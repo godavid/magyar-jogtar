@@ -652,6 +652,10 @@ tűrésére, és ennek érdekében az elosztóval történő együttműködésre
 
 (2) A 714/2009/EK rendelet 17. cikk (1) bekezdésének f) pontjában meghatározott feltétel nem teljesül különösen abban az esetben, ha a kérelmező olyan integrált villamosenergia-ipari vállalkozás tagja, amelynek valamely tagját a Hivatal jelentős piaci erővel rendelkező engedélyesként azonosította.
 
+### Mentesítés a hozzáférési szabályok alkalmazása alól
+
+11/A. § A Hivatal által a VET 37. § (1) bekezdése szerinti hatáskörben folytatott eljárás során – a rendszerösszekötő vezetékre vonatkozó mentesítési kérelem elbírálásának elősegítése céljából – az átviteli rendszerirányító köteles a Hivatal részére a közcélú hálózattal kapcsolatosan véleményt adni. Az átviteli rendszerirányító véleményéről a Hivatalt annak megkeresésétől számított 30 napon belül tájékoztatja.
+
 ### V. Fejezet — KÖZVETLEN VEZETÉK, MAGÁNVEZETÉK
 
 38. § (1) Saját üzleti kockázatára bárki létesíthet közvetlen vezetéket saját maga vagy kapcsolt vállalkozásainak villamos energia ellátása céljából, köteles azonban előzetesen az e törvényben meghatározott engedélyt megszerezni. A közvetlen vezeték üzemeltetője üzemzavar vagy válsághelyzet esetén köteles az engedélyesekkel együttműködni, és a hálózati engedélyes utasításait végrehajtani.
@@ -1665,33 +1669,36 @@ működtetésére vonatkozó engedély
 
 ### Egyes cégjogi eseményekre vonatkozó közös szabályok
 
-92. § (1) Az engedélyes vállalkozásnak Ptk. gazdasági társaságokra vonatkozó rendelkezéseinek megfelelő szétválásához (különváláshoz, kiváláshoz), más vállalkozással történő egyesüléséhez (beolvadáshoz, összeolvadáshoz), jogutód nélküli megszűnéséhez, alaptőkéjének, illetve törzstőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együttesen: cégjogi esemény) a Hivatal hozzájáruló határozata is szükséges. A cégjegyzékbe való bejegyzésre (változásbejegyzésére) irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt lehet benyújtani. A Hivatal nem tagadhatja meg az alaptőke, illetve törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára külön jogszabály kötelezővé teszi.
+92. § (1) Az engedélyesnek a Ptk. rendelkezései szerinti szétválásához, más vállalkozással történő egyesüléséhez, átalakulásához, jogutód nélküli megszűnéséhez, jegyzett tőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) a Hivatal előzetes hozzájáruló határozata szükséges.
 
-(2) Az (1) bekezdés szerinti egyesülés (beolvadás, összeolvadás) esetén a Hivatal által kiadott engedélyek vonatkozásában a Ptk. 3:39. § (1) bekezdésében foglaltak nem alkalmazhatók.
+(2) A cégjogi eseménnyel összefüggésben a cégjegyzékbe való bejegyzésre vagy változásbejegyzésére irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt kell benyújtani. A Hivatal nem tagadhatja meg a jegyzett tőke leszállításához való hozzájárulást, ha azt az engedélyes számára jogszabály kötelezővé teszi.
 
-(3) Az (1) bekezdés szerinti cégjogi esemény nem igényli a Hivatal (1) bekezdés szerinti hozzájáruló határozatát
+(3) A cégjogi esemény nem igényli a Hivatal (1) bekezdés szerinti hozzájáruló határozatát
 
-- a) kiserőművi összevont engedélyes esetében,
-- b) magánvezeték engedélyese esetében vagy
-- c) közvetlen vezeték engedélyese esetében.
+- a) a kiserőművi összevont engedélyes,
+- b) a magánvezeték engedélyese,
+- c) a közvetlen vezeték engedélyese,
+- d) a töltőállomás-üzemeltető és
+- e) a felhasználót el nem látó villamosenergia-kereskedő
+
+esetében.
 
 (4) Az átviteli rendszerirányítói, elosztó hálózati, egyetemes szolgáltatói, szervezett villamosenergia-piaci engedélyes esetében a Ptk. 3:49. § (1) bekezdésében és 3:50. §-ában meghatározott uralmi szerződés nem köthető, és az ilyen szerződés semmis, továbbá ezen engedélyesekre nem alkalmazható a Ptk. 3:62. §-a.
 
-93. § (1) A szerző fél köteles a Hivatalnak haladéktalanul bejelenteni, ha bármely villamosenergia-ipari vállalkozásban a közvetlenül és közvetve birtokolt, szavazati jogot biztosító részvényének, üzletrészének, szavazati jogának vagy közvetlen és közvetett befolyásának aránya eléri vagy meghaladja a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 61. § (3) bekezdésében meghatározott mértéket. A Hivatal köteles a bejelentés tudomásulvételét a bejelentést, információ kérés esetén pedig a Hivatal által kért információk megérkezését követő naptól számított negyven napon belül visszaigazolni. A szavazati jogra, a közvetett befolyásra, a befolyásszerzésre, azok mértékére, az összehangoltan eljáró személyekre és a bejelentés tartalmára vonatkozóan a Tpt. rendelkezéseit kell megfelelően alkalmazni.
+93. § (1) A befolyásszerző – a (2) bekezdés szerinti esetek kivételével – köteles haladéktalanul a Hivatal tudomásulvételét kérni, ha bármely villamosenergia-ipari vállalkozásban a közvetlenül és közvetve birtokolt, szavazati jogot biztosító részvényének, üzletrészének vagy szavazati jogának aránya eléri vagy meghaladja az öt, tíz, tizenöt, húsz, huszonöt, harminc, harmincöt, negyven, negyvenöt, ötven, hetvenöt, nyolcvan, nyolcvanöt, kilencven, kilencvenegy, kilencvenkettő, kilencvenhárom, kilencvennégy, kilencvenöt, kilencvenhat, kilencvenhét, kilencvennyolc, kilencvenkilenc százalékot, vagy eléri a száz százalékot (a továbbiakban együtt: befolyásszerzés).
 
-(2) Bármely villamosenergia-ipari vállalkozásban a szavazatok 25%-át, 50%-át vagy 75%-át meghaladó szavazati jog vagy befolyás szerzéséhez és az ehhez fűződő jogok gyakorlásához a Hivatal előzetes hozzájárulása is szükséges.
+(2) Bármely villamosenergia-ipari vállalkozásban a szavazatok huszonöt, ötven vagy hetvenöt százalékát meghaladó, valamint száz százalékát elérő közvetlen befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához a Hivatal előzetes hozzájárulása szükséges.
 
-(2a) Nem kell a Hivatal előzetes hozzájárulása a (2) bekezdésben foglaltak szerint jóváhagyott mértékek elérését követően mindaddig, amíg az újabb befolyásszerzéssel a befolyást szerző el nem éri a Hivatal előzetes hozzájárulásához kötött (2) bekezdés szerinti következő mértéket. Az (1) bekezdésben meghatározott bejelentési kötelezettség alól a befolyást szerző azonban nem mentesül.
+(2a) Nem kell a Hivatal előzetes hozzájárulása a (2) bekezdésben foglaltak szerint jóváhagyott mértékek elérését követően mindaddig, amíg az újabb befolyásszerzéssel a befolyásszerző el nem éri a Hivatal előzetes hozzájárulásához kötött (2) bekezdés szerinti következő mértéket, az (1) bekezdésben meghatározott tudomásulvétel kérése iránti kötelezettség alól azonban a befolyásszerző nem mentesül.
 
 (3) Az (1)–(2a) bekezdésében meghatározottak vonatkoznak az e törvény hatálya alá tartozó villamosenergia-ipari vállalkozások és a Get. hatálya alá tartozó földgázipari vállalkozások közötti befolyásszerzésre is.
 
-(4) Az (1) bekezdés szerinti bejelentés nem alkalmazandó a közvetlen vezeték engedélyesére, a magánvezeték engedélyesére és a töltőállomás-üzemeltetőre, továbbá a (2) bekezdés szerinti befolyásszerzés nem igényli a Hivatal előzetes hozzájárulását a következő esetekben:
+(4) Nem kell alkalmazni
 
-- a) kiserőművi összevont engedélyes esetében,
-- b) magánvezeték engedélyese esetében,
-- c) közvetlen vezeték engedélyese esetében,
-- d) a töltőállomás-üzemeltető esetében,
-- e) villamosenergia-tárolói engedélyes esetében.
+- a) a közvetlen vezeték engedélyesére, a magánvezeték engedélyesére és a töltőállomás-üzemeltetőre az (1) és (2) bekezdés,
+- b) a kiserőművi összevont engedélyesre, valamint a felhasználót el nem látó villamosenergia-kereskedelmi engedélyesre a (2) bekezdés
+
+rendelkezéseit.
 
 (5) Villamos energia termelésével, földgáz kitermelésével vagy villamos energia vagy földgáz kereskedelmével foglalkozó vállalkozás, valamint az ilyen vállalkozásokban irányítást gyakorló részvényes az átviteli rendszerirányítóban vagy annak irányító részvényesében sem közvetlenül, sem közvetetten nem szerezhet irányítást biztosító részesedést. Az átviteli rendszerirányítóban, illetve annak irányító részvényesében irányítást biztosító részesedésszerzéshez a Hivatal előzetes hozzájárulása is szükséges. E rendelkezés nem érinti a 102. § (1) bekezdésében rögzített rendelkezést.
 
@@ -1734,6 +1741,12 @@ esetében.
 (2a) A Hivatal megtagadja a 93. § (5) és (6) bekezdésében meghatározott jogügylet jóváhagyását, ha a tanúsítási eljárásban azt állapította meg, hogy a jogügylet végrehajtása eredményeként az átviteli rendszerirányító nem felelne meg a rá vonatkozó szétválasztási szabályoknak, vagy azt, hogy a jogügylet megvalósítása veszélyeztetné az ország vagy az Európai Unió más tagállam energiaellátásának biztonságát.
 
 (3) A 93. § (1) bekezdése szerinti részesedésszerzés bejelentésének elmulasztása vagy tudomásulvételt kimondó visszaigazolás hiánya esetén, a 92. § (1) bekezdésben, valamint a 93. § (2), (5) és (6) bekezdésében meghatározott hozzájáruló határozat hiányában a szerző fél a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, a részvénykönyvbe nem jegyezhető be, vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal jóváhagyását igazoló dokumentummal együtt lehet benyújtani.
+
+(4) Cégjogi esemény esetén az érintett engedélyes, továbbá befolyásszerzés esetén a befolyásszerző a cégjogi eseményt, valamint a befolyásszerzést bejegyző cégbírósági végzés jogerőre emelkedésétől számított 8 napon belül kezdeményezi a Hivatalnál az előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzését.
+
+(5) Cégjogi esemény esetén a (4) bekezdés szerinti megfelelés ellenőrzés kezdeményezésével egyidejűleg, továbbá befolyásszerzés esetén – ha a befolyásszerzés az engedélyes működési engedélyét érinti – az érintett engedélyes kezdeményezi a Hivatalnál az engedély módosítását vagy új engedély kiadását. Az engedély módosításáig vagy az új engedély kiadásáig az engedély vonatkozásában a jogutódlás szabályai alkalmazandóak. A Hivatal az engedély módosításáról vagy új engedély kiadásáról külön eljárás keretében dönt.
+
+(6) A 92–95. §-ban meghatározottak megszegése, vagy az előírt kötelezettségek elmulasztása esetén a Hivatal az engedélyessel szemben az e törvényben meghatározott jogkövetkezményeket alkalmazhatja, valamint a befolyásszerzővel szemben bírságot szabhat ki.
 
 ### Az engedély megszegése
 
@@ -2158,79 +2171,60 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 ### XIII. Fejezet — A VILLAMOSENERGIA-PIACI VERSENY ELŐSEGÍTÉSE
 
-106. § A Hivatal vizsgálja a villamosenergia-nagykereskedelmi piacon kialakuló ajánlati és ügyleti árakat, és elemzi ezen árak kialakulásának okait. A vizsgálat lefolytatása érdekében a Hivatal tájékoztatást kérhet az e törvény szerinti engedélyesektől a villamosenergia-nagykereskedelmi ügyleteikben, ajánlataikban érvényesülő árakról, ezen árak kialakítására alapot adó információkról, körülményekről, összefüggésekről. A megküldött adatokat a Hivatal – az üzleti titoknak minősülő adatok bizalmas kezelése mellett – kizárólag a nagykereskedelmi piac működéséről és aktuális helyzetéről készített elemzéshez használhatja fel.
+### A villamosenergia-piacok nyomon követése
 
-107. § (1) A Hivatal a hatásos piaci verseny elősegítése, a piaci erőfölénnyel való visszaélés egyes formáinak megelőzése, valamint a felhasználók érdekeinek a védelme céljából piacelemzést végez
+106. § (1) A Hivatal a hatékony és fenntartható verseny előmozdítása és fenntartása érdekében nyomon követi a villamosenergia-piacokat.
 
-- 1. a villamos energia nagykereskedelem piacain,
-- 2. a villamos energia kiskereskedelem piacain,
-- 3. a rendszerszintű szolgáltatások nyújtását biztosítani hivatott teljesítmény és energia piacain.
+(2) A nyomon követés keretében a Hivatal elemzi a rendelkezésére álló adatokat, továbbá jogosult
 
-(2) Amennyiben a piacelemzés alapján az azonosított valamely piacon a verseny nem kellően hatékony, a Hivatal jelentős piaci erővel rendelkező engedélyesként azonosíthatja azt az engedélyest, amelyik egyedül vagy más piaci szereplővel közösen piaci erőfölényben, azaz olyan piaci helyzetben van, amely lehetővé teszi, hogy tevékenységét a versenytársaitól, valamint a felhasználóktól nagymértékben függetlenül folytassa.
+- a) adatot, információt, tájékoztatást kérni az engedélyestől, az engedélyes alkalmazásában álló személyektől;
+- b) betekinteni az engedélyes birtokában lévő iratokba, azokról másolatot, kivonatot készíteni;
+- c) helyszíni vizsgálatot folytatni az engedélyesnél;
+- d) olyan, engedélyesnek nem minősülő vállalkozástól adatot, tájékoztatást kérni, amelynél a piacok nyomon követéséhez szükséges adat megtalálható.
 
-(3) A jelentős piaci erő megállapítása során a Hivatal figyelembe veszi:
+(3) Ha a (2) bekezdés alapján megkeresett engedélyes vagy engedélyesnek nem minősülő vállalkozás nem működik együtt a Hivatallal, a Hivatal a Vhr.-ben meghatározott mértékű bírságot szab ki. A bírság ismételten is kiszabható.
 
-- a) az engedélyesnek az adott piac földrajzi területén, illetve a kapcsolódó piacokon való jelenlétét, amennyiben az adott érintett piac és a kapcsolódó piac közötti kapcsolatból eredően az engedélyes az egyik piacon fennálló gazdasági erejét átviheti a másik piacra, és ezzel gazdasági erejét erősítheti,
-- b) az engedélyes méretét és piaci részesedését az adott piacon,
-- c) az engedélyes és az általa a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény szerint irányított vállalatok, vagy az őt irányító vállalat, illetőleg az engedélyest irányító vállalat által irányított vállalatok tevékenységi körét, a vertikális integrációt és az azonosított piacok kapcsolódási sajátosságait, a termékdiverzifikációt, valamint a csomagban értékesíthető termékek, szolgáltatások körét,
-- d) a piacralépési korlátokat és a növekedési és terjeszkedési korlátokat,
-- e) a kiegyenlítő vásárlóerő hiányát vagy alacsony szintjét,
-- f) a lehetséges verseny hiányát,
-- g) a méret- és tevékenység-gazdaságosságot,
-- h) a kereslet és kínálat viszonyát.
+### Jelentős piaci erő eljárás
 
-(4) A piacok területi meghatározására, valamint a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és a 110–111. §-ok szerinti kötelezettségek tartalmára, alkalmazási feltételeire vonatkozó előírásokat külön jogszabály tartalmazza.
+107. § (1) A Hivatal jelentős piaci erő eljárást folytat le, ha olyan körülmény jut a tudomására, amely arra utal, hogy a verseny valamely piacon azért nem kellően hatékony, mert az adott piacon egy vagy több piaci szereplő olyan piaci erőfölénnyel bír, vagy a piaci folyamatok alapján a jövőben olyan piaci erőfölénnyel bírhat, amely alkalmas a versenyt akadályozó, korlátozó vagy torzító magatartás kifejtésére.
 
-(5) E fejezet alkalmazásában:
+(2) A Hivatal a lefolytatott jelentős piaci erő eljárás alapján a jelentős piaci erővel rendelkező engedélyesre vagy az érintett piac valamennyi engedélyesére olyan indokolt és arányos mértékű kötelezettséget szab ki, amely előmozdítja a hatékony verseny kialakulását és fenntartását. Ilyen kötelezettség lehet különösen:
 
-- a) villamos energia nagykereskedelem az olyan kereskedelem, amelynek során villamos energiát nem közvetlenül a felhasználónak értékesítenek,
-- b) villamos energia kiskereskedelem az olyan kereskedelem, amelynek során villamos energiát közvetlenül a felhasználónak értékesítenek,
-- c) a rendszerszintű szolgáltatások nyújtását biztosítani hivatott teljesítmény és energia piaca az olyan kereskedelem, amelynek során teljesítőképességet, illetve villamos energiát közvetlenül az átviteli rendszerirányítónak értékesítenek.
+- a) nyilvános és átlátható módon történő értékesítésnek;
+- b) árkorlát alkalmazásának;
+- c) költségalapú árképzésnek;
+- d) ajánlatadási kötelezettségnek;
+- e) megkülönböztetésmentes szerződési feltételek alkalmazásának
 
-108. § A Hivatal az azonosított jelentős piaci erővel rendelkező engedélyesekre a 110–111. §-ok és a külön jogszabály rendelkezései szerint meghatározott kötelezettségek közül az adott piacon a kellően hatásos és fenntartható verseny kialakulásának elősegítéséhez és a felhasználói érdekek védelméhez igazodó, indokolt és arányos mértékű kötelezettséget vagy kötelezettségeket ír elő.
+előírása.
 
-109. § (1) A Hivatal a piacelemzést az érintett piacokon szükség szerint, de legalább az előző piacelemzési eljárás befejezését követő három éven belül ismételten elvégzi.
+(3) A Hivatal a jelentős piaci erő eljárásokban együttműködik a Gazdasági Versenyhivatallal.
 
-(2) Amennyiben valamely érintett piacon fennálló verseny megítélése szempontjából jelentős körülmény jut tudomására, a Hivatal a piacelemzést haladéktalanul lefolytatja.
+(4) Az e fejezet alapján lefolytatott eljárások nem érintik a Gazdasági Versenyhivatal jogszabályban meghatározott hatásköreit.
 
-(3) A piacelemzés lefolytatását az adott érintett piacon engedéllyel rendelkező piaci szereplő is kérelmezheti, amennyiben az adott piacon a verseny körülményei a legutolsó piacelemzés óta lényegesen és alapvetően megváltoztak, valamint a Hivatal legutolsó vonatkozó határozatának meghozatala óta legalább egy év eltelt.
+108. § (1) Ha a Hivatal megállapítja a jelentős piaci erő eljárásban kiszabott kötelezettség megsértését, akkor a Vhr.-ben meghatározott mértékű bírságot szab ki és szükség esetén felszólítja az engedélyest a jogszerű állapot helyreállítására.
 
-(4) A (3) bekezdésben foglalt kérelem elbírálásakor a Hivatal értékeli a piacelemzés lefolytatásának szükségességét, valamint erre vonatkozóan véleményt kér a Gazdasági Versenyhivataltól.
+(2) Ha a kötelezett a kötelezettségét a bírság kiszabása ellenére továbbra sem teljesíti, a bírság ismételten kiszabható.
 
-110. § (1) A Hivatal a 107. § (1) bekezdés szerinti piacokon a jelentős piaci erővel rendelkező engedélyes számára a hatékony és a fenntartható verseny előmozdítása, valamint a felhasználói érdekek védelme érvényesítéséhez szükséges mértékben
+(3) Ha a bírság ismételt kiszabása ellenére sem teljesíti a kötelezett a kötelezettségét, akkor a Hivatal visszavonhatja az engedélyét.
 
-- a) átlátható működést biztosító kötelezettségeket írhat elő, amely meghatározott információk, így különösen számviteli és műszaki információk, értékesítési szerződések meghatározott adatai, a szolgáltatás nyújtásának és igénybevételének feltételei, valamint az árak nyilvánosságra hozatalára vonatkozik,
-- b) az engedélyes azonos jellegű ügyletei tekintetében, az egyenlő elbánás biztosítására vonatkozó kötelezettségeket írhat elő, különösen a szerződések lényeges tartalmi elemei körében alkalmazott indokolatlan megkülönböztetéstől való tartózkodást, ideértve olyan árak, fizetési határidők, megkülönböztető eladási vagy vételi feltételek vagy módszerek alkalmazását, amelyek egyes üzletfeleknek hátrányt okoznak a versenyben, valamint a szerződéskötés olyan kötelezettségek vállalásától történő függővé tételét, amelyek természetüknél fogva, illetve a szokásos szerződési gyakorlatra figyelemmel nem tartoznak a szerződés tárgyához,
-- c) amennyiben a hatékony verseny hiánya azt eredményezheti, hogy az érintett engedélyes indokolatlanul magas vagy alacsony díjakat alkalmazhat, árkorlátok vagy költségalapú árképzés alkalmazására vonatkozó kötelezettséget írhat elő, melynek során költségszámítási és díjképzési módszer alkalmazását, illetve a díjak ellenőrizhetőségének feltételeit is meghatározhatja. A költségalapú árképzés alkalmazására vonatkozó kötelezettségek kezdeményezésénél és meghatározásánál figyelembe kell venni az engedélyesi tevékenység végzésével összefüggésben felmerült indokolt költségeket, befektetéseket, és biztosítani kell ezek méltányos megtérülését. A 111. § (5) bekezdése szerinti ajánlattételi kötelezettség kivételével árkorlát vagy költségalapú árképzés alkalmazására vonatkozó kötelezettséget a Hivatal termelői engedélyesnek nem írhat elő.
+(4) Nem indítható eljárás jelentős piaci erő eljárásban kiszabott kötelezettség megszegésének megállapítására, ha a kötelezettség megszegésétől számított öt év eltelt.
 
-(2) Az (1) bekezdés c) pontja szerinti kötelezettség esetén a kötelezett engedélyes a Hivatal határidő kitűzésével tett felhívására köteles tájékoztatást adni az (1) bekezdés c) pontjában meghatározott kötelezettségeinek teljesítésére vonatkozó adatokról.
+#### 109. §
 
-111. § (1) A 107. § (1) bekezdés 1. pontja szerinti piacokon jelentős piaci erővel rendelkező engedélyes számára a Hivatal meghatározott mértékű villamos energia nyilvános és átlátható módon történő értékesítését írja elő, amelyre nyilvános aukción, szervezett villamosenergia-piacon és villamos energiához kapcsolódó származtatott ügylettel kereskedést biztosító, a tőkepiacról szóló 2001. évi CXX. törvény szerinti szabályozott piacon keresztül történő értékesítés keretében kerülhet sor.
+#### 110. §
 
-(2) A Hivatal a 107. § (1) bekezdés 2. pontja szerinti piacon jelentős piaci erővel rendelkező engedélyesnek előírja az átláthatóság biztosítása érdekében a határozatában foglaltaknak megfelelő bontású és részletezettségű – így különösen a szolgáltatási árat, a fizetési formákat, valamint adott esetben a szolgáltató-váltáshoz kapcsolódó ügyintézési kötelezettségeket tartalmazó – mintaajánlat készítését. A mintaajánlat készítésére köteles engedélyes a jogszabályban meghatározott, illetve a piacelemzést követően a Hivatal által meghatározott feltételekkel közzétett mintaajánlatához annak hatálya alatt kötve van, attól a másik szerződő fél beleegyezésével sem térhet el.
+#### 111. §
 
-(3) A Hivatal a 107. § (1) bekezdés 1. és 2. pontja szerinti piacon jelentős piaci erővel rendelkező engedélyes számára a 110. § (1) bekezdés c) pontjának megfelelően előírt kötelezettség céljának elérése érdekében megtilthatja
+#### 112. §
 
-- a) az engedélyesnek az Szt. törvény szerinti kapcsolt vállalkozása versenyhelyzetének javítása érdekében a kapcsolt vállalkozás versenytársaival szemben indokolatlanul magas árak alkalmazását,
-- b) a versenytársak piacra lépését vagy a versenyt akadályozó, nem a versenytársakéhoz viszonyított nagyobb hatékonyságon alapuló, indokolatlanul alacsony árak alkalmazását,
-- c) az egyes felhasználók indokolatlan megkülönböztetését, vagy
-- d) az indokolatlan árukapcsolás alkalmazását.
+113. § (1)
 
-(4) A 107. § (1) bekezdés 1. és 2. pontja szerinti piacon jelentős piaci erővel rendelkező engedélyesnek, amennyiben az engedélyes vertikálisan integrált villamosenergia-ipari vállalkozás tagja, a 101. § szerinti szétválasztási kötelezettségeken túl a Hivatal előírhatja az integrált villamosenergia-ipari vállalkozás olyan belső átszervezését, hogy az engedélyesnek ne legyen részesedése átviteli rendszerirányítóban, illetve elosztóban.
-
-(5) A Hivatal a 107. § (1) bekezdés 3. pontja szerinti piacon jelentős piaci erővel rendelkező engedélyesnek az átviteli rendszerirányító ezirányú felhívása esetére vonatkozó költségalapú árképzés melletti ajánlattételi kötelezettséget ír elő.
-
-112. § (1) A 107. § szerinti piacelemzés elvégzésével kapcsolatban a jelentős piaci erővel rendelkező engedélyesek azonosításával és a rájuk vonatkozó kötelezettségek előírásával kapcsolatos eljárások során a Hivatal a versenyhatósággal együttműködik, szakmai álláspontját tartalmazó véleményét figyelembe veszi, ha attól eltér, annak indokait a határozat indokolásában megjelöli.
-
-(2) A 107–111. §-ban és a 107. § (4) bekezdése szerinti külön jogszabályban foglaltak alkalmazásáról a Hivatal a versenyhatósággal együttműködve a piacelemzés elvégzését legalább 2 hónappal megelőzően minden alkalommal módszertani útmutatót ad ki. Ha az ismételt piacelemzés elvvégzésére a 109. § (3) bekezdése szerinti kérelem alapján kerül sor, a Hivatal a módszertani útmutatót indokolt esetben a piacelemzés megkezdésével egyidejűleg is kiadhatja.
-
-113. § (1)–(2)
+(2)
 
 (3)
 
-114. § (1) A Hivatal e fejezet szerinti ügyben hozott határozatát megtámadó keresetlevelet a határozat közlésétől számított 15 napon belül kell benyújtani.
-
-(2) A Hivatal a keresetlevelet a beérkezésétől számított 5 napon belül továbbítja a bíróságnak.
+#### 114. §
 
 ### XIII/A. Fejezet — A NAGYKERESKEDELMI ENERGIAPIACOK INTEGRITÁSÁVAL ÉS ÁTLÁTHATÓSÁGÁVAL ÖSSZEFÜGGŐ FELADATOK
 
@@ -3008,13 +3002,16 @@ villamos energia képezi.
 
 ### A Hivatal gazdálkodása
 
-161. § (1)–(2)
+161. § (1) A Hivatal részére felügyeleti tevékenységéért az engedélyes felügyeleti díjat köteles fizetni, amelynek éves mértéke az engedélyes tevékenységéből származó előző évi nettó árbevételének 0,075%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt vagy nem teljes évre vonatkozóan volt nettó árbevétele, akkor éves felügyeleti díj előleget fizet, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,075%-a. Amennyiben a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,075%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
 
-(3) A Hivatal részére felügyeleti tevékenységéért az engedélyesek felügyeleti díjat kötelesek fizetni, amelynek mértéke az engedélyes tevékenysége előző évi nettó árbevételének 0,06%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt nettó árbevétele, vagy nem volt teljes évre vonatkozó nettó árbevétele, akkor éves felügyeleti díj előleget kell fizetni, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,06%-a. Amennyiben a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,06%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
+(2) A Hivatal felügyeleti tevékenységéért az 500 kW alatti névleges teljesítőképességű, kötelező átvételi vagy prémium típusú támogatással rendelkező termelő a jogosultságot megállapító határozat véglegessé válásának évében és ezt követően évente a Hivatal számára ötvenezer forint felügyeleti díjat fizet.
 
-(4)–(5)
+(3) Az az engedélyes, amely az éves beszámolóját az Szt. 9/A. §-a alapján az IFRS-ek szerint készíti el, a felügyeleti díj meghatározása során az engedélye alapján végzett tevékenységéből származó előző évi nettó árbevételét a Helyi adó tv. 40/B. § és 40/C. §-a alapján állapítja meg azzal, hogy:
 
-(6)–(7)
+- a) a megállapított nettó árbevételből az engedélye alapján végzett tevékenységéből származó összeget nem csökkentheti a Helyi adó tv. 40/C. § (3) bekezdés a)–c) pontjában felsorolt tételekkel, és
+- b) a számviteli politika változása esetén a változás évét követő év felügyeleti díjalapját növeli azzal az összeggel, amellyel alacsonyabb, vagy csökkenti azzal az összeggel, amellyel nagyobb felügyeleti díjalap adódik a számviteli politika változás eredményeként ahhoz képest, mintha az engedélyes a számviteli politikáját nem változtatta volna meg.
+
+(4) Az engedélyes az első olyan évet követő év felügyeleti díjalapját, amelyről éves beszámolóját a Szt. 9/A. §-a alapján az IFRS-ek szerint készíti, az évet megelőzően folytatott ügyletekből fakadó tranzakciókhoz kapcsolódóan növeli azzal az összeggel, amellyel alacsonyabb, vagy csökkenti azzal az összeggel, amellyel nagyobb felügyeleti díjalap adódik ahhoz képest, mintha az engedélyes az IFRS-ek szerinti beszámoló készítésére nem tért volna át.
 
 ### A HIVATAL KAPCSOLATA MÁS SZERVEKKEL, NEMZETKÖZI EGYÜTTMŰKÖDÉS ÉS KAPCSOLAT AZ EURÓPAI UNIÓ SZERVEIVEL
 
@@ -3463,6 +3460,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 (3) Az átviteli rendszerirányító 2019. március 31-ig gondoskodik a 147. § (1) bekezdés a) pontja szerinti elkülönített számlán lévő pénzeszköz maradványának a 147. § (1) bekezdés c) pontja szerinti elkülönített számlára történő átvezetéséről.
 
 (4) A (3) bekezdés szerinti átvezetést követően a 147. § (1) bekezdés a) pontja szerinti pénzeszköz megszüntetéséhez kapcsolódó utólagos elszámolásokat a 147. § (1) bekezdés c) pontja szerinti elkülönített számlával szemben kell végrehajtani.
+
+(5) E törvénynek a Mód. 4. törvénnyel megállapított 161. §-át első alkalommal a 2019. évi felügyeleti díjbevallás során – a 2018. évi árbevételre vonatkozóan – kell alkalmazni.
 
 178/P. § E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 67. §-ával megállapított 116. § (3) bekezdés e) pontját e rendelkezés hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.
 

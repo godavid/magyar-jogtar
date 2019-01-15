@@ -1154,26 +1154,22 @@ meghatározott közfeladatokat látja el.
 
 66. § (1) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki a halgazdálkodásra jogosulttal szemben, ha
 
-- a) a halgazdálkodási terv szerinti kötelezettségének a halgazdálkodási hatóság figyelmeztetése ellenére nem tesz eleget;
+- a) a halgazdálkodási terv benyújtására vonatkozó, vagy a halgazdálkodási terv szerinti kötelezettségének a halgazdálkodási hatóság figyelmeztetést tartalmazó döntésében történő felhívás ellenére nem tesz eleget;
 - b) a halgazdálkodási tervtől engedély nélkül eltér;
-- c) a halgazdálkodási hatóság hozzájárulása nélkül olyan fajú vagy korosztályú halat telepít, amelyet jogszabály tilt vagy a halgazdálkodási terv nem tartalmaz, ha egyidejűleg az 52. § (3) bekezdésben foglalt valamely intézkedésre is sor került;
+- c) a halgazdálkodási hatóság hozzájárulása nélkül olyan fajú vagy korosztályú halat telepít, amelyet jogszabály tilt vagy a halgazdálkodási terv nem tartalmaz, vagy ha az 52. § (3) bekezdésben foglalt valamely intézkedésre sor került;
 - d) megsérti a hal és élőhelyének védelmére vonatkozó, e törvényben foglalt előírásokat;
-- e) nyilvántartási és adatszolgáltatási kötelezettségének nem tesz eleget;
+- e) nyilvántartási és adatszolgáltatási kötelezettségének hiánypótló felszólításra sem tesz eleget;
 - f) állami horgászjeggyel, turista állami horgászjeggyel, állami halászjeggyel nem rendelkező személy számára területi jegyet ad;
 - g) megszegi a hivatásos halőrök alkalmazásával és bejelentésével kapcsolatos előírásokat;
 - h) a 10. § (3) bekezdés szerint előírt kötelezettségének teljesítését a határozat kézhezvételétől számított 60 napon belül nem kezdi meg.
 
 (2) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki a halgazdálkodási vízterülettel érintett ingatlan tulajdonosára, használójára, ha a halgazdálkodási szolgalmi jog gyakorlását jelentős mértékben akadályozza.
 
-(3) A (2) bekezdés alkalmazásában jelentős mértékűnek minősül az akadályozás, ha az
+(3) A (2) bekezdés alkalmazásában jelentős mértékűnek minősül az akadályozás, ha a halőrzéssel, a haltelepítéssel, a halállomány védelmével kapcsolatos feladatok ellátását akadályozza, illetve az arra egyébként jogosult személy horgászatát akadályozza.
 
-- a) a halászati őrzéssel,
-- b) a haltelepítéssel, vagy
-- c) a halállomány védelmével
+(4) A halgazdálkodási hatóság halgazdálkodási bírságot szab ki arra a halgazdálkodásra nem jogosult természetes vagy jogi személyre, aki halgazdálkodási vízterületen halgazdálkodási tevékenységet folytat, ideértve különösen a horgászat lehetővé tételét állami horgászjegy és horgász fogási napló vagy turista állami horgászjegy és fogási napló nélkül, továbbá a jogosulatlan haltelepítést.
 
-kapcsolatos feladatok ellátását akadályozza.
-
-(4) A halgazdálkodási bírság legkisebb összege ötvenezer forint, legmagasabb összege ötmillió forint.
+(5) A halgazdálkodási bírság legkisebb összege ötvenezer forint, legmagasabb összege ötmillió forint.
 
 67. § (1) A halgazdálkodási hatóság halvédelmi bírságot szab ki
 
@@ -1194,6 +1190,11 @@ kapcsolatos feladatok ellátását akadályozza.
 - o) az e törvény végrehajtására kiadott rendeletben foglaltnál nagyobb testhosszúságú, jogszerűen kifogott halat a vízpartról nem leölve elszállító,
 - p) a kifogott halat korábban kifogottal kicserélő,
 - q) az e törvény végrehajtására kiadott rendeletben foglalt meghatározás szerint kívülről akasztott halat megtartó
+- r) a halgazdálkodási hatóság által jóváhagyott hatályos halgazdálkodási tervben meghatározott – az adott halgazdálkodási vízterület specifikus adottságainak megfelelően kialakított – helyi horgászrendi előírásokat megsértő,
+- s) nem nyilvántartott halgazdálkodási vízterületbe halat telepítő,
+- t) a 34. §-ban foglalt kötelezettséget megszegő,
+- u) nem nyilvántartott halgazdálkodási vízterületre területi jegyet kiadó, ott horgászatot engedélyező, vagy onnan térítés nélkül vagy térítésért őshonos halfaj elvitelét engedélyező,
+- v) a 21. § (1a) bekezdésében meghatározott tilalmat megszegő
 
 személlyel szemben.
 
@@ -1204,6 +1205,10 @@ személlyel szemben.
 (4) A halgazdálkodási hatóság halvédelmi bírságot szab ki az igazolatlan eredetű, nem nyomon követhető halat, halterméket vagy más hasznos víziállatot forgalmazó természetes vagy jogi személlyel szemben.
 
 (5) A halgazdálkodási hatóság halvédelmi bírságot szab ki a 38. § (2) bekezdése alapján kiadott halászati engedély 38. § (3) bekezdésében meghatározott rendelkezését megsértő természetes személlyel vagy jogi személlyel szemben.
+
+(6) A halgazdálkodási hatóság az általa kiszabott halvédelmi bírság fizetési kötelezettségének teljesítése érdekében a halvédelmi bírság megfizetésére kötelezett részére fizetési halasztást vagy részletekben történő teljesítést (a továbbiakban együtt: fizetési könnyítés) engedélyezhet, amennyiben a kötelezett a teljesítési határidő lejárta előtt fizetési könnyítést kérelmez, továbbá a fizetési nehézség a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható.
+
+(7) A fizetési kedvezményről szóló döntéssel szemben közigazgatási per kezdeményezhető.
 
 68. § (1) A halgazdálkodási bírság, halvédelmi bírság mértékét az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre – tekintettel kell meghatározni.
 

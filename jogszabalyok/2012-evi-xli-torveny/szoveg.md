@@ -388,21 +388,22 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (7) Az autóbuszos közúti személyszállítási szolgáltatási piac összehangolt felügyelete érdekében az autóbuszos hatóság, a vasúti igazgatási szerv, valamint a hajózási hatóság egymással együttműködik.
 
-15/A. § (1) Az autóbuszos hatóság részére a piac felügyeletével kapcsolatos tevékenységéért az autóbusszal közúti személyszállítási szolgáltatásokat végző közlekedési szolgáltatók, továbbá a közlekedésszervező az autóbuszos személyszállítási tevékenységének a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladataihoz kapcsolódóan piacfelügyeleti díjat fizetnek.
+15/A. § (1) Az autóbuszos hatóság részére a piac felügyeletével kapcsolatos tevékenységéért az autóbusszal díj ellenében közúti személyszállítási tevékenységet végző közlekedési szolgáltató piacfelügyeleti díjat fizet.
 
-(2) A piacfelügyeleti díj mértéke az előző évi autóbusszal végzett közúti személyszállítási szolgáltatások vagy a közlekedésszervező által az autóbuszos személyszállítási tevékenységhez kapcsolódóan a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladatai teljesítéséből származó nettó árbevétel 0,1%-a. Előző évi nettó árbevétel hiányában a piacfelügyeleti díjat a tárgyidőszakban tényleges árbevétel alapján kell megfizetni.
+(2) A piacfelügyeleti díjat a tárgyévet megelőző év december 31-én érvényes – a közlekedési hatóság által kiadott tevékenység végzésére feljogosító autóbuszos személyszállító engedélyben (tevékenységi engedély) – feltüntetett, az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató által üzemeltethető autóbuszok után kell megfizetni. A díj mértékét az 1. melléklet tartalmazza.
+
+(2a) A piacfelügyeleti díjat az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató arra a naptári évre is megfizeti, amely naptári évben az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató a tevékenységét megszünteti vagy szünetelteti, továbbá, amely naptári évben a közlekedési hatóság az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató tevékenységi engedélyét felfüggesztette vagy visszavonta.
 
 (3) A piacfelügyeleti díj meg nem fizetése vagy késedelmes teljesítése esetén az esedékesség napjától a teljesítés napjáig késedelmi pótlékot kell fizetni. A késedelmi pótlék mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének háromszázhatvanötöd része.
 
-(4) A felügyeleti díj számításának, megállapításának részletes szabályait, valamint megfizetésének módját és feltételeit a Kormány rendeletben állapítja meg.
+(4) A piacfelügyeleti díj az autóbuszos hatóság bevétele.
 
-16. § (1) Ha az autóbuszos hatóság az autóbuszos közúti személyszállítási szolgáltatási piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével vagy a számviteli elkülönítéssel és a keresztfinanszírozás tilalmával vagy a közlekedésszervező tevékenységével kapcsolatosan jogszabályban, vagy az autóbuszos hatóság határozatában meghatározott valamely kötelezettség megsértését,
+16. § (1) Ha az autóbuszos hatóság az autóbuszos közúti személyszállítási szolgáltatási piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével vagy a közlekedésszervező tevékenységével kapcsolatosan jogszabályban, vagy az autóbuszos hatóság határozatában meghatározott valamely kötelezettség megsértését
 
-- a) megállapítja a tevékenység végzésének feltételeit és megtiltja a jogsértő magatartás folytatását,
-- b) a jogsértőt kötelezi az eljárás költségeinek megtérítésére,
-- c) az autóbusszal végzett személyszállítási szolgáltatásokra vonatkozó piacfelügyeleti eljárásról és a piacfelügyeleti bírságról szóló jogszabály alapján bírságot szab ki.
+- a) megállapítja a tevékenység végzésének feltételeit és megtiltja a jogsértő magatartás folytatását vagy
+- b) piacfelügyeleti bírságot szab ki.
 
-(2) A kötelezettségek további súlyos és ismétlődő megszegése esetén az autóbuszos hatóság felfüggesztheti vagy visszavonhatja a működési engedélyt.
+(2) A kötelezettségek további súlyos és ismétlődő megszegése esetén az autóbuszos hatóság kezdeményezi a működési engedély felfüggesztését vagy visszavonását.
 
 (3)
 
@@ -415,7 +416,7 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (5) Az autóbuszos hatóság és a versenyhatóság az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, illetve az üzleti titokhoz fűződő érdekek ne sérüljenek. Ennek keretében az adatot a másik hatóságnak átadó hatóság értesíti az adatszolgáltatót az adatok átadásáról. Az átvevő hatóság biztosítja, hogy a részére átadott adatok legalább olyan védelemben részesüljenek, mint amilyen védelemben az átadó hatóságnál részesültek.
 
-(6) Az autóbuszos hatóság a (3) bekezdésben meghatározott eljárása során a versenyhatóság szakmai álláspontját kiemelten figyelembe veszi, amennyiben attól eltér, annak indokairól a versenyhatóságot és az ügyfelet tájékoztatja.
+(6) Az autóbuszos hatóság piacfelügyeleti eljárása során a versenyhatóság szakmai álláspontját figyelembe veszi, amennyiben attól eltér, annak indokairól a versenyhatóságot és az ügyfelet tájékoztatja.
 
 (7) Az autóbuszos hatóság, valamint a versenyhatóság az együttműködésük részleteit rögzítik, évente felülvizsgálják, és a nyilvánosság számára hozzáférhetővé teszik, ideértve az együttműködés eredményeként létrehozott módszertanokat is.
 
@@ -496,6 +497,8 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 (6) A közúti személyszállítási szolgáltatást végző szolgáltatók személyszállítási üzletszabályzatát, annak módosítását az autóbuszos személyszállítási szolgáltatás 181/2011/EU rendeletben nem szabályozott részletes feltételeire, valamint a személyszállítási üzletszabályzat tartalmára és jóváhagyására vonatkozó jogszabály alapján az autóbuszos hatóság hagyja jóvá. Ha a bevételek beszedését a közlekedésszervező végzi, az üzletszabályzat elkészítésére vonatkozó kötelezettség a közlekedésszervezőre is kiterjed.
 
 (7) A személyszállítási üzletszabályzat hatályos szövegét a közlekedési szolgáltató és a közlekedésszervező nyilvánosan közzéteszi.
+
+(8) Az autóbuszos hatóság által végzett hatósági eljárásokért a miniszter által meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 ### IV. Fejezet — A KÖZLEKEDÉSI KÖZSZOLGÁLTATÁSOKRA VONATKOZÓ SZABÁLYOK
 
@@ -1159,3 +1162,20 @@ vonatkozó önkormányzati rendelet kiadására.
 #### 38. Hatályon kívül helyező rendelkezések
 
 #### 58–59. §
+
+### 1. melléklet a 2012. évi XLI. törvényhez
+
+Az autóbuszos közlekedési szolgáltató által fizetendő piacfelügyeleti díj mértéke a tevékenység végzésére feljogosító autóbuszos személyszállító engedélyben feltüntetett üzemeltethető autóbuszainak száma alapján:
+
+|  | A | B |
+| --- | --- | --- |
+|  | A szolgáltató által üzemeltetett engedélyköteles autóbuszok száma | A piacfelügyeleti díj éves mértéke (forintban) |
+| 1. | 1–5 db | 50 000 |
+| 2. | 6–10 db | 100 000 |
+| 3. | 11–20 db | 200 000 |
+| 4. | 21–50 db | 500 000 |
+| 5. | 51–100 db | 1 000 000 |
+| 6. | 101–250 db | 2 000 000 |
+| 7. | 251–500 db | 3 000 000 |
+| 8. | 501–1000 db | 4 000 000 |
+| 9. | 1000 db felett | 5 000 000 |

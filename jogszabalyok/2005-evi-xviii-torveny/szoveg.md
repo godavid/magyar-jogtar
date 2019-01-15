@@ -89,23 +89,14 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (5) A Hivatal véglegessé vált határozatait – a személyes és védett adatok kivételével – a honlapján közzéteszi.
 
-5. § (1)
+5. § (1) A Hivatal részére felügyeleti tevékenységéért a hatáskörébe tartozó engedélyes felügyeleti díjat köteles fizetni, amelynek éves mértéke az engedélyes tevékenységéből származó előző évi nettó árbevételének 0,075%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt vagy nem teljes évre vonatkozóan volt nettó árbevétele, akkor éves felügyeleti díj előleget fizet, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,075%-a. Ha a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,075%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
 
-(2) A Hivatal részére felügyeleti tevékenységéért a hatáskörébe tartozó engedélyesek felügyeleti díjat kötelesek fizetni, amelynek mértéke az engedélyes tevékenysége előző évi nettó árbevételének 0,06%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt nettó árbevétele, vagy nem volt teljes évre vonatkozó nettó árbevétele, akkor éves felügyeleti díj előleget kell fizetni, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,06%-a. Ha a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,06%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
+(2) Az az engedélyes, amely az éves beszámolóját a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számvitelről szóló törvény) 9/A. §-a alapján az IFRS-ek szerint készíti el, a felügyeleti díj meghatározása során az engedélye alapján végzett tevékenységéből származó előző évi nettó árbevételét a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Helyi adó tv.) 40/B. § és 40/C. §-a alapján állapítja meg azzal, hogy:
 
-(3)
+- a) a megállapított nettó árbevételből az engedélye alapján végzett tevékenységéből származó összeget nem csökkentheti a Helyi adó tv. 40/C. § (3) bekezdés a)–c) pontjában felsorolt tételekkel, és
+- b) a számviteli politika változása esetén a változás évét követő év felügyeleti díjalapját növeli azzal az összeggel, amellyel alacsonyabb, vagy csökkenti azzal az összeggel, amellyel nagyobb felügyeleti díjalap adódik a számviteli politika változás eredményeként ahhoz képest, mintha az engedélyes a számviteli politikáját nem változtatta volna meg.
 
-(4)–(5)
-
-(6)–(7)
-
-(8)
-
-(9)
-
-(10)
-
-(11)
+(3) Az engedélyes az első olyan évet követő év felügyeleti díjalapját, amelyről éves beszámolóját a számvitelről szóló törvény 9/A. §-a alapján az IFRS-ek szerint készíti, az évet megelőzően folytatott ügyletekből fakadó tranzakciókhoz kapcsolódóan növeli azzal az összeggel, amellyel alacsonyabb, vagy csökkenti azzal az összeggel, amellyel nagyobb felügyeleti díjalap adódik ahhoz képest, mintha az engedélyes az IFRS-ek szerinti beszámoló készítésére nem tért volna át.
 
 5/A. § Az e törvényben meghatározott eljárásokban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályait az e törvényben, valamint a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
 
@@ -268,26 +259,27 @@ az éves beszámolója vagy az egyszerűsített éves beszámolója (a továbbia
 
 (2) Ha a Hivatal ellenőrzése során megállapítja, hogy az értékesítő, valamint a távhőszolgáltató (1) bekezdés szerinti adózás előtti eredménye meghaladja a nyereségkorlátot, dönt a nyereségkorláton felüli összeg megosztásáról az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározottak szerint.
 
-### Társaság átalakulása, alaptőke-változás,
+### Cégjogi események, befolyásszerzés engedélyezése
 
-befolyásszerzés engedélyezése
+19. § (1) Az engedélyesnek a Ptk. rendelkezései szerinti szétválásához, más vállalkozással történő egyesüléséhez, átalakulásához, jogutód nélküli megszűnéséhez, valamint jegyzett tőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) a Hivatal előzetes hozzájáruló határozata szükséges.
 
-19. § (1) A Hivatal jóváhagyó határozata szükséges az engedélyes társaságnak a Ptk. gazdasági társaságokra vonatkozó rendelkezései szerinti
+(2) A cégjogi eseménnyel összefüggésben a cégjegyzékbe való bejegyzésre vagy változásbejegyzésére irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt kell benyújtani.
 
-- a) egyesüléséhez, és
-- b) szétválásához (a továbbiakban együttesen: átalakulás),
-- c) valamint alaptőkéjének, illetve törzstőkéjének legalább egynegyed résszel történő leszállításához, valamint
-- d) bármely engedélyes vállalkozásban történő, a szavazatok 25 százalékát, 50 százalékát, illetve 75 százalékát meghaladó befolyás szerzéséhez és az ehhez fűződő jogok gyakorlásához.
+(3) A Hivatal nem tagadhatja meg a jegyzett tőke leszállításához való hozzájárulást, ha azt az engedélyes számára jogszabály kötelezővé teszi.
 
-(2) A Hivatal nem tagadhatja meg az alaptőke, illetve a törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára külön jogszabály kötelezővé teszi. A cégjegyzékbe való bejegyzésre irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt kell benyújtani.
+(4) Bármely engedélyes vállalkozásban a szavazatok huszonöt, ötven vagy hetvenöt százalékát meghaladó, valamint száz százalékát elérő közvetlenül birtokolt szavazati jogot biztosító részvény, üzletrész vagy közvetlen szavazati jog szerzéséhez (a továbbiakban együtt: befolyásszerzés) és az ehhez fűződő jogok gyakorlásához a befolyásszerzőnek a Hivatal előzetes hozzájárulását kell kérnie.
 
-(3) A Hivatal a jóváhagyást megtagadhatja, illetőleg feltételhez kötheti, ha az (1) bekezdés szerinti változások végrehajtása a távhőellátás biztonságát, az e törvényben meghatározott ellátási kötelezettség teljesítését, illetőleg a felhasználók érdekeit sérti.
+(5) Nem kell a Hivatal előzetes hozzájárulása a (4) bekezdésben foglaltak szerint jóváhagyott mértékek elérését követően mindaddig, amíg az újabb befolyásszerzéssel a befolyásszerző el nem éri a Hivatal előzetes hozzájárulásához kötött (4) bekezdés szerinti következő mértéket.
 
-(4) A Hivatal határozatának hiányában az (1) bekezdés rendelkezéseivel kapcsolatos, a részvényesre és tagra vonatkozó változások a részvénykönyvbe nem jegyezhetők be, illetve a tagjegyzékbe nem tüntethetők fel és erre a társaságban jogot alapítani nem lehet.
+(6) A (3) bekezdésben meghatározott kivétellel a Hivatal az (1) és (4) bekezdésben meghatározott ügyletekhez történő hozzájárulását megtagadhatja vagy feltételhez kötheti, ha azok végrehajtása a távhőellátás biztonságát, az e törvényben meghatározott ellátási kötelezettség teljesítését, a felhasználók érdekeit sérti, vagy a legkisebb költség elvének érvényesülését veszélyezteti.
 
-(5)
+(7) A (4) bekezdésben meghatározott hozzájáruló határozat hiányában a befolyásszerző a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, továbbá a részvénykönyvbe nem jegyezhető be vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal hozzájáruló határozatával együtt kell benyújtani.
 
-(6) Ha az engedélyes villamosenergia-termelési működési engedéllyel is rendelkezik, az (1) bekezdésben szabályozott esetekben a Vet. rendelkezéseit is alkalmazni kell.
+(8) Cégjogi esemény esetén az érintett engedélyes, továbbá befolyásszerzés esetén a befolyásszerző a cégjogi eseményt, valamint a befolyásszerzést bejegyző cégbírósági végzés jogerőre emelkedésétől számított 8 napon belül kezdeményezi a Hivatalnál az előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzését.
+
+(9) Cégjogi esemény esetén a (8) bekezdés szerinti megfelelés ellenőrzés kezdeményezésével egyidejűleg, továbbá befolyásszerzés esetén – ha a befolyásszerzés az engedélyes működési engedélyét érinti – az érintett engedélyes kezdeményezi a Hivatalnál az engedély módosítását vagy új engedély kiadását. Az engedély módosításáig vagy az új engedély kiadásáig az engedély vonatkozásában a jogutódlás szabályai alkalmazandóak. A Hivatal az engedély módosításáról vagy új engedély kiadásáról külön eljárás keretében dönt.
+
+(10) Az e §-ban meghatározottak megszegése vagy az előírt kötelezettségek elmulasztása esetén a Hivatal bírságot szabhat ki az engedélyessel és a befolyásszerzővel szemben.
 
 ### A működési engedély visszavonása,
 
@@ -853,5 +845,7 @@ megállapodásokat.
 61/A. § Ha a Hivatal az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 61/B. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+61/C. § E törvénynek az energetikai tárgyú törvények, valamint egyes klímapolitikai és adózási tárgyú törvények módosításáról szóló 2018. évi XCIX. törvénnyel megállapított 5. §-át első alkalommal a 2019. évi felügyeleti díjbevallás során – a 2018. évi árbevételre vonatkozóan – kell alkalmazni.
 
 62. § Ez a törvény az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikkének való megfelelést szolgálja.
