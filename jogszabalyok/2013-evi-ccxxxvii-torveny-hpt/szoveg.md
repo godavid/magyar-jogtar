@@ -4182,7 +4182,7 @@ kártalanítási kötelezettség alá tartozó részének (a továbbiakban: díj
 
 az OBA felszólítja a hitelintézetet a jogsértő magatartás megszüntetésére, és egyidejűleg tájékoztatja a Felügyeletet.
 
-(2) Ha a hitelintézet az (1) bekezdés szerinti jogsértő magatartást nem szüntette meg, az OBA a felszólítást követő harminc nap elteltével kezdeményezheti a Felügyeletnél a hitelintézettel szemben intézkedés, bírság alkalmazását, vagy legalább tizenkét hónappal az erre vonatkozó intézkedés bejelentése után, ha ez alatt az idő alatt a hitelintézet továbbra sem szüntette meg a jogsértő magatartást, a Felügyelet egyetértésével kizárja a hitelintézetet tagjai sorából.
+(2) A hitelintézet (1) bekezdésben meghatározott jogsértő magatartása esetén az OBA a Felügyelet tájékoztatásával egyidejűleg kezdeményezi a hitelintézettel szemben intézkedés, bírság alkalmazását. Az OBA a Felügyelet egyetértésével kizárja a hitelintézetet tagjai sorából legalább tizenkét hónappal az erre vonatkozó értesítés hitelintézet részére történő megküldése után, ha ez alatt az idő alatt a hitelintézet továbbra sem szüntette meg az (1) bekezdésben meghatározott jogsértő magatartást.
 
 (3) Kizárás kezdeményezése esetén a hitelintézet tagsága az OBA-ban az előzetes felszólításban megjelölt határidőt követően megszűnik, kivéve, ha a hitelintézet meghozta az előírásokhoz való alkalmazkodást vagy szabálytalanság megszüntetését célzó intézkedéseket.
 
