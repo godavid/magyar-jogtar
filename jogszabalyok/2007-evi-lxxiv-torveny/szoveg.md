@@ -406,6 +406,10 @@ a közönségarányát.
 
 (5) Amennyiben a hatósági szerződésben meghatározott időpontig a műsorszóró hálózat vagy adó üzemeltetése megkezdésére, illetve a hálózaton vagy adón nyújtott műsorterjesztési szolgáltatás nyújtására – a nyertes pályázó érdekkörében felmerült ok miatt – nem kerül sor, az Elnök jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést azonnali hatállyal felmondani.
 
+(6) Az Elnök legalább ötvenezer forint, legfeljebb ötszázmillió forint mértékű bírságot szabhat ki, amennyiben a nyertes pályázó a pályázati ajánlatát visszavonja, vagy a hatósági szerződés megkötésére irányuló eljárást a (2) bekezdésben meghatározott határidőn belül nem kezdeményezi, illetve amennyiben a nyertes pályázó a hatósági szerződést nem köti meg.
+
+(7) Az Elnök a bírság kiszabása mellett a pályázati ajánlat visszavonásából, a hatósági szerződés megkötésének akadályozásából származó valamennyi költség viselésére, megfizetésére is kötelezheti a nyertes pályázót.
+
 41. § (1) Az Elnök ellenőrzi a 40. § alapján megkötött hatósági szerződésekben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint a vonatkozó műsorterjesztési alkotmányos alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az Eht. szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
 (2) A hatósági ellenőrzés eredményeként – az ügyfél szerződésszegése tárgyában – indított hatósági eljárásban az Elnök az Eht.-ben, valamint a hatósági szerződésben meghatározott jogkövetkezményeket alkalmazhatja.
