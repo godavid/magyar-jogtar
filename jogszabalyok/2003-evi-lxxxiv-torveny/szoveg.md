@@ -103,7 +103,7 @@ terjed ki.
 - a) szabadfoglalkozás keretében,
 - b) egyéni egészségügyi vállalkozóként,
 - c) társas vállalkozás tagjaként,
-- d) közalkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
+- d) közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
 - e) munkaviszonyban,
 - f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban,
 - g) szolgálati jogviszonyban,

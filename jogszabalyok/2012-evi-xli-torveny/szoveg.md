@@ -911,7 +911,7 @@ szolgáltatásokat nyújt.
 
 (3) A munkáltató a menetkedvezményre jogosult (5) bekezdésben meghatározott adatait az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság részére továbbítja.
 
-(4) A menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság jogosult az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, állami tisztviselő, köztisztviselő, közalkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatainak a kezelésére.
+(4) A menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság jogosult az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, állami tisztviselő, köztisztviselő, közalkalmazott, rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatainak a kezelésére.
 
 (5) Az adatkezelés a következő adatokra terjed ki:
 

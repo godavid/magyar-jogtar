@@ -109,7 +109,8 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 - a) közalkalmazott,
 - b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel,
 - c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
-- d) közszolgálati tisztviselő, állami tisztviselő
+- d) közszolgálati tisztviselő, állami tisztviselő,
+- e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott
 
 tölthet be.
 

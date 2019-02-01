@@ -182,7 +182,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - f) a szakirányú felsőfokú végzettséggel rendelkező, hivatását gyakorló pap, lelkész, rabbi,
 - g) a 65. életévét betöltött férfi és az 55. életévét betöltött nő.
 
-(3) A honvédelmi munkakötelezettség nem terjed ki a Honvédség tényleges állományú tagjaira, honvédelmi alkalmazottaira, közalkalmazottaira és munkavállalóira, a honvédelemért felelős miniszter által vezetett minisztérium kormánytisztviselőire, kormányzati ügykezelőire, a rendvédelmi szervek hivatásos állományú tagjaira, kormánytisztviselőire, köztisztviselőire és közalkalmazottaira, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjaira, valamint az Országgyűlési Őrség hivatásos állományú tagjaira, köztisztviselőire és munkavállalóira.
+(3) A honvédelmi munkakötelezettség nem terjed ki a Honvédség tényleges állományú tagjaira, honvédelmi alkalmazottaira, közalkalmazottaira és munkavállalóira, a honvédelemért felelős miniszter által vezetett minisztérium kormánytisztviselőire, kormányzati ügykezelőire, a rendvédelmi szervek hivatásos állományú tagjaira, rendvédelmi igazgatási alkalmazottaira, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjaira, valamint az Országgyűlési Őrség hivatásos állományú tagjaira, köztisztviselőire és munkavállalóira.
 
 #### 10. A gazdasági és anyagi szolgáltatási kötelezettség
 
@@ -868,7 +868,9 @@ esetén.
 
 (3) A Honvédséget a Magyar Honvédség Parancsnoksága, a szárazföldi csapatok, a légierő csapatai, a logisztikai és támogató erők, valamint a Honvédség feladatainak végrehajtása érdekében egyéb szaktevékenységet folytató szervezetek alkotják. A szárazföldi csapatok és a légierő csapatai haderőnemet képeznek. A haderőnemek fegyvernemekből és szakcsapatokból tevődnek össze.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6)
 

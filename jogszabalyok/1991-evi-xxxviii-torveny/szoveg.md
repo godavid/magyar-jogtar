@@ -39,7 +39,7 @@ a használati minták oltalmáról
 
 (2) Ha többen közösen alkották a mintát, a mintaoltalom a feltalálókat, illetve jogutódjaikat közösen illeti meg. Ha többen egymástól függetlenül alkották a mintát, a mintaoltalom azt a feltalálót vagy jogutódját illeti meg, aki a mintát korábbi elsőbbséggel jelentette be a Szellemi Tulajdon Nemzeti Hivatalához.
 
-8. § A munkaviszonyban, közszolgálati, kormányzati szolgálati, állami szolgálati vagy közalkalmazotti jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag által alkotott mintára a szabadalmi törvénynek a szolgálati és az alkalmazotti találmányra irányadó rendelkezéseit kell megfelelően alkalmazni.
+8. § A munkaviszonyban, közszolgálati, kormányzati szolgálati, állami szolgálati vagy közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban álló vagy szolgálati viszonyban foglalkoztatott személy vagy munkaviszony jellegű jogviszony keretében foglalkoztatott szövetkezeti tag által alkotott mintára a szabadalmi törvénynek a szolgálati és az alkalmazotti találmányra irányadó rendelkezéseit kell megfelelően alkalmazni.
 
 9. § A minta feltalálójának személyhez fűződő jogaira, díjazására és a mintaoltalmi igényre egyebekben a szabadalmi törvénynek a feltaláló személyhez fűződő jogaira, díjazására és a szabadalmi igényre vonatkozó szabályait kell megfelelően alkalmazni.
 
