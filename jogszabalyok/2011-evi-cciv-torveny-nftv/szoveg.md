@@ -944,7 +944,7 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 47. § (1) Egy személy – felsőoktatási szakképzésben, alapképzésben és mesterképzésben összesen – tizenkét féléven át folytathat a felsőoktatásban tanulmányokat magyar állami (rész)ösztöndíjas képzésben (a továbbiakban: támogatási idő). A támogatási idő legfeljebb tizennégy félév, ha a hallgató osztatlan képzésben vesz részt és a képzési követelmények szerint a képzési idő meghaladja a tíz félévet.
 
-(1a) A művészeti képzési terület szerinti nem tanári osztatlan szakkal párhuzamos képzésben vagy a nem tanári osztatlan szakot követően felvett művészeti tanárszakon, továbbá a Kormány rendeletében meghatározott azon tanárszakon folytatott tanulmányok esetén, amely csak a szakterülete szerinti nem tanári mesterképzési szakra épülően második, további mesterképzési szakon folyó tanári szakképzettség megszerzésére irányuló képzésben vehető fel, az (1) bekezdés szerinti támogatási idő további két félévvel lehet hosszabb.
+(1a) A művészeti képzési terület szerinti nem tanári osztatlan szakkal párhuzamos képzésben vagy a nem tanári osztatlan szakot követően felvett művészeti tanárszakon, szakmai tanárszakon, továbbá a Kormány rendeletében meghatározott azon tanárszakon folytatott tanulmányok esetén, amely csak a szakterülete szerinti nem tanári mesterképzési szakra épülően második, további mesterképzési szakon folyó tanári szakképzettség megszerzésére irányuló képzésben vehető fel, az (1) bekezdés szerinti támogatási idő további két félévvel lehet hosszabb.
 
 (2) A doktori képzésben részt vevő hallgató támogatási ideje legfeljebb nyolc félév.
 
@@ -1211,7 +1211,7 @@ vehessen fel.
 
 (3) A doktori képzésbe bekapcsolódhat az is, aki a fokozatszerzésre egyénileg készült fel, feltéve, hogy teljesítette a felvétel és a doktori képzés követelményeit. A hallgatói jogviszony ebben az esetben a komplex vizsga teljesítésével jön létre.
 
-(4) A doktorandusznak a komplex vizsgát követő három éven belül a doktori szabályzatban meghatározottak szerinti doktori értekezést kell benyújtania. Ez a határidő különös méltányolást érdemlő, a 45. § (2) bekezdésben szabályozott esetekben legfeljebb egy évvel a doktori szabályzatban meghatározottak szerint meghosszabbítható. A fokozatszerzési eljárásban a hallgatói jogviszony szünetelése legfeljebb két félév lehet.
+(4) A doktorandusznak a komplex vizsgát követő három éven belül a doktori szabályzatban meghatározottak szerinti doktori értekezést kell benyújtania. Ez a határidő különös méltányolást érdemlő esetekben legfeljebb egy évvel a doktori szabályzatban meghatározottak szerint meghosszabbítható. A fokozatszerzési eljárásban a hallgatói jogviszony szünetelése legfeljebb két félév lehet.
 
 (4a) A felsőoktatási intézmény annak a doktorandusznak, aki a doktori képzésben az előírt krediteket megszerezte, végbizonyítványt (abszolutórium) állít ki.
 
@@ -2480,7 +2480,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
 - 2. egészségügyi alkalmassági vizsgálat: orvosi vizsgálat, amelynek célja annak megállapítása, hogy az egyén testi adottságai és egészségi állapota alapján képes-e felkészülni a választott tevékenység ellátására, ennek során nem kerül-e veszélybe egészsége;
 - 2a. egyetemi kórház: az az egészségügyi szolgáltató, amely az egészségügyi felsőoktatási intézmény szervezeti egységeként az Eütv. alapján a működési engedélyében meghatározott ellátási területen és progresszivitási szinten járó- és fekvőbetegek diagnosztikus és terápiás szakorvosi ellátását, rehabilitációt és követéses gondozást, valamint a működési engedélyében meghatározott egyéb egészségügyi szolgáltatásokat végez, valamint közreműködik az orvos-, fogorvos-, gyógyszerész- és egészségtudományi képzéssel összefüggő gyakorlati képzési és kutatási feladatok ellátásában;
 - 3. esti képzés munkarendje: olyan oktatásszervezési rend, mely szerint a hallgatók tanóráira a szorgalmi időszakban munkanapokon tizenhat óra után vagy a heti pihenőnapon kerül sor;
-- 4. felmenő rendszer: képzésszervezési elv, amely alapján az új vagy módosított tanulmányi és vizsgakövetelményt azokra a hallgatókra lehet érvényesíteni, akik a bevezetését követően kezdték meg tanulmányaikat, illetve azokra, akik azt megelőzően kezdték meg tanulmányaikat, de választásuk alapján az új vagy módosított tanulmányi és vizsgakövetelmények alapján készülnek fel;
+- 4. felmenő rendszer: képzésszervezési elv, amely alapján az új vagy módosított tanulmányi és vizsgakövetelményt azokra a hallgatókra lehet érvényesíteni, akik a bevezetését követően kezdték meg tanulmányaikat, illetve ha azt a felsőoktatási intézmény szabályzata lehetővé teszi, azokra, akik azt megelőzően kezdték meg tanulmányaikat, de választásuk alapján az új vagy módosított tanulmányi és vizsgakövetelmények alapján készülnek fel;
 - 4a. felsőoktatási kutatás-fejlesztési vállalkozási tevékenység: államháztartáson kívülről származó bevételből, megrendelés alapján vagy együttműködés keretében az állami felsőoktatási intézmény alaptevékenységként végzett, a tudományos kutatásról, fejlesztésről és innovációról szóló törvény 3. § 6. pontjában meghatározott innovációs és 11. pontjában meghatározott kutatás-fejlesztési tevékenységek, továbbá ezek résztevékenységei;
 - 5. félév: öt hónapból álló oktatásszervezési időszak;
 - 6. fogyatékossággal élő hallgató (jelentkező): aki mozgásszervi, érzékszervi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrum zavarral vagy egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzd;
@@ -2692,15 +2692,15 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 114/D. § (1) A 85/A. § (1) bekezdése alapján
 
-- a) az egy főre megállapított hallgatói normatíva 119 000 Ft/év,
+- a) az egy főre megállapított hallgatói normatíva 128 520 Ft/év,
 - b) a doktori képzésben részt vevők egy főre meghatározott támogatása
   - ba) a képzési és kutatási szakaszban 1 680 000 Ft/év,
   - bb) a kutatási és disszertációs szakaszban 2 160 000 Ft/év,
   - bc) a doktori fokozatszerzés esetén egyszeri 400 000 Ft.
 - c) a nemzeti felsőoktatási ösztöndíjban részesülők normatívája 400 000 Ft/év,
 - d) a kollégiumi-diákotthoni elhelyezés normatívája 116 500 Ft/év,
-- e) a lakhatási támogatás normatívája 60 000 Ft/év,
-- f) a tankönyv- és jegyzettámogatás, valamint a sport- és kulturális tevékenység normatívája 11 900 Ft/év.
+- e) a lakhatási támogatás normatívája 67 200 Ft/év,
+- f) a tankönyv- és jegyzettámogatás, valamint a sport- és kulturális tevékenység normatívája 14 566 Ft/év.
 
 (2) A XXIV. Fejezet alkalmazásában államilag támogatott hallgató az államilag támogatott képzésben részt vevő hallgató, valamint 2012 szeptemberétől kezdődően magyar állami (rész)ösztöndíjas képzésre felvételt nyert hallgató.
 
@@ -2811,6 +2811,8 @@ megnevezéssel működik.
 megnevezéssel működik.
 
 (24) E törvénynek – a 2018. évi XC. törvénnyel módosított – 37. § (6) bekezdésében foglaltakat a 2018. évi XC. törvény hatálybalépésekor folyamatban lévő pályázatokra is alkalmazni kell.
+
+(25) A Győri Hittudományi Főiskola 2019. február 1-jétől Brenner János Hittudományi Főiskola megnevezéssel működik.
 
 116. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3) bekezdésében foglalt feltételeket az 1. mellékletben meghatározott egyetemeknek 2017. szeptember 1-jéig kell teljesíteniük.
 
@@ -2961,13 +2963,13 @@ kell érteni.
 | 51. |  |  | Apor Vilmos Katolikus Főiskola, Vác |
 | 52. |  |  | Baptista Teológiai Akadémia, Budapest |
 | 53. |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
-| 54. |  |  | Budapest Kortárstánc Főiskola, Budapest |
-| 55. |  |  | Egri Hittudományi Főiskola, Eger |
-| 56. |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
-| 57. |  |  | Gábor Dénes Főiskola, Budapest |
-| 58. |  |  | Gál Ferenc Főiskola, Szeged |
-| 59. |  |  | Golgota Teológiai Főiskola, Vajta |
-| 60. |  |  | Győri Hittudományi Főiskola, Győr |
+| 54. |  |  | Brenner János Hittudományi Főiskola, Győr |
+| 55. |  |  | Budapest Kortárstánc Főiskola, Budapest |
+| 56. |  |  | Egri Hittudományi Főiskola, Eger |
+| 57. |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
+| 58. |  |  | Gábor Dénes Főiskola, Budapest |
+| 59. |  |  | Gál Ferenc Főiskola, Szeged |
+| 60. |  |  | Golgota Teológiai Főiskola, Vajta |
 | 61. |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
 | 62. |  |  | Pápai Református Teológiai Akadémia, Pápa |
 | 63. |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |

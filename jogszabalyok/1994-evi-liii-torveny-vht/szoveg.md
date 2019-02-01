@@ -32,7 +32,7 @@ a bírósági végrehajtásról
 
 6. §
 
-7. § (1) A bírósági végrehajtás során a pénzkövetelést elsősorban a pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló összegből, az adós munkabéréből, illetményéből, munkadíjából, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, állami szolgálati és közalkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóságából, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazásából, juttatásából, követeléséből (a továbbiakban együtt: munkabéréből) kell behajtani.
+7. § (1) A bírósági végrehajtás során a pénzkövetelést elsősorban a pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló összegből, az adós munkabéréből, illetményéből, munkadíjából, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, állami szolgálati és közalkalmazotti jogviszonyon, szolgálati viszonyon, rendvédelmi igazgatási szolgálati jogviszonyon, honvédelmi alkalmazotti jogviszonyon, társadalombiztosítási jogviszonyon alapuló járandóságából, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazásából, juttatásából, követeléséből (a továbbiakban együtt: munkabéréből) kell behajtani.
 
 (2) Ha előre látható, hogy a követelést a munkabérre, illetőleg a pénzforgalmi szolgáltatónál kezelt összegre vezetett végrehajtással nem lehet viszonylag rövidebb időn belül behajtani, az adós bármilyen lefoglalható vagyontárgya végrehajtás alá vonható. A lefoglalt ingatlant azonban csak akkor lehet értékesíteni, ha a követelés az adós egyéb vagyontárgyaiból nincs teljesen fedezve, vagy csak aránytalanul hosszú idő múlva elégíthető ki. Ha az adóssal szemben indított végrehajtás során behajtandó tőkekövetelés – több követelés esetén az összes tőkekövetelés – összege nem haladja meg az 500 ezer Ft-ot vagy pedig nem haladja meg az 1 millió Ft-ot és egyéb követelés biztosítására zálogjog is be van jegyezve az adós lakóingatlanára, az adós lakóingatlanára – az egyéb feltételek fennállása esetén – árverés akkor tűzhető ki és a lakóingatlan becsértéke akkor állapítható meg, ha az adós az 52/B. § szerinti részletfizetést nem teljesítette.
 
@@ -973,7 +973,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 66. § A 65. § a következő járandóságok letiltása esetén is irányadó:
 
-- a) a kormányzati szolgálati, állami szolgálati, közszolgálati és a közalkalmazotti jogviszony, továbbá a szolgálati viszony alapján járó illetmény,
+- a) a kormányzati szolgálati, állami szolgálati, közszolgálati és a közalkalmazotti jogviszony, továbbá a szolgálati viszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony alapján járó illetmény,
 - b) a szövetkezeti tagot a munkaviszony jellegű jogviszony alapján megillető munkadíj,
 - c) az alkotó- és munkaközösségi tag jövedelme,
 - d) a tudományos továbbképzési ösztöndíjasnak a munkabér jellegű ösztöndíja,
