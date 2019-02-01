@@ -115,13 +115,13 @@ a büntetés-végrehajtási szervezetről
 
 ### A bv. szervezet személyi állománya
 
-10. § (1) A bv. szervezet személyi állománya — a (2) és (2a) bekezdésben foglalt kivétellel — hivatásos büntetés-végrehajtási szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), továbbá külön jogszabályban meghatározott munkakörök esetén, közalkalmazotti és kormányzati szolgálati jogviszonyban álló személyekből állhat.
+10. § (1) A bv. szervezet személyi állománya – a (2) és (2a) bekezdésben foglalt kivétellel – hivatásos büntetés-végrehajtási szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), továbbá külön jogszabályban meghatározott munkakörök esetén rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban álló személyekből állhat.
 
 (2) A gazdasági társaságoknál és a fogvatartottak foglalkoztatására létrehozott költségvetési szerveknél alkalmazottak hivatásos szolgálati jogviszonyban, közalkalmazotti jogviszonyban vagy munkaviszonyban állhatnak.
 
-(2a) A bv. szervezetben működtetett fegyveres biztonsági őrségnél alkalmazottak a közalkalmazotti jogviszony mellett munkaviszonyban is állhatnak.
+(2a) A bv. szervezetben működtetett fegyveres biztonsági őrségnél alkalmazottak a rendvédelmi igazgatási szolgálati jogviszony mellett munkaviszonyban is állhatnak.
 
-(3) Közalkalmazott, kormánytisztviselő, illetve munkaviszonyban álló személy csak olyan munkakört láthat el, amelyhez a hivatásos szolgálati jogviszony létesítésének sajátos feltételei nem szükségesek.
+(3) A rendvédelmi igazgatási szolgálati jogviszonyban álló, illetve munkaviszonyban álló személy csak olyan munkakört láthat el, amelyhez a hivatásos szolgálati jogviszony létesítésének sajátos feltételei nem szükségesek.
 
 (3a) A bv. szervezetben működtetett fegyveres biztonsági őrség a következő tevékenység ellátásában működhet közre:
 

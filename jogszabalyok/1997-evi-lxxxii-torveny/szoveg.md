@@ -54,7 +54,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 - t) zárt pénztár: olyan pénztár, amely szakmai vagy más szervezési elv alapján a pénztár lehetséges tagjainak körét meghatározza,
 - u) szakmai egyesület: olyan egyesület, amelyben a taggá válás feltétele valamely szakmához való tartozás,
 - v) a tag követelése: a felhalmozási időszakban a tag egyéni számlájának egyenlege, a járadékos időszakban a tag által választott szolgáltatás tartalékából az őt a jövőben még megillető szolgáltatás értéke, a társadalombiztosítási nyugdíjrendszerbe történő visszalépés esetén a tag egyéni számlaegyenlege, valamint a Pénztárak Garanciaalapja garanciális kifizetésekre fordítható pénzeszközeinek az egy főre jutó összege.
-- x) munkáltató: az, akivel a pénztártag munkaviszonyban, közalkalmazotti, közszolgálati, kormányzati szolgálati, illetve állami szolgálati jogviszonyban, bírói, ügyészségi szolgálati viszonyban áll, illetve a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és a polgári nemzetbiztonsági szolgálatok, a hivatásos állományú tagjaik vonatkozásában, tekintet nélkül arra, hogy teljes vagy részmunkaidőben történik a foglalkoztatás, továbbá a 26. § (5) bekezdése alkalmazásánál a Tbj. 4. §-a a) pontjának 1–3. alpontja, a 22. § alkalmazásánál a Tbj. 4. §-ának a) pontja szerinti foglalkoztató,
+- x) munkáltató: az, akivel a pénztártag munkaviszonyban, közalkalmazotti, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, közszolgálati, kormányzati szolgálati, illetve állami szolgálati jogviszonyban, bírói, ügyészségi szolgálati viszonyban áll, illetve a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és a polgári nemzetbiztonsági szolgálatok, a hivatásos állományú tagjaik vonatkozásában, tekintet nélkül arra, hogy teljes vagy részmunkaidőben történik a foglalkoztatás, továbbá a 26. § (5) bekezdése alkalmazásánál a Tbj. 4. §-a a) pontjának 1–3. alpontja, a 22. § alkalmazásánál a Tbj. 4. §-ának a) pontja szerinti foglalkoztató,
 - y) közeli hozzátartozó: a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek, valamint az élettárs,
 - z) szolgáltató: az a természetes személy, jogi személy és jogi személyiség nélküli gazdasági társaság, amely a pénztárral kötött szerződés alapján a pénztár részére a pénztárüzem működésének részét képező, azt lehetővé tevő, elősegítő, illetve a pénztári szolgáltatásokat ténylegesen nyújtó tevékenységet végez. Szolgáltatónak minősül különösen az, aki (amely) a pénztár részére letétkezelői tevékenységet folytat, amelyhez a pénztár a befektetési üzletmenetét, illetve a könyvelése, nyilvántartásai vezetését kihelyezte, illetve amely a pénztár részére tagszervezést végez, valamint a pénztár tagja részére járadékszolgáltatást teljesítő biztosító intézet. Szolgáltatónak minősül az is, aki (amely) az e pontban meghatározott szolgáltatóval kötött szerződés alapján az előzőek szerinti, pénztárral kapcsolatos tevékenységet végez,
 - zs) értékelési különbözet céltartaléka: a magánnyugdíjpénztárak befektetési és gazdálkodási tevékenységéről szóló jogszabályban felsorolt eszközcsoportokba tartozó eszközök esetében az üzleti év mérleg fordulónapjára, illetve a negyedév utolsó napjára vonatkozóan meghatározott felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegében képzett céltartalék. Az értékelési különbözet az adott eszközcsoportokon belül elkülönítetten, a források között a működési, a fedezeti (választható befektetési portfóliót biztosító rendszert működtető pénztárak esetén választható befektetési portfóliónként), illetve a likviditási céltartalékon belül értékelési különbözetből képzett céltartalékként jelenik meg;
@@ -356,7 +356,11 @@ szűnik meg.
 
 az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag követelésének egy ezreléket meghaladó részét, de legfeljebb ötezer forintot átlépési díjként érvényesít. Az átlépési díj nem engedhető el, a tag számára a befogadó pénztár által nem téríthető meg, a tagot illető tagdíjbefizetésből vagy a tag egyéni számlájának egyenlegéből nem vonható le.
 
-(4)–(6)
+(4)
+
+(5)
+
+(6)
 
 (7)
 
@@ -993,7 +997,19 @@ számolható el.
 
 63. § (1) A pénztár befektetési teljesítményének hozamrátáját negyedévente kell meghatározni.
 
-(2)–(8)
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
 
 64. § Az igazgatótanács hatáskörébe tartozik a likviditási tartalék, és ha a pénztár képzett, a működési tartalék előirányzott szintet meghaladó részének felhasználásáról történő döntés azzal, hogy a fedezeti tartalék részét képező szolgáltatási tartalékok előirányzott szintet meghaladó részét nem lehet a fedezeti tartalékon kívül felhasználni.
 
@@ -2244,7 +2260,9 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 - 1. Személyi adatok:
   - a) természetes személyazonosító adatok
-  - b)–d)
+  - b)
+  - c)
+  - d)
   - e) elhalálozás időpontja
 - 2. Családi állapot
 - 3. Állampolgárság

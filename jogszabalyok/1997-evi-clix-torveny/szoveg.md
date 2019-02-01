@@ -50,7 +50,7 @@ jelleggel.
 
 (2) A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet biztosítja a szervezetében létrehozott fegyveres biztonsági őrség működésének szervezeti, személyi, anyagi-technikai és pénzügyi feltételeit, fegyver- és lőszerellátását.
 
-3. § (1) Fegyveres biztonsági őrség az e törvényben, valamint jogszabály alapján megkötött együttműködési megállapodásban meghatározott őrzési feladatokat ellátó, szolgálati fegyverrel és más kényszerítő eszközzel rendelkező, sajátos jogokkal felruházott biztonsági szervezet, amelynek tagjai a létesítő, illetőleg a működtető állami, önkormányzati vagy egyéb intézménnyel, gazdálkodó szervezettel munkaviszonyban, illetve közalkalmazotti jogviszonyban állnak.
+3. § (1) Fegyveres biztonsági őrség az e törvényben, valamint jogszabály alapján megkötött együttműködési megállapodásban meghatározott őrzési feladatokat ellátó, szolgálati fegyverrel és más kényszerítő eszközzel rendelkező, sajátos jogokkal felruházott biztonsági szervezet, amelynek tagjai a létesítő, illetőleg a működtető állami, önkormányzati vagy egyéb intézménnyel, gazdálkodó szervezettel munkaviszonyban, illetve közalkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi szervnél a szervvel munkaviszonyban vagy rendvédelmi igazgatási szolgálati jogviszonyban állnak.
 
 (2) A fegyveres biztonsági őrzést úgy kell megszervezni, hogy az – figyelemmel az alkalmazott biztonságtechnikai eszközökre, szolgálati állatokra, az őrség szervezetére, létszámára, felszereltségére, szolgálati rendszerére – biztosítsa az adott létesítmény, illetve tevékenység őrutasításban meghatározott jogellenes cselekmények elleni védelmét.
 

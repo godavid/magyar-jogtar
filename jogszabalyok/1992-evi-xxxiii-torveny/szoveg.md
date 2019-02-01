@@ -106,7 +106,7 @@ tervezetét.
 
 (6) Amennyiben a reprezentativitás kérdésében vita merül fel, az Mt. 289. §-ában meghatározott eljárásnak van helye.
 
-6/B. § Ha a közalkalmazott a Magyar Rendvédelmi Kar tagja, akkor a szakszervezeti érdekképviseletére a 6–6/A. § és az Mt. 270–275. §-ában foglaltak helyett a hivatásos szolgálati viszonyban állók szakszervezeti érdekképviseletére vonatkozó szabályokat kell alkalmazni. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a rendvédelmi feladatokat ellátó szerv a közalkalmazott illetményéből a szakszervezeti tagdíjat a rendvédelmi feladatokat ellátó szerv és a közalkalmazott erre vonatkozó megállapodása esetén vonja le.
+6/B. §
 
 7. § (1) A 6–6/A. §-ban foglaltakat a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti tankerületi központ tekintetében a következő eltéréssel kell alkalmazni:
 
@@ -882,13 +882,9 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (2) Az (1) bekezdésben meghatározott munkáltatónál megbízott magasabb vezető és vezető munkavégzésre irányuló további jogviszonyt nem létesíthet. Nem vonatkozik ez a tilalom arra a jogviszonyra, amelyet tudományos, ismeretterjesztő, oktatói vagy szerzői jogi védelem alá eső tevékenységre létesítettek.
 
-43/B. § A 41–43. §-ban foglaltakon túlmenően, a katasztrófavédelmi feladatot ellátó, végrehajtási jogszabályban megnevezett munkáltatóknál összeférhetetlen a munkavégzésre irányuló további jogviszony létesítése, ha a munkavégzés a munkáltató tevékenységi körébe is tartozik, vagy ha a munkavégzésre a közalkalmazott munkáltatójával gazdasági vagy egyéb elszámolási kapcsolatban álló munkáltatónál kerül sor.
+43/B. §
 
-43/C. § A 41–43. §-ban foglaltakon túlmenően a nemzetbiztonsági feladatot ellátó, végrehajtási jogszabályban megnevezett munkáltatónál összeférhetetlen a munkavégzésre irányuló további jogviszony létesítése, ha
-
-- a) a munkavégzés a nemzetbiztonsági feladatot ellátó munkáltató jogszabályban előírt tevékenysége eredményességét veszélyezteti;
-- b) a munkavégzés a nemzetbiztonsági feladatot ellátó munkáltató tevékenységi körébe is tartozik, vagy ha a munkavégzésre a munkáltatóval gazdasági vagy egyéb elszámolási kapcsolatban álló munkáltatónál kerül sor;
-- c) a munkavégzés veszélyezteti a közalkalmazott munkaköri kötelezettségének teljesítését.
+43/C. §
 
 43/D. § (1) A 41–43. §-ban foglaltakon túlmenően a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervnél, valamint a központi költségvetési intézményként működő kutatóintézeteknél összeférhetetlen az olyan munkavégzésre irányuló további jogviszony, amelynek keretében a közalkalmazottat foglalkoztató munkáltató üzleti titkát képező módszerek, eljárások, ismeretek, know-how-k alkalmazására, hasznosítására kerülne sor.
 
@@ -1432,42 +1428,41 @@ magasabb fizetési fokozatba kell besorolni.
 
 (3a)
 
-(4) Felhatalmazást kap az elektronikus hírközlésért, a honvédelemért, a környezetvédelemért, a vízgazdálkodásért, vízügyi igazgatási szervek irányításáért, vízvédelemért, a természetvédelemért, az oktatásért, a kultúráért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, az államháztartásért, a nemzetpolitikáért, a nemzetiségpolitikáért, a c) pont kivételével az agrár-vidékfejlesztésért, az agrárpolitikáért, az e) pont kivételével a katasztrófák elleni védekezésért, az a) pont utolsó fordulata és a c) pont kivételével a polgári nemzetbiztonsági szolgálatok irányításáért, a polgári hírszerzési tevékenység irányításáért a b) és g) pont kivételével a közlekedésért, az energiapolitikáért, a bányászati ügyekért és a postaügyért (a továbbiakban: a közlekedésért), az a) pont utolsó fordulata és az e) pont kivételével a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, továbbá valamennyi pont tekintetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az általa irányított, a (2)–(3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben állapítsa meg
+(4) Felhatalmazást kap az elektronikus hírközlésért, a környezetvédelemért, a vízgazdálkodásért, vízügyi igazgatási szervek irányításáért, vízvédelemért, a természetvédelemért, az oktatásért, a kultúráért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, az államháztartásért, a nemzetpolitikáért, a nemzetiségpolitikáért, a c) pont kivételével az agrár-vidékfejlesztésért, az agrárpolitikáért, a b) és f) pont kivételével a közlekedésért, az energiapolitikáért, a bányászati ügyekért és a postaügyért (a továbbiakban: a közlekedésért), az idegenrendészetért és menekültügyért, az igazságügyért felelős miniszter, továbbá valamennyi pont tekintetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az általa irányított, a (2)–(3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben állapítsa meg
 
 - a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 - b) azt a munkakört, amelyben nem kötelező pályázat kiírása a közalkalmazotti jogviszony létesítéséhez,
 - c) a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatosan a munkáltató alaptevékenységébe tartozó munkaköröket,
 - d) a foglalkoztatáspolitikáért, valamint az államháztartásért felelős miniszter egyetértésével a magasabb vezető, valamint a vezető megbízás körét, továbbá ezek e törvényben meghatározottakon túlmenő feltételeit,
-- e)
-- f) a magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótlékának mértékét,
-- g) az ágazati, szakmai sajátosságokra tekintettel fizetendő illetménypótlékokat és azok mértékét.
+- e) a magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótlékának mértékét,
+- f) az ágazati, szakmai sajátosságokra tekintettel fizetendő illetménypótlékokat és azok mértékét.
 
-(4a) Felhatalmazást kap a honvédelemért, a büntetés-végrehajtásért, a katasztrófák elleni védekezésért, a polgári nemzetbiztonsági szolgálatok irányításáért és a rendészetért felelős miniszter, hogy rendeletben szabályozza a (4) bekezdés g) pontja alapján megállapításra kerülő, ágazati, szakmai sajátosságokra figyelemmel fizetendő pótlékoknak a jubileumi jutalom alapját képező illetménybe való beszámíthatóságát.
+(4a)
 
 (5) A (4) bekezdésben foglaltakon túlmenően felhatalmazást kap
 
-- a) a honvédelemért, valamint a közlekedésért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésénél a tizennyolcadik életév betöltésének feltétele alóli mentesítést,
-- b) a honvédelemért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
-- c) a honvédelemért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért, valamint a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként a munkakör ellátásához szükséges magyar nyelvtudás feltételét,
+- a) a közlekedésért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésénél a tizennyolcadik életév betöltésének feltétele alóli mentesítést,
+- b) a honvédelemért, az idegenrendészetért és menekültügyért, az igazságügyért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
+- c) a honvédelemért, az idegenrendészetért és menekültügyért felelős miniszter, az igazságügyért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként a munkakör ellátásához szükséges magyar nyelvtudás feltételét,
 - d) a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, az államháztartásért, valamint a honvédelemért felelős miniszter, hogy a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 - e) a honvédelemért felelős miniszter, hogy a Magyar Honvédségnél foglalkoztatott közalkalmazottak részére, a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat,
 - f) a honvédelemért, valamint a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén a 21/A. § (1) bekezdés szerinti próbaidőt nem lehet megállapítani,
-- g) a honvédelemért, a büntetés-végrehajtásért, az idegenrendészetért és menekültügyért, az igazságügyért, a rendészetért, a katasztrófák elleni védekezésért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy a gyakornoki idő kikötése alól mentes munkaköröket,
+- g) az idegenrendészetért és menekültügyért, az igazságügyért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy a gyakornoki idő kikötése alól mentes munkaköröket,
 - h) a honvédelemért felelős miniszter, hogy a gyakornoki követelmények ágazati szakmai tartalmát,
-- i) a honvédelemért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, a katasztrófák elleni védekezésért, valamint az államháztartásért felelős miniszter, hogy azokat a munkaköröket, illetve munkakörönként – a kinevezéshez szükséges iskolai végzettséggel, szakképesítéssel, illetve szakképzettséggel egyenértékű – azon iskolai végzettséget, szakképesítést, illetve szakképzettséget, amellyel a közalkalmazott által korábban ellátott, a 22. § (3) bekezdés szerinti jogviszony tartamát a szakmai gyakorlat idejébe be kell számítani,
+- i) , a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, a katasztrófák elleni védekezésért, valamint az államháztartásért felelős miniszter, hogy azokat a munkaköröket, illetve munkakörönként – a kinevezéshez szükséges iskolai végzettséggel, szakképesítéssel, illetve szakképzettséggel egyenértékű – azon iskolai végzettséget, szakképesítést, illetve szakképzettséget, amellyel a közalkalmazott által korábban ellátott, a 22. § (3) bekezdés szerinti jogviszony tartamát a szakmai gyakorlat idejébe be kell számítani,
 - j) a honvédelemért, az elektronikus hírközlésért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
 - k) a honvédelemért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként a napi munkaidőből kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
 - l) a honvédelemért felelős miniszter, hogy a vezető állású munkavállalóval betöltendő vezetői munkaköröket,
 - m) a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy munkakörönként, illetve vezetői megbízásonként az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
-- n) a honvédelemért, a rendészetért, a büntetés-végrehajtásért, a katasztrófák elleni védekezésért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, valamint az államháztartásért felelős miniszter, hogy az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
-- o) a honvédelemért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
+- n) a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, valamint az államháztartásért felelős miniszter, hogy az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
+- o)
 - p) az elektronikus hírközlésért, valamint a környezetvédelemért, a vízgazdálkodásért, vízügyi igazgatási szervek irányításáért, vízvédelemért, a természetvédelemért felelős miniszter, hogy a formaruha-juttatást,
-- q) a honvédelemért, a büntetés-végrehajtásért, a rendészetért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
-- r) honvédelemért, a rendészetért, a büntetés-végrehajtásért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, hogy a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat,
-- s) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak lakhatási támogatásának részletes szabályait,
+- q)
+- r)
+- s)
 - t) a honvédelemért felelős miniszter, hogy a 44/A. § (6) bekezdése szerinti hátrányos jogkövetkezményeket,
-- u) a büntetés-végrehajtásért, a rendészetért, az adópolitikáért és a katasztrófák elleni védekezésért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
-- v) a katasztrófák elleni védekezésért felelős miniszter, hogy a közalkalmazottak jutalmazására vonatkozó részletes szabályokat
+- u) az adópolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
+- v)
 
 az általa irányított, a (2) és (3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben határozza meg.
 
@@ -1532,7 +1527,9 @@ is érteni kell.
 - f) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
 - g) az e törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, a Ktjv., valamint a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
 - h) az állami vezetői szolgálati jogviszonyban,
-- i) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban
+- i) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban,
+- j) honvédelmi alkalmazottak jogállásáról szóló törvény szerinti honvédelmi alkalmazotti jogviszonyban,
+- k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszonyban
 
 töltött időt.
 

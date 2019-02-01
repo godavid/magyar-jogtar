@@ -948,7 +948,8 @@ származó ellenérték (bevétel);
   - g) a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati jogviszony,
   - h) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti szolgálati viszony,
   - i) az állami tisztviselőkről szóló 2016. évi LII. törvény szerinti állami szolgálati jogviszony,
-  - j) a külön jogszabály által mentelmi jogot biztosító jogállás
+  - j) a külön jogszabály által mentelmi jogot biztosító jogállás,
+  - k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti jogviszony
 
 keretében végzett kötelezettség;
 

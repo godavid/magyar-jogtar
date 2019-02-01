@@ -334,7 +334,7 @@ felé kell teljesíteni.
 - b) a megyei, fővárosi illetékességgel működő területi szervek,
 - c) helyi szervek a katasztrófavédelmi kirendeltségek és a hivatásos tűzoltóságok.
 
-(2) A hivatásos katasztrófavédelmi szerv államigazgatási feladatot is ellátó rendvédelmi szerv, amelynek tagjai hivatásos állományúak, közszolgálati tisztviselők, közalkalmazottak, munkavállalók és tisztjelöltek.
+(2) A hivatásos katasztrófavédelmi szerv államigazgatási feladatot is ellátó rendvédelmi szerv, amelynek tagjai hivatásos állományúak, rendvédelmi alkalmazottak, munkavállalók és tisztjelöltek.
 
 #### 17. A hivatásos katasztrófavédelmi szerv központi szerve
 
@@ -763,7 +763,7 @@ rendelheti el.
 
 - a) az országgyűlési képviselő és a nemzetiségi szószóló,
 - b) az európai parlamenti képviselő,
-- c) az állami vezető, a vezetői megbízású, valamint feladatköre szerint katasztrófavédelmi feladatot ellátó kormánytisztviselő, köztisztviselő és közalkalmazott,
+- c) az szakmai felsővezető, a vezetői megbízású, valamint feladatköre szerint katasztrófavédelmi feladatot ellátó kormánytisztviselő, köztisztviselő és közalkalmazott,
 - d) a jegyző,
 - e) a bíró, az ügyész, a közjegyző, a bírósági végrehajtó,
 - f) a Magyar Honvédség tényleges és tartalékos állományú, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, e szervek alkalmazottja,
