@@ -453,6 +453,8 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (12) A forgalomba hozatali engedély jogosultja a (9) bekezdés a) és b) pontjában foglaltakról értesíti az Európai Gyógyszerügynökséget is, ha az intézkedésre a 18. § (5) bekezdés a)–e) pontjában említett okból volt szükség.
 
+16/A. § A forgalomba hozatali engedély jogosultjának, a gyógyszer-nagykereskedelmi engedély jogosultjának, illetve a gyógyszertár működtetőjének biztosítania kell az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendeletnek [a továbbiakban: (EU) 2016/161 rendelet] való megfelelést szolgálja.
+
 ### A gyógyszerek és a gyógyszerellátáshatósági ellenőrzése
 
 17. § (1) A gyógyszer, illetve a gyógyszer gyártási tételére vonatkozó – feltételezett – minőségi hibát, valamint a feltételezhetően hamisított gyógyszerre vonatkozó információt a forgalombahozatali engedély jogosultja, valamint a gyógyszerek nagykereskedelmében és a lakossági gyógyszerellátásban részt vevő gyógyszerész vagy a gyógyszertáron kívüli gyógyszerforgalmazást folytató üzlet, valamint a gyógyszert alkalmazó orvos a tudomásra jutást követően haladéktalanul köteles a gyógyszerészeti államigazgatási szervnek bejelenteni.
@@ -461,7 +463,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2a) A gyógyszerészeti államigazgatási szerv jogosult bármely Magyarországon gyártott vagy forgalmazott gyógyszer minőségét és a gyártására vagy forgalmazására vonatkozó dokumentációját ellenőrizni, továbbá jogosult vizsgálat céljából saját költségére – kivéve, ha jogszabály a költséget másra nem terheli – mintát és ellenmintát beszerezni.
 
-(3) Ha a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés, a (2a) bekezdésben foglaltak alapján indult eljárás kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalomba hozatali engedélyében rögzített követelményeknek, vagy ha a minősége nem igazolható, továbbá ha minőségi hibájának gyanúja merül fel, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, elrendeli annak a forgalomból történő kivonását, illetve visszahívását. Az erről szóló, üzleti titkot nem tartalmazó döntést a gyógyszerészeti államigazgatási szerv honlapján közzéteszi. A forgalomból való kivonás, visszahívás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
+(3) Ha a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés, a (2a) bekezdésben foglaltak alapján indult eljárás kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalomba hozatali engedélyében, illetve az (EU) 2016/161 rendeletben rögzített követelményeknek, vagy ha a minősége nem igazolható, továbbá ha minőségi hibájának gyanúja merül fel, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, elrendeli annak a forgalomból történő kivonását, illetve visszahívását. Az erről szóló, üzleti titkot nem tartalmazó döntést a gyógyszerészeti államigazgatási szerv honlapján közzéteszi. A forgalomból való kivonás, visszahívás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
 
 (4)
 
@@ -564,7 +566,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 - a) elrendelheti a jogsértő állapot megszüntetését, vagy
 - b) megtilthatja a jogsértő magatartás további folytatását, vagy
-- c) elrendelheti, illetve kezdeményezheti az emberi életet, egészséget, testi épséget veszélyeztető gyógyszer vagy annak gyártási tétele forgalomból történő kivonását, vagy
+- c) elrendelheti, illetve kezdeményezheti az emberi életet, egészséget, testi épséget veszélyeztető vagy az (EU) 2016/161 rendeletben rögzített követelményeknek nem megfelelő gyógyszer vagy annak gyártási tétele forgalomból történő kivonását, vagy
 - d) határidővel felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatását felfüggesztheti, vagy
 - e) ismételt vagy súlyos közegészségügyi veszélyt rejtő jogsértés esetén a tevékenység folytatására vonatkozó engedélyt visszavonhatja vagy bejelentéshez kötött tevékenység esetén a tevékenység végzőjét a nyilvántartásból törli.
 
@@ -927,6 +929,7 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 - d) a Bizottság 1234/2008/EK (2008. november 24.) rendelete az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerkészítmények forgalomba hozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról,
 - e) a Bizottság 357/2014/EU felhatalmazáson alapuló rendelete (2014. február 3.) a 2001/83/EK európai parlamenti és tanácsi irányelvnek és a 726/2004/EK európai parlamenti és tanácsi rendeletnek az engedélyezés utáni gyógyszerhatásossági vizsgálatok előírását indokolttá tevő esetek tekintetében történő kiegészítéséről,
 - f) az 536/2014/EU európai parlamenti és tanácsi rendeletnek az emberi felhasználásra szánt vizsgálati gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelveknek és iránymutatásoknak, valamint az inspekció szabályainak meghatározása révén történő kiegészítéséről szóló, 2017. május 23-i (EU) 2017/1569 felhatalmazáson alapuló bizottsági rendelet,
+- g) az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet.
 
 34. § Ez a törvény
 
