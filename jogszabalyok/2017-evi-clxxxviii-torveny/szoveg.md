@@ -46,7 +46,19 @@ egyes egészségügyi és egészségbiztosítási tárgyú törvények módosít
 
 14–15. §
 
-16–18. §
+16. § A Gytv. „A forgalomba hozatali engedély jogosultjának, a gyógyszer-nagykereskedelmi engedély jogosultjának, illetve a gyógyszertár működtetőjének gyógyszerellátásra vonatkozó felelőssége” alcíme a következő 16/A. §-sal egészül ki:
+
+„16/A. § A forgalomba hozatali engedély jogosultjának, a gyógyszer-nagykereskedelmi engedély jogosultjának, illetve a gyógyszertár működtetőjének biztosítania kell az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendeletnek [a továbbiakban: (EU) 2016/161 rendelet] való megfelelést szolgálja.”
+
+17. § A Gytv. 17. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés, a (2a) bekezdésben foglaltak alapján indult eljárás kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalomba hozatali engedélyében, illetve az (EU) 2016/161 rendeletben rögzített követelményeknek, vagy ha a minősége nem igazolható, továbbá ha minőségi hibájának gyanúja merül fel, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, elrendeli annak a forgalomból történő kivonását, illetve visszahívását. Az erről szóló, üzleti titkot nem tartalmazó döntést a gyógyszerészeti államigazgatási szerv honlapján közzéteszi. A forgalomból való kivonás, visszahívás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.”
+
+18. § A Gytv. 20. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy az arra kötelezett természetes személy, jogi személy tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,)
+
+„c) elrendelheti, illetve kezdeményezheti az emberi életet, egészséget, testi épséget veszélyeztető vagy az (EU) 2016/161 rendeletben rögzített követelményeknek nem megfelelő gyógyszer vagy annak gyártási tétele forgalomból történő kivonását, vagy”
 
 19. §
 
@@ -54,7 +66,11 @@ egyes egészségügyi és egészségbiztosítási tárgyú törvények módosít
 
 21. § (1)–(2)
 
-(3)
+(3) A Gytv. 33. § (2) bekezdése a következő g) ponttal egészül ki:
+
+(Ez a törvény a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:)
+
+„g) az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet.”
 
 22. §
 
@@ -107,7 +123,7 @@ egyes egészségügyi és egészségbiztosítási tárgyú törvények módosít
 39. § (1) Ez a törvény
 
 - a) az 536/2014/EU európai parlamenti és tanácsi rendeletnek az emberi felhasználásra szánt vizsgálati gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelveknek és iránymutatásoknak, valamint az inspekció szabályainak meghatározása révén történő kiegészítéséről szóló, 2017. május 23-i (EU) 2017/1569 felhatalmazáson alapuló bizottsági rendelet,
-- b)
+- b) az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet
 
 végrehajtásához szükséges intézkedéseket állapít meg.
 
