@@ -786,7 +786,8 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 - 69. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti belső szabályzat jóváhagyására irányuló eljárás;
 - 70. társasház esetén a közösség ügyintézését ellátó közös képviselő vagy az intézőbizottság elnöke adatainak bejegyzésére, törlésére, megváltozására, valamint a közgyűlés által elfogadott számviteli szabályok szerinti beszámoló benyújtására és helyesbítésére irányuló eljárás;
 - 71. az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott támogatás megállapítására irányuló hatósági eljárás;
-- 72. a fiatalok „B” kategóriás közúti járművezetői engedélyének megszerzéséhez nyújtott támogatás megállapítására irányuló hatósági eljárás.
+- 72. a fiatalok „B” kategóriás közúti járművezetői engedélyének megszerzéséhez nyújtott támogatás megállapítására irányuló hatósági eljárás;
+- 73. az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i 2016/1191/EU európai parlamenti és tanácsi rendelet szerinti többnyelvű formanyomtatvány kiállítása.
 
 (3) A 18. életévét be nem töltött személy mentesül a 29. § (1) bekezdés szerinti illeték megfizetése alól.
 
@@ -1752,6 +1753,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 (6) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12.24., 1.o.) hatálya alá tartozó támogatást tartalmaz.
 
 (7) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal való összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187, 2014.6.26.) hatálya alá tartozó támogatást tartalmaz.
+
+(8) A 33. § (2) bekezdés 73. pontja az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i 2016/1191/EU európai parlamenti és tanácsi rendelet 11. cikkének való megfelelést szolgálja.
 
 ### Melléklet
 
