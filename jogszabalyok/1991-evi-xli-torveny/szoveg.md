@@ -1623,6 +1623,8 @@ kommunikálhat.
 
 (2) A közjegyző az (1) bekezdés szerinti tanúsítványt jegyzőkönyvbe foglalja, amelyben tanúsítja, hogy a fél előtte személyesen megjelent. A megjelenés évét, hónapját, napját — a fél kívánságára óráját is —, továbbá a személyazonosság igazolásának módját az okiratban fel kell tünteni.
 
+(3) A közjegyző az (1) bekezdés szerinti tanúsítványhoz a fél kérelmére kiállítja az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló (EU) 2016/1191 európai parlamenti és tanácsi rendelet II. melléklete szerinti többnyelvű formanyomtatványt.
+
 142. § (1) Nyilatkozat vagy értesítés közlését a közjegyző akkor tanúsíthatja, ha a közlés vagy elmaradása jogkövetkezménnyel járhat.
 
 (2) A közjegyző a nyilatkozat vagy értesítés szövegét szó szerint jegyzőkönyvbe foglalja, és az okiratot postán ajánlott vagy tértivevényes küldeményként, illetve az E-ügyintézési törvényben meghatározott módon a másik fél részére továbbítja. A közjegyző a jegyzőkönyvbe foglalt nyilatkozat vagy értesítés szövegét a nyilatkozattevő előtt felolvassa, e jegyzőkönyvet a nyilatkozattevőnek alá kell írnia. A közjegyző a nyilatkozat vagy értesítés közléséről a kérelmet előterjesztő félnek tanúsítványt ad, amelyben feltünteti a nyilatkozat vagy értesítés szó szerinti szövegét, a felek nevét, lakóhelyét, a feladás helyét, évét, hónapját, napját, a kérelmet előterjesztő kívánságára óráját is.
@@ -1924,6 +1926,12 @@ kommunikálhat.
 - c) a közjegyzői irodai tagság létesítésének engedélyezése iránti eljárás részletes szabályait,
 - d) a közjegyzőhelyettes, a közjegyzőjelölt és a közjegyzői irodai ügyintéző további munkaviszonyának létesítésével kapcsolatos eljárás részletes szabályait.
 
-184. § A 48/A. § és 74/A. § a pénzügyi rendszerek pénzmosás vagy terrorizmus-finanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelv 58–60. cikkeinek való megfelelést szolgálja.
+184. § (1) A 48/A. § és 74/A. § a pénzügyi rendszerek pénzmosás vagy terrorizmus-finanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelv 58–60. cikkeinek való megfelelést szolgálja.
 
-#### 185–187. §
+(2) A 141. § (3) bekezdése az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló 2016. július 6-i (EU) 2016/1191 európai parlamenti és tanácsi rendelet 7–12. cikkének való megfelelést szolgálja.
+
+#### 185. §
+
+#### 186. §
+
+#### 187. §
