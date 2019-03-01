@@ -4891,75 +4891,299 @@ kell érteni.
 
 (2) A választási eljárásról szóló 2013. évi XXXVI. törvény 64. § (1) bekezdése szerinti helyettes államtitkári illetmény alatt jogszabály eltérő rendelkezése hiányában 2019. július 1-jéig a helyettes államtitkár Kttv. 2018. december 31-én hatályos rendelkezései szerinti illetményét kell érteni.
 
-#### 296. §
+#### 296. § [A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása]
 
-#### 297. §
+Hatályát veszti a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 8/A. §-a és 38. § (4) bekezdés a) pontja.
 
-#### 298. §
+#### 297. § [A használati minták oltalmáról szóló 1991. évi XXXVIII. törvény módosítása]
 
-#### 299. §
+Hatályát veszti a használati minták oltalmáról szóló 1991. évi XXXVIII. törvény 8. §-ában az „ , állami szolgálati” szövegrész.
 
-#### 300. §
+#### 298. § [A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása]
 
-#### 301. §
+(1) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-#### 302. §
+„(3) A 25/C. § hatálya – az ott meghatározottak szerint – kiterjed a közszolgálati tisztviselőkről szóló törvény és a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatóra és kormánytisztviselőre, köztisztviselőre, kormányzati és közszolgálati ügykezelőre, valamint a közigazgatási szervnél és a kormányzati igazgatási szervnél foglalkoztatott munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a kormányzati szolgálati jogviszony, a közszolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony vagy a munkaviszony létesítésére e törvény szabályai szerint kerül sor.”
 
-#### 303. §
+(2) A Kjt. 77/A. §-a helyébe a következő rendelkezés lép:
 
-#### 304. §
+„77/A. § A közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és a kormányzati igazgatásról szóló törvényben, valamint ezek végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a közalkalmazott is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.”
 
-#### 305. §
+(3) A Kjt. 87/A. § (1) bekezdése a következő l) ponttal egészül ki:
 
-#### 306. §
+(E törvény alkalmazásakor közalkalmazotti jogviszonyban töltött időnek kell tekinteni)
 
-#### 307. §
+„l) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban”
 
-#### 308. §
+(töltött időt.)
 
-#### 309. §
+(4) A Kjt.
 
-#### 310. §
+- a) 4. § (1) bekezdésében az „az állami tisztviselőkről szóló törvény” szövegrész helyébe az „a kormányzati igazgatásról szóló törvény” szöveg,
+- b) 25/C. § (4) bekezdésében az „az állami tisztviselőkről szóló törvény” szövegrész helyébe az „a kormányzati igazgatásról szóló törvény” szöveg, a „kormányzati szolgálati” szövegrész helyébe a „kormányzati szolgálati, politikai szolgálati, biztosi” szöveg,
+- c) 25/C. § (6) bekezdésében az „az állami tisztviselőkről szóló” szövegrész helyébe az „a kormányzati igazgatásról szóló” szöveg, a „kormányzati szolgálati” szövegrész helyébe a „kormányzati szolgálati, politikai szolgálati, biztosi” szöveg,
+- d) 25/C. § (7) bekezdésében a „közszolgálati tisztviselőkről szóló törvény” szövegrész helyébe a „közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény” szöveg,
+- e) 25/C. § (8) bekezdésében a „kormányzati szolgálati,” szövegrész helyébe a „kormányzati szolgálati, politikai szolgálati, biztosi,” szöveg, a „kormányzati szolgálati jogviszonyra” szövegrész helyébe a „kormányzati szolgálati jogviszonyra, a politikai szolgálati jogviszonyra, a biztosi jogviszonyra” szöveg,
+- f) 25/C. § (9) bekezdésében a „kormányzati szolgálati” szövegrészek helyébe a „kormányzati szolgálati, politikai szolgálati, biztosi” szöveg,
+- g) 25/C. § (11) bekezdésében a „kormányzati szolgálati jogviszonyra” szövegrész helyébe a „kormányzati szolgálati jogviszonyra, a politikai szolgálati jogviszonyra, a biztosi jogviszonyra” szöveg,
+- h) 25/C. § (12) bekezdésében az „az állami tisztviselőkről szóló törvény” szövegrészek helyébe az „a kormányzati igazgatásról szóló törvény” szöveg, a „kormányzati szolgálati” szövegrész helyébe a „kormányzati szolgálati, politikai szolgálati, biztosi” szöveg,
+- i) 25/C. § (13) bekezdés b) pontjában a „kormányzati szolgálati” szövegrész helyébe a „kormányzati szolgálati, politikai szolgálati, biztosi” szöveg,
+- j) 44/A. § (2) bekezdésében az „az állami tisztviselőkről szóló törvény” szövegrész helyébe az „a kormányzati igazgatásról szóló törvény” szöveg
 
-#### 311. §
+lép.
 
-#### 312. §
+(5) Hatályát veszti a Kjt.
 
-#### 313. §
+- a) 25. § (2) bekezdés b) pont 5. alpontja,
+- b) 25/C. § (4), (6), (8) bekezdésében az „ , állami szolgálati” szövegrész,
+- c) 25/C. § (8), (11) bekezdésében az „ , állami szolgálati jogviszonyra” szövegrész,
+- d) 25/C. § (9) bekezdésében az „ , állami szolgálati” szövegrészek,
+- e) 25/C. § (12) bekezdésében a „ , vagy állami szolgálati” szövegrész.”
 
-#### 314. §
+#### 299. § [A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása]
 
-#### 315. §
+A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 19/B. §-ában az „az állami tisztviselőkről szóló törvény” szövegrész helyébe az „a kormányzati igazgatásról szóló törvény” szöveg lép.
 
-#### 316. §
+#### 300. § [A munkavédelemről szóló 1993. évi XCIII. törvény módosítása]
 
-#### 317. §
+(1) A munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.)
 
-#### 318. §
+- a) 5. §-ában az „az állami tisztviselőkről” szövegrész helyébe az „a kormányzati igazgatásról” szöveg,
+- b) 9. § (4) bekezdésében a „közszolgálati jogviszonyban” szövegrész helyébe a „közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban” szöveg,
+- c) 87. § 9. pontjában a „kormányzati szolgálati” szövegrész helyébe a „kormányzati szolgálati, a politikai szolgálati, a biztosi” szöveg,
+- d) 88. § (3) bekezdés c) pontjában a „kormányzati szolgálati jogviszony” szövegrész helyébe a „kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony” szöveg
 
-#### 319. §
+lép.
 
-#### 320. §
+(2) Hatályát veszti az Mvt. 87. § 9. pontjában az „az állami szolgálati,” szövegrész.
 
-#### 321. §
+#### 301. § [A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása]
 
-#### 322. §
+(1) A Rendőrségről szóló 1994. évi XXXIV. törvény 7. § (1) bekezdés b) pont ba) alpontjában az „az állami tisztviselőkről szóló törvény” szövegrész helyébe az „a kormányzati igazgatásról szóló törvény” szöveg lép.
 
-#### 323. §
+(2) Hatályát veszti a Rendőrségről szóló 1994. évi XXXIV. törvény 7. § (1) bekezdés b) pont ba) alpontjában a „valamint állami szolgálati jogviszonyban álló állami tisztviselők és állami ügykezelők,” szövegrész.
+
+(3) Hatályát veszti a Rendőrségről szóló 1994. évi XXXIV. törvény
+
+- a) 7. § (1) bekezdés b) pont bc) alpontjában az „állami szolgálati,” szövegrész,
+- b) 7. § (1) bekezdés b) pont bd) alpontjában az „állami tisztviselői,” szövegrész.
+
+#### 302. § [A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása]
+
+Hatályát veszti a bírósági végrehajtásról szóló 1994. évi LIII. törvény
+
+- a) 7. § (1) bekezdésében az „ , az állami szolgálati”,
+- b) 66. § a) pontjában az „ állami szolgálati,”
+
+szövegrész.
+
+#### 303. § [A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény módosítása]
+
+Hatályát veszti a szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény 12. § (1) bekezdésében és 14. § (1) bekezdés a) pontjába az „az állami szolgálati,” szövegrész.
+
+#### 304. § [A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása]
+
+Hatályát veszti a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 17. §-ában az „ , állami szolgálati” szövegrész.
+
+#### 305. § [A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény módosítása]
+
+A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 87. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kizárás szabályait kell alkalmazni a vadászati, az erdészeti, valamint a természetvédelmi hatósági feladatokat ellátó kormánytisztviselővel szemben, aki olyan vadászatra jogosult hatósági ügyében jár el, amelynél akár tagként (érdekeltként), akár vendégvadászként vadászik, továbbá a trófeabírálati eljárásban részt vevő személynél, ha e személy a vadászatra jogosultnál, mint vadász érdekelt, vagy ha a Polgári Törvénykönyv szerinti közeli hozzátartozója által elejtett trófea bírálatát kellene elvégezni.”
+
+#### 306. § [A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása]
+
+(1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 69/B. § (4) bekezdésében a „közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszonyban” szövegrész helyébe a „kormányzati szolgálati jogviszonyban” szöveg lép.
+
+(2) Hatályát veszti a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény
+
+- a) 102. § (1) bekezdésében az „állami szolgálati jogviszonyban,” szövegrész,
+- b) 102. § (1a) bekezdés b) pontjában az „állami szolgálati jogviszonyban vagy” szövegrész.
+
+#### 307. § [A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása]
+
+A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. § (1) bekezdés a) pontjában a „kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban” szövegrész helyébe a „kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban” szöveg lép.
+
+#### 308. § [A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása]
+
+A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 83/C. § (1) bekezdésében az „állami szolgálati jogviszonyban, állami vezetői szolgálati jogviszonyban” szövegrész helyébe a „politikai szolgálati jogviszonyban, biztosi jogviszonyban” szöveg lép.
+
+#### 309. § [A külföldre utazásról szóló 1998. évi XII. törvény módosítása]
+
+A külföldre utazásról szóló 1998. évi XII. törvény 13. § (1) bekezdés a) pontjába a „közszolgálati tisztviselője” szövegrész helyébe a „kormánytisztviselője” szöveg lép.
+
+#### 310. § [A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása]
+
+A családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § d) pontjában a „kormányzati szolgálati” szövegrész helyébe a „politikai szolgálati, biztosi, kormányzati szolgálati” szöveg lép.
+
+#### 311. § [A szerzői jogról szóló 1999. évi LXXVI. törvény módosítása]
+
+Hatályát veszti a szerzői jogról szóló 1999. évi LXXVI. törvény 30. § (7) bekezdésében az „ , állami szolgálati” szövegrész.
+
+#### 312. § [A konzuli védelemről szóló 2001. évi XLVI. törvény módosítása]
+
+(1) A konzuli védelemről szóló 2001. évi XLVI. törvény (a továbbiakban: Konztv.) 2. § (2d) bekezdése helyébe a következő rendelkezés lép:
+
+„(2d) Diplomáciai vagy hivatásos konzuli képviseleten a konzuli tisztviselő munkájában igazgatási munkakörben való közreműködésre a minisztériummal kormányzati szolgálati jogviszonyban álló azon kormánytisztviselő nevezhető ki, aki közigazgatási alapvizsgával rendelkezik vagy az alól jogszabály alapján mentesült és legalább kétévi közigazgatási gyakorlattal rendelkezik, amelyből legalább egy hónap szakmai gyakorlatot szerzett a minisztérium konzuli ügyekben illetékes főosztályán, továbbá a konzuli szakmai tanfolyamon való részvételt követően sikeres konzuli ügyintézői vizsgát tett.”
+
+(2) Hatályát veszti a Konztv. 2. § (2f) bekezdésében az „a kormányzati ügykezelő,” szövegrész.
+
+#### 313. § [A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény módosítása]
+
+Hatályát veszti a formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény 14. § (6) bekezdésében az „ , állami szolgálati” szövegrész.
+
+#### 314. § [A sportról szóló 2004. évi I. törvény módosítása]
+
+A sportról szóló 2004. évi I. törvény 43. § (4) bekezdésében, 46/C. § (4) bekezdésében, 46/I. § (4) bekezdésében és 46/O. § (4) bekezdésében az „állami vezető” szövegrész helyébe a „politikai felsővezető” szöveg lép.
+
+#### 315. § [A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosítása]
+
+(1) A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény (a továbbiakban: Pftv.)
+
+- a) 1. § (2) bekezdés 3. pontjában a „kormányzati szolgálati jogviszony” szövegrész helyébe a „kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, biztosi jogviszony” szöveg,
+- b) 1. § (2) bekezdés 6. pontjában a „kormányzati szolgálati jogviszonyban” szövegrész helyébe a „kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban” szöveg,
+- c) 1. § (2) bekezdés 7. pontjában az „1. § e) pontja és 2. §-a, az állami tisztviselőkről szóló törvény (a továbbiakban: Áttv.) 1. §-a” szövegrész helyébe az „1. és 2. §-a, a kormányzati igazgatásról szóló törvény (a továbbiakban: Kit.) 2. §-a” szöveg,
+- d) 1. § (2) bekezdés 8. pontjában az „az Áttv.” szövegrész helyébe az „a Kit.” szöveg
+
+lép.
+
+(2) Hatályát veszti a Pftv.
+
+- a) 1. § (2) bekezdés 3. pontjában az „állami szolgálati jogviszony,” szövegrész,
+- b) 1. § (2) bekezdés 6. pontjában az „állami szolgálati jogviszonyban,” szövegrész.
+
+#### 316. § [Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása]
+
+Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 38/D. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha törvény vagy kormányrendelet valamely közigazgatási hatósági feladat ellátására az ÉBC-t jelöli ki, az eljárásában ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a kormányzati igazgatásról szóló törvény alapján kormánytisztviselőnek kinevezhető lenne. A döntéshozóra és az ügyintézőre a kormányzati igazgatásról szóló törvény összeférhetetlenségi szabályait kell alkalmazni.”
+
+#### 317. § [Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása]
+
+Az anyakönyvi eljárásról szóló 2010. évi I. törvény 3. §-a a következő w) ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„w) hivatali munkaidő: a közszolgálati tisztviselőkről szóló törvényen alapuló általános munkarend szerinti munkaidő.”
+
+#### 318. § [Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosítása]
+
+Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 3. § (4) bekezdésében az „a közszolgálati tisztviselőkről szóló törvény 1. § e) pontjában” szövegrész helyébe az „a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 1. § (1) bekezdésében” szöveg lép.
+
+#### 319. § [A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása]
+
+A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 7. § (2) bekezdésében a „támogatására, vezetőnként legfeljebb két szakfőigazgató nevezhető ki.” szövegrész helyébe a „támogatására szakfőigazgatók nevezhetők ki. Az állami adó- és vámhatóság vezetőjének szakmai helyettesét akadályoztatása esetén, vagy ha a helyettes államtitkári tisztség nincs betöltve, a NAV szervezeti és működési szabályzatában meghatározott vezetői munkakört betöltő személy is helyettesítheti.” szöveg lép.”
+
+#### 320. § [A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása]
+
+(1) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény (a továbbiakban: Üjt.) 11. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+[Az (1) bekezdésben foglalt feltételeken túl az a személy nevezhető ki ügyésszé, aki a jogi szakvizsga letételét követően]
+
+„b) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában meghatározott szervnél közigazgatási, illetve jogi szakvizsgához kötött álláshelyen, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 2. §-a szerinti szervnél, valamint a rendőrség, a büntetés-végrehajtás és a hivatásos katasztrófavédelmi szerv központi, területi és helyi szervénél közigazgatási, illetve jogi szakvizsgához kötött munkakörben legalább egy évig ténylegesen dolgozott,”
+
+(2) Az Üjt. 121. § (10) bekezdés a) pontjában és 130. § (5) bekezdés e) pontjában az „állami szolgálati jogviszonyt vagy a Kttv. 1. és 2. §-ában” szövegrész helyébe az „a Kttv. 1. és 2. §-ában, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában” szöveg lép.
+
+#### 321. § [Az államháztartásról szóló 2011. évi CXCV. törvény módosítása]
+
+(1) Az államháztartásról szóló 2011. évi CXCV. törvény
+
+- a) 11/F. § (1) bekezdésében a „honvédek jogállásáról szóló törvény” szövegrész helyébe a „honvédek jogállásáról szóló törvény, a kormányzati igazgatásról szóló törvény” szöveg, az „állami szolgálati” szövegrész helyébe a „politikai szolgálati, biztosi” szöveg,
+- b) 11/F. § (3) bekezdésében és (8) bekezdésében a „kormányzati szolgálati” szövegrész helyébe a „kormányzati szolgálati, politikai szolgálati, biztosi” szöveg,
+- c) 11/F. § (7) bekezdésében a „kormányzati szolgálati” szövegrészek helyébe a „kormányzati szolgálati, politikai szolgálati, biztosi” szöveg
+
+lép.
+
+(2) Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény 11/F. § (1) bekezdésében az „állami tisztségviselőkről szóló törvény,” szövegrész.
+
+#### 322. § [A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása]
+
+(1) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs.tv.) 84. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A szabálysértési hatósághoz vagy a bírósághoz intézett beadvány előterjesztésének és az előttük teljesíthető cselekménynek a határideje a hivatali munkaidő végével jár le. Nem számít a határidő elmulasztásának, ha a beadványt a határidő utolsó napján postára adták. E bekezdés alkalmazásában hatósági hivatali munkaidő a közszolgálati tisztviselőkről szóló törvényen alapuló általános munkarend szerinti munkaidő.”
+
+(2) A Szabs.tv. 39. § (3) bekezdésében a „ , kormánytisztviselő vagy állami tisztviselő” szövegrész helyébe a „vagy kormánytisztviselő” szöveg lép.
+
+#### 323. § [Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása]
+
+(1) Az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogytv.) 124/L. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A jubileumi jutalomra jogosító idő megállapításánál)
+
+„b) a Kttv., a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), az állami tisztviselőkről szóló 2016. évi LII. törvény (a továbbiakban: Áttv.) és a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati, kormánytisztviselői, kormányzati szolgálati és állami szolgálati jogviszonyban,”
+
+(töltött időt kell figyelembe venni.)
+
+(2) Az Ogytv. 124/L. § (3) bekezdése a következő j) ponttal egészül ki:
+
+(A jubileumi jutalomra jogosító idő megállapításánál)
+
+„j) a politikai szolgálati jogviszonyban”
+
+(töltött időt kell figyelembe venni.)
+
+(3) Az Ogytv. 124/L. § (3) bekezdés g) pontjában az „Áttv.,” szövegrész helyébe az „Áttv., a Kit.,” szöveg lép.
 
 #### 324. §
 
-#### 325. §
+#### 325. § [A támogatott döntéshozatalról szóló 2013. évi CLV. törvény módosítása]
 
-#### 326. §
+Hatályát veszti a támogatott döntéshozatalról szóló 2013. évi CLV. törvény
+
+- a) 7. § (3) bekezdés a) pontjában az „ , állami szolgálati jogviszonyban” szövegrész,
+- b) 7. § (5) bekezdés b) pontjában a „vagy állami szolgálati jogviszonyban” szövegrész.
+
+#### 326. § [A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása]
+
+(1) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 72. §-a helyébe a következő rendelkezés lép:
+
+„72. § (1) A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a rendvédelmi szerv hivatásos állományának tagja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
+
+(2) A kormányzati igazgatásról szóló törvény szerinti célhoz köthető feladat végrehajtásában a kormányzati igazgatásról szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a rendvédelmi szerv hivatásos állományának tagja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célhoz köthető feladat eredményes végrehajtásáért céljuttatásra jogosult.””
+
+(2) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
+
+a) 82/J. § (5) bekezdésében az „az állami tisztviselőkről szóló 2016. évi LII. törvény 1. §-ában” szövegrész helyébe az „a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában” szöveg,
+
+b) 124. § (3) bekezdésében az „és a közszolgálati tisztviselőkről szóló törvény” szövegrész helyébe az „ , a közszolgálati tisztviselőkről szóló törvény és a kormányzati igazgatásról szóló törvény” szöveg,
+
+c) 4. melléklet IV. alcím 4. pontjában a „törvény” szövegrész helyébe a „törvény vagy a kormányzati igazgatásról szóló törvény” szöveg
+
+lép.
+
+(3) Hatályát veszti a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
+
+a) 34. § (1) bekezdésében az „ , állami szolgálati jogviszonyból” szövegrész,
+
+b) 35. §-ában, 80. § (2) bekezdés e) pontjában, 91. § (2) bekezdés b) pontjában, 340. § 3. pontjában az „állami szolgálati,” szövegrész,
+
+c) 95. §-ában az „állami szolgálati jogviszonyban,” szövegrész,
+
+d) 96. §-ában az „állami szolgálati,” szövegrészek,
+
+e) 292. § (3) bekezdésében, 308. § (3) bekezdésében az „és Állami Tisztviselői” szövegrész,
+
+f) 334. § (3) bekezdésében az „állami szolgálati jogviszonyból,” szövegrész.”
 
 #### 327. §
 
-#### 328. §
+#### 328. § [A hivatalos statisztikáról szóló 2016. évi CLV. törvény módosítása]
+
+(1) A hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 7. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A kormányzati igazgatásról szóló CXXV. törvény 262. § (2) bekezdésében foglaltakat a KSH vonatkozásában nem kell alkalmazni.”
+
+(2) Az Stt. 10. §-a helyébe a következő rendelkezés lép:
+
+„10. § Törvény eltérő rendelkezése hiányában a KSH elnöke és elnökhelyettesei jogviszonyára – az e törvényben foglalt eltérésekkel – a kormányzati igazgatásról szóló törvény szakmai vezetői álláshelyet betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.”
+
+(3) Az Stt. 7. § (1) bekezdésében a „kormányhivatalként” szövegrész helyébe a „kormányzati főhivatalként” szöveg lép.
 
 #### 329. §
 
-#### 330. §
+#### 330. § [A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása]
+
+A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 34. § 12. pont c) alpontjában az „az állami szolgálati jogviszony, a kormányzati szolgálati viszony” szövegrész helyébe az „a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony” szöveg lép.
 
 #### 331. §
 

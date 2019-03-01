@@ -470,7 +470,7 @@ kézbesítettnek kell tekinteni.
 
 #### 26. Szolgálati viszony létesítése áthelyezéssel
 
-34. § (1) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, állami szolgálati jogviszonyból vagy a Magyar Honvédség hivatásos katonai állományából áthelyezéssel történik, próbaidő kikötésére nem kerül sor.
+34. § (1) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból vagy a Magyar Honvédség hivatásos katonai állományából áthelyezéssel történik, próbaidő kikötésére nem kerül sor.
 
 (2) Ha a szolgálati viszony közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból vagy igazságügyi alkalmazotti jogviszonyból áthelyezéssel létesül, a próbaidő kikötése kötelező, azzal, hogy próbaidő legfeljebb hat hónap időtartamra köthető ki. Mellőzhető a próbaidő kikötése, ha az áthelyezett rendelkezik a szolgálati beosztás ellátásához előírt rendvédelmi képzettséggel.
 
@@ -478,7 +478,7 @@ kézbesítettnek kell tekinteni.
 
 (4) Szolgálati viszony létesítésére a hivatásos szolgálat felső korhatáráig kerülhet sor. Egyebekben az áthelyezettnek meg kell felelnie a szolgálati viszony létesítéséhez a 33. § (1)–(6) bekezdésében meghatározott feltételeknek.
 
-35. § Ha a rendvédelmi szervnél megüresedő szolgálati beosztást a rendvédelmi szerv állományából az e törvény szerinti előmenetel alapján nem lehet betölteni, előnyben kell részesíteni a rendvédelmi szerv vagy más rendvédelmi szerv hivatásos állományából, a Magyar Honvédség hivatásos katonai állományából, továbbá a kormányzati szolgálati, állami szolgálati, közszolgálati jogviszonyból tartalékállományba kerülteket.
+35. § Ha a rendvédelmi szervnél megüresedő szolgálati beosztást a rendvédelmi szerv állományából az e törvény szerinti előmenetel alapján nem lehet betölteni, előnyben kell részesíteni a rendvédelmi szerv vagy más rendvédelmi szerv hivatásos állományából, a Magyar Honvédség hivatásos katonai állományából, továbbá a kormányzati szolgálati, közszolgálati jogviszonyból tartalékállományba kerülteket.
 
 #### 27. Hivatásos állományba visszavétel
 
@@ -980,7 +980,9 @@ kell alkalmazni.
 - a) tartósan akadályozott személy az, aki keresőképtelenség, átrendelés, szolgálati feladatra vezénylés miatt, vagy más okból – ide nem értve a harminc napot meg nem haladó szabadság idejét – harminc napnál hosszabb ideje nem tudja ellátni a szolgálati beosztását vagy abból adódó feladatait, vagy előre láthatóan harminc napnál hosszabb ideig nem fogja azt ellátni,
 - b) szervezetszerű helyettes a hivatásos állománynak az a vezetői beosztást betöltő tagja, akinek a szolgálati beosztását elsődlegesen arra rendszeresítették, hogy távolléte esetén szolgálati elöljáróját általános jelleggel helyettesítse.
 
-72. § A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a rendvédelmi szerv hivatásos állományának tagja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
+72. § (1) A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a rendvédelmi szerv hivatásos állományának tagja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
+
+(2) A kormányzati igazgatásról szóló törvény szerinti célhoz köthető feladat végrehajtásában a kormányzati igazgatásról szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a rendvédelmi szerv hivatásos állományának tagja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célhoz köthető feladat eredményes végrehajtásáért céljuttatásra jogosult.
 
 72/A. § (1) A 72. §-tól eltérően a nemzetközi közigazgatási szakértői tevékenység tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 154. § (4) és (5) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
@@ -1087,7 +1089,7 @@ kell alkalmazni.
 - b) lemondással,
 - c) azonnali hatályú lemondással,
 - d) felmentéssel,
-- e) kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba, vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
+- e) kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba, vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
 - f) más rendvédelmi szervhez történő áthelyezéssel,
 - g) a Magyar Honvédséghez történő áthelyezéssel,
 - h) azonnali hatállyal a próbaidő alatt.
@@ -1303,7 +1305,7 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 
 (4) Az (1) bekezdés d) pontjában foglaltaktól eltérően nem szűnik meg az egészségkárosodási ellátásra való jogosultság, ha az érintett ismételten szolgálati viszonyt létesít, azonban a megállapított illetménye kevesebb a 82/H. § (5) bekezdésére tekintettel a rendvédelmi illetményalap emelkedésének százalékos mértékével megemelt, 82/G. § (1), illetve (2) bekezdése szerinti távolléti díjnál. Ebben az esetben a rendvédelmi egészségkárosodási járadékra való jogosultság a 82/G. §-ban foglalt számítási szabályok alkalmazásával megállapított mértékben továbbra is fennáll.
 
-(5) Az (1) bekezdés i) pontjában foglaltaktól eltérően nem szűnik meg az egészségkárosodási ellátásra való jogosultsága annak a rendvédelmi egészségkárosodási járadékra jogosultnak, aki a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 1. §-ában vagy 2. §-ában, vagy az állami tisztviselőkről szóló 2016. évi LII. törvény 1. §-ában felsorolt szervnél létesít foglalkoztatási jogviszonyt. Ebben az esetben a rendvédelmi egészségkárosodási járadék helyett részére a 82/G. § (4) bekezdésében meghatározott mértékű rendvédelmi egészségkárosodási keresetkiegészítést kell megállapítani. A rendvédelmi egészségkárosodási keresetkiegészítést a rendvédelmi szerv folyósítja ezt követően is. Az egészségkárosodási ellátás mértékének megállapításához szükséges, az érintett illetményére vagy munkabérére vonatkozó adatokról az országos parancsnokot kérelmére a foglalkoztató szerv vezetője tájékoztatja. Az illetmény vagy munkabér mértékének megváltozásáról az egészségkárosodási ellátásra jogosult köteles tájékoztatni az országos parancsnokot.
+(5) Az (1) bekezdés i) pontjában foglaltaktól eltérően nem szűnik meg az egészségkárosodási ellátásra való jogosultsága annak a rendvédelmi egészségkárosodási járadékra jogosultnak, aki a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 1. §-ában vagy 2. §-ában, vagy a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában felsorolt szervnél létesít foglalkoztatási jogviszonyt. Ebben az esetben a rendvédelmi egészségkárosodási járadék helyett részére a 82/G. § (4) bekezdésében meghatározott mértékű rendvédelmi egészségkárosodási keresetkiegészítést kell megállapítani. A rendvédelmi egészségkárosodási keresetkiegészítést a rendvédelmi szerv folyósítja ezt követően is. Az egészségkárosodási ellátás mértékének megállapításához szükséges, az érintett illetményére vagy munkabérére vonatkozó adatokról az országos parancsnokot kérelmére a foglalkoztató szerv vezetője tájékoztatja. Az illetmény vagy munkabér mértékének megváltozásáról az egészségkárosodási ellátásra jogosult köteles tájékoztatni az országos parancsnokot.
 
 82/K. § (1) A rendvédelmi szerv központi szerve az egészségkárosodási ellátással kapcsolatos jogosultság elbírálása, valamint az egészségkárosodási ellátással kapcsolatos feladatok ellátása érdekében kezeli az egészségkárosodási ellátás megállapításához és folyósításához szükséges adatokat,
 
@@ -1492,7 +1494,7 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 (2) A hivatásos állomány tagját kérelmére a szolgálati viszony megszűnése után is tartalékállományban kell tartani a továbbfoglalkoztatás megkezdéséig, de legfeljebb egy évig, ha
 
 - a) a 86. § (2) bekezdés a) pontja alapján egészségi, pszichikai vagy fizikai alkalmatlanság miatt mentették fel,
-- b) az (1) bekezdés szerinti tartalékállomány tartama alatt részére a rendvédelmi szervnél, más rendvédelmi vagy egyéb költségvetési szervnél a képzettségének, végzettségének, egészségi, pszichikai és fizikai állapotának megfelelő hivatásos, rendvédelmi igazgatási szolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti jogviszony vagy munkaviszony alá tartozó munkakör nem volt biztosítható, és
+- b) az (1) bekezdés szerinti tartalékállomány tartama alatt részére a rendvédelmi szervnél, más rendvédelmi vagy egyéb költségvetési szervnél a képzettségének, végzettségének, egészségi, pszichikai és fizikai állapotának megfelelő hivatásos, rendvédelmi igazgatási szolgálati, kormányzati szolgálati, közalkalmazotti jogviszony vagy munkaviszony alá tartozó munkakör nem volt biztosítható, és
 - c) a felmentési idő lejártakor rendelkezik legalább huszonöt év tényleges szolgálati idővel.
 
 (3) A (2) bekezdés szerinti tartalékállományban tartás időtartamára a tartalékállományban tartott a felmentését megelőző havi illetménye 50%-ának, de legalább a minimálbérnek megfelelő összegű ideiglenes szolgálati járandóságra jogosult, feltéve, hogy az ideiglenes szolgálati járandóság kezdő napján más biztosítással járó jogviszonyban nem áll, és a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátásban – ide nem értve a Tny. szerinti hozzátartozói nyugellátásokat – nem részesül. A tartalékállomány időtartama társadalombiztosítási szempontból szolgálati időnek számít, a tartalékállományban tartott biztosítási jogviszonyban áll.
@@ -1529,7 +1531,7 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 
 94. § Ha törvény a tartalékállományba helyezettek vagy tartalékállományban tartottak foglalkoztatására járulékcsökkentési kedvezményt biztosít, vagy lehetővé teszi annak személyi juttatásokra történő felhasználását, e rendelkezéseket a 91–93. § szerint tartalékállományba helyezett vagy tartalékállományban tartott személyt foglalkoztatóra is alkalmazni kell.
 
-95. § A rendvédelmi szervek hivatásos állományából tartalékállományba helyezetteket és a tartalékállományban tartottakat a közszolgálatban történő továbbfoglalkoztatásuk érdekében a kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy igazságügyi alkalmazotti szolgálati jogviszonyban foglalkoztató költségvetési szerveknél, valamint a Magyar Honvédségnél a megüresedő munkakörök betöltésénél előnyben kell részesíteni.
+95. § A rendvédelmi szervek hivatásos állományából tartalékállományba helyezetteket és a tartalékállományban tartottakat a közszolgálatban történő továbbfoglalkoztatásuk érdekében a kormányzati szolgálati jogviszonyban, közszolgálati, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy igazságügyi alkalmazotti szolgálati jogviszonyban foglalkoztató költségvetési szerveknél, valamint a Magyar Honvédségnél a megüresedő munkakörök betöltésénél előnyben kell részesíteni.
 
 #### 57. Kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezés
 
@@ -1537,9 +1539,9 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 
 - a) az állományilletékes parancsnok,
 - b) az állományilletékes parancsnok és a rendvédelmi szerv másik szervezeti egységének munkáltatói jogkört gyakorló elöljárója, vagy
-- c) az állományilletékes parancsnok és a kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti vagy igazságügyi alkalmazotti szolgálati jogviszony létrehozására feljogosított munkáltatói szerv vezetője
+- c) az állományilletékes parancsnok és a kormányzati szolgálati, közszolgálati, közalkalmazotti vagy igazságügyi alkalmazotti szolgálati jogviszony létrehozására feljogosított munkáltatói szerv vezetője
 
-megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti vagy igazságügyi alkalmazotti szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezésében.
+megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, közszolgálati, közalkalmazotti vagy igazságügyi alkalmazotti szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezésében.
 
 #### 58. Más rendvédelmi szervhez történő áthelyezés
 
@@ -1858,7 +1860,7 @@ besorolási kategóriába kell besorolni.
 
 (2) Ha a szervezeti egységnél nincs a feltételeknek megfelelő személy, az állományilletékes parancsnok elsődlegesen a rendvédelmi szerv személyi állományából kiválasztási eljárással vagy pályáztatással töltheti be a szolgálati beosztást.
 
-(3) Ha a (2) bekezdésben foglaltak alapján a rendvédelmi szerv személyi állományában sincs a feltételeknek megfelelő személy, a miniszter engedélyével az állományilletékes parancsnok a tartalékállományból vagy az e törvény hatálya alá tartozó másik rendvédelmi szerv, vagy a Magyar Honvédség és a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szervek személyi állományából pályáztatással töltheti be a szolgálati beosztást.
+(3) Ha a (2) bekezdésben foglaltak alapján a rendvédelmi szerv személyi állományában sincs a feltételeknek megfelelő személy, a miniszter engedélyével az állományilletékes parancsnok a tartalékállományból vagy az e törvény hatálya alá tartozó másik rendvédelmi szerv, vagy a Magyar Honvédség, a közszolgálati tisztviselőkről szóló törvény és a kormányzati igazgatásról szóló törvény hatálya alá tartozó szervek személyi állományából pályáztatással töltheti be a szolgálati beosztást.
 
 (4) Az (1)–(3) bekezdés szerinti eljárástól rendkívüli esetben a miniszter engedélyével az állományilletékes parancsnok eltérhet.
 
@@ -4636,7 +4638,7 @@ hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak a
 
 (2) Az MRK tagjai az e törvényben és az MRK Alapszabályában (a továbbiakban: Alapszabály) meghatározott módon és feltételek szerint tagozatokat hoznak létre, amelyek ellátják az Alapszabályban, valamint a 293. §-ban meghatározott szervek által átruházott feladatokat.
 
-(3) Az Alapszabály rendelkezhet területi szervek, valamint a Magyar Kormánytisztviselői és Állami Tisztviselői Karral közös szervezetek létrehozásáról és az együttműködés rendjéről.
+(3) Az Alapszabály rendelkezhet területi szervek, valamint a Magyar Kormánytisztviselői Karral közös szervezetek létrehozásáról és az együttműködés rendjéről.
 
 (4) Az MRK
 
@@ -4836,7 +4838,7 @@ hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak a
 
 (2) Az ágazati érdekvédelmi tanács a miniszter, az országos parancsnok, valamint az MRK képviseletében eljáró konzultatív tanács részvételével működik.
 
-(3) A konzultatív tanáccsal való együttműködésről a miniszter és az MRK együttműködési megállapodást köt. A konzultatív tanácsba a miniszter meghívhatja a Magyar Kormánytisztviselői és Állami Tisztviselői Kar képviselőjét a rendvédelmi szervekkel és az idegenrendészeti és menekültügyi feladatokat ellátó szervvel kormányzati szolgálati jogviszonyban állók érdekeinek egyeztetése céljából.
+(3) A konzultatív tanáccsal való együttműködésről a miniszter és az MRK együttműködési megállapodást köt. A konzultatív tanácsba a miniszter meghívhatja a Magyar Kormánytisztviselői Kar képviselőjét a rendvédelmi szervekkel és az idegenrendészeti és menekültügyi feladatokat ellátó szervvel kormányzati szolgálati jogviszonyban állók érdekeinek egyeztetése céljából.
 
 (4) Az ágazati érdekvédelmi tanácsot a (3) bekezdés szerinti megállapodásban meghatározott rendben és időközönként kell összehívni.
 
@@ -5030,7 +5032,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (2) A miniszter e törvényben meghatározottakon túl, a szolgálat sajátosságainak megfelelő további alkalmassági követelményeket határozhat meg.
 
-(3) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, állami szolgálati jogviszonyból, közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, igazságügyi alkalmazotti szolgálati jogviszonyból, a Magyar Honvédség hivatásos katonai állományából vagy más rendvédelmi szervnél fennálló szolgálati viszonyból áthelyezéssel történik, próbaidő a 49. § (1)–(3) bekezdésében foglaltakra figyelemmel kiköthető.
+(3) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, igazságügyi alkalmazotti szolgálati jogviszonyból, a Magyar Honvédség hivatásos katonai állományából vagy más rendvédelmi szervnél fennálló szolgálati viszonyból áthelyezéssel történik, próbaidő a 49. § (1)–(3) bekezdésében foglaltakra figyelemmel kiköthető.
 
 335. § (1) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja – az 51. §-ban meghatározott szerveken kívül – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott intézményeknél és szervezeteknél is teljesíthet szolgálatot.
 
@@ -5077,7 +5079,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 - 1. meghatározza a rendvédelmi szerv e törvény szempontjából központi, területi vagy helyi szervnek minősülő szerveit, szervezeti egységeit, az önálló állománytáblázattal rendelkező szervezeti egységeit és az állományilletékes parancsnokok felsorolását, továbbá a rendvédelmi szervhez tartozásra utaló rendfokozati jelzőket és azok használatára vonatkozó szabályokat,
 - 2. megállapítsa a miniszter, az országos parancsnok, az országos főigazgató, valamint az állományilletékes parancsnok alárendeltségébe tartozó vezető munkáltatói jogköreit,
-- 3. meghatározza a kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, rendvédelmi igazgatási, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezésre, a más rendvédelmi szervhez történő áthelyezésre, valamint a rendvédelmi szervek és a Magyar Honvédség közötti áthelyezésre vonatkozó eljárási szabályokat és az áthelyezett foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket,
+- 3. meghatározza a kormányzati szolgálati, közszolgálati, közalkalmazotti, rendvédelmi igazgatási, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezésre, a más rendvédelmi szervhez történő áthelyezésre, valamint a rendvédelmi szervek és a Magyar Honvédség közötti áthelyezésre vonatkozó eljárási szabályokat és az áthelyezett foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket,
 - 4. meghatározza a kifogástalan életvitel ellenőrzése végrehajtásának szabályait,
 - 5. megállapítsa a más szervhez vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésre, az ügyészi szervezethez vezénylésre, valamint a Nemzeti Közszolgálati Egyetemre vezénylésre vonatkozó szabályokat, továbbá a vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket, és a rendészeti felsőoktatási illetménykiegészítésre, valamint az illetménypótlékra jogosultság és megállapításának általános feltételeit,
 - 6. megállapítsa a külföldre vezénylésre vonatkozó szabályokat, a külföldre vezényelt juttatásaira, többletjuttatásaira, költségtérítésére, ellátmányára vonatkozó rendelkezéseket, valamint a külföldre vezényelt közeli hozzátartozóira tekintettel e törvényben nem szabályozott pénzbeli és természetbeni ellátást,
@@ -5875,7 +5877,7 @@ IV.
 
 3. a tartalékállományba helyezés időtartama
 
-4. a közszolgálati tisztviselőkről szóló törvény szerinti kompetenciavizsgálat adatai
+4. a közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény szerinti kompetenciavizsgálat adatai
 
 V.
 

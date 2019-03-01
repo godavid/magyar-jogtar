@@ -1680,14 +1680,15 @@ illetménynek megfelelő összeg.
 (3) A jubileumi jutalomra jogosító idő megállapításánál
 
 - a) az Országgyűlés Hivatalánál munkaviszonyban, közszolgálati jogviszonyban,
-- b) a Kttv., a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) és az állami tisztviselőkről szóló 2016. évi LII. törvény (a továbbiakban: Áttv.) hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati, kormánytisztviselői és állami szolgálati jogviszonyban,
+- b) a Kttv., a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), az állami tisztviselőkről szóló 2016. évi LII. törvény (a továbbiakban: Áttv.) és a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati, kormánytisztviselői, kormányzati szolgálati és állami szolgálati jogviszonyban,
 - c) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban,
 - d) a hivatásos szolgálati jogviszonyban, tiszti és altiszti katonai szolgálati jogviszonyban,
 - e) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban,
 - f) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
-- g) a Kttv., a Ktv., Ktjv., Áttv., illetve a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
+- g) a Kttv., a Ktv., Ktjv., Áttv., a Kit., illetve a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
 - h) az állami vezetői szolgálati jogviszonyban,
-- i) rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban
+- i) rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
+- j) a politikai szolgálati jogviszonyban
 
 töltött időt kell figyelembe venni.
 

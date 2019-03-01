@@ -10,7 +10,7 @@ a közalkalmazottak jogállásáról
 
 (2) A 25/A–25/C. § hatálya – az ott meghatározottak szerint – kiterjed a munkáltatóra és a munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
 
-(3) A 25/C. § hatálya – az ott meghatározottak szerint – kiterjed a közszolgálati tisztviselőkről szóló törvény és az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatóra és kormánytisztviselőre, állami tisztviselőre, köztisztviselőre, kormányzati és közszolgálati ügykezelőre, állami ügykezelőre, valamint a közigazgatási szervnél foglalkoztatott munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a kormányzati szolgálati jogviszony, az állami szolgálati jogviszony, a közszolgálati jogviszony vagy a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
+(3) A 25/C. § hatálya – az ott meghatározottak szerint – kiterjed a közszolgálati tisztviselőkről szóló törvény és a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatóra és kormánytisztviselőre, köztisztviselőre, kormányzati és közszolgálati ügykezelőre, valamint a közigazgatási szervnél és a kormányzati igazgatási szervnél foglalkoztatott munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a kormányzati szolgálati jogviszony, a közszolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony vagy a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
 
 (4) Az (1) bekezdésben foglaltaktól eltérően e törvény hatálya nem terjed ki a helyi önkormányzat, illetve a költségvetési szerv által közfoglalkoztatás keretében foglalkoztatottra, valamint az egyszerűsített foglalkoztatásról szóló külön törvény alapján foglalkoztatott munkavállalóra.
 
@@ -42,7 +42,7 @@ a közalkalmazottak jogállásáról
 
 ### Az országos, ágazati és területi érdekegyeztetés
 
-4. § (1) Az Országos Közszolgálati Érdekegyeztető Tanács (a továbbiakban: OKÉT) az e törvény, a közszolgálati tisztviselőkről szóló törvény, az állami tisztviselőkről szóló törvény, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény és a honvédek jogállásáról szóló törvény által szabályozott jogviszonyokat együttesen érintő munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű érdekegyeztetési fóruma.
+4. § (1) Az Országos Közszolgálati Érdekegyeztető Tanács (a továbbiakban: OKÉT) az e törvény, a közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény és a honvédek jogállásáról szóló törvény által szabályozott jogviszonyokat együttesen érintő munkaügyi, foglalkoztatási, bér- és jövedelempolitikai kérdések országos szintű érdekegyeztetési fóruma.
 
 (2) Az OKÉT-ban a Kormány – az alapszabályban meghatározott – országos szakszervezeti szövetségek és országos önkormányzati érdekképviseleti szervezetek képviselőivel egyeztet.
 
@@ -451,7 +451,7 @@ köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérele
 (2) A közalkalmazotti jogviszony megszüntethető:
 
 - a) közös megegyezéssel;
-- b) áthelyezéssel 1. az e törvény, valamint 2. e törvény és a közszolgálati tisztviselőkről szóló törvény, 3. 4. és a hivatásos, továbbá a szerződéses szolgálati jogviszonyt szabályozó jogszabályok, 5. az e törvény és az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatók között.
+- b) áthelyezéssel 1. az e törvény, valamint 2. e törvény és a közszolgálati tisztviselőkről szóló törvény, 3. 4. és a hivatásos, továbbá a szerződéses szolgálati jogviszonyt szabályozó jogszabályok, 5. hatálya alá tartozó munkáltatók között.
 - c) lemondással;
 - d) rendkívüli lemondással;
 - e) felmentéssel;
@@ -516,28 +516,28 @@ gazdasági társaság utódszervezet vagy alapítvány részére adja át közfe
 
 (3) A közalkalmazotti jogviszony jogellenes megszüntetése esetén – ha a közalkalmazottat eredeti munkakörében kell továbbfoglalkoztatni – az átvevő munkáltató köteles az ítélet jogerőre emelkedésekor a 25/A. §-ban és a 25/B. §-ban, valamint a (4)–(13) bekezdésben foglaltak megfelelő alkalmazásával az állásfelajánlási és foglalkoztatási kötelezettséget teljesíteni. Az átvevő munkáltató a 25/A. § (2)–(3) bekezdése, és az (5) bekezdés szerinti tájékoztatási kötelezettséget a jogerős ítélet közlésétől számított tizenöt napon belül köteles teljesíteni.
 
-(4) A munkáltató személyében a jogszabály rendelkezése folytán bekövetkező olyan változás esetén, ha a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) a közszolgálati tisztviselőkről szóló törvény, az állami tisztviselőkről szóló törvény vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó munkáltatóhoz kerül, a munkáltató érintett szervezete vagy tevékenysége keretében foglalkoztatott közalkalmazott közalkalmazotti jogviszonya – a (6) és (7) bekezdésben, valamint a (12) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában kormányzati szolgálati, közszolgálati, állami szolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át.
+(4) A munkáltató személyében a jogszabály rendelkezése folytán bekövetkező olyan változás esetén, ha a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) a közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó munkáltatóhoz kerül, a munkáltató érintett szervezete vagy tevékenysége keretében foglalkoztatott közalkalmazott közalkalmazotti jogviszonya – a (6) és (7) bekezdésben, valamint a (12) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át.
 
 (5) A jogviszony átalakulásáról az érintetteket az átvevő munkáltató az átalakulást követő harminc napon belül tájékoztatja.
 
-(6) A (4) bekezdésben foglaltaktól eltérően nem alakul át a közalkalmazott jogviszonya, ha az átvevő munkáltató a közszolgálati tisztviselőkről szóló, az állami tisztviselőkről szóló vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény rendelkezései alapján nem létesíthet kormányzati szolgálati, közszolgálati, állami szolgálati vagy igazságügyi szolgálati jogviszonyt az átadással érintett közalkalmazottal, ebben az esetben a közalkalmazotti jogviszony a törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a közalkalmazottat az átadás napjával írásban értesíteni kell. A jogviszony megszűnése esetén a közalkalmazott számára a 37. § (2) és (4)–(7) bekezdés alkalmazásával megállapított végkielégítést – határozott idejű jogviszony esetén a 27. § (2) bekezdésében meghatározott távolléti díjat – kell megfizetni.
+(6) A (4) bekezdésben foglaltaktól eltérően nem alakul át a közalkalmazott jogviszonya, ha az átvevő munkáltató a közszolgálati tisztviselőkről szóló, a kormányzati igazgatásról szóló vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény rendelkezései alapján nem létesíthet kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati vagy igazságügyi szolgálati jogviszonyt az átadással érintett közalkalmazottal, ebben az esetben a közalkalmazotti jogviszony a törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a közalkalmazottat az átadás napjával írásban értesíteni kell. A jogviszony megszűnése esetén a közalkalmazott számára a 37. § (2) és (4)–(7) bekezdés alkalmazásával megállapított végkielégítést – határozott idejű jogviszony esetén a 27. § (2) bekezdésében meghatározott távolléti díjat – kell megfizetni.
 
-(7) A (6) bekezdésben foglaltakat kell megfelelően alkalmazni, ha az átadással érintett közalkalmazottal szemben a közszolgálati tisztviselőkről szóló törvény alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a közalkalmazott a jogviszony átalakulását megelőzően intézkedik, és ezt igazolja.
+(7) A (6) bekezdésben foglaltakat kell megfelelően alkalmazni, ha az átadással érintett közalkalmazottal szemben a közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a közalkalmazott a jogviszony átalakulását megelőzően intézkedik, és ezt igazolja.
 
-(8) A jogviszony kormányzati szolgálati, közszolgálati, állami szolgálati vagy igazságügyi szolgálati jogviszonnyá történő átalakulását követő negyvenöt napon belül a közalkalmazottat a kormányzati szolgálati jogviszonyra, közszolgálati jogviszonyra, állami szolgálati jogviszonyra vagy az igazságügyi szolgálati jogviszonyra vonatkozó szabályok szerint be kell sorolni, és illetményét meg kell állapítani.
+(8) A jogviszony kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati vagy igazságügyi szolgálati jogviszonnyá történő átalakulását követő negyvenöt napon belül a közalkalmazottat a kormányzati szolgálati jogviszonyra, a politikai szolgálati jogviszonyra, a biztosi jogviszonyra, közszolgálati jogviszonyra vagy az igazságügyi szolgálati jogviszonyra vonatkozó szabályok szerint be kell sorolni, és illetményét meg kell állapítani.
 
-(9) Határozatlan időtartamú közalkalmazotti jogviszony – eltérő törvényi rendelkezés hiányában – határozatlan időtartamú kormányzati szolgálati, közszolgálati, állami szolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős kormányzati szolgálati, közszolgálati, állami szolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át.
+(9) Határozatlan időtartamú közalkalmazotti jogviszony – eltérő törvényi rendelkezés hiányában – határozatlan időtartamú kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át.
 
 (10) Az átalakult jogviszony esetén a közalkalmazottnak az átalakulással érintett, e törvény hatálya alá tartozó munkáltatónál közalkalmazotti jogviszonyként elismert idejét úgy kell tekinteni, mintha azt az átvevő munkáltatónál töltötte volna el.
 
-(11) A közalkalmazotti jogviszonyban álló vezető jogviszonyának átalakulását követően – a kormányzati szolgálati jogviszonyra, közszolgálati jogviszonyra, állami szolgálati jogviszonyra vagy igazságügyi szolgálati jogviszonyra vonatkozó szabály figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
+(11) A közalkalmazotti jogviszonyban álló vezető jogviszonyának átalakulását követően – a kormányzati szolgálati jogviszonyra, a politikai szolgálati jogviszonyra, a biztosi jogviszonyra, közszolgálati jogviszonyra vagy igazságügyi szolgálati jogviszonyra vonatkozó szabály figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
 
-(12) A (4) bekezdéstől eltérően a közalkalmazotti jogviszony munkaviszonnyá alakul át, ha a közalkalmazott a munkakörére tekintettel a közszolgálati tisztviselőkről szóló törvény vagy az állami tisztviselőkről szóló törvény szabályai szerint a közszolgálati tisztviselőkről szóló törvény vagy az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatóval nem kormányzati szolgálati, közszolgálati, vagy állami szolgálati jogviszonyban, hanem munkaviszonyban állhat. Ebben az esetben a közalkalmazott átalakulás utáni munkabére (alapbérének, bérpótlékainak és egyéb bérelemeinek együttes összege) az átalakulást megelőzően irányadó illetményének és a jogszabály alapján járó illetménypótlékainak együttes összege, kivéve, ha valamely közalkalmazotti illetménypótlék megállapításának alapjául szolgáló körülmény a munkaviszonyban már nem áll fenn. Az alapbérbe a közalkalmazotti illetménypótlékok beépíthetőek. A munkabérről való tájékoztatást a jogviszony átalakulását követő hatvan napon belül meg kell adni. E bekezdés alkalmazása során megfelelően alkalmazni kell az (5) és (6) bekezdést, továbbá a (9)–(11) bekezdést.
+(12) A (4) bekezdéstől eltérően a közalkalmazotti jogviszony munkaviszonnyá alakul át, ha a közalkalmazott a munkakörére tekintettel a közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény szabályai szerint a közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatóval nem kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati jogviszonyban, hanem munkaviszonyban állhat. Ebben az esetben a közalkalmazott átalakulás utáni munkabére (alapbérének, bérpótlékainak és egyéb bérelemeinek együttes összege) az átalakulást megelőzően irányadó illetményének és a jogszabály alapján járó illetménypótlékainak együttes összege, kivéve, ha valamely közalkalmazotti illetménypótlék megállapításának alapjául szolgáló körülmény a munkaviszonyban már nem áll fenn. Az alapbérbe a közalkalmazotti illetménypótlékok beépíthetőek. A munkabérről való tájékoztatást a jogviszony átalakulását követő hatvan napon belül meg kell adni. E bekezdés alkalmazása során megfelelően alkalmazni kell az (5) és (6) bekezdést, továbbá a (9)–(11) bekezdést.
 
 (13) Ha a jogviszony átalakulása időpontjában munkaügyi per fegyelmi elbocsátás tekintetében folyik, a közalkalmazotti kereset elbírálásánál
 
 - a) az azonnali hatályú felmondás szabályait kell megfelelően alkalmazni, ha a közalkalmazott jogviszonya munkaviszonnyá,
-- b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a közalkalmazott jogviszonya kormányzati szolgálati vagy közszolgálati jogviszonnyá
+- b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a közalkalmazott jogviszonya kormányzati szolgálati, politikai szolgálati, biztosi vagy közszolgálati jogviszonnyá
 
 alakul át.
 
@@ -906,7 +906,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 44/A. § (1) A közalkalmazotti jogviszony tekintetében az Mt.-nek a munkaszerződés teljesítésére vonatkozó rendelkezései (VIII. fejezet) közül az 57. § nem alkalmazható.
 
-(2) Az Mt. 53. §-a alapján más munkáltatónál történő munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, az állami tisztviselőkről szóló törvény vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó munkáltatónál végez munkát.
+(2) Az Mt. 53. §-a alapján más munkáltatónál történő munkavégzésre akkor kerülhet sor, ha ez alapján a közalkalmazott az e törvény vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, a kormányzati igazgatásról szóló törvény vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó munkáltatónál végez munkát.
 
 (2a) Az Mt. 53. § (2) bekezdésétől eltérően a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1)–(3) bekezdése szerinti egészségügyi felsőoktatási intézmény és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdés a) és c) pontja, valamint (2) és (3) bekezdése szerinti egészségügyi szolgáltatók közötti viszonyban az Mt. 53. § (1) bekezdése szerinti foglalkoztatás időtartama naptári évenként a 220 beosztás szerinti munkanapot vagy 1760 órát nem haladhatja meg.
 
@@ -1187,7 +1187,7 @@ megfelelő összeg illeti meg.
 
 (3) A kiemelkedő, illetőleg tartósan jó munkát végző közalkalmazottat a munkáltató jutalomban részesítheti. Naptári évenként a jutalom összege nem haladhatja meg a kifizetés esedékessége időpontjában a közalkalmazott kinevezés szerinti havi illetménye tizenkétszeresének harminc százalékát.
 
-77/A. § A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a közalkalmazott is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
+77/A. § A közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és a kormányzati igazgatásról szóló törvényben, valamint ezek végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a közalkalmazott is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
 
 77/B. §
 
@@ -1529,7 +1529,8 @@ is érteni kell.
 - h) az állami vezetői szolgálati jogviszonyban,
 - i) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban,
 - j) honvédelmi alkalmazottak jogállásáról szóló törvény szerinti honvédelmi alkalmazotti jogviszonyban,
-- k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszonyban
+- k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszonyban,
+- l) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban
 
 töltött időt.
 

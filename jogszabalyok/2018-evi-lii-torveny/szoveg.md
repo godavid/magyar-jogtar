@@ -467,7 +467,7 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 - 12. munkaviszony:
   - a) az Mt-ben meghatározott munkaviszony,
   - b) a közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony,
-  - c) a közszolgálati jogviszony, az állami szolgálati jogviszony, a kormányzati szolgálati viszony,
+  - c) a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony,
   - d) a bírósági jogviszony,
   - e) az igazságügyi alkalmazotti szolgálati viszony,
   - f) az ügyészségi szolgálati jogviszony,

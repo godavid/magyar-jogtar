@@ -103,13 +103,13 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 #### 6. A KSH jogállása
 
-7. § (1) A KSH kormányhivatalként működő központi költségvetési szerv, amely szakmailag független.
+7. § (1) A KSH kormányzati főhivatalként működő központi költségvetési szerv, amely szakmailag független.
 
 (2) A KSH székhelye Budapest.
 
 (3) A jogszabályok és a közjogi szervezetszabályozó eszközök nem sérthetik a KSH szakmai függetlenségét.
 
-(4) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 67. § (4) bekezdésében foglaltakat a KSH vonatkozásában nem kell alkalmazni.
+(4) A kormányzati igazgatásról szóló CXXV. törvény 262. § (2) bekezdésében foglaltakat a KSH vonatkozásában nem kell alkalmazni.
 
 (5) A KSH elnöke törvényben meghatározott feladatkörében nem utasítható.
 
@@ -159,7 +159,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 9. § A KSH vezetői az elnök és az elnökhelyettesek.
 
-10. § Törvény eltérő rendelkezése hiányában a KSH elnöke és elnökhelyettesei jogviszonyára – az e törvényben foglalt eltérésekkel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vezetői munkakört betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.
+10. § Törvény eltérő rendelkezése hiányában a KSH elnöke és elnökhelyettesei jogviszonyára – az e törvényben foglalt eltérésekkel – a kormányzati igazgatásról szóló törvény szakmai vezetői álláshelyet betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.
 
 11. § (1) A KSH-t az elnök vezeti, aki feladatainak ellátása során nem utasítható.
 
