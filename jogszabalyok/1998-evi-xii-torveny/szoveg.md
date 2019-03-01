@@ -121,7 +121,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (2) Hivatalos útlevél – a diplomata-útlevél és a hajós szolgálati útlevél kivételével – kizárólag hivatalos utazás céljára használható fel.
 
-(3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke [12. § (1) bekezdés g) pont] diplomata-útlevele esetében az Országgyűlés Hivatala –, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet végzi.
+(3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke 12. § (1) bekezdés g) pont] diplomata-útlevele esetében az Országgyűlés Hivatala –, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet végzi.
 
 (4) Hivatalos útlevél a (2) bekezdésben foglaltaktól eltérően a tartós külszolgálat időtartama alatt magáncélú utazásokra is igénybe vehető.
 
@@ -143,7 +143,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 13. § (1) Külügyi szolgálati útlevélre jogosult
 
-- a) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai ranggal nem rendelkező közszolgálati tisztviselője;
+- a) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai ranggal nem rendelkező kormánytisztviselője;
 - b) Magyarország diplomáciai képviseletének igazgatási és műszaki személyzete, illetve kisegítő személyzetének tagja, kivéve a külképviseletekről és a tartós külszolgálatról szóló törvény szerint a külképviselet által foglalkoztatott munkavállaló;
 - c) Magyarország hivatásos konzuli képviselete konzuli alkalmazottja és kisegítő személyzetének tagja, kivéve a külképviseletekről és a tartós külszolgálatról szóló törvény szerint a külképviselet által foglalkoztatott munkavállalót;
 - d) a nemzetközi jogon alapuló mentességet élvező más személy;

@@ -793,7 +793,7 @@ kezeli.
 
 (3) A MOB közgyűlésén a sportpolitikáért felelős miniszter által vezetett minisztérium képviselője, valamint a felügyelőbizottság elnöke tanácskozási joggal vehetnek részt.
 
-(4) A MOB-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). A MOB elnökségének tagjai: az elnök, valamint a MOB alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. A MOB elnökségének tagja nem lehet állami vezető.
+(4) A MOB-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). A MOB elnökségének tagjai: az elnök, valamint a MOB alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. A MOB elnökségének tagja nem lehet politikai felsővezető.
 
 (5) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelőbizottság tagjait, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium képviselőjét.
 
@@ -920,7 +920,7 @@ kezeli.
 
 (3) Az MPB közgyűlésén a sportpolitikáért felelős miniszter által vezetett minisztérium képviselője, valamint a felügyelőbizottság elnöke tanácskozási joggal vehetnek részt.
 
-(4) Az MPB ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). Az MPB elnökségének tagjai: az elnök, valamint az MPB alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az MPB elnökségének tagja nem lehet állami vezető.
+(4) Az MPB ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). Az MPB elnökségének tagjai: az elnök, valamint az MPB alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az MPB elnökségének tagja nem lehet politikai felsővezető.
 
 (5) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelőbizottság tagjait, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium képviselőjét.
 
@@ -1023,7 +1023,7 @@ kezeli.
 
 (3) Az NVESZ közgyűlésén a sportpolitikáért felelős miniszter által vezetett minisztérium képviselője, valamint a felügyelőbizottság elnöke tanácskozási joggal vehetnek részt.
 
-(4) Az NVESZ-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). Az NVESZ elnökségének tagjai: az elnök, valamint az NVESZ alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az NVESZ elnökségének tagja nem lehet állami vezető.
+(4) Az NVESZ-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). Az NVESZ elnökségének tagjai: az elnök, valamint az NVESZ alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az NVESZ elnökségének tagja nem lehet politikai felsővezető.
 
 (5) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelőbizottság tagjait, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium képviselőjét.
 
@@ -1135,7 +1135,7 @@ kezeli.
 
 (3) Az NDHSZ közgyűlésén a sportpolitikáért felelős miniszter által vezetett minisztérium képviselője, valamint a felügyelőbizottság elnöke tanácskozási joggal vehetnek részt.
 
-(4) Az NDHSZ-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). Az NDHSZ elnökségének tagjai: az elnök, valamint az NDHSZ alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az NDHSZ elnökségének tagja nem lehet állami vezető.
+(4) Az NDHSZ-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). Az NDHSZ elnökségének tagjai: az elnök, valamint az NDHSZ alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az NDHSZ elnökségének tagja nem lehet politikai felsővezető.
 
 (5) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelőbizottság tagjait, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium képviselőjét.
 

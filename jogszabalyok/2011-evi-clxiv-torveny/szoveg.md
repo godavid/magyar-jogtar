@@ -184,7 +184,7 @@ hívja össze.
 (2) Az (1) bekezdésben foglalt feltételeken túl az a személy nevezhető ki ügyésszé, aki a jogi szakvizsga letételét követően
 
 - a) alügyészként, bírósági titkárként, közjegyzőként, ügyvédként, jogtanácsosként, az OKRI-ban kutatóként, nyomozó hatóságnál nyomozóként legalább egy évig ténylegesen dolgozott,
-- b) a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) 1. § a)–c) pontjában és 2. §-ában meghatározott, valamint az állami tisztviselőkről szóló 2016. évi LII. törvény hatálya alá tartozó szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben legalább egy évig ténylegesen dolgozott,
+- b) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában meghatározott szervnél közigazgatási, illetve jogi szakvizsgához kötött álláshelyen, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 2. §-a szerinti szervnél, valamint a rendőrség, a büntetés-végrehajtás és a hivatásos katasztrófavédelmi szerv központi, területi és helyi szervénél közigazgatási, illetve jogi szakvizsgához kötött munkakörben legalább egy évig ténylegesen dolgozott,
 - c) ügyészként, alkotmánybíróként, bíróként működött,
 - d) nemzetközi szervezetnél, az Európai Unió valamely szervénél ítélkezett, az igazságszolgáltatással összefüggő tevékenységet legalább egy évig ténylegesen folytatott.
 
@@ -1467,7 +1467,7 @@ lehet gyakorolni.
 
 (10) Az alügyész és az ügyészségi fogalmazó végkielégítésre e törvénynek az ügyészekre vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal az eltéréssel, hogy
 
-- a) ha az alügyész és az ügyészségi fogalmazó ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, állami szolgálati jogviszonyt vagy a Kttv. 1. és 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
+- a) ha az alügyész és az ügyészségi fogalmazó ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, a Kttv. 1. és 2. §-ában, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
   - aa) ezt a tényt korábbi munkáltatójának haladéktalanul írásban bejelenti, és
   - ab) vállalja, hogy a végkielégítés összegének az új jogviszony létesítéséig a tíz hónapból hátralévő idővel arányos mértékét visszafizeti;
 - b) a végkielégítés mértéke tízhavi illetménynek megfelelő összeg, ha az ügyészségi szolgálati viszony ideje legalább huszonöt év,
@@ -1596,7 +1596,7 @@ feltéve, hogy az új szolgálati hely, illetve munkakör a tisztviselőre, írn
 - b) a határozott időre létesített ügyészségi szolgálati viszony felmentéssel a 36. § (1)–(4) bekezdésében meghatározott feltételek hiányában is megszüntethető, ha a munkáltató a határozott időből még hátralévő időre jutó, de legfeljebb egyévi átlagilletményét a tisztviselőnek, írnoknak, fizikai alkalmazottnak előre megfizeti;
 - c) a tisztviselő, írnok, fizikai alkalmazott ügyészségi szolgálati viszonyát felmentéssel kell megszüntetni a 128/A. § (2) bekezdésében meghatározott kérelmére;
 - d) a tisztviselő, az írnok és a fizikai alkalmazott lemondási ideje két hónap;
-- e) ha a tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, állami szolgálati jogviszonyt vagy a Kttv. 1. és 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
+- e) ha a tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, a Kttv. 1. és 2. §-ában, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
   - ea) ezt a tényt korábbi munkáltatójának haladéktalanul írásban bejelenti, és
   - eb) vállalja, hogy a végkielégítés összegének az új jogviszony létesítéséig a tíz hónapból hátralévő idővel arányos mértékét visszafizeti;
 - f) a végkielégítés mértéke tízhavi illetménynek megfelelő összeg, ha a tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonyának ideje legalább huszonöt év,

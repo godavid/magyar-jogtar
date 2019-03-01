@@ -899,7 +899,7 @@ aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek 
 
 (3)
 
-(4) Ha a törvény vagy kormányrendelet valamely közigazgatási hatósági feladat ellátására az ÉBC-t jelöli ki, az eljárásában ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a közszolgálati tisztviselőkről szóló törvény alapján kormánytisztviselőnek, az állami tisztviselőkről szóló törvény alapján állami tisztviselőnek – nyilvántartás vezetése esetén kormányzati ügykezelőnek, állami ügykezelőnek – kinevezhető lenne. A döntéshozóra és az ügyintézőre a közszolgálati tisztviselőkről szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
+(4) Ha törvény vagy kormányrendelet valamely közigazgatási hatósági feladat ellátására az ÉBC-t jelöli ki, az eljárásában ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a kormányzati igazgatásról szóló törvény alapján kormánytisztviselőnek kinevezhető lenne. A döntéshozóra és az ügyintézőre a kormányzati igazgatásról szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
 
 (5) Az ÉBC közhatalmi feladatként az élelmiszerlánc-felügyeleti feladatok ellátása érdekében:
 
