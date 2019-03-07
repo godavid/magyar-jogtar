@@ -870,4 +870,4 @@ Készült Budapesten, 2018. szeptember 10-én két eredeti példányban magyar, 
 
 6. § Az e törvény végrehajtásához szükséges intézkedésekről az igazságügyért felelős miniszter gondoskodik.
 
-7. § Hatályát veszti a Magyar Népköztársaság és a Vietnami Szocialista Köztársaság között a polgári, a családjogi és a bűnügyi jogsegély tárgyában Hanoiban 1985. évi január hó 18. napján aláírt szerződés kihirdetéséről szóló1986. évi 8. törvényerejű rendelet.
+7. §
