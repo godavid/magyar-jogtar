@@ -81,7 +81,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - p) ipari park: infrastruktúrával ellátott olyan terület, ahol elsősorban termelő és feldolgozóipari tevékenységet végző, valamint innovációra törekvő vállalkozások találhatóak;
 - r) innovációs központok: azon megfelelő termelési és szellemi háttérrel, illetve kapcsolatrendszerrel rendelkező települések, amelyek a gazdaság növekedését, szerkezetváltását és megújulását, illetve a társadalmi fejlődést nagyobb térségben segítik elő, vagy mindezek elérése érdekében tudatos fejlesztési politika érvényesül;
 - s) hátrányos helyzetű határmenti térségek: azon települések összessége, melyek fejlődését, működését a határhoz való kötődése egyoldalúan meghatározza és kedvezőtlenül befolyásolja;
-- t) területcsere: a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszasorolni kívánt beépítésre szánt területtel, megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni;
+- t) területcsere: a Budapesti Agglomeráció Területrendezési Tervének hatálya alá tartozó települések területén olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszasorolni kívánt beépítésre szánt területtel, megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni;
 - u) területfejlesztési terv: a térségre készülő területfejlesztési koncepció és program,
 - u) gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 - v) ágazati tervek: a szakpolitikai stratégia, a szakpolitikai program és a hálózati fejlesztési terv,
@@ -148,7 +148,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (2) A miniszterek feladataik ellátása során érvényesítik az e törvényben rögzített célokat, részt vesznek a területfejlesztéssel és a területrendezéssel összefüggő és szakterületüket érintő kormányzati feladatok ellátásában, különösen a területfejlesztési koncepciók és programok, területrendezési tervek feladatkörüket érintő munkarészeinek kidolgozásában, összehangolásában és érvényesítésében.
 
-(3)
+(3) A területrendezési tervek esetében, a térségi szerkezeti terv és a térségi övezetek előállításával kapcsolatban a miniszterek a területrendezési tervek térképi követelményeinek megfelelő módon dolgozzák ki a feladatkörüket érintő munkarészeket.
 
 9/A. § A területrendezésért felelős miniszter
 
@@ -509,21 +509,15 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 ### A területrendezési hatósági eljárások általános szabályai és az eljárások keretében kiadható térségi területfelhasználási engedélyek
 
-23/D. § (1) A területrendezési tervekben nem szereplő, külön jogszabályban meghatározott térségi jelentőségű műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezéséhez az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye szükséges.
+23/D. § (1) A területrendezési tervekben nem szereplő, külön jogszabályban meghatározott műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezéséhez az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye szükséges.
 
 (2) A településrendezési terv hiányában vagy a tervi elem településrendezési mélységű lehatárolásának hiányában a kiemelt térségi vagy a megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítása az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye alapján történik.
 
-(3) A kiváló termőhelyi adottságú szántóterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelölése, továbbá a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén a területcsere az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye alapján történik.
+(3) A kiváló termőhelyi adottságú szántóterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelölése, továbbá a Budapesti Agglomeráció Területrendezési Tervének hatálya alá tartozó települések területén a területcsere az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye alapján történik.
 
-(3a) Az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő,
+(3a)
 
-- a) az energiaellátás biztonságának biztosításához szükséges atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, nemzetközi és hazai szénhidrogén- és szén-dioxid-szállítóvezeték elemei,
-- b) a közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi utak, főutak és az országos vasúti törzshálózat elemei,
-- c) az egyedi építmények közül a gyorsforgalmi úton, főúton és vasúti törzshálózaton lévő híd a Dunán és a Tiszán, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkárelhárítási célú szükségtározók
-
-területi elhelyezése az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye alapján történik.
-
-(3b) A 23/D. § (1)–(3a) bekezdése és (9) bekezdése szerinti területrendezési hatósági eljárás során a kapcsolattartás írásban történik.
+(3b) A 23/D. § (1)–(3) bekezdése és (9) bekezdése szerinti területrendezési hatósági eljárás során a kapcsolattartás írásban történik.
 
 (4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival.
 
@@ -542,6 +536,8 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 - a) a területrendezési terv megnevezése, amelyre a térségi területfelhasználási engedély vonatkozik,
 - b) a térségi területfelhasználási engedély által érintett települések megnevezése, valamint
 - c) a térségi területfelhasználási engedély kiadásának dátuma, iktató száma, érvényesség dátuma, valamint az engedélyezés típusa.
+
+(12) Az országos és a kiemelt térségi területrendezési terveket érintő változások, valamint a térségi területfelhasználási engedélyek tervi következményeit a területrendezésért felelős miniszter – amennyiben indokolt – évente rendeletében kihirdeti.
 
 23/E. § Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal felügyeleti szerve a területrendezésért felelős miniszter.
 
@@ -607,10 +603,10 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 - n) a kormányhivatal és a kincstár, a térségi fejlesztési tanács létrehozásával, átalakulásával és megszüntetésével kapcsolatos feladatait, a megalakulással, átalakulással és megszüntetéssel kapcsolatos eljárás rendjét,
 - o) a területrendezési tervezési tevékenység folytatásának részletes feltételeit, e tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 - p)
-- q) az országos és a térségi műszaki infrastruktúrahálózatoknak a területrendezési tervek szerkezeti tervében ábrázolt nyomvonalától való kivételes eltérésre vonatkozó területrendezési hatósági eljárás részletes szabályait;
+- q)
 - r)
 - s) az állami főépítész vagy főépítészek kijelölését és feladatkörük szabályozását;
-- t) a területrendezési tervekben nem szereplő, térségi jelentőségű műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezésére, beillesztésére vonatkozó területrendezési hatósági eljárás részletes szabályait;
+- t) a területrendezési tervekben nem szereplő műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezésére, beillesztésére vonatkozó területrendezési hatósági eljárás részletes szabályait;
 - u) a 23/D. § (3) bekezdésében meghatározott övezetekben és esetekben a beépítésre szánt területek kivételes kijelölésére, valamint a területcserére vonatkozó területrendezési hatósági eljárás részletes szabályait;
 - v) a kiemelt térségi vagy megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítására vonatkozó területrendezési hatósági eljárás részletes szabályait;
 - w)–x)
@@ -626,7 +622,7 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 
 (6)
 
-(7) Felhatalmazást kap a területrendezésért felelős miniszter, hogy a területrendezési feladatok előirányzat felhasználásának szabályait rendeletben állapítsa meg.
+(7) Felhatalmazást kap a területrendezésért felelős miniszter, hogy az országos és a kiemelt térségi területrendezési terveket érintő változások, valamint a térségi területfelhasználási engedélyek tervi következményeit rendeletben kihirdesse.
 
 28. §
 

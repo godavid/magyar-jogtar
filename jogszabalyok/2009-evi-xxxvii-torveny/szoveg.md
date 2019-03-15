@@ -675,7 +675,7 @@ is kezdeményezheti.
 
 (3) Kiemelt közösségi jelentőségű, jelölő erdei élőhelynek minősülő, természetes vagy természetszerű erdő természetességi állapotra vonatkozó alapelvárású erdő esetében – védett természeti terület, illetve a (4)–(6) bekezdésben foglalt kivétellel – elsődleges rendeltetésként a Natura 2000 rendeltetést kell megállapítani.
 
-(4) Az Országos Területrendezési Tervről szóló törvényben foglaltak alapján különleges honvédelmi területként kijelölt területen lévő erdő esetében az erdő elsődleges rendeltetéseként – az (5) és (6) bekezdésben foglalt kivétellel – a honvédelemért felelős miniszter kezdeményezésére a honvédelmi rendeltetést kell megállapítani.
+(4) Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvényben foglaltak alapján különleges honvédelmi területként kijelölt területen lévő erdő esetében az erdő elsődleges rendeltetéseként – az (5) és (6) bekezdésben foglalt kivétellel – a honvédelemért felelős miniszter kezdeményezésére a honvédelmi rendeltetést kell megállapítani.
 
 (5) Folyók nagyvízi medrének elsődleges és másodlagos levezető sávjába eső erdő esetében az erdő elsődleges rendeltetéseként a vízügyi igazgatási szerv kezdeményezésére az árvízvédelmi rendeltetést kell megállapítani.
 
@@ -2528,7 +2528,7 @@ minősül, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron á
 
 (23) Az erdészeti hatóság a módosító törvény hatálybalépését követően, 2018. június 30-ig az erdő rendeltetéseit a 23. § (2) bekezdésében foglalt rendelkezésekkel, elsődleges rendeltetéseit a 23/A. §-ban foglalt rendelkezésekkel összhangban felülvizsgálja és a szükséges módosításokat az Adattáron átvezeti.
 
-(24) Az önerdősülés útján létrejött, az Adattárban e törvény hatálybalépését követően hivatalból nyilvántartásba vett erdőt az erdészeti hatóság a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kezdeményezésére átminősíti szabad rendelkezésű erdővé. Az átminősítés kezdeményezésére a módosító törvény hatálybalépését követő két éven belül van lehetőség. A nem erdő művelési ágú területek esetében, ha a megadott határidő lejártáig az adott területen nincs erdőgazdálkodó, a terület adattári nyilvántartásáról való tudomásszerzést követően a módosító törvény hatálybalépését követő öt éven belül van lehetőség.
+(24) Az önerdősülés útján létrejött, az Adattárban e törvény hatálybalépését követően hivatalból nyilvántartásba vett erdőt az erdészeti hatóság a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kezdeményezésére átminősíti szabad rendelkezésű erdővé. Az átminősítés kezdeményezésére a módosító törvény hatálybalépését követő négy éven belül van lehetőség. A nem erdő művelési ágú területek esetében, ha a megadott határidő lejártáig az adott területen nincs erdőgazdálkodó, a terület adattári nyilvántartásáról való tudomásszerzést követően a módosító törvény hatálybalépését követő öt éven belül van lehetőség.
 
 (25) Az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 13. § (4) bekezdés a) pontja alapján, valamint az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény hatálybalépését megelőzően megkötött megbízási szerződést bármelyik fél 60 napos felmondási idővel felmondhatja.
 
@@ -2539,7 +2539,9 @@ minősül, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron á
 (27) Az erdészeti hatóság a módosító törvény hatálybalépésekor az Adattárban nyilvántartott, az állam 100%-os tulajdonában nem álló erdőt, ha az a szélső fák tőben mért távolságát tekintve átlagosan nem éri el a harminc méter szélességet és tízezer négyzetméter kiterjedést, a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kérelmére
 
 - a) kivezeti az Adattárból, vagy
-- b) ha a terület a 6. § (2) bekezdésében foglalt feltételeknek megfelel, átminősíti szabad rendelkezésű erdővé. A kérelem benyújtására a módosító törvény hatálybalépését követő két éven belül van lehetőség.
+- b) ha a terület a 6. § (2) bekezdésében foglalt feltételeknek megfelel, átminősíti szabad rendelkezésű erdővé.
+
+A kérelem benyújtására a módosító törvény hatálybalépését követő négy éven belül van lehetőség.
 
 (28) Az erdészeti hatóság a módosító törvény hatálybalépésekor az Adattárban nyilvántartott erdőt, ha az a 4. § (2) bekezdésben foglalt feltételeknek megfelel, az erdőgazdálkodó kérelmére, de legkésőbb a soron következő körzeti erdőtervezéskor kivezeti az Adattárból.
 
@@ -2563,7 +2565,7 @@ felülvizsgálja, és a hatályos szabályozásnak megfelelően módosítja.
 
 (32) Ha az e törvény hatálybalépését követően, de a módosító törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül meghatározásra, akkor az új erdőterv véglegessé válásáig az erdőtervet az erdészeti hatóság az erdőgazdálkodó kérelmére állapítja meg.
 
-#### 114. §
+114. § Az Országos Erdőállomány Adattárból a 113. § (24) vagy (27) bekezdése szerinti kivezetést vagy átminősítést át kell vezetni az ingatlan-nyilvántartás szerinti művelési ágban, továbbá a településrendezési eszközökön is. Az erdészeti hatóság a határozat véglegessé válásától számított 8 napon belül köteles hivatalból megkeresni az ingatlanügyi hatóságot az ingatlan-nyilvántartásnak, a települési önkormányzatot a településrendezési eszközöknek az Országos Erdőállomány Adattárral történő összhangba hozatala érdekében.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
