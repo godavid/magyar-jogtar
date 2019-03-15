@@ -24,9 +24,38 @@ jogszabályban meghatározott módon biztosítja.
 
 (2a) Törvény és felhatalmazása alapján kiadott jogszabály egyedi településkép-védelmet biztosíthat a kiemelt nemzeti emlékhely és településkép-védelmi környezetének területére, mint településképi szempontból kiemelt jelentőségű területre.
 
+(2b) E törvény felhatalmazása alapján kiadott jogszabály országos településkép-védelmet biztosíthat a településképi szempontból kiemelten meghatározó területre.
+
+(2c) Az országos településkép-védelem keretében a településképi szempontból kiemelten meghatározó területre – a terület kijelölésével egyidejűleg – a Kormány rendeletben országos jelentőségű településképi követelményeket és országos településkép-érvényesítési eszközöket
+
+állapíthat meg.
+
+(2d) A (2c) bekezdés esetében a (2) bekezdés szerinti önkormányzati településképi rendelet rendelkezései – a kormányrendelet eltérő rendelkezésének hiányában – a településképi szempontból kiemelten meghatározó terület tekintetében nem alkalmazhatók.
+
+(2e) Az Étv. 4. § (3a) bekezdése szerinti területekre vonatkozóan országos településkép-védelem a (2c) bekezdés figyelembevételével biztosítható.
+
 (3) A településképi követelmények az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek (a továbbiakban: Étv.) a településrendezési feladatok megvalósítását biztosító egyik sajátos jogintézménye.
 
-#### 2. A településképi követelmények és azok meghatározása
+#### 1/A. Országos településkép-védelem
+
+2/A. § (1) Az országos jelentőségű településképi követelmény a 3. § (1) bekezdés a), b) és d) pontjában meghatározott követelményekre és ezen követelmények keretszabályaira terjedhet ki.
+
+(2) A Kormány az országos jelentőségű településképi követelmények érvényesítésének elősegítésére a településképi szempontból kiemelten meghatározó területre egyedi településképi arculati kézikönyv (a továbbiakban: egyedi kézikönyv) készítését írhatja elő, az egyedi kézikönyv tartalmára, elkészítésére és egyeztetésére vonatkozó részletes szabályok meghatározásával. Az egyedi kézikönyv az országos főépítész közreműködésével készül.
+
+(3) A Kormány az országos jelentőségű településképi követelmények érvényesülése érdekében a (4) és (6) bekezdés szerinti országos településkép-érvényesítési eszközök alkalmazását írhatja elő.
+
+(4) A településképi szempontból kiemelten meghatározó területre – kormányrendeletben meghatározott esetekben és részletszabályok szerint – kormányrendeletben kijelölt államigazgatási szerv
+
+- a) tájékoztatást adhat és szakmai konzultációt biztosíthat az országos jelentőségű településképi követelményekről, ennek keretében javaslatot tehet a követelmények érvényesítési módjára,
+- b) kiemelt településképi véleményezési eljárást folytathat le és településképi véleményt adhat az építésügyi engedélyezési eljárást megelőzően a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez,
+- c) kiemelt településképi bejelentési eljárást folytathat le és településképi döntést hozhat az építésügyi hatósági engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek sem minősülő építési tevékenységek, reklámelhelyezések és rendeltetésmódosítások tekintetében,
+- d) településképi kötelezést adhat ki, és településkép-védelmi bírságot szabhat ki.
+
+(5) A (4) bekezdés szerint kijelölt államigazgatási szerv az országos jelentőségű településképi követelmények érvényesülése érdekében a 11. § (1)–(3) bekezdésében foglaltak szerint jár el azzal, hogy – jogszabályban meghatározott esetekben és módon – 10 000 000 forintig terjedő közigazgatási bírságnak megfelelő településkép-védelmi bírság kiszabását rendelheti el.
+
+(6) A Kormány támogatási és ösztönző rendszer útján segítheti elő az országos jelentőségű településképi követelmények érvényesülését, amely alkalmazásáról az országos településkép-védelmet biztosító kormányrendelet rendelkezik.
+
+#### 2. A helyi településképi követelmények és azok meghatározása
 
 3. § (1) A településképi rendelet
 
@@ -43,7 +72,7 @@ jogszabályban meghatározott módon biztosítja.
 
 (3) A kézikönyv tartalmi elemeit kormányrendelet határozza meg.
 
-5. § (1) A kézikönyv és a településképi rendelet az egy település által önállóan foglalkoztatott települési főépítész vagy több település által közösen foglalkoztatott térségi főépítész (a továbbiakban együtt: önkormányzati főépítész) közreműködésével készül.
+5. § (1) A kézikönyv és a településképi rendelet az egy település által önállóan foglalkoztatott települési főépítész, több település által közösen foglalkoztatott térségi főépítész vagy a megyei főépítész (a továbbiakban együtt: önkormányzati főépítész) közreműködésével készül.
 
 (2) A kézikönyv egyeztetése során a Magyar Építész Kamara, a településképi rendelet egyeztetése során az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal véleményét ki kell kérni. A kézikönyv és a településképi rendelet elkészítésére, egyeztetésére, elfogadására és módosítására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
@@ -110,7 +139,7 @@ tekintetében.
 
 (2) A reklámhordozók és a reklámok elhelyezésének részletszabályait megállapító, e törvény felhatalmazása alapján kiadott kormányrendelet és településképi rendeletek megalkotása és végrehajtása során érvényre kell juttatni azt az alapelvet, hogy a reklámok mennyisége és településképet befolyásoló jellege a településkép védelmének megfelelő, észszerű mértékű legyen.
 
-(3) Reklám az (1) és (2) bekezdés szerinti követelménynek megfelelően – településképi bejelentési eljárás alapján – a településképi rendeletben e törvény és a végrehajtására kiadott kormányrendelet keretei között meghatározott
+(3) Reklám az (1) és (2) bekezdés szerinti követelménynek megfelelően – településképi bejelentési eljárás alapján – a 2. § (2a), (2b), (2c) és (2e) bekezdések szerinti jogszabályok hatálya alá tartozó területek kivételével a településképi rendeletben e törvény és a végrehajtására kiadott kormányrendelet keretei között meghatározott
 
 - a) számú és formai feltételeknek megfelelő reklámhordozón, továbbá
 - b) méretben és technológiával
@@ -130,7 +159,7 @@ szabályokat.
 
 (3)
 
-(4) A településképi rendelet vagy a 2. § (2a) bekezdés szerinti jogszabály legfeljebb évente összesen tizenkét naptári hét időszakra eltérést engedhet az (1) és (2) bekezdésben, továbbá az e törvény végrehajtására kiadott kormányrendeletben meghatározott tilalmak és követelmények alól, ha a település szempontjából jelentős valamely eseményről való tájékoztatás érdekében az szükséges.
+(4) A településképi rendelet vagy a 2. § (2a), (2b), (2c) és (2e) bekezdés szerinti jogszabály legfeljebb évente összesen tizenkét naptári hét időszakra eltérést engedhet az (1) és (2) bekezdésben, továbbá az e törvény végrehajtására kiadott kormányrendeletben meghatározott tilalmak és követelmények alól, ha a település szempontjából jelentős valamely eseményről való tájékoztatás érdekében az szükséges.
 
 11/C. § (1) A 11/B. § (1) és (2) bekezdésében, valamint az e törvény végrehajtására kiadott kormányrendeletben és településképi rendeletben meghatározott tilalmak megszegése és kötelezettségek elmulasztása esetén az e törvény végrehajtására kiadott kormányrendeletben kijelölt hatóság (a továbbiakban: hatóság) közigazgatási bírságot szab ki a reklám közzétevőjével szemben és megfelelő határidővel elrendeli a jogsértő állapot megszüntetését. A bírság mértéke 500 000 forinttól 3 000 000 forintig terjedhet, amely a jogsértő állapot előírt határidőn belüli megszüntetésének elmulasztása miatt ismételten is kiszabható.
 
@@ -202,6 +231,11 @@ szabályokat.
 - e) a reklámhordozók általános formai követelményeit,
 - f) az e törvény szerinti reklámközzététel és reklámhordozó-elhelyezés szabályainak megszegéséért megállapítható jogkövetkezmények alkalmazására hatáskörrel rendelkező közigazgatási hatóság kijelölését,
 - g) a 11. § szerinti településkép-védelmi bírság, valamint a 11/E. § szerinti közigazgatási bírság, helyszíni bírság kiszabásának mérlegelési szempontjait és megfizetése módjának részletszabályait.
+- h) az országos településkép-védelemmel érintett településképi szempontból kiemelten meghatározó területet és az érintett ingatlanokat,
+- i) a településképi szempontból kiemelten meghatározó területre vonatkozó egyedi kézikönyv tartalmi elemeit, az elkészítésére és egyeztetésére vonatkozó részletes szabályokat,
+- j) a településképi szempontból kiemelten meghatározó területre vonatkozó országos jelentőségű településképi követelményeket, továbbá a reklámhordozó és reklám elhelyezésére vonatkozó tilalmak és korlátozások alól e törvény által megengedett eltéréseket, a létesíthető reklámhordozók számát, megjelenésük különös formai (műszaki) követelményeit,
+- k) az országos jelentőségű településképi követelmények érvényesülése érdekében alkalmazandó országos településkép-érvényesítési eszközöket, az egyes eszközök alkalmazásának eseteit, módját, részletes szabályait, a vonatkozó eljárások szabályait, beleértve az eljárásokban vizsgálandó településképi szempontokat és az eljárások alóli mentesség feltételeit, a támogatási és ösztönző rendszer alkalmazását, továbbá az országos településkép-érvényesítési eszközök alkalmazására hatáskörrel rendelkező hatóságokat és feladatkörrel rendelkező egyéb szerveket,
+- l) az országos jelentőségű településképi követelmények érvényesülése érdekében kiszabható településkép-védelmi bírság mértéke megállapításának szempontrendszerét és a bírság megfizetési módjának részletszabályait.
 
 (2) Felhatalmazást kap az önkormányzat képviselő-testülete (közgyűlése), hogy – a (2a) bekezdés szerinti jogszabályok hatálya alá tartozó településképi szempontból kiemelt jelentőségű, egyedi településkép-védelem alatt álló terület kivételével – a településképi rendeletben állapítsa meg
 

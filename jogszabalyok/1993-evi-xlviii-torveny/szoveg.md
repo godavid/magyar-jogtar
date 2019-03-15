@@ -587,6 +587,8 @@ vonatkozó információ.
 - c) meghatározza az általa alkalmazni kívánt bányaművelési technológiát (mélyművelés, külfejtés, fúrólyukas kitermelés), és műszaki leírással igazolja a kitermelési feltételek teljesíthetőségét, valamint megjelöli a kitermelés ütemterv szerinti időpontját,
 - d) teljesíti a bányatelek-dokumentáció tartalmára jogszabályban előírt követelményeket.
 
+(3a) A külfejtéses művelésű bányatelket akkor lehet megállapítani vagy horizontálisan bővíteni, ha a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény bányatelek-megállapításra vonatkozó előírásai teljesülnek.
+
 (4) A bányavállalkozó a bányatelek megállapításától számított 5 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül köteles az üzemszerű kitermelést megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő legfeljebb 5 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.
 
 (5) A bányafelügyelet a bányavállalkozó bányászati jogát törli, ha a bányavállalkozó

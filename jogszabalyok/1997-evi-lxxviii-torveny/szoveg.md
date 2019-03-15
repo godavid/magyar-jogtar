@@ -436,7 +436,7 @@ kell figyelembe venni.
 - b) a korábban gyakorolt használat folytatására,
 - c) az állékonyságot, életet és egészséget, köz- és vagyonbiztonságot veszélyeztető kármegelőzési, kárelhárítási tevékenységre, továbbá
 - d) az a) pont szerinti, hatósági engedélyhez kötött építési munkáknak a településrendezési követelményeket nem érintő módosítására irányuló építésügyi hatósági engedélyezési eljárásra,
-- e) a honvédelmi és a kiemelt fontosságú honvédelmi területre,
+- e) a honvédelmi és katonai célú területre,
 - f) tömeges bevándorlás okozta válsághelyzet esetén a nemzetbiztonsági célú építmények elhelyezésére szolgáló területre.
 
 21. § (1) A helyi építési szabályzat készítésére vonatkozó írásos megállapodás megléte esetén a helyi építési szabályzat készítésének időszakára azok hatálybalépéséig, de legfeljebb három évig az érintett területre a települési önkormányzat rendelettel változtatási tilalmat írhat elő.
@@ -1194,7 +1194,7 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 (2) Építésügyi és építésfelügyeleti hatósági eljárásban az ügyfél nyilatkozata nem pótolja a hiányzó bizonyítékot akkor sem, ha annak beszerzése nem lehetséges.
 
-(3) Az építésügyi hatóság határozata honvédelmi okból akkor nyilvánítható azonnal végrehajthatónak, ha az kiemelt fontosságú meglévő honvédelmi területen megvalósuló, és a külön jogszabály szerinti honvédelmi és katonai célú építmény építésügyi hatósági engedélyezésére irányul.
+(3) Az építésügyi hatóság határozata honvédelmi okból akkor nyilvánítható azonnal végrehajthatónak, ha az honvédelmi és katonai célú területen megvalósuló, és a külön jogszabály szerinti honvédelmi és katonai célú építmény építésügyi hatósági engedélyezésére irányul.
 
 53/G. § (1) Amennyiben a használatbavételi engedélyezési eljárásban benyújtott fellebbezés és az építésügyi engedélyezési eljárásban elbírált fellebbezés azonos indokokat tartalmaz, a használatbavételi engedélyezési eljárásban másodfokon eljáró hatóság a fellebbezési kérelmet érdemben nem vizsgálja.
 
@@ -1523,6 +1523,15 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 (3) E törvénynek a Mód. tv.-nyel megállapított 19. § (3)–(5) bekezdését nem kell alkalmazni, ha a Mód. tv. hatálybalépését megelőzően került sor a végleges építési vagy fennmaradási engedély kiadására, vagy az elvi építési keretengedély megadására.
 
 60/G. § E törvénynek a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvénnyel (a továbbiakban: Mód2. tv.) megállapított 8. § (2a) bekezdését a Mód2. tv. hatálybalépésekor folyamatban lévő településrendezési eszköz készítése és módosítása során is alkalmazni kell.
+
+60/H. § Azon épületeknél, amelyek használatát az építésügyi hatóság e rendelkezés hatálybalépése előtt engedélyezte vagy tudomásul vette, e törvény erejénél fogva
+
+- a) a helyi építési szabályzatnak – a fővárosban a 14/A. § (2) bekezdés b)–d) pontja szerinti településrendezési eszközöknek – a tetőtér-beépítést tiltó előírását nem kell alkalmazni,
+- b) a helyi építési szabályzatban – a fővárosban a 14/A. § (2) bekezdés b)–d) pontja szerinti településrendezési eszközökben – meghatározott szintterületi értékbe a tetőtér-beépítés nem számít bele,
+- c) a tetőtér-beépítéshez kapcsolódó, a tűzvédelmi előírások teljesítését szolgáló építmények és a felvonó az építési telek beépítettségének megengedett legnagyobb mértékébe és a zöldfelület megengedett legkisebb mértékébe nem számít bele,
+- d) a tetőtér-beépítésből eredő többlet gépjármű elhelyezése a tetőtér-beépítéssel érintett épület telekhatárától mért legfeljebb 1000 m-en belül más telken, parkolóban, parkolóházban vagy a közterület közlekedésre szánt területe egy részének felhasználásával is biztosítható, továbbá a helyi önkormányzat parkolást szabályozó rendelete a parkolóhely pénzbeli megváltásának lehetőségét nem tilthatja meg,
+- e) a területfelhasználási egységre vagy építési övezetre a helyi építési szabályzatban – a fővárosban a 14/A. § (2) bekezdés b)–d) pontja szerinti településrendezési eszközökben – megállapított maximális lakásszámba a tetőtér-beépítéssel létrejött lakás nem számít bele, és
+- f) a tetőtér-beépítésekre és az épület belső udvarának lefedésére vonatkozóan e törvény felhatalmazása alapján kiadott kormányrendelet további előírásokat állapíthat meg, amelyeknél szigorúbb követelményeket a helyi építési szabályzat – a fővárosban a kerületi építési szabályzat – nem állapíthat meg.
 
 61. § (1) Ahol jogszabály
 

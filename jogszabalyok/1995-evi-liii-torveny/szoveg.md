@@ -103,7 +103,8 @@ Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környe
 - 37. téradatkezelő: téradatot létrehozó, kezelő, rendszeresen frissítő és a téradat birtokában lévő, valamint a téradattal kapcsolatos állami vagy helyi önkormányzati, továbbá jogszabályban meghatározott, környezettel összefüggő közfeladatot ellátó, illetve közszolgáltatást nyújtó szerv vagy személy, valamint az ezek ellenőrzése alatt álló, környezettel összefüggő feladatot végző vagy közszolgáltatást nyújtó természetes vagy jogi személy. Nem minősülnek téradatkezelőnek a bíróságok és a jogalkotó szervek annyiban, amennyiben azok e feladat- és hatáskörükben járnak el;
 - 38. interoperabilitás: a téradatkészletek összeköttetésének és a téradat-szolgáltatások között ismételt kézi beavatkozás nélkül létrejövő olyan összekapcsolódásnak a lehetősége, amely a téradatkészletek és -szolgáltatások elérését magasabb minőséggel biztosítja, mint a 48/G. § (2) bekezdésében meghatározott információs rendszerek elkülönülten;
 - 39. térinformatikai eszköz: olyan informatikai, geodéziai vagy távérzékelési eszköz, amely téradat rögzítésére, tárolására, kezelésére, továbbá megjelenítésére szolgál.
-- 40. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.
+- 40. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
+- 41. meteorológiai obszervatórium: nagy léptékű időjárási folyamatok megfigyelésére alkalmas magaslégköri szondával, időjárási radarral, szélradarral, légkörfizikai mérőeszközökkel rendelkező létesítmény, ahol nagy területi reprezentativitású, különösen pontos meteorológiai megfigyeléseket vagy viharjelzést, légkörfizikai, magaslégköri kutatást folytatnak.
 
 5. § E törvény hatálybalépését követően törvény, kormányrendelet vagy önkormányzati rendelet határozhat meg környezethasználatnak minősülő tevékenységet.
 
@@ -350,7 +351,7 @@ vízkészleteket fokozott védelemben kell részesíteni.
 
 38/A. § A meteorológiai tevékenységgel összefüggő állami feladatok:
 
-- a) a környezet- és klímavédelemhez, árvíz- és belvízvédelemhez, az erdővédelemhez, valamint az élet- és vagyonbiztonság megóvásához szükséges meteorológiai adatok gyűjtése, információk szolgáltatása,
+- a) a környezet- és klímavédelemhez, árvíz- és belvízvédelemhez, az erdővédelemhez, valamint az élet- és vagyonbiztonság megóvásához szükséges meteorológiai adatok gyűjtése, információk szolgáltatása, meteorológiai obszervatórium és más mérőállomás üzemeltetése,
 - b) a honvédelmi és nemzetbiztonsági érdekek érvényesítéséhez szükséges meteorológiai adatok és információk biztosítása,
 - c) a meteorológiai veszélyjelzés készítése és közzététele,
 - d) a nemzeti hiteles meteorológiai adatokat szolgáltató, megfigyelő, távközlési és adatfeldolgozó alaprendszer, illetve a nemzeti meteorológiai adatbázis fenntartása, működtetése és fejlesztése,
