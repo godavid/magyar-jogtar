@@ -1160,56 +1160,27 @@ területére esik.
 
 #### 66. Módosító rendelkezések
 
-96. § A közúti közlekedésről szóló 1988. évi I. törvény 11/A. § (3) bekezdésében az „az Országos Területrendezési Tervről” szövegrész helyébe az „a Magyarország és egyes kiemelt térségeinek területrendezési tervéről” szöveg lép.
+#### 96. §
 
-97. § A bányászatról szóló 1993. évi XLVIII. törvény 26/A. §-a a következő (3a) bekezdéssel egészül ki:
+#### 97. §
 
-„(3a) A külfejtéses művelésű bányatelket akkor lehet megállapítani vagy horizontálisan bővíteni, ha a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény bányatelek-megállapításra vonatkozó előírásai teljesülnek.”
-
-98. § (1) A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Ktv.) 4. §-a a következő 41. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„41. meteorológiai obszervatórium: nagy léptékű időjárási folyamatok megfigyelésére alkalmas magaslégköri szondával, időjárási radarral, szélradarral, légkörfizikai mérőeszközökkel rendelkező létesítmény, ahol nagy területi reprezentativitású, különösen pontos meteorológiai megfigyeléseket vagy viharjelzést, légkörfizikai, magaslégköri kutatást folytatnak.”
-
-(2) A Ktv. 38/A. § a) pontja helyébe a következő rendelkezés lép:
-
-(A meteorológiai tevékenységgel összefüggő állami feladatok:)
-
-„a) a környezet- és klímavédelemhez, árvíz- és belvízvédelemhez, az erdővédelemhez, valamint az élet- és vagyonbiztonság megóvásához szükséges meteorológiai adatok gyűjtése, információk szolgáltatása, meteorológiai obszervatórium és más mérőállomás üzemeltetése,”
+#### 98. §
 
 99. § (1)
 
-(2) A Tftv. 9. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A területrendezési tervek esetében, a térségi szerkezeti terv és a térségi övezetek előállításával kapcsolatban a miniszterek a területrendezési tervek térképi követelményeinek megfelelő módon dolgozzák ki a feladatkörüket érintő munkarészeket.”
+(2)
 
 (3)
 
-(4) A Tftv. 23/D. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) Az országos és a kiemelt térségi területrendezési terveket érintő változások, valamint a térségi területfelhasználási engedélyek tervi következményeit a területrendezésért felelős miniszter – amennyiben indokolt – évente rendeletében kihirdeti.”
+(4)
 
 (5)
 
-(6) A Tftv. 27. § (7) bekezdése helyébe a következő rendelkezés lép:
+(6)
 
-„(7) Felhatalmazást kap a területrendezésért felelős miniszter, hogy az országos és a kiemelt térségi területrendezési terveket érintő változások, valamint a térségi területfelhasználási engedélyek tervi következményeit rendeletben kihirdesse.”
+(7)
 
-(7) A Tftv.
-
-- a) 5. § t) pontjában a „Budapesti Agglomeráció területrendezési tervéről szóló törvény” szövegrész helyébe a „Budapesti Agglomeráció Területrendezési Tervének” szöveg,
-- b) 23/D. § (3) bekezdésében a „Budapesti Agglomeráció területrendezési tervéről szóló törvény” szövegrész helyébe a „Budapesti Agglomeráció Területrendezési Tervének” szöveg,
-- c) 23/D. § (3b) bekezdésében az „(1)–(3a) bekezdése” szövegrész helyébe az „(1)–(3) bekezdése” szöveg
-
-lép.
-
-(8) Hatályát veszti a Tftv.
-
-- a) 23/D. § (1) bekezdésében a „térségi jelentőségű” szövegrész,
-- b) 23/D. § (3a) bekezdése,
-- c) 27. § (1) bekezdés q) pontja,
-- d) 27. § (1) bekezdés t) pontjában a „ , térségi jelentőségű” szövegrész.
+(8)
 
 100. § (1)
 
@@ -1227,21 +1198,7 @@ lép.
 
 (8)
 
-(9) Az Étv. a következő 60/H. §-sal egészül ki:
-
-„60/H. § Azon épületeknél, amelyek használatát az építésügyi hatóság e rendelkezés hatálybalépése előtt engedélyezte vagy tudomásul vette, e törvény erejénél fogva
-
-a) a helyi építési szabályzatnak – a fővárosban a 14/A. § (2) bekezdés b)–d) pontja szerinti településrendezési eszközöknek – a tetőtér-beépítést tiltó előírását nem kell alkalmazni,
-
-b) a helyi építési szabályzatban – a fővárosban a 14/A. § (2) bekezdés b)–d) pontja szerinti településrendezési eszközökben – meghatározott szintterületi értékbe a tetőtér-beépítés nem számít bele,
-
-c) a tetőtér-beépítéshez kapcsolódó, a tűzvédelmi előírások teljesítését szolgáló építmények és a felvonó az építési telek beépítettségének megengedett legnagyobb mértékébe és a zöldfelület megengedett legkisebb mértékébe nem számít bele,
-
-d) a tetőtér-beépítésből eredő többlet gépjármű elhelyezése a tetőtér-beépítéssel érintett épület telekhatárától mért legfeljebb 1000 m-en belül más telken, parkolóban, parkolóházban vagy a közterület közlekedésre szánt területe egy részének felhasználásával is biztosítható, továbbá a helyi önkormányzat parkolást szabályozó rendelete a parkolóhely pénzbeli megváltásának lehetőségét nem tilthatja meg,
-
-e) a területfelhasználási egységre vagy építési övezetre a helyi építési szabályzatban – a fővárosban a 14/A. § (2) bekezdés b)–d) pontja szerinti településrendezési eszközökben – megállapított maximális lakásszámba a tetőtér-beépítéssel létrejött lakás nem számít bele, és
-
-f) a tetőtér-beépítésekre és az épület belső udvarának lefedésére vonatkozóan e törvény felhatalmazása alapján kiadott kormányrendelet további előírásokat állapíthat meg, amelyeknél szigorúbb követelményeket a helyi építési szabályzat – a fővárosban a kerületi építési szabályzat – nem állapíthat meg.”
+(9)
 
 (10)
 
@@ -1249,15 +1206,13 @@ f) a tetőtér-beépítésekre és az épület belső udvarának lefedésére vo
 
 (12)
 
-(13) Az Étv.
+(13)
 
 - a)
-- b) 20. § (7) bekezdés e) pontjában az „és a kiemelt fontosságú honvédelmi” szövegrész helyébe az „és katonai célú” szöveg,
-- c) 53/F. § (3) bekezdésében a „kiemelt fontosságú meglévő honvédelmi” szövegrész helyébe a „honvédelmi és katonai célú” szöveg,
+- b)
+- c)
 - d)
 - e)
-
-lép.
 
 (14)
 
@@ -1265,113 +1220,27 @@ lép.
 
 #### 102. §
 
-103. § A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17. § (11) bekezdésében az „Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában” szövegrész helyébe a „Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. §-ában” szöveg lép.
+#### 103. §
 
-104. § A Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény 3/A. §-ában az „Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. § (3) bekezdésében” szövegrész helyébe a „Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. § (5) bekezdésében” szöveg lép.
+#### 104. §
 
-105. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 5. § (2) bekezdésében „Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában” szövegrész helyébe a „Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. §-ában” szöveg lép.
+#### 105. §
 
-106. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngt.) 6/H. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+#### 106. §
 
-(A közlekedési infrastruktúra-beruházással érintett települések önkormányzatainak településrendezési eszközeiket)
+#### 107. §
 
-„a) ha a közlekedési infrastruktúra-beruházás szerepel a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvényben (a továbbiakban: MATrT.), a telepítési tanulmányterv települési (a fővárosban a fővárosi és kerületi) önkormányzatnak való benyújtásától számított 4 hónapon belül összhangba kell hozni az MATrT. 14. § (1) bekezdésében foglaltakkal,”
+#### 108. §
 
-(2) Az Ngt.
+#### 109. §
 
-- a) 6/H. § (1) bekezdés b) pontjában az „OTrT-ben” szövegrész helyébe az „MATrT-ben” szöveg,
-- b) 6/H. § (13) bekezdésében a „2018. december 31-ig” szövegrész helyébe a „2021. december 31-ig” szöveg
+#### 110. §
 
-lép.
-
-107. § (1) Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) a következő 114. §-sal egészül ki:
-
-„114. § Az Országos Erdőállomány Adattárból a 113. § (24) vagy (27) bekezdése szerinti kivezetést vagy átminősítést át kell vezetni az ingatlan-nyilvántartás szerinti művelési ágban, továbbá a településrendezési eszközökön is. Az erdészeti hatóság a határozat véglegessé válásától számított 8 napon belül köteles hivatalból megkeresni az ingatlanügyi hatóságot az ingatlan-nyilvántartásnak, a települési önkormányzatot a településrendezési eszközöknek az Országos Erdőállomány Adattárral történő összhangba hozatala érdekében.”
-
-(2) Az Evt.
-
-- a) 23/A. § (4) bekezdésében az „Az Országos Területrendezési Tervről szóló törvényben” szövegrész helyébe az „Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvényben” szöveg
-- b) 113. § (24) és (27) bekezdésében a „két éven belül” szövegrész helyébe a „négy éven belül” szöveg
-
-lép.
-
-108. § A hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 8. § (1) bekezdés g) pontjában a „Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény 1/1. számú mellékletében” szövegrész helyébe a „Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/1. mellékletében” szöveg lép.
-
-109. § A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény
-
-- a) 7. § (1) bekezdésében az „A Budapesti Agglomeráció Területrendezési Tervéről” szóló szövegrész helyébe a „Magyarország és egyes kiemelt térségeinek területrendezési tervéről” szöveg,
-- b) 7. § (9) bekezdésében az „a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény 5. § (7) bekezdésében” szövegrész helyébe az „a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 42. § (5) bekezdésében” szöveg
-
-lép.
-
-110. § (1) A településkép védelméről szóló 2016. évi LXXIV. törvény (a továbbiakban: Tvtv.) 2. §-a a következő (2b)–(2e) bekezdéssel egészül ki:
-
-„(2b) E törvény felhatalmazása alapján kiadott jogszabály országos településkép-védelmet biztosíthat a településképi szempontból kiemelten meghatározó területre.
-
-(2c) Az országos településkép-védelem keretében a településképi szempontból kiemelten meghatározó területre – a terület kijelölésével egyidejűleg – a Kormány rendeletben országos jelentőségű településképi követelményeket és országos településkép-érvényesítési eszközöket
-
-állapíthat meg.
-
-(2d) A (2c) bekezdés esetében a (2) bekezdés szerinti önkormányzati településképi rendelet rendelkezései – a kormányrendelet eltérő rendelkezésének hiányában – a településképi szempontból kiemelten meghatározó terület tekintetében nem alkalmazhatók.
-
-(2e) Az Étv. 4. § (3a) bekezdése szerinti területekre vonatkozóan országos településkép-védelem a (2c) bekezdés figyelembevételével biztosítható.”
-
-(2) A Tvtv. a következő 1/A. alcímmel egészül ki:
-
-„1/A. Országos településkép-védelem
-
-2/A. § (1) Az országos jelentőségű településképi követelmény a 3. § (1) bekezdés a), b) és d) pontjában meghatározott követelményekre és ezen követelmények keretszabályaira terjedhet ki.
-
-(2) A Kormány az országos jelentőségű településképi követelmények érvényesítésének elősegítésére a településképi szempontból kiemelten meghatározó területre egyedi településképi arculati kézikönyv (a továbbiakban: egyedi kézikönyv) készítését írhatja elő, az egyedi kézikönyv tartalmára, elkészítésére és egyeztetésére vonatkozó részletes szabályok meghatározásával. Az egyedi kézikönyv az országos főépítész közreműködésével készül.
-
-(3) A Kormány az országos jelentőségű településképi követelmények érvényesülése érdekében a (4) és (6) bekezdés szerinti országos településkép-érvényesítési eszközök alkalmazását írhatja elő.
-
-(4) A településképi szempontból kiemelten meghatározó területre – kormányrendeletben meghatározott esetekben és részletszabályok szerint – kormányrendeletben kijelölt államigazgatási szerv
-
-a) tájékoztatást adhat és szakmai konzultációt biztosíthat az országos jelentőségű településképi követelményekről, ennek keretében javaslatot tehet a követelmények érvényesítési módjára,
-
-b) kiemelt településképi véleményezési eljárást folytathat le és településképi véleményt adhat az építésügyi engedélyezési eljárást megelőzően a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez,
-
-c) kiemelt településképi bejelentési eljárást folytathat le és településképi döntést hozhat az építésügyi hatósági engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek sem minősülő építési tevékenységek, reklámelhelyezések és rendeltetésmódosítások tekintetében,
-
-d) településképi kötelezést adhat ki, és településkép-védelmi bírságot szabhat ki.
-
-(5) A (4) bekezdés szerint kijelölt államigazgatási szerv az országos jelentőségű településképi követelmények érvényesülése érdekében a 11. § (1)–(3) bekezdésében foglaltak szerint jár el azzal, hogy – jogszabályban meghatározott esetekben és módon – 10 000 000 forintig terjedő közigazgatási bírságnak megfelelő településkép-védelmi bírság kiszabását rendelheti el.
-
-(6) A Kormány támogatási és ösztönző rendszer útján segítheti elő az országos jelentőségű településképi követelmények érvényesülését, amely alkalmazásáról az országos településkép-védelmet biztosító kormányrendelet rendelkezik.”
-
-(3) A Tvtv. 12. § (1) bekezdése a következő h)–l) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„h) az országos településkép-védelemmel érintett településképi szempontból kiemelten meghatározó területet és az érintett ingatlanokat,
-
-i) a településképi szempontból kiemelten meghatározó területre vonatkozó egyedi kézikönyv tartalmi elemeit, az elkészítésére és egyeztetésére vonatkozó részletes szabályokat,
-
-j) a településképi szempontból kiemelten meghatározó területre vonatkozó országos jelentőségű településképi követelményeket, továbbá a reklámhordozó és reklám elhelyezésére vonatkozó tilalmak és korlátozások alól e törvény által megengedett eltéréseket, a létesíthető reklámhordozók számát, megjelenésük különös formai (műszaki) követelményeit,
-
-k) az országos jelentőségű településképi követelmények érvényesülése érdekében alkalmazandó országos településkép-érvényesítési eszközöket, az egyes eszközök alkalmazásának eseteit, módját, részletes szabályait, a vonatkozó eljárások szabályait, beleértve az eljárásokban vizsgálandó településképi szempontokat és az eljárások alóli mentesség feltételeit, a támogatási és ösztönző rendszer alkalmazását, továbbá az országos településkép-érvényesítési eszközök alkalmazására hatáskörrel rendelkező hatóságokat és feladatkörrel rendelkező egyéb szerveket,
-
-l) az országos jelentőségű településképi követelmények érvényesülése érdekében kiszabható településkép-védelmi bírság mértéke megállapításának szempontrendszerét és a bírság megfizetési módjának részletszabályait.”
-
-(4) A Tvtv.
-
-- a) 2. alcímének címében az „A településképi” szövegrész helyébe az „A helyi településképi” szöveg,
-- b) az 5. § (1) bekezdésben a „főépítész vagy több település által közösen foglalkoztatott térségi főépítész” szövegrész helyébe a „főépítész, több település által közösen foglalkoztatott térségi főépítész vagy a megyei főépítész” szöveg,
-- c) 11/A. § (3) bekezdésében „a településképi rendeletben” szövegrész helyébe a „a 2. § (2a), (2b), (2c) és (2e) bekezdések szerinti jogszabályok hatálya alá tartozó területek kivételével a településképi rendeletben” szöveg,
-- d) 11/B. § (4) bekezdésében a „2. § (2a) bekezdés” szövegrész helyébe a „2. § (2a), (2b), (2c) és (2e) bekezdés” szöveg
-
-lép.
-
-111. § A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény 1. § 1. pontjában a „Budapesti Agglomeráció Területrendezési Tervéről szóló törvény” szövegrész helyébe a „Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény” szöveg lép.
+#### 111. §
 
 #### 67. Hatályon kívül helyező rendelkezések
 
-112. § Hatályát veszti
-
-- a) a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény,
-- b) az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény,
-- c) a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény.
+#### 112. §
 
 ### 1/1. melléklet a 2018. évi CXXXIX. törvényhez
 
