@@ -84,7 +84,7 @@ a fogyasztónak nyújtott hitelről
 
 ### A hitelre vonatkozó kereskedelmi kommunikáció
 
-4. § (1) A hitelre vonatkozó kereskedelmi kommunikáció során kerülni kell minden olyan megfogalmazást, amely a hitel elérhetősége vagy költsége tekintetében téves várakozásokat kelthet a fogyasztóban. A kereskedelmi kommunikáció során az információnak könnyen olvashatónak vagy jól hallhatónak kell lennie. A hitelre vonatkozó kereskedelmi kommunikációban a teljes hiteldíj mutató értékét feltűnően, a rövidítés feltüntetésével, egy tizedesjegy pontossággal minden esetben meg kell adni.
+4. § (1) A hitelre vonatkozó kereskedelmi kommunikáció során kerülni kell minden olyan megfogalmazást, amely a hitel elérhetősége vagy költsége tekintetében téves várakozásokat kelthet a fogyasztóban. A kereskedelmi kommunikáció során az információnak könnyen olvashatónak vagy jól hallhatónak kell lennie. A hitelre vonatkozó kereskedelmi kommunikációban a teljes hiteldíj mutató értékét feltűnően, a rövidítés feltüntetésével, legalább egy tizedesjegy pontossággal minden esetben meg kell adni.
 
 (2) Ha a hitelre vonatkozó kereskedelmi kommunikáció a teljes hiteldíj mutató értékén kívül hitelkamatot vagy bármilyen más ellenszolgáltatásra – ideértve a díjat, jutalékot, költséget – vonatkozó számadatot megjelöl, a kereskedelmi kommunikációban egyértelműen, tömören és feltűnően, reprezentatív példával bemutatva meg kell adni a következő adatokat is:
 
