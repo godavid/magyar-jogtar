@@ -797,7 +797,9 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 24/B. § A befektetési vállalkozás megfelelő humán és pénzügyi erőforrást biztosít az irányítási jogkörrel rendelkező vezető testület tagjainak képzésére.
 
-24/C. § Az irányítási jogkörrel rendelkező vezető testület tagjai megfelelő időt fordítanak a befektetési vállalkozásnál vállalt funkciójuk ellátására.
+24/C. § (1) Az irányítási jogkörrel rendelkező vezető testület tagjai megfelelő időt fordítanak a befektetési vállalkozásnál vállalt funkciójuk ellátására.
+
+(2) A vezető testület a befektetési vállalkozás tevékenységeinek – beleértve a fő kockázatokat is – a megértéséhez megfelelő kollektív tudással, készségekkel és tapasztalatokkal rendelkezik.
 
 24/D. § (1) Ha a befektetési vállalkozásnak a tárgyévet megelőző évi mérlegfőösszege meghaladja a kétszázmilliárd forintot, akkor a befektetési vállalkozás jelölőbizottságot állít fel.
 

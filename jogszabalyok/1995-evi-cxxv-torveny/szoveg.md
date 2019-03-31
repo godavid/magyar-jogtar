@@ -1104,7 +1104,7 @@ azt jóváhagyta.
 
 (3) A (2) bekezdés a) pontjában meghatározott irányító vagy felügyelő személy vagy szerv hiányában a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítésére jogosult személy vagy testület dönt a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony nemzetbiztonsági ellenőrzés lefolytatását megelőzően történő létrehozásáról.
 
-(4) Ha a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapított meg, a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony csak akkor hozható létre, illetve tartható fenn, ha annak létrehozását vagy fenntartását a (2) vagy (3) bekezdésben meghatározott szerv, személy vagy testület jóváhagyta.
+(4)
 
 (5) Az (2)–(4) bekezdésben meghatározott esetben a kezdeményezésre jogosult a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozásáról, illetve fenntartásáról értesíti a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot.
 
@@ -1226,7 +1226,7 @@ azt jóváhagyta.
 
 (7) A felülvizsgálati eljárás alapján a nemzetbiztonsági szolgálat biztonsági szakvéleményt állít ki, amelyet megküld a kezdeményezőnek. A kezdeményező a 71/C. § (6) bekezdésében foglaltak szerint tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt.
 
-(8) Ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony nem hozható létre vagy azt haladéktalanul meg kell szüntetni, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását vagy fenntartását jóváhagyta.
+(8)
 
 (9) A felülvizsgálati eljárás eredményeként kiadott kockázatmentes biztonsági szakvélemény a kiállítástól számított 5 évig érvényes.
 
@@ -1287,9 +1287,9 @@ azt jóváhagyta.
 
 (12) A bíróság e § szerinti eljárására a közigazgatási perrendtartás rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
 
-(13) A bíróság a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény kiadásának alapjául szolgáló eljárás jogszerűségét vizsgálja, jogköre nem terjed ki a nemzetbiztonsági kockázat megállapításának szakszerűségére.
+(13)
 
-(14) Eljárási szabálysértés esetén a bíróság a nemzetbiztonsági kockázat megállapítására vonatkozó döntést hatályon kívül helyezi és a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot új eljárásra kötelezi.
+(14)
 
 ### Záró rendelkezések
 
