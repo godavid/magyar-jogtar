@@ -96,7 +96,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 2. anticiklikus tőkepufferráta: a hitelintézet tevékenységéhez kapcsolódó prociklikusság csökkentését célzó tőkepuffer-követelmény meghatározásához alkalmazott arányszám, amelyet a hitelintézet a kitettségeihez kapcsolódó felek vonatkozásában alkalmaz azok földrajzi elhelyezkedése alapján;
 - 3. anyavállalat: minden olyan vállalkozás, amely egy másik vállalkozás működésére ellenőrző befolyást gyakorol;
 - 4. arany kereskedelmi ügylet: a színaranyra (arany, amelynek finomsága legalább 995/1000), továbbá – aranytartalmára tekintet nélkül – a rúdaranyra és az aranytömbre, valamint a forgalomban nem lévő arany pénzérmére és – numizmatikai céllal – a forgalomban lévő arany pénzérmére kötött ügylet;
-- 4a. azonosított elektronikus út: olyan személyre szabott elektronikus eljárás, amely a nyilatkozattevő személyének és a nyilatkozat megtétele időpontjának egyértelmű azonosítására és a jognyilatkozat tartalmának változatlan visszaidézésére alkalmas formában teszi lehetővé a jognyilatkozat megtételét;
+- 4a.
 - 5. befektetés: az ingatlan, az ingó dolog, a vagyoni értékű jog, illetve a vállalkozásokban fennálló részesedés (részvény, üzletrész, tagsági viszony stb.), valamint a más pénzügyi vállalkozás részére nyújtott alárendelt kölcsöntőke;
 - 6. befolyásoló részesedés: az 575/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom;
 - 7. belső módszer: az 575/2013/EU rendeletben belső minősítésen alapuló módszerként meghatározott fogalom;
@@ -2033,6 +2033,8 @@ a belső szabályzatban meghatározott mértékig.
 
 (2) A hitelintézet megfelelő humán és pénzügyi erőforrást biztosít az irányítási jogkörrel rendelkező vezető testület tagjainak képzésére.
 
+(3) A vezető testület a hitelintézet tevékenységeinek – ideértve a fő kockázatokat is – a megértéséhez megfelelő kollektív tudással, készségekkel és tapasztalattal rendelkezik.
+
 114. § (1) Minden olyan hitelintézet,
 
 - a) amelyre az összevont alapú felügyelet nem terjed ki, vagy
@@ -2782,7 +2784,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 161. § (1) Banktitok csak akkor adható ki harmadik személynek, ha
 
-- a) a pénzügyi intézmény ügyfele, annak törvényes képviselője a rá vonatkozó kiszolgáltatható banktitok-kört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri vagy erre felhatalmazást ad; nem szükséges a közokiratba, teljes bizonyító erejű magánokiratba foglalás, ha az ügyfél ezt az írásbeli nyilatkozatát a pénzügyi intézménnyel történő szerződéskötés keretében – ideértve a fizetési számla váltásának kezdeményezését is – nyújtja azzal, hogy ebben az esetben a nyilatkozat azonosított elektronikus úton is megtehető,
+- a) a pénzügyi intézmény ügyfele, annak törvényes képviselője a rá vonatkozó kiszolgáltatható banktitok-kört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri vagy erre felhatalmazást ad; nem szükséges a közokiratba, teljes bizonyító erejű magánokiratba foglalás, ha az ügyfél ezt az írásbeli nyilatkozatát a pénzügyi intézménnyel történő szerződéskötés keretében – ideértve a fizetési számla váltásának kezdeményezését is – nyújtja,
 - b) e törvény a banktitok megtartásának kötelezettsége alól felmentést ad,
 - c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi,
 - d) a pénzügyi intézmény által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
@@ -4596,7 +4598,7 @@ rendelkezhet.
 
 #### 118. A betétesek tájékoztatása
 
-272. § (1) A hitelintézet az OBA-val, a külföldi betétbiztosító intézménnyel, valamint az önkéntes betétbiztosítási, intézményvédelmi alapban való részvétel esetén az azzal kapcsolatos, a betétest érintő lényeges kérdésekről, így különösen az OBA által biztosított betéttípusokról, a biztosítás mértékéről, valamint – a hitelintézet tevékenységi engedélyének a Felügyelet által a 33. § alapján való visszavonása, illetve a hitelintézet felszámolása esetén – a 214. § (1) bekezdése szerinti kártalanítási kifizetés feltételeiről, valamint a biztosítás igénybevételéhez szükséges eljárásról a betétest közérthető formában tájékoztatja. A hitelintézet tájékoztatja a betétest arról is, hogy a 213. §-ban és a 239. § (4) bekezdésében meghatározott esetekben az OBA által nyújtott biztosítás nem terjed ki a betétre.
+272. § (1) A hitelintézet az OBA-ban, a külföldi betétbiztosítási rendszerekben, valamint az önkéntes betétbiztosítási, intézményvédelmi alapban való részvétel esetén az azzal kapcsolatos, a betétest érintő lényeges kérdésekről, így különösen a biztosított betéttípusokról, a biztosítás mértékéről, a kártalanítási kifizetés pénzneméről, valamint – a hitelintézet tevékenységi engedélyének a Felügyelet által a 33. § alapján való visszavonása, illetve a hitelintézet felszámolása esetén – a 214. § (1) bekezdése szerinti kártalanítási kifizetés feltételeiről, valamint a biztosítás igénybevételéhez szükséges eljárásról a betétest közérthető formában – a szerződéskötést megelőzően is – tájékoztatja. A hitelintézet tájékoztatja a betétest arról is, hogy a 213. §-ban és a 239. § (4) bekezdésében meghatározott esetekben az OBA által nyújtott biztosítás nem terjed ki a betétre.
 
 (2) A hitelintézet az (1) bekezdésben meghatározott tájékoztatást az ügyfél számára világos és érthető módon – a felek eltérő megállapodásának hiányában – magyar nyelven vagy magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén adja meg, amelyben a fióktelepet létrehozták, magyarországi székhelyű hitelintézet határon átnyúló szolgáltatása esetén pedig azon a nyelven, amelyről a betétes és a hitelintézet a betét elhelyezésekor vagy a szerződés megkötésekor megállapodott.
 
@@ -4606,7 +4608,7 @@ rendelkezhet.
 
 (2) A hitelintézet az (1) bekezdésben meghatározott tájékoztatást – a felek eltérő megállapodásának hiányában – magyar nyelven adja meg.
 
-274. § A betétre vonatkozó reklámban a betétbiztosítással kapcsolatban az OBA által előírt betétbiztosítási emblémát kell feltüntetni az OBA által előírt módon.
+274. § A betétre vonatkozó reklámban a betétbiztosítással kapcsolatban az OBA által előírt betétbiztosítási emblémát az OBA által előírt módon fel kell tüntetni. A betétbiztosítással kapcsolatban kizárólag az OBA által előírt betétbiztosítási embléma szerepeltethető.
 
 #### 119. Időszakos tájékoztatás
 
@@ -4662,11 +4664,11 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 #### 121. Egyes szerződésekre vonatkozó különös rendelkezések
 
-279. § (1) A pénzügyi intézmény – az egyszeri fizetési megbízás kivételével, valamint az (1a) bekezdésben és a 285. §-ban meghatározott eltéréssel – pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést csak írásban – ideértve a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okirati formát is – köthet. Az írásban kötött szerződés egy eredeti példányát a pénzügyi intézmény köteles az ügyfélnek átadni.
+279. § (1) A pénzügyi intézmény – az egyszeri fizetési megbízás kivételével, valamint a 285. §-ban meghatározott eltéréssel – pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést csak írásban köthet. Az írásban kötött szerződés egy hiteles példányát a pénzügyi intézmény köteles az ügyfél rendelkezésére bocsátani.
 
-(1a) Az (1) bekezdéstől eltérően a hitelintézet pénzforgalmi szolgáltatási keretszerződést, valamint betét elfogadására vonatkozó szerződést azonosított elektronikus úton is köthet.
+(1a)
 
-(2) A pénzügyi intézmény és az ügyfél az (1) és az (1a) bekezdés szerint megkötött szerződésben megállapodhat arról, hogy meghatározott körben azonosított elektronikus úton kötnek pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést. Az ilyen módon létrejött pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződés e törvény alkalmazásában írásbeli szerződésnek minősül.
+(2) Az (1) bekezdésben foglalt előírás megsértése nem vonja maga után a szerződés érvénytelenségét, jogkövetkezményként a Felügyelet intézkedést alkalmazhat, illetve bírságot szabhat ki.
 
 (3) A pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződésben egyértelműen meg kell határozni a kamatot, díjat és minden egyéb költséget vagy feltételt, ideértve a késedelmes teljesítés jogkövetkezményeit és a szerződést biztosító mellékkötelezettségek érvényesítésének módját, következményeit is.
 
