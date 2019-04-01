@@ -130,11 +130,7 @@ a pénzügyi közvetítőrendszert érintő egyes törvények jogharmonizációs
 
 #### 5. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-60. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 24/C. §-a helyébe a következő rendelkezés lép:
-
-„24/C. § (1) Az irányítási jogkörrel rendelkező vezető testület tagjai megfelelő időt fordítanak a befektetési vállalkozásnál vállalt funkciójuk ellátására.
-
-(2) A vezető testület a befektetési vállalkozás tevékenységeinek – beleértve a fő kockázatokat is – a megértéséhez megfelelő kollektív tudással, készségekkel és tapasztalatokkal rendelkezik.”
+60. §
 
 61. §
 
@@ -203,14 +199,14 @@ a pénzügyi közvetítőrendszert érintő egyes törvények jogharmonizációs
 
 lép.
 
-82. § Hatályát veszti a Pft.
+82. §
 
-- a) 13. §-ában az „ – ideértve a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okirati formát is – vagy a Hpt.-ben meghatározottak szerinti azonosított elektronikus úton” szövegrész,
+- a)
 - b)
 
 #### 8. A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény módosítása
 
-83. § A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 4. § (1) bekezdésében a „feltüntetésével,” szövegrész helyébe a „feltüntetésével, legalább” szöveg lép.
+83. §
 
 #### 9. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
@@ -273,9 +269,7 @@ lép.
 
 102. §
 
-103. § A Hpt. 113. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A vezető testület a hitelintézet tevékenységeinek – ideértve a fő kockázatokat is – a megértéséhez megfelelő kollektív tudással, készségekkel és tapasztalattal rendelkezik.”
+103. §
 
 104. §
 
@@ -301,21 +295,11 @@ lép.
 
 115. §
 
-116. § A Hpt. 272. § (1) bekezdése helyébe a következő rendelkezés lép:
+116. §
 
-„(1) A hitelintézet az OBA-ban, a külföldi betétbiztosítási rendszerekben, valamint az önkéntes betétbiztosítási, intézményvédelmi alapban való részvétel esetén az azzal kapcsolatos, a betétest érintő lényeges kérdésekről, így különösen a biztosított betéttípusokról, a biztosítás mértékéről, a kártalanítási kifizetés pénzneméről, valamint – a hitelintézet tevékenységi engedélyének a Felügyelet által a 33. § alapján való visszavonása, illetve a hitelintézet felszámolása esetén – a 214. § (1) bekezdése szerinti kártalanítási kifizetés feltételeiről, valamint a biztosítás igénybevételéhez szükséges eljárásról a betétest közérthető formában – a szerződéskötést megelőzően is – tájékoztatja. A hitelintézet tájékoztatja a betétest arról is, hogy a 213. §-ban és a 239. § (4) bekezdésében meghatározott esetekben az OBA által nyújtott biztosítás nem terjed ki a betétre.”
+117. §
 
-117. § A Hpt. 274. §-a helyébe a következő rendelkezés lép:
-
-„274. § A betétre vonatkozó reklámban a betétbiztosítással kapcsolatban az OBA által előírt betétbiztosítási emblémát az OBA által előírt módon fel kell tüntetni. A betétbiztosítással kapcsolatban kizárólag az OBA által előírt betétbiztosítási embléma szerepeltethető.”
-
-118. § (1) A Hpt. 279. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A pénzügyi intézmény – az egyszeri fizetési megbízás kivételével, valamint a 285. §-ban meghatározott eltéréssel – pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződést csak írásban köthet. Az írásban kötött szerződés egy hiteles példányát a pénzügyi intézmény köteles az ügyfél rendelkezésére bocsátani.”
-
-(2) A Hpt. 279. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben foglalt előírás megsértése nem vonja maga után a szerződés érvénytelenségét, jogkövetkezményként a Felügyelet intézkedést alkalmazhat, illetve bírságot szabhat ki.”
+118. §
 
 119. §
 
@@ -339,13 +323,13 @@ lép.
 - 16.
 - 17.
 
-121. § Hatályát veszti a Hpt.
+121. §
 
-- a) 6. § (1) bekezdés 4a. pontja,
+- a)
 - b)
-- c) 161. § (1) bekezdés a) pontjában az „azzal, hogy ebben az esetben a nyilatkozat azonosított elektronikus úton is megtehető” szövegrész,
+- c)
 - d)
-- e) 279. § (1a) bekezdése,
+- e)
 - f)
 
 #### 12. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása

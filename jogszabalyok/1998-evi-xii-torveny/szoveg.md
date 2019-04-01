@@ -121,7 +121,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (2) Hivatalos útlevél – a diplomata-útlevél és a hajós szolgálati útlevél kivételével – kizárólag hivatalos utazás céljára használható fel.
 
-(3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke 12. § (1) bekezdés g) pont] diplomata-útlevele esetében az Országgyűlés Hivatala –, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet végzi.
+(3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke [12. § (1) bekezdés g) pont] diplomata-útlevele esetében az Országgyűlés Hivatala –, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet végzi.
 
 (4) Hivatalos útlevél a (2) bekezdésben foglaltaktól eltérően a tartós külszolgálat időtartama alatt magáncélú utazásokra is igénybe vehető.
 
@@ -361,7 +361,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 24. § (1) Az adatkezelő szerv az útiokmány-nyilvántartásban a következő adatokat kezeli:
 
 - a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, továbbá annak megváltozása esetén anyja előző születési családi és utónevét, nemét, állampolgárságát, menekült, menedékes, bevándorolt vagy oltalmazott jogállását (a továbbiakban együtt: személyi adat), külföldre utazásra felhasználható – személyazonosságát igazoló – hatósági igazolványának számát, továbbá értesítési címét, illetve lakcímét, valamint hozzájárulása esetén e-mail címét, telefonszámát,
-- b) az állampolgár arcképmását és saját kezű aláírását, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,
+- b) az állampolgár arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,
 - c) a kiskorú, továbbá a cselekvőképességet kizáró gondnokság alá helyezett állampolgár törvényes képviselőjének személyi adatait, személyi azonosítóját, személyazonosságát igazoló hatósági igazolványának számát és saját kezű aláírását,
 - d) kiskorú esetében a külföldre utazáshoz hozzájáruló nyilatkozat adatait, és a szülői felügyeleti jog megszűnését, illetve szünetelését igazoló jogerős határozat adatait (a bíróság vagy hatóság megnevezését, ügyszámát, a határozat keltét, a szünetelés időtartamát, a megszüntetés kezdő időpontját),
 - e) az állampolgár számára kiadott úti okmány típusát, számát, érvényességi idejét, az ideiglenes magánútlevél ellenőrző sorszámát, valamint az úti okmányra való jogosultság megszűnésének okát és időpontját,
