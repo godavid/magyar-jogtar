@@ -1104,11 +1104,16 @@ azt jóváhagyta.
 
 (3) A (2) bekezdés a) pontjában meghatározott irányító vagy felügyelő személy vagy szerv hiányában a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítésére jogosult személy vagy testület dönt a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony nemzetbiztonsági ellenőrzés lefolytatását megelőzően történő létrehozásáról.
 
-(4)
+(4) Ha a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapított meg, a nemzetbiztonsági ellenőrzés alá eső jogviszony csak akkor hozható létre, ha annak létrehozását a (2) vagy (3) bekezdésben meghatározott szerv, személy vagy testület jóváhagyta.
 
-(5) Az (2)–(4) bekezdésben meghatározott esetben a kezdeményezésre jogosult a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozásáról, illetve fenntartásáról értesíti a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot.
+(4a) Ha a (2) bekezdés szerinti esetben a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozását követően a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapít meg,
 
-(6) A (4) bekezdésben meghatározott esetben a Nemzeti Biztonsági Felügyelet nem adja ki a nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatok megismeréséhez szükséges biztonsági tanúsítványt.
+- a) a nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése iránt kell intézkedni akként, hogy a munkáltatói jogkört gyakorló mérlegeli az érintett személy más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezését vagy foglalkoztatási jogviszonyának megszüntetését, vagy
+- b) a nemzetbiztonsági ellenőrzés alá eső jogviszony akkor tartható fenn, ha annak fenntartását a (2) vagy (3) bekezdésben meghatározott szerv, személy vagy testület jóváhagyta.
+
+(5) Az (2)–(4a) bekezdésben meghatározott esetben a kezdeményezésre jogosult a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozásáról, illetve fenntartásáról értesíti a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot.
+
+(6) A (4) vagy (4a) bekezdésben meghatározott esetben a Nemzeti Biztonsági Felügyelet nem adja ki a nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatok megismeréséhez szükséges biztonsági tanúsítványt.
 
 ### A nemzetbiztonsági ellenőrzés lefolytatása
 
@@ -1154,6 +1159,13 @@ azt jóváhagyta.
 (7) A kockázatmentes biztonsági szakvélemény a kiállítást követő 5 évig érvényes.
 
 (8) A kockázatmentes biztonsági szakvélemény érvényességi idején belül lefolytatott új nemzetbiztonsági ellenőrzésről készült biztonsági szakvélemény kiállításával a korábbi biztonsági szakvélemény érvényét veszti.
+
+(9) Ha a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozását követően a (8) bekezdés szerinti új nemzetbiztonsági ellenőrzésről készült biztonsági szakvélemény nemzetbiztonsági kockázatot állapít meg,
+
+- a) a nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése iránt kell intézkedni akként, hogy a munkáltatói jogkört gyakorló mérlegeli az érintett személy más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezését vagy foglalkoztatási jogviszonyának megszüntetését, vagy
+- b) a nemzetbiztonsági ellenőrzés alá eső jogviszony akkor tartható fenn, ha annak fenntartását a 71. § (2) vagy (3) bekezdésében meghatározott szerv, személy vagy testület jóváhagyta.
+
+(10) A (9) bekezdés szerinti esetben a 71. § (5) és (6) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
 71/D. § (1) Érvényes és kockázatmentes biztonsági szakvéleménnyel rendelkező, nemzetbiztonsági ellenőrzés alá eső személy a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony fennállása alatt a nemzetbiztonsági ellenőrzésre jogosult nemzetbiztonsági szolgálat főigazgatójához címzett, indokolt kérelmében kezdeményezheti felülvizsgálati eljárás elrendelését.
 
@@ -1226,7 +1238,14 @@ azt jóváhagyta.
 
 (7) A felülvizsgálati eljárás alapján a nemzetbiztonsági szolgálat biztonsági szakvéleményt állít ki, amelyet megküld a kezdeményezőnek. A kezdeményező a 71/C. § (6) bekezdésében foglaltak szerint tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt.
 
-(8)
+(8) Az (1) bekezdés a) és c) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyt haladéktalanul meg kell szüntetni, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását vagy fenntartását jóváhagyta. A nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése érdekében a munkáltatói jogkört gyakorló mérlegelése alapján az érintett személy
+
+- a) más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezése vagy
+- b) foglalkoztatási jogviszonyának megszüntetése
+
+iránt intézkedik.
+
+(8a) Az (1) bekezdés b) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alá vont személy vonatkozásában a jelölés szerinti nemzetbiztonsági ellenőrzés alá eső jogviszony nem hozható létre, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását jóváhagyta.
 
 (9) A felülvizsgálati eljárás eredményeként kiadott kockázatmentes biztonsági szakvélemény a kiállítástól számított 5 évig érvényes.
 
@@ -1256,7 +1275,7 @@ azt jóváhagyta.
 - b) a biztonsági szakvéleményben megállapított kockázati tényezővel, valamint
 - c) az általa kezdeményezett felülvizsgálati eljárás elrendelésének elutasításáról szóló döntéssel szemben – a kézhezvételétől számított 15 napon belül – panasszal élhet a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat főigazgatója útján a miniszternél.
 
-(2) Az előterjesztett panasznak a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony 71. § (4) bekezdése, illetve a 72/B. § (8) bekezdése alapján történő megszüntetésére nincs halasztó hatálya.
+(2) Az előterjesztett panasznak a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony a 71. § (4) vagy (4a) bekezdése, a 71/C. § (9) bekezdése, illetve a 72/B. § (8) vagy (8a) bekezdése alapján történő megszüntetésére nincs halasztó hatálya.
 
 (3) Ha a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat főigazgatója az (1) bekezdésben meghatározott panaszban foglaltakkal egyetért,
 
@@ -1281,13 +1300,13 @@ azt jóváhagyta.
 
 (9) A nemzetbiztonsági ellenőrzés alá eső személy a miniszter döntésével szemben, annak kézhezvételétől számított 15 napon belül panasszal élhet a Bizottságnál.
 
-(10) Ha a Bizottság a panaszt elutasítja és a nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) bekezdése vagy a 72/B. § (8) bekezdése alapján szüntették meg, a nemzetbiztonsági ellenőrzés alá eső személy a Bizottság döntésének kézhezvételétől számított 15 napon belül támadhatja meg a miniszter döntését. A közigazgatási pert a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény ellen benyújtott panaszt elbíráló miniszter ellen kell megindítani. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(10) Ha a Bizottság a panaszt elutasítja és a nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) vagy (4a) bekezdése, a 71/C. § (9) bekezdése vagy a 72/B. § (8) vagy (8a) bekezdése alapján szüntették meg, a nemzetbiztonsági ellenőrzés alá eső személy a Bizottság döntésének kézhezvételétől számított 15 napon belül támadhatja meg a miniszter döntését. A közigazgatási pert a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény ellen benyújtott panaszt elbíráló miniszter ellen kell megindítani. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 (11) A (10) bekezdés szerinti közigazgatási per megindításának joga azt a hivatásos szolgálati viszonyban állót is megilleti, akit a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján beosztás alóli felmentésével egyidejűleg rendelkezési állományba helyeztek.
 
 (12) A bíróság e § szerinti eljárására a közigazgatási perrendtartás rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
 
-(13)
+(13) A (10) bekezdés szerinti eljárásban a bíróság a nemzetbiztonsági kockázat megállapítására vonatkozó döntés megváltoztatására nem jogosult.
 
 (14)
 
