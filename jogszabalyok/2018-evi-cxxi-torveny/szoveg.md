@@ -16,13 +16,11 @@ egyes belügyi tárgyú és más kapcsolódó törvények módosításáról
 
 5. §
 
-6. § Az Nytv. 29/E. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A menekült vagy oltalmazott jogállású személy állandó személyazonosító igazolványát a menekültkénti vagy oltalmazottkénti státuszról rendelkező döntés meghozatalának napjától számított 4 évre kell kiállítani.”
+6. §
 
 7. §
 
-8. § Az Nytv. 29/E. § (1) bekezdés nyitó szövegrészében a „(2) és (4)” szövegrész helyébe a „(2), (4) és a (4a)” szöveg lép.
+8. §
 
 #### 3. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
@@ -117,67 +115,37 @@ lép.
 
 41. §
 
-42. § Az Nbtv. 71. §-a a következő (4) és (4a) bekezdéssel egészül ki:
-
-„(4) Ha a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapított meg, a nemzetbiztonsági ellenőrzés alá eső jogviszony csak akkor hozható létre, ha annak létrehozását a (2) vagy (3) bekezdésben meghatározott szerv, személy vagy testület jóváhagyta.
-
-(4a) Ha a (2) bekezdés szerinti esetben a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozását követően a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapít meg,
-
-a) a nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése iránt kell intézkedni akként, hogy a munkáltatói jogkört gyakorló mérlegeli az érintett személy más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezését vagy foglalkoztatási jogviszonyának megszüntetését, vagy
-
-b) a nemzetbiztonsági ellenőrzés alá eső jogviszony akkor tartható fenn, ha annak fenntartását a (2) vagy (3) bekezdésben meghatározott szerv, személy vagy testület jóváhagyta.”
+42. §
 
 43. §
 
-44. § Az Nbtv. 71/C. §-a a következő (9) és (10) bekezdéssel egészül ki:
-
-„(9) Ha a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozását követően a (8) bekezdés szerinti új nemzetbiztonsági ellenőrzésről készült biztonsági szakvélemény nemzetbiztonsági kockázatot állapít meg,
-
-a) a nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése iránt kell intézkedni akként, hogy a munkáltatói jogkört gyakorló mérlegeli az érintett személy más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezését vagy foglalkoztatási jogviszonyának megszüntetését, vagy
-
-b) a nemzetbiztonsági ellenőrzés alá eső jogviszony akkor tartható fenn, ha annak fenntartását a 71. § (2) vagy (3) bekezdésében meghatározott szerv, személy vagy testület jóváhagyta.
-
-(10) A (9) bekezdés szerinti esetben a 71. § (5) és (6) bekezdésében foglalt rendelkezéseket kell alkalmazni.”
+44. §
 
 45. § (1)
 
 (2)
 
-(3) Az Nbtv. 72/B. §-a a következő (8) és (8a) bekezdéssel egészül ki:
-
-„(8) Az (1) bekezdés a) és c) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyt haladéktalanul meg kell szüntetni, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását vagy fenntartását jóváhagyta. A nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése érdekében a munkáltatói jogkört gyakorló mérlegelése alapján az érintett személy
-
-a) más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezése vagy
-
-b) foglalkoztatási jogviszonyának megszüntetése
-
-iránt intézkedik.
-
-(8a) Az (1) bekezdés b) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alá vont személy vonatkozásában a jelölés szerinti nemzetbiztonsági ellenőrzés alá eső jogviszony nem hozható létre, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását jóváhagyta.”
+(3)
 
 46. § (1)
 
-(2) Az Nbtv. 72/D. §-a a következő (13) bekezdéssel egészül ki:
-
-„(13) A (10) bekezdés szerinti eljárásban a bíróság a nemzetbiztonsági kockázat megállapítására vonatkozó döntés megváltoztatására nem jogosult.”
+(2)
 
 47. §
 
 48. §
 
-49. § Az Nbtv.
+49. §
 
 - a)
 - b)
 - c)
-- d) 71. § (5) bekezdésében a „(2)–(4)” szövegrész helyébe a „(2)–(4a)” szöveg,
-- e) 71. § (6) bekezdésében a „(4)” szövegrész helyébe a „(4) vagy (4a)” szöveg,
-- f) 72/D. § (2) bekezdésében a „71. § (4) bekezdése, illetve a 72/B. § (8) bekezdése” szövegrész helyébe az „a 71. § (4) vagy (4a) bekezdése, a 71/C. § (9) bekezdése, illetve a 72/B. § (8) vagy (8a) bekezdése” szöveg,
-- g) 72/D. § (10) bekezdésében a „71. § (4) bekezdése vagy a 72/B. § (8) bekezdése” szövegrész helyébe a „71. § (4) vagy (4a) bekezdése, a 71/C. § (9) bekezdése vagy a 72/B. § (8) vagy (8a) bekezdése” szöveg,
+- d)
+- e)
+- f)
+- g)
 - h)
 - i)
-
-lép.
 
 50. §
 
@@ -193,20 +161,16 @@ lép.
 
 (2)
 
-55. § A Szaztv. 37. § (2) bekezdése a következő d) ponttal egészül ki:
+55. §
 
-(A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:)
-
-„d) a közúti közlekedési nyilvántartó szervnek a központi közúti közlekedési nyilvántartás hatálya alá tartozó polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról;”
-
-56. § A Szaztv. 37. § (3) bekezdésében a „központi ügyfél-regisztrációs szerv” szövegrész helyébe a „központi ügyfél-regisztrációs szerv, valamint a (2) bekezdés d) pontja szerinti közúti közlekedési nyilvántartás járműnyilvántartását vezető szerv” szöveg lép.
+56. §
 
 57. §
 
 58. § Hatályát veszti a Szaztv.
 
 - a)
-- b) 37. § (1e) bekezdése.
+- b)
 
 #### 8. A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény módosítása
 
@@ -224,11 +188,7 @@ lép.
 
 #### 10. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-64. § A külföldre utazásról szóló 1998. évi XII. törvény (a továbbiakban: Utv.) 24. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az adatkezelő szerv az útiokmány-nyilvántartásban a következő adatokat kezeli:)
-
-„b) az állampolgár arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,”
+64. §
 
 65. §
 
