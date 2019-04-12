@@ -23,7 +23,7 @@ terjed ki.
 - a) a kormányzati igazgatásról szóló törvény ekként rendelkezik, vagy
 - b) a kormányzati igazgatásról szóló törvény a jogviszony vagy annak egyes elemei tekintetében a hatályának hiányáról rendelkezik.
 
-2. § Törvény eltérő rendelkezése hiányában a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, a Nemzeti Adatvédelmi és Információszabadság Hatóság, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság Hivatala, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia Titkársága, a Magyar Művészeti Akadémia Titkársága, az Állambiztonsági Szolgálatok Történeti Levéltára, az Egyenlő Bánásmód Hatóság, a Közbeszerzési Hatóság, a Nemzeti Választási Iroda, az Országgyűlési Őrség és a Nemzeti Emlékezet Bizottságának Hivatala köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni.
+2. § Törvény eltérő rendelkezése hiányában a Köztársasági Elnöki Hivatal, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, a Nemzeti Adatvédelmi és Információszabadság Hatóság, az Alapvető Jogok Biztosának Hivatala, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság Hivatala, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia Titkársága, a Magyar Művészeti Akadémia Titkársága, az Állambiztonsági Szolgálatok Történeti Levéltára, az Egyenlő Bánásmód Hatóság, a Közbeszerzési Hatóság, a Nemzeti Választási Iroda, az Országgyűlési Őrség és a Nemzeti Emlékezet Bizottságának Hivatala köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni.
 
 3. § (1)
 
@@ -45,7 +45,7 @@ terjed ki.
 
 4. § E törvény hatálya nem terjed ki
 
-- a) törvény eltérő rendelkezésének hiányában a Honvédség, a nemzetbiztonsági szolgálatok és a fegyveres biztonsági őrség szerveire;
+- a) törvény eltérő rendelkezésének hiányában az Állami Számvevőszéknél foglalkoztatottakra és a Honvédség, a nemzetbiztonsági szolgálatok és a fegyveres biztonsági őrség szerveire;
 - b) jogszabály eltérő rendelkezésének hiányában a helyi önkormányzat feladatkörébe tartozó közszolgáltatások ellátására – polgármesteri hivatalban – foglalkoztatottakra;
 - c) a közfoglalkoztatás keretében foglalkoztatottra, valamint az egyszerűsített foglalkoztatás céljára létesített munkaviszonyban foglalkoztatottra, illetve alkalmi munkára irányuló egyszerűsített foglalkoztatás keretében foglalkoztatott munkavállalóra;
 - d) az 1. § (2) bekezdésében foglalt kivétellel a kormányzati igazgatásról szóló törvény hatálya alá tartozó tisztségviselőre.
@@ -585,7 +585,9 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (7) Az (1)–(5a) bekezdésben foglaltak alapján megismert személyes adatokat az államigazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a kormányzati szolgálati jogviszony megszűnéséig (megszüntetéséig) kezeli.
 
-(8)–(9)
+(8)
+
+(9)
 
 ### A kinevezéssel kapcsolatos egyéb rendelkezések
 
@@ -837,9 +839,21 @@ kell érteni.
 
 ### Tartós külszolgálat
 
-#### 54/A–54/B. §
+#### 54/A. §
 
-54/C. § (1)–(6)
+#### 54/B. §
+
+54/C. § (1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
 
 (7) A Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK) diplomataként, szakdiplomataként tartós külszolgálatra való kihelyezés céljából az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba kormánytisztviselőként kinevezett vagy az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselő, az EU ÁK-ra kihelyezésre kerülő további kormánytisztviselő és kormányzati ügykezelő felett a munkáltatói jogokat az európai uniós ügyek koordinációjáért felelős miniszter gyakorolja.
 
@@ -974,7 +988,8 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 - e) a kormánytisztviselő vezetőjének bizalmát elveszti;
 - f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételt a felmentési idő leteltekor teljesítő kormánytisztviselő kérelmezi;
 - g) a foglalkoztatást kizáró ok jut a munkáltató tudomására;
-- h) azt a kormánytisztviselő a 64/A. § (2) bekezdése vagy a 155/A. § (2) bekezdése alapján kéri.
+- h) azt a kormánytisztviselő a 64/A. § (2) bekezdése vagy a 155/A. § (2) bekezdése alapján kéri;
+- i) a 72/A. § (3), (4), (8) vagy (9) bekezdése szerinti ok áll fenn.
 
 (2a) A (2) bekezdés g) pontja alapján az államigazgatási szerv a kormányzati szolgálati jogviszonyt – a (2b) bekezdésben foglalt kivétellel – azonnali hatállyal megszünteti.
 
@@ -1028,7 +1043,11 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 - a) a kormánytisztviselő átlag alatti vagy elfogadhatatlan teljesítményszintet ér el.
 - b)
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 (5) A kormánytisztviselő a teljesítményértékelés vagy minősítés tartalmának vizsgálata iránt a Közszolgálati Döntőbizottsághoz fordulhat. A Közszolgálati Döntőbizottság határozatával szemben kizárólag jogi tények vizsgálata tekintetében, jogszabálysértésre hivatkozással – hibás vagy valótlan ténymegállapításának megsemmisítése iránt – a kormánytisztviselő közszolgálati jogvitát kezdeményezhet a bíróságnál.
 
@@ -1105,7 +1124,7 @@ Az a) pont alkalmazása szempontjából akkor is a kormánytisztviselő besorol�
 - a) a felmentés a gyakornoki idő alatt történt;
 - b) legkésőbb a kormányzati szolgálati jogviszony megszűnésének időpontjában nyugdíjasnak minősül;
 - c) felmentésére a 63. § (2) bekezdés b) pontjában meghatározott okból került sor;
-- d) kormányzati szolgálati jogviszonya a 72. § szerint alakult át;
+- d) kormányzati szolgálati jogviszonya a 72. vagy 72/A. § szerint alakult át;
 - e) méltatlanság vagy bizalomvesztés címén mentették fel.
 
 (10) Ha a kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
@@ -1175,6 +1194,32 @@ Az a) pont alkalmazása szempontjából akkor is a kormánytisztviselő besorol�
 alakul át.
 
 (10) E § rendelkezéseit kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya állami szolgálati, közszolgálati vagy munkajogviszonnyá alakul át.
+
+72/A. § (1) A munkáltató személyében a jogszabály rendelkezése folytán bekövetkező olyan változás esetén, amely szerint a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó munkáltatóvá alakul át, az e §-ban meghatározott rendelkezések szerint kell eljárni.
+
+(2) A munkáltató érintett szervezete, illetve tevékenysége keretében foglalkoztatott, szolgálati beosztássá átalakulóként meghatározott munkaköröket betöltő vagy tevékenységet ellátó kormánytisztviselő kormányzati szolgálati jogviszonya a hivatásos szolgálati jogviszony létesítéséhez történő hozzájárulása esetén – a (3)–(5) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonnyá alakul át.
+
+(3) Nem alakul át a kormánytisztviselő jogviszonya, ha a (2) bekezdésben előírtak szerint a hivatásos szolgálati jogviszony létesítéséhez nem járul hozzá. Ebben az esetben a kormánytisztviselő kormányzati szolgálati jogviszonya felmentéssel szűnik meg.
+
+(4) A (2) bekezdésben foglaltaktól eltérően nem alakul át a kormánytisztviselő jogviszonya, ha a munkáltató a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény rendelkezései alapján nem létesíthet hivatásos szolgálati jogviszonyt az átadással érintett kormánytisztviselővel, ebben az esetben a kormánytisztviselő kormányzati szolgálati jogviszonya felmentéssel szűnik meg.
+
+(5) A (4) bekezdésben foglaltakat kell megfelelően alkalmazni, ha az átadással érintett kormánytisztviselővel szemben a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyára vonatkozó szabályozás alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a kormánytisztviselő a jogviszony átalakulását megelőzően intézkedik, és ezt igazolja.
+
+(6) A hivatásos szolgálati jogviszonyra való egészségügyi, pszichikai vagy fizikai alkalmatlanság megállapítása esetén a (4) bekezdésben foglaltaktól eltérően nem szűnik meg felmentéssel a kormánytisztviselő jogviszonya, hanem a jogállásváltozás időpontjában rendvédelmi igazgatási szolgálati jogviszonnyá alakul át, ha az alkalmatlanság megállapítását követően a rendvédelmi igazgatási szolgálati jogviszony létesítéséhez hozzájárul.
+
+(7) A munkáltató érintett szervezete, illetve tevékenysége keretében foglalkoztatott, a (2) bekezdés szerint szolgálati beosztássá átalakulóként nem meghatározott munkakört betöltő vagy tevékenységet ellátó kormánytisztviselő kormányzati szolgálati jogviszonya a rendvédelmi igazgatási szolgálati jogviszony létesítéséhez történő hozzájárulása esetén – a (8)–(10) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi igazgatási szolgálati jogviszonnyá alakul át.
+
+(8) Nem alakul át a kormánytisztviselő jogviszonya, ha a (7) bekezdésben előírtak szerint a rendvédelmi igazgatási szolgálati jogviszony létesítéséhez nem járul hozzá. Ebben az esetben a kormánytisztviselő kormányzati szolgálati jogviszonya felmentéssel szűnik meg.
+
+(9) A (7) bekezdésben foglaltaktól eltérően nem alakul át a kormánytisztviselő jogviszonya, ha a munkáltató a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény rendelkezései alapján nem létesíthet rendvédelmi igazgatási szolgálati jogviszonyt az átadással érintett kormánytisztviselővel, ebben az esetben a kormánytisztviselő kormányzati szolgálati jogviszonya felmentéssel szűnik meg.
+
+(10) A (9) bekezdésben foglaltakat kell megfelelően alkalmazni, ha az átadással érintett kormánytisztviselővel szemben a rendvédelmi feladatokat ellátó szervek rendvédelmi igazgatási alkalmazotti állományának rendvédelmi igazgatási szolgálati jogviszonyára vonatkozó szabályozás alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a kormánytisztviselő a jogviszony átalakulását megelőzően intézkedik, és ezt igazolja.
+
+(11) Az átalakult jogviszony esetén a kormánytisztviselőnek az átalakulással érintett e törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyként elismert idejét úgy kell tekinteni, mintha azt az átvevő munkáltatónál töltötte volna el.
+
+(12) A kormányzati szolgálati jogviszonyban álló vezető jogviszonyának átalakulását követően – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény vonatkozó szabályainak figyelembevételével – kell a vezetői beosztás szintjét és megnevezését megállapítani.
+
+(13) Ha a jogviszony átalakulása időpontjában közszolgálati jogvita fegyelmi felelősségre vonás tekintetében folyik, a kereset elbírálásánál a (2) bekezdés szerinti esetben a szolgálati viszony megszüntetése fenyítés kiszabásának szabályait kell megfelelően alkalmazni azon kormánytisztviselő esetében, akinek a jogviszonya hivatásos szolgálati jogviszonnyá alakul át, a (7) bekezdés szerinti esetben a hivatalvesztés szabályait kell megfelelően alkalmazni azon kormánytisztviselő esetében, akinek a jogviszonya rendvédelmi igazgatási szolgálati jogviszonnyá alakul át.
 
 ### A tartalékállomány
 
@@ -3202,7 +3247,7 @@ nem alkalmazható(k).
 
 234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál és a Nemzeti Emlékezet Bizottságának Hivatalánál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, érettségi végzettségű köztisztviselő esetében az alapilletményének 15%-a.
 
-(2) A Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Nemzeti Választási Irodánál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál és a Nemzeti Média- és Hírközlési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a érettségi végzettségű köztisztviselő esetében az alapilletményének 35%-a.
+(2) A Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, a Nemzeti Választási Irodánál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál és a Nemzeti Média- és Hírközlési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a érettségi végzettségű köztisztviselő esetében az alapilletményének 35%-a.
 
 (3) A helyi önkormányzat rendeletben egységesen valamennyi felsőfokú iskolai végzettségű köztisztviselőnek a tárgyévre illetménykiegészítést állapíthat meg, amelynek mértéke a köztisztviselő alapilletményének
 
