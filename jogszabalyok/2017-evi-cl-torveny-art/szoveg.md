@@ -87,6 +87,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 - 5. adószámla: az állami adó- és vámhatóság, illetve az önkormányzati adóhatóság által vezetett, az adózói fizetési kötelezettség és költségvetési támogatási igény, valamint az azokkal összefüggő pénzforgalom tételes, illetve egyenleg szintű kimutatására szolgáló nyilvántartás,
 - 6. adótartozás: az esedékességkor meg nem fizetett adó és a jogosulatlanul igénybe vett költségvetési támogatás,
 - 7. adóügy: az adóval és az e törvényben meghatározott esetben a költségvetési támogatással összefüggő ügy,
+- 7a. automataberendezés: olyan kezelőszemélyzet nélkül is működni képes berendezés, ami termékértékesítés vagy szolgáltatásnyújtás pénzbeli ellenértékének helyben történő megtérítésére szolgál,
 - 8. áfa-regisztrált adóalany: olyan, belföldön gazdasági célú letelepedéssel, lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany, aki (amely) belföldön általános forgalmi adó köteles tevékenységet folytat, amely tekintetében ő az adófizetésre kötelezett,
 - 9. Alapok: a Nemzeti Foglalkoztatási Alap, a Nemzeti Kutatási, Fejlesztési és Innovációs Alap, a Nemzeti Kulturális Alap, az Egészségbiztosítási Alap, valamint a Nyugdíjbiztosítási Alap,
 - 10. be nem jelentett foglalkoztatott: az adózó tevékenységében személyesen közreműködő természetes személy, akire vonatkozóan a munkáltató, illetve kifizető biztosítotti bejelentési kötelezettségének nem tett eleget, illetve a munkáltató, kifizető nem tudja bizonyítani, hogy a tevékenységében közreműködő jogviszonya kívül esik a bejelentési kötelezettségen,
@@ -1232,9 +1233,9 @@ személy (műszerész) részére állítható ki, aki nem áll a kérelmezőn k�
 
 (18) Az állami adó- és vámhatóság honlapján folyamatosan nyilvánosságra hozza a nyilvántartásba vett vagy törölt szervizek, valamint az érvényes és az érvénytelen műszerészi igazolványok, plombanyomók adatait.
 
-#### 107. § [Élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezés adatszolgáltatása]
+#### 107. § [Az automataberendezés adatszolgáltatása]
 
-(1) Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezést (a továbbiakban: automataberendezés) üzemeltető adózó köteles a jogszabályban meghatározott adattartalommal – automataberendezésenként – az állami adó- és vámhatósághoz elektronikus úton bejelenteni:
+(1) Az automataberendezést üzemeltető adózó köteles a jogszabályban meghatározott adattartalommal – automataberendezésenként – az állami adó- és vámhatósághoz elektronikus úton bejelenteni:
 
 - a) az üzemeltetés megkezdését, legkésőbb az üzemeltetés megkezdését megelőző napon,
 - b) az üzemeltetés szüneteltetésének megkezdését és befejezését legkésőbb a szüneteltetés megkezdésének, illetve befejezésének napján,
@@ -3260,7 +3261,7 @@ Az állami adó- és vámhatóság az adózót terhelő adókötelezettség jogs
 - e) az adóköteles tevékenységet adószám birtokában végző természetes személy kivételével az adózónak a mindenkor hatályos TEÁOR-nómenklatúra szerint, egyéni vállalkozók esetén a mindenkor hatályos ÖVTJ szerinti ÖVTJ-kódokon bejelentett és nyilvántartott tevékenységi köreit,
 - f) a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési elővállalkozás nevét, adószámát, az ilyenként való nyilvántartásba vétel dátumát, és a nyilvántartásból való törlés dátumát, valamint e társaságok projekttársaságainak nevét és adószámát,
 - g) folyamatosan azon adózónak a rendelkezésre álló azonosító adatait, aki vagy amely bejelentkezési kötelezettségének nem tett eleget,
-- h) az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezés regisztrációs számát és az üzemeltetési helyét,
+- h) az e törvény szerint bejelentett automataberendezés regisztrációs számát és az üzemeltetési helyét,
 - i) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvényben meghatározottak szerinti közzétételi kötelezettségének teljesítését,
 - j) az állami adó- és vámhatóság engedélye alapján utólagos illetékfizetésre jogosult gazdálkodó szervezet megnevezését, székhelyét, adószámát, az engedély számát és időbeli hatályát,
 - k) az általa nyilvántartott, adószámmal rendelkező, általános forgalmiadó-alanynak minősülő adózó, valamint a csoportos általános forgalmi adóalanyiságot választó – kivéve a Magyar Honvédséget és a rendvédelmi feladatokat ellátó szerveket – az adóhatóság nyilvántartásában szereplő foglalkoztatottainak létszámát,
@@ -3341,7 +3342,7 @@ részére az állami adóhatóság által teljesített adatátadással érintett
 (8) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy
 
 - a) az automataberendezések üzemeltetői adókötelezettségeinek, az automataberendezés és az AFE üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésének,
-- b) a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésének, kezelésének, nyilvántartásának, visszatérítésének,
+- b)
 - c) az AFE műszaki követelményeinek, üzemeltetésének és szervizelésének, az AFE által rögzített adatok állami adó- és vámhatóság felé történő szolgáltatásának, a felügyeleti szolgáltatókat tanúsító független tanúsító szervezet tevékenységének, a felügyeleti szolgáltatói szerződésnek, valamint a felügyeleti szolgáltató felelősségének,
 - d) a felügyeleti szolgáltatóval szemben támasztott követelményeknek, a felügyeleti szolgáltatói engedélyezési eljárásért és az engedély módosításáért fizetendő igazgatási szolgáltatási díj fizetésének, a felügyeleti szolgáltató regisztrációjának, a felügyeleti szolgáltatás minimális tartalmának, a hatósági árnak és annak alkalmazási feltételeinek
 
@@ -3472,6 +3473,10 @@ Az állami adó- és vámhatóság által 2018. január 1-jét megelőzően a te
 (5) A Módtv.2-vel megállapított 231. § (1) bekezdését a 2018. adóévre vonatkozó adóelőleg-kiegészítési kötelezettség tekintetében is alkalmazni kell.
 
 (6) A Módtv.2-vel megállapított 3. melléklet I/4. pontját a hatálybalépést követően indult illetékkiszabási eljárásokban, valamint a hatálybalépést követően keletkezett eljárási illetékfizetési kötelezettségekre kell alkalmazni.
+
+#### 274/C. § [Átmeneti rendelkezés az egyes pénzügyi tárgyú törvények módosításáról szóló 2019. évi XXVI. törvénnyel megállapított rendelkezésekhez]
+
+Az egyes pénzügyi tárgyú törvények módosításáról szóló 2019. évi XXVI. törvény hatálybalépése napján üzemeltetett automataberendezésekre vonatkozó, miniszteri rendeletben meghatározott adatokat az üzemeltető 2019. június 30-ig köteles az állami adó- és vámhatósághoz elektronikus úton bejelenteni, azzal, hogy az egyes pénzügyi tárgyú törvények módosításáról szóló 2019. évi XXVI. törvény hatálybalépése napját megelőzően már bejelentett – élelmiszer-értékesítést kezelőszemélyzet nélkül végző – automataberendezések üzemeltetésének megkezdését nem kell ismételten bejelenteni.
 
 #### 275. § [Az Európai Unió jogának való megfelelés]
 
