@@ -61,7 +61,7 @@ részvételével működik.
   - a) a Magyar Művészeti Akadémia elnöke,
   - b) a Magyar Művészeti Akadémia által delegált két képviselő,
   - c) egy, a határon túli magyar művészeti élet Magyar Művészeti Akadémia által delegált képviselője;
-- 6. azon négy vallási közösség képviselői, amelyek történelmi és társadalmi szerepük, társadalmi elfogadottságuk, beágyazottságuk, szervezettségük, az általuk hagyományosan végzett közcélú tevékenységek során szerzett tapasztalataik – és az együttműködéssel érintett közcélú tevékenységek sajátosságaik – alapján a legjelentősebbek.
+- 6. azon négy bevett egyház képviselői, amelyek történelmi és társadalmi szerepük, társadalmi elfogadottságuk, beágyazottságuk, szervezettségük, az általuk hagyományosan végzett közcélú tevékenységek során szerzett tapasztalataik – és az együttműködéssel érintett közcélú tevékenységek sajátosságaik – alapján a legjelentősebbek.
 
 (2) A képviselők megbízatása négy évre szól, amelynek kezdő időpontja az újonnan alakuló Tanács első plenáris ülése. A képviselők megbízatása megújítható. Ha a képviselő megbízatása a megbízatás időtartamának lejárata előtt megszűnik, az újonnan megbízott képviselő megbízatása az eredeti képviselő megbízatásából hátralevő időtartamra szól.
 

@@ -32,7 +32,7 @@ a következő törvényt alkotja:
 
 (3) A kulturális örökség elemeinek e törvény szerinti felderítése és kutatása csak e törvény rendelkezései és külön jogszabály alapján végezhető.
 
-5. § (1) A kulturális örökség védelme közérdek, megvalósítása közreműködési jogosultságot és együttműködési kötelezettséget jelent az állami és önkormányzati szervek, a nemzetiségi szervezetek, az egyházi jogi személyek, a civil és gazdálkodó szervezetek, valamint az állampolgárok számára.
+5. § (1) A kulturális örökség védelme közérdek, megvalósítása közreműködési jogosultságot és együttműködési kötelezettséget jelent az állami és önkormányzati szervek, a nemzetiségi szervezetek, az vallási közösségek, a civil és gazdálkodó szervezetek, valamint az állampolgárok számára.
 
 (2) A nemzetközi együttműködésben a nemzetközi szerződésekkel összhangban érvényesíteni kell a határokon túli magyar vonatkozású kulturális örökség, és a más nemzetek hazánkban található kulturális örökségének védelmét.
 
@@ -68,7 +68,7 @@ a következő törvényt alkotja:
 - 6. Gyűjtemény: gyűjtői tevékenység eredményeként létrejött, ritkaságából vagy jellegéből adódóan különös jelentőséggel bíró javak összessége, amelynek egységességében megnyilvánuló kulturális értéke meghaladja egyes darabjainak együttes értékét.
 - 7. Hadtörténeti örökség: 1711 utáni hadszíntér, csatatér, védelmi létesítmény, egyéb katonai objektum vagy hadi emlék, különösen harci repülőgép, kerekes vagy lánctalpas harcjármű és egyéb katonai fegyverrendszerek, fegyverek, felszerelés és egyenruha elemei, továbbá azok együttesei (a továbbiakban együtt: hadtörténeti örökségi elem).
 - 8. Kiemelt nemzeti emlékhely: a nemzet és a magyar állam történelmében kiemelkedő jelentőségű nemzeti emlékhely, amelyet az Országgyűlés törvénnyel kiemelt nemzeti emlékhellyé nyilvánít.
-- 9. Közgyűjtemény: az állam, a helyi önkormányzat, valamint a nemzetiségi önkormányzat, a köztestület és a közalapítvány fenntartásában működő vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép- és hangarchívum. A bevett egyház vagy a vallási tevékenységet végző szervezet kérelmére ezekkel azonos elbírálás alá kerülhetnek az egyházi jogi személy vagy a vallási tevékenységet végző szervezet fenntartásában működő, állami nyilvántartásba vett gyűjtemények (könyvtár, levéltár, muzeális intézmény, kép- és hangarchívum).
+- 9. Közgyűjtemény: az állam, a helyi önkormányzat, valamint a nemzetiségi önkormányzat, a köztestület és a közalapítvány fenntartásában működő vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép- és hangarchívum. A jogi személyiséggel rendelkező vallási közösség kérelmére ezekkel azonos elbírálás alá kerülhetnek a jogi személyiséggel rendelkező vallási közösség, vagy az egyházi jogi személy fenntartásában működő, állami nyilvántartásba vett gyűjtemények (könyvtár, levéltár, muzeális intézmény, kép- és hangarchívum).
 - 10. Kulturális javak: az élettelen és élő természet keletkezésének, fejlődésének, az emberiség, a magyar nemzet, Magyarország történelmének kiemelkedő és jellemző tárgyi, képi, hangrögzített, írásos emlékei és egyéb bizonyítékai – az ingatlanok kivételével –, valamint a művészeti alkotások.
 - 11. Kulturális örökség elemei: a régészeti örökség, a hadtörténeti örökség régészeti módszerekkel kutatható elemei, a műemléki értékek, a nemzeti emlékhely, a kiemelt nemzeti emlékhely és annak 61/I. § (3a) bekezdése szerinti településkép-védelmi környezete, valamint a kulturális javak.
 - 12. Kulturális örökség elemeinek kutatása: a kulturális örökség elemeire vonatkozó, annak pótolhatatlan forrásértékét feltáró, tudományos módszereket alkalmazó, roncsolásmentes vagy roncsolásos beavatkozással járó eljárás.
@@ -875,7 +875,7 @@ kulturális javakat.
 
 (2) A történelmi emlékhelyek, a nemzeti emlékhelyek és a kiemelt nemzeti emlékhelyek (a továbbiakban együtt: emlékhely) e törvény szerinti szabályozása az azokon e törvény vagy más jogszabályok alapján fennálló védettséget nem érinti.
 
-(3) A nemzeti emlékhelyek védelme és hozzáférhetővé tétele közérdek, amelynek megvalósításában közreműködnek az állami és az önkormányzati szervek, valamint az egyházi jogi személyek, a civil és egyéb szervezetek, illetve a természetes személyek. A védelem kiterjed a nemzeti emlékhely és a kiemelt nemzeti emlékhely méltóságának megőrzésére és a méltó megemlékezés feltételeinek biztosítására, az emlékhely történelmileg hiteles, egységes arculatának és műemléki megjelenésének fenntartására és biztosítására, továbbá az ezek érdekében végzett fejlesztés, beruházás megvalósításának elősegítésére.
+(3) A nemzeti emlékhelyek védelme és hozzáférhetővé tétele közérdek, amelynek megvalósításában közreműködnek az állami és az önkormányzati szervek, valamint a vallási közösségek, az egyházi jogi személyek, a civil és egyéb szervezetek, illetve a természetes személyek. A védelem kiterjed a nemzeti emlékhely és a kiemelt nemzeti emlékhely méltóságának megőrzésére és a méltó megemlékezés feltételeinek biztosítására, az emlékhely történelmileg hiteles, egységes arculatának és műemléki megjelenésének fenntartására és biztosítására, továbbá az ezek érdekében végzett fejlesztés, beruházás megvalósításának elősegítésére.
 
 (4) A nemzeti emlékhelyekre vonatkozó rendelkezéseket a kiemelt nemzeti emlékhelyekre előírt külön szabályokban meghatározott eltérésekkel kell alkalmazni.
 
@@ -1388,7 +1388,7 @@ iránt.
 
 gyakorolja.
 
-(4) Az 1998. január 1-je előtt hatályos jogszabályok alapján műemlék, műemlék jellegű, városképi jelentőségű kategóriában védett ingatlanok tekintetében első helyen az államot, második helyen a feladatot ellátó helyi önkormányzatot, ennek hiányában az ingatlan fekvése szerinti települési önkormányzatot – fővárosban lévő ingatlan esetén a fővárosi és kerületi önkormányzatot megegyezésük szerint – elővásárlási jog illeti meg. A vallási közösség működését biztosító, illetve hitéleti, oktatási, nevelési, egészségügyi, szociális, gyermek- és ifjúságvédelmi, továbbá kulturális célú, egyházi használatban lévő műemlék épület esetében a települési önkormányzat helyett második helyen a használót illeti e jog.
+(4) Az 1998. január 1-je előtt hatályos jogszabályok alapján műemlék, műemlék jellegű, városképi jelentőségű kategóriában védett ingatlanok tekintetében első helyen az államot, második helyen a feladatot ellátó helyi önkormányzatot, ennek hiányában az ingatlan fekvése szerinti települési önkormányzatot – fővárosban lévő ingatlan esetén a fővárosi és kerületi önkormányzatot megegyezésük szerint – elővásárlási jog illeti meg. A jogi személyiséggel rendelkező vallási közösség működését biztosító, illetve hitéleti, oktatási, nevelési, egészségügyi, szociális, gyermek- és ifjúságvédelmi, továbbá kulturális célú, egyházi használatban lévő műemlék épület esetében a települési önkormányzat helyett második helyen a használót illeti e jog.
 
 #### 87. §
 

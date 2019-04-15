@@ -75,7 +75,7 @@ betöltötte, azonban a 18. – javítóintézetben történő nevelése esetén
 - r) jövedelem: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. §-a (1) bekezdésének a) pontjában meghatározattak,
 - s) fenntartó:
   - sa) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása (a továbbiakban együtt: állami fenntartó),
-  - sb) az egyházi jogi személy (a továbbiakban: egyházi fenntartó),
+  - sb) a bevett egyház, annak belső egyházi jogi személye, továbbá az olyan nyilvántartásba vett egyház, bejegyzett egyház és azok belső egyházi jogi személye, amely a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 9/D. § (5) bekezdése, illetve 9/F. § (1) bekezdése szerinti, a gyermekjóléti, gyermekvédelmi vagy szociális feladatok ellátására is kiterjedő megállapodással rendelkezik (a továbbiakban együtt: egyházi fenntartó),
   - sc) az egyéni vállalkozó,
   - sd) az sa)–sb) alpontokban nem említett, magyarországi székhelyű jogi személy és egyéni cég,
   - se) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az sc)–se) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó],
@@ -3055,7 +3055,7 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 
 (9) A kijelölés ötévi időtartamra szól, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
-(10) A kijelölt egyházi módszertani intézmény feladatkörében, a bevett egyháza által fenntartott tanoda szolgáltatást, nevelőszülői ellátást, gyermekotthoni ellátást nyújtó intézmények vonatkozásában
+(10) A kijelölt egyházi módszertani intézmény feladatkörében, az egyháza által fenntartott tanoda szolgáltatást, nevelőszülői ellátást, gyermekotthoni ellátást nyújtó intézmények vonatkozásában
 
 - a) részt vesz a minőségfejlesztési elvek kidolgozásában,
 - b) ajánlásokat készít a hatékonyabb szolgáltatási módszerek alkalmazására,
@@ -3067,7 +3067,7 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 
 (12) A miniszter a kijelölt egyházi módszertani intézmény feladatainak ellátásához egyedi támogatást nyújt.
 
-(13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha bevett egyháznak az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben a módszertani feladatokat ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti a módszertani feladatokat ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.
+(13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha az egyháznak az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben a módszertani feladatokat ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti a módszertani feladatokat ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.
 
 ### Ellátási szerződés
 

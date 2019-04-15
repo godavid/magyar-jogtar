@@ -88,7 +88,7 @@ terjed ki.
 
 (6) A több, illetve a több fajta jogviszony keretében egészségügyi tevékenységet végző egészségügyi dolgozó az egyes jogviszonyai szerinti egészségügyi szolgáltatónál nyilatkozatban tanúsítja, hogy az egészségügyi tevékenysége az (5) bekezdés szerinti korlátot nem haladja meg.
 
-(7) Egyházi személyként és vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjaként egészségügyi dolgozói feladatot egyházi jogi személy vagy vallási tevékenységet végző szervezet által fenntartott egészségügyi szolgáltatónál lehet végezni.
+(7) Egyházi személyként és vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként egészségügyi dolgozói feladatot egyházi jogi személy vagy vallási egyesület által fenntartott egészségügyi szolgáltatónál lehet végezni.
 
 6. § (1) Az egészségügyi dolgozó köteles önképzéssel és a szervezett továbbképzések által biztosított lehetőség igénybevételével magát rendszeresen továbbképezni annak érdekében, hogy tevékenységét az egészségtudományok mindenkori állásának megfelelően – a rendelkezésre álló személyi és tárgyi feltételek keretei között – végezhesse. Az egészségügyi dolgozónak a kötelező jellegű továbbképzések miatt felmerült és igazolt költségeit (tanfolyami díj, utazási költség, szállásköltség stb.) a munkáltató megtérítheti.
 
@@ -107,7 +107,7 @@ terjed ki.
 - e) munkaviszonyban,
 - f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban,
 - g) szolgálati jogviszonyban,
-- h) egyházi személyként vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjaként,
+- h) egyházi személyként vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként,
 - i) önkéntes segítőként,
 - j) egyéni cég tagjaként.
 
@@ -167,7 +167,7 @@ terjed ki.
 
 (2) Az e fejezetben, valamint a 29–31. §-ban meghatározott egészségügyi ágazati előmeneteli szabályokat
 
-- a) a Kormány által rendeletben meghatározott, érvényes finanszírozási szerződéssel rendelkező, kizárólag – ide nem értve a munkavállalói résztulajdont – az állam, a helyi önkormányzat, az egyházi jogi személy vagy a vallási tevékenységet végző szervezet tulajdonában vagy fenntartásában álló fekvő- vagy járóbeteg-szakellátást, valamint a Kormány által rendeletben meghatározott egyéb egészségügyi ellátást, szolgáltatást nyújtó, egészségügyi szolgáltató munkáltatónál, ide nem értve az Eütv. 4. § (3) bekezdése szerinti intézményeket,
+- a) a Kormány által rendeletben meghatározott, érvényes finanszírozási szerződéssel rendelkező, kizárólag – ide nem értve a munkavállalói résztulajdont – az állam, a helyi önkormányzat, az egyházi jogi személy vagy a vallási egyesület tulajdonában vagy fenntartásában álló fekvő- vagy járóbeteg-szakellátást, valamint a Kormány által rendeletben meghatározott egyéb egészségügyi ellátást, szolgáltatást nyújtó, egészségügyi szolgáltató munkáltatónál, ide nem értve az Eütv. 4. § (3) bekezdése szerinti intézményeket,
 - b) az a) pontban meghatározott ellátások, szolgáltatások nyújtása keretében tevékenységet végző, a (4)–(6a) bekezdésben meghatározott munkakörben foglalkoztatott alkalmazott egészségügyi dolgozókra és egészségügyben dolgozókra,
 - c) a szakorvosképzésért felelős egészségügyi államigazgatási szervre, valamint az az által foglalkoztatott rezidensekre
 

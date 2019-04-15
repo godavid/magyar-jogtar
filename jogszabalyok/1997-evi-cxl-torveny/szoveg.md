@@ -1186,7 +1186,7 @@ esetében.
 
 (3)
 
-(4) Az egyházi jogi személyek a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, muzeális és közművelődési intézményeik működéséhez az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.
+(4) Az egyházi jogi személyek a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, muzeális és közművelődési intézményeik működéséhez a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény, illetve az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény rendelkezéseit figyelembe véve az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.
 
 ### Hatósági eljárásokra vonatkozó közös szabályok
 
