@@ -311,19 +311,22 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (3) Az Alkotmánybíróság nem vizsgálja érdemben azt az indítványt, amelyben az indítványozó a népszavazási kérdés tartalmát illető, illetve a hitelesítéssel összefüggő alkotmányossági aggályokra hivatkozik.
 
-#### 11/A. Az Országgyűlés vallási tevékenységet végző szervezet elismerésével összefüggő döntésének vizsgálata
+#### 11/A.
 
-33/A. § (1) Az Országgyűlés vallási tevékenységet végző szervezet egyházként történő elismerését elutasító határozatát az Alkotmánybíróság az érintett vallási tevékenységet végző szervezet indítványára felülvizsgálja. Az indítványnak az Országgyűlés határozatának közzétételét követő tizenöt napon belül kell az Alkotmánybírósághoz beérkeznie.
-
-(2) Az (1) bekezdésben meghatározott eljárásban az Alkotmánybíróság az Országgyűlés egyházként történő elismerésre irányuló eljárásának törvényességét vizsgálja felül.
+#### 33/A. §
 
 #### 12. Alaptörvény-ellenesen működő képviselő-testület feloszlatásával összefüggő vélemény
 
 34. § Az Alkotmánybíróság a helyi önkormányzat és a nemzetiségi önkormányzat képviselő-testületének alaptörvény-ellenes működésére vonatkozóan a Kormány indítványa alapján elvi véleményt nyilvánít.
 
-#### 12/A. A vallási közösség alaptörvény-ellenes működésével összefüggő vélemény
+#### 12/A. A jogi személyiséggel rendelkező vallási közösség alaptörvény-ellenes működésével összefüggő vélemény
 
-34/A. § Az Alkotmánybíróság a vallási közösség alaptörvény-ellenes működésére vonatkozóan a bevett egyház esetén a Kormány, a vallási tevékenységet végző szervezet esetén a bíróság indítványa alapján elvi véleményt nyilvánít.
+34/A. § Az Alkotmánybíróság a jogi személyiséggel rendelkező vallási közösség alaptörvény-ellenes működésére vonatkozóan
+
+- a) a bevett egyház esetén a Kormány,
+- b) a vallási egyesület, a nyilvántartásba vett egyház és a bejegyzett egyház esetén a bíróság
+
+indítványa alapján elvi véleményt nyilvánít.
 
 #### 13. A köztársasági elnök tisztségtől való megfosztása
 

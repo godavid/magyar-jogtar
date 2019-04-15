@@ -56,7 +56,7 @@ során kell alkalmazni.
   - b) a védő, a jogi képviselőként eljáró ügyvédi tevékenység gyakorlására jogosult személy folyamatban lévő büntető-, polgári, szabálysértési eljárásban, közigazgatási hatósági eljárásban, egyéb hatósági ügyben vagy büntetés-végrehajtási ügyben, valamint ilyen eljárás megindításának kezdeményezése érdekében eljárva, ideértve a meghatalmazás adását is,
   - c) az elítélt és az egyéb jogcímen fogvatartott államának konzuli tisztviselője,
   - d) a büntetőügyben eljáró tolmács és szakértő,
-  - e) az egyházi személy hitéleti szolgálata ellátása során, a büntetés-végrehajtási szervvel (a továbbiakban: bv. szerv) kötött megállapodás alapján a bv. intézetben vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja, az egyházi jogi személy vagy a vallási tevékenységet végző szervezet által megbízott más személy e tevékenység végzése során,
+  - e) az egyházi személy hitéleti szolgálata ellátása során, a büntetés-végrehajtási szervvel (a továbbiakban: bv. szerv) kötött megállapodás alapján a bv. intézetben vallási egyesület vallásos szertartást hivatásszerűen végző tagja, az egyházi jogi személy vagy a vallási egyesület által megbízott más személy e tevékenység végzése során,
   - f) a bv. szervvel kötött megállapodás alapján a bv. intézetben jogvédő vagy karitatív tevékenységet folytató civil szervezet tagja, képviselője vagy ilyen szervezet megbízásából eljáró személy e tevékenység végzése során,
 - 10. hozzátartozó: a Btk.-ban hozzátartozóként meghatározott személy,
 - 11. kapcsolattartó: az a személy, aki az elítélttel vagy az egyéb jogcímen fogvatartottal jogszabály vagy engedély alapján kapcsolattartásra jogosult,
@@ -1963,7 +1963,7 @@ el kell különíteni.
 
 (4)–(5)
 
-109/A. § (1) Vallási részleg a bv. intézet és a vallási közösség együttműködési megállapodása alapján hozható létre a vallásgyakorlás és a családi kapcsolattartás erősítése céljából.
+109/A. § (1) Vallási részleg a bv. intézet és a jogi személyiséggel rendelkező vallási közösség együttműködési megállapodása alapján hozható létre a vallásgyakorlás és a családi kapcsolattartás erősítése céljából.
 
 (2) Az elítélt írásbeli kérelmére vallási részlegre helyezhető, ha
 
@@ -2213,11 +2213,11 @@ e törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 126. § (1) A bv. intézetben minden elítélt számára lehetővé kell tenni, hogy lelkiismereti és vallási meggyőződését szabadon megválassza vagy megváltoztassa, vallását gyakorolhassa.
 
-(2) A bv. intézetben minden elítélt számára lehetővé kell tenni, hogy az egyházi személy, a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja, az egyházi jogi személy vagy a vallási tevékenységet végző szervezet által megbízott más személy általi gondozásban részesülhessen.
+(2) A bv. intézetben minden elítélt számára lehetővé kell tenni, hogy az egyházi személy, a vallási egyesület vallásos szertartást hivatásszerűen végző tagja, az egyházi jogi személy vagy a vallási egyesület által megbízott más személy általi gondozásban részesülhessen.
 
-(3) Az elítélt magánál tarthatja a vallása gyakorlásához szükséges könyveket, írásos anyagokat és kegytárgyakat. A kegytárgyak vallásgyakorláshoz való szükségességének megállapításához az adott egyházi személy és vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjának állásfoglalása kérhető.
+(3) Az elítélt magánál tarthatja a vallása gyakorlásához szükséges könyveket, írásos anyagokat és kegytárgyakat. A kegytárgyak vallásgyakorláshoz való szükségességének megállapításához az adott egyházi személy és vallási egyesület vallásos szertartást hivatásszerűen végző tagjának állásfoglalása kérhető.
 
-(4) Az elítélt számára lehetővé kell tenni, hogy a bv. intézetekben megvalósítható vallásos szertartásban részesüljön a vallási közösség előírásainak megfelelően. A súlyos, életveszélyes állapotban lévő elítélt kérelmére az egyházi személlyel vagy a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjával való találkozást soron kívül lehetővé kell tenni.
+(4) Az elítélt számára lehetővé kell tenni, hogy a bv. intézetekben megvalósítható vallásos szertartásban részesüljön a vallási közösség előírásainak megfelelően. A súlyos, életveszélyes állapotban lévő elítélt kérelmére az egyházi személlyel vagy a vallási egyesület vallásos szertartást hivatásszerűen végző tagjával való találkozást soron kívül lehetővé kell tenni.
 
 (5) Az elítélt eltiltható az istentiszteleten való részvételtől, ha az a bv. intézet rendjét vagy a biztonságot veszélyezteti.
 
@@ -4383,9 +4383,9 @@ kell megküldeni.
 
 (3) A jóvátételi munka idejére nem létesül munkaviszony. A jóvátételi munka nem minősül szervezett munkavégzésnek.
 
-(4) A jóvátételi munka elvégzéséről az érintett állami vagy önkormányzati fenntartású intézmény vezetője, közhasznú jogállású civil szervezet vezető tisztségviselője, a vallási közösség képviselője vagy a képviseletre feljogosított tisztségviselője két példányban igazolást állít ki. Az igazolás közokirat. Az elítélt az igazolás egyik példányát a bíróság részére átadja.
+(4) A jóvátételi munka elvégzéséről az érintett állami vagy önkormányzati fenntartású intézmény vezetője, közhasznú jogállású civil szervezet vezető tisztségviselője, a egyházi jogi személy képviselője vagy a képviseletre feljogosított tisztségviselője két példányban igazolást állít ki. Az igazolás közokirat. Az elítélt az igazolás egyik példányát a bíróság részére átadja.
 
-(5) A pártfogó felügyelői szolgálat szükség esetén tanácsadással segíti az elítéltet a jóvátételi munka helyének kiválasztásában. Ennek érdekében a pártfogó felügyelői szolgálat önkéntes bejelentkezés alapján nyilvántartást vezet azokról az állami vagy önkormányzati intézményekről, közhasznú jogállású civil szervezetekről, vallási közösségekről és az ezek által fenntartott olyan intézményekről, amelyek jóvátételi munka végzésére elítéltet fogadnának.
+(5) A pártfogó felügyelői szolgálat szükség esetén tanácsadással segíti az elítéltet a jóvátételi munka helyének kiválasztásában. Ennek érdekében a pártfogó felügyelői szolgálat önkéntes bejelentkezés alapján nyilvántartást vezet azokról az állami vagy önkormányzati intézményekről, közhasznú jogállású civil szervezetekről, egyházi jogi személyekről és az ezek által fenntartott olyan intézményekről, amelyek jóvátételi munka végzésére elítéltet fogadnának.
 
 (6) A jóvátételi munkahelyek nyilvántartása tartalmazza az (5) bekezdés szerinti szervezet
 
@@ -4945,7 +4945,7 @@ törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 - b) életkori szükségleteihez igazodó ellátásra, gondozásra és felügyeletre,
 - c) megfelelő ruházat biztosítására,
 - d) kapcsolattartásra hozzátartozóival, valamint harmadik személyekkel és szervezetekkel,
-- e) lelkiismereti vagy vallási meggyőződésének szabad megválasztására, annak kinyilvánítására és gyakorlására; a hitéleti szolgálatot ellátó egyházi személy és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja részéről lelki gondozására,
+- e) lelkiismereti vagy vallási meggyőződésének szabad megválasztására, annak kinyilvánítására és gyakorlására; a hitéleti szolgálatot ellátó egyházi személy és a vallási egyesület vallásos szertartást hivatásszerűen végző tagja részéről lelki gondozására,
 - f) munkavégzése után – annak mennyiségének és minőségének – megfelelő, a javítóintézeti rendtartásban meghatározott díjazásra,
 - g) az intézetbe való befogadásakor a jogainak és a kötelességeinek megismerésére,
 - h) külön törvényben meghatározott egészségügyi és mentálhigiénés ellátásra,
@@ -4987,9 +4987,9 @@ törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 - c) nevelésbe vétele esetén a gyermekvédelmi gyámmal,
 - d) a pártfogó felügyelővel,
 - e) jogszabályok által az alapvető jogok védelmére feljogosított szervezet tagjával, a nemzeti megelőző mechanizmus feladatainak teljesítésére felhatalmazott munkatársával,
-- f) vallásgyakorlás céljából a hitéleti szolgálatot ellátó egyházi személlyel és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjával.
+- f) vallásgyakorlás céljából a hitéleti szolgálatot ellátó egyházi személlyel és a vallási egyesület vallásos szertartást hivatásszerűen végző tagjával.
 
-(4) A javítóintézettel kötött megállapodás alapján az egyházi jogi személy vagy a vallási tevékenységet végző szervezet által megbízott más személy, jogvédő vagy karitatív tevékenységet folytató civil szervezet tagja, képviselője vagy ilyen szervezet megbízásából eljáró személy is ellenőrzés nélkül tarthat kapcsolatot a fiatalkorúval.
+(4) A javítóintézettel kötött megállapodás alapján az egyházi jogi személy vagy a vallási egyesület által megbízott más személy, jogvédő vagy karitatív tevékenységet folytató civil szervezet tagja, képviselője vagy ilyen szervezet megbízásából eljáró személy is ellenőrzés nélkül tarthat kapcsolatot a fiatalkorúval.
 
 (5) A javítóintézeti nevelés végrehajtása során a fiatalkorú kérelmére az igazgató az (1), (3) és (4) bekezdésben meghatározottakon túl más személy számára is engedélyezheti a kapcsolattartást.
 
@@ -5044,7 +5044,7 @@ törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 (5) Az igazgató indokolt esetben rendkívüli látogatást is engedélyezhet.
 
-(6) Egyházi jogi személy, civil szervezet vagy karitatív szervezet képviselője részéről a fiatalkorú hetente egyszer jogosult látogató fogadására.
+(6) Jogi személyiséggel rendelkező vallási közösség, civil szervezet vagy karitatív szervezet képviselője részéről a fiatalkorú hetente egyszer jogosult látogató fogadására.
 
 ### A kimenő
 
@@ -5760,7 +5760,7 @@ kell végrehajtani.
 - a) védője,
 - b) a jogszabályok által az alapvető jogok védelmére feljogosított szervezet tagja, a nemzeti megelőző mechanizmus feladatainak teljesítésére felhatalmazott munkatársa,
 - c) nevelésbe vett fiatalkorú esetén a gyermekvédelmi gyámja,
-- d) vallásgyakorlás céljából az egyházi személy,
+- d) vallásgyakorlás céljából az egyházi személy és a vallási egyesület vallásos szertartást hivatásszerűen végző tagja mint hivatalos kapcsolattartó,
 - e) a kirendelt pártfogó felügyelője vagy megelőző pártfogó felügyelője,
 - f) hazája Magyarországon akkreditált diplomáciai képviselője, konzuli tisztségviselője, ennek hiányában az érdekei képviseletét ellátó állam képviselői
 

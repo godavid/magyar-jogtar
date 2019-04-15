@@ -35,7 +35,7 @@ a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő
 - h) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló törvény szerint alapított önkéntes kölcsönös biztosító pénztárt és az átalakulással létrejövő vegyes nyugdíjpénztárt,
 - i) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint létrehozott a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapját,
 - j) a Munkavállalói Résztulajdonosi Programról szóló törvény szerint alapított Munkavállalói Résztulajdonosi Program szervezetet,
-- k)
+- k) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) alapján működő bejegyzett egyházat, nyilvántartásba vett egyházat, vallási egyesületet,
 - l) a 2013. évi CXXXV. törvénnyel létrehozott Szövetkezeti Hitelintézetek Integrációs Szervezetét és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapját.
 - m) azt a szervezetet, amelynek e törvény szerinti nyilvántartásba vételét törvény elrendeli.
 
@@ -300,7 +300,9 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 
 - a) az ügy áttételének,
 - b) a kérelem hiánypótlási felhívás kiadását mellőzve történő visszautasításának vagy
-- c) hiánypótlásnak és a szükséges intézkedéseket megteszi.
+- c) hiánypótlásnak
+
+és a szükséges intézkedéseket megteszi.
 
 (2) Ha az ügy áttételének azért van helye, mert az e törvény szerinti eljárás lefolytatására másik bíróság illetékes, a bíróság az iratokat az informatikai rendszer alkalmazásával adja át, egyúttal a papír alapon érkezett iratokat megküldi az eljárás lefolytatására illetékes bíróságnak.
 
@@ -837,7 +839,21 @@ is.
 
 (2) Az egyéb szervezetek esetében a bíróság a létesítő okiratnak az adott szervezettípusra irányadó törvények szabályaival való összhangját is vizsgálja.
 
-71. § (1) Ha az egyházakkal való kapcsolattartásért felelős miniszter arról értesíti a bíróságot, hogy az Országgyűlés a vallási tevékenységet végző szervezetet egyházként ismerte el, a bíróság a vallási tevékenységet végző szervezetet a bírósági nyilvántartásból törli.
+70/A. § (1) Az I–III. Fejezetet a bevett egyház kivételével a jogi személyiséggel rendelkező vallási közösség nyilvántartásba vételére, nyilvántartásból való törlésére és nyilvántartásba bejegyzett adatainak változására irányuló eljárásban akkor kell alkalmazni, ha az Ehtv. vagy e § eltérően nem rendelkezik.
+
+(2) A nyilvántartásba vételre irányuló eljárás, a változásbejegyzési eljárás és a törlési eljárás a Kormány rendeletében meghatározott tartalmú kérelemre indul. A kérelemhez a Kormány rendeletében meghatározott okiratokat kell csatolni. Az eljárásban a kérelem érdemi vizsgálata során a bíróság kizárólag az Ehtv.-ben meghatározott feltételeket vizsgálja. Az eljárásban hiánypótlásnak az e feltételek hiányos vagy hibás teljesítése esetén van helye. Az eljárásban egyszerűsített nyilvántartásba vételnek nincs helye.
+
+(3) Az Ehtv. 14/A. § (2)–(6) bekezdése szerinti feltételek fennállása esetén az ügyész keresete alapján a bíróság határozatot hoz a bejegyzett egyház, illetve a nyilvántartásba vett egyház jogállásának megváltozásáról. A határozat meghozatalát követően a bejegyzett egyház, illetve nyilvántartásba vett egyház megváltozott adatait a bíróság határozata alapján a nyilvántartást vezető bíróság jegyzi be.
+
+(4) Az Ehtv. 14/C. § (1) bekezdése szerinti határozatot az Országos Bírósági Hivatal az országos névjegyzékben a 84. § (5) bekezdésben meghatározott szenzitív adatok kivételével, nem jogerős megjelöléssel közzéteszi. Az Ehtv. 14/C. § (1) bekezdés b) pontjában meghatározott szervezet vonatkozásában a fellebbezési határidő a közzététel időpontját követő napon kezdődik.
+
+(5) A jogi személyiséggel rendelkező vallási közösség egyesülése vagy szétválása során a létrejövő, illetve a fennmaradó jogi személyiséggel rendelkező vallási közösségre irányadó nyilvántartásba vételi szabályokat kell alkalmazni.
+
+(6) A belső egyházi jogi személy nyilvántartásba vételére és a változásbejegyzésére az Ehtv. 18. §-át kell alkalmazni.
+
+(7) Az Ehtv. 14. § (2) bekezdésében meghatározott feltétel vizsgálatára irányuló eljárás időtartama az Ehtv. 14/B. § (1) bekezdésében, valamint a 35. § (2) bekezdésében és a 36. § (2) bekezdésében foglalt határidőbe nem számít bele.
+
+71. § (1)
 
 (2) Ha a cégbíróság a nyilvántartásba vételről szóló jogerős végzés elektronikus úton történő megküldésével, arról értesíti a bíróságot, hogy a kölcsönös biztosító egyesületet külön törvény alapján részvénytársaságként vette nyilvántartásba, a bíróság a kölcsönös biztosító egyesületet hivatalból törli a nyilvántartásból, a törlésről végzést hozni nem kell.
 
@@ -1007,6 +1023,8 @@ is.
 
 (4) A papír alapon érkezett irat elektronikus másolata akkor megfelelő, ha az okirat elektronikus másolatának képe megegyezik a papír alapú okiratéval.
 
+(5) A kérelmet a honlapon legutoljára közzétett elektronikus űrlapon kell benyújtani. Az ettől eltérő módon benyújtott iratot be nem nyújtottnak kell tekinteni, amiről az ügyfelet automatikus hibaüzenettel értesíteni kell.
+
 75. § A nyilvántartást vezető bíróság a Pp. 322. § (1) bekezdését azzal az eltéréssel alkalmazza, hogy ha az irat beszerzése másik nyilvántartást vezető bíróságtól szükséges, a szervezetre vonatkozó iratokat az informatikai rendszer útján szerzi be, ha azok az informatikai rendszerben elérhetőek.
 
 76. § (1) Az informatikai rendszer alkalmazásával naplót kell készíteni
@@ -1063,8 +1081,11 @@ is.
 - e) a hitelintézetek önkéntes betétbiztosítási, illetve intézményvédelmi alapja,
 - f) Munkavállalói Résztulajdonosi Program szervezet,
 - g) európai területi társulás,
-- h) országos sportági szakszövetség és
-- i) egyéb szervezet.
+- h) országos sportági szakszövetség,
+- i) bejegyzett egyház,
+- j) nyilvántartásba vett egyház,
+- k) vallási egyesület, és
+- l) egyéb szervezet.
 
 (3) Ha külön törvény alapján valamely szervezet nyilvántartásba vétele a Fővárosi Törvényszék kizárólagos illetékességébe tartozik, a törvényszéki nyilvántartást úgy kell kialakítani, hogy a szervezet csak a Fővárosi Törvényszék törvényszéki nyilvántartásába legyen felvehető.
 
@@ -1246,7 +1267,7 @@ is.
   - aa) egyesület,
   - ab) párt,
   - ac) sportegyesület,
-  - ad) vallási tevékenységet végző szervezet,
+  - ad)
   - ae) nemzetiségi egyesület,
   - af) szakszervezet,
   - ag) szövetség,
@@ -1256,6 +1277,12 @@ is.
 - c) szövetség esetén az egyesületek szövetségét létrehozó egyesületek, illetve alapítványok nevét, székhelyét, nyilvántartási számát,
 - d) határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját, illetve, ha a jogviszony megszűnésére a nyilvántartásban feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
 - e) azt a tényt, hogy a külföldről támogatott szervezetek átláthatóságáról szóló 2017. évi LXXVI. törvény szerinti külföldről támogatott szervezetnek minősül.
+
+95/A. § (1) A nyilvántartás a bejegyzett egyház, a nyilvántartásba vett egyház és a vallási egyesület esetén az Ehtv.-ben meghatározott adatokat, valamint a 91. § (1) bekezdés a), b) és – ha az ismert – c) pontja szerinti adatokat tartalmazza. A nyilvántartás szükség szerint tartalmazza a 92. § (1) bekezdés a) és e)–p) pontja, valamint a 93. § (1) bekezdés c) pontja szerinti adatokat.
+
+(2) A belső egyházi jogi személyre vonatkozóan a nyilvántartás az Ehtv.-ben meghatározottakon túl, szükség szerint tartalmazza a 92. § (1) bekezdés h) pontja szerinti adatokat.
+
+(3) A belső egyházi jogi személy képviselőjének lakóhelyére és anyja születési nevére vonatkozó adat nem nyilvános.
 
 96. § A nyilvántartás szövetség esetén a 92. §-ban foglaltakon túlmenően szükség szerint tartalmazza az ahhoz utóbb csatlakozó szervezetek nevét, székhelyét, nyilvántartási számát is.
 
@@ -1274,7 +1301,9 @@ is.
 - e)
 - f) a nyilvántartási szám képzésének módját,
 - g) a szervezet célja szerinti besorolását,
-- h) az e törvényben szabályozott eljárásokban érvényesülő iratkezelési szabályokat rendeletben állapítsa meg.
+- h) az e törvényben szabályozott eljárásokban érvényesülő iratkezelési szabályokat
+
+rendeletben állapítsa meg.
 
 #### 45. Hatálybalépés
 
@@ -1336,9 +1365,11 @@ is.
 
 (2) A bíróság az (1) bekezdés szerinti adatszolgáltatást követően az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdésében meghatározott adatok közül az állami adó- és vámhatóság részére az informatikai rendszer útján elektronikus úton átadja azon szervezeteknek az általa nyilvántartott adatait, amely szervezetekről az állami adó- és vámhatóság az (1) bekezdés szerint adatot szolgáltatott a részére.
 
-#### 47. Módosuló jogszabályok
+109. § Az Ehtv. 36. § (7) bekezdésében meghatározott vallási közösségek bírósági nyilvántartásával kapcsolatos eljárás során a bíróság a feltételek vizsgálatánál a korábbi hatósági közigazgatási eljárás, illetve az Országgyűlés eljárása során keletkezett iratanyagokban foglaltakat figyelembe veheti.
 
-#### 109–110. §
+110. § Az Ehtv. 38. §-ában meghatározott nyilvántartási adatok átvezetése a bíróság részéről hivatalból történik, amelynek során a vallási egyesületek a vallási tevékenységet végző szervezetek általános jogutódjaként kerülnek nyilvántartásba vételre.
+
+#### 47. Módosuló jogszabályok
 
 #### 111. §
 

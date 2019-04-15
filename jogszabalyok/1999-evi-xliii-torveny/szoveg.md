@@ -50,7 +50,7 @@ Az Országgyűlés az elhunyt személyek emlékének méltó megőrzése és áp
 
 ### Általános szabályok
 
-4. § (1) A temető tulajdonosa az állam, a települési önkormányzat, a vallási közösség, a helyi és országos nemzetiségi önkormányzat, gazdálkodó szervezet és közhasznú szervezet lehet.
+4. § (1) A temető tulajdonosa az állam, a települési önkormányzat, a jogi személyiséggel rendelkező vallási közösség, a helyi és országos nemzetiségi önkormányzat, gazdálkodó szervezet és közhasznú szervezet lehet.
 
 (2) Azon a településen, ahol nincs önkormányzati tulajdonú temető, gazdálkodó szervezet vagy közhasznú szervezet a temetőtulajdonban tulajdoni hányadot akkor szerezhet, ha az önkormányzat legalább 51%-os tulajdoni hányadban tulajdonosa lesz a temetőnek. Az önkormányzat tulajdoni hányada a működés során sem csökkenthető 51% alá.
 
@@ -258,7 +258,7 @@ alapján kell kiadni.
 
 (3) E törvény értelmében nem minősül temetkezési szolgáltatásnak
 
-- a) a vallási közösség tulajdonában lévő temetőben, temetkezési emlékhelyen a vallási közösség által vallási szertartás keretében végzett urnaelhelyezés,
+- a) a jogi személyiséggel rendelkező vallási közösség tulajdonában lévő temetőben, temetkezési emlékhelyen a vallási közösség által vallási szertartás keretében végzett urnaelhelyezés,
 - b) a felnőtt hospice-palliatív vagy gyermek palliatív ellátás nyújtására működési engedéllyel rendelkező fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál végzett ravatalozás.
 
 (4) Az (1) bekezdés a) pontja szerinti szolgáltatást nyújtó temetkezési szolgáltató az eltemettetésre kötelezett személy megbízása alapján az elhalálozással kapcsolatos, a Kormány rendeletében meghatározott ügyekben az egészségügyi intézmény, valamint az állami és önkormányzati szervek előtt az eltemettetésre kötelezett személy képviseletében eljár. E feladat ellátása céljából az eltemettetésre kötelezett által megadott, valamint a statisztikáról szóló törvényben meghatározott adatgyűjtéssel kapcsolatos feladatai teljesítése céljából a haláleset jegyzőkönyvezéséhez és a halálesettel kapcsolatos népmozgalmi adatszolgáltatáshoz szükséges személyes adatok kezelésére a temetkezési szolgáltató jogosult.
