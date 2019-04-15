@@ -105,7 +105,7 @@ meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és te
 - l) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van;
 - m) fenntartó:
   - ma) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása (a továbbiakban együtt: állami fenntartó),
-  - mb) az egyházi jogi személy (a továbbiakban együtt: egyházi fenntartó),
+  - mb) a bevett egyház, annak belső egyházi jogi személye, továbbá az olyan nyilvántartásba vett egyház, bejegyzett egyház és azok belső egyházi jogi személye, amely a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 9/D. § (5) bekezdése, illetve 9/F. § (1) bekezdése szerinti, a szociális, gyermekjóléti vagy gyermekvédelmi feladatok ellátására is kiterjedő megállapodással rendelkezik (a továbbiakban együtt: egyházi fenntartó),
   - mc) az egyéni vállalkozó,
   - md) az ma)–mb) alpontokban nem említett, magyarországi székhelyű jogi személy és egyéni cég,
   - me) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe [az mc)–me) pontokban foglaltak a továbbiakban együtt: nem állami fenntartó];
@@ -1278,7 +1278,7 @@ nyújtja.
 
 58. § (1) A jogszabályban meghatározott szakmai, módszertani feladatokat – a (2)–(7) bekezdésben foglalt kivétellel – az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv látja el.
 
-(2) Az egyházi jogi személy által fenntartott (a továbbiakban: egyházi fenntartású) intézmények vonatkozásában a szociál- és nyugdíjpolitikáért felelős miniszter a bevett egyház legfőbb szerve képviselőjének javaslatára egyházi módszertani intézményt jelöl ki (a továbbiakban: kijelölt egyházi módszertani intézmény) öt éves időtartamra, amelynek elteltét követően az intézmény ismételten kijelölhető.
+(2) Az egyházi fenntartó által fenntartott (a továbbiakban: egyházi fenntartású) intézmények vonatkozásában a szociál- és nyugdíjpolitikáért felelős miniszter az egyház legfőbb szerve képviselőjének javaslatára egyházi módszertani intézményt jelöl ki (a továbbiakban: kijelölt egyházi módszertani intézmény) ötéves időtartamra, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
 (3) A kijelölés megszűnik, ha
 
@@ -1291,7 +1291,7 @@ nyújtja.
 
 - a) a kijelölést kérő szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében a kijelölésre nem került volna sor,
 - b) a módszertani intézmény a jogszabályból vagy a támogatási szerződésből eredő kötelezettségeit súlyosan megszegi,
-- c) a kijelölésre javaslatot tevő bevett egyház legfőbb szervének képviselője a kijelölés visszavonását kezdeményezi.
+- c) a kijelölésre javaslatot tevő egyház legfőbb szervének képviselője a kijelölés visszavonását kezdeményezi.
 
 (5) A módszertani intézmény a kijelölésről írásban, indokolás nélkül lemondhat. A lemondási idő három hónap.
 

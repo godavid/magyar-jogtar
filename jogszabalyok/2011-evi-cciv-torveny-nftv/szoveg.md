@@ -52,7 +52,7 @@ is szervezhető.
 - a) a magyar állam, országos nemzetiségi önkormányzat,
 - b) az egyházi jogi személy (a továbbiakban: egyházi fenntartó),
 - c) a Magyarország területén székhellyel rendelkező gazdasági társaság,
-- d) a Magyarországon nyilvántartásba vett alapítvány, közalapítvány vagy vallási tevékenységet végző szervezet, továbbá – az e törvényben meghatározott esetben – a 95/A. § szerinti fenntartó testület
+- d) a Magyarországon nyilvántartásba vett alapítvány, közalapítvány vagy vallási egyesület, továbbá – az e törvényben meghatározott esetben – a 95/A. § szerinti fenntartó testület
 
 alapíthat.
 
@@ -2108,7 +2108,7 @@ eltérő rendelkezéseket állapíthat meg,
 
 94. § (1) A 4. § (1) bekezdés c)–d) pontjában meghatározott személy, szervezet által fenntartott felsőoktatási intézmény vallási, illetve világnézeti tekintetben elkötelezett intézményként is működhet, és a képzési programjába beépítheti a vallási, világnézeti elkötelezettségnek megfelelő filozófiai, etikai, kulturális ismereteket.
 
-(1a) A vallási tevékenységet végző szervezet által fenntartott magán felsőoktatási intézmény is folytathat hitéleti képzést, amelyre a 91. § (6) és (7) bekezdését, a 92. § (6) bekezdését és a 93. § (1) és (4) bekezdését alkalmazni kell. Ahol e törvény munkaviszonyt említ, azon a magán felsőoktatási intézmény hitéleti képzésén foglalkoztatottak esetén a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjának ilyen jogviszonyát is érteni kell.
+(1a) A vallási egyesület által fenntartott magán felsőoktatási intézmény is folytathat hitéleti képzést, amelyre a 91. § (6) és (7) bekezdését, a 92. § (6) bekezdését és a 93. § (1) és (4) bekezdését alkalmazni kell. Ahol e törvény munkaviszonyt említ, azon a magán felsőoktatási intézmény hitéleti képzésén foglalkoztatottak esetén a vallási egyesület vallásos szertartást hivatásszerűen végző tagjának ilyen jogviszonyát is érteni kell.
 
 (2) A magán felsőoktatási intézmények a 12. § (7) és (8) bekezdésében, 13. § (7) bekezdés e) pontjában, a 29. § (1) bekezdésében, a 37. § (1) bekezdés e) pontjában és (3)–(6) bekezdésében, a 83. § (1) és (5) bekezdésében foglalt rendelkezésektől, továbbá a 13. § (5) bekezdésében előírt nyelvi követelmény nyelvvizsga-bizonyítvánnyal vagy azzal egyenértékű okirattal való igazolási kötelezettségétől a szervezeti és működési szabályzatukban eltérhetnek azzal, hogy a 37. § (1) bekezdésében meghatározottak mellett magasabb vezetőként (vezető állású munkavállalóként) gazdasági vezetőt foglalkoztatnak. Magán felsőoktatási intézményekben a 13/B–13/D. § nem alkalmazható.
 

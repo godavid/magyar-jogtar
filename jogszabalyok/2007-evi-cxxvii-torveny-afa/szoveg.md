@@ -935,7 +935,7 @@ kivéve az uszoda- és strandfürdő-szolgáltatást, a sportesemény megtekint�
 
 - a) a költségvetési szerv az alapító okiratban megjelölt tevékenysége tekintetében, ideértve az önkormányzatot és a társulást is az általa ellátott tevékenység tekintetében;
 - b) az egyesület, a szövetség, a civil társaság, a köztestület, az országos sportági szakszövetség az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban, társasági szerződésben) megjelölt tevékenysége tekintetében;
-- c) az egyházi jogi személy a létesítő okiratában vagy a bevett egyház belső szabályában megjelölt tevékenysége tekintetében;
+- c) az egyházi jogi személy a létesítő okiratában, vagy a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház a belső szabályában megjelölt tevékenysége tekintetében;
 - d) az alapítvány és a közalapítvány az alapító okiratban megjelölt tevékenységük tekintetében, továbbá az általuk működtetett (fenntartott) intézmény az alapszabályban (alapító okiratban) megjelölt tevékenysége tekintetében;
 - e) a közhasznú társaság és a nonprofit gazdasági társaság az alapszabályban (alapító okiratban) megjelölt tevékenységük tekintetében;
 - f) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint közhasznú szervezetként nyilvántartásba vett civil szervezet az alapszabályban (alapító okiratban) megjelölt közhasznú tevékenysége tekintetében;

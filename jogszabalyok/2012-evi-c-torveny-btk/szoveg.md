@@ -6045,7 +6045,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - a) a Magyar Honvédség szolgálati feladatot teljesítő katonája,
   - b) a polgári védelmi szervezetbe beosztott és polgári védelmi szolgálatot teljesítő személy,
   - c) a polgárőr a polgárőrségről és a polgárőri tevékenység szabályairól szóló törvényben meghatározott tevékenységének ellátása során,
-  - d) az egyházi személy és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja,
+  - d) az egyházi személy és a vallási egyesület vallásos szertartást hivatásszerűen végző tagja,
   - e) a bírósági vagy más hatósági eljárásban a védő, a jogi képviselő, a szakértő, és a hivatalos személynek nem minősülő kézbesítési végrehajtó,
   - f) az egészségügyi dolgozó és az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló más személy az egészségügyről szóló törvényben meghatározott esetekben,
   - g) az állami mentőszolgálat, valamint a mentésre feljogosított más szervezet tagja a mentéssel és betegszállítással összefüggésben,

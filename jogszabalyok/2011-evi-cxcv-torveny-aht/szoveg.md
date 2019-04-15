@@ -1403,7 +1403,7 @@ vizsgálatára terjed ki.
 
 (4a) A kincstár fizetési számlát vezet
 
-- a) a bevett egyház megbízása esetén a bevett egyház számára,
+- a) a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház megbízása esetén a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház számára,
 - b) törvény által az államháztartás központi alrendszerébe sorolt köztestület kizárólagos tulajdonában álló gazdasági társaság megbízása esetén a gazdasági társaság számára,
 - c) a (4b)–(4d) bekezdés szerinti esetekben,
 - d) ha törvény vagy kormányrendelet meghatározott pénzeszközök kezelését a kincstárnál vezetett fizetési számlán írja elő.

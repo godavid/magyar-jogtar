@@ -2389,7 +2389,7 @@ nyújtotta be.
 170. § (1) Nem hallgatható ki tanúként
 
 - a) a védő arról, amiről védőként szerzett tudomást, vagy amit a terhelttel védői minőségében közölt,
-- b) az egyházi személy és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja arról, amire a hivatásánál fogva titoktartási kötelezettsége áll fenn,
+- b) az egyházi személy és a vallási egyesület vallásos szertartást hivatásszerűen végző tagja arról, amire a hivatásánál fogva titoktartási kötelezettsége áll fenn,
 - c) akitől a testi vagy szellemi állapota miatt nyilvánvalóan nem várható helyes vallomás,
 - d) a minősített adatról az, aki a titoktartási kötelezettség alól nem kapott felmentést.
 

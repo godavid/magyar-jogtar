@@ -438,7 +438,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 - a) az alaptanterv szerinti ismeretek megszerzése a nem nemzetiségi oktatásban általánosan érvényesülő színvonalon biztosított, és
 - b) a nemzetiségi oktatás a nemzetiségek jogairól szóló törvényben meghatározott követelményeknek megfelel.
 
-(3) A nyelvi vagy kulturális önazonosság megőrzése céljából egyházi jogi személy, vallási tevékenységet végző szervezet vagy nemzetiségi önkormányzat által fenntartott köznevelési intézmény, egyházi jogi személy, vallási tevékenységet végző szervezet vagy országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében jogszabály a 27. § (2) bekezdés a) pontjától eltérő rendelkezést állapíthat meg.
+(3) A nyelvi vagy kulturális önazonosság megőrzése céljából egyházi jogi személy, vallási egyesület vagy nemzetiségi önkormányzat által fenntartott köznevelési intézmény, egyházi jogi személy, vallási egyesület vagy országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében jogszabály a 27. § (2) bekezdés a) pontjától eltérő rendelkezést állapíthat meg.
 
 29. § Törvény vagy törvény felhatalmazása alapján megalkotott kormányrendelet az iskolarendszeren belüli, valamint az iskolarendszeren kívüli oktatásban részt vevők meghatározott körére – az oktatással, képzéssel összefüggésben – előnyben részesítési kötelezettséget írhat elő.
 

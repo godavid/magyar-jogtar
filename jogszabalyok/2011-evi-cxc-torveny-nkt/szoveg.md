@@ -22,7 +22,7 @@ A nemzet felemelkedésének zálogaként a magyar oktatásügy nemes hagyománya
 - b) e törvény keretei között
   - ba) a nemzetiségi önkormányzat,
   - bb) az egyházi jogi személy,
-  - bc) a vallási tevékenységet végző szervezet vagy
+  - bc) a vallási egyesület vagy
   - bd) más személy vagy szervezet
 
 alapíthat és tarthat fenn, ha a tevékenység folytatásának jogát – jogszabályban foglaltak szerint – megszerezte.
@@ -342,7 +342,7 @@ ellátja.
 
 (2) Az utazó gyógypedagógusi, utazó konduktori hálózat megszervezése és működtetése az illetékes tankerületi központ feladata.
 
-(3) Az állami intézményfenntartó központ az e §-ban meghatározott feladatokra, állami felsőoktatási intézmény, továbbá egyházi jogi személy, vallási tevékenységet végző szervezet, vagy más nem állami, nem önkormányzati köznevelési intézményfenntartó által fenntartott utazó gyógypedagógusi, utazó konduktori hálózatot is felkérhet.
+(3) Az állami intézményfenntartó központ az e §-ban meghatározott feladatokra, állami felsőoktatási intézmény, továbbá egyházi jogi személy, vallási egyesület, vagy más nem állami, nem önkormányzati köznevelési intézményfenntartó által fenntartott utazó gyógypedagógusi, utazó konduktori hálózatot is felkérhet.
 
 #### 14. Az alapfokú művészeti iskola
 
@@ -704,20 +704,20 @@ rendkívüli szünetet rendel el.
 
 (5)–(7)
 
-32. § (1) Ha a nevelési-oktatási intézményt egyházi jogi személy vagy a vallási tevékenységet végző szervezet tartja fenn:
+32. § (1) Ha a nevelési-oktatási intézményt egyházi jogi személy vagy a vallási egyesület tartja fenn:
 
 - a) a pedagógusok és egyéb munkavállalók alkalmazása során világnézeti és hitéleti szempontokat érvényesíthet, alkalmazási feltételként írhat elő,
 - b) az intézményvezető-helyettesek megbízása során a fenntartó egyetértési jogot gyakorol,
 - c) a fenntartó az iskola számára előírhatja valamely – az oktatásért felelős miniszter által kiadott – kerettanterv választását és meghatározhatja az intézményben használható tankönyveket, taneszközöket,
-- d) pedagógiai programjába beépítheti a vallási, világnézeti elkötelezettségnek megfelelő ismereteket, helyi tantervébe a vallási közösség tanításának megfelelő tartalmú hitoktatást építhet be,
+- d) pedagógiai programjába beépítheti a vallási, világnézeti elkötelezettségnek megfelelő ismereteket, helyi tantervébe a jogi személyiséggel rendelkező vallási közösség tanításának megfelelő tartalmú hitoktatást építhet be,
 - e) korlátozhatja, kizárhatja a 63. § (1) bekezdés d) pontjában szabályozott jog gyakorlását,
-- f) SZMSZ-ében és házirendjében a vallási közösség tanításával összefüggő viselkedési és megjelenési szabályokat, kötelességeket, jogokat és hitéleti tevékenységet írhat elő,
+- f) SZMSZ-ében és házirendjében a jogi személyiséggel rendelkező vallási közösség tanításával összefüggő viselkedési és megjelenési szabályokat, kötelességeket, jogokat és hitéleti tevékenységet írhat elő,
 - g) az f) pont szerint meghatározott kötelességek megszegése, elmulasztása miatt a gyermek, tanuló és a pedagógus ellen fegyelmi eljárás indítható,
-- h) és az iskola tananyagában a hittan mint tantárgy szerepel, az állami intézményekre megállapított pedagóguslétszámon felül alkalmazott hitoktatónak, hittantanárnak egyházi felsőoktatási intézményben vagy a vallási tevékenységet végző szervezet által fenntartott felsőoktatási intézményben szerzett hitoktatói, hittantanári vagy a hitélettel kapcsolatos felsőfokú képesítéssel vagy pedagógus szakképzettséggel és az egyházi jogi személy által kibocsátott hitoktatói képesítéssel, továbbá a bevett egyház belső szabálya alapján illetékes egyházi jogi személy vagy a vallási tevékenységet végző szervezet általi megbízással kell rendelkeznie,
+- h) és az iskola tananyagában a hittan mint tantárgy szerepel, az állami intézményekre megállapított pedagóguslétszámon felül alkalmazott hitoktatónak, hittantanárnak egyházi felsőoktatási intézményben vagy a vallási egyesület által fenntartott felsőoktatási intézményben szerzett hitoktatói, hittantanári vagy a hitélettel kapcsolatos felsőfokú képesítéssel vagy pedagógus szakképzettséggel és az egyházi jogi személy által kibocsátott hitoktatói képesítéssel, továbbá a az egyház belső szabálya alapján illetékes egyházi jogi személy vagy a vallási egyesület általi megbízással kell rendelkeznie,
 - i) a nevelési-oktatási intézmény SZMSZ-e, házirendje, valamint a nevelési-oktatási intézmény pedagógiai programja a fenntartó jóváhagyásával válik érvényessé,
 - j) az etika tantárgy hittan tantárggyal kiváltható, amennyiben az iskola pedagógiai programja a hittan tantárgy vonatkozásában tartalmazza a Nat-ban az etikára meghatározott fejlesztési követelményeket és tartalmakat.
 
-(2) Ha a vallási közösség a Kormánnyal a köznevelési feladatok ellátására is kiterjedő megállapodást kötött, a nevelési-oktatási intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóság, óvoda esetén a települési önkormányzat részére megküldött egyoldalú nyilatkozatával vállalja az állami, önkormányzati feladatellátásban való közreműködést, valamint kötelezettséget vállal a tanulók felzárkóztatására vonatkozó feladatok ellátására. A Magyar Katolikus Egyház az egyoldalú nyilatkozat megtételére nemzetközi szerződés alapján jogosult. Az egyoldalú nyilatkozat megtételére a belső egyházi jogi személy is jogosult.
+(2) Ha a jogi személyiséggel rendelkező vallási közösség a Kormánnyal a köznevelési feladatok ellátására is kiterjedő megállapodást kötött, a nevelési-oktatási intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóság, óvoda esetén a települési önkormányzat részére megküldött egyoldalú nyilatkozatával vállalja az állami, önkormányzati feladatellátásban való közreműködést, valamint kötelezettséget vállal a tanulók felzárkóztatására vonatkozó feladatok ellátására. A Magyar Katolikus Egyház az egyoldalú nyilatkozat megtételére nemzetközi szerződés alapján jogosult. Az egyoldalú nyilatkozat megtételére a belső egyházi jogi személy is jogosult.
 
 (3) A nyilatkozatnak az alábbiakat kell tartalmaznia:
 
@@ -748,17 +748,17 @@ rendkívüli szünetet rendel el.
 
 34/A. § Ha az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 28. § (2)–(2b) bekezdése alapján olyan nevelési-oktatási intézmény, osztály vagy óvodai csoport jön létre, amely egyidejűleg nyújt vallási vagy más világnézeti meggyőződésen alapuló és nemzetiségi nevelés-oktatást, annak egyidejűleg meg kell felelnie a kifejezetten a vallási vagy más világnézeti meggyőződésen alapuló és a nemzetiségi nevelés-oktatásra e törvényben és a nemzetiségek jogairól szóló törvényben előírt feltételeknek.
 
-35. § (1) Az állam, a helyi önkormányzat vagy a nemzetiségi önkormányzat által fenntartott nevelési-oktatási intézményben a szülő, tanuló kérésére szervezett és nem a kötelező tanórai foglalkozások részét képező hitoktatást (a továbbiakban: fakultatív hitoktatás) és az etika óra helyett választható hit- és erkölcstanoktatást egyházi jogi személy szervezhet az e törvényben meghatározott keretek között.
+35. § (1) Az állam, a települési önkormányzat vagy a nemzetiségi önkormányzat által fenntartott nevelési-oktatási intézményben a szülő, tanuló kérésére szervezett és nem a kötelező tanórai foglalkozások részét képező hitoktatást (a továbbiakban: fakultatív hitoktatás) egyházi jogi személy, az etikaóra helyett választható hit- és erkölcstanoktatást bevett egyház, illetve belső egyházi jogi személye szervezhet az e törvényben meghatározott keretek között.
 
 (2) A fakultatív hitoktatás az óvodában az óvodai foglalkozásoktól elkülönítve, az óvodai életrendet figyelembe véve – a nyitvatartási időn belül, de nevelési időnek nem minősülő időkeretben –, az iskolában a kötelező tanórai foglalkozások rendjéhez, a kollégiumban pedig a kollégiumi foglalkozások rendjéhez illeszkedően szervezhető.
 
 (3) A hit- és erkölcstan óra az iskolában a tanórai foglalkozások rendjéhez illeszkedik.
 
-(4) A nevelési-oktatási intézmény és az egyházi jogi személy a fakultatív hitoktatással és a hit- és erkölcstanoktatással kapcsolatos feladatok ellátása során egymással kölcsönösen együttműködik.
+(4) A nevelési-oktatási intézmény és az egyházi jogi személy a fakultatív hitoktatással, a nevelési-oktatási intézmény és a bevett egyház, illetve belső egyházi jogi személye a hit- és erkölcstanoktatással kapcsolatos feladatok ellátása során egymással kölcsönösen együttműködik.
 
-35/A. § Az állami iskola 1–8. évfolyamán az etika óra vagy az ehelyett választható, az egyházi jogi személy által szervezett hit- és erkölcstan óra a kötelező tanórai foglalkozások része.
+35/A. § Az állami iskola 1–8. évfolyamán az etikaóra vagy az ehelyett választható, a bevett egyház, illetve belső egyházi jogi személye által szervezett hit- és erkölcstan óra a kötelező tanórai foglalkozások része.
 
-35/B. § (1) A fakultatív hitoktatásnál és a hit- és erkölcstanoktatásnál az egyházi jogi személynek a feladata a hit- és erkölcstanoktatás megszervezése, ennek keretében különösen
+35/B. § (1) A fakultatív hitoktatásnál az egyházi jogi személynek, a hit- és erkölcstanoktatásnál a bevett egyháznak, illetve belső egyházi jogi személyének a feladata a hit- és erkölcstanoktatás megszervezése, ennek keretében különösen
 
 - a) a fakultatív hitoktatás és a hit- és erkölcstanoktatás tartalmának meghatározása,
 - b) a fakultatív hitoktatásra és – jogszabályban meghatározottak szerint az állami fenntartású iskolával közösen – a hit- és erkölcstanoktatásra való jelentkezés lebonyolítása,
@@ -767,7 +767,7 @@ rendkívüli szünetet rendel el.
 
 (2) Az óvoda és a kollégium a fakultatív hitoktatáshoz, az iskola a fakultatív hitoktatáshoz és a hit- és erkölcstanoktatáshoz szükséges tárgyi feltételeket – így különösen a helyiségek rendeltetésszerű használatát, valamint a jelentkezéshez és működéshez szükséges feltételeket – az intézményben rendelkezésre álló eszközökkel biztosítja.
 
-(3) Az egyházi jogi személy által foglalkoztatott, fakultatív hitoktatásban, illetve hit- és erkölcstanoktatásban közreműködő személy alkalmazásakor a 3. mellékletben foglaltakat nem kell alkalmazni. A hit- és erkölcstanoktatásban közreműködő személynek a 32. § (1) bekezdés h) pontjában meghatározott feltételeknek kell megfelelnie.
+(3) Az egyházi jogi személy által foglalkoztatott, fakultatív hitoktatásban, illetve a bevett egyház és belső egyházi jogi személye által foglalkoztatott, hit- és erkölcstanoktatásban közreműködő személy alkalmazásakor a 3. mellékletben foglaltakat nem kell alkalmazni. A hit- és erkölcstanoktatásban közreműködő személynek a 32. § (1) bekezdés h) pontjában meghatározott feltételeknek kell megfelelnie.
 
 #### 24. A katonai és rendvédelmi köznevelési intézményekre vonatkozó külön rendelkezések
 
@@ -2394,7 +2394,7 @@ ellenőrzés.
 
 (3) A központi költségvetés a nem állami szerv által fenntartott intézmény köznevelési feladatainak ellátásához költségvetési hozzájárulást biztosít, amelynek feltétele, hogy az intézmény a működési engedélyben foglaltaknak megfelelően végzi tevékenységét.
 
-(4) A központi költségvetés a 2. § (3) bekezdés b) pont ba) és bb) alpontja szerinti fenntartók számára az állami fenntartású nevelési-oktatási intézményben és pedagógiai szakszolgálati intézményben pedagógus munkakörben alkalmazottak elismert létszáma, valamint a nevelő-oktató munkát közvetlenül segítők jogszabály szerint finanszírozott létszáma alapján átlagbér alapú költségvetési hozzájárulást biztosít a köznevelési feladat ellátásához szükséges pedagógusok és a nevelő-oktató munkát közvetlenül segítő alkalmazottak illetménye, munkabére és ezek járulékai kifizetéséhez. A 2. § (3) bekezdés b) pont bc) és bd) alpontja szerinti fenntartók esetében a hozzájárulás mértékét a központi költségvetésről szóló törvény állapítja meg.
+(4) A központi költségvetés a 2. § (3) bekezdés b) pontja szerinti fenntartók számára az állami és a települési önkormányzati fenntartású nevelési-oktatási intézményben és pedagógiai szakszolgálati intézményben pedagógus munkakörben alkalmazottak elismert létszáma, valamint a nevelő-oktató munkát közvetlenül segítők jogszabály szerint finanszírozott létszáma alapján átlagbér alapú költségvetési hozzájárulást biztosít a köznevelési feladat ellátásához szükséges pedagógusok és a nevelő-oktató munkát közvetlenül segítő alkalmazottak illetménye, munkabére és ezek járulékai kifizetéséhez. A 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartók esetében az átlagbér alapú költségvetési hozzájárulás mértékét a központi költségvetésről szóló törvény állapítja meg.
 
 (5) A pedagógiai szakszolgálat keretében biztosított ellátás időkereteit jogszabály állapítja meg.
 

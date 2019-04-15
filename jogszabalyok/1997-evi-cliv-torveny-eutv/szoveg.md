@@ -72,7 +72,7 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 - v) egészségügyi szakma: a q) pontban meghatározott egészségügyi szakképesítéssel, továbbá jogszabályban meghatározott szakmai (személyi és tárgyi) minimumfeltételekkel ellátható olyan egészségügyi szolgáltatások összessége, mely szerepel az egészségügyi szakmai kódjegyzékben;
 - w) fenntartó:
   - wa) költségvetési szerv egészségügyi szolgáltató esetén az alapító okiratban irányító szervként megjelölt állami szerv, helyi önkormányzat vagy önkormányzati társulás,
-  - wb) egyházi jogi személy vagy vallási tevékenységet végző szervezet által fenntartott egészségügyi szolgáltató esetében az egészségügyi szolgáltató alapító okiratában fenntartóként megjelölt ilyen jogalany,
+  - wb) egyházi jogi személy vagy vallási egyesület által fenntartott egészségügyi szolgáltató esetében az egészségügyi szolgáltató alapító okiratában fenntartóként megjelölt ilyen jogalany,
   - wc) alapítványi, közalapítványi egészségügyi szolgáltató esetén az alapítvány, közalapítvány,
   - wd) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 97. § (1) bekezdés a), b) és c) pontja szerinti esetben az egészségügyi felsőoktatási intézmény,
   - we) más szervezet esetén a tulajdonosi jogokat gyakorló szervezet;
@@ -174,7 +174,7 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 
 (5) A szülő nőnek joga van arra, hogy az általa megjelölt nagykorú személy a vajúdás és a szülés alatt folyamatosan vele lehessen, a szülést követően pedig arra, hogy – amennyiben ezt az ő vagy újszülöttje egészségi állapota nem zárja ki – újszülöttjével egy helyiségben helyezzék el.
 
-(6) A beteget megilleti a vallási meggyőződésének megfelelő egyházi személlyel vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjával való kapcsolattartásnak és vallása szabad gyakorlásának joga.
+(6) A beteget megilleti a vallási meggyőződésének megfelelő egyházi személlyel vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjával való kapcsolattartásnak és vallása szabad gyakorlásának joga.
 
 (7) A beteg – törvény eltérő rendelkezése hiányában – jogosult saját ruháinak és személyes tárgyainak a használatára.
 
@@ -2345,7 +2345,7 @@ költségének fedezetét.
 - c) azon minisztériumok egy-egy képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
 - d) a térségben található járásokban levő önkormányzatok megyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
 - e) a térségben működő egyetemi centrumot és klinikát működtető egyetem képviselője,
-- f) az olyan vallási közösségek egy közös képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
+- f) az olyan jogi személyiséggel rendelkező vallási közösségek egy közös képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
 - g) az a)–f) pontban foglaltak alapján nem képviselt – a térségben működő – egészségügyi szolgáltatók fenntartói közül azoknak az egy közös képviselője, akik gyógyintézetnek minősülnek és közfinanszírozásban részesülnek,
 - h) az egészségbiztosítási szerv térségben működő területi kihelyezett szervezeti egységeinek kijelölt képviselője,
 - i) az egészségügyi államigazgatási szerv térségben működő területi szervezeti egységeinek kijelölt képviselője,
@@ -3764,7 +3764,8 @@ rendeletben megállapítsa.
 - a) meghatározza a 244/D. § (2) bekezdésében foglalt járóbeteg-szakellátási feladat és a hozzá kapcsolódó helyi önkormányzati tulajdonban lévő vagyon állam általi átvételének feltételeit és eljárási szabályait,
 - b) kijelölje a 244/D. § (2) bekezdésében foglalt járóbeteg-szakellátási feladat és a hozzá kapcsolódó helyi önkormányzati tulajdonban lévő vagyon átvétele során és az átvételt követően az állam nevében eljáró, illetve 244/D. § (9) bekezdése szerinti előzetes engedély megadására jogosult szervet,
 - c) meghatározza a helyi önkormányzatoktól átvett egészségügyi intézmények felett az egészségügyért felelős miniszter által kijelölt szerv által gyakorolt feladat- és hatásköröket, az általa gyakorolt jogokat és kötelezettségeket,
-- d) meghatározza a 244/D. § (2) bekezdésben foglalt járóbeteg-szakellátási feladatot 2013. április 30-át követően is ellátó helyi önkormányzattal kötendő – a Mötv. 10. § (3) bekezdése szerinti – megállapodással kapcsolatos eljárási szabályokat, a megállapodással szembeni tartalmai és formai követelményeket, a megállapodás időtartamára, felmondására és egyéb okból történő megszűnésére vonatkozó szabályokat és a megállapodással kapcsolatban az állam nevében eljárásra és a megállapodás aláírására jogosult szervet.
+- d) meghatározza a 244/D. § (2) bekezdésben foglalt járóbeteg-szakellátási feladatot 2013. április 30-át követően is ellátó helyi önkormányzattal kötendő – a Mötv. 10. § (3) bekezdése szerinti – megállapodással kapcsolatos eljárási szabályokat, a megállapodással szembeni tartalmai és formai követelményeket, a megállapodás időtartamára, felmondására és egyéb okból történő megszűnésére vonatkozó szabályokat és a megállapodással kapcsolatban az állam nevében eljárásra és a megállapodás aláírására jogosult szervet,
+- e) meghatározza a kórházlelkészi, illetve kórházi lelki gondozói tevékenységre vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
