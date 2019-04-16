@@ -12,7 +12,7 @@ a közigazgatási bíróságokról szóló törvény hatálybalépéséről és 
 
 (4) A Közigazgatási Felsőbíróság megválasztott elnöke ellátja a közigazgatási bírósági szervezet felállításával kapcsolatban e törvényben meghatározott feladatait, azonban a közigazgatási bíróságokról szóló törvény hatálybalépéséig őt – kérése szerinti mértékben – mentesíteni kell az ítélkezési tevékenység alól.
 
-(5) A Közigazgatási Felsőbíróság megválasztott elnöke a Kúria elnökét megillető javadalmazásban részesül, és munkáját a Kúrián működő ötfős titkárság segíti, amelynek személyi és tárgyi feltételeit a közigazgatási bíróságokról szóló törvény hatálybalépéséig a Kúria biztosítja.
+(5) A Közigazgatási Felsőbíróság megválasztott elnöke a Kúria elnökét megillető javadalmazásban részesül, és munkáját a Kúrián működő ötfős titkárság segíti, amelynek személyi és tárgyi feltételeit a közigazgatási bíróságokról szóló törvény hatálybalépéséig a Kúria biztosítja. A Közigazgatási Felsőbíróság megválasztott elnöke személyvédelemre nem jogosult.
 
 2. § (1) A közigazgatási és munkaügyi regionális kollégium tagja az OBH elnökéhez intézett nyilatkozatban kérheti arra a közigazgatási törvényszékre való áthelyezését, amelynek a közigazgatási bíróságokról szóló törvény szerinti illetékességi területe magában foglalja a bíró álláshelye szerinti bíróság illetékességi területét. A Fővárosi Törvényszék közigazgatási és munkaügyi kollégiumának tagja az OBH elnökéhez intézett nyilatkozatban kérheti választása szerint valamely közigazgatási törvényszékre való áthelyezését. A Fővárosi Törvényszék közigazgatási és munkaügyi kollégiumának legalább kétéves legfelsőbb bírósági, kúriai, vagy ítélőtáblai ítélkező bírói gyakorlattal rendelkező törvényszéki bíró tagja az OBH elnökéhez intézett nyilatkozatban kérheti választása szerint a Közigazgatási Felsőbíróságra vagy valamely közigazgatási törvényszékre való áthelyezését. A Kúria közigazgatási és munkaügyi kollégiumának tagja a Kúria elnökéhez intézett nyilatkozatban kérheti választása szerint a Közigazgatási Felsőbíróságra vagy valamely közigazgatási törvényszékre való áthelyezését. A nyilatkozatot úgy kell megtenni, hogy az legkésőbb 2019. április 30. napjáig az OBH elnökéhez, illetve a Kúria elnökéhez megérkezzen.
 
@@ -106,9 +106,9 @@ a közigazgatási bíróságokról szóló törvény hatálybalépéséről és 
 
 10. § (1) A 9. § (5) bekezdése szerint benyújtott pályázatokat véleményező bizottság (a továbbiakban: véleményező bizottság) véleményezi, amelynek megbízatása 2019. december 31. napjáig tart.
 
-(2) A véleményező bizottság elnöke a Közigazgatási Felsőbíróság megválasztott elnöke, nyolc tagjából
+(2) A véleményező bizottság elnöke a Közigazgatási Felsőbíróság megválasztott elnöke, tíz tagjából
 
-- a) négyet a 2. § (1) bekezdése szerinti nyilatkozatot tett, legalább kiválóan alkalmas minősítésű, határozatlan időre kinevezett bírák közül a miniszter sorsol ki, azzal, hogy két bíró tagjának a Kúrián szolgálatot teljesítő bírák közül kell kikerülnie,
+- a) hatot a 2. § (1) bekezdése szerinti nyilatkozatot tett, legalább kiválóan alkalmas minősítésű, határozatlan időre kinevezett bírák közül a miniszter sorsol ki, azzal, hogy három bíró tagjának a Kúrián szolgálatot teljesítő bírák közül kell kikerülnie,
 - b) nem bíró tagjaivá a kiemelkedő tudású elméleti jogászok vagy legalább tízévi, jogi területen folytatott szakmai gyakorlattal rendelkező személyek közül egyet-egyet kér fel
   - ba) az Országgyűlés igazságügyért felelős bizottsága,
   - bb) a legfőbb ügyész,
@@ -128,7 +128,7 @@ a közigazgatási bíróságokról szóló törvény hatálybalépéséről és 
 
 (6) A véleményező bizottság zárt ülést tart, amelyen csak a tagjai vehetnek részt. A véleményező bizottság érintett tagja a napirendi pont tárgyalásán nem vehet részt.
 
-(7) A véleményező bizottság határozatképes, ha az elnök, valamint három-három bíró és nem bíró tag jelen van. Határozatképtelenség esetén nyolc napon belül megismételt ülést kell tartani, amely határozatképes, ha azon az elnök és legalább négy tag jelen van.
+(7) A véleményező bizottság határozatképes, ha az elnök, valamint öt bíró és három nem bíró tag jelen van. Határozatképtelenség esetén nyolc napon belül megismételt ülést kell tartani, amely határozatképes, ha azon az elnök és legalább öt tag jelen van.
 
 (8) A véleményező bizottság első ülését az elnöke 2019. szeptember 15-ig hívja össze.
 

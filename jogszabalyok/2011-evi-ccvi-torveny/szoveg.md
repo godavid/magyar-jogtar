@@ -217,7 +217,9 @@ vonatkozó szabályokat.
 
 (3) Az egyházi személy fokozott szabálysértési és büntetőjogi védelemben részesül.
 
-12/A. §
+12/A. § (1) A vallási egyesület vallásos szertartást hivatásszerűen végző tagja a vallási egyesület szolgálatában álló, munkaviszonyban vagy egyéb jogviszonyban foglalkoztatott természetes személy.
+
+(2) A vallási egyesület vallásos szertartást hivatásszerűen végző tagjára a 12. § (2) és (3) bekezdését alkalmazni kell.
 
 ### III. Fejezet — A JOGI SZEMÉLYISÉGGEL RENDELKEZŐ VALLÁSI KÖZÖSSÉG ÉS A BELSŐ EGYHÁZI JOGI SZEMÉLY NYILVÁNTARTÁSA
 
@@ -326,6 +328,10 @@ fellebbezéssel élhet.
 - c) képviselőjének nevét, lakóhelyét,
 - d) a képviselet terjedelmét és módját, és
 - e) ha a jogi személyiséggel rendelkező vallási közösség ilyennel rendelkezik, címerének és logójának tartalmi leírását.
+
+15/A. § (1) A miniszter a bíróságtól a 14/C. § (2) bekezdése szerint kapott tájékoztatás alapján a jogi személyiséggel rendelkező vallási közösségekről, ingyenesen bárki számára hozzáférhető elektronikus adatbázist vezet.
+
+(2) Az adatbázis nem minősül közhiteles hatósági nyilvántartásnak.
 
 16. § A miniszter az e törvénynek az adott bevett egyház mellékletbe történő felvételére vonatkozó módosítása hatálybalépését követő 30 napon belül a bevett egyházat nyilvántartásba veszi.
 
