@@ -18,17 +18,9 @@ a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásf
 
 8. §
 
-9. § Az Ehtv. II/A. Fejezete a következő 12/A. §-sal egészül ki:
+9. §
 
-„12/A. § (1) A vallási egyesület vallásos szertartást hivatásszerűen végző tagja a vallási egyesület szolgálatában álló, munkaviszonyban vagy egyéb jogviszonyban foglalkoztatott természetes személy.
-
-(2) A vallási egyesület vallásos szertartást hivatásszerűen végző tagjára a 12. § (2) és (3) bekezdését alkalmazni kell.”
-
-10. § Az Ehtv. a következő 15/A. §-sal egészül ki:
-
-„15/A. § (1) A miniszter a bíróságtól a 14/C. § (2) bekezdése szerint kapott tájékoztatás alapján a jogi személyiséggel rendelkező vallási közösségekről, ingyenesen bárki számára hozzáférhető elektronikus adatbázist vezet.
-
-(2) Az adatbázis nem minősül közhiteles hatósági nyilvántartásnak.”
+10. §
 
 11. §
 
