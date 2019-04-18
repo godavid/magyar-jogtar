@@ -489,6 +489,9 @@ rendeletben állapítsa meg.
 - a) az üvegházhatást okozó gázok kibocsátási egységei közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai parlamenti és tanácsi irányelvnek,
 - b) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek a Kiotói Jegyzőkönyv projektmechanizmusára tekintettel történő módosításáról szóló, 2004. október 27-i 2004/101/EK európai parlamenti és tanácsi irányelvnek és
 - c) a 2003/87/EK irányelvnek az üvegházhatású gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének továbbfejlesztése és kiterjesztése tekintetében történő módosításáról szóló, 2009. április 23-i 2009/29/EK európai parlamenti és tanácsi irányelvnek
+- f) a 2003/87/EK irányelvnek a hatály légiközlekedési tevékenységekre vonatkozó jelenlegi korlátozásainak fenntartása és egy piaci alapú globális intézkedés 2021-től történő bevezetésének előkészítése céljából történő módosításáról szóló, 2017. december 13-i 2017/2392/EU európai parlamenti és tanácsi rendelet,
+- g) a földhasználathoz, a földhasználat-változtatáshoz és az erdőgazdálkodáshoz kapcsolódó üvegházhatásúgáz-kibocsátásnak és -elnyelésnek a 2030-ig tartó időszakra vonatkozó éghajlat- és energiapolitikai keretbe történő beillesztéséről, valamint az 525/2013/EU rendelet és az 529/2013/EU határozat módosításáról szóló, 2018. május 30-i 2018/841/EU európai parlamenti és tanácsi rendelet,
+- h) a Párizsi Megállapodásban vállalt kötelezettségek teljesítése érdekében a tagállamok által 2021-től 2030-ig kötelezően teljesítendő, az éghajlat-politikai fellépéshez hozzájáruló éves üvegházhatásúgázkibocsátás-csökkentések meghatározásáról, valamint az 525/2013/EU rendelet módosításáról szóló, 2018. május 30-i 2018/842/EU európai parlamenti és tanácsi rendelet
 
 való megfelelést szolgálja.
 

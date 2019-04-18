@@ -12,7 +12,9 @@ a közbeszerzésekről szóló 2015. évi CXLIII. törvény módosításáról
 
 5. §
 
-6. §
+6. § A Kbt. „Az ajánlatkérőkre vonatkozó közös szabályok” című alcíme a következő 27/A. §-sal egészül ki:
+
+„27/A. § Az ajánlatkérő – kivéve az 5. § (2)–(4) bekezdése szerinti ajánlatkérőt – köteles fogadni és feldolgozni az olyan elektronikus számlákat, amelyek megfelelnek az EN 16931-1:2017 számú európai szabványnak és az Európai Bizottság által e szabványhoz az Európai Unió Hivatalos Lapjában közzétett szintaxislistának.”
 
 7. §
 
