@@ -570,6 +570,8 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 (5) Az ajánlatkérő nevében az eljárást lezáró döntést meghozó személy nem lehet a bírálóbizottság tagja. Testületi döntéshozatal esetén a döntéshozó kizárólag tanácskozási joggal rendelkező személyt delegálhat a bírálóbizottságba. Testületi döntéshozatal esetében név szerinti szavazást kell alkalmazni.
 
+27/A. § Az ajánlatkérő – kivéve az 5. § (2)–(4) bekezdése szerinti ajánlatkérőt – köteles fogadni és feldolgozni az olyan elektronikus számlákat, amelyek megfelelnek az EN 16931-1:2017 számú európai szabványnak és az Európai Bizottság által e szabványhoz az Európai Unió Hivatalos Lapjában közzétett szintaxislistának.
+
 ### Az eljárás előkészítése
 
 28. § (1) Az ajánlatkérő köteles a közbeszerzési eljárást – a beszerzés tárgyára és becsült értékére tekintettel – megfelelő alapossággal előkészíteni. Az ajánlatkérő által rendelkezésre bocsátott közbeszerzési dokumentumoknak biztosítaniuk kell, hogy az eljárásban a gazdasági szereplők képesek legyenek műszakilag megfelelő, fizikailag megvalósítható és gazdasági szempontból reális ajánlatot adni. Az ajánlatkérőnek már a közbeszerzési eljárás előkészítése során törekednie kell a magas minőségű teljesítés feltételeinek biztosítására, a környezet – beszerzés tárgyára tekintettel biztosítható – védelmére és a fenntarthatósági szempontok figyelembevételére, valamint a beszerzés tárgyát érintő szerződésmódosítások megelőzésére. Az ajánlatkérő alkalmazhatja az értékelemzés módszerét is.
