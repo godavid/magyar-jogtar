@@ -46,6 +46,8 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 2. § A Nemzeti Földalapba tartozó földrészlet hasznosítására és nyilvántartására, a Nemzeti Földalap feletti tulajdonosi jogok gyakorlására az e törvényben foglaltakat kell alkalmazni.
 
+2/A. § A Nemzeti Földalapba tartozó földrészlet vagyonkezelésbe adását törvény elrendelheti az abban meghatározott szervezet részére. A törvényben kell rendelkezni a vagyonkezelésbe adás és a vagyonkezelői jog gyakorlásának feltételeiről.
+
 3. § (1) A Nemzeti Földalap felett a Magyar Állam nevében a tulajdonosi jogokat és kötelezettségeket az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) a Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA) útján gyakorolja. A Nemzeti Földalappal kapcsolatos polgári jogviszonyokban az államot – törvény eltérő rendelkezése hiányában – az NFA képviseli.
 
 (2) A tulajdonosi jogok gyakorlása kiterjed a tulajdonjoghoz kapcsolódó vagyoni értékű jogok gyakorlására is.
