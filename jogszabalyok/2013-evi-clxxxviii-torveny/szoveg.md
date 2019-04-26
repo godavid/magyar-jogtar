@@ -97,7 +97,7 @@ színárnyalatot kell használni.
 
 számlát (a továbbiakban: akadálymentes számla) – az eredeti számlával azonos adattartalommal – kiállítani és a fogyasztó számára az eredeti számlával egyidejűleg továbbítani.
 
-(2) Az (1) bekezdés szerinti kérelemben fel kell tüntetni, hogy a kérelem az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 5. § (1) bekezdés a) pontja szerinti hozzájárulásának minősül a fogyasztó – az akadálymentes számla elkészítéséhez szükséges – adatainak kezeléséhez.
+(2) A villamos energia és a földgáz egyetemes szolgáltató, valamint a távhőszolgáltató, a víziközmű-szolgáltató és a hulladékgazdálkodási közszolgáltató (e bekezdés alkalmazásában a továbbiakban együtt: szolgáltató) az akadálymentes számla kiállítását megtagadhatja, ha a fogyasztó az (1) bekezdés szerinti kérelemével egyidejűleg a fogyatékosságának tényét – fogyatékosságot igazoló orvosi dokumentációval vagy más hitelt érdemlő módon – nem igazolja. A fogyasztó – a változástól számított 15 napon belül – közli a szolgáltatóval, ha fogyatékossága a továbbiakban nem áll fenn. A közléssel egyidejűleg a szolgáltató a fogyasztó fogyatékosságára utaló adatot a nyilvántartásából törli.
 
 (3) A számlaképre vonatkozóan e törvényben meghatározott formai előírások mellőzhetőek az akadálymentes számla kiállítása során.
 

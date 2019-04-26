@@ -15,7 +15,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - e) munkabér: a munkaviszonyra tekintettel munkaviszonyra vonatkozó szabály alapján járó munkabér és bérpótlék, továbbá a jogszabály alapján járó illetmény, illetménypótlék, illetménykiegészítés és tizenharmadik havi illetmény, a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvényben, a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvényben, az igazságügyi alkalmazottak szolgálati viszonyáról szóló 1997. évi LXVIII. törvényben foglalt javadalmazás, továbbá a munkaviszonyra vonatkozó szabályban megállapított egyéb pénzbeli juttatás;
 - f) munkahely: a munkavédelemről szóló 1993. évi XCIII. törvény 87. § 5. pontjában meghatározott munkahely, kivéve a bedolgozó, illetve a távmunkát végző munkavégzés céljára szolgáló lakóhelye vagy a munkavégzés céljára biztosított más lakóhelyisége, továbbá a magánszemély munkáltató – egyéni vállalkozó székhelyének nem minősülő – lakóhelye;
 - g) a munkaszerződés lényeges tartalmi eleme: a 3. § (1) bekezdés a) pontjának alkalmazásában az alapbér, a munkakör, a munkahely (munkavégzés helye), valamint a munkaidő;
-- h) munkaviszony: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó munkaviszony, továbbá a közszolgálati jogviszony, az állami szolgálati jogviszony, a kormányzati szolgálati jogviszony, a közalkalmazotti jogviszony, a bírói és igazságügyi szolgálati, valamint az ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját és a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját –, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszony, valamint a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú katonák szolgálati viszonya;
+- h) munkaviszony: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó munkaviszony, továbbá a közszolgálati jogviszony, az állami szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony, a kormányzati szolgálati jogviszony, a közalkalmazotti jogviszony, a bírói és igazságügyi szolgálati, valamint az ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját és a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját –, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony, a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú katonák szolgálati viszonya, valamint a honvédelmi alkalmazottak jogállásáról szóló törvény hatálya alá tartozó honvédelmi alkalmazotti jogviszony;
 - i) munkáltató: az a természetes vagy jogi személy, aki természetes személyt munkaviszony keretében foglalkoztat.
 
 (2) E törvény hatálya a munkaügyi hatósági ellenőrzésre (a továbbiakban: munkaügyi ellenőrzés) és a munkaügyi hatóság által a munkaügyi ellenőrzés alapján indított munkaügyi hatósági eljárásra terjed ki.
@@ -57,7 +57,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 (3) Különös hatáskörű munkaügyi hatóság:
 
 - a) a bányafelügyelet, a bányászatról szóló 1993. évi XLVIII. törvény hatálya alá tartozó bányavállalkozók és bányaüzemek, illetve a bányafelügyelet felügyelete alá tartozó tevékenységek vonatkozásában;
-- b) a honvédelmi munkaügyi hatóság, a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes építési munkahely, a Katonai Nemzetbiztonsági Szolgálat, valamint azon gazdasági társaságok vonatkozásában, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter;
+- b) a honvédelmi munkaügyi hatóság, a honvédelmi szervezet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, ideiglenes építési munkahely, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó honvédségi szervezetnek nem minősülő köznevelési intézmény, valamint azon gazdasági társaságok vonatkozásában, amelyeknél az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja;
 - c) a rendvédelmi munkaügyi hatóság, a rendvédelmi szervek – a d) pontban meghatározott szervek kivételével – és az önkormányzati tűzoltóság vonatkozásában,
 - d) a büntetés-végrehajtási munkaügyi hatóság, a büntetés-végrehajtási intézetekben fogvatartottak munkavégzése vonatkozásában.
 
@@ -98,6 +98,8 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - t) megtartásának ellenőrzésére, valamint a munkaügyi ellenőrzés alapján induló munkaügyi hatósági eljárásra terjed ki.
 
 (1a) A munkaügyi hatóság hatásköre kiterjed a más EGT-állam területén határokon átnyúló szolgáltatást nyújtó, Magyarországon letelepedett foglalkoztató tekintetében – a szolgáltatás-nyújtással érintett EGT-állam hatósága részéről érkezett megkeresés teljesítéséhez szükséges mértékben – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottak szerint a foglalkoztató tevékenységével, az általa foglalkoztatott munkavállalók foglalkoztatási jogviszonyával kapcsolatos adatok beszerzésére.
+
+(1b) Az (1a) bekezdés szerinti adatok kezelése során a munkaügyi hatóság a 8/D. §-ban foglaltak szerint jár el.
 
 (2) A munkaügyi hatóság hatásköre az (1) bekezdés g) pontja tekintetében az 1. § (1) bekezdés e) pontja szerinti munkabérre, illetve az Mt. 136. §-ában és 137. §-ában, 138. § (4)–(6) bekezdésében, 139–145. §-ában, 146. § (1)–(3) bekezdésében, 147. §-ában, 153–165. §-ában foglalt rendelkezések megtartásának ellenőrzésére terjed ki.
 
@@ -323,7 +325,7 @@ végleges közigazgatási határozattal megállapította.
 
 (7) A munkaügyi hatóság a nyilvántartásban szereplő adatokat a bejegyzés alapjául szolgáló határozat véglegessé válásának napjától számított két év elteltével törli.
 
-(8) A munkaügyi hatóság az Flt. 57/A. § (2) bekezdése alapján kezelt adatokból – az ellenőrzési tevékenysége keretében – hatósági hozzáférést biztosító kód alkalmazásával, elektronikusan kérhet tájékoztatást.
+(8) A munkaügyi hatóság az Flt. 57/A. § (1) bekezdése alapján kezelt adatokból – az ellenőrzési tevékenysége keretében – hatósági hozzáférést biztosító kód alkalmazásával, elektronikusan kérhet tájékoztatást.
 
 8/A. § (1) Felügyeleti eljárás keretében a kötelezettséget megállapító döntés véglegessé válásától vagy ha a teljesítési határidő hosszabb, annak utolsó napjától számított egy év elteltével munkaügyi döntés megváltoztatásának, illetve megsemmisítésének nincs helye.
 
@@ -378,18 +380,24 @@ végleges közigazgatási határozattal megállapította.
 
 (7) A munkaügyi hatóság nyilvántartásba-vételi és közzétételi kötelezettségét nem érinti, ha a foglalkoztató végleges hatósági határozatban vagy jogerős bírósági határozattal elbírált hatósági határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
 
-8/D. § (1) A szolgáltatási tevékenység megkezdésének és folytatásának szabályairól szóló törvény hatálya alá tartozó, a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatót a (2) és (3) bekezdésben meghatározottak szerinti nyilatkozattételi és adatszolgáltatási kötelezettség terheli.
+8/D. § (1) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény hatálya alá tartozó, a szabad szolgáltatásnyújtás jogával rendelkező külföldi munkáltatót – a 2. mellékletben meghatározott adattartalommal – a (3) és (4) bekezdésben meghatározottak szerinti nyilatkozattételi és adatszolgáltatási kötelezettség terheli.
 
-(2) A nyilatkozattételi és adatszolgáltatási kötelezettség az (1) bekezdés szerinti külföldi munkáltatót abban az esetben terheli, ha a határokon átnyúló szolgáltatásnyújtás teljesítéséhez Magyarország területén az Mt. 295. § szerinti munkavállalót foglalkoztat vagy kíván foglalkoztatni.
+(2) Az (1) bekezdés szerint szolgáltatott adatok tekintetében az adatkezelést a munkaügyi hatóság végzi, a határokon átnyúló szolgáltatásnyújtás keretében történő kiküldetéséről szóló európai uniós irányelvek érvényesítéséből, valamint a belső piaci információs rendszer keretében történő igazgatási együttműködésből eredő kötelezettségek teljesítése céljából.
 
-(3) Az (1) bekezdés szerinti külföldi munkáltató – legkésőbb a szolgáltatásnyújtási tevékenység megkezdésekor – magyar vagy angol nyelven nyilatkozatot köteles tenni a 2. § (2) bekezdése szerinti munkaügyi hatósághoz. A nyilatkozatot a munkaügyi hatóság által erre a célra rendszeresített elektronikus felületen, a 2. melléklet szerinti adattartalommal kell megtenni.
+(3) A nyilatkozattételi és adatszolgáltatási kötelezettség az (1) bekezdés szerinti külföldi munkáltatót abban az esetben terheli, ha a határokon átnyúló szolgáltatásnyújtás teljesítéséhez Magyarország területén az Mt. 295. §-a szerinti munkavállalót foglalkoztat vagy kíván foglalkoztatni.
 
-(4) Ha az ellenőrzés során a munkaügyi hatóság azt észleli, hogy a külföldi munkáltató a nyilatkozattételi és adatszolgáltatási kötelezettségének nem vagy hiányosan tett eleget, vagy a valóságnak nem megfelelő adatot szolgáltatott,
+(4) Az (1) bekezdés szerinti adatszolgáltatást a külföldi munkáltatónak legkésőbb a szolgáltatásnyújtási tevékenység megkezdéséig magyar vagy angol nyelven tett nyilatkozattal a 2. § (2) bekezdése szerinti munkaügyi hatósághoz kell teljesítenie. A nyilatkozatot – a 2. mellékletben meghatározott adattartalommal – a munkaügyi hatóság által erre a célra rendszeresített elektronikus felületen kell megtenni. A munkaügyi hatóság az elektronikus felületen részletes tájékoztatást nyújt a személyes adatok kezelésével kapcsolatban.
 
-- a) a külföldi munkáltatót a hiányosság megszüntetésére kötelezi, és közigazgatási bírságot szab ki,
+(5) A munkaügyi hatóság az adatokat az elektronikus felületen történő benyújtás napjától számított 3 évig kezeli.
+
+(6) A munkaügyi hatóság a részére szolgáltatott adatokat kizárólag valamely tagállam illetékes hatóságának a megkeresése alapján, kizárólag abban az ügyben adhatja ki, amellyel kapcsolatban azokat kikérték.
+
+(7) Ha az ellenőrzés során a munkaügyi hatóság azt észleli, hogy az (1) bekezdés szerinti külföldi munkáltató a nyilatkozattételi és adatszolgáltatási kötelezettségének nem vagy hiányosan tett eleget, vagy a valóságnak nem megfelelő adatot szolgáltatott,
+
+- a) az (1) bekezdés szerinti külföldi munkáltatót a hiányosság megszüntetésére kötelezi és közigazgatási bírságot szab ki,
 - b) tájékoztatja a szolgáltatás felügyeletét ellátó hatóságot.
 
-(5) A (4) bekezdés a) pontja szerinti bírság mértéke harmincezer forint. A bírság ismételten is kiszabható.
+(8) A (7) bekezdés a) pontja szerinti bírság mértéke harmincezer forint. A bírság ismételten is kiszabható.
 
 8/E. § (1) A munkaügyi hatóság a kölcsönös segítségnyújtás és kölcsönös elismerés elve alapján kezdeményezi a más EGT-államban letelepedett szolgáltatóval szemben a munkavállalók kiküldésére vonatkozó szabályok megsértése miatt munkaügyi bírságot megállapító határozatának végrehajtását a letelepedés helye szerint illetékes hatóságánál. A megkeresésnek a 3. melléklet szerint adatokat kell tartalmaznia.
 
@@ -441,6 +449,44 @@ végleges közigazgatási határozattal megállapította.
 
 (6) A külföldi határozat magyarországi végrehajtása során felmerült költségeket a végrehajtást foganatosító végrehajtást foganatosító hatóság maga viseli és azokat a végrehajtás során befolyt követelés terhére számolja el.
 
+8/H. § (1) A munkaügyi hatóság az e törvényben meghatározott feladatainak ellátása érdekében nyilvántartást vezet a (2) bekezdés szerint részére átadott adatokról. A nyilvántartás tartalmazza:
+
+- a) a foglalkoztatott személy
+  - aa) természetes személyazonosító adatait,
+  - ab) állampolgárságát, bevándorolt, letelepedett, menekült vagy oltalmazott jogállását,
+  - ac) lakcímét (lakóhelyét, tartózkodási helyét) és értesítési címét,
+  - ad) foglalkozását, munkahelyét, munkakörét (tevékenységét),
+  - ae) heti munkaidejét,
+  - af) iskolai végzettségét, szakképzettségét,
+  - ag) jövedelmére vonatkozó adatokat,
+  - ah) TAJ-számát, adóazonosító jelét,
+  - ai) iskolaszövetkezeti tagi jogviszonya esetén diákigazolványa számát,
+  - aj) közérdekű nyugdíjas szövetkezeti tagsága esetén a nyugdíjfolyósítási törzsszámát;
+- b) a foglalkoztató
+  - ba) azonosító adatait (név, cím, székhely, telephely)
+  - bb) gazdálkodási formáját,
+  - bc) adószámát vagy adóazonosító jelét,
+  - bd) pénzforgalmi jelzőszámát.
+
+(2) A munkaügyi és munkavédelmi ellenőrzési rendszer hatékony működésének biztosítása céljából az állami adóhatóság az (1) bekezdés szerinti adatokat
+
+- a) a biztosítási jogviszonnyal kapcsolatos bejelentési kötelezettségre vonatkozóan az adózás rendjéről szóló törvény szerint,
+- b) az egyszerűsített foglalkoztatásra irányuló jogviszonnyal kapcsolatos bejelentési kötelezettségre vonatkozóan az egyszerűsített foglalkoztatásról szóló törvény szerint,
+- c) a háztartási munkával bejelentésére vonatkozóan az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény szerint,
+- d) az iskolaszövetkezet és a közérdekű nyugdíjas szövetkezet tagjára vonatkozóan az adózás rendjéről szóló törvény szerint
+
+adja át a munkaügyi hatóság részére.
+
+(3) A munkaügyi hatóság más szerv és természetes személy részére adatot csak törvényben meghatározott módon szolgáltathat.
+
+(4) A bíróságok, az ügyészségek, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok – feladataik ellátása érdekében, a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén – e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
+
+(5) A munkavédelmi hatóság az (1) bekezdés szerinti nyilvántartásba az ellenőrzéséhez szükséges mértékben betekinthet.
+
+(6) A munkaügyi hatóság az (1) bekezdés szerinti adatot a részére történt átadástól számított ötven év elteltével törli a nyilvántartásból.
+
+(7) A (6) bekezdésben foglaltak megfelelően irányadók az Flt. 57/B.–57/D. § 2004. május 1-je és 2006. december 31-e között hatályos rendelkezése szerint a munkaügyi hatóság által kezelt adatokra.
+
 9. § (1) E törvény a kihirdetését követő 30. napon lép hatályba, rendelkezéseit a hatálybalépést követően indult ügyekben kell alkalmazni.
 
 (2) Az (1) bekezdéstől eltérően munkaügyi bírság kiszabása csak az e törvény hatálybalépése után elkövetett jogszabálysértés esetén lehetséges.
@@ -453,13 +499,15 @@ végleges közigazgatási határozattal megállapította.
 
 (5a) Felhatalmazást kap a Kormány, hogy a büntetés-végrehajtási intézetekben fogvatartottak tekintetében rendeletben jelölje ki a büntetés-végrehajtási munkaügyi hatósági jogkör gyakorlóját.
 
-(5b) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a munkaügyi hatósági jogkör gyakorlóját a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél és ideiglenes építési munkahelynél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó honvédségi szervezetnek nem minősülő köznevelési intézménynél, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter (a továbbiakban együtt: honvédelmi foglalkoztatók), valamint a honvédelmi foglalkoztatók tekintetében a munkaügyi ellenőrzés eljárási szabályait rendeletben határozza meg.
+(5b) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a munkaügyi hatósági jogkör gyakorlóját a honvédelmi szervezetnél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél és ideiglenes építési munkahelynél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó honvédségi szervezetnek nem minősülő köznevelési intézménynél, valamint azon gazdasági társaságok vonatkozásában, amelyeknél az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja (a továbbiakban együtt: honvédelmi foglalkoztatók), továbbá arra, hogy a honvédelmi foglalkoztatók tekintetében a munkaügyi ellenőrzés eljárási szabályait rendeletben határozza meg.
 
 (6) Felhatalmazást kap
 
 - a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi foglalkoztatók tekintetében a 2/A. §, 3. § és a 6. § alkalmazásának eltérő szabályait, valamint az ellenőrzés speciális eszközeit,
 - b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a rendvédelmi szerveknél és az önkormányzati tűzoltóság vonatkozásában a rendvédelmi munkaügyi hatóság kijelölését,
 - c) a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkaügyi ellenőrzés eljárási szabályait, valamint a 2/A. §, 3. § és 6. § alkalmazásának eltérő szabályait.
+
+(7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben állapítsa meg a 8/H. § (1) bekezdése szerint nyilvántartott adatokhoz való hozzáférés biztosításának rendjét és azok használatának részletes szabályait.
 
 9/A. §
 

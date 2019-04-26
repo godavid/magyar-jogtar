@@ -109,6 +109,8 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (4) Az üzletekben jól látható és könnyen hozzáférhető helyen a kereskedelmi hatóság által hitelesített, folyamatosan számozott oldalú vásárlók könyvét kell elhelyezni. A vásárlók a vásárlók könyvébe bejegyezhetik az üzlet működésével, továbbá az ott folytatott kereskedelmi tevékenységgel kapcsolatos panaszaikat és javaslataikat. A vásárlót e jogának gyakorlásában megakadályozni vagy befolyásolni tilos.
 
+(4a) Más vásárlók által a vásárlók könyvébe bejegyzett személyes adatok megismerése lehetőségének kizárása céljából a vásárlók könyvéből a kereskedő a bejegyzést követően haladéktalanul eltávolítja a (4) bekezdés szerint panaszt vagy javaslatot tartalmazó oldalt, azt elzártan – a folyamatos sorszámozás rendjének megfelelően – megőrzi és a hatóság felszólítására rendelkezésre bocsátja.
+
 (5) A vásárlók könyvét a használatba vétel előtt a kereskedelmi hatóság hitelesíti, feltüntetve a vásárlók könyve megnyitásának időpontját.
 
 5/A. § A napi fogyasztási cikket értékesítő új üzlet működését akkor kezdheti meg, ha biztosítja az országos településrendezési és építési követelményekről szóló kormányrendeletben az árusítótér nagysága alapján meghatározott számú személygépkocsi elhelyezésére szolgáló várakozóhelyet, és megfelel a járművek elhelyezésével kapcsolatos szabályoknak.

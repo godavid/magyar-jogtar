@@ -134,7 +134,7 @@ nincs helye.
 
 (3) Az OBH elnöke a nyilvántartás adatait és az azokban bekövetkezett változásokat – a nyilvántartásba bejegyzett általános meghatalmazásoknak az elektronikus ügyintézés és bizalmi szolgáltatások általános szabályairól szóló törvény szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) történő feltüntetése céljából – automatikus információátadás útján átadja a rendelkezési nyilvántartást vezető szervnek.
 
-(4) A nyilvántartás adatait az OBH elnöke az adat nyilvántartásból történő törlését követő öt évig tartja nyilván, majd haladéktalanul gondoskodik azoknak az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Info tv.) szerinti végleges törléséről.
+(4) A nyilvántartás adatait az OBH elnöke az adat nyilvántartásból történő törlését követő öt évig tartja nyilván, majd haladéktalanul gondoskodik azok végleges törléséről.
 
 (5) A nyilvántartásban kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
 
@@ -158,7 +158,7 @@ nincs helye.
 
 (2) A felhatalmazás jogosultjának személyéről, hozzáférési jogosultságának terjedelméről és feltételeiről, valamint az abban bekövetkezett változásról az adatok megismerésére és kezelésére jogosult szerv – a felhatalmazás kiadását, változását követően haladéktalanul – értesíti az OBH elnökét.
 
-17. § (1) A nyilvántartásból teljesített adatszolgáltatásokról az Info tv.-ben meghatározott adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás az Info tv.-ben meghatározottakon kívül tartalmazza az adatkezelő nyilvántartási azonosítóját és az adattovábbítás célját is.
+17. § (1) A nyilvántartásból teljesített adatszolgáltatásokról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából az adatkezelési tevékenységek nyilvántartása részeként adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás a kezelt személyes adatok továbbításának időpontját, az adattovábbítás jogalapját és címzettjét, a továbbított személyes adatok körének meghatározását, és az adattovábbítás célját tartalmazza.
 
 (2) Az adattovábbítási nyilvántartást az OBH elnöke vezeti.
 

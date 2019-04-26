@@ -55,8 +55,8 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 - d) kiegészítő vállalkozási tevékenység: a pénztár szervezetében folytatott mindazon gazdálkodási tevékenység, amelyet az alaptevékenységként megjelölt szolgáltatások szervezéséhez és nyújtásához kapcsolódóan, arra visszahatóan, a pénztár szolgáltatási kötelezettségén felül, ellenszolgáltatás fejében nyújt;
 - e) kihelyezés: a pénztár feladatkörébe tartozó tevékenységének e tevékenység ellátásával üzletszerűen foglalkozó szervezet (szolgáltató) által, szerződés alapján történő megvalósítása,
 - f) kiszervezés: tevékenység olyan kihelyezése, melynek során adatkezelés vagy adatfeldolgozás is megvalósul,
-- g) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatkezelési tevékenység,
-- h) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatfeldolgozási tevékenység,
+- g)
+- h)
 - i) tagszervezői tevékenység: a pénztári tagsági jogviszony (a továbbiakban: tagsági jogviszony) létrehozására irányuló rendszeres, üzletszerű tevékenység. E tevékenység kiterjed a tagsági jogviszony létrehozatalának elősegítésére, pénztári termékek ismertetésére, ajánlására, az ezzel kapcsolatos felvilágosításra, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott kötelezettségek teljesítésére, illetve a tagsági jogviszony létrehozatalában, a tagsági jogviszonyt érintő adat- és egyéb módosítási igények – így különösen személyi adatváltozás, portfólióváltás, kedvezményezett jelölés, tagdíjmódosítás –, valamint a kifizetési igények felvételére és a pénztár részére való továbbítására, továbbá a tagsági jogviszonyból fakadóan a pénztártagot megillető kifizetések igénylésében való közreműködésre.
 
 (5) E törvény alkalmazásában a kiegészítő nyugdíjpénztárnál
@@ -847,7 +847,7 @@ kell helyezni.
 - f) a hagyatéki ügyben eljáró közjegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - g) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 - h) a büntető-, valamint polgári ügyben, továbbá a csőd-, felszámolási eljárás és a helyi önkormányzatok adósságrendezési eljárása keretében a bírósággal,
-- i) a gazdálkodás nyilvántartásához szükséges adatok tekintetében a gazdálkodás nyilvántartását végző szolgáltatóval, továbbá a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
+- i) a gazdálkodás nyilvántartásához szükséges adatok tekintetében a gazdálkodás nyilvántartását végző szolgáltatóval, a pénztár könyvvizsgálatát végző könyvvizsgálóval, továbbá a kiszervezett tevékenység végzéséhez szükséges adatok tekintetében a kiszervezett tevékenységet végzővel,
 - j) az adókötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében, valamint a pénztári befizetések kedvezménye tekintetében eljáró adóhatósággal,
 - k) a Gazdasági Versenyhivatallal,
 - l) külön törvényben meghatározott feltételek megléte esetén az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések foganatosításáért felelős szervvel,

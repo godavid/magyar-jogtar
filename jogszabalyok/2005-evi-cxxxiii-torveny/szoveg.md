@@ -251,17 +251,7 @@ E törvény célja, hogy – a közrend, a közbiztonság javítása, s ezek ré
 
 (3) Az e törvény hatálya alá tartozó tevékenységet folytató a harmadik személyről a szerződés teljesítése során e törvény alapján jogszerűen tudomására jutott, a szerződés szerinti ügyben érintett személyes adatokról csak a megbízottat tájékoztathatja, kivéve, ha – figyelemmel az (1) bekezdés szerinti titoktartási kötelezettségre – bírósági vagy más hatósági eljárásban tanúként hallgatják meg.
 
-23. § (1) Az e törvény hatálya alá tartozó tevékenységet végző személy a szerződés teljesítése során tudomására jutott és rögzített személyes adatokat a szerződés szerint csak olyan felhasználási célból kezelhet, amely törvényben védett érdek biztosítására szolgál, illetve csak olyan módon kezelhet, amely e célok megvalósításához elengedhetetlenül szükséges mértékű és az információs önrendelkezési jog e cél elérésével arányos korlátozásával jár.
-
-(2) Az e törvény hatálya alá tartozó tevékenységet végző személy a szerződés teljesítése során tudomására jutott és rögzített személyes adatokat – a 31. § (2) és (4) bekezdéseiben, valamint a 32. § (3) bekezdésében szabályozott kivételekkel –
-
-- a) a szerződés szerinti felhasználási cél teljesülését,
-- b) ha az adat a szerződésben foglaltak teljesítéséhez már nem szükséges vagy arra alkalmatlan, annak megállapítását,
-- c) legkésőbb a szerződés megszűnését
-
-követő hat hónap elteltével köteles megsemmisíteni.
-
-(3) Az e törvény hatálya alá tartozó tevékenységet folytató köteles haladéktalanul törölni mindazon személy általa megismert és rögzített adatait, akik a szerződés szerinti ügyben nem érintettek.
+23. §
 
 24. § (1) Több megbízó érdekében a vállalkozás csak akkor járhat el, ha azok érdekei nem ellentétesek. Olyan megbízást, amely a korábbi megbízó érdekeit sértheti, csak akkor teljesíthet, ha a korábbi szerződés megszűnésétől számított három év már eltelt.
 
@@ -320,71 +310,24 @@ követő hat hónap elteltével köteles megsemmisíteni.
 - a) a 26. § (1) bekezdésben meghatározott intézkedésekről, azok lehetőségéről;
 - b) a területre bevinni tilos tárgyakról, azok jellegéről;
 - c) arról a tényről, hogy az adott területen elektronikus megfigyelőrendszert alkalmaznak (térfigyelés);
-- d) az elektronikai vagyonvédelmi rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá az információs önrendelkezési jogról és az információszabadságról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről;
+- d) az elektronikai vagyonvédelmi rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezésekről;
 - e) a vagyonőr intézkedései által okozott jogsérelem esetén igénybe vehető eljárásokról.
 
-29. § (1) A 26–28. §-okban szabályozott intézkedések végrehajtása során a vagyonőrnek biztosítania kell, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
+29. § (1)
 
 (2) Ha a megbízó meghatározott dolgoknak a közterületnek nem minősülő létesítményébe, területére, illetve zárt területen vagy helyen tartott rendezvényére való bevitelét megtiltja, biztosítani kell ezen dolgok biztonságos és harmadik személytől elzárt tárolását.
 
-30. § (1) A vagyonőr az elektronikus megfigyelőrendszer működése útján kép-, hang-, valamint kép- és hangfelvételt a kötelezettségeit meghatározó szerződés keretei között, a szerződésből fakadó kötelezettségei teljesítése céljából, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatvédelmi jogok érvényesítése mellett, illetve e törvényben meghatározott korlátozó rendelkezések betartásával készíthet, illetve kezelhet. E tevékenysége során vagyonőrzési feladatokat ellátó személy adatkezelőnek minősül.
+30. § (1)
 
-(2) A vagyonőr elektronikus megfigyelőrendszert kizárólag magánterületen, illetve a magánterületnek a közönség számára nyilvános részén alkalmazhat, ha ehhez a természetes személy kifejezetten hozzájárul. A hozzájárulás ráutaló magatartással is megadható. Ráutaló magatartás különösen, ha az ott tartózkodó természetes személy a magánterület közönség számára nyilvános részén a 28. § (2) bekezdésében foglaltaknak megfelelően elhelyezett ismertetés ellenére a területre bemegy, kivéve, ha a körülményekből egyértelműen más következik.
+(2) A vagyonőr elektronikus megfigyelőrendszert kizárólag magánterületen alkalmazhat.
 
 (3) Nem alkalmazható elektronikus megfigyelőrendszer olyan helyen, ahol a megfigyelés az emberi méltóságot sértheti, így különösen öltözőben, próbafülkében, mosdóban, illemhelyen, kórházi szobában és szociális intézmény lakóhelyiségében.
 
-(4) A vagyonőr a távfelügyeleti rendszer, adat- és informatikai védelemre irányuló biztonságtechnikai rendszer működése körében adatot a kötelezettségeit meghatározó szerződés keretei között, a szerződésből fakadó kötelezettségei teljesítése céljából, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatvédelmi jogok érvényesítése mellett, illetve e törvényben meghatározott korlátozó rendelkezések betartásával rögzíthet, illetve használhat fel. Ezen adatok kezelésére egyebekben a 31. §-ban foglaltak irányadók. E tevékenysége során vagyonőrzési feladatokat ellátó személy adatkezelőnek minősül.
+(4)
 
-31. § (1) Az elektronikus megfigyelőrendszernek kép-, hang-, vagy kép- és hangrögzítést is lehetővé tevő formája az emberi élet, testi épség, személyi szabadság védelme, a veszélyes anyagok őrzése, az üzleti, fizetési, bank- és értékpapírtitok védelme, valamint vagyonvédelem érdekében alkalmazható, ha a megbízás teljesítése során fennálló körülmények valószínűsítik, hogy a jogsértések észlelése, az elkövető tettenérése, illetve e jogsértő cselekmények megelőzése, azok bizonyítása más módszerrel nem érhető el, továbbá e technikai eszközök alkalmazása elengedhetetlenül szükséges mértékű, és az információs önrendelkezési jog aránytalan korlátozásával nem jár.
+31. § Az elektronikus megfigyelőrendszer működése útján rögzített kép-, hang-, valamint kép- és hangfelvétel megismerésének okát és idejét, valamint a megismerő személyét jegyzőkönyvben kell rögzíteni. Az ezen adatokat igazolható módon tartalmazó elektronikus nyilvántartás is jegyzőkönyvnek minősül.
 
-(2) A rögzített kép-, hang-, valamint kép- és hangfelvételt felhasználás hiányában legfeljebb a rögzítéstől számított három munkanap elteltével meg kell semmisíteni, illetve törölni kell.
-
-(3) A rögzített kép-, hang, valamint kép- és hangfelvételt felhasználás hiányában legfeljebb a rögzítéstől számított harminc nap elteltével meg kell semmisíteni, illetve törölni kell, ha a rögzítésre
-
-- a) nyilvános rendezvényen az emberi élet, testi épség, személyi szabadság védelme,
-- b) nyilvános rendezvényen, közforgalmú közlekedési eszköz állomásán, megállóhelyén (pl. vasútállomáson, repülőtéren, metrómegállóban) terrorcselekmény és közveszélyokozás megelőzése,
-- c) a Büntető Törvénykönyvről szóló törvény szerint legalább jelentős értékű pénz, értékpapír, nemesfém, drágakő biztonságos tárolása, kezelése, szállítása
-- d) a veszélyes anyagok őrzése
-
-érdekében kerül sor.
-
-(4) A rögzített kép-, hang, valamint kép- és hangfelvételt felhasználás hiányában legfeljebb a rögzítéstől számított hatvan nap elteltével meg kell semmisíteni, illetve törölni kell, ha a rögzítés célja
-
-- a) a pénzügyi szolgáltatást, kiegészítő pénzügyi szolgáltatást,
-- b) jelzálog-hitelintézeti tevékenységet,
-- c) befektetési szolgáltatási, tőzsdei tevékenységet,
-- d) értékpapírok letéti őrzését, értékpapír letétkezelését,
-- e) elszámolóházi tevékenységet,
-- f) biztosítási, biztosításközvetítői, biztosítási szaktanácsadási tevékenységet,
-- g)
-
-folytatóknak a feladataik ellátásához szükséges, közönség számára nyilvános magánterületének védelme.
-
-(5) A (2)–(4) bekezdés szerinti felhasználásnak az minősül, ha a rögzített kép-, hang-, vagy kép- és hangfelvételt, valamint más személyes adatot bírósági vagy más hatósági eljárásban bizonyítékként felhasználják.
-
-(6) Az, akinek jogát vagy jogos érdekét a kép-, hang-, vagy a kép- és hangfelvétel, illetve más személyes adatának rögzítése érinti, a (2), a (3), illetve a (4) bekezdésben foglaltaknak megfelelően a kép-, hang-, valamint kép- és hangfelvétel, illetve más személyes adat rögzítésétől számított három munkanapon, harminc, illetve hatvan napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy az adatot annak kezelője ne semmisítse meg, illetve ne törölje. Bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv vagy más hatóság megkeresésére vagy adatkérésére a rögzített kép-, hang-, valamint kép- és hangfelvételt, valamint más személyes adatot a bíróságnak vagy a hatóságnak haladéktalanul meg kell küldeni. Amennyiben megkeresésre vagy adatkérésre attól számított harminc napon belül, hogy a megsemmisítés mellőzését kérték, nem kerül sor, a rögzített kép-, hang-, valamint kép- és hangfelvételt, valamint más személyes adatot meg kell semmisíteni, illetve törölni kell, kivéve, ha a (3) vagy a (4) bekezdésben foglalt határidő még nem járt le.
-
-(7) A rögzített kép-, hang-, valamint kép- és hangfelvételt, valamint más személyes adatot csak az a személy- és vagyonvédelmi tevékenységet végző személy jogosult megismerni, akinek ez a szerződésből fakadó kötelezettségei érvényesítéséhez szükséges, és a jogsértő cselekmény megelőzése vagy megszakítása érdekében mellőzhetetlen. A rögzített kép-, hang-, valamint kép- és hangfelvételt, valamint személyes adatot kezelő, vagy egyéb okból annak megismerésére jogosult személy- és vagyonvédelmi tevékenységet végző személy nevét, az adatok megismerésének okát és idejét jegyzőkönyvben kell rögzíteni.
-
-32. § (1) Elektronikus beléptető rendszer az erre vonatkozó megbízási szerződés alapján akkor alkalmazható, ha a védett területre jogszabály vagy a terület használatára jogosult rendelkezése szerint csak arra jogosultak léphetnek be, illetőleg tartózkodhatnak ott. Az elektronikus beléptető rendszer működtetéséhez felhasznált személyes adatok kezelése során biztosítani kell az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatvédelmi jogok érvényesülését, valamint tájékoztatást kell elhelyezni az adatkezelő személyéről és az adatok kezelésének módjáról.
-
-(2) A belépésre jogosultaknak az elektronikus beléptető rendszer működtetéséhez kezelt azonosító adatait (nevét és lakcímét)
-
-- a) rendszeres belépés esetén a belépésre való jogosultság megszűnésekor haladéktalanul,
-- b) alkalmi belépés esetén a távozástól számított huszonnégy óra elteltével
-
-meg kell semmisíteni.
-
-(3) Az elektronikus beléptető rendszer működtetése során keletkezett adatokat (pl. a belépés időpontja)
-
-- a) rendszeres belépés esetén a belépésre való jogosultság megszűnésekor, de legkésőbb az adat keletkezésétől számított hat hónap elteltével,
-- b) alkalmi belépés esetén a távozástól számított huszonnégy óra elteltével
-
-meg kell semmisíteni.
-
-(4) A belépési adatbázis adatai csak a megbízó részére, illetve bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés vagy adatkérés alapján a bíróságnak, ügyészségnek, nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
-
-(5) A távfelügyeleti rendszer és az adat- és informatikai védelemre irányuló elektronikai vagyonvédelmi rendszer működése körében rögzített adatok felhasználása és kezelése során a 30. § (1) bekezdésében, valamint a 31. § (2) bekezdésében foglaltak szerint kell eljárni.
+32. § Elektronikus beléptető rendszer az erre vonatkozó megbízási szerződés alapján és akkor alkalmazható, ha jogszabály vagy a terület használatára jogosult rendelkezése szerint a védett területre csak az arra jogosultak léphetnek be.
 
 33. §
 
@@ -394,7 +337,7 @@ meg kell semmisíteni.
 
 - a) adatot gyűjthet, felvilágosítást kérhet;
 - b) az igazolvány bemutatását követően – külön jogszabályokban foglaltak szerint – az ingatlan-nyilvántartásban, az egyéni vállalkozók nyilvántartásában és a cégnyilvántartásban nyilvántartott adatokról kivonatot, másolatot készíthet, ha arra a megbízó kifejezetten felhatalmazta. A megbízó felhatalmazása alapján a polgárok személyi adatainak és lakcímének nyilvántartásából és a közúti közlekedési nyilvántartásból adatszolgáltatást kérhet, ha erre a személyes eljárása esetén a megbízó is jogosult, feltéve, hogy annak szolgáltatását az érintett nem tiltotta meg vagy nem kifogásolta vagy a minősített adat védelméről szóló törvény másként nem rendelkezik;
-- c) kép- és hangfelvételt a kötelezettségeit meghatározó szerződés keretei között, az információs önrendelkezési jogról és az információszabadságról szóló törvény adatvédelmi és személyiségi jogokra vonatkozó szabályai megtartásával készíthet, illetve használhat fel;
+- c) kép- és hangfelvételt a kötelezettségeit meghatározó szerződés keretei között, a személyes adatok védelmére és a személyiségi jogokra vonatkozó szabályok megtartásával készíthet, illetve használhat fel;
 - d) a más részére szóló zárt küldemény tartalmát csak a címzett vagy a feladó előzetes hozzájárulásával ellenőrizheti.
 
 (2) Nem készíthető kép- és hangfelvétel olyan helyen, ahol a megfigyelés az emberi méltóságot sértheti, így különösen öltözőben, próbafülkében, mosdóban, illemhelyen, kórházi szobában és szociális intézmény lakóhelyiségében.
@@ -403,7 +346,7 @@ meg kell semmisíteni.
 
 - a) diplomáciai, konzuli képviseletek, az ezekkel egy tekintet alá eső nemzetközi szervezetek, valamint azok tagjai tevékenységére;
 - b) a Büntető Törvénykönyvről szóló törvény szerinti hivatalos és külföldi hivatalos személy hivatalos tevékenységére;
-- c) természetes személyek személyes és különleges adataira, kivéve, ha a személyes adatok törvény alapján a megbízó számára hozzáférhetőek, illetve, ha az adatgyűjtéssel érintett ehhez – különleges adatai tekintetében – írásban hozzájárul.
+- c)
 
 ### IV. Fejezet — A SZEMÉLY-, VAGYONVÉDELMI ÉS MAGÁNNYOMOZÓI SZAKMAI KAMARA
 
@@ -881,7 +824,7 @@ rendelettel állapítsa meg.
 - b) – az adópolitikáért felelős miniszterrel egyetértésben – e törvény hatálya alá eső tevékenység engedélyezésével és az igazolvány kiadásával kapcsolatos igazgatási szolgáltatási díjra,
 - c) a felelősségbiztosítási szerződésre,
 - d)
-- e) a 31. § (7) bekezdésében meghatározott jegyzőkönyvre,
+- e) a 31. §-ában meghatározott jegyzőkönyvre,
 - f) az e törvényben meghatározott tevékenységek végzéséhez szükséges szakképesítésekre
 
 vonatkozó részletes szabályokról rendeletet alkosson.

@@ -448,7 +448,7 @@ kézbesítettnek kell tekinteni.
 - a) aki a tizennyolcadik életévét betöltötte, és életkora – az e törvényben meghatározott kivételekkel – a hivatásos szolgálat rá irányadó felső korhatáránál legalább tíz évvel kevesebb,
 - b) aki rendelkezik a tervezett szolgálati beosztás besorolási osztálya szerint meghatározott iskolai végzettséggel és szolgálati viszonyra vonatkozó szabályban a szolgálati viszony létesítésének feltételeként meghatározott szakképzettséggel,
 - c) aki a hivatásos szolgálatra és a tervezett szolgálati beosztására egészségi, pszichikai és fizikai szempontból alkalmas,
-- d) akinek életvitele nem kifogásolható, és aki hozzájárul annak a szolgálati viszony létesítését megelőző, valamint a szolgálati viszony fennállása alatti ellenőrzéséhez, továbbá tudomásul veszi, hogy a szolgálati viszony fennállása alatt a hozzájárulás visszavonása szolgálati viszonya törvény erejénél fogva történő megszűnését eredményezi,
+- d) akinek életvitele nem kifogásolható, és aki írásban tudomásul veszi, hogy azt a szolgálati viszony létesítését megelőzően, valamint a szolgálati viszony fennállása alatt ellenőrizhetik, továbbá tudomásul veszi, hogy a szolgálati viszony fennállása alatt az ezzel kapcsolatos nyilatkozat visszavonása a szolgálati viszony törvény erejénél fogva történő megszűnését eredményezi,
 - e) aki elfogadja egyes alapvető jogainak e törvény szerinti korlátozását,
 - f) aki tudomásul veszi, hogy szolgálati viszonyának fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti,
 - g) aki tudomásul veszi és elfogadja a hivatásos szolgálattal járó, szolgálati viszonyra vonatkozó szabályokban meghatározott kötelezettségeket és elvárásokat, valamint
@@ -557,10 +557,12 @@ kézbesítettnek kell tekinteni.
 - a) a hivatásos állomány nemzetbiztonsági ellenőrzés alá eső szolgálati beosztást betöltő tagjával szemben, és a nemzetbiztonsági ellenőrzés alá eső jogviszony fenntartását a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy nem hagyta jóvá, intézkedni kell a hivatásos állomány tagja életvitelének soron kívüli ellenőrzésére;
 - b) a hivatásos állományba jelentkezővel szemben, és a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy nem hagyta jóvá, de a rendvédelmi szerv a jelentkező részére más, nemzetbiztonsági ellenőrzés alá nem eső szolgálati beosztás felajánlását tervezi, intézkedni kell a kifogástalan életvitel-ellenőrzés lefolytatására.
 
+(2a) A hivatásos állomány tagjának 1. mellékletben meghatározott személyes és bűnügyi adatait, valamint a közeli hozzátartozójának a bűnügyi nyilvántartásban kezelt adatait a kifogástalan életvitel ellenőrzését végző szerv a kifogástalan életvitel ellenőrzés céljából megismerheti, ennek tényét előbbi esetben a hivatásos állomány tagja vagy a hivatásos állományba jelentkező, utóbbi esetben a közeli hozzátartozó írásban tudomásul veszi.
+
 (3) Szolgálati viszony a 33. §-ban meghatározott feltételeken túl akkor létesíthető vagy az a 86. § (9) és (10) bekezdésében meghatározottakra figyelemmel tartható fenn, ha a hivatásos állomány tagja vagy a hivatásos állományba jelentkező
 
-- a) írásban hozzájárul az 1. mellékletben meghatározott személyes adatai és bűnügyi személyes adatai kezeléséhez,
-- b) írásban hozzájárul életvitele kifogástalanságának ellenőrzése érdekében a (4) bekezdésben meghatározottaknak a felvételét megelőzően és a szolgálati viszony tartama alatt történő ellenőrzéséhez,
+- a)
+- b) a 3. melléklet szerinti adatlapon szereplő nyilatkozattal írásban tudomásul veszi az életvitele kifogástalanságának ellenőrzése érdekében a (4) bekezdésben meghatározottaknak a felvételét megelőzően és a szolgálati viszony tartama alatt történő ellenőrzését,
 - c) csatolja a vele közös háztartásban élő közeli hozzátartozójának a 2. melléklet szerinti nyilatkozatát.
 
 (4) Az életvitel nem kifogástalan, ha
@@ -576,7 +578,9 @@ kézbesítettnek kell tekinteni.
 
 is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, tanuló jogviszonyt kell érteni.
 
-(6) A kifogástalan életvitel ellenőrzésének lefolytatásához a 3. melléklet szerinti adatlapot kell kitölteni.
+(6) A kifogástalan életvitel ellenőrzésének lefolytatásához a 3. melléklet szerinti adatlapot kell kitölteni, az abban foglalt adatokat a kifogástalan életvitel ellenőrzését végző szerv kezeli.
+
+(6a) A rendvédelmi szervnek átadott 3. melléklet szerinti adatlapot a rendvédelmi szerv zárt borítékban továbbítja a kifogástalan életvitel ellenőrzését lefolytató szervnek.
 
 (7) A (4) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi. A polgári nemzetbiztonsági szolgálatok a saját munkatársaikra vonatkozóan végzett, a nemzetbiztonsági szolgálatokról szóló törvény szerinti biztonsági ellenőrzés alkalmával adatszolgáltatás végett e szervet megkeresik. A megkeresett szerv a biztonsági ellenőrzéssel érintett körben adatszolgáltatásra köteles.
 
@@ -1110,7 +1114,7 @@ kell alkalmazni.
 - d) – a miniszter által vezetett minisztériumba kinevezett állami vezető kivételével – állami vezetővé nevezték ki, vagy
 - e) az egészségi alkalmatlanság megállapítását követően rendvédelmi egészségkárosodási járadékra jogosultságát állapítják meg,
 - f) az egészségi alkalmatlanság megállapítását követően a rendvédelmi szervnél történő munkaviszony létesítésére tekintettel részére rendvédelmi egészségkárosodási keresetkiegészítést állapítanak meg,
-- g) a kifogástalan életvitel szolgálati viszony fennállása alatti ellenőrzéséhez való hozzájárulását visszavonja.
+- g) a kifogástalan életvitel szolgálati viszony fennállása alatti ellenőrzésével kapcsolatos, a 42. § (3) bekezdés b) pontja szerinti nyilatkozatát visszavonja.
 
 (2) A szolgálati viszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
 
@@ -2517,9 +2521,11 @@ költséget.
 
 178. § (1) A hivatásos állomány tagjának járó vagy adható juttatások, költségtérítések és támogatások pénzbeli kifizetésére a 163. § rendelkezéseit értelemszerűen alkalmazni kell.
 
-(2) A hivatásos állomány tagja részére biztosítható visszatérítendő támogatás, valamint a választható természetbeni juttatás nyújtása során keletkezett, a hivatásos állomány támogatást igénybe vevő vagy juttatásban részesülő tagjára és a támogatásra, juttatásra vonatkozó adatokat a (3) bekezdésben meghatározott célból az illetmény számfejtését végző szervek és személyek kezelhetik, ezek kizárólag a részükre továbbíthatók.
+(2) A hivatásos állomány tagja részére biztosítható visszatérítendő támogatás, valamint a választható természetbeni juttatás nyújtása során keletkezett, a hivatásos állomány támogatást igénybe vevő vagy juttatásban részesülő tagjára és a támogatással, juttatással érintett egyéb személyre, valamint a támogatásra, juttatásra vonatkozó adatokat a (3) bekezdésben meghatározott célból a támogatásra való jogosultságot elbíráló, továbbá az illetmény számfejtését végző szervek és személyek kezelhetik, ezek kizárólag a részükre továbbíthatók.
 
 (3) A (2) bekezdésben meghatározott adatok kezelésének célja, hogy folyamatosan megállapíthatóak legyenek a hivatásos állomány visszatérítendő támogatást igénybe vevő, vagy választható természetbeni juttatásban részesülő tagjának azonosítására alkalmas adatok, a visszatérítendő támogatás, valamint a választott természetbeni juttatás fajtája, a visszatérítendő támogatás összege, a törlesztési idő, a visszafizetett vagy levont összeg, és a még nem törlesztett tartozás, választható természetbeni juttatás esetén annak értéke vagy értékének időarányos része.
+
+(4) A hivatásos állomány tagja részére biztosítható vissza nem térítendő támogatás, költségtérítés vagy kedvezmény nyújtásával kapcsolatban keletkezett, a hivatásos állomány támogatást igénybe vevő vagy költségtérítésben, kedvezményben részesülő tagjára, valamint a támogatással, költségtérítéssel, kedvezménnyel érintett egyéb személyre és a támogatásra, költségtérítésre vagy kedvezményre vonatkozó adatokat a támogatást, költségtérítést vagy kedvezményt igénybe vevő azonosítása, a kifizetések nyomon követése, a jogosultság ellenőrzése céljából a támogatásra való jogosultságot elbíráló, továbbá az illetmény számfejtését végző szervek és személyek kezelhetik, azok kizárólag a részükre továbbíthatók.
 
 ### XIV. Fejezet — AZ ÉRDEMEK ELISMERÉSE
 
@@ -3684,9 +3690,9 @@ kell érteni.
 
 (4) Az igazgatási jogviszony létesítéséhez szükséges, az (1) bekezdésben meghatározott adatokat és tényeket az igazgatási jogviszonyt létesítő személynek kell igazolnia eredeti okirattal vagy annak hiteles másolatával.
 
-287/M. § (1) A miniszter rendeletben állapítja meg azokat a munkaköröket, amelyeknél az igazgatási jogviszony létesítésének feltétele az e törvényben meghatározottak szerint kifogástalan életvitel ellenőrzéshez a 2. és a 3. melléklet tartalma szerint történő hozzájárulás.
+287/M. § (1) A miniszter rendeletben állapítja meg azokat a munkaköröket, amelyeknél az igazgatási jogviszony létesítésének feltétele az e törvényben meghatározottak szerint kifogástalan életvitel ellenőrzéshez a 2. és a 3. melléklet szerinti nyilatkozat megtétele.
 
-(2) Az igazgatási jogviszony létesítését megelőző, valamint az igazgatási jogviszony fennállása alatti ellenőrzéshez történő hozzájárulással egyidejűleg a kinevezés feltétele annak tudomásul vétele, hogy az igazgatási jogviszony fennállása alatt a hozzájárulás visszavonása az igazgatási jogviszony törvény erejénél fogva történő megszűnését eredményezi.
+(2) Az igazgatási jogviszony létesítését megelőző, valamint az igazgatási jogviszony fennállása alatti kifogástalan életvitel ellenőrzés lehetőségének tudomásulvételével egyidejűleg a kinevezés feltétele annak tudomásul vétele, hogy az igazgatási jogviszony fennállása alatt a a kifogástalan életvitel ellenőrzésével kapcsolatos, (1) bekezdés szerinti nyilatkozat visszavonása az igazgatási jogviszony törvény erejénél fogva történő megszűnését eredményezi.
 
 (3) Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény alapján meghatározott munkakörök esetében a kinevezés feltétele a vagyonnyilatkozat-tételi kötelezettség teljesítése.
 
@@ -3879,7 +3885,7 @@ kell érteni.
 - b) országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztották,
 - c) az összeférhetetlenség megszüntetését elmulasztotta,
 - d) állami vezetővé nevezték ki, vagy
-- e) a kifogástalan életvitel ellenőrzéséhez való hozzájárulását az igazgatási jogviszony fennállása alatt visszavonja.
+- e) a kifogástalan életvitel ellenőrzésével kapcsolatos, a 287/M. § (1) bekezdése szerinti nyilatkozatát az igazgatási jogviszony fennállása alatt visszavonja.
 
 (7) Az igazgatási jogviszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
 
@@ -5211,7 +5217,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 - a) az állománytáblázat elemeit, elfogadásának és módosításának rendjét, valamint a szervezeti állománytáblázat elkészítésére vonatkozó szabályokat,
 - b) a rendvédelmi igazgatási alkalmazott mely vagyontárgyak, magáncélú telekommunikációs eszközök esetében, valamint a készpénz, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszköz vonatkozásában mely értékhatárt meghaladóan korlátozható abban, hogy azokat a munkavégzés közben magánál tartsa, valamint a korlátozás feltételeit, továbbá, hogy megállapítsa a magáncélú telekommunikációs eszközök munkavégzés közben történő használatának korlátozására vonatkozó szabályokat,
-- c) azokat a munkaköröket, amelyeknél az igazgatási jogviszony létesítésének feltétele az e törvényben meghatározottak szerint kifogástalan életvitel ellenőrzéshez történő hozzájárulás,
+- c) azokat a munkaköröket, amelyeknél az igazgatási jogviszony létesítésének feltétele az e törvényben meghatározottak szerint kifogástalan életvitel ellenőrzés lehetőségének tudomásulvétele,
 - d) a kirendelés részletes szabályait,
 - e) a technikai ellenőrzés alkalmazásának feltételeit, az alkalmazható eszközök körét és a technikai ellenőrzés alkalmazására vonatkozó eljárási szabályokat,
 - f) az egészségi alkalmassági követelményeket, az egészségi alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi alkalmassági követelményeknek való meg nem feleléssel kapcsolatos eljárást,
@@ -5781,7 +5787,7 @@ alakul át.
 
 #### A hivatásos állomány tagjával közös háztartásban élő házastárs, élettárs, felnőttkorú hozzátartozó nyilatkozata
 
-Alulírott .......................................................................... (név, születési hely és idő, anyja születési neve) tájékoztattak arról, hogy a velem közös háztartásban élő házastársam, élettársam, hozzátartozóm kifogástalan életvitel-ellenőrzése személyemet is érintheti, amelynek keretén belül az ellenőrzését végző szerv a bűnügyi nyilvántartásból rám vonatkozóan is adatot igényelhet, amelyek megismeréséhez hozzájárulok.
+Alulírott .......................................................................... (név, születési hely és idő, anyja születési neve) tájékoztattak arról, hogy a velem közös háztartásban élő házastársam, élettársam, hozzátartozóm kifogástalan életvitel-ellenőrzése személyemet is érintheti, amelynek keretén belül az ellenőrzését végző szerv a bűnügyi nyilvántartásból rám vonatkozóan is adatot igényelhet. Tudomásul veszem, hogy a kifogástalan életvitel ellenőrzését végző szerv ezen adatokat megismerheti.
 
 (Kelt, dátum)
 
@@ -5898,7 +5904,7 @@ a hivatásos szolgálati viszonyt létesítő személy kifogástalan életvitele
 
 A jelentkező nyilatkozata:
 
-Hozzájárulok, hogy az adatlapon szereplő adataim valóságát, az életvitelemet, jövedelmi és vagyoni viszonyaimat, életkörülményeimet, lakó- és családi környezetemet a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 42. és 43. §-a alapján elrendelt ellenőrzés során megvizsgálják.
+Tudomásul veszem, hogy az adatlapon szereplő adataim valóságát, az életvitelemet, jövedelmi és vagyoni viszonyaimat, életkörülményeimet, lakó- és családi környezetemet a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 42. és 43. §-a alapján elrendelt ellenőrzés során megvizsgálják.
 
 .........................................., 20........................................................-n
 

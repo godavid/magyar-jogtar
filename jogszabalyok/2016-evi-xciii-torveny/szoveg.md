@@ -436,13 +436,13 @@ használhatja fel.
 
 #### 25. Személyes adatok védelme
 
-48. § (1) A közös jogkezelő szervezet – a (2) bekezdésben foglaltak betartásával – köteles adatbázist fenntartani az általa végzett közös jogkezelési tevékenység körébe tartozó bel- és külföldi művekről, kapcsolódó jogi teljesítményekről és a jogosultakról.
+48. § (1) A közös jogkezelő szervezet – a (2) bekezdésben foglaltak betartásával – az általa végzett közös jogkezelési tevékenység körébe tartozó bel- és külföldi művekről, kapcsolódó jogi teljesítményekről és a jogosultakról köteles adatbázist fenntartani, és amennyiben a közös jogkezelési tevékenységének ellátása érdekében szükséges, nem kormányzati nemzetközi szervezetek által fenntartott adatbázisokhoz csatlakozni.
 
-(2) A közös jogkezelő szervezet az általa végzett közös jogkezelési tevékenységnek – a közös jogkezelésre vonatkozó jogszabályi előírásoknak megfelelő – ellátása céljából, a cél eléréséhez szükséges mértékben, módon és ideig jogosult a közös jogkezelési tevékenységével érintett jogosultak és felhasználók nevének, a személyazonosításhoz szükséges más adatának, lakcímének, tartózkodási helyének, a jogdíjbeszedéshez vagy felosztáshoz szükséges pénzügyi és más adatnak (így különösen bankszámlaszámnak, adószámnak), valamint a jogosultak műveire vagy kapcsolódó jogi teljesítményeire vonatkozó adatnak, továbbá más olyan személyes adatnak az információs önrendelkezési jogról és az információszabadságról szóló törvény előírásainak megfelelő kezelésére, amely az e bekezdésben meghatározott cél eléréséhez elengedhetetlenül szükséges. Az e bekezdés alapján kezelt személyes adatokat a közös jogkezelő szervezet – az érintett hozzájárulása nélkül – kizárólag az e törvényben meghatározott esetekben teheti megismerhetővé más személyek részére vagy hozhatja nyilvánosságra.
+(2) A közös jogkezelő szervezet az általa végzett közös jogkezelési tevékenységnek – a közös jogkezelésre vonatkozó jogszabályi előírásoknak megfelelő – ellátása céljából, a cél eléréséhez szükséges mértékben, módon és ideig jogosult a közös jogkezelési tevékenységével érintett jogosultak és felhasználók nevének, a személyazonosításhoz szükséges más adatának, lakcímének, tartózkodási helyének, a jogdíjbeszedéshez vagy felosztáshoz szükséges pénzügyi és más adatnak (így különösen a fizetési számla száma, adószám), valamint a jogosultak műveire vagy kapcsolódó jogi teljesítményeire vonatkozó adatnak, továbbá más olyan személyes adatnak kezelésére, amely az e bekezdésben meghatározott cél eléréséhez elengedhetetlenül szükséges.
 
 (3) A közös jogkezelő szervezet az általa képviselt jogosult nevéről és lakcíméről vagy tartózkodási helyéről tájékoztatást ad az Szjt. 41/A. § (1) bekezdése, valamint az árva mű felhasználásával kapcsolatos részletes szabályokról szóló kormányrendelet alapján jogosultkutatást végző személy vagy szervezet részére. Az így átadott személyes adat kizárólag a jogosultkutatás céljára használható, az ehhez szükséges módon, mértékben és ideig.
 
-(4) A 41. § (4) bekezdése szerinti megkeresés, továbbá a jogdíjnak az Szjt. vagy képviseleti szerződés alapján más közös jogkezelő szervezet részére történő átadása esetén a közös jogkezelő szervezet jogosult a megkeresés teljesítéséhez, vagy a jogdíj más közös jogkezelő szervezet általi felosztásához vagy kifizetéséhez szükséges személyes adatot a megkereső, vagy a jogdíjat átvevő belföldi vagy más EGT-államban letelepedett közös jogkezelő szervezet részére továbbítani. Az a közös jogkezelő szervezet, amely az adattovábbítás címzettje, a részére továbbított személyes adatot kizárólag közös jogkezelési tevékenysége teljesítéséhez szükséges célból és módon jogosult kezelni a (2) bekezdésben foglaltak szerint.
+(4) A 41. § (4) bekezdése szerinti megkeresés teljesítése, a szerzői művek és kapcsolódó jogi teljesítmények bel- és külföldi felhasználásának engedélyezése vagy díjigény érvényesítése, továbbá a jogdíj jogosultak között történő felosztása, kifizetése vagy az Szjt. vagy képviseleti szerződés alapján más közös jogkezelő szervezet részére történő átadása céljából a közös jogkezelő szervezet jogosult a megkeresés teljesítéséhez, a művek és teljesítmények bel- és külföldi felhasználás engedélyezése vagy díjigény érvényesítése körében történő azonosításához, vagy a jogdíj felosztásához vagy kifizetéséhez szükséges személyes adatot a megkereső, vagy a felhasználást engedélyező, illetve díjigényt érvényesítő, továbbá a jogdíjat átvevő bel- vagy külföldi közös jogkezelő szervezet, vagy a művek és kapcsolódó jogi teljesítmények, illetve jogosultak azonosítását szolgáló adatbázist fenntartó vagy ilyen szolgáltatást nyújtó személy vagy szervezet részére továbbítani. Az a közös jogkezelő szervezet, amely az e bekezdés szerinti adattovábbítás címzettje, a részére továbbított személyes adatot kizárólag közös jogkezelési tevékenysége teljesítéséhez szükséges célból és módon kezeli a (2) bekezdésben foglaltak szerint.
 
 #### 26. Közös jogkezelő szervezet jogutód nélküli megszűnésére vonatkozó speciális szabályok
 
@@ -739,7 +739,10 @@ kell meghozni és gondoskodni a közléséről.
 
 83. § (1) A jogkezeléssel kapcsolatos hatósági ügyekben az SZTNH és az ügyfél elektronikus úton kötelesek kapcsolatot tartani egymással.
 
-(2) Az SZTNH által erre rendszeresített elektronikus űrlap használatával kell a beadványokat elektronikus úton benyújtani.
+(2) Az SZTNH által erre rendszeresített elektronikus űrlap használatával kell a beadványokat elektronikus úton benyújtani. A beadványnak tartalmaznia kell
+
+- a) a természetes személy kérelmező, illetve képviselő nevét, születési helyét és idejét, valamint anyja nevét;
+- b) a nem természetes személy kérelmező, illetve képviselő nevét és adószámát.
 
 (3) Az elektronikus úton benyújtott beadvány megérkezéséről az SZTNH – jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld az ügyfélnek.
 
@@ -1133,8 +1136,8 @@ a felügyeleti bírság kiszabásától sem várható eredmény.
 132. § (1) A bírósági felülvizsgálati kérelem bevezető részében fel kell tüntetni:
 
 - a) az eljáró bíróság megnevezését,
-- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
-- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több jogi képviselő esetén a hivatalos iratok átvételére kijelölt jogi képviselő nevét.
+- b) a kérelmezőnek a 83. § (2) bekezdés a) vagy b) pontjában meghatározott azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének a 83. § (2) bekezdés a) vagy b) pontjában meghatározott azonosító adatait, és biztonságos kézbesítési szolgáltatási címét.
 
 (1a) A felülvizsgálati kérelem érdemi részében fel kell tüntetni:
 

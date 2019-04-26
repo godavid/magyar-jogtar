@@ -1236,18 +1236,18 @@ foglalt adatait tartja nyilván.
 - b) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv törvényben meghatározott kötelező adattovábbítást végez,
 - c) az anyakönyvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 - d) az anyakönyvvezető, valamint az anyakönyvi szerv kormánytisztviselője vagy állami tisztviselője az arra jogosult részére anyakönyvi okiratot állít ki, vagy
-- e) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az érintett számára teljesíti az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti tájékoztatást.
+- e) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv biztosítja az érintett személyes adataihoz való hozzáférési jogának gyakorlását.
 
 78. § (1) Az anyakönyvből a kizárólag a papír alapú anyakönyvben nyilvántartott adat, valamint az anyakönyvi alapirat tekintetében az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv
 
 - a) az arra jogosult részére engedélyezi a betekintést,
 - b) az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 - c) az arra jogosult kérelmére anyakönyvi hatósági bizonyítványt állít ki, vagy
-- d) az érintettet az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint tájékoztatja személyes adatainak kezeléséről.
+- d) biztosítja az érintett személyes adataihoz való hozzáférési jogának gyakorlását.
 
-(2) Az 1980. december 31-ig vezetett anyakönyv levéltár által őrzött másodpéldányában nyilvántartott adatok tekintetében az érintettet a levéltár az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint tájékoztatja személyes adatainak kezeléséről.
+(2) Az 1980. december 31-ig vezetett anyakönyv levéltár által őrzött másodpéldányában nyilvántartott adatok tekintetében a levéltár biztosítja az érintett személyes adataihoz való hozzáférési jogának gyakorlását.
 
-79. § Az 1980. december 31-ig vezetett anyakönyv levéltár által őrzött másodpéldányából a 78. § (2) bekezdése szerinti tájékoztatás és a 93/A. § szerinti kutatás kivételével adattovábbítás nem teljesíthető és adat nem tehető megismerhetővé.
+79. § Az 1980. december 31-ig vezetett anyakönyv levéltár által őrzött másodpéldányából a 78. § (2) bekezdése szerinti hozzáférési jog gyakorlásának biztosítása és a 93/A. § szerinti kutatás kivételével adattovábbítás nem teljesíthető és adat nem tehető megismerhetővé.
 
 80. § (1) Az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv a statisztikáról szóló törvényben meghatározott népmozgalmi adatgyűjtéssel kapcsolatos feladatai teljesítése céljából az anyakönyvi eljárás során a népmozgalmi adatszolgáltatás teljesítéséig kezeli a népmozgalmi adatszolgáltatás körébe tartozó, a statisztikáról szóló törvényben és annak végrehajtásáról szóló rendeletben meghatározott adatokat. Az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv által kezelt, a népmozgalmi adatszolgáltatás körébe tartozó adatokból a Központi Statisztikai Hivatal részére teljesítendő adattovábbítás kivételével adattovábbítás nem teljesíthető.
 
@@ -1394,9 +1394,9 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 ### Adattovábbítási nyilvántartás
 
-92. § (1) Az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbításokról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából a nyilvántartó szerv adattovábbítási nyilvántartást vezet.
+92. § (1) Az e törvény hatálya alá tartozó nyilvántartásokból teljesített adattovábbításokról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából a nyilvántartó szerv az adatkezelési tevékenységek nyilvántartása részeként adattovábbítási nyilvántartást vezet.
 
-(2) Az adattovábbítási nyilvántartás az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatokon kívül tartalmazza
+(2) Az adattovábbítási nyilvántartás az adatkezelési tevékenységek nyilvántartására előírt adatokon kívül tartalmazza
 
 - a) az adattovábbítás alanyának természetes személyazonosító adatait,
 - b) az ügyszámot, anyakönyvi folyószámot vagy egyedi elektronikus anyakönyvi azonosítót.
@@ -1406,11 +1406,11 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 93. § (1) Az adattovábbítási nyilvántartásból adatokat igényelhet
 
 - a) az adatkezelés jogszerűségének ellenőrzése céljából az anyakönyvvezető tevékenysége felett felügyeletet gyakorló szerv és az anyakönyvi ügyekért felelős miniszter,
-- b) az érintettnek az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti tájékoztatása céljából az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv,
+- b) az érintett a személyes adataihoz való hozzáférési joga gyakorlásának biztosítása céljából az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv,
 - c) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, továbbá
 - d) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
-(2) A nyilvántartó szerv az érintettet az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti, az adatai továbbítására vonatkozó tájékoztatását mellőzi, ha az e törvény szerint az adatok átvételére jogosult az adatok átvételével egyidejűleg jelzi, hogy az adattovábbításra vonatkozó adatok közlésének teljesítése
+(2) A nyilvántartó szerv az érintett személyes adataihoz való hozzáférési joga gyakorlásának biztosítását mellőzi, ha az e törvény szerint az adatok átvételére jogosult az adatok átvételével egyidejűleg jelzi, hogy az adattovábbításra vonatkozó adatok közlésének teljesítése
 
 - a) a bűncselekmények megelőzésének, felderítésének, a büntetőeljárás lefolytatásának, büntetés és intézkedés végrehajtásának eredményességét veszélyezteti vagy e tevékenységek folytatását akadályozza,
 - b) nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátását, azok eredményességét veszélyezteti.
@@ -1433,7 +1433,7 @@ válnak bárki számára kutathatóvá.
 
 (3) A (2) bekezdés a) pontjában meghatározott hozzájárulás megadásakor a hozzájáruló személy írásban nyilatkozik a kutató által megismerhető személyes adat – kutatás célja szerinti – felhasználásának elfogadásáról, valamint a személyes adatot tartalmazó iratok másolhatóságáról.
 
-(4) Az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti különleges adatok az anyakönyv kutatása során személyazonosításra alkalmas módon nem rögzíthetők és nem használhatók fel, kivéve, ha az érintett vagy az érintett halálát követően leszármazója ahhoz hozzájárult, vagy a kutatást ő végzi.
+(4) Különleges adatok az anyakönyv kutatása során személyazonosításra alkalmas módon nem rögzíthetők és nem használhatók fel, kivéve, ha az érintett vagy az érintett halálát követően leszármazója ahhoz hozzájárult, vagy a kutatást ő végzi.
 
 (5) Ha a kutató a kutatást tudományos célból végzi, a kutatás a bejegyzés keletkezését követő harminc év elteltével az (1) bekezdésben meghatározott védelmi időn belül is lefolytatható, feltéve, hogy a kutatás a közlevéltárakról szóló törvényben meghatározott, a kutatási tervre és az arra jogosult intézmény támogató állásfoglalására, továbbá a személyes adatok kezelésére vonatkozó előírásoknak és a (4) bekezdésben foglaltaknak megfelel.
 

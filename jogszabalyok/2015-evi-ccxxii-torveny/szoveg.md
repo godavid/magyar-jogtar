@@ -671,7 +671,7 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 
 (5) A (2)–(3) bekezdésben meghatározott célokból kezelt adatokat a szerződés létrejöttének elmaradását követően haladéktalanul, a szerződés megszűnése esetén pedig a megszűnéstől számított 5 év elteltével kell törölni. A (4) bekezdésben meghatározott célból kezelt adatokat haladéktalanul törölni kell, ha az adatkezelési cél megszűnt.
 
-(6) Ahol a szolgáltatás keretében adatfeldolgozás valósul meg, a szolgáltatási szerződést oly módon kell megkötni, hogy a szerződés tartalma a személyes adatok tekintetében kielégítse az információs önrendelkezési jogról és az információszabadságról szóló törvény által az adatfeldolgozás vonatkozásában meghatározott feltételeket.
+(6) Ahol a szolgáltatás keretében adatfeldolgozás valósul meg, a szolgáltatási szerződést oly módon kell megkötni, hogy a szerződés tartalma a személyes adatok tekintetében megfeleljen az adatkezelő által az adatfeldolgozóval kötendő szerződésre előírt követelményeknek.
 
 37. § (1) A szabályozott elektronikus ügyintézési szolgáltató a szabályozott elektronikus ügyintézési szolgáltatás alkalmazásával elektronikus ügyintézést biztosító szerv megkeresésére – a szolgáltatás igénybe vevője azonosító adatainak ellenőrzése céljából – adategyeztetést végez, és az adatok egyezéséről vagy az eltérés tényéről a megkereső elektronikus ügyintézést biztosító szervet tájékoztatja.
 
@@ -920,15 +920,15 @@ nem kell alkalmazni.
 
 (5) Az együttműködő szerv az informatikai együttműködés egyetlen formáját sem kötheti – az igazoltan felmerülő költségek jogszabályban előírt megtérítésén felül – illeték, díj vagy más ellenérték megfizetéséhez.
 
-(6) E törvény rendelkezéseit a személyes adatok kezelésére vonatkozó más törvényekben meghatározott szabályok betartásával kell alkalmazni.
+(6)
 
 #### 33. Adatkezelés
 
-53. § Az ügyfél kérelmére, kezdeményezésére indult ügyben együttműködő szervnél rendelkezésre álló, az ügy elintézéséhez szükséges személyes adat tekintetében az ügyfél hozzájárulását vélelmezni kell a személyes adatnak az eljáró elektronikus ügyintézést biztosító szerv részére történő továbbításához, valamint az e szerv általi, az ügy elintézéséhez szükséges és elégséges kezeléséhez, ha az elektronikus ügyintézést biztosító szerv az adatkezeléssel kapcsolatos lényeges körülményekről az ügyfelet az információs önrendelkezési jogról és az információszabadságról szóló törvénynek megfelelő módon tájékoztatta.
+53. § Az ügyfél kérelmére, kezdeményezésére indult ügyben az együttműködő szerv a rendelkezésére álló, az ügy elintézéséhez szükséges személyes adatot az eljáró elektronikus ügyintézést biztosító szerv részére továbbítja, amely azt az ügy elintézéséhez szükséges és elégséges mértékben kezeli, ha az elektronikus ügyintézést biztosító szerv az adatkezeléssel kapcsolatos lényeges körülményekről az ügyfelet a vonatkozó előírásokban meghatározott módon tájékoztatta.
 
 #### 34. Adattovábbítási nyilvántartás
 
-54. § A személyes adatot szolgáltató együttműködő szerv az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adattovábbítási nyilvántartást az e törvény szerint továbbított személyes adatok tekintetében olyan módon vezeti, hogy abból az ügyfél elektronikus úton, legfeljebb 3 napon belül tájékoztatást tudjon szerezni arról, hogy mely adatait mely együttműködő szerv, milyen célból és milyen időpontban vette át.
+54. § A személyes adatot szolgáltató együttműködő szerv az adatkezelési tevékenységeiről vezetett nyilvántartását az e törvény szerint továbbított személyes adatok tekintetében olyan módon vezeti, hogy abból az ügyfél elektronikus úton, legfeljebb 3 napon belül tájékoztatást tudjon szerezni arról, hogy mely adatait mely együttműködő szerv, milyen célból és milyen időpontban vette át.
 
 #### 35. Az informatikai együttműködés biztosításának technikai alapkövetelményei
 
@@ -1190,7 +1190,7 @@ továbbítják.
 - c) iratkezelő rendszerek közötti iratáthelyezés szolgáltatás, amely biztosítja az együttműködő szervek között elektronikus iktatókönyvben nyilvántartott irat vagy irategyüttes dokumentált átadását,
 - d) központi kormányzati szolgáltatás busz, amelynek keretében
   - da) a szolgáltató az együttműködő szervek, valamint a szolgáltatáshoz önkéntesen csatlakozott egyéb szervezetek információs rendszereinek automatikus információátadási felületei csatlakoztatásával, ennek hiányában információátadási szolgáltatásként biztosítja az egymás közötti automatikus információátadás biztonságos feltételeit, valamint
-  - db) a csatlakozott együttműködő szervek személyes adatokat tartalmazó információs rendszereinek adattovábbítási nyilvántartásai vonatkozásában – az információs önrendelkezési jogról és az információszabadságról szóló törvény alapján – az érintett személyes adatainak továbbítására vonatkozó tájékoztatásadást támogató egyablakos, tájékoztatási szolgáltatást biztosít.
+  - db) a csatlakozott együttműködő szervek személyes adatokat tartalmazó információs rendszereinek adattovábbítási nyilvántartásai vonatkozásában az érintett személyes adatainak továbbítására vonatkozó tájékoztatásadást támogató egyablakos, tájékoztatási szolgáltatást biztosít.
 
 (4) Törvény vagy kormányrendelet valamely központi elektronikus ügyintézési szolgáltatás igénybevételét az együttműködés során is kötelezővé teheti.
 

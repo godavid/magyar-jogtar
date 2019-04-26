@@ -349,6 +349,8 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (6) Az adatátadásról a Hivatalos Statisztikai Szolgálat érintett tagjai megállapodást kötnek, amelyben rögzíteni kell az adatátadás célját, módját, az adatkezelés, illetve az adatok tájékoztatási tevékenység során történő felhasználásának feltételeit. A megállapodásokat a Hivatalos Statisztikai Szolgálat tagjai honlapjukon nyilvánosságra hozzák.
 
+(7) E törvény szerinti adatfelvételek esetében a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) 18. cikkében foglalt, az adatkezelés korlátozásához való jogot a természetes személy statisztikai egység nem gyakorolhatja, ha a statisztikai adatfelvétel végrehajtására e törvény rendelkezéseivel összhangban került sor.
+
 #### 12. Statisztikai adatgyűjtések
 
 24. § Statisztikai adatgyűjtés keretében adatszolgáltatásra kötelezett lehet bármely természetes és jogi személy, valamint a személyiségi joga szerint jogképes szervezet.
@@ -473,15 +475,15 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 #### 15. Népmozgalmi statisztika
 
-30. § (1) A népmozgalmi statisztika körében megfigyelésre kerül minden Magyarországon bekövetkezett születés, haláleset, házasságkötés, bejegyzett élettársi kapcsolat létesítése, élettársi nyilatkozat nyilvántartásba vétele, házasság felbontása, valamint érvénytelenné nyilvánítása, bejegyzett élettársi kapcsolat felbontása, megszüntetése, a nyilvántartott élettársi kapcsolat megszűnése (a továbbiakban együtt: népmozgalmi esemény), valamint lakcímváltozás.
+30. § (1) A népmozgalmi statisztika körében megfigyelésre kerül minden Magyarországon bekövetkezett születés, haláleset, házasságkötés, bejegyzett élettársi kapcsolat létesítése, élettársi nyilatkozat nyilvántartásba vétele, házasság felbontása, valamint érvénytelenné nyilvánítása, bejegyzett élettársi kapcsolat felbontása, megszüntetése, a nyilvántartott élettársi kapcsolat megszűnése, terhesség megszakítása (a továbbiakban együtt: népmozgalmi esemény), valamint lakcímváltozás.
 
-(2) A népmozgalmi események körében kell megfigyelni a magyarországi lakcímmel rendelkező személyek külföldön bekövetkezett azon népmozgalmi eseményeit, amelyek anyakönyvezésére Magyarországon is sor kerül.
+(2) A népmozgalmi események körében kell megfigyelni a magyar állampolgárok külföldön bekövetkezett azon népmozgalmi eseményeit, amelyek anyakönyvezésére Magyarországon is sor kerül.
 
-(3) A népmozgalmi események felmérése a következő adatcsoportokra terjed ki: név, lakcím, társadalombiztosítási azonosító jel, állampolgárság, születési hely és idő, nem, családi állapot, családi állás, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, illetve halálozással, mint népmozgalmi eseménnyel összefüggő egészségi állapot, az anyakönyvezés helye, az egyedi elektronikus anyakönyvi azonosító, a népmozgalmi esemény helye és ideje.
+(3) A népmozgalmi események felmérése a következő adatcsoportokra terjed ki: név, lakcím, társadalombiztosítási azonosító jel, állampolgárság, születési hely és idő, nem, családi állapot, családi állás, iskolai végzettség, gazdasági aktivitás, foglalkozás, gyermekek száma, a születéssel, a halálozással, illetve a terhesség megszakításával, mint népmozgalmi eseményekkel összefüggő egészségi állapot, az anyakönyvezés helye, az egyedi elektronikus eseményazonosító, a népmozgalmi esemény helye és ideje.
 
-(4) A népmozgalmi eseménnyel, valamint a lakcímváltozással kapcsolatban gyűjtött adatok közül a nevet, a lakcímet és a társadalombiztosítási azonosító jelet és az egyedi elektronikus anyakönyvi azonosítót az adatok teljessége és összefüggése ellenőrzésének befejezését követő nyolc napon belül törölni kell.
+(4) A népmozgalmi eseménnyel, valamint a lakcímváltozással kapcsolatban gyűjtött adatok közül a nevet, a lakcímet és a társadalombiztosítási azonosító jelet és az egyedi elektronikus eseményazonosítót az adatok teljessége és összefüggése ellenőrzésének befejezését követő nyolc napon belül törölni kell.
 
-(5) A (3) bekezdés szerinti adatcsoportokba tartozó, rendelkezésre álló adatokat a népmozgalmi esemény helye szerint illetékes anyakönyvvezetők, egészségügyi szolgáltató, a halottvizsgálati bizonyítvány kiállítására jogosult orvos, a bíróságok és a közjegyzők, valamint – a külföldön történt események esetén – a hazai anyakönyvezés végzésére kijelölt szervek kötelesek szolgáltatni. A lakcímadatokat a személyiadat- és lakcímnyilvántartást kezelő szerv a rá vonatkozó szabályok szerint szolgáltatja.
+(5) A (3) bekezdés szerinti adatcsoportokba tartozó, rendelkezésre álló adatokat a népmozgalmi esemény helye szerint illetékes anyakönyvvezetők, egészségügyi szolgáltató, a halottvizsgálati bizonyítvány kiállítására jogosult orvos, a bíróságok és a közjegyzők, valamint a védőnők – a külföldön történt események esetén – a hazai anyakönyvezés végzésére kijelölt szervek kötelesek szolgáltatni. A lakcímadatokat a személyiadat- és lakcímnyilvántartást kezelő szerv a rá vonatkozó szabályok szerint szolgáltatja.
 
 (6) A KSH a halottvizsgálattal kapcsolatos eljárásra vonatkozó külön jogszabályok szerint jogosult a halottvizsgálattal kapcsolatos adatokat egyedi azonosításra alkalmas módon átvenni és kezelni.
 
@@ -624,6 +626,8 @@ egyidejűleg történik a (3)–(4) bekezdésben meghatározottak szerint.
 - b) az Európai Statisztikai Rendszer, illetve a KBER tagja részére, ha az egyedi adat továbbítása az Európai Statisztikai Rendelet, illetve más uniós jogi aktus alapján az európai statisztikák fejlesztése, előállítása vagy közzététele, illetve az európai statisztikák minőségének javítása érdekében szükséges; vagy
 - c) a Hivatalos Statisztikai Szolgálat tagjai esetében szerven belül hivatalos statisztikai célból, a cél eléréshez szükséges mértékben.
 
+(6a) Az általános adatvédelmi rendelet 15. cikkében foglalt hozzáférési jogot a természetes személy statisztikai egység kizárólag a (6) bekezdés a) pontjában, valamint a 46. §-ban foglaltak szerint, statisztikai adatgyűjtésekből származó adatok vonatkozásában gyakorolhatja.
+
 (7) A (3) bekezdés a) pontjában foglalt hozzájárulásban meg kell jelölni a nyilvánosságra hozandó adatot, a nyilvánosságra hozatal célját és – ha értelmezhető – időtartamát.
 
 (8) A statisztikai adatfelvétel keretében kezelt egyedi adat kizárólag statisztikai célra használható. Tilos annak bármely nem statisztikai, azaz a statisztikai adat-előállítási folyamaton kívüli célra, különös tekintettel az egyedi adat büntető-, polgári peres, nemperes eljárás, hatósági, adóigazgatási eljárás során történő felhasználása, illetve belföldi jogsegély keretében való felhasználásra történő átadása.
@@ -633,6 +637,8 @@ egyidejűleg történik a (3)–(4) bekezdésben meghatározottak szerint.
 (2) A személyes adatokat tartalmazó adatállományok esetében a statisztikai egység statisztikai adatgyűjtéshez használt közvetlen azonosító adatait különválasztva kell tárolni a statisztikai egységre vonatkozó egyéb adatoktól. Az adatgyűjtéshez használt közvetlen azonosító helyett az egyes statisztikai egységeket technikai azonosítóval kell ellátni, amelynek segítségével a kapcsolat a gyűjtött adatok és a statisztikai egység adatgyűjtéshez használt közvetlen azonosító adatai között helyreállítható.
 
 (3) Az adatállomány és a statisztikai egység statisztikai adatfelvételhez használt közvetlen azonosító adatai közötti kapcsolatot hivatalos statisztikai célból, az adott cél eléréséig, ideiglenesen lehet helyreállítani. A cél teljesülése esetén, illetve ha a célhoz kötöttség nem áll fenn, az adatok teljesség-ellenőrzését követően az azonosító adatokat az (1) és (2) bekezdésben foglaltak szerint le kell választani vagy törölni kell.
+
+(4) Statisztikai adatgyűjtések esetében az adatszolgáltató az általános adatvédelmi rendelet 16. cikkében foglalt, helyesbítéshez való jogával a statisztikai adatfeldolgozás megkezdéséig élhet. A Hivatalos Statisztikai Szolgálat adatgyűjtést végrehajtó tagja nem köteles az adatszolgáltató által kért helyesbítést elvégezni, ha az a statisztikai adatfelvételi módszertan alkalmazását vagy más, statisztikai szakmai szempontokat sértene vagy az lehetetlen. Statisztikai adatátvétel esetén a helyesbítéshez való jog a Hivatalos Statisztikai Szolgálat adatot átvevő tagjánál nem gyakorolható.
 
 41. § (1) A KSH és a Hivatalos Statisztikai Szolgálat többi tagja – a 28. § (14) bekezdésében foglaltak figyelembevételével – tudományos célból hozzáférést biztosíthat olyan egyedi adatokhoz, amelyek megismerése révén a statisztikai egységek közvetlenül nem azonosíthatók.
 

@@ -232,28 +232,44 @@ vagy ezek megbízottja jogosult a személyszállítási szolgáltatásban részt
 
 (9) Az (1) bekezdésben meghatározott szervek a személyszállítási szerződés teljesítésével összefüggésben a menetdíjat meg nem fizető, vagy az utazási feltételeket egyéb módon megszegő utas azonosítása céljából a polgárok személyi adatainak és lakcímének nyilvántartásából természetes személyazonosító adatok, lakcím és személyazonosító igazolvány okmányazonosítója adat igénylésére jogosultak a nyilvántartó szervtől az adatigénylés indokoltságának igazolása mellett.
 
-8. § (1) A vasút-, trolibusz-, autóbusz- és közösségi kerékpárállomáson a közforgalom számára nyitva álló helyen, a jegy- és bérletértékesítő berendezéseken, a megállóhelyen, kikötőben, valamint a személyszállító vasúti járművek, trolibuszok, az autóbuszok, a közösségi autóbérlő rendszer személygépkocsijai és a hajók, kompok belterében, a vasút-, trolibusz-, autóbusz- és közösségi kerékpár-állomáson, hajóállomáson és megállóhelyen található berendezések, a személyszállító vasúti járművek, trolibusz, autóbusz, közösségi kerékpáros rendszer eszközei, a közösségi autóbérlő rendszer személygépkocsijai a jegy- és bérletértékesítő berendezések és a hajók, kompok, továbbá az utasok, valamint a szolgáltató munkavállalói és megbízottai életének, személyének, testi épségének és vagyontárgyaik védelme céljából az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatvédelmi jogok érvényesítése mellett, továbbá e törvényben meghatározott korlátozó rendelkezések betartásával, a szolgáltató, a közlekedésszervező, valamint a vasút-, trolibusz-, autóbusz-, közösségi kerékpár- és hajóállomás vagy megállóhely, kikötő üzemeltetője (e szakasz alkalmazásában a továbbiakban együtt: szolgáltató) jogosult elektronikus biztonságtechnikai rendszeren keresztül megfigyelést folytatni, a megfigyelés során kép- és hangfelvételt készíteni, valamint a készített kép- és hangfelvételt kezelni.
+8. § (1) A személyszállítási közszolgáltatást végző szolgáltató és az e szolgáltatás nyújtásához igénybe vett közlekedésszervező, vasút-, trolibusz-, autóbusz-, hajóállomás vagy megállóhely, kikötő üzemeltetője, valamint a 22. § (4a) bekezdése szerint működtetett közösségi kerékpáros rendszer vagy közösségi autóbérlő rendszer üzemeltetője (e § alkalmazásában a továbbiakban együtt: szolgáltató) az e szolgáltatással összefüggésben a járműveinek, a területén található berendezéseknek, eszközöknek, az utasoknak, valamint a szolgáltató munkavállalói és megbízottai életének, személyének, testi épségének és a nemzeti vagyon védelme céljából elektronikus biztonságtechnikai rendszeren keresztül kizárólag a (2)–(12) bekezdésben meghatározott feltételekkel folytathat megfigyelést, készíthet rögzített képfelvételt és kezelheti a rögzített képfelvételeket.
 
-(2) A szolgáltató az (1) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazása esetén – a vakok és gyengénlátók számára is érzékelhető módon – köteles
+(2) Szolgáltató az (1) bekezdés szerinti képfelvételt a tulajdonában vagy jogszerű használatában álló területen, a közforgalom számára nyitva álló helyen, a vasúti pályahálózaton, személyszállítási szolgáltatás céljára alkalmazott járművein, valamint a jegy- és bérletértékesítő berendezéseken készíthet.
+
+(3) Szolgáltató az (1) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazásáról köteles – a vakok és gyengénlátók, valamint idegen nyelvűek számára is értelmezhető módon – figyelemfelhívó jelzést, továbbá a személyes adatok kezeléséről tájékoztatást elhelyezni
 
 - a) a vasút-, hajó-, trolibusz- és az autóbusz-állomás és megállóhely bejáratánál,
-- b) a személyszállító vasúti járműre, hajóra, trolibuszra, és az autóbuszra való felszállásra szolgáló peronoknál,
+- b) a személyszállító vasúti járműre, hajóra, trolibuszra és az autóbuszra való felszállásra szolgáló peronoknál,
 - c) a személyszállító vasúti járművön, hajón, trolibuszon és az autóbuszon,
 - d) közösségi kerékpár gyűjtőállomásán,
 - e) a jegy- és bérletértékesítő berendezésen, valamint
-- f) a közösségi autóbérlő rendszer személygépkocsijainak belterében
+- f) a közösségi autóbérlő rendszer személygépkocsijának belső terében.
 
-figyelemfelhívó jelzést és ismertetést elhelyezni az elektronikus biztonságtechnikai rendszer által folytatott megfigyelésről, amennyiben e helyeken az ismertetés elhelyezésére elegendő terület nem áll rendelkezésre, a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről szóló ismertetés nyomtatott módon a vasúti pályaudvarokon, autóbusz-állomásokon, elektronikusan a szolgáltatók Üzletszabályzatában hozzáférhetővé tenni.
+(4) Ha a (3) bekezdésben meghatározott hely a tájékoztatás elhelyezésére nem alkalmas, a tájékoztatást a vasúti pályaudvaron, autóbusz-állomáson, a szolgáltató Üzletszabályzatában és honlapján kell hozzáférhetővé tenni.
 
-(3) Nem alkalmazható elektronikus megfigyelőrendszer olyan helyen, ahol a megfigyelés az emberi méltóságot sértheti, így különösen mosdóban, illemhelyen.
+(5) Képfelvétel nem készíthető olyan helyen, ahol az az emberi méltóságot sértheti, így különösen mosdóban, illemhelyen.
 
-(4) A rögzített kép-, hang- vagy kép- és hangfelvételt felhasználás hiányában a rögzítéstől számított 16. napon meg kell semmisíteni vagy törölni kell. Felhasználásnak minősül, ha a rögzített kép-, illetve hangfelvétel bírósági vagy hatósági eljárásban bizonyítékként felhasználásra vagy bíróság, hatóság részére ilyen eljárás során benyújtásra kerül.
+(6) A képfelvételt a rögzítéstől számított 16. napon törölni kell, ha annak felhasználására bírósági vagy hatósági eljárásban nem kerül sor.
 
-(5) Akinek jogát vagy jogos érdekét a (4) bekezdés szerinti kép-, illetve hangfelvétel érinti, a rögzítéstől számított 15 napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy a kép- illetve hangfelvételt annak kezelője ne semmisítse meg vagy ne törölje.
+(7) Akinek jogát vagy jogos érdekét a képfelvétel érinti, jogának vagy jogos érdekének igazolásával kérheti, hogy a felvételt annak kezelője ne törölje a (6) bekezdésben meghatározottak szerint.
 
-(6) Bíróság vagy hatóság megkeresésére a rögzített kép-, illetve hangfelvételt a bíróságnak vagy a hatóságnak haladéktalanul meg kell küldeni. Ha a megkeresésre attól számított 72 órán belül, hogy a megsemmisítés vagy törlés mellőzését az (5) bekezdés alapján kérték, nem kerül sor, és a (4) bekezdésben meghatározott határidő letelt, a rögzített kép- illetve hangfelvételt meg kell semmisíteni, vagy törölni kell.
+(8) Megkeresés esetén a képfelvételt haladéktalanul meg kell küldeni a bíróság vagy hatóság részére.
 
-(7) A szolgáltató vagy közlekedésszervező az (1) bekezdésben meghatározott célból készített kép-, hang- vagy kép- és hangfelvételt felhasználhatja a szolgáltatását igénybe vevő személyeket, a működtetésében lévő berendezések használóit, a szolgáltató munkavállalóit, megbízottjait és a kezelésében lévő területeken tartózkodó személyeket, illetve poggyászaikat, a járműveket, berendezéseket és felszereléseket ért balesetek, káresetek körülményeinek, továbbá a szolgáltatónál vagy a közlekedésszervezőnél tett panaszbejelentések kivizsgálásához. Ezen vizsgálat idejére, de legfeljebb a felvétel rögzítésének időpontját követő 30 napra a szolgáltató, közlekedésszervező mentesül a (4) bekezdés szerinti kötelezettség alól, feltéve, hogy az eseményt az (5) bekezdésben meghatározott határidőn belül részükre bejelentették, vagy arról más módon tudomást szereztek. A vizsgálatra felhasznált kép-, hang- vagy kép- és hangfelvételt a vizsgálat és az annak eredményeként tett intézkedések, illetve lehetséges további jogorvoslati eljárás esetén az azt lezáró határozat – ideértve a bírósági eljárást is – véglegessé válását vagy jogerőre emelkedését követő 15. napon meg kell semmisíteni vagy törölni kell.
+(9) Ha a (7) bekezdés szerinti kérelmet nyújtottak be, és az azt követő 30 napon belül a (8) bekezdés szerinti megkeresés nem érkezik a szolgáltatóhoz, a felvételt törölni kell.
+
+(10) A szolgáltató az (1) bekezdésben meghatározott célból készített képfelvételt felhasználhatja
+
+- a) a szolgáltatását igénybe vevő személyeket,
+- b) a működtetésében lévő berendezések használóit,
+- c) a szolgáltató munkavállalóit, megbízottjait,
+- d) a kezelésében lévő területeken tartózkodó személyeket, illetve poggyászaikat, és
+- e) a járműveket, berendezéseket és felszereléseket
+
+ért balesetek, káresetek körülményeinek, továbbá a szolgáltatónál tett panaszbejelentések kivizsgálásához.
+
+(11) A (10) bekezdés szerinti vizsgálat időtartamával, de legfeljebb 45 nappal a (6) bekezdésben meghatározott időtartam meghosszabbodik.
+
+(12) A vizsgálat során felhasznált képfelvételt a vizsgálat és az annak eredményeként tett intézkedések, illetve bírósági vagy hatósági eljárás esetén az azt lezáró határozat jogerőre emelkedését vagy véglegessé válását követő 15. napon törölni kell.
 
 ### II. Fejezet — A SZEMÉLYSZÁLLÍTÁSI SZOLGÁLTATÁSSAL KAPCSOLATOS HATÓSÁGI TEVÉKENYSÉG
 
@@ -907,11 +923,11 @@ szolgáltatásokat nyújt.
 
 37. § (1) Az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző, valamint az országos vasúti pályahálózatot működtető vasúti társaság munkavállalóját, azt a volt munkavállalóját, aki legkésőbb a munkaviszony megszűnését követő naptól kezdődően nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, átmeneti bányászjáradékban vagy megváltozott munkaképességű személyek ellátásában részesül (a továbbiakban: nyugdíjas) és igényjogosult hozzátartozóikat, továbbá a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott személyeket utazási kedvezmény illeti meg (a továbbiakban: menetkedvezmény). Az egyes vasúti társaságok munkavállalóit megillető menetkedvezmények kölcsönös elismerésére, elszámolásának módjára és megtérítésére az érintett vasúti társaságok megállapodása irányadó. Az elkülönült vasútegészségügyi szervezet (Vasútegészségügyi Szolgáltató Közhasznú Társaság, valamint MÁV Kórház és Rendelőintézet, Szolnok) munkavállalóját a menetkedvezmények szempontjából az országos vasúti személyszállítási közszolgáltatást végző vasúti társaság munkavállalójának kell tekinteni.
 
-(2) A vasúti társaság, valamint a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott kedvezményre jogosultak munkáltatója (e § alkalmazásában a továbbiakban: munkáltató) jogosult az (1) bekezdés szerinti menetkedvezményre jogosult (5) bekezdésben meghatározott adatait kezelni.
+(2) A vasúti társaság, valamint a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatározott kedvezményre jogosultak munkáltatója (e § alkalmazásában a továbbiakban: munkáltató) az (1) bekezdés szerinti menetkedvezményre jogosult (5) bekezdésben meghatározott adatait kezeli.
 
 (3) A munkáltató a menetkedvezményre jogosult (5) bekezdésben meghatározott adatait az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság részére továbbítja.
 
-(4) A menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság jogosult az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, állami tisztviselő, köztisztviselő, közalkalmazott, rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatainak a kezelésére.
+(4) A menetkedvezményre jogosultság biztosítása céljából menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, állami tisztviselő, köztisztviselő, közalkalmazott, rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatait a menetkedvezményre jogosultság megszűnését követő 5 évig kezeli.
 
 (5) Az adatkezelés a következő adatokra terjed ki:
 
@@ -924,9 +940,9 @@ szolgáltatásokat nyújt.
 
 (6) Az adatkezelésre e § alapján jogosult (e szakasz alkalmazásában a továbbiakban: menetkedvezményi adatkezelő) az (5) bekezdésben meghatározott adatokat az utazási kedvezmény biztosítása, a kedvezmény igénybevételére jogosító igazolvány kiállítása, az igazolványokról vezetett nyilvántartás vezetése érdekében kezeli. A menetkedvezményi adatkezelő az (5) bekezdésben meghatározott adatokat 3 évig tartja nyilván. A menetkedvezményi adatkezelő biztosítja az adatok védelmét vétlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.
 
-(7) A menetkedvezményi adatkezelő a kezelt adatokat – a (8) bekezdésben foglalt kivétellel – egyedi azonosításra alkalmatlan módon statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
+(7)
 
-(8) Az (5) bekezdés szerinti adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra anonimizált formában, de a statisztikai célú felhasználást lehetővé tevő egyedi azonosítóval, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(8)
 
 #### 27. Iskolabuszokra és közösségi buszokra vonatkozó rendelkezések
 
@@ -1073,7 +1089,7 @@ adja ki.
 - g) a vasúti személyszállítási szolgáltatások területén a kötelező nem baleseti kárfedezet biztosításának részletes szabályait,
 - h) a személygépkocsival díj ellenében végzett közúti személyszállítás részletes szabályait,
 - i) a vízi személyszállítási szolgáltatás feltételeire, a víziközlekedési személyszállítási üzletszabályzatra, továbbá annak jóváhagyására vonatkozó szabályokat,
-- j) az 5. § (1) bekezdés e) pontjában, a 7. § (2)–(4) bekezdésében, valamint a 32. § (1) bekezdés e)–h) pontjában, a (4) és (6) bekezdésében, a 35. § (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, valamint a 35/A–35/C. §-ban meghatározott Központi Rendszer és Kapcsolódó Szolgáltatások kialakításával, működtetésével, fejlesztésével, igénybevételével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, a 35/A. § szerinti működtető kijelölésével, a 35/C. § (5) bekezdése szerinti közreműködő szervezet kijelölésével, valamint a közreműködő szervezettel köthető szolgáltatási szerződés tartalmi elemeire vonatkozó szabályokat, a közlekedési kártya és kapcsolódó utasmédia kibocsátásával és működtetésével kapcsolatos szabályokat, a személyszállítási közszolgáltatási kedvezményekkel, és egyéb kedvezményekkel összefüggésben a 35/C. §-ban meghatározott nyilvántartással és adatszolgáltatásokkal kapcsolatos részletes szabályokat,
+- j) az 5. § (1) bekezdés e) pontjában, valamint a 32. § (1) bekezdés e)–h) pontjában, a (4) és (6) bekezdésében, a 35. § (7) bekezdésében meghatározott adatok, adatbázisok és elektronikus adatkommunikációs technológiák egységességét és átjárhatóságát biztosító műszaki és technológiai előírásokat, valamint a 35/A–35/C. §-ban meghatározott Központi Rendszer és Kapcsolódó Szolgáltatások kialakításával, működtetésével, fejlesztésével, igénybevételével és finanszírozásával kapcsolatos feladatok ellátásának szabályait, a 35/A. § szerinti működtető kijelölésével, a 35/C. § (5) bekezdése szerinti közreműködő szervezet kijelölésével, valamint a közreműködő szervezettel köthető szolgáltatási szerződés tartalmi elemeire vonatkozó szabályokat, a közlekedési kártya és kapcsolódó utasmédia kibocsátásával és működtetésével kapcsolatos szabályokat, a személyszállítási közszolgáltatási kedvezményekkel, és egyéb kedvezményekkel összefüggésben a 35/C. §-ban meghatározott nyilvántartással és adatszolgáltatásokkal kapcsolatos részletes szabályokat,
 - k)
 - k) a személyszállítást igénybe vevő utasok jogainak védelme érdekében a vasúti igazgatási szerv és az autóbuszos hatóság által vasúti és autóbuszos személyszállító szolgáltatókkal, valamint a közlekedésszervezőkkel szemben alkalmazható bírság mértékére, alkalmazására, valamint megfizetésére vonatkozó részletes szabályokat, továbbá,
 - l) a közösségi autóbérlő rendszer részletes szabályait

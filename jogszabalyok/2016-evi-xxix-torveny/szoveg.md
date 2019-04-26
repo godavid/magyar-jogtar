@@ -303,7 +303,7 @@ tartja nyilván, illetve kezeli.
 
 (4) Az igazságügyi szakértő a vizsgálat lefolytatása alatt mindvégig köteles a szakmai értékelő tanáccsal együttműködni. A vizsgálatot a szakmai értékelő tanács lehetőleg az igazságügyi szakértő munkájának akadályozása nélkül köteles lefolytatni.
 
-(5) A szakmai értékelő tanács és a minőségbiztosítási bizottság a (2) bekezdésben meghatározott vizsgálatok során tudomására jutott adatokat a megalapozott szakmai értékelés elkészítése céljából jogosult kezelni. A minőségbiztosítási bizottság az értékelés során tudomására jutott adatokat az értékelés befejezését követő hat hónap elteltével köteles zárolni. Amennyiben az igazságügyi szakértő a minőségbiztosítási bizottság határozatával szemben bírósági jogorvoslatot vesz igénybe, az adatok zárolására a minőségbiztosítási bizottság a jogerős bírósági határozat közlését követő hat hónap elteltével köteles.
+(5) A szakmai értékelő tanács és a minőségbiztosítási bizottság a (2) bekezdésben meghatározott vizsgálatok során tudomására jutott adatokat a megalapozott szakmai értékelés elkészítése céljából jogosult kezelni. A minőségbiztosítási bizottság az értékelés során tudomására jutott adatok kezelését az értékelés befejezését követő hat hónap elteltével köteles korlátozni. Amennyiben az igazságügyi szakértő a minőségbiztosítási bizottság határozatával szemben bírósági jogorvoslatot vesz igénybe, az adatok kezelésének korlátozására a minőségbiztosítási bizottság a jogerős bírósági határozat közlését követő hat hónap elteltével köteles.
 
 (6) A szakmai értékelő tanács tagjait a vizsgálat során tudomásukra jutott adatok tekintetében titoktartási kötelezettség terheli.
 
@@ -501,11 +501,11 @@ minősítést kap.
 
 (2) Ha a szakértő tevékenysége során olyan körülményt észlel, amely más személy életét, testi épségét vagy egészségét veszélyezteti, köteles az érintett szakterületet felügyelő közigazgatási szervnél bejelentést tenni.
 
-42. § (1) A szakértő a tevékenysége során általa kezelt személyes adatokat – ha törvény másképp nem rendelkezik – a kirendelés befejezését vagy megbízás teljesítését követően haladéktalanul zárolja.
+42. § (1) A szakértő a tevékenysége során általa kezelt személyes adatok kezelését – ha törvény másképp nem rendelkezik – a kirendelés befejezését vagy megbízás teljesítését követően haladéktalanul korlátozza.
 
-(2) A befejezett kirendelést vagy megbízást követően a szakértő az általa kezelt és az (1) bekezdés szerint zárolt személyes adatokat tevékenysége szakmai, módszertani, fegyelmi megfelelőségének, valamint jogszabályszerűségének ellenőrizhetősége céljából a zárolástól számított tíz évig tárolja, és azokat kizárólag a hatóság, a megbízó, az igazságügyi szakértőkkel szembeni fegyelmi eljárás, valamint az igazságügyi szakértő értékelését megalapozó eljárás lefolytatására jogosult, valamint a személyes adatok kezelésére jogosult más szerv vagy személy részére továbbíthatja.
+(2) A befejezett kirendelést vagy megbízást követően a szakértő az általa az (1) bekezdés szerint korlátozottan kezelt személyes adatokat tevékenysége szakmai, módszertani, fegyelmi megfelelőségének, valamint jogszabályszerűségének ellenőrizhetősége céljából a korlátozástól számított tíz évig tárolja, és azokat kizárólag a hatóság, a megbízó, az igazságügyi szakértőkkel szembeni fegyelmi eljárás, valamint az igazságügyi szakértő értékelését megalapozó eljárás lefolytatására jogosult, valamint a személyes adatok kezelésére jogosult más szerv vagy személy részére továbbíthatja.
 
-(3) A szakértő az (1) bekezdés szerint zárolt személyes adatokat a zárolástól számított tíz év elteltével törli.
+(3) A szakértő az (1) bekezdés szerint korlátozottan kezelt személyes adatokat a korlátozástól számított tíz év elteltével törli.
 
 (4) Az (1) bekezdés alkalmazásában befejezettnek minősül a kirendelés vagy megbízás, ha
 
@@ -514,7 +514,7 @@ minősítést kap.
 - c) az igazságügyi szakértő kamarai tagsága szünetel vagy azt felfüggesztik, a szünetelés vagy felfüggesztés kezdő napján vagy
 - d) a megbízás külön jogszabályban foglaltak alapján megszűnik.
 
-(5) A szakértő az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint az érintettet megillető, a szakértő által kezelt adatokra vonatkozó tájékoztatás kiadását megtagadja a kirendelő vagy megbízó bűncselekmények megelőzése vagy üldözése, továbbá az érintett vagy mások jogainak védelmének érdekében tett utasítására.
+(5) A szakértő az általa kezelt adatok tekintetében érintett személyes adataihoz való hozzáférési jogának gyakorlását megtagadja a kirendelő vagy megbízó bűncselekmények megelőzése vagy üldözése, továbbá az érintett vagy mások jogainak védelmének érdekében tett utasítására.
 
 (6) Az (5) bekezdés szerinti adatnak minősül a szakértőnek átadott adat, a vizsgálat alatt keletkezett adat, az adatok forrása, az adatkezelés célja, jogalapja, időtartama, az adatfeldolgozó neve, címe és az adatkezeléssel összefüggő tevékenység, továbbá – az érintett személyes adatainak továbbítása esetén – az adattovábbítás jogalapja és címzettje.
 
@@ -551,7 +551,7 @@ minősítést kap.
 - i) több szakértő egyidejű kirendelése esetén a többi szakértő személyére vonatkozó tájékoztatást,
 - j) személy vizsgálatával járó kirendelés esetén a szakkonzultáns személyéhez történő hozzájárulás beszerzésének kötelezettségét,
 - k) a hatóság előzetes hozzájárulását a vizsgálati tárgy megváltozásával és megsemmisülésével járó vizsgálat elvégzéséhez, ha a hozzájárulásra a miniszter rendelete alapján szükség van,
-- l) – indokolt esetben – a hatóság arra vonatkozó utasítását, hogy a szakértő az érintett részére az általa kezelt adatokra vonatkozó, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti tájékoztatást megtagadni köteles,
+- l) – indokolt esetben – a hatóság arra vonatkozó utasítását, hogy a szakértő az érintettnek az általa kezelt személyes adataihoz való hozzáférési jogának gyakorlását megtagadni köteles,
 - m) a szakértőhöz intézett figyelmeztetést arra vonatkozóan, hogy
   - ma) ha természetes személy igazságügyi szakértőként rendelik ki, tíz napon belül köteles jelezni, ha a kirendelésnek nem természetes személy igazságügyi szakértőként, hanem szakvéleményadásra jogosult szervezet tagjaként vagy alkalmazottjaként kíván eleget tenni,
   - mb) amennyiben hamis szakvéleményt ad, a Büntető Törvénykönyvbe ütköző cselekményt követ el, amely büntetőjogi felelősségre vonást von maga után és
@@ -786,7 +786,7 @@ minősítést kap.
 - j) törvényben meghatározott esetekben kezdeményezi az igazságügyi szakértőnek a névjegyzékből való törlését és
 - k) a szakértők által beküldött statisztikai adatokat gyűjti és feldolgozza.
 
-(2) A Kamara a feladatellátásának érdekében jogosult az igazságügyi szakértők 1. melléklet 1.1.–1.6. pontjaiban, 1.15. pontjában és 1.18.1. alpontjában szereplő személyes adatait, valamint a szakértőjelöltek 3. melléklet szerinti személyes adatait kezelni.
+(2) A Kamara a feladatellátásának érdekében jogosult az igazságügyi szakértők 11. § (4) bekezdése alapján átvett személyes adatait, valamint a szakértőjelöltek 3. melléklet szerinti személyes adatait kezelni.
 
 #### 30. A Kamarai hatósági ügyek eljárási szabályai
 
@@ -1270,7 +1270,7 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 (2) A fegyelmi eljárás megindítása esetén a fegyelmi tanács munkájának előkészítését és a bizonyítás lefolytatását vizsgálóbiztos végzi, ha a 113. § (1) bekezdése alapján tárgyalás azonnali kitűzésének nincs helye. A vizsgálóbiztost a fegyelmi tanács jelöli ki a fegyelmi tanácstagok listájáról.
 
-(3) A fegyelmi bizottság és a fegyelmi tanács a fegyelmi eljárás során tudomására jutott adatokat, a megalapozott fegyelmi döntés meghozatala céljából jogosult kezelni. A fegyelmi bizottság a fegyelmi eljárás során tudomására jutott adatokat az eljárás befejezését követő hat hónap elteltével köteles zárolni. Amennyiben az igazságügyi szakértő a fegyelmi tanács határozatával szemben bírósági jogorvoslatot vesz igénybe, az adatok zárolására a fegyelmi bizottság a jogerős bírósági határozat közlését követő hat hónap elteltével köteles.
+(3) A fegyelmi bizottság és a fegyelmi tanács a fegyelmi eljárás során tudomására jutott adatokat, a megalapozott fegyelmi döntés meghozatala céljából jogosult kezelni. A fegyelmi bizottság a fegyelmi eljárás során tudomására jutott adatok kezelését eljárás befejezését követő hat hónap elteltével köteles korlátozni. Amennyiben az igazságügyi szakértő a fegyelmi tanács határozatával szemben bírósági jogorvoslatot vesz igénybe, az adatkezelés korlátozására a fegyelmi bizottság a jogerős bírósági határozat közlését követő hat hónap elteltével köteles.
 
 (4) A fegyelmi bizottság elnökét és tagjait, a fegyelmi tanács elnökét és tagjait, a jegyzőkönyvvezetőt, valamint a vizsgálóbiztost a fegyelmi eljárás során tudomásukra jutott adatok, tények tekintetében – törvény eltérő rendelkezése hiányában – titoktartási kötelezettség terheli; e kötelezettség tisztségük megszűnését követően is fennmarad. A titoktartási kötelezettség alóli felmentést – indokolt esetben – a fegyelmi bizottság adja meg. A felmentés csak azokra a tényekre, adatokra terjedhet ki, amelyek nyilvánosságra hozatalához az érintett személy is hozzájárult.
 

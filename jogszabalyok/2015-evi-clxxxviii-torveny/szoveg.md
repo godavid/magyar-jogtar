@@ -97,7 +97,7 @@ eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technik
 
 5. § (1) Az adatközlésre kötelezett szerv által képzett technikai kapcsoló szám tartalmát és képzési szabályát a központi szerv, valamint az igénybevételre jogosult szerv nem határozhatja meg.
 
-(2) A technikai kapcsoló számot kizárólag az adatközlésre kötelezett szerv, valamint a központi szerv és az arcképelemző tevékenységet végző szerv kezelheti, az kizárólag az adatigénylésre jogosult szerv kérelmére végzett arcképelemző tevékenység keretében az igénybevételre jogosult szerv és az adatközlésre kötelezett szerv részére, illetve az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint a polgárt megillető tájékoztatással összefüggő feladatok ellátása érdekében az adatközlésre kötelezett szerv részére továbbítható.
+(2) A technikai kapcsoló számot kizárólag az adatközlésre kötelezett szerv, valamint a központi szerv és az arcképelemző tevékenységet végző szerv kezelheti, az kizárólag az adatigénylésre jogosult szerv kérelmére végzett arcképelemző tevékenység keretében az igénybevételre jogosult szerv és az adatközlésre kötelezett szerv részére, illetve a polgár tájékoztatásával és személyes adataihoz való hozzáférési jogának gyakorlásával összefüggő feladatok ellátása érdekében az adatközlésre kötelezett szerv részére továbbítható.
 
 (3) A technikai kapcsoló szám képzése kizárólag oly módon történhet, hogy abból ágazati azonosító kód vagy egyéb személyazonosító adat ne legyen megismerhető.
 
@@ -312,21 +312,21 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 #### 11. A polgár tájékoztatása
 
-15. § (1) A központi szerv az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint a polgárt megillető tájékoztatással összefüggő feladatait az adatközlésre kötelezett szerv igénybevételével látja el.
+15. § (1) A központi szerv a polgár tájékoztatásával és személyes adataihoz való hozzáférési jogának gyakorlásával összefüggő feladatait az adatközlésre kötelezett szerv igénybevételével látja el.
 
-(2) Az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint a polgárt megillető tájékoztatás iránti kérelmet a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást vagy a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti idegenrendészeti résznyilvántartásokat vezető szervhez kell benyújtani. A kérelemben kifejezetten meg kell jelölni, hogy az a központi szerv általi adatkezelésre és adattovábbításra vonatkozik.
+(2) A polgár személyes adataihoz való hozzáférési jogának gyakorlása iránti kérelmet a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást vagy a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti idegenrendészeti résznyilvántartásokat vezető szervhez kell benyújtani. A kérelemben kifejezetten meg kell jelölni, hogy az a központi szerv általi adatkezelésre és adattovábbításra vonatkozik.
 
 (3) A benyújtást követő öt napon belül a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, valamint a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti idegenrendészeti résznyilvántartásokat vezető szerv megvizsgálja a kérelmet, és ha a kérelmezővel összefüggésben technikai kapcsoló számot kezel, a kérelem benyújtásának tényéről a központi szervet értesíti. Ezzel egyidejűleg megküldi a központi szerv részére a kérelmező általa kezelt technikai kapcsoló számát.
 
-(4) A polgárt az információs önrendelkezési jogról és az információszabadságról szóló törvény alapján megillető, személyes adatai kezeléséről szóló tájékoztatás teljesítése során az adattovábbításra vonatkozó információk közlése a külön törvényben meghatározottak szerint megtagadható, illetve korlátozható.
+(4) A polgár személyes adataihoz való hozzáférési jogának gyakorlására irányuló kérelem teljesítése során az adattovábbításra vonatkozó információk közlése a külön törvényben meghatározottak szerint megtagadható, illetve korlátozható.
 
-(5) A polgárt az információs önrendelkezési jogról és az információszabadságról szóló törvény alapján megillető, személyes adatai kezeléséről szóló tájékoztatás teljesítése során a polgár az adattovábbításra vonatkozó információkról a külön törvényben meghatározott szervek jelzése alapján nem tájékoztatható.
+(5) A polgár személyes adataihoz való hozzáférési jogának gyakorlására irányuló kérelem teljesítése során a polgár az adattovábbításra vonatkozó információkról a külön törvényben meghatározott szervek jelzése alapján nem tájékoztatható.
 
 (6) A (3) bekezdés szerinti értesítés kézhezvételét követően a központi szerv megvizsgálja, hogy az értesítésben megjelölt technikai kapcsoló számmal összefüggésben fennállnak-e a (4) bekezdésben felsorolt, az érintett polgár tájékoztatási jogainak korlátozását megalapozó indokok.
 
-(7) A tájékoztatás megtagadását írásban kell indokolni, annak megjelölésével, hogy a tájékoztatás megtagadására az információs önrendelkezési jogról és az információszabadságról szóló törvény mely rendelkezése alapján került sor, valamint tájékoztatni kell a polgárt a rendelkezésére álló jogorvoslati lehetőségekről.
+(7) A tájékoztatás megtagadását írásban kell indokolni, kivéve, ha az indokolás a (4) bekezdésben meghatározott korlátozás alapjául szolgáló valamely érdek érvényesülését veszélyezteti, valamint tájékoztatni kell a polgárt a rendelkezésére álló jogorvoslati lehetőségekről.
 
-(8) A központi szerv a kérelem benyújtásának tényéről szóló értesítés kézhezvételét követő 15 napon belül, a vizsgálat eredményének megfelelően, a polgár részére történő továbbítás céljából, a technikai kapcsoló számmal összefüggő adattovábbításra vonatkozó, az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott adatokat, illetve a tájékoztatási jog korlátozásának fennállása esetén a (6) bekezdésben foglaltakat – a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, valamint a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti idegenrendészeti résznyilvántartásokat vezető szerv által meg nem ismerhető módon – az értesítésnek megfelelően megküldi a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, illetve a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti idegenrendészeti résznyilvántartásokat vezető szerv részére.
+(8) A központi szerv a kérelem benyújtásának tényéről szóló értesítés kézhezvételét követő 15 napon belül, a vizsgálat eredményének megfelelően, a polgár részére történő továbbítás céljából, a technikai kapcsoló számmal összefüggő adattovábbításra vonatkozó adatokat, illetve a tájékoztatási jog korlátozásának fennállása esetén a (6) bekezdésben foglaltakat – a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, valamint a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti idegenrendészeti résznyilvántartásokat vezető szerv által meg nem ismerhető módon – az értesítésnek megfelelően megküldi a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, illetve a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti idegenrendészeti résznyilvántartásokat vezető szerv részére.
 
 (9) A (8) bekezdés szerinti tájékoztatást a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, valamint a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti idegenrendészeti résznyilvántartásokat vezető szerv továbbítja a polgárnak az annak kézhezvételét követő 10 napon belül.
 
@@ -334,7 +334,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 #### 12. Adattovábbítási nyilvántartás
 
-16. § (1) A nyilvántartásból teljesített adatigénylésekről az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottakon kívül tartalmazza az adatkezelő nyilvántartási azonosítóját és az adattovábbítás célját is. Az arcképelemző tevékenységet végző szerv az adattovábbítási nyilvántartás vezetéséhez szükséges adatokról közvetlen adatkapcsolat útján tájékoztatja a központi szervet.
+16. § (1) A nyilvántartásból teljesített adatigénylésekről az adatkezelési tevékenységek nyilvántartása részeként adattovábbítási nyilvántartást kell vezetni. Az arcképelemző tevékenységet végző szerv az adattovábbítási nyilvántartás vezetéséhez szükséges adatokról közvetlen adatkapcsolat útján tájékoztatja a központi szervet.
 
 (2) Az adattovábbítási nyilvántartást a központi szerv vezeti. A központi szerv az adattovábbításokat arckép profilok szerint rögzíti az adattovábbítási nyilvántartásban.
 

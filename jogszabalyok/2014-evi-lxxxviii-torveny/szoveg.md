@@ -1820,7 +1820,7 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 
 (3) A biztosítási titok tekintetében, időbeli korlátozás nélkül – ha törvény másként nem rendelkezik – titoktartási kötelezettség terheli a biztosító vagy viszontbiztosító tulajdonosait, vezetőit, alkalmazottait és mindazokat, akik ahhoz a biztosítóval kapcsolatos tevékenységük során bármilyen módon hozzájutottak.
 
-136. § Az ügyfél egészségi állapotával összefüggő az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben (a továbbiakban: Eüak.) meghatározott egészségügyi adatokat a biztosító a 135. § (1) bekezdésében meghatározott célokból, az Eüak. rendelkezései szerint, kizárólag az érintett írásbeli hozzájárulásával kezelheti.
+136. § Az ügyfél egészségi állapotával összefüggő az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben (a továbbiakban: Eüak.) meghatározott egészségügyi adatokat a biztosító a 135. § (1) bekezdésében meghatározott célokból, az Eüak. rendelkezései szerint, kizárólag az érintett kifejezett hozzájárulásával kezelheti.
 
 137. § Biztosítási titok csak akkor adható ki harmadik személynek, ha
 
@@ -1882,12 +1882,12 @@ van összefüggésben.
 139. § A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha
 
 - a) a magyar bűnüldöző szerv – nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – írásban kér biztosítási titoknak minősülő adatot,
-- b) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér biztosítási titoknak minősülő adatot.
+- b) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér biztosítási titoknak minősülő adatot, valamint ha a biztosító vagy a viszontbiztosító csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettségét teljesíti.
 
 140. § (1) Nem jelenti a biztosítási titok sérelmét a biztosító és a viszontbiztosító által a harmadik országbeli biztosítóhoz, viszontbiztosítóhoz vagy harmadik országbeli adatfeldolgozó szervezethez történő adattovábbítás abban az esetben:
 
 - a) ha a biztosító ügyfele (a továbbiakban: adatalany) ahhoz írásban hozzájárult, vagy
-- b) ha – az adatalany hozzájárulásának hiányában – az adattovábbításnak törvényben meghatározott adatköre, célja és jogalapja van, és a harmadik országban a személyes adatok védelmének megfelelő szintje az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 8. § (2) bekezdésében meghatározott bármely módon biztosított.
+- b) ha – az adatalany hozzájárulásának hiányában – az adattovábbítás a személyes adatok harmadik országba való továbbítására vonatkozó előírásoknak megfelel.
 
 (2) A biztosítási titoknak minősülő adatoknak másik tagállamba történő továbbítása esetén a belföldre történő adattovábbításra vonatkozó rendelkezéseket kell alkalmazni.
 
@@ -1900,7 +1900,7 @@ van összefüggésben.
 
 (2) Az (1) bekezdésben meghatározott adatok átadását a biztosító és a viszontbiztosító a biztosítási titok védelmére hivatkozva nem tagadhatja meg.
 
-142. § (1) Az adattovábbítási nyilvántartásban szereplő személyes adatokat az adattovábbítástól számított öt év elteltével, a 136. § alá eső adatok vagy az Infotv. szerint különleges adatnak minősülő adatok továbbítása esetén húsz év elteltével törölni kell.
+142. § (1) Az adattovábbítási nyilvántartásban szereplő személyes adatokat az adattovábbítástól számított öt év elteltével, a különleges adatnak vagy bűnügyi személyes adatnak minősülő adatok továbbítása esetén húsz év elteltével törölni kell.
 
 (2) A biztosító és a viszontbiztosító az érintett személyt nem tájékoztathatja a 138. § (1) bekezdés b), f) és j) pontjai, illetve a 138. § (6) bekezdése alapján végzett adattovábbításokról.
 
@@ -1954,7 +1954,7 @@ szemben.
 
 147. § (1) Biztosító és a viszontbiztosító jogutód nélküli megszűnése esetén a biztosító és a viszontbiztosító által kezelt üzleti titkot tartalmazó irat a keletkezésétől számított hatvan év múlva a levéltári kutatások céljára felhasználható.
 
-(2) Nem lehet üzleti titokra vagy biztosítási titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó – az Infotv.-ben meghatározott – adatszolgáltatási kötelezettség esetén.
+(2) Nem lehet üzleti titokra vagy biztosítási titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó adatszolgáltatási kötelezettség esetén.
 
 (3) Az üzleti titokra és a biztosítási titokra egyebekben a Ptk.-ban és az üzleti titok védelméről szóló 2018. évi LIV. törvényben foglaltakat kell megfelelően alkalmazni.
 
@@ -2032,7 +2032,7 @@ szemben.
 
 (11) A megkereső biztosító az (1) bekezdésben meghatározott megkeresés és a megkeresés teljesítésének tényéről, továbbá az abban szereplő adatok köréről a megkereséssel érintett ügyfelet a biztosítási időszak alatt legalább egyszer értesíti.
 
-(12) Ha az ügyfél az Infotv.-ben szabályozott módon az adatairól tájékoztatást kér és a megkereső biztosító – a (8)–(10) bekezdésben meghatározottakra tekintettel – már nem kezeli a kérelemmel érintett adatokat, akkor ennek a tényéről kell tájékoztatni a kérelmezőt.
+(12) Ha az ügyfél a személyes adataihoz való hozzáférést kér és a megkereső biztosító – a (8)–(10) bekezdésben meghatározottakra tekintettel – már nem kezeli a kérelemmel érintett adatokat, akkor ennek a tényéről kell tájékoztatni a kérelmezőt.
 
 (13) A megkereső biztosító a megkeresés eredményeként kapott adatokat biztosított érdekre nem vonatkozó, tudomására jutott, illetve általa kezelt egyéb adatokkal az (1) bekezdésben meghatározottól eltérő célból nem kapcsolhatja össze.
 
@@ -2073,7 +2073,7 @@ szemben.
 
 (15) Az Adatbázisból adatot igénylő biztosító az adatigénylés eredményeként tudomására jutott adatot csak az (1) bekezdésben meghatározott célból kezelheti.
 
-(16) Az igénylő biztosító a (3) bekezdésben meghatározott igénylésről, az abban szereplő adatokról, továbbá az igénylés teljesítéséről az ügyfelet a biztosítási időszak alatt legalább egyszer értesíti, továbbá az ügyfél kérelmére az Infotv.-ben szabályozott módon tájékoztatja.
+(16) Az igénylő biztosító a (3) bekezdésben meghatározott igénylésről, az abban szereplő adatokról, továbbá az igénylés teljesítéséről az ügyfelet a biztosítási időszak alatt legalább egyszer értesíti, továbbá az ügyfél kérelmére a személyes adataihoz hozzáférést biztosít.
 
 151. § (1) A 150. § (1) bekezdésében meghatározott Adatbázist a biztosítók abban az esetben hozhatják létre, ha a 150. § (1) bekezdésében meghatározott biztosítási ágazatokat művelő biztosítók megállapodást megelőző piaci részesedés szerint számított kétharmada megállapodik az adatbázis létrehozásáról, a működésében történő részvétel feltételeiről és az Adatbázis fenntartásával kapcsolatos költségek fedezetéről.
 
@@ -3186,8 +3186,8 @@ igazolását.
 
 - a) a felügyeleti hatóságok kölcsönös elismerésén alapuló – fióktelepekkel összefüggő kérdésekre is kiterjedő – nemzetközi együttműködési megállapodás van hatályban a Felügyelet és a kérelmező székhelye szerinti államban a felügyeleti hatóság között;
 - b) a kérelmező székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó jogszabályi előírásokkal;
-- c) a kérelmező székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi előírásokkal;
-- d) a kérelmező rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal;
+- c) a kérelmező székhelye szerinti állam rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatvédelmi előírásokkal;
+- d) a kérelmező rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatkezelési szabályzattal;
 - e) a kérelmező nyilatkozik arról, hogy helytáll a fióktelep útján keletkezett kötelezettségeiért;
 - f) a kérelmező nyilatkozatban kötelezi magát arra, hogy Magyarország területén folytatott tevékenységre vonatkozó pénzforgalmi számláját magyarországi pénzforgalmi szolgáltatónál vezeti;
 - g) a kérelmező nyilatkozatban kötelezi magát arra, hogy Magyarország területén folytatott tevékenységére vonatkozó nyilvántartásokat Magyarország területén vezeti;
@@ -5176,8 +5176,8 @@ tevékenység engedélyezését kérelmezi, akkor a 420. § (1) és (2) bekezdé
 
 - a) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló – fióktelepekkel összefüggő kérdésekre is kiterjedő – nemzetközi együttműködési megállapodás van a Felügyelet és a kérelmező biztosításközvetítő székhelye szerinti államban a felügyeleti hatóság(ok) között,
 - b) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó jogszabályi előírásokkal,
-- c) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi előírásokkal,
-- d) a kérelmező biztosításközvetítő rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
+- c) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatvédelmi előírásokkal,
+- d) a kérelmező biztosításközvetítő rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatkezelési szabályzattal,
 - e) a kérelmező biztosításközvetítő nyilatkozik arról, hogy helytáll a fióktelep útján keletkezett kötelezettségeiért,
 - f) a kérelmező biztosításközvetítő nyilatkozatban kötelezi magát arra, hogy Magyarország területén folytatott tevékenységre vonatkozó pénzforgalmi számláját magyarországi pénzforgalmi szolgáltatónál vezeti,
 - g) a kérelmező biztosításközvetítő nyilatkozatban kötelezi magát arra, hogy Magyarország területén folytatott tevékenységére vonatkozó nyilvántartásokat Magyarország területén vezeti,

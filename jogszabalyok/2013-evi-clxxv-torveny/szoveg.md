@@ -153,7 +153,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 (2) A felhatalmazás jogosultjának személyéről, hozzáférési jogosultságának terjedelméről és feltételeiről, valamint az abban bekövetkezett változásról az adatok megismerésére és kezelésére jogosult szerv – a felhatalmazás kiadását, változását követően haladéktalanul – értesíti a Hivatal elnökét.
 
-23. § (1) A nyilvántartásokból teljesített adatszolgáltatásokról az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényben (a továbbiakban: Info tv.) meghatározott adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás az Info tv.-ben meghatározottakon kívül tartalmazza az adatkezelő nyilvántartási azonosítóját és az adattovábbítás célját is.
+23. § (1) A nyilvántartásokból teljesített adatszolgáltatásokról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából az adatkezelési tevékenységek nyilvántartása részeként adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás a kezelt személyes adatok továbbításának időpontját, az adattovábbítás jogalapját és címzettjét, a továbbított személyes adatok körének meghatározását és az adattovábbítás célját tartalmazza.
 
 (2) Az adattovábbítási nyilvántartást a Hivatal elnöke vezeti.
 

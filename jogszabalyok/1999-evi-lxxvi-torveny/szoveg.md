@@ -474,9 +474,34 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 - a) az engedély az építészeti alkotás átdolgozására (29. §) is kiterjedhet,
 - b) az engedély kérelemre indokolt esetben egy alkalommal az eredeti engedély időtartamával, de legfeljebb öt évvel meghosszabbítható.
 
+(1b) A felhasználási engedély megadására irányuló kérelemnek tartalmaznia kell
+
+- a) a kérelmező és – képviselet esetén – a képviselő nevét, lakcímét vagy székhelyét;
+- b) nem elektronikus úton történő kapcsolattartás esetén a kérelmező vagy képviselője aláírását;
+- c) a mű vagy a teljesítmény azonosítására alkalmas adatokat és – ha ez lehetséges – a jogosult, több jogosult esetén valamennyi jogosult nevét, valamint lakcímét vagy tartózkodási helyét;
+- d) a kérelmező és – képviselet esetén – a képviselő elektronikus levelezési címét vagy telefonszámát.
+
+(1c) Ha a kérelmező, illetve képviselője a Hivatallal elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani, a kérelemnek az (1b) bekezdésben meghatározott adatokon túl tartalmaznia kell
+
+- a) a természetes személy kérelmező, illetve képviselő születési helyét és idejét, valamint anyja nevét;
+- b) a nem természetes személy kérelmező, illetve képviselő adószámát.
+
+(1d) A Hivatal jogosult azon személyes adatok megismerésére és kezelésére, amelyeket a kérelmező által a jogosult kilétének vagy tartózkodási helyének felkutatása érdekében végzett jogosultkutatás eredményeként a kérelemhez csatolt bizonyítékok, valamint az ismert jogosultakkal kötött felhasználási szerződések tartalmaznak. A felhasználási engedély megadására irányuló kérelmet egyebekben az árva mű felhasználásának részletes szabályairól szóló kormányrendeletben meghatározott részletes követelményeknek megfelelően kell benyújtani.
+
 (2) Az (1) bekezdésben említett díjat a jogosult személyének vagy tartózkodási helyének ismertté válását követően kell megfizetni, ha a felhasználás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja. Ha a felhasználás közvetve vagy közvetlenül jövedelemszerzés vagy jövedelemfokozás célját szolgálja, a díjat a Hivatalnál letétbe kell helyezni. A díj letétbe helyezése a felhasználás megkezdésének feltétele.
 
 (3) Ha a jogosult személye vagy tartózkodási helye a felhasználási engedély hatálya alatt ismertté válik, a Hivatal a jogosult, illetve a felhasználó kérelmére a felhasználási engedélyt a jogosult személye vagy tartózkodási helye ismertté válásának napjával kezdődő hatállyal visszavonja azzal, hogy a felhasználás a jogosult személye vagy tartózkodási helye ismertté válásának napján meglévő mértékig, az engedély alapján még hátralévő időtartamig, de legfeljebb a jogosult személye vagy tartózkodási helye ismertté válásának napjától egy évig folytatható.
+
+(3a) A felhasználási engedély visszavonására irányuló kérelemnek tartalmaznia kell
+
+- a) a kérelmező és – képviselet esetén – a képviselő nevét, lakcímét vagy székhelyét;
+- b) nem elektronikus úton történő kapcsolattartás esetén a kérelmező vagy képviselője aláírását;
+- c) a felhasználási engedélyben meghatározott és letétbe helyezett, valamint a Hivatal által a visszavonásról szóló határozatban meghatározott felhasználási díj közötti különbözet visszautalásához szükséges adatokat.
+
+(3b) Ha a kérelmező, illetve képviselője a Hivatallal elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani, a kérelemnek a (3a) bekezdésben meghatározott adatokon túl tartalmaznia kell
+
+- a) a természetes személy kérelmező, illetve képviselő születési helyét és idejét, valamint anyja nevét;
+- b) a nem természetes személy kérelmező, illetve képviselő adószámát.
 
 (4) A (3) bekezdésben foglalt rendelkezést alkalmazni kell akkor is, ha a felhasználásra a jogosult személye vagy tartózkodási helye ismertté válásának napjáig komoly előkészületeket tettek, azzal, hogy ebben az esetben a felhasználást az előkészületnek a jogosult személye vagy tartózkodási helye ismertté válásakor meglévő mértékéig lehet megkezdeni és folytatni.
 
@@ -509,8 +534,8 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 (3) Az (1) bekezdés szerinti kérelem bevezető részében fel kell tüntetni:
 
 - a) az eljáró bíróság megnevezését,
-- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
-- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több jogi képviselő esetén a hivatalos iratok átvételére kijelölt jogi képviselő nevét.
+- b) a kérelmezőnek a 41/B. § (1b) bekezdésében meghatározott azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének a 41/B. § (1b)–(1c) bekezdésében meghatározott azonosító adatait, és biztonságos kézbesítési szolgáltatási címét.
 
 (3a) A kérelem érdemi részében fel kell tüntetni:
 
@@ -564,7 +589,20 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (19) A bíróság előtti eljárásban a jogi képviselet kötelező, ideértve a jogorvoslati eljárásokat is.
 
-41/E. §
+41/E. § (1) Az árva művek felhasználására vonatkozóan kiadott engedélyekről a Hivatal bárki által megtekinthető, elektronikus úton hozzáférhető nyilvántartást vezet.
+
+(2) A nyilvántartás tartalmazza
+
+- a) az árva művel kapcsolatos ügyszámot;
+- b) a felhasználó és – képviselet esetén – képviselő nevét, lakcímét vagy székhelyét;
+- c) a mű vagy teljesítmény azonosítására alkalmas adatokat;
+- d) a jogosult, több jogosult esetén valamennyi jogosult nevét – ha ez lehetséges –;
+- e) a művel vagy teljesítménnyel kapcsolatban engedélyezett felhasználás terjedelmére vonatkozó adatokat;
+- f) a felhasználási díj mértékét és letétbehelyezésének napját;
+- g) a felhasználási engedély visszavonásának tényét és hatályát;
+- h) a művel vagy teljesítménnyel kapcsolatban folyamatban lévő eljárások tényét és tárgyát.
+
+(3) Az árva művel kapcsolatos (2) bekezdés szerinti adatok változását a nyilvántartáson a Hivatal – a módosítás időpontjára való utalással – haladéktalanul átvezeti.
 
 ### Árva mű kedvezményezett intézmény által történő felhasználása
 
@@ -1197,6 +1235,19 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 (2) Az e §-ban szabályozott eljárásban – tájékoztatás kérése és annak teljesítése kivételével – elektronikus kapcsolattartásnak csak azonosításhoz kötött elektronikus úton van helye, tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján. A kérelemre megtekinthető iratokba való betekintést a Hivatal személyes megjelenéshez kötötten biztosítja.
 
 (3) Nincs helye elektronikus ügyintézésnek abban az esetben, ha a nyilvántartásba vétel iránti kérelem tárgyát képező műről nem állítható elő elektronikus műpéldány, vagy az elektronikus műpéldány mérete meghaladja a miniszteri rendeletben meghatározott mértéket.
+
+94/D. § (1) A mű önkéntes nyilvántartásba vételére irányuló kérelemben, a mű önkéntes nyilvántartásba vételéről kiállított tanúsítvány visszavonására irányuló kérelemben, valamint a korábban szerzőként bejegyzett személy önkéntes műnyilvántartásból történő törlésére irányuló kérelemben fel kell tüntetni:
+
+- a) a kérelmező és – képviselet esetén – a képviselő nevét, lakcímét vagy székhelyét;
+- b) nem elektronikus úton történő kapcsolattartás esetén a kérelmező vagy képviselője aláírását;
+- c) a kérelmező és – képviselet esetén – a képviselő elektronikus levelezési címét vagy telefonszámát.
+
+(2) Ha a kérelmező, illetve képviselője a Hivatallal elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani, a kérelemnek az (1) bekezdésben meghatározott adatokon túl tartalmaznia kell
+
+- a) a természetes személy kérelmező, illetve képviselő születési helyét és idejét, valamint anyja nevét;
+- b) a nem természetes személy kérelmező, illetve képviselő adószámát.
+
+(3) A mű önkéntes műnyilvántartásba vételére irányuló kérelmet, a mű önkéntes nyilvántartásba vételéről kiállított tanúsítvány visszavonására irányuló kérelmet, valamint a korábban szerzőként bejegyzett személy önkéntes műnyilvántartásból történő törlésére irányuló kérelmet egyebekben az önkéntes műnyilvántartás részletes szabályairól szóló miniszteri rendeletben meghatározott követelmények szerint kell elkészíteni.
 
 ### Védelema műszaki intézkedések megkerülésével szemben
 

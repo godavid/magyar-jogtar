@@ -850,7 +850,7 @@ köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4
 - d) a közreműködő szervezetek nyilvántartásában szereplő adatokat, valamint a közreműködő szervezeti tevékenység végzésére jogosító engedély kiadása és visszavonása során tudomására jutott adatokat,
 - e) a közreműködő szervezetek jelentésében szereplő adatokat.
 
-(2) A Hivatal a névjegyzékbe vétel megtagadása esetén a megtagadás véglegessé válásáig, valamint a névjegyzékből és a közreműködő szervezetek nyilvántartásából történő törlés időpontjától számított tíz év elteltéig gondoskodik az (1) bekezdés szerinti adatok megőrzéséről. A Hivatal köteles az adatokat a határidő lejártát követő 15 napon belül visszavonhatatlanul törölni.
+(2) A Hivatal a névjegyzékbe vétel megtagadása esetén a megtagadás véglegessé válásáig, valamint a névjegyzékből és a közreműködő szervezetek nyilvántartásából történő törlés időpontjától számított öt évig kezeli az (1) bekezdés szerinti adatokat.
 
 41. § (1) A közreműködő szervezet az energetikai auditorok és energetikai szakreferensek képzésével, valamint szakmai vizsgák, megújító vizsgák megszervezésével és lebonyolításával összefüggő feladatai ellátása céljából kezeli
 
@@ -861,9 +861,7 @@ köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4
 
 42. § Az adatkezelők által kezelt személyes adatokat az adatkezelő és az adatfeldolgozó korlátozás nélkül, egyéb szervek és személyek – ha törvény eltérően nem rendelkezik – az érintett írásbeli hozzájárulásával ismerhetik meg.
 
-43. § (1) A névjegyzéket és a közreműködő szervezetek nyilvántartását elektronikusan kell vezetni, az azokban szereplő adatokat elektronikusan kell tárolni és feldolgozni.
-
-(2) A névjegyzéknek és a közreműködő szervezetek nyilvántartásának alkalmasnak kell lennie a bekövetkezett változások folyamatos követésére és a nyilvántartásból történő elektronikus adatszolgáltatásra.
+43. §
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

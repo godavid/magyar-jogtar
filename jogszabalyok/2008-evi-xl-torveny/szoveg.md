@@ -725,7 +725,7 @@ előírása.
 
 (2) A Hivatal az (1) bekezdés szerinti eljárás során jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
-(3) A Hivatal – a 61/B. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 61/B. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti védett adat megismerésére és a cselekménnyel szorosan összefüggő személyes adat kezelésére.
+(3) A Hivatal – a 61/B. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 61/B. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti védett adat megismerésére és és kezeli a cselekménnyel közvetlenül összefüggő személyes adatokat.
 
 (4) A Hivatal a személyes adatot az (5) bekezdésben meghatározott időtartam elteltéig, az eljárás megindítása esetén az eljárást lezáró határozat véglegessé válásától számított 5 évig kezeli.
 
@@ -799,14 +799,14 @@ teljesítését.
 
 megsértését.
 
-(2) A Hivatal a 61/B. § (1) bekezdése szerinti cselekmények vizsgálata céljából jogosult az eljárása alá vont ügyfélre vonatkozó,
+(2) A Hivatal a 61/B. § (1) bekezdése szerinti cselekmények vizsgálata céljából kezeli az eljárása alá vont ügyfélre vonatkozó,
 
 - a) a számlaforgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával,
 - b) az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és a hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával és kezdő időpontjával
 
-kapcsolatos adatok megismerésére és kezelésére.
+kapcsolatos adatokat.
 
-(3) A Hivatal feladatának ellátása érdekében jogosult a (2) bekezdés alapján felmerült, a nagykereskedelmi piacfelügyeleti eljárás szempontjából valószínűsíthetően további bizonyítékokkal rendelkező természetes személy beazonosításához szükséges családi és utónév, születési név és lakcím megismerésére és kezelésére.
+(3) A Hivatal feladatának ellátása érdekében kezeli a (2) bekezdés alapján felmerült, a nagykereskedelmi piacfelügyeleti eljárás szempontjából valószínűsíthetően további bizonyítékokkal rendelkező természetes személy beazonosításához szükséges személyes adatokat, így családi és utónevét, születési nevét és lakcímét.
 
 (4) A (2)–(3) bekezdésben meghatározott adat igénylésekor a Hivatal köteles valószínűsíteni, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges.
 
@@ -973,7 +973,7 @@ a Hivatal a kérelmet ezekre nézve visszautasíthatja, az eljárást megszünte
 
 (5) A nyilvántartásban kizárólag az érintett védendő fogyasztó neve, felhasználási helyének címe, ügyfél azonosítója, a 65. § (3) vagy (4) bekezdésére történő utalás, a 65. § (2) és (4)–(5) bekezdés szerinti különleges bánásmód esetén annak formája, a védendő fogyasztó által igénybe vehető kedvezmények szerepelnek.
 
-(6) A nyilvántartásba történt felvételt követően a védendő fogyasztó köteles minden év március 31-ig a megfelelő irattal igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania azon fogyatékkal élő fogyasztónak, akinek állapotában – szakorvosi véleményen alapuló, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti igazolás alapján – nem várható jelentős javulás. Ha a védettségét megalapozó körülmények megváltozása folytán a lakossági fogyasztó már nem jogosult a 65. § (2) vagy a (4)–(5) bekezdésében foglalt kedvezményekre, adatait a nyilvántartásból törölni kell, azoknak azonban a rögzítéstől számított 5 évig utólag is megállapíthatónak kell maradniuk. Az adatkezelő a nyilvántartásból törölt védendő fogyasztót a törlésről 8 napon belül írásban értesíti.
+(6) A nyilvántartásba történt felvételt követően a védendő fogyasztó köteles minden év március 31-ig a megfelelő irattal igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania azon fogyatékkal élő fogyasztónak, akinek állapotában – szakorvosi véleményen alapuló, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti igazolás alapján – nem várható jelentős javulás. A védettségét megalapozó körülmények megváltozása folytán a lakossági fogyasztó már nem jogosult a 65. § (2) vagy a (4) és (5) bekezdésében foglalt kedvezményekre.
 
 (7)
 
@@ -1554,7 +1554,7 @@ lehet igénybe venni.
 
 kiállított számla érvénytelen.
 
-(2) A szállítási rendszerüzemeltető és a földgázelosztó – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben, üzletszabályzatban és a földgázkereskedővel kötött egyedi megállapodásban rögzített módon – gondoskodik a kereskedelmi számlakiállítás alapjául szolgáló – kezdő és záró mérőállást is tartalmazó-fogyasztási adatok összegyűjtéséről, a szükséges átszámítások és korrekciók elvégzéséről, és az adatoknak az Üzemi és Kereskedelmi Szabályzat szerinti tartalommal és formában az érintett földgázkereskedőnek történő továbbításáról. A mérési adatokat a földgázkereskedő – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett felhasználó számára köteles hozzáférhetővé tenni.
+(2) A szállítási rendszerüzemeltető és a földgázelosztó – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben, üzletszabályzatban és a földgázkereskedővel kötött egyedi megállapodásban rögzített módon – gondoskodik a kereskedelmi számlakiállítás alapjául szolgáló – kezdő és záró mérőállást is tartalmazó-fogyasztási adatok összegyűjtéséről, a szükséges átszámítások és korrekciók elvégzéséről, és az adatoknak az Üzemi és Kereskedelmi Szabályzat szerinti tartalommal és formában az érintett földgázkereskedőnek történő továbbításáról. A mérési adatokat a földgázkereskedő az érintett felhasználó számára köteles hozzáférhetővé tenni.
 
 (2a)
 
@@ -1967,10 +1967,10 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
   - da) a felhasználási hely egyedi (POD) azonosítója,
   - db) a felhasználási hely címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
 - e) a felhasználó adatai:
-  - ea) a felhasználó neve,
-  - eb) a felhasználó nyilvántartott személyes vagy cégadatai,
-  - ec) a felhasználó címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
-  - ed) a felhasználó kézbesítési címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
+  - ea)
+  - eb)
+  - ec)
+  - ed)
 - f) az elszámolás alapját képező fogyasztásmérő azonosítója,
 - g) az utolsó fogyasztásmérő-leolvasás időpontja, a fogyasztásmérő állása ebben az időpontban,
 - h) a rendelkezésre álló utolsó diktált fogyasztásmérő-állás, ennek időpontja,
@@ -2243,7 +2243,7 @@ foglalt kötelezettségét nem teljesíti.
 
 (4) A megfelelési ellenőr megbízatását a felügyelőbizottság a Hivatal előzetes jóváhagyásával jogosult megszüntetni. A felügyelőbizottság köteles azonnali hatállyal megszüntetni a megfelelési ellenőr megbízatását, amennyiben a Hivatal a megfelelési ellenőr függetlenségének vagy szakmai alkalmasságának hiányát állapítja meg.
 
-(5) A megfelelési ellenőr e törvényben meghatározott feladatai ellátása céljából megismerhet valamennyi szükséges adatot, előzetes értesítés nélkül is beléphet a szállítási rendszerüzemeltető irodáiba és hozzáférhet valamennyi egyéb szükséges információhoz. A szállítási rendszerüzemeltető munkaviszonyban álló személyek személyes adatait a megfelelési ellenőr e törvényben és a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feladatai ellátása érdekében az adatvédelmi jogszabályokkal összhangban kezelheti.
+(5) A megfelelési ellenőr e törvényben meghatározott feladatai ellátása céljából megismerhet valamennyi szükséges adatot, előzetes értesítés nélkül beléphet a szállítási rendszerüzemeltető irodáiba és hozzáférhet valamennyi szükséges információhoz.
 
 (6) A megfelelési ellenőr a megfelelési program végrehajtásáról, az annak érdekében hozott intézkedésekről, a feltárt eredményekről és jelentős hiányosságokról évente megfelelési jelentést készít, és azt jóváhagyásra benyújtja a Hivatalhoz. A jóváhagyást követően a szállítási rendszerüzemeltető a megfelelési jelentést honlapján közzéteszi.
 
@@ -2402,34 +2402,23 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 ### XV. Fejezet — ADATSZOLGÁLTATÁS, TITOKVÉDELEM, INFORMÁCIÓKEZELÉS
 
-125. § (1) Az engedélyesek és a 142. § (1) bekezdése szerinti projekttársaság (a továbbiakban együtt: adatkezelő) az e törvényben meghatározott engedélyköteles tevékenység végzése, az ehhez szükséges műszaki berendezések létesítésére és üzemeltetésére vonatkozó szerződés megkötése, tartalmának meghatározása, módosítása, a teljesítésének figyelemmel kísérése, a szerződésben meghatározott díjak számlázása, továbbá a szerződésből eredő egyéb követelések érvényesítése, és az Üzemi és Kereskedelmi Szabályzatban foglalt együttműködési, adatszolgáltatási kötelezettségek teljesítése céljából kezelhetik a felhasználó, valamint a külön jogszabályban meghatározott fizető azonosításához szükséges és elégséges – e törvény vagy a végrehajtására kiadott külön jogszabály szerint a szerződés tartalmát képező – személyes adatokat. A felhasználó azonosításához a természetes személy felhasználó esetén neve, lakcíme, születésének helye és ideje, valamint anyja neve, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma) szükséges.
+125. § (1)
 
-(1a) A megfelelési ellenőr az e törvényben és a földgázellátásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározott, szétválasztási követelményeknek való megfelelés ellenőrzésével, valamint a megfelelési program végrehajtásával kapcsolatos feladatai elvégzése céljából az ahhoz szükséges mértékben kezelheti a tevékenysége során tudomására jutott, a megfelelési ellenőrt munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében foglalkoztató engedélyes üzleti titkait, valamint az engedélyesnél munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében foglalkoztatott személyek személyes adatait, így nevüket, lakcímüket, születési helyüket és idejüket, anyja nevét, valamint munkakörükre és végzettségükre vonatkozó adatokat.
+(1a) A megfelelési ellenőr az e törvényben és a földgázellátásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározott szétválasztási szabályoknak való megfelelés ellenőrzésével, valamint a megfelelési program végrehajtásával kapcsolatos feladatai elvégzése céljából az ahhoz szükséges mértékben megismerheti a megfelelési ellenőrt munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében foglalkoztató engedélyes üzleti titkait, valamint – megfelelési program végrehajtásának lezárultáig – kezeli az engedélyesnél munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében foglalkoztatott személyek személyes adatait, így nevüket, lakcímüket, születési helyüket és idejüket, anyja nevét, valamint munkakörükre és végzettségükre vonatkozó adatokat.
 
-(1b) A földgázelosztó a védendő fogyasztókat megillető kedvezmény biztosítása céljából kezelheti a védendő fogyasztók nyilvántartásának kezeléséhez szükséges személyes és különleges személyes adatokat, így a védendő fogyasztó nevét, lakcímét, születési helyét és idejét, anyja nevét, valamint a védendő fogyasztói státuszt megalapozó adatokat.
+(1b) A földgázelosztó a védendő fogyasztókat megillető kedvezmény biztosítása céljából a védendő fogyasztói jogosultság megszűnését követő 3 évig kezeli a védendő fogyasztó azonosításához szükséges, valamint a védendő fogyasztói státuszt megalapozó személyes adatokat és a személyes adatok különleges kategóriáiba tartozó adatokat. Az adatokat a földgázelosztó a védendő fogyasztót megillető kedvezmény vagy a különleges bánásmód egy felhasználási helyen való igénybevételének ellenőrzése céljából más földgázelosztónak, valamint a védendő fogyasztót megillető kedvezmény vagy különleges bánásmód biztosítása érdekében a földgázkereskedőnek továbbítja. Az átvett személyes adatokat a földgázelosztó, valamint a földgázkereskedő a védendő fogyasztói jogosultság megszűnését követő 3 évig kezeli
 
-(1c) Az átvevő egyetemes szolgáltató az átadó egyetemes szolgáltató egyetemes szolgáltatói engedélye visszavonásának az e törvény 115/A. § szerinti kezdeményezése esetén az e törvény 115/B. § (1) bekezdése szerinti visszavonó és a kijelölő határozat kézhezvételének napjától az érintett felhasználók átvétele, földgázellátásuk biztosításához szükséges teendők elvégzése céljából kezelheti az érintett felhasználók azonosításához szükséges és elégséges, az (1) bekezdésben, valamint a külön jogszabályban meghatározott személyes adatokat, továbbá adott felhasználóval kapcsolatban az átadó egyetemes szolgáltató által kezelt egyéb személyes adatokat.
+(1c) Az átvevő egyetemes szolgáltató az átadó egyetemes szolgáltató egyetemes szolgáltatói engedélye visszavonásának az e törvény 115/A. § szerinti kezdeményezése esetén az e törvény 115/B. § (1) bekezdése szerinti visszavonó és a kijelölő határozat kézhezvételének napjától a 115/B. § (1) bekezdés a) pontjában meghatározott időpontig az érintett felhasználók átvétele, földgázellátásuk biztosításához szükséges teendők elvégzése céljából kezeli az érintett felhasználó azonosításához és földgázellátása biztosításához szükséges – az átadó egyetemes szolgáltató által továbbított – személyes adatokat.
 
 (1d)
 
-(2) Az adatkezelő a kezelt személyes adatokat haladéktalanul köteles törölni, ha az adatkezelés nem az (1) bekezdésben meghatározott célból történt, vagy az adatkezelés célja megszűnt.
+(2)
 
-(3) Az adatkezelő rendszerhasználóval történő szerződéskötése nem tehető függővé a rendszerhasználónak valamely, az (1) bekezdésben nem szabályozott célból történő adatkezeléshez való hozzájárulásától.
+(3)
 
-(4) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok – az a), b) és e) pontok esetében az érintett egyidejű értesítése mellett – átadhatók:
+(4)
 
-- a) az adatkezelő megbízása alapján a szerződés megkötését, a leolvasást, a számlázást, a kézbesítést, a díjfizetések és követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki kivitelezését, felülvizsgálatát, ellenőrzését, kikapcsolását vagy az ügyfélszolgálati tevékenységet végző természetes személynek és gazdálkodó szervezetnek,
-- b) a számlázási és forgalmazási jogviták rendezésére jogszabály vagy a szerződő felek megállapodása alapján jogosult szervezetek részére,
-- c)
-- d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, továbbá a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, a bíróságnak, az ügyészségnek, valamint a nyomozó hatóságnak,
-- e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a végrehajtónak,
-- f) a fogyasztóvédelmi hatóságnak,
-- g) a védendő fogyasztók esetében az őt megillető kedvezménynek vagy különleges bánásmódnak az egy felhasználási helyen való igénybevételének ellenőrzése céljából a földgázelosztónak és az őt megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a földgázkereskedőnek, valamint
-- h) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
-
-(4a) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok a Hivatal részére átadhatók, amelyeket a Hivatal köteles az Ákr. adatkezelésre vonatkozó szabályai szerint kezelni.
-
-(5) A (4) bekezdés a), b) és e) pontjaiban meghatározott szervezeteket az átadott adatokkal kapcsolatban az adatkezelővel azonos titoktartási kötelezettség terheli.
+(5)
 
 (6) Az engedélyesek és a földgáztermelő kötelesek biztosítani, hogy a tevékenységgel kapcsolatos információk és adatok megőrzése, kezelése, továbbítása, más módon hozzáférhetővé tétele, valamint nyilvánosságra hozatala megfeleljen:
 
@@ -2528,9 +2517,9 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
   - oc) a földgázkereskedő gazdasági stabilitását, pénzügyi biztosítékainak meglétét, a gazdasági ellehetetlenülés időbeni ismerete céljából,
   - od) az engedélyesek szolgáltatási színvonalát, üzemszünet mutatóit;
 - p) e törvény szerint jóváhagyja az engedélyes földgázipari vállalkozást érintő cégjogi eseményt, az engedélyesekben történő befolyásszerzést, az olyan jogügyletek végrehajtását, amelyek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást szállítási rendszerüzemeltető vagy annak irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységei egyes elemeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, és egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését;
-- q) eleget tesz a személyes adatok gyűjtésére vonatkozó – törvényben előírt –, valamint a külön jogszabályban meghatározott egyéb adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének;
+- q) eleget tesz a jogszabályban meghatározott adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének;
 - r) a szállítási rendszerirányító javaslatának figyelembevételével jóváhagyja a korlátozási besorolást, a szállítási rendszerirányító javaslatára dönt a kereskedési platformon, az egyensúlyozó platformon, valamint a szervezett földgázpiacon folyó kereskedés felfüggesztéséről, valamint válságkezelési javaslatot tesz a miniszternek;
-- s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság, a PB-gáz forgalmazó, a PB-gáz kiskereskedő, a mintaprojektet végző társaság, valamint a hazai termelésű földgázt termelő irataiba betekinteni – ideértve az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése szerinti üzleti és egyéb törvény által védett titkot tartalmazó iratokat is – a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni vagy készíttetni, feladatai ellátásához az engedélyes társaságtól, a PB-gáz forgalmazótól, a PB-gáz kiskereskedőtől, a mintaprojektet végző társaságtól, valamint a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni, amelyeket köteles az Ákr. adatkezelésre vonatkozó szabályai szerint kezelni; továbbá jogosult állami vagy közfeladata ellátása során engedély nélkül minősített adat felhasználására, minősített adatot tartalmazó iratba való betekintésre, másolat, kivonat készítésére vagy készíttetésére;
+- s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság, a PB-gáz forgalmazó, a PB-gáz kiskereskedő, a mintaprojektet végző társaság, valamint a hazai termelésű földgázt termelő irataiba betekinteni – ideértve az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése szerinti üzleti és egyéb törvény által védett titkot tartalmazó iratokat is – a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni vagy készíttetni, feladatai ellátásához az engedélyes társaságtól, a PB-gáz forgalmazótól, a PB-gáz kiskereskedőtől, a mintaprojektet végző társaságtól, valamint a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni; továbbá jogosult állami vagy közfeladata ellátása során engedély nélkül minősített adat felhasználására, minősített adatot tartalmazó iratba való betekintésre, másolat, kivonat készítésére vagy készíttetésére;
 - sz) jogalkalmazási gyakorlatának alapjait ismertető, kötelező erővel nem rendelkező ajánlást ad ki;
 - t) meghatározza azon – személyes adatokat nem tartalmazó – gazdálkodási adatok körét, amelyet az engedélyes köteles nyilvánosságra hozni;
 - u) érvényesíti a legkisebb költség elvét az e törvény hatálya alá tartozó hatósági áras termék és szolgáltatás vonatkozásában;
@@ -3058,7 +3047,7 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 (5) A rendszerüzemeltető és a VET. szerinti hálózati engedélyes a mintaprojektet az okos mérésről szóló jogszabály alapján a Hivatal felügyeletével folytatja. A rendszerüzemeltető és a VET. szerinti hálózati engedélyes a mintaprojekt megkezdése előtt a Hivatalt a mintaprojekt leírásának bemutatásával, a mintaprojekt lezárását követően a mintaprojekt eredményeit és az azok alapján tett megállapításokat tartalmazó dokumentum átadásával tájékoztatja.
 
-(6) A rendszerüzemeltető, a VET. szerinti hálózati engedélyes és a projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenységük során jogosultak a felhasználó, valamint a jogszabályban meghatározott fizető személyes adatainak kezelésére. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben a földgázelosztó jogai és kötelezettségei illetik meg azzal, hogy a tevékenységét nem szervezheti ki.
+(6) A projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenységük során – a mintaprojekt zárását követő 3 évig – a mintaprojekt lebonyolítása céljából – kezeli a felhasználó, valamint a jogszabályban meghatározott fizető személyes adatait. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben a földgázelosztó jogai és kötelezettségei illetik meg azzal, hogy a tevékenységét nem szervezheti ki.
 
 (7) A Hivatal a mintaprojekttel összefüggésben a projekttársaságnak a jogszabályokban és a Hivatal határozataiban foglalt kötelezettségeinek megszegése esetén
 

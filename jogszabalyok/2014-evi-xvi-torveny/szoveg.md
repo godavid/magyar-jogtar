@@ -588,7 +588,7 @@ a befektetési alapkezeléshez közvetlenül kapcsolódó területen tevékenyke
 
 - a) olyan személyes ügylet végrehajtása, amely
   - aa) bennfentes kereskedelmet vagy piacbefolyásolást valósítana meg,
-  - ab) üzleti titok, értékpapírtitok, biztosítási titok, banktitok vagy az adatvédelemről szóló jogszabályok által védett információ jogszerűtlen feltárásával vagy felhasználásával jár, vagy
+  - ab) üzleti titok, értékpapírtitok, biztosítási titok, banktitok vagy az adatvédelemről szóló jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által védett információ jogszerűtlen feltárásával vagy felhasználásával jár, vagy
   - ac) ügylet ellentétben áll az ÁÉKBV-alapkezelő e törvényben vagy a Bszt.-ben meghatározott kötelezettségeivel;
 - b) harmadik személy részére történő, az érintett személy munkaköri kötelezettségét meghaladó tanácsadás vagy harmadik személy biztatása arra, hogy pénzügyi eszközökre vonatkozó olyan ügyletbe kezdjen, amely ha az érintett személy személyes ügylete lenne, vonatkozna rá az a) pont vagy a Bszt. 77. §-ának (1) és (2) bekezdése, illetve a folyamatban lévő megbízásokra vonatkozó információkkal való visszaélésnek minősülne;
 - c) információ vagy vélemény az 596/2014/EU rendeletben meghatározott jogszerű magatartásnak nem minősülő, az érintett személy munkaköri kötelezettségét meghaladó módon történő közlése harmadik személy részére, amennyiben az érintett személy tisztában van vagy tőle elvárható gondossággal tisztában kellene lennie, hogy e közlés eredményeként a harmadik személy
@@ -2597,7 +2597,7 @@ kapja meg; valamint
 
 #### 76. Adatszolgáltatás harmadik országnak
 
-181. § (1) A Felügyelet eseti alapon adatokat, valamint adatok alapján készült elemzéseket adhat át harmadik ország felügyeleti hatóságának abban az esetben, ha az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényben meghatározott, a személyes adatok harmadik országba történő továbbítására vonatkozó feltételek teljesülnek, és meggyőződik arról, hogy az információk átadására szükség van. A Felügyelet az adatok átadásakor kiköti, hogy írásbeli hozzájárulása nélkül a harmadik ország felügyeleti hatósága nem továbbíthatja az adatokat más harmadik országnak.
+181. § (1) A Felügyelet eseti alapon adatokat, valamint adatok alapján készült elemzéseket adhat át harmadik ország felügyeleti hatóságának abban az esetben, ha a személyes adatok harmadik országba történő továbbítására vonatkozó feltételek teljesülnek, és meggyőződik arról, hogy az információk átadására szükség van. A Felügyelet az adatok átadásakor kiköti, hogy írásbeli hozzájárulása nélkül a harmadik ország felügyeleti hatósága nem továbbíthatja az adatokat más harmadik országnak.
 
 (2) A Felügyelet egy másik EGT-állam felügyeleti hatóságától kapott információt csak abban az esetben adhat tovább harmadik ország felügyeleti hatóságának, ha ehhez megszerezte az információt átadó hatóság kifejezett hozzájárulását, és kizárólag olyan célra továbbítja, amelyhez az adott felügyeleti hatóság hozzájárult.
 
@@ -2607,7 +2607,7 @@ kapja meg; valamint
 
 (2) Az (1) bekezdésben meghatározott együttműködés céljából a Felügyelet mint együttműködésre felkért felügyeleti hatóság akkor is eljárhat, ha a vizsgált magatartás kizárólag az együttműködést kezdeményező EGT-állam jogszabályaiba ütközik.
 
-(3) A Felügyelet a más EGT-állam felügyeleti hatósága, valamint az EÉPH részére haladéktalanul rendelkezésére bocsátja a feladataik ellátásához szükséges információkat. A Felügyelet a személyes adatok más felügyeleti hatóság részére történő továbbítása során a 95/46/EK irányelvben foglaltak figyelembe vételével jár el.
+(3) A Felügyelet a más EGT-állam felügyeleti hatósága, valamint az EÉPH részére haladéktalanul rendelkezésére bocsátja a feladataik ellátásához szükséges információkat.
 
 (4) A Felügyelet a vonatkozó együttműködési megállapodások egy-egy példányát, megküldi azon fogadó EGT-állam részére, amelyekben a magyarországi székhelyű ABAK fióktelepet létesít, avagy határon átnyúló szolgáltatást nyújt.
 
@@ -2876,7 +2876,7 @@ szemben, e szerveknek a befektetési alapkezelőhöz intézett adatkérése, ill
 - a) az állami adóhatóság nemzetközi szerződés alapján külföldi állami adóhatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a befektetési alapkezelőtől, ha a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot,
 - b) a Felügyelet a külföldi felügyeleti hatósággal kötött együttműködési megállapodásban meghatározott módon kér, illetve továbbít adatot, ha az együttműködési megállapodás vagy a külföldi felügyeleti hatóság megkeresése tartalmazza az általa aláírt titoktartási záradékot,
 - c) a magyar bűnüldöző szerv nemzetközi szerződés alapján, külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése érdekében írásban kér adatot a befektetési alapkezelőtől, ha a megkeresés tartalmazza a külföldi bűnüldöző szerv által aláírt titoktartási záradékot,
-- d) a Befektető-védelmi Alap által külföldi befektető-védelmi rendszer, valamint külföldi felügyeleti hatóság részére, együttműködési megállapodásban rögzített módon kerül sor adattovábbításra, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
+- d) a Befektető-védelmi Alap által külföldi befektető-védelmi rendszer, valamint külföldi felügyeleti hatóság részére, együttműködési megállapodásban rögzített módon kerül sor adattovábbításra, ha az adatok kezelésére, illetve felhasználására vonatkozóan az adatvédelmi jogszabályokkal és az Európai Unió közvetlenül alkalmazandó jogi aktusaival legalább egyenrangú védelem biztosított,
 - e)
 
 (3) A (2) bekezdés szerinti írásbeli megkeresésben meg kell jelölni

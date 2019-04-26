@@ -478,11 +478,11 @@ kötheti.
 
 (3a) A Koordináló szerv az állami hulladékgazdálkodási, jogszabályban meghatározott feladatainak ellátása érdekében jogosult az Országos Környezetvédelmi Információs Rendszer (a továbbiakban: OKIR) a 78. § (4) bekezdése szerinti hulladékgazdálkodással kapcsolatos önálló részének adataihoz való közvetlen hozzáférésre és azok kezelésére.
 
-(4) A közszolgáltató, a települési önkormányzat, az önkormányzati társulás, a hulladékgazdálkodási létesítmény tulajdonosa, a közszolgáltató részére támogatást nyújtó szerv, valamint a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) megad minden adatot és információt, ami a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv kezelheti, és részére átadhatók az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatok.
+(4) A közszolgáltató, a települési önkormányzat, az önkormányzati társulás, a hulladékgazdálkodási létesítmény tulajdonosa, a közszolgáltató részére támogatást nyújtó szerv, valamint a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) megad minden adatot és információt, ami a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv az elszámolási, számlázási, és kintlévőség-kezelési feladatai befejezését követő 5 évig kezeli a részére átadott, az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatot.
 
-(5) A (4) bekezdésben meghatározott adatok közül a személyes adatokat a Koordináló szerv – és az ügyfélszolgálati, elszámolási, számlázási és kintlevőség-kezelési feladatai ellátásában igénybevett gazdálkodó szervezet, – az állami hulladékgazdálkodási közfeladat ellátása érdekében kezelheti, nyilvántarthatja. A Koordináló szerv térítésmentesen jogosult az elszámolási, számlázási, és kintlevőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére is kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás szerveitől. Az átvett személyes adatokat a Koordináló szerv és az ügyfélszolgálati, elszámolási, számlázási és kintlevőség-kezelési feladatai ellátásában igénybevett gazdálkodó szervezet az érintettnek a közszolgáltatás igénybevételére vonatkozó kötelezettsége megszűnéséig, a közszolgáltatással összefüggő díjhátralék esetén annak kifizetéséig (behajtásáig) vagy törléséig kezelheti.
+(5) A Koordináló szerv térítésmentesen jogosult az elszámolási, számlázási, és kintlevőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás szerveitől.
 
-(5a) A közszolgáltató a 38. § (3) bekezdésében meghatározott adatokat az általa ellátandó hulladékgazdálkodási közszolgáltatás ellátása, illetve jogszabályban foglalt kötelezettségei teljesítése érdekében kezelheti és tarthatja nyilván. A közszolgáltató a kezelt személyes adatokat haladéktalanul köteles törölni, ha az adatkezelés nem az e bekezdésben meghatározott célból történt, vagy az adatkezelés célja megszűnt.
+(5a) A közszolgáltató a 38. § (3) bekezdésében meghatározott adatokat az általa ellátandó hulladékgazdálkodási közszolgáltatás ellátását, illetve jogszabályban foglalt kötelezettségei teljesítését követő 5 évig kezeli.
 
 (6)
 
@@ -568,7 +568,7 @@ kötheti.
 
 (2) Az ingatlanhasználó a hulladékgazdálkodási közszolgáltatás ellátásáért hulladékgazdálkodási közszolgáltatási díjat fizet az e törvényben, valamint a miniszter rendeletében meghatározott feltételek szerint.
 
-(3) A gazdálkodó szervezet ingatlanhasználó a Koordináló szerv felhívására a közhiteles nyilvántartás szerinti nevét, székhelyének, telephelyének címét, adószámát, továbbá, ha elektronikus kézbesítési cím közhiteles nyilvántartásban történő szerepeltetése számára kötelező, úgy elektronikus kézbesítési címét, a természetes személy ingatlanhasználó a személyes adatai közül a családi és utónevét, születési nevét, születési helyét és idejét, anyja születési családi és utónevét, lakóhelyének, tartózkodási és értesítési helyének címét megadja.
+(3) A 32/A. §-ban meghatározott állami hulladékgazdálkodási közfeladat ellátása érdekében a Koordináló szerv felhívására a gazdálkodó szervezet a közhiteles nyilvántartás szerinti nevét, székhelyének, telephelyének címét, adószámát, elektronikus kézbesítési címét, a természetes személy ingatlanhasználó a családi és utónevét, születési nevét, születési helyét és idejét, anyja születési családi és utónevét, lakóhelyének, tartózkodási és értesítési helyének címét megadja.
 
 39. § (1) Az ingatlanhasználó az általa használt ingatlan területén képződő települési hulladékot elkülönítetten gyűjti, és azt – e törvényben meghatározott kivételekkel – a közszolgáltatónak átadja.
 
@@ -886,7 +886,7 @@ az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáf�
 - a) a természetes személyazonosító adatokat, valamint
 - b) a lakcímet
 
-tarthatja nyilván.
+kezeli.
 
 (3) Az (1) bekezdés szerinti nyilvántartást a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kódok alapján kell vezetni.
 
@@ -978,7 +978,7 @@ lerakása valósul meg,
 - b) a felvétel rögzítésének, gyűjtésének, tárolásának céljáról,
 - c) az elektronikus megfigyelő- és beléptető rendszert üzemeltető személyéről,
 - d) a felvétel és az adatok kezelésének módjáról, valamint
-- e) az információs önrendelkezési jogról és az információszabadságról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről.
+- e) az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezésekről.
 
 (3) A felvétel és az adatok – megkeresés alapján vagy a hatóság által végzett helyszíni ellenőrzés alkalmával – kizárólag
 
@@ -988,9 +988,9 @@ lerakása valósul meg,
 
 részére adhatók át.
 
-69/C. § (1) A személyes adatokat tartalmazó felvétel és az adatok az információs önrendelkezési jogról és az információszabadságról szóló törvényben, valamint az e törvényben meghatározottak szerint rögzíthető, gyűjthető, tárolható és használható fel. A járulékfizetésre kötelezett a felvétel és az adatok rögzítése, gyűjtése, tárolása során adatkezelőnek minősül. Az adatkezelő – a 69/A. § (1) bekezdésében védett érdek biztosítása céljából – kizárólag a felvétel és az adatok rögzítését, gyűjtését, tárolását végezheti.
+69/C. § (1)
 
-(2) Az (1) bekezdés szerinti felhasználásnak minősül, ha a felvételt vagy az adatokat hatósági vagy bírósági eljárásban bizonyítékként felhasználják.
+(2)
 
 (3) Az, akinek jogát vagy jogos érdekét a felvétel vagy a rögzített adatok érintik, a felvétel vagy az adatok rögzítésétől számított 60 napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy a felvételt vagy az adatokat annak kezelője ne törölje.
 

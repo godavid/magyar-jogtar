@@ -436,17 +436,17 @@ kell megfelelően alkalmazni.
 
 (2) Az Állami Számvevőszék és a nevében ellenőrzést végző számvevő az ellenőrzés során – annak lefolytatása érdekében – a személyes adatot tartalmazó dokumentumokba, adatnyilvántartásokba betekinthet, azokat – a (3) és (4) bekezdésben meghatározott kivételekkel – az ellenőrzés lefolytatása céljából átveheti és kezelheti.
 
-(3) Az Állami Számvevőszék és a nevében ellenőrzést végző számvevő az ellenőrzés során különleges személyes adatot kezelhet, de az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 3. § 3. pont a) alpontjába tartozó adat esetében csak betekintési joggal rendelkezik.
+(3) Az Állami Számvevőszék és a nevében ellenőrzést végző számvevő az ellenőrzés során különleges adatot és bűnügyi személyes adatot kezelhet, de – az egészségügyi adat és a bűnügyi személyes adat kivételével – azok tekintetében csak betekintési joggal rendelkezik.
 
-(4) Az ellenőrzéssel érintett adatnyilvántartó rendszerben szereplő olyan személyek személyes adatai, illetve különleges személyes adatai nem vehetők át, akik az ellenőrzött tevékenységgel nem érintettek és személyes adatuk az ellenőrzés lefolytatásához nem szükséges.
+(4) Az ellenőrzéssel érintett adatnyilvántartó rendszerben szereplő olyan személyek személyes adatai nem vehetők át, akik az ellenőrzött tevékenységgel nem érintettek és személyes adatuk az ellenőrzés lefolytatásához nem szükséges.
 
 (5) Az ellenőrzés során az ellenőrzött szervezetről vagy annak dolgozójáról, tisztségviselőjéről megszerzett információk a jelentés, az e törvény 5. § (13) bekezdése szerinti elemzés és tanulmány készítésén kívül nem használhatók fel más célra. A számvevő a tudomására jutott minősített adatot vagy egyéb, törvény által védett titkot köteles megőrizni, azt külön felhatalmazás nélkül harmadik személynek nem adhatja át, és feladatkörén kívül nem használhatja fel.
 
-(6) Az Állami Számvevőszék a hozzá érkezett közérdekű bejelentéseket, a jogszabályi kötelezettség alapján részére megküldött tájékoztatókat, illetve egyéb dokumentumokat, valamint a bennük szereplő személyes adatokat és különleges személyes adatokat – az Infotv. 3. § 3. pont a) alpontjába tartozó adat kivételével – kezelheti.
+(6) Az Állami Számvevőszék a hozzá érkezett közérdekű bejelentéseket, a jogszabályi kötelezettség alapján részére megküldött tájékoztatókat, illetve egyéb dokumentumokat, valamint a bennük szereplő, különleges adatnak nem minősülő személyes adatokat, valamint egészségügyi adatokat és bűnügyi személyes adatokat kezelheti.
 
-(7) Az Állami Számvevőszék a (2)–(6) bekezdések alapján birtokába került személyes adatot büntető- vagy fegyelmi eljárás kezdeményezése, nyomozó hatósági megkeresés teljesítése, illetve peres eljárás lefolytatása céljából, az Infotv. 3. § 3. pont a) alpontjába nem tartozó különleges személyes adatot pedig csak büntetőeljárás kezdeményezése, illetve nyomozó hatósági vagy bírósági megkeresés teljesítése céljából továbbíthatja az illetékes szervezet részére.
+(7) Az Állami Számvevőszék a (2)–(6) bekezdések alapján birtokába került személyes adatot büntető- vagy fegyelmi eljárás kezdeményezése, nyomozó hatósági megkeresés teljesítése, illetve peres eljárás lefolytatása céljából, egészségügyi adatot és bűnügyi személyes adatot pedig csak büntetőeljárás kezdeményezése, illetve a bíróság, az ügyészség vagy a nyomozó hatóság adatkérésének teljesítése céljából továbbíthatja.
 
-(8) Az Állami Számvevőszék a (2)–(6) bekezdések alapján birtokába került személyes adatot az adatkezelés megkezdésétől számított öt évig, az Infotv. 3. § 3. pont a) alpontjába nem tartozó különleges személyes adatot pedig az adatkezelés megkezdésétől számított három évig, de legfeljebb a kezdeményezett büntető- vagy fegyelmi eljárás jogerős befejezéséig kezelheti.
+(8) Az Állami Számvevőszék a (2)–(6) bekezdések alapján birtokába került személyes adatot az adatkezelés megkezdésétől számított öt évig, egészségügyi adatot és bűnügyi személyes adatot pedig az adatkezelés megkezdésétől számított három évig, de legfeljebb a fegyelmi eljárás jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának meghozataláig kezelheti.
 
 ### Közreműködési kötelezettség
 
@@ -495,7 +495,7 @@ kell megfelelően alkalmazni.
 
 (3) Az Állami Számvevőszék jelentése nyilvános. Törvény a nyilvánosságot államtitok védelme érdekében korlátozhatja. A nyilvánosságra hozott jelentés nem tartalmazhat minősített adatot vagy a törvény által védett egyéb titkot.
 
-(4) A vizsgált magánszemély vagy a jogi személy vezetőjének neve és az ellenőrzés során vizsgált tevékenységgel kapcsolatba hozható személyes adata – az Infotv. 3. § 3. pontjába tartozó különleges személyes adat kivételével – közérdekből nyilvános adat, és a jelentésben nyilvánosságra hozható, vagy egyéb módon hozzáférhetővé tehető.
+(4) A vizsgált magánszemély vagy a jogi személy vezetőjének neve és az ellenőrzés során vizsgált tevékenységgel kapcsolatba hozható személyes adata – különleges adat kivételével – közérdekből nyilvános adat, és a jelentésben nyilvánosságra hozható, vagy egyéb módon hozzáférhetővé tehető.
 
 (5) Az Állami Számvevőszék a jelentéstervezetet záró megbeszélés keretében egyeztetheti az ellenőrzött szervezet vezetőjével vagy az általa megbízott személlyel.
 

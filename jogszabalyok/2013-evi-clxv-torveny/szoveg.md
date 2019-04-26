@@ -103,27 +103,43 @@ Az Országgyűlés, elkötelezetten az állami szervek működésébe vetett kö
 
 13. § A munkáltató, valamint annak gazdasági társasági formában működő tulajdonosa (a továbbiakban együtt: foglalkoztatói szervezet) a munkáltató munkavállalóira a munka törvénykönyvéről szóló 2012. évi I. törvény 9. § (2) bekezdésében meghatározott feltételekkel a közérdeket vagy nyomós magánérdeket védő magatartási szabályokat állapíthat meg, amelyet a munkáltató a kapcsolódó eljárás leírásával együtt bárki számára elérhető módon köteles nyilvánosságra hozni.
 
-14. § (1) A foglalkoztatói szervezet a jogszabályok, valamint a 13. § szerinti magatartási szabályok megsértésének bejelentésére visszaélés-bejelentési rendszert (a továbbiakban: bejelentési rendszer) hozhat létre, ebben a bejelentőnek, valamint a bejelentésben érintett személynek a bejelentésben megadott személyes adatait a bejelentés kivizsgálása céljából kezelheti és a bejelentés kivizsgálásában közreműködő külső szervezet részére továbbíthatja. A bejelentési rendszerhez kapcsolódó adatkezelést az adatkezelő bejelenti a Nemzeti Adatvédelmi és Információszabadság Hatóság által vezetett adatvédelmi nyilvántartásba. A bejelentési rendszerhez kapcsolódó adatkezelés adatvédelmi nyilvántartásba vételére az Infotv. 65. § (3) bekezdés a) pontját nem kell alkalmazni.
+14. § (1) A foglalkoztatói szervezet – jogszerű és prudens működése érdekében – a jogszabályok, valamint a 13. § szerinti magatartási szabályok megsértésének bejelentésére visszaélés-bejelentési rendszert (a továbbiakban: bejelentési rendszer) hozhat létre, amelynek keretei között a munkáltató munkavállalói, valamint a foglalkoztatói szervezettel szerződéses viszonyban álló, vagy olyan személyek tehetnek bejelentést, akiknek a bejelentés megtételéhez vagy a bejelentés tárgyát képező magatartás orvoslásához vagy megszüntetéséhez méltányolható jogos érdekük fűződik (a továbbiakban: bejelentő).
 
-(2) A bejelentési rendszer működésére, valamint a bejelentéssel kapcsolatos eljárásra vonatkozóan a munkáltató honlapján magyar nyelvű, részletes tájékoztatást tesz közzé.
+(2) A bejelentési rendszer működésére, valamint a bejelentéssel kapcsolatos eljárásra vonatkozóan a foglalkoztatói szervezet honlapján magyar nyelvű, részletes tájékoztatást tesz közzé.
 
-(3) A bejelentési rendszerben különleges adatok kezelése tilos.
+(3) A foglalkoztatói szervezet a bejelentési rendszer keretei között
 
-(4) A bejelentési rendszerből haladéktalanul törölni kell a bejelentésben nem érintett harmadik személyre vonatkozó, a bejelentés kivizsgálásához nem szükséges, valamint az e törvény szerint nem kezelhető adatokat.
+- a) a bejelentőnek és
+- b) annak a személynek,
+  - ba) akinek a magatartása vagy mulasztása a bejelentésre okot adott, vagy
+  - bb) aki a bejelentésben foglaltakról érdemi információval rendelkezhet [a továbbiakban a ba) és bb) alpont együtt: a bejelentésben érintett személy]
 
-(5) A bejelentési rendszerben kezelt személyes adatok kezelésére a 3. § (3) bekezdésében és – a bejelentőre vonatkozó adatok tekintetében – a 3. § (4) bekezdésében foglaltakat kell alkalmazni.
+a bejelentés kivizsgálásához elengedhetetlenül szükséges személyes adatait – ideértve a különleges adatokat és a bűnügyi személyes adatokat is – kizárólag a bejelentés kivizsgálása és a bejelentés tárgyát képező magatartás orvoslása vagy megszüntetése céljából kezelheti és a bejelentővédelmi ügyvéd, illetve a bejelentés kivizsgálásában közreműködő külső szervezet részére továbbíthatja.
 
-(6) A bejelentési rendszerbe a munkáltató munkavállalói, valamint a foglalkoztatói szervezettel szerződéses viszonyban álló, vagy olyan személyek tehetnek bejelentést, akiknek a bejelentés megtételéhez vagy a bejelentés tárgyát képező magatartás orvoslásához méltányolható jogos érdekük fűződik. A bejelentés megtételekor a bejelentő nevét és lakcímét, jogi személy bejelentő esetén annak székhelyét és a bejelentést benyújtó törvényes képviselőjének nevét köteles megadni, továbbá nyilatkoznia kell arról, hogy a bejelentést jóhiszeműen teszi olyan körülményekről, amelyekről tudomása van, vagy kellő alappal feltételezi, hogy azok valósak. A bejelentő figyelmét fel kell hívni a rosszhiszemű bejelentés következményeire, a bejelentés kivizsgálására irányadó eljárási szabályokra és arra, hogy személyazonosságát a vizsgálat valamennyi szakaszában bizalmasan kezelik. A bejelentőt tájékoztatni kell arról, hogy a név nélküli vagy azonosíthatatlan bejelentő által megtett bejelentés vizsgálata mellőzhető.
+(4) A bejelentési rendszer keretei között kezelt adatok közül haladéktalanul törölni kell a (3) bekezdés hatálya alá nem tartozó személyes adatokat.
 
-15. § (1) A bejelentést a munkáltató köteles kivizsgálni és a bejelentőt a kivizsgálás eredményéről, valamint a megtett intézkedésekről tájékoztatni. A korábbival azonos tartalmú, ugyanazon bejelentő által tett ismételt, a sérelmezett tevékenységről vagy mulasztásról való tudomásszerzéstől számított hat hónap után bejelentett, továbbá a név nélküli vagy azonosíthatatlan bejelentő által megtett bejelentés vizsgálata mellőzhető. Ha a közérdek vagy a nyomós magánérdek sérelme a bejelentésben érintett személy jogainak korlátozásával nem áll arányban, a munkáltató a bejelentés vizsgálatát mellőzheti.
+(5) A bejelentési rendszer keretei között kezelt személyes adatok kezelésére a 3. § (3) bekezdésében és – a bejelentőre vonatkozó adatok tekintetében – a 3. § (4) bekezdésében foglaltakat kell alkalmazni.
 
-(2) A bejelentési rendszert úgy kell kialakítani, hogy a nem névtelen bejelentő személyét a bejelentést kivizsgálókon kívül más ne ismerhesse meg. A bejelentést kivizsgálók a vizsgálat lezárásáig vagy a kivizsgálás eredményeképpen történő formális felelősségre vonás kezdeményezéséig a bejelentés tartalmára és a bejelentésben érintett személyekre vonatkozó információkat kötelesek titokban tartani, és azokat – a bejelentésben érintett személy tájékoztatása kivételével – nem oszthatják meg a foglalkoztatói szervezet egyetlen más szervezeti egységével vagy munkatársával sem.
+(6) A bejelentés megtételekor a bejelentőnek nyilatkoznia kell arról, hogy a bejelentést jóhiszeműen teszi olyan körülményekről, amelyekről tudomása van, vagy kellő alappal feltételezi, hogy azok valósak. Jogi személy bejelentő a bejelentés megtételekor köteles megadni székhelyét és a bejelentést benyújtó törvényes képviselőjének nevét. A bejelentő figyelmét fel kell hívni a rosszhiszemű bejelentés következményeire, a bejelentés kivizsgálására irányadó eljárási szabályokra és arra, hogy személyazonosságát – ha az annak megállapításához szükséges adatokat megadja – a vizsgálat valamennyi szakaszában bizalmasan kezelik.
 
-(3) A bejelentésben érintett személyt a vizsgálat megkezdésekor részletesen tájékoztatni kell a rá vonatkozó bejelentésről, az Infotv. alapján megillető jogairól, valamint az adatai kezelésére vonatkozó szabályokról. A tisztességes eljárás követelményének megfelelően biztosítani kell, hogy a bejelentésben érintett a bejelentéssel kapcsolatos álláspontját akár jogi képviselője útján is kifejtse, és azt bizonyítékokkal támassza alá. A bejelentésben érintett személy tájékoztatására kivételesen, indokolt esetben később is sor kerülhet, ha az azonnali tájékoztatás meghiúsítaná a bejelentés kivizsgálását.
+15. § (1) A bejelentési rendszer keretei között kezelt adatok más államba vagy nemzetközi szervezet részére történő továbbítására kizárólag a továbbítás címzettje által tett, a bejelentésre vonatkozó, e törvényben foglalt szabályok betartására irányuló jogi kötelezettségvállalás esetén kerülhet sor.
 
-16. § (1) A bejelentések fogadásával vagy vizsgálatával szerződés keretében bejelentővédelmi ügyvéd is megbízható. Az adatok külföldre történő továbbítására akkor kerülhet sor, ha az adatkezelő vagy adatfeldolgozó szerződés keretében kötelezettséget vállal a bejelentésre vonatkozó magyar törvényi szabályok betartására és a továbbított vagy harmadik országban adatfeldolgozást végző adatfeldolgozó részére feldolgozásra átadott személyes adatok megfelelő szintű védelme az Infotv. 8. § (2) bekezdése szerint biztosított.
+(2) A bejelentési rendszert úgy kell kialakítani, hogy a nem névtelen bejelentő személyét a bejelentést kivizsgálókon kívül más ne ismerhesse meg. A bejelentést kivizsgálók a vizsgálat lezárásáig vagy a vizsgálat eredményeképpen történő formális felelősségre vonás kezdeményezéséig a bejelentés tartalmára és a bejelentésben érintett személyekre vonatkozó információkat kötelesek titokban tartani, és azokat – a bejelentésben érintett személy tájékoztatása kivételével – nem oszthatják meg a foglalkoztatói szervezet egyetlen más szervezeti egységével vagy munkatársával sem.
 
-(2) A munkáltató a körülmények által lehetővé tett legrövidebb időn belül köteles a bejelentésben foglaltak kivizsgálására. A bejelentés kivizsgálására annak beérkezésétől számított 30 nap áll rendelkezésre, amely határidőtől – név nélküli vagy azonosíthatatlan bejelentő által megtett bejelentés kivételével – csak különösen indokolt esetben, a bejelentő egyidejű tájékoztatása mellett lehet eltérni. A vizsgálat időtartama a 3 hónapot nem haladhatja meg.
+(3) A bejelentésben érintett személyt a vizsgálat megkezdésekor részletesen tájékoztatni kell a bejelentésről, a személyes adatai védelmével kapcsolatban őt megillető jogairól, valamint az adatai kezelésére vonatkozó szabályokról. A tisztességes eljárás követelményének megfelelően biztosítani kell, hogy a bejelentésben érintett személy a bejelentéssel kapcsolatos álláspontját akár jogi képviselője útján is kifejtse, és azt bizonyítékokkal támassza alá. A bejelentésben érintett személy tájékoztatására kivételesen, indokolt esetben később is sor kerülhet, ha az azonnali tájékoztatás meghiúsítaná a bejelentés kivizsgálását.
+
+16. § (1) A bejelentést a foglalkoztatói szervezet az általa meghatározott eljárásrendben kivizsgálja és a bejelentőt a vizsgálat eredményéről, valamint a megtett intézkedésekről tájékoztatja.
+
+(1a) A bejelentések fogadásával vagy kivizsgálásával szerződés keretében bejelentővédelmi ügyvéd, a bejelentések kivizsgálásában való közreműködéssel bejelentővédelmi ügyvéd vagy más külső szervezet is megbízható.
+
+(1b) A bejelentés vizsgálata mellőzhető, ha
+
+- a) a bejelentő a bejelentést személyazonosságának felfedése nélkül tette meg,
+- b) a bejelentés ugyanazon bejelentő által tett ismételt, a korábbi bejelentéssel azonos tartalmú bejelentés,
+- c) a bejelentést a sérelmezett tevékenységről vagy mulasztásról való tudomásszerzéstől számított hat hónap elteltét követően tette meg a bejelentő,
+- d) a közérdek vagy a nyomós magánérdek sérelme a bejelentésben érintett személy jogainak a bejelentés kivizsgálásából eredő korlátozásával nem állna arányban.
+
+(2) A bejelentésben foglaltakat a körülmények által lehetővé tett legrövidebb időn belül, legfeljebb a bejelentés beérkezésétől számított harminc napon belül kell kivizsgálni, amely határidőtől – név nélküli vagy azonosíthatatlan bejelentő által megtett bejelentés kivételével – csak különösen indokolt esetben, a bejelentő egyidejű tájékoztatása mellett lehet eltérni. A vizsgálat időtartama a három hónapot nem haladhatja meg.
 
 (3) Ha a bejelentésben foglalt magatartás miatt a vizsgálat alapján büntetőeljárás kezdeményezése indokolt, akkor intézkedni kell a feljelentés megtételéről.
 
@@ -131,27 +147,27 @@ Az Országgyűlés, elkötelezetten az állami szervek működésébe vetett kö
 
 (5) Ha a vizsgálat alapján a bejelentés nem megalapozott vagy további intézkedés megtétele nem szükséges, a bejelentésre vonatkozó adatokat a vizsgálat befejezését követő 60 napon belül törölni kell.
 
-(6) Ha a vizsgálat alapján intézkedés megtételére kerül sor – ideértve a bejelentő személlyel szemben jogi eljárás vagy fegyelmi intézkedés megtétele miatti intézkedést is – a bejelentésre vonatkozó adatokat a munkáltatói bejelentési rendszerben legfeljebb a bejelentés alapján indított eljárások jogerős lezárásáig lehet kezelni.
+(6) Ha a vizsgálat alapján intézkedés megtételére kerül sor – ideértve a bejelentővel szemben jogi eljárás vagy fegyelmi intézkedés megtétele miatti intézkedést is – a bejelentésre vonatkozó adatokat a bejelentési rendszer keretei között legfeljebb a bejelentés alapján indított eljárások jogerős lezárásáig lehet kezelni.
 
 #### 5. A bejelentővédelmi ügyvéd
 
-17. § (1) Az állami és helyi önkormányzati szervnek nem minősülő jogi személy a tevékenységével összefüggő bejelentések fogadásával és kezelésével kapcsolatos feladatok ellátására ügyvéddel megbízási szerződést köthet (a továbbiakban: bejelentővédelmi ügyvéd). A bejelentővédelmi ügyvéd tevékenysége szempontjából minden olyan jelzés bejelentésnek tekintendő, amely olyan körülményre hívja fel a figyelmet, amelynek orvoslása vagy megszüntetése a jogi személy jogi vagy jogszabályba nem ütköző üzleti érdekét, vagy a jogi személy tevékenységével kapcsolatos jogszabálysértés, a közbiztonság, a közegészség vagy a környezet veszélyeztetésének megszüntetését szolgálja.
+17. § (1) Az állami és helyi önkormányzati szervnek nem minősülő jogi személy (a továbbiakban: megbízó) a tevékenységével összefüggő bejelentések fogadásával és kezelésével kapcsolatos feladatok ellátására ügyvéddel megbízási szerződést köthet bejelentővédelmi ügyvédi tevékenység folytatására. A bejelentővédelmi ügyvéd tevékenysége szempontjából minden olyan jelzés bejelentésnek tekintendő, amely olyan körülményre hívja fel a figyelmet, amelynek orvoslása vagy megszüntetése a megbízó jogi vagy jogszabályba nem ütköző üzleti érdekét, vagy a megbízó tevékenységével kapcsolatos jogszabálysértés, a közbiztonság, a közegészség vagy a környezet veszélyeztetésének megszüntetését szolgálja.
 
 (2) Az (1) bekezdés szerinti megbízási szerződés nem köthető olyan jogi személlyel, amellyel a bejelentővédelmi ügyvéd más megbízási jogviszonyban, munkaviszonyban, munkavégzési kötelezettséggel járó más jogviszonyban áll, vagy amellyel a megbízási szerződés megkötését megelőző öt évben ilyen jogviszonyban állt. Ha a bejelentés a megbízó vezető tisztségviselőjének cselekményével vagy mulasztásával függ össze, a bejelentővédelmi ügyvéd a bejelentő felügyelőbizottságát, könyvvizsgálóját, a megbízó legfőbb döntéshozó szervét vagy a tulajdonosi jogok gyakorlóját köteles a bejelentésről haladéktalanul értesíteni.
 
 (3) A bejelentővédelmi ügyvéd e tevékenységével összefüggésben javadalmazást vagy más előnyt a megbízó kivételével mástól nem kérhet és nem fogadhat el.
 
-(4) A bejelentővédelmi ügyvédi megbízás létrejöttét az ügyvédnek 15 napon belül írásban be kell jelentenie a területi ügyvédi kamarának. A bejelentővédelmi ügyvéd nevét, címét, telefonszámát, elektronikus levélcímét, valamint honlapjának elérhetőségét a területi ügyvédi kamara honlapján közzé kell tenni.
+(4) A bejelentővédelmi ügyvédi megbízás létrejöttét a bejelentővédelmi ügyvédnek tizenöt napon belül írásban be kell jelentenie a területi ügyvédi kamarának. A bejelentővédelmi ügyvéd nevét, címét, telefonszámát, elektronikus levélcímét, valamint honlapjának elérhetőségét a területi ügyvédi kamara honlapján közzé kell tenni.
 
 18. § (1) A 17. § (1) bekezdése szerinti megbízási szerződés alapján a bejelentővédelmi ügyvéd:
 
-- a) fogadja a megbízója tevékenységével összefüggő bejelentéseket,
+- a) fogadja a megbízó tevékenységével összefüggő bejelentéseket,
 - b) jogi tanácsadást nyújt a bejelentőnek a bejelentés megtételével kapcsolatban,
 - c) kapcsolatot tart a bejelentővel, tőle a bejelentés kivizsgálása érdekében szükség esetén tájékoztatást, felvilágosítást kérhet,
 - d) a megbízó rendelkezése szerint közreműködhet a bejelentés alapján indult vizsgálat lefolytatásában,
-- e) kérésére írásban tájékoztatja a bejelentőt a bejelentéssel kapcsolatos eseményekről, különösen a bejelentés alapján indult vizsgálat eredményéről, a megbízó jogi személy által megtett intézkedéséről vagy a vizsgálat lefolytatásának elutasításáról.
+- e) kérésére írásban tájékoztatja a bejelentőt a bejelentéssel kapcsolatos eseményekről, különösen a bejelentés alapján indult vizsgálat eredményéről, a megbízó által megtett intézkedéséről vagy a vizsgálat lefolytatásának elutasításáról.
 
-(2) A bejelentővédelmi ügyvéd a bejelentést az őt megbízó jogi személyhez továbbítja, de a bejelentő személyének megállapítását lehetővé tevő adatok tekintetében titoktartásra köteles, ezért a bejelentésnek a bejelentő azonosítását lehetővé tevő adatot nem tartalmazó kivonatát küldi meg a megbízónak, kivéve ha titoktartási kötelezettsége alól a bejelentő előzetesen, írásban felmentést adott.
+(2) A bejelentővédelmi ügyvéd a bejelentést a megbízóhoz továbbítja, de a bejelentő azonosítását lehetővé tevő adatok tekintetében titoktartásra köteles, ezért a bejelentésnek a bejelentő azonosítását lehetővé tevő adatot nem tartalmazó kivonatát küldi meg a megbízónak, kivéve ha titoktartási kötelezettsége alól a bejelentő előzetesen, írásban felmentést adott.
 
 (3) A bejelentővédelmi ügyvéd az ilyen minőségében kapott bejelentéseket és azok iratanyagát köteles más tevékenységétől elkülönítve kezelni és nyilvántartani.
 

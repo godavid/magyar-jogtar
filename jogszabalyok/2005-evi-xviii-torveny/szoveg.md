@@ -298,7 +298,7 @@ a távhőellátás fenntartása
 
 (5) A (2) bekezdés szerinti esetben a korábbi engedélyes köteles a Hivatal által meghatározott, a folyamatos és biztonságos távhőtermeléshez és szolgáltatáshoz szükséges eszközeit az új vagy kijelölt engedélyesnek ellenszolgáltatás ellenében üzemeltetésre átadni, és a tevékenység gyakorlásához szükséges nyilvántartásokat, adatokat rendelkezésre bocsátani.
 
-(6) A Hivatal a (4)–(5) bekezdések alapján hozott határozatainak fellebbezésre tekintet nélküli végrehajtását rendelheti el, az energiaellátás folyamatos biztosítása érdekében.
+(6) Az engedélyes a (2) és (4) bekezdés szerint kijelölt engedélyes részére az érintett felhasználók átvétele, a folyamatos és biztonságos távhőellátásuk biztosításához szükséges felkészülési teendők ellátása céljából továbbítja az érintett felhasználó, valamint díjfizető azonosításához és távhőellátása biztosításához szükséges személyes adatokat. A felhasználó azonosításához szükséges adat természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja. A kijelölt engedélyes az átvett adatokat az átadás-átvételi eljárás lezárultáig kezeli.
 
 ### IV. Fejezet — JOGOK IDEGEN INGATLANON
 
@@ -508,27 +508,7 @@ a szolgáltatást korlátozni. A korlátozás általános feltételeit a kormán
 
 (5) A távhőszolgáltató köteles a számla felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a felhasználónak, az (1) bekezdés szerinti esetben a díjfizetőnek a kézhezvételtől számítva legalább 15 nap rendelkezésére álljon.
 
-45. § (1) A távhőszolgáltató jogosult az érintettek tájékoztatása mellett
-
-- a) a közszolgáltatási szerződés hatálybalépésétől, a közszolgáltatási szerződés megszűnése után a követelések elévülési idejéig a felhasználók és a díjfizetők adatai közül azokat kezelni, amelyek a felhasználók és a díjfizetők azonosításához, a közszolgáltatási szerződés teljesítéséhez szükségesek. Ennek keretében jogosult a felhasználók és a díjfizetők azonosító adatai közül természetes személyek vonatkozásában a névre, lakcímre, születési időre és helyre vonatkozó adatokat, egyéb szervezetek vonatkozásában a névre, székhelyre, képviselő nevére vonatkozó adatokat, és mindkét esetben a felhasználási helyre, a fogyasztásra, a számlázásra és a díjfizetésre vonatkozó adatokat a közszolgáltatási szerződésen alapuló kötelezettségeinek teljesítése, jogainak gyakorlása céljából kezelni. Ugyanezen adatkezelői jogok illetik meg a felhasználók képviselőit, a felhasználók és a díjfizetők előbbiekben megjelölt adatai tekintetében;
-- b) az általa kezelt adatok közül azokat, amelyek a tevékenységgel összefüggő adatkezelés céljából szükségesek, átadni azoknak, akik a távhőszolgáltató megbízásából a díjak számlázását és beszedését, a követelések kezelését vagy az ügyfél-tájékoztatást végzik.
-
-(2) Az (1) bekezdés szerinti jogok megilletik azt az engedélyest is, akit a 20. § (4) bekezdés alapján a Hivatal a folyamatos távhőellátásra kijelöl.
-
-(3) Amennyiben az adatkezelés nem az (1) bekezdés a) pontjában meghatározott célból történt, az adatkezelő a kezelt személyes adatot haladéktalanul törli.
-
-(4) Az (1) bekezdés a) pontjában meghatározott adatok közül az adatkezelés céljához szükséges adatok átadhatóak:
-
-- a) a számlázási és forgalmazási jogviták rendezésére jogszabály alapján jogosult szervezetek részére;
-- b) az engedélyes megbízása alapján a számlázást, a követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki felülvizsgálatát, illetőleg az ügyfélszolgálati tájékoztatást végző természetes személynek és gazdálkodó szervezetnek;
-- c) a Hivatalnak;
-- d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, bíróságnak, ügyészségnek, nyomozó hatóságnak;
-- e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a végrehajtónak;
-- f) az energiafelhasználási támogatás megállapításával, illetőleg jogszerű igénybevételének ellenőrzésével összefüggő feladatokat külön jogszabály alapján ellátó szervnek. Az a)–c) és e)–f) pontok esetében az átadásról, illetőleg az átadott adatokról az érintettet egyidejűleg tájékoztatni kell.
-
-(5) A (4) bekezdés alapján átadott adatokkal kapcsolatban az átvevőket az engedélyessel azonos titoktartási kötelezettség terheli.
-
-(6) A 6. § (4) bekezdésében foglalt díjfizetési kötelezettség teljesítéséhez a távhőszolgáltató és a 38. § (2) és (4) bekezdésében meghatározott esetekben az épület tulajdonosa vagy tulajdonosi közössége, a 38. § (5) bekezdésében meghatározott esetben az épületrész tulajdonosa az önkormányzat rendeletében meghatározottak szerint adatot szolgáltat az önkormányzati adóhatóságnak.
+#### 45. §
 
 46. § (1) Az önkormányzat képviselő-testületének rendeletében meghatározott helyen és a távhőszolgáltató költségén felszerelt, elszámolás alapjául szolgáló hiteles mérőeszköz a távhőszolgáltató tulajdona, annak karbantartása, időszakos újrahitelesítése, cseréje a mérésügyről szóló 1991. évi XLV. törvény rendelkezéseivel összhangban, a távhőszolgáltató kötelessége.
 
@@ -708,7 +688,7 @@ meghatározott szerződésszegést követi el.
 
 (3) A távhőszolgáltatás csatlakozási díját külön jogszabályban meghatározott szempontok szerint úgy kell meghatározni, hogy az a hatékonyan működő vállalkozó szükséges és indokoltan felmerült ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, és a legkisebb költség elvének érvényre juttatása érdekében e vállalkozásokat gazdálkodásuk hatékonyságának és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
 
-(4) Az engedélyes köteles nyilvántartási és elszámolási rendszerét úgy kialakítani, hogy az megfeleljen az információs önrendelkezési jogról és az információszabadságról szóló törvényben előírtaknak, és tegye lehetővé az árak és díjak átláthatóságát.
+(4) Az engedélyes köteles nyilvántartási és elszámolási rendszerét úgy kialakítani, hogy az lehetővé tegye az árak és díjak átláthatóságát.
 
 #### 57/A. §
 
@@ -824,7 +804,7 @@ megállapodásokat.
 - h) állapítja meg az engedélyesek nyereségének korlátozására és megosztására vonatkozó részletes szabályokat,
 - i) állapítja meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
 
-(3) Az önkormányzat képviselő-testülete rendeletben szabályozza a 6. § (2)–(4) bekezdésében, a 45. § (6) bekezdésében és az 52. § (2) bekezdésében meghatározott, hatáskörébe utalt feladatokat.
+(3) Az önkormányzat képviselő-testülete rendeletben szabályozza a 6. § (2)–(4) bekezdésében és az 52. § (2) bekezdésében meghatározott, hatáskörébe utalt feladatokat.
 
 (4)
 

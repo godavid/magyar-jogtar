@@ -3376,7 +3376,7 @@ kezelheti.
 
 (1c) Ha a titkos információgyűjtéssel érintett személyek adatait és a titkos információgyűjtés eredményeként keletkezett adatokat a büntetőeljárásban bizonyítékként használják fel, ideértve a Be. 259. § (3) bekezdése szerinti adatokat is, az adatkezelésre az (1b) bekezdésben foglaltak irányadók.
 
-(2) A NAV adott büntetőeljárást lefolytató szervének vezetője az (1) bekezdés b)–h) pontjában, illetve az (1a) és (1b) bekezdésében meghatározott adatok tekintetében – ha bűnüldözési célból elengedhetetlen, továbbá ha az érintett vagy mások jogainak védelme érdekében szükséges – az érintett tájékoztatáshoz, helyesbítéshez, törléshez és zároláshoz való jogának gyakorlását – írásban, a bírósági jogorvoslat, továbbá a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulás lehetőségére vonatkozó tájékoztatást is tartalmazó indokolással ellátva – megtagadhatja vagy korlátozhatja. Az indokolás mellőzhető, ha az a NAV bűnüldözési feladatának ellátását akadályozza, vagy mások jogainak sérelmével jár. Az indokolás mellőzése esetén a megtagadás okaként az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 19. §-ában foglalt rendelkezés mellett e §-ra kell hivatkozni. Az adat-hozzáférési, helyesbítési és törlési jog korlátozása nem érinti a büntetőeljárásban részt vevő személyeknek a büntetőeljárásról szóló törvényben biztosított jogai gyakorlását.
+(2) Az érintett személyes adataihoz való hozzáférési jogának és a róla kezelt személyes adatok helyesbítésére, törlésére vagy ezen adatok kezelésének korlátozására irányuló jogának az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott korlátozása nem érinti a büntetőeljárásban résztvevőknek a büntetőeljárásról szóló törvényben biztosított jogai gyakorlását.
 
 73. § (1) A NAV nyomozó hatósága a bűnüldözési feladatok teljesítése érdekében az adott bűncselekmény felderítése és nyomozása során, illetve a 77. § szerinti feladatok ellátása érdekében – a (3) bekezdés szerinti eltéréssel – adótitoknak, vámtitoknak minősülő adatot, iratot vehet át az adóztatási, illetve vámigazgatási feladatainak ellátása céljából vezetett nyilvántartásból.
 
@@ -3468,7 +3468,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 (3) Amennyiben utólag megállapításra kerül, hogy hibás adatokat továbbítottak vagy adatokat jogellenesen továbbítottak, erről a címzettet haladéktalanul értesíteni kell.
 
-(4) A nemzetközi bűnügyi együttműködés keretében végzett adatátadásokról az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint adattovábbítási nyilvántartást kell vezetni.
+(4) A nemzetközi bűnügyi együttműködés keretében végzett adatáttovábbításról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából az adatkezelési tevékenységek nyilvántartása részeként adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás a kezelt személyes adatok továbbításának időpontját, az adattovábbítás jogalapját és címzettjét, a továbbított személyes adatok körének meghatározását és az adattovábbítás célját tartalmazza.
 
 ### Egyéb adatkezelés
 
@@ -3514,6 +3514,10 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 (3) Jelen § szerinti kormányzati tájékoztatás során a NAV az adózás rendjéről szóló 2017. évi CL. törvény 128. § (1) bekezdés f) pontjára figyelemmel gondoskodik az adótitok megőrzéséről, a kormányzati tájékoztatás céljából kezelt személyes adatot más adatkezelőnek nem továbbítja.
 
 (4) A NAV nem teljesíti a tájékoztatást azon személy részére, aki a tájékoztatás időpontját megelőzően legalább 30 nappal a NAV részére írásban, neve és lakcíme megadásával nyilatkozik arról, hogy az adott adókedvezmény, adóalap-kedvezmény vagy adómentesség tekintetében a tájékoztatásra nem tart igényt. A NAV a nyilatkozatok adatait azok visszavonásáig, a tájékoztatás nyújtásának mellőzése céljából kezeli, azokat más célra nem kezelheti és más szerv részére nem továbbíthatja.
+
+80/B. § A NAV az adott naptári évben keletkezett adatok összessége tekintetében – törvény eltérő rendelkezése hiányában – az adat keletkezésének évét követően 5 évente felülvizsgálja, hogy az általa kezelt személyes adat kezelése az adatkezelés céljának megvalósulásához szükséges-e. Ezen felülvizsgálat dokumentálásával kapcsolatos eljárásra az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései irányadóak.
+
+80/C. § A NAV első alkalommal 2021. május 25-ig törli az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt azon személyes adatot, amelynek kezelése az adatkezelés céljának megvalósulására tekintettel már nem szükséges.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

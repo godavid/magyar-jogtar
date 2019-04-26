@@ -476,9 +476,49 @@ vonatkozó adatok környezeti információnak minősülnek.
 
 (4) A közreműködő személy a megbízólevél birtokában az ellenőrzési tevékenységben kizárólag az ellenőr jelenlétében vehet részt.
 
+31/B. § (1) A hatóság elektronikus rendszert üzemeltet, amelyben a (2) bekezdésben meghatározott adatokat – létesítményenként ÜHG azonosító alkalmazásával – kezeli a végzett tevékenység megszűnését, megszüntetését követő 30 évig, az alábbi célok érdekében:
+
+- a) az üvegházhatású gázokkal végzett tevékenységére vonatkozó jogok és kötelezettségek teljesülésének ellenőrzése,
+- b) regisztrációs, nyilvántartási, valamint adatszolgáltatási, jelentéstételi és tájékoztatási kötelezettségek teljesítése,
+- c) az üvegházhatású gázokkal végzett tevékenységgel kapcsolatos fizetési kötelezettségek megállapítása, ellenőrzése.
+
+(2) Az (1) bekezdésben meghatározott célra az elektronikus rendszerben a hatóság kezeli a következő adatokat:
+
+- a) természetes személy esetében:
+  - aa) név,
+  - ab) beosztás,
+  - ac) telefonszám, e-mail cím;
+- b) gazdasági társaság, egyéb szerv vagy szervezet esetében:
+  - ba) név,
+  - bb) székhely,
+  - bc) cégjegyzékszám, ennek hiányában egyéb – az azonosítást szolgáló nyilvántartási szám,
+  - bd) adószám,
+  - be) környezetvédelmi ügyfél jel (KÜJ szám),
+  - bf) levelezési cím,
+  - bg) számlázási cím,
+  - bh) fizetési számla szám;
+- c) létesítmény esetében:
+  - ca) megnevezés,
+  - cb) a levelezési cím, ha az nem egyezik az üzemeltetőével,
+  - cc) környezetvédelmi területi jel (KTJ szám),
+  - cd) egységes környezethasználati engedéllyel rendelkező környezetvédelmi objektum egyedi környezetvédelmi azonosító szám (KTJ IPPC létesítmény szám),
+  - ce) egységes környezethasználati engedély (EKHE) kód,
+  - cf) Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás (E-PRTR) kód;
+  - cg) ÜHG azonosító;
+- d) a hatóság a)–c) ponttal összefüggő rendelkezései vonatkozásában:
+  - da) hatósági döntés iktatószáma,
+  - db) végleges döntéssel kiszabott bírság összege, megfizetésének ténye, behajtás állapota,
+  - dc) a bírság kiszabása mellőzésének ténye, a figyelmeztetés ténye,
+  - dd) a számlavezetési és felügyeleti díj összege és megfizetésének ténye, behajtás állapota; továbbá
+- e) minden egyéb olyan adatot, amelynek szolgáltatására az ÜHG azonosítóval rendelkező üzemeltető a vonatkozó hazai és európai uniós jogszabályban foglalt rendelkezés szerint köteles.
+
+(3) Az (1) és (2) bekezdésben meghatározott elektronikus rendszer hatósági nyilvántartás, amely a létesítmények üvegházhatású gázokkal kapcsolatos kibocsátásaira vonatkozó adatokat közhitelesen tartalmazza.
+
+(4) A nyilvántartásban szereplő adatokban bekövetkezett változást – jogszabály eltérő rendelkezése hiányában – az érintettek kötelesek a hatóságnak a változást követő 15 napon belül bejelenteni. A változásbejelentési kötelezettségeket a hatóság által az erre a célra rendszeresített elektronikus űrlapon kell teljesíteni.
+
 #### 13. Jogkövetkezmények
 
-32. § (1) Ha az üzemeltető a kibocsátási engedély megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a kibocsátási egység visszaadására, valamint a hatóság vagy a miniszter felé történő változások bejelentésére irányuló kötelezettségének, a hatóság döntésében foglaltaknak részben vagy egészben nem tesz eleget, a hatóság vagy – a miniszter felé fennálló változásbejelentési kötelezettség elmulasztása esetén – a miniszter az üzemeltetőt az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
+32. § (1) Ha az üzemeltető a kibocsátási engedély megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a kibocsátási egység visszaadására, valamint a hatóság vagy a miniszter felé történő változások bejelentésére irányuló, továbbá a 15/B. § szerinti kötelezettségének, a hatóság döntésében foglaltaknak részben vagy egészben nem tesz eleget, a hatóság vagy – a miniszter felé fennálló változásbejelentési kötelezettség elmulasztása esetén – a miniszter az üzemeltetőt az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
 
 (2) A bírságot a határozat véglegessé válását követő 30 napon belül kell megfizetni. Amennyiben a határidő eredménytelenül telik el, úgy a hatóság a bírság behajtása érdekében megkeresi az állami adóhatóságot.
 
@@ -612,7 +652,8 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 - s) a piaci érték megfizetésének módját és pénznemét,
 - t) a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó részletes szabályokat,
 - u) az állam tulajdonában lévő ESD-egységek értékesítésére vonatkozó részletes szabályokat,
-- v) az állam tulajdonában lévő ESD-egységekkel és az abból származó bevételekkel való gazdálkodás részletes szabályait
+- v) az állam tulajdonában lévő ESD-egységekkel és az abból származó bevételekkel való gazdálkodás részletes szabályait,
+- w) a 31/B. § szerinti elektronikus nyilvántartás vezetésére, a regisztrációra, az adatszolgáltatásra, a jelentéstételre vonatkozó részletes szabályokat, és a megszegésük esetén alkalmazandó jogkövetkezmények részletes szabályait
 
 rendeletben állapítsa meg.
 
