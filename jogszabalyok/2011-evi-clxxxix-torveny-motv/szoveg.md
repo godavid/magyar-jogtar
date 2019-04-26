@@ -1141,7 +1141,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (7) A vagyonkezelő a vagyonkezelésébe vett vagyon használatából, működtetéséből származó bevételeit, illetve közvetlen költségeit és ráfordításait elkülönítetten köteles nyilvántartani oly módon, hogy az a saját vagyonnal folytatott vállalkozási tevékenységéből származó bevételeitől, költségeitől és ráfordításaitól egyértelműen elhatárolható legyen.
 
-(8) A vagyonkezelő a tulajdonosi ellenőrzést köteles tűrni, az ellenőrzés érdekében kötelezhető minden közérdekből nyilvános adat, valamint – az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseit nem sértő – az önkormányzati vagyonra és vagyonkezelésre vonatkozó adat szolgáltatására és okirat bemutatására.
+(8) A vagyonkezelő a tulajdonosi ellenőrzést köteles tűrni, az ellenőrzés érdekében kötelezhető minden közérdekből nyilvános adat, valamint – a személyes adatok védelmére vonatkozó szabályok megtartásával – az önkormányzati vagyonra és vagyonkezelésre vonatkozó adat szolgáltatására és okirat bemutatására.
 
 (9) A vagyonkezelői jog létesítése nem keletkeztethet a közfeladat ellátásával összefüggésben központi költségvetési többlettámogatási igényt.
 

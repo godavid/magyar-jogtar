@@ -14,7 +14,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 2. § (1) E törvény hatálya – személyes adatok tekintetében a (2)–(6) bekezdésben meghatározottak szerint – minden olyan adatkezelésre kiterjed, amely személyes adatra, valamint közérdekű adatra vagy közérdekből nyilvános adatra vonatkozik.
 
-(2) Személyes adatoknak az (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) hatálya alá tartozó kezelésére az általános adatvédelmi rendeletet a III-V. és a VI/A. Fejezetben, valamint a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontjában, a 4. § (5) bekezdésében, az 5. § (3)–(5), (7) és (8) bekezdésében, a 13. § (2) bekezdésében, a 23. §-ban, a 25. §-ban, a 25/G. § (3), (4) és (6) bekezdésében, a 25/H. § (2) bekezdésében, a 25/M. § (2) bekezdésében, a 25/N. §-ban, az 51/A. § (1) bekezdésében, az 52–54. §-ban, az 55. § (1) és (2) bekezdésében, az 56–60. §-ban, a 60/A. § (1)–(3) és (6) bekezdésében, a 61. § (1) bekezdés a) és c) pontjában, a 61. § (2) és (3) bekezdésében, (4) bekezdés b) pontjában és (6)–(10) bekezdésében, a 62–71. §-ban, a 72. §-ban, a 75. § (1)–(5) bekezdésében és az 1. mellékletben meghatározott kiegészítésekkel kell alkalmazni.
+(2) Személyes adatoknak az (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) hatálya alá tartozó kezelésére az általános adatvédelmi rendeletet a III-V. és a VI/A. Fejezetben, valamint a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontjában, a 4. § (5) bekezdésében, az 5. § (3)–(5), (7) és (8) bekezdésében, a 13. § (2) bekezdésében, a 23. §-ban, a 25. §-ban, a 25/G. § (3), (4) és (6) bekezdésében, a 25/H. § (2) bekezdésében, a 25/M. § (2) bekezdésében, a 25/N. §-ban, az 51/A. § (1) bekezdésében, az 52–54. §-ban, az 55. § (1)–(2) bekezdésében, az 56–60. §-ban, a 60/A. § (1)–(3) és (6) bekezdésében, a 61. § (1) bekezdés a) és c) pontjában, a 61. § (2) és (3) bekezdésében, (4) bekezdés b) pontjában és (6)–(10) bekezdésében, a 62–71. §-ban, a 72. §-ban, a 75. § (1)–(5) bekezdésében, a 75/A. §-ban és az 1. mellékletben meghatározott kiegészítésekkel kell alkalmazni.
 
 (3) Személyes adatok bűnüldözési, nemzetbiztonsági és honvédelmi célú kezelésére e törvényt kell alkalmazni.
 
@@ -26,7 +26,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 (5) Személyes adatoknak az általános adatvédelmi rendelet hatálya alá tartozó kezelésére e törvény a (2) bekezdésben meghatározott rendelkezéseit, valamint más, törvényben meghatározott, a személyes adatok védelmére és a személyes adatok kezelésének feltételeire vonatkozó előírásokat – ha törvény vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – akkor kell alkalmazni, ha
 
 - a) az adatkezelőnek az általános adatvédelmi rendelet 4. cikk 16. pontjában meghatározott tevékenységi központja vagy az Európai Unión belüli egyetlen tevékenységi helye Magyarországon van, vagy
-- b) ha az adatkezelőnek az általános adatvédelmi rendelet 4. cikk 16. pontjában meghatározott tevékenységi központja vagy az Európai Unión belüli egyetlen tevékenységi helye nem Magyarországon van, de az adatkezelő vagy az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési művelet
+- b) ha az adatkezelőnek az általános adatvédelmi rendelet 4. cikk 16. pontjában meghatározott tevékenységi központja vagy az Európai Unión belüli egyetlen tevékenységi helye nem Magyarországon van, de az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési művelet
   - ba) áruknak vagy szolgáltatásoknak a Magyarországon tartózkodó érintettek számára történő nyújtásához kapcsolódik, függetlenül attól, hogy az érintettnek fizetnie kell-e azokért, vagy
   - bb) az érintett Magyarország területén belül tanúsított viselkedésének megfigyeléséhez kapcsolódik.
 
@@ -989,8 +989,9 @@ dönt.
 - c) a bejelentés nyilvánvalóan alaptalan,
 - d) az ismételten előterjesztett bejelentés érdemben új tényt, adatot nem tartalmaz,
 - e) a bejelentést az 52. § (1a) bekezdésében meghatározott határidőn túl nyújtották be,
-- f) a bejelentés az 51/A. § (2) bekezdésében meghatározott feltételeknek nem felel meg, vagy
-- g) a bejelentés tárgyában hatósági ellenőrzést végez vagy hatósági eljárást folytat.
+- f) a bejelentés az 51/A. § (2) bekezdésében meghatározott feltételeknek nem felel meg,
+- g) a bejelentés tárgyában hatósági ellenőrzést végez vagy hatósági eljárást folytat, vagy
+- h) a bejelentés tárgya nem tartozik a hatáskörébe és a rendelkezésre álló adatok alapján a bejelentés tárgya tekintetében hatáskörrel rendelkező szerv kiléte nem állapítható meg.
 
 (4) Ha a bejelentést az alapvető jogok biztosa tette, a Hatóság a bejelentést érdemi vizsgálat nélkül csak abban az esetben utasíthatja el, ha az adott ügyben bírósági eljárás van folyamatban, vagy az ügyben korábban jogerős bírósági határozat született.
 
@@ -1094,7 +1095,7 @@ dönt.
 
 (6) Az adatvédelmi hatósági eljárásban a kérelmezőt költségmentesség illeti meg, a Hatóság előlegezi az olyan eljárási költséget, amelynek előlegezése a kérelmezőt terhelné.
 
-60/A. § (1) Az adatvédelmi hatósági eljárásban az ügyintézési határidő százhúsz nap.
+60/A. § (1) Az adatvédelmi hatósági eljárásban az ügyintézési határidő százötven nap.
 
 (2) A Hatóság az adatvédelmi hatósági eljárást az általános adatvédelmi rendelet
 
@@ -1341,6 +1342,8 @@ teszi közzé.
 - b) az e törvényben a Hatóság részére előírt, az érintett számára teljesítendő értesítési kötelezettségeket oly módon és és olyan időpontban teljesíti,
 
 hogy azon érdekek, amelyek az érintettet megillető jogok jogszerű korlátozásának alapjául szolgálhatnak, ne szenvedjenek sérelmet.
+
+(1b) A Hatóság megkeresésére a települési önkormányzat jegyzője ellenőrzi az illetékességi területén folytatott, a Hatóság által a megkeresésben megjelölt adatkezelés tényleges körülményeit, így különösen a kezelt személyes adatok körét, a személyes adatokkal végzett műveleteket és e műveletek eszközeit, továbbá az adatkezelő által alkalmazott technikai és szervezési intézkedéseket.
 
 (2) A Hatóság az eljárásai során jogszerűen megszerzett iratot, adatot vagy egyéb bizonyítási eszközt más eljárásában felhasználhatja.
 

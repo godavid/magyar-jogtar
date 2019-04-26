@@ -69,21 +69,60 @@ alkalmazni kell.
 
 9. § (1) A munkavállaló és a munkáltató személyiségi jogainak védelmére, ha e törvény eltérően nem rendelkezik, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 2:42–54. §-át kell alkalmazni azzal, hogy a Ptk. 2:52. § (2) és (3) bekezdése, valamint 2:53. §-a alkalmazásakor e törvény kártérítési felelősségre vonatkozó szabályai az irányadók.
 
-(2) A munkavállaló személyiségi joga akkor korlátozható, ha a korlátozás a munkaviszony rendeltetésével közvetlenül összefüggő okból feltétlenül szükséges és a cél elérésével arányos. A személyiségi jog korlátozásának módjáról, feltételeiről és várható tartamáról a munkavállalót előzetesen tájékoztatni kell.
+(2) A munkavállaló személyiségi joga akkor korlátozható, ha a korlátozás a munkaviszony rendeltetésével közvetlenül összefüggő okból feltétlenül szükséges és a cél elérésével arányos. A személyiségi jog korlátozásának módjáról, feltételeiről és várható tartamáról, továbbá szükségességét és arányosságát alátámasztó körülményekről a munkavállalót előzetesen írásban tájékoztatni kell.
 
 (3) A munkavállaló a személyiségi jogáról általános jelleggel előre nem mondhat le. A munkavállaló személyiségi jogáról rendelkező jognyilatkozatot érvényesen csak írásban tehet.
 
-10. § (1) A munkavállalótól csak olyan nyilatkozat megtétele vagy adat közlése kérhető, amely személyiségi jogát nem sérti, és a munkaviszony létesítése, teljesítése vagy megszűnése szempontjából lényeges. A munkavállalóval szemben csak olyan alkalmassági vizsgálat alkalmazható, amelyet munkaviszonyra vonatkozó szabály ír elő, vagy amely munkaviszonyra vonatkozó szabályban meghatározott jog gyakorlása, kötelezettség teljesítése érdekében szükséges.
+#### 5/A. Adatkezelés
 
-(2) A munkáltató köteles a munkavállalót tájékoztatni személyes adatainak kezeléséről. A munkáltató a munkavállalóra vonatkozó tényt, adatot, véleményt harmadik személlyel csak törvényben meghatározott esetben vagy a munkavállaló hozzájárulásával közölhet.
+10. § (1) A munkáltató a munkavállalótól olyan nyilatkozat megtételét vagy személyes adat közlését követelheti, amely a munkaviszony létesítése, teljesítése, megszűnése (megszüntetése) vagy e törvényből származó igény érvényesítése szempontjából lényeges.
 
-(3) A munkaviszonyból származó kötelezettségek teljesítése céljából a munkáltató a munkavállaló személyes adatait – az adatszolgáltatás céljának megjelölésével, törvényben meghatározottak szerint – adatfeldolgozó számára átadhatja. Erről a munkavállalót előzetesen tájékoztatni kell.
+(2) A munkáltató, az üzemi tanács, a szakszervezet e törvény Harmadik Részében meghatározott jogának gyakorlása vagy kötelességének teljesítése céljából nyilatkozat megtételét vagy adat közlését követelheti.
 
-(4) A munkavállalóra vonatkozó adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – hozzájárulása nélkül, személyazonosításra alkalmatlan módon – átadhatók.
+(3) Az (1) és (2) bekezdés alapján okirat bemutatása követelhető.
 
-11. § (1) A munkáltató a munkavállalót csak a munkaviszonnyal összefüggő magatartása körében ellenőrizheti. A munkáltató ellenőrzése és az annak során alkalmazott eszközök, módszerek nem járhatnak az emberi méltóság megsértésével. A munkavállaló magánélete nem ellenőrizhető.
+(4) A munkavállalóval szemben olyan alkalmassági vizsgálat alkalmazható, amelyet munkaviszonyra vonatkozó szabály ír elő, vagy amely munkaviszonyra vonatkozó szabályban meghatározott jog gyakorlása, kötelezettség teljesítése érdekében szükséges.
 
-(2) A munkáltató előzetesen tájékoztatja a munkavállalót azoknak a technikai eszközöknek az alkalmazásáról, amelyek a munkavállaló ellenőrzésére szolgálnak.
+(5) A munkáltató az (1)–(4) bekezdésen alapuló adatkezeléséről az érintettet írásban tájékoztatja.
+
+11. § (1) A munkavállaló biometrikus adata az érintett azonosítása céljából abban az esetben kezelhető, ha ez valamely dologhoz vagy adathoz történő olyan jogosulatlan hozzáférés megakadályozásához szükséges, amely
+
+- a) a munkavállaló vagy mások élete, testi épsége vagy egészsége, vagy
+- b) törvényben védett jelentős érdek
+
+súlyos vagy tömeges, visszafordíthatatlan sérelmének a veszélyével járna.
+
+(2) Az (1) bekezdés b) pontja alkalmazásában jelentős védett érdek különösen
+
+- a) a legalább „Bizalmas!” minősítési szintű minősített adatok védelméhez,
+- b) a lőfegyver, lőszer, robbanóanyag őrzéséhez,
+- c) a mérgező vagy veszélyes vegyi vagy biológiai anyagok őrzéséhez,
+- d) a nukleáris anyagok őrzéséhez,
+- e) a Btk. szerint legalább különösen nagy vagyoni érték védelméhez
+
+fűződő érdek.
+
+(3) A munkáltató a munkavállaló vagy a munkáltatóval munkaviszonyt létesíteni szándékozó személy bűnügyi személyes adatát annak vizsgálata céljából kezelheti, hogy törvény vagy a (4) bekezdésben foglaltak szerint a munkáltató a betölteni kívánt vagy a betöltött munkakörben nem korlátozza vagy nem zárja-e ki a foglalkoztatást.
+
+(4) A (3) bekezdés szerinti korlátozó vagy kizáró feltételt a munkáltató akkor határozhat meg, ha az adott munkakörben az érintett személy foglalkoztatása
+
+- a) a munkáltató jelentős vagyoni érdeke,
+- b) törvény által védett titok, vagy
+- c) a (2) bekezdés b)–d) pontja szerinti törvény által védett érdek
+
+sérelmének veszélyével járna.
+
+(5) A munkáltató a bűnügyi személyes adat kezelését megalapozó (4) bekezdés szerinti korlátozó vagy kizáró feltételt, és a bűnügyi személyes adat kezelésének feltételeit előzetesen írásban meghatározza.
+
+11/A. § (1) A munkavállaló a munkaviszonnyal összefüggő magatartása körében ellenőrizhető. Ennek keretében a munkáltató technikai eszközt is alkalmazhat, erről a munkavállalót előzetesen írásban tájékoztatja.
+
+(2) A munkavállaló a munkáltató által a munkavégzéshez biztosított információtechnológiai vagy számítástechnikai eszközt, rendszert (a továbbiakban: számítástechnikai eszköz) – eltérő megállapodás hiányában – kizárólag a munkaviszony teljesítése érdekében használhatja.
+
+(3) A munkáltató ellenőrzése során a munkaviszony teljesítéséhez használt számítástechnikai eszközön tárolt, a munkaviszonnyal összefüggő adatokba tekinthet be.
+
+(4) A (3) bekezdés szerinti ellenőrzési jogosultság szempontjából munkaviszonnyal összefüggő adatnak minősül a (2) bekezdésben meghatározott korlátozás betartásának ellenőrzéséhez szükséges adat.
+
+(5) A (3) bekezdést alkalmazni kell, ha a felek megállapodása alapján a munkavállaló a munkaviszony teljesítése érdekében saját számítástechnikai eszközt használ.
 
 #### 6. Az egyenlő bánásmód követelménye
 
@@ -172,7 +211,7 @@ alkalmazni kell.
 (2) Írásbelinek kell tekinteni a jognyilatkozatot,
 
 - a) ha annak közlése a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor;
-- b) a 93. § (4) bekezdésében, a 97. § (4) bekezdésében, a 108. § (1) bekezdésében, a 110. § (5) és (6) bekezdésében, a 138. § (4) bekezdésében, 193. § (2) bekezdésében meghatározott esetekben akkor is, ha azt a helyben szokásos és általában ismert módon közzé teszik.
+- b) a 9. § (2) bekezdésében, a 10. § (5) bekezdésében, a 11. § (5) bekezdésében, a 11/A. § (1) bekezdésében, a 93. § (4) bekezdésében, a 97. § (4) bekezdésében, a 108. § (1) bekezdésében, a 110. § (5) és (6) bekezdésében, a 138. § (4) bekezdésében és a 193. § (2) bekezdésében meghatározott esetekben akkor is, ha azt a helyben szokásos és általában ismert módon közzéteszik.
 
 (3) A megállapodást, ha írásba kellett foglalni, módosítani vagy megszüntetni csak írásban lehet.
 
@@ -2067,7 +2106,7 @@ megszűnik.
 
 #### 87. A távmunkavégzés
 
-196. § (1) Távmunkavégzés a munkáltató telephelyétől elkülönült helyen rendszeresen folytatott olyan tevékenység, amelyet információtechnológiai vagy számítástechnikai eszközzel (együtt: számítástechnikai eszköz) végeznek és eredményét elektronikusan továbbítják.
+196. § (1) Távmunkavégzés a munkáltató telephelyétől elkülönült helyen rendszeresen folytatott olyan tevékenység, amelyet számítástechnikai eszközzel végeznek és eredményét elektronikusan továbbítják.
 
 (2) A munkaszerződésben meg kell állapodni a munkavállaló távmunkavégzés keretében történő foglalkoztatásában.
 
@@ -2083,9 +2122,9 @@ megszűnik.
 
 197. § (1) A munkáltató utasítási joga – eltérő megállapodás hiányában – kizárólag a munkavállaló által ellátandó feladatok meghatározására terjed ki.
 
-(2) A munkáltató előírhatja, hogy az általa biztosított számítástechnikai vagy elektronikus eszközt a munkavállaló kizárólag a munkavégzéshez használhatja.
+(2)
 
-(3) A munkavégzés ellenőrzése során a munkáltató nem tekinthet be a munkavállalónak a munkavégzéshez használt számítástechnikai eszközön tárolt, nem a munkaviszonyból összefüggő adataiba. A betekintési jogosultság tekintetében a munkaviszonyból származó kötelezettséggel összefüggő adatnak minősül a (2) bekezdés alapján előírt tilalom vagy korlátozás betartásának ellenőrzéséhez szükséges adat.
+(3)
 
 (4) Eltérő megállapodás hiányában a munkáltató állapítja meg az ellenőrzés módját és a munkavégzés helyeként szolgáló ingatlan területén történő ellenőrzés esetén annak bejelentése és megkezdése közötti legrövidebb tartamot. Az ellenőrzés nem jelenthet a munkavállaló, valamint a munkavégzés helyeként szolgáló ingatlant használó más személy számára aránytalan terhet.
 
@@ -2238,7 +2277,7 @@ nem kell alkalmazni.
 - a) a 192. §-ban,
 - b) a 195. § (2)–(3) és (5) bekezdésében,
 - c) a 196. §-ban,
-- d) a 197. § (3) bekezdésében,
+- d)
 - e) a 198. §-ban,
 - f) a 200–207. §-ban,
 - g) a 212. §-ban
@@ -3151,3 +3190,5 @@ a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak 
 - m) az Európai Parlament és Tanács 2008/104/EK irányelve (2008. november 19.) a munkaerő-kölcsönzés egyes szabályairól,
 - n) az Európai Parlament és Tanács 2014/67/EU irányelve (2014. május 15.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról,
 - o) az Európai Parlament és a Tanács 2015/1794/EU irányelve (2015. október 6.) a 2008/94/EK, a 2009/38/EK és a 2002/14/EK európai parlamenti és tanácsi irányelvnek, valamint a 98/59/EK és a 2001/23/EK tanácsi irányelvnek a tengerészek tekintetében történő módosításáról.
+
+300. § A 10–11. §, valamint a 11/A. § a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. árpilis 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.

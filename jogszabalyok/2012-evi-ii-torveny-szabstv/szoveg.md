@@ -2670,7 +2670,7 @@ előírja.
 
 #### 120. Adattovábbítási nyilvántartás
 
-165. § (1) A szabálysértési nyilvántartásokból teljesített adatszolgáltatásokról az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottakon kívül tartalmazza az adatkezelő nyilvántartási azonosítóját és az adattovábbítás célját is.
+165. § (1) A szabálysértési nyilvántartásokból teljesített adatszolgáltatásokról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából az adatkezelési tevékenységek nyilvántartása részeként adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás a kezelt személyes adatok továbbításának időpontját, az adattovábbítás jogalapját és címzettjét, a továbbított személyes adatok körének meghatározását és az adattovábbítás célját tartalmazza.
 
 (2) Az adattovábbítási nyilvántartást a szabálysértési nyilvántartó szerv vezeti.
 

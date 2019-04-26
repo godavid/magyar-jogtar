@@ -3676,6 +3676,17 @@ kérhetnek adatszolgáltatást.
 
 253/H. § § A Kar a szervezeti és működési szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az E-ügyintézési tv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a Kar tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
 
+253/I. § (1) Az Integrált Végrehajtási Rendszer (a továbbiakban: IVR) a Kar hivatali szerve által fejlesztett és működtetett, egységes informatikai ügyintézési rendszer, mely a végrehajtók és a Kar hivatali szerve jogszabályban meghatározott feladatainak ellátását kizárólagosan biztosítja. Az IVR használata a Kar hivatali szerve és a végrehajtók számára kötelező.
+
+(2) A végrehajtó az e törvényben meghatározott tevékenységével összefüggő ügyviteli, irat- és pénzkezelési feladatait, elektronikus megkereséseket, tájékoztatásokat az IVR felhasználásával, a Kar Hivatali szerve által működtetetett informatikai rendszereken keresztül köteles végezni. A végrehajtó által adatszolgáltatás vagy tájékoztatás nyújtása céljából megkeresett szervezetek a végrehajtóval az IVR útján kötelesek kapcsolatot tartani. Ahol jogszabály valamely adathoz való elektronikus hozzáférésre a végrehajtót jogosítja fel, azt úgy kell érteni, hogy a végrehajtó a hozzáférésre kizárólag a Kar hivatali szerve által fejlesztett és üzemeltetett IVR felhasználásával jogosult.
+
+(3) A Kar hivatali szerve jogszabályban meghatározott feladatainak ellátása céljából önálló adatkezelője az IVR-ben tárolt és annak felhasználásával kezelt valamennyi személyes adatnak és rendelkezik a rendszer vagyoni, felhasználási, üzemeltetési és fejlesztési jogaival. A Kar hivatali szervének vezetője alkalmazásgazdája az IVR-nek, és adatgazdája a rendszerben keletkezett és tárolt adatoknak. Az IVR tartalmazza a végrehajtó eljárása során tudomására jutott valamennyi jogszabály alapján kezelt adatot, ideértve a személyes adatokat is.
+
+(4) E § alkalmazásában:
+
+- 1. adatgazda: annak a szervezeti egységnek a vezetője, ahová jogszabály vagy közjogi szervezetszabályozó eszköz az adat kezelését rendeli, illetve ahol az adat keletkezik.
+- 2. alkalmazásgazda: az informatikai alkalmazás felhasználási és fejlesztési jogaival rendelkező, annak üzemeltetéséért, illesztéséért, paraméterezéséért és szükség szerinti fejlesztéséért, valamint az alkalmazáshoz szükséges hozzáférési jogok biztosításáért felelős személy.
+
 ### A végrehajtó díjazása
 
 254. § (1) A végrehajtót a tevékenységéért — a jogszabályba foglalt végrehajtói díjszabás szerint megállapított — díj és költségtérítés illeti meg.
@@ -4528,7 +4539,8 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 - n) az adópolitikáért felelős miniszterrel egyetértésben az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint ezek megfizetésének módját,
 - o) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
 - p) a végrehajtó állandó helyettes általi helyettesítésével összefüggő elszámolás, ügyvitel és ügykezelés részletes szabályait,
-- q) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat.
+- q) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat,
+- r) a 253/I. § szerinti IVR bevezetésének időpontját és ütemezését, a létrehozására, működésére és felhasználására vonatkozó részletszabályokat, a működtetéséhez szükséges, a Kar által megalkotandó szabályzatok körét, továbbá a végrehajtók által a hatálybalépést megelőzően alkalmazott informatikai rendszer adatállományának az IVR-ben történő rögzítésének részletes szabályait azon, még érdemben befejezetlen végrehajtási ügyek tekintetében, amelyek az IVR bevezetését megelőzően kerültek kiosztásra, illetőleg érkeztek a végrehajtóhoz foganatosítás céljából.
 
 308. §
 

@@ -677,7 +677,7 @@ induló tőkével alapítható.
 
 - a) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerésén alapuló, továbbá a fióktelepek felügyeletére is kiterjedő nemzetközi együttműködési megállapodás van a Felügyelet és a kérelmező pénzügyi intézmény székhelye szerinti illetékes felügyeleti hatóság között,
 - b) a kérelmező pénzügyi intézmény székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeknek megfelelő pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírásokkal,
-- c) a kérelmező pénzügyi intézmény rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
+- c) a kérelmező pénzügyi intézmény rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatkezelési szabályzattal,
 - d) a kérelmező pénzügyi intézmény nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért,
 - e) a kérelmező pénzügyi intézmény benyújtja a székhelye szerinti illetékes felügyeleti hatóság fióktelep létesítésre vonatkozó engedélyét, vagy hozzájáruló nyilatkozatát vagy tudomásulvételét, valamint
 - f) a kérelmező pénzügyi intézmény székhelye szerinti állam jogszabályai biztosítják a pénzügyi intézmények prudens, biztonságos működését.
@@ -1267,7 +1267,7 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 (4) A kiszervezésre vonatkozó szerződés tartalmazza:
 
 - a) az adatvédelemre vonatkozó előírások érvényesülésének bemutatását,
-- b) a kiszervezett tevékenységet végző hozzájárulását a kiszervezett tevékenységnek a hitelintézet belső ellenőrzése, adatvédelmi felelőse, külső könyvvizsgálója, a Felügyelet helyszíni, illetve helyszínen kívüli ellenőrzéséhez,
+- b) a kiszervezett tevékenységet végző hozzájárulását a kiszervezett tevékenységnek a hitelintézet belső ellenőrzése, adatvédelmi tisztviselője, külső könyvvizsgálója, a Felügyelet helyszíni, illetve helyszínen kívüli ellenőrzéséhez,
 - c) a kiszervezett tevékenységet végző felelősségét a tevékenység megfelelő színvonalon történő végzéséért, illetve a szerződés hitelintézet részéről történő azonnali felmondási lehetőségét a szerződés ismételt vagy súlyos megsértése esetére,
 - d) a kiszervezett tevékenységet végzőtől elvárt, a tevékenység végzésének minőségére vonatkozó részletes követelményeket, valamint
 - e) a kiszervezett tevékenységet végző részéről a bennfentes kereskedelem elkerülése érdekében alkalmazandó szabályokat.
@@ -2819,7 +2819,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve
 - b)
 - c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 13. § (1) bekezdése alapján szolgáltat adatot,
 - d) a pénzügyi intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget,
-- e) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
+- e) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) szerinti bejelentési kötelezettségét, valamint csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettségét teljesíti,
 - f) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – harmadik ország bűnüldöző szerve esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől, vagy
 - g) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
 
@@ -2878,7 +2878,7 @@ van összefüggésben.
 
 részére,
 
-- h) a pénzügyi intézmény által a külföldi pénzügyi intézmény számára történő adattovábbítás, abban az esetben, ha a pénzügyi intézmény ügyfele (adatalany) ahhoz írásban hozzájárult és a külföldi pénzügyi intézménynél (adatkezelőnél) a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a külföldi pénzügyi intézmény székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
+- h) a pénzügyi intézmény által a külföldi pénzügyi intézmény számára történő adattovábbítás, abban az esetben, ha a pénzügyi intézmény ügyfele (adatalany) ahhoz írásban hozzájárult és a külföldi pénzügyi intézménynél (adatkezelőnél) a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a külföldi pénzügyi intézmény székhelye szerinti állam rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
 - i) a külföldi pénzügyi intézmény székhelye szerinti illetékes felügyeleti hatóság számára a felügyeleti tevékenységéhez szükséges, és a külföldi felügyeleti hatóság és a Felügyelet között együttműködési megállapodásban rögzített módon történő adattovábbítás, ha a megállapodás tartalmazza az adatok bizalmas kezelésére, felhasználására vonatkozó rendelkezést, továbbá a Felügyelet hozzájárulását a külföldi felügyeleti hatóságnak átadott adatok külföldi illetékes bűnüldöző szervnek történő továbbításához,
 - j) a pénzügyi intézmény által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző és az általa igénybe vett közreműködő részére,
 - k) az összevont alapú felügyeleti megfelelés vonatkozásában történő, valamint a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás,
@@ -2941,7 +2941,7 @@ kapcsolatos tevékenységet végeznek, és az adatkezelés e tevékenységekhez 
 
 166. § Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 
-166/A. § (1) A pénzügyi intézmény köteles törölni minden olyan, ügyfeleivel, volt ügyfeleivel vagy létre nem jött szerződéssel kapcsolatos személyes adatot, amelynek kezelése esetében az adatkezelési cél megszűnt vagy amelynek kezeléséhez az érintett hozzájárulása nem áll rendelkezésre, illetve amelynek kezeléséhez nincs törvényi jogalap.
+166/A. § (1)
 
 (2) A pénzügyi intézmény a létre nem jött szolgáltatási szerződéssel kapcsolatos banktitkot képező ügyféladatokat, személyes adatokat addig kezelheti, ameddig a szerződés létrejöttének meghiúsulásával kapcsolatban igény érvényesíthető.
 
@@ -3019,7 +3019,7 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 - b) az összevont alapú felügyelet alá tartozó hitelintézet anyavállalatával vagy a hitelintézetben részesedési viszonnyal rendelkező személlyel más szoros kapcsolatban álló személytől, és
 - c) az 575/2013/EU rendelet 19. cikke alapján mentesített hitelintézettől, pénzügyi vállalkozástól, befektetési vállalkozástól vagy járulékos vállalkozástól.
 
-(8) A (7) bekezdés alapján a Felügyelet által kért adatszolgáltatás csak jogszabályban meghatározott esetben tagadható meg.
+(8) A (7) bekezdés alapján a Felügyelet által kért adatszolgáltatás csak jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott esetben tagadható meg.
 
 (9) Az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság rendelkezik az összevont alapú felügyelete érdekében szükséges adatok és információk szolgáltatására alkalmas információs rendszerrel, és azok megbízhatóságát biztosító informatikai és belső ellenőrzési rendszerrel.
 

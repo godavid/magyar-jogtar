@@ -856,9 +856,9 @@ követő hat hónapig kezeli.
 
 (3) A nyilvántartó szerv a jogosultak részére az adatigénylés iránti kérelem kézhezvételétől számított nyolc napon belül teljesíti az adatszolgáltatást.
 
-(4) A nyilvántartó szerv az érintettnek a róla nyilvántartott személyes adatáról információs önrendelkezési jogról és az információszabadságról szóló törvényben foglaltak szerint ad tájékoztatást.
+(4)
 
-(5) Az adatigénylés és a tájékoztatás iránti kérelem elektronikus úton is előterjeszthető.
+(5)
 
 21/H. § Az adatkezelés jogszerűségének ellenőrzése érdekében a közigazgatási bírságnyilvántartásba a nyilvántartó szerv szakmai felügyeletét ellátó miniszter, illetve az általa meghatalmazott személy, valamint a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke, elnökhelyettese és köztisztviselője, valamint a törvényességi ellenőrzést ellátó ügyész tekinthet be.
 
