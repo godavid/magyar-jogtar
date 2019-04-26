@@ -69,7 +69,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (2) Az MMA elnöke évente tájékoztatja a Kormányt az MMA munkájáról.
 
-(3) Az MMA a törvényben rögzített tájékoztatók elkészítéséhez – a közzétett adatok felhasználásán túl – az adatokat önkéntes adatszolgáltatáson alapuló saját adatgyűjtés és más szervektől való adatátvétel útján szerzi be, figyelemmel az információs önrendelkezési jogról és az információszabadságról szóló törvényben foglaltakra.
+(3) Az MMA a törvényben rögzített tájékoztatók elkészítéséhez – a közzétett adatok felhasználásán túl – az adatokat önkéntes adatszolgáltatáson alapuló saját adatgyűjtés és más szervektől való adatátvétel útján szerzi be.
 
 #### 2/A. Az MMA együttműködése egyéb szervezetekkel
 

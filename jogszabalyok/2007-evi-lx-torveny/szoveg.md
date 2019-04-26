@@ -76,7 +76,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (4) A forgalmi jegyzékben számlával rendelkezők az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény végrehajtásának egyes szabályairól szóló kormányrendeletben meghatározott számlavezetési díjat kötelesek fizetni.
 
-(5) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő olyan személy lehet, aki büntetlen előéletű és nem áll a közügyektől eltiltás hatálya alatt. E tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a klímavédelemért felelős hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott adatigénylése alapján – továbbítja.
+(5) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő olyan személy lehet, aki büntetlen előéletű és nem áll a közügyektől eltiltás hatálya alatt. E tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a klímavédelemért felelős hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott megkeresése alapján – továbbítja. Az adatkezelés a 389/2013/EU bizottsági rendelet szerint történik.
 
 ### Az üvegházhatású gázokkal kapcsolatos adatok nyilvánossága
 
@@ -216,7 +216,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 10/G. § (1) A kormányrendeletben kijelölt klímavédelemért felelős hatóság a kormányrendeletben meghatározott tevékenységet végző vállalkozásokról – vállalkozásonként F-Gáz ügyfélazonosító alkalmazásával – a (2) bekezdésben meghatározott adatokkal nyilvántartást vezet a végzett tevékenység megszűnésének, megszüntetésének időpontjáig az e törvény végrehajtására kiadott kormányrendeletben meghatározott adatbázis részeként az alábbi célok érdekében:
 
 - a) a fluortartalmú üvegházhatású gázokkal végzett tevékenységekre vonatkozó jogok és kötelezettségek teljesülésének ellenőrzése,
-- b) regisztrációs, nyilvántartási, képesítési, valamint adatszolgáltatási és tájékoztatási kötelezettségek teljesítése,
+- b) regisztrációs, nyilvántartási, képzési, képesítési, vizsgáztatási, valamint adatszolgáltatási és tájékoztatási kötelezettségek teljesítése, ellenőrzése,
 - c) a fluortartalmú üvegházhatású gázokkal végzett tevékenységgel kapcsolatos fizetési kötelezettségek megállapítása, ellenőrzése.
 
 (1a) Bizonyítási eszközök – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben meghatározottakon túl – különösen az adatbázisban nyilvántartott adatok, a próbavásárlás, a fel nem fedett próbavásárlás, a helyszíni leltározás, valamint a fluortartalmú üvegházhatású gázokkal tevékenységet végző más ügyfélnél elrendelt ellenőrzés (a továbbiakban: összefüggő vizsgálat) megállapításai.
@@ -256,7 +256,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (1l) Hatósági ellenőrzés lefolytatása iránti kérelem előterjesztésének nincs helye.
 
-(2) Az (1) bekezdésben meghatározott célra az F-Gáz ügyfélazonosító alatt az adatbázisban nyilvántartható:
+(2) Az (1) bekezdésben meghatározott célra az F-Gáz ügyfélazonosító alatt az adatbázisban kezelt adatok:
 
 - a) természetes személy esetében:
   - aa) név,
@@ -264,23 +264,27 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
   - ac) anyja neve,
   - ad) személyi azonosító,
   - ae) lakcím és értesítési cím,
-  - af) telefonszám, e-mail cím;
-- b) gazdasági társaság, egyéni vállalkozás, valamint egyéni cég esetében a cég vagy egyéni vállalkozó
+  - af) telefonszám, e-mail cím,
+  - ag) fizetési számla száma,
+  - ah) személyazonosító igazolvány száma.
+- b) gazdasági társaság, egyéni vállalkozás, valamint egyéni cég, egyéb szerv vagy szervezet esetében a cég vagy egyéni vállalkozó, szerv vagy szervezet
   - ba) neve,
   - bb) székhelye,
-  - bc) cégjegyzékszáma,
+  - bc) cégjegyzékszáma, ennek hiányában az egyéni vállalkozói nyilvántartási száma, törzskönyvi nyilvántartási száma, oktatási azonosítója, egyéb, az azonosítást szolgáló nyilvántartási száma,
   - bd) adószáma,
-  - be) statisztikai számjele, ennek hiányában az egyéni vállalkozói nyilvántartási szám,
-  - bf) foglalkoztatottak száma,
-  - bg) a cég nevében nyilatkozattételre jogosult személy megnevezése,
-  - bh) telefonszáma, e-mail címe;
+  - be) statisztikai számjele,
+  - bf) foglalkoztatottainak száma,
+  - bg) nevében nyilatkozattételre jogosult személy neve,
+  - bh) telefonszáma, e-mail címe,
+  - bi) fizetési számlájának száma,
+  - bj) szakmai kapcsolattartójának neve, telefonszáma, e-mail címe;
 - c) az a) és b) pontokhoz kapcsolódóan a klímavédelemért felelős hatóság döntéseinek rendelkezései, valamint a jogszabályban meghatározott képesítési, adatszolgáltatási adatok:
   - ca) hatósági döntés iktatószáma,
   - cb) végleges döntéssel kiszabott bírság összege, megfizetésének ténye, behajtás állapota,
   - cc) a bírság kiszabása mellőzésének ténye, figyelmeztetés ténye,
-  - cd) a regisztrációs és felügyeleti díj összege és megfizetésének ténye, behajtás állapota,
+  - cd) a képzési díj és a felügyeleti díj összege és megfizetésének ténye, behajtás állapota,
   - ce) a természetes személy képesítését, képzettségét igazoló tanúsítvány száma, kiállítás dátuma, vállalkozás esetében megfelelő képesítéssel rendelkező munkatársnak az a) pontban rögzített adatai és képesítést, képzettséget igazoló tanúsítvány száma,
-  - cf) természetes személy esetében legmagasabb iskolai végzettség, OKJ-bizonyítvány száma, OKJ-végzettség kódja,
+  - cf) természetes személy esetében iskolai végzettség, képesítés, képzettség, OKJ-bizonyítvány száma, OKJ-végzettség kódja,
   - cg) természetes személy esetében munkakör,
   - ch) természetes személy esetében szakmai gyakorlati idő, gyakorlat megszerzésének helye,
   - ci) bármely, fluortartalmú üvegházhatású gáz érintettségével járó tevékenység esetében a gáz mennyisége tömegben és szén-dioxid-egyenértékben kifejezve, fajtája, ipari megnevezése, annak hiányában kémiai neve,
@@ -300,9 +304,11 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (2e) A klímavédelemért felelős hatóság a cégadatokra is kiterjedő adatfelhasználás esetén a nyilvántartásba bejegyzett cégadatot – az adatfelhasználást megelőzően – összeveti a cégnyilvántartásban – egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásában – szereplő adattal. Ha a nyilvántartásba bejegyzett cégadat nem egyezik meg a cégnyilvántartásban – egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásában – szereplő adattal, a klímavédelemért felelős hatóság a cégnyilvántartásban – egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásban – szereplő adatot használja fel, és az adatváltozást az adatbázisban hivatalból átvezeti.
 
-(3) A (2) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célra – személyazonosításra alkalmatlan módon – átadhatók.
+(2f) A klímavédelemért felelős hatóság az e törvényben meghatározott feladatai ellátásához a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 19. § (2) bekezdés d) pontja alapján a nyilvántartásból a gépjármű, annak tulajdonosa, valamint üzemben tartója adataira vonatkozóan a Kknyt. 9. § (1)–(1b) bekezdésben, a Kknyt. 9. § (2) bekezdés a), d–f) pontjában, a Kknyt. 9. § (3) és (4) bekezdésében és 9/D. §-ban meghatározott adatok részére történő továbbítását kérheti.
 
-(3a) A (2) bekezdés szerinti adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(3)
+
+(3a)
 
 (4)
 
@@ -387,7 +393,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező, más EGT-államban feljogosított hitelesítő a határon átnyúló szolgáltatásnyújtás keretében külön engedély nélkül folytathatja tevékenységét, köteles azonban az együttes végrehajtás hitelesítői tevékenység folytatására irányuló szándékát a klímavédelemért felelős hatóságnak bejelenteni.
 
-13/D. § A klímavédelemért felelős hatóság a 13/B. § és a 13/C. § (1) bekezdése szerinti együttes végrehajtás hitelesítői tevékenységre engedéllyel rendelkezőkről, illetve együttes végrehajtás hitelesítői tevékenységre jogosult, a 13/C. § (2) bekezdése szerinti bejelentést tevőkről nyilvántartást vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl, a 13/B. § szerinti esetben tartalmazza az együttes végrehajtás hitelesítő szervezet által foglalkoztatott együttes végrehajtás hitelesítő szakértők nevét, levelezési címét, telefonszámát, faxszámát és elektronikus levelezési címét. A nyilvántartásból kizárólag a hitelesítői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+13/D. § A klímavédelemért felelős hatóság a 13/B. § és a 13/C. § (1) bekezdése szerinti együttes végrehajtás hitelesítői tevékenységre engedéllyel rendelkezőkről, illetve együttes végrehajtás hitelesítői tevékenységre jogosult, a 13/C. § (2) bekezdése szerinti bejelentést tevőkről – a hitelesítői tevékenység végzésére való jogosultság igazolása céljából – nyilvántartást vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl, a 13/B. § szerinti esetben tartalmazza az együttes végrehajtás hitelesítő szervezet által foglalkoztatott együttes végrehajtás hitelesítő szakértők nevét, levelezési címét, telefonszámát, faxszámát és elektronikus levelezési címét. A nyilvántartásból kizárólag a hitelesítői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat. A klímavédelemért felelős hatóság nyilvántartásban szereplő adatokat a tevékenység megszűnése vagy megszüntetése napján törli.
 
 13/E. § A klímavédelemért felelős hatóság 13/B. §–13/C. § szerinti engedélyezési eljárásáért és a 13/C. § szerinti bejelentésért igazgatási szolgáltatási díjat kell fizetni.
 

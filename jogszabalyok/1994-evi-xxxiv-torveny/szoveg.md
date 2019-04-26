@@ -1537,7 +1537,7 @@ kezeli.
 
 (2) A rendőrségi adatkezelő szerv, illetőleg a megbízási szerződés keretei között az adatfeldolgozó szerv [91/A. § (2) bekezdés] vezetője köteles gondoskodni arról, hogy a személyes adatok védelmének biztosítása érdekében
 
-- a) az érintett – az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott módon –
+- a) az érintett
   - aa) a rendőri szerv által kezelt, illetve továbbított személyes adatairól kérelmére tájékoztatást kapjon, valamint
   - ab) gyakorolhassa a helyesbítéshez, illetve a kötelező adatkezelés kivételével a törléshez és a zároláshoz való jogát,
 - b) a helytelen adatok kijavításra kerüljenek,
@@ -1645,7 +1645,7 @@ adatok köre
 
 (2) Az adatok továbbításakor meg kell jelölni az adatok felhasználásának lehetséges célját.
 
-88. § (1) A rendőrségi adatkezelő az adatátadásokról az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint adattovábbítási nyilvántartást vezet.
+88. § (1) A rendőrségi adatkezelő az adatátadásokról az adatkezelési tevékenységek nyilvántartása részeként adattovábbítási nyilvántartást vezet.
 
 (2) Az adattovábbítási nyilvántartás tartalmazza:
 
@@ -1746,7 +1746,7 @@ bűnüldözési adatállományban kezelheti.
 
 (2) Az (1)–(1b) bekezdés szerinti adatállományok tekintetében adatfeldolgozóként csak államigazgatási szervvel köthető megbízási szerződés.
 
-91/B. § A rendőrségi adatkezelő szerv vezetője a 91/A. § (1) bekezdés e)–h) pontjában meghatározott adatok tekintetében – ha bűnüldözési célból elengedhetetlen, továbbá ha az érintett vagy mások jogainak védelme érdekében szükséges – az érintett személy tájékoztatáshoz, helyesbítéshez, törléshez és zároláshoz való jogának gyakorlását – írásban, a bírósági jogorvoslat, továbbá a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulás lehetőségére vonatkozó tájékoztatást is tartalmazó indokolással ellátva – megtagadhatja vagy korlátozhatja. Az indokolás mellőzhető, ha az a rendőrség bűnüldözési feladatának ellátását akadályozza, vagy mások jogainak sérelmével jár. Az indokolás mellőzése esetén a megtagadás okaként az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 19. §-ában foglalt rendelkezés mellett e §-ra kell hivatkozni. A tájékoztatáshoz, helyesbítéshez, törléshez és zároláshoz való jog korlátozása nem érinti a büntetőeljárásban résztvevőknek a büntetőeljárásról szóló törvényben biztosított jogainak gyakorlását.
+91/B. § Az érintett személyes adataihoz való hozzáférési jogának és a róla kezelt személyes adatok helyesbítésére, törlésére vagy ezen adatok kezelésének korlátozására irányuló jogának az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott korlátozása nem érinti a büntetőeljárásban résztvevőknek a büntetőeljárásról szóló törvényben biztosított jogai gyakorlását.
 
 91/C. § (1) A rendőrség bűnüldözési célból és körözési eljárás során jogosult átvenni és az egyedi ügyhöz kapcsolódóan kezelni a 84. § (2) bekezdés h) pontja szerinti nyilvántartásban szereplő adatokat, valamint a hatáskörébe tartozó üggyel összefüggésben a 84. § (2) bekezdésében foglaltakon túlmenően egyéb, általa jogszerűen kezelhető adatot igényelhet bármely adatkezelő szervtől. A rendőrség az adatszolgáltatás teljesítésére határidőt jelölhet meg. A megkeresett adatkezelő szerv – ha törvény eltérően nem rendelkezik – köteles a rendőrség jogszerű adatszolgáltatás iránti igényét teljesíteni.
 
@@ -1837,7 +1837,7 @@ részére.
 
 (2) A rendőrség bűnüldözési adatot harmadik ország részére bűnüldözési, bűnmegelőzési vagy büntetés-végrehajtási célból – a 87. §-ban meghatározottak alapján – továbbíthat.
 
-91/G. § A bűnüldözési adatok továbbítását az adatkezelőnél írásban kell kérelmezni. A kérelemnek tartalmaznia kell az igénylő szerv – ezen belül a felhatalmazott személy – nevét, az adatkérés célját és indokát.
+#### 91/G. §
 
 91/H. § A rendőrség a törvényben meghatározott bűnüldözési feladatai teljesítése érdekében az adott bűncselekmény felderítése és nyomozása során bűnüldözési adatállományait közigazgatási adatállományaival, illetőleg más bűnüldözési adatállománnyal összekapcsolva egyedi adatkezelést végezhet. Az összekapcsolást az adott üggyel kapcsolatos eljárás befejezése után meg kell szüntetni. Az összekapcsolás során keletkezett olyan új adatokat, amelyek a büntetőeljárás során nem kerülnek felhasználásra, haladéktalanul törölni kell.
 
@@ -1857,7 +1857,8 @@ részére.
 - b) a sportról szóló törvényben meghatározott sportrendészeti nyilvántartás hatálya alá tartozó, valamint a külföldi hatóságok és egyéb szervek azonos célú nyilvántartásában szereplő személyek családi és utónevét, születési helyét és idejét, anyja születési családi és utónevét, az elkövetett bűncselekmény vagy szabálysértés megnevezését és minősítését, a sportrendezvények látogatásától eltiltás, a kitiltás vagy a sportrendezvényen történő részvételből való kizárás időtartamát, valamint a sportlétesítmények megnevezését és a sportrendezvények körét, amelyre a sportrendezvények látogatásától eltiltás, a kitiltás vagy a sportrendezvényen történő részvételből való kizárás hatálya kiterjed,
 - c) az állam működése szempontjából kiemelten fontos, illetve a Kormány által létesítménybiztosítási és rendezvénybiztosítási intézkedés céljából kijelölt és a rendőrség által védett, a rendőrség kezelésében lévő létesítményekbe történő be- és kiléptetés során beszerzett személyes adatokat, az adatok beszerzésétől számított harminc napig,
 - d) a korlátozott robbanóanyag-prekurzorokkal kapcsolatos gyanús tranzakciók jelentésével, valamint a gyanús tranzakciókra vonatkozó jelentési kötelezettség teljesítésének ellenőrzésével összefüggő rendőrségi feladatok ellátásához szükséges adatokat a jelentés megtételétől, illetve a jelentéstételi kötelezettség rendőrség általi ellenőrzésének időpontjától számított öt évig,
-- e) a légiközlekedésről szóló törvény szerinti légiközlekedési szakszemélyzet képzése, valamint ejtőernyős ugrás során bejelentett személyek adatait a bejelentést követő legfeljebb két évig.
+- e) a légiközlekedésről szóló törvény szerinti légiközlekedési szakszemélyzet képzése, valamint ejtőernyős ugrás során bejelentett személyek adatait a bejelentést követő legfeljebb két évig,
+- f) a közlekedési rendszabályok megtartásának, a járműhasználat szabályszerűségének, az okmányokra és a felszerelésekre vonatkozó előírások megtartásának, a jármű birtoklása jogszerűségének, az üzemben tartó, valamint a használó személyazonosító adatainak, a jármű közlekedésbiztonsági állapotának és adatainak a forgalomban és a telephelyen – a jogszabályban meghatározottak alapján – történő ellenőrzése során vizsgált és rögzített adatokat az adatok rögzítésétől számított 30 napig.
 
 (2) A (1) bekezdés b) pontja szerinti adatállományból a rendőrség a közrend és közbiztonság, az erőszak és a rendzavarás megelőzése, a nemzetközi rendőrségi együttműködési kötelezettségek teljesítése, továbbá mások jogainak védelme céljából a külföldi rendőri szerv részére, valamint a rendezvények biztonságának védelme, a sportrendezvény látogatásának, továbbá a jegyértékesítés megtagadásának céljából a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, valamint a jegyértékesítést a szervező megbízásából végző személynek továbbíthat adatot.
 

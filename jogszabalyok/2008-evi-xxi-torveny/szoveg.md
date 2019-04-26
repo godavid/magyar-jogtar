@@ -34,7 +34,7 @@ a következő törvényt alkotja:
 
 - 1. érintett: genetikai mintát szolgáltató, az e törvény szerinti adatkezelővel kapcsolatba került vagy kerülő természetes személy;
 - 2. genetikai minta: minden, e törvény szerinti humángenetikai vizsgálat, illetve humángenetikai kutatás céljából levett vagy e törvény keretei között e célra egyébként felhasználni kívánt, emberből származó biológiai anyagminta;
-- 3. genetikai adat: meghatározott érintett személy örökletes tulajdonságaira vonatkozó olyan információ, amely genetikai minta feldolgozásából, illetve az egészségügyi dokumentációból származik, és amely az egyén genetikai eredetű betegségekkel kapcsolatos kockázatára, örökölt hajlamára, testi vagy viselkedésbeli jellemzőire utal, és alkalmas lehet arra, hogy az egyén azonosítható legyen;
+- 3.
 - 4. kódolt genetikai minta vagy adat: olyan genetikai minta vagy adat, amely mellett a mintát szolgáltató személyre vonatkozó összes személyazonosító adatot kóddal helyettesítették;
 - 5. pszeudonimizált genetikai minta vagy adat: olyan kódolt genetikai minta vagy adat, amelynél a személyazonosító adatot helyettesítő kódot az érintett személy kizárólagos rendelkezésére bocsátották;
 - 6. anonimizált genetikai minta vagy adat: olyan genetikai minta vagy adat, amellyel kapcsolatban az érintettre vonatkozó összes személyazonosító adatot személyazonosításra alkalmatlanná tettek;
@@ -51,26 +51,23 @@ a következő törvényt alkotja:
 - 17. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 - 18. közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, a testvér, a bejegyzett élettárs, az élettárs, az egyeneságbeli rokon házastársa, valamint a testvér házastársa és leszármazója.
 
-(2) Az (1) bekezdésben foglaltakon túl e törvény alkalmazásában az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.), valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) értelmező rendelkezéseit kell figyelembe venni.
+(2) Az (1) bekezdésben foglaltakon túl e törvény alkalmazásában az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.), az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.), valamint a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) értelmező rendelkezéseit kell figyelembe venni.
+
+(3) Az általános adatvédelmi rendelet 4. cikk 13. pontjában meghatározott genetikai adat e törvény alkalmazásában a humángenetikai vizsgálat és a humángenetikai kutatás céljából kezelhető.
 
 ### II. Fejezet — ÁLTALÁNOS SZABÁLYOK
 
 ### A genetikai adat kezelése
 
-4. § (1) A genetikai adat
-
-- a) humángenetikai vizsgálat, illetve
-- b) humángenetikai kutatás
-
-céljából kezelhető.
+4. § (1)
 
 (2) Genetikai adatot az e törvényben foglalt feltételek fennállása esetén
 
-- a) az (1) bekezdés a) pontja szerinti célból
+- a) humángenetikai vizsgálat céljából
   - aa) a humángenetikai vizsgálatot végző intézmény,
   - ab) a humángenetikai vizsgálatot végző személy,
   - ac) a 14. § szerinti orvos,
-- b) az (1) bekezdés b) pontja szerinti célból
+- b) humángenetikai kutatás céljából
   - ba) a kutatást végző intézmény,
   - bb) a kutatás végzésében részt vevő egyéb személy
 
@@ -79,7 +76,7 @@ kezelhet.
 5. § (1) Genetikai adatot
 
 - a) a 25. § szerinti felelős személy e törvény szerinti feladatkörében,
-- b) az adatvédelmi felelős az Eüak. szerinti feladatkörében eljárva kezelhet.
+- b) az adatvédelmi tisztviselő az Eüak. szerinti feladatkörében eljárva kezelhet.
 
 (2) A genetikai adatok megismerésére jogosult az érintett által a 7. § (2) bekezdése szerint megnevezett személy és az érintett közeli hozzátartozója a 7. § (3) bekezdésére és a 10. § (3) bekezdésére figyelemmel.
 
@@ -281,13 +278,13 @@ járul hozzá;
 
 28. § (1) Humángenetikai kutatás céljából az EGT-államokba irányuló adattovábbítást úgy kell tekinteni, mintha a Magyarország területén belüli adattovábbításra kerülne sor.
 
-(2) Humángenetikai kutatás céljából csak anonimizált, kódolt vagy pszeudonimizált genetikai minta, illetve adat továbbítható harmadik országba, és csak abban az esetben, ha az adott ország joga legalább az e törvény, illetőleg az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatvédelmet biztosítja. Kódolt genetikai minta és adat harmadik országba történő továbbítása során a személyazonosításra alkalmassá tételhez szükséges kódkulcs nem továbbítható.
+(2) Humángenetikai kutatás céljából csak anonimizált, kódolt vagy pszeudonimizált genetikai minta, illetve adat továbbítható harmadik országba, és csak abban az esetben, ha az adott ország joga legalább az e törvényben, továbbá az általános adatvédelmi rendelet V. fejezetében meghatározott adatvédelmet biztosítja. Kódolt genetikai minta és adat harmadik országba történő továbbítása során a személyazonosításra alkalmassá tételhez szükséges kódkulcs nem továbbítható.
 
 (3) Humángenetikai vizsgálat céljából csak kódolt genetikai minta továbbítható harmadik országba. Az adatvédelem (2) bekezdés szerinti szintjét ebben az esetben is biztosítani kell.
 
-(4) Genetikai minta, illetve adat csak olyan harmadik országból hozható be, ahol az e törvény, illetve az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti követelmények biztosítottak.
+(4) Genetikai minta, illetve adat csak olyan harmadik országból hozható be, ahol az e törvény, illetve a (2) bekezdésben meghatározott követelmények biztosítottak.
 
-(5) A genetikai minták és adatok (2) és (3) bekezdésekben foglalt továbbítását az egészségügyi államigazgatási szerv részére a továbbítást megelőzően, személyazonosításra alkalmatlan módon be kell jelenteni. A bejelentés során meg kell jelölni, hogy a harmadik országba történő adattovábbítás feltételei a személyes adatok megfelelő szintű védelme tekintetében mely, az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott jogcím alapján kerültek meghatározásra.
+(5) A genetikai minták és adatok (2) és (3) bekezdésekben foglalt továbbítását az egészségügyi államigazgatási szerv részére a továbbítást megelőzően, személyazonosításra alkalmatlan módon be kell jelenteni. A bejelentés során meg kell jelölni, hogy a harmadik országba történő adattovábbítás feltételei a személyes adatok megfelelő szintű védelme tekintetében mely jogcím alapján kerültek meghatározásra.
 
 ### VII. Fejezet — ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
 

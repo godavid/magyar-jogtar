@@ -180,7 +180,7 @@ közigazgatási területére terjed ki.
 - d) az Országgyűlés rendészeti ügyekkel foglalkozó bizottsága részére minden év március 31-ig írásos tájékoztatót készít és a bizottság munkaterve szerint szóbeli tájékoztatót tart,
 - e) képviseli és védi a polgárőrség, valamint a polgárőrök érdekeit,
 - f) véleményt nyilvánít az e törvény hatálya alá tartozó tevékenységeket érintő jogszabályokról, kezdeményezheti jogszabályok kiadását,
-- g) az információs önrendelkezési jogról és az információszabadságról szóló törvény adatvédelmi szabályai megtartásával a nyilvántartásában szereplő adatokról – személyazonosításra alkalmatlan módon – statisztikai adatokat szolgáltat, valamint
+- g) a nyilvántartásában szereplő adatokról – személyazonosításra alkalmatlan módon – statisztikai adatokat szolgáltat, valamint
 - h) kapcsolatot tart a polgárőri tevékenységet ellátó külföldi szervezetekkel,
 - i) a polgárőröket a polgárőr tevékenység végzésére jogosító igazolvánnyal ellátja, az ifjú polgárőröket a 9/A. § (2) bekezdésében meghatározott feladatok ellátására jogosító ifjú polgárőr igazolvánnyal ellátja.
 

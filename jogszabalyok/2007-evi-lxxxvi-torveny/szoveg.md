@@ -486,7 +486,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 (5) A hálózati csatlakozást a hálózati csatlakozási szerződés megkötését követően a hálózati csatlakozási szerződés rendelkezései szerint az igénybejelentő saját beruházásban is megvalósíthatja. A hálózati engedélyes, az igénybejelentő és az általa megbízott vállalkozás kötelesek egymással együttműködni. Az igénybejelentő a vállalkozást a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő vállalkozások közül választhatja ki. A nyilvántartást a műszaki biztonsági hatóság vezeti. A nyilvántartásba olyan vállalkozás vehető fel, amely rendelkezik a kormány rendeletében meghatározott felelősségbiztosítással. A kizárólag a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő villanyszerelők által végezhető tevékenységek körét kormányrendelet határozza meg.
 
-(5a) A bejelentett és jogosult villanyszerelők nyilvántartásában kezelhető személyes adatok köre:
+(5a) A bejelentett és jogosult villanyszerelők (5) bekezdés szerinti nyilvántartásában a műszaki biztonsági hatóság az alábbi személyes adatokat kezeli:
 
 - a) a bejelentő, a tevékenységet személyesen ellátó munkavállaló és a személyesen közreműködő tag neve, székhelye, születési helye, ideje, anyja neve, lakcíme, értesítési címe, telefonszáma, elektronikus levélcíme, végzettsége, szakképesítése,
 - b) ha a bejelentő egyéni vállalkozó, a vállalkozói nyilvántartási száma,
@@ -652,10 +652,6 @@ tűrésére, és ennek érdekében az elosztóval történő együttműködésre
 
 (2) A 714/2009/EK rendelet 17. cikk (1) bekezdésének f) pontjában meghatározott feltétel nem teljesül különösen abban az esetben, ha a kérelmező olyan integrált villamosenergia-ipari vállalkozás tagja, amelynek valamely tagját a Hivatal jelentős piaci erővel rendelkező engedélyesként azonosította.
 
-### Mentesítés a hozzáférési szabályok alkalmazása alól
-
-11/A. § A Hivatal által a VET 37. § (1) bekezdése szerinti hatáskörben folytatott eljárás során – a rendszerösszekötő vezetékre vonatkozó mentesítési kérelem elbírálásának elősegítése céljából – az átviteli rendszerirányító köteles a Hivatal részére a közcélú hálózattal kapcsolatosan véleményt adni. Az átviteli rendszerirányító véleményéről a Hivatalt annak megkeresésétől számított 30 napon belül tájékoztatja.
-
 ### V. Fejezet — KÖZVETLEN VEZETÉK, MAGÁNVEZETÉK
 
 38. § (1) Saját üzleti kockázatára bárki létesíthet közvetlen vezetéket saját maga vagy kapcsolt vállalkozásainak villamos energia ellátása céljából, köteles azonban előzetesen az e törvényben meghatározott engedélyt megszerezni. A közvetlen vezeték üzemeltetője üzemzavar vagy válsághelyzet esetén köteles az engedélyesekkel együttműködni, és a hálózati engedélyes utasításait végrehajtani.
@@ -743,7 +739,7 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 (4c) Az elosztó a felhasználóval kötött megállapodás alapján a mérőberendezés leolvasását a felhasználó részére biztosított, a mérőállást fényképen rögzítő és az elosztó részére továbbító applikáció útján is végrehajthatja.
 
-(5) A (3) bekezdésben meghatározott mérési adatokat – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett rendszerhasználó részére külön díjfizetés nélkül hozzáférhetővé kell tenni.
+(5) A (3) bekezdésben meghatározott mérési adatokat az érintett rendszerhasználó részére külön díjfizetés nélkül hozzáférhetővé kell tenni.
 
 (5a) A (3) bekezdés szerinti mérőberendezések éves gyakorisággal történő leolvasása esetén az adott naptári évben történő leolvasás legkésőbbi időpontja az adott naptári évet megelőző évben történt leolvasás napjának megfelelő nap. Nem minősül e bekezdés megsértésének, ha a leolvasás
 
@@ -1264,7 +1260,7 @@ való jog.
 
 (5) A nyilvántartásban kizárólag az érintett fogyasztó neve, felhasználási helyének címe, ügyfélazonosítója, a 64. § (3) illetve (4) bekezdésére történő utalás, a (2), (4)–(5) bekezdés szerinti különleges bánásmód esetén annak formája, valamint a fogyasztó által igénybe vehető kedvezmények szerepelhetnek.
 
-(6) A nyilvántartásba történt felvételt követően a védendő fogyasztó minden év március 31-ig köteles a megfelelő irattal igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania azon fogyatékkal élő fogyasztónak, akinek állapotában – szakorvosi véleményen alapuló, a Vhr. szerinti igazolás alapján – nem várható jelentős javulás. Ha a védettségét megalapozó körülmények megváltozása folytán a lakossági fogyasztó már nem jogosult a 64. § (2), illetve (4)–(5) bekezdésében foglalt kedvezményekre, adatait a nyilvántartásból törölni kell, azoknak azonban a rögzítéstől számított 5 évig utólag is megállapíthatónak kell maradniuk. Az adatkezelő a nyilvántartásból törölt fogyasztót a törlésről 8 napon belül írásban értesíti.
+(6) A nyilvántartásba történt felvételt követően a védendő fogyasztó minden év március 31-ig köteles a megfelelő irattal igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania azon fogyatékkal élő fogyasztónak, akinek állapotában – szakorvosi véleményen alapuló, a Vhr. szerinti igazolás alapján – nem várható jelentős javulás. A védettségét megalapozó körülmények megszűnése folytán a lakossági fogyasztó már nem jogosult a 64. § (2), illetve (4)–(5) bekezdésében foglalt kedvezményekre.
 
 ### A villamos energia továbbadása
 
@@ -1877,7 +1873,7 @@ megállapodni.
   - aa) a szerződés azonosító száma vagy kódja,
   - ab) a felhasználó jogállása (természetes vagy jogi személy),
   - ac) a felhasználó neve,
-  - ad) a 151. § (1) bekezdés alapján a felhasználó nyilvántartott személyes adatai vagy cégadatai
+  - ad) a felhasználó nyilvántartott személyes adatai vagy cégadatai
   - ae) a felhasználó kézbesítési címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
 - b) a fogyasztás jellegének megjelölése:
   - ba) lakossági fogyasztó vagy nem lakossági fogyasztó-e,
@@ -1890,7 +1886,7 @@ megállapodni.
 - d) a csatlakozási ponthoz rendelt elszámolási pont és mérési pont adatai (POD),
 - e) a fizető adatai, ha a fizető nem azonos a felhasználóval:
   - ea) a fizető neve,
-  - eb) a 151. § (1c) bekezdésére figyelemmel a 151. § (1) bekezdése alapján a fizető nyilvántartott személyes vagy cégadatai,
+  - eb) a fizető nyilvántartott személyes vagy cégadatai,
   - ec) a fizető címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
   - ed) a fizető kézbesítési címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
 - f) elszámolással kapcsolatos adatok:
@@ -1913,7 +1909,7 @@ megállapodni.
 
 99/D. § (1) Az átadó az átvétel időpontjáig köteles teljesíteni a működési engedélyének megfelelő kötelezettségeit.
 
-(2) Az átvétel időpontjában az átadó és az átvétellel érintett felhasználók közötti villamosenergia-vásárlási szerződés – a felek elszámolási kötelezettségének fennmaradása mellett – e törvény erejénél fogva megszűnik. Az átadó a 151. § (1c) bekezdése szerinti adatokat az elszámolás lezártáig az elszámolás céljából kezelheti. Az átvétel időpontjában az átvétellel érintett felhasználók és az átvevő között e törvény erejénél fogva az átadóval kötött villamosenergia-vásárlási szerződés időbeli hatályával megegyező hatályú villamosenergia-vásárlási szerződés jön létre az egyetemes szolgáltatás biztosítására az e törvényben, a Vhr.-ben, valamint az átvevő üzletszabályzatában meghatározott feltételek szerint.
+(2) Az átvétel időpontjában az átadó és az átvétellel érintett felhasználók közötti villamosenergia-vásárlási szerződés – a felek elszámolási kötelezettségének fennmaradása mellett – e törvény erejénél fogva megszűnik. Az átvétel időpontjában az átvétellel érintett felhasználók és az átvevő között e törvény erejénél fogva az átadóval kötött villamosenergia-vásárlási szerződés időbeli hatályával megegyező hatályú villamosenergiavásárlási szerződés jön létre az egyetemes szolgáltatás biztosítására az e törvényben, a Vhr.-ben, valamint az átvevő üzletszabályzatában meghatározott feltételek szerint.
 
 (3) Ha az átadó által megkötött villamosenergia-vásárlási szerződéshez kapcsolódóan az átadó a villamosenergia-vásárlási szerződésből eredő fizetési kötelezettség tekintetében fizetővel áll jogviszonyban, akkor az átvétel időpontjában az átadó és a fizető közötti fizetési megállapodás – az átadó és a fizető elszámolási kötelezettségének fennmaradása mellett – e törvény erejénél fogva megszűnik. Az átvétel időpontjában az átvevő és a fizető között a (2) bekezdés alapján létrejött egyetemes szolgáltatási szerződéshez kapcsolódóan a villamosenergia-vásárlási szerződésből eredő fizetési kötelezettségek tekintetében e törvény erejénél fogva az átadó és a fizető közötti fizetési megállapodás időbeli hatályával megegyező hatályú fizetési megállapodás jön létre az e törvényben, a Vhr.-ben, valamint az átvevő üzletszabályzatában meghatározott feltételek szerint.
 
@@ -2076,7 +2072,7 @@ kapcsolatban.
 
 (4) A megfelelési ellenőr megbízatását a felügyelőbizottság a Hivatal előzetes jóváhagyásával jogosult megszüntetni. A felügyelőbizottság köteles azonnali hatállyal megszüntetni a megfelelési ellenőr megbízatását, amennyiben a Hivatal a megfelelési ellenőr függetlenségének vagy szakmai alkalmasságának hiányát állapítja meg.
 
-(5) A megfelelési ellenőr e törvényben meghatározott feladatai ellátása céljából megismerhet valamennyi releváns adatot, előzetes értesítés nélkül is beléphet az átviteli rendszerirányító irodáiba és hozzáférhet valamennyi egyéb szükséges információhoz. Az átviteli rendszerirányítóval munkaviszonyban álló személyek személyes adatait a megfelelési ellenőr a 151. § (1a) bekezdésben foglaltak szerint az e törvényben és a Vhr.-ben meghatározott feladatai ellátása érdekében az adatvédelmi jogszabályokkal összhangban kezelheti.
+(5) A megfelelési ellenőr e törvényben meghatározott feladatai ellátása céljából megismerhet valamennyi releváns adatot, előzetes értesítés nélkül is beléphet az átviteli rendszerirányító irodáiba és hozzáférhet valamennyi szükséges információhoz.
 
 (6) A megfelelési ellenőr a megfelelési program végrehajtásáról, az annak érdekében hozott intézkedésekről, a feltárt eredményekről és a megfelelési program végrehajtása során tapasztalt jelentős hiányosságokról évente megfelelési jelentést készít, és azt benyújtja a Hivatalhoz jóváhagyás céljából. A jóváhagyást követően az átviteli rendszerirányító a megfelelési jelentést honlapján közzéteszi.
 
@@ -2243,7 +2239,7 @@ előírása.
 
 (2) A Hivatal az (1) bekezdés szerinti eljárás során jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
-(3) A Hivatal – a 114/A. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 114/A. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti védett adat megismerésére és a cselekménnyel szorosan összefüggő személyes adat kezelésére.
+(3) A Hivatal – a 114/A. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 114/A. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti védett adat megismerésére és kezeli a cselekménnyel közvetlenül összefüggő személyes adatokat.
 
 (4) A Hivatal a személyes adatot az (5) bekezdésben meghatározott időtartam elteltéig, az eljárás megindítása esetén az eljárást lezáró döntés véglegessé válásától számított 5 évig kezeli.
 
@@ -2317,14 +2313,14 @@ teljesítését.
 
 megsértését.
 
-(2) A Hivatal a 114/A. § (1) bekezdése szerinti cselekmények vizsgálata céljából jogosult az (1) bekezdés szerinti nagykereskedelmi piacfelügyeleti eljárása során az ügyfélre vonatkozó,
+(2) A Hivatal a 114/A. § (1) bekezdése szerinti cselekmények vizsgálata céljából kezeli az (1) bekezdés szerinti nagykereskedelmi piacfelügyeleti eljárása során az ügyfélre vonatkozó,
 
 - a) a számlaforgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával,
 - b) az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és a hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával és kezdő időpontjával
 
-kapcsolatos adatok megismerésére és kezelésére.
+kapcsolatos adatok adatokat.
 
-(3) A Hivatal feladatának ellátása érdekében jogosult a (2) bekezdés alapján felmerült, a nagykereskedelmi piacfelügyeleti eljárás szempontjából valószínűsíthetően további bizonyítékokkal rendelkező természetes személy beazonosításához szükséges családi- és utónév, születési név és lakcím megismerésére és kezelésére.
+(3) A Hivatal feladatának ellátása érdekében kezeli a (2) bekezdés alapján felmerült, a nagykereskedelmi piacfelügyeleti eljárás szempontjából valószínűsíthetően további bizonyítékokkal rendelkező természetes személy beazonosításához szükséges személyes adatokat, így családi és utónevét, születési nevét és lakcímét.
 
 (4) A (2)–(3) bekezdésben meghatározott adat igénylésekor a Hivatal köteles valószínűsíteni, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges.
 
@@ -2816,33 +2812,13 @@ villamos energia képezi.
 
 (3) A villamosenergia-piac működésével összefüggő, a kereskedelmi szabályzatban, valamint a nemzetközi üzemi és kereskedelmi szabályzatban meghatározott adatokat az átviteli rendszerirányító és a szervezett villamosenergia-piaci engedélyes köteles honlapján vagy az arra kijelölt elektronikus platformon folyamatosan nyilvánosságra hozni.
 
-151. § (1) Az átviteli rendszerirányító, az elosztó hálózati engedélyesek, az egyetemes szolgáltató, a 177/A. § (1) bekezdése szerinti projekttársaság, a felhasználónak közvetlenül értékesítő termelői engedélyes és a villamosenergia-kereskedő engedélyköteles tevékenységének végzése, valamint az ehhez szükséges műszaki berendezések létesítésére, üzemeltetésére vonatkozó szerződés megkötése, tartalmának meghatározása, módosítása, a teljesítésének figyelemmel kísérése, a szerződésben meghatározott díjak számlázása, továbbá a szerződésből eredő egyéb követelések érvényesítése, valamint a ellátási szabályzatokban foglalt együttműködési és adatszolgáltatási kötelezettségek teljesítése céljából kezelheti a felhasználó, valamint a külön jogszabályban meghatározott fizető azonosításához szükséges és elégséges, jelen törvény vagy a végrehajtására kiadott külön jogszabály szerint a szerződés tartalmát képező személyes adatot. A felhasználó azonosításához a természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye és ideje, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma) szükséges.
+151. § (1) A megfelelési ellenőr az e törvényben és a Vhr.-ben meghatározott szétválasztási szabályoknak való megfelelés ellenőrzésével, valamint a megfelelési program végrehajtásával kapcsolatos feladatai elvégzése céljából az ahhoz szükséges mértékben megismerheti a tevékenysége során tudomására jutott a megfelelési ellenőrt foglalkoztató hálózati engedélyes üzleti titkait, valamint – megfelelési program végrehajtásának lezárultáig – kezeli a hálózati engedélyesnél foglalkoztatott személyek személyes adatait, így nevüket, lakcímüket, születési helyüket és idejüket, anyjuk nevét, valamint munkakörükre és végzettségükre vonatkozó adataikat.
 
-(1a) A megfelelési ellenőr az e törvényben és a Vhr.-ben meghatározott szétválasztási szabályoknak való megfelelés ellenőrzésével, valamint a megfelelési program végrehajtásával kapcsolatos feladatai elvégzése céljából az ahhoz szükséges mértékben kezelheti a tevékenysége során tudomására jutott a megfelelési ellenőrt foglalkoztató hálózati engedélyes üzleti titkait, valamint a hálózati engedélyesnél foglalkoztatott személyek személyes adatait, így nevüket, lakcímüket, születési helyüket és idejüket, anyjuk nevét, valamint munkakörükre és végzettségükre vonatkozó adataikat.
+(2) Az elosztó a védendő fogyasztókat megillető kedvezmény biztosítása céljából – a védendő fogyasztói jogosultság megszűnését követő 3 évig – kezeli a fogyasztó azonosításához szükséges, valamint védendő fogyasztói státuszt megalapozó személyes adatokat és a személyes adatok különleges kategóriáiba tartozó adatokat. Az adatokat az elosztó a védendő fogyasztót megillető kedvezmény vagy a különleges bánásmód egy felhasználási helyen való igénybevételének ellenőrzése céljából más elosztónak, valamint a védendő fogyasztót megillető kedvezmény vagy különleges bánásmód biztosítása érdekében a villamosenergia-kereskedőnek továbbítja. Az átvett személyes adatokat az elosztó, valamint a villamosenergia-kereskedő a védendő fogyasztói jogosultság megszűnését követő 3 évig kezeli.
 
-(1b) Az elosztó a védendő fogyasztókat megillető kedvezmény biztosítása céljából kezelheti a védendő fogyasztók nyilvántartásának vezetéséhez szükséges személyes és különleges személyes adatokat, így a védendő fogyasztó nevét, lakcímét, születési helyét és idejét, anyja nevét, valamint a védendő fogyasztói státuszt megalapozó adatokat.
+(3) Az átvevő egyetemes szolgáltató az átadó egyetemes szolgáltató egyetemes szolgáltatói engedélye visszavonásának 90/A. § szerinti kezdeményezése esetén a 99/C. § (1) bekezdése szerinti határozat kézhezvételének napjától a 99/C. § (1) bekezdés a) pontjában meghatározott időpontig az érintett felhasználók átvétele, villamosenergia-ellátásuk biztosításához szükséges teendők elvégzése céljából kezeli az érintett felhasználó, valamint a fizető azonosításához, villamosenergia-ellátása biztosításához szükséges – az átadó egyetemes szolgáltató által továbbított – személyes adatokat.
 
-(1c) Az átvevő egyetemes szolgáltató az átadó egyetemes szolgáltató egyetemes szolgáltatói engedélye visszavonásának 90/A. § szerinti kezdeményezése esetén a 99/C. § (1) bekezdése szerinti határozat kézhezvételének napjától az érintett felhasználók átvétele, villamosenergia-ellátásuk biztosításához szükséges teendők elvégzése céljából kezelheti az érintett felhasználó, valamint a fizető azonosításához szükséges és elégséges, az (1) bekezdésben, valamint törvényben meghatározott személyes adatokat.
-
-(2) A hálózati engedélyes, a felhasználónak közvetlenül értékesítő termelői engedélyes, a villamosenergia-kereskedő és a megfelelési ellenőr (a továbbiakban együtt: adatkezelő) a kezelt személyes adatot haladéktalanul törli, ha nem az (1)–(1b) bekezdésben meghatározott célból történt az adatkezelés, vagy az (1)–(1b) bekezdésben meghatározott adatkezelési cél megszűnt, különösen az engedélyesi tevékenység keretében létrejött jogviszony megszűnik, vagy az ahhoz kapcsolódó követelések érvényesítése megtörtént, illetve a követelés érvényesíthetősége megszűnt.
-
-(3) A felhasználó, valamint a külön jogszabályban meghatározott fizető adatkezelővel történő szerződéskötése nem tehető függővé valamely, az (1)–(1b) bekezdésben nem szabályozott célból történő adatkezeléshez való hozzájárulástól.
-
-(4) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok átadhatóak
-
-- a) az adatkezelő megbízása alapján a szerződés megkötését, a leolvasást, a számlázást, a kézbesítést, a díjfizetések és követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki kivitelezését, felülvizsgálatát, ellenőrzését, kikapcsolását, illetőleg az ügyfélszolgálati tevékenységet végző természetes személynek és gazdálkodó szervezetnek,
-- b) a számlázási és forgalmazási jogviták rendezésére jogszabály alapján jogosult szervezetek részére,
-- c) a Hivatalnak,
-- d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, bíróságnak, az ügyészségnek, a nyomozó hatóságnak,
-- e) a bírósági végrehajtásról szóló törvény előírásai szerint a bírósági végrehajtónak,
-- f) a fogyasztóvédelmi hatóságnak,
-- g) a védendő fogyasztó esetében az egy felhasználási helyen való igénybevételének ellenőrzése céljából az elosztónak és a védendő fogyasztót megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a villamosenergia-kereskedőnek,
-- h) a villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben az egyetemes szolgáltató üzletszabályzatában meghatározott kedvezményes villamosenergia-áron történő vásárlásra jogosult személyeket illetően, a kedvezményes villamosenergia-áron történő vásárlás elszámolása céljából az átviteli rendszerirányítónak, és
-- i) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
-
-(4a) Az (1)–(1c) bekezdésben meghatározott adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
-
-(5) Az átadott adatokkal kapcsolatban a (4) bekezdés a)–c) és f)–h) pontjában meghatározott adatokat átvevőket az engedélyessel azonos titoktartási kötelezettség terheli. Az adatkezelő köteles a (4) bekezdés a)–c), valamint e)–h) pontja esetén az adatátadással egyidejűleg az érintettet értesíteni.
+(4) Az egyetemes szolgáltató a villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben jogszabályban meghatározott kedvezményes villamosenergia-áron történő vásárlásra jogosult személyekre vonatkozó, a kedvezmény biztosításához szükséges, személyes adatokat a kedvezményes villamosenergia-áron történő vásárlás elszámolása céljából az átviteli rendszerirányítónak továbbítja. Az átvett személyes adatokat az átviteli rendszerirányító az elszámolás lezárultát követő 3 évig kezeli.
 
 152. § (1) Az engedélyesek, az e törvény szerint nem engedélyköteles kiserőművek, a 2011. október 1-je előtt létesített nem engedélyköteles magánvezeték üzemeltetője, az integrált villamosenergia-ipari vállalkozások és az engedélyesek által a 94. § alapján kiszervezett tevékenységet végző személyek kötelesek a miniszter és a Hivatal részére megadni e törvényben valamint a külön jogszabályban meghatározott és a feladatai ellátásához szükséges információkat. Az adatszolgáltatás tartalmát és formáját jogszabály és a Hivatal határozza meg.
 
@@ -2946,9 +2922,9 @@ villamos energia képezi.
 - 3. dönt a rendszerhasználó által a hálózati engedélyessel szemben, továbbá a vételező és a felhasználó által a magánvezeték üzemeltetőjével szemben e törvényben meghatározott kötelezettségek megsértésével kapcsolatban benyújtott beadványokról,
 - 4. elvégzi az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a villamosenergia-ellátás jellemzőinek felmérését.
 
-(6) A Hivatal az adatszolgáltatással és adatvédelemmel kapcsolatos feladatai körében:
+(6) A Hivatal az adatszolgáltatással kapcsolatos feladatai körében:
 
-- 1. eleget tesz a személyes adatok gyűjtésére vonatkozó, törvényben előírt, valamint a Vhr.-ben meghatározott egyéb adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének,
+- 1. eleget tesz a jogszabályban meghatározott adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének,
 - 2. végrehajtja a 714/2009/EK rendelet 20. cikkében meghatározott feladatokat, és
 - 3. éves jelentést készít az Ügynökség és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.
 
@@ -3365,7 +3341,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (5) A hálózati engedélyes a mintaprojektet az okos mérésről szóló jogszabály alapján a Hivatal felügyeletével folytatja. A hálózati engedélyes a mintaprojekt megkezdése előtt a Hivatalt a mintaprojekt leírásának bemutatásával, a mintaprojekt lezárását követően a mintaprojekt eredményeit és az azok alapján tett megállapításokat tartalmazó dokumentum átadásával tájékoztatja.
 
-(6) Az engedélyesek és a projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenységük során jogosultak a rendszerhasználó, valamint a jogszabályban meghatározott fizető személyes adatainak kezelésére. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben az elosztó jogai és kötelezettségei illetik meg, azzal, hogy a tevékenységét nem szervezheti ki.
+(6) A projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenységük során – a mintaprojekt zárását követő 3 évig – a mintaprojekt lebonyolítása céljából kezeli a rendszerhasználó, valamint a jogszabályban meghatározott fizető a személyes adatait. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben az elosztó jogai és kötelezettségei illetik meg, azzal, hogy a tevékenységét nem szervezheti ki.
 
 (7) A Hivatal a mintaprojekttel összefüggésben a projekttársaságnak a jogszabályokban és a Hivatal határozataiban foglalt kötelezettségeinek megszegése esetén
 

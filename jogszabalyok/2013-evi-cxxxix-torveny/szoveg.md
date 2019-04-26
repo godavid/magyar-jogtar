@@ -1119,7 +1119,7 @@ az MNB dönthet úgy, hogy nem teszi közzé a szankciót vagy intézkedést elr
 
 (5) Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz, és az adatok elkülönítése adott bizonyítási eszköz sérelme nélkül nem lehetséges, a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult az MNB, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig jogosult, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
 
-(6) Az MNB által kezelt adatok csak akkor adhatók ki külföldi pénzügyi felügyeleti hatóságnak, ha az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 8. §-ában meghatározott feltételek teljesülnek. Az Európai Gazdasági Térség államaiban (a továbbiakban: EGT-állam) pénzügyi felügyeleti feladatokat ellátó hatóságoknak, valamint a 140. § (1) bekezdés a) pontjában meghatározott szervezeteknek történő adattovábbítás esetén az Infotv. 8. § (4) bekezdését kell alkalmazni.
+(6)
 
 (7) Az MNB a 150. § (1) bekezdés szerinti titkot adhat át a feladatkörében eljáró könyvvizsgálói közfelügyeleti feladatokat ellátó hatóságnak. E tekintetben a közfelügyeleti hatáskört gyakorló személyeket titoktartási kötelezettség terheli.
 
@@ -2001,7 +2001,7 @@ terjedhet.
 - d) a fogyasztó nyilatkozatát a vitás ügy rendezésének megkísérléséről,
 - e) az elutasított panaszt és az elutasítást tartalmazó iratot,
 - f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben közvetítői eljárást vagy polgári peres eljárást nem indított,
-- g) amennyiben a kérelemhez különleges adat is kapcsolódik, a fogyasztó nyilatkozatát arra nézve, hogy a kérelme benyújtásával egyidejűleg különleges adata tekintetében hozzájárul az Infotv. 5. § (2) bekezdés a) pont szerinti adatkezeléshez és adatátadáshoz,
+- g) amennyiben a kérelemhez különleges adat is kapcsolódik, a fogyasztó nyilatkozatát arra nézve, hogy a kérelme benyújtásával egyidejűleg különleges adata tekintetében hozzájárul az adatkezeléshez és adatátadáshoz,
 - h) a döntésre irányuló indítványt,
 - i) méltányosság iránti kérelem esetén a fogyasztó nyilatkozatát arra vonatkozóan, hogy ugyanabból a ténybeli alapból, ugyanazon jog iránt korábban nem terjesztett elő méltányossági kérelmet a Pénzügyi Békéltető Testületnél.
 

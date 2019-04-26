@@ -63,11 +63,11 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 
 7. § (1) Az adatkezelő az érintettel, illetve más adatkezelővel való, meghatározott célú kapcsolattartása során csak azt az azonosító kódot használhatja, amelyre a feladatot meghatározó törvény őt felhatalmazza.
 
-(2) Az az adatkezelő, akit törvény azonosító kód használatára nem hatalmaz fel, a 6. §-ban meghatározott azonosító kódot csak a polgár előzetes, írásbeli hozzájárulása vagy az ügyintézési rendelkezésében tett hozzájárulása alapján használhatja fel.
+(2) Az az adatkezelő, akit törvény azonosító kód használatára nem hatalmaz fel, a 6. §-ban meghatározott azonosító kódot csak a polgár előzetes, az (EU) 2016/679 európai parlamenti és tanácsi rendelet 4. cikk 11. pontja szerinti hozzájárulása vagy az ügyintézési rendelkezésben tett hozzájárulása alapján használhatja fel.
 
 (3) A polgárt a hozzájárulás megadása, megtagadása, illetve visszavonása miatt hátrány nem érheti, a hozzájárulás megadásáért bármilyen előny kilátásba helyezése tilos.
 
-(4) Az az adatkezelő, aki törvényi felhatalmazás alapján egynél több azonosító kód használatára jogosult, a különböző azonosító kódokat tartalmazó nyilvántartásait elkülönítetten vezeti.
+(4)
 
 ### Az azonosító kód kiadása
 
@@ -191,7 +191,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - b) a központi idegenrendészeti nyilvántartásból, vagy
 - c) az elektronikus ügyintézést igénybevevő, külföldön élő természetes személyek személyi nyilvántartásából,
 
-ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása alapján jogosult.
+ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása alapján jogosult. E művelet idejére az adatkezelő jogosult az adott azonosító vonatkozásában az összerendelési bejegyzés felvételét kezdeményező szerv által képzett, a 10/A. § (4) bekezdése szerinti titkosított összerendelési kapcsolati kód kezelésére.
 
 ### III. Fejezet — Az adóazonosító jel
 
@@ -313,7 +313,9 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - m) az Eüak. 35/L. §-a szerinti elektronikus betegségregiszterek kapcsolati kódjának képzése és nyilvántartása céljából,
 - n) a családtámogatási kifizetőhely a családtámogatási ellátások megállapításával és ellenőrzésével, a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben, valamint a törvényben meghatározott nyilvántartási és adatszolgáltatási kötelezettségének teljesítése során;
 - o) a Központi Statisztikai Hivatal statisztikai célra;
-- p) az oktatási hivatal az oktatással kapcsolatos hatáskörei gyakorlásához, a nemzetgazdasági szintű tervezéshez, továbbá az oktatásban részt vevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez szükséges feladatainak ellátásával összefüggésben.
+- p) az oktatási hivatal az oktatással kapcsolatos hatáskörei gyakorlásához, a nemzetgazdasági szintű tervezéshez, továbbá az oktatásban részt vevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez szükséges feladatainak ellátásával összefüggésben;
+- r) az atomenergia-felügyeleti szerv az atomenergiáról szóló 1996. évi CXVI. törvény 16/A. §-ában meghatározott, Országos Személyi Dozimetriai Nyilvántartás vezetése során a sugárterhelésnek kitett munkavállalók egészségügyi nyomon követéséhez.
+- s) az önkormányzati adóhatóság a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § f) pontjában meghatározott adómentesség megállapítása, valamint a helyi adókról szóló 1990. évi C. törvény 14/A. §-a és 26/A. §-a szerinti adófelfüggesztés iránt benyújtott kérelem elbírálása és az adózással kapcsolatos nyilvántartás vezetése során.
 
 24. § A TAJ szám továbbítására jogosultak:
 
@@ -485,11 +487,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 ### VII. Fejezet — Záró rendelkezések
 
-40. § (1)
-
-(2) Az e törvényben nem szabályozott kérdésekben az információs önrendelkezési jogról és az információszabadságról szóló törvény, továbbá az adatkezelőre vonatkozó törvény rendelkezései az irányadók.
-
-(3)
+40. §
 
 ### Felhatalmazó rendelkezések
 

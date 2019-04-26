@@ -140,6 +140,10 @@ veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy kever�
 - b) a tűzoltásra vagy a műszaki mentésre vonatkozóan szándékosan megtévesztő jelzést adott;
 - c) gondatlansága miatt téves automatikus tűzátjelzés keletkezett.
 
+(7) A hivatásos katasztrófavédelmi szerv a költségek megtéríttetése céljából jogosult a (6) bekezdésben meghatározott személyek nevének, lakcímének kezelésére.
+
+(8) A (7) bekezdésben meghatározott adatot a hivatásos katasztrófavédelmi szerv az adat rögzítésétől számított 5 évig kezeli.
+
 ### A műszaki mentés
 
 9. § A műszaki mentések jelzésére, a jelzés feltételeinek biztosítására, a műszaki mentésben való részvételre, irányítására – ha jogszabály eltérően nem rendelkezik – az 5–7. §-okban foglaltakat kell értelemszerűen alkalmazni.
@@ -156,18 +160,23 @@ veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy kever�
 - b) a bejelentő telefonszámát, ennek hiányában lakcímét,
 - c) a bejelentéskor használt telefonszámhoz tartozó előfizető nevét, címét,
 - d) a bejelentő által használt telefonállomás azonosított adatait,
-- e) a hívások rögzített tartalmát, a tűzoltási, műszaki mentési feladatot indokoló esemény helyét és jellegét,a személyi sérülés, haláleset adatait,
+- e) a hívások rögzített tartalmát, a tűzoltási, műszaki mentési feladatot indokoló esemény helyét és jellegét, a személyi sérülés, haláleset adatait,
 - f) a műveletirányítás által szükségesnek tartott további, személyes adatnak nem minősülő információt.
 
-(2) A tűzoltóság – a tűzoltási, műszaki mentési, hatósági feladat végrehajtása érdekében – a kárhelyszínen tartózkodó, a káresemény tekintetében érdemi információval szolgálni tudó személyek alábbi adatait rögzítheti:
+(2) A tűzoltóság és a közreműködő önkéntes tűzoltó egyesület – a tűzoltási, műszaki mentési, hatósági feladat végrehajtása érdekében – a kárhelyszínen tartózkodó, a káresemény tekintetében érdemi információval szolgálni tudó, a káreseménnyel érintett személyek alábbi adatait rögzíti:
 
 - a) név,
 - b) lakcím,
-- c) egyéb elérhetőség.
+- c) egyéb elérhetőség,
+- d) gépjárművének rendszáma, ha az a káreseménnyel érintett.
 
-(3) Az (1)–(2) bekezdésben meghatározott személyes adatokat és a bejelentést rögzítő hangfelvételeket a tűzoltóság 5 évig kezeli.
+(3) Az (1) bekezdésben meghatározott személyes adatokat és a bejelentést rögzítő hangfelvételeket a jelzésfogadó 5 évig, a rendőrség, a mentőszolgálat és a települési önkormányzat polgármesteri hivatala az 5. § (3) bekezdés szerinti továbbítást követő 15 napig kezeli.
 
-(4) Az (1) és (2) bekezdés alapján nyilvántartott adat – ha törvény eltérően nem rendelkezik – más szerv részére nem továbbítható.
+(4) A (2) bekezdésben meghatározott személyes adatokat és a bejelentést rögzítő hangfelvételeket a tűzoltóság, a közreműködő önkéntes tűzoltó egyesület 5 évig kezeli.
+
+(5) Az (1) és (2) bekezdés alapján nyilvántartott adat a hivatásos katasztrófavédelmi szerv részére hatósági eljárás céljából továbbítható.
+
+(6) A hivatásos katasztrófavédelmi szerv az (1) bekezdés e) pontjában meghatározott adatokat személyazonosításra alkalmatlan módon statisztikai célból is kezelheti.
 
 ### II. Fejezet — A TŰZVÉDELMI HATÓSÁGI FELADATOK
 
@@ -206,6 +215,10 @@ tevékenységet kíván folytatni, köteles az erre irányuló szándékát a sz
 - d) az (1) bekezdés a) pontja szerinti tevékenység esetén a tűzoltó készülék karbantartó szervezet címét.
 
 (3a) A (3) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, a tevékenység gyakorlására jogosult vagy képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(4) A tűzvédelmi hatóság a hivatásos katasztrófavédelmi szerv központi szerve részére a hivatásos katasztrófavédelmi szerv, önkormányzati tűzoltóság, létesítményi tűzoltóság vagy tűzoltósági szolgáltatást nyújtó vállalkozás által készenlétben tartott tűzvédelmi technika felülvizsgálatával, javításával összefüggő tevékenységet folytatókról a (3) bekezdés szerint vezetett nyilvántartás adatait átadja.
+
+(5) A hivatásos katasztrófavédelmi szerv központi szerve a (4) bekezdés alapján átvett adatok alapján teljesíti a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 30. § (2) bekezdése szerinti tűzvédelmi hatósági feladatok egységes ellátását.
 
 13. § (1) Olyan építési termék hozható forgalomba – az egyedi, hagyományos, természetes, bontott vagy műemléki felhasználású építési termék kivételével –, amely rendelkezik az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló jogszabályban meghatározott, beépítéshez szükséges iratokkal.
 
@@ -300,6 +313,13 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 18/A. § (1) A tűzvédelmi, gazdasági és műemléki szempontból kiemelt fontosságú létesítményekre külön jogszabályban meghatározottak szerint a hivatásos tűzoltóság Tűzoltási és Műszaki Mentési Tervet (a továbbiakban: TMMT) készít.
 
 (2) A létesítmény és a hozzá tartozó terület felett a rendelkezési jogot gyakorló a tűzoltóság írásos megkeresésére a TMMT elkészítéséhez szükséges műszaki és kapcsolattartási adatokat 30 napon belül köteles a hivatásos tűzoltóság rendelkezésére bocsátani.
+
+(2a) A TMMT elkészítéséhez szükséges kapcsolattartási adatként a hivatásos tűzoltóság
+
+- a) a létesítmény, a terület tűzvédelméért felelős személy nevét, telefonszámát,
+- b) a létesítmény, a terület műszaki vonatkozásban meghatározott felkészültségű szakembereinek nevét és telefonszámát
+
+a létesítménynél vagy a területen betöltött feladatkör, munkakör fennállásáig vagy a létesítmény TMMT készítésére vonatkozó kötelezettségének megszűnéséig kezeli.
 
 (3) Az adatszolgáltatásra kötelezett a szöveges formátumú adatokat elektronikus úton, míg a műszaki rajzos, grafikus formátumúakat nyomtatott és elektronikus változatban kell átadnia a tűzoltóság részére.
 

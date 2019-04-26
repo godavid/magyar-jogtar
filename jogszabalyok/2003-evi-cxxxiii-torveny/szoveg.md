@@ -199,29 +199,25 @@ vonatkozó részletes szabályokat.
 
 (4) Ha az ismeretlen helyen tartózkodó hátralékos tulajdonostárs nyilvántartásba vett új lakó- vagy tartózkodási helye, székhelye, telephelye a nyilvántartást vezető szerv adatszolgáltatása alapján vagy egyéb módon ismertté válik, a kézbesítési vélelem az új lakó- vagy tartózkodási helyre, székhelyre, telephelyre a (3) bekezdés szerinti módon megkísérelt és eredménytelen kézbesítés esetében áll be.
 
-25. § (1) A közös tulajdonban álló épületrészek, helyiségek és területek megfigyelését szolgáló, zárt rendszerű műszaki megoldással kiépített elektronikus megfigyelő rendszer (a továbbiakban: kamerarendszer) létesítéséről és üzemeltetéséről a közgyűlés az összes tulajdoni hányad szerinti legalább kétharmados többségével rendelkező tulajdonostársak igenlő szavazatával dönthet. Ebben az esetben a szervezeti-működési szabályzatnak tartalmaznia kell a kamerarendszer üzemeltetéséhez szükséges – az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseivel összhangban megállapított – adatkezelési szabályokat.
+25. § (1) A közös tulajdonban álló épületrészek, helyiségek és területek megfigyelését szolgáló, zárt rendszerű műszaki megoldással kiépített elektronikus megfigyelő rendszer (a továbbiakban: kamerarendszer) létesítéséről és üzemeltetéséről a közgyűlés az összes tulajdoni hányad szerinti legalább kétharmados többségével rendelkező tulajdonostársak igenlő szavazatával dönthet. Ebben az esetben a szervezeti-működési szabályzatnak tartalmaznia kell a kamerarendszer üzemeltetéséhez szükséges – a személyes adatok védelmére vonatkozó előírásokkal összhangban megállapított – adatkezelési szabályokat.
 
 (2) A közös képviselő vagy az intézőbizottság által kötött szerződés alapján a kamerarendszer üzemeltetője a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvényben meghatározott személy lehet.
 
-(3) Az (1) bekezdésben említett közgyűlési határozat alapján létesített kamerarendszer a következő feltételek együttes fennállása esetén üzemeltethető:
-
-- a) a kamerarendszer kizárólag az emberi élet, a testi épség, a személyi szabadság védelmét, a jogsértő cselekmények megelőzését és bizonyítását, valamint a közös tulajdonban álló vagyon védelmét szolgálja,
-- b) a fennálló körülmények valószínűsítik, hogy a jogvédelem más módszerrel, mint a felvételek felhasználása, nem érhető el,
-- c) alkalmazása az a) pontban meghatározott célok eléréséhez elengedhetetlenül szükséges mértékig terjed, és nem jár az információs önrendelkezési jog aránytalan korlátozásával.
+(3) A kamerarendszer által készített felvételek megismeréséről jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell a rögzített felvétel azonosításához szükséges adatokat, az annak megismerésére jogosult személy nevét, továbbá az adatok megismerésének okát és idejét.
 
 (4) A kamerarendszer nem irányulhat a külön tulajdonban álló lakás vagy nem lakás céljára szolgáló helyiség bejáratára vagy más nyílászárójára akkor sem, ha az a közös tulajdonban álló épületen, épületrészen vagy területen van elhelyezve. A kamerarendszer nem helyezhető el a közös tulajdonban és a tulajdonostársak közös használatában álló olyan helyiségben sem, amelyben a megfigyelés – a helyiség rendeltetéséből fakadóan – az emberi méltóságot sértheti (pl. öltöző, illemhely).
 
-(5) A kamerarendszernek meg kell felelnie a mindenkori legmagasabb adatbiztonsági szint és a felvételek automatikus rögzítése követelményeinek. A felvételeket a rögzítést követő 15 napig kell tárolni abból a célból, hogy azok a rögzítés helyszínén elkövetett bűncselekmény vagy szabálysértés miatt indult büntető-, szabálysértési vagy más hatósági, bírósági eljárásban – ideértve az érintett személy vagy a társasházi közösség által, jogainak érvényesítése céljából indított eljárásokat, akár a polgári peres eljárást is – bizonyítékul, az erre törvényben felhatalmazott adatkezelők által felhasználhatóak legyenek. E határidő lejártát követően a fel nem használt felvételeket haladéktalanul törölni kell úgy, hogy azok többé ne legyenek helyreállíthatóak.
+(5) A kamerarendszerrel felszerelt épületbe, épületrészbe és a kamerák által megfigyelt területre belépni, ott tartózkodni szándékozó személyeket tájékoztatni kell a személyes adatok védelmére vonatkozó előírások alapján szükséges információkról, így különösen a kamerarendszer alkalmazásának tényéről, az érintetteket megillető jogokról, az üzemeltető személyéről és elérhetőségeiről.
 
-(6) A kamerarendszer által rögzített felvételekhez – a (7) bekezdésben foglaltak kivételével – kizárólag a rendszer üzemeltetője férhet hozzá, azokat csak a szerződésből fakadó kötelezettségei érvényesítéséhez szükséges és a jogsértő cselekmény megelőzése vagy megszakítása érdekében mellőzhetetlen esetben jogosult megismerni, és a felvételeket csak a bíróság, a szabálysértési vagy más hatóság részére továbbíthatja. A továbbításra kizárólag törvényben meghatározott esetekben és a felvételre igényt tartó adatkezelési jogalapjának megfelelő igazolása után kerülhet sor. A felvételeket a továbbítás megtörténte után haladéktalanul törölni kell.
+(6)
 
-(7) Az, akinek jogát vagy jogos érdekét a kamerarendszer által rögzített felvétel érinti, a felvétel rögzítésétől számított tizenöt napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy az adatot annak üzemeltetője ne semmisítse meg, illetve ne törölje. Bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv vagy más hatóság megkeresésére vagy adatkérésére a rögzített felvételt haladéktalanul meg kell küldeni. Amennyiben a megkeresésre vagy adatkérésre attól számított harminc napon belül, hogy a megsemmisítés mellőzését kérték, nem kerül sor, a rögzített felvételt haladéktalanul törölni kell úgy, hogy azok többé ne legyenek helyreállíthatóak.
+(7)
 
-(8) A felvételen szereplő természetes személy érintett számára biztosítani kell valamennyi, az információs önrendelkezési jogról és az információszabadságról szóló törvényben felsorolt jognak az ott meghatározott korlátozások figyelembevételével történő gyakorlását.
+(8)
 
-(9) A felvételek megismeréséről jegyzőkönyvet kell készíteni, amelynek tartalmaznia kell a rögzített felvételt, az annak megismerésére – a (2) bekezdésben meghatározottak szerint – jogosult személy nevét, továbbá az adatok megismerésének okát és idejét.
+(9)
 
-(10) A kamerarendszerrel felszerelt épületbe, épületrészbe és a kamerák által megfigyelt területre belépni, ott tartózkodni szándékozó személyek figyelmét jól látható helyen, jól olvashatóan, a megfelelő tájékoztatásra alkalmas módon fel kell hívni az elektronikus megfigyelőrendszer alkalmazásának tényére. A tájékoztatásban meg kell jelölni az üzemeltető személyét és elérhetőségét is. Az üzemeltető az érintett személyt – kérésére – köteles tájékoztatni a felvételek készítésével kapcsolatos minden tényről, így különösen annak céljáról és jogalapjáról, az üzemeltetésre jogosult személyéről, a felvételek készítésének időpontjáról és tárolásának időtartamáról, továbbá arról, hogy kik ismerhetik meg a felvételeket. A tájékoztatásnak ki kell terjednie az érintett adatkezeléssel kapcsolatos jogaira – ideértve a (7) bekezdésben meghatározott jogait is –, valamint jogorvoslati lehetőségeire.
+(10)
 
 ### A társasházi lakóépület házirendje
 

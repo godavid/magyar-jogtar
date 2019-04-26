@@ -16,21 +16,25 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 
 3. § E törvény alkalmazásában
 
-- a) egészségügyi adat: az érintett testi, értelmi és lelki állapotára, kóros szenvedélyére, valamint a megbetegedés, illetve az elhalálozás körülményeire, a halál okára vonatkozó, általa vagy róla más személy által közölt, illetve az egészségügyi ellátóhálózat által észlelt, vizsgált, mért, leképzett vagy származtatott adat; továbbá az előzőekkel kapcsolatba hozható, az azokat befolyásoló mindennemű adat (pl. magatartás, környezet, foglalkozás);
-- b) személyazonosító adat: a családi és utónév, leánykori név, a nem, a születési hely és idő, az anya leánykori családi és utóneve, a lakóhely, a tartózkodási hely, a társadalombiztosítási azonosító jel (a továbbiakban: TAJ szám) együttesen vagy ezek közül bármelyik, amennyiben alkalmas vagy alkalmas lehet az érintett azonosítására;
+- a)
+- b)
 - c) gyógykezelés: minden olyan tevékenység, amely az egészség megőrzésére, továbbá a megbetegedések megelőzése, korai felismerése, megállapítása, gyógyítása, a megbetegedés következtében kialakult állapotromlás szinten tartása vagy javítása céljából az érintett közvetlen vizsgálatára, kezelésére, ápolására, orvosi rehabilitációjára, illetve mindezek érdekében az érintett vizsgálati anyagainak feldolgozására irányul, ideértve a gyógyszerek, gyógyászati segédeszközök, gyógyászati ellátások kiszolgálását, a mentést és betegszállítást, valamint a szülészeti ellátást is;
 - d) orvosi titok: a gyógykezelés során az adatkezelő tudomására jutott egészségügyi és személyazonosító adat, továbbá a szükséges vagy folyamatban lévő, illetve befejezett gyógykezelésre vonatkozó, valamint a gyógykezeléssel kapcsolatban megismert egyéb adat;
 - e) egészségügyi dokumentáció: a gyógykezelés során a betegellátó tudomására jutott egészségügyi és személyazonosító adatokat tartalmazó feljegyzés, nyilvántartás vagy bármilyen más módon rögzített adat, függetlenül annak hordozójától vagy formájától;
 - f) kezelést végző orvos: az egészségügyről szóló 1997. évi CLIV. törvény 3. § b) pontja szerinti kezelőorvos,
 - g) betegellátó: a kezelést végző orvos, az egészségügyi szakdolgozó, az érintett gyógykezelésével kapcsolatos tevékenységet végző egyéb személy, a gyógyszerész;
 - h)
-- i) adatkezelő: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet, aki vagy amely az e törvény szerinti adatkezelési célból egészségügyi és a hozzá kapcsolódó személyes vagy személyazonosító adat kezelésére jogosult,
+- i)
 - j) közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbe fogadó, a mostoha- és nevelőszülő, valamint a testvér és az élettárs;
 - k) sürgős szükség: az egészségi állapotban hirtelen bekövetkezett olyan változás, amelynek következtében azonnali egészségügyi ellátás hiányában az érintett közvetlen életveszélybe kerülne, illetve súlyos vagy maradandó egészségkárosodást szenvedne;
 - l)
 - m) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 - n) harmadik ország: minden olyan állam, amely nem EGT-állam;
 - o)
+
+3/A. § Az elhunyt személy elhalálozásának körülményeire és a halál okára vonatkozó, valamint az elhunyt személyre vonatkozó egészségügyi dokumentációban foglalt személyes adat kezelésére az egészségügyi adat és az egészségügyi dokumentációban foglalt személyes adat kezelésére vonatkozó kötelező európai uniós jogi aktusban vagy jogszabályban foglalt szabályokat kell alkalmazni.
+
+3/B. § E törvény alkalmazásában személyazonosító adat az olyan, az egészségügyi adat érintettjének azonosítására szolgáló személyes adat, amelyet az adatkezelő az egészségügyi adattal együtt, az egészségügyi adat kezelésével azonos vagy attól elválaszthatatlan céllal az egészségügyi dokumentáció részeként kezel.
 
 ### II. Fejezet — Az adatkezelés célja
 
@@ -72,7 +76,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - z) az egészségügyi ellátásokra jogosult részére a hatásos és biztonságos gyógyszerelés elősegítése, valamint a költséghatékony gyógyszeres terápia kialakítása érdekében,
 - zs) az Európai Unión belüli határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése.
 
-(3) Az (1)–(2) bekezdésekben meghatározott céloktól eltérő célra is lehet az érintett, illetve törvényes vagy meghatalmazott képviselője (a továbbiakban együtt: törvényes képviselő) – megfelelő tájékoztatáson alapuló – írásbeli hozzájárulásával egészségügyi és személyazonosító adatot kezelni.
+(3) Az (1) és (2) bekezdésben meghatározott céloktól eltérő célra is lehet az érintett, illetve törvényes vagy meghatalmazott képviselője (a továbbiakban együtt: törvényes képviselő) – megfelelő tájékoztatáson alapuló önkéntes, egyértelműen kifejezett akaratot tartalmazó, és a szabályszerű nyilatkozat megtételét hitelt érdemlően bizonyító módon tett – hozzájárulásával egészségügyi adatot kezelni teljes körűen vagy egyes adatkezelési tevékenységre kiterjedően.
 
 (4) Az (1)–(2) bekezdések szerinti adatkezelési célokra csak annyi és olyan egészségügyi, illetve személyazonosító adat kezelhető, amely az adatkezelési cél megvalósításához elengedhetetlenül szükséges.
 
@@ -80,7 +84,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 
 - a) a betegellátó,
 - b) az intézményvezető, valamint
-- c) az adatvédelmi felelős,
+- c) az adatvédelmi tisztviselő,
 - d)
 
 (2)
@@ -106,7 +110,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - a) az egészségügyi és személyazonosító adat továbbítására az érintett, illetve törvényes képviselője írásban hozzájárult, az abban foglalt korlátozásokon belül, valamint
 - b) az egészségügyi és személyazonosító adat továbbítása törvény előírásai szerint kötelező.
 
-(3) Az érintett jogosult tájékoztatást kapni a gyógykezeléssel összefüggésben történő adatkezelésről, a rá vonatkozó egészségügyi és személyazonosító adatokat megismerheti, az egészségügyi dokumentációba betekinthet, valamint azokról – saját költségére – másolatot kaphat.
+(3) Az érintettnek az (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) 15. cikk (3) bekezdésében meghatározott, az adatkezelés tárgyát képező személyes adatok minden további másolatért miniszteri rendeletben meghatározott költségelemek alapján díjat kell fizetni.
 
 (4) A (3) bekezdés szerinti jog
 
@@ -135,7 +139,7 @@ van szükség, és
 
 (2) Az érintett gyógykezelésével kapcsolatos tevékenységet végző egyéb személy a kezelést végző orvos utasításának megfelelően, illetve a feladatai ellátásához szükséges mértékben vehet fel egészségügyi adatot.
 
-10. § (1) A 4. § (1)–(3) bekezdése szerinti célból történő adatkezelés és adatfeldolgozás esetén az egészségügyi ellátóhálózaton belül az egészségügyi és személyazonosító adatok továbbíthatók, illetve összekapcsolhatók. Az egészségbiztosítási szervnek a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 81. §-ában meghatározott feladata ellátása érdekében egészségügyi adatok és TAJ-számok az egészségügyi ellátóhálózat és az egészségbiztosítási szerv között is továbbíthatók és összekapcsolhatók, a feladat ellátásához szükséges mértékben. A különböző forrásból származó egészségügyi és személyazonosító adatokat csak addig az időpontig és olyan mértékig lehet összekapcsolni, ameddig az a megelőzés, a gyógykezelés, a népegészségügyi, közegészségügyi-járványügyi intézkedések megtétele érdekében feltétlenül szükséges.
+10. § (1) A 4. § (1)–(3) bekezdése szerinti célból történő adatkezelés és adatfeldolgozás esetén az egészségügyi ellátóhálózaton belül az egészségügyi és személyazonosító adatok továbbíthatók, illetve összekapcsolhatók. Az egészségbiztosítási szervnek a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 81. §-ában meghatározott feladata ellátása érdekében egészségügyi adatok és a társadalombiztosítási azonosító jelek (a továbbiakban: TAJ szám) az egészségügyi ellátóhálózat és az egészségbiztosítási szerv között is továbbíthatók és összekapcsolhatók, a feladat ellátásához szükséges mértékben. A különböző forrásból származó egészségügyi és személyazonosító adatokat csak addig az időpontig és olyan mértékig lehet összekapcsolni, ameddig az a megelőzés, a gyógykezelés, a népegészségügyi, közegészségügyi-járványügyi intézkedések megtétele érdekében feltétlenül szükséges.
 
 (1a) Az (1) bekezdés alkalmazásánál az egészségügyi ellátóhálózaton belüli egészségügyi és személyazonosító adatok továbbítására és összekapcsolására – a 4. § (1) és (3) bekezdésében foglaltakon túl – a 4. § (2) bekezdésében meghatározott célok esetén csak akkor kerülhet sor, ha azok az egészségügyi és betegellátó rendszer működésével közvetlenül összefüggnek.
 
@@ -179,7 +183,7 @@ van szükség, és
 (2) Az érintett hozzájárulása nélkül is jelen lehet a 17. § (2) bekezdésében meghatározott személyeken túl az,
 
 - a) aki az érintettet az adott betegség miatt korábban gyógykezelte,
-- b) akinek erre az intézményvezető vagy az adatvédelemért felelős személy szakmai-tudományos célból engedélyt adott, kivéve, ha ez ellen az érintett kifejezetten tiltakozott.
+- b) akinek erre az intézményvezető vagy az adatvédelmi tisztviselő szakmai-tudományos célból engedélyt adott, kivéve, ha ez ellen az érintett kifejezetten tiltakozott.
 
 14/A. § (1) Gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás rendelése esetén a vényen fel kell tüntetni
 
@@ -391,11 +395,11 @@ tartalmazza.
 
 ### Tudományos kutatás céljából történő adatkezelés
 
-21. § (1) Tudományos kutatás céljából az intézményvezető vagy az adatvédelmi felelős engedélyével a tárolt adatokba be lehet tekinteni, azonban tudományos közleményben nem szerepelhetnek egészségügyi és személyazonosító adatok oly módon, hogy az érintett személyazonossága megállapítható legyen. Tudományos kutatás során a tárolt adatokról nem készíthető személyazonosító adatokat is tartalmazó másolat.
+21. § (1) Tudományos kutatás céljából az intézményvezető vagy az adatvédelmi tisztviselő engedélyével a tárolt adatokba be lehet tekinteni, azonban tudományos közleményben nem szerepelhetnek egészségügyi és személyazonosító adatok oly módon, hogy az érintett személyazonossága megállapítható legyen. Tudományos kutatás során a tárolt adatokról nem készíthető személyazonosító adatokat is tartalmazó másolat.
 
 (2) Az (1) bekezdés alapján a tárolt adatokba betekintett személyekről, a betekintés céljáról és időpontjáról nyilvántartást kell vezetni. A nyilvántartás kötelező megőrzési ideje 10 év.
 
-(3) A kutatási kérelem megtagadását az intézményvezető vagy az adatvédelmi felelős köteles írásban megindokolni. A kérelem megtagadása esetén a kérelmező bírósághoz fordulhat. A per megindítására és az eljárás lefolytatására az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a közérdekű adat megismerése iránti igény elutasítása esetén megindítható perre vonatkozó szabályai az irányadóak.
+(3) A kutatási kérelem megtagadását az intézményvezető vagy az adatvédelmi tisztviselő köteles írásban megindokolni. A kérelem megtagadása esetén a kérelmező bírósághoz fordulhat. A per megindítására és az eljárás lefolytatására az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a közérdekű adat megismerése iránti igény elutasítása esetén megindítható perre vonatkozó szabályai az irányadóak.
 
 ### A társadalombiztosítási igazgatási szervek adatkezelése
 
@@ -593,18 +597,14 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 - c) kezdeményezi az adatvédelem, illetve az adatbiztonság területén kifejlesztett új technológiák és eszközök alkalmazását,
 - d) biztosítja az adatkezeléssel és adatfeldolgozással foglalkozó személyek adatkezelési oktatását,
 - e) tudományos kutatás esetén [21. § (1) bekezdés] engedélyezi az egészségügyi dokumentációba való betekintést,
-- f) kijelöli az adatvédelmi felelőst (felelősöket),
-- g) ellenőrzi az adatvédelmi felelős (felelősök) tevékenységét,
+- f) kijelöli az adatvédelemi tisztviselőt,
+- g) ellenőrzi az adatvédelemi tisztviselő tevékenységét,
 - h) gondoskodik az intézmény adatvédelmi szabályzatának elkészítéséről,
 - i) dönt a kötelező nyilvántartási időt követően a nyilvántartott adatok további tárolásáról vagy megsemmisítéséről.
 
-(3) A (2) bekezdés a)–e) pontjai szerinti tevékenységet az adatvédelmi felelős is elláthatja.
+(3) A (2) bekezdés a)–e) pontjai szerinti tevékenységet az adatvédelmi tisztviselő is elláthatja.
 
-(4) A szervezeti egységenként 20 főnél több adatkezelőt foglalkoztató munkáltató esetén az intézményvezető – szervezeti egységenként – adatvédelmi felelőst jelöl ki. Adatvédelmi felelősnek
-
-- a) szakorvos szakképesítéssel rendelkező orvos, vagy
-- b) legalább 2 év joggyakorlattal rendelkező jogi egyetemi végzettségű személy, vagy
-- c) felsőfokú végzettségű, az egészségügyi adatkezelésben legalább 2 év gyakorlatot szerzett személy jelölhető ki.
+(4)
 
 32/A. § A gyógykezelés érdekében felvett egészségügyi és személyazonosító adatokat tartalmazó, közfinanszírozott egészségügyi szolgáltató által vezetett elektronikus nyilvántartással kapcsolatban szerződés alapján adatfeldolgozást végző adatfeldolgozó szervezet az adatfeldolgozási szerződés megszűnésekor az adatkezelő egészségügyi szolgáltatótól átvett adatállományt köteles díjmentesen, elektronikusan visszaszolgáltatni az adatkezelő rendelkezései szerint.
 
@@ -665,20 +665,22 @@ Az azonosítási és jogosultságkezelési nyilvántartás az egészségügyi sz
 
 (3) A működtető a kérelem benyújtásától számított legrövidebb idő alatt, legfeljebb azonban 25 napon belül, az érintett erre irányuló – családi és utónevét, valamint TAJ számát tartalmazó – kérelmére elektronikus formában, az érintettek számára biztosított közvetlen hozzáférési felületen, vagy papír alapon írásban tájékoztatást ad az érintett (1) bekezdés szerint nyilvántartott adatairól.
 
-(4) A papír alapú adatigénylés költségtérítés megfizetéséhez köthető. Elektronikus formában kiadott adatigénylések költségtérítés megfizetéséhez nem köthetőek.
+(4) A papíralapú adatigénylés a 7. § (3) bekezdése szerint költségtérítés megfizetéséhez köthető. Elektronikus formában kiadott adatigénylések költségtérítés megfizetéséhez nem köthetőek.
 
-(5) Az e § szerinti nyilvántartásra egyebekben az információs önrendelkezési jogról szóló törvény adattovábbítási nyilvántartásra vonatkozó szabályait alkalmazni kell.
+(5)
 
-35/E. § (1) A működtető vezetője a felügyelete alá tartozó – az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 24. § (1) bekezdése szerinti végzettséggel rendelkező – belső adatvédelmi felelőst nevez ki, aki az EESZT szolgáltatásai tekintetében ellátja az Infotv. 24. § (2) bekezdés a)–c) pontjában, továbbá a (2) és (3) bekezdésben foglalt feladatokat.
+35/E. § (1) A működtető vezetője a felügyelete alá tartozó, az általános adatvédelmi rendelet 37. cikk (5) bekezdésének megfelelő adatvédelmi tisztviselőt nevez ki, aki az EESZT szolgáltatásai tekintetében ellátja az általános adatvédelmi rendelet 39. cikkében, továbbá a (2) és (3) bekezdésben foglalt feladatokat.
 
-(2) Az adatvédelmi felelős a csatlakozott adatkezelőktől és az EESZT felhasználóktól adatot, dokumentumot vagy tájékoztatást kérhet. A kért adatot, dokumentumot vagy tájékoztatást soron kívül, de legkésőbb öt munkanapon belül az adatvédelmi felelős rendelkezésére kell bocsátani.
+(2) Az adatvédelmi tisztviselő a csatlakozott adatkezelőktől és az EESZT felhasználóktól adatot, dokumentumot vagy tájékoztatást kérhet. A kért adatot, dokumentumot vagy tájékoztatást soron kívül, de legkésőbb öt munkanapon belül az adatvédelmi tisztviselő rendelkezésére kell bocsátani.
 
-(3) Az adatvédelmi felelős
+(3) Az adatvédelmi tisztviselő
 
-- a) jogszabályi rendelkezések, illetve biztonsági előírások megsértésének észlelése esetén annak megszüntetésére, valamint
+- a) jogszabályi rendelkezések, illetve biztonsági előírások megsértésének vagy adatvédelmi incidens észlelése esetén annak megszüntetésére, valamint
 - b) a (2) bekezdés szerinti együttműködés hiányában együttműködésre
 
-hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelensége esetén az adatvédelmi felelős a csatlakozott adatkezelő felügyeleti szervéhez, fenntartójához fordul, és jogszabály szerinti fegyelmi felelősségre vonás felmerülése esetén értesíti a fegyelmi jogkör gyakorlóját is.
+hívja fel az érintett csatlakozott adatkezelőt.
+
+(4) A (3) bekezdés szerinti felhívás eredménytelensége esetén az adatvédelmi tisztviselő a csatlakozott adatkezelő felügyeleti szervéhez, fenntartójához fordul, és jogszabály szerinti fegyelmi felelősségre vonás felmerülése esetén értesíti a fegyelmi jogkör gyakorlóját is.
 
 ### Központi eseménykatalógus
 
@@ -741,7 +743,7 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 
 (4) Az érintett jogosult megtiltani, hogy az (1) bekezdés szerinti adatait az érintett kezelőorvosa, háziorvosa, vagy az állami vérellátó szolgálat rögzítse.
 
-(5) Az érintett írásban kérheti az egészségügyiprofil-nyilvántartásba bejegyzett adatának javítását – a téves adat tudomásszerzésétől számított 30 napon belül – az azt bejegyző (1) bekezdés szerinti orvosától, az állami vérellátótól, illetve a működtetőtől.
+(5) Az érintett írásban kérheti az egészségügyiprofil-nyilvántartásba bejegyzett adatának helyesbítését – a téves adat tudomásszerzésétől számított 30 napon belül – az azt bejegyző (1) bekezdés szerinti orvosától, az állami vérellátótól, illetve a működtetőtől.
 
 ### Egészségügyi dokumentáció nyilvántartása az EESZT-n belül
 

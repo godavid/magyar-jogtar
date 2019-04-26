@@ -395,7 +395,7 @@ használhatja fel.
 
 (6) Az agrárkamara a mezőgazdasági igazgatási szervvel kötött megállapodásban foglaltak szerint közreműködik a mező- és erdőgazdasági földek forgalmához kapcsolódó hatósági ellenőrzések lefolytatásában.
 
-13. § Az agrárkamara közfeladatai ellátása érdekében az információs önrendelkezési jogról és az információszabadságról szóló törvény és az agrárkamara alapszabályában rögzített adatgyűjtésre vonatkozó rendelkezéseknek megfelelően tagjairól adatokat gyűjt, valamint azokat kezeli, összesíti és nyilvántartja. Az adatszolgáltatás körét az országos küldöttgyűlés tagjai kétharmadának szavazatával állapítja meg.
+13. § Az agrárkamara közfeladatai ellátása érdekében a személyes adatok védelmére vonatkozó előírásoknak és az agrárkamara alapszabályában rögzített adatgyűjtésre vonatkozó rendelkezéseknek megfelelően tagjairól adatokat gyűjt, valamint azokat kezeli, összesíti és nyilvántartja. Az adatszolgáltatás körét az országos küldöttgyűlés tagjai kétharmadának szavazatával állapítja meg.
 
 13/A. § (1) Az agrárkamarát az ügyfél jogállása illeti meg azon közigazgatási hatósági ügyekben és az azokhoz kapcsolódó jogorvoslati eljárásokban, amelyekben nem közigazgatási hatóságként jogszabály által meghatározott feladatot lát el.
 

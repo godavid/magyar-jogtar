@@ -6,7 +6,7 @@ Az Országgyűlés az állam működése, illetőleg a lakosság ellátása szem
 
 ### I. Fejezet — A fegyveres biztonsági őrség
 
-1. § (1) Fegyveres biztonsági őrséggel kell védeni az állam működése, illetőleg a lakosság ellátása szempontjából kiemelkedően fontos tevékenységet, létesítményt, szállítmányt, ha a védelemre a Magyar Honvédség, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek (a továbbiakban: rendvédelmi szerv), illetve a Nemzeti Adó- és Vámhivatal jogszabállyal nem kötelezettek, de az őrzés a közbiztonság vagy a nemzeti vagyon védelme érdekében indokolt. Így különösen:
+1. § (1) Fegyveres biztonsági őrséggel kell védeni az állam működése, illetőleg a lakosság ellátása szempontjából kiemelkedően fontos tevékenységet, létesítményt, szállítmányt, ha a védelemre a Magyar Honvédség, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, valamint az Országgyűlés biztonságáról gondoskodó Országgyűlési Őrség, illetve a Nemzeti Adó- és Vámhivatal jogszabállyal nem kötelezettek, de az őrzés a közbiztonság vagy a nemzeti vagyon védelme érdekében indokolt. Így különösen:
 
 - a) az állam biztonsága, illetve a honvédelem szempontjából fontos létesítményt;
 - b) a nemzetközi személy- vagy teherforgalomban működő repülőteret;
@@ -32,7 +32,7 @@ Az Országgyűlés az állam működése, illetőleg a lakosság ellátása szem
 
 jelleggel.
 
-(6) Fegyveres biztonsági őrség létrehozható és működtethető a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az idegenrendészeti hatóság, illetve a menekültügyi hatóság szervezetében (a továbbiakban: fegyveres biztonsági őrséget működtető szervezet) is olyan – az adott szerv tevékenységi körébe tartozó – objektum-, illetve személyőrzési vagy kísérési feladatok ellátására, amelyekhez az e törvényben, valamint a végrehajtására kiadott rendeletben meghatározott képesítési követelmények, intézkedési és kényszerítőeszköz-használati jogosultságok elegendők.
+(6) Fegyveres biztonsági őrség létrehozható és működtethető a Magyar Honvédség, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az idegenrendészeti hatóság, illetve a menekültügyi hatóság szervezetében (a továbbiakban: fegyveres biztonsági őrséget működtető szervezet) is olyan – az adott szerv tevékenységi körébe tartozó – objektum-, illetve személyőrzési vagy kísérési feladatok ellátására, amelyekhez az e törvényben, valamint a végrehajtására kiadott rendeletben meghatározott képesítési követelmények, intézkedési és kényszerítőeszköz-használati jogosultságok elegendők.
 
 1/A. § (1) Fegyveres biztonsági őrség létrehozására
 
@@ -180,7 +180,7 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 
 8. § (1) A fegyveres biztonsági őröket formaruhával és szolgálati jelvénnyel kell ellátni.
 
-(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a rendvédelmi szervek egyenruhájától, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományának egyenruhájától. E rendelkezés nem alkalmazható a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira.
+(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, valamint az Országgyűlés biztonságáról gondoskodó Országgyűlési Őrség egyenruhájától, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományának egyenruhájától. E rendelkezés nem alkalmazható a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira.
 
 (3) A fegyveres biztonsági őrt az őrség működési területén, szolgálati úton, szállítmánykísérés során szolgálati igazolványa és jelvénye igazolja. A formaruhán ,,fegyveres biztonsági őr'' felirat helyezhető el. A munkáltatói hovatartozás a ruházat karrészén jelezhető.
 
@@ -201,7 +201,7 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 
 (3) A fegyveres biztonsági őrség lőfegyvere és lőszere csak szolgálati és képzési tevékenységhez használható.
 
-9/A. § (1) A fegyveres biztonsági őr elektronikus megfigyelőrendszer működtetése (a továbbiakban: elektronikus megfigyelőrendszer) útján kép-, hang-, valamint kép- és hangfelvételt a fegyveres biztonsági őrzésből adódó kötelezettségei teljesítése, így a létesítmény telephelyének védelme, a radioaktív és veszélyes anyagok őrzése, a rendkívüli események megelőzése, következményeinek elhárítása, kivizsgálásának segítése, a jogsértések észlelése, az elkövető tettenérése, valamint a jogsértő cselekmények megelőzése céljából, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Info tv.) szerinti adatvédelmi jogok érvényesítése mellett készíthet, illetve kezelhet. E tevékenysége során a fegyveres biztonsági őr adatkezelőnek minősül.
+9/A. § (1) A fegyveres biztonsági őr elektronikus megfigyelőrendszer működtetése (a továbbiakban: elektronikus megfigyelőrendszer) útján kép-, hang-, valamint kép- és hangfelvételt a fegyveres biztonsági őrzésből adódó kötelezettségei teljesítése, így a létesítmény telephelyének védelme, a radioaktív és veszélyes anyagok őrzése, a rendkívüli események megelőzése, következményeinek elhárítása, kivizsgálásának segítése, a jogsértések észlelése, az elkövető tettenérése, valamint a jogsértő cselekmények megelőzése céljából, a személyes adatok védelmére vonatkozó jogok érvényesítése mellett készíthet, illetve kezelhet. E tevékenysége során a fegyveres biztonsági őr adatkezelőnek minősül.
 
 (2) A fegyveres biztonsági őr elektronikus megfigyelőrendszert a védett létesítmény területe és annak környezete megfigyelésére alkalmazhat.
 
@@ -227,7 +227,7 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 
 - a) a területre bevinni tilos tárgyakról, azok jellegéről;
 - b) arról a tényről, hogy az adott területen elektronikus megfigyelőrendszert alkalmaznak;
-- c) az elektronikus megfigyelőrendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá az Info tv.-nek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről; valamint
+- c) az elektronikus megfigyelőrendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezésekről; valamint
 - d) a fegyveres biztonsági őr intézkedései által okozott jogsérelem esetén igénybe vehető eljárásokról.
 
 (10) Nem alkalmazható a létesítményt figyelő elektronikus megfigyelőrendszer olyan helyen, ahol a megfigyelés az emberi méltóságot sértheti, így különösen öltözőben, orvosi rendelőben, mosdóban és fürdőben, illemhelyen.

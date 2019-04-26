@@ -1704,7 +1704,7 @@ kerülhet sor.
 
 90/E. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc felügyeletével kapcsolatos feladatainak ellátása érdekében az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint nyilvántartást vezet a hazai faanyag kereskedelmi lánc szereplőiről.
 
-(2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben
+(2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza
 
 - a) a kiadott regisztrációs számot, illetve technikai azonosító számot,
 - b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizonyítvány, határozat számát,

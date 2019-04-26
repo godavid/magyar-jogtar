@@ -235,7 +235,7 @@ gazdasági előny vagy haszonszerzés céljából.
 
 (2a) Amennyiben az élelmiszer eredete kétséget kizáró módon nem állapítható meg, a nyomon-követhetőségre vonatkozó előírások megsértése az emberi életet és egészséget veszélyeztető helyzetnek minősül.
 
-(3) Az állatgyógyászati készítmény forgalomba hozója az e törvény végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást köteles vezetni, amely az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben tartalmazza az állatgyógyászati készítmény beszállítójának és vevőjének nevét és címét.
+(3) Az állatgyógyászati készítmény forgalomba hozója az e törvény végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást köteles vezetni, amely tartalmazza az állatgyógyászati készítmény beszállítójának és vevőjének nevét és címét.
 
 ### A termelő, a földhasználó, a növényorvos és az engedélyköteles termék engedélye jogosultjának kötelezettségei
 
@@ -746,10 +746,9 @@ terheli.
 (2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza
 
 - a) a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számot,
-- b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizonyítvány, határozat számát, továbbá
-- c) az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben
-  - ca) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelet, egyéni vállalkozó természetes személy esetén a székhelyet és adószámot, őstermelő természetes személy esetén az adószámot is,
-  - cb) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adóazonosító számot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
+- b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizonyítvány, határozat számát,
+- c) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelét, egyéni vállalkozó természetes személy esetén a székhelyet és adószámot, őstermelő természetes személy esetén az adószámot is,
+- d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adóazonosító számot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
 (2a) Az (1) bekezdés 3.,12.,13.,14.,15.,17.,18. és 27. pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 

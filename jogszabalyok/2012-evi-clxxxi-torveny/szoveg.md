@@ -370,7 +370,7 @@ kiadható.
 
 (2) A NAIH bejelentésre vagy hivatalból ellenőrzi a SIS II-vel összefüggésben végzett adatkezelés és adattovábbítás jogszerűségét, kivizsgálja az adatkezelés és adattovábbítás jogszerűségét kifogásoló bejelentéseket, valamint az adatkezelő által a 26. § (1) bekezdése szerinti tájékoztatás megtagadása ellen hozzá intézett jogorvoslati kérelmet.
 
-(3) A (2) bekezdés szerinti jogorvoslati jog nem érinti az érintettnek az Info.tv. 22. §-a szerinti bírósági jogorvoslati jogát.
+(3) A (2) bekezdés szerinti jogorvoslati jog nem érinti az érintettnek az Info.tv. szerinti bírósági jogorvoslati jogát.
 
 (4) Valamennyi érintett köteles a NAIH ellenőrzései során a NAIH-hal együttműködni.
 

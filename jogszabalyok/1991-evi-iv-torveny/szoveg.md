@@ -595,7 +595,8 @@ időtartamával.
 - c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott munkaerőpiaci szolgáltatások nyújtására, az állami foglalkoztatási szerv által pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, az állami foglalkoztatási szerv által szervezett munkaerőpiaci információkat nyújtó állásbörze kiadásaira, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
 - d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. törvényben meghatározott támogatás, valamint annak folyósításával kapcsolatos postaköltség finanszírozására;
 - e) a képzési alaprészt, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben, valamint a felnőttképzésről szóló törvényben meghatározott feladatok, támogatási programok finanszírozására;
-- f)–g)
+- f)
+- g)
 - h)
 
 (4) Az egyes alaprészek terhére elszámolhatók a Nemzeti Foglalkoztatási Alap beszámolóját megalapozó informatikai szolgáltatás és könyvvizsgálati ellenőrzés díja arányosan, az alaprészből finanszírozott ellátások, támogatások igénybevételének hirdetésével, közzétételével és ellenőrzésével kapcsolatos kiadások, szakértői díjak, valamint az alaprészek pénzeszközei visszakövetelésével, behajtásával kapcsolatban felmerülő díjak és költségek, elszámolható továbbá az alaprészből finanszírozott ellátásokkal, támogatásokkal kapcsolatos nyilvántartás működtetéséhez szükséges informatikai fejlesztések költsége.
@@ -665,7 +666,9 @@ időtartamával.
 
 39/B. § (1) A Nemzeti Foglalkoztatási Alap egyes alaprészeinek pénzeszközei a miniszter döntése szerint egymás közt átcsoportosíthatók, feltéve, ha erre az eredeti előirányzatokon felül képződő többletbevételek fedezetet biztosítanak, vagy az egyes alaprészek tényleges kiadásainak az előirányzatoktól való elmaradása várhatóan fedezetet nyújt.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4)
 
@@ -848,7 +851,9 @@ jár el.
 
 #### 52. §
 
-53. § (1)–(2)
+53. § (1)
+
+(2)
 
 (3)
 
@@ -945,6 +950,8 @@ együttműködik.
 
 (19) A Kormány által az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv közvetlen hozzáférést biztosít az állami foglalkoztatási szerv részére a felsőoktatási információs rendszerben foglalt, az álláskereső azonosításához szükséges, valamint a hallgatói jogviszony típusával, keletkezésének és megszűnésének időpontjával kapcsolatos adatokhoz az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántartásból való törlés céljából.
 
+(20) A Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv közvetlen hozzáférést biztosít az állami foglalkoztatási szerv részére a köznevelési információs rendszerben foglalt, az álláskereső azonosításához szükséges, valamint a tanulói jogviszony keletkezésének és megszűnésének időpontjával kapcsolatos adatokhoz az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántartásból való törlés céljából.
+
 54/A. § (1) Az álláskeresési ellátást, vállalkozói járadékot, valamint foglalkoztatást elősegítő támogatást megállapító, illetve folyósító szerv az e törvényen, valamint a felhatalmazása alapján kiadott jogszabályon alapuló igényét öt év alatt érvényesítheti. Ha a követelésre alapot adó magatartás bűncselekmény, a követelés öt éven túl sem évül el mindaddig, amíg a büntethetőség el nem évül.
 
 (2) Az e törvény alapján esedékessé vált és fel nem vett ellátást az esedékességtől számított egy éven belül lehet felvenni.
@@ -991,31 +998,85 @@ köt a támogatásban részesülővel hatósági szerződést.
 
 (2) A rendbírság összege 5000 forinttól 500 000 forintig terjedhet. Az (1) bekezdés b) pontjában meghatározott esetben a rendbírságot munkavállalónként kell kiszabni.
 
-(3)–(4)
+(3)
+
+(4)
 
 #### 57. §
 
 ### Adatvédelmi rendelkezések
 
-57/A. § (1) A miniszter, az állami foglalkoztatási szerv és a munkaügyi hatóság az álláskeresési ellátással, a foglalkoztatást elősegítő támogatásokkal, a munkaerőpiaci szolgáltatásokkal, továbbá a külföldiek magyarországi foglalkoztatásával kapcsolatos tevékenysége, valamint hatósági ellenőrzése során, valamint a munkaügyi adatszolgáltatásra kötelezett munkaadó e tevékenységével összefüggésben a külön jogszabályban meghatározott TAJ-számot alkalmazhatja.
+57/A. § (1) Az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) a (2c) bekezdésben meghatározott célokból nyilvántartást vezet. A nyilvántartás tartalmazza:
 
-(2) Az (1) bekezdésben meghatározott szervek a jogszabályban meghatározott feladataik ellátásával összefüggésben a következő adatok nyilvántartására jogosultak:
+- a) a természetes személyazonosító adatokat, a társadalombiztosítási azonosító jelet (a továbbiakban: TAJ szám), valamint a bankszámlaszámot,
+- b) az állampolgárságot, a bevándorolt, a letelepedett, a menekült vagy az oltalmazott jogállást, a menekültügyi hatóságnál a menekültként, oltalmazottként történő elismerésre irányuló kérelem benyújtásának, vagy a harmadik országbeli állampolgár kijelölt helyen való tartózkodása elrendelésének tényét, külföldi állampolgár esetén a családi állapot megjelölését,
+- c) a lakcím (lakóhely, tartózkodási hely) és elérhetőség adatait,
+- d) a foglalkozást, a munkahelyet, a munkakört (tevékenység), a munkaviszonyt,
+- e) az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a munkaerő-piaci szolgáltatás megállapításához, igénybevételéhez és nyújtásához szükséges e törvényben és más törvényben meghatározott adatokat,
+- f) az iskolai végzettség, a szakképzettség megnevezését, az e képesítéseket igazoló oklevél, bizonyítvány számát, a kiállító intézmény nevét, a kiállítás keltét,
+- g) a jövedelemre vonatkozó adatokat,
+- h) a megváltozott munkaképességgel kapcsolatos adatokat,
+- i) a munkáltató adatait (név, cím, székhely, telephely, elektronikus kapcsolattartásra szolgáló elérhetősége, kapcsolattartó neve és elérhetősége, gazdálkodási forma, adószám, TB nyilvántartási szám, TAJ szám, KSH szám),
+- j) az arra vonatkozó adatokat, hogy az álláskereső korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e,
+- k) önkéntes nyilatkozat alapján a nemzetiséghez való tartozásra vonatkozó adatokat,
+- l) az állami foglalkoztatási szerv által végzett munkaközvetítői tevékenység végzéséhez, valamint a munkaerő-piaci szolgáltatások igénybevételéhez a munkavállalással kapcsolatos személyes és szakmai kompetenciákra, körülményekre és az állami foglalkoztatási szerv, valamint a munkáltató munkaerő-tervezésére vonatkozó adatokat,
+- m) a cselekvőképtelen vagy cselekvőképességében a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott személy törvényes képviselőjének természetes személyazonosító adatait, lakóhelyét és értesítési címét,
+- n) a munkaadó munkaerőigény bejelentésével kapcsolatban
+  - na) a munkaadó cégbíróságon bejegyzett teljes nevét,
+  - nb) a munkaadó székhelyének (telephelyének) nevét, címét,
+  - nc) a munkaadó adószámát, közösségi adószámát, adóazonosító jelét,
+  - nd) a munkaadó gazdálkodási formáját,
+  - ne) a munkaadó fő tevékenységének megnevezését,
+  - nf) a munkaadó átlagos statisztikai állományi létszámát,
+  - ng) a munkaadó vezetőjének nevét, beosztását,
+  - nh) a munkaadó képviselőjének nevét, címét, telefonszámát,
+  - ni) a munkaadó elektronikus kapcsolattartásra szolgáló elérhetőségét,
+  - nj) a munkakör megnevezését, a várható keresetet,
+  - nk) a munkakörre vonatkozó foglalkoztatási jogviszony megjelölését, a végzendő tevékenység megnevezését,
+  - nl) a munkakör betöltéséhez szükséges iskolai végzettséget,
+  - nm) az arra vonatkozó adatokat, hogy a bejelentett állásra kér-e a munkaadó közvetítést, továbbá az álláshely hirdethető-e. Ha a munkaadó a bejelentett állásra kér közvetítést és hirdethető az álláshely, a nyilvántartás tartalmazza a közvetítéssel betölteni kívánt létszámot, a közvetítés kezdetét és végét, a foglalkoztatás napi időtartamát (teljes munkaidő, részmunkaidő), a munkarendet, munkaidő-beosztást, napi munkakezdés időpontját, a munkakör betöltéséhez szükséges ismereteket, készségeket, a szükséges gyakorlati időt, a munka természetéből adódó speciális körülményeket, a munkakörhöz kapcsolódó juttatásokat,
+- o) az arra vonatkozó adatokat, hogy a munkaerőigény-bejelentéshez várhatóan kapcsolódik-e harmadik országbeli állampolgár foglalkoztatásának engedélyezésére irányuló kérelem vagy az EU Kék Kártya kibocsátására irányuló kérelem,
+- p) az arra vonatkozó adatokat, hogy várható-e a munkakör betöltéséhez kapcsolódóan munkaerő-kölcsönzés, kirendelés vagy kiküldetés,
+- q) az arra vonatkozó adatokat, hogy a munkáltató kívánja-e az állást külön törvényben meghatározott szabad mozgás és tartózkodás jogával rendelkező személy figyelmébe ajánlani.
 
-- a) természetes személyazonosító adatok,
-- b) állampolgárság, bevándorolt, letelepedett, menekült vagy oltalmazott jogállás, a menekültügyi hatóságnál a menekültként, oltalmazottként, vagy menedékesként történő elismerésre irányuló kérelem benyújtásának, vagy a harmadik országbeli állampolgár kijelölt helyen való tartózkodása elrendelésének ténye,
-- c) lakcím (lakóhely, tartózkodási hely) és értesítési cím,
-- d) foglalkozás, munkahely, munkakör (tevékenység),
-- e) az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a munkaerő-piaci szolgáltatás megállapításához és igénybevételéhez és nyújtásához szükséges e törvényben és más törvényben meghatározott adatok,
-- f) iskolai végzettség(ek), szakképzettség(ek),
-- g) jövedelemre vonatkozó adatok,
-- h) a megváltozott munkaképességgel kapcsolatos adatok,
-- i) munkáltató adatai (név, cím, székhely, telephely, gazdálkodási forma, adószám, TB nyilvántartási szám, TAJ szám, KSH szám),
-- j) az arra vonatkozó adatok, hogy az álláskereső korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e,
-- k) a nemzetiséghez való tartozásra vonatkozó adatok,
-- l) az állami foglalkoztatási szerv által végzett munkaközvetítői tevékenység végzéséhez, valamint a munkaerő-piaci szolgáltatások igénybevételéhez a munkavállalással kapcsolatos személyes és szakmai kompetenciákra, körülményekre és a munkáltató munkaerő-tervezésére vonatkozó adatok,
-- m) a cselekvőképtelen vagy cselekvőképességében a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott személy törvényes képviselőjének természetes személyazonosító adatait, lakóhelyét és értesítési címét.
+(2) A munkaügyi adatszolgáltatásra kötelezett munkaadó e tevékenységével összefüggésben a külön jogszabályban meghatározott TAJ számot alkalmazhatja.
 
 (2a) Az állami foglalkoztatási szerv által vezetett nyilvántartás az álláskeresők nyilvántartásba vételéhez, az álláskeresési ellátás megállapításához és igénybevételéhez szükséges, e törvényben meghatározott adatok tekintetében – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(2b) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a miniszter, valamint az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) részére a jogszabályban meghatározott feladataik ellátása céljából.
+
+(2c) A járási hivatal
+
+- a) a nyilvántartásba vétellel kapcsolatos feladatai ellátása során az (1) bekezdés a)–c), f) és m) pontjában meghatározott adatokat,
+- b) az álláskeresési ellátás, valamint a közfoglalkoztatottak részére nyújtandó utazási költségtérítés megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai végzése során az (1) bekezdés a)–e) és m) pontjában meghatározott adatokat,
+- c) a foglalkoztatást elősegítő támogatások, valamint a támogatások és munkaerő-piaci szolgáltatások keretében nyújtott juttatások megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai ellátása során az (1) bekezdés szerinti nyilvántartás adatait,
+- d) a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatai ellátása során az (1) bekezdés a), c), d), f), h), i) és l) pontjában meghatározott adatokat,
+- e) a munkaadó munkaerőigény bejelentésével kapcsolatos feladatai ellátása során az (1) bekezdés n) pontjában meghatározott adatokat
+
+kezeli.
+
+(2d) A kormányhivatal
+
+- a) a foglalkoztatást elősegítő támogatások, valamint a munkaerő-piaci szolgáltatásokkal kapcsolatos támogatások megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai ellátása során az (1) bekezdés szerinti nyilvántartás adatait,
+- b) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben a foglalkoztató által benyújtott munkaerőigények befogadása során az (1) bekezdés n) pontjában meghatározott adatokat,
+- c) a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatai ellátása során az (1) bekezdés a), c), d), f), h), i) és l) pontjában meghatározott adatokat,
+- d) a munkaerő-piaci ellenőrzése során a tényállás tisztázásához elengedhetetlenül szükséges személyes adatokat, így különösen az érintettek vonatkozásában a természetes személyazonosító adatokat, és a szakképzettségre vonatkozó adatokat,
+- e) a hatósági ellenőrzés keretében az (1) bekezdés szerinti nyilvántartás adatait
+
+kezeli.
+
+(2e) A miniszter
+
+- a) a foglalkoztatást elősegítő támogatások megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai ellátása során az (1) bekezdés szerinti nyilvántartás adatait,
+- b) az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes fejlesztési, foglalkoztatási, képzési és informatikai programok megvalósításának tervezése és szervezése, valamint ezen programok megvalósítása keretében történő támogatás folyósítása érdekében az (1) bekezdés szerinti nyilvántartás adatait
+
+kezeli.
+
+(2f) A csoportos létszámleépítéssel összefüggő feladatai ellátása során a jogszabály szerint nyilvántartásra jogosult állami foglalkoztatási szerv az Mt. 74. § (2) bekezdése alapján az alábbi adatokat kezeli:
+
+- a) az azonosító adatokat [munkavállaló neve, születési ideje, anyja neve, lakóhelye, TAJ száma, állampolgársága), felmondási idő kezdete és vége, bruttó átlagkeresete (Ft/hó), munkaviszony típusa]
+- b) a munkavállaló munkakörét, valamint
+- c) a munkavállaló szakképzettségét.
 
 (3) Az (2) bekezdés alapján nyilvántartásba vett adatokból
 
@@ -1027,7 +1088,7 @@ köt a támogatásban részesülővel hatósági szerződést.
 
 szerinti adatok igénylésére jogosult.
 
-(4) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény alapján rehabilitációs ellátásban részesülő személyek számára történő rehabilitációs szolgáltatások biztosítása céljából e személyeknek az (1) bekezdés alapján kezelt, a (2) bekezdés a–d) és f) pontjában meghatározott adatait közvetlen hozzáféréssel átveheti.
+(4) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény alapján rehabilitációs ellátásban részesülő személyek számára történő rehabilitációs szolgáltatások biztosítása céljából e személyeknek az (1) bekezdés alapján kezelt, az (1) bekezdés a–d) és f) pontjában meghatározott adatait közvetlen hozzáféréssel átveheti.
 
 (5) Az (1) bekezdésben megjelölt szervek más szerv és természetes személy részére adatot csak jogszabályban meghatározott módon szolgáltathatnak.
 
@@ -1035,37 +1096,33 @@ szerinti adatok igénylésére jogosult.
 
 (7) A kapcsolati kód tartalmát és képzési szabályait az állami foglalkoztatási szerv határozza meg. A kapcsolati kódot az adatkezelés céljának teljesülése után az állami foglalkoztatási szerv és az adatkérő nyilvántartásából törölni kell.
 
-(8) A (2) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon átadhatók.
+(8) Az (1) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon átadhatók.
 
-(8a) A (2) bekezdés szerinti adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(8a) Az (1) bekezdés szerinti adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (9) Az (1) bekezdésben meghatározott szervek kötelesek adatvédelmi szabályzatot kiadni.
 
 (10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, az (1) bekezdés szerinti szervek által e törvény szerint kezelt személyes és különleges adatokat.
 
-(11) Az állami foglalkoztatási szerv – a (2) bekezdés a)–c) pontja szerinti adatok és a TAJ megküldésével – hivatalból értesíti a nyugdíjfolyósító szervet, ha korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek állapít meg vagy szüntet meg álláskeresési járadékot.
+(11) Az állami foglalkoztatási szerv – az (1) bekezdés a)–c) pontja szerinti adatok és a TAJ megküldésével – hivatalból értesíti a nyugdíjfolyósító szervet, ha korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek állapít meg vagy szüntet meg álláskeresési járadékot.
 
 (11)
 
+(12) Ha az állami foglalkoztatási szerv a munkaerő-piaci szolgáltatást a 13/A. § (2) bekezdése szerinti nyilvántartásba vett munkaerő-piaci szolgáltatást nyújtó szervezeten keresztül nyújtja, akkor e szervezet e feladatának ellátásához szükséges (2c) bekezdés d) pontja szerinti adatokat kezeli.
+
 ### Foglalkoztatási és Közfoglalkoztatási Adatbázis
 
-57/B. § (1) Az állami foglalkoztatási szerv, a rehabilitációs hatóság az Szt. szerint foglalkoztatást helyettesítő támogatásra jogosult személyekről, a rehabilitációs ellátásban részesülő személyekről, valamint a közfoglalkoztatásban résztvevő személyekről a munkaerő-piaci helyzetük javítása, a közfoglalkoztatásban való részvételük biztosítása, a közfoglalkoztatás megszervezése, a közfoglalkoztatás feltételeinek biztosítása, a közfoglalkoztatásért felelős miniszter, az állami foglakoztatási szerv, a rehabilitációs hatóság, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) ezzel összefüggő feladatai eredményes ellátásának elősegítése, továbbá a szociális ellátásokra való jogosultságot megállapító törvényben meghatározott jogosultsági feltételek fennállásának ellenőrzése céljából elektronikus nyilvántartást vezet (a továbbiakban: adatbázis).
-
-(2) Az állami foglalkoztatási szerv az adatbázissal kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
-
-(3) Az adatbázis tartalmazza
+57/B. § (1) A járási hivatal a szociális igazgatásról és szociális ellátásokról szóló törvény (a továbbiakban: Szt.) szerint foglalkoztatást helyettesítő támogatásra jogosult személyekről, a rehabilitációs ellátásban részesülő személyekről, valamint a közfoglalkoztatásban részt vevő személyekről a munkaerő-piaci helyzetük javítása a közfoglalkoztatásban való részvételük biztosítása, a közfoglalkoztatás megszervezése, a közfoglalkoztatás feltételeinek biztosítása céljából elektronikus nyilvántartást (a továbbiakban: adatbázis) vezet. Az adatbázis tartalmazza:
 
 - 1. a foglalkoztatást helyettesítő támogatásra nem egészségkárosodottként jogosult személyek tekintetében
-  - a) az alábbi adatokat: aa) a jogosult természetes személyazonosító adatai, ab) a jogosult állampolgársága, illetve bevándorolt, letelepedett, menekült vagy oltalmazott státusza, ac) a jogosult belföldi lakó-, illetve tartózkodási helye, ad) az ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó adatok, ae) a jogosult társadalombiztosítási azonosító jele (taj-szám), af) a foglalkoztatást helyettesítő támogatásra jogosult személy iskolai végzettsége, szakképesítése,
-  - b) a munkaügyi hatóság által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8. § (4)–(5) bekezdése alapján az állami foglalkoztatási szervnek átadott, és az adatbázisban nyilvántartott személyekre vonatkozó adatokat,
-  - c) a munkaerőpiaci helyzetükkel összefüggő, következő adatokat: ca) munkaerőpiaci képzésben történő részvétel, cb) munkaerőpiaci programban történő részvétel, cc) bértámogatással létesített munkaviszony keretében történő foglalkoztatás, cd) közfoglalkoztatásban való részvétel, ce) munkaviszony – támogatás nélkül történő – létesítése, cf) állami foglalkoztatási szerv szolgáltatásainak igénybevétele, cg) egyszerűsített foglalkoztatásban történő részvétel,
-  - d) az álláskeresőként történő nyilvántartással összefüggő következő adatokat: da) a nyilvántartásba vétel időpontja, db) a nyilvántartásból történő törlés, illetve a nyilvántartás szünetelésének időpontja és indoka;
+  - a) a következő adatokat: aa) a jogosult természetes személyazonosító adatait, ab) a jogosult állampolgárságát, illetve bevándorolt, letelepedett, menekült vagy oltalmazott státuszát, ac) a jogosult belföldi lakó-, illetve tartózkodási helyét és elérhetőség adatait, ad) az álláskeresési ellátás megállapítására, megváltoztatására és megszüntetésére vonatkozó adatokat, ae) a jogosult TAJ számát, af) a foglalkoztatást helyettesítő támogatásra jogosult személy iskolai végzettségét, szakképesítését, ag) a foglalkoztatást elősegítő támogatás megállapítására, megváltoztatására és megszüntetésére vonatkozó adatokat,
+  - b) a munkaügyi hatóság által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8. § (4) és (5) bekezdése alapján az állami foglalkoztatási szervnek átadott, és az adatbázisban nyilvántartott személyekre vonatkozó adatokat,
+  - c) a jogosult munkaerő-piaci helyzete vonatkozásában ca) a munkaerő-piaci képzésben történő részvételt, cb) a munkaerő-piaci programban történő részvételt, cc) a bértámogatással létesített munkaviszony keretében történő foglalkoztatást, cd) a közfoglalkoztatásban való részvételt, ce) a munkaviszony – támogatás nélkül történő – létesítését, cf) az állami foglalkoztatási szerv szolgáltatásainak igénybevételét, cg) az egyszerűsített foglalkoztatásban történő részvételt,
+  - d) az álláskeresőként történő nyilvántartás vonatkozásában da) a nyilvántartásba vétel időpontját, db) a nyilvántartásból történő törlés, illetve a nyilvántartás szünetelésének időpontja és indokát;
 - 2. a közfoglalkoztatottak tekintetében
-  - a) a közfoglalkoztatottra vonatkozó adatok körében aa) az adatbázisba való felvétel időpontját, ab) a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, állampolgárságát (hontalan státuszát), bevándorolt, letelepedett vagy menekült, oltalmazott, menedékes, befogadotti, szabad mozgás és tartózkodás jogával rendelkező státuszát, valamint önkéntes adatszolgáltatás alapján telefonszámát, e-mail címét, ac) legmagasabb iskolai végzettségét, szakképzettségét, ad) foglalkozás-egészségügyi alkalmassága mértékét, és ez alapján esetleg kizárt munkakört, ae) eddig betöltött munkaköreit, af) az állami foglalkoztatási szervvel történő együttműködésére vonatkozó adatokat, ag) a (4) bekezdés alapján megállapított prioritási szintjét, ah) a rehabilitációs ellátásban részesülő személy által betölthető munkakörök leírását (FEOR kód),
-  - b) a közfoglalkoztatási jogviszonyra vonatkozó adatok körében ba) a közfoglalkoztatás jellegét, azaz hogy 1. tényleges közfoglalkoztatott-e
-- 2. képzésben vesz-e részt
-- 3. foglakoztatást helyettesítő támogatásban részesül-e,
-- 4. rehabilitációs ellátásban részesül-e. bb) a közfoglalkoztatási jogviszony időtartamát, bc) a napi munkaidő mértékét (4, 6 vagy 8 óra), bd) a közfoglalkoztatási bér összegét, be) a közfoglalkoztatási jogviszonyban betöltött munkakört, bf) a közfoglalkoztató megnevezését és adószámát; 3. a közfoglalkoztatásra vonatkozó adatok tekintetében
+  - a) a közfoglalkoztatottra vonatkozó adatok körében aa) az adatbázisba való felvétel időpontját, ab) a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, állampolgárságát (hontalan státuszát), bevándorolt, letelepedett vagy menekült, oltalmazott, befogadotti, szabad mozgás és tartózkodás jogával rendelkező státuszát, valamint önkéntes adatszolgáltatás alapján telefonszámát, e-mail címét, értesítési címét, ac) a legmagasabb iskolai végzettségét, szakképzettségét, ad) a foglalkozás-egészségügyi alkalmasságát, ae) az eddig betöltött munkaköreit, af) a (4) bekezdés alapján megállapított prioritási szintjét, ag) a rehabilitációs ellátásban részesülő személy által betölthető munkaköröket (FEOR kód),
+  - b) a közfoglalkoztatási jogviszonyra vonatkozó adatok körében ba) a közfoglalkoztatás jellegét, azaz hogy tényleges közfoglalkoztatott-e, képzésen vesz-e részt, foglalkoztatást helyettesítő támogatásban részesül-e, rehabilitációs ellátásban részesül-e, bb) a közfoglalkoztatási jogviszony időtartamát, bc) a napi munkaidő mértékét (4, 6 vagy 8 óra), bd) a közfoglalkoztatási bér összegét, be) a közfoglalkoztatási jogviszonyban betöltött munkakört, bf) a közfoglalkoztató megnevezését és adószámát;
+- 3. a közfoglalkoztatásra vonatkozó adatok tekintetében
   - a) a munkát felajánló, a munkát szervező és a közreműködő közfoglalkoztató nevét, cégjegyzékszámát, az adószám első nyolc jegyét (törzsszámát), elérhetőségét,
   - b) a munka jellegét, statisztikai kódját (FEOR kód), leírását,
   - c) a munkavégzés helyét,
@@ -1077,7 +1134,11 @@ szerinti adatok igénylésére jogosult.
   - i) a közreműködő szerv azonosítóját, megnevezését, elérhetőségét,
   - j) a kifizető szerv azonosítóját, megnevezését, elérhetőségét.
 
-(4) A (3) bekezdés 2. pont ag) alpontja szerinti prioritási szint körében vizsgálandó szempontok:
+(2) A járási hivatal az (1) bekezdés szerinti adatokat az ott meghatározott feladatai ellátása céljából kezeli.
+
+(3) Az állami foglalkoztatási szerv az adatbázissal kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+
+(4) Az (1) bekezdés 2. pont ag) alpontja szerinti prioritási szint körében vizsgálandó szempontok:
 
 - 1. Hátrányos helyzetű munkavállaló, aki
   - a) az előző 6 hónapban nem állt munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, vagy
@@ -1090,36 +1151,34 @@ szerinti adatok igénylésére jogosult.
 - 3. Fogyatékossággal élő munkavállaló, aki tartósan vagy véglegesen olyan érzékszervi, kommunikációs, fizikai, értelmi, pszichoszociális károsodással – valamint ezek bármilyen halmozódásával – él, amely a környezeti, társadalmi és egyéb jelentős akadályokkal kölcsönhatásban a hatékony és másokkal egyenlő társadalmi részvételt korlátozza vagy gátolja;
 - 4. Megváltozott munkaképességű személy.
 
-(5) A (3) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
+(5) Az (1) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
 
-(6) A (3) bekezdés 1. pont aa)–ae) alpontja szerinti adatokat az Szt. 18/B. § szerinti nyilvántartást vezető hatóság továbbítja az adatbázisba. A (3) bekezdés 3. pont g) alpontja szerinti adatokat a települési önkormányzat jegyzője rögzítheti.
+(6) Az (1) bekezdés 1. pont a) alpontja szerinti adatokat a szociális feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, valamint az (1) bekezdés 3. pont g) alpontja szerinti adatokat a települési önkormányzat jegyzője a közfoglalkoztatás szervezésével kapcsolatos feladatok eredményes ellátása céljából rögzíti.
 
 (7) A (4) bekezdés 1. pont d) és f) alpontjában és 3. pontjában szereplő adatok a közfoglalkoztatott, illetve korlátozottan cselekvőképes személy esetén törvényes képviselője írásbeli kérésére, önkéntes adatszolgáltatása alapján vehetők fel az adatbázisba.
 
-(8) Felhatalmazást kap a Kormány, hogy (3) bekezdés 3. pont g) alpontja szerint az adatbázisba felvételre kerülő adatok körét rendeletben állapítsa meg.
+(8) Felhatalmazást kap a Kormány, hogy (1) bekezdés 3. pont g) alpontja szerint az adatbázisba felvételre kerülő adatok körét rendeletben állapítsa meg.
 
-(9) Az adatbázis a menekültként, oltalmazottként vagy menedékesként történő elismerés iránti kérelmet benyújtó (a továbbiakban együtt: elismerést kérő) közfoglalkoztatott, valamint az idegenrendészeti hatóság döntése alapján kijelölt tartózkodási helyen élő harmadik országbeli állampolgár közfoglalkoztatott esetében a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, szálláshelyét, továbbá a (3) bekezdés 2. a) pont aa), ac) és ad) alpontjában, valamint a (3) bekezdés 2. b) pont bb)–bf) alpontjában meghatározott adatokat tartalmazza.
+(9) Az adatbázis a menekültként, oltalmazottként történő elismerés iránti kérelmet benyújtó (a továbbiakban együtt: elismerést kérő) közfoglalkoztatott, valamint az idegenrendészeti hatóság döntése alapján kijelölt tartózkodási helyen élő harmadik országbeli állampolgár közfoglalkoztatott esetében a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, szálláshelyét, továbbá az (1) bekezdés 2. a) pont aa), ac) és ad) alpontjában, valamint az (1) bekezdés 2. b) pont bb)–bf) alpontjában meghatározott adatokat tartalmazza.
 
 (10) Az elismerést kérő adatait az állami foglalkoztatási szerv a menekültügyi hatóság elismerésre irányuló kérelmet elutasító döntés jogerőre emelkedéséről szóló értesítése alapján az adatbázisból haladéktalanul törli, kivéve, ha az idegenrendészeti hatóság a harmadik országbeli állampolgár kijelölt helyen való tartózkodását rendelte el.
 
-57/C. § (1) Az állami foglalkoztatási szerv az 57/B. § (1) bekezdésében meghatározott célok teljesülése érdekében folyamatos elektronikus adatkapcsolat keretében biztosítja
+57/C. § (1) Az állami foglalkoztatási szerv folyamatos elektronikus adatkapcsolat keretében biztosítja
 
-- a) a települési önkormányzat jegyzője számára az 57/B. § (6) bekezdésében meghatározott adatrögzítéshez és a járási hivatal számára a (3) bekezdésben meghatározott adatbetekintéshez,
-- b) az Szt. 18/B. § szerinti nyilvántartást vezető hatóság számára az 57/B. § (6) bekezdésében meghatározott adattovábbításhoz,
-- c) a rehabilitációs hatóság számára a (3a) bekezdésben meghatározott adatátvételhez, és
-- d)
+- a) a települési önkormányzat jegyzője számára az 57/B. § (6) bekezdésében meghatározott adatrögzítéshez és a szociális feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala számára a (3) bekezdésben meghatározott adatbetekintéshez,
+- b) a rehabilitációs hatóság számára a (3a) bekezdésben meghatározott adatátvételhez
 
 szükséges hozzáférést.
 
-(2) A közfoglalkoztatásért felelős miniszter az adatkezelő tevékenysége feletti felügyelet gyakorlása és a közfoglalkoztatás szervezésével kapcsolatos feladatai eredményes ellátása érdekében az 57/B. § (3) bekezdésének 2–3. pontjaiban és a (9) bekezdésében meghatározott adatokba betekinthet.
+(2) A közfoglalkoztatásért felelős miniszter az adatkezelő tevékenysége feletti felügyelet gyakorlása és a közfoglalkoztatás szervezésével kapcsolatos feladatai eredményes ellátása érdekében az 57/B. § (1) bekezdésének 2–3. pontjaiban és a (9) bekezdésében meghatározott adatokba betekinthet.
 
-(3) A járási hivatal a szociális juttatásokra való jogosultság feltételeinek megállapításához szükséges ellenőrzési feladatai érdekében az adatbázisnak az 57/B. § (3) bekezdés 1. pont b), ca)–ce), cg) és d) alpontjában, valamint a 2. pont ab) és af) alpontjában szereplő adataiba tekinthet be.
+(3) A szociális feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala a szociális juttatásokra való jogosultság feltételeinek megállapításához szükséges ellenőrzési feladatai érdekében az adatbázisnak az 57/B. § (1) bekezdés 1. pont aa), b), ca)–ce), cg) és d) alpontjában szereplő adataiba tekinthet be.
 
-(3a) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak megállapítása, ellenőrzése és a rehabilitációs szolgáltatások nyújtása céljából az 57/B. § (3) bekezdés 1. pont a) pont aa) és ac)–af) alpontjában, 1. pont b) és c) pontjában, valamint 2. és 3. pontjában szereplő adatokat közvetlen hozzáféréssel átveheti.
+(3a) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak megállapítása, ellenőrzése és a rehabilitációs szolgáltatások nyújtása céljából az 57/B. § (1) bekezdés 1. pont a) pont aa) és ac)–af) alpontjában, 1. pont b) és c) pontjában, valamint 2. és 3. pontjában szereplő adatokat közvetlen hozzáféréssel átveheti.
 
 (4)
 
-(5) A közfoglalkoztatott bérének a központi költségvetés által finanszírozott része folyósítása feltételeinek ellenőrzése érdekében a Magyar Államkincstár az adatbázisnak az 57/B. § (3) bekezdés 2. pont ab), ba), bb), bd) és bf) alpontjában, továbbá a 3. pont a) alpontjában szereplő adataiba tekinthet be.
+(5) A közfoglalkoztatott bérének a központi költségvetés által finanszírozott része folyósítása feltételeinek ellenőrzése érdekében a Magyar Államkincstár az adatbázisnak az 57/B. § (1) bekezdés 2. pont ab), ba), bb), bd) és bf) alpontjában, továbbá a 3. pont a) alpontjában szereplő adataiba tekinthet be.
 
 (6) Az adatbázisban rögzített adatok személyazonosításra alkalmatlan módon statisztikai célra felhasználhatóak és statisztikai célú felhasználásra átadhatóak.
 
@@ -1127,47 +1186,59 @@ szükséges hozzáférést.
 
 ### Az Európai Szociális Alap által finanszírozott intézkedésekben résztvevő személyek adatbázisa
 
-57/D. § (1) Az állami foglalkoztatási szerv az Európai Szociális Alap által finanszírozott intézkedésekben résztvevőkről az egyéni szintű nyomonkövetés, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében elektronikus nyilvántartást vezet.
+57/D. § (1) A járási hivatal a (2a) bekezdésben meghatározott célok biztosítása érdekében elektronikus nyilvántartást (a továbbiakban: ESZA adatbázis) vezet a résztvevő adatairól. Az ESZA adatbázis tartalmazza:
 
-(2) Az adatbázis tartalmazza a résztvevők alábbi adatait, amelyet a kedvezményezettek szolgáltatnak:
-
-- a) természetes személyazonosító adatok,
-- b) állampolgárság, illetőleg bevándorolt, letelepedett vagy menekült státusza,
-- c) belföldi lakó-, illetve tartózkodási helye,
-- d) iskolai végzettsége, szakképesítése,
-- e) annak ténye, hogy 3 évnél fiatalabb kisgyermeket nevel-e saját háztartásában,
-- f) Társadalombiztosítási Azonosító Jele (TAJ szám),
-- g) intézkedésbe történő belépésekor a munkaerő-piaci, társadalmi helyzetével összefüggő következő adatokat:
-  - ga) intézkedésbe történő belépés dátuma,
-  - gb) munkaerő-piaci státusza,
-  - gc) annak ténye, hogy megváltozott munkaképességűnek minősül-e,
-  - gd) annak ténye, hogy a gc) ponton belül fogyatékossággal élőnek minősül-e,
-  - ge) a résztvevő önkéntes nyilatkozata alapján, nemzetiségének megjelölése,
-  - gf) annak ténye, hogy tartós munkanélkülinek minősül-e,
-  - gg) annak ténye, hogy egyéb, a támogatásnyújtásnál figyelembe vett szempontból hátrányos helyzetűnek minősül-e,
-  - gh)
-  - gi)
-  - gj)
-  - gk) annak ténye, hogy hajléktalan-e.
+- a) a természetes személyazonosító adatokat,
+- b) az állampolgárságot, valamint a bevándorolt, a letelepedett vagy a menekültstátuszt,
+- c) a belföldi lakó- vagy tartózkodási helyet,
+- d) az iskolai végzettséget, szakképesítést,
+- e) annak tényét, hogy 3 évnél fiatalabb kisgyermeket nevel-e saját háztartásában,
+- f) TAJ számot,
+- g) az intézkedésbe történő belépésekor a munkaerő-piaci, társadalmi helyzetével összefüggő következő adatokat:
+  - ga) az intézkedésbe történő belépés dátumát,
+  - gb) munkaerő-piaci státuszát,
+  - gc) annak tényét, hogy megváltozott munkaképességűnek minősül-e,
+  - gd) annak tényét, hogy a gc) alponton belül fogyatékossággal élőnek minősül-e,
+  - ge) a résztvevő nemzetiségének megjelölését,
+  - gf) annak tényét, hogy tartós munkanélkülinek minősül-e,
+  - gg) annak tényét, hogy egyéb, a támogatásnyújtásnál figyelembe vett szempontból hátrányos helyzetűnek minősül-e,
+  - gh) annak tényét, hogy hajléktalan-e.
 - h) az intézkedésből történő kilépésekor a munkaerő-piaci helyzetével összefüggő következő adatokat:
-  - ha) intézkedésből történő kilépés dátuma,
-  - hb) a résztvevő munkaerő-piaci státusza,
-  - hc) annak ténye, hogy álláskeresési tevékenységet folytat-e,
-  - hd) annak ténye, hogy oktatásban vagy szakképzésben részt vesz-e,
-  - he) annak ténye, hogy az intézkedés keretében képzettséget szerzett-e,
-  - hf) milyen szolgáltatásban, illetve támogatásban részesült a program keretében.
+  - ha) az intézkedésből történő kilépés dátuma,
+  - hb) a résztvevő munkaerő-piaci státuszát,
+  - hc) annak tényét, hogy álláskeresési tevékenységet folytat-e,
+  - hd) annak tényét, hogy oktatásban vagy szakképzésben részt vesz-e,
+  - he) annak tényét, hogy az intézkedés keretében képzettséget szerzett-e,
+  - hf) annak tényét, milyen szolgáltatásban, illetve támogatásban részesült a program keretében.
 
-(3) A (2) bekezdés alapján nyilvántartásba vett adatokba a foglalkoztatáspolitika koordinációjával, a foglalkoztatási és képzési célú programok kidolgozásával, a hazai és nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a miniszter, nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a gyermek- és ifjúságpolitikáért felelős miniszter, valamint az uniós támogatások felhasználásának ellenőrzését végző szerv tekinthet be.
+(2) Az ESZA adatbázis a (1) bekezdés g) pont gc)–ge), gg) és gh) pontjaiban meghatározott adatokat a kedvezményezett önkéntes nyilatkozata alapján, míg az ESZA adatbázis többi adatát a kedvezményezettnek az 1304/2013/EU rendeletében kötelezően előírt adatszolgáltatása alapján tartalmazza.
+
+(2a) A járási hivatal az Európai Szociális Alap által finanszírozott intézkedésekben résztvevőkről az uniós szintű eredmények monitoringja és értékelése, a közös indikátorok mentén történő tagállami jelentéstétel teljesíthetősége, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében kezeli az (1) bekezdésben meghatározott adatokat.
+
+(2b) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a kormányhivatal részére az adatok összesítése, a járási hivatal európai uniós támogatással megvalósuló tevékenységeinek koordinálása érdekében. A kormányhivatal az (1) bekezdés szerinti adatokat a feladatai ellátása során kezeli.
+
+(2c) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a miniszter részére az adatok összesítése, a közös indikátorok előállítása, a kormányhivatal európai uniós támogatással megvalósuló tevékenységeinek koordinálása érdekében. A miniszter az (1) bekezdés szerinti adatokat a feladatai ellátása során kezeli.
+
+(3) Az (1) bekezdés alapján nyilvántartásba vett adatokba
+
+- a) a foglalkoztatáspolitika koordinációjával, a foglalkoztatási és képzési célú programok kidolgozásával, a hazai és nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a miniszter,
+- b) a nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a gyermek- és ifjúságpolitikáért felelős miniszter, valamint az uniós támogatások felhasználásának ellenőrzését végző szerv
+
+tekinthet be.
+
+(3a) A miniszter az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes fejlesztési, foglalkoztatási, képzési és informatikai programok megvalósításának tervezése és szervezése, valamint ezen programok megvalósítása keretében történő támogatás folyósítása érdekében kezeli az (1) bekezdés szerinti nyilvántartás adatait.
 
 (4) Az adatbázisban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
 (4a) Az adatbázisban rögzített adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-(5) A (2) bekezdés szerinti adatok az Európai Szociális Alapnak a 2014–2020 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak lezárását követő öt évig kezelhetők.
+(5) Az (1) bekezdés szerinti adatok az Európai Szociális Alapnak a 2014–2020 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak lezárását követő öt évig kezelhetők.
 
-(6) Az (1) és (2) bekezdésben meghatározott adatbázissal kapcsolatos fejlesztéseket a miniszter kezdeményezheti.
+(6) Az (1) bekezdésben meghatározott adatbázissal kapcsolatos fejlesztéseket a miniszter kezdeményezheti.
 
-#### 57/E. §
+57/E. § (1) Az állami foglalkoztatási szerv az 57/A. § és 57/B. § szerinti nyilvántartásban szereplő adatokat a nyilvántartott haláláig vagy az öregségi nyugdíjra való jogosultsága elérését követő 15 évig kezeli.
+
+(2) Az 57/A. § (12) bekezdése szerinti szervezet a feladatai ellátásával összefüggésben az általa kezelt személyes adatokat a szerződésben foglalt teljesítést követő napon törli.
 
 ### Fogalommeghatározások és záró rendelkezések
 
@@ -1211,7 +1282,8 @@ szükséges hozzáférést.
 - v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
 - w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból, valamint az Európai Globalizációs Alkalmazkodási Alapból támogatásban részesül,
 - x) munkanélküli háztartás: az a háztartás, amelynek egyik tagja sem foglalkoztatott,
-- y) hozzátartozó: az egyeneságbeli rokon és annak házastársa, az örökbe fogadó, a mostoha- és a nevelőszülő, az örökbe fogadott, a mostoha- és a nevelt gyermek, a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa.
+- y) hozzátartozó: az egyeneságbeli rokon és annak házastársa, az örökbe fogadó, a mostoha- és a nevelőszülő, az örökbe fogadott, a mostoha- és a nevelt gyermek, a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa,
+- z) külföldi: az a természetes személy, aki nem magyar állampolgár.
 
 (6) A törvény alkalmazásában a
 
@@ -1315,7 +1387,9 @@ való megfelelést szolgálja.
 - b) a szociális biztonsági rendszerek koordinálásáról szóló 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról szóló, 2009. szeptember 16-i 987/2009/EK európai parlamenti és tanácsi rendelet;
 - c) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet;
 - d) a foglalkoztatási szolgálatok európai hálózatáról (EURES), a munkavállalók mobilitási szolgáltatásokhoz való hozzáféréséről és a munkaerőpiacok további integrációjáról, valamint a 492/2011/EU és az 1296/2013/EU rendeletek módosításáról szóló, 2016. április 13-i 2016/589/EU európai parlamenti és tanácsi rendelet;
-- e) az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról, az 1296/2013/EU, az 1301/2013/EU, az 1303/2013/EU, az 1304/2013/EU, az 1309/2013/EU, az 1316/2013/EU, a 223/2014/EU és a 283/2014/EU rendelet és az 541/2014/EU határozat módosításáról, valamint a 966/2012/EU, Euratom rendelet hatályon kívül helyezéséről szóló, 2018. július 18-i 2018/1046 európai parlamenti és tanácsi (EU, Euratom) rendelet
+- e) az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról, az 1296/2013/EU, az 1301/2013/EU, az 1303/2013/EU, az 1304/2013/EU, az 1309/2013/EU, az 1316/2013/EU, a 223/2014/EU és a 283/2014/EU rendelet és az 541/2014/EU határozat módosításáról, valamint a 966/2012/EU, Euratom rendelet hatályon kívül helyezéséről szóló, 2018. július 18-i 2018/1046 európai parlamenti és tanácsi (EU, Euratom) rendelet;
+- f) a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelete (általános adatvédelmi rendelet),
+- g) az Európai Szociális Alapról és az 1081/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i (EU) 1304/2013 európai parlamenti és tanácsi rendelete
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 

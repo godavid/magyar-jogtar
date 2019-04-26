@@ -410,15 +410,15 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - a) jogának vagy jogos érdekének érvényesítése érdekében,
 - b) tudományos kutatás céljából,
 - c) közvélemény-kutatás és piackutatás megkezdéséhez szükséges minta, valamint
-- d) közvetlen üzletszerzés (direkt marketing) célját szolgáló lista összeállításához.
+- d)
 
-(2) Az (1) bekezdés b)–d) pontja alapján adatigénylésre jogosultak az adatokat az alábbi kiválasztási szempontok szerint igényelhetik:
+(2) Az (1) bekezdés b) és c) pontja alapján adatigénylésre jogosultak az adatokat az alábbi kiválasztási szempontok szerint igényelhetik:
 
 - a) tudományos kutatás céljából a törvény 11. §-a (1) bekezdésének a)–e), g–h) és k) pontjaiban meghatározott adatok szerint,
 - b) közvélemény-kutatás és piackutatás céljából a 11. § (1) bekezdésének c)–d), h) és k) pontja szerint,
-- c) közvetlen üzletszerzés céljából a 11. § (1) bekezdésének c)–d), h) és k) pontja szerint.
+- c)
 
-(3) Az (1) bekezdés b)–d) pontja alapján történő adatigénylés esetén a kérelmezőnek az ott meghatározott tevékenység végzésére, illetőleg az adatigénylésre való jogosultságát is megfelelően igazolnia kell.
+(3) Az (1) bekezdés b) és c) pontja alapján történő adatigénylés esetén a kérelmezőnek az ott meghatározott tevékenység végzésére, illetőleg az adatigénylésre való jogosultságát is megfelelően igazolnia kell.
 
 (4) A kérelem teljesítését meg kell tagadni, ha
 
@@ -427,9 +427,9 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - c) a megjelölt cél a kérelmező jogát, illetve jogos érdekét nem érinti, vagy az adattal érintett polgár személyiségi jogát sérti;
 - d) az újszülött adatainak nyilvántartásba vételét követően kilencven nap még nem telt el.
 
-(5) Az adatletiltás tényéről tájékoztatni kell a tudományos kutatás, közvélemény-kutatás vagy piackutatás, illetőleg közvetlen üzletszerzés céljából a kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezeléséről szóló 1995. évi CXIX. törvény 4. §-ának (3) bekezdése alapján adategyeztetést kérő adatigénylőt.
+(5)
 
-(6) A nyilvántartás szerve — amennyiben név- és lakcímadatokat a letiltást megelőző hat hónapon belül az (1) bekezdés d) pontja alapján szolgáltatott — köteles az érintett közvetlen üzletszerző szervet az adatletiltásról haladéktalanul értesíteni.
+(6)
 
 19/A. § (1) A Kormány által meghatározott ügyekben az általános politikai koordinációért felelős miniszter
 
@@ -530,7 +530,7 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 
 (3) A családi állapot igazolására a nyilvántartás alapján kiállított hatósági bizonyítványon kívül más okirat nem követelhető meg.
 
-24/C. § A 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárról a magyar állampolgársága megszerzéséig a nyilvántartásból – saját nyilvántartott adatról való tájékoztatás kivételével – nem teljesíthető adatszolgáltatás.
+24/C. § A 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárról a magyar állampolgársága megszerzéséig a nyilvántartásból – az érintett személyes adataihoz való hozzáférési joga gyakorlásának célja kivételével – nem teljesíthető adatszolgáltatás.
 
 24/D. § A polgárnak a 11. § (1) bekezdés o) pontjában meghatározott adatairól adatszolgáltatás a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény rendelkezéseivel összhangban teljesíthető.
 
@@ -973,28 +973,27 @@ ad tájékoztatást.
 
 ### VI. Fejezet — Adatvédelem
 
-30. § (1) A jegyző, a járási hivatal, a fővárosi és megyei kormányhivatal, valamint a nyilvántartást kezelő szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
+30. § (1) A jegyző, a járási hivatal, a fővárosi és megyei kormányhivatal, valamint a nyilvántartást kezelő szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és belső adatvédelmi és adatbiztonsági szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
 
 (2) Az adatkezelés törvényességének ellenőrzésére
 
 - a) a nyilvántartást kezelő szervnél a szerv vezetője,
 - b) a fővárosi és megyei kormányhivatalnál a kormánymegbízott
 
-adatvédelmi felelőst nevez ki.
+adatvédelmi tisztviselőt nevez ki.
 
-31. § (1) A nyilvántartás szervei (6. §) kötelesek adatszolgáltatási nyilvántartást vezetni.
+31. § (1) A nyilvántartás szervei a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendeletben foglaltak szerinti adatkezelési tevékenységek nyilvántartása részeként adatszolgáltatási nyilvántartást vezetnek.
 
-(2) A nyilvántartás tartalmazza
+(2) Az adatszolgáltatási nyilvántartás adatkezelési műveletenkénti bontásban az alábbi adatokat tartalmazza:
 
-- a) az adatkezelő nyilvántartási azonosítóját;
-- b) az adatszolgáltatás idejét;
-- c) az adatszolgáltatás célját és jogalapját;
-- d) az adatszolgáltatást igénylő polgár, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, illetve megbízottja vagy képviselője nevét;
-- e) a szolgáltatott adatok körének megnevezését.
+- a) az adatszolgáltatás időpontját,
+- b) az adatszolgáltatás célját és jogalapját,
+- c) az adatszolgáltatást igénylő polgár, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, illetve megbízottja vagy képviselője nevét,
+- d) a szolgáltatott adatok körének megnevezését.
 
 (3) A polgár az adatszolgáltatási nyilvántartásból jogosult megismerni, hogy mely adatszolgáltatások alanya volt. Ezt a jogosultságot a 24. §-ban felsorolt szervek részére teljesített adatszolgáltatás tekintetében külön törvény korlátozhatja vagy kizárhatja.
 
-(3a) A nyilvántartást kezelő szerv a polgárt az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti megillető tájékoztatás esetén, ha az a 24/F. § (2) bekezdés alapján történő adattovábbításra vonatkozik, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvénynek a polgár tájékoztatására vonatkozó szabályai szerint jár el azzal, hogy a nyilvántartást kezelő szerv fogalma alatt e törvény szerinti nyilvántartást kezelő szerv szervet kell érteni.
+(3a) A nyilvántartást kezelő szerv a polgár személyes adataihoz való hozzáférési jogának gyakorlása esetén, ha az a 24/F. § (2) bekezdés alapján történő adattovábbításra vonatkozik, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvénynek a polgár tájékoztatására vonatkozó szabályai szerint jár el azzal, hogy a nyilvántartást kezelő szerv fogalma alatt e törvény szerinti nyilvántartást kezelő szerv szervet kell érteni.
 
 (4) Az adatszolgáltatási nyilvántartást öt évig meg kell őrizni.
 
@@ -1007,7 +1006,7 @@ adatvédelmi felelőst nevez ki.
 
 (7) A járási hivatal, valamint a kijelölt kormányhivatal az érintett köztisztviselő nevét, nyilvántartási kód számát és a (6) bekezdés b) pontjában meghatározott adatokat legkésőbb a jogosultság kezdő időpontját megelőző munkanapon közli a nyilvántartást kezelő szervvel.
 
-(8) A nyilvántartás adatait a hozzáférési jogosultság megszűnésétől számított 5 évig kell megőrizni.
+(8) Az (5) bekezdés szerinti nyilvántartás adatait a hozzáférési jogosultság megszűnésétől számított 5 évig kell megőrizni.
 
 32. § A nyilvántartás szerve külföldre rendszeres vagy csoportos adatszolgáltatást csak a miniszter engedélyével végezhet.
 
@@ -1019,7 +1018,7 @@ adatvédelmi felelőst nevez ki.
 
 ### VII. Fejezet — Egyéb rendelkezések
 
-34. § (1) Az érintett az elektronikus azonosítást követően elektronikus kapcsolattartás keretében is igényelhet tájékoztatást saját nyilvántartott adatairól és arról, hogy milyen adatszolgáltatások alanya volt, igényelheti továbbá a személyi azonosítóról és lakcímről szóló hatósági igazolvány kiadását, valamint a birtokából kikerült személyi azonosítóról és lakcímről szóló hatósági igazolványa pótlását. A polgár a személyi azonosítóról és lakcímről szóló hatósági igazolvány pótlását akkor igényelheti, ha adataiban nem következett be változás. A személyi azonosítóról és lakcímről szóló hatósági igazolványt pótlás esetén az okmányazonosító kivételével a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni azzal, hogy a hatósági igazolvány pótlás esetén a telefonszámot nem tartalmazza.
+34. § (1) Az érintett az elektronikus azonosítást követően elektronikus kapcsolattartás keretében is gyakorolhatja a személyes adataihoz való hozzáférési jogát és igényelheti tájékoztatását arról, hogy milyen adatszolgáltatások alanya volt, igényelheti továbbá a személyi azonosítóról és lakcímről szóló hatósági igazolvány kiadását, valamint a birtokából kikerült személyi azonosítóról és lakcímről szóló hatósági igazolványa pótlását. A polgár a személyi azonosítóról és lakcímről szóló hatósági igazolvány pótlását akkor igényelheti, ha adataiban nem következett be változás. A személyi azonosítóról és lakcímről szóló hatósági igazolványt pótlás esetén az okmányazonosító kivételével a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni azzal, hogy a hatósági igazolvány pótlás esetén a telefonszámot nem tartalmazza.
 
 (2) A 4. § (2a) bekezdés a) pontja szerinti magyar állampolgár külföldön élő magyar állampolgárként történő nyilvántartásba vételére irányuló kérelmét – elektronikus azonosítási szolgáltatás használata nélkül – elektronikus úton is bejelentheti.
 
@@ -1122,7 +1121,7 @@ adatvédelmi felelőst nevez ki.
 - a) a nyilvántartás üzemeltetésével és működésével, továbbá a személyazonosító igazolvány kiadásával és nyilvántartásával, valamint a lakcímnyilvántartással kapcsolatos technikai szabályokat;
 - b) a nyilvántartási eljárás során használandó iratmintákat;
 - c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetve értesítésért, a lakcímbejelentésről és az értesítési cím bejelentésről történő értesítésért, továbbá a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
-- d) az adatvédelmi felelős [30. § (2) bekezdés] feladatát és hatáskörét,
+- d)
 - e) a személyazonosítás célját szolgáló és a jogosultságot igazoló kitöltetlen biztonsági okmányok nyilvántartásának, azok kezelésének és tárolásának szabályait.
 
 (3)

@@ -719,9 +719,9 @@ kezeli.
 
 érdekében kezelhetik.
 
-(3) A hajózási hatóság harmadik állam vagy nemzetközi szervezet számára személyes adatot a (2) bekezdésben meghatározott célból az információs önrendelkezési jogról és az információszabadságról szóló törvény külföldre történő adattovábbítás szabályai alapján adhat át.
+(3)
 
-(4) A hajózási hatóság által kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(4)
 
 ### VIII. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY IDEIGLENES IGÉNYBEVÉTELE
 

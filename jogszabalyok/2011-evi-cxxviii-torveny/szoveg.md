@@ -267,7 +267,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 (7) A mentési igazolványt a hivatásos katasztrófavédelmi szerv a (8) bekezdés alapján vezetett nyilvántartás alapján állítja ki.
 
-(8) A hivatásos katasztrófavédelmi szerv a minősített önkéntes mentőszervezetek védekezésbe történő bevonásának elrendelése, az önkéntes mentőszervezet tagja nyilvántartási számmal történő azonosítása, a lezárt kárterületre történő belépési jogosultság ellenőrzése érdekében a minősített önkéntes mentőszervezetekről és azok tagjairól vezetett nyilvántartásban (a továbbiakban: nyilvántartás) kezeli a tag
+(8) A hivatásos katasztrófavédelmi szerv a minősített önkéntes mentőszervezetek védekezésbe történő bevonásának elrendelése, az önkéntes mentőszervezet tagja nyilvántartási számmal történő azonosítása, a lezárt kárterületre történő belépési jogosultság ellenőrzése, felkészítések és gyakorlatok megszervezése érdekében a minősített önkéntes mentőszervezetekről és azok tagjairól vezetett nyilvántartásban (a továbbiakban: nyilvántartás) kezeli a tag
 
 - a) természetes személyazonosító adatait,
 - b) arcfényképét,
@@ -277,7 +277,8 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - f) élet- és felelősségbiztosításának meglétére vonatkozó adatait, ha van, akkor biztosítási kötvényszámát,
 - g) oltásainak típusára, érvényességi idejére vonatkozó adatait,
 - h) nyelvtudására vonatkozó adatait,
-- i) útlevélszámát.
+- i) útlevélszámát,
+- j) vezetői engedélye kategóriáját.
 
 (9) A (8) bekezdés szerinti adatokban bekövetkezett változás esetén az adatokat a minősített önkéntes mentőszervezet tagja – a mentőszervezet vezetője útján – az adatváltozás időpontjától számított 15 napon belül szolgáltatja.
 
@@ -433,6 +434,8 @@ igazolja.
 (2) Az állomány tagja az intézkedés vagy kényszerítő eszköz alkalmazását követően két napon belül írásban jelentést készít az intézkedést foganatosító szerv vezetőjének, aki az intézkedés vagy kényszerítő eszköz alkalmazásának jogszerűségét kivizsgálja.
 
 (3) A (2) bekezdésben meghatározott írásbeli jelentés tartalmára az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szabályait kell alkalmazni.
+
+(3a) A hivatásos katasztrófavédelmi szerv kezeli azon személy lakcímét és a személyazonosság igazolására alkalmas hatósági igazolványának számát, akivel szemben az intézkedést vagy kényszerítő eszközt alkalmazták.
 
 (4) Akinek a kényszerítő eszköz alkalmazása alapvető jogát sértette, jogát vagy jogos érdekét érintette, panasszal fordulhat a kényszerítő eszközt alkalmazó hivatásos katasztrófavédelmi szerv vezetőjéhez.
 
@@ -992,19 +995,19 @@ Esküszöm, hogy minden erőmmel, törekvésemmel, tudásommal Magyarország jav
 
 71. § (1) A polgári védelmi szervezetbe történő beosztás, a polgári védelmi kötelezettség teljesítésével kapcsolatos feladatok végrehajtása céljából a polgármester és a hivatásos katasztrófavédelmi szerv a polgári védelmi kötelezettség alatt álló állampolgár
 
-- a) személyes adatait [családi és utónév, születési családi és utónév, nem, születési hely, idő (év, hónap, nap), anyja születési családi és utóneve, lakóhely vagy tartózkodási hely, munkahely, szervezeti beosztásra vonatkozó adatok],
+- a) személyes adatait [családi és utónév, születési családi és utónév, nem, születési hely, idő (év, hónap, nap), anyja születési családi és utóneve, lakóhely vagy tartózkodási hely, munkahely, szervezeti beosztásra vonatkozó adatok, telefonszám, elektronikus levélcím],
 - b) foglalkozására és a szakképzettségére vonatkozó adatait
 
 kezelheti.
 
-(2) A gazdasági és anyagi szolgáltatási kötelezettség teljesítése céljából a megyei, fővárosi védelmi bizottság elnöke, a polgármester, a hivatásos katasztrófavédelmi szerv a 67. § (3) bekezdésében meghatározott adatok kivételével egyéb, a gazdasági és anyagi szolgáltatásra kötelezett technikai eszközeiről azonosító és műszaki adatokat, illetve a szolgáltatásra kötelezett megnevezésére, székhelyének, telephelyének címére vonatkozó adatokat kezeli.
+(2) A gazdasági és anyagi szolgáltatási kötelezettség teljesítése céljából a megyei, fővárosi védelmi bizottság elnöke, a polgármester, a hivatásos katasztrófavédelmi szerv a 67. § (3) bekezdésében meghatározott adatok kivételével egyéb, a gazdasági és anyagi szolgáltatásra kötelezett technikai eszközeiről azonosító és műszaki adatokat, illetve a szolgáltatásra kötelezett megnevezésére, székhelyének, telephelyének címére vonatkozó adatokat kezeli, valamint annak vezetői és kapcsolattartói családi és utónevét, telefonszámát, elektronikus levélcímét, munkahelyére, szervezeti beosztására vonatkozó adatokat kezeli.
 
 (3) Az (1) és (2) bekezdésben meghatározott adatkezelő az adatokat a következő forrásból gyűjtheti:
 
 - a) a munkáltató, egyéni vállalkozó által teljesített adatszolgáltatás,
 - b) a hadkiegészítő parancsnokság nyilvántartása,
 - c) a személyi adat- és lakcímnyilvántartás,
-- d) a közúti közlekedési nyilvántartó szerv által vezetett járműnyilvántartás.
+- d) a központi közúti közlekedési nyilvántartó szerv által vezetett járműnyilvántartás.
 
 (4) A (3) bekezdésben meghatározott adatszolgáltató az adatszolgáltatást 15 napon belül térítésmentesen teljesíti.
 
@@ -1018,6 +1021,10 @@ kezelheti.
 - b) a foglalkozás,
 - c) a munkahely megnevezése, címe,
 - d) az 54. § (1) bekezdésében meghatározott mentességi ok és az 54. § (2) bekezdésében meghatározott egyéb ok.
+
+(7a) A katasztrófák elleni védekezési feladatok végrehajtása céljából a hivatásos katasztrófavédelmi szerv a megyei, fővárosi védelmi bizottságok tagjainak, a helyi védelmi bizottságok tagjainak, a polgármestereknek, a kormányzati koordinációs szervbe delegált szakértőknek, a közbiztonsági referenseknek, az eseménykezelésben érintett gazdálkodó szervezetek, intézmények vezetőinek, kapcsolattartóinak és szakértőinek családi és utónevét, telefonszámát, e-mail elérhetőségét, munkahelyére, szervezeti beosztására vonatkozó adatait kezeli.
+
+(7b) A (7a) bekezdésben meghatározott adatokat a hivatásos katasztrófavédelmi szerv az érintettől vagy annak munkáltatójától gyűjti.
 
 (8) A polgári védelmi feladatok tervezése és végrehajtása céljából a megyei, fővárosi védelmi bizottság elnöke és a hivatásos katasztrófavédelmi szerv a katasztrófák elleni védekezésben közreműködő szervtől, államigazgatási szervtől személyes adatnak nem minősülő adatokat kérhet.
 
@@ -1104,15 +1111,52 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 ### VII/A. Fejezet — A HATÓSÁGI ELJÁRÁSOKKAL KAPCSOLATOS ADATKEZELÉS
 
-79. § (1) A hivatásos katasztrófavédelmi szerv az iparbiztonsági, a veszélyes áruk szállításának ellenőrzésével kapcsolatos, továbbá a külön jogszabály alapján hatáskörébe utalt hatósági eljárások során és az eljárások végleges lezárását követően a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a jogerős döntésével összefüggő jogorvoslat, az ügykövetés, kapcsolattartás, valamint a döntés-felülvizsgálat céljából az alábbi személyes adatokat kezelheti:
+79. § (1) A hivatásos katasztrófavédelmi szerv az iparbiztonsági, a veszélyes áruk szállításának ellenőrzésével kapcsolatos, továbbá a külön jogszabály alapján hatáskörébe utalt hatósági eljárások során és az eljárások végleges lezárását követően a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a végleges döntésével összefüggő jogorvoslat, az ügykövetés, kapcsolattartás, valamint a döntés-felülvizsgálat céljából a bírságfizetés teljesítését követő 30. napig az alábbi személyes adatokat kezeli:
 
-- a) az ügyfél neve, lakcíme, elektronikus levélcíme, telefonszáma,
+- a) az ügyfél természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszámai,
 - b) az ügyfél adóazonosító jele vagy adószáma,
-- c) a nem természetes személy ügyfél természetes személy képviselőjének, meghatalmazottjának vagy kapcsolattartójának neve, lakcíme, elektronikus levélcíme, telefonszáma,
-- d) a természetes személy ügyfél természetes személy meghatalmazottjának neve, lakcíme, elektronikus levélcíme, telefonszáma, valamint
+- c) a nem természetes személy ügyfél
+  - ca) cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének időpontja, tevékenységi körei, székhelyének címe, elektronikus levélcíme, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. § (1) bekezdése szerinti hivatalos elérhetősége, telefonszáma,
+  - cb) természetes személy képviselőjének, meghatalmazottjának vagy kapcsolattartójának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
+- d) a természetes személy ügyfél természetes személy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma, valamint
 - e) az üggyel érintett ingatlan tulajdonosának természetes személyazonosító adatai.
 
 (2) Az (1) bekezdés alapján kezelt adat – ha törvény eltérően nem rendelkezik – más szerv vagy személy részére nem továbbítható.
+
+### VII/B. Fejezet — KÉPFELVÉTEL, HANGFELVÉTEL, KÉP- ÉS HANGFELVÉTEL KÉSZÍTÉSE
+
+79/A. § (1) A hivatásos katasztrófavédelmi szerv az ellátott szolgálati feladattal összefüggésben a hatósági ellenőrzéssel vagy beavatkozással érintett személyekről, tárgyakról, azok környezetéről, a beavatkozási eseményekről, a katasztrófavédelmi feladatellátás szempontjából lényeges körülményről képfelvételt, hangfelvételt, kép- és hangfelvételt (a továbbiakban együtt: felvétel) készíthet, valamint ilyen felvételt – szolgálati feladatainak ellátása érdekében, valamint oktatási célból – felhasználhat.
+
+(2) A hivatásos katasztrófavédelmi szerv
+
+- a) épületein a készenléti járművek akadálytalan kihajtása céljából,
+- b) objektumain és objektumaiban a szakfelszerelések és egyéb vagyontárgyak feladatellátáshoz szükséges rendelkezésre állásának biztosítása céljából,
+- c) a készenléti járműveken az azokon található szakfelszereléseknek az azonnali, akadálymentes feladatellátás céljából történő használata érdekében,
+- d) a készenléti járműveken a beavatkozás eseményeinek képi rögzítése és elemzése céljából
+
+bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el, felvételt készíthet és rögzíthet.
+
+(3) A hivatásos katasztrófavédelmi szerv a képfelvevők elhelyezésével összefüggő adatkezelési információkat, valamint az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezésekről történő tájékoztatást a képfelvevőt üzemeltető hivatásos katasztrófavédelmi szerv honlapján is közzéteszi.
+
+(4) A képfelvevő által megfigyelt területen a területre belépő személyek tájékoztatását elősegítő módon figyelemfelhívó jelzést, ismertetést kell elhelyezni a képfelvevők elhelyezéséről, az adatkezelés tényéről, valamint az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezésekről.
+
+(5) Az (1) bekezdésben és a (2) bekezdés a)–c) pontjában foglaltak szerint készített, személyes adatot tartalmazó felvétel, kizárólag bírósági, hatósági eljárásban, illetve az érintett személy jogainak gyakorlása érdekében használható fel.
+
+(6) Az (1) bekezdésben és a (2) bekezdés d) pontjában foglaltak alapján készített felvételek kizárólag anonimizált formában mutathatóak be oktatási célból vagy hozhatóak nyilvánosságra.
+
+(7) Az (1) és (2) bekezdés alapján készített felvétel egyedi ügyhöz kapcsolódó adatkérés alapján – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, közigazgatási hatósági, valamint nemzetbiztonsági feladatok ellátása céljából – nyomozó hatóság, szabálysértési hatóság, ügyészség, bíróság, nemzetbiztonsági szolgálat, terrorizmust elhárító szerv, közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság részére továbbítható. A felvétel a jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy részére is továbbítható, adatigénylési kérelem alapján.
+
+(8) A felvételt, ha arra az (5) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott célból nincs szükség, harminc napon belül törölni kell.
+
+(9) Ha a felvétel felhasználására hatósági eljárásban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
+
+(10) A hivatásos katasztrófavédelmi szerv a felvétel kezelése során köteles megtenni a szükséges szervezési, technikai és adatbiztonsági intézkedéseket, hogy megakadályozza az érintett személy személyes adatainak, különösen magántitkának és magánélete körülményeinek illetéktelen személy tudomására jutását.
+
+(11) Az, akinek jogát vagy jogos érdekét a felvétel rögzítése érinti, az (5) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb cél érdekében kérheti, hogy a felvételt annak kezelője a felvétel továbbításáig, de legfeljebb harminc napig ne törölje.
+
+(12) A (11) bekezdés szerinti kérelem benyújtására a felvétel rögzítésétől számított nyolc napon belül van lehetőség.
+
+(13) Bíróság vagy más hatóság megkeresésére, illetve a büntetőeljárás során a bíróság, az ügyészség és a nyomozó hatóság adatszolgáltatás kérésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (11) bekezdés szerinti kérelem benyújtásától számított harminc napon belül nem kerül sor megkeresésre, a rögzített felvételt törölni kell.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

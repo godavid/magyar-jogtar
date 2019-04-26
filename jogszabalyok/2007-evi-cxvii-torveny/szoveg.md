@@ -32,8 +32,8 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 
 2. § E törvény alkalmazásában
 
-- 1. adatfeldolgozás: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett adatfeldolgozási tevékenység;
-- 2. adatkezelés: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett adatkezelési tevékenység;
+- 1.
+- 2.
 - 3. állampapír: a magyar vagy külföldi állam, a Magyar Nemzeti Bank, az Európai Központi Bank vagy az Európai Unió más államának jegybankja által kibocsátott hitelviszonyt megtestesítő értékpapír;
 - 4. befektetési egységekhez kötött nyugdíjkonstrukció, illetve nyugdíjszolgáltatás (unit linked): olyan biometriai kockázatot tartalmazó, szolgáltatással meghatározott nyugdíjkonstrukció vagy olyan nyugdíjszolgáltatás, amelynél a foglalkoztatói nyugdíjszolgáltató intézmény a nyugdíjtechnikai tartalékot az általa létrehozott, önálló befektetési politikával rendelkező, elkülönítetten kezelt – azonos értékű, elméleti elszámolási részekből (befektetési egységekből) álló – eszközállományokba (eszközalapokba) vagy más, befektetési alapkezelésre jogosult társaság által kezelt befektetési alapokba helyezi befektetés céljából, a csatlakozott foglalkoztató vagy a tag választásától függően, a csatlakozásról szóló szerződésben előre meghatározott szabályok szerint;
 - 5. befizetéssel meghatározott nyugdíjkonstrukció: meghatározott mértékű és rendszerességű foglalkoztatói, vagy foglalkoztatói és tagi befizetések és azok befektetéséből származó hozam felhalmozása alapján számított összegű nyugdíjszolgáltatást tartalmazó nyugdíjkonstrukció;

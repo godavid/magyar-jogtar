@@ -422,7 +422,7 @@ az összeférhetetlenséget nem szünteti meg, ÁRMB-tagsága az a), illetve b) 
 
 is felhasználhatja.
 
-(4)
+(4) Az ÁRMB határozatának alapjául szolgáló, az érdekképviselet képviselőjének nevére és szakszervezeti hovatartozására vonatkozó személyes adatokat az ÁRMB határozatának véglegessé válását követően ötévente felülvizsgálja. Ha az ÁRMB öt éven belül valamely szervezet részvételi jogosultságát ismételten megállapító határozatot hozott, a korábbi határozat alapjául szolgáló személyes adatokat az új határozat véglegessé válását követő 30 nap elteltével kell törölni.
 
 (5) A kezelt adatok közül az (1) bekezdés d) pontjának dc) alpontjában, valamint e) pontjában meghatározott adatok nem nyilvánosak. Azokba csak az ÁRMB tagja, valamint az ÁRMB tevékenységét segítő, a 25. § (1) bekezdésének d) pontja szerinti feladatot ellátó munkatárs tekinthet be. Ezen túlmenően, az ÁPB oldalának tagjaira vonatkozó, e bekezdés szerinti adatokba betekinthetnek az oldal tagjai is. A betekintési joggal rendelkezők – e törvény eltérő rendelkezése hiányában – az e bekezdésben meghatározott adatokat harmadik személy részére nem adhatják át.
 

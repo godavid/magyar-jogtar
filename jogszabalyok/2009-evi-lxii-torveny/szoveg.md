@@ -771,7 +771,7 @@ késedelem nélkül megkapja.
 
 (5) Ha a káreseményben részes gépjármű a káresemény időpontjában érvényes biztosítási fedezettel nem rendelkezett, az Információs Központ ezt a körülményt és a Kártalanítási Számla kezelőjének adatait a megkeresővel közli.
 
-(6) Az e törvényben szabályozott adatigénylések teljesítése során az Információs Központ jogosult személyes adatot továbbítani a tagállamok, illetve egyéb olyan államok területére, amelyek a magyar jog szabályainak megfelelő szintű védelmet biztosító adatvédelmi szabályozással rendelkeznek.
+(6) Az e törvényben szabályozott adatigénylések teljesítése során az Információs Központ jogszabályoknak és az Európai Unió közvetlenül alkalmazandó jogi aktusainak megfelelően jogosult személyes adatot harmadik országba továbbítani.
 
 (7) Az Információs Központ a biztosítók kárrendezési megbízottainak adatait, illetve az azokban bekövetkezett változásokat haladéktalanul köteles közölni a többi tagállam információs központjaival, illetve erre irányuló együttműködési szerződés esetén harmadik ország információs központjával. Az adatok helytállóságáért a kárrendezési megbízottat jelölő biztosító a felelős. A kárrendezési megbízottak jegyzékét az interneten a MABISZ honlapján keresztül is elérhetővé kell tenni.
 

@@ -772,7 +772,7 @@ szerzi be.
 
 (4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a közvetlen elektronikus adatkapcsolat útján az együttműködő szerv adatkezelési rendszerében található adatot nem változtathatja meg, az adatkezelési rendszerben adatot nem helyezhet el.
 
-(5) Az 52/B. §-ban meghatározott adatszolgáltatás tényét mind az együttműködő szervnél, mind a Terrorelhárítási Információs és Bűnügyi Elemző Központnál az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott adattovábbítási nyilvántartásban kell rögzíteni.
+(5) Az 52/B. §-ban meghatározott adatszolgáltatás tényét mind az együttműködő szervnél, mind a Terrorelhárítási Információs és Bűnügyi Elemző Központnál az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint kell rögzíteni.
 
 (6) Amennyiben a minősített adat az Észak-atlanti Szerződés Szervezete, valamint az Európai Unió Tanácsa, az Európai Bizottság, az Európai Atomenergia Közösség, a Bűnüldözési Együttműködés Európai Uniós Ügynöksége, az Európai Igazságügyi Együttműködési Egység valamely szervétől vagy külföldi titkosszolgálatoktól származik, az adat átadásáról az együttműködő szerv vezetője dönt.
 
@@ -1469,7 +1469,11 @@ iránt intézkedik.
 
 81. § E törvény 40. és 41. §-ának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-82–84. §
+82. §
+
+83. §
+
+84. §
 
 85. §
 

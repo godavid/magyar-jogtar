@@ -415,8 +415,8 @@ alapul.
 
 21. § Az üzemeltetési szerződés megszűnése esetében a víziközmű-szolgáltató az ellátásért felelős részére átadja az érintett felhasználókra, felhasználási helyekre és víziközművekre vonatkozóan:
 
-- a) a felhasználók nevét és címét,
-- b) az egyes felhasználókhoz tartozó felhasználási helyek címét,
+- a) a felhasználók és a víziközmű-szolgáltatásba bekapcsolt ingatlanok 61. §-ban meghatározott adatait,
+- b)
 - c) a felhasználási helyekre vonatkozó, a fogyasztás megállapításához szükséges adatokat öt évre visszamenőleg,
 - d) a víziközmű térképi nyilvántartás adatállományát,
 - e) a további víziközmű-működtetés tekintetében szükséges műszaki dokumentumokat, adatokat, ideértve az 55. § szerinti bekötési kötelezettséggel érintett ingatlan azonosításához szükséges helyrajzi számot és címet.
@@ -826,7 +826,7 @@ alapul.
 
 (4) A víziközmű-szolgáltató a mintaprojektet a Hivatal felügyeletével folytatja. A víziközmű-szolgáltató a mintaprojekt megkezdése előtt a Hivatalt a mintaprojekt leírásának bemutatásával, a mintaprojekt lezárást követően a mintaprojekt eredményeit és az azok alapján tett megállapításokat tartalmazó dokumentum átadásával tájékoztatja.
 
-(5) A víziközmű-szolgáltató és a projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenységük során jogosult a felhasználó személyes adatainak kezelésére. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben a víziközmű-szolgáltató jogai és kötelezettségei illetik meg azzal, hogy a tevékenységét nem szervezheti ki.
+(5) A projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenysége során – a mintaprojekt zárását követő 3 évig – a mintaprojekt lebonyolítása céljából – a felhasználó személyes adatait kezeli. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben a víziközmű-szolgáltató jogai és kötelezettségei illetik meg azzal, hogy a tevékenységét nem szervezheti ki.
 
 (6) A víziközmű-szolgáltató a központi mintaprojekt gazdasági értékeléséhez és költség-haszon elemzéséhez köteles a 60. §-ban foglaltak szerint a Hivatal részére adatot szolgáltatni.
 
@@ -1031,62 +1031,32 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (4) A Hivatal az e törvényben rögzített feladatai ellátása során figyelembe veszi és felhasználja az IKVA Adatbázis adatait.
 
-61. § (1) A víziközmű-szolgáltató és az ellátásért felelős
+61. § (1) Az ellátásért felelős az e törvényben meghatározott együttműködési és adatszolgáltatási kötelezettségek teljesítése céljából – az adatkezelési cél fennállása időtartama alatt – kezeli a felhasználó azonosításához szükséges adatot, továbbá az 55. § végrehajtása érdekében a víziközmű-szolgáltatásba bekapcsolt ingatlan azonosításához szükséges helyrajzi számot és címet. A felhasználó azonosításához a természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma) szükséges.
 
-- a) az e törvényben meghatározott tevékenységének végzése,
-- b) az a) pontban meghatározottak végzéséhez szükséges műszaki berendezések létesítésére, üzemeltetésére vonatkozó szerződés megkötése, tartalmának meghatározása, módosítása, teljesítésének figyelemmel kísérése,
-- c) szerződésben meghatározott díjak számlázása, továbbá szerződésből eredő egyéb követelések érvényesítése, valamint
-- d) együttműködési és adatszolgáltatási kötelezettségek teljesítése céljából kezelheti a felhasználó azonosításához szükséges és elégséges, e törvény szerint a szerződés tartalmát képező személyes adatot, továbbá az 55. § végrehajtása érdekében az ingatlan azonosításához szükséges helyrajzi számot és címet. A felhasználó azonosításához a természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma) szükséges.
+(2) Az ellátásért felelős az érintett felhasználók átvétele, a víziközmű-szolgáltatás folyamatos biztosításához szükséges teendőkre való felkészülés céljából az (1) bekezdésben meghatározott, a felhasználó azonosításához szükséges adatot a 15. § (2) bekezdés szerinti üzemeltetési jogviszony létrejöttével egyidejűleg továbbítja a víziközmű-szolgáltató részére, amely adatot a víziközmű-szolgáltató az ellátási terület birtokba vételéig kezeli.
 
-(2) Az (1) bekezdés alkalmazásában a felhasználó azonosításához szükséges és elégséges adatok a természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma). A víziközmű-szolgáltató és az ellátásért felelős (e fejezet alkalmazásában a továbbiakban együtt: adatkezelő) a kezelt személyes adatot haladéktalanul törli, ha
+(3) A közérdekű üzemeltető a közérdekű üzemeltetőt kijelölő határozat kézhezvételének napjától a Hivatal kijelölő határozatában meghatározott birtokba lépése időpontjáig az érintett felhasználók átvétele, a víziközmű-szolgáltatás folyamatos biztosításához szükséges teendőkre való felkészülés céljából kezeli a felhasználó azonosításához szükséges, az (1) bekezdésben meghatározott személyes adatot.
 
-- a) az adatkezelés nem az (1) bekezdésben meghatározott célból történt, vagy
-- b) az (1) bekezdésben meghatározott adatkezelési cél megszűnt, így különösen a víziközmű-szolgáltatás keretében létrejött jogviszony megszűnik, az ahhoz kapcsolódó követelés érvényesítése megtörtént, vagy a követelés érvényesíthetősége megszűnt.
+61/A. § (1) A víziközmű-szolgáltató a védendő felhasználókat megillető kedvezmények biztosítása céljából kezeli az 58/A. § (1) bekezdés szerinti kedvezményre való jogosultság fennállását igazoló személyes adatokat és a személyes adatok különleges kategóriájába tartozó adatokat.
 
-(3) A (2) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok átadhatóak
-
-- a) az adatkezelő megbízása alapján a szerződés megkötését, a leolvasást, a számlázást, a kézbesítést, a díjfizetések és követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki kivitelezését, felülvizsgálatát, ellenőrzését, kikapcsolását, illetőleg az ügyfélszolgálati tevékenységet végző természetes személynek és gazdálkodó szervezetnek,
-- b) a számlázási és forgalmazási jogviták rendezésére jogszabály alapján jogosult szervezetek részére,
-- c) az üzemeltetési szerződés megszűnését követően az ellátásért felelősnek,
-- d) az üzemeltetési szerződés megkötését követően a víziközmű-szolgáltatónak,
-- e) a Hivatal által a 32. §-ban foglaltak esetében a közérdekű üzemeltetőnek,
-- f) a Hivatalnak,
-- g) a fogyasztóvédelmi hatóságnak,
-- h) a járási hivatalnak,
-- i) a bírósági végrehajtásról szóló törvény előírásai szerint a bírósági végrehajtónak,
-- j) a nemzetbiztonság, a honvédelem és a közbiztonság védelme céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, valamint büntetőeljárás lefolytatása céljából a bíróságnak, az ügyészségnek és a nyomozó hatóságnak.
-
-(3a) Az 55. § alkalmazása érdekében az ingatlan helyrajzi száma és címe átadható a járási hivatalnak.
-
-(4) Az átadott adatokkal kapcsolatban a (3) bekezdés a)–g) pontjában meghatározott adatokat átvevőket a víziközmű-szolgáltatóval, ellátásért felelőssel azonos titoktartási kötelezettség terheli. Az adatkezelő köteles a (3) bekezdés a)–h) pontja esetén az adatátadással egyidejűleg az érintettet értesíteni.
-
-61/A. § (1) A víziközmű-szolgáltató a védendő felhasználókat megillető kedvezmények biztosítása érdekében, az egyes felhasználási helyeken víziközmű-szolgáltatási szerződéssel rendelkező védendő felhasználókról nyilvántartást vezet, amelyből egyértelműen megállapítható, hogy a felhasználó a kedvezmények melyik körére jogosult.
-
-(2) A nyilvántartásba történő felvételt a felhasználónak kell kérnie. A kérelemben meg kell jelölnie, hogy az e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározott különleges bánásmód vagy kedvezmények közül melyek illetik meg, és azokból melyikre tart igényt. A kérelemhez csatolnia kell a védendő felhasználói körbe tartozás igazolására szolgáló – a (4) bekezdésben, valamint az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott – iratokat.
+(2) A védendő felhasználók nyilvántartásába történő felvételt a felhasználónak kell kérnie. A kérelemben meg kell jelölnie, hogy az e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározott különleges bánásmód vagy kedvezmények közül melyek illetik meg, és azokból melyikre tart igényt. A kérelemhez csatolnia kell a védendő felhasználói körbe tartozás igazolására szolgáló – a (4) bekezdésben, valamint az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott – iratokat.
 
 (3) A víziközmű-szolgáltató a nyilvántartásba vételről a védendő felhasználót 8 napon belül írásban tájékoztatja. A tájékoztatás tartalmazza, hogy
 
-- a) a védendő felhasználóról a víziközmű-szolgáltató mely különleges bánásmód vagy kedvezmény vonatkozásában rögzített adatot a nyilvántartásba,
-- b) a nyilvántartás szerint a védendő felhasználó milyen kedvezményeket vehet igénybe,
-- c) az adatváltozás bejelentésére mely időpontokban és hol biztosít lehetőséget a víziközmű-szolgáltató, valamint
-- d) a védendő felhasználónak a (7) bekezdésben meghatározott feladatait milyen módon és formában kell teljesítenie.
+- a) a nyilvántartás szerint a védendő felhasználó milyen kedvezményeket vehet igénybe,
+- b) az adatváltozás bejelentésére mely időpontokban és módon biztosít lehetőséget a víziközmű-szolgáltató, valamint
+- c) a védendő felhasználónak a (6) bekezdésben meghatározott feladatait milyen módon és formában kell teljesítenie.
 
 (4) A védendő felhasználói körbe tartozás igazolására a felhasználó kérelmére igazolja
 
 - a) a jegyző, hogy a felhasználó életvitelszerűen tartózkodik a kérelemben megjelölt felhasználási helyen,
-- b) a védendő felhasználói státuszra jogosító ellátást megállapító szerv, hogy a kérelem benyújtásakor a védendő felhasználó részesül az adott ellátásban.
+- b) a védendő felhasználói státuszra jogosító ellátást megállapító szerv, hogy a kérelem benyújtásakor a védendő felhasználó részesül az adott ellátásban, illetve, hogy a védendő felhasználói jogosultságot a felhasználó egészségi állapota alapozza meg.
 
 (5) A jegyző és az ellátást megállapító szerv a (4) bekezdés szerinti igazoláson köteles feltüntetni, hogy az igazolás mely felhasználási hely tekintetében történő felhasználásra került kiadásra. Ugyanazon felhasználónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás.
 
-(6) A személyes adatok kezelésére a 61. §-ban foglaltakat az alábbi eltérésekkel kell alkalmazni:
+(6) A védendő felhasználók nyilvántartásba történő felvételt követően a védendő felhasználó minden év március 31-ig az e törvény végrehajtására kiadott kormányrendeletben előírtak szerint köteles igazolni, hogy védettsége továbbra is fennáll. Határozott időre megállapított védettség esetén a védendő felhasználó a védettségre megállapított határozott időszak alatti években, továbbá a védettség lejáratának évében mentesül a március 31-ei igazolási kötelezettség alól. Az a fogyatékkal élő felhasználó, aki esetében szakorvosi vélemény kimondja, hogy állapotában nem várható jelentős javulás, mentesül a védendő felhasználói körbe tartozás évenkénti igazolása alól.
 
-- a) a nyilvántartásban a felhasználó 61. § (2) bekezdésében meghatározott személyes adataihoz kapcsoltan kizárólag a szociálisan rászoruló vagy a fogyatékkal élő státuszra, esetleg mindkettő együttes fennállására történő utalás, a különleges bánásmód esetén annak formája, valamint a felhasználó által igénybe vehető kedvezmények szerepelhetnek,
-- b) az a) pontban meghatározott adatok a 61. § (3) bekezdés a)–g) pontjában meghatározott szervek részére kizárólag abban az esetben adhatók át, ha a felhasználó, illetve a víziközmű-szolgáltató védendő felhasználói státusszal közvetlenül összefüggő jogának vagy igényének további érvényesítése végett feltétlenül szükséges,
-- c) a nyilvántartásba a 61. § (3) bekezdés i) pontjában meghatározott szerv, valamint személyes adatai vonatkozásában a védendő felhasználó jogosult betekinteni.
-
-(7) A nyilvántartásba történő felvételt követően a védendő felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. A határozott időre megállapított védettség esetén a védendő felhasználó a védettségre megállapított határozott időszak alatti években, illetve a védettség lejáratának évében mentesül a március 31-ei igazolási kötelezettség alól, a védettség lejáratának évében csak az e törvény végrehajtására kiadott kormányrendeletben előírtak szerint kell igazolnia a víziközmű-szolgáltató felé a védettsége fennállását. Az a fogyatékkal élő felhasználó, akinek a nyilvántartásba történő felvétele során a szakorvosi vélemény kimondja, hogy állapotában nem várható jelentős javulás, mentesül a védendő felhasználói körbe tartozás évenkénti igazolása alól.
-
-(8) Ha a védettségét megalapozó körülmények megváltozása folytán a lakossági felhasználó már nem jogosult kedvezményre, vagy annak évenkénti igazolását elmulasztja, az (1) bekezdés szerinti célból rögzített adatait a nyilvántartásból törölni kell. A nyilvántartásból törölt adatokat a víziközmű-szolgáltató elkülönítetten kezeli és azokat – ha a 61. § (2) bekezdése szerint a felhasználó valamennyi adatának törlésére hamarabb nem kerül sor – a törléstől számítottan 5 évig tárolja. A nyilvántartásból törölt felhasználót a törlésről 8 napon belül írásban értesíti az adatkezelő.
+(7) Ha a védettségét megalapozó körülmények megváltozása miatt a lakossági felhasználó már nem jogosult kedvezményre, vagy annak évenkénti igazolását elmulasztja, az 58/A. § (1) bekezdése szerinti kedvezményre való jogosultság megszűnik. Az (1) bekezdés szerinti célból kezelt adatot a víziközmű-szolgáltató a jogosultság megszűnését követően további 5 évig kezeli.
 
 61/B. § (1) A víziközmű-szolgáltatással kapcsolatos kiemelt jelentőségű adatok teljessége, a víziközmű-vagyon védelme, valamint a víziközmű-szolgáltatással kapcsolatos állami feladatok megalapozottsága érdekében a Hivatal Nemzeti Víziközmű Nyilvántartást (a továbbiakban: Nyilvántartás) vezet.
 

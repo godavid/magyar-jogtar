@@ -229,9 +229,9 @@ biztonsági feltételeket.
 
 (3) A megismerési engedély megtagadása esetén az érintett a határozatot közigazgatási perben megtámadhatja. Ha a bíróság a kérelemnek helyt ad, a minősítőt a megismerési engedély kiadására kötelezi. A bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését elvégezték. A felperes, a felperes oldalán érdekeltként részt vevő személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben részt vevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzésüket elvégezték.
 
-12. § (1) A minősített adat kezelője az információs önrendelkezési jogról és az információszabadságról szóló törvény alapján az érintettet megillető tájékoztatást megtagadhatja, ha a minősítés alapjául szolgáló közérdeket az érintettnek a személyes adatainak kezelésére vonatkozó tájékoztatása veszélyeztetné.
+12. § (1) A minősített adat kezelője az érintett személyes adataihoz való hozzáférési jogának biztosítását megtagadhatja, ha a minősítés alapjául szolgáló közérdeket e jog gyakorlása veszélyeztetné.
 
-(2) Az érintett jogaival kapcsolatban egyebekben az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy bíróság előtti jogérvényesítés során az eljáró bíróságra és a minősített adatok megismerésére a 11. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(2) Az érintett jogainak bíróság előtti érvényesítése során az eljáró bíróságra és a minősített adatok megismerésére a 11. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 ### Minősített adat felhasználása
 

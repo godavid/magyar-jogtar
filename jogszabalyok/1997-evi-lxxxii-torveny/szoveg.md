@@ -60,8 +60,8 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 - zs) értékelési különbözet céltartaléka: a magánnyugdíjpénztárak befektetési és gazdálkodási tevékenységéről szóló jogszabályban felsorolt eszközcsoportokba tartozó eszközök esetében az üzleti év mérleg fordulónapjára, illetve a negyedév utolsó napjára vonatkozóan meghatározott felhalmozott kamatot is tartalmazó piaci értéke és könyv szerinti értéke közötti különbözet összegében képzett céltartalék. Az értékelési különbözet az adott eszközcsoportokon belül elkülönítetten, a források között a működési, a fedezeti (választható befektetési portfóliót biztosító rendszert működtető pénztárak esetén választható befektetési portfóliónként), illetve a likviditási céltartalékon belül értékelési különbözetből képzett céltartalékként jelenik meg;
   - zsa) kihelyezés: a pénztár feladatkörébe tartozó tevékenységének e tevékenység ellátásával üzletszerűen foglalkozó szervezet (szolgáltató) által, szerződés alapján történő megvalósítása,
   - zsb) kiszervezés: tevékenység olyan kihelyezése, melynek során adatkezelés vagy adatfeldolgozás is megvalósul,
-  - zsc) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatkezelési tevékenység,
-  - zsd) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatfeldolgozási tevékenység,
+  - zsc)
+  - zsd)
   - zse) elszámolóegység: a tagok felhalmozási időszakban fennálló követelésének, valamint a függő tételeknek a kimutatására, nyilvántartására szolgáló, napi árfolyammal rendelkező egység;
   - zsf) ingatlanfejlesztés: minden épület és műtárgy (a továbbiakban együtt: építmény) építési, szerelési munkáival, elsődlegesen az építmény létrehozásával, átépítésével, felújításával kapcsolatos tervező, előkészítő és kivitelező munkálatok összessége;
   - zsg) ingatlankezelés: a pénztárral kötött szerződés szerint az ingatlannal való gazdálkodás és az ingatlanhasznosítás, az esetleges befektetés kérdéseiben javaslatok kidolgozása, továbbá az üzemeltetési és a karbantartási feladatok ellátása, a tervezett felújítások irányítása és ellenőrzése, valamint az ingatlan fenntartására vonatkozó tervajánlat elkészítése;
@@ -100,7 +100,7 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 (7) A jó gazda gondosságának elvét megtartva a pénztár nevében eljáró személyek kötelesek a pénztártagok érdekében különös gondossággal eljárni.
 
-(8) A nyilvánosság és az adatvédelem elvének megfelelően a pénztár működésére vonatkozó adatok nyilvánosak, kezelésükről, megőrzésükről – a szolgáltatások teljesítését követően – tíz évig az adatvédelmi jogszabályoknak megfelelően kell gondoskodni. Az egyes pénztártagok részére nyújtott szolgáltatásról, valamint követelésük összegéről – az e törvényben meghatározott kivétellel – csak egyedi azonosításra nem alkalmas, összesített adatok hozhatók nyilvánosságra.
+(8) A nyilvánosság és az adatvédelem elvének megfelelően a pénztár működésére vonatkozó adatok nyilvánosak, kezelésükről, megőrzésükről – a szolgáltatások teljesítését követően – tíz évig a jogszabályoknak és az Európai Unió közvetlenül alkalmazandó jogi aktusainak megfelelően kell gondoskodni. Az egyes pénztártagok részére nyújtott szolgáltatásról, valamint követelésük összegéről – az e törvényben meghatározott kivétellel – csak egyedi azonosításra nem alkalmas, összesített adatok hozhatók nyilvánosságra.
 
 (9) Az összehasonlítható teljesítmény elve alapján a pénztáraknak tevékenységükről – e törvény szabályainak megfelelően – olyan nyilvántartásokat kell vezetniük, és ezeket nyilvánosságra hozniuk, amelyek alkalmasak arra, hogy a pénztárak teljesítménye azonos adatokból és számításokból kiindulva összehasonlítható és megismerhető legyen, elősegítve ezzel a szabad pénztárválasztás elvének érvényesülését is.
 
@@ -276,7 +276,8 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 - a)
 - b) adatszolgáltatási kötelezettségének eleget tenni,
-- c)–d)
+- c)
+- d)
 - e) a jogalap nélkül felvett szolgáltatás összegét, ezek kamatait, határidőben, maradéktalanul a pénztárnak visszafizetni,
 - f) betartani az SzMSz előírásait.
 
@@ -299,7 +300,11 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 (7)
 
-(8)–(10)
+(8)
+
+(9)
+
+(10)
 
 22/A. § (1) Pénztár részére történő tagszervezést természetes személy, jogi személy, jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban együtt: tagszervező) a pénztárral kötött szerződés alapján végezhet.
 
@@ -425,7 +430,9 @@ kell alkalmazni.
 - a) a pénztártag felhalmozási időszakban bekövetkezett halála esetén a kedvezményezett részére,
 - b)
 
-(2)–(3)
+(2)
+
+(3)
 
 ### Kedvezményezett
 
@@ -745,9 +752,21 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 
 (9) Ha a pénztár közgyűlését az igazgatótanács – a tudomására jutástól számított nyolc napon belül – nem hívja össze, arra a könyvvizsgáló jogosult. Ha a pénztár közgyűlése nem hozza meg a szükséges döntéseket, a könyvvizsgáló köteles értesíteni a Felügyeletet és a bíróságot.
 
-(10)–(13)
+(10)
 
-(14)–(17)
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+(17)
 
 ### A biztosításmatematikus
 
@@ -1500,7 +1519,11 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 (4) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény 262. § (3) bekezdésében meghatározottak szerinti adatkérés esetén a pénztár az ügyészség engedélye nélkül is köteles az általa kezelt, pénztártitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
-(5)–(7)
+(5)
+
+(6)
+
+(7)
 
 ### VIII. Fejezet — A PÉNZTÁRAK ÁTALAKULÁSA,MEGSZŰNÉSE
 
@@ -1687,7 +1710,8 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 88. § (1) Az Alap feladata:
 
 - a) a 89. §-ban meghatározott kifizetések teljesítése,
-- b)–c)
+- b)
+- c)
 - d) külön megállapodás alapján működteti a pénztárak szövetségének erre irányuló kezdeményezése esetén a 85. § (4) bekezdésében meghatározott garanciarendszert.
 - e)
 
@@ -1904,11 +1928,19 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 ### A Felügyelet elnöke
 
-104. § (1)-(3)
+104. § (1)
+
+(2)
+
+(3)
 
 (4) A Felügyelet vezető matematikusának kinevezése esetében az e törvény 47. § (2)–(4) bekezdéseiben foglaltakat kell alkalmazni.
 
-(5)-(7)
+(5)
+
+(6)
+
+(7)
 
 ### Összeférhetetlenség
 
@@ -1965,7 +1997,9 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 109/C. § A pénztár és a szolgáltató köteles a Felügyelet számára a ellenőrzést lehetővé tenni, illetőleg segíteni, biztosítva a vizsgálathoz szükséges adatokhoz, információkhoz való hozzáférést.
 
-109/D–109/E. §
+109/D. §
+
+109/E. §
 
 109/F. §
 
@@ -2116,7 +2150,9 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 ### Átmeneti rendelkezések
 
-123. § (1)–(2)
+123. § (1)
+
+(2)
 
 (3)
 
@@ -2126,7 +2162,9 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 (6)
 
-(6a)–(6b)
+(6a)
+
+(6b)
 
 (6c) Az a természetes személy, aki e törvény 1998. január 1-je 2010. november 2-a között hatályos rendelkezései szerint pályakezdőnek minősült, de pénztártagsága 2010. november 2-áig nem jött létre, a 3. § (2) bekezdése alapján már csak önkéntesen létesíthet pénztártagságot.
 
@@ -2196,7 +2234,15 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 (4) A szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény módosításáról szóló 1997. évi LXXXIV. törvény 1998. január 1-jén lép hatályba.
 
-133. § (1)–(5)
+133. § (1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
 
 (6)
 
