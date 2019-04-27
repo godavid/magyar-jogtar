@@ -73,7 +73,8 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 - a) a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő,
 - b) az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárások esetén az ott meghatározott határidő,
 - c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósági engedélyezési eljárások esetén harminc nap,
-- d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap.
+- d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap,
+- e) az atomenergiáról szóló törvény szerinti nukleáris létesítménnyel és radioaktívhulladék-tárolóval összefüggő építmények hatósági engedélyezése és ellenőrzése esetén az ott meghatározott határidő.
 
 (6)
 
