@@ -52,7 +52,7 @@ a következő törvényt alkotja:
 - 26. ésszerűen elérhető legalacsonyabb szint: a tudományos, technikai, gazdasági és társadalmi adottságok figyelembevételével kialakított, a nemzetközi elvárásokkal összhangban lévő legkisebb érték;
 - 27. nukleárisüzemanyag-ciklus: a nukleáris üzemanyag élettartamának valamennyi szakasza, beleértve a gyártást, hasznosítást, átmeneti tárolást, és a nukleárisüzemanyag-ciklus lezárását;
 - 28. nukleárisüzemanyag-ciklus lezárása: a kiégett üzemanyag hazai vagy külföldi radioaktívhulladék-tárolóban való végleges elhelyezése feldolgozás nélkül, vagy a kiégett üzemanyag előzetes feldolgozása és az ennek során keletkezett radioaktív hulladékok végleges elhelyezése hazai vagy külföldi radioaktívhulladék-tárolóban, beleértve a nukleárisüzemanyag-ciklus lezárására vonatkozó döntést műszaki szempontból megalapozó tevékenységet;
-- 29. nukleáris biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, illetve a balesetek következményeinek enyhítése a nukleáris létesítmény, valamint a radioktívhulladék-tároló életciklusának valamennyi fázisában, amelyek eredményeként megvalósul a munkavállalóknak és a lakosságnak a létesítmények ionizáló sugárzásából származó veszélyekkel szembeni védelme;
+- 29. nukleáris biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, illetve a balesetek következményeinek enyhítése a nukleáris létesítmény, valamint a radioktívhulladék-tároló életciklusának valamennyi fázisában, amelyek eredményeként megvalósul a munkavállalóknak, a lakosságnak és a környezetnek a létesítmények ionizáló sugárzásából származó veszélyekkel szembeni védelme;
 - 30. nukleáris védettség: azon tevékenységek, eszközök és eljárások összessége, amelyek a szabotázs, a nukleáris vagy más radioaktív anyaggal elkövetett, a Büntető Törvénykönyv (a továbbiakban: Btk.) szerinti visszaélés, közveszélyokozás, környezetkárosítás, illetve jogtalan eltulajdonítás megelőzésére, észlelésére, elhárítására és következményeinek kezelésére irányulnak;
 - 31. fenyegetettség: az állam által elvégzett naprakész elemzésben feltárt, az atomenergia békés célú felhasználóit fenyegető veszély, cselekmény;
 - 32. tervezési alapfenyegetettség: a fenyegetettségnek az állam által meghatározott olyan szintje, amely ellen a hatékony fizikai védelmet az atomenergia alkalmazója biztosítja;
@@ -202,7 +202,7 @@ a következő törvényt alkotja:
 
 6. § (1) Az atomenergia biztonságos alkalmazásának irányítása és felügyelete a Kormány feladata.
 
-(2) Az e törvényben foglalt kormányzati feladatok végrehajtásáról a Kormány az Országos Atomenergia Hivatal (a továbbiakban: atomenergia-felügyeleti szerv), valamint a 20. § (1) bekezdésében, a 22–26. §-ban és a 28. §-ban meghatározott miniszterek útján gondoskodik.
+(2) Az e törvényben foglalt kormányzati feladatok végrehajtásáról a Kormány az Országos Atomenergia Hivatal (a továbbiakban: atomenergia-felügyeleti szerv), valamint a 20. §-ban, a 22–26. §-ban és a 28. §-ban meghatározott miniszterek útján gondoskodik.
 
 (3) Az atomenergia-felügyeleti szervnél foglalkoztatott kormánytisztviselőre és kormányzati ügykezelőre a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -264,7 +264,7 @@ besorolást kap.
 
 (2) A főigazgatót és a főigazgató-helyettest naptári évenként tizenöt munkanap pótszabadság illeti meg.
 
-(3) A Kttv. 84–87. §-ában és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 23–24. §-ában meghatározott összeférhetetlenségi és együttalkalmazási tilalmak, valamint kizárási szabályok érvényesítését szolgáló további részletes eljárási szabályokat az atomenergia-felügyeleti szerv vezetője dolgozza ki, figyelemmel az atomenergia-ipar sajátosságaira is.
+(3) A Kttv. 84–87. §-ában és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 23–24. §-ában meghatározott összeférhetetlenségi és együttalkalmazási tilalmak, valamint kizárási szabályok érvényesítését szolgáló további részletes eljárási szabályokat az atomenergia-felügyeleti szerv vezetője dolgozza ki, figyelemmel az atomenergia-ipar sajátosságaira is.
 
 7. § (1) Meglévő nukleáris létesítmény és radioaktívhulladék-tároló tulajdonjogának megszerzéséhez és a használat bármilyen jogcímen való átengedéséhez a Kormány előzetes, elvi hozzájárulása szükséges.
 
@@ -380,6 +380,8 @@ Időszakos Biztonsági Felülvizsgálat keretében – figyelembe véve az üzem
 
 (8) A (7) bekezdés szerinti esetben a rendőrség a közbiztonsági engedélyt a foglalkoztatás időtartalmának végéig, de legfeljebb a kiállítástól számított 1 naptári évig adja meg. Külföldi munkavállalót a foglalkoztatásának időtartalma alatt az (5) bekezdésben meghatározott bűnügyi nyilvántartásokban is ellenőrizni kell.
 
+(9) Az atomenergia polgári célú hasznosítására feljogosított engedélyes a közbiztonsági engedélyre kötelezett munkakörben dolgozó vagy ilyen feladattal megbízott foglalkoztatottak tekintetében jelenti, ha az adott személy foglalkoztatása vagy feladatköre megszűnik.
+
 ### III. Fejezet — Hatósági felügyelet
 
 ### Az atomenergia-felügyeleti szerv eljárásai
@@ -393,6 +395,12 @@ Időszakos Biztonsági Felülvizsgálat keretében – figyelembe véve az üzem
 - e) radioaktívhulladék-tárolóra vonatkozó engedélynél (a létesítmény telephelyének vizsgálatához és értékeléséhez, telepítéséhez, létesítéséhez, üzemeltetéséhez, átalakításához, lezárásához, aktív és passzív intézményes ellenőrzésre való áttéréséhez szükséges engedély esetében) az engedélyesen kívül a hatásterületen levő valamennyi ingatlan tulajdonosa és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték,
 
 (1a) Az atomenergia-felügyeleti szerv által lefolytatott eljárásban az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait csak akkor gyakorolhatja, ha az eljárásban nyilatkozatot tett vagy kérelmet nyújtott be. A nukleáris létesítmény létesítményszintű nukleáris biztonságával kapcsolatos engedélyezési eljárásba a döntés véglegessé válásától és végrehajthatóvá válásától számított hat hónapon túl nem léphet be további ügyfél, e határidő elmulasztása esetén igazolásnak helye nincs.
+
+(1b) Ha az eljárás több mint ötven ügyfelet érint, vagy az eljárásban a (4) bekezdés alapján közmeghallgatásra kerül sor, akkor – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – az atomenergia-felügyeleti szerv a kérelmezővel elektronikus, az egyéb ügyféllel hirdetményi úton tart kapcsolatot.
+
+(1c) Az eljárás megindításáról szóló értesítés tartalmára az Ákr. hivatalbóli eljárásra vonatkozó szabályait kell alkalmazni.
+
+(1d) Az (1b) bekezdésben és az (1) bekezdés a) és e) pontjában meghatározott eljárásokban az atomenergia-felügyeleti szerv a kérelmezővel elektronikus úton, az egyéb ügyfelekkel hirdetményben közli a döntését. A hirdetményt az atomenergia-felügyeleti szerv az (5) bekezdés a) pontja szerinti helyeken teszi közzé.
 
 (2) Az atomenergia-felügyeleti szerv eljárásaiban – a (2a)–(2d) bekezdésben meghatározott kivétellel – a hatásterület a biztonsági övezet területe.
 
@@ -423,7 +431,7 @@ távolságon belüli terület.
 - a) hirdetményt tesz közzé az atomenergia-felügyeleti szerv honlapján és hirdetőtábláján, valamint a hirdetmeny.magyarorszag.hu közigazgatási portálon,
 - b) értesíti az eljárásban közreműködő szakhatóságot.
 
-(6) A közmeghallgatáson elhangzottakról készült feljegyzés az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban Ákr.) meghatározottakon kívül
+(6) A közmeghallgatáson elhangzottakról készült feljegyzés az Ákr.-ben meghatározottakon kívül
 
 - a) az eljáró hatóság megnevezését, az ügyintéző nevét, az ügy tárgyát,
 - b) a közmeghallgatáson résztvevő atomenergia-felügyeleti szerv, a szakhatóság és az engedélyes részéről megjelent személyek azonosításához szükséges adatokat
@@ -434,13 +442,19 @@ tartalmazza.
 
 (8) A közmeghallgatás lebonyolítása során biztosítani kell, hogy a megjelentek egyenlő feltételek mellett kérdezhessenek, nyilváníthassanak véleményt.
 
-11/B. § (1) Az atomenergia-felügyeleti szerv eljárásában közreműködő szakhatóságok megnevezését, a bevonás esetköreit, a vizsgálandó szakkérdést és az eljárás tárgyát a 2. melléklet határozza meg.
+11/B. § (1) Az atomenergia-felügyeleti szerv eljárásában közreműködő szakhatóságok megnevezését, a bevonás esetköreit, a vizsgálandó szakkérdést és az eljárás tárgyát – az (1a) bekezdésben foglaltak kivételével – a 2. melléklet határozza meg.
+
+(1a) A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény (a továbbiakban: Ngtv.) felhatalmazása alapján a Kormány által rendeletben kiemelt jelentőségű üggyé nyilvánított beruházások esetén a 2. melléklet szerinti közigazgatási hatósági eljárásokban tűzvédelmi szakkérdésben eljáró szakhatóságként a hivatásos katasztrófavédelmi szerv központi szerve jár el.
 
 (2) A szakhatósági eljárásban az ügyintézési határidő a (3) bekezdésben foglaltak kivételével huszonegy nap.
 
 (3) A környezetvédelmi és természetvédelmi szakkérdésben eljáró szakhatóság ügyintézési határideje harminc nap.
 
 (4) Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság által kiadott előzetes szakhatósági állásfoglalás egy évig hatályos.
+
+(5) Az Ngtv. felhatalmazása alapján a Kormány által rendeletben kiemelt jelentőségű üggyé nyilvánított beruházások vonatkozásában a 17. § (2) bekezdés 1. pont b) alpontjában meghatározott létesítés, bővítés engedélyezése esetében tűzvédelmi és katasztrófavédelmi szakkérdésben eljáró szakhatóság ügyintézési határideje hat hónap.
+
+(6) Az Ngtv. felhatalmazása alapján a Kormány által rendeletben kiemelt jelentőségű üggyé nyilvánított beruházásnál a nukleáris biztonság szempontjából sajátos építményekre vonatkozóan a 17. § (2) bekezdés 3. pontjában meghatározott engedélyezés esetében tűzvédelmi és katasztrófavédelmi szakkérdésben eljáró szakhatóság ügyintézési határideje negyvenkét nap.
 
 ### A hatósági engedélyezés és ellenőrzés általános rendje
 
@@ -481,7 +495,7 @@ tartalmazza.
 
 12/B. § (1) A 17. § (2) bekezdés 1. pont b) alpontjában foglalt létesítés, bővítés engedélyezése és a 17. § (2) bekezdés 12. pontja szerinti nukleáris létesítmény biztonsági övezetének kijelölése esetében az ügyintézési határidő tizenkét hónap, amely indokolt esetben, egy alkalommal, legfeljebb három hónappal meghosszabbítható.
 
-(2) A 17. § (2) bekezdés 15. pontja szerinti radioaktívhulladék-tároló létesítése engedélyezésének és a 17. § (2) bekezdés 12. pontja szerint radioaktívhulladék-tároló biztonsági övezete kijelölése esetén az ügyintézési határidő tizenkét hónap, amely indokolt esetben, legfeljebb három hónappal meghosszabbítható.
+(2) A 17. § (2) bekezdés 15. pontja szerinti radioaktívhulladék-tároló telepítése és létesítése engedélyezésének és a 17. § (2) bekezdés 12. pontja szerint radioaktívhulladék-tároló biztonsági övezete kijelölése esetén az ügyintézési határidő tizenkét hónap, amely indokolt esetben, legfeljebb három hónappal meghosszabbítható.
 
 (3) Az ügyintézési határidő tizenegy hónap:
 
@@ -492,7 +506,7 @@ tartalmazza.
 
 (4) Az ügyintézési határidő nyolc hónap
 
-- a) a 17. § (2) bekezdés 18. pontjában meghatározott nukleáris létesítményre, radioaktív hulladék átmeneti és végleges tárolójára vonatkozó tervezési alapfenyegetettség megállapítása és felülvizsgálata, fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése esetében,
+- a) a 17. § (2) bekezdés 18. pontjában meghatározott nukleáris létesítményre, radioaktív hulladék átmeneti és végleges tárolójára vonatkozó tervezési alapfenyegetettség megállapítása és felülvizsgálata – a (7) bekezdésben meghatározott kivétellel –, fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése esetében,
 - b) nukleáris létesítményekre vonatkozó első biztosítéki nyilvántartásba-vételi eljárás esetében.
 
 (5) Az ügyintézési határidő százötven nap a 17. § (2) bekezdés 3. pontja szerinti építési engedélyezési eljárásokból a konténment építési engedélyezési, 4. pontja szerinti gyártási engedélyezési eljárásokból a legmagasabb biztonsági osztályba tartozó rendszerelemek gyártási engedélyezési és 14. pontjában meghatározott engedélyezési eljárásokban.
@@ -508,6 +522,20 @@ tartalmazza.
 - g) a határozott időre adott engedély időbeli hatályának módosítására irányuló eljárásban,
 - h) az atomenergia-felügyeleti szerv által kiadott engedélyben előírt feltétel teljesítése határidejének módosítására irányuló eljárásban,
 - i) a hivatalból indított eljárásban.
+
+(7) Az ügyintézési határidő kilencven nap a 17. § (2) bekezdés 18. pontjában meghatározott engedélyezési eljárásban – a (4) bekezdés a) pontjában meghatározott kivétellel – a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék alkalmazására, tárolására, illetve a szabotázs és a jogtalan eltulajdonítás megakadályozását, a szabotázs és a jogtalan eltulajdonítás lehetőségének csökkentését, vagy a jogtalan eltulajdonítás lehetőségének csökkentését biztosító védelmet igénylő szállítására vonatkozó fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése esetében.
+
+(8) Az ügyintézési határidő
+
+- a) százötven nap a 17. § (2) bekezdés 3. pontja szerinti építési engedélyezési eljárások közül a konténment engedélyezési eljárásban,
+- b) negyvenkét nap
+  - ba) a nukleáris biztonság szempontjából sajátos olyan építmények esetében, amelyek a nukleáris létesítmény vagy a radioaktív hulladéktároló létesítéséhez szükségesek, de nincs szerepük a létesítmény üzemeltetésében,
+  - bb) azon építmények esetében, amelyek vagy amelyeknek egyes részei a biztonsági övezethez tartoznak, de nincs szerepük a létesítmény üzemeltetésében, valamint
+- c) hatvan nap az a) és b) pont kivételével a 17. § (2) bekezdés 3. pontjában meghatározott egyéb hatósági engedélyezési eljárásokban,
+
+ha ezeket a közigazgatási hatósági ügyeket az Ngtv. felhatalmazása alapján a Kormány rendeletben kiemelt jelentőségű üggyé nyilvánította.
+
+(9) A (8) bekezdés c) pontjában meghatározott ügyintézési határidő indokolt esetben 30 nappal meghosszabbítható.
 
 13. § (1) A nukleáris létesítménnyel összefüggő hatósági engedélyezési eljárás során biztosítani kell a szakértőként eljáró személy vagy szervezet függetlenségét. Az egyes eljárásokban kirendelt vagy felkért szakértő vagy szakértő szervezet nem lehet az eljárásban érintett ügyfelek egyikének sem a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Polgári Törvénykönyv) 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója, nem állhat semmilyen közvetlen vagy közvetett tulajdonosi kapcsolatban a kérelmezővel vagy annak vezető tisztségviselőivel, a hatósági eljárásban megjelölt technológiaszállítóval és nem vehet részt a szakvéleménnyel érintett dokumentumok, valamint azok kiegészítő és háttérdokumentumai kidolgozásában. Szakértő szervezet esetében a hozzátartozói kapcsolatot a szakértő szervezet vezető tisztségviselői és a 19/B. § (2a) bekezdése szerinti szakértői minősítéssel rendelkező személy tekintetében kell figyelembe venni.
 
@@ -526,7 +554,7 @@ tartalmazza.
 - a) az abban meghatározott időtartam lejár, vagy az engedélyben meghatározott feltételek nem teljesültek;
 - b) a nukleáris berendezés, illetve a nukleáris létesítmény az engedélyezett időtartamon belül, az engedélyben meghatározottnál hosszabb ideig folyamatosan üzemen kívül áll.
 
-(3) Az atomenergia-felügyeleti szerv az engedélyt visszavonhatja, vagy az engedély időbeli hatályát korlátozhatja, ha az engedély megadása alapjául szolgáló biztonsági körülményeknek, illetve a kockázat mértékének a megváltozását állapította meg.
+(3) Az atomenergia-felügyeleti szerv az engedélyt visszavonhatja vagy az engedély időbeli hatályát korlátozhatja, ha megállapítja, hogy az engedély megadása alapjául szolgáló nukleáris biztonsági, biztosítéki, védettségi, valamint az ionizáló sugárzás elleni védelemmel kapcsolatos körülmények megváltoztak és az ebből fakadó kockázat mértéke növekedett.
 
 (4) Az átalakítási engedély kiadása előtt végzett ellenőrzés során feltárt, a nukleáris biztonságot veszélyeztető nem-megfelelőség esetén az atomenergia-felügyeleti szerv az átalakítás folytatását megtilthatja.
 
@@ -554,6 +582,24 @@ megadott engedélyek hatályának megszűnése esetén is fennáll.
 (2) Az atomenergia-felügyeleti szerv az e törvény vagy az e törvény végrehajtására kiadott jogszabály megsértése, valamint az e törvény vagy az e törvény végrehajtására kiadott jogszabály alapján kiadott határozatában foglaltak betartásának elmulasztása esetén az engedélyest, továbbá a 17. § (2) bekezdés 20–22. pontja szerinti, az atomenergia-felügyeleti szerv hatáskörébe tartozó ügyekben adatszolgáltatásra kötelezettet bírság megfizetésére kötelezheti.
 
 (3) Nem szabható ki bírság a mulasztásnak vagy kötelezettségszegésnek a hatóság tudomására jutásától számított egy éven, valamint attól a naptól számított öt éven túl, amely napon a kötelezettnek eleget kellett volna tennie az e törvényben vagy az e törvény végrehajtására kiadott jogszabályban megállapított kötelezettségének.
+
+15/A. § (1) Ha a kötelezés jellege megengedi, az atomenergia-felügyeleti szerv részletekben történő teljesítést is megállapíthat.
+
+(2) A teljesítési határidő lejárta előtt a kötelezett pénzfizetési kötelezettség teljesítésére annak igazolásával kérhet halasztást vagy részletekben történő teljesítést (a továbbiakban együtt: fizetési kedvezmény) az atomenergia-felügyeleti szervtől, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést vagy az számára aránytalan terhet jelent.
+
+(3) Ha a végrehajtási eljárást még nem indították meg, a teljesítési határidő lejárta után az ügyfél a (2) bekezdésben meghatározott okból igazolási kérelem egyidejű benyújtásával kérhet fizetési kedvezményt. Ha az atomenergia-felügyeleti szerv a kérelmet elutasítja, egyidejűleg dönt a végrehajtás megindításáról.
+
+(4) A teljesítési határidő lejárta előtt a kötelezett meghatározott cselekmény teljesítésére annak igazolásával kérhet halasztást az atomenergia-felügyeleti szervtől, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést.
+
+(5) Meghatározott cselekmény teljesítési határideje egy alkalommal meghosszabbítható, ha a kötelezett igazolja, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, és elemzéssel igazolja, hogy a meghatározott cselekmény végrehajtásának késedelme nem csökkenti a nukleáris biztonság, a védettség és a biztosítéki intézkedések szintjét.
+
+(6) Az atomenergia-felügyeleti szerv az ellenérdekű ügyfél, illetve a jogosult álláspontját kikérheti a fizetési kedvezmény és a teljesítési határidő meghosszabbításának engedélyezésével kapcsolatban.
+
+(7) Az ügyfél a fizetési kedvezményről rendelkező véglegessé vált döntés ellen közigazgatási pert indíthat.
+
+15/B. § (1) E törvény hatálya alá tartozó hatósági eljárásokban a közbiztonságra és a nukleáris biztonsági követelményekre tekintettel elkobzásnak van helye. Az elkobzás részletes szabályait az e törvény végrehajtására kiadott kormányrendelet határozza meg.
+
+(2) A nukleáris biztonsági és védettségi követelményekre tekintettel a nukleáris vagy radioaktív anyag elkobzása az atomenergia alkalmazójával szemben is elrendelhető.
 
 ### A radioaktív és nukleáris anyagok nyilvántartása, ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályai
 
@@ -657,7 +703,7 @@ megadott engedélyek hatályának megszűnése esetén is fennáll.
 
 (2) Sugárvédelmi szakértői tevékenységet az erre feljogosított
 
-- a) természetes személy (a továbbiakban: igazságügyi szakértő),
+- a) természetes személy,
 - b) cégjegyzékbe bejegyzett gazdasági társaság (a továbbiakban: sugárvédelmi szakértői társaság), valamint a Szolgtv. szerinti szabad szolgáltatásnyújtás jogával rendelkező vállalkozás (a továbbiakban: sugárvédelmi szakértői vállalkozás)
 
 végezhet.
@@ -715,7 +761,7 @@ végezhet.
 
 ### Az atomenergia-felügyeleti szerv hatásköre
 
-17. § (1) Az atomenergia-felügyeleti szerv alapvető feladata az atomenergia békés célú, biztonságos és védett alkalmazásával – különösen a nukleáris létesítmények és radioaktívhulladék-tárolók nukleáris biztonságával és védettségével – a nukleáris és más radioaktív anyagok, ionizáló sugárzást kibocsátó berendezések biztonságával és védettségével, a nukleáris fegyverek elterjedése elleni tevékenységgel, a nukleáris s veszélyhelyzet-kezeléssel kapcsolatos hatósági feladatok, valamint az ezekre vonatkozó tájékoztatási tevékenység ellátása, illetve összehangolása.
+17. § (1) Az atomenergia-felügyeleti szerv alapvető feladata az atomenergia békés célú, biztonságos és védett alkalmazásával – különösen a nukleáris létesítmények és radioaktívhulladék-tárolók nukleáris biztonságával és védettségével – a nukleáris és más radioaktív anyagok, ionizáló sugárzást kibocsátó berendezések biztonságával és védettségével, a nukleáris fegyverek elterjedése elleni tevékenységgel, a nukleáris veszélyhelyzet-kezeléssel kapcsolatos hatósági feladatok, valamint az ezekre vonatkozó tájékoztatási tevékenység ellátása, illetve összehangolása.
 
 (2) Az atomenergia-felügyeleti szerv hatáskörébe tartozik:
 
@@ -1042,7 +1088,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 39. § Radioaktív hulladék és kiégett üzemanyag átmeneti tárolására engedély csak meghatározott időre adható.
 
-40. § (1) A Kormány által kijelölt szerv tesz javaslatot a radioaktív hulladék és a kiégett üzemanyag kezelésére vonatkozó nemzeti politikára és nemzeti programra, valamint azok felülvizsgálatára, továbbá gondoskodik a radioaktív hulladék végleges elhelyezésével, a kiégett üzemanyag átmeneti tárolásával, a nukleárisüzemanyag-ciklus lezárásával, és a nukleáris létesítmény leszerelésével összefüggő feladatok elvégzéséről.
+40. § (1) A Kormány által kijelölt szerv tesz javaslatot a radioaktív hulladék és a kiégett üzemanyag kezelésére vonatkozó nemzeti politikára és nemzeti programra, valamint azok felülvizsgálatára, továbbá gondoskodik a radioaktív hulladékok végleges elhelyezésével, a kiégett üzemanyag átmeneti tárolásával, a nukleárisüzemanyag-ciklus lezárásával, és a nukleáris létesítmény leszerelésével összefüggő feladatok elvégzéséről.
 
 (2) A Kormány által az (1) bekezdés szerint kijelölt szerv felügyelőbizottsága – a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló törvény rendelkezésétől eltérően – öt természetes személy tagból áll.
 
@@ -1268,6 +1314,8 @@ alkalmazásával kell megállapítani.
 
 66/F. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
+66/G. § A 11/A. § (1b)–(1d) bekezdését az atomenergiáról szóló 1996. évi CXVI. törvény és a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosításáról szóló 2019. évi XXXIX. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
 ### Felhatalmazó rendelkezések
 
 67. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
@@ -1338,7 +1386,7 @@ alkalmazásával kell megállapítani.
 - c) a radioaktív anyagok csomagolása engedélyezésének és ellenőrzésének szabályait a közlekedésért felelős miniszterrel egyetértésben;
 - d) az atomenergia-felügyeleti szerv igazgatási szolgáltatási díj ellenében végzett eljárásai esetében az igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és visszatérítésének szabályait, a díj mértékét illetően az adópolitikáért felelős miniszterrel egyetértésben;
 - e) az atomenergia-felügyeleti szerv hatósági tevékenységéhez igénybe vett intézetek, intézmények részére a szolgáltatásért járó díj fizetésének feltételeit;
-- f)
+- f) a tevékenység jellege szerint érintett miniszterrel egyetértésben az atomenergia alkalmazása körében a munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét;
 - g) az atomenergia alkalmazási körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat, az adópolitikáért felelős miniszterrel egyetértésben;
 - h) a 63. § (1) és (4) bekezdése, valamint a 63/A. § (1) és (2) bekezdése szerinti befizetési kötelezettség teljesítésének módját.
 
@@ -1362,7 +1410,7 @@ alkalmazásával kell megállapítani.
 
 (4) Felhatalmazást kap a közlekedésért felelős miniszter, hogy rendeletben állapítsa meg a nukleáris és radioaktív anyagok szállítása és csomagolása követelményeit a környezetvédelemért felelős miniszterrel, az egészségügyért felelős miniszterrel, továbbá a miniszterrel egyetértésben.
 
-(5) Felhatalmazást kap a tevékenység jellege szerint érintett miniszter, hogy a miniszterrel egyetértésben szabályozza az atomenergia alkalmazása körében munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét.
+(5)
 
 (6)
 
