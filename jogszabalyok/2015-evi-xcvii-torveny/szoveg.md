@@ -89,23 +89,40 @@ köthető.
 
 (2) A felek között a határozott időre kötött (1) bekezdés szerinti szerződés időtartama legalább 6 hónap. A felek a határozatlan időre kötött (1) bekezdés szerinti szerződést rendes felmondással hat hónapos felmondási idővel szüntethetik meg.
 
-(3) Az (1) és (2) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Amennyiben a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, egy hónapos határidő kitűzésével felhívja a feleket a kötelezettség teljesítésére. A mezőgazdasági igazgatási szerv akkor alkalmaz szankciót, ha a felek a határidő elteltével sem teljesítik a kötelezettségeiket.
+(3) Az (1) és (2) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Amennyiben a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, ágazatfelügyeleti bírságot szab ki, amelynek legkisebb mértéke tízezer forint, legmagasabb mértéke 50 millió forint, de legfeljebb az elmarasztalt szerződő fél által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel tíz százaléka.
 
-7/A. § (1) A friss meggy Magyarországon történő értékesítésére irányuló szerződést a friss meggy feldolgozásáig írásba kell foglalni.
+7/A. § (1) Magyarországon történő feldolgozása esetén kötelező írásba foglalni a feldolgozásra alaptermékként beszállított
 
-(2) Az (1) bekezdés szerinti, határozott időre szóló szerződést legalább egyéves időtartamra kell megkötni. A határozatlan időre kötött szerződés rendes felmondással egyéves felmondási idővel szüntethető meg.
+- a) meggy és
+- b) alma
 
-(3) Az (1) bekezdés szerinti szerződés megkötésére a vevőnek kell írásbeli ajánlatot tennie az eladónak, amely ajánlathoz a vevő hat hónapig kötve van.
+értékesítésére irányuló szerződést.
 
-(4) Az (1) bekezdés szerinti szerződésnek és az ajánlattételnek meg kell felelnie a Rendelet 168. cikk (4) és (6) bekezdésében meghatározott követelményeknek.
+(2) Az (1) bekezdés szerinti szerződésnek a beszállított termékekért fizetendő árat
 
-(5) Az (1)–(4) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Amennyiben a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, egy hónapos határidő kitűzésével felhívja a feleket a kötelezettség teljesítésére. A mezőgazdasági igazgatási szerv akkor alkalmaz szankciót, ha a felek a határidő elteltével sem teljesítik a kötelezettségeiket.
+- a) rögzített módon, illetve
+- b) meghatározott tényezők összesítése alapján számítva
 
-(6) Ha a felek között nem jön létre megállapodás az (1) bekezdés szerinti szerződés megkötésére, a felek közötti közvetítésre a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: agrárkamara) jogosult.
+kell tartalmaznia.
 
-(7) A Rendelet 168. cikk (5) bekezdésének rendelkezéseit a szövetkezetek mellett a gazdasági társaságokra is alkalmazni kell.
+(3) Az (1) bekezdés szerinti szerződésnek egyebekben meg kell felelnie a Rendelet 168. cikk (4) bekezdésében meghatározott követelményeknek. A (2) bekezdés b) pontja vonatkozásában a Rendelet 168. cikk (4) bekezdés c) pontja i. alpontjának második francia bekezdésében foglaltakat kell alkalmazni.
+
+(4) A feldolgozó által az adott évben feldolgozandó gyümölcs legalább 60 százalékának felvásárlására irányuló (1) bekezdés szerinti szerződésnek
+
+- a) meggy esetében az adott év május 15. napjáig,
+- b) alma esetében az adott év augusztus 1. napjáig
+
+hatályba kell lépnie.
+
+(5) Az (1)–(4) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Ha a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, ágazatfelügyeleti bírságot szab ki, amelynek legkisebb mértéke tízezer forint, legmagasabb mértéke 50 millió forint.
+
+(6) Az (1)–(4) bekezdésben foglaltak a gazdasági társaság tagja mint beszállító által a gazdasági társasággal kötött szerződésre nem vonatkoznak, ha teljesülnek azok a feltételek, amelyeket a Rendelet 168. cikk (5) bekezdése a szövetkezetek esetében előír.
+
+(7) Nem kell alkalmazni a (4) bekezdésben foglaltakat annak a feldolgozónak, amely az adott évben legfeljebb 100 tonna meggyet, illetve legfeljebb 200 tonna almát dolgoz fel.
 
 7/B. § A termelő, a feldolgozó, a felvásárló, valamint a forgalmazó viszonylatában értékesített friss, illetve gyorsan romló mezőgazdasági és élelmiszer-ipari termék vonatkozásában a felek között létrejött írásbeli szerződésben meghatározott fogyaszthatósági vagy minőség megőrzési idő leteltét követően, erre vonatkozó szerződéses rendelkezés hiányában a termék birtokba vételét követően minőségi kifogásnak nincs helye.
+
+7/C. § A Magyarország területén cukrot előállító cukorgyártó vállalkozás és a cukorrépa-termesztők érdekképviseletét ellátó szervezet minden gazdasági év december 10. napjáig megkezdi a Rendelet X. melléklete szerinti termékértékesítési szerződésről szóló tárgyalásokat. A szerződés kötelező tartalmát az e törvény felhatalmazása alapján kiadott miniszteri rendelet határozza meg.
 
 #### 6. Mezőgazdasági adatbázisok
 
@@ -129,6 +146,8 @@ köthető.
 - c) az áradatokról,
 - d) a vonatkozó mennyiségi adatokról,
 - e) a megfigyelés alá vont termékek köréről.
+
+(7) Az (5) bekezdés szerint adatszolgáltatásra kötelezettek e kötelezettségük teljesítését a mezőgazdasági igazgatási szerv ellenőrzi. Ha a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, egy hónapos határidő kitűzésével felhívja az adatszolgáltatót a kötelezettség teljesítésére. Ha az adatszolgáltató a határidő elteltével sem teljesíti a kötelezettségét, a mezőgazdasági igazgatási szerv ágazatfelügyeleti bírságot szab ki, amelynek legkisebb mértéke tízezer forint, legmagasabb mértéke 1 millió forint, de legfeljebb a piaci szereplő által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel öt százaléka.
 
 9. § Az agrártámogatás igénybevevője rendeletben meghatározottak szerint, az ott felsorolt adatok szolgáltatására köteles.
 
@@ -222,7 +241,7 @@ az e törvény végrehajtására kiadott rendeletben meghatározottak szerint k�
 
 (3) A piaci szereplő által, a bírság végleges kiszabásától számított két éven belül ismételten tanúsított bármely, a piacszervezési intézkedésbe ütköző magatartás esetén az ágazatfelügyeleti bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de legalább százezer forint, legfeljebb kétszázmillió forint azzal, hogy annak összege a piaci szereplő által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel tizenöt százalékánál nagyobb nem lehet.
 
-(4) Az ágazatfelügyeleti bírság mértékét az eset összes körülményére – így különösen a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre és a piaci szereplő gazdasági súlyára – tekintettel kell meghatározni.
+(4)
 
 #### 12. Pénzügyi hozzájárulás
 
@@ -304,6 +323,8 @@ elismeréséről.
 - j) a Rendelet V. rész I. Fejezetében meghatározott rendkívüli intézkedések tagállami végrehajtási szabályait;
 - k) a termelői szervezetekkel kapcsolatos, az egyes ágazatokra vonatkozó gazdasági térségeket;
 - l) a nemzeti minőségrendszerek, valamint az önkéntes mezőgazdasági-termék tanúsítási rendszerek elismerésére, felfüggesztésére, visszavonására vonatkozó részletes szabályokat
+- m) a cukorágazatban kötelezően alkalmazandó szerződés szabályait,
+- n) a meggy és az alma feldolgozására irányuló szerződésekkel kapcsolatban szolgáltatandó, személyes adatnak nem minősülő adatokat és az adatszolgáltatási kötelezettség részletszabályait
 
 rendeletben állapítsa meg.
 
