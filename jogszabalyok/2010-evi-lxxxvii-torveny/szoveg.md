@@ -76,7 +76,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (4) Az NFA elnökének és elnökhelyettesének e megbízatásával összeférhetetlen az is, ha a (3) bekezdés szerinti tisztséget vagy jogviszonyt a Polgári Törvénykönyv szerinti közeli hozzátartozója vagy az élettársa tölti be.
 
-(5) Az NFA elnökére, elnökhelyetteseire és alkalmazottaira a közszolgálati tisztviselőkről szóló törvénynek a kormánytisztviselőkre vonatkozó rendelkezései irányadók.
+(5) Az NFA elnökére, elnökhelyetteseire és alkalmazottaira a kormányzati igazgatásról szóló törvénynek a kormánytisztviselőkre vonatkozó rendelkezései, az NFK álláshelyeire pedig a kormányzati igazgatási létszámgazdálkodásra vonatkozó rendelkezései irányadók.
 
 (6) Az NFA elnöke államtitkári illetményre és juttatásokra jogosult.
 
@@ -144,7 +144,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (6) A Tanács üléséről összefoglaló készül, melynek az NFA honlapján történő közzétételéről az NFA elnöke az ülés napjától számított öt munkanapon belül gondoskodik. Az összefoglaló tartalmazza az ülés helyét és időpontját, az ülésen résztvevők nevét, a tárgyalt írásbeli anyagok címét és az előterjesztő megjelölését, a napirenden kívül szóba került ügyek tárgy szerinti ismertetését, a hozzászólók nevét, szavazás esetén annak tárgyát és számszerű arányát, a testületi döntés lényegét. Kérelmére az ülésen résztvevő nyilatkozatát, egyet nem értését szó szerint kell rögzíteni. Az összefoglaló mellékleteként meg kell őrizni az előterjesztést, továbbá a Tanács által hozott döntést tartalmazó iratoknak a Tanács elnöke általi aláírással ellátott eredeti egy-egy példányát.
 
-10. § (1) A Tanács elnökét és további négy tagját a miniszter nevezi ki.
+10. § (1) A Tanács elnökét és további hat tagját a miniszter nevezi ki.
 
 (2) A Tanács elnöke és tagja (a továbbiakban együtt: tag) magyar állampolgár lehet. A Tanács tagja nem lehet:
 
@@ -492,6 +492,8 @@ követő napon.
 (6a) Az ingatlanügyi hatóság az NFA és az MNV Zrt. közös kérelmére gondoskodik a 3. § (3) bekezdésében meghatározott ingatlanokat érintően a kettős tulajdonosi joggyakorlás miatt a tulajdonosi joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
 
 (7) Az ingatlanügyi hatóság a (6) és (6a) bekezdés szerinti eljárásban meghozott döntését – a változás tulajdoni lapon történő átvezetését követően – kézbesíti a kérelmezőnek, és annak, akinek bejegyzett joga módosult vagy megszűnt.
+
+34/A. § A Nemzeti Földalapkezelő Szervezet 2019. július 1-jén átalakulással megszűnik. A Nemzeti Földalapkezelő Szervezet általános jogutódja az NFK.
 
 35. § (1) E törvény hatálybalépése nem érinti a Nemzeti Földalapról szóló 2001. évi CXVI. törvény 13/A. §-a alapján e törvény hatálybalépése előtt közzétett pályázati felhívás alapján kötött életjáradéki szerződéseket. Az ezen szerződések alapján fizetendő életjáradék a központi költségvetés központosított kiadása, amelyet a Nemzeti Földalapról szóló törvény hatálya alá tartozó állami vagyonnal való gazdálkodásból származó bevételeket és kiadásokat tartalmazó fejezetben kell megtervezni és elszámolni.
 
