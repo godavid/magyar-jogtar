@@ -64,6 +64,8 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 
 (10) A földgáz biztonsági készlethez szabad hozzáféréssel kizárólag csak a jogszabályban meghatározottak és csak a jogszabályban meghatározott feltételek fennállása esetén és idején rendelkeznek.
 
+(11) A földgáz biztonsági készlet tárolásáért fizetett díj nem haladhatja meg a Hivatal által a Get. szerint megállapított földgáztárolási díjat.
+
 4/A. § (1) Földgázkereskedő lehetetlenülése esetén az érintett felhasználók földgázellátását a végső menedékes földgázkereskedő kijelöléséig a biztonsági földgázkészletből kell biztosítani.
 
 (2) A földgázkereskedő lehetetlenülése esetén a Hivatal a földgázkereskedő engedélyét felfüggesztő határozatát az érintett földgázkereskedő és rendszerüzemeltetők mellett, egyidejűleg a Szövetséggel is közli. A Szövetség a határozat közlésének időpontjától a végső menedékes földgázkereskedő kijelölésének időpontjáig köteles a biztonsági földgázkészletből a szükséges földgázmennyiséget a szállítási rendszerüzemeltető rendelkezésére bocsátani az érintett felhasználók folyamatos földgázellátásának biztosítása érdekében.
@@ -169,10 +171,7 @@ vonatkozik.
 
 (7) A tag a tagi hozzájárulást az egyéb ráfordítások között köteles elszámolni.
 
-(8) Az Alapszabályban meghatározott feltételekkel visszaigényelhető
-
-- a) a (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató a lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére bevallott és
-- b) azon földgázmennyiség után bevallott tagi hozzájárulás, amelyet igazoltan nem energetikai célra, hanem vegyipari alapanyagként hoznak be, használnak fel vagy értékesítenek.
+(8) Az Alapszabályban meghatározott feltételekkel visszaigényelhető a (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató a lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére bevallott.
 
 (8a)–(8b)
 
