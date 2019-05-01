@@ -541,7 +541,13 @@ szükséges.
 
 (3) A Ptk. szerinti törvényes képviselet nem minősül vámjogi képviseletnek.
 
-(4)–(7)
+(4) Magyarországon a Vámkódex 18. cikk (3) bekezdés alapján a Vámkódex 5. cikk 6. pontja szerinti, Magyarországon letelepedett vámjogi képviselőként – az (5) és (6) bekezdésben foglaltakra figyelemmel, valamint a (7) bekezdés kivételével – a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedéllyel rendelkező gazdálkodó, továbbá vámtanácsadó vagy vámügynök járhat el. E §-t a Vámkódex 18. cikk (4) bekezdése alapján az Európai Unió vámterületén nem letelepedett vámjogi képviselőre is alkalmazni kell.
+
+(5) A vámügynök árunyilatkozat, vám-árunyilatkozat vagy értesítés benyújtása esetén járhat el vámjogi képviselőként.
+
+(6) Az (5) bekezdésben foglalt esetben, valamint a kérelemre indult eljárások során – a 186. § (3) bekezdés kivételével – képviselőként a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedéllyel rendelkező gazdálkodó, továbbá vámtanácsadó is eljárhat.
+
+(7) A vámhatóság előtti jogorvoslati eljárásokban az ügyfelet a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedéllyel rendelkező gazdálkodó, továbbá vámtanácsadó, valamint ügyvéd, kamarai jogtanácsos, ügyvédi iroda, európai közösségi jogász képviselheti.
 
 #### 13. A Vámkódex 19. cikkéhez
 
@@ -2554,7 +2560,7 @@ A VA 321. cikk (3) bekezdése alapján a helyhez kötött szállítóberendezés
 
 (2) Az (1) bekezdés szerinti döntés érdekében a kérelmet a vámszabad terület üzemeltetését végző személy a miniszterhez elektronikus úton vagy papíralapon nyújtja be.
 
-(3)
+(3) A vámszabad terület kijelölése iránti kérelem alapján induló eljárásban, ha a kérelmező személy vámtanácsadó, vagy vámtanácsadót foglalkoztat önállóan is, ellenkező esetben kizárólag vámtanácsadó képviseletével járhat el.
 
 #### 187. § [Eljárás a kérelem befogadását követően]
 

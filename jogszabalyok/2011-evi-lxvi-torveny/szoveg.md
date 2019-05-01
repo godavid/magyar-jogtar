@@ -244,15 +244,18 @@ jogszabályok előkészítésében.
 
 (8) A számvevőnek a feladatait a hatályos jogrend előírásai szerint, a demokratikus, jogállami intézményrendszerben kifejeződő közérdek iránti elkötelezettséggel kell ellátnia. A számvevővel szemben elvárás, hogy feladatait hivatásszerű példamutatással, a jogszabályi előírások maradéktalan betartásával, pontosan lássa el és állampolgári kötelezettségeit teljesítse, valamint hivatására a magánéletében is méltó legyen.
 
-16. § (1) A számvevőt kinevezésekor
+16. § (1) A számvevőt kinevezésében
 
 - a) számvevő gyakornok,
-- b) számvevő,
-- c) számvevő tanácsos,
-- d) számvevő főtanácsos,
-- e) számvevő vezető főtanácsos kategóriák valamelyikébe kell besorolni.
+- b) számvevő fogalmazó,
+- c) számvevő,
+- d) számvevő tanácsos,
+- e) számvevő főtanácsos,
+- f) számvevő vezető főtanácsos
 
-(2) Az Állami Számvevőszék elnöke a nem vezetői munkakört betöltő számvevő főtanácsos és számvevő vezető főtanácsos részére – ha a munkakör ellátása során nyújtott kiemelkedő szakmai teljesítménye indokolja – tanácsadói vagy főtanácsadói cím használatát engedélyezheti. A címhasználathoz címpótlék jár. A címhasználat visszavonható, ha az engedélyezés indokai már nem állnak fenn.
+kategóriák valamelyikébe kell besorolni.
+
+(2) A számvevő besorolásának további szabályait az Állami Számvevőszék szervezeti és működési szabályzata határozza meg.
 
 (3) Az Állami Számvevőszék elnöke az ellenőrzést vezető számvevő részére – amennyiben nem tölt be vezetői munkakört – az ellenőrzés idejére osztályvezetői besorolásnak megfelelő illetményt állapíthat meg.
 
@@ -294,52 +297,40 @@ jogszabályok előkészítésében.
 
 ### Az Állami Számvevőszék elnökét, alelnökét, vezetőit és számvevőit megillető díjazás és juttatások
 
-20. § (1) Az Állami Számvevőszék elnökének a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, az Állami Számvevőszéktől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset kilencszerese. Egyebekben az Állami Számvevőszék elnöke a minisztert megillető juttatásokra jogosult.
+20. § (1) Az Állami Számvevőszék elnökének a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, az Állami Számvevőszéktől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tizenkétszerese. Egyebekben az Állami Számvevőszék elnöke a minisztert megillető juttatásokra jogosult.
 
-(2) Az Állami Számvevőszék alelnökének a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, az Állami Számvevőszéktől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset hét és félszerese. Egyebekben az alelnök az Állami Számvevőszék elnökét megillető juttatásokra jogosult.
+(2) Az Állami Számvevőszék alelnökének a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, az Állami Számvevőszéktől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tíz és félszerese. Egyebekben az alelnök az Állami Számvevőszék elnökét megillető juttatásokra jogosult.
 
 21. § (1) A tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított számvevői illetményalap a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset összegével megegyező. Az illetményalap változásából eredő illetményváltozás nem minősül a kinevezés módosításának.
 
 (2) A számvevő alapilletménye:
 
-- a) számvevő gyakornok esetében az illetményalap 1,5-szerese,
-- b) számvevő esetében az illetményalap 2,7-szerese,
-- c) számvevő tanácsos esetében az illetményalap 2,9-szerese,
-- d) számvevő főtanácsos esetében az illetményalap 3,3-szerese,
-- e) számvevő vezető főtanácsos esetében az illetményalap 3,8-szerese,
-- f) számvevő osztályvezető-főtanácsos esetében az illetményalap 3,8-szerese,
-- g) számvevő igazgatóhelyettes esetében az illetményalap 4,0-szerese,
-- h) számvevő igazgató esetében az illetményalap 4,3-szerese,
-- i) számvevő főigazgató, főtitkár esetében az illetményalap 4,6-szerese.
+- a) számvevő gyakornok esetében az illetményalap 1,9-szerese,
+- b) számvevő fogalmazó esetében az illetményalap 2,3-szerese,
+- c) számvevő esetében az illetményalap 3,3-szerese,
+- d) számvevő tanácsos esetében az illetményalap 3,7-szerese,
+- e) számvevő főtanácsos esetében az illetményalap 4-szerese,
+- f) számvevő vezető főtanácsos esetében az illetményalap 5,1-szerese,
+- g) számvevő osztályvezető esetében az illetményalap 3,8-szerese,
+- h) számvevő igazgatóhelyettes esetében az illetményalap 4,8-szerese,
+- i) számvevő igazgató esetében az illetményalap 5,5-szerese,
+- j) számvevő főigazgató és főtitkár esetében az illetményalap 6,5-szerese.
 
-(3) A vezetői illetménypótlék mértéke a számvevő osztályvezető-főtanácsos, a számvevő igazgatóhelyettes, a számvevő igazgató, a számvevő főigazgató, és a főtitkár esetén az alapilletmény 20%-a.
+(3) A vezetői illetménypótlék mértéke a számvevő osztályvezető, a számvevő igazgatóhelyettes, a számvevő igazgató, a számvevő főigazgató és a főtitkár esetén az alapilletmény 35%-a.
 
-(4) A számvevőt megillető címpótlék mértéke:
+(4)
 
-- a) számvevő főtanácsos tanácsadó esetén az alapilletmény 5,5%-a,
-- b) számvevő főtanácsos főtanácsadó esetén az alapilletmény 6,5%-a,
-- c) számvevő vezető főtanácsos tanácsadó esetén az alapilletmény 7,5%-a,
-- d) számvevő vezető főtanácsos főtanácsadó esetén az alapilletmény 8,5%-a.
+(5)
 
-(5) A számvevő a (6) bekezdés szerinti idegennyelv-tudási pótlékra jogosult, ha az idegen nyelv használata a munkakör betöltéséhez szükséges. A nyelvpótlékra jogosító munkaköröket és nyelveket a Szervezeti és Működési Szabályzat mellékletében kell feltüntetni.
+(6)
 
-(6) Az idegennyelv-tudási pótlék mértéke nyelvvizsgánként:
+(7)
 
-- a) angol, francia vagy német nyelvből – felsőfokú C típusú nyelvvizsga esetében az illetményalap 20%-a, – felsőfokú A vagy B típusú nyelvvizsga esetében az illetményalap 10%-a, – középfokú C típusú nyelvvizsga esetében az illetményalap 10%-a, – középfokú A vagy B típusú nyelvvizsga esetében az illetményalap 5%-a.
-- b) egyéb nyelvből – felsőfokú C típusú nyelvvizsga esetében az illetményalap 11%-a, – felsőfokú A vagy B típusú nyelvvizsga esetében az illetményalap 5%-a, – középfokú C típusú nyelvvizsga esetében az illetményalap 6%-a, – középfokú A vagy B típusú nyelvvizsga esetében az illetményalap 3%-a.
+(8)
 
-(7) A feladatkör szakszerűbb ellátását biztosító tudományos fokozat, valamint a feladatkörön belüli szakosodást elősegítő további szakképesítés, szakképzettség elismeréseként a számvevő részére képzettségi pótlék állapítható meg. Képzettségi pótlék állapítható meg annak a számvevőnek is, aki a besorolásánál figyelembe vett iskolai végzettségénél magasabb szintű szakképesítéssel, szakképzettséggel rendelkezik, feltéve, ha az a munkakör ellátásához szükséges. A képzettségi pótlékra jogosító munkaköröket és képzettségeket a Szervezeti és Működési Szabályzat mellékletében kell feltüntetni.
+(9)
 
-(8) A képzettségi pótlék mértéke:
-
-- a) doktori (PhD) fokozat vagy azzal egyenértékű, vagy ennél magasabb tudományos fokozat esetén az illetményalap 13%-a,
-- b) további felsőfokú iskolai rendszerű képzésben szerzett képesítés esetén az illetményalap 9%-a,
-- c) további akkreditált felsőfokú szakképesítés esetén az illetményalap 7%-a,
-- d) további középfokú szakképesítés esetén az illetményalap 6%-a.
-
-(9) A számvevőt megillető helyettesítési díjra, jubileumi jutalomra, cafetéria-juttatásra, valamint a jelen §-ban nem nevesített jogcímen járó egyéb díj, pótlék vagy juttatás mértékére a közszolgálati tisztviselőkről szóló törvény szabályait kell alkalmazni.
-
-(9a) A számvevő a közszolgálati tisztviselőkről szóló törvény szerinti illetménykiegészítésre nem jogosult.
+(9a)
 
 (10) A számvevő főigazgató és a főtitkár a közigazgatási államtitkárt, a számvevő igazgató a helyettes államtitkárt megillető juttatásokra jogosult.
 
