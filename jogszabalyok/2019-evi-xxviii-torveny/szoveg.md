@@ -28,13 +28,9 @@ az egyes klímapolitikai tárgyú törvények módosításáról
 
 #### 3. A földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény módosítása
 
-10. § A földgáz biztonsági készletezésről szóló 2006. évi XXVI. törvény (a továbbiakban: Fbkt.) 4. §-a a következő (11) bekezdéssel egészül ki:
+10. §
 
-„(11) A földgáz biztonsági készlet tárolásáért fizetett díj nem haladhatja meg a Hivatal által a Get. szerint megállapított földgáztárolási díjat.”
-
-11. § Az Fbkt. 8. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) Az Alapszabályban meghatározott feltételekkel visszaigényelhető a (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató a lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére bevallott.”
+11. §
 
 #### 4. Záró rendelkezések
 
