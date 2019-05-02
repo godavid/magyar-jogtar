@@ -21,7 +21,7 @@ a választási eljárásról szóló 2013. évi XXXVI. törvény módosításár
 59. § Hatályát veszti
 
 - a)
-- b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény 350. § (2) bekezdése,
+- b)
 - c)–f)
 
 60. §
