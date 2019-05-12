@@ -837,7 +837,12 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (4) A szabadalmi bejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési és kutatási díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
 
-(5) Ha a bejelentés mellékletei idegen nyelven készültek, a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és a rajzot a bejelentés napjától számított négy hónapon belül kell benyújtani.
+(5) Ha a szabadalmi bejelentés mellékletei – ide nem értve az angol nyelvet – idegen nyelven készültek, a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és a rajzot a szabadalmi bejelentés napjától számított négy hónapon belül kell benyújtani. Ha a szabadalmi bejelentés mellékletei angol nyelven készültek, a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és a rajzot
+
+- a) a bejelentés napjától számított tizenkét hónapon belül, vagy
+- b) a legkorábbi elsőbbség napjától számított tizenhat hónapon belül
+
+kell benyújtani, a korábban lejáró határidő figyelembevételével.
 
 (6) A bejelentő a közzétételig — a 41. § rendelkezéseinek megfelelő alkalmazásával — visszavonhatja a szabadalmi bejelentést.
 
@@ -955,9 +960,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 65. § A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi bejelentés benyújtását követően megvizsgálja, hogy
 
-- a) a bejelentés megfelel-e a bejelentési nap elismeréséhez előírt feltételeknek (58. §),
-- b) megfizették-e a bejelentési és kutatási díjat [57. § (4) bek.],
-- c) benyújtották-e a magyar nyelvű szabadalmi leírást, kivonatot és rajzot [57. § (5) bek.].
+- a) a bejelentés megfelel-e a bejelentési nap elismeréséhez az 58. §-ban előírt feltételeknek,
+- b) megfizették-e az 57. § (4) bekezdése szerinti bejelentési és kutatási díjat,
+- c) a szabadalmi bejelentés mellékleteként benyújtott leírás, az igénypont, a kivonat és – amennyiben rendelkezésre áll – a rajz magyar nyelven van-e.
 
 66. § (1) Ha a bejelentési nap nem ismerhető el, a bejelentőt fel kell hívni a hiányok két hónapon belül történő pótlására.
 
@@ -985,7 +990,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (11) Ha az elismert bejelentési napnak az (5) bekezdés vagy a (8) bekezdés szerinti módosításáról szóló értesítéstől számított egy hónapon belül a bejelentő visszavonja a hiánypótlásként benyújtott leírásrészt vagy rajzot, azt úgy kell tekinteni, mintha a bejelentés napját nem módosították volna. A bejelentőt erről értesíteni kell.
 
-(12) Ha a bejelentési és kutatási díjat nem fizették meg, illetve a magyar nyelvű szabadalmi leírást, kivonatot és rajzot nem nyújtották be, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a törvény által meghatározott határidőben [57. § (4) és (5) bek.] történő hiánypótlásra. Ennek elmaradása esetén a bejelentést visszavontnak kell tekinteni.
+(12) Ha a bejelentési és kutatási díjat nem fizették meg, illetve a magyar nyelvű szabadalmi leírást igényponttal, kivonatot és rajzot nem nyújtották be, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a törvény által meghatározott határidőben [57. § (4) és (5) bek.] történő hiánypótlásra. Ennek elmaradása esetén a bejelentést visszavontnak kell tekinteni.
 
 67. §
 
@@ -1001,7 +1006,12 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### Újdonságkutatás
 
-69. § (1) Ha a szabadalmi bejelentés megfelel a 65. § alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az igénypontok alapján — figyelemmel a szabadalmi leírásra és a rajzra — újdonságkutatási jelentést készít.
+69. § (1) Ha a szabadalmi bejelentés megfelel a 65. § a) és b) pontjai alapján vizsgált feltételeknek és a bejelentő
+
+- a) benyújtotta a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és – szükség szerint – a rajzot, vagy
+- b) a 69/A. § (13) bekezdése szerinti kérelemmel él,
+
+a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az igénypontok alapján – figyelemmel a szabadalmi leírásra és a rajzra – újdonságkutatási jelentést készít.
 
 (1a) Ha a szabadalmi bejelentés – az összes igénypont vagy egyes igénypontok tekintetében – alkalmatlan arra, hogy vele kapcsolatban megfelelő újdonságkutatást lehessen elvégezni, az újdonságkutatási jelentés csupán az erre való utalást és ennek indokolását tartalmazza. Ha a szabadalmi bejelentés tartalmaz újdonságkutatásra alkalmas igénypontokat is, a Szellemi Tulajdon Nemzeti Hivatala ezekre nézve részleges újdonságkutatási jelentést készít.
 
@@ -1023,7 +1033,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (5) Az írásos véleménnyel kiegészített újdonságkutatási jelentésre irányuló kérelmet el kell utasítani, ha az nem felel meg a (3) bekezdésben foglalt követelménynek.
 
-(6) A Szellemi Tulajdon Nemzeti Hivatala az írásos véleménnyel kiegészített újdonságkutatási jelentést – a (11) bekezdésben foglalt kivétellel – az erre irányuló kérelem benyújtásától számított negyedik hónap utolsó napján rendelkezésre álló leírás és igénypont, valamint rajz alapján készíti el, és azt az írásos véleménnyel kiegészített újdonságkutatási jelentésre irányuló kérelem benyújtásától számított hat hónapon belül küldi meg a bejelentőnek.
+(6) A Szellemi Tulajdon Nemzeti Hivatala az írásos véleménnyel kiegészített újdonságkutatási jelentést – a (11) és (16) bekezdésben foglalt kivételekkel – az erre irányuló kérelem benyújtásától számított negyedik hónap utolsó napján rendelkezésre álló magyar nyelvű leírás és igénypont, valamint rajz alapján készíti el, és azt az írásos véleménnyel kiegészített újdonságkutatási jelentésre irányuló kérelem benyújtásától számított hat hónapon belül küldi meg a bejelentőnek.
 
 (7) A Szellemi Tulajdon Nemzeti Hivatala az írásos véleménnyel kiegészített újdonságkutatási jelentés díját kérelemre visszafizeti, ha
 
@@ -1032,7 +1042,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 - c) az a) pontban megjelölt időtartamon belül bekövetkező okból a bejelentést visszavontnak kell tekinteni,
 - d) az írásos véleménnyel kiegészített újdonságkutatási jelentés postázására nem amiatt került sor a kérelem benyújtásától számított hatodik hónap utolsó napját követően, hogy a Szellemi Tulajdon Nemzeti Hivatala helyt adott a (3) bekezdésben meghatározott határidő elmulasztásával szemben előterjesztett igazolási kérelemnek.
 
-(8) A Szellemi Tulajdon Nemzeti Hivatala a bejelentő kérelmére az írásos véleménnyel kiegészített újdonságkutatási jelentést gyorsítottan készíti el. A gyorsítás iránti kérelmet csak az írásos véleménnyel kiegészített újdonságkutatási jelentésre irányuló kérelemmel együtt lehet benyújtani; ebben az esetben az írásos véleménnyel kiegészített újdonságkutatási jelentés díjának kétszeresét kell megfizetni. Ha a megfizetett díj ennél kevesebb, de az írásos véleménnyel kiegészített újdonságkutatási jelentés díjának összegét eléri, a Szellemi Tulajdon Nemzeti Hivatala a (6) bekezdés alkalmazásával készíti el az írásos véleménnyel kiegészített újdonságkutatási jelentést.
+(8) A Szellemi Tulajdon Nemzeti Hivatala a bejelentő kérelmére az (1) bekezdés szerinti írásos véleménnyel kiegészített újdonságkutatási jelentést gyorsítottan készíti el. A gyorsítás iránti kérelmet csak az írásos véleménnyel kiegészített újdonságkutatási jelentésre irányuló kérelemmel együtt lehet benyújtani; ebben az esetben az írásos véleménnyel kiegészített újdonságkutatási jelentés díjának kétszeresét kell megfizetni. Ha a megfizetett díj ennél kevesebb, de az írásos véleménnyel kiegészített újdonságkutatási jelentés díjának összegét eléri, a Szellemi Tulajdon Nemzeti Hivatala a (6) bekezdés alkalmazásával készíti el az írásos véleménnyel kiegészített újdonságkutatási jelentést.
 
 (9) Ha a szabadalmi bejelentés nem felel meg a 65. § alapján vizsgált feltételeknek, vagy az összes igénypont tekintetében alkalmatlan arra, hogy vele kapcsolatban megfelelő újdonságkutatást lehessen elvégezni, az írásos véleménnyel kiegészített újdonságkutatási jelentés gyorsított elkészítésére irányuló kérelmet a Szellemi Tulajdon Nemzeti Hivatala elutasítja, és a továbbiakban a (6) bekezdés alkalmazásával jár el.
 
@@ -1045,6 +1055,18 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 - a) a megfizetett díjnak az írásos véleménnyel kiegészített újdonságkutatási jelentésért fizetendő díj mértékét meghaladó részét kérelemre visszafizeti, ha az írásos véleménnyel kiegészített újdonságkutatási jelentést – a (8) bekezdés alapján – a (6) bekezdés alkalmazásával készítette el,
 - b) a (8) bekezdés alapján fizetendő díj felét kérelemre visszafizeti, ha az írásos véleménnyel kiegészített újdonságkutatási jelentés postázására nem amiatt került sor a (11) bekezdésben foglalt határidő leteltét követően, hogy helyt adott a (3) bekezdésben meghatározott határidő elmulasztásával szemben előterjesztett igazolási kérelemnek, azzal, hogy a teljes díjat visszafizeti, ha a bejelentő az írásos véleménnyel kiegészített újdonságkutatási jelentés postázását megelőzően előterjesztett visszafizetési kérelmében jelzi, hogy az említett jelentés elkészítésére nem tart igényt,
 - c) a (8) bekezdés alapján fizetendő díj felét kérelemre visszafizeti, ha az írásos véleménnyel kiegészített újdonságkutatási jelentés gyorsított elkészítésére irányuló kérelmet a (9) bekezdésben megjelölt okból elutasítja.
+
+(13) Ha a bejelentő angol nyelvű szabadalmi leírást, igénypontot, kivonatot és rajzot nyújtott be, kérelmére a Szellemi Tulajdon Nemzeti Hivatala az angol nyelvű mellékletek alapján írásos véleménnyel kiegészített újdonságkutatási jelentést készít azzal, hogy ebben az esetben az írásos véleménnyel kiegészített újdonságkutatási jelentés díjának négyszeresét kell megfizetni.
+
+(14) A Szellemi Tulajdon Nemzeti Hivatala a (13) bekezdés szerinti kérelmet elutasítja, a megfizetett díjat pedig kérelemre visszafizeti, ha
+
+- a) a megfizetett díj kevesebb, mint a (13) bekezdésben megjelölt összeg, vagy
+- b) a szabadalmi bejelentés nem felel meg a 65. § a) és b) pontjai alapján vizsgált feltételeknek, vagy
+- c) a szabadalmi bejelentés az összes igénypont tekintetében alkalmatlan arra, hogy vele kapcsolatban megfelelő újdonságkutatást lehessen elvégezni.
+
+(15) Az angol nyelvű mellékletek alapján készített írásos véleménnyel kiegészített újdonságkutatási jelentéssel kapcsolatos eljárásra a (2)–(5) bekezdést, a (7) bekezdés d) pontját, valamint a (10) bekezdést megfelelően alkalmazni kell.
+
+(16) A Szellemi Tulajdon Nemzeti Hivatala az angol nyelvű mellékletek alapján készülő írásos véleménnyel kiegészített újdonságkutatási jelentést a kérelem benyújtásának napján rendelkezésre álló leírás és igénypont, valamint rajz alapján készíti el, és azt a kérelem benyújtásától számított hat hónapon belül küldi meg a bejelentőnek.
 
 ### Közzététel
 
@@ -2396,11 +2418,13 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (7) A 2008. január 1-jét megelőzően megkezdett hasznosításra a szabadalmi oltalom terjedelme tekintetében a korábban hatályos rendelkezéseket kell alkalmazni a hasznosításnak a 2008. január 1-jén meglévő mértékéig.
 
-117/A. § E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 69/A. §-át és 115/S. § (3) bekezdését azokban az ügyekben is alkalmazni kell, amelyekben a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvény hatálybalépését megelőzően hatályos rendelkezések szerint az írásos véleménnyel kiegészített újdonságkutatási jelentés iránti kérelem benyújtására nyitva álló határidő már eltelt.
+117/A. § (1) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 69/A. §-át és 115/S. § (3) bekezdését azokban az ügyekben is alkalmazni kell, amelyekben a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvény hatálybalépését megelőzően hatályos rendelkezések szerint az írásos véleménnyel kiegészített újdonságkutatási jelentés iránti kérelem benyújtására nyitva álló határidő már eltelt.
 
-117/B. § Ha a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+(2) E törvénynek az Európai Unió adatvédelmi reformjának végrehajtása érdekében szükséges törvénymódosításokról szóló 2019. évi XXXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 57. § (5) bekezdését, 65. §-át, 66. § (12) bekezdését, 69. § (1) bekezdését, 69/A. § (6), (8) és (13)–(16) bekezdését a Módtv. hatálybalépésének napja vagy annál későbbi bejelentési nappal rendelkező szabadalmi bejelentések tekintetében kell alkalmazni.
 
-117/C. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+117/B. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.–Kp. Módtv.) megállapított rendelkezéseit az Ákr.–Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+117/C. §
 
 ### A korai fázisú vállalkozások és a korai fázisú vállalkozásokat támogató vállalkozások nyilvántartásba vétel iránti eljárására vonatkozó közös szabályok
 

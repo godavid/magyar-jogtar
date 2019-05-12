@@ -15,7 +15,7 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 
 2. § (1) Az akkreditáló szerv akkreditálással kapcsolatos feladatai:
 
-- a) akkreditálási eljárás lefolytatása, az akkreditált szervezetek és természetes személyek tevékenységének és alkalmasságának felügyeleti vizsgálata az akkreditált státusz fenntartása, felfüggesztése vagy visszavonása céljából, valamint a külföldi akkreditált státusz elismerése,
+- a) akkreditálási eljárás lefolytatása, az akkreditált szervezetek és akkreditált természetes személyek tevékenységének és alkalmasságának felügyeleti vizsgálata az akkreditált státusz fenntartása, felfüggesztése vagy visszavonása céljából, valamint a külföldi akkreditált státusz elismerése,
 - b) részvétel és képviselet az európai és a nemzetközi akkreditálási szervezetekben,
 - c) két- és többoldalú együttműködési és kölcsönös elismerési megállapodások kezdeményezése és megkötése az akkreditálás területén,
 - d) közreműködés az akkreditálással összefüggő nemzeti, európai és nemzetközi szabványosítási tevékenységben,
@@ -27,7 +27,7 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 
 #### 3. Az akkreditálási eljárás
 
-3. § (1) Az akkreditálási eljárásra, a felügyeleti vizsgálati eljárásra, az akkreditálási szervezet, illetve természetes személy akkreditált tevékenységével kapcsolatos panasz intézésére az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezéseit az e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
+3. § (1) Az akkreditálási eljárásra, a felügyeleti vizsgálati eljárásra, az akkreditált szervezet, illetve akkreditált természetes személy akkreditált tevékenységével kapcsolatos panasz intézésére az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezéseit az e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
 
 (2) Az akkreditáló szerv tevékenységével szemben közigazgatási per indításának van helye.
 
@@ -46,7 +46,7 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 - b) mintavevő szervezet,
 - c) kalibrálólaboratórium,
 - d) jártassági vizsgálatot szervező szervezet,
-- e) terméktanúsító szervezet,
+- e) terméket, folyamatot, szolgáltatást tanúsító szervezet,
 - f) irányítási rendszereket tanúsító szervezet,
 - g) személytanúsító szervezet,
 - h) ellenőrző szervezet, a hatóságok kivételével,
@@ -89,17 +89,19 @@ nyújthat be az akkreditáló szervhez.
 
 (2) A Nemzeti Adatvédelmi és Információszabadság Hatóság mint szakhatóság eljárásáért az igazgatási szolgáltatási díjat az adatvédelmi tanúsító szervezet akkreditálási eljárásában, az akkreditált státusz területének bővítési eljárásában és a kérelemre indult felügyeleti vizsgálati eljárásban fizetett igazgatási szolgáltatási díj részeként, azzal együtt kell megfizetni.
 
-#### 4. Az akkreditált szervezet és természetes személy felügyeleti vizsgálata
+(3) Külföldi országokból benyújtott akkreditálási kérelmekre indított akkreditálási eljárásért, a felügyeleti vizsgálati eljárásért, a rendkívüli felügyeleti vizsgálati eljárásért, illetve az akkreditált státusz területének bővítési eljárásáért az Európai Akkreditálási Együttműködés határon átnyúló akkreditálási eljárásokban való közreműködésért, valamint a külföldi telephelyen végzett akkreditálási tevékenységért az akkreditáló szerv belső szabályzatban egyedi díjszabást állapíthat meg. Az egyedi díjszabásra vonatkozó szabályzatot a Nemzeti Akkreditáló Hatóság köteles évente felülvizsgálni.
 
-8. § (1) Az akkreditált státusz alapjául szolgáló körülmények fennállását, valamint az akkreditált szervezet, illetve természetes személy alkalmasságát felügyeleti vizsgálat keretében, indokolt esetben rendkívüli felügyeleti vizsgálat keretében ellenőrizni kell.
+#### 4. Az akkreditált szervezet és akkreditált természetes személy felügyeleti vizsgálata
 
-(2) A felügyeleti vizsgálat az akkreditált szervezet vagy természetes személy kérelmére indul. Rendkívüli felügyeleti vizsgálatra panaszbejelentés, az akkreditálás alapjául szolgáló körülmények megváltozása, valamint – az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezetek esetében – a 600/2012/EU bizottsági rendelet 51. cikke szerint kerülhet sor. A rendkívüli felügyeleti vizsgálatra a felügyeleti vizsgálatra vonatkozó szabályokat kell alkalmazni.
+8. § (1) Az akkreditált státusz alapjául szolgáló körülmények fennállását, valamint az akkreditált szervezet, illetve akkreditált természetes személy alkalmasságát felügyeleti vizsgálat keretében, indokolt esetben rendkívüli felügyeleti vizsgálat keretében ellenőrizni kell.
+
+(2) A felügyeleti vizsgálat az akkreditált szervezet vagy akkreditált természetes személy kérelmére indul. Rendkívüli felügyeleti vizsgálatra panaszbejelentés, az akkreditálás alapjául szolgáló körülmények megváltozása, valamint – az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezetek esetében – a 600/2012/EU bizottsági rendelet 51. cikke szerint kerülhet sor. A rendkívüli felügyeleti vizsgálatra a felügyeleti vizsgálatra vonatkozó szabályokat kell alkalmazni.
 
 (3) A rendkívüli felügyeleti vizsgálat hivatalból indul.
 
 (3a) A kérelemre indult felügyeleti vizsgálati eljárásban a Nemzeti Adatvédelmi és Információszabadság Hatóság szakhatóságként való bevonására a 6. § (2a) és (5a) bekezdését kell alkalmazni.
 
-(4) Az akkreditált szervezet az első felügyeleti vizsgálat iránti kérelmet az akkreditált státusz első megadásától számított egy éven belül, azt követően legfeljebb kétévente köteles benyújtani úgy, hogy a helyszíni szemlék között két évnél hosszabb idő nem telhet el.
+(4) Az akkreditált szervezet vagy akkreditált természetes személy az első felügyeleti vizsgálati eljárás iránti kérelmet az akkreditált státusz első megadásától számított egy éven belül, azt követően legfeljebb kétévente köteles benyújtani úgy, hogy a helyszíni szemlék között két évnél hosszabb idő nem telhet el.
 
 (5) Az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet az akkreditált státusz megadásától számított egy éven belül, azt követően legfeljebb évente nyújtja be a felügyeleti vizsgálat iránti kérelmet.
 
@@ -115,46 +117,46 @@ nyújthat be az akkreditáló szervhez.
 
 (9) A felügyeleti vizsgálat végleges lezárásáig az akkreditált státusz érvényes.
 
-(10) Ha az akkreditáló szerv az akkreditált státuszt részlegesen vagy teljeskörűen felfüggeszti, részlegesen vagy teljeskörűen visszavonja, vagy az akkreditált szervezet vagy természetes személy kérelmére az akkreditált területet szűkíti, erről a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott, feladatkörrel rendelkező kijelölő hatóságot értesíti. A felügyeleti vizsgálat, illetve a rendkívüli felügyeleti vizsgálat eredményeit az akkreditáló szerv a feladatkörrel rendelkező kijelölő hatóságnak megküldi.
+(10) Ha az akkreditáló szerv az akkreditált státuszt részlegesen vagy teljeskörűen felfüggeszti, részlegesen vagy teljeskörűen visszavonja, vagy az akkreditált szervezet vagy akkreditált természetes személy kérelmére az akkreditált területet szűkíti, erről a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott, feladatkörrel rendelkező kijelölő hatóságot értesíti. A felügyeleti vizsgálat, illetve a rendkívüli felügyeleti vizsgálat eredményeit az akkreditáló szerv a feladatkörrel rendelkező kijelölő hatóságnak megküldi.
 
 (11) Az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet akkreditált státuszának időtartama alatt az akkreditáló szerv a felügyeleti vizsgálatok során – a bűnügyi nyilvántartó szerv bevonásával – ellenőrzi, hogy a hitelesítő szervezet vezető tisztségviselője, munkavállalóként vagy egyéb foglalkoztatásra irányuló jogviszony keretében foglalkoztatott hitelesítő szakértője (a továbbiakban: hitelesítő szakértő), vezető hitelesítő szakértője büntetlen előéletű-e, nem áll-e a hitelesítési vagy hitelesítői szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A felügyeleti vizsgálat lefolytatása céljából az akkreditáló szerv adatot kér annak igazolására, hogy a vezető tisztségviselő vagy a hitelesítő szakértőként, vezető hitelesítő szakértőként foglalkoztatott személy büntetlen előéletű és nem áll a hitelesítési vagy hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A bűnügyi nyilvántartó szervtől kapott adatot az akkreditáló szerv addig kezelheti, amíg az érintett személy a hitelesítő szervezettel vezető tisztségviselői, munkavállalói vagy egyéb foglalkoztatásra irányuló jogviszonyban áll.
 
 (12) A (11) bekezdés szerinti adatkérés céljából az akkreditált szervezet az akkreditáló szerv rendelkezésére bocsátja a vezető tisztségviselő, a hitelesítő szakértő és a vezető hitelesítő szakértő a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 69. § (2) bekezdés a) pontja szerinti adatait. Az adatokat az akkreditáló szerv addig kezelheti, amíg az akkreditált hitelesítő szervezet szerepel a 12. § szerinti nyilvántartásban.
 
-9. § (1) Az akkreditáló szerv az akkreditált szervezet vagy természetes személy akkreditált státuszát részlegesen vagy teljes körűen felfüggeszti, ha
+9. § (1) Az akkreditáló szerv az akkreditált szervezet vagy akkreditált természetes személy akkreditált státuszát részlegesen vagy teljes körűen felfüggeszti, ha
 
-- a) az akkreditált szervezet vagy természetes személy tevékenységével kapcsolatban megalapozott kifogás merül fel, de annak súlyossága a vonatkozó európai, illetve nemzetközi szabványok szerint nem indokolja az akkreditált státusz visszavonását,
-- b) az akkreditált szervezet vagy természetes személy a felügyeleti vizsgálathoz szükséges dokumentumokat határidőben nem bocsátja az akkreditáló szerv rendelkezésére,
+- a) az akkreditált szervezet vagy akkreditált természetes személy tevékenységével kapcsolatban megalapozott kifogás merül fel, de annak súlyossága a vonatkozó európai, illetve nemzetközi szabványok szerint nem indokolja az akkreditált státusz visszavonását,
+- b) az akkreditált szervezet vagy akkreditált természetes személy a felügyeleti vizsgálathoz szükséges dokumentumokat határidőben nem bocsátja az akkreditáló szerv rendelkezésére,
 - c) a felügyeleti vizsgálat felfüggesztést indokoló eredménnyel zárul,
-- d) az akkreditált szervezet vagy természetes személy a felfüggesztést maga kéri,
+- d) az akkreditált szervezet vagy akkreditált természetes személy a felfüggesztést maga kéri,
 - e) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet vonatkozásában a 600/2012/EU bizottsági rendelet 53. cikk (2) bekezdésében meghatározott körülmények fennállnak, vagy ha a 8. § (12) bekezdése szerinti adatszolgáltatás alapján megállapítható, hogy a hitelesítő szervezet vezető tisztségviselője, hitelesítő szakértőként, vezető hitelesítő szakértőként foglalkoztatottja büntetett előéletű vagy a hitelesítési vagy hitelesítő szakértői tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll.
 
-(2) Az akkreditáló szerv az akkreditált szervezet vagy természetes személy akkreditált státuszát részlegesen vagy teljeskörűen felfüggesztheti, ha az akkreditált szervezet vagy természetes személy a jelentős változás bejelentését elmulasztja. Jelentős változásnak minősül:
+(2) Az akkreditáló szerv az akkreditált szervezet vagy akkreditált természetes személy akkreditált státuszát részlegesen vagy teljeskörűen felfüggesztheti, ha az akkreditált szervezet vagy akkreditált természetes személy a jelentős változás bejelentését elmulasztja. Jelentős változásnak minősül:
 
 - a) az akkreditált szervezet jogi, tulajdonosi vagy szervezeti formájában, felépítésében, vezetésében,
 - b) az akkreditált tevékenységet ellátó személyek létszámában, fél éven belül, 30%-ot elérő vagy meghaladó mértékben,
 - c) az akkreditált szervezeti egység vezetőjének, minőségirányítási vezetőjének vagy olyan munkatársának személyében, aki az adott akkreditálási tevékenységet kizárólagosan végezte,
 - d) az akkreditált szervezet székhelyében, telephelyében, az akkreditált természetes személy lakcímében,
 - e) az akkreditált területben, valamint
-- f) egyéb, az akkreditált szervezet vagy természetes személy akkreditált státuszára számottevő hatással bíró, a tevékenységére vonatkozó jogszabályokban, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusaiban, nemzeti szabványként közzétett európai és nemzetközi szabványokban és a rá vonatkozó szakmai szabályokban foglalt lényeges követelményeknek való megfelelésben
+- f) egyéb, az akkreditált szervezet vagy akkreditált természetes személy akkreditált státuszára számottevő hatással bíró, a tevékenységére vonatkozó jogszabályokban, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusaiban, nemzeti szabványként közzétett európai és nemzetközi szabványokban és a rá vonatkozó szakmai szabályokban foglalt lényeges követelményeknek való megfelelésben
 
 bekövetkezett változás.
 
 (2a) Az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott változásbejelentési kötelezettség azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az akkreditált szervezet vagy az akkreditált státuszú természetes személy kéri – az ott meghatározott határidőben értesíti az akkreditáló szervet.
 
-(3) Az akkreditáló szerv az akkreditált szervezet vagy természetes személy akkreditált státuszát részlegesen vagy teljes körűen felfüggesztheti, ha a felügyeleti vizsgálat során megállapítja, hogy az akkreditált státusz alapjául szolgáló körülményekben olyan változás következett be, amelynek következtében az akkreditálás alapvető követelményei csak részben teljesülnek.
+(3) Az akkreditáló szerv az akkreditált szervezet vagy akkreditált természetes személy akkreditált státuszát részlegesen vagy teljes körűen felfüggesztheti, ha a felügyeleti vizsgálat során megállapítja, hogy az akkreditált státusz alapjául szolgáló körülményekben olyan változás következett be, amelynek következtében az akkreditálás alapvető követelményei csak részben teljesülnek.
 
-(4) Az akkreditáló szerv a felfüggesztő határozatban a felfüggesztés megszüntetésének feltételeiről és a feltételek teljesítésének határidejéről is dönt. Ha az akkreditált szervezet vagy természetes személy az előírt feltételeknek határidőben eleget tesz, az akkreditáló szerv a felfüggesztő határozatot visszavonja.
+(4) Az akkreditáló szerv a felfüggesztő határozatban a felfüggesztés megszüntetésének feltételeiről és a feltételek teljesítésének határidejéről is dönt. Ha az akkreditált szervezet vagy akkreditált természetes személy az előírt feltételeknek határidőben eleget tesz, az akkreditáló szerv a felfüggesztő határozatot visszavonja.
 
-10. § Az akkreditáló szerv az akkreditált szervezet vagy természetes személy akkreditált státuszát részlegesen vagy teljes körűen visszavonja, ha
+10. § Az akkreditáló szerv az akkreditált szervezet vagy akkreditált természetes személy akkreditált státuszát részlegesen vagy teljes körűen visszavonja, ha
 
-- a) az akkreditált szervezet vagy természetes személy tevékenységével kapcsolatban megalapozottan, a vonatkozó európai, illetve nemzetközi szabványok szerinti súlyos kifogás merül fel,
-- b) az akkreditált szervezet vagy természetes személy az esedékes felügyeleti vizsgálatot nem teszi lehetővé vagy akadályozza,
+- a) az akkreditált szervezet vagy akkreditált természetes személy tevékenységével kapcsolatban megalapozottan, a vonatkozó európai, illetve nemzetközi szabványok szerinti súlyos kifogás merül fel,
+- b) az akkreditált szervezet vagy akkreditált természetes személy az esedékes felügyeleti vizsgálatot nem teszi lehetővé vagy akadályozza,
 - c) az akkreditálás alapjául szolgáló körülményekben olyan változás következett be, amelynek következtében az akkreditálás alapvető követelményei nem teljesülnek,
-- d) az akkreditált szervezet vagy természetes személy akkreditált státuszát felfüggesztették és a felfüggesztés megszüntetése feltételeinek határidőben nem tett eleget,
+- d) az akkreditált szervezet vagy akkreditált természetes személy akkreditált státuszát felfüggesztették és a felfüggesztés megszüntetése feltételeinek határidőben nem tett eleget,
 - e) az akkreditált szervezet jogutód nélkül megszűnik, illetve az akkreditált természetes személy meghal,
-- f) az akkreditált státusz visszavonását a szervezet vagy természetes személy maga kéri,
-- g) az akkreditált szervezet vagy természetes személy az akkreditáló szerv értesítését követő 2 hónapon belül nem kérelmezi felügyeleti vizsgálatát,
+- f) az akkreditált státusz visszavonását a szervezet vagy akkreditált szervezet vagy az akkreditált természetes személy maga kéri,
+- g) az akkreditált szervezet vagy akkreditált természetes személy az akkreditáló szerv értesítését követő 2 hónapon belül nem kérelmezi felügyeleti vizsgálatát,
 - h) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet a 600/2012/EU bizottsági rendelet 53. cikk (3) bekezdésében meghatározottak szerint járt el.
 
 #### 5. A külföldi akkreditált státusz elismerése
@@ -170,13 +172,13 @@ bekövetkezett változás.
 
 (3) A (2) bekezdés a) és b) pontja szerinti nemzeti akkreditáló testület által lefolytatott akkreditálási eljárás és odaítélt akkreditált státusz tekintetében az egyenértékűség hatóságok általi elismeréséhez nincs szükség az e § szerinti eljárás lefolytatására.
 
-#### 6. Az akkreditált szervezetek és természetes személyek nyilvántartása
+#### 6. Az akkreditált szervezetek és akkreditált természetes személyek nyilvántartása
 
-12. § (1) Az akkreditáló szerv nyilvántartást vezet az akkreditált szervezetekről és természetes személyekről, amely tartalmazza
+12. § (1) Az akkreditáló szerv nyilvántartást vezet az akkreditált szervezetekről és akkreditált természetes személyekről, amely tartalmazza
 
-- a) az akkreditált szervezetek és természetes személyek nyilvántartási számát,
-- b) az akkreditált szervezetek, szervezeti egységek cégnevét és természetes személyek nevét,
-- c) az akkreditált szervezetek, szervezeti egységek székhelyét, telephelyeit és természetes személyek lakóhelyét,
+- a) az akkreditált szervezetek és akkreditált természetes személyek nyilvántartási számát,
+- b) az akkreditált szervezetek, szervezeti egységek cégnevét és akkreditált természetes személyek nevét,
+- c) az akkreditált szervezetek, szervezeti egységek székhelyét, telephelyeit és akkreditált természetes személyek lakóhelyét,
 - d) az akkreditált tevékenységet és tevékenységi területet,
 - e) az akkreditált státusz kezdeti és lejárati időpontját,
 - f) az akkreditált státusz részleges vagy teljes felfüggesztésére, részleges vagy teljes körű visszavonására vonatkozó információkat,
@@ -229,7 +231,7 @@ igazgatási szolgáltatási díj mértékét, a díjak beszedésével, megosztá
 
 (7) Az akkreditáló szerv 2016. január 31-ig gondoskodik a Nemzeti Akkreditáló Testület – 2015. december 31. napjára, mint mérlegfordulónapra vonatkozó, a számvitelről szóló 2000. évi C. törvény szerinti – tevékenységet lezáró számviteli beszámolójának elkészítéséről, könyvvizsgálatáról, letétbe helyezéséről és közzétételéről, valamint a záró adóbevallások elkészítéséről és azok illetékes adóhatóságnak történő benyújtásáról.
 
-(8) A Nemzeti Akkreditáló Testület köteles együttműködni az iparügyekért felelős miniszterrel, és a feladat ellátásával összefüggő adatokat, iratokat, valamint az akkreditált szervezetekről és természetes személyekről vezetett nyilvántartást 2015. december 31-éig az iparügyekért felelős miniszter által kijelölt személy rendelkezésére bocsátani.
+(8) A Nemzeti Akkreditáló Testület köteles együttműködni az iparügyekért felelős miniszterrel, és a feladat ellátásával összefüggő adatokat, iratokat, valamint az akkreditált szervezetekről és akkreditált természetes személyekről vezetett nyilvántartást 2015. december 31-éig az iparügyekért felelős miniszter által kijelölt személy rendelkezésére bocsátani.
 
 (9) A 2016. január 1-jén folyamatban lévő peres és nemperes eljárásokban a Nemzeti Akkreditáló Testület helyébe az akkreditáló szerv lép.
 
