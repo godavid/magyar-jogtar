@@ -39,72 +39,14 @@ az Európai Unió adatvédelmi reformjának végrehajtása érdekében szükség
 
 #### 8. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-16. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény (a továbbiakban: Szt.) 57. § (5) bekezdése helyébe a következő rendelkezés lép:
+16–21. §
 
-„(5) Ha a szabadalmi bejelentés mellékletei – ide nem értve az angol nyelvet – idegen nyelven készültek, a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és a rajzot a szabadalmi bejelentés napjától számított négy hónapon belül kell benyújtani. Ha a szabadalmi bejelentés mellékletei angol nyelven készültek, a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és a rajzot
+22. §
 
-a) a bejelentés napjától számított tizenkét hónapon belül, vagy
+- 1.
+- 2–4.
 
-b) a legkorábbi elsőbbség napjától számított tizenhat hónapon belül
-
-kell benyújtani, a korábban lejáró határidő figyelembevételével.”
-
-17. § Az Szt. 65. §-a helyébe a következő rendelkezés lép:
-
-„65. § A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi bejelentés benyújtását követően megvizsgálja, hogy
-
-a) a bejelentés megfelel-e a bejelentési nap elismeréséhez az 58. §-ban előírt feltételeknek,
-
-b) megfizették-e az 57. § (4) bekezdése szerinti bejelentési és kutatási díjat,
-
-c) a szabadalmi bejelentés mellékleteként benyújtott leírás, az igénypont, a kivonat és – amennyiben rendelkezésre áll – a rajz magyar nyelven van-e.”
-
-18. § Az Szt. 69. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a szabadalmi bejelentés megfelel a 65. § a) és b) pontjai alapján vizsgált feltételeknek és a bejelentő
-
-a) benyújtotta a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és – szükség szerint – a rajzot, vagy
-
-b) a 69/A. § (13) bekezdése szerinti kérelemmel él,
-
-a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az igénypontok alapján – figyelemmel a szabadalmi leírásra és a rajzra – újdonságkutatási jelentést készít.”
-
-19. § Az Szt. 69/A. §-a a következő (13)–(16) bekezdéssel egészül ki:
-
-„(13) Ha a bejelentő angol nyelvű szabadalmi leírást, igénypontot, kivonatot és rajzot nyújtott be, kérelmére a Szellemi Tulajdon Nemzeti Hivatala az angol nyelvű mellékletek alapján írásos véleménnyel kiegészített újdonságkutatási jelentést készít azzal, hogy ebben az esetben az írásos véleménnyel kiegészített újdonságkutatási jelentés díjának négyszeresét kell megfizetni.
-
-(14) A Szellemi Tulajdon Nemzeti Hivatala a (13) bekezdés szerinti kérelmet elutasítja, a megfizetett díjat pedig kérelemre visszafizeti, ha
-
-a) a megfizetett díj kevesebb, mint a (13) bekezdésben megjelölt összeg, vagy
-
-b) a szabadalmi bejelentés nem felel meg a 65. § a) és b) pontjai alapján vizsgált feltételeknek, vagy
-
-c) a szabadalmi bejelentés az összes igénypont tekintetében alkalmatlan arra, hogy vele kapcsolatban megfelelő újdonságkutatást lehessen elvégezni.
-
-(15) Az angol nyelvű mellékletek alapján készített írásos véleménnyel kiegészített újdonságkutatási jelentéssel kapcsolatos eljárásra a (2)–(5) bekezdést, a (7) bekezdés d) pontját, valamint a (10) bekezdést megfelelően alkalmazni kell.
-
-(16) A Szellemi Tulajdon Nemzeti Hivatala az angol nyelvű mellékletek alapján készülő írásos véleménnyel kiegészített újdonságkutatási jelentést a kérelem benyújtásának napján rendelkezésre álló leírás és igénypont, valamint rajz alapján készíti el, és azt a kérelem benyújtásától számított hat hónapon belül küldi meg a bejelentőnek.”
-
-20. § Az Szt. 117/A. §-a helyébe a következő rendelkezés lép:
-
-„117/A. § (1) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 69/A. §-át és 115/S. § (3) bekezdését azokban az ügyekben is alkalmazni kell, amelyekben a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvény hatálybalépését megelőzően hatályos rendelkezések szerint az írásos véleménnyel kiegészített újdonságkutatási jelentés iránti kérelem benyújtására nyitva álló határidő már eltelt.
-
-(2) E törvénynek az Európai Unió adatvédelmi reformjának végrehajtása érdekében szükséges törvénymódosításokról szóló 2019. évi XXXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 57. § (5) bekezdését, 65. §-át, 66. § (12) bekezdését, 69. § (1) bekezdését, 69/A. § (6), (8) és (13)–(16) bekezdését a Módtv. hatálybalépésének napja vagy annál későbbi bejelentési nappal rendelkező szabadalmi bejelentések tekintetében kell alkalmazni.”
-
-21. § Az Szt. 117/B. §-a helyébe a következő rendelkezés lép:
-
-„117/B. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.–Kp. Módtv.) megállapított rendelkezéseit az Ákr.–Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.”
-
-22. § Az Szt.
-
-- 1. 52. § (2) bekezdésében a „Hitelesített fordítás benyújtása” szövegrész helyébe a „Hitelesített fordítás vagy felülhitelesített okirat benyújtása” szöveg,
-- 2. 66. § (12) bekezdésében a „leírást” szövegrész helyébe a „leírást igényponttal” szöveg,
-- 3. 69/A. § (6) bekezdésében a „(11) bekezdésben foglalt kivétellel” szövegrész helyébe a „(11) és (16) bekezdésben foglalt kivételekkel” szöveg, a „leírás” szövegrész helyébe a „magyar nyelvű leírás” szöveg,
-- 4. 69/A. § (8) bekezdésében a „kérelmére az írásos véleménnyel kiegészített újdonságkutatási jelentést” szövegrész helyébe a „kérelmére az (1) bekezdés szerinti írásos véleménnyel kiegészített újdonságkutatási jelentést” szöveg
-
-lép.
-
-23. § Hatályát veszti az Szt.-nek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvény 77. § (3) bekezdésével megállapított 117/C. §-a.
+23. §
 
 #### 9. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
@@ -389,32 +331,7 @@ lép.
 
 #### 77. A nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény módosítása
 
-145. § (1) A nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény (a továbbiakban: Natv.) 5. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Akkreditálás iránti kérelmet)
-
-„e) terméket, folyamatot, szolgáltatást tanúsító szervezet,”
-
-(nyújthat be az akkreditáló szervhez.)
-
-(2) A Natv. 7. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Külföldi országokból benyújtott akkreditálási kérelmekre indított akkreditálási eljárásért, a felügyeleti vizsgálati eljárásért, a rendkívüli felügyeleti vizsgálati eljárásért, illetve az akkreditált státusz területének bővítési eljárásáért az Európai Akkreditálási Együttműködés határon átnyúló akkreditálási eljárásokban való közreműködésért, valamint a külföldi telephelyen végzett akkreditálási tevékenységért az akkreditáló szerv belső szabályzatban egyedi díjszabást állapíthat meg. Az egyedi díjszabásra vonatkozó szabályzatot a Nemzeti Akkreditáló Hatóság köteles évente felülvizsgálni.”
-
-(3) A Natv. 8. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az akkreditált szervezet vagy akkreditált természetes személy az első felügyeleti vizsgálati eljárás iránti kérelmet az akkreditált státusz első megadásától számított egy éven belül, azt követően legfeljebb kétévente köteles benyújtani úgy, hogy a helyszíni szemlék között két évnél hosszabb idő nem telhet el.”
-
-146. § A Natv.
-
-- a) 3. § (1) bekezdésében az „akkreditálási szervezet, illetve természetes személy” szövegrész helyébe az „akkreditált szervezet, illetve akkreditált természetes személy” szöveg,
-- b) 4. alcímének címében, 8. § (1), (2) és (10) bekezdésében, 9. § (1) bekezdés nyitó szövegrészében, 9. § (1) bekezdés a), b) és d) pontjában, 9. § (2) bekezdés f) pontjában, 9. § (3) és (4) bekezdésében, 10. § nyitó szövegrészében, 10. § a), b), d) és g) pontjában a „természetes személy” szövegrész helyébe az „akkreditált természetes személy” szöveg,
-- c) 2. § (1) bekezdés a) pontjában, 6. alcímének címében, 12. § (1) bekezdés a), b) és c) pontjában a „természetes személyek” szövegrész helyébe az „akkreditált természetes személyek” szöveg,
-- d) 9. § (2) bekezdésében a „természetes személy” szövegrészek helyébe az „akkreditált természetes személy” szöveg,
-- e) 10. § f) pontjában a „szervezet vagy természetes” szövegrész helyébe az „akkreditált szervezet vagy az akkreditált természetes” szöveg,
-- f) 12. § (1) bekezdés nyitó szövegrészében, a 16. § (8) bekezdésében a „természetes személyekről” szövegrész helyébe az „akkreditált természetes személyekről” szöveg
-
-lép.
+145–146. §
 
 #### 78. Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló2015. évi CLXXXVIII. törvény módosítása
 
