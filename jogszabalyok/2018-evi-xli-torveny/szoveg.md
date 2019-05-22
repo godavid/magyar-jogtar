@@ -381,7 +381,7 @@ szöveg lép.
 95. § Az Áfa tv. 8/A. számú melléklete a 17. melléklet szerinti
 
 - a)
-- b)
+- b) 2. pontja szerinti 5. ponttal
 
 egészül ki.
 
@@ -1031,7 +1031,15 @@ történő megfelelést szolgálja.
 ### 17. melléklet a 2018. évi XLI. törvényhez
 
 - 1.
-- 2.
+- 2. Az Áfa tv. 8/A. számú melléklete a következő 5. ponttal egészül ki:
+
+„5. Török Köztársaság
+
+A Török Köztársaságban gazdasági céllal letelepedett adóalanyt az adó-visszatéríttetési jog a XVIII. Fejezet egyéb rendelkezéseinek sérelme nélkül az alábbi termékértékesítés, szolgáltatásnyújtás tekintetében illeti meg:
+
+a) termékfuvarozási vagy személyszállítási szolgáltatás nyújtása érdekében beszerzett üzemanyag, igénybevett úthasználati szolgáltatás, a gépjármű működtetéséhez, üzemben tartásához beszerzett termék vagy igénybevett szolgáltatás;
+
+b) kiállításon, vásáron kiállítóként való megjelenés érdekében beszerzett termék, igénybevett szolgáltatás.”
 
 ### 18. melléklet a 2018. évi XLI. törvényhez
 
