@@ -1586,6 +1586,32 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 (5) A Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége, az adózók ellenőrzésre történő kiválasztása céljából – egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel vagy megkeresés útján – jogosult átvenni a gépjármű-nyilvántartásból a jármű-azonosító adatokat, a természetes személy üzemben tartó személyes adatait és a nem természetes személy üzemben tartó azonosításához szükséges adatokat, az arra vonatkozó adatot, hogy ellenőrzés alá vont jármű a díjköteles útszakaszok térítésmentes használatára jogosultak nyilvántartásában szerepel, valamint a közút kezelője vagy az általa megbízott közreműködő, továbbá a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti ellenőrzésére jogosult hatóság, valamint a külön jogszabály szerinti útdíjszedő által kezelt, a jármű tömegére, tengelyterhelésére, valamint méretére vonatkozó adatokat a mérés időpontjával, helyszínével és a jármű forgalmi rendszámával együtt. Az állami adó- és vámhatóság a feladatai ellátásához átvett adatokat 7 évig kezelheti.
 
+33/D. § (1) A közút kezelője jogszabályban meghatározott feladatai ellátása érdekében elektronikus megfigyelő rendszert működtet és a megfigyelés során kép-, hang-, valamint kép- és hangfelvételt (a továbbiakban e § alkalmazásában: felvétel) készít.
+
+(2) Az elektronikus megfigyelő rendszer által megfigyelt területre belépő személyek tájékoztatását elősegítő módon figyelemfelhívó jelzést, ismertetést kell elhelyezni azok elhelyezéséről, az adatkezelés tényéről.
+
+(3) A közút kezelője jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A közút kezelője a felvételt – amennyiben annak technikai és jogszabályi feltételei adottak – a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.
+
+(4) A felvétel
+
+- a) a közút kezelője részére jogszabályban meghatározott feladatok ellátása céljából,
+- b) elkövetett bűncselekmény, szabályszegés vagy szabálysértés, továbbá rendkívüli haláleset miatt indult eljárásban,
+- c) a terrorcselekmények vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
+- d) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
+- e) a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából,
+- f) körözött személy vagy tárgy azonosítása érdekében,
+- g) a felvételen szereplő személy által, jogainak gyakorlása érdekében kezdeményezett eljárásban
+
+használható fel.
+
+(5) A felvételt felhasználás hiányában a rögzítéstől számított 30 nap elteltével törölni kell.
+
+(6) Akinek jogát vagy jogos érdekét a felvétel érinti, a rögzítéstől számított 30 napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy a felvételt a közút kezelője ne semmisítse meg vagy ne törölje.
+
+(7) A rögzített felvételt a közút kezelője a (4) bekezdésben meghatározott felhasználási célból az eljárásra jogosult szerv, hatóság, illetve büntetőeljárásban a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv megkeresésére vagy adatkérésére továbbítja. Ha a megkeresésre attól számított 72 órán belül, hogy a megsemmisítés vagy törlés mellőzését a (6) bekezdés alapján kérték, nem kerül sor és az (5) bekezdésben meghatározott határidő letelt, a felvételt törölni kell.
+
+(8) A közút kezelője a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
+
 33/E. § Az intelligens közlekedési rendszerek üzemeltetésével és a Nemzeti Hozzáférési Pont működtetésével kapcsolatos követelmények teljesítésének értékelését a miniszter Nemzeti Szervként látja el.
 
 34. § (1) A közút kezelője – az országos és a helyi közutak kezeléséről szóló jogszabályok szerint eljárva – köteles gondoskodni arról, hogy a közút a biztonságos közlekedésre alkalmas, közvetlen környezete esztétikus és kulturált legyen.
@@ -1811,7 +1837,7 @@ olyan elektronikus ellenőrzési rendszer működtetésére is jogosultak, amely
 
 46. § (1) A közút kezelőjén a helyi közutak tekintetében
 
-- a) 3. § (2) bekezdésében, 7. § (3) bekezdésében, 9/D. § (1) bekezdésében, 12. § (5) bekezdésében, 14. § (1) bekezdés a) pontjában, 15. § (1) bekezdésében, 29. § (4) és (9) bekezdésében, 29/B. § (2) bekezdésének a) pontjában, 33. § (2) bekezdésében, 34–35. §-ban, 36. § (1), (3) és (4) bekezdésében, 37. § (2) és (3) bekezdésében, 41. §-ban, 42. § (3) bekezdésében, 42/A. § (1) és (2) bekezdésében, 43. § (1) bekezdésében és a 45. § (1) bekezdésében a helyi önkormányzat képviselő-testületét;
+- a) 3. § (2) bekezdésében, 7. § (3) bekezdésében, 9/D. § (1) bekezdésében, 12. § (5) bekezdésében, 14. § (1) bekezdés a) pontjában, 15. § (1) bekezdésében, 29. § (4) és (9) bekezdésében, 29/B. § (2) bekezdésének a) pontjában, 33. § (2) bekezdésében, 33/D–35. §-ban, 36. § (1), (3) és (4) bekezdésében, 37. § (2) és (3) bekezdésében, 41. §-ban, 42. § (3) bekezdésében, 42/A. § (1) és (2) bekezdésében, 43. § (1) bekezdésében és a 45. § (1) bekezdésében a helyi önkormányzat képviselő-testületét;
 - b) Budapest Főváros Önkormányzata esetében az a) pontban foglaltaktól eltérően a fővárosi közgyűlést kell érteni.
 
 (2) A helyi önkormányzat képviselőtestülete – Budapest Főváros Önkormányzata esetében a Fővárosi Közgyűlés – az (1) bekezdésben foglalt feladatait a 33. § (1) bekezdés a) pontja, valamint a 33. § (1) bekezdés b) pont bb) és bc) alpontja szerinti gazdálkodó szervezet útján is elláthatja.

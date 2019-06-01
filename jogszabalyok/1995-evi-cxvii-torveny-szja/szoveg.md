@@ -1819,7 +1819,7 @@ a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről
 
 - a) jövedelemként
   - aa) azt – a nyereményalapot meg nem haladó – összeget, amelyet a kifizető a nyereménybetét-számlán jóváírt nyeremény megváltásaként a magánszemélynek jóváír, kifizet;
-  - ab)
+  - ab) a magyar állam által kibocsátott, a lakosság mint befektetői célpiac részére forgalomba hozott hitelviszonyt megtestesítő értékpapírból származó kamatjövedelmet;
   - ac) az egyszeri díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejöttét követő 5. év elteltével vagy az után következik be, továbbá a rendszeres díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejöttét követő 10. év elteltével vagy az után következik be;
   - ad) az egyszeri díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelem 50 százalékát, ha a biztosítói teljesítés a szerződés létrejöttét követő 3. év elteltével vagy az után, de az 5. év elteltét megelőzően következik be, továbbá a rendszeres díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelem 50 százalékát, ha a biztosítói teljesítés a szerződés létrejöttét követő 6. év elteltével vagy az után, de a 10. év elteltét megelőzően következik be;
 - b) kamatjövedelemként
@@ -3009,6 +3009,8 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 (2) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 72. § (4) bekezdés f) pontjában említett értékhatár megállapításához a 2019. január 1-jét követően nyújtott lakáscélú hiteleket kell figyelembe venni.
 
 (3) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 1. számú melléklet 4. pont 4.12. alpont 4.12.1 pontja a hatálybalépést megelőzően keletkezett adókötelezettségre is alkalmazható.
+
+97. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2019. évi XXVI. törvénnyel megállapított 65. § (3) bekezdés a) pont ab) alpontját a hatálybalépésének napjától kibocsátott hitelviszonyt megtestesítő értékpapír-sorozatok esetében kell alkalmazni.
 
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 

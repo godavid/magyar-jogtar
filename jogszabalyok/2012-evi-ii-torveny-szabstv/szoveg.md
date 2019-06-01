@@ -2398,11 +2398,36 @@ vehető nyilvántartásba.
 
 152. § (1) A szabálysértési nyilvántartások
 
-- a) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása,
-- b) a szabálysértési eljárás hatálya alatt állók nyilvántartása,
-- c) helyszíni intézkedés alá vontak nyilvántartása.
+- a) a gépjárművezető távollétében alkalmazott intézkedések nyilvántartása,
+- b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása,
+- c) a szabálysértési eljárás hatálya alatt állók nyilvántartása,
+- d) a helyszíni intézkedés alá vontak nyilvántartása.
 
 (2) A szabálysértési nyilvántartásokban kezelt adatok kezelésének a célja a szabálysértési eljárás gyors lefolytatása, a szabálysértési végrehajtási rendszer megerősítése, továbbá a nyilvántartásból történő adatszolgáltatás útján az érintett jogai gyakorlásának biztosítása, valamint mások jogainak és biztonságának védelme.
+
+#### 113/A. A gépjárművezető távollétében alkalmazott intézkedések nyilvántartása
+
+152/A. § (1) A gépjárművezető távollétében alkalmazott intézkedések nyilvántartásában annak a gépjárműnek az egyedi azonosító adatát kell nyilvántartani, amelynek üzembentartójával szemben a helyszíni bírság kiszabására jogosult szerv vagy személy a gépjárművezető távollétében helyszíni bírságot szabott ki, vagy feljelentést tett.
+
+(2) A gépjárművezető távollétében alkalmazott intézkedések nyilvántartása tartalmazza
+
+- a) a helyszíni bírság kiszabására jogosult szerv vagy személy által megállapított szabálysértés
+  - aa) megnevezését,
+  - ab) elkövetésének helyét,
+  - ac) elkövetésének idejét,
+  - ad) bizonyítékául szolgáló képfelvételt, valamint
+- b) a gépjárművezető távollétében kiszabott helyszíni bírság kiszabása esetén
+  - ba) a helyszíni bírság kiszabására jogosult megnevezését,
+  - bb) a döntés számát és keltét,
+  - bc) a helyszíni bírság összegét,
+- c) feljelentés esetén
+  - ca) az intézkedésre jogosult megnevezését,
+  - cb) az alkalmazott helyszíni intézkedés megnevezését.
+
+(3) A gépjárművezető távollétében alkalmazott intézkedések nyilvántartásában a (2) bekezdésben meghatározott adatokat jogszabályban meghatározott formában és módon rögzíti
+
+- a) a helyszíni bírság kiszabására jogosult szerv vagy személy,
+- b) a feljelentés megtételére jogosult személy.
 
 #### 114. A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása
 
@@ -2490,7 +2515,11 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 
 (2b) Ha az ügyben eredményes közvetítői eljárást folytattak le, a szabálysértési nyilvántartó szerv a 154. § (2) bekezdés c), d), f), h), i) és j) pontjában meghatározott adatokat az eredményes közvetítői eljárás befejezését követő egy évig kezeli.
 
+(2c) A szabálysértési nyilvántartó szerv a gépjárművezető távollétében alkalmazott intézkedések nyilvántartásába felvett adatokat az intézkedéstől számított három napig kezeli.
+
 (3) Törölni kell a szabálysértési nyilvántartásokból annak a személynek az adatait, akire vonatkozóan az (1)–(2b) bekezdésben meghatározott nyilvántartási idő eltelt.
+
+(3a) Automatikusan törölni kell a szabálysértési nyilvántartásokból azokat az adatokat, amelyre vonatkozóan a (2c) bekezdésben meghatározott nyilvántartási idő eltelt.
 
 (4) A (3) bekezdésben meghatározott időpontban törölni kell az érintett adatait a személyazonosító adatok nyilvántartásából is.
 
