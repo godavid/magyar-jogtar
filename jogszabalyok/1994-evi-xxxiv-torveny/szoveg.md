@@ -779,7 +779,7 @@ használható fel.
 (7) Ha a (6) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb célból azokra nincs szükség,
 
 - a) az (1) és (5e) bekezdés alapján rögzített felvételt a rögzítést követő harminc nap elteltével,
-- b) a (2) bekezdés alapján rögzített felvételt a rögzítést követő öt munkanap elteltével,
+- b) a (2) bekezdés alapján rögzített felvételt a rögzítést követő 30 nap elteltével,
 - c) az (5), (5a) és (5c) bekezdés alapján rögzített felvételt a rögzítést követő három munkanap elteltével,
 - d) az (5b) bekezdés alapján rögzített felvételt a rögzítést követő egy év elteltével
 
@@ -788,6 +788,13 @@ törölni kell.
 (8) A szabálysértési vagy büntetőeljárás megindításához és lefolytatásához szükséges adatok és információk biztosítása céljából – ha ilyen cselekmény elkövetésére utaló adat vagy információ a (7) bekezdés szerinti időtartamon belül merül fel – az adatkezelő rendőri szerv a (2) és (5) bekezdés alapján rögzített adatok kezelésének határidejét legfeljebb harminc napig meghosszabbíthatja. Ha ezen időtartamon belül nem indul olyan szabálysértési vagy büntetőeljárás, amelyben a felvételek felhasználhatók, az adatokat haladéktalanul törölni kell.
 
 (9) Ha a felvétel felhasználására a (6) bekezdés szerinti eljárásokban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
+
+(10) A rendőrség jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A rendőrség – amennyiben annak műszaki és technikai feltételei adottak – a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti
+
+- a) az (1) bekezdésben meghatározott rendőri intézkedések közül a közlekedésrendészeti intézkedés során, valamint
+- b) a (2) bekezdés alapján
+
+készített felvételt.
 
 42/A. § (1) A 42. § (7) és (8) bekezdésében meghatározott határidőn belül a 42. § (1), (2), (5)–(5c) és (5e) bekezdése szerint rögzített felvételből
 

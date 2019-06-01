@@ -75,6 +75,8 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 
 (5) A képfelvevő által megfigyelt területre belépő személyek tájékoztatását elősegítő módon figyelemfelhívó jelzést, ismertetést kell elhelyezni a képfelvevők elhelyezéséről, az adatkezelés tényéről.
 
+(5a) A felügyelet jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A (3) bekezdésben meghatározott felvételt – amennyiben annak műszaki és technikai feltételei adottak – a felügyelet a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.
+
 (6) A (2) és (3) bekezdésben foglaltak alapján készített felvétel a rögzítés helyszínén
 
 - a) elkövetett bűncselekmény vagy szabálysértés miatt indult eljárásban,
@@ -84,10 +86,19 @@ Az Országgyűlés a közterületek rendjének és tisztaságának védelme, val
 
 használható fel.
 
+(6a) A (3) bekezdésben meghatározott felvétel
+
+- a) a terrorcselekmények vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
+- b) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
+- c) a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából, illetve
+- d) körözött személy vagy tárgy azonosítása érdekében
+
+is felhasználható.
+
 (7) A felügyelet
 
 - a) a (2) bekezdés alapján rögzített felvételt a rögzítést követő harminc nap elteltével,
-- b) a (3) bekezdés alapján rögzített felvételt a rögzítést követő nyolc nap elteltével
+- b) a (3) bekezdés alapján rögzített felvételt a rögzítést követő harminc nap elteltével
 
 haladéktalanul törli.
 
@@ -102,6 +113,8 @@ haladéktalanul törli.
 (2) A rögzített felvételt a felügyelő a 7. § (6) bekezdésében foglalt felhasználási célból – bizonyítási eszközként – a szabálysértési eljárásra jogosult szerv, illetve büntetőeljárásban a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv megkeresésére vagy adatkérésére továbbíthatja. A megkeresésben vagy adatkérésben meg kell jelölni az eljárás tárgyát, ügyszámát és a rögzített felvétellel bizonyítandó tényt.
 
 (3) Közigazgatási hatósági eljárásban az eljáró hatóság megkeresésére a (2) bekezdés szerint rögzített felvétel továbbítható, ha a megkereső hatóság a megkeresésben az eljárás tárgyát, ügyszámát és a rögzített felvétellel bizonyítandó tényt megjelöli.
+
+(3a) A rögzített felvételt a felügyelő a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére megkeresésük esetén továbbítja a 7. § (6a) bekezdésében meghatározott célból.
 
 (4) A rögzített felvétel továbbítására irányuló megkeresést meg kell tagadni akkor is, ha a felvétel a megkeresésben meghatározott tény bizonyítására alkalmatlan.
 
