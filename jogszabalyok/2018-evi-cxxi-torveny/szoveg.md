@@ -6,41 +6,9 @@ egyes belügyi tárgyú és más kapcsolódó törvények módosításáról
 
 1. §
 
-2. § A Kkt. a következő 33/D. §-sal egészül ki:
+2. §
 
-„33/D. § (1) A közút kezelője jogszabályban meghatározott feladatai ellátása érdekében elektronikus megfigyelő rendszert működtet és a megfigyelés során kép-, hang-, valamint kép- és hangfelvételt (a továbbiakban e § alkalmazásában: felvétel) készít.
-
-(2) Az elektronikus megfigyelő rendszer által megfigyelt területre belépő személyek tájékoztatását elősegítő módon figyelemfelhívó jelzést, ismertetést kell elhelyezni azok elhelyezéséről, az adatkezelés tényéről.
-
-(3) A közút kezelője jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A közút kezelője a felvételt – amennyiben annak technikai és jogszabályi feltételei adottak – a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.
-
-(4) A felvétel
-
-a) a közút kezelője részére jogszabályban meghatározott feladatok ellátása céljából,
-
-b) elkövetett bűncselekmény, szabályszegés vagy szabálysértés, továbbá rendkívüli haláleset miatt indult eljárásban,
-
-c) a terrorcselekmények vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
-
-d) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
-
-e) a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából,
-
-f) körözött személy vagy tárgy azonosítása érdekében,
-
-g) a felvételen szereplő személy által, jogainak gyakorlása érdekében kezdeményezett eljárásban
-
-használható fel.
-
-(5) A felvételt felhasználás hiányában a rögzítéstől számított 30 nap elteltével törölni kell.
-
-(6) Akinek jogát vagy jogos érdekét a felvétel érinti, a rögzítéstől számított 30 napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy a felvételt a közút kezelője ne semmisítse meg vagy ne törölje.
-
-(7) A rögzített felvételt a közút kezelője a (4) bekezdésben meghatározott felhasználási célból az eljárásra jogosult szerv, hatóság, illetve büntetőeljárásban a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv megkeresésére vagy adatkérésére továbbítja. Ha a megkeresésre attól számított 72 órán belül, hogy a megsemmisítés vagy törlés mellőzését a (6) bekezdés alapján kérték, nem kerül sor és az (5) bekezdésben meghatározott határidő letelt, a felvételt törölni kell.
-
-(8) A közút kezelője a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.”
-
-3. § A Kkt. 46. § (1) bekezdés a) pontjában a „34–35. §-ban” szöveg helyébe a „33/D–35. §-ban” szöveg lép.
+3. §
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
@@ -74,15 +42,7 @@ használható fel.
 
 (2)
 
-(3) Az Rtv. 42. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) A rendőrség jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A rendőrség – amennyiben annak műszaki és technikai feltételei adottak – a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti
-
-a) az (1) bekezdésben meghatározott rendőri intézkedések közül a közlekedésrendészeti intézkedés során, valamint
-
-b) a (2) bekezdés alapján
-
-készített felvételt.”
+(3)
 
 17. §
 
@@ -98,22 +58,20 @@ készített felvételt.”
 
 23. §
 
-24. § Az Rtv.
+24. §
 
 - a)
 - b)
 - c)
 - d)
 - e)
-- f) 42. § (7) bekezdés b) pontjában az „öt munkanap” szövegrész helyébe a „30 nap” szöveg,
+- f)
 - g)
 - h)
 - i)
 - j)
 - k)
 - l)
-
-lép.
 
 25. §
 
@@ -234,35 +192,15 @@ lép.
 
 #### 11. A közterület-felügyeletről szóló 1999. évi LXIII. törvény módosítása
 
-66. § (1) A közterület-felügyeletről szóló 1999. évi LXIII. törvény (a továbbiakban: Kftv.) 7. §-a a következő (5a) bekezdéssel egészül ki:
+66. §
 
-„(5a) A felügyelet jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A (3) bekezdésben meghatározott felvételt – amennyiben annak műszaki és technikai feltételei adottak – a felügyelet a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.”
+67. §
 
-(2) A Kftv. 7. §-a a következő (6a) bekezdéssel egészül ki:
+68. §
 
-„(6a) A (3) bekezdésben meghatározott felvétel
-
-a) a terrorcselekmények vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
-
-b) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
-
-c) a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából, illetve
-
-d) körözött személy vagy tárgy azonosítása érdekében
-
-is felhasználható.”
-
-67. § A Kftv. 7/A. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A rögzített felvételt a felügyelő a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére megkeresésük esetén továbbítja a 7. § (6a) bekezdésében meghatározott célból.”
-
-68. § A Kftv.
-
-- a) 7. § (7) bekezdés b) pontjában a „nyolc nap” szövegrész helyébe „harminc nap” szöveg,
+- a)
 - b)
 - c)
-
-lép.
 
 #### 12. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
 
@@ -278,27 +216,7 @@ lép.
 
 #### 14. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosítása
 
-73. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény (a továbbiakban: Szvmt.) a következő 31/A. §-sal egészül ki:
-
-„31/A. § (1) A pénzügyi szolgáltatást, kiegészítő pénzügyi szolgáltatást folytatók létesítményének védelme céljából a létesítményen kívül – a 26. § (2) bekezdésnek megfelelően – rögzített kép-, hang-, valamint kép- és hangfelvételt a vagyonőr – amennyiben annak műszaki és technikai feltételei adottak – a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.
-
-(2) Az (1) bekezdés szerinti kép-, hang-, valamint kép- és hangfelvételt rögzítő vagyonőr jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval.
-
-(3) Az (1) bekezdés szerinti kép-, hang-, valamint kép- és hangfelvételt felhasználás hiányában a rögzítéstől számított harminc nap elteltével meg kell semmisíteni, illetve törölni kell.
-
-(4) Az (1) bekezdésben meghatározott kép-, hang-, valamint kép- és hangfelvétel
-
-a) a terrorcselekmények vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
-
-b) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
-
-c) a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából,
-
-d) körözött személy vagy tárgy azonosítása érdekében
-
-is felhasználható.
-
-(5) Felhasználásnak minősül, ha az (1) bekezdésben meghatározott kép-, hang-, valamint kép- és hangfelvételt a vagyonőr a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére megkeresésük esetén továbbítja a (4) bekezdésben meghatározott célból.”
+73. §
 
 #### 15. A szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvény módosítása
 
@@ -356,63 +274,11 @@ is felhasználható.
 
 95. §
 
-96. § A Szabs. tv. 152. § (1) bekezdés helyébe a következő rendelkezés lép:
+96. §
 
-„(1) A szabálysértési nyilvántartások
+97. §
 
-a) a gépjárművezető távollétében alkalmazott intézkedések nyilvántartása,
-
-b) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása,
-
-c) a szabálysértési eljárás hatálya alatt állók nyilvántartása,
-
-d) a helyszíni intézkedés alá vontak nyilvántartása.”
-
-97. § A Szabs. tv. a következő 113/A. alcímmel egészül ki:
-
-„113/A. A gépjárművezető távollétében alkalmazott intézkedések nyilvántartása
-
-152/A. § (1) A gépjárművezető távollétében alkalmazott intézkedések nyilvántartásában annak a gépjárműnek az egyedi azonosító adatát kell nyilvántartani, amelynek üzembentartójával szemben a helyszíni bírság kiszabására jogosult szerv vagy személy a gépjárművezető távollétében helyszíni bírságot szabott ki, vagy feljelentést tett.
-
-(2) A gépjárművezető távollétében alkalmazott intézkedések nyilvántartása tartalmazza
-
-a) a helyszíni bírság kiszabására jogosult szerv vagy személy által megállapított szabálysértés
-
-aa) megnevezését,
-
-ab) elkövetésének helyét,
-
-ac) elkövetésének idejét,
-
-ad) bizonyítékául szolgáló képfelvételt, valamint
-
-b) a gépjárművezető távollétében kiszabott helyszíni bírság kiszabása esetén
-
-ba) a helyszíni bírság kiszabására jogosult megnevezését,
-
-bb) a döntés számát és keltét,
-
-bc) a helyszíni bírság összegét,
-
-c) feljelentés esetén
-
-ca) az intézkedésre jogosult megnevezését,
-
-cb) az alkalmazott helyszíni intézkedés megnevezését.
-
-(3) A gépjárművezető távollétében alkalmazott intézkedések nyilvántartásában a (2) bekezdésben meghatározott adatokat jogszabályban meghatározott formában és módon rögzíti
-
-a) a helyszíni bírság kiszabására jogosult szerv vagy személy,
-
-b) a feljelentés megtételére jogosult személy.”
-
-98. § (1) A Szabs. tv. 155. §-a a következő (2c) bekezdéssel egészül ki:
-
-„(2c) A szabálysértési nyilvántartó szerv a gépjárművezető távollétében alkalmazott intézkedések nyilvántartásába felvett adatokat az intézkedéstől számított három napig kezeli.”
-
-(2) A Szabs. tv. 155. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Automatikusan törölni kell a szabálysértési nyilvántartásokból azokat az adatokat, amelyre vonatkozóan a (2c) bekezdésben meghatározott nyilvántartási idő eltelt.”
+98. §
 
 99. §
 
@@ -422,23 +288,7 @@ b) a feljelentés megtételére jogosult személy.”
 
 101. §
 
-102. § Az Szsztv. 6. alcíme a következő 8/A. §-sal egészül ki:
-
-„8/A. § (1) A szolgáltató jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A szolgáltató a 8. § (1) bekezdésben meghatározott kép-, hang-, valamint kép- és hangfelvételt – amennyiben annak műszaki és technikai feltételei adottak – a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.
-
-(2) A 8. § (1) bekezdésben meghatározott kép-, hang-, valamint kép- és hangfelvétel
-
-a) a terrorcselekmények vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
-
-b) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
-
-c) a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából,
-
-d) körözött személy vagy tárgy azonosítása érdekében
-
-is felhasználható.
-
-(3) Felhasználásnak minősül, ha a 8. § (1) bekezdésben meghatározott kép-, hang-, valamint kép- és hangfelvételt a szolgáltató a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére megkeresésük esetén továbbítja a (2) bekezdésben meghatározott célból.”
+102. §
 
 #### 22. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
@@ -482,19 +332,7 @@ is felhasználható.
 
 #### 25. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló2013. évi LXVII. törvény módosítása
 
-120. § (1) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 17. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) Az útdíjszedő jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A (2) bekezdésben meghatározott adatgyűjtés során rögzített kép-, hang-, valamint kép- és hangfelvételt az útdíjszedő – amennyiben annak műszaki és technikai feltételei adottak – a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.
-
-(2b) E törvényben meghatározott kivétellel a (2) bekezdésben meghatározott adatgyűjtés során rögzített kép-, hang-, valamint kép- és hangfelvételt a rögzítéstől számított 30 nap elteltével törölni kell.”
-
-(2) Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 17. § (5) bekezdése a következő g) és h) ponttal egészül ki:
-
-(Az UD rendszerben kezelt adatok teljes körét egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel jogosult átvenni)
-
-„g) a hivatásos katasztrófavédelmi szerv a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából,
-
-h) a rendőrség körözött személy vagy tárgy azonosítása érdekében.”
+120. §
 
 #### 26. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
@@ -556,113 +394,7 @@ h) a rendőrség körözött személy vagy tárgy azonosítása érdekében.”
 
 145. §
 
-146. § Az E-ügyintézési tv. a következő XIII/A. Fejezettel egészül ki:
-
-„XIII/A. FEJEZET
-
-KÉP-, HANG, KÉP- ÉS HANGFELVÉTEL KÖZPONTI TÁROLÁSA
-
-44/A. A Kép-, hang, kép- és hangfelvétel központi tárolása
-
-73/A. § (1) A Kormány által rendeletben kijelölt szerv (a továbbiakban: tárhelyszolgáltató) informatikai alkalmazás útján, központi tárhely működtetésével biztosítja
-
-a) a közút kezelője,
-
-b) a közlekedésrendészeti intézkedés keretében a rendőrség,
-
-c) a rendőrség által kihelyezett képfelvevők,
-
-d) a közterület-felügyelet által kihelyezett képfelvevők,
-
-e) a pénzügyi szolgáltatást, kiegészítő pénzügyi szolgáltatást folytatóknak a feladatai ellátáshoz szükséges, közönség számára nyilvános magánterületének védelme céljából személy- és vagyonvédelmi tevékenységet végző,
-
-f) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 8. § (1) bekezdése szerinti szolgáltató,
-
-g) az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíjszedő (a továbbiakban együtt: központi tárhely használatára kötelezett)
-
-által készített kép-, hang-, valamint kép- és hangfelvételek (a továbbiakban: felvétel) tárolását.
-
-(2) A tárhelyszolgáltató informatikai alkalmazás útján, központi tárhely működtetésével biztosítja a Magyarország helyi önkormányzatairól szóló törvény 16/A. § e) pontjában meghatározott szolgáltató által rögzített adatok tárolását.
-
-(3) A tárhelyszolgáltató tevékenysége kizárólag a felvételek és adatok központi tárhelyen történő tárolására és a 73/B. § szerinti informatikai alkalmazás biztosítására terjed ki, a központi tárhelyen tárolt felvételek és adatok tartalmát nem ismerheti meg, azokkal más adatkezelési tevékenységet nem végezhet.
-
-(4) A központi tárhely használatára kötelezettek kormányrendeletben meghatározottak szerint kötelesek együttműködni a tárhelyszolgáltatóval, illetve – ha a kormányrendeletben meghatározott feltételek fennállnak – a központi tárhelyet igénybe venni.
-
-(5) A központi tárhely használatára kötelezettek a (4) bekezdésben meghatározott kormányrendelet szerinti feltételekkel vehetik igénybe a központi tárhelyet.
-
-73/B. § (1) Ha a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv, illetve büntetőeljárásban a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv (a továbbiakban együtt: adatmegismerésre jogosult) törvényben meghatározottak szerint a központi tárhely használatára kötelezett által készített felvételt és adatot átveheti, az adattovábbítást a központi tárhely használatára kötelezett – ha a központi tárhelyet igénybe veszi – a tárhelyszolgáltató által működtetett informatikai alkalmazás segítségével biztosítja.
-
-(2) A tárhelyszolgáltatótól a központi tárhely használatára kötelezett által készített felvétel vagy adat nem igényelhető, az adatok átadása az ágazati törvényben meghatározott adatátadási szabályok szerint történik.
-
-44/B. A központi tárhely használatára kötelezettek és az adatmegismerésre jogosultak nyilvántartása
-
-73/C. § (1) A központi tárhely használatára kötelezettek és az adatmegismerésre jogosultak nyilvántartásának célja a tárhelyszolgáltató, a központi tárhely használatára kötelezettek és az adatmegismerésre jogosultak hozzáféréshez szükséges adatainak tárolása, valamint az adatkezelés jogszerűsége ellenőrzésének biztosítása.
-
-(2) A központi tárhely használatára kötelezettek és az adatmegismerésre jogosultak nyilvántartása tartalmazza a központi tárhely használatára kötelezettek, valamint az adatmegismerésre jogosultak
-
-a) megnevezését,
-
-b) levelezési címét,
-
-c) telefonszámát,
-
-d) telefaxszámát,
-
-e) elektronikus levélcímét,
-
-f) hozzáférési jogosultságának típusát, keletkezésének és törlésének tényét és időpontját,
-
-g) a szervezet nevében hozzáférésre felhatalmazott személy (a továbbiakban: hozzáférésre felhatalmazott személy)
-
-ga) családi és utónevét,
-
-gb) beosztását,
-
-gc) szervezeti egységét,
-
-gd) hozzáférési jogosultságának terjedelmét és körét, keletkezésének és törlésének tényét és időpontját,
-
-ge) egyedi azonosítóját.
-
-44/C. A központi tárhelyen történő adatrögzítés, a központi tárhelyről elektronikus úton, informatikai alkalmazás igénybevételével történő adatmegismerés feltételei
-
-73/D. § (1) A központi tárhelyen történő adatrögzítéshez, valamint a központi tárhelyről elektronikus úton, informatikai alkalmazás igénybevételével történő adatmegismeréshez szükséges egyedi azonosítókat a központi tárhely használatára kötelezett, valamint az adatmegismerésre jogosult a tárhelyszolgáltatóhoz benyújtott kérelemben (a továbbiakban: egyedi azonosító iránti kérelem) igényli.
-
-(2) Az egyedi azonosító iránti kérelemnek tartalmaznia kell a 73/C. § (2) bekezdés a)–f) pontjában és g) pont ga)–gd) alpontjában meghatározott adatokat.
-
-(3) A (2) bekezdésben meghatározott adatokban bekövetkezett változásról a központi tárhely használatára kötelezett, valamint az adatmegismerésre jogosult – az adatváltozást követő három munkanapon belül – értesíti a tárhelyszolgáltatót.
-
-(4) A tárhelyszolgáltató az egyedi azonosító iránti kérelem beérkezésétől számított nyolc napon belül tájékoztatja
-
-a) a központi tárhely használatára kötelezettet a hozzáférésre felhatalmazott személy egyedi azonosítójáról, valamint a központi tárhely és az informatikai alkalmazás használatához szükséges technikai ismeretekről,
-
-b) az adatmegismerésre jogosultat a hozzáférésre felhatalmazott személy egyedi azonosítójáról, valamint az informatikai alkalmazás használatához szükséges technikai ismeretekről.
-
-(5) A központi tárhelyen rögzített felvételekkel és adatokkal kizárólag elektronikus úton, informatikai alkalmazás igénybevételével végezhető adatkezelés.
-
-44/D. Adatmegismerési nyilvántartás
-
-73/E. § (1) A tárhelyszolgáltató a központi tárhelyről elektronikus úton, informatikai alkalmazás útján történő adatigénylés és adattovábbítás jogszerűségének ellenőrzése céljából adatmegismerési nyilvántartást vezet.
-
-(2) Az adatmegismerési nyilvántartás tartalmazza:
-
-a) a felvétel azonosító adatait,
-
-b) a hozzáférésre felhatalmazott személy egyedi azonosítóját,
-
-c) az adattovábbítás időpontját,
-
-d) azt a törvényi rendelkezést, amely az adatmegismerésre jogosultat az eljárásában, ellenőrzési tevékenysége vagy feladatköre gyakorlása során az adatkezelésre feljogosítja,
-
-e) a továbbított adatok megnevezését.
-
-(3) Az adatmegismerési nyilvántartásból adatokat igényelhet
-
-a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
-
-b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv,
-
-c) törvényben meghatározott feladataik ellátása céljából a nemzetbiztonsági szolgálatok és a rendvédelmi szervek.”
+146. §
 
 147. §
 
@@ -670,17 +402,9 @@ c) törvényben meghatározott feladataik ellátása céljából a nemzetbiztons
 
 (2)
 
-(3) Az E-ügyintézési tv. 105. § (1) bekezdése a következő r) ponttal egészül ki:
+(3)
 
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„r) a központi tárhely használatára kötelezett és a tárhelyszolgáltató együttműködésének a szabályait, illetve a központi tárhely igénybevételének a szabályait.”
-
-(4) Az E-ügyintézési tv. 105. § (2) bekezdése a következő f) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki)
-
-„f) a tárhelyszolgáltatót.”
+(4)
 
 149. §
 
