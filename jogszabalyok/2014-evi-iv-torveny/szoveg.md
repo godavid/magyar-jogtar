@@ -540,7 +540,7 @@ A Felek, Magyarország Kormánya és a Török Köztársaság Kormánya – a Bi
 
 (2) A 2. § és 3. §, valamint a (3) bekezdés a Megállapodás 14. cikkének (1) bekezdésében meghatározott időpontban lép hatályba.
 
-(3) A Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya között a terrorizmus, a kábítószer tiltott forgalma és a szervezett bűnözés elleni harcban történő együttműködésről szóló Megállapodás kihirdetéséről szóló 64/1993. (IV. 30.) Korm. rendelet hatályát veszti.
+(3)
 
 (4) A Megállapodás, valamint a 2. § és 3. §, továbbá a (3) bekezdés hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
