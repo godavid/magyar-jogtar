@@ -1089,11 +1089,13 @@ vonatkozó részletszabályokat.
 
 (3) A 3. § 28. pont m) alpontja 2018. január 3-án lép hatályba.
 
-79. § A szolgáltató – a 13. § (7) bekezdésétől eltérően – 2019. június 26-át követően köteles az ügylet teljesítését megtagadni, ha
+79. § (1) A szolgáltató – a 13. § (8) bekezdésétől eltérően – 2019. október 31-ét követően köteles az ügyleti megbízás teljesítését megtagadni, ha
 
 - a) az ügyféllel 2017. június 26. előtt létesített üzleti kapcsolatot,
-- b) az ügyfél vonatkozásában az ügyfél-átvilágítási intézkedéseket 2019. június 26-ig nem végezte el, és
-- c) az ügyfél vonatkozásában a 7–11. §-ban és a 19–20. §-ban meghatározott ügyfél-átvilágítás eredményei 2019. június 26-án nem állnak teljeskörűen rendelkezésére.
+- b) az ügyfél vonatkozásában az ügyfél-átvilágítási intézkedéseket 2019. október 31-ig nem végezte el, és
+- c) az ügyfél vonatkozásában a 7–11. §-ban és a 19–20. §-ban meghatározott ügyfél-átvilágítás eredményei 2019. október 31-ig nem állnak teljeskörűen rendelkezésére.
+
+(2) Ha szolgáltató az (1) bekezdés a) pontja szerinti ügyfél tekintetében a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény módosításáról szóló 2019. évi XLIX. törvény (a továbbiakban: Módtv.) hatálybalépéséig nem végezte el az ügyfél-átvilágítási intézkedéseket, illetve az ügyfél vonatkozásában a 7–11. §-ban és a 19–20. §-ban meghatározott ügyfél-átvilágítás eredményei a Módtv. hatálybalépésekor nem állnak teljeskörűen a szolgáltató rendelkezésére, akkor a szolgáltató a Módtv. hatálybalépését követő harmadik munkanap végéig írásban vagy a szerződésben meghatározott módon tájékoztatja az érintett ügyfelet az (1) bekezdésben foglaltakról.
 
 80. § (1) Az e törvény hatálybalépésekor működő szolgáltató a belső szabályzatát az e törvény szerinti felügyeleti útmutató kiadását követő 90 napon belül, legkésőbb 2017. szeptember 30. napjáig köteles e törvény rendelkezéseinek megfelelően átdolgozni és a belső szabályzat átdolgozásának megtörténtéről az 5. §-ban meghatározott felügyeletet ellátó szervet írásban tájékoztatni. E kötelezettségnek a 3. § 25. pontjában meghatározott Posta Elszámoló Központot működtető intézmény az e törvény szerinti felügyeleti útmutató kiadását követő 180 napon belül, legkésőbb 2018. január 1. napjáig köteles eleget tenni.
 
@@ -1115,8 +1117,28 @@ vonatkozó részletszabályokat.
 
 #### 22. Módosító rendelkezések
 
-#### 83–92. §
+#### 83. §
 
-#### 93–94. §
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
+
+#### 91. §
+
+#### 92. §
+
+#### 93. §
+
+#### 94. §
 
 #### 95. §
