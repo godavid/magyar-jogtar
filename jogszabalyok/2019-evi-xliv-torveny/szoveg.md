@@ -609,4 +609,4 @@ b) Ami a 8. cikket illeti, a „művészi” kifejezés az alkotói és az előa
 
 4. § Az e törvény végrehajtásához szükséges intézkedésekről a kultúráért felelős miniszter gondoskodik.
 
-5. § Hatályát veszti az Európa Tanács keretében 1992. október 2-án létrejött európai filmkoprodukciós egyezmény kihirdetéséről szóló 7/1998. (I. 23.) Korm. rendelet.
+5. §
