@@ -493,7 +493,12 @@ tartalmazza.
 
 (5) A nukleáris létesítmény és a radioaktívhulladék-tároló engedélyesének minőségirányítási rendszerében, a személyzet képzését érintő dokumentumában, adatbázisában rögzített személyes adatokat az atomenergia-felügyeleti szerv csak a hatósági jogosító vizsgához kötött munkakörökben történő munkavégzés ellenőrzésére használhatja fel.
 
-12/B. § (1) A 17. § (2) bekezdés 1. pont b) alpontjában foglalt létesítés, bővítés engedélyezése és a 17. § (2) bekezdés 12. pontja szerinti nukleáris létesítmény biztonsági övezetének kijelölése esetében az ügyintézési határidő tizenkét hónap, amely indokolt esetben, egy alkalommal, legfeljebb három hónappal meghosszabbítható.
+12/B. § (1) A 17. § (2) bekezdés 1. pont b) alpontjában meghatározott létesítés, bővítés engedélyezése és a 17. § (2) bekezdés 12. pontja szerinti nukleáris létesítmény biztonsági övezetének kijelölése esetében az ügyintézési határidő
+
+- a) tizenkét hónap abban az esetben, ha az engedélyes a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatót nyújt be,
+- b) tizennyolc hónap akkor, ha az engedélyes nem nyújt be a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatót,
+
+amely eljárások indokolt esetben, legfeljebb három hónappal hosszabbíthatók meg.
 
 (2) A 17. § (2) bekezdés 15. pontja szerinti radioaktívhulladék-tároló telepítése és létesítése engedélyezésének és a 17. § (2) bekezdés 12. pontja szerint radioaktívhulladék-tároló biztonsági övezete kijelölése esetén az ügyintézési határidő tizenkét hónap, amely indokolt esetben, legfeljebb három hónappal meghosszabbítható.
 
