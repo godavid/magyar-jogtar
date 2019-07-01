@@ -16,6 +16,8 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 
 (4) Hivatásos sportoló az a versenyző, aki jövedelemszerzési céllal foglalkozásszerűen folytat sporttevékenységet. Minden más versenyző amatőr sportolónak minősül.
 
+(5) Regisztrált szabadidő-sportoló az a sportoló, aki a nemzeti sportinformációs rendszerben mint szabadidő-sportoló – azaz nem versenyzőként sporttevékenységet végző személy – önkéntesen regisztrál. A regisztrált szabadidő-sportoló sporttevékenységével összefüggésben, jogszabályban meghatározott közvetett és közvetlen állami sport célú és egyéb támogatásban, kedvezményben részesíthető.
+
 2. § (1) A sportszervezet keretében sporttevékenységet folytató versenyző számára a sportszervezet köteles biztosítani a sportág jellege szerinti biztonságos sporttevékenység folytatásához szükséges feltételeket.
 
 (2) A versenyző a sportteljesítményéhez, illetve az elért eredményeihez igazodó mértékben igényelheti a sportszervezetétől az eredményes sporttevékenységhez szükséges felkészülési, versenyzési lehetőség biztosítását.
@@ -32,11 +34,11 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 - c) a sportág hazai és nemzetközi versenyszabályzatában, valamint egyéb szabályzataiban foglaltakat betartani,
 - d) a sporttevékenység során annak a sportszervezetnek, sportszövetségnek az érdekeit is figyelembe venni, amellyel tagsági, illetve szerződéses viszonyban áll, valamint amelyik a nemzeti válogatott keretbe meghívta.
 
-3. § (1) A versenyzőnek – a versenyrendszerben, bajnokságban való részvétel feltételeként – a sportszövetség által kiállított, e törvényben meghatározott feltételeknek megfelelő, a versenyrendszerben vagy versenyeken való részvételre jogosító sportolói igazolvánnyal (a továbbiakban: versenyengedély) kell rendelkeznie. A versenyengedély sportágtól függetlenül tartalmilag és formailag egységes. A versenyengedélyek egységes tartalmát és formáját a Magyar Olimpiai Bizottság (a továbbiakban: MOB) – az amatőr és a hivatásos sportolói versenyengedély kiadásának feltételeiről szóló miniszteri rendeletben foglaltakra figyelemmel – határozza meg. Ha a sportszövetség szabályzata másként nem rendelkezik, egy sportágban egy versenyzőnek csak egy versenyengedélye lehet. Ha a versenyengedély kiadásának nincsenek meg a jogszabályi, valamint a sportszövetség szabályzatában foglalt feltételei, továbbá ha a versenyző valótlan adat igazolását kéri, a versenyengedély kiadását a sportszövetség megtagadja vagy a versenyengedélyt visszavonja.
+3. § (1) A versenyzőnek – a versenyrendszerben, bajnokságban való részvétel feltételeként – a sportszövetség által a nemzeti sportinformációs rendszerben nyilvántartott, e törvényben meghatározott feltételeknek megfelelő, a versenyrendszerben vagy versenyeken való részvételre jogosító sportolói igazolvánnyal (a továbbiakban: versenyengedély) kell rendelkeznie. Ha a sportszövetség szabályzata másként nem rendelkezik, egy sportágban egy versenyzőnek csak egy versenyengedélye lehet. Ha a versenyengedély kiadásának nincsenek meg a jogszabályi, valamint a sportszövetség szabályzatában foglalt feltételei, továbbá ha a versenyző valótlan adat igazolását kéri, a versenyengedély kiadását a sportszövetség megtagadja vagy a versenyengedélyt visszavonja.
 
 (2) A sportszövetség a szabályzatában meghatározottak szerint lehetővé teheti, hogy az általa, illetve a közreműködésével kiírt vagy szervezett versenyen az amatőr- és a szabadidő-sportoló egy versenyre (mérkőzésre) szóló versenyzési engedéllyel (rajtengedély) részt vegyen.
 
-(3) A versenyengedély kiadására és visszavonására vonatkozó részletes szabályokat – az amatőr és a hivatásos sportolói versenyengedély kiadásának feltételeiről szóló miniszteri rendeletben foglaltakra figyelemmel – a sportszövetség szabályzatban köteles megállapítani. A versenyengedély tartalmazza:
+(3) A versenyengedély kiadására és visszavonására vonatkozó részletes szabályokat a sportszövetség szabályzatban köteles megállapítani. A versenyengedély tartalmazza:
 
 - a) a versenyző képmását, nevét, születési helyét és idejét,
 - b) a versenyrendszer megnevezését,
@@ -2008,7 +2010,7 @@ adatokat továbbítja.
 
 ### X/B. Fejezet — NEMZETI SPORTINFORMÁCIÓS RENDSZER
 
-76/D. § (1) A nemzeti sportinformációs rendszer a sportolókra, a sportszakemberekre, a sportszervezetekre, a sportszövetségekre, a sportköztestületekre, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak a nyilvántartását szolgáló elektronikus nyilvántartási rendszer.
+76/D. § (1) A nemzeti sportinformációs rendszer a sportolókra, a sportszakemberekre, a sportszervezetekre, a sportszövetségekre, a sportköztestületekre, ezek tevékenységére, e szervezetek nevében a nemzeti sportinformációs rendszerbe történő adatszolgáltatási kötelezettséget teljesítő személyre, a sportlétesítményekre, sporteseményekre, sporteredményekre vonatkozó adatoknak a nyilvántartását szolgáló, továbbá az állami sportcélú támogatások elosztását és felhasználását támogató elektronikus nyilvántartási és folyamatkezelő rendszer.
 
 (2) A nemzeti sportinformációs rendszert a sportpolitikáért felelős miniszter működteti. A sportpolitikáért felelős miniszter e feladatkörében biztosítja a nemzeti sportinformációs rendszer döntés-előkészítési, statisztikai, valamint sportszakmai, továbbá szolgáltató elemeinek működési feltételeit, üzemeltetését és fejlesztését azzal, hogy biztosítja a nemzeti sportinformációs rendszerben nyilvántartott adatok statisztikai célokra történő felhasználását és statisztikai felhasználás céljából a hivatalos statisztikai szolgálat részére történő átadását.
 
@@ -2018,24 +2020,37 @@ adatokat továbbítja.
 
 (5) A nemzeti sportinformációs rendszerben kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-76/E. § (1) A sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe a sportszervezettel tagsági, szerződéses vagy tanulói jogviszonyban álló sportolókról. Az adatszolgáltatás a 3. § (3) bekezdés a) pontja szerinti személyes adatokra terjed ki.
+76/E. § (1) A sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe a sportszervezettel tagsági, szerződéses vagy tanulói jogviszonyban álló sportolókról. Az adatszolgáltatás a személyek nevére, születésének helyére, idejére, képmására, társadalombiztosítási azonosító jelére, anyja nevére, valamint elektronikus levelezési címére terjed ki.
 
-(2) A sportszövetség a versenyengedélyeket a nemzeti sportinformációs rendszerben tartja nyilván. A sportszövetség ennek keretében adatot szolgáltat a nemzeti sportinformációs rendszer részére az általa kiadott versenyengedélyekről, a versenyengedéllyel rendelkezők versenyeken vagy versenyrendszerben való tényleges részvételéről. Az adatszolgáltatás a 3. § (3) bekezdés a) pontjában meghatározott személyes adatokra is kiterjed.
+(2) A sportszövetség a versenyengedélyeket a nemzeti sportinformációs rendszerben tartja nyilván. A sportszövetség ennek keretében adatot szolgáltat a nemzeti sportinformációs rendszer részére az általa kiadott versenyengedélyekről, a versenyengedéllyel rendelkezők versenyeken vagy versenyrendszerben való tényleges részvételéről.
 
-(3) A nemzeti sportinformációs rendszerben szereplő, (1) és (2) bekezdés szerinti személyes adatokat az e törvényben meghatározottak szerint
+(3) A sportszervezet a nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti adatokat a versenyengedély igénylése és az abban foglaltak fennállása, a versenyrendszerben való szereplés, a versenyeredmények nyilvántartása, az egyes sportcélú állami támogatások igénybevétele és ezekkel kapcsolatos adatközlés, valamint fennálló tagsági jogviszony igazolás céljából, a sportoló tagsági, szerződéses vagy tanulói jogviszonyának ideje alatt kezelheti.
 
-- a) a sportszervezet a versenyengedély igénylése, és a versenyengedélyben foglaltak fennállásának igazolása céljából,
-- b) a sportszövetség a versenyengedély kiállítása, az abban meghatározott jogosultságok fennállásának ellenőrzése, továbbá a versenyengedély visszavonása céljából,
-- c) a sportpolitikáért felelős miniszter az adatszolgáltatás validitásának ellenőrzése céljából
+(4) A sportszövetség a nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti adatokat a sportoló versenyengedélyének kiállítása, az abban meghatározott jogosultságok és a sportoló sportorvosi engedélyének ellenőrzése, a szövetség által felügyelt versenyrendszerben való szereplés, az egyes sportcélú állami támogatások igénybevétele és ezekkel kapcsolatos adatközlés, valamint fennálló tagsági jogviszony ellenőrzése céljából a 3. § (8) bekezdése szerinti időtartam alatt kezelheti.
 
-a versenyengedély érvényességi ideje alatt kezelheti.
+(5) A sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti adatokat a sportolónak a nemzeti sportinformációs rendszerben történő azonosítása, belépésének biztosítása, a sportszervezetek és sportszövetségek által közölt adatok validitásának ellenőrzése, a versenyeredmények nyilvántartása, az állami sportcélú támogatások biztosítása és felhasználásának ellenőrzése céljából kezelheti. A sportpolitikáért felelős miniszter az adatkezelés szükségességét négyévente felülvizsgálja. A sportpolitikáért felelős miniszter az általa vezetett minisztérium, a sportszervezetek és szövetségek nevében a nemzeti sportinformációs rendszerbe adatszolgáltatást teljesítő vagy az üzemeltetésben részt vevő személyek (1) bekezdés szerinti személyes adatait a rendszer használatához szükséges feladatok ellátása érdekében az alkalmazási jogviszony fennállásának ideje alatt kezelheti.
 
-76/F. § (1) A sportszövetség és a sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe az általa foglalkoztatott sportszakemberekről. Az adatszolgáltatás a sportszakember nevét, születési helyét és idejét, képmását, valamint a sport területén képesítéshez kötött tevékenységek jegyzékéről rendelkező kormányrendeletben meghatározott képesítések, szakképzettség megnevezését tartalmazza.
+(6) A regisztrált szabadidő-sportoló a nemzeti sportinformációs rendszerbe való önkéntes regisztrációja a következő adatainak megadásával történik:
 
-(2) A nemzeti sportinformációs rendszerben szereplő, (1) bekezdésében meghatározott személyes adatokat
+- a) családi és utóneve, születési családi és utóneve,
+- b) születési helye,
+- c) születési ideje,
+- d) anyja születési családi és utóneve,
+- e) társadalombiztosítási azonosító jele,
+- f) adóazonosító jele,
+- g) lakóhelye, tartózkodási helye vagy elektronikus levelezési címe,
+- h) képmása.
 
-- a) a sportszövetség és a sportszervezet a sportszakember jogviszonyának fennállása alatt,
-- b) a sportpolitikáért felelős miniszter az adatszolgáltatás validitásának ellenőrzése céljából a sportszakember jogviszonyának fennállása alatt
+(7) A regisztrált szabadidő-sportoló a nemzeti sportinformációs rendszerbe való regisztrációját bármikor megszüntetheti, de regisztrációjának személyazonosításra nem alkalmas adatát a sportpolitikáért felelős miniszter statisztikai célra felhasználhatja.
+
+(8) A regisztrált szabadidő-sportoló (6) bekezdés szerinti adatait a regisztrált szabadidő-sportoló sporttevékenységével összefüggésben, jogszabályban meghatározott közvetett és közvetlen állami sport célú és egyéb támogatásban, kedvezményben való részesítése érdekében a sportesemény szervezője, valamint a sportlétesítmény üzemeltetője kezeli.
+
+76/F. § (1) A sportszövetség és a sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe az általa foglalkoztatott sportszakemberekről és adatszolgáltatásban közreműködő, valamint az állami sportcélú támogatások tekintetében érintett, a sportszervezettel vagy sportszövetséggel jogviszonyban álló személyekről. Az adatszolgáltatás az érintett személy nevét, születési helyét és idejét, képmását, társadalombiztosítási azonosító jelét, anyja nevét, elektronikus levelezési címét, valamint a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről rendelkező kormányrendeletben meghatározott képesítések, szakképzettség megnevezését tartalmazza.
+
+(2) A nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti személyes adatokat
+
+- a) a sportszövetség és a sportszervezet a sportszakember és az adatszolgáltatással érintett személy jogviszonyának fennállása alatt,
+- b) a sportpolitikáért felelős miniszter az adatszolgáltatás validitásának ellenőrzése és a nemzeti sportinformációs rendszerben történő azonosítása és beléptetése céljából a sportszakember jogviszonyának fennállása alatt
 
 kezelheti.
 
@@ -2178,6 +2193,7 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
   - bl) a biztonságtechnikai fejlesztésre kötelezettek körét, és
   - bm) a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosításra vonatkozó részletes szabályokat,
   - bn) a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait,
+  - bo) a regisztrált szabadidő-sportoló részére nyújtható támogatások és kedvezmények formáját, mértékét, igénybevételének feltételeit és módját,
   - bp) a sportakadémiai minősítés megszerzésének feltételeit és eljárásrendjét, a sportakadémia működésére, valamint az általa biztosítandó feltételekre és szolgáltatásokra vonatkozó szempontrendszert, alapvető követelményeket és az azoknak való megfelelés ellenőrzésének rendjét,
   - bq) a 30/B. § (2) bekezdése szerinti miniszteri támogató nyilatkozat kiadására irányuló eljárás részletes szabályait, a kérelem formai követelményeit és a benyújtás módját.
 
@@ -2185,7 +2201,7 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
 
 - a)
 - b) a sportági stratégiai fejlesztési koncepciók egységes követelményrendszerét,
-- c) az amatőr és a hivatásos sportolói versenyengedély kiadásának feltételeit.
+- c)
 
 (3)
 

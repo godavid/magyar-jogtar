@@ -2860,7 +2860,7 @@ részére továbbíthat adatot.
 
 (1a) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadatok kockázatelemzéséhez továbbíthat adatot.
 
-(1b) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 102. § (1) bekezdés a), c) és d) pontja, valamint a 104. § (1) bekezdése szerinti résznyilvántartásokból igényelhet adatokat.
+(1b) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 102. § (1) bekezdés a), c) és d) pontja, valamint a 104. § (1) bekezdése szerinti résznyilvántartásokból igényelhet adatokat. Az igazságügyért felelős miniszter az egyes bírósági eljárások elhúzódásával kapcsolatos vagyoni elégtétel érvényesítésével összefüggő egyezségkötési eljárás és az alaptalanul alkalmazott szabadságkorlátozással összefüggő egyszerűsített kártalanítási eljárás során – az eljárás lefolytatásához szükséges természetes személyazonosító adatokról, lakcím adatokról és értesítési cím adatokról – az idegenrendészeti résznyilvántartásokból igényelhet adatokat.
 
 (1c) Az idegenrendészeti hatóság a központi idegenrendészeti nyilvántartáshoz a Magyar igazolvány, illetve a Magyar hozzátartozói igazolvány kiadása iránti kérelmet elbíráló hatóság részére a kérelem elbírálására irányuló eljárás során a jogosultsági feltételek vizsgálatához, továbbá az igazolvány visszavonására irányuló eljárás során a visszavonási ok fennállásának vizsgálatához a kiutasításra, a beutazási és tartózkodási tilalom fennállására, valamint a bevándorolt vagy letelepedett jogállás fennállására vonatkozó adatok tekintetében közvetlen hozzáférést biztosít.
 

@@ -312,9 +312,26 @@ lajstromban tartja nyilván.
 
 ### A biztosítás
 
-24. §
+24. § (1) Belföldi forgalomban személyhajó és áruszállító hajó, továbbá komp és gazdasági célból üzemeltetett egyéb vízi jármű csak abban az esetben vehet részt, ha az üzemben tartó a szerződésen kívüli kárra érvényes hajó-felelősségbiztosítási szerződéssel rendelkezik.
 
-25. §
+(2) A külföldi lobogó alatt közlekedő – az (1) bekezdésben meghatározott – úszólétesítménynek Magyarország területére történő belépéséhez szükséges, hogy
+
+- a) az üzemben tartó érvényes felelősségbiztosítást igazoló nemzetközi bizonylattal rendelkezzék, vagy
+- b) Magyarország területére való belépésekor az üzemben tartó – határozott időre szóló – felelősségbiztosítási szerződést kössön.
+
+(3) A külföldi lobogó alatt közlekedő – az (1) bekezdésben meghatározott – úszólétesítmények Magyarország területére történő belépésekor a vámhatóság ellenőrzi a (2) bekezdésben foglaltak meglétét, és ha annak hiányát állapítja meg, a beléptetést megtagadja.
+
+(4) A hajó-felelősségbiztosítási szerződés megkötését tanúsító bizonylatot (kötvény, igazolólap) az úszólétesítmény vezetője köteles az úszólétesítményen tartani, és azt jogszabályban megállapított esetben felmutatni.
+
+(5) Ha megállapítást nyer, hogy az (1) bekezdésben megjelölt úszólétesítményre nincs érvényes hajó-felelősségbiztosítási biztosítási szerződés, az üzemben tartó lakhelye (székhelye) szerinti illetékes hajózási hatóság tizenöt napon belül felhívja az üzemben tartót a biztosítási szerződés megkötésének igazolására. Amennyiben az üzemben tartó a felhívás kézhezvételétől számított nyolc napon belül a biztosítási szerződés fennállását nem igazolja, a hajózási hatóság a hajózási engedélyt visszavonja.
+
+25. § (1) A biztosító az üzemben tartónak a felelősségbiztosítás általános feltételei szerinti biztosítási szerződés kötésére vonatkozó ajánlatát köteles elfogadni.
+
+(2) Az a biztosító, amely az ajánlattevővel korábban már kötött biztosítási szerződést, és ezt a biztosítottnak súlyosan felróható okból felmondta, vagy a korábbi szerződés a díj nem fizetése miatt szűnt meg, a biztosítási időszak leteltét követő egy évig megtagadhatja újabb szerződés megkötését.
+
+(3) A biztosító – amennyiben nemzetközi szerződés eltérően nem rendelkezik – a szerződés alapján összegszerű korlátozás nélkül köteles helytállni a károsulttal szemben.
+
+(4) A károsult a biztosítási szerződés keretei között jogosult igényét közvetlenül a biztosítóval szemben érvényesíteni.
 
 25/A. § (1) A magyar lajstromba bejegyzett, valamint a Magyarország területi vizeire érkező külföldi lobogójú, gazdasági célú tengeri hajózási tevékenységet folytató, 300 vagy ennél nagyobb bruttó tonnatartalmú hajó a víziközlekedésben csak abban az esetben vehet részt, ha az üzemben tartó a szerződésen kívüli kárra az adott hajóra vonatkozóan érvényes biztosítási igazolással rendelkezik.
 

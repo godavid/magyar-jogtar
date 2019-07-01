@@ -17,7 +17,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 
 (2) E törvény hatálya nem terjed ki a Magyar Fejlesztési Bank Zrt.-re és a Magyar Export-Import Bank Zrt.-re.
 
-(3) E törvény alkalmazásában egy hitelintézetként kell kezelni a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvény (a továbbiakban: Szhitv.) szerinti szövetkezeti hitelintézeteket az Integrációs Szervezettel együtt, ha azok az Szhitv. szerinti egyetemleges felelősségi körbe tartoznak.
+(3)
 
 (4) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.), a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csődtv.), a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.), és a polgári perrendtartásról szóló törvény (a továbbiakban: Pp.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
@@ -65,9 +65,9 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 - 31. harmadik ország: az az ország, amely nem EGT-állam;
 - 32. harmadik országbeli szanálási eljárás: egy harmadik országbeli intézmény fizetésképtelenségének kezelésére szolgáló, harmadik ország joga szerinti intézkedés, amely a célok és a várható eredmények szempontjából hasonló az e törvény szerinti szanálási intézkedésekhez;
 - 33. határon átnyúló csoport: olyan csoport, amelyben több EGT-államban székhellyel rendelkező vállalkozás van;
-- 34. hitelintézet: a Hpt. 8. § (1) bekezdésében meghatározott szervezet, valamint az Integrációs Szervezet;
+- 34. hitelintézet: a Hpt. 8. § (1) bekezdésében meghatározott szervezet;
 - 34a. hitelviszonyt megtestesítő instrumentum: kötvény és az átruházható követelések más formája, adósságot keletkeztető vagy elismerhető instrumentum, és a hitelviszonyt megtestesítő instrumentum megszerzésére feljogosító instrumentum;
-- 35. Integrációs Szervezet: a Szhitv.-ben meghatározott fogalom;
+- 35.
 - 36. illetékes felügyeleti hatóság: 575/2013/EU rendeletben illetékes hatóságként meghatározott fogalom;
 - 37. illetékes minisztérium: EGT-állam azon minisztériuma, amelyet a nemzeti jogszabályok a szanálás tekintetében illetékes minisztériumnak jelölnek ki;
 - 38. járulékos tőke: az 575/2013/EU rendeletben ekként meghatározott fogalom;
@@ -100,7 +100,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 - 58. szanálást finanszírozó rendszer: EGT-állam által a szanálási intézkedések hatékony alkalmazásához szükséges pénzügyi források rendelkezésre állása érdekében létrehozott rendszer;
 - 59. szavatoló tőke: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 59a. szavatoló tőke követelmények: az 575/2013/EU rendelet 92–98. cikkében meghatározott követelmények;
-- 60. szövetkezeti hitelintézet: a Szhitv. alapján a szövetkezeti hitelintézetek integrációjában részt vevő hitelintézet;
+- 60.
 - 61. ügyvezető: a Hpt. 6. § (1) bekezdésében meghatározott fogalom;
 - 62. vagyonértékesítés: a szanálás alatt álló intézmény által kibocsátott tagsági részesedés, illetve a szanálás alatt álló intézmény eszközeinek, forrásainak, jogainak és kötelezettségeinek e törvény szerinti, a szanálási feladatkörében eljáró MNB általi, áthidaló intézménynek nem minősülő átvevőre történő átruházása;
 - 63. vállalkozás: a gazdasági tevékenységet folytató jogi személy, az egyéni cég és az egyéni vállalkozó;
@@ -441,7 +441,7 @@ nyújthatók, és nem használhatók fel az érintett intézmény korábban kele
 - a) az intézkedés szükséges az e törvényben meghatározott szanálási célok közül egy vagy több megvalósításához, azokkal arányos, és
 - b) az intézmény fizetésképtelenségi eljárás keretében történő megszüntetése révén e szanálási célok nem tudnának legalább a szanálási intézkedés alkalmazásával elérhető mértékben megvalósulni.
 
-(6) Az (1) bekezdés b) pontjának alkalmazásakor a Szhitv. szerinti szövetkezeti hitelintézet szanálása előtt a szanálási feladatkörében eljáró MNB-nek azt is meg kell vizsgálnia, hogy az Integrációs Szervezet intézkedéseivel megakadályozható-e a szövetkezeti hitelintézet fizetésképtelenné válása.
+(6)
 
 (7) A szanálási feladatkörében eljáró MNB az intézményre vonatkozó szanálási akciótervet készít legkésőbb a szanálás (1) bekezdés szerinti elrendelésekor, amely – ha rendelkezésre áll akkor – figyelembe veszi a szanálási tervet, kivéve ha az eltérést az eset körülményei indokolttá teszik.
 
@@ -898,13 +898,7 @@ azzal, hogy a szanálási feladatkörében eljáró MNB csoportszintű szanálá
 
 (3) A szanálási feladatkörében eljáró MNB objektív szempontok alapján meghatározott lehetséges átvevőket kér fel.
 
-(4) Szövetkezeti hitelintézet szanálása során a lehetséges átvevők felkérésénél a szanálási feladatkörében eljáró MNB a következő szempontok szerint előnyben részesíti:
-
-- a) az azonos vagy nagyobb földrajzi működési területtel rendelkező intézményt,
-- b) azt az intézményt, amelynek a termék- és szolgáltatás-struktúrája hasonló,
-- c) azt az intézményt, amelynek fiókhálózata egészségesen kiegészíthető (figyelembe véve azt is, hogy az átvevő intézmény általában milyen településméreten tart fenn fiókokat) az átveendő intézmény fiókjaival,
-- d) informatikai rendszer egyezőségét, külön értékelve, hogy az eszköz és forrásállomány milyen erőforrásokkal migrálható az átvevő intézménybe,
-- e) a korábbi működési szabályzatok hasonlóságát.
+(4)
 
 43. § A szanálási feladatkörében eljáró MNB a 42. § (2) bekezdésében meghatározott értékesítési követelmény teljesítése nélkül is alkalmazhatja a vagyonértékesítési eszközt, ha úgy ítéli meg, hogy az e követelménynek való megfelelés valószínűleg meghiúsítaná vagy súlyosan veszélyeztetné egy vagy több szanálási cél elérését. A szanálási feladatkörében eljáró MNB különösen a következő feltételek fennállása esetén tekinthet el a 42. § (2) bekezdésében meghatározott követelmények teljesítésétől:
 
@@ -2115,7 +2109,7 @@ folytat le.
 - g) a fióktelep szanálási hatóságát;
 - h) az illetékes minisztériumokat;
 - i) a pénz-, tőke- és biztosítási piac szabályozásáért felelős minisztert;
-- j) szövetkezeti hitelintézet tervezett szanálása esetén az Integrációs Szervezetet;
+- j)
 - k) az Európai Rendszerkockázati Testületet.
 
 114. § (1) A szanálási feladatkörében eljáró MNB a szanálási intézkedésről a szanálási intézkedés meghozatalát követően haladéktalanul értesíti a 113. §-ban meghatározott szervezeteket és személyeket, valamint az Európai Bizottságot, az Európai Központi Bankot, az EBH-t, az Európai Értékpapír-piaci Hatóságot és az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot.
@@ -2603,14 +2597,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 
 (6)
 
-149. § (1) E törvény alapján egyedi alapon nem minősíthetőek fizetésképtelennek vagy várhatóan fizetésképtelenné válónak a Szhitv. szerinti szövetkezeti hitelintézetek, ha azok a Szhitv. szerinti egyetemleges felelősségi körbe tartoznak.
-
-(2) Ha a szanálási feltételek az Integrációs Szervezet olyan tagja vonatkozásában állnak fenn, amely nem minősül a Szhitv. szerinti egyetemleges felelőségi körbe tartozó hitelintézetnek, az MNB elnöke az Integrációs Szervezet elnökét értesíti. Az Integrációs Szervezet elnöke 5 napon belül az MNB elnöke felé nyilatkozik arról, hogy
-
-- a) az általa alkalmazható intézkedések és kivételes intézkedések alapján a szanálási feltételek (a szanálás alapjául szolgáló okok) megszüntethetőek-e, vagy
-- b) szanálási eljárás lefolytatására van szükség.
-
-(3) Az Integrációs Szervezet (2) bekezdés a) pont szerinti határidőkkel ellátott intézkedési tervet tartalmazó nyilatkozatát részletesen indokolja. Az Integrációs Szervezet intézkedési eredményéről a Felügyelet és a szanálási feladatkörében eljáró MNB számára az intézkedés megtételét követő 3 munkanapon belül beszámolót küld.
+#### 149. §
 
 150. § A 72. § (7) bekezdésében foglaltakat a törvény hatálybalépését követően kibocsátott vagy keletkeztetett értékpapírra és kötelezettségre kell alkalmazni.
 

@@ -44,7 +44,7 @@ Magyarországon adóztatható része után.
 
 #### 2. Az adó mértéke és fizetendő összege
 
-2. § (1) Az adó mértéke az adóalap 19,5 százaléka, az 1. § (4) bekezdésben foglalt esetekben a juttatások adóalapként meghatározott összegének 19,5 százaléka.
+2. § (1) Az adó mértéke az adóalap 17,5 százaléka, az 1. § (4) bekezdésben foglalt esetekben a juttatások adóalapként meghatározott összegének 17,5 százaléka.
 
 (2) Az 1. § (5) bekezdés a)–e) pontja esetében az adót addig kell megfizetni, amíg a természetes személy 1. § (1)–(3) bekezdés és az 1. § (5) bekezdés a)–e) pontja szerinti jövedelme a tárgyévben eléri a minimálbér összegének huszonnégyszeresét (a továbbiakban: adófizetési felső határ).
 

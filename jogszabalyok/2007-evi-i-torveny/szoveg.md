@@ -810,7 +810,12 @@ meghosszabbítása
 
 (2a) Az eljáró idegenrendészeti hatóság a 75. § (1) bekezdésében meghatározott résznyilvántartásokból a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadatok kockázatelemzéséhez szolgáltathat adatot.
 
-(2b) Az eljáró idegenrendészeti hatóság a kegyelmi eljárás során a legfőbb ügyész, illetve az igazságügyért felelős miniszter részére a 75. § (1) bekezdés d) és e) pontjában foglalt résznyilvántartásokból szolgáltathat adatot.
+(2b) Az eljáró idegenrendészeti hatóság
+
+- a) a kegyelmi eljárás során a legfőbb ügyész, illetve az igazságügyért felelős miniszter részére a 75. § (1) bekezdés d) és e) pontjában,
+- b) az egyes bírósági eljárások elhúzódásával kapcsolatos vagyoni elégtétel érvényesítésével összefüggő egyezségkötési eljárás és az alaptalanul alkalmazott szabadságkorlátozással összefüggő egyszerűsített kártalanítási eljárás során – az eljárás lefolytatásához szükséges természetes személyazonosító adatokról, lakcím adatokról és értesítési cím adatokról – az igazságügyért felelős miniszter részére a 75. § (1) bekezdésében
+
+foglalt résznyilvántartásokból szolgáltathat adatot.
 
 (2c) Az eljáró idegenrendészeti hatóság a 75. § (1) bekezdésében meghatározott résznyilvántartásokból a büntetés-végrehajtási intézetnek a befogadás során az elítélt személyazonosságának ellenőrzése érdekében szolgáltathat adatot.
 

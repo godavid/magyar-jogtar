@@ -12,14 +12,15 @@ Magyarország a rendvédelmi feladatokat ellátó szervektől alkotmányos köte
 
 - a) az általános rendőrségi feladatok ellátására létrehozott szerv,
 - b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
-- c) a terrorizmust elhárító szerv [az a)–c) pontban felsorolt szervek a továbbiakban együtt: rendőrség],
-- d) a hivatásos katasztrófavédelmi szerv,
-- e) a büntetés-végrehajtási szervezet,
-- f) az Országgyűlési Őrség,
-- g) a polgári nemzetbiztonsági szolgálatok, valamint
-- h) a Nemzeti Adó- és Vámhivatal
+- c) a terrorizmust elhárító szerv,
+- d) az idegenrendészeti szerv [az a)–d) pontban felsorolt szervek a továbbiakban együtt: rendőrség],
+- e) a hivatásos katasztrófavédelmi szerv,
+- f) a büntetés-végrehajtási szervezet,
+- g) az Országgyűlési Őrség,
+- h) a polgári nemzetbiztonsági szolgálatok, valamint
+- i) a Nemzeti Adó- és Vámhivatal
 
-[az a)–h) pontban felsorolt rendvédelmi feladatokat ellátó szervek e törvény alkalmazásában a továbbiakban: rendvédelmi szerv] hivatásos állománya tagjainak hivatásos szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és egyes társadalombiztosítási ellátására terjed ki.
+[az a)–i) pontban felsorolt rendvédelmi feladatokat ellátó szervek e törvény alkalmazásában a továbbiakban: rendvédelmi szerv] hivatásos állománya tagjainak hivatásos szolgálati jogviszonyára (a továbbiakban: szolgálati viszony) és egyes társadalombiztosítási ellátására terjed ki.
 
 (2) Az Országgyűlési Őrség hivatásos állományának szolgálati viszonyára az e törvényben foglaltakat az Országgyűlésről szóló törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -68,7 +69,7 @@ is alkalmazni kell.
 - 16. magasabb szolgálati beosztás: az a szolgálati beosztás, amely a betöltött szolgálati beosztásnál magasabb besorolási osztályba vagy magasabb besorolási kategóriába tartozik, vagy magasabb besorolású vezetői beosztásnak minősül, továbbá a nem vezetői beosztást betöltők esetében a vezetői beosztás is;
 - 17. miniszter: a Kormánynak a rendvédelmi szervet irányító tagja;
 - 17a. nemzetközi közigazgatási szakértői tevékenység: a nemzetközi színvonalú hazai állami digitális megoldások exportjával és programjának fejlesztésével összefüggő – külföldön történő feladatvégzéssel járó, ellentételezés fejében ellátott szakértői – tevékenység;
-- 18. országos főigazgató: a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv főigazgatója;
+- 18. országos főigazgató: a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint az idegenrendészeti szerv főigazgatója;
 - 19. országos parancsnok: az országos rendőr-főkapitány, a hivatásos katasztrófavédelmi szerv központi szervének vezetője, a büntetés-végrehajtás országos parancsnoka, a polgári nemzetbiztonsági szolgálatok főigazgatói, valamint az Országgyűlési Őrség parancsnoka;
 - 20. pályakezdő: az a személy, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzése után első foglalkoztatási jogviszonyként szolgálati viszonyt létesít, a véglegesítéséig;
 - 21. preferált település: olyan település vagy településrész, amelynek sajátosságai miatt – figyelemmel a rendvédelmi szerv vagy annak szervezeti egysége által ellátott feladatok jellegére – az adott településen vagy településrészen való szolgálatteljesítés ösztönzése indokolt;
@@ -1770,7 +1771,7 @@ besorolási osztályba tartoznak.
 
 (3) A tiszti besorolási osztályba és a tiszthelyettesi besorolási osztályba tartozó,
 
-- a) az általános rendőrségi feladatok ellátására létrehozott szervnél, a büntetés-végrehajtási szervezetnél, valamint a hivatásos katasztrófavédelmi szervnél rendszeresített szolgálati beosztásokat öt-öt, „A”, „B”, „C”, „D”, „E” jelölésű,
+- a) az általános rendőrségi feladatok ellátására létrehozott szervnél, az idegenrendészeti szervnél, a büntetés-végrehajtási szervezetnél, valamint a hivatásos katasztrófavédelmi szervnél rendszeresített szolgálati beosztásokat öt-öt, „A”, „B”, „C”, „D”, „E” jelölésű,
 - b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél, az Országgyűlési Őrségnél, valamint a polgári nemzetbiztonság szolgálatoknál rendszeresített szolgálati beosztásokat négy-négy, „A”, „B”, „C”, „D” jelölésű
 
 besorolási kategóriába kell besorolni.
@@ -3391,7 +3392,7 @@ kezdődik.
 
 275/A. § A 275. § j) pontja szerinti előzetes véleményalkotási eljárás alkalmazására
 
-- a) az 1. § (1) bekezdés a)–e) pontjában meghatározott rendvédelmi szerv, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter irányítása alatt álló polgári nemzetbiztonsági szolgálat irányában,
+- a) az 1. § (1) bekezdés a)–f) pontjában meghatározott rendvédelmi szerv, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter irányítása alatt álló polgári nemzetbiztonsági szolgálat irányában,
 - b) kizárólag a munkáltatói jogkör gyakorlójának kezdeményezésére
 
 kerülhet sor.
@@ -3592,7 +3593,7 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 ### XXVIII/A. Fejezet — A RENDVÉDELMI IGAZGATÁSI ALKALMAZOTTAK SZOLGÁLATI JOGVISZONYA
 
-287/E. § (1) E fejezet hatálya az 1. § (1) bekezdés a)–e) és g) pontja szerinti rendvédelmi szerv által rendvédelmi igazgatási szolgálati jogviszonyban (e fejezet alkalmazásában a továbbiakban: igazgatási jogviszonyban) foglalkoztatott rendvédelmi igazgatási alkalmazottakra (e fejezet alkalmazásában a továbbiakban: rendvédelmi alkalmazott) terjed ki.
+287/E. § (1) E fejezet hatálya az 1. § (1) bekezdés a)–f) és h) pontja szerinti rendvédelmi szerv által rendvédelmi igazgatási szolgálati jogviszonyban (e fejezet alkalmazásában a továbbiakban: igazgatási jogviszonyban) foglalkoztatott rendvédelmi igazgatási alkalmazottakra (e fejezet alkalmazásában a továbbiakban: rendvédelmi alkalmazott) terjed ki.
 
 (2) A rendvédelmi alkalmazottra a törvény e fejezetben megjelölt rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni azzal, hogy
 
@@ -5540,13 +5541,7 @@ alakul át.
 
 362/L. § A XXVIII/A. Fejezet hatálya alá tartozó rendvédelmi szerv által kötött, 2019. január 31-én hatályos kollektív szerződés közalkalmazottakra vonatkozó rendelkezéseit 2019. december 31-éig alkalmazni kell.
 
-363. § E törvény
-
-- a) 366. § (4) bekezdése az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül,
-- b) 366. § (28) bekezdés a) és b) pontja az Alaptörvény 25. cikk (8) és 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül,
-- c) 366. § (29) bekezdése az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül,
-- d) 366. § (35) bekezdés a) és b) pontja az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül,
-- e) 366. § (35) bekezdés c)–e) pontja az Alaptörvény 5. cikk (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
+#### 363. §
 
 364. § (1) Ez a törvény a 340. és 341. §-ban foglalt felhatalmazások alapján kiadott rendeletekkel együtt
 
@@ -5566,7 +5561,29 @@ való megfelelést szolgálja.
 
 (2) Ha az egészségkárosodási ellátásra jogosultság megállapításakor a jogosult a 353–355. § szerinti átmeneti rendelkezések alapján még nem az e törvény XIII. Fejezete szerinti illetményre jogosult, a 2019. január 1-ig bekövetkező általános illetményfejlesztés során a 82/G. § (1) vagy (2) bekezdése szerinti számítási alapot az illetményfejlesztés szabályainak megfelelő alkalmazásával ismételten meg kell állapítani és az egészségkárosodási ellátás mértékét ennek megfelelően emelni kell, mindaddig, amíg az illetményfejlesztés szabályai szerint az egészségkárosodási ellátás megállapítását megelőző illetménye el nem éri az e törvény XIII. Fejezete szerinti mértéket.
 
-#### 366. §
+366. § (1) Az idegenrendészeti szervvel összefüggő egyes törvények módosításáról szóló törvény alapján az idegenrendészeti szerv hivatásos állományában 2019. július 1. kezdőnappal a közszolgálati tisztviselőkről szóló törvény szerinti jogviszonyváltással létesített szolgálati viszonyt létesítők vonatkozásában e törvény rendelkezéseit a következő eltéréssel kell alkalmazni:
+
+- a) a szolgálati viszony a 33. § (1) bekezdés a) pontjában foglaltaktól eltérően a hivatásos szolgálat felső korhatáráig létesíthető,
+- b) a 33. § (1) bekezdés b) pontjában foglaltaktól eltérően a szolgálati viszony a szolgálati viszony létesítésének feltételeként meghatározott szakképzettség hiányában is létesíthető, a szolgálati beosztás a 128. § (2) bekezdésében foglaltaktól eltérően a rendvédelmi szerv alaptevékenységének megfelelő szakképzettség hiányában is betölthető,
+- c) a 49. §-ban foglaltaktól eltérően próbaidő kikötésére nem kerül sor,
+- d) az 58. § (4) bekezdésének vizsgálatakor a 2019. július 1-jét megelőzően az idegenrendészeti szervvé alakulást megelőzően a szervezetnél vezetői munkakörben töltött időt megfelelően figyelembe kell venni,
+- e) a hivatásos állomány tagja a 130. § (3) bekezdésétől eltérően rendészeti szakvizsgához kötött szolgálati beosztásba is kinevezhető,
+- f) a hivatásos állomány tagja a 130. § (4) bekezdésétől eltérően a jogszabályban meghatározott vezetővé képzés vagy magasabb vezetővé képzés nélkül is kinevezhető vezetői beosztásba,
+- g) a 280. § (1) bekezdés b) pontja szerinti időtartamként kell elismerni az idegenrendészeti szervvé alakulást megelőzően a szervezetnél vagy annak jogelődjénél foglalkoztatási jogviszonyban töltött időt.
+
+(2) Az (1) bekezdés szerint szolgálati viszonyt létesítő személy
+
+- a) az (1) bekezdés b) pontja szerinti esetben 2022. június 30-ig köteles megszerezni az e törvény alapján szükséges szakképzettséget,
+- b) az (1) bekezdés e) pontja szerinti esetben 2021. június 30-ig köteles teljesíteni a rendészeti szakvizsgát,
+- c) az (1) bekezdés f) pontja szerinti esetben a rendészeti vezetővé képző tanfolyamot a rendészeti szakvizsga teljesítésétől – ha azzal már rendelkezik vagy annak teljesítése alól mentesül, akkor 2019. július 1-jétől – számított 2 éven belül, a rendészeti magasabb vezetővé képző tanfolyamot a rendészeti szakvizsga teljesítésétől – ha azzal már rendelkezik vagy annak teljesítése alól mentesül, akkor 2019. július 1-jétől – számított 2 és fél éven belül köteles teljesíteni.
+
+(3) Az (1) bekezdés szerint szolgálati viszonyt létesítő személy 2019. július 1. napján olyan szolgálati beosztásba is helyezhető, amelyhez a szükséges fizetési fokozattal nem rendelkezik. Ha a betöltött szolgálati beosztás besorolási kategóriájához a hivatásos állomány tagja részére megállapított fizetési fokozatban szorzószám nem került rendszeresítésre, akkor a hivatásos állomány tagjának illetményét az adott besorolási kategóriához rendszeresített legelső fizetési fokozat alapján kell folyósítani azzal, hogy megállapított fizetési fokozata ezzel nem változik. A fizetési fokozatban előmenetelre, valamint a szolgálati beosztás módosítása esetén a megállapított fizetési fokozat irányadó.
+
+(4) Az idegenrendészeti szerv szervezeti teljesítményértékelésére első alkalommal a 2020. tárgyévre vonatkozóan kerül sor.
+
+(5) A kormányzati szolgálati jogviszonyban 2018. tárgyévre vonatkozóan végrehajtott teljesítményértékelés eredményére tekintettel a hivatásos állomány tagja 2019-ben teljesítményjuttatásra nem jogosult.
+
+(6) Az MRK Közgyűlésének rendőrségi tagozatába a 301. § (4) bekezdésében foglaltaktól eltérően 2022-ben esedékes választásig átmenetileg az idegenrendészeti szerv állományából kettő további tagot kell választani, így a tagozat átmenetileg tizenkét tagból, a Közgyűlés összesen ötvenöt tagból áll.
 
 367. § (1) A Bevándorlási és Menekültügyi Hivatalnál 2019. június 30-án foglalkoztatott
 
@@ -5998,7 +6015,7 @@ V.
 
 ### 5. melléklet a 2015. évi XLII. törvényhez
 
-Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások besorolása az általános rendőrségi feladatok ellátására létrehozott szervnél, a büntetés-végrehajtási szervezetnél, valamint a hivatásos katasztrófavédelmi szervnél
+Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások besorolása az általános rendőrségi feladatok ellátására létrehozott szervnél, az idegenrendészeti szervnél, a büntetés-végrehajtási szervezetnél, valamint a hivatásos katasztrófavédelmi szervnél
 
 |  | A | B | C | D | E | F |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -6042,7 +6059,7 @@ f) ftzls. – főtörzszászlós
 
 ### 6. melléklet a 2015. évi XLII. törvényhez
 
-Tiszti beosztási osztályba tartozó szolgálati beosztások besorolása az általános rendőrségi feladatok ellátására létrehozott szervnél, a büntetés-végrehajtási szervezetnél, valamint a hivatásos katasztrófavédelmi szervnél
+Tiszti beosztási osztályba tartozó szolgálati beosztások besorolása az általános rendőrségi feladatok ellátására létrehozott szervnél, az idegenrendészeti szervnél, a büntetés-végrehajtási szervezetnél, valamint a hivatásos katasztrófavédelmi szervnél
 
 |  | A | B | C | D | E | F |
 | --- | --- | --- | --- | --- | --- | --- |

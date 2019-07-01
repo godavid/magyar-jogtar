@@ -4,30 +4,30 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 1. § (1) E törvény alkalmazásában
 
-- a) egységes informatikai rendszer: az Integrációs Szervezet 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tagjai, valamint a szövetkezeti hitelintézetek, illetve a Központi Bank ellenőrző befolyása alatt működő pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, befektetési vállalkozás, biztosító, a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény szerinti ABAK és ÁÉKBV-alapkezelő részére a Központi Bank irányításával, az Integrációs Szervezet prudenciális kontrollja mellett összeállított és fejlesztett, a Központi Adatfeldolgozó által üzemeltetett adatbázis és ahhoz kapcsolódó egyedi rendszerek együttese;
-- b)
+- a) egységes informatikai rendszer: az Integrációs Szervezet tagjai és a további ellenőrzés alá vont szervezet részére az integrációs üzleti irányító szervezet irányításával, az Integrációs Szervezet prudenciális kontrollja mellett összeállított és fejlesztett, a Központi Adatfeldolgozó által üzemeltetett adatbázis és ahhoz kapcsolódó egyedi rendszerek együttese;
+- b) ellenőrző befolyás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben (a továbbiakban: Hpt.) ekként meghatározott fogalom;
 - c) Előzetes kötelezettségvállaló nyilatkozat: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 3:296. § (3) bekezdése szerinti kötelezettségvállalást tartalmazó nyilatkozat, amely tartalmában e törvény rendelkezéseinek is megfelel.
 - d) Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank;
-- e)
+- e) ellenőrzés alá vont szervezet: az Integrációs Szervezet tagjai, a Kapcsolt Vállalkozások, a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja, valamint a Központi Adatfeldolgozó;
 - f)
 - g) HBA: Hitelszövetkezetek Első Hazai Önkéntes Betétbiztosítási és Intézményvédelmi Alapja
-- h)
+- h) Holding Szövetkezet: az Integrációs Szervezet szövetkezeti hitelintézetnek nem minősülő, szövetkezeti formában működő tagja, aki szövetkezeti hitelintézetekben tulajdonjoggal rendelkezik;
 - i) Szövetkezeti Hitelintézetek Integrációs Szervezete vagy Integrációs Szervezet: a szövetkezeti hitelintézet tekintetében a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: az Európai Parlament és a Tanács 575/2013/EU rendelete) 10. cikkében meghatározott központi szerv feladatait ellátó szervezet;
-- j)
+- j) Kapcsolt Vállalkozás: az Integrációs Szervezet tagjának ellenőrző befolyása alatt működő szervezet;
 - k) könyvvizsgáló: könyvvizsgálattal főtevékenységként foglalkozó, pénzügyi intézményi minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég;
-- l) Központi Adatfeldolgozó: az egységes informatikai rendszer folyamatos és biztonságos üzemeltetését, valamint fejlesztését az Integrációs Szervezet 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tagjával kötött, – az e törvényben meghatározottak figyelembevételével – a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) kiszervezésre vonatkozó szabályainak megfelelő megállapodás alapján végző informatikai szolgáltató;
-- m) Központi Bank: az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikkében meghatározott központi szerv feladatainak ellátásában e törvény felhatalmazása alapján közreműködő, szövetkezeti hitelintézetnek nem minősülő hitelintézet;
+- l) Központi Adatfeldolgozó: az egységes informatikai rendszer folyamatos és biztonságos üzemeltetését, valamint fejlesztését az Integrációs Szervezet tagjával kötött, – az e törvényben meghatározottak figyelembevételével – a Hpt. kiszervezésre vonatkozó szabályainak megfelelő megállapodás alapján végző informatikai szolgáltató;
+- m) integrációs üzleti irányító szervezet: az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikkében meghatározott központi szerv feladatainak ellátásában e törvény felhatalmazása alapján közreműködő, szövetkezeti hitelintézetnek nem minősülő pénzügyi intézmény;
 - n)
-- o) Magyar Posta: a Magyar Posta Zártkörűen Működő Részvénytársaság és a tulajdonában álló gazdasági társaság (ideértve a legalább 20%-os tulajdoni részesedést és az ellenőrző befolyást);
-- p) MFB: a Magyar Fejlesztési Bank Zrt. és a tulajdonában álló gazdasági társaság (ideértve a legalább 20%-os tulajdoni részesedést és az ellenőrző befolyást);
+- o)
+- p)
 - q) Önkéntes Takarékszövetkezeti intézményvédelmi alapok: az Országos Takarékszövetkezeti Intézményvédelmi Alap (a továbbiakban: OTIVA), a Regionális Pénzintézetek Intézményvédelmi Alapja (a továbbiakban: REPIVA) és a Takarékszövetkezeti Intézményvédelmi Alap (TAKIVA);
 - r) fő üzletág: a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben (a továbbiakban: Szan. tv.) meghatározott fogalom;
-- s)
-- t) szövetkezeti hitelintézet: a takarékszövetkezet, a hitelszövetkezet és minden olyan egyéb hitelintézet is, amelynek működését vagy amelynek betéteit 2013. január 1-jén Önkéntes Takarékszövetkezeti intézményvédelmi alapok valamelyike védte, valamint az a hitelintézet is, amelyet a 3. § (2) bekezdésének megfelelően az Integrációs Szervezethez benyújtott csatlakozási kérelme alapján a Központi Bank igazgatóságának előzetes egyetértése, továbbá a Felügyelet előzetes jóváhagyását követően felvettek az Integrációs Szervezetbe;
+- s) részjegy: szövetkezeti formában működő szövetkezeti hitelintézet tagjának vagyoni részesedése;
+- t) szövetkezeti hitelintézet: a takarékszövetkezet, a hitelszövetkezet és minden olyan egyéb hitelintézet is, amelynek működését vagy amelynek betéteit 2013. január 1-jén Önkéntes Takarékszövetkezeti intézményvédelmi alapok valamelyike védte, valamint az a hitelintézet is, amelyet a 3. § (2) bekezdésének megfelelően az Integrációs Szervezethez benyújtott csatlakozási kérelme alapján az integrációs üzleti irányító szervezet igazgatóságának előzetes egyetértése, továbbá a Felügyelet előzetes jóváhagyását követően felvettek az Integrációs Szervezetbe;
 - u)
 - v) tőkepozíciója rossz: nem felel meg az Integrációs Szervezet által a 17/C. § (1) bekezdésében foglaltaknak megfelelően előírt tőkekövetelménynek;
 - w) tőkepozíciója romlik: a tőkemegfelelési mutatója az Integrációs Szervezet által a 17/C. § (1) bekezdésében foglaltaknak megfelelően előírt minimálisan tartandó szint 20 százalékkal növelt értékénél alacsonyabb és egy naptári negyedév alatt legalább 1 százalékponttal csökkent;
-- x) veszélyeztető magatartás: a szövetkezeti hitelintézet vagy a Központi Bank olyan – e törvény alapján kiadott irányelvben meghatározott – tevékenysége vagy mulasztása, amely a szövetkezeti hitelintézeti integráció céljainak elérését nagymértékben veszélyezteti;
+- x) veszélyeztető magatartás: az Integrációs Szervezet tagjának olyan – e törvény alapján kiadott irányelvben meghatározott vagy az integrációs üzleti irányító szervezet közgyűlése által jóváhagyott integrációs szintű stratégiának a megvalósítását akadályozó, hátráltató vagy megnehezítő – tevékenysége vagy mulasztása, amely a szövetkezeti hitelintézeti integráció céljainak határidőben történő elérését nagymértékben veszélyezteti;
 - y) válsághelyzet: az az állapot, amikor egy szövetkezeti hitelintézet
   - ya) tőkepozíciója rossz, vagy
   - yb) tőkepozíciója két egymást követő naptári negyedévben romlik;
@@ -35,23 +35,25 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (2) A szövetkezeti hitelintézetek integrációja az 1/A. §-ban meghatározott célok elérése érdekében jön létre és működik. A szövetkezeti hitelintézetek integrációjának központi szerve az Integrációs Szervezet.
 
-(3) A szövetkezeti hitelintézet az Integrációs Szervezet tagja és a Központi Bank részvényének megszerzését követően a Központi Bank részvényese. A Központi Bank az Integrációs Szervezet tagja, az Európai Parlament és a Tanács 575/2013/EU rendelete szerinti kapcsolt intézmény.
+(3) A szövetkezeti hitelintézet és az integrációs üzleti irányító szervezet az Integrációs Szervezet tagja és az Európai Parlament és a Tanács 575/2013/EU rendelete szerinti kapcsolt intézmény.
 
-(4) Az Integrációs Szervezet, a Központi Bank és a szövetkezeti hitelintézet egyetemlegesen felelnek egymás valamennyi kötelezettségéért, függetlenül azok keletkezésének időpontjától.
+(4)
 
-(5) A szövetkezeti hitelintézetek integrációja az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikke szerinti feltételek teljesülése esetén mentesül e rendelet második–nyolcadik részében meghatározott követelmények egyedi alkalmazása alól. A Központi Bank, az Integrációs Szervezet, valamint a szövetkezeti hitelintézetek a Hpt. szerinti összevont alapú felügyelet alatt állnak.
+(5) A szövetkezeti hitelintézetek integrációja az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikke szerinti feltételek teljesülése esetén mentesül e rendelet második-nyolcadik részében meghatározott követelmények egyedi alkalmazása alól. Az Integrációs Szervezet, valamint annak tagjai a Hpt. szerinti összevont alapú felügyelet alatt állnak.
 
 (5a) Az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikke alapján egyedileg mentesített intézmények egymás közötti egyesüléséhez, szétválásához, valamint azok egymás között megvalósuló, a Hpt. 17–17/A. §-a vagy a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 140–141. §-a szerinti állományátruházásához a Felügyelet engedélye nem szükséges.
 
-(5b) A szövetkezeti hitelintézet, illetve a Központi Bank az (5a) bekezdés szerinti állományátruházását megelőzően az átruházás szándékát köteles előzetesen bejelenteni a Felügyelet felé, megjelölve az állományátruházás időpontját. Az átvevő hitelintézet a 17/U. § (7)–(9) bekezdés alkalmazásával jogosult az érintett szerződések módosítására azzal, hogy a módosításra a 15. § (2) bekezdés e) pontjában meghatározott üzletszabályzat alkalmazása vagy annak történő megfelelés érdekében is sor kerülhet. Betétállomány és más visszafizetendő pénzeszköz, valamint pénzforgalmi szolgáltatási keretszerződés-állomány átruházása esetén a Felügyelet által jogszabály alapján a belföldi fizetési rendszerek közvetlen és közvetett résztvevőiről vezetett nyilvántartásban, hitelesítő táblában az átadó hitelintézet mint pénzforgalmi szolgáltató azonosító kódját az átvevő hitelintézet az átruházás időpontjától kezdődően jogosult sajátjaként használni. A Hpt. állományátruházásra vonatkozó szabályainak alkalmazása tekintetében az állományátruházás bejelentésben megjelölt időpontját kell figyelembe venni az átruházás Felügyelet által engedélyezett időpontja helyett.
+(5b) A szövetkezeti hitelintézet, illetve az integrációs üzleti irányító szervezet az (5a) bekezdés szerinti állományátruházását megelőzően az átruházás szándékát köteles előzetesen bejelenteni a Felügyelet felé, megjelölve az állományátruházás időpontját. Az átvevő hitelintézet a 17/U. § (7)–(9) bekezdés alkalmazásával jogosult az érintett szerződések módosítására azzal, hogy a módosításra a 15. § (2) bekezdés e) pontjában meghatározott üzletszabályzat alkalmazása vagy annak történő megfelelés érdekében is sor kerülhet. Betétállomány és más visszafizetendő pénzeszköz, valamint pénzforgalmi szolgáltatási keretszerződés-állomány átruházása esetén a Felügyelet által jogszabály alapján a belföldi fizetési rendszerek közvetlen és közvetett résztvevőiről vezetett nyilvántartásban, hitelesítő táblában az átadó hitelintézet mint pénzforgalmi szolgáltató azonosító kódját az átvevő hitelintézet az átruházás időpontjától kezdődően jogosult sajátjaként használni. A Hpt. állományátruházásra vonatkozó szabályainak alkalmazása tekintetében az állományátruházás bejelentésben megjelölt időpontját kell figyelembe venni az átruházás Felügyelet által engedélyezett időpontja helyett.
 
-(5c) Az Integrációs Szervezet lekötött tartalékának összege, valamint a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapjának vagyona a Központi Bank és a szövetkezeti hitelintézet összevont szavatoló tőkéjébe beszámítandó az (5) bekezdésnek megfelelően.
+(5c) Az Integrációs Szervezet lekötött tartalékának összege, valamint a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapjának vagyona az integrációs üzleti irányító szervezet és a szövetkezeti hitelintézet összevont szavatoló tőkéjébe beszámítandó az (5) bekezdésnek megfelelően.
 
-(5d) Az Integrációs Szervezet és a Központi Bank e törvényben meghatározott feladatköreinek ellátása nem érinti a Felügyelet hatásköreinek gyakorlását.
+(5d) Az Integrációs Szervezet és az integrációs üzleti irányító szervezet e törvényben meghatározott feladatköreinek ellátása nem érinti a Felügyelet hatásköreinek gyakorlását.
 
-(5e) Az Integrációs Szervezet és a Központi Bank a szövetkezeti hitelintézeti integráció tagjait – az e törvényben meghatározott szabályok szerint – irányítja, tevékenységüket összehangolja.
+(5e) Az Integrációs Szervezet és az integrációs üzleti irányító szervezet a szövetkezeti hitelintézeti integráció tagjait – az e törvényben meghatározott szabályok szerint – irányítja, tevékenységüket összehangolja.
 
-(6) Az összevont alapú felügyelet alá tartozó intézményekre összeállított konszolidált adatszolgáltatási, nyilvánosságra hozatali és egyéb jogszabályi kötelezettségeket a Központi Bank teljesíti.
+(6) Az összevont alapú felügyelet alá tartozó intézményekre összeállított konszolidált adatszolgáltatási, nyilvánosságra hozatali és egyéb jogszabályi kötelezettségeket az integrációs üzleti irányító szervezet teljesíti.
+
+(6a) A szanálási feladatkörében eljáró Magyar Nemzeti Bank a Szan. tv.-ben meghatározott eljárásai során, az 1. § (6) bekezdés szerinti kötelezettségek teljesítésére az integrációs üzleti irányító szervezetet vagy az Integrációs Szervezetet is felhívhatja. A szanálási feladatkörében eljáró Magyar Nemzeti Bank eljárásai során hozott döntéseit az Integrációs Szervezet tagjaival az Integrációs Szervezet útján közli.
 
 (7) Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény alkalmazása szempontjából együttesen kapcsolt vállalkozásnak minősülnek
 
@@ -90,17 +92,19 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 #### 2. Az Integrációs Szervezet tagja
 
-3. § (1) Az Integrációs Szervezet tagja a szövetkezeti hitelintézet, a Központi Bank, az MFB, valamint az Integrációs Szervezet tagjai közé felvett személy vagy szervezet.
+3. § (1) Az Integrációs Szervezet tagja a szövetkezeti hitelintézet, az integrációs üzleti irányító szervezet, a Holding Szövetkezet, valamint az Integrációs Szervezet tagjai közé felvett, Kapcsolt Vállalkozásnak minősülő, a Felügyelet által felügyelt intézmény.
 
 (2) Az Integrációs Szervezet közgyűlése azt veheti fel az Integrációs Szervezet tagjai közé, aki
 
-- a) előzetes kötelezettségvállaló nyilatkozatot tett a Központi Bank felé legalább egy darab, az Integrációs Szervezet igazgatósága által meghatározott névértékű, fajtájú és sorozatú, a Központi Bank által kibocsátott részvény átvételére,
+- a) előzetes kötelezettségvállaló nyilatkozatot tett az integrációs üzleti irányító szervezet felé legalább egy darab, az Integrációs Szervezet igazgatósága által meghatározott névértékű, fajtájú és sorozatú, az integrációs üzleti irányító szervezet által kibocsátott részvény átvételére,
 - b) az Integrációs Szervezet igazgatósága által előzetesen elfogadott mintának megfelelő alapszabályt vagy alapító okiratot fogadott el,
 - c) az Integrációs Szervezet által előírt formában nyilatkozott csatlakozási szándékáról az Integrációs Szervezet felé,
-- d) tagként történő felvételével a Központi Bank igazgatósága előzetesen egyetértett, és a Felügyelet előzetes hozzájárulását adta a tagfelvételhez, valamint
+- d) tagként történő felvételével az integrációs üzleti irányító szervezet igazgatósága előzetesen egyetértett, és a Felügyelet előzetes hozzájárulását adta a tagfelvételhez, valamint
 - e) az Integrációs Szervezet tagfelvételi szabályzatának megfelel.
 
-(3) A szövetkezeti hitelintézet működési engedélye fenntartásának feltétele, hogy a szövetkezeti hitelintézet az Integrációs Szervezeti tagságát folyamatosan fenntartja és a szövetkezeti hitelintézet a Központi Bank legalább egy darab – az Integrációs Szervezet igazgatósága által meghatározott névértékű, fajtájú és sorozatú – részvényének tulajdonosa.
+(3) A szövetkezeti hitelintézet működési engedélye fenntartásának feltétele, hogy a szövetkezeti hitelintézet az Integrációs Szervezeti tagságát folyamatosan fenntartja és a szövetkezeti hitelintézet az integrációs üzleti irányító szervezet legalább egy darab – az Integrációs Szervezet igazgatósága által meghatározott névértékű, fajtájú és sorozatú – részvényének tulajdonosa.
+
+(3a) A (3) bekezdéstől eltérően nem kötelező, hogy a szövetkezeti hitelintézet az integrációs üzleti irányító szervezet legalább egy darab – az Integrációs Szervezet igazgatósága által meghatározott névértékű, fajtájú és sorozatú – részvényének tulajdonosa legyen abban az esetben, ha az érintett szövetkezeti hitelintézetnek az integrációs üzleti irányító szervezet többségi tulajdonosa.
 
 (4) Az Integrációs Szervezet igazgatósága az Integrációs Szervezethez csatlakozó intézményt átmeneti időtartamra, de legfeljebb két hónapra mentesítheti a (2) bekezdés b) pontjában meghatározott kötelezettség alól.
 
@@ -110,15 +114,15 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (2) Az Integrációs Szervezet vagyonához rendelkezésre bocsátott hozzájárulás összege a 11/F. § (9) bekezdésében meghatározott esetben fizethető vissza a vagyoni hozzájárulást rendelkezésre bocsátó tagnak.
 
-(3) Az Integrációs Szervezet tagja – az MFB kivételével – évente tagdíjat fizet az Integrációs Szervezetnek. A tagdíj éves összegét az Integrációs Szervezet közgyűlése állapítja meg, amelynek mértéke nem lehet alacsonyabb, mint a tag kockázattal súlyozott kitettségének 0,1%-a. A tagdíj megfizetésének rendjére vonatkozó részletes szabályokat az Integrációs Szervezet igazgatóságának a felhatalmazása alapján az ügyvezetés is meghatározhatja azzal, hogy az éves tagdíjat a tagdíjfizetésre kötelezettnek negyedévente kell megfizetnie.
+(3) Az Integrációs Szervezet tagja évente tagdíjat fizet az Integrációs Szervezetnek. A tagdíj összegét az Integrációs Szervezet Közgyűlése úgy állapítja meg, hogy az Integrációs Szervezet tagjai által fizetett tagdíjak összege legfeljebb az Integrációs Szervezet éves működési költségeit biztosítsa. A tagdíj megfizetésének rendjét az Integrációs Szervezet állapítja meg.
 
-(4) Az Integrációs Szervezetnek legalább olyan értékű eszközökkel kell rendelkeznie, amelyek meghaladják a szövetkezeti hitelintézetek és a Központi Bank összesített eszközei értékének 3 százalékát.
+(4) Az Integrációs Szervezetnek legalább az Integrációs Szervezet tagjainak az egymásban fennálló részesedések figyelmen kívül hagyásával összesített eszközei értékének 3 százalékát meghaladó értékű eszközökkel kell rendelkeznie.
 
 (4a) A (4) bekezdésben meghatározottaknak történő megfelelést az Integrációs Szervezet havi rendszerességgel ellenőrzi. Ha a havi záró állományi adatok alapján megállapítható, hogy az Integrációs Szervezet eszközeinek értéke a (4) bekezdésben meghatározott érték alá csökken, az Integrációs Szervezet igazgatósága 15 napon belül dönt az Integrációs Szervezet eszközeinek a feltöltéséről.
 
 (5) Az Integrációs Szervezet pénzeszközei nem vonhatók el, és kizárólag az e törvényben meghatározott célokra használhatók fel.
 
-(6) Az Integrációs Szervezet pénzeszközeit a Központi Bankban vagy annak 100%-os tulajdonában álló leányvállalatainál helyezi el.
+(6) Az Integrációs Szervezet pénzeszközeit az integrációs üzleti irányító szervezetnél vagy az integrációs üzleti irányító szervezet által meghatározott szövetkezeti hitelintézetnél helyezi el.
 
 (7) Az Integrációs Szervezet és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapja saját vagyona, bevételei, jövedelme és ügyletei után társasági nyereségadó, általános forgalmi adó helyi adó, tranzakciós illeték és egyéb illeték fizetésére nem köteles.
 
@@ -130,7 +134,13 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 5. § Az e törvény hatályba lépését követő 90. napon megszűnik az OTIVA, a HBA és a TAKIVA, jogutódjuk az Integrációs Szervezet.
 
-#### 5/A. §
+#### 4/A. Egyetemlegesség
+
+5/A. § (1) Az Integrációs Szervezet és annak tagjai egymás kötelezettségeiért a Ptk. szabályai szerinti egyetemlegesen kötelesek helytállni. Az egyetemleges felelősség az Integrációs Szervezettel és annak tagjaival szemben fennálló valamennyi követelésre kiterjed, függetlenül azok keletkezésének időpontjától.
+
+(2) Az egyetemlegességre alapozott követelésekkel kapcsolatban a kötelezettek egymással való együttműködésének részletes szabályait az Integrációs Szervezet szabályzatban határozza meg.
+
+(3) Az Integrációs Szervezetben fennálló tagság megszűnése esetén a volt tag vonatkozásában az Integrációs Szervezet és annak tagjai helytállási kötelezettsége a volt tag által a tagság megszűnése időpontjától vállalt kötelezettségekre nem terjed ki. Az a szervezet, amelynek Integrációs Szervezetben fennálló tagsága bármely okból megszűnik, az Integrációs Szervezettel és annak tagjaival szemben az Integrációs Szervezetben fennálló tagság megszűnésének időpontjáig keletkezett és az Integrációs Szervezeti tagsága megszűnése időpontjától számított 730 napon belül benyújtott igényekért felel. Az Integrációs Szervezet és annak tagjai a volt tag Integrációs Szervezetben fennálló tagságának megszűnése időpontjáig keletkezett és a volt tag Integrációs Szervezeti tagsága megszűnése időpontjától számított 730 napon belül benyújtott igényekért felelnek a volt tag tartozásaiért. A volt tag tekintetében az illetékes hatóság, illetve bíróság a tőkekövetelmények fennállásának teljesítése körében az Integrációs Szervezetben fennálló tagsága megszűnése időpontjától számított 730 napig nem veheti figyelembe a volt tagnak a tagsági jogviszonya megszűnésekor – kilépés esetén a kilépési szándéknyilatkozat Integrációs Szervezethez történő benyújtásakor – fennállt saját tőke értékét.
 
 #### 5. Az Integrációs Szervezet szervezete
 
@@ -140,9 +150,13 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (2) A közgyűlés legalább évente egy alkalommal ülésezik, üléseit az Integrációs Szervezet igazgatósága hívja össze. A közgyűlés összehívásáról szóló, a napirendi pontokat is tartalmazó meghívót valamennyi tagnak a közgyűlés napját megelőzően legalább 15 nappal meg kell küldeni.
 
-(3) A közgyűlés határozatait a határozatképesség megállapításánál figyelembe vett szavazatok többségével hozza meg. A közgyűlésen az MFB – az Integrációs Szervezeti tagságára tekintettel – a szavazatok 51 százalékával rendelkezik, a fennmaradó szavazatok az Integrációs Szervezet további tagjait egymás között egyenlő arányban illetik meg.
+(3) A közgyűlés határozatait a jelen lévő tagok szavazatainak többségével hozza meg. A közgyűlésen az Integrációs Szervezet valamennyi tagja egy szavazattal rendelkezik.
 
-(4)–(5)
+(4) Az Integrációs Szervezet közgyűlésén az igazgatósági tagok és a felügyelőbizottsági tagok többsége a Holding Szövetkezet által delegált személyek közül, az Integrációs Szervezet tagjai többségének az egyetértő szavazatával választható meg.
+
+(5) A Holding Szövetkezet azt a személyt delegálhatja az Integrációs Szervezet igazgatósági vagy felügyelőbizottsági tagjának, akit a Holding Szövetkezet természetes személy tagjainak több mint fele a Holding Szövetkezet közgyűlésén delegált személyként megválasztott.
+
+(6) A (4) bekezdés szerint megválasztott tagok visszahívásához az Integrációs Szervezet tagjai többségének az egyetértő szavazata szükséges.
 
 #### 5.2. A közgyűlés hatásköre
 
@@ -163,7 +177,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 8. § (1) Az Integrációs Szervezet stratégiai irányítását az igazgatóság látja el. Az igazgatóság legalább 5, legfeljebb 7 tagból áll. Az Integrációs Szervezettel munkaviszonyban álló igazgatósági tagok száma nem haladhatja meg a tagok számának a felét.
 
-(2) Az igazgatóság 3 tagjának – 7 főből álló igazgatóság esetén 4 tagjának – a megválasztásához, és az így megválasztott tag visszahívásához az Integrációs Szervezet szövetkezeti hitelintézeti tagjai több mint felének egyetértő szavazata szükséges.
+(2)
 
 (3) Az igazgatóság határozatképes, ha a tagok többsége jelen van. Az igazgatóság tagjai közül elnököt választ. Az igazgatóság határozatait egyszerű szótöbbséggel hozza. Az igazgatóság ügyrendjét maga állapítja meg.
 
@@ -201,7 +215,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 - f)
 - g) elfogadja az Integrációs Szervezet feladatkörébe tartozó utasításokat, szabályzatokat és irányelveket;
 - h) jóváhagyja a csoportszintű helyreállítási tervet;
-- i) jóváhagyja a szövetkezeti hitelintézetek és a Központi Bank tevékenységének ellenőrzésével kapcsolatos éves ellenőrzési tervet;
+- i) jóváhagyja az ellenőrzés alá vont szervezetek tevékenységének ellenőrzésével kapcsolatos éves ellenőrzési tervet;
 - j) dönt a 11/B. § (2) bekezdésében meghatározott intézkedésekről.
 
 (3) Az Integrációs Szervezet alapszabálya a (2) bekezdésben meghatározottakon túl további hatásköröket állapíthat meg az Integrációs Szervezet igazgatóságának.
@@ -212,12 +226,12 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 #### 5.4. A felügyelő bizottság
 
-10. § (1) Az Integrációs Szervezet működését 3 tagú felügyelő bizottság ellenőrzi.
+10. § (1) Az Integrációs Szervezet működését a felügyelőbizottság ellenőrzi. A felügyelőbizottság legalább három, legfeljebb öt természetes személy tagból áll.
 
 (2) A felügyelőbizottság hatáskörébe tartozik:
 
 - a) az Integrációs Szervezet éves beszámolójának és éves tervének előzetes, a közgyűlés döntése előtti véleményezése;
-- b) az igazgatóság és az ügyvezetés rendszeres, félévenkénti beszámoltatása az Integrációs Szervezet tevékenységéről, gazdálkodásáról és pénzügyi helyzetéről, beleértve az 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tagtól eltérő személy által rendelkezésre bocsátott vagyon felhasználásának szabályosságára vonatkozó beszámoltatást is;
+- b) az igazgatóság és az ügyvezetés rendszeres, félévenkénti beszámoltatása az Integrációs Szervezet tevékenységéről, gazdálkodásáról és pénzügyi helyzetéről, beleértve az egyetemleges felelősség mellett működő tagtól eltérő személy által rendelkezésre bocsátott vagyon felhasználásának szabályosságára vonatkozó beszámoltatást is;
 - c) az Integrációs Szervezet belső ellenőrzésének irányítása;
 - d) az Integrációs Szervezet válságkezelési, intézményvédelmi feladatai ellátásának ellenőrzése;
 - e) az éves ellenőrzési terv módosításának kezdeményezése;
@@ -255,24 +269,26 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 #### 6. Az Integrációs Szervezet feladatai, viszonya tagjaival
 
-11. § (1) Az Integrációs Szervezet igazgatósága a szövetkezeti hitelintézeti integráció egységes működése és irányítása, továbbá a szövetkezeti hitelintézeti integráció céljainak elérése érdekében az Integrációs Szervezet tagjaira vonatkozóan – az MFB kivételével – kötelező szabályzatot fogad el:
+11. § (1) Az Integrációs Szervezet igazgatósága a szövetkezeti hitelintézeti integráció egységes működése és irányítása, továbbá a szövetkezeti hitelintézeti integráció céljainak elérése érdekében az Integrációs Szervezet tagjaira és a Kapcsolt Vállalkozásokra vonatkozóan kötelező szabályzatot fogad el:
 
 - a) a számviteli rendről;
 - b) a belső ellenőrzés rendjéről;
 - c) a vezető tisztségviselők alkalmasságának szabályairól és az alkalmasság ellenőrzésének módjáról;
 - d) a 11/A. §-ban meghatározott ellenőrzés és folyamatos felügyelés szabályairól;
 - e) a pénzügyi segítségnyújtás szabályairól;
-- f) a szövetkezeti hitelintézeti integráció tagjaira vonatkozó egyedi válságkezelésről (a továbbiakban: egyedi válságkezelési terv);
+- f) a szövetkezeti hitelintézetekre és az integrációs üzleti irányító szervezetre vonatkozó egyedi válságkezelési terv módszertanáról;
 - g) az Integrációs Szervezet eszközeinek feltöltésére vonatkozó szabályokról;
 - h) a jogszabályokon és egyéb kötelező szabályokon felüli addicionális egyedi tőkekövetelményekre vonatkozó szabályokról;
 - i) a titok- és adatvédelemről, bennfentes információk védelméről;
 - j) a megfelelőség biztosításával kapcsolatos szabályokról;
-- k) a szövetkezeti hitelintézetet terhelő, a jogszabályban meghatározott vagy jogszabályon alapuló Felügyelet irányába történő adatszolgáltatási és bejelentési kötelezettség Integrációs Szervezet közreműködésével történő teljesítésének eseteiről és részletes szabályairól, valamint
-- l) minden olyan kérdésben, amelyben szabályzat alkotására e törvény vagy az Integrációs Szervezet alapszabálya felhatalmazza.
+- k) a szövetkezeti hitelintézetet terhelő, a jogszabályban meghatározott vagy jogszabályon alapuló Felügyelet irányába történő adatszolgáltatási és bejelentési kötelezettség Integrációs Szervezet közreműködésével történő teljesítésének eseteiről és részletes szabályairól,
+- l) a tagdíj megfizetésének rendjéről;
+- m) az egyetemlegességet érintő eljárások kezeléséről és az erre vonatkozó tájékoztatási kötelezettségről, valamint
+- n) minden olyan kérdésben, amelyben szabályzat alkotására e törvény vagy az Integrációs Szervezet alapszabálya felhatalmazza.
 
-(1a) Az Integrációs Szervezet igazgatósága a szövetkezeti hitelintézetek kockázatvállalásainak korlátozásáról szabályzatot alkot. A szabályzatban meghatározott esetekben a kockázatvállalás érvényességéhez a Központi Bank előzetes hozzájárulása szükséges. A Központi Bank kockázatvállalások jóváhagyásáról döntő ülésén az Integrációs Szervezet képviselője jogosult tanácskozási joggal részt venni.
+(1a)
 
-(1b) Az Integrációs Szervezet igazgatósága meghatározza a szövetkezeti hitelintézeti integráció tagjai, valamint azok ellenőrző befolyása alatt működő szervezetek (a továbbiakban: Kapcsolt Vállalkozások) prudens és biztonságos működését szolgáló, a szövetkezeti hitelintézeti integráció tagjaira – az MFB kivételével – kötelező irányelveket, valamint a Központi Bank, a szövetkezeti hitelintézetek és a Kapcsolt Vállalkozások e törvényben meghatározott integrációs célok elérését biztosító tevékenységének keretrendszerét (a továbbiakban együtt: irányelvek).
+(1b) Az Integrációs Szervezet igazgatósága meghatározza az Integrációs Szervezet tagjai, valamint a Kapcsolt Vállalkozások prudens és biztonságos működését szolgáló, az Integrációs Szervezet tagjaira és a Kapcsolt Vállalkozásokra kötelező irányelveket, valamint az e törvényben meghatározott integrációs célok elérését biztosító tevékenységének keretrendszerét (a továbbiakban együtt: irányelvek).
 
 (1c) Az Integrációs Szervezet igazgatósága irányelvekben rögzíti különösen
 
@@ -281,32 +297,32 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 - c) az egyedi tőkekövetelmény megkövetelésére vonatkozó szabályokat;
 - d) a jelentős összegű beszerzések jóváhagyására vonatkozó szabályokat;
 - e) az átalakulásra, az egyesülésre és a szétválásra vonatkozó integrációs célokat és alapelveket;
-- f) a tőkecsökkenéssel járó részjegy vagy vagyoni hozzájárulás visszaváltásának engedélyezésére vonatkozó szabályokat;
+- f) a tőkecsökkenéssel járó részjegy visszaváltásának engedélyezésére vonatkozó szabályokat;
 - g) a Kapcsolt Vállalkozások irányítását, ellenőrzését, átláthatóságát és könyvvizsgálatát, a Kapcsolt Vállalkozásokkal kapcsolatos jelentéstételt, a Kapcsolt Vállalkozások által vállalható kockázatokat és az általuk végezhető tevékenység prudenciális szempontú korlátozásának szabályait;
 - h) a szövetkezeti hitelintézetek és a Kapcsolt Vállalkozások ellenőrzése és folyamatos felügyelése rendjét, valamint a szövetkezeti hitelintézetek és a Kapcsolt Vállalkozások együttműködési kötelezettségét;
 - i) a követeléskezelés és a követelések értékesítésének rendjét.
 
 (1d) Az irányelvekben rögzítettekkel a szabályzatok tartalma nem lehet ellentétes.
 
-(1e) Az Integrációs Szervezet a jogszabályoknak, az általa meghatározott irányelveknek, a kiadott szabályzatoknak, valamint a korábbi utasításoknak megfelelő működés érdekében utasítást ad a szövetkezeti hitelintézetnek és a Központi Banknak, melyek az utasításnak kötelesek eleget tenni. Az utasítást indokolni kell, és abban meg kell jelölni a teljesítés határidejét. Az Integrációs Szervezet az utasítást – az utasítás címzettjének történő megküldésével egyidejűleg – köteles továbbítani a Felügyelet részére.
+(1e) Az Integrációs Szervezet a jogszabályoknak, az általa meghatározott irányelveknek, a kiadott szabályzatoknak, valamint a korábbi utasításoknak megfelelő működés érdekében utasítást ad az Integrációs Szervezet tagjának, illetve a Kapcsolt Vállalkozásnak. Az utasítás címzettje az abban foglaltaknak köteles eleget tenni. Az utasítást indokolni kell, és abban meg kell jelölni a teljesítés határidejét. Az Integrációs Szervezet a pénzügyi intézménynek címzett utasítást – az utasítás címzettjének történő megküldésével egyidejűleg – továbbítja a Felügyelet részére.
 
-(2) Az Integrációs Szervezet egyedi alapon is nyomon követi a Központi Bank és a szövetkezeti hitelintézet fizetőképességének és tőkeellátottságának alakulását.
+(2) Az Integrációs Szervezet egyedi alapon is nyomon követi az Integrációs Szervezet tagja és a Kapcsolt Vállalkozás fizetőképességének és tőkeellátottságának alakulását.
 
-(3) Az Integrációs Szervezet igazgatósága a szövetkezeti hitelintézeti integráció tagja – ideértve a Központi Bankot is – vonatkozásában egyedi válságkezelési tervet készít, amely meghatározza az Integrációs Szervezet által alkalmazandó intézkedéseket a szövetkezeti hitelintézet vagy a Központi Bank azonnali és folyamatos fizetőképességét veszélyeztető helyzet kialakulása esetén. Az egyedi válságkezelési tervnek összhangban kell lennie a csoportszintű helyreállítási tervvel. Az Integrációs Szervezet az egyedi válságkezelési tervet megküldi a Felügyeletnek.
+(3) Az Integrációs Szervezet igazgatósága a szövetkezeti hitelintézeti integráció tagja – ideértve az integrációs üzleti irányító szervezetet is – vonatkozásában egyedi válságkezelési tervet készít, amely meghatározza az Integrációs Szervezet által alkalmazandó intézkedéseket a szövetkezeti hitelintézet vagy az integrációs üzleti irányító szervezet azonnali és folyamatos fizetőképességét veszélyeztető helyzet kialakulása esetén. Az egyedi válságkezelési tervnek összhangban kell lennie a csoportszintű helyreállítási tervvel. Az Integrációs Szervezet az egyedi válságkezelési tervet megküldi a Felügyeletnek.
 
 (3a)–(3h)
 
-(4) Az egyedi válságkezelési tervet az Integrációs Szervezet igazgatósága legalább kétévente egyszer, valamint a szövetkezeti hitelintézet vagy a Központi Bank tevékenységével vagy pénzügyi helyzetével kapcsolatos minden olyan változást követően felülvizsgálja, amely a tervben foglaltak végrehajtására lényeges hatással lehet.
+(4) Az egyedi válságkezelési tervet az Integrációs Szervezet igazgatósága legalább kétévente egyszer, valamint a szövetkezeti hitelintézet vagy az integrációs üzleti irányító szervezet tevékenységével vagy pénzügyi helyzetével kapcsolatos minden olyan változást követően felülvizsgálja, amely a tervben foglaltak végrehajtására lényeges hatással lehet.
 
-(5) Az Integrációs Szervezet ügyvezetésének felhívására a szövetkezeti hitelintézet vagy a Központi Bank köteles az egyedi válságkezelési terv elkészítéséhez és felülvizsgálatához szükséges adatszolgáltatást teljesíteni.
+(5) Az Integrációs Szervezet ügyvezetésének felhívására a szövetkezeti hitelintézet, az integrációs üzleti irányító szervezet vagy az Integrációs Szervezet tagjának minősülő Kapcsolt Vállalkozás köteles az egyedi válságkezelési terv elkészítéséhez és felülvizsgálatához szükséges adatszolgáltatást teljesíteni.
 
-(6) Az Integrációs Szervezet ellenőrzi a tagok által használt fizetési és elszámolási, valamint az értékpapír-elszámolási rendszerek működését, ennek keretében felügyeli a rendszer, valamint a Központi Adatfeldolgozó tevékenységét e rendszerek biztonságos és hatékony működése, továbbá a pénzforgalom zavartalan lebonyolítása érdekében.
+(6) Az Integrációs Szervezet a biztonságos és hatékony működés, továbbá a pénzforgalom zavartalan lebonyolítása érdekében ellenőrzi az Integrációs Szervezet tagjai, valamint a Kapcsolt Vállalkozások által használt fizetési és elszámolási, valamint az értékpapír-elszámolási rendszerek működését, ennek keretében vizsgálja az egységes informatikai rendszert. Az Integrációs Szervezet évente megvizsgálja a Központi Adatfeldolgozó tevékenységét, ideértve a Központi Adatfeldolgozó által ellátott kiszervezett tevékenység 17/V. § (2) és (3) bekezdésében meghatározott megállapodásban és üzemeltetési szerződésben foglaltaknak megfelelő végzését, valamint a Központi Adatfeldolgozó által alkalmazott közreműködő által ellátott kiszervezett tevékenységet.
 
-(7) Az Integrációs Szervezet a 11/A. §-ban szabályozott eljárás lefolytatásával ellenőrzi a szövetkezeti hitelintézet és a Központi Bank tevékenységét, és a jogszabályoknak, az e törvény alapján kiadott szabályzatoknak, utasításoknak, valamint irányelveknek megfelelő működését.
+(7) Az Integrációs Szervezet a 11/A. §-ban szabályozott ellenőrző és felügyelési rendszer működtetésével ellenőrzi és folyamatosan felügyeli az ellenőrzés alá vont szervezetek tevékenységét, és a jogszabályoknak, az e törvény alapján kiadott szabályzatoknak, utasításoknak, valamint irányelveknek megfelelő működését.
 
-(8) A szövetkezeti hitelintézet vagy a Központi Bank az Integrációs Szervezet által hozott, neki címzett utasítással vagy döntéssel szemben, valamint a valamennyi tagra kötelező döntésekkel szemben a jogi személy határozatának bírósági felülvizsgálatára irányadó szabályok szerint bírósághoz fordulhat abban a körben, hogy az utasítás vagy döntés a jogszabályoknak, a létesítő okiratnak és az Integrációs Szervezet által kiadott szabályzatoknak és meghatározott irányelveknek, illetve az integráció egyéb szabályzatainak megfelel-e. A bírósághoz fordulásnak nincsen halasztó hatálya, az utasítás vagy döntés attól függetlenül az abban megjelölt határidőben végrehajtandó.
+(8) Az Integrációs Szervezet tagja, a Kapcsolt Vállalkozás, valamint a 11/B. § (9) bekezdésben meghatározott körben a Központi Adatfeldolgozó az Integrációs Szervezet által hozott, neki címzett utasítással vagy döntéssel szemben, valamint az Integrációs Szervezet tagja a valamennyi tagra kötelező döntésekkel szemben a jogi személy határozatának bírósági felülvizsgálatára irányadó szabályok szerint bírósághoz fordulhat abban a körben, hogy az utasítás vagy döntés a jogszabályoknak, a létesítő okiratnak és az Integrációs Szervezet által kiadott szabályzatoknak és meghatározott irányelveknek, illetve a szövetkezeti hitelintézetek integrációja egyéb szabályzatainak megfelel-e. A bírósághoz fordulásnak nincs halasztó hatálya, az utasítás vagy döntés attól függetlenül az abban megjelölt határidőben végrehajtandó.
 
-(9) A szövetkezeti hitelintézetek, a Központi Bank és az Integrációs Szervezet egymás közötti jogvitáira a rendes bíróságok helyett választottbírósági eljárás keretében történő vitarendezés kizárt.
+(9) Az Integrációs Szervezetnek és tagjának, valamint az Integrációs Szervezet tagjainak egymás közötti jogvitáira a választottbírósági eljárás keretében történő vitarendezés kizárt.
 
 (10)
 
@@ -314,7 +330,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (12)
 
-11/A. § (1) Az Integrációs Szervezet a szövetkezeti hitelintézeti integráció egységes működése és irányítása, továbbá a szövetkezeti hitelintézeti integráció céljainak elérése érdekében olyan – az e törvényen és az Integrációs Szervezet szabályzatán és irányelvén alapuló – ellenőrző és felügyelési rendszert működtet, amely lehetővé teszi a szövetkezeti hitelintézet és a Központi Bank, valamint a Kapcsolt Vállalkozások (a továbbiakban együtt: ellenőrzés alá vont szervezet) tevékenységének az integráció keretein belül történő ellenőrzését és folyamatos felügyelését. Az Integrációs Szervezet jogosult ellenőrizni és folyamatosan felügyelni a szövetkezeti hitelintézetnek és a Központi Banknak azon tevékenységét is, amelyet a Hpt., illetve Bszt. szerinti közvetítő útján végez.
+11/A. § (1) Az Integrációs Szervezet a szövetkezeti hitelintézeti integráció egységes működése és irányítása, továbbá a szövetkezeti hitelintézeti integráció céljainak elérése érdekében olyan – az e törvényen és az Integrációs Szervezet szabályzatán és irányelvén alapuló – ellenőrző és felügyelési rendszert működtet, amely lehetővé teszi az Integrációs Szervezet tagja, a Kapcsolt Vállalkozás és a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja tevékenységének, valamint a jogszabályoknak, az e törvény alapján kiadott szabályzatoknak, utasításoknak és irányelveknek megfelelő működésének ellenőrzését, valamint folyamatos felügyelését, továbbá a Központi Adatfeldolgozó és az általa alkalmazott közreműködő által ellátott kiszervezett tevékenység ellenőrzését. Az Integrációs Szervezet jogosult ellenőrizni és folyamatosan felügyelni az Integrációs Szervezet tagjainak azon tevékenységét is, amelyet a Hpt., illetve Bszt. szerinti közvetítő útján végeznek.
 
 (1a) A folyamatos felügyelés helyszíni ellenőrzéssel, a rendszeres és rendkívüli adatszolgáltatásból származó adatok, az Integrációs Szervezet részére megküldött dokumentumok, valamint a hivatalosan ismert tények vizsgálatával és elemzésével valósul meg.
 
@@ -324,31 +340,31 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (3) Az Integrációs Szervezet az ellenőrzés vagy a folyamatos felügyelés során az ellenőrzés alá vont szervezet székhelyén, telephelyén és fiókjaiban helyszíni ellenőrzést is tarthat.
 
-(4) Az ellenőrzés alá vont szervezetet az Integrációs Szervezet az ellenőrzés lefolytatásáról – annak megkezdése előtt legalább tíz nappal – írásban értesíti, kivéve, ha az előzetes értesítés az ellenőrzés eredményességét veszélyezteti. Folyamatos felügyelés keretében történő eljárás esetén az Integrációs Szervezetet előzetes értesítési kötelezettség nem terheli.
+(4) Az ellenőrzés alá vont szervezetet az Integrációs Szervezet az ellenőrzés lefolytatásáról – annak megkezdése előtt legalább tíz nappal – írásban értesíti, kivéve, ha az előzetes értesítés az ellenőrzés eredményességét veszélyezteti. A folyamatos felügyelés keretében végzett tevékenységre vonatkozóan az Integrációs Szervezetet előzetes értesítési kötelezettség nem terheli.
 
 (5) Az Integrációs Szervezet a helyszíni ellenőrzést végző személyt megbízólevéllel látja el.
 
 (6) A helyszíni ellenőrzést végző személy köteles a helyszíni ellenőrzés megkezdésekor megbízólevelét bemutatni és személyazonosságát hitelt érdemlően igazolni.
 
-(7) Az ellenőrzést végző személy az ellenőrzés lefolytatásához szükséges helyiségekbe beléphet, az ellenőrzés tárgyával összefüggő iratot, adathordozót, tárgyat, munkafolyamatot figyelemmel kísérhet, megvizsgálhat, az ellenőrzés alá vont szervezet képviselőjétől felvilágosítást, nyilatkozatot kérhet.
+(7) A helyszíni ellenőrzést végző személy az ellenőrzés lefolytatásához szükséges helyiségekbe beléphet, az ellenőrzés tárgyával összefüggő iratot, adathordozót, tárgyat, munkafolyamatot figyelemmel kísérhet, megvizsgálhat, az ellenőrzés alá vont szervezet képviselőjétől felvilágosítást, nyilatkozatot kérhet.
 
 (8) A helyszíni ellenőrzés során az ellenőrzést végző személy jogosult bármilyen adathordozóról – ideértve valamely tárhelyszolgáltató által tárolt adatot is – fizikai tükörmásolatot vagy hiteles másolatot készíteni és a másolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
-(9) A helyszíni ellenőrzést úgy kell végezni, hogy az ellenőrzés alá vont személy vagy szervezet rendeltetésszerű tevékenységét lehetőleg ne akadályozza.
+(9) A helyszíni ellenőrzést úgy kell végezni, hogy az ellenőrzés alá vont szervezet vagy személy rendeltetésszerű tevékenységét lehetőleg ne akadályozza.
 
 (10) Az ellenőrzés alá vont szervezet köteles az ellenőrzés vagy a folyamatos felügyelés során az Integrációs Szervezettel együttműködni, az Integrációs Szervezet által kért cselekményeket megtenni, illetve az eljárási cselekményeket tűrni. Az ellenőrzés alá vont szervezet tevékenysége nem irányulhat az ellenőrzés vagy a folyamatos felügyelés lefolytatásának akadályozására.
 
 (11) Az Integrációs Szervezet az ellenőrzés során tett megállapításait a vizsgálati jelentésben rögzíti. Az Integrációs Szervezet az ellenőrzés eredményéről – a vizsgálati jelentés elkészítésétől számított 8 napon belül – a vizsgálati jelentés megküldésével értesíti a Felügyeletet. Az Integrációs Szervezet a folyamatos felügyelés keretében tett megállapításokról nem készít vizsgálati jelentést, azonban a megállapításokról – a megtételüktől számított 8 napon belül – értesíti a Felügyeletet.
 
-(12) Ha a Felügyelet tudomására jutott információ alapján fennáll a veszélye, hogy az Integrációs Szervezet valamely tagja nem felel meg a tevékenységére vonatkozó jogszabályoknak, a Felügyelet – a Központi Bank egyidejű értesítése mellett – kötelezheti az Integrációs Szervezetet, hogy az Integrációs Szervezet tagjainál a Felügyelet által előírt időpontig, meghatározott témában vagy átfogó jelleggel ellenőrzést folytasson le. Az Integrációs Szervezet az ellenőrzés eredményéről, valamint elrendelt intézkedéseiről – az ellenőrzés befejezésétől számított 8 napon belül – az annak alapjául szolgáló dokumentumok egyidejű megküldésével értesíti a Felügyeletet.
+(12) Ha a Felügyelet tudomására jutott információ alapján fennáll a veszélye, hogy az Integrációs Szervezet valamely tagja nem felel meg a tevékenységére vonatkozó jogszabályoknak, a Felügyelet – az integrációs üzleti irányító szervezet egyidejű értesítése mellett – kötelezheti az Integrációs Szervezetet, hogy az Integrációs Szervezet tagjainál a Felügyelet által előírt időpontig, meghatározott témában vagy átfogó jelleggel ellenőrzést folytasson le. Az Integrációs Szervezet az ellenőrzés eredményéről, valamint elrendelt intézkedéseiről – az ellenőrzés befejezésétől számított 8 napon belül – az annak alapjául szolgáló dokumentumok egyidejű megküldésével értesíti a Felügyeletet.
 
 (13) Ha az ellenőrzési eljárás vagy a folyamatos felügyelés hatékony, gyors és eredményes lefolytatásához szükséges személyi és tárgyi feltételek Integrációs Szervezet általi biztosítása ideiglenesen más módon – így különösen ezen feltételek bővítésével – nem oldható meg, akkor az Integrációs Szervezet jogosult közreműködő szakértő igénybevételére. A közreműködő szakértő igénybevétele nem eredményezheti az Integrációs Szervezet egyes ellenőrzési vagy folyamatos felügyeléssel kapcsolatos feladatainak tartósan más által történő ellátását.
 
 (14) Ha a közreműködő szakértő igénybevételére helyszíni ellenőrzés során kerül sor, az Integrációs Szervezet köteles a közreműködő szakértőt megbízólevéllel ellátni. A közreműködő szakértő igénybevételére a helyszíni ellenőrzést végző személy egyidejű jelenlétének biztosításával kerülhet sor. Az ellenőrzés alá vont szervezet a közreműködő szakértő vizsgálatában közreműködni köteles. A közreműködő személy helyszíni vizsgálat során történő eljárására a (6) és (7) bekezdésben meghatározott szabályokat kell alkalmazni.
 
-11/B. § (1) Ha az ellenőrzés vagy a folyamatos felügyelés során az Integrációs Szervezet igazgatósága megállapítja, hogy a szövetkezeti hitelintézet vagy a Központi Bank
+11/B. § (1) Ha az ellenőrzés vagy a folyamatos felügyelés során az Integrációs Szervezet igazgatósága megállapítja, hogy az Integrációs Szervezet tagja
 
-- a) a jogszabályokban, a szabályzatokban, az irányelvekben, az utasításokban, a szövetkezeti hitelintézet belső szabályzatában, vagy a csoportszintű helyreállítási tervben meghatározott kötelezettségét megszegte, késedelmesen vagy hiányosan teljesítette,
+- a) a jogszabályokban, a szabályzatokban, az irányelvekben, az utasításokban, az Integrációs Szervezet tagja belső szabályzatában, vagy a csoportszintű helyreállítási tervben meghatározott kötelezettségét megszegte, késedelmesen vagy hiányosan teljesítette,
 - b) veszélyeztető magatartást tanúsít, vagy
 - c) válsághelyzetben van
 
@@ -356,13 +372,13 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (2) Az Integrációs Szervezet igazgatósága
 
-- a) felhívja a szövetkezeti hitelintézetet vagy a Központi Bankot az előírások betartására;
-- b) a Felügyelet egyidejű értesítésével határidő tűzésével utasításban kötelezi a szövetkezeti hitelintézetet vagy a Központi Bankot a szükséges intézkedések megtételére, a feltárt jogszabálysértés és a hiányosságok megszüntetésére, vagy a csoportszintű helyreállítási tervnek az adott szövetkezeti hitelintézetre vagy a Központi Bankra vonatkozó életbe léptetésére, ha annak feltételei fennállnak, valamint intézkedési terv kidolgozására és végrehajtására a megtett intézkedésekről való beszámolási kötelezettség mellett;
-- c) a Felügyelet egyidejű értesítésével legfeljebb 180 napra felfüggeszti a szövetkezeti hitelintézet vagy a Központi Bank vezető tisztségviselője feladatkörének gyakorlását, illetve legfeljebb 180 napra a szövetkezeti hitelintézet vagy a Központi Bank vezető tisztségviselője helyett e feladatok ellátására mást jelölhet ki; az időtartam indokolt esetben egy alkalommal, legfeljebb 180 nappal meghosszabbítható; egyidejűleg kezdeményezheti a szövetkezeti hitelintézetnél vagy a Központi Banknál az érintett vezető tisztségviselő visszahívását és más vezető tisztségviselő megválasztását vagy kinevezését;
-- d) a Felügyelet egyidejű értesítésével megvonja a központi banki feladatait ellátó hitelintézettől az e törvényben a Központi Bank részére biztosított jogkört, és a Központi Bank Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott központi bank feladatait ellátó hitelintézet kiválasztásának részletszabályairól szóló rendeletben meghatározottak szerint új hitelintézetet választ ki a központi banki feladatok ellátására;
-- e) a Felügyelet egyidejű értesítésével integrációs biztost, illetve integrációs biztosokat (a továbbiakban együtt: integrációs biztos) rendelhet ki a szövetkezeti hitelintézethez 180 napra; az időtartam indokolt esetben egy alkalommal, legfeljebb 180 nappal meghosszabbítható.
+- a) felhívja az Integrációs Szervezet tagját az előírások betartására;
+- b) a Felügyelet egyidejű értesítésével határidő tűzésével utasításban kötelezi az Integrációs Szervezet tagját a szükséges intézkedések megtételére, a feltárt jogszabálysértés és a hiányosságok megszüntetésére, vagy a csoportszintű helyreállítási tervnek az adott szövetkezeti hitelintézetre vagy a Központi Bankra vonatkozó életbe léptetésére, ha annak feltételei fennállnak, valamint intézkedési terv kidolgozására és végrehajtására a megtett intézkedésekről való beszámolási kötelezettség mellett;
+- c) a Felügyelet egyidejű értesítésével legfeljebb 180 napra felfüggeszti az Integrációs Szervezet tagja vezető tisztségviselője feladatkörének gyakorlását, illetve legfeljebb 180 napra az Integrációs Szervezet tagja vezető tisztségviselője helyett e feladatok ellátására mást jelölhet ki; az időtartam indokolt esetben egy alkalommal, legfeljebb 180 nappal meghosszabbítható; egyidejűleg kezdeményezheti az Integrációs Szervezet tagjánál az érintett vezető tisztségviselő visszahívását és más vezető tisztségviselő megválasztását vagy kinevezését;
+- d) a Felügyelet egyidejű értesítésével megvonja az integrációs üzleti irányító szervezeti feladatokat ellátó pénzügyi intézménytől az e törvényben az integrációs üzleti irányító szervezet részére biztosított jogkört, és az integrációs üzleti irányító szervezet Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott integrációs üzleti irányító szervezet feladatait ellátó pénzügyi intézmény kiválasztásának részletszabályairól szóló rendeletben meghatározottak szerint új pénzügyi intézményt választ ki az integrációs üzleti irányító szervezeti feladatok ellátására;
+- e) a Felügyelet egyidejű értesítésével integrációs biztost, illetve integrációs biztosokat (a továbbiakban együtt: integrációs biztos) rendelhet ki – az integrációs üzleti irányító szervezet kivételével – az Integrációs Szervezet tagjához 180 napra; az időtartam indokolt esetben egy alkalommal, legfeljebb 180 nappal meghosszabbítható.
 
-(3) Az Integrációs Szervezet igazgatósága a szövetkezeti hitelintézet veszélyeztető magatartásának megállapítására vonatkozó döntését a Központi Bank igazgatóságának beleegyezését követően hozhatja meg. Az Integrációs Szervezet igazgatóságának egyhangú döntése szükséges annak megállapításához, hogy a Központi Bank veszélyeztető magatartást tanúsított, mely esetben a Központi Bank igazgatóságának beleegyezésére nincs szükség.
+(3) Az Integrációs Szervezet igazgatósága az Integrációs Szervezet tagja veszélyeztető magatartásának megállapítására vonatkozó döntését az integrációs üzleti irányító szervezet igazgatóságának beleegyezését követően hozhatja meg. Az Integrációs Szervezet igazgatóságának egyhangú döntése szükséges annak megállapításához, hogy az integrációs üzleti irányító szervezet veszélyeztető magatartást tanúsított, mely esetben az integrációs üzleti irányító szervezet igazgatóságának beleegyezésére nincs szükség.
 
 (4) Ha az a cél eléréséhez szükséges, és a fokozatosság és az arányosság elvének is megfelel, az intézkedéseket az Integrációs Szervezet igazgatósága együttesen és ismételten is alkalmazhatja.
 
@@ -378,38 +394,42 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 - h) az intézkedés alapjául szolgáló adatok, tények, információk eltitkolását vagy annak szándékát, valamint
 - i) a szabályok megsértésének ismétlődését, és gyakoriságát.
 
-(6) Az Integrációs Szervezet a központi banki feladatokat ellátó hitelintézettől az e törvényben a Központi Bank részére biztosított jogkört abban az esetben jogosult megvonni, ha a Központi Bank a szövetkezeti hitelintézetek integrációjával kapcsolatos kötelezettségeit ismételten vagy súlyosan megszegi, továbbá ismételten nem tesz eleget az utasításokban vagy a szabályzatokban foglaltaknak. A Központi Bank részére biztosított jogkör megvonása esetén a 11/G. § (2)–(4) bekezdésében meghatározott szabályokat is alkalmazni kell a központi banki jogkör átadása tekintetében.
+(6) Az Integrációs Szervezet az integrációs üzleti irányító szervezeti feladatokat ellátó pénzügyi intézménytől az e törvényben az integrációs üzleti irányító szervezet részére biztosított jogkört abban az esetben vonhatja meg, ha az integrációs üzleti irányító szervezet a szövetkezeti hitelintézetek integrációjával kapcsolatos kötelezettségeit ismételten vagy súlyosan megszegi, továbbá ismételten nem tesz eleget az utasításokban vagy a szabályzatokban foglaltaknak. Az integrációs üzleti irányító szervezet részére biztosított jogkör megvonása esetén a 11/G. § (2)–(4) bekezdésében meghatározott szabályokat is alkalmazni kell az integrációs üzleti irányító szervezeti jogkör átadása tekintetében.
 
 (7) Az Integrációs Szervezet igazgatósága megszünteti a (2) bekezdés b) pontjában meghatározott intézkedés folytatását, ha a döntésre okot adó körülmények megszűntek.
+
+(8) Az Integrációs Szervezet igazgatósága a Kapcsolt Vállalkozás ellenőrzésére vonatkozó vizsgálati jelentésben megfogalmazott megállapítások teljesítésére utasítást adhat a Kapcsolt Vállalkozásnak az ellenőrző befolyást gyakorló intézmény egyidejű értesítése mellett.
+
+(9) Az Integrációs Szervezet igazgatósága a Központi Adatfeldolgozó vagy az általa alkalmazott közreműködő által végzett tevékenység ellenőrzésére vonatkozó vizsgálati jelentésben megfogalmazott megállapítások teljesítésére utasítást adhat a Központi Adatfeldolgozónak.
 
 11/C. § (1) A feladatkörének gyakorlásában felfüggesztett vezető tisztségviselő a felfüggesztés időtartama alatt a gazdasági társaságokra, a hitelintézetekre vonatkozó jogszabályi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A feladatkörének gyakorlásában felfüggesztett vezető tisztségviselő jogszabályban vagy alapszabályban meghatározott jogosultságait az Integrációs Szervezet igazgatósága által átmeneti időre kinevezett személy gyakorolja.
 
 (2) Az Integrációs Szervezet igazgatósága olyan személyt jelölhet ki a felfüggesztett vezető tisztségviselő feladatának ellátására, aki megfelel a Hpt. 155. § (1) bekezdés c) pontjában foglaltaknak, valamint akivel szemben a szövetkezeti hitelintézet vezető tisztségviselőjére irányadó kizáró vagy összeférhetetlenségi ok nem áll fenn. Az átmeneti időre kinevezett személy kijelöléséhez nem szükséges a Felügyelet engedélye, de arról az Integrációs Szervezet igazgatósága a Felügyeletet a kinevezéssel egyidejűleg tájékoztatni köteles.
 
-(3) Az Integrációs Szervezet igazgatósága által kijelölt személy jogosult az intézkedéssel érintett szövetkezeti hitelintézet igazgatósági tagja jogköreinek teljes körű gyakorlására, e körben vezető tisztségviselőnek tekintendő.
+(3) Az Integrációs Szervezet igazgatósága által kijelölt személy jogosult az intézkedéssel érintett Integrációs Szervezeti tag igazgatósági tagja jogköreinek teljes körű gyakorlására, e körben vezető tisztségviselőnek tekintendő.
 
-(4) Az Integrációs Szervezet igazgatósága dönt a feladatkörének gyakorlásában felfüggesztett vezető tisztségviselő tekintetében a felfüggesztés megszüntetéséről, ha a szövetkezeti hitelintézet vagy a Központi Bank az utasításnak eleget tesz, illetve helyreállította a jogszabályoknak, a szabályzatoknak, az irányelveknek vagy az utasításoknak megfelelő működését.
+(4) Az Integrációs Szervezet igazgatósága dönt a feladatkörének gyakorlásában felfüggesztett vezető tisztségviselő tekintetében a felfüggesztés megszüntetéséről, ha az Integrációs Szervezet tagja az utasításnak eleget tesz, illetve helyreállította a jogszabályoknak, a szabályzatoknak, az irányelveknek vagy az utasításoknak megfelelő működését.
 
-11/D. § (1) Az Integrációs Szervezet igazgatósága a szövetkezeti hitelintézethez integrációs biztost abban az esetben rendelhet ki, ha a veszélyeztető magatartás vagy az 1. § (1) bekezdés y) pont ya) alpontja szerinti válsághelyzet megszüntetése érdekében tett intézkedések nem vezettek eredményre, és a további intézkedések meghozatalától sem várható eredmény.
+11/D. § (1) Az Integrációs Szervezet igazgatósága az Integrációs Szervezet tagjához integrációs biztost abban az esetben rendelhet ki, ha a veszélyeztető magatartás vagy az 1. § (1) bekezdés y) pont ya) alpontja szerinti válsághelyzet megszüntetése érdekében tett intézkedések nem vezettek eredményre, és a további intézkedések meghozatalától sem várható eredmény.
 
-(2) Az integrációs biztos átveszi a szövetkezeti hitelintézet igazgatóságának teljes jogkörét – ideértve a munkáltatói jogok gyakorlását is –, e körben vezető tisztségviselőnek tekintendő.
+(2) Az integrációs biztos átveszi az Integrációs Szervezet tagja ügyvezetésének – szövetkezeti hitelintézet esetén az igazgatóság – teljes jogkörét – ideértve a munkáltatói jogok gyakorlását is –, e körben vezető tisztségviselőnek tekintendő.
 
-(3) Az integrációs biztos kirendeléséről rendelkező döntés kézhezvételéig hozott döntésekért a szövetkezeti hitelintézet igazgatósági tagjának a gazdasági társaságokra vagy a szövetkezetekre vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
+(3) Az integrációs biztos kirendeléséről rendelkező döntés kézhezvételéig hozott döntésekért az Integrációs Szervezet tagja ügyvezetésének – szövetkezeti hitelintézet esetén az igazgatóság tagjának – a gazdasági társaságokra vagy a szövetkezetekre vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
 
-(4) Az integrációs biztos kirendelésének ideje alatt az igazgatóság tagja a gazdasági társaságokra, a szövetkezetekre vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára az integrációs biztos azzal a korlátozással gyakorolja az igazgatóság tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit, hogy a közgyűlés összehívását, valamint napirendi pontjainak meghatározását kizárólag az Integrációs Szervezet igazgatóságának egyetértésével kezdeményezheti.
+(4) Az integrációs biztos kirendelésének ideje alatt az ügyvezetés, illetve az igazgatóság tagja a gazdasági társaságokra, a szövetkezetekre vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára az integrációs biztos azzal a korlátozással gyakorolja az ügyvezetés, illetve az igazgatóság tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit, hogy a közgyűlés, illetve taggyűlés összehívását, valamint napirendi pontjainak meghatározását kizárólag az Integrációs Szervezet igazgatóságának egyetértésével kezdeményezheti.
 
-(5) Az igazgatóság, vagy a felügyelőbizottság tagja az integrációs biztos kirendelésének ideje alatt is jogorvoslattal élhet az Integrációs Szervezet igazgatósága által az integrációs biztost kirendelő döntés, továbbá a szövetkezeti hitelintézettel szemben hozott intézkedés ellen, e jogorvoslati eljárásban a szövetkezeti hitelintézetet képviselheti vagy a képviselet ellátására megbízást adhat.
+(5) Az ügyvezetés, az igazgatóság, vagy a felügyelőbizottság tagja az integrációs biztos kirendelésének ideje alatt is jogorvoslattal élhet az Integrációs Szervezet igazgatósága által az integrációs biztost kirendelő döntés, továbbá az Integrációs Szervezet tagjával szemben hozott intézkedés ellen, e jogorvoslati eljárásban az Integrációs Szervezet tagját képviselheti, vagy a képviselet ellátására megbízást adhat.
 
 (6) Integrációs biztosként az a személy rendelhető ki, aki megfelel a Hpt. 155. § (1) bekezdés c) pontjában foglaltaknak. Nem rendelhető ki integrációs biztosként, akivel szemben a Hpt. 137. § (4)–(5) bekezdésében meghatározott valamely kizáró ok fennáll, illetve olyan foglalkozástól eltiltás hatálya alatt áll, amely az integrációs biztosi feladat ellátását nem teszi lehetővé, továbbá
 
-- a) aki saját maga vagy akinek közeli hozzátartozója az integrációs biztosi tevékenységgel érintett szövetkezeti hitelintézetben a kirendelés időpontjában vagy a kirendelést követően érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szövetkezeti hitelintézettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt,
+- a) aki saját maga vagy akinek közeli hozzátartozója az integrációs biztosi tevékenységgel érintett Integrációs Szervezeti tagban a kirendelés időpontjában vagy a kirendelést követően érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll az Integrációs Szervezeti taggal, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt,
 - b) akitől az integrációs biztosi feladatainak részrehajlásmentes megítélése és tárgyilagos elintézése egyéb okból nem várható el.
 
 (7) A (6) bekezdésben meghatározott bármely körülményről az integrációs biztos a kirendeléskor, ha a (6) bekezdésben meghatározott körülmény a kirendelés után merül fel, a körülmény felmerülését követően haladéktalanul köteles tájékoztatni az Integrációs Szervezet igazgatóságát. Ebben az esetben az Integrációs Szervezet az integrációs biztos kirendelését haladéktalanul visszavonja és egyidejűleg új integrációs biztost rendel ki.
 
 (8) Az integrációs biztos kirendelésekor az Integrációs Szervezet igazgatósága megállapítja a kirendelt integrációs biztos szerepét, feladatait, amelyet a kirendelés időtartama alatt döntésével bármikor módosíthat.
 
-(9) A kirendelt integrációs biztos az érintett szövetkezeti hitelintézet pénzügyi helyzetéről és a kirendelésének időtartama alatt végzett tevékenységéről – az Integrációs Szervezet igazgatósága által meghatározott időszakra vagy a kirendelés teljes idejére vonatkozóan – jelentést készít. A jelentést az Integrációs Szervezet megküldi a Felügyelet részére.
+(9) A kirendelt integrációs biztos az érintett Integrációs Szervezeti tag pénzügyi helyzetéről és a kirendelésének időtartama alatt végzett tevékenységéről – az Integrációs Szervezet igazgatósága által meghatározott időszakra vagy a kirendelés teljes idejére vonatkozóan – jelentést készít. A jelentést az Integrációs Szervezet megküldi a Felügyelet részére.
 
 11/E. § (1) A szövetkezeti hitelintézetet terhelő a jogszabályban meghatározott vagy jogszabályon alapuló, Felügyelet irányába történő adatszolgáltatási és bejelentési kötelezettséget a szövetkezeti hitelintézet az Integrációs Szervezet közreműködésével is teljesítheti. Az adatszolgáltatási és bejelentési kötelezettség határidőben történő teljesítéséért és annak tartalmáért a szövetkezeti hitelintézet tartozik felelősséggel, kivéve, ha a teljesítés határidejének az elmulasztása vagy a tartalom hiányossága nem az általa teljesített adatszolgáltatással vagy bejelentéssel kapcsolatos.
 
@@ -417,11 +437,11 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (3) Az Integrációs Szervezet igazgatósága a (2) bekezdésben meghatározott szabályzat elfogadásáról és az adatszolgáltatási és bejelentési kötelezettséget az Integrációs Szervezet közreműködésével teljesítő szövetkezeti hitelintézetekről az elfogadás, illetve a változás bekövetkezésétől számított 2 munkanapon belül értesíti a Felügyeletet. E tájékoztatásban meg kell jelölni, hogy az adott szövetkezeti hitelintézet mely időponttól teljesíti az adatszolgáltatási és bejelentési kötelezettséget az Integrációs Szervezet közreműködésével.
 
-(4) Az Integrációs Szervezet és a Központi Bank a prudens és hatékony működés biztosítása érdekében együttműködési megállapodást köthet az Integrációs Szervezet közreműködésével történő adatszolgáltatások és bejelentések gyakorlati megvalósításának részletszabályairól.
+(4) Az Integrációs Szervezet és az integrációs üzleti irányító szervezet a prudens és hatékony működés biztosítása érdekében együttműködési megállapodást köthet az Integrációs Szervezet közreműködésével történő adatszolgáltatások és bejelentések gyakorlati megvalósításának részletszabályairól.
 
 #### 6/A. Kilépés az Integrációs Szervezetből
 
-11/F. § (1) Az Integrációs Szervezetből a szövetkezeti hitelintézet az Integrációs Szervezet alapszabályának megfelelően, a Központi Bank a Központi Bank Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott központi bank feladatait ellátó hitelintézet kiválasztásának részletszabályairól szóló rendeletben meghatározott szabályok szerint léphet ki. Az Integrációs Szervezetből kilépni kívánó szövetkezeti hitelintézet vagy Központi Bank a kilépési szándékát azt követően jelentheti be az Integrációs Szervezethez, ha a bejelentést megelőző legalább 60 nappal nem szövetkezeti formában működő hitelintézet alapítására, illetve működésére vonatkozó engedélyért fordult a Felügyelethez.
+11/F. § (1) Az Integrációs Szervezetből az Integrációs Szervezet integrációs üzleti irányító szervezeten kívüli tagjai az Integrációs Szervezet alapszabályának megfelelően, az integrációs üzleti irányító szervezet az integrációs üzleti irányító szervezet Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott integrációs üzleti irányító szervezet feladatait ellátó pénzügyi intézmény kiválasztásának részletszabályairól szóló rendeletben meghatározott szabályok szerint léphet ki. Az Integrációs Szervezetből kilépni kívánó tag a kilépési szándékát azt követően jelentheti be az Integrációs Szervezethez, hogy a bejelentést megelőző legalább 60 nappal nem szövetkezeti formában működő hitelintézet alapítására, illetve működésére vonatkozó engedélyért fordult a Felügyelethez.
 
 (2) Az Integrációs Szervezetből kilépni kívánó tag a kilépési szándéknyilatkozat benyújtásával egyidejűleg az Integrációs Szervezet részére köteles megfizetni azt az összeget, amely a Központi Adatfeldolgozónak az utolsó elfogadott éves beszámolója szerinti teljes aktivált eszközállományának és a kilépni kívánó tag mérlegfőösszegének az egyetemleges felelősség mellett működő összes integrációs tag mérlegfőösszegéhez viszonyított arányában kerül megállapításra. Az Integrációs Szervezet a megfizetett összeget letétként kezeli a tagság megszűnéséig. A tagság megszűnésének időpontjában a megfizetett összeg – az Integrációs Szervezettel való elszámolást követően – a Központi Adatfeldolgozót illeti meg. Ha a kilépési szándéknyilatkozat visszavonásra kerül, a letét összegét az Integrációs Szervezet visszafizeti a tag részére.
 
@@ -432,7 +452,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 (5) A kilépési szándékát bejelentett tag az alábbi feltételek együttes teljesülése esetén léphet ki az Integrációs Szervezetből:
 
 - a) a Felügyelet az (1) bekezdésben meghatározott kérelemre az engedélyt – a (6) bekezdésben meghatározott nyilatkozat kiadásához kötődően – feltételes hatállyal megadta a b) és c) pontban foglalt feltétel teljesítéséig,
-- b) a kilépni kívánó tag az Integrációs Szervezettel és annak tagjaival elszámolt, azok felé tartozással nem rendelkezik, ide nem értve azt az esetet, ha nála az Integrációs Szervezet valamely tagja betétet helyezett el, vagy a 20/A. § (2) bekezdésében és az 1. § (4) bekezdésében meghatározott egyetemleges felelősség körében fennálló függő kötelezettséget,
+- b) a kilépni kívánó tag az Integrációs Szervezettel és annak tagjaival elszámolt, azok felé tartozással nem rendelkezik, ide nem értve azt az esetet, ha nála az Integrációs Szervezet valamely tagja betétet helyezett el, vagy az 5/A. §-ban meghatározott egyetemleges felelősség körében fennálló függő kötelezettséget,
 - c) teljesültek a kilépés vonatkozásában az Integrációs Szervezet kilépéskor hatályos alapszabályában meghatározott feltételek,
 - d) teljesült a 20/A. § (7) bekezdésében írt feltétel.
 
@@ -440,129 +460,143 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (7) Az (5) bekezdés a) pontjában meghatározott döntéshez attól az időponttól kezdve kapcsolódnak joghatások, amikor a (6) bekezdésben meghatározott nyilatkozatot az Integrációs Szervezet kiállította.
 
-(8) Az Integrációs Szervezetből történő kilépés esetén megszűnik a kilépő tag vonatkozásában az Integrációs Szervezet tagjainak egyetemleges felelőssége a tag által a kilépés hatálybalépésének a napjától vállalt kötelezettségekre. Az Integrációs Szervezetből kilépő tag az Integrációs Szervezettel és az Integrációs Szervezet tagjaival szemben az Integrációs Szervezetben fennálló tagság megszűnésének időpontjáig keletkezett és az Integrációs Szervezeti tagsága megszűnése időpontjától számított 730 napon belül benyújtott igényekért felel. Az Integrációs Szervezet a kilépő taggal szemben a kilépő tag Integrációs Szervezetben fennálló tagságának megszűnése időpontjáig keletkezett és a kilépő tag Integrációs Szervezeti tagsága megszűnése időpontjától számított 730 napon belül benyújtott igényekért felel. A kilépő tag tekintetében a Felügyelet a tőkekövetelmények fennállásának teljesítése körében a kilépéstől számított 730 napig nem veheti figyelembe a kilépő tagnak a kilépési szándéknyilatkozat benyújtásakor fennállt saját tőke értékét.
+(8)
 
 (9) A nem az 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tag Integrációs Szervezetből való kilépésére az (1)–(8) bekezdést nem kell alkalmazni. E tag Integrációs Szervezeti jogviszonya a kilépési szándékának az Integrációs Szervezet igazgatósága részére történő bejelentése közlésének napjával szűnik meg. Az Integrációs Szervezet a tagsági jogviszony megszűnésétől számított 30 napon belül visszafizeti a tag részére a 4. § (2) bekezdése szerinti tag által – közvetlenül az Integrációs Szervezet részére – rendelkezésre bocsátott vagyoni hozzájárulás összegét; a tag a vagyoni hozzájárulás visszafizetéséről lemondhat.
 
-11/G. § (1) A 11/F. §-ban foglalt rendelkezéseket a Központi Bank kilépése esetén az e §-ban foglalt eltérésekkel kell alkalmazni.
+11/G. § (1) A 11/F. §-ban foglalt rendelkezéseket az integrációs üzleti irányító szervezet kilépése esetén az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) Az Integrációs Szervezetből kilépni kívánó Központi Bank Integrációs Szervezeti tagsága kizárólag azt követően szűnhet meg, hogy az e törvényben meghatározott, a Központi Bank szövetkezeti hitelintézetek integrációjával kapcsolatos feladatait és hatásköreit a Központi Bank Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott központi bank feladatait ellátó hitelintézet kiválasztásának részletszabályairól szóló rendeletben meghatározottak szerint az Integrációs Szervezet által kiválasztott új Központi Bank átvette.
+(2) Az Integrációs Szervezetből kilépni kívánó integrációs üzleti irányító szervezet Integrációs Szervezeti tagsága kizárólag azt követően szűnhet meg, hogy az e törvényben meghatározott, az integrációs üzleti irányító szervezet szövetkezeti hitelintézetek integrációjával kapcsolatos feladatait és hatásköreit az integrációs üzleti irányító szervezet Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott integrációs üzleti irányító szervezet feladatait ellátó pénzügyi intézmény kiválasztásának részletszabályairól szóló rendeletben meghatározottak szerint az Integrációs Szervezet által kiválasztott új integrációs üzleti irányító szervezet átvette.
 
-(3) A Központi Bank az e törvényben meghatározott, a szövetkezeti hitelintézetek integrációjával kapcsolatos feladatok ellátásáért és jogkörök gyakorlásáért, a feladatok és jogkörök új Központi Bank által történő átvételéig felelősséggel tartozik.
+(3) Az integrációs üzleti irányító szervezet az e törvényben meghatározott, a szövetkezeti hitelintézetek integrációjával kapcsolatos feladatok ellátásáért és jogkörök gyakorlásáért, a feladatok és jogkörök új integrációs üzleti irányító szervezet által történő átvételéig felelősséggel tartozik.
 
-(4) A Központi Bank a kilépése vagy központi banki jogkörének megvonása esetén a szövetkezeti hitelintézet kérésére, köteles – egy független szakértő által megállapított vételáron – visszavásárolni a 3. § (3) bekezdésében meghatározott részvényt; az így megszerzett saját részvényt annak megszerzésétől számított 1 éven belül az alaptőke leszállításával kell bevonni vagy értékesíteni.
+(4) Az integrációs üzleti irányító szervezet kilépése vagy integrációs üzleti irányító szervezeti jogkörének megvonása esetén a szövetkezeti hitelintézet kérésére, köteles – egy független szakértő által megállapított vételáron – visszavásárolni a 3. § (3) bekezdésében meghatározott részvényt; az így megszerzett saját részvényt annak megszerzésétől számított 1 éven belül az alaptőke leszállításával kell bevonni vagy értékesíteni.
 
-(5) A szövetkezeti hitelintézetek integrációjának – a Központi Bank Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott központi bank feladatait ellátó hitelintézet kiválasztásának részletszabályairól szóló rendeletben meghatározottak szerint – kiválasztott új Központi Bankja az Integrációs Szervezeti tagságának időpontjától egyetemlegesen felel az Integrációs Szervezet és a szövetkezeti hitelintézetek által vállalt valamennyi kötelezettségért, függetlenül azok keletkezésének időpontjától, továbbá ezen időponttól az Integrációs Szervezet és a szövetkezeti hitelintézetek is egyetemlegesen felelnek a Központi Bank által vállalt valamennyi kötelezettségért, függetlenül azok keletkezésének időpontjától.
+(5) A szövetkezeti hitelintézetek integrációjának – az integrációs üzleti irányító szervezet Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott integrációs üzleti irányító szervezet feladatait ellátó pénzügyi intézmény kiválasztásának részletszabályairól szóló rendeletben meghatározottak szerint – kiválasztott új integrációs üzleti irányító szervezete az Integrációs Szervezeti tagságának időpontjától egyetemlegesen felel az Integrációs Szervezet és annak tagjai által vállalt valamennyi kötelezettségért, függetlenül azok keletkezésének időpontjától, továbbá ezen időponttól az Integrációs Szervezet és annak tagjai is egyetemlegesen felelnek az integrációs üzleti irányító szervezet által vállalt valamennyi kötelezettségért, függetlenül azok keletkezésének időpontjától.
 
 ### II. Fejezet
 
-#### 7. A Központi Bank
+#### 7. Az integrációs üzleti irányító szervezet
 
-#### 7.1. A Központi Bank jogállása, részvényesei
+#### 7.1. Az integrációs üzleti irányító szervezet jogállása
 
-12. § (1) A Központi Bank hitelintézet, amelyre a Hpt.-t és a Ptk.-t az e törvényben foglalt eltérésekkel kell alkalmazni.
+12. § Az integrációs üzleti irányító szervezet pénzügyi intézmény, amelyre a Hpt.-t, a Bszt.-t és a Ptk.-t az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) Az Integrációs Szervezet tagja a Központi Bank részvényese.
+#### 7.2. Az integrációs üzleti irányító szervezet közreműködése az integrációs szintű stratégia megvalósításában
 
-(3) A 11. § (4) bekezdésében foglalt esetben az Integrációs Szervezet átmeneti jelleggel tulajdont szerezhet a Központi Bankban.
+13. § Az integrációs üzleti irányító szervezet a közgyűlése által jóváhagyott integrációs szintű stratégia megvalósítása érdekében az Integrációs Szervezet egyes tagjai vagy valamennyi tagja érdekében a stratégia megvalósításához szükséges mértékben szerződést köthet. Az integrációs üzleti irányító szervezet – az Integrációs Szervezet előzetes jóváhagyását követően – a tag vagy tagok érdekében megkötött szerződés alapján felmerült kiadásait jogosult akár egészben, akár részben továbbhárítani az Integrációs Szervezet azon tagja vagy tagjai részére, amelyek érdekében a kiadást teljesítette.
 
-#### 7.2.
+#### 7.3. Az integrációs üzleti irányító szervezet alapszabálya
 
-#### 13. §
+14. § (1) Az integrációs üzleti irányító szervezet alapszabályának a megállapításához és módosításához, továbbá az egyes részvénysorozatokhoz fűződő jogok megváltoztatásához, valamint az egyes részvényfajták, osztályok átalakításához a szavazásra jogosító részvények által megtestesített szavazatok több mint felét képviselő részvényes szavazata szükséges.
 
-#### 7.3.
-
-14. § (1) A Központi Bank alapszabályának a megállapításához és módosításához, továbbá az egyes részvénysorozatokhoz fűződő jogok megváltoztatásához, valamint az egyes részvényfajták, osztályok átalakításához a szavazásra jogosító részvények által megtestesített szavazatok több mint felét képviselő részvényes szavazata szükséges.
-
-(2) A Központi Bank alapszabálya az integráción belüli konszolidáció és a kisebbségi tulajdonosok érdekei védelme érdekében együttes eladási szabályokat állapíthat meg és korlátozhatja, hogy a Központi Bank részvényesén és az integrációs szervezeti tagsággal rendelkező szövetkezeti hitelintézeten kívül más hogyan szerezheti meg a Központi Bank részvényét illetve kizárhatja vagy korlátozhatja, hogy nem szövetkezeti hitelintézet milyen esetben vagy feltételek mellett szerezhet részvényt a Központi Bankban.
+(2) Az integrációs üzleti irányító szervezet alapszabálya az integráción belüli konszolidáció és a kisebbségi tulajdonosok érdekei védelme érdekében együttes eladási szabályokat állapíthat meg és korlátozhatja, hogy az integrációs üzleti irányító szervezet részvényesén és az integrációs szervezeti tagsággal rendelkező szövetkezeti hitelintézeten kívül más hogyan szerezheti meg az integrációs üzleti irányító szervezet részvényét illetve kizárhatja vagy korlátozhatja, hogy nem szövetkezeti hitelintézet milyen esetben vagy feltételek mellett szerezhet részvényt az integrációs üzleti irányító szervezetben.
 
 (3)
 
-(4) A Központi Bank részvényese – az MFB-n kívül – nem gyakorolhatja a részvényesi jogait és esetleges elővásárlási vagy más részvényhez fűződő előjogait, amennyiben
+(4) Az integrációs üzleti irányító szervezet részvényese nem gyakorolhatja a részvényesi jogait és esetleges elővásárlási vagy más részvényhez fűződő előjogait, amennyiben
 
 - a) tőkemegfelelése nem éri el az Integrációs Szervezet által előírt szintet,
 - b)
 - c) olyan hitelügyletet vagy ehhez kötődő biztosítéki ügyletet köt vagy kötött, amelyet a jogszabály vagy valamely vonatkozó szabályzat tilt,
-- d) ha a részvényes nem teljesítette az Integrációs Szervezet vagy a Központi Bank utasítását, vagy
+- d) ha a részvényes nem teljesítette az Integrációs Szervezet vagy az integrációs üzleti irányító szervezet utasítását, vagy
 - e) nem teljesíti e törvényből fakadó valamely kötelezettségét.
 
-#### 7.4. A Központi Bank feladatai, viszonya a szövetkezeti hitelintézetekkel
+#### 7.4. Az integrációs üzleti irányító szervezet feladatai, viszonya a szövetkezeti hitelintézetekkel
 
-15. § (1) A Központi Bank a szövetkezeti hitelintézetek integrációjának egységes üzleti működése, irányítása körében közreműködik a szövetkezeti hitelintézeti integráció központi szervének feladatai ellátásában.
+15. § (1) Az integrációs üzleti irányító szervezet a szövetkezeti hitelintézetek integrációjának egységes üzleti működése, irányítása körében közreműködik a szövetkezeti hitelintézeti integráció központi szervének feladatai ellátásában.
 
-(2) A Központi Bank az Integrációs Szervezet előzetes jóváhagyását követően valamennyi szövetkezeti hitelintézetre vonatkozóan kötelező szabályzatot fogad el
+(2) Az integrációs üzleti irányító szervezet az Integrációs Szervezet előzetes jóváhagyását követően az Integrációs Szervezet tagjaira és a Kapcsolt Vállalkozásokra vonatkozóan kötelező szabályzatot fogad el
 
-- a) a kockázatkezelés részletes szabályairól, ideértve a hitelengedélyezés, kockázati monitoring, betételhelyezés, készpénzgazdálkodás és befektetési politika, a minősítés és az értékvesztés szabályait;
+- a) a kockázatkezelés részletes szabályairól, ideértve a hitelengedélyezés, a kockázatvállalások korlátozása, kockázati monitoring, betételhelyezés, készpénzgazdálkodás és befektetési politika, a minősítés és az értékvesztés szabályait;
 - b) a kockázati stratégiáról;
-- c) a szövetkezeti hitelintézetek integrációs szintű beszerzési gyakorlatának kialakításáról, beleértve az integrációs szintű beszerzés körébe vont áruk és szolgáltatások meghatározását és a központi beszerzés lebonyolításának szabályait;
+- c) az integrációs szintű beszerzési gyakorlatának kialakításáról, beleértve az integrációs szintű beszerzés körébe vont áruk és szolgáltatások meghatározását és a központi beszerzés lebonyolításának szabályait;
 - d) az egységes informatikai rendszerről;
 - e) az egyes pénzügyi és kiegészítő pénzügyi szolgáltatási, valamint befektetési és kiegészítő befektetési szolgáltatási tevékenység általános szerződési feltételeit tartalmazó üzletszabályzatokról.
 
-(3) A Központi Bank jogosult a szövetkezeti hitelintézeti integráció céljainak elérése érdekében a szövetkezeti hitelintézetek integrációjának egységes üzleti működése, irányítása tárgykörében a szövetkezeti hitelintézetekre kötelező szabályzatot elfogadni. Ha a Központi Bank olyan szabályzatot fogad el, amely az Integrációs Szervezet feladatkörének gyakorlását érinti, akkor a szabályzatot az Integrációs Szervezet igazgatóságának előzetesen jóvá kell hagynia.
+(3) Az integrációs üzleti irányító szervezet jogosult a szövetkezeti hitelintézeti integráció céljainak elérése érdekében a szövetkezeti hitelintézetek integrációjának egységes üzleti működése, irányítása tárgykörében az Integrációs Szervezet tagjaira és a Kapcsolt Vállalkozásokra kötelező szabályzatot elfogadni. Ha az integrációs üzleti irányító szervezet olyan szabályzatot fogad el, amely az Integrációs Szervezet feladatkörének gyakorlását érinti, akkor a szabályzatot az Integrációs Szervezet igazgatóságának előzetesen jóvá kell hagynia.
 
-(4) A Központi Bank a szövetkezeti hitelintézetek integrációs szintű beszerzéseinek lebonyolítása és az Integrációs Szervezet tagjai igényeinek kielégítése érdekében többségi tulajdonában álló gazdasági társaságot hozhat létre, vagy ilyen tevékenységet végző gazdasági társaságban többségi tulajdont szerezhet, illetve ezen tevékenységek ellátását – nyilvános pályázat útján – főtevékenységként ilyen tevékenységeket végző gazdasági társaságra bízhatja legfeljebb 5 éves időtartamra.
+(4) Az integrációs üzleti irányító szervezet az integrációs szintű beszerzések lebonyolítása és az Integrációs Szervezet tagjai és a Kapcsolt Vállalkozások igényeinek kielégítése érdekében többségi tulajdonában álló gazdasági társaságot hozhat létre, vagy ilyen tevékenységet végző gazdasági társaságban többségi tulajdont szerezhet, illetve ezen tevékenységek ellátását – nyilvános pályázat útján – főtevékenységként ilyen tevékenységeket végző gazdasági társaságra bízhatja legfeljebb 5 éves időtartamra.
 
-(5) A Központi Bank az általa kiadott szabályzatoknak vagy korábbi utasításnak megfelelő működés érdekében utasítást adhat a szövetkezeti hitelintézetnek. A szövetkezeti hitelintézet az utasításnak köteles eleget tenni. Az utasítást indokolni kell és abban meg kell jelölni a teljesítés határidejét is. A Központi Bank az utasítását az utasítás címzettje részére történő megküldéssel egyidejűleg továbbítja az Integrációs Szervezet, valamint a Felügyelet részére. A szövetkezeti hitelintézet mint az utasítás címzettje jogosult bírósághoz fordulni abban a körben, hogy az utasítás a törvénynek, egyéb jogszabályoknak, az Integrációs Szervezet által meghatározott irányelveknek és a Központi Bank, illetve az Integrációs Szervezet által kiadott szabályzatoknak megfelel-e. A bírósághoz fordulásnak nincs halasztó hatálya, az utasítás attól függetlenül, az utasításban megjelölt határidőben végrehajtandó.
+(5) Az integrációs üzleti irányító szervezet az általa kiadott szabályzatoknak vagy korábbi utasításnak megfelelő működés érdekében utasítást adhat a szövetkezeti hitelintézetnek és a Kapcsolt Vállalkozásnak. A szövetkezeti hitelintézet és a Kapcsolt Vállalkozás az utasításnak köteles eleget tenni. Az utasítást indokolni kell és abban meg kell jelölni a teljesítés határidejét is. Az integrációs üzleti irányító szervezet az utasítását az utasítás címzettje részére történő megküldéssel egyidejűleg továbbítja az Integrációs Szervezet, valamint a Felügyelet részére. Az utasítás címzettje jogosult bírósághoz fordulni abban a körben, hogy az utasítás a törvénynek, egyéb jogszabályoknak, az Integrációs Szervezet által meghatározott irányelveknek és az integrációs üzleti irányító szervezet, illetve az Integrációs Szervezet által kiadott szabályzatoknak megfelel-e. A bírósághoz fordulásnak nincs halasztó hatálya, az utasítás attól függetlenül, az utasításban megjelölt határidőben végrehajtandó.
 
-(6) A Központi Bank szövetkezeti hitelintézet részvényesei kötelesek fizetési számlájukat és értékpapírszámlájukat kizárólag a Központi Banknál vezetni, és le nem kötött pénzeszközeiket a Központi Bank által forgalmazott eszközökben tartani.
+(6)
 
-(7) A szövetkezeti hitelintézet számviteli törvény szerinti beszámolója – kivéve az átalakulás, egyesülés, szétválás esetén a tevékenységet lezáró beszámolókat – elfogadásához a Központi Bank igazgatóságának előzetes jóváhagyása szükséges, amely döntést a szövetkezeti hitelintézet a tervezett közgyűlése, részközgyűlése vagy küldöttgyűlése (a továbbiakban együtt: közgyűlés) előtt legalább 45 nappal – nyilvánosan működő részvénytársasági formában működő szövetkezeti hitelintézet esetében a közgyűlés előterjesztéseit tárgyaló igazgatósági ülést megelőző legalább 8 nappal – rendelkezésére bocsátott, könyvvizsgálói jelentéssel ellátott beszámoló alapján 30 napon belül hoz meg. A Központi Bank az előzetes jóváhagyásáról szóló döntést az Integrációs Szervezet ügyvezetésének előzetes egyetértését követően hozhatja meg. A Központi Bank előzetes jóváhagyása hiányában a szövetkezeti hitelintézet felügyelőbizottsága a számviteli törvény szerinti beszámoló tervezetét nem véleményezheti, a szövetkezeti hitelintézet igazgatósága a számviteli törvény szerinti beszámoló tervezetét nem terjesztheti a legfőbb döntéshozó szerv elé, a szövetkezeti hitelintézet legfőbb döntéshozó szerve pedig érvényesen nem fogadhatja el a számviteli törvény szerinti beszámolót. A cégbírósághoz benyújtásra kerülő beszámoló kötelező melléklete a Központi Bank előzetes hozzájárulását tartalmazó nyilatkozata.
+(7) Az Integrációs Szervezet tagja és a Kapcsolt Vállalkozás számviteli törvény szerinti beszámolója – kivéve az átalakulás, egyesülés, szétválás esetén a tevékenységet lezáró beszámolókat – elfogadásához az integrációs üzleti irányító szervezet igazgatóságának előzetes jóváhagyása szükséges, amely döntést az érintett szervezet tervezett közgyűlése, részközgyűlése vagy küldöttgyűlése (a továbbiakban együtt: közgyűlés) előtt legalább 45 nappal – nyilvánosan működő részvénytársasági formában működő szövetkezeti hitelintézet esetében a közgyűlés előterjesztéseit tárgyaló igazgatósági ülést megelőző legalább 8 nappal – rendelkezésére bocsátott, könyvvizsgálói jelentéssel ellátott beszámoló alapján 30 napon belül hoz meg. Az integrációs üzleti irányító szervezet az előzetes jóváhagyásáról szóló döntést az Integrációs Szervezet ügyvezetésének előzetes egyetértését követően hozhatja meg. Az integrációs üzleti irányító szervezet előzetes jóváhagyása hiányában az érintett szervezet felügyelőbizottsága a számviteli törvény szerinti beszámoló tervezetét nem véleményezheti, az igazgatósága vagy ügyvezetése a számviteli törvény szerinti beszámoló tervezetét nem terjesztheti a legfőbb döntéshozó szerv elé, a legfőbb döntéshozó szerve pedig érvényesen nem fogadhatja el a számviteli törvény szerinti beszámolót. A cégbírósághoz benyújtásra kerülő beszámoló kötelező melléklete az integrációs üzleti irányító szervezet előzetes jóváhagyását tartalmazó nyilatkozata.
 
-(8) A Központi Bank igazgatósága felfüggeszti a szövetkezeti hitelintézet – mint a Központi Bank részvényese – részvényesi jogait a 14. § (4) bekezdése szerinti esetekben. A Központi Bank részvénykönyvében a részvényesi jogok felfüggesztésének a tényét fel kell tüntetni. Az Integrációs Szervezet igazgatósága jogosult határozatában eldönteni, hogy fennáll-e a felfüggesztésről szóló határozat meghozatalára okot adó körülmény.
+(8) Az integrációs üzleti irányító szervezet igazgatósága felfüggeszti a szövetkezeti hitelintézet – mint az integrációs üzleti irányító szervezet részvényese – részvényesi jogait a 14. § (4) bekezdése szerinti esetekben. Az integrációs üzleti irányító szervezet részvénykönyvében a részvényesi jogok felfüggesztésének a tényét fel kell tüntetni. Az Integrációs Szervezet igazgatósága jogosult határozatában eldönteni, hogy fennáll-e a felfüggesztésről szóló határozat meghozatalára okot adó körülmény.
 
-(9) A részvényes jogainak felfüggesztése az érintett részvényhez kapcsolódó jogok és kötelezettségek szünetelését eredményezi. E részvényeket a Központi Bank közgyűlésének a határozatképessége szempontjából nem lehet figyelembe venni.
+(9) A részvényes jogainak felfüggesztése az érintett részvényhez kapcsolódó jogok és kötelezettségek szünetelését eredményezi. E részvényeket az integrációs üzleti irányító szervezet közgyűlésének a határozatképessége szempontjából nem lehet figyelembe venni.
 
 (10) Ha a részvényesi jogok felfüggesztésével érintett elsőbbségi részvények aránya az elsőbbségi részvényeken belül, vagy az érintett elsőbbségi részvényfajtán belüli részvényosztályokon belül eléri az 50%-ot, az érintett elsőbbségi részvényeken vagy az érintett elsőbbségi részvényfajtán belüli részvényosztályokon belül kibocsátott részvénysorozathoz kapcsolódó jogok szünetelnek, azaz a szünetelés ideje alatt az azokhoz fűződő jogok nem gyakorolhatóak.
 
-(11) A Központi Bank előzetes jóváhagyása szükséges az egyes szövetkezeti hitelintézeteknek más gazdálkodó szervezetben, illetve jogi személyben történő tulajdonszerzéséhez vagy a szerzett tulajdon értékesítéséhez, ha az értékesíteni vagy megszerezni tervezett tulajdon értéke, illetve vételára meghaladja az integráció konszolidált alapon számított szavatoló tőkéje 0,1%-át, azzal, hogy befolyásoló részesedésszerzés esetén az Integrációs Szervezet igazgatóságának előzetes jóváhagyása szükséges. A tizenkét hónapon belül végrehajtott ügyleteket ugyanazon tulajdoni részesedés vonatkozásában együttesen kell figyelembe venni.
+(11) Az integrációs üzleti irányító szervezet előzetes jóváhagyása szükséges az egyes szövetkezeti hitelintézeteknek és Kapcsolt Vállalkozásoknak más gazdálkodó szervezetben, illetve jogi személyben történő tulajdonszerzéséhez vagy a szerzett tulajdon értékesítéséhez, ha az értékesíteni vagy megszerezni tervezett tulajdon értéke, illetve vételára meghaladja az integráció konszolidált alapon számított szavatoló tőkéje 0,1%-át, azzal, hogy befolyásoló részesedésszerzés esetén az Integrációs Szervezet igazgatóságának előzetes jóváhagyása szükséges. A tizenkét hónapon belül végrehajtott ügyleteket ugyanazon tulajdoni részesedés vonatkozásában együttesen kell figyelembe venni.
 
-(12) A szövetkezeti hitelintézet a jogi személy határozatainak bírósági felülvizsgálatára vonatkozó szabályok szerint bírósághoz fordulhat a Központi Bank igazgatóságának e törvény szerinti döntésével vagy utasításával szemben. A bírósághoz fordulásnak nincs halasztó hatálya, a döntés vagy utasítás attól függetlenül az abban megjelölt határidőben végrehajtandó.
+(12) A szövetkezeti hitelintézet és a Kapcsolt Vállalkozás a jogi személy határozatainak bírósági felülvizsgálatára vonatkozó szabályok szerint bírósághoz fordulhat az integrációs üzleti irányító szervezet igazgatóságának e törvény szerinti döntésével vagy utasításával szemben. A bírósághoz fordulásnak nincs halasztó hatálya, a döntés vagy utasítás attól függetlenül az abban megjelölt határidőben végrehajtandó.
 
-(13) A Központi Banknak az e törvényben meghatározott feladatai ellátása során keletkezett költsége a vállalkozás érdekében felmerült költségnek minősül.
+(13) Az integrációs üzleti irányító szervezetnek az e törvényben meghatározott feladatai ellátása során keletkezett költsége a vállalkozás érdekében felmerült költségnek minősül.
 
-(14) A Központi Bank a Hpt. 7. § (3) bekezdésében meghatározott tevékenységeken túl üzletszerűen végezheti az e törvény szerinti, központi banki feladatai ellátásához kapcsolódó szolgáltatást.
+(14) Az integrációs üzleti irányító szervezet a Hpt. 7. § (3) bekezdésében meghatározott tevékenységeken túl üzletszerűen végezheti az e törvény szerinti, integrációs üzleti irányító szervezeti feladatai ellátásához kapcsolódó szolgáltatást.
 
-(15) A Központi Bank igazgatósági tagja nem vehet részt a Központi Bank – e törvényben meghatározott feladataival kapcsolatos – döntésének meghozatalában, ha annál a szövetkezeti hitelintézetnél, amelyre a döntés vonatkozik saját maga vagy közeli hozzátartozója vezető állást tölt be, illetve érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szövetkezeti hitelintézettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt.
+(15) Az integrációs üzleti irányító szervezet igazgatósági tagja nem vehet részt az integrációs üzleti irányító szervezet – e törvényben meghatározott feladataival kapcsolatos – döntésének meghozatalában, ha annál a szövetkezeti hitelintézetnél, amelyre a döntés vonatkozik saját maga vagy közeli hozzátartozója vezető állást tölt be, illetve érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szövetkezeti hitelintézettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt.
 
-15/A. § (1) A szövetkezeti hitelintézet közgyűléséről a Központi Bankot és az Integrációs Szervezetet a meghívó tulajdonosoknak történő megküldésével egyidejűleg, de legalább 15 nappal a közgyűlés előtt értesíteni kell. Az értesítéshez csatolni kell a meghívót, valamint a napirendekre vonatkozóan az előterjesztéseket és a kapcsolódó anyagokat. Az Integrációs Szervezet ügyvezetése az értesítéstől számított 5 napon belül felhívhatja a szövetkezeti hitelintézetet arra, hogy az Integrációs Szervezet által megjelölt, előterjesztést nem tartalmazó napirendi pontokhoz is készítsen írásbeli előterjesztést. A szövetkezeti hitelintézet közgyűlése nem hozhat érvényes határozatot e kötelezettségek megsértése esetén. A Központi Bank és az Integrációs Szervezet képviselője a szövetkezeti hitelintézet közgyűlésén jogosult tanácskozási joggal részt venni.
+15/A. § (1) A szövetkezeti hitelintézet közgyűléséről az integrációs üzleti irányító szervezetet és az Integrációs Szervezetet a meghívó tulajdonosoknak történő megküldésével egyidejűleg, de legalább 15 nappal a közgyűlés előtt értesíteni kell. Az értesítéshez csatolni kell a meghívót, valamint a napirendekre vonatkozóan az előterjesztéseket és a kapcsolódó anyagokat. Az Integrációs Szervezet ügyvezetése az értesítéstől számított 5 napon belül felhívhatja a szövetkezeti hitelintézetet arra, hogy az Integrációs Szervezet által megjelölt, előterjesztést nem tartalmazó napirendi pontokhoz is készítsen írásbeli előterjesztést. A szövetkezeti hitelintézet közgyűlése nem hozhat érvényes határozatot e kötelezettségek megsértése esetén. Az integrációs üzleti irányító szervezet és az Integrációs Szervezet képviselője a szövetkezeti hitelintézet közgyűlésén jogosult tanácskozási joggal részt venni.
 
-(2) A szövetkezeti hitelintézet közgyűléséről készült jegyzőkönyvet a közgyűlést követő 15 napon belül meg kell küldeni a Központi Bank és az Integrációs Szervezet részére.
+(2) A szövetkezeti hitelintézet közgyűléséről készült jegyzőkönyvet a közgyűlést követő 15 napon belül meg kell küldeni az integrációs üzleti irányító szervezet és az Integrációs Szervezet részére.
 
 (3) A szövetkezeti hitelintézet igazgatósága az ügyrendjét köteles az elfogadást vagy a módosítást követő 5 napon belül megküldeni az Integrációs Szervezet részére. Amennyiben az elfogadott ügyrend ellentétes az Integrációs Szervezet által meghatározott, az ügyrend szempontjából releváns szabályzattal, illetve a szövetkezeti hitelintézet alapszabályával, az Integrációs Szervezet ügyvezetése indítványozhatja annak módosítását. A szövetkezeti hitelintézet igazgatósága köteles az Integrációs Szervezet ilyen indítványának kézhezvételét követő 15 napon belül – az indítványban meghatározott tartalommal – módosítani az ügyrendjét. Ha az Integrációs Szervezet 15 napon belül nem nyilatkozik, az ügyrendet elfogadottnak kell tekinteni.
 
-(4) A szövetkezeti hitelintézet igazgatósági üléséről a Központi Bankot és az Integrációs Szervezetet a meghívó igazgatósági tagoknak történő megküldésével egyidejűleg, de legalább 5 munkanappal az ülés előtt értesíteni kell. A meghívóhoz csatolni kell minden napirendre vonatkozóan az előterjesztést és a kapcsolódó anyagokat. Az Integrációs Szervezet ügyvezetése indokolt esetben az értesítéstől számított 3 munkanapon belül felhívhatja a szövetkezeti hitelintézetet arra, hogy az Integrációs Szervezet által megjelölt napirendi pontokhoz készítsen írásbeli előterjesztést. A szövetkezeti hitelintézet igazgatósága érvényesen nem hozhat határozatot e kötelezettségek megsértése esetén. A Központi Bank és az Integrációs Szervezet képviselője a szövetkezeti hitelintézet igazgatósági ülésén jogosult tanácskozási joggal részt venni.
+(4) A szövetkezeti hitelintézet igazgatósági üléséről az integrációs üzleti irányító szervezetet és az Integrációs Szervezetet a meghívó igazgatósági tagoknak történő megküldésével egyidejűleg, de legalább 5 munkanappal az ülés előtt értesíteni kell. A meghívóhoz csatolni kell minden napirendre vonatkozóan az előterjesztést és a kapcsolódó anyagokat. Az Integrációs Szervezet ügyvezetése indokolt esetben az értesítéstől számított 3 munkanapon belül felhívhatja a szövetkezeti hitelintézetet arra, hogy az Integrációs Szervezet által megjelölt napirendi pontokhoz készítsen írásbeli előterjesztést. A szövetkezeti hitelintézet igazgatósága érvényesen nem hozhat határozatot e kötelezettségek megsértése esetén. Az integrációs üzleti irányító szervezet és az Integrációs Szervezet képviselője a szövetkezeti hitelintézet igazgatósági ülésén jogosult tanácskozási joggal részt venni.
 
-(5) Az igazgatóság üléséről készült jegyzőkönyvet a Központi Bank és az Integrációs Szervezet részére az igazgatósági ülést követő 15 napon belül meg kell küldeni.
+(5) Az igazgatóság üléséről készült jegyzőkönyvet az integrációs üzleti irányító szervezet és az Integrációs Szervezet részére az igazgatósági ülést követő 15 napon belül meg kell küldeni.
 
 (6) A szövetkezeti hitelintézet felügyelőbizottsága az ügyrendjét az elfogadást, illetve a módosítást követő 5 napon belül köteles megküldeni az Integrációs Szervezet részére. Amennyiben az elfogadott ügyrend ellentétes az Integrációs Szervezet által meghatározott, az ügyrend szempontjából releváns szabályzattal, illetve a szövetkezeti hitelintézet alapszabályával, az Integrációs Szervezet ügyvezetése indítványozhatja annak módosítását. A szövetkezeti hitelintézet felügyelőbizottsága köteles az Integrációs Szervezet ilyen irányú indítványának kézhezvételét követő 15 napon belül – az indítványban meghatározott tartalommal – módosítani az ügyrendjét.
 
-(7) A szövetkezeti hitelintézet felügyelőbizottsági üléséről a Központi Bankot és az Integrációs Szervezetet a meghívó felügyelőbizottsági tagoknak történő megküldésével egyidejűleg, de legalább 5 munkanappal az ülés előtt értesíteni kell. A meghívóhoz csatolni kell minden napirendre vonatkozóan az előterjesztést és a kapcsolódó anyagokat. Az Integrációs Szervezet indokolt esetben az értesítéstől számított 3 munkanapon belül felhívhatja a szövetkezeti hitelintézetet arra, hogy az Integrációs Szervezet által megjelölt napirendi pontokhoz a szövetkezeti hitelintézet készítsen írásbeli előterjesztést. A szövetkezeti hitelintézet felügyelőbizottsága érvényesen nem hozhat határozatot e kötelezettségek megsértése esetén. A Központi Bank és az Integrációs Szervezet képviselője a szövetkezeti hitelintézet felügyelőbizottsági ülésén jogosult tanácskozási joggal részt venni.
+(7) A szövetkezeti hitelintézet felügyelőbizottsági üléséről az integrációs üzleti irányító szervezetet és az Integrációs Szervezetet a meghívó felügyelőbizottsági tagoknak történő megküldésével egyidejűleg, de legalább 5 munkanappal az ülés előtt értesíteni kell. A meghívóhoz csatolni kell minden napirendre vonatkozóan az előterjesztést és a kapcsolódó anyagokat. Az Integrációs Szervezet indokolt esetben az értesítéstől számított 3 munkanapon belül felhívhatja a szövetkezeti hitelintézetet arra, hogy az Integrációs Szervezet által megjelölt napirendi pontokhoz a szövetkezeti hitelintézet készítsen írásbeli előterjesztést. A szövetkezeti hitelintézet felügyelőbizottsága érvényesen nem hozhat határozatot e kötelezettségek megsértése esetén. Az integrációs üzleti irányító szervezet és az Integrációs Szervezet képviselője a szövetkezeti hitelintézet felügyelőbizottsági ülésén jogosult tanácskozási joggal részt venni.
 
-(8) A szövetkezeti hitelintézet felügyelőbizottságának elnöke a felügyelőbizottság ülését követő 15 napon belül a Központi Banknak és az Integrációs Szervezetnek megküldi azokat a jegyzőkönyveket, előterjesztéseket, illetve jelentéseket, amelyek a felügyelőbizottság által tárgyalt olyan napirendi pontra vonatkoznak, amelynek tárgya a szövetkezeti hitelintézet belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.
+(8) A szövetkezeti hitelintézet felügyelőbizottságának elnöke a felügyelőbizottság ülését követő 15 napon belül az integrációs üzleti irányító szervezetnek és az Integrációs Szervezetnek megküldi azokat a jegyzőkönyveket, előterjesztéseket, illetve jelentéseket, amelyek a felügyelőbizottság által tárgyalt olyan napirendi pontra vonatkoznak, amelynek tárgya a szövetkezeti hitelintézet belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.
 
-(9) Az (1)–(8) bekezdés alkalmazandó az ülésen kívül hozott határozatok esetében is azzal, hogy a Központi Bank vagy az Integrációs Szervezet erre irányuló kérése esetén testületi ülést kell tartani.
+(9) Az (1)–(8) bekezdés alkalmazandó az ülésen kívül hozott határozatok esetében is azzal, hogy az integrációs üzleti irányító szervezet vagy az Integrációs Szervezet erre irányuló kérése esetén testületi ülést kell tartani.
 
-(10) A szövetkezeti hitelintézet a hatálybalépést követő 15 napon belül minden olyan szabályzatát megküldi az Integrációs Szervezet vagy a Központi Bank számára, amit az Integrációs Szervezet vagy a Központi Bank szövetkezeti hitelintézetek számára kiadott szabályzata előír.
+(10) A szövetkezeti hitelintézet a hatálybalépést követő 15 napon belül minden olyan szabályzatát megküldi az Integrációs Szervezet vagy az integrációs üzleti irányító szervezet számára, amit az Integrációs Szervezet vagy az integrációs üzleti irányító szervezet szövetkezeti hitelintézetek számára kiadott szabályzata előír.
 
-15/B. § (1) Amennyiben a szövetkezeti hitelintézet könyvvizsgálója észleli, hogy a szövetkezeti hitelintézet éves beszámolója nem felel meg a jogszabályoknak vagy nem megbízható és valós képet ad a szövetkezeti hitelintézet vagyoni, pénzügyi, jövedelmi helyzetéről, vagy működésének eredményéről, úgy a külön törvényben meghatározott jogkövetkezményeken túlmenően ezen megállapításairól az észlelést követő 3 munkanapon belül köteles értesíteni a Központi Bankot és Integrációs Szervezetet.
+15/B. § (1) Amennyiben a szövetkezeti hitelintézet könyvvizsgálója észleli, hogy a szövetkezeti hitelintézet éves beszámolója nem felel meg a jogszabályoknak vagy nem megbízható és valós képet ad a szövetkezeti hitelintézet vagyoni, pénzügyi, jövedelmi helyzetéről, vagy működésének eredményéről, úgy a külön törvényben meghatározott jogkövetkezményeken túlmenően ezen megállapításairól az észlelést követő 3 munkanapon belül köteles értesíteni az integrációs üzleti irányító szervezetet és Integrációs Szervezetet.
 
-(2) Amennyiben a szövetkezeti hitelintézet könyvvizsgálója tudomást szerez arról, hogy a szervezet vagyonának jelentős csökkenése várható, vagy olyan tényről szerez tudomást, amely a vezető tisztségviselők, vagy a felügyelőbizottság tagjainak törvényben meghatározott felelősségét vonja maga után, köteles erről a Központi Bankot és Integrációs Szervezetet haladéktalanul tájékoztatni.
+(2) Amennyiben a szövetkezeti hitelintézet könyvvizsgálója tudomást szerez arról, hogy a szervezet vagyonának jelentős csökkenése várható, vagy olyan tényről szerez tudomást, amely a vezető tisztségviselők, vagy a felügyelőbizottság tagjainak törvényben meghatározott felelősségét vonja maga után, köteles erről az integrációs üzleti irányító szervezetet és Integrációs Szervezetet haladéktalanul tájékoztatni.
 
-15/C. § (1) A szövetkezeti hitelintézet és a Központi Bank köteles az Integrációs Szervezetet az Integrációs Szervezet igazgatósága által elfogadott szabályzatban előírt határidőben, tartalommal és módon értesíteni, ha a szövetkezeti hitelintézet peres, nemperes vagy hatósági eljárást indított, vagy ellene ilyen eljárást vagy pénzügyi békéltető testületi eljárást indítottak, valamint ha a szövetkezeti hitelintézet, illetve a Központi Bank büntető feljelentést tett, vagy a szövetkezeti hitelintézetet, illetve a Központi Bankot érintően büntetőeljárás indult. A büntető feljelentésről és a büntetőeljárás megindulásáról az Integrációs Szervezet köteles a tudomásszerzésétől számított 8 napon belül értesíteni a Felügyeletet.
+15/C. § (1) Az Integrációs Szervezet tagja köteles az Integrációs Szervezetet az Integrációs Szervezet igazgatósága által elfogadott szabályzatban előírt határidőben, tartalommal és módon értesíteni, ha a szövetkezeti hitelintézet peres, nemperes vagy hatósági eljárást indított, vagy ellene ilyen eljárást vagy pénzügyi békéltető testületi eljárást indítottak, valamint ha a szövetkezeti hitelintézet, illetve az integrációs üzleti irányító szervezet büntető feljelentést tett, vagy a szövetkezeti hitelintézetet, illetve az integrációs üzleti irányító szervezetet érintően büntetőeljárás indult. A büntető feljelentésről és a büntetőeljárás megindulásáról az Integrációs Szervezet köteles a tudomásszerzésétől számított 8 napon belül értesíteni a Felügyeletet.
 
 (2) Az egyetemleges felelősséget érintő eljárások kezelésére és az azokkal kapcsolatos tájékoztatási kötelezettségre vonatkozóan az Integrációs Szervezet igazgatósága szabályzatot alkot.
 
-15/D. § A Központi Bank köteles negyedévente beszámolni az Integrációs Szervezetnek a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében végzett tevékenységéről.
+15/D. § Az integrációs üzleti irányító szervezet köteles negyedévente beszámolni az Integrációs Szervezetnek a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében végzett tevékenységéről.
+
+#### 7.5. Holding Szövetkezet
+
+15/E. § (1) A Holding Szövetkezetre az e törvényben foglalt eltérésekkel kell a Ptk. szövetkezetekre vonatkozó rendelkezéseit alkalmazni.
+
+(2) A Holding Szövetkezet tekintetében a Ptk.-nak a tag személyes közreműködésére, a tagok vagyoni hozzájárulásának arányára és mértékére vonatkozó rendelkezéseit és a 3:326. § (1)–(3) bekezdését nem kell alkalmazni.
+
+(3) A Holding Szövetkezet az Integrációs Szervezet tagja, amely a szövetkezeti hitelintézeti integráció működésében az általa tulajdonolt szervezetekkel kapcsolatos tulajdonosi és a 6. § (4)–(6) bekezdésében foglalt jogait gyakorolva vesz részt.
+
+(4) A Holding Szövetkezet jogosult szövetkezeti hitelintézetben és annak többségi tulajdonában álló vállalkozásban fennálló tulajdoni részesedésének kezelését fő tevékenységként végezni.
+
+(5) A Holding Szövetkezet más típusú jogi személlyé nem átalakulhat át és nem olvadhat össze más jogi személlyel.
+
+(6) A Holding Szövetkezetbe kizárólag olyan szövetkezeti hitelintézet vagy annak Kapcsolt Vállalkozása olvadhat be, amely a Felügyelet által felügyelt tevékenységét a beolvadás időpontjáig megszüntette. A beolvadó jogi személy Integrációs Szervezetben fennálló tagsága a beolvadó jogi személy megszűnésének időpontjában szűnik meg.
+
+(7) Az Integrációs Szervezetnek csak egy Holding Szövetkezet tagja lehet, és a Holding Szövetkezet Integrációs Szervezeti tagsága sem kilépéssel, sem kizárással nem szüntethető meg.
+
+(8) A Holding Szövetkezetre alkalmazni kell a 17/E. § (7) bekezdését, a 17/H. § (1a) bekezdését, a 17/Q. §-t és a 19. § (3) bekezdését azzal, hogy ahol e rendelkezések szövetkezeti hitelintézetről rendelkeznek, ott a Holding Szövetkezetet kell érteni.
 
 #### 8. Felügyeleti intézkedések
 
 16. § (1) Amennyiben a Felügyelet tudomására jutott információ alapján fennáll a veszélye, hogy az Integrációs Szervezet tagja nem felel meg a tevékenységére vonatkozó jogszabályok egyes előírásainak, a Felügyelet kötelezheti az Integrációs Szervezetet hogy az integráció tagjainál a Felügyelet által előírt időpontig meghatározott témában vagy átfogó jelleggel az Integrációs Szervezet ellenőrzést folytasson le. Az ellenőrzés eredményéről, valamint elrendelt intézkedéseiről az ellenőrzés befejezésétől számított 8 napon belül, az annak alapjául szolgáló dokumentumok egyidejű megküldésével az Integrációs Szervezet értesíti a Felügyeletet.
 
-(2) A Felügyelet a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: Mnbtv.) 62. § (2) bekezdése szerinti ellenőrzési eljárása keretében ellenőrzi az Integrációs Szervezet vagy az Integrációs Szervezet igazgatóságának és felügyelőbizottságának vezetője vagy tagja, továbbá a Központi Bank, vagy a Központi Bank igazgatóságának és felügyelőbizottságának vezetője vagy tagja e törvényben előírt vagy a Felügyelet hatósági határozatában elrendelt kötelezettségének teljesítését. Ha az ellenőrzés során vagy az általa hivatalosan ismert tények alapján a Felügyelet megállapítja, hogy e bekezdés szerinti kötelezett a kötelezettségét megszegte vagy hiányosan teljesítette,
+(2) A Felügyelet a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: Mnbtv.) 62. § (2) bekezdése szerinti ellenőrzési eljárása keretében ellenőrzi az Integrációs Szervezet vagy az Integrációs Szervezet igazgatóságának és felügyelőbizottságának vezetője vagy tagja, továbbá az integrációs üzleti irányító szervezet, vagy az integrációs üzleti irányító szervezet igazgatóságának és felügyelőbizottságának vezetője vagy tagja e törvényben előírt vagy a Felügyelet hatósági határozatában elrendelt kötelezettségének teljesítését. Ha az ellenőrzés során vagy az általa hivatalosan ismert tények alapján a Felügyelet megállapítja, hogy e bekezdés szerinti kötelezett a kötelezettségét megszegte vagy hiányosan teljesítette,
 
-- a) felszólítja az Integrációs Szervezetet, illetve a Központi Bankot, valamint azok vezető állású személyét az e törvényben vagy a Felügyelet határozatában előírt kötelezettsége teljesítésére,
+- a) felszólítja az Integrációs Szervezetet, illetve az integrációs üzleti irányító szervezetet, valamint azok vezető állású személyét az e törvényben vagy a Felügyelet határozatában előírt kötelezettsége teljesítésére,
 - b) súlyos vagy ismételt jogsértés esetén bírságot szab ki, vagy
-- c) visszavonhatja a Központi Bank igazgatóságának vagy felügyelő bizottságának vezetője, illetve tagja megválasztására, kinevezésére vonatkozó engedélyét.
+- c) visszavonhatja az integrációs üzleti irányító szervezet igazgatóságának vagy felügyelő bizottságának vezetője, illetve tagja megválasztására, kinevezésére vonatkozó engedélyét.
 
 (3) A (2) bekezdés b) pontja szerinti kiszabható bírság tekintetében az Mnbtv. 75. § (4) bekezdés, 76. § (1)–(3) bekezdés rendelkezései az irányadóak.
 
@@ -570,7 +604,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 17. § (1) A Felügyelet visszavonhatja a működési engedélyét annak a szövetkezeti hitelintézetnek, amelyik a 17/K. § (1) bekezdés, 19. § (3) bekezdés szerinti kötelezettségeinek nem tesz eleget vagy nem határidőben tesz eleget. A Felügyelet visszavonhatja a működési engedélyét annak a szövetkezeti hitelintézetnek is, amelyik a 15/A. §-ban, illetve a 17/H. § (1) bekezdésében foglalt kötelezettségeinek ismételten nem tesz eleget.
 
-(2) A működési engedély visszavonásáról szóló felügyeleti határozat kézhezvételét követő 3. munkanap végéig a szövetkezeti hitelintézet köteles a betéteseinek személyes adatait, a betétek összegét és egyéb jellemzőit elektronikus állomány és fizikai dokumentum formájában is eljuttatni a Felügyelet és a Központi Bank részére.
+(2) A működési engedély visszavonásáról szóló felügyeleti határozat kézhezvételét követő 3. munkanap végéig a szövetkezeti hitelintézet köteles a betéteseinek személyes adatait, a betétek összegét és egyéb jellemzőit elektronikus állomány és fizikai dokumentum formájában is eljuttatni a Felügyelet és az Integrációs Szervezet részére.
 
 ### III. Fejezet — A SZÖVETKEZETI HITELINTÉZETEK
 
@@ -586,11 +620,11 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 #### 8/C. Tőkekövetelmények
 
-17/C. § (1) Működési formájától függetlenül a szövetkezeti hitelintézet, valamint a Központi Bank szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről időre – egységes szempontok szerint – megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
+17/C. § (1) Működési formájától függetlenül a szövetkezeti hitelintézet, valamint az integrációs üzleti irányító szervezet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről időre – egységes szempontok szerint – megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát azzal, hogy az Integrációs Szervezet az egyedi alapon megállapított tőkekövetelményt a tagok tényleges pénzügyi és kockázati helyzetéhez igazodva, kockázatalapon határozza meg.
 
-(1a) Az egyes szövetkezeti hitelintézetek, valamint a Központi Bank egyedi alapon csak az (1) bekezdésben foglaltaknak megfelelően előírt tőkekövetelménynek köteles megfelelni.
+(1a) Az egyes szövetkezeti hitelintézetek, valamint az integrációs üzleti irányító szervezet egyedi alapon csak az (1) bekezdésben foglaltaknak megfelelően előírt tőkekövetelménynek köteles megfelelni.
 
-(2) Amennyiben a szövetkezeti hitelintézet szavatoló tőkéje az (1) bekezdésben meghatározott szint alá süllyed, az Integrációs Szervezet köteles – a Felügyelet jogait, feladatait és hatásköreit nem érintve, és amennyiben a Felügyelet ilyen intézkedést még nem tett –, a Felügyelet előzetes jóváhagyásával az alábbi egy vagy több kivételes intézkedéssel élni:
+(2) Amennyiben a szövetkezeti hitelintézet szavatoló tőkéje az (1) bekezdésben meghatározott szint alá süllyed, az Integrációs Szervezet köteles – a Felügyelet jogait, feladatait és hatásköreit nem érintve, és amennyiben a Felügyelet ilyen intézkedést még nem tett – a Felügyelet előzetes jóváhagyásával a 11/B. § (2) bekezdésében meghatározott egy vagy több intézkedéssel élni, amely mellett az alábbi egy vagy több kivételes intézkedést is alkalmazhatja:
 
 - a) előírhatja a szövetkezeti hitelintézet
   - aa) nem banküzemi célú eszközeinek eladását,
@@ -608,9 +642,9 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb jogait és hatásköreit.
 
-(2a) Az Integrációs Szervezet – intézményvédelmi céllal – a (2) bekezdés alapján végrehajtott intézkedés vagy intézkedések sikertelensége esetén tőkeemeléssel tulajdont szerezhet a Központi Bankban és a szövetkezeti hitelintézetben. Az Integrációs Szervezet az ily módon a Központi Bankban, illetve a szövetkezeti hitelintézetben tulajdonába került részesedést két éven belül köteles elidegeníteni. A Központi Bank intézményvédelmi céllal szerzett részvényeinek elidegenítése esetében a Központi Bank részvényeseinek, míg a szövetkezeti hitelintézet intézményvédelmi céllal szerzett tulajdonosi részesedésének elidegenítése esetén – a szabályozott piacra bevezetett értékpapírok kivételével – az adott szövetkezeti hitelintézet tulajdonosainak elővásárlási joga van.
+(2a) Az Integrációs Szervezet – intézményvédelmi céllal – a (2) bekezdés alapján végrehajtott intézkedés vagy intézkedések sikertelensége esetén tőkeemeléssel tulajdont szerezhet az integrációs üzleti irányító szervezetben és a szövetkezeti hitelintézetben. Az Integrációs Szervezet az ily módon az integrációs üzleti irányító szervezetben, illetve a szövetkezeti hitelintézetben tulajdonába került részesedést két éven belül köteles elidegeníteni. Az integrációs üzleti irányító szervezet intézményvédelmi céllal szerzett részvényeinek elidegenítése esetében az integrációs üzleti irányító szervezet részvényeseinek, míg a szövetkezeti hitelintézet intézményvédelmi céllal szerzett tulajdonosi részesedésének elidegenítése esetén – a szabályozott piacra bevezetett értékpapírok kivételével – az adott szövetkezeti hitelintézet tulajdonosainak elővásárlási joga van.
 
-(2b) Az Integrációs Szervezet a Központi Bank és a részvénytársasági formában működő szövetkezeti hitelintézetek közgyűlésén a (2a) bekezdés alapján szerzett részesedése arányában gyakorolja a szavazati jogokat.
+(2b) Az Integrációs Szervezet az integrációs üzleti irányító szervezet és a részvénytársasági formában működő szövetkezeti hitelintézetek közgyűlésén a (2a) bekezdés alapján szerzett részesedése arányában gyakorolja a szavazati jogokat.
 
 (2c) A szövetkezeti formában működő szövetkezeti hitelintézeteknél, amelyben az Integrációs Szervezet intézményvédelmi célból szerzett részesedéssel rendelkezik, kizárólag az Integrációs Szervezet jóváhagyásával hozható meg közgyűlési határozat.
 
@@ -669,15 +703,15 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (4) A szövetkezeti hitelintézetben tagsági jogokat csak a tagok nyilvántartásába, illetve a részvénykönyvbe történő bevezetést, a (3) bekezdés szerinti feltárást, valamint a feltárt adatoknak az Integrációs Szervezet részére történő bejelentését követő naptól lehet gyakorolni.
 
-(5) A szövetkezeti hitelintézet az Integrációs Szervezet igazgatósága által meghatározott mintaalapszabálynak megfelelően hitelszövetkezet, takarékszövetkezet és részvénytársaság formában működhet. A 3. § (2) bekezdésében meghatározott követelmények teljesítése esetén részvénytársasági formában működő bank és szakosított hitelintézet is kérheti felvételét az Integrációs Szervezetbe, ha az Integrációs Szervezet tagfelvételi szabályzatának megfelel és a Központi Bank igazgatósága a felvétellel előzetesen egyetért, valamint ahhoz a Felügyelet is hozzájárul.
+(5) A szövetkezeti hitelintézet az Integrációs Szervezet igazgatósága által meghatározott mintaalapszabálynak megfelelően hitelszövetkezet, takarékszövetkezet és részvénytársaság formában működhet. A 3. § (2) bekezdésében meghatározott követelmények teljesítése esetén részvénytársasági formában működő bank és szakosított hitelintézet is kérheti felvételét az Integrációs Szervezetbe, ha az Integrációs Szervezet tagfelvételi szabályzatának megfelel és az integrációs üzleti irányító szervezet igazgatósága a felvétellel előzetesen egyetért, valamint ahhoz a Felügyelet is hozzájárul.
 
-(6) Az Integrációs Szervezet a szövetkezeti hitelintézeti integráció céljainak és különösen a hatékony, prudens és biztonságos működés, valamint az alapszabályában meghatározott más célok megvalósítása érdekében hatáskörrel rendelkezik a Központi Bankkal előzetesen egyeztetett mintaalapszabály meghatározására és módosítására.
+(6) Az Integrációs Szervezet a szövetkezeti hitelintézeti integráció céljainak és különösen a hatékony, prudens és biztonságos működés, valamint az alapszabályában meghatározott más célok megvalósítása érdekében hatáskörrel rendelkezik az integrációs üzleti irányító szervezettel előzetesen egyeztetett mintaalapszabály meghatározására és módosítására.
 
 (7) A szövetkezeti hitelintézet alapszabálya az Integrációs Szervezet igazgatóságának előzetes jóváhagyása esetén fogadható el, módosítható, illetve, ha az Integrációs Szervezet igazgatósága új mintaalapszabályt ad ki, a szövetkezeti hitelintézet alapszabályát köteles az Integrációs Szervezet igazgatósága által meghatározott határidőn belül a mintaalapszabálynak megfelelően módosítani.
 
 17/F. § (1) A szövetkezeti formában működő szövetkezeti hitelintézet esetében a részjegy illetve a vagyoni hozzájárulás névértéke nem haladhatja meg a tízezer forintot.
 
-(2) A szövetkezeti formában működő szövetkezeti hitelintézet jegyzett tőkéjében egy tulajdonosnak a közvetett és közvetlen tulajdoni hányada (részesedése) – a magyar állam, az Integrációs Szervezet, a Központi Bank, valamint az Országos Betétbiztosítási Alap kivételével – nem lehet több tizenöt százaléknál.
+(2) A szövetkezeti formában működő szövetkezeti hitelintézet jegyzett tőkéjében egy tulajdonosnak a közvetett és közvetlen tulajdoni hányada (részesedése) – a magyar állam, az Integrációs Szervezet, az integrációs üzleti irányító szervezet, az Országos Betétbiztosítási Alap, valamint a Holding Szövetkezet kivételével – nem lehet több tizenöt százaléknál.
 
 (2a) Ha a szövetkezeti formában működő szövetkezeti hitelintézetben egy tulajdonosnak a közvetett és közvetlen tulajdoni hányada (részesedése) meghaladja az ötven százalékot, akkor az e tulajdonost megillető szavazati arány a mindenkor hatályos tagnyilvántartásban szereplő összes tagot megillető szavazat ötven százaléka.
 
@@ -691,13 +725,13 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (2)
 
-17/H. § (1) Szövetkezeti hitelintézet csak az Integrációs Szervezet tagjaként működhet és folyamatosan köteles teljesíteni a 3. § (2) bekezdéséből és az e törvényből fakadó egyéb kötelezettségeit is. A szövetkezeti hitelintézet a 3. § (3) bekezdésében meghatározott részvényt csak az Integrációs Szervezetből való kilépést követően értékesítheti.
+17/H. § (1) Szövetkezeti hitelintézet csak az Integrációs Szervezet tagjaként működhet és folyamatosan köteles teljesíteni a 3. § (2) bekezdéséből és az e törvényből fakadó egyéb kötelezettségeit is.
 
-(1a) A szövetkezeti hitelintézet a tudomásszerzéstől számított 45 napon belül, de legkésőbb a mulasztástól számított 90 napon belül köteles megszüntetni a Kapcsolt Vállalkozásban fennálló befolyását, amennyiben a Kapcsolt Vállalkozás nem felel meg az Integrációs Szervezet Kapcsolt Vállalkozásra vonatkozó irányelvében foglaltaknak. Ennek elmulasztása esetén az Integrációs Szervezet a 11/B. § (2) bekezdésében meghatározott intézkedéseket alkalmazza.
+(1a) A szövetkezeti hitelintézet a tudomásszerzéstől számított 45 napon belül, de legkésőbb a mulasztástól számított 90 napon belül köteles megszüntetni a Kapcsolt Vállalkozásban fennálló befolyását, amennyiben a Kapcsolt Vállalkozás nem felel meg az Integrációs Szervezet Kapcsolt Vállalkozásra vonatkozó irányelvében foglaltaknak. Ennek elmulasztása esetén az Integrációs Szervezet a 11/B. § (2) bekezdésében meghatározott intézkedéseket alkalmazhatja.
 
 (2) A szövetkezeti formában működő szövetkezeti hitelintézet esetében a tag csak a szövetkezeti hitelintézet tagját hatalmazhatja meg a közgyűlésen történő képviseletre azzal, hogy egy tag kizárólag egy további tagot képviselhet. A küldött csak a szövetkezeti hitelintézet tagját hatalmazhatja meg a küldöttgyűlésen történő képviseletre azzal, hogy a meghatalmazott csak egy küldöttet képviselhet.
 
-(3) Szövetkezeti hitelintézet esetében a közgyűlés napját megelőző 15 nappal az összehívásról hirdetményt kell közzétenni, valamint a közgyűlés napját megelőző legalább 15 nappal értesíteni kell a tagot a napirendi pontokról, vagy az összehívásáról szóló, a napirendi pontokat is tartalmazó meghívót – minden napirendre vonatkozóan az előterjesztéssel és a kapcsolódó anyagokkal – valamennyi tagnak legalább a közgyűlés napját megelőző 15 nappal meg kell küldeni. Azoknak a tagoknak, akik ezt írásban kérik, a közgyűlésre szóló meghívót elektronikus úton kell megküldeni. A közgyűlés által meghozott határozatokról valamennyi tagot tájékoztatni kell.
+(3) Szövetkezeti hitelintézet esetében – ide nem értve a nyilvánosan működő részvénytársasági formában működő szövetkezeti hitelintézetet – a közgyűlés napját megelőző 15 nappal az összehívásról hirdetményt kell közzétenni, valamint a közgyűlés napját megelőző legalább 15 nappal értesíteni kell a tagot a napirendi pontokról, vagy az összehívásáról szóló, a napirendi pontokat is tartalmazó meghívót – minden napirendre vonatkozóan az előterjesztéssel és a kapcsolódó anyagokkal – valamennyi tagnak legalább a közgyűlés napját megelőző 15 nappal meg kell küldeni. Szövetkezeti formában működő szövetkezeti hitelintézet esetében azoknak a tagoknak, akik ezt írásban kérik, a közgyűlésre szóló meghívót elektronikus úton kell megküldeni és a közgyűlés által meghozott határozatokról valamennyi tagot tájékoztatni kell.
 
 (4) A szövetkezeti formában működő hitelintézet esetén a Ptk.-nak a tag személyes közreműködésére vonatkozó rendelkezéseit nem kell alkalmazni.
 
@@ -708,16 +742,16 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 17/I. § A szövetkezeti formában működő szövetkezeti hitelintézet esetében a tagok létszámától függetlenül lehetőség van arra, hogy az alapszabály küldöttgyűlés működését írja elő.
 
-17/J. § (1) A szövetkezet formában működő szövetkezeti hitelintézetnek az alapszabályában
+17/J. § (1) A szövetkezeti formában működő szövetkezeti hitelintézetnek az alapszabályában
 
 - a) a külön törvényben szabályozott tagi kölcsön nyújtásának feltételeként legalább egy éves tagsági jogviszonyt kell meghatároznia,
 - b) meg kell határoznia azokat az alapelveket, amelyek révén üzletpolitikai kedvezményeket nyújt a tagoknak, amennyiben nem kizárólag tagoknak nyújt szolgáltatásokat.
 
 (2)
 
-17/K. § (1) A szövetkezeti hitelintézet értékpapír kibocsátásához, tőkéjének leszállításához vagy felemeléséhez az Integrációs Szervezet igazgatóságának előzetes hozzájárulása szükséges. Az Integrációs Szervezet igazgatósága a hozzájárulással kapcsolatos döntését a Központi Bank igazgatóságának beleegyezését követően hozhatja meg. Az Integrációs Szervezet igazgatósága a hozzájárulását megtagadja a 17/Q. § (5) bekezdésében foglalt esetben, továbbá akkor, ha a tervezett intézkedés a betétesek érdekeit veszélyeztetheti.
+17/K. § (1) Az Integrációs Szervezet tagja vagy a Kapcsolt Vállalkozás értékpapír kibocsátásához, tőkéjének leszállításához vagy felemeléséhez az Integrációs Szervezet igazgatóságának előzetes hozzájárulása szükséges. Az Integrációs Szervezet igazgatósága a hozzájárulással kapcsolatos döntését az integrációs üzleti irányító szervezet igazgatóságának beleegyezését követően hozhatja meg. Az Integrációs Szervezet igazgatósága a hozzájárulását megtagadja a 17/Q. § (5) bekezdésében foglalt esetben, továbbá akkor, ha a tervezett intézkedés a betétesek érdekeit veszélyeztetheti.
 
-(1a) A szövetkezeti hitelintézet vezető tisztségviselőinek kinevezéséhez az Integrációs Szervezet igazgatóságának előzetes hozzájárulása szükséges. Az Integrációs Szervezet kezdeményezheti, hogy a Központi Bank szövetkezeti hitelintézet részvényesénél, illetve az Integrációs Szervezet szövetkezeti hitelintézet tagjánál tartsanak közgyűlést, amelynek napirendi pontja a tisztújítás a vezető tisztségviselők vonatkozásában. Az érintett szövetkezeti hitelintézetnél a jogszabály által megengedett legrövidebb időn belül meg kell tartani a közgyűlést.
+(1a) Az Integrációs Szervezet tagja vagy a Kapcsolt Vállalkozás vezető tisztségviselőinek és vezető állású személyeinek kinevezéséhez az Integrációs Szervezet igazgatóságának előzetes hozzájárulása szükséges. Az Integrációs Szervezet kezdeményezheti, hogy az Integrációs Szervezet tagjánál tartsanak közgyűlést vagy taggyűlést, amelynek napirendi pontja a tisztújítás a vezető tisztségviselők vonatkozásában. Az érintett tagnál a jogszabály által megengedett legrövidebb időn belül meg kell tartani a közgyűlést vagy a taggyűlést.
 
 (2) Szövetkezeti hitelintézet esetében a cégjegyzésre – ideértve a fizetési számla feletti rendelkezést is – és a szövetkezet nevében pénzügyi szolgáltatási tevékenységgel kapcsolatos kötelezettségvállalásra két igazgatósági tag, illetve két ügyvezető együttesen jogosult.
 
@@ -735,7 +769,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (7) A hitelintézeti könyvvizsgáló társaságokkal szemben a Hpt. 260 §-ában foglaltakon túlmenően további követelmény, hogy a könyvvizsgálói társaságon belül a (6) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló – egyidejűleg – legfeljebb öt szövetkezeti hitelintézetnél láthat el könyvvizsgálói feladatot.
 
-(8) A könyvvizsgálónak a Hpt. 263. § (1) bekezdésében foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az érintett szövetkezeti hitelintézet igazgatóságának, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek valamint a Központi Banknak legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
+(8) A könyvvizsgálónak a Hpt. 263. § (1) bekezdésében foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az érintett intézmény igazgatóságának, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek, valamint az Integrációs Szervezetnek legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
 
 (9) A szövetkezeti hitelintézet által a Hpt. 208. §-a szerint fizetendő felügyeleti díj a Hpt. 208. § (3) bekezdés szerinti alapdíjként kétszázezer forint és a (10) bekezdésben szereplő változó díj.
 
@@ -743,13 +777,13 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (11)
 
-17/L. § (1) A szövetkezeti hitelintézet tulajdonosának, a pénzügyi intézményben befolyásoló részesedést szerezni kívánó személynek, a vezető állású személynek, valamint a szövetkezeti hitelintézet alkalmazottjának a Hpt. 159. § (2) bekezdésében és a Bszt. 117. § (1) bekezdésében előírt titoktartási kötelezettsége nem áll fenn a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében eljáró Központi Bankkal és az Integrációs Szervezettel – ideértve az Integrációs Szervezet által a 11/A. § (13) bekezdése alapján igénybevett közreműködő szakértőt is –, valamint a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapjával szemben. A szövetkezeti hitelintézet a Hpt. 160. §-a szerinti banktitkot és a Bszt. 118. § (1) bekezdése szerinti értékpapírtitkot kiadhatja a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében eljáró Központi Banknak, az Integrációs Szervezetnek – ideértve az Integrációs Szervezet által a 11/A. § (13) bekezdése alapján igénybevett közreműködő szakértőt is –, e körben a banktitok megtartásának kötelezettsége nem áll fenn
+17/L. § (1) A szövetkezeti hitelintézet tulajdonosának, a pénzügyi intézményben befolyásoló részesedést szerezni kívánó személynek, a vezető állású személynek, valamint a szövetkezeti hitelintézet alkalmazottjának a Hpt. 159. § (2) bekezdésében és a Bszt. 117. § (1) bekezdésében előírt titoktartási kötelezettsége nem áll fenn a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében eljáró integrációs üzleti irányító szervezettel és az Integrációs Szervezettel – ideértve az Integrációs Szervezet által a 11/A. § (13) bekezdése alapján igénybevett közreműködő szakértőt is –, valamint a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapjával szemben. A szövetkezeti hitelintézet a Hpt. 160. §-a szerinti banktitkot és a Bszt. 118. § (1) bekezdése szerinti értékpapírtitkot kiadhatja a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében eljáró integrációs üzleti irányító szervezetnek, az Integrációs Szervezetnek – ideértve az Integrációs Szervezet által a 11/A. § (13) bekezdése alapján igénybevett közreműködő szakértőt is –, e körben a banktitok megtartásának kötelezettsége nem áll fenn
 
-(2) A szövetkezeti hitelintézeteknek és a Központi Banknak a Hpt. 165. § (1) bekezdésében és a Bszt. 118. § (1) bekezdésében előírt bank- és értékpapírtitok – ideértve a személyes adatokat is –, továbbá a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 59. §-a szerinti fizetési titok, valamint a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 135. §-a szerinti biztosítási titok megtartási kötelezettsége nem áll fenn az 1. § (4) bekezdése szerinti egyetemleges felelősségvállalásban részt vevő szövetkezeti hitelintézeti integrációs tagok egymás közti viszonyában, valamint e szervezeteknek az Integrációs Szervezettel – ideértve az Integrációs Szervezet által a 11/A. § (13) bekezdése alapján igénybevett közreműködő szakértőt is – és a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapjával szemben. Az adatokat az Integrációs Szervezet a szövetkezeti hitelintézetek integrációjával kapcsolatos feladatai ellátása, az Integrációs Szervezet által a 11/A. § (13) bekezdése alapján igénybevett közreműködő szakértő az e törvényben meghatározott feladatai ellátása, a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja a tőkefedezeti feladatainak ellátása, a szövetkezeti hitelintézet pedig a pénzügyi szolgáltatásai nyújtása, illetve e törvényben meghatározott feladatai ellátása céljából, a szükséges mértékben kezelheti.
+(2) A szövetkezeti hitelintézeteknek és az integrációs üzleti irányító szervezetnek a Hpt. 165. § (1) bekezdésében és a Bszt. 118. § (1) bekezdésében előírt bank- és értékpapírtitok – ideértve a személyes adatokat is –, továbbá a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 59. §-a szerinti fizetési titok, valamint a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 135. §-a szerinti biztosítási titok megtartási kötelezettsége nem áll fenn az Integrációs Szervezeti tagok egymás közti viszonyában, valamint e szervezeteknek az Integrációs Szervezettel – ideértve az Integrációs Szervezet által a 11/A. § (13) bekezdése alapján igénybe vett közreműködő szakértőt is – és a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapjával szemben. Az adatokat az Integrációs Szervezet a szövetkezeti hitelintézetek integrációjával kapcsolatos feladatai ellátása, az Integrációs Szervezet által a 11/A. § (13) bekezdése alapján igénybe vett közreműködő szakértő az e törvényben meghatározott feladatai ellátása, a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja az e törvény szerinti feladatai ellátása, az Integrációs Szervezeti tag pedig a pénzügyi, valamint befektetési szolgáltatásai nyújtása, illetve e törvényben meghatározott feladatai ellátása céljából, a szükséges mértékben kezelheti.
 
 #### 8/E. A Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja
 
-17/M. § (1) A Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja (a továbbiakban: Alap) a szövetkezeti hitelintézetek, a Központi Bank és az Integrációs Szervezet tagságával működő jogi személy. Az Alap célja, hogy elsődlegesen helyt álljon a szövetkezeti hitelintézeti integráció tagjaival szemben egyetemlegesség alapján érvényesített követelésekért, továbbá az Alap pénzeszközeinek a felhasználásával biztosítsa a 17/D. § (2) bekezdés d) pontja szerinti állományátruházás sikeres lebonyolítását.
+17/M. § (1) A Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja (a továbbiakban: Alap) a szövetkezeti hitelintézetek, az integrációs üzleti irányító szervezet és az Integrációs Szervezet tagságával működő jogi személy. Az Alap célja, hogy helyt álljon a szövetkezeti hitelintézetekkel, valamint az integrációs üzleti irányító szervezettel szemben egyetemlegesség alapján érvényesített követelésekért, továbbá az Alap pénzeszközeinek a felhasználásával biztosítsa a 17/D. § (2) bekezdés d) pontja szerinti állományátruházás sikeres lebonyolítását.
 
 (2) Az Alap székhelye: Budapest.
 
@@ -761,9 +795,11 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (6) Az Alap könyvvizsgálót bíz meg.
 
+(7) Az Alap szabályzatait az Integrációs Szervezet hagyja jóvá.
+
 17/N. § (1) Az Alap irányító szerve az igazgatótanács.
 
-(2) Az Alap igazgatótanácsának tagjai az Integrációs Szervezet és a Központi Bank által jelölt két-két személy, valamint a szövetkezeti hitelintézetek által jelölt egy személy. Az igazgatótanács elnökét az igazgatótanács választja saját tagjai közül.
+(2) Az Alap igazgatótanácsának tagjai az Integrációs Szervezet és az integrációs üzleti irányító szervezet által jelölt két-két személy, valamint a szövetkezeti hitelintézetek által jelölt egy személy. Az igazgatótanács elnökét az igazgatótanács választja saját tagjai közül.
 
 (3) Az igazgatótanács ülése akkor határozatképes, ha tagjainak több mint fele jelen van. Az igazgatótanács a határozatait egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
 
@@ -779,7 +815,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (6) Az igazgatótanács ellenőrzi az Alap ügyvezető igazgatójának tevékenységét.
 
-(7) Az Alap önálló munkaszervezettel rendelkezik.
+(7)
 
 (8) Az Alap tevékenységének operatív irányítását az ügyvezető igazgató látja el. Az ügyvezető igazgató gyakorolja az Alap alkalmazottai felett a munkáltatói jogokat.
 
@@ -787,109 +823,120 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (10) Az Alap vezetője és alkalmazottai tekintetében a munka törvénykönyvéről szóló 2012. évi I. törvény rendelkezéseit kell alkalmazni.
 
-17/O. § Az Alap forrásai a szövetkezeti hitelintézetek és a Központi Bank által a 17/P. §-a alapján befizetett összegek.
+17/O. § Az Alap forrásai a szövetkezeti hitelintézetek és az integrációs üzleti irányító szervezet által a 17/P. §-a alapján befizetett összegek.
 
-17/P. § (1) A szövetkezeti hitelintézetek és a Központi Bank az 1. § (4) bekezdésében meghatározott egyetemleges felelősségvállalásuk fedezetét elsődlegesen az Alapba történő éves befizetéssel és az Alap által elrendelt rendkívüli befizetéssel teljesítik.
+17/P. § (1) A szövetkezeti hitelintézetek és az integrációs üzleti irányító szervezet az egyetemleges felelősségvállalásuk fedezetét az Alapba történő éves befizetéssel és az Alap által elrendelt rendkívüli befizetéssel biztosítják.
 
 (2) A szövetkezeti hitelintézet éves befizetési kötelezettségének ezt követően legkésőbb minden év július 15-ig eleget tenni. Az éves díj mértéke a teljes állomány 0,06%-a. Az éves díjat az Alap jogosult évente egyszer felülvizsgálni. Az éves díj alapja a Hpt. 234. § (1) bekezdése szerint a szövetkezeti hitelintézet tárgyévet megelőző gazdasági év december 31-ei auditált és közgyűlés által elfogadott mérlegében kimutatott betétállomány összege (teljes állománya), melybe a Hpt. 6. § (2) bekezdésének 1. pontja értelmében beletartozik a hitelintézet által 2003. január 1-től kezdődően kibocsátott hitelviszonyt megtestesítő értékpapírok (azaz a kötvények és a letéti jegyek) teljes állománya is. Amennyiben a szövetkezeti hitelintézet a jelen bekezdésben foglalt kötelezettségét nem teljesíti és azt az Alap felszólításában megjelölt póthatáridőben sem pótolja, a Felügyelet a szövetkezeti hitelintézet működési engedélyét visszavonja. A törtévekben az éves befizetési kötelezettség mértékét 12-vel osztani kell, majd meg kell szorozni az évből még hátralévő hónapok számával. A törthónapot még hátralévő hónapnak kell tekinteni.
 
-(3) Az Alapba a (2) bekezdés szerint befizetett összeg kizárólag a szövetkezeti hitelintézeti integráció tagjaival szemben az egyetemlegesség alapján érvényesített követelések rendezésére, továbbá a 17/D. § (2) bekezdés d) pontja szerinti állományátruházás sikeres lebonyolításhoz szükséges pénzeszköz biztosítására használható fel. Visszakövetelésére sem a szövetkezeti hitelintézet sem annak felszámolója vagy hitelezője nem jogosult, sem a szövetkezeti hitelintézet fennállása alatt, sem működési engedélyének visszavonása vagy egyébként jogutód nélküli megszűnése esetén.
+(3) Az Alapba a (2) bekezdés szerint befizetett összeg kizárólag a szövetkezeti hitelintézetekkel és az integrációs üzleti irányító szervezettel szemben az egyetemlegesség alapján érvényesített követelések rendezésére, továbbá a 17/D. § (2) bekezdés d) pontja szerinti állományátruházás sikeres lebonyolításhoz szükséges pénzeszköz biztosítására használható fel. Visszakövetelésére sem a befizető, sem annak felszámolója vagy hitelezője nem jogosult, a működési engedélyének visszavonása vagy egyébként jogutód nélküli megszűnése esetén sem.
 
-(4) Amennyiben a szövetkezeti hitelintézettől a 20/A. § (2) bekezdésében foglalt feltételeknek megfelelő jogerős ítélet vagy nem vitatott tartozás alapján követel harmadik fél teljesítést, akkor a szövetkezeti hitelintézet erről az Alapot, és a Központi Bankot és az Integrációs Szervezetet haladéktalanul tájékoztatja.
+(4) Amennyiben a szövetkezeti hitelintézet vagy az integrációs üzleti irányító szervezet jogerős ítéletben megállapított vagy nem vitatott tartozását nem, vagy várhatóan nem tudja teljesíteni, akkor erről az Alapot és az Integrációs Szervezetet haladéktalanul tájékoztatja.
 
-(5) Amennyiben a szövetkezeti hitelintézet által a 20/A. § (2) bekezdésében foglalt feltételeknek megfelelő jogerős ítélet vagy nem vitatott tartozás alapján fizetendő összeg, vagy a 17/D. § (2) bekezdés d) pontja szerinti állományátruházás sikeres lebonyolításhoz szükséges összeg az Alap egyenlegét meghaladja, az Alap rendkívüli befizetés teljesítését rendeli el a szövetkezeti hitelintézetek és a Központi Bank számára; a rendkívüli befizetés teljesítésének határidejét az Alap jelöli meg. A rendkívüli befizetés mértéke oly módon kerül meghatározásra, hogy az Alap és a harmadik fél által támasztott követelés összegének különbségét az Alap a tagintézmények teljes állománya arányában elosztja. A teljes állomány a tárgyévet megelőző gazdasági év december 31-i auditált, és a közgyűlés által elfogadott mérlegében kimutatott betétállomány összege, amelybe a Hpt. 6. § (2) bekezdésének 1. pontja értelmében beletartozik a hitelintézet által 2003. január 1-től kezdődően kibocsátott hitelviszonyt megtestesítő értékpapírok (azaz a kötvények és a letéti jegyek) teljes állománya is.
+(5) Amennyiben a szövetkezeti hitelintézet vagy az integrációs üzleti irányító szervezet által a jogerős ítéletben megállapított vagy nem vitatott tartozás alapján fizetendő összeg, vagy a 17/D. § (2) bekezdés d) pontja szerinti állományátruházás sikeres lebonyolításhoz szükséges összeg az Alap egyenlegét meghaladja, az Alap rendkívüli befizetés teljesítését rendelheti el a szövetkezeti hitelintézetek és az integrációs üzleti irányító szervezet számára. A rendkívüli befizetés összege meghatározásának elveit és teljesítésének határidejét az Alap szabályzatban előre határozza meg.
 
-(6) A Központi Bank éves befizetési kötelezettségének első alkalommal az Integrációs Szervezeti tagsági jogviszonya kezdő időpontját követő 15 napon belül, ezt követően a (2) bekezdésben foglalt szabályok szerint köteles eleget tenni.
+(6) Az integrációs üzleti irányító szervezet éves befizetési kötelezettségének első alkalommal az Integrációs Szervezeti tagsági jogviszonya kezdő időpontját követő 15 napon belül, ezt követően a (2) bekezdésben foglalt szabályok szerint köteles eleget tenni.
 
-(7) Az Alapba történő befizetést a szövetkezeti hitelintézetek és a Központi Bank ráfordításként számolhatják el.
+(7) Az Alapba történő befizetést a szövetkezeti hitelintézetek és az integrációs üzleti irányító szervezet ráfordításként számolhatják el.
 
 #### 8/F. Kifizetés a tagok részére, a jegyzett tőke leszállítása
 
-17/Q. § (1) A szövetkezet formában működő szövetkezeti hitelintézet tagjának tulajdonában álló részjegy, illetve vagyoni hozzájárulás tekintetében a szövetkezeti hitelintézet kizárólag abban az esetben számolhat el a taggal, ha a tag tagsági jogviszonya a 17/R. § alapján megszűnik.
+17/Q. § (1) A szövetkezet formában működő szövetkezeti hitelintézet tagjának tulajdonában álló részjegy tekintetében a szövetkezeti hitelintézet kizárólag abban az esetben számolhat el a taggal, ha a tag tagsági jogviszonya a 17/R. § alapján megszűnik.
 
-(2) Ha az (1) bekezdésben meghatározott elszámolás – a tag, annak örököse vagy jogutódja érdekkörében felmerült okból – az arra vonatkozó szabályok alapján határidőben nem lehetséges, a szövetkezet formában működő szövetkezeti hitelintézet intézkedik a részjegy, illetve vagyoni hozzájárulás bevonásáról és a jegyzett tőke leszállításáról. A bevonást követően a részjegy, illetve vagyoni hozzájárulás tekintetében fennálló tagsági jogok és kötelezettségek összessége, és a részjegy, illetve vagyoni hozzájárulás jogosultjának tagsági viszonya megszűnik. A tag, annak örököse vagy jogutódja a bevonást követően a 17/R. §-ban meghatározott rendelkezések alapján tarthat igényt a bevont részjegyre vagy vagyoni hozzájárulásra jutó jegyzett tőke névérték alapján járó arányos összegével egyező összegre.
+(2) Ha az (1) bekezdésben meghatározott elszámolás – a tag, annak örököse vagy jogutódja érdekkörében felmerült okból – az arra vonatkozó szabályok alapján határidőben nem lehetséges, a szövetkezeti formában működő szövetkezeti hitelintézet intézkedik a részjegy bevonásáról és a jegyzett tőke leszállításáról. A bevonást követően a részjegy tekintetében fennálló tagsági jogok és kötelezettségek összessége, és a részjegy jogosultjának tagsági viszonya megszűnik. A tag, annak örököse vagy jogutódja a bevonást követően a 17/R. §-ban meghatározott rendelkezések alapján tarthat igényt a bevont részjegy névértékével egyező összegre.
 
-(3) A tagsági jogviszony fenntartása esetén a tag által tulajdonolt részjegy, illetve vagyoni hozzájárulás tekintetében a szövetkezet formában működő szövetkezeti hitelintézetet visszaváltási kötelezettség nem terheli.
+(3) A tagsági jogviszony fenntartása esetén a tag által tulajdonolt részjegy tekintetében a szövetkezet formában működő szövetkezeti hitelintézetet visszaváltási kötelezettség nem terheli.
 
-(4) A jegyzett tőke leszállításáról vagy a tagnak, illetve részvényesnek a jogviszonyához kötődő bármilyen jogcímen történő kifizetésről vagy visszafizetésről a szövetkezeti hitelintézet közgyűlése az Integrációs Szervezet igazgatóságának előzetes hozzájárulását követően dönthet. Az Integrációs Szervezet igazgatósága az előzetes hozzájárulással kapcsolatos döntését a Központi Bank igazgatóságának beleegyezését követően hozhatja meg.
+(4) A tagnak, illetve részvényesnek a jogviszonyához kötődő bármilyen jogcímen történő kifizetésről vagy visszafizetésről az Integrációs Szervezet tagja az Integrációs Szervezet előzetes hozzájárulását követően dönthet. Az Integrációs Szervezet igazgatósága az előzetes hozzájárulással kapcsolatos döntését az integrációs üzleti irányító szervezet igazgatóságának beleegyezését követően hozhatja meg.
 
-(5) A (4) bekezdésben meghatározott előzetes hozzájárulást az Integrációs Szervezet igazgatósága nem tagadhatja meg, ha a kifizetés vagy visszafizetés a szövetkezeti hitelintézet fizetőképességét vagy üzleti tervének teljesítését vagy az egyedi alapon megállapított szavatoló tőke szint elérését vagy a tagok (részvényesek) érdekét nem veszélyezteti. Az Integrációs Szervezet igazgatósága köteles megtagadni az előzetes hozzájárulást, ha az adott szövetkezeti hitelintézet vizsgálata tőkepótlás szükségességét állapította meg és ez még nem került végrehajtásra.
+(5) A (4) bekezdésben meghatározott előzetes hozzájárulást az Integrációs Szervezet igazgatósága nem tagadhatja meg, ha a kifizetés vagy visszafizetés az Integrációs Szervezeti tag fizetőképességét vagy üzleti tervének teljesítését vagy az egyedi alapon megállapított szavatoló tőke szint elérését vagy a tagok (részvényesek) érdekét nem veszélyezteti. Az Integrációs Szervezet igazgatósága köteles megtagadni az előzetes hozzájárulást, ha az adott Integrációs Szervezeti tag vizsgálata tőkepótlás szükségességét állapította meg és ez még nem került végrehajtásra.
 
-(6) Ha a részjegyre, illetve a vagyoni hozzájárulásra jutó jegyzett tőkét veszteség fedezésére kell felhasználni, a közgyűlés a részjegyek, illetve a vagyoni hozzájárulások egy egységre jutó összegét (névértékét) arányosan csökkenti.
+(6) Ha a részjegyre jutó jegyzett tőkét veszteség fedezésére kell felhasználni, a közgyűlés a részjegyek egy egységre jutó összegét (névértékét) arányosan csökkenti.
 
-(7) A szövetkezeti hitelintézet saját részvényét az Integrációs Szervezet igazgatóságának előzetes hozzájárulásával szerezheti meg. Az Integrációs Szervezet igazgatósága az előzetes hozzájárulással kapcsolatos döntését a Központi Bank igazgatóságának beleegyezését követően hozhatja meg.
+(7) A szövetkezeti hitelintézet saját részvényét az Integrációs Szervezet igazgatóságának előzetes hozzájárulásával szerezheti meg. Az Integrációs Szervezet igazgatósága az előzetes hozzájárulással kapcsolatos döntését az integrációs üzleti irányító szervezet igazgatóságának beleegyezését követően hozhatja meg.
 
 (8) Ha az Integrációs Szervezet bármely tagjának tulajdonosa a tulajdoni hányadát az Integrációs Szervezet tagján, vagy annak tulajdonosán kívüli harmadik személy részére kívánja értékesíteni, úgy – a szabályozott piacra bevezetett értékpapírok kivételével – az Integrációs Szervezetet elővásárlási jog illeti meg. Az Integrációs Szervezet az elővásárlási jogának gyakorlására az Integrációs Szervezet bármely tagját kijelölheti. Az elővásárlási jog gyakorlásának részletszabályait az Integrációs Szervezet szabályzatban állapítja meg.
 
 #### 8/G. A tagsági jogviszony megszűnése
 
-17/R. § (1) A szövetkezeti formában működő szövetkezeti hitelintézet tagja, illetőleg annak örököse (jogutódja) tagsági jogviszonya megszűnésekor a szövetkezeti formában működő szövetkezeti hitelintézet saját tőkéjéből legfeljebb a részjegye összegére tarthat igényt.
+17/R. § (1) A szövetkezeti formában működő szövetkezeti hitelintézet vagy a Holding Szövetkezet tagja vagy annak örököse (jogutódja) tagsági jogviszonya megszűnésekor a szövetkezeti formában működő szövetkezeti hitelintézet vagy a Holding Szövetkezet saját tőkéjéből legfeljebb a részjegye névértékére tarthat igényt.
 
-(2) Ha a tagsági jogviszony a tag halálával, a jogi személy megszűnésével vagy kilépéssel, kizárással szűnik meg, az igazgatóság köteles elhalasztani a részjegy illetve a vagyoni hozzájárulás összegének visszafizetését, ha ennek következtében a szövetkezeti formában működő szövetkezeti hitelintézet szavatolótőkéje nem éri el a Hpt. 79. § (2) bekezdésében meghatározott, a kombinált tőkepuffer követelménnyel növelt tőkekövetelményt, vagy nem teljesíti a 17/C. § (1) bekezdése szerint az Integrációs Szervezet által egyedi alapon megállapított szavatolótőke-követelményt vagy a jogszabályban meghatározott likviditási követelményeket.
+(2) Ha a tagsági jogviszony a tag halálával, a jogi személy megszűnésével vagy kilépéssel, kizárással szűnik meg, az igazgatóság köteles elhalasztani a részjegy névértékének visszafizetését, ha ennek következtében a szövetkezeti formában működő szövetkezeti hitelintézet szavatolótőkéje nem éri el a Hpt. 79. § (2) bekezdésében meghatározott, a kombinált tőkepuffer követelménnyel növelt tőkekövetelményt, vagy nem teljesíti a 17/C. § (1) bekezdése szerint az Integrációs Szervezet által egyedi alapon megállapított szavatolótőke-követelményt vagy a jogszabályban meghatározott likviditási követelményeket.
 
 (3) A (2) bekezdésben meghatározott esetben – két éven belül – a volt tag, illetve örököse (jogutódja) részére azt követően kell esedékessé válásuk sorrendjében a kifizetést teljesíteni, hogy ennek fedezete rendelkezésre áll.
 
 #### 8/H. Átalakulás, egyesülés, szétválás
 
-17/S. § (1) A szövetkezeti hitelintézet átalakulása, egyesülése vagy szétválása az Integrációs Szervezet igazgatóságának előzetes hozzájárulásához kötött. Az Integrációs Szervezet igazgatósága az előzetes hozzájárulással kapcsolatos döntését a Központi Bank igazgatóságának beleegyezését követően adhatja meg. Az Integrációs Szervezet igazgatóságának meg kell adnia az előzetes hozzájárulást, ha az átalakulás, az egyesülés vagy a szétválás a szövetkezeti hitelintézet fizetőképességét, üzleti tervének teljesítését vagy az egyedi alapon megállapított szavatolótőke-szint elérését nem veszélyezteti.
+17/S. § (1) Az Integrációs Szervezet tagja vagy a Kapcsolt Vállalkozás átalakulása, egyesülése vagy szétválása az Integrációs Szervezet igazgatóságának előzetes hozzájárulásához kötött, amely döntés meghozatalakor az Integrációs Szervezet a szövetkezeti hitelintézeti integrációs céloknak való megfelelést mérlegeli. Az Integrációs Szervezet igazgatóságának meg kell adnia az előzetes hozzájárulást, ha az átalakulás, az egyesülés vagy a szétválás az érintett intézmény fizetőképességét, üzleti tervének teljesítését vagy az egyedi alapon megállapított szavatolótőke-szint elérését nem veszélyezteti.
 
 (2) A hozzájárulás különösen akkor tagadható meg, ha
 
-- a) az átalakulással, egyesüléssel vagy szétválással érintett szövetkezeti hitelintézet vizsgálata tőkepótlás szükségességét állapította meg és ez még nem került végrehajtásra, vagy a tervezett intézkedés a betétesek vagy az átalakulással, egyesüléssel vagy szétválással érintett valamely hitelintézet vagy az Integrációs Szervezet 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő más tagjának érdekeit veszélyezteti;
-- b) az átalakulás, az egyesülés vagy a szétválás a szövetkezeti hitelintézet fizetőképességét, üzleti tervének teljesítését vagy az egyedi alapon megállapított szavatolótőke-szint elérését veszélyezteti; vagy
-- c) az átalakulás, az egyesülés vagy a szétválás az érintett szövetkezeti hitelintézet tagjainak, vagy a szövetkezeti hitelintézetek integrációjának érdekeit veszélyezteti.
+- a) az átalakulással, egyesüléssel vagy szétválással érintett intézmény vizsgálata tőkepótlás szükségességét állapította meg és ez még nem került végrehajtásra, vagy a tervezett intézkedés a betétesek vagy az átalakulással, egyesüléssel vagy szétválással érintett valamely hitelintézet vagy az Integrációs Szervezet más tagjának érdekeit veszélyezteti;
+- b) az átalakulás, az egyesülés vagy a szétválás az érintett intézmény fizetőképességét, üzleti tervének teljesítését vagy az egyedi alapon megállapított szavatolótőke-szint elérését veszélyezteti; vagy
+- c) az átalakulás, az egyesülés vagy a szétválás az érintett intézmény tagjainak, vagy a szövetkezeti hitelintézetek integrációjának érdekeit veszélyezteti.
 
-(3) Az Integrációs Szervezet az átalakulásra, az egyesülésre és a szétválásra vonatkozó – integrációs célokat és alapelveket is tartalmazó – irányelvben rögzíti azokat a körülményeket, amelyek fennállása esetén megállapítható, hogy az átalakulás, az egyesülés vagy a szétválás az érintett szövetkezeti hitelintézet tagjainak, vagy a szövetkezeti hitelintézetek integrációjának érdekeit veszélyezteti.
+(3) Az Integrációs Szervezet az átalakulásra, az egyesülésre és a szétválásra vonatkozó – integrációs célokat és alapelveket is tartalmazó – irányelvben rögzíti azokat a körülményeket, amelyek fennállása esetén megállapítható, hogy az átalakulás, az egyesülés vagy a szétválás az érintett intézmény tagjainak, vagy a szövetkezeti hitelintézetek integrációjának érdekeit veszélyezteti.
 
-(4) Az Integrációs Szervezet a szövetkezeti hitelintézeti integráció céljainak elérése érdekében elrendelheti, hogy a szövetkezeti hitelintézet vezetősége hívjon össze közgyűlést, ahol napirendi pont a kijelölt szövetkezeti hitelintézet átalakulása, egyesülése vagy szétválása. A kijelölt szövetkezeti hitelintézetnél a közgyűlést a jogszabály által megengedett legrövidebb időn belül meg kell tartani.
+(4) Az Integrációs Szervezet a szövetkezeti hitelintézeti integráció céljainak elérése érdekében elrendelheti, hogy az Integrációs Szervezet tagja vagy a Kapcsolt Vállalkozás vezetősége hívjon össze közgyűlést, illetve taggyűlést, ahol napirendi pont a kijelölt intézmény átalakulása, egyesülése vagy szétválása. A kijelölt intézménynél a közgyűlést, illetve taggyűlést a jogszabály által megengedett legrövidebb időn belül meg kell tartani.
 
-(5) A szövetkezeti hitelintézet átalakulása, egyesülése vagy szétválása esetén a lekötött tartalékba helyezett, fel nem osztható vagyont a jogutód lekötött tartalékába kell helyezni.
+(5) Az Integrációs Szervezet tagja vagy a Kapcsolt Vállalkozás átalakulása, egyesülése vagy szétválása esetén a lekötött tartalékba helyezett, fel nem osztható vagyont a jogutód lekötött tartalékába kell helyezni.
 
-(6) A szövetkezeti hitelintézet tagja az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény szerinti átalakulási terv közlésétől számított 30 napon belül írásban nyilatkozhat arról, hogy a jogutód szövetkezeti hitelintézet tulajdonosává kíván válni. A nyilatkozat megtételének módjáról és határidejéről a szövetkezeti hitelintézet a tagokat az alapszabályban meghatározott módon értesíti. Az értesítésnek tartalmaznia kell a figyelmeztetést a nyilatkozat határidőben történő megtétele elmulasztásának jogkövetkezményeire vonatkozóan. A tag az átalakulásról véglegesen döntő szavazás megkezdéséig korábbi nyilatkozatát visszavonhatja.
+(6) A szövetkezeti hitelintézet tagja az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény szerinti átalakulási terv közlésétől számított 30 napon belül írásban nyilatkozhat arról, hogy a jogutód szövetkezeti hitelintézet tulajdonosává kíván válni. A nyilatkozat megtételének módjáról és határidejéről a szövetkezeti hitelintézet a tagokat az alapszabályban meghatározott módon értesíti. Az értesítésnek tartalmaznia kell a figyelmeztetést a nyilatkozat határidőben történő megtétele elmulasztásának jogkövetkezményeire vonatkozóan. A tag az átalakulásról, egyesülésről vagy szétválásról véglegesen döntő szavazás megkezdéséig korábbi nyilatkozatát visszavonhatja.
 
 (7) A (6) bekezdésben meghatározott nyilatkozat hiányában úgy kell tekinteni, hogy a tag nem kíván a jogutód szövetkezeti hitelintézet tulajdonosává válni, amely esetben a tag tagsági jogviszonya az átalakulás cégbírósági bejegyzésének napjával megszűnik. A jogutód szövetkezeti hitelintézet köteles nyilvántartást vezetni a tagnyilvántartással egyező adattartalommal azon tagokról, amelyek tagsági jogviszonya a (6) bekezdésben meghatározott nyilatkozat hiányában szűnt meg. Azon tag vagyoni hozzájárulásának befizetett összegét, amelynek tagsági jogviszonya a (6) bekezdésben meghatározott nyilatkozat hiányában szűnt meg, a jogutód szövetkezeti hitelintézet köteles elkülönített számlán tartani mindaddig, amíg a megszűnt tagsági jogviszony alapján az elszámolás meg nem történik.
 
-(8) A nyilatkozatot nem tett tag vagy annak jogutódja (örököse) – az átalakulást követően, de a megszűnt tagsági jogviszony alapján történő elszámolást megelőzően – írásbeli nyilatkozatával igényt tarthat a (7) bekezdés szerinti elkülönített számlán kezelt befizetett vagyoni hozzájárulás – alapszabályban meghatározott mértékű kamattal növelt – összegének részére történő megfizetésére. Ha a nyilatkozatot nem tett tag vagy annak jogutódja (örököse) – az átalakulást követően, de a megszűnt tagsági jogviszony alapján történő elszámolást megelőzően – úgy nyilatkozik, hogy a jogutód szövetkezeti hitelintézet tagjává kíván válni, és esetében teljesülnek a taggá váláshoz szükséges jogszabályban és alapszabályban előírt feltételek, a nyilatkozattétel napjától megilletik a tagsági jogviszonyból eredő jogok és kötelezettségek, olyan tartalommal, mintha a tagsági jogviszonya az átalakulást követően folyamatosan fennállt volna.
+(8) A nyilatkozatot nem tett tag vagy annak jogutódja (örököse) – az átalakulást, egyesülést vagy szétválást követően, de a megszűnt tagsági jogviszony alapján történő elszámolást megelőzően – írásbeli nyilatkozatával igényt tarthat a (7) bekezdés szerinti elkülönített számlán kezelt befizetett vagyoni hozzájárulás – alapszabályban meghatározott mértékű kamattal növelt – összegének részére történő megfizetésére. Ha a nyilatkozatot nem tett tag vagy annak jogutódja (örököse) – az átalakulást, egyesülést vagy szétválást követően, de a megszűnt tagsági jogviszony alapján történő elszámolást megelőzően – úgy nyilatkozik, hogy a jogutód szövetkezeti hitelintézet tagjává kíván válni, és esetében teljesülnek a taggá váláshoz szükséges jogszabályban és alapszabályban előírt feltételek, a nyilatkozattétel napjától megilletik a tagsági jogviszonyból eredő jogok és kötelezettségek, olyan tartalommal, mintha a tagsági jogviszonya az átalakulást, egyesülést vagy szétválást követően folyamatosan fennállt volna.
 
 (9) A szövetkezeti hitelintézet 30 napon belül intézkedik a vagyoni hozzájárulás kifizetéséről vagy a tag felvételéről, kivéve, ha a (8) bekezdésben meghatározott nyilatkozat nem a jogosulttól származik. A nyilatkozattevő jogosult bírósághoz fordulni abban az esetben, ha a szövetkezeti hitelintézet részéről az nyer megállapítást, hogy a nyilatkozatot nem a jogosult tette.
 
-#### 8/I. Jogutód nélküli megszűnés
+(10) A szövetkezeti hitelintézet az Integrációs Szervezet előzetes írásbeli hozzájárulását követően jogosult beolvadni a Holding Szövetkezetbe.
 
-17/T. § (1) Ha a szövetkezeti hitelintézet a jogutód nélküli megszűnéséről határoz, vagy a Felügyelet a szövetkezeti hitelintézet működési engedélyét a törvényben foglalt bármely esetben visszavonja, a Hpt. rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+(11) A szövetkezeti hitelintézet Holding Szövetkezetbe történő beolvadásához az Integrációs Szervezet abban az esetben járul hozzá, ha
 
-(2) A szövetkezeti hitelintézet a jogutód nélküli megszűnéséről az Integrációs Szervezet igazgatóságának előzetes hozzájárulását követően dönthet.
+- a) azt a szövetkezeti hitelintézet és a Holding Szövetkezet közösen kérelmezik,
+- b) a szövetkezeti hitelintézet felszámolása kezdeményezésének feltételei nem állnak fenn,
+- c) a szövetkezeti hitelintézet beolvadása nem sérti a szövetkezeti hitelintézeti integráció érdekeit, valamint
+- d) a szövetkezeti hitelintézet a tevékenységi engedélyének visszaadásáról döntött és a szövetkezeti hitelintézet tevékenységi engedélyét a Felügyelet visszavonta és a beolvadás a visszavonó határozatban megjelölt időpontig történik.
 
-(3) A felügyeleti biztos a kijelölését követő 3 munkanapon belül felméri, hogy a szövetkezeti hitelintézet esetében végelszámolásnak vagy felszámolásnak lenne-e helye, és megállapítását haladéktalanul megküldi a Felügyelet részére. Amennyiben a felügyeleti biztos javaslata alapján felszámolási eljárás kezdeményezésének vagy egyébként végelszámolásnak lenne helye, akkor javaslatáról egyidejűleg tájékoztatja az Országos Betétbiztosítási Alapot is.
+(12) A szövetkezeti hitelintézet Holding Szövetkezetbe történő (10) és (11) bekezdés szerinti beolvadása esetén nem kell alkalmazni a Hpt. végelszámolásra vonatkozó rendelkezéseit.
 
-(3a) A Felügyelet a működési engedély visszavonásával egyidejűleg dönt a szövetkezeti hitelintézet végelszámolásáról vagy felszámolásának kezdeményezéséről.
+#### 8/I. Jogutód nélküli megszűnés, átalakítás
 
-(4) A Felügyelet a szövetkezeti hitelintézet jogutód nélküli megszűnésének kezdeményezésére vonatkozó határozatát a felügyeleti biztos javaslata alapján, a Hpt. 47-66. §-ának rendelkezései szerint hozza meg.
+17/T. § (1) Az Integrációs Szervezet tagja – ide nem értve a Holding Szövetkezetet – és a Kapcsolt Vállalkozás a jogutód nélküli megszűnéséről vagy a Felügyelet által engedélyezett tevékenysége részben vagy egészben történő szüneteltetéséről, valamint megszüntetéséről, vagy a szövetkezeti hitelintézet pénzügyi vállalkozássá, befektetési vállalkozássá történő átalakításáról (a továbbiakban: átalakítás) az Integrációs Szervezet előzetes írásbeli hozzájárulását követően dönthet.
 
-(5) Amennyiben a Felügyelet a szövetkezeti hitelintézet végelszámolásának elhatározásáról dönt, és a szövetkezeti hitelintézet működési engedélyének visszavonására egyébként a Hpt. 33. § (1) bekezdés a) pontja alapján is helye lett volna, akkor ezt a tényt a Felügyelet a végelszámolást kimondó határozatában feltünteti és a határozatát haladéktalanul megküldi az Országos Betétbiztosítási Alap számára is.
+(2) Amennyiben a Felügyelet a szövetkezeti hitelintézet végelszámolásának elhatározásáról dönt, és a szövetkezeti hitelintézet működési engedélyének visszavonására egyébként a Hpt. 33. § (1) bekezdés a) pontja alapján is helye lett volna, akkor ezt a tényt a Felügyelet a végelszámolást kimondó határozatában feltünteti és a határozatát haladéktalanul megküldi az Országos Betétbiztosítási Alap számára is.
 
-(6) A szövetkezeti hitelintézet végelszámolására az Integrációs Szervezetből kilépni kívánó szövetkezeti hitelintézetre irányadó rendelkezéseket kell megfelelően alkalmazni azzal, hogy a szövetkezeti hitelintézet legfőbb szerve által elhatározott végelszámoláshoz az Integrációs Szervezet igazgatóságának kifejezett előzetes hozzájáruló határozata szükséges. A szövetkezeti hitelintézet végelszámolására vagy felszámolására egyebekben a Hpt. 47–66. §-ának rendelkezéseit kell alkalmazni.
+(3) Az átalakításhoz az Integrációs Szervezet abban az esetben járul hozzá, ha a kérelmező szövetkezeti hitelintézet és
+
+- a) annak tevékenységi engedélyét a Felügyelet visszavonta és az átalakítás a visszavonó határozatban megjelölt időpontban megtörténik,
+- b) a tevékenységi engedély visszavonásának más okból nincs helye,
+- c) a felszámolási eljárás kezdeményezésének feltételei nem állnak fenn,
+- d) az átalakítás nem sérti a szövetkezeti hitelintézeti integráció gazdasági érdekeit, valamint
+- e) a kérelmező a 20/A. § (7) bekezdésében foglalt követelményeknek megfelel.
+
+(4) Az Integrációs Szervezet tagja végelszámolására, a szövetkezeti hitelintézet átalakítására az Integrációs Szervezetből kilépni kívánó szövetkezeti hitelintézetre irányadó rendelkezéseket kell megfelelően alkalmazni.
 
 ### IV. Fejezet — EGYSÉGES INFORMATIKAI RENDSZER
 
 #### 8/J. Az egységes informatikai rendszer működése
 
-17/U. § (1) Az Integrációs Szervezet 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tagjai a Központi Bank által meghatározott informatikai alkalmazást igénylő tevékenységüket – az Integrációs Szervezet által meghatározott ütemezett csatlakozással – az egységes informatikai rendszer használatával kötelesek ellátni, és az ügyfelek, egyéb érintettek – az igénybe vett szolgáltatásoktól függően személyes adatnak, bank-, értékpapír-, fizetési, illetve biztosítási titoknak is minősülő – adatait az egységes informatikai rendszer közös adatbázisában kötelesek nyilvántartani, ideértve a már a csatlakozás időpontjában kezelt adatokat is. Az egységes informatikai rendszerre való átállást, beleértve a korábbi informatikai rendszerekben meglévő adatok migrálását és azok központi feldolgozását, 2017. december 31-ig valamennyi szövetkezeti hitelintézet esetében teljes körűen biztosítani kell.
+17/U. § (1) A szövetkezeti hitelintézetek az integrációs üzleti irányító szervezet által meghatározott informatikai alkalmazást igénylő tevékenységüket – az Integrációs Szervezet által meghatározott ütemezett csatlakozással – az egységes informatikai rendszer használatával kötelesek ellátni, és az ügyfelek, egyéb érintettek – az igénybe vett szolgáltatásoktól függően személyes adatnak, bank-, értékpapír-, fizetési, illetve biztosítási titoknak is minősülő – adatait az egységes informatikai rendszer közös adatbázisában kötelesek nyilvántartani, ideértve a már a csatlakozás időpontjában kezelt adatokat is. Az egységes informatikai rendszerre való átállást, beleértve a korábbi informatikai rendszerekben meglévő adatok migrálását és azok központi feldolgozását, 2017. december 31-ig valamennyi szövetkezeti hitelintézet esetében teljes körűen biztosítani kell.
 
-(2) A Központi Bank egységes informatikai rendszer kialakításáról szóló szabályzata határozza meg
+(2) Az integrációs üzleti irányító szervezet egységes informatikai rendszer kialakításáról szóló szabályzata határozza meg
 
 - a) az egységes informatikai rendszer modularitását,
 - b) az egyes modulok funkcionalitását,
 - c) az egységes informatikai rendszer szolgáltatói hátterét,
-- d) az egységes informatikai rendszerhez csatlakozott tagok (a továbbiakban: csatlakozott tagok), valamint a szövetkezeti hitelintézetek vagy a Központi Bank ellenőrző befolyása alatt működő pénzügyi intézmények, pénzforgalmi intézmények, elektronikuspénz-kibocsátó intézmények, befektetési vállalkozások, biztosítók, ABAK-ok és ÁÉKBV-alapkezelők (a továbbiakban: hozzáféréssel rendelkező szervezetek) és felhasználóik – szükség szerint – eltérő szintű jogosultságait, valamint
+- d) az egységes informatikai rendszerhez csatlakozott tagok (a továbbiakban: csatlakozott tagok), valamint a szövetkezeti hitelintézetek vagy az integrációs üzleti irányító szervezet ellenőrző befolyása alatt működő pénzügyi intézmények, pénzforgalmi intézmények, elektronikuspénz-kibocsátó intézmények, befektetési vállalkozások, biztosítók, ABAK-ok és ÁÉKBV-alapkezelők (a továbbiakban: hozzáféréssel rendelkező szervezetek) és felhasználóik – szükség szerint – eltérő szintű jogosultságait, valamint
 - e) az egységes informatikai rendszerre vonatkozó elektronikus információbiztonsági és adatvédelmi követelményeket, valamint a d) pont szerinti szervezetek és személyek által kötelezően megvalósítandó, a rendszer használatához kapcsolódó védelmi intézkedéseket.
 
-(3) Az egységes informatikai rendszerben kezelt személyes adatokat, bank-, értékpapír-, fizetési, illetve biztosítási titoknak is minősülő adatokat a csatlakozott tagok és a hozzáféréssel rendelkező szervezetek tevékenységi körük ellátásával összefüggésben – ha az ügyfél nem tett a (3a) bekezdés szerinti korlátozó vagy tiltó nyilatkozatot – az Integrációs Szervezet adatvédelmi szabályzatában és a Központi Bank (2) bekezdés szerinti szabályzatában foglaltak betartásával, tevékenységi körük ellátásával összefüggésben a szolgáltatásaik nyújtásához szükséges mértékben kölcsönösen megismerhetik, az egyedi szolgáltatásokhoz való hozzáférés biztosítása céljából egymásnak továbbíthatják, felhasználhatják, módosíthatják és az e törvényben meghatározott feltételek mellett az így átvett adatokat az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelhetik.
+(3) Az egységes informatikai rendszerben kezelt személyes adatokat, bank-, értékpapír-, fizetési, illetve biztosítási titoknak is minősülő adatokat a csatlakozott tagok és a hozzáféréssel rendelkező szervezetek tevékenységi körük ellátásával összefüggésben – ha az ügyfél nem tett a (3a) bekezdés szerinti korlátozó vagy tiltó nyilatkozatot – az Integrációs Szervezet adatvédelmi szabályzatában és az integrációs üzleti irányító szervezet (2) bekezdés szerinti szabályzatában foglaltak betartásával, tevékenységi körük ellátásával összefüggésben a szolgáltatásaik nyújtásához szükséges mértékben kölcsönösen megismerhetik, az egyedi szolgáltatásokhoz való hozzáférés biztosítása céljából egymásnak továbbíthatják, felhasználhatják, módosíthatják és az e törvényben meghatározott feltételek mellett az így átvett adatokat az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelhetik.
 
 (3a) Az ügyfél kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a (3) bekezdés szerinti adattovábbítást. A csatlakozott tagok és a hozzáféréssel rendelkező szervezetek az ügyféllel kötendő szerződés megkötését megelőzően kötelesek az ügyfél részére az e §-ban foglalt közös adatkezelés érdekében történő kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy az adatai e §-ban foglalt kezelésének lehetőségét kifejezett nyilatkozatával bármikor korlátozhatja vagy megtilthatja.
 
-(4) A csatlakozott tagok, valamint a hozzáféréssel rendelkező szervezetek a szövetkezeti hitelintézeti integráció céljainak megfelelően – a Központi Bank (2) bekezdés szerinti szabályzatában foglaltak szerint, erre vonatkozó külön megállapodás nélkül is – jogosultak egymás ügyfeleinek kölcsönös kiszolgálására az egységes informatikai rendszerben kezelt adatok felhasználásával.
+(4) A csatlakozott tagok, valamint a hozzáféréssel rendelkező szervezetek a szövetkezeti hitelintézeti integráció céljainak megfelelően – az integrációs üzleti irányító szervezet (2) bekezdés szerinti szabályzatában foglaltak szerint, erre vonatkozó külön megállapodás nélkül is – jogosultak egymás ügyfeleinek kölcsönös kiszolgálására az egységes informatikai rendszerben kezelt adatok felhasználásával.
 
-(5) Az egységes informatikai rendszerben történő adatkezelés tekintetében a csatlakozott tagok, valamint a hozzáféréssel rendelkező szervezetek közös adatkezelőnek minősülnek. A Központi Bank feladatköre kiterjed az egységes informatikai rendszer közös adatbázisán alapuló kockázatelemzésre és kockázatkezelésre.
+(5) Az egységes informatikai rendszerben történő adatkezelés tekintetében a csatlakozott tagok, valamint a hozzáféréssel rendelkező szervezetek közös adatkezelőnek minősülnek. Az integrációs üzleti irányító szervezet feladatköre kiterjed az egységes informatikai rendszer közös adatbázisán alapuló kockázatelemzésre és kockázatkezelésre.
 
 (6) Az adatok egységes informatikai rendszerben történő közös adatkezelésének időtartama – ha törvény eltérő időtartamot nem határoz meg – a mindenkori polgári jogi elévülés időtartama, amelyet az ügyféllel fennálló jogviszony megszűnésétől – jogviszony létre nem jötte esetén a jogviszony létrejöttét megakadályozó jogcselekmény hatályosulásától – kell számítani.
 
@@ -903,23 +950,23 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (9) A pénzforgalmi szolgáltatásra vonatkozó szerződés módosítása esetén a (7) bekezdés c) pontjában foglalt első tájékoztatásban a csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet bemutatja, hogy az ügyfélnek milyen összegű fizetési kötelezettségekkel kellene számolnia a módosítást megelőzően, illetve azt követően hatályos szerződési feltételek figyelembevételével, továbbá, hogy az összehasonlítás alapján a módosítás az ügyfél számára kedvező, közömbös vagy kedvezőtlen. A csatlakozott tag, valamint a hozzáféréssel rendelkező szervezet köteles a tájékoztatásban felhívni a fogyasztó figyelmét a szabályozott fizetési számlaváltás lehetőségére.
 
-(10) A Központi Bank szövetkezeti hitelintézeti integráción belüli fizetési és elszámolási, valamint az értékpapír-elszámolási rendszerek kialakítására irányuló döntéshozó szerveinek munkájában az Integrációs Szervezet igazgatóságának képviselője tanácskozási joggal vesz részt.
+(10) Az integrációs üzleti irányító szervezet szövetkezeti hitelintézeti integráción belüli fizetési és elszámolási, valamint az értékpapír-elszámolási rendszerek kialakítására irányuló döntéshozó szerveinek munkájában az Integrációs Szervezet igazgatóságának képviselője tanácskozási joggal vesz részt.
 
-(11) Az egységes informatikai rendszer alkalmazása során a kamatnapok számítása a 15. § (2) bekezdés e) pontjában meghatározott üzletszabályzatok hatálya alá tartozó egyes szolgáltatások tekintetében – az ezen dokumentumokban meghatározott módon – minden szövetkezeti hitelintézet és a Központ Bank vonatkozásában is egységesen történik.
+(11) Az egységes informatikai rendszer alkalmazása során a kamatnapok számítása a 15. § (2) bekezdés e) pontjában meghatározott üzletszabályzatok hatálya alá tartozó egyes szolgáltatások tekintetében – az ezen dokumentumokban meghatározott módon – minden szövetkezeti hitelintézet és az integrációs üzleti irányító szervezet vonatkozásában is egységesen történik.
 
 #### 8/K. A Központi Adatfeldolgozó feladatai
 
-17/V. § (1) Az egységes informatikai rendszer folyamatos üzemeltetését és fejlesztését végző Központi Adatfeldolgozót az Integrációs Szervezet igazgatósága bízza meg a Központi Bank javaslatára.
+17/V. § (1) Az egységes informatikai rendszer folyamatos üzemeltetését és fejlesztését végző Központi Adatfeldolgozót az Integrációs Szervezet igazgatósága bízza meg az integrációs üzleti irányító szervezet javaslatára.
 
-(2) Az Integrációs Szervezet ügyvezetése és a Központi Bank együttesen határozzák meg a Központi Adatfeldolgozónak az egységes informatikai rendszer fejlesztésére és működésére vonatkozó tevékenységét szabályozó, jogait és kötelezettségeit tartalmazó megállapodás feltételeit. A megállapodást az Integrációs Szervezet igazgatósága köti meg, módosítja vagy szünteti meg a Központi Adatfeldolgozóval a Központi Bank javaslata alapján.
+(2) Az Integrációs Szervezet és az integrációs üzleti irányító szervezet együttesen határozzák meg a Központi Adatfeldolgozónak az egységes informatikai rendszer fejlesztésére és működésére vonatkozó tevékenységét szabályozó, jogait és kötelezettségeit tartalmazó megállapodás feltételeit. A megállapodást az Integrációs Szervezet igazgatósága köti meg, módosítja vagy szünteti meg a Központi Adatfeldolgozóval az integrációs üzleti irányító szervezet javaslata alapján.
 
-(3) Az egységes informatikai rendszerhez történő csatlakozás a Központi Adatfeldolgozóval megkötött – a Központi Bank és az Integrációs Szervezet igazgatósága által jóváhagyott, a (2) bekezdés szerinti megállapodásnak megfelelő – egyedi üzemeltetési szerződés útján történik.
+(3) Az egységes informatikai rendszerhez történő csatlakozás a Központi Adatfeldolgozóval megkötött – az integrációs üzleti irányító szervezet és az Integrációs Szervezet igazgatósága által jóváhagyott, a (2) bekezdés szerinti megállapodásnak megfelelő – egyedi üzemeltetési szerződés útján történik.
 
-(4) A csatlakozott tag köteles a Központi Bank által utasításban megjelölt egyedi banki informatikai rendszerre való átállásnak a megjelölt határidőben eleget tenni. Az átállással kapcsolatos feladatokról és az átállásra vonatkozó utasítás kiadásával kapcsolatos szabályokról a Központi Bank szabályzatot alkot.
+(4) A csatlakozott tag köteles az integrációs üzleti irányító szervezet által utasításban megjelölt egyedi banki informatikai rendszerre való átállásnak a megjelölt határidőben eleget tenni. Az átállással kapcsolatos feladatokról és az átállásra vonatkozó utasítás kiadásával kapcsolatos szabályokról az integrációs üzleti irányító szervezet szabályzatot alkot.
 
 (5) A csatlakozott tagok a Központi Adatfeldolgozó vonatkozásában mentesülnek a Hpt. 68. § (6) bekezdésében meghatározott kötelezettség alól. E kötelezettséget az Integrációs Szervezet teljesíti.
 
-(6) A Központi Adatfeldolgozó által alkalmazott közreműködővel kötött szerződés vonatkozásában a Hpt. 68. § (10) bekezdésében meghatározott jóváhagyást a Központi Bank az Integrációs Szervezet előzetes egyetértése alapján gyakorolja. A szerződésben biztosítani kell a kiszervezett tevékenységnek az Integrációs Szervezet által történő ellenőrzését.
+(6) A Központi Adatfeldolgozó által alkalmazott közreműködővel kötött szerződés vonatkozásában a Hpt. 68. § (10) bekezdésében meghatározott jóváhagyást az integrációs üzleti irányító szervezet az Integrációs Szervezet előzetes egyetértése alapján gyakorolja. A szerződésben biztosítani kell a kiszervezett tevékenységnek az Integrációs Szervezet által történő ellenőrzését.
 
 #### 9. Záró, átmeneti és értelmező rendelkezések
 
@@ -939,7 +986,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (3) A szövetkezeti hitelintézet köteles értesíteni a Felügyeletet és az Integrációs Szervezetet, ha az Integrációs Szervezet igazgatósága által meghatározott szöveggel elfogadott új alapszabályával, alapító okiratával vagy ezek bármely módosításával kapcsolatos bejegyzési kérelmét a cégbíróság elutasítja. A cégbíróság elutasító döntése esetén az érintett szövetkezeti hitelintézet az Integrációs Szervezet igazgatósága által meghatározott új szöveggel az új szövegnek az érintett szövetkezeti hitelintézet részére történt megküldését követő 30 napon belül köteles elfogadni új alapszabályát, alapító okiratát, vagy azok módosítását, és azt benyújtani a cégbíróságnak. A cégbírósági elutasítást követően elfogadott új vagy módosított alapszabály vagy alapító okirat engedélyezésével kapcsolatos felügyeleti eljárásban az ügyintézési határidő 20 munkanap.
 
-(4) Az e törvény hatályba lépésének időpontjában működési engedéllyel rendelkező szövetkezeti hitelintézet, a Takarékbank Zrt. és az MFB a törvény hatályba lépésével az Integrációs Szervezet tagja. E törvény hatálybalépésének időpontjától az Integrációs Szervezetből történő kilépéséig, vagy az Integrációs Szervezet által a központi banki jogkör megvonásáig a szövetkezeti hitelintézeti integráció Központi Bankja a Takarékbank Zrt.
+(4)
 
 (4a)
 
@@ -949,9 +996,9 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (8) Az Integrációs Szervezet igazgatósága – szabályzatában meghatározottak szerint – a szövetkezeti hitelintézetek, vagy azok egyes csoportjai (pl. hitelszövetkezet, takarékszövetkezet, zártkörűen működő részvénytársaság, nyilvánosan működő részvénytársaság, szakosított hitelintézet, nagy vagy kis tulajdonosi létszámmal működő intézmények) számára a formájukból, tevékenységükből adódó működési jellegzetességeik által indokolt esetben átmenetileg vagy véglegesen az e törvényből fakadó egyes kötelezettségek vagy azok csoportjának a teljesítése alól felmentést adhat,.
 
-(9) E törvénynek a Központi Bankkal munkaviszonyban álló vezető tisztségviselője általi megsértése azonnali hatályú felmondást alapoz meg.
+(9) E törvénynek az integrációs üzleti irányító szervezettel munkaviszonyban álló vezető tisztségviselője általi megsértése azonnali hatályú felmondást alapoz meg.
 
-(9a) A Központi Bank igazgatóságának és felügyelő bizottságának elnöke és tagjai felelősek azért, hogy a Központi Bank a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében az e törvényben foglalt előírásoknak megfelelően járjon el.
+(9a) Az integrációs üzleti irányító szervezet igazgatóságának és felügyelő bizottságának elnöke és tagjai felelősek azért, hogy az integrációs üzleti irányító szervezet a szövetkezeti hitelintézeti integrációval kapcsolatos feladatkörében az e törvényben foglalt előírásoknak megfelelően járjon el.
 
 (10)
 
@@ -969,7 +1016,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (9)
 
-(10) A Központi Bank vételi joggal rendelkezik annak a szövetkezeti hitelintézetnek a Központi Bankban tulajdonolt részvényeire, amelynek a működési engedélyét visszavonták. A vételi jog egy évig áll fenn, és a szavazást illetve a működési engedély visszavonását követő napon nyílik meg. A Központi bank a vételi jog gyakorlására egy független szakértő által meghatározott értéken jogosult. A vételi jog gyakoroltnak minősül, ha a Központi Bank a vételi jog gyakorlására vonatkozó, a független szakértő által megállapított vételárat is tartalmazó nyilatkozatát postára adja az érintett részvényesnek. A vételárat a vételi nyilatkozat megtételét követő 90 napon belül kell megfizetni. A Központi Bank az így megszerzett saját részvényt köteles a megszerzést követő 12 hónapon belül az alaptőke leszállításával bevonni.
+(10) Az integrációs üzleti irányító szervezet vételi joggal rendelkezik annak a szövetkezeti hitelintézetnek az integrációs üzleti irányító szervezetben tulajdonolt részvényeire, amelynek a működési engedélyét visszavonták. A vételi jog egy évig áll fenn, és a szavazást illetve a működési engedély visszavonását követő napon nyílik meg. Az integrációs üzleti irányító szervezet a vételi jog gyakorlására egy független szakértő által meghatározott értéken jogosult. A vételi jog gyakoroltnak minősül, ha az integrációs üzleti irányító szervezet a vételi jog gyakorlására vonatkozó, a független szakértő által megállapított vételárat is tartalmazó nyilatkozatát postára adja az érintett részvényesnek. A vételárat a vételi nyilatkozat megtételét követő 90 napon belül kell megfizetni. Az integrációs üzleti irányító szervezet az így megszerzett saját részvényt köteles a megszerzést követő 12 hónapon belül az alaptőke leszállításával bevonni.
 
 (11)
 
@@ -977,26 +1024,19 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (13)–(14)
 
-20/A. § (1) Az 1. § (4) bekezdésében meghatározott egyetemlegesség kezdő időpontjára az alábbiak irányadóak:
+20/A. § (1)
 
-- a) az 1. § (4) bekezdésében szereplő egyetemleges felelősség a Integrációs Szervezettel, a Központi Bankkal és a szövetkezeti hitelintézettel szemben fennálló valamennyi követelésre kiterjed, függetlenül azok keletkezésének időpontjától;
-- b) az Integrációs Szervezetbe belépő új tagok felvétele esetén a tagsági jogviszonya keletkezésének időpontjától kiterjed rá jelen törvény alapján az egyetemlegesség. Ezen időponttól az Integrációs Szervezet, a Központi Bank és a szövetkezeti hitelintézetek egyetemlegesen felelnek az Integrációs Szervezet tagjává vált szövetkezeti hitelintézet által vállalt valamennyi kötelezettségért, függetlenül azok keletkezésének időpontjától. Ettől az időponttól a szövetkezeti hitelintézet az Integrációs Szervezet, a Központi Bank és a szövetkezeti hitelintézeti integráció többi szövetkezeti hitelintézet tagja által vállalt valamennyi kötelezettségért egyetemlegesen felel függetlenül a kötelezettségek keletkezésének időpontjától.
-- c) az egyetemlegesség a tagsági jogviszony keletkezésének időpontjától az érintett szövetkezeti hitelintézet külön nyilatkozata vagy egyéb jogcselekménye nélkül beáll.
+(2)
 
-(2) Az 1. § (4) bekezdése szerinti egyetemleges felelősség alapján az adóson kívül az Alaptól, az Integrációs Szervezettől, a Központi Banktól és a többi szövetkezeti hitelintézettől lehet az egész követelést követelni. Az adóson kívül az Alaptól akkor lehet követelni az adós tartozását, ha az adós jogerős ítéletben megállapított vagy nem vitatott tartozását az esedékességtől számított további 30 napon belül sem teljesíti. Az egyetemlegesség alapján fizetendő összegért az Alap 60 napon belül köteles az adós helyett az e bekezdésben meghatározott határidőt követően helyt állni. Az egyetemlegesség alapján fizetendő összegért az Alapot követően – az alábbi sorrendben – az Integrációs Szervezet, a Központi Bank, illetve a többi szövetkezeti hitelintézet áll helyt, ha a sorrendben megelőző helyen álló személyek a követelésért nem álltak helyt és fizetésképtelenségüket jogerős bírósági ítélet mondta ki.
+(3)
 
-(3) Az 1. § (4) bekezdésében szereplő egyetemlegességre alapozott követelés érvényesítését úgy kell megkezdeni, hogy
+(4)
 
-- a) a jogerős ítéletben megállapított vagy nem vitatott követelésről a követelés közvetlen adósát, az Alapot, a Központi Bankot és az Integrációs Szervezetet írásban kell értesíteni,
-- b) a vitatott követelés esetén a pert – ha perre sor kerül – a közvetlen adós ellen kell megindítani. E perbe az Alap, a Központi Bank és az Integrációs Szervezet beavatkozhat.
-
-(4) Az egyetemlegességre alapozott követelésekkel kapcsolatban a szövetkezeti hitelintézetek, az Alap, a Központi Bank, valamint az Integrációs Szervezet egymással kapcsolatos együttműködésének kérdéseit az Integrációs Szervezet igazgatósága szabályzatban határozza meg.
-
-(5) Az Integrációs Szervezet és a Központi Bank által az e törvényben meghatározott rendelkezések alapján kibocsátott szabályzatokat a szövetkezeti hitelintézetek, illetve – a Központi Bankra rendelkezéseket tartalmazók esetén – a Központi Bank az azokban megjelölt hatálybalépés napjától kötelesek alkalmazni.
+(5) Az Integrációs Szervezet tagjai az Integrációs Szervezet és az integrációs üzleti irányító szervezet által az e törvény alapján kibocsátott szabályzatok rájuk vonatkozó rendelkezéseit a szabályzatokban megjelölt hatálybalépés napjától kötelesek alkalmazni.
 
 (6)
 
-(7) A 11/F. § (8) bekezdése vonatkozásában a kilépő tag köteles a kilépési szándéknyilatkozat benyújtásakor – könyvvizsgálói jelentéssel ellátott közbenső mérleg alapján – fennálló saját tőke értékének megfelelő összeget a tagsági jogviszony megszűnését követő 730 napig – ha pedig ezen időszak alatt igényt jelentettek be, annak teljesítéséről való döntésig – a Központi Banknál elkülönített számlán tartani. A kilépő tag a saját tőke értékének az elkülönített számlán történő elhelyezéséről köteles írásban értesíteni az Integrációs Szervezetet. Az Alapba a szövetkezeti hitelintézet által a kilépési szándék bejelentéséig befizetett összeg levonható a jelen bekezdés szerint a Központi Banknál elkülönített bankszámlán elhelyezendő összegből. Az elkülönített bankszámlán elhelyezendő összeg felszabadítására a Központi Bank által kiadott szabályzatban meghatározott személyek számára, a szabályzat szerinti feltételekkel és időpontokban kerül sor.
+(7) Az 5/A. § (3) bekezdése vonatkozásában a kilépő tag köteles a kilépési szándéknyilatkozat Integrációs Szervezet részére történő benyújtásakor – könyvvizsgálói jelentéssel ellátott közbenső mérleg alapján – fennálló saját tőke értékének megfelelő összeget a tagsági jogviszony megszűnését követő 730 napig – ha pedig ezen időszak alatt igényt jelentettek be, annak teljesítéséről való döntésig – az Integrációs Szervezet által kijelölt szövetkezeti hitelintézeti tagnál erre a célra nyitott, elkülönített számlán tartani. Az elkülönített bankszámlán elhelyezendő összeg felszabadítására az Integrációs Szervezet által kiadott szabályzatban meghatározott személyek számára, a szabályzat szerinti feltételekkel és időpontokban kerül sor.
 
 (8)
 
@@ -1010,19 +1050,33 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 20/C. § Az Integrációs Szervezet köteles az alapszabályát az egyes törvényeknek a szövetkezeti hitelintézetek integrációjával összefüggő módosításáról szóló 2016. évi LV. törvényben foglaltaknak megfelelően a törvény hatályba lépését követő 30 napon belül módosítani.
 
-20/D. § Az e törvényben nem szabályozott eljárási határidőket az Integrációs Szervezet és a Központi Bank szabályzatban vagy irányelvben állapítja meg.
+20/D. § Az e törvényben nem szabályozott eljárási határidőket az Integrációs Szervezet és az integrációs üzleti irányító szervezet szabályzatban vagy irányelvben állapítja meg.
 
-20/E. § (1) Az Integrációs Szervezet, illetve a Központi Bank által az e törvénynek a szövetkezeti hitelintézetek integrációjával összefüggő egyes törvények módosításáról szóló 2017. évi LXII. törvény (a továbbiakban: Mód. tv.) hatálybalépését megelőzően hatályos rendelkezései alapján kiadott intézkedés, szabályzat vagy utasítás alkalmazhatóságát nem érintik az e törvény – Mód. tv.-vel megállapított – rendelkezései, mindaddig, míg az adott tárgykörben az arra jogosult szervezet – eltérő tartalmú – intézkedést, szabályzatot vagy utasítást nem ad ki.
+20/E. § (1) Az Integrációs Szervezet, illetve az integrációs üzleti irányító szervezet által az e törvénynek a szövetkezeti hitelintézetek integrációjával összefüggő egyes törvények módosításáról szóló 2017. évi LXII. törvény (a továbbiakban: Mód. tv.) hatálybalépését megelőzően hatályos rendelkezései alapján kiadott intézkedés, szabályzat vagy utasítás alkalmazhatóságát nem érintik az e törvény – Mód. tv.-vel megállapított – rendelkezései, mindaddig, míg az adott tárgykörben az arra jogosult szervezet – eltérő tartalmú – intézkedést, szabályzatot vagy utasítást nem ad ki.
 
 (2) Az e törvény rendelkezéseinek megfelelő csoportszintű helyreállítási terv jóváhagyásáról a Mód. tv. hatálybalépését követő 30 napon belül köteles az Integrációs Szervezet igazgatósága dönteni.
 
-(3) Ha a Mód. tv. hatálybalépését követően az Integrációs Szervezet igazgatósági tagjának a megbízatása megszűnik, az új tag megválasztásához az Integrációs Szervezet szövetkezeti hitelintézeti tagjai több mint felének szavazata szükséges mindaddig, amíg az Integrációs Szervezet igazgatóságának az ezen szavazati aránnyal megválasztott tagjainak a száma el nem éri az e törvényben előírt létszámot.
+(3)
 
 (4) E törvénynek a – Mód. tv.-vel megállapított – 1. § (5a) bekezdését a Mód. tv. hatálybalépésekor még le nem zárult eljárásokra is alkalmazni kell.
 
 20/F. § (1) Az Integrációs Szervezet igazgatóságának és tagjainak 2018. március 15. napjáig meg kell felelnie a 8. § (1) bekezdésében és a 8. § (4) és (4a) bekezdésében foglalt követelményeknek azzal, hogy az e feltételeknek megfelelő tagok Közgyűlés általi megválasztásakor megszűnik az Integrációs Szervezet igazgatósága azon tagjainak megbízatása, akik nem felelnek meg e feltételeknek.
 
 (2) Az Integrációs Szervezet alapszabályának 2018. március 15. napjáig meg kell felelnie az e törvénynek az állami vagyonnal és nemzeti pénzügyi szolgáltatásokkal összefüggő egyes törvények módosításáról szóló 2017. évi CXCIX. törvénnyel megállapított rendelkezéseinek is.
+
+20/G. § (1) A szövetkezeti hitelintézeti integráció integrációs üzleti irányító szervezete az egyes vagyongazdálkodást érintő rendelkezésekről, valamint a nemzeti pénzügyi szolgáltatásokkal összefüggő egyes törvények módosításáról szóló 2019. évi LX. törvény (a továbbiakban: 2. Mód. tv.) hatálybalépésekor a központi banki jogkörrel rendelkező szervezet mindaddig, amíg az Integrációs Szervezetből ki nem lép, vagy amíg az Integrációs Szervezet meg nem vonja tőle az integrációs üzleti irányító szervezeti jogkört.
+
+(2) Az a szövetkezet léphet be Holding Szövetkezetként az Integrációs Szervezetbe, amely a 2. Mód. tv. hatálybalépésekor – a 3. § (2) bekezdésében foglalt feltételeken túl – megfelel a következő feltételeknek:
+
+- a) legalább egy szövetkezeti hitelintézetben tulajdonnal rendelkezik,
+- b) az Integrációs Szervezet által előírt formában írásbeli nyilatkozattal kötelezettséget vállalt arra, hogy Integrációs Szervezeti tagokban fennálló tulajdoni részesedésének kezelésén kívül más üzletszerű tevékenységet kizárólag az Integrációs Szervezet által engedélyezett körben végez és
+- c) az alapszabálya megfelel a 11/H. § és a 15/E. §-ban meghatározott működésre vonatkozó követelményeknek.
+
+(3) E törvénynek – a 2. Mód. tv.-vel megállapított – 17/T. §-át a folyamatban lévő átalakításokra is alkalmazni kell.
+
+(4) Ha a 2. Mód. tv. hatálybalépését követően az Integrációs Szervezet igazgatósági tagjának vagy felügyelőbizottsági tagjának a megbízatása megszűnik, az új tag a Holding Szövetkezet által – a 6. § (5) bekezdésének alkalmazásával – delegált személyek közül, az Integrációs Szervezet szövetkezeti hitelintézeti tagjai többségének és a Holding Szövetkezetnek az egyetértő szavazatával választható meg mindaddig, amíg az Integrációs Szervezet igazgatóságának vagy felügyelőbizottságának ily módon megválasztott tagjainak a száma el nem éri az e törvényben előírt arányt.
+
+(5) Az MFB Zrt. Integrációs Szervezetből történő kilépéséig az e törvény 2. Mód. tv. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni az MFB Zrt. Integrációs Szervezetben fennálló tagsági jogviszonyára. Az Integrációs Szervezet közgyűlésén az Integrációs Szervezet tagjait megillető szavazatokra a 6. § (3) bekezdés 2. Mód. tv hatálybalépését megelőző napon hatályos rendelkezése irányadó az MFB Zrt. Integrációs Szervezetből történő kilépéséig.
 
 #### 10. Hatály, felhatalmazások
 
@@ -1034,7 +1088,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 21/B. § Felhatalmazást kap a Kormány, hogy a számvitelről szóló 2000. évi C. törvény 178. § (1) bekezdés c) pontjában kapott felhatalmazással összhangban az Integrációs Szervezet mint kötelező intézményvédelmi szervezet beszámolókészítési és könyvvezetési kötelezettségét és sajátosságait kormányrendeletben szabályozza.
 
-21/C. § Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy rendeletben határozza meg a Központi Bank Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott központi bank feladatait ellátó hitelintézet kiválasztásának részletszabályait.
+21/C. § Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy rendeletben határozza meg az integrációs üzleti irányító szervezet Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott integrációs üzleti irányító szervezet feladatait ellátó pénzügyi intézmény kiválasztásának részletszabályait.
 
 #### 11.
 

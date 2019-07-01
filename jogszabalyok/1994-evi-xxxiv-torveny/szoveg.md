@@ -8,7 +8,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 ### A Rendőrség feladata
 
-1. § (1) A rendőrség feladata az Alaptörvényben meghatározott feladatok mellett a határforgalom ellenőrzése, a terrorizmus elleni küzdelem és az e törvényben meghatározott bűnmegelőzési, bűnfelderítési célú ellenőrzés, valamint a bűncselekményből származó vagyon visszaszerzése.
+1. § (1) A rendőrség feladata az Alaptörvényben meghatározott feladatok mellett a határforgalom ellenőrzése, a terrorizmus elleni küzdelem és az e törvényben meghatározott bűnmegelőzési, bűnfelderítési célú ellenőrzés, a bűncselekményből származó vagyon visszaszerzése, valamint az idegenrendészeti és menekültügyi feladatok ellátása.
 
 (2) A rendőrség az az Alaptörvényben, az e törvényben és törvény felhatalmazása alapján más jogszabályban meghatározott bűnmegelőzési, bűnüldözési, államigazgatási és rendészeti feladatkörében:
 
@@ -24,7 +24,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - 7a. engedélyezi – nemzetközi megállapodás eltérő rendelkezése hiányában – a szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitelét és az együttműködő, külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalát,
 - 8. büntetés-végrehajtási feladatokat lát el,
 - 9. ellátja a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet, a váratlan támadás és a veszélyhelyzet esetén a hatáskörébe utalt rendvédelmi feladatokat, továbbá rendkívüli állapot idején és váratlan támadás esetén közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,
-- 10. őrzi az államhatárt, megelőzi, felderíti, megszakítja az államhatár jogellenes átlépését, ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat, részt vesz a jogellenes bevándorlás megakadályozásában.
+- 10. őrzi az államhatárt, megelőzi, felderíti, megszakítja az államhatár jogellenes átlépését, részt vesz a jogellenes bevándorlás megakadályozásában.
 - 11. ellenőrzi az államhatáron áthaladó személy- és járműforgalmat, a szállítmányokat – ide nem értve a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendeletben meghatározott vámellenőrzést –, valamint végzi a határátléptetést, továbbá biztosítja a határátkelőhelyek rendjét, valamint végzi a közúti határátkelőhelyek üzemeltetését, és a fenntartásukra és fejlesztésükre vonatkozó feladatok végrehajtását,
 - 12. irányítja a határesemények kivizsgálásával megbízott magyar szervek tevékenységét, felügyeli az államhatár felmérésével, megjelölésével, a határjelek felújításával kapcsolatos munkák végzését,
 - 13. megteszi az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedéseket, továbbá elhárítja az államhatár rendje ellen irányuló erőszakos cselekményeket,
@@ -36,7 +36,8 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - 16. elvégzi a részére törvényben vagy kormányrendeletben megállapított, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat, valamint
 - 17. részt vesz az Egyesült Nemzetek Szervezete, az Európai Unió, az Európai Biztonsági és Együttműködési Szervezet, az Észak-atlanti Szerződés Szervezete keretében szervezett, vagy nemzetközi szerződés alapján a béketámogató és polgári válságkezelési feladatokban,
 - 18. a fenntartó kezdeményezésére közreműködik az általános és középiskola rendjének fenntartásában,
-- 19. ellátja a segélyhívó számok fogadásából eredő feladatokat.
+- 19. ellátja a segélyhívó számok fogadásából eredő feladatokat,
+- 20. ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat.
 
 2. § (1) A rendőrség védelmet nyújt az életet, a testi épséget, a vagyonbiztonságot közvetlenül fenyegető vagy sértő cselekménnyel szemben, felvilágosítást és segítséget ad a rászorulónak. A rendőrség tiszteletben tartja és védelmezi az emberi méltóságot, óvja az ember jogait.
 
@@ -63,13 +64,15 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 4. § (1) A rendőrség állami, fegyveres rendvédelmi szerv.
 
-(2) A rendőrséget az általános rendőrségi feladatok ellátására létrehozott szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv alkotja.
+(2) A rendőrséget az általános rendőrségi feladatok ellátására létrehozott szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint az idegenrendészeti szerv alkotja.
 
 (3) A Kormány a rendőrséget a rendészetért felelős miniszter (a továbbiakban: miniszter) útján irányítja.
 
 4/A. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv központi szervre (a továbbiakban: központi szerv), megyei (fővárosi) rendőr-főkapitányságokra, rendőrkapitányságokra és határrendészeti kirendeltségekre tagozódik. Egyes feladatok ellátására törvény vagy kormányrendelet más rendőri szervet is létrehozhat.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv szervezeti egységeként kormányrendelet kirendeltséget hozhat létre.
+
+(2a) Az idegenrendészeti szerv központi szerve mellett kormányrendelet igazgatóságokat hozhat létre.
 
 (3) Az általános rendőrségi feladatok ellátására létrehozott szerv személyi állománya
 
@@ -85,25 +88,28 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (5) A terrorizmust elhárító szerv személyi állománya hivatásos állományú rendőrökből, vezényelt hivatásos állományúakból, valamint rendvédelmi igazgatási alkalmazottakból és munkavállalókból állhat.
 
+(6) Az idegenrendészeti szerv személyi állománya hivatásos állományú rendőrökből, rendvédelmi igazgatási alkalmazottakból, valamint munkavállalókból állhat.
+
 5. § A miniszter
 
 - a) szabályozza a rendőrség tevékenységét és működését,
-- b) irányítja az általános rendőrségi feladatok ellátására létrehozott szervet, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet, valamint a terrorizmust elhárító szervet,
+- b) irányítja az általános rendőrségi feladatok ellátására létrehozott szervet, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet, a terrorizmust elhárító szervet, valamint az idegenrendészeti szervet
 - c) törvényességi, szakszerűségi, pénzügyi és hatékonysági szempontból ellenőrzi a rendőrség tevékenységét,
-- d) az általános rendőrségi feladatok ellátására létrehozott szerv vezetője, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője, valamint a terrorizmust elhárító szerv vezetője javaslatára jóváhagyja az általuk vezetett szervek szervezeti és működési szabályzatát,
+- d) az általános rendőrségi feladatok ellátására létrehozott szerv vezetője, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője, a terrorizmust elhárító szerv vezetője, valamint az idegenrendészeti szerv vezetője javaslatára jóváhagyja az általuk vezetett szervek szervezeti és működési szabályzatát,
 - e) előterjesztést készít a miniszterelnök részére az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjének, valamint a terrorizmust elhárító szerv vezetőjének kinevezésére és felmentésére, az előterjesztéshez csatolja az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjére, valamint a terrorizmust elhárító szerv vezetőjére vonatkozóan az Országgyűlés feladatkörrel rendelkező bizottságának állásfoglalását
 - f) gyakorolja az általános rendőrségi feladatok ellátására létrehozott szerv, valamint a terrorizmust elhárító szerv vezetője felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat,
 - g) kinevezi és felmenti
   - ga) az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjének helyetteseit, a rendőr-főkapitányságok vezetőit, valamint a külön jogszabályban meghatározott rendőri szervek vezetőit,
   - gb) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetőjét és helyetteseit, valamint
   - gc) a terrorizmust elhárító szerv vezetőjének helyetteseit,
+  - gd) az idegenrendészeti szerv vezetőjét és helyetteseit,
 - h) kinevezi és felmenti – a nemzetközi szerződések és a Kormány felhatalmazása alapján – az államhatárral kapcsolatos ügyek intézésére létrehozott szervek vezetőit, helyetteseit, tagjait és állandó szakértőit,
 - i) gyakorolja a külön jogszabályban hatáskörébe utalt személyügyi és munkáltatói jogokat,
 - j) törvény eltérő rendelkezése hiányában egyedi utasítást adhat ki feladat elvégzésére vagy mulasztás pótlására,
-- k) az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjét, a belső bűnmegelőzési és bűnfelderítési szerv vezetőjét, valamint a terrorizmust elhárító szerv vezetőjét jelentéstételre vagy beszámolóra kötelezheti,
+- k) az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjét, a belső bűnmegelőzési és bűnfelderítési szerv vezetőjét, a terrorizmust elhárító szerv vezetőjét, valamint az idegenrendészeti szerv vezetőjét jelentéstételre vagy beszámolóra kötelezheti,
 - l) jóváhagyja az államhatár rendjének fenntartása érdekében a konfliktushelyzet és a tömeges méretű migráció kezelésére vonatkozó terveket,
 - m) gondoskodik az e törvényben meghatározott bűnmegelőzési, bűnfelderítési célú ellenőrzésről, valamint
-- n) dönt az általános rendőrségi feladatok ellátására létrehozott szerv vezetője által irányított szervek, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv közötti hatásköri összeütközésben.
+- n) dönt az általános rendőrségi feladatok ellátására létrehozott szerv vezetője által irányított szervek, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint az idegenrendészeti szerv közötti hatásköri összeütközésben.
 
 6. § (1) Az általános rendőrségi feladatok ellátására létrehozott szervet az országos rendőrfőkapitány vezeti. Az országos rendőrfőkapitány
 
@@ -126,13 +132,22 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - e) irányítja a közvetlen alárendeltségébe tartozó vezetők tevékenységét, valamint
 - f) a kinevezés és a felmentés kivételével gyakorolja a közvetlen alárendeltségébe tartozó vezetői felett a munkáltatói jogokat.
 
+(2a) Az idegenrendészeti szervet főigazgató vezeti. A főigazgató
+
+- a) az általa vezetett szerv számára kötelező utasítást adhat ki,
+- b) javaslatot tesz a helyettesének vagy helyetteseinek kinevezésére és felmentésére,
+- c) a miniszter jóváhagyását követően kiadja az általa vezetett szerv szervezeti és működési szabályzatát,
+- d) gyakorolja az általa vezetett szerv állományába tartozó személyek felett a jogszabályban hatáskörébe utalt személyügyi és munkáltatói jogokat,
+- e) irányítja a közvetlen alárendeltségébe tartozó vezetők tevékenységét, valamint
+- f) a helyettesének kinevezése és a felmentése kivételével gyakorolja a közvetlen alárendeltségébe tartozó vezető felett a munkáltatói jogokat.
+
 (3) Az országos rendőrfőkapitányt és a terrorizmust elhárító szerv főigazgatóját a miniszter javaslatára a miniszterelnök nevezi ki és menti fel. A kinevezést megelőzően az országos rendőrfőkapitány-jelöltet, illetve a terrorizmust elhárító szerv főigazgatói tisztségére jelölt személyt az Országgyűlés feladatkörrel rendelkező bizottsága meghallgatja és állást foglal az alkalmasságáról.
 
 (4) Az országos rendőrfőkapitány és a terrorizmust elhárító szerv főigazgatója együttesen – az államhatár rendjének fenntartása érdekében – jóváhagyásra a miniszter elé terjeszti a konfliktushelyzet és a tömeges méretű migráció kezelésére vonatkozó terveket.
 
-(5) Az általános rendőrségi feladatok ellátására létrehozott szervet az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a főigazgató, a terrorizmust elhárító szervet a főigazgató képviseli.
+(5) Az általános rendőrségi feladatok ellátására létrehozott szervet az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a főigazgató, a terrorizmust elhárító szervet a főigazgató, az idegenrendészeti szervet a főigazgató képviseli.
 
-(6) A rendőrséget a két- vagy többoldalú nemzetközi egyezményeken, valamint a viszonosságon alapuló nemzetközi kapcsolatokban a 7/G. § (1)–(3) bekezdése alapján az országos rendőrfőkapitány képviseli. A miniszter két- vagy többoldalú nemzetközi egyezményen alapuló nemzetközi kapcsolatban a rendőrség képviseletére a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatóját vagy a terrorizmust elhárító szerv főigazgatóját kijelölheti.
+(6) A rendőrséget a két- vagy többoldalú nemzetközi egyezményeken, valamint a viszonosságon alapuló nemzetközi kapcsolatokban a 7/G. § (1)–(3) bekezdése alapján az országos rendőrfőkapitány képviseli. A miniszter két- vagy többoldalú nemzetközi egyezményen alapuló nemzetközi kapcsolatban a rendőrség képviseletére a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatóját, a terrorizmust elhárító szerv főigazgatóját vagy az idegenrendészeti szerv főigazgatóját kijelölheti.
 
 ### A Független Rendészeti Panasztestület
 
@@ -189,7 +204,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 6/D. § A Testület elhelyezéséről és működésének feltételeiről – az államháztartásért felelős miniszter bevonásával – az Országgyűlés elnöke gondoskodik.
 
-### II. Fejezet — A BELSŐ BŰNMEGELŐZÉSI ÉS BŰNFELDERÍTÉSI FELADATOKAT ELLÁTÓ SZERV ÉS A TERRORIZMUST ELHÁRÍTÓ SZERV, VALAMINT AZ EGYÜTTMŰKÖDÉS
+### II. Fejezet — A BELSŐ BŰNMEGELŐZÉSI ÉS BŰNFELDERÍTÉSI FELADATOKAT ELLÁTÓ SZERV, A TERRORIZMUST ELHÁRÍTÓ SZERV ÉS AZ IDEGENRENDÉSZETI SZERV, VALAMINT AZ EGYÜTTMŰKÖDÉS
 
 ### A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
 
@@ -199,7 +214,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - b) elvégzi
   - ba) a közszolgálati tisztviselőkről szóló törvény, valamint a kormányzati igazgatásról szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők,
   - bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai – ideértve a vezényléssel az ezen rendvédelmi feladatokat ellátó szerveken kívül szolgálatot teljesítő hivatásos állományt is –, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
-  - bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
+  - bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv kormánytisztviselői, köztisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
   - bd) a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok, továbbá a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, rendvédelmi igazgatási alkalmazottai,
   - be) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
 - c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését.
@@ -322,7 +337,7 @@ e célból együttműködik az Európai Unió tagállamaival és szerveivel, az 
 
 ### Az együttműködés
 
-7/F. § (1) Az általános rendőri feladatok ellátására létrehozott szerv nyilvántartásaiból a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó és a terrorizmust elhárító szerv – feladatainak teljesítéséhez – a VIII. Fejezet szerint kérhet adatot. Az adattovábbítás jogszerűségéért és pontosságáért az a szerv felel, amelyik az adatot továbbította.
+7/F. § (1) Az általános rendőri feladatok ellátására létrehozott szerv nyilvántartásaiból a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv és az idegenrendészeti szerv – feladatainak teljesítéséhez – a VIII. Fejezet szerint kérhet adatot. Az adattovábbítás jogszerűségéért és pontosságáért az a szerv felel, amelyik az adatot továbbította.
 
 (2) Ha az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv feladatellátása során hatáskörébe nem tartozó bűncselekményre utaló, vagy személyi védelem ellátásával, Védelmi Program előkészítésével és végrehajtásával, illetve személyvédelmi és létesítménybiztosítási feladattal összefüggő információ birtokába jut, azt haladéktalanul köteles átadni a hatáskörrel rendelkező szervnek. A terrorizmust elhárító szerv nem köteles az információt átadni, ha azzal veszélyeztetné a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátását.
 
@@ -330,9 +345,20 @@ e célból együttműködik az Európai Unió tagállamaival és szerveivel, az 
 
 7/G. § (1) A központi szerv képviseli a rendőrséget a nemzetközi rendvédelmi szervezetekben, különösen a Bűnügyi Rendőrség Nemzetközi Szervezetében (Interpol), a Bűnüldözési Együttműködés Európai Uniós Ügynökségében (EUROPOL), valamint – ha a miniszter másként nem rendelkezik – a két- és többoldalú nemzetközi szerződéseken alapuló rendészeti tárgyú nemzetközi kapcsolatokban.
 
-(2) Az (1) bekezdésben foglalt rendelkezés nem akadálya annak, hogy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv – külön jogszabályban meghatározottak szerint – az Interpollal és az Europollal, bármely Europol tagállam, illetve két- vagy többoldalú nemzetközi szerződés, vagy viszonosság alapján bármely más állam rendvédelmi szervével közvetlenül kapcsolatot tartson a központi szerv egyidejű tájékoztatása mellett.
+(2) Az (1) bekezdésben foglalt rendelkezés nem akadálya annak, hogy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint az idegenrendészeti szerv – külön jogszabályban meghatározottak szerint – az Interpollal és az Europollal, bármely Europol tagállam, illetve két- vagy többoldalú nemzetközi szerződés, vagy viszonosság alapján bármely más állam rendvédelmi szervével közvetlenül kapcsolatot tartson a központi szerv egyidejű tájékoztatása mellett.
 
-(3) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv – külön törvényben meghatározottak szerint – önállóan jogosultak a tevékenységükkel összefüggő feladatokat ellátó társszervekkel való együttműködésre, kapcsolattartásra, valamint e szervek nemzetközi szervezetei tevékenységében való közvetlen részvételre.
+(3) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint az idegenrendészeti szerv – külön törvényben meghatározottak szerint – önállóan jogosultak a tevékenységükkel összefüggő feladatokat ellátó társszervekkel való együttműködésre, kapcsolattartásra, valamint e szervek nemzetközi szervezetei tevékenységében való közvetlen részvételre.
+
+### Az idegenrendészeti szerv
+
+7/H. § (1) Az idegenrendészeti szerv az 1. § (2) bekezdés 20. pontjában meghatározott feladat keretében
+
+- a) ellátja a jogszabályban hatáskörébe utalt idegenrendészeti hatósági feladatokat,
+- b) ellátja a jogszabályban hatáskörébe utalt menekültügyi hatósági feladatokat,
+- c) ellátja a jogszabályban hatáskörébe utalt vízumhatósági, valamint útlevélhatósági feladatokat,
+- d) végrehajtja a feladat- és hatáskörébe utalt nemzetközi szerződésekből adódó feladatokat.
+
+(2) Az idegenrendészeti szerv nyomozóhatósági jogkört nem gyakorol.
 
 ### III. Fejezet — A RENDŐRSÉG EGYÜTTMŰKÖDÉSE
 
@@ -1530,7 +1556,8 @@ kezeli.
 
 - a) az általános rendőrségi feladatok ellátására létrehozott szervnél az országos rendőrfőkapitány,
 - b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél a főigazgató, valamint
-- c) a terrorizmust elhárító szervnél a főigazgató
+- c) a terrorizmust elhárító szervnél a főigazgató,
+- d) az idegenrendészeti szervnél a főigazgató
 
 által kijelölt szervezeti egység kezeli és dolgozza fel.
 
@@ -2008,6 +2035,12 @@ részére.
 
 91/T. § A terrorizmust elhárító szerv kezeli azokat az adatokat, amelyek a 7/E. § szerint meghatározott feladatai ellátásához – megelőzési, felderítési, felszámolási, személyvédelmi célból – szükségesek.
 
+### Az idegenrendészeti szerv adatkezelése
+
+91/U. § (1) Az idegenrendészeti szerv kezeli azokat az adatokat, amelyek a 7/H. § szerint meghatározott feladatai ellátásához – törvényben meghatározott célból – szükségesek.
+
+(2) A 91/Q. §-ban foglalt rendelkezések az idegenrendészeti szerv adatkezelésére nem alkalmazhatóak.
+
 ### IX. Fejezet — JOGORVOSLAT
 
 92. § (1) Akinek a IV–V. Fejezetben – a 46/A–46/C. § kivételével –, valamint a VI. Fejezetben meghatározott kötelezettség megsértése, a rendőri intézkedés, annak elmulasztása, a kényszerítő eszköz alkalmazása (e fejezet alkalmazásában a továbbiakban együtt: intézkedés) alapvető jogát sértette, választása szerint
@@ -2016,7 +2049,8 @@ részére.
 - b) kérheti, hogy – amennyiben a panasz elintézése nem tartozik más eljárás hatálya alá – panaszát a Testület által lefolytatott vizsgálatot követően, az érintett rendőri szerv kilététől függően
   - ba) az országos rendőrfőkapitány,
   - bb) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója vagy
-  - bc) a terrorizmust elhárító szerv főigazgatója
+  - bc) a terrorizmust elhárító szerv főigazgatója,
+  - bd) az idegenrendészeti szerv főigazgatója
 
 bírálja el.
 
@@ -2030,13 +2064,13 @@ bírálja el.
 
 (2) A Testület az alapvető jogot nem sértő, valamint az alapvető jogot csekély mértékben sértő intézkedéssel szemben előterjesztett panaszt az intézkedést foganatosító szerv vezetőjéhez átteszi, illetve ha az áttétel ellen a panaszos panaszában előzetesen tiltakozott, az eljárást megszünteti.
 
-(3) A Testület a rendőri szerveknél előterjesztett panaszokról felvilágosítást kérhet, és amennyiben a 92. § (1) bekezdése szerinti eljárásának feltételei fennállnak, erről a panaszost, illetve az eljáró rendőri szervet értesíti. A panaszos az értesítés kézhezvételétől számított nyolc napon belül kérheti, hogy panaszát az országos rendőrfőkapitány, vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója a Testület által lefolytatott vizsgálatot követően bírálja el. Az eljáró rendőri szerv a Testülettől kapott értesítés kézhezvételekor köteles az eljárását felfüggeszteni.
+(3) A Testület a rendőri szerveknél előterjesztett panaszokról felvilágosítást kérhet, és amennyiben a 92. § (1) bekezdése szerinti eljárásának feltételei fennállnak, erről a panaszost, illetve az eljáró rendőri szervet értesíti. A panaszos az értesítés kézhezvételétől számított nyolc napon belül kérheti, hogy panaszát az országos rendőrfőkapitány, vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója a Testület által lefolytatott vizsgálatot követően bírálja el. Az eljáró rendőri szerv a Testülettől kapott értesítés kézhezvételekor köteles az eljárását felfüggeszteni.
 
-(4) Amennyiben a panaszos a (3) bekezdés szerint határidőben kéri, hogy panaszát az országos rendőrfőkapitány, vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója a Testület által lefolytatott vizsgálatot követően bírálja el, a rendőri szerv köteles a panaszt a Testülethez áttenni. Amennyiben a Testület az eljáró rendőri szervet arról értesíti, hogy a határidő eredménytelenül eltelt, a rendőri szerv köteles az eljárását folytatni.
+(4) Amennyiben a panaszos a (3) bekezdés szerint határidőben kéri, hogy panaszát az országos rendőrfőkapitány, vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója a Testület által lefolytatott vizsgálatot követően bírálja el, a rendőri szerv köteles a panaszt a Testülethez áttenni. Amennyiben a Testület az eljáró rendőri szervet arról értesíti, hogy a határidő eredménytelenül eltelt, a rendőri szerv köteles az eljárását folytatni.
 
 (5) A Testület tagja az adott panasz kivizsgálásában, illetve az azzal összefüggő állásfoglalás kialakításában nem vehet részt, ha az ügy elintézéséből a közigazgatási hatósági eljárásra vonatkozó törvény rendelkezései szerint ki lenne zárva.
 
-(6) A 92. § alapján a rendőri szervekhez benyújtott panaszokról – a Testület által meghatározott adattartalommal – az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója havonta tájékoztatást küld a Testület számára.
+(6) A 92. § alapján a rendőri szervekhez benyújtott panaszokról – a Testület által meghatározott adattartalommal – az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója havonta tájékoztatást küld a Testület számára.
 
 93/A. § (1) A Testület a vizsgálata során a rendőrségtől felvilágosítást kérhet. A Testület az összes olyan iratba betekinthet, illetve iratról másolatot kérhet, adatot, körülményt, tényt, eljárást megismerhet, ami a vizsgált intézkedéssel összefügghet.
 
@@ -2048,21 +2082,21 @@ bírálja el.
 
 (5) A Testület felhatalmazása alapján a Testület tagja a Testület nevében az (1)–(4) bekezdésben meghatározott vizsgálati cselekményeket elvégezheti.
 
-(6) A Testület a panaszt kilencven nap alatt vizsgálja meg, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő. A Testület az állásfoglalását külső befolyástól mentesen alakítja ki. A Testület az állásfoglalását megküldi az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója és a terrorizmust elhárító szerv főigazgatója számára.
+(6) A Testület a panaszt kilencven nap alatt vizsgálja meg, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő. A Testület az állásfoglalását külső befolyástól mentesen alakítja ki. A Testület az állásfoglalását megküldi az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója és az idegenrendészeti szerv főigazgatója számára.
 
-(7) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója a panaszról harmincöt napon belül közigazgatási hatósági eljárásban dönt. Az ügyintézési határidő a Testület állásfoglalásának kézhezvételét követő napon indul. Ha az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója határozatban eltér a Testület állásfoglalásától, ezt köteles megindokolni.
+(7) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója a panaszról harmincöt napon belül közigazgatási hatósági eljárásban dönt. Az ügyintézési határidő a Testület állásfoglalásának kézhezvételét követő napon indul. Ha az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója határozatban eltér a Testület állásfoglalásától, ezt köteles megindokolni.
 
-(8) Az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója határozatának meghozatalát követően a Testület az állásfoglalását – a személyazonosító adatoktól megfosztva – honlapján közzéteszi, kivéve, ha a közzététel ellen a panaszos panaszában előzetesen tiltakozott.
+(8) Az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója határozatának meghozatalát követően a Testület az állásfoglalását – a személyazonosító adatoktól megfosztva – honlapján közzéteszi, kivéve, ha a közzététel ellen a panaszos panaszában előzetesen tiltakozott.
 
 (9)
 
-(10) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az intézkedést foganatosító szerv vezetője döntéseinek megküldésével tájékoztatja a Testületet azokban az ügyekben, amelyekben a Testület állásfoglalást alakított ki.
+(10) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, az idegenrendészeti szerv főigazgatója, valamint az intézkedést foganatosító szerv vezetője döntéseinek megküldésével tájékoztatja a Testületet azokban az ügyekben, amelyekben a Testület állásfoglalást alakított ki.
 
 93/B. § (1) Az intézkedést foganatosító szervhez benyújtott panaszt az intézkedést foganatosító szerv vezetője közigazgatási hatósági eljárásban bírálja el.
 
 (2) A panaszt az intézkedést követő harminc napon belül lehet előterjeszteni, és a beérkezéstől, illetve az áttételtől számított harmincöt napon belül kell elbírálni.
 
-(3) Az intézkedést foganatosító szerv vezetőjének a panasz elbírálása tárgyában hozott határozata ellen fellebbezésnek van helye. A fellebbezést az intézkedést foganatosító rendőri szerv vezetője felett irányítási jogkört gyakorló személy bírálja el. Ha a panaszt első fokon az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, vagy a terrorizmust elhárító szerv főigazgatója bírálta el, a határozat ellen a közigazgatási eljárásban fellebbezésnek helye nincs.
+(3) Az intézkedést foganatosító szerv vezetőjének a panasz elbírálása tárgyában hozott határozata ellen fellebbezésnek van helye. A fellebbezést az intézkedést foganatosító rendőri szerv vezetője felett irányítási jogkört gyakorló személy bírálja el. Ha a panaszt első fokon az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója vagy az idegenrendészeti szerv főigazgatója bírálta el, a határozat ellen a közigazgatási eljárásban fellebbezésnek helye nincs.
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -2118,7 +2152,8 @@ bírálja el.
 - l) állapítsa meg a kerékbilincs alkalmazásával, a járművek elszállításával, valamint az ezen intézkedések során felmerült költségekkel kapcsolatos szabályokat,
 - m) állapítsa meg a belső bűnmegelőzési célú ellenőrzés és a megbízhatósági vizsgálat részletes szabályait,
 - n) megállapítsa a segélyhívásokat fogadó szerv hatáskörét, feladatait, feladatai ellátásának részletes szabályait, továbbá kijelölje azon szerveket, szervezeteket, gazdasági társaságokat, amelyek együttműködésre kötelezettek a segélyhívásokat fogadó szervvel vagy a készenléti szervekkel és megállapítsa ezen együttműködés rendjét,
-- o) meghatározza a személyi védelemben részesíthető személyek körét és a személyi védelem ellátásának szabályait.
+- o) meghatározza a személyi védelemben részesíthető személyek körét és a személyi védelem ellátásának szabályait,
+- p) kijelölje az idegenrendészeti szervet, meghatározza annak tagozódását, továbbá az idegenrendészeti szerv hatáskörének és feladatai ellátásának részletes szabályait.
 
 (2)
 
@@ -2184,7 +2219,7 @@ bírálja el.
 
 - a) 1–2/A. §-a,
 - b) 4. §-a,
-- c) 4/A. § (1) és (2) bekezdése,
+- c) 4/A. § (1)–(2a) bekezdése,
 - d) 5–6. §-a,
 - e) 7–75/L. §-a,
 - f) 92–101. §-a, valamint

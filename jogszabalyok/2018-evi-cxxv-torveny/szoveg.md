@@ -1143,10 +1143,18 @@ A kormányzati szolgálati jogviszony a köz szolgálata és munkavégzés célj
 
 (3) Nem ruházható át:
 
-- a) a kormányzati igazgatási szerv alaplétszámába tartozó álláshelyen ellátandó feladat meghatározása,
+- a) a kormányzati igazgatási szerv alaplétszámába tartozó álláshelyen ellátandó feladat szabályzatban történő meghatározása,
 - b) a kormányzati igazgatási szerv alaplétszámába tartozó álláshely betöltése szakmai követelményeinek meghatározása,
-- c) az 53. § (4) bekezdése alapján betölteni engedélyezett, központosított álláshely-állományba tartozó álláshelyen ellátandó feladat meghatározása,
+- c) az 53. § (4) bekezdése alapján betölteni engedélyezett, központosított álláshely-állományba tartozó álláshelyen ellátandó feladat szabályzatban történő meghatározása,
 - d) az 53. § (4) bekezdése alapján betölteni engedélyezett, központosított álláshely-állományba tartozó állás betöltése szakmai feltételeinek meghatározása.
+
+(3a) A munkáltatói jogkör gyakorlója – a kormányzati igazgatási szerv, a kormánytisztviselő és a Nemzeti Közszolgálati Egyetem megállapodása alapján – álláshelyen ellátandó feladatként a Nemzeti Közszolgálati Egyetemen végzett oktatói, kutatói tevékenységet (a továbbiakban együtt: oktatási feladat) is meghatározhat.
+
+(3b) A (3a) bekezdés szerinti megállapodásban rögzíteni kell az oktatási feladat heti óraszámát, valamint – a Kormány rendeletében meghatározottak szerint – rendelkezni kell a feladatellátással összefüggő egyéb kérdésekről.
+
+(3c) Az oktatási feladat ellátása a kormányzati szolgálati jogviszonyt, valamint a munkáltatói jogok gyakorlását nem érinti. Az oktatási feladatot ellátó kormánytisztviselő a kinevezése szerinti illetményre és egyéb juttatásokra, kedvezményekre és támogatásokra jogosult. A kormánytisztviselő illetményét, a számára biztosított egyéb juttatásokat, kedvezményeket és támogatásokat, az ezzel járó közterheket és az oktatási feladat ellátásával felmerülő költségeket a kormányzati igazgatási szerv viseli.
+
+(3d) Az oktatási feladat ellátása az oktatásban, kutatásban, kutatásszervezésben szerzett szakmai tapasztalatnak minősül.
 
 (4) Ha a munkáltatói jogkört nem az arra jogosított személy gyakorolta, intézkedése érvénytelen, kivéve, ha a jogkör gyakorlója a jognyilatkozatot hat hónapon belül írásban jóváhagyta.
 
@@ -4037,7 +4045,7 @@ A kormányzati főhivatal vezetője és a kormányzati főhivatal vezetőjének 
 
 #### 244. § [A kormányzati főhivatal vezetőjének és a vezető helyettesének javadalmazása]
 
-(1) A kormányzati főhivatal vezetője államtitkári illetményre és kormányrendeletben meghatározott juttatásokra jogosult.
+(1) A kormányzati főhivatal vezetője az 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg. A kormányzati főhivatal vezetője a kormányrendeletben meghatározott juttatásokra jogosult.
 
 (2) A kormányzati főhivatal vezetőjének helyettese az 1. mellékletben meghatározott helyettes államtitkári álláshely szerinti illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg. A kormányzati főhivatal vezetőjének helyettese kormányrendeletben meghatározott juttatásokra jogosult.
 
@@ -4055,7 +4063,7 @@ A központi hivatal vezetője és a központi hivatal vezetőjének helyettese k
 
 #### 247. § [A központi hivatal vezetőjének és a helyettesének javadalmazása]
 
-(1) A központi hivatal vezetője államtitkári illetményre és kormányrendeletben meghatározott juttatásokra jogosult.
+(1) A központi hivatal vezetője az 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg. A központi hivatal vezetője a kormányrendeletben meghatározott juttatásokra jogosult.
 
 (2) A központi hivatal vezetőjének helyettese az 1. mellékletben meghatározott helyettes államtitkári álláshely szerinti illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg.
 
@@ -4073,7 +4081,7 @@ A főigazgató felett – a kinevezés, a felmentés, a fegyelmi eljárás megin
 
 #### 250. § [A főigazgató illetménye és egyéb juttatásai]
 
-(1) A főigazgató illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az állami költségvetésről szóló törvényben megállapított közszolgálati tisztviselői illetményalap (a továbbiakban: illetményalap) huszonhatszorosát nem haladhatja meg.
+(1) A főigazgató illetményét a munkáltatói jogkör gyakorlója állapítja meg akként, hogy a havi illetmény nem haladhatja meg az 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határát.
 
 (2) A főigazgatóra a 147. § nem alkalmazható.
 
@@ -4132,7 +4140,7 @@ A hivatalvezető kormányzati szolgálati jogviszonya megszűnik:
 
 #### 259. § [A hivatalvezető illetménye]
 
-A hivatalvezető illetményét a kormánymegbízott javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – legfeljebb az illetményalap huszonkétszeresében állapítja meg.
+A hivatalvezető illetményét a kormánymegbízott javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – állapítja meg azzal, hogy a havi illetmény nem haladhatja meg az 1. melléklet II. pontjában foglalt Illetménytábla szerinti főosztályvezetői illetmény felső határát.
 
 #### 260. § [A hivatalvezető-helyettes kinevezése]
 
@@ -4427,8 +4435,8 @@ foglalt táblázatban meghatározott előmeneteli fokozatokat kell figyelembe ve
 
 (5) A vezetői álláshelyet betöltő kormánytisztviselőt a (3) és a (4) bekezdésben meghatározott pótszabadság helyett vezetői pótszabadság illeti meg, amelynek mértéke
 
-- a) osztályvezetőnél évente tizenegy munkanap,
-- b) főosztályvezetőnél évente tizenhárom munkanap.
+- a) osztályvezetőnél, járási hivatalvezető-helyettesnél, igazgatónál évente tizenegy munkanap,
+- b) főosztályvezetőnél, főigazgatónál, hivatalvezetőnél évente tizenhárom munkanap.
 
 #### 275. § [A fegyelmi felelősség]
 
@@ -4640,7 +4648,7 @@ munkanapra emelkedik.
 - 11. pártfogó felügyelői feladatokat ellátó kormánytisztviselőinek belépési igazolványához szükséges adatok körét;
 - 12. belföldi kiküldetésen lévő kormánytisztviselő többletköltségei fedezetére és a napidíjára vonatkozó részletes szabályokat;
 - 13. a kormánytisztviselő ideiglenes – három hónapot meg nem haladó – külföldi kiküldetésére vonatkozó részletes szabályokat;
-- 14. az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban szakértőként résztvevő kormánytisztviselő kormányzati szolgálati jogviszonyára és köztisztviselő közszolgálati jogviszonyára, sajátos jogállására vonatkozó részletes szabályokat;
+- 14. az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban, illetve a nemzetközi szervezeteknél foglalkoztatott szakértőként résztvevő kormánytisztviselő kormányzati szolgálati jogviszonyára és köztisztviselő közszolgálati jogviszonyára, sajátos jogállására vonatkozó részletes szabályokat;
 - 15. a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott közszolgálati tisztviselők jogviszonyára, sajátos jogállására vonatkozó részletes szabályokat;
 - 16. a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően a kormánytisztviselők tekintetében a garantált bérminimum összegét és hatályát;
 - 17. a távmunkavégzésre és az otthoni munkavégzésre vonatkozó részletes szabályokat;
@@ -4652,7 +4660,8 @@ munkanapra emelkedik.
 - 23. az elhelyezkedési korlátozással érintett ágazatokat és álláshelyeket;
 - 24. a közszolgálati személyügyi nyilvántartásokra és a közszolgálati statisztikai adatgyűjtésre vonatkozó részletes szabályokat;
 - 25. a céljuttatásra vonatkozó részletes szabályokat;
-- 26. a fegyelmi eljárásra vonatkozó részletes szabályokat.
+- 26. a fegyelmi eljárásra vonatkozó részletes szabályokat;
+- 27. az oktatási feladat ellátására kötött megállapodás tartalmára vonatkozó részletes szabályokat.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
@@ -4857,20 +4866,22 @@ kell érteni.
 
 (2) Ha jogszabály
 
-- a) a Ksztv.-t vagy annak rendelkezését rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. június 30-áig a Ksztv. 2018. december 31-én hatályos szabályai,
-- b) az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletet vagy annak rendelkezését, illetve az állami vezetői juttatásokról szóló kormányrendeletet vagy annak rendelkezését rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. június 30-áig az állami vezetői juttatásokról szóló 275/2015. (IX. 21.) Korm. rendelet 2018. december 31-én hatályos szabályai
+- a) a Ksztv.-t vagy annak rendelkezését rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. december 31-éig a Ksztv. 2018. december 31-én hatályos szabályai,
+- b) az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletet vagy annak rendelkezését, illetve az állami vezetői juttatásokról szóló kormányrendeletet vagy annak rendelkezését rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. december 31-éig az állami vezetői juttatásokról szóló 275/2015. (IX. 21.) Korm. rendelet 2018. december 31-én hatályos szabályai
 
 az irányadóak.
 
 (3) Ha jogszabály
 
-- a) a miniszterelnök, a miniszter, az államtitkár Ksztv. szerinti javadalmazásának szabályait rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. június 30-áig e tisztségviselőnek a Ksztv. 2018. december 31-én hatályos szabályai szerinti javadalmazására vonatkozó szabályok,
-- b) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár vagy a helyettes államtitkár Ksztv. szerinti juttatásainak szabályait rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. június 30-áig e tisztségviselőnek a Ksztv. 2018. december 31-én hatályos szabályai szerinti juttatására vonatkozó szabályok,
-- c) a miniszterelnök közcélú felajánlásaira, adományaira vonatkozó Ksztv. szerinti szabályokat rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. június 30-áig a Ksztv. miniszterelnök közcélú felajánlásaira, adományaira vonatkozó szabályok
+- a) a miniszterelnök, a miniszter, az államtitkár Ksztv. szerinti javadalmazásának szabályait rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. december 31-éig e tisztségviselőnek a Ksztv. 2018. december 31-én hatályos szabályai szerinti javadalmazására vonatkozó szabályok,
+- b) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár vagy a helyettes államtitkár Ksztv. szerinti juttatásainak szabályait rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. december 31-éig e tisztségviselőnek a Ksztv. 2018. december 31-én hatályos szabályai szerinti juttatására vonatkozó szabályok,
+- c) a miniszterelnök közcélú felajánlásaira, adományaira vonatkozó Ksztv. szerinti szabályokat rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. december 31-éig a Ksztv. miniszterelnök közcélú felajánlásaira, adományaira vonatkozó szabályok
 
 az irányadóak.
 
-(4) Ha jogszabály a közigazgatási államtitkár vagy a helyettes államtitkár illetményére vonatkozó szabályokat rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. június 30-áig e tisztségviselőnek a Kttv. 2018. december 31-én hatályos szabályai szerinti illetményére vonatkozó szabályok az irányadóak.
+(3a) Ahol jogszabály a Kttv. 204. §-át rendeli alkalmazni, azon e törvény 216. §-át kell érteni.
+
+(4) Ha jogszabály a közigazgatási államtitkár vagy a helyettes államtitkár illetményére vonatkozó szabályokat rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2019. december 31-éig e tisztségviselőnek a Kttv. 2018. december 31-én hatályos szabályai szerinti illetményére vonatkozó szabályok az irányadóak.
 
 (5) Ahol jogszabály
 
@@ -4878,6 +4889,8 @@ az irányadóak.
 - b) állami ügykezelőt említ, azon az e törvény szerinti fővárosi és megyei kormányhivatal kormányzati ügykezelőjét
 
 kell érteni.
+
+(6) Ahol jogszabály kormányzati főhivatal vagy központi hivatal vezetőjének illetménye tekintetében az államtitkárra vonatkozó szabályokat rendeli alkalmazni, a 244. § (1) bekezdésében, illetve a 247. § (1) bekezdésében foglaltakat kell irányadónak tekinteni.
 
 #### 292. §
 
