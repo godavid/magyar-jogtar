@@ -329,6 +329,36 @@ indokolás nélkül felmondhatja.
 
 (2) Az (1) bekezdésben foglaltaktól kizárólag akkor lehet eltérni, ha azt jogszabály kifejezetten lehetővé teszi.
 
+### A díjtarifa megállapításhoz kapcsolódó szerződés- és káradatbázis
+
+24/A. § (1) A Felügyelet a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) 4. § (9) bekezdésében meghatározott céljai elérésének előmozdítása és az MNBtv. 39. § (1) bekezdés i) és p) pontjában meghatározott feladatainak ellátása céljából a díjtarifa megállapításához kapcsolódó, a kötelező gépjármű-felelősségbiztosításokra kiterjedő szerződés- és káradatbázist (a továbbiakban: KKTA) hoz létre és működtet.
+
+(2) A KKTA működéséhez a Felügyelet a Bit. 269. § (13) bekezdése szerinti adatszolgáltatás keretében megkapott adatokat használja fel, azzal, hogy a KKTA személyes adatot nem tartalmaz.
+
+(3) A KKTA – a (2) bekezdéssel összhangban – a következő adatköröket tartalmazza:
+
+- a) a szerződések és a részkárok azonosítói,
+- b) a szerződésekre (szerződőre, járműre) vonatkozó nem pénzösszeg típusú jellemzők,
+- c) a szerződésekre vonatkozó díjadatok,
+- d) a részkárokra vonatkozó nem pénzösszeg típusú jellemzők,
+- e) a kárkifizetésekre és kártartalékokra vonatkozó adatok,
+- f) a változó állományi típusú adatok hatálybalépésének, illetve a folyamat típusú adatok bekövetkeztének napjára vonatkozó adatok.
+
+(4) A 23. § (3) bekezdésében előírt kötelező díjhirdetéshez szükséges biztosításmatematikai számítások elvégzéséhez a Bit. 269. § (13) bekezdése szerinti adatszolgáltatást teljesítő biztosító a KKTA-ból díjmentesen, összesített szerződés- és káradatokat igényelhet.
+
+(5) A (4) bekezdés szerinti adatigénylést a Felügyelet olyan összesített formában teljesíti, hogy az adatok kellően részletezettek maradjanak a biztosításmatematikai számítások elvégzéséhez, azonban személyes adatot vagy üzleti titkot ne tartalmazzanak és a biztosítók beazonosítása ne váljon lehetővé.
+
+(6) A (4) bekezdés szerinti biztosító által igényelhető adatok köre a következőkre terjed ki:
+
+- a) a szerződésekre (szerződőre, járműre) vonatkozó nem pénzösszeg típusú jellemzők,
+- b) a részkárokra vonatkozó nem pénzösszeg típusú jellemzők,
+- c) a kárkifizetésekre és kártartalékokra vonatkozó adatok,
+- d) a változó állományi típusú adatok hatálybalépésének, illetve a folyamat típusú adatok bekövetkeztének napjára vonatkozó adatok.
+
+(7) A (4) bekezdés szerinti adatigényléshez a Felügyelet elektronikus lekérdező-felületet hoz létre, mely felülethez csak a Felügyelet és a biztosító fér hozzá.
+
+(8) Az adatigénylésre vonatkozó részletes szabályokat a Magyar Nemzeti Bank elnöke rendeletben állapítja meg.
+
 ### Bonus-malus rendszer
 
 25. § (1) Az üzemben tartó a kármentes időszakhoz igazodó díjkedvezményre (bonus) jogosult, illetve az okozott és a biztosító teljesítési kötelezettségét kiváltó káresemények számához igazodó díjtöbblet (malus) fizetésére köteles.
@@ -1003,7 +1033,7 @@ vizsgálatára terjed ki.
 
 (2) A Felügyelet az e törvényben, az elkülönített szervezeti egység tevékenységére vonatkozó jogszabályban, továbbá a felügyeleti határozatokban meghatározott feltételeknek való megfelelés teljesítése érdekében, határozott időtartamra szóló intézkedési terv kidolgozására, illetve – jóváhagyás esetén – az abban foglaltak végrehajtására kötelezheti az elkülönített szervezeti egységet.
 
-(3) A Felügyelet eljárására a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) 81–95. §-ai nem alkalmazhatók.
+(3) A Felügyelet eljárására az MNBtv. 81–95. §-ai nem alkalmazhatók.
 
 57/G. § (1) A MABISZ elkülönített szervezeti egysége kapcsolatot tart fenn a többi tagállam – a tagállamok gépjármű-felelősségbiztosításra vonatkozó jogszabályainak közelítéséről, valamint a Tanács 73/239/EGK és 88/357/EGK irányelveinek módosításáról szóló 2000. május 16-i 2000/26/EK európai parlamenti és tanácsi irányelv 6. cikk (1) bekezdésében meghatározottaknak megfelelően létrehozott – kártalanítási szervezeteivel és garanciaalapjaival, valamint információs központjaival.
 
@@ -1108,6 +1138,8 @@ rendeletben állapítsa meg.
 (3) Felhatalmazást kap a kormány tagja, hogy rendeletben megállapíthassa a biztosítási kötelezettség alól mentes gépjárművek körét, ezek nyilvántartására vonatkozó szabályokat, gépjárművek által okozott károk megtérítését és rendezését végző szerv kijelölését, a szerv működésére vonatkozó szabályokat és a mentesített gépjárművek igazolóeszközzel történő ellátására vonatkozó szabályokat.
 
 (4) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az egyedi szerződésekre vonatkozó díjtarifának, a gépjárműflottára kötött szerződésekre vonatkozó díjtarifának, továbbá fedezetlenségi díj tarifájának a Felügyelet honlapján történő meghirdetésének módjára vonatkozó részletes szabályokat rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy a KKTA-ból történő biztosítói adatigénylésre vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 ### Az Európai Unió jogának való megfelelés
 

@@ -49,7 +49,7 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 4. § (1) Kedvezményezettnek minősül
 
 - a) a magánszemély rendelkező nyilatkozata évének első napja előtt legalább
-  - aa) két évvel korábban bíróság által nyilvántartásba vett – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil tv.) szerinti – egyesület (kivéve a pártot, biztosító egyesületet, munkaadói és munkavállalói érdek-képviseleti szervezetet),
+  - aa) két évvel korábban bíróság által nyilvántartásba vett – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil tv.) szerinti – egyesület (kivéve kivéve a 4/A. § (1) bekezdés a) pontja alapján kedvezményezettnek minősülő szervezetet, a pártot, biztosító egyesületet, munkaadói és munkavállalói érdek-képviseleti szervezetet),
   - ab) két évvel korábban bíróság által nyilvántartásba vett alapítvány, közalapítvány,
 
 ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet végez, továbbá alapszabálya, alapító okirata szerint megfelel a Civil tv. 34. § (1) bekezdés d) pontja szerinti feltételnek;
@@ -85,10 +85,10 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 4/A. § (1) A 4. § (1) bekezdésében meghatározottakon túl kedvezményezettnek minősül
 
-- a) a bevett egyház (ide nem értve annak belső egyházi jogi személyét) a (2) bekezdésben meghatározottak szerint,
+- a) a vallási egyesület, a nyilvántartásba vett egyház, a bejegyzett egyház, a bevett egyház (ide nem értve ezek belső egyházi jogi személyeit) a (2) bekezdésben meghatározottak szerint,
 - b) a rendelkező nyilatkozat évére vonatkozó központi költségvetésről szóló törvényben – a felhasználásért felelős fejezet megjelölésével, kiemelt előirányzatként – meghatározott cél.
 
-(2) Az adóhatóság a bevett egyházat – kérelmére – technikai számmal látja el. A bevett egyház a technikai szám kiadásának évét követő évben válik kedvezményezetté.
+(2) Az adóhatóság a vallási egyesületet, a nyilvántartásba vett egyházat, a bejegyzett egyházat és a bevett egyházat – kérelmére – technikai számmal látja el. A vallási egyesület, a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház a technikai szám kiadásának évét követő évben válik kedvezményezetté.
 
 (3) Az adóhatóság hivatalból technikai számmal látja el az (1) bekezdés b) pontja szerinti kedvezményezettet.
 
@@ -191,7 +191,7 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 6/B. § (1) Az adóhatóság a rendelkező nyilatkozat évét követő időszakban a jogvitákat lezáró határozatok, valamint a 6. § (2) bekezdése és a 2. § (1) bekezdése alapján a 4/A. § (1) bekezdésében meghatározott kedvezményezetteket megillető összegről az egyházakkal való kapcsolattartás koordinációjáért felelős minisztert és az adópolitikáért felelős minisztert a rendelkező nyilatkozat évének augusztus 31-i tájékoztatójához kapcsolt pótlistán értesíti.
 
-(2) A 4/A. § (1) bekezdés a) pontja szerinti kedvezményezettnek az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter – az adóhatóság által a rendelkező nyilatkozat évének december 31. napjával meghatározott és az (1) bekezdés szerint a korábbi időszak pótlistája alapján – megnövelt összeget a rendelkező nyilatkozat évét követő év január 31-éig utalja át, feltéve, hogy a kedvezményezett az átutalás időpontjában is bevett egyházként van nyilvántartva.
+(2) A 4/A. § (1) bekezdés a) pontja szerinti kedvezményezettnek az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter – az adóhatóság által a rendelkező nyilatkozat évének december 31. napjával meghatározott és az (1) bekezdés szerint a korábbi időszak pótlistája alapján – megnövelt összeget a rendelkező nyilatkozat évét követő év január 31-éig utalja át, feltéve, hogy a kedvezményezett az átutalás időpontjában is vallási egyesületként, nyilvántartásba vett egyházként, bejegyzett egyházként, bevett egyházként van nyilvántartva.
 
 #### 6. A támogatás felhasználásának szabályai
 
@@ -332,3 +332,5 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 11. § (1) A 2016. adóévre vonatkozóan 2017. évben benyújtott rendelkező nyilatkozatok esetén a magánszemély adóazonosító jelének a rendelkező nyilatkozaton vagy a borítékon kell szerepelnie. A rendelkező nyilatkozatot érvényesnek kell tekinteni abban az esetben is, ha a magánszemély az 5. § (3) bekezdés a)–c) pontjában meghatározottakon túl lezárt postai borítékban személyesen, postán vagy elektronikus úton juttatta el az adóhatósághoz, és a rendelkező nyilatkozat az egyéb érvényességi feltételeknek megfelel. E rendelkezés nem befolyásolja a kedvezményezettek részére a 2017. évben tett rendelkező nyilatkozatok tekintetében nyújtott kiegészítő támogatásokat.
 
 (2) Az adóhatóság az érintett nyilatkozatokat az (1) bekezdés hatálybalépésének hónapját követő harmadik hónap végéig felülvizsgálja.
+
+12. § A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény módosításához kapcsolódóan egyes törvények módosításáról szóló 2019. évi XXXVI. törvénnyel megállapított 4. § (1) bekezdés a) pont aa) alpontja, 4/A. § (1) bekezdés a) pontja és (2) bekezdése, valamint 6/B. § (2) bekezdése első alkalommal a 2020. rendelkező évi nyilatkozatok esetében alkalmazandó.

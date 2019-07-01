@@ -218,7 +218,7 @@ azzal, hogy ha a magánszemély általános forgalmi adó fizetésére köteleze
 
 (2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhot fizet. Ettől eltérően, ha a magánszemély a kifizetést megelőzően nyilatkozik arról, hogy nyugdíjas, az ekho mértéke 11,1 százalék.
 
-(3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 19,5 százalék ekhót fizet.
+(3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 17,5 százalék ekhót fizet.
 
 (4) A kifizető a magánszemélyt terhelő ekhot levonással állapítja meg, ideértve azt az esetet is, ha a kifizetést számla alapján – akár egyéni vállalkozónak, akár más magánszemélynek – teljesíti, kivéve, ha a magánszemély az 5. § (3) bekezdése szerinti nyilatkozatot tesz.
 

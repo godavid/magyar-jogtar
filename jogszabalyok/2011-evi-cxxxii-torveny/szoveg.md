@@ -52,7 +52,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 - a) az Egyetem képzési és kutatási programjának elfogadása,
 - b) a szervezeti és működési szabályzat, valamint a minőségfejlesztési program elfogadása,
 - c) a minőség és teljesítmény alapján differenciáló jövedelemelosztás elveinek elfogadása,
-- d) az elemi költségvetés, az éves, illetve éven túli kötelezettségvállalási terv végrehajtása ütemtervének elfogadása,
+- d)
 - e) a számviteli rendelkezések alapján elkészített éves beszámoló elfogadása,
 - f) fejlesztés indítása, továbbá
 - g) az Egyetem költségvetésének elfogadása.
@@ -122,31 +122,84 @@ tölthet be.
 
 (2) Az egyetemi tanári pályázatokat a szenátus bírálja el és rangsorolja. A rektor a rangsorolt pályázatot benyújtó személyek közül a Fenntartó egyetértésével választott jelölttel létesíthet jogviszonyt.
 
+15/A. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 81. § (3a)–(3d) bekezdésében foglaltak szerint az Egyetem óraadó oktatója lehet az is, aki kormányzati szolgálati jogviszonyban áll. Az Egyetem részéről a Kit. 81. § (3a) bekezdése szerinti megállapodást a rektor a Fenntartó egyetértésével köti meg.
+
 16. § (1) Ha a közalkalmazott vezető, oktató, tudományos kutató és tanár hivatásos állományba kerül, a betöltött beosztását, munkakörét újabb pályázat elnyerése nélkül jogosult ellátni.
 
 (2) Az az oktató, tudományos kutató és tanár, akinek a hivatásos szolgálati viszonya neki fel nem róható okból megszűnt vagy aki a hivatásos szolgálat felső korhatárát elérte, kérésére állományviszonyának megváltoztatása mellett közalkalmazottként, pályázat kiírása nélkül, az eredeti munkakörében tovább foglalkoztatható, ha a munkakör ellátása nincs hivatásos szolgálati viszonyhoz kötve.
 
 (3) A (2) bekezdés szerinti felróhatóság szempontjából a hivatásos szolgálati viszony megszüntetésekor kiadott szolgálati viszonyra vonatkozó igazolás az irányadó.
 
-16/A. § A honvédségi szervezetnél beosztást betöltő, az Egyetemen megbízási szerződéssel foglalkoztatott óraadó oktatókat az Egyetem katonai alap- és mesterképzési szakjainak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.
+16/A. § A honvédségi szervezet, illetve a rendvédelmi szerv állományába tartozó és az Egyetemen megbízási szerződéssel foglalkoztatott óraadó oktatókat az Egyetem katonai, rendészeti, valamint nemzetbiztonsági alap- és mesterképzési szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.
+
+16/B. § (1) A közalkalmazotti jogviszonyt – a közalkalmazottak jogállásáról szóló törvényben meghatározottakon túl – felmentéssel megszüntetheti az Egyetem, ha
+
+- a) a feladatok hatékonyabb biztosítása érdekében a közalkalmazott munkakörében másik közalkalmazottat kíván alkalmazni,
+- b) a közalkalmazott a munkakörének betöltésére érdemtelenné vált,
+- c) az Egyetemen a teljes oktatói és tanári létszám által a tanításra fordított idő kötelező óraszámai összegének és az Egyetem által elindított szakok képzési terve alapján megtartott tanórák számának aránya meghaladja az 1,25-ös arányszámot a két egymást követő tanulmányi félév átlagában.
+
+(2) A közalkalmazottak jogállásáról szóló törvény közalkalmazotti jogviszonyra vonatkozó rendelkezései közül a felmentési időre, illetve a végkielégítésre vonatkozó rendelkezéseket az (1) bekezdés b) pontja esetében nem kell alkalmazni.
+
+16/C. § (1) Amennyiben olyan változás következik be a közalkalmazott munkakörébe tartozó feladatokban – így különösen az Egyetem feladatellátását érintő jogszabályváltozás esetén –, amelynek hatékony ellátására a közalkalmazott oktatási és tudományos tevékenysége, iskolai végzettsége, szakképzettsége vagy szakmai tapasztalata nem megfelelő, az Egyetem a munkakört más közalkalmazottal is betöltheti.
+
+(2) Az Egyetem köteles felajánlani annak lehetőségét, hogy a közalkalmazott a feladatok ellátásához szükséges (1) bekezdés szerinti követelményeket az Egyetem által biztosított határidőn belül teljesítse.
+
+(3) A közalkalmazott jogviszonyát az (1) bekezdésben foglalt okból megszüntetni kizárólag abban az esetben lehet, ha az Egyetemen a közalkalmazott oktatási és tudományos tevékenységének, iskolai végzettségének, szakképzettségének, szakmai tapasztalatának megfelelő, betölthető munkakör nincs, vagy az így felajánlott munkakört a közalkalmazott nem fogadja el.
+
+(4) A felajánlandó munkakör meglétéről, annak hiányáról, illetve a munkakör el nem fogadásának következményeiről a munkáltató köteles írásban tájékoztatni a közalkalmazottat.
+
+(5) A felmentés indokolásának tartalmaznia kell
+
+- a) az Egyetem érdekkörében felmerülő (1) bekezdés szerinti okot, és
+- b) azt a követelményt, amely a munkakör betöltéséhez szükséges, azonban a közalkalmazott azzal nem rendelkezik.
+
+(6) Az (1) bekezdés alapján történő felmentés nem alkalmazható, ha
+
+- a) az iskolai végzettség, illetve szakképzettség, szakmai tapasztalat Egyetem által biztosított határidőn belül történő megszerzésére a közalkalmazott kötelezettséget vállal, vagy
+- b) a közalkalmazott tudományos fokozatának, szakmai tapasztalatának megfelelő, betölthető munkakört a közalkalmazott elfogadja.
+
+16/D. § (1) A közalkalmazott jogviszonya felmentéssel megszüntethető érdemtelenség miatt. Az érdemtelenség indoka kizárólag a közalkalmazott magatartásában, illetve a munkavégzésében megnyilvánuló és bizonyítható tény lehet.
+
+(2) Érdemtelenségnek minősül, ha a közalkalmazott a munkahelyén vagy azon kívül olyan magatartást tanúsít, amely az őt foglalkoztató Egyetem jó hírnevét súlyosan sérti.
+
+(3) Az érdemtelenség jogcímén történő felmentés kezdeményezési jogát az Egyetem
+
+- a) az ennek alapjául szolgáló okról való tudomásszerzéstől számított harminc napon belül, legfeljebb azonban az annak bekövetkezését követő egy éven belül;
+- b) bűncselekmény elkövetése esetén a büntethetőség elévüléséig
+
+gyakorolhatja.
+
+(4) Az érdemtelenség megállapítására vonatkozó döntés meghozatala előtt a közalkalmazottnak lehetőséget kell adni a döntés alapjául szolgáló körülmények megismerésére és arra, hogy az arról való tájékoztatástól számított tizenöt napon belül védekezését előadhassa, bizonyítékait előterjeszthesse, kivéve, ha az eset összes körülményeiből következően az az Egyetemtől nem várható el.
 
 #### 2. A vezetőkre vonatkozó szabályok
 
 17. § (1) Az Egyetemen a következő magasabb vezetői megbízások adhatók:
 
 - a) rektor,
-- b) rektor-helyettes,
+- b) rektorhelyettes,
 - c) dékán,
 - d) gazdasági főigazgató,
-- e) főtitkár.
+- e) campus főigazgató,
+- f) főtitkár.
 
-(2) A vezetői beosztásokat nyilvános pályázat útján kell betölteni.
+(2) A campus főigazgató az Egyetem használatában lévő vagyon használatával, védelmével összefüggő feladatok ellátását irányítja.
+
+(3) Az Egyetemen a következő vezetői megbízások adhatók:
+
+- a) dékánhelyettes,
+- b) főigazgató-helyettes,
+- c) főtitkárhelyettes,
+- d) szervezeti egységek vezetői és vezetőhelyettesei.
+
+(4) Az (1) és (3) bekezdésben meghatározott megbízások pályázat útján adhatóak.
+
+(5) Az oktatói és a kutatói munkakör vonatkozásában az Nftv. 31. § (4) bekezdésében, valamint a magasabb vezetői és a vezetői megbízás tekintetében az Nftv. 37. § (6) bekezdésében meghatározott felső korhatárra vonatkozó korlátozás alól a Fenntartó felmentést adhat.
 
 18. § (1) A rektorhelyettest, a dékánt és a főtitkárt a rektor a Fenntartó előzetes egyetértésével bízza meg.
 
 (2) Rektorhelyettesi, illetve dékáni vezetői megbízást egyetemi tanár és egyetemi docens kaphat.
 
-(3) A gazdasági főigazgatót a rektor előterjesztésére a Fenntartó bízza meg, illetve vonja vissza vezetői megbízását az államháztartásért felelős miniszter előzetes tájékoztatása mellett.
+(3) A gazdasági főigazgatót és a campus főigazgatót a rektor előterjesztésére a Fenntartó bízza meg, illetve vonja vissza vezetői megbízását az államháztartásért felelős miniszter előzetes tájékoztatása mellett.
 
 (4) Az (1) bekezdés szerinti vezető megbízását – a saját kérésére vagy a szenátus javaslatára – a rektor a Fenntartó előzetes egyetértésével a határidő lejárta előtt visszavonhatja.
 
@@ -154,9 +207,9 @@ tölthet be.
 
 (2) Az Egyetem rendészeti szolgálati ismereteket oktató szervezeti egységeinek vezetőit az oktatott szakterület szerint illetékes országos parancsnok véleményét kikérve kell megbízni, illetve megbízásukat visszavonni.
 
-(3) Az Egyetem katonai felsőoktatási szervezeti egységeinek vezetőit a Honvéd Vezérkar főnökének véleményét kikérve kell megbízni, illetve megbízásukat visszavonni.
+(3) Az Egyetem katonai felsőoktatási szervezeti egységeinek vezetőit a Magyar Honvédség parancsnokának véleményét kikérve kell megbízni, illetve megbízásukat visszavonni.
 
-20. § A rektor köteles a képzési program honvédelemmel kapcsolatos katonai-szakmai követelményei vonatkozásában a Honvéd Vezérkar főnöke, a rendészeti ágazat rendészeti szakmai követelményei vonatkozásában az érintett országos parancsnok egyetértését beszerezni.
+20. § A rektor köteles a képzési program honvédelemmel és katonai nemzetbiztonsággal kapcsolatos katonai-szakmai követelményei vonatkozásában a honvédelemért felelős miniszter, a rendészeti ágazat rendészeti szakmai követelményei vonatkozásában az érintett országos parancsnok egyetértését beszerezni.
 
 ### V. Fejezet — AZ EGYETEM HALLGATÓI
 
@@ -226,7 +279,7 @@ kezeli.
 
 24. § A honvédtiszti alapképzésre és a rendészeti képzés nappali munkarendben történő alapképzésére az a 18. életévét betöltött, de a felvétel évében 25. életévét be nem töltött – a rendvédelmi szervek hivatásos állományú tagjai esetében 30 évesnél nem idősebb –, cselekvőképes, magyar állampolgársággal rendelkező személy vehető fel, aki a jelentkezők egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelel. További feltétel, hogy a hallgató hozzájárul a honvédtiszti alapképzés tekintetében a nemzetbiztonsági alkalmasságának ellenőrzéséhez, rendészeti képzés nappali munkarendben történő alapképzés tekintetében a kifogástalan életvitel ellenőrzéshez, és vállalja a tisztjelölti szolgálati viszony létesítését és fenntartását az alapképzés idejére.
 
-25. § A honvédtiszti alap- és mesterképzésben részt vevő hallgató hallgatói jogviszonya különleges jogrendben, valamint a katasztrófák megelőzése érdekében elrendelt közreműködés idején szünetelhet. A hallgatói jogviszony ettől eltérő szüneteltetését a Honvéd Vezérkar főnöke engedélyezheti.
+25. § A honvédtiszti alap- és mesterképzésben részt vevő hallgató hallgatói jogviszonya különleges jogrendben, valamint a katasztrófák megelőzése érdekében elrendelt közreműködés idején szünetelhet. A hallgatói jogviszony ettől eltérő szüneteltetését a Magyar Honvédség személyügyi szervének vezetője engedélyezheti.
 
 26. § (1) Az Egyetem vezetői és oktatói a tisztjelöltek vonatkozásában elöljárói vagy felettesi jogkör gyakorlására jogosultak az általuk vezetett foglalkozásokon.
 
@@ -252,7 +305,7 @@ kezeli.
 - d) kijelölés alapján alegységparancsnoki feladatokat ellátni,
 - e) megelőző védelmi helyzetben és rendkívüli állapot idején egyéb katonai feladat ellátására,
 - f) közreműködni a honvédelmi nevelés programjának megvalósításában, valamint
-- g) a Honvéd Vezérkar főnöke által elrendelt feladatokat ellátni.
+- g) a Magyar Honvédség parancsnoka által – a honvédelmi miniszter által kijelölt államtitkár egyetértésével – elrendelt oktatási és szocializációs feladatokat ellátni.
 
 (2) A rendészeti képzésben részt vevő hallgató köteles aktívan részt venni az oktatási-nevelési folyamatban, felkészülni a választott életpálya megkezdésére. Szolgálati feladatként köteles különösen:
 
@@ -270,7 +323,7 @@ kezeli.
 
 (5) Az (1) bekezdésben, valamint a (2) bekezdés f) és g) pontjában meghatározott feladatok ellátásában részt vevő hallgató tanulmányi kötelezettségeinek a feladatellátás ideje alatti mulasztását a tanulmányi és vizsgaszabályzatban meghatározott módon igazoltnak kell tekinteni, továbbá biztosítani kell számára a tanulmányi és vizsgakötelezettségei utólagos teljesítésének lehetőségét.
 
-31. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató, valamint a doktori képzésben részt vevő hivatásos vagy szerződéses állományú hallgató külföldi tanulmányokat a Honvéd Vezérkar főnökének engedélyével folytathat. A honvédtiszti alap- és mesterképzésben részt vevő hallgató esetében vendéghallgatói és további (párhuzamos) hallgatói jogviszony létesítéséhez, valamint a további szakképesítés, illetve szakképzettség megszerzéséhez szükséges tanulmányok folytatásához a Honvéd Vezérkar főnökének előzetes engedélye szükséges.
+31. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató, valamint a doktori képzésben részt vevő hivatásos vagy szerződéses állományú hallgató külföldi tanulmányokat a Magyar Honvédség parancsnokának engedélyével folytathat. A honvédtiszti alap- és mesterképzésben részt vevő hallgató esetében vendéghallgatói és további (párhuzamos) hallgatói jogviszony létesítéséhez, valamint a további szakképesítés, illetve szakképzettség megszerzéséhez szükséges tanulmányok folytatásához a Magyar Honvédség személyügyi szerve vezetőjének előzetes engedélye szükséges.
 
 (2) A rendészeti felsőoktatási alap-, mester- és doktori képzésben részt vevő hivatásos állományú hallgató külföldi tanulmányokat, résztanulmányokat az adott rendvédelmi szerv országos parancsnokának előzetes engedélyével folytathat. Vendéghallgatói jogviszonyt, illetve további (párhuzamos) hallgatói jogviszonyt az adott rendvédelmi szerv országos parancsnokának előzetes engedélyével létesíthet.
 
@@ -333,7 +386,7 @@ kezeli.
 
 (2) A katonai képzést folytató kar működésének dologi feltételeit a honvédelemért felelős miniszter biztosítja.
 
-(3) A Fenntartó hivatalának költségvetése az Egyetem költségvetésében szerepel.
+(3)
 
 (4) Az Egyetem költségvetésében kell biztosítani
 
@@ -347,6 +400,8 @@ kezeli.
 (5) A hallgatói juttatások és a doktori képzésben résztvevők támogatása tekintetében a költségvetés tervezése során az Nftv.-ben meghatározott normatívákat kell alkalmazni.
 
 (6) Az Egyetemre nem alkalmazandók az oktatásért felelős miniszter által biztosított támogatások szabályai.
+
+(7) Az Egyetem költségvetési forrásai terhére az Egyetem alapító okiratban meghatározott feladataival és alaptevékenységével összefüggésben támogatás, adomány és más ellenérték nélküli kötelezettség vállalható, valamint kifizetés teljesíthető.
 
 37. § A térítési díjból és a költségtérítésből befolyt összeget az Egyetem és az adott kar a szervezeti és működési szabályzatban meghatározott arányban jogosult felhasználni.
 
@@ -449,6 +504,8 @@ kezeli.
 - b) a felügyeletet gyakorló miniszter által már engedélyezett
 
 képzésekre.
+
+55/A. § Az egyes közszolgálati tárgyú törvények módosításáról szóló 2019. évi LIX. törvénnyel (a továbbiakban: Módtv.3.) megállapított 16/B. § (1) bekezdés c) pontját a Módtv.3. hatálybalépésekor folyamatban lévő tanévtől kell alkalmazni.
 
 56. § Az 55. §-hoz kapcsolódóan, a felügyeletet gyakorló miniszter az általa felügyelt felsőoktatás vonatkozásában meghatározza a 41. § (2) bekezdés szerint megállapított létszámkereten belül a hallgatói létszámok intézményenkénti és – az Egyetem kivételével – szakonkénti elosztását.
 
