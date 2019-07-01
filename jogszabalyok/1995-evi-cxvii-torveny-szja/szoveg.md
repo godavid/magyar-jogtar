@@ -833,7 +833,7 @@ kell jövedelemnek tekinteni. A kötelező várakozási időszak leteltét köve
 
 ### Az összevont adóalap megállapítása
 
-29. § Az összevont adóalap az adóévben adókötelezettség alá eső valamennyi önálló, nem önálló tevékenységből származó, valamint egyéb bevételből megállapított jövedelem, továbbá átalányadózás esetén az egyéni vállalkozói, a mezőgazdasági kistermelői bevételből az átalányban megállapított jövedelem. Ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették), a megállapított jövedelem 84 százalékát kell jövedelemként figyelembe venni.
+29. § Az összevont adóalap az adóévben adókötelezettség alá eső valamennyi önálló, nem önálló tevékenységből származó, valamint egyéb bevételből megállapított jövedelem, továbbá átalányadózás esetén az egyéni vállalkozói, a mezőgazdasági kistermelői bevételből az átalányban megállapított jövedelem. Ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették), a megállapított jövedelem 85 százalékát kell jövedelemként figyelembe venni.
 
 ### Családi kedvezmény
 
@@ -1182,7 +1182,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 (4) Nem kell adóelőleg-alapot megállapítani az őstermelői tevékenységből származó bevétel esetén, amíg annak összege az adóév elejétől összesítve az adóévben nem haladja meg a nemleges bevallási nyilatkozat megtételére jogosító összeghatárt, ha azonban meghaladta, akkor az adóelőleg-alapot az adóévben megszerzett összes őstermelői tevékenységből származó bevétel alapján kell megállapítani.
 
-(5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 84 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
+(5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 85 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
 
 (6)–(9)
 
@@ -3026,7 +3026,7 @@ a) baleseti járadék,
 
 b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltötte;
 
-1.3. az állami szociális rendszer keretében, illetőleg a helyi önkormányzat, továbbá az egyházi jogi személy által nyújtott szociális segély, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott pénzbeli ellátások, a nevelési díj és a nevelőszülőt a nevelési díj mellett megillető külön ellátmány, valamint az utógondozói ellátás, a szociális igazgatásról és szociális ellátásokról szóló törvény alapján nyújtott pénzbeli és természetbeni ellátások, ideértve a települési támogatást is, a vakok személyi járadéka, a rokkantsági járadék, a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló jogszabály alapján adható támogatás, a fogyatékossági támogatás, a hadigondozási pénzellátások, a nemzeti gondozásról szóló törvény alapján folyósított nemzeti gondozási díj, valamint a munkáltatótól, az érdekvédelmi szervezettől az elhunyt házastársa vagy egyeneságbeli rokona részére folyósított temetési segély, továbbá az önsegélyező feladatot is vállaló egyesület, önsegélyező egyesület által nyújtott szociális segély azzal, hogy e rendelkezés alkalmazásában önsegélyező feladat ellátásának minősül a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben felsorolt ellátásokat kiegészítő juttatások nyújtása;
+1.3. az állami szociális rendszer keretében, illetőleg a helyi önkormányzat, továbbá az egyházi jogi személy által nyújtott szociális segély, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott pénzbeli ellátások, a nevelési díj és a nevelőszülőt a nevelési díj mellett megillető külön ellátmány, valamint az utógondozói ellátás, a szociális igazgatásról és szociális ellátásokról szóló törvény alapján nyújtott pénzbeli és természetbeni ellátások, ideértve a települési támogatást is, a vakok személyi járadéka, a rokkantsági járadék, a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló jogszabály és a nagycsaládok személygépkocsi-szerzési támogatásáról szóló jogszabály alapján adható támogatás, a fogyatékossági támogatás, a hadigondozási pénzellátások, a nemzeti gondozásról szóló törvény alapján folyósított nemzeti gondozási díj, valamint a munkáltatótól, az érdekvédelmi szervezettől az elhunyt házastársa vagy egyeneságbeli rokona részére folyósított temetési segély, továbbá az önsegélyező feladatot is vállaló egyesület, önsegélyező egyesület által nyújtott szociális segély azzal, hogy e rendelkezés alkalmazásában önsegélyező feladat ellátásának minősül a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben felsorolt ellátásokat kiegészítő juttatások nyújtása;
 
 1.4. az intézeti vagy állami nevelésbe vett kiskorú családban való gondozásáért, neveléséért, valamint a gyógyintézet által ápolásra kihelyezett beteg gondozásáért a gyógyintézettől kapott díj, illetve térítés;
 
@@ -3296,7 +3296,7 @@ a) mint károsult, jogszabályban meghatározott feltételek szerint, közadakoz
 
 b) tartásdíjként jogszabályban meghatározott kötelezettség alapján, ideértve a jogszabályban meghatározott kötelezettség alapján megállapított tartásdíj helyett fizetett összeget is,
 
-c) kártalanításként (ideértve a kisajátítással összefüggő járulékos költségek megtérítését, valamint a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), kárpótlásként, kártérítésként, sérelemdíjként, kivéve a jövedelmet pótló kártalanítást, kárpótlást és kártérítést,
+c) kártalanításként (ideértve a kisajátítással összefüggő járulékos költségek megtérítését, valamint a kisajátítás alapjául szolgáló közérdekű célra megvásárolt ingatlan vételárát is), kárpótlásként, kártérítésként, sérelemdíjként, vagyoni elégtételként, kivéve a jövedelmet pótló kártalanítást, kárpótlást és kártérítést,
 
 d) mint bűncselekmény áldozata, támogatásként az áldozatsegítő szolgálattól,
 
@@ -3485,6 +3485,8 @@ b)
 7.40. a közlekedési alapismeretek tanfolyam és vizsga díjából jogszabály alapján visszatérített összeg;
 
 7.41. a Kormány egyedi döntésével a központi költségvetés által biztosított forrás terhére, a lakosság széles köre részére a helyi önkormányzat közreműködésével természetben biztosított juttatás vagy ennek pénzbeli térítése révén megszerzett bevétel.
+
+7.42. a babaváró támogatásról szóló kormányrendelet szerinti kamattámogatás és gyermekvállalási támogatás.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 

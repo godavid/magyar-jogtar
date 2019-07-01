@@ -388,7 +388,7 @@ végezhet.
 
 (6) A szövetkezeti formában működő szövetkezeti hitelintézet a 3. § (1) és (2) bekezdésében, valamint a 7. § (3) bekezdésében megjelölt tevékenységet, illetve kiegészítő tevékenységet végezhet.
 
-(7) A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben (a továbbiakban: Szhitv.) meghatározott Integrációs Szervezethez csatlakozott hitelintézetekre vonatkozó további, e törvénytől eltérő, illetve az e törvényt kiegészítő szabályokat a Szhitv. állapítja meg.
+(7) A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben (a továbbiakban: Szhitv.) meghatározott Integrációs Szervezethez csatlakozott pénzügyi intézményekre vonatkozó további, e törvénytől eltérő, illetve az e törvényt kiegészítő szabályokat a Szhitv. állapítja meg.
 
 (8) A hitelszövetkezet a (6) bekezdésben meghatározott tevékenységeket – a pénzváltás kivételével – csak saját tagjai körében végezheti.
 
@@ -2739,7 +2739,7 @@ szerzett.
 (3) A (2) bekezdésben előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
 
 - a) MNB-vel
-- b) OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró központi bankjával és az ugyanezen törvényben leírt kötelező intézményvédelmi szervezettel,
+- b) OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró integrációs üzleti irányító szervezetével és az ugyanezen törvényben leírt kötelező intézményvédelmi szervezettel,
 - c) nemzetbiztonsági szolgálattal,
 - d) Állami Számvevőszékkel,
 - e) Gazdasági Versenyhivatallal,
@@ -2791,7 +2791,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
-- a) a feladatkörében eljáró MNB-vel, OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró központi bankjával, kötelező intézményvédelmi szervezettel, valamint az Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+- a) a feladatkörében eljáró MNB-vel, OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró integrációs üzleti irányító szervezetével, kötelező intézményvédelmi szervezettel, valamint az Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 - d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
@@ -3938,7 +3938,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 (1a) Ha az OBA hozzájárul egy hitelintézet szanálásának finanszírozásához, a hozzájárulás összegének erejéig az OBA-nak követelése keletkezik az érintett hitelintézettel szemben, amely követelést az 57. § (1) bekezdés a) pontja szerinti kielégítési csoportba szükséges sorolni.
 
-(1b) Az OBA a 217. § (1) bekezdésében meghatározott esetekben a szövetkezeti hitelintézetek integrációjában részvevő hitelintézettel szembeni követelését az Szhitv.-ben meghatározott egyetemlegesség alapján jogosult érvényesíteni a Szövetkezeti Hitelintézetek Tőkefedezeti Alapjával, az Integrációs Szervezettel, a Központi Bankkal, illetve a többi szövetkezeti hitelintézettel szemben.
+(1b) Az OBA a 217. § (1) bekezdésében meghatározott esetekben a szövetkezeti hitelintézetek integrációjában részvevő hitelintézettel szembeni követelését az Szhitv.-ben meghatározott egyetemlegesség alapján jogosult érvényesíteni a Szövetkezeti Hitelintézetek Tőkefedezeti Alapjával, az Integrációs Szervezettel, illetve annak tagjaival szemben.
 
 (2) Az OBA-ból a kártalanításra jogosult személy részére történt bármilyen kifizetés esetén az érintett hitelintézet az OBA által kifizetett összeget és a kifizetéshez kapcsolódóan az OBA-nál felmerült költségeket köteles az OBA-nak visszafizetni, megfizetni. E kötelezettség akkor is fennáll, ha a hitelintézet OBA-ban való tagsága megszűnt.
 

@@ -196,7 +196,11 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
   - ab) a gyermek (személy) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma nem haladta meg az ötöt; vagy
 - b) a (2) bekezdésben meghatározott esetek valamelyike következett be.
 
-16–18. §
+16. §
+
+17. §
+
+18. §
 
 ### III. Fejezet — GYERMEKGONDOZÁSI TÁMOGATÁSOK
 
@@ -367,11 +371,15 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 (2) A családtámogatási ellátásokat kormányrendeletben meghatározottak szerint kell folyósítani.
 
-(3)–(4)
+(3)
+
+(4)
 
 (4a)
 
-(5)–(6)
+(5)
+
+(6)
 
 (7)
 
@@ -530,17 +538,25 @@ közvetlen lekérdezéssel díjmentesen elérheti.
 
 (2) A gyermekgondozási segélyt 2016. január 1-jétől gyermekgondozást segítő ellátásként kell továbbfolyósítani, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5)
 
-(6)–(7)
+(6)
+
+(7)
 
 (8)
 
 50/A. §
 
-50/B. §
+50/B. § (1) Az állam – a (2) és (3) bekezdésben, valamint kormányrendeletben meghatározott feltételek mellett – készfizető kezesként felel a központi költségvetés terhére a hitelintézettől igényelt, 2019. július 1-je és 2022. december 31-e között megkötött hitelszerződés alapján folyósított, kormányrendeletben meghatározott babaváró támogatással nyújtott kölcsönre.
+
+(2) Az állami kezességvállalás mértéke a babaváró támogatással nyújtott kölcsön tőkeösszegének és az erre felszámított ügyleti kamatnak a 100%-a.
+
+(3) A babaváró támogatással nyújtott kölcsön biztosítékaként az állami készfizető kezességvállaláson túl a hitelintézet további biztosíték előírására nem jogosult.
 
 50/C. §
 
@@ -555,7 +571,8 @@ közvetlen lekérdezéssel díjmentesen elérheti.
   - ba) – az egészségügyért felelős miniszterrel egyetértésben – a magasabb összegű családi pótlékra jogosító betegségek körét, valamint az erről szóló igazolások kiadásának rendjét,
   - bb) a családtámogatási ellátások igényléséhez szükséges formanyomtatványok tartalmát;
 - c) a Kormány arra, hogy a 2. § a) pont ac)–af) alpontjában meghatározott személyekre vonatkozó családtámogatási ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos végrehajtási szabályokat rendeletben határozza meg;
-- d) a Kormány, hogy a családtámogatási ügyben eljáró hatóságot és a központi családtámogatási szervet rendeletben kijelölje.
+- d) a Kormány, hogy a családtámogatási ügyben eljáró hatóságot és a központi családtámogatási szervet rendeletben kijelölje;
+- e) a Kormány arra, hogy rendeletben szabályozza a babaváró támogatással nyújtott kölcsönhöz kapcsolódó állami kezességvállalás részletes szabályait.
 
 52. §
 
