@@ -14,11 +14,7 @@ egyes belügyi tárgyú és más kapcsolódó törvények módosításáról
 
 4. §
 
-5. § Az Nytv. 21. § q) pontja helyébe a következő rendelkezés lép:
-
-[E törvény felhatalmazása alapján a 17. § (2) bekezdésének b) pontja szerinti adatokat jogosultak igényelni:]
-
-„q) a kincstár a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, valamint az értesítési cím adatok, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a TAJ szám nyilvántartásának vezetésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben;”
+5. §
 
 6. §
 
@@ -153,31 +149,13 @@ egyes belügyi tárgyú és más kapcsolódó törvények módosításáról
 
 #### 7. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-51. § (1) A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaztv.) 21. § (7) bekezdése helyébe a következő rendelkezés lép:
+51. §
 
-„(7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát, valamint lakcímét közli a kincstárral a TAJ-szám képzésével és nyilvántartásával kapcsolatos feladatok ellátása céljából.”
+52. §
 
-(2) A Szaztv. 21. §-a a következő (7a) bekezdéssel egészül ki:
+53. §
 
-„(7a) Az újszülött részére az egészségbiztosítási szerv a kincstár adatátadása alapján a TAJ-számot tartalmazó hatósági igazolványt hivatalból adja ki.”
-
-52. § A Szaztv. 23. §-a a következő q) ponttal egészül ki:
-
-(A TAJ számot a következő szervek az alábbiakban meghatározott célból kezelhetik:)
-
-„q) a kincstár a TAJ-szám képzésével és nyilvántartásával kapcsolatos feladatok ellátása céljából.”
-
-53. § A Szaztv. 24. § k) pontja bekezdése helyébe a következő rendelkezés lép:
-
-(A TAJ szám továbbítására jogosultak:)
-
-„k) a kincstár a 20. § (2) bekezdés g) pontjában, valamint a 21. § (7a) bekezdésben meghatározott feladatai teljesítéséhez;”
-
-54. § (1) A Szaztv. 37. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – köteles rendszeres adatszolgáltatást teljesíteni:)
-
-„d) a kincstárnak a TAJ szám nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről, továbbá az Nytv. hatálya alá tartozó újszülöttek nyilvántartásában szereplő adatairól;”
+54. § (1)
 
 (2)
 
@@ -185,11 +163,11 @@ egyes belügyi tárgyú és más kapcsolódó törvények módosításáról
 
 56. §
 
-57. § A Szaztv. 21. § (1) bekezdésében és 22. §-ában az „az egészségbiztosítási szerv” szövegrész helyébe az „a kincstár” szöveg lép.
+57. §
 
-58. § Hatályát veszti a Szaztv.
+58. §
 
-- a) 37. § (1) bekezdés b) pontjában a „ , továbbá az Nytv. hatálya alá tartozó újszülöttek nyilvántartásában szereplő adatairól” szövegrész,
+- a)
 - b)
 
 #### 8. A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény módosítása

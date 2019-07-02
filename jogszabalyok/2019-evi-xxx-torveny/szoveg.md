@@ -81,7 +81,7 @@ kell adni.
 
 8. § A 3. §, a 4. § (2) bekezdése, a 6. § (1) és (2) bekezdése, valamint a 9. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-9. § Hatályát veszti az Nvtv. 2. melléklet III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő, műemléki védelem alatt álló építmények és építményegyüttesek cím 1. pontjában foglalt táblázat 1.48. sora.
+9. §
 
 ### 1. melléklet a 2019. évi XXX. törvényhez
 
