@@ -225,9 +225,9 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 ### Szülészeti ellátás
 
-15. § (1) A biztosított a 14. § rendelkezései szerint jogosult a magzat méhen belüli gyógykezelésére, továbbá szülészeti ellátásra és várandósságának orvosi indikáció alapján történő megszakítására. A biztosított külön jogszabály rendelkezései szerint jogosult anyatejellátásra.
+15. § (1) A biztosított a 14. § rendelkezései szerint jogosult a magzat méhen belüli gyógykezelésére, továbbá szülészeti ellátásra és várandósságának orvosi indikáció alapján történő megszakítására. A biztosított jogszabály rendelkezése alapján jogosult anyatejellátásra.
 
-(2) A biztosított orvosi indikáció alapján külön jogszabályban foglalt feltételekkel jogosult a meddőség kezelésére.
+(2) A biztosított orvosi indikáció alapján jogszabályban meghatározott feltételekkel jogosult a meddőség kezelésére.
 
 ### Orvosi rehabilitáció
 
@@ -1827,7 +1827,7 @@ kell érteni.
 
 ### XI. Fejezet — Átmeneti rendelkezések
 
-82. § (1) A kötelező egészségbiztosítás pénzbeli ellátásaira, illetőleg baleseti ellátásra való jogosultság megállapítása iránti ügyekben e törvény rendelkezéseit a törvény hatálybalépését követően induló ügyekben kell alkalmazni.
+82. § (1) A kötelező egészségbiztosítás pénzbeli ellátásaira, valamint a baleseti ellátásra való jogosultság megállapítása iránti ügyekben e törvény rendelkezéseit a törvény hatálybalépését követően induló ügyekben kell alkalmazni.
 
 (2)
 

@@ -219,6 +219,12 @@ közül a magasabb összeg.
 
 számított 15 napon belül kell kezdeményezni.
 
+11. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a köztulajdonban álló gazdasági társaságok belső kontrollrendszerére vonatkozó részletszabályokat, valamint a köztulajdonban álló gazdasági társaságnál belső ellenőrzési tevékenység folytatására jogosult személyekről vezetett nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat.
+
+(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg a belső ellenőrzési tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító bejelentés rendjét, a bejelentések alapján vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, továbbá a belső ellenőrzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények részletes szabályait, továbbá a nyilvántartásba vétel iránti eljárásért, valamint a nyilvántartásba bejegyzett adatok módosítása vagy törlése iránti eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+
+12. § A 7/J. § a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9–10. cikkének, valamint a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja.
+
 ### 1. melléklet 2009. évi CXXII. törvényhez
 
 |  | A 7/I. § (1) bekezdés szerinti adatok | A korlátozás maximális időtartama (év) |

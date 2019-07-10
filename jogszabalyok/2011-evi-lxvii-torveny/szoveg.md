@@ -90,6 +90,8 @@ alapján előterjesztett, tartási igénnyel kapcsolatos kérelmek (a továbbiak
 
 17. § A központi hatóság az általa rendszeresített kérelemnyomtatványt közzéteszi a honlapján és az ügyfélfogadásra nyitva álló helyiségeiben.
 
+17/A. § A központi hatóság közreműködik a külföldön behajtott tartásdíj kérelmezőnek történő eljuttatásában, ha a tartásdíj külföldről a kérelmezőnek közvetlenül nem küldhető meg.
+
 ### III. Fejezet — KÜLFÖLDRŐL ÉRKEZŐ KÉRELMEK INTÉZÉSE
 
 #### 6. A kérelem teljesítésének előkészítése

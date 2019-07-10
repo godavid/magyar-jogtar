@@ -476,12 +476,12 @@ gyakorolja.
 19. § (1) A rendszeres gyermekvédelmi kedvezményre való jogosultság megállapításának célja annak igazolása, hogy a gyermek szociális helyzete alapján jogosult
 
 - a) a 21/B. §-ban meghatározott ingyenes vagy kedvezményes intézményi gyermekétkeztetésnek és – ha megfelel a 21/C. §-ban foglalt feltételeknek – a szünidei gyermekétkeztetésnek,
-- b) a 20/A. §-ban meghatározott természetbeni támogatásnak,
+- b) a 20/A. §-ban meghatározott pénzbeli támogatásnak,
 - c) az e törvényben és más jogszabályban meghatározott egyéb kedvezményeknek
 
 az igénybevételére.
 
-(1a) A rendszeres gyermekvédelmi kedvezményre jogosult gyermek után a gyermek családbafogadó gyámjául kirendelt hozzátartozó pénzbeli ellátásra jogosult, ha
+(1a) A rendszeres gyermekvédelmi kedvezményre jogosult gyermek után a gyermek családbafogadó gyámjául kirendelt hozzátartozó kiegészítő pénzbeli ellátásra jogosult, ha
 
 - a) a gyermek tartására köteles, és
 - b) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban, megváltozott munkaképességű személyek ellátásaiban, időskorúak járadékában vagy olyan ellátásban részesül, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik.
@@ -532,7 +532,7 @@ meghaladja, azzal, hogy nem minősül vagyonnak az az ingatlan, amelyben a szül
 - a) nappali oktatás munkarendje szerint tanulmányokat folytat és 23. életévét még nem töltötte be, vagy
 - b) felsőfokú oktatási intézmény nappali tagozatán tanul és a 25. életévét még nem töltötte be, és a nagykorúvá válását megelőző második hónap első napja, valamint a nagykorúvá válását megelőző nap közötti időszakban legalább egy napig rendszeres gyermekvédelmi kedvezményre volt jogosult.
 
-(3) A rendszeres gyermekvédelmi kedvezményre való jogosultságot, ideértve a 19. § (1a) bekezdés szerinti pénzbeli ellátásra való jogosultságot is, a gyámhatóság – hivatalból vagy kérelemre – felülvizsgálja, ha a megállapított jogosultság időtartama alatt a jogosultsági feltételekben változás következett be.
+(3) A rendszeres gyermekvédelmi kedvezményre való jogosultságot, ideértve a 19. § (1a) bekezdés szerinti kiegészítő pénzbeli ellátásra való jogosultságot is, a gyámhatóság – hivatalból vagy kérelemre – felülvizsgálja, ha a megállapított jogosultság időtartama alatt a jogosultsági feltételekben változás következett be.
 
 (4) A rendszeres gyermekvédelmi kedvezményre való jogosultság
 
@@ -546,31 +546,31 @@ meghaladja, azzal, hogy nem minősül vagyonnak az az ingatlan, amelyben a szül
 - a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjára tekintettel,
 - b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjára tekintettel
 
-alapösszegű természetbeni támogatást nyújt fogyasztásra kész étel, ruházat, valamint tanszer vásárlására felhasználható Erzsébet-utalvány formájában, feltéve, hogy a gyermek, fiatal felnőtt az a) és b) pont szerinti időpontban a gyámhatóság határozata alapján nem minősül a 67/A. §-ban foglaltak szerint hátrányos vagy halmozottan hátrányos helyzetűnek.
+alapösszegű pénzbeli támogatást folyósít, feltéve, hogy a gyermek, fiatal felnőtt az a) és b) pont szerinti időpontban a gyámhatóság határozata alapján nem minősül a 67/A. §-ban foglaltak szerint hátrányos vagy halmozottan hátrányos helyzetűnek.
 
 (2) A gyámhatóság annak a gyermeknek, fiatal felnőttnek, akinek a 67/A. § szerinti hátrányos vagy halmozottan hátrányos helyzete és rendszeres gyermekvédelmi kedvezményre való jogosultsága a gyámhatóság határozata alapján
 
 - a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjára tekintettel,
 - b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjára tekintettel
 
-emelt összegű természetbeni támogatást nyújt fogyasztásra kész étel, ruházat, valamint tanszer vásárlására felhasználható Erzsébet-utalvány formájában.
+emelt összegű pénzbeli támogatást folyósít.
 
 (3) Az (1) és (2) bekezdés szerinti támogatás esetenkénti összegéről az Országgyűlés a központi költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
 
 20/B. § (1)–(2)
 
-(3) A pénzbeli ellátás havi összege – gyermekenként – az öregségi nyugdíj mindenkori legkisebb összegének 22 százaléka.
+(3) A kiegészítő pénzbeli ellátás havi összege – gyermekenként – az öregségi nyugdíj mindenkori legkisebb összegének 22 százaléka.
 
-(4) A gyámhatóság annak a családbafogadó gyámként kirendelt hozzátartozónak, akinek pénzbeli ellátásra való jogosultsága
+(4) A gyámhatóság annak a családbafogadó gyámként kirendelt hozzátartozónak, akinek kiegészítő pénzbeli ellátásra való jogosultsága
 
-- a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjában – az augusztus hónapra járó pénzbeli ellátás összege mellett –,
-- b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjában – a november hónapra járó pénzbeli ellátás összege mellett –
+- a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjában – az augusztus hónapra járó kiegészítő pénzbeli ellátás összege mellett –,
+- b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjában – a november hónapra járó kiegészítő pénzbeli ellátás összege mellett –
 
 pótlékot folyósít.
 
 (5) A (4) bekezdés szerinti pótlék esetenkénti összege 2006. évben gyermekenként 7500 forint. A 2006. évet követően a pótlék összegének emeléséről az Országgyűlés a költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
 
-(6) Ha a pénzbeli ellátást végleges döntéssel megállapították, az
+(6) Ha a kiegészítő pénzbeli ellátást végleges döntéssel megállapították, az
 
 - a) a kérelem benyújtásától esedékes azzal, hogy ha a kérelmet
   - aa) a tárgyhónap tizenötödikéig nyújtották be, a támogatás teljes összegét,
@@ -581,7 +581,7 @@ pótlékot folyósít.
 
 kell kifizetni.
 
-(7) Ha a pénzbeli ellátásra való jogosultság megszűnik, az a jogosultság megszűnésének hónapjáig esedékes azzal, hogy ha a megszűnés
+(7) Ha a kiegészítő pénzbeli ellátásra való jogosultság megszűnik, az a jogosultság megszűnésének hónapjáig esedékes azzal, hogy ha a megszűnés
 
 - a) a tárgyhónap tizenötödikéig következik be, a támogatás ötven százalékát,
 - b) a tárgyhónap tizenötödikét követően következik be, a támogatás teljes összegét
@@ -3049,7 +3049,10 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 
 (7) Gyermekek napközbeni ellátása esetén a jogszabályban meghatározott szakmai, módszertani feladatokat a miniszter által kijelölt szervezet, egyéb esetben az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv (a továbbiakban együtt: módszertani feladatokat ellátó szerv) látja el.
 
-(8) A miniszter – az egyházi fenntartó kérelmére – a tanoda szolgáltatást, nevelőszülői ellátást, gyermekotthoni ellátást nyújtó, jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki (a továbbiakban: kijelölt egyházi módszertani intézmény) az egyházi fenntartású tanodák, nevelőszülői hálózatok és gyermekotthonok módszertani támogatására.
+(8) Az egyházi fenntartó kérelmére
+
+- a) a miniszter a nevelőszülői ellátást, gyermekotthoni ellátást nyújtó,
+- b) a társadalmi felzárkózásért felelős miniszter a tanoda szolgáltatást nyújtó, jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki az egyházi fenntartású tanodák, nevelőszülői hálózatok és gyermekotthonok módszertani támogatására (a továbbiakban: kijelölt egyházi módszertani intézmény).
 
 (8a)
 
@@ -3065,7 +3068,7 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 
 (11) A kijelölt egyházi módszertani intézmény módszertani tevékenységének biztosítása során együttműködik a módszertani feladatokat ellátó szervvel.
 
-(12) A miniszter a kijelölt egyházi módszertani intézmény feladatainak ellátásához egyedi támogatást nyújt.
+(12) A miniszter – tanoda szolgáltatás esetén a társadalmi felzárkózásért felelős miniszter – a kijelölt egyházi módszertani intézmény feladatainak ellátásához egyedi támogatást nyújt.
 
 (13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha az egyháznak az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben a módszertani feladatokat ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti a módszertani feladatokat ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.
 
@@ -4602,11 +4605,11 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat,
 - j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
 - k) a bölcsődében, mini bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
-- l) a gyermekek esélynövelő szolgáltatásainak szakmai feladatait és működési feltételeit,
+- l)
 - m) a Bölcsődei nevelés-gondozás országos alapprogramjának bevezetését és kiadását,
 - n) a bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy képzésének szakmai és vizsgakövetelményeit,
 - o) a tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhely szakmai feladatait, működésük feltételeit és az ott nyújtott ellátás tartalmát,
-- p) a Biztos Kezdet Alapképzés szakmai és vizsgakövetelményeit.
+- p)
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 
@@ -4615,6 +4618,11 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 (5) Felhatalmazást kap a nevelési-oktatási intézményt fenntartó helyi önkormányzat, hogy rendeletben határozza meg azokat a szabályokat, amelyek keretei között a nevelési-oktatási intézmény vezetője egyéni rászorultság alapján kedvezményt állapít meg a gyermekétkeztetés térítési díjának megfizetésére.
 
 (6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben rendeletben szabályozza a megelőző pártfogásnak a pártfogó felügyelői tevékenységre vonatkozó szabályait.
+
+(7) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy rendeletben szabályozza
+
+- a) a gyermekek esélynövelő szolgáltatásainak szakmai feladatait és működési feltételeit,
+- b) a Biztos Kezdet Alapképzés szakmai és vizsgakövetelményeit.
 
 163. § (1) A 2013. december 31-én nevelőszülői vagy hivatásos nevelőszülői jogviszonyban álló személynek a nevelőszülői, hivatásos nevelőszülői jogviszonya e törvény erejénél fogva 2014. január 1-jétől nevelőszülői foglalkoztatási jogviszonnyá alakul át.
 

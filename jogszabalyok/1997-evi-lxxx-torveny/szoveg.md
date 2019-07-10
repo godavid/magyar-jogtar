@@ -85,7 +85,7 @@ Tbj. 5. § (1) E törvény alapján biztosított
 - j) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben meghatározottak szerint a főállású kisadózóként bejelentett személy,
 - k) az állami projektértékelői jogviszonyban álló személy, amennyiben az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, illetőleg naptári napokra annak harmincad részét.
 
-(2) Az (1) bekezdés g) pontjában foglaltakon túl, munkavégzésre irányuló egyéb jogviszony keretében munkát végző személynek kell tekinteni azt is, aki: gazdasági társaság társas vállalkozónak nem minősülő vezető tisztségviselője, alapítvány, egyesület, egyesületek szövetsége, társasház közösség, köztestület, kamara, európai részvénytársaság, egyesülés, európai gazdasági egyesülés, európai területi társulás, vízgazdálkodási társulat, erdőbirtokossági társulat, egyéb állami gazdálkodó szerv, egyes jogi személyek vállalata, közös vállalat, egyéni cég, szövetkezet, lakásszövetkezet, európai szövetkezet, állami vállalat, egyes jogi személyek vállalata, vállalatcsoport, Munkavállalói Résztulajdonosi Program szervezeteinek, önkéntes kölcsönös biztosító pénztárak, magánnyugdíjpénztárak tisztségviselője, vezető tisztségviselője, vagy e szervezetek felügyelőbizottságának tagja; a helyi önkormányzati választásokon választott képviselő és tisztségviselők, társadalmi megbízatású polgármester, feltéve, hogy járulékalapot képező jövedelemnek minősülő tiszteletdíja (díjazása) eléri az (1) bekezdés g) pontjában meghatározott összeget és a munkát Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam, vagy Magyarország által kötött kétoldalú szociális biztonságról szóló egyezményben részes másik állam területén végzi.
+(2) Az (1) bekezdés g) pontjában foglaltakon túl, munkavégzésre irányuló egyéb jogviszony keretében munkát végző személynek kell tekinteni azt is, aki: gazdasági társaság társas vállalkozónak nem minősülő vezető tisztségviselője, alapítvány, egyesület, egyesületek szövetsége, társasház közösség, köztestület, kamara, európai részvénytársaság, egyesülés, európai gazdasági egyesülés, európai területi társulás, vízgazdálkodási társulat, erdőbirtokossági társulat, egyéb állami gazdálkodó szerv, egyes jogi személyek vállalata, közös vállalat, egyéni cég, szövetkezet, lakásszövetkezet, európai szövetkezet, állami vállalat, egyes jogi személyek vállalata, vállalatcsoport, Munkavállalói Résztulajdonosi Program szervezeteinek, önkéntes kölcsönös biztosító pénztárak, magánnyugdíjpénztárak tisztségviselője, vezető tisztségviselője, vagy e szervezetek felügyelőbizottságának, illetve a Kormány törvénnyel létrehozott javaslattevő, véleményező és tanácsadó testületének a tagja; a helyi önkormányzati választásokon választott képviselő és tisztségviselők, társadalmi megbízatású polgármester, feltéve, hogy járulékalapot képező jövedelemnek minősülő tiszteletdíja (díjazása) eléri az (1) bekezdés g) pontjában meghatározott összeget és a munkát Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam, vagy Magyarország által kötött kétoldalú szociális biztonságról szóló egyezményben részes másik állam területén végzi.
 
 (3) Biztosított az a természetes személy is, aki a munkát külföldi foglalkoztató számára Magyarország területén kívül végzi, és a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet, vagy Magyarország által kötött kétoldalú szociális biztonságról szóló egyezmény alapján e törvény hatálya alá tartozik.
 
@@ -610,14 +610,66 @@ Tbj. 39/B. § (1) Tagi munkavégzés esetén a szociális szövetkezet e tagja u
 
 ### V. Fejezet — TÁRSADALOMBIZTOSÍTÁSI NYILVÁNTARTÁSOK
 
-Tbj. 40. § A társadalombiztosítási rendszerek hatékony működésének biztosítása céljából az a)–d) pont szerinti nyilvántartások tartalmazzák a befizetések nyilvántartását, beszedését és az ellátások megállapításához szükséges e törvény szerinti adatokat
+Tbj. 40. § (1) A társadalombiztosítási rendszerek hatékony működésének biztosítása céljából a (2) bekezdés szerinti nyilvántartások tartalmazzák a befizetések nyilvántartását, beszedését és az ellátások megállapításához szükséges e törvény szerinti adatokat.
 
-- a) a nyugdíj-biztosítási nyilvántartás adatkezelője a központi nyugdíjbiztosítási szerv,
-- b) az egészségbiztosítási nyilvántartás – ide nem értve a d) pont szerinti nyilvántartást – adatkezelője az egészségbiztosítási szerv,
-- c) a járulék bevallását, befizetését, végrehajtását tartalmazó nyilvántartás adatkezelője az állami adóhatóság,
-- d) a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás adatkezelője a rehabilitációs hatóság.
+(2) Az adatkezelő
+
+- a) a nyugdíjbiztosítási nyilvántartás vonatkozásában a központi nyugdíjbiztosítási szerv,
+- b) az egészségbiztosítási nyilvántartás – ide nem értve a d) és e) pont szerinti nyilvántartást – vonatkozásában az egészségbiztosítási szerv,
+- c) a járulék bevallását, befizetését, végrehajtását tartalmazó nyilvántartás vonatkozásában az állami adóhatóság,
+- d) a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás vonatkozásában a rehabilitációs hatóság,
+- e) a TAJ nyilvántartás vonatkozásában a kincstár központi szerve.
 
 Tbj. 40/A. § A nyugdíj-biztosítási nyilvántartás az egészségbiztosítási nyilvántartás és a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás adatkezelője a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól az adatkezelő irányítására kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
+
+Tbj. 40/B. § (1) A kincstár központi szerve vezeti az egészségügyi és egészségbiztosítási, a nyugdíjbiztosítási, a családtámogatási, a gyermekvédelmi, a szociális és a kapcsolódó nyilvántartások azonosító kódjaként alkalmazandó Társadalombiztosítási Azonosító Jellel (a továbbiakban: TAJ szám) rendelkező természetes személyek nyilvántartását (a továbbiakban: TAJ nyilvántartás), és jogszabályban meghatározottak szerint ellátja a TAJ szám képzésével kapcsolatos feladatokat.
+
+(2) A TAJ nyilvántartásban az egészségügyi és egészségbiztosítási, a nyugdíjbiztosítási, a családtámogatási, a gyermekvédelmi, a munkanélküli és a szociális ellátásokhoz, szolgáltatásokhoz kapcsolódó nyilvántartási feladatok ellátása, és a hatósági ügyintézés során történő felhasználás és azonosítás céljából nyilván kell tartani a TAJ számmal rendelkező természetes személyre vonatkozó alábbi adatokat:
+
+- a) TAJ szám,
+- b) név (születési családi és utónév, viselt családi név és utónév),
+- c) anyja születési neve,
+- d) születési hely (születés országa, születési hely),
+- e) születési idő (élveszületés esetén annak bejegyzési folyószáma és éve),
+- f) állampolgárság,
+- g) neme,
+- h) családi állapot,
+- i) címadatok (lakóhely, tartózkodási hely), azok be- és kijelentési időpontja és a fiktiválás dátuma,
+- j) külföldi állampolgár esetén a Magyarország területén való tartózkodás jogcíme,
+- k) külföldön történő letelepedés időpontja(i),
+- l) nyilvántartásba vételi adatok (személyes dokumentum típusa, száma, nyilvántartásba vétel dátuma, jogcíme, adatforrás, az azonosításhoz szükséges BM, ÖNY kapcsolati kódok),
+- m) a nyilvántartásba bekerülés és az abból történő kikerülés oka (passziválási jogcím),
+- n) érvényváltozás és a változás bejegyzés időpontja(i) (jogcím, passziválás, viselt név, születési név, anyja neve, családi állapot, állampolgárság adatkörök esetén),
+- o) elhalálozás időpontja és helye.
+
+(3) A TAJ nyilvántartásban szereplő személyes adatokat a kincstár központi szerve az érintett természetes személy elhunytát követő 30 évig kezeli.
+
+Tbj. 40/C. § (1) Az Egészségbiztosítási Alap kezelésére kijelölt egészségbiztosítási szerv vezeti az egészségbiztosítási nyilvántartást.
+
+(2) Az egészségbiztosítási nyilvántartásban az egészségügyi szolgáltatásokhoz kapcsolódó nyilvántartási feladatok ellátása, és a hatósági ügyintézés során történő felhasználás és azonosítás céljából nyilván kell tartani a TAJ számmal rendelkező természetes személyre vonatkozó alábbi adatokat és azok változását:
+
+- a) TAJ szám,
+- b) név (születési családi és utónév, viselt családi név és utónév),
+- c) anyja születési neve,
+- d) születési hely (születés országa, születési hely),
+- e) születési idő (élveszületés esetén annak bejegyzési folyószáma és éve),
+- f) állampolgárság,
+- g) neme,
+- h) családi állapot,
+- i) címadatok (lakóhely, tartózkodási hely, annak be- és kikerülési dátuma és a fiktiválás dátuma),
+- j) külföldi állampolgár esetén a Magyarország területén való tartózkodás jogcíme,
+- k) külföldön történő letelepedés időpontja(i),
+- l) nyilvántartásba vételi adatok (személyes dokumentum típusa, száma, nyilvántartásba vétel dátuma, jogcíme, adatforrás, BM és ÖNY kapcsolati kód),
+- m) a nyilvántartásba bekerülés és az abból történő kikerülés oka (passziválási jogcím),
+- n) kiadott TAJ számot tartalmazó hatósági igazolvány lejáratának dátuma,
+- o) TAJ érvényesség státusza,
+- p) érvényesség kezdeti dátuma,
+- q) érvénytelenítés dátuma, oka, dokumentum típusa, azonosítója,
+- r) érvényváltozás és a változás bejegyzés időpontja(i) (jogcím, passziválás, viselt név, születési név, anyja neve, családi állapot, állampolgárság adatkörök esetén),
+- s) elhalálozás időpontja és helye,
+- t) foglalkozás, munkakör, tevékenység, munkahely vagy egészségügyi szolgáltatásra való jogosultságra vonatkozó bejelentő, jogosulti jogcím.
+
+(3) Az egészségbiztosítási nyilvántartásban szereplő személyes adatok az érintett természetes személy elhunytát követő 30 évig nem törölhetőek.
 
 Tbj. 41. § (1) A 40. §-ban említett nyilvántartások tartalmazzák a foglalkoztatók és a biztosítottak törvényben előírt kötelezettségei teljesítésével szolgáltatott mindazon adatot, amelyből biztosítottanként megállapítható a társadalombiztosítási, egészségbiztosítási- és munkaerő-piaci, valamint nyugdíjjárulék-alapot képező jövedelem, a biztosított után megfizetett, illetőleg a tőle levont egészségbiztosítási járulék és nyugdíjjárulék összege, a biztosítási jogviszony időtartama, valamint a biztosítottat megillető ellátások megállapításához szükséges adat.
 

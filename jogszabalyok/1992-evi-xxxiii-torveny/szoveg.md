@@ -102,7 +102,7 @@ tervezetét.
 
 (4) Országos szinten azt az országos szakszervezeti konföderációt kell reprezentatívnak tekinteni, amelynek legalább három reprezentatív ágazati szakszervezet a tagja, és tagszervezetei a közalkalmazottak legalább 5%-át képviselik.
 
-(5) A (2)–(4) bekezdés szerinti reprezentativitást 2014. március 31-ével, ezt követően minden ötödik év március 31-ével kell ismételten megállapítani.
+(5) A (2)–(4) bekezdés szerinti reprezentativitást 2014. március 31-ével, ezt követően minden hatodik év március 31-ével kell ismételten megállapítani.
 
 (6) Amennyiben a reprezentativitás kérdésében vita merül fel, az Mt. 289. §-ában meghatározott eljárásnak van helye.
 
@@ -148,11 +148,11 @@ tervezetét.
 
 (2) A közalkalmazotti tanács és a munkáltató kapcsolatrendszerét érintő egyes kérdések a közalkalmazotti szabályzatban állapíthatók meg.
 
-(3) A közalkalmazotti szabályzat kollektív szerződésre tartozó kérdéseket nem szabályozhat.
+(3)
 
 (4)
 
-18. §
+18. § A közalkalmazotti szabályzat kollektív szerződésre tartozó kérdéseket nem szabályozhat.
 
 19. § A közalkalmazotti jogviszony tekintetében az Mt. üzemi tanácsra vonatkozó rendelkezései (XX. fejezet) közül a 235. § (2) bekezdése, 251. §-a és 268. §-a nem alkalmazható.
 
