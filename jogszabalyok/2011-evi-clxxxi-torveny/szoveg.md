@@ -1185,9 +1185,9 @@ is.
 
 (3) A bíróság a szervezetre vonatkozó adatot oly módon törli a nyilvántartásból, hogy a szervezetre vonatkozó adat a törlésre történő utalás mellett a nyilvántartásban látható maradjon, és a nyilvántartásból az adat törlésének oka és időpontja megállapítható legyen.
 
-(4) A bíróság az (1) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt a szervezet oda jelentette be.
+(4) A bíróság az (1) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi.
 
-(5) Ha a szervezet az (1) bekezdés h) pontja szerinti adatot a bíróság felé jelentette be, a bíróság azt a (4) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.
+(5)
 
 92. § (1) A nyilvántartás szükség szerint valamennyi szervezet esetében tartalmazza:
 

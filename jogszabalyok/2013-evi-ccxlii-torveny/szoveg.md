@@ -20,7 +20,7 @@ a Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII
 - b) a Budapest VI. kerület 29209 helyrajzi számú, természetben az Andrássy út 22. szám alatti ingatlanon elhelyezkedő épület és
 - c) a Budapest VI. kerület 29082 helyrajzi számú, természetben a Hajós utca 11. szám alatti ingatlanon elhelyezkedő épület
 
-e törvény erejénél fogva, mint közfeladat ellátásához szükséges ingatlan ingyenesen a vagyonkezelő 100%-os tulajdonában álló gazdasági társaság (a továbbiakban: projekttársaság) vagyonkezelésébe kerül a Magyar Állami Operaház vagyonkezelői jogának egyidejű megszűnésével.
+e törvény erejénél fogva, mint közfeladat ellátásához szükséges ingatlan ingyenesen az Opera Vagyonkezelő Korlátolt Felelősségű Társaság (a továbbiakban: projekttársaság) vagyonkezelésébe kerül a Magyar Állami Operaház vagyonkezelői jogának egyidejű megszűnésével.
 
 (1c) A vagyonkezelői jog az (1b) bekezdés a) pontja szerinti ingatlanok teljes területére, a b) és c) pontja szerinti ingatlanok esetében az épületre és annak alkotórészeire, valamint az épület rendeltetésszerű használatához szükséges, beruházással érintett tartozékaira terjed ki.
 
@@ -28,7 +28,7 @@ e törvény erejénél fogva, mint közfeladat ellátásához szükséges ingatl
 
 (2) A vagyonkezelő vagyonkezelői joga tekintetében a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 11. § (8) bekezdés c) és e) pontja, valamint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 109. § (6) bekezdése nem alkalmazandó.
 
-(3) A vagyonkezelőben az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek összességét a kultúráért felelős miniszter gyakorolja.
+(3)
 
 (4) A vagyonkezelő felügyelőbizottsága három, legfeljebb hat természetes személy tagból áll.
 

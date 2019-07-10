@@ -149,7 +149,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 - l) a lakóingatlanon alapított zálogjog fedezetével kötött, devizaalapú kölcsönszerződésből származó követelés törvényben rögzített árfolyamon történő végtörlesztése során megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás, valamint a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény és a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló törvény alapján
   - la) a visszavásárlási jog bejegyzésére és törlésére irányuló eljárás,
   - lb) a Magyar Állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzésére irányuló eljárás,
-  - lc) a Nemzeti Eszközkezelő Zrt. vagyonkezelői jogának törlésére irányuló eljárás,
+  - lc) a Nemzeti Eszközkezelő Zártkörűen Működő Részvénytársaság vagyonkezelői jogának bejegyzésére és törlésére irányuló eljárás,
   - ld) a magánszemély tulajdonszerzésének bejegyzésére irányuló eljárás,
 - m) a polgári perrendtartásról szóló 2016. évi CXXX. törvény XXXII. Fejezete szerinti gondnokság alá helyezés tényének feljegyzése iránti eljárás;
 - n) a nagyvízi mederben való elhelyezkedés tényének mint jogi jellegnek a feljegyzése,

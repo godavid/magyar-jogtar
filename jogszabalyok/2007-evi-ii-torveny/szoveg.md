@@ -829,7 +829,7 @@ iránti kérelmet terjeszt elő.
 30. § (1) Ideiglenes tartózkodásra jogosító igazolással kell ellátni azt a harmadik országbeli állampolgárt,
 
 - a) aki tartózkodási engedély iránti kérelmet nyújtott be és az engedély kiadásáig nemzeti vízumának vagy korábbi tartózkodási engedélyének érvényességi ideje lejárt, vagy e törvény szerint tartózkodási engedéllyel kell ellátni, továbbá akkor is, ha az 1. § (5) bekezdése alapján terjeszt elő tartózkodási engedély-kérelmet, kivéve, ha a tartózkodási engedély kiadása iránti kérelem előterjesztését megelőzően elrendelt kiutasításnak nem tett eleget;
-- b) aki Magyarország területén ideiglenes letelepedési engedély iránti kérelmet nyújtott be;
+- b) aki Magyarország területén ideiglenes letelepedési engedély vagy a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 94. § (2) bekezdése szerinti nemzeti letelepedési engedély iránti kérelmet nyújtott be;
 - c) aki azért tartózkodik a jogszerű tartózkodás időtartamát meghaladóan Magyarország területén, mert kiutazását humanitárius, keresőtevékenységével összefüggő, nem önhibájából eredő személyes vagy elháríthatatlan ok fennállása akadályozza;
 - d) aki Magyarország területén jogszerűen tartózkodó harmadik országbeli állampolgár szülő gyermekeként született Magyarország területén és jogszerű magyarországi tartózkodása az e törvényben szabályozott más engedéllyel nem biztosítható;
 - e) aki emberkereskedelem áldozata, az áldozatsegítő hatóság indítványára, a gondolkodási idő tartamára;
@@ -947,8 +947,8 @@ kapott.
 35. § (1) Magyarországon történő letelepedés céljából nemzeti letelepedési engedélyt – a (4) bekezdésben foglalt kivétellel – az a harmadik országbeli állampolgár kaphat, aki tartózkodási engedéllyel vagy ideiglenes letelepedési engedéllyel rendelkezik, és
 
 - a) a kérelem benyújtását közvetlenül megelőzően legalább három éven át jogszerűen és megszakítás nélkül Magyarország területén tartózkodott;
-- b) a kérelem benyújtását közvetlenül megelőzően legalább egy éve eltartott felmenőként családi életközösségben él bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgárral;
-- c) bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgár házastársa, feltéve, hogy a házasságot már a kérelem benyújtását megelőzően legalább két éve megkötötték;
+- b) a kérelem benyújtását közvetlenül megelőzően legalább egy éve eltartott felmenőként családi életközösségben él magyar állampolgárral vagy bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgárral;
+- c) magyar állampolgár, bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgár házastársa, feltéve, hogy a házasságot már a kérelem benyújtását megelőzően legalább két éve megkötötték;
 - d) magyar állampolgár volt, de állampolgársága megszűnt, illetve akinek felmenője magyar állampolgár vagy magyar állampolgár volt;
 - e) bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgár kiskorú gyermeke.
 

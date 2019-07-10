@@ -205,6 +205,19 @@ a következő törvényt alkotja:
 
 (2) Ha a szociális szövetkezet alapítói között tagi munkavégzési jogviszonyt létesítő olyan személyek is vannak, akik a vagyoni hozzájárulásukat az (1) bekezdés szerint teljesítik, e személyeket a cégbejegyzéskor a vagyoni hozzájárulás megfizetése és a vagyoni hozzájárulás teljesítésének határideje vonatkozásában figyelmen kívül kell hagyni.
 
+#### 3/A. Start szociális szövetkezet
+
+21/A. § (1) A start szociális szövetkezet olyan szociális szövetkezet, amelynek alapítása és működése – a szociális szövetkezetre vonatkozó előírásokon felül – megfelel az ezen alcímben foglalt előírásoknak is.
+
+(2) A start szociális szövetkezetnek a nevében – a fő tevékenységére utaló megjelölés mellett – a „start szociális szövetkezet” megnevezést kell viselnie.
+
+21/B. § (1) A start szociális szövetkezet
+
+- a) alapításában és működésében részt kell vennie a közfoglalkoztatásra vonatkozó jogszabályok szerint közfoglalkoztatónak minősülő önkormányzatnak, és
+- b) alapítói között lennie kell olyan személynek, aki az önkormányzattal közfoglalkoztatási jogviszonyban áll, vagy a tagsági jogviszonya keletkezését megelőző egy éven belül közfoglalkoztatási jogviszonyban állt (a továbbiakban együtt: közfoglalkoztatott).
+
+(2) A start szociális szövetkezet működése során biztosítani kell, hogy a szövetkezetnek legyen közfoglalkoztatott tagja, ennek hiányában olyan tagja, aki a tagsági jogviszony keletkezésekor a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerinti álláskeresőnek minősül, azzal, hogy ezen személy tagsági jogviszonyának megszűnése és az e bekezdés szerinti feltételeknek megfelelő új tag tagsági jogviszonyának keletkezése közötti időtartam nem lehet hosszabb három hónapnál.
+
 #### 4. Agrárgazdasági szövetkezet
 
 22. § (1) Az agrárgazdasági szövetkezet a mező- vagy erdőgazdasági, valamint élelmiszeripari ágazatban fő- és kiegészítő tevékenységet folytató szövetkezet, amely fő tevékenységként
@@ -363,6 +376,10 @@ a következő törvényt alkotja:
 (3) Az (1) bekezdés szerinti szövetkezet, továbbá a Módtv1. hatálybalépésének időpontjában a cégjegyzékbe bejegyzett, vagy a bejegyzés alatt álló szociális szövetkezet e törvénynek a Módtv1.-gyel megállapított rendelkezéseinek 2018. január 1-jéig köteles megfelelni, és az ahhoz szükséges alapszabály-módosítást elvégezni.
 
 (4) E törvénynek az egyes törvényeknek a közérdekű nyugdíjas szövetkezetek létrehozásával összefüggő módosításáról szóló 2017. évi LXXXIX. törvény 11. §-ával megállapított 8. § (4) bekezdésében foglaltaknak az iskolaszövetkezetek 2017. november 1-ig kötelesek eleget tenni.
+
+108/C. § (1) A Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvény hatálybalépésekor a cégjegyzékbe bejegyzett vagy bejegyzés alatt álló, a 21/B. §-ban foglaltaknak megfelelő szociális szövetkezetnek a 21/A. § (2) bekezdése szerinti rendelkezésnek legkésőbb 2019. december 31-étől kell megfelelnie.
+
+(2) Az (1) bekezdésben foglaltakhoz szükséges alapszabály-módosítás alapján a változásbejegyzési kérelmet a cégbírósághoz illeték és közzétételi költségtérítés megfizetése nélkül lehet benyújtani, feltéve, hogy az alapszabály-módosítás kizárólag az (1) bekezdésben előírtaknak való megfeleléshez szükséges módosításokat tartalmazza. Ha a szociális szövetkezet egyéb cégadatot érintő változást is bejelent, abban az esetben is csak az e cégadat módosítására vonatkozóan egyébként fizetendő illetéket és közzétételi költségtérítést kell fizetni.
 
 109. § (1) E törvény 13/A. §-a és a 33. § (2) bekezdése a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

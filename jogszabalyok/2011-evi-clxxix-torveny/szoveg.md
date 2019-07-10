@@ -379,7 +379,7 @@ láthatja el.
 51. § (1) A települési nemzetiségi önkormányzati képviselők száma
 
 - a) három fő, ha a nemzetiségi névjegyzékben szereplő választópolgárok száma a választás kitűzésének napján a településen kevesebb mint száz fő,
-- b) négy fő, ha a nemzetiségi névjegyzékben szereplő választópolgárok száma a választás kitűzésének napján a településen legalább száz fő.
+- b) öt fő, ha a nemzetiségi névjegyzékben szereplő választópolgárok száma a választás kitűzésének napján a településen legalább száz fő.
 
 (2) A területi nemzetiségi önkormányzati képviselők száma hét fő.
 
@@ -1359,7 +1359,7 @@ Isten engem úgy segéljen!”
 
 162. § Amennyiben a fenntartói jog átadása a 25. § (6) bekezdése vagy a 39. § (3) bekezdése szerint a nemzetiségi önkormányzat számára a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosításáról szóló 2017. évi CCI. törvény (a továbbiakban: Módtv.) hatályba lépése előtt már megtörtént, akkor a helyi önkormányzat legkésőbb a Módtv. hatályba lépését követő hat hónapon belül köteles a fenntartói jogot gyakorló nemzetiségi önkormányzattal a köznevelési vagy kulturális közfeladat ellátásához kapcsolódó ingó és ingatlan vagyonra vagyonkezelési szerződést kötni, a korábban megkötött ingyenes használati megállapodás egyidejű megszüntetése mellett.
 
-#### 163. §
+163. § Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvény hatálybalépését követő tizenöt napon belül törölni kell a központi névjegyzékből a nem magyar állampolgárságú választópolgárok nemzetiségi választópolgárként történő nyilvántartására vonatkozó adatot.
 
 164. § (1)
 

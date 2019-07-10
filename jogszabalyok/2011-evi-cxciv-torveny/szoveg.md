@@ -178,7 +178,7 @@ köthet naptári éven túli futamidejű működési célú adósságot keletkez
 
 (4) A Kormány az egyes ügyletekhez részben is hozzájárulhat vagy azokat elutasíthatja. A Kormány a több fejlesztési cél megvalósítását szolgáló ügyletek esetében a fejlesztési célok vizsgálata alapján fejlesztési célonként hozhat döntést. A Kormány a fejlesztési cél figyelembevételével dönthet úgy is, hogy az annak teljesülését szolgáló ügylethez az önkormányzat által tervezettnél alacsonyabb összegben járul hozzá.
 
-(5) A Kormány az (1)–(3) bekezdés szerinti hozzájárulást megtagadhatja, ha az ügylet nem kötelező önkormányzati feladat ellátásához szükséges kapacitás létrehozását eredményezi.
+(5) A Kormány az (1)–(3) bekezdés szerinti hozzájárulást megtagadhatja, ha az ügylet nem kötelező önkormányzati feladat ellátásához szükséges kapacitás létrehozását eredményezi, vagy ha az önkormányzat a fejlesztési célt adósságot keletkeztető ügylet megkötése nélkül is képes megvalósítani, vagy ha a fejlesztés megvalósításának ütemezése pénzügyileg nem kellően előkészített, megalapozott, a fejlesztés révén létrehozandó kapacitás jövőbeli működtetése nem kellően alátámasztott és emiatt központi költségvetési többletkiadást vagy önkormányzati költségvetési többletkiadást generálhat.
 
 (6) A Kormány hozzájárulása az adósságot keletkeztető ügylet tárgyévben történő megkötésére, illetve a tárgyévben történő kezesség-, illetve garanciavállalásra vonatkozik.
 

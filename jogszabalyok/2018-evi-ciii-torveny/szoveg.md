@@ -60,6 +60,8 @@ Az Országgyűlés a Nemzeti Eszközkezelő Programban részt vevő természetes
 
 (5) A tulajdonváltozás költségei a Nemzeti Eszközkezelőt terhelik.
 
+(6) Az e törvény szerinti tulajdonszerzésre vonatkozó, az illetékekről szóló 1990. évi XCIII. törvény 91. § (1) bekezdésében meghatározott bejelentési kötelezettség teljesítése során a vagyonszerző képviseletében a Nemzeti Eszközkezelő Zrt. jár el. A bejelentési kötelezettség teljesítése céljából a Nemzeti Eszközkezelő Zrt. a vagyonszerző természetes személyazonosító adatainak megadásával a vagyonszerző adóazonosító jelére vonatkozóan adatot igényelhet az állami adó- és vámhatóságtól. Az állami adó- és vámhatóság az adatigényléstől számított nyolc napon belül megküldi a vagyonszerző adóazonosító jelét a Nemzeti Eszközkezelő Zrt. részére.
+
 #### 4. A lakóingatlan és a tartalék ingatlan egy összegben történő megvásárlásának feltételei
 
 6. § (1) A fizetési kötelezettségeinek eleget tevő bérlő és a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója (a továbbiakban e § tekintetében: Vevő) a 2. § (3) bekezdése szerinti tájékoztatás kézhezvételét követő 60 napon belül a Nemzeti Eszközkezelő részére megküldött, teljes bizonyító erejű magánokirat formájában nyilatkozhat arról, hogy a bérlő által bérelt lakóingatlant vagy tartalék ingatlant e törvény végrehajtási rendeletében meghatározottak szerint kiszámított vételáron, egy összegben megvásárolja. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a Vevő a határidő utolsó napján a Nemzeti Eszközkezelő székhelyén átadta vagy postára adta.
@@ -90,7 +92,7 @@ Az Országgyűlés a Nemzeti Eszközkezelő Programban részt vevő természetes
 
 (5) A vételárrészlet a részletvevő által fizetett lakbér mértékével megegyező összeg az e törvény végrehajtására kiadott rendeletben foglalt eltérésekkel.
 
-(6) Az ingatlanügyi hatóság az ingatlannyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) bekezdésétől eltérően az (1) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a Nemzeti Eszközkezelőnek a tulajdonjogot keletkeztető jogszabályhelyet, helyrajzi számot, a tulajdonos ingatlannyilvántartásról szóló törvényben meghatározott személyes adatait, a tulajdoni hányadot és a Magyar Állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzése iránti kérelmet tartalmazó okirata alapján jegyzi be.
+(6) Az ingatlanügyi hatóság az ingatlannyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) és (2) bekezdésétől eltérően az (1) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a Nemzeti Eszközkezelőnek a tulajdonjogot keletkeztető jogszabályhelyet, helyrajzi számot, a tulajdonos ingatlannyilvántartásról szóló törvényben meghatározott személyes adatait, a tulajdoni hányadot és a Magyar Állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzése iránti kérelmet tartalmazó okirata alapján jegyzi be. Az okirathoz a Nemzeti Eszközkezelő csatolja az (1) bekezdés szerinti nyilatkozat másolati példányát.
 
 (7) A Nemzeti Eszközkezelő megküldi az ingatlanügyi hatóságnak a (6) bekezdés szerinti bejegyzés alapjául szolgáló okiratot.
 

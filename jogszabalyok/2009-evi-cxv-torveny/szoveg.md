@@ -143,7 +143,7 @@ kell megtenni.
 - c) az egyéni vállalkozó főtevékenységét és tevékenységi köreit a 6. § (1) bekezdésének c) pontjának megfelelően,
 - d) a székhely, a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
 - e) szükség szerint az egyéni vállalkozói tevékenység szünetelésének tényét, kezdő- és zárónapját,
-- f) az egyéni vállalkozó adószámát, annak hatályos állapotát, az adószám alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, valamint e határozatok megsemmisítését, hatályon kívül helyezését, módosítását, kiegészítését vagy visszavonását, továbbá a határozat véglegessé válásának napját,
+- f) az egyéni vállalkozó adószámát, annak hatályos állapotát, az adószám törlését, valamint e határozat megsemmisítését, hatályon kívül helyezését, módosítását, kiegészítését vagy visszavonását, továbbá a határozat véglegessé válásának napját,
 - g) az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
 - h) ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány számát, kiállításának helyét és keltét, a kiállító hatóság megnevezését, az igazolvány cseréje, pótlása megtagadásának tényét, az igazolvány visszavonásának és érvénytelenségének tényét,
 - i) a törlés időpontját és okát,
@@ -160,13 +160,13 @@ kell megtenni.
 
 (4) A személyiadat- és lakcímnyilvántartást, valamint a központi idegenrendészeti nyilvántartást vezető szerv haladéktalanul értesíti a nyilvántartást vezető szervet az egyéni vállalkozó halálának tényéről, valamint időpontjáról.
 
-(5) A nyilvántartást vezető szerv az (1) bekezdés m) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt az egyéni vállalkozó oda jelentette be.
+(5)
 
-(6) Ha az egyéni vállalkozó az (1) bekezdés m) pontja szerinti adatot a nyilvántartást vezető szerv felé jelentette be, a nyilvántartást vezető szerv azt az (5) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.
+(6)
 
-12. § (1) A nyilvántartást vezető szerv az állami adóhatóság elektronikus értesítése alapján, hivatalból intézkedik az egyéni vállalkozó adószáma alkalmazásának felfüggesztése, törlése, a felfüggesztés megszüntetése, valamint e határozatok megsemmisítése vagy hatályon kívül helyezése, továbbá a határozat véglegessé válása napjának bejegyzéséről.
+12. § (1) A nyilvántartást vezető szerv az állami adóhatóság elektronikus értesítése alapján, hivatalból intézkedik az egyéni vállalkozó adószámának törlése, valamint e határozat megsemmisítése vagy hatályon kívül helyezése, továbbá a határozat véglegessé válása napjának bejegyzéséről.
 
-(2) A nyilvántartást vezető szerv köteles az egyéni vállalkozók családi és utónevét, valamint a 11. § (1) bekezdés b)–h) pontjában meghatározott adatokat, az egyéni vállalkozói tevékenységre való jogosultság megszűnése esetén annak időpontját – ha az egyéni cég alapítása miatt történt, akkor ennek tényét – a nyilvántartásból törölt egyéni vállalkozó családi és utónevét, valamint nyilvántartási számát a törlés tényének feltüntetésével naprakészen, bárki számára díjmentesen megtekinthetően az interneten folyamatosan hozzáférhetővé tenni.
+(2) A nyilvántartást vezető szerv köteles az egyéni vállalkozók családi és utónevét, valamint a 11. § (1) bekezdés b)–h) pontjában meghatározott adatokat, az egyéni vállalkozói tevékenységre való jogosultság megszűnése esetén annak időpontját – ha az egyéni cég vagy a 19/C. § szerinti korlátolt felelősségű társaság alapítása miatt történt, akkor ennek tényét – a nyilvántartásból törölt egyéni vállalkozó családi és utónevét, valamint nyilvántartási számát a törlés tényének feltüntetésével naprakészen, bárki számára díjmentesen megtekinthetően az interneten folyamatosan hozzáférhetővé tenni.
 
 13. § (1) A nyilvántartást vezető szerv a nyilvántartásban szereplő adatokat – a gazdasági forgalom biztonsága, a vállalkozói tevékenység gyakorlásával összefüggő jog vagy tény igazolása céljából – az egyéni vállalkozói tevékenységre való jogosultság megszűnésétől számított tíz évig kezeli.
 
@@ -174,7 +174,8 @@ kell megtenni.
 
 - a) a bíróság a büntetőeljárás lefolytatása, büntetés és intézkedés végrehajtása, továbbá polgári perben a tényállás megállapítása céljából,
 - b) a rendőrség a bűncselekmények és szabálysértések felderítése céljából,
-- c) a nyomozó hatóság és az ügyészség büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.
+- c) a nyomozó hatóság és az ügyészség büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+- d) a nemzetbiztonsági szolgálatok jogszabályban meghatározott feladataik ellátásához.
 
 (3) Adatigényléssel jogosult átvenni az egyéni vállalkozónak a nyilvános nyilvántartásban nem szereplő adatai közül az egyéni vállalkozó anyja nevét, születési helyét és idejét és elektronikus elérhetőségét, valamint lakcímét a bíróság, az ügyészség, a közjegyző, a bírósági végrehajtó, a gazdasági vagy szakmai kamara, valamint a közigazgatási szerv közfeladatai, valamint a jogi képviselő jogi képviselettel kapcsolatos feladatai ellátása érdekében.
 
@@ -241,7 +242,7 @@ kell megtenni.
 19. § (1) Az egyéni vállalkozói tevékenységre való jogosultság e törvény erejénél fogva megszűnik
 
 - a) ha az egyéni vállalkozó tevékenysége megszüntetését a Hatóságnak vagy a nyilvántartó szervnek bejelenti, a bejelentés napján,
-- b) ha az egyéni vállalkozó egyéni céget alapított, vagy a 32. § (1) és (2) bekezdése szerint az egyéni cég tagjává vált, a cégbejegyző határozat jogerőre emelkedésének napját megelőző napon, illetve ha az egyéni vállalkozó átruházással megszerezte az egyéni cég vagyoni betétjét, az átruházás napján,
+- b) ha az egyéni vállalkozó egyéni céget vagy a 19/C. § szerinti korlátolt felelősségű társaságot alapított, a 32. § (1) és (2) bekezdése szerint az egyéni cég tagjává vált, a cégbejegyző határozat jogerőre emelkedésének napját megelőző napon, vagy ha az egyéni vállalkozó átruházással megszerezte az egyéni cég vagyoni betétjét, az átruházás napján,
 - c) az egyéni vállalkozó halála napján,
 - d) az egyéni vállalkozó gondnokság alá helyezéséről szóló bírósági határozat jogerőre emelkedésének a napján,
 - e) ha az adóhatóság törölte az egyéni vállalkozó adószámát, a törlést kimondó határozat véglegessé válásának napján,
@@ -252,7 +253,9 @@ kell megtenni.
 
 - a) az egyéni vállalkozói tevékenység megszüntetése, valamint a 17. § (1) és (2) bekezdés szerinti tények igazolása érdekében, az egyéni vállalkozó gondnokság alá helyezése esetén a Hatóság, halála esetén a Hatóság vagy a személyiadat- és lakcímnyilvántartást, illetve a központi idegenrendészeti nyilvántartást vezető szerv,
 - b) az egyéni vállalkozó adószámának törlése esetén az állami adóhatóság,
-- c) egyéni cég alapítása, vagyoni betétjének átruházással vagy örökléssel történő megszerzése esetén az egyéni cég székhelye szerint illetékes cégbíróság (a továbbiakban: cégbíróság) elektronikus úton értesíti a nyilvántartást vezető szervet.
+- c) egyéni cég alapítása, vagyoni betétjének átruházással vagy örökléssel történő megszerzése, valamint a 19/C. § szerinti korlátolt felelősségű társaság alapítása esetén az egyéni cég székhelye szerint illetékes cégbíróság (a továbbiakban: cégbíróság)
+
+elektronikus úton értesíti a nyilvántartást vezető szervet.
 
 (3) A Hatóság az egyéni vállalkozói tevékenység folytatását megtiltja, ha
 
@@ -284,7 +287,35 @@ kell megtenni.
 
 (4) A nyilvántartást vezető szerv az ellenőrzés során a (2) és (3) bekezdés szerint megismert tényre vonatkozó adatokat az ellenőrzés befejezéséig – ha az ellenőrzés alapján hivatalból az egyéni vállalkozó tevékenység megtiltására irányuló eljárást indít, annak jogerős befejezéséig – kezelheti.
 
-#### 19/C. §
+### I/A. Fejezet — A GAZDÁLKODÓ TEVÉKENYSÉG EGYSZEMÉLYES GAZDASÁGI TÁRSASÁGI FORMÁBAN TÖRTÉNŐ TOVÁBBFOLYTATÁSA
+
+19/C. § (1) Az egyéni vállalkozó vállalkozói tevékenységének folytatására e törvény szerinti feltételekkel korlátolt felelősségű társaságot alapíthat. A korlátolt felelősségű társaság alapításában az egyéni vállalkozón kívül más személy nem vehet részt.
+
+(2) Nem alapíthat korlátolt felelősségű társaságot a tevékenységét szüneteltető egyéni vállalkozó a szünetelés időtartama alatt.
+
+(3) A korlátolt felelősségű társaság bejegyzését követő öt évig az alapító egyéni vállalkozó nem lehet gazdasági társaság korlátlanul felelős tagja, valamint nem létesíthet újabb egyéni vállalkozói jogviszonyt.
+
+(4) A korlátolt felelősségű társaság előtársaságként nem működhet.
+
+19/D. § (1) E törvény szerinti alapítást megelőzően az egyéni vállalkozó
+
+- a) elvégzi az eszközök és kötelezettségek leltározását,
+- b) meghatározza, hogy az egyéni vállalkozói minőségében szerzett, az egyéni vállalkozó adónyilvántartásában szereplő vagyontárgyak közül mely vagyontárgyak képezik az alapító egyéni vállalkozó vagyoni hozzájárulását és mely eszközöket és kötelezettségeket adja át az alapítandó korlátolt felelősségű társaságnak,
+- c) elkészíti a korlátolt felelősségű társaság – a számvitelről szóló 2000. évi C. törvény 2/A. § (4a) bekezdése szerint összeállított – nyitó mérleg-tervezetét, amelynek könyvvizsgáló általi ellenőrzésére nincs szükség, valamint
+- d) gondoskodik a foglalkoztatottakkal kapcsolatos munkáltatói intézkedések előkészítéséről, a korlátolt felelősségű társaságnál történő továbbfoglalkoztatásról szóló tájékoztatásról.
+
+(2) Az egyéni vállalkozó az (1) bekezdés szerinti intézkedések megtételét követő 30 napon belül elfogadja a korlátolt felelősségű társaság alapító okiratát.
+
+(3) Az e törvény szerinti alapítás az egyéni vállalkozóval szemben fennálló követeléseket nem teszi lejárttá.
+
+(4) Ha az egyéni vállalkozói tevékenység folytatására való jogosultság korlátolt felelősségű társaság alapítása miatt szűnik meg,
+
+- a) az egyéni vállalkozót az e tevékenysége körében szerzett, illetve ezek céljára lekötött vagyontárgyak tekintetében – ha ezeket a korlátolt felelősségű társaság vagyonaként jelöli meg – megillető jogok, és a vállalkozási tevékenysége során kötött szerződései körében szerzett jogok a korlátolt felelősségű társaságot jogutódként illetik meg, és
+- b) az egyéni vállalkozót terhelő kötelezettségek a korlátolt felelősségű társaságot jogutódként terhelik továbbá a korábban egyéni vállalkozóként eljáró természetes személy és a korlátolt felelősségű társaság az egyéni vállalkozói tevékenység megszűnéséig vállalt, az egyéni vállalkozót terhelő kötelezettségekért elévülési időn belül korlátlanul és egyetemlegesen felel.
+
+(5) E törvény szerinti alapítás esetén a 31. § (2) és (3) bekezdésében foglalt rendelkezéseket a korlátolt felelősségű társaságra alkalmazni kell.
+
+(6) A cégbíróság a korlátolt felelősségű társaságot bejegyző végzésben rögzíti az e törvény szerinti alapítás tényét, valamint az egyéni vállalkozó nyilvántartási számát.
 
 ### II. Fejezet — AZ EGYÉNI CÉG
 
@@ -353,7 +384,7 @@ kell megtenni.
 
 25. § (1) Egyéni cég átalakulással, valamint nem üzletszerű gazdasági tevékenységre nem hozható létre.
 
-(2) Az egyéni cég a cégnyilvántartásba való bejegyzés napját megelőzően nem kezdheti meg működését.
+(2) Az egyéni cég előtársaságként nem működhet.
 
 ### Az egyéni cég vagyona és felelőssége
 
@@ -369,9 +400,21 @@ kell megtenni.
 
 (2) Egyéni cég és tagja nem lehet gazdasági társaságban korlátlanul felelős tag.
 
-(3) Ha az egyéni vállalkozói tevékenység folytatására való jogosultság egyéni cég alapítása miatt szűnik meg, a jogosultság megszűnéséig az egyéni vállalkozóként vállalt kötelezettségeiért a természetes személy és az egyéni cég korlátlanul és egyetemlegesen felel.
+(3) Egyéni cég alapítását megelőzően az egyéni vállalkozó
+
+- a) elvégzi az eszközök és kötelezettségek leltározását,
+- b) meghatározza, hogy az egyéni vállalkozói minőségében szerzett, az egyéni vállalkozó adónyilvántartásában szereplő vagyontárgyak közül mely vagyontárgyak képezik az alapító egyéni vállalkozó vagyoni hozzájárulását és mely eszközöket és kötelezettségeket adja át az egyéni cégnek,
+- c) elkészíti az egyéni cég – a számvitelről szóló 2000. évi C. törvény 2/A. § (4a) bekezdése szerint összeállított – nyitó mérleg-tervezetét, amelynek könyvvizsgáló általi ellenőrzésére nincs szükség, valamint
+- d) gondoskodik a foglalkoztatottakkal kapcsolatos munkáltatói intézkedések előkészítéséről, az átvevő egyéni cégnél történő továbbfoglalkoztatásról szóló tájékoztatásról.
 
 (4) A cégbíróság az egyéni céget bejegyző végzésben rögzíti az egyéni vállalkozó nyilvántartási számát.
+
+(5) Egyéni cég alapítása az egyéni vállalkozóval szemben fennálló követeléseket nem teszi lejárttá.
+
+(6) Ha az egyéni vállalkozói tevékenység folytatására való jogosultság egyéni cég alapítása miatt szűnik meg,
+
+- a) az egyéni vállalkozót az e tevékenysége körében szerzett, illetve ezek céljára lekötött vagyontárgyak tekintetében – ha ezeket az egyéni cég vagyonaként jelöli meg – megillető jogok, és a vállalkozási tevékenysége során kötött szerződései körében szerzett jogok az egyéni céget jogutódként illetik meg,
+- b) az egyéni vállalkozót terhelő kötelezettségek az egyéni céget jogutódként terhelik, továbbá a korábban egyéni vállalkozóként eljáró természetes személy és az egyéni cég az egyéni vállalkozói tevékenység megszűnéséig vállalt, az egyéni vállalkozót terhelő kötelezettségekért korlátlanul és egyetemlegesen felel.
 
 #### 28. §
 
@@ -397,7 +440,7 @@ kell megtenni.
 
 (2) Ha az egyéni vállalkozónak hatósági engedély kiadása iránti kérelemre indított eljárása van folyamatban és az egyéni cég alapításának elhatározását az engedélyt kiadó hatóságnak bejelenti, a hatósági engedély jogosultja az egyéni cég lesz, kivéve, ha a hatósági engedély feltételeinek az egyéni cég nem felel meg.
 
-(3) Ha a hatósági engedélyre vonatkozó jogszabály másként nem rendelkezik, az egyéni vállalkozó számára az egyéni cég alapítását megelőzően kiadott hatósági engedély jogosultja az egyéni cég lesz, kivéve, ha a hatósági engedély feltételeinek az egyéni cég nem felel meg.
+(3) Ha a hatósági engedélyre vonatkozó jogszabály másként nem rendelkezik, és az egyéni vállalkozó az egyéni cég alapításának elhatározását az engedély kiadására jogosult hatóságnak bejelenti, az egyéni cég az egyéni vállalkozó számára az egyéni cég alapítását megelőzően kiadott hatósági engedély jogosultja lesz, kivéve, ha a hatósági engedély feltételeinek az egyéni cég nem felel meg.
 
 (4) Képesítéshez kötött tevékenységet az egyéni cég csak akkor folytathat, ha tagja a jogszabályokban meghatározott képesítési követelményeknek megfelel. Jogszabály – ide nem értve az önkormányzati rendeletet – eltérő rendelkezése hiányában képesítéshez kötött tevékenységet az egyéni cég akkor is folytathat, ha a képesítési követelményeknek a tag nem felel meg, de az adott tevékenység folytatásában személyesen közreműködő, az egyéni cég által határozatlan időre foglalkoztatott személyek az előírt képesítéssel rendelkeznek.
 

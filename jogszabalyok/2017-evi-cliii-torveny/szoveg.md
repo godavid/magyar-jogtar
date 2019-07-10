@@ -1012,13 +1012,20 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 (6) A behajtási eljárást az adóhatóság csak pontos – szükség esetén kiegészített – adatok alapján indítja meg. Az adóhatóság behajtási eljárás feltételeinek vizsgálata mellett a behajtási megkeresésben szereplő tartozást sem jogalapjában, sem összegszerűségében nem vizsgálja felül, a megkeresésben foglaltakhoz kötve van.
 
+(6a) Ha a behajtási eljárás feltételeinek vizsgálata során megállapítható, hogy a megkeresésben foglalt
+
+- a) követelés végrehajtásához való jog elévült,
+- b) (4) bekezdés b) pontja szerinti azonosító adatok és az adóhatóság nyilvántartásai alapján az adós személye nem beazonosítható,
+
+az adóhatóság a megkeresést végzéssel visszautasítja.
+
 (7) A megkeresést követő változásról a behajtást kérő az adóhatóságot haladéktalanul értesíteni köteles.
 
 (8) Az adók módjára behajtandó köztartozások esetén a 30. § (2) bekezdés alkalmazásának nincs helye.
 
 107. § Az állami adó- és vámhatóság 200 ezer forintot nem meghaladó adók módjára behajtandó köztartozás esetén – a 30. § (1) bekezdése és a 32. § szerinti intézkedéseken túl – kizárólag hatósági átutalási megbízást, illetve jövedelemletiltást foganatosít az adók módjára behajtandó köztartozás behajtása érdekében, ezek eredménytelensége esetén pedig a 113. § (3) bekezdése szerint jár el. Ha a 200 ezer forintot nem meghaladó adók módjára behajtandó köztartozás mellett az adóst adótartozás is terheli, az állami adó- és vámhatóság egyéb végrehajtási cselekményeket is foganatosíthat. Ha az eljárás során a jelzálogjog bejegyzését követően egyéb végrehajtási cselekmény foganatosításától eredmény nem várható, az adóhatóság a jelzálogjog fenntartása mellett a 113. § (3) bekezdésében írtak szerint jár el.
 
-108. § Az adók módjára behajtandó köztartozásra az adóhatóság késedelmi pótlékot nem számít fel, azzal összefüggésben felszámolási eljárást nem kezdeményez, a folyamatban lévő csőd-, felszámolási, végelszámolási, kényszertörlési, adósságrendezési eljárásban e kötelezettségeket hitelezői igényként nem jelenti be, a követeléseket behajthatatlanként nem tartja nyilván, a végrehajtásához való jog elévülését nem állapítja meg, illetve a kötelezettséggel összefüggésben mögöttes felelősséget nem érvényesít.
+108. § Az adók módjára behajtandó köztartozásra az adóhatóság késedelmi pótlékot nem számít fel, azzal összefüggésben felszámolási eljárást nem kezdeményez, a folyamatban lévő csőd-, felszámolási, végelszámolási, kényszertörlési, adósságrendezési eljárásban e kötelezettségeket hitelezői igényként nem jelenti be, a követeléseket behajthatatlanként nem tartja nyilván, illetve a kötelezettséggel összefüggésben mögöttes felelősséget nem érvényesít.
 
 109. § (1) Ha az adók módjára behajtandó köztartozásra irányuló fizetési kedvezmény iránti kérelmet az adóhatósághoz terjesztik elő, akkor az adóhatóság a végrehajtási eljárás során érkezett kérelmet az Art. fizetési kedvezményekről szóló fejezetében foglaltak szerint bírálja el azzal, hogy a tartozást kizárólag a behajtást kérő előzetes hozzájárulása alapján mérsékelheti.
 
@@ -1135,7 +1142,9 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 123. § (1) Ha a 122. § (6) bekezdés szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik, az állami adó- és vámhatóság a közbeszerzésekről szóló törvény szabályai alapján választja ki a közreműködő szervezetet.
 
-(2) Ha a beszerzés nem tartozik az (1) bekezdés hatálya alá, az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében szereplő, a végrehajtandó meghatározott cselekményhez a szükséges szakértelemmel rendelkező szervezetek közül véletlenszerű kiválasztással három közreműködő szervezetet jelöl ki ajánlattételrea (3)–(8) bekezdésben foglaltak szerint.
+(2) Ha a beszerzés nem tartozik az (1) bekezdés hatálya alá, az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében szereplő, a végrehajtandó meghatározott cselekményhez a szükséges szakértelemmel rendelkező szervezetek közül véletlenszerű kiválasztással három közreműködő szervezetet jelöl ki ajánlattételre
+
+a (3)–(8) bekezdésben foglaltak szerint.
 
 (3) A közreműködő szervezetek névjegyzékébe minden Magyarország területén gazdasági tevékenységet folytató személy és szervezet (a továbbiakban együtt: szervezet) felvehető, ha a névjegyzékbe való felvételre vonatkozó kérelem előterjesztésekor szerepel a köztartozásmentes adózói adatbázisban. Ha az adóhatóság a köztartozásmentes adózói adatbázisból törli a közreműködő szervezetet, egyúttal törli a névjegyzékből is.
 
@@ -1187,7 +1196,7 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 (2) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkereséshez csatolni kell a követelés megállapításáról szóló döntést.
 
-(3) A végrehajtási eljárás elrendelését követően benyújtott fizetési kedvezmény iránti kérelem elbírálása során az állami adó- és vámhatóság a 109. § alapján jár el azzal, hogy a tartozás mérséklésének nincs helye.
+(3) A végrehajtási eljárás elrendelését követően benyújtott fizetési kedvezmény iránti kérelem elbírálása során az állami adó- és vámhatóság a 110. § alapján jár el.
 
 (4) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló pénzkövetelések végrehajtása során az állami adó- és vámhatóság a 108. §-ban foglaltaktól eltérően a pénzköveteléseket behajthatatlanként nyilvántarthatja.
 
@@ -1197,7 +1206,7 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 #### 57/B. A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló meghatározott cselekmények végrehajtásának szabályai
 
-125/B. § (1) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló meghatározott cselekmény végrehajtását az állami adó- és vámhatóság az I–V. Fejezet rendelkezései szerint, a jelen alcímben meghatározott eltérésekkel foganatosítja.
+125/B. § (1) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló meghatározott cselekmény végrehajtását az állami adó- és vámhatóság az I–XI. Fejezet rendelkezései szerint, a jelen alcímben meghatározott eltérésekkel foganatosítja.
 
 (2) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkereséshez csatolni kell a kötelezettség megállapításáról szóló döntést.
 
@@ -1245,7 +1254,7 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 (2) 2019. december 31-ét követően az állami adó- és vámhatóság a 12. alcím kivételével az e törvényben foglaltak alapján végzi a végrehajtást a 29. § (1) bekezdés i)–u) pontja szerinti, 2019. január 1-jét megelőzően kiállított azon végrehajtható okiratok tekintetében, amelyek esetében a végrehajtási eljárás érdemi befejezésére 2019. december 31-ig nem került sor. E § alkalmazásában érdemi befejezéssel érintett eljárásnak a 2018. december 31-én a bírósági végrehajtási ügyvitelről és pénzkezelésről szóló 1/2002. (I. 17.) IM rendelet szerint érdemben befejezett végrehajtási eljárások minősülnek.
 
-(3) A végrehajtást lefolytató Törvényszék 2020. január 31-ig elektronikus úton, az állami adó- és vámhatóság által rendszeresített elektronikus űrlapon adja át a (2) bekezdés szerinti ügyeket az állami adó- és vámhatóságnak. A végrehajtást lefolytató Törvényszék az elektronikus űrlaphoz digitalizált formátumban mellékeli az ügyben keletkezett valamennyi ügyiratot.
+(3) A végrehajtást lefolytató törvényszék – az állami adó- és vámhatóság által kialakított – elektronikus úton adja át a (2) bekezdés szerinti ügyeket az állami adó- és vámhatóságnak. A törvényszék a 2019. december 31. napján folyamatban lévő ügyeket 2020. január 31-ig, az ügyviteli befejezéssel érintett ügyeket 2020. december 31. napjáig adja át. A végrehajtást lefolytató törvényszék az elektronikus űrlaphoz digitalizált formátumban mellékeli az ügyben keletkezett valamennyi ügyiratot.
 
 (4) A (2) bekezdés szerinti ügyekben az ügy átadására a törvényszéki végrehajtói letéti számlára 2019. december 31-ig beérkezett összegek felosztását és a törvényszéki végrehajtó által foganatosított cselekményekkel, intézkedésekkel szemben benyújtott jogorvoslati kérelmek jogerős elbírálását követően kerülhet sor.
 
@@ -1253,7 +1262,13 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 (6) A (2) bekezdés szerinti ügyekben a törvényszéki végrehajtó által lefoglalt vagyontárgyak értékesítésére 2020. január 1. napjától e törvény rendelkezései alapján kerülhet sor. A törvényszéki végrehajtó által 2019. december 31. napját követő időpontra kitűzött árveréseket meghiúsultnak kell tekinteni.
 
+(7) A végrehajtást kezdeményező törvényszék az állami adó- és vámhatóságnak nem adja át azokat a (2) bekezdés szerinti ügyeket, amelyek elévültek, vagy amelyeket behajthatatlanná nyilvánítottak.
+
+(8) A végrehajtást kezdeményező törvényszék a (2) bekezdés szerinti, az államot megillető, 200 ezer forintot el nem érő követeléssel érintett, valamint az államot megillető 2010. január 1. napja előtt indult törvényszéki végrehajtási ügyeket az állami adó- és vámhatóságnak nem adja át.
+
 131/B. § Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel (a továbbiakban. Módtv.1.) megállapított 1. §-t, 15. § (5a) bekezdését, 47. § (3) bekezdését, 52. § (7) bekezdését, 67. § (1) bekezdés b) pontját, a 123/A. §-át és 123/B. §-át a Módtv.1. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell.
+
+131/C. § E törvénynek a Magyarország 2020. évi központi költségvetésének a megalapozásáról szóló 2019. évi LXVI. törvénnyel (a továbbiakban: Módtv.2.) megállapított 108. §-át és 125/A. § (3) bekezdését a Módtv.2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 #### 61. A törvény hivatalos rövid megjelölése
 

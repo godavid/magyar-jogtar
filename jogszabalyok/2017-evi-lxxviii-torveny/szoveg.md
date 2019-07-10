@@ -2603,7 +2603,7 @@ törli a nyilvántartásból.
 
 (2) Az ügyvédi kamarai nyilvántartás 1. mellékletben meghatározott fennálló, törölt és megváltozott adatai nyilvánosak, a fennálló és nyilvános adatait pedig az ügyvédkeresőben naprakészen nyilvánosságra kell hozni.
 
-(3) Az ügyvédi kamara az 1. mellékletben foglalt táblázat 20. sora szerinti adatot az Eüsztv. szerinti rendelkezési nyilvántartásból átveszi, ha azt az ügyvéd vagy az európai közösségi jogász oda jelentette be, illetve átadja az Eüsztv. szerinti rendelkezési nyilvántartásnak, ha azt az ügyvédi kamarai nyilvántartásba jelentették be.
+(3) Az ügyvédi kamara az 1. mellékletben foglalt táblázat 20. sora szerinti adatot az Eüsztv. szerinti rendelkezési nyilvántartásból átveszi.
 
 190. § (1) Az ügyvédi kamarai nyilvántartás tartalmazza az ügyvédi iroda
 
@@ -2638,7 +2638,7 @@ törli a nyilvántartásból.
 
 (4) Az ügyvédi kamarai nyilvántartásnak az (1) bekezdés 1–12. pontja és a (2) bekezdése szerinti adatai nyilvánosak, közzétehetők vagy bárki számára kiadhatók, a fennálló adatait az ügyvédkeresőben naprakészen nyilvánosságra kell hozni.
 
-(5) Az ügyvédi kamara az (1) bekezdés 7. pontja szerinti adatot az Eüsztv. szerinti rendelkezési nyilvántartásból átveszi, ha azt az ügyvédi iroda oda jelentette be, illetve átadja az Eüsztv. szerinti rendelkezési nyilvántartásnak, ha azt az ügyvédi iroda az ügyvédi kamarai nyilvántartásba jelentette be.
+(5) Az ügyvédi kamara az (1) bekezdés 7. pontja szerinti adatot az Eüsztv. szerinti rendelkezési nyilvántartásból átveszi.
 
 191. § Az ügyvédi kamarai nyilvántartás tartalmazza a nyilvántartott adat bejegyzésének és törlésének az időpontját, valamint az annak alapjául szolgáló ügyvédi kamarai határozat számát és keltét.
 

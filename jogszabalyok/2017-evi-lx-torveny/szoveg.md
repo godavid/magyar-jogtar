@@ -469,7 +469,7 @@ bármely fél a 7. § (2) bekezdésében meghatározott bírósághoz fordulhat,
 
 57. § (1) A választottbírói tisztségről lemondás, valamint a választottbírói megbízatás felek általi megszüntetésére vonatkozó megállapodás akkor hatályosul, ha arról az eljáró választottbírósági tanács mindegyik tagja, továbbá lemondás esetén valamennyi fél értesült.
 
-(2) A választottbírósági ítélet érvénytelenítése esetén az érvénytelenített ítélettel megszűnt választottbírósági eljárás választottbírói díjmentes, az érvénytelenített ítéletet hozó választottbírósági tanácsot díj nem illeti meg. Az érvénytelenítést követően folytatódó eljárásban a felek adminisztrációs költség fizetésére nem kötelezhetők.
+(2) A választottbírósági ítélet érvénytelenítése esetén az érvénytelenítést követően folytatódó eljárásban a felek a választottbírósági tanácsot megillető díj, valamint adminisztrációs költség fizetésére nem kötelezhetők.
 
 (3) Az állandó választottbíróság szabályzata, vagy eseti választottbíráskodás esetén a választottbírósági tanács és a felek megállapodása kizárhatja vagy korlátozhatja az állandó választottbíróság, a választottbírósági tanács és a választottbírák felelősségét, kivéve a szándékos vagy súlyos gondatlanságból eredő károkozásért való felelősséget.
 
@@ -524,17 +524,20 @@ bármely fél a 7. § (2) bekezdésében meghatározott bírósághoz fordulhat,
 - b) választottbíró-ajánlási listát készít, és azt legalább háromévente felülvizsgálja,
 - c) gyakorolja az e törvény szerinti választottbíró-kijelölési jogot,
 - d) eljárási kérdésekre vonatkozó ajánlásokat tehet azzal, hogy az ajánlás az eljáró választottbírósági tanácsot nem köti,
-- e) az eljárási szabályzatban megállapítja az alapeljárás, valamint az eljárásújítás választottbírósági díjának mértékét,
-- f) az eljárási szabályzatban meghatározza, hogy a Kereskedelmi Választottbíróság hatáskörébe tartozó mely ügyekben kell a választottbírót az energetikai, és mely ügyekben a pénz- és tőkepiaci szekció tagjai közül kijelölni.
+- e) az eljárási szabályzatban megállapítja az alapeljárás, a választottbírósági ítélet érvénytelenítését követően folytatódó eljárás, valamint az eljárásújítás választottbírósági díjának mértékét, továbbá a választottbírósági ítélet érvénytelenítése esetén az adott ügyben eljáró választottbírósági tanács vagy tanácsok díjazásával összefüggő részletszabályokat,
+- f) az eljárási szabályzatban meghatározza, hogy a Kereskedelmi Választottbíróság hatáskörébe tartozó mely ügyekben kell a választottbírót az energetikai, és mely ügyekben a pénz- és tőkepiaci szekció tagjai közül kijelölni,
+- g) az eljárási szabályzatban írja elő elkülönített tartalékalap képzését a felek által meg nem térítendő díjak és költségek fedezése céljából, valamint dönt az elkülönített tartalékalap terhére történő kifizetések teljesítéséről az eljárási szabályzatban meghatározott rend szerint.
 
 (2) Az elnök
 
 - a) irányítja a titkárságot,
-- b) gondoskodik arról, hogy a Kereskedelmi Választottbíróság keretében eljáró választottbírósági tanács által meghozott ítélet és permegszüntető végzés anonimizált és a felek felismerésének lehetőségét kizáró kivonata a határozat meghozatalától számított hat hónap elteltével a Kereskedelmi Választottbíróság honlapján kereshető formában megjelenjen és ott fellelhető legyen.
+- b) gondoskodik arról, hogy a Kereskedelmi Választottbíróság keretében eljáró választottbírósági tanács által meghozott ítélet és a 17. § (3) bekezdés szerinti döntés, valamint a választottbírósági eljárást a 45. § (2) bekezdés d) pontja alapján megszüntető végzés anonimizált és a felek felismerésének lehetőségét kizáró kivonata a határozat meghozatalától számított hat hónap elteltével a Kereskedelmi Választottbíróság honlapján kereshető formában megjelenjen és ott fellelhető legyen.
 
 (3) Az elnökség tagja havi tiszteletdíjra jogosult, amelynek mértékéről és a megfizetésével összefüggésben felmerülő terhek viseléséről az elnökségbe tagot delegáló jogi személyek állapodnak meg.
 
 (4) A 61. § (4) bekezdése szerinti jelentős tapasztalattal az a személy rendelkezik, akinek a neve legalább öt éve fel van tüntetve valamely belföldi vagy külföldi állandó választottbíróság választottbírói listáján (névjegyzékén), vagy legalább öt éve rendszeresen jogi képviseletet lát el választottbírósági ügyekben. A Magyar Kereskedelmi és Iparkamara elnöke visszautasítja annak a személynek az elnökségbe delegálását, aki nem felel meg az elnökségbe delegálhatóság e törvényben meghatározott feltételeinek.
+
+(5) Ha a felek által meg nem térítendő díjak és költségek fedezése céljából képzett elkülönített tartalékalap nem nyújt fedezetet a szükséges kifizetések teljesítéséhez, a fedezet rendelkezésre állásáról a Kereskedelmi Választottbíróságot működtető Magyar Kereskedelmi és Iparkamara gondoskodik.
 
 #### 45. Választottbíró-ajánlási lista
 

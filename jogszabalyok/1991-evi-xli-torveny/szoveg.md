@@ -175,7 +175,7 @@ a közjegyzőkről
 (2) Az (1) bekezdés e) pontjában említett gyakorlatnak megfelel a legalább 3 éves
 
 - a) bírói, ügyészi, ügyvédi, kamarai jogtanácsosi vagy közjegyzői működés,
-- b) a jogi szakvizsga megszerzését követően központi közigazgatási szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben szerzett kormánytisztviselői, illetve köztisztviselői gyakorlat, vagy
+- b) a jogi szakvizsga megszerzését követően a kormányzati igazgatásról szóló törvény szerinti központi kormányzati igazgatási szervnél, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 2. §-a szerinti szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben szerzett kormánytisztviselői, illetve köztisztviselői gyakorlat, vagy
 - c) a jogi szakvizsga megszerzését követően szerzett alkotmánybírói, nemzetközi szervezetnél vagy az Európai Unió valamely szervénél ítélkezési vagy az igazságszolgáltatással összefüggő tevékenységből eredő gyakorlat.
 
 (3) Nem nevezhető ki közjegyzővé az,
@@ -330,9 +330,15 @@ a közjegyzőkről
 
 ### A közjegyzői szolgálat szünetelése
 
-24/A. § (1) Ha a közjegyzőt országgyűlési, helyi önkormányzati képviselőjelöltként, illetőleg polgármesterjelöltként nyilvántartásba vették, ettől az időponttól a választás befejezéséig, illetőleg megválasztása esetén mandátuma megszűnéséig közjegyzői szolgálata szünetel. A közjegyző a szünetelés időtartama alatt közjegyzői tevékenységet nem végezhet, részére tartós helyettest kell kirendelni.
+24/A. § (1) A közjegyző közjegyzői szolgálata szünetel
 
-(2) A közjegyzői szolgálat szünetelése alatt a közjegyző kamarai tagsága fennmarad, de nem gyakorolhatja a kamarai tagságból eredő jogokat, és nem terhelik a kamarai tagságból fakadó kötelezettségek.
+- a) ha a közjegyzőt országgyűlési, helyi önkormányzati képviselőjelöltként, illetve polgármesterjelöltként nyilvántartásba vették, ettől az időponttól a választás eredményének jogerős megállapításáig, illetve megválasztása esetén mandátuma megszűnéséig,
+- b) központi kormányzati igazgatási szervek és ezek területi szervei kormánytisztviselőjévé való kinevezése esetén a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyának időtartama alatt,
+- c) a politikai tanácsadóvá, politikai főtanácsadóvá és a kabinetfőnökké való kinevezése esetén a kormányzati igazgatásról szóló törvény szerinti politikai szolgálati jogviszonyának időtartama alatt.
+
+(2) A közjegyző a szünetelés időtartama alatt közjegyzői tevékenységet nem végezhet, részére tartós helyettest kell kirendelni.
+
+(3) A közjegyzői szolgálat szünetelése alatt a közjegyző kamarai tagsága fennmarad, de nem gyakorolhatja a kamarai tagságból eredő jogokat, és nem terhelik a kamarai tagságból fakadó kötelezettségek.
 
 ### III. Fejezet — A KÖZJEGYZŐHELYETTES, A KÖZJEGYZŐJELÖLT ÉS A KÖZJEGYZŐI IRODAI ÜGYINTÉZŐ
 
@@ -560,6 +566,13 @@ a közjegyzőkről
 (4) A tartós helyettesítési megállapodás megszűnését – ideértve a 34. § (2) bekezdésében meghatározott megállapodás megszűnését is – mindkét fél köteles haladéktalanul bejelenteni a területi kamara elnökének. Ha a tartós helyettesítés ezzel egyidejűleg nem szűnik meg, a területi kamara elnöksége a változást átvezeti a közjegyzői névjegyzéken.
 
 (5) A tartós helyettes kirendelését a területi kamara elnöksége visszavonja, és ezzel egyidejűleg a tartós helyettest törli a közjegyzői névjegyzékből, ha a kirendelés oka megszűnt vagy a kirendelés feltételei már nem állnak fenn.
+
+(6) Ha a tartós helyettes kirendelésének oka megváltozik, azt a területi kamara
+
+- a) a 34. § (1) bekezdés a) pontja esetén hivatalból,
+- b) a 34. § (1) bekezdés b) pontja esetén a közjegyzőnek a kirendelés alapjául szolgáló körülmények megváltozásának tényét és időpontját tartalmazó bejelentése alapján
+
+észleli, és gondoskodik a tartós helyettesítés folyamatosságáról.
 
 36. § (1) A helyettesített közjegyző a helyettesítés tartama alatt közjegyzőként nem járhat el.
 
@@ -818,9 +831,9 @@ foglalt kötelezettségek teljesítését.
 
 (9) A (2) és a (4) bekezdés szerinti névjegyzék – a (2) bekezdés a), d) és e) pontjában foglalt adatok kivételével –, valamint az (5) bekezdés szerinti nyilvántartás – az (5) bekezdés a)–c) és e) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(10) A kamara az (5) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt a közjegyzői iroda oda jelentette be.
+(10) A kamara az (5) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi.
 
-(11) Ha a közjegyzői iroda az (5) bekezdés h) pontja szerinti adatot a kamara felé jelentette be, a cégbíróság azt a (10) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.
+(11)
 
 #### 49/B. §
 
@@ -979,7 +992,17 @@ foglalt kötelezettségek teljesítését.
 
 (3)
 
-(4)–(9)
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
 
 ### Egyéb rendelkezések
 

@@ -12,7 +12,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 1. § (1) A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) államigazgatási és fegyveres rendvédelmi feladatokat ellátó, a Kormány eredeti jogalkotói hatáskörében kiadott rendeletében kijelölt miniszter (a továbbiakban: kijelölt miniszter) által irányított, központi hivatalként működő központi költségvetési szerv.
 
-(2) A NAV a központi költségvetésben önálló fejezetet képez.
+(2)
 
 (3) A NAV a részére a tárgyévi költségvetési törvényben meghatározott költségvetési támogatáson felül további – személyi juttatásokra, munkaadókat terhelő járulékokra és felhalmozási kiadásokra fordítható – támogatásra jogosult a költségvetési törvényben rögzített bevételi tervek teljesítésével összefüggésben. A bevételi követelményeket, a felhasználható forrás mértékét, jogcímét és ütemezését a költségvetési törvényben kell meghatározni.
 
@@ -85,9 +85,9 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 (5) A Bűnügyi Főigazgatóság felettes szerve – a (6) bekezdésben meghatározott kivétellel – a Központi Irányítás.
 
-(6) A Bűnügyi Főigazgatóság – a büntetőeljárásról szóló törvény szerinti – felettes szerve az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese.
+(6) A Bűnügyi Főigazgatóság – a büntetőeljárásról szóló törvény szerinti – felettes szerve az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese.
 
-(7) A kijelölt miniszter és az állami adó- és vámhatóság vezetője az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatainak ellátásáért felelős szakmai helyettesét, valamint a kijelölt miniszter, az állami adó- és vámhatóság vezetője és az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatainak ellátásáért felelős szakmai helyettese a Bűnügyi Főigazgatóság főigazgatóját a NAV bűnmegelőzési és bűnüldözési feladatainak ellátása körében, egyedi ügyben nem utasíthatja.
+(7)
 
 ### A Nemzeti Adó- és Vámhivatal feladatai
 
@@ -112,7 +112,7 @@ megállapítása, beszedése, nyilvántartása, végrehajtása, visszatérítés
 - b) végzi az adó-, vám- és pénzforgalmi adatoknak, az ellenőrzések megállapításainak összegezését, feldolgozását és ezekről a kormányzati gazdaságpolitika kialakításában részt vevő állami szervek részére információk szolgáltatását,
 - c) feldolgozza az államháztartás működéséhez szükséges és rendelkezésre álló adatokat és az adópolitikáért felelős miniszternek átadja,
 - d) Központi Irányítása és a feladat- és hatáskörrel rendelkező területi szerve összegyűjti és tárolja az (1) bekezdésben megadott feladatokkal, különösen a befizetési kötelezettséggel, a kapcsolódó eljárással összefüggő adatokat, amelyekről a NAV a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és adatszolgáltatásokat teljesít,
-- e)
+- e) adó- vagy vámigazgatási jogkörben eljáró szerve egyéb érdekeltként vesz részt a költségvetést károsító bűncselekmény gyanúja miatt indított büntetőeljárásban,
 - f) lefolytatja az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti központosított ellenőrzést,
 - g) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai és munkavállalói részére egészségmegőrzési, egészségügyi, szociális és kulturális feladatokat lát el,
 - h) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai részére ellátja a munkavégzésükhöz szükséges képzés, továbbképzés megszervezését és lebonyolítását,
@@ -3279,7 +3279,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 (2) A bűnmegelőzési és bűnüldözési feladatokhoz kapcsolódó adatokat, valamint a 78. § szerint egyéb adatkezelés alá vont adatokat elkülönítetten kell kezelni, és – ha törvény eltérően nem rendelkezik – kizárólag a kezelésük alapjául szolgáló célra lehet felhasználni.
 
-(3) A NAV az (1) bekezdésben meghatározottak szerint kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól a NAV felügyeletére kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
+(3) A NAV az (1) bekezdésben meghatározottak szerint kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól a kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
 
 67. § (1) A NAV által vezetett, az Air., az Art., a Vtv. és az egyéb adó- és vámjogszabályok alapján a feladat- és hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási, vámigazgatási eljárással kapcsolatos nyilvántartások összekapcsolhatók. A NAV adóztatási feladatainak ellátása céljából kezelt adatokat, vámigazgatási feladatainak ellátása céljából a vámigazgatási feladatokat ellátó alkalmazott, illetve a NAV vámigazgatási feladatainak ellátása céljából kezelt adatokat, adóztatási feladatainak ellátása céljából az adóztatási feladatokat ellátó alkalmazott megismerheti, felhasználhatja, ideértve a megismert adatnak az ellenőrzésre történő kiválasztás során való felhasználását is.
 
@@ -3394,7 +3394,7 @@ kezelheti.
 
 (2) A NAV által kezelt adatokat személyazonosításra alkalmatlan módon, történelmi kutatási, statisztikai vagy tudományos célra lehet felhasználni.
 
-(3) A kijelölt miniszter, az állami adó- és vámhatóság vezetője, az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese, továbbá a Bűnügyi Főigazgatóság vezetője a NAV által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
+(3) A kijelölt miniszter, az állami adó- és vámhatóság vezetője, az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese, továbbá a Bűnügyi Főigazgatóság vezetője a NAV által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
 
 75. § (1) A NAV a Vízuminformációs Rendszerhez a törvény szerint hatáskörébe tartozó, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. számú melléklete által meghatározott bűncselekmények megelőzése, felderítése, és nyomozása céljából, meghatározott egyedi ügyben betekintés céljából történő hozzáférést kezdeményezhet. A kezdeményezést a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az EUROPOL számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat (a továbbiakban: 2008/633/IB tanácsi határozat) szerinti kijelölt nemzeti központi hozzáférési ponthoz kell megtenni.
 
@@ -3434,8 +3434,8 @@ kezelheti.
 
 76. § (1) A NAV bűnüldözési célú adatkezelési rendszereibe csak
 
-- a) az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese,
-- b) a Központi Irányítás állományába tartozó, az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese által erre eseti jelleggel vagy tartósan felhatalmazott személy,
+- a) az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese,
+- b) a Központi Irányítás állományába tartozó, az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese által erre eseti jelleggel vagy tartósan felhatalmazott személy,
 - c) a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szerveinek bűnüldözési feladatokat irányító vezetői,
 - d) a pénzügyi nyomozók,
 - e) a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szerveinek bűnüldözési feladatokat irányító vezetői által kijelölt, e szervek állományába tartozó más személy,
@@ -3487,7 +3487,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 78/A. § A NAV biztonsági feladatokat ellátó szervezeti egységének munkatársa célhozkötötten, az állami adó- és vámhatóság vezetője által meghatározottak szerint a NAV által kezelt adatokba – figyelemmel a 76. § (1) bekezdés b) pontjára is – betekinthet, egyedi adatkezelést végezhet.
 
-78/B. § A NAV kezelésében lévő létesítmény rendjének és jogszerű működésének védelme és az abban tartózkodók biztonsága érdekében a létesítmény területét határoló külső falakon, kapuknál és kerítésen, valamint a létesítmény folyosóin, ügyfélterében – az emberi méltóság védelme érdekében megfigyelés elől elzárt területeket kivéve – a NAV képfelvevőt helyezhet el és felvételt készíthet. A képfelvétel készítésének és az adatkezelésnek a tényéről, továbbá a képfelvevő által megfigyelt területről a belépő személyek tájékoztatása érdekében figyelemfelhívó tájékoztatót kell elhelyezni. Az e § alapján készített, rögzített felvételre, illetve az abban szereplő személyes adatra a 36/O. § (3) bekezdését és a 36/P. § (1) bekezdését kell alkalmazni.
+78/B. § Ha a NAV a kezelésében lévő létesítmény rendjének és jogszerű működésének védelme és az abban tartózkodók biztonsága érdekében képfelvevőt helyez el és felvételt készít, a képfelvevőt kizárólag a létesítmény területét határoló külső falakon, kapuknál és kerítésen, valamint a létesítmény folyosóin, ügyfélterében – az emberi méltóság védelme érdekében megfigyelés elől elzárt területeket kivéve – helyezhet el és képfelvételt kizárólag e területekről készíthet. A NAV köteles figyelmeztető jelzést elhelyezni arról a tényről, hogy az adott területen képfelvételt készít, továbbá köteles a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendeletben (általános adatvédelmi rendelet) meghatározott tartalommal összeállított tájékoztatót a felvétel készítésének helyszínén, továbbá a honlapján bárki számára hozzáférhető módon közzétenni. Az e § alapján készített, rögzített felvételre, illetve az abban szereplő személyes adatra a 36/O. § (3) és (4) bekezdését valamint a 36/P. § rendelkezéseit kell alkalmazni.
 
 79. § A NAV feladat- és hatáskörrel rendelkező szerve az elektronikus úton kapcsolatot tartó ügyfél azonosítása érdekében nyilvántartja az elektronikus úton kapcsolatot tartó természetes személy (felhasználó) természetes személyazonosító adatait, lakcímét, elektronikus levélcímét, adóazonosító jelét, állampolgárságát.
 
@@ -3560,7 +3560,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - d) a pénzügyőrök tekintetében az egészségi, pszichikai és fizikai alkalmasság követelményeit, az egészségi, pszichikai és fizikai alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervek, szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi, pszichikai és fizikai alkalmassági követelményeknek való meg nem feleléssel és a baleset, betegség szolgálati kötelmekkel való összefüggésének megállapításával kapcsolatos eljárást, a szolgálati lőfegyver ideiglenes bevonásának szabályait, valamint a NAV tisztjelöltjeinek egészségi és pszichikai alkalmassági vizsgálatával kapcsolatos szabályokat;
 - e) a pénzügyőrök tekintetében az egészségügyi szabadság, a szolgálatmentesség, valamint a csökkentett napi szolgálati idő megállapításának, engedélyezésének és kiadásának szabályait, továbbá a szolgálatképtelenség igazolására vonatkozó szabályokat;
 - f) a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete keretében az egészségügyi alapellátás igénybevételének módját és az igénybevevők körét;
-- g) a pénzügyőrök részére szolgálati és kiegészítő igazolványok, valamint a szolgálati azonosító jelvény rendszeresítésével összefüggő szabályokat;
+- g) a pénzügyőrök és a tisztjelöltek részére szolgálati és kiegészítő igazolványok, valamint a szolgálati azonosító jelvény rendszeresítésével összefüggő szabályokat;
 - h) azokat a végzettségeket, amelyeket az alap- és középfokú szaktanfolyami végzettséggel egyenértékűnek kell tekinteni, valamint azon munkaköröket, amelyek tekintetében a szaktanfolyam elvégzésének kötelezettsége nem áll fenn.
 - i) a rendelkezési állományba helyezettek illetményére vonatkozó szabályokat,
 - j) a szolgálatképes állapot megállapítása érdekében a befolyásoltság kiszűrése céljából elvégezhető vizsgálatok körét és a vizsgálat végrehajtásának szabályait,

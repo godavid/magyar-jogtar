@@ -15,7 +15,7 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 - 5. magasépítési beruházás előkészítése: a magasépítési beruházáshoz szükséges tanulmányok, szakvélemények, tervek, dokumentáció elkészítése, engedélyeztetés lefolytatása, a beruházással érintett ingatlanok jogi helyzetének rendezése;
 - 6. magasépítési beruházás megvalósítása: a magasépítési beruházás előkészítési szakaszát követő építési tevékenység és az annak megvalósításához szükséges valamennyi járulékos feladat ellátása.
 
-2. § E törvény hatálya az állami magasépítési beruházásokra terjed ki, ide nem értve a Kormány e törvény végrehajtására kiadott rendeletében meghatározott magasépítési beruházások kivételi körét.
+2. § E törvény hatálya az állami magasépítési beruházásokra, valamint a 4. § (7) bekezdés szerinti magasépítési beruházásokra terjed ki, ide nem értve a Kormány e törvény végrehajtására kiadott rendeletében meghatározott magasépítési beruházások kivételi körét.
 
 3. § A kormányzati magasépítési beruházás és a központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházás megvalósításának, az abban való közreműködésnek a részletszabályait a Kormány az e törvény végrehajtására kiadott rendeletében határozza meg.
 
@@ -35,11 +35,13 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 (7) A Beruházási Ügynökség a megvalósítója azoknak a központi költségvetési forrásból finanszírozott magasépítési beruházásoknak is, amelyek során a magasépítési beruházáshoz szükséges ingatlan megállapodás alapján az állam részére biztosított.
 
+(8) Az (7) bekezdés szerinti magasépítési beruházásokra a kormányzati magasépítési beruházásokra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a (7) bekezdés szerinti magasépítési beruházás keretében létrejött vagyonelemek – eltérő megállapodás hiányában – az ingatlan tulajdonosát illetik meg térítésmentesen. A magasépítési beruházás műszaki átadás-átvételének a lebonyolítását követően, a munkaterület kivitelező által a Beruházási Ügynökség részére történő visszaadását követő napon a beruházás során létrejött vagyonelemeket a Beruházási Ügynökség az általa nyilvántartott könyv szerinti értéken, befejezetlen beruházásként átadja a beruházással érintett ingatlan tulajdonosának.
+
 ### III. Fejezet — A KORMÁNYZATI MAGASÉPÍTÉSI BERUHÁZÁSOK
 
 #### 1. A Beruházási Ügynökség mint a kormányzati magasépítési beruházások megvalósítójának feladatai
 
-5. § (1) A Beruházási Ügynökség a kormányzati magasépítési beruházások megvalósítása során az állam javára és nevében jár el.
+5. § (1) A Beruházási Ügynökség a kormányzati magasépítési beruházások előkészítése és megvalósítása során az állam javára és nevében jár el.
 
 (2) A Kormány egyedi határozatában kormányzati magasépítési beruházások megvalósítójának a Beruházási Ügynökség helyett más szervet is kijelölhet.
 
@@ -99,21 +101,23 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 (2) A Beruházási Ügynökség állam nevében való tevékenysége során az államháztartás központi alrendszerére vonatkozó, az államháztartásról szóló 2011. évi CXCV. törvényben (a továbbiakban: Áht.) és az államháztartásról szóló törvény végrehajtásáról szóló kormányrendeletben előírt gazdálkodási szabályokat kell alkalmazni, a (3)–(10) bekezdésekben foglalt eltérésekkel.
 
-(3) A Beruházási Ügynökség által az állam nevében megvalósítandó kormányzati magasépítési beruházások esetén a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettségek felső korlátját a Kormány egyedi határozatában állapítja meg. A Beruházási Ügynökség e kötelezettségvállalásai esetén az Áht. 36. § (4)–(4d) bekezdését nem kell alkalmazni.
+(3) A Beruházási Ügynökség által az állam nevében előkészítendő vagy megvalósítandó kormányzati magasépítési beruházások esetén a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettségek felső korlátját a Kormány egyedi határozatában állapítja meg. A Beruházási Ügynökség e kötelezettségvállalásai esetén az Áht. 36. § (4)–(4d) bekezdését nem kell alkalmazni.
 
-(4) A (3) bekezdés szerinti kötelezettségvállalási keretet a Kormány beruházás jóváhagyásáról szóló egyedi határozatában megjelölt teljes kötelezettségvállalási összeg terheli, ideértve az Áht. 36. § (1)–(2) bekezdése szerinti kötelezettségvállalások összegét is.
+(4) A (3) bekezdés szerinti kötelezettségvállalási keretet a Kormány beruházás előkészítéséről vagy jóváhagyásáról szóló egyedi határozatában megjelölt teljes kötelezettségvállalási összeg terheli, ideértve az Áht. 36. § (1)–(2) bekezdése szerinti kötelezettségvállalások összegét is.
 
 (5) A központi költségvetésről szóló törvény önálló fejezetként tartalmazza a Beruházási Ügynökség állam nevében végzett feladatainak költségvetési bevételeit és költségvetési kiadásait. E fejezet kizárólag központi kezelésű előirányzatokat tartalmaz, a Beruházási Ügynökség az állam nevében vállalt kötelezettségeiből eredő kifizetéseit közvetlenül ezek terhére teljesíti.
 
-(6) Az (5) bekezdés szerinti fejezetben a Kormány egyedi határozatával jóváhagyott kormányzati magasépítési beruházások vagy programszerűen megvalósítandó kormányzati magasépítési beruházások (a továbbiakban e § tekintetében: beruházások) kiadásait külön előirányzaton kell elszámolni.
+(6) Az (5) bekezdés szerinti fejezetben a Kormány egyedi határozatával jóváhagyott kormányzati magasépítési beruházások vagy programszerűen megvalósítandó kormányzati magasépítési beruházások (a továbbiakban e § tekintetében: beruházások) előkészítésének és megvalósításának kiadásait külön előirányzaton kell elszámolni.
 
 (7) Az (5) bekezdés szerinti fejezetben beruházási tartalékot kell képezni a fejezetben kiadási előirányzattal rendelkező beruházások tervezettől eltérő ütemű elszámolásának kezelésére és a jóváhagyott vagy új beruházások kapcsán év közben meghozott kormányzati döntések finanszírozására.
 
-(8) Az (5) bekezdés szerinti fejezetet irányító szerv a Kormány egyedi határozatával jóváhagyott kormányzati magasépítési beruházáshoz kapcsolódó kötelezettségvállalás teljesítéséhez a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre.
+(8) Az (5) bekezdés szerinti fejezetet irányító szerv a Kormány egyedi határozatával jóváhagyott kormányzati magasépítési beruházás előkészítéséhez vagy megvalósításához kapcsolódó kötelezettségvállalás teljesítéséhez a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
-(9) Az (5) bekezdés szerinti fejezetet irányító szerv a fejezet beruházási tartaléka és kiadási előirányzattal rendelkező beruházások költségvetési éven belül keletkező megtakarítása terhére a fejezeten belül átcsoportosíthat.
+(9) Az (5) bekezdés szerinti fejezetet irányító szerv a fejezet beruházási tartaléka és kiadási előirányzattal rendelkező beruházások költségvetési éven belül keletkező megtakarítása terhére a fejezeten belül átcsoportosíthat az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
 (10) Az (5) bekezdés szerinti fejezetbe sorolt beruházások kiadási előirányzatait az egyes beruházásokhoz kapcsolódó kötelezettségvállalások teljesítése érdekében – a (9) bekezdés szerinti átcsoportosítási lehetőség hiányában – a fejezetet irányító szerv javaslata alapján az államháztartásért felelős miniszter módosíthatja.
+
+(10a) Amennyiben a beruházás költségvetési fedezetét a Magyar Államkincstár által vezetett fizetési számlák közötti átutalás biztosítja, a Beruházási Ügynökség állam nevében végzett feladataihoz kapcsolódó előirányzatokat tartalmazó fejezetet irányító szerv a fejezet költségvetési bevételi előirányzata javára elszámolandó átutalás összegével ezen beruházás előkészítését vagy megvalósítását szolgáló kiadási előirányzatot módosíthatja az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
 (11) A Beruházási Ügynökség az állam nevében végzett feladataiból eredő műveletek hatásainak elkülönített nyilvántartásban történő könyvvezetését és beszámolási kötelezettségét az államháztartás számviteléről szóló kormányrendelet előírásai szerint teljesíti.
 

@@ -25,7 +25,7 @@ felhasználható utalvány.
 
 - a) szociális célú üdültetéshez,
 - b) szociális célú étkeztetéshez,
-- c) szociális és gyermekvédelmi támogatások Erzsébet-utalványban történő folyósításához,
+- c)
 - d) az a)–c) pontban foglaltakkal összefüggő egyéb szociális célú feladatok ellátásához
 
 kapcsolódó szervezési és lebonyolítási teendőket lát el.

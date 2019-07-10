@@ -13,8 +13,8 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 (2) Állami projektértékelői jogviszony létesíthető azzal, aki
 
 - a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és megyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként, állami tisztviselőként vagy köztisztviselőként,
-- b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként,
-- c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként vagy közalkalmazottként, vagy
+- b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, valamint állami felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
+- c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként vagy közalkalmazottként vagy
 - d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként
 
 [az a)–d) pont továbbiakban együtt: állami alkalmazott] foglalkoztatott és projektértékelési feladatok ellátására sikeres pályázóként kiválasztásra került.
@@ -27,13 +27,20 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 (6) A (4) bekezdésben foglaltakon túl a törvény kötelező alkalmazásának további esetköreit – ideértve a felhívások kiválasztási eljárásrendjének meghatározását is – és feltételeit kormányrendelet meghatározhatja.
 
-(7) E törvényt – az alkalmazott kiválasztási eljárástól függetlenül – nem kell alkalmazni a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvényben (a továbbiakban: KFItv.) meghatározott, továbbá a KFItv. alapján kötött megállapodásban foglalt, kutatás-fejlesztési és innovációs projektekkel kapcsolatos, illetve támogatási kérelmekre vonatkozó értékelési feladatokra és eljárásokra.
+(7) E törvényt – az alkalmazott kiválasztási eljárástól függetlenül – nem kell alkalmazni
+
+- a) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvényben (a továbbiakban: KFItv.) meghatározott, továbbá
+- b) a KFItv. alapján kötött megállapodásban foglalt, kutatás-fejlesztési és innovációs, illetve a szélessávú infrastruktúra kiépítéséhez és fejlesztéséhez nyújtott beruházási támogatásokra vonatkozó projektekkel kapcsolatos, illetve támogatási kérelmekre vonatkozó
+
+értékelési feladatokra és eljárásokra.
+
+(8) E törvényt nem kell alkalmazni a (4) vagy (6) bekezdés szerinti felhívásra benyújtott támogatási kérelmek esetén, ha ahhoz a miniszter különösen indokolt esetben hozzájárul.
 
 #### 2. Értelmező rendelkezések
 
 2. § E törvény alkalmazásában
 
-- 1. alapjogviszony: fennálló kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, valamint többségi állami befolyás alatt álló gazdasági társasággal fennálló munkaviszony;
+- 1. alapjogviszony: fennálló kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszony, állami felsőoktatási intézményben fennálló munkaviszony, valamint többségi állami befolyás alatt álló gazdasági társasággal fennálló munkaviszony;
 - 2. állami projektértékelői jogviszony: közfeladat ellátása céljából létrehozott, munkavégzésre irányuló különös jogviszony, amelyben az érintett alapjogviszonnyal rendelkezik, és amelyre a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit nem kell alkalmazni;
 - 3. értékelő: olyan állami projektértékelői jogviszonyban álló állami alkalmazott, aki a keretszerződés megkötését követően szaktudása alapján végzi a támogatási kérelmek tartalmi értékelését;
 - 4. központi államigazgatási szerv: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (2) bekezdés c)–g) és i) pontjában meghatározott szerv;
@@ -59,10 +66,11 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 - a) a pályázóval szemben támasztott feltételeket,
 - b) a pályázat benyújtására nyitva álló határidő megjelölését,
-- c) a pályázat elbírálásának várható időpontját, továbbá
-- d) mindazokat az egyéb tartalmi és formai elemeket, amelyeket jogszabály ír elő.
+- c) a pályázat elbírálásának várható időpontját,
+- d) a pályázói adatlapot, továbbá
+- e) mindazokat az egyéb tartalmi és formai elemeket, amelyeket jogszabály ír elő.
 
-(3) A benyújtott pályázathoz mellékelni kell a pályázó büntetlen előéletét igazoló hatósági bizonyítványt, ha a büntetlen előélet az alapjogviszony létesítésekor nem volt feltétel.
+(3) A jogviszony létesítését megelőzően a pályázó nyilatkozik arról, hogy büntetlen előéletű és nem áll foglalkozástól eltiltás hatálya alatt. Ha a pályázó, értékelő büntetlen előéletével összefüggésben kétség merül fel, a munkáltatói jogkör gyakorlója írásban, indokolással felszólíthatja, hogy a felhívástól számított tizenöt napon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvány bemutatásával igazolja, hogy büntetlen előéletű.
 
 (4) A miniszter gondoskodik arról, hogy a pályázati eljárás során megfelelt és kiválasztott személyt a szakértői névsorba bejegyezzék.
 
@@ -70,13 +78,79 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 (6) A pályázat tartalmával, benyújtásával és elbírálásának rendjével kapcsolatos részletes szabályokat a Kormány rendeletben állapítja meg.
 
+(7) A pályázói adatlaphoz mellékelni kell a pályázó alapjogviszonya fennállásáról szóló munkáltatói igazolást és a Kormány rendeletében meghatározott nyilatkozatokat.
+
 5. § (1) Nem keletkeztet összeférhetetlenséget az értékelő alapjogviszonya.
 
-(2) Ha az alapjogviszony az Mt. szerinti munkaviszony és az értékelő az 1. § (2) bekezdés e) pontja szerint foglalkoztatott vezető állású munkavállalónak minősül – az Mt. 211. § (1) bekezdésétől eltérően –, projektértékelői jogviszonyt létesíthet.
+(2) Ha az alapjogviszony az Mt. szerinti munkaviszony és az értékelő az 1. § (2) bekezdés b) vagy d) pontja szerint foglalkoztatott vezető állású munkavállalónak minősül – az Mt. 211. § (1) bekezdésétől eltérően –, projektértékelői jogviszonyt létesíthet.
 
 6. § (1) Ha jogszabály kizárja, az értékelő nem vehet részt a támogatási kérelem elbírálásában.
 
 (2) Az értékelő tekintetében – ha a rendőrségről szóló törvény előírja – a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellenőrizheti, hogy az értékelő eleget tesz-e az e törvényben meghatározott kötelezettségének.
+
+#### 3/A. Az állami projektértékelő jogviszony létesítéséhez szükséges pályázói adatlap, nyilatkozatok és a pályázó alapjogviszonya fennállásáról szóló munkáltatói igazolás
+
+6/A. § A pályázói adatlap tartalmazza:
+
+- a) a pályázó
+  - aa) nevét,
+  - ab) születési nevét,
+  - ac) anyja nevét,
+  - ad) születési helyét, idejét,
+  - ae) adóazonosító jelét,
+  - af) társadalombiztosítási azonosító jelét,
+  - ag) lakóhelyét,
+  - ah) tartózkodási helyét,
+  - ai) értesítési e-mail címét,
+  - aj) telefonszámát,
+  - ak) fizetési számláját kezelő pénzforgalmi szolgáltató megnevezését,
+  - al) bankszámlaszámát,
+- b) a pályázó alapjogviszonya szerinti munkahelye
+  - ba) típusát,
+  - bb) megnevezését,
+  - bc) adószámát,
+- c) a pályázó nyilatkozatát arról, hogy az e törvény szerinti alapjogviszonyban áll-e,
+- d) a pályázó által választott tématerületet, amely tárgykörben értékelést kíván végezni,
+- e) a pályázó által választott szakértői tématerülettel kapcsolatos szakmai tapasztalatának időtartamát,
+- f) az állami projektértékelői jogviszony létesítéséhez szükséges nyilatkozatok meglétének igazolását,
+- g) a projektértékelői azonosítót (a minisztérium által működtetett informatikai rendszer által generált adat).
+
+6/B. § Az állami projektértékelői jogviszony létesítéséhez szükséges nyilatkozatok tartalmazzák a pályázó
+
+- a) nevét,
+- b) születési nevét,
+- c) születési helyét, idejét,
+- d) anyja nevét,
+- e) adóazonosító jelét.
+
+6/C. § A pályázó alapjogviszonya fennállásáról szóló munkáltatói igazolás tartalmazza
+
+- a) a pályázó alapjogviszony szerinti munkáltatója
+  - aa) megnevezését,
+  - ab) székhelyének címét,
+  - ac) telefonszámát,
+  - ad) adószámát,
+  - ae) nyilvántartási számát (törzskönyvi azonosító szám, cégjegyzékszám),
+  - af) törvényes képviselőjének adatait (név, beosztás, telefonszám),
+- b) a foglalkoztatott
+  - ba) nevét,
+  - bb) születési nevét,
+  - bc) születési helyét, idejét,
+  - bd) anyja nevét,
+  - be) munkahelyi telefonszámát,
+  - bf) munkakörét, illetve beosztását,
+  - bg) jelenlegi jogviszonya jellegét (kormányzati szolgálati jogviszony, közszolgálati jogviszony, közalkalmazotti jogviszony, munkaviszony),
+  - bh) jelenlegi jogviszonyának kezdetét,
+  - bi) kinevezése, illetve munkaszerződése időtartamát,
+- c) az alapjogviszony szerinti munkáltató nyilatkozatát arról, hogy
+  - ca) a foglalkoztatott nem áll felmentés vagy felmondás hatálya alatt,
+  - cb) a foglalkoztatott hatósági bizonyítvánnyal igazolta, hogy büntetlen előéletű vagy nem hatósági erkölcsi bizonyítványhoz kötött munkakörben dolgozik,
+  - cc) az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény szerint a foglalkoztatottnak az alapjogviszonya tekintetében vagyonnyilatkozat-tételi kötelezettsége fennáll-e,
+- d) a vagyonnyilatkozat tételére kötelezett foglalkoztatott
+  - da) vagyonnyilatkozat-tételének időpontját,
+  - db) következő vagyonnyilatkozat-tételének esedékességét,
+- e) az alapjogviszony szerinti munkáltató igazolását a foglalkoztatott – igazolás kiállítását megelőző hónapra megállapított – havi bruttó illetményéről vagy munkabéréről,
+- f) az alapjogviszony szerinti munkáltató nyilatkozatát arról, hogy vállalja, hogy az a)–e) pont szerinti adatokban történő változásról – különösen a foglalkoztatási jogviszony megszűnésének, megszüntetésének tényéről – a minisztériumot haladéktalanul tájékoztatja.
 
 #### 4. A projektértékelői keretszerződés
 
@@ -93,7 +167,7 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 #### 5. A feladatellátással kapcsolatos szabályok
 
-8. § (1) Az értékelő feladatellátását a miniszter írásban – a konkrét munkavégzés megkezdése előtt legalább hét nappal – esetileg rendeli el.
+8. § (1) Az értékelő feladatellátását a miniszter írásban, elektronikus úton – a konkrét munkavégzés megkezdése előtt legalább három nappal – esetileg rendeli el.
 
 (2) Az értékelő feladatellátása nem érinti az alapjogviszonya szerinti munkavégzését.
 
@@ -101,7 +175,7 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 (4) A miniszter a díjazás általános alapelveit normatív utasításban meghatározhatja.
 
-(5) A miniszter az 1. § (3) bekezdésében, a 7. § (1) bekezdésében, valamint az (1) bekezdésben meghatározott hatáskörét normatív utasításban átruházhatja.
+(5) A miniszter az 1. § (3) és (8) bekezdésében, a 7. § (1) bekezdésében, valamint az (1) bekezdésben meghatározott hatáskörét normatív utasításban átruházhatja.
 
 (6) A feladatellátásból eredő kötelezettsége megszegésével okozott kárért az értékelő az alapjogviszonya szerinti kártérítési felelősséggel tartozik.
 
@@ -129,36 +203,62 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 - a) az esetileg meghatározott feladat teljesítését nem vállalja,
 - b) egy naptári éven belül neki felróható okból határidőt mulasztott,
-- c) megszegte a keretszerződésben megállapított feltételeket.
+- c) megszegte a keretszerződésben megállapított feltételeket,
+- d) vonatkozásában lefolytatott ellenőrzés során összeférhetetlenség kerül megállapításra.
 
 (6) Az értékelő – az (1) bekezdés b) pontja szerinti esetben annak törvényes örököse – az (1) és (2) bekezdésben felsorolt esetekben a jogviszonya megszűnésekor köteles a munkáltatóval elszámolni.
 
 (7) A jogviszony megszűnésével egyidejűleg az értékelő adatait a szakértői névsorból törölni kell.
 
-#### 7. Adatkezelési szabályok
+(8) Az alapjogviszony szerinti munkáltató köteles az (1) bekezdés b)–d) pontja szerinti feltételek bekövetkezéséről a munkáltatót tájékoztatni.
 
-10. § (1) A munkáltató a 3. § (2) bekezdés a) pontjában foglalt feltételnek való megfelelés ellenőrzése céljából kezeli
+#### 7. Adatkezelési szabályok, a szakértői névsor összeállítása, a névsorban szereplő adatok és tények nyilvántartása
 
-- a) az értékelőként jogviszonyt létesíteni szándékozó személy,
-- b) az értékelő
+10. § (1) A munkáltató
 
-azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+- a) a 3. § (2) bekezdés a) pontjában foglalt feltételnek való megfelelés ellenőrzése,
+- b) az európai uniós források felhasználásával megvalósuló egyes projektek objektív és a piaci szereplők érdekeitől független értékelésének ellenőrzése,
+- c) az állami projektértékelői jogviszonnyal összefüggő munkáltatói intézkedések és jognyilatkozatok előkészítésének és meghozatalának biztosítása, valamint
+- d) az állami projektértékelői jogviszonnyal összefüggő jogok gyakorlásának és kötelezettségek teljesítésének biztosítása
 
-(2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – a jogviszony megszűnéséig (megszüntetéséig) kezeli.
+céljából kezeli az értékelőként jogviszonyt létesíteni szándékozó személy és az állami projektértékelő személyes adatait, valamint a 4. § (3) bekezdése szerinti nyilatkozatát, és azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-(3) A munkáltató a jogviszonyból származó jogok gyakorlásának és kötelezettségek teljesítésének elősegítése céljából kezeli az értékelő munkaszerződésben és a szakértői névsorban szereplő személyes adatait.
+(2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – 2027. december 31-ig kezeli.
 
-(4) A szakértői névsorba bejegyzett adatok közül az értékelő neve és tématerülete közérdekből nyilvános adatnak minősül.
+(3) A munkáltató a pályázó, illetve értékelő
 
-(5) A szakértői névsorral kapcsolatos adatkezelés jogszerűségéért és az adatszolgáltatásért a miniszter a felelős.
+- a) állami projektértékelő jogviszonya létesítéséhez – a Kormány rendeletében – előírt iskolai végzettséget igazoló oklevelét, bizonyítványát, illetve a szakmai tapasztalat igazolását, továbbá
+- b) fizetési számlára vonatkozó, a fizetési számláját kezelő pénzforgalmi szolgáltató által kiállított igazolást
 
-(6) A munkáltató köteles az értékelőt tájékoztatni személyes adatainak kezeléséről. A munkáltató az értékelőre vonatkozó tényt, adatot, véleményt harmadik személlyel csak törvényben meghatározott esetben vagy az értékelő hozzájárulásával közölhet.
+másolati vagy elektronikus formában ellenőrzés céljából írásban, az ellenőrzés céljának megjelölésével bekérheti.
 
-(7) A jogviszonyból származó kötelezettségek teljesítése céljából a munkáltató az értékelő személyes adatait – az adatszolgáltatás céljának megjelölésével, törvényben meghatározottak szerint – az adatfeldolgozó számára átadhatja. Erről az értékelőt előzetesen tájékoztatni kell.
+(4) Az értékelő köteles öt napon belül bejelenteni a nyilvántartott adataiban bekövetkezett változást.
 
-(8) Az értékelőre vonatkozó adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – hozzájárulása nélkül, személyazonosításra alkalmatlan módon – átadhatók.
+(5) A munkáltató az értékelőre vonatkozó tényt, adatot, véleményt harmadik személlyel csak törvényben meghatározott esetben vagy az értékelő hozzájárulásával közölhet.
 
-(9) A Kormány rendeletben állapítja meg a szakértői névsor összeállítására, a névsorban szereplő adatok és tények nyilvántartásának eljárási rendjére vonatkozó – e törvényben nem szabályozott – részletes szabályokat.
+(6) Az értékelőt előzetesen tájékoztatni kell arról, ha a jogviszonyból származó kötelezettségek teljesítése céljából a munkáltató az értékelő személyes adatait – az adatszolgáltatás céljának megjelölésével, törvényben meghatározottak szerint – az adatfeldolgozó számára átadja.
+
+(7) Az értékelőre vonatkozó adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – az értékelő hozzájárulása nélkül, személyazonosításra alkalmatlan módon – átadhatók.
+
+10/A. § (1) Az értékelők adatait tartalmazó szakértői névsor – az adatvédelmi követelményekre figyelemmel történő – összeállításáról, folyamatos vezetéséről és elektronikus nyilvántartásáról a miniszter az erre a célra kialakított informatikai rendszerben gondoskodik.
+
+(2) A szakértői névsorba bejegyzett adatok közül az értékelő neve és tématerülete közérdekből nyilvános adatnak minősül.
+
+(3) A szakértői névsorral kapcsolatos adatszolgáltatásért a miniszter a felelős.
+
+(4) A szakértői névsort és annak módosítását – hivatalos közzététele előtt – a munkáltatói jogkör gyakorlója hagyja jóvá.
+
+(5) A szakértői névsor közérdekből nyilvános adatainak a www.palyazat.gov.hu honlapon történő közzétételéről a munkáltatói jogkör gyakorlója gondoskodik.
+
+(6) A 10. § (4) bekezdése szerinti adatok szakértői névsorban történő módosításáról a munkáltatói jogkör gyakorlója dönt.
+
+10/B. § (1) A pályázók és az értékelők minisztériumi nyilvántartása (a továbbiakban együtt: nyilvántartás) egyedi azonosítószám alapján történik, amelyet az érintettek a regisztráció során kapnak meg.
+
+(2) A nyilvántartás minden személyről a pályázói adatlapon közölt vagy az értékelő bejelentése alapján a munkáltató által módosított adatokat és tényeket tartalmazza.
+
+(3) A keretszerződés megkötését követően az értékelőről nyilvántartott adatokat ki kell egészíteni az összeférhetetlenségi és titoktartási nyilatkozat megtételére vonatkozó információval.
+
+(4) A nyilvántartásba – eljárásukban indokolt mértékig – a jogszabályban erre feljogosítottak jogosultak betekinteni és abból adatokat átvenni.
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -167,15 +267,17 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 11. § Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 
 - a) a projektértékelői pályázat tartalmára, kiírására, benyújtására, valamint a pályázat elbírálásának rendjére vonatkozó részletes szabályokat,
-- b) a szakértői névsor összeállítására, a névsorban szereplő adatok és tények nyilvántartásának eljárási rendjére vonatkozó részletes szabályokat,
+- b)
 - c) az értékelő eseti feladatellátásával kapcsolatos részletes szabályokat,
 - d) a mikro-, kis- és középvállalkozások, valamint a helyi és területi önkormányzatok számára nyitva álló felhívások esetén a kiválasztási eljárásrendek körét,
-- e) e törvény kötelező alkalmazásának további esetköreit és a kötelező alkalmazás további feltételeit és azok részletes szabályait.
+- e) e törvény kötelező alkalmazásának további esetköreit és a kötelező alkalmazás további feltételeit és azok részletes szabályait, valamint a kötelező alkalmazás alóli mentesítésre vonatkozó részletszabályokat.
 
 12. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
 13. § A 8. § (1) bekezdésében meghatározott feladat elrendelésekor az értékelő feladatellátási kötelezettsége az e törvény hatálybalépésekor már folyamatban lévő projektek értékelésére is kiterjedhet.
 
+14. § E törvénynek a Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvénnyel (a továbbiakban: 2019. évi LXVI. törvény) megállapított 1. § (8) bekezdését azokra a felhívásokra lehet alkalmazni, amelyek esetén a felhívásban megállapított valamely elbírálási szakaszra benyújtott támogatási kérelmek tartalmi értékelése a 2019. évi LXVI. törvény hatálybalépésekor még nem kezdődött meg.
+
 #### 9. Módosító rendelkezések
 
-#### 14–16. §
+#### 15–16. §

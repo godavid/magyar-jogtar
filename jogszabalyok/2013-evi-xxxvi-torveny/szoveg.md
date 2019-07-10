@@ -2805,7 +2805,7 @@ visszavonhatja átjelentkezési kérelmét.
 
 328. § A települési nemzetiségi önkormányzati választás eredményét a helyi választási bizottság állapítja meg.
 
-329. § (1) A 327. § (1) bekezdése szerinti szavazatszámlálás eredményéről kiállított jegyzőkönyvek egy-egy példányát a helyi választási iroda legkésőbb a szavazást követő napon 10 óráig eljuttatja a területi választási irodához.
+329. § (1) A 327. § (1) bekezdése szerinti szavazatszámlálás eredményéről kiállított jegyzőkönyvek egy-egy példányát a helyi választási iroda legkésőbb a szavazást követő második napon eljuttatja a területi választási irodához.
 
 (2) A területi választási bizottság a területi listás szavazólapok megszámlálásáról az (1) bekezdés szerint kiállított jegyzőkönyvek és az általa végzett szavazatszámlálás eredményét megállapító jegyzőkönyv alapján megállapítja a területi nemzetiségi önkormányzati választás eredményét.
 

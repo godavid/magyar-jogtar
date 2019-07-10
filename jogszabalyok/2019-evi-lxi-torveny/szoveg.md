@@ -2,7 +2,7 @@
 
 a közigazgatási bíróságokról szóló törvény hatálybalépésének elhalasztásáról
 
-1. § Hatályát veszti a közigazgatási bíróságokról szóló törvény hatálybalépéséről és egyes átmeneti szabályokról szóló 2018. évi CXXXI. törvény (a továbbiakban: Átmtv.).
+1. §
 
 2. § Az Átmtv. 2. § (1) bekezdése, 6. § (1) bekezdése, valamint 7. § (1) bekezdése alapján megtett nyilatkozatok hatályukat vesztik.
 

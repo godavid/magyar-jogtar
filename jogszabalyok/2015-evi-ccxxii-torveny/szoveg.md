@@ -218,7 +218,7 @@ teljesítheti.
 
 (2) A gazdálkodó szervezet az elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségének megváltozását a változás bekövetkezését megelőzően, a változás időpontjának megjelölésével bejelenti a rendelkezési nyilvántartásba.
 
-(3) A gazdálkodó szervezet – ha működéséhez jogszabály által rendszeresített nyilvántartásba vétele kötelező – az (1) bekezdésben foglalt kötelezettségét azzal is teljesíti, ha az elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét a gazdálkodó szervezetre vonatkozó nyilvántartásba bejelenti.
+(3)
 
 (4) A hivatalos elérhetőségre kézbesített küldemény kézbesítettnek minősül,
 
@@ -240,9 +240,11 @@ teljesítheti.
 
 (8) Ha a gazdálkodó szervezet ügyfél hivatalos elérhetőséggel nem rendelkezik, az elektronikus ügyintézést biztosító szerv az eljárást elektronikus kapcsolattartás nélkül is lefolytathatja azzal, hogy a gazdálkodó szervezet ezen kötelezettségének nem teljesítése miatt az elektronikus ügyintézést biztosító szerv kezdeményezi a gazdálkodó szervezettel szembeni, törvényben meghatározott törvényességi felügyeleti eljárás vagy hatósági ellenőrzés lefolytatását.
 
-(9) A (3) bekezdés szerinti, a gazdálkodó szervezetre vonatkozó nyilvántartást vezető szerv a hivatalos elérhetőség nyilvántartásba vétele, valamint üzemeltetése érdekében elektronikus úton, térítésmentesen és nyilvántartás céljából átadja a rendelkezési nyilvántartást vezető szervnek, valamint a gazdálkodó szervezet által megjelölt biztonságos kézbesítési szolgáltatási cím szolgáltatónak a gazdálkodó szervezetre vonatkozó, a gazdálkodó szervezet és a képviseletére jogosult személy azonosításához szükséges, az adott nyilvántartásban szereplő nyilvános adatokat. Az adatszolgáltatás lebonyolításának technikai szabályait az érintett szervek megállapodásban rögzítik.
+(9) Ha a gazdálkodó szervezet közhiteles nyilvántartásban szerepel, a gazdálkodó szervezet nyilvántartását vezető szerv a hivatalos elérhetőség nyilvántartásba vétele, valamint üzemeltetése érdekében elektronikus úton, térítésmentesen átadja a rendelkezési nyilvántartást vezető szervnek, valamint a gazdálkodó szervezet által megjelölt biztonságos kézbesítési szolgáltatási cím szolgáltatónak a gazdálkodó szervezetre vonatkozó, a gazdálkodó szervezet és a képviseletére jogosult személy azonosításához szükséges, az adott nyilvántartásban szereplő nyilvános adatokat. Az adatszolgáltatás lebonyolításának technikai szabályait az érintett szervek megállapodásban rögzítik.
 
-14/A. § A 14. § (1) és (3) bekezdés szerinti, a gazdálkodó szervezetre vonatkozó nyilvántartásban foglalt adatokat a nyilvántartást vezető szerv a Központi Statisztikai Hivatal részére az adatszolgáltatói kör kijelölése céljából, térítésmentesen átadja és azokat a Központi Statisztikai Hivatal statisztikai célra jogosult kezelni.
+(10) Az egyéni vállalkozó hivatalos elérhetőségét a Kormány rendeletében meghatározott módon jelenti be.
+
+14/A. § A 14. § (1) bekezdés szerinti, a gazdálkodó szervezetre vonatkozó nyilvántartásban foglalt adatokat a nyilvántartást vezető szerv a Központi Statisztikai Hivatal részére az adatszolgáltatói kör kijelölése céljából, térítésmentesen átadja és azokat a Központi Statisztikai Hivatal statisztikai célra jogosult kezelni.
 
 15. § (1) Természetes személy ügyintézési rendelkezésében jogosult megadni olyan hivatalos elérhetőséget, amely tekintetében vállalja a 14. § szerinti követelmények teljesítését. Ebben az esetben a kézbesítés időpontja és a kézbesítési fikció tekintetében a 14. § rendelkezései megfelelően irányadóak.
 
@@ -1665,17 +1667,7 @@ egyidejűleg tartalmazza.
 
 (6) Az e § szerint előállított elektronikus kiadmány bizonyító ereje az alapul szolgáló papír alapú irattal megegyezik.
 
-104. § (1) Az informatikai fejlesztések egységességének, az informatikai rendszerek együttműködési képességének biztosítása érdekében minden elektronikus ügyintézés biztosítására kötelezett állami szerv a Kormány rendeletében meghatározottak szerint, az elektronikus kapcsolattartást vagy az informatikai rendszerek együttműködési képességét érintő fejlesztései tekintetében informatikai fejlesztési tervet készít és azt bejelenti a Kormány rendeletében kijelölt szervnek a rendeletben meghatározottak szerint.
-
-(2) A kijelölt szerv az elektronikus kormányzati stratégiai célokhoz és az infokommunikációs infrastruktúrához történő illeszkedés szempontjára figyelemmel kialakított álláspontjáról tizenöt munkanapon belül tájékoztatja a bejelentő szervet.
-
-(3) Ha további adatok benyújtása válik szükségessé, a kijelölt szerv azok beérkezését követő nyolc munkanapon belül adja ki állásfoglalását.
-
-(4) A bejelentő állami szervnek az informatikai fejlesztést a kijelölt szerv álláspontjának figyelembevételével kell megvalósítania.
-
-(5) A bejelentés részletes szabályait a Kormány rendeletben állapítja meg.
-
-(6) Az (1)–(4) bekezdésben meghatározott feladatok ellátása érdekében a kijelölt szerv az álláspontjának kialakítása során együttműködik az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 14. § (1) bekezdésében meghatározott, az elektronikus információs rendszerek biztonságának felügyeletét ellátó hatósággal.
+104. §
 
 104/A. § (1) A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendeletben kijelölt központi szolgáltató (a továbbiakban: központi szolgáltató) a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére biztosítja
 
@@ -1738,7 +1730,7 @@ kell biztosítani.
 - i) az adat- és iratmegnevezések jegyzéke adattartalmára és vezetésére vonatkozó részletes szabályokat,
 - j) a központi címregiszter vezetése, működése, az egységes címképzés szabályait, valamint az egységes címkezelés részletes eljárási szabályait,
 - k) az e törvény szerinti központi elektronikus ügyintézési szolgáltatásokra vonatkozó szabályokat, a kötelezően igénybe veendő központi elektronikus ügyintézési szolgáltatások körét,
-- l) a 104. § (1) bekezdés szerinti informatikai fejlesztési tervre, valamint bejelentésre és a bejelentés jogkövetkezményeire vonatkozó részletes szabályokat,
+- l)
 - m) a felügyeleti vizsgálat részletes szabályait, valamint
 - n) a koordinációs eljárás részletes szabályait.
 
@@ -1751,7 +1743,7 @@ kell biztosítani.
 
 - a) a központi címregiszter működtetéséért felelős szervet,
 - b) a Harmadik Rész szerinti együttműködésre kijelölt közfeladatot ellátó szerveket, valamint
-- c) a 104. § (1) bekezdése szerinti szervet.
+- c)
 
 (5a) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
