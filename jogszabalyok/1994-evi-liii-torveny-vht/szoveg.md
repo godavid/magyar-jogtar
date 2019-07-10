@@ -3187,10 +3187,11 @@ esetén van lehetőség.
 - a) a végrehajtó magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 - b) a végrehajtóval szemben a 233. § (2) bekezdés b)–d) vagy i) pontjában meghatározott körülmény következett be,
 - c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
-- d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári év mindegyikében a 270 napot,
+- d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári év mindegyikében a 270 napot, kivéve a 240/B. § (2)–(2a) bekezdésében foglalt esetet,
 - e) a végrehajtó a kinevezését megelőzően vagy azt követően keletkezett összeférhetetlenséget felszólításra nem szüntette meg,
 - f) a végrehajtónak 30 napot meghaladóan nincs bejelentve állandó helyettese,
-- g) a végrehajtó a kinevezését követő 3 hónapon belül nem alapít végrehajtói irodát vagy nem lép be tagként végrehajtói irodába.
+- g) a végrehajtó a kinevezését követő 3 hónapon belül nem alapít végrehajtói irodát vagy nem lép be tagként végrehajtói irodába,
+- h) a végrehajtót helyi önkormányzati képviselőnek, illetve polgármesternek megválasztották.
 
 (4) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) vagy i) pontjában meghatározott körülmény állt fenn.
 
@@ -3240,7 +3241,9 @@ esetén van lehetőség.
 
 240/B. § (1) Az egybefüggően 30 napot meghaladó távollét esetén a 31. naptól a végrehajtói szolgálat szünetel. Ha egy naptári évben a távollét összesen meghaladja a 90 napot, a végrehajtói szolgálat a 91. naptól szünetel.
 
-(2) Ha a végrehajtót országgyűlési, helyi önkormányzati képviselőjelöltként, illetve polgármesterjelöltként nyilvántartásba vették, ettől az időponttól a választás befejezéséig, illetve megválasztása esetén a mandátuma megszűnéséig végrehajtói szolgálata szünetel.
+(2) Ha a végrehajtót országgyűlési képviselőjelöltként nyilvántartásba vették, ettől az időponttól a választás eredményének jogerős megállapításáig, illetve megválasztása esetén a mandátuma megszűnéséig végrehajtói szolgálata szünetel.
+
+(2a) A végrehajtó politikai tanácsadóvá, politikai főtanácsadóvá vagy kabinetfőnökké való kinevezése esetén a kormányzati igazgatásról szóló törvény szerinti politikai szolgálati jogviszonyának időtartama alatt végrehajtói szolgálata szünetel.
 
 (3) A szünetelést a Kar hivatali szerve állapítja meg.
 
@@ -3354,7 +3357,7 @@ esetén van lehetőség.
 - c) a végrehajtó szolgálata szünetel,
 - d) a végrehajtó 30 napot meg nem haladóan van távol.
 
-(2) Az (1) bekezdés d) pontjában meghatározott esetekben, valamint akkor ha a végrehajtó szolgálata a 240/B. § (2) bekezdése alapján szünetel, a végrehajtót az általa foglalkoztatott végrehajtó-helyettes, a helyettesítés egyéb eseteiben az állandó helyettes helyettesíti.
+(2) Az (1) bekezdés d) pontjában meghatározott esetben a végrehajtót az általa foglalkoztatott végrehajtó-helyettes, a helyettesítés egyéb eseteiben az állandó helyettes helyettesíti.
 
 (3) Amennyiben a végrehajtó nem foglalkoztat legalább egyéves végrehajtó-helyettesi gyakorlattal rendelkező végrehajtó-helyettest, a végrehajtót állandó helyettese helyettesíti.
 

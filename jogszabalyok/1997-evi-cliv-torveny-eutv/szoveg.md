@@ -2387,7 +2387,7 @@ költségének fedezetét.
 
 (2) A miniszter ágazati irányító jogköre kiterjed minden egészségügyi tevékenységre, illetőleg – jogállásától függetlenül – minden egészségügyi szolgáltatóra.
 
-(3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban ETT), a szakmai kollégiumok, valamint az országos gyógyintézetek segítik.
+(3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban: ETT), az egészségügyi szakmai kollégium, a Közép- és Kelet-európai Onkológiai Akadémia Alapítvány, valamint az országos gyógyintézetek segítik.
 
 (3a) Az országos gyógyintézet az egészségügyért felelős miniszter által vezetett minisztérium gyógyító-megelőző, szervezési-módszertani, továbbképző és tudományos alapintézményeként, népegészségügyi szempontból kiemelkedő jelentőségű szakmacsoportokon belül lát el gyógyító, módszertani, epidemiológiai, szervezési, kutatási és oktatási tevékenységet.
 
@@ -2400,6 +2400,33 @@ költségének fedezetét.
 - a) a miniszter részére javaslatot tesz, felkérésre véleményez, elemzést, értékelést készít,
 - b) az adott betegséggel, betegségcsoporttal összefüggésben érdekképviseletet lát el,
 - c) kapcsolatot tart az egészségügyi szakmai kollégium adott tagozatával, a civil, érdekképviseleti szervezetekkel, az illetékes egészségügyi szakmai kamarákkal, a vallási közösségekkel, valamint az alapítványokkal.
+
+### Közép- és Kelet-európai Onkológiai Akadémia Alapítvány
+
+151/A. § (1) Az Országgyűlés felhívja a Kormányt a Közép- és Kelet-európai Onkológiai Akadémia Alapítvány (a továbbiakban: Alapítvány) létrehozására.
+
+(2) Az Alapítvány az onkológia oktatásával, kutatásával, a kutatás támogatásával, az elért eredmények hazai és nemzetközi bemutatásával, az eredmények gyógyításban történő felhasználásával összefüggő alábbi országos közfeladatokat és nemzetközi feladatokat látja el:
+
+- a) elősegíti az onkológiai szakma fejlesztését, oktatását, kutatását, tudományos eredmények megszületését,
+- b) figyelemmel kíséri az onkológiai szakterület hazai és nemzetközi fejlődését, az elért tudományos eredményeket,
+- c) közreműködik az onkológia hazai és nemzetközi elméleti és gyakorlati oktatásában, ezen feladata megvalósítása érdekében kétoldalú együttműködési megállapodásokat köt, szakmai konferenciákat, képzéseket szervez,
+- d) támogatja az új tudományos eredményeket, képzési módszereket feltáró munkákat, illetve a szaktudományos és oktatási kiadványok megjelenését, szaktudományos kiadványokat ad ki,
+- e) együttműködik a hazai és nemzetközi szakmai, tudományos szervezetekkel, egészségtudományi képzést folytató felsőoktatási intézményekkel, az egészségügyben működő szakmai kamarákkal,
+- f) feladatkörében együttműködik az egészségügy területén működő civil szervezetekkel, az egészségügyben működő szakmai kamarákkal,
+- g) a tevékenysége során hazai és nemzetközi adatok elemzésével közreműködik a szakterületének fejlesztésében,
+- h) ellátja azokat a további feladatokat, amelyeket törvény a hatáskörébe utal, illetve azokat az érintettek megállapodása alapján átadott feladatokat, amelyek átvételét jogszabály nem tiltja.
+
+(3) Az Alapítvány olyan közfeladatot lát el, amely a közép-kelet-európai régió onkológus szakemberei közötti kapcsolatépítést ösztönző tevékenységét pályázatok kiírásával, és programszervezéssel, képzések szervezésével támogatja.
+
+(4) Az Alapítvány oktatási tevékenysége megvalósítása érdekében az illetékes országos gyógyintézettel együttműködve alakítja ki oktatási programját.
+
+(5) A (2) és (3) bekezdésekben foglalt feladatok ellátásához és az Alapítvány működéséhez szükséges pénzügyi fedezet biztosításáról a központi költségvetésről szóló törvény rendelkezik.
+
+(6) Az Alapítvány közhasznú jogállással rendelkezik.
+
+(7) Az Alapítvány vagyonának biztosításáról a Kormány gondoskodik.
+
+(8) Az Alapítvány önálló jogi személyiséggel rendelkező szervezeti egysége az Onkológiai Akadémia, amely az Alapítvány elismert hazai és nemzetközi szaktekintélyű tagjai révén látja el a (2) bekezdésben foglalt egyes feladatokat.
 
 ### A helyi önkormányzatok feladatai
 
@@ -2650,7 +2677,7 @@ alkalmazható.
 
 (4) Egyedülálló nő esetében a reprodukciós eljárás akkor végezhető el, amennyiben a nő életkora vagy egészségi állapota (meddőség) következtében gyermeket természetes úton nagy valószínűséggel nem vállalhat. A reprodukciós eljárás megkezdésére, a tájékoztatásra, a beleegyező nyilatkozatra e fejezet rendelkezései megfelelően irányadók. A reprodukciós eljárás során testen kívül létrejött és be nem ültetett embrióval kapcsolatos, e fejezet szerinti rendelkezési jogot az egyedülálló nő gyakorolja azzal, hogy rendelkezési jogáról közokiratban vagy teljes bizonyító erejű magánokiratban lemondhat.
 
-(5) Reprodukciós eljárás megfelelő szakorvosi javaslatra, az eljárás lefolytatására kiadott működési engedély alapján jogosult egészségügyi szolgáltatónál végezhető.
+(5) Reprodukciós eljárás megfelelő szakorvosi javaslatra az eljárás lefolytatására kiadott működési engedély alapján jogosult egészségügyi szolgáltatónál végezhető.
 
 168. § (1) Reprodukciós eljárás – egyedülállóvá vált nő esetén annak folytatása – a házastársak, illetőleg élettársak együttes, illetve – a 167. § (2) bekezdése szerinti kizáró nyilatkozat hiányában, valamint a letétbe helyezett embrióval kapcsolatos rendelkezési jog keretei között – az egyedülállóvá vált nő írásbeli kérelmére — végezhető. A kérelmet teljes bizonyító erejű magánokiratba kell foglalni. Az élettársi kapcsolat fennállásáról az élettársak közokiratban nyilatkoznak.
 
@@ -2672,9 +2699,9 @@ alkalmazható.
 
 (6) A 171. § (4) bekezdésében meghatározott módon történő női ivarsejt-adományozás esetén a felajánlás és az adományozó nyilatkozat megtételét megelőzően a beavatkozást végző orvos, illetőleg orvoscsoport tagja, valamint egy, a beavatkozásban részt nem vevő orvos az adományozót szóban és írásban tájékoztatja a beavatkozást megelőzően az adományozót érintő kezelésekről, a beavatkozás jellegéről, kockázatairól, körülményeiről és az adományozásra vonatkozó jogszabályi rendelkezésekről. A tájékoztatásra az e törvényben foglalt általános szabályok is megfelelően irányadók.
 
-169. § (1) A reprodukciós eljárások végzésére jogosult egészségügyi szolgáltatók működésének szakmai feltételeit, az egyes beavatkozások alapjául szolgáló egészségügyi indikációk körét, valamint az egészségügyi beavatkozások végzésének részletes szakmai szabályait a miniszter rendeletben határozza meg.
+169. § (1) A reprodukciós eljárások végzésére jogosult egészségügyi szolgáltatók működésének szakmai feltételeit, az egyes beavatkozások alapjául szolgáló egészségügyi indikációk körét, és az egészségügyi beavatkozások végzésének részletes szakmai szabályait a miniszter rendeletben határozza meg.
 
-(2) Reprodukciós eljárások végzésére működési engedély csak olyan egészségügyi szolgáltató részére adható, amely egyidejűleg megfelel az ivarsejtek, illetőleg az embriók fagyasztva tárolására vonatkozó, külön jogszabályban meghatározott szakmai feltételeknek is.
+(2) Reprodukciós eljárások végzésére működési engedély kizárólag olyan egészségügyi szolgáltató részére adható, amely egyidejűleg megfelel az ivarsejtek, valamint az embriók fagyasztva tárolására vonatkozó, jogszabályban meghatározott szakmai feltételeknek is.
 
 ### Ivarsejt-adományozás és -letét
 
@@ -3668,7 +3695,7 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 
 (2) Az egészségügyi szolgáltatásokkal összefüggésben keletkezett kárigényekre, illetve a személyiségi jogsértések esetén követelhető igényekre a Ptk.-nak a szerződésen kívül okozott kárért való felelősségre, valamint a személyiségi jogok megsértésének szankcióira vonatkozó szabályait kell megfelelően alkalmazni.
 
-244/A. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 113. § (4) bekezdésében foglaltakat akkor kell alkalmazni, ha a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét követően keletkezett. Amennyiben a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét megelőzően keletkezett, a működési nyilvántartást a nyilvántartott személy kérelmére a közfeladat ellátásának teljes idejével kell meghosszabbítani.
+244/A. § (1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 113. § (4) bekezdésében foglaltakat akkor kell alkalmazni, ha a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét követően keletkezett. Ha a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét megelőzően keletkezett, a működési nyilvántartást a nyilvántartott személy kérelmére a közfeladat ellátásának teljes idejével kell meghosszabbítani.
 
 (2) A Módtv.-nyel megállapított 116/B. § (4) bekezdésében foglaltakat az egészségügyi szakdolgozók továbbképzésének szabályairól szóló miniszteri rendelet hatálya alá tartozó egészségügyi dolgozók esetében a Módtv. hatálybalépését követően megkezdett továbbképzési ciklusok esetében kell alkalmazni.
 

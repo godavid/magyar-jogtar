@@ -6006,7 +6006,7 @@ kivonja magát, bűntett miatt öt évtől tizenöt évig terjedő szabadságves
 
 459. § (1) E törvény alkalmazásában
 
-- 1. bűnszervezet: három vagy több személyből álló, hosszabb időre szervezett, összehangoltan működő csoport, amelynek célja ötévi vagy ezt meghaladó szabadságvesztéssel büntetendő szándékos bűncselekmények elkövetése;
+- 1. bűnszervezet: legalább három személyből álló, hosszabb időre, hierarchikusan szervezett, konspiratívan működő csoport, amelynek célja ötévi vagy ezt meghaladó szabadságvesztéssel büntetendő szándékos bűncselekmények elkövetése;
 - 2. bűnszövetség akkor létesül, ha két vagy több személy bűncselekményeket szervezetten követ el, vagy ebben megállapodik, és legalább egy bűncselekmény elkövetését megkísérlik, de nem jön létre bűnszervezet;
 - 3. csoportosan követik el a bűncselekményt, ha az elkövetésben legalább három személy vesz részt;
 - 4. erőszakos magatartásnak minősül a más személyre gyakorolt támadó jellegű fizikai ráhatás is, abban az esetben is, ha az nem alkalmas testi sérülés okozására;

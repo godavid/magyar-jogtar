@@ -30,6 +30,8 @@ valamint a céginformációs szolgálat feladatai
 - d) jogi tanácsadó szolgálatot tart fenn annak érdekében, hogy a mikro- és kisvállalkozások a cégalapítással, a cégek megszüntetésével összefüggő jogilag jelentős információkat – korszerű informatikai eszközök alkalmazása révén – közérthető megfogalmazásban, költségmentesen is megismerhessék;
 - e)
 
+(3) A cégnyilvántartás és a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer adatkezelője a céginformációs szolgálat.
+
 1/A. § (1) Az e törvényben szabályozott nemperes eljárásokban – a (2) bekezdésben foglaltak kivételével – első fokon önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően bírósági titkár is eljárhat.
 
 (2) Bíró hozza meg a következő határozatokat:
@@ -308,7 +310,7 @@ megismerhetők.
 
 ### 3. CÍM — A beszámoló letétbe helyezése és közzététele
 
-18. § (1) A cégnek a számviteli törvény szerinti beszámolót elektronikus úton, személyre szabott ügyintézési felület útján kell a céginformációs szolgálat részére megküldeni; ennek során nincs helye a papír alapú beszámoló képi formátumú elektronikus okirattá történő átalakításának. A beszámolóhoz – a cég, a beszámolót benyújtó természetes személy azonosíthatósága, valamint a benyújtás jogszerűségének igazolása érdekében – elektronikus űrlapot kell mellékelni; a céginformációs szolgálat a benyújtó adatait és jogosultságát ellenőrzi.
+18. § (1) A cégnek a számviteli törvény szerinti beszámolót az E-ügyintézési tv. szerinti hivatalos elérhetőségén keresztül kell a céginformációs szolgálat részére megküldeni; ennek során nincs helye a papír alapú beszámoló képi formátumú elektronikus okirattá történő átalakításának. A beszámolóhoz – a cég, a beszámolót benyújtó természetes személy azonosíthatósága, valamint a benyújtás jogszerűségének igazolása érdekében – elektronikus űrlapot kell mellékelni; a céginformációs szolgálat a benyújtó adatait és jogosultságát ellenőrzi.
 
 (2) Az elektronikus űrlapot a céginformációs szolgálat továbbítja – az érkezést követően haladéktalanul – az állami adóhatóság részére.
 
@@ -318,7 +320,7 @@ megismerhetők.
 
 (5)
 
-(6) Ha a cég a beszámolóról – külön jogszabály szerint arra feljogosított által aláírt – papír alapú okirat alapján határozott, úgy az (5) bekezdés szerinti személy egyben igazolja, hogy az ezt követően elektronikus úton megküldött beszámoló megegyezik a jóváhagyott beszámolóval. Ebben az esetben az (5) bekezdés szerinti személy a papír alapú beszámoló egy eredeti példányát – annak elfogadásától számított tíz évig – megőrzi, és amennyiben a megküldött beszámoló szabályszerűségével összefüggésben kétség merülne fel, köteles azt a cégbíróság felhívására bemutatni.
+(6) Ha a cég a beszámolóról – külön jogszabály szerint arra feljogosított által aláírt – papír alapú okirat alapján határozott, úgy a beküldő személy egyben igazolja, hogy az ezt követően elektronikus úton megküldött beszámoló megegyezik a jóváhagyott beszámolóval. Ebben az esetben a beküldő személy a papír alapú beszámoló egy eredeti példányát – annak elfogadásától számított tíz évig – megőrzi, és amennyiben a megküldött beszámoló szabályszerűségével összefüggésben kétség merülne fel, köteles azt a cégbíróság felhívására bemutatni.
 
 (7) A beszámolóhoz mellékelni kell az adózott eredmény felhasználására vonatkozó határozatot, valamint kötelező könyvvizsgálat esetén a független könyvvizsgálói jelentést is. E törvény beszámolóra vonatkozó előírásait az adózott eredmény felhasználására vonatkozó határozatra, valamint a könyvvizsgálói jelentésre is megfelelően alkalmazni kell.
 
@@ -432,12 +434,12 @@ megismerhetők.
 - f) a cég jegyzett tőkéjét,
 - g) a képviselet módját (önálló, együttes vagy ha a vezető tisztségviselő képviseleti jogot nem gyakorol, ez a tény),
 - h) a cég vezető tisztségviselője, illetve a cég képviseletére jogosult nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint a képviseletre jogosultak tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját, továbbá azt a tényt, ha a cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintája benyújtásra került,
-- i) a cég adószámát, valamint statisztikai számjelét, továbbá ha a cég adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztést, a felfüggesztés megszüntetését, a törlést, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
+- i) a cég adószámát, valamint statisztikai számjelét, továbbá ha a cég adószámát törölték, akkor a törlést, illetve e határozat megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
 - j) a cég valamennyi pénzforgalmi számláját, valamint az azokat vezető pénzforgalmi szolgáltatók nevét és székhelyét,
 - k) a cégbejegyzési (változásbejegyzési) végzés meghozatalának időpontját,
 - l) a k) pontban foglalt végzésnek megfelelően – elektronikus bejegyzéssel – a cégjegyzékadatok, illetve azok törlése bejegyzésének Cégközlönyben történő közzétételének napját,
 - m) a cég elektronikus kézbesítési címét,
-- n) a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségét
+- n) a cégnek az E-ügyintézési tv. szerinti hivatalos elérhetőségét
 
 (2)
 
@@ -449,7 +451,7 @@ megismerhetők.
 
 (4b) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég főtevékenységének és további tevékenységi köreinek változásait, a mindenkor hatályos TEÁOR nómenklatúra szerinti megjelöléssel. Az adat bejegyzése és közzététele automatikusan történik meg.
 
-(5) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
+(5) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég adószámának törlését, illetve e határozat megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 
 (6) Az (1) bekezdés j) pontjában meghatározott pénzforgalmi számlára vonatkozó adatot a számlát vezető pénzforgalmi szolgáltató elektronikus adattovábbítás útján köteles bejelenteni a cégbíróságon a számla megnyitását követő nyolc napon belül. Ez a rendelkezés irányadó a pénzforgalmi számla megszűnése esetén is. A bejelentés nem esik illeték, illetve közzétételi költségtérítés fizetési kötelezettség alá. Az adat bejegyzése és közzététele automatikusan, a törvény erejénél fogva történik meg. Ha a számlavezető pénzforgalmi szolgáltató e kötelezettségének nem, vagy nem határidőben tesz eleget, a cégbíróság erről tájékoztatja a Magyar Nemzeti Bankot.
 
@@ -457,9 +459,9 @@ megismerhetők.
 
 (8) Az (1) bekezdés m) pontja szerinti kézbesítési címen a cég a részére elektronikus úton megküldött hivatalos iratok átvételét biztosítja. A cégbíróság e címre a 39/A. § alkalmazásával kézbesít.
 
-(9) A cégbíróság az (1) bekezdés n) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartást vezető szerv elektronikus értesítése alapján, hivatalból jegyzi be, ha azt a cég oda jelentette be.
+(9) A cégbíróság az (1) bekezdés n) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartást vezető szerv elektronikus értesítése alapján, hivatalból jegyzi be.
 
-(10) Ha a cég az (1) bekezdés n) pontja szerinti adatot a cégbíróság felé jelentette be, a cégbíróság a bejegyzésről a (9) bekezdés szerinti nyilvántartást vezető szervet elektronikus úton értesíti.
+(10)
 
 25. § (1) A cégjegyzék szükség szerint, valamennyi cég esetében tartalmazza
 
@@ -475,7 +477,7 @@ megismerhetők.
 - j) annak a kamarának a megjelölését, amelynek a cég a tagja,
 - k) kiskorú tag (tulajdonos) esetén a törvényes képviselő nevét és lakóhelyét,
 - l) a külföldi jogi személy, illetve magyarországi lakóhellyel nem rendelkező természetes személy kézbesítési megbízottjának nevét (cégnevét), lakóhelyét (székhelyét),
-- m) a cég közösségi adószámát, továbbá ha a cég közösségi adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztést, a felfüggesztés megszüntetését, a törlést, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
+- m) a cég közösségi adószámát, továbbá ha a cég közösségi adószámát törölték, akkor a törlést, illetve e határozat megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
 - n) azt, hogy a cégjegyzékben szereplő adatok, illetve a cégiratok fordítása az Európai Unió melyik hivatalos nyelvén szerepel a cégnyilvántartásban,
 - o) közhasznú minősítéssel rendelkező cég esetében a közhasznú jogállás megszerzésének és törlésének időpontját,
 - p) ha a cég elismert vállalatcsoport tagja, vagy uralkodó tagja, ezt a tényt, a csoporthoz tartozó cégek nevének, székhelyének és cégjegyzékszámának feltüntetésével,
@@ -487,7 +489,7 @@ megismerhetők.
 - v) azt a tényt, ha a cég tagja, képviseletére jogosult személy eltiltás hatálya alatt áll; az eltiltás kezdetét és végét,
 - z) azt a tényt, hogy a cég tagja e jogállását bizalmi vagyonkezelőként szerezte meg.
 
-(2) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég közösségi adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
+(2) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég közösségi adószámának törlését, illetve e határozat megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 
 (3) A cégbíróság az (1) bekezdés p) pontjában meghatározott adatot – az elismert vállalatcsoport uralkodó tagjának a vállalatcsoport létrehozására vonatkozó bejelentése alapján – hivatalból jegyzi be a többi érintett cég (ellenőrzött társaság) cégjegyzékébe.
 
@@ -554,7 +556,8 @@ megismerhetők.
 - c) az üzletrészen alapított zálogjog tényét, a zálogjogosult (zálogjogosulti bizományos) nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát), zálogjogosulti bizományos esetén e minőségét,
 - d)
 - e) közös tulajdonú üzletrész esetén a tulajdonosok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát,
-- f) a cég EUID-ját.
+- f) a cég EUID-ját,
+- g) azt a tényt, hogy az alapításra az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (a továbbiakban: Evectv.) 19/C. §-a szerint került sor, továbbá az alapító egyéni vállalkozó nevét és nyilvántartási számát.
 
 (4)
 
@@ -1108,7 +1111,7 @@ irányuló eljárás
 
 illetve a cég tájékoztatási kötelezettsége
 
-63. § (1) A cégbíróság a cég bejegyzéséről, a cégnyilvántartásban átvezetett változásokról (pl. a cég székhelyének, a tulajdonosok személyének változásáról), valamint az eljárás megszüntetéséről, a bejegyzési kérelem elutasításáról, illetve a cég törléséről értesíti a területileg illetékes gazdasági, illetve szakmai kamarát, adóhatóságot, valamint a Központi Statisztikai Hivatalt, egyéni cég bejegyzése esetén az egyéni vállalkozók nyilvántartását vezető szervet. A cégbíróság a cég bejegyzéséről, székhelyének változásáról, a cég törléséről, az eljárás megszüntetéséről adatot szolgáltat a Magyar Nemzeti Bank, az egészségbiztosítási szerv, a központi nyugdíjbiztosítási szerv, és a nyugdíjbiztosítási igazgatási szerv részére. Az értesítést, illetve az adatszolgáltatást a céginformációs szolgálat elektronikus úton teljesíti.
+63. § (1) A cégbíróság a cég bejegyzéséről, a cégnyilvántartásban átvezetett változásokról (pl. a cég székhelyének, a tulajdonosok személyének változásáról), valamint az eljárás megszüntetéséről, a bejegyzési kérelem elutasításáról, illetve a cég törléséről értesíti a területileg illetékes gazdasági, illetve szakmai kamarát, adóhatóságot, valamint a Központi Statisztikai Hivatalt, egyéni cég, vagy az Evectv. 19/C. §-a szerinti alapítás esetén a korlátolt felelősségű társaság bejegyzése esetén az egyéni vállalkozók nyilvántartását vezető szervet. A cégbíróság a cég bejegyzéséről, székhelyének változásáról, a cég törléséről, az eljárás megszüntetéséről adatot szolgáltat a Magyar Nemzeti Bank, az egészségbiztosítási szerv, a központi nyugdíjbiztosítási szerv, és a nyugdíjbiztosítási igazgatási szerv részére. Az értesítést, illetve az adatszolgáltatást a céginformációs szolgálat elektronikus úton teljesíti.
 
 (1a) A cégbíróság a cég bejegyzett adatainak változásáról, a cég törléséről – a céginformációs szolgálat útján és az (1) bekezdés szerinti elektronikus úton – értesíti azt a közhiteles nyilvántartást vezető szervet, amely a nyilvántartásában a cégre vonatkozóan cégjegyzékadatot is nyilvántart, feltéve, hogy a céginformációs szolgálat elektronikus értesítésének feltételei biztosítottak.
 
@@ -2009,7 +2012,7 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (2) Az e § szerinti adatigénylésre automatikusan, az erre a célra létrehozott elektronikus rendszer útján kerül sor. Az informatikai rendszer – a természetes személy cégjegyzékből való törlésének időpontjáig – tárolja a természetes személyek nyilvántartása által szolgáltatott, a cégjegyzék adattartalmát meghaladó természetes személyazonosító adatokat és a kapcsolati kódot.
 
-131/L. § A jogi képviselő 2020. január 1-jétől a cégbejegyzésre (változásbejegyzésre) irányuló kérelmet és minden egyéb beadványt az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon, a Pp. rendelkezéseinek megfelelő alkalmazásával is benyújthatja. E határidőig a cégbejegyzési (változásbejegyzési) eljárás során kizárólag a IV. Fejezet 2. cím szerinti elektronikus kapcsolattartás szabályai alkalmazhatóak.
+131/L. § A jogi képviselő 2021. január 1-jétől a cégbejegyzésre (változásbejegyzésre) irányuló kérelmet és minden egyéb beadványt az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon, a Pp. rendelkezéseinek megfelelő alkalmazásával is benyújthatja. E határidőig a cégbejegyzési (változásbejegyzési) eljárás során kizárólag a IV. Fejezet 2. cím szerinti elektronikus kapcsolattartás szabályai alkalmazhatóak.
 
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a Ptk.-val és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -2111,6 +2114,8 @@ bb) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocs
 
 c) a tőkeleszállításra vonatkozó közlemény közzétételét igazoló lappéldánykivonatok;
 
+d) az Evectv. 19/C. §-a szerinti alapítás esetén a korlátolt felelősségű társaság nyitó mérleg-tervezete és az Evectv. 19/D. § (1) bekezdés b) pontja szerinti leltár.
+
 2. a)
 
 b) zárt körű részvénytársaság alapításával összefüggésben a részvények átvételére kijelölt személyeknek a részvények átvételére vonatkozó kötelezettségvállalását tartalmazó okirat;
@@ -2190,6 +2195,8 @@ d) a külföldi vállalkozás megszűnése közzétételét igazoló lappéldán
 a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről, illetve ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
 
 b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról, a tagnak a nem pénzbeli hozzájárulás értékelésére vonatkozó nyilatkozatával együtt;
+
+c) az egyéni cég nyitó mérleg-tervezete és az Evectv. 27. § (3) bekezdés b) pontja szerinti vagyonleltár.
 
 10. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kar alapítási, a cégbejegyzést követően az alapító okiratának, illetve cégadatának módosítási engedélye;
 

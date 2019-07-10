@@ -495,7 +495,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - 13. az önkormányzati képviselői megbízatás megszűnéséről való döntés, ha a képviselő egy éven át nem vesz részt a képviselő-testület ülésén;
 - 14. a településfejlesztési eszközök és a településszerkezeti terv jóváhagyása;
 - 15. területszervezési kezdeményezés;
-- 16. a helyi önkormányzati vagyon tulajdonjogának ingyenes átruházására vagy nemzeti vagyon tulajdonjogának ingyenes átvételére vonatkozó döntés;
+- 16. a helyi önkormányzati vagyon tulajdonjogának a 108. § szerinti ingyenes átruházására vagy nemzeti vagyon tulajdonjogának ingyenes átvételére vonatkozó döntés;
 - 17. amit törvény a képviselő-testület át nem ruházható hatáskörébe utal.
 
 ### A képviselő-testület működése
@@ -1127,6 +1127,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - a) az Nvt. 11. § (17) bekezdésében foglalt esetekben, továbbá
 - b) ha az önkormányzati vagyon használatát biztosító, határozott időre kötendő szerződés tartama a kilencven napot nem haladja meg.
 
+108/C. § A 108. §-ban meghatározottaktól eltérően a helyi önkormányzat – az önkormányzati rendeletben meghatározott értékhatárig – dönthet a tulajdonában álló ingóság tulajdonjogának ingyenes átruházásáról. Az ingyenes vagyonátadás az önkormányzati feladatok ellátását nem veszélyeztetheti.
+
 109. § (1) A képviselő-testület a helyi önkormányzat tulajdonában lévő nemzeti vagyonra a nemzeti vagyonról szóló törvény rendelkezései szerint az önkormányzati közfeladat átadásához kapcsolódva vagyonkezelői jogot létesíthet. Vagyonkezelői jog önkormányzati lakóépületre és vegyes rendeltetésű épületre, társasházban lévő önkormányzati lakásra és nem lakás céljára szolgáló helyiségre kizárólag a helyi önkormányzat 100%-os tulajdonában álló gazdálkodó szervezettel, vagy annak 100%-os tulajdonában álló gazdálkodó szervezettel létesíthető, és kizárólag általuk gyakorolható. A vagyonkezelési szerződésnek a gazdálkodó szervezet tulajdonosi szerkezetében történő tulajdonos változás miatti megszűnésének esetére a nemzeti vagyonról szóló törvényben meghatározottak az irányadók.
 
 (2) A képviselő-testület kizárólag a nemzeti vagyonról szóló törvényben meghatározott személyekkel köthet vagyonkezelési szerződést.
@@ -1529,7 +1531,8 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - f) az önkormányzati képviselőnek, a bizottsági elnöknek és tagnak, továbbá a tanácsnoknak járó tiszteletdíjat és természetbeni juttatást;
 - g) a nagyobb gazdasági teljesítőképességű, lakosságszámú települési önkormányzat számára előírt kötelező feladat- és hatáskör vállalását;
 - h) a polgármester általi forrásfelhasználás mértékét;
-- i) azon vagyonelemeket, amelyekre a helyi önkormányzat vagyonkezelői jogot létesíthet, továbbá a vagyonkezelői jog megszerzésének, gyakorlásának, valamint a vagyonkezelés ellenőrzésének szabályait.
+- i) azon vagyonelemeket, amelyekre a helyi önkormányzat vagyonkezelői jogot létesíthet, továbbá a vagyonkezelői jog megszerzésének, gyakorlásának, valamint a vagyonkezelés ellenőrzésének szabályait;
+- j) önkormányzati tulajdonban álló ingó vagyon 108/C. § szerinti ingyenes átruházására vonatkozó szabályokat.
 
 ### Hatályba léptető rendelkezések
 

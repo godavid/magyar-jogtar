@@ -70,6 +70,8 @@ Az adóügyben eljáró adópolitikáért felelős miniszterre, illetve az álla
 
 (2) Az adóhatóság a jogutódnál a jogutódlást megelőző időszakra vonatkozó törvényi feltételek fennállásának vizsgálatát a jogelőd adózói előéletére is kiterjedően, a jogelőd magatartását is értékelve végzi.
 
+(3) Az (1) és (2) bekezdés rendelkezéseit az egyéni vállalkozói tevékenység egyszemélyes gazdasági társasági formában történő továbbfolytatása esetén is alkalmazni kell.
+
 #### 13. § [Eljárási képesség]
 
 A természetes személy adózó akkor rendelkezik eljárási képességgel, ha az ügy tárgyára tekintettel cselekvőképesnek minősül.
@@ -102,9 +104,9 @@ az eljáró adóhatóság gondoskodik ügygondnok kirendeléséről.
 
 #### 15. § [Meghatalmazás]
 
-(1) A meghatalmazott a képviseleti jogosultságát – ha a meghatalmazást az adózó nem a rendelkezési nyilvántartásban vagy a (2) bekezdés szerinti felületen adta – köteles igazolni. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni vagy jegyzőkönyvbe kell mondani.
+(1) A meghatalmazott a képviseleti jogosultságát – ha a meghatalmazást az adózó nem a (2) bekezdés szerinti felületen adta – köteles igazolni. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni vagy jegyzőkönyvbe kell mondani.
 
-(2) Az állami adó- és vámhatóság az adózók meghatalmazásainak rögzítésére elektronikus felületet működtet.
+(2) Az állami adó- és vámhatóság az adózók állandó meghatalmazásainak rögzítésére elektronikus felületet működtet.
 
 (3) Adóügyekben meghatalmazást elektronikusan
 
@@ -118,7 +120,7 @@ lehet tenni.
 
 (5) Ha a meghatalmazásból más nem tűnik ki, az kiterjed az eljárással kapcsolatos valamennyi nyilatkozatra és cselekményre.
 
-(6) A képviseleti jog keletkezése és megszűnése az adóhatósággal szemben az adóhatósághoz történő bejelentés beérkezésétől, valamint a rendelkezési nyilvántartásban, illetve az állami adó- és vámhatóság által működtetett elektronikus felületen adott állandó meghatalmazás esetén a jognyilatkozat megtételétől hatályos, azzal, hogy a képviseleti jog megszűnésének bejelentése napján a meghatalmazottat még az adóhatósági iratok átvételére jogosult személynek kell tekinteni.
+(6) A képviseleti jog keletkezése és megszűnése az adóhatósággal szemben az adóhatósághoz történő bejelentés beérkezésétől, valamint az állami adó- és vámhatóság által működtetett elektronikus felületen adott állandó meghatalmazás esetén a jognyilatkozat megtételétől hatályos, azzal, hogy a képviseleti jog megszűnésének bejelentése napján a meghatalmazottat még az adóhatósági iratok átvételére jogosult személynek kell tekinteni.
 
 (7) A felszámolás, illetve a végelszámolás kezdő időpontját megelőzően adott meghatalmazás alapján a képviselő akkor járhat el, ha a meghatalmazás érvényességéről a felszámoló, illetve a végelszámoló az adóhatóságnak nyilatkozott. Végelszámolás esetén nem kell a meghatalmazás érvényességéről nyilatkozatot tenni, ha a meghatalmazást adó korábbi törvényes képviselő és a végelszámoló személye megegyezik.
 
@@ -351,7 +353,7 @@ az az adóhatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 
 #### 36. § [A kapcsolattartás általános szabályai]
 
-(1) Az adóhatóság írásban, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: Eüsztv.) meghatározott elektronikus úton (a továbbiakban együtt: írásban) vagy személyesen, írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban) tart kapcsolatot az adózóval és az eljárásban résztvevőkkel.
+(1) Az adóhatóság írásban, az Eüsztv.-ben meghatározott elektronikus úton (a továbbiakban együtt: írásban) vagy személyesen, írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban) tart kapcsolatot az adózóval és az eljárásban résztvevőkkel.
 
 (2) Törvény eltérő rendelkezése hiányában a kapcsolattartás formáját az adóhatóság tájékoztatása alapján az adózó választja meg. Az adózó a választott kapcsolattartási módról más – az adóhatóságnál rendelkezésre álló – módra áttérhet.
 
@@ -907,7 +909,7 @@ A közlést hirdetmény útján kell teljesíteni, ha
 - a) a kézbesítés megkísérlésének napján – a b) pontban meghatározott kivétellel – kézbesítettnek kell tekinteni, ha a küldemény az adóhatósághoz a kézbesítés eredménytelensége miatt érkezik vissza, vagy
 - b) a postai kézbesítés második megkísérlését követő ötödik munkanapon kell kézbesítettnek tekinteni, ha az adóhatósági iratot a posta a rá vonatkozó szabályoknak megfelelően „nem kereste” jelzéssel küldte vissza az adóhatóságnak.
 
-(3) Elektronikus kapcsolattartás esetén a kézbesítésre az Eüsztv. 14. § (4) bekezdését és 15. § (4) bekezdését kell alkalmazni.
+(3) Elektronikus kapcsolattartás esetén a kézbesítésre az Eüsztv. 14. § (4) bekezdését és 15. § (1)–(4) bekezdését kell alkalmazni.
 
 (4) Az adóhatósági irat – a meghatalmazott képviselő mellett – a meghatalmazott képviselővel rendelkező adózó részére is kézbesíthető. Ilyen esetben az iratot az adózó, valamint a meghatalmazott részére ugyanazon a napon kell postára adni, illetve az irat kézbesítéséhez biztonságos kézbesítési szolgáltatást is igénybe lehet venni. E bekezdés nem alkalmazható az adóhatóság saját kézbesítője útján történő kézbesítésre.
 
@@ -920,7 +922,7 @@ A közlést hirdetmény útján kell teljesíteni, ha
 
 #### 80. § [Közzététel kézbesítettnek tekintett iratokról]
 
-(1) A 79. § szerinti kézbesítés esetén – kivéve, ha az adózó vagy képviselője a küldemény átvételét megtagadta – az állami adó- és vámhatóság a kézbesítésről történő tudomásszerzését követően az internetes honlapján tizenöt nap időtartamra közzéteszi
+(1) A 79. § (2) bekezdése és az Eüsztv. 14. § (4) bekezdés c) pontja szerinti kézbesítés esetén – kivéve, ha az adózó vagy képviselője a küldemény átvételét megtagadta – az állami adó- és vámhatóság a kézbesítésről történő tudomásszerzését követően az internetes honlapján tizenöt nap időtartamra közzéteszi
 
 - a) a címzett természetes személy adózó adóazonosító jelét, más adózó adószámát,
 - b) a kézbesítéssel érintett állami adó- és vámhatósági irat ügyiratszámát,
@@ -1572,7 +1574,7 @@ Ha az ügyész az ügyészségről szóló törvény alapján felhívással él,
 
 Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) az állami adó- és vámhatóság hatáskörébe tartozó ügyek elektronikus intézésének részletszabályait;
+- a) az adóhatóság hatáskörébe tartozó ügyek elektronikus intézésének részletszabályait;
 - b) az állami adó- és vámhatóság hatáskörének és illetékességének szabályait;
 - c) az ellenőrzésre vonatkozó részletes szabályokat;
 - d) a hatósági zár alkalmazásának részletes szabályait;

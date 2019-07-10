@@ -651,9 +651,11 @@ vonhat perbe további alperest.
 
 #### 17. Az ügyész részvétele a perben
 
-#### 58. § [Az illetékes ügyész]
+#### 58. § [Az illetékes ügyész és az ügyész eljárása jogi képviselő nélküli perekben]
 
-A bíróság előtt az ügyészségről szóló törvény rendelkezéseire figyelemmel eljárni jogosult illetékes ügyész jár el.
+(1) A bíróság előtt az ügyészségről szóló törvény rendelkezéseire figyelemmel eljárni jogosult illetékes ügyész jár el.
+
+(2) Mindazokban a perekben, amelyekben a jogi képviselet nem kötelező, az ügyészre – abban a perben, amelynek megindítására törvény jogosítja fel, vagy amelyet ellene lehet megindítani, illetve amelyben törvény alapján felléphet – a jogi képviselővel eljáró félre vonatkozó szabályokat kell alkalmazni.
 
 #### 59. § [Az ügyész általános perindítási, fellépési joga]
 
@@ -1268,7 +1270,7 @@ A bíróság a fél azonosításához szükséges adatok kivételével, nem kér
 
 (2) Törvény, az Európai Unió kötelező jogi aktusa, illetve nemzetközi egyezmény eltérő rendelkezése hiányában a bíróságnak címzett beadványokat magyar nyelven kell előterjeszteni, a bíróság a beadványokat és a határozatát magyar nyelven küldi meg.
 
-(3) A bírósági eljárásban szóban mindenki jogosult anyanyelvét, nemzetközi egyezményben meghatározott körben pedig regionális vagy nemzetiségi nyelvét használni.
+(3) A bírósági eljárásban szóban mindenki jogosult anyanyelvét, nemzetközi egyezményben meghatározott körben pedig anyanyelvét, regionális vagy nemzetiségi nyelvét használni. A bírósági eljárásban a Magyarországon élő, a nemzetiségek jogairól szóló törvényben elismert valamennyi nemzetiség tagja jogosult nemzetiségi nyelvét a regionális vagy kisebbségi nyelv használatára vonatkozó nemzetközi egyezményben foglaltaknak megfelelően használni.
 
 (4) A bírósági eljárásban a hallássérült vagy siketvak személy jogosult jelnyelvet vagy az általa ismert más, törvényben meghatározott speciális kommunikációs rendszert használni. A hallássérült vagy beszédfogyatékos személy kérésére a meghallgatás helyett írásban tehet nyilatkozatot.
 
@@ -3016,12 +3018,9 @@ Az anyagi pervezetés szabályait azzal a kiegészítéssel kell alkalmazni, hog
 
 #### 259. § [Az eljárás megszüntetése]
 
-(1) A bíróság – a (2) bekezdésben meghatározott kivétellel – hiánypótlási felhívás mellőzésével az eljárást megszünteti, ha a felperes a közjegyző felhívásának kézbesítésétől számított tizenöt napon belül
+(1) A bíróság – a (2) bekezdésben meghatározott kivétellel – hiánypótlási felhívás mellőzésével az eljárást megszünteti, ha a felperes a közjegyző felhívásának kézbesítésétől számított tizenöt napon belül nem teljesíti illetékfizetési kötelezettségét, illetve a keresetet tartalmazó iratot a közjegyző felhívásában megjelölt bíróságon nem terjeszti elő.
 
-- a) nem teljesíti illetékfizetési kötelezettségét, illetve a keresetet tartalmazó iratot a közjegyző felhívásában megjelölt bíróságon nem terjeszti elő, vagy
-- b) csak részben teljesíti illetékfizetési kötelezettségét, illetve a keresetet tartalmazó iratban nem tünteti fel annak kötelező tartalmi elemeit, illetve nem csatolja annak kötelező mellékleteit, kivéve, ha a hiányzó elem – ide nem értve a képviselő képviseleti jogának igazolását – a közjegyzői iratanyagból megállapítható.
-
-(2) Ha a felperes a járásbíróság hatáskörébe tartozó perben jogi képviselő nélkül jár el, az (1) bekezdés b) pontjában meghatározott esetben, valamint ha a keresetet tartalmazó iratot nem jogszabály szerinti nyomtatványon terjeszti elő, az eljárás megszüntetésének csak akkor van helye, ha a bíróság tizenöt napos határidővel – a mulasztás következményére történő figyelmeztetés mellett – a felperest hiánypótlásra felhívta és az eredménytelenül eltelt.
+(2) Ha a felperes csak részben teljesíti illetékfizetési kötelezettségét, a keresetet tartalmazó iratban nem tünteti fel annak kötelező tartalmi elemeit vagy nem csatolja annak kötelező mellékleteit, az eljárás megszüntetésének van helye, ha a bíróság tizenöt napos határidővel, a mulasztás következményére történő figyelmeztetés mellett a felperest hiánypótlásra felhívta és a határidő eredménytelenül eltelt. Akkor is megszünteti a bíróság az eljárást, ha a járásbíróság hatáskörébe tartozó perben jogi képviselő nélkül eljáró felperes a keresetet tartalmazó iratot nem jogszabály szerinti nyomtatványon terjeszti elő, és a bíróság tizenöt napos határidőt meghatározó, a mulasztás következményére történő figyelmeztetés melletti hiánypótlási felhívásában megadott határidő eredménytelenül eltelt. Nincs helye az eljárás megszüntetésének, ha a keresetet tartalmazó irat hiányzó eleme – ide nem értve a képviselő képviseleti jogának igazolását – a közjegyzői iratanyagból megállapítható.
 
 (3) Ha keresetlevéllel indult per esetében a 176. § (1) bekezdés a)–i) pontjában vagy (2) bekezdés a)–c) pontjában foglalt valamely ok miatt a keresetlevél visszautasításának lenne helye, a 255. § (1) bekezdésében meghatározott per esetében az eljárást hivatalból meg kell szüntetni.
 
@@ -4828,7 +4827,9 @@ E törvény rendelkezéseit a személyi állapotot érintő perekben az e fejeze
 
 (3) Ha a félnek nincs perbeli cselekvőképessége, és közte, valamint a törvényes képviselője között érdekellentét áll fenn, a bíróság – a származási perek körében meghatározott kivétellel – a fél képviseletére ügygondnokot rendel.
 
-(4) A perben a nem ügyvéd vagy ügyvédi iroda részére adott meghatalmazáson a fél aláírását, illetve kézjegyét közjegyző által hitelesíttetni kell.
+(4) A perben a természetes személy által a nem ügyvéd vagy ügyvédi iroda részére adott meghatalmazáson a fél aláírását, illetve kézjegyét közjegyző által hitelesíttetni kell.
+
+(5) A gyámhatóság által indított perben, vagy amelyet a gyámhatóság ellen indítanak, a gyámhatóság a jogi képviselő nélkül eljáró fél számára rendszeresített nyomtatványok használatára nem köteles.
 
 #### 432. § [Perfelvétel]
 
@@ -4845,6 +4846,8 @@ helye nincs.
 (2) A perfelvételi tárgyaláson a fél személyes megjelenése kötelező. A bíróság a perben a feleket köteles személyesen meghallgatni, kivéve, ha a fél ismeretlen helyen tartózkodik, vagy ha a meghallgatása elháríthatatlan akadályba ütközik.
 
 (3) Ha a felperes a perfelvételi tárgyaláson személyesen nem jelenik meg, a bíróság az eljárást hivatalból megszünteti. Ha az alperes személyesen nem jelenik meg, a perfelvételi tárgyalást a megjelent felperes kérelmére meg kell megtartani, ellenkező esetben a bíróság az eljárást hivatalból megszünteti.
+
+(4) Az írásbeli ellenkérelem előterjesztésére vonatkozó határidő harminc nap, amelyet az alperes indokolt kérelmére a bíróság legfeljebb tizenöt nappal meghosszabbíthat. Az alperes az írásbeli ellenkérelem előterjesztésére nyitva álló határidő lejártát követően is előterjeszthet viszontkeresetet a perfelvételt lezáró végzés meghozataláig. Ebben az esetben a viszontkereset – a viszontkereset-levélre vonatkozó szabályoknak megfelelő tartalommal – a perfelvételi tárgyaláson szóban is előterjeszthető. A viszontkereset közlésére, az azzal szembeni ellenkérelem előterjesztésére és a tárgyalás elhalasztására a 213. § (4) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
 
 #### 433. § [Keresettől elállás]
 
@@ -5022,7 +5025,7 @@ A perre – a jelen alcímben foglalt eltérésekkel – a gondnokság alá hely
 
 #### 455. § [Perindítás]
 
-(1) A házasság felbontása iránti keresettel ugyanarra a házasságra vonatkozó érvénytelenítési keresetet, továbbá a házastársak gyermekének származására, tartására és a gyermeket érintő szülői felügyelet gyakorlásának rendezésére, kapcsolattartásra, a gyermek harmadik személynél történő elhelyezésére, a házastársi tartásra, a házastársi közös lakás használatának rendezésére, valamint a házastárs névviseléstől való eltiltására vonatkozó keresetet lehet összekapcsolni.
+(1) A házasság felbontása iránti keresettel ugyanarra a házasságra vonatkozó érvénytelenítési keresetet, továbbá a házastársak gyermekének tartására és a gyermeket érintő szülői felügyelet gyakorlásának rendezésére, kapcsolattartásra, a gyermek harmadik személynél történő elhelyezésére, a házastársi tartásra, a házastársi közös lakás használatának rendezésére, valamint a házastárs névviseléstől való eltiltására vonatkozó keresetet lehet összekapcsolni.
 
 (2) A keresetlevélnek – a 170. §-ban meghatározottakon túl – tartalmaznia kell
 
@@ -5032,6 +5035,10 @@ A perre – a jelen alcímben foglalt eltérésekkel – a gondnokság alá hely
 (3) A keresetlevélhez – a 171. §-ban meghatározottakon túl – csatolni kell a (2) bekezdés szerinti adatokat igazoló okiratokat.
 
 (4) Az érvénytelenítési per megindításáról a keresetlevél megküldésével az ügyészt értesíteni kell.
+
+(5) Ha a felperes a házasság felbontását a Ptk. 4:21. § (2) és (3) bekezdése alapján kéri, a keresetlevélhez csatolni kell a Ptk. 4:21. § (3) bekezdésében meghatározott valamennyi kérdésben a felek közös álláspontját tartalmazó megállapodást, ha ez a keresetlevél előterjesztésekor már rendelkezésre áll.
+
+(6) Ha a felperes a házasság felbontását a Ptk. 4:21. § (2) és (3) bekezdése alapján kéri, az alperes ebben az esetben is köteles ellenkérelmet előterjeszteni. Az írásbeli ellenkérelem előterjesztésére vonatkozó határidő tizenöt nap, amelyet az alperes indokolt kérelmére a bíróság legfeljebb tizenöt nappal meghosszabbíthat. Ha az alperes maga is egyetért a házasság felbontásával, a 199. § (6) bekezdés szerinti nyilatkozatot tehet.
 
 #### 456. § [A perfelvételi tárgyalás különös szabályai házassági bontóperben]
 
@@ -5072,7 +5079,7 @@ kérdésében.
 
 (1) A bíróságnak a házasságot érvénytelenítő vagy felbontó ítéletében – szükség esetén erre irányuló kereseti kérelem hiányában is – határoznia kell a szülői felügyelet gyakorlásának rendezése, a gyermek harmadik személynél történő elhelyezése, valamint a közös kiskorú gyermek tartása felől.
 
-(2) A bíróság a házasságot érvénytelenítő vagy felbontó ítéletében megállapítja a házassági életközösség időtartamát, ha azt a házassági vagyonjogi per bírósága korábban, az eljárást befejező érdemi határozatában vagy közbenső ítéletében nem állapította meg.
+(2) A bíróság a házasságot érvénytelenítő vagy felbontó ítéletében megállapítja az életközösség fennállásának időtartamát, ha azt a házassági vagyonjogi per bírósága korábban, az eljárást befejező érdemi határozatában vagy közbenső ítéletében nem állapította meg.
 
 (3) A bíróság a házasság felbontása felől – ha a felek a házasság felbontását a Ptk. 4:21. § (2) és (3) bekezdése alapján egyező akaratnyilatkozattal kérték – azt követően dönthet, ha az ott meghatározott valamennyi kérdésben a felek között egyezség jött létre és azt a bíróság jogerős végzésével jóváhagyta. Ha a házassági perben a névviseléstől való eltiltás iránti kérelmet is előterjesztettek, arról a bíróság a házasság felbontásával vagy érvénytelenné nyilvánításával egyidejűleg dönt.
 
@@ -5100,9 +5107,9 @@ A házastársak vagyoni viszonyaival összefüggő kereset – a házastársi ta
 
 #### 463. § [Az életközösség fennállása időtartamának megállapítása]
 
-(1) Ha a házassági vagyonjogi perben eljáró elsőfokú bíróság ítéletének meghozatala időpontjában vagy azt megelőzően házassági per nincs folyamatban, a házassági életközösség fennállásának időtartamát – az eljárást befejező érdemi határozatában – a házassági vagyonjogi per bírósága állapítja meg. A házassági életközösség fennállása időtartamának megállapítása tekintetében közbenső ítélet hozható.
+(1) Ha a házassági vagyonjogi perben eljáró elsőfokú bíróság ítéletének meghozatala időpontjában vagy azt megelőzően házassági per nincs folyamatban, az életközösség fennállásának időtartamát – az eljárást befejező érdemi határozatában – a házassági vagyonjogi per bírósága állapítja meg. Az életközösség fennállása időtartamának megállapítása tekintetében közbenső ítélet hozható.
 
-(2) Ha a felek között egyidejűleg házassági per és házassági vagyonjogi per is folyamatban van, a házassági életközösség fennállásának időtartamát a házassági per bírósága állapítja meg. Ha a házassági vagyonjogi perben a felek között az életközösség fennállásának időtartama vitás, a bíróság a házassági vagyonjogi per tárgyalását a folyamatban lévő házassági per jogerős elbírálásáig felfüggesztheti.
+(2) Ha a felek között egyidejűleg házassági per és házassági vagyonjogi per is folyamatban van, az életközösség fennállásának időtartamát a házassági per bírósága állapítja meg. Ha a házassági vagyonjogi perben a felek között az életközösség fennállásának időtartama vitás, a bíróság a házassági vagyonjogi per tárgyalását a folyamatban lévő házassági per jogerős elbírálásáig felfüggesztheti.
 
 ### XXXIV. Fejezet — SZÁRMAZÁSI PEREK
 
@@ -5290,7 +5297,7 @@ A pert a kiskorú gyermek lakóhelye vagy tartózkodási helye szerint illetéke
 
 (1) A pert a különélő szülők bármelyike megindíthatja a másik szülő ellen.
 
-(2) A kiskorú gyermek tartására irányuló kereset kizárólag az ugyanazon szülők ugyanazon gyermeke feletti szülői felügyeleti jog gyakorlásának rendezése iránti keresettel kapcsolható össze.
+(2) A kiskorú gyermek tartására irányuló kereset összekapcsolható a gyermek feletti szülői felügyelet gyakorlásának rendezése iránti keresettel.
 
 (3) Ha a felek között házassági per van folyamatban, kizárólag annak bírósága előtt indítható a szülők közös kiskorú gyermekének tartása iránti per.
 
