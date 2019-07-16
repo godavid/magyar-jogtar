@@ -47,6 +47,8 @@ az ingatlan-nyilvántartásról
 
 (7) A Ptk.-nak az ingatlan-nyilvántartási adatok irányadó jellegére vonatkozó rendelkezése tekintetében az adatok helyessége alatt az adatoknak az okiratokkal való egyezőségét is érteni kell.
 
+(8) Ha az ingatlan művelési ága, fő rendeltetése vagy jogi jellege tekintetében közhiteles nyilvántartásban (a továbbiakban: egyéb közhiteles nyilvántartás) az ingatlan művelési ága, fő rendeltetése vagy jogi jellege vonatkozásban változás történik, akkor az e közhiteles nyilvántartást vezető szerv automatikus információátadás útján az ingatlan-nyilvántartásba történő bejegyzés céljából átadja az ingatlanügyi hatóságnak az erre vonatkozó adatot. Az ingatlanügyi hatóság az adatátadást követő 30 napon belül köteles intézkedni a két nyilvántartás közötti összhang megteremtéséről.
+
 ### Kérelemhez kötöttség
 
 6. § (1) A jogok és jogilag jelentős tények bejegyzésére, illetve feljegyzésére irányuló ingatlan-nyilvántartási eljárás – ha e törvény másként nem rendelkezik – az ügyfél kérelmére vagy hatósági megkeresésre indul, és az ingatlan-nyilvántartásba csak az a jog, jogilag jelentős tény jegyezhető be, illetve kerülhet feljegyzésre, amelyet a kérelem vagy hatósági megkeresés megjelöl, vagy amit törvény alapján lefolytatott megfeleltetési eljárás során a bíróság jogerős döntésében megjelöl.
@@ -1062,9 +1064,9 @@ igényli.
 
 (6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzatok a településrendezési eszköz, a településfejlesztési koncepció, az integrált településfejlesztési stratégia készítése és a településképi követelmények meghatározása érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz, valamint a 1:10000 digitális szintvonalrajzhoz és domborzatmodellhez térítésmentesen hozzáférhet.
 
-(7) Az épített környezet alakításáról és védelméről szóló törvény szerinti Országos Építésügyi Nyilvántartás és a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer működtetéséhez szükséges állami ingatlan-nyilvántartási térképi adatbázis adataihoz az Országos Építésügyi Nyilvántartás és az Országos Területfejlesztési és Területrendezési Információs Rendszer működtetője térítésmentesen hozzáférhet.
+(7)
 
-(8) A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társasága a területfejlesztési, a területrendezési feladatainak ellátása érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz, a Mezőgazdasági Parcella Azonosító Rendszer a területfejlesztési és -rendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, valamint a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
+(8)
 
 73. § (1) A közjegyző a közjegyzői okirat és tanúsítvány kiállítása, valamint a hatáskörébe utalt hagyatéki és egyéb nem peres eljárás lefolytatása céljából a székhelyén lévő irodájában működtetett saját számítástechnikai eszközével köteles a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe venni. Közös irodát fenntartó közjegyzők személyük azonosítására alkalmas módon közös számítástechnikai eszközt működtethetnek. Az ingatlan-nyilvántartási hatóság a közjegyző részére kérelem alapján biztosítja a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
@@ -1268,11 +1270,18 @@ foglaltakat az e rendelkezések hatálybalépésekor folyamatban levő, valamint
 
 (10) Ha a haszonélvezeti jog vagy a használat jogának a törlésére az egyes ingatlan-nyilvántartással és földméréssel összefüggő törvények módosításáról szóló 2015. évi XLIV. törvény hatálybalépését megelőzően és a (8) bekezdésben foglalt rendelkezéssel ellentétesen került sor, a jogosult 2015. május 31-ig fellebbezést nyújthat be.
 
-(11) Ha az ingatlan-nyilvántartás és az ingatlan művelési ága, fő rendeltetése vagy jogi jellege tekintetében közhiteles nyilvántartás között e rendelkezés hatálybalépésekor ellentmondás áll fenn, e rendelkezés hatálybalépésétől számított egy éven belül az ingatlan-nyilvántartásban szereplő ingatlan művelési ágát, fő rendeltetését, jogi jellegét összhangba kell hozni a közhiteles nyilvántartásban foglaltakkal. Az összhangba hozatalra irányuló eljárás a közhiteles nyilvántartást vezető hatóság részéről az ingatlanügyi hatóság hivatalbóli megkeresésével indul. Az ingatlan tulajdonosa vagy akinek jogi érdeke fűződik hozzá, az összhangba hozatalt bármikor kezdeményezheti az ingatlanügyi hatóságnál.
+(11) Ha az ingatlan-nyilvántartás és az egyéb közhiteles nyilvántartás között e rendelkezés hatálybalépésekor ellentmondás áll fenn, e rendelkezés hatálybalépésétől számított három éven belül az ingatlan-nyilvántartásban szereplő ingatlan művelési ágát, fő rendeltetését, jogi jellegét összhangba kell hozni az egyéb közhiteles nyilvántartásban foglaltakkal.
 
-(12) Ha a (11) bekezdés szerinti összhangba hozatal nem történik meg a (11) bekezdésben meghatározott határidőn belül, az ingatlan-nyilvántartásban szereplő adatok tekintendők irányadónak.
+(12) A (11) bekezdés szerinti összhangba hozatal során az egyéb közhiteles nyilvántartást vezető szerv a nyilvántartását egybeveti az ingatlan-nyilvántartásban szereplő adatokkal. Ha az egyéb közhiteles nyilvántartást vezető szerv megállapítja, hogy az ingatlan-nyilvántartás nem vagy nem megfelelően tartalmazza az általa közhitelesen nyilvántartott adatokat, az egyéb közhiteles nyilvántartást vezető szerv az adatot az ingatlanügyi hatóság részére és az ingatlan-nyilvántartásba történő bejegyzés céljából átadja. Az ingatlanügyi hatóság az adatátadást követő 30 napon belül köteles intézkedni a két nyilvántartás közötti összhang megteremtéséről.
 
-(13) Ha e rendelkezés hatálybalépését követően történik változás a közhiteles nyilvántartásban az ingatlan művelési ága, fő rendeltetése vagy jogi jellege vonatkozásban, a közhiteles nyilvántartást vezető hatóság 8 napon belül köteles hivatalból megkeresni az ingatlanügyi hatóságot az ingatlan-nyilvántartásnak a közhiteles nyilvántartással történő összhangba hozatala érdekében. Az ingatlan tulajdonosa vagy akinek jogi érdeke fűződik hozzá, az összhangba hozatalt bármikor kezdeményezheti az ingatlanügyi hatóságnál.
+(13) Az egyéb közhiteles nyilvántartást vezető szerv a (12) bekezdés szerinti adatátadást megelőzően legalább 30 nappal korábban tájékoztatja az ingatlan tulajdonosát az összehangolás kezdeményezéséről és annak várható eredményéről.
+
+(14) Az ingatlan tulajdonosa vagy az, akinek jogi érdeke fűződik hozzá, a (12) bekezdés szerinti összhangba hozatalt a (11) bekezdés szerinti határidőn belül
+
+- a) az egyéb közhiteles nyilvántartást vezető szervnél is indítványozhatja úgy, hogy a szerv a kezdeményezést 15 napon belül megvizsgálja, és ha az alapos, az ingatlanügyi hatóságnál hivatalból kezdeményezi az összhangba hozatalt, vagy
+- b) közvetlenül az ingatlanügyi hatóságnál is kezdeményezheti.
+
+(15) Az e rendelkezés hatálybalépésekor önkormányzati rendeletben helyi egyedi építészeti védetté nyilvánított ingatlan esetében a helyi önkormányzat a (11)–(14) bekezdés szerint jár el azzal, hogy az összhangba hozatal és az információátadás során a helyi önkormányzat hatáskörébe tartozó helyi egyedi építészeti védetté nyilvánított ingatlanokra vonatkozó adatokat egyéb közhiteles nyilvántartásnak, a helyi önkormányzatot egyéb helyi közhiteles nyilvántartást vezető szervnek kell tekinteni.
 
 95. § (1) A központi címregiszter létrehozásával összefüggő, valamint egyes igazgatási tárgyú törvények módosításáról szóló 2014. évi XCIII. törvénnyel (a továbbiakban: KCR tv.) megállapított címadatátvétel megtörténtéig az ingatlan-nyilvántartás az ingatlan-nyilvántartási adatbázisban már meglévő címadatokat, a címadatrögzítés, illetve címadatváltozás alapjául szolgáló okiratnak megfelelően tartalmazza.
 

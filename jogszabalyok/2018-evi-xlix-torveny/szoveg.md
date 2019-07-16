@@ -20,21 +20,24 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 2. § (1) A kiemelt budapesti fejlesztésekkel összefüggésben az állam feladata különösen
 
 - a) a kiemelt budapesti fejlesztések előkészítése, ezen belül a kormányzati döntéselőkészítés, a beruházás előkészítése, a tervezési program összeállítása, a terveztetés és az engedélyeztetés,
-- b) Budapest fejlesztésével összefüggésben a kiemelt nemzetközi sportesemények rendezési jogának megszerzésére irányuló pályázattal és szerződéskötéssel összefüggő feladatok ellátása.
+- b) Budapest fejlesztésével összefüggésben a kiemelt nemzetközi sportesemények rendezési jogának megszerzésére irányuló pályázattal és szerződéskötéssel összefüggő feladatok ellátása,
+- c) Budapest és az agglomeráció fejlesztésével összefüggő, egyéb, a Kormány által meghatározott feladatok ellátása.
 
 (2) A kiemelt budapesti fejlesztések előkészítése során e törvény rendelkezései szerint kell eljárni.
 
 (3) Az (1) bekezdésben meghatározott feladatok ellátása kiemelkedően fontos közérdekű tevékenység. Az (1) bekezdésben meghatározott feladatok ellátása, valamint a kiemelt budapesti fejlesztések keretében megvalósuló beruházási, felújítási, létesítmény-fejlesztési tevékenység ellátása közfeladatnak minősül.
 
-3. § (1) A Kormány a 2. § (1) bekezdésében meghatározott feladatokat az e feladatok ellátására létrehozott, a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság (a továbbiakban: Társaság) útján látja el. A Társaság által ellátandó feladatokat, valamint az érintett szervezetek közötti együttműködés rendjét a Kormány rendeletben határozza meg.
+3. § (1) A Kormány a 2. § (1) bekezdésében meghatározott feladatokat az e feladatok ellátására létrehozott, a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság vagy annak 100%-os tulajdonában álló nonprofit gazdasági társaság (a továbbiakban együtt: Társaság) útján látja el, azzal, hogy magasépítési beruházás előkészítését kizárólag a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság útján látja el. A Társaság e feladatai elvégzéséhez közreműködőt vehet igénybe. A Társaság által ellátandó feladatokat és az abban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét a Kormány rendeletben határozza meg.
 
 (2) A Társaság, illetve a kiemelt budapesti fejlesztések tekintetében építtetőként eljáró személy teljes személyes költség-, illeték- és igazgatási szolgáltatási díjmentességben részesül.
 
-4. § (1) A kiemelt budapesti fejlesztésekkel, valamint a kiemelt nemzetközi sporteseményekkel kapcsolatos feladatok ellátására a Kormány által – rendeletben vagy határozatban – kijelölt személy vagy szerv bármely hatóságtól, közigazgatási szervtől, közműszolgáltató, közműnyilvántartó és energiaszolgáltató társaságtól, az építtetőtől, egyéb állami tulajdonban álló társaságtól, a kiemelt budapesti fejlesztések megvalósításában közreműködő bármely szervezettől, továbbá Budapest Főváros Önkormányzatától, valamint egyéb érintett helyi önkormányzattól (a továbbiakban együtt: érintett szerv) a beruházással, illetve a kiemelt nemzetközi sporteseménnyel összefüggő ügyben tájékoztatást kérhet, illetve az érintett szerv részére intézkedés megtételét javasolhatja.
+4. § (1) A kiemelt budapesti fejlesztésekkel, a kiemelt nemzetközi sporteseményekkel, valamint a 2030-ig tartó időszakra vonatkozó tízéves Budapest városfejlesztési terv előkészítésével és annak végrehajtásával kapcsolatos feladatok ellátására a Kormány által – rendeletben vagy határozatban – kijelölt személy vagy szerv bármely hatóságtól, közigazgatási szervtől, közműszolgáltató, közműnyilvántartó és energiaszolgáltató társaságtól, az építtetőtől, egyéb állami tulajdonban álló társaságtól, a kiemelt budapesti fejlesztések megvalósításában közreműködő bármely szervezettől, továbbá Budapest Főváros Önkormányzatától, valamint egyéb érintett helyi önkormányzattól (a továbbiakban együtt: érintett szerv) a beruházással, illetve a kiemelt nemzetközi sporteseménnyel összefüggő ügyben tájékoztatást kérhet, illetve az érintett szerv részére intézkedés megtételét javasolhatja.
 
 (2) A tájékoztatáskérésre az érintett szerv tizenöt napon belül köteles érdemi választ adni. Ha az érintett szerv az intézkedési javaslattal nem ért egyet, akkor az érintett szerv első számú vezetője – önkormányzat esetén a főpolgármester, illetve a polgármester – részletes indokolással ellátott nyilatkozatban közli álláspontját az intézkedési javaslat kézhezvételétől számított tizenöt napon belül.
 
 (3) Ha az érintett szerv irányítását vagy felügyeletét valamely miniszter látja el, akkor az érintett szerv vezetője és az irányítást, illetve felügyeletet ellátó miniszter együttes, részletes indokolással ellátott nyilatkozatban közli álláspontját az intézkedési javaslat kézhezvételétől számított tizenöt napon belül.
+
+4/A. § Amennyiben a Kormány a kiemelt budapesti fejlesztések irányítására kormánybiztost nevez ki, a Kormány rendeletben határozza meg a kormánybiztos fejlesztés irányításával kapcsolatos hatáskörét.
 
 #### 3. A kiemelt budapesti fejlesztések előkészítése
 
@@ -50,6 +53,8 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 
 (3) A szerződés átruházása esetén az átvevő személyt további közbeszerzési kötelezettség nem terheli, és a tervek felhasználási jogának átruházása esetén az átvevő személyt további tervpályázati vagy közbeszerzési kötelezettség nem terheli.
 
+(4) Az (1)–(3) bekezdésben meghatározott rendelkezéseket kell megfelelően alkalmazni a 3. § (1) bekezdése szerinti, a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság és annak 100%-os tulajdonában álló nonprofit gazdasági társaság közötti szerződés átruházásra is.
+
 ### II. Fejezet — A BUDAPEST DIÁKVÁROS – DÉLI VÁROSKAPU FEJLESZTÉSI PROGRAM
 
 #### 4. A Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósítása
@@ -58,7 +63,7 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 
 (2) A Budapest Diákváros – Déli Városkapu Fejlesztési Program tekintetében az I. Fejezetben foglalt rendelkezéseket, valamint az Ngtv. szerinti kiemelten közérdekű beruházásra vonatkozó szabályokat az e törvényben és a felhatalmazása alapján kiadott kormányrendeletekben meghatározott eltérésekkel kell alkalmazni. A Budapest Diákváros – Déli Városkapu Fejlesztési Program helyszínét, illetve szükség szerint közvetlen környezetét jelentő ingatlanok körét a Kormány rendeletben jelöli ki.
 
-8. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében a kivitelezés tekintetében az építtetőt a Kormány jelöli ki azzal, hogy építtetőként az egyes létesítmény-fejlesztési projektek tekintetében eltérő személyek is kijelölhetők.
+8. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében a kivitelezés tekintetében az építtetőt a Kormány határozatban jelöli ki azzal, hogy építtetőként az egyes létesítmény-fejlesztési projektek tekintetében eltérő személyek is kijelölhetők.
 
 9. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházással érintett állami tulajdonú, illetve állami tulajdonba kerülő ingatlanokat a kivitelezés tekintetében a 8. § szerint kijelölt építtető vagyonkezelésébe kell adni. A vagyonkezelési szerződést az érintett ingatlanon történő kivitelezési tevékenység megkezdéséig, a munkaterület vállalkozó kivitelező részére történő átadásáig kell megkötni és az ingatlant eddig az időpontig kell a vagyonkezelő birtokába adni.
 
@@ -73,6 +78,20 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 (4) Az (1) bekezdés szerinti árvízvédelmi mű elkészültéig és az árvízvédelmi vonal (3) bekezdés szerinti áthelyezéséig árvíz esetén az árvízi védekezésért felelős személy a 2. mellékletben meghatározott terület vonalán védekezik. Az árvízi védekezés és helyreállítás összes költségét – az árhullám levonulását követő 90 napon belül – védekezési költség címén az árvízi védekezésért felelős személy részére meg kell téríteni. A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások tekintetében a folyók nagyvízi medrének használatára vonatkozó jogszabályi előírások és korlátozások nem alkalmazandók.
 
 11. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházásokkal összefüggő, közműszakasz bontására, kiváltására vagy fejlesztésére irányuló munkákat az Ngtv. 11/F. § (2)–(7) bekezdésében foglaltak alapján kell elvégezni és elszámolni.
+
+11/A. § (1) Az 1. melléklet 3. pontja szerinti létesítményfejlesztési projekt vonatkozásában a fás szárú növények védelméről szóló kormányrendelet és a települési önkormányzat fák és fás szárú növények védelmére vonatkozó rendeletének fás szárú növények pótlására vonatkozó szabályait – az érintett terület ökológiai állapotának fenntartása és javítása érdekében – a (2)–(7) bekezdésben foglalt eltéréssel kell alkalmazni.
+
+(2) Amennyiben a fa kivágására építmény elhelyezése miatt kerül sor, a fapótlás mértéke nem lehet kevesebb a kivágott össztörzsátmérő 150%-ánál.
+
+(3) Több szomszédos ingatlant érintő fakivágás esetén a fapótlást a telekhatároktól függetlenül a fakivágási engedéllyel érintett ingatlanok területén kell teljesíteni.
+
+(4) Amennyiben a pótlás a környezeti adottságok, beépítettség vagy egyéb ok miatt csak részben végezhető el a fakivágással érintett területen, úgy a fakivágással érintett telkek határától mért 1000 méteren belül szükséges a pótlást elvégezni, több szomszédos telek érintettsége esetén a telkek összterületének külső határától számított 1000 méteren belül.
+
+(5) Amennyiben az adott beruházás kapcsán a fakivágás, illetve a fapótlás több kerület közigazgatási területét érinti, az építtető a fapótlásról az érintett kerületi önkormányzatokkal többoldalú megállapodást köt azzal, hogy a pótlási kötelezettség elsősorban telepítéssel teljesítendő és a megállapodás a telepítés helyét rendezi.
+
+(6) Az 1. melléklet 3. pontja szerinti létesítményfejlesztési projekt keretében megvalósuló épületre vonatkozó használatbavételi engedély kiadásának feltétele az (5) bekezdésben meghatározott megállapodás megkötése.
+
+(7) A fakivágási engedélyben, illetve az (5) bekezdés szerinti megállapodásban előírt fapótlást folyamatosan, de legkésőbb a használatbavételi engedély véglegessé válását követő két éven belül kell teljesíteni.
 
 #### 6. A Budapest Diákváros – Déli Városkapu Fejlesztési Programmal összefüggő kisajátítások sajátos szabályai
 
@@ -142,19 +161,41 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 (2) A Vagyonkezelő mint építtető az (1) bekezdés szerinti beruházások vonatkozásában különösen az alábbi feladatokat látja el:
 
-- a) teljes körűen elkészíti vagy elkészítteti az ingatlanfejlesztés megvalósításához szükséges terveket, tanulmányokat,
-- b) ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban,
-- c) a saját nevére megszerzi az építési és egyéb engedélyeket,
-- d) lefolytatja a közbeszerzési eljárásokat,
-- e) megköti a megvalósításra vonatkozó építési és egyéb szerződéseket,
-- f) elvégzi a teljesítések igazolását,
-- g) gondoskodik az építési műszaki ellenőri tevékenység ellátásáról,
-- h) gondoskodik a műszaki átadás-átvétel lebonyolításáról,
-- i) a feladatok elvégzéséhez beruházás-lebonyolítót vehet igénybe.
+- a) a beruházás előkészítése során:
+  - aa) teljeskörűen elkészíti vagy elkészítteti az ingatlanfejlesztés megvalósításához szükséges terveket, felméréseket, tanulmányokat,
+  - ab) kidolgozza vagy kidolgoztatja a fenntartási és üzemeltetési modellt,
+  - ac) elkészíti vagy elkészítteti a hatástanulmányt, szakvéleményeket, szakértői tanulmányokat,
+  - ad) beruházási tervet készít vagy készíttet,
+  - ae) tervezési programot készít vagy készíttet,
+  - af) költség- és időkalkulációt készít vagy készíttet,
+  - ag) lefolytatja a helyszínvizsgálatot,
+  - ah) elkészíti vagy elkészítteti a beruházási programot,
+  - ai) elfogadja a beruházási alapokmányt és programot,
+  - aj) lebonyolítja a tervpályázatot,
+  - ak) elkészíti vagy elkészítteti a településrendezési eszközöket, rendezi a beruházással érintett ingatlan jogi helyzetét,
+  - al) elkészíti vagy elkészítteti a vázlattervet,
+  - am) elkészíti vagy elkészítteti a jóváhagyási tervet,
+  - an) gondoskodik a tervellenőri feladatok elvégzéséről,
+  - ao) elkészíti vagy elkészítteti és jóváhagyja az engedélyezési dokumentációt,
+  - ap) ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, lefolytatja az engedélyeztetést, saját nevére megszerzi az építési és egyéb engedélyeket,
+  - aq) elkészíti vagy elkészítteti és jóváhagyja a kivitelezési dokumentációt,
+  - ar) lefolytatja a beruházás előkészítéséhez szükséges közbeszerzési eljárásokat;
+- b) a beruházás megvalósítása során:
+  - ba) előkészíti és lefolytatja a beruházás megvalósítására vonatkozó közbeszerzési eljárásokat,
+  - bb) előkészíti és megköti a beruházás megvalósítására vonatkozó építési és egyéb szerződéseket, ideértve különösen a tanácsadói, lebonyolítói, mérnöki, tervezési és egyéb szakértői szerződéseket,
+  - bc) lefolytatja az üzempróbákat, üzembe helyezést,
+  - bd) elkészítteti a megvalósulási dokumentációt,
+  - be) gondoskodik az építési műszaki ellenőri tevékenység ellátásáról,
+  - bf) gondoskodik a műszaki átadás-átvétel lebonyolításáról,
+  - bg) elvégzi a teljesítések igazolását,
+  - bh) közreműködik a használatbavételi engedélyezési, illetve tudomásulvételi eljárásban,
+  - bi) érvényesíti a szavatossági és jótállási jogokat.
 
 (3) A Vagyonkezelő, mint építtető az (1) bekezdés szerinti beruházások tekintetében a feladatait az állam nevében és javára eljárva látja el.
 
 (4) A Vagyonkezelő által a vagyonkezelésében lévő ingatlanon az (1) bekezdés szerinti beruházások megvalósításával összefüggő beruházási és fejlesztési, továbbá az ezekkel összefüggő beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül.
+
+(5) A Vagyonkezelő mint építtető feladatai elvégzéséhez közreműködőt, valamint beruházás-lebonyolítót vehet igénybe.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -162,10 +203,13 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 20. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a kiemelt budapesti fejlesztésnek minősülő beruházások körét,
-- b) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt budapesti fejlesztések előkészítésével és megvalósításuk felügyeletével kapcsolatos feladatait, valamint az érintett szervezetek közötti együttműködés rendjét,
+- a) a kiemelt budapesti fejlesztésnek minősülő beruházások körét és a kiemelt budapesti fejlesztések előkészítése során ellátandó egyes feladatokat,
+- b) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt budapesti fejlesztések előkészítésével és megvalósításuk felügyeletével kapcsolatos feladatait, a Társaság feladataiban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét,
 - c) a Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósításának helyszíneként, illetve szükség szerint közvetlen környezeteként kijelölt ingatlanok körét,
-- d) a Budapest Diákváros – Déli Városkapu Fejlesztési Program esetében a kivitelezés tekintetében az építtető személyét.
+- d) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt nemzetközi sportesemények rendezési jogának megszerzésével kapcsolatos feladatait,
+- e) a 3. § (1) bekezdése szerinti Társaságot,
+- f) a kormánybiztos irányítása alatt álló kiemelt budapesti fejlesztések körét, valamint a beruházásirányítási jog tartalmát,
+- g) a 2. § (1) bekezdés c) pontja szerinti feladatokat.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 

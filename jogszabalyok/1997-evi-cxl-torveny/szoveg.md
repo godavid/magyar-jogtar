@@ -36,7 +36,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 - c) műveltségét, készségeit életének minden szakaszában gyarapítsa, közművelődési jogai érvényesítése céljából közösséget hozzon létre, s külön jogszabályban meghatározottak szerint szervezetet alapítson, működtessen,
 - d) e törvény szerint művelődési céljai megvalósításához közművelődési közösségi színteret (a továbbiakban: közösségi színtér), szervező, szervezeti és tartalmi segítséget kapjon.
 
-4/A. § Az állami vagy helyi önkormányzati fenntartású közgyűjteményben őrzött olyan kulturális javakat, amelyek állami tulajdonjogának fennállása minden kétséget kizáró módon nem igazolható, az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott eljárás eredményeként térítésmentesen ki kell adni annak a személynek, aki az adott, kulturális javak körébe tartozó tárgyra vonatkozó tulajdonjogát megfelelően valószínűsíti.
+4/A. § Állami vagy helyi önkormányzati fenntartású közgyűjtemény, muzeális intézmény alapleltárából visszaigényelt kulturális javak visszaadására – erre vonatkozóan bejelentett igény esetén – abban az esetben kerülhet sor, amennyiben az igénylő tulajdonjogát kétséget kizáróan bizonyítja.
 
 ### A törvény hatálya
 
@@ -1194,6 +1194,31 @@ esetében.
 
 (2) Az e törvény hatálya alá tartozó hatósági ügyekben a hatósági nyilvántartások csak az azokra vonatkozó jogi szabályozásban meghatározott adatok vonatkozásában minősülnek közhitelesnek.
 
+### Kulturális javak visszaadására irányuló eljárás
+
+92/B. § A kulturális örökség védelméért felelős miniszter a közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet alapján hozott döntéseket – kivéve, ha az ügyben jogerős bírósági döntés született – a döntés meghozatalát követő 5 éven belül legfeljebb egy ízben felülvizsgálhatja, az alábbi esetekben:
+
+- a) több igénylő terjesztett elő igényt, azonban nem minden igénylő igényét bírálták el, vagy a döntés nem minden igénylőre tartalmaz rendelkezést,
+- b) a vagyontárgynak az igénylő részére történő visszaadásáról rendelkező döntés meghozatalát követően a vagyontárgyra 2019. február 25. napjáig új igénylő jelentette be az igényét, vagy
+- c) a döntés meghozatalát követően olyan, az ügy elbírálása szempontjából lényeges körülmény, adat, bizonyíték merült fel, amelyet a korábbi eljárásban nem bíráltak el és elbírálása esetén a döntést érdemben befolyásolhatta volna.
+
+92/C. § (1) A felülvizsgálati eljárásban, a 92/B. § a)–c) pontjában meghatározott feltételek fennállása esetén a kulturális örökség védelméért felelős miniszter a korábbi döntést visszavonja, és a közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet hatályon kívül helyezéséről és azzal összefüggő átmeneti rendelkezésekről szóló 22/2019. (II. 25.) Korm. rendelet alapján megismételt eljárásban dönt az igénylő kérelméről. A felülvizsgálati eljárásban a kulturális örökség védelméért felelős miniszter elrendelheti a még ki nem adott vagyontárgy közgyűjteményben történő további őrzését, valamint a birtokba vett vagyontárgynak a korábbi igénylőtől történő visszavételéről is rendelkezhet.
+
+(2) A felülvizsgálati eljárás hivatalból indul. A felülvizsgálati eljárásban a kulturális örökség védelméért felelős miniszter rendelkezhet a vagyontárgynak az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 107. §-ában meghatározott biztosítási intézkedésként történő zár alá vételéről, lefoglalásáról.
+
+92/D. § A kulturális örökség védelméért felelős miniszter által kezdeményezett felülvizsgálati eljárásban az Ákr. rendelkezéseit a következő eltérésekkel kell alkalmazni:
+
+- a) az eljárásban szakértőként a Magyar Nemzeti Vagyonkezelő Zrt.-t kell kirendelni,
+- b) az ügyintézési határidő 180 nap,
+- c) az ügyfél nyilatkozatával nem pótolhatja a hiányzó bizonyítékot, és
+- d) nem alkalmazható az Ákr. 123. § (2) bekezdés a) pontja.
+
+92/E. § A felülvizsgálat esetén a 4/A. §-ban foglalt alapelv figyelembevételével kell eljárni. E törvény rendelkezéseit kell alkalmazni a közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet hatályon kívül helyezéséről és az azzal összefüggő átmeneti rendelkezésekről szóló 22/2019. (II. 25.) Korm. rendelet alapján folyamatban levő és megismételt eljárásokban.
+
+92/F. § (1) A kulturális örökség védelméért felelős miniszternek a 92/C. § alapján hozott döntését a bíróság nem változtathatja meg.
+
+(2) A kulturális örökség védelméért felelős miniszternek e törvény, valamint a közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet hatályon kívül helyezéséről és az azzal összefüggő átmeneti rendelkezésekről szóló 22/2019. (II. 25.) Korm. rendelet alapján hozott döntésével szemben kezdeményezett közigazgatási perben a bíróság a döntést nem változtathatja meg.
+
 ## VI. RÉSZ — A muzeális intézményekben, a nyilvános könyvtárakban,a közművelődési intézményekben és a levéltárakban alkalmazottak foglalkoztatásának egyes kérdései
 
 93. § Az állami és önkormányzati fenntartású közgyűjteményi és közművelődési intézményekben a foglalkoztatottak létszámának meghatározásánál a fenntartónak figyelembe kell vennie az e törvény hatálya alá tartozó intézmények jogszabályban előírt alapfeladataiból, az ezek teljesítéséhez szükséges feltételekből, valamint szervezeti és működési rendjéből adódó foglalkoztatási követelményeket.
@@ -1203,7 +1228,9 @@ esetében.
 - a) büntetlen előéletű, és nem áll muzeális intézményben, nyilvános könyvtárban, közlevéltárban és közművelődési intézményben végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
 - b) a munkakör betöltéséhez jogszabályban meghatározott végzettséggel és szakképesítéssel rendelkezik.
 
-(2)–(3)
+(2) A Kormány rendeletben meghatározhatja azon intézmények körét, amelyeknél – az ellátott közfeladat jellegéből adódóan – közszolgáltatás ellátására irányuló foglalkoztatási jogviszonyként munkaviszony létesíthető.
+
+(3)
 
 (4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben való részvételéhez támogatás nyújtható.
 
@@ -1346,7 +1373,8 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - q) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - r) a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyének kijelölésére, valamint a kölcsönzési díj és a pénzügyi biztosíték megfizetése alóli mentességre vonatkozó részletes szabályokat,
 - s) a hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami feladatokat ellátó szerv kijelölését, feladatai ellátásának részletes szabályait,
-- t) a népművészeti és népi iparművészeti alkotások minősítési feltételeit, a minősítő címek körét, továbbá a népművészeti és népi iparművészeti alkotások minősítésére, minősítő címek adományozására irányuló eljárás rendjét, a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, valamint az igazolvány kiállítására vonatkozó szabályokat és a minősítés alapjául szolgáló foglalkozási ágakat.
+- t) a népművészeti és népi iparművészeti alkotások minősítési feltételeit, a minősítő címek körét, továbbá a népművészeti és népi iparművészeti alkotások minősítésére, minősítő címek adományozására irányuló eljárás rendjét, a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, valamint az igazolvány kiállítására vonatkozó szabályokat és a minősítés alapjául szolgáló foglalkozási ágakat,
+- u) azon intézmények körét, amelyeknél közszolgáltatás ellátására irányuló foglalkoztatási jogviszonyként munkaviszony létesíthető.
 
 (2)
 

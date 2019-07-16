@@ -293,7 +293,7 @@ e) a magas inertgáz tartalmú földgáz esetében 8%-a;
 
 f) az energiahordozók kivételével a külfejtéssel termelt nemfémes ásványi nyersanyagok esetében 5%-a;
 
-g) kőszenek mélyműveléses bányászata esetén 0%-a;
+g) kőszenek bányászata esetén 0%-a;
 
 h) egyéb szilárd ásványi nyersanyagok esetében 2%-a;
 
@@ -576,7 +576,7 @@ vonatkozó információ.
 
 (5) A bányatelek megállapítása és az ingatlan-nyilvántartásba történt bejegyzése nem változtatja meg a bányatelekkel lefedett felszíni ingatlanok tulajdonjogát, rendeltetését és használatát. A bányatelek megállapítása nem minősül a terület-igénybevétel megkezdésének.
 
-26/A. § (1) A bányavállalkozó a kutatási zárójelentést elfogadó határozat véglegessé válásától számított 5 hónapon belül kezdeményezheti a bányatelek megállapítását, illetve a geotermikus védőidom kijelölését. Az 5 hónapos időtartamba nem számít bele a környezetvédelmi engedélyezési eljárás és a 23. § (1a) és (1b) bekezdése szerint tevékenység időtartama. A határidő elmulasztása esetén a bányavállalkozó bányatelek megállapításának, illetve geotermikus védőidom kijelölésének kezdeményezésére vonatkozó joga megszűnik.
+26/A. § (1) A bányavállalkozó a kutatási zárójelentést elfogadó határozat véglegessé válásától számított 5 hónapon belül kezdeményezheti a bányatelek megállapítását, illetve a geotermikus védőidom kijelölését. Az 5 hónapos időtartamba nem számít bele a környezetvédelmi engedélyezési eljárás és a 23. § (1a) és (1b) bekezdése szerinti tevékenység, valamint a (3a) bekezdés szerinti eljárás időtartama. A határidő elmulasztása esetén a bányavállalkozó bányatelek megállapításának, illetve geotermikus védőidom kijelölésének kezdeményezésére vonatkozó joga megszűnik.
 
 (2) Bányatelek megállapítását jogszerűen megszerzett adattári adatok, új elméleti földtani értelmezés eredményei vagy bejelentés alapján végzett felszíni előkutatás adatai felhasználásával készített készletszámítási jelentés alapján is lehet kérelmezni. A készletszámítási jelentés alapján benyújtott kérelem esetén a bányafelügyelet felhívja a kérelmezőt – a kőolaj, földgáz, ideértve a szén-dioxid gáz ásványi nyersanyagra irányuló bányatelek megállapítás kivételével – a környezetvédelmi engedélyezési eljárás megindítására, és a környezetvédelmi engedélyezési eljárás véglegessé vált döntéssel való lezárásáig a bányatelek megállapítási eljárást felfüggeszti.
 
@@ -587,7 +587,7 @@ vonatkozó információ.
 - c) meghatározza az általa alkalmazni kívánt bányaművelési technológiát (mélyművelés, külfejtés, fúrólyukas kitermelés), és műszaki leírással igazolja a kitermelési feltételek teljesíthetőségét, valamint megjelöli a kitermelés ütemterv szerinti időpontját,
 - d) teljesíti a bányatelek-dokumentáció tartalmára jogszabályban előírt követelményeket.
 
-(3a) A külfejtéses művelésű bányatelket akkor lehet megállapítani vagy horizontálisan bővíteni, ha a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény bányatelek-megállapításra vonatkozó előírásai teljesülnek.
+(3a) A külfejtéses művelésű bányatelket akkor lehet megállapítani vagy horizontálisan bővíteni, ha a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény bányatelek-megállapításra vonatkozó előírásai teljesülnek, és a bányászati tevékenység befejezését követő, a bányászattal igénybe vett területekre vonatkozó újrahasznosítási cél a településrendezési eszközökben foglaltaknak megfelel.
 
 (4) A bányavállalkozó a bányatelek megállapításától számított 5 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül köteles az üzemszerű kitermelést megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő legfeljebb 5 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.
 
@@ -647,11 +647,11 @@ vonatkozó információ.
 
 27. § (1) A feltárási, kitermelési, föld alatti gáztárolási és meddőhányó-hasznosítási tevékenységet jóváhagyott műszaki üzemi terv szerint kell végezni.
 
-(2) A műszaki üzemi tervet a műszaki-biztonsági, az egészségvédelmi, a tűzvédelmi szabályok és az ásványvagyon-gazdálkodási, a vízgazdálkodási, valamint a környezet-, természet- és tájvédelmi követelmények figyelembevételével úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a föld alatti létesítmények, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a bányakárok, a környezeti-természeti károk lehetséges megelőzését, illetve csökkentését, a településrendezési eszközökben foglaltaknak való megfelelést, továbbá a tájrendezés teljesítését.
+(2) A műszaki üzemi tervet a műszaki-biztonsági, az egészségvédelmi, a tűzvédelmi szabályok és az ásványvagyon-gazdálkodási, a vízgazdálkodási, valamint a környezet-, természet- és tájvédelmi követelmények figyelembevételével úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a föld alatti létesítmények, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a bányakárok, a környezeti-természeti károk lehetséges megelőzését, illetve csökkentését, továbbá a 26/A. § (3a) bekezdése szerint megállapított bányateleknél, illetve horizontálisan bővített bányatelekrésznél a településrendezési eszközökben foglaltaknak való megfelelést.
 
 (3)
 
-(4) A műszaki üzemi tervet a bányafelügyelet a (2) bekezdésben meghatározott szempontokra és az ingatlan-igénybevételi ütemtervre figyelemmel akkor hagyja jóvá, ha a bányavállalkozó a műszaki üzemi tervben meghatározott bányászati tevékenységekkel érinteni tervezett ingatlanokra vonatkozóan igénybevételi jogosultságát igazolta.
+(4) A bányavállalkozó a műszaki üzemi tervben engedélyezett bányászati tevékenységét – a tájrendezés kivételével – csak akkor kezdheti meg, ha a bányafelügyeletnek igazolta, hogy a bányászati tevékenységgel igénybe venni tervezett ingatlanok tekintetében ingatlan-igénybevételi jogosultsággal rendelkezik, és a bányafelügyelet az igazolást elfogadta.
 
 (5) A bányafelügyelet a tájrendezés elvégzéséhez szükséges mértéket meghaladó meddő értékesítését a műszaki üzemi terv jóváhagyása során engedélyezi.
 
@@ -957,7 +957,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 (1a) A bányafelügyelet azt a jogi vagy természetes személyt, amely bányászati hulladékkezelési tevékenységet engedély nélkül vagy engedélytől eltérően végez vagy végeztet, bírsággal sújtja és eltiltja a szabálytalanul végzett tevékenység folytatásától, valamint kötelezi a jogellenes állapot megszüntetésére.
 
-(2) Ha a bányavállalkozó a bányászati tevékenységet szabálytalanul gyakorolja, a bányafelügyelet a bányavállalkozót bírsággal sújthatja, a tevékenység folytatását felfüggesztheti, az engedélyt visszavonhatja és elrendelheti az eredeti állapot helyreállítását, vagy ha ez nem lehetséges, a tájrendezést, vagy a bányavállalkozó bányászati jogát törölheti, amely esetben a 26/A. § (6)–(7) bekezdését is alkalmazni kell. Koncesszió esetén a bányafelügyelet a koncessziós szerződés megszüntetését is kezdeményezheti.
+(2) Ha a bányavállalkozó a bányászati tevékenységet szabálytalanul gyakorolja, a bányafelügyelet a bányavállalkozót bírsággal sújthatja, a tevékenység folytatását megtilthatja, az engedélyt visszavonhatja és elrendelheti az eredeti állapot helyreállítását, vagy ha ez nem lehetséges, a tájrendezést, vagy a bányavállalkozó bányászati jogát törölheti, amely esetben a 26/A. § (6)–(7) bekezdését is alkalmazni kell. Koncesszió esetén a bányafelügyelet a koncessziós szerződés megszüntetését is kezdeményezheti.
 
 (3) Szabálytalanul folytatja a bányászati tevékenységet a bányavállalkozó, ha azt
 
