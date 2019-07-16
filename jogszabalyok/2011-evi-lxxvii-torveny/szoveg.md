@@ -12,7 +12,14 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - b) a világörökségi és a világörökségi várományos területekkel kapcsolatos, a világörökségi terület kiemelkedő egyetemes értékét, valamint a világörökségi várományos terület kiemelkedő értékét érintő tevékenységre, valamint
 - c) a b) pont szerinti tevékenységet végző vagy e tevékenység által érintett szervezetekre és személyekre.
 
-(2) Világörökségi vagy világörökségi várományos területté csak a korábban hozott miniszteri döntéssel, határozattal vagy a kulturális örökség védelméről szóló 2001. évi LXIV. törvény alapján védetté nyilvánított és ekként kulturális örökségi védelmet élvező terület, vagy a természet védelméről szóló 1996. évi LIII. törvény alapján védett, védetté nyilvánított vagy kijelölt országos jelentőségű védett természeti terület, vagy országos jelentőségű védett természeti terület védőövezete nyilvánítható. A világörökségi vagy a világörökségi várományos területté nyilvánítás a már fennálló védettségen túl – az e törvényben foglalt kivételekkel – további oltalmat nem keletkeztet.
+(2) Világörökségi vagy világörökségi várományos területté csak
+
+- a) a korábban hozott miniszteri döntéssel, határozattal vagy a kulturális örökség védelméről szóló törvény alapján miniszteri rendelettel védetté nyilvánított és ekként kulturális örökségi védelmet élvező műemléki érték vagy nyilvántartott régészeti lelőhely, vagy
+- b) a természet védelméről szóló törvény erejénél fogva védett vagy a természet védelméről szóló törvényben kapott felhatalmazás alapján védetté nyilvánított országos jelentőségű védett természeti terület, továbbá az országos jelentőségű védett természeti terület kijelölt védőövezete
+
+nyilvánítható.
+
+(3) A világörökségi terület egyben a településkép védelméről szóló törvény szerinti településképi szempontból kiemelten meghatározó területnek is minősül.
 
 2. § E törvény alkalmazásában:
 
@@ -51,7 +58,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 - a) meghatározza az Egyezményből eredő feladatok végrehajtásának koncepcióját, stratégiáját;
 - b) érvényesíti a világörökségi szempontokat a világörökségi területet érintő jogszabályokban, illetve átfogó tervezési programokban;
-- c) előkészíti a világörökségi területek, valamint a Kormány döntése alapján a Világörökség Jegyzékbe javasolt várományos területek világörökségi kezelési tervét (a továbbiakban: világörökségi kezelési terv), kezdeményezi annak felülvizsgálatát, illetve – szükség esetén – módosítását, valamint ellátja az ebből eredő egyéb feladatokat;
+- c) előkészíti a Kormány részére a világörökségi területek világörökségi kezelési tervét (a továbbiakban: világörökségi kezelési terv), a Világörökség Jegyzékbe történő felvételt követően haladéktalanul intézkedik annak kihirdetéséről, továbbá szükség esetén kezdeményezi a világörökségi kezelési terv felülvizsgálatát, módosítását;
 - d) gondoskodik a világörökségi terület állapotának felméréséről és folyamatos figyelemmel kíséréséről, továbbá megteszi a kiemelkedő egyetemes érték megőrzéséhez, bemutatásához, fenntartásához, valamint az azt érő káros hatások bekövetkezésének megelőzéséhez szükséges intézkedéseket;
 - e) felügyeli a világörökségi gondnokságok e törvényben, valamint e törvény alapján kiadott külön jogszabályban meghatározott tevékenységét, és külön jogszabályban meghatározott esetekben intézkedik a világörökségi gondnokság megbízásának visszavonásáról;
 - f) négyévente beszámol a Kormánynak és az Országgyűlésnek a világörökségi területek állapotáról és az Egyezményből eredő feladatok ellátásáról;
@@ -60,7 +67,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - i) ellátja a világörökséggel kapcsolatos, az Egyezményből eredő nemzetközi feladatokat, így különösen a határon átnyúló világörökségi helyszínek esetén együttműködésre törekszik a határon átnyúló helyszínnel érintett Részes Állam felelős miniszterével;
 - j) gondoskodik a kiemelkedő egyetemes értéket hordozó örökség széles körben történő megismertetését, bemutatását, valamint fejlesztését elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról, valamint
 - k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel való együttműködésről;
-- l) gondoskodik a hazai Világörökségi Várományos Helyszínek Jegyzékének vezetéséről,
+- l) gondoskodik a hazai világörökségi területek és a Világörökségi Várományos Helyszínek Jegyzékének mint közhiteles nyilvántartásnak a vezetéséről;
 - m) jogszabályban meghatározott módon gondoskodik a világörökségi és a világörökségi várományos területek adatainak nyilvántartásáról.
 
 4/A. § (1) A kulturális örökség védelméért felelős miniszter, vagy ha a világörökségi helyszín kiemelkedő egyetemes értéke kizárólag természeti érték és a világörökségi terület egésze védett természeti területen van, úgyszintén, ha az állami tulajdonban álló vagyonelem (a továbbiakban: állami vagyonelem) kizárólag természetvédelmi oltalom alatt áll, a természet védelméért felelős miniszter (a továbbiakban együtt: védelemért felelős miniszter) hivatalból, továbbá az állam tulajdonosi jogait gyakorló szerv vagy a világörökségi helyszínen működő világörökségi gondnokság kérelmére megvizsgálja a világörökségi területen levő, állami vagyonelem használatát és hasznosítását. Amennyiben a világörökségi helyszín kiemelkedő egyetemes értéke természeti érték is, vagy az állami vagyonelem természetvédelmi oltalom alatt is áll, a kulturális örökség védelméért felelős miniszter a vizsgálatot a természet védelméért felelős miniszter közreműködésével folytatja le.
@@ -83,7 +90,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - d) a c) pont szerinti felülvizsgálat eredményére is figyelemmel javaslatot tesz a Kormány részére a Világörökség Jegyzékbe jelölendő várományos helyszínre (a továbbiakban: a Világörökség Jegyzékbe jelölendő helyszín),
 - e) gondoskodik a Kormány döntése alapján a Világörökség Jegyzékbe jelölendő helyszín és javasolt védőövezete világörökségi kezelési tervének elkészítéséről és világörökségi gondnokságának kijelöléséről,
 - f) intézkedik a Világörökség Jegyzékbe jelölendő helyszín Világörökség Jegyzékbe történő jelöléséről, valamint
-- g) gondoskodik a kiemelkedő kulturális örökségi és természeti értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról.
+- g) gondoskodik a várományos helyszínen kiemelkedő értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról.
 
 6. § A kulturális örökség védelméért felelős miniszter a 4. § (2) bekezdésében és az 5. §-ban meghatározott feladatokat a Kormány által az e feladatok ellátása céljából létrehozott javaslattevő, véleményező és döntés-előkészítő testület közreműködésével látja el, amely
 
@@ -111,6 +118,10 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 (5) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a kormányrendeletben kijelölt hatóság megkeresi az ingatlanügyi hatóságot.
 
+6/B. § (1) A világörökségi szakkérdésben eljáró hatóság – az e törvénnyel és a végrehajtására kiadott rendeletekkel összhangban – honlapján, az érintettek számára visszakereshető módon szakmai követelményeket tartalmazó iránymutatást tehet közzé, amely a hatósági eljárás során érvényesítendő.
+
+(2) Az (1) bekezdés szerinti iránymutatás vagy annak módosítása csak a kulturális örökség védelméért felelős miniszter előzetes jóváhagyását követően tehető közzé, és a honlapon történő közzététel és a követelmény hatálybalépése között legalább 30 nap felkészülési időt kell biztosítani.
+
 #### 3. Kezelés, világörökségi kezelési terv, világörökségi gondnokság
 
 7. § (1) A világörökségi területek kezelése – a kiemelkedő egyetemes érték, és az azt hordozó valamennyi anyagi és nem anyagi tényező megőrzése érdekében – kiterjed a világörökségi területek használatának, fejlesztésének, bemutatásának, illetve szükség szerinti helyreállításának biztosítására, továbbá a világörökségi területek megőrzésével és fenntartható mértékű használatával kapcsolatos tevékenységek összehangolására.
@@ -129,11 +140,13 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 (2) A világörökségi kezelési terv egyeztetésébe az érintett helyi önkormányzatokat be kell vonni.
 
-(3) Amennyiben a világörökségi helyszín vagy a Világörökség Jegyzékbe jelölendő helyszín kiemelkedő egyetemes értéke kizárólag természeti érték és a világörökségi helyszín vagy a Világörökség Jegyzékbe jelölendő helyszín területének egésze védett természeti területen van, a természetvédelmi kezelési terv az (1) bekezdés szerinti világörökségi kezelési tervnek minősül.
+(3) Ha a világörökségi helyszín vagy a Világörökség Jegyzékbe jelölendő helyszín kiemelkedő egyetemes értéke kizárólag természeti érték, és a világörökségi helyszín vagy a Világörökség Jegyzékbe jelölendő helyszín területének egésze védett természeti területen van, a természetvédelmi kezelési terv a világörökségi helyszín világörökségi kezelési tervének minősül. Ebben az esetben a természetvédelmi kezelési terv jogszabályban meghatározott tartalmi és szerkezeti keretei között biztosítani kell a védett természeti terület világörökségi címéből fakadó szakmai követelmények érvényesülését.
+
+(3a) A (3) bekezdés szerinti természetvédelmi kezelési terv csak akkor minősül az (1) bekezdés szerinti, a világörökségi területre vonatkozó világörökségi kezelési tervnek, ha megfelel az e törvény felhatalmazása alapján kiadott kormányrendelet világörökségi kezelési terv tartalmi elemeire vonatkozó részletes követelményeknek. Ha a világörökségi kezelési terv tartalmi követelményei nem teljesülnek a (3) bekezdés szerinti természetvédelmi kezelési tervben, akkor az érintett területre külön világörökségi kezelési tervet kell készíteni.
 
 (4) Amennyiben a világörökségi területen vagy a Világörökség Jegyzékbe jelölendő helyszín területén országos vagy helyi jelentőségű védett természeti terület is van, az (1) bekezdésben meghatározott világörökségi kezelési tervet a védett természeti területre vonatkozó, külön jogszabályban meghatározott természetvédelmi kezelési tervvel összhangban – a természetvédelmi kezelési tervben foglalt, a kiemelkedő egyetemes érték vagy a kiemelkedő érték védelmét biztosító természetvédelmi kezelési előírásokra utalva – kell elkészíteni. A természet védelméről szóló külön jogszabály alapján fennálló védettségből eredő korlátozásokat, tilalmakat a természetvédelmi kezelési terv tartalmazza.
 
-(5)
+(5) Világörökségi területen építményt, épületet, műszaki berendezést, reklámhordozót, közlekedési infrastruktúrát és napelemes erőművet újonnan elhelyezni, közműfejlesztést megvalósítani, erdőgazdálkodási, mezőgazdasági és bányászati tevékenységet folytatni, növényzetet telepíteni csak a világörökségi kezelési tervben meghatározott szempontrendszer és korlátozások figyelembevételével lehetséges.
 
 (6) A világörökségi területek világörökségi kezelési tervében foglaltak figyelembevételével kell különösen
 
@@ -161,7 +174,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 (5) Amennyiben külön jogszabály a világörökségi terület, valamint a Világörökség Jegyzékbe jelölendő helyszín és védőövezete egy részének kezeléséért felelős szervet jelöl ki, úgy a (3) bekezdés alapján kiválasztott világörökségi gondnokság köteles ezzel a szervvel együttműködni.
 
-11. § Világörökségi területen a több, egy tájegységet képező település közigazgatási területén végzett építési tevékenység tekintetében a tájegységi tervtanácsok az épített környezet alakításáról és védelméről szóló törvényben és a végrehajtására kiadott, a tervtanácsok működéséről szóló kormányrendeletben meghatározottak szerint működnek.
+#### 11. §
 
 #### 4. Finanszírozás
 
@@ -208,20 +221,20 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - a) a világörökségi várományos helyszínek Világörökségi Várományos Helyszínek Jegyzékébe történő felvételének és felülvizsgálatának, továbbá a Központhoz történő bejelentésének, valamint a világörökségi várományos helyszín Világörökség Jegyzékbe történő jelölésének részletes szabályait;
 - b) a világörökségi testületbe tag delegálására jogosult minisztereket, a testület részletes feladatait és működését;
 - c) a világörökségi kezelési terv készítését, annak tartalmi elemeire vonatkozó részletes követelményeket, az érintettekkel történő előzetes egyeztetésének és felülvizsgálatának rendjét;
-- d) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat;
-- e) a világörökségi terület világörökségi kezelési tervét; valamint
+- d) a világörökségi gondnokság kijelölésének szabályait és ellátandó feladatait,
+- e) a világörökségi területre vonatkozóan a kiemelkedő egyetemes értéket és az azt hordozó elemeket (attribútumokat), valamint az ezek megőrzését és fenntartását biztosító alapvető kezelési követelményeket, korlátozásokat és tilalmakat meghatározó világörökségi kezelési tervet,
 - f) a világörökségi helyszínen található ingatlanok vonatkozásában a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait, a 6/A. § (5) bekezdésében meghatározott hatóság kijelölését, valamint az elővásárlási joggal érintett ingatlanok adatait.
 
 (2) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy – az 1. mellékletben meghatározott miniszterekkel egyetértésben – rendeletben állapítsa meg:
 
-- a) a világörökségi gondnokság kiválasztásának részletes szabályait, a világörökségi gondnokság feladatait és működését; valamint
-- b) a Világörökségi Várományos Helyszínek Jegyzékét.
+- a) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat;
+- b) a világörökségi területtel érintett ingatlanokat.
 
 (3)
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
 17. § (1) E törvény – a (2) és (3) bekezdés szerinti kivétellel – 2012. január 1-jén lép hatályba.
 
@@ -230,6 +243,13 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 (3) A 14. § (1) bekezdés f) pontja 2015. december 1-jén lép hatályba.
 
 (4)
+
+18. § E törvénynek az egyes törvényeknek az épített és a természeti környezet védelmével, valamint a kulturális örökségvédelemmel összefüggő módosításáról szóló 2019. évi LXIV. törvénnyel (a továbbiakban: Módtv.) megállapított
+
+- a) 8. § (3) és (3a) bekezdését a Módtv. hatálybalépésekor folyamatban lévő, világörökségi területet érintő természetvédelmi kezelési terv készítése és módosítása során, valamint
+- b) a 8. § (5) bekezdését a Módtv. hatálybalépésekor első fokon még el nem bírált és a megismételt eljárásokban
+
+is alkalmazni kell.
 
 ### 1. melléklet a 2011. évi LXXVII. törvényhez
 

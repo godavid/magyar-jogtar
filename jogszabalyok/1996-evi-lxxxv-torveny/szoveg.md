@@ -175,6 +175,13 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 irányuló eljárás.
 
+- y) a kulturális örökségvédelmi jogi jellegek:
+  - ya) műemlék vagy nyilvántartott műemléki érték,
+  - yb) műemléki terület (műemléki jelentőségű terület, történeti táj, műemléki környezet),
+  - yc) régészeti lelőhely (törvény erejénél fogva védett és rendeletben védetté nyilvánított, fokozottan vagy kiemelten védett régészeti lelőhely) vagy régészeti védőövezet,
+  - yd) helyi egyedi építészeti védelem ingatlan-nyilvántartási feljegyzése iránti hatósági eljárás;
+- z) az Országos Erdőállomány Adattárban erdőként vagy fátlan állapotban tartott erdőként nyilvántartott terület erdő vagy fásított terület művelési ágának átvezetésére, ennek hiányában jogi jellegként történő feljegyzésére irányuló hatósági eljárás.
+
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.
 
 (3) Az (1) bekezdés szerinti díjmentességek tekintetében a jogok bejegyzése, tények feljegyzése alatt azok törlését, illetve módosítását is érteni kell.
@@ -256,5 +263,7 @@ irányuló eljárás.
 33/A. § (1) Az államháztartás alrendszereiből, európai uniós forrásokból, illetve nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati vagy pályázati rendszeren kívüli támogatások odaítélésére irányuló eljárásban mellékletként nem lehet tulajdonilap-másolat csatolását kérni.
 
 (2) Az (1) bekezdésben meghatározott, közigazgatási hatósági eljárásnak nem minősülő eljárásban elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolatot kell felhasználni, amelynek költségét – ha jogszabály eltérően nem rendelkezik – a pályázónak kell viselnie.
+
+33/B. § E törvénynek az egyes törvényeknek az épített és a természeti környezet védelmével, valamint a kulturális örökségvédelemmel összefüggő módosításáról szóló 2019. évi LXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 32/C. § (1) bekezdés y) és z) pontját a Módtv. hatálybalépésekor első fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell.
 
 ### Melléklet az 1996. évi LXXXV. törvényhez
