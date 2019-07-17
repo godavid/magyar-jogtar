@@ -2800,9 +2800,11 @@ A nyilvánosan működő részvénytársaságban a kisebbségi jogok gyakorlás�
 
 (1) A részvénytársaság legfőbb szerve a közgyűlés.
 
-(2) Nyilvánosan működő részvénytársaság esetén a közgyűlés kizárólagos hatáskörébe tartozik a vezető tisztségviselők, felügyelőbizottsági tagok, valamint vezető állású munkavállalók hosszú távú díjazása és ösztönzési rendszere irányelveinek meghatározása.
+(2) Nyilvánosan működő részvénytársaság esetén a közgyűlés kizárólagos hatáskörébe tartozik a javadalmazási politikáról való véleménynyilvánító szavazás. A javadalmazási politikát annak jelentős változása esetén, de legalább négyévente a közgyűlés napirendjére kell tűzni.
 
-(3) Nyilvánosan működő részvénytársaság esetén a közgyűlés hatáskörébe tartozó kérdésekről nem lehet közgyűlés tartása nélkül határozatot hozni.
+(3) Nyilvánosan működő részvénytársaság esetén az előző üzleti évre vonatkozó javadalmazási jelentést véleménynyilvánító szavazás céljából a közgyűlés napirendjére kell tűzni.
+
+(4) Nyilvánosan működő részvénytársaság esetén a közgyűlés hatáskörébe tartozó kérdésekről nem lehet közgyűlés tartása nélkül határozatot hozni.
 
 #### 3:269. § [A közgyűlés összehívásának általános szabályai]
 
@@ -2905,7 +2907,9 @@ A közgyűlésre szóló meghívó az általánosan kötelező tartalmi elemeken
 
 #### 3:279. § [Határozatok nyilvánosságra hozatala]
 
-A nyilvánosan működő részvénytársaság a közgyűlésen hozott határozatokat köteles nyilvánosságra hozni.
+(1) A nyilvánosan működő részvénytársaság a közgyűlésen hozott határozatokat köteles honlapján nyilvánosságra hozni.
+
+(2) A nyilvánosan működő részvénytársaság a javadalmazási politikáját és a javadalmazási jelentést köteles honlapján nyilvánosságra hozni.
 
 #### 3:280. § [Konferencia-közgyűlés feltételei]
 
@@ -6852,7 +6856,7 @@ is alapítható.
 
 (3) Ha a felek meghatározták azt az összeget, amelynek erejéig a zálogjogosult kielégítést kereshet a zálogtárgyból, a zálogjog a követelést és járulékait annyiban biztosítja, amennyiben azok a keretösszeget nem haladják meg.
 
-#### 5:99. § [A biztosított követelés átruházása]
+#### 5:99. § [A biztosított követelés átruházása és megterhelése]
 
 (1) A biztosított követelés átruházásával vagy egyéb módon való átszállásával a zálogjog is átszáll a követelés új jogosultjára. A követelés átruházója köteles a zálogtárgyat vagy a jelzálogjog átszállásának a bejegyzéséhez szükséges engedélyt az új zálogjogosult részére kiadni.
 
@@ -6876,7 +6880,7 @@ is alapítható.
 
 (6) A zálogkötelezett az önálló zálogjog mindenkori jogosultjával szemben hivatkozhat azokra a kifogásokra is, amelyek a biztosítéki szerződésben meghatározott követelés kötelezettjét megilletik. A biztosítéki szerződés szerint kielégíthető követelés összegét a kielégítési jog gyakorlása során befolyt vételár csökkenti.
 
-(7) Az önálló zálogjoggal terhelt zálogtárgy tulajdonjogát megszerző fél a biztosítéki szerződésben a zálogkötelezett helyébe lép.
+(7) Az önálló zálogjoggal terhelt zálogtárgy tulajdonjogát megszerző fél a biztosítéki szerződésben a zálogkötelezett helyébe lép. A biztosítéki szerződés szerint kielégíthető követelést kielégítő kötelezettet, zálogkötelezettet vagy harmadik személyt a megtérítési követelése biztosítására – ha az nem pénzügyi intézmény – az önálló zálogjog ranghelyén, annak helyébe lépő követelést biztosító zálogjog illeti meg. A megtérítési követelése biztosítékaként a követelést kielégítő pénzügyi intézményre az önálló zálogjog átszáll.
 
 (8) Ha a biztosítéki szerződés nem jött létre, az önálló zálogjog létesítésének a biztosítéki szerződésben megjelölt célja véglegesen meghiúsult, vagy a biztosítéki szerződés, illetve a biztosítéki szerződés szerint a zálogtárgyból kielégíthető követelés – ideértve a megtérítési követelést is – megszűnt, továbbá, ha a biztosítéki szerződésbe foglalt más, az önálló zálogjog megszűnését eredményező ok vagy feltétel bekövetkezett, a zálogjogosult a zálogkötelezett írásbeli felszólítására köteles hozzájárulni ahhoz, hogy
 
@@ -7260,9 +7264,11 @@ Ha a jelzálogjog tárgya követelés, a zálogjogosult teljesítési utasítás
 
 #### 5:140. § [Alzálogjog érvényesítése]
 
-(1) Ha a zálogjog tárgyául szolgáló követelés zálogjoggal vagy kezességgel van biztosítva, az alzálogjog jogosultja a zálogjogosultnak a zálogjogból, illetve kezességből fakadó jogait annyiban gyakorolhatja, amennyiben e jogok gyakorlására a zálogjogosult maga is jogosult. Ha a követelést kézizálogjog biztosítja, a zálogjogosult az alzálogjog jogosultjának kérésére köteles a zálogtárgy birtokát részére átruházni.
+(1) Az alzálogjog jogosultja a zálogjogosultnak a zálogjogból fakadó jogait annyiban gyakorolhatja, amennyiben e jogok gyakorlására a zálogjogosult maga is jogosult. Ha a követelést kézizálogjog biztosítja, a zálogjogosult az alzálogjog jogosultjának kérésére köteles a zálogtárgy birtokát részére átruházni.
 
 (2) Az alzálogjog jogosultja e jogából fakadó jogait úgy köteles gyakorolni, hogy azzal a zálogjogosult zálogjoggal biztosított követelésének megtérülését ne veszélyeztesse. Az alzálogjog érvényesítése eredményeként az ennek jogosultjához az alzálogjoggal biztosított követelést meghaladóan befolyt pénzösszegen vagy más vagyontárgyon a zálogjogosultat az alzálogjogosulttal szembeni elszámolási igénye biztosítására zálogjog illeti meg.
+
+(3) Ha a zálogjog tárgyául szolgáló követelés kezességgel van biztosítva, a zálogjogosult a kezességből fakadó jogait a követelés kezesével szemben – a (2) bekezdés megfelelő alkalmazásával – a kezesség jogosultjára irányadó szabályok szerint gyakorolhatja.
 
 #### 5:141. § [Követelést megtestesítő értékpapírok]
 
@@ -7281,7 +7287,7 @@ Az elzálogosított jog vagy követelés érvényesítésére és az aljelzálog
 - e) a zálogjoggal biztosított követelés elévül, ez azonban a követelést biztosító kézizálogból való kielégítést nem akadályozza;
 - f) a zálogjogosult a kielégítési jogát gyakorolva a zálogtárgyat értékesíti vagy a zálogtárgy tulajdonjogát megszerzi.
 
-(2) A zálogjoggal biztosított követelés megszűnése ellenére is fennmarad a zálogjog a követelést kielégítő személyes kötelezettet, zálogkötelezettet vagy harmadik személyt megillető megtérítési követelés biztosítására.
+(2) A zálogjoggal biztosított követelés megszűnése ellenére is fennmarad a zálogjog a követelést kielégítő személyes kötelezettet, zálogkötelezettet vagy harmadik személyt megillető megtérítési követelés biztosítására akként, hogy a fennmaradó zálogjog a megtérítési követelés jogosultját illeti meg.
 
 (3) A zálogjog fennmarad a zálogjoggal biztosított követelés biztosítékául, ha ugyanaz a személy lesz a zálogkötelezett és a zálogjogosult.
 
@@ -12987,10 +12993,10 @@ Az átmeneti rendelkezéseket törvény állapítja meg.
 
 E törvény:
 
-- a) a Szerződés 54. cikke (3) bekezdésének g) pontja alapján a részvénytársaságok szétválásáról szóló 1982. december 17-i 82/891/EGK tanácsi irányelvnek;
+- a)
 - b) a hibás termékekért való felelősségre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló 1985. július 25-i 85/374/EGK tanácsi irányelvnek, valamint az azt módosító 1999/34/EK európai parlamenti és tanácsi irányelvnek;
 - c) a tagállamok önálló vállalkozóként működő kereskedelmi ügynökökre vonatkozó jogszabályainak összehangolásáról szóló 1986. december 18-i 86/653/EGK tanácsi irányelvnek;
-- d) az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i 2015/2302/EU európai parlamenti és tanácsi irányelvnek;
+- d) az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i (EU) 2015/2302 európai parlamenti és tanácsi irányelvnek;
 - e) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló 1993. április 5-i 93/13/EGK tanácsi irányelvnek;
 - f) a fogyasztási cikkek adásvételének és a kapcsolódó jótállásnak egyes vonatkozásairól szóló 1999. május 25-i 1999/44/EK európai parlamenti és tanácsi irányelvnek;
 - g) a belső piacon az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem egyes jogi vonatkozásairól szóló 2000. június 8-i 2000/31/EK európai parlamenti és tanácsi irányelvnek;
@@ -12998,12 +13004,13 @@ E törvény:
 - i) a nyilvános vételi ajánlatról szóló 2004. április 21-i 2004/25/EK európai parlamenti és tanácsi irányelvnek;
 - j) az egyes részvényesi jogok gyakorlásáról a tőzsdén jegyzett társaságokban szóló 2007. július 11-i 2007/36/EK európai parlament és a tanácsi irányelvnek;
 - k) a fizetési és értékpapír-elszámolási rendszerekben az elszámolások véglegességéről szóló 98/26/EK irányelvnek és a pénzügyi biztosítékokról szóló megállapodásokról szóló 2002/47/EK irányelvnek a kapcsolódó rendszerek és hitelkövetelések tekintetében történő módosításáról szóló 2009. május 6-i 2009/44/EK európai parlamenti és tanácsi irányelvnek;
-- l) az egész Közösségre kiterjedő egységes biztosítékok kialakítása érdekében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 48. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról szóló 2009. szeptember 16-i 2009/101/EK európai parlamenti és tanácsi irányelvnek;
+- l)
 - m) a társasági jog területén az egyszemélyes korlátolt felelősségű társaságokról szóló 2009. szeptember 16-i 2009/102/EK európai parlamenti és tanácsi irányelvnek;
-- n) a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról szóló 2009. szeptember 16-i 2009/109/EK európai parlamenti és tanácsi irányelvnek;
+- n)
 - o) a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011. február 16-i 2011/7/EU európai parlamenti és tanács irányelvnek;
-- p) a részvénytársaságok egyesüléséről szóló 2011. április 5-i 2011/35/EU európai parlamenti és tanácsi irányelvnek;
+- p)
 - q) a fogyasztók jogairól, a 93/13/EGK tanácsi irányelv és az 1999/44/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 85/577/EGK tanácsi irányelv és a 97/7/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló 2011. október 25-i 2011/83/EU európai parlamenti és tanácsi irányelvnek;
-- r) a biztosítékok egyenértékűvé tétele céljából a részvénytársaságok alapításának, valamint tőkéjük fenntartásának és módosításának tekintetében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében az Európai Unió működéséről szóló szerződés 54. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról szóló 2012. október 25-i 2012/30/EU európai parlamenti és tanácsi irányelvnek
+- r) a társasági jog egyes vonatkozásairól szóló, 2017. június 14-i (EU) 2017/1132 európai parlamenti és tanácsi irányelvnek;
+- s) a 2007/36/EK irányelvnek a hosszú távú részvényesi szerepvállalás ösztönzése tekintetében történő módosításáról szóló, 2017. május 17-i (EU) 2017/828 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.

@@ -3799,9 +3799,9 @@ kérhetnek adatszolgáltatást.
 
 (4) Ha a végrehajtói iroda az (1) bekezdés szerinti adatokat a bejelentésben nem közli, a Kar hivatali szerve az adatok közlése iránt megkeresi a végrehajtói iroda bejegyzését végző cégbíróságot.
 
-(5) A Kar hivatali szerve az (1) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt a végrehajtói iroda oda jelentette be.
+(5) A Kar hivatali szerve az (1) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi.
 
-(6) Ha a végrehajtói iroda az (1) bekezdés h) pontja szerinti adatot a Kar hivatali szerve felé jelentette be, a Kar hivatali szerve azt az (5) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.
+(6)
 
 ### Közigazgatási hatósági ügyek intézése
 
