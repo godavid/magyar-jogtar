@@ -240,13 +240,24 @@ történik.
 - g) a kényszerintézkedésnek az elrendeléséről szóló határozat szerinti, illetve a törvényben meghatározott lehetséges végső tartamáról, továbbá a kényszerintézkedés meghosszabbításának és felülvizsgálatának szabályairól, valamint az e határozatokkal szembeni jogorvoslatról, illetve a kényszerintézkedés megszüntetése iránti indítvány benyújtásához való jogról,
 - h) a kényszerintézkedés elrendelése, meghosszabbítása vagy fenntartása esetén az általa megjelölt hozzátartozó vagy az általa megjelölt más személy értesítéséhez való jogról.
 
-(5a) Az európai elfogatóparancs alapján őrizetbe vett személy részére a (4) és (5) bekezdésben foglaltakon túl a befogadásakor írásban, az általa értett nyelven egyszerűen, közérthető módon tájékoztatást kell adni az európai elfogatóparancs tartalmának megismeréséhez való jogról, az egyszerűsített átadáshoz történő hozzájárulás lehetőségéről és jogkövetkezményeiről, valamint a hozzájárulás megtagadásának jogkövetkezményeiről.
+(5a) A kényszerintézkedés hatálya alatt álló fiatalkorú részére a (4) és az (5) bekezdésben foglaltakon túl a befogadáskor írásban, az általa értett nyelven egyszerűen, közérthető módon tájékoztatást kell adni a büntetőeljáráshoz kapcsolódóan
 
-(6) Ha a kényszerintézkedés hatálya alatt álló személy a (4) bekezdés f) és k) pontjában, valamint az (5) bekezdésben szereplő jogokról a tájékoztatást az őrizetbe vétel során már megkapta, a tájékoztatást nem kell megismételni.
+- a) a letartóztatás megszüntetése, az enyhébb személyi szabadságot érintő bírói engedélyes kényszerintézkedés elrendelése, továbbá a letartóztatás javítóintézetben történő végrehajtása iránti indítvány benyújtásához való jogról,
+- b) arról, hogy a részvételével lefolytatandó eljárási cselekményen a törvényes képviselője is részt vehet és ebből a célból a törvényes képviselőnek a fogva tartó intézetbe történő belépését engedélyezni kell,
+- c) arról, hogy a tárgyaláson és az előkészítő ülésen a jelenléte kötelező, ennek érdekében előállítására kerülhet sor, vagy jelenlétét telekommunikációs eszköz útján biztosítják,
+- d) az orvosi vizsgálat kezdeményezéséhez való jogról, különösen arról, hogy orvosi vizsgálatát törvényes képviselője vagy védője is kezdeményezheti,
+- e) a fogvatartás során a felnőtt korúaktól való elkülönítéshez, egészségi állapota megőrzéséhez, testi és szellemi fejlődésének biztosításához, oktatáshoz és képzéshez, fejlődése és reintegrációja érdekében megfelelő programokon való részvételhez, valamint a családi élethez való jogának e törvény szerinti kapcsolattartás keretében történő tényleges és rendszeres gyakorlásához való jogról,
+- f) a d) és az e) pontban foglalt jogai megsértése esetén az e törvény szerinti panaszjogról.
 
-(7) A (4)–(5a) bekezdésben meghatározott jogokról szóló írásbeli tájékoztatót az elítélt és az egyéb jogcímen fogvatartott magánál tarthatja.
+(5b) Az (5a) bekezdés b) és d) pontja szerinti törvényes képviselővel kapcsolatos jogokról a fiatalkorút akkor kell tájékoztatni, ha van törvényes képviselője.
 
-(8) A (3)–(5a) bekezdés szerinti tájékoztatás megtörténtét és annak tudomásulvételét írásban kell rögzíteni. Ha az elítélt vagy az egyéb jogcímen fogvatartott írni, olvasni nem tud, vagy a tájékoztatás időpontjában az írásbeli tájékoztató az általa értett nyelven nem áll rendelkezésre, a (4)–(5a) bekezdés szerinti tájékoztatást szóban – két tanú jelenlétében – kell elvégezni, és annak megtörténtét írásban kell rögzíteni. Ha ezt követően a (4)–(5a) bekezdés szerinti írásbeli tájékoztató az elítélt vagy az egyéb jogcímen fogvatartott által értett nyelven elkészül, azt részére haladéktalanul át kell adni.
+(5c) Az európai elfogatóparancs alapján őrizetbe vett személy részére a (4)–(5a) bekezdésben foglaltakon túl a befogadásakor írásban, az általa értett nyelven, egyszerűen és közérthető módon tájékoztatást kell adni az európai elfogatóparancs tartalmának megismeréséhez való jogról, az egyszerűsített átadáshoz történő hozzájárulás lehetőségéről és jogkövetkezményeiről, valamint a hozzájárulás megtagadásának jogkövetkezményeiről.
+
+(6) Ha a kényszerintézkedés hatálya alatt álló személy a (4) bekezdés f) és k) pontjában, valamint az (5) és (5a) bekezdésben szereplő jogokról a tájékoztatást az őrizetbe vétel során már megkapta, a tájékoztatást nem kell megismételni.
+
+(7) A (4)–(5a) és (5c) bekezdésben meghatározott jogokról szóló írásbeli tájékoztatót az elítélt és az egyéb jogcímen fogvatartott magánál tarthatja.
+
+(8) A (3)–(5a) és (5c) bekezdés szerinti tájékoztatás megtörténtét és annak tudomásulvételét írásban kell rögzíteni. Ha az elítélt vagy az egyéb jogcímen fogvatartott írni, olvasni nem tud, vagy a tájékoztatás időpontjában az írásbeli tájékoztató az általa értett nyelven nem áll rendelkezésre, a (4)–(5a) és (5c) bekezdés szerinti tájékoztatást szóban – két tanú jelenlétében – kell elvégezni, és annak megtörténtét írásban kell rögzíteni. Ha ezt követően a (4)–(5a) és (5c) bekezdés szerinti írásbeli tájékoztató az elítélt vagy az egyéb jogcímen fogvatartott által értett nyelven elkészül, azt részére haladéktalanul át kell adni.
 
 (9) A tartósan vagy véglegesen érzékszervi, kommunikációs, fizikai, értelmi, pszicho-szociális károsodással – vagy ezek bármilyen halmozódásával – élő, az írni vagy olvasni nem tudó, valamint a fiatalkorú elítélt vagy egyéb jogcímen fogvatartott részére a tájékoztatást – állapotára, adottságaira és helyzetére figyelemmel – a számára érthető módon kell megadni.
 
@@ -3128,6 +3139,8 @@ vizsgálja.
 
 (2a) Ha a fiatalkorú eljárási cselekmény lefolytatása érdekében történő kiadása a rendőrségi fogdán való elhelyezéssel jár, úgy azt az illetékes ügyészség harminc napra engedélyezheti. A határozat ellen panasznak nincs helye.
 
+(2b) A fiatalkorú részvételével lefolytatandó eljárási cselekményen történő részvétel céljából megjelenő törvényes képviselőnek a fogva tartó intézetbe történő belépését engedélyezni kell.
+
 (3) A fiatalkorú társadalomba beilleszkedésének segítéséhez igénybe kell venni a gyámhatóság és az egyéb állami szervek, a civil szervezetek, oktatási intézmények, a büntetés-végrehajtási pártfogó felügyelő, valamint a fiatalkorú hozzátartozóinak segítségét.
 
 (4) A szabadságvesztés végrehajtása során különös gondot kell fordítani a fiatalkorú oktatására, személyiségének fejlesztésére és testi fejlődésére, a tankötelezettség érvényesítésére, az első szakmához jutás lehetőségére.
@@ -5555,11 +5568,13 @@ haladéktalanul határoz.
 
 (4) A letartóztatott a büntetőeljárással kapcsolatban készített feljegyzéseit magánál tarthatja, azokat védőjének ellenőrzés nélkül átadhatja. Ha alapos indok merül fel arra, hogy a letartóztatott részére érkező, vagy a letartóztatott által küldött – büntetőeljáráshoz kapcsolódó levél – nem a címzésben megjelölt védőtől származik, vagy nem a védőnek szól, azt a letartóztatott jelenlétében – jegyzőkönyv egyidejű felvétele mellett – kell felbontani. Az ellenőrzés csak a feladó és a címzett azonosítására szolgálhat.
 
+(5) A letartóztatott részvételével lefolytatandó eljárási cselekményen történő részvétel céljából megjelenő védőnek a fogva tartó intézetbe történő belépését engedélyezni kell.
+
 399. § (1) A védő a letartóztatottal való megbeszélésről készített feljegyzést vagy hangfelvételt a fogva tartó intézetből ellenőrzés nélkül kiviheti. A védő a kizárólag hangfelvétel rögzítésére alkalmas technikai eszközt – a belépéskor történő bejelentés mellett – külön engedély nélkül viheti be az intézetbe.
 
 (2) A védő személyes biztonságát – kérésére vagy beleegyezésével – a fogva tartó intézet biztosítja. A felügyelet a letartóztatott és a védő büntetőeljárási jogait nem korlátozhatja.
 
-(3) Ezen alcímnek a védőre vonatkozó rendelkezéseit a meghatalmazott vagy kirendelt ügyvédre, az alkalmazott ügyvédre, az ügyvédjelöltre, valamint – a rendelkezési jogkör gyakorlójának előírásait figyelembe véve – a törvényes képviselőre is alkalmazni kell.
+(3) Ezen alcímnek a védőre vonatkozó rendelkezéseit a meghatalmazott vagy kirendelt ügyvédre, az alkalmazott ügyvédre, az ügyvédjelöltre, valamint a törvényes képviselőre is alkalmazni kell azzal, hogy a törvényes képviselő a kapcsolattartásra ellenőrzés mellett, a rendelkezési jogkör gyakorlójának előírásait figyelembe véve jogosult.
 
 (4)
 
@@ -5698,7 +5713,7 @@ napján kell szabadítani.
 
 ### A fiatalkorúak letartóztatásának végrehajtására vonatkozó szabályok
 
-413. § (1) A fiatalkorúak letartóztatásának végrehajtására – az e fejezetben foglalt eltérésekkel – az V. Fejezetnek a fiatalkorúakra vonatkozó szabályait kell alkalmazni.
+413. § (1) A fiatalkorúak letartóztatásának végrehajtására – az e fejezetben foglalt eltérésekkel – az V. Fejezetnek a fiatalkorúakra vonatkozó szabályait kell alkalmazni azzal, hogy fiatalkorú alatt érteni kell azt a tizennyolcadik életévét betöltött, de huszonegyedik életévét meg nem haladott terheltet is, akivel szemben fiatalkorú elleni büntetőeljárás indult.
 
 (2) A fiatalkorú letartóztatását,
 
@@ -5708,6 +5723,8 @@ napján kell szabadítani.
 - d) ha a letartóztatás elrendelésekor a huszadik életévét betöltötte, büntetés-végrehajtási intézetben
 
 kell végrehajtani.
+
+(2a) A tizenhatodik életévüket be nem töltött fiatalkorúakat lehetőség szerint a többi fiatalkorútól külön zárkában vagy lakóhelyiségben kell elhelyezni, kivéve, ha ez a fiatalkorú érdekével ellentétes.
 
 (3) A letartóztatást – a (2) bekezdésre figyelemmel – a bv. intézet anya-gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezését biztosító részlegén kell végrehajtani annak a fiatalkorú nőnek az esetében, akinek
 
@@ -5723,6 +5740,19 @@ kell végrehajtani.
 (7) A bíróságnak a letartóztatásról a tárgyalás előkészítése során hozott határozatáig a fiatalkorú huszonnégy órát meg nem haladó tartamban az ügyészség rendelkezése alapján – a bíróság egyidejű értesítésével – is elhelyezhető rendőrségi fogdában vagy bv. intézetben. A tizennegyedik életévét be nem töltött fiatalkorú rendőrségi fogdában vagy bv. intézetben nem helyezhető el.
 
 (8) A fiatalkorú letartóztatott legfeljebb öt napig terjedő magánelzárással fenyíthető.
+
+(9) A fiatalkorú részvételével lefolytatandó eljárási cselekményen történő részvétel céljából megjelenő törvényes képviselőnek a fogva tartó intézetbe történő belépését engedélyezni kell.
+
+413/A. § (1) A fiatalkorú orvosi vizsgálatát – ideértve a látlelet felvételét – akkor is el kell végezni, ha ezt
+
+- a) a törvényes képviselője vagy
+- b) a védője
+
+kérelmezi.
+
+(2) Az (1) bekezdés szerinti orvosi vizsgálat következtetéseit írásban kell rögzíteni.
+
+(3) Ha az (1) bekezdés alapján lefolytatott orvosi vizsgálat eredményeként a fiatalkorú egészségügyi ellátása nem vált szükségessé, és a törvényes képviselő vagy a védő – az erre vonatkozó figyelmeztetést követően – rövid időn belül ismételten, nyilvánvalóan alaptalan kérelmet nyújt be, az orvosi vizsgálatot el kell végezni, de a fogva tartó intézet parancsnoka a büntetés-végrehajtási bírónál rendbírság kiszabását kezdeményezheti. A rendbírság kiszabására és végrehajthatóságára a Be. 127. § (1)–(3) és (6)–(9) bekezdését, valamint a Be. 128. § (1) bekezdését kell alkalmazni.
 
 ### Fiatalkorúak javítóintézetben történő letartóztatásának végrehajtására vonatkozó rendelkezések
 
@@ -6062,3 +6092,5 @@ a büntetés-végrehajtási bíró ezen eljárások befejezéséig, illetve az E
 (5) E törvény 132. §-a és 394. § (2) bekezdése a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló, 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv 24. cikkének; 69/A. §-a és 324. §-a az irányelv 25. cikkének való megfelelést szolgálja.
 
 (6) E törvény a büntetőeljárás során és az európai elfogatóparancshoz kapcsolódó eljárásokban ügyvédi segítség igénybevételéhez való jogról, valamint valamely harmadik félnek a szabadságelvonáskor történő tájékoztatásához való jogról és a szabadságelvonás ideje alatt harmadik felekkel és a konzuli hatóságokkal való kommunikációhoz való jogról szóló 2013. október 22-i 2013/48/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(7) E törvény a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

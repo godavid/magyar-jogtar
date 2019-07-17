@@ -97,6 +97,8 @@ a hitelbiztosítéki nyilvántartásról
   - fb) vételi jog biztosítéki célból történő kikötéséről,
 - g) egyéb, e törvény szerinti nyilatkozat.
 
+(1a) A követelés elzálogosítására vonatkozó, az (1) bekezdés a) vagy b) pontja szerinti hitelbiztosítéki nyilatkozat alapján a követelést terhelő zálogjognak a hitelbiztosítéki nyilvántartásba történő bejegyzésével a Ptk. 5:99. § (4) bekezdése szerinti alzálogjogot is megalapítottnak kell tekinteni. Ha a zálogjog tárgyául szolgáló követelést az elzálogosításának hitelbiztosítéki nyilvántartásba történő bejegyzését követően biztosítják zálogjoggal, e követelést biztosító zálogjog megalapításával egyidejűleg kell megalapítottnak tekinteni a Ptk. 5:99. § (4) bekezdése szerinti alzálogjogot.
+
 (2) A regisztrált felhasználó hitelbiztosítéki nyilatkozatát annak megtételekor minősített elektronikus aláírással és időbélyegzővel látja el, vagy az azonosításra visszavezetett dokumentumhitelesítés szabályai szerint hitelesíti. Elektronikus aláírás alkalmazása esetén kizárólag olyan aláírás-létrehozó adat használható, amelyet a 4. § (2) bekezdése szerinti adatokat tartalmazó kérelem aláírása során használtak, feltéve, hogy az űrlapon így elhelyezett elektronikus aláírás a regisztrált felhasználó hitelbiztosítéki rendszerben rögzített adataival a 4. § (4) bekezdése szerint összerendelésre került. Azonosításra visszavezetett dokumentumhitelesítés alkalmazása esetén a hitelbiztosítéki rendszerben rögzített adataival az azonosításra visszavezetett dokumentumhitelesítés által igazolt természetes azonosító adatai kerülnek összevetésre.
 
 (3) A hitelbiztosítéki nyilatkozat megtételekor a nyilatkozatot tevőnek költségtérítést kell fizetnie a MOKK részére. A nyilatkozat akkor tekinthető hatályosan megtettnek, ha a költségtérítés összegét a MOKK javára egy összegben maradéktalanul megfizették vagy azt a MOKK e célra szolgáló számláján jóváírták.
@@ -341,6 +343,14 @@ kell igazolnia.
 
 35. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 4. § (2) bekezdését és 7. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
+35/A. § Ha a zálogjoggal biztosított követelés zálogjoggal való megterhelésére irányuló zálogszerződést a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi LXVII. törvény (a továbbiakban: Módtv.) hatálybalépésének napján vagy azt megelőzően kötötték, az alzálogjogot a követelést terhelő zálogjognak a hitelbiztosítéki nyilvántartásba történő bejegyzése időpontjában az e törvénynek a Módtv. 135. §-ával megállapított 7. § (1a) bekezdése szerint megalapítottnak kell tekinteni.
+
 36. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-37–40. §
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
