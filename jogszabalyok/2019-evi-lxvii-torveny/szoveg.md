@@ -323,29 +323,13 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 34. § (1)
 
-(2) A Kkt. a következő alcím címmel és 45/F. §-sal egészül ki:
-
-„Nemzeti hozzáférési pontra vonatkozó szabályok
-
-45/F. § (1) A nemzeti hozzáférési pont egységes hozzáférési pontot kínál a felhasználók számára forgalmi információk szolgáltatása érdekében a közúti hatóságok, közútkezelők és egyéb szolgáltatók által nyújtott, az ország területére vonatkozó forgalmi- és egyéb útinformációs adatokhoz. A forgalmi információkat egységes módon, a pártatlan és független nemzeti szerv ellenőrzése mellett kell a nemzeti hozzáférési ponton keresztül rendelkezésre bocsátani.
-
-(2) A közúti közlekedési információs szolgáltatások kiépítésének további célja a kötelező pihenőidők és szünetek betartásának, a helytelen parkolás visszaszorításának és a parkolóhelyek optimális kihasználásának támogatása, melynek keretében a kereskedelmi úthasználók részére a forgalmi és biztonsági feltételek indokoltsága esetén a biztonságos és védett parkolóhelyekről információt kell szolgáltatni.”
+(2)
 
 35. §
 
 36. § (1)
 
-(2) A Kkt. 48. § (3) bekezdés b) pontja a következő 52. és 53. alponttal egészül ki:
-
-[Felhatalmazást kap
-
-b) a miniszter, hogy]
-
-„52. a nemzeti hozzáférési pont létrehozásának és működtetésének részletes szabályait,
-
-53. a biztonságos és védett parkolóhelyek létrehozásának és működtetésének részletes szabályait”
-
-(rendeletben állapítsa meg.)
+(2)
 
 (3)
 
@@ -375,11 +359,7 @@ b) a miniszter, hogy]
 
 48. §
 
-49. § Az Lt. 71. §-a a következő 46. ponttal egészül ki:
-
-(A törvény alkalmazásában)
-
-„46. akadálykorlátozási felület: az a felület, amely meghatározza, hogy tárgyak meddig nyúlhatnak ki a légtérbe.”
+49. §
 
 50. § Az Lt.
 
@@ -512,33 +492,9 @@ szöveg lép.
 
 #### 24. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-91. § Az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) VII. Fejezet címe helyébe a következő cím lép:
+91. §
 
-„KISKERESKEDELMI BARANGOLÁSI TÖBBLETDÍJ ALKALMAZÁSÁNAK, VALAMINT AZ EU-N BELÜLI SZABÁLYOZOTT HÍRKÖZLÉSI SZOLGÁLTATÁSOKRA VONATKOZÓ KISKERESKEDELMI DÍJAKTÓL VALÓ ELTÉRÉS ENGEDÉLYEZÉSE”
-
-92. § Az Eht. VII. Fejezete a következő 73. §-sal egészül ki:
-
-„73. § (1) Ha az Unión belüli szabályozott hírközlési szolgáltatásokat nyújtó szolgáltató megállapítása szerint sajátos és rendkívüli, a legtöbb uniós szolgáltató esetében fennállótól eltérő körülmények miatt – a nyílt internet-hozzáféréssel és az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjakkal kapcsolatos intézkedések meghozataláról, továbbá a 2002/22/EK irányelv és az 531/2012/EU rendelet módosításáról szóló, 2015. november 25-i (EU) 2015/2120 európai parlamenti és tanácsi rendeletben (e § alkalmazásában a továbbiakban: rendelet) szabályozott – felső határértékek alkalmazása jelentősen befolyásolná a belföldi hírközlési szolgáltatásaira vonatkozó meglévő díjainak fenntartására vonatkozó képességét, akkor a szolgáltató az EU-n belüli szabályozott hírközlési szolgáltatásokért a fogyasztóknak felszámított maximális kiskereskedelmi díjaktól való eltérés engedélyezése iránt a Hatóság által e célra rendszeresített nyomtatványon – elektronikus kapcsolattartás esetén elektronikus űrlapon – kérelmet nyújthat be az Elnökhöz.
-
-(2) Az (1) bekezdésben foglalt körülmények fennállását a szolgáltató köteles bizonyítani.
-
-(3) Az Elnök a kérelem alapján – ha a hatósági eljárás jogszabályi feltételei fennállnak – az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjaktól való eltérést engedélyezi, elutasítja vagy az eltérés kérelemben megjelölt mértékét módosítja.
-
-(4) Ha a kérelem a hiánypótlást és az EU-n belüli szabályozott hírközlési szolgáltatásokat nyújtó szolgáltató meghallgatását követően is nyilvánvalóan megalapozatlan vagy hiányos, az Elnök a rendelkezésre álló adatok alapján dönt vagy elutasítja a kérelmet.
-
-(5) Ha az Elnök az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjaktól való eltérést határozatában engedélyezi, határozatában megállapítja az EU-n belüli szabályozott hírközlési szolgáltatásokért fizetendő azt a maximális díjat a rendeletben meghatározott határérték egyikén vagy mindkettőn felül, amely elengedhetetlen a szolgáltató belföldi díjszabási modellje fenntarthatóságának a biztosításához.
-
-(6) A maximális díjra vonatkozó hatósági engedély időbeli hatálya 12 hónap. A határozat időbeli hatályának lejártát követő naptól a határozat érvényét és hatályát veszti, a maximális díj nem alkalmazható, és az engedélyből a továbbiakban jogok és kötelezettségek nem erednek.
-
-(7) Az (5) bekezdés szerinti határozat időbeli hatályának meghosszabbítására irányuló kérelmét az engedélyes az (5) bekezdés szerinti határozat (6) bekezdés szerinti időbeli hatályának lejárta előtt legalább 60 nappal köteles benyújtani. E határidő elmulasztása jogvesztő, igazolásnak nincs helye.
-
-(8) Ha az engedélyes (7) bekezdés szerinti kérelme alapján az Elnök megállapítja, hogy az EU-n belüli szabályozott hírközlési szolgáltatásokért a fogyasztóknak felszámított maximális kiskereskedelmi díjaktól való eltérés
-
-a) az (5) bekezdés szerinti határozatban megállapított díjazással továbbra is indokolt, határozatával 12 hónappal meghosszabbítja a kérelmező engedélyét;
-
-b) az (5) bekezdés szerinti határozatban megállapított díjazásnál alacsonyabb vagy magasabb díjazással indokolt, határozatával módosítja az (5) bekezdés szerinti határozatot a maximális díj mértéke tekintetében, és a hatósági engedély időbeli hatályát 12 hónappal meghosszabbítja;
-
-c) már nem indokolt, elutasítja a kérelmet.”
+92. §
 
 93. §
 
@@ -546,13 +502,7 @@ c) már nem indokolt, elutasítja a kérelmet.”
 
 95. §
 
-96. § (1) Az Eht. 187. § (1) bekezdése a következő i) ponttal egészül ki:
-
-(Ez a törvény)
-
-„i) az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC) és a BEREC Működését Segítő Ügynökségnek (BEREC Hivatal) a létrehozásáról, az (EU) 2015/2120 rendelet módosításáról, valamint az 1211/2009/EK rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1971 európai parlamenti és tanácsi rendelet 50. cikke”
-
-(végrehajtásához szükséges rendelkezéseket állapítja meg.)
+96. § (1)
 
 (2)
 
@@ -562,11 +512,7 @@ c) már nem indokolt, elutasítja a kérelmet.”
 
 #### 26. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-98. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 2. § 6. pontja a következő 6.5. alponttal egészül ki:
-
-(A vasúti rendszer átjárhatóságával kapcsolatos fogalmak:)
-
-„6.5. nemzeti szabályok: minden olyan jogszabályban kihirdetett vagy jogszabály felhatalmazása alapján kiadott kötelező erejű vasútbiztonsági vagy műszaki követelményeket tartalmazó szabályok összessége, amelynek célja az Átjárhatósági Műszaki Előírások valamint a közös biztonsági célok és közös biztonsági módszerek mellett az alrendszerek közötti szükséges kölcsönös kapcsolat létrehozására és a vasúti rendszer kölcsönös átjárhatóságának megteremtésére vonatkozó alapvető követelményeknek való megfelelés és a vasúti rendszer kölcsönös átjárhatóságának biztosítása érdekében az egyes alrendszerekre vagy alrendszerrészekre vonatkozó vasútbiztonsági és műszaki feltételek és előírások szabályozása.”
+98. §
 
 99. §
 
@@ -625,81 +571,33 @@ c) már nem indokolt, elutasítja a kérelmet.”
 
 #### 32. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-120. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 92. §-a a következő (3a) bekezdéssel egészül ki:
+120. §
 
-„(3a) Ha az eljárás alá vont személy a cselekmény elkövetésekor fiatalkorú volt, az állam viseli a kirendelt ügyvéd eljárása során felmerült költséget.”
+121. §
 
-121. § A Szabs. tv. 125. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A bíróság a fiatalkorú eljárás alá vont személy jogai gyakorlásának, kötelezettségei teljesítésének elősegítése és kímélete érdekében a tárgyalásról vagy annak meghatározott részéről a nyilvánosságot kizárhatja.”
-
-122. § A Szabs. tv. 253. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(E törvény)
-
-„d) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
+122. §
 
 #### 33. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-123. § A Ptk. 3:268. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek, és a § a következő (4) bekezdéssel egészül ki:
-
-„(2) Nyilvánosan működő részvénytársaság esetén a közgyűlés kizárólagos hatáskörébe tartozik a javadalmazási politikáról való véleménynyilvánító szavazás. A javadalmazási politikát annak jelentős változása esetén, de legalább négyévente a közgyűlés napirendjére kell tűzni.
-
-(3) Nyilvánosan működő részvénytársaság esetén az előző üzleti évre vonatkozó javadalmazási jelentést véleménynyilvánító szavazás céljából a közgyűlés napirendjére kell tűzni.
-
-(4) Nyilvánosan működő részvénytársaság esetén a közgyűlés hatáskörébe tartozó kérdésekről nem lehet közgyűlés tartása nélkül határozatot hozni.”
+123. §
 
 124. §
 
-125. § A Ptk. 3:279. §-a helyébe a következő rendelkezés lép:
-
-„3:279. § [Határozatok nyilvánosságra hozatala]
-
-(1) A nyilvánosan működő részvénytársaság a közgyűlésen hozott határozatokat köteles honlapján nyilvánosságra hozni.
-
-(2) A nyilvánosan működő részvénytársaság a javadalmazási politikáját és a javadalmazási jelentést köteles honlapján nyilvánosságra hozni.”
+125. §
 
 126. §
 
-127. § A Ptk. 5:100. § (7) bekezdése helyébe a következő rendelkezés lép:
+127. §
 
-„(7) Az önálló zálogjoggal terhelt zálogtárgy tulajdonjogát megszerző fél a biztosítéki szerződésben a zálogkötelezett helyébe lép. A biztosítéki szerződés szerint kielégíthető követelést kielégítő kötelezettet, zálogkötelezettet vagy harmadik személyt a megtérítési követelése biztosítására – ha az nem pénzügyi intézmény – az önálló zálogjog ranghelyén, annak helyébe lépő követelést biztosító zálogjog illeti meg. A megtérítési követelése biztosítékaként a követelést kielégítő pénzügyi intézményre az önálló zálogjog átszáll.”
+128. §
 
-128. § (1) A Ptk. 5:140. § (1) bekezdése helyébe a következő rendelkezés lép:
+129. §
 
-„(1) Az alzálogjog jogosultja a zálogjogosultnak a zálogjogból fakadó jogait annyiban gyakorolhatja, amennyiben e jogok gyakorlására a zálogjogosult maga is jogosult. Ha a követelést kézizálogjog biztosítja, a zálogjogosult az alzálogjog jogosultjának kérésére köteles a zálogtárgy birtokát részére átruházni.”
+130. §
 
-(2) A Ptk. 5:140. §-a a következő (3) bekezdéssel egészül ki:
+131. §
 
-„(3) Ha a zálogjog tárgyául szolgáló követelés kezességgel van biztosítva, a zálogjogosult a kezességből fakadó jogait a követelés kezesével szemben – a (2) bekezdés megfelelő alkalmazásával – a kezesség jogosultjára irányadó szabályok szerint gyakorolhatja.”
-
-129. § A Ptk. 5:142. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A zálogjoggal biztosított követelés megszűnése ellenére is fennmarad a zálogjog a követelést kielégítő személyes kötelezettet, zálogkötelezettet vagy harmadik személyt megillető megtérítési követelés biztosítására akként, hogy a fennmaradó zálogjog a megtérítési követelés jogosultját illeti meg.”
-
-130. § (1) A Ptk. 8:6. § d) pontja helyébe a következő rendelkezés lép:
-
-(E törvény:)
-
-„d) az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i (EU) 2015/2302 európai parlamenti és tanácsi irányelvnek;”
-
-(való megfelelést szolgálja.)
-
-(2) A Ptk. 8:6. § r) pontja helyébe a következő rendelkezés lép, és a § a következő s) ponttal egészül ki:
-
-(E törvény:)
-
-„r) a társasági jog egyes vonatkozásairól szóló, 2017. június 14-i (EU) 2017/1132 európai parlamenti és tanácsi irányelvnek;
-
-s) a 2007/36/EK irányelvnek a hosszú távú részvényesi szerepvállalás ösztönzése tekintetében történő módosításáról szóló, 2017. május 17-i (EU) 2017/828 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-131. § A Ptk. 5:99. § címében az „átruházása” szövegrész helyébe az „átruházása és megterhelése” szöveg lép.
-
-132. § Hatályát veszti a Ptk. 8:6. § a), l), n) és p) pontja.
+132. §
 
 #### 34. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
@@ -709,13 +607,9 @@ s) a 2007/36/EK irányelvnek a hosszú távú részvényesi szerepvállalás ös
 
 #### 35. A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény módosítása
 
-135. § A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény (a továbbiakban: Hbny.) 7. §-a a következő (1a) bekezdéssel egészül ki:
+135. §
 
-„(1a) A követelés elzálogosítására vonatkozó, az (1) bekezdés a) vagy b) pontja szerinti hitelbiztosítéki nyilatkozat alapján a követelést terhelő zálogjognak a hitelbiztosítéki nyilvántartásba történő bejegyzésével a Ptk. 5:99. § (4) bekezdése szerinti alzálogjogot is megalapítottnak kell tekinteni. Ha a zálogjog tárgyául szolgáló követelést az elzálogosításának hitelbiztosítéki nyilvántartásba történő bejegyzését követően biztosítják zálogjoggal, e követelést biztosító zálogjog megalapításával egyidejűleg kell megalapítottnak tekinteni a Ptk. 5:99. § (4) bekezdése szerinti alzálogjogot.”
-
-136. § A Hbny. a következő 35/A. §-sal egészül ki:
-
-„35/A. § Ha a zálogjoggal biztosított követelés zálogjoggal való megterhelésére irányuló zálogszerződést a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi LXVII. törvény (a továbbiakban: Módtv.) hatálybalépésének napján vagy azt megelőzően kötötték, az alzálogjogot a követelést terhelő zálogjognak a hitelbiztosítéki nyilvántartásba történő bejegyzése időpontjában az e törvénynek a Módtv. 135. §-ával megállapított 7. § (1a) bekezdése szerint megalapítottnak kell tekinteni.”
+136. §
 
 #### 36. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
@@ -727,74 +621,19 @@ s) a 2007/36/EK irányelvnek a hosszú távú részvényesi szerepvállalás ös
 
 #### 38. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-139. § (1) A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 12. § (5a) bekezdése helyébe a következő rendelkezés lép:
+139. §
 
-„(5a) A kényszerintézkedés hatálya alatt álló fiatalkorú részére a (4) és az (5) bekezdésben foglaltakon túl a befogadáskor írásban, az általa értett nyelven egyszerűen, közérthető módon tájékoztatást kell adni a büntetőeljáráshoz kapcsolódóan
+140. §
 
-a) a letartóztatás megszüntetése, az enyhébb személyi szabadságot érintő bírói engedélyes kényszerintézkedés elrendelése, továbbá a letartóztatás javítóintézetben történő végrehajtása iránti indítvány benyújtásához való jogról,
+141. §
 
-b) arról, hogy a részvételével lefolytatandó eljárási cselekményen a törvényes képviselője is részt vehet és ebből a célból a törvényes képviselőnek a fogva tartó intézetbe történő belépését engedélyezni kell,
+142. §
 
-c) arról, hogy a tárgyaláson és az előkészítő ülésen a jelenléte kötelező, ennek érdekében előállítására kerülhet sor, vagy jelenlétét telekommunikációs eszköz útján biztosítják,
+143. §
 
-d) az orvosi vizsgálat kezdeményezéséhez való jogról, különösen arról, hogy orvosi vizsgálatát törvényes képviselője vagy védője is kezdeményezheti,
+144. §
 
-e) a fogvatartás során a felnőtt korúaktól való elkülönítéshez, egészségi állapota megőrzéséhez, testi és szellemi fejlődésének biztosításához, oktatáshoz és képzéshez, fejlődése és reintegrációja érdekében megfelelő programokon való részvételhez, valamint a családi élethez való jogának e törvény szerinti kapcsolattartás keretében történő tényleges és rendszeres gyakorlásához való jogról,
-
-f) a d) és az e) pontban foglalt jogai megsértése esetén az e törvény szerinti panaszjogról.”
-
-(2) A Bv. tv. 12. §-a a következő (5b) és (5c) bekezdéssel egészül ki:
-
-„(5b) Az (5a) bekezdés b) és d) pontja szerinti törvényes képviselővel kapcsolatos jogokról a fiatalkorút akkor kell tájékoztatni, ha van törvényes képviselője.
-
-(5c) Az európai elfogatóparancs alapján őrizetbe vett személy részére a (4)–(5a) bekezdésben foglaltakon túl a befogadásakor írásban, az általa értett nyelven, egyszerűen és közérthető módon tájékoztatást kell adni az európai elfogatóparancs tartalmának megismeréséhez való jogról, az egyszerűsített átadáshoz történő hozzájárulás lehetőségéről és jogkövetkezményeiről, valamint a hozzájárulás megtagadásának jogkövetkezményeiről.”
-
-140. § A Bv. tv. 192. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A fiatalkorú részvételével lefolytatandó eljárási cselekményen történő részvétel céljából megjelenő törvényes képviselőnek a fogva tartó intézetbe történő belépését engedélyezni kell.”
-
-141. § A Bv. tv. 398. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A letartóztatott részvételével lefolytatandó eljárási cselekményen történő részvétel céljából megjelenő védőnek a fogva tartó intézetbe történő belépését engedélyezni kell.”
-
-142. § (1) A Bv. tv. 413. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A fiatalkorúak letartóztatásának végrehajtására – az e fejezetben foglalt eltérésekkel – az V. Fejezetnek a fiatalkorúakra vonatkozó szabályait kell alkalmazni azzal, hogy fiatalkorú alatt érteni kell azt a tizennyolcadik életévét betöltött, de huszonegyedik életévét meg nem haladott terheltet is, akivel szemben fiatalkorú elleni büntetőeljárás indult.”
-
-(2) A Bv. tv. 413. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A tizenhatodik életévüket be nem töltött fiatalkorúakat lehetőség szerint a többi fiatalkorútól külön zárkában vagy lakóhelyiségben kell elhelyezni, kivéve, ha ez a fiatalkorú érdekével ellentétes.”
-
-(3) A Bv. tv. 413. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A fiatalkorú részvételével lefolytatandó eljárási cselekményen történő részvétel céljából megjelenő törvényes képviselőnek a fogva tartó intézetbe történő belépését engedélyezni kell.”
-
-143. § A Bv. tv. „A fiatalkorúak letartóztatásának végrehajtására vonatkozó szabályok” című alcíme a következő 413/A. §-sal egészül ki:
-
-„413/A. § (1) A fiatalkorú orvosi vizsgálatát – ideértve a látlelet felvételét – akkor is el kell végezni, ha ezt
-
-a) a törvényes képviselője vagy
-
-b) a védője
-
-kérelmezi.
-
-(2) Az (1) bekezdés szerinti orvosi vizsgálat következtetéseit írásban kell rögzíteni.
-
-(3) Ha az (1) bekezdés alapján lefolytatott orvosi vizsgálat eredményeként a fiatalkorú egészségügyi ellátása nem vált szükségessé, és a törvényes képviselő vagy a védő – az erre vonatkozó figyelmeztetést követően – rövid időn belül ismételten, nyilvánvalóan alaptalan kérelmet nyújt be, az orvosi vizsgálatot el kell végezni, de a fogva tartó intézet parancsnoka a büntetés-végrehajtási bírónál rendbírság kiszabását kezdeményezheti. A rendbírság kiszabására és végrehajthatóságára a Be. 127. § (1)–(3) és (6)–(9) bekezdését, valamint a Be. 128. § (1) bekezdését kell alkalmazni.”
-
-144. § A Bv. tv. 438. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) E törvény a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
-
-145. § A Bv. tv.
-
-- a) 12. § (6) bekezdésében az „(5) bekezdésben” szövegrész helyébe az „(5) és (5a) bekezdésben” szöveg,
-- b) 12. § (7) bekezdésében a „(4)–(5a) bekezdésben” szövegrész helyébe a „(4)–(5a) és (5c) bekezdésben” szöveg,
-- c) 12. § (8) bekezdésében a „(3)–(5a) bekezdés” szövegrész helyébe a „(3)–(5a) és (5c) bekezdés” szöveg, valamint a „(4)–(5a) bekezdés” szövegrészek helyébe a „(4)–(5a) és (5c) bekezdés” szöveg,
-- d) 399. § (3) bekezdésében az „– a rendelkezési jogkör gyakorlójának előírásait figyelembe véve – a törvényes képviselőre is alkalmazni kell.” szövegrész helyébe az „a törvényes képviselőre is alkalmazni kell azzal, hogy a törvényes képviselő a kapcsolattartásra ellenőrzés mellett, a rendelkezési jogkör gyakorlójának előírásait figyelembe véve jogosult.” szöveg
-
-lép.
+145. §
 
 #### 39. A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény módosítása
 
