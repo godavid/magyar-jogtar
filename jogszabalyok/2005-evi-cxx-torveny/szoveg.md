@@ -186,7 +186,10 @@ Színházi cipész
 (3c) Az (1) bekezdés c), valamint a (2) bekezdés a) és b) pontjában említett foglalkozásúnak minősül:
 
 - a) a szakképzett edző, sportszervező, -irányító (FEOR-08 2717), feltéve, hogy rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel;
-- b) a hivatásos sportoló, sportmunkatárs, valamint a sportról szóló 2004. évi I. törvény (a továbbiakban: a sportról szóló törvény) 11/A. §-ában meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy a sportról szóló törvény 19. § (3) bekezdése szerinti sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, és a sportszövetség szabályzata szerint sportszakembernek minősül, vagy a sportszövetség vagy a sportszervezet főállású munkavállalója, a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott tevékenységek esetén feltéve, hogy a sportmunkatárs, sportszakember rendelkezik a jegyzékben meghatározott képesítéssel, szakképzettséggel.
+- b) a hivatásos sportoló, sportmunkatárs, valamint a sportról szóló 2004. évi I. törvény (a továbbiakban: sportról szóló törvény) 11/A. §-ában meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy a sportról szóló törvény 19. § (3) bekezdése szerinti sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, és a sportszövetség szabályzata szerint sportszakembernek minősül, vagy a sportszövetség vagy a sportszervezet főállású munkavállalója, a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott tevékenységek esetén feltéve, hogy a sportmunkatárs, sportszakember rendelkezik a jegyzékben meghatározott képesítéssel, szakképzettséggel;
+- c) a sportról szóló törvény szerint Magyarországon nyilvántartásba vett nemzetközi sportszövetség által foglalkoztatott magánszemély (a továbbiakban: nemzetközi sportszövetség munkavállalója).
+
+(3d) A (2) bekezdésben előírt szabályoktól függetlenül a nemzetközi sportszövetség munkavállalója a külföldi pénznemben megszerzett bevételére is alkalmazhatja e törvény előírásait, feltéve, hogy tevékenységét nem kizárólag belföldön látja el. A külföldi pénznemben megszerzett bevétel forintra történő átszámítására az Szja tv. 5. és 6. §-ában foglalt szabályokat kell alkalmazni.
 
 (4) A (2) bekezdésben említett összeghatár
 
@@ -195,7 +198,7 @@ Színházi cipész
 - c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 60 millió forint,
 - d) az a)–b) pontban említett összeghatár helyett
   - da) évi 500 millió forint, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
-  - db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya)
+  - db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya), vagy a nemzetközi sportszövetség munkavállalója
 
 azzal, hogy ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
@@ -224,7 +227,7 @@ azzal, hogy ha a magánszemély általános forgalmi adó fizetésére köteleze
 
 (5) Az (1)–(4) bekezdés rendelkezésétől eltérően az EGT-államban biztosított személy esetében a kifizető ekhot nem fizet, a magánszemélynek juttatott ekho alapul szolgáló bevételből 9,5 százalék ekhot állapít meg és von le.
 
-(6) A (3) bekezdés rendelkezésétől eltérően a kifizető nem fizet ekhót a hivatásos sportoló részére az e foglalkozása ellenértékeként juttatott bevétel után.
+(6) A (3) bekezdés rendelkezésétől eltérően a kifizető nem fizet ekhót a hivatásos sportoló és a nemzetközi sportszövetség munkavállalója részére az e foglalkozása ellenértékeként juttatott bevétel után.
 
 ### Az ekho választására vonatkozó nyilatkozat
 
@@ -344,3 +347,5 @@ minősül.
 14/F. § (1) E törvénynek a sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvénnyel megállapított 4. § (6) bekezdése – a (2) bekezdésben foglaltak figyelembevételével – a 2017. szeptember 1-jét követően kifizetett jövedelmekre is alkalmazható.
 
 (2) A 2017. szeptember 1-jét követően kifizetett jövedelmekre a sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvény hatálybalépését megelőzően megállapított egyszerűsített közteherviselési hozzájárulási kötelezettség az önellenőrzésre vonatkozó szabályok szerint helyesbíthető.
+
+14/G. § A nemzetközi sportszövetség munkavállalója a sportról szóló törvény 30/B. § (3) bekezdése szerinti kérelem benyújtásától kezdődően megszerzett bevételére választhatja e törvény előírásait azzal, hogy a kérelem benyújtásának időpontjától a nemzetközi sportszövetség adószámának kiadásáig terjedő időszakban a nemzetközi sportszövetség által juttatott bevételek utáni adókötelezettségeket a nemzetközi sportszövetség adószámának megállapítása hónapjának kötelezettségeként kell teljesíteni.

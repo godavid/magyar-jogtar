@@ -1865,7 +1865,7 @@ kapcsolatos eljárások.
 (5) Az (1), (2) és a (4) bekezdés alkalmazásával az (1) bekezdés szerinti támogatást kihelyező szerv a 26. § (3) bekezdés
 
 - a) 10. pontja tekintetében a tartózkodási helyre vonatkozó,
-- b) 18. pontjában meghatározott adatokat nyilvántartó szervtől az adózás rendjéről szóló 2017. évi CL. törvény 1. melléklet 8. pont szerinti foglalkoztatottak foglalkoztatásával kapcsolatos, valamint a támogatást igénylő, valamint ha a támogatást más személyre tekintettel állapítják meg, úgy e személy nettó árbevételére vonatkozó,
+- b) 18. pontjában meghatározott adatokat nyilvántartó szervtől az adózás rendjéről szóló törvényben meghatározott,
 - c) 33. pontja vonatkozásában a gyermek óvodai jogviszonyával kapcsolatos
 
 adatokat is átveheti és kezelheti.

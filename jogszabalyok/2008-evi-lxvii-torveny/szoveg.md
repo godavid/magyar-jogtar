@@ -120,11 +120,11 @@ a távhőszolgáltatás versenyképesebbé tételéről
 - a) havonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő adó meghaladja az 5 millió forintot;
 - b) háromhavonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő adó legfeljebb 5 millió forint.
 
-(7) Az adóalanynak az adóelőleget az adóévben az adóévi várható fizetendő adó összegére ki kell egészítenie (a továbbiakban: előleg-kiegészítés). Ez a kötelezettség nem vonatkozik arra az adóalanyra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg az 50 millió forintot.
+(7)
 
-(7a) Az előleg-kiegészítésre kötelezett adóalany a várható fizetendő adó és az adóévre már bevallott előlegek különbözetéről az adóév utolsó hónapjának 20. napjáig bevallást nyújt be és ezzel egyidejűleg tesz eleget az előleg-kiegészítés fizetési kötelezettségének.
+(7a)
 
-(8) Nem kell a (2)–(7a) bekezdés rendelkezéseit alkalmaznia az adóalanynak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be.
+(8) Nem kell a (2)–(6) bekezdés rendelkezéseit alkalmaznia az adóalanynak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be.
 
 ### Vegyes rendelkezések
 
@@ -276,9 +276,9 @@ e) az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó ada
 
 ### Átmeneti rendelkezések
 
-18. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 8. § (1)–(6), (8) bekezdését – e törvény eltérő rendelkezése hiányában – első ízben a 2014. adóévi adókötelezettségre kell alkalmazni.
+18. §
 
-(2) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 8. § (7a) bekezdését a 2014. adóévi előleg-kiegészítési kötelezettségre az adózó választása szerint alkalmazza.
+(2)
 
 (3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 6. § (3) bekezdés i) pontját az adózó a 2014. adóévi adókötelezettségének megállapítása során is alkalmazhatja.
 
@@ -295,3 +295,5 @@ e) az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó ada
 (9) Az adózás előtti eredményt csökkenti az e törvény szerinti adóalanyiságot megelőző adóévekben elszámolt terven felüli értékcsökkenés visszaírása miatt az adóévben bevételként elszámolt összeg. E rendelkezést az adózó első alkalommal a 2018-ban kezdődő adóév adókötelezettségének megállapítása során jogosult alkalmazni.
 
 (10) E törvénynek az energetikai tárgyú törvények, valamint egyes klímapolitikai és adózási tárgyú törvények módosításáról szóló 2018. évi XCIX. törvénnyel megállapított 6. § (2) bekezdés b) pontját az egyetemes szolgáltatást igénybe vevő lakossági földgázfogyasztók részére biztosított téli rezsicsökkentésről szóló kormányrendelet alapján véglegesen átadott pénzeszközre vonatkozóan első alkalommal a 2018. évi adókötelezettség megállapításakor kell alkalmazni.
+
+(11) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (8) bekezdése, 18. §-a, hatályon kívül helyezett 8. § (7) és (7a) bekezdése, 18. § (2) bekezdése alapján adóelőleg-kiegészítési kötelezettség a 2019-ben kezdődő adóévtől kezdődően az adózót nem terheli, feltéve, hogy a 2019. adóéve utolsó hónapjának 20. napja későbbi, mint az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (8) bekezdése, 18. §-a hatálybalépésének, továbbá 8. § (7) és (7a) bekezdése, 18. § (2) bekezdése hatályon kívül helyezésének napja.

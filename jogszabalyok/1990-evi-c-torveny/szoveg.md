@@ -697,7 +697,7 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 (8) A közös őstermelői igazolvánnyal rendelkező adóalanyok az adóévi iparűzési adókötelezettségüket úgy is teljesíthetik, hogy az adószámmal rendelkező adóalany a közös őstermelői tevékenységvégzésből származó teljes iparűzési adóalap alapulvételével állapítja meg, vallja be és fizeti meg az adót. Az adómegállapítás ezen módjának választásáról a közös őstermelői igazolványban feltüntetett valamennyi adóalany az adószámmal rendelkező adóalany adóévi adóbevallásában nyilatkozik. A családi gazdálkodó a családi gazdaság tekintetében az adóévi iparűzési adókötelezettséget a közös őstermelői igazolvánnyal rendelkező adóalanyokra irányadó szabályozás szerint is teljesítheti.
 
-(9) A társasági adóelőleg-kiegészítésre kötelezett iparűzési adóalany köteles az adóévre megfizetett iparűzési adóelőleget a várható éves fizetendő adó összegére kiegészíteni.
+(9) Annak a társasági adóalanynak minősülő, kettős könyvvitelt vezető vállalkozónak (ideértve a külföldi székhelyű vállalkozó magyarországi fióktelepét, továbbá a kettős könyvvitel elveinek megfelelő könyvvezetést alkalmazó más külföldi székhelyű vállalkozót is), amelynek az adóévet megelőző adóévben az éves szinten számított nettó árbevétele a 100 millió forintot meghaladta, az adóévre megfizetett iparűzési adóelőleget az adóévi várható fizetendő adó összegére ki kell egészítenie.
 
 41/A. § (1) Az adóalany a jövőben esedékessé váló adójára tekintettel előrehozott adót fizethet.
 
@@ -847,6 +847,8 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 51/E. § (1) Ha a 2019. évben kezdődő adóévben (a továbbiakban e bekezdés alkalmazásában: adóév) a vállalkozó átlagos statisztikai állományi létszáma az előző adóév átlagos statisztikai állományi létszámához képest 5%-ot meghaladó mértékben csökkent, akkor az adóévet megelőző adóévre – a 39/D. § (1) bekezdése 2018. december 31-ig hatályos szövege alapján – igénybe vett adóalap-mentesség összegével az adóévi, 39. § (1) bekezdése szerinti iparűzési adóalapot meg kell növelni.
 
 (2) A 41/B. §-nak az Adómód. törvénnyel megállapított rendelkezését a 2018. évben kezdődő adóévi helyi iparűzési adókötelezettség teljesítése során is alkalmazni lehet.
+
+51/I. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel (a továbbiakban: Eadtv.) megállapított 41. § (9) bekezdést annak a naptári évtől eltérő üzleti évet választó vállalkozónak is alkalmaznia kell a 2019. évben kezdődő adóévében, amelynek ezen adóéve utolsó hónapjának 20. napja az Eadtv. hatálybalépését követő időszakra esik.
 
 ### VII. Fejezet — Értelmező rendelkezések
 

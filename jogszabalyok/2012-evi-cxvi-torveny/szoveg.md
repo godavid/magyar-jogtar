@@ -64,7 +64,7 @@ A társadalmi közös kiadások fedezete érdekében az Országgyűlés a követ
 - o) a kincstár által az önkormányzatok forgótőke kezelésére, nettófinanszírozás lebonyolítására vezetett számlán megvalósuló fizetési művelet,
 - p) az Észak-atlanti Szerződés tagállamainak és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részes államainak fegyveres erői és polgári állománya – ide nem értve a Magyar Honvédséget – részére vezetett számlán katonai cselekményeivel közvetlen összefüggésben végrehajtott fizetési művelet,
 - q) a Széchenyi Pihenő Kártyához tartozó korlátozott fizetési számlára történő átutalás,
-- r) a természetes személyek kincstárnál vezetett, állampapír-forgalmazás érdekében igénybe vett ügyfélszámlája és más számlavezetőnél vezetett fizetési számlája között lebonyolított fizetési művelet,
+- r) a természetes személyek fizetési számlája és a kincstár által állampapír-forgalmazás érdekében vezetett számla között lebonyolított fizetési művelet, illetve ugyanezen célból a Posta Elszámoló Központot működtető intézmény útján kezdeményezett, a kincstár által vezetett számlára történő készpénzbefizetés, ha természetes személy a megbízó (befizető),
 - s) az elektronikus fizetési és elszámolási rendszer önkormányzati ASP-rendszer keretében biztosított szolgáltatásaihoz kapcsolódó elszámolási számla terhére megvalósított fizetési művelet.
 
 (5) A (4) bekezdés b)–l) pontjában foglalt kincstári műveletek kivételével pénzügyi tranzakciós illetékfizetési kötelezettséget keletkeztet a kincstári számlavezetés körében
@@ -101,7 +101,7 @@ köteles teljesíteni.
 
 - a) a b)–j) pont szerinti kivétellel az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját – a fizető fél saját vagy a kedvezményezett megbízása alapján – megterheli,
 - b) készpénzátutalás esetén az átutalási megbízásban szereplő pénzösszeg,
-- c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a kedvezményezett pénzforgalmi szolgáltatójának átutalt, ennek hiányában a kedvezményezett részére megfizetett összeg,
+- c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a Posta Elszámoló Központot működtető intézménynél kezdeményezett befizetés 20 ezer forintot meghaladó összege,
 - d) kölcsöntörlesztés esetén az az összeg, amellyel a pénzforgalmi szolgáltató az ügyfél fizetési számláját megterheli, illetve amelyet az ügyfél a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménynek készpénzben megfizet,
 - e) készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén a kifizetett összeg,
 - f) a pénzváltási tevékenység végzésre jogosult hitelintézet, valamint pénzváltás közvetítésére jogosult kiemelt közvetítő útján történő pénzváltási tevékenységnél az eladott fizetőeszköz összege,
@@ -122,12 +122,13 @@ köteles teljesíteni.
 7. § (1) A pénzügyi tranzakciós illeték mértéke
 
 - a) az e)–f) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint,
-- b) a d) és a g) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény vagy a kincstár kötelezett,
+- b) a d), g) és h) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény vagy a kincstár kötelezett,
 - c) a pénzügyi tranzakciós illeték alapjának 0,6 százaléka a fizetési számláról történő készpénzkifizetés, illetve a készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén,
 - d) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint az állampapír forgalmazásával kapcsolatos fizetési műveletek esetében, ha az illetékfizetésre a kincstár kötelezett,
 - e) a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén – az f) pont szerinti kivétellel – 800 forint,
 - f) érintés nélküli fizetési funkcióval rendelkező készpénz-helyettesítő fizetési eszköz ezen funkciójának használatával végrehajtott műveletet is tartalmazó, a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén 500 forint,
-- g) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint, ha az illetékfizetésre a kincstár kötelezett, és ha a kincstár a fizetési műveletet az Áht.-ban meghatározott kincstári körbe tartozó számlatulajdonosokon kívül más kincstári számlatulajdonos részére hajtja végre.
+- g) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint, ha az illetékfizetésre a kincstár kötelezett, és ha a kincstár a fizetési műveletet az Áht.-ban meghatározott kincstári körbe tartozó számlatulajdonosokon kívül más kincstári számlatulajdonos részére hajtja végre,
+- h) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint a 6. § (1) bekezdés c) pontja esetében átutalásonként, illetve kifizetésenként, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
 
 (2) Az (1) bekezdés alkalmazásában a csoportos átutalás egyes átutalási megbízásai és a csoportos beszedési megbízás egyes beszedési megbízásai önálló fizetési műveletnek minősülnek.
 
