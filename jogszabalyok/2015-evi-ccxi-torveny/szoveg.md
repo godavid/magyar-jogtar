@@ -298,6 +298,10 @@ igényelni, továbbá kezelni.
 - b) közös megegyezéssel, valamint
 - c) az (1) bekezdés b) pontja szerinti esetben rendkívüli felmondással.
 
+(6a) Ha a közszolgáltatási szerződés a (6) bekezdés a) vagy c) pontja szerint szűnt meg, a szerződő felek a közszolgáltatási szerződéssel kapcsolatban egymással elszámolnak. Az elszámolás során a közszolgáltató a közszolgáltatási szerződés megszűnése miatt a szerződés megszűnésének időpontjában felmerült és meg nem térült, a Polgári Törvénykönyvről szóló 2013. évi V. törvény alapján nem érvényesíthető, igazolt és a szerződéssel közvetlenül összefüggő tényleges kára megtérítését igényelheti a helyi önkormányzattól. Az elmaradt vagyoni előny nem követelhető.
+
+(6b) Ha az elszámolás során vita marad fenn, a szerződő felek ki nem elégített követeléseiket bírósági eljárásban érvényesíthetik.
+
 (7) Az (1) bekezdés a) pontja szerinti esetben a közszolgáltatási szerződést a felek e törvény hatálybalépésétől számított harminc napon belül módosítják annak érdekében, hogy a közszolgáltatási szerződés 2016. július 1-től megfeleljen az e törvényben meghatározott, a közfeladat ellátására vonatkozó szabályoknak. Nem kell a közszolgáltatási szerződést módosítani, ha a felek közös megegyezése alapján úgy szűnik meg a közszolgáltatási szerződés, hogy annak alapján 2016. július 1-jét követően a közszolgáltató nem nyújt közszolgáltatást.
 
 (8) Az (1) bekezdés a) pontja szerinti esetben a közszolgáltatási szerződés hatályának időtartama alatt a kéményseprő-ipari tevékenységet a közszolgáltató látja el.
@@ -334,6 +338,8 @@ az illetékes kéményseprő-ipari szerv részére – a (14) bekezdésben fogla
 (18) Ha a kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény módosításáról szóló 2017. évi XCVII. törvény hatálybalépését megelőzően a NETtv. 22. § (1) bekezdése szerinti bérlő a sormunkát megrendelte és annak díját megfizette, a 2. § (1) bekezdés a) pont aa) alpontja szerinti esetben a megfizetett díjat a bérlő által legkésőbb 2017. szeptember 30-ig bemutatott tanúsítvány és számla ellenében, azok bemutatásától számított 30 napon belül a Nemzeti Eszközkezelő Zártkörűen Működő Részvénytársaság a bérlőnek megtéríti.
 
 10/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel módosított rendelkezéseit a rendelkezések hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+10/B. § E törvénynek a Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvénnyel (a továbbiakban: Módtv.) megállapított 10. § (6b) bekezdése szerinti igény érvényesítése a bíróság előtt a Módtv. hatálybalépésétől számított egy éven belül kezdeményezhető. E határidő elmulasztása jogvesztő.
 
 #### 8. Az Európai Unió jogának való megfelelés
 

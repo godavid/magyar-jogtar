@@ -2224,7 +2224,7 @@ amelyet követően a biztosíték felszabadítása felől haladéktalanul intéz
 
 (8) A 153. § (1) bekezdés b) pontja alapján a kötelezettségvállalási engedélyhez benyújtott biztosíték felszabadítása esetén a biztosíték típusától függően a (4) és az (5) bekezdésben foglaltakat kell alkalmazni.
 
-(9) A VA 155. cikk (3) bekezdése esetén a vámhatóság a kötelezettségvállalást a DA 82. cikk (3) bekezdésében meghatározott időponttól számított egy év letelte után haladéktalanul felszabadítja.
+(9) A VA 151. cikk (3) bekezdése esetén a vámhatóság a kötelezettségvállalást az FJA 82. cikk (3) bekezdésében meghatározott időponttól számított egy év letelte után haladéktalanul felszabadítja.
 
 ### XX. Fejezet — A BEHOZATALI VAGY KIVITELI VÁM ÖSSZEGÉNEK BESZEDÉSE, MEGFIZETÉSE, VISSZAFIZETÉSE ÉS ELENGEDÉSE
 
@@ -2462,11 +2462,11 @@ Ha valamely szóban bejelentett árura vámtartozás vagy egyéb teherfizetési 
 
 #### 176. § [Az egységes vámokmánytól eltérő formátumú vám-árunyilatkozat]
 
-(1) A vámhatóság az egységes vámokmány (a továbbiakban: EV) adatfeldolgozó rendszerek segítségével történő kinyomtatását és benyújtását az általa jóváhagyott formában engedélyezheti. Az EV-től eltérő forma tekintetében, az EV alaki és tartalmi, továbbá technikai követelményeit a NAV vezetője tájékoztatásban teszi közzé.
+(1) A Vámkódex 158. cikk (2) bekezdése szerinti esetben – különösen üzemszüneti eljárásra – az ügyfél kérelme alapján a vámhatóság engedélyezi az egységes vámokmány (a továbbiakban: EV) adatfeldolgozó rendszerek segítségével történő kinyomtatását és benyújtását.
 
-(2) Az adatfeldolgozó rendszerek segítségével kinyomtatott EV-n az engedély számát minden esetben fel kell tüntetni.
+(2) Az (1) bekezdésben említett vám-árunyilatkozat EV-től eltérő formátumban is kinyomtatható, amelynek alaki, tartalmi, továbbá technikai követelményeit a NAV vezetője tájékoztatásban teszi közzé.
 
-(3) Nem kell a vámhatóság engedélye ahhoz, hogy az ügyfél az árunyilatkozatot számítógépes feldolgozásra közvetlenül alkalmas módon rögzítve is benyújthassa az (1) bekezdésben meghatározott tájékoztatásnak megfelelően.
+(3) Az (1) vagy (2) bekezdésben foglaltak szerint adatfeldolgozó rendszerek segítségével kinyomtatott EV-n az engedély számát fel kell tüntetni.
 
 #### 60. A Vámkódex 159. cikkéhez
 
@@ -3133,7 +3133,11 @@ a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 217. § [Módosító és hatályon kívül helyező rendelkezések]
 
-(1)–(3)
+(1)
+
+(2)
+
+(3)
 
 (4)
 

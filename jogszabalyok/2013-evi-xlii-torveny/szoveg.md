@@ -6690,5 +6690,8 @@ A 0.28–1. értelmező rendelkezés után egy új, 0.28–2. értelmező rendel
 (5) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a közlekedésért felelős miniszterrel egyetértésben
 
 - a) a garanciavállaló egyesület felhatalmazásának megadásával és visszavonásával kapcsolatos eljárási szabályokat,
-- b) a garanciavállaló egyesülettől követelhető TIR-igazolványonkénti legnagyobb pénzösszeget, valamint
-- c) a TIR igazolvány használatához az Egyezményben előírt feltételek teljesítésének módját rendeletben állapítsa meg.
+- b) a garanciavállaló egyesülettől követelhető TIR-igazolványonkénti legnagyobb pénzösszeget,
+- c) a TIR-igazolvány használatához az Egyezményben előírt feltételek teljesítésének módját, valamint
+- d) a TIR Egyezmény végrehajtásához szükséges egyéb rendelkezéseket
+
+rendeletben állapítsa meg.

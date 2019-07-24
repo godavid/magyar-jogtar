@@ -89,7 +89,8 @@ Magyarországon adóztatható része után.
 - e) a kifizetőnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszonyra tekintettel;
 - f) a közérdekű nyugdíjas szövetkezetnek az öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja között fennálló jogviszonyára tekintettel;
 - g) a kifizetőnek az Mt. szerinti munkaviszonyban foglalkoztatott saját jogú nyugdíjas személyre tekintettel;
-- h) a Tbj. szerint külföldinek minősülő személynek az általa megszerzett, járulékalapot nem képező jövedelemre tekintettel.
+- h) a Tbj. szerint külföldinek minősülő személynek az általa megszerzett, járulékalapot nem képező jövedelemre tekintettel;
+- i) az egyházi jogi személynek az egyházi szolgálati viszonyban álló egyházi személyre tekintettel, ha az egyházi szolgálati viszonyban álló egyházi személy saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte.
 
 (2) Nem esik az 1. § (1)–(3) bekezdés szerinti adófizetési kötelezettség alá – e tevékenysége, jogállása alapján szerzett jövedelme tekintetében –
 
@@ -147,35 +148,43 @@ E bekezdés alkalmazásakor a heti 36 órás foglalkoztatás megállapításán�
 
 #### 7. A mezőgazdasági őstermelő által fizetendő adó alapja
 
-7. § (1) A Tbj. 30/A. § (1) bekezdés szerint járulékfizetésre kötelezett mezőgazdasági őstermelőt a saját maga után havonta terhelő adó alapja az összevont adóalapba tartozó adóelőleg-alap számításánál figyelembe vett jövedelem, de legalább a minimálbér vagy, a Tbj. 30/A. § (3) bekezdés szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg.
+7. § (1) A Tbj. 30/A. § (1) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a tárgyévi összevont adóalapba tartozó jövedelme, de legalább a minimálbér vagy, a Tbj. 30/A. § (3) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
 
-(2) A Tbj. 30/A. § (2) bekezdés szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után havonta terhelő adó alapja a Tbj. 30/A. § (3) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg.
+(2) A Tbj. 30/A. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja a Tbj. 30/A. § (3) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
 
-(3) A (2) bekezdés szerinti adóalap hiányában a Tbj. 30/A. § (2) bekezdés szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után terhelő adó alapja
+(3) A (2) bekezdés szerinti adóalap hiányában a Tbj. 30/A. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja
 
-- a) az összevont adóalapba tartozó adóelőleg-alap számításánál figyelembe vett jövedelem,
-- b) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett jövedelmének 75 százaléka,
-- c) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő bevételének 4 százaléka,
+- a) a tárgyévi összevont adóalapba tartozó jövedelem,
+- b) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett tárgyévi jövedelmének 75 százaléka,
+- c) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő tárgyévi bevételének 4 százaléka,
 
-csökkentve a Tbj. szerinti járulékalapját képező összeggel.
+csökkentve a tárgyévi Tbj. szerinti járulékalapját képező összeggel.
 
-(4) A Tbj. 30/A. §-a alapján járulékfizetésre nem kötelezett mezőgazdasági őstermelőt a saját maga után terhelő adó alapja
+(4) A Tbj. 30/A. §-a alapján járulékfizetésre nem kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja
 
-- a) az összevont adóalapba tartozó adóelőleg-alap számításánál figyelembe vett jövedelem,
-- b) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett jövedelmének 75 százaléka,
-- c) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő bevételének 4 százaléka.
+- a) a tárgyévi összevont adóalapba tartozó jövedelem,
+- b) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett tárgyévi jövedelmének 75 százaléka,
+- c) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő tárgyévi bevételének 4 százaléka.
 
-(5) Az adóalapot az (1) bekezdés szerint megállapító mezőgazdasági őstermelő e jogállással nem rendelkezik a hónap minden napján, vagy más okból nem minősül az adó alanyának a hónap minden napján, akkor az adó alapja az összevont adóalapba tartozó jövedelem, de legalább a mezőgazdasági őstermelői jogállása fennállása minden napjára számítva a minimálbér harmincad része.
+(5) Az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő e jogállással nem rendelkezik az adóév minden napján, vagy más okból nem minősül az adó alanyának az adóév minden napján, akkor az adó alapja
 
-(6) Az adóalapot az (1)–(2) bekezdés szerint megállapító mezőgazdasági őstermelő, az őt saját maga után terhelő adó alapjának megállapításkor nem veszi számításba a hónapnak azt a napját, amelyen
+- a) az (1) bekezdés szerinti őstermelő esetében az őstermelésből származó összevont adóalapba tartozó jövedelme, de legalább az adóalanyiság időtartamának minden napjára számítva a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg harmincad része,
+- b) a (2) bekezdés szerinti kistermelő esetében az adóalanyiság időtartamának minden napjára számítva a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg harmincad része.
 
-- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban részesül;
+(6) Az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő, az őt saját maga után terhelő adó alapjának megállapításkor nem veszi számításba azt a napot, amelyen
+
+- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül;
 - b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, gyermekek otthongondozási díja, ápolási díj folyósítása alatt a mezőgazdasági őstermelő e tevékenységét személyesen folytatja;
-- c) csecsemőgondozási díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban egyidejűleg részesül;
+- c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban egyidejűleg részesül;
 - d) önkéntes tartalékos katonaként katonai szolgálatot teljesít;
 - e) fogvatartott.
 
-Ezekben az esetekben az adó alapja a hónap többi napjára számítva az összevont adóalapba tartozó jövedelem, az átalányadózó mezőgazdasági kistermelő esetében az e tevékenysége alapján szerzett jövedelmének 75 százaléka, a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő esetében bevételének 4 százaléka, de legalább a hónap többi napjára számítva a minimálbér harmincad része.
+(7) A (6) bekezdés szerinti esetekben az adó alapja
+
+- a) az adóalapot az (1) bekezdés szerint megállapító mezőgazdasági őstermelő esetében az összevont adóalapba tartozó jövedelme, de legalább a minimálbér, vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg,
+- b) az adóalapot a (2) bekezdés szerint megállapító mezőgazdasági őstermelő esetében a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg
+
+harmincad része azokra a napokra, amelyekre az adófizetési kötelezettség fennáll.
 
 #### 8. Az adóalap megállapításának különös szabályai
 
@@ -398,7 +407,11 @@ esetén,
 - d) az adó alapjára és összegére vonatkozó adatot,
 - e) a külföldi vállalkozásnak az illetősége szerinti állam hatósága által megállapított adóazonosító számát, ha az adókötelezettséget a kifizető helyett a természetes személy teljesíti.
 
-22. § A mezőgazdasági őstermelő az adót negyedévente állapítja meg, és az Art. rendelkezései szerinti adattartalommal, a negyedévet követő hónap 12-éig elektronikus úton vallja be és fizeti meg.
+22. § (1) A 7. § (1)–(2) bekezdés szerinti mezőgazdasági őstermelő a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg alapján – figyelemmel a 7. § (5)–(6) bekezdés rendelkezésére – negyedévente adóelőleget állapít meg, amelyet a negyedévet követő hónap 12-éig fizet meg.
+
+(2) A tárgyévre vonatkozóan az állami adó- és vámhatóság közreműködése nélkül elkészített bevallásban vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban kell – a 7. § (1)–(2) bekezdésében foglaltakra figyelemmel – az előlegként megfizetett adót elszámolni, az adóbevallás benyújtásának határidejéig a különbözetet megfizetni, és a bevallás megfelelő rovatában lehet a túlfizetésként mutatkozó különbözet összegéről rendelkezni.
+
+(3) Az adóelőleg fizetésére nem kötelezett őstermelő az adót a személyi jövedelemadó bevallásában vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban a bevallásra előírt határidőig állapítja meg, vallja be, és a bevallás benyújtásának határidejéig fizeti meg.
 
 23. § A kincstár számfejtési körébe tartozó költségvetési szervek képviselőjeként az adó megállapítására, bevallására és megfizetésére a kincstár kötelezett.
 
@@ -408,7 +421,7 @@ esetén,
 
 26. § Az 1. § (4) bekezdés c) pontja szerinti kamatkedvezményből származó jövedelem után fizetendő adót évente, az adóévet követő év január 12-éig kell megfizetni. Ha a kamatkedvezmény év közben megszűnik, az adót a megszűnés napját követő hónap 12-éig kell megfizetni.
 
-27. § Az adó fizetésére kötelezett természetes személy és a 7. § (2)–(3) bekezdés szerinti őstermelő az adót (adóelőleget) a személyi jövedelemadó, a személyi jövedelemadó-előleg megfizetésével egyidejűleg állapítja meg és fizeti meg. A tárgyévre vonatkozóan az állami adó- és vámhatóság közreműködése nélkül elkészített bevallásban vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban kell az előlegként megfizetett adót elszámolni, az adóbevallás benyújtásának határidejéig a különbözetet megfizetni, és a bevallás megfelelő rovatában lehet a túlfizetésként mutatkozó különbözet összegéről rendelkezni. A személyi jövedelemadó-előleg megfizetésére nem kötelezett természetes személy az adót a személyi jövedelemadó bevallásában vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban a bevallásra előírt határidőig állapítja meg, vallja be, és a bevallás benyújtásának határidejéig fizeti meg.
+27. § Az adó fizetésére kötelezett természetes személy az adót a személyi jövedelemadó, a személyi jövedelemadó-előleg megfizetésével egyidejűleg állapítja és fizeti meg, azzal, hogy, az adót az állami adó- és vámhatóság közreműködése nélkül elkészített személyi jövedelemadó bevallásban vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban vallja be. A tárgyévre vonatkozóan az állami adó- és vámhatóság közreműködése nélkül elkészített bevallásban vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban kell az előlegként megfizetett adót elszámolni, az adóbevallás benyújtásának határidejéig a különbözetet megfizetni, és a bevallás megfelelő rovatában lehet a túlfizetésként mutatkozó különbözet összegéről rendelkezni. A személyi jövedelemadó-előleg megfizetésére nem kötelezett természetes személy az adót a személyi jövedelemadó bevallásában vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban a bevallásra előírt határidőig állapítja meg, vallja be, és a bevallás benyújtásának határidejéig fizeti meg.
 
 28. § A Tbj. szerinti foglalkoztató az adófizetésre kötelezett természetes személytől a természetes személlyel tett egybehangzó nyilatkozata alapján átvállalhatja az 1. § (1)–(3) bekezdése szerinti adó megfizetését és bevallását (ideértve az adó utólagos megtérítését is), ha a természetes személy kifizetőnek nem minősülő külföldi személytől a foglalkoztatóval fennálló jogviszonyára tekintettel szerez jövedelmet. A fizetési és bevallási kötelezettség átvállalásának további feltétele a természetes személy nyilatkozata arról, hogy a kötelezettség teljesítéséhez szükséges adatokat a foglalkoztató rendelkezésére bocsátja. Az átvállalt kötelezettség teljesítéséért a foglalkoztató és a természetes személy egyetemlegesen felelnek.
 
@@ -505,6 +518,8 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 irányadó rendelkezést tartalmaz, azon – jogszabály eltérő rendelkezése hiányában – az e törvényben meghatározott adót kell érteni.
 
 (4) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 462/H. §-a szerint a kutatás-fejlesztési tevékenység után érvényesíthető adókedvezményt a kifizető az annak érvényesítésére nyitva álló határidő lejártáig a 2018. december 31-én hatályos rendelkezések szerint érvényesítheti. Az e bekezdés szerint érvényesített adókedvezmény összege nem haladhatja meg a kutatás-fejlesztési tevékenység közvetlen költségei között megjelenő, munkaviszonyban foglalkoztatott munkavállalók vonatkozásában a 16. § szerint érvényesített kedvezmény után fennmaradó adókötelezettség összegét.
+
+36/A. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5. § (1) bekezdés i) pontja, 7. §-a, 22. §-a és 27. §-a 2019. január 1-jétől alkalmazható.
 
 #### 23. Módosító rendelkezések
 

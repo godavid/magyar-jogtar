@@ -331,6 +331,7 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 - 7. Curaçao
 - 8. Dél-afrikai Köztársaság
 - 8a. Egyesült Arab Emírségek
+- 8b. Egyesült Királyság
 - 9. Gabon
 - 10. Georgia
 - 11. Guernsey

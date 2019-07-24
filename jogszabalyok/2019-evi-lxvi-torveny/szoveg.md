@@ -321,9 +321,31 @@ lép.
 
 #### 33. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-105. §
+105. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 415. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-106. §
+„(6) E § alkalmazásában rossz minőségű a termék,
+
+a) ha a jogszabályban vagy az Európai Unió általános hatályú közvetlenül alkalmazandó jogi aktusában előírt biztonságossági vagy minőségi követelményeknek nem felel meg, vagy
+
+b) az a) pontban meghatározott előírás hiányában akkor, ha
+
+ba) az emberi fogyasztás céljára előállított termék emberi fogyasztásra való alkalmatlanságát elfedték,
+
+bb) a termék minőségmegőrzési, fogyaszthatósági, illetve felhasználhatósági idejét jogellenesen meghosszabbították,
+
+bc) a terméket nem megengedett összetevő felhasználásával állították elő,
+
+bd) a terméket emberi fogyasztásra nem alkalmas anyagokból vagy termékekből állították elő emberi fogyasztás céljára, vagy
+
+be) a termék rendeltetésszerűen nem használható, vagy használhatósága jelentős mértékben csökkent.”
+
+106. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 417. § (4) bekezdés a) pont ab) alpontja helyébe a következő rendelkezés lép:
+
+(E § alkalmazásában
+
+az áru lényeges tulajdonsága:)
+
+„ab) az áru eredete, származási helye és előállításának módja,”
 
 107. §
 
@@ -409,9 +431,15 @@ lép.
 
 #### 44. A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény módosítása
 
-136. §
+136. § A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény 10. §-a a következő (6a) és (6b) bekezdéssel egészül ki:
 
-137. §
+„(6a) Ha a közszolgáltatási szerződés a (6) bekezdés a) vagy c) pontja szerint szűnt meg, a szerződő felek a közszolgáltatási szerződéssel kapcsolatban egymással elszámolnak. Az elszámolás során a közszolgáltató a közszolgáltatási szerződés megszűnése miatt a szerződés megszűnésének időpontjában felmerült és meg nem térült, a Polgári Törvénykönyvről szóló 2013. évi V. törvény alapján nem érvényesíthető, igazolt és a szerződéssel közvetlenül összefüggő tényleges kára megtérítését igényelheti a helyi önkormányzattól. Az elmaradt vagyoni előny nem követelhető.
+
+(6b) Ha az elszámolás során vita marad fenn, a szerződő felek ki nem elégített követeléseiket bírósági eljárásban érvényesíthetik.”
+
+137. § A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény 7. alcíme a következő 10/B. §-sal egészül ki:
+
+„10/B. § E törvénynek a Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvénnyel (a továbbiakban: Módtv.) megállapított 10. § (6b) bekezdése szerinti igény érvényesítése a bíróság előtt a Módtv. hatálybalépésétől számított egy éven belül kezdeményezhető. E határidő elmulasztása jogvesztő.”
 
 #### 45. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló2015. évi CCXXII. törvény módosítása
 

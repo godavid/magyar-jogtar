@@ -1185,4 +1185,6 @@ Tbj. 65/K. § A posztdoktorként való foglalkoztatásról és a Bolyai János K
 
 Tbj. 65/L. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény és más kapcsolódó törvények módosításáról szóló 2018. évi CXV. törvény (a továbbiakban: Riasztv.) 27. § (1) bekezdésével módosított 5. § (1) bekezdés a) pontját és a Riasztv. 27. § (2) bekezdésével módosított 15. § (1) bekezdését 2019. január 1-től kell alkalmazni.
 
+Tbj. 65/P. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 285. § (6) bekezdése alapján 2019. március 1-jét követően fennmaradt állami szolgálati jogviszonyt biztosítási kötelezettséggel járó jogviszonynak kell tekinteni.
+
 ### Melléklet az 1997. évi LXXX. törvényhez
