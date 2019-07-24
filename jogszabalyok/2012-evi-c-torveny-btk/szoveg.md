@@ -5509,7 +5509,15 @@ követik el.
 
 (5) Nem büntethető a (4) bekezdésében meghatározott bűncselekmény elkövetője, ha mihelyt tudomást szerez a termék rossz minőségéről, mindent megtesz azért, hogy a rossz minőségű termék a birtokába visszakerüljön.
 
-(6) E § alkalmazásában rossz minőségű a termék, ha a jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában előírt biztonságossági vagy minőségi követelményeknek nem felel meg, ilyen előírás hiányában akkor, ha a termék rendeltetésszerűen nem használható, vagy használhatósága jelentős mértékben csökkent.
+(6) E § alkalmazásában rossz minőségű a termék,
+
+- a) ha a jogszabályban vagy az Európai Unió általános hatályú közvetlenül alkalmazandó jogi aktusában előírt biztonságossági vagy minőségi követelményeknek nem felel meg, vagy
+- b) az a) pontban meghatározott előírás hiányában akkor, ha
+  - ba) az emberi fogyasztás céljára előállított termék emberi fogyasztásra való alkalmatlanságát elfedték,
+  - bb) a termék minőségmegőrzési, fogyaszthatósági, illetve felhasználhatósági idejét jogellenesen meghosszabbították,
+  - bc) a terméket nem megengedett összetevő felhasználásával állították elő,
+  - bd) a terméket emberi fogyasztásra nem alkalmas anyagokból vagy termékekből állították elő emberi fogyasztás céljára, vagy
+  - be) a termék rendeltetésszerűen nem használható, vagy használhatósága jelentős mértékben csökkent.
 
 ### Megfelelőség hamis tanúsítása
 
@@ -5536,7 +5544,7 @@ követik el.
 
 - a) az áru lényeges tulajdonsága:
   - aa) az áru összetétele, műszaki jellemzői és az árunak az adott célra való alkalmassága,
-  - ab) az áru eredete, származási helye,
+  - ab) az áru eredete, származási helye és előállításának módja,
   - ac) az áru tesztelése, ellenőrzöttsége vagy annak eredménye;
 - b) szervezett termékbemutató: termék forgalmazása céljából szervezett utazás vagy rendezvény alkalmával folytatott kiskereskedelmi tevékenység.
 

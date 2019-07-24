@@ -318,7 +318,8 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - e) a szociális ellátásra való jogosultsággal összefüggő érdemi döntés véglegessé válásának időpontját;
 - f) a szociális ellátás megállapítása során figyelembe vett, egy főre vagy egy fogyasztási egységre jutó jövedelem összegét;
 - g) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozói jogcímen történő tartózkodás esetén a rokoni kapcsolatot;
-- h)–i)
+- h)
+- i)
 - j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító végleges döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét;
 - k)
 - l) a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatás természetbeni szociális ellátás formájában történő nyújtása esetén
@@ -565,7 +566,15 @@ figyelmen kívül kell hagyni.
 
 ### II. CÍM
 
-27–31. §
+27. §
+
+28. §
+
+29. §
+
+30. §
+
+31. §
 
 ### III. CÍM — Szociális rászorultságtól függő pénzbeli ellátások
 
@@ -764,7 +773,13 @@ kell ismét folyósítani.
 
 (3) A (2) bekezdés e) pontjában meghatározott 30 napos időtartam számításakor az eb)–ee) alpontok szerinti tevékenységeknek a felülvizsgálat időpontját megelőző évben teljesített időtartamát össze kell számítani. Amennyiben a jogosult az e) pont szerinti feltételt így sem tudja teljesíteni, a 30 nap számításánál az általa – a közérdekű önkéntes tevékenységről szóló törvény szerinti nyilvántartásban szereplő fogadó szervezetnél – végzett közérdekű önkéntes tevékenységének időtartamát is figyelembe kell venni.
 
-36/A–36/D. §
+36/A. §
+
+36/B. §
+
+36/C. §
+
+36/D. §
 
 37. § (1) Az az aktív korúak ellátására jogosult személy, aki az ellátásra való jogosultság kezdő napján
 
@@ -1005,8 +1020,8 @@ személy.
 
 44/A. § (1) Tartós ápolást végzők időskori támogatására jogosult az a személy, akinek az öregségi nyugdíjra való jogosultságát megállapították, ha
 
-- a) azon napot megelőzően, amelytől kezdődően az öregségi nyugdíját megállapítják – ide nem értve az öregségi nyugdíj folyósítás nélküli megállapítását –, összeszámítva legalább 20 éven át saját háztartásában ápolta, gondozta gyermekét, és
-- b) az a) pontban foglaltakra figyelemmel az érintett időszakban ugyanazon gyermekre tekintettel
+- a) azon napot megelőzően, amelytől kezdődően az öregségi nyugdíját megállapítják – ide nem értve az öregségi nyugdíj folyósítás nélküli megállapítását –, összeszámítva legalább 20 éven át saját háztartásában ápolta, gondozta gyermekét,
+- b) az a) pontban foglaltakra figyelemmel az érintett időszakban
   - ba) az e törvény alapján megállapított gyermekek otthongondozási díjában vagy ápolási díjban részesült és az ápolási díj esetében azt részére a vizsgált időszakon belül legalább egy év időtartamban emelt összegű ápolási díjként vagy kiemelt ápolási díjként folyósították, illetve
   - bb) tartósan beteg, illetve súlyosan fogyatékos gyermekére tekintettel a gyermekgondozási segélyről szóló 10/1982. (IV. 16.) MT rendelet 1. § (1) bekezdése vagy a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése alapján gyermekgondozási segélyben vagy gyermekgondozást segítő ellátásban részesült.
 
@@ -1612,7 +1627,9 @@ együttműködik.
 
 (5) A (4) bekezdés alkalmazásában súlyosan fogyatékos a külön jogszabály szerinti fogyatékossági támogatásban, vakok személyi járadékában, illetve magasabb összegű családi pótlékban részesülő – ezt jogszabályban meghatározottak szerint igazoló – személy.
 
-(6)–(7)
+(6)
+
+(7)
 
 65/D. §
 
@@ -1646,7 +1663,11 @@ részére biztosít lehetőséget a napközbeni tartózkodásra, társas kapcsol
 
 (2) A szakosított ellátási formákat igénybe vevő személyek ellátásáról, az állapotuk változásáról, valamint a részükre biztosított gondozási, terápiás, valamint ápolási, illetve egyéb szolgáltatások tartalmáról – a külön jogszabályban meghatározott tartalommal – gondozási tervet kell készíteni.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
 
 66/A. § (1) Fogyatékos, pszichiátriai vagy szenvedélybeteg személyek számára a 67. § és a 85/A. § (3) bekezdés a) pont ab) alpontja szerinti ellátást
 
@@ -1831,7 +1852,15 @@ biztosítható.
 - a) az ellátás – a komplex szükségletfelmérés alapján – határozott vagy határozatlan időtartamú,
 - b) az 58/A. § (2) és (2a) bekezdését, a 85/B. §-t, a 94. § (1) bekezdés b)–d) pontját, valamint (2) és (3) bekezdését, a 94/A. § (4) bekezdését, a 94/G. §-t, a 99. §-t , a 99/A. §-t és a 105. §-t nem kell alkalmazni.
 
-76–79/A. §
+76. §
+
+77. §
+
+78. §
+
+79. §
+
+79/A. §
 
 ### Átmeneti elhelyezést nyújtó intézmények
 
@@ -2055,7 +2084,11 @@ rendeletet alkot.
 - a) gondoskodik az intézmény szervezeti és működési szabályzatának, szakmai programjának, szakosított ellátást nyújtó intézmény esetében házirendjének elkészítéséről,
 - b) biztosítja az intézmény gazdálkodásának és működésének törvényességét.
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 (5) Ha a tartós bentlakást nyújtó egyházi fenntartású vagy nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a működést engedélyező szerv intézkedik a központi költségvetésről szóló törvényben biztosított támogatás visszatartása iránt. A visszatartás mértéke, ha az egyházi fenntartó és a nem állami fenntartó
 
@@ -2147,7 +2180,9 @@ rendeletet alkot.
 
 (4d) A szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a fenntartó a kérelmeket, a kérelemhez csatolandó iratokat és nyilatkozatokat, valamint a működést engedélyező szervnek benyújtandó más iratokat elektronikus úton nyújtja be, a működést engedélyező szerv felé fennálló, jogszabályban meghatározott bejelentési kötelezettségét elektronikus úton teljesíti, a működést engedélyező szerv a döntéseit és az ellenőrzés megindításáról szóló értesítéseit elektronikus úton közli. A fenntartó meghatalmazotti képviselőjének adott meghatalmazás papíralapon is benyújtható.
 
-(4e)–(4f)
+(4e)
+
+(4f)
 
 (4g)
 
@@ -2678,7 +2713,9 @@ történik.
 
 (2) A jogosult kérelmére, legfeljebb hat hónapi időtartamig ideiglenesen is beutalható. Ideiglenes beutalás esetén a jogosultnak a fennálló lakásbérleti jogviszonya nem szüntethető meg.
 
-(3)–(4)
+(3)
+
+(4)
 
 106. § A bentlakásos szociális intézmény vezetője köteles értesíteni, illetve tájékoztatni a jogosultat és az általa megjelölt hozzátartozóját
 
@@ -2764,9 +2801,17 @@ az ellátottal kötött, a 94/C. § (3) bekezdése szerinti megállapodásban ke
 - d)
 - e)
 
-113/B–113/C. §
+113/B. §
 
-113/D–113/G. §
+113/C. §
+
+113/D. §
+
+113/E. §
+
+113/F. §
+
+113/G. §
 
 ### III. CÍM — Térítési díj
 
@@ -3168,9 +3213,11 @@ járul hozzá.
 (4) Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza
 
 - a)
-- b)–c)
+- b)
+- c)
 - d) az étkeztetés jogosultsági feltételeinek részletes szabályait,
-- e)–f)
+- e)
+- f)
 - g) a települési támogatás keretében nyújtott ellátások jogosultsági feltételeit, valamint az ellátások megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályait.
 
 133. § (1) E törvény — a 24. § (2) bekezdése, a 33—37. §-a, a 127. §-a, a 129—130. §-a, valamint a 135. §-a kivételével — a kihirdetést követő 30. napon lép hatályba.

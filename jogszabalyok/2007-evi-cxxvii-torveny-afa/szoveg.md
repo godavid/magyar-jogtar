@@ -236,14 +236,15 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 - a) jogi személynek a Ptk. jogi személyekre vonatkozó rendelkezései szerinti átalakulását, egyesülését és szétválását;
 - b)
 - c) szövetkezet gazdasági társasággá való átalakulása vagy jogutód nélküli megszűnése esetében a közösségi alap Ptk. szerinti átadását az alapszabály rendelkezése szerinti szervezet részére;
-- d) az egyéni vállalkozóról és az egyéni cégről szóló törvény (a továbbiakban: Evtv.) szerinti egyéni vállalkozói tevékenység folytatására való jogosultság – egyéni cég alapítására tekintettel történő – megszűnését, valamint egyéni cégnek az Evtv. szerinti átalakulását;
+- d) az egyéni vállalkozóról és az egyéni cégről szóló törvény (a továbbiakban: Evectv.) szerinti egyéni vállalkozói tevékenység folytatására való jogosultság – egyéni cég vagy korlátolt felelősségű társaság alapítására tekintettel történő – megszűnését, valamint egyéni cégnek az Evectv. szerinti átalakulását a jogutódlással érintett vagyonelemek tekintetében;
 - e) egyéni vállalkozó, mezőgazdasági termelő halálát, vagy cselekvőképességének elvesztését, feltéve, hogy az egyéni vállalkozói, őstermelői tevékenységet
   - ea) elhalálozás esetében az özvegy vagy örökös folytatja; illetőleg
   - eb) cselekvőképesség elvesztése esetében az egyéni vállalkozó, mezőgazdasági őstermelő nevében és javára a törvényes képviselője folytatja;
 - f) a 8. § (5), (9) és (12) bekezdéseiben említett eseteket.
 - g) a mezőgazdasági tevékenységét megszüntető természetes személy adóalanynak a mezőgazdasági tevékenységet tovább folytató, a Ptk. szerinti közeli hozzátartozónak minősülő természetes személy részére történő gazdaságátadását, feltéve, hogy a gazdaságátadás az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatással történik.
 - h) költségvetési szerv államháztartásról szóló törvény szerinti átalakítását, vagy irányító (felügyeleti) szervének megváltozását.
-- i) a köztestületek jogszabályon alapuló átalakulását, ha az tartalmában jogutódlásnak tekintendő.
+- i) a köztestületek jogszabályon alapuló átalakulását, ha az tartalmában jogutódlásnak tekintendő;
+- j) egyházi jogi személynek a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti átalakulását, jogutódlással történő megszűnését vagy fenntartójának megváltozását.
 
 (4) Szintén nem áll be a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás az adóalany általi üzletág-átruházás esetében, feltéve, hogy az a 18. § (1)–(2) bekezdésében meghatározott feltételek szerint történik, és a szerző az üzletágat a további működtetés céljából szerzi meg.
 
@@ -271,7 +272,7 @@ az üzletágat megszerző adóalany a 88. § szerinti adófizetési kötelezetts
 
 - a) az apportálót,
 - b) a jogelődöt a jogutódlással történő megszűnés azon esetében, amelyben a jogelőd nem szűnik meg,
-- c) azt a volt egyéni vállalkozót, akinek (amelynek) egyéni vállalkozói tevékenység folytatására vonatkozó jogosultsága egyéni cég alapítására tekintettel megszűnt,
+- c) azt a volt egyéni vállalkozót, akinek egyéni vállalkozói tevékenység folytatására vonatkozó jogosultsága egyéni cég vagy korlátolt felelősségű társaság alapítására tekintettel megszűnt,
 - d) az egyéni cég tagját az egyéni cég gazdasági társasággá történő átalakulása esetén,
 - e) azt a 17. § (3) bekezdés g) pontja szerinti, az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatásban részesülő természetes személyt, aki (amely) gazdaságát a mezőgazdasági tevékenységet tovább folytató, a Ptk. szerinti közeli hozzátartozónak minősülő természetes személy részére átadja, valamint
 - f) az üzletágat átruházó adóalanyt,
@@ -588,7 +589,7 @@ napot meg nem haladó használatát jelenti.
 - a) vámjogi helyzete a 111. § (1) bekezdésének a) és b) pontja szerint alakul, vagy
 - b) a 111. § (1) bekezdésének c) pontjában említett eljárások hatálya alatt áll, vagy
 - c) teljes vámmentességgel járó ideiglenes behozatali eljárás hatálya alatt áll, vagy
-- d) külső közösségi árutovábbítási eljárás hatálya alatt áll,
+- d) külső árutovábbítási eljárás hatálya alatt áll,
 
 a termék importjának teljesítési helye a Közösség azon tagállama, ahol a termék a) pontban említett vámjogi helyzete megszűnik, a b)–d) pontokban említett esetekben pedig, ahol a termék az ott meghatározott eljárások hatálya alól kikerül.
 
@@ -712,7 +713,7 @@ a fizetendő adót – az (1) bekezdéstől eltérően – az a) pontban említe
 
 65. § Termék értékesítése, szolgáltatás nyújtása esetében az adó alapja – ha e törvény másként nem rendelkezik – a pénzben kifejezett ellenérték, amelyet a jogosult kap vagy kapnia kell akár a termék beszerzőjétől, szolgáltatás igénybevevőjétől, akár harmadik féltől, ideértve a támogatások bármely olyan formáját is, amely a termék értékesítésének, szolgáltatás nyújtásának árát (díját) közvetlenül befolyásolja.
 
-66. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha az ellenérték nem pénzben kifejezett, és megtérítése sem pénzzel, készpénz-helyettesítő fizetési eszközzel, utalvánnyal vagy pénzhelyettesítő eszközzel történik, hanem termék értékesítésével, szolgáltatás nyújtásával, mindkét ügyletet önállóan kell figyelembe venni azzal, hogy az egyik a másiknak az ellenértéke.
+66. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha az ellenérték nem pénzben kifejezett, és megtérítése sem pénzzel, készpénz-helyettesítő fizetési eszközzel, többcélú utalvánnyal vagy pénzhelyettesítő eszközzel történik, hanem termék értékesítésével, szolgáltatás nyújtásával, mindkét ügyletet önállóan kell figyelembe venni azzal, hogy az egyik a másiknak az ellenértéke.
 
 (2) Az adó alapját pénzben kifejezve, a termék, szolgáltatás szokásos piaci árán kell megállapítani.
 
@@ -1234,14 +1235,14 @@ adókötelessé teszi.
 
 (2) Az (1) bekezdés alkalmazásának feltétele, hogy
 
-- a) a termék Közösség területéről való elhagyásának tényét, amelynek az értékesítés teljesítésekor, de legfeljebb a teljesítés napját követő 90 napon belül kell megtörténnie, a terméket a Közösség területéről kiléptető hatóság igazolja, valamint
+- a) a termék Közösség területéről való elhagyásának tényét, amelynek az értékesítés teljesítésekor, de legfeljebb a teljesítés napját követő 90 napon belül kell megtörténnie, a terméket a Közösség területéről kiléptető hatóság, vagy az Uniós Vámkódex létrehozásáról szóló 952/2013/EU európai parlamenti és tanácsi rendelet egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2015. november 24-i (EU) 2015/2447 bizottsági végrehajtási rendelet 334. cikk (1) bekezdés c) pontja alapján a kiviteli hatóság igazolja, valamint
 - b) az a) pontban említett határidőn belül az értékesített terméket rendeltetésszerűen ne használják, egyéb módon ne hasznosítsák, ide nem értve a kipróbálást és a próbagyártást.
 
 (3) Az (1) bekezdés b) pontja – a 99. és 100. §-ban meghatározott eltéréssel – abban az esetben alkalmazható, ha ezzel összefüggésben a beszerző nem telepedett le belföldön, letelepedés hiányában pedig, ha lakóhelye vagy szokásos tartózkodási helye nincs belföldön.
 
 (4) A (3) bekezdéstől függetlenül nem alkalmazható az (1) bekezdés szerinti adómentesség abban az esetben, ha a beszerző kiránduló hajó, turista repülőgép vagy magánhasználatra szolgáló közlekedési eszköz felszerelését (tartozékát), valamint az üzemeltetéshez, ellátáshoz szükséges terméket maga fuvarozza el.
 
-(5) Amennyiben a termék értékesítése során az adó alóli mentesség kizárólag a (2) bekezdés a) pontjában meghatározott feltétel teljesítése hiányában nem alkalmazható, azonban a termék az értékesítés teljesítését követő 360 napon belül elhagyja a Közösség területét, és ezt a tényt a terméket a Közösség területéről kiléptető hatóság igazolja, az adóalany jogosult az ezen termékértékesítését terhelő fizetendő adóval megegyező összegben csökkenteni a fizetendő adóját. A fizetendő adó csökkentésének feltétele az ügylet teljesítését tanúsító számla megfelelő módosítása.
+(5) Amennyiben a termék értékesítése során az adó alóli mentesség kizárólag a (2) bekezdés a) pontjában meghatározott feltétel teljesítése hiányában nem alkalmazható, azonban a termék az értékesítés teljesítését követő 360 napon belül elhagyja a Közösség területét, és ezt a tényt a (2) bekezdés a) pontja szerinti hatóság igazolja, az adóalany jogosult az ezen termékértékesítését terhelő fizetendő adóval megegyező összegben csökkenteni a fizetendő adóját. A fizetendő adó csökkentésének feltétele az ügylet teljesítését tanúsító számla megfelelő módosítása.
 
 99. § (1) Abban az esetben, ha a beszerző külföldi utas, és az értékesített termék vagy termékek (e § alkalmazásában a továbbiakban együtt: termék) a külföldi utas személyi vagy útipoggyászának részét képezik, a 98. § (1) bekezdése szerinti adómentesség alkalmazásához szükséges az is, hogy
 
@@ -1297,7 +1298,7 @@ adókötelessé teszi.
 
 (2) Az (1) bekezdés alkalmazásának feltétele, hogy
 
-- a) a termék Közösség területéről való elhagyásának tényét, amelynek a szolgáltatásnyújtás teljesítésekor, de legfeljebb a teljesítés napját követő 90 napon belül kell megtörténnie, a terméket a Közösség területéről kiléptető hatóság igazolja, valamint
+- a) a termék Közösség területéről való elhagyásának tényét, amelynek a szolgáltatásnyújtás teljesítésekor, de legfeljebb a teljesítés napját követő 90 napon belül kell megtörténnie, a 98. § (2) bekezdés a) pontja szerinti hatóság igazolja, valamint
 - b) az a) pontban említett határidőn belül a terméket rendeltetésszerűen ne használják, egyéb módon ne hasznosítsák, ide nem értve a kipróbálást és a próbagyártást.
 
 (3) Az (1) bekezdés b) pontja abban az esetben alkalmazható, ha ezzel összefüggésben a szolgáltatás igénybevevője nem telepedett le belföldön, letelepedés hiányában pedig, ha lakóhelye vagy szokásos tartózkodási helye nincs belföldön.
@@ -1305,7 +1306,7 @@ adókötelessé teszi.
 102. § (1) Mentes az adó alól a szolgáltatás nyújtása – a 85. § (1) bekezdése és a 86. § (1) bekezdése szerint adómentes szolgáltatásnyújtások kivételével – abban az esetben, ha az olyan termékhez kapcsolódik közvetlenül,
 
 - a) amely az 54. § alkalmazása alá tartozik;
-- b) amely kiviteli eljárás hatálya alá vonva elhagyja a Közösség területét, és a Közösség területéről való kiléptetés tényét a kiléptető hatóság igazolja;
+- b) amely kiviteli eljárás hatálya alá vonva elhagyja a Közösség területét, és a Közösség területéről való kiléptetés tényét a 98. § (2) bekezdés a) pontja szerinti hatóság igazolja;
 - c) amelyen a 101. § (1) bekezdése szerint adómentesen végeznek munkát.
 
 (2) Az (1) bekezdés különösen alkalmazandó a termék fuvarozására és a termék fuvarozásához járulékosan kapcsolódó szolgáltatások nyújtására.
@@ -1426,7 +1427,7 @@ nincs befolyással.
 
 112. § (1) Mentes az adó alól:
 
-- a) a 24. § (1) bekezdése szerint importált termék értékesítése abban az esetben, ha az a termék teljes vámmentességgel járó ideiglenes behozatali vagy külső közösségi árutovábbítási eljárás, vagy
+- a) a 24. § (1) bekezdése szerint importált termék értékesítése abban az esetben, ha az a termék teljes vámmentességgel járó ideiglenes behozatali vagy külső árutovábbítási eljárás, vagy
 - b) a 24. § (2) bekezdése szerint importált termék értékesítése abban az esetben, ha az a termék belső közösségi árutovábbítási eljárás
 
 hatálya alatti állására nincs befolyással.
@@ -2005,7 +2006,7 @@ számlakibocsátási kötelezettséget jelent.
 165. § (1) Mentesül a számlakibocsátási kötelezettség alól az adóalany abban az esetben, ha
 
 - a) termék értékesítése, szolgáltatás nyújtása a 85. § (1) bekezdése és 86. § (1) bekezdése szerint mentes az adó alól, feltéve, hogy gondoskodik olyan, az ügylet teljesítését tanúsító okirat kibocsátásáról, amely a számvitelről szóló törvény (a továbbiakban: Számv. tv.) rendelkezései szerint számviteli bizonylatnak minősül;
-- b) a termék beszerzője, szolgáltatás igénybevevője az ellenérték adót is tartalmazó összegét legkésőbb a 163. § (1) bekezdésének a) pontjában, illetőleg a 164. § (1) bekezdésének a) pontjában említett időpontig készpénzzel, készpénz-helyettesítő fizetési eszközzel vagy pénzhelyettesítő eszközzel maradéktalanul megtéríti, és számla kibocsátását az adóalanytól nem kéri;
+- b) a termék beszerzője, szolgáltatás igénybevevője az ellenérték adót is tartalmazó összegét legkésőbb a 163. § (1) bekezdésének a) pontjában, illetve a 164. § (1) bekezdésének a) pontjában említett időpontig készpénzzel, készpénz-helyettesítő fizetési eszközzel, pénzhelyettesítő eszközzel vagy többcélú utalvánnyal maradéktalanul megtéríti, és számla kibocsátását az adóalanytól nem kéri;
 - c) a légi személyszállítás nyújtása a 105. § szerint mentes az adó alól, feltéve, hogy gondoskodik olyan, az ügylet teljesítését tanúsító okirat kibocsátásáról, amely a Számv. tv. rendelkezései szerint számviteli bizonylatnak minősül.
 
 (2) Az (1) bekezdés b) pontja nem alkalmazható a 6. § (4) bekezdésében, valamint a 29. és 89. §-ban meghatározott esetekben.
@@ -3348,7 +3349,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - gl) a Tanács 2016/1065/EU irányelve (2016. június 27.) a 2006/112/EK irányelvnek az utalványok megítélése tekintetében történő módosításáról;
   - gm) a Tanács (EU) 2017/2455 irányelve (2017. december 5.) a 2006/112/EK irányelvnek és a 2009/132/EK irányelvnek a szolgáltatásnyújtásra és a termékek távértékesítésére vonatkozó bizonyos hozzáadottértékadó-kötelezettségek tekintetében történő módosításáról;
   - gn) a Tanács (EU) 2018/912 irányelve (2018. június 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a minimális általános adómérték tiszteletben tartására vonatkozó kötelezettség tekintetében történő módosításáról;
-  - go) a Tanács (EU) irányelve a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózás, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszaka tekintetében történő módosításáról;
+  - go) a Tanács (EU) 2018/1695 irányelve (2018. november 6.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózás, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszaka tekintetében történő módosításáról;
 - h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
   - ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról;
 - i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról.
@@ -3626,6 +3627,10 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 - a) építési engedélyhez kötött építési munka esetén a lakóingatlan építésére 2018. november 1. napján van végleges építési engedély, vagy
 - b) az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentéshez kötött építési tevékenységet legkésőbb 2018. november 1. napján bejelentették.
+
+329. § E törvénynek az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel (a továbbiakban: Mód10 törvény) módosított 98. § (2) bekezdés a) pontja, 98. § (5) bekezdése, 101. § (2) bekezdés a) pontja, 102. § (1) bekezdés b) pontja alkalmazható ezen módosítások hatálybalépését megelőzően teljesített ügyletekre is.
+
+330. § E törvénynek a Mód10 törvénnyel módosított 165. § (1) bekezdés b) pontja alkalmazható a 2018. december 31-ét követően teljesített ügyletek esetében is.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 

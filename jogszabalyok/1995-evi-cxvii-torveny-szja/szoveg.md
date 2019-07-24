@@ -680,6 +680,8 @@ azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő a
 
 (6) A tételes költségelszámolást alkalmazó mezőgazdasági kistermelő az e tevékenységéből származó – a 21. § rendelkezései szerint csökkentett – bevételéből ezen bevétel 40 százalékát kistermelői költségátalány címén igazolás nélkül számolhat el, számlával (számlákkal), más bizonylattal (bizonylatokkal) igazolt költségein felül. Ebben az esetben veszteséget mindaddig nem határolhat el, amíg – választása szerint – ezt a kistermelői költséghányadot elszámolja.
 
+(6a) A tételes költségelszámolást alkalmazó, szociális hozzájárulási adó előleg fizetésére kötelezett mezőgazdasági őstermelő tárgyévi elismert költségként veszi figyelembe a tárgyévre megállapított és megfizetett adóelőlegeket (ideértve a negyedik negyedévre megállapított és határidőig megfizetett adóelőleget is). A szociális hozzájárulási adó előleg fizetésére nem kötelezett, tételes költségelszámolást alkalmazó mezőgazdasági őstermelő a szociális hozzájárulási adó fizetési kötelezettség megfizetett összegét a befizetés évében számolhatja el költségként. A tárgyévi összevont adóalapba tartozó jövedelemnek a tárgyévre megállapított és megfizetett szociális hozzájárulási adó előlegalapok összegét meghaladó része (e rendelkezés alkalmazásában: kötelezettségkülönbözet) után fizetendő szociális hozzájárulási adó a befizetés évében számolható el költségként. Amennyiben a tárgyévben szociális hozzájárulási adó előleg fizetésére nem kötelezett, tételes költségelszámolást alkalmazó mezőgazdasági őstermelő a bevallás évében már nem minősül tételes költségelszámolást alkalmazó őstermelőnek, jövedelemként a megállapított jövedelem 29. § szerinti százalékát veszi figyelembe. Amennyiben a tárgyévben szociális hozzájárulási adó előleg fizetésére kötelezett, tételes költségelszámolást alkalmazó mezőgazdasági őstermelő a bevallás évében már nem minősül tételes költségelszámolást alkalmazó őstermelőnek, az összevont adóalapnak a kötelezettségkülönbözettel egyenlő része tekintetében jövedelemként a kötelezettségkülönbözet 29. § szerinti százalékát veszi figyelembe.
+
 (7) Ha a mezőgazdasági őstermelő e tevékenysége mellett egyéni vállalkozói tevékenységet is folytat,
 
 - a) őstermelői bevételként kell figyelembe vennie az őstermelői tevékenység során előállított azon termékek szokásos piaci értékét, amelyeket egyéni vállalkozóként értékesít, azzal, hogy vállalkozói jövedelem szerinti adózás alkalmazása esetén ez az érték az egyéni vállalkozói tevékenység elismert költségének minősül;
@@ -2349,7 +2351,8 @@ révén szerezte;
 - g) részvényét, üzletrészét házastársi közös vagyon (vagyonközösség) megosztása révén, adásvételi szerződésen kívüli jogcímen szerezte; az így megszerzett részvény, üzletrész megszerzésre fordított értékeként azt az értéket lehet figyelembe venni, amelyet a házastárs megszerzésre fordított értékként figyelembe vehetett volna (üzletrész esetében a megszerzett üzletrész névértékének a megosztást megelőző üzletrész névértékéhez viszonyított arányával számított részt);
 - h) az értékpapírt visszterhes jogügylet keretében más magánszemélytől szerezte, feltéve, hogy az ellenérték összege (értéke) az értékpapír névértékét (névérték hiányában az értékpapír kibocsátójának jegyzett tőkéjéből az értékpapírra arányosan jutó rész összegét) eléri; e rendelkezés nem érinti e törvény adómentességet megállapító egyéb rendelkezéseinek alkalmazhatóságát;
 - i) az értékpapírt a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevőjeként szerezte; az MRP szervezet résztvevőnként, az adóévet követő év január 31-ig adatot szolgáltat az állami adó- és vámhatóság részére a résztvevőnek a tagi részesedése bevonása következtében, arra tekintettel átadott összes részvénynek az átadásuk napjára megállapított együttes szokásos piaci értékéről, valamint – ha az MRP alapjául szolgáló javadalmazási politika az átadott részvény ellenértékének megfizetéséről rendelkezett – a részvények ellenértékének a résztvevő által már megfizetett összegéről;
-- j) az értékpapírt a társaság által ki nem fizetett és a tagok törzsbetétjére az osztalékfizetés szabályai szerint elszámolt nyereségnek a még be nem fizetett pénzbeli vagyoni hozzájárulás (a jegyzett, de még be nem fizetett tőke feltöltése) teljesítéseként szerezte meg.
+- j) az értékpapírt a társaság által ki nem fizetett és a tagok törzsbetétjére az osztalékfizetés szabályai szerint elszámolt nyereségnek a még be nem fizetett pénzbeli vagyoni hozzájárulás (a jegyzett, de még be nem fizetett tőke feltöltése) teljesítéseként szerezte meg;
+- k) a szövetkezeti formában működő szövetkezeti hitelintézet tagjaként a tulajdonában álló részjegynek – a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény rendelkezései alapján Holding Szövetkezetnek minősülő – szövetkezet részére történő átruházása ellenében részjegyet szerez a szövetkezetben.
 
 (3) A (2) bekezdés alkalmazásában társas vállalkozás az a külföldi székhelyű jogi személy és egyéb szervezet is, amely a székhelye szerinti államban (kivéve az alacsony adókulcsú államot) a társasági adónak megfelelő adó alanya.
 
@@ -3012,6 +3015,30 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 
 97. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2019. évi XXVI. törvénnyel megállapított 65. § (3) bekezdés a) pont ab) alpontját a hatálybalépésének napjától kibocsátott hitelviszonyt megtestesítő értékpapír-sorozatok esetében kell alkalmazni.
 
+98. § (1) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított rendelkezéseit – a (2)–(6) bekezdésben foglaltak figyelembevételével – a rendelkezés hatálybalépésének napjától megszerzett jövedelemre és keletkezett adókötelezettségre kell alkalmazni.
+
+(2) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 29/D. §-a, 48. § (2) bekezdés e) pontja, (3b) és (3c) bekezdése, (4) bekezdés b) pontja, 49. § (1), (1a), (7) bekezdése – a (3) bekezdésben foglalt eltéréssel – a 2019. december 31-ét követően megszerzett bevétel adókötelezettségére alkalmazható első alkalommal.
+
+(3) Munkaviszonyból származó jövedelem esetében a (2) bekezdés szerinti rendelkezések
+
+- a) a 2019. december 31-ét követő időszakra elszámolt,
+- b) a 2019. évre vonatkozó, de 2020. január 10-ét követően kifizetett, vagy
+- c) a 2019. évet megelőző évre vonatkozó, de 2019. december 31-ét követően kifizetett
+
+bevétel adókötelezettségére alkalmazhatóak első alkalommal.
+
+(4) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 1. számú melléklet 2. pont 2.1. alpont 2.1.1. pontja 2016. február 11-étől alkalmazható.
+
+(5) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 77/A. § (2) bekezdés k) pontja, 1. számú melléklet 9. pont 9.5. alpont 9.5.1. pont d) alpontja 2019. január 1-jétől alkalmazható.
+
+(6) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 22. § (6a) bekezdése 2019. január 1-jétől alkalmazható, azzal, hogy a szociális hozzájárulási adóról szóló 2018. évi LII. törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvény hatálybalépése előtt hatályos 22. §-a alapján megállapított és megfizetett szociális hozzájárulási adót
+
+- a) a szociális hozzájárulási adó előlegének fizetésére kötelezett őstermelő a 2019. évi szociális hozzájárulási adókötelezettség megállapításakor megfizetett szociális hozzájárulási adó előlegként,
+- b) a szociális hozzájárulási adó előlegének fizetésére nem kötelezett, tételes költségelszámolást alkalmazó őstermelő 2019-ben elszámolható költségként,
+- c) az a) és b) pontban nem említett őstermelő a 2019. évre fizetendő szociális hozzájárulási adót csökkentő tételként
+
+veszi figyelembe a személyijövedelemadó-bevallásban.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
@@ -3048,7 +3075,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 2.1. a lakáscélú támogatás, ha az
 
-2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, az említett kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá a lakásépítési támogatásról szóló kormányrendelet és az otthonteremtési kamattámogatásról szóló kormányrendelet szerinti támogatás,
+2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, az említett kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló kormányrendelet, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet és az otthonteremtési kamattámogatásról szóló kormányrendelet szerinti támogatás,
 
 2.1.2. a lakáscélra nyújtott hitel törvény vagy törvény felhatalmazása alapján kiadott más jogszabály alapján elengedett része,
 
@@ -3488,6 +3515,18 @@ b)
 
 7.42. a babaváró támogatásról szóló kormányrendelet szerinti kamattámogatás és gyermekvállalási támogatás.
 
+7.43. a 2020-ban megrendezésre kerülő labdarúgó Európa-bajnoksággal összefüggésben az Európai Labdarúgó-szövetséggel (UEFA), az UEFA tulajdonában álló gazdasági társasággal, a rendező vagy részt vevő nemzeti sportszövetséggel munkaviszonyban vagy egyéb munkaviszony jellegű szerződéses jogviszonyban álló magánszemély (különösen: UEFA-tisztségviselők, versenybírók, sportolók, önkéntesek, sportszervezetek képviselői) részére adott juttatás (különösen: napidíj, bónusz, felmerült költségek megtérítése, pénzdíjak, átadott formaruhák, természetben biztosított ellátás, valamint a versenyekhez kapcsolódóan adott promóciós jellegű juttatások);
+
+7.44. a sportról szóló törvény szerint Magyarországon nyilvántartásba vett nemzetközi sportszövetség által
+
+a) a sportdiplomáciai kapcsolatok keretében biztosított szállás, utazás, vendéglátás és termék vagy szolgáltatás formájában adott ajándék,
+
+b) foglalkoztatott személy külföldi kiküldetésére tekintettel fizetett napidíj, és
+
+c) a nemzetközi sportszövetséggel foglalkoztatásra irányuló jogviszonyban nem álló sportolónak, edzőnek a sporttal kapcsolatos tevékenységével összefüggésben adott támogatás, ösztöndíj;
+
+7.45. a Kormány határozatával kiemelt nemzetközi sportrendezvénynek minősített esemény megrendezésével összefüggésben a kiemelt nemzetközi sportrendezvénynek a Kormány határozatában megjelölt szervezője vagy szervezői által a sportolóknak, a versenybíróknak, a magyar és külföldi sportszövetségek tisztségviselőinek és képviselőinek, a szervezőbizottsági tisztségviselőknek és az önkénteseknek adott napidíj, költségtérítés, formaruha, természetben biztosított ellátás, a sportolóknak fizetett pénzdíj, továbbá a versenyekhez kapcsolódó promóciós jellegű juttatások a Kormány határozatában meghatározott mértékig.
+
 8. A nem pénzben kapott juttatások közül adómentes:
 
 8.1. az állam, a helyi önkormányzat vagy az egyházi jogi személy forrásából nyújtott oktatási, egészségügyi és szociális ellátás (ideértve a gyermek, a tanuló, a beteg, illetve a szociális ellátásra jogosult részére ingyenesen vagy kedvezményesen természetben biztosított étkeztetést is) azzal, hogy az üdültetés és a gyógyüdültetés nem minősül egészségügyi, illetőleg szociális ellátásnak;
@@ -3660,17 +3699,17 @@ c) összege, ha a magánszemély a termőföldet regisztrációs számmal rendel
 
 azzal, hogy az a)-c) pont alkalmazásában az 5 vagy 10 éves időszak kezdőnapja a birtokbaadás napja, de legkésőbb az adásvételi szerződés keltét követő 12. hónap utolsó napja, vagy ha a termőföld harmadik féllel kötött szerződés alapján haszonbérletben van, a haszonbérleti szerződés lejártát követő december 31.;
 
-d) az a)-c) pontban nem említett esetben, ha az átruházás
+d) az a)–c) pontban nem említett esetben, ha az átruházás
 
-da) magánszemély részére birtok-összevonási céllal, vagy
+da) magánszemély részére birtokösszevonási céllal, vagy
 
-db) települési önkormányzat részére külön jogszabályban meghatározott szociális földprogram céljából, vagy
+db) települési önkormányzat részére jogszabályban meghatározott szociális földprogram céljából, vagy
 
-dc) a Nemzeti Földalap javára
+dc) a Nemzeti Földalap javára, vagy
+
+dd) – osztatlan közös tulajdonban levő földterület értékesítése esetén – valamely tulajdonostárs részére
 
 történik, a db) pont esetében azzal, hogy az átruházásról szóló szerződésnek tartalmaznia kell a szociális földprogramra vonatkozó, a rászorultságra tekintettel meghatározott feltételeket is szabályozó önkormányzati rendelkezés számát.
-
-A jövedelem megállapítására értelemszerűen e törvénynek az ingatlan, vagyoni értékű jog átruházásából származó jövedelemre vonatkozó rendelkezéseit kell alkalmazni.
 
 9.5.2. A 9.5.1. pontban meghatározottakat az eladó akkor alkalmazhatja, ha legkésőbb a bevallás benyújtásakor rendelkezik a vevő közjegyző által készített vagy ügyvéd által ellenjegyzett okiratba foglalt nyilatkozatával, amely tartalmazza a vevő természetes azonosító adatait, adóazonosító jelét, valamint a vevő kötelezettségvállalását arra vonatkozóan, hogy az adómentesség feltételeinek megfelel. A vevő nyilatkozatát az eladó az adó megállapításához való jog elévüléséig köteles megőrizni. A valótlan tartalmú nyilatkozat miatt keletkező adóhiányt és jogkövetkezményeit az állami adó- és vámhatóság a vevő terhére állapítja meg.
 

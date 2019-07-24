@@ -681,7 +681,7 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - 31. az a munkáltató, amely a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztat munkavállalót, e foglalkoztatási jogviszonnyal összefüggésben feltünteti az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér együttes – összegét, és a foglalkoztatás napját (napjait),
 - 32. a felszolgálási díj után fizetett nyugdíjjárulék alapját és összegét,
 - 33. a tagi munkavégzés esetén a szociális szövetkezet által a tagja után fizetendő nyugdíjjárulék alapját és összegét, valamint az egészségügyi szolgáltatási járulékot,
-- 34. a szociális hozzájárulási adó alapját és összegét,
+- 34. a szociális hozzájárulási adó alapját és összegét, ide nem értve a mezőgazdasági őstermelőt negyedévente terhelő szociális hozzájárulási adóelőleg alapját és összegét,
 - 35. szociális hozzájárulási adóból igénybe vett kedvezmény – a 24. pontban meghatározott kedvezmények kivételével – esetén a személy után a kedvezmény figyelembevétele nélkül számított szociális hozzájárulási adó alapját és összegét, továbbá a jogszabály szerint meghatározott szociális hozzájárulási adóból igénybevett kedvezmény jogcímét, alapját és összegét,
 - 36. önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára tekintettel kifizetett juttatások összegét.
 
@@ -982,7 +982,9 @@ a (3) bekezdésben foglalt időpontig megőrzi.
 
 (6) A természetes személy az iratait maga köteles megőrizni. Ha az adókötelezettség a természetes személy halála miatt szűnt meg, az iratokat a vele közös háztartásban élt hozzátartozója, ennek hiányában az örökös köteles az állami vagy az önkormányzati adóhatósághoz továbbítani.
 
-(7) Ha az adózó vagy a kapcsolt vállalkozása kölcsönös egyeztetési eljárást kezdeményez, az e §-ban előírt kötelezettségek a kölcsönös egyeztetési eljárás lezárultáig, vagy ha azután választott bírósági eljárás indul, a választott bírósági eljárás lezárultáig meghosszabbodnak. Ha az e §-ban előírtaknak a kifizető, a munkáltató köteles megfelelni, az őrzési kötelezettség az adóhatóság felhívására a kölcsönös egyeztetési eljárás, illetve a választott bírósági eljárás lezárultáig meghosszabbodik.
+(6a) A kettős adóztatás elkerüléséről szóló egyezmények hatálya alá tartozó jövedelmet vagy vagyont terhelő adókötelezettség megállapításához kapcsolódó iratokat az adózónak a nyilvántartás módjától függetlenül annak a naptári évnek az utolsó napjától számított tíz évig kell megőriznie, amelyben az adóról bevallást, adatbejelentést, bejelentést kellett volna tenni, illetve bevallás, adatbejelentés, bejelentés hiányában az adót meg kellett volna fizetni.
+
+(7) Ha az adózó vagy a kapcsolt vállalkozása a kettős adóztatás elkerüléséről szóló egyezmények hatálya alá tartozó jövedelmet vagy vagyont terhelő adókötelezettséget érintő vitarendezési eljárást kezdeményez, az e §-ban előírt kötelezettségek a vitarendezési eljárás lezárultáig, vagy ha azután választott bírósági eljárás indul, a választott bírósági eljárás lezárultáig meghosszabbodnak. Ha az e §-ban előírtaknak a kifizető, a munkáltató köteles megfelelni, az irat megőrzési kötelezettség az adóhatóság felhívására a vitarendezési eljárás, illetve a választott bírósági eljárás lezárultáig meghosszabbodik.
 
 (8) Az (1)–(6) bekezdésben foglalt kötelezettség az iratok eredeti példányára, vagy – ha azt jogszabály nem zárja ki – eredeti példány hiányában a jogszabályban előírt módon, elektronikus úton előállított hiteles másolatára vonatkozik. Az adóigazgatási eljárásban az irat eredeti példánya – ha annak megőrzését jogszabály nem írja elő, és adózó azzal nem rendelkezik – nem kérhető.
 
@@ -1424,7 +1426,7 @@ Az állami adó- és vámhatóság az ingatlan forgalmi értékének megállapí
 
 (3) A csoportos társasági adóalanyhoz történő csatlakozást engedélyező határozat ellen fellebbezésnek helye nincs.
 
-(4) A csoportos társasági adóalany tagja kiléphet a csoportos társasági adóalanyból. A csoportos társasági adóalanyból történő kilépést a kilépő csoporttag és a csoportképviselő által benyújtott közös kérelem alapján az állami adó- és vámhatóság engedélyezi. A csoporttagság az állami adó- és vámhatóság engedélyével, azon adóév utolsó napján szűnik meg, amelyben a kilépési kérelmet benyújtották.
+(4) A csoportos társasági adóalany tagja kiléphet a csoportos társasági adóalanyból. A csoportos társasági adóalanyból történő kilépést a kilépő csoporttag és a csoportképviselő által benyújtott közös kérelem alapján az állami adó- és vámhatóság engedélyezi.
 
 (5) A csoporttag jogutódlással történő megszűnését a megszűnésre vonatkozó bírósági döntés jogerőre emelkedését követő 15 napon belül a csoportképviselő az állami adó- és vámhatósághoz bejelenti.
 
@@ -1856,6 +1858,17 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 (1) Az adóhatóság negyedévenként, a tárgynegyedévet követő hó 15. napjáig – a támogatás ellenőrzésének és nyilvántartásának céljából – tájékoztatja az agrárpolitikáért felelős minisztert, a mezőgazdasági igazgatási szervet, valamint a mezőgazdasági és vidékfejlesztési támogatási szervet a kiutalt, valamint a visszatartási jog gyakorlása keretében visszatartott, illetve az Szja tv. 3. § 41. pontjában meghatározott és az Szja tv. 39. § (1) bekezdése alapján igénybe vett támogatás összegéről. Az adóhatóság a tájékoztatást adózónként, az adózók azonosítására alkalmas módon teljesíti.
 
 (2) Az adóhatóság a csekély összegű (de minimis) támogatások összegéről adózónként az adóbevallás határidejét követő kilencven napon belül adatot szolgáltat a kincstárnak, amely az adatokat a kincstári monitoring-rendszerben rögzíti.
+
+#### 133/A. § [GINOP támogatásokkal összefüggő adatszolgáltatás]
+
+(1) A kincstár megkeresésére a Gazdaságfejlesztési- és Innovációs Operatív Programból (a továbbiakban: GINOP) származó támogatások kihelyezésével összefüggő feladatai ellátásához az állami adó- és vámhatóság a következő adatokat havonként – a bevallás benyújtására előírt határidőt követő második hónap 15. napjáig – elektronikus úton átadja:
+
+- a) a Tbj. szerinti biztosítással járó munkaviszonyban álló foglalkoztatott magánszemély esetén a foglalkoztató nevét, adószámát, a foglalkoztatott természetes személyazonosító adatainak átadása nélkül biztosítási jogviszonyának kezdetét és végét, a biztosítási jogviszony szünetelésének kezdetét és végét, a teljes vagy részmunkaidőben történő vagy munkaidő-szervezési intézkedéssel csökkentett munkaidőben történő foglalkoztatásra vonatkozó adatot, a heti óraszámot, a foglalkoztatott munkaviszonyból származó jövedelmét és a munkáltatót terhelő közterheket,
+- b) az Szja tv. szerinti egyéni vállalkozó nevét, adószámát, biztosítási jogviszonyának kezdetét és végét, a biztosítási jogviszony szünetelésének kezdetét és végét, a vállalkozói kivét vagy az átalányban megállapított jövedelem havi összegét, a vállalkozó által fizetendő járulékok és szociális hozzájárulási adó havi összegét,
+- c) a kisadózó egyéni vállalkozó nevét, adószámát, biztosítási jogviszonyának kezdetét és végét, a biztosítási jogviszony szünetelésének kezdetét és végét, a fizetendő tételes adó havi összegét, fizetendő tételes adó havi egyenlegét,
+- d) a kisadózó vállalkozás nevét, adószámát, a főállású kisadózóként bejelentett tagjának nevét, biztosítási jogviszonyának kezdetét és végét, a kisadózó után fizetendő tételes adó havi összegét, a kisadózó után fizetendő tételes adó havi egyenlegét.
+
+(2) Az állami adó- és vámhatóság a kincstár megkeresésére évenként a GINOP-ból származó támogatások kihelyezésével összefüggő feladatai ellátásához – az adóbevallás, a bevételi nyilatkozat benyújtására előírt határidőt követő harmadik hónap utolsó napjáig – elektronikus úton átadja a társasági adóbevallásban szereplő árbevétel, valamint a kisadózó vállalkozások tételes adójáról szóló bevételi nyilatkozatában, bevallásában szereplő bevétel adatait.
 
 #### 134. § [Külön megállapodás a nemzetbiztonsági szolgálattal]
 
@@ -2633,13 +2646,17 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 Ha az adómegállapításhoz való jog elévülését követően az adóhatóság vagy a felettes szerv megállapítja, hogy az adómegállapítás részben vagy egészben jogszabálysértő, az adótartozás végrehajtásához való jog elévülési idején belül a jogszabálysértő adómegállapítás tekintetében az adóvégrehajtáshoz való jogot korlátozza vagy megszünteti.
 
-#### 205. § [Elévülés kölcsönös egyeztetési eljárásnál]
+#### 205. § [Elévülés nemzetközi vitarendezési eljárásnál]
 
-(1) Kettős adóztatás elkerüléséről szóló nemzetközi szerződés alapján – ha a nemzetközi szerződés másként nem rendelkezik – a kölcsönös egyeztetési eljárás lefolytatásának feltétele, hogy az eljárás megindítására irányuló kérelem vagy bármilyen arra utaló értesítés, amely az eljárás megindításának alapjául szolgál, a másik szerződő állam illetékes hatóságától az adómegállapításhoz való jog vagy az adó-visszatérítés iránti jog elévülési idején belül a magyar illetékes hatósághoz beérkezzen.
+(1) Európai uniós vitarendezési eljárás, adóegyezmények szerinti vitarendezési eljárás és választottbírósági egyezmény szerinti vitarendezési eljárás (a továbbiakban együtt: nemzetközi vitarendezési eljárás) iránti kérelem az adómegállapításhoz való jog vagy a költségvetési támogatás igényléséhez, illetve a túlfizetés visszaigényléséhez való jog elévülési idején túl is benyújtható.
 
-(2) A kölcsönös egyeztetési eljárás során az adóhatóság az elévülési időn túl is végezhet az eljárás lefolytatásához szükséges ellenőrzési cselekményeket.
+(2) Az (1) bekezdésétől eltérően a 2018. január 1-jét megelőzően kezdődő adómegállapítási időszakot érintő, az adóegyezmények szerinti vitarendezési eljárás vagy a választottbírósági egyezmény szerinti vitarendezési eljárás megindítására irányuló kérelem vagy panasz esetén – ha nemzetközi szerződés másként nem rendelkezik – az eljárás lefolytatásának feltétele, hogy a kérelem, a panasz vagy bármilyen arra utaló értesítés, amely az eljárás megindításának alapjául szolgál, a kérelmezőtől, az érintett személytől vagy a másik szerződő állam illetékes hatóságától az adómegállapításhoz való jog vagy a költségvetési támogatás igényléséhez, illetve a túlfizetés visszaigényléséhez való jog elévülési idején belül a magyar illetékes hatósághoz beérkezzen.
 
-(3) A kölcsönös egyeztetési eljárás eredményeként létrejött megállapodást azon adómegállapítási időszakok vonatkozásában is végre kell hajtani, amelyek a megállapodás megkötésének időpontjában már elévültek.
+(3) Nemzetközi vitarendezési eljárás során az adóhatóság az elévülési időn túl is végezhet az eljárás lefolytatásához szükséges ellenőrzési cselekményeket.
+
+(4) A nemzetközi vitarendezési eljárás eredményeként létrejött megállapodást, illetve meghozott határozatot azon adómegállapítási időszakok vonatkozásában is végre kell hajtani, amelyek a megállapodás megkötésének vagy a határozat meghozatalának időpontjában már elévültek.
+
+(5) A nemzetközi vitarendezési eljárást lezáró határozatában a magyar illetékes hatóság az adómegállapításhoz való jog elévülési idején túl is hozhat az adózó adókötelezettségét megállapító döntést a vitás kérdést eredményező vagy a későbbiekben ahhoz vezető intézkedésről szóló határozatban vizsgált időszakok tekintetében. Ha az adózó az európai uniós vitarendezési eljárásban vagy az adóegyezmények szerinti vitarendezési eljárásban az adóhatóság határozatában foglaltakat elfogadja, az adóhatóság az eredeti adókötelezettségek módosításáról szóló határozatában az adómegállapításhoz való jog elévülési idején túl is hozhat az adózó adókötelezettségét megállapító döntést a vitás kérdést eredményező vagy a későbbiekben ahhoz vezető intézkedésről szóló határozatban vizsgált időszakok tekintetében.
 
 ## ÖTÖDIK RÉSZ — JOGKÖVETKEZMÉNYEK
 
@@ -3478,6 +3495,10 @@ Az állami adó- és vámhatóság által 2018. január 1-jét megelőzően a te
 
 Az egyes pénzügyi tárgyú törvények módosításáról szóló 2019. évi XXVI. törvény hatálybalépése napján üzemeltetett automataberendezésekre vonatkozó, miniszteri rendeletben meghatározott adatokat az üzemeltető 2019. június 30-ig köteles az állami adó- és vámhatósághoz elektronikus úton bejelenteni, azzal, hogy az egyes pénzügyi tárgyú törvények módosításáról szóló 2019. évi XXVI. törvény hatálybalépése napját megelőzően már bejelentett – élelmiszer-értékesítést kezelőszemélyzet nélkül végző – automataberendezések üzemeltetésének megkezdését nem kell ismételten bejelenteni.
 
+#### 274/D. § [Átmeneti rendelkezés az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel megállapított rendelkezésekhez]
+
+E törvénynek az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel (a továbbiakban: Módtv.3) megállapított 78. § (6a) bekezdését a 2018. január 1-jén vagy azt követően kezdődő adóévekben szerzett jövedelmet vagy vagyont terhelő adókötelezettségek megállapításához kapcsolódó iratok tekintetében kell alkalmazni.
+
 #### 275. § [Az Európai Unió jogának való megfelelés]
 
 (1) E törvény 106. § (5) és (10) bekezdése, 107. § (5), (7) bekezdése és (8) bekezdés d) pontja, 108. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
@@ -3493,6 +3514,8 @@ Az egyes pénzügyi tárgyú törvények módosításáról szóló 2019. évi X
 - e) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottérték-adóvisszatérítés részletes szabályainak megállapításáról szóló, 2008. február 12-i 2008/9/EK tanácsi irányelv.
 
 (4) E törvénynek a Módtv.1.-gyel megállapított 117. § (1) bekezdés h) pontja a 2006/112/EK irányelvnek és a 2009/132/EK irányelvnek a szolgáltatásnyújtásra és a termékek távértékesítésére vonatkozó bizonyos hozzáadottértékadó-kötelezettségek tekintetében történő módosításáról szóló, 2017. december 5-i (EU) 2017/2455 tanácsi irányelvnek való megfelelést szolgálja.
+
+(5) E törvénynek a Módtv.3-mal megállapított 78. § (6a) és (7) bekezdése, valamint 205. §-a az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való megfelelést szolgálja.
 
 ### 1. melléklet az adózás rendjéről szóló 2017. évi CL. törvényhez
 
@@ -3622,7 +3645,7 @@ B) Az egyes adóbevallások határideje
 
 2.2. a természetes személyek jövedelemadójáról az adóév utolsó napján vállalkozási tevékenységet nem folytató természetes személynek, a vállalkozási tevékenységet folytató természetes személynek, a mezőgazdasági őstermelőnek és az általános forgalmi adó fizetésére kötelezett természetes személynek – ideértve a vállalkozási tevékenységét az adóév utolsó napján szüneteltető természetes személyt is – az adóévet követő év május huszadikáig,
 
-2.3. a társasági adóelőleg kiegészítés összegéről az adóév utolsó hónapja huszadik napjáig,
+2.3.
 
 2.4. a társasági adóról az adóévet követő ötödik hónap utolsó napjáig
 
@@ -3804,9 +3827,9 @@ fizeti meg, illetve ettől az időponttól igényelheti vissza.
 
 3.1. A társasági adó előlege
 
-3.1.1. Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóelőleget a negyedévet követő hó huszadik napjáig fizeti meg. Az adóév utolsó havi, negyedévi előlegét a Tao tv. szerinti előleg-kiegészítésre kötelezettek a 3.1.2. pontban előírt előleg-kiegészítéssel egyidejűleg teljesítik.
+3.1.1. Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóelőleget a negyedévet követő hó huszadik napjáig fizeti meg.
 
-3.1.2. Az adózónak a 2. melléklet B pont 2.3. alpontja szerint bevallott társasági adóelőleg-kiegészítést a tárgyév utolsó hónapjának huszadik napjáig kell megfizetnie.
+3.1.2.
 
 3.2. A társasági adó
 
