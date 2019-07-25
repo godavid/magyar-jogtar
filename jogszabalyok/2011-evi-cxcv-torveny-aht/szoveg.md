@@ -1795,7 +1795,7 @@ a kincstár számára.
 (3) Ha az adatszolgáltatás kötelezettje
 
 - a) adatszolgáltatása az adatszolgáltatás tárgyával kapcsolatos lényegesnek minősülő információt nem tartalmaz vagy tévesen mutat be, vagy
-- b) adatszolgáltatási kötelezettségét neki felróható okból nem, vagy késedelmesen teljesíti, vagy
+- b) adatszolgáltatási kötelezettségét – ide nem értve a kincstár érdekkörében felmerülő okot, vagy körülményt – nem, vagy késedelmesen teljesíti,
 - c) adatszolgáltatásából megállapításra kerül, hogy gazdálkodása során a 36. § (1) bekezdésében meghatározottakat megsértette
 
 a kincstár határozatban a Kormány rendeletében meghatározott mértékű bírságot szab ki.
@@ -1817,7 +1817,7 @@ kell kiszabni.
 
 (7) A kincstár jogosult az államháztartás központi alrendszerébe tartozó költségvetési szerv, az elkülönített állami pénzalap, a társadalombiztosítás pénzügyi alapja kezelő szerve, a központi kezelésű előirányzat kezelő szerve és a fejezeti kezelésű előirányzat kezelő szerv fizetési számláját a bírság összegével megterhelni.
 
-(8) A kincstár jogosult a helyi önkormányzattal szemben fennálló bírság befizetésére vonatkozó követelését elengedni, ha a bírság alapjául szolgáló körülmény a helyi önkormányzatnál a munkaszervezés vagy a pénzügyi-számviteli munkakört betöltő személyek hiánya miatt következett be, és a helyi önkormányzat igazolja, hogy a közös önkormányzati hivatalhoz csatlakozás vagy a közös önkormányzati hivatali feladatellátás javítása céljából a szükséges intézkedéseket megtette, és ezt az elmaradt adatszolgáltatások pótlása, a hibás adatszolgáltatások javítása, valamint legalább két egymást követő adatszolgáltatás tapasztalatai a kincstár megítélése szerint alátámasztják.
+(8)
 
 108/A. § (1) A Kormány rendeletben előírhatja, hogy az államháztartás központi alrendszerébe tartozó költségvetési szerv, a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve rendszeres adatszolgáltatást teljesítsen a költségvetési évben várhatóan felmerülő kiadásairól és bevételeiről, valamint kötelezettségvállalásairól, más fizetési kötelezettségeiről és követeléseiről a Kormány rendeletében meghatározott módon és gyakorisággal.
 
