@@ -301,12 +301,15 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - c) a jogszabályban meghatározott hatóság a 8. § (1) bekezdés h) pontjában megjelölt adatokról;
 - d) a parkolási igazolványt kiállító hatóság a 8/A. §-ban meghatározott adatokról;
 - e) a közlekedési hatóság elektronikus úton
-  - ea) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
-  - eb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól,
+  - ea)
+  - eb)
   - ec) a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a jármű-honosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól,
   - ed) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről;
 - f) a biztosító a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
-- g) a díjmentes úthasználatra, továbbá a közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosult az útdíj köteles elemi útszakaszok, és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatokról, valamint – a változástól számított 30 napon belül – azok változásáról.
+- g) a díjmentes úthasználatra, továbbá a közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosult az útdíj köteles elemi útszakaszok, és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatokról, valamint – a változástól számított 30 napon belül – azok változásáról;
+- h) a vizsgaközpont elektronikusan
+  - ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
+  - hb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól.
 
 14/A. § A közlekedési igazgatási hatóságot értesíti
 
@@ -399,11 +402,12 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
   - ab) a közúti közlekedés ellenőrzésére jogosult hatóságok a közúti közlekedési ellenőrzéssel kapcsolatos feladataik ellátásához;
 - b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével;
 - c) a közlekedési hatóság a 9. § (1) bekezdés a) és b) pontjában, a 9. § (1c) és (1d) bekezdésében, a 9. § (2) bekezdés a), d) és e) pontjában meghatározott nyilvántartási adatok kivételével
-  - ca) a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatai ellátásához a 8. §-ban meghatározott adatokat,
+  - ca) a közúti járművezető és közúti közlekedési szakember képzési, utánképzési és vizsgáztatási tevékenység ellenőrzésével és felügyeletével kapcsolatos feladatai ellátása tekintetében a 8. §-ban meghatározott adatokat,
   - cb) a jármű műszaki adatainak és alkalmasságának megállapításával kapcsolatos feladataik ellátásához a 9. §-ban meghatározott adatokat;
 - d) a közfeladatot ellátó személyek vagy szervezetek, továbbá a 19. §-ban nem nevesített egyéb hatóságok, állami vagy önkormányzati szervek a rájuk vonatkozó jogszabályban meghatározott célok és feltételek teljesülése esetén, az ott meghatározott adatokra vonatkozóan,
 - e) a Gfbt.-ben meghatározott biztosító és a Kártalanítási Számla kezelője díjmentesen a káreseménnyel érintett jármű Gfbt.-ben meghatározott Kártörténeti nyilvántartásba (a továbbiakban: kárnyilvántartás) történő vétele során, a károsult jármű rendszámának és alvázszámának, valamint magyarországi nyilvántartásba vétele tényének elektronikus ellenőrzése érdekében a 9. § (2) bekezdés a) pontjában foglalt adatokból a járműazonosító adatokat;
-- f) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pontjában, illetve 10. pontjában meghatározott kockázatok biztosítását – az erre vonatkozó engedély alapján – végző biztosító és a Kártalanítási Számla kezelője díjmentesen a gépjárműre vonatkozó biztosítási ajánlat elbírálása, illetve a kártérítési igények jogosságának megállapítása céljából a járműéletút-adatszolgáltatás igénybevételével a 24. § (3a) bekezdésében foglalt adatokat.
+- f) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pontjában, illetve 10. pontjában meghatározott kockázatok biztosítását – az erre vonatkozó engedély alapján – végző biztosító és a Kártalanítási Számla kezelője díjmentesen a gépjárműre vonatkozó biztosítási ajánlat elbírálása, illetve a kártérítési igények jogosságának megállapítása céljából a járműéletút-adatszolgáltatás igénybevételével a 24. § (3a) bekezdésében foglalt adatokat;
+- g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatainak ellátásához a 8. §-ban meghatározott adatokat.
 
 (3) A nyilvántartásból adatot igényelhet:
 
@@ -538,6 +542,20 @@ továbbítására jogosult.
 (2) A nyilvántartó a közlekedési igazgatási hatóság által egyedi ügyben igényelt adatlekérdezés esetén – az adatlekérdezést igénylő közlekedési igazgatási hatóság által meghatározott személy vezetési jogosultságával összefüggő és vezetői engedélyére vonatkozó adatok tekintetében – a Vezetői Engedélyek Európai Uniós Hálózata (RESPER) szoftveralkalmazásának igénybevételével, közvetlen hozzáférés útján történő automatizált keresést végez az Európai Unió más tagállama nemzeti vezetői engedély nyilvántartási adatállományaiban.
 
 (3) A nyilvántartó az automatizált keresés eredményéről az adatigénylő közlekedési igazgatási hatóságot haladéktalanul értesíti.
+
+### Automatizált keresés a 2018/1541 EU tanácsi rendelet alapján
+
+27/E. § (1) A nyilvántartó szerv, mint nemzeti kapcsolattartó pont a 904/2010/EU és a 2017/2454 EU rendeletnek a hozzáadottérték-adó területén történő közigazgatási együttműködés megerősítésére irányuló intézkedések tekintetében történő módosításáról szóló, 2018. október 2-i (EU) 2018/1541 tanácsi rendelet (a továbbiakban: Rendelet) alapján a hozzáadottérték-adó (a továbbiakban: héa) csalással kapcsolatos gyanú kivizsgálása vagy e csalások felderítése céljából történő adatigénylés teljesítéséhez biztosítja az Európai Unió más tagállamának kijelölt nemzeti kapcsolattartó pontja részére
+
+- a) a jármű teljes forgalmi rendszámát, vagy alvázszámát, és a keresett időpontot, vagy időtartamot tartalmazó adatigénylés alapján a megadott jármű vonatkozásában a 9. § (1) bekezdés a), b), d), e) pontjában, valamint a 9. § (2) bekezdés a), b), és g) pontjában meghatározott adatokhoz,
+- b) a természetes vagy jogi személy azonosító adatait és az időpontot tartalmazó adatigénylés alapján a megadott időpontban e személy tulajdonában vagy üzemben tartásában lévő járművek vonatkozásában a 9. § (1) bekezdés a), b), d), e) pontjában, valamint a 9. § (2) bekezdés a), b), és g) pontjában meghatározott adatokhoz elektronikus úton történő automatizált hozzáférést.
+
+(2) A nyilvántartó a héa-csalások kivizsgálására, felderítésére jogszabályban felhatalmazott elrendelő hatóságok
+
+- a) a jármű teljes forgalmi rendszáma, vagy alvázszáma, a keresett időpont, vagy időtartam, vagy
+- b) a természetes vagy jogi személy azonosító adatai, vagy héa azonosító száma, és az időpont megadásával elrendelt adatlekérdezése esetén az Európai Gépjármű és Vezetői Engedély Információs Rendszer (EUCARIS) szoftveralkalmazásának igénybevételével, közvetlen hozzáférés útján történő automatizált keresést biztosít az Európai Unió más tagállama nemzeti gépjármű-nyilvántartási adatállományában.
+
+(3) A (2) bekezdés szerinti hozzáférés a Rendeletben meghatározott Eurofisc-kapcsolattartó révén jön létre, aki az említett információkhoz való hozzáférést lehetővé tevő elektronikus rendszerben személyes felhasználói azonosítóval rendelkezik.
 
 ### IV. Fejezet — ADATVÉDELEM
 
@@ -700,6 +718,7 @@ való megfelelést szolgálja.
 (3) E törvény
 
 - a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatoknak a Schengeni Információs Rendszer második generációjához (SIS II) való hozzáféréséről szóló, 1986/2006/EK rendeletnek, továbbá
-- b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének
+- b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének,
+- c) a 904/2010/EU és az (EU) 2017/2454 rendeletnek a hozzáadottérték-adó területén történő közigazgatási együttműködés megerősítésére irányuló intézkedések tekintetében történő módosításáról szóló, 2018. október 2-i (EU) 2018/1541 tanácsi rendelet
 
 végrehajtását szolgálja.

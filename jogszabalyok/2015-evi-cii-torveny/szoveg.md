@@ -11,7 +11,7 @@ Az Országgyűlés a turisztikai, kedvtelési és sportolási célú, valamint a
 1. § A törvény hatálya
 
 - a) a Magyarország területén található, vasútnak nem minősülő egyéb kötöttpályás közlekedési rendszerekre, a vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenységre, valamint az azzal összefüggő jogokra és kötelezettségekre,
-- b) a Magyarország területén folytatott vasúti egyéb kötöttpályás közlekedést működtető, illetve az abban részt vevő természetes személyekre és szervezetekre, valamint
+- b) a Magyarország területén folytatott vasútnak nem minősülő egyéb kötöttpályás közlekedést működtető, illetve az abban részt vevő természetes személyekre és szervezetekre, valamint
 - c)
 
 terjed ki.
@@ -206,9 +206,9 @@ ingatlan.
 
 18/A. § (1) A vasúti igazgatási szerv feladat- és hatáskörébe tartozik:
 
-- a) az 5. alcím szerinti bejelentések vizsgálata, hiánypótlásra felszólítás, a jogszabályszerű bejelentésre vonatkozó követelményeket nem teljesítő személy vagy szervezet tevékenységének felfüggesztése, a bejelentésre vonatkozó követelményeket nem teljesítő személyre vagy szervezetre vonatkozóan bírság kiszabása, végső soron a tevékenységtől való eltiltás,
+- a) az 5. alcím szerinti bejelentések vizsgálata, hiánypótlásra felszólítás, a bejelentésre vonatkozó követelményeket nem teljesítő személyre vagy szervezetre vonatkozóan bírság kiszabása, a jogszabályszerű bejelentésre vonatkozó követelményeket nem teljesítő személy vagy szervezet tevékenységének megtiltása,
 - b) nyilvántartás vezetése az egyéb kötöttpályás tevékenységeket végző személyekről és szervezetekről,
-- c) az egyéb kötöttpályás tevékenységet végző személyekről és szervezetekről felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos kormányrendeletben meghatározott részletes szabályoknak való folyamatos megfelelés ellenőrzése, a feltételek nem teljesítése esetén az érintett tevékenység felfüggesztése, megtiltása,
+- c) az egyéb kötöttpályás tevékenységet végző személyekről és szervezetekről felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos kormányrendeletben meghatározott részletes szabályoknak való folyamatos megfelelés ellenőrzése, a feltételek nem teljesítése esetén az érintett tevékenység megtiltása,
 - d) az egyéb kötöttpályás közlekedési tevékenységek piacának nyomon követése, elemzése, értékelése
 - e) jogszabályban meghatározott adatgyűjtési, adatszolgáltatási feladatok ellátása,
 - f) a miniszter részére a miniszter által előírt adatszolgáltatások teljesítése,
@@ -224,7 +224,7 @@ ingatlan.
 
 (6) Az ügyintézési határidő a vasúti igazgatási szerv eljárásában hat hét.
 
-(7) A vasúti igazgatási szerv az (1) bekezdés a) és c) pontja szerinti eljárásaiban hozott határozatait a honlapján közhírré teszi.
+(7) A vasúti igazgatási szerv az (1) bekezdés a) és c) pontja szerinti eljárásaiban hozott határozatairól szóló közleményt a honlapján közhírré teszi.
 
 #### 13. A hatósági ellenőrzés, bírság
 
@@ -272,9 +272,9 @@ terjedhet jogsértésenként.
 
 20/A. § (1) A tevékenység végzését szüneteltető személy vagy szervezet kivételével a 6. § (1) bekezdése szerinti tevékenységet végző személynek vagy szervezetnek a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatban az egyéb kötöttpályás közlekedési tevékenységet végző személyek és szervezetek kötelező baleseti kárfedezeti képességének biztosításának részletes szabályairól szóló kormányrendeletben meghatározott részletes szabályoknak folyamatosan meg kell felelnie.
 
-(2) Ha a vasúti igazgatási szerv ellenőrzése során megállapítja, hogy az (1) bekezdés szerinti személy vagy szervezet a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételnek nem felel meg, a vasúti igazgatási szerv a megfelelés igazolásáig, legfeljebb hat hónapra felfüggeszti a tevékenység folytatását, és ennek tényét az egyéb kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában rögzíti.
+(2) Ha a vasúti igazgatási szerv ellenőrzése során megállapítja, hogy az (1) bekezdés szerinti személy vagy szervezet a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételnek nem felel meg, a vasúti igazgatási szerv a megfelelés igazolásáig, legfeljebb hat hónapra megtiltja a tevékenység folytatását, és ennek tényét az egyéb kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában rögzíti.
 
-(3) A vasúti igazgatási szerv a tevékenység folytatását megtiltja, és ennek tényét rögzíti az egyéb kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában. Ha a személy vagy szervezet felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételek nem teljesítése a személy vagy szervezet által végzett valamennyi tevékenységet érinti, akkor a személyt vagy szervezetet törli, ha a személy vagy szervezet a feltételeknek való megfelelést a tevékenységet felfüggesztő határozat jogerőre emelkedését követő hat hónapon belül nem igazolja.
+(3) A vasúti igazgatási szerv a tevékenység folytatását megtiltja, és ennek tényét rögzíti az egyéb kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában – továbbá, ha a személy vagy szervezet felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételek nem teljesítése a személy vagy szervezet által végzett valamennyi tevékenységet érinti, akkor a személyt vagy szervezetet a nyilvántartásból törli –, ha a személy vagy szervezet a feltételeknek való megfelelést a tevékenységet megtiltó határozat véglegessé válását követő hat hónapon belül nem igazolja.
 
 (4) A 18/A. § (1) bekezdés a) pontjában meghatározott bírság legmagasabb összege 500 ezer forint.
 
