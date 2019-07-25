@@ -62,6 +62,8 @@ látja el.
 
 (4) A miniszter látja el – az általa kijelölt szervezet útján – a vízi közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat. A kijelölt szervezet számára – a külön jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
 
+(5) A hajózási képesítések megszerzéséhez szükséges vizsgáztatást a Kormány által rendeletben kijelölt, kizárólagos állami tulajdonban álló vagy az általa alapított nonprofit szervezet (a továbbiakban: vizsgaközpont) végzi.
+
 ### Az önkormányzatok feladatai
 
 3. § (1) A települési, a fővárosban a fővárosi önkormányzat feladata
@@ -372,15 +374,61 @@ lajstromban tartja nyilván.
 
 (4)–(5)
 
-26/B. § (1) A külön jogszabályban meghatározott hatósági vizsgát a hajózási hatóság által megbízott vizsgabizottság előtt kell letenni.
+26/B. § (1) A hajózási képesítésekről szóló miniszteri rendeletben meghatározott vizsgát a vizsgaközpont által meghatározottak szerint kell lefolytatni. A vizsgáztatás során vizsgabiztosként csak olyan személy vehet részt, akinek a tevékenységét a hajózási hatóság engedélyezte, büntetlen előéletű, és nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(2) A vizsgabizottság tagja (a továbbiakban: vizsgabiztos) az lehet, akit a hajózási hatóság a Vizsgabiztosok Névjegyzékébe felvett. A Vizsgabiztosok Névjegyzéke a vizsgabiztosi tevékenységre vonatkozó adatok, valamint a vizsgatárgyakra és képesítésekre vonatkozó adatok tekintetében, amelyekre a vizsgabiztos kijelölhető, közhiteles hatósági nyilvántartásnak minősül.
+(2) A hajózási hatóság a vizsgabiztosokról Vizsgabiztosi Névjegyzéket (a továbbiakban e § alkalmazásában: névjegyzék) vezet. A névjegyzék – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza az alábbi adatokat:
 
-(3) Nem vehető fel a Vizsgabiztosok Névjegyzékébe az a személy, aki büntetett előéletű.
+- a) természetes személyazonosító adatok,
+- b) a névjegyzékbe vett személy lakcíme és elérhetőségei (értesítési cím, telefonszám, e-mail-cím),
+- c) nyilvántartásba vétel száma, időpontja,
+- d) nyilvántartásba vétel alapját képező engedélyező döntés kelte, száma.
 
-(4)–(5)
+(3) A névjegyzék a (2) bekezdés a), c) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
-(6) A hajózási hatóság a vizsgabiztosi tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vizsgabiztos büntetlen előéletű-e.
+(4) A hajózási hatóság a vizsgabiztosi tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a vizsgabiztos büntetlen előéletű-e.
+
+(5) A vizsgabiztosi tevékenység végzésére jogosító engedélyt a hajózási hatóság visszavonja, és a vizsgabiztost a névjegyzékből törli, ha:
+
+- a) az engedélyezés feltételei már nem állnak fenn,
+- b) kötelező továbbképzésen nem vett részt vagy nem tett sikeres vizsgát,
+- c) a névjegyzékbe felvett személy elhalálozott,
+- d) a névjegyzékbe felvett személy ezt kérelmezi, vagy
+- e) a vizsgabiztosi tevékenységre – a hajózási képesítésekről szóló rendeletben – meghatározott rendelkezéseket súlyosan vagy ismételten megsérti.
+
+(6) Az (5) bekezdés e) pontja szerinti esetben a volt vizsgabiztos az engedély visszavonását kimondó döntés véglegessé válását követő 5 éven belül nem kaphat újabb vizsgabiztosi engedélyt.
+
+26/C. § (1) A hajózási képesítő vizsgára felkészítő tanfolyamon oktatóként (a továbbiakban: oktató) az vehet részt, aki büntetlen előéletű és akinek a tevékenységét a hajózási hatóság engedélyezte.
+
+(2) A hajózási hatóság az oktatókról névjegyzéket vezet. A névjegyzék – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza az alábbi adatokat:
+
+- a) természetes személyazonosító adatok,
+- b) a névjegyzékbe vett személy lakcíme és elérhetőségei (értesítési cím, telefonszám, e-mail-cím),
+- c) nyilvántartásba vétel száma, időpontja,
+- d) nyilvántartásba vétel alapját képező engedélyező döntés kelte, száma.
+
+(3) A névjegyzék a (2) bekezdés a), c) és d) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
+(4) A hajózási hatóság az oktatói tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az oktató büntetlen előéletű-e.
+
+(5) Az oktatói tevékenység végzésére jogosító engedélyt a hajózási hatóság visszavonja és az oktatót, a névjegyzékből törli, ha:
+
+- a) az engedélyezés feltételei már nem állnak fenn,
+- b) a gyakorlati oktató nem rendelkezik a vízijármű kategóriájának megfelelő és érvényes képesítő okmánnyal,
+- c) kötelező továbbképzésen nem vett részt vagy nem tett sikeres vizsgát,
+- d) a névjegyzékbe felvett személy elhalálozott,
+- e) a névjegyzékbe felvett személy ezt kérelmezi, vagy
+- f) az oktatói tevékenységre – a hajózási képesítésekről szóló rendeletben – meghatározott rendelkezéseket súlyosan vagy ismételten megsérti.
+
+(6) Az (5) bekezdés f) pontja szerinti esetben a volt oktató az engedély visszavonását kimondó döntés véglegessé válását követő 5 éven belül nem kaphat újabb oktatói engedélyt.
+
+26/D. § (1) Az e törvény felhatalmazása alapján kiadott rendeletben kijelölt felügyeleti szerv hatósági ellenőrzés keretében ellenőrzi a vizsgaközpont e törvény és annak felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó tevékenységének jogszerűségét.
+
+(2) A felügyeleti szerv az ellenőrzés során a vizsgaközpont e törvény hatálya alá tartozó tevékenységeire vonatkozó adatbázisaiba betekinthet, az ott tárolt adatokról, listákról másolatot vagy feljegyzést készíthet. Az így tudomására jutott személyes adatokat a felügyeleti szerv a hatósági ellenőrzési eljárás lezárását követő egy év elteltével törli.
+
+(3) Ha a felügyeleti szerv a lefolytatott vizsgálat alapján megállapítja, hogy a vizsgaközpont nem a jogszabályoknak megfelelően végzi a tevékenységet, az alábbi jogkövetkezményeket alkalmazhatja:
+
+- a) a figyelmeztetést tartalmazó döntésében felhívja a vizsgaközpont figyelmét a kötelezettségei teljesítésére és határidő tűzésével kötelezi a jogsértés megszüntetésére, vagy
+- b) bírságot szab ki, amelynek mértéke 10 millió forintig terjedhet, amely az államháztartás központi alrendszerének bevételét képezi.
 
 27. § Az úszólétesítmény személyzete vezetőből – továbbá az úszólétesítmény méretétől és rendeltetésétől függően – tisztekből, legénységből és segédszemélyzetből áll.
 
@@ -673,6 +721,8 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 - h)
 
 kezeli.
+
+(4a) A (4) bekezdés a) és b) pontjában foglalt adatok kezelésére és nyilvántartására az ezen törvényben, valamint a hajózási képesítésekről szóló rendeletben meghatározott vizsgáztatási tevékenységével összefüggésben a vizsgaközpont is jogosult a vizsga letételét követő 15 napig.
 
 (5) A hajózási hatóság a büntetett előéletre, a foglalkozástól eltiltásra vagy a járművezetéstől eltiltásra vonatkozóan kezelt adatot
 
@@ -1229,7 +1279,10 @@ kezeli.
 - n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak,
 - o) a hajózási bírság mértékének és kivetése szabályainak,
 - p) a kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítése, használatbavétele, üzemben tartása és megszüntetése részletes szabályainak,
-- q) egyes hajózási hatósági eljárások részletes szabályainak
+- q) egyes hajózási hatósági eljárások részletes szabályainak,
+- r) a vizsgaközpont kijelölésének,
+- s) a vizsgaközpont tevékenysége tekintetében a felügyeleti szervének, a felügyeleti szerv feladat- és hatáskörének, illetékességének, továbbá működési rendjének és eljárásának,
+- t) a vizsgaközpont felügyeleti szerve által kiszabható bírság kiszabása részletszabályainak
 
 rendeletben történő megállapítására.
 
@@ -1260,7 +1313,8 @@ rendeletben történő megállapítására.
 - 23. a rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadása részletes szabályainak,
 - 24. a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel egyetértésben kiadott,
 - 25. az úszólétesítményeken történő elsősegélynyújtás, valamint az egyes úszólétesítményeken az orvosi szolgálat rendszeresítése szabályainak és az ezekhez szükséges személyi és tárgyi feltételek biztosításának az egészségügyért felelős miniszterrel egyetértésben kiadott,
-- 26. a 2. § (4) bekezdésében meghatározott szervezet és a szervezet által ellátandó, vízi közlekedéssel összefüggő kutatási, fejlesztési és koordinációs feladatok
+- 26. a 2. § (4) bekezdésében meghatározott szervezet és a szervezet által ellátandó, vízi közlekedéssel összefüggő kutatási, fejlesztési és koordinációs feladatok,
+- 27. a tengeri halászati ágazat munkafeltételeinek
 
 rendeletben történő megállapítására.
 
@@ -1291,6 +1345,10 @@ rendeletben történő megállapítására.
 (7) Úszólétesítmény nyilvántartásba vételére és üzemképességére vonatkozóan e törvény hatálybalépését megelőzően kiállított okiratok a legközelebbi időszakos üzemképességi vizsgálatig érvényesek.
 
 (8) Ha a hajózási hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+89/A. § (1) Az e törvénynek a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi LXVII. törvénnyel (a továbbiakban: Módtv.) megállapított 26/B. § (1) bekezdése szerinti névjegyzékben a Módtv. által megállapított 26/B. § (1) bekezdés hatálybalépésének napján szereplő vizsgabiztost úgy kell tekinteni, hogy a vizsgabiztosi tevékenység folytatásához engedéllyel rendelkezik. A Módtv. által megállapított 26/C. § (1) bekezdés hatálybalépésének napjáig hajózási képesítő vizsgára felkészítő tanfolyamon oktatóként szereplő oktatót úgy kell tekinteni, hogy az oktatói tevékenység folytatásához engedéllyel rendelkezik.
+
+(2) Az e törvénynek a Módtv. által megállapított 2. § (5) bekezdése, valamint a 26/B. § (1) bekezdése szerinti vizsgaközponti feladatokat a 88. § (1) bekezdés r) pontjában foglalt felhatalmazás alapján kiadott kormányrendelettel történő vizsgaközponti kijelölés hatálybalépéséig a hajózási hatóság végzi.
 
 90. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

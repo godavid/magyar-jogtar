@@ -42,18 +42,20 @@ terjed ki.
 - l) az állami tulajdonú kereskedelmi repülőterek és a nem állami tulajdonú repülőterek létesítésének engedélyezése és szakmai felügyelete;
 - m) a légiforgalmi irányító szakszemélyzet képzéséről való gondoskodás;
 - n) a légiközlekedéssel összefüggő tudományos kutatások koordinálása;
-- o) a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerében kidolgozott teljesítménytervek elfogadása és az Európai Bizottság számára történő elküldése.
+- o) a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerében teljesítménytervek kidolgozása;
+- p) a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerében kidolgozott teljesítménytervek elfogadása és az Európai Bizottság számára történő elküldése.
 
 (2) Az (1) bekezdésnek
 
 - a) az a), a b), az e) és a g) pontjaiban említett feladatokat a Kormány;
-- b) a d), az l), az n) és az o) pontjaiban felsorolt feladatokat a közlekedésért felelős miniszter (a továbbiakban: a miniszter);
+- b) a d) és a p) pontban meghatározott feladatot a közlekedésért felelős miniszter (a továbbiakban: a miniszter);
 - c)
 - d) az f) pontjában említett feladatot – a honvédelemért felelős miniszter által a légtér-szuverenitás védelme érdekében ellátott légvédelmi készenléti légtérfelügyelet kivételével – a rendészetért felelős miniszter és a közlekedésrendészetért felelős miniszter együttesen
 - e) a h) pontjában említett feladatot a honvédelemért felelős miniszter a miniszterrel, a rendészetért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel együttesen;
 - f) az i) és az m) pontjában említett feladatot a miniszter a honvédelemért felelős miniszterrel együttesen;
 - g) a j) pontjában említett feladatot a miniszter, a környezetvédelemért felelős miniszter, valamint a honvédelemért felelős miniszter együttesen;
 - h) a k) pontjában említett feladatot a honvédelemért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter és az egészségügyért felelős miniszterrel együttesen
+- i) a c), az l), n) és az o) pontjaiban felsorolt feladatokat a légiközlekedési hatóság
 
 látja el.
 
@@ -72,6 +74,8 @@ látja el.
 (1d) A légiközlekedési hatóság eljárásaiban hozott döntés akkor is módosítható vagy visszavonható, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
 
 (1e) Az ügyfél az adatok megjelölésével kérheti az iratbetekintési jog korlátozását üzleti és más méltányolható magánérdekének védelmében. A hatóság a kérelemnek – a körülmények körültekintő mérlegelése alapján – akkor ad helyt, ha az adatok megismerésének hiánya az iratbetekintésre jogosultakat nem akadályozza jogaik gyakorlásában. Ha a hatóság hivatalból nem tudja megállapítani, hogy az iratbetekintési kérelem benyújtásakor az iratbetekintés korlátozásának az okai fennállnak-e, az üzleti és más méltányolható magánérdek alapján védelemre jogosultat nyilatkozattételre hívja fel. Az iratbetekintés nem tagadható meg, ha a jogosult határidőben nem nyilatkozik.
+
+(1f) A légiközlekedési hatóság eljárása felfüggeszthető, ha az előkérdés más szerv hatáskörébe tartozik, vagy a légiközlekedési hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
 
 (2) Az állami célú légiközlekedéssel összefüggő hatósági feladatokat katonai légügyi hatóság látja el.
 
@@ -104,7 +108,7 @@ látja el.
 - b) a repülőtér zajgátló védőövezetének kijelölésére irányuló,
 - c) a légiközlekedési szakszemélyzet szakirányú képzéséhez, vizsgáztatásához és értékeléséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló,
 - d) repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló,
-- e) a léginavigációs szolgálatok tanúsítására irányuló, valamint hatósági eljárásokban,
+- e) a léginavigációs szolgálatok tanúsítására, valamint felügyeletére irányuló, valamint hatósági eljárásokban,
 - f) a repülés-egészségügyi központok engedélyeinek kiadására és módosítására irányuló hatósági eljárásokban,
 - g) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér esetében a harmadik fél részére történő földi kiszolgálást végzők, valamint a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásokban,
 - h) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölésére irányuló hatósági eljárásokban,
@@ -233,7 +237,15 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 (9) Az (1)–(3) bekezdésben meghatározott határozatokat a légiközlekedési hatóság a honlapján, a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi, valamint az (1) bekezdés szerinti határozatot az Európai Repülésbiztonsági Ügynökségnek tájékoztatás céljából megküldi.
 
-(10)
+(10) A légiközlekedési hatóság honlapján
+
+- a) közzéteszi légiközlekedési szakterület szerinti csoportosításban a 2018/1139 EU európai parlamenti és tanácsi rendeletben, valamint annak végrehajtási rendeleteiben meghatározott, és a minimális megfelelési követelményekkel, nemzetközi útmutatókkal összefüggő általános és egyedi jellegű tájékoztatókat, iránymutatásokat, minimális követelményeket;
+- b) közzéteszi a légiközlekedési szakterület szerinti csoportosításban az 1971. évi 25. törvényerejű rendelettel kihirdetett Chicagói Egyezmény függelékeihez szorosan kapcsolódó, megfelelő végrehajtásukhoz szükséges ICAO dokumentumokban foglalt részletes műszaki követelmények azon részét, amelyet eljárásai tekintetében e törvény, valamint a vonatkozó jogszabályok alapján figyelembe vesz;
+- c) közzéteszi az Lt. 51. §-ában meghatározott a légiközlekedési terep és akadály adatbázis elkészítéséhez és fenntartásához szükséges műszaki követelményeket.
+
+(11) A légiközlekedési hatóság e törvény alapján meghatározott feltételek jogszerű teljesítése, valamint a repülésbiztonság megfelelő szintjének biztosítása érdekében teljesíti jogszabályokban meghatározott közzétételi kötelezettségét.
+
+(12) A légiközlekedési hatósági eljárásban részt vevők a (10) bekezdésben meghatározott, a légiközlekedési hatóság honlapján erre a célra létrehozott felületen közzétett – a jogszabályokkal összhangban kialakított – műszaki és szakmai követelményeket betartva kötelesek eljárni.
 
 3/D. § (1)
 
@@ -268,7 +280,7 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 ### A magyar légtér
 
-4. § A magyar légtérben az állam léginavigációs, távközlési és légtér-ellenőrzési szolgálatot lát el.
+4. § A magyar légtérben az állam – a magyar légtér légiközlekedés céljára történő kijelöléséről, valamint a légiforgalmi szolgálatok ellátásának szabályairól szóló jogszabály rendelkezéseinek megfelelően – léginavigációs, távközlési és légtér-ellenőrzési szolgálatot lát el.
 
 5. § (1) A miniszter a honvédelemért felelős miniszterrel — valamint a b) pont ba) alpontjában említett esetben a környezetvédelemért felelős miniszterrel is — egyetértésben rendeletben jelöli ki a magyar légtérnek
 
@@ -826,6 +838,8 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 (5) A 139/2014/EU bizottsági rendelet hatálya alá tartozó repülőterek, állami repülések céljára szolgáló repülőterek, valamint közös felhasználású repülőterek esetében legalább a repülőtér területét magába foglaló biztonsági és zajgátló védőövezetet, vagy fokozottan zajos területet kell kijelölni.
 
+(6) A 2018/1139 EU európai parlamenti és tanácsi rendelet 33. cikkében meghatározott alapvető követelményeket alkalmazni kell azon repülőtérre, amely a 2018/1139 EU európai parlamenti és tanácsi rendelet 2. cikk (7) bekezdésében meghatározott mentességet kapott, és a közös felhasználású repülőtérre, amennyiben az ilyen repülőteret megnyitják a nyilvánosság számára.
+
 37/A. § A leszállóhely nem nyilvános, a légijármű fel- és leszállására meghatározott ideig szolgáló terület, amelynek létesítésének engedélyezésére vonatkozó szabályokat a Kormány rendeletben állapítja meg.
 
 38. § (1) Repülőtér olyan helyen létesíthető, úgy kell megépíteni, és a légiközlekedés biztonságát szolgáló berendezésekkel ellátni, hogy megfeleljen azoknak a feltételeknek, amelyek lehetővé teszik az alkalmazás célja szerint meghatározott fajtájú légijárművek meghatározott körülmények közötti biztonságos fel- és leszállását, továbbá a repülőtéren való tartózkodását.
@@ -952,15 +966,20 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 50. § A repülőtéren a biztonságos használat érdekében külön jogszabályban meghatározott szolgálatokat (légiforgalmi-, repülőtéri koordinációs-, repülésmeteorológiai-, tűzoltó-, mentő-, elsősegélynyújtó-, repülőegészségügyi-, műszaki-mentő-, rendőri-, repülésvédelmi-, közegészségügyi- stb. szolgálat), továbbá távközlő-, rádiónavigációs-, fénytechnikai- stb. berendezéseket kell működtetni.
 
-50/A. § (1) A nyilvános repülőtér üzemben tartója köteles
+50/A. § (1) A repülőtér üzemben tartója köteles
 
 - a) a repülőtér futópályáját és az egyéb közlekedési területeket olyan állapotban tartani, ami a légi, valamint a földi járművek és a személyek biztonságos közlekedését és tartózkodását lehetővé teszi;
 - b) a légiközlekedés védelmében a jogszabályban meghatározottak szerint részt venni;
 - c) a repülőtéren esetleg előforduló balesetek következményeinek felszámolásáról gondoskodni, a végrehajtás feltételeit biztosítani;
-- d) a repülőteret a meghirdetett működési időben a meghirdetett működési feltételek szerint szabályosan igénybe venni szándékozó légi járművek használatára bocsátani;
-- e) a meghirdetett működési időben az előírt szolgálatok és berendezések működését fenntartani, a légiközlekedésben részt vevők biztonságához szükséges intézkedéseket megtenni.
+- d)
+- e)
 
-(2) A repülőtér üzemben tartója repülőtérrendben szabályozza:
+(1a) A nyilvános repülőtér üzemben tartója az (1) bekezdésben foglaltakon túl:
+
+- a) a repülőteret a meghirdetett működési időben a meghirdetett működési feltételek szerint szabályosan igénybe venni szándékozó légi járművek használatára bocsátja;
+- b) a meghirdetett működési időben az előírt szolgálatok és berendezések működését fenntartja, a légiközlekedésben részt vevők biztonságához szükséges intézkedéseket megteszi.
+
+(2) (EU) 2018/1139 parlamenti és tanácsi rendelet hatálya alá nem tartozó repülőtér üzemben tartója repülőtérrendben szabályozza:
 
 - a) a légi járművek közlekedését a repülőtéren,
 - b) a gyalogosok és a járművek közlekedését a repülőtéren,
@@ -968,13 +987,27 @@ vagy légiközlekedéssel összefüggő tevékenység
 - d) a személyek és gépjárművek repülőtérre való be- és kiléptetését,
 - e) a repülőtér zajcsökkentésére vonatkozó eljárásokat.
 
-(3) A repülőtérrendet – az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér kivételével – a légiközlekedési hatóság hagyja jóvá.
+(2a) A 2018/1139 EU európai parlamenti és tanácsi rendelet hatálya alá tartozó repülőterek esetében – ideértve azokat a repülőtereket, amelyek a 2018/1139 EU európai parlamenti és tanácsi rendelet 2. cikk (7) bekezdésében foglalt mentesség alá esnek – a repülőtér üzembentartója repülőtéri kézikönyvben szabályozza a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 2014. február 12-i 139/2014/EU bizottsági rendeletben foglalt tartalmi követelményeket.
+
+(2b) A repülőtér üzemben tartója a (2a) bekezdésben meghatározott repülőtéri kézikönyvtől elkülönült környezetvédelmi kézikönyvben szabályozza a repülőtéri zaj csökkentésére vonatkozó intézkedéseit, és azt a nyilvánosság számára elérhetővé teszi.
+
+(2c) A (2a) bekezdésben foglalt kézikönyvet és annak jóváhagyás-köteles módosításait a légiközlekedési hatóság hagyja jóvá.
+
+(2d) A (2a)–(2c) bekezdésben meghatározottakat a (2a)–(2c) bekezdés hatálybalépésekor repülőtéri kézikönyvvel és repülőtérrenddel egyaránt rendelkező repülőterekre is alkalmazni kell azzal, hogy a repülőtér repülőtérrendjének kivezetésére legkésőbb 2020. február 28. napjáig kerüljön sor.
+
+(3) A repülőtérrendet és annak módosításait – az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér kivételével – a légiközlekedési hatóság hagyja jóvá.
 
 (3a) Az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér repülőtérrendjét a katonai légügyi hatóság hagyja jóvá.
 
 (4) A repülőtérrendben foglalt szabályok, továbbá a légijárművek repülőtéren és a repülőtér körzetének légterében való közlekedésének szabályozására vonatkozó előírások megtartását a légiközlekedési hatóság – állami repülések céljára szolgáló repülőtér esetében a katonai légügyi hatóság és közös felhasználású repülőtér esetében a katonai légügyi hatóság a légiközlekedési hatóság, mint szakhatóság bevonásával – ellenőrzi. A rendelkezések megszegőit figyelmezteti. A légiközlekedési hatóság – állami repülések céljára szolgáló repülőtér és közös felhasználású repülőtér tekintetében a katonai légügyi hatóság – az előírásokat ismételten megszegőt a repülőtér használatában, illetve tevékenységében korlátozza vagy attól meghatározott időre eltiltja.
 
-51. § (1) A repülőtér körzetében, valamint külön jogszabályban meghatározott egyéb térségekben lévő olyan létesítményeket, berendezéseket és vezetékeket, amelyek helyzetüknél vagy magasságuknál fogva kiemelkednek a környezetükből és a légiközlekedés biztonságát veszélyeztethetik, akadályjelzéssel kell ellátni. Az ilyen jelzéseket
+50/B. § (1) A nyilvános repülőtér és azon polgári célú nem nyilvános repülőtér esetében, amelyen műszeres repülési vagy különleges látvarepülési eljárásokat tettek közzé, a repülőtér körüli légtér akadálymentességének biztosítása érdekében a repülőtér üzembentartója akadálykorlátozási felületeket jelöl ki.
+
+(2) Az akadálykorlátozási felületek kijelölését és a kijelölés módosítását a légiközlekedési hatóság hagyja jóvá, amennyiben az megfelel a 3/C. § (10) bekezdés b) pontjában foglaltaknak.
+
+(3) Az e törvény végrehajtási rendeletében meghatározott kivétellel nem létesíthető olyan építmény – beleértve a meglévő építmények bővítését is –, amely a repülőtér akadálykorlátozási felületei vagy akadályvédelmi felülete fölé nyúlik.
+
+51. § (1) A nyilvános repülőterek és azon polgári célú nem nyilvános repülőterek körzetében, valamint külön jogszabályban meghatározott egyéb térségekben lévő olyan létesítményeket, berendezéseket és vezetékeket, amelyek helyzetüknél vagy magasságuknál fogva kiemelkednek a környezetükből és a légiközlekedés biztonságát veszélyeztethetik, – az e törvény végrehajtási rendeletében meghatározott kivétellel – akadályjelzéssel kell ellátni. Az ilyen jelzéseket
 
 - a) a repülőtér létesítése után épített épületek, vezetékek és létesítmények tekintetében ezek tulajdonosa,
 - b) ha a repülőteret újonnan létesítik, akkor a repülőtér létesítője, illetőleg, akinek érdekében a jelzést elhelyezik
@@ -997,13 +1030,13 @@ köteles elhelyezni és karbantartani.
 
 (5) Minden olyan légiközlekedéssel kapcsolatos tevékenység esetében, amelynek végzéséhez a (3) bekezdés szerinti terep és akadály adatbázisban elérhető adat szükséges, a terep és akadály adatbázis adatát kell használni. Az adatokat attól az időponttól kezdődően kell alkalmazni, amikortól a szükséges adat az adatbázisban elérhetővé válik.
 
-(6) A (3) bekezdés szerinti adatbázis létrehozására és kezelésére a repülőtér akadálykorlátozási felületeinek kijelöléséről, a légiközlekedési akadályok jelölésének részletes szabályairól, valamint Magyarország légiközlekedési terep és akadály adatbázisának létrehozásáról és fenntartásáról szóló kormányrendeletben kijelölt adatbázis-kezelő az adatbázis adatait a Magyarország légiközlekedési terep és akadály adatbázisából történő adatszolgáltatással kapcsolatos igazgatási szolgáltatási díj, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával, felhasználásával és visszatérítésével kapcsolatos részletes szabályokról szóló miniszteri rendeletben meghatározott igazgatási szolgáltatási díj megfizetése ellenében szolgáltatja.
+(6) A (3) bekezdés szerinti adatbázis létrehozására és kezelésére kormányrendeletben kijelölt adatbázis-kezelő az adatbázis adatait a Magyarország légiközlekedési terep és akadály adatbázisából történő adatszolgáltatással kapcsolatos igazgatási szolgáltatási díj, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával, felhasználásával és visszatérítésével kapcsolatos részletes szabályokról szóló miniszteri rendeletben meghatározott igazgatási szolgáltatási díj megfizetése ellenében szolgáltatja.
 
 (7) Az adatbázis-kezelő a terep és akadály adatbázisból közvetlenül és folyamatosan szolgáltatja az igényelt adatot a Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat részére az adatbázis-kezelő és az adott szervezet között kötött megállapodásban meghatározottak szerint.
 
-(8) A (6) bekezdésben foglaltaktól eltérően a Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat a Magyarország légiközlekedési terep és akadály adatbázisában szereplő, a feladatai ellátása érdekében szükséges adatokat, valamint a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának szabályairól és a Magyarország légiközlekedési terep és akadály adatbázisának adattartalmára vonatkozó szabályokról szóló miniszteri rendelet alapján a részére szolgáltatandó adatokat díj- és költségmentesen kapja meg.
+(8) A (6) bekezdésben foglaltaktól eltérően a Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat a Magyarország légiközlekedési terep és akadály adatbázisában szereplő, a feladatai ellátása érdekében szükséges adatokat, valamint a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának szabályairól szóló miniszteri rendelet alapján a részére szolgáltatandó adatokat díj- és költségmentesen kapja meg.
 
-(9) A Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat az adatbázis adatait kizárólag saját feladatai ellátásához használhatja, az adatbázist és tartalmát harmadik fél részére nem adhatja át, de feladatai körében az adatbázisból a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának a szabályairól szóló miniszteri rendeletben és a repülőtér akadálykorlátozási felületeinek kijelöléséről, a légiközlekedési akadályok jelölésének részletes szabályairól, valamint Magyarország légiközlekedési terep és akadály adatbázisának létrehozásáról és fenntartásáról szóló kormányrendeletben, meghatározott tájékoztató kiadványokban adatok közlésére jogosult.
+(9) A Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat az adatbázis adatait kizárólag saját feladatai ellátásához használhatja, az adatbázist és tartalmát harmadik fél részére nem adhatja át, de feladatai körében az adatbázisból a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának a szabályairól szóló miniszteri rendeletben és a repülőtér akadálykorlátozási felületeinek kijelöléséről, a légiközlekedési akadályok jelölésének főbb szabályairól valamint Magyarország légiközlekedési terep és akadály adatbázisának létrehozásáról és fenntartásáról rendelkező kormányrendeletben, meghatározott tájékoztató kiadványokban adatok közlésére jogosult.
 
 ### III. Fejezet — A légiközlekedés szabályai
 
@@ -1100,7 +1133,7 @@ köteles elhelyezni és karbantartani.
 
 ### V. Fejezet — A légiforgalmi szolgálatok
 
-61. § (1) A légiközlekedés biztonsága érdekében a magyar légtérben légiforgalmi szolgálatokat kell fenntartani.
+61. § (1) A légiközlekedés biztonsága érdekében a magyar légtérben – a magyar légtér légiközlekedés céljára történő kijelöléséről, valamint a légiforgalmi szolgálatok ellátásának szabályairól szóló jogszabály rendelkezéseinek megfelelően – légiforgalmi szolgálatokat kell fenntartani.
 
 (2) A légiforgalom irányítását a miniszter által a honvédelemért felelős miniszterrel egyetértésben kijelölt szerv végzi.
 
@@ -1282,6 +1315,8 @@ folytatja le.
 (4)
 
 (5) A bírság kivetésének részletes szabályait a miniszter a rendészetért, valamint az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
+
+(5a) A 66/A. § (1) bekezdés alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
 
 (6) Nyilvános repülőtér üzemben tartója e törvényben, valamint a repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló kormányrendeletben előírt tennivalók ellátásához szükséges anyagi fedezet biztosítása érdekében a repülőtér-használat díjának elemei között a zajt okozó légijárművek járatóival szemben zajvédelmi költségeit érvényesítheti.
 
@@ -1536,7 +1571,7 @@ folytatja le.
 - x) a tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló, 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet 5. cikke szerinti elosztási eljárás szabályait,
 - y) a bajba jutott vagy eltűnt légijárművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetét, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének a rendjét, e tevékenységek engedélyezésére vonatkozó szabályokat, valamint
 - z) a légiközlekedési terep és akadály adatbázis létrehozásának, működtetésének és adattartalmának szabályait, valamint az adatbázist működtető szervezet kijelölését,
-- zs) a repülőtér akadálykorlátozási felületeinek kijelölésére és a légiközlekedési akadályok jelölésére vonatkozó szabályokat.
+- zs) a repülőtér akadálykorlátozási felületeinek kijelölésére az akadálykorlátozási felület fölé nyúló építményekre és a légiközlekedési akadályok jelölésére vonatkozó részletes szabályokat.
 - aa) a veszélyes áru szállítása bejelentésének részlet szabályait, a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának a hivatásos katasztrófavédelmi szerv által végzett ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a hivatásos katasztrófavédelmi szerv által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok részletes szabályait,
 - bb)
 
@@ -1615,7 +1650,7 @@ rendeletben állapítsa meg.
 - a) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légiközlekedési hatóság eljárási díjai fizetésének feltételeit, módját és a díj összegét,
 - b) a miniszter, hogy a 19. § (1) bekezdésének a) és c) pontjában meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait, és az üzembentartási engedély kiadásával, felfüggesztésével és visszavonásával összefüggő anyagi jogi szabályokat,
 - c) a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben, hogy a 19. § (4) bekezdésében meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait,
-- d) a miniszter, hogy a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, légijármű komponens és légiközlekedéssel kapcsolatos eszköz gyártásának és karbantartásának a légiközlekedéssel összefüggő részletes anyagi jogi szabályait,
+- d) a miniszter, hogy a 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, légijármű komponens és légiközlekedéssel kapcsolatos eszköz gyártásának és karbantartásának a légiközlekedéssel összefüggő részletes anyagi jogi szabályait,
 - e) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés tekintetében – a rendészetért felelős miniszter és a 30. § (1) bekezdése szerinti engedélyezés tekintetében a miniszter egyetértésével – a légiközlekedési szakszemélyzet képzésének részletes szabályait, valamint a képzést végző intézetek kijelölését,
 - f) a miniszter, hogy a nyilvános és a polgári célú nem nyilvános repülőtér vonatkozásában – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel egyetértésben – a 39. § (1) bekezdésében említett tevékenységek részletes műszaki követelményeit, továbbá az üzemben tartás és üzemeltetés feltételeinek a részletes szabályait,
 - g) a honvédelemért felelős miniszter, hogy az állami repülések céljára szolgáló repülőtér esetében a miniszterrel és a tűzvédelmi feltételek tekintetében a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel is egyetértésben – a 39. § (1) bekezdésében említett tevékenységek részletes műszaki követelményeit, továbbá az üzemben tartás és üzemeltetés feltételeinek a részletes szabályait,
