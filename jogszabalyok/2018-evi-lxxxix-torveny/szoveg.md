@@ -149,10 +149,7 @@ vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndí
 - a) a tanulói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából továbbítható a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére;
 - b) a tanuló nevelési-oktatási intézményének megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése, valamint a nevelési-oktatási intézménnyel és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából a 2. § a)–g) pontjában foglalt adatok, valamint az 1. melléklet I. alcím c)–f) és h) pontjában foglalt adatok a rendőrség részére továbbíthatók.
 
-(2) Az oktatási nyilvántartás 2. § a)–f), h)–j) pontjában foglalt adatok továbbíthatók
-
-- a) az óvodai nevelésben részvételre kötelezett gyermek esetében a jegyző részére, abból a célból, hogy gondoskodjon az óvodai nevelésben részvételre kötelezettek nyilvántartásáról, továbbá
-- b) a tanköteles gyermek, tanuló esetében a köznevelési feladatot ellátó hatóság részére, abból a célból, hogy gondoskodjon a tankötelesek nyilvántartásáról.
+(2)
 
 (3) A tanulói nyilvántartás adataihoz az oktatási nyilvántartás működéséért felelős szerv a köznevelési feladatokat ellátó hatóság részére a feladatellátásához szükséges adatok tekintetében közvetlen hozzáférést biztosít.
 
@@ -218,6 +215,8 @@ vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndí
 
 (3) A 3. § (2) bekezdése 2021. január 1-jén lép hatályba.
 
+9/A. § A személyiadat- és lakcímnyilvántartást kezelő szerv és az oktatási nyilvántartás működéséért felelős szerv 2020. január 15-éig egyezteti az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartásába és a tanköteles gyermekek nyilvántartásába feltöltendő adatokat. Az oktatási nyilvántartás működéséért felelős szerv oktatási azonosító számot ad annak az oktatási azonosító számmal még nem rendelkező természetes személynek, akit a közneveléssel összefüggő egyes törvények módosításáról és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény hatályon kívül helyezéséről szóló 2019. évi LXX. törvénnyel megállapított, a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 45. § (8) bekezdését módosító rendelkezéseinek hatálybalépését követően kell felvenni az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartásába, vagy aki a tanköteles gyermekek nyilvántartásába feltöltésre kerül.
+
 10. § Ez a törvény a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 11. §
@@ -257,7 +256,10 @@ vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndí
   - g) nevelésének, nevelés-oktatásának helyét,
   - h) felnőttoktatás esetében az oktatás munkarendjével kapcsolatos adatokat,
   - i) évfolyamát,
-  - j) melyik évfolyamon, mely országban vett részt az Nkt.-ban szabályozott határon túli kiránduláson. II. Alkalmazotti nyilvántartás Az alkalmazotti nyilvántartás az alkalmazott alábbi személyes adatait tartalmazza:
+  - j) melyik évfolyamon, mely országban vett részt az Nkt.-ban szabályozott határon túli kiránduláson,
+  - k) a Lázár Ervin Program megvalósulásának ellenőrzése érdekében azon programmal kapcsolatosan, amelyen a tanuló részt vett, az előadó-művészeti szervezet nevét és fenntartóját, a program művészeti besorolását, a program helyszínét, a kiegészítő program típusát,
+  - l) melyik évfolyamon, mely országban vett részt külföldi tanulmányúton,
+  - m) annak tényét és idejét, hogy az egyéni munkarendben tanuló neki felróható okból két alkalommal nem jelent meg az osztályozó vizsgán, vagy két alkalommal nem teljesítette a tanulmányi követelményeket. II. Alkalmazotti nyilvántartás Az alkalmazotti nyilvántartás az alkalmazott alábbi személyes adatait tartalmazza:
   - a) oktatási azonosító számát,
   - b) végzettségére és szakképzettségére vonatkozó adatokat: felsőoktatási intézmény nevét, az oklevél számát, a végzettséget, szakképzettséget, a végzettség, szakképzettség, a pedagógus-szakvizsga, tudományos fokozat megszerzésének idejét,
   - c) munkaköre megnevezését,
@@ -483,7 +485,15 @@ vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndí
   - d) a versenyző versenyen elért eredménye;
   - e) a versenyzőt nevező iskola neve, OM azonosítója, feladatellátási hely sorszáma;
   - f) a közreműködők értesítési adatai;
-  - g) a felkészítő tanárok, kísérő tanárok ga) oktatási azonosító száma, gb) elérhetősége (telefonszám, e-mail-cím).
+  - g) a felkészítő tanárok, kísérő tanárok ga) oktatási azonosító száma, gb) elérhetősége (telefonszám, e-mail-cím). XIV. Óvodai nevelésben részvételre kötelezett gyermekek nyilvántartása Az óvodába járni köteles gyermekek nyilvántartása a gyermek alábbi személyes adatait tartalmazza:
+  - a) oktatási azonosító számát,
+  - b) az óvodás korúvá váló gyermek kötelező felvételt biztosító óvodájának, ba) OM azonosító számát, bb) nevét, bc) címét, bd) fenntartóját,
+  - c) a gyermek óvodás korúvá válásának időpontját,
+  - d) a felmentést engedélyező szerv döntése alapján a felmentés tényét és hatályát. XV. Tanköteles gyermekek nyilvántartása A tanköteles gyermekek nyilvántartása a gyermek alábbi személyes adatait tartalmazza:
+  - a) oktatási azonosító számát,
+  - b) tanköteles korúvá váló tanuló kötelező felvételt biztosító iskolájának ba) OM azonosító számát, bb) nevét, bc) címét, bd) fenntartóját,
+  - c) a tankötelessé válásának időpontját,
+  - d) a felmentést engedélyező szerv döntése alapján a felmentés tényét és hatályát.
 
 ### 2. melléklet a 2018. évi LXXXIX. törvényhez
 
