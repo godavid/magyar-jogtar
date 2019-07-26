@@ -3541,7 +3541,7 @@ c) a nemzetközi sportszövetséggel foglalkoztatásra irányuló jogviszonyban 
 
 8.6. az ingyenesen vagy kedvezményesen juttatott
 
-a) a gyermeknek vagy rá tekintettel más magánszemélynek a köznevelésről szóló törvény, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény vagy a nemzeti köznevelés tankönyvellátásáról szóló törvény vagy annak felhatalmazása alapján kiadott rendelet, és a hallgatónak a nemzeti felsőoktatásról szóló törvény alapján nem pénzben biztosított ellátás;
+a) a gyermeknek vagy rá tekintettel más magánszemélynek a köznevelésről szóló törvény vagy annak felhatalmazása alapján kiadott rendelet, vagy a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény, és a hallgatónak a nemzeti felsőoktatásról szóló törvény alapján nem pénzben biztosított ellátás;
 
 b) a köznevelésről szóló törvény szerinti nevelési-oktatási intézmény által az intézmény tanulói számára adott, a helyi vagy helyközi tömegközlekedési eszköz igénybevételét szolgáló bérlet, jegy;
 
