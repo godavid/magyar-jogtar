@@ -719,7 +719,8 @@ meghosszabbítása
 - d) a kiutasított vagy beutazási és tartózkodási tilalom hatálya alatt álló EGT-állampolgárok és családtagok nyilvántartása,
 - e) a személyes szabadságukban korlátozott EGT-állampolgárok és családtagok nyilvántartása,
 - f) az úti okmány, a személyazonosító igazolvány vagy a tartózkodásra jogosító okmány elvesztését, eltulajdonítását bejelentő EGT-állampolgárok és családtagok nyilvántartása;
-- g) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár családtagok nyilvántartása.
+- g) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár családtagok nyilvántartása,
+- i) a külföldre utazási korlátozás hatálya alatt álló szabad mozgás és tartózkodás jogával rendelkező személyek nyilvántartása.
 
 (2) A központi idegenrendészeti nyilvántartást kezelő szerv a regisztrációs igazolással, valamint a tartózkodási kártyával rendelkezők személyi azonosítóját a személyi adat- és lakcímnyilvántartással való kapcsolattartás, valamint a bűnüldöző hatóságok részére történő adatszolgáltatás céljából kezelheti.
 
@@ -782,6 +783,12 @@ meghosszabbítása
 (3) Az (1) bekezdésben meghatározott adatokat – a (4) bekezdésben foglalt kivétellel – az idegenrendészeti hatóság a tilalom megszűnését követő öt évig kezeli.
 
 (4) Az (1) bekezdés f) pontjában meghatározott adatokat az eljáró idegenrendészeti hatóság a beutazási és tartózkodási tilalom időtartama alatt kezeli.
+
+78/A. § Az idegenrendészeti hatóság a külföldre utazási korlátozás hatálya alatt álló szabad mozgás és tartózkodás jogával rendelkező személyekre vonatkozóan – a korlátozás megszűnését követő három évig – kezeli
+
+- a) a szabad mozgás és tartózkodás jogával rendelkező személy természetes személyazonosító adatait,
+- b) a külföldre utazási korlátozást kezdeményező szerv megnevezését, valamint
+- c) a szabad mozgás és tartózkodás jogával rendelkező személy úti okmányának típusát, számát, érvényességi idejét.
 
 79. § (1) A konzuli védelem biztosítása érdekében a nemzetközi szerződésekben meghatározott értesítési kötelezettség teljesítésének biztosítása céljából a személyes szabadságukban korlátozott, továbbá rendkívüli eseményekben (haláleset, baleset) érintettek nyilvántartása a következő adatokat tartalmazza:
 

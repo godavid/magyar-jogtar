@@ -225,7 +225,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 - a) a polgár elhalálozott,
 - b) a külföldön letelepedni szándékozó polgár az adójának soron kívüli megállapítását kéri,
-- c)–d)
+- c)
+- d)
 
 ### Az adóazonosító jel használata
 
@@ -389,7 +390,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - t) a mezőgazdasági igazgatási szerv a földművesek, a mezőgazdasági termelőszervezetek, valamint a mezőgazdasági üzemközpontok nyilvántartásának vezetéséhez belső azonosítóként, törvényben meghatározottak szerint a polgár azonosításához;
 - u) a gondnokoltak nyilvántartását és az előzetes jognyilatkozatok nyilvántartását vezető szerv a nyilvántartás vezetéséhez.
 - v) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben;
-- w) a Központi Statisztikai Hivatal statisztikai célra.
+- w) a Központi Statisztikai Hivatal statisztikai célra;
+- x) az útlevélhatóság és az eljárásában közreműködő hatóság az úti okmányokkal kapcsolatos feladataik ellátásához.
 
 33. § (1) A polgár a személyi azonosítóját – személyazonosságának hitelt érdemlő igazolása mellett – a 32. §-ban felsorolt szerveknek az ott megjelölt feladataik ellátásához köteles megismerhetővé tenni.
 
@@ -458,6 +460,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 (1g) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – az egészségügyi dolgozók alap- és működési nyilvántartását vezető egészségügyi államigazgatási szervnek az erre irányuló igénye esetén rendszeres adatátadást teljesít az egészségügyi dolgozók alap- és működési nyilvántartását vezető egészségügyi államigazgatási szerv részére az egészségügyi dolgozók alap- és működési nyilvántartásában szereplő egészségügyi dolgozó természetes személyazonosító adatainak, lakóhelyének és tartózkodási helyének, valamint állampolgárságának a változásáról, továbbá az egészségügyi dolgozó elhalálozásának tényéről és időpontjáról.
 
+(1h) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – az általános hatáskörű útlevélhatóság részére erre irányuló igénye esetén rendszeres adatátadást teljesít a külföldre utazásról szóló 1998. évi XII. törvény 24/B. § (1) bekezdése szerinti nyilvántartásban nyilvántartott polgár családi és utónevéről, születési nevéről, anyja nevéről, születési helyéről és idejéről, valamint az érintett elhalálozásáról.
+
 (2) A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:
 
 - a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a katonai nyilvántartásban szereplő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről, továbbá a honvédelmi kötelezettséggel érintett polgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, személyi azonosítójáról, családi állapotáról, lakóhelyéről, tartózkodási helyéről;
@@ -498,7 +502,13 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 ### Módosuló rendelkezések
 
-41–44. §
+41. §
+
+42. §
+
+43. §
+
+44. §
 
 45. § Ahol más jogszabály személyazonosító jelet említ, azon – az Nytv. 5. §-ának (6) bekezdése, 37. §-ának (1), (3), (5) és (6) bekezdése, valamint az Nytv. melléklete kivételével – személyi azonosítót kell érteni.
 

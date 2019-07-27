@@ -57,7 +57,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - d) a Magyarország területén kívül élő polgár a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. §-a alapján nyilatkozattal magyar állampolgárságot szerez,
 - e) a Magyarország területén kívül élő magyar állampolgár kérelmére a magyar állampolgárságról szóló 1993. évi LV. törvény alapján az állampolgársági ügyekben eljáró szerv a magyar állampolgársága fennállását igazolja, vagy
 - f) a Magyarország területén kívül élő magyar állampolgár külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv anyakönyvezi,
-- g) a Magyarország területén kívül élő magyar állampolgár Magyarországon történt születését az anyakönyvvezető anyakönyvezi.
+- g) a Magyarország területén kívül élő magyar állampolgár Magyarországon történt születését az anyakönyvvezető anyakönyvezi,
+- h) a Magyarország területén kívül élő magyar állampolgár magánútlevél iránti kérelmet terjeszt elő.
 
 (2b) A 29/J. § hatálya kiterjed arra a külföldön élő magyar állampolgárra, aki nem szerepel a nyilvántartásban és érvényes magyar útlevéllel rendelkezik.
 
@@ -67,6 +68,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - b) azon magyar állampolgár adatai, akinek a kérelmére az állampolgársági ügyekben eljáró szerv a magyar állampolgárságról szóló 1993. évi LV. törvény alapján a magyar állampolgárság fennállását igazolja.
 
 (2d) A hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv eljárását követően – ha a nyilvántartásban nem szerepelnek – hivatalból kerülnek a nyilvántartásba a Magyarország területén kívül született, házasságot kötött vagy bejegyzett élettársi kapcsolatot létesített magyar állampolgár adatai, ha a külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv anyakönyvezte.
+
+(2e) A magánútlevél iránti kérelem előterjesztését követően a kérelmező – ha a nyilvántartásban nem szerepel – személyi- és lakcímadatainak nyilvántartásba vételére irányuló eljárást hivatalból kell megindítani. A nyilvántartásba vételnek kizárólag akkor van helye, ha a kérelmező anyakönyvi eseménye az anyakönyvi nyilvántartásban már szerepel.
 
 (3) E törvény hatálya kiterjed:
 
@@ -79,7 +82,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 5. § E törvény alkalmazása során:
 
-(1)
+(1) Szolgáltatásazonosító: az állandó személyazonosító igazolvány tároló elemén rögzített, véletlenszerűen képzett egyedi azonosító karaktersorozat.
 
 (2) A polgár lakóhelye: annak a lakásnak a címe, amelyben a polgár él. A lakcímbejelentés szempontjából lakásnak tekintendő az az egy vagy több lakóhelyiségből álló épület vagy épületrész, amelyet a polgár életvitelszerűen otthonául használ, továbbá – a külföldön élő magyar és nem magyar állampolgárok kivételével – az a helyiség, ahol valaki szükségből lakik, vagy – amennyiben más lakása nincs – megszáll.
 
@@ -182,7 +185,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - c) ellátja a menekült vagy oltalmazott jogállású személy utóbb megszerzett letelepedett jogállásának nyilvántartásba vételével kapcsolatos feladatokat;
 - d) ellátja a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat;
 - e) ellátja az értesítési cím tudomásul vételével összefüggő – jogszabályban meghatározott – hatósági feladatokat, valamint
-- f) ellátja a jogszabályban hatáskörébe utalt egyéb hatósági feladatokat.
+- f) ellátja a jogszabályban hatáskörébe utalt egyéb hatósági feladatokat;
+- g) ellátja a 4. § (2e) bekezdés szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
 
 9. § (1) A nyilvántartás adatkezelője a nyilvántartást kezelő szerv.
 
@@ -202,7 +206,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
   - ge) a tulajdonos halálát;
 - h) kezeli a Központi Okmánytárat;
 - i) ellátja a Schengeni Információs Rendszerben elhelyezendő vagy elhelyezett figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos nyilvántartási és adattovábbítási feladatokat;
-- j) ellátja a 4. § (2a) bekezdés a) pontja szerinti külföldön élő magyar állampolgár személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
+- j) ellátja a 4. § (2a) bekezdés a) és h) pontja szerinti külföldön élő magyar állampolgár személyi- és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
 - m)
 - n)
 - o)
@@ -315,7 +319,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - o) a konzuli tisztviselő értesítése a magyar állampolgárság megszerzéséről és annak időpontjáról,
 - p) a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv értesítése
   - pa) a 4. § (2a) bekezdés f) pontja szerinti külföldön élő magyar állampolgár esetében a természetes személyazonosító és külföldi lakóhely adatokról, a családi állapotról, a házasságkötés helyéről vagy a bejegyzett élettársi kapcsolat létesítésének helyéről és a neméről,
-  - pb) – a Magyarország területén élő, a 4. § (2d) bekezdése szerinti magyar állampolgár esetében – a természetes személyazonosító és magyarországi lakcím adatokról, a családi állapotról, a házasságkötés helyéről vagy a bejegyzett élettársi kapcsolat létesítésének helyéről és a neméről.
+  - pb) – a Magyarország területén élő, a 4. § (2d) bekezdése szerinti magyar állampolgár esetében – a természetes személyazonosító és magyarországi lakcím adatokról, a családi állapotról, a házasságkötés helyéről vagy a bejegyzett élettársi kapcsolat létesítésének helyéről és a neméről;
+- q) a magánútlevél kiadásában közreműködő hatóság értesítése a természetes személyazonosító adatokról, családi állapotról, a házasságkötés helyéről vagy a bejegyzett élettársi kapcsolat létesítésének helyéről, nemről, magyarországi lakcím- vagy külföldi lakóhely adatokról.
 
 15. § (1) A polgár a lakcímbejelentés során a következő adatokat közli a helyi nyilvántartó szervvel:
 
@@ -580,6 +585,8 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 
 (2d) A járási hivatal vagy a kijelölt kormányhivatal az értesítési címet bejegyzi a nyilvántartásba, ha az postafiók, postai szolgáltató hely vagy a címnyilvántartásban szereplő címhely. Egyéb esetekben az értesítési cím bejegyzésére a cím fekvése szerinti járási hivatal az illetékes.
 
+(2e) Ha a 4. § (2e) bekezdése szerinti polgár Magyarország területén kíván életvitelszerűen élni, első lakóhely bejelentését az útlevél kiadására irányuló kérelem előterjesztésével egyidejűleg a kijelölt kormányhivatalnál köteles teljesíteni. Ha az első lakóhely nyilvántartásba vétele során az eljáró hatóság megállapítja, hogy a polgár a lakóhely bejelentéséhez – jogszabályban meghatározott kivétellel – szükséges szállásadói hozzájárulással nem rendelkezik, a polgárt nyilatkozata ellenére külföldön élő magyar állampolgárként kell nyilvántartásba vennie.
+
 (3) Az (1) bekezdésben meghatározott polgárnak azt a tényt, hogy Magyarország területét a külföldi letelepedés szándékával elhagyja, bármely járási hivatalnál vagy a konzuli tisztviselőnél
 
 - a) személyesen, vagy
@@ -733,7 +740,8 @@ foglalt adatokat tartalmazza.
 - d) a polgár társadalombiztosítási azonosító jelét,
 - e) a polgár adóazonosító jelét,
 - f) a személyazonosító igazolvány elektronikus egyedi azonosítóját,
-- g) a polgár kérelmére legfeljebb kettő, vészhelyzet esetén értesítendő telefonszámot.
+- g) a polgár kérelmére legfeljebb kettő, vészhelyzet esetén értesítendő telefonszámot,
+- h) a szolgáltatásazonosítót.
 
 (8) A tároló elem az ujjnyomatot abból a célból tartalmazza, hogy az állandó személyazonosító igazolvány és a polgár közti kapcsolat kétséget kizáróan megállapítható legyen.
 
@@ -762,14 +770,13 @@ foglalt adatokat tartalmazza.
 
 (16) A polgár az elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelentheti a személyazonossága igazolására alkalmas hatósági igazolványa elvesztését, eltulajdonítását, megsemmisülését, és kérheti a vezetői engedélye, illetve magánútlevele, második magánútlevele, szolgálati útlevele, hajós szolgálati útlevele pótlását, ha az adataiban nem következett be változás, ideiglenes okmány kiadására nincs szükség, és a magánútlevél, a második magánútlevél, illetve hajós szolgálati útlevél esetében az érintett hozzájárulása alapján az útiokmány-nyilvántartás tartalmazza az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát.
 
-(17)
+(17) A (18)–(20) bekezdésben meghatározottak szerint a szolgáltatásazonosító kezelésére jogosult szerv vagy személy valamely jogosultság fennállását elektronikus úton a tároló elem olvasásával, felhasználói közreműködés – további kódok megadása – nélkül a szolgáltatásazonosítóhoz kötötten rögzítheti, a jogosultság fennállását ellenőrizheti, a szolgáltatásazonosítót kizárólag e célból megismerheti.
 
-(18) Ha az állandó személyazonosító igazolvány tároló eleme nem vagy nem helyesen tartalmazza a polgár társadalombiztosítási azonosító jelét, illetve az adóazonosító jelét, abban az esetben a polgár kérelmére
+(18) Ha a valamely jogosultságot nyújtó szerv vagy személy az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvényben (a továbbiakban: Nektv.) meghatározott elektronikuskártya-kibocsátási keretrendszerhez kártyakibocsátóként csatlakozik, a szolgáltatásazonosító tekintetében a Nektv.-t, valamint a 29/D. § alkalmazása szempontjából a Nektv. 5. § (1) bekezdés b) pont ba) alpontjában meghatározott azonosítóra vonatkozó rendelkezéseket kell alkalmazni az e §-ban és a 29/D. §-ban meghatározott eltérésekkel.
 
-- a) az egészségbiztosítási szerv a polgár társadalombiztosítási azonosító jelét, valamint
-- b) a Nemzeti Adó- és Vámhivatal a polgár adóazonosító jelét
+(19) Ha a valamely jogosultságot nyújtó szerv vagy személy a Nektv.-ben meghatározott elektronikuskártya-kibocsátási keretrendszerhez kártyakibocsátóként nem csatlakozik, a szolgáltatásazonosító kezelésére akkor jogosult, ha valamely, a miniszter rendeletében meghatározott jogosultság fennállásának tényét a személyazonosító igazolvány jogosultjának természetes személyazonosító adataihoz hozzárendelten – a személyes adatok kezelésére irányadó előírások alapján – kezeli. A szolgáltatásazonosító kezelésére ebben az esetben, kizárólag ezen jogosultság fennállásának ellenőrzése céljából – a személyes adatok kezelésére irányadó előírások szerint – kerülhet sor.
 
-a tároló elemen elhelyezi.
+(20) A szolgáltatásazonosító alkalmazásával ellenőrzött egyes jogosultságokat tartalmazó nyilvántartások egymással való összekapcsolásához a szolgáltatásazonosító nem használható fel, a szolgáltatásazonosító személyazonosításra történő felhasználása tilos.
 
 29/A. § (1) A 29. § (9) bekezdésében foglalt esetek kivételével a személyazonosító igazolvány kiadása iránti kérelem előterjesztésekor a nyilvántartás szerve az ujjnyomatnak a személyazonosító igazolvány tároló elemén történő elhelyezése céljából rögzíti a polgár ujjnyomatát, ha a polgár a kérelem benyújtásakor 12. életévét betöltötte. Ha a polgár az ujjnyomat rögzítését visszautasítja, a személyazonosító igazolványt anélkül kell kiadni.
 
@@ -813,7 +820,7 @@ a tároló elemen elhelyezi.
 
 (8) A (2) bekezdés szerinti szolgáltató a tanúsítvány kibocsátásról, visszavonásáról és azok időpontjáról értesíti a nyilvántartást kezelő szervet.
 
-29/D. § (1) Az állandó személyazonosító igazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) szerinti elsődleges kártyának tekintendő, és ahhoz a polgár kérelmére a Nektv. 1. § (4) bekezdés a) pontja szerinti kártyakibocsátó által e törvény végrehajtására kiadott kormányrendeletben meghatározott, Nektv. szerinti másodlagos kártya rendelhető.
+29/D. § (1) Az állandó személyazonosító igazolvány a Nektv. szerinti elsődleges kártyának tekintendő, és ahhoz a polgár kérelmére a Nektv. 1. § (4) bekezdés a) pontja szerinti kártyakibocsátó által e törvény végrehajtására kiadott kormányrendeletben meghatározott, Nektv. szerinti másodlagos kártya rendelhető.
 
 (2) Ha a polgár az állandó személyazonosító igazolványhoz az e törvény végrehajtására kiadott kormányrendeletben meghatározott, Nektv. szerinti másodlagos kártyát kér rendelni, a Nektv.-ben foglaltakat e §-ban foglalt eltérésekkel kell alkalmazni.
 
@@ -1122,7 +1129,8 @@ adatvédelmi tisztviselőt nevez ki.
 - b) a nyilvántartási eljárás során használandó iratmintákat;
 - c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetve értesítésért, a lakcímbejelentésről és az értesítési cím bejelentésről történő értesítésért, továbbá a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
 - d)
-- e) a személyazonosítás célját szolgáló és a jogosultságot igazoló kitöltetlen biztonsági okmányok nyilvántartásának, azok kezelésének és tárolásának szabályait.
+- e) a személyazonosítás célját szolgáló és a jogosultságot igazoló kitöltetlen biztonsági okmányok nyilvántartásának, azok kezelésének és tárolásának szabályait;
+- f) azon jogosultságok körét, amelyek ellenőrzésére az állandó személyazonosító igazolvány tároló elemén elhelyezett szolgáltatásazonosító felhasználható.
 
 (3)
 
@@ -1173,6 +1181,8 @@ adatvédelmi tisztviselőt nevez ki.
 52/D. § E törvénynek az egyes belügyi tárgyú törvények módosításáról szóló 2017. évi XXXIII. törvénnyel megállapított 29. § (11) bekezdését a 2017. június 1-jétől kiadott ideiglenes személyazonosító igazolványokra kell alkalmazni. A 2017. június 1-jét megelőzően kiadott ideiglenes személyazonosító igazolványok tartalmára vonatkozóan e törvénynek a 2017. május 31-én hatályban volt szabályait kell alkalmazni.
 
 52/E. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+52/F. § E törvénynek az egyes ügyintézési folyamatok egyszerűsítéséről szóló 2019. évi LV. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a hatálybalépésüket követően indult és megismételt eljárásokban kell alkalmazni.
 
 53. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

@@ -1687,7 +1687,7 @@ céljából a menekültügyi nyilvántartásban kezeli.
 - v) az arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot;
 - w) haláleset helyét és idejét, a holtnak nyilvánításának tényét, a halál vélelmezett idejét és az eljáró bíróság megnevezését, vagy a halál ténye bírói megállapításának tényét, vagy a bíróság által megállapított elhalálozás helyét, idejét és az eljáró bíróság megnevezését;
 - x) az elismerését kérő részére kiállított tartózkodási engedély okmányazonosítóját, kiállításának és érvényességének idejét;
-- y) a menekült és az oltalmazott részére a menekültügyi hatóság által kiállított úti okmány okmányazonosítóját, kiállításának és érvényességének idejét;
+- y) a menekült, az oltalmazott és a menedékes részére a menekültügyi hatóság által kiállított úti okmány típusát, okmányazonosítóját, az útlevél matrica okmányazonosítóját, az okmány kiállításának dátumát és érvényességének idejét, a kiállító útlevélhatóság megnevezését, a kiállítás helyét, az útlevélhatósági eljárást lefolytató ügyintéző nevét, az úti okmányban szereplő személy arcképmását és saját kezű aláírását,
 - z) a menedékes személyazonosságát és tartózkodási jogát igazoló okmány okmányazonosítóját, kiállításának és érvényességének idejét, továbbá a menedékes részére áttelepülés céljából kiállított okmány okmányazonosítóját, kiállításának és érvényességének idejét.
 
 (1a) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c), f)–i), n), q) és r) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
