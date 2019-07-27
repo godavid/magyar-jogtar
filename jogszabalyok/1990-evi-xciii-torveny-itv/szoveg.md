@@ -471,7 +471,9 @@ Ha a hatósági nyilvántartásban a gépjármű teljesítménye csak lóerőben
 
 25. § (1) Ingatlan közös tulajdonának megszüntetése esetén vagyonszerzési illetéket akkor kell fizetni, ha a megosztás folytán valamelyik tulajdonostárs a korábbi tulajdoni hányadának megfelelő értéknél nagyobb értékhez jut. A vagyonszerzési illetéket az értékkülönbözet alapulvételével kell kiszabni.
 
-(2)–(3)
+(2)
+
+(3)
 
 ### Illetékmentességek, illetékkedvezmények
 
@@ -795,7 +797,11 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 ### Az államigazgatási eljárási illeték fizetésének módja
 
-34–36. §
+34. §
+
+35. §
+
+36. §
 
 ### VI. Fejezet — A BÍRÓSÁGI ELJÁRÁSI ILLETÉKEK
 
@@ -1236,7 +1242,9 @@ esetében.
 
 (8) A vagyoni értékű jog forgalmi értékének a 72. § alapján számított értéket kell tekinteni.
 
-70–71. §
+70. §
+
+71. §
 
 ### A vagyoni értékű jogok értékének megállapítása
 
@@ -1465,7 +1473,9 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 ### Lelet készítése
 
-84–85. §
+84. §
+
+85. §
 
 ### Elévülés
 
@@ -1500,7 +1510,11 @@ naptári évének utolsó napjától számított 5 év elteltével évül el.
 
 88. § (1) Az e törvényben külön nem szabályozott eljárási kérdésekre — így különösen az illeték megfizetéséért egyetemleges felelősség megállapítására, a tartozás megfizetésére, behajtására, részletfizetés vagy halasztás engedélyezésére, az illetéktartozás méltányosság címén történő részbeni vagy teljes elengedésére, illetve behajthatatlanság címén való törlésére — az adózás rendjéről szóló törvény rendelkezései irányadóak.
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 ### X. Fejezet — EGYES ELJÁRÁSI RENDELKEZÉSEK
 
@@ -1561,7 +1575,9 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 ### Illetékesség az illeték kiszabására
 
-95–96. §
+95. §
+
+96. §
 
 ## ÖTÖDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -1772,7 +1788,9 @@ II. Az állampolgársággal kapcsolatos eljárás illetéke
 
 1. A magyar állampolgársági bizonyítvány kiállítására irányuló eljárás illetéke 3000 forint.
 
-2–3.
+2.
+
+3.
 
 4. Illetékmentes a honosítás, visszahonosítás, a magyar állampolgárság nyilatkozattal történő visszaszerzésére, valamint a magyar állampolgárságról történő lemondásra irányuló eljárás.
 
@@ -1870,7 +1888,7 @@ b) a külügyi szolgálati útlevél,
 
 c) a határátlépési igazolvány,
 
-d) az úti okmány cseréje, amennyiben arra azért kerül sor, mert az úti okmány biometrikus azonosítót tartalmazó tároló eleme nem tartalmazza vagy hibásan tartalmazza a törvényben meghatározott adatokat,
+d) az úti okmány cseréje, amennyiben az úti okmány tároló eleme nem tartalmazza vagy hibásan tartalmazza a törvényben meghatározott adatokat, illetve az nem működik,
 
 e) a 65. életévét betöltött személy magánútlevele.
 
@@ -1878,7 +1896,7 @@ e) a 65. életévét betöltött személy magánútlevele.
 
 9. Az elveszett, megsemmisült, továbbá – a 7. pont d) alpontjában meghatározott eset kivételével – a megrongálódott és utazásra alkalmatlanná vált magánútlevél és második magánútlevél helyett soron kívüli, sürgősségi, illetve azonnali eljárás keretében kiállított új úti okmány kiadásáért az 1–2. pontban meghatározott illeték kétszeresének megfelelő illetéket és jogszabályban meghatározott mértékű igazgatási szolgáltatási pótdíjat kell fizetni.
 
-10. Az úti okmányban történő idegen nyelvű bejegyzésért – az 1. és 2. pontban meghatározott illetéken felül – 2000 forint illetéket kell fizetni.
+10.
 
 11. Az útlevél kiállítására irányuló hatósági eljárásban benyújtott fellebbezés illetéke 5000 forint.
 
@@ -2036,9 +2054,17 @@ XVIII. A külkereskedelemmel kapcsolatos eljárások illetéke
 
 4.
 
-5-7.
+5.
 
-8–10.
+6.
+
+7.
+
+8.
+
+9.
+
+10.
 
 11.
 
