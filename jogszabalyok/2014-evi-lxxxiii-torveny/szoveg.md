@@ -19,7 +19,7 @@ csatlakozhat.
 (4) A NEK-hez kártyakibocsátóként az csatlakozhat, akit
 
 - a) törvény vagy törvény felhatalmazása alapján jogszabály a csatlakozásra kijelölt, vagy
-- b) az e törvény szerinti hatósági eljárásban kártyakibocsátásra feljogosítottak.
+- b) az e törvény szerinti hatósági eljárásban kiadott engedély kártyakibocsátásra jogosít.
 
 (5) A (4) bekezdés a) pontja szerinti esetben
 
@@ -37,7 +37,7 @@ csatlakozhat.
 - 3. elsődleges kártya: az e törvényben és a felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelő, adat elektronikus hordozására képes eszközzel ellátott hordozó,
 - 4. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
 - 5. kártya: az elsődleges kártya és a másodlagos kártya,
-- 6. kártyaelfogadó: a kártya alapján szolgáltatást nyújtó, jogot, kedvezményt biztosító természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
+- 6. kártyaelfogadó: az a természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely – kedvezmény vagy szolgáltatás kártyafelhasználó általi igénybevétele céljából – a kártya olvasására a jelen törvényben meghatározott adatok vonatkozásában jogosult,
 - 7. kártyafelhasználó: az a természetes személy, aki a birtokában lévő, e törvény alapján kibocsátott kártyával igazolja valamely jogosultságát vagy szolgáltatást vesz igénybe,
 - 8. kártyakibocsátó: kártya kibocsátására jogszabály kijelölése vagy a működtető engedélye alapján jogosult szervezet,
 - 9. másodlagos kártya: valamely elsődleges kártya által hordozott, ahhoz kizárólag elektronikusan hozzárendelt kártyafunkció,
@@ -142,7 +142,7 @@ a más kártyakibocsátó által kibocsátott elsődleges kártyát a saját kib
 8. § (1) A működtető a személyiadat- és lakcímnyilvántartás, a kártyakibocsátók, valamint a megszemélyesítést végző szervezetek adatközlése alapján
 
 - a) a kártyakibocsátás lehetővé tétele céljából, valamint
-- b) a kártyafelhasználás folyamatos informatikai kiszolgálása érdekében
+- b) a kártyafelhasználás támogatása érdekében
 
 központi nyilvántartást (a továbbiakban: NEK központi nyilvántartás) vezet.
 
@@ -239,15 +239,13 @@ a törlési kérelem kézhezvételét, vagy a halál időpontját követő két 
 - a) az 1. § (3) bekezdés a) pontja szerinti személyek esetében a személyiadat- és lakcímnyilvántartás adatkezelője a kapcsolati kódon adatot szolgáltat a működtetőnek a kártyafelhasználó halálának tényéről és időpontjáról,
 - b) az 1. § (3) bekezdés b) pontja szerinti személyek esetében a kártyafelhasználó halálának tényéről és időpontjáról az ezt igazoló okirat bemutatásával bárki bejelentést tehet a működtetőnél.
 
-(9) A működtető az (5) bekezdés szerinti törlésről és a kártya érvénytelenként való megjelöléséről értesíti a kártyakibocsátót.
+(9) A működtető az (5) bekezdés szerinti törlésről és a kártya érvénytelenként való megjelöléséről automatikus információátadás keretében értesíti a kártyakibocsátót.
 
 (10) A (3) bekezdés c) és e) pontja szerinti esetben a kártya érvénytelenségének tényéről a kártyakibocsátó haladéktalanul értesíti a működtetőt.
 
 #### 8. Adatszolgáltatás a NEK központi nyilvántartásból
 
-10. § (1) A kártyaelfogadó a kártya egyedi sorszámának vagy elektronikus egyedi azonosítójának megadásával a felhasználás céljának és jogalapjának igazolása nélkül a kártya érvényességének tényéről elektronikus úton a NEK központi nyilvántartásból adatot igényelhet.
-
-(2) Az (1) bekezdés szerinti, csak a kártya érvényességére vonatkozó lekérdezésekről és az ehhez kapcsolódó adatszolgáltatásról a működtető nyilvántartást nem vezet.
+#### 10. §
 
 11. § A működtető a NEK-nyilvántartásban szereplő adatokról törvény, vagy az érintett hozzájárulása alapján adatot szolgáltat a kártya egyedi sorszámát vagy elektronikus egyedi azonosítóját és a kártyafelhasználó nevét megjelölő, az adat kezelésére jogosult kártyaelfogadó részére a kártya adatainak ellenőrzése, illetve az érintett személy azonosítása céljából.
 
@@ -291,10 +289,10 @@ alapján veheti igénybe a NEK szolgáltatásait, és teljesíthet szolgáltatá
 
 (4) A kártyakibocsátási kérelem tartalmazza
 
-- a) gazdálkodó szervezet kérelmező esetén
+- a) gazdálkodó vagy civil szervezet kérelmező esetén
   - aa) nyilvántartási számát,
   - ab) nevét,
-  - ac) a szervezet képviseletére jogosultak nevét, természetes személy esetén lakóhelyét, születési helyét és idejét, anyja születési nevét, jogi személy esetén székhelyét és nyilvántartási számát,
+  - ac) a szervezet képviseletére jogosultak nevét, természetes személy esetén lakóhelyét, születési helyét- és idejét, anyja születési nevét, jogi személy esetén székhelyét és nyilvántartási számát,
 - b) ha költségvetési szerv és közfeladatot ellátó más szerv az 1. § (4) bekezdés b) pontja alapján kérelmezi a csatlakozást, akkor a szerv nevét és a szerv vezetőjének nevét,
 - c) a kibocsátási cél megnevezését,
 - d) a kibocsátani tervezett kártyák számát,
@@ -355,27 +353,25 @@ meghatározott műszaki, technológiai, biztonsági előírásoknak,
 - a) a kártyafelhasználó kártyán szereplő személyazonosító adatait,
 - b) a kibocsátott elsődleges kártya egyedi azonosítóit, másodlagos kártya esetén az elektronikus egyedi azonosítót, valamint annak az elsődleges kártyának az egyedi azonosítóit, melyhez hozzárendelték,
 - c) a kártyakibocsátás és kártyaelőállítás során végrehajtott valamennyi adatkezelési művelet tényét és idejét,
-- d) a kártya kibocsátásának, érvényességének dátumát,
+- d) a kártya kibocsátásának, érvényességének dátumát, érvénytelenségének tényét,
 - e) a kiadott, bevont és érvénytelenített elsődleges kártyák egyedi azonosítóit, másodlagos kártya esetén az elektronikus egyedi azonosítót, valamint annak az elsődleges kártyának az egyedi azonosítóit, melyhez hozzárendelték,
 - f) a kártya bevonásának okát, tényét és idejét, valamint
 - g) a kártyafelhasználóra vonatkozó, a kibocsátási célt képező jogosultság vagy tény fennállására vonatkozó adatot.
 
 #### 11. A kártyaelfogadó
 
-20. § (1) A kártyaelfogadó a kártya elektronikus leolvasása során hozzáfér a NEK központi nyilvántartásnak a kártya érvényességére vonatkozó, a 8. § (2) bekezdés b) pont be) alpontja és c) pont ce) alpontja szerinti adatához, a 8. § (3) bekezdés b) pont bd) alpontja és c) pont cd) alpontja szerinti adatához, valamint a 8. § (4) bekezdés b) pontja szerinti adatához. Érvénytelen kártya esetén a NEK központi nyilvántartás kizárólag az érvénytelenség tényére vonatkozó adatot szolgáltatja.
+20. § (1) A kártyaelfogadó a kártya elektronikus egyedi azonosítója adat kezelésére kedvezmény vagy szolgáltatás kártyafelhasználó általi igénybevétele céljából a kártya elektronikus olvasása útján jogosult. A kártyaelfogadó a kártya elektronikus egyedi azonosítója alapján a kártya érvényességére vonatkozó adat elektronikus úton történő ellenőrzésére a kártyakibocsátóval kötött szerződésben foglaltak szerint a 19. § szerinti nyilvántartás adattartalma alapján jogosult.
 
-(2) Az (1) bekezdés szerinti adatszolgáltatás alapján érvényes kártya esetében a kártyaelfogadó hozzáfér a NEK központi nyilvántartás 8. § (2) bekezdés b) pont bc) alpontja, 8. § (3) bekezdés b) pont bb) alpontja, valamint 8. § (4) bekezdés a) pontja és – a 4. § (4) szerinti korlátozás feloldását követően – a 8. § (2) bekezdés c) pont cc) alpontja, valamint 8. § (3) bekezdés c) pont cb) alpontja szerinti adatához. Ennek az adatnak a segítségével a kártyaelfogadó – jogszabály vagy a kártyakibocsátóval kötött szerződés alapján – hozzáfér a kibocsátási célt képező jogosultság vagy egyéb tény fennállásának ellenőrzése céljából a jogosultságot tartalmazó, a kártyakibocsátó által vezetetett nyilvántartás 19. § g) pontjában meghatározott adatához.
+(2) Érvényes kártya esetében a kártyaelfogadó a kibocsátási célt képező jogosultság vagy egyéb tény fennállásának ellenőrzése céljából a 19. § g) pontjában meghatározott adat megismerésére a kártyakibocsátó erre vonatkozó engedélyén alapuló adatközlése alapján a kártyakibocsátóval kötött szerződésben foglaltak szerint jogosult.
 
-(3) Jogszabály vagy – a szerződés megkötését követően kiállított kártyák tekintetében – a kártyakibocsátók által kötött szerződés rendelkezhet úgy, hogy a kártyaelfogadó hozzáférhet valamely kártyakibocsátó által kibocsátott kártya alapján a más kártyakibocsátó által vezetett nyilvántartásnak a 19. § g) pontjában meghatározott adatához.
-
-(4) A (3) bekezdés szerinti szerződés megkötéséről a kártyakibocsátó a működtetőt haladéktalanul tájékoztatja. A működtető e tájékoztatás alapján a (3) bekezdés szerinti hozzáférés lehetőségét a NEK központi nyilvántartásban rögzíti.
+(3) A 4. § (5) bekezdésében meghatározott okmány elektronikus olvasása során az érvényességre vonatkozó adat (1) bekezdés szerinti ellenőrzése a NEK központi nyilvántartásának adattartalma alapján, a kártyakibocsátó adatfeldolgozói közreműködésével történik.
 
 #### 12. Záró rendelkezések
 
 21. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) jelölje ki a működtetőt és a regisztrációs szervet,
-- b) állapítsa meg a működtető, a kártyakibocsátó, a kártyaelfogadó és a megszemélyesítő megszemélyesítést végző szervezet által kibocsátandó dokumentumok körét és elfogadásának rendjét, továbbá a kártyaigénylés, a kártyafelhasználói regisztráció, a kártyakibocsátás hatósági ellenőrzésének, a kártyakibocsátás engedélyezésére irányuló eljárásnak, a minősítési eljárás lefolytatásának, valamint a NEK keretében megkötendő szerződés és hatósági szerződés és a szerződésszegés esetén alkalmazandó jogkövetkezmények részletes szabályait.
+- b) állapítsa meg a működtető, a kártyakibocsátó, a kártyaelfogadó és a megszemélyesítő által kibocsátandó dokumentumok körét és elfogadásának rendjét, továbbá a kártyaigénylés, a kártyafelhasználói regisztráció, a NEK keretében történő hatósági ellenőrzésnek, a kártyakibocsátás engedélyezésére irányuló eljárásnak, a minősítési eljárás lefolytatásának, valamint a NEK keretében megkötendő szerződés és hatósági szerződés és a szerződésszegés esetén alkalmazandó jogkövetkezmények részletes szabályait.
 
 (2) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy rendeletben határozza meg
 

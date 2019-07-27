@@ -2672,7 +2672,7 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 - f) anyja születési családi és utóneve (utónevei);
 - g) állampolgárság (állampolgárságok) vagy hontalan státusz.
 
-94/A. § A 95. § (1) bekezdésében, a 96. § (1) bekezdésében, a 97. § (1) bekezdésében, a 98. § (1) bekezdésében, a 99. § (1) bekezdésében, a 100. § (1) bekezdésében, a 101. § (1) bekezdésében, a 102. § (1) és (2) bekezdésében, a 103. § (1) bekezdésében és a 104. § (1) bekezdésében meghatározott nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+94/A. § A 95. § (1) bekezdésében, a 96. § (1) bekezdésében, a 97. § (1) bekezdésében, a 98. § (1) bekezdésében, a 99. § (1) bekezdésében, a 99/A. § (1) bekezdésében, a 100. § (1) bekezdésében, a 101. § (1) bekezdésében, a 102. § (1) és (2) bekezdésében, a 103. § (1) bekezdésében és a 104. § (1) bekezdésében meghatározott nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 ### Idegenrendészeti résznyilvántartások
 
@@ -2769,6 +2769,23 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 
 (3) Az (1) bekezdés k) pontjában meghatározott adatokat az idegenrendészeti hatóság az engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezelheti, azt követően haladéktalanul törölni kell.
 
+99/A. § (1) Magyarország külképviselete és az idegenrendészeti hatóság az úti okmányt vagy egyszeri utazásra jogosító okmányt kérelmező harmadik országbeli állampolgárra vonatkozóan kezeli:
+
+- a) a természetes személyazonosító adatokat,
+- b) a bevándorolt, letelepedett, hontalan státuszt igazoló okmány számát, az okmány érvényességi idejét,
+- c) szálláshelyének címét, illetve lakcímét, valamint hozzájárulása esetén e-mail címét, telefonszámát,
+- d) az állampolgár arcképmását és saját kezű aláírását,
+- e) a kiskorú, továbbá a cselekvőképességet kizáró gondnokság alá helyezett állampolgár törvényes képviselőjének személyi adatait, személyi azonosítóját, személyazonosságát igazoló hatósági igazolványának számát és saját kezű aláírását,
+- f) kiskorú esetében a külföldre utazáshoz hozzájáruló nyilatkozat adatait, és a szülői felügyeleti jog megszűnését, illetve szünetelését igazoló jogerős határozat adatai közül a bíróság vagy hatóság megnevezését, ügyszámát, a határozat keltét, a szünetelés időtartamát, a megszüntetés kezdő időpontját,
+- g) a kiadott úti okmány típusát, számát, érvényességi idejét,
+- h) az úti okmány cseréjére, pótlására vonatkozó adatokat,
+- i) a Schengeni Információs Rendszerben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos adatokat,
+- j) az útlevélhatósági eljárást lefolytató alkalmazott egyedi azonosító kódját,
+- k) a külföldre utazás korlátozásának tényét vagy annak törlését,
+- l) az úti okmány iránti kérelem elutasításának indokát.
+
+(2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság az úti okmány iránti kérelem elutasítása esetén annak időpontjától, a kiadott úti okmány esetén annak érvényességi ideje lejártát, illetve visszavonását követő 10 évig kezeli.
+
 100. § (1) Az idegenrendészeti hatóság az úti okmány és a tartózkodásra jogosító okmány elvesztését, eltulajdonítását bejelentő harmadik országbeli állampolgár következő adatait kezeli:
 
 - a) a természetes személyazonosító adatok;
@@ -2813,9 +2830,10 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 103. § (1) Az idegenrendészeti hatóság a külföldre utazási korlátozás hatálya alatt álló harmadik országbeli állampolgárral kapcsolatos következő adatokat kezeli:
 
 - a) a harmadik országbeli állampolgár természetes személyazonosító adatai, valamint
-- b) a külföldre utazási korlátozást kezdeményező szerv megnevezése.
+- b) a külföldre utazási korlátozást kezdeményező szerv megnevezése,
+- c) a harmadik országbeli állampolgár úti okmányának típusa, száma, érvényességi ideje.
 
-(2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a korlátozás megszűnéséig kezeli.
+(2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a korlátozás megszűnését követő három évig kezeli.
 
 104. § (1) Az idegenrendészeti hatóság a nemzetközi szerződésekben vállalt kötelezettségek teljesítése céljából a Magyarországon őrizetbe vett, letartóztatott vagy személyi szabadságában bármely más módon korlátozott, továbbá a rendkívüli eseményekben (haláleset, súlyos sérüléssel járó baleset stb.) érintett harmadik országbeli állampolgár következő adatait kezeli:
 

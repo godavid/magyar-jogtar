@@ -23,7 +23,13 @@ Az Országgyűlés a kéményseprő-ipari tevékenység hosszú távú, zavartal
 - 13. sormunka: külön megrendelés nélkül, előzetes értesítést követően, rendszeres időközönként végzett kéményseprő-ipari tevékenység;
 - 14. tartalék (biztonsági) égéstermék-elvezető: olyan égéstermék-elvezető, amely a tartalékfűtés célját szolgálja, üzemképes állapotban van, de nincs rácsatlakoztatva tüzelőberendezés;
 - 15. tüzelőberendezés: szilárd, cseppfolyós vagy légnemű energiatermelő anyaggal üzemelő berendezés, amelyben a működés során égéstermék keletkezik;
-- 16. egylakásos ingatlan: nem társasházként vagy szövetkezeti házként nyilvántartott lakóingatlan.
+- 16. egylakásos ingatlan: nem társasházként vagy szövetkezeti házként nyilvántartott lakóingatlan;
+- 17. ellátási terület: a megye (főváros) közigazgatási területének azon része, amelyen
+  - a) a kéményseprő-ipari szerv a 10. § (1) bekezdés b) pontja szerinti esetben a 2. § (1) bekezdés a) pontja szerinti ingatlanok körében, valamint a 2. § (11) bekezdés szerinti esetben a 2. § (1) bekezdés a) és b) pontja szerinti ingatlanok körében,
+  - b) a kéményseprő-ipari szolgáltató – a tűzvédelmi hatóság által a 7. § (4) bekezdése szerint vezetett nyilvántartásba történt felvételt követően – a 2. § (1) bekezdés b) pontja szerinti ingatlanok körében, vagy
+  - c) a 10. § (3) bekezdése szerinti szolgáltató a 10. § (1) bekezdés a) pontja szerinti esetben a 2. § (1) bekezdés a) és b) pontja szerinti ingatlanok körében
+
+kéményseprő-ipari tevékenységet végez.
 
 #### 2. A kéményseprő-ipari tevékenységre vonatkozó szabályok
 
@@ -131,7 +137,11 @@ kell elvégezni.
 (2) Az ingatlan használója köteles
 
 - a) a kéményseprő-ipari szerv vagy a kéményseprő-ipari szolgáltató 2. § (4) és (5) bekezdésében meghatározott feladatainak ellátását lehetővé tenni és az ehhez szükséges feltételeket biztosítani;
-- b) a kéményseprő-ipari szervnek, a kéményseprő-ipari szolgáltatónak a tevékenysége során megadni a családi és utónevét, a lakóhelyének, tartózkodási és értesítési helyének címét (a továbbiakban: személyes adat), az ingatlan címadatait, valamint a gazdálkodó szervezet nevét, székhelyét, telephelyét, fióktelepét, képviselőjének nevét, cégjegyzékszámát vagy egyéb nyilvántartási számát;
+- b) a kéményseprő-ipari szervnek, a kéményseprő-ipari szolgáltatónak azok tevékenysége során megadni
+  - ba) a családi és utónevét, lakóhelyének, tartózkodási és értesítési helyének címét, valamint, ha arról tudomása van, az ingatlan tulajdonosának családi és utónevét, lakóhelye, tartózkodási és értesítési helye címét,
+  - bb) az ingatlan címadatait,
+  - bc) ha az ingatlan gazdálkodó szervezet székhelye, telephelye vagy fióktelepe, ennek tényét, valamint a gazdálkodó szervezet elnevezését, székhelyét, cégjegyzékszámát vagy egyéb nyilvántartási számát, képviselőjét,
+  - bd) az ingatlan jellegét, így különösen, hogy az ingatlan társasház, lakásszövetkezeti lakóépület vagy egylakásos ingatlan,
 - c)
 - d) a 3. § (2) és (4) bekezdésében meghatározott esetben a tüzelőberendezés és az égéstermék-elvezető üzemeltetését azonnal szüneteltetni;
 - e) a 3. § (2) bekezdésébe nem tartozó szabálytalanságot legkésőbb a következő ellenőrzés időpontjáig megszüntetni;
@@ -174,7 +184,7 @@ kell elvégezni.
 
 (10) A piacfelügyeleti hatóság a (9) bekezdés szerinti nyilvántartást honlapján közzéteszi.
 
-(11) Az ingatlan használója vagy tulajdonosa a kéményseprő-ipari szolgáltató kéményseprő-ipari tevékenységével kapcsolatos panaszával – más hatósági eljárásokat megelőzően – köteles igazolható módon a kéményseprő-ipari szolgáltatóhoz fordulni.
+(11) Az ingatlan használója vagy tulajdonosa a kéményseprő-ipari szerv vagy a kéményseprő-ipari szolgáltató kéményseprő-ipari tevékenységével kapcsolatos panaszával – más hatósági eljárásokat megelőzően – köteles igazolható módon a kéményseprő-ipari szervhez, illetve a kéményseprő-ipari szolgáltatóhoz fordulni.
 
 (12) Az ingatlan használója jogosult a kéményseprő-ipari szervvel és a kéményseprő-ipari szolgáltatóval elektronikus úton kapcsolatot tartani.
 
@@ -190,6 +200,15 @@ kell elvégezni.
 
 igényelni, továbbá kezelni.
 
+(1a) A kéményseprő-ipari szolgáltató a kéményseprő-ipari tevékenység ellátása érdekében az ingatlan és az ingatlan tulajdonosának, használójának beazonosítása céljából jogosult az 5. § (2) bekezdés b) pontjában meghatározott adatokat
+
+- a) az ingatlan használójától, tulajdonosától,
+- b) a cégnyilvántartásból vagy a civil szervezetek nyilvántartásából,
+- c) az ingatlan-nyilvántartásból, valamint
+- d) a társasház közös képviselőjétől, lakásszövetkezeti lakóépület esetében a lakásszövetkezet elnökétől
+
+igényelni, továbbá kezelni.
+
 (2) Az (1) bekezdés d) pontja szerinti, az ingatlan-nyilvántartásból történő adatigénylés a tulajdonosi adatokkal kiegészített földkönyvre és földkönyvi kivonatra, valamint a tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles vagy nem hiteles tulajdonilap-másolatra terjed ki.
 
 (3) A kéményseprő-ipari szerv és a kéményseprő-ipari szolgáltató az égéstermék-elvezetők és a csatlakoztatott tüzelőberendezések kéményseprő-ipari tevékenység elvégzéséhez szükséges műszaki adatairól vezetett nyilvántartásban az ingatlan használójától és tulajdonosától, a tűzvédelmi hatóságtól, vezetékes gázzal üzemelő tüzelőberendezések esetében a földgázelosztótól vagy a műszaki biztonsági hatósági feladatot ellátó szervtől, valamint a tevékenysége ellátása során szerzett, a tevékenységéhez kapcsolódó műszaki adatokat kezeli.
@@ -199,7 +218,22 @@ igényelni, továbbá kezelni.
 - a) a tűzvédelmi hatóságnak;
 - b) a 3. § (2) bekezdés b) pontjában foglaltaknak megfelelően – a hatáskörébe tartozó esetben – a műszaki biztonsági hatósági feladatot ellátó szervnek is.
 
-(5) A kéményseprő-ipari szerv és a kéményseprő-ipari szolgáltató az (1) és a (3) bekezdés szerinti adatokat a kéményseprő-ipari tevékenységének megszűnéséig kezelheti, és azokat – a kéményseprő-ipari tevékenységet tovább folytató szervezet részére történt átadást követően – törli.
+(5) Az (1), az (1a) és a (3) bekezdés szerinti adatokat
+
+- a) a kéményseprő-ipari szerv és a kéményseprő-ipari szolgáltató a kéményseprő-ipari tevékenységének az – adatokkal érintett – ellátási területén történő megszűnéséig kezeli,
+- b) az a) pont szerinti adatkezelési jogosultság megszűnésekor
+  - ba) a kéményseprő-ipari szerv a kéményseprő-ipari tevékenység tekintetében az ellátási területen jogutód állami szerv részére,
+  - bb) a kéményseprő-ipari szolgáltató a kéményseprő-ipari szerv részére
+
+átadja és nyilvántartásából törli.
+
+(5a) A kéményseprő-ipari szolgáltató az (5) bekezdés b) pontja szerinti időpontban az érintett ellátási területen végzett
+
+- a) kéményseprő-ipari tevékenysége során birtokába került adatokból összeállított, a kéményseprő-ipari tevékenységével összefüggő valamennyi dokumentumot és nyilvántartást,
+- b) kéményseprő-ipari tevékenységével összefüggő, lezárt vagy folyamatban lévő ügyek dokumentumait és nyilvántartásait,
+- c) kéményseprő-ipari tevékenységével érintett ingatlanok címét, valamint az ingatlan használójának és tulajdonosának családi és utónevét, lakóhelyének, tartózkodási és értesítési helyének címét
+
+– a számviteli bizonylatok kivételével – a kéményseprő-ipari szerv részére külön jogszabályban meghatározott formában és módon adja át.
 
 (6) Az adatszolgáltatást az (1) bekezdésben meghatározott személyek a kéményseprő-ipari szerv, a (3) bekezdésben meghatározott személyek a kéményseprő-ipari szerv és a kéményseprő-ipari szolgáltató részére kötelesek teljesíteni.
 
@@ -210,7 +244,7 @@ igényelni, továbbá kezelni.
 (2) A tűzvédelmi hatóság hatáskörébe tartozóan
 
 - a) eljár a 3. § (2) bekezdésében meghatározott, az élet és a vagyonbiztonság közvetlen veszélyeztetése esetében;
-- b) eljár az ingatlan tulajdonosával szemben az e törvényben és külön jogszabályban a kéményseprő-ipari tevékenységgel kapcsolatban meghatározott kötelezettség nem teljesítése esetén, és legfeljebb harmincezer forint összegű bírságot szabhat ki;
+- b) eljár az ingatlan tulajdonosával szemben – a kéményseprő-ipari díj- és költségtérítés-fizetési kötelezettség nem teljesítése esetét kivéve – a kéményseprő-ipari tevékenységgel kapcsolatban jogszabályban meghatározott kötelezettség nem teljesítése esetén, és legfeljebb harmincezer forint összegű bírságot szabhat ki,
 - c) eljár az ingatlan használója, tulajdonosa panaszának az 5. § (11) bekezdés szerinti eljárás utáni fennmaradása esetén a panaszokról és a közérdekű bejelentésekről szóló törvény alapján;
 - d) a kéményseprő-ipari szolgáltató által kiállított, a 2. § (8) bekezdése szerinti, a kéményseprő-ipari tevékenység elvégzésének eredményét tartalmazó dokumentum
   - da) kiadására vonatkozó vitás ügyekben eljár,
@@ -223,11 +257,15 @@ igényelni, továbbá kezelni.
 
 - a) a kéményseprő-ipari szolgáltató képviseletét ellátó természetes személy személyazonosító adatait,
 - b) a kéményseprő-ipari szolgáltató vagy képviselője telefonszámát, elektronikus levélcímét, székhelyét és telephelyét,
-- c) a kéményseprő-ipari tevékenység megkezdésének és befejezésének időpontját.
+- c) a kéményseprő-ipari tevékenység megkezdésének és befejezésének időpontját,
+- d) a kéményseprő-ipari szolgáltató ügyfélszolgálatának címét, telefonszámát, elektronikus elérhetőségét, honlapját,
+- e) a kéményseprő-ipari szolgáltató ellátási területét és a 2. § (1) bekezdése szerint ellátandó ingatlankört.
 
 (5) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a kéményseprő-ipari szolgáltató és képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(6) A (4) bekezdés szerinti nyilvántartásba jogszabályban meghatározott szakmai, személyi, tárgyi és gazdasági feltételeknek megfelelő azon kéményseprő-ipari szolgáltató vehető fel, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott módon kérte a nyilvántartásba történő felvételét. A (4) bekezdés szerinti nyilvántartásba fel nem vett kéményseprő-ipari szolgáltató kéményseprő-ipari tevékenységet nem végezhet.
+(6) A (4) bekezdés szerinti nyilvántartásba jogszabályban meghatározott szakmai, személyi, tárgyi és gazdasági feltételeknek megfelelő azon gazdálkodó szervezet vehető fel, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott módon kérte a nyilvántartásba történő felvételét. A (4) bekezdés szerinti nyilvántartásba fel nem vett gazdálkodó szervezet kéményseprő-ipari tevékenységet nem végezhet.
+
+(6a) Ha a (4) bekezdés szerinti nyilvántartásba fel nem vett gazdálkodó szervezet kéményseprő-ipari tevékenységet végez, e gazdálkodó szervezet esetében a (7) bekezdést megfelelően alkalmazni kell.
 
 (7) A tűzvédelmi hatóság
 
@@ -254,7 +292,8 @@ igényelni, továbbá kezelni.
 - c) a kéményseprő-ipari szolgáltatóval és ingatlan tulajdonosával szemben kiszabható bírságon kívüli egyéb jogkövetkezmények körét, valamint a bírság és az egyéb jogkövetkezmények megállapításának elveit és az eljárás rendjét;
 - d) a 7. § szerinti tűzvédelmi hatósági feladatok, valamint a hatósági eljárások lefolytatása során a kéményseprő-ipari tevékenységet ellátók kötelező közreműködésének részletes szabályait;
 - e) a kéményseprő-ipari szervnek, kéményseprő-ipari szolgáltatónak az ingatlan tulajdonosa, használója értesítésével összefüggő feladatait;
-- f) a szén-monoxid-érzékelő berendezésekkel összefüggő piacfelügyeleti hatósági feladatokat ellátó szervet, valamint a szén-monoxid-érzékelő berendezéssel kapcsolatos piacfelügyeleti hatósági eljárások részletes szabályait.
+- f) a szén-monoxid-érzékelő berendezésekkel összefüggő piacfelügyeleti hatósági feladatokat ellátó szervet, valamint a szén-monoxid-érzékelő berendezéssel kapcsolatos piacfelügyeleti hatósági eljárások részletes szabályait;
+- g) az ingatlan használójának, tulajdonosának, vagyonkezelőjének, valamint a társasházak, lakásszövetkezetek képviseletét ellátónak – a kéményseprő-ipari feladatok ellátása érdekében az ingatlan azonosításának céljából – a kéményseprő-ipari szerv részére történő adatszolgáltatása és a kéményseprő-ipari szervvel történő együttműködése részletes szabályait.
 
 (2) Felhatalmazást kap a településüzemeltetésért, kéményseprő-ipari tevékenységért felelős miniszter, hogy rendeletben állapítsa meg
 

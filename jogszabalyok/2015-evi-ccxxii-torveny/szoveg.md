@@ -46,7 +46,7 @@ Az Országgyűlés az elektronikus ügyintézés széles körű elterjedése, az
   - h) a bírósági végrehajtó, az önálló bírósági végrehajtó iroda,
   - i) a hegyközségek kivételével a köztestület,
   - j) a közüzemi szolgáltató,
-  - k) a törvényben vagy kormányrendeletben elektronikus ügyintézésre kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalany, valamint
+  - k) a törvényben vagy kormányrendeletben elektronikus ügyintézés biztosítására kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalany, valamint
   - l) a meghatározott ügyek e törvény szerinti elektronikus intézését önkéntesen vállaló, az e törvényben meghatározott feltételeknek megfelelően biztosító és ezt az Elektronikus Ügyintézési Felügyeletnek bejelentő, az a)–k) alpont hatálya alá nem tartozó jogalany;
 - 17a. Elektronikus ügyintézés biztosítására kötelezett állami szerv: az 17. pont a), b), d)–f) alpontja szerinti szervek, valamint a 17. pont c), k) és l) pontja szerinti állami vagy önkormányzati jogalanyok;
 - 18. Elektronikus Ügyintézési Felügyelet (a továbbiakban: Felügyelet): az elektronikus ügyintézés előmozdításáért, az elektronikus ügyintézés felügyeletéért, az együttműködő szervek együttműködéséért és koordinációjáért felelős, e törvényben és a törvény végrehajtására kiadott kormányrendeletben meghatározott feladatokat ellátó, Kormány által kijelölt szerv;
@@ -62,6 +62,7 @@ Az Országgyűlés az elektronikus ügyintézés széles körű elterjedése, az
 - 28. irányadó bizalmi szolgáltatási követelmények: az eIDAS Rendeletben, az eIDAS Rendelet uniós végrehajtási aktusaiban, az e törvényben, az e törvény felhatalmazása alapján kiadott jogszabályokban, a bizalmi szolgáltató szolgáltatási szabályzatában, bizalmi szolgáltatási rendjében, valamint a bizalmi felügyelet bizalmi szolgáltatóra vonatkozó határozatában meghatározott követelmények;
 - 29. jogi képviselő: jogszabály eltérő rendelkezése hiányában az ügyfél képviseletében eljáró ügyvéd, ügyvédi iroda és kamarai jogtanácsos;
 - 30. kormányzati célú hírközlési szolgáltatás: az elektronikus hírközlésről szóló törvényben meghatározott kormányzati célú hálózatnak minősülő, jogszabályban meghatározott elektronikus hírközlő hálózat felhasználásával, jogszabályban meghatározott felhasználók részére nyújtott elektronikus hírközlési szolgáltatás;
+- 30a. központi állami szolgáltatás: olyan, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásnak, valamint központi elektronikus ügyintézési szolgáltatásnak nem minősülő, központi szolgáltatásként nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet az állam kijelölt központi szolgáltatón keresztül biztosít;
 - 31. központi dokumentumhitelesítési ügynök: olyan központi elektronikus ügyintézési szolgáltatás, ahol az ügyfél vagy az elektronikus ügyintézést biztosító szerv ügyintézője az általa feltöltött iratot a szolgáltatás által felkínált hitelesítési módok közül választva hitelesítheti;
 - 32. közfeladatot ellátó szerv: a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvényben meghatározott, a 17. pontban foglaltak közé nem tartozó közfeladatot ellátó szerv;
 - 33. közüzemi szolgáltató: az a vállalkozás, amely törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozik, amely e kötelezettség alapján víziközmű-szolgáltatást, távhőszolgáltatást, települési szilárd és folyékony hulladék rendszeres begyűjtésére, gyűjtésére, elszállítására és elhelyezésére irányuló szolgáltatást, kéményseprő-ipari szolgáltatást, egyetemes postai szolgáltatást, villamos energia egyetemes szolgáltatásra jogosult felhasználó részére villamosenergia-vásárlási szerződés vagy hálózathasználati szerződés alapján nyújtandó szolgáltatást, valamint földgáz egyetemes szolgáltatásra jogosult felhasználó részére földgáz-kereskedelmi szerződés vagy elosztóhálózat-használati szerződés alapján nyújtandó szolgáltatást nyújt és a szolgáltatásaiért a tárgyévet megelőző évben havonta átlagosan legalább 150 000 számlát bocsátott ki;
@@ -187,7 +188,7 @@ teljesítheti.
 
 (2) Kérelemre induló automatikus döntéshozatali eljárás során az ügyfél az elektronikus azonosítást követően az elektronikus ügyintézést biztosító szerv által biztosított elektronikus űrlap útján nyújtja be kérelmét.
 
-(3) Az elektronikus ügyintézést biztosító szerv a honlapján, valamint a személyes ügyintézési felületen is elérhető módon közzéteszi az alkalmazott döntéshozatali eljárás módszertanát és lényeges szabályait.
+(3) Az elektronikus ügyintézést biztosító szerv a honlapján, valamint a személyre szabott ügyintézési felületen is elérhető módon közzéteszi az alkalmazott döntéshozatali eljárás módszertanát és lényeges szabályait.
 
 #### 6. Átjárás a papír alapú és az elektronikus ügyintézés között
 
@@ -466,7 +467,9 @@ szükséges tájékoztatást kérni és kapni.
 
 (9) Az állam a (3) bekezdés szerinti elektronikus ügyintézést biztosító információs rendszer működtetéséhez szükséges, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásokat, valamint központi elektronikus ügyintézési szolgáltatásokat az 1. § 17. pont a)–i), valamint k) alpontja szerinti szerveknek díjmentesen biztosítja.
 
-(10) Az elektronikus ügyintézést biztosító szerv az elektronikus kapcsolattartási lehetőség megváltozása előtt – az informatikai biztonság sérülésének veszélye vagy bekövetkezése kivételével – a változást a honlapján a változást megelőző 30 nappal közzéteszi és a Felügyeletnek bejelenti. Az elektronikus ügyintézést biztosító szerv a honlapján a módosítást követő tizennégy napon keresztül jelzi annak tényét, hogy a kapcsolattartás módja megváltozott. A kapcsolattartási mód megváltozását jelenti az is, ha az elektronikus ügyintézést biztosító szerv az űrlapot megváltoztatja.
+(10) Az elektronikus ügyintézést biztosító szerv az elektronikus kapcsolattartási lehetőség megváltozása előtt – az informatikai biztonság sérülésének veszélye vagy bekövetkezése kivételével – a változást a honlapján a változást megelőző 30 nappal közzéteszi és a Felügyeletnek bejelenti. Az elektronikus ügyintézést biztosító szerv a honlapján a módosítást követő 14 napon keresztül jelzi annak tényét, hogy a kapcsolattartás módja megváltozott.
+
+(11) Az elektronikus űrlap megváltozása esetén a (10) bekezdés alkalmazandó azzal az eltéréssel, hogy a változást előzetesen 14 nappal korábban kell közzétenni, és a változást a Felügyeletnek nem kell bejelenteni.
 
 #### 15. Tájékoztatási kötelezettségek
 
@@ -480,9 +483,9 @@ szükséges tájékoztatást kérni és kapni.
 
 #### 16. Üzemszünet, üzemzavar
 
-27. § (1) Az elektronikus ügyintézést biztosító szerv minden olyan tervezhető technikai tevékenységet, amely a szolgáltatás vagy az elektronikus ügyintézés szünetelését eredményezi, köteles olyan időszakra ütemezni, amelyben a szünetelés nem okoz jelentős fennakadást az elektronikus ügyintézésben.
+27. § (1) A szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója vagy az elektronikus ügyintézést biztosító szerv minden olyan tervezhető technikai tevékenységet, amely a szolgáltatás vagy az elektronikus ügyintézés szünetelését eredményezi, köteles olyan időszakra ütemezni, amelyben a szünetelés nem okoz jelentős fennakadást az elektronikus ügyintézésben.
 
-(2) Az elektronikus ügyintézést biztosító szerv minden olyan előre tervezett technikai tevékenységről köteles az ügyfeleket legalább 3 nappal a tevékenység megkezdése előtt tájékoztatni, amely a szolgáltatás vagy az elektronikus ügyintézés szünetelését vagy korlátozott működőképességét eredményezi.
+(2) A szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója vagy az elektronikus ügyintézést biztosító szerv minden olyan előre tervezett technikai tevékenységről, amely a szolgáltatás vagy az elektronikus ügyintézés szünetelését vagy korlátozott működőképességét eredményezi, legalább a tevékenység megkezdése előtt 3 nappal köteles a Kormány rendeletében meghatározott tartalommal és elérhetőségeken tájékoztatást elhelyezni.
 
 (3) Az elektronikus ügyintézés 1 munkanapot meghaladó szünetelése esetén az elektronikus ügyintézést biztosító szerv köteles biztosítani az ügyfelek beadványainak elektronikus utat nem igénylő módon történő fogadását és feldolgozását, abban az esetben is, ha az adott eljárástípusban a vonatkozó jogszabály alapján kizárólag elektronikus ügyintézésre van lehetőség.
 
@@ -494,9 +497,9 @@ szükséges tájékoztatást kérni és kapni.
 
 #### 17. Adatszolgáltatás
 
-28. § (1) Az elektronikus ügyintézést biztosító szerv legkésőbb az elektronikus ügyintézési lehetőségnek az adott ügyfajtában történő biztosítása megkezdése előtt 30 nappal, az e törvény felhatalmazása alapján a Kormány rendeletében meghatározott adatokat a 26. § (1) bekezdése szerinti tájékoztatás, valamint a szolgáltatási szabályzat tervezetének megküldése mellett elektronikus úton, a Felügyelet által rendszeresített elektronikus űrlapon bejelenti a Felügyelet számára.
+28. § (1) Az elektronikus ügyintézést biztosító szerv az elektronikus ügyintézési lehetőségnek az adott ügyben történő biztosítása megkezdése előtt 30 nappal, a Kormány rendeletében meghatározott adatokat, a 26. § (1) bekezdése szerinti tájékoztatás megküldése mellett elektronikus úton, a Felügyelet által rendszeresített elektronikus űrlapon bejelenti a Felügyelet számára.
 
-(2) Az elektronikus ügyintézést biztosító szerv az (1) bekezdés szerinti adatokban, tájékoztatóban vagy szolgáltatási szabályzatban bekövetkező változásokat a változás hatálybalépése előtt legkésőbb 15 nappal az (1) bekezdés szerint bejelenti a Felügyeletnek.
+(2) Az elektronikus ügyintézést biztosító szerv az (1) bekezdés szerinti adatokban, tájékoztatóban bekövetkező változásokat a változás hatálybalépése előtt legkésőbb 15 nappal az (1) bekezdés szerint bejelenti a Felügyeletnek.
 
 (3) A Felügyelet az e § szerinti adatszolgáltatás alapján az e törvényben foglalt követelmények teljesülésének ellenőrzéséhez szükséges körben az elektronikus ügyintézést biztosító szervet további adatok szolgáltatására kötelezheti.
 
@@ -749,7 +752,9 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 
 ### VII/A. Fejezet — EGYES E-ÜGYINTÉZÉSI SZOLGÁLTATÁSOK IGÉNYBEVÉTELE
 
-42/A. § A törvényben vagy kormányrendeletben meghatározott szabályozott elektronikus ügyintézési szolgáltatások és központi elektronikus ügyintézési szolgáltatások – a Kormány rendeletében meghatározott módon – az elektronikus ügyintézést nem biztosító szerv által is igénybevehető.
+42/A. § (1) A törvényben vagy kormányrendeletben meghatározott szabályozott elektronikus ügyintézési szolgáltatások, a központi elektronikus ügyintézési szolgáltatások és a központi állami szolgáltatások – a Kormány rendeletében meghatározott módon – az elektronikus ügyintézést nem biztosító szerv által is igényelhetőek.
+
+(2) Az e törvény végrehajtására kiadott rendeletben meghatározott piaci szereplők által az (1) bekezdésben meghatározott, ellenszolgáltatás mellett igénybe vehető szolgáltatások esetén, a piaci szolgáltató más igénybevevők részére történő szolgáltatás nyújtása során az (1) bekezdésben meghatározott szolgáltatások továbbszolgáltatásáért ellenszolgáltatásra nem tarthat igényt.
 
 ### VIII. Fejezet — ELEKTRONIKUS ÜGYINTÉZÉST IGÉNYBE VEVŐ KÜLFÖLDI SZEMÉLYEK NYILVÁNTARTÁSA
 
@@ -838,7 +843,7 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 - e) a bejelentés nyilvánvalóan alaptalan,
 - f) az ismételten előterjesztett bejelentés érdemben új tényt, adatot nem tartalmaz.
 
-(3) A felügyeleti vizsgálat során a bejelentőt az általános közigazgatási rendtartásról szóló törvény szerinti ügyféli jogok nem illetik meg, de az eljárás eredményéről a Felügyelet tájékoztatja.
+(3) A felügyeleti vizsgálat során a bejelentőt az általános közigazgatási rendtartásról szóló törvény szerinti ügyféli jogok nem illetik meg, azonban a felügyeleti vizsgálat eredményéről a Felügyelet tájékoztatja.
 
 (4) A Felügyelet felügyeleti vizsgálatot indít továbbá, ha – akár névtelen bejelentés alapján – valószínűsíthető, hogy az elektronikus ügyintézést biztosító szerv az e törvényben meghatározott kötelezettségeit vagy az ügyfelek e törvényben meghatározott jogait megsérti, és a jogsértés az ügyfelek széles körét érinti vagy az komoly érdeksérelmet, kárveszélyt idézhet elő.
 
@@ -973,7 +978,7 @@ nem kell alkalmazni.
 
 (3) Az együttműködő szerv köteles legalább egy a (2) bekezdés a) vagy b) pontja szerinti elérhetőség, és ezenfelül jogosult egy vagy több biztonságos elektronikus kapcsolattartásra szolgáló elérhetőség, valamint e címek alkalmazására vonatkozó rendelkezések közzétételére, feltéve, hogy a további elérhetőségek tekintetében is biztosítja a jelen alcím szerinti követelmények teljesítését.
 
-(4) Az együttműködő szerv köteles legalább munkanaponként ellenőrizni az (1) bekezdés szerinti elérhetőségekre kézbesített küldeményeket. Az együttműködő szerv köteles ugyanezen határidőben visszaigazolni az (1) bekezdés szerint közzétett elektronikus levélcímre kézbesített küldemény kézhezvételét.
+(4) Az együttműködő szerv köteles legalább munkanaponként ellenőrizni és ugyanezen határidőben visszaigazolni az (1) bekezdés szerinti elérhetőségekre kézbesített küldeményeket.
 
 (5) Az együttműködő szerv az elektronikus kapcsolattartásra szolgáló elérhetőségének megváltozását a változást megelőzően köteles közzétenni.
 
@@ -1124,7 +1129,7 @@ továbbítják.
 
 (2) A Felügyelet az információforrások regiszterét hivatalból, az információátadási szabályzatok, megállapodások, valamint ezek módosításai alapján vezeti.
 
-(3) Ha a Felügyelet tudomást szerez arról, hogy az információátadási szabályzat vagy megállapodás nem felel meg a jogszabályban meghatározott feltételeknek, az együttműködő szervet vagy szerveket határozatban kötelezi a jogszerű állapot helyreállítására.
+(3)
 
 (4) Az információforrások regisztere nyilvános, az bárki számára azonosítás, díjfizetés vagy költségtérítés nélkül megismerhető.
 
@@ -1669,17 +1674,16 @@ egyidejűleg tartalmazza.
 
 104. §
 
-104/A. § (1) A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendeletben kijelölt központi szolgáltató (a továbbiakban: központi szolgáltató) a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére biztosítja
+104/A. § (1) A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendeletben kijelölt központi szolgáltató, valamint a kormányzati célú hálózatokról szóló kormányrendeletben kijelölt kormányzati célú hírközlési szolgáltató (a továbbiakban együtt: központi szolgáltató) a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére közszolgáltatásként nyújtja
 
-- a) az e-közigazgatásért felelős miniszter rendeletében meghatározott informatikai rendszer fejlesztését, üzemeltetését, vagy közreműködik annak fejlesztésében, valamint
+- a) az e-közigazgatásért felelős miniszter rendeletében meghatározott informatikai rendszer fejlesztését, üzemeltetését, vagy közreműködik annak fejlesztésében,
 - b) a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet szerinti központosított informatikai és hírközlési szolgáltatásokat,
+- c) a kormányzati célú hálózatokról szóló kormányrendelet szerinti kormányzati célú hálózatok igénybevételét, a kormányzati célú hírközlési tevékenységet, valamint a kormányzati célú hírközlési szolgáltatásokat, ha a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv vezetője ezek igénybevételét az e-közigazgatásért felelős miniszternél kezdeményezi.
 
-ha a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv vezetője ezek igénybevételét az e-közigazgatásért felelős miniszternél kezdeményezi.
+(2) Az (1) bekezdés szerinti szolgáltatások igénybevételének, a központi szolgáltató által nyújtott közszolgáltatás ellátásának a fedezetéül szolgáló forrást – az e-közigazgatásért felelős miniszter és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv vezetője egyeztetésének eredményétől függően –
 
-(2) Az (1) bekezdés szerinti szolgáltatások igénybevételének, a központi szolgáltató feladatai ellátásának a fedezetéül szolgáló forrást – az e-közigazgatásért felelős miniszter és a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv vezetője egyeztetésének eredményétől függően –
-
-- a) az e-közigazgatásért felelős miniszter által vezetett minisztérium költségvetésében, vagy
-- b) a központi szolgáltatóval történő közvetlen szerződéskötés esetén a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervnek a központi szolgáltatóval kötött megállapodásában foglaltak alapján
+- a) közvetlenül vagy a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv költségvetéséből történő átadással az e-közigazgatásért felelős miniszter által vezetett minisztérium költségvetésében, vagy
+- b) a központi szolgáltatóval történő közvetlen szerződéskötés esetén a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervnek
 
 kell biztosítani.
 
@@ -1758,7 +1762,7 @@ kell biztosítani.
 - a) a bizalmi szolgáltatásokkal kapcsolatos részletes követelményeket, így különösen a bizalmi szolgáltatók pénzügyi és személyzeti megfelelőségével, a tevékenységével és az általa használt eszközökkel kapcsolatos követelményeket, az igénybe vevők szerződésének megkötésével és a szerződéskötéssel összefüggő tájékoztatási kötelezettségével kapcsolatos követelményeket, valamint a szolgáltatási szerződésre, a bizalmi szolgáltatás nyújtásának egyéb feltételeire (így a bizalmi szolgáltatási rendre és szolgáltatási szabályzatra) vonatkozó részletes feltételeket,
 - b)
 - c) az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díj megfizetésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
-- d) a 104/A. § (1) bekezdés a) pontja alapján a központi szolgáltató által fejlesztett vagy üzemeltetett informatikai rendszert, valamint a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv által igénybevett központosított informatikai és hírközlési szolgáltatásokat rendeletben állapítsa meg.
+- d) a 104/A. § (1) bekezdés a) pontja alapján a központi szolgáltató által fejlesztett vagy üzemeltetett informatikai rendszereket, a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv által igénybevett központosított informatikai és hírközlési szolgáltatások, a kormányzati célú hálózatok és hálózati szolgáltatások igénybevételének szabályait rendeletben állapítsa meg.
 
 #### 61. Hatályba léptető rendelkezések
 
@@ -1774,23 +1778,23 @@ kell biztosítani.
 
 108. § (1) Az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2018. január 1. napjától kötelesek az ügyek elektronikus intézését az e törvényben meghatározottak szerint biztosítani.
 
-(2) Az 1. § 17. pont a)–k) alpontja szerinti jogalanyok – a (2b) és (2c) bekezdésben foglalt ügyek kivételével – 2017. január 1-jétől az (1) bekezdés szerinti határidőig a Felügyeletnél az elektronikus ügyintézési szolgáltatás megkezdését megelőzően, a 17. alcím szerinti adatszolgáltatás teljesítésével bejelenthetik, hogy a feladat- és hatáskörükbe tartozó egyes ügyek vagy valamennyi ügy tekintetében az (1) bekezdés szerinti határidőt megelőzően is vállalják az e törvény szabályainak megfelelő elektronikus ügyintézés biztosítását.
+(2)
 
-(2a) A Felügyelet a (2) bekezdés szerinti jogalanynak a Kormány rendeletében meghatározott adatait, valamint (2) bekezdés szerint a bejelentéssel érintett ügyeket – ha a jogalany valamennyi feladat- és hatáskörébe tartozó ügy tekintetében vállalta, akkor ennek megjelölését – a Hivatalos Értesítőben a bejelentést követő 8 napon belül közzéteszi.
+(2a)
 
-(2b) A polgári perrendtartásról szóló 1952. évi III. törvény hatálya alá tartozó ügyekben e törvény Második, Harmadik és Ötödik Részének rendelkezései közül csak azokat kell alkalmazni, amelyeket a polgári perrendtartásról szóló 2016. évi CXXX. törvény 630. § (6) bekezdése megjelöl.
+(2b)
 
-(2c) 2017. december 31-ig a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) hatálya alá tartozó ügyekben e törvény Második, Harmadik és Ötödik Részének rendelkezései közül csak azokat kell alkalmazni, amelyet a Be. megjelöl.
+(2c)
 
-(3) Az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2017. június 30-ig ütemtervet készítenek és küldenek a Felügyelet számára az (1) bekezdésből fakadó feladataik teljesítésére vonatkozóan.
+(3)
 
-(4) Az elektronikus ügyintézést 2017. január 1-jén már biztosító, az 1. § 17. pont a)–k) alpontja szerinti jogalanyok 2017. április 30-ig a Kormány által rendeletben meghatározott adatokat elektronikus úton, a Felügyelet által rendszeresített elektronikus űrlapon a Felügyelet számára bejelentik.
+(4)
 
-(4a) Az 1. § 17. pont d) alpontja szerinti jogalanyok esetében a (2), a (3) és a (4) bekezdésben, valamint a 109. § (2)–(3) bekezdésében meghatározott jogokat és kötelezettségeket az Országos Bírósági Hivatal teljesíti, illetve gyakorolja.
+(4a)
 
 (5) A 9. § (1) bekezdése szerinti kötelezettségének az ügyfél vagy jogi képviselő – ha törvény eltérően nem rendelkezik – 2018. január 1. napjától köteles eleget tenni.
 
-(6) A 14. § (1) bekezdés szerinti kötelezettséget a Második Rész hatálybalépésekor már létező gazdálkodó szervezet 2017. augusztus 30-ig köteles teljesíteni.
+(6)
 
 (6a) 2018. december 31-ig adóügyekben az elektronikus ügyintézést biztosító szervvel történő elektronikus kapcsolattartás során a gazdálkodó szervezet ügyfél a gazdálkodó szervezet hivatalos elérhetősége helyett a gazdálkodó szervezet nevében az ügyben eljáró természetes személy [a (6a) és (6b) bekezdés alkalmazásában a továbbiakban: természetes személy] azonosítása mellett a természetes személy 35. § (3) bekezdése szerinti tárhelyét is használhatja.
 
@@ -1802,33 +1806,23 @@ kell biztosítani.
 
 (7) E törvény hatálybalépését követően elektronikus ügyintézés céljából az elektronikus ügyintézést biztosító szervek kizárólag olyan új informatikai rendszereket állíthatnak működésbe, amelyek e törvény szerinti elektronikus ügyintézésre alkalmasak.
 
-(8) 2016. december 31-ig a 101. § (2) bekezdése szerinti irat és jognyilatkozat kézbesítésére a (9)–(16) bekezdés rendelkezéseit kell alkalmazni.
+(8)
 
-(9) A biztonságos kézbesítési szolgáltatási címre vagy a Kormány által rendeletben meghatározott egyéb típusú elektronikus elérhetőségre (a továbbiakban e § alkalmazásában: hivatalos elérhetőség) kézbesített küldemény kézbesítettnek minősül,
+(9)
 
-- a) ha a hivatalos elérhetőséget biztosító szolgáltató a küldemény a címzett által történő átvételét igazolja vissza, az igazolásban feltüntetett időpontban,
-- b) ha a hivatalos elérhetőséget biztosító szolgáltató azt igazolja vissza, hogy a küldemény átvételét a címzett megtagadta, a megtagadásra vonatkozó igazolásban feltüntetett időpontban, vagy
-- c) ha a hivatalos elérhetőséget biztosító szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
+(10)
 
-(10) Hivatalos elérhetőségnek olyan elérhetőség minősül, amely
+(11)
 
-- a) egyértelműen azonosíthatóan kizárólag az adott címzett elérhetősége,
-- b) alkalmas a küldés és fogadás időpontjának, valamint az átvevő személynek egyértelmű elektronikus azonosítására,
-- c) garantálja a dokumentum sértetlen fogadását,
-- d) kezeli a sikertelen kézbesítés eseteit, és
-- e) a (9) bekezdésben foglaltak visszaigazolására alkalmas.
+(12)
 
-(11) A 101. § (1) bekezdése b) pontja szerinti fél (a továbbiakban e § alkalmazásában: fél) ügyintézési rendelkezésében jogosult megadni olyan hivatalos elérhetőséget, amely tekintetében vállalja a (9) és (10) bekezdés szerinti követelmények teljesítését. Ebben az esetben a kézbesítés időpontja és a kézbesítési fikció tekintetében a (10) bekezdés rendelkezéseit kell alkalmazni.
+(13)
 
-(12) Ha az eljárást a fél kezdeményezte elektronikusan, az elektronikus ügyintézést biztosító szerv a (11) bekezdés szerinti nyilatkozat hiányában is kézbesítheti a küldeményét a fél általa ismert, a (9) és (10) bekezdésben előírt feltételeknek megfelelő elérhetőségére. Ebben az esetben a kézbesítés időpontja és a kézbesítési fikció tekintetében a (9) bekezdés rendelkezéseit kell alkalmazni. Az elektronikus ügyintézést biztosító szerv a hivatalos elérhetőségre történő kézbesítéssel egyidejűleg – ha az technikailag lehetséges és az a hivatalos elérhetőségtől eltér – a fél kérelménél használt elektronikus kapcsolattartási címen értesíti a felet arról, hogy a kézbesítés a hivatalos elérhetőségre történt.
+(14)
 
-(13) Ha a fél a (11) bekezdés szerint nem ad meg hivatalos elérhetőséget, úgy az elektronikus ügyintézést biztosító szerv – ha a fél az ügyintézési rendelkezésében nem zárta ki – megkísérelheti a fél általa ismert elektronikus elérhetőségére kézbesíteni a küldeményt. Ebben az esetben a (9) bekezdés alkalmazandó azzal, hogy a kézbesítés második sikertelen megkísérlését követően az elektronikus ügyintézést biztosító szerv köteles más módon intézkedni az irat vagy értesítés kézbesítéséről.
+(15)
 
-(14) A hivatalos elérhetőségnek nem minősülő elérhetőségek tekintetében jogszabályban előírtak szerint igazolható a kézbesítés ténye, kézbesítési fikció e kézbesítéshez nem fűződik.
-
-(15) Ha a fél az elektronikus ügyintézést biztosító szervnek címzett nyilatkozatában elektronikus levelezési címét, rövid szöveges üzenet fogadására alkalmas telefonszámát vagy más, elektronikus úton való kapcsolattartásra alkalmas elérhetőségét feltüntette, és ettől eltérő ügyintézési rendelkezést nem tett, az elektronikus ügyintézést biztosító szerv jogosult ezen az elérhetőségen tájékoztatás jellegű kapcsolatot tartani a féllel. Ha a fél hivatalos elérhetőséggel is rendelkezik, az elektronikus ügyintézést biztosító szerv elsősorban a hivatalos elérhetőségen tart kapcsolatot a féllel, az e bekezdés szerinti elérhetőséget kizárólag a fél értesítése vagy tájékoztatása céljából használja.
-
-(16) Ha az elektronikus ügyintézés nem kötelező, a félnek az elektronikus ügyintézést teljes körben vagy az érintett eljárási cselekmény vonatkozásában kizáró ügyintézési rendelkezése az elektronikus nyilatkozatra vonatkozó kézbesítési fikció beálltát is kizárja.
+(16)
 
 108/A. § (1) 2019. december 31-ig, ha az ügyfél által elektronikusan benyújtani kívánt nyilatkozat vagy mellékletének (a továbbiakban e § alkalmazásában együtt: nyilatkozat) mérete az elektronikus ügyintézést biztosító szerv által megjelölt méretkorlátot meghaladja, elektronikus a kapcsolattartás akkor is, ha az ügyfél a nyilatkozatát tartós adathordozón nyújtja be és a nyilatkozat megfelel a 17. § (1) bekezdés b) pontjában foglaltaknak.
 
@@ -1842,9 +1836,9 @@ kell biztosítani.
 
 109. § (1) Az együttműködő szervek 2018. január 1-től kötelesek az e törvény szerinti informatikai együttműködésre.
 
-(2) Az együttműködő szerv az informatikai együttműködést – az információátadási szabályzat Felügyeletnek való megküldésével és közzétételével – 2018. január 1. előtt is vállalhatja.
+(2)
 
-(3) Az együttműködő szervek az információátadási szabályzataikat 2017. július 1-ig kötelesek előkészíteni és a Felügyeletnek véleményezés céljából megküldeni.
+(3)
 
 110. § (1) Azok az elektronikus aláírásról szóló 2001. évi XXXV. törvény (a továbbiakban: Eat.) szerinti elektronikus aláírással kapcsolatos szolgáltatást nyújtó szolgáltatók, akik 2016. június 30-án a Nemzeti Média- és Hírközlési Hatóság nyilvántartásában bejelentett szolgáltatóként szerepeltek, és az e törvény szerinti bizalmi szolgáltatásra vonatkozóan nem tesznek bejelentést, az Eat. szerinti elektronikus aláírással kapcsolatos szolgáltatásaikat legkésőbb 2017. július 1-jéig kötelesek befejezni, amely kötelezettség teljesítésére az Eat. 16. §-a és 16/N. §-a szerinti rendelkezések alkalmazandók azzal, hogy a befejezéssel kapcsolatos kötelezettségeikkel összefüggésben 2017. július 2-át követően a bizalmi felügyelet a 89. §, valamint a 95. § és a 96. § szerint jár el.
 
@@ -1860,11 +1854,9 @@ kell biztosítani.
 
 (7) A Negyedik Rész kivételével, ahol jogszabály minősített elektronikus bélyegzőt jelöl meg, azzal a (2) bekezdés szerinti átmeneti időszak alatt az Eat. szerinti minősített szervezeti elektronikus aláírást egyenértékűnek kell tekinteni.
 
-110/A. § (1) 2017. január 31-ig a Központi Ügyfél-regisztrációs Nyilvántartásban szereplő személyek természetes személyazonosító adatait a Központi Ügyfél-regisztrációs Nyilvántartást vezető szerv megfeleltethetőség és kapcsolati kód képzése céljából átadja a 31. § (2) bekezdése szerinti nyilvántartást vezető szerveknek a 31. § (2) bekezdés a)–c) pontja szerinti sorrendben.
+110/A. §
 
-(2) Az (1) bekezdés szerinti adatátadást követő 15 napon belül a 31. § (2) bekezdése szerinti nyilvántartást vezető szerv megfeleltethetőség esetén a kapcsolati kódot a hozzá tartozó természetes személyazonosító adatokkal átadja a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervnek bejegyzés céljából.
-
-110/B. § 2017. december 31-ig, ha jogszabály alapján az ügyfél elektronikus ügyintézésre köteles és a 14. § szerinti elektronikus elérhetősége az elektronikus ügyintézést biztosító szerv számára nem ismert, az elektronikus ügyintézést biztosító szerv az ügyféllel első alkalommal papír alapon veszi fel a kapcsolatot, és ezzel egyidejűleg felhívja az ügyfelet arra, hogy beadványait, iratait, okirati bizonyítékait kizárólag elektronikus úton nyújthatja be, és tájékoztatja a nem elektronikus úton történő benyújtás jogkövetkezményeiről.
+110/B. §
 
 #### 63. Az Európai Unió jogának való megfelelés
 

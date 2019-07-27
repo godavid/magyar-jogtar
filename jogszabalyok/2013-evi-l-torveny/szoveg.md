@@ -186,7 +186,7 @@ szervezeti egységeket az elektronikus információs rendszerek védelmére val�
 
 (5) A szervezet vagy szervezeti egység az e törvényben meghatározott feltételeknek megfelelő, az adott szervezetre irányadó besorolási szintnél magasabb szintű besorolást is megállapíthat.
 
-(6) Az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek szervezetei tekintetében az e törvényben meghatározott feltételeknek megfelelő, az adott szervezetre irányadó besorolási szintnél magasabb, a hatóság előzetes engedélyével, kockázatokra kiterjedő indoklással ellátva alacsonyabb szintű besorolás is megállapítható.
+(6) Az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek szervezetei tekintetében az e törvényben meghatározott feltételeknek megfelelő, az adott szervezetre irányadó besorolási szintnél magasabb, vagy indoklással ellátva alacsonyabb szintű besorolás is megállapítható.
 
 10. § (1) A szervezet vagy szervezeti egység jogszabályban meghatározott szempontok alapján meghatározza, hogy a vizsgálat elvégzésekor melyik biztonsági szintnek felel meg.
 
@@ -398,7 +398,7 @@ vonatkozásában – a (8) bekezdésben foglaltak kivételével – a Kormány r
 
 (7) Az érintett szervezet a feltárt hiányosságokról, a sérülékenységek megszüntetésére vonatkozó intézkedési tervről a vizsgálatok lezárását követően tájékoztatja az érintett hatóságot.
 
-(8) A 19. § (3) bekezdése szerinti eseménykezelő központ a honvédelmi célú elektronikus információs rendszerek vonatkozásában, a 19. § (4) bekezdése szerinti eseménykezelő központ a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában elvégzi a sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát.
+(8) A 19. § (2) bekezdése szerinti eseménykezelő központ a honvédelmi célú elektronikus információs rendszerek vonatkozásában, a 19. § (3) bekezdése szerinti eseménykezelő központ a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában elvégzi a sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát.
 
 (9) A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát az (5) bekezdés szerinti állami szerv végzi el, ha az (5) bekezdés b) pontja szerinti elektronikus információs rendszereken kívüli, európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei tekintetében nincs a sérülékenységvizsgálat, illetve a biztonságiesemény-vizsgálat elvégzésére a jogszabályban meghatározott feltételeknek megfelelő gazdálkodó szervezet.
 
