@@ -2693,23 +2693,21 @@ visszavonhatja átjelentkezési kérelmét.
 
 (2a) Az azon nemzetiséghez tartozó jelölő szervezet, amelynek települési önkormányzati választására a településen sor kerül, a szavazóhelyiségbe egy megfigyelőt bízhat meg. Megfigyelő csak a központi névjegyzékben a nemzetiség választópolgáraként nyilvántartott választópolgár lehet. A megfigyelőre egyebekben az 5. § (4) és (5) bekezdésének, a 29–31. §, valamint a 32. § (3) bekezdésének rendelkezéseit kell alkalmazni.
 
-(3) A szavazatszámláló bizottságot a helyi választási iroda vezetője a póttagok közül a szükséges számban kiegészíti, ha a nemzetiségi szavazókör névjegyzékében lévő választópolgárok száma meghaladja a kilencszázat.
+(3)
 
-#### 142. A szavazókör kialakítása
+#### 142.
 
-312. § (1) Valamennyi nemzetiség számára közös szavazókör szolgál.
-
-(2) A helyi választási iroda vezetőjének kezdeményezésére a Nemzeti Választási Iroda elnöke – a népszámlálási adatokra tekintettel – engedélyezheti, hogy a helyi választási iroda vezetője a településen több szavazókört alakítson ki.
-
-(3) Egy nemzetiség választópolgárait egy szavazókörbe kell sorolni. Ha a nemzetiség választópolgárainak száma a településen meghaladja a százat, e választópolgárok különböző szavazókörökbe is sorolhatók, de egy szavazókörre legalább a nemzetiség harminc választópolgárának kell jutnia.
+#### 312. §
 
 #### 143. A névjegyzék
 
-313. § A választópolgár azon településen szerepelhet a nemzetiségi szavazóköri névjegyzékben, ahol a helyi önkormányzati képviselők és polgármesterek választásának szavazóköri névjegyzékében szerepel vagy – időközi választás esetén – szerepelhet.
+313. § A választópolgár azon településen szerepelhet a szavazóköri névjegyzékben nemzetiségi választópolgárként, ahol a helyi önkormányzati képviselők és polgármesterek választásának szavazóköri névjegyzékében szerepel vagy – időközi választás esetén – szerepelhet.
 
-314. § Az értesítő, valamint a szavazóköri névjegyzék a nemzetiség megnevezését is tartalmazza.
+314. § (1) Az értesítő, valamint a szavazóköri névjegyzék tartalmazza a választópolgár nemzetiségének megnevezését is, ha a választópolgár legkésőbb a szavazást megelőző tizenhatodik napon benyújtott kérelme alapján szerepel nemzetiségi választópolgárként a központi névjegyzékben.
 
-315. § A nemzetiségi szavazóköri névjegyzékbe azt a választópolgárt kell felvenni, aki legkésőbb a szavazást megelőző tizenhatodik napon benyújtott kérelme alapján szerepel nemzetiségi választópolgárként a központi névjegyzékben.
+(2) Ha legkésőbb a szavazást megelőző második napon a választópolgár kérelmére a választópolgár nemzetiséghez tartozását a választási iroda törli a központi névjegyzékből, a szavazóköri névjegyzékből a választópolgár nemzetiségi adatát törölni kell.
+
+315. § Nemzetiségi választópolgárként azt a választópolgárt kell felvenni a szavazóköri névjegyzékbe, aki legkésőbb a szavazást megelőző tizenhatodik napon benyújtott kérelme alapján szerepel nemzetiségi választópolgárként a központi névjegyzékben.
 
 #### 144. A jelölt- és listaállításhoz szükséges ajánlások számának megállapítása
 
@@ -2767,19 +2765,15 @@ visszavonhatja átjelentkezési kérelmét.
 
 #### 150. Szavazás
 
-323. § (1) Ha a településen tartanak települési nemzetiségi önkormányzati választást, a különböző nemzetiségek számára – a területi és az országos nemzetiségi önkormányzati választásra is – közös nemzetiségi szavazóhelyiség szolgál.
+323. § (1) A szavazatszámláló bizottság a nemzetiségi választópolgárként névjegyzékben szereplő választópolgár részére nemzetiségének települési, területi, illetve országos nemzetiségi önkormányzati szavazólapját adja át.
 
-(2) A nemzetiségi szavazóhelyiséget úgy kell kialakítani, hogy a fogyatékossággal élő választópolgárok számára akadálymentes legyen.
-
-(3) Ha a településen egyetlen nemzetiség települési önkormányzatának választására sem kerül sor, a területi, illetve országos nemzetiségi önkormányzati választáson a szavazatszámláló bizottság feladatait a helyi választási bizottság látja el.
-
-(4) Azon nemzetiség területi, illetve országos listás szavazólapját, amelynek települési önkormányzatának választására nem kerül sor a településen, a választópolgár olyan borítékba helyezi, amelyen a nemzetiség megjelölése fel van tüntetve. A borítékot a választópolgár lezárja.
+(2) A választópolgár a szavazólapokat olyan borítékba helyezi, amelyen a nemzetiség megjelölése fel van tüntetve. A borítékot a választópolgár lezárja.
 
 #### 151. A szavazatok továbbítása
 
-323/A. § (1) A szavazatszámláló bizottság, illetve a helyi választási bizottság a nála a 323. § (4) bekezdése alapján leadott szavazatokat tartalmazó borítékokat szállítóborítékba zárja.
+323/A. § (1) A szavazatszámláló bizottság a borítékokat – azok felbontása nélkül – nemzetiségenként külön szállítóborítékba zárja, és a szállítóborítékokat a helyi választási irodához szállítja.
 
-(2) A helyi választási iroda legkésőbb a szavazást követő napon 10 óráig a területi választási irodához szállítja az (1) bekezdés szerinti szállítóborítékot.
+(2) A helyi választási iroda a területi választási irodához szállítja a 327. § (2) bekezdése szerinti szavazólapokat tartalmazó szállítóborítékokat.
 
 #### 324. §
 
@@ -2793,23 +2787,21 @@ visszavonhatja átjelentkezési kérelmét.
 
 (2) A lezáratlan borítékban lévő, valamint a borítékon kívül található szavazólapok érvénytelenek.
 
-#### 154. A 323. § (4) bekezdése szerinti szavazatok megszámlálása
+#### 154. A szavazatok megszámlálása
 
 327. § (1) Azon nemzetiség települési, területi listás és országos listás szavazólapjait, amelynek települési nemzetiségi önkormányzati választására sor kerül a településen, a helyi választási bizottság számlálja meg.
 
 (2) Azon nemzetiség területi listás és országos listás szavazólapjait, amelynek települési nemzetiségi önkormányzati választására nem kerül sor a településen, a területi választási bizottság számlálja meg.
 
-(3) Az (1) és a (2) bekezdés szerinti szavazatszámlálás eredménye elleni jogorvoslatra a 241. § rendelkezéseit kell alkalmazni.
-
 #### 155. A választás eredményének megállapítása
 
 328. § A települési nemzetiségi önkormányzati választás eredményét a helyi választási bizottság állapítja meg.
 
-329. § (1) A 327. § (1) bekezdése szerinti szavazatszámlálás eredményéről kiállított jegyzőkönyvek egy-egy példányát a helyi választási iroda legkésőbb a szavazást követő második napon eljuttatja a területi választási irodához.
+329. § (1) A 327. § (1) bekezdése szerinti szavazatszámlálás eredményéről kiállított jegyzőkönyvek egy-egy példányát a helyi választási iroda legkésőbb a szavazást követő napon 10 óráig eljuttatja a területi választási irodához.
 
 (2) A területi választási bizottság a területi listás szavazólapok megszámlálásáról az (1) bekezdés szerint kiállított jegyzőkönyvek és az általa végzett szavazatszámlálás eredményét megállapító jegyzőkönyv alapján megállapítja a területi nemzetiségi önkormányzati választás eredményét.
 
-(3) A területi választási bizottság az országos listás szavazólapok megszámlálásáról az (1) bekezdés szerint kiállított jegyzőkönyvek és az általa végzett szavazatszámlálás eredményét megállapító jegyzőkönyv alapján megállapítja az országos nemzetiségi önkormányzati választás területi részeredményét. A részeredményt megállapító döntés elleni jogorvoslatra a 241. § rendelkezéseit kell alkalmazni.
+(3) A területi választási bizottság az országos listás szavazólapok megszámlálásáról az (1) bekezdés szerint kiállított jegyzőkönyvek és az általa végzett szavazatszámlálás eredményét megállapító jegyzőkönyv alapján megállapítja az országos nemzetiségi önkormányzati választás területi részeredményét.
 
 (4) A Nemzeti Választási Bizottság a területi választási bizottságoknak az országos nemzetiségi önkormányzati választás területi részeredményét megállapító jegyzőkönyvei alapján megállapítja az országos nemzetiségi önkormányzati választás eredményét.
 
@@ -2831,6 +2823,10 @@ visszavonhatja átjelentkezési kérelmét.
 - a) minden olyan kifogásról, amely kifejezetten az országos nemzetiségi önkormányzati választáshoz kapcsolódik,
 - b) minden olyan kifogásról, amely nem tartozik az (1) bekezdés b) pontja vagy a (2) bekezdés a) pontja alá, és az elkövetés helye nem határozható meg,
 - c) a területi választási bizottság döntése elleni fellebbezésről.
+
+#### 156/A. Időközi választás
+
+330/A. § (1) Az időközi választásra – a helyi önkormányzati képviselők és polgármesterek egész településre kiterjedő időközi választásával azonos napon tartott időközi választás kivételével – egy külön szavazókört kell kialakítani, amelynek területe az egész települést magában foglalja. A helyi választási iroda vezetője a szavazatszámláló bizottságot a 24. § (1) bekezdése szerint megválasztott szavazatszámláló bizottsági tagokból, szükség esetén póttagok bevonásával állítja össze a szükséges létszámmal. A jegyzőkönyvvezetők számát a helyi választási iroda vezetője állapítja meg.
 
 ### XVI. Fejezet — Az EURÓPAI PARLAMENT TAGJAINAK VÁLASZTÁSA
 
@@ -3087,17 +3083,15 @@ b) a tízezernél több lakosú településeken a helyi önkormányzati egyéni 
 
 c) településenként az egyes szavazókörök sorszámát, a szavazókörbe tartozó címeket, a szavazókörbe tartozó választópolgárok számát, a szavazókör szavazóhelyiségének címét,
 
-d) a 78. § szerint kijelölt szavazókör megjelölését,
+d) a 78. § szerint kijelölt szavazókör megjelölését, a 292. § (1) bekezdése szerint kijelölt szavazókör megjelölését,
 
-e) a nemzetiségi szavazókör szavazóhelyiségének címét,
+e) a 281. § (1) bekezdése szerinti szavazatleadó hely címét,
 
-f) a 281. § (1) bekezdése szerinti szavazatleadó hely címét,
+f) a szavazóhelyiség akadálymentességére vonatkozó információt,
 
-g) a szavazóhelyiség akadálymentességére vonatkozó információt,
+g) a szavazókörök és választókerületek térképes megjelenítését,
 
-h) a szavazókörök és választókerületek térképes megjelenítését,
-
-i) annak megjelölését, hogy – a legutóbbi népszámlálásnak a nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a településen melyik nemzetiséghez tartozó személyek száma éri el a harminc főt.
+h) annak megjelölését, hogy – a legutóbbi népszámlálásnak a nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a településen melyik nemzetiséghez tartozó személyek száma éri el a harminc főt.
 
 ### 2. melléklet a 2013. évi XXXVI. törvényhez
 
