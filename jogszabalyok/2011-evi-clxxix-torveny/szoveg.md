@@ -60,7 +60,7 @@ a következő törvényt alkotja:
 - 11. az intézmény alapításának joga magában foglalja az intézmény átvételének, átszervezésének és megszüntetésének jogát;
 - 12. hozzátartozó: az egyenesági rokon és ennek házastársa, a testvér, a házastárs, a bejegyzett élettárs és az élettárs;
 - 13. nemzetiségi köznevelésben alkalmazottak köre: a nemzetiségi köznevelési intézmény azon alkalmazottai, akik foglalkoztatása a nemzetiségi köznevelési intézményben pedagógus, pedagógiai szakértő munkakörben és pedagógiai előadó munkakörben, továbbá a nevelő és oktató munkát, a pedagógiai szakszolgálatokat és a pedagógiai-szakmai szolgáltatások ellátását közvetlenül segítő munkakörben történik;
-- 14. az 50–72. § alkalmazásában nemzetiségi szervezet: a párt és a szakszervezet kivételével a civil szervezetek bírósági nyilvántartásában szereplő olyan egyesület, amelynek alapszabályában rögzített célja az e törvény szerinti, konkrétan megjelölt nemzetiség képviselete;
+- 14. az 50–72. § alkalmazásában nemzetiségi szervezet: a párt és a szakszervezet kivételével a civil szervezetek bírósági nyilvántartásában szereplő olyan egyesület, amelynek alapszabályában – a nemzetiségi önkormányzati választás évét megelőzően legalább 3 éve – rögzített célja az e törvény szerinti, konkrétan megjelölt nemzetiség képviselete;
 - 15. nemzetiségi egyesület: alapszabálya szerint adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó egyesület;
 - 16. nemzetiségi alapítvány: az alapító okirata szerint adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó alapítvány.
 
