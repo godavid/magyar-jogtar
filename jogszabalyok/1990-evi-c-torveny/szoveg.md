@@ -848,6 +848,15 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 
 (2) A 41/B. §-nak az Adómód. törvénnyel megállapított rendelkezését a 2018. évben kezdődő adóévi helyi iparűzési adókötelezettség teljesítése során is alkalmazni lehet.
 
+51/F. § (1) Ha a sportvállalkozás a 42/D. § (1) bekezdés szerinti adóbevallását
+
+- a) 2019. július 15-ig nyújtotta be, akkor azt az önkormányzati adóhatóság 2019. augusztus 15-éig,
+- b) 2019. július 16. és 2019. december 31. között nyújtotta be, akkor azt az önkormányzati adóhatóság 2020. február 15-éig
+
+elektronikus úton megküldi az állami adóhatóság részére.
+
+(2) Ha a sportvállalkozás az (1) bekezdés szerint továbbított adóbevallásában tett nyilatkozata alapján az 52. § 22. pont i) alpontja szerinti nettó árbevétel csökkentés miatti adócsökkenés az 53. § (2) bekezdés b) pontja szerinti támogatásnak minősül és annak összege meghaladja az ötszázezer eurónak megfelelő forintösszeget, az állami adóhatóság a támogatás igénybevételéről adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az adózás rendjéről szóló törvény szerinti tartalommal és határidőben.
+
 51/I. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel (a továbbiakban: Eadtv.) megállapított 41. § (9) bekezdést annak a naptári évtől eltérő üzleti évet választó vállalkozónak is alkalmaznia kell a 2019. évben kezdődő adóévében, amelynek ezen adóéve utolsó hónapjának 20. napja az Eadtv. hatálybalépését követő időszakra esik.
 
 ### VII. Fejezet — Értelmező rendelkezések
