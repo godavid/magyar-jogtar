@@ -8,11 +8,11 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 #### 1. §
 
-1. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
+1. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelynek, illetve amely egy elválasztható részének elsődleges célja, hogy egy médiaszolgáltató szerkesztői felelősségi körébe tartozó műsorszámokat tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz eljuttassa valamely elektronikus hírközlő hálózaton keresztül.
 
 2. Médiaszolgáltató: az a természetes vagy jogi személy, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
 
-3. Műsorszám: hangok, illetőleg hangos vagy néma mozgóképek sorozata, amely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban önálló egységet alkot, és amelynek formája és tartalma a rádiós vagy televíziós médiaszolgáltatáséhoz hasonlítható.
+3. Műsorszám: hangok, illetve hangos vagy néma mozgóképek sorozata, amely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban – hosszától függetlenül – önálló egységet alkot.
 
 4. Lekérhető médiaszolgáltatás: olyan médiaszolgáltatás, amelyben a médiaszolgáltató által összeállított műsorkínálat alapján a felhasználó egyéni kérés alapján, az általa kiválasztott időpontban tekintheti, illetve hallgathatja meg a műsorszámokat.
 
@@ -24,11 +24,13 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 8. Médiatartalom-szolgáltató: a médiaszolgáltató, illetve bármely médiatartalom szolgáltatója.
 
-9. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
+9. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat vagy a felhasználók által létrehozott videókat, vagy szerepelnek azokban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
 
 10. Burkolt kereskedelmi közlemény: olyan kereskedelmi közlemény, amelynek közzététele természetét tekintve megtéveszti a közönséget. Burkolt reklámnak minősülhet a kereskedelmi közlemény céljait szolgáló közlemény abban az esetben is, ha nem ellenszolgáltatás fejében került közzétételre.
 
 11. Reklám: olyan közlés, tájékoztatás, illetve megjelenítési mód, amely valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog értékesítésének vagy más módon történő igénybevételének előmozdítására, vagy e céllal összefüggésben a vállalkozás neve, megjelölése, tevékenysége népszerűsítésére vagy áru, árujelző ismertségének növelésére irányul.
+
+11a. Szerkesztői döntés: a szerkesztői felelősség gyakorlásának keretében rendszeres jelleggel hozott, a médiaszolgáltatás napi működéséhez kapcsolódó döntés, így a médiaszolgáltatás tartalmának megválasztása és összeállításának meghatározása.
 
 12. Támogatás: olyan hozzájárulás, amelyet valamely vállalkozás nyújt médiatartalom-szolgáltatók vagy médiatartalmak finanszírozására azzal a céllal, hogy népszerűsítse saját vagy más nevét, védjegyét, arculatát, tevékenységét vagy termékeit.
 
@@ -36,15 +38,15 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 2. § (1) E törvény hatálya kiterjed a Magyarországon letelepedett médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra.
 
-(1a) E törvény hatálya – a 13. §, a 14. § (1) bekezdése, a 19. § (1), (2) és (4) bekezdése, valamint a 20. § (8) bekezdésének második mondata és (9) bekezdése kivételével – kiterjed a Magyarország területén letelepedett médiatartalom-szolgáltató által kiadott sajtótermékre is.
+(1a) E törvény hatálya – a 13. §, a 14. § (1) bekezdése, a 19. § (2) bekezdése, valamint a 20. § (8) bekezdésének második mondata és (9) bekezdése kivételével – kiterjed a Magyarország területén letelepedett médiatartalom-szolgáltató által kiadott sajtótermékre is.
 
 (2) E törvény alkalmazásában a médiatartalom-szolgáltató akkor minősül Magyarország területén letelepedettnek, ha:
 
 - a) az általa nyújtott médiaszolgáltatás analóg terjesztése Magyarország tulajdonában álló frekvencia igénybevételével történik vagy a sajtótermék elsődlegesen Magyarország felhasználói számára kijelölt elektronikus hírközlési azonosítón keresztül érhető el,
 - b) központi ügyvezetésének helye Magyarország területén található és a médiaszolgáltatással, sajtótermékkel összefüggő szerkesztői döntéseket Magyarország területén hozzák,
-- c) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található Magyarország területén, de a médiatartalom-szolgáltató munkaerejének jelentős része Magyarország területén dolgozik,
-- d) ha Magyarország területén és más országban is dolgozik a médiatartalom-szolgáltató munkaerejének jelentős része, akkor, ha a központi ügyvezetés helye Magyarország területén található, vagy
-- e) ha a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található Magyarország területén, de tevékenységét Magyarország területén kezdte meg, és folyamatos, tényleges kapcsolatot tart fenn a magyar gazdasággal.
+- c) a központi ügyvezetés és a szerkesztői döntések meghozatalának helye közül csak az egyik található Magyarország területén, de a médiatartalom-szolgáltató – médiaszolgáltató esetében a médiaszolgáltatása műsorszolgáltatással kapcsolatos tevékenységében közreműködő – munkaerejének jelentős része Magyarország területén dolgozik,
+- d) Magyarország területén és más országban is dolgozik a médiatartalom-szolgáltató – médiaszolgáltató esetében a médiaszolgáltatása műsorszolgáltatással kapcsolatos tevékenységében közreműködő – munkaerejének jelentős része, de a központi ügyvezetés helye Magyarország területén található, vagy
+- e) a médiatartalom-szolgáltató – médiaszolgáltató esetében a médiaszolgáltatása műsorszolgáltatással kapcsolatos tevékenységében közreműködő – munkaerejének jelentős része nem Magyarországon dolgozik, de tevékenységét Magyarország területén kezdte meg, és folyamatos, tényleges kapcsolatot tart fenn a magyar gazdasággal.
 
 (3) E törvény hatálya kiterjed azon médiatartalom-szolgáltató által nyújtott médiaszolgáltatásra, amelyre az (1)–(2) bekezdés rendelkezései nem alkalmazhatók, ha a Magyarország területén található műholdas feladó-állomást használ, vagy a műholdnak a Magyarország tulajdonában álló átviteli kapacitását használja.
 
@@ -118,19 +120,21 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 16. § A médiatartalom nem sértheti az alkotmányos rendet.
 
-17. § (1) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely vallási közösség elleni gyűlölet keltésére.
+17. § (1) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely vallási közösség vagy ezek bármely tagja elleni – a közösséghez tartozása miatt történő – gyűlölet keltésére vagy erőszakra uszításra.
 
 (2) A médiatartalom nem lehet alkalmas valamely nemzet, közösség, nemzeti, etnikai, nyelvi és más kisebbség vagy bármely többség, továbbá valamely vallási közösség kirekesztésére.
 
+(3) A médiatartalom nem lehet alkalmas terrorcselekmény elkövetésére való felhívásra.
+
 #### 18. §
 
-19. § (1) Lineáris médiaszolgáltatásban nem tehető közzé olyan médiatartalom, amely súlyosan károsíthatja a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését, különösen azáltal, hogy pornográfiát vagy szélsőséges, illetve indokolatlan erőszakot tartalmaz.
+19. § (1)
 
-(2) Lekérhető médiaszolgáltatásban megjelenő azon médiatartalom, amely súlyosan károsíthatja a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését különösen azáltal, hogy pornográfiát vagy szélsőséges, illetve indokolatlan erőszakot tartalmaz, csak oly módon tehető a nyilvánosság tagjai számára elérhetővé, amely biztosítja, hogy kiskorúak rendes körülmények között nem férhetnek hozzá.
+(2) Médiaszolgáltatásban megjelenő azon médiatartalom, amely károsíthatja a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését, csak oly módon tehető a nyilvánosság tagjai számára elérhetővé, amely – különösen az adásidő megválasztásával, az életkor ellenőrzésével, illetve más műszaki megoldás alkalmazásával – biztosítja, hogy kiskorúak rendes körülmények között nem hallhatják vagy láthatják azt. A hozzáférés korlátozását szolgáló intézkedéseknek arányban kell állniuk a tartalom ártalmasságának mértékével.
 
 (3) Sajtótermékben megjelenő azon médiatartalom, amely súlyosan károsíthatja a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését különösen azáltal, hogy pornográfiát vagy szélsőséges, illetve indokolatlan erőszakot tartalmaz, csak oly módon tehető a nyilvánosság tagjai számára elérhetővé, amely – valamely műszaki vagy egyéb megoldás alkalmazásával – biztosítja, hogy kiskorúak nem férhetnek hozzá. Ha ilyen megoldás alkalmazása nem lehetséges, akkor a médiatartalom csak a kiskorúak lehetséges veszélyeztetéséről szóló tájékoztatást tartalmazó figyelmeztető jelzéssel tehető közzé.
 
-(4) Lineáris médiaszolgáltatásban megjelenő azon médiatartalom, amely veszélyeztetheti a kiskorúak szellemi, lelki, erkölcsi vagy fizikai fejlődését, csak oly módon tehető közzé, amely az adásidő megválasztásával, illetve más műszaki megoldás alkalmazásával biztosítja, hogy a kiskorúak rendes körülmények között nem hallhatják vagy láthatják azt.
+(4)
 
 (4a) Médiatartalomban tilos kiskorú személy olyan bemutatása, amely életkorának megfelelő lelki vagy fizikai fejlődését nagymértékben veszélyeztetheti.
 
@@ -148,7 +152,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (6) A médiatartalomban közzétett kereskedelmi közlemény nem ösztönözhet az egészségre, a biztonságra és a környezetre ártalmas magatartásra.
 
-(7) Nem szabad médiatartalomban közzétenni dohányárut, fegyvert, lőszert, robbanóanyagot, a szerencsejáték-felügyeleti hatóság engedélye nélkül szervezett szerencsejátékot, kizárólag orvosi rendelvényre igénybe vehető gyógyszert, továbbá gyógyászati eljárást népszerűsítő, ismertető kereskedelmi közleményt. E korlátozás nem terjed ki a gazdasági reklámtevékenységről szóló törvényben, illetve más jogszabályban foglalt kivételekre.
+(7) Nem szabad médiatartalomban közzétenni cigarettát és más dohányárut, elektronikus cigarettát, utántöltő flakont, fegyvert, lőszert, robbanóanyagot, a szerencsejáték-felügyeleti hatóság engedélye nélkül szervezett szerencsejátékot, kizárólag orvosi rendelvényre igénybe vehető gyógyszert, továbbá gyógyászati eljárást népszerűsítő, ismertető kereskedelmi közleményt. E korlátozás nem terjed ki a gazdasági reklámtevékenységről szóló törvényben, illetve más jogszabályban foglalt kivételekre.
 
 (8) A médiatartalom támogatóját a közzététellel egyidejűleg, illetve azt közvetlenül megelőzően vagy azt követően meg kell nevezni. Audiovizuális médiaszolgáltatás vagy annak műsorszáma más audiovizuális médiaszolgáltatást végző, illetve audiovizuális műsorszámok vagy filmalkotások készítésével foglalkozó vállalkozás által nem támogatható.
 
@@ -187,4 +191,5 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 - c) az Európai Parlament és a Tanács 2006/114/EK irányelve (2006. december 12.) a megtévesztő és összehasonlító reklámról (kodifikált változat),
 - d) az Európai Parlament és a Tanács 2003/33/EK irányelve (2003. május 26.) a tagállamok dohánytermékek reklámozására és szponzorálására vonatkozó törvényi, rendeleti és közigazgatási rendelkezéseinek közelítéséről,
 - e) az Európai Parlament és a Tanács 2005/29/EK irányelve (2005. május 11.) a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról,
-- f) az Európai Parlament és Tanács 2001/83/EK irányelve (2001. november 6) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről.
+- f) az Európai Parlament és Tanács 2001/83/EK irányelve (2001. november 6) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről,
+- g) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU irányelvnek (Audiovizuális médiaszolgáltatásokról szóló irányelv) a változó piaci körülményekre tekintettel való módosításáról szóló, 2018. november 14-i (EU) 2018/1808 irányelv.

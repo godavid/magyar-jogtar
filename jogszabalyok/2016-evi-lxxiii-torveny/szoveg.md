@@ -378,7 +378,7 @@ szüntethető meg.
 
 #### 9. Járandóságok
 
-23. § (1) A kihelyezett a tartós külszolgálatának időtartama alatt havonta devizailletményre és átalány-költségtérítésre (a továbbiakban együtt: díjazás) jogosult. A díjazás forintban kerül megállapításra és számfejtésre, ezt követően a kifizetendő összeg – a kihelyezett választása alapján – egész euróra, egész USA-dollárra, illetve egész forintra kerekítve kerül folyósításra legkésőbb a tárgyhót követő hónap 15. napjáig a kihelyezett részére. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő devizailletmény-megállapításnak. A kihelyezett részére a tartós külszolgálata idejére a kormányzati igazgatásról szóló törvény szerinti besorolása alapján megállapított belföldi illetménye nem jár.
+23. § (1) A kihelyezett a tartós külszolgálatának időtartama alatt havonta devizailletményre és átalány-költségtérítésre (a továbbiakban együtt: díjazás) jogosult. A díjazás forintban kerül megállapításra, számfejtésre, illetve egész forintra kerekítve kerül folyósításra legkésőbb a tárgyhót követő hónap 15. napjáig a kihelyezett részére. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő devizailletmény-megállapításnak. A kihelyezett részére tartós külszolgálata idejére a kormányzati igazgatásról szóló törvény szerinti besorolása alapján megállapított belföldi illetménye és a 11. § (4) bekezdése szerinti illetménye nem jár.
 
 (2) A kihelyezett munkaköri osztályokba, az egyes munkaköri osztályokon belül a munkaköre és – amennyiben az adott munkakörhöz rang kapcsolódik – rangja szerint kerül besorolásra (a továbbiakban: elsődleges munkakör). A munkaköri osztályokon belüli munkaköröket, valamint az azokhoz tartozó rangokat az 1. melléklet tartalmazza. A kihelyezett az elsődleges munkaköre mellett a kihelyező okiratában foglaltak szerint az 1. melléklet szerinti további munkakört, illetve kiegészítő feladatkört láthat el.
 
@@ -506,9 +506,9 @@ illeti meg.
 
 (17) Ha a kihelyezett házastársa a fogadó államban az jövedelemszerző tevékenységet folytat és a vele közös háztartásban élő gyermeke, gyermekei után pótlékot, költségtérítést, iskoláztatási támogatást kap vagy fogyatékossági támogatásban, illetve vakok személyi járadékában részesül, az (5)–(6) bekezdés szerinti költségtérítésre nem jogosult.
 
-26. § (1) A kihelyezettet megillető díjazás kifizetése a kihelyezett által választott, legfeljebb két fizetési számlára, a 23. § (1) bekezdése szerint választott, legfeljebb két devizanemben történő utalással, a kihelyezett által meghatározott arányban megosztva történik. A kihelyezett forintszámlát is megjelölhet.
+26. § (1) A kihelyezettet megillető díjazás kifizetése a kihelyezett által választott, legfeljebb két – euró, USA-dollár vagy forint fogadására alkalmas – fizetési számlára történő utalással, a kihelyezett által meghatározott arányban megosztva történik.
 
-(1a) Ha az állomáshely szerinti országban nincs, vagy olyan alacsony fejlettségű bankrendszer működik, ami az utalás biztonságát veszélyezteti, a kifizetés pénzforgalmi számláról történő készpénzkifizetés útján legfeljebb 50%-os mértékéig a külképviseleten történik euróban vagy USA-dollárban attól függően, hogy a külképviselet részére melyik valuta használata engedélyezett.
+(1a) Ha az állomáshely szerinti országban nincs, vagy olyan alacsony fejlettségű bankrendszer működik, ami az utalás biztonságát veszélyezteti, a díjazás legfeljebb 50%-os mértékéig a kifizetés pénzforgalmi számláról történő készpénzkifizetés útján a külképviseleten történik euróban vagy USA-dollárban attól függően, hogy a külképviselet részére melyik valuta használata engedélyezett. A készpénzben kifizetésre kerülő díjazás euróra vagy USA-dollárra történő átváltása a bérszámfejtés hónapját megelőző hónap 15. napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon történik.
 
 (1b) A díjazás fizetési számlára történő átutalásának a Magyar Államkincstárnál felmerülő költségeit a kihelyező szerv viseli, az átutalással kapcsolatban felmerülő egyéb költségeket az átalány-költségtérítés tartalmazza.
 
