@@ -124,7 +124,7 @@ jogosult folytatni.
 
 (2) Az „egyetem” vagy „főiskola” elnevezés, valamint ezek idegen nyelvű megfelelői használatára csak az e törvény 1. melléklete szerinti – továbbá az e törvény alapján a Magyarország területén működő külföldi – felsőoktatási intézmény jogosult.
 
-(2a) A felsőoktatási intézmény elnevezésének más felsőoktatási intézmény elnevezésétől egyértelműen különböznie kell. A felsőoktatási intézmény elnevezése nem lehet megtévesztő, nem kelthet az intézményre, annak tevékenységére vonatkozó hamis látszatot. Megtévesztőnek, illetve összetéveszthetőnek minősül a felsőoktatási intézmény elnevezése, ha annak magyar vagy idegen nyelven történő megnevezése és valamely más, az oktatási hivatalnál nyilvántartásba vett felsőoktatási intézmény elnevezése megegyezik. A felsőoktatási intézményt élő személyről elnevezni nem lehet. A történelem kiemelkedő személyiségeinek nevét a Magyar Tudományos Akadémia engedélyével, továbbá olyan nevet, amelyhez másnak jogi érdeke fűződik, csak a jogosult hozzájárulásával lehet a felsőoktatási intézmény nevében feltüntetni.
+(2a) A felsőoktatási intézmény elnevezésének más felsőoktatási intézmény elnevezésétől egyértelműen különböznie kell. A felsőoktatási intézmény elnevezése nem lehet megtévesztő, nem kelthet az intézményre, annak tevékenységére vonatkozó hamis látszatot. Megtévesztőnek, illetve összetéveszthetőnek minősül a felsőoktatási intézmény elnevezése, ha annak magyar vagy idegen nyelven történő megnevezése és valamely más, az oktatási hivatalnál nyilvántartásba vett felsőoktatási intézmény elnevezése megegyezik. A felsőoktatási intézményt élő személyről elnevezni nem lehet. A történelem kiemelkedő személyiségeinek nevét a Bölcsészettudományi Kutatóközpont engedélyével, továbbá olyan nevet, amelyhez másnak jogi érdeke fűződik, csak a jogosult hozzájárulásával lehet a felsőoktatási intézmény nevében feltüntetni.
 
 (2b) A felsőoktatási intézmény idegen nyelvű elnevezésének tartalmilag egyeznie kell a magyar nyelvű elnevezéssel. Két vagy több azonos nevű felsőoktatási intézmény esetén a név viselésének joga azt a felsőoktatási intézményt illeti meg, amelyik fenntartója a nyilvántartásba vételi kérelmet elsőként nyújtotta be.
 
@@ -2902,6 +2902,12 @@ kell érteni.
 
 (4) A jogutódlás a felsőoktatási intézménnyel szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással szerződésszegési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
 
+(4a) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény fenntartóváltás napját megelőző fordulónappal az államháztartási számviteli szabályok szerinti záró beszámolót készít, azzal hogy a záró beszámolót megalapozó könyvviteli zárlat során az aktív és a passzív időbeli elhatárolásokat nem kell kivezetni. Az általános és kizárólagos jogutód felsőoktatási intézmény a fenntartóváltás napján nyitó mérleget köteles készíteni, amelybe az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény záró beszámolója mérlegében kimutatott vagyoni elemeket azok jellegének, és a záró beszámoló mérlegében bemutatott könyv szerinti értékének megfelelően veszi fel azzal, hogy a saját tőkén belül a nemzeti vagyon induláskori értéke jegyzett tőkeként, a nemzeti vagyon változásai és az egyéb eszközök induláskori értéke és változásai tőketartalékként, a mérleg szerinti eredmény és a felhalmozott eredmény eredménytartalékként veendő fel a nyitómérlegbe.
+
+(4b) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltáshoz kapcsolódóan ingyenes vagyonjuttatásként kapott eszközöket – ide nem értve a (4c) bekezdésben foglalt pénzeszközöket – nyilvántartási értéken mint bekerülési értéken a tőketartalékkal szemben köteles a könyveibe felvenni. Azon eszközöknél, amelyekhez a jogelődnél részben vagy egészben halasztott bevétel kapcsolódott, az ingyenes vagyonjuttatásként történő átvételt a jogelőd könyveiben halasztott bevételként megjelenő összeg erejéig a tőketartalék helyett a halasztott bevételekkel szemben kell elszámolni.
+
+(4c) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltáshoz kapcsolódóan a jogelőd felsőoktatási intézmény által az állami fenntartó útján a jogutód felsőoktatási intézmény részére átadott pénzeszközt az eredménytartalékkal szemben köteles a könyveibe felvenni.
+
 (5) A fenntartóváltás következtében a felsőoktatási intézmény mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonya a fenntartói jog átszállásának időpontjában megszűnik és – a (7) és (8) bekezdésben meghatározottak szerint – a megszűnését követő nappal munkaviszonnyá alakul. A munkáltató és foglalkoztatott közötti jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (7) bekezdésében foglaltakat, valamint a 37. § (2) bekezdés c) pont rendelkezéseit kell alkalmazni.
 
 (6) Az (5) bekezdés szerinti jogállásváltozás folytán létesített munkaviszony első
@@ -2920,6 +2926,8 @@ vonatkozó szabályait még alkalmazni kell. Az a) és b) pontban megjelölt id�
 (10) A magán felsőoktatási intézmény által meghirdetett azon ösztöndíj esetében, amely a képzés felsőoktatási intézmény által meghatározott költségét fedezi, a (3) bekezdés szerinti magán felsőoktatási intézmény a felsőoktatási felvételi eljárásban a magán felsőoktatási intézmény által finanszírozott ösztöndíjas képzés meghirdetését is kezdeményezheti. A felsőoktatási információs rendszer működtetéséért felelős szerv a felvételi eljárás során az ösztöndíjas képzést és az arra történő jelentkezést a 46. § (1) bekezdés a) pontja szerinti képzésként hirdeti meg, azzal, hogy a képzést támogató szervezetre külön tájékoztatást tesz közzé. A magán felsőoktatási intézmény által meghirdetett ösztöndíjas képzésre történő felvételi jelentkezés során a felsőoktatási információs rendszer működtetéséért felelős szerv a felsőoktatási intézménnyel kötött együttműködési megállapodásban meghatározott feltételekkel hoz az ösztöndíjas képzésre vonatkozó besorolási döntést. Az ilyen képzésben részt vevő hallgató a képzés finanszírozása szempontjából önköltséges hallgatónak minősül. E képzésre a 46. § (4) bekezdésében, 47–48. §-ban, 48/A–48/S. §-ában foglaltak nem alkalmazhatók.
 
 (11) A (3) bekezdés szerinti magán felsőoktatási intézmény – feltéve, hogy a Kormány a támogatásra megállapodásban vállalt kötelezettséget – a megállapodásban foglalt feltételek mellett lehet jogosult a 84. § (2) és (4) bekezdésben meghatározott támogatásokra. E támogatások fedezetét a tudománypolitika koordinációjáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell megtervezni, elszámolni.
+
+(12) A (4a)–(4c) bekezdést az (1) bekezdés szerinti, 2019. augusztus 1-jét megelőző fordulónappal történt, fenntartóváltás eredményeként folyamatban lévő záró és nyitó mérleg összeállítása során is alkalmazni kell.
 
 #### 71. Az Európai Unió jogának való megfelelés
 
@@ -3202,17 +3210,7 @@ c) a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellá
 
 d) a felsőoktatási információs rendszer működéséért felelős szerv részére valamennyi adat;
 
-e) a Diákhitel Központnak a hallgatói hitelt igényelt személyekhez kapcsolódóan
-
-ea) az 1. b) pont ba), bb) alpontjai szerinti adatok – nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat, tartózkodási jogot igazoló okmány megnevezése, száma kivételével, továbbá a hallgató tanulmányainak értékelése, vizsgaadatok, igénybe vett támogatási idő kivételével –,
-
-eb) az 1. f) pontból a hallgató által önköltség címén az intézmény felé ténylegesen fizetendő összeg, a hallgatói hitelre való jogosultság, illetve ennek megszűnése vizsgálata, valamint a törlesztési kötelezettség fennállásának, illetve szünetelésének megállapítása céljából,
-
-ec) az 1. b) pont ba) és bk) alpontjai szerinti adatok – a társadalombiztosítási azonosító jel kivételével –, az ügyfelekkel történő kapcsolattartáshoz és a velük kapcsolatos ügyintézéshez a hitelszerződésből eredő jogok gyakorlása és kötelezettségek teljesítése céljából,
-
-ed) az 1. b) pont ba) és bb) alpontjai szerinti adatok – a hallgató tanulmányainak értékelése, vizsgaadatok, igénybe vett támogatási idő kivételével –,
-
-ee) az 1. b) pont bl) alpontjából az abszolutóriumra és a záróvizsgára (doktori védésre) vonatkozó adatok a hallgatói hiteltartozások várható visszafizetésével kapcsolatos kockázatelemzéshez és a kockázati mérték szerinti ügyfélkezeléshez;
+e)
 
 f) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek a képzésre és a hallgatói jogviszonyra vonatkozóan.
 
