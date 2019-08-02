@@ -233,17 +233,25 @@ vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndí
 
 #### 15. §
 
-16. § Hatályát veszti az Nftv.
+#### 16. §
 
-- a)
-- b)
-- c)
-- d)
-- e)
-- f) 3. melléklet I. fejezet I/B. alcím 4. pont e) alpontja,
-- g)
-- h)
-- i)
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
 
 ### 1. melléklet a 2018. évi LXXXIX. törvényhez
 

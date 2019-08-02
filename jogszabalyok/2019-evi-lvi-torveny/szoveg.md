@@ -91,7 +91,7 @@ az állattenyésztés szabályozásához szükséges törvényi szintű rendelke
 
 10. § (1) Ez a törvény 2019. augusztus 1-jén lép hatályba.
 
-(2) Hatályát veszti az állattenyésztésről szóló 1993. évi CXIV. törvény.
+(2)
 
 11. § (1) Ez a törvény a fajtatiszta tenyészállatok, hibrid tenyészsertések és szaporítóanyagaik Unión belüli tenyésztésének, kereskedelmének és az Unióba történő beléptetésének tenyésztéstechnikai és származástani feltételeiről, a 652/2014/EU rendelet, a 89/608/EGK és a 90/425/EGK tanácsi rendelet módosításáról, valamint az állattenyésztés tárgyában hozott egyes jogi aktusok módosításáról és hatályon kívül helyezéséről szóló, 2016. június 8-i (EU) 2016/1012 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
