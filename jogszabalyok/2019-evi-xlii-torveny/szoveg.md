@@ -1002,6 +1002,6 @@ Vámok
 
 (3) A Megállapodás, a 2–3. § és az 5. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
-5. § Hatályát veszti a Magyarország Kormánya és a Nemzetközi Távközlési Egyesület között az ITU Telecom World 2015 konferencia megrendezéséről, megszervezéséről és finanszírozásáról szóló Megállapodás kihirdetéséről szóló 2015. évi LXVIII. törvény.
+5. §
 
 6. § Az e törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter az informatikáért felelős miniszterrel szakmailag együttműködve gondoskodik.
