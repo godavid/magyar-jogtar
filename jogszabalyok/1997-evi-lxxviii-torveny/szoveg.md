@@ -1337,7 +1337,7 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 (3) Ha az (1) bekezdés szerinti eljárásban hozott döntéssel szemben benyújtott fellebbezés érinti a Kormányhivatal szakhatósági állásfoglalását, a másodfokú eljárásban az 57/E. § rendelkezését kell alkalmazni.
 
-(4) Amennyiben rendeltetésmódosítási engedély nélkül kerül sor az építmény kereskedelmi rendeltetésű használatára vagy átalakítására, a hatóság megtiltja a kereskedelmi rendeltetésű használatot, és legfeljebb az eljárási bírság legmagasabb összegének megfelelő bírságot szabhat ki.
+(4) Ha rendeltetésmódosítási engedély nélkül kerül sor az építmény kereskedelmi rendeltetésű használatára vagy átalakítására, a rendeltetésmódosítási engedély iránti eljárásban eljáró hatóság megtiltja a kereskedelmi rendeltetésű használatot, és legfeljebb az eljárási bírság legmagasabb összegének megfelelő bírsággal sújtja azt, akinek a rendeltetésmódosítási engedély iránti kérelmet be kellett volna nyújtania.
 
 ### V. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
