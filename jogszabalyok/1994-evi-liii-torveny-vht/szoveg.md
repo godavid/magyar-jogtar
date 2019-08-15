@@ -439,7 +439,7 @@ a megállapításáról szóló értesítés,
 
 (2) Az önálló bírósági végrehajtó az adóstól a behajtott követelésen felül, a végrehajtási költségekkel együtt hajtja be az általános költségátalányt, és azt befizeti, vagy átutalja a Kar hivatali szervének. Az általános költségátalány 35%-a a minisztérium bevétele, amit a Kar hivatali szerve utal át a minisztériumnak. A költségátalány összegének elszámolása és kielégítése a 164. § szerint történik.
 
-(3) Az általános költségátalány mértéke 400 000 Ft alatti végrehajtási ügyérték esetén ügyenként 1000 Ft, 400 000 Ft feletti végrehajtási ügyérték esetén az ügyérték 1%-a.
+(3) Az általános költségátalány mértéke 500 000 forintot meg nem haladó végrehajtási ügyérték esetén ügyenként 5 000 forint, 500 000 forint feletti végrehajtási ügyérték esetén az ügyérték 1%-a.
 
 ### Jegyzőkönyv
 
