@@ -1062,4 +1062,4 @@ Portions within the following installations or areas as may be designated by the
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a Magyar Köztársaság Kormánya és az Egyesült Államok Kormánya közötti, az Egyesült Államok Fegyveres Erőinek a Magyar Köztársaság területén történő tevékenységéről szóló Megállapodás, valamint az annak mellékletét képező Végrehajtási Megállapodások megerősítéséről és kihirdetéséről szóló 1997. évi XLIX. törvény.
+6. §
