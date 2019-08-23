@@ -217,7 +217,12 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
 - 59.
 - 60. Sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés.
 - 61. Ingatlannak közérdekű célra történő megvásárlása: a kisajátításról szóló 2007. évi CXXIII. törvény rendelkezései szerint történő vásárlás.
-- 62.
+- 62. Magánalapítvány:
+  - a) az alapító, a csatlakozó vagy az alapító, a csatlakozó hozzátartozója mint kedvezményezett érdekében a Polgári Törvénykönyv rendelkezései szerint létrehozott alapítvány,
+  - b) a nem közhasznú vagyonkezelő alapítvány,
+
+feltéve, hogy kizárólag magánszemély alapító, csatlakozó által rendelkezésre bocsátott vagyonnal vagy kizárólag magánszemély által a vagyonkezelő alapítvány vagyonkezelésébe adott vagyonnal és ezek hozamaival gazdálkodik.
+
 - 63. Csoportos személyszállítás: ha a munkáltató a munkavégzés érdekében legalább négy munkavállaló szállításáról gondoskodik
   - a) a tulajdonában (üzemeltetésében) lévő járművel, vagy
   - b) kifizetőtől igénybe vett személyszállítási szolgáltatás útján azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csoportos személyszállításnak minősülhet, ha a munkavállalók munkarendje vagy a munkahely földrajzi elhelyezkedése miatt a munkába járás, illetve a hazautazás közösségi közlekedési eszköz igénybevételével nem valósítható meg.
@@ -296,7 +301,7 @@ váltja ki, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttétől
 
 (6) Ha e törvény másként nem rendelkezik, közös tulajdon esetén – a tulajdonosok eltérő rendelkezése, vagy tulajdonjogi korlátozások hiányában – az ingó vagyontárgy, az ingatlan átruházásából, bérbeadásából, a vagyoni értékű jog visszterhes alapításából, végleges átengedéséből, megszüntetéséből, ilyen jogról való végleges lemondásból, az értékpapír elidegenítéséből származó jövedelem után a magánszemélyt a tulajdoni hányada arányában terheli adókötelezettség, azzal, hogy a tulajdonostársak közössége esetén az említett tevékenységekből származó bevétellel szemben – e törvény szerint elismert – költség bármelyik tulajdonos nevére szóló bizonylat alapján elszámolható. Házassági vagyonközösség fennállása alatt – az előzőekben említetteket kivéve – ezen időszakban a felek tevékenységéből származó és minden más jövedelem után azt a magánszemélyt terheli adókötelezettség, aki a tevékenységet folytatja, vagy aki a jövedelemszerzés jogcímének jogosultja.
 
-(7) Ha a bizalmi vagyonkezelési szerződésben megjelölt kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, a bizalmi vagyonkezelésből származó bevétel adókötelezettségének jogcímét és a jövedelem összegét a tevékenységre, átruházásra, szolgáltatásnyújtásra irányadó rendelkezések szerint kell megállapítani. Ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a bevétel adókötelezettségének jogcímét nem lehet megállapítani, a bizalmi vagyonkezelésből származó bevétel egészét egyéb jövedelemnek kell tekinteni.
+(7) Ha a bizalmi vagyonkezelési szerződésben vagy az alapítvány alapító okiratában (az alapító okirat rendelkezése hiányában az erre jogosult alapítványi szerv által) kedvezményezettként megjelölt magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, a bizalmi vagyonkezelésből, az alapítványtól származó bevétel adókötelezettségének jogcímét és a jövedelem összegét a tevékenységre, átruházásra, szolgáltatásnyújtásra irányadó rendelkezések szerint kell megállapítani. Ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a bevétel adókötelezettségének jogcímét nem lehet megállapítani, a bevétel egészét egyéb jövedelemnek kell tekinteni.
 
 5. § (1) A jövedelem megállapítása során a bevételt és a költséget forintban kell meghatározni.
 
@@ -435,7 +440,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 - f) a magánszemély javára vagy érdekében teljesített kiadás esetében (ideértve különösen az önkéntes kölcsönös biztosítópénztárba átutalt vagy más módon befizetett munkáltatói hozzájárulást, tag javára átutalt vagy más módon befizetett támogatói adományt) a kiadás teljesítésének napja;
 - g) az a)–f) pontban nem említett esetben az a nap, amelytől kezdődően a magánszemély a bevétel tárgyát képező vagyoni értékkel rendelkezni jogosult.
 
-(3) Ha a magánszemély az őt megillető bevétel tárgyát képező vagyoni értékre vonatkozó rendelkezési jogát az (1)–(2) bekezdésben meghatározott időpontot megelőzően gyakorolta, akkor a bevétel megszerzésének időpontja – az (1)–(2) bekezdésben foglaltaktól függetlenül – a rendelkezési jog gyakorlásának napja, ha azonban a bevétel tárgyát képező vagyoni érték miatti kiadást a magánszemély a juttatónak megelőlegezi, illetve a kiadást igazoló bizonylattal elszámolni köteles, az előzőektől eltérően az elszámolás napja. E § alkalmazásában nem minősül a rendelkezési jog gyakorlásának a vagyonrendelő magánszemély vonatkozásában a bizalmi vagyonkezelési szerződés megkötése.
+(3) Ha a magánszemély az őt megillető bevétel tárgyát képező vagyoni értékre vonatkozó rendelkezési jogát az (1)–(2) bekezdésben meghatározott időpontot megelőzően gyakorolta, akkor a bevétel megszerzésének időpontja – az (1)–(2) bekezdésben foglaltaktól függetlenül – a rendelkezési jog gyakorlásának napja, ha azonban a bevétel tárgyát képező vagyoni érték miatti kiadást a magánszemély a juttatónak megelőlegezi vagy a kiadást igazoló bizonylattal elszámolni köteles, az előzőektől eltérően az elszámolás napja. E § alkalmazásában nem minősül a rendelkezési jog gyakorlásának a vagyonrendelő vagy az alapítványt alapító (az alapítványhoz csatlakozó) magánszemély vonatkozásában a bizalmi vagyonkezelési szerződés megkötése, az alapítvány létesítése (az alapítványhoz történő csatlakozás).
 
 (3a) Ha a biztosítási szerződés a 7. § (1a) bekezdése szerinti esetben utóbb olyan módon módosul, hogy a biztosító teljesítésére a biztosított vagy más magánszemély (nem a díjat fizető más személy) válik jogosulttá (e törvény alkalmazásában ideértve azt az esetet is, ha a biztosított a szerződő helyébe lép), a biztosítás szerződésmódosítás időpontjáig – kockázati biztosítás esetében az aktuális biztosítási évben – megfizetett díja a szerződés módosításának időpontjában – tekintettel az 1. számú melléklet rendelkezéseire is – egy összegben minősül adóköteles biztosítási díjnak a biztosított magánszemélynél, azzal, hogy nem kell alkalmazni ezt a szabályt, ha a magánszemély a más személy által korábban megfizetett díjat a díjat fizető személynek megtéríti.
 
@@ -1277,6 +1282,8 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
   - ca) az elsőt a b) pont szerinti adókötelezettséggel együtt az adóévi,
   - cb) a további két részletet a következő két adóévi kötelezettségként vallja be, a megszűnés adóévéről szóló személyi jövedelemadó bevallásában, és az adót e bevallás, illetve a kötelezettség évére vonatkozó személyi jövedelemadó bevallás benyújtására nyitva álló határidőig fizeti meg.
 
+(5a) A (2)–(5) bekezdésben foglaltak az egyéni vállalkozói tevékenységnek az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 19/C. §-a szerinti korlátolt felelősségű társaság alapításával történő megszűnése esetén is alkalmazandók.
+
 (6) Ha az egyéni vállalkozó a tevékenységét ügyvédi iroda, közjegyzői iroda, végrehajtói iroda tagjaként folytatja, a tagi jogviszony keletkezését megelőző napra vonatkozóan az egyéni vállalkozói tevékenységét megszünteti azzal, hogy
 
 - a) a foglalkoztatási kedvezménnyel, a nyilvántartott adókülönbözettel, a kisvállalkozások adókedvezményével összefüggő, a megszüntetésre vonatkozó szabályokat nem kell alkalmaznia;
@@ -1307,7 +1314,12 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 (4) Az átalányadózást követően a vállalkozói jövedelem szerinti adózásra áttérő egyéni vállalkozónál az áttérés adóévében a vállalkozói bevétel része az az összeg, amelyet az átalányadózás megkezdésekor a meglévő készletekkel összefüggésben az egyéni vállalkozói tevékenység megszüntetésére vonatkozó szabályok szerint megállapított.
 
-(4a) Vállalkozói bevételnek minősül az egyéni vállalkozó mint vagyonrendelő által létrehozott bizalmi vagyonkezelési szerződés keretében a vagyonkezelő tulajdonába adott készletek szokásos piaci értéke.
+(4a) Vállalkozói bevételnek minősül az egyéni vállalkozó
+
+- a) mint vagyonrendelő által létrehozott bizalmi vagyonkezelési szerződés keretében a vagyonkezelő tulajdonába,
+- b) által az alapítvány tulajdonába
+
+adott készletek szokásos piaci értéke.
 
 (5) Vállalkozói bevételnek minősül – figyelemmel a (19) bekezdés rendelkezésére – az egyéni vállalkozó által foglalkoztatottak adóévet megelőző adóévi átlagos állományi létszámának az adóévben foglalkoztatottak átlagos állományi létszámát meghaladó érték és a megelőző adóév első napján érvényes havi minimálbér évesített összegének szorzataként meghatározott összeg 1,2-szerese, de legfeljebb a korábban érvényesített összes foglalkoztatási kedvezmény összegének 1,2-szerese, azzal, hogy
 
@@ -1907,7 +1919,8 @@ a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről
   - ac) a külföldi állam joga szerint osztaléknak minősülő jövedelem;
   - ad) az alternatív befektetési alap által kibocsátott befektetési jegy hozama;
   - ae) a bizalmi vagyonkezelési szerződés alapján a kezelt vagyon hozamainak terhére a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére juttatott vagyoni érték;
-  - af) a kisadózó vállalkozás kisadózóként be nem jelentett tagja részére a társaság nyereségéből való részesedésként kifizetett összeg.
+  - af) a kisadózó vállalkozás kisadózóként be nem jelentett tagja részére a társaság nyereségéből való részesedésként kifizetett összeg;
+  - ag) a közhasznúnak nem minősülő alapítvány által az alapítványi vagyon hozamainak terhére a kedvezményezett magánszemély részére juttatott vagyoni érték;
 - b) osztalékelőleg az adóévi várható osztalékra tekintettel az adóévben kapott bevétel.
 
 (2)
@@ -1919,9 +1932,9 @@ a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről
 
 – a kifizetés időpontjában állapítja meg és az adózás rendjéről szóló törvényben meghatározottak szerint vallja be és fizeti meg. Kifizető hiányában az adót a magánszemély bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg. Az osztalékelőleget és annak adóját a kifizetés évéről szóló adóbevallásban tájékoztató adatként kell feltüntetni, a jóváhagyott kifizetett osztalékot, a levont, megfizetett adót az osztalékot megállapító beszámoló elfogadásának évéről szóló adóbevallásban – az osztalékelőlegből levont, megfizetett adót levont adóként figyelembe véve – kell bevallani.
 
-(4) Nem alkalmazható az (1) bekezdés a) pont ae) alpontja, ha a bizalmi vagyonkezelési szerződésben megjelölt kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte.
+(4) Nem alkalmazható az (1) bekezdés a) pont ae) és ag) alpontja, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte.
 
-(5) Az (1) bekezdés a) pont ae) alpontjának alkalmazása során azt kell feltételezni, hogy a kedvezményezett vagy a vagyonrendelő magánszemély a bizalmi vagyonkezelésben lévő vagyonnak először a hozamait szerzi meg. Ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a bizalmi vagyonkezelésbe adott vagyon és annak hozamai nem különíthetőek el, a magánszemély által megszerzett vagyoni érték egészét osztaléknak kell tekinteni.
+(5) Az (1) bekezdés a) pont ae) és ag) alpontjának alkalmazása során azt kell feltételezni, hogy a kedvezményezett először a hozamot szerzi meg. Ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a hozamok nem különíthetőek el a kezelt vagy az alapítványi vagyontól, a magánszemély által megszerzett vagyoni érték egészét osztaléknak kell tekinteni.
 
 ### Árfolyamnyereségből származó jövedelem
 
@@ -3471,7 +3484,7 @@ kerül sor.
 
 7.25. a Hajdú-Bét Rt., illetve a NOVOFARM Rt. élőállat-beszállítói által igénybe vehető mezőgazdasági csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet, valamint a Pápai Hús 1913 Kft. élőállat-beszállítói által igénybe vehető csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet szerinti támogatás azzal, hogy az adómentes juttatás után az adó mértékére vonatkozó rendelkezés (8. §) szerint megállapított, meg nem fizetett személyi jövedelemadó a mezőgazdasági termelők esetében agrár csekély összegű (de minimis) támogatásnak, a Pápai Hús 1913 Kft. élőállat-beszállítói által igénybe vehető csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet 1. § 2. pont b)-c) alpont szerinti kérelmező esetében általános csekély összegű (de minimis) támogatásnak minősül;
 
-7.26. bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon (ide nem értve annak hozamait) terhére a kedvezményezett magánszemély részére juttatott vagyoni érték; nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, továbbá nem alkalmazható e rendelkezés akkor sem, ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a bizalmi vagyonkezelésbe adott vagyon és annak hozamai nem különíthetőek el.
+7.26. bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyona (ide nem értve az említett vagyonok hozamait) terhére a kedvezményezett magánszemély részére juttatott vagyoni érték; nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte, továbbá nem alkalmazható e rendelkezés akkor sem, ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a hozamok nem különíthetőek el a kezelt vagy az alapítványi vagyontól;
 
 7.27. külföldön bejegyzett pártalapítvány által, a bejegyzés helye szerinti állam állampolgárságával rendelkező munkavállalója részére a munkavégzésre irányuló jogviszonyra tekintettel kifizetett összeg, amennyiben e jogviszonyra tekintettel a bejegyzés helye szerinti állam nem vet ki rá adót.
 

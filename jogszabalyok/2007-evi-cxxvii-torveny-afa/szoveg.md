@@ -586,8 +586,8 @@ napot meg nem haladó használatát jelenti.
 
 54. § (1) Az 53. §-tól eltérően, ha a termék a 24. § (1) bekezdése értelmében nincs szabad forgalomban, és
 
-- a) vámjogi helyzete a 111. § (1) bekezdésének a) és b) pontja szerint alakul, vagy
-- b) a 111. § (1) bekezdésének c) pontjában említett eljárások hatálya alatt áll, vagy
+- a) vámjogi helyzete a 111. § (1) bekezdésének a) pontja szerint alakul, vagy
+- b) a 111. § (1) bekezdésének b) és c) pontjában említett eljárások hatálya alatt áll, vagy
 - c) teljes vámmentességgel járó ideiglenes behozatali eljárás hatálya alatt áll, vagy
 - d) külső árutovábbítási eljárás hatálya alatt áll,
 
@@ -1144,6 +1144,8 @@ adókötelessé teszi.
 
 (2) Mentes az adó alól a szolgáltatás nyújtása abban az esetben, ha annak ellenértéke az importált termék adóalapjába a 74. §, illetőleg a 75. § (1) bekezdésének b) pontja és (2) bekezdése szerint beépül.
 
+(3) A (2) bekezdés szerinti mentesség alkalmazásának feltétele, hogy a szolgáltatást közvetlenül az importáló részére nyújtsák.
+
 94. § (1) Mentes az adó alól a 93. § (1) bekezdésének b) pontjában említett feltételekre is figyelemmel:
 
 - a) a Vámmentességi-rendelet II. címének VI. fejezete alatt meghatározott egyéb feltételek szerint, az ott felsorolt termékeken túl 500 gramm kávé vagy 200 gramm kávékivonat és -eszencia, valamint 100 gramm tea vagy 40 gramm teakivonat és -eszencia importja is;
@@ -1168,7 +1170,7 @@ adókötelessé teszi.
 95. § (1) Mentes az adó alól a termék importja a következő feltételek együttes teljesülése esetében:
 
 - a) az importáló a terméket a 89. § szerint adómentesen értékesíti;
-- b) az a) pont szerint értékesített termék küldeménykénti feladása belföldön vagy elfuvarozása belföldről legkésőbb a vámjogi szabad forgalomba bocsátásáról szóló határozat közlésétől, határozat hiányában az áru átengedésének időpontjától számított, a (3) bekezdésben meghatározott határidőig megtörténik;
+- b) az a) pont szerint értékesített termék küldeménykénti feladása belföldön vagy elfuvarozása belföldről legkésőbb azon időponttól, amelytől kezdve a termék vámjogi szabad forgalomba bocsátottnak tekintendő, a (3) bekezdésben meghatározott határidőig megtörténik;
 - c) az importáló – a (4) bekezdésben meghatározott eltéréssel – a termékre a Vám tv. rendelkezéseinek megfelelően adóbiztosítékot nyújt;
 - d) a terméket belföldön rendeltetésszerűen nem használják, egyéb módon nem hasznosítják;
 - e) a terméket a vámhatóság felhívására bemutatják.
@@ -1198,7 +1200,7 @@ adókötelessé teszi.
   - bb) bevallási kötelezettségnek [184. §], ha a ba) alpontban említett kötelezettség a (3) bekezdésben meghatározott határidő lejártát követő 15. naphoz képest később válik esedékessé, vagy
   - bc) fizetendőadó-megállapítási kötelezettségnek [60. § (4) bekezdése] az ügylet teljesítését tanúsító számla vagy – számla hiányában – a kötelezettség teljesítését igazoló egyéb okirat bemutatásával, ha a bb) alpontban említett kötelezettség a (3) bekezdésben meghatározott határidő lejártát követő 15. naphoz képest később válik esedékessé.
 
-(10) Abban az esetben, ha az adó megfizetésének felfüggesztése a (7) bekezdés b) pontja szerint szűnik meg, a vámhatóság kötelezi az importálót a megállapított adó megfizetésére úgy, hogy a megfizetéshez fűződő egyéb jogkövetkezményekről a termék vámjogi szabad forgalomba bocsátásáról szóló határozat meghozatalának, határozat hiányában az áru átengedésének időpontjára visszamenőleg rendelkezik.
+(10) Abban az esetben, ha az adó megfizetésének felfüggesztése a (7) bekezdés b) pontja szerint szűnik meg, a vámhatóság kötelezi az importálót a megállapított adó megfizetésére úgy, hogy a megfizetéshez fűződő egyéb jogkövetkezményekről arra az időpontra visszamenőleg rendelkezik, amelytől kezdve a termék vámjogi szabad forgalomba bocsátottnak tekintendő.
 
 (11) A vámhatóság az (1) bekezdés c) pontja szerint nyújtott adóbiztosítékot felszabadítja
 
@@ -1412,18 +1414,18 @@ adókötelessé teszi.
 
 111. § (1) Mentes az adó alól annak a terméknek az értékesítése, Közösségen belüli beszerzése, amely egyúttal
 
-- a) vám elé állítás során átmeneti megőrzés alatt áll; vagy
-- b) vámszabad területre vagy vámszabad raktárba betárolandó; vagy
-- c) vámraktározási, vámfelügyelet melletti feldolgozás vagy aktív feldolgozás felfüggesztő eljárás hatálya alá vonandó.
+- a) vám elé állítást követően átmeneti megőrzés alatt áll;
+- b) vámszabadterületi eljárás vagy vámszabadraktári eljárás hatálya alá vonandó, vagy
+- c) vámraktározási vagy aktív feldolgozási eljárás hatálya alá vonandó.
 
 (2) Az (1) bekezdés szerinti adómentesség alkalmazandó arra a további értékesítésre is, amely
 
-- a) a termék (1) bekezdés a) és b) pontjában említett vámjogi helyzetére, vagy
-- b) a terméknek az (1) bekezdés c) pontjában említett eljárások hatálya alatti állására
+- a) a termék (1) bekezdés a) pontjában említett vámjogi helyzetére, vagy
+- b) a terméknek az (1) bekezdés b) és c) pontjában említett eljárások hatálya alatti állására
 
 nincs befolyással.
 
-(3) Mentes az adó alól továbbá az (1) és (2) bekezdés alkalmazása alá tartozó termékhez közvetlenül kapcsolódó szolgáltatás nyújtása.
+(3) Mentes az adó alól továbbá az (1) és (2) bekezdés alkalmazása alá tartozó termékhez közvetlenül kapcsolódó szolgáltatás nyújtása, feltéve, hogy a szolgáltatást közvetlenül azon személy, szervezet részére nyújtják, aki (amely) a terméket értékesíti vagy beszerzi.
 
 112. § (1) Mentes az adó alól:
 
@@ -1432,7 +1434,7 @@ nincs befolyással.
 
 hatálya alatti állására nincs befolyással.
 
-(2) Mentes az adó alól továbbá az (1) bekezdés alá tartozó termékhez közvetlenül kapcsolódó szolgáltatás nyújtása.
+(2) Mentes az adó alól továbbá az (1) bekezdés alá tartozó termékhez közvetlenül kapcsolódó szolgáltatás nyújtása, feltéve, hogy a szolgáltatást közvetlenül azon személy, szervezet részére nyújtják, aki (amely) a terméket értékesíti vagy beszerzi.
 
 113. § (1) Mentes az adó alól annak a terméknek az értékesítése, Közösségen belüli beszerzése, amely egyúttal adóraktározási eljárás hatálya alá vonandó.
 
@@ -1451,8 +1453,8 @@ hatálya alatti állására nincs befolyással.
 
 117. § Abban az esetben, ha
 
-- a) a termék a 111. § (1) bekezdésének a) vagy b) pontjában említett vámjogi helyzetének megszűnésével, illetőleg
-- b) a terméknek a 111. § (1) bekezdésének c) pontjában, a 112. § (1) bekezdésében említett eljárások hatálya alóli kikerülésével
+- a) a termék a 111. § (1) bekezdésének a) pontjában említett vámjogi helyzetének megszűnésével, illetőleg
+- b) a terméknek a 111. § (1) bekezdésének b) vagy c) pontjában, a 112. § (1) bekezdésében említett eljárások hatálya alóli kikerülésével
 
 annak importja történik az 54. § értelmében, és egyúttal annak értékesítése, illetőleg Közösségen belüli beszerzése is történik, a termék értékesítése, illetőleg Közösségen belüli beszerzése mentes az adó alól.
 
@@ -1583,9 +1585,9 @@ terhelő előzetesen felszámított adó összegének 50 százaléka.
 - b) a 120. § b) pontjában említett esetek közül:
   - ba) termék Közösségen belüli beszerzése esetében a nevére szóló, az ügylet teljesítését tanúsító számla, illetőleg
   - bb) egyéb, a ba) alpont alá nem tartozó esetekben pedig szintén a nevére szóló, az ügylet teljesítését tanúsító számla, illetőleg – ha a fizetendő adó megállapításakor számla nem áll az adóalany személyes rendelkezésére – mindazon okiratok, amelyek a fizetendő adó összegszerű megállapításához szükségesek;
-- c) a 120. § c) pontjában említett esetben a nevére szóló, a termék szabad forgalomba bocsátásáról rendelkező határozat, valamint
-  - ca) a 120. § ca) alpontjában említett esetben a nevére szóló, az adó megfizetését igazoló okirat, vagy ha az adót közvetett vámjogi képviselője fizette meg, a közvetett vámjogi képviselőnek az adóalany nevére szóló nyilatkozata az adó megfizetéséről,
-  - cb) a 120. § cb) alpontjában említett esetben mindazon okiratok, amelyek a fizetendő adó összegszerű megállapításához szükségesek, vagy ha a fizetendő adót közvetett vámjogi képviselője állapította meg, a közvetett vámjogi képviselőnek az adóalany nevére szóló nyilatkozata az adó fizetendő adóként történt megállapításáról és bevallásáról;
+- c) a 120. § c) pontjában említett esetben az áru átengedéséről szóló vámhatóság általi értesítés, ha jogszabály alapján az értesítési kötelezettség fennáll, valamint
+  - ca) a 120. § c) pont ca) alpontjában említett esetben a nevére szóló, a termék szabad forgalomba bocsátása során az adófizetési kötelezettséget megállapító határozat, valamint a nevére szóló, az adó megfizetését igazoló okirat, vagy ha az adót közvetett vámjogi képviselője fizette meg, a közvetett vámjogi képviselőnek az adóalany nevére szóló nyilatkozata az adó megfizetéséről,
+  - cb) a 120. § c) pont cb) alpontjában említett esetben mindazon okiratok, amelyek a fizetendő adó összegszerű megállapításához szükségesek, vagy ha a fizetendő adót közvetett vámjogi képviselője állapította meg, a közvetett vámjogi képviselőnek az adóalany nevére szóló nyilatkozata az adó fizetendő adóként történt megállapításáról és bevallásáról;
 - d) a 120. § d) pontjában említett esetben a nevére szóló, az előleg megfizetését tanúsító számla;
 - e) a 120. § e) pontjában említett esetben mindazon okiratok, amelyek a fizetendő adó összegszerű megállapításához szükségesek.
 
@@ -1744,8 +1746,8 @@ fizeti.
 
 146. § (1) Abban az esetben, ha a termék
 
-- a) a 111. § (1) bekezdés a) vagy b) pontjában említett vámjogi helyzete megszűnik, az adót az fizeti, aki (amely) azt az adóztatandó ügyletet teljesíti a 2. § értelmében, amelynek betudhatóan a termék vámjogi helyzete megszűnik,
-- b) a 111. § (1) bekezdés c) pontjában és a 112. § (1) bekezdésében említett eljárások hatálya alól kikerül, az adót az fizeti, aki (amely) azt az adóztatandó ügyletet teljesíti a 2. § értelmében, amelynek betudhatóan a termék a felsorolt eljárások hatálya alól kikerül,
+- a) a 111. § (1) bekezdés a) pontjában említett vámjogi helyzete megszűnik, az adót az fizeti, aki (amely) azt az adóztatandó ügyletet teljesíti a 2. § értelmében, amelynek betudhatóan a termék vámjogi helyzete megszűnik,
+- b) a 111. § (1) bekezdés b) vagy c) pontjában és a 112. § (1) bekezdésében említett eljárások hatálya alól kikerül, az adót az fizeti, aki (amely) azt az adóztatandó ügyletet teljesíti a 2. § értelmében, amelynek betudhatóan a termék a felsorolt eljárások hatálya alól kikerül,
 - c) a 113. § (1) bekezdésben említett eljárás hatálya alól kikerül, az adót az fizeti, aki (amely) cselekményének betudhatóan a termék ezen eljárás hatálya alól kikerül.
 
 (2) A 4. számú melléklet 34. pontjában meghatározott esetben az adóraktár üzemeltetője az (1) bekezdésben meghatározott adófizetésre kötelezettel együtt egyetemlegesen felelős az adó megfizetéséért.
@@ -1872,7 +1874,7 @@ legyenek.
 
 155. § (1) Termék importja esetében az adót a vámhatóság állapítja meg az adófizetésre kötelezettre.
 
-(2) A vámhatóság a termék vámjogi szabad forgalomba bocsátásáról szóló határozattal állapítja meg az adót abban az esetben is, ha a termék importja a 95. § szerint mentes az adó alól.
+(2) A vámhatóság a termék vámjogi szabad forgalomba bocsátása során határozattal állapítja meg az adót abban az esetben is, ha a termék importja a 95. § szerint mentes az adó alól.
 
 156. § (1) A 155. § (1) bekezdésétől eltérően – ide nem értve azokat az eseteket, amikor a vámtartozás a Vámkódex 79. cikkében meghatározottak alapján keletkezik – az adót önadózással állapítja meg az az adófizetésre kötelezett, akinek (amelynek) azt kérelmére a vámhatóság engedélyezi.
 

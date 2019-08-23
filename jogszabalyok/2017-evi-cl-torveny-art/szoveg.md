@@ -90,6 +90,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 - 7a. automataberendezés: olyan kezelőszemélyzet nélkül is működni képes berendezés, ami termékértékesítés vagy szolgáltatásnyújtás pénzbeli ellenértékének helyben történő megtérítésére szolgál,
 - 8. áfa-regisztrált adóalany: olyan, belföldön gazdasági célú letelepedéssel, lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany, aki (amely) belföldön általános forgalmi adó köteles tevékenységet folytat, amely tekintetében ő az adófizetésre kötelezett,
 - 9. Alapok: a Nemzeti Foglalkoztatási Alap, a Nemzeti Kutatási, Fejlesztési és Innovációs Alap, a Nemzeti Kulturális Alap, az Egészségbiztosítási Alap, valamint a Nyugdíjbiztosítási Alap,
+- 9a. alapok alapját végrehajtó szervezet: a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló Kormányrendelet szerint meghatározott pénzügyi eszközöket végrehajtó szervezet.
 - 10. be nem jelentett foglalkoztatott: az adózó tevékenységében személyesen közreműködő természetes személy, akire vonatkozóan a munkáltató, illetve kifizető biztosítotti bejelentési kötelezettségének nem tett eleget, illetve a munkáltató, kifizető nem tudja bizonyítani, hogy a tevékenységében közreműködő jogviszonya kívül esik a bejelentési kötelezettségen,
 - 11. biztonságos kézbesítési szolgáltatás: az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti biztonságos kézbesítési szolgáltatás,
 - 12. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet alapján nyújtható támogatás,
@@ -1430,15 +1431,16 @@ Az állami adó- és vámhatóság az ingatlan forgalmi értékének megállapí
 
 (5) A csoporttag jogutódlással történő megszűnését a megszűnésre vonatkozó bírósági döntés jogerőre emelkedését követő 15 napon belül a csoportképviselő az állami adó- és vámhatósághoz bejelenti.
 
-#### 114/C. § [A csoportos társasági adóalany megszűnése]
+#### 114/C. § [A csoportos társasági adóalany, illetve a csoportos társasági adóalanyban fennálló csoporttagság megszűnése]
 
-Az állami adó- és vámhatóság a csoportos társasági adóalany létrehozását engedélyező határozatot visszavonja, ha
+(1) Az állami adó- és vámhatóság a csoportos társasági adóalany létrehozását engedélyező határozatot visszavonja, ha
 
 - a) a csoportképviselő – valamennyi csoporttag feltétlen beleegyező nyilatkozatának csatolása mellett – a csoportos társasági adóalany megszüntetését kéri,
 - b) a csoportképviselő a képviseletet nem vállalja, és az új csoportképviselő haladéktalan kijelölése és bejelentése az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerint nem történik meg,
-- c) a csoportos társasági adóalanyban részt vevő bármely csoporttagra a Tao tv. 2/A. § (2)–(4) bekezdésében meghatározott feltételek nem vagy nem teljes körűen teljesülnek,
-- d) a csoportos társasági adóalanyban részt vevő csoporttagok száma kettő alá csökken, vagy
-- e) a csoportos társasági adóalanyban részt vevő valamennyi csoporttag jogutód nélkül megszűnik.
+- c) a csoportos társasági adóalanyban részt vevő csoporttagok száma kettő alá csökken, vagy
+- d) a csoportos társasági adóalanyban részt vevő valamennyi csoporttag jogutód nélkül megszűnik.
+
+(2) Amennyiben a csoportos társasági adóalanyban részt vevő bármely csoporttagra a Tao tv. 2/A. § (2)–(4) bekezdésében meghatározott feltételek nem vagy nem teljeskörűen teljesülnek, az érintett csoporttag csoporttagságát az állami adó- és vámhatóság határozattal megszünteti.
 
 #### 114/D. § [A csoportos társasági adóalany csoportazonosító számának megállapítása]
 
@@ -1752,7 +1754,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 - f) az Állami Számvevőszéket, a kormányzati ellenőrzési szervet, az Európai Csalás Elleni Hivatalt, az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezetet, valamint az európai támogatásokat auditáló szervet, ha a tájékoztatás az ellenőrzéshez szükséges;
 - g) az adópolitikáért felelős minisztert, illetve az állami adó- és vámhatóságot irányító minisztert, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
 - h) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges;
-- i) a központi költségvetésből vagy európai uniós forrásból támogatást folyósító szervet, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához szükséges;
+- i) a központi költségvetésből vagy európai uniós forrásból támogatást folyósító szervet, az irányító hatóságot, az alapok alapját végrehajtó szervezetet, valamint az európai uniós források felhasználásáért felelős miniszter által vezetett minisztériumot, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához, valamint az Európai Bizottság tájékoztatásához, illetve az Európai Unióval történő elszámoláshoz szükséges;
 - j) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet, valamint a helyi és nemzetiségi önkormányzatot a Magyarország helyi önkormányzatairól szóló törvényben, valamint a nemzetiségek jogairól szóló törvényben meghatározott fennálló köztartozás, illetve annak az előírt határidőben történő meg nem fizetése mint méltatlansági eset, illetve a köztartozásmentes adózói adatbázisban való szereplés vizsgálatához szükséges körben, ideértve a köztartozásmentes adózói adatbázisból való törlés okát, amennyiben a törlésre köztartozás fennállása miatt került sor;
 - k) az élelmiszerlánc-felügyeleti szervet a felügyeleti díj bevallásának és megfizetésének ellenőrzésével, továbbá a felügyeleti díj fizetésére kötelezettek nyilvántartásával összefüggésben;
 - l) a Gazdasági Versenyhivatalt, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
@@ -1835,7 +1837,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 - d) a hatszázezer eurónak megfelelő forintösszeget meghaladó, de a nyolcszázezer eurónak megfelelő forintösszeget meg nem haladó támogatástartalom;
 - e) a nyolcszázezer eurónak megfelelő forintösszeget meghaladó támogatástartalom.
 
-(10) Az állami adó- és vámhatóság adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az SA.46672. számú bizottsági határozat, valamint a Jöt. 112. § (1) bekezdés b) pontja és 113. § (1) bekezdése szerinti állami támogatás igénybevételéről az SA.46672. számú bizottsági határozat szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített kedvezmény összege jogcímenként az ötszázezer eurónak megfelelő forintösszeget meghaladja.
+(10) Az állami adó- és vámhatóság – a (3) bekezdés szerinti sávok szerint – adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az SA.46672. számú bizottsági határozat, valamint a Jöt. 112. § (1) bekezdés b) pontja és 113. § (1) bekezdése szerinti állami támogatás igénybevételéről az SA.46672. számú bizottsági határozat szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített kedvezmény összege jogcímenként az ötszázezer eurónak megfelelő forintösszeget meghaladja.
 
 (11) A (10) bekezdés szerinti adatszolgáltatást az adóévet követő év március tizenötödikéig kell teljesíteni az alábbi adatokról:
 
@@ -2852,6 +2854,8 @@ az állami adó- és vámhatóság az adózó terhére a be nem jelentett, illet
 
 (3) Ha az állami adó- és vámhatóság az ellenőrzése során megállapítja, hogy az adózó az EKAER bejelentési kötelezettségét valótlan adattartalommal úgy teljesítette, hogy a bejelentett termék mennyisége meghaladja a ténylegesen fuvarozott termék mennyiségét, akkor az adózó terhére a bejelentett, de ténylegesen nem fuvarozott áru értékének 40 százalékáig terjedő mulasztási bírságot szabhat ki.
 
+(4) A (2) bekezdéstől eltérően nincs helye mulasztási bírság megállapításának, ha az adózó igazolja, hogy úgy járt el, ahogy az az adott helyzetben tőle elvárható.
+
 #### 227. § [Beszámoló letétbe helyezési és közzétételi szabály megsértése]
 
 (1) Az állami adó- és vámhatóság a Számv. tv. szerinti beszámoló letétbe helyezési és közzétételi kötelezettség elmulasztása esetén harmincnapos határidő tűzésével felhívja az adózót a kötelezettség teljesítésére.
@@ -3373,7 +3377,7 @@ részletes szabályait rendeletben határozza meg.
 
 módjára és az adóhatóság rendelkezésére bocsátandó fájlok adatszerkezetére vonatkozó részletes eljárási és technikai szabályokat rendeletben szabályozza.
 
-(10) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER hatálya alá tartozó termékértékesítést, termékbeszerzést és egyéb célú termékmozgatást, az EKAER működésével kapcsolatos szabályokat, az EKAER hatálya alóli mentesülés eseteit, valamint a kockázati biztosítékkal kapcsolatos szabályokat, különösen az EKAER szám megállapításának rendjét, a személyes adatok kivételével a bejelentendő adatok körét, a bejelentésre kötelezettek körét, a bejelentési kötelezettség teljesítése alóli egyedi mentesítés szabályait, az EKAER elektronikus felületén történő bejelentéssel, változásbejelentéssel kapcsolatos szabályokat rendeletben határozza meg.
+(10) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER hatálya alá tartozó termékértékesítést, termékbeszerzést és egyéb célú termékmozgatást, az EKAER működésével kapcsolatos szabályokat, az EKAER hatálya alóli mentesülés eseteit, valamint a kockázati biztosítékkal kapcsolatos szabályokat, különösen az EKAER szám megállapításának rendjét, a személyes adatok kivételével a bejelentendő adatok körét, a bejelentésre kötelezettek körét, a bejelentési kötelezettség teljesítése alóli egyedi mentesítés szabályait, az EKAER elektronikus felületén történő bejelentéssel, változásbejelentéssel, az EKAER szám lezárásával, lezárt bejelentés módosításával kapcsolatos szabályokat rendeletben határozza meg.
 
 (11) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter egyetértésével kiadott rendeletben határozza meg az EKAER működésével összefüggésben a kockázatos termékek körét.
 
