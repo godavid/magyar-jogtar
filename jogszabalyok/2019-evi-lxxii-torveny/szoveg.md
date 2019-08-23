@@ -12,11 +12,33 @@ az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizác
 
 3. §
 
-4. §
+4. § (1) A Tao. törvény 18/C. §-a a következő (9d) bekezdéssel egészül ki:
+
+„(9d) A 18/A. § (1) bekezdése szerinti adózónál a (9a) és (9b) bekezdések hatálya alá nem tartozó, a lízingbe vevő által a könyvekbe felvett használati jog eszközre az adózás előtti eredményben az IFRS-ek szerint elszámolt értékcsökkenést a számvitelről szóló törvény szerint az ingatlanhoz nem kapcsolódó vagyoni értékű jogokra megállapított terv szerinti értékcsökkenésnek kell tekinteni az 1. számú melléklet alkalmazásában.”
+
+(2) A Tao. törvény 18/C. § (13a) és (13b) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(13a) A 18/A. § (1) bekezdése szerinti, hitelintézetnek vagy pénzügyi vállalkozásnak minősülő adózó
+
+a) a (13) bekezdés c) pontja alkalmazásában az adózás előtti eredményét nem növeli a pénzügyi szolgáltatási, a kiegészítő pénzügyi szolgáltatási, a befektetési szolgáltatási tevékenységéből származó várható kötelezettség fedezetére képzett céltartalékkal (céltartalékot növelő összeggel), valamint a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény (a továbbiakban: Ltp.) szerint képzett kiegyenlítési tartaléknak (tartalékot növelő összegnek) megfeleltethető összeggel kapcsolatban az adóévben az adózás előtti eredmény terhére elszámolt összeggel,
+
+b) az adózás előtti eredményét nem csökkenti a pénzügyi szolgáltatási, a kiegészítő pénzügyi szolgáltatási, a befektetési szolgáltatási tevékenységéből származó várható kötelezettség fedezetére képzett céltartalék felhasználásával (céltartalékot csökkentő összeggel), valamint az Ltp. szerint felhasznált kiegyenlítési tartaléknak (tartalékot csökkentő összegnek) megfeleltethető összeggel kapcsolatban az adóévben az adózás előtti eredmény javára elszámolt összeggel.
+
+(13b) A 18/A. § (1) bekezdése szerinti, lakástakarékpénztárnak minősülő adózó – külön e célra szolgáló nyilvántartás alapján – a korrigált adózás előtti eredményét
+
+a) csökkenti az Ltp. szerinti kiegyenlítési tartalék képzésének (növelésének) megfeleltethető, de az adózás előtti eredmény terhére el nem számolt adóévi összeggel,
+
+b) növeli az Ltp. szerinti kiegyenlítési tartalék felhasználásának (csökkentésének) megfeleltethető, de az adózás előtti eredmény javára el nem számolt adóévi összeggel.”
 
 5. §
 
-6. §
+6. § A Tao. törvény 22/E. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) E § alkalmazásában elszámolható költségnek minősül
+
+a) az energiahatékonysági beruházás, felújítás célját szolgáló, a kizárólag a magasabb energiahatékonysági szint elérését elősegítő tárgyi eszköz, immateriális jószág bekerülési értéke, értékének növekedése, amennyiben a beruházás, felújítás összköltségén belül a kizárólag energiahatékonysági célokat szolgáló beruházás, felújítás költségei külön beruházásként, felújításként meghatározhatóak, vagy
+
+b) az energiahatékonysági célokat közvetlenül szolgáló beruházás, felújítás részét képező tárgyi eszköz, immateriális jószág bekerülési értékének, értéknövekedésének az a része, amely egy hasonló, kevésbé energiahatékony beruházáshoz, felújításhoz viszonyítva többletköltségként merül fel, amely kevésbé energiahatékony beruházást, felújítást az adózó az e § szerinti adókedvezmény és a beruházáshoz, felújításhoz igénybe vett más állami támogatás hiányában hitelt érdemlően végrehajtott volna, amennyiben az elszámolható költség az a) pont szerinti módszerrel nem határozható meg.”
 
 7. § (1)
 
@@ -28,7 +50,13 @@ az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizác
 
 #### 2. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló2012. évi CXLVII. törvény módosítása
 
-10. §
+10. § A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény (a továbbiakban: Katv.) 16. § (2) bekezdése a következő f) és g) ponttal egészül ki:
+
+[Az (1) bekezdésben meghatározott személy az adóévre akkor választhatja a kisvállalati adó szerinti adózást, ha]
+
+„f) ellenőrzött külföldi társasággal az adóévet megelőző adóévben nem rendelkezik;
+
+g) az az összeg, amellyel az adózó vállalkozási tevékenysége érdekében felmerült, Tao. tv. szerinti finanszírozási költségei meghaladják az adózó adóköteles kamatbevételeit és a gazdasági értelemben azzal egyenértékűnek tekintendő adóköteles bevételeit, az adóévet megelőző adóévben várhatóan nem haladja meg a 939 810 000 forintot.”
 
 11. §
 
@@ -61,9 +89,19 @@ lép.
 
 19. §
 
-20. §
+20. § Az Áfa tv. 93. §-a a következő (3) bekezdéssel egészül ki:
 
-21. §
+„(3) A (2) bekezdés szerinti mentesség alkalmazásának feltétele, hogy a szolgáltatást közvetlenül az importáló részére nyújtsák.”
+
+21. § (1) Az Áfa tv. 95. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Mentes az adó alól a termék importja a következő feltételek együttes teljesülése esetében:)
+
+„b) az a) pont szerint értékesített termék küldeménykénti feladása belföldön vagy elfuvarozása belföldről legkésőbb azon időponttól, amelytől kezdve a termék vámjogi szabad forgalomba bocsátottnak tekintendő, a (3) bekezdésben meghatározott határidőig megtörténik;”
+
+(2) Az Áfa tv. 95. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) Abban az esetben, ha az adó megfizetésének felfüggesztése a (7) bekezdés b) pontja szerint szűnik meg, a vámhatóság kötelezi az importálót a megállapított adó megfizetésére úgy, hogy a megfizetéshez fűződő egyéb jogkövetkezményekről arra az időpontra visszamenőleg rendelkezik, amelytől kezdve a termék vámjogi szabad forgalomba bocsátottnak tekintendő.”
 
 22. §
 
@@ -73,15 +111,45 @@ lép.
 
 25. §
 
-26. §
+26. § Az Áfa tv. 111. §-a helyébe a következő rendelkezés lép:
 
-27. §
+„111. § (1) Mentes az adó alól annak a terméknek az értékesítése, Közösségen belüli beszerzése, amely egyúttal
 
-28. §
+a) vám elé állítást követően átmeneti megőrzés alatt áll;
+
+b) vámszabadterületi eljárás vagy vámszabadraktári eljárás hatálya alá vonandó, vagy
+
+c) vámraktározási vagy aktív feldolgozási eljárás hatálya alá vonandó.
+
+(2) Az (1) bekezdés szerinti adómentesség alkalmazandó arra a további értékesítésre is, amely
+
+a) a termék (1) bekezdés a) pontjában említett vámjogi helyzetére, vagy
+
+b) a terméknek az (1) bekezdés b) és c) pontjában említett eljárások hatálya alatti állására
+
+nincs befolyással.
+
+(3) Mentes az adó alól továbbá az (1) és (2) bekezdés alkalmazása alá tartozó termékhez közvetlenül kapcsolódó szolgáltatás nyújtása, feltéve, hogy a szolgáltatást közvetlenül azon személy, szervezet részére nyújtják, aki (amely) a terméket értékesíti vagy beszerzi.”
+
+27. § Az Áfa tv. 112. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Mentes az adó alól továbbá az (1) bekezdés alá tartozó termékhez közvetlenül kapcsolódó szolgáltatás nyújtása, feltéve, hogy a szolgáltatást közvetlenül azon személy, szervezet részére nyújtják, aki (amely) a terméket értékesíti vagy beszerzi.”
+
+28. § Az Áfa tv. 127. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Az adólevonási jog gyakorlásának tárgyi feltétele, hogy az adóalany személyes rendelkezésére álljon)
+
+„c) a 120. § c) pontjában említett esetben az áru átengedéséről szóló vámhatóság általi értesítés, ha jogszabály alapján az értesítési kötelezettség fennáll, valamint
+
+ca) a 120. § c) pont ca) alpontjában említett esetben a nevére szóló, a termék szabad forgalomba bocsátása során az adófizetési kötelezettséget megállapító határozat, valamint a nevére szóló, az adó megfizetését igazoló okirat, vagy ha az adót közvetett vámjogi képviselője fizette meg, a közvetett vámjogi képviselőnek az adóalany nevére szóló nyilatkozata az adó megfizetéséről,
+
+cb) a 120. § c) pont cb) alpontjában említett esetben mindazon okiratok, amelyek a fizetendő adó összegszerű megállapításához szükségesek, vagy ha a fizetendő adót közvetett vámjogi képviselője állapította meg, a közvetett vámjogi képviselőnek az adóalany nevére szóló nyilatkozata az adó fizetendő adóként történt megállapításáról és bevallásáról;”
 
 29. §
 
-30. §
+30. § Az Áfa tv. 155. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A vámhatóság a termék vámjogi szabad forgalomba bocsátása során határozattal állapítja meg az adót abban az esetben is, ha a termék importja a 95. § szerint mentes az adó alól.”
 
 31. §
 
@@ -109,16 +177,16 @@ lép.
 
 43. § Az Áfa tv.
 
-- 1.
-- 2.
+- 1. Az 54. § (1) bekezdés a) pontjában az „a) és b) pontja szerint” szövegrész helyébe az „a) pontja szerint”,
+- 2. Az 54. § (1) bekezdés b) pontjában az „(1) bekezdésének c) pontjában” szövegrész helyébe az „(1) bekezdésének b) és c) pontjában”,
 - 3.
 - 4.
 - 5.
 - 6.
-- 7.
-- 8.
-- 9.
-- 10.
+- 7. 117. § a) pontjában az „(1) bekezdésének a) vagy b) pontjában” szövegrész helyébe az „(1) bekezdésének a) pontjában”,
+- 8. 117. § b) pontjában az „(1) bekezdésének c) pontjában” szövegrész helyébe az „(1) bekezdésének b) vagy c) pontjában”,
+- 9. 146. § (1) bekezdés a) pontjában az „(1) bekezdés a) vagy b) pontjában” szövegrész helyébe az „(1) bekezdés a) pontjában”,
+- 10. 146. § (1) bekezdés b) pontjában az „(1) bekezdés c) pontjában” szövegrész helyébe az „(1) bekezdés b) vagy c) pontjában”,
 - 11.
 
 szöveg lép.
@@ -144,7 +212,15 @@ szöveg lép.
 
 #### 5. Az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló 2008. évi LXVIII. törvény módosítása
 
-49. §
+49. § Az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló 2008. évi LXVIII. törvény (továbbiakban: Utasforgalmi tv.) 7. § (1) bekezdés a) pontja a következő ae)–ag) alpontokkal egészül ki:
+
+(Mentes az adó alól a harmadik államból vagy az azzal egy tekintet alá eső területről belföldre beutazó utas személyi poggyászában levő termék vagy termékek nem kereskedelmi jellegű importja, ha a mennyiség személyenként nem haladja meg dohánytermékek körében:)
+
+„ae) töltőfolyadéknál légi utas esetében 75 millilitert, egyéb utas esetében 15 millilitert,
+
+af) új dohánytermék-kategóriák dohányt tartalmazó vagy dohánnyal együtt fogyasztott egyszer használatos termékeinél légi utas esetében 200 darabot, egyéb utas esetében 40 darabot,
+
+ag) új dohánytermék-kategóriák dohányt tartalmazó vagy dohánnyal együtt fogyasztott folyadékánál légi utas esetében 75 millilitert, egyéb utas esetében a 15 millilitert;”
 
 #### 6. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
@@ -152,7 +228,7 @@ szöveg lép.
 
 51. §
 
-52. §
+52. § A Jöt. 62. § (4) bekezdés k) pontjában az „esetében 800 darab” szövegrész helyébe az „egyszer használatos termékei esetében 800 darab, folyadéka esetében 300 milliliter” szöveg lép.
 
 53. §
 
@@ -190,25 +266,40 @@ szöveg lép.
 
 #### 10. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-63. §
+63. § Az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 7. §-a a következő 9a. ponttal egészül ki:
+
+(E törvény és – ha törvény másként nem rendelkezik – az adóról és az adóigazgatási eljárásról szóló jogszabályok alkalmazásában)
+
+„9a. alapok alapját végrehajtó szervezet: a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló Kormányrendelet szerint meghatározott pénzügyi eszközöket végrehajtó szervezet.”
 
 64. §
 
 65. §
 
-66. §
+66. § Az Art. 131. § (14) bekezdés i) pontja helyébe a következő rendelkezés lép:
+
+(Az adóhatóság megkeresésre vagy adatkérésre tájékoztatja az adótitokról)
+
+„i) a központi költségvetésből vagy európai uniós forrásból támogatást folyósító szervet, az irányító hatóságot, az alapok alapját végrehajtó szervezetet, valamint az európai uniós források felhasználásáért felelős miniszter által vezetett minisztériumot, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához, valamint az Európai Bizottság tájékoztatásához, illetve az Európai Unióval történő elszámoláshoz szükséges;”
 
 67. §
 
 68. §
 
-69. §
+69. § Az Art. 226. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A (2) bekezdéstől eltérően nincs helye mulasztási bírság megállapításának, ha az adózó igazolja, hogy úgy járt el, ahogy az az adott helyzetben tőle elvárható.”
 
 70. §
 
 71. §
 
-72. §
+72. § Az Art.
+
+- 1. 132. § (10) bekezdésében a „vámhatóság adatot” szövegrész helyébe a „vámhatóság – a (3) bekezdés szerinti sávok szerint – adatot” szöveg,
+- 2. 269. § (10) bekezdésében a „változásbejelentéssel kapcsolatos” szövegrész helyébe a „változásbejelentéssel, az EKAER szám lezárásával, lezárt bejelentés módosításával kapcsolatos” szöveg
+
+lép.
 
 ### VII. Fejezet — VÁMIGAZGATÁS
 

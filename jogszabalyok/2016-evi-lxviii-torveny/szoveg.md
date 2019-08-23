@@ -1229,7 +1229,7 @@ szolgálhat.
 - h) csendes és habzóbor, egyéb csendes és habzó erjesztett ital esetében együttesen 90 liter (ebből habzóbor és egyéb habzó erjesztett ital legfeljebb 60 liter),
 - i) energiatermék esetében a jármű üzemanyagtartályában és egy, legfeljebb 10 literes hordozható tartályban lévő mennyiség,
 - j) töltőfolyadék esetében 300 milliliter, és
-- k) az új dohánytermék-kategóriák esetében 800 darab.
+- k) az új dohánytermék-kategóriák egyszer használatos termékei esetében 800 darab, folyadéka esetében 300 milliliter.
 
 (5) Nem minősül kereskedelmi célú szállításnak
 

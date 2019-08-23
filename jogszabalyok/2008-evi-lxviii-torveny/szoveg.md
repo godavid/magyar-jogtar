@@ -61,7 +61,10 @@ Az Országgyűlés a harmadik országokból beutazó személyek által importál
   - aa) cigarettánál légi utas esetében a 200 darabot, egyéb utas esetében a 40 darabot,
   - ab) szivarkánál (darabonként 3 grammnál nem nagyobb tömegű szivar, szivarka) légi utas esetében a 100 darabot, egyéb utas esetében a 20 darabot,
   - ac) szivarnál légi utas esetében az 50 darabot, egyéb utas esetében a 10 darabot,
-  - ad) fogyasztási dohánynál légi utas esetében a 250 grammot, egyéb utas esetében az 50 grammot;
+  - ad) fogyasztási dohánynál légi utas esetében a 250 grammot, egyéb utas esetében az 50 grammot,
+  - ae) töltőfolyadéknál légi utas esetében 75 millilitert, egyéb utas esetében 15 millilitert,
+  - af) új dohánytermék-kategóriák dohányt tartalmazó vagy dohánnyal együtt fogyasztott egyszer használatos termékeinél légi utas esetében 200 darabot, egyéb utas esetében 40 darabot,
+  - ag) új dohánytermék-kategóriák dohányt tartalmazó vagy dohánnyal együtt fogyasztott folyadékánál légi utas esetében 75 millilitert, egyéb utas esetében a 15 millilitert;
 - b) alkoholtermékek és egyéb – ide nem értve a szőlőbort és a sört – alkoholtartalmú italok körében:
   - ba) 22 térfogatszázaléknál nagyobb alkoholtartalmú alkoholterméknél vagy legalább 80 térfogatszázalék alkoholtartalmú nem denaturált alkoholterméknél összesen az 1 litert,
   - bb) 22 térfogatszázaléknál nem nagyobb alkoholtartalmú alkoholterméknél, köztes alkoholterméknél, pezsgőnél vagy egyéb bornál összesen a 2 litert;
