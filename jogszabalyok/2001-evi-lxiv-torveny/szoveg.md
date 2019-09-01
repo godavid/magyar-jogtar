@@ -223,7 +223,7 @@ a következő törvényt alkotja:
 - c) a megyei hatókörű városi múzeum,
 - d) a régészeti gyűjtőkörrel rendelkező területi múzeum,
 - e) a régészet szakon mesterképzés folytatására jogosult felsőoktatási intézmény,
-- f) a Magyar Tudományos Akadémia Bölcsészettudományi Kutatóközpont,
+- f) a Bölcsészettudományi Kutatóközpont,
 - g) a jogszabályban kijelölt örökségvédelmi szerv, valamint
 - h) a régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló kormányrendelet szerint régészeti területen szakértői tevékenység végzésére jogosult szakértő kizárólag az örökségvédelmi hatástanulmányok készítéséhez végzett terepbejárás és műszeres lelőhely- és leletfelderítés esetén.
 
