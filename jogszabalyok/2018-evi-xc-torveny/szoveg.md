@@ -58,7 +58,9 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 25. §
 
-26. §
+26. § Az Nftv. 114/A. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A doktori képzésre évente felvehető magyar állami ösztöndíjjal támogatott létszám 2000 fő.”
 
 27. §
 
@@ -112,7 +114,7 @@ szöveg lép.
 - i)
 - j)
 - k)
-- l)
+- l) 114/A. § (1) bekezdésében a „ , doktori képzésre”szövegrész,
 - m)
 - n)
 - o)

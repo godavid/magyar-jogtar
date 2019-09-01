@@ -886,7 +886,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 43/C. §
 
-43/D. § (1) A 41–43. §-ban foglaltakon túlmenően a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervnél, valamint a központi költségvetési intézményként működő kutatóintézeteknél összeférhetetlen az olyan munkavégzésre irányuló további jogviszony, amelynek keretében a közalkalmazottat foglalkoztató munkáltató üzleti titkát képező módszerek, eljárások, ismeretek, know-how-k alkalmazására, hasznosítására kerülne sor.
+43/D. § (1) A 41–43. §-ban foglaltakon túlmenően a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervnél, valamint a központi költségvetési intézményként működő kutatóhelyeknél összeférhetetlen az olyan munkavégzésre irányuló további jogviszony, amelynek keretében a közalkalmazottat foglalkoztató munkáltató üzleti titkát képező módszerek, eljárások, ismeretek, know-how-k alkalmazására, hasznosítására kerülne sor.
 
 (2) Az (1) bekezdés alkalmazásában üzleti titok a munkáltató gazdasági (kutatási) tevékenységéhez kapcsolódó minden olyan téma, információ, megoldás, eljárási módszer, adat, amely a munkáltató számára vagyoni értéket képvisel.
 
@@ -1352,7 +1352,7 @@ magasabb fizetési fokozatba kell besorolni.
 - c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő közalkalmazottak kiválasztására, valamint többletmunkájukhoz és képzési többletterhükhöz kapcsolódó anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat,
 - d) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, a művészeti, a közművelődési és a közgyűjteményi, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
+(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, az Eötvös Loránd Kutatási Hálózat központi költségvetési szervei,, a művészeti, a közművelődési és a közgyűjteményi, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
 
 - a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 - b) azt a munkakört, amelyben nem kötelező pályázat kiírása a közalkalmazotti jogviszony létesítéséhez,
@@ -1404,7 +1404,7 @@ magasabb fizetési fokozatba kell besorolni.
   - de) a külön törvényben szabályozott teljesítményértékelés minősítési eredménnyel való egyenértékűsége feltételeit,
   - df) az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
   - dg) a tudományos kutatói munkakörbe történő besorolás feltételeit;
-- e) a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési intézményeknél, illetve más kutató- és kutatást kiegészítő intézeteknél foglalkoztatott közalkalmazottak tekintetében
+- e) a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési intézményeknél, az Eötvös Loránd Kutatási Hálózat központi költségvetési szerveinél, illetve más kutató- és kutatást kiegészítő intézeteknél foglalkoztatott közalkalmazottak tekintetében
   - ea) azt a magasabb vezető beosztást, amelynek a betöltéséhez a munkakör ellátásához szükséges magyar nyelvtudás előírható,
   - eb) a vezető állású munkavállalóval betöltendő vezetői munkaköröket,
   - ec) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,

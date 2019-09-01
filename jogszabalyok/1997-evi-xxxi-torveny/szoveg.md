@@ -467,7 +467,9 @@ gyakorolja.
 
 (4) Az (1) bekezdésben meghatározott pénzbeli és természetbeni ellátások megállapítását nevelési-oktatási intézmény, gyámhatóság, továbbá más családvédelemmel foglalkozó intézmény, illetve természetes személy vagy a gyermekek érdekeinek védelmét ellátó társadalmi szervezet kezdeményezheti.
 
-(5)–(6)
+(5)
+
+(6)
 
 18/A. §
 
@@ -557,7 +559,9 @@ emelt összegű pénzbeli támogatást folyósít.
 
 (3) Az (1) és (2) bekezdés szerinti támogatás esetenkénti összegéről az Országgyűlés a központi költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
 
-20/B. § (1)–(2)
+20/B. § (1)
+
+(2)
 
 (3) A kiegészítő pénzbeli ellátás havi összege – gyermekenként – az öregségi nyugdíj mindenkori legkisebb összegének 22 százaléka.
 
@@ -1024,7 +1028,13 @@ a kérelmezővel, illetve törvényes képviselőjével írásban megállapodás
 
 35. § (1) Az intézmény fenntartója meghatározza – a (6) bekezdésben meghatározott ellátások kivételével – az ellátásban részesülők érdekvédelmét szolgáló érdekképviseleti fórum megalakításának és működésének – jogszabályban meghatározottak szerint kialakított – szabályait.
 
-(2)–(5)
+(2)
+
+(3)
+
+(4)
+
+(5)
 
 (6) A gyermekek esélynövelő szolgáltatásaiban, a gyermekjóléti szolgáltatásban, valamint a mini bölcsőde, a munkahelyi bölcsőde, a családi bölcsőde, a napközbeni gyermekfelügyelet és az alternatív napközbeni ellátás formájában biztosított napközbeni ellátásban részesülők érdekvédelmére a fenntartónak érdekképviseleti fórumot nem kell működtetnie. E szolgáltatások és ellátások esetén a panaszjog gyakorlására a 36. §-ban foglaltakat kell alkalmazni.
 
@@ -1349,7 +1359,7 @@ feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatá
 - a) a bölcsődei ellátásban, óvodai nevelésben nem részesülő gyermek számára,
 - b) a kötelező óvodai nevelésben való részvétel alól felmentett gyermek számára,
 - c) az óvodai nevelésben részesülő gyermek számára a kötelező óvodai nevelésben való részvételének idején kívül,
-- d) a magántanuló számára,
+- d) az egyéni munkarenddel rendelkező tanuló számára,
 - e) az iskolai oktatásban részesülő tanuló számára az Nktv. szerinti kötelező tanórai és egyéb foglalkozásokon való részvételének idején kívül, valamint a tanítási szünetekben, és
 - f) az Nktv. rendelkezései szerint az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól felmentett gyermek számára.
 
@@ -1389,7 +1399,7 @@ feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatá
 (3) Az (1) bekezdés szerinti szolgáltatás keretében
 
 - a) a gyermek életkorához, egészségi állapotához igazodó gondozást, felügyeletet kell biztosítani, és
-- b) segítséget kell nyújtani az iskolai tanulmányok folytatásához, ha a gyermek tanulmányait az Nktv. rendelkezései szerint sajátos nevelési igénye vagy súlyos betegsége miatt magántanulóként folytatja.
+- b) segítséget kell nyújtani az iskolai tanulmányok folytatásához, ha a gyermek tanulmányait az Nktv. rendelkezései szerint sajátos nevelési igénye vagy súlyos betegsége miatt egyéni munkarenddel rendelkező tanulóként folytatja.
 
 (4) Az (1) bekezdés szerinti szolgáltatás a szolgáltatást nyújtó saját gyermeke számára nem biztosítható.
 
@@ -1430,7 +1440,9 @@ feltéve, ha a működtető rendelkezik az ehhez szükséges – jogszabályban 
 - b) a szülő vagy más törvényes képviselő gyermeke átmeneti gondozásához nem járul hozzá, illetve azt nem kéri,
 - c) a gyermek visszakerülése a szülőjéhez ellentétes a gyermek érdekeivel.
 
-47. § (1)–(2)
+47. § (1)
+
+(2)
 
 (3) Ha az átmeneti gondozás időtartama eltelt, azonban a gyermek családi környezetébe nem térhet vissza
 
@@ -1833,7 +1845,9 @@ feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok v�
 - b) biztosítja az ideiglenes hatállyal elhelyezett, a nevelésbe vett gyermek törvényes képviseletének ellátását,
 - c) szaktanácsadási feladatokat lát el.
 
-64–65. §
+64. §
+
+65. §
 
 66. § (1) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a gyermekvédelmi szakszolgáltatás
 
@@ -2443,7 +2457,9 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
 ### IX. Fejezet
 
-70–71. §
+70. §
+
+71. §
 
 ### X. Fejezet — Ideiglenes hatályú elhelyezés
 
@@ -2863,7 +2879,7 @@ korlátozhatja a gyermek személyes szabadságát.
 
 - a) eljár a gyermek személyes okmányainak beszerzése érdekében, kéri a gyermek közgyógyellátásra való jogosultságának megállapítását és a gyermek tartózkodási engedélyének meghosszabbítását,
 - b) törvényes képviselőként nyilatkozatot tesz a gyermeken végzendő egészségügyi beavatkozásokhoz,
-- c) eljár a gyermek iskolai beíratása, tanulói jogviszonyának, magántanulói jogállásának létesítése, megszüntetése ügyében,
+- c) eljár a gyermek iskolai beíratásával, tanulói jogviszonyának létesítésével, megszüntetésével, valamint egyéni munkarendjének engedélyezésével kapcsolatos ügyekben,
 - d) kérelmezi a gyámhatóságnál a gyermek és szülei kapcsolattartásának szabályozását, módosítását, a gyermek örökbefogadhatóvá nyilvánítását, a gondozási hely megváltoztatását, a gondokság alá helyezés iránt eljárás megindítását, a nevelésbe vétel megszüntetését, ha azok feltételei fennállnak,
 - e) a gyermek örökbefogadásának előkészítése során a gyermekvédelmi szakszolgálattal együttműködve – a szülő-gyermek kapcsolat kialakulása érdekében – a kötelező gondozásba kihelyezést megelőzően engedélyezheti, hogy a gyermek az örökbe fogadni szándékozó szülőnél tartózkodjon, amelyről egyidejűleg értesíti a gyámhatóságot,
 - f) képviseli a gyermeket a hatósági ügyeiben,
@@ -3183,7 +3199,11 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 
 100. § (1) A munkahelyi bölcsőde, a családi bölcsőde és a napközbeni gyermekfelügyelet esetében a 32. § (5) bekezdése szerint megkötött megállapodások száma – a szolgáltatás eltérő időpontokban történő igénybevétele esetén – túllépheti a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyek számát. A szolgáltatást azonos időben igénybe vevő gyermekek száma ebben az esetben sem haladhatja meg a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyszámot.
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 (5) Az otthont nyújtó ellátás, utógondozói ellátás nevelőszülő, illetve gyermekotthon által történő biztosítása esetén az ellátottak száma éves átlagban nem haladhatja meg a fenntartó által működtetett – a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett – nevelőszülői, illetve gyermekotthoni összférőhelyszám 100%-át. A helyettes szülőnél, a gyermekek átmeneti otthonában, illetve a családok átmeneti otthonában ellátottak száma éves átlagban nem haladhatja meg a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyszám 100%-át.
 
@@ -3215,7 +3235,9 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 
 (7)
 
-(8)–(9)
+(8)
+
+(9)
 
 100/B. §
 
@@ -3324,7 +3346,11 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
   - ad) szakterületén a kérelem benyújtását megelőző hét évben szerzett legalább ötéves gyakorlattal, és
 - b) büntetlen előéletű, nem áll a gyermekvédelmi vagy szociálpolitikai szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
 
 103/B. § (1) A Kormány által erre kijelölt szerv a szakértői tevékenység folytatása tekintetében bejelentést tett személyekről névjegyzéket vezet. A névjegyzékből az e törvény szerint nyilvános adatokon túli adat kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható.
 
@@ -3406,9 +3432,29 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 108. §
 
-109–117. §
+109. §
 
-118–120. §
+110. §
+
+111. §
+
+112. §
+
+113. §
+
+114. §
+
+115. §
+
+116. §
+
+117. §
+
+118. §
+
+119. §
+
+120. §
 
 121. § (1)
 
@@ -3434,9 +3480,31 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 125. § (1)
 
-(2)–(10)
+(2)
 
-(11)–(14)
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
 
 126. §
 
@@ -4063,7 +4131,11 @@ vonatkozó adatokat kezelhet.
 
 141/A. § A kincstár – a személyes gondoskodás rendszerének és finanszírozásának tervezhetősége érdekében – országos jelentési rendszert működtet. A fenntartó az országos jelentési rendszer számára köteles bejelenteni a kormányrendeletben meghatározott – személyes adatnak nem minősülő – adatokat.
 
-141/B–141/D. §
+141/B. §
+
+141/C. §
+
+141/D. §
 
 141/E. § (1) Az örökbefogadási eljárásban közreműködő szervek közötti adatszolgáltatás biztosítása és az örökbefogadási ügyek minél rövidebb határidőn belüli elintézése céljából – a gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló kormányrendeletben meghatározott, informatikai programmal támogatott nyilvántartási rendszerben és eljárás szerint vezetett – egységes örökbefogadási nyilvántartás működik. Az egységes örökbefogadási nyilvántartást a miniszter vezeti, aki az egységes örökbefogadási nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával kizárólag a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló 2010. évi CLVII. törvény 2. §-a (2) bekezdése szerinti szervezetet bízhat meg.
 
@@ -4373,11 +4445,19 @@ van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti
 - d) az átmeneti gondozásban lévő, az ideiglenes hatállyal nevelőszülőnél vagy gyermekotthonban elhelyezett, a nevelésbe vett gyermek,
 - e) a védelembe vett gyermek gondozását térítésmentesen kell biztosítani. Ezekben az esetekben személyi térítési díj – a 21/B. § (1) bekezdésében foglaltak figyelembevételével – csak az étkezésért kérhető. A c) pont szerinti gyermekszámot a 21/B. § (3) bekezdésében foglaltak szerint kell meghatározni.
 
-151. § (1)–(2)
+151. § (1)
+
+(2)
 
 (2a)
 
-(2b)–(2e)
+(2b)
+
+(2c)
+
+(2d)
+
+(2e)
 
 (2f) Ha a 21/A. § (1), (4) és (6) bekezdése szerinti gyermekétkeztetést a települési önkormányzat biztosítja, úgy az intézményi térítési díjat a települési önkormányzat állapítja meg.
 
@@ -4391,9 +4471,15 @@ van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti
 
 (5)
 
-(5a)–(5b)
+(5a)
 
-(6)–(8)
+(5b)
+
+(6)
+
+(7)
+
+(8)
 
 (9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek nem állami fenntartású nevelési-oktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a nem állami fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján 21/B. §-ban foglaltakon kívül, illetve a 21/C. § (1) bekezdés b) pontja szerinti gyermekek számára további étkeztetési kedvezményt állapíthat meg.
 
@@ -4522,7 +4608,9 @@ kell gondoskodni, kivéve, ha a gyermek tartósan beteg, súlyosan fogyatékos, 
 
 (3)
 
-(4)–(5)
+(4)
+
+(5)
 
 161/R. § (1)
 
@@ -4557,7 +4645,9 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 161/Z. § (1) E törvénynek az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított 62. § (3) bekezdés c) pontját, 62/A–62/D. §-át, 69/A. § (3) és (4) bekezdését, 69/B. § (1a) bekezdését, 69/D. § (1a) és (1b) bekezdését, valamint 69/F–69/H. §-át a 2014. március 15-e után indult örökbefogadási eljárásokra kell alkalmazni, beleértve az örökbefogadás előtti eljárást is.
 
-(2)–(3)
+(2)
+
+(3)
 
 ### Felhatalmazás
 
@@ -4636,11 +4726,15 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 (6)
 
-(7)–(8)
+(7)
+
+(8)
 
 (9) A 66/I. § (1) bekezdése szerinti kártérítési felelősség a 2013. december 31-ét követően létrejövő nevelőszülői foglalkoztatási jogviszonyra terjed ki.
 
-(10)–(11)
+(10)
+
+(11)
 
 164. § A 2014. január 1-jét megelőzően nevelésbe vett gyermek gondozási helyét kizárólag a nevelőszülői vagy a hivatásos nevelőszülői jogviszonynak nevelőszülői foglalkoztatási jogviszonnyá történő átalakulása miatt nem lehet megváltoztatni.
 

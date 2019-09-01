@@ -392,29 +392,127 @@ lép.
 
 54. §
 
-55. §
+55. § (1) Az Fgytv. 18. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
 
-56. §
+„(2) A békéltető testület a megyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) által működtetett szakmailag független testület.
 
-57. §
+(3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének támogatásáról, ide nem értve a Pénzügyi Békéltető Testületet.”
 
-58. §
+(2) Az Fgytv. 18. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-59. §
+„(5) Online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén a fogyasztóvédelemért felelős miniszter által rendeletben kijelölt kamara által működtetett békéltető testület illetékes.”
 
-60. §
+(3) Az Fgytv. 18. §-a a következő (9) bekezdéssel egészül ki:
 
-61. §
+„(9) A békéltető testület tagja e tevékenység ellátásáért a fogyasztóvédelemért felelős miniszter által rendeletben meghatározott díjazásra és szükség esetén költségtérítésre jogosult.”
 
-62. §
+56. § Az Fgytv. 19. §-a helyébe a következő rendelkezés lép:
 
-63. §
+„19. § A fogyasztóvédelemért felelős miniszter látja el a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet szerinti tagállami online vitarendezési kapcsolattartó pont feladatait.”
 
-64. §
+57. § Az Fgytv. 21. §-a helyébe a következő rendelkezés lép:
 
-65. §
+„21. § (1) A békéltető testület elnökből, – szükség szerint – elnökhelyettesből és tagokból (a továbbiakban együtt: békéltető testületi tagok) áll.
 
-66. §
+(2) A békéltető testületi tagok a területileg illetékes kamara által lefolytatott pályázat alapján kerülnek kiválasztásra. Ha a területileg illetékes kamara a külön jogszabályban meghatározott időpontban nem indítja meg a pályázati eljárást, akkor helyette azt az MKIK bonyolítja le.
+
+(3) A pályázat érvényes lezárását követően az illetékes kamara a pályázatokat, azok előzetes értékelését követően megküldi az MKIK részére, aki azt véleményezve továbbítja a fogyasztóvédelemért felelős miniszter részére. A békéltető testületi tagokat a pályázók közül a fogyasztóvédelemért felelős miniszter választja ki, a kiválasztást követően a megbízásukat a területileg illetékes kamarától kapják meg.
+
+(4) A testületi tagok száma testületenként legalább öt fő. A pályázat érvényes lezárását követően a békéltető testületi tagok javasolt legmagasabb számát a területileg illetékes kamara megküldi az MKIK részére, aki véleményezve továbbítja a fogyasztóvédelemért felelős miniszter részére. A békéltető testület megalakulásakor legfeljebb a testületi tagok fele lehet olyan személy, aki az általános öregségi nyugdíjkorhatárt betöltötte.
+
+(5) A békéltető testületi tagok (3) bekezdés szerinti megbízását követően megalakul a békéltető testület.
+
+(6) A békéltető testület megbízatása három évre szól. A békéltető testületi tagok megbízatási idejük lejártát követően újra pályázhatnak.
+
+(7) A békéltető testület tagjai tevékenységüket megbízási szerződés keretében látják el. A békéltető testület elnöke a tevékenységét az MKIK-val munkaviszony vagy megbízási szerződés keretében látja el.”
+
+58. § (1) Az Fgytv. 22. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Békéltető testületi tag az lehet, aki felsőfokú iskolai végzettséggel és legalább kétéves szakmai gyakorlattal rendelkezik.”
+
+(2) Az Fgytv. 22. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(Nem lehet békéltető testületi tag, aki)
+
+„d) az (1) bekezdés szerinti, a békéltető testületi tagságra benyújtott pályázat alapjául szolgáló foglalkoztatástól való eltiltás hatálya alatt áll.”
+
+(3) Az Fgytv. 22. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az (1) bekezdés szerinti alkalmassági feltétel teljesülését az érintett igazolja a békéltető testületi tagságra benyújtott pályázat feltételeként.”
+
+(4) Az Fgytv. 22. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[Azt a tényt, hogy a (2) bekezdés b)–d) pontjában meghatározott kizáró okok vele szemben nem állnak fenn, az érintett hatósági bizonyítvánnyal igazolja]
+
+„a) a békéltető testületi tagságra benyújtott pályázat részeként,”
+
+(5) Az Fgytv. 22. § (5) bekezdés helyébe a következő rendelkezés lép:
+
+„(5) A 21. § (3) bekezdésében foglalt feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kiválasztására irányuló pályázat során a tagnak jelölt személy életkorát hatósági igazolvánnyal igazolja.”
+
+59. § Az Fgytv. 23. §-a helyébe a következő rendelkezés lép:
+
+„23. § (1) A békéltető testületi tagjelöltek közül az illetékes kamara a békéltető testületi elnöknek javasolt tagokat, azok előzetes értékelését követően megküldi az MKIK részére, aki azt véleményezve továbbítja a fogyasztóvédelemért felelős miniszter részére. A békéltető testületi elnököt a jelöltek közül a fogyasztóvédelemért felelős miniszter választja ki. A kiválasztást követően az elnököt az MKIK bízza meg vagy alkalmazza három évre. Ha a testület megalakulásakor, vagy az elnök testületi tagsági megbízatásának megszűnését követő harminc napon belül az illetékes kamara nem javasol elnöknek személyt az MKIK részére, akkor az új elnököt a testületi tagjelöltek vagy tagok közül a fogyasztóvédelemért felelős miniszter választja ki. Az elnöki és elnökhelyettesi tisztség egyidejű betöltetlensége esetén az e tisztségek betöltésére vonatkozó általános szabályok alkalmazandók. Az elnök teljes jogkörrel képviseli a testületet.
+
+(2) Ha a testület munkaterhe azt indokolja, a kamara javaslatot tehet elnökhelyettes jelölésére a testületi tagok közül az MKIK részére, aki azt véleményezve továbbítja a fogyasztóvédelemért felelős miniszter részére. Az elnökhelyettest a jelöltek közül a fogyasztóvédelemért felelős miniszter választja ki. A kiválasztást követően az elnökhelyettest az MKIK bízza meg vagy alkalmazza a békéltető testület megbízatásának időtartamára. Az elnököt akadályoztatása esetén az elnökhelyettes teljes jogkörrel helyettesíti. Elnökhelyettes hiányában az elnököt szükség esetén az általa az adott alkalommal történő helyettesítésre kijelölt tag a kijelölésben meghatározott körben helyettesítheti.”
+
+60. § Az Fgytv. 23/A. §-a helyébe a következő rendelkezés lép:
+
+„23/A. § A tagokról a testület elnöke nyilvántartást vezet. A nyilvántartás tartalmazza a tagok nevét, felsőfokú végzettségük oklevél szerinti megnevezését és szakterületük megjelölését. Ezek az adatok közérdekből nyilvános adatok. Az elnök a testületi tagok listáját megküldi a békéltető testületet működtető kamarának, az MKIK-nak és a fogyasztóvédelemért felelős miniszternek.”
+
+61. § (1) Az Fgytv. 24. § (1) bekezdése a következő g) ponttal egészül ki:
+
+(A békéltető testületi tag megbízatása megszűnik)
+
+„g) felmondással.”
+
+(2) Az Fgytv. 24. § (2)–(4) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdés e) pontja szerinti esetben a megbízatás megszűnését az érintett testületi tag meghallgatása után és a kamara véleményének figyelembevételével a békéltető testület elnöke, illetve – az elnök tekintetében – a területileg illetékes kamara, az MKIK és a fogyasztóvédelemért felelős miniszter által jelölt tagokból álló háromfős testület állapítja meg.
+
+(3) Ha a békéltető testületi tag megbízatása e törvényben szabályozott bármely okból megszűnik, helyette a békéltető testületi tag kiválasztására irányuló rendelkezéseknek megfelelően kiírt pályázat alapján új testületi tagot kell kiválasztani. Ha a békéltető testületi tag megbízatása az (1) bekezdés b)–g) pontja alapján szűnik meg, a folyamatban lévő ügyekben a békéltető testület elnöke jelöli ki a megszűnt megbízatású tag helyett eljáró tagot.
+
+(4) Ha az (1) bekezdés b)–g) pontja szerinti okból a békéltető testület elnökének megbízatása szűnik meg, a békéltető testületi elnök megválasztására vonatkozó rendelkezések megfelelő alkalmazásával új elnököt kell javasolni, illetve kinevezni.”
+
+(3) Az Fgytv. 24. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A békéltető testületi tagság felmondással való megszüntetésére a Polgári Törvénykönyvről szóló törvény, amennyiben a békéltető testület elnöke e tevékenységét munkaviszony keretében látja el, akkor a munka törvénykönyvéről szóló törvény rendelkezéseit kell alkalmazni.”
+
+62. § Az Fgytv. 25. §-a helyébe a következő rendelkezés lép:
+
+„25. § (1) A békéltető testület tagja – a (2) bekezdésben foglalt vagylagos feltétel megléte esetén, a (3) és (4) bekezdésben foglalt kivétellel – egyedül jár el.
+
+(2) Az egyedül eljáró testületi tag jogi vagy közgazdasági felsőfokú végzettséggel kell, hogy rendelkezzen.
+
+(3) Ha a testület elnöke szerint a fogyasztói jogvita bonyolultsága indokolja, a békéltető testület háromtagú tanácsban jár el.
+
+(4) Ha azt bármely fél kéri, akkor a békéltető testület háromtagú tanácsban jár el.
+
+(5) Ahol a törvény a továbbiakban eljáró tanácsot, illetve az eljáró tanács elnökét említi, azon az egyedül eljáró testületi tagot is érteni kell.
+
+(6) Nem vehet részt az eljárásban az a békéltető testületi tag, aki az üggyel kapcsolatban a fogyasztónak vagy a vállalkozásnak tanácsot adott és a megelőző három évben az eljárásban részt vevő vállalkozással munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állt.”
+
+63. § Az Fgytv. 29. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az elnök a meghallgatás kitűzött időpontjáról, illetve arról, hogy kezdeményezi a meghallgatás mellőzését, a feleket a kérelem másolatának megküldésével kellő időben előzetesen értesíti.”
+
+64. § Az Fgytv. 37. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A fogyasztóvédelemért felelős miniszter az MKIK-val együttműködve a békéltető testületek egységes gyakorlatának kialakítása érdekében országos eljárási szabályzatot készít, amelynek alkalmazása kötelező a békéltető testület eljárásában.”
+
+65. § Az Fgytv. 37/A. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(A békéltető testület naprakész, az eljárására vonatkozó és könnyen hozzáférhető információkkal ellátott internetes honlapot működtet, amelyen biztosítja, hogy a fogyasztó online úton is benyújthassa kérelmét és annak mellékleteit. Az internetes honlapon közzé kell tenni és kérés esetén elektronikus úton a felek rendelkezésére kell bocsátani legalább a következő információkat:)
+
+„c) a békéltető testületi tagok nevét, megbízatásuk időtartamát, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületüket,”
+
+66. § Az Fgytv. 40. §-a helyébe a következő rendelkezés lép:
+
+„40. § A fogyasztóvédelemért felelős miniszter
+
+a) fogyasztóvédelmi szakmapolitikai programot alkot,
+
+b) intézkedéseket tesz, illetve kezdeményez a fogyasztói jogok védelme és érvényesítése érdekében.”
 
 67. §
 
@@ -422,13 +520,15 @@ lép.
 
 69. §
 
-70. §
+70. § Az Fgytv. a következő 56. §-sal egészül ki:
+
+„56. § Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy a békéltető testületi tagsági feladat ellátására vonatkozó pályázat szabályairól, a pályázatok előzetes értékeléséről, a békéltető testületi tagok díjazásáról szóló részletes szabályokat és az online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén az eljárásra kijelölt kamarák által működtetett békéltető testületek kijelölését rendeletben állapítsa meg.”
 
 71. §
 
 72. § Az Fgytv.
 
-- a)
+- a) 36/C. § (1) bekezdésében az „a Magyar Kereskedelemi és Iparkamaránál” szövegrész helyébe az „az MKIK-nál”,
 - b)
 - c)
 
@@ -436,8 +536,8 @@ szöveg lép.
 
 73. § Hatályát veszti az Fgytv.
 
-- a)
-- b)
+- a) 26. § (4) bekezdése,
+- b) 55. § (1) bekezdés g) és i) pontja,
 - c)
 
 #### 19. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása

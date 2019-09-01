@@ -598,7 +598,9 @@ szabadságvesztés végrehajthatósága.
 
 (3) Ha a rendkívüli jogorvoslat folytán meghozott határozattal a bíróság az elítéltet felmenti, a kényszergyógykezelést mellőzi, vagy az eljárást megszünteti, és a végrehajtás felfüggesztésére vagy félbeszakítására nem került sor, a tanács elnöke azonnal intézkedik a szabadságvesztésre ítélt, a kényszergyógykezelt és a javítóintézeti nevelt szabadítása, illetve elbocsátása iránt.
 
-(4)–(5)
+(4)
+
+(5)
 
 36. § (1) Az ügydöntő határozat írásba foglalását követően haladéktalanul meg kell küldeni annak kiadmányát – a vagyoni jellegű büntetések és intézkedések kivételével – a külön jogszabályban foglaltak szerint a végrehajtásért felelős szervnek, illetve a bv. csoportnak.
 
@@ -1972,7 +1974,9 @@ el kell különíteni.
 
 (3) Az alacsony biztonsági kockázatú részlegre helyezés megszüntethető, ha az elítélt a büntetés-végrehajtás rendjét súlyosan megsérti.
 
-(4)–(5)
+(4)
+
+(5)
 
 109/A. § (1) Vallási részleg a bv. intézet és a jogi személyiséggel rendelkező vallási közösség együttműködési megállapodása alapján hozható létre a vallásgyakorlás és a családi kapcsolattartás erősítése céljából.
 
@@ -3175,7 +3179,7 @@ vizsgálja.
 
 197. § Megkezdett tanulmányok esetén a fiatalkorú kérelmére, vizsgakötelezettség teljesítése érdekében a bv. intézet gondoskodik az előállításáról, ha ehhez az oktatási intézmény vezetője és a bv. intézet parancsnoka együttesen hozzájárul.
 
-198. § (1) Tanulói vagy magántanulói jogviszonyt a bv. intézet parancsnokának engedélyével a fiatalkorú a bv. intézeten kívüli oktatást nyújtó intézménnyel is létesíthet, amely során iskolalátogatási és vizsgakötelezettségét az oktatási intézményben teljesíti.
+198. § (1) Tanulói jogviszonyt a bv. intézet parancsnokának engedélyével a fiatalkorú a bv. intézeten kívüli oktatást nyújtó intézménnyel is létesíthet, amely során iskolalátogatási és vizsgakötelezettségét az oktatási intézményben teljesíti.
 
 (2) Az engedélyezés során figyelembe kell venni különösen az elkövetett bűncselekményt, a biztonsági kockázatokat, a fiatalkorú korábban tanúsított magatartását, tanulmányi előmenetelét és szorgalmát.
 
@@ -3185,7 +3189,7 @@ vizsgálja.
 
 (3) Az (1) bekezdés szerinti szempontoknak megfelelő értékelést a bv. intézet személyzete, valamint a fiatalkorú oktatásáért felelős reintegrációs szakember végzi.
 
-200. § Ha a bv. intézet nem áll szerződéses kapcsolatban általános iskolával, a bv. intézet illetékességi területébe tartozó iskola a bv. intézettel kötött együttműködési megállapodás alapján biztosítja az alapfokú képzést, magántanulói jogviszony keretében.
+200. § Ha a bv. intézet nem áll szerződéses kapcsolatban általános iskolával, a bv. intézet illetékességi területébe tartozó iskola a bv. intézettel kötött együttműködési megállapodás alapján biztosítja az alapfokú képzést, egyéni munkarend alapján.
 
 200/A. § A 187/A. § (1) bekezdésében meghatározottakon túl a fiatalkorú reintegrációs őrizetének alkalmazási feltétele:
 

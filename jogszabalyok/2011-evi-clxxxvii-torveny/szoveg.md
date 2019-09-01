@@ -79,7 +79,7 @@ Magyarországon a munkaerőpiac és a gazdaság által keresett és elismert sza
 - 48. vizsgáztatási díj: a vizsgabizottság tagjait megillető díjazás;
 - 49. WorldSkills és EuroSkills: nemzetközi szakképzési versenyek, amelyeket 1954 óta szervez a WorldSkills International nemzetközi nonprofit szervezet, tagjai az adott ország szakképzésért felelős szervezetei. Mindkét verseny megrendezésére felváltva, páros és páratlan években kétévente kerül sor a tagországok legjobb ifjú szakmunkásai részvételével.
 - 50. kizárólag gyakorlati képzési célt szolgáló tanműhely: kifejezetten erre a célra létrehozott vagy átalakított, a termeléstől, szolgáltató tevékenységtől térben vagy időben teljesen elkülönített, a nyilvántartást vezető szerv által a gyakorlati képzés időtartama alatt kizárólag gyakorlati képzési célt szolgáló tanműhellyé minősített, állandó tanműhely-vezetői felügyelettel működő, legalább nyolc tanuló képzésére alkalmas, iskolán kívüli gyakorlati képzőhely, ahol a tanulók tanulószerződés vagy együttműködési megállapodás alapján vesznek részt a gyakorlati képzésben;
-- 51. ágazati képző központ: több gazdálkodó szervezet által létrehozott, a szakképzésért és felnőttképzésért felelős miniszter által rendeletben kiadott feltételeknek megfelelő gyakorlati képzést szervező;
+- 51.
 - 52. ágazaton belüli specializáció: a szakgimnáziumi ágazati képzés esetén az adott ágazaton belül egyes szakképesítések vagy azok csoportjának sajátos ágazati szakmai tartalma;
 - 53. zárt rendszerű elektronikus távoktatás: elméleti képzési ismeretanyag oktatását digitális tananyag formájában informatikai hálózaton (Internet, intranet) keresztül zárt rendszerű távoktatási képzésmenedzsment rendszerrel megvalósító távoktatási forma, ahol az oktató, az oktatásszervező és a tanuló vagy a képzésben résztvevő közös kommunikációs eszköze a számítógép és az informatikai hálózat, továbbá a zárt rendszerű távoktatási képzésmenedzsment rendszer;
 - 54. zárt rendszerű távoktatási képzésmenedzsment rendszer: a tanuló vagy a képzésben résztvevő képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató (webböngészőben megjelenítő), minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti és értékeli – valamint a felnőttképzési, szakképzési és köznevelési regisztrációs és tanulmányi alaprendszer számára közvetíti – a tanuló vagy a képzésben résztvevő képzési programban rögzített előrehaladását, ellenőrző kérésekre adott válaszait, eredményeit, tevékenységét és végrehajtja – a tanuló vagy a képzésben résztvevő teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit.
@@ -120,6 +120,18 @@ irányul.
 
 - a) az ágazati képző központban, és
 - b) a felnőttképzésről szóló törvényben meghatározott, iskolarendszeren kívüli szakmai képzést folytató intézményben is.
+
+(2a) Az ágazati képző központ gyakorlati képzés szervezése céljából
+
+- a) legalább négy mikro-, vagy kisvállalkozás által, vagy
+- b) kettő középvállalkozás, vagy a kis- és a középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény hatálya alá nem tartozó gazdálkodó szervezet által, vagy
+- c) a szakképzési centrum legfeljebb 60%-os tulajdoni hányadával
+
+létrehozott nonprofit gazdasági társaság.
+
+(2b) A (2a) bekezdés a) pontja szerint létrehozott ágazati képző központ tagjai bevételének legfeljebb 20%-a származhat közvetlen állami támogatásból.
+
+(2c) Az ágazati képző központ szervezeti minőséget – a társaság alapításakor vagy később – a gazdasági társaság kérelmére a cégbíróság állapítja meg. A gazdasági társaság az ágazati képzőközponti jelleget cégnevében feltüntetheti.
 
 (3) A szakképző iskola a szakképzési feladata hatékonyabb ellátása érdekében – az e törvényben meghatározott esetekben – térségi integrált szakképző központ keretében működik.
 
@@ -714,7 +726,7 @@ kezeli.
 
 (3) A szakképzési centrum saját, heti negyven órás munkaidőben foglalkoztatott közalkalmazottját a napi munkaidőn és a nemzeti köznevelésről szóló törvény 62. § (5) és (6) bekezdésében meghatározott időkereten túli órákra – kizárólag a felnőttoktatás esti, levelező munkarend szerint megszervezett osztályainak óráira vonatkozóan – megbízási jogviszonyban alkalmazhatja óraadóként. Az ilyen további foglalkoztatás keretében foglalkoztatott óraadókra nem kell alkalmazni a nemzeti köznevelésről szóló törvényben az óraadókra vonatkozóan meghatározott óraszámkorlátot.
 
-(4) A tanuló – a halmozottan hátrányos helyzetű és a sajátos nevelési igényű tanuló kivételével – második szakképesítés megszerzésére irányuló képzést kizárólag felnőttoktatásban kezdhet.
+(4) A tanuló attól az évtől kezdődően, amelyben iskolai rendszerű szakképzésben – az érettségi vizsga keretében megszerezhető szakképesítés kivételével – az első szakképesítését megszerezte, új tanévet a második szakképesítés megszerzésére irányuló képzésben kizárólag felnőttoktatásban kezdhet.
 
 34/B. § A szakképzési centrumban közalkalmazotti jogviszonyban foglalkoztatott oktató által a felnőttoktatás esti, levelező munkarend szerint megszervezett osztályának óráival, valamint az iskolarendszeren kívüli felnőttképzéssel összefüggésben teljesített munkavégzés tekintetében a felek a munka törvénykönyvéről szóló törvény 99. § (2) bekezdés b) pontjától, 109. § (1) bekezdésétől és 135. § (3) bekezdésétől írásbeli megállapodással eltérhetnek, azzal, hogy a megállapodás alapján teljesített munkaidő
 
@@ -1647,7 +1659,7 @@ vonatkozó adatokat, valamint
 - i) a 31. § (3) bekezdés b) pontja szerinti vendéglátóipari egységeket,
 - j) a Szakképzési Hídprogram megszervezésének feltételeit, a Szakképzési Hídprogramban folytatott képzéshez szükséges szakképzési kerettanterveket, valamint a Szakképzési Hídprogramba történő bekapcsolódás részletes szabályait az oktatásért felelős miniszter egyetértésével és a társadalmi felzárkózásért felelős miniszter véleményének kikérésével,
 - k) a szakképzési centrumok felnőttoktatási tevékenységének normatív támogatásával összefüggésben a támogatás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre vonatkozó szabályokat,
-- l) a gyakorlati képzés folytatására jogosult szervezetek nyilvántartásába ágazati képző központként történő felvétel feltételeit.
+- l)
 
 90. § Felhatalmazást kap a szakképesítésért felelős miniszter, hogy az ágazatába tartozó szakképesítések tekintetében rendeletben határozza meg
 

@@ -197,7 +197,7 @@ jogosult.
 
 (7) Gazdasági társaságban fennálló állami vagy önkormányzati tulajdonban lévő társasági részesedés nem lehet vagyonkezelés tárgya. A társasági részesedés tulajdonosi joggyakorlója nevében és helyett más személy megbízáson alapuló meghatalmazással járhat el a tulajdonosi jogok egészének vagy meghatározott részének gyakorlása során. Meghatalmazás kizárólag a 3. § (1) bekezdés 19. pontjában meghatározott személyek részére adható.
 
-(8) Az a nonprofit gazdasági társaság, amelyben az állam vagy a helyi önkormányzat külön-külön vagy együttesen legalább az e törvény szerinti többségi befolyással rendelkezik – a hulladékgazdálkodási tevékenységet végző nonprofit gazdasági társaságot ide nem értve –, csak többségi állami vagy önkormányzati tulajdonú nonprofit gazdasági társaságban szerezhet részesedést, és csak olyan nonprofit gazdasági társaságot alapíthat, amelyben többségi tulajdoni részesedéssel rendelkezik.
+(8) Az a nonprofit gazdasági társaság, amelyben az állam vagy a helyi önkormányzat külön-külön vagy együttesen legalább az e törvény szerinti többségi befolyással rendelkezik – a hulladékgazdálkodási tevékenységet végző nonprofit gazdasági társaságot és a főtevékenységként kutatás-fejlesztési tevékenységet végző közhasznú nonprofit gazdasági társaságot ide nem értve –, csak többségi állami vagy önkormányzati tulajdonú nonprofit gazdasági társaságban szerezhet részesedést, és csak olyan nonprofit gazdasági társaságot alapíthat, amelyben többségi tulajdoni részesedéssel rendelkezik.
 
 (9) A (8) bekezdés szerint alapított gazdasági társaság további társaságot nem alapíthat, és gazdasági társaságban nem szerezhet részesedést.
 

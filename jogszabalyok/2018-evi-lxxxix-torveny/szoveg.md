@@ -261,7 +261,7 @@ i)
 - 2. A Központi Statisztikai Hivatal részére történő adatátadás esetén az átvett adatok körét és az adatátvétel részletszabályait az Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni. I. Tanulói nyilvántartás A tanulói nyilvántartás a gyermek, tanuló alábbi személyes adatait tartalmazza:
   - a) oktatási azonosító számát, adóazonosító jelét, társadalombiztosítási azonosító jelét,
   - b) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát,
-  - c) jogviszonyával kapcsolatban azt, hogy magántanuló-e, tanköteles-e, jogviszonya szünetelésének kezdetét és befejezésének idejét,
+  - c) jogviszonyával kapcsolatban azt, hogy egyéni munkarenddel rendelkezik-e, tanköteles-e, jogviszonya szünetelésének kezdetét és befejezésének idejét,
   - d) jogviszonya keletkezésének, megszűnésének jogcímét és idejét, valamint megszűnés esetén annak tényét, hogy az érintett az adott köznevelési intézményben szerzett-e iskolai végzettséget, szakképesítést,
   - e) nevelési-oktatási intézményének nevét, címét, OM azonosítóját,
   - f) jogviszonyát megalapozó köznevelési alapfeladatot,
@@ -379,7 +379,7 @@ i)
   - d) halmozottan hátrányos helyzet;
   - e) előző tanévi matematika osztályzat;
   - f) évfolyam, osztály;
-  - g) magántanulói státusz;
+  - g) egyéni munkarend szerinti nevelés-oktatásban való részvétel,
   - h) jogviszonnyal kapcsolatos adatok;
   - i) az országos mérés típusa és eredménye. VII. Országos köznevelési szakértői névjegyzék Az országos köznevelési szakértői névjegyzék a szakértő alábbi személyes adatait tartalmazza:
   - a) oktatási azonosító száma;
