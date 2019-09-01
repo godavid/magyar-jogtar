@@ -552,7 +552,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (3) Iskolai tanulmányok címén azt a gyermeket is megilleti az árvaellátás, aki
 
-- a) betegsége, testi vagy értelmi fogyatékossága, várandóssága, gyermekszülés vagy három évesnél fiatalabb gyermekének gondozása miatt a tanulmányait magántanulóként végzi,
+- a) betegsége, testi vagy értelmi fogyatékossága, várandóssága, gyermekszülés vagy három évesnél fiatalabb gyermekének gondozása miatt a tanulmányait egyéni munkarenddel rendelkező tanulóként végzi,
 - b) huszonöt évesnél fiatalabb, és felnőttképzésben vesz részt, feltéve, hogy a felnőttképzés nem távoktatási formában folyik, és a képzés heti átlagos óraszáma eléri a hét órát.
 
 (4) Iskolai tanulmányok címén az árvaellátás a tanulmányok befejezése hónapjának végéig, a nyári tanulmányi szünet tartamára is jár. Magyarországon tanuló árva esetén a közoktatási információs rendszer, illetve a felsőoktatási információs rendszer működtetője a tanulói, hallgatói jogviszony létesítését, fennállását és a tanulmányok befejezésének várható idejét a nyugdíjbiztosítási igazgatási szerv megkeresésére, a tanulói jogviszony megszűnését, illetve a hallgatói jogviszony szünetelését, megszűnését – a tanuló, hallgató nevének, társadalombiztosítási azonosító jelének és a szünetelés, megszűnés időpontjának közlésével – hivatalból igazolja. Külföldön tanuló árvának a tanulmányok folytatását az oktatási intézmény által kiállított igazolással középiskolai tanulmányok esetén évente, felsőfokú tanulmányok esetén félévente, a tanulmányok megkezdésétől számított egy hónapon belül kell igazolnia.

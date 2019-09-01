@@ -649,7 +649,7 @@ rendelkezik.
 
 (6) Ha az elsőtől a negyedik évfolyamokra járó tanuló eredményes felkészülése azt szükségessé teszi, lehetővé kell tenni, hogy legalább heti két alkalommal egyéni foglalkozásokon vegyen részt. E rendelkezést kell alkalmazni akkor is, ha a tanköteles tanuló tanulmányi követelmények nem teljesítése miatt második vagy további alkalommal ismétli ugyanazt az évfolyamot.
 
-(7) A beilleszkedési, tanulási, magatartási nehézség vagy a sajátos nevelési igény miatt a szakértői bizottság véleménye alapján, vagy súlyos betegség miatt magántanulóként tanulmányokat folytatók egyéni foglalkozás keretében történő felkészítésére az iskolának tanulónként az osztályok heti időkeretén felül átlag heti tíz óra áll a rendelkezésre. A sajátos nevelési igény miatt magántanulóként tanulmányokat folytató tanulók esetében az e bekezdésben meghatározott időkereten belül kell biztosítani az egészségügyi és pedagógiai célú habilitációs, rehabilitációs foglalkozásokat. Az időkeret az egyes hetek és tanulók között átcsoportosítható.
+(7) A beilleszkedési, tanulási, magatartási nehézség vagy a sajátos nevelési igény miatt a szakértői bizottság véleménye alapján, vagy súlyos betegség miatt egyéni munkarend keretében tanulmányokat folytatók egyéni foglalkozás keretében történő felkészítésére az iskolának tanulónként az osztályok heti időkeretén felül átlag heti tíz óra áll a rendelkezésre. A sajátos nevelési igény miatt egyéni munkarend keretében tanulmányokat folytató tanulók esetében az e bekezdésben meghatározott időkereten belül kell biztosítani az egészségügyi és pedagógiai célú habilitációs, rehabilitációs foglalkozásokat. Az időkeret az egyes hetek és tanulók között átcsoportosítható.
 
 (8) A gyógypedagógiai nevelésben-oktatásban részt vevő nevelési-oktatási intézményben a sajátos nevelési igényű tanulók részére kötelező egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozásokat kell szervezni. A tanuló annyi egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozáson vesz részt, amennyi a sajátos nevelési igényéből eredő hátránya csökkentéséhez szükséges. A kötelező egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozások megszervezésének heti időkeretét a 6. melléklet határozza meg. A heti időkeret a tanítási hetek között a tanuló érdeksérelme nélkül különösen indokolt esetben átcsoportosítható.
 
@@ -715,7 +715,7 @@ rendkívüli szünetet rendel el.
 - a) a nevelési-oktatási intézmény vallási, világnézeti tekintetben elkötelezett intézményként működhet, és ennek megfelelően a gyermekek vagy a tanulók felvételének előfeltételeként kikötheti valamely vallás, világnézet elfogadását, és ezt felvételi eljárás keretében vizsgálhatja,
 - b) nem kell alkalmazni a gyermekek, tanulók felvételével kapcsolatos rendelkezések közül a kötelező felvételre vonatkozó rendelkezéseket, valamint az osztály-, csoportlétszámokat meghatározó rendelkezéseket a maximális létszámra vonatkozó rendelkezések kivételével,
 - c) az óvodai, iskolai, kollégiumi felvétel, továbbá az óvodai elhelyezés, a tanulói jogviszony, a kollégiumi tagsági viszony fenntartása – írásbeli megállapodásban – fizetési kötelezettséghez köthető, az óvodai elhelyezés, a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével kapcsolatosan – írásbeli megállapodásban – az 53. § (1)–(10) bekezdésében foglaltaktól el lehet térni,
-- d) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást, nem kell alkalmazni a 67. § (7) bekezdésében és a 83. § (3) bekezdés e) pontjában foglaltakat,
+- d) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást, nem kell alkalmazni a 67. § (7) bekezdésében foglaltakat,
 - e) a nevelési-oktatási intézmény – a fenntartó, óvoda esetében a települési önkormányzattal, más köznevelési intézmény esetében az oktatásért felelős miniszterrel kötött írásbeli szerződés (a továbbiakban: köznevelési szerződés) alapján – részt vehet az e törvényben meghatározott köznevelési közszolgálati feladatok megvalósításában,
 - f) nem kell alkalmazni a 73. § (4) bekezdését.
 
@@ -804,7 +804,7 @@ rendkívüli szünetet rendel el.
 - b) a pedagógiai programban sajátos honvédelmi, rendvédelmi szempontok érvényesíthetőek, a honvédelemért felelős miniszter fenntartása esetén katonai szabályok és tevékenység, a rendvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (a továbbiakban: Hszt.) szerinti szabályok és tevékenység írható elő,
 - c) a katonák jogállását szabályozó jogszabályok, az SZMSZ, a házirend a pedagógusok, a nevelő-oktató munkát közvetlenül segítők és a tanulók számára – a fenntartás függvényében – a Magyar Honvédségben érvényesülő, vagy a Hszt.-ben előírt viselkedési és megjelenési szabályokat, jogokat, kötelességeket, kiképzési tevékenységet írhat elő, ezek megsértése miatt fegyelmi eljárás kezdeményezhető, továbbá a jogellenesen okozott kár megtérítésére sajátos szabályokat írhat elő,
 - d) a nevelő-oktató munka pedagógus munkakörben szolgálati viszonyban is ellátható,
-- e) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást, nem kell alkalmazni a 67. § (7) bekezdésében és a 83. § (3) bekezdés e) pontjában foglaltakat,
+- e) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást, nem kell alkalmazni a 67. § (7) bekezdésében foglaltakat,
 - f) nem kell alkalmazni az osztály-, csoportlétszámokat meghatározó rendelkezéseket, a maximális létszámra vonatkozó rendelkezések kivételével,
 - g) a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével kapcsolatosan a rendvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén írásbeli megállapodásban, a honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén jogszabályban e törvény szabályaitól el lehet térni,
 - h) országos feladatot ellátó intézménynek minősül,
@@ -905,7 +905,7 @@ tekintetében.
   - dg) a gyermek, tanuló oktatási azonosító száma,
   - dh) mérési azonosító,
 - e) a tanulói jogviszonnyal kapcsolatos adatok:
-  - ea) a magántanulói jogállással kapcsolatos adatok,
+  - ea) az egyéni munkarenddel kapcsolatos adatok,
   - eb) a tanuló magatartásának, szorgalmának és tudásának értékelése és minősítése, vizsgaadatok,
   - ec) felnőttoktatás esetében az oktatás munkarendjével kapcsolatos adatok,
   - ed) a tanulói fegyelmi és kártérítési ügyekkel kapcsolatos adatok,
@@ -930,7 +930,7 @@ is nyilvántartja.
 
 (7) A gyermek, tanuló adatai közül
 
-- a) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, szülője neve, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, jogviszonya kezdete, szünetelésének ideje, megszűnése, magántanulói jogállása, mulasztásainak száma a tartózkodásának megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából, a jogviszonya fennállásával, a tankötelezettség teljesítésével összefüggésben a fenntartó, bíróság, rendőrség, ügyészség, települési önkormányzat jegyzője, közigazgatási szerv, nemzetbiztonsági szolgálat részére,
+- a) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, szülője neve, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, jogviszonya kezdete, szünetelésének ideje, megszűnése, egyéni munkarendje, mulasztásainak száma a tartózkodásának megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából, a jogviszonya fennállásával, a tankötelezettség teljesítésével összefüggésben a fenntartó, bíróság, rendőrség, ügyészség, települési önkormányzat jegyzője, közigazgatási szerv, nemzetbiztonsági szolgálat részére,
 - b) óvodai, iskolai felvételével, átvételével kapcsolatos adatai az érintett óvodához, iskolához, felsőoktatási intézménybe történő felvétellel kapcsolatosan az érintett felsőoktatási intézményhez,
 - c) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, társadalombiztosítási azonosító jele, szülője, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, az óvodai, iskolai egészségügyi dokumentáció, a tanuló- és gyermekbalesetre vonatkozó adatok az egészségi állapotának megállapítása céljából az egészségügyi, iskola-egészségügyi feladatot ellátó intézménynek,
 - d) a neve, születési helye és ideje, társadalombiztosítási azonosító jele, lakóhelye, tartózkodási helye, szülője, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, a gyermek, tanuló mulasztásával kapcsolatos adatok, a kiemelt figyelmet igénylő gyermekre, tanulóra vonatkozó adatok a veszélyeztetettségének megelőzése, feltárása, megszüntetése céljából a családvédelemmel foglalkozó intézménynek, szervezetnek, gyermek- és ifjúságvédelemmel foglalkozó szervezetnek, intézménynek,
@@ -1035,11 +1035,23 @@ továbbítható.
 
 dönt.
 
-(5) A tankötelezettség iskolába járással, vagy ha az a tanuló fejlődése, tanulmányainak eredményes folytatása és befejezése szempontjából nem hátrányos, a szülő kérelmére magántanulóként teljesíthető.
+(5) A tankötelezettség iskolába járással teljesíthető. Ha a tanuló egyéni adottsága, sajátos helyzete indokolja, és a tanuló fejlődése, tanulmányainak eredményes folytatása és befejezése szempontjából előnyös, a tankötelezettség teljesítése céljából határozott időre egyéni munkarend kérelmezhető. A szülő, nagykorú tanuló esetén a tanuló a kérelmet a tanévet megelőző június 15-éig nyújthatja be a felmentést engedélyező szervhez. Ezen időpontot követően csak abban az esetben nyújtható be kérelem, ha a tankötelezettség iskolába járással történő teljesítését megakadályozó körülmény merül fel. Jogszabályban meghatározott esetben az egyéni munkarendet biztosítani kell.
 
 (5a) A készségfejlesztő iskola a tanuló javára köteles felelősségbiztosítást kötni, amely kiterjed a tanulói balesetekre és a tanuló által okozott kárra. A tanulót a szakképzésről szóló törvény rendelkezései szerint kedvezményes étkeztetés, útiköltség-térítés, munkaruha, egyéni védőfelszerelés (védőruha), tisztálkodási eszköz és kötelező juttatások illetik meg. A tanulót az iskola a gyakorlati évfolyamon elért eredménye, teljesítménye alapján jutalomban, prémiumban, egyéb más juttatásban vagy szociális támogatásban részesítheti. Az e bekezdésben meghatározottak fedezetét a fenntartó külön előirányzatban köteles biztosítani.
 
-(6) Az iskola igazgatója a gyámhatóság és a gyermekjóléti szolgálat véleményének kikérése után dönt arról, hogy a tanuló a tankötelezettségének magántanulóként tehet eleget. Gyermekvédelmi gondoskodásban részesülő tanuló esetén az iskola igazgatójának a döntéséhez be kell szereznie a gyermekvédelmi gyám véleményét.
+(6) A felmentést engedélyező szerv dönt arról, hogy a tanuló a tankötelezettségének egyéni munkarend keretében tehet eleget. Az eljárás során a felmentést engedélyező szerv megkeresheti a gyámhatóságot, a gyermekjóléti szolgálatot, az iskolaigazgatót, gyermekvédelmi gondoskodásban részesülő tanuló esetén a gyermekvédelmi gyámot. Az eljárásban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(6a) Ha az egyéni munkarendben tanuló neki felróható okból két alkalommal nem jelenik meg az osztályozó vizsgán, vagy két alkalommal nem teljesíti a tanulmányi követelményeket, az iskola igazgatója értesíti a felmentést engedélyező szervet, és a tanuló a következő félévtől csak iskolába járással teljesítheti a tankötelezettségét.
+
+(6b) A (2) és (6) bekezdésben foglalt döntés ellen közigazgatási pert a döntés közlésétől számított tizenöt napon belül lehet megindítani. A felmentést engedélyező szerv döntését a bíróság nem változtathatja meg.
+
+(6c) A bíróság legkésőbb a keresetlevélnek a bírósághoz való érkezését követő nyolc napon belül intézkedik a tárgyalási határnapnak a keresetlevél bírósághoz való érkezésétől számított harminc napon belüli időpontra történő kitűzéséről, kivéve, ha egyik fél sem kérte tárgyalás tartását, és azt a bíróság sem tartja szükségesnek.
+
+(6d) A perben egyesbíró jár el első fokon. Ha az ügy különös bonyolultsága indokolja, az egyesbíró a perben a tárgyalás megkezdése előtt elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. A tanács elé utalt ügyben utóbb egyesbíró nem járhat el.
+
+(6e) A bíróság a keresetlevelet, a keresetlevél bírósághoz történő érkezésétől számított negyvenöt napon belül bírálja el, a határozatát ugyanezen határidőn belül írásba foglalja és a felek részére kézbesíti.
+
+(6f) A perben nem lehet alkalmazni a polgári perrendtartásról szóló 2016. évi CXXX. törvény 148. §-a szerinti ítélkezési szünetre vonatkozó rendelkezéseket.
 
 (7) A tankötelezettség általános iskolában, középfokú iskolában, Köznevelési és Szakképzési Hídprogram keretében, valamint fejlesztő nevelés-oktatásban teljesíthető.
 
@@ -1208,7 +1220,7 @@ dönt.
 
 (4)
 
-50. § (1) A tanuló – beleértve a magántanulót is – az iskolával tanulói jogviszonyban áll. A tanulói jogviszony felvétel vagy átvétel útján keletkezik. A felvétel és az átvétel jelentkezés alapján történik. A felvételről vagy átvételről az iskola igazgatója dönt. A tanulói jogviszony a beíratás napján jön létre. A tanuló a tanulói jogviszonyon alapuló jogait az előbbi időponttól kezdve gyakorolhatja. Jogszabály, továbbá az iskola házirendje egyes jogok gyakorlását az első tanév megkezdéséhez kötheti.
+50. § (1) A tanuló – beleértve az egyéni munkarenddel rendelkezőt is – az iskolával tanulói jogviszonyban áll. A tanulói jogviszony felvétel vagy átvétel útján keletkezik. A felvétel és az átvétel jelentkezés alapján történik. A felvételről vagy átvételről az iskola igazgatója dönt. A tanulói jogviszony a beíratás napján jön létre. A tanuló a tanulói jogviszonyon alapuló jogait az előbbi időponttól kezdve gyakorolhatja. Jogszabály, továbbá az iskola házirendje egyes jogok gyakorlását az első tanév megkezdéséhez kötheti.
 
 (2) A középfokú iskola és a kollégium – jogszabályban meghatározott keretek között – állapíthatja meg a tanulói jogviszony, kollégiumi tagsági viszony létesítésének tanulmányi feltételeit (a továbbiakban: felvételi követelmények). A középfokú iskola és a kollégium a felvételi követelményeket a tanév rendjéről szóló rendelet által meghatározott időben a felvételi tájékoztatóban köteles nyilvánosságra hozni. A szakképző iskola a felvételt a szakképzésre vonatkozó jogszabályok szerint egészségügyi, pályaalkalmassági követelmények teljesítéséhez kötheti. A pályaalkalmassági követelményeket a felvételi tájékoztatóban nyilvánosságra kell hozni.
 
@@ -1324,7 +1336,7 @@ dönt.
 
 55. § (1) Az igazgató a gyakorlati képzés kivételével a tanulót kérelmére – kiskorú tanuló esetében a szülő kérelmére – felmentheti az iskolai kötelező tanórai foglalkozásokon való részvétel alól, ha a tanuló egyéni adottságai, sajátos nevelési igénye, továbbá sajátos helyzete ezt indokolttá teszi. Ha a kérelem az összes tanórai foglalkozás alóli felmentésre irányul, akkor a 45. § (6) bekezdése szerinti eljárást kell lefolytatni. Az igazgató a tanulót kérelmére mentesítheti a készségtárgyak tanulása alól, ha azt egyéni adottsága vagy sajátos helyzete indokolttá teszi. Az igazgató az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól a szülő kérelmére felmenti a tanulót, ha másik köznevelési intézménnyel is tanulói jogviszonyban vagy vendégtanulói jogviszonyban áll, az ott szervezett tanórai és egyéb foglalkozásokon történő részvétel érdekében, egyéb esetekben – kivéve, ha az intézmény e törvény rendelkezéseinek megfelelően egész napos iskolaként működik – felmentheti.
 
-(2) A magántanulót – az iskolában vagy azon kívül folyó gyakorlati képzés kivételével – az iskola valamennyi kötelező tanórai foglalkozása alól fel kell menteni. Az iskolai rendszerű szakképzésben a magántanulókra vonatkozó részletes szabályokat a szakképzésre vonatkozó jogszabályok határozzák meg.
+(2) Az egyéni munkarenddel rendelkezőt – az iskolában vagy azon kívül folyó gyakorlati képzés kivételével – az iskola valamennyi kötelező tanórai foglalkozása alól fel kell menteni. Az iskolai rendszerű szakképzésben az egyéni munkarenddel rendelkezőkre vonatkozó részletes szabályokat a szakképzésre vonatkozó jogszabályok határozzák meg.
 
 (3) Az, akit felmentettek a kötelező tanórai foglalkozásokon való részvétel alól, az igazgató által meghatározott időben, és a nevelőtestület által meghatározott módon ad számot tudásáról.
 
@@ -1509,7 +1521,7 @@ fegyelmi büntetés szabható ki.
 
 (3) A Pedagógus II., a Mesterpedagógus és a Kutatótanár fokozatból eggyel alacsonyabb fokozatba kerül visszasorolásra az a pedagógus, aki a fokozatba lépését követő kilencedik tanév végéig önhibájából nem teljesíti a pedagógus-továbbképzésben történő részvételi kötelezettségét.
 
-(4) A továbbképzési kötelezettség teljesítése szempontjából a külön jogszabályban meghatározottakon kívül csak olyan továbbképzés vehető figyelembe, amelynek programját az oktatásért felelős miniszter jóváhagyta és a program alkalmazására engedélyt adott. A pedagógus-továbbképzések nyilvántartását és ellenőrzését a hivatal látja el.
+(4) A továbbképzési kötelezettség teljesítése szempontjából a külön jogszabályban meghatározottakon kívül csak olyan továbbképzés vehető figyelembe, amelynek programját a hivatal jóváhagyta és a program alkalmazására engedélyt adott. A pedagógus-továbbképzések nyilvántartását és ellenőrzését a hivatal látja el.
 
 (5) A nevelési-oktatási és a pedagógiai szakszolgálati intézményekben pedagógus-munkakörökben dolgozó pedagógus heti teljes munkaidejének nyolcvan százalékát (a továbbiakban: kötött munkaidő) az intézményvezető által – az e törvény keretei között – meghatározott feladatok ellátásával köteles tölteni, a munkaidő fennmaradó részében a munkaideje beosztását vagy felhasználását maga jogosult meghatározni.
 
@@ -1833,11 +1845,20 @@ alapulvételével megállapított illetményalappal számolt illetmény.
 - b) alapfokozat esetén száznyolcvan százaléka,
 - c) mesterfokozat esetén kétszáz százaléka.
 
-(3) A Kormány rendeletben állapítja meg a 8. melléklet szerinti, az ágazati, szakmai sajátosságokra tekintettel meghatározott illetménypótlék megállapításának elveit.
+(3) A Kormány rendeletben állapítja meg a 8. melléklet szerinti, az ágazati, szakmai sajátosságokra tekintettel meghatározott illetménypótlék megállapításának elveit, továbbá a munkavégzés sajátos körülményeire tekintettel az e törvényben meghatározott felső határnál magasabb mértékű pótlékot határozhat meg.
 
 (4) Az intézményvezetőt a fenntartó, az intézményben pedagógus-munkakörben foglalkoztatottakat az intézményvezető jutalomban részesítheti, amelynek éves összege vezető esetében nem haladhatja meg a vezető pótlékkal számított éves illetményének, munkabérének tizenöt százalékát, beosztott esetében éves illetményének, munkabérének tizenöt százalékát.
 
 (5) Az intézményvezetőt a fenntartó, az intézmény többi vezetőjét az intézményvezető kereset-kiegészítésben részesítheti, amelynek éves összege nem haladhatja meg a vezető pótlékkal számított éves illetményének, munkabérének tíz százalékát.
+
+(5a) A Kormány rendeletben az intézmény vezetői részére
+
+- a) az intézmény méretétől függően további bérpótlékot és
+- b) a nyújtott munkateljesítménytől függően ösztönzési keresetkiegészítést
+
+állapíthat meg.
+
+(5b) A munkáltató – ide nem értve a helyettesítést – a munkakörbe tartozó feladatokon kívüli, célhoz köthető feladatot állapíthat meg a pedagógus részére, amelynek teljesítése a munkakör ellátásából adódó általános munkaterhet jelentősen meghaladja (a továbbiakban: célfeladat). A célfeladat eredményes végrehajtásáért – a pedagógus illetményén felül, írásban, a célfeladat teljesítésének igazolásakor – céljuttatás jár.
 
 (6) A legalább Pedagógus II. fokozatot elért pedagógus tízévenként – tudományos kutatáshoz, vagy egyéni tudományos továbbképzésen való részvételhez – legfeljebb egy évi fizetés nélküli szabadságot (a továbbiakban: alkotói szabadság) vehet igénybe.
 
@@ -1903,24 +1924,19 @@ foglalkoztatott tekintetében is.
 
 #### 38. A nevelési-oktatási intézményvezetői megbízás feltételei
 
-67. § (1) Nevelési-oktatási intézményben az intézményvezetői megbízás feltétele:
+67. § (1) Nevelési-oktatási intézményben intézményvezetői megbízás felsőfokú végzettséggel, pedagógus szakképzettséggel rendelkező és a Kormány rendeletében meghatározott egyéb feltételnek megfelelő személynek adható.
 
-- a) az adott nevelési-oktatási intézményben pedagógus-munkakör betöltéséhez szükséges – a 3. mellékletben felsorolt – felsőfokú iskolai végzettség és szakképzettség, középiskolában az e törvényben foglaltak szerint pedagógus-munkakör betöltésére jogosító mesterképzésben szerzett szakképzettség,
-- b) pedagógus-szakvizsga keretében szerzett intézményvezetői szakképzettség,
-- c) legalább öt év pedagógus-munkakörben vagy heti tíz tanóra vagy foglalkozás megtartására vonatkozó óraadói megbízás ellátása során szerzett szakmai gyakorlat,
-- d) a nevelési-oktatási intézményben pedagógus-munkakörben fennálló, határozatlan időre, teljes munkaidőre szóló alkalmazás vagy a megbízással egyidejűleg pedagógus-munkakörben történő, határozatlan időre teljes munkaidőre szóló alkalmazás.
-
-(1a) Az (1) bekezdés c) pontja szerinti óraadói megbízás ellátása során szerzett szakmai gyakorlat megállapításakor az egy időben több köznevelési intézménnyel fennálló óraadói megbízási jogviszony keretében ellátott tanórák, foglalkozások számát össze kell adni.
+(1a)
 
 (2) Nem lehet a köznevelési intézmény vezetője a köznevelési intézmény fenntartója, továbbá a köznevelési intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező köztisztviselő, közalkalmazott. Ha a köznevelési intézmény fenntartója a nemzetiségi önkormányzat vagy az óvoda fenntartója a települési önkormányzat, ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló képviselő-testület tagjaira. Az egyházi és magánintézmények esetében ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló testület tagjaira.
 
 (3) Ha a nevelési-oktatási intézményben az óvodai nevelés, iskolai nevelés és oktatás kizárólag nemzetiségi nyelven folyik, vagy a tanulók több mint fele kétnyelvű nemzetiségi iskolai nevelésben-oktatásban vesz részt, intézményvezetői megbízást az kaphat, aki a 3. mellékletben meghatározottak szerint a nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban pedagógus-munkakört tölthet be. Azonos feltételek esetén előnyben kell részesíteni azt, aki a nemzetiséghez tartozik.
 
-(4) A kizárólag sajátos nevelési igényű gyermekek, tanulók nevelését, oktatását ellátó nevelési-oktatási intézményben intézményvezetői megbízást az kaphat, aki az (1) bekezdésben meghatározott feltételek mellett felsőfokú végzettséggel és a gyermekek, tanulók sajátos nevelési igényének típusa és súlyossága szerinti gyógypedagógusi, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus) szakképzettséggel rendelkezik.
+(4)
 
-(5) Ha nincs a képzés szakirányának megfelelő egyetemi szintű tanárképzés, szakgimnázium vezetésével megbízható az is, aki a képzés szakirányának megfelelő mesterképzésben szerzett szakképzettséggel rendelkezik.
+(5)
 
-(6) Többcélú intézményben intézményvezetői megbízást az kaphat, aki bármelyik, az intézmény által ellátott feladatra létesíthető intézmény vezetői megbízásához szükséges feltételekkel rendelkezik. Ha a feltételek bármelyike mesterfokozatot ír elő, az intézményvezetői megbízáshoz erre van szükség.
+(6)
 
 (7) Az intézményvezető kiválasztása – ha e törvény másképp nem rendelkezik – nyilvános pályázat útján történik. A pályázat mellőzhető, ha az intézményvezető ismételt megbízásával a fenntartó és a nevelőtestület egyetért. Egyetértés hiányában, továbbá az intézményvezető harmadik és további megbízási ciklusát megelőzően a pályázat kiírása kötelező.
 
@@ -2511,11 +2527,11 @@ ellenőrzés.
   - bb) képviseletére jogosult személy nevét,
   - bc) Magyarországon bejegyzett címét.
 
-91. § (1) Magyar állampolgár engedély nélkül folytathat tanulmányokat külföldön és tankötelezettségét külföldi nevelési-oktatási intézményben is teljesítheti. Magyarországon élő magyar állampolgár a tankötelezettségét magántanulóként Magyarországon működő nevelési-oktatási intézményben teljesítheti.
+91. § (1) Magyar állampolgár engedély nélkül folytathat tanulmányokat külföldön és tankötelezettségét külföldi nevelési-oktatási intézményben is teljesítheti. Magyarországon élő magyar állampolgár a tankötelezettségét egyéni munkarend alapján Magyarországon működő nevelési-oktatási intézményben teljesítheti.
 
 (2) A tanköteles tanuló tanulmányainak külföldön történő folytatását – a tanköteles gyermek nyilvántartása céljából – be kell jelenteni a lakóhely, ennek hiányában tartózkodási hely szerint illetékes köznevelési feladatokat ellátó hatóságnak, vagy, ha a tanuló már hazai iskolába beiratkozott, az iskola igazgatójának.
 
-(3) A külföldi tanulmányok alatt a tanuló magyarországi tanulói jogviszonya szünetel, kivéve, ha tanulmányait magántanulóként Magyarországon folytatja.
+(3) A külföldi tanulmányok alatt a tanuló magyarországi tanulói jogviszonya szünetel, kivéve, ha tanulmányait egyéni munkarenddel rendelkezőként Magyarországon folytatja.
 
 92. § (1) A nem magyar állampolgár kiskorú akkor válik óvodai ellátásra jogosulttá, továbbá akkor tanköteles Magyarországon, ha
 
@@ -2725,7 +2741,7 @@ egyetértésben gyakorolja.
 - j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzatot, egyházi jogi személyt, vallási tevékenységet végző szervezetet és a 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartót a központi költségvetésről szóló törvény alapján megillető támogatás megállapításának, folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
 - k) kijelölje a hivatalt és a 79. § (1) bekezdése szerint átruházható feladatokat,
 - l) a kijelölje a köznevelési feladatokat ellátó hatóságot, a köznevelési feladatokat ellátó hatóság hatósági ellenőrzésének tárgyköreit,,
-- m) az érettségiben részt vevő pedagógusok díjazásával kapcsolatos kérdéseket, az érettségi vizsgán való részvétellel összefüggő – a hivatal által megállapítható – vizsgadíj megállapításának elveit, a köznevelés információs rendszerével összefüggő igazgatási szolgáltatási díj megállapításának és befizetésének rendjét, a befolyt összeg felhasználásának rendjét, a pedagógus-továbbképzéssel kapcsolatos akkreditációs eljárással összefüggő igazgatási szolgáltatási díj, egyes szolgáltató tevékenységgel összefüggő díjazás megállapításának rendjét, a befolyt összeg felhasználását, illetőleg a befizetés rendjét, a pedagógus-ösztöndíj alapítását,
+- m) az érettségiben részt vevő pedagógusok díjazásával kapcsolatos kérdéseket, az érettségi vizsgán való részvétellel összefüggő – a hivatal által megállapítható – vizsgadíj megállapításának elveit, a köznevelés információs rendszerével összefüggő igazgatási szolgáltatási díj megállapításának és befizetésének rendjét, a befolyt összeg felhasználásának rendjét, a pedagógus-továbbképzéssel kapcsolatos akkreditációs eljárással összefüggő igazgatási szolgáltatási díj, egyes szolgáltató tevékenységgel összefüggő díjazás megállapításának rendjét, a befolyt összeg felhasználását, illetőleg a befizetés rendjét, a pedagógus-ösztöndíj igénybevételének feltételeit,
 - n) az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervek feladatait, valamint az oktatási központ mint az oktatásért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szervet és feladatait
 - o)
 - p) a térítésmentes, a térítési díj, valamint tandíj ellenében igénybe vehető szolgáltatások körét,
@@ -2761,6 +2777,8 @@ rendeletben állapítsa meg.
 - g) a tankönyvvé nyilvánítási eljárással összefüggésben a felügyeleti szervként eljáró hatóságot rendeletben határozza meg.
 
 (4f) Felhatalmazást kap a Kormány, hogy az állami tankönyvfejlesztésért és -kiadásért felelős szerv feladatait ellátó szervet, a könyvtárellátó feladatait ellátó szervet, vagy jogi személyt rendeletben jelölje ki.
+
+(4h) Felhatalmazást kap a Kormány, hogy az egyéni munkarenddel kapcsolatosan eljáró, felmentést engedélyező szervet rendeletben jelölje ki.
 
 (5) A (4) bekezdés a)–c) és f) pontjában meghatározott kormányrendeleteknek a Kormány részére történő benyújtásához – a nemzetiséghez tartozók óvodai nevelését, iskolai nevelését, oktatását érintő kérdésekben – be kell szerezni az országos nemzetiségi önkormányzatok véleményét.
 
@@ -2961,7 +2979,7 @@ rendelkezik.
 
 (17) Az általános iskola 5–8. évfolyamán és az alapfokú művészeti iskolában a drámapedagógia tantárgyat tanítói és drámapedagógus szakirányú szakképzettséggel rendelkező pedagógus is taníthatja.
 
-(18) Ha az intézményvezetői megbízásra irányuló pályázati eljárás azért nem vezetett eredményre, mert egyetlen pályázó sem rendelkezett pedagógus-szakvizsga keretében szerzett intézményvezetői szakképzettséggel, akkor legfeljebb egyszeri alkalommal két évre szóló intézményvezetői megbízás adható olyan személynek is, aki az intézményvezetői megbízás többi feltételének megfelel, rendelkezik pedagógus-szakvizsgával és megbízásával egyidejűleg vállalja az intézményvezetői szakképzettség megszerzését. Az e bekezdés szerinti megbízás pályázat nélkül további három évvel meghosszabbítható, amennyiben az érintett az intézményvezetői megbízását követően az intézményvezetői szakképzettséget megszerezte.
+(18)
 
 99. § (1) A Gépírás- és Gyorsírástanítókat Vizsgáztató Országos Bizottság által kiállított gépírás és gyorsírás tanítására jogosító bizonyítvány gép- és gyorsírás oktatására, e körben pedagógus-munkakör betöltésére jogosító felsőfokú szakképesítés.
 
@@ -3051,6 +3069,11 @@ kell 2016. szeptember 1-jétől kifutó jelleggel megszervezni.
 99/H. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 99/I. § Az oktatási központ, illetve a tankerületi központ, valamint az állami felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egységeit a közbeszerzés becsült értékének meghatározására vonatkozó szabályok alkalmazásakor gazdasági szervezettel és önálló működési költségvetéssel rendelkező szervezeti egységnek kell tekinteni.
+
+99/J. § E törvénynek a közneveléssel összefüggő egyes törvények módosításáról és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény hatályon kívül helyezéséről szóló 2019. évi LXX. törvénnyel megállapított
+
+- a) 45. § (5) bekezdésének hatálybalépését megelőző napon magántanulói jogviszonyban álló tanuló magántanulói jogviszonyának egyéni munkarendre történő módosítását a Kormány által kijelölt hatóság a hatálybalépéstől számított egy éven belül felülvizsgálja,
+- b) 62. § (4) bekezdését a hatálybalépését követően benyújtott kérelmekre kell alkalmazni.
 
 99/K. § (1) A közneveléssel összefüggő egyes törvények módosításáról és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény hatályon kívül helyezéséről szóló 2019. évi LXX. törvény hatálybalépését követő 1 éven belül a 9. § (10) bekezdése szerinti hálózat, szervezet, illetve fenntartó köteles felülvizsgálni a kerettantervet annak érdekében, hogy az megfeleljen a közneveléssel összefüggő egyes törvények módosításáról és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény hatályon kívül helyezéséről szóló 2019. évi LXX. törvénnyel módosított 9. § (9a) bekezdésében foglaltaknak, és a kerettanterv módosításának jóváhagyását kérelmezni. Ennek elmulasztása esetén a működési engedélyt vissza kell vonni.
 
@@ -3259,10 +3282,10 @@ Az intézményvezető-helyettes, tagintézmény-vezető, intézményegység-veze
 | --- | --- | --- | --- |
 | 1 | Pótlék megnevezése | Pótlék alsó határa | Pótlék felső határa |
 | 2 | intézményvezetői | 40 | 80 |
-| 3 | osztályfőnöki/kollégiumban csoportvezetői | 10 | 30 |
+| 3 | osztályfőnöki, kollégiumban csoportvezetői, alapfokú művészeti iskolában tanszakvezetői | 10 | 30 |
 | 4 | munkaközösség-vezetői | 5 | 10 |
 | 5 | intézményvezető-helyettesi | 20 | 40 |
-| 6 | nemzetiségi | 30 | 30 |
+| 6 | nemzetiségi | 10 | 40 |
 | 7 | gyógypedagógiai | 5 | 10 |
 | 8 | nehéz körülmények között végzett munkáért járó | 10 | 30 |
 | 9 | gyakorlati oktatás-vezetői | 20 | 40 |

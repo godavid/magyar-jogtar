@@ -81,11 +81,11 @@ valamint a céginformációs szolgálat feladatai
 
 (4) Külföldi cég magyarországi fióktelepe, külföldiek magyarországi közvetlen kereskedelmi képviselete, valamint európai gazdasági egyesülés telephelye esetén a külföldi vállalkozás nevét a cégnévben meg kell jelölni.
 
-(5) A történelem kiemelkedő személyiségének nevét a Magyar Tudományos Akadémia engedélyével, olyan elnevezést pedig, amelyhez másnak jogi érdeke fűződik, csak a jogosult hozzájárulásával lehet a cégnévben szerepeltetni.
+(5) A történelem kiemelkedő személyiségének nevét a Bölcsészettudományi Kutatóközpont engedélyével, olyan elnevezést pedig, amelyhez másnak jogi érdeke fűződik, csak a jogosult hozzájárulásával lehet a cégnévben szerepeltetni.
 
-(6) A cégbíróság eljárása során vizsgálja a cégnév 3. § (6) bekezdésében foglaltaknak való megfelelését, és kétség esetén köteles beszerezni a Magyar Tudományos Akadémia állásfoglalását.
+(6) A cégbíróság eljárása során vizsgálja a cégnév 3. § (6) bekezdésében foglaltaknak való megfelelését, és kétség esetén köteles beszerezni a Bölcsészettudományi Kutatóközpont állásfoglalását.
 
-(7) A (6) bekezdéstől eltérően nem kell beszerezni a Magyar Tudományos Akadémia állásfoglalását, ha a bejegyzés alapjául szolgáló kérelemből és az okiratokból egyértelműen megállapítható, hogy a bejegyezni kívánt cégnév a cég természetes személy tagjának nevére való utalást tartalmaz.
+(7) A (6) bekezdéstől eltérően nem kell beszerezni a Bölcsészettudományi Kutatóközpont állásfoglalását, ha a bejegyzés alapjául szolgáló kérelemből és az okiratokból egyértelműen megállapítható, hogy a bejegyezni kívánt cégnév a cég természetes személy tagjának nevére való utalást tartalmaz.
 
 5. § A cég nevét (rövidített nevét)
 

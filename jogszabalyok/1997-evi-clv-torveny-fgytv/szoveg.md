@@ -291,13 +291,13 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 
 18. § (1) A békéltető testület hatáskörébe tartozik a fogyasztói jogvita bírósági eljáráson kívüli rendezése. A békéltető testület feladata, hogy megkísérelje a fogyasztói jogvita rendezése céljából egyezség létrehozását a felek között, ennek eredménytelensége esetén az ügyben döntést hoz a fogyasztói jogok egyszerű, gyors, hatékony és költségkímélő érvényesítésének biztosítása érdekében. A békéltető testület a fogyasztó vagy a vállalkozás kérésére tanácsot ad a fogyasztót megillető jogokkal és a fogyasztót terhelő kötelezettségekkel kapcsolatban.
 
-(2) A békéltető testület a megyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) mellett működő független testület.
+(2) A békéltető testület a megyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) által működtetett szakmailag független testület.
 
-(3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének ügyszámarányos támogatásáról, ide nem értve a Pénzügyi Békéltető Testületet.
+(3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének támogatásáról, ide nem értve a Pénzügyi Békéltető Testületet.
 
 (4) A helyi önkormányzatok részt vállalhatnak a békéltető testület működtetésének feladataiból.
 
-(5) Online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén az eljárásra kizárólag a fővárosi kereskedelmi és iparkamara mellett működő békéltető testület illetékes.
+(5) Online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén a fogyasztóvédelemért felelős miniszter által rendeletben kijelölt kamara által működtetett békéltető testület illetékes.
 
 (6) A békéltető testület köteles a tagjai számára rendszeresen képzést szervezni.
 
@@ -305,7 +305,9 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 
 (8) Ha a békéltető testület az (5) bekezdés sérelme nélkül beleegyezett, hogy az online vitarendezési platformon keresztül továbbított jogvita kapcsán alternatív vitarendezési eljárást folytat, a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendeletben, és a fogyasztói jogviták online rendezéséről szóló 524/2013/EU európai parlamenti és tanácsi rendeletben előírt online vitarendezési platform feladatai ellátásának módjáról és a panaszok bejelentésére szolgáló elektronikus űrlap kitöltésének módjáról, és az online vitarendezési kapcsolattartó pontok közötti együttműködés módjáról szóló, a Bizottság 2015/1051 számú végrehajtási rendeletében foglaltak figyelembe vételével köteles eljárni.
 
-19. § A fővárosi kereskedelmi és iparkamara mellett működő békéltető testület látja el a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet szerinti tagállami online vitarendezési kapcsolattartó pont feladatait.
+(9) A békéltető testület tagja e tevékenység ellátásáért a fogyasztóvédelemért felelős miniszter által rendeletben meghatározott díjazásra és szükség esetén költségtérítésre jogosult.
+
+19. § A fogyasztóvédelemért felelős miniszter látja el a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet szerinti tagállami online vitarendezési kapcsolattartó pont feladatait.
 
 20. § (1) Az eljárásra a fogyasztó lakóhelye vagy tartózkodási helye szerinti békéltető testület illetékes.
 
@@ -321,19 +323,19 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 
 21. § (1) A békéltető testület elnökből, – szükség szerint – elnökhelyettesből és tagokból (a továbbiakban együtt: békéltető testületi tagok) áll.
 
-(2) A békéltető testületi tagokat – a Kormány rendeletében meghatározottak szerint – egyrészről a kamara és a megyei (fővárosi) agrárkamarák, másrészről a fogyasztói érdekek képviseletét ellátó egyesületek egyenlő arányban jelölik ki.
+(2) A békéltető testületi tagok a területileg illetékes kamara által lefolytatott pályázat alapján kerülnek kiválasztásra. Ha a területileg illetékes kamara a külön jogszabályban meghatározott időpontban nem indítja meg a pályázati eljárást, akkor helyette azt az MKIK bonyolítja le.
 
-(3) A testületi tagok száma testületenként legalább tíz fő. A békéltető testület megalakulásakor legfeljebb a testületi tagok fele lehet olyan személy, aki az általános öregségi nyugdíjkorhatárt betöltötte.
+(3) A pályázat érvényes lezárását követően az illetékes kamara a pályázatokat, azok előzetes értékelését követően megküldi az MKIK részére, aki azt véleményezve továbbítja a fogyasztóvédelemért felelős miniszter részére. A békéltető testületi tagokat a pályázók közül a fogyasztóvédelemért felelős miniszter választja ki, a kiválasztást követően a megbízásukat a területileg illetékes kamarától kapják meg.
 
-(4) A kijelölés során biztosítani kell, hogy a testületnek mind a kamara, megyei (fővárosi) agrárkamarák, mind a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt személyek között legyen olyan tagja, aki megfelel a 25. § (3) és (5) bekezdésében meghatározott követelményeknek.
+(4) A testületi tagok száma testületenként legalább öt fő. A pályázat érvényes lezárását követően a békéltető testületi tagok javasolt legmagasabb számát a területileg illetékes kamara megküldi az MKIK részére, aki véleményezve továbbítja a fogyasztóvédelemért felelős miniszter részére. A békéltető testület megalakulásakor legfeljebb a testületi tagok fele lehet olyan személy, aki az általános öregségi nyugdíjkorhatárt betöltötte.
 
-(5) A békéltető testületi tagok kijelölését követően a tagok összehívásával megalakul a békéltető testület.
+(5) A békéltető testületi tagok (3) bekezdés szerinti megbízását követően megalakul a békéltető testület.
 
-(6) A békéltető testület megbízatása négy évre szól. A békéltető testületi tagok újra kijelölhetőek.
+(6) A békéltető testület megbízatása három évre szól. A békéltető testületi tagok megbízatási idejük lejártát követően újra pályázhatnak.
 
-(7) A békéltető testület tagjai tevékenységüket külön jogszabályban meghatározott díjazás ellenében végzik.
+(7) A békéltető testület tagjai tevékenységüket megbízási szerződés keretében látják el. A békéltető testület elnöke a tevékenységét az MKIK-val munkaviszony vagy megbízási szerződés keretében látja el.
 
-22. § (1) Békéltető testületi tag az lehet, aki felsőfokú iskolai végzettséggel és annak megfelelő szakterületen legalább kétéves igazolt szakmai gyakorlattal rendelkezik.
+22. § (1) Békéltető testületi tag az lehet, aki felsőfokú iskolai végzettséggel és legalább kétéves szakmai gyakorlattal rendelkezik.
 
 (2) Nem lehet békéltető testületi tag, aki
 
@@ -345,16 +347,16 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
   - cc) közérdekű munka vagy pénzbüntetés kiszabása esetén a mentesítés beálltától számított öt évig,
   - cd) végrehajtásában felfüggesztett szabadságvesztés kiszabása esetén a mentesítés beálltától számított nyolc évig,
   - ce) végrehajtásában felfüggesztett pénzbüntetés kiszabása esetén a mentesítés beálltától számított három évig vagy
-- d) az (1) bekezdés szerinti, a kijelölés alapjául szolgáló végzettségnek és szakmai gyakorlatnak megfelelő foglalkozástól eltiltás hatálya alatt áll.
+- d) az (1) bekezdés szerinti, a békéltető testületi tagságra benyújtott pályázat alapjául szolgáló foglalkoztatástól való eltiltás hatálya alatt áll.
 
-(3) Az (1) bekezdés szerinti alkalmassági feltétel teljesülését az érintett igazolja a békéltető testületi tagsági kijelölés feltételeként.
+(3) Az (1) bekezdés szerinti alkalmassági feltétel teljesülését az érintett igazolja a békéltető testületi tagságra benyújtott pályázat feltételeként.
 
 (4) Azt a tényt, hogy a (2) bekezdés b)–d) pontjában meghatározott kizáró okok vele szemben nem állnak fenn, az érintett hatósági bizonyítvánnyal igazolja
 
-- a) a békéltető testületi tagsági kijelölés feltételeként,
+- a) a békéltető testületi tagságra benyújtott pályázat részeként,
 - b) megbízatásának tartama alatt a békéltető testület elnöke, a békéltető testület elnöke tekintetében a fogyasztóvédelemért felelős miniszter írásbeli felhívására a felhívástól számított tizenöt munkanapon belül, vagy ha ez e határidőn belül az érintetten kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul.
 
-(5) A 21. § (3) bekezdésében foglalt feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kijelölése során a tagnak jelölt személy életkorát hatósági igazolvánnyal igazolja.
+(5) A 21. § (3) bekezdésében foglalt feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kiválasztására irányuló pályázat során a tagnak jelölt személy életkorát hatósági igazolvánnyal igazolja.
 
 22/A. § (1) A békéltető testület elnöke a békéltető testület tagját, a fogyasztóvédelemért felelős miniszter a békéltető testület elnökét írásban, a mulasztás jogkövetkezményének ismertetésével felhívhatja annak igazolására, hogy az igazolásra felhívottal szemben nem áll fenn a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok.
 
@@ -375,11 +377,11 @@ foglalt személyes adatait.
 - b) a békéltető testület elnöke a békéltető testületi tag megbízatásának megszűnéséig,
 - c) a fogyasztóvédelemért felelős miniszter a békéltető testület elnöke megbízatásának megszűnéséig kezeli.
 
-23. § (1) Az elnököt – a testületi tagok közül – a békéltető testület választja meg. A választás eredményéről a békéltető testület értesíti a fogyasztóvédelemért felelős minisztert. Ha az elnök testületi tagsági megbízatásának megszűnését követő hatvan napon belül a békéltető testület nem választ elnököt, az új elnököt a fogyasztóvédelemért felelős miniszter bízza meg a testületi tagok közül. Az elnök teljes jogkörrel képviseli a testületet.
+23. § (1) A békéltető testületi tagjelöltek közül az illetékes kamara a békéltető testületi elnöknek javasolt tagokat, azok előzetes értékelését követően megküldi az MKIK részére, aki azt véleményezve továbbítja a fogyasztóvédelemért felelős miniszter részére. A békéltető testületi elnököt a jelöltek közül a fogyasztóvédelemért felelős miniszter választja ki. A kiválasztást követően az elnököt az MKIK bízza meg vagy alkalmazza három évre. Ha a testület megalakulásakor, vagy az elnök testületi tagsági megbízatásának megszűnését követő harminc napon belül az illetékes kamara nem javasol elnöknek személyt az MKIK részére, akkor az új elnököt a testületi tagjelöltek vagy tagok közül a fogyasztóvédelemért felelős miniszter választja ki. Az elnöki és elnökhelyettesi tisztség egyidejű betöltetlensége esetén az e tisztségek betöltésére vonatkozó általános szabályok alkalmazandók. Az elnök teljes jogkörrel képviseli a testületet.
 
-(2) A békéltető testület elnöke – ha a testület munkaterhe azt indokolja – elnökhelyettest jelölhet ki a testületi tagok közül. Az elnököt akadályoztatása esetén az elnökhelyettes teljes jogkörrel helyettesíti. Elnökhelyettes hiányában az elnököt szükség esetén az általa az adott alkalommal történő helyettesítésre kijelölt tag a kijelölésben meghatározott körben helyettesítheti.
+(2) Ha a testület munkaterhe azt indokolja, a kamara javaslatot tehet elnökhelyettes jelölésére a testületi tagok közül az MKIK részére, aki azt véleményezve továbbítja a fogyasztóvédelemért felelős miniszter részére. Az elnökhelyettest a jelöltek közül a fogyasztóvédelemért felelős miniszter választja ki. A kiválasztást követően az elnökhelyettest az MKIK bízza meg vagy alkalmazza a békéltető testület megbízatásának időtartamára. Az elnököt akadályoztatása esetén az elnökhelyettes teljes jogkörrel helyettesíti. Elnökhelyettes hiányában az elnököt szükség esetén az általa az adott alkalommal történő helyettesítésre kijelölt tag a kijelölésben meghatározott körben helyettesítheti.
 
-23/A. § A tagokról a testület elnöke listát vezet. A lista tartalmazza a tagok nevét, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületük és a tagot jelölő szervezet megjelölését. Ezek az adatok közérdekből nyilvános adatok. Az elnök a testületi tagok listáját megküldi a békéltető testület működési feltételeit biztosító kamarának, valamint a fogyasztóvédelemért felelős miniszternek.
+23/A. § A tagokról a testület elnöke nyilvántartást vezet. A nyilvántartás tartalmazza a tagok nevét, felsőfokú végzettségük oklevél szerinti megnevezését és szakterületük megjelölését. Ezek az adatok közérdekből nyilvános adatok. Az elnök a testületi tagok listáját megküldi a békéltető testületet működtető kamarának, az MKIK-nak és a fogyasztóvédelemért felelős miniszternek.
 
 24. § (1) A békéltető testületi tag megbízatása megszűnik
 
@@ -388,27 +390,30 @@ foglalt személyes adatait.
 - c) ha bejelenti, hogy vele szemben a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok áll fenn, vagy a 22/A. § (1) bekezdésében meghatározott felhívásra nem igazolja vagy nem tudja igazolni, hogy nem áll fenn vele szemben a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok,
 - d) lemondással,
 - e) alkalmatlanná válása esetén,
-- f) halálával.
+- f) halálával,
+- g) felmondással.
 
-(2) Az (1) bekezdés e) pontja szerinti esetben a megbízatás megszűnését az érintett testületi tag meghallgatása után és a tagot jelölő szervezet véleményének figyelembevételével a békéltető testület elnöke, illetve – az elnök tekintetében – a békéltető testület tagjai közül választott, a kamara, megyei (fővárosi) agrárkamarák és a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt tagokból álló háromfős testület állapítja meg.
+(2) Az (1) bekezdés e) pontja szerinti esetben a megbízatás megszűnését az érintett testületi tag meghallgatása után és a kamara véleményének figyelembevételével a békéltető testület elnöke, illetve – az elnök tekintetében – a területileg illetékes kamara, az MKIK és a fogyasztóvédelemért felelős miniszter által jelölt tagokból álló háromfős testület állapítja meg.
 
-(3) Ha a békéltető testületi tag megbízatása e törvényben szabályozott bármely okból megszűnik, helyette a békéltető testületi tag jelölésére vonatkozó rendelkezések megfelelő alkalmazásával új testületi tagot kell kijelölni. Ha a békéltető testületi tag megbízatása az (1) bekezdés b–f) pontja alapján szűnik meg, a folyamatban lévő ügyekben a békéltető testület elnöke jelöli ki a megszűnt megbízatású tag helyett eljáró tagot.
+(3) Ha a békéltető testületi tag megbízatása e törvényben szabályozott bármely okból megszűnik, helyette a békéltető testületi tag kiválasztására irányuló rendelkezéseknek megfelelően kiírt pályázat alapján új testületi tagot kell kiválasztani. Ha a békéltető testületi tag megbízatása az (1) bekezdés b)–g) pontja alapján szűnik meg, a folyamatban lévő ügyekben a békéltető testület elnöke jelöli ki a megszűnt megbízatású tag helyett eljáró tagot.
 
-(4) Ha az (1) bekezdés b)–f) pontja szerinti okból a békéltető testület elnökének megbízatása szűnik meg, a békéltető testületi elnök megválasztására vonatkozó rendelkezések megfelelő alkalmazásával új elnököt kell választani, illetve megbízni.
+(4) Ha az (1) bekezdés b)–g) pontja szerinti okból a békéltető testület elnökének megbízatása szűnik meg, a békéltető testületi elnök megválasztására vonatkozó rendelkezések megfelelő alkalmazásával új elnököt kell javasolni, illetve kinevezni.
+
+(5) A békéltető testületi tagság felmondással való megszüntetésére a Polgári Törvénykönyvről szóló törvény, amennyiben a békéltető testület elnöke e tevékenységét munkaviszony keretében látja el, akkor a munka törvénykönyvéről szóló törvény rendelkezéseit kell alkalmazni.
 
 24/A. § A békéltető testületi tagoknak függetlennek és pártatlannak kell lenniük, nem lehetnek képviselői a feleknek, eljárásuk során utasítást nem fogadhatnak el. Teljes titoktartásra kötelezettek a békéltető testület működése során tudomásukra jutott tények és adatok tekintetében, az eljárás megszűnése után is. Minderről kijelölésük elfogadásakor írásbeli nyilatkozatot kötelesek tenni.
 
-25. § (1) A békéltető testület – a (4) bekezdésben foglalt kivétellel – háromtagú tanácsban jár el.
+25. § (1) A békéltető testület tagja – a (2) bekezdésben foglalt vagylagos feltétel megléte esetén, a (3) és (4) bekezdésben foglalt kivétellel – egyedül jár el.
 
-(2) Az eljáró tanács egyik tagját az eljárást megindító fogyasztó, egy másik tagját pedig az eljárással érintett vállalkozás jelöli ki a testületi tagok 23/A. §-ban meghatározott listájáról. Az eljáró tanács elnökét, továbbá ha a felek bármelyike a megadott határidőn belül nem él a jelölés lehetőségével, vagy ha más okból szükséges, az eljáró tanács hiányzó tagját a testület elnöke jelöli ki, figyelemmel a (3) bekezdés szerinti követelményekre, továbbá arra, hogy legalább egy tag a fogyasztói érdekek képviseletét ellátó egyesületek által jelölt, egy másik tag pedig a kamara vagy a megyei (fővárosi) agrárkamarák által kijelölt testületi tagok közül kerüljön ki, valamint minden olyan szempontra, amely nagy valószínűséggel biztosítja független és pártatlan testületi tag kijelölését. Nem jelölhető ki az eljáró tanács tagjának az a békéltető testületi tag, aki az üggyel kapcsolatban a fogyasztónak vagy a vállalkozásnak tanácsot adott. E követelmény érvényesüléséről a békéltető testület elnöke az eljáró tanács tagjainak 29. § (5) bekezdése szerinti jelölése során is gondoskodik.
+(2) Az egyedül eljáró testületi tag jogi vagy közgazdasági felsőfokú végzettséggel kell, hogy rendelkezzen.
 
-(3) Az eljáró tanács legalább egy tagja jogi végzettséggel kell, hogy rendelkezzen.
+(3) Ha a testület elnöke szerint a fogyasztói jogvita bonyolultsága indokolja, a békéltető testület háromtagú tanácsban jár el.
 
-(4) Ha a testület elnöke szerint a fogyasztói jogvita egyszerű megítélésű, az eljárás lefolytatására egyedül eljáró testületi tagot jelöl ki. Ha azonban mindkét fél – az általa az (1) bekezdés szerint jelölhető testületi tag megjelölésével – azt kéri, a békéltető testület ebben az esetben is háromtagú tanácsban jár el.
+(4) Ha azt bármely fél kéri, akkor a békéltető testület háromtagú tanácsban jár el.
 
-(5) A (4) bekezdésben meghatározott esetben egyedül eljáró testületi tagként csak az jelölhető ki, aki jogi végzettséggel rendelkezik, és a megelőző három évben nem állt az őt jelölő kamarával, megyei (fővárosi) agrárkamarával, illetve fogyasztói érdekek képviseletét ellátó egyesülettel, vagy ezek tagjával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
+(5) Ahol a törvény a továbbiakban eljáró tanácsot, illetve az eljáró tanács elnökét említi, azon az egyedül eljáró testületi tagot is érteni kell.
 
-(6) Ahol a törvény a továbbiakban eljáró tanácsot, illetve az eljáró tanács elnökét említ, azon az egyedül eljáró testületi tagot is érteni kell.
+(6) Nem vehet részt az eljárásban az a békéltető testületi tag, aki az üggyel kapcsolatban a fogyasztónak vagy a vállalkozásnak tanácsot adott és a megelőző három évben az eljárásban részt vevő vállalkozással munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állt.
 
 26. § (1) A békéltető testületi tag az eljárásból ki van zárva, ha neki vagy a Polgári Törvénykönyv szerinti hozzátartozójának a vitás ügyhöz személyi vagy vagyoni érdekeltsége fűződik, illetve egyéb ok miatt elfogult, kivéve, ha a feleket erről tájékoztatta, és ennek ismeretében személye ellen egyik fél sem emelt kifogást.
 
@@ -416,7 +421,7 @@ foglalt személyes adatait.
 
 (3) Az eljáró tanácsba kijelölt testületi tag ellen a fél kizárási kérelmet terjeszthet elő, amennyiben olyan körülmények állnak fenn, amelyek jogos kétségeket ébresztenek függetlensége vagy pártatlansága tekintetében.
 
-(4) A fél az általa kijelölt testületi tag ellen csak olyan okból élhet kizárási kérelemmel, amely a kijelölést követően vált előtte ismertté.
+(4)
 
 (5) Az indokolással ellátott írásbeli kizárási kérelem attól a naptól számított három napon belül terjeszthető elő, amikor a fél az eljáró tanács összetételéről tudomást szerzett, vagy amikor a (3) bekezdésben említett körülmények előtte ismertté váltak.
 
@@ -473,7 +478,7 @@ foglalt személyes adatait.
 
 (4a) Az elnök a kérelem meghallgatás kitűzése nélküli elutasítása esetén ennek tényéről, valamint indokáról a feleket a kérelem kézhezvételétől számított huszonegy napon belül értesíti.
 
-(5) Az elnök a meghallgatás kitűzött időpontjáról, illetve arról, hogy kezdeményezi a meghallgatás mellőzését, a feleket a kérelem másolatának és a 23/A. § szerinti lista egyidejű megküldésével kellő időben előzetesen értesíti, azzal a felhívással, hogy az eljáró tanács általuk jelölhető tagjára vonatkozó javaslatukat legkésőbb az értesítés részükre történt kézbesítésétől számított nyolc napon belül tegyék meg, ellenkező esetben a kijelölésről a békéltető testület elnöke hivatalból gondoskodik.
+(5) Az elnök a meghallgatás kitűzött időpontjáról, illetve arról, hogy kezdeményezi a meghallgatás mellőzését, a feleket a kérelem másolatának megküldésével kellő időben előzetesen értesíti.
 
 (5a) Az (5) bekezdés szerinti értesítésnek arra is ki kell terjednie, hogy
 
@@ -611,7 +616,7 @@ foglalt személyes adatait.
 
 36/B. § A békéltető testület közzéteszi annak a vállalkozásnak a nevét, székhelyét és az eljárással érintett tevékenysége megjelölését, amely a 29. § (8) bekezdése szerinti felszólítás ellenére nem tett az ügy érdemére vonatkozó – a 29. § (8) bekezdésében foglaltaknak megfelelő tartalmú – nyilatkozatot és a kitűzött meghallgatáson nem jelent meg, ilyen módon megakadályozva az egyezség létrehozását. Erre az értesítésben a vállalkozás figyelmét fel kell hívni.
 
-36/C. § (1) A vállalkozás a székhelye szerinti békéltető testületnél vagy – valamennyi békéltető testületre kiterjedő hatállyal – a Magyar Kereskedelmi és Iparkamaránál írásban, visszavonásig érvényes általános alávetési nyilatkozatot tehet, amelyben vállalja, hogy a békéltető testületi eljárásnak és egyezség hiányában az ilyen eljárásban hozott határozatnak aláveti magát. Az általános alávetési nyilatkozatban a vállalkozás kötelezettségvállalásának mértékét, illetve hatályát a jogvita tárgyának általa meghatározott értékében vagy más módon is korlátozhatja.
+36/C. § (1) A vállalkozás a székhelye szerinti békéltető testületnél vagy – valamennyi békéltető testületre kiterjedő hatállyal – az MKIK-nál írásban, visszavonásig érvényes általános alávetési nyilatkozatot tehet, amelyben vállalja, hogy a békéltető testületi eljárásnak és egyezség hiányában az ilyen eljárásban hozott határozatnak aláveti magát. Az általános alávetési nyilatkozatban a vállalkozás kötelezettségvállalásának mértékét, illetve hatályát a jogvita tárgyának általa meghatározott értékében vagy más módon is korlátozhatja.
 
 (2) A Magyar Kereskedelmi és Iparkamara a nála megtett általános alávetési nyilatkozatokról nyilvántartást vezet.
 
@@ -621,7 +626,7 @@ foglalt személyes adatait.
 
 37. § (1) A békéltető testület az eljárására vonatkozó részletes szabályokat a törvény keretei között szabadon állapíthatja meg. A békéltető testület eljárási szabályzata nem lehet ellentétes a (2) bekezdés szerinti országos eljárási szabályzat rendelkezéseivel.
 
-(2) A békéltető testületek az egységes gyakorlat kialakítása érdekében valamennyi békéltető testület képviselőjének részvételével az eljárás egészére vagy egyes eljárási kérdésekre vonatkozóan országos eljárási szabályzatot készíthetnek, melyet az igazságügyért felelős miniszter hagy jóvá.
+(2) A fogyasztóvédelemért felelős miniszter az MKIK-val együttműködve a békéltető testületek egységes gyakorlatának kialakítása érdekében országos eljárási szabályzatot készít, amelynek alkalmazása kötelező a békéltető testület eljárásában.
 
 37/A. § (1) A fogyasztóvédelemért felelős miniszter – a békéltető testületek által megküldött adatok alapján – az általa vezetett minisztérium honlapján gondoskodik a következők közzétételéről:
 
@@ -645,7 +650,7 @@ foglalt személyes adatait.
 
 - a) a békéltető testület elérhetőségeit, így különösen székhelyét, postacímét, e-mail címét, telefonszámát, valamint faxszámát,
 - b) annak tényét, hogy a békéltető testületet az Európai Bizottság jegyzékében nyilvántartásba vették-e,
-- c) a békéltető testületi tagok nevét, az őket jelölő fogyasztói érdekek képviseletét ellátó egyesület vagy gazdasági kamara megnevezését, valamint megbízatásuk időtartamát, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületüket,
+- c) a békéltető testületi tagok nevét, megbízatásuk időtartamát, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületüket,
 - d) a békéltető testületi tagok függetlenségére és pártatlanságára vonatkozó törvényes követelményeket,
 - e) a békéltető testületi tagok esetleges tagságát az alternatív vitarendezési fórumok határokon átnyúló vitarendezést elősegítő hálózatában,
 - f) a békéltető testület hatáskörére vonatkozó információkat,
@@ -726,18 +731,10 @@ foglalt személyes adatait.
 
 39/A. §
 
-40. § (1) A fogyasztóvédelemért felelős miniszter
+40. § A fogyasztóvédelemért felelős miniszter
 
-- a) kidolgozza és jóváhagyásra a Kormány elé terjeszti a fogyasztóvédelmi politika koncepcióját, javaslatot tesz a megvalósítás szervezeti és intézményi feltételeire,
+- a) fogyasztóvédelmi szakmapolitikai programot alkot,
 - b) intézkedéseket tesz, illetve kezdeményez a fogyasztói jogok védelme és érvényesítése érdekében.
-
-(2) A koncepciónak tartalmaznia kell:
-
-- a) az elérni kívánt fogyasztóvédelmi célokat,
-- b) a célok érdekében végrehajtandó feladatokat, azok megvalósításának sorrendjét és határidejét,
-- c) a kitűzött célok megvalósításának eszközeit, ideértve a pénzügyi igények megjelölését is.
-
-(3) A koncepcióban foglaltakat a gazdaságpolitikai döntések kialakítása, továbbá a nemzetgazdaság bármely ágában megvalósuló végrehajtási tevékenység során érvényre kell juttatni.
 
 41–42. §
 
@@ -1093,9 +1090,9 @@ törölni kell.
 - c) az elektronikus kereskedelmi szolgáltatással összefüggő, az 51/B. § (1) bekezdésében előírt közzétételi kötelezettséggel járó súlyos jogsértések eseteire,
 - d)–e)
 - f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és a jogszabály alapján az eljáró hatóságot megillető eljárási költség felhasználására,
-- g) a békéltető testületi tagok díjazására,
+- g)
 - h) a fogyasztóvédelmi hatóság vagy hatóságok kijelölésére, feladat- és hatáskörére,
-- i) a békéltető testületi tagok kijelölésére,
+- i)
 - j) a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdésének végrehajtása céljából a fogyasztói érdekek képviseletét ellátó egyesületeknek az irányelv 4. cikk (3) bekezdésében meghatározott jegyzékre való felkerülése céljából lefolytatandó eljárásra,
 - k) az Európai Fogyasztói Központok Hálózatában való részvételre,
 - l) a 2012. január 1-je előtt létrehozott fogyasztói csoportok bejelentésére, működésére, a fogyasztói csoportot működtető vállalkozás által ellátandó feladatokra, az általa teljesítendő adatszolgáltatásra, a fogyasztók befizetéseinek kezelésére, a fogyasztókkal való elszámolásra és a szerződés megszüntetésére
@@ -1104,7 +1101,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (2) Felhatalmazást kap a Kormány, hogy a polgári célú pirotechnikai termékek forgalmazására alkalmazandó követelményeket, biztonságossági előírásokat, címkézésre vonatkozó külön előírásokat, az egyes termékek megfelelőség-értékelésének módját, valamint a megfelelőségi tanúsítványokat kiadó szervezetek körét vagy az ilyen szervezetek köre meghatározásának szabályait rendelettel meghatározza.
 
-56. §
+56. § Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy a békéltető testületi tagsági feladat ellátására vonatkozó pályázat szabályairól, a pályázatok előzetes értékeléséről, a békéltető testületi tagok díjazásáról szóló részletes szabályokat és az online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén az eljárásra kijelölt kamarák által működtetett békéltető testületek kijelölését rendeletben állapítsa meg.
 
 56/A. § (1)
 
