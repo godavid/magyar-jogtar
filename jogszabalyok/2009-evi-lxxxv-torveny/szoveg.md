@@ -157,7 +157,7 @@ vonatkoznak.
   - eb) erre vonatkozó megállapodás esetén a szolgáltatót megillető, a készpénz-helyettesítő fizetési eszközre vonatkozó zárolási lehetőségéről,
   - ec) a fizető felet terhelő, a 45. §-ban meghatározott felelősségi szabályokról,
   - ed) az ügyfelet terhelő, a 42. § (1) bekezdésében meghatározott, jóvá nem hagyott vagy hibásan teljesített vagy hibásan kezdeményezett fizetési műveletre vonatkozó tájékoztatási kötelezettségéről, annak teljesítési határidejéről és módjáról, valamint a jóvá nem hagyott fizetési műveletekre vonatkozó szolgáltatói felelősségről,
-  - ee) a szolgáltatónak a fizetési művelet kezdeményezéséért vagy teljesítéséért a 49–51. §-ban meghatározott felelősségéről,
+  - ee) a szolgáltatónak a fizetési művelet kezdeményezéséért vagy teljesítéséért a 49–52/A. §-ban meghatározott felelősségéről,
   - ef) a 45. §-ban és a 46. §-ban meghatározott visszafizetési feltételekről,
   - eg) a pénzforgalmi szolgáltató által vélt vagy észlelt csalás vagy biztonsági fenyegetések esetén az ügyfél értesítésére szolgáló biztonságos eljárásról;
 - f) a keretszerződés módosítására és megszüntetésére vonatkozóan:
