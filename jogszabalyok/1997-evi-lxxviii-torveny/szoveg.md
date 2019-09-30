@@ -740,12 +740,12 @@ kivételével más építési munkát végezni nem szabad.
 
 (4) Egyszerű bejelentéssel folytatott építési tevékenység esetén
 
-- a) az építtető az építési tevékenységet a kivitelezés tervezett megkezdése előtt tizenöt nappal – kormányrendeletben meghatározottak szerint – a nevének és lakcímének, szervezet esetén a megnevezésének és székhelyének megjelölésével, kizárólag elektronikus úton bejelenti a kormányrendeletben kijelölt szervnek,
+- a) az építtető az építési tevékenységet kormányrendeletben meghatározott módon bejelenti a kormányrendeletben kijelölt szervnek,
 - b) ha a tervező a tervezés során a közműellátás és az égéstermék-elvezető megvalósítása érdekében az arra jogosult szolgáltató hozzájárulását vagy jóváhagyását kéri, és arra nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni,
-- c) a bejelentéshez kormányrendeletben meghatározott tartalmú kivitelezési dokumentációt kell mellékelni,
+- c) a bejelentéshez kormányrendeletben meghatározott tartalmú dokumentációt kell mellékelni,
 - d) a bejelentéstől a kormányrendeletben meghatározottak szerint lehet eltérni.
 
-(5) Az egyszerű bejelentéssel folytatott építési tevékenység esetén az építtető köteles építész tervezőt tervezői művezetésre megbízni.
+(5) Az egyszerű bejelentéssel folytatott építési tevékenység kormányrendeletben meghatározott eseteiben az építtető köteles építész tervezőt tervezői művezetésre megbízni.
 
 (6) Az egyszerű bejelentéssel folytatott építési tevékenységet a bejelentéstől számított tíz éven belül meg kell valósítani és a felépítés megtörténtét tanúsító hatósági bizonyítványt kell kérni a kormányrendeletben kijelölt szervtől.
 
@@ -898,7 +898,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 40. § (1) A kivitelező felelős:
 
-- a) az építőipari kivitelezési tevékenység jogszerű megkezdéséért és folytatásáért, az építési napló vezetéséért, kivitelezői jogosultságának meglétéért,
+- a) az építőipari kivitelezési tevékenység jogszerű megkezdéséért és folytatásáért, kivitelezői jogosultságának meglétéért,
 - b) az építtető által rendelkezésére bocsátott, hatósági eljárásban záradékolt építészeti-műszaki dokumentációban, valamint a kivitelezési dokumentációban előírtak betartásáért és betartatásáért, és
 - c) az elvégzett szakmunkák eredményeként létesült szerkezetek, berendezések, építmény, építményrész rendeltetésszerű és biztonságos használhatóságáért.
 
@@ -941,7 +941,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 - c) az engedélyezési és kivitelezési terv tervezőjének, az építési műszaki ellenőr, valamint a kivitelező kiválasztásáért,
 - d) az építésügyi hatósági engedély, építésügyi vagy építésfelügyeleti, tudomásulvétel megszerzéséért,
 - e) a hatósági eljárásban záradékolt építészeti-műszaki dokumentációban, valamint a kivitelezési dokumentációban foglaltak betartásáért,
-- f) az építőipari kivitelezési tevékenység megkezdéséhez szükséges jogszabályban előírt dokumentumok (tervek) meglétéért, az elektronikus építési napló vezetése esetén az építési napló készenlétbe helyezéséért,
+- f) az építőipari kivitelezési tevékenység megkezdéséhez szükséges jogszabályban előírt dokumentumok (tervek) meglétéért,
 - g) az építési munkaterület átadásáért,
 - h) az építőipari kivitelezési tevékenység végzésének ellenőrzéséért,
 - i) azért, hogy az építmény rendeltetésszerű és biztonságos használatához szükséges járulékos építmények, tereprendezési, fásítási, parkosítási munkálatok az építménnyel együtt valósuljanak meg,
@@ -988,7 +988,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 - b) a (2) bekezdés b) pont ba), bc), bd) alpontja, és a (2) bekezdés e) pontja szerinti feladatkörében az építőipari kivitelezési tevékenység folytatását
   - ba) megtilthatja és építésfelügyeleti bírságot szabhat ki, ha ellenőrzése során azt állapítja meg, hogy az építőipari kivitelezési tevékenység szakszerűségére, az építési napló vezetésére vagy a kivitelezési tevékenység folytatásához szükséges kivitelezési dokumentációra vonatkozó szabályokat súlyosan megsértették,
   - bb) megtiltja és a szabálytalan állapot megszüntetését elrendeli, továbbá építésfelügyeleti bírságot szabhat ki, ha az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és az egészséget vagy a közbiztonságot közvetlenül veszélyezteti,
-  - bc) építési napló hiányában megtiltja,
+  - bc) építési napló hiányában építési napló hiányában megtiltja, ha annak vezetése az e törvény végrehajtására kiadott kormányrendelet alapján kötelező,
 - c) a (2) bekezdés b) pont bb) alpontja és a (2) bekezdés e) pontja szerinti feladatkörében hatósági eljárást folytat le, építésfelügyeleti bírságot szabhat ki, vagy a szükséges intézkedések megtétele érdekében megkeresi az eljárásra hatáskörrel rendelkező hatóságot vagy szervet, ha az ellenőrzése során azt állapítja meg, hogy a résztvevők nem rendelkeznek az előírt jogosultsággal, nem megfelelő a jogosultságuk, nem rendelkeznek az előírt regisztrációval vagy nem a regisztrációjuknak megfelelő tevékenységet végeznek,
 - d)
 - e) a (2) bekezdés d) pontja szerinti feladatkörében az ellenőrzésen tapasztaltak eredményeképpen

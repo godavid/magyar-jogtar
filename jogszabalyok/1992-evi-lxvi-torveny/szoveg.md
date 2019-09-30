@@ -458,6 +458,19 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 
 19/D. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (1) bekezdésében meghatározott szervek a személyszállítási szerződés teljesítésével összefüggésben a menetdíjat meg nem fizető, vagy az utazási feltételeket egyéb módon megszegő utas azonosítása céljából természetes személyazonosító adatok, lakcím- és személyazonosító igazolvány okmányazonosítója adat igénylésére jogosultak a nyilvántartó szervtől az adatigénylés indokoltságának igazolása mellett.
 
+19/E. § (1) A nyilvántartást kezelő szervtől a polgár lakcímadata érvényességének tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető.
+
+(2) Az (1) bekezdésben meghatározott kérelem benyújtására elektronikus azonosítási szolgáltatás használata nélkül kizárólag elektronikus úton egyedi informatikai alkalmazás igénybevételével
+
+- a) közvetlen hozzáféréssel, vagy
+- b) elektronikus felületen keresztül
+
+van lehetőség.
+
+(3) Az adatigénylőnek a kérelemben az érintett polgár természetes személyazonosító adatait, valamint a lakcím adattartalmának valamennyi elemét hiánytalanul fel kell tüntetnie.
+
+(4) Az (1)–(3) bekezdés szerinti adatigénylés alapján a nyilvántartást kezelő szerv az adatigénylőnek arról ad tájékoztatást, hogy a lakcímadat a megadott adatokkal érvényes vagy a megadott adatokkal a nyilvántartásban nincs érvényes lakcím.
+
 20. § (1) A polgárnak a 17. § (2) bekezdésének a) és b) pontjában meghatározott adatairól — függetlenül attól, hogy élt-e adatai letiltásának jogával — más polgárnak, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek adatszolgáltatás akkor teljesíthető, ha azt törvény, nemzetközi szerződés vagy viszonosság előírja, vagy ha a kérelmező
 
 - a) polgár vagy jogi személyiséggel nem rendelkező szervezet az adatok felhasználásához fűződő jogát vagy jogos érdekét okirattal igazolja;
@@ -563,7 +576,9 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 - f) a konzuli tisztviselőnek olyan ügyek intézése során, amelyekben az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult a személyazonosító jelet kérni;
 - g) az idegenrendészeti szerveknek a bevándorlással, a letelepedéssel, illetőleg a tartózkodással kapcsolatos ügyintézés során.
 
-(2)–(3)
+(2)
+
+(3)
 
 25/A. § A külföldön élő magyar állampolgár nyilvántartási ügyében eljáró hatóság 8 napos határidő megjelölésével hívja fel hiánypótlásra a kérelmezőt.
 
@@ -574,6 +589,10 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 ### A lakcím és az értesítési cím bejelentése és nyilvántartása
 
 26. § (1) A Magyarország területén élő, e törvény hatálya alá tartozó polgár [4. § (1) bekezdés] köteles beköltözés vagy kiköltözés után három munkanapon belül lakóhelyének, illetve tartózkodási helyének címét nyilvántartásba vétel céljából bejelenteni (a továbbiakban együtt: lakcímbejelentés).
+
+(1a) A lakcímbejelentési eljárás során a polgár a tároló elemmel ellátott személyazonosító igazolványát a lakcímadatok tároló elemen történő rögzítése céljából köteles a lakcímbejelentési eljárást lefolytató hatóságnak átadni, a tároló elemmel ellátott személyazonosító igazolvány hiánya a lakcímbejelentési eljárás lefolytatásának nem akadálya. A lakcímbejelentési eljárást lefolytató hatóság a lakcímadatot a polgár tároló elemmel rendelkező személyazonosító igazolványán a lakcímadat nyilvántartásba vételével egyidejűleg rögzíti, ezt követően a tároló elemmel ellátott személyazonosító igazolványt a polgár részére haladéktalanul visszaadja.
+
+(1b) Ha a polgár a lakcímbejelentési eljárás időpontjában eltulajdonítás, elvesztés vagy megsemmisülés miatt érvényes tároló elemmel ellátott személyazonosító igazolvánnyal nem rendelkezik, az egyéb okból érvénytelen, vagy a lakcímadat rögzítésének átmeneti jellegű műszaki vagy technikai akadálya áll fenn, a lakcímadatot az új tároló elemmel ellátott személyazonosító igazolvány kiadását követően a személyiadat- és lakcímnyilvántartási kapcsolat rendelkezésre állásakor hivatalból kell rögzíteni.
 
 (2) A lakcímbejelentés bármely járási hivatalnál teljesíthető. Az értesítési cím bejelentése bármely járási hivatalnál, kijelölt kormányhivatalnál és a nyilvántartást kezelő központi szervnél teljesíthető. A lakcímbejelentés – jogszabályban meghatározott kivétellel – személyes megjelenéssel teljesíthető. Az értesítési cím elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelenthető.
 
@@ -741,7 +760,9 @@ foglalt adatokat tartalmazza.
 - e) a polgár adóazonosító jelét,
 - f) a személyazonosító igazolvány elektronikus egyedi azonosítóját,
 - g) a polgár kérelmére legfeljebb kettő, vészhelyzet esetén értesítendő telefonszámot,
-- h) a szolgáltatásazonosítót.
+- h) a szolgáltatásazonosítót,
+- i) a polgár lakcímadatát,
+- j) a polgár személyi azonosítóját.
 
 (8) A tároló elem az ujjnyomatot abból a célból tartalmazza, hogy az állandó személyazonosító igazolvány és a polgár közti kapcsolat kétséget kizáróan megállapítható legyen.
 
@@ -777,6 +798,14 @@ foglalt adatokat tartalmazza.
 (19) Ha a valamely jogosultságot nyújtó szerv vagy személy a Nektv.-ben meghatározott elektronikuskártya-kibocsátási keretrendszerhez kártyakibocsátóként nem csatlakozik, a szolgáltatásazonosító kezelésére akkor jogosult, ha valamely, a miniszter rendeletében meghatározott jogosultság fennállásának tényét a személyazonosító igazolvány jogosultjának természetes személyazonosító adataihoz hozzárendelten – a személyes adatok kezelésére irányadó előírások alapján – kezeli. A szolgáltatásazonosító kezelésére ebben az esetben, kizárólag ezen jogosultság fennállásának ellenőrzése céljából – a személyes adatok kezelésére irányadó előírások szerint – kerülhet sor.
 
 (20) A szolgáltatásazonosító alkalmazásával ellenőrzött egyes jogosultságokat tartalmazó nyilvántartások egymással való összekapcsolásához a szolgáltatásazonosító nem használható fel, a szolgáltatásazonosító személyazonosításra történő felhasználása tilos.
+
+(21) Ha az állandó személyazonosító igazolvány tároló eleme nem vagy nem helyesen tartalmazza a polgár társadalombiztosítási azonosító jelét, adóazonosító jelét, lakcímét, illetve személyi azonosítóját, abban az esetben a polgár kérelmére
+
+- a) az egészségbiztosítási szerv a polgár társadalombiztosítási azonosító jelét,
+- b) a Nemzeti Adó- és Vámhivatal a polgár adóazonosító jelét,
+- c) a nyilvántartás szervei a polgár lakcímét, illetve személyi azonosítóját
+
+a tároló elemen elhelyezi.
 
 29/A. § (1) A 29. § (9) bekezdésében foglalt esetek kivételével a személyazonosító igazolvány kiadása iránti kérelem előterjesztésekor a nyilvántartás szerve az ujjnyomatnak a személyazonosító igazolvány tároló elemén történő elhelyezése céljából rögzíti a polgár ujjnyomatát, ha a polgár a kérelem benyújtásakor 12. életévét betöltötte. Ha a polgár az ujjnyomat rögzítését visszautasítja, a személyazonosító igazolványt anélkül kell kiadni.
 
@@ -1183,6 +1212,8 @@ adatvédelmi tisztviselőt nevez ki.
 52/E. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 52/F. § E törvénynek az egyes ügyintézési folyamatok egyszerűsítéséről szóló 2019. évi LV. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a hatálybalépésüket követően indult és megismételt eljárásokban kell alkalmazni.
+
+52/G. § 2019. szeptember 30-át követően a tároló elemmel ellátott állandó személyazonosító igazolvány esetében a járási hivatal, a kijelölt kormányhivatal, a bv. szerv, a nyilvántartást kezelő szerv, illetve a konzuli tisztviselő a polgár erre irányuló kérelmére az állandó személyazonosító igazolvány tároló elemén rögzíti a polgár személyiadat- és lakcímnyilvántartás szerinti lakcímadatát és személyi azonosítóját.
 
 53. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
