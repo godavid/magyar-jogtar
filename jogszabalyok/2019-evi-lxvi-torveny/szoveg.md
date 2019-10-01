@@ -137,13 +137,59 @@ lép.
 
 46. §
 
-47. §
+47. § (1) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 15. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A céginformációs szolgálat az erre a célra szolgáló honlapján, azonosítást követően, jogszabályban meghatározottak szerint ingyenes céginformációt biztosít. Ingyenes céginformációként ismerhető meg a cég neve, székhelye, cégjegyzékszáma, esetleges európai egyedi azonosítója (a továbbiakban: EUID), főtevékenysége, képviseletére jogosult személyek adatai, továbbá arra vonatkozó adatok, hogy a cég végelszámolás, felszámolás, kényszertörlés alatt áll. A céginformációs szolgálat az azonosítással összefüggésben megismert személyes adatokat egy hónapig kezeli.”
+
+(2) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 15. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+„(1a) A céginformációs szolgálat a céget a cég adataiban bekövetkezett változásról a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségére megküldött, közokirati formában kiállított, elektronikus cégbizonyítvánnyal – ingyenesen – értesíti.
+
+(1b) A céginformációs szolgálat a cég részére a cég E-ügyintézési tv. szerinti hivatalos elérhetőségére minden hónapban – ingyenesen – közokirati formában kiállított, elektronikus cégkivonatot küld.”
 
 48. §
 
-49. §
+49. § (1) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 30. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-50. §
+„(4) A cég a változásbejegyzési kérelemben – a (4a) bekezdésben foglalt kivétellel – meghatározhatja a cégadata változásának időpontját. A változás időpontja azonban nem lehet korábbi, mint a változás alapjául szolgáló határozat meghozatalának napja. A változás időpontjának feltüntetése hiányában vagy ellentmondó adatok esetén a cégadat változásának időpontja az alapul szolgáló határozat meghozatalának a napja.”
+
+(2) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 30. §-a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A cég a jegyzett tőke leszállítása esetén a változás időpontját nem határozhatja meg. Ebben az esetben a változás időpontja a jegyzett tőke változás cégbírósági bejegyzésének napja.”
+
+50. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény IX. Fejezete a következő 6. és 7. Címmel egészül ki:
+
+„6. CÍM
+
+NYILVÁNTARTÁSBA BEJEGYZETT JOG ÉS TÉNY TÖRLÉSE IRÁNTI VAGYONRENDEZÉSI ELJÁRÁS
+
+124/B. § (1) Ha a jogutód nélkül törölt cég közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban valamely vagyontárgyra vonatkozó jog (ide nem értve a tulajdonjogot) jogosultjaként van bejegyezve, vagy valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, – ha a 130. § (2) bekezdése szerinti feltételek nem állnak fenn – a vagyontárgy tulajdonosának kérelmére a bíróság e § szerinti különleges vagyonrendezési eljárást folytat le.
+
+(2) A vagyontárgy tulajdonosa által benyújtott kérelemnek tartalmaznia kell a törölt cég azonosításához szükséges adatokat, valamint csatolni kell a vagyontárgy tulajdonjogát igazoló okiratokat, továbbá azokat az egyéb okiratokat és határozatokat, amelyek a jog vagy tény bejegyzésével összefüggésben a kérelmező rendelkezésére állnak.
+
+(3) Ha a kérelemben foglaltak megfelelnek a (2) bekezdésben foglaltaknak, a bíróság elrendeli az e § szerinti vagyonrendezési eljárás lefolytatását. Az e § szerinti eljárásban vagyonrendező kijelölésére nem kerül sor.
+
+(4) A bíróság a vagyonrendezési eljárás keretében megvizsgálja, hogy a jogutód nélküli megszűnéssel összefüggő cégiratokban (ideértve különösen a vagyonfelosztási okiratokat) volt-e rendelkezés a jog vagy tény más javára történő átengedéséről.
+
+(5) Ha jogutód nélküli megszűnéssel összefüggő irat (ideértve különösen a vagyonfelosztási okiratokat) nincs bírósági irattárban, és az más, a jogutód nélküli eljárásban részt vevő személytől, vagy a levéltártól nem szerezhető be, továbbá nem áll rendelkezésre más olyan okirat, amellyel hitelt érdemlő módon bizonyítható lenne annak ténye, hogy a kérelemmel érintett jog vagy tény mást illet meg, a bíróság a Cégközlönyben a törölt cég adatait, valamint a jog vagy tény megjelölését is tartalmazó végzést tesz közzé. A végzés felhívást tartalmaz arra, hogy akit a jog megillet, vagy akinek a tény feltüntetése az érdekében áll, ezt a közzétételtől számított harmincnapos jogvesztő határidőn belül – az azt megalapozó okiratok csatolásával – jelentheti be a bíróságnál.
+
+(6) Ha az (5) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a bíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára, vagy érdekében történő feljegyzéséhez érdek nem fűződik.
+
+(7) Ha az eljárás alapján az állapítható meg, hogy a kérelemben megjelölt jog vagy tény más javára történő átengedésére került sor, a bíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.
+
+(8) A közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban valamely vagyontárgyra vonatkozóan a törölt cég javára bejegyzett jog (ide nem értve a tulajdonjogot) vagy javára, illetve érdekében feljegyzett tény törlésére – az adott nyilvántartásra vonatkozó szabályoktól eltérően minden esetben – a (6) bekezdés szerinti végzés csatolásával kerülhet sor. Ebben az esetben az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
+
+7. CÍM
+
+VÉGELSZÁMOLÁS LEFOLYTATÁSÁT KÖVETŐEN TÖRÖLT CÉG VAGYONÁRA VONATKOZÓ KÉRELEMRE INDULÓ VAGYONRENDEZÉSI ELJÁRÁS
+
+124/C. § (1) Ha a végelszámolás lefolytatását és a cég törlését követően olyan vagyontárgy – ideértve a törölt cég pénzforgalmi számláján nyilvántartott egyenleget – kerül elő, amelynek a törölt cég a tulajdonosa, azonban arról a végelszámolási vagyonfelosztási javaslatban nem rendelkeztek, a törölt cég tagjának kérelmére e § szerinti vagyonrendezési eljárás lefolytatásának van helye.
+
+(2) A kérelemnek tartalmaznia kell a törölt cég azonosításához szükséges adatokat, valamint csatolni kell a vagyontárgy tulajdonjogát igazoló okiratokat, a végelszámolás során elfogadott vagyonfelosztási javaslatot, továbbá csatolni kell a törölt cég volt tagjai – a volt tag halála esetén örököse, jogi személy tag vonatkozásában bekövetkezett jogutódlás esetén a jogutód – által legalább teljes bizonyító erejű magánokiratba foglalt, e § szerinti eljárásban felmerült vagyontárgyra vonatkozó vagyonfelosztási javaslatot.
+
+(3) Az e § szerinti eljárásban vagyonrendező kijelölésére és vagyontárgy értékesítésére nem kerül sor.
+
+(4) Ha a kérelem és kérelemhez csatolt iratok megfelelnek a jogszabályi előírásoknak, a bíróság a vagyonfelosztási javaslatot végzésével jóváhagyja.”
 
 51. §
 
@@ -156,7 +202,7 @@ lép.
 - 5.
 - 6.
 - 7.
-- 8.
+- 8. 57. § (2) bekezdésében az „a cégbejegyzés napját megelőzné, a cégbíróság az átalakulás időpontjaként a cégbejegyzés napját tünteti fel” szövegrész helyébe az „a cégbejegyzés napját megelőzné, a cégbíróság az átalakulás időpontjaként a jogelőd cég törlésének napját tünteti fel” szöveg,
 - 9.
 - 10.
 
@@ -361,29 +407,82 @@ lép.
 
 #### 39. Egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény módosítása
 
-117. §
+117. § (1) Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 4. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-118. §
+„(5) A vagyonmérleg-tervezeteket és a vagyonleltár-tervezeteket, ha a jogi személynél ilyen működik, a felügyelőbizottsággal ellenőriztetni kell.”
 
-119. §
+(2) Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 4. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-120. §
+„(6) A vagyonmérleg-tervezeteket és a vagyonleltár-tervezeteket könyvvizsgálóval is ellenőriztetni kell, ha az átalakuló jogi személy a számviteli törvény előírása alapján könyvvizsgálatra kötelezett. Nem jogosult erre a jogi személy állandó könyvvizsgálója és az a könyvvizsgáló, aki az átalakulási vagyonmérleg-tervezet fordulónapját megelőző két üzleti évben a jogi személy számára könyvvizsgálatot vagy a nem pénzbeli vagyoni hozzájárulás értékének ellenőrzését végezte. A jogutód jogi személy állandó könyvvizsgálójává a jogi személy bejegyzésétől számított három üzleti éven belül nem jelölhető ki az a könyvvizsgáló, aki az átalakulási vagyonmérleg-tervezeteket ellenőrizte. A könyvvizsgálót megillető jogosultságokra a Ptk. 3:38. § (1) bekezdését kell alkalmazni.”
 
-121. §
+118. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 6. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-122. §
+„(6) A döntéshozó szerv a jogi személy átalakulásáról véglegesen döntő ülésén meghatározhatja azt az időpontot, amikor az átalakuláshoz fűződő joghatások beállnak, amely azonban nem lehet korábbi, mint a jogelőd cég törlésének napja. A döntéshozó szerv továbbá dönt az átalakulásról és a döntéshozó szerv felhatalmazása alapján az átalakuló jogi személy vezető tisztségviselője aláírja a jogutód létesítő okiratát.”
 
-123. §
+119. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 10. § (3) bekezdés nyitó szövegrésze helyébe a következő rendelkezés lép:
 
-124. §
+„(3) Ha a tag helytállási kötelezettsége az átalakuló jogi személy kötelezettségeiért a jogi személy fennállása alatt korlátozott, a (2) bekezdés szerinti hitelezői felhívás alapján a hitelező által kért biztosítékot az átalakuló jogi személy csak akkor tagadhatja meg, ha”
 
-125. §
+120. § (1) Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 11. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
 
-126. §
+„(1a) A jogelőd jogi személy törlésének és a jogutód jogi személy bejegyzésének hatálya nem eshet azonos napra.
 
-127. §
+(1b) Ha az átalakuló jogi személy az átalakulás időpontját meghatározza 6. § (6) bekezdése szerint, a jogelőd cég törlésére az átalakulás napjával kerül sor és a jogutód jogi személyt az azt követő nappal kell a cégjegyzékbe bejegyezni.
 
-128. §
+(1c) Ha az átalakuló jogi személy az átalakulás napját nem határozza meg vagy az átalakulás bejegyzésére későbbi időpontban kerül sor, az átalakulás napja a jogelőd jogi személy törlésének a napja.”
+
+(2) Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 11. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A (2) bekezdés szerinti végleges vagyonmérleget könyvvizsgálóval kell ellenőriztetni. A könyvvizsgálóra a 4. § (6) bekezdését kell alkalmazni.”
+
+121. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az egyesülni kívánó jogi személyek és az egyesüléssel létrejövő jogi személy vonatkozásában is készíteni kell vagyonleltár-tervezetekkel alátámasztott vagyonmérleg-tervezeteket. Ha az egyesüléssel érintett jogi személyek legalább egyike a számviteli törvény előírása alapján könyvvizsgálatra kötelezett jogi személy, valamennyi vagyonmérleg-tervezetet és vagyonleltár-tervezetet könyvvizsgálóval ellenőriztetni kell. Az egyesüléssel érintett jogi személyek döntése alapján a vagyonmérleg-tervezetek és vagyonleltár-tervezetek ellenőrzése során valamennyi jogi személy esetében eljárhat ugyanaz a könyvvizsgáló.”
+
+122. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 18. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(4) A szétválási terv elfogadásáról vagy módosításáról a szétváló jogi személy döntéshozó szerve dönt. Ha a tag a döntéshozatalban nem vesz részt és az 5. § alapján sem ismerhető meg szándéka, kiválás (beolvadásos kiválás) esetén úgy kell tekinteni, hogy a jogelőd továbbműködő jogi személy tagja kíván maradni, különválás (beolvadásos különválás) esetén pedig úgy kell tekinteni, hogy egyik jogutód jogi személynek sem kíván a tagja lenni.
+
+(5) Ha a szétválási szerződést a szétváló jogi személy döntéshozó szerve elfogadja, a jogutód új jogi személy létesítő okiratát és a továbbműködő jogi személy létesítő okirata módosítását a döntéshozó szerv felhatalmazása alapján a szétváló jogi személy vezető tisztségviselője írja alá.”
+
+123. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 20. §-a helyébe a következő rendelkezés lép:
+
+„20. § (1) Kiválás esetén a jogelőd továbbműködő jogi személyt, beolvadásos kiválás és beolvadásos különválás esetén a már működő jogi személyt, amelyhez a kiváló, különváló tag csatlakozik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból.
+
+(2) Ha a szétválás bejegyzése során a jogelőd jogi személy nyilvántartásból való törlésére nem kerül sor, a 6. § (6) bekezdése és a 11. § (1a)–(1c) bekezdése alkalmazásában a jogelőd jogi személy törlésének hatálya alatt a szétválási kérelemben a jogelőd továbbműködő jogi személy törölni kért nyilvántartási adata törlésének hatályát kell érteni.
+
+(3) Ha a szétválás bejegyzése során jogutódként új jogi személy nyilvántartásba való bejegyzésére nem kerül sor, a 6. § (6) bekezdése és a 11. § (1a)–(1c) bekezdése alkalmazásában a jogutód jogi személy bejegyzésének hatálya alatt a szétválásra vonatkozó nyilvántartási adaton kívüli, a szétválási kérelemben a már működő jogutód jogi személy vonatkozásában bejegyezni kért további nyilvántartási adat bejegyzésének hatályát kell érteni.
+
+(4) Ha a jogi személy a (2), illetve (3) bekezdés szerint adatváltozást a kérelemben nem tüntet fel, vagy a 6. § (6) bekezdés szerinti időpontot nem határoz meg vagy a szétválás bejegyzésére későbbi időpontban kerül sor, a szétválás időpontja a szétválás bejegyzésének napja.”
+
+124. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 6. alcím címe helyébe a következő rendelkezés lép:
+
+„6. A nyilvánosan működő részvénytársaság egyesülésére vonatkozó különös szabályok”
+
+125. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 23. §-a helyébe a következő rendelkezés lép:
+
+„23. § A nyilvánosan működő részvénytársaságok (ezen alcímben a továbbiakban: részvénytársaság) egyesülésére az ezen alcímben foglalt eltérésekkel a jogi személyek egyesülésének közös szabályait kell alkalmazni.”
+
+126. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 10. alcíme a következő 35/A. §-sal egészül ki:
+
+„35/A. § E törvénynek a Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit azokra az átalakulásokra, egyesülésekre, szétválásokra kell alkalmazni, amelyekről első ízben a Módtv. hatálybalépése után döntenek.”
+
+127. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 36. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ez a törvény
+
+a) a társasági jog területén az egyszemélyes korlátolt felelősségű társaságokról szóló 2009. szeptember 16-i 2009/102/EK európai parlamenti és tanácsi irányelvnek;
+
+b) a társasági jog egyes vonatkozásairól szóló, 2017. június 14-i (EU) 2017/1132 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.”
+
+128. § (1) Hatályát veszti az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 7. alcíme.
+
+(2) Hatályát veszti az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény
+
+- 1. 2. § (3) bekezdésében a „ , dönt a könyvvizsgáló személyéről” szövegrész, és
+- 2. 8. § (1) bekezdésében a „ , könyvvizsgáló által ellenőrzött” szövegrész.
 
 #### 40. A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosítása
 

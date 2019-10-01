@@ -14,7 +14,7 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 (2) A döntéshozó szerv első ízben a jogi személy ügyvezetésének – ha a jogi személynél felügyelőbizottság működik, a felügyelőbizottság által véleményezett – előterjesztése alapján azt állapítja meg, hogy a jogi személy tagjai egyetértenek-e az átalakulás szándékával. Ekkor dönt továbbá arról, hogy a jogi személy milyen más jogi személy típusba, gazdasági társaság esetén formába alakuljon át, és előzetesen felméri, hogy a jogi személy tagjai közül ki és mekkora vagyoni hozzájárulással kíván a jogutód jogi személy tagjává válni.
 
-(3) Ha a tagok az átalakulás szándékával egyetértenek, a döntéshozó szerv meghatározza a vagyonmérleg-tervezetek fordulónapját, dönt a könyvvizsgáló személyéről és megbízza a jogi személy ügyvezetését az átalakulási terv, valamint az átalakulási döntés meghozatalához szükséges egyéb – jogszabály által meghatározott vagy a döntéshozó szerv által előírt – okiratok elkészítésével.
+(3) Ha a tagok az átalakulás szándékával egyetértenek, a döntéshozó szerv meghatározza a vagyonmérleg-tervezetek fordulónapját és megbízza a jogi személy ügyvezetését az átalakulási terv, valamint az átalakulási döntés meghozatalához szükséges egyéb – jogszabály által meghatározott vagy a döntéshozó szerv által előírt – okiratok elkészítésével.
 
 3. § (1) Az átalakulási terv magában foglalja az átalakuló jogi személy vagyonmérleg-tervezetét és az azt alátámasztó vagyonleltár-tervezetét, a jogutód jogi személy (nyitó) vagyonmérleg-tervezetét és vagyonleltár-tervezetét, a jogutód jogi személy létesítő okiratának tervezetét, illetve a jogutód jogi személyben tagként részt venni nem kívánó személyekkel való elszámolás módjáról szóló tervezetet. Az átalakulási terv továbbá tartalmazhatja mindazon körülményeket, szempontokat, amelyek az átalakulási döntés meghozatalának megkönnyítése, a döntéshozó szerv ülésének jobb előkészítése érdekében szükségesek.
 
@@ -38,9 +38,9 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 (4) A vagyonmérleg-tervezetek és vagyonleltár-tervezetek elkészítésére, az átértékelésre vonatkozó részletes szabályokat, továbbá a jogutód jogi személy tervezett saját tőkéjének és jegyzett tőkéjének megállapítására vonatkozó részletes rendelkezéseket a számviteli törvény tartalmazza.
 
-(5) A vagyonmérleg-tervezeteket és a vagyonleltár-tervezeteket könyvvizsgálóval, továbbá – ha a jogi személynél ilyen működik – a felügyelőbizottsággal is ellenőriztetni kell. Nem jogosult erre a jogi személy könyvvizsgálója és az a könyvvizsgáló, aki az átalakulási vagyonmérleg-tervezet fordulónapját megelőző két üzleti évben a jogi személy számára könyvvizsgálatot vagy a nem pénzbeli vagyoni hozzájárulás értékének ellenőrzését végezte. A jogutód jogi személy könyvvizsgálójává a jogi személy cégbejegyzésétől számított három üzleti éven belül nem jelölhető ki az a könyvvizsgáló, aki az átalakulási vagyonmérleg-tervezeteket ellenőrizte.
+(5) A vagyonmérleg-tervezeteket és a vagyonleltár-tervezeteket, ha a jogi személynél ilyen működik, a felügyelőbizottsággal ellenőriztetni kell.
 
-(6) A könyvvizsgálót megillető jogosultságokra a Ptk. 3:38. § (1) bekezdését kell alkalmazni.
+(6) A vagyonmérleg-tervezeteket és a vagyonleltár-tervezeteket könyvvizsgálóval is ellenőriztetni kell, ha az átalakuló jogi személy a számviteli törvény előírása alapján könyvvizsgálatra kötelezett. Nem jogosult erre a jogi személy állandó könyvvizsgálója és az a könyvvizsgáló, aki az átalakulási vagyonmérleg-tervezet fordulónapját megelőző két üzleti évben a jogi személy számára könyvvizsgálatot vagy a nem pénzbeli vagyoni hozzájárulás értékének ellenőrzését végezte. A jogutód jogi személy állandó könyvvizsgálójává a jogi személy bejegyzésétől számított három üzleti éven belül nem jelölhető ki az a könyvvizsgáló, aki az átalakulási vagyonmérleg-tervezeteket ellenőrizte. A könyvvizsgálót megillető jogosultságokra a Ptk. 3:38. § (1) bekezdését kell alkalmazni.
 
 (7) A jogi személy vagyonának értékét, a saját tőke összegét a könyvvizsgáló által elfogadottnál magasabb értékben nem lehet meghatározni.
 
@@ -58,11 +58,11 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 (5) A jogutód jogi személyben tagként részt venni nem kívánó személyeket megillető vagyonhányadot a jogutód jogi személy nyilvántartásba vételét követő hatvan napon belül kell kiadni, kivéve, ha az érintettekkel kötött megállapodás eltérő időpontot jelöl meg.
 
-(6) A döntéshozó szerv a jogi személy átalakulásáról véglegesen döntő ülésén meghatározhatja azt az időpontot, amikor az átalakuláshoz fűződő joghatások beállnak, amely azonban nem lehet korábbi, mint a jogutód nyilvántartásba vételének napja. A döntéshozó szerv továbbá dönt az átalakulásról és a jogutód jogi személy tagjai aláírják a jogutód létesítő okiratát.
+(6) A döntéshozó szerv a jogi személy átalakulásáról véglegesen döntő ülésén meghatározhatja azt az időpontot, amikor az átalakuláshoz fűződő joghatások beállnak, amely azonban nem lehet korábbi, mint a jogelőd cég törlésének napja. A döntéshozó szerv továbbá dönt az átalakulásról és a döntéshozó szerv felhatalmazása alapján az átalakuló jogi személy vezető tisztségviselője aláírja a jogutód létesítő okiratát.
 
 7. § Az átalakulás elhatározásáról az átalakulásról véglegesen döntő döntéshozó szervi ülést követő tizenöt napon belül tájékoztatni kell a jogi személynél működő munkavállalói érdek-képviseleti szerveket.
 
-8. § (1) A tagok úgy is dönthetnek, hogy ha a vezető tisztségviselők az átalakuláshoz szükséges okiratokat előkészítik, az átalakulási javaslat érdemi elbírálásáról a döntéshozó szerv egy ülésen határoz. Ez esetben erre az ülésre el kell készíteni az átalakulási tervet, amelyben az ülés napját legfeljebb hat hónappal megelőző, a vezető tisztségviselők által meghatározott időpontra – mint mérlegfordulónapra – vonatkozó, könyvvizsgáló által ellenőrzött vagyonmérleg-tervezet és vagyonleltár-tervezet szerepelhet.
+8. § (1) A tagok úgy is dönthetnek, hogy ha a vezető tisztségviselők az átalakuláshoz szükséges okiratokat előkészítik, az átalakulási javaslat érdemi elbírálásáról a döntéshozó szerv egy ülésen határoz. Ez esetben erre az ülésre el kell készíteni az átalakulási tervet, amelyben az ülés napját legfeljebb hat hónappal megelőző, a vezető tisztségviselők által meghatározott időpontra – mint mérlegfordulónapra – vonatkozó vagyonmérleg-tervezet és vagyonleltár-tervezet szerepelhet.
 
 (2) Ha a létesítő okirat lehetővé teszi az ülés tartása nélküli döntéshozatalt, akkor e törvény alkalmazásában a döntéshozó szervi ülés alatt az írásbeli döntéshozatalt is érteni kell.
 
@@ -82,7 +82,7 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 (2) Az a hitelező, akinek az átalakuló jogi személlyel szemben fennálló követelése az átalakulásról hozott döntés első közzétételét megelőzően keletkezett, követelése erejéig az átalakuló jogi személytől a döntés második közzétételét követő harmincnapos jogvesztő határidőn belül megfelelő biztosítékot követelhet, ha az átalakulás követelésének kielégítését veszélyezteti.
 
-(3) Ha a tag helytállási kötelezettsége az átalakuló jogi személy kötelezettségeiért a jogi személy fennállása alatt korlátozott, a (2) bekezdésben foglalt rendelkezést csak akkor kell alkalmazni, ha
+(3) Ha a tag helytállási kötelezettsége az átalakuló jogi személy kötelezettségeiért a jogi személy fennállása alatt korlátozott, a (2) bekezdés szerinti hitelezői felhívás alapján a hitelező által kért biztosítékot az átalakuló jogi személy csak akkor tagadhatja meg, ha
 
 - a) az átalakulásról szóló döntés meghozatalakor a jogelőd jogi személynek a saját tőke felénél magasabb összegű köztartozása van, amelyre halasztást, fizetési könnyítést nem kapott;
 - b) az átalakulásról szóló döntés meghozatalakor a hitelező egyébként nem rendelkezik az átalakuláshoz kapcsolódó kockázattal arányos biztosítékkal;
@@ -94,7 +94,15 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 11. § (1) A jogutód jogi személy jogelődöt feltüntető bejegyzésével egyidejűleg a jogelőd jogi személyt a bíróság törli a nyilvántartásból a jogutód feltüntetése mellett. A jogutód nyilvántartásba történő bejegyzéséig, illetve a 6. § (6) bekezdése szerinti időpontig a jogelőd jogi személy a bejegyzett jogi személy típusban folytatja tevékenységét.
 
+(1a) A jogelőd jogi személy törlésének és a jogutód jogi személy bejegyzésének hatálya nem eshet azonos napra.
+
+(1b) Ha az átalakuló jogi személy az átalakulás időpontját meghatározza 6. § (6) bekezdése szerint, a jogelőd cég törlésére az átalakulás napjával kerül sor és a jogutód jogi személyt az azt követő nappal kell a cégjegyzékbe bejegyezni.
+
+(1c) Ha az átalakuló jogi személy az átalakulás napját nem határozza meg vagy az átalakulás bejegyzésére későbbi időpontban kerül sor, az átalakulás napja a jogelőd jogi személy törlésének a napja.
+
 (2) Az átalakulással létrejövő jogi személy bejegyzésének napját, illetve a jogi személy által az átalakulás időpontjaként meghatározott napot követő kilencven napon belül mind a jogelőd jogi személyre, mind a jogutód jogi személyre vonatkozóan a bejegyzés napjával, illetve a jogi személy által az átalakulás időpontjaként meghatározott nappal végleges vagyonmérleget kell készíteni. E vagyonmérleg és az átalakulási vagyonmérleg-tervezet szerint megállapított saját tőke közötti pozitív különbözetet a jegyzett tőkén felüli vagyonként kell figyelembe venni, negatív különbözet esetén pedig – ha arra a jegyzett tőkén felüli vagyon nem nyújt fedezetet, és a fedezetről a tagok az előzőekben megállapított kilencvennapos határidőn belül nem gondoskodtak – a jegyzett tőkét le kell szállítani. A végleges vagyonmérlegre vonatkozó részletes szabályokat a számviteli törvény tartalmazza.
+
+(2a) A (2) bekezdés szerinti végleges vagyonmérleget könyvvizsgálóval kell ellenőriztetni. A könyvvizsgálóra a 4. § (6) bekezdését kell alkalmazni.
 
 (3) Ha a bíróság az átalakulás bejegyzését megtagadja, az átalakulni kívánó jogi személy a korábbi típusban – gazdasági társaság esetén a korábbi formában – működik tovább.
 
@@ -104,7 +112,7 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 13. § (1) A döntéshozó szervi üléseket vagy az ülések valamelyikét az egyesülni kívánó jogi személyek összevontan is megtarthatják, az egyes egyesülő jogi személyek döntéseit azonban ilyenkor is külön-külön kell meghozni.
 
-(2) Az egyesülni kívánó jogi személyek és az egyesüléssel létrejövő jogi személy vonatkozásában is készíteni kell vagyonleltár-tervezetekkel alátámasztott vagyonmérleg-tervezeteket. Az egyesüléssel érintett jogi személyek döntése alapján a vagyonmérleg-tervezetek ellenőrzése során valamennyi jogi személy esetében eljárhat ugyanaz a könyvvizsgáló.
+(2) Az egyesülni kívánó jogi személyek és az egyesüléssel létrejövő jogi személy vonatkozásában is készíteni kell vagyonleltár-tervezetekkel alátámasztott vagyonmérleg-tervezeteket. Ha az egyesüléssel érintett jogi személyek legalább egyike a számviteli törvény előírása alapján könyvvizsgálatra kötelezett jogi személy, valamennyi vagyonmérleg-tervezetet és vagyonleltár-tervezetet könyvvizsgálóval ellenőriztetni kell. Az egyesüléssel érintett jogi személyek döntése alapján a vagyonmérleg-tervezetek és vagyonleltár-tervezetek ellenőrzése során valamennyi jogi személy esetében eljárhat ugyanaz a könyvvizsgáló.
 
 (3) Az egyesüléssel érintett jogi személyek tagjának az egyesülés elhatározásáról döntő első ülést követően az egyesülésben részt vevő jogi személyek ügyeiről az ügyvezetés az egyesüléssel összefüggő minden felvilágosítást köteles megadni.
 
@@ -159,9 +167,9 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 (3) Kiválás esetében az a jogi személy, amelyből a kiválás történik, a létesítő okirata módosítását követően változatlan jogi személy típusban, gazdasági társaság esetén változatlan formában működik tovább. Változatlan jogi személy típusban, gazdasági társaság esetén változatlan formában működik tovább – létesítő okirata módosítását követően – azon jogi személy, amelyhez beolvadásos kiválás és beolvadásos különválás során mint jogutódhoz csatlakozik a kiváló, különváló tag.
 
-(4) A szétválási terv elfogadásáról vagy módosításáról a szétváló jogi személy döntéshozó szerve dönt.
+(4) A szétválási terv elfogadásáról vagy módosításáról a szétváló jogi személy döntéshozó szerve dönt. Ha a tag a döntéshozatalban nem vesz részt és az 5. § alapján sem ismerhető meg szándéka, kiválás (beolvadásos kiválás) esetén úgy kell tekinteni, hogy a jogelőd továbbműködő jogi személy tagja kíván maradni, különválás (beolvadásos különválás) esetén pedig úgy kell tekinteni, hogy egyik jogutód jogi személynek sem kíván a tagja lenni.
 
-(5) A szétválási szerződést a szétváló jogi személy tagjai, valamint a jogutód jogi személyek tagjai (leendő tagjai) kötik meg egymással és írják alá. A jogutód új jogi személy létesítő okiratát csak azok a tagok írják alá, akik az adott jogutód tagjaivá válnak.
+(5) Ha a szétválási szerződést a szétváló jogi személy döntéshozó szerve elfogadja, a jogutód új jogi személy létesítő okiratát és a továbbműködő jogi személy létesítő okirata módosítását a döntéshozó szerv felhatalmazása alapján a szétváló jogi személy vezető tisztségviselője írja alá.
 
 19. § (1) A szétválási szerződés, illetve a jogutód jogi személyek létesítő okiratának aláírásától számított nyolc napon belül a szétváló jogi személy köteles a Cégközlönyben közlemény közzétételét kezdeményezni, amelyet két egymást követő lapszámban kell közzétenni.
 
@@ -171,7 +179,13 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 - b) a szétváló jogi személyt megillető jogok és terhelő kötelezettségek megosztására vonatkozó megállapodás legfontosabb rendelkezéseit, különösen a vagyonmegosztás arányát;
 - c) azt, hogy a hirdetményi határidő alatt hol kaphatnak tájékoztatást a hitelezők a követelésüket érintő vagyonmegosztási rendelkezésekről.
 
-20. § Kiválás esetén a jogelőd továbbműködő jogi személyt, beolvadásos kiválás és beolvadásos különválás esetén a már működő jogi személyt, amelyhez a kiváló, különváló tag csatlakozik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból.
+20. § (1) Kiválás esetén a jogelőd továbbműködő jogi személyt, beolvadásos kiválás és beolvadásos különválás esetén a már működő jogi személyt, amelyhez a kiváló, különváló tag csatlakozik, a szétválás bejegyzésekor a bíróság nem törli a nyilvántartásból.
+
+(2) Ha a szétválás bejegyzése során a jogelőd jogi személy nyilvántartásból való törlésére nem kerül sor, a 6. § (6) bekezdése és a 11. § (1a)–(1c) bekezdése alkalmazásában a jogelőd jogi személy törlésének hatálya alatt a szétválási kérelemben a jogelőd továbbműködő jogi személy törölni kért nyilvántartási adata törlésének hatályát kell érteni.
+
+(3) Ha a szétválás bejegyzése során jogutódként új jogi személy nyilvántartásba való bejegyzésére nem kerül sor, a 6. § (6) bekezdése és a 11. § (1a)–(1c) bekezdése alkalmazásában a jogutód jogi személy bejegyzésének hatálya alatt a szétválásra vonatkozó nyilvántartási adaton kívüli, a szétválási kérelemben a már működő jogutód jogi személy vonatkozásában bejegyezni kért további nyilvántartási adat bejegyzésének hatályát kell érteni.
+
+(4) Ha a jogi személy a (2), illetve (3) bekezdés szerint adatváltozást a kérelemben nem tüntet fel, vagy a 6. § (6) bekezdés szerinti időpontot nem határoz meg vagy a szétválás bejegyzésére későbbi időpontban kerül sor, a szétválás időpontja a szétválás bejegyzésének napja.
 
 21. § (1) A szétváló jogi személy vagyonmegosztás előtt szerzett jogainak érvényesítésére a szétválás után az a jogutód jogosult, amelyhez az adott jogot a szétválási szerződés telepítette.
 
@@ -189,9 +203,9 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 (3) Az átalakulás során olyan cégformát, gazdasági társasági formát kell választani, amely esetében legalább a törvény által az adott típusra, formára előírt legkisebb mértékű, vagy – ilyen törvényi előírás hiányában – a jogi személy által meghatározott jegyzett tőke követelménynek a jogi személy az átalakulással eleget tud tenni.
 
-#### 6. Részvénytársaságok egyesülésére vonatkozó különös szabályok
+#### 6. A nyilvánosan működő részvénytársaság egyesülésére vonatkozó különös szabályok
 
-23. § A részvénytársaságok egyesülésére az ezen alcímben foglalt eltérésekkel a jogi személyek egyesülésének közös szabályait kell alkalmazni.
+23. § A nyilvánosan működő részvénytársaságok (ezen alcímben a továbbiakban: részvénytársaság) egyesülésére az ezen alcímben foglalt eltérésekkel a jogi személyek egyesülésének közös szabályait kell alkalmazni.
 
 24. § (1) Részvénytársaságok egyesülése esetén az egyesülési szerződésben – a 14. § (1) bekezdésében foglaltakon túl – meg kell határozni:
 
@@ -260,27 +274,13 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 - a) az átvevő társaság a 25. § (1) bekezdése szerinti tájékoztatási kötelezettségének legalább az egyesülés napját megelőző harminc nappal, a 24. § (2) bekezdése szerinti tájékoztatási kötelezettségének legalább az előző tájékoztatási kötelezettséget megelőző harminc nappal – esetlegesen a 25. § (3) és (4) bekezdésében foglaltak alkalmazásával – eleget tett, és
 - b) a Ptk. 3:103. §-a szerinti kisebbségi jog gyakorlására lehetőség van és közgyűlési döntéshozatalt nem kezdeményeztek.
 
-#### 7. Zártkörűen működő részvénytársaságok szétválására vonatkozó különös szabályok
+#### 7.
 
-30. § Zártkörűen működő részvénytársaság szétválása esetén a részvénytársaságok egyesülésére vonatkozó szabályok az ezen alcímben foglalt eltérésekkel megfelelően alkalmazandók.
+30. §
 
-31. § (1) A szétválási szerződésben – a 18. § (1) bekezdésében és a 24. § (1) bekezdésében foglaltakon túl – meg kell határozni:
+31. §
 
-- a) a szétváló társaság vagyonának felosztását a jogutód társaságok között, a szétválással a jogutód társaságok tulajdonába kerülő vagyon leírásával;
-- b) a szétváló részvénytársaság részvényeinek elosztását a jogutód társaságok között, az elosztás szempontjainak bemutatásával.
-
-(2) A 24. § (2) bekezdése szerinti írásbeli beszámolóban az ügyvezetésnek tájékoztatást kell nyújtania az esetleges nem pénzbeli vagyoni hozzájárulásról is, valamint meg kell jelölnie, hogy az erről szóló könyvvizsgálói jelentést, valamint az írásbeli beszámolót melyik cégbírósághoz nyújtja be.
-
-(3) A 24. § (6) bekezdése szerinti döntés a kiterjedhet az ügyvezetés írásbeli beszámolójának megismerésére való lehetőség mellőzésére is.
-
-(4) A szétválási szerződés érvénytelenségének megállapítása esetén a szétválással létrejött társaság a jogutód nélküli megszűnésére vonatkozó helytállási szabályok szerint felel a szétválás bejegyzését, illetve a 6. § (6) bekezdése szerinti időpontot követően, de a szétválási szerződés érvénytelenségét megállapító határozat közzétételének napját megelőzően keletkezett kötelezettségeiért.
-
-32. § (1) A szétváláshoz nincs szükség a szétváló részvénytársaság közgyűlésének jóváhagyására, ha a szétválással létrejövő társaságok a szétváló társaság valamennyi részvényét és szavazati jogot biztosító egyéb értékpapírját a szétválással megszerzik, és a szétváló társaság
-
-- a) a 25. § (1) és (2) bekezdése szerinti tájékoztatási kötelezettségének – esetlegesen a 25. § (3) és (4) bekezdésében foglaltak alkalmazásával – legalább az egyesülés napját megelőző harminc nappal eleget tett, és
-- b) ügyvezetése eleget tett a 24. § (3) bekezdése szerinti kötelezettségének.
-
-(2) Ha a szétválás során a szétváló társaság részvényei a szétválással létrejövő társaságok között a szétváló társaság saját tőkéjéből való részesedésük arányában kerülnek felosztásra, nincs szükség a 24. § (2) bekezdése szerinti írásbeli beszámolóra és a 24. § (4) bekezdése szerinti könyvvizsgálói jelentésre, valamint azok közzétételére.
+32. §
 
 #### 8. Szövetkezetekre vonatkozó különös szabályok
 
@@ -298,17 +298,14 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 (3) Azon (1) bekezdés hatálya alá nem tartozó jogi személynek, amely az átalakulása, egyesülése, szétválása nyilvántartásba való bejegyzési kérelmét e törvény hatálybalépését követően nyújtja be, a jogutód jogi személy létesítő okiratát, illetve a változatlan típusban, formában továbbműködő jogi személy létesítő okiratának módosítását a Ptk. rendelkezéseivel összhangban kell meghatároznia, azonban az egyéb, a kérelemhez csatolandó okiratoknak a 2014. március 14-én hatályos előírásoknak kell megfelelniük.
 
+35/A. § E törvénynek a Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit azokra az átalakulásokra, egyesülésekre, szétválásokra kell alkalmazni, amelyekről első ízben a Módtv. hatálybalépése után döntenek.
+
 #### 11. Jogharmonizációs záradék
 
 36. § (1) Ez a törvény
 
-- a) a Szerződés 54. cikke (3) bekezdésének g) pontja alapján a részvénytársaságok szétválásáról szóló 1982. december 17-i 82/891/EGK hatodik tanácsi irányelvnek;
-- b) az egyszemélyes korlátolt felelősségű társaságokról szóló 1989. december 21-i 89/667/EGK tizenkettedik társasági jogi tanácsi irányelvnek;
-- c) az európai részvénytársaság statútumának a munkavállalói részvételre vonatkozó kiegészítéséről szóló 2001. október 8-i 2001/86/EK tanácsi irányelvnek;
-- d) az egész Közösségre kiterjedő egységes biztosítékok kialakítása érdekében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 48. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról szóló 2009. szeptember 16-i 2009/101/EK európai parlamenti és tanácsi irányelvnek;
-- e) a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról szóló 2009. szeptember 16-i 2009/109/EK európai parlamenti és tanácsi irányelvnek;
-- f) a részvénytársaságok egyesüléséről szóló 2011. április 5-i 2011/35/EU európai parlamenti és tanácsi irányelvnek;
-- g) a biztosítékok egyenértékűvé tétele céljából a részvénytársaságok alapításának, valamint tőkéjük fenntartásának és módosításának tekintetében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében az Európai Unió működéséről szóló szerződés 54. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról szóló 2012. október 25-i 2012/30/EU európai parlamenti és tanácsi irányelvnek
+- a) a társasági jog területén az egyszemélyes korlátolt felelősségű társaságokról szóló 2009. szeptember 16-i 2009/102/EK európai parlamenti és tanácsi irányelvnek;
+- b) a társasági jog egyes vonatkozásairól szóló, 2017. június 14-i (EU) 2017/1132 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
