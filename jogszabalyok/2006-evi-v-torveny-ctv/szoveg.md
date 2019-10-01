@@ -272,7 +272,11 @@ megismerhetők.
 
 (6) Az eltiltott személyekre vonatkozó adatok ingyenes céginformációként – külön jogszabályban meghatározott módon – keresőprogram segítségével, csoportosított lekérdezés útján ismerhetőek meg.
 
-15. § (1) A céginformációs szolgálat a cégjegyzékben szereplő fennálló vagy törölt adatok, valamint a bejegyzési (változásbejegyzési) kérelem elektronikusan rögzített, még be nem jegyzett adatainak a megismerését betekintéssel bárki számára ingyenesen és korlátozásmentesen biztosítja. A céginformációs szolgálat honlapján – a hitelezők védelme érdekében – biztosítja egyes cégjegyzék adatok ingyenesen történő megismerését.
+15. § (1) A céginformációs szolgálat az erre a célra szolgáló honlapján, azonosítást követően, jogszabályban meghatározottak szerint ingyenes céginformációt biztosít. Ingyenes céginformációként ismerhető meg a cég neve, székhelye, cégjegyzékszáma, esetleges európai egyedi azonosítója (a továbbiakban: EUID), főtevékenysége, képviseletére jogosult személyek adatai, továbbá arra vonatkozó adatok, hogy a cég végelszámolás, felszámolás, kényszertörlés alatt áll. A céginformációs szolgálat az azonosítással összefüggésben megismert személyes adatokat egy hónapig kezeli.
+
+(1a) A céginformációs szolgálat a céget a cég adataiban bekövetkezett változásról a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségére megküldött, közokirati formában kiállított, elektronikus cégbizonyítvánnyal – ingyenesen – értesíti.
+
+(1b) A céginformációs szolgálat a cég részére a cég E-ügyintézési tv. szerinti hivatalos elérhetőségére minden hónapban – ingyenesen – közokirati formában kiállított, elektronikus cégkivonatot küld.
 
 (2) Az (1) bekezdésben nem említett céginformációért, valamint ha a kérelmező a céginformációt közokirat formájában kéri, a kérelmező a céginformációs szolgálat tevékenységének igénybevételéért – a szolgáltatás költségeivel összhangban álló – költségtérítést köteles fizetni.
 
@@ -695,7 +699,9 @@ is fel kell tüntetni a cégjegyzékben.
 
 (3) A cégjegyzék valamennyi cégadat esetében tartalmazza a változás időpontját.
 
-(4) A cég a változásbejegyzési kérelemben meghatározhatja a 24. § (1) bekezdés b)–d), g) és h) pontjában, a 25. § (1) bekezdés a)–e), h), i), l), n), p), q), s) és t) pontjában foglalt adatok változásának időpontját. A változás időpontja azonban nem lehet korábbi, mint a változás alapjául szolgáló határozat meghozatalának napja. A változás időpontjának feltüntetése hiányában vagy ellentmondásos okiratok esetén az e bekezdés szerinti adatok változásának időpontja az alapul szolgáló határozat meghozatalának a napja.
+(4) A cég a változásbejegyzési kérelemben – a (4a) bekezdésben foglalt kivétellel – meghatározhatja a cégadata változásának időpontját. A változás időpontja azonban nem lehet korábbi, mint a változás alapjául szolgáló határozat meghozatalának napja. A változás időpontjának feltüntetése hiányában vagy ellentmondó adatok esetén a cégadat változásának időpontja az alapul szolgáló határozat meghozatalának a napja.
+
+(4a) A cég a jegyzett tőke leszállítása esetén a változás időpontját nem határozhatja meg. Ebben az esetben a változás időpontja a jegyzett tőke változás cégbírósági bejegyzésének napja.
 
 (5) Ha jogszabály másként nem rendelkezik és a cég bejegyzésére irányuló cégeljárásban a pénzbeli hozzájárulás befizetésének igazolására e törvény rendelkezései alapján sor kerülhet ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozattal, az ügyvezető a cég bejegyzését követő nyolc napon belül köteles a cég pénzforgalmi számláját megnyitni és a rendelkezésre bocsátott, a pénzforgalmi számla megnyitásáig a cég működése során fel nem használt pénzbeli vagyoni hozzájárulás összegét a számlára befizetni.
 
@@ -1041,7 +1047,7 @@ irányuló eljárás
 
 (1a) Az egyesülés és a szétválás bejegyzésére akkor kerülhet sor, ha az állami adó- és vámhatóság – a cégbírósági elektronikus értesítést követő öt munkanapon belül – elektronikus úton arról tájékoztatja a cégbíróságot, hogy az érintett cégnél az adókötelezettségek teljesítésének ellenőrzésére irányuló, illetve ezzel összefüggő hatósági eljárás nincs folyamatban, vagy ilyen adóigazgatási eljárást nem kezdeményez. Amennyiben a tájékoztatás szerint a cégnél eljárás van folyamatban, vagy az állami adó- és vámhatóság ilyen eljárást kezdeményez, az egyesülés és a szétválás az adóigazgatási eljárás jogerős befejezéséről szóló elektronikus tájékoztatást követően, ennek hiányában az (1) bekezdésben megállapított határidő kezdetétől számított 90. napon jegyezhető be.
 
-(2) Ha az átalakuló cég az átalakulás időpontját meghatározza, az átalakulás nem a cégbejegyzés napjával, hanem a cég által megadott napon következik be. A cég által meghatározott időpont nem lehet későbbi, mint a kérelem cégbírósághoz történt benyújtását követő kilencvenedik nap, illetve nem lehet korábbi, mint a cégbejegyzés napja. Ha a cég által meghatározott időpont a cégbejegyzés napját megelőzné, a cégbíróság az átalakulás időpontjaként a cégbejegyzés napját tünteti fel.
+(2) Ha az átalakuló cég az átalakulás időpontját meghatározza, az átalakulás nem a cégbejegyzés napjával, hanem a cég által megadott napon következik be. A cég által meghatározott időpont nem lehet későbbi, mint a kérelem cégbírósághoz történt benyújtását követő kilencvenedik nap, illetve nem lehet korábbi, mint a cégbejegyzés napja. Ha a cég által meghatározott időpont a cégbejegyzés napját megelőzné, a cégbíróság az átalakulás időpontjaként a jogelőd cég törlésének napját tünteti fel.
 
 (3) A cégforma változása esetén a cég átalakulását a létesítő okirat aláírásától, illetve elfogadásától számított hatvan napon belül kell bejelenteni a jogelőd cég székhelye szerint illetékes cégbíróságnak. Ezzel egyidejűleg kérni kell a jogelőd cég törlését is.
 
@@ -1884,6 +1890,34 @@ akkor a cégbíróság a kényszertörlési eljárást megszünteti, és kezdem�
 124/A. § (1) Ha a korlátolt felelősségű társaságban fennálló üzletrész olyan jogutód nélkül megszűnt tag tulajdonát képezte, amelynek székhelye a megszűnéskor nem Magyarországon volt és a megszüntetésre irányuló eljárást nem Magyarországon folytatták le, vagyonrendezési eljárás lefolytatására nem kerül sor.
 
 (2) Az érintett korlátolt felelősségű társaság a megszűnt tag üzletrészére vonatkozó adatokról a Cégközlönyben közleményt köteles közzétenni azzal, hogy akinek az üzletrészre vonatkozóan igénye van, azt három hónapon belül jelentse be. Ha ilyen bejelentésre nem kerül sor, a megszűnt tag üzletrészét haladéktalanul be kell vonni. Amennyiben az igényt három hónapon túl jelentették be, a társaságtól csak a bevont üzletrész értékét lehet igényelni, a közzétételtől számított egyéves jogvesztő határidőn belül.
+
+### 6. CÍM — NYILVÁNTARTÁSBA BEJEGYZETT JOG ÉS TÉNY TÖRLÉSE IRÁNTI VAGYONRENDEZÉSI ELJÁRÁS
+
+124/B. § (1) Ha a jogutód nélkül törölt cég közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban valamely vagyontárgyra vonatkozó jog (ide nem értve a tulajdonjogot) jogosultjaként van bejegyezve, vagy valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, – ha a 130. § (2) bekezdése szerinti feltételek nem állnak fenn – a vagyontárgy tulajdonosának kérelmére a bíróság e § szerinti különleges vagyonrendezési eljárást folytat le.
+
+(2) A vagyontárgy tulajdonosa által benyújtott kérelemnek tartalmaznia kell a törölt cég azonosításához szükséges adatokat, valamint csatolni kell a vagyontárgy tulajdonjogát igazoló okiratokat, továbbá azokat az egyéb okiratokat és határozatokat, amelyek a jog vagy tény bejegyzésével összefüggésben a kérelmező rendelkezésére állnak.
+
+(3) Ha a kérelemben foglaltak megfelelnek a (2) bekezdésben foglaltaknak, a bíróság elrendeli az e § szerinti vagyonrendezési eljárás lefolytatását. Az e § szerinti eljárásban vagyonrendező kijelölésére nem kerül sor.
+
+(4) A bíróság a vagyonrendezési eljárás keretében megvizsgálja, hogy a jogutód nélküli megszűnéssel összefüggő cégiratokban (ideértve különösen a vagyonfelosztási okiratokat) volt-e rendelkezés a jog vagy tény más javára történő átengedéséről.
+
+(5) Ha jogutód nélküli megszűnéssel összefüggő irat (ideértve különösen a vagyonfelosztási okiratokat) nincs bírósági irattárban, és az más, a jogutód nélküli eljárásban részt vevő személytől, vagy a levéltártól nem szerezhető be, továbbá nem áll rendelkezésre más olyan okirat, amellyel hitelt érdemlő módon bizonyítható lenne annak ténye, hogy a kérelemmel érintett jog vagy tény mást illet meg, a bíróság a Cégközlönyben a törölt cég adatait, valamint a jog vagy tény megjelölését is tartalmazó végzést tesz közzé. A végzés felhívást tartalmaz arra, hogy akit a jog megillet, vagy akinek a tény feltüntetése az érdekében áll, ezt a közzétételtől számított harmincnapos jogvesztő határidőn belül – az azt megalapozó okiratok csatolásával – jelentheti be a bíróságnál.
+
+(6) Ha az (5) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a bíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára, vagy érdekében történő feljegyzéséhez érdek nem fűződik.
+
+(7) Ha az eljárás alapján az állapítható meg, hogy a kérelemben megjelölt jog vagy tény más javára történő átengedésére került sor, a bíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.
+
+(8) A közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban valamely vagyontárgyra vonatkozóan a törölt cég javára bejegyzett jog (ide nem értve a tulajdonjogot) vagy javára, illetve érdekében feljegyzett tény törlésére – az adott nyilvántartásra vonatkozó szabályoktól eltérően minden esetben – a (6) bekezdés szerinti végzés csatolásával kerülhet sor. Ebben az esetben az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
+
+### 7. CÍM — VÉGELSZÁMOLÁS LEFOLYTATÁSÁT KÖVETŐEN TÖRÖLT CÉG VAGYONÁRA VONATKOZÓ KÉRELEMRE INDULÓ VAGYONRENDEZÉSI ELJÁRÁS
+
+124/C. § (1) Ha a végelszámolás lefolytatását és a cég törlését követően olyan vagyontárgy – ideértve a törölt cég pénzforgalmi számláján nyilvántartott egyenleget – kerül elő, amelynek a törölt cég a tulajdonosa, azonban arról a végelszámolási vagyonfelosztási javaslatban nem rendelkeztek, a törölt cég tagjának kérelmére e § szerinti vagyonrendezési eljárás lefolytatásának van helye.
+
+(2) A kérelemnek tartalmaznia kell a törölt cég azonosításához szükséges adatokat, valamint csatolni kell a vagyontárgy tulajdonjogát igazoló okiratokat, a végelszámolás során elfogadott vagyonfelosztási javaslatot, továbbá csatolni kell a törölt cég volt tagjai – a volt tag halála esetén örököse, jogi személy tag vonatkozásában bekövetkezett jogutódlás esetén a jogutód – által legalább teljes bizonyító erejű magánokiratba foglalt, e § szerinti eljárásban felmerült vagyontárgyra vonatkozó vagyonfelosztási javaslatot.
+
+(3) Az e § szerinti eljárásban vagyonrendező kijelölésére és vagyontárgy értékesítésére nem kerül sor.
+
+(4) Ha a kérelem és kérelemhez csatolt iratok megfelelnek a jogszabályi előírásoknak, a bíróság a vagyonfelosztási javaslatot végzésével jóváhagyja.
 
 ### X. Fejezet — Hatályba léptető és átmeneti rendelkezések,
 
