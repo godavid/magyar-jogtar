@@ -46,12 +46,8 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 6a. Egységes másnapi piac-összekapcsolás: a 2015/1222/EU bizottsági rendelet 2. cikk 26. pontjában meghatározott fogalom;
 - 6b. Egységes napon belüli piac-összekapcsolás: a 2015/1222/EU bizottsági rendelet 2. cikk 27. pontjában meghatározott fogalom;
 - 7. Egyetemes szolgáltatás: a villamosenergia-kereskedelem körébe tartozó sajátos villamosenergia-értékesítési mód, amely Magyarország területén bárhol, meghatározott minőségben a jogosult felhasználó számára méltányos, összehasonlítható, átlátható ár ellenében igénybe vehető;
-- 7a. Elektromos gépjármű: elektromos erőátviteli rendszerrel felszerelt gépjármű, amelynek meghajtása elsődlegesen villamos motorral történik és a motor a villamos energiát külsőleg újratölthető belső elektromos energiatároló rendszerből nyeri;
-- 7b. Elektromos gépjármű töltése: az elektromos gépjármű energiatárolójának töltése
-  - a) vagy az energiatároló cseréje az elektromos gépjármű energiatárolójának villamos energiával történő feltöltésére alkalmas töltőállomáson,
-  - b) a lakossági fogyasztó saját mért felhasználói berendezésén keresztül, amely tevékenység nem irányul gazdasági haszonszerzésre,
-  - c) a nem lakossági felhasználó saját mért felhasználói berendezésén keresztül vagy a vételező vételezési helyén, ha a tevékenység nem irányul haszonszerzésre,
-  - d) a felhasználó mért magánvezetékére csatlakozó, az elektromos gépjármű energiatárolójának villamos energiával történő töltésére alkalmas töltőállomáson keresztül;
+- 7a.
+- 7b.
 - 8. Elosztás: villamos energiának az elosztó hálózatokon történő továbbítása, a felhasználókhoz történő eljuttatása, illetve az ehhez kapcsolódó minden olyan műszaki és gazdasági tevékenység, amely a villamos energia megfelelő minőségű továbbítása érdekében szükséges;
 - 9. Elosztó hálózat: a villamos energia elosztására és csatlakozási pontra való eljuttatása céljára szolgáló vezetékrendszer – beleértve a tartószerkezeteket is –, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
 - 10. Előre fizetős mérő: olyan fogyasztásmérő berendezés, amely a fogyasztást csak az ellenérték előzetes megfizetése esetén teszi lehetővé;
@@ -123,7 +119,8 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 58. Termelő: aki villamos energiát termel;
 - 59. Termelői engedélyes: aki villamos energia termelői működési engedéllyel vagy kiserőművi összevont engedéllyel rendelkezik;
 - 60. Termelői vezeték: közcélúnak, magán- és közvetlen vezetéknek nem minősülő vezeték, hálózati elem, vagy átalakító- és kapcsolóberendezés, amely az erőmű által termelt villamos energiát a közcélú hálózat csatlakozási pontjára juttatja el, és erre felhasználó nem csatlakozik vagy vételező nem kapcsolódik;
-- 61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére, ide nem értve az elektromos gépjármű töltését;
+- 61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére;
+- 61a.
 - 62. Üzemi hiba: azon nem tervezett üzemi esemény, amely a villamosenergia-termelés, -átvitel vagy -elosztás tervszerű üzemmenetében nem szándékolt változást eredményez;
 - 63. Üzletszabályzat: az engedélyes általános szerződési feltételeit, valamint a villamos energiáról szóló törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendeletben (a továbbiakban: Vhr.) meghatározott elemeket tartalmazó, a Hivatal által jóváhagyott szabályzat;
 - 64.
@@ -668,8 +665,9 @@ való áttérés feltételeiről.
 39. § (1) Magánvezetéket a közcélú hálózatra közvetlenül csatlakozó felhasználó létesíthet a felhasználási helyén belül
 
 - a) saját maga villamosenergia-ellátása céljából,
-- b) kapcsolt vállalkozásai villamosenergia-ellátása céljából, vagy
-- c) olyan vételezők vagy más felhasználók villamosenergia-ellátása céljából, amelyek tevékenységei vagy termelési folyamatai egymás tevékenységeivel vagy termelési folyamataival műszaki és biztonsági okokból összefüggenek.
+- b) kapcsolt vállalkozásai villamosenergia-ellátása céljából,
+- c) olyan vételezők vagy más felhasználók villamosenergia-ellátása céljából, amelyek tevékenységei vagy termelési folyamatai egymás tevékenységeivel vagy termelési folyamataival műszaki és biztonsági okokból összefüggenek, vagy
+- d) a közúti közlekedésről szóló törvény szerinti nyilvános töltőberendezés létesítése céljából.
 
 (1a) Magánvezetékhez termelő is kapcsolódhat azzal, hogy a termelő berendezés létesítését – a magánvezetékre történő kapcsolódás feltételeiben való megállapodást követően – a magánvezeték engedélyesének a hálózati engedélyes részére előzetesen be kell jelentenie, továbbá a hálózati engedélyessel előzetesen meg kell állapodniuk a csatlakozási ponton teljesítendő műszaki és gazdasági feltételekben.
 
@@ -1399,7 +1397,7 @@ egyoldalú módosítása
 - h) a 39. § (1) bekezdés b) és c) pontja szerinti magánvezeték létesítése, bővítése és megszüntetése, az egy épületen belül elhelyezkedő magánvezeték létesítése, bővítése és megszüntetése kivételével,
 - i) a közvetlen vezeték létesítése és megszüntetése, az erőmű telephelyén lévő vételezőket ellátó közvetlen vezeték kivételével,
 - j) közvilágítási berendezések üzemeltetése a közvilágítási elosztó hálózat közvilágítási berendezései kivételével,
-- k) elektromos gépjármű töltése a 3. § 7b. pont b) és c) alpontjának kivételével,
+- k)
 - l) a 0,5 MW és az ezt meghaladó névleges kimeneti teljesítőképességű villamosenergia-tároló üzemeltetése.
 
 (2)
@@ -1641,9 +1639,7 @@ működtetésére vonatkozó engedély
 - a) az átadó által ellátott felhasználók száma,
 - b) az átadó által ellátott felhasználókat érintő olyan körülmények és kockázatok bemutatása, amelyek az átadás-átvétel következtében merülhetnek fel.
 
-### Elektromos gépjármű töltésére vonatkozó engedély
-
-90/B. § Az elektromos gépjármű töltésére vonatkozó engedély határozatlan időre szól.
+#### 90/B. §
 
 ### A villamosenergia-tárolói engedély
 
@@ -3185,7 +3181,7 @@ nem változtathatja meg.
 - 46. a kábelcsere kezdeményezésére, a kábelcsere-ütemezési terv elkészítésére és elkészítésének szempontjaira, a kábelcserét kezdeményezőnek és az elosztónak a kábelcserével összefüggő jogaira és kötelezettségeire, valamint a kábelcsere-ütemezési terv Hivatal általi jóváhagyására és felülvizsgálatára vonatkozó szabályokat,
 - 47. a 714/2009/EK rendelet alapján általános hatályú közvetlenül alkalmazandó európai uniós jogi aktusokban tagállami hatáskörbe utalt, egyes követelmények meghatározásáért felelős rendszerüzemeltetőre vonatkozó kijelöléseket,
 - 48. a villamosenergia-kereskedő által az átvételi kötelezettség alá eső villamos energia átvétele és megfizetése alóli mentesség céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat,
-- 49. az elektromos gépjármű töltésére vonatkozó engedélyre, a töltőállomás üzemeltető jogaira és kötelezettségeire, az elektromos gépjármű töltésére, valamint a töltőállomás-üzemeltető és az elektromos gépjármű töltését igénybe vevő közötti jogviszonyra vonatkozó szabályokat,
+- 49.
 - 50. a villamosenergia-tárolóra és létesítésére, a villamosenergia-tárolói engedélyre, a villamosenergia-tárolói engedélyes jogaira és kötelezettségeire, a villamosenergia-tároló üzemeltetésére vonatkozó szabályokat, valamint a villamosenergia-tárolói engedélyes és az elosztó által működtetett tároló teljesítményére és a kapacitás mértékére vonatkozó részletszabályokat,
 - 51. a szélerőművek, illetve szélerőmű parkok építésére és használatbavételére kiadható hatósági engedélyek számát és az engedélyezhető szélerőművek, illetve szélerőmű parkok teljesítményét,
 - 52. a bejelentett és jogosult villanyszerelők nyilvántartására, regisztrációjára vonatkozó részletes szabályokat, valamint a nyilvántartást vezető műszaki biztonsági hatóságot,
