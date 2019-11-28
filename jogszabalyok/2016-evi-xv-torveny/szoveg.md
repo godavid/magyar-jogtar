@@ -215,9 +215,9 @@ rendelkezik.
 
 (5) A (2) bekezdés tekintetében szakmai gyakorlatnak számít pénzügyi intézménynél, befektetési alapkezelőnél, befektetési vállalkozásnál, biztosítónál, a Hatóságnál, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál szakirányú területen munkavégzésre irányuló jogviszonyban eltöltött idő vagy ingatlan vásárlására létrehozott fogyasztói csoport szervezésével összefüggő szakmai, vezetői gyakorlat.
 
-(6) A szervező igazgatósága legalább egy tagjának legalább 5 évi, a fogyasztói csoportokról szóló 530/2013. (XII. 30.) Korm. rendelet szerinti tevékenységet üzletszerűen végző cégben vezető tisztségviselőként eltöltött gyakorlattal kell rendelkeznie. Ennek a gyakorlatnak a meglétét olyan cég jogosult cégszerűen aláírt nyilatkozattal igazolni, aki nem áll felszámolási eljárás, csődeljárás, végelszámolás vagy kényszertörlés hatálya alatt, legalább 5 éven keresztül végzett ilyen tevékenységet és eleget tett a fogyasztói csoportokról szóló 530/2013. (XII. 30.) Korm. rendelet 1. § és 2. §-a szerinti minden bejelentési és adatszolgáltatási kötelezettségének.
+(6)
 
-(7) A (6) bekezdésben maghatározott szakmai gyakorlattal rendelkező igazgatósági tagnak a megbízatását a szervezői engedély kiadását követően, legalább 2 éven keresztül folyamatosan fenn kell tartani.
+(7)
 
 14. § (1) Nem lehet a szervező igazgatóságának tagja olyan személy,
 
