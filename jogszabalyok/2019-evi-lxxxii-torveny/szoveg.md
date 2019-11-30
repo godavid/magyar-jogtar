@@ -34,11 +34,7 @@ az ingatlan-nyilvántartást, valamint egyes közigazgatási hatósági eljárá
 
 12. §
 
-13. § Az Fttv. 40. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(4) A 11. § (1) bekezdés m)–o) pontja, valamint a 13. § (2) bekezdése 2022. január 1-jén lép hatályba.
-
-(5) A 15. § (1) bekezdése 2022. január 1-jén lép hatályba.”
+13. §
 
 14. §
 
@@ -64,24 +60,17 @@ az ingatlan-nyilvántartást, valamint egyes közigazgatási hatósági eljárá
 
 #### 7. A közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény módosítása
 
-23. § A közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény
-
-- a) 41. § (7) bekezdésében a „2020. január 1. napján” szövegrész helyébe a „2021. január 1. napján” szöveg,
-- b) 41. § (8) bekezdésében a „2020. január 2. napján” szövegrész helyébe a „2021. január 2. napján” szöveg
-
-lép.
+23. §
 
 #### 8. A közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljárások egyszerűsítésével összefüggő törvények módosításáról szóló 2017. évi CLXXXVI. törvény módosítása
 
 24. §
 
-25. § A Büromódtv. 79. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A 32. § (1)–(4) bekezdése 2021. január 1-jén lép hatályba.”
+25. §
 
 #### 9. A közigazgatási szabályszegések szankcióiról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2018. évi CXXIII. törvény hatályon kívül helyezése
 
-26. § Hatályát veszti a közigazgatási szabályszegések szankcióiról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2018. évi CXXIII. törvény.
+26. §
 
 #### 10. Záró rendelkezések
 
