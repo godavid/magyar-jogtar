@@ -1838,6 +1838,8 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (7) Ha az ingatlan pénzfizetésre irányuló bűnügyi követelést vagy ilyen polgári jogi igényt, illetve ilyen vagyonelkobzást biztosító bűnügyi zárlat tényével terhelt, és a bűnügyi zárlat bejegyzésére a végrehajtási jogot megelőzően került sor, az ingatlan értékesítése iránt kizárólag abban az esetben lehet intézkedni, ha a végrehajtási jog, a bűnügyi zárlat ténye jogosultjainak a követelései és a végrehajtási költségek várhatóan megtérülnek. Sikeres értékesítést követően a bűnügyi zárlattal biztosított összeget a jogosult részére nem lehet kiutalni, azt a végrehajtói letéti számlán kell kezelni.
 
+(8) Amennyiben az ingatlanon a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény alapján keletkezett tulajdonjog és a részletvételhez kapcsolódóan a magyar állam javára jelzálogjog és elidegenítési és terhelési tilalom van bejegyezve, abban az esetben az ingatlan becsértékének megállapítása iránt csak a tulajdonjog bejegyzéstől számított három év elteltével lehet intézkedni.
+
 ### Az ingatlan becsértéke
 
 140. § (1) A végrehajtó az ingatlan értékesítése előtt a 6 hónapnál nem régebbi adó- és értékbizonyítványt is figyelembe véve vagy – bármelyik fél erre irányuló kérelmére – igazságügyi szakértő szakvéleménye alapján megállapítja az ingatlan becsértékét mind a beköltözhető, mind pedig a lakott állapotban történő értékesítés esetére. Az adó- és értékbizonyítványnak, illetve a igazságügyi szakértő szakvéleményének tartalmaznia kell azt, hogy az ingatlan a 147. § (3) bekezdése szerint lakóingatlannak minősül-e.
