@@ -700,7 +700,7 @@ függetlenül attól, hogy használatba vették-e azokat vagy sem.
 
 (3) Jegyzett tőke részvénytársaságnál, korlátolt felelősségű társaságnál, egyéb vállalkozónál (ha e tekintetben cégbírósági bejegyzési kötelezettség terheli) a cégbíróságon bejegyzett tőke a létesítő okiratban meghatározott összegben.
 
-(4) A (3) bekezdés szerinti vállalkozónál az alaptőke, a törzstőke, az alapítói vagyon, az egyéb társasági részesedés felemelése, illetve leszállítása miatti jegyzett tőke-változást a cégjegyzékbe való bejegyzés alapján, a bejegyzés időpontjával kell a könyvviteli nyilvántartásokban rögzíteni.
+(4) A (3) bekezdés szerinti vállalkozónál az alaptőke, a törzstőke, az alapítói vagyon, az egyéb társasági részesedés felemelése, illetve leszállítása miatti jegyzett tőke-változást a cégjegyzékbe való bejegyzés alapján, a bejegyzés időpontjával, illetve ha a változás időpontja eltér a bejegyzés időpontjától, akkor a változás időpontjával kell a könyvviteli nyilvántartásokban rögzíteni.
 
 (5) A (3) bekezdés hatálya alá nem tartozó vállalkozónál jegyzett tőke a létesítő okiratban meghatározott, a tulajdonosok (a tagok) által tartósan rendelkezésre bocsátott – ténylegesen átadott – tőke.
 
@@ -2957,7 +2957,7 @@ tartalmazza.
 
 (8) A (4) bekezdés a) pontja szerinti könyv szerinti értéket az átalakuló gazdasági társaság e törvény szerinti beszámolója mérlegére vonatkozó előírásoknak megfelelően kell meghatározni, azzal, hogy a vagyonmérlegben az értékhelyesbítés és az értékhelyesbítés értékelési tartaléka, valamint az értékelési különbözet és a valós értékelés értékelési tartaléka nem szerepelhet, továbbá az adózott eredményt az eredménytartalékba át kell vezetni.
 
-(9) A vagyonmérleget (mind a vagyonmérleg-tervezetet, mind a végleges vagyonmérleget) és az azt alátámasztó vagyonleltárt (mind a vagyonleltár-tervezetet, mind a végleges vagyonleltárt) könyvvizsgálóval kell ellenőriztetni. A könyvvizsgálat célja annak megállapítása, hogy a vagyonmérleg-tervezetet és vagyonmérleget, valamint az azt alátámasztó vagyonleltár-tervezetet és vagyonleltárt a 136–143. § szerint állították-e össze. Az átalakulás számviteli bizonylata a könyvvizsgáló által hitelesített vagyonmérleg.
+(9) Ha a vagyonmérleget (a vagyonmérleg-tervezetet, a végleges vagyonmérleget) és az azt alátámasztó vagyonleltárt (a vagyonleltár-tervezetet, a végleges vagyonleltárt) könyvvizsgálóval kell ellenőriztetni az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvény előírásai alapján, a könyvvizsgálat célja annak megállapítása, hogy a vagyonmérleget, valamint az azt alátámasztó vagyonleltárt a 136–141. § szerint állították-e össze. Az átalakulás számviteli bizonylata a vagyonmérleg és az azt alátámasztó vagyonleltár.
 
 (10) Beolvadásos kiválás és beolvadásos különválás esetén a vagyonmérlegek (az azokat alátámasztó vagyonleltárak) elkészítése során a kiválás és a különválás szabályai mellett a beolvadás szabályait is megfelelően alkalmazni kell.
 
@@ -3033,9 +3033,9 @@ tartalmazza.
 
 141. § (1) Az átalakulás napjával, az átalakulás napját követő 90 napon belül végleges vagyonmérleget és végleges vagyonleltárt kell készíteni és a cégbíróságnál letétbe helyezni mind az átalakuló gazdasági társaságra, mind az átalakulással létrejövő gazdasági társaságra vonatkozóan.
 
-(2) A végleges vagyonmérleget és végleges vagyonleltárt a (3)–(4) és (7) bekezdés szerinti eltérésekkel a 136–140. és 142–143. §-ban foglaltaknak megfelelően kell elkészíteni.
+(2) A végleges vagyonmérleget és végleges vagyonleltárt a (3)–(4) és (7) bekezdés szerinti eltérésekkel a 136–140. §-ban foglaltaknak megfelelően kell elkészíteni.
 
-(3) Az átalakulás során megszűnő gazdasági társaság a végleges vagyonmérleg elkészítését megelőzően köteles az átalakulás napjával – mint mérlegfordulónappal – a számviteli törvény szerinti beszámolóját elkészíteni, az átalakulás napját követő 90 napon belül letétbe helyezni és közzétenni, analitikus és főkönyvi nyilvántartásait lezárni. Az az átalakuló gazdasági társaság, amely az átalakulás során nem szűnik meg (beolvadásnál az átvevő, kiválásnál a változatlan társasági formában továbbműködő gazdasági társaság), a végleges vagyonmérlegét a folyamatos könyvelés adatai alapján készíti el, analitikus és főkönyvi nyilvántartásait nem zárja le, azokat folyamatosan köteles vezetni, az átvett-átadott eszközöket-kötelezettségeket (ideértve a céltartalékokat és az időbeli elhatárolásokat is), ezek különbözeteként a saját tőkét a folyamatos könyvelés keretében – az átalakulás időpontjával – rendezi.
+(3) Az átalakulás során megszűnő gazdasági társaság a végleges vagyonmérleg elkészítését megelőzően köteles az átalakulás napjával – mint mérlegfordulónappal – a számviteli törvény szerinti beszámolóját elkészíteni, az átalakulás napját követő 90 napon belül letétbe helyezni és közzétenni, analitikus és főkönyvi nyilvántartásait lezárni. Az az átalakuló gazdasági társaság, amely az átalakulás során nem szűnik meg (beolvadásnál az átvevő, kiválásnál a változatlan társasági formában továbbműködő gazdasági társaság), a végleges vagyonmérlegét a folyamatos könyvelés adatai alapján készíti el, analitikus és főkönyvi nyilvántartásait nem zárja le, azokat folyamatosan köteles vezetni, az átvett-átadott eszközöket-kötelezettségeket (ideértve a céltartalékokat és az időbeli elhatárolásokat is), ezek különbözeteként a saját tőkét a folyamatos könyvelés keretében – az átalakulás (beolvadás, kiválás) napját követő nappal – rendezi.
 
 (3a) Az átalakulással létrejövő gazdasági társaság (kivéve beolvadásnál az átvevő, kiválásnál a változatlan társasági formában továbbműködő gazdasági társaságot) könyvviteli nyilvántartásait az átalakulás napját követő nappal nyitja meg a végleges vagyonmérlege és a végleges vagyonleltára alapján.
 
@@ -3055,7 +3055,7 @@ tartalmazza.
 
 ### Egyéb átalakulás
 
-144. § A gazdasági társaságon kívüli, egyéb gazdálkodó átalakulása során – ha az átalakulást törvényi előírás lehetővé teszi – a 136–143. § előírásait kell értelemszerűen alkalmazni, az alapul szolgáló külön törvény előírásai figyelembevételével.
+144. § A gazdasági társaságon kívüli, egyéb gazdálkodó átalakulása során – ha az átalakulást törvényi előírás lehetővé teszi – a 136–141. § előírásait kell értelemszerűen alkalmazni, az alapul szolgáló külön törvény előírásai figyelembevételével.
 
 ### Devizanemek közötti áttérés elszámolási szabályai
 

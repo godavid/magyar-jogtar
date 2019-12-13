@@ -3503,6 +3503,14 @@ Az egyes pénzügyi tárgyú törvények módosításáról szóló 2019. évi X
 
 E törvénynek az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel (a továbbiakban: Módtv.3) megállapított 78. § (6a) bekezdését a 2018. január 1-jén vagy azt követően kezdődő adóévekben szerzett jövedelmet vagy vagyont terhelő adókötelezettségek megállapításához kapcsolódó iratok tekintetében kell alkalmazni.
 
+#### 274/E. § [A 2019. adóévi társasági adóelőleg-kiegészítéshez kapcsolódó átmeneti rendelkezés]
+
+A Tao tv. 29/A. § (82) bekezdését alkalmazó adózó az adóelőleg-kiegészítéshez kapcsolódó fizetési bevallási kötelezettségét a 2019. adóéve utolsó hónapjának 20. napjáig teljesíti. Ha az adózó negyedéves előlegfizetésre kötelezett, úgy az utolsó negyedévi előlegét az előlegkiegészítéssel egyidejűleg teljesíti.
+
+#### 274/F. § [Átmeneti rendelkezés az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel megállapított rendelkezéseihez]
+
+E törvénynek az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel megállapított 113/A. § és a 113/B. § szerinti rendelkezéseit első alkalommal a 2020. március 1-jét követően teljesített bejelentésekre kell alkalmazni.
+
 #### 275. § [Az Európai Unió jogának való megfelelés]
 
 (1) E törvény 106. § (5) és (10) bekezdése, 107. § (5), (7) bekezdése és (8) bekezdés d) pontja, 108. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

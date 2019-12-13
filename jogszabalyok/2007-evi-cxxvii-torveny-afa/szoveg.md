@@ -3143,7 +3143,7 @@ közösségi adószám birtokában végezhet.
 
 257/E. § Amennyiben az adóalany az e törvény szerinti bejelentését az e törvényben előírt feltételek hiánya miatt nem tehette volna meg, bejelentését az előző naptári évről vagy annak utolsó hónapjáról, negyedévéről adott bevallásával egyidejűleg, a naptári év első napjára visszamenően módosíthatja.
 
-257/F. § Az adóalany az állami adó- és vámhatósághoz benyújtott kijavítási kérelem útján a bevallások utólagos adóellenőrzésének megkezdését megelőzően, az adó megállapításához való jog elévülési idején belül kezdeményezheti a 88. § (1) bekezdés, 192. § (1) bekezdés, 196/G. § (1) bekezdés, 197. § (1) bekezdés, 212/A. § (1) bekezdés, 218. § (1) bekezdés, 220. § (1) bekezdés, 224. § (1) bekezdés szerinti választásának vagy választása hiányának módosítását, feltéve, hogy a módosítás nem érinti az általa megállapított és bevallott adóalap, fizetendő adó és az előzetesen felszámított, levonható adó összegét.
+257/F. § Az adóalany az állami adó- és vámhatósághoz benyújtott kijavítási kérelem útján a bevallások utólagos adóellenőrzésének megkezdését megelőzően, az adó megállapításához való jog elévülési idején belül kezdeményezheti a 20. § (5) bekezdése, 30. § (4) bekezdése, 45/A. § (5) bekezdése, 80. § (2) bekezdés b) pontja, 80/A. § (1) bekezdése, 88. § (1) bekezdése, 192. § (1) bekezdése, 196/G. § (1) bekezdése, 197. § (1) bekezdése, 212/A. § (1) bekezdése, 218. § (1) bekezdése, 220. § (1) bekezdése, 224. § (1) bekezdése szerinti választásának vagy választása hiányának módosítását, feltéve, hogy a módosítás nem érinti az általa megállapított és bevallott adóalap, fizetendő adó és az előzetesen felszámított, levonható adó összegét.
 
 ### Adatszolgáltatás
 
@@ -3633,6 +3633,10 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 329. § E törvénynek az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel (a továbbiakban: Mód10 törvény) módosított 98. § (2) bekezdés a) pontja, 98. § (5) bekezdése, 101. § (2) bekezdés a) pontja, 102. § (1) bekezdés b) pontja alkalmazható ezen módosítások hatálybalépését megelőzően teljesített ügyletekre is.
 
 330. § E törvénynek a Mód10 törvénnyel módosított 165. § (1) bekezdés b) pontja alkalmazható a 2018. december 31-ét követően teljesített ügyletek esetében is.
+
+336. § (1) Az egyszerűsített vállalkozói adó alanya – az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 2020. január 1. napjával történő hatályon kívül helyezése következtében keletkező adóalanyiságához kapcsolódóan – 2020. január 15. napjáig teljesíti az Art. 16. § (2) bekezdése szerinti nyilatkozattételi kötelezettséget. A határidő elmulasztása miatt igazolási kérelem benyújtásának nincs helye.
+
+(2) Nyilatkozattétel hiányában úgy kell tekinteni, hogy az adóalany 2020. január 1. napjától e törvénynek a választás hiányában rá irányadó szabályait alkalmazza.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
