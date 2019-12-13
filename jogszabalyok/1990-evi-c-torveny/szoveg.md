@@ -859,6 +859,10 @@ elektronikus úton megküldi az állami adóhatóság részére.
 
 51/I. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel (a továbbiakban: Eadtv.) megállapított 41. § (9) bekezdést annak a naptári évtől eltérő üzleti évet választó vállalkozónak is alkalmaznia kell a 2019. évben kezdődő adóévében, amelynek ezen adóéve utolsó hónapjának 20. napja az Eadtv. hatálybalépését követő időszakra esik.
 
+51/J. § (1) 2019. december 31-én az egyszerűsített vállalkozói adó hatálya alá tartozó adóalany a helyi iparűzési adóalapját a 2019. évben kezdődő adóévre a 2019. december 31-én hatályos 39/B. § (1) bekezdése szerint is megállapíthatja.
+
+(2) Nem kell a 41. § (9) bekezdés rendelkezését alkalmaznia a 2019-ben kezdődő adóévben a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 26. § (11) bekezdése szerinti szervezetnek.
+
 ### VII. Fejezet — Értelmező rendelkezések
 
 52. § E törvény alkalmazásában:
