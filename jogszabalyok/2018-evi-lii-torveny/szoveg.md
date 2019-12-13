@@ -225,6 +225,8 @@ harmincad része azokra a napokra, amelyekre az adófizetési kötelezettség fe
 
 (10) Az adóalap megállapításának különös szabályai hatálya alá tartozó esetben az egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításkor – az (1)–(5) bekezdésben meghatározottakon túlmenően – nem veszi számításba azt az időszakot, amelyen kifizetővel – a kifizető részére a tárgyév január 31-éig, az adóév egészére tett nyilatkozata alapján – az adóalap megállapításának különös szabályai hatálya alá tartozó adófizetési kötelezettséget eredményező jogviszonyban áll, feltéve, hogy a kifizető ezen időszakot az egyéni vállalkozónak minősülő természetes személlyel fennálló jogviszonya alapján őt terhelő adó alapjának megállapításkor számításba veszi.
 
+(11) Nem terheli szociális hozzájárulási adó azt a jövedelmet, amely az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 2019. december 31-én hatályos 18. § (4) bekezdése alapján mentesül a személyi jövedelemadó fizetési kötelezettség alól.
+
 ### II. Fejezet — ADÓKEDVEZMÉNYEK
 
 #### 10. A szakképzettséget nem igénylő és mezőgazdasági munkakörben foglalkoztatott munkavállalók után érvényesíthető adókedvezmény
@@ -520,6 +522,8 @@ irányadó rendelkezést tartalmaz, azon – jogszabály eltérő rendelkezése 
 (4) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 462/H. §-a szerint a kutatás-fejlesztési tevékenység után érvényesíthető adókedvezményt a kifizető az annak érvényesítésére nyitva álló határidő lejártáig a 2018. december 31-én hatályos rendelkezések szerint érvényesítheti. Az e bekezdés szerint érvényesített adókedvezmény összege nem haladhatja meg a kutatás-fejlesztési tevékenység közvetlen költségei között megjelenő, munkaviszonyban foglalkoztatott munkavállalók vonatkozásában a 16. § szerint érvényesített kedvezmény után fennmaradó adókötelezettség összegét.
 
 36/A. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5. § (1) bekezdés i) pontja, 7. §-a, 22. §-a és 27. §-a 2019. január 1-jétől alkalmazható.
+
+36/B. § A Versenyképesebb Magyarországért program egyes adóintézkedéseinek megvalósítását szolgáló törvények módosításáról szóló 2019. évi C. törvénnyel megállapított 9. § (11) bekezdés a 2019. január 1-jétől keletkezett adókötelezettségre is alkalmazható.
 
 #### 23. Módosító rendelkezések
 

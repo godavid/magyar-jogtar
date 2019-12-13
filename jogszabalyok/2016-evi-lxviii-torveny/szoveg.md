@@ -54,6 +54,7 @@ az e törvényben, valamint a Nemzeti Adó- és Vámhivatalról szóló törvén
 - 15. elektronikus kiviteli elismervény: az e-TKO-val harmadik országba történő kiszállítás céljára feladott jövedéki termék harmadik országba történt kiléptetéséről a kivitel helye szerinti tagállam illetékes hatósága (belföldön az állami adó- és vámhatóság) által az uniós számítógépes rendszerben kiállított, a 684/2009/EK rendeletben meghatározott adattartalmú elektronikus okmány;
 - 16. eseti bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki terméket egy alkalommal átvenni jogosult személy;
 - 17. e-TKO: az uniós számítógépes rendszerben a jövedéki termék feladója által kiállított, AHK-számmal ellátott elektronikus okmány;
+- 17a. étrend-kiegészítő: az egészségügyért felelős miniszter rendeletében ekként meghatározott és forgalomba hozatalra bejelentett (beleértve az Európai Gazdasági Térség más tagállamában fogalomban lévő termék első bejelentésének a rendelet szerinti belföldi benyújtását is) termék;
 - 18. Európai Unió: az Európai Unióról szóló szerződésben meghatározott tagállamok területe azzal az eltéréssel, hogy
   - a) nem tekintendők a tagállamhoz tartozónak aa) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno és Campione d'Italia területe, valamint a Luganói-tó olasz vizei, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint ab) a Francia Köztársaság esetében az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikk (1) bekezdésében említett francia területek, a Spanyol Királyság esetében a Kanári-szigetek, a Nagy-Britannia és Észak-Írország Egyesült Királysága esetében a Csatorna-szigetek, a Finn Köztársaság esetében az Aland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
   - b) a Monacói Hercegség a Francia Köztársaság területéhez, Jungholz és Mittelberg (Kleines Walsertal) tartományok a Németországi Szövetségi Köztársaság területéhez, a Man sziget a Nagy-Britannia és Észak-Írország Egyesült Királysága területéhez, a San Marino Köztársaság az Olasz Köztársaság területéhez, a Nagy-Britannia és Észak-Írország Egyesült Királysága ciprusi felségterületei (Akrotiri és Dhekelia) a Ciprusi Köztársaság területéhez tartozónak tekintendő;
@@ -624,7 +625,8 @@ formájában.
 - g) a hulladékhasznosítási tevékenység során – a 48. § (1) bekezdése szerinti bejelentési kötelezettség teljesítése mellett – köztes fázisban keletkezett egyéb ellenőrzött ásványolajat,
 - h) a biológiai ecet előállítása során – a 48. § (3) bekezdése szerinti bejelentési kötelezettség teljesítése mellett – köztes fázisban keletkezett alkoholterméket,
 - i) az energiatermékek közé tartozó adózott adalék legfeljebb 0,2 térfogatszázalék arányban adózott üzemanyagba történő bekeverése során keletkezett energiaterméket,
-- j) a lé nélküli alkoholos gyümölcs 133. § (1) bekezdés h) pontja szerinti csokoládé előállításához történő felhasználását.
+- j) a lé nélküli alkoholos gyümölcs 133. § (1) bekezdés h) pontja szerinti csokoládé előállításához történő felhasználását,
+- k) az adózott jövedéki termék felhasználásával előállított étrend-kiegészítőt.
 
 (2) Adózatlan jövedéki termékből az adófizetési kötelezettség alól mentesült jövedéki termék vagy egyéb termék adóraktárban állítható elő.
 
@@ -1285,7 +1287,7 @@ szolgálhat.
 - a) a
   - aa) szabadforgalomba bocsátott ellenőrzött energiatermékkel – kivéve az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű és az 1 liter vagy 1 kilogramm vagy annál kisebb kiszerelésű egyéb ellenőrzött ásványolajat, valamint az 5 kilogramm vagy annál kisebb kiszerelésű LPG-t –,
   - ab) kenőolajjal,
-  - ac) szabadforgalomba bocsátott sörrel, csendes és habzóborral, egyéb csendes és habzó erjesztett itallal, köztes alkoholtermékkel és alkoholtermékkel – kivéve a 3. § (3) bekezdés 1. pont c) alpontja szerinti terméket –, valamint
+  - ac) szabadforgalomba bocsátott sörrel, csendes és habzóborral, egyéb csendes és habzó erjesztett itallal, köztes alkoholtermékkel és alkoholtermékkel – kivéve a 3. § (1) bekezdés 17a. pontja és (3) bekezdés 1. pont c) alpontja szerinti terméket –, valamint
   - ad) szabadforgalomba bocsátott dohánygyártmánnyal
 
 a kereskedelemről szóló törvény szerinti nagykereskedelmi tevékenység – ide nem értve az üzemanyagkártyával értékesített (beszerzett), felhasznált üzemanyag utólagos, pénzügyi-technikai jellegű elszámolását, ha az elszámolásról a felek írásban megállapodtak –, továbbá – az adóraktár engedélyesét kivéve – üzemanyagnak nem a 69. § és 72. § szerinti értékesítése,
@@ -1392,7 +1394,8 @@ forgalmazhat.
 - g) a 2207 10 00-2208 90 99 KN-kód szerinti, a 3. § (3) bekezdés 1. pont c) alpontja szerinti alkoholtermék előállítására adózottan értékesített alkoholterméket,
 - h) a 2208 20 12-2208 90 99 KN-kód szerinti, 1,2 térfogatszázaléknál nagyobb alkoholtartalmú, az adófizetési kötelezettség alól mentesült terméket,
 - i) a 9. § (1) bekezdés a) és b) pontja szerint értékesített jövedéki terméket, akkor is, ha az utas vagy a repülőgép úti célja tagállam, és
-- j) az új dohánytermék-kategóriákat.
+- j) az új dohánytermék-kategóriákat,
+- k) az étrend-kiegészítőt.
 
 (2) A zárjegyet a Magyar Állam állíttatja elő és az állami adó- és vámhatóság bocsátja megrendelés alapján és
 
@@ -2447,6 +2450,8 @@ kell kiskereskedelmi eladási árnak tekinteni.
 (22) A (2) bekezdés szerinti nyilatkozatban közvetlen elektronikus adatkapcsolaton keresztül történő adatküldést választó adatszolgáltatásra kötelezett személynek az adatküldés tesztelését 2017. május 15-ig meg kell kezdenie az állami adó- és vámhatóságnál tesztelésre történő bejelentkezéssel, vagy igazolnia kell, hogy olyan számítógépes szoftvert kíván használni 2017. július 1-jétől az adatküldésre, amelynek tesztelése az állami adó- és vámhatóságnál 2017. május 15-ig megkezdődött. A tesztelésre kötelezett személy e bekezdésbeli kötelezettségének elmulasztása esetén a régi Jöt. szerint nyújtott jövedéki biztosítéka 0,5%-ának megfelelő összegű bírsággal sújtható.
 
 (23) Ha a (2)–(3), (5) és (16) bekezdés szerinti nyilatkozattételre kötelezett személy a jövedéki adóról szóló 2016. évi LXVIII. törvény módosításáról szóló 2017. évi XXI. törvény hatályba lépéséig a (2)–(3), (5) és (16) bekezdés szerinti nyilatkozatot tett, akkor az állami adó- és vámhatóság a határidőt megtartottnak tekinti és lefolytatja a jövedéki adóról szóló 2016. évi LXVIII. törvény módosításáról szóló 2017. évi XXI. törvénnyel megállapított (2)–(3), (5) és (16) bekezdés szerinti eljárást.
+
+(24) A 19. § (1) bekezdés k) pontja, a 67. § (1) bekezdés a) pont ac) alpontja és a 74. § (1) bekezdés k) pontja szerinti rendelkezést az e bekezdés hatálybalépésekor folyamatban lévő adóigazgatási eljárásban is alkalmazni kell.
 
 151. § A 2017. július 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 

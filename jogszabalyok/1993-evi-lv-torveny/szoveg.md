@@ -385,6 +385,4 @@ ellátva kell csatolni.
 
 25. § E törvénynek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény, a magyar állampolgárságról szóló 1993. évi LV. törvény és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XIV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor folyamatban lévő honosítási, visszahonosítási eljárásra is alkalmazni kell.
 
-### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
-
 26. § E törvény 1. § (1) és (2) bekezdése, 1. § (4) bekezdése, 2–4. §-a, 4/A. § (2) bekezdése, 5. §-a, 5/A. § (1) és (1a) bekezdése, 7. § (2) és (3) bekezdése, 8. § (1) és (2) bekezdése, 8. § (4) bekezdése, 9. § (1) és (4) bekezdése, 23. §-a és 25. §-a az Alaptörvény G) cikk (4) bekezdése alapján sarkalatosnak minősül.

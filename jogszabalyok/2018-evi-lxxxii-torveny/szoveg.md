@@ -946,7 +946,7 @@ p) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférh
 
 (7) Az 1. melléklet 5. pontja 2019. július 1-jén lép hatályba.
 
-(8) A 8. §, a 65. § 2–4. pontja és a 241. § (2) bekezdése 2020. január 1-jén lép hatályba.
+(8) A 8. § (1) bekezdése és a 241. § (2) bekezdése 2020. január 1-jén lép hatályba.
 
 (9) Az 56. § és a 241. § (3) bekezdése 2021. január 1-jén lép hatályba.
 
