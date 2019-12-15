@@ -25,15 +25,18 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 - o) határokon átnyúló távértékesítés: fogyasztók részére történő távértékesítés, amelynek során a fogyasztó a termék kiskereskedelmi egységből való megrendelésének időpontjában egy olyan tagállamban tartózkodik, amely nem a kiskereskedelmi egység letelepedése szerinti tagállam vagy harmadik ország; egy kiskereskedelmi egység akkor tekinthető egy adott tagállamban letelepedett kiskereskedelmi egységnek:
   - oa) természetes személy esetében: ha a természetes személy vállalkozásának telephelye az adott tagállamban található;
   - ob) más esetben: ha a kiskereskedelmi egység létesítő okirat szerinti székhelye, központi ügyintézésének helye vagy telephelye – beleértve a fióktelepet, az ügynökséget vagy bármely más létesítményt – az adott tagállamban található;
-- p) elektronikus cigaretta: olyan egyszer használatos, vagy utántöltő flakonnal és tartállyal vagy egyszer használatos patronokkal utántölthető elektronikus termék, amely szopókán keresztül nikotintartalmú pára fogyasztását teszi lehetővé, vagy annak bármely alkatrésze, beleértve a patronokat, a tartályokat és a patron vagy tartály nélküli készüléket is;
+- p) elektronikus cigaretta: olyan egyszer használatos (eldobható), vagy utántöltő flakonnal utántölthető vagy patronnal működő (többször használható) elektronikus termék, amely szopókán keresztül nikotintartalmú pára fogyasztását teszi lehetővé, vagy annak bármely alkatrésze, beleértve a patronokat, a tartályokat és a patron vagy tartály nélküli készüléket is;
 - q) utántöltő flakon: az elektronikus cigaretta utántöltésére szolgáló, nikotintartalmú folyadékot tartalmazó tartály;
-- r) dohányzást imitáló elektronikus eszköz: olyan egyszer használatos elektronikus termék, amely szopókán keresztül nikotinmentes pára fogyasztását teszi lehetővé;
-- s) füst nélküli dohánytermék: olyan dohánytermék, amelynek a felhasználása nem jár égési folyamattal, beleértve a rágódohányt, a tüsszentésre szolgáló dohányterméket és a szájon át fogyasztott dohányterméket;
-- t) új dohánytermék-kategóriák: olyan dohánytermék,
-  - ta) amely nem tartozik a következő kategóriák egyikébe sem: cigaretta, cigarettadohány, pipadohány, vízipipadohány, szivar, szivarka, rágódohány, tüsszentésre szolgáló dohánytermék vagy szájon át fogyasztott dohánytermék, és
-  - tb) amelyet 2014. május 19-e után hoznak forgalomba;
-- u) új dohánytermék-kategóriák kiegészítő terméke: olyan áru, amely az új dohánytermék-kategóriák fogyasztását közvetlen módon elősegíti, így különösen a fogyasztáshoz szükséges kiegészítő eszköz, továbbá az új dohánytermék-kategóriák használatához, tárolásához, karbantartásához, működtetéséhez kapcsolódó termékek (tartozék, alkatrész);
-- v) módosított hatású termék: olyan, az új dohánytermék-kategóriákba tartozó, fogyasztható nikotin tartalmú termék, amelyet ilyen termékként nyilvántartásba vettek, továbbá a 2014. május 19-e után az Európai Unió területén jogszerűen forgalomba hozott elektronikus cigaretta.
+- r) patron: egyes elektronikus cigaretták használatához szükséges, jellemzően egyszer használatos (nem utántölthető) nikotintartalmú folyadékot tartalmazó tartály;
+- s) dohányzást imitáló elektronikus eszköz: olyan elektronikus termék, amely szopókán keresztül nikotinmentes pára fogyasztását teszi lehetővé;
+- t) nikotinmentes utántöltő flakon: dohányzást imitáló elektronikus eszköz utántöltésére szolgáló, vagy használatát lehetővé tevő nikotinmentes folyadékot tartalmazó tartály, ideértve a nikotinmentes folyadékot tartalmazó egyszer használatos (nem utántölthető) tartályt is;
+- u) füst nélküli dohánytermék: olyan dohánytermék, amelynek a felhasználása nem jár égési folyamattal, beleértve a rágódohányt, a tüsszentésre szolgáló dohányterméket és a szájon át fogyasztott dohányterméket;
+- v) új dohánytermék-kategóriák: olyan dohánytermék,
+  - va) amely nem tartozik a következő kategóriák egyikébe sem: cigaretta, cigarettadohány, pipadohány, vízipipadohány, szivar, szivarka, rágódohány, tüsszentésre szolgáló dohánytermék vagy szájon át fogyasztott dohánytermék, és
+  - vb) amelyet 2014. május 19-e után hoznak forgalomba;
+- w) új dohánytermék-kategóriák kiegészítő terméke: olyan áru, amely az új dohánytermék-kategóriák fogyasztását közvetlen módon elősegíti, így különösen a fogyasztáshoz szükséges kiegészítő eszköz, továbbá az új dohánytermék-kategóriák használatához, tárolásához, karbantartásához, működtetéséhez kapcsolódó termékek (tartozék, alkatrész);
+- x) módosított hatású termék: olyan, az új dohánytermék-kategóriákba tartozó, fogyasztható nikotintartalmú termék, amelyet ilyen termékként nyilvántartásba vettek, továbbá a 2014. május 19-e után az Európai Unió területén jogszerűen forgalomba hozott elektronikus cigaretta;
+- y) a dohányzást helyettesítő nikotintartalmú termék: olyan – dohányt nem tartalmazó, és elektronikus cigarettának, továbbá utántöltő flakonnak vagy patronnak nem minősülő – nikotint tartalmazó termék, amely nem minősül gyógyszernek, és amelynek hatóanyaga szájon át (nyálkahártyán keresztül) jut el az emberi szervezetbe.
 
 ### A dohánytermékek fogyasztásának alapvető szabályai
 
