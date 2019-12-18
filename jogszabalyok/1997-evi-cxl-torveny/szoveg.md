@@ -1208,7 +1208,7 @@ esetében.
 
 92/D. § A kulturális örökség védelméért felelős miniszter által kezdeményezett felülvizsgálati eljárásban az Ákr. rendelkezéseit a következő eltérésekkel kell alkalmazni:
 
-- a) az eljárásban szakértőként a Magyar Nemzeti Vagyonkezelő Zrt.-t kell kirendelni,
+- a)
 - b) az ügyintézési határidő 180 nap,
 - c) az ügyfél nyilatkozatával nem pótolhatja a hiányzó bizonyítékot, és
 - d) nem alkalmazható az Ákr. 123. § (2) bekezdés a) pontja.
@@ -1348,6 +1348,10 @@ kapcsolatos szakmai mutatók alapján készíti el.
 99/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 99/B. § Az egyes kulturális és sporttárgyú törvények, valamint egyéb kapcsolódó törvények módosításáról szóló 2017. évi CLXXX. törvény (a továbbiakban: Módtv.) által megállapított 78/B. § (2a) bekezdésében, 87/A. § (2) és (3) bekezdésében, valamint a Módtv. által módosított 78/B. § (2) bekezdésében meghatározott követelményeket 2023. január 1-jéig kell teljesíteni.
+
+99/C. § (1) E törvénynek a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvénnyel (a továbbiakban Módtv. 2.) módosított rendelkezéseit a Módtv. 2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) A kulturális javak visszaadására irányuló, a Módtv. 2. hatálybalépésekor folyamatban lévő eljárásokban – az Ákr. 143. § (1) bekezdésétől eltérően – az Ákr. rendelkezései szerint kell eljárni, függetlenül attól, hogy mikor indult az eljárás.
 
 ### Felhatalmazások
 

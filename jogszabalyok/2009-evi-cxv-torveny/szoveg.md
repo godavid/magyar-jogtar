@@ -525,13 +525,15 @@ számítandó.
 
 38/C. § Az egyéni vállalkozó a 11. § (1) bekezdés szerinti adat nyilvántartásba vétele 2018. január 1-jétől kötelező, ezt megelőzően a bejelentő kérheti az adat nyilvántartásba vételét.
 
-#### 38/D. §
+38/D. § Az egyéni vállalkozói igazolványok 2020. január 1-jén érvénytelenné válnak. Az egyéni vállalkozó köteles 2020. március 1-ig leadni az érvénytelen igazolványt a Hatóság részére. A leadott igazolványt a Hatóság bevonja. Ha az egyéni vállalkozó az igazolványt nem adta le, vagy nem küldte meg, azt a Hatóság visszavonja.
+
+38/E. § A 11. § (1) bekezdés h) pontja szerinti adatokat a 2019. december 31-i állapotnak megfelelően a nyilvántartást vezető szerv az egyéni vállalkozói igazolvány leadásának ellenőrzése és az egyéni vállalkozói igazolvány visszavonására irányuló eljárás lefolytatása érdekében archiválja. Az archivált adatokat a nyilvántartást vezető szerv legkésőbb 2020. december 31-én törli.
 
 ### Felhatalmazások
 
 39. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- a) jelölje ki a nyilvántartást vezető szervet és a Hatóságot,
+- a) jelölje ki a nyilvántartást vezető szervet, a Közreműködő Szervet és a Hatóságot,
 - b) állapítsa meg az egyéni vállalkozói tevékenység megkezdésével, szünetelésével, változás-bejelentésével és megszüntetésével kapcsolatos űrlapok tartalmát,
 - c) állapítsa meg az egyéni vállalkozói igazolvány adattartalmát, kiállításának, pótlásának, cseréjének, érvénytelenségének szabályait,
 - d) állapítsa meg a hatósági ellenőrzés részletes szabályait.

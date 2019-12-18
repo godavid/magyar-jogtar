@@ -435,7 +435,7 @@ jogszabályban meghatározott módon elszámolni.
 
 a régészeti feladatellátásra – beleértve az előzetes régészeti dokumentáció készítését –, a megelőző feltárásra vonatkozó, valamint a 23/B–23/F. §-ban meghatározott rendelkezéseket ezen alcímben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A kiemelt nagyberuházás esetén a jogszabályban kijelölt örökségvédelmi szerv a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum útján gondoskodik
+(2) A kiemelt nagyberuházás esetén a jogszabályban kijelölt örökségvédelmi szerv gondoskodik
 
 - a) a megelőző feltárás, valamint
 - b) a kivitelezés során ellátandó régészeti megfigyelés és szükség esetén régészeti bontómunka
@@ -444,10 +444,11 @@ elvégzéséről, és e feladatokra vonatkozó szerződést a beruházóval a 22
 
 (3) A (2) és (4) bekezdésben meghatározott feladatok elvégzésébe jogszabályban meghatározott módon bevonható
 
-- a) a gyűjtőterületén érintett területi múzeum, illetve, ha annak kapacitása nem elégséges,
-- b) feltárásra jogosult intézmény vagy szervezet.
+- a) a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum,
+- b) a gyűjtőterületén érintett területi múzeum, vagy
+- c) a feltárásra jogosult intézmény vagy szervezet.
 
-(4) Amennyiben a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum a jogszabályban kijelölt örökségvédelmi szerv régészeti feladatellátással kapcsolatos megkeresésére öt napon belül nem válaszol, a jogszabályban kijelölt örökségvédelmi szerv – a gyűjtőterületén érintett megyei hatókörű városi múzeum, illetve Budapesti Történeti Múzeum bevonása nélkül – közvetlenül gondoskodik a régészeti feladatellátásról.
+(4) Amennyiben a jogszabályban kijelölt örökségvédelmi szerv régészeti feladatellátással kapcsolatos megkeresésére a (3) bekezdésben megjelölt intézmény vagy szervezet öt napon belül nem válaszol, a jogszabályban kijelölt örökségvédelmi szerv közvetlenül gondoskodik a régészeti feladatellátásról.
 
 (5) Amennyiben a jogszabályban kijelölt örökségvédelmi szerv a (4) bekezdés szerinti közvetlen feladatellátást nem tudja biztosítani, úgy a Magyar Nemzeti Múzeum bevonásával gondoskodik a régészeti feladatellátás elvégzéséről.
 
@@ -881,7 +882,7 @@ kulturális javakat.
 
 61/C. § (1) A 2. mellékletben meghatározottak szerinti kiemelt nemzeti emlékhely az állami vagyon részét képezi.
 
-(2) Az 1055 Budapest V. kerület, belterület, 24834/1 helyrajzi számú ingatlan (a Vértanúk tere) 2017. szeptember 1-jén, az 1055 Budapest V. kerület, belterület, 24892/1 helyrajzi számú ingatlan (Alkotmány utca) 2020. augusztus 1-jén a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 14. § (1) bekezdése alapján – a méltó megemlékezések feltételeinek biztosítása mint örökségvédelmi állami feladatok ellátása érdekében – e törvény erejénél fogva, nyilvántartási értéken, ingyenesen az állam tulajdonába kerül.
+(2) Az 1055 Budapest V. kerület, belterület, 24834/1 helyrajzi számú ingatlan (a Vértanúk tere) 2017. szeptember 1-jén, az 1055 Budapest V. kerület, belterület, 24892/1 helyrajzi számú ingatlan (Alkotmány utca) 2020. január 1-jén a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 14. § (1) bekezdése alapján – a méltó megemlékezések feltételeinek biztosítása mint örökségvédelmi állami feladatok ellátása érdekében – e törvény erejénél fogva, nyilvántartási értéken, ingyenesen az állam tulajdonába kerül.
 
 (3) A kiemelt nemzeti emlékhely részét képező közterület, az ezen felállított szobrok és a Kossuth Lajos tér 1–3. szám alatti, 24894 helyrajzi számon nyilvántartott Országház vagyonkezelője az Országgyűlés Hivatala.
 
