@@ -385,7 +385,8 @@ cél megvalósítására irányuló beruházást.
 - a) a sajátos településrendezési és beépítési szabályokat, valamint a beruházással érintett építményekre vonatkozó egyedi építési követelményeket,
 - b) a sajátos telekalakítási követelményeket,
 - c) az egyedi településképi követelményeket,
-- d) az egyedi örökségvédelmi szabályokat.
+- d) az egyedi örökségvédelmi szabályokat,
+- e) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. §-a szerinti környezetvédelmi és fás szárú növények védelmére vonatkozó előírásokat.
 
 (2) Az (1) bekezdés a) pontja szerinti településrendezési és beépítési szabály, valamint egyedi építési követelmény az Étv. 13. § (1) bekezdésével összefüggő követelményekre, valamint az országos településrendezési és építési követelményektől, az országos tűzvédelmi szabályoktól, valamint a településrendezési eszközökben foglaltaktól való eltérő rendelkezésekre vonatkozhat.
 
@@ -411,7 +412,8 @@ cél megvalósítására irányuló beruházást.
 - b) a telekalakítási hatósági eljárás,
 - c) a tűzvédelmi hatósági eljárások,
 - d) a településképi véleményezési és bejelentési eljárás,
-- e) az örökségvédelmi hatósági eljárások
+- e) az örökségvédelmi hatósági eljárások,
+- f) a környezetvédelmi és a fás szárú növények védelmére vonatkozó hatósági eljárások
 
 ágazati jogszabályban foglaltaktól eltérő különös eljárási szabályait.
 
