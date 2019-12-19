@@ -78,7 +78,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
   - c) jogosult arra, hogy a vezető tisztségviselők (döntéshozók, ügyvezetők) vagy a felügyelőbizottság (felügyeleti, ellenőrző szerv, testület) tagjainak többségét megválassza (kijelölje) vagy visszahívja;
 - 29. médiaszolgáltató: az a természetes vagy jogi személy, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását;
 - 30. műszaki egyenértékűség: létesítmény, termék vagy szolgáltatás olyan meghatározó műszaki paramétere, amely mérhető, és amelynek előírt mérőszámát több létesítmény, termék vagy szolgáltatás is teljesítheti;
-- 31. nem központi ajánlatkérő: az 5. § (1) bekezdés c)–e) pontja, valamint (2)–(3) bekezdése szerinti ajánlatkérő;
+- 31. nem központi ajánlatkérő: az 5. § (1) bekezdés c)–e) pontja, valamint (2) bekezdése szerinti ajánlatkérő;
 - 32. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom;
 - 33. postai küldemény: megcímzett küldemény végleges, szállítandó formájában, tömegétől függetlenül; a levélküldeményeken kívül különösen könyvek, katalógusok, hírlapok folyóiratok és a kereskedelmi értékkel rendelkező vagy nem rendelkező árucikket tartalmazó postai csomagok, tömegüktől függetlenül;
 - 34. postai szolgáltatás: olyan szolgáltatás, amely postai küldemények gyűjtését, feldolgozását, szállítását és kézbesítését foglalja magában, ideértve a postai szolgáltatásokról szóló törvény szerinti egyetemes szolgáltatást, egyetemes szolgáltatást helyettesítő és az egyetemes szolgáltatást nem helyettesítő postai szolgáltatásokat;
@@ -116,20 +116,11 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 - b) olyan építési beruházás, amely kórház, sportlétesítmény, szabadidős és szórakoztató létesítmény, iskola, felsőoktatási épület vagy közigazgatási rendeltetésű épület építési munkáit foglalja magában, vagy
 - c) olyan szolgáltatás megrendelése, amely az a) vagy a b) pont szerinti építési beruházáshoz kapcsolódik.
 
-(3) A (2) bekezdésben foglaltak mellett a vissza nem térítendő támogatásból – ide nem értve a pénzügyi eszközzel kombinált vissza nem térítendő támogatásokat – megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet vagy személy – az egyházi jogi személyek kivételével –, amelynek beszerzését szolgáltatás megrendelés vagy árubeszerzés esetén legalább az adott beszerzésre irányadó uniós közbeszerzési értékhatárt elérő összegben, építési beruházás esetén legalább háromszázmillió forint összegben az (1) bekezdésben meghatározott egy vagy több szervezet vagy személy közvetlenül támogatja, kivéve, ha a beszerzés
-
-- a) a beruházás ösztönzési célelőirányzat felhasználásáról szóló kormányrendelet szerinti támogatásból,
-- b) egyedi munkahelyteremtési támogatásból,
-- c) képzési, továbbá tanműhely-létesítési és -fejlesztési támogatásból,
-- d) kutatás-fejlesztési és innovációs célú támogatásból,
-- e) vállalkozások újraiparosítási célt szolgáló beruházásainak támogatásából, vagy
-- f) bármely, 2015. november 1-jét megelőzően igényelt uniós, illetve hazai költségvetési forrásból származó támogatásból
-
-valósul meg.
+(3)
 
 (4) E törvény rendelkezését köteles betartani az az (1)–(2) bekezdés hatálya alá nem tartozó szervezet, amely e törvény szerinti közbeszerzési eljárás lefolytatását önként vagy szerződésben vállalja, illetve számára jogszabály közbeszerzési eljárás lefolytatását kötelezővé teszi.
 
-(5) A (3) bekezdést nem kell alkalmazni, ha a Kormány annak alkalmazása alól a közbeszerzésekért felelős miniszter előterjesztése alapján hozott egyedi határozatában felmentést adott. A felmentés akkor kérhető, ha a támogatásból megvalósuló beszerzés sajátosságaira tekintettel a közbeszerzési eljárás alkalmazása nem szolgálná a közpénzek hatékony felhasználásának célját és a támogatási összeg gazdaságilag legkedvezőbb módon történő felhasználását a (3) bekezdés szerinti szervezet eljárása biztosítja. Az előző évben meghozott, felmentést tartalmazó egyedi határozatok szövegét a Kormány minden év március 31-ig, a Magyar Közlönyben egy tájékoztatóban egyszerre is közzéteszi.
+(5)
 
 6. § (1) E törvény alkalmazásában – a közszolgáltató tevékenységének biztosítása céljából lefolytatott beszerzése során – közszolgáltató ajánlatkérő az 5. § (1) bekezdésében meghatározott szervezet, amennyiben az alábbiakban meghatározott közszolgáltató tevékenységet folytatja, vagy ilyen tevékenység folytatása céljából hozták létre
 
@@ -433,7 +424,7 @@ feltéve, hogy a közös vállalkozást azért hozták létre, hogy az adott tev
 
 (5) A – főként a település- és területrendezés, építészet és építés, illetve adatfeldolgozás területén alkalmazható – tervpályázati eljárásra vonatkozó részletes szabályokat külön jogszabály határozza meg.
 
-(6) Az 5. § (3) bekezdése szerinti ajánlatkérő a Harmadik Részt alkalmazva is eljárhat, kivéve, ha ajánlatkérői minősége az 5. § (2) bekezdése alapján is megállapítható. Ez utóbbi esetben az alkalmazandó eljárásrendet az (1) bekezdés alkalmazásával kell megállapítani.
+(6)
 
 ### Vegyes beszerzések
 
@@ -547,7 +538,7 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 ### Az ajánlatkérőkre vonatkozó közös szabályok
 
-26. § (1) Az ajánlatkérő – kivéve az 5. § (2)–(4) bekezdése szerinti ajánlatkérőt – köteles az e törvény hatálya alá tartozásáról, valamint az adataiban bekövetkezett változásról a Közbeszerzési Hatóságot értesíteni az e törvény hatálya alá kerülésétől, illetve a változástól számított harminc napon belül.
+26. § (1) Az ajánlatkérő – kivéve az 5. § (2) és (4) bekezdése szerinti ajánlatkérőt – köteles az e törvény hatálya alá tartozásáról, valamint az adataiban bekövetkezett változásról a Közbeszerzési Hatóságot értesíteni az e törvény hatálya alá kerülésétől, illetve a változástól számított harminc napon belül.
 
 (1a) Az ajánlatkérő az (1) bekezdés szerinti bejelentési vagy változásbejelentési kötelezettségét az elektronikus közbeszerzési rendszerben (a továbbiakban: EKR) történő regisztráció vagy adatmódosítás útján teljesíti.
 
@@ -570,7 +561,7 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 (5) Az ajánlatkérő nevében az eljárást lezáró döntést meghozó személy nem lehet a bírálóbizottság tagja. Testületi döntéshozatal esetén a döntéshozó kizárólag tanácskozási joggal rendelkező személyt delegálhat a bírálóbizottságba. Testületi döntéshozatal esetében név szerinti szavazást kell alkalmazni.
 
-27/A. § Az ajánlatkérő – kivéve az 5. § (2)–(4) bekezdése szerinti ajánlatkérőt – köteles fogadni és feldolgozni az olyan elektronikus számlákat, amelyek megfelelnek az EN 16931-1:2017 számú európai szabványnak és az Európai Bizottság által e szabványhoz az Európai Unió Hivatalos Lapjában közzétett szintaxislistának.
+27/A. § Az ajánlatkérő – kivéve az 5. § (2) és (4) bekezdése szerinti ajánlatkérőt – köteles fogadni és feldolgozni az olyan elektronikus számlákat, amelyek megfelelnek az EN 16931-1:2017 számú európai szabványnak és az Európai Bizottság által e szabványhoz az Európai Unió Hivatalos Lapjában közzétett szintaxislistának.
 
 ### Az eljárás előkészítése
 
@@ -726,7 +717,7 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 39. § (1) Az ajánlatkérő köteles a közbeszerzési dokumentumokat a gazdasági szereplők számára elektronikus úton, – a regisztrálási adatok megkérésének kivételével – közvetlenül, korlátlanul és teljeskörűen, térítésmentesen hozzáférhetővé tenni.
 
-(2) Amennyiben egyes közbeszerzési dokumentumok elektronikus, korlátlan, teljes körű hozzáférhetővé tétele nem lehetséges a 41/C. § (1) bekezdésében foglalt valamely okból, az ajánlatkérő az eljárást megindító felhívásban jelzi, hogy a közbeszerzési dokumentumokat milyen – adott esetben az elektronikus úttól eltérő – módon fogja a gazdasági szereplők rendelkezésére bocsátani, vagy a közbeszerzési dokumentumok bizalmas jellegének megőrzése érdekében milyen intézkedések alkalmazását írja elő és milyen módon lehet az érintett dokumentumhoz hozzáférni.
+(2) Amennyiben egyes közbeszerzési dokumentumok elektronikus, korlátlan, teljes körű hozzáférhetővé tétele nem lehetséges a 41/C. § (1) bekezdésében foglalt valamely okból, az ajánlatkérő az eljárást megindító felhívásban jelzi, hogy a közbeszerzési dokumentumokat milyen – adott esetben az elektronikus úttól eltérő – módon fogja a gazdasági szereplők rendelkezésére bocsátani, vagy milyen intézkedések alkalmazását írja elő és milyen módon lehet az érintett dokumentumhoz hozzáférni.
 
 ### Kommunikáció a közbeszerzési eljárás során
 
@@ -779,8 +770,9 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 - b) az ajánlatok elkészítéséhez részben olyan fájlformátumok használata szükséges, amelyek nem kezelhetők más nyílt vagy széles körben elérhető alkalmazással, vagy felhasználási engedélyhez kötöttek, és az ajánlatkérő nem tudja ezeket a 41/B. § (3) bekezdése szerint rendelkezésre bocsátani az ajánlat érintett részei vonatkozásában;
 - c) az elektronikus kommunikáció alkalmazása olyan különleges irodai berendezést igényelne az ajánlatkérő részéről, amely általában nem áll az ajánlatkérők rendelkezésére;
 - d) az ajánlatkérő olyan fizikai vagy méretarányos modellek benyújtását írja elő, amelyek elektronikus úton nem továbbíthatók (a beadandó modell vonatkozásában);
-- e) az EKR üzemeltetője által – a honlapján – közzétett tájékoztatás alapján az EKR részben vagy egészben tartósan nem tudja biztosítani az e törvénynek és végrehajtási rendeleteinek megfelelő eljárást; vagy
-- f) az EKR több napon keresztül fennálló – jogszabályban meghatározott – üzemzavara miatt a 98. § (2) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárás a rendkívüli helyzet által megkívánt idő alatt nem lenne megvalósítható.
+- e) az EKR üzemeltetője által – a honlapján – közzétett tájékoztatás alapján az EKR részben vagy egészben tartósan nem tudja biztosítani az e törvénynek és végrehajtási rendeleteinek megfelelő eljárást;
+- f) az EKR több napon keresztül fennálló – jogszabályban meghatározott – üzemzavara miatt a 98. § (2) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárás a rendkívüli helyzet által megkívánt idő alatt nem lenne megvalósítható; vagy
+- g) a közbeszerzési dokumentumok üzleti titkot vagy minősített adatot tartalmaznak, illetve biztonsági vagy nemzetbiztonsági okból bizalmas jellegűek és a gazdasági szereplők széles körében rendelkezésre álló elektronikus kapcsolattartási forma alkalmazásával a megfelelő védelem nem biztosítható.
 
 (2) Az ajánlatkérőnek az ajánlatok elbírálásáról készített összegezésben fel kell tüntetnie, hogy milyen okból volt szükséges az elektronikus úttól eltérő kommunikáció használata. Az elektronikus úton történő kapcsolattartás mellőzése kizárólag azon dokumentumok, illetve az ajánlat azon része tekintetében megengedett, amelynek vonatkozásában az (1) bekezdés szerinti okok fennállnak. Az elektronikus úton történő kommunikáció mellőzése az (1) bekezdés szerinti indokok alapján nem alkalmazható az ajánlat benyújtásakor a felolvasólap tartalmát képező adattartalomra, kivéve, ha az (1) bekezdés e)–f) pontja alapján az ajánlatok benyújtása egészében papíralapon történik.
 
@@ -869,6 +861,8 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 (3) Az ajánlatkérő köteles a Közbeszerzési Hatóság vagy jogszabályban feljogosított más szerv kérésére a közbeszerzéssel kapcsolatos iratokhoz a jogszabályban meghatározottak szerint elektronikus úton hozzáférést biztosítani.
 
 (4) A közbeszerzésekre vonatkozó statisztikai adatok rendelkezésre állása érdekében e törvény felhatalmazása alapján alkotott jogszabály meghatározhatja az ajánlatkérő számára az e törvényben előírtakon kívül az adott közbeszerzésre vonatkozóan az EKR-ben rögzítendő – személyes adatnak nem minősülő – adatok körét.
+
+(5) Az EKR üzemeltetésével összefüggő feladatok teljesítése érdekében az EKR üzemeltetője az EKR-ben rögzített személyes adatokat a (2) bekezdésben meghatározott időtartamig kezeli.
 
 47. § (1) Ahol e törvény a közbeszerzési eljárás során jegyzőkönyv készítését írja elő, ez a követelmény a közjegyző jelenlétében lefolytatott cselekmények esetében közokiratba foglalással is teljesíthető.
 
@@ -1155,7 +1149,7 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 kell érteni.
 
-(5a) Az (1) bekezdés n) pontját a közbeszerzési eljárásban nem kell alkalmazni, ha a Kormány a verseny biztosítása érdekében annak alkalmazása alól az ajánlatkérő kezdeményezésére a közbeszerzésekért felelős miniszter előterjesztése alapján hozott egyedi határozatában felmentést adott. A felmentést az ajánlatkérő kizárólag a közbeszerzési eljárás megkezdését megelőzően, akkor kérheti, ha a közbeszerzési eljárással érintett piac gazdasági szereplőinek jelentős része az (1) bekezdés n) pontja szerinti kizáró ok hatálya alatt áll, ide nem értve azon gazdasági szereplőket, amelyek a 64. § szerinti öntisztázás alapján nem zárhatók ki a közbeszerzési eljárásból. Az ajánlatkérő az eljárást megindító felhívásban feltünteti, hogy a közbeszerzési eljárásban az (1) bekezdés n) pontja szerinti kizáró okot a Kormány határozatára tekintettel nem alkalmazza.
+(5a)
 
 (6) Az ajánlatkérő az eljárást megindító felhívásban köteles hivatkozni az (1) és (2) bekezdésben foglalt kizáró okokra.
 
@@ -1198,7 +1192,7 @@ vonatkozó feltételek előírásával.
 
 (6) Az előírt alkalmassági követelményeknek a közös ajánlattevők vagy közös részvételre jelentkezők együttesen is megfelelhetnek. Azon követelményeknek, amelyek értelemszerűen kizárólag egyenként vonatkoztathatóak a gazdasági szereplőkre, az együttes megfelelés lehetősége értelmében elegendő, ha közülük egy felel meg.
 
-(7) Az előírt alkalmassági követelményeknek az ajánlattevők vagy részvételre jelentkezők bármely más szervezet vagy személy kapacitására támaszkodva is megfelelhetnek, a közöttük fennálló kapcsolat jogi jellegétől függetlenül. Ebben az esetben meg kell jelölni az ajánlatban, több szakaszból álló eljárásban a részvételi jelentkezésben ezt a szervezetet és az eljárást megindító felhívás vonatkozó pontjának megjelölésével azon alkalmassági követelményt vagy követelményeket, amelynek igazolása érdekében az ajánlattevő vagy részvételre jelentkező ezen szervezet erőforrására vagy arra is támaszkodik. A (8) bekezdésben foglalt eset kivételével csatolni kell az ajánlatban vagy részvételi jelentkezésben a kapacitásait rendelkezésre bocsátó szervezet olyan szerződéses vagy előszerződésben vállalt kötelezettségvállalását tartalmazó okiratot, amely alátámasztja, hogy a szerződés teljesítéséhez szükséges erőforrások rendelkezésre állnak majd a szerződés teljesítésének időtartama alatt.
+(7) Az előírt alkalmassági követelményeknek az ajánlattevők vagy részvételre jelentkezők bármely más szervezet vagy személy kapacitására támaszkodva is megfelelhetnek, a közöttük fennálló kapcsolat jogi jellegétől függetlenül. Ebben az esetben meg kell jelölni az ajánlatban, több szakaszból álló eljárásban a részvételi jelentkezésben ezt a szervezetet és az eljárást megindító felhívás vonatkozó pontjának megjelölésével azon alkalmassági követelményt vagy követelményeket, amelynek igazolása érdekében az ajánlattevő vagy részvételre jelentkező ezen szervezet erőforrására vagy arra is támaszkodik. A (8) bekezdésben foglalt eset kivételével csatolni kell az ajánlatban vagy részvételi jelentkezésben a kapacitásait rendelkezésre bocsátó szervezet olyan – szerződésben, előszerződésben vagy más formában vállalt – kötelezettségvállalását tartalmazó okiratot, amely alátámasztja, hogy a szerződés teljesítéséhez szükséges erőforrások rendelkezésre állnak majd a szerződés teljesítésének időtartama alatt.
 
 (8) Az a szervezet, amelynek adatait az ajánlattevő vagy részvételre jelentkező a gazdasági és pénzügyi alkalmasság igazolásához felhasználja, a Ptk. 6:419. §-ában foglaltak szerint kezesként felel az ajánlatkérőt az ajánlattevő teljesítésének elmaradásával vagy hibás teljesítésével összefüggésben ért kár megtérítéséért.
 
@@ -1298,7 +1292,7 @@ az ajánlatkérő ezen ajánlattevő ajánlatának figyelmen kívül hagyásáva
 
 (13) Az ajánlatkérő jogosult az ajánlatban vagy részvételi jelentkezésben benyújtott igazolás, nyilatkozat tartalmának ellenőrzése érdekében más állami vagy önkormányzati szervtől, hatóságtól vagy gazdasági szereplőtől információt kérni. A megkeresett szervezet három munkanapon belül köteles az információt megadni.
 
-(14) Az ajánlatkérő jogosult a kizáró okok fenn nem állása és az alkalmasság megítélése céljából az ajánlatban vagy részvételi jelentkezésben megnevezett személyek természetes személyazonosító adatait, valamint képzettségre és végzettségre, szakmai gyakorlatra, szervezeti, köztestületi tagságra és gazdasági társaságban fennálló tagságra vonatkozó adatait kezelni. A kizáró okok fenn nem állásának ellenőrzése keretében – a külön jogszabályban foglalt igazolási szabályok szerint – a büntetlen előéletre vonatkozó adatról hatósági igazolás is kérhető. A kizáró okok hiányának igazolásához benyújtandó, külön jogszabályban foglalt nyilatkozat gazdasági, valamint szakmai kamara előtt annak tagja által tett nyilatkozat is lehet.
+(14) Az ajánlatkérő jogosult a kizáró okok fenn nem állása, az alkalmasság megítélése és az értékelési szempontok alapján a gazdaságilag legelőnyösebb ajánlat kiválasztása céljából az ajánlatban vagy részvételi jelentkezésben megnevezett személyek természetes személyazonosító adatait, valamint képzettségre és végzettségre, szakmai gyakorlatra, szervezeti, köztestületi tagságra és gazdasági társaságban fennálló tagságra vonatkozó adatait kezelni. A kizáró okok fenn nem állásának ellenőrzése keretében – a külön jogszabályban foglalt igazolási szabályok szerint – a büntetlen előéletre vonatkozó adatról hatósági igazolás is kérhető. A kizáró okok hiányának igazolásához benyújtandó, külön jogszabályban foglalt nyilatkozat gazdasági, valamint szakmai kamara előtt annak tagja által tett nyilatkozat is lehet.
 
 70. § (1) Az ajánlatkérő az ajánlatokat a lehető legrövidebb időn belül köteles elbírálni. Az ajánlatkérő a 69. §-tól eltérően az ajánlatok bírálata és értékelése nélkül meghozhatja az eljárás eredménytelenségéről szóló döntést, ha az adott eljárásban végleges árajánlatok mindegyike meghaladja a – 75. § (4) bekezdésének megfelelően igazolt – rendelkezésre álló anyagi fedezet összegét. Ha az ajánlatkérő nem végzi el az ajánlatok bírálatát, az eredménytelen eljárásra tekintettel az ajánlatkérő nem élhet a hirdetmény nélküli tárgyalásos eljárás indításának lehetőségével a 98. § (2) bekezdés a) pontja szerint. Az ajánlatkérő a 69. §-tól eltérően az ajánlatok bírálata és értékelése nélkül meghozhatja az eljárás eredménytelenségéről szóló döntést akkor is, ha az eljárás eredménytelensége a 75. § (2) bekezdés e) pontján alapul.
 
@@ -2353,7 +2347,7 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 (8) A (6) bekezdéstől eltérően az ott rögzített tíz-, illetve ötnapos időtartam letelte előtt is megköthető a szerződés,
 
-- a) ha a nyílt eljárásban, a hirdetménnyel induló, egy szakaszból álló koncessziós beszerzési eljárásban vagy a 117. § szerint lefolytatott, egy szakaszból álló eljárásban csak egy ajánlatot nyújtottak be;
+- a) ha a nyílt eljárásban, – a c) és e) pontban hivatkozottak kivételével – a hirdetmény nélküli tárgyalásos eljárásban, a hirdetménnyel induló, egy szakaszból álló koncessziós beszerzési eljárásban vagy a 117. § szerint lefolytatott, egy szakaszból álló eljárásban csak egy ajánlatot nyújtottak be;
 - b) ha a meghívásos, a tárgyalásos eljárás, a versenypárbeszéd, az innovációs partnerség eljárása során, a dinamikus beszerzési rendszer alapján történő szerződéskötés érdekében, a hirdetménnyel induló, több szakaszból álló koncessziós beszerzési eljárásban vagy a 117. § szerint lefolytatott, több szakaszból álló eljárásban csak egy ajánlatot nyújtottak be, és ha az eljárásban volt érvénytelen részvételi jelentkezés vagy sor került kizárásra, az erre vonatkozó döntés ellen a jogorvoslat kezdeményezésének határideje az érintettek számára lejárt, vagy a döntést a Közbeszerzési Döntőbizottság jogszerűnek ítélte;
 - c) ha a hirdetmény nélküli tárgyalásos eljárást a 98. § (2) bekezdés e) pontja alapján indították;
 - d) a keretmegállapodás alapján történő beszerzés esetében, kivéve, ha a közbeszerzés a verseny újranyitásával valósul meg, és ennek során több ajánlatot nyújtanak be;
@@ -2943,7 +2937,7 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 
 ### A Közbeszerzési Döntőbizottság döntésének közlése és nyilvánosságra hozatala
 
-166. § (1) Az eljárás felfüggesztését elrendelő végzést, a közbeszerzési ügy befejezését eredményező végzést és határozatot az ügyfeleknek kézbesíteni kell. Ha az eljárás felfüggesztését elrendelő végzés, az ügy befejezését eredményező végzés vagy határozat támogatásból megvalósuló közbeszerzésre vonatkozik, a határozatot a közbeszerzéshez támogatást nyújtó szervezet részére is kézbesíteni kell.
+166. § (1) Az eljárás felfüggesztését elrendelő végzést, a közbeszerzési ügy befejezését eredményező végzést és határozatot az ügyfeleknek, valamint a közbeszerzésekért felelős miniszternek kézbesíteni kell. Ha az eljárás felfüggesztését elrendelő végzés, az ügy befejezését eredményező végzés vagy határozat támogatásból megvalósuló közbeszerzésre vonatkozik, a határozatot a közbeszerzéshez támogatást nyújtó szervezet részére is kézbesíteni kell.
 
 (2) A közbeszerzési ügy befejezését eredményező végzést és határozatot, valamint a szerződés megkötésének engedélyezése tárgyában hozott végzést [156. § (4) bekezdés] meghozatala napján a Közbeszerzési Hatóság honlapján közzé kell tenni. Az érdemi határozatot akkor is közzé kell tenni, ha a Közbeszerzési Döntőbizottság a tárgyalásról a nyilvánosságot a 161. § (4) bekezdése alapján kizárta.
 
@@ -3104,7 +3098,7 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 - e) gyakorolja a munkáltatói jogokat a Hatóság főtitkára (a továbbiakban: főtitkár), a Hatóság Titkárságának alkalmazottai, valamint a Döntőbizottság elnöke, elnökhelyettese és a közbeszerzési biztosok vonatkozásában;
 - f) ellátja a részére törvényben előírt egyéb feladatokat.
 
-(2) A Hatóság elnökét távolléte esetén az alelnök teljes jogkörrel helyettesíti.
+(2) A Hatóság elnökét távolléte esetén az a Tanács alelnöke a Tanács képviseletében és üléseinek vezetésében teljes jogkörrel helyettesíti.
 
 181. § (1) A Hatóság elnökének öt évre történő kinevezéséről a Tanács a jelen levő tagok kétharmados szótöbbségével dönt.
 
@@ -3114,9 +3108,9 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 
 (4) A Hatóság elnöke felett a munkáltatói jogokat a Tanács gyakorolja, az elnök az összeférhetetlenségével kapcsolatos bejelentést a Tanácsnak köteles megtenni.
 
-(5) A Tanács a tagok közül öt évre a jelen levő tagok kétharmados szótöbbségével hozott döntéssel választja a Hatóság alelnökét.
+(5) A Tanács a tagok közül öt évre a jelen levő tagok kétharmados szótöbbségével hozott döntéssel választja a Tanács alelnökét.
 
-(6) A Hatóság elnökének, alelnökének és a Tanács tagjainak megbízatása megszűnik
+(6) A Hatóság elnökének, a Tanács alelnökének és a Tanács tagjainak megbízatása megszűnik
 
 - a) a megbízatás időtartamának lejártával;
 - b) visszahívással;
@@ -3154,7 +3148,7 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 - l) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
 - m) a Nemzeti Adó- és Vámhivatal elnöke vagy az általa kijelölt személy.
 
-(3) A Tanács elnöke a Hatóság elnöke. A Tanács alelnöke a Hatóság alelnöke.
+(3) A Tanács elnöke a Hatóság elnöke.
 
 (4) A Tanács elnöke a Tanács tagjává válik akkor is, ha nem a tagok közül választották. Ha a Tanács elnökét a Tanács tagjai közül választották, az elnök a továbbiakban nem képviseli az őt kijelölő szerinti általános célokat vagy érdekeket, a kijelölő pedig jogosult a Tanácsba új tagot kijelölni. A kijelölő a Tanács elnökével szemben nem élhet a 181. § (6) bekezdés b) pontjában és (7) bekezdésében biztosított jogával.
 
@@ -3200,7 +3194,7 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 
 (3) A Hatóság főtitkárát minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
 
-186. § A Hatóság elnöke, alelnöke és a Tanács tagjai, a főtitkár, a Titkárság alkalmazottai és a közbeszerzési biztosok vagy azon személyek, akik ilyen tisztséget viseltek, tevékenységet végeztek, a feladatuk ellátásával kapcsolatban tudomásukra jutott minősített adatot és üzleti titkot kötelesek megőrizni.
+186. § A Hatóság elnöke, a Tanács alelnöke és a Tanács tagjai, a főtitkár, a Titkárság alkalmazottai és a közbeszerzési biztosok vagy azon személyek, akik ilyen tisztséget viseltek, tevékenységet végeztek, a feladatuk ellátásával kapcsolatban tudomásukra jutott minősített adatot és üzleti titkot kötelesek megőrizni.
 
 ### A Hatóság feladata és hatásköre
 
@@ -3236,7 +3230,7 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 - r) meghatározza a Hatóság által létrehozott minősített ajánlattevői jegyzékkel kapcsolatos minősítési szempontokat és azok igazolási módjait;
 - s) statisztikai adatokat gyűjt a közbeszerzési eljárásokról, melyeket honlapján rendszeres időközönként közzétesz;
 - t) elkészíti a Hatóság szervezeti és működési, valamint más, a Hatóság működését érintő belső szabályzatát, továbbá költségvetési javaslatát és éves költségvetési beszámolóját;
-- u) honlapján közzéteszi a közbeszerzésekért felelős miniszter által nyilvántartott felelős akkreditált közbeszerzési szaktanácsadóknak a felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló miniszteri rendeletben meghatározott adatait;
+- u)
 - v) ellátja a részére törvényben előírt egyéb feladatokat,
 - x) naprakészen vezeti az EKR-ben a törvény hatálya alá tartozó ajánlatkérők listáját.
 
@@ -3275,7 +3269,7 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 - a) cselekvőképtelen vagy cselekvőképességében részlegesen korlátozott;
 - b) a büntetett előélethez fűződő hátrányok alól nem mentesült;
 - c) közbeszerzési biztos;
-- d) a Közbeszerzési Hatóság elnöke, alelnöke.
+- d) a Közbeszerzési Hatóság elnöke.
 
 (15) A névjegyzékbe vétel iránti kérelemhez csatolni kell azokat a nyilatkozatokat, amelyek a (14) bekezdés a), c) és d) pont szerinti kizáró ok fenn nem állására vonatkoznak. A (14) bekezdés b) pontja szerinti kizáró ok fenn nem állását a Hatóság a névjegyzékbe vétel iránti kérelem benyújtásával egyidejűleg a bűnügyi nyilvántartásból történő adatigényléssel ellenőrzi. A névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok módosításáért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj megfizetése alól mentesség nem adható.
 
@@ -3495,9 +3489,9 @@ rendelkezik.
 
 (6) A közbeszerzésekért felelős miniszter naprakészen vezeti a képző szervezetek által megküldött dokumentumok alapján a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges, elismert szakmai képzéseken részt vevők listáját és a részvétel alapján megszerzett tanulmányi pontokat. E nyilvántartás vezetése körében jogosult a képzéseken részt vevők személyazonosító adatainak, elérhetőségi adatainak kezelésére.
 
-(7)
+(7) A közbeszerzésekért felelős miniszter ellátja az egységes, a közbeszerzési és koncessziós beszerzési eljárások lefolytatásához alkalmazandó elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos feladatokat.
 
-(8)
+(8) A közbeszerzésekért felelős miniszter az EKR működtetésével kapcsolatos feladatok ellátása körében statisztikai adatokat gyűjt a közbeszerzési eljárásokról, melyeket rendszeres időközönként közzétesz.
 
 (9)
 
@@ -3509,7 +3503,7 @@ rendelkezik.
 
 (11)
 
-(12) A közbeszerzésekért felelős miniszter ellátja az egységes, a közbeszerzési és koncessziós beszerzési eljárások lefolytatásához alkalmazandó elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos feladatokat.
+(12)
 
 ### Hatálybalépés
 
@@ -3546,6 +3540,16 @@ rendelkezik.
 (12) E törvénynek a Mód3. tv. 11. §-a által megállapított 40. § (2) bekezdését alkalmazni kell a Mód3. tv. hatályba lépése előtt az EKR-ben megindított eljárásokért – az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet alapján – fizetett rendszerhasználati díjakra is.
 
 (13) E törvénynek a Mód3. tv. által megállapított 177. § (3) bekezdésének rendelkezéseit a Mód3. tv. által megállapított 177. § (3) bekezdés hatálybalépését követő igényérvényesítésekre kell alkalmazni.
+
+(14) Ha e törvény és az e törvény felhatalmazása alapján alkotott jogszabály eltérően nem rendelkezik, úgy az e törvény és az e törvény felhatalmazása alapján alkotott jogszabály módosítása esetén a módosító törvény vagy jogszabály által megállapított rendelkezéseit a módosító törvény vagy jogszabály hatálybalépése után megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra és előzetes vitarendezési eljárásokra, valamint a módosító jogszabály jogorvoslati szervek eljárására vonatkozó rendelkezéseit a hatálybalépését követően kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra kell alkalmazni.
+
+(15) E törvénynek a közbeszerzésekre vonatkozó egyes törvények módosításáról szóló 2019. évi CXX. törvénnyel (a továbbiakban: Mód4. tv.) megállapított rendelkezéseit – a (16) bekezdésben foglaltak kivételével – a Mód4. tv. hatálybalépése után megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra és előzetes vitarendezési eljárásokra, valamint a Mód4. tv. hatálybalépése után kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra kell alkalmazni.
+
+(16) E törvénynek a Mód4. tv. által megállapított, az 5. § (3) bekezdésének hatályon kívül helyezésére vonatkozó rendelkezései alapján a Mód4. tv. hatálybalépésekor fennálló támogatási jogviszonyok keretében még fel nem használt támogatás esetében nem kötelező közbeszerzési eljárás lefolytatása, kivéve, ha a támogatás felhasználása céljából olyan közbeszerzési eljárás van folyamatban, amelyben az ajánlatkérő az 53. §-ban foglaltaknak megfelelően már nem léphet vissza a közbeszerzéstől.
+
+(17) A Mód4. tv. hatályba lépéséig az 5. § (5) bekezdése alapján a Magyar Közlönyben egyszerre még közzé nem tett egyedi határozatok szövegét a Kormány a Mód4. tv. hatályba lépését követő év március 31-ig egy tájékoztatóban egyszerre is közzéteszi.
+
+(18) E törvénynek a 2019. december 31-ig hatályos 4. § (3) bekezdését, 195. § (1), (4) és (5) bekezdését a 2019. december 31-ig megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra kell alkalmazni.
 
 197/A. § Az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvénnyel megállapított
 
