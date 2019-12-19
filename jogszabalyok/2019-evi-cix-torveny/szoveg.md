@@ -30,15 +30,7 @@ a kormányzati igazgatásról szóló 2018. évi CXXV. törvény, valamint egyes
 
 (2)
 
-(3) A Kit. 55. §-a a következő (4a)–(4d) bekezdéssel egészül ki:
-
-„(4a) A Kormány az érintett kormányzati igazgatási szerveket vezető, irányító vagy felügyelő miniszterek közös javaslatára – az 54. § (3) bekezdése szerinti vezényléssel vagy kirendeléssel betöltött álláshelyek kivételével – két kormányzati igazgatási szerv azonos besorolási kategóriájú álláshelyét határozatával kormányrendeletben meghatározottak szerint megcserélheti egymással azzal, hogy a csere nem érinti az álláshelyeken fennálló jogviszonyok fennállását. Az álláshelyek cseréjét követően a munkáltatói jogkör gyakorlója szükség szerint módosítja az álláshely betöltésének feltételeit és az álláshelyen ellátandó feladatokat.
-
-(4b) A kormányhivatal irányítására kormányrendeletben kijelölt miniszter a (4a) bekezdéstől eltérően – kormányrendeletben meghatározottak szerint – a kormányhivatalok között az egyik kormányhivatalhoz tartozó álláshelyet megcserélheti a másik kormányhivatalhoz tartozó álláshellyel azzal, hogy a csere nem érinti az álláshelyeken fennálló jogviszonyok fennállását. Az álláshelyek cseréjét követően a munkáltatói jogkör gyakorlója szükség szerint módosítja az álláshely betöltésének feltételeit és az álláshelyen ellátandó feladatokat.
-
-(4c) Ha álláshelyek átcsoportosítására kizárólag kormányhivatalok között kerül sor, az átcsoportosítással kapcsolatos hatáskört a Kormány helyett a kormányhivatal irányítására kormányrendeletben kijelölt miniszter gyakorolja.
-
-(4d) A (4b) és (4c) bekezdés szerinti intézkedésről a kormányzati személyügyi igazgatásra kijelölt szervet kormányrendeletben meghatározottak szerint tájékoztatni kell.”
+(3)
 
 13. §
 
@@ -442,9 +434,7 @@ a kormányzati igazgatásról szóló 2018. évi CXXV. törvény, valamint egyes
 
 163. §
 
-164. § Az Áht. 111. §-a a következő (38) bekezdéssel egészül ki:
-
-„(38) A Kormány által egyedi határozatban biztosított beruházásösztönzési célú költségvetési támogatások tárgyév december 31-éig kifizetni tervezett azon összegét, amelynek kifizetése a tárgyévet követő időpontra került átütemezésre, nem kell beszámítani a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 27. § (2) bekezdése szerinti tárgyéven túli fizetési kötelezettségvállalásra vonatkozó keretösszegbe.”
+164. §
 
 #### 49. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 

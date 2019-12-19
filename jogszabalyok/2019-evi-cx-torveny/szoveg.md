@@ -331,17 +331,13 @@ lép.
 
 #### 33. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosítása
 
-33. § (1) A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.) a „Vegyes rendelkezések” alcíme a 99/B. §-t követően a következő 99/C. §-sal egészül ki:
-
-„99/C. § (1) E törvénynek a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvénnyel (a továbbiakban Módtv. 2.) módosított rendelkezéseit a Módtv. 2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
-
-(2) A kulturális javak visszaadására irányuló, a Módtv. 2. hatálybalépésekor folyamatban lévő eljárásokban – az Ákr. 143. § (1) bekezdésétől eltérően – az Ákr. rendelkezései szerint kell eljárni, függetlenül attól, hogy mikor indult az eljárás.”
+33. § (1)
 
 (2)
 
 (3)
 
-(4) Hatályát veszti a Kultv. 92/D. § a) pontja.
+(4)
 
 #### 34. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
@@ -431,29 +427,11 @@ lép.
 
 #### 47. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
-47. § (1) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 23/G. § (2)–(4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A kiemelt nagyberuházás esetén a jogszabályban kijelölt örökségvédelmi szerv gondoskodik
-
-a) a megelőző feltárás, valamint
-
-b) a kivitelezés során ellátandó régészeti megfigyelés és szükség esetén régészeti bontómunka
-
-elvégzéséről, és e feladatokra vonatkozó szerződést a beruházóval a 22. § (11) bekezdésében meghatározott 15 napos határidőn belül megköti.
-
-(3) A (2) és (4) bekezdésben meghatározott feladatok elvégzésébe jogszabályban meghatározott módon bevonható
-
-a) a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum,
-
-b) a gyűjtőterületén érintett területi múzeum, vagy
-
-c) a feltárásra jogosult intézmény vagy szervezet.
-
-(4) Amennyiben a jogszabályban kijelölt örökségvédelmi szerv régészeti feladatellátással kapcsolatos megkeresésére a (3) bekezdésben megjelölt intézmény vagy szervezet öt napon belül nem válaszol, a jogszabályban kijelölt örökségvédelmi szerv közvetlenül gondoskodik a régészeti feladatellátásról.”
+47. § (1)
 
 (2)
 
-(3) A Kötv. 61/C. § (2) bekezdésében az „augusztus” szövegrész helyébe a „január” szöveg lép.
+(3)
 
 (4) Hatályát veszti a Kötv.
 
@@ -501,37 +479,9 @@ c) a feltárásra jogosult intézmény vagy szervezet.
 
 #### 55. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
-55. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) 11/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+55. § (1)
 
-„(1) Kiemelten közérdekű beruházás esetében a Kormány rendeletben állapíthatja meg a kiemelten közérdekű beruházás helyszínére és közvetlen környezetére vonatkozóan
-
-a) a sajátos településrendezési és beépítési szabályokat, valamint a beruházással érintett építményekre vonatkozó egyedi építési követelményeket,
-
-b) a sajátos telekalakítási követelményeket,
-
-c) az egyedi településképi követelményeket,
-
-d) az egyedi örökségvédelmi szabályokat,
-
-e) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. §-a szerinti környezetvédelmi és fás szárú növények védelmére vonatkozó előírásokat.”
-
-(2) Az Ngtv. 11/D. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Kormány a 11/B. § (1) bekezdése szerinti követelmények meghatározásával együtt rendeletben határozhatja meg
-
-a) az építésügyi hatósági eljárások – közműegyeztetésekre is kiterjedő –,
-
-b) a telekalakítási hatósági eljárás,
-
-c) a tűzvédelmi hatósági eljárások,
-
-d) a településképi véleményezési és bejelentési eljárás,
-
-e) az örökségvédelmi hatósági eljárások,
-
-f) a környezetvédelmi és a fás szárú növények védelmére vonatkozó hatósági eljárások
-
-ágazati jogszabályban foglaltaktól eltérő különös eljárási szabályait.”
+(2)
 
 (3)
 
@@ -643,13 +593,9 @@ lép.
 
 (4)
 
-(5) Az Evectv. „Átmeneti rendelkezések” alcíme a következő 38/D. §-sal egészül ki:
+(5)
 
-„38/D. § Az egyéni vállalkozói igazolványok 2020. január 1-jén érvénytelenné válnak. Az egyéni vállalkozó köteles 2020. március 1-ig leadni az érvénytelen igazolványt a Hatóság részére. A leadott igazolványt a Hatóság bevonja. Ha az egyéni vállalkozó az igazolványt nem adta le, vagy nem küldte meg, azt a Hatóság visszavonja.”
-
-(6) Az Evectv. „Átmeneti rendelkezések” alcíme a következő 38/E. §-sal egészül ki:
-
-„38/E. § A 11. § (1) bekezdés h) pontja szerinti adatokat a 2019. december 31-i állapotnak megfelelően a nyilvántartást vezető szerv az egyéni vállalkozói igazolvány leadásának ellenőrzése és az egyéni vállalkozói igazolvány visszavonására irányuló eljárás lefolytatása érdekében archiválja. Az archivált adatokat a nyilvántartást vezető szerv legkésőbb 2020. december 31-én törli.”
+(6)
 
 (7) Az Evectv.
 
@@ -659,7 +605,7 @@ lép.
 - d)
 - e)
 - f)
-- g) 39. § (1) bekezdés a) pontjában a „nyilvántartást vezető szervet” szövegrész helyébe a „nyilvántartást vezető szervet, a Közreműködő Szervet” szöveg
+- g)
 
 lép.
 
@@ -761,9 +707,7 @@ lép.
 
 #### 79. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-79. § A munka törvénykönyvéről szóló 2012. évi I. törvény 34. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A gyámhatósághoz a foglalkoztatást megelőző legalább 15 nappal történő előzetes bejelentés alapján a jogszabályban meghatározott kulturális, művészeti, sport-, hirdetési tevékenység keretében a tizenhatodik életévét be nem töltött személy is foglalkoztatható.”
+79. §
 
 #### 80. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
@@ -847,18 +791,7 @@ lép.
 
 #### 97. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény és kapcsolódó törvények módosításáról szóló 2018. évi XCVII. törvény módosítása
 
-97. § (1) A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény és kapcsolódó törvények módosításáról szóló 2018. évi XCVII. törvény (a továbbiakban: Turizmusmód tv.) 12. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A 4. § (2) bekezdése, az 5. § (3) bekezdése, a 8. §, valamint a 2. és 3. alcím 2020. szeptember 1-jén lép hatályba.”
-
-(2) A Turizmusmód tv. 4. § (2) bekezdésének
-
-- a) a Turizmus tv. 9/H. § (1) bekezdés a) pontját módosító rendelkezése a „nemét” szövegrész helyett a „nemét, állampolgárságát” szöveggel,
-- b) a Turizmus tv. 9/H. § (1) bekezdés b) pontját módosító rendelkezése az „azonosító adatait” szövegrész helyett az „azonosító adatait, a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti harmadik országbeli állampolgár esetében a vízum vagy tartózkodási engedély számát, valamint a beutazás időpontját, helyét” szöveggel,
-- c) a Turizmus tv. 9/H. § (1) bekezdés c) pontját módosító rendelkezése a „várható befejező” szövegrész helyett a „várható, valamint tényleges befejező” szöveggel,
-- d) a Turizmus tv. 9/H. § (6) bekezdését módosító rendelkezése a „szálláshely-szolgáltatónál” szövegrész helyett a „szálláshely-szolgáltatásnál” szöveggel
-
-lép hatályba.
+97. §
 
 #### 98. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
@@ -870,11 +803,7 @@ lép hatályba.
 
 #### 99. Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvény módosítása
 
-99. § (1) Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvény 191. §-a a következő (12a) bekezdéssel egészül ki:
-
-„(12a) A 164. § (2) bekezdése 2020. szeptember 1-jén lép hatályba.”
-
-(2) Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvény 191. § (11) bekezdésében az „a 112. § (1) és (2) bekezdése, a 164. § (2) bekezdése” szövegrész helyébe az „a 112. § (1) és (2) bekezdése” szöveg lép.
+99. §
 
 #### 100. Záró rendelkezések
 
