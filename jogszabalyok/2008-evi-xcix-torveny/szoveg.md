@@ -76,11 +76,11 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 ### 2. CÍM — A Nemzeti Előadó-művészeti Érdekegyeztető Tanács
 
-5. § (1) A Nemzeti Előadó-művészeti Érdekegyeztető Tanács (a továbbiakban: NEÉT) az e törvény által szabályozott jogviszonyokat érintő szakmai, szakmapolitikai és támogatási kérdések érdekegyeztetési fóruma.
+5. § (1) A Nemzeti Előadó-művészeti Érdekegyeztető Tanács (a továbbiakban: NEÉT) az e törvény által szabályozott jogviszonyokat érintő szakmai és szakmapolitikai érdekegyeztetési fórum.
 
 (2) A NEÉT 24 tagú. A tagok megbízatásának időtartama 4 év, amely legfeljebb egyszer újabb 4 évre meghosszabbítható.
 
-(3) A NEÉT véleményezi az előadó-művészeti bizottságoknak az előadó-művészeti szervezetek minősítésére vonatkozó javaslatát, valamint az előadó-művészeti bizottságok által előkészített, a nem állami fenntartású, minősítéssel rendelkező előadó-művészeti szervezetek támogatására vonatkozó felosztási szabályzatokat, továbbá ellátja az (1) bekezdésben meghatározott szerepéből eredő további feladatokat.
+(3) A NEÉT véleményezi az előadó-művészeti bizottságoknak az előadó-művészeti szervezetek minősítésére vonatkozó javaslatát, valamint ellátja az (1) bekezdésben meghatározott szerepéből eredő további feladatokat.
 
 (4)–(5)
 
@@ -111,7 +111,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - a) a miniszter felkérésére vagy saját kezdeményezésre javaslatot tesz az előadó-művészeti tevékenységet érintő szabályozási kérdésekben,
 - b) figyelemmel kíséri az előadó-művészeti terület helyzetét és lehetőségeit, különös tekintettel az előadó-művészeti szervezetek támogatási rendszerére, és szükség esetén javaslatot tesz annak felülvizsgálatára,
 - c) javaslatot tesz a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek körére,
-- d) a központi költségvetési támogatás megállapítása érdekében kidolgozza és a NEÉT-nek véleményezésre és javaslattételre, a miniszternek jóváhagyásra továbbítja a nem állami fenntartású, minősítéssel rendelkező előadó-művészeti szervezetek központi költségvetési támogatására irányadó felosztási szabályzatot,
+- d) a központi költségvetési támogatás megállapítása érdekében kidolgozza és a miniszternek jóváhagyásra továbbítja a nem állami fenntartású, minősítéssel rendelkező táncművészeti szervezetek központi költségvetési támogatására irányadó felosztási szabályzatot,
 - e) az előadó-művészeti szervezet vezetője munkakörének betöltésére kiírt pályázati eljárás során tagokat delegál a szakmai bizottságba,
 - f) a miniszter felkérésére előzetesen véleményt nyilvánít a 4. § d) pont szerinti közszolgáltatási szerződés megkötéséről,
 - g) szakmai vélemény kialakításával segíti a minisztert a 4. § f) pontjában foglaltakra vonatkozó álláspontjának kialakítása előtt,
@@ -225,11 +225,10 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 15. § (1) E törvény alapján központi költségvetési támogatás kizárólag az Európai Bizottságnak a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetébe sorolt fejezeti kezelésű előirányzatból és a Nemzeti Kulturális Alapból nyújtott támogatás tárgyában hozott SA.34770 (2012/N-2) számú határozatával összhangban nyújtható.
 
-(2) A központi költségvetés támogatást biztosít
+(2) E törvényben meghatározott esetben a központi költségvetés támogatást biztosít
 
-- a) nemzeti előadó-művészeti szervezet és a kiemelt előadó-művészeti szervezet fenntartója,
-- b) az a) pont szerinti szervezettel közszolgáltatási szerződést kötött önkormányzat, vagy
-- c) ha az előadó-művészeti szervezetnek nincs fenntartója, nem rendelkezik közszolgáltatási szerződéssel, valamint a 11. § és a 12. § szerinti minősítéssel, pályázati úton az előadó-művészeti szervezet
+- a) a tánc- és zeneművészeti szervezet fenntartója, vagy annak hiányában a tánc- és zeneművészeti szervezet,
+- b) ha az előadó-művészeti szervezetnek nincs fenntartója, nem rendelkezik közszolgáltatási szerződéssel, valamint a 11. § és a 12. § szerinti minősítéssel, pályázati úton az előadó-művészeti szervezet
 
 részére.
 
@@ -241,15 +240,30 @@ részére.
 
 (6)
 
-16. § (1)
+16. § (1) A színházak működtetéséért a fenntartó a felelős.
 
-(2) A központi költségvetési támogatás önkormányzati fenntartású előadó-művészeti szervezet számára csak abban az esetben nyújtható, ha az az önkormányzattal a támogatás folyósításakor hatályos, legalább hároméves fenntartói megállapodást kötött. Fenntartói megállapodás csak teljes naptári évre köthető. Nem kell fenntartói megállapodást kötnie az előadó-művészeti szervezetnek a vele közszolgáltatási szerződést kötött önkormányzattal.
+(2) Az állam által fenntartott színházak működtetéséhez szükséges forrásokat a központi költségvetés biztosítja.
 
-(3)–(5)
+(3) Az önkormányzati fenntartású színház működtetéséhez szükséges forrásokat az önkormányzat a saját költségvetéséből biztosítja.
+
+(4) Ha az önkormányzat az önkormányzati fenntartású színház részére a működéséhez szükséges forrásokat teljeskörűen nem biztosítja, az önkormányzat a Kormányhoz közös működtetésre vonatkozó kérelmet terjeszthet elő a Kormány által rendeletben meghatározott időpontig.
+
+(5) A kérelmet a Kormány megvizsgálja, és határozatában dönt a közös működtetésről.
+
+(6) Ha a Kormány a kérelemben foglaltak teljesítéséről határoz, a közös működtetésről a Kormány határozatának közzétételétől számított 30 napon belül a miniszter és az önkormányzat megállapodást köt.
+
+(7) A színház közös működtetésére irányuló megállapodásnak garantálnia kell a közös működtetésben működő színház művészeti szabadságát.
+
+(8) A színház közös működtetésére irányuló megállapodásban a miniszter és az önkormányzat
+
+- a) meghatározza – ideértve a vezetői kinevezés módját is – a színház közös működtetésének és működésének részletes szabályait;
+- b) rögzíti a központi költségvetésből juttatandó támogatás és az önkormányzati támogatás mértékét.
+
+16/A. § A központi költségvetés a nem állami fenntartású, nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített zene- és táncművészeti szervezetek támogatását felosztási szabályzat alapján biztosítja.
 
 ### 2. CÍM — Az előadó-művészeti szervezetek központi költségvetési támogatásai és az igénybevétel feltételei
 
-17. § (1) A nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített színház, balett- és táncegyüttes esetén a 15. § (2) bekezdése szerinti jogosultat az előadó-művészeti szervezet szakmai programjának megvalósításához művészeti támogatás, és az előadó-művészeti szervezet feladatellátással összefüggő működési kiadásaihoz működési támogatás illeti meg.
+17. § (1) Nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített balett- és táncegyüttes esetén a 15. § (2) bekezdése szerinti jogosultat az előadó-művészeti szervezet szakmai programjának megvalósításához művészeti támogatás, és az előadó-művészeti szervezet feladatellátással összefüggő működési kiadásaihoz működési támogatás illeti meg.
 
 (2) A művészeti támogatás az előadó-művészeti szervezet által nyújtott művészeti tevékenységhez közvetlenül kapcsolódó művészi, művészeti szolgáltatások igénybevételéhez, eszközök – különösen színpadtechnikai eszközök –, anyagok beszerzéséhez, illetve művészi, művészeti munkakörben való foglalkoztatáshoz, felhasználási jogok megszerzéséhez nyújtott hozzájárulás, amelyet más célra felhasználni, átcsoportosítani nem lehet.
 
@@ -595,7 +609,8 @@ részére.
 - p) szabályozza a zenekar és az énekkar tevékenysége folytatásának tárgyi feltételeit,
 - q) határozza meg az e törvény alapján a helyi önkormányzatok központi költségvetési kapcsolataiból származó támogatásokat tartalmazó fejezetből – az Európai Bizottság által jóváhagyott kulturális támogatási programmal összhangban – nyújtott támogatás elszámolható költségeinek körét, a támogatás felhasználásáról készült, e törvény szerinti beszámoló formai és tartalmi követelményeit, továbbá a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat,
 - r) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, a pályázatok véleményezésére felkért szakmai bizottság összetételét és eljárásának rendjét, valamint a pályázatok elbírálásának rendjét,
-- s) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetője tekintetében a munkakör betöltésének feltételeit és a feltételek alól adható felmentés szabályait.
+- s) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetője tekintetében a munkakör betöltésének feltételeit és a feltételek alól adható felmentés szabályait,
+- t) állapítsa meg az állami és önkormányzati közös működtetés kérelmezésének határidejét.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
