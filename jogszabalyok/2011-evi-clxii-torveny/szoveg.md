@@ -37,6 +37,8 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 (4) Ha a köztársasági elnök által korábban felmentett bírót a munkaügyi jogvita alapján bírói tisztségébe vissza kell helyezni, a köztársasági elnök a felmentést megelőző kinevezés szerinti határozott vagy határozatlan idejű kinevezést ad.
 
+(4a) Ha az Alkotmánybíróság tagja az Alkotmánybíróságról szóló törvény szerint kérelmezte bíróvá történő kinevezését, őt a köztársasági elnök pályázat kiírása nélkül határozatlan időre bíróvá kinevezi.
+
 (5) A kinevezésre vonatkozó javaslat és a kinevezési okirat tartalmazza a bírói szolgálati viszony kezdetét, valamint határozott idejű kinevezés esetén a bírói szolgálati viszony időtartamát, határozatlan idejű kinevezés esetén az erre való utalást.
 
 #### 3. A bírói kinevezés feltételei
@@ -111,7 +113,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 
 8. § (1) Nem kell pályázatot kiírni
 
-- a) a 3. § (4) bekezdésében,
+- a) a 3. § (4) és (4a) bekezdésében,
 - b) a 23. § (3) bekezdésében,
 - c) a 24. § (3) bekezdésében,
 - d) a 34. § (2) bekezdésében,
@@ -439,9 +441,11 @@ elnökének véleményét.
 
 (4) A bíró köteles a bírói szolgálati viszonya szerinti munkaidejét nem érintő munkavégzésre irányuló egyéb jogviszony létesítését a munkáltatói jogkör gyakorlójának előzetesen bejelenteni. A munkáltatói jogkör gyakorlója a jogviszony létesítését megtiltja, ha az a bíró bírói szolgálati viszonya alapján betöltött munkakörével e törvény rendelkezései szerint összeférhetetlen.
 
-(5) A bíró nem lehet választottbíróság tagja.
+(5) A bíró nem lehet választottbíróság tagja, kivéve az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelv alapján létrehozott és az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény III/A. Fejezete szerint létrehozott tanácsadó bizottsági tagságot.
 
 (6) A bíró nem veheti igénybe öregségi nyugdíj, korhatár előtti ellátás, vagy más olyan pénzbeli ellátás folyósítását, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani.
+
+(7) A bíróval kapcsolatban az alkotmánybírói tisztsége miatt összeférhetetlenség nem áll fenn.
 
 41. § A bíróság elnökének, elnökhelyettesének, valamint kollégiumvezetőjének és helyettesének, csoportvezetőjének és helyettesének a hozzátartozója ugyanazon bíróságon, kollégiumban vagy csoportban bíróként nem működhet.
 
@@ -773,7 +777,16 @@ történő rendelkezésre állás.
 
 88. § (1) Ha a bíró országgyűlési, európai parlamenti, helyi önkormányzati képviselői vagy polgármesteri választáson jelöltetni kívánja magát, köteles e szándékát – legkésőbb a jelöltkénti indulásának a választási szervnél való bejelentését követő napig – a munkáltatói jogkör gyakorlójának bejelenteni. A bejelentéstől a választás eredményének közzétételéig, illetve megválasztása esetén mandátuma igazolásáig a bíró szolgálati viszonya szünetel. A szünetelés időtartama szolgálati viszonyban töltött időnek minősül.
 
+(1a) A bíró szolgálati viszonya – a 96. § (3) bekezdésében foglalt eset kivételével –, ha
+
+- a) a bírót az Országgyűlés az Alkotmánybíróság tagjává választotta, a hivatalba lépésétől az Alkotmánybíróságban betöltött tagsága megszűnéséig,
+- b) a 3. § (4a) bekezdés szerint jön létre, a kinevezésétől az Alkotmánybíróságban betöltött tagsága megszűnéséig
+
+szünetel.
+
 (2) A szolgálati viszony szünetelését követően a bíró beosztására az 58. § (3) és (4) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
+
+(3) A szolgálati viszony (1a) bekezdés szerinti szünetelését követően a Kúria elnöke a bírót a Kúriára osztja be.
 
 #### 42. A bírói szolgálati viszonyának megszűnése
 
@@ -829,6 +842,8 @@ történő rendelkezésre állás.
 96. § (1) A 90. és 91. §-ban foglalt feltételek fennállása esetén a bíró felmentésére vonatkozó javaslatot – a bíróság elnökének kezdeményezésére, illetve a közigazgatási és munkaügyi bíróság vagy a szolgálati bíróság jelzése alapján – az OBH elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.
 
 (2) Ha a bíró felmentésére azért kerül sor, mert betöltötte a felmentési okként meghatározott életkort, az előterjesztést olyan időpontban kell megtenni, hogy a felmentési idő ennek az életkornak a betöltését megelőzően járjon le.
+
+(3) Ha a bíró szolgálati viszonya a 88. § (1a) bekezdés alapján szünetel, és ez alatt betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt, a felmentésére vonatkozó javaslatot – az OBH elnökének egyidejű értesítése mellett – az Alkotmánybíróság elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.
 
 97. § (1) A katonai bíró felmentéséről szóló javaslatot az OBH elnöke a honvédelemért felelős miniszterrel együttesen terjeszti a köztársasági elnök elé.
 
@@ -1285,7 +1300,7 @@ lehet adatot továbbítani.
 
 (4) A Kúria elnöke külföldre utazás és külföldről történő hazautazás esetén, illetve hivatalos külföldi küldöttség fogadása, kísérése céljából jogosult a repülőtéri kormányváró helyiségek használatára.
 
-154. § A Kúria elnöke – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre jogosult.
+#### 154. §
 
 155. § A Kúria elnöke, valamint a vele együtt üdülő házastársa, élettársa, gyermeke, szülője, unokája és gyermekének házastársa – térítési díj ellenében – jogosult a Kormány központi üdülőjének használatára. A térítési díj a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját foglalja magában.
 
@@ -1700,7 +1715,7 @@ végzi.
 
 206. § (1) Az ellenőrzés célja a vagyongyarapodás okának megállapítása. Az OBT vagy az általa kijelölt tagja
 
-- a) a bírót, a vele közös háztartásban élő hozzátartozót, valamint más személyeket meghallgathat,
+- a) a bírót, a vele közös háztartásban élő hozzátartozót, valamint más személyeket – arról való tájékoztatásuk mellett, hogy nem kötelesek a kérdésekre válaszolni – meghallgathatja,
 - b) szakértőt rendelhet ki,
 - c) más szervektől, személyektől adatokat szerezhet be.
 
@@ -2005,6 +2020,10 @@ kerülhet sor.
 
 (2) Az (1) bekezdés szerinti esetben az OBH elnöke a kinevezésre vonatkozó javaslatának felterjesztése előtt megvizsgálja a kinevezési feltételeknek való megfelelést is. Ha a kinevezésre vonatkozó javaslatra a bírói szolgálati viszony vagy az igazságügyi alkalmazotti jogviszony megszűnését követő 3 hónapon belül kerül sor, a kinevezésre javasolt személy mentesül a 12. § (1) bekezdés b) pontja szerinti igazolás bemutatásának kötelezettsége alól. A kinevezésre javasolt személy mentesül a 12. § (1) bekezdés c) pontja szerinti igazolás bemutatásának kötelezettsége alól.
 
+232/L. § Ha a bírót az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépését megelőzően választotta meg az Országgyűlés az Alkotmánybíróság tagjává, de még az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépésekor nem lépett hivatalba, az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított 88. § (1a) bekezdése akként alkalmazandó, hogy a bíró szolgálati viszonya a hivatalba lépésétől – a 96. § (3) bekezdésében foglalt eset kivételével – az Alkotmánybíróságon betöltött tagsága megszűnéséig szünetel.
+
+232/M. § A Kúria 2020. január 1-jén hivatalban lévő elnöke a megbízatása megszűnéséig jogosult – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre.
+
 233. § E törvény
 
 - a) az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló, 1996. június 3-i 96/34/EK tanácsi irányelvnek,
@@ -2012,7 +2031,8 @@ kerülhet sor.
 - c) az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyról kötött keretmegállapodásról szóló, 1999. június 28-i 1999/70/EK tanácsi irányelvnek,
 - d) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek,
 - e) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelvnek,
-- f) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelvnek
+- f) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelvnek,
+- g) 40. § (5) bekezdése az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való
 
 való megfelelést szolgálja.
 
@@ -2024,7 +2044,7 @@ való megfelelést szolgálja.
 
 (4)
 
-237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, továbbá 236. §-a az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/M. §-a, továbbá 236. §-a az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Bjt.
 

@@ -8,7 +8,7 @@ Az Országgyűlés a behozott kőolaj és kőolajtermékek biztonsági készlete
 
 1. § E törvény alkalmazásában:
 
-- 1. biztonsági kőolajkészlet: az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet C. melléklet 3.1. pont első bekezdésében meghatározott nyersolajból és kőolajtermékekből álló, e törvény szerint kötelezően tárolandó készlet;
+- 1. biztonsági kőolajkészlet: az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet A. melléklet 3.4. fejezetében meghatározott nyersolajból és kőolajtermékekből álló, e törvény szerint kötelezően tárolandó készlet;
 - 2. biztonsági kőolajkészlet felszabadítására irányuló nemzetközi döntés: a Nemzetközi Energia Ügynökség kormányzótanácsának döntése, amely a tagjai készleteinek felszabadításával, illetve kiegészítő intézkedésekkel kőolajat vagy kőolajterméket tesz elérhetővé a piac számára;
 - 3. az ellátás súlyos zavara: az Európai Unió vagy valamely tagállam kőolaj- vagy kőolajtermék ellátásának jelentős és hirtelen csökkenése függetlenül attól, hogy eredményezett-e biztonsági kőolajkészlet felszabadítására irányuló nemzetközi döntést;
 - 4. fizikai hozzáférés: a kőolajkészlet kitárolása, szabad forgalomba hozatala, valamint a felhasználók részére történő eljuttatása annak érdekében, hogy enyhítse vagy megoldja az esetlegesen felmerülő ellátási problémákat, valamint lehetővé tegye a készletek karbantartásával, frissítésével kapcsolatos feladatok ellátását;
@@ -20,8 +20,8 @@ Az Országgyűlés a behozott kőolaj és kőolajtermékek biztonsági készlete
 
 (2) Az átlagos napi nettó behozatalt
 
-- a) a január 1-jétől március 31-ig tartó időszak vonatkozásában a tárgyévet megelőző utolsó előtti naptári év,
-- b) az április 1-jétől december 31-ig tartó időszak vonatkozásában a tárgyévet megelőző év (a továbbiakban: referencia év)
+- a) a január 1-jétől június 30-ig tartó időszak vonatkozásában a tárgyévet megelőző utolsó előtti naptári év,
+- b) a július 1-jétől december 31-ig tartó időszak vonatkozásában a tárgyévet megelőző év (a továbbiakban: referencia év)
 
 figyelembevételével kell számítani.
 
@@ -33,7 +33,7 @@ figyelembevételével kell számítani.
 
 (3) A biztonsági kőolajkészlet legalább egyharmadát a 2. melléklet 1. pont b)–f) alpontja szerinti kőolajtermékekből kell képezni, kivéve, ha a Szövetség igazgatótanácsa (a továbbiakban: igazgatótanács) különleges kőolajkészlet képzéséről dönt.
 
-(4) A biztonsági kőolajkészlet mértékének minden év augusztus 1-jétől a következő év március 31-ig meg kell felelnie legalább 90 napi, a 2. § (2) és (3) bekezdése szerint számított átlagos napi nettó behozatalnak.
+(4) A biztonsági kőolajkészlet mértékének minden év július 1-jétől a következő év június 30-ig meg kell felelnie legalább 90 napi, a 2. § (2) és (3) bekezdése szerint számított átlagos napi nettó behozatalnak.
 
 (5) Az átlagos napi nettó behozatal 90 napi mennyiségét meghaladó készletet – az igazgatótanács döntése esetén – a tárgyév során értékesíteni lehet, figyelemmel a készletezési kötelezettség várható alakulására. Az értékesítés nem zavarhatja meg a piac működését. Ha az igazgatótanács az értékesítésről dönt, a Szövetség az értékesítést honlapján meghirdeti.
 
@@ -420,7 +420,7 @@ az e törvény, valamint az Fbkt. hatálya alá tartozó termékkör vonatkozás
 
 47. § (1) Az adatszolgáltatás során a miniszter, illetve az általa kijelölt szervezet a kőolajra és kőolajtermékekre vonatkozó nemzetközi adatszolgáltatásról szóló miniszteri rendeletben foglaltak szerint tájékoztatja a Bizottságot vagy a Nemzetközi Energia Ügynökséget a biztonsági kőolajkészletekről, valamint a készletezéssel összefüggő adatokról.
 
-(2) A miniszter a biztonsági készletet érintő, a megelőző év utolsó napjára vonatkozó, az 5. § (2) bekezdés b) és c) pontja szerinti adatokat minden év február 25-ig, valamint a Bizottság erre irányuló kérése esetén 15 napon belül megküldi a Bizottság részére.
+(2) A miniszter a biztonsági készletet érintő, a megelőző év utolsó napjára vonatkozó, az 5. § (2) bekezdés b) és c) pontja szerinti adatokat minden év március 15-ig, valamint a Bizottság erre irányuló kérése esetén 15 napon belül megküldi a Bizottság részére.
 
 (3) Ha a Szövetség az igazgatótanács döntése alapján különleges kőolajkészletet képez, a miniszter a készlet mennyiségéről és fenntartása időtartamáról értesítést küld a Bizottságnak.
 
@@ -467,7 +467,14 @@ rendeletben állapítsa meg.
 
 52/A. §
 
-53. § Ez a törvény a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek való megfelelést szolgálja.
+53. § (1) E törvény
+
+- a) a tagállamok minimális kőolaj- és/vagy kőolajtermék-készletezési kötelezettségéről szóló, 2009. szeptember 14-i 2009/119/EK tanácsi irányelvnek, valamint
+- b) a 2009/119/EK tanácsi irányelvnek a készletezési kötelezettségek számítási módszerei tekintetében történő módosításáról szóló, 2018. október 19-i 2018/1581/EU bizottsági végrehajtási irányelvnek
+
+való megfelelést szolgálja.
+
+(2) E törvény 47. §-a az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK a 2009/73/EK, a 2010/31/EU, a 2012/27/EU és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i 2018/1999/EU európai parlamenti és tanácsi rendelet 48. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
 
 54. § (1)–(2)
 
@@ -483,9 +490,9 @@ rendeletben állapítsa meg.
 - 2. ahol:
 - 2.1. Qfinomítói_alapanyag_nettó_import: az energiastatisztikáról szóló 1099/2008/EK rendelet A. melléklete 3.4. pontjában meghatározott nyersolaj, földgáz-kondenzátumok, finomítói nyersanyagok, adalékok, oxigenátok és egyéb szénhidrogének referencia évi nettó behozatali mennyisége (toe);
 - 2.2. Qfinomítói_készletváltozás: a finomítói alapanyag kereskedelmi és biztonsági készletek évi nyitó és záró mennyiségének különbözete (toe), amely során nem számítható be az a technológiai készlet, amely a finomító rendeltetésszerű működését biztosítja;
-- 2.3. Qvegyipari_benzin_korrekció: a hazai átlagos vegyipari benzin kihozatalnak megfelelő korrekció, melynek értéke, ha a hazai átlagos vegyipari benzin kihozatal mértéke a felhasznált finomítói alapanyagokra vetítetten a 7%-ot
-- 2.3.1. nem haladja meg: a Qfinomítói_alapanyag_nettó_import + Qfinomítói_készletváltozás 4%-a,
-- 2.3.2. meghaladja: az Igazgatótanács – a 3. § (4) bekezdés figyelembevételével meghozott – döntése alapján a hazai vegyipari benzin fogyasztás tényleges mennyisége (toe) vagy a hazai vegyipari benzin kihozatal átlagos értéke (%);
+- 2.3. Qvegyipari_benzin_korrekció: a hazai átlagos vegyipari benzin kihozatalnak megfelelő korrekció, amelynek értéke, az Igazgatótanács – a 3. § (4) bekezdés figyelembevételével meghozott – döntése alapján:
+  - a) 4%, vagy
+  - b) a hazai vegyipari benzinfogyasztás tényleges mennyisége (toe), vagy a hazai vegyipari benzin kihozatal átlagos értéke (%);
 - 2.4. Qkőolajtermék_nettó_import: az energiastatisztikáról szóló 1099/2008/EK rendelet A. melléklete 3.4. pontjában meghatározott nem cseppfolyósított finomítói gáz, etán, propán-bután gázok, motorbenzin, repülőbenzin, benzin típusú sugárhajtó-üzemanyag, kerozin típusú sugárhajtó-üzemanyag, egyéb kerozin, gázolaj/dízelolaj, fűtőolaj, lakkbenzin és speciálbenzin, kenőanyagok, bitumen, paraffinviaszok, petrolkoksz, egyéb termékek referencia évi nettó behozatali mennyisége (toe);
 - 2.5. Qkőolajtermék_készletváltozás: a kőolajtermék kereskedelmi és biztonsági készletek referencia évi nyitó és záró mennyiségének különbözete (toe), amely során nem számítható be az a technológiai készlet, amely a finomító rendeltetésszerű működését biztosítja;
 - 2.6. T: a referencia év napjainak száma;
@@ -532,7 +539,7 @@ rendeletben állapítsa meg.
   - d) a vállalás közzétételre került az Európai Unió Hivatalos Lapjában, és
   - e) a vállalt és közzétett kötelezettség módosítása naptári hónap első napjára esik.
 - 2. A különleges kőolajkészletek mennyiségének meg kell felelnie az e mellékletben meghatározott éves belföldi fogyasztás legalább 30 napra eső mennyiségének. A különleges kőolajkészlet mértéke kizárólag termékfrissítési célból, ideiglenesen csökkenthető.
-- 3. Ha különleges kőolajkészlet képzésére kerül sor, úgy az 1. pont b) alpontjában hivatkozott belföldi fogyasztást a következő módon kell meghatározni: az éves belföldi fogyasztás kizárólag a következő termékek – az 1099/2008/EK rendelet C. mellékletének 3.2.1. pontjában meghatározott – adott naptári évben „megfigyelt bruttó belföldi szállításának” összege adja: motorbenzin, repülőbenzin, benzin típusú sugárhajtómű-üzemanyag, kerozin típusú sugárhajtómű-üzemanyag, egyéb kerozin, motorikus gázolaj/dízelolaj, háztartási és egyéb tüzelőolaj, fűtőolaj – alacsony kéntartalmú (1%-nál alacsonyabb), fűtőolaj – magas kéntartalmú (1%-nál magasabb). A belföldi fogyasztás kőolaj-egyenértékének kiszámításához 1,2-es szorzót kell alkalmazni.
+- 3. Ha különleges kőolajkészlet képzésére kerül sor, úgy az 1. pont b) alpontjában hivatkozott belföldi fogyasztást a következő módon kell meghatározni: az éves belföldi fogyasztás kizárólag a következő termékek – az 1099/2008/EK rendelet C. mellékletének 3.2.2.11. pontjában meghatározott – adott naptári évben „megfigyelt bruttó belföldi szállításának” összege adja: motorbenzin, repülőbenzin, benzin típusú sugárhajtómű-üzemanyag, kerozin típusú sugárhajtómű-üzemanyag, egyéb kerozin, motorikus gázolaj/dízelolaj, háztartási és egyéb tüzelőolaj, fűtőolaj – alacsony kéntartalmú (1%-nál alacsonyabb), fűtőolaj – magas kéntartalmú (1%-nál magasabb). A belföldi fogyasztás kőolaj-egyenértékének kiszámításához 1,2-es szorzót kell alkalmazni.
 - 4. A különleges kőolajkészlet mennyiségének számítása során
   - a) a kőolajtermékbe kevert, vagy
   - b) a Magyarországon tárolt, kőolajtermékhez kevert és a közlekedésben alkalmazott bioüzemanyagok (ide értve a biomassszát) és adalékok vehetők figyelembe. E pont alkalmazásában:

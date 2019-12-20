@@ -104,7 +104,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 45b. Megújulóenergia-támogatási rendszer: jogszabállyal létrehozott olyan intézkedés, eszköz, rendszer vagy mechanizmus, amely a megújuló energiaforrásokból előállított energia felhasználására ösztönöz ezen energia költségének csökkentésével, az ezen energiát előállítók bevételének emelésével, vagy a megújuló energiaforrásokból előállított energia megvásárolt mennyiségének – a megújuló energiával kapcsolatos kötelezettség bevezetése révén vagy egyéb módon való – növelésével, ideértve a közvetlenül vagy közvetve nyújtott beruházási és működési támogatásokat, valamint a megújuló energiaforrások alkalmazását elősegítő közvetlen ártámogatásokat, adókedvezményeket, adó-visszatérítéseket, megújuló energiaforrások alkalmazására, annak kötelező átvételére vonatkozó előírásokat is;
 - 46. Mérlegkör: a kiegyenlítő energia igénybevételének okozathelyes megállapítására és elszámolására és a kapcsolódó feladatok végrehajtására a vonatkozó felelősségi viszonyok szabályozása érdekében létrehozott, egy vagy több tagból álló elszámolási szerveződés;
 - 47. Nemzeti Cselekvési Terv: a közlekedésben, a villamosenergia-fogyasztásban, a fűtésben és hűtésben felhasznált, megújuló energiaforrásokból előállított energia 2020-as részarányaira vonatkozó – az energiahatékonysággal kapcsolatos egyéb intézkedéseknek a végső energiafogyasztásra gyakorolt hatásait figyelembe vevő – a Magyarországra érvényes célértékeket, és az e célértékek elérésére alkalmas, foganatosítandó intézkedéseket tartalmazó terv;
-- 47a. nemzetközi üzemi és kereskedelmi szabályzat: a 714/2009/EK rendelet alapján kiadott európai bizottsági rendeletek szerint jóváhagyott feltételeket és módszertanokat tartalmazó szabályzat;
+- 47a. nemzetközi üzemi és kereskedelmi szabályzat: a 714/2009/EK rendelet és a 2019/943/EU rendelet alapján kiadott európai bizottsági rendeletek szerint jóváhagyott feltételeket és módszertanokat tartalmazó szabályzat;
 - 48. Együttműködő villamosenergia-rendszer: legalább két, egy vagy több rendszerösszekötő vezetékkel összekapcsolt villamosenergia-rendszer, melyből az egyik Magyarország területén működik;
 - 49. Összekötő berendezés: több felhasználó által használt ingatlan belső vezetékhálózatának nem az elosztó tulajdonában álló, a csatlakozási pont után lévő méretlen szakasza;
 - 49a. Profil: statisztikai elemzéssel készült normalizált, 1000 kWh éves fogyasztásra vonatkoztatott éves felhasználói villamosteljesítmény-igény görbe;
@@ -340,7 +340,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 - c) a villamos energia megfelelő minőségű továbbítása, és
 - d) az átviteli rendszerirányításhoz szükséges eszközök üzemeltetése, karbantartása és fejlesztése.
 
-15. § Az átviteli rendszerirányító e törvényben és a villamos energia határokon keresztül történő kereskedelme esetén alkalmazandó hálózati hozzáférési feltételekről és az 1228/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i, 714/2009/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 714/2009/EK rendelet), valamint az annak felhatalmazása alapján kiadott EU bizottsági rendeletben meghatározott feladatait átlátható módon, befolyásmentesen és az egyenlő bánásmód követelményének megfelelően köteles végrehajtani.
+15. § Az átviteli rendszerirányító e törvényben, a 2019/943/EU rendeletben, valamint a 714/2009/EK rendelet és a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendeletben meghatározott feladatait átlátható módon, befolyásmentesen és az egyenlő bánásmód követelményének megfelelően köteles végrehajtani.
 
 16. § Az átviteli rendszerirányító feladatai a villamosenergia-ellátás biztonságával, az átviteli és elosztó hálózatok üzemével kapcsolatban
 
@@ -358,9 +358,9 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 - m) az európai rendszer-együttműködésből a magyar villamosenergia-rendszerre nézve keletkező feladatok összehangolása,
 - n) az átviteli hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása,
 - o) a keresletoldali szabályozási intézkedéseknek a villamosenergia-ellátási szabályzatokban meghatározott összehangolása és ösztönzése,
-- p) az átviteli hálózattal kapcsolatos valamennyi díj, a 714/2009/EK rendelet 13. cikke és az átvitelirendszer-üzemeltetők közötti ellentételezések mechanizmusára és az átviteli díjak szabályozásának közös elveire vonatkozó iránymutatás megállapításáról szóló 2010. szeptember 23-i, 838/2010/EU európai bizottsági rendelet (a továbbiakban: 838/2010/EU rendelet) szerinti, az átviteli rendszerüzemeltetők közötti ellentételezési mechanizmus keretében előírt kifizetések teljesítése, és ennek keretében az átviteli rendszerirányítót megillető bevételek, továbbá a szűk keresztmetszetek kezeléséért felszámított díjak beszedése és elszámolása.
+- p) az átviteli hálózattal kapcsolatos valamennyi díj, a 2019/943/EU rendelet 49. cikke és a 838/2010/EU európai bizottsági rendelet szerinti, az átviteli rendszerüzemeltetők közötti ellentételezési mechanizmus keretében előírt kifizetések teljesítése, és ennek keretében az átviteli rendszerirányítót megillető bevételek, továbbá a szűk keresztmetszetek kezeléséért felszámított díjak beszedése és elszámolása,
 - q) Vhr.-ben meghatározott pénzügyi biztosítékok meglétének folyamatos figyelemmel kísérése, és a Vhr.-ben meghatározott esetekben a Hivatal tájékoztatása,
-- r) a 2015/1222/EU bizottsági rendeletben foglalt feladatok elvégzése.
+- r) a 714/2009/EK rendelet és a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendeletben foglalt feladatok elvégzése.
 
 17. § (1) Az átviteli rendszerirányító
 
@@ -372,7 +372,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 - f) közreműködik a regionális piacok kialakításában, és jogosult az egységes villamosenergia-piac kialakításának megkönnyítése érdekében közös vállalkozás létrehozására;
 - g) a kijelölt villamosenergiapiac-üzemeltetővel kötött megállapodás esetén hozzájárulhat a 2015/1222/EU bizottsági rendelet 76. cikk (1) bekezdésében előírt költségekhez, amennyiben a Hivatal a 2015/1222/EU rendelet 76. cikk (3) bekezdésében foglaltak szerint a költség-hozzájárulási javaslatot előzetesen jóváhagyja.
 
-(2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a szűkületkezelési eljárásokban történő együttműködéssel kapcsolatos, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodást a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásról az átviteli rendszerirányító a minisztert és a Hivatalt tájékoztatja.
+(2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a szűkületkezelési eljárásokban történő együttműködéssel kapcsolatos, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodást a Hivatal előzetes tájékoztatásával jogosult megkötni. A megkötött megállapodásról az átviteli rendszerirányító a minisztert és a Hivatalt tájékoztatja.
 
 18. § Az átviteli rendszerirányító legalább félévente köteles a Hivatal és a miniszter részére a magyar villamosenergia-rendszer rendszerszintű teljesítmény- és energiamérlegét, primer energiaforrás felhasználását, az erőművi kapacitások különböző időtávú rendelkezésre állását, az átviteli és elosztó hálózatok fejlesztését, valamint a fogyasztás alakulását bemutató állapotjelentést küldeni.
 
@@ -382,7 +382,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 20. § (1) A rendszerhasználók kötelesek az átviteli rendszerirányítótól igénybe venni és megtéríteni a villamos energia vásárlásához kapcsolódó, a villamosenergia-ellátási szabályzatokban meghatározott rendszerszintű szolgáltatásokat.
 
-(2) Az átviteli rendszerirányító a rendszerszintű szolgáltatások biztosításához, az átviteli hálózati veszteség pótlásához, valamint az átvételi kötelezettség alá eső villamos energia mérlegkörének kiegyenlítéséhez szükséges kapacitásokat és villamos energiát bármely hazai vagy külföldi termelő, villamosenergia-kereskedő vagy arra alkalmas berendezéssel rendelkező felhasználó által hozzáférhető módon, nyilvánosan szerzi be.
+(2) Az átviteli rendszerirányító a rendszerszintű szolgáltatások biztosításához, az átviteli hálózati veszteség pótlásához, valamint az átvételi kötelezettség alá eső villamos energia mérlegkörének kiegyenlítéséhez szükséges kapacitásokat és villamos energiát a 714/2009/EK rendelet és a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendelet rendelkezéseinek figyelembevételével bármely hazai vagy külföldi termelő, villamosenergia-kereskedő vagy arra alkalmas berendezéssel rendelkező felhasználó által hozzáférhető módon, nyilvánosan szerzi be.
 
 (3) A rendszerszintű szolgáltatások biztosításához és az átviteli hálózati veszteség pótlásához szükséges villamos energia beszerzésének feltételeit a pályázat kiírását megelőzően, külön jogszabályban meghatározott módon nyilvánosságra kell hozni.
 
@@ -402,7 +402,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 #### 22. §
 
-23. § Az átviteli rendszerirányító feladatainak részletes szabályait a működési engedély, a 714/2009/EK rendelet, az annak felhatalmazása alapján kiadott európai bizottsági rendelet, valamint a villamosenergia-ellátási szabályzatok határozzák meg.
+23. § Az átviteli rendszerirányító feladatainak részletes szabályait a működési engedély, a 2019/943/EU rendelet, az annak felhatalmazása alapján kiadott európai bizottsági rendelet, valamint a villamosenergia-ellátási szabályzatok határozzák meg.
 
 ### 2. CÍM — A hálózati engedélyesekre vonatkozó közös szabályok
 
@@ -418,7 +418,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 (4) Az átvitelt befolyásoló elosztó hálózat, illetve hálózatrészek üzemének irányítását a hálózati engedélyesek közötti megállapodás alapján az elosztó végzi. Megállapodás hiányában vagy az átviteli rendszerirányító és az elosztó közötti véleményeltérés esetén az elosztó ez irányú tevékenységét az átviteli rendszerirányító erre vonatkozó utasítása szerint végzi.
 
-25. § (1) Az átviteli rendszerirányító az elosztók által készített fejlesztési tervek és ajánlatok, az aktuális és a várható villamosenergia-felhasználás, -termelés, -kereslet és -kínálat, a határkeresztező villamosenergia-forgalom, az európai villamosenergia-piac követelményei, a regionális és közösségi szintű hálózatokra vonatkozó fejlesztési tervek, valamint a Vhr.-ben meghatározott szempontok figyelembevételével az üzemi szabályzatban meghatározottak szerint évente köteles elkészíteni a villamosenergia-rendszer 132 kV-os és annál nagyobb feszültségű hálózatokra vonatkozó hálózatfejlesztési tervét.
+25. § (1) Az átviteli rendszerirányító az elosztók által készített fejlesztési tervek és ajánlatok, az aktuális és a várható villamosenergia-felhasználás, -termelés, -kereslet és -kínálat, a határkeresztező villamosenergia-forgalom, az európai villamosenergia-piac követelményei, a regionális és közösségi szintű hálózatokra vonatkozó fejlesztési tervek, a 2019/943/EU rendeletben, valamint a Vhr.-ben meghatározott szempontok figyelembevételével az üzemi szabályzatban meghatározottak szerint évente köteles elkészíteni a villamosenergia-rendszer 132 kV-os és annál nagyobb feszültségű hálózatokra vonatkozó hálózatfejlesztési tervét.
 
 (2) A hálózatfejlesztési tervben meg kell jelölni az átviteli hálózatnak a következő tíz évben megépítendő vagy felújítandó elemeit, a már jóváhagyott fejlesztéseket, a következő három évben megvalósítandó beruházásokat, valamint ez utóbbiak tervezett ütemezését.
 
@@ -426,7 +426,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 (4) Az átviteli rendszerirányító által készített, (1) és (2) bekezdésben meghatározott hálózatfejlesztési tervet a Hivatal a Vhr.-ben meghatározott szempontrendszer alapján hagyja jóvá. Amennyiben az átviteli rendszerirányító a fejlesztési tervben eltér az elosztó által benyújtott fejlesztési tervtől vagy ajánlattól, köteles – az elosztóval történt egyeztetést követően – az eltérést írásban indokolni és az elosztó által készített fejlesztési tervet vagy ajánlatot mellékletként a Hivatalnak benyújtani. A Hivatal az általa közzétett eljárásrendnek megfelelően nyilvános egyeztetést tart a rendszerhasználókkal a hálózatfejlesztési tervről, és honlapján közzéteszi az annak eredményét tartalmazó emlékeztetőt.
 
-(5) A jóváhagyás során a Hivatal megvizsgálja a hálózatfejlesztési terv összhangját a 714/2009/EK rendelet 8. cikk (4) bekezdésében meghatározott közösségi szintű tízéves hálózatfejlesztési tervvel. Amennyiben kétség merül fel az összhang meglétével kapcsolatban, a Hivatal álláspontja kialakítása céljából egyeztet az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i 713/2009/EK európai parlamenti és tanácsi rendelet 1. cikke alapján létrehozott Energiaszabályozók Együttműködési Ügynökségével (a továbbiakban: Ügynökség). Ha a hálózatfejlesztési terv nem áll összhangban a közösségi szintű tízéves hálózatfejlesztési tervvel, a Hivatal kötelezheti az átviteli rendszerirányítót a terv kiegészítésére, amennyiben a hálózatfejlesztési tervből hiányzó, de a közösségi szintű tízéves hálózatfejlesztési tervben szereplő fejlesztésekre fedezetet nyújt a 838/2010/EU rendelet mellékletének A. rész 4. pontja alapján meghatározott veszteségért történő ellentételezés, és e fejlesztések a magyar villamosenergia-rendszer ellátásbiztonsága érdekében indokoltak. Ha a hálózatfejlesztési terv jogszabálysértő vagy akadályozza a hatékony versenyt, a Hivatal határidő tűzésével és az okok megjelölésével kötelezi az átviteli rendszerirányítót a terv módosítására.
+(5) A jóváhagyás során a Hivatal megvizsgálja a hálózatfejlesztési terv összhangját a 2019/943/EU rendelet 30. cikk (1) bekezdés b) pontjában és 48. cikk (1) bekezdésében meghatározott közösségi szintű tízéves hálózatfejlesztési tervvel. Ha kétség merül fel az összhang meglétével kapcsolatban, a Hivatal álláspontja kialakítása céljából egyeztet a 2019/942/EU rendelet alapján létrehozott Energiaszabályozók Európai Uniós Együttműködési Ügynökségével (a továbbiakban: ACER). Ha a hálózatfejlesztési terv nem áll összhangban a közösségi szintű tízéves hálózatfejlesztési tervvel, a Hivatal kötelezheti az átviteli rendszerirányítót a terv kiegészítésére, ha a hálózatfejlesztési tervből hiányzó, de a közösségi szintű tízéves hálózatfejlesztési tervben szereplő fejlesztésekre fedezetet nyújt a 838/2010/EU rendelet mellékletének A. rész 4. pontja alapján meghatározott veszteségért történő ellentételezés, és e fejlesztések a magyar villamosenergia-rendszer ellátásbiztonsága érdekében indokoltak. Ha a hálózatfejlesztési terv jogszabálysértő vagy akadályozza a hatékony versenyt, a Hivatal határidő tűzésével és az okok megjelölésével kötelezi az átviteli rendszerirányítót a terv módosítására.
 
 (6) A jóváhagyott hálózatfejlesztési tervben foglalt fejlesztéseket a hálózati engedélyesek kötelesek végrehajtani. A jóváhagyott hálózatfejlesztési terv szerint megvalósított beruházások indokolt költségeit az árszabályozás során el kell ismerni. A Hivatal figyelemmel kíséri, és évente értékeli a hálózatfejlesztési terv végrehajtását.
 
@@ -605,7 +605,7 @@ tűrésére, és ennek érdekében az elosztóval történő együttműködésre
 
 (5) Háztartási méretű kiserőmű felhasználási helyenként csak egy csatlakozási pontra létesíthető.
 
-(6) A hálózathoz való hozzáférés részletes műszaki és egyéb szabályairól, valamint a hálózati kapacitásadatok közzétételének rendjéről a 714/2009/EK rendelet felhatalmazása alapján kiadott európai bizottsági rendelet és a villamosenergia-ellátási szabályzatok rendelkeznek.
+(6) A hálózathoz való hozzáférés részletes műszaki és egyéb szabályairól, valamint a hálózati kapacitásadatok közzétételének rendjéről a 714/2009/EK rendelet és a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendelet és a villamosenergia-ellátási szabályzatok rendelkeznek.
 
 36. § (1) Az átviteli rendszerirányító az átviteli és az elosztó hálózathoz való hozzáférést objektív, átlátható módon, az egyenlő bánásmód követelményének sérelme nélkül, a külön jogszabályban meghatározott feltételek szerint tagadhatja meg, illetve a már lekötött szállításokat korlátozhatja, csökkentheti, szüneteltetheti. A korlátozásra, csökkentésre vagy szüneteltetésre előzetesen, illetve a villamosenergia-rendszer üzeme közben is sor kerülhet az alábbi esetekben:
 
@@ -645,9 +645,9 @@ tűrésére, és ennek érdekében az elosztóval történő együttműködésre
 
 ### Mentesítés a hozzáférési szabályok alkalmazása alól
 
-37. § (1) A beruházó új rendszerösszekötő vezeték létesítése esetén a 36. §-ban meghatározott szabályok alkalmazása alól való mentesítés érdekében kérelmet nyújthat be a Hivatalhoz. A Hivatal a mentességet a 714/2009/EK rendelet 17. cikkében foglalt feltételek fennállása esetén határozott időre az új rendszerösszekötő vezeték egészére vagy annak egy részére engedélyezheti.
+37. § (1) A beruházó új rendszerösszekötő vezeték létesítése esetén a 36. §-ban meghatározott szabályok alkalmazása alól való mentesítés érdekében kérelmet nyújthat be a Hivatalhoz. A Hivatal a mentességet a 2019/943/EU rendelet 63. cikkében foglalt feltételek fennállása esetén határozott időre az új rendszerösszekötő vezeték egészére vagy annak egy részére engedélyezheti.
 
-(2) A 714/2009/EK rendelet 17. cikk (1) bekezdésének f) pontjában meghatározott feltétel nem teljesül különösen abban az esetben, ha a kérelmező olyan integrált villamosenergia-ipari vállalkozás tagja, amelynek valamely tagját a Hivatal jelentős piaci erővel rendelkező engedélyesként azonosította.
+(2) A 2019/943/EU rendelet 63. cikk (1) bekezdésének f) pontjában meghatározott feltétel nem teljesül különösen abban az esetben, ha a kérelmező olyan integrált villamosenergia-ipari vállalkozás tagja, amelynek valamely tagját a Hivatal jelentős piaci erővel rendelkező engedélyesként azonosította.
 
 ### V. Fejezet — KÖZVETLEN VEZETÉK, MAGÁNVEZETÉK
 
@@ -736,6 +736,8 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 (4b) A hálózati engedélyes – profil alapú elszámolás esetén – köteles legalább 5 napos időtartam megjelölésével a felhasználó figyelmét felhívni a leolvasás várható idejéről a leolvasás előtti utolsó számlában, számla mellékletében vagy egyéb módon. A (4) bekezdés szerinti leolvasás sikertelensége esetén a hálózati engedélyes köteles értesítést hagyni a felhasználó felhasználási helyen, – amennyiben rendelkezésre áll – a levélszekrényben. Az értesítésben a hálózati engedélyes felhívja a felhasználó figyelmét a leolvasás második megkísérlésének idejére, annak nem-megfelelősége esetén az időpont-egyeztetés lehetőségére – azzal, hogy a leolvasásra legalább munkanapon 20 óráig lehetőséget biztosít –, a hálózati engedélyes időpont-egyeztetésre alkalmas elérhetőségére és a leolvasás legkésőbbi időpontjára. A leolvasás időpontja tekintetében a hálózati engedélyes és a felhasználó köteles megegyezni.
 
 (4c) Az elosztó a felhasználóval kötött megállapodás alapján a mérőberendezés leolvasását a felhasználó részére biztosított, a mérőállást fényképen rögzítő és az elosztó részére továbbító applikáció útján is végrehajthatja.
+
+(4d) A (4c) bekezdés szerinti applikációval történő leolvasás sikertelensége esetén az elosztó elvégzi a fogyasztásmérő-berendezés adatainak a felhasználási helyen történő leolvasását.
 
 (5) A (3) bekezdésben meghatározott mérési adatokat az érintett rendszerhasználó részére külön díjfizetés nélkül hozzáférhetővé kell tenni.
 
@@ -1054,7 +1056,7 @@ a Hivatal a kérelmet ezekre nézve visszautasíthatja, az eljárást megszünte
 - e) a villamosenergia-minőség mérhető és ellenőrizhető jellemzői, és
 - f) az egyes engedélyesek által végzett alaptevékenységhez kapcsolódó egyéb jellemző szolgáltatások ellátásának minősége.
 
-(3) A Hivatal jogosult a felhasználók teljes körére vonatkozó, valamint az egyedi felhasználókkal szemben teljesítendő követelményeket külön-külön, továbbá a követelmények elmulasztása esetén alkalmazandó szankciókat meghatározni.
+(3)
 
 (3a) A Hivatal jogosult a felhasználók teljes körére vonatkozó, valamint az egyedi felhasználókkal szemben teljesítendő követelményeket külön-külön, továbbá a követelmények elmulasztása esetén alkalmazandó szankciókat meghatározni. Az egyedi felhasználókkal szemben teljesítendő követelmények elmulasztása esetére a Hivatal jogosult automatikus, a felhasználó igényérvényesítése hiányában is teljesítendő szankciók meghatározására.
 
@@ -1300,17 +1302,17 @@ való jog.
 - a) a villamosenergia-rendszer és az átviteli hálózat technikai működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzatot,
 - b) a villamosenergia-kereskedelemre, az elszámolási-mérési adatok gyűjtésének, feldolgozásának és szolgáltatásának minimális tartalmi elemeire, a villamos energia határon keresztül történő szállítására, a rendszerszintű szolgáltatásokra vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzatot.
 
-67/A. § (1) A nemzetközi üzemi és kereskedelmi szabályzat részét képező feltételek és módszertanok kidolgozása a 714/2009/EK rendelet felhatalmazása alapján kiadott európai bizottsági rendelet szerint történik. A 714/2009/EK rendelet felhatalmazása alapján kiadott európai bizottsági rendelet szerinti konzultáció során az érintett engedélyesek, felhasználók, valamint más szereplők és ezek érdekképviseleti szerveik bevonását az erre kijelölt, a feltételek és módszertanok kidolgozásáért felelős által fenntartott információs platformon keresztül kell biztosítani.
+67/A. § (1) A nemzetközi üzemi és kereskedelmi szabályzat részét képező feltételek és módszertanok kidolgozása a 714/2009/EK rendelet, és a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendelet szerint történik. A 714/2009/EK rendelet és a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendelet szerinti konzultáció során az érintett engedélyesek, felhasználók, valamint más szereplők és ezek érdekképviseleti szerveik bevonását az erre kijelölt, a feltételek és módszertanok kidolgozásáért felelős által fenntartott információs platformon keresztül kell biztosítani.
 
-(2) A 714/2009/EK rendelet felhatalmazása alapján kiadott európai bizottsági rendelet hatálybalépését követő 30 napon belül, vagy ha a rendelet az egyes rendelkezések alkalmazásának kezdetére későbbi határnapot állapít meg, a megállapított alkalmazási határnap előtt 30 nappal a kereskedelmi szabályzat és az üzemi szabályzat esetén az átviteli rendszerirányító, elosztói szabályzat esetén az elosztók kötelesek a Hivatalhoz benyújtani – a nemzetközi üzemi és kereskedelmi szabályzat kivételével – az érintett villamosenergia-ellátási szabályzatok módosítására vonatkozó, a rendelettel való összhang megteremtése szempontjából előkészített és az érintett szabályzati bizottság által megtárgyalt javaslatot.
+(2) A 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendelet hatálybalépését követő 30 napon belül, vagy ha az adott rendelet az egyes rendelkezések alkalmazásának kezdetére későbbi határnapot állapít meg, a megállapított alkalmazási határnap előtt 30 nappal a kereskedelmi szabályzat és az üzemi szabályzat esetén az átviteli rendszerirányító, elosztói szabályzat esetén az elosztók kötelesek a Hivatalhoz benyújtani – a nemzetközi üzemi és kereskedelmi szabályzat kivételével – az érintett villamosenergia-ellátási szabályzatok módosítására vonatkozó, az adott rendelettel való összhang megteremtése céljából előkészített és az érintett szabályzati bizottság által megtárgyalt javaslatot.
 
 (3) Ha az érintett szabályzati bizottságok nevében az átviteli rendszerirányító vagy az elosztók a (2) bekezdésben foglalt határidőn belül nem kezdeményezik az érintett villamosenergia-ellátási szabályzat módosítását, a Hivatal módosíthatja azokat, az (1) bekezdés szerinti rendelettel való összhang megteremtése érdekében.
 
-(4) A 714/2009/EK rendelet felhatalmazása alapján kiadott európai bizottsági rendelet szerint kidolgozott feltételre vagy módszertanra vonatkozó javaslatát a kidolgozásáért felelős személy köteles jóváhagyás céljából benyújtani a Hivatal részére, és köteles egyidejűleg kérelmezni az adott feltétel vagy módszertan nemzetközi üzemi és kereskedelmi szabályzat részeként történő Hivatal általi jóváhagyását.
+(4) A 714/2009/EK vagy a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendelet szerint kidolgozott feltételre vagy módszertanra vonatkozó javaslatát a kidolgozásáért felelős köteles jóváhagyás céljából benyújtani a Hivatal vagy az ACER részére, és a Hivatal részére történő benyújtás esetén köteles egyidejűleg kérelmezni az adott feltétel vagy módszertan nemzetközi üzemi és kereskedelmi szabályzat részeként történő Hivatal általi jóváhagyását. A vonatkozó feltétel vagy módszertan jóváhagyása esetén az átviteli rendszerirányító köteles gondoskodni a nemzetközi üzemi és kereskedelmi szabályzat megfelelő módosításáról.
 
-(5) Azokban az esetekben, amikor a 714/2009/EK rendelet felhatalmazása alapján kiadott európai bizottsági rendelet alapján a nemzetközi üzemi és kereskedelmi szabályzat vonatkozó részének kidolgozásáért felelős személy nem az átviteli rendszerirányító, akkor a Hivatal a (4) bekezdés szerinti kérelmet annak kézhezvételtől számított 15 napon belül megküldi az átviteli rendszerirányítónak annak érdekében, hogy az a kérelem kézhezvételét követő 15 napon belül tegyen javaslatot annak a nemzetközi üzemi és kereskedelmi szabályzat szövegében történő formai elhelyezésére.
+(5) Azokban az esetekben, amikor a 714/2009/EK rendelet és a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendelet alapján a nemzetközi üzemi és kereskedelmi szabályzat vonatkozó részének kidolgozásáért felelős nem az átviteli rendszerirányító, akkor a Hivatal a (4) bekezdés szerinti kérelmet annak kézhezvételtől számított 15 napon belül megküldi az átviteli rendszerirányítónak annak érdekében, hogy az a kérelem kézhezvételét követő 15 napon belül tegyen javaslatot annak a nemzetközi üzemi és kereskedelmi szabályzat szövegében történő formai elhelyezésére.
 
-(6) A nemzetközi üzemi és kereskedelmi szabályzat Hivatal határozatainak megfelelő egységes szerkezetben történő közzétételéért az átviteli rendszerirányító felelős.
+(6) A nemzetközi üzemi és kereskedelmi szabályzat, a Hivatal határozatainak és az ACER határozatainak megfelelő, egységes szerkezetben történő közzétételéért az átviteli rendszerirányító felelős.
 
 68. § Az engedélyesek, valamint a villamosenergia-rendszerhez kapcsolódó nem engedélyköteles erőművek üzemeltetői jelen törvény és az annak felhatalmazása alapján kiadott külön jogszabályok, valamint a Hivatal által jóváhagyott villamosenergia-ellátási szabályzatok rendelkezései szerint együttműködnek.
 
@@ -1322,7 +1324,7 @@ való jog.
 
 (3) A (2) bekezdésben meghatározott egyeztetés eljárási szabályai a villamosenergia-ellátási szabályzatok részét képezik.
 
-(4) A villamosenergia-ellátási szabályzatokat és azok módosításait a Hivatal hagyja jóvá, valamint a jóváhagyást feltételhez kötheti, vagy megtagadhatja.
+(4) A villamosenergia-ellátási szabályzatokat és azok módosításait – a nemzetközi üzemi és kereskedelmi szabályzat részét képező, a 2019/942/EU rendelet rendelkezéseinek megfelelően jóváhagyott feltételek és módszertanok kivételével – a Hivatal hagyja jóvá, valamint a jóváhagyást feltételhez kötheti, vagy megtagadhatja.
 
 (5) Az üzemi szabályzat, a kereskedelmi szabályzat és az elosztói szabályzat rendelkezései nem lehetnek ellentétesek a nemzetközi üzemi és kereskedelmi szabályzat rendelkezéseivel.
 
@@ -1388,7 +1390,7 @@ egyoldalú módosítása
 74. § (1) Az alábbi tevékenységeket a Hivatal által kiadott engedélyek alapján lehet gyakorolni:
 
 - a) a 0,5 MW és az ezt meghaladó névleges teljesítőképességű kiserőmű létesítése, villamosenergia-termelése, valamint a villamos energia termelésének megszüntetése,
-- b) az 50 MW és az ezt meghaladó névleges teljesítőképességű erőmű létesítése, villamosenergia-termelése, valamint az erőmű jogszabályban meghatározott módon történő bővítése, névleges teljesítőképességének növelése, illetve csökkentése, villamosenergia-termelésének szüneteltetése, villamosenergia-termelés újbóli folytatása megszüntetése, továbbá ha a kiserőmű bővítését vagy névleges teljesítőképességének növelését követően az erőművi névleges teljesítőképesség eléri, vagy meghaladja az 50 MW-ot, a kiserőmű bővítése, a névleges teljesítőképesség növelése és a termelői működési engedéllyel való villamosenergia-termelése,
+- b) az 50 MW és az ezt meghaladó névleges teljesítőképességű erőmű létesítése, villamosenergia-termelése, valamint az erőmű jogszabályban meghatározott módon történő bővítése, névleges teljesítőképességének növelése, illetve csökkentése, villamosenergia-termelésének szüneteltetése, villamosenergia-termelés újbóli folytatása vagy megszüntetése, továbbá ha a kiserőmű bővítését vagy névleges teljesítőképességének növelését követően az erőművi névleges teljesítőképesség eléri, vagy meghaladja az 50 MW-ot, a kiserőmű bővítése, a névleges teljesítőképesség növelése és a termelői működési engedéllyel való villamosenergia-termelése,
 - c) az átviteli rendszerirányítás,
 - d) a villamos energia elosztása,
 - e) a villamosenergia-kereskedelem,
@@ -1742,7 +1744,7 @@ esetében.
 
 ### Az engedély megszegése
 
-96. § (1) A Hivatal az engedélyes törvényben, kormányrendeletben, e törvény végrehajtására kiadott külön jogszabályokban, a 714/2009/EK rendeletben, az Európai Bizottság által a 714/2009/EK rendelet alapján kiadott általános hatályú közvetlenül alkalmazandó uniós jogi aktusban, uniós jogi rendelkezésben, az Ügynökség az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i 713/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 713/2009/EK rendelet) alapján kiadott kötelező erejű határozatában, a villamosenergia-ellátási szabályzatokban, valamint az üzletszabályzatában, vagy a Hivatal által kiadott határozatokban meghatározott kötelezettségeinek megszegése esetén
+96. § (1) A Hivatal az engedélyes törvényben, kormányrendeletben, e törvény végrehajtására kiadott jogszabályokban, általános hatályú közvetlenül alkalmazandó uniós jogi aktusban, uniós jogi rendelkezésben, az ACER kötelező erejű határozatában, a villamosenergia-ellátási szabályzatokban, valamint az üzletszabályzatában, vagy a Hivatal által kiadott határozatokban meghatározott kötelezettségeinek megszegése esetén
 
 - a) a jogkövetkezményekre való utalás mellett írásban felszólítja az engedélyest a kötelezettségei betartására,
 - b) a kormányrendeletben meghatározott mértékű bírságot szabhat ki, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is,
@@ -2117,7 +2119,7 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 - b) rendelkeznie kell a feladatok ellátásához szükséges pénzügyi és személyi erőforrásokkal, valamint műszaki és tárgyi eszközökkel, ideértve az elektronikus hírközlő hálózati elemeket is,
 - c) meg kell felelnie a Hivatal által jóváhagyott hálózatfejlesztési tervnek;
 - d) a kizárólag adminisztratív és informatikai szolgáltatások kivételével nem vehet igénybe harmadik személyektől olyan szolgáltatásokat, amelyeket a harmadik személyek az átviteli hálózat tulajdonosa számára is nyújtanak; és
-- e) alkalmas a 714/2009/EK rendeletben az átviteli rendszerüzemeltetőkre előírt kötelezettségek teljesítésére.
+- e) alkalmas a 2019/943/EU rendeletben az átviteli rendszerüzemeltetőkre előírt kötelezettségek teljesítésére.
 
 (1a) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre vonatkozóan – az (1) bekezdés b) pontjában foglaltakra figyelemmel – az átviteli rendszerüzemeltetővel a Vhr.-ben meghatározottak szerint szerződést köt.
 
@@ -2149,7 +2151,7 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 (2) Az integrált villamosenergia-ipari vállalkozás és a több engedéllyel rendelkező vállalkozás köteles olyan számviteli szétválasztási szabályokat kidolgozni, és az egyes tevékenységeire olyan elkülönült nyilvántartást vezetni, amely biztosítja az egyes tevékenységek átláthatóságát és a diszkriminációmentességet, kizárja a keresztfinanszírozást és a versenytorzítást.
 
-(3) A horizontálisan integrált villamosenergia-ipari vállalkozás éves beszámolója kiegészítő mellékletében köteles az engedélyes tevékenységet oly módon bemutatni, mintha azt önálló vállalkozás keretében végezték volna, amelynek esetében az engedélyes tevékenység elkülönült bemutatása legalább önálló mérleget és eredménykimutatást, valamint az azok soraihoz fűzött magyarázatot jelent. A több engedéllyel rendelkező villamosenergia-ipari vállalkozás éves beszámolója kiegészítő mellékletében köteles az egyes engedélyes tevékenységeket oly módon bemutatni, mintha azokat önálló vállalkozások keretében végezték volna, amelynek esetében az engedélyes tevékenységek elkülönült bemutatása legalább az eszközök, kötelezettségek, időbeli elhatárolások szétválasztott bemutatását és önálló eredmény-kimutatást jelent.
+(3) A horizontálisan integrált villamosenergia-ipari vállalkozás éves beszámolója kiegészítő mellékletében köteles az engedélyes tevékenységet oly módon bemutatni, mintha azt önálló vállalkozás keretében végezték volna, amelynek esetében az engedélyes tevékenység elkülönült bemutatása legalább önálló mérleget és eredménykimutatást, valamint az azok soraihoz fűzött magyarázatot jelent. A több engedéllyel rendelkező villamosenergia-ipari vállalkozás éves beszámolója kiegészítő mellékletében köteles az egyes engedélyes tevékenységeket oly módon bemutatni, mintha azokat önálló vállalkozások keretében végezték volna, amelynek esetében az engedélyes tevékenységek elkülönült bemutatása legalább az eszközök, kötelezettségek, időbeli elhatárolások szétválasztott bemutatását, önálló eredménykimutatást, valamint az azok soraihoz fűzött magyarázatot jelent.
 
 (4) Amennyiben a vertikálisan integrált villamosenergia-ipari vállalkozás az Szt. szerinti összevont (konszolidált) éves beszámoló készítésére kötelezett, az összevont (konszolidált) éves beszámolója kiegészítő mellékletében köteles az egyes engedélyes tevékenységeket önállóan is bemutatni. Az engedélyes tevékenységek elkülönült bemutatása halmozott önálló mérleget és halmozott eredménykimutatást jelent.
 
@@ -2159,7 +2161,7 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 105/A. § (1) Az integrált, valamint a több engedéllyel rendelkező villamosenergia-ipari vállalkozás könyvvizsgálója az Szt. szerinti éves beszámolóhoz kiadott független könyvvizsgálói jelentésben köteles igazolni, hogy a vállalkozás által kidolgozott és alkalmazott számviteli szétválasztási szabályok, valamint az egyes tevékenységek közötti tranzakciók árazása biztosítják a vállalkozás üzletágai közötti keresztfinanszírozás-mentességet.
 
-(2) Az integrált, valamint több engedéllyel rendelkező villamosenergia-ipari vállalkozásnak engedélyesi tevékenységként tevékenységi beszámolót kell készítenie az éves beszámoló elfogadásáig, amelyet a mérleg fordulónapját követő ötödik hónap utolsó napjáig egy példányban kell a Hivatalnak benyújtani elektronikus formában. A villamosenergia-ipari vállalkozás ebben az esetben köteles nyilatkozni, hogy mely engedélyekre vonatkozóan nyújtotta be az éves beszámolót.
+(2) Az integrált, valamint több engedéllyel rendelkező villamosenergia-ipari vállalkozásnak engedélyesi tevékenységenként tevékenységi beszámolót kell készítenie az éves beszámoló elfogadásáig, amelyet a mérleg fordulónapját követő ötödik hónap utolsó napjáig egy példányban kell a Hivatalnak benyújtani elektronikus formában. A villamosenergia-ipari vállalkozás ebben az esetben köteles nyilatkozni, hogy mely engedélyekre vonatkozóan nyújtotta be az éves beszámolót.
 
 ### XIII. Fejezet — A VILLAMOSENERGIA-PIACI VERSENY ELŐSEGÍTÉSE
 
@@ -2180,7 +2182,7 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 107. § (1) A Hivatal jelentős piaci erő eljárást folytat le, ha olyan körülmény jut a tudomására, amely arra utal, hogy a verseny valamely piacon azért nem kellően hatékony, mert az adott piacon egy vagy több piaci szereplő olyan piaci erőfölénnyel bír, vagy a piaci folyamatok alapján a jövőben olyan piaci erőfölénnyel bírhat, amely alkalmas a versenyt akadályozó, korlátozó vagy torzító magatartás kifejtésére.
 
-(2) A Hivatal a lefolytatott jelentős piaci erő eljárás alapján a jelentős piaci erővel rendelkező engedélyesre vagy az érintett piac valamennyi engedélyesére olyan indokolt és arányos mértékű kötelezettséget szab ki, amely előmozdítja a hatékony verseny kialakulását és fenntartását. Ilyen kötelezettség lehet különösen:
+(2) A Hivatal a lefolytatott jelentős piaci erő eljárás alapján a jelentős piaci erővel rendelkező engedélyesre vagy az érintett piac egészére tekintettel az általa azonosított piacműködtetőre olyan indokolt és arányos mértékű kötelezettséget szab ki, amely előmozdítja a hatékony verseny kialakulását és fenntartását. Ilyen kötelezettség lehet különösen:
 
 - a) nyilvános és átlátható módon történő értékesítésnek;
 - b) árkorlát alkalmazásának;
@@ -2227,7 +2229,7 @@ előírása.
 - a) Magyarország területén valósul meg, vagy
 - b) külföldön valósul meg, de hatása Magyarország területén érvényesülhet.
 
-(2) Az e fejezetben használt fogalmakat a 3. §, az 1227/2011/EU európai parlamenti és tanácsi rendelet, valamint az 1227/2011/EU európai parlamenti és tanácsi rendelet alapján kiadott általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusok, európai uniós jogi rendelkezések és az Ügynökség által kiadott kötelező erejű rendelkezések szerint kell értelmezni.
+(2) Az e fejezetben használt fogalmakat a 3. §, az 1227/2011/EU európai parlamenti és tanácsi rendelet, valamint az 1227/2011/EU európai parlamenti és tanácsi rendelet alapján kiadott általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusok, európai uniós jogi rendelkezések és az ACER által kiadott kötelező erejű rendelkezések szerint kell értelmezni.
 
 (3) Az e fejezet alapján lefolytatott eljárások nem érintik az e törvény szerinti engedély megszegésével, illetve az e törvény szerinti engedélyköteles tevékenység engedély nélküli végzésével kapcsolatos egyéb eljárásokat.
 
@@ -2820,7 +2822,7 @@ villamos energia képezi.
 
 (1a) A rendszeres és rendkívüli adatszolgáltatásra kötelezett a tevékenységének megkezdése előtt vagy annak szüneteltetése alatt a Hivatal részére teljesítendő adatszolgáltatási kötelezettség alól a Hivatal elnökének rendeletében meghatározottak szerint mentességet kaphat.
 
-(2) Az átviteli rendszerirányító, a termelő és a villamosenergia-kereskedő köteles az Európai Bizottság és az Ügynökség rendelkezésére bocsátani az átviteli rendszerirányító szétválasztási szabályoknak való megfelelésével kapcsolatban kért információkat.
+(2) Az átviteli rendszerirányító, a termelő és a villamosenergia-kereskedő köteles az Európai Bizottság és az ACER rendelkezésére bocsátani az átviteli rendszerirányító szétválasztási szabályoknak való megfelelésével kapcsolatban kért információkat.
 
 153. § (1) Az átviteli rendszerirányító biztosítja az üzleti titoknak minősülő információk bizalmas kezelését.
 
@@ -2828,7 +2830,7 @@ villamos energia képezi.
 
 154. § Az átviteli rendszerirányító a jelen törvényben szabályozott feladata ellátása során a nemzetközi együttműködés keretében a villamosenergia-ellátási szabályzatokban meghatározott adatokat továbbíthatja az együttműködő nemzetközi szervezeteknek.
 
-#### 155. §
+155. § A hálózati engedélyes és a kereskedő a közcélú hálózat ellátásbiztonságának és fejlesztésének, az energiahatékonyság növelésének, a felhasználóval történő elszámolás, valamint a szabálytalan vagy szerződés nélküli vételezés megállapítása céljából kezeli a távlehívásra alkalmas fogyasztásmérő-berendezés által regisztrált adatokat.
 
 156. § A Hivatal a tagállamok felügyeleti hatóságainak kérésére jogosult rendelkezésre bocsátani a villamosenergia-rendszer és a villamosenergia-piac működésével kapcsolatos adatokat. Ha a Hivatal nem tudja átadni a kért információkat, ennek okairól értesíti a megkereső hatáskörrel rendelkező hatóságot.
 
@@ -2864,7 +2866,7 @@ villamos energia képezi.
 - 1. kiadja, jogszabályban meghatározott esetekben módosítja, illetve visszavonja az e törvény szerint engedélyköteles tevékenységek gyakorlásához szükséges engedélyeket,
 - 2. jóváhagyja az engedélyesek által kidolgozott üzletszabályzatokat és belső kiválasztási szabályzatokat, valamint azok módosítását, illetve e törvényben meghatározott esetekben hivatalból módosítja, vagy visszavonja azokat,
 - 3. jóváhagyja a villamosenergia-ellátási szabályzatokat, a szervezett villamosenergia-piaci szabályzatot, valamint azok módosítását, illetve e törvényben meghatározott esetekben hivatalból módosítja, vagy visszavonja azokat,
-- 4. ellenőrzi az e törvényben, a végrehajtására kiadott külön jogszabályokban, 714/2009/EK rendeletben, valamint az annak felhatalmazása alapján kiadott európai bizottsági rendeletben, a Hivatal által kiadott határozatokban, a villamosenergia-ellátási szabályzatokban, valamint az üzletszabályzatokban meghatározott kötelezettségek betartását,
+- 4. ellenőrzi az e törvényben, a végrehajtására kiadott jogszabályokban, a vonatkozó uniós jogi aktusokban, a Hivatal által kiadott határozatokban, a villamosenergia-ellátási szabályzatokban, valamint az üzletszabályzatokban meghatározott kötelezettségek betartását,
 - 5. rendeletben határozza meg az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait, valamint a rendszerhasználati díjak mértékét,
 - 6. rendeletben határozza meg a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díj fizetésére kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint a csatlakozási díjak mértékét,
 - 7. előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat,
@@ -2878,7 +2880,7 @@ villamos energia képezi.
 - 14. a folyamatos és biztonságos villamosenergia-ellátás fenntartása érdekében kivizsgálja az erőművek teljesítőképességében beálló változásokat, indokolatlan termelés-visszatartás esetén megállapítja az erőművi teljesítőképesség felajánlandó mértékét,
 - 15. e törvény szerint jóváhagyja az engedélyest érintő cégjogi eseményt, az engedélyesekben történő befolyásszerzést, és az olyan jogügyletek végrehajtását, amelyek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást az átviteli rendszerirányító vagy annak irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, vagy egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését,
 - 16.
-- 17. végrehajtja a 714/2009/EK rendelet 19. cikkében meghatározott feladatokat,
+- 17.
 - 18. a jogalkalmazási gyakorlatának alapjait ismertető, kötelező erővel nem rendelkező ajánlást adhat ki.
 
 (2) A Hivatal az egyenlő bánásmód követelményének érvényesítésével kapcsolatos feladatai körében meghatározza a rendszerhasználók közcélú hálózathoz való hozzáférésének általános szabályait.
@@ -2916,13 +2918,13 @@ villamos energia képezi.
 - 1. ellenőrzi a csatlakozással, a hálózathoz való hozzáféréssel, illetve a rendszer megfelelő minőségben való rendelkezésre állásával kapcsolatos felhasználói igények hálózati engedélyes általi kielégítését, ellenőrzi a felhasználók által a közcélú hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását, bírságot szab ki,
 - 2. dönt az engedélyesekkel szemben felmerülő panaszok – ideértve a szerződés nélküli vételezéssel, a szabálytalan vételezéssel, valamint ezek jogkövetkezményeivel kapcsolatos panaszok – ügyében, kivéve az 57. § (1) bekezdése szerinti lakossági fogyasztói panaszokat, és
 - 3. dönt a rendszerhasználó által a hálózati engedélyessel szemben, továbbá a vételező és a felhasználó által a magánvezeték üzemeltetőjével szemben e törvényben meghatározott kötelezettségek megsértésével kapcsolatban benyújtott beadványokról,
-- 4. elvégzi az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a villamosenergia-ellátás jellemzőinek felmérését.
+- 4. elvégzi, valamint az érintett engedélyesek közreműködésével elvégezteti az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a villamosenergia-ellátás jellemzőinek felmérését.
 
 (6) A Hivatal az adatszolgáltatással kapcsolatos feladatai körében:
 
 - 1. eleget tesz a jogszabályban meghatározott adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének,
-- 2. végrehajtja a 714/2009/EK rendelet 20. cikkében meghatározott feladatokat, és
-- 3. éves jelentést készít az Ügynökség és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.
+- 2. végrehajtja a 2019/943/EU rendelet 65. cikkében meghatározott feladatokat, és
+- 3. éves jelentést készít az ACER és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.
 
 (7) A Hivatal egyéb feladatai körében ellátja az energiapolitikáért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésével kapcsolatos feladatokat.
 
@@ -2938,7 +2940,7 @@ villamos energia képezi.
 
 (2) A Hivatal a tanúsítási eljárás során megállapítja a szétválasztási szabályoknak való megfelelést, amennyiben az átviteli rendszerirányítási engedély kérelmezője, az átviteli rendszerirányító vagy az átviteli rendszerüzemeltetővé kijelölendő személy megfelel a 102–102/E. §-ában, a 103. §-ában vagy a 104. §-ában foglalt rá vonatkozó rendelkezéseknek. Amennyiben a tanúsítási eljárás során a Hivatal megállapítja, hogy az átviteli rendszerirányító vagy átviteli rendszerüzemeltetővé kijelölendő személy nem felel meg a 102–102/E. §-ában, a 103. §-ában vagy a 104. §-ában foglalt, rá vonatkozó szétválasztási szabályoknak, átviteli rendszerirányító esetén a 96. §-ban foglalt jogkövetkezményeket alkalmazza, átviteli rendszerüzemeltetővé kijelölendő személy esetén pedig nem jelöli ki átviteli rendszerüzemeltetővé.
 
-(3) A Hivatal a szétválasztási szabályoknak való megfelelés tárgyában a 168. § (2) bekezdés c) pontja meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt, a 714/2009/EK rendelet 3. cikkében meghatározott eljárás lefolytatása céljából haladéktalanul megküld az Európai Bizottságnak. Az Európai Bizottság eljárását követően a Hivatal az eljárás felfüggesztését megszünteti, és a 714/2009/EK rendelet 3. cikk (2) bekezdésében foglaltak szerint jár el.
+(3) A Hivatal a szétválasztási szabályoknak való megfelelés tárgyában a 168. § (2) bekezdés c) pontja meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt, a 2019/943/EU rendelet 51. cikkében meghatározott eljárás lefolytatása céljából haladéktalanul megküld az Európai Bizottságnak. Az Európai Bizottság eljárását követően a Hivatal az eljárás felfüggesztését megszünteti, és a 2019/943/EU rendelet 51. cikk (2) bekezdésében foglaltak szerint jár el.
 
 (4) Az átviteli rendszerirányító köteles bejelenteni a Hivatalnak minden olyan tervezett jogügyletet, amely a szétválasztási szabályoknak való megfelelés ismételt vizsgálatát teheti szükségessé.
 
@@ -2970,7 +2972,7 @@ villamos energia képezi.
 - a) az átviteli rendszerirányító megfelel-e a 2009/72/EK irányelv 9. cikkében foglalt követelményeknek, és
 - b) a tanúsítás megadása nem veszélyezteti-e az Európai Unió villamosenergia-ellátásának biztonságát.
 
-(6) Ha az Európai Bizottság a (4) bekezdés szerinti határozattal egyetért, vagy arra a kérelem kézhezvételétől számított 2 hónapon belül – az Ügynökség vagy az érintett felek véleményének kikérése esetén, 4 hónapon belül– nem nyilvánít véleményt, a Hivatal az eljárás felfüggesztését 2 hónapon belül megszünteti, és határozatát az Európai Bizottság véleményével együtt honlapján közzéteszi. Ha az Európai Bizottság a Hivatal határozatával nem ért egyet, a Hivatal az eljárás felfüggesztését 2 hónapon belül megszünteti, és módosítja határozatát. A Hivatal minden esetben jogosult a tanúsítást megtagadni, ha a tanúsítás megadása veszélyeztetné az ország vagy az Európai Unió más tagállama villamosenergia-ellátásának biztonságát, ez utóbbi esetekben a Hivatal határozatát az Európai Bizottság véleményével és az Európai Bizottság véleményétől való eltérés indokolásával együtt teszi közzé honlapján.
+(6) Ha az Európai Bizottság a (4) bekezdés szerinti határozattal egyetért, vagy arra a kérelem kézhezvételétől számított 2 hónapon belül – az ACER vagy az érintett felek véleményének kikérése esetén, 4 hónapon belül– nem nyilvánít véleményt, a Hivatal az eljárás felfüggesztését 2 hónapon belül megszünteti, és határozatát az Európai Bizottság véleményével együtt honlapján közzéteszi. Ha az Európai Bizottság a Hivatal határozatával nem ért egyet, a Hivatal az eljárás felfüggesztését 2 hónapon belül megszünteti, és módosítja határozatát. A Hivatal minden esetben jogosult a tanúsítást megtagadni, ha a tanúsítás megadása veszélyeztetné az ország vagy az Európai Unió más tagállama villamosenergia-ellátásának biztonságát, ez utóbbi esetekben a Hivatal határozatát az Európai Bizottság véleményével és az Európai Bizottság véleményétől való eltérés indokolásával együtt teszi közzé honlapján.
 
 ### A Hivatal gazdálkodása
 
@@ -3042,21 +3044,21 @@ együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes
 - a) az engedélyköteles tevékenységet folytató energiaipari vállalkozások működésének engedélyezésére vonatkozó kérelmek elbírálásához, illetve az engedélyben foglaltak ellenőrzéséhez,
 - b) a Hivatal által hozott határozatok (különösen döntések, intézkedések, szankciók) megalapozásához.
 
-(3) A Hivatal az Európai Bizottságnak, az Ügynökségnek vagy az Energia Közösség Szabályozó Testületének kérésére jogosult rendelkezésre bocsátani a villamosenergia-rendszer és a villamosenergia-piac működésével kapcsolatos információkat, adatokat.
+(3) A Hivatal az Európai Bizottságnak, az ACER-nek vagy az Energia Közösség Szabályozó Testületének kérésére jogosult rendelkezésre bocsátani a villamosenergia-rendszer és a villamosenergia-piac működésével kapcsolatos információkat, adatokat.
 
-(4) A Hivatal az Ügynökség és a külföldi szabályozó hatóság kérésére, a 2009/72/EK irányelv szerinti feladataik ellátásához szükséges, személyes adatnak nem minősülő adatokat jogosult rendelkezésre bocsátani, és ezektől a szervezetektől a feladatai ellátásához szükséges adatokat, információkat kérhet.
+(4) A Hivatal a külföldi szabályozó hatóság kérésére, a 2019/944/EU irányelv szerinti feladata ellátásához szükséges, személyes adatnak nem minősülő adatokat jogosult rendelkezésre bocsátani. A Hivatal ezektől a szervezetektől a feladatai ellátásához szükséges adatokat, információkat kérhet.
 
 165. § (1) A vezetékes energiarendszerekre vonatkozó jogszabályok alapján, kizárólag Magyarország határait keresztező vezetékes energiaellátási rendszerekhez való hozzáféréssel kapcsolatosan, a vezetékes energiarendszerekre vonatkozó jogszabályokban meghatározott esetekben a Hivatal hatáskörében eljárhatnak:
 
 - a) az Európai Bizottság,
 - b) az Energia Közösség Szabályozó Testülete és
-- c) az Ügynökség.
+- c) az ACER.
 
-(2) Amennyiben az Ügynökség a 713/2009/EK rendelet 7. cikk (1) bekezdésében, 8. cikkében vagy 9. cikk (1) bekezdésében meghatározott esetben a Hivatal hatáskörében jár el, úgy az Ügynökség határozatának végrehajtásáról a Hivatal gondoskodik.
+(2) Ha az ACER a Hivatal hatáskörében jár el, úgy az ACER határozatának végrehajtásáról a Hivatal gondoskodik.
 
-(3) A Hivatal az Ügynökség minden – a Hivatalra vonatkozó 713/2009/EK rendelet szerinti – kötelező erejű határozatát végrehajtja.
+(3) A Hivatal az ACER minden – a Hivatalra vonatkozó 2019/942/EU rendelet szerinti – kötelező erejű határozatát végrehajtja.
 
-(4) A Hivatal együttműködik és szükség esetén információt cserél külföldi szabályozó hatósággal és az Ügynökséggel
+(4) A Hivatal együttműködik és szükség esetén információt cserél külföldi szabályozó hatósággal és az ACER-rel
 
 - a) a határokon átnyúló ügyekben vagy
 - b) a nemzeti piacok regionális szinten történő integrálása céljából.
@@ -3066,23 +3068,23 @@ együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes
 - a) a hálózat optimális üzemeltetését biztosító megállapodások kidolgozásának elősegítése,
 - b) a határkeresztező kapacitásallokáció és a közös szervezett villamosenergia-piacok létrehozása és támogatása,
 - c) a régión belüli és a régiók közötti tényleges verseny kialakulásához és az ellátásbiztonságának fokozásához szükséges megfelelő rendszerösszekötő kapacitás minimális szintje biztosításának előmozdítása, többek között új összekapcsolások révén, a tagállamok villamosenergia-kereskedőinek megkülönböztetése nélkül,
-- d) az átviteli rendszerirányítókra és az egyéb piaci szereplőkre vonatkozó valamennyi, 714/2009/EK rendelet 8. cikkének (5)–(6) bekezdésében meghatározott szabályzat kidolgozásának összehangolása,
+- d) az átviteli rendszerirányítókra és az egyéb piaci szereplőkre vonatkozó, a 714/2009/EK rendelet és a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendeletben meghatározott szabályzatok kidolgozásának összehangolása,
 - e) a szűk keresztmetszetek kezelésére vonatkozó szabályok átviteli rendszerirányítók általi kidolgozásának összehangolása,
 - f) a (4) bekezdés b) pontjában meghatározott regionális együttműködéshez kapcsolódó információcsere összehangolása.
 
-165/A. § (1) A Hivatal az Ügynökség véleményét kérheti arra vonatkozólag, hogy egy külföldi szabályozó hatóság határozata megfelel-e a 2009/72/EK irányelv vagy a 714/2009/EK rendelet alapján kiadott iránymutatásoknak (a továbbiakban: iránymutatások).
+165/A. § (1) A Hivatal az ACER véleményét kérheti arra vonatkozólag, hogy egy külföldi szabályozó hatóság határozata megfelel-e a 2009/72/EK irányelv, a 2019/944/EU irányelv, a 714/2009/EK rendelet és a 2019/943/EU rendelet alapján kiadott iránymutatásoknak (a továbbiakban: iránymutatások).
 
 (2) A Hivatal, ha úgy ítéli meg, hogy egy külföldi szabályozó hatóság villamos energia határon keresztül történő ki- és beszállítására vonatkozó határozata nem felel meg az iránymutatásoknak, a határozat keltétől számított 2 hónapon belül tájékoztathatja erről az Európai Bizottságot.
 
-(3) Abban az esetben, ha külföldi szabályozó hatóság vagy az Európai Bizottság az Ügynökség véleményét kéri arra vonatkozólag, hogy a Hivatal villamos energia határon keresztül történő ki- és beszállítására vonatkozó vagy más határozata megfelel-e iránymutatásoknak, és az Ügynökség véleményében megállapítja, hogy a Hivatal határozata nem felel meg azoknak, a Hivatal az Ügynökség véleményében foglaltakat annak kézhezvételétől számított 4 hónapon belül köteles végrehajtani.
+(3) Abban az esetben, ha külföldi szabályozó hatóság vagy az Európai Bizottság az ACER véleményét kéri arra vonatkozólag, hogy a Hivatal villamos energia határon keresztül történő ki- és beszállítására vonatkozó vagy más határozata megfelel-e iránymutatásoknak, és az ACER véleményében megállapítja, hogy a Hivatal határozata nem felel meg azoknak, a Hivatal az ACER véleményében foglaltakat annak kézhezvételétől számított 4 hónapon belül köteles végrehajtani.
 
 (4) Ha az Európai Bizottság a hivatali határozat iránymutatásoknak való megfelelésének további kivizsgálása tárgyában indított eljárásában megállapítja, hogy a Hivatal határozata nem felel meg az iránymutatásoknak, és ezért határozata visszavonására kötelezi, a Hivatal köteles a határozatát 2 hónapon belül visszavonni, továbbá erről az Európai Bizottságot tájékoztatni. Ha az Európai Bizottság nem indít eljárást, vagy az eljárás megindításáról szóló határozatának keltétől számított 4 hónapon belül nem hoz határozatot, úgy kell tekinteni, hogy nem emelt kifogást a Hivatal határozatával szemben.
 
 (5) A Hivatal és a Hivatal eljárásában résztvevő ügyfelek az Európai Bizottságnak a hivatali határozat iránymutatásoknak való megfelelésének további kivizsgálása tárgyában indított eljárása során az Európai Bizottság felhívására jogosultak észrevételeket benyújtani.
 
-165/B. § (1) A Hivatal az 1227/2011/EU európai parlamenti és tanácsi rendelet 7. cikk (2) bekezdésében és 16. cikkében meghatározott együttműködés keretében jogosult együttműködési megállapodást kötni az Ügynökséggel és más tagállam nemzeti szabályozó hatóságával.
+165/B. § (1) A Hivatal az 1227/2011/EU európai parlamenti és tanácsi rendelet 7. cikk (2) bekezdésében és 16. cikkében meghatározott együttműködés keretében jogosult együttműködési megállapodást kötni az ACER-rel és más tagállam nemzeti szabályozó hatóságával.
 
-(2) A Hivatal az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti feladatainak végrehajtása érdekében az Ügynökség, illetve más tagállam nemzeti szabályozó hatósága felé adatot továbbíthat, valamint az Ügynökségtől és más tagállam nemzeti szabályozó hatóságától adat továbbítását kérheti. A Hivatal a részére továbbított adatokat az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti feladatainak teljesítése érdekében jogosult kezelni.
+(2) A Hivatal az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti feladatainak végrehajtása érdekében az ACER, illetve más tagállam nemzeti szabályozó hatósága felé adatot továbbíthat, valamint az ACER-től és más tagállam nemzeti szabályozó hatóságától adat továbbítását kérheti. A Hivatal a részére továbbított adatokat az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti feladatainak teljesítése érdekében jogosult kezelni.
 
 #### 166–167. §
 
@@ -3094,14 +3096,15 @@ együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes
 
 - a) korlátozott villamosenergia-kereskedelmi engedélyezési ügyekben 30 nap,
 - b) jelentős piaci erő eljárásban 8 hónap,
-- c) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára 4 hónap, majd az eljárás felfüggesztését és az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének leteltét követően a határozat közzétételére vagy annak módosítására további, a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam,
+- c) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára 4 hónap, majd az eljárás felfüggesztését és az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 2019/943/EU rendelet 51. cikk (1) bekezdésében meghatározott eljárási határidejének leteltét követően a határozat közzétételére vagy annak módosítására további, a 2019/943/EU rendelet 51. cikk (2) bekezdésében meghatározott időtartam,
 - d) a 39/E. § (2) bekezdése szerinti eljárásban 30 nap,
 - e) a XIII/A. Fejezetben szabályozott eljárásokban 15 hónap,
 - f) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára 4 hónap, majd az eljárás felfüggesztését és az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság eljárási határidejének lejártát követően a határozat közzétételére vagy módosítására további 2 hónap,
 - g) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 40 nap,
 - h) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az átvevőt kijelölő határozat meghozatalához szükséges eljárásban 25 nap,
 - i) az átviteli rendszerüzemeltetők és a kijelölt villamosenergiapiac-üzemeltetők által kialakított feltételek és módszertanok jóváhagyása esetében a 2015/1222/EU bizottsági rendeletben meghatározott időtartam,
-- j) az e törvény hatálya alá tartozó panaszeljárásban 55 nap.
+- j) az e törvény hatálya alá tartozó panaszeljárásban 55 nap,
+- k) a közvetlenül alkalmazandó Európai Uniós jogi aktusokban meghatározott és a Hivatal hatáskörébe tartozó eltérés engedélyezésére irányuló eljárásban 4 hónap.
 
 (3) Közigazgatási perben a Hivatal megtámadott határozata vonatkozásában a keresetlevél halasztó hatályának elrendelésének nincs helye, ha a határozat
 
@@ -3179,7 +3182,7 @@ nem változtathatja meg.
 - 44. a villamosenergia-rendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszere, kijelölése, az érzékeny információ védelme, a kapcsolattartás és a jelentéstételi kötelezettségek, valamint európai kritikus infrastruktúra kijelölése esetén annak védelme, ellenőrzésének rendje, az előírások megsértése esetén alkalmazható jogkövetkezmények szabályait,
 - 45. a villamosenergia-ellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult, közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
 - 46. a kábelcsere kezdeményezésére, a kábelcsere-ütemezési terv elkészítésére és elkészítésének szempontjaira, a kábelcserét kezdeményezőnek és az elosztónak a kábelcserével összefüggő jogaira és kötelezettségeire, valamint a kábelcsere-ütemezési terv Hivatal általi jóváhagyására és felülvizsgálatára vonatkozó szabályokat,
-- 47. a 714/2009/EK rendelet alapján általános hatályú közvetlenül alkalmazandó európai uniós jogi aktusokban tagállami hatáskörbe utalt, egyes követelmények meghatározásáért felelős rendszerüzemeltetőre vonatkozó kijelöléseket,
+- 47. a 2019/943/EU rendelet alapján általános hatályú közvetlenül alkalmazandó európai uniós jogi aktusokban tagállami hatáskörbe utalt, egyes követelmények meghatározásáért felelős rendszerüzemeltetőre vonatkozó kijelöléseket,
 - 48. a villamosenergia-kereskedő által az átvételi kötelezettség alá eső villamos energia átvétele és megfizetése alóli mentesség céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat,
 - 49.
 - 50. a villamosenergia-tárolóra és létesítésére, a villamosenergia-tárolói engedélyre, a villamosenergia-tárolói engedélyes jogaira és kötelezettségeire, a villamosenergia-tároló üzemeltetésére vonatkozó szabályokat, valamint a villamosenergia-tárolói engedélyes és az elosztó által működtetett tároló teljesítményére és a kapacitás mértékére vonatkozó részletszabályokat,
@@ -3524,10 +3527,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 - a) a villamos energia határokon keresztül történő kereskedelme esetén alkalmazandó hálózati hozzáférési feltételekről és az 1228/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i, 714/2009/EK európai parlamenti és tanácsi rendelet,
 - b) 16. § p) pontja az átvitelirendszer-üzemeltetők közötti ellentételezések mechanizmusára és az átviteli díjak szabályozásának közös elveire vonatkozó iránymutatás megállapításáról szóló 2010. szeptember 23-i, 838/2010/EU európai bizottsági rendelet,
-- c) az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i, 713/2009/EK európai parlamenti és tanácsi rendelet, és
-- d) 170. § (1) bekezdés 26. pontja
-  - da) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről, a 617/2010/EU, Euratom tanácsi rendelet felváltásáról és a 736/96/EK parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló 2014. február 26-i, 256/2014/EU rendelet,
-  - db) a 256/2014/EU európai parlamenti és tanácsi rendelet 3. és 5. cikke szerinti adatközlés formájáról és egyéb technikai részleteiről, valamint a 2386/96/EK és a 833/2010/EU, Euratom bizottsági rendelet hatályon kívül helyezéséről szóló 2014. október 16-i, 1113/2014/EU európai bizottsági végrehajtási rendelet
+- c) a villamosenergia-ágazati kockázatokra való felkészülésről és a 2005/89/EK irányelv hatályon kívül helyezéséről szóló, 2019. június 5-i 2019/941/EU európai parlamenti és tanácsi rendelet,
+- d) az Energiaszabályozók Európai Uniós Együttműködési Ügynökségének létrehozásáról szóló, 2019. június 5-i 2019/942/EU európai parlamenti és tanácsi rendelet,
 - e) a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet,
 - f) a kapacitásfelosztásra és a szűk keresztmetszetek kezelésére vonatkozó iránymutatás létrehozásáról szóló, 2015. július 24-ei 2015/1222/EU bizottsági rendelet,
 - g) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
@@ -3536,7 +3537,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 - j) a nagyfeszültségű egyenáramú rendszerek és az egyenáram-csatlakozású erőműparkok hálózati csatlakozási követelményeire vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2016. augusztus 26-i 2016/1447/EU bizottsági rendelet,
 - k) a villamosenergia-átviteli hálózat üzemeltetésére vonatkozó iránymutatás megalkotásáról szóló, 2017. augusztus 2-i (EU) 2017/1485 bizottsági rendelet,
 - l) a villamos energia kiegyenlítő szabályozására vonatkozó iránymutatás létrehozásáról szóló, 2017. november 23-i (EU) 2017/2195 bizottsági rendelet,
-- m) a villamosenergia-vészhelyzet kezelésére és a rendszer működésének helyreállítására irányuló üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2017. november 24-i (EU) 2017/2196 bizottsági rendelet
+- m) a villamosenergia-vészhelyzet kezelésére és a rendszer működésének helyreállítására irányuló üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2017. november 24-i (EU) 2017/2196 bizottsági rendelet,
+- n) a villamos energia belső piacáról szóló, 2019. június 5-i 2019/943/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 

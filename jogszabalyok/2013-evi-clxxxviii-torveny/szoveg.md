@@ -132,7 +132,7 @@ számlát (a továbbiakban: akadálymentes számla) – az eredeti számlával a
 - 1. A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó az egyetemes szolgáltatásra jogosult felhasználó részére a részszámlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
 - 2. A részszámla első oldala:
 
-6K06792M_0
+9K08751P_0
 
 | „Szolgáltató logója: |  |
 | --- | --- |
@@ -170,7 +170,7 @@ Elszámolt mennyiség: … kWh
 
 Mérési pont azonosító:
 
-6K06792M_2
+9K08751P_2
 
 | Mérő gyártási száma | Elszámolt időszak | Induló mérőállás |  | Záró mérőállás | LM | Fogyasztás (kWh) | Szorzó | Mennyiség (kWh) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -220,7 +220,7 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 - 4.4. Felhasználó azonosító száma, felhasználási hely címe: a felhasználó azonosításához szükséges adat, pl.: vevő azonosító, felhasználási hely azonosító; a „felhasználó azonosító száma” helyett a szolgáltató üzletszabályzatában meghatározott ezzel egyenértékű megnevezés is használható. Több felhasználási azonosító szám, és felhasználási hely cím is feltüntethető, amennyiben több felhasználási helyre vonatkozóan állítja ki a szolgáltató a számlát.
 - 4.5. Tétel megnevezése:
 - 4.5.1. Nem lakossági fogyasztó esetében a díjtételek között a számlarészletező részben az „Jövedéki adó” tételt is fel kell feltüntetni.
-- 4.5.2. Lakossági fogyasztó esetében a „Szénipari szerkezetátalakítási támogatás”, a „Kedvezményes árú villamosenergia-ellátás támogatása”, a „Kapcsolt termelésszerkezet-átalakítás” és a „Pénzeszközök összesen” tételeket kizárólag abban az esetben kell feltüntetni, ha azok értéke nem nulla.
+- 4.5.2. A „Szénipari szerkezetátalakítási támogatás”, a „Kedvezményes árú villamosenergia-ellátás támogatása”, a „Kapcsolt termelésszerkezet-átalakítás” és a „Pénzeszközök összesen” tételeket kizárólag abban az esetben kell feltüntetni, ha azok értéke nem nulla.
 - 4.5.3. Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható (pl.: a „rendszerhasználati díjak összesen” sorban a mértékegység feltüntetése nem értelmezhető).
 - 4.6. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.
 - 4.7. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolási időszakban: lakossági fogyasztó esetében a hatályos árképzésből eredő megtakarítás a 2012. december 1-jén hatályos árképzéshez képest (a 2013. január 1-jét követően elszámolt összes fogyasztás 2012. december 1-jén hatályos árképzés alapján számított ellenértékének bruttó értéke – beleértve a villamos energia termékdíjat, rendszerhasználati díjakat, pénzeszköz jellegű tételeket – és a 2013. január 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve).
@@ -241,7 +241,7 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 - 1. A villamos energia egyetemes szolgáltató, illetve a villamosenergia-elosztó az egyetemes szolgáltatásra jogosult felhasználó részére az elszámoló számlát – a számlázással kapcsolatos pénzügyi és számviteli jogszabályok előírásainak betartása mellett – az alábbiak szerint bocsátja ki.
 - 2. Az elszámoló számla első oldala:
 
-6K06792N_0
+9K08751Q_0
 
 | „Szolgáltató logója: |  |
 | --- | --- |
@@ -329,7 +329,7 @@ Leolvasás módja (LM): Leol – leolvasás elosztói engedélyes által; Becs �
 - 4.4. Tétel megnevezése:
 - 4.4.1. Nem lakossági fogyasztó esetében a díjtételek között az „Jövedéki adó összesen” tételt is fel kell tüntetni.
 - 4.4.2. Nem lakossági fogyasztó esetében a díjtételek között az „Elszámolt jövedéki adó összesen”, „Részszámlákban elszámolt jövedéki adó”, „Fizetendő jövedéki adó” tételeket is fel kell tüntetni.
-- 4.4.3. Lakossági fogyasztó esetében a „Szénipari szerkezetátalakítási támogatás”, a „Kedvezményes árú villamosenergia-ellátás támogatása”, a „Kapcsolt termelésszerkezet-átalakítás” és a „Pénzeszközök összesen” tételeket, valamint az ezekhez kapcsolódó, részszámlákban elszámolt fizetendő tételekre vonatkozó sorokat kizárólag abban az esetben kell feltüntetni, ha azok értéke nem nulla.
+- 4.4.3. A „Szénipari szerkezetátalakítási támogatás”, a „Kedvezményes árú villamosenergia-ellátás támogatása”, a „Kapcsolt termelésszerkezet-átalakítás” és a „Pénzeszközök összesen” tételeket, valamint az ezekhez kapcsolódó, részszámlákban elszámolt fizetendő tételekre vonatkozó sorokat kizárólag abban az esetben kell feltüntetni, ha azok értéke nem nulla.
 - 4.4.4. Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható (pl.: a „rendszerhasználati díjak összesen” sorban a mértékegység feltüntetése nem értelmezhető).
 - 4.5. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.
 - 4.6. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolási időszakban: lakossági fogyasztó esetén a hatályos árképzésből eredő megtakarítás a 2012. december 1-jén hatályos árképzéshez képest (a 2013. január 1-jét követően elszámolt összes fogyasztás 2012. december 1-jén hatályos árképzés alapján számított ellenértékének bruttó értéke – beleértve a villamos energia termékdíjat, rendszerhasználati díjakat, pénzeszköz jellegű tételeket – és a 2013. január 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve).

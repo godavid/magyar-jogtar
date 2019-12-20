@@ -51,9 +51,13 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 10. § (1) Az Alkotmánybíróság tagjának megbízatása összeegyeztethetetlen minden más állami vagy önkormányzati, társadalmi, politikai, gazdasági tisztséggel, illetve megbízatással, kivéve a tudományos és felsőoktatási tevékenységhez közvetlenül kapcsolódó tisztségeket, ha az az alkotmánybírói feladatok ellátását nem akadályozza. Az Alkotmánybíróság tagja a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységen és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységen kívül más kereső foglalkozást nem folytathat.
 
+(1a) Az Alkotmánybíróság tagjával kapcsolatban bírói tisztsége miatt összeférhetetlenség nem áll fenn.
+
 (2) Ha az Alkotmánybíróság tagjává megválasztott személlyel kapcsolatban összeférhetetlenségi ok áll fenn, azt a hivatalba lépését követő tíz napon belül meg kell szüntetnie.
 
 (3) Ha az Alkotmánybíróság tagjával kapcsolatban tevékenysége során összeférhetetlenségi ok merül fel, azt haladéktalanul meg kell szüntetnie.
+
+10/A. § Az Alkotmánybíróság tagja kérelmezheti – az Alkotmánybíróság elnöke útján – a köztársasági elnöknél a bíróvá történő kinevezését. A kérelemről az Alkotmánybíróság elnöke – annak a köztársasági elnökhöz történő továbbításával egyidejűleg – tájékoztatja az Országos Bírósági Hivatal elnökét.
 
 11. § (1) Az Alkotmánybíróság tagja a megválasztását követő harminc napon belül, majd ezt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz.
 
@@ -154,7 +158,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 19. § (1) Az elnök díjazásának az összege megegyezik a köztisztviselői illetményalap harminckilencszeresével.
 
-(2) Az elnök – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre jogosult.
+(2)
 
 (3) Az elnök rezidencia használatára jogosult.
 
@@ -272,10 +276,18 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (3) A legfőbb ügyész az Alkotmánybírósághoz fordulhat az ügyész részvételével lefolytatott egyedi ügyben alkalmazott jogszabály Alaptörvényben biztosított jogok sérelmét okozó alaptörvény-ellenességének vizsgálata érdekében, ha a jogosult maga nem képes jogainak védelmére, vagy a jogsérelem a személyek nagyobb csoportját érinti.
 
-27. § Az Alaptörvény 24. cikk (2) bekezdés d) pontja alapján alaptörvény-ellenes bírói döntéssel szemben az egyedi ügyben érintett személy vagy szervezet alkotmányjogi panasszal fordulhat az Alkotmánybírósághoz, ha az ügy érdemében hozott döntés vagy a bírósági eljárást befejező egyéb döntés
+27. § (1) Az Alaptörvény 24. cikk (2) bekezdés d) pontja alapján alaptörvény-ellenes bírói döntéssel szemben az egyedi ügyben érintett személy vagy szervezet alkotmányjogi panasszal fordulhat az Alkotmánybírósághoz, ha az ügy érdemében hozott döntés vagy a bírósági eljárást befejező egyéb döntés
 
-- a) az indítványozó Alaptörvényben biztosított jogát sérti, és
+- a) az indítványozó Alaptörvényben biztosított jogát sérti vagy hatáskörét az Alaptörvénybe ütközően korlátozza, és
 - b) az indítványozó a jogorvoslati lehetőségeit már kimerítette, vagy jogorvoslati lehetőség nincs számára biztosítva.
+
+(2) Jogállásától függetlenül érintettnek minősül az a személy vagy szervezet,
+
+- a) aki (amely) a bíróság eljárásában fél volt,
+- b) akire (amelyre) a döntés rendelkezést tartalmaz, vagy
+- c) akinek (amelynek) jogára, kötelezettségére, magatartása jogszerűségére a bíróság döntése kiterjed.
+
+(3) Közhatalmat gyakorló indítványozó esetén vizsgálni kell, hogy a panaszában megjelölt, Alaptörvényben biztosított jog megilleti-e.
 
 28. § (1) Az Alkotmánybíróság a 27. §-ban meghatározott bírói döntés felülvizsgálatára irányuló eljárásban a 26. § szerinti, jogszabály Alaptörvénnyel való összhangját illető vizsgálatot is lefolytathatja.
 
@@ -556,6 +568,11 @@ indítványa alapján elvi véleményt nyilvánít.
 - d) a beadvány nem minősül indítványnak, vagy
 - e) az indítvány nyilvánvalóan alaptalan.
 
+(4a) Közhatalmat gyakorló indítványozó hatásköre korlátozását kifogásoló indítványának érdemi elbírálására csak akkor kerül sor, ha a támadott döntés az indítványozó
+
+- a) működésének súlyos zavarát eredményezi, vagy
+- b) valamely, Alaptörvényben foglalt hatáskörét sérti.
+
 (5) Az Alkotmánybíróságnak az indítvány érdemi vizsgálat nélküli visszautasításáról szóló döntését – a főtitkár javaslatára – az Alkotmánybíróság egyesbíróként eljárva hozza meg.
 
 56. § (1) Az Alkotmánybíróság az ügyrendjében meghatározottak szerinti tanácsban eljárva dönt az alkotmányjogi panasz befogadásáról.
@@ -673,7 +690,9 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 
 (2) E törvény az Alaptörvény 24. cikk (9) bekezdése alapján sarkalatosnak minősül.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5) E törvény nem érinti az Alkotmánybíróság e törvény hatálybalépésekor hivatalban lévő tagjának megbízatását azzal, hogy a megbízatásra az 5. §-ban és a 10–16. §-ban foglaltakat alkalmazni kell. Az Alkotmánybíróság e törvény hatálybalépésekor hivatalban lévő tagja vagy e törvény hatálybalépését megelőzően hivatalban volt tagja, akit az Országgyűlés kilenc évre választott meg és nem választották újra, e törvény hatálybalépését követően egyszer újraválasztható.
 
@@ -684,6 +703,10 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 (8) E törvény nem érinti az Alkotmánybíróságnak az e törvény hatálybalépésekor hivatalban lévő főtitkárának, valamint az Alkotmánybíróság Hivatalában foglalkoztatott köztisztviselők megbízatását.
 
 (9) Az e törvényben foglaltak nem érintik a hatálybalépését megelőzően hivatalt betöltött volt elnöknek a korábbi jogszabályok alapján megállapított juttatásait azzal, hogy az e törvény hatálybalépését megelőzően hivatalt betöltött volt elnök a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 25. § (1) bekezdése és 22. § (1) bekezdése szerinti juttatásokra akkor jogosult, ha e törvény hatálybalépéséig az öregségi nyugdíjkorhatárt betöltötte, és a juttatást kérelmezte.
+
+(10) Az Alkotmánybíróság az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépésekor hivatalban lévő tagja – ha még nem töltötte be az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt – kérelmezheti – az Alkotmánybíróság elnöke útján – a köztársasági elnöknél bíróvá történő kinevezését. A kérelemről az Alkotmánybíróság elnöke – annak a köztársasági elnökhöz történő továbbításával egyidejűleg – tájékoztatja az Országos Bírósági Hivatal elnökét.
+
+(11) Az Alkotmánybíróság 2020. január 1-jén hivatalban lévő elnöke a megbízatása megszűnéséig jogosult – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre.
 
 70. § (1) Az Alkotmánybíróság eljárására vonatkozó részletes szabályokat az Alkotmánybíróság ügyrendje állapítja meg.
 

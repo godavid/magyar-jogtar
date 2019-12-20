@@ -42,14 +42,14 @@ Az Országgyűlés a történeti alkotmány vívmányainak tiszteletben tartás�
 
 #### 4. § [A közigazgatási jogvita]
 
-(1) A közigazgatási jogvita tárgya a közigazgatási szerv közigazgatási jog által szabályozott, az azzal érintett jogalany jogi helyzetének megváltoztatására irányuló vagy azt eredményező cselekményének, vagy a cselekmény elmulasztásának (a továbbiakban együtt: közigazgatási tevékenység) jogszerűsége.
+(1) A közigazgatási jogvita tárgya a közigazgatási szerv közigazgatási jog által szabályozott, az azzal érintett jogalany jogi helyzetének megváltoztatására irányuló vagy azt eredményező (3) bekezdés szerinti cselekményének, vagy a cselekmény elmulasztásának (a továbbiakban együtt: közigazgatási tevékenység) jogszerűsége.
 
-(2) Közigazgatási jogvita a közszolgálati és a közigazgatási szerződéses jogviszonnyal kapcsolatos jogvita is.
+(2) A vitatott tevékenység akkor lehet közigazgatási jogvita tárgya, ha bármely a közigazgatási tevékenységgel közvetlenül érintett fél a vitatott tevékenységgel szemben jogszabály által biztosított közigazgatási jogorvoslatot kimerítette, vagy a pert jogszabály előírása miatt más közigazgatási eljárás előzte meg.
 
 (3) Közigazgatási cselekmény
 
 - a) az egyedi döntés;
-- b) a hatósági intézkedés;
+- b)
 - c) az egyedi ügyben alkalmazandó – a jogalkotásról szóló törvény hatálya alá nem tartozó – általános hatályú rendelkezés;
 - d) a közigazgatási szerződés.
 
@@ -59,7 +59,7 @@ Az Országgyűlés a történeti alkotmány vívmányainak tiszteletben tartás�
 - b) önállóan valamely közigazgatási cselekmény megvalósítását szolgáló járulékos közigazgatási cselekmény jogszerűségére vonatkozóan,
 - c) az egymással irányítási vagy vezetési jogviszonyban álló felek között.
 
-(5) Egyedi ügyben alkalmazandó általános hatályú rendelkezés azzal a közigazgatási cselekménnyel együtt lehet közigazgatási jogvita tárgya, amelynek a megvalósítása során azt alkalmazták. Egyedi ügyben alkalmazandó általános hatályú rendelkezés akkor lehet közigazgatási jogvita önálló tárgya, ha a jogsérelem az általános hatályú rendelkezés alkalmazása vagy hatályosulása folytán közvetlenül, közigazgatási cselekmény megvalósítása nélkül következett be.
+(5) Egyedi ügyben alkalmazandó általános hatályú rendelkezés azzal az egyedi döntéssel együtt lehet közigazgatási jogvita tárgya, amelynek a megvalósítása során azt alkalmazták. Egyedi ügyben alkalmazandó általános hatályú rendelkezés akkor lehet közigazgatási jogvita önálló tárgya, ha azt a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv, ennek hiányában az ügyész indítványozza.
 
 (6) A közigazgatási tevékenység felek általi megjelölése a bíróságot nem köti. A bíróság hivatalból annak tartalma szerint veszi figyelembe a közigazgatási tevékenységet, és a megfelelő eljárásban bírálja el.
 
@@ -75,7 +75,7 @@ Az Országgyűlés a történeti alkotmány vívmányainak tiszteletben tartás�
 - 3. közszolgálati jogviszony: az állam vagy az állam nevében eljáró szerv és az állam nevében foglalkoztatott személy között munkavégzés, illetve szolgálatteljesítés céljából létesített, a köz szolgálatára irányuló, törvényben meghatározott speciális kötelezettségeket és jogokat tartalmazó jogviszony; ide nem értve a bírák, az igazságügyi alkalmazottak, továbbá az ügyészségi alkalmazottak szolgálati viszonyát, valamint a munkaviszonyban állók jogviszonyát;
 - 4. megelőző eljárás: a jogvita tárgyává tett közigazgatási cselekmény megvalósítására folytatott közigazgatási hatósági vagy jogorvoslati eljárás.
 
-(8) E törvény közigazgatási szervre vonatkozó szabályait a munkáltató szervre, a közigazgatási cselekményre vonatkozó szabályokat a közszolgálati jogviszonnyal kapcsolatos döntésre és intézkedésre alkalmazni kell. A Közszolgálati Döntőbizottság eljárása nem minősül megelőző eljárásnak.
+(8)
 
 #### 5. § [Közigazgatási bírói út]
 
@@ -84,6 +84,10 @@ Az Országgyűlés a történeti alkotmány vívmányainak tiszteletben tartás�
 (2) A bíróság közigazgatási perben dönt azon közjogi jogvitában, amelynek elbírálását törvény a közigazgatási ügyben eljáró bíróság hatáskörébe utalja.
 
 (3) A bíróság dönt az önkormányzati rendelet más jogszabályba ütközésének vizsgálatára irányuló, valamint a helyi önkormányzat jogalkotási kötelezettségének elmulasztása miatti eljárásban.
+
+(4) A bíróság közszolgálati jogviszonnyal kapcsolatos jogvitát közigazgatási perben bírálja el. E törvény közigazgatási szervre vonatkozó szabályait a munkáltató szervre, a közigazgatási cselekményre vonatkozó szabályokat a közszolgálati jogviszonnyal kapcsolatos döntésre és intézkedésre alkalmazni kell. A Közszolgálati Döntőbizottság eljárása nem minősül megelőző eljárásnak.
+
+(5) A bíróság a közigazgatási szerződéses jogviszonnyal kapcsolatos jogvitát közigazgatási perben bírálja el.
 
 #### 6. § [A polgári perrendtartás szabályainak alkalmazása]
 
@@ -288,7 +292,8 @@ A per megindítására jogosult
 - b) az ügyészség, illetve a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv, ha a felhívásában megállapított határidő eredménytelenül telt el,
 - c) az a közigazgatási szerv, amely a megelőző eljárásban hatóságként vagy szakhatóságként nem vett részt, ha hatáskörét a közigazgatási tevékenység érinti, továbbá amely a közigazgatási szerződésben részes fél (szerződő közigazgatási szerv),
 - d) törvényben vagy kormányrendeletben meghatározott ügyekben az a civil szervezet, amely a nyilvántartásba vett tevékenységét valamely alapvető jog védelme vagy valamilyen közérdek érvényre juttatása érdekében a közigazgatási tevékenység által érintett földrajzi területen legalább egy éve folytatja, ha a közigazgatási tevékenység nyilvántartásba vett tevékenységét érinti,
-- e) törvényben meghatározott esetben az általa képviselt tagság, illetve csoport jogos érdekeinek közvetlen sérelme vagy veszélyeztetése esetén azon érdek-képviseleti szervezet vagy köztestület is, amelynek nyilvántartott vagy alapító okiratában rögzített tevékenységét a közigazgatási tevékenység érinti.
+- e) törvényben meghatározott esetben az általa képviselt tagság, illetve csoport jogos érdekeinek közvetlen sérelme vagy veszélyeztetése esetén azon érdek-képviseleti szervezet vagy köztestület is, amelynek nyilvántartott vagy alapító okiratában rögzített tevékenységét a közigazgatási tevékenység érinti,
+- f) a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv vagy az ügyész, ha általános hatályú rendelkezés megsemmisítését indítványozza.
 
 #### 18. § [Alperes]
 
@@ -1149,13 +1154,15 @@ A bíróság megszüntetheti az eljárást, ha a felperes a kérelmére kitűzö
 
 (1) Ha a bíróság a jogsértést – a kereset alapján vagy hivatalból – megállapítja,
 
-- a) a közigazgatási cselekményt megváltoztatja, megsemmisíti vagy hatályon kívül helyezi,
-- b) szükség esetén a közigazgatási cselekmény megsemmisítése vagy hatályon kívül helyezése mellett a közigazgatási szervet új eljárásra kötelezi,
+- a) a közigazgatási cselekményt megváltoztatja, megsemmisíti, hatályon kívül helyezi, illetve az általános hatályú rendelkezésnek az ügyben való alkalmazását kizárja,
+- b) szükség esetén a közigazgatási cselekmény megsemmisítése, hatályon kívül helyezése, illetve az általános hatályú rendelkezés ügyben való alkalmazásának kizárása mellett a közigazgatási szervet új eljárásra kötelezi,
 - c) a közigazgatási szervet marasztalja.
 
 (2) A bíróság az (1) bekezdésben foglalt egyes jogkövetkezményeket együttesen is alkalmazhatja. Törvény más jogkövetkezmény alkalmazását is előírhatja.
 
 (3) A jogsértés megállapítása esetén a bíróság hivatalból kötelezi a közigazgatási szervet a tevékenység jogsértő következményének elhárítására.
+
+(4) Az általános hatályú rendelkezés megsemmisítésének vagy hatályon kívül helyezésének csak akkor van helye, ha azt a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv, ennek hiányában az ügyész indítványozta.
 
 #### 90. § [Megváltoztatás]
 

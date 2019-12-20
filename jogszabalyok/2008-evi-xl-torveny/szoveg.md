@@ -45,6 +45,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 1. Alapvető eszköz: a működési engedélyben felsorolt azon eszközök és vagyoni értékű jogok összessége, amelyek a földgázipari vállalkozás alaptevékenységének folytatását biztosítják.
 - 1a. Bértárolás: Magyarország területére átszállítás céljából behozott földgáznak a tárolására nyújtott, nem belföldi felhasználás céljára igénybevett földgáztárolói szolgáltatás.
 - 1b. Betáplálási-kiadási pont: a szállítási rendszerüzemeltető, a földgázelosztó, a földgáztárolói engedélyes, a felhasználó vagy a földgáztermelő földgázrendszere közötti fizikai vagy egyesített csatlakozási pont, valamint a rendszer-összekötési pont, ide nem értve az összekapcsolási pontot.
+- 1c. Adatcsere: a földgázelosztó és – a korlátozott földgáz-kereskedelmi engedélyes kivételével – a rendszerhasználó közötti együttműködés érdekében jogszabályokban, valamint az Üzemi és Kereskedelmi Szabályzatban kötelezettségként előírt adatszolgáltatások egységes keretek között történő, diszkriminációmentes lebonyolítása az Üzemi és Kereskedelmi Szabályzatban rögzítettek szerint, a rendszerhasználati szerződések betartása mellett.
 - 2. Célvezeték: a földgáztermelőhöz, határon túli földgázrendszerhez, a szállító-, elosztóvezetékhez vagy a tárolóhoz közvetlenül csatlakozó olyan földgázvezeték, amely kizárólag egy felhasználó egy felhasználási helyének ellátására szolgál.
 - 3. Csatlakozási szerződés: a szállítási rendszerüzemeltető vagy a földgázelosztó és a leendő felhasználó vagy a földgáztermelő között létrejött szerződés, amely biztosítja a felhasználó vagy a földgáztermelő szállító- vagy elosztóvezetékre történő csatlakozási jogát, az érintett csatlakozási ponton vásárolt kapacitás mértékét, valamint rögzíti a csatlakozás műszaki-gazdasági feltételeit.
 - 4. Csatlakozóvezeték: a felhasználási helyet magába foglaló ingatlan telekhatárától, mint elosztói kiadási ponttól a fogyasztói főcsapig terjedő vezeték.
@@ -73,6 +74,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 23. Földgáz: olyan természetes éghető gáz, amely a földkéregben keletkezett, bányászati tevékenység során kerül a felszínre, valamint bármely, az e törvény szerint alkalmazott berendezésben környezetvédelmi és műszaki biztonsági szempontból megfelelő módon, biztonságosan felhasználható, ideértve a 26. pont szerinti gázfajtákat is.
 - 23a. Földgázbányászati célú vezeték: a földgáztermelésben, -előkészítésben és -feldolgozásban használt kútbekötő-, mezőbeli gerinc- és mezők közötti technológiai csővezeték.
 - 24. Földgázelosztás: a földgáznak elosztóvezetéken történő továbbítása a felhasználóhoz.
+- 24a. Földgázellátási válsághelyzet: a korai előrejelzési szint, a riasztási szint és a vészhelyzeti szint.
 - 25. Földgáz-kereskedelem: a földgáz üzletszerű, ellenérték fejében, nem saját felhasználási célra történő vásárlása és értékesítése.
 - 26. Földgáz minőségű, biomasszából és egyéb nem bányászati forrásból származó gázok: olyan mesterségesen előállított gázkeverékek, amelyek a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározott feltételek mellett, környezetvédelmi és műszaki-biztonsági szempontból megfelelő módon az együttműködő földgázrendszerbe juttathatók (szállíthatók, eloszthatók és tárolhatók), a földgázzal keverhetők, és ez a keverék a földgázrendszerbe juttatáskor megfelel a földgáz minőségére vonatkozó a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott minőségi követelményeknek.
 - 27. Földgáz-nagykereskedelem: a III. Fejezet vonatkozásában az a tevékenység, amelynek során a földgázkereskedő a földgázt más földgázkereskedőnek értékesíti.
@@ -101,21 +103,25 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 44. Kereskedelmi egyensúly: az az egyensúlyi állapot, amikor adott gáznapon a rendszerhasználó által az együttműködő földgázrendszerbe betáplált és onnan vételezett földgáz mennyisége megegyezik.
 - 44a. Kereskedési platform: a 312/2014/EU bizottsági rendelet 3. cikk 4. pontjában meghatározott fogalom.
 - 45. Kiegyensúlyozó földgáz: adott gáznapon a rendszerhasználók által az együttműködő földgázrendszerbe beadott és a ténylegesen vételezett földgázmennyiségek közötti különbség kiegyenlítésére a szállítási rendszerüzemeltető által felhasznált földgázmennyiség.
-- 46. Korlátozás: földgázellátási zavar esetén az egyes korlátozási kategóriákba besorolt felhasználók gázfogyasztásának csökkentése vagy megszüntetése annak érdekében, hogy az együttműködő földgázrendszeren vagy annak egy részén a hidraulikai egyensúly fenntartható vagy helyreállítható legyen.
+- 45a. Korai előrejelzési szint: a 2017/1938/EU európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés a) pontjában meghatározott válságszint.
+- 46. Korlátozás: az egyes korlátozási kategóriákba besorolt felhasználók gázfogyasztásának csökkentése vagy megszüntetése annak érdekében, hogy az együttműködő földgázrendszeren vagy annak egy részén a hidraulikai egyensúly fenntartható vagy helyreállítható legyen.
 - 46a.
 - 47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a lakóépületet, mint felhasználót a közös fogyasztás vonatkozásában úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
 - 48. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás.
 - 49. Lekötött kapacitás: a betáplálási-kiadási pont, valamint a földgáztároló technikai kapacitásának az a része, amelyet adott kapacitáslekötési időszakra a rendszerhasználó rendszerhasználati szerződéssel leköt.
 - 49a. Másodlagos kapacitáskereskedelem: a lekötött, de fel nem használt kapacitás továbbértékesítése.
+- 49b. Nem piaci intézkedések: a 2017/1938/EU európai parlamenti és tanácsi rendelet VIII. mellékletében meghatározott intézkedések.
 - 50. Nominálás: a betáplálási-kiadási ponton, valamint az összekapcsolási ponton betáplálni vagy vételezni tervezett földgázmennyiség gáznapra vagy gáznapon belüli időszakra történő megadása a lekötött kapacitásokra figyelemmel, a 312/2014/EU bizottsági rendeletben, valamint az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint.
 - 50a. Összekapcsolási pont: az együttműködő földgázrendszeren belül, különböző szállítási rendszerüzemeltetők által üzemeltetett szállítóvezetékek közötti üzemeltetési határ.
+- 50b. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők földgázra vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik.
 - 51. Rendszerhasználati szerződés: a rendszerhasználó által a szállítási rendszerüzemeltetővel, a földgázelosztóval vagy a földgáztárolói engedélyessel az e törvényben, az e törvény végrehajtására kiadott rendeletekben, az Üzemi és Kereskedelmi Szabályzatban, a kapacitáslekötési platform szabályzatában, valamint a rendszerüzemeltető működési engedélyében és üzletszabályzatában meghatározott tevékenységek végzésére és szolgáltatások biztosítására kötött szerződés.
 - 51a. Rendszerhasználó: az a felhasználó, földgáztermelő, földgázkereskedő – beleértve a korlátozott földgázkereskedelmi engedélyest és az egyetemes szolgáltatót is –, illetve rendszerüzemeltető – beleértve a határkeresztező gázvezetéken földgázt átszállító külföldi székhelyű szállítási rendszerüzemeltetőt is –, aki rendszerhasználati szerződés alapján a földgázrendszer kapacitását leköti, vagy azt földgáz betáplálására vagy vételezésére igénybe veszi.
 - 52. Rendszerirányítás: az együttműködő földgázrendszer e törvényben meghatározott irányítási és koordinációs feladatainak ellátása.
 - 52a. Rendszerüzemeltető: a szállítási rendszerüzemeltető, a földgáztárolói engedélyes és a földgázelosztó.
 - 52b. Részleges szigetüzem: olyan elosztóvezeték, amelybe földgáztermelői vezetékről és szállítóvezetékről együttesen biztosítható a földgáz fizikai betáplálása.
 - 52c. Rendszer-összekötési pont: a 2017/459 bizottsági rendelet 3. cikk 2. pontjában meghatározott fogalom.
-- 52d. Rendszerösszekötő: olyan határkeresztező gázvezeték, amely kizárólag Magyarország együttműködő földgázrendszerét és más EU-tagállam földgázszállító hálózatát kapcsolja össze.
+- 52d. Rendszerösszekötő: olyan határkeresztező gázvezeték, amely kizárólag Magyarország együttműködő földgázrendszerét és más EU-tagállam, vagy egy harmadik ország földgázszállító hálózatát kapcsolja össze.
+- 52e. Riasztási szint: a 2017/1938/EU európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés b) pontjában meghatározott válságszint.
 - 53. Szabad kapacitás: a betáplálási-kiadási pont, valamint a földgáztároló technikai kapacitásának rendszerhasználati szerződéssel le nem kötött, rendszerhasználók számára rendelkezésre álló része.
 - 53a. Szállítási rendszerüzemeltető: a földgázszállítást, a szállítóvezetékek üzemeltetését, karbantartását és fejlesztését végző engedélyes.
 - 53b. Szállítási rendszerirányító: az együttműködő földgázrendszer e törvényben meghatározott képviseleti, irányítási és koordinációs feladatainak ellátására a Hivatal által kijelölt szállítási rendszerüzemeltető.
@@ -134,18 +140,37 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 62. Terület: a helységnévtárban külön nem nevesített, önálló helyrajzi számmal, számokkal azonosított földrészlet.
 - 63. Újranominálás: a gáznapra vagy gáznapon belül egy meghatározott időszakra vonatkozó nominálásnak a 312/2014/EU bizottsági rendeletben, valamint az Üzemi és Kereskedelmi Szabályzatban rögzített eljárási rend szerint történő módosítása.
 - 64. Üzemi és Kereskedelmi Szabályzat: az együttműködő földgázrendszer technikai működésére, valamint a kereskedelmi folyamatra vonatkozó főbb szabályokat tartalmazó, a Hivatal által jóváhagyott szabályzat.
-- 65. Üzemzavar: minden olyan a földgáz termelését, tárolását, szállítását, elosztását korlátozó vagy megszüntető esemény, amelynek oka az együttműködő földgázrendszer normál üzemmenettől eltérő olyan működése, amelynek következménye veszélyeztetés vagy földgázellátási zavar, és amely egy vagy több felhasználó földgázellátásának szünetelését okozza.
+- 65. Üzemzavar: az együttműködő földgázrendszer részét képező infrastruktúra működésében bekövetkező, a normál üzemmenettől eltérő, a földgáz termelését, tárolását, szállítását vagy elosztását veszélyeztető, korlátozó vagy ellehetetlenítő esemény.
 - 66. Üzletszabályzat: az engedélyes általános szerződési feltételeit, valamint a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott elemeket tartalmazó, a Hivatal által jóváhagyott szabályzat.
 - 67. Vásárolt kapacitás: felhasználási helyen vagy szállítóvezetékhez közvetlenül csatlakozó felhasználó esetén a szállítórendszer érintett kiadási pontján a felhasználó, vagy földgázszállító vagy földgázelosztó rendszer betáplálási pontján a földgáztermelő által megvásárolt vagy egyéb jogcímen, igazolt módon megszerzett kapacitás.
 - 68. Védendő fogyasztó: a lakossági fogyasztók azon köre, akik (jogszabályban meghatározott szociális helyzetük, vagy valamely egyéb tulajdonságuk alapján) a földgázellátásban megkülönböztetett feltételek szerint vehetnek részt.
+- 68a. Védett felhasználó:
+  - a) a lakossági fogyasztó,
+  - b) az alapvető szociális szolgáltató,
+  - c) a távhőtermelő, a távhőszolgáltatásról szóló törvény (a továbbiakban: Tszt.) szerinti lakossági felhasználó vagy az alapvető szociális szolgáltató ellátása érdekében termelt, és kizárólag földgáz felhasználásával előállítható hő előállításához szükséges földgázkapacitás-igényének megfelelő földgáz mértékéig.
 - 69. Végső menedékes szolgáltatás: ideiglenes földgázellátás, amelyet a Hivatal által kijelölt földgázkereskedő biztosít azon egyetemes szolgáltatók vagy egyetemes szolgáltatásra jogosult felhasználók részére, akiket földgázkereskedőjük valamilyen okból nem képes ellátni.
 - 70. Vezetékes PB-gáz szolgáltatás: a felhasználók részére PB-gáz csővezetéken keresztül történő elosztása és értékesítése.
+- 70a. Vészhelyzeti szint: a 2017/1938/EU európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés c) pontjában meghatározott válságszint.
 - 71. Lakossági PB-gáz fogyasztó: aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol tartályban forgalmazott PB-gázt vagy vezetékes PB-gázt, és az így vásárolt PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vásárol, és a vásárolt, tartályban forgalmazott vagy vezetékes PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
 - 72. PB-gáz forgalmazó: aki PB-gáz forgalmazási tevékenység végzésére a műszaki-biztonsági hatóság által kiadott, hatályos engedéllyel rendelkezik, vagy a forgalmazási tevékenység folytatására irányuló szándékát a műszaki-biztonsági hatóságnak bejelentette.
 - 73. PB-gáz kiskereskedő: aki
   - a) a PB-gáz palackos PB-gáz értékesítőhelyen vagy üzemanyagtöltő állomáson történő értékesítéséhez szükséges, a kereskedelmi tevékenység folytatásának feltételeiről szóló jogszabály szerinti bejelentést megtette, illetve a PB-gáz palackból turista használatú palackba történő átfejtés végzésére engedéllyel rendelkezik, vagy
   - b) önálló kereskedelmi ügynöki tevékenység keretében, a PB-gáz forgalmazóval fennálló szerződéses kapcsolat alapján a PB-gáz forgalmazó tulajdonában lévő palackos PB-gázt értékesít, és a kereskedelmi tevékenység folytatásának feltételeiről szóló jogszabály szerint a tevékenységét bejelentette.
 - 74. PB-gáz: propán-, butángázok és ezek elegyei.
+- 75. Alapvető szociális szolgáltató:
+  - a) az egészségügyről szóló törvényben meghatározott egészségügyi intézmény,
+  - b) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott szociális intézmény,
+  - c) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi szerv,
+  - d) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvényben meghatározott honvédelemben közreműködő szerv,
+  - e) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti intézmény
+  - f) a nemzeti köznevelésről szóló törvény szerinti köznevelési intézmény,
+  - g) a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény,
+  - h) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szerv, valamint
+  - i) a Magyarország helyi önkormányzatairól szóló törvény szerinti helyi önkormányzati szervek intézményei.
+- 76. Szolidaritási alapon védett felhasználó:
+  - a) a lakossági fogyasztó,
+  - b) a 75. pont a)–e) alpontja szerinti alapvető szociális szolgáltató,
+  - c) a 68a. pont c) alpontja szerinti távhőtermelő a Tszt. szerinti lakossági felhasználó vagy a 75. pont a)–e) alpontja szerinti alapvető szociális szolgáltató ellátása érdekében termelt, és kizárólag földgáz felhasználásával előállítható hő előállításához szükséges földgázkapacitás-igényének megfelelő földgáz mértékéig.
 
 ### II. Fejezet — FÖLDGÁZIPARI TEVÉKENYSÉGEK
 
@@ -160,7 +185,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - c) a csatlakozó rendszerüzemeltetőkkel és saját szervezetén belül a rendszerhasználókkal kapcsolatot tartó, a napi szállítási feladat teljesítését biztosító, folyamatosan működő műszaki irányító szolgálattal,
 - d) saját alkalmazásában álló, a földgázszállítás gyakorlásához és a mindennapi vállalati feladatok ellátásához és a vállalat jogi, könyvvezetési és informatikai szolgáltatások biztosításához szükséges személyzettel,
 - e) a 121/G. §-ban meghatározott feltételeknek megfelelő megfelelési ellenőrrel,
-- f) az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel történő adatcserére alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a kereskedési platformmal vagy az egyensúlyozó platformmal, valamint a szervezett földgázpiaci engedélyes adatforgalmi és informatikai rendszerével való együttműködést, valamint
+- f) az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel történő adatkommunikációra alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a kereskedési platformmal vagy az egyensúlyozó platformmal, valamint a szervezett földgázpiaci engedélyes adatforgalmi és informatikai rendszerével való együttműködést, valamint
 - g) saját, a vertikálisan integrált vállalkozástól független informatikai berendezésekkel és biztonsági rendszerrel.
 
 5. § E törvény alkalmazásában a földgázszállítás gyakorlásába beletartozik különösen:
@@ -196,7 +221,7 @@ végzi.
 
 (2) A napi kiegyensúlyozási díjat a 312/2014/EU bizottsági rendeletben előírtak szerint meghatározott módszertan alapján kell kiszámítani. A módszertant a szállítási rendszerüzemeltető a Hivatal részére jóváhagyásra benyújtja.
 
-(3) A szállítási rendszerüzemeltető a kereskedési platformon vagy az egyensúlyozó platformon tagsággal nem rendelkező rendszerhasználó felé a kiegyensúlyozó földgáz biztosításához közvetlenül kapcsolódó, igazolt napi kiegyensúlyozási díjakat, a Hivatal elnökének rendelete alapján meghatározott pótdíjat és a kiegyensúlyozó földgáz adott platformon történő beszerzésével kapcsolatban felmerült indokolt költségeket felszámolja az üzletszabályzatban foglaltak szerint.
+(3)
 
 (4) A szállítási rendszerüzemeltető köteles az e törvény végrehajtásáról szóló kormányrendeletben meghatározott olyan nyilvántartást vezetni, amely biztosítja a kiegyensúlyozó intézkedéseihez kapcsolódó bevételeinek és kiadásainak átláthatóságát és ellenőrizhetőségét.
 
@@ -210,12 +235,12 @@ végzi.
 
 (5) A szállítási rendszerüzemeltető az (1) bekezdésben foglalt informatikai rendszerére vonatkozó érvényes tanúsítványokat köteles honlapján megjelentetni.
 
-10/A. § (1) A szállítási rendszerüzemeltető részt vesz a 715/2009/EK európai parlamenti és tanácsi rendelet szerinti Földgázpiaci Szállítási Rendszerüzemeltetők Európai Hálózatának (ENTSOG) és az egyéb nemzetközi szervezeteknek a munkájában, amely részvétel során köteles képviselni az országos igényeket és fejlesztési terveket.
+10/A. § (1) A szállítási rendszerüzemeltető részt vesz a 715/2009/EK európai parlamenti és tanácsi rendelet szerinti Földgázpiaci Szállítási Rendszerüzemeltetők Európai Hálózatának (ENTSOG) és az egyéb nemzetközi szervezeteknek a munkájában, amely részvétel során köteles képviselni az országos igényeket és a jóváhagyott 10 éves fejlesztési tervet.
 
 (2) A szállítási rendszerüzemeltető az (1) bekezdésben meghatározott feladatkörében
 
 - a) a Hivatal felkérésére részt vesz a regionális vagy európai szinten szervezett és koordinált földgázszállítási kapacitáshiány-kezelési eljárásokban,
-- b) figyelembe veszi a rendszer-összekötési pontokon jelentkező kapacitáshiány kezelése során mind a hazai, mind a csatlakozó szállítóvezetékek állapotát és műszaki sajátosságait, valamint a többirányú, valós forrásbetáplálási lehetőségeket, továbbá a regionális és közösségi szintű hálózatokra vonatkozó 10 éves fejlesztési tervben foglaltakat, és
+- b) figyelembe veszi a rendszer-összekötési pontokon jelentkező kapacitáshiány kezelése során mind a hazai, mind a csatlakozó szállítóvezetékek állapotát és műszaki sajátosságait, valamint a többirányú, valós forrásbetáplálási lehetőségeket, továbbá a regionális és közösségi szintű hálózatokra vonatkozó jóváhagyott 10 éves fejlesztési tervben foglaltakat, és
 - c) tájékoztatja a rendszerüzemeltetőket a földgázszállító rendszerek műszaki előírásainak változásairól annak érdekében, hogy a szállítóvezetékek, valamint a szállítóvezetékekhez kapcsolódó elosztóvezetékek tervezése, fejlesztése és üzemeltetése a gázhálózatok műszaki előírásaival és a regionális, valamint az egységes európai gázpiac működésével összhangban történjen.
 
 (3) Az (1) bekezdésben meghatározott képviselet keretében a szállítási rendszerüzemeltető a regionális vagy európai szinten szervezett és koordinált rendszer-összekötési pontokon megjelenő kapacitáshiány-kezelési eljárásokat, a szállító- és elosztóvezeték, valamint a földgáztároló együttműködő képességét alapvetően befolyásoló megállapodásokat a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásokról a szállítási rendszerüzemeltető az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a Hivatalt tájékoztatja.
@@ -231,7 +256,7 @@ végzi.
 - a) az Üzemi és Kereskedelmi Szabályzat tervezetének elkészítése, és a Hivatalhoz jóváhagyásra történő beterjesztése,
 - b) az együttműködő földgázrendszer – az ésszerű keresletnek való hosszú távú megfelelés és az ellátásbiztonság garantálása érdekében szükséges – fejlesztéseinek összehangolása a szállítási rendszerüzemeltetők által a hozzájuk csatlakozó egyéb rendszerüzemeltetők javaslatainak figyelembevételével a 10 éves fejlesztési javaslat elkészítése és a Hivatalhoz való beterjesztése,
 - c) az együttműködő földgázrendszer együttműködő képességének megőrzése érdekében szükséges intézkedések megtervezése, a földgázelosztók által összeállított földgázelosztói szintű, valamint a szállítási rendszerüzemeltetők által összeállított, a közvetlen szállítóvezetéki felhasználókra vonatkozó korlátozási besorolások alapján az országos szintű korlátozási besorolás összeállítása és a Hivatalhoz jóváhagyásra történő beterjesztése,
-- d) földgázellátási zavar vagy földgázellátási válsághelyzet esetén az együttműködő földgázrendszeren a szükséges korlátozás elrendelése és a jogszabály alapján előírt intézkedések irányítása,
+- d) a vészhelyzeti szint vagy szolidaritási intézkedések miatt szükséges korlátozás elrendelése az együttműködő földgázrendszeren, valamint a jogszabály alapján előírt intézkedések irányítása,
 - e)
 - f) közreműködés az együttműködő földgázrendszer fejlesztése céljából szükséges pályázat előkészítésében.
 
@@ -247,7 +272,7 @@ végzi.
 
 (3) A földgázelosztó és az elosztóvezeték – (1) bekezdés szerinti tulajdonosától különböző – tulajdonosa az üzemeltetni kívánt vezetékszakaszok működtetésére, karbantartására vonatkozóan üzemeltetési szerződést köt. Az üzemeltetési szerződés tartalmi elemeit külön jogszabály tartalmazza.
 
-(4) A földgázelosztónak rendelkeznie kell az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel történő adatcserére alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a szállítási rendszerüzemeltető részére a napi gázforgalmazás megbízható helyzetére vonatkozó adatszolgáltatást, valamint a rendszerhasználók felé az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat és adatcserét. Az informatikai rendszernek alkalmasnak kell lennie a szigetüzemhez vagy részleges szigetüzemhez csatlakozó termelésből eredő földgázmennyiség napi forgalmazásával kapcsolatos nominálások, allokálások kezelésére is.
+(4) A földgázelosztónak rendelkeznie kell az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel történő adatkommunikációra alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a szállítási rendszerüzemeltető részére a napi gázforgalmazás megbízható helyzetére vonatkozó adatszolgáltatást, valamint a rendszerhasználók felé az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat és adatcserét. Az informatikai rendszernek alkalmasnak kell lennie a szigetüzemhez vagy részleges szigetüzemhez csatlakozó termelésből eredő földgázmennyiség napi forgalmazásával kapcsolatos nominálások, allokálások kezelésére is.
 
 15. § (1) A földgázelosztó az együttműködő földgázrendszer fejlesztésének és üzemeltetésének biztosítása érdekében köteles a csatlakozó rendszerüzemeltetőkkel, a telephelyi szolgáltatókkal és a rendszerhasználókkal folyamatosan együttműködni.
 
@@ -315,6 +340,20 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 19/A. § Az elosztóhálózat-használati szerződés felek általi megszegése megállapításának ellenőrzési, szakértői vizsgálati és dokumentálási szabályait, valamint a jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket a Hivatal elnöke rendeletben határozza meg.
 
+19/B. § (1) Az adatcsere – a (2) bekezdésben foglaltak kivételével – kötelezően alkalmazandó
+
+- a) a földgázelosztó,
+- b) a földgázkereskedő, valamint
+- c) az egyetemes szolgáltató
+
+vonatkozásában.
+
+(2) Az adatcsere alkalmazása nem kötelező a saját jogon eljáró felhasználó és azon engedélyesek között, amelynél a földgázelosztó és a földgázkereskedő közös informatikai rendszerben kezelik tevékenységüket, valamint a földgáztermelő esetében.
+
+(3) Ha az engedélyesek nem tesznek eleget az (1) bekezdés szerinti adatcserével kapcsolatos kötelezettségnek, a Hivatal a 119. §-ban foglalt jogkövetkezményeket alkalmazhatja.
+
+(4) Az adatcserét érintő kérdések operatív koordinálását és kidolgozását végző adatcsere bizottság, valamint az adatcsere bizottság feladatainak és irányelveinek meghatározását végző adatcsere-ellenőrzési testület létrehozására és működésére vonatkozó szabályokat az e törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet tartalmazza.
+
 ### Központi adatgyűjtő és feldolgozó rendszer
 
 #### 19/B. §
@@ -361,7 +400,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (2) A földgáztároló engedélyesnek rendelkeznie kell továbbá saját méréssel, vagy a csatlakozó rendszerüzemeltető által biztosított hiteles méréssel, adatátviteli eszközökkel, saját szervezetén belül mindezek folyamatos üzemeltetését és felügyeletét ellátó, a karbantartást és az üzemzavar elhárítást irányító szervezetekkel, valamint műszaki irányító szolgálattal.
 
-(3) A földgáztároló engedélyesnek rendelkeznie kell az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel történő adatcserére alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a szállítási rendszerüzemeltető részére a napi gázforgalmazás megbízható helyzetére vonatkozó adatszolgáltatást.
+(3) A földgáztároló engedélyesnek rendelkeznie kell az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel történő adatkommunikációra alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a szállítási rendszerüzemeltető részére a napi gázforgalmazás megbízható helyzetére vonatkozó adatszolgáltatást.
 
 27. § A földgáztároló engedélyes a rendszerhasználó által szerződéses biztosítékként felajánlott mobil földgázkészlet értékesítését az üzletszabályzatban meghatározott módon, a Hivatal által jóváhagyott eljárás szerint végezheti. A felajánlott mobil földgázkészlet értékesítése nem minősül e törvény szerinti földgáz-kereskedelemnek.
 
@@ -446,7 +485,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 29/A. § A földgázkereskedő köteles a felhasználók ellátására vonatkozóan részletes tervet készíteni, amely igazolja, hogy a földgázkereskedő által a felhasználók részére szerződésben vállalt ellátási szint figyelembevételével megállapított gázévenkénti fogyasztásnak megfelelő források a földgázkereskedő számára rendelkezésre állnak (a továbbiakban: forrásterv). A forrástervnek tartalmaznia kell az felhasználók ellátásához szükséges forrásszerződések mennyiségi feltételeit, továbbá az engedélyben meghatározottak szerint legalább havi vagy annál gyakoribb bontásban a források finanszírozhatóságát igazoló adatokat. A forrástervet a Hivatal jogosult ellenőrizni.
 
-29/B. § (1) A földgázkereskedő a fizetési késedelem miatti földgázellátásból történő kikapcsolást a távhőszolgáltatásról szóló törvény szerinti olyan távhőtermelő engedélyessel szemben, amely lakossági felhasználókat vagy külön kezelt intézményeket is ellátó távhőszolgáltató számára értékesít távhőt, illetve távhőszolgáltató engedélyesként lakossági felhasználókat vagy külön kezelt intézményeket is ellát távhőszolgáltatással, kizárólag az alábbi feltételek együttes fennállása esetén kezdeményezheti a földgázelosztónál
+29/B. § (1) A földgázkereskedő a fizetési késedelem miatti földgázellátásból történő kikapcsolást a Tszt. szerinti olyan távhőtermelő engedélyessel szemben, amely lakossági felhasználókat vagy külön kezelt intézményeket is ellátó távhőszolgáltató számára értékesít távhőt, illetve távhőszolgáltató engedélyesként lakossági felhasználókat vagy külön kezelt intézményeket is ellát távhőszolgáltatással, kizárólag az alábbi feltételek együttes fennállása esetén kezdeményezheti a földgázelosztónál
 
 - a) a távhőtermelő fizetési kötelezettségével 90 napot meghaladó késedelembe esett,
 - b) a földgázkereskedő a tartozásról a távhőtermelő engedélyest legalább kétszer értesítette, és
@@ -570,7 +609,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (2) A kijelölés legfeljebb kormányrendeletben meghatározott időtartamra hatályos, azonban a kijelölés az időtartam lejártát megelőzően hatályát veszti, ha a kormányrendeletben meghatározott feltételek teljesülnek.
 
-(2a) Végső menedékes kijelöléséről szóló határozatát a Hivatal írásban és közhírré tétel útján közli.
+(2a) A földgázkereskedő engedélye felfüggesztéséről szóló határozatát és a végső menedékes kijelöléséről szóló határozatát a Hivatal írásban és közhírré tétel útján közli.
 
 (3) A végső menedékes kijelölését követően a Hivatal a korábbi földgázkereskedő engedélyét visszavonja a földgáz végső menedékes szolgáltatásról és a földgázkereskedő működésének lehetetlenülése esetén a felhasználók földgázellátását veszélyeztető helyzet fennállása következtében alkalmazandó eljárásról szóló kormányrendeletben szabályozott esetben.
 
@@ -629,7 +668,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 48/B. § A szervezett földgázpiacon kizárólag a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelete 7. cikk (2) bekezdése szerinti azonnali ügylet köthető.
 
-49. § Földgázellátási zavar és válsághelyzet esetén, legfeljebb annak időtartamára a Hivatal jogosult a szervezett földgázpiacon folyó kereskedést felfüggeszteni.
+49. § Vészhelyzeti szint elrendelése esetén, legfeljebb annak időtartamára a Hivatal jogosult a szervezett földgázpiacon folyó kereskedést felfüggeszteni.
 
 ### Vezetékes PB-gáz szolgáltatás
 
@@ -647,7 +686,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 53. § (1) Az egyablakos kapacitásértékesítő a működési engedélyében meghatározottak szerint jogosult az egyablakos kiszolgálású nemzetközi szállítóvezetéken kapacitást értékesíteni.
 
-(2) Az együttműködő földgázrendszerhez csatlakozó egyablakos kiszolgálású nemzetközi szállítóvezeték üzemeltetője köteles betartani a földgázellátási zavar vagy válsághelyzet kezelésére vonatkozó szabályokat és utasításokat.
+(2) Az együttműködő földgázrendszerhez csatlakozó egyablakos kiszolgálású nemzetközi szállítóvezeték üzemeltetője köteles betartani a földgázellátási válsághelyzet kezelésére vonatkozó szabályokat és utasításokat.
 
 54. § (1) Az egyablakos kiszolgálású nemzetközi szállítóvezeték Magyarország államhatárán belüli szakaszán az együttműködő földgázrendszerrel való kapcsolódási pontjainak technikai és szabad kapacitását a kapcsolódó rendszerüzemeltetővel közösen kell meghatározni.
 
@@ -676,7 +715,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 56. § (1) A Hivatal jelentős piaci erő eljárást folytat le, ha olyan körülmény jut a tudomására, amely arra utal, hogy a verseny valamely piacon azért nem kellően hatékony, mert az adott piacon egy vagy több piaci szereplő olyan piaci erőfölénnyel bír, vagy a piaci folyamatok alapján a jövőben olyan piaci erőfölénnyel bírhat, amely alkalmas a versenyt akadályozó, korlátozó vagy torzító magatartás kifejtésére.
 
-(2) A Hivatal a lefolytatott jelentős piaci erő eljárás alapján a jelentős piaci erővel rendelkező engedélyesre vagy az érintett piac valamennyi engedélyesére olyan indokolt és arányos mértékű kötelezettséget szab ki, amely előmozdítja a hatékony verseny kialakulását és fenntartását. Ilyen kötelezettség lehet különösen:
+(2) A Hivatal a lefolytatott jelentős piaci erő eljárás alapján a jelentős piaci erővel rendelkező engedélyesre vagy az érintett piac egészére tekintettel az általa azonosított piacműködtetőre olyan indokolt és arányos mértékű kötelezettséget szab ki, amely előmozdítja a hatékony verseny kialakulását és fenntartását. Ilyen kötelezettség lehet különösen:
 
 - a) nyilvános és átlátható módon történő értékesítésnek;
 - b) árkorlát alkalmazásának;
@@ -717,7 +756,7 @@ előírása.
 - a) Magyarország területén valósul meg, vagy
 - b) külföldön valósul meg, de hatása Magyarország területén érvényesülhet.
 
-(2) Az e fejezetben használt fogalmakat a 3. §, az 1227/2011/EU európai parlamenti és tanácsi rendelet, valamint az 1227/2011/EU európai parlamenti és tanácsi rendelet alapján kiadott általános hatályú közvetlenül alkalmazandó európai uniós jogi aktusok, európai uniós jogi rendelkezések és az Energiaszabályozók Együttműködési Ügynöksége (a továbbiakban: Ügynökség) által kiadott kötelező erejű rendelkezések szerint kell értelmezni.
+(2) Az e fejezetben használt fogalmakat a 3. §, az 1227/2011/EU európai parlamenti és tanácsi rendelet, valamint az 1227/2011/EU európai parlamenti és tanácsi rendelet alapján kiadott általános hatályú közvetlenül alkalmazandó európai uniós jogi aktusok, európai uniós jogi rendelkezések és a 2019/942/EU európai parlamenti és tanácsi rendelet alapján létrehozott Energiaszabályozók Európai Uniós Együttműködési Ügynöksége (a továbbiakban: ACER) által kiadott kötelező erejű rendelkezések szerint kell értelmezni.
 
 (3) Az e fejezet alapján lefolytatott eljárások nem érintik a XII. Fejezet szerinti eljárásokat.
 
@@ -1037,6 +1076,8 @@ földgázrendszerhez való hozzáférés
 
 (2) A rendszerhasználó a rendszerhasználati szerződés megkötését követően jogosult a betáplálási-kiadási pont vagy a földgáztároló lekötött kapacitásait, valamint az összekapcsolási pont technikai kapacitásait a rendszerhasználati szerződésben foglaltak szerint igénybe venni. A rendszerhasználó köteles a lekötött kapacitás után a Hivatal elnökének rendeletében meghatározott rendszerhasználati díjat megfizetni.
 
+(2a) A szállítási rendszerüzemeltetővel rendszerhasználati szerződést kötő rendszerhasználó az egyensúlyozási elszámolás tárgyában a szállítási rendszerüzemeltetővel szerződéses kapcsolatban álló elszámolóházzal szerződést köt.
+
 (3) Elosztóvezetékhez csatlakozó felhasználó részére az adott felhasználási helyen legfeljebb a felhasználási hely vásárolt kapacitásának mértékéig köthető le kapacitás. A szállítóvezetékhez csatlakozó felhasználó részére az érintett gázátadó állomáson mint kiadási ponton legfeljebb a felhasználási hely vásárolt kapacitásának mértékéig köthető le kapacitás.
 
 (4) Ha a felhasználási hely vásárolt kapacitását vagy annak egy részét a rendszerhasználó a megelőző két egymást követő gázévben a gázátadó állomáson mint kiadási ponton vagy a felhasználási helyen mint az elosztó rendszer kiadási pontján nem kötötte le, és nem áll rendelkezésre szabad kapacitás, akkor a vásárolt, de le nem kötött kapacitás igénybevételére legkorábban – rendszerüzemeltetővel kötött eltérő megállapodás hiányában – az igénybejelentéstől számított második gázév első gáznapjától kerülhet sor. A rendszerhasználó igénybejelentését az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint – az adott felhasználóra vonatkozóan – a kapcsolódó rendszerüzemeltető tartja nyilván. A kapcsolódó rendszerüzemeltető az igénybejelentést a szállítási rendszerüzemeltetővel egyezteti.
@@ -1122,11 +1163,11 @@ földgázrendszerhez való hozzáférés
 
 (6) Ha a rendszerhez való hozzáférés megtagadása vagy felfüggesztése jogszerűtlen volt, a Hivatal az e törvényben meghatározott jogkövetkezményeket alkalmazza, egyben kötelezi a rendszerüzemeltetőt a hozzáférés lehető legrövidebb időn belül történő biztosítására. A hozzáférést jogszabályban meghatározottak szerint vissza kell állítani abban az esetben is, ha a megtagadás vagy felfüggesztés feltételei már nem állnak fenn.
 
-77/A. § Ha a felhasználási helyen a távhőszolgáltatásról szóló törvény szerinti engedélyes működési engedélyét a Hivatal visszavonja, és a távhőszolgáltatásról szóló törvény szerinti új engedélyest jelöl ki, a rendszerüzemeltető – a felhasználási hely korábbi rendszerhasználati és földgáz-kereskedelmi szerződésében szabályozott jogviszonyból eredő kötelezettségek teljesülésétől függetlenül – a kijelölés napjától köteles biztosítani a hozzáférést a távhőszolgáltatásról szóló törvény szerinti kijelölt engedélyes vagy az őt ellátó földgázkereskedő részére.
+77/A. § Ha a felhasználási helyen a Tszt. szerinti engedélyes működési engedélyét a Hivatal visszavonja, és a Tszt. szerinti új engedélyest jelöl ki, a rendszerüzemeltető – a felhasználási hely korábbi rendszerhasználati és földgáz-kereskedelmi szerződésében szabályozott jogviszonyból eredő kötelezettségek teljesülésétől függetlenül – a kijelölés napjától köteles biztosítani a hozzáférést a Tszt. szerinti kijelölt engedélyes vagy az őt ellátó földgázkereskedő részére.
 
 78. § (1) A rendszerüzemeltető és a telephelyi szolgáltató a szükséges legkisebb felhasználói körben és a legkisebb időtartamban a földgázszállítást, a földgázelosztást, illetve a tárolást más műszaki megoldás hiányában szüneteltetheti a rendszer karbantartása, átalakítása, felújítása, fejlesztése, cseréje és új felhasználó bekapcsolása esetén. A szolgáltatás szüneteltetésének részletes szabályait külön jogszabály és az Üzemi és Kereskedelmi Szabályzat tartalmazza.
 
-(2) A szüneteltetés kezdő időpontját és előrelátható időtartamát, valamint a szükséges biztonsági intézkedéseket az üzletszabályzatban rögzített módon, de legalább 15 nappal – tervszerű megelőző karbantartás esetén legalább 3 hónappal – korábban a felhasználókkal és az érintett engedélyesekkel közölni kell. Az Üzemi és Kereskedelmi Szabályzat meghatározott felhasználói körben előzetes egyeztetési kötelezettséget írhat elő. A rendszerhasználókkal és a felhasználókkal történő előzetes egyeztetés szabályait az Üzemi és Kereskedelmi Szabályzat tartalmazza.
+(2) A szüneteltetés kezdő időpontját és előrelátható időtartamát, valamint a szükséges biztonsági intézkedéseket az üzletszabályzatban rögzített módon, de legalább 15 nappal – tervszerű megelőző karbantartás esetén legalább 3 hónappal, szállítási rendszerüzemeltető karbantartási, felújítási és fejlesztési feladatai esetén legalább 42 nappal – korábban a felhasználókkal és az érintett engedélyesekkel közölni kell. Az Üzemi és Kereskedelmi Szabályzat meghatározott felhasználói körben előzetes egyeztetési kötelezettséget írhat elő. A rendszerhasználókkal és a felhasználókkal történő előzetes egyeztetés szabályait az Üzemi és Kereskedelmi Szabályzat tartalmazza.
 
 (2a)
 
@@ -1164,25 +1205,25 @@ földgázrendszerhez való hozzáférés
 
 (6) A (2) bekezdésben előírt adatbázis elkészítéséhez és vezetéséhez a rendszerüzemeltetők és a földgázkereskedők a külön jogszabályban meghatározottak szerint a rendszerirányító részére adatot szolgáltatnak.
 
-82. § (1) A rendszerüzemeltető évente a saját szállító- és elosztóvezetékeire, valamint a tárolóira vonatkozóan – a 81. § (2)–(4) bekezdésében, valamint a 994/2010/EU európai parlamenti és tanácsi rendelet szerinti előírások figyelembevételével – kapacitás-felülvizsgálatot végez.
+82. § (1) A rendszerüzemeltető évente a saját szállító- és elosztóvezetékeire, valamint a tárolóira vonatkozóan – a 81. § (2)–(4) bekezdésében, valamint a 2017/1938/EU európai parlamenti és tanácsi rendelet szerinti előírások figyelembevételével – kapacitás-felülvizsgálatot végez.
 
 (2) A kapacitás-felülvizsgálat alapján a rendszerüzemeltető a szállítási rendszerirányító részére 10 éves fejlesztési javaslatot tesz.
 
-(3) A szállítási rendszerüzemeltető a (2) bekezdés szerinti fejlesztési javaslata kétirányú kapacitásbővítésre vonatkozó javaslatot vagy ez alóli mentességi kérelmet tartalmaz.
+(3) A szállítási rendszerüzemeltető a (2) bekezdés szerinti fejlesztési javaslata kétirányú kapacitás kialakítására, kapacitásbővítésre vonatkozó javaslatot vagy ez alóli mentességi kérelmet tartalmaz.
 
 (4) A rendszerüzemeltető a (2) bekezdés szerinti fejlesztési javaslatot évente köteles felülvizsgálni és szükség esetén kiegészíteni az elmúlt időszakra vonatkozó teljesülés és a jövőbeni teljesíthetőség mutatóival, valamint a várható igényekkel.
 
-(5) A szállítási rendszerirányító a többi rendszerüzemeltetővel együttműködve a szállítóvezetékek – beleértve a gázátadó állomásokat is –, az elosztóvezetékek, valamint a földgáztárolók kapacitás-felülvizsgálatának eredményeit és a fejlesztési javaslatokat összehangolja, az összehangolt javaslatot az engedélyesek és a felhasználói érdekvédelmi szervezetek képviselőivel véleményezteti, és a Hivatal részére elbírálásra és jóváhagyásra benyújtja. A fejlesztési javaslatban a szállítási rendszerirányító javaslatot tesz a kétirányú kapacitásbővítésre, vagy abban ez alóli mentesítésre vonatkozó kérelmet terjeszt elő. Véleményeltérés esetén a szállítási rendszerirányító az eltérő véleményeket is köteles benyújtani a Hivatalhoz. A Hivatal a vizsgálat során – szükség esetén – nyilvános egyeztetést tart a rendszerhasználókkal a fejlesztési javaslatról és annak eredményét jegyzőkönyvben rögzíti, illetve határkeresztező kapacitás beruházások esetén egyeztet az érintett ország hatóságaival a költségmegosztásról és a beruházás műszaki-gazdasági feltételrendszeréről.
+(5) A szállítási rendszerirányító a többi rendszerüzemeltetővel együttműködve a szállítóvezetékek – beleértve a gázátadó állomásokat is –, az elosztóvezetékek, valamint a földgáztárolók kapacitás-felülvizsgálatának eredményeit és a fejlesztési javaslatokat összehangolja, az összehangolt javaslatot honlapján nyilvános szakmai konzultációra bocsátja, és a Hivatal részére elbírálásra és jóváhagyásra benyújtja. A fejlesztési javaslatban a szállítási rendszerirányító javaslatot tesz a kétirányú kapacitásbővítésre, vagy abban ez alóli mentesítésre vonatkozó kérelmet terjeszt elő. Véleményeltérés esetén a szállítási rendszerirányító az eltérő véleményeket is köteles benyújtani a Hivatalhoz. A Hivatal a vizsgálat során – szükség esetén – nyilvános egyeztetést tart a rendszerhasználókkal a fejlesztési javaslatról és annak eredményét jegyzőkönyvben rögzíti, illetve határkeresztező kapacitás beruházások esetén egyeztet az érintett ország hatóságaival a költségmegosztásról és a beruházás műszaki-gazdasági feltételrendszeréről.
 
-83. § (1) A Hivatal rendszerfelügyeleti hatáskörében – szükség szerint szakértők bevonásával – ellenőrzi a szállítási rendszerirányító által beterjesztett kapacitás-felülvizsgálat eredményét, valamint az infrastruktúra-fejlesztési javaslatot és vizsgálja az előző fejlesztési tervvel meglévő összhangját. Ha az infrastruktúra-fejlesztési javaslat nem áll összhangban a hazai vagy a közösségi energiapolitikában meghatározott ellátásbiztonsági célokkal, vagy az hátrányosan érinti a nemzetgazdaságot, jogszabálysértő vagy akadályozza a hatásos versenyt, a Hivatal a Kormány tájékoztatása mellett, határidő tűzésével és az okok megjelölésével kötelezheti a szállítási rendszerirányítót a javaslat módosítására.
+83. § (1) A Hivatal rendszerfelügyeleti hatáskörében – szükség szerint szakértők bevonásával – ellenőrzi a szállítási rendszerirányító által beterjesztett kapacitásfelülvizsgálat eredményét, továbbá a 10 éves fejlesztési javaslatot, amelynek keretében vizsgálja az előző 10 éves fejlesztési tervvel, valamint a 2017/1938/EU európai parlamenti és tanácsi rendelettel, különösen annak 5. cikk (1) bekezdésében foglaltakkal való összhangját. Ha a 10 éves fejlesztési javaslat nem áll összhangban a hazai vagy a közösségi energiapolitikában meghatározott ellátásbiztonsági célokkal, vagy az hátrányosan érinti a nemzetgazdaságot, jogszabálysértő vagy akadályozza a hatékony versenyt, a Hivatal a Kormány tájékoztatása mellett, határidő tűzésével és az okok megjelölésével kötelezi a szállítási rendszerirányítót a javaslat módosítására.
 
-(2) Az ellenőrzés során a Hivatal vizsgálja a fejlesztési javaslat összhangját a 715/2009/EK európai parlamenti és tanácsi rendelet szerinti közösségi szintű 10 éves hálózatfejlesztési tervvel. Ha kétség merül fel az összhang meglétével kapcsolatban, a Hivatal köteles egyeztetni az Energiaszabályozók Együttműködési Ügynökség létrehozásáról szóló, 2009. július 13-i 713/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 713/2009/EK rendelet) 1. cikkével létrehozott Ügynökséggel. Ha a hálózatfejlesztési terv nem áll összhangban a közösségi szintű tízéves hálózatfejlesztési tervvel, jogszabálysértő vagy akadályozza a hatékony versenyt, a Hivatal határidő tűzésével és az okok megjelölésével kötelezheti a szállítási rendszerirányítót a terv módosítására. Ha a Hivatal a szállítási rendszerirányítót a kétirányú kapacitásbővítésre vonatkozóan a terv módosítására kötelezi, a szállítási rendszerirányító felszólítására a szállítási rendszerüzemeltető köteles a kétirányú kapacitásbővítésre vonatkozó javaslatát vagy mentesség iránti kérelmét átdolgozni.
+(2) Az ellenőrzés során a Hivatal vizsgálja a 10 éves fejlesztési javaslat összhangját a 715/2009/EK európai parlamenti és tanácsi rendelet szerinti közösségi szintű 10 éves hálózatfejlesztési tervvel. Ha kétség merül fel az összhang meglétével kapcsolatban, a Hivatal köteles egyeztetni az ACER-rel. Ha a 10 éves fejlesztési javaslat nem áll összhangban a közösségi szintű 10 éves hálózatfejlesztési tervvel, jogszabálysértő vagy akadályozza a hatékony versenyt, a Hivatal határidő tűzésével és az okok megjelölésével kötelezheti a szállítási rendszerirányítót a terv módosítására. Ha a Hivatal a szállítási rendszerirányítót a kétirányú kapacitásbővítésre vonatkozóan a terv módosítására kötelezi, a szállítási rendszerirányító felszólítására a szállítási rendszerüzemeltető köteles a kétirányú kapacitásbővítésre vonatkozó javaslatát vagy mentesség iránti kérelmét átdolgozni.
 
-(3) A Hivatal a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti szempontrendszer alapján jóváhagyja a 10 éves fejlesztési tervet és rögzíti az elfogadásának feltételeit. A Hivatal határozatának tartalmaznia kell az egyes beruházásokra vonatkozó műszaki tartalmat, a határidőket, az országok között várhatóan létrejövő költségmegosztást, a Hivatal által indítványozott módosításokat, az egyes beruházásoknak, valamint azok összességének a hazai ellátásbiztonságra gyakorolt hatását. A Hivatal határozatának tartalmaznia kell továbbá a következő három évben megvalósításra javasolt beruházásokat, valamint az előző fejlesztési tervben jóváhagyott beruházások esetleges módosításait.
+(3) A Hivatal a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti szempontrendszer alapján jóváhagyja a 10 éves fejlesztési tervet és rögzíti az elfogadásának feltételeit. A Hivatal határozatának tartalmaznia kell az egyes beruházásokra vonatkozó műszaki tartalmat, a határidőket, az országok között várhatóan létrejövő költségmegosztást, a Hivatal által indítványozott módosításokat, az egyes beruházásoknak, valamint azok összességének a hazai ellátásbiztonságra gyakorolt hatását. A Hivatal határozatának tartalmaznia kell továbbá a következő három évben megvalósításra javasolt beruházásokat, valamint az előző 10 éves fejlesztési tervben jóváhagyott beruházások esetleges módosításait.
 
-(3a) A Hivatal a kétirányú kapacitásbővítésre vonatkozó javaslatot, vagy a kétirányú kapacitásbővítés alóli mentesítésre vonatkozó kérelmet véleménynyilvánítás céljából haladéktalanul megküldi az Európai Bizottságnak és az érintett tagállamoknak. A véleményezési határidő lejártát követően a Hivatal 2 hónapon belül dönt.
+(3a)
 
-(3b) A Hivatal a (3a) bekezdés szerinti határozat-tervezetet – az eljárás egyidejű felfüggesztése mellett – a döntésre vonatkozó összes információval együtt, a 994/2010/EU európai parlamenti és tanácsi rendelet 7. cikk (4) és (5) bekezdésében meghatározott eljárás lefolytatása céljából haladéktalanul megküldi az Európai Bizottságnak. Az Európai Bizottság eljárását követően a Hivatal az eljárás felfüggesztését megszünteti, és a határozatot a kérelmezővel közli.
+(3b)
 
 (4) A rendszerüzemeltető az adott beruházások megvalósításának megkezdését megelőzően köteles a működési engedélye módosítását kérni. A rendszerüzemeltető csak a jóváhagyott 10 éves fejlesztési tervben szereplő fejlesztéseket kérelmezheti. A beruházás csak a jóváhagyott engedélymódosítás birtokában kezdhető meg.
 
@@ -1207,7 +1248,7 @@ földgázrendszerhez való hozzáférés
 
 84. § (1) A felhasználó földgázellátás iránti igényének kielégítése érdekében a Hivatal előzetes hozzájárulásával célvezeték létesíthető. A Hivatal a célvezeték létesítéséhez előzetes hozzájárulást adhat, ha nincs szabad vásárolható kapacitás az együttműködő földgázrendszeren, és a felhasználó eleget tesz a külön jogszabályban előírt feltételeknek, valamint a célvezeték létesítése és üzemben tartása rendszerszinten gazdaságosabb megoldást jelent, mint a szállító- vagy az elosztóvezetékek fejlesztése.
 
-(2) Az együttműködő földgázrendszerhez csatlakozó célvezeték üzemeltetője köteles betartani az együttműködő földgázrendszer földgázellátási zavara vagy válsághelyzet esetén az ezen események kezelésére és megszüntetésére vonatkozó szabályokat és utasításokat.
+(2) Az együttműködő földgázrendszerhez csatlakozó célvezeték üzemeltetője földgázellátási válsághelyzet esetén köteles betartani az ezen események kezelésére és megszüntetésére vonatkozó szabályokat és utasításokat.
 
 (3) A célvezeték üzemeltetőjének a célvezetékhez kapcsolódó szállító- vagy elosztóvezetékre vonatkozóan együttműködési szabályokat kell kialakítania.
 
@@ -1254,6 +1295,16 @@ földgázrendszerhez való hozzáférés
 (2) Az együttműködő földgázrendszer egyensúlyának biztosítása érdekében a rendszerüzemeltetők kötelesek egymással és a rendszerhasználókkal folyamatosan együttműködni. Az együttműködés részletes szabályait az e törvény végrehajtására kiadott jogszabály határozza meg.
 
 (3) A földgáz szagosítására vonatkozó rendelkezéseket külön jogszabály tartalmazza.
+
+(4) Üzemzavar esetén a rendszerüzemeltető a hiba megszüntetése iránt haladéktalanul intézkedik, ennek érdekében jogosult a szükséges intézkedéseket és az üzemzavar elhárításához szükséges cselekményeket külön engedély nélkül megtenni.
+
+(5) Az üzemzavarról a rendszerüzemeltető a felhasználók ellátásában résztvevő rendszerhasználókat – az üzletszabályzatban meghatározott módon – haladéktalanul értesíti és folyamatosan tájékoztatja. A rendszerhasználónak nem minősülő felhasználót az ellátását biztosító rendszerhasználó tájékoztatja az üzletszabályzatában meghatározott módon.
+
+(6) Ha a csatlakozóvezetéken a szállítási rendszerüzemeltető vagy a földgázelosztó üzemzavart észlel, vagy az egyéb módon tudomására jut, haladéktalanul értesíti a felhasználót és gondoskodik az üzemzavar elhárításáról. Ennek keretében jogosult a gázellátást mindaddig szüneteltetni, amíg az üzemzavar fennáll. A gázmentesítési és gáz alá helyezési munkákat csak a szállítási rendszerüzemeltető, a földgázelosztó vagy megbízottja végezheti el.
+
+(7) Az üzemzavar elhárítását követően a rendszerüzemeltető az érintett rendszerelem működését a lehető legrövidebb időn belül helyreállítja.
+
+(8) A rendszerüzemeltető az üzemzavar haladéktalan elhárítására alkalmas készenléti szolgálatot biztosít.
 
 87. § (1) A rendszerüzemeltetőnek olyan adatforgalmi és informatikai rendszerrel kell rendelkeznie, amely közvetlen kapcsolaton alapuló információközvetítő eszköz útján, megfelelő időben biztosítja az együttműködő földgázrendszer egyensúlyáért felelős engedélyesek részére az együttműködő földgázrendszer irányításához szükséges megbízható adatokat.
 
@@ -1307,7 +1358,7 @@ földgázrendszerhez való hozzáférés
 
 90. § Az idegen ingatlan tulajdon- és használati jogának korlátozására, valamint az ezért járó kártalanításra, továbbá a szállító-, elosztó- és célvezetékek, illetve tárolók biztonsági övezetére a Bt. rendelkezéseit kell megfelelően alkalmazni.
 
-### VII. Fejezet — RENDSZEREGYENSÚLY, FÖLDGÁZELLÁTÁSI ZAVAR, VÁLSÁGHELYZET, KORLÁTOZÁS
+### VII. Fejezet — RENDSZEREGYENSÚLY, ELLÁTÁSI ELŐÍRÁSOK, FÖLDGÁZELLÁTÁSI VÁLSÁGHELYZET, KORLÁTOZÁS
 
 ### Egyensúlytartás
 
@@ -1344,7 +1395,7 @@ földgázrendszerhez való hozzáférés
 
 ha megfelel a kereskedési platform szabályzatában meghatározott követelményeknek.
 
-(4) Az adatforgalmi és informatikai rendszert az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint úgy kell kialakítani, hogy adatcserére alkalmas legyen a rendszerüzemeltetők informatikai rendszereivel. A működés feltételeit, valamint az adásvételi ügyletben résztvevők jogait és kötelezettségeit az e törvény végrehajtásáról szóló kormányrendelet, az Üzemi és Kereskedelmi Szabályzat, valamint a kereskedési platform szabályzata tartalmazza. A kereskedési platformot működtető köteles az üzleti titoknak minősülő információk bizalmas kezelését biztosítani. A kereskedési platformi tevékenységnek a piaci szereplők számára átláthatónak és diszkriminációmentesnek kell lennie, továbbá elő kell segítenie a napi egyensúlyozási feladatok hatékony végrehajtását.
+(4) Az adatforgalmi és informatikai rendszert az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint úgy kell kialakítani, hogy adatkommunikációra alkalmas legyen a rendszerüzemeltetők informatikai rendszereivel. A működés feltételeit, valamint az adásvételi ügyletben résztvevők jogait és kötelezettségeit az e törvény végrehajtásáról szóló kormányrendelet, az Üzemi és Kereskedelmi Szabályzat, valamint a kereskedési platform szabályzata tartalmazza. A kereskedési platformot működtető köteles az üzleti titoknak minősülő információk bizalmas kezelését biztosítani. A kereskedési platformi tevékenységnek a piaci szereplők számára átláthatónak és diszkriminációmentesnek kell lennie, továbbá elő kell segítenie a napi egyensúlyozási feladatok hatékony végrehajtását.
 
 (5) A kereskedési platformhoz történő hozzáférésre és az ügyletek lebonyolítására az erre jogosult piaci szereplő a szállítási rendszerüzemeltetővel, az ügyletek pénzügyi elszámolására központi szerződő féllel vagy elszámolóházi tevékenységet végző szervezettel szerződést köt. A piaci szereplők közötti adásvétel a központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet közbeiktatásával, az eladó és a vevő közötti anonimitás elve alapján, szabványosított ügyletek formájában történik.
 
@@ -1352,7 +1403,7 @@ ha megfelel a kereskedési platform szabályzatában meghatározott követelmén
 
 (7) A kereskedési platformot működtető köteles a napi gázforgalmazásra, azon belül az egyensúlyozásra vonatkozó európai uniós előírások változása esetén megfelelően módosítani a kereskedési platform informatikai, működési feltételeit és szabályzatát.
 
-(8) Földgázellátási üzemzavar és válsághelyzet esetén a szállítási rendszerüzemeltető javaslatot tesz a Hivatalnak a kereskedési platformon, valamint a szervezett piacon történő kereskedés felfüggesztésére.
+(8) Vészhelyzeti szint elrendelése esetén a szállítási rendszerüzemeltető javaslatot tesz a Hivatalnak a kereskedési platformon, valamint a szervezett piacon történő kereskedés felfüggesztésére.
 
 (9) A kereskedési platformot működtető köteles biztosítani a rendszerhasználók számára a kereskedelmi egyensúlytalanságuk feloldására irányuló, a gáznap előtt a gáznapra vonatkozó és a gáznapon belüli földgáz kereskedelemnek a lehetőségét a 312/2014/EU bizottsági rendelet és a kereskedési platform szabályzata szerint.
 
@@ -1373,7 +1424,7 @@ ha megfelel a kereskedési platform szabályzatában meghatározott követelmén
 - a) a rendszeregyensúly megtervezése,
 - b) a hidraulikai egyensúly biztosítása érdekében, a napi operatív beavatkozások végrehajtása, valamint a felhasznált egyensúlyozó földgáz mennyiségi elszámolása és az egyensúlyozási pótdíjak meghatározása,
 - c) a szállítóvezetékek forrás és felhasználói oldali kapcsolatainak irányítása és koordinálása,
-- d) földgázellátási válsághelyzet esetén a Kormány és a miniszter által elrendelt fogyasztást érintő intézkedések végrehajtása,
+- d) földgázellátási válsághelyzet esetén a Kormány és a miniszter által elrendelt intézkedések végrehajtása,
 - e) a 312/2014/EU bizottsági rendelet előírásai szerinti adatszolgáltatás a rendszerhasználók részére.
 
 (2)
@@ -1381,7 +1432,7 @@ ha megfelel a kereskedési platform szabályzatában meghatározott követelmén
 94. § (1) A földgázelosztó és a földgáztárolói engedélyes egyensúlyozási feladatai a következők:
 
 - a) az operatív beavatkozások saját rendszerükön történő végrehajtása, valamint a Hivatal elnökének rendeletében meghatározott időpontokban adatszolgáltatás a szállítási rendszerüzemeltető számára a rendszerhasználók tényleges egyensúlyi pozícióinak meghatározásához rendszerhasználókra összesítetten a gázátadó állomásonkénti bontásban, valamint a földgáztároló betáplálási és kiadási pontjára vonatkozóan,
-- b) földgázellátási válsághelyzet esetén a szállítási rendszerirányító által elrendelt, fogyasztást érintő intézkedések végrehajtása,
+- b) földgázellátási válsághelyzet esetén a szállítási rendszerirányító által elrendelt intézkedések végrehajtása,
 - c) a 312/2014/EU bizottsági rendelet előírásai szerinti adatszolgáltatás az egyes rendszerhasználók és szállítási rendszerüzemeltető részére,
 - d) a csatlakozó rendszerüzemeltetők tájékoztatása az egyensúlyt befolyásoló körülményekről.
 
@@ -1389,120 +1440,96 @@ ha megfelel a kereskedési platform szabályzatában meghatározott követelmén
 
 95. § Az egyensúlytartás részletes szabályait, különösen a nominálást, újranominálást, az együttműködést, az adatszolgáltatást, az egyensúlyozás eszközeit, az operatív beavatkozással kapcsolatos szabályokat, a mérést, az elszámolást, valamint az egyensúlytartással kapcsolatos jogokat és kötelezettségeket külön jogszabály és az Üzemi és Kereskedelmi Szabályzat határozza meg.
 
-### Földgázellátási vészhelyzet, korlátozás
+### Ellátási előírások
 
-95/A. § A 994/2010/EU európai parlamenti és tanácsi rendelet 10. cikk (3) bekezdés c) pontja szerinti vészhelyzet három fokozatba sorolható:
+95/A. § (1) A Hivatal minden év március 1-jéig honlapján közzéteszi a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés a)–c) pontjában meghatározott esetekhez tartozóan a védett felhasználók és a szolidaritási alapon védett felhasználók földgázfelhasználását.
 
-- a) földgázellátási zavar,
-- b) földgázellátási válsághelyzet I. fokozata,
-- c) földgázellátási válsághelyzet II. fokozata.
+(2) A védett felhasználói kör azonosítása érdekében a védett felhasználóval kapcsolatban álló földgázelosztó vagy szállítási rendszerüzemeltető nyilvántartási kötelezettségét a Kormány rendeletben határozza meg.
 
-96. § (1) Földgázellátási zavarnak minősül minden olyan, a 97. §-ban meghatározott földgázellátási válsághelyzetet el nem érő mértékű, jellemzően területi (regionális) zavar, amely az elosztó- és szállító hálózat, valamint a földgáztároló üzembiztonságát, szabályozhatóságát vagy együttműködő képességét súlyosan veszélyezteti, és amely következtében az együttműködő földgázrendszer egyensúlya csak egyes felhasználók földgázvételezésének korlátozásával biztosítható.
+(3) A (2) bekezdés szerint nyilvántartott adatokat a földgázelosztó vagy a szállítási rendszerüzemeltető a védett felhasználót ellátó földgázkereskedő, valamint a saját jogon eljáró védett felhasználó rendelkezésére bocsátja.
 
-(1a) A szállítóvezetéken bekövetkező földgázellátási zavar eredményeképpen az elosztóvezetéken keletező üzemzavar a földgázelosztó működési körén kívül eső földgázellátási zavarnak minősül. Ezen földgázellátási zavar megszüntetése érdekében a szállítási rendszerüzemeltető és a földgázelosztó köteles együttműködni.
+### Földgázellátási válsághelyzet, korlátozás
 
-(2) A földgázellátási zavarra vonatkozó rendelkezések szerint kell eljárni a földgázellátási válsághelyzet kihirdetéséig minden olyan esemény esetén, amely legalább az (1) bekezdés szerinti feltételeknek megfelel.
+96. § (1) A 2017/1938/EU európai parlamenti és tanácsi rendelet előírásai tekintetében a hatáskörrel rendelkező hatóságként – a (2) bekezdés szerinti kivétellel – a miniszter jár el.
 
-(3) Földgázellátási zavar esetén a rendszerhasználók az általuk megkötött szerződésekben foglalt jogoktól és kötelezettségektől függetlenül kötelesek a szállítási rendszerüzemeltető, valamint a földgázelosztó utasításait végrehajtani, és az ezáltal keletkező kárt – a (7) bekezdés szerinti kivétellel – viselni.
+(2) A 2017/1938/EU európai parlamenti és tanácsi rendelet 5. cikk (4)–(7) bekezdése, 14. cikk (6)–(8) bekezdése, továbbá III. melléklete szerinti, a kétirányú kapacitás kialakítására, bővítésére vonatkozó javaslat vagy a mentességre vonatkozó kérelem elbírálása tekintetében hatáskörrel rendelkező hatóságként a Hivatal jár el.
 
-(4) A szállítási rendszerirányító a földgázellátási zavar miatt szükség esetén elrendelheti a felhasználók földgázvételezésének indokolt mértékű korlátozását. A korlátozás a Hivatal által jóváhagyott korlátozási sorrendben és mértékben, a szükséges legkisebb felhasználói körben rendelhető el. A korlátozást a felhasználók kötelesek a szállítási rendszerirányító utasításának megfelelően végrehajtani.
+(3) A Hivatal részt vesz a 2017/1938/EU európai parlamenti és tanácsi rendelet által meghatározott kockázati csoportok munkájában, beleértve a regionális szinten kidolgozandó anyagok elkészítésében történő közreműködést, elvégzi az ehhez szükséges adatszolgáltatási feladatokat, valamint javaslatot tesz az (1) bekezdés szerinti esetekben a miniszter számára.
 
-(5) Amennyiben a felhasználó (4) bekezdés szerinti kötelezettségének nem tesz eleget, a szállítási rendszerüzemeltető vagy a földgázelosztó, amelynek az üzemeltetésében lévő hálózathoz a felhasználó csatlakozik, jogosult és köteles a korlátozás időtartamára a felhasználót a földgázellátásból műszakilag kizárni.
+97. § (1) A korai előrejelzési szint és a riasztási szint elrendeléséről vagy megszűnéséről a Hivatal elnöke – a miniszter egyidejű tájékoztatása mellett – határozatban dönt.
 
-(6) Amennyiben a korlátozás alá vont felhasználó földgázt vételez a korlátozott mennyiségek terhére, köteles az így vételezett földgáz-mennyiségnek megfelelő, a legutolsó nem korlátozott gáznapon vételre felajánlott egyensúlyozó gáz legmagasabb árának az ötvenszeres értékében meghatározott pótdíjat a szállítási rendszerüzemeltetőnek megfizetni.
+(2) A vészhelyzeti szint elrendeléséről vagy megszűnéséről a miniszter határozatban dönt.
 
-(6a) A (6) bekezdés szerint befolyt pótdíjból a szállítási rendszerirányítónak nem képződhet nyeresége.
+(3) Ha bármely földgázipari vállalkozás tudomására jut olyan információ, amely megalapozhatja földgázellátási válsághelyzet bármely szintjének elrendelését, köteles azt a Hivatalnak haladéktalanul bejelenteni.
 
-(7) A szállítási rendszerirányító minden földgázellátási zavarból fakadó korlátozásról haladéktalanul, annak okairól legkésőbb a korlátozás feloldását követő 8 napon belül köteles a Hivatalt elektronikus úton tájékoztatni. A Hivatal minden elrendelt korlátozás esetében kivizsgálja, hogy a korlátozást a szállítási rendszerirányító indokoltan rendelte-e el. Ha a Hivatal megállapítja, hogy a szállítási rendszerirányító a korlátozást neki felróható okból indokolatlanul rendelte el, bírságot szabhat ki. A szállítási rendszerirányító köteles az indokolatlanul elrendelt korlátozás következtében a felhasználókat ért kárt megtéríteni.
+(4) A földgázipari vállalkozás földgázellátási válsághelyzet bármely szintje esetén köteles a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott, a földgázellátási válsághelyzettel összefüggő adatokat a Hivatal részére megküldeni.
 
-(8) Műszaki üzemzavar esetén a rendszerüzemeltető köteles a hiba megszüntetése iránt haladéktalanul intézkedni, ennek érdekében jogosult a szükséges intézkedéseket és az üzemzavar elhárításához szükséges cselekményeket külön engedély nélkül megtenni.
+98. § (1) A 2017/1938 európai parlamenti és tanácsi rendelet 13. cikk (1) bekezdése szerinti szolidaritási intézkedés (a továbbiakban: szolidaritási intézkedés) igénybevétele esetén, a kisegítés keretében kapott földgáz kizárólag a szolidaritási alapon védett felhasználók földgázellátása érdekében használható fel.
 
-(9) A földgázellátási zavarról vagy a műszaki üzemzavarról a rendszerüzemeltető köteles a felhasználók ellátásában részt vevő rendszerhasználókat – az üzletszabályzatban meghatározott módon – haladéktalanul értesíteni és folyamatosan tájékoztatni. A rendszerhasználónak nem minősülő felhasználót az ellátását biztosító rendszerhasználó tájékoztatja az üzletszabályzatban meghatározott módon.
+(2) Legalább riasztási szintet kell elrendelni, ha egy másik tagállam a szolidaritási alapon védett felhasználóinak földgázellátása érdekében szolidaritási intézkedés alkalmazását kéri.
 
-(10) Ha a csatlakozóvezetéken és a felhasználói berendezésen a szállítási rendszerüzemeltető vagy a földgázelosztó veszélyhelyzetet észlel, vagy az egyéb módon tudomására jut, azonnal köteles annak elhárításáról gondoskodni. Ennek keretében jogosult a gázellátást mindaddig szüneteltetni, amíg a veszélyhelyzet fennáll. A gázmentesítési és gáz alá helyezési munkákat csak a szállítási rendszerüzemeltető, a földgázelosztó vagy megbízottja végezheti el.
+(3) Ha szolidaritás kérésére kerül sor és a piaci alapú intézkedések nem vezetnek eredményre, a szolidaritást kérő tagállam szolidaritási alapon védett felhasználóinak ellátását – jogszabályban meghatározott módon – elsősorban az Fbkt. szerinti földgáz biztonsági készlet biztosítja.
 
-(11) A műszaki üzemzavar elhárítását követően a rendszerüzemeltető köteles a szállítást, az elosztást és a tárolást a lehető legrövidebb időn belül helyreállítani.
+(4) Ha a szolidaritási intézkedés miatt korlátozásra van szükség, a korlátozással érintett felhasználókat a korlátozás mértékével arányos kártalanítás illeti meg. A szolidaritási intézkedés végrehajtásának részletes szabályait a Kormány rendeletben határozza meg.
 
-(12) A rendszerüzemeltető a műszaki üzemzavar haladéktalan elhárítására alkalmas készenléti szolgálatot köteles biztosítani.
+98/A. § (1) A szállítási rendszerirányító a vészhelyzeti szint kihirdetése esetén elrendelheti a felhasználók földgázvételezésének indokolt mértékű korlátozását.
 
-97. § (1) Földgázellátási válsághelyzetnek minősül az az esemény, amely a személyeket, vagyontárgyaikat, a természetet, a környezetet vagy a felhasználók jelentős részének ellátását veszélyezteti. Földgázellátási válsághelyzetet a következő események válthatnak ki:
+(2) A korlátozás végrehajthatósága érdekében a felhasználókat korlátozási kategóriákba kell sorolni. A korlátozás a Hivatal által jóváhagyott korlátozási sorrendben és mértékben, a szükséges legkisebb felhasználói körben és mértékben rendelhető el.
 
-- a) a földgázellátás és földgázfelhasználás egyensúlya oly mértékben felbomlik, hogy azt a szokásos egyensúlytartási eszközökkel már nem lehet helyreállítani,
-- b) a földgáz-felhasználási igények meghaladják a beszerzés lehetőségeit, illetve
-- c) ezek közvetlen veszélye fenyeget.
+(3) Ha a felhasználó az (1) bekezdés szerinti korlátozásnak nem tesz eleget, a rendszerüzemeltető a korlátozás időtartamára a felhasználót a földgázellátásból műszakilag kizárja.
 
-(2) A földgázellátási válsághelyzet
+(4) Ha a korlátozás alá vont felhasználó földgázt vételez a korlátozott mennyiségek terhére, köteles az így vételezett földgázmennyiségnek megfelelő, a korlátozást megelőző 5 gáznapon a kereskedési platformokon megkötött ügyletek legmagasabb árának az ötvenszeres értékében meghatározott pótdíjat a szállítási rendszerirányítónak megfizetni. A felülvételezett mennyiséget az érintett rendszerüzemeltető állapítja meg.
 
-- a) I. fokozata állapítható meg az (1) bekezdés c) pontja esetén;
-- b) II. fokozata állapítható meg az (1) bekezdés a) és b) pontja szerinti események bekövetkezése esetén, ha a felhasználók földgázzal történő ellátása – az adott időszakra vonatkozó átlagos fogyasztás mellett – nem tartható fenn, vagy fenntartható, de rövidebb ideig, mint amelyre a felhasználónak szüksége lenne.
+(5) A (4) bekezdés szerint befolyt pótdíjat a Hivatal a rendszerhasználati díjak megállapítása során figyelembe veszi.
 
-(3) A földgázellátási válsághelyzet fennállásáról és fokozatáról – a Hivatalnak a fokozatba sorolásra vonatkozó javaslatot is tartalmazó kezdeményezésére –, valamint a válsághelyzet megszűnéséről a miniszter – határozatban dönt.
+(6) Vészhelyzeti szint kihirdetése esetén a rendszerhasználók az általuk megkötött szerződésekben foglalt jogoktól és kötelezettségektől függetlenül kötelesek a szállítási rendszerüzemeltető, valamint a földgázelosztó korlátozás végrehajtása érdekében elrendelt utasításait végrehajtani. Az ebből keletkező kárt a rendszerhasználó köteles viselni, kivéve
 
-(4)–(5)
+- a) a 98. § (4) bekezdés szerinti esetben, vagy
+- b) ha a rendszerüzemeltető a korlátozást neki felróható okból indokolatlanul adta ki.
 
-97/A. § (1) Földgázellátási válsághelyzet bármely fokozata esetén – annak fennállásáig – a Kormány rendeletben szabályozhatja
+(7) A szállítási rendszerirányító köteles a Hivatalt
+
+- a) minden elrendelt korlátozásról haladéktalanul,
+- b) a korlátozás okairól legkésőbb a korlátozás feloldását követő 8 napon belül
+
+írásban tájékoztatni.
+
+(8) A Hivatal minden elrendelt korlátozás esetében kivizsgálja, hogy a korlátozást a szállítási rendszerirányító a vészhelyzeti intézkedési tervvel összhangban, indokoltan rendelte-e el. Ha a Hivatal megállapítja, hogy a szállítási rendszerirányító a korlátozást neki felróható okból indokolatlanul rendelte el, a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott mértékű bírságot szab ki. A szállítási rendszerirányító köteles az indokolatlanul elrendelt korlátozás következtében a felhasználókat ért kárt megtéríteni.
+
+(9) Vészhelyzeti szint esetén a nem piaci intézkedések végrehajtásából származó károkért az engedélyeseket kártalanítási kötelezettség nem terheli.
+
+(10) A korlátozásra vonatkozó részletes szabályokat, a korlátozási kategóriákat, a besorolás szabályait, valamint a korlátozható felhasználókra vonatkozó jogokat és kötelezettségeket a Kormány rendeletben határozza meg.
+
+98/B. § (1) Vészhelyzeti szint esetén a szállítási rendszerirányító elrendelheti a földgáznak Magyarország területén az együttműködő földgázrendszeren keresztül történő átszállítására vonatkozó szerződések szerinti földgázmennyiség arányos csökkentését, ha az ezen szerződések szerinti beszállító a belföldi felhasználók ellátására vonatkozó szerződéseiből fakadó kötelezettségeit nem teljesíti, vagy ha az átszállítandó mennyiséget a rendszerhasználó nem, vagy csak részben táplálja be a rendszerbe. A csökkentést a kieső forrás mértékéig kell végrehajtani.
+
+(2) Ha a szállítási rendszerirányító rendelkezésére álló információk alapján nem állapítható meg egyértelműen, hogy melyik beszállító nem teljesíti szerződéses kötelezettségeit, a szállítási rendszerirányító az átszállításra kerülő valamennyi szerződés szerinti földgázmennyiséget arányosan csökkenti.
+
+(3) Az átszállítások arányos csökkentését a szállítási rendszerirányító a Hivatalnak haladéktalanul bejelenti.
+
+(4) Az átszállításra kerülő földgázmennyiségek csökkentésének részletes szabályait az Üzemi és Kereskedelmi Szabályzat határozza meg.
+
+98/C. § (1) Vészhelyzeti szint esetén a földgázkereskedő, valamint a saját jogon eljáró felhasználó – az Üzemi és Kereskedelmi Szabályzatban meghatározott eljárás- és elszámolási rend szerint – köteles a rendelkezésére álló földgázmennyiséget a szállítási rendszerirányító részére felajánlani.
+
+(2) A szállítási rendszerirányító az (1) bekezdés szerint rendelkezésére álló földgázmennyiségekkel történő gazdálkodás során köteles a napi rendszeregyensúlyozás szempontjai mellett a földgázellátás közép- és hosszú távú fenntarthatóságának szempontjait is figyelembe venni.
+
+(3) Vészhelyzeti szint esetén a kereskedési platformon a platformüzemeltető a szállítási rendszerüzemeltető kivételével a rendszerhasználók vételi ajánlat beadási jogosultságát felfüggeszti.
+
+98/D. § (1) Vészhelyzeti szint esetén – annak fennállásáig – a Kormány rendeletben szabályozhatja
 
 - a) a munkanapok és munkaszüneti napok, valamint az azokkal összefüggő munkavégzés rendjét,
 - b) az ügyfélforgalom előtt nyitva álló magánhelyiségek vagy közintézmények (különösen üzletek, ügyfélszolgálatok) nyitvatartási idejét,
 - c) az ügyfélforgalom előtt nyitva álló magánhelyiségek vagy közintézmények (különösen üzletek, ügyfélszolgálatok), továbbá irodaházak, valamint a költségvetési fenntartású intézmények legmagasabb felfűtési hőmérsékletét,
-- d) a földgázfelhasználás mérséklését szolgáló egyéb intézkedést,
-- e) a Magyarország területén termelt vagy készletezett földgáznak a Magyarország területén kívülre történő kiszállítására vonatkozó szerződéskötés feltételeit, a Magyarország területén történő átszállítás kivételével.
+- d) a földgázfelhasználás mérséklését szolgáló egyéb intézkedéseket,
+- e) a Magyarország területén termelt vagy tárolt földgáznak a Magyarország területén kívülre történő kiszállításának feltételeit, ide nem értve az átszállítás, a bértárolás, valamint a külföldi illetőségű személy által nem belföldi felhasználás céljából földgázellátási válsághelyzet esetére Magyarország területén tároltatott földgáz kiszállításának esetét.
 
-(2)
-
-(3) Földgázellátási válsághelyzet esetén
-
-- a) a biztonsági földgázkészletet az Fbkt. és külön jogszabály rendelkezéseivel összhangban,
-- b) a biztonsági kőolaj- és kőolajtermék készletből földgázt-helyettesítő tüzelő- és fűtőolajat a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló törvény rendelkezéseivel összhangban
-
-lehet igénybe venni.
-
-(4) Földgázellátási válsághelyzet esetén a szállítási rendszerirányító elrendelheti a földgáznak Magyarország területén az együttműködő földgázrendszeren keresztül történő átszállítására vonatkozó szerződések szerinti földgázmennyiség arányos csökkentését, amennyiben ezen szerződések szerinti beszállító a belföldi felhasználók ellátására vonatkozó szerződéseiből fakadó kötelezettségeit nem teljesíti, vagy ha az átszállítandó mennyiséget a rendszerhasználó nem, vagy nem teljes egészében táplálja be a rendszerbe. A csökkentést a kieső forrás mértékéig kell végrehajtani.
-
-(5) Amennyiben a szállítási rendszerirányító rendelkezésére álló adatok, információk alapján nem állapítható meg egyértelműen, hogy melyik beszállító nem teljesíti szerződéses kötelezettségeit, a szállítási rendszerirányító a Magyarország területén keresztül átszállításra kerülő valamennyi szerződés szerinti földgázmennyiséget arányosan csökkenti.
-
-(6) Az átszállítások arányos csökkentését a szállítási rendszerirányító a Hivatalnak haladéktalanul bejelenti. Amennyiben a Hivatal az intézkedés megalapozottságának vizsgálata érdekében szükségesnek tartja, hatósági ellenőrzést folytat le.
-
-(7) Az átszállításra kerülő földgázmennyiségek (4)–(5) bekezdés szerinti csökkentésének részletes szabályait az Üzemi és Kereskedelmi Szabályzat határozza meg.
-
-(8) A válsághelyzeti intézkedésekből származó károkért az engedélyeseket – a tőlük elvárható magatartás tanúsítása esetén – kártalanítási kötelezettség nem terheli.
-
-(9) A miniszter a válsághelyzet idején megtett biztonsági intézkedéseiről haladéktalanul tájékoztatja az Európai Bizottságot és a tagállamokat.
-
-(10) A felhasználók tárgyilagos és szakszerű tájékoztatása érdekében a földgázellátási válsághelyzet esetére a Hivatal Válsághelyzeti Információs Irodát hoz létre és működtet.
-
-97/B. § (1) Földgázellátási válsághelyzet I. fokozata esetén a felhasználók földgázvételezésének korlátozására a 96. § (4)–(6) bekezdés rendelkezéseit kell alkalmazni.
-
-(2) Földgázellátási válsághelyzet I. fokozata esetén a miniszter rendeletben rendelkezik – az Fbkt. rendelkezéseinek megfelelően külön jogszabályban felszabadított – biztonsági földgázkészlet igénybevételéről, valamint az igénybevételre jogosult földgázkereskedőkről az Fbkt. és az annak felhatalmazása alapján kiadott jogszabályok rendelkezéseivel összhangban.
-
-97/C. § (1) Földgázellátási válsághelyzet II. fokozata esetén – annak fennállásáig – a miniszter rendeletben szabályozhatja
+(2) Vészhelyzeti szint esetén – annak fennállásáig – a miniszter rendeletben szabályozhatja
 
 - a) a felhasználók ellátására vonatkozó szerződések teljesítésének felfüggesztését,
-- b) a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit,
-- c) az engedélyesek jogait és kötelezettségeit,
+- b) a felhasználók földgázellátás korlátozása elrendelésének, fenntartásának és feloldásának feltételeit,
+- c) a szállítási rendszerirányító, a rendszerüzemeltetők és a rendszerhasználók jogait és kötelezettségeit,
 - d) a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát.
 
-(2) A földgázellátási válsághelyzet II. fokozata esetén a felszabadított földgáz biztonsági készletekkel a szállítási rendszerirányító rendelkezik.
-
-(3) A földgázellátási válsághelyzet II. fokozata esetén a földgázkereskedők, valamint a felhasználók – az Üzemi és Kereskedelmi Szabályzatban meghatározott eljárás- és elszámolási rend szerint – kötelesek a rendelkezésükre álló földgázmennyiséget a szállítási rendszerirányító részére felajánlani.
-
-(4) A szállítási rendszerirányító a (2)–(3) bekezdés szerint rendelkezésére álló földgázmennyiségekkel történő gazdálkodás során köteles
-
-- a) a napi rendszeregyensúlyozás szempontjai mellett a földgázellátás közép- és hosszú távú fenntarthatóságának szempontjait is figyelembe venni,
-- b) törekedni arra, hogy a felajánlott földgázmennyiség elsősorban a felajánló földgázkereskedővel jogviszonyban álló felhasználók ellátását szolgálja.
-
-(5) A válsághelyzet II. fokozata esetén a földgázkereskedők kötelesek a Hivatalt folyamatosan tájékoztatni
-
-- a) új földgázforrás-beszerzési lehetőségeikről és a potenciális földgázforrás áráról,
-- b) az általuk ellátott felhasználóknak a válsághelyzet megszűnését követő 12 hónapban várható ellátásbiztonságáról, különös tekintettel a (3) bekezdés szerinti felajánlási kötelezettségre.
-
-(6) A Hivatal az (5) bekezdés szerinti tájékoztatás keretében kapott adatokról, információkról a (4) bekezdés szerinti feladat ellátása érdekében tájékoztatja a szállítási rendszerirányítót, valamint ezzel egyidejűleg a minisztert.
-
-98. § (1) A korlátozás végrehajthatósága érdekében, a felhasználókat korlátozható és nem korlátozható kategóriákba kell sorolni.
-
-(2) A nem korlátozható felhasználók körét a földgázvételezés korlátozásáról, a földgáz biztonsági készlet felhasználásáról, valamint a földgázellátási válsághelyzet esetén szükséges egyéb intézkedésekről szóló kormányrendelet határozza meg.
-
-98/A. § A 994/2010/EU európai parlamenti és tanácsi rendelet 2. cikk 2. pontja szerinti hatáskörrel rendelkező hatóság a miniszter. A 994/2010/EU európai parlamenti és tanácsi rendeletben a hatáskörrel rendelkező hatóság tekintetében meghatározott feladatokat – a 127/B. és 127/C. §-ban, valamint a földgázvételezés korlátozásáról, a földgáz biztonsági készlet felhasználásáról, valamint a földgázellátási válsághelyzet esetén szükséges egyéb intézkedésekről szóló kormányrendeletben meghatározott kivételekkel – a miniszter látja el.
+98/E. § A földgázellátási válsághelyzet szintjeihez tartozó részletes szabályokat és a Hivatal által működtetett válsághelyzeti monitoringrendszer működésének szabályait a Hivatal elnöke rendeletben határozza meg.
 
 ### VIII. Fejezet — MÉRÉS, ELSZÁMOLÁS
 
@@ -1664,7 +1691,12 @@ foglalt árat köteles megfizetni.
 
 (5) A Hivatal az (1) és (2) bekezdés szerinti árszabályozási ciklus indulását megelőzően eszköz- és költség-felülvizsgálatot végez.
 
-104/B. § (1) A rendszerhasználati díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a Hivatal elnöke rendeletben állapítja meg a következő árszabályozási ciklus kezdetét megelőző év május 15-ig. A rendszerhasználati díjak szabályozása az árszabályozási cikluson belül évenkénti ármegállapítással történik.
+(6) Az árszabályozási ciklus kezdő időpontja
+
+- a) a szállítás, az elosztás, valamint az egyetemes szolgáltatás esetében október 1.,
+- b) a tárolás esetében április 1.
+
+104/B. § (1) A rendszerhasználati díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a Hivatal elnöke rendeletben állapítja meg a következő árszabályozási ciklus kezdetét megelőző év augusztus 15-ig. A rendszerhasználati díjak szabályozása az árszabályozási cikluson belül évenkénti ármegállapítással történik.
 
 (2) Az (1) bekezdés szerinti rendelet figyelembevételével a Hivatal az árszabályozási ciklus
 
@@ -1675,7 +1707,7 @@ vonatkozóan módszertani útmutatót (a továbbiakban együtt: módszertani út
 
 (3) A Hivatal
 
-- a) a (2) bekezdés a) pontja szerinti módszertani útmutatót a következő árszabályozási ciklus kezdetét megelőző év május 15-ig,
+- a) a (2) bekezdés a) pontja szerinti módszertani útmutatót az elosztás tekintetében a következő árszabályozási ciklus kezdetét megelőző február 15-ig, a tárolás tekintetében a következő árszabályozási ciklus kezdetét megelőző év augusztus 15-ig,
 - b) a (2) bekezdés b) pontja szerinti útmutatót a következő árszabályozási ciklus kezdetét legalább 60 nappal megelőzően
 
 a honlapján közzéteszi.
@@ -1713,7 +1745,7 @@ a honlapján közzéteszi.
 - a) a felhasználó és a rendszerhasználó igénye alapján, valamint
 - b) a felhasználó szerződésszegése esetén
 
-külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit a következő árszabályozási ciklus kezdetét megelőző év május 15-ig.
+külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit a következő árszabályozási ciklus kezdetét megelőző év augusztus 15-ig.
 
 (2) A Hivatal elnöke rendeletben állapítja meg a külön díjak fizetésére kötelezettek körét és a külön díjak alkalmazásának feltételeit, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 
@@ -1771,7 +1803,7 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 108. § (1) A földgázszállító vagy a földgázelosztó vezetékhez történő csatlakozásért vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért díjat (a továbbiakban: csatlakozási díj) kell fizetni. A Hivatal elnöke rendeletben állapítja meg
 
-- a) a csatlakozási díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a következő árszabályozási ciklus kezdetét megelőző év május 15-ig,
+- a) a csatlakozási díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a következő árszabályozási ciklus kezdetét megelőző év augusztus 15-ig,
 - b) a csatlakozási díjak elemeit, a díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 
 (2) A csatlakozási díjak mértékét a Hivatal elnöke rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak kell eltelnie.
@@ -1824,7 +1856,7 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 (2) Az Üzemi és Kereskedelmi Szabályzatot az ellátásbiztonság, a minőségi követelmények, a versenysemlegesség és az együttműködő földgázrendszerhez való szabad hozzáférés figyelembevételével kell kidolgozni. Az Üzemi és Kereskedelmi Szabályzat kidolgozása során a szállítási rendszerirányító köteles kikérni a külön jogszabály szerint létrehozott és működő szabályzati bizottság véleményét.
 
-(3) A (2) bekezdés szerint kidolgozott Üzemi és Kereskedelmi Szabályzatot a szállítási rendszerirányító minden évben felülvizsgálja, a felülvizsgálathoz kikéri a szabályzati bizottság véleményét, és módosítás esetén – a beérkezett véleményekkel együtt – minden év május 31-ig benyújtja a Hivatalhoz, amit a Hivatal hagy jóvá. A Hivatal megtagadja az Üzemi és Kereskedelmi Szabályzat jóváhagyását, ha az jogszabálysértő vagy akadályozza a hatásos versenyt, a díjszabályozásban foglalt elvek és szabályok érvényesülését, vagy egyes felhasználókkal szemben indokolatlan megkülönböztetések alkalmazását teszi lehetővé és – határidő tűzésével, valamint az okok megjelölésével kötelezi a szállítási rendszerirányítót a tervezet átdolgozására és ismételt benyújtására. A jóváhagyott Üzemi és Kereskedelmi Szabályzat vonatkozó előírásait az engedélyesek, a földgáztermelők, a rendszerhasználók és a felhasználók kötelesek betartani.
+(3) A (2) bekezdés szerint kidolgozott Üzemi és Kereskedelmi Szabályzatot a szállítási rendszerirányító minden évben felülvizsgálja, a felülvizsgálathoz kikéri a szabályzati bizottság véleményét, és módosítás esetén – a beérkezett véleményekkel együtt – minden év július 15-ig benyújtja a Hivatalhoz, amit a Hivatal hagy jóvá. A Hivatal megtagadja az Üzemi és Kereskedelmi Szabályzat jóváhagyását, ha az jogszabálysértő vagy akadályozza a hatásos versenyt, a díjszabályozásban foglalt elvek és szabályok érvényesülését, vagy egyes felhasználókkal szemben indokolatlan megkülönböztetések alkalmazását teszi lehetővé és – határidő tűzésével, valamint az okok megjelölésével kötelezi a szállítási rendszerirányítót a tervezet átdolgozására és ismételt benyújtására. A jóváhagyott Üzemi és Kereskedelmi Szabályzat vonatkozó előírásait az engedélyesek, a földgáztermelők, a rendszerhasználók és a felhasználók kötelesek betartani.
 
 (4) Jogszabályváltozás esetén, és abban az esetben, ha az Üzemi és Kereskedelmi Szabályzat akadályozza a hatásos versenyt, a díjszabályozásban foglalt elvek és szabályok érvényesülését, vagy egyes felhasználókkal szemben indokolatlan megkülönböztetések alkalmazását teszi lehetővé, a Hivatal az engedélyesekkel és a rendszerhasználókkal történő egyeztetés mellett – határidő tűzésével, valamint az okok megjelölésével – kötelezi a szállítási rendszerirányítót a szabályzat módosítására.
 
@@ -2043,7 +2075,7 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 ### XII. Fejezet — JOGKÖVETKEZMÉNYEK
 
-119. § (1) Aki a földgázipari tevékenységet általános hatályú, közvetlenül alkalmazandó uniós jogi aktusban, uniós jogi rendelkezésben, jogszabályban, az engedélyében, a Hivatal határozatában, az Üzemi és Kereskedelmi Szabályzatban, az üzletszabályzatban, az Ügynökség kötelező erejű határozatában előírtaktól eltérő módon gyakorolja, azzal szemben a Hivatal az alábbi jogkövetkezményeket alkalmazhatja:
+119. § (1) Aki a földgázipari tevékenységet általános hatályú, közvetlenül alkalmazandó uniós jogi aktusban, uniós jogi rendelkezésben, jogszabályban, az engedélyében, a Hivatal határozatában, az Üzemi és Kereskedelmi Szabályzatban, az üzletszabályzatban, az ACER kötelező erejű határozatában előírtaktól eltérő módon gyakorolja, azzal szemben a Hivatal az alábbi jogkövetkezményeket alkalmazhatja:
 
 - a) felhívja az engedélyes figyelmét a kötelezettségei teljesítésére és határidő tűzésével kötelezi a jogsértés megszüntetésére,
 - b) bírságot szabhat ki,
@@ -2080,7 +2112,7 @@ foglalt kötelezettségét nem teljesíti.
 
 (6) A Hivatal a földgázipari tevékenység folyamatos végzésére más engedélyest is kijelölhet, ha az együttműködő földgázrendszer folyamatos és biztonságos működése vagy a felhasználók ellátása azt megköveteli.
 
-(6a) A távhőszolgáltatásról szóló törvény szerinti engedélyes, mint felhasználó ellátására történő (6) bekezdés szerinti kényszerkijelölés egy alkalommal 90 napra történhet. A kijelölt földgázkereskedő köteles biztosítani a földgázforrást a felhasználó részére. A kijelölt földgázkereskedő a kijelölés időtartamára a gázátadó állomási és az elosztóvezetéki kiadási pont lekötött kapacitását másodlagos kapacitáskereskedelem formájában veszi át a lekötött kapacitással rendelkező rendszerhasználótól.
+(6a) A Tszt. szerinti engedélyes, mint felhasználó ellátására történő (6) bekezdés szerinti kényszerkijelölés egy alkalommal 90 napra történhet. A kijelölt földgázkereskedő köteles biztosítani a földgázforrást a felhasználó részére. A kijelölt földgázkereskedő a kijelölés időtartamára a gázátadó állomási és az elosztóvezetéki kiadási pont lekötött kapacitását másodlagos kapacitáskereskedelem formájában veszi át a lekötött kapacitással rendelkező rendszerhasználótól.
 
 (7) A Hivatal más engedélyes kijelölése esetén az engedélyest, vagy ha a szállító- és az elosztóvezeték, valamint a tároló tulajdonosa nem az engedélyes, akkor a földgázrendszer tulajdonosát kötelezheti arra, hogy a
 
@@ -2483,7 +2515,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - k) a kereskedőváltás megkönnyítésének elősegítése,
 - l) versenyképes, biztonságos és fenntartható belső földgázpiac kialakításának és a tényleges piacnyitásnak elősegítése az Európai Unión belül, valamint ennek érdekében részvétel versenyképes és megfelelően működő regionális piacok kialakításában,
 - m) annak elősegítése, hogy az szállítási rendszerüzemeltető és a rendszerhasználók megfelelő ösztönzőket kapjanak az együttműködő földgázrendszer hatékonyságának növelésére és a piaci integráció elősegítésére,
-- n) a 994/2010/EU európai parlamenti és tanácsi rendelet végrehajtását szolgáló e törvényben és a földgázvételezés korlátozásáról, a földgáz biztonsági készlet felhasználásáról, valamint a földgázellátási válsághelyzet esetén szükséges egyéb intézkedésekről szóló kormányrendeletben meghatározott feladatok ellátása.
+- n) a 2017/1938/EU európai parlamenti és tanácsi rendelet végrehajtását szolgáló e törvényben és végrehajtási rendeleteiben meghatározott feladatok ellátása.
 
 127. § A Hivatal a földgázellátással, a földgázellátás biztonságának és a földgázpiac hatékony működésének felügyeletével, továbbá az egyenlő bánásmód követelményének érvényesítésével, és a hatásos verseny elősegítésével kapcsolatos feladatai körében
 
@@ -2507,7 +2539,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
   - kd) a földgázelosztó, illetve a földgáztároló engedélyes által nem vállalt, de indokolt fejlesztések elvégzésére jogosult pályázatot meghirdetni és elbírálni,
   - ke) a 83/A. § (1) bekezdése szerinti esetben köteles pályázatot kiírni;
 - l) az egyes engedélyesekre – a jogszabályban meghatározott keretek között – határozatban állapítja meg az engedélyköteles tevékenység folytatásának minimális minőségi követelményeit, valamint elvárt színvonalát, a felhasználókkal való kapcsolattartás módjára vonatkozó minimális követelményeket, a felhasználók tájékoztatásának részletes szabályait, továbbá a rendszerüzemeltetők vonatkozásában az együttműködő földgázrendszer biztonságos üzemeltetésére vonatkozó minimális követelményeket;
-- ly) elvégzi az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a földgázellátás jellemzőinek felmérését;
+- ly) elvégzi, valamint az érintett engedélyesek közreműködésével elvégezteti az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a földgázellátás jellemzőinek felmérését;
 - m) dönt a rendszerüzemeltetővel, illetve a telephelyi engedélyessel szemben felmerülő, csatlakozással vagy az együttműködő földgázrendszer megfelelő minőségben való rendelkezésre állásának kérdésével kapcsolatos felhasználói panaszok ügyében; ellenőrzi a felhasználói igények kielégítését és a felhasználók által a hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását;
 - n) dönt az engedélyesekkel szemben felmerülő panaszok – ideértve a szerződés nélküli vételezéssel, a szabálytalan vételezéssel, valamint ezek jogkövetkezményeivel kapcsolatos panaszok – ügyében, kivéve a 64. § (1) bekezdése szerinti lakossági fogyasztói panaszokat;
 - ny) ellátja a földgázpiacot érintően az 1227/2011/EU európai parlamenti és tanácsi rendeletben meghatározott, a nemzeti szabályozó hatóságra vonatkozó feladatokat, illetve ezzel összefüggésben ellenőrzési-, nagykereskedelmi piacfelügyeleti eljárást végez;
@@ -2528,17 +2560,17 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - x) e törvényben foglaltak szerint kifogásolhatja a szállítási rendszerüzemeltető operatív irányítását ellátó személy vagy testület tagja, továbbá a felügyelőbizottság tagja kinevezését, kinevezése megújítását, munkafeltételeit, ideértve a díjazást is, valamint a megbízatása megszüntetését a szakmai függetlenséggel vagy a megbízatás idő előtti megszüntetése során a tevékenységek szétválasztására vonatkozó szabályok betartásával kapcsolatos kétség esetén, ellenőrzi, hogy a szállítási rendszerüzemeltető operatív irányítását ellátó személy vagy testület tagja megbízatásának idő előtti megszüntetésére a tevékenységek szétválasztására vonatkozó szabályok betartásával került-e sor, továbbá kezdeményezheti a megfelelési ellenőr megbízatásának megszüntetését a függetlenség vagy a szakmai alkalmasság hiánya esetén;
 - y) az egyablakos kiszolgálású nemzetközi szállítóvezeték engedélyezésének előkészítésével kapcsolatosan egyeztet és együttműködik azon országok szabályozó hatóságaival, amelyeken a vezeték áthalad;
 - z) a határkeresztező gázvezetéken fellépő kapacitáshiány esetén együttműködik a másik tagállammal a kapacitáshiány-kezelési eljárásokra vonatkozóan;
-- zs) közzéteszi minden év július 31-ig az ellátásbiztonsági felügyelet során szerzett eredményeket és az azok alapján meghozott vagy tervezett intézkedéseket ismertető jelentést, melyet haladéktalanul továbbít a Bizottságnak.
+- zs)
 
 127/A. § A Hivatal a földgázellátással, a földgázellátás biztonságának és a földgázpiac hatékony működésének felügyeletével, továbbá az egyenlő bánásmód követelményének érvényesítésével, és a hatásos verseny elősegítésével kapcsolatos feladatai körében, a 127. § szerinti feladatai mellett
 
 - a) figyelemmel kíséri az átláthatóság szintjét, beleértve a nagykereskedelmi árak átláthatóságát,
 - b) a versenyhatóság eljárási hatáskörének tiszteletben tartásával vizsgálja a megszakítható ellátási szerződések, illetve a hosszú távú szerződések közösségi jognak való megfelelését és az Európai Unió politikáival való összhangját,
-- c) éves jelentést készít az Ügynökség és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.
+- c) éves jelentést készít az ACER és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.
 
-127/B. § A 994/2010/EU európai parlamenti és tanácsi rendelet 7. cikkében, 8. cikkében, 11. cikk (8) bekezdésében, 13. cikk (5) bekezdésében és 13. cikk (6) bekezdés b) pontjában a hatáskörrel rendelkező hatóság számára előírt feladatokat a Hivatal látja el.
+#### 127/B. §
 
-127/C. § A 994/2010/EU európai parlamenti és tanácsi rendelet 13. cikk (6) bekezdés b) pontja szerinti kötelezettség teljesítéséhez szükséges mértékben a Hivatal adatokat kérhet a földgázipari vállalkozástól.
+#### 127/C. §
 
 ### Tanúsítási eljárás
 
@@ -2584,7 +2616,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - a) a szállítási rendszerüzemeltető megfelel-e a földgáz energia belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről szóló 2009. július 13-i 2009/73/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2009/73/EK irányelv) 9. cikkében foglalt követelményeknek, és
 - b) a tanúsítás megadása nem veszélyezteti-e az Európai Unió földgázellátásának biztonságát.
 
-(6) Ha az Európai Bizottság a (4) bekezdés szerinti határozattal egyetért, vagy arra a kérelem kézhezvételétől számított 2 hónapon belül – az Ügynökség vagy az érintett felek véleményének kikérése esetén, 4 hónapon belül – nem nyilvánít véleményt, a Hivatal az eljárás felfüggesztését megszünteti, és határozatát az Európai Bizottság véleményével együtt honlapján közzéteszi. Ha az Európai Bizottság a Hivatal határozatával nem ért egyet, a Hivatal az eljárás felfüggesztését megszünteti, és módosítja határozatát, azzal, hogy a Hivatal minden esetben jogosult a tanúsítást megtagadni, ha a tanúsítás megadása veszélyeztetné az ország vagy az Európai Unió más tagállamának földgázellátásának biztonságát. Ez utóbbi esetben a Hivatal határozatát az Európai Bizottság véleményével és az Európai Bizottság véleményétől való eltérés indokolásával együtt teszi közzé honlapján.
+(6) Ha az Európai Bizottság a (4) bekezdés szerinti határozattal egyetért, vagy arra a kérelem kézhezvételétől számított 2 hónapon belül – az ACER vagy az érintett felek véleményének kikérése esetén, 4 hónapon belül – nem nyilvánít véleményt, a Hivatal az eljárás felfüggesztését megszünteti, és határozatát az Európai Bizottság véleményével együtt honlapján közzéteszi. Ha az Európai Bizottság a Hivatal határozatával nem ért egyet, a Hivatal az eljárás felfüggesztését megszünteti, és módosítja határozatát, azzal, hogy a Hivatal minden esetben jogosult a tanúsítást megtagadni, ha a tanúsítás megadása veszélyeztetné az ország vagy az Európai Unió más tagállamának földgázellátásának biztonságát. Ez utóbbi esetben a Hivatal határozatát az Európai Bizottság véleményével és az Európai Bizottság véleményétől való eltérés indokolásával együtt teszi közzé honlapján.
 
 129. § (1) A Hivatal részére felügyeleti tevékenységéért az engedélyes felügyeleti díjat köteles fizetni, amelynek éves mértéke az engedélyes tevékenységéből származó előző évi nettó árbevételének 0,075%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt vagy nem teljes évre vonatkozóan volt nettó árbevétele, akkor éves felügyeleti díj előleget fizet, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,075%-a. Ha a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,075%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
 
@@ -2608,7 +2640,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (4) A 127. § b), c), l) és ly) pontjában közvetlenül érintett az engedélyes.
 
-129/A. § (1) Közigazgatási perben a Hivatalnak a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján a földgázellátási üzemzavar vagy válsághelyzet esetén, valamint a tanúsítási eljárásban hozott határozatát a bíróság nem változtathatja meg.
+129/A. § (1) Közigazgatási perben a Hivatalnak a földgázellátási válsághelyzet esetén hozott határozatát, valamint a tanúsítási eljárásban hozott határozatát a bíróság nem változtathatja meg.
 
 (2) A közigazgatási perben a keresetlevél halasztó hatályának elrendelésének nincs helye, ha a Hivatal határozata
 
@@ -2621,7 +2653,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 az Európai Unió szerveivel
 
-130. § A Hivatal nemzetközi együttműködésére és az Európai Unió szerveivel való kapcsolatára vonatkozóan a VET. 164–165/A. §-ának előírásait kell megfelelően alkalmazni azzal, hogy
+130. § A Hivatal nemzetközi együttműködésére és az Európai Unió szerveivel való kapcsolatára vonatkozóan a VET. 164-165/B. §-ának előírásait kell megfelelően alkalmazni azzal, hogy
 
 - a) az Európai Parlament és a Tanács a villamos energia belső piacára vonatkozó közös szabályokról és a 2003/54/EK irányelv hatályon kívül helyezéséről szóló 2009. július 13-i 2009/72/EK irányelve alatt a 2009/73/EK irányelv,
 - b) az Európai Parlament és a Tanács a villamos energia határokon keresztül történő kereskedelme esetén alkalmazandó hálózati hozzáférési feltételekről és az 1228/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. július 13-i 714/2009/EK rendelete alatt a 715/2009/EK európai parlamenti és tanácsi rendelet értendő.
@@ -2685,13 +2717,13 @@ tartalmazza.
 - 24. az egyablakos kiszolgálású nemzetközi szállítóvezeték és az együttműködő földgázrendszer kapcsolódása esetén az egyablakos kapacitásértékesítő és a csatlakozó rendszerüzemeltető együttműködésének részletes szabályait,
 - 25. a felhasználó kereskedőváltásának és ellátási formaváltásának feltételeit, részletes szabályait, valamint az egyetemes szolgáltatásra jogosult nem lakossági fogyasztótól az egyetemes szolgáltatási szerződés megkötésének feltételeként kérhető pénzügyi biztosíték összegét,
 - 26. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
-- 27.
+- 27. az adatcsere-ellenőrzési testület létrehozására és működtetésére vonatkozó szabályokat, továbbá az adatcsere bizottság létrehozására és működtetésére vonatkozó szabályokat,
 - 28. a nem határponti betáplálási-kiadási pontokon történő kapacitáslekötés szabályait, ezen belül az igénykielégítés rendjét, a továbbértékesítés szabályait, a szabad kapacitás közzétételének, és lekötésének szabályait,
 - 29.
 - 30. a földgáz szagosítására vonatkozó rendelkezéseket és a nem többségi földgázelosztói vagy földgázszállítói tulajdonban lévő vezeték szakaszok esetében az üzemeltetési szerződés kötelező tartalmi elemeit, valamint a szállító-, és az elosztóvezeték tulajdonosainak jogait és kötelezettségeit,
 - 31. a földgázrendszerek egymás közötti, valamint a földgázrendszerek és a földgáztermelő közötti betáplálási-kiadási ponti elszámolási mérési helyek és eszközök kiépítésében és üzemeltetésében érintettek együttműködési kötelezettségét,
-- 32. a földgázellátási válsághelyzet minősítését, kihirdetésének és megszüntetésének szabályait, valamint az intézkedésre jogosult szervezeteket, azok felelősségi és hatáskörét,
-- 33. a földgázellátás biztonságának megőrzését szolgáló, valamint a korlátozásra vonatkozó részletes rendelkezéseket, ezen belül a korlátozási kategóriákat, a besorolás szabályait, valamint a korlátozható felhasználókra vonatkozó jogokat és kötelezettségeket,
+- 32. a földgázellátási válsághelyzetben intézkedésre jogosult szervezeteket, azok felelősségi és hatáskörét,
+- 33. a földgázellátás biztonságának megőrzését szolgáló, valamint a korlátozásra vonatkozó részletes rendelkezéseket, a védett felhasználók nyilvántartásának szabályait, a korlátozási kategóriákat, a besorolás szabályait, valamint a korlátozható felhasználókra vonatkozó jogokat és kötelezettségeket, továbbá a szolidaritási intézkedés végrehajtásának részletszabályait, a védett felhasználók ellátásbiztonságát szolgáló ellátási előírások részletszabályait, és a 2017/1938/EU európai parlamenti és tanácsi rendelet 14. cikk (6) bekezdés a) és b) pontjában meghatározott a földgáz-kereskedelmi forrásszerződésekre és kapcsolódó szerződésekre vonatkozó adatszolgáltatást,
 - 34. a rendszerüzemeltető és a telephelyi szolgáltató által üzemeltetett rendszerek karbantartása, átalakítása, felújítása, fejlesztése esetén a szolgáltatás korlátozásának és szüneteltetésének alapvető szabályait, a be nem jelentett vagy késedelmesen bejelentett szünetelés, valamint a bejelentett szüneteltetés indokolatlan túllépése esetén alkalmazható pótdíj megállapítására vonatkozó szabályokat,
 - 35. a fogyasztásmérésre és elszámolásra – beleértve az átalánydíjas fogyasztást is –, valamint a fogyasztásmérő berendezés mérésügyi felülvizsgálatára vonatkozó részletes szabályokat,
 - 36. az egyetemes szolgáltatásra jogosult felhasználókat ellátó földgázkereskedők földgáz forrásainak biztosításával kapcsolatos rendelkezéseket,
@@ -2708,7 +2740,7 @@ tartalmazza.
 - 47. a földgázkereskedő által a felhasználók ellátására vonatkozóan készítendő forrásterv tartalmi elemeit,
 - 48. az okos mérés bevezetésével kapcsolatos mintaprojektek megvalósításával összefüggő szabályokat, ennek keretében az okos mérőkre és felszerelésükre, a mintaprojektet végzők és az abban részt vevő felhasználók jogaira és kötelezettségeire, az adatkezeléssel és adatfeldolgozással kapcsolatos előírásokra, továbbá a mintaprojektek eredményeiről való adatszolgáltatásra, tájékoztatásra vonatkozó szabályokat, valamint a mintaprojekt megvalósításán túlmenően a központi adatfeldolgozó rendszer működtetésére vonatkozó részletes szabályokat,
 - 49. az együttműködő földgázrendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszerére, kijelölésére, az érzékeny információ védelmére, a kapcsolattartásra és a jelentéstételi kötelezettségekre, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmére, ellenőrzésének rendjére, az előírások megsértése esetén alkalmazható jogkövetkezményekre
-- 50. a 994/2010/EU európai parlamenti és tanácsi rendelet 4. cikke szerinti megelőzési cselekvési tervet és vészhelyzeti tervet,
+- 50. a 2017/1938/EU európai parlamenti és tanácsi rendelet 8. cikke szerinti megelőzési cselekvési tervet és vészhelyzeti tervet,
 - 51. a földgázellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
 - 52. a földgázkereskedő által a földgáz biztonsági készletezéséről szóló törvény szerinti tagi hozzájárulás visszaigénylése céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat,
 - 53. az e törvény szerinti, a PB-gáz tartályban vagy palackban történő forgalmazásának, valamint a turista használatú palackba történő PB-gáz-átfejtés szabályait és hatósági felügyeletét, az e tevékenységre jogosító engedély kiadásának rendjét, az e tevékenységet folytatókról vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a fogyasztóvédelmi előírásokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek megszegése esetén alkalmazandó jogkövetkezményeket,
@@ -2718,7 +2750,7 @@ tartalmazza.
 
 132/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- 1. földgázellátási válsághelyzet fennállása esetén a munkanapok és munkaszüneti napok, valamint az azokkal összefüggő munkavégzés rendjét, az ügyfélforgalom előtt nyitva álló magánhelyiségek, közintézmények (különösen üzletek, ügyfélszolgálatok) nyitvatartási idejét, az ügyfélforgalom előtt nyitva álló magánhelyiségek, közintézmények (különösen üzletek, ügyfélszolgálatok), továbbá irodaházak, valamint a költségvetési fenntartású intézmények legmagasabb felfűtési hőmérsékletét, a földgázfelhasználás mérséklését szolgáló egyéb intézkedéseket, valamint a földgáz Magyarország területéről történő kiszállítására vonatkozó szerződéskötés feltételeit,
+- 1. földgázellátási vészhelyzeti szint fennállása esetén a munkanapok és munkaszüneti napok, valamint az azokkal összefüggő munkavégzés rendjét, az ügyfélforgalom előtt nyitva álló magánhelyiségek, közintézmények (különösen üzletek, ügyfélszolgálatok) nyitvatartási idejét, az ügyfélforgalom előtt nyitva álló magánhelyiségek, közintézmények (különösen üzletek, ügyfélszolgálatok), továbbá irodaházak, valamint a költségvetési fenntartású intézmények legmagasabb felfűtési hőmérsékletét, a földgázfelhasználás mérséklését szolgáló egyéb intézkedéseket, valamint a földgáz Magyarország területéről történő kiszállítására vonatkozó szerződéskötés feltételeit,
 - 2.
 
 #### 132/B. §
@@ -2739,7 +2771,7 @@ tartalmazza.
 - 11.
 - 12. a jövedéki adóról szóló törvényben meghatározott minősített földgázellátási üzemzavar bekövetkezésének, illetve megszűnésének tényét és időpontját,
 - 12.
-- 13. földgázellátási válsághelyzet II. fokozata esetén a felhasználók ellátására vonatkozó szerződések teljesítése felfüggesztésének rendjét, a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit, az engedélyesek jogait és kötelezettségeit, valamint a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
+- 13. vészhelyzeti szint esetén a felhasználók ellátására vonatkozó szerződések teljesítése felfüggesztésének rendjét, a felhasználók földgázellátásának korlátozását, különösen a korlátozás elrendelésének, fenntartásának és feloldásának feltételeit, az engedélyesek jogait és kötelezettségeit, valamint a földgázellátáshoz kapcsolódó, a hatósági és a nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
 - 14.
 - 15. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
 - 16. az 1227/2011/EU európai parlamenti és tanácsi rendelet 9. cikkében meghatározott nemzeti nyilvántartás létrehozásával és működtetésével kapcsolatos részletes szabályokat,
@@ -2773,7 +2805,9 @@ tartalmazza.
 - 10. a rendszer-összekötési pontokra vonatkozó szabályok alkalmazhatóságát a harmadik országok felől való betáplálási pontokra és a harmadik országok felé való kiadási pontokra,
 - 11. az e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelményeket, az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, valamint a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket,
 - 12. az elosztóhálózat-használati szerződés és az egyetemes szolgáltatási szerződés felek általi megszegése megállapításának ellenőrzési, szakértői vizsgálati és dokumentálási szabályait, valamint a jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket.
-- 13–15.
+- 13. a válsághelyzeti monitoringrendszer működésének részletszabályait, a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés a)–c) pontjában meghatározott esetekhez tartozó felkészülés mértékét, valamint a védett felhasználók és a szolidaritási alapon védett felhasználók földgáz felhasználása meghatározásának módját.
+- 14.
+- 15.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -2899,7 +2933,7 @@ tartalmazza.
 
 (13) A Felajánlási rendeletben meghatározott mennyiséget a Felajánlási rendelet hatálybalépését követően át kell adni a szerződő félnek. Ha a Felajánlási rendelet vagy annak módosítása olyan időpontban lép hatályba, amely időpontban a szabályozási időszak már elkezdődött, a Felajánlási rendeletben vagy annak módosításában meghatározott mennyiségbe a Felajánlási rendelet hatálybalépését megelőzően az azonos szabályozási időszakban a szerződő félnek már átadott mennyiséget be kell számítani.
 
-(14) Az (1)–(3) bekezdés szerinti szerződés 2020. szeptember 30-ig meghosszabbodik.
+(14) Az (1)–(3) bekezdés szerinti szerződés 2021. szeptember 30-ig meghosszabbodik.
 
 (14a) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
@@ -2994,11 +3028,11 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 (8) A Felajánlási rendeletben meghatározott földgázmennyiséget a földgáztermelő köteles a (3) bekezdés szerinti szerződésben – a műszaki üzemi terv elvárásait és a bánya-technológiai korlátokat figyelembe véve – meghatározott, földgázmennyiségre vonatkozó rugalmassági szabályok figyelembevételével átadni a szerződő félnek a Felajánlási rendeletben meghatározott hatósági ár alkalmazásával.
 
-(9) A hazai termelésű földgáz termelője köteles a 2015. július 1-jétől 2020. szeptember 30-ig tartó időszakra a szállítóvezeték együttműködő földgázrendszerhez csatlakozó hazai termelő mezők betáplálási vagy összevont betáplálási pontján a hazai termelésű földgáz betáplálása érdekében éves kapacitást lekötni.
+(9) A hazai termelésű földgáz termelője köteles a 2015. július 1-jétől 2021. szeptember 30-ig tartó időszakra a szállítóvezeték együttműködő földgázrendszerhez csatlakozó hazai termelő mezők betáplálási vagy összevont betáplálási pontján a hazai termelésű földgáz betáplálása érdekében éves kapacitást lekötni.
 
 (10) A hazai termelésű földgáz termelője a (9) bekezdés szerinti kapacitást köteles a hazai termelésű földgáz értékesítésére vonatkozó szerződés keretében beszerzési költségen átadni a hazai termelésű földgáz vásárlója számára.
 
-(11) A (3) bekezdés szerinti szerződés 2020. szeptember 30-áig meghosszabbodik.
+(11) A (3) bekezdés szerinti szerződés 2021. szeptember 30-áig meghosszabbodik.
 
 141/J. § (1) Az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő az egyetemes szolgáltatás keretében vételező felhasználók részére történő értékesítés céljából köteles a szerződéssel le nem kötött földgázforrásait – ideértve az egyetemes szolgáltatási célra a 141/I. § szerint vásárolt hazai termelésű földgázforrásait is – a Mód. 7. törvény hatálybalépését követő napon 3 munkanapig tartó ajánlati kötöttség mellett az egyetemes szolgáltatók részére 2015. július 1. és 2016. szeptember 30. közötti időszakra – a Felajánlási rendeletben szabályozott szerződési feltételeken kívül – megkülönböztetésmentes szerződéses feltételekkel vételre felajánlani.
 
@@ -3023,7 +3057,7 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 (9) A volt közüzemi nagykereskedő köteles az e § szerinti felajánlás forrásait biztosító szerződéseit a felajánlást követő 5 munkanapon belül a Hivatal részére megküldeni.
 
-(10) A (3) bekezdés szerinti szerződés 2020. szeptember 30-áig meghosszabbodik.
+(10) A (3) bekezdés szerinti szerződés 2021. szeptember 30-áig meghosszabbodik.
 
 (11) Az egyetemes szolgáltató köteles az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő által megjelölt ellátási időszakra vonatkozóan megadni a szerződés alapján történő vételezésének tervezett mennyiségeit havi bontásban. A Felajánlási rendelet alapján az egyetemes szolgáltató által a Hivatal részére megadott, a volt közüzemi nagykereskedőtől a szerződés alapján beszerezni tervezett negyedéves mennyiségek legfeljebb 5%-kal térhetnek el az adott negyedév hónapjaira bejelentett mennyiségek összegétől.
 
@@ -3155,6 +3189,11 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 - b) a Hivatal a 104/B. § (2) bekezdés a) pontja szerinti módszertani útmutatót a honlapján 2016. október 25-ig teszi közzé;
 - c) a 106. § (1) bekezdése szerinti rendeletet a Hivatal elnöke 2016. október 15-ig hirdeti ki;
 - d) a 108. § (1) bekezdése szerinti rendeletet a Hivatal elnöke 2016. október 15-ig hirdeti ki.
+
+(3) Az (1) bekezdés szerinti árszabályozási ciklus záró időpontja
+
+- a) a szállítási és az elosztási rendszerhasználati díjak, valamint az egyetemes szolgáltatás tekintetében 2021. szeptember 30.,
+- b) a tárolási rendszerhasználati díjak tekintetében 2021. március 31.
 
 146/M. § (1) E törvénynek az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvénnyel megállapított 104/B. § (4) bekezdése, 106. § (3) bekezdése és 108. § (2) bekezdése szerinti rendeleteket első alkalommal a 2017. január 1-jétől alkalmazandó díjak mértékének megállapítása során kell alkalmazni.
 

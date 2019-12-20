@@ -155,10 +155,12 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 
 9. § (1) Az üzemanyag-forgalmazó köteles nyilvántartani az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti tartalommal az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátást.
 
-(2) Az üzemanyag-forgalmazó minden naptári évre vonatkozóan, a tárgyévet követő év március 31-éig jelentést nyújt be az állami adó- és vámhatóságnak:
+(2) Az üzemanyag-forgalmazó minden naptári évre vonatkozóan, a tárgyévet követő év augusztus 31. napjáig jelentést nyújt be az állami adó- és vámhatóságnak:
 
 - a) az általa forgalomba hozott üzemanyag és más közlekedésben felhasznált energiatermék tekintetében a forgalomba hozott teljes mennyiségről, a beszerzési helyről és a származás helyéről, valamint
 - b) az üzemanyagból vagy más közlekedésben felhasznált energiatermékből származó, a teljes életciklusra vonatkozó, energiaegységre számított üvegházhatású gázkibocsátásról.
+
+(2a) Az üzemanyag-forgalmazó a Jöt. szerinti engedélye megszűnése esetén – az engedély megszűnésének napjával – köteles a (2) bekezdés szerinti jelentést elkészíteni, és az engedélye megszűnésének napját követő 12 munkanapon belül az állami adó- és vámhatósághoz benyújtani.
 
 (3) Az állami adó- és vámhatóság az üzemanyag-forgalmazók jelentéseiről – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
@@ -182,9 +184,7 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 
 (4) A földmérési és térinformatikai államigazgatási szerv az (1) bekezdés szerinti feladatok ellátása érdekében díjmentesen hozzáférést biztosít a Mezőgazdasági Parcella Azonosító Rendszerhez (továbbiakban: MePaR) a mezőgazdasági igazgatási szerv részére a MePaR-böngésző kezelésére történő feljogosítás útján.
 
-11/A. § (1) Az állami adó- és vámhatóság a bioüzemanyag előállítására alkalmas létesítmények adóraktári engedélyezésével, valamint adóraktári engedélyének megszűnésével kapcsolatos eljárásában összegyűjti az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről, 617/2010/EU, Euratom tanácsi rendelet felváltásáról és a 736/96/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i 256/2014/EU európai parlamenti és a tanácsi rendelet 5. cikk (3) bekezdése szerinti jelentéstételhez szükséges statisztikai adatokat.
-
-(2) Az állami adó- és vámhatóság az (1) bekezdés szerint összegyűjtött adatokat a Magyar Energetikai és Közmű-szabályozási Hivatal részére továbbítja.
+11/A. §
 
 11/B. § Az energiapolitikáért felelős miniszter elektronikus úton, havonta frissülő honlapon a megújuló energiaforrásból előállított energiával működő járművek üzembe helyezői és üzemeltetői, valamint felhasználói számára a megújuló energia közlekedési célú felhasználásának elősegítése céljából tájékoztatást nyújt a megújuló energiaforrásból előállított energiával működő járművek használatáról és az ilyen járművek használatával összefüggő előnyökről.
 
@@ -205,7 +205,7 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 - g) a bioüzemanyag-részarány számításának részletes szabályait,
 - h) a kötelező bioüzemanyag-részarány mértékét,
 - i) az üzemanyag és a bioüzemanyag MJ-ban meghatározott, az e törvényben előírt kötelezettségek tekintetében alkalmazandó energiatartalmát,
-- j) az üzemanyag-forgalmazó által a kötelező bioüzemanyag-forgalmazási részarány teljesítésével kapcsolatosan benyújtandó jelentésekre, valamint a kapcsolódó nyilvántartásokra, bizonylatolásra vonatkozó részletes szabályokat,
+- j) az üzemanyag-forgalmazó által a kötelező bioüzemanyag-forgalmazási részarány teljesítésével kapcsolatosan benyújtandó jelentésekre, valamint a kapcsolódó nyilvántartásokra, bizonylatolásra, továbbá a kötelező bioüzemanyag-részarány teljesítésének ellenőrzésére vonatkozó részletes szabályokat,
 - k) a kötelező bioüzemanyag-részarány teljesítésének ellenőrzésére, valamint a bírság kiszabására jogosult hatóságokat,
 - l) a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás mértékét,
 - m) a biomassza, a köztes termékek, a bioüzemanyagok és folyékony bio-energiahordozók fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállítását, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét.
@@ -240,9 +240,9 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 
 való megfelelést szolgálja.
 
-15/A. § E törvény 11/A. §-a a Bizottság részére való bejelentéséről, a 617/2010/EU, Euratom tanácsi rendelet felváltásáról és a 736/96/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2014. február 26-i, 256/2014/EU európai parlamenti és tanácsi rendelet 5. cikk (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
+15/A. §
 
-15/B. § E törvény 11/A. §-a a 256/2014/EU európai parlamenti és tanácsi rendelet 3. és 5. cikke szerinti adatközlés formájáról és egyéb technikai részleteiről, valamint a 2386/96/EK és a 833/2010/EU, Euratom bizottsági rendelet hatályon kívül helyezéséről szóló 2014. október 16-i, 1113/2014/EU európai bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+15/B. §
 
 16. §
 
