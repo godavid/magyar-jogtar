@@ -298,7 +298,7 @@ hívja össze.
 - g) a járási vezetőhelyettes ügyész;
 - h) járási ügyészségi csoportvezető ügyész.
 
-(4) A legfőbb ügyész pályázat útján tölti be a kinevezési jogkörébe tartozó magasabb vezető állású és vezető állású ügyészi munkaköröket, továbbá a legfőbb ügyészségi és a fellebbviteli főügyészségi ügyészi munkaköröket. A legfőbb ügyész – a legfőbb ügyész helyettesi állás kivételével – más állás pályázat útján történő betöltését is elrendelheti. A 14. § (2) bekezdés d)–e) pontjában, 23. § (1), (3) és (5) bekezdésében, a 24. § (3) és (5) bekezdésében, a 25. § (2) és (4) bekezdésében, a 36. § (4) és (8) bekezdésében meghatározott esetben a felajánlott állás pályázat nélkül tölthető be.
+(4) A legfőbb ügyész pályázat útján tölti be a kinevezési jogkörébe tartozó magasabb vezető állású és vezető állású ügyészi munkaköröket, továbbá a legfőbb ügyészségi és a fellebbviteli főügyészségi ügyészi munkaköröket. A legfőbb ügyész – a legfőbb ügyész helyettesi állás kivételével – más állás pályázat útján történő betöltését is elrendelheti. A 14. § (2) bekezdés d) és e) pontjában, a 23. § (1), (3) és (5) bekezdésében, a 24. § (3) és (5) bekezdésében, a 25. § (2) és (4) bekezdésében, a 29. § (3) bekezdésében, a 30. § (4) bekezdésében és a 31. § (5) bekezdésében, valamint a 36. § (4) és (8) bekezdésében meghatározott esetben a felajánlott állás pályázat nélkül tölthető be.
 
 19. § (1) A pályázatot a legfőbb ügyész írja ki. A nyilvános pályázati felhívásnak a pályázat elnyeréséhez szükséges valamennyi feltételt és a pályázat elbírálásának határidejét tartalmaznia kell. Jogszabályban nem szereplő pályázati feltétel a munkakörhöz szükséges speciális szakismeret esetén, ahhoz kapcsolódóan írható elő; erről a pályázókat a pályázati felhívásban külön tájékoztatni kell.
 
@@ -338,7 +338,7 @@ véleményét a pályázóról.
 - a) a megbízatási időtartam [Alaptörvény 29. cikk (4) bekezdés] leteltével;
 - b) felmentésével;
 - c) lemondásával;
-- d) hetvenedik életévének a betöltésével;
+- d)
 - e) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
 - f) összeférhetetlenségének megállapításával (47. §);
 - g) hivatalvesztése kimondásával;
@@ -346,10 +346,7 @@ véleményét a pályázóról.
 - i) halálával;
 - j) ha a 11. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn.
 
-(2) Ha a legfőbb ügyész megbízatása
-
-- a) az (1) bekezdés a) pontja vagy
-- b) az (1) bekezdés d) pontja alapján szűnt meg, a legfőbb ügyészi jogköröket az új legfőbb ügyész megbízatása kezdetéig gyakorolja.
+(2) Ha a legfőbb ügyész megbízatása az (1) bekezdés a) pontja alapján szűnt meg, a legfőbb ügyészi jogköröket az új legfőbb ügyész megbízatása kezdetéig gyakorolja.
 
 23. § (1) A megbízatási időtartam leteltét követő nappal a volt legfőbb ügyészt – ha ehhez hozzájárul – más ügyészi munkakörbe kell áthelyezni. Ha a volt legfőbb ügyész az áthelyezéséhez nem járul hozzá, ügyészségi szolgálati viszonya a megbízatási időtartam leteltének időpontjában megszűnik. A 22. § (2) bekezdés a) pontja szerinti esetben a megbízatási időtartam letelte időpontjának az új legfőbb ügyész megbízatása kezdetét kell tekinteni.
 
@@ -365,9 +362,9 @@ véleményét a pályázóról.
 
 (7) A köztársasági elnök javaslatára az Országgyűlés határozatával kimondja a legfőbb ügyész hivatalvesztését, ha a legfőbb ügyész neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ügydöntő határozatban megállapított bűntettet követett el, vagy más módon tisztségére méltatlanná vált.
 
-(8) A 22. § (1) bekezdés d) pontjában említett esetben a legfőbb ügyészt hathavi átlagilletményének megfelelő összeg illeti meg.
+(8)
 
-(9) A 22. § (1) bekezdés d)–j) pontjaiban meghatározott esetekben a legfőbb ügyész ügyészségi szolgálati viszonya is megszűnik. A hetvenedik életévét betöltött legfőbb ügyész ügyészségi szolgálati viszonya a 22. § (2) bekezdés b) pontja szerinti esetben az új legfőbb ügyész megbízatása kezdetén szűnik meg.
+(9) A 22. § (1) bekezdés e)–j) pontjában meghatározott esetekben a legfőbb ügyész ügyészségi szolgálati viszonya is megszűnik.
 
 (10) Ha a legfőbb ügyész megbízatása a 22. § (1) bekezdés j) pontja alapján szűnik meg, ennek tényét a köztársasági elnök állapítja meg.
 

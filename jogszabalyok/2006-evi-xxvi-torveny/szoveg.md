@@ -16,33 +16,47 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 
 1/A. § E törvényben nem szabályozott kérdésekben a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény rendelkezései az irányadók.
 
+1/B. § Az e törvényben nem meghatározott fogalmakat a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.), valamint a bányászatról szóló 1993. évi XLVIII. törvény rendelkezéseivel összhangban kell értelmezni.
+
 ### Értelmező rendelkezések
 
 2. § E törvény alkalmazásában
 
 - a) biztonsági földgáztároló: a földgáz tárolására alkalmas földalatti természetes földtani szerkezet vagy mesterségesen kialakított földalatti üreg, továbbá ezeknek a földgázkészlet szempontjából elkülönített része, amely az e törvény szerinti biztonsági földgázkészlet tárolására is szolgál;
-- b) lakossági fogyasztó: az a felhasználó, aki a vásárolt földgázt kizárólag saját háztartása – egy felhasználási helyet képező, lakás céljára használt lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára használja és azzal nem folytat jövedelemszerző gazdasági tevékenységet;
-- c) felhasználó: aki földgázt saját felhasználás céljára vásárol;
+- b)
+- c)
 - d) földgáz biztonsági készletezés: földalatti gáztárolóban végzett nem kereskedelmi célú földgáztárolás;
-- e) Üzemi és Kereskedelmi Szabályzat (a továbbiakban: ÜKSZ): az együttműködő földgázrendszer technikai működésére, valamint a kereskedelmi folyamatra vonatkozó főbb szabályokat tartalmazó, a Hivatal által jóváhagyott szabályzat;
-- f) lekötött kapacitás: a földgázszállító, a földgáztároló és a földgázelosztó rendszerek értékesíthető kapacitásának az a része, amelyet adott időszakra, az arra jogosultak a vásárolt kapacitásukból kapacitáslekötési szerződéssel lekötnek;
-- g) szabad kapacitás: a földgázszállítói, a földgáztárolói és a földgázelosztói engedélyes által üzemeltetett rendszerek rendelkezésre álló műszaki kapacitásának a rendszerhasználók által, kapacitáslekötési szerződéssel le nem kötött, a rendszerhasználók részére rendelkezésre álló része;
-- h) rendszerirányító: az az engedélyes, aki az együttműködő földgázrendszer irányítási és koordinációs feladatainak ellátására a Hivataltól engedélyt kapott;
-- i) földgáztermelő: az a gazdálkodó szervezet [Polgári Törvénykönyv 685. § c) pont], aki (amely) Magyarország területén földgáz bányászati tevékenységet végez;
-- j) földgáz egyetemes szolgáltató: az az engedélyes, aki az egyetemes szolgáltatási csomag kisfelhasználóknak történő értékesítésére a Hivataltól engedélyt kapott;
+- e)
+- f)
+- g)
+- h)
+- i)
+- j)
 - k) földgázkereskedő: az az engedélyes, aki a földgáz üzletszerű, ellenérték fejében, nem saját felhasználási célra történő vásárlására és értékesítésére a Hivataltól engedélyt kapott;
 - l) biztonsági földgáztároló engedélyes: az a gazdasági társaság, amely a 4. § (1) bekezdésben meghatározott tárolót üzemelteti és az e törvény szerinti biztonsági földgáz készlet tárolására a Hivataltól engedélyt kapott;
-- m) földgáz biztonsági készlet: elsősorban a lakossági fogyasztók földgázellátási biztonságának megőrzése érdekében az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) által meghatározott földgáz mennyiség.
+- m) földgáz biztonsági készlet: a felhasználók földgázellátási biztonságának megőrzése érdekében az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) által meghatározott földgáz mennyiség.
 
 ### A földgáz biztonsági készletezés
 
 3. § (1) A Szövetség köteles az e törvényben meghatározott módon és mértékben földgáz biztonsági készletet létrehozni és fenntartani.
 
-(2) A földgáz biztonsági készletet működésre engedélyezett, műszakilag ellenőrzött, a biztonságtechnikai és környezetvédelmi jogszabályok előírásainak megfelelő, olyan – Magyarország területén lévő – föld alatti tárolótérben kell tárolni, amely alkalmas arra, hogy a készletezett földgáz mennyiségét megőrizze és a felszíni gázelőkészítést követően a szállítóvezetékre való betáplálásra alkalmas minőségben biztosítsa.
+(2) A földgáz biztonsági készletet működésre engedélyezett, műszakilag ellenőrzött, a biztonságtechnikai és környezetvédelmi jogszabályok előírásainak megfelelő, olyan föld alatti tárolótérben kell tárolni, amely alkalmas arra, hogy a készletezett földgáz mennyiségét megőrizze és a felszíni gázelőkészítést követően a szállítóvezetékre való betáplálásra alkalmas minőségben biztosítsa.
 
 (3) Az e törvény hatálya alá tartozó tevékenységeket az élet, az egészség, a környezet és a természet védelmének, a fogyasztóvédelemnek, a műszaki-biztonsági, a kémiai biztonsági, munka-egészségügyi és a minőségbiztosítási előírásokban meghatározott követelményeknek megfelelően kell végezni.
 
-(4) Az e törvény által előírt földgáz biztonsági készlet elsősorban a lakossági fogyasztók biztonságos földgázellátását szolgálja, valamint azon felhasználók ellátását, akik (amelyek) gázfogyasztásukat más energiaforrásból nem tudják pótolni.
+(4) A földgáz biztonsági készlet elsősorban a védett felhasználók ellátását szolgálja.
+
+(5) A (4) bekezdésben foglaltakon túlmenően a földgáz biztonsági készlet felhasználható
+
+- a) szolidaritást kérő másik tagállam szolidaritási alapon védett felhasználói,
+- b) földgázkereskedő lehetetlenülése esetén az érintett felhasználók, valamint
+- c) nem egyetemes szolgáltatásban vételező felhasználók földgázellátási válsághelyzetben történő földgázellátása érdekében.
+
+(6) A védett felhasználót ellátó földgázkereskedő a védett felhasználói kör ellátásával arányos mértékben, valamint a saját jogon eljáró védett felhasználó a saját ellátásával arányos mértékben jogosult – a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés a)–c) pontjában meghatározott esetekben – a földgáz biztonsági készlethez hozzáférni.
+
+3/A. § (1) A Szövetség nemzetközi szerződés alapján más állam felhasználóinak ellátása céljából is készletezhet.
+
+(2) Az (1) bekezdés szerinti nemzetközi szerződésben meg kell határozni, hogy a más állam milyen napi ütemezésben, milyen alkalmi és éves földgázmennyiség mértékéig, milyen visszapótlási feltételekkel és milyen készletezési díj ellenében fér hozzá a földgázkészlethez.
 
 4. § (1) A földgáz biztonsági készletet a miniszter által rendeletben meghatározott olyan biztonsági földgáztárolóban kell elhelyezni, amely a kitárolási kapacitást legalább a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés c) pontjában meghatározott időtartamon belül képes biztosítani.
 
@@ -58,9 +72,9 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 
 (7)
 
-(8) A földgáz biztonsági készlet a Szövetség tulajdonát képezi. A Szövetség jogosult a földgáz biztonsági készletezés céljára földgázt beszerezni (vásárolni), valamint a (3) bekezdés, illetve az 5. § (1) bekezdés szerinti felhasználás esetén földgázt értékesíteni. A Szövetség földgáz beszerzési, illetve földgáz értékesítési kötelezettsége nem minősül a földgázellátásról szóló 2008. évi XL. törvény szerint földgáz kereskedelemnek.
+(8) A földgáz biztonsági készlet a Szövetség tulajdonát képezi. A Szövetség jogosult a földgáz biztonsági készletezés céljára földgázt beszerezni (vásárolni), valamint a (3) bekezdés, illetve az 5. § (1) bekezdés szerinti felhasználás esetén földgázt értékesíteni. A Szövetség földgáz beszerzési, illetve földgáz értékesítési kötelezettsége nem minősül a Get. szerint földgáz kereskedelemnek.
 
-(9) A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) földgáztárolásra és engedélyezésre vonatkozó rendelkezéseit e törvény szerinti eltéréssel kell alkalmazni a földgáz biztonsági készletre a földgáz biztonsági tárolás és a biztonsági földgáz tárolói engedély tekintetében. A biztonsági földgáz tárolóban elhelyezett a földgáz biztonsági készletet meghaladó földgáz készletre a Get. földgáz tárolásra és engedélyezésre vonatkozó szabályait kell alkalmazni.
+(9) A Get. földgáztárolásra és engedélyezésre vonatkozó rendelkezéseit e törvény szerinti eltéréssel kell alkalmazni a földgáz biztonsági készletre a földgáz biztonsági tárolás és a biztonsági földgáz tárolói engedély tekintetében. A biztonsági földgáz tárolóban elhelyezett a földgáz biztonsági készletet meghaladó földgáz készletre a Get. földgáz tárolásra és engedélyezésre vonatkozó szabályait kell alkalmazni.
 
 (10) A földgáz biztonsági készlethez szabad hozzáféréssel kizárólag csak a jogszabályban meghatározottak és csak a jogszabályban meghatározott feltételek fennállása esetén és idején rendelkeznek.
 
@@ -78,13 +92,14 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 
 ### A biztonsági készlet felhasználása
 
-5. § (1) A miniszter a földgáz biztonsági készlet felhasználását – a földgázellátásról szóló törvény szerint a földgázellátási válsághelyzet esetére létrehozott bizottság kezdeményezésére – a földgázellátási válsághelyzet kihirdetése esetén rendeletben engedélyezi.
+5. § (1) A miniszter a földgáz biztonsági készlet felhasználását földgázellátási válsághelyzet elrendelése vagy üzemzavar esetén rendeletben teszi lehetővé.
 
 (2) A miniszter a biztonsági készlet felhasználására vonatkozó rendeletben meghatározza:
 
 - a) a felhasználás engedélyezésének okát és célját,
 - b) a felhasználásra engedélyezett földgáz mennyiségét,
-- c) a felhasznált készletek visszapótlásának rendjét.
+- c) a felhasznált készletek visszapótlásának rendjét,
+- d) az igénybevételre jogosultak körét.
 
 (3) A felhasználásra engedélyezett földgáz árát és az áralkalmazási feltételeket a miniszter rendeletben állapítja meg. Az árat és az áralkalmazási feltételeket úgy kell megállapítani, hogy az megfeleljen
 
@@ -92,6 +107,8 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 - b) a földgáz egyetemes szolgáltatásához kapcsolódó árszabályozás kereteiről szóló mindenkor hatályos miniszteri rendeletben szereplő, a földgáz aktuális árát meghatározó képlet alapján az adott naptári negyedévben számolt ára
 
 közül az eladáskori magasabb értéknek.
+
+(3a) A 3. § (5) bekezdés c) pontja szerinti célból történő készletfelhasználás esetén a (3) bekezdés szerint meghatározott érték harmincszorosát kell megállapítani.
 
 (4) A miniszter a biztonsági készletből történő felhasználás engedélyezése esetén haladéktalanul tájékoztatja a Kormányt és az Európai Bizottságot
 
@@ -235,8 +252,46 @@ vonatkozik.
 
 14. § Ez a törvény a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 994/2010/EU rendelet hatályon kívül helyezéséről szóló, 2017. október 25-i 2017/1938/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-14/A. §
+#### 14/A. §
 
 ### Módosuló jogszabályok
 
-15–34. §
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §

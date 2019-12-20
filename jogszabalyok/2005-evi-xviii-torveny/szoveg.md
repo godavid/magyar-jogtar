@@ -17,7 +17,7 @@ Az Országgyűlés a felhasználók biztonságos, megfelelő minőségű és gaz
 - a) az erőművek távhőtermelő létesítményeire a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.),
 - b) a geotermikus energia távhőszolgáltatás céljára történő kitermelésére szolgáló létesítményre a bányászatról szóló 1993. évi XLVIII. törvény, valamint a vízgazdálkodásról szóló 1995. évi LVII. törvény,
 - c) a (2) bekezdésben felsorolt létesítmények létesítésére és átalakítására a kulturális örökség védelméről szóló 2001. évi LXIV. törvény,
-- d) az erőművek távhőtermelő létesítményeire a földgázellátásról szóló 2008. évi XL. törvény
+- d) az erőművek távhőtermelő létesítményeire a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.)
 
 rendelkezéseivel összhangban kell alkalmazni.
 
@@ -25,7 +25,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (5) E törvény rendelkezései – a 4. § (2)–(3) bekezdésében és az 57/F. §-ban foglaltak kivételével – nem alkalmazhatók
 
-- a) a saját felhasználási célra hőt termelő létesítményre és
+- a) a saját felhasználási célra hőt termelő létesítményre
 - b)
 
 ### Általános követelmények
@@ -73,15 +73,21 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 4. § (1) A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) az e törvény hatálya alá tartozó és hatáskörébe utalt létesítmények és engedélyesek tekintetében
 
-- a) kiadja, módosítja vagy visszavonja a távhőtermelő létesítmény létesítésére vonatkozó engedélyt és a távhőtermelői működési engedélyt, ha a létesítményben a hőenergiát – részben vagy egészben – távhő-szolgáltatási célra termelik, valamint a távhő-szolgáltatói működési engedélyt;
+- a) kiadja, módosítja vagy visszavonja
+  - aa) a távhőtermelői létesítési engedélyt,
+  - ab) a távhőtermelői működési engedélyt,
+  - ac) a távhőtermelői tevékenység megszüntetésére vonatkozó engedélyt,
+  - ad) a távhőtermelő létesítmény megszüntetésére vonatkozó engedélyt,
+  - ae) a távhőszolgáltatói működési engedélyt,
+  - af) a távhőszolgáltatói tevékenység megszüntetésére vonatkozó engedélyt;
 - b) ellenőrzi a távhőtermelő és távhőszolgáltató működési engedélyében előírt követelmények, feltételek betartását, e tekintetben együttműködik a fogyasztóvédelmi hatósággal, továbbá a felhasználói érdekképviseletekkel;
 - c) jóváhagyja az e törvény hatálya alá tartozó engedélyest érintő, a 19. § (1) bekezdése szerinti cégjogi eseményeket, valamint az engedélyesben történő befolyásszerzéseket;
 - d) ellátja az ármegállapítással összefüggő, e törvényben meghatározott feladatokat;
 - e) ellátja a távhőszolgáltatási támogatással összefüggő, e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatokat; és
 - f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a közigazgatás-szervezésért felelős minisztert a hatósági ellenőrzés során tudomására jutott és az 57/D. § (5) bekezdés szerinti kötelező adatszolgáltatás révén rendelkezésére álló adatokról;
-- g) elvégzi a távhőszolgáltató működési területén a felhasználói elégedettségi szint, továbbá a távhőszolgáltatóval szembeni elvárás, valamint a távhőszolgáltatás jellemzőinek felmérését.
+- g) elvégzi, valamint az érintett engedélyesek közreműködésével elvégezteti a távhőszolgáltató működési területén a felhasználói elégedettségi szint, továbbá a távhőszolgáltatóval szembeni elvárás, valamint a távhőszolgáltatás jellemzőinek felmérését.
 
-(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél, a befolyásszerzőnél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
+(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél, a befolyásszerzőnél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben, valamint a Hivatal egyéb határozatában foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
 
 (3) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult a (2) bekezdésben meghatározottaktól eseti és rendszeres információt kérni, jogszabályban vagy hatósági döntésben előírt kötelezettségével, engedélyhez kötött tevékenységével vagy a távhőszolgáltatási támogatással kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is.
 
@@ -169,11 +175,11 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 12. § (1) A távhő termelése és szolgáltatása – teljesítményhatár nélkül – engedélyköteles tevékenység.
 
-(2) Az 5 MW vagy annál nagyobb névleges hőteljesítményű távhőtermelő létesítmény létesítése, bővítése, átalakítása, teljesítményének növelése és csökkentése, tüzelőanyagának megváltoztatása (a továbbiakban együtt: létesítés), továbbá megszüntetése engedélyköteles tevékenység.
+(2) Az 5 MW vagy annál nagyobb névleges hőteljesítményű távhőtermelő létesítmény létesítése, bővítése, átalakítása, teljesítményének növelése vagy csökkentése, tüzelőanyagának megváltoztatása (a továbbiakban együtt: létesítés) engedélyköteles tevékenység, amelyre a Hivatal távhőtermelői létesítési engedélyt ad ki.
 
-(3) A távhőtermelő létesítmény távhőtermelésének tervezett megszüntetése előtt legalább egy évvel az engedélyes engedélyt köteles kérni a megszüntetésre a Hivataltól az érintett önkormányzat egyidejű értesítésével.
+(3) A távhőtermelő létesítmény, a távhőtermelői tevékenység vagy a távhőszolgáltatói tevékenység tervezett megszüntetése előtt legalább egy évvel az engedélyes engedélyt köteles kérni a megszüntetésre a Hivataltól az érintett önkormányzat egyidejű értesítésével.
 
-(4) A távhőtermelő tevékenység megszüntetése megtagadható vagy feltételhez köthető, ha az a távhőszolgáltatás biztonságát, vagy az e törvényben meghatározott ellátási kötelezettség teljesítését veszélyezteti.
+(4) A távhőtermelő létesítmény, a távhőtermelői tevékenység vagy a távhőszolgáltatói tevékenység megszüntetése megtagadható vagy feltételhez köthető, ha az e törvényben meghatározott ellátási kötelezettség teljesítését veszélyezteti.
 
 (5) Az (1) bekezdésben említett távhőtermelői tevékenység és a (2) bekezdésben említett létesítés esetében, ha a telephelyen a távhőtermelő berendezések névleges összes hőteljesítménye az 50 MW-ot nem éri el, egyszerűsített engedélyezési eljárást kell lefolytatni.
 
@@ -181,7 +187,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (7) A (6) bekezdés szerinti esetben a Hivatal az e törvény és a Vet. szerinti engedélyt egy engedélyben adja ki.
 
-13. § (1) A létesítési és működési engedély tartalmi követelményeit, az engedélyezési eljárás szabályait és az engedély kiadásának rendjét a kormány e törvény végrehajtásáról szóló rendeletben határozza meg.
+13. § (1) Az engedély tartalmi követelményeit, az engedélyezési eljárás szabályait és az engedély kiadásának rendjét a kormány e törvény végrehajtásáról szóló rendeletben határozza meg.
 
 (2) A Hivatal az engedély kiadását akkor tagadhatja meg, ha:
 
@@ -194,33 +200,27 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (4)
 
-### A távhőtermelő létesítmény létesítésére
+### A távhőtermelői létesítési engedély és a távhőtermelői működési engedély
 
-és a működésére vonatkozó engedély
+14. § (1) A távhőtermelői létesítési engedély és a távhőtermelői működési engedély iránti kérelmet a Hivatalhoz kell benyújtani. Ha az engedélyeztetni kívánt tevékenység megkezdéséhez környezetvédelmi vagy egységes környezethasználati engedély szükséges, az engedélyt a kérelemhez mellékelni kell.
 
-14. § (1) A távhőtermelő létesítmény létesítéséhez és működéséhez szükséges engedély iránti kérelmet a Hivatalhoz kell benyújtani. Ha az engedélyeztetni kívánt tevékenység megkezdéséhez környezetvédelmi vagy egységes környezethasználati engedély szükséges, az engedélyt a kérelemhez mellékelni kell.
+(2) A távhőtermelői létesítési engedély az engedélyben meghatározott ideig hatályos. Az engedély – kérelemre – egyszer, az engedélyben foglalt időtartammal azonos időtartamra, de legfeljebb további két évre meghosszabbítható. Ha az engedélyes a létesítés megkezdésével vagy folytatásával neki felróható okból késlekedik, és emiatt az eredeti vagy a meghosszabbított határidő nem tartható, az engedély visszavonható.
 
-(2)
+(3) A távhőtermelő létesítmény használatbavétele előtt üzembe helyezési eljárást kell lefolytatni.
 
-(3) A távhőtermelő létesítmény létesítési engedélye az engedélyben meghatározott ideig hatályos. Az engedély – kérelemre – egyszer, a létesítési engedéllyel azonos időtartamra, de legfeljebb további két évre meghosszabbítható. Ha az engedélyes a létesítés megkezdésével vagy folytatásával neki felróható okból késlekedik, és emiatt az eredeti vagy a meghosszabbított határidő nem tartható, az engedély visszavonható.
+15. § (1) Az eredményes üzembe helyezési eljárást követően – kérelemre – távhőtermelői működési engedélyt kell kiadni.
 
-(4) A távhőtermelő létesítmény használatbavétele előtt üzembe helyezési eljárást kell lefolytatni.
+(2) A távhőtermelői működési engedély határozatlan időre szól.
 
-15. § (1) Az eredményes üzembe helyezési eljárást követően – kérelemre – a távhőtermelő létesítményre működési engedélyt kell kiadni.
+### A távhőszolgáltatói működési engedély
 
-(2) A távhőtermelő létesítmény működéséhez szükséges működési engedély határozatlan időre szól.
-
-### A távhő szolgáltatására vonatkozó
-
-működési engedély
-
-16. § (1) A távhő szolgáltatására vonatkozó működési engedélyt a Hivatalnál kell kérelmezni.
+16. § (1) A távhőszolgáltatói működési engedélyt a Hivatalnál kell kérelmezni.
 
 (2) Az engedélyes az üzemeltetésébe adott létesítménnyel a működési engedélyben foglaltaknak megfelelően jogosult az engedélyezett településen vagy településrészen távhőt szolgáltatni.
 
-(3) A távhő szolgáltatására vonatkozó működési engedély határozatlan időre szól.
+(3) A távhőszolgáltatói működési engedély határozatlan időre szól.
 
-17. § Ha a távhő termelésére engedélyt kérő egyúttal távhőszolgáltatásra is kíván működési engedélyt kérni, azt a 16. § előírásainak figyelembevételével, önálló szolgáltatói működési engedélyként kell kérni és kiadni.
+17. § Ha a távhő termelésére engedélyt kérő egyúttal távhőszolgáltatásra is működési engedélyt kér, azt a 16. § előírásainak figyelembevételével, önálló távhőszolgáltatói működési engedélyként kell kérni és kiadni.
 
 ### Az engedélyes kötelezettségei
 
@@ -285,10 +285,13 @@ az éves beszámolója vagy az egyszerűsített éves beszámolója (a továbbia
 
 a távhőellátás fenntartása
 
-20. § (1) A Hivatal a működési engedélyt köteles visszavonni:
+20. § (1) A Hivatal a működési engedélyt visszavonja, ha az engedélyes tevékenységével felhagy vagy a Hivatal erre irányuló felhívása ellenére
 
-- a) ha az engedélyes nem tesz eleget törvényes, illetve a működési engedélyben előírt kötelezettségeinek, vagy tevékenységét megszünteti;
-- b) ha az engedélyes a távhőtermelői vagy a szolgáltatói berendezést felhívás ellenére a távhőszolgáltatás biztonságát, az élet-, az egészség- és a vagyonbiztonságot, a környezetet, továbbá a felhasználói érdekeket súlyosan veszélyeztető módon üzemelteti, illetve a működési engedélyben előírt kötelezettségeinek – erre irányuló felszólítás után – nem tesz eleget.
+- a) törvényben, kormányrendeletben, e törvény végrehajtására kiadott rendeletben, általános hatályú közvetlenül alkalmazandó uniós jogi aktusban vagy a működési engedélyben előírt kötelezettségeinek nem tesz eleget;
+- b) a távhőtermelői vagy a szolgáltatói berendezést a távhőszolgáltatás biztonságát, az élet-, az egészség- és a vagyonbiztonságot, a környezetet, továbbá a felhasználói érdekeket súlyosan veszélyeztető módon üzemelteti, és a működési engedélyben előírt kötelezettségeinek nem tesz eleget;
+- c) a Get. szerinti végső menedékes ellátást biztosító földgázkereskedő kijelölésének kezdőnapjától számított 30. napig nem gondoskodik a távhőtermeléshez szükséges földgáz tüzelőanyag önálló beszerzéséről.
+
+(1a) A távhőtermelő három éven belül legfeljebb egyszer veheti igénybe a Get. szerinti végső menedékes eljárásban kijelölt földgázkereskedő szolgáltatását.
 
 (2) Az engedély visszavonásával egyidejűleg új engedélyt kell kiadni vagy új engedélyest kell kijelölni.
 
@@ -298,7 +301,7 @@ a távhőellátás fenntartása
 
 (5) A (2) bekezdés szerinti esetben a korábbi engedélyes köteles a Hivatal által meghatározott, a folyamatos és biztonságos távhőtermeléshez és szolgáltatáshoz szükséges eszközeit az új vagy kijelölt engedélyesnek ellenszolgáltatás ellenében üzemeltetésre átadni, és a tevékenység gyakorlásához szükséges nyilvántartásokat, adatokat rendelkezésre bocsátani.
 
-(6) Az engedélyes a (2) és (4) bekezdés szerint kijelölt engedélyes részére az érintett felhasználók átvétele, a folyamatos és biztonságos távhőellátásuk biztosításához szükséges felkészülési teendők ellátása céljából továbbítja az érintett felhasználó, valamint díjfizető azonosításához és távhőellátása biztosításához szükséges személyes adatokat. A felhasználó azonosításához szükséges adat természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja. A kijelölt engedélyes az átvett adatokat az átadás-átvételi eljárás lezárultáig kezeli.
+(6) Az engedélyes a (2) bekezdés szerinti új engedélyes vagy a (2) és (4) bekezdés szerint kijelölt engedélyes részére az érintett felhasználók átvétele, a folyamatos és biztonságos távhőellátásuk biztosításához szükséges felkészülési teendők ellátása céljából továbbítja az érintett felhasználó, valamint díjfizető azonosításához és távhőellátása biztosításához szükséges személyes adatokat. A felhasználó azonosításához szükséges adat természetes személy felhasználó esetén neve, lakcíme, anyja neve, születésének helye, születésének időpontja. A kijelölt engedélyes az átvett adatokat az átadás-átvételi eljárás lezárultáig kezeli.
 
 ### IV. Fejezet — JOGOK IDEGEN INGATLANON
 
@@ -697,8 +700,8 @@ meghatározott szerződésszegést követi el.
 57/C. § (1) A távhőszolgáltató honlapján közzéteszi és a Hivatalnak haladéktalanul megküldi
 
 - a) a távhőszolgáltató és a távhőtermelő közötti hővásárlási célú,
-- b) a távhőszolgáltató és a helyi önkormányzat között a helyi önkormányzat területén közszolgáltatás ellátására kötött, és
-- c) a távhőszolgáltató és a helyi önkormányzat közötti hőszolgáltatási célú
+- b) a távhőszolgáltató és a helyi önkormányzat között a helyi önkormányzat területén közszolgáltatás ellátására és az ezzel összefüggésben kötött
+- c)
 
 megállapodásokat.
 
@@ -790,7 +793,8 @@ megállapodásokat.
 - l) a központi fűtés és melegvíz-szolgáltatás feltételeire, a jogviszonyban lévők jogaira, kötelezettségeire, a szolgáltatás díjának megállapítására vonatkozó szabályokat,
 - m) a fűtési célra és a használati melegvíz készítéséhez felhasznált hőmennyiség és díjának épületrészek közötti megosztására szolgáló szétosztási arányok meghatározására, valamint a hőmennyiségmérők és a költségmegosztók alkalmazására vonatkozó szabályokat;
 - n) a folyamatos távhőellátás fenntartása érdekében történő kijelölési eljárásra, a kijelöléssel érintettek jogaira és kötelezettségeire, a kijelölés következtében fizetendő ellenszolgáltatásra és az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat (20. §);
-- o) a közszolgáltatási szerződés felmondása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit.
+- o) a közszolgáltatási szerződés felmondása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit;
+- p) a cégjogi események és befolyásszerzés engedélyezésének részletes szabályait és a benyújtandó kérelem formai és tartalmi követelményeit.
 
 (2) Az miniszter rendeletben
 

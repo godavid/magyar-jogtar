@@ -1278,7 +1278,7 @@ aki a tevékenységére, továbbá a hites bányamérő tekintetében a bányat�
 
 42/V. § (1) A bányafelügyelet a határokon átnyúló ügyekben a többi tagállam hatóságaival és szakmai szervezeteivel – a hatályos jogszabályok előírásainak figyelembevételével – együttműködik, a többi tagállam hatóságainak kérésére a 2009/31/EK európai parlamenti és tanácsi irányelv szerinti feladataik ellátásához szükséges, személyes adatnak nem minősülő adatokat rendelkezésre bocsátja, és ezektől a szervezetektől a saját feladatai ellátásához szükséges adatokat, információkat kérhet.
 
-(2) A miniszter a 2009/31/EK európai parlamenti és tanácsi irányelv magyarországi végrehajtásáról és a bányafelügyelet által vezetett nyilvántartásról háromévente jelentést küld az Európai Bizottságnak.
+(2) A miniszter a 2009/31/EK európai parlamenti és tanácsi irányelv magyarországi végrehajtásáról és a bányafelügyelet által vezetett nyilvántartásról négyévente jelentést küld az Európai Bizottságnak.
 
 ### Jogkövetkezmények
 
@@ -1856,3 +1856,5 @@ rendeletben történő megállapítására.
 - b) az Európai Parlament és a Tanács 2009. július 13-i 2009/73/EK irányelve a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről;
 - c) az Európai Parlament és a Tanács 2006. március 15-i 2006/21/EK irányelve az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról (3. cikk 3., 6. és 8. pontja, 7. cikk, 11–12. cikk, 14. és 19. cikk), a törvény 1. §-a, 2. §-a, 16. §-a, 19. §-a, valamint a 41. § (1) bekezdés d) pontja, 43/B. § (6) bekezdés e) pontja, 44. § (1) bekezdés n) pontja, 49. § 4., 6., 8. és 43. pontja, 50/A. § (2) bekezdés m) pontja;
 - d) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv.
+
+52. § E törvény 42/V. § (2) bekezdése az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK, a 2009/73/EK, a 2010/31/EU, a 2012/27/EU és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i 2018/1999/EU európai parlamenti és tanácsi rendelet 48. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
