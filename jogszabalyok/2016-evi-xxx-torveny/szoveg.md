@@ -78,12 +78,20 @@ megismerése nem korlátozható.
 - 25. interoperabilitás: együttalkalmazhatóság, amely a technikai rendszerek vagy egységek azon képessége, hogy más rendszereknek vagy egységeknek szolgáltatást nyújtsanak, illetve azoktól szolgáltatást fogadjanak,
 - 26. „írásbeli” vagy „írásban”: a beszerzési eljárás során tett nyilatkozatok, illetve eljárási cselekmények tekintetében bármely, szavakból vagy számjegyekből álló kifejezés, amely olvasható, reprodukálható, majd közölhető, ideértve az elektronikus úton továbbított és tárolt adatokat is,
 - 27. írásbeli konzultáció: keretmegállapodásos eljárásban folytatható írásbeli egyeztetés a külön jogszabályban meghatározott feltételek összességéről,
+- 27a. járulékos beszerzési szolgáltatás: beszerzési eljárás lefolytatásához nyújtott támogatási tevékenység, így különösen
+  - a) beszerzési eljárások lefolytatását, valamint keretmegállapodások megkötését az ajánlatkérő számára lehetővé tevő műszaki infrastruktúra rendelkezésre bocsátása,
+  - b) beszerzési eljárások lefolytatásával vagy tervezésével kapcsolatos tanácsadás, valamint
+  - c) beszerzési eljárások előkészítése és lefolytatása az érintett ajánlatkérő nevében és javára,
 - 28. jegyzék: az e törvény szerinti biztonsági beszerzési eljárásokban kötelezően érvényesítendő biztonsági követelményeknek megfelelő gazdasági szereplőknek az Alkotmányvédelmi Hivatal (a továbbiakban: AH) által vezetett listája,
 - 29. katonai célú építési beruházás: a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, illetve e minisztérium, továbbá az e minisztérium közvetlen alárendeltségébe tartozó szervezetek, a honvédelemért felelős miniszter irányítása alatt álló központi hivatalok, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézmény, a Katonai Nemzetbiztonsági Szolgálat, valamint a Magyar Honvédség katonai szervezetei használatában lévő épületen, építményen, építményrészen, építményegyüttesen és ingatlanon – ideértve az ingatlanokhoz közvetlenül tartozó nyomvonal jellegű építményeket is –, valamint Magyarország területének a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló 562/2006/EK rendelet 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított, az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdésében meghatározott szélességű sávjában, az ott megjelölt célok megvalósítása érdekében megvalósuló építési beruházás, amelynek megvalósítása egészben hazai költségvetési forrásból történik,
 - 30. keretmegállapodás: egy vagy több ajánlatkérő és egy vagy több ajánlattevő között létrejött olyan megállapodás, amelynek célja, hogy rögzítse egy adott időszakban beszerzésekre irányuló, egymással meghatározott módon kötendő szerződések lényeges feltételeit, különösen az ellenszolgáltatás mértékét, és ha lehetséges, az előirányzott mennyiséget,
 - 31. kérelmi elem: a Közbeszerzési Döntőbizottsághoz benyújtott jogorvoslati kérelemnek az az elkülöníthető része, amely tartalmazza a jogsértőnek vélt kérelmezetti eljárási cselekményt, magatartást, döntést vagy mulasztást a megsértett jogszabályi rendelkezések megjelölésével, valamint a Közbeszerzési Döntőbizottság döntésére irányuló indítványt és annak indokait, azzal, hogy a kérelmező részvételi jelentkezésének vagy ajánlatának érvénytelenségét megállapító ajánlatkérői döntés vitatása egy kérelmi elemet képez, kivéve, ha valamely érvénytelenségi okhoz egyéb jogkövetkezmény is fűződik,
 - 32. kiemelt alvállalkozó: az az alvállalkozó, aki a teljesítése során „Korlátozott terjesztésű” adatot vagy annál magasabb minősítésű adatot kezel,
 - 33. közös műszaki leírás: olyan műszaki leírás, amelyet a tagállamok által elismert eljárásnak megfelelően állapítottak meg, és az Európai Unió Hivatalos Lapjában közzétettek,
+- 33a. központi beszerző szerv: a központosított beszerzés során ajánlatkérésre feljogosított szervezet,
+- 33b. központosított beszerzés: a központi beszerző szerv által állandó jelleggel ellátott olyan tevékenység, amelynek célja
+  - a) áruk vagy szolgáltatások megrendelése az e törvény szerinti ajánlatkérők számára való továbbértékesítés céljából, valamint
+  - b) az e törvény szerinti ajánlatkérők számára áruk beszerzésére, szolgáltatások vagy építési beruházások megrendelésére irányuló szerződések vagy keretmegállapodások megkötése,
 - 34. kutatás és fejlesztés: alap- és alkalmazott kutatásokat, valamint kísérleti fejlesztéseket magában foglaló minden olyan tevékenység, ahol az utóbbi tevékenység technológiai prototípusok, azaz valamely új koncepció vagy technológia teljesítményének a releváns vagy reprezentatív környezetben történő bemutatására szolgáló eszköz megvalósítására is kiterjed,
 - 35. meghatározó befolyást képes gyakorolni az a szervezet, amely az alábbi feltételek közül legalább eggyel rendelkezik egy másik szervezet tekintetében:
   - a) vagyoni hozzájárulása, illetve részvénytársaság esetében a tulajdonában lévő részvények névértéke meghaladja a jegyzett tőke felét,
@@ -145,8 +153,9 @@ megismerése nem korlátozható.
 
 - a) a minisztérium,
 - b) az állam, valamennyi költségvetési szerv, a közalapítvány, a helyi önkormányzat, a helyi és országos nemzetiségi önkormányzat, a helyi és nemzetiségi önkormányzatok társulása, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács,
-- c) a 7. § (1) bekezdés 15–17. pontja szerinti jogi személyek, és
-- d) az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy e szervezet felett az a)–c) pontban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet, testület finanszírozza.
+- c) a 7. § (1) bekezdés 15–17. pontja szerinti jogi személyek,
+- d) az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy e szervezet felett az a)–c) pontban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet, testület finanszírozza, valamint
+- e) a központi beszerző szerv.
 
 #### 6. Kivételek
 
@@ -168,7 +177,8 @@ megismerése nem korlátozható.
 - 14. a NATO Biztonsági Beruházási Program vagy egyéb közös finanszírozású, a NATO által támogatott program keretében megvalósuló beszerzésekre,
 - 15. az ajánlatkérő olyan jogi személlyel kötött szerződésére, amely felett az ajánlatkérő a saját szervezeti egységei felettihez hasonló irányítást gyakorol, döntő befolyással rendelkezik annak stratégiai céljai meghatározásában és működésével kapcsolatos jelentős döntéseinek meghozatalában, valamint amelyben közvetlen magántőke részesedés nincsen, és amely éves nettó árbevételének több mint 80%-a az irányítást gyakorló ajánlatkérővel, vagy az ajánlatkérő által e pont szerint irányított más jogi személlyel kötött vagy kötendő szerződések teljesítéséből származik,
 - 16. az ajánlatkérő olyan jogi személlyel kötött szerződésére, amely felett az ajánlatkérő más ajánlatkérőkkel közösen a saját szervezeti egységei felettihez hasonló irányítást gyakorol, az ajánlatkérők közösen döntő befolyással rendelkeznek annak stratégiai céljai meghatározásában és működésével kapcsolatos jelentős döntéseinek meghozatalában, valamint amelyben közvetlen magántőke-részesedés nincsen, és amely éves nettó árbevételének több mint 80%-a az irányítást gyakorló ajánlatkérővel, ajánlatkérőkkel, vagy az ajánlatkérő által e pont szerint irányítottak más jogi személlyel kötött vagy kötendő szerződések teljesítéséből származik, valamint
-- 17. az ajánlatkérő másik ajánlatkérővel vagy ajánlatkérőkkel kötött szerződésére, amelynek célja közfeladatok teljesítésére, illetve közszolgáltatások nyújtására vagy közös közérdekű célok megvalósítására irányuló együttműködés kialakítása az ajánlatkérők között, ahol az ajánlatkérők együttműködéssel érintett tevékenységéből származó éves nettó árbevételének legfeljebb 20%-a származik a nyílt piacról.
+- 17. az ajánlatkérő másik ajánlatkérővel vagy ajánlatkérőkkel kötött szerződésére, amelynek célja közfeladatok teljesítésére, illetve közszolgáltatások nyújtására vagy közös közérdekű célok megvalósítására irányuló együttműködés kialakítása az ajánlatkérők között, ahol az ajánlatkérők együttműködéssel érintett tevékenységéből származó éves nettó árbevételének legfeljebb 20%-a származik a nyílt piacról,
+- 18. a központi beszerző szerv által központosított beszerzés útján beszerzett áru, szolgáltatás vagy építési beruházás megrendelésére azon szervezetek részéről, amelyek javára a központi beszerző szerv beszerzési szerződést kötött, valamint a központi beszerző szerv által nyújtott járulékos beszerzési szolgáltatások megrendelésére.
 
 (2) Az (1) bekezdés 6. pontja szerinti esetben az ajánlatkérő tájékoztatja az Európai Bizottságot (a továbbiakban: Bizottság) a kutatási és fejlesztési kiadásoknak a program teljes költségéhez képest számított arányáról, a költségmegosztási megállapodásról, valamint a beszerzések megosztása esetén a lefolytatni tervezett beszerzések arányáról.
 
@@ -271,6 +281,16 @@ tulajdonában, vagy az a)–j) pont szerinti személlyel közös háztartásban 
 (3) A (2) bekezdés a) pontja szerinti információkat a közösen megvalósított beszerzési eljárás ajánlatkérői dokumentumaiban is fel kell tüntetni.
 
 (4) Az ajánlatkérő a beszerzés megvalósítása érdekében igénybe veheti az Európai Unió más tagállamaival kötött megállapodás alapján központi beszerző szervnek kinevezett európai köztestületek szolgáltatásait, feltéve, hogy ezen szervek olyan beszerzési szabályokat alkalmaznak a beszerzésekre, amelyek megfelelnek ezen törvény valamennyi rendelkezésének.
+
+#### 10/A. A központosított beszerzés
+
+13/A. § A Kormány a beszerzések központosított beszerzés keretében történő lefolytatását rendelheti el
+
+- a) az államháztartásról szóló törvény szerinti, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv vonatkozásában,
+- b) az általa alapított vagy alapítói joggyakorlása alá tartozó alapítványok és közalapítványok vonatkozásában, valamint
+- c) – a Magyar Nemzeti Bank és a Magyar Nemzeti Banknak a Ptk. 8:2. §-a szerinti többségi befolyása vagy közvetett befolyása alatt álló gazdasági társaság kivételével – azon állami tulajdonú gazdasági társaság vonatkozásában, amely felett az állam többségi befolyással, vagy közvetett befolyással rendelkezik,
+
+meghatározva a központosított beszerzés személyi feltételeit és tárgyát, az ajánlatkérésre feljogosított szervezetet, a központosított beszerzés részletes – az e törvénytől eltérő, az ilyen beszerzések sajátosságai miatt szükséges – szabályait, valamint a központosított beszerzéshez való csatlakozás lehetőségét és feltételeit.
 
 #### 11. Fenntartott szerződések
 
@@ -2430,8 +2450,11 @@ alkalmazni kell azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon
 
 172. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-- a) az Európai Unió közös katonai listájával összhangban az 1. mellékletben meghatározott kategóriák részletes paramétereinek meghatározásával az e törvény hatálya alá tartozó haditechnikai eszközöket és szolgáltatásokat, és
-- b) a 7. § (1) bekezdés 4. pontja szerinti beszerzések e törvény hatálya alóli Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételeket és eljárást, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményeket.
+- a) az Európai Unió közös katonai listájával összhangban az 1. mellékletben meghatározott kategóriák részletes paramétereinek meghatározásával az e törvény hatálya alá tartozó haditechnikai eszközöket és szolgáltatásokat,
+- b) a 7. § (1) bekezdés 4. pontja szerinti beszerzések e törvény hatálya alóli Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételeket és eljárást, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményeket, valamint
+- c) az államháztartásról szóló törvény szerinti, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, az általa alapított vagy alapítói joggyakorlása alá tartozó alapítványok, valamint közalapítványok, továbbá – a Magyar Nemzeti Bank és a Magyar Nemzeti Banknak a Ptk. 8:2. §-a szerinti többségi befolyása, vagy közvetett befolyása alatt álló gazdasági társaság kivételével – azon gazdasági társaság vonatkozásában, amely felett az állam a Ptk. 8:2. §-a szerinti többségi befolyással, vagy közvetett befolyással rendelkezik, a központosított beszerzés személyi feltételeit és tárgyát, a központosított beszerzés során ajánlatkérésre feljogosított szervezetet, a központosított beszerzés részletes szabályait, a központosított beszerzéshez való csatlakozás lehetőségét illetve feltételeit, valamint a központosított beszerzés végrehajtására vonatkozó szerződés különös szabályait, továbbá a központosított beszerzés költségei viselésének módját és szabályait.
+
+(1a) Felhatalmazást kap a Kormány, hogy a központi beszerző szervet rendeletben kijelölje.
 
 (2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben jelölje ki az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott hirdetmények védelmi és biztonsági beszerzések tekintetében alkalmazandó körét, valamint meghatározza azok feladásának és közzétételének szabályait, a hirdetmények egyes kiegészítő tartalmi elemeit, a bírálati összegezések mintáit, a beszerzések éves statisztikai összegezésére vonatkozó szabályokat.
 

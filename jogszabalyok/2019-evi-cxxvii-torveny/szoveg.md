@@ -222,47 +222,9 @@ lép.
 
 #### 44. Az Alkotmánybíróságról szóló 2011. évi CLI. törvény módosítása
 
-55. § (1) Az Alkotmánybíróságról szóló 2011. évi CLI. törvény (a továbbiakban: Abtv.) 10. §-a a következő (1a) bekezdéssel egészül ki:
+55. §
 
-„(1a) Az Alkotmánybíróság tagjával kapcsolatban bírói tisztsége miatt összeférhetetlenség nem áll fenn.”
-
-(2) Az Abtv. a következő 10/A. §-sal egészül ki:
-
-„10/A. § Az Alkotmánybíróság tagja kérelmezheti – az Alkotmánybíróság elnöke útján – a köztársasági elnöknél a bíróvá történő kinevezését. A kérelemről az Alkotmánybíróság elnöke – annak a köztársasági elnökhöz történő továbbításával egyidejűleg – tájékoztatja az Országos Bírósági Hivatal elnökét.”
-
-(3) Az Abtv. 27. §-a helyébe a következő rendelkezés lép:
-
-„27. § (1) Az Alaptörvény 24. cikk (2) bekezdés d) pontja alapján alaptörvény-ellenes bírói döntéssel szemben az egyedi ügyben érintett személy vagy szervezet alkotmányjogi panasszal fordulhat az Alkotmánybírósághoz, ha az ügy érdemében hozott döntés vagy a bírósági eljárást befejező egyéb döntés
-
-a) az indítványozó Alaptörvényben biztosított jogát sérti vagy hatáskörét az Alaptörvénybe ütközően korlátozza, és
-
-b) az indítványozó a jogorvoslati lehetőségeit már kimerítette, vagy jogorvoslati lehetőség nincs számára biztosítva.
-
-(2) Jogállásától függetlenül érintettnek minősül az a személy vagy szervezet,
-
-a) aki (amely) a bíróság eljárásában fél volt,
-
-b) akire (amelyre) a döntés rendelkezést tartalmaz, vagy
-
-c) akinek (amelynek) jogára, kötelezettségére, magatartása jogszerűségére a bíróság döntése kiterjed.
-
-(3) Közhatalmat gyakorló indítványozó esetén vizsgálni kell, hogy a panaszában megjelölt, Alaptörvényben biztosított jog megilleti-e.”
-
-(4) Az Abtv. 55. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Közhatalmat gyakorló indítványozó hatásköre korlátozását kifogásoló indítványának érdemi elbírálására csak akkor kerül sor, ha a támadott döntés az indítványozó
-
-a) működésének súlyos zavarát eredményezi, vagy
-
-b) valamely, Alaptörvényben foglalt hatáskörét sérti.”
-
-(5) Az Abtv. 69. §-a a következő (10) és (11) bekezdéssel egészül ki:
-
-„(10) Az Alkotmánybíróság az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépésekor hivatalban lévő tagja – ha még nem töltötte be az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt – kérelmezheti – az Alkotmánybíróság elnöke útján – a köztársasági elnöknél bíróvá történő kinevezését. A kérelemről az Alkotmánybíróság elnöke – annak a köztársasági elnökhöz történő továbbításával egyidejűleg – tájékoztatja az Országos Bírósági Hivatal elnökét.
-
-(11) Az Alkotmánybíróság 2020. január 1-jén hivatalban lévő elnöke a megbízatása megszűnéséig jogosult – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre.”
-
-56. § Hatályát veszti az Abtv. 19. § (2) bekezdése.
+56. §
 
 #### 45. A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény módosítása
 
@@ -351,9 +313,7 @@ lép.
 
 #### 46. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-91. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény (a továbbiakban: Bjt.) 3. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Ha az Alkotmánybíróság tagja az Alkotmánybíróságról szóló törvény szerint kérelmezte bíróvá történő kinevezését, őt a köztársasági elnök pályázat kiírása nélkül határozatlan időre bíróvá kinevezi.”
+91. §
 
 92. §
 
@@ -381,13 +341,7 @@ lép.
 
 104. §
 
-105. § (1) A Bjt. 40. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A bíró nem lehet választottbíróság tagja, kivéve az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelv alapján létrehozott és az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény III/A. Fejezete szerint létrehozott tanácsadó bizottsági tagságot.”
-
-(2) A Bjt. 40. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A bíróval kapcsolatban az alkotmánybírói tisztsége miatt összeférhetetlenség nem áll fenn.”
+105. §
 
 106. §
 
@@ -415,25 +369,11 @@ lép.
 
 118. §
 
-119. § (1) A Bjt. 88. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A bíró szolgálati viszonya – a 96. § (3) bekezdésében foglalt eset kivételével –, ha
-
-a) a bírót az Országgyűlés az Alkotmánybíróság tagjává választotta, a hivatalba lépésétől az Alkotmánybíróságban betöltött tagsága megszűnéséig,
-
-b) a 3. § (4a) bekezdés szerint jön létre, a kinevezésétől az Alkotmánybíróságban betöltött tagsága megszűnéséig
-
-szünetel.”
-
-(2) A Bjt. 88. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A szolgálati viszony (1a) bekezdés szerinti szünetelését követően a Kúria elnöke a bírót a Kúriára osztja be.”
+119. §
 
 120. § (1)
 
-(2) A Bjt. 96. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Ha a bíró szolgálati viszonya a 88. § (1a) bekezdés alapján szünetel, és ez alatt betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt, a felmentésére vonatkozó javaslatot – az OBH elnökének egyidejű értesítése mellett – az Alkotmánybíróság elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.”
+(2)
 
 121. §
 
@@ -477,31 +417,17 @@ szünetel.”
 
 (2)
 
-140. § A Bjt. 206. § (1) bekezdése a) pontja helyébe a következő rendelkezés lép:
-
-(Az ellenőrzés célja a vagyongyarapodás okának megállapítása. Az OBT vagy az általa kijelölt tagja)
-
-„a) a bírót, a vele közös háztartásban élő hozzátartozót, valamint más személyeket – arról való tájékoztatásuk mellett, hogy nem kötelesek a kérdésekre válaszolni – meghallgathatja,”
+140. §
 
 141. §
 
 142. §
 
-143. § (1) A Bjt. a következő 232/L. és 232/M §-sal egészül ki:
-
-„232/L. § Ha a bírót az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépését megelőzően választotta meg az Országgyűlés az Alkotmánybíróság tagjává, de még az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépésekor nem lépett hivatalba, az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított 88. § (1a) bekezdése akként alkalmazandó, hogy a bíró szolgálati viszonya a hivatalba lépésétől – a 96. § (3) bekezdésében foglalt eset kivételével – az Alkotmánybíróságon betöltött tagsága megszűnéséig szünetel.
-
-232/M. § A Kúria 2020. január 1-jén hivatalban lévő elnöke a megbízatása megszűnéséig jogosult – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre.”
+143. § (1)
 
 (2)
 
-144. § A Bjt. 233. §-a a következő g) ponttal egészül ki:
-
-(E törvény)
-
-„g) 40. § (5) bekezdése az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való”
-
-(megfelelést szolgálja.)
+144. §
 
 145. §
 
@@ -519,15 +445,15 @@ lép.
 
 (2) A Bjt.
 
-- a) 8. § (1) bekezdés a) pontjában a „(4)” szövegrész helyébe a „(4) és (4a)” szöveg,
-- b) 237. § (1) bekezdésében a „továbbá” szövegrész helyébe a „232/L–232/M. §-a, továbbá” szöveg,
+- a)
+- b)
 - c)
 
 lép.
 
 147. § (1)
 
-(2) Hatályát veszti a Bjt. 154. §-a.
+(2)
 
 (3)
 
@@ -541,17 +467,11 @@ lép.
 
 150. § (1)
 
-(2) Az Üjt. 18. § (4) bekezdése helyébe a következő rendelkezés lép:
+(2)
 
-„(4) A legfőbb ügyész pályázat útján tölti be a kinevezési jogkörébe tartozó magasabb vezető állású és vezető állású ügyészi munkaköröket, továbbá a legfőbb ügyészségi és a fellebbviteli főügyészségi ügyészi munkaköröket. A legfőbb ügyész – a legfőbb ügyész helyettesi állás kivételével – más állás pályázat útján történő betöltését is elrendelheti. A 14. § (2) bekezdés d) és e) pontjában, a 23. § (1), (3) és (5) bekezdésében, a 24. § (3) és (5) bekezdésében, a 25. § (2) és (4) bekezdésében, a 29. § (3) bekezdésében, a 30. § (4) bekezdésében és a 31. § (5) bekezdésében, valamint a 36. § (4) és (8) bekezdésében meghatározott esetben a felajánlott állás pályázat nélkül tölthető be.”
+(3)
 
-(3) Az Üjt. 22. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a legfőbb ügyész megbízatása az (1) bekezdés a) pontja alapján szűnt meg, a legfőbb ügyészi jogköröket az új legfőbb ügyész megbízatása kezdetéig gyakorolja.”
-
-(4) Az Üjt. 23. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A 22. § (1) bekezdés e)–j) pontjában meghatározott esetekben a legfőbb ügyész ügyészségi szolgálati viszonya is megszűnik.”
+(4)
 
 (5)
 
@@ -575,8 +495,8 @@ lép.
 
 154. § Hatályát veszti az Üjt.
 
-- a) 22. § (1) bekezdés d) pontja,
-- b) 23. § (8) bekezdése,
+- a)
+- b)
 - c)
 
 #### 49.
@@ -740,19 +660,9 @@ lép.
 
 #### 71. A közigazgatási perrendtartásról szóló 2017. évi I. törvény módosítása
 
-202. § (1) A közigazgatási perrendtartásról szóló 2017. évi I. törvény (a továbbiakban: Kp.) 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+202. §
 
-„(2) A vitatott tevékenység akkor lehet közigazgatási jogvita tárgya, ha bármely a közigazgatási tevékenységgel közvetlenül érintett fél a vitatott tevékenységgel szemben jogszabály által biztosított közigazgatási jogorvoslatot kimerítette, vagy a pert jogszabály előírása miatt más közigazgatási eljárás előzte meg.”
-
-(2) A Kp. 4. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Egyedi ügyben alkalmazandó általános hatályú rendelkezés azzal az egyedi döntéssel együtt lehet közigazgatási jogvita tárgya, amelynek a megvalósítása során azt alkalmazták. Egyedi ügyben alkalmazandó általános hatályú rendelkezés akkor lehet közigazgatási jogvita önálló tárgya, ha azt a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv, ennek hiányában az ügyész indítványozza.”
-
-203. § A Kp. 5. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) A bíróság közszolgálati jogviszonnyal kapcsolatos jogvitát közigazgatási perben bírálja el. E törvény közigazgatási szervre vonatkozó szabályait a munkáltató szervre, a közigazgatási cselekményre vonatkozó szabályokat a közszolgálati jogviszonnyal kapcsolatos döntésre és intézkedésre alkalmazni kell. A Közszolgálati Döntőbizottság eljárása nem minősül megelőző eljárásnak.
-
-(5) A bíróság a közigazgatási szerződéses jogviszonnyal kapcsolatos jogvitát közigazgatási perben bírálja el.”
+203. §
 
 204. §
 
@@ -762,11 +672,7 @@ lép.
 
 207. §
 
-208. § A Kp. 17. §-a a következő f) ponttal egészül ki:
-
-(A per megindítására jogosult)
-
-„f) a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv vagy az ügyész, ha általános hatályú rendelkezés megsemmisítését indítványozza.”
+208. §
 
 209. §
 
@@ -792,19 +698,7 @@ lép.
 
 220. §
 
-221. § (1) A Kp. 89. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a bíróság a jogsértést – a kereset alapján vagy hivatalból – megállapítja,
-
-a) a közigazgatási cselekményt megváltoztatja, megsemmisíti, hatályon kívül helyezi, illetve az általános hatályú rendelkezésnek az ügyben való alkalmazását kizárja,
-
-b) szükség esetén a közigazgatási cselekmény megsemmisítése, hatályon kívül helyezése, illetve az általános hatályú rendelkezés ügyben való alkalmazásának kizárása mellett a közigazgatási szervet új eljárásra kötelezi,
-
-c) a közigazgatási szervet marasztalja.”
-
-(2) A Kp. 89. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az általános hatályú rendelkezés megsemmisítésének vagy hatályon kívül helyezésének csak akkor van helye, ha azt a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv, ennek hiányában az ügyész indítványozta.”
+221. §
 
 222. §
 
@@ -840,7 +734,7 @@ c) a közigazgatási szervet marasztalja.”
 
 238. § A Kp.
 
-- 1. 4. § (1) bekezdésében a „cselekményének” szövegrész helyébe a „(3) bekezdés szerinti cselekményének” szöveg,
+- 1.
 - 2.
 - 3.
 - 4.
@@ -863,8 +757,8 @@ lép.
 
 239. § Hatályát veszti a Kp.
 
-- a) 4. § (3) bekezdés b) pontja,
-- b) 4. § (8) bekezdése,
+- a)
+- b)
 - c)
 - d)
 - e)
