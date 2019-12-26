@@ -846,7 +846,7 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 ### Fióktelep és határon átnyúló szolgáltatás felügyelete
 
-56. § Más EGT-államban pénzforgalmi szolgáltatás nyújtására jogosult pénzforgalmi szolgáltató Magyarország területén létesített fióktelepe által végzett tevékenység esetében a Felügyelet hatáskörében ellenőrzi a II–IX. Fejezetben foglalt rendelkezések betartását.
+56. § Más EGT-államban pénzforgalmi szolgáltatás nyújtására jogosult pénzforgalmi szolgáltató Magyarország területén létesített fióktelepe által végzett tevékenység esetében a Felügyelet hatáskörében ellenőrzi a II–IX/A. Fejezetben foglalt rendelkezések betartását.
 
 57. § Ha a Felügyelet Magyarország területén más EGT-államban pénzforgalmi szolgáltatás nyújtására jogosult pénzforgalmi szolgáltató határon átnyúló tevékenysége tekintetében jogszabályban foglalt rendelkezés megsértését tapasztalja, értesíti a pénzforgalmi szolgáltató székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
 

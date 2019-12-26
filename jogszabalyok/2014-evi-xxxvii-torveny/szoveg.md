@@ -119,7 +119,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 (2) A szanálási feladatkörében eljáró MNB adott intézmény vonatkozásában az intézmény tevékenységének jellegéből, részvényesi struktúrájából, jogi formájából, kockázati profiljából, méretéből és jogállásából, más intézményekkel vagy a pénzügyi közvetítőrendszer egészével való összefonódottságából, tevékenységeinek kiterjedéséből és komplexitásából, intézményvédelmi rendszerben vagy az 575/2013/EU rendelet 113. cikk (7) bekezdésében említett egyéb kölcsönös szolidaritási rendszerekben való tagságából, valamint a Bszt. 5. §-ban meghatározott befektetési szolgáltatások vagy tevékenységek végzéséből kifolyólag gyakorolt esetleges hatásokra, és attól függően, hogy fizetésképtelensége és azt követő, rendes fizetésképtelenségi eljárással történő felszámolása valószínűsíthetően jelentősen negatív hatással járna-e a pénzügyi piacokra, más intézményekre, a finanszírozási feltételekre, vagy a tágabb gazdaságra, – szükség esetén a makroprudenciális feladatkörében eljáró MNB-vel történt egyeztetést követően – jogosult meghatározni:
 
 - a) a 4–10. §-ban meghatározott szanálási tervek tartalmát és részleteit,
-- b) a szanálási tervek elkészítésének ütemezését és aktualizálásuk gyakoriságát, amely rövidebb lehet az e törvényben meghatározott mértékeknél,
+- b) a szanálási tervek elkészítésének ütemezését és aktualizálásuk gyakoriságát, amely egyszerűsített követelmények alkalmazása esetén ritkább lehet az e törvényben meghatározott mértékeknél,
 - c) az intézmények által a 6. § (1) bekezdése alapján szolgáltatandó adatok körét és az adatok részletezettségét,
 - d) a szanálhatóság 10. § és 13. §, valamint a 2. melléklet szerinti értékelésének részletességét.
 
@@ -229,7 +229,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 
 9. § (1) A 8. § szerinti eljárás többoldalú eljárás és a meghozott határozat többoldalú eljárás keretében hozott határozat. A szanálási feladatkörében eljáró MNB – mint a csoportszintű szanálási hatóság – a részletes indokolást is tartalmazó határozatát közli a többoldalú eljárásban részt vevő valamennyi EGT-állam illetékes szanálási hatóságával és az EU-szintű anyavállalattal.
 
-(2) Csoportszintű szanálási hatóságként a szanálási feladatkörében eljáró MNB a többoldalú eljárás keretében csak valamennyi, az eljárásban részt vevő EGT-állam illetékes szanálási hatósága egyetértésével hozhat érvényes határozatot – az (1) bekezdésben említett többoldalú eljárás keretében hozott határozatot –, amely határozat meghozatalának határideje a szanálási feladatkörében eljáró MNB határozatot megalapozó jelentésnek (a továbbiakban: jelentés) az eljárásban részt vevő illetékes szanálási hatóságok részére történő megküldésétől számított négy hónap.
+(2) Csoportszintű szanálási hatóságként a szanálási feladatkörében eljáró MNB a többoldalú eljárás keretében csak valamennyi, az eljárásban részt vevő EGT-állam illetékes szanálási hatósága egyetértésével hozhat érvényes határozatot – az (1) bekezdésben említett többoldalú eljárás keretében hozott határozatot –, amely határozat meghozatalának határideje az együttes döntés meghozatalához szükséges valamennyi információnak az eljárásban részt vevő illetékes szanálási hatóságok részére történő megküldésétől számított négy hónap.
 
 (3) Ha az eljárásban részt vevő EGT-állam illetékes szanálási hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor a (2) bekezdésben rögzített határidőn belül az eljárásban részt vevő bármelyik EGT-állam illetékes szanálási hatósága kérésére a szanálási feladatkörében eljáró MNB az EBH-val a többoldalú eljárás eredménytelensége vonatkozásában egyeztetést köteles folytatni vagy saját kezdeményezésére egyezetést folytathat, kivéve a (6) bekezdésben említett esetet.
 
@@ -246,13 +246,13 @@ azzal, hogy a határozatáról a szanálási kollégium valamennyi tagját érte
 
 (7) A (6) bekezdés vonatkozásában, ha a leányvállalat szanálási hatósága a szanálási feladatkörében eljáró MNB, akkor kezdeményezi a (6) bekezdés szerinti eljárást a csoportszintű szanálási hatóságnál.
 
-(8) Ha a szanálási feladatkörében eljáró MNB a (3) bekezdés szerinti egyeztetést folytat az EBH-val, akkor a (2) bekezdéstől eltérően a határozat meghozatalának határideje az EBH-nak az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdése szerinti határozatnak a Felügyelet részére történő átadását követő tíz munkanap.
+(8) Ha a szanálási feladatkörében eljáró MNB a (3) bekezdés szerinti egyeztetést folytat az EBH-val, akkor a (2) bekezdéstől eltérően a határozat meghozatalának határideje az EBH-nak az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdése szerinti határozatnak a szanálási feladatkörében eljáró MNB részére történő átadását követő egy hónap.
 
 (9) A szanálási feladatkörében eljáró MNB – a (6) és (7) bekezdésre is tekintettel – a (8) bekezdés szerinti egyeztetést követően az EBH határozatát a határozatának meghozatalakor figyelembe veszi. Ha a szanálási feladatkörében eljáró MNB a határozatában eltér az EBH határozatától, akkor a határozatában az eltérést indokolja.
 
 (10) Ha az eljárás lefolytatására másik EGT-állam illetékes szanálási hatósága jogosult, és az EU-szintű anyavállalat intézmény leányvállalati hitelintézetének a szanálási hatósága a szanálási feladatkörében eljáró MNB, akkor a szanálási feladatkörében eljáró MNB az eljárásra jogosult EGT-állam illetékes szanálási hatósága által meghatározott határidőn belül megküldi a véleményét, fenntartását.
 
-(11) Az EU-szintű anyavállalat intézmény székhelye szerinti EGT-állam szanálási hatósága (1) bekezdés szerinti eljárás során hozott határozata Magyarországon közvetlenül alkalmazandó és végrehajtható. A szanálási feladatkörében eljáró MNB az EGT-állam illetékes szanálási hatósága határozatát magyar nyelven a honlapján közzéteszi. A szanálási feladatkörében eljáró MNB hatáskörébe tartozó szervezet tekintetében a más EGT-állam illetékes szanálási hatósága által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre a szanálási feladatkörében eljáró MNB által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
+(11) Az EU-szintű anyavállalat intézmény székhelye szerinti EGT-állam szanálási hatósága (1) bekezdés szerinti eljárás során hozott határozata Magyarországon közvetlenül alkalmazandó és végrehajtható. A szanálási feladatkörében eljáró MNB az EGT-állam illetékes szanálási hatósága határozatának tényét magyar nyelven a honlapján közzéteszi. A szanálási feladatkörében eljáró MNB hatáskörébe tartozó szervezet tekintetében a más EGT-állam illetékes szanálási hatósága által hozott határozatban foglaltak végrehajtására, teljesítésének ellenőrzésére, az ellenőrzés alapján hozható intézkedésre a szanálási feladatkörében eljáró MNB által hozott határozatokra vonatkozó magyar jogszabályok alkalmazandóak.
 
 (12) A szanálási feladatkörében eljáró MNB a (2) bekezdés szerinti határozat megváltoztatásának szükségességét legalább évente egyszer hivatalból vagy az anyavállalat, leányvállalat illetékes szanálási hatósága kezdeményezésére megvizsgálja.
 
@@ -1248,7 +1248,7 @@ jár el.
 
 alkalmazza az (1) bekezdésben és a 62–63. §-ban foglalt minimumkövetelményeket.
 
-(4) A szanálási feladatkörében eljáró MNB – a Felügyelettel egyeztetve – megköveteli az intézménytől, hogy teljesítse a szavatoló tőkére és a leírható vagy átalakítható kötelezettségekre vonatkozó e §-ban és a 68. §-ban foglalt minimumkövetelményt, amelynek teljesítését a Felügyelet ellenőrzi.
+(4) A szanálási feladatkörében eljáró MNB – a Felügyelettel egyeztetve – megköveteli az intézménytől, hogy teljesítse a szavatoló tőkére és a leírható vagy átalakítható kötelezettségekre vonatkozó e §-ban és a 68. §-ban foglalt minimumkövetelményt, amelynek teljesítését a szanálási feladatkörében eljáró MNB ellenőrzi.
 
 (5) A szanálási feladatkörében eljáró MNB a szanálási tervek kidolgozásával és folyamatosan naprakészen tartásával biztosítja a 65–68. §-ban foglalt döntéseinek a megalapozását.
 
@@ -1279,9 +1279,9 @@ figyelembevételével.
 
 (7) Ha az eljárásban részt vevő EGT-állam illetékes szanálási hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor a (6) bekezdésben rögzített határidőn belül az eljárásban részt vevő bármelyik EGT-állam illetékes szanálási hatósága kérésére a szanálási feladatkörében eljáró MNB az EBH-val a többoldalú eljárás eredménytelensége vonatkozásában egyeztetést köteles folytatni vagy saját kezdeményezésére egyezetést folytat.
 
-(8) Ha az eljárásban részt vevő EGT-állam szanálási hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a szanálási feladatkörében eljáró MNB a többoldalú eljárás lezárultát követő tíz munkanapon belül, az eljárásban részt vevő valamennyi EGT-állam illetékes szanálási hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
+(8) Ha az eljárásban részt vevő EGT-állam szanálási hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a szanálási feladatkörében eljáró MNB a többoldalú eljárás lezárultát követő egy hónapon belül, az eljárásban részt vevő valamennyi EGT-állam illetékes szanálási hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
 
-(9) Ha a szanálási feladatkörében eljáró MNB a (7) bekezdés szerinti egyeztetést folytat az EBH-val, akkor a (6) bekezdéstől eltérően az eljárás határideje az EBH-nak az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdése szerinti határozatnak a szanálási feladatkörében eljáró MNB részére történő átadását követő tíz munkanap múlva jár le.
+(9) Ha a szanálási feladatkörében eljáró MNB a (7) bekezdés szerinti egyeztetést folytat az EBH-val, akkor a (6) bekezdéstől eltérően az eljárás határideje az EBH-nak az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdése szerinti határozatnak a szanálási feladatkörében eljáró MNB részére történő átadását követő egy hónap múlva jár le.
 
 (10) A szanálási feladatkörében eljáró MNB a (7) bekezdés szerinti egyeztetést követően az EBH határozatát a határozatának meghozatalakor figyelembe veszi. Ha a szanálási feladatkörében eljáró MNB a határozatában eltér az EBH határozatától, akkor a határozatában az eltérést indokolja.
 
@@ -1305,9 +1305,9 @@ figyelembevételével.
 
 (5a) A szanálási feladatkörében eljáró MNB mint az EU-szintű anyavállalat szanálásáért felelős hatóság nem folytathat egyeztetést az EBH-val abban az esetben, ha a leányvállalat szanálási hatósága által meghatározott szavatoló tőkére, leírható vagy átalakítható kötelezettségre vonatkozó minimumkövetelmény a 65. § (3) bekezdése szerinti értéktől legfeljebb egy százalékponttal tér el.
 
-(6) Ha az EU-szintű anyavállalat szanálási hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a szanálási feladatkörében eljáró MNB a többoldalú eljárás lezárultát követő tíz munkanapon belül, az EU-szintű anyavállalat szanálási hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
+(6) Ha az EU-szintű anyavállalat szanálási hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a szanálási feladatkörében eljáró MNB a többoldalú eljárás lezárultát követő egy hónapon belül, az EU-szintű anyavállalat szanálási hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
 
-(7) Ha a szanálási feladatkörében eljáró MNB az (5) bekezdés szerinti egyeztetést folytat az EBH-val, akkor a (4) bekezdéstől eltérően az eljárás határideje az EBH-nak az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdése szerinti határozatnak a Felügyelet részére történő átadását követő tíz munkanap múlva jár le.
+(7) Ha a szanálási feladatkörében eljáró MNB az (5) bekezdés szerinti egyeztetést folytat az EBH-val, akkor a (4) bekezdéstől eltérően az eljárás határideje az EBH-nak az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdése szerinti határozatnak a szanálási feladatkörében eljáró MNB részére történő átadását követő egy hónap múlva jár le.
 
 (8) A szanálási feladatkörében eljáró MNB az (5) bekezdés szerinti egyeztetést követően az EBH határozatát a határozatának meghozatalakor figyelembe veszi. Ha a szanálási feladatkörében eljáró MNB a határozatában eltér az EBH határozatától, akkor a határozatában az eltérést indokolja.
 
@@ -1494,8 +1494,11 @@ azzal, hogy a második alkalommal történő elutasítás esetén új személyt 
 
 - a) ha megállapítja, hogy az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás nem lesz többé életképes, kivéve ha gyakorolja a kiegészítő alapvető és járulékos tőkeelemek kapcsán a leírásra vagy az átalakításra való jogosultságot;
 - b) az anyavállalat szintjén kibocsátott tőkeelemek esetében, ha ezeket a tőkeelemeket a Felügyelet elismeri a szavatoló tőke követelményeknek az anyavállalat szintjén történő egyéni vagy összevont alapon történő teljesítéseként, és a szanálási feladatkörében eljáró MNB megállapítja, hogy a csoport nem lesz többé életképes, hacsak a szóban forgó instrumentumok kapcsán nem gyakorolják a leírásra vagy átalakításra vonatkozó jogosultságot;
-- c) ha az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás rendkívüli állami pénzügyi támogatást igényel; vagy
-- d) az e törvényben meghatározott állami tőkeemelés során.
+- c) a leányvállalat szintjén kibocsátott elsődleges alapvető és járulékos tőkeelemek esetében, ha
+  - ca) ezeket a tőkeelemeket az illetékes felügyeleti hatóság elismeri a szavatoló tőke követelmények egyedi és összevont alapú teljesítéséhez és
+  - cb) az összevont felügyeletet ellátó hatóság székhelye szerinti tőkeelemek leírására vagy átalakítására jogosult hatóság és a szanálási feladatkörében eljáró MNB a 32. § (5) és (6) bekezdése szerinti többoldalú eljárás keretében megállapítja, hogy a csoport a szóban forgó instrumentumok kapcsán gyakorolt tőkeelemek leírására vagy átalakítására vonatkozó jogosultság gyakorlása hiányában többé nem lesz életképes;
+- d) ha az intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás rendkívüli állami pénzügyi támogatást igényel; vagy
+- e) az e törvényben meghatározott állami tőkeemelés során.
 
 (4) Az intézmény vagy csoport a (3) bekezdés alkalmazásában többé nem életképes, ha
 
@@ -1562,7 +1565,7 @@ alapját.
 - a) az érintett elsődleges alapvető tőkeelemeket az intézmény vagy az intézmény anyavállalata bocsátja ki, a Felügyelet vagy adott esetben az anyavállalat illetékes felügyeleti hatóságának az egyetértésével;
 - b) az elsődleges alapvető tőkeelemeket azt megelőzően bocsátják ki, hogy az intézmény tagsági részesedéseket bocsátana ki az állami tőkeemelés céljára;
 - c) az elsődleges alapvető tőkeelemeket az átalakítási jogosultság gyakorlása után haladéktalanul allokálják és átruházzák; és
-- d) az egyes kiegészítő alapvető és járulékos tőkeelemek kapcsán nyújtott elsődleges alapvető tőke mennyiségét meghatározó átváltási ráta megfelel a 76. §-ban meghatározott alapelveknek.
+- d) az egyes kiegészítő alapvető és járulékos tőkeelemek kapcsán nyújtott elsődleges alapvető tőke mennyiségét meghatározó átváltási ráta megfelel a 76. §-ban meghatározott alapelveknek, valamint az átváltási rátáról az EBH által az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 16. cikkével összhangban kibocsátott iránymutatásnak.
 
 (4) Az elsődleges alapvető tőkének a (3) bekezdéssel összhangban történő rendelkezésre bocsátása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás számára, hogy mindenkor rendelkezzen a megfelelő mennyiségű elsődleges alapvető tőke kibocsátásához szükséges előzetes engedéllyel.
 
@@ -2042,7 +2045,7 @@ folytat le.
 
 (2) Az (1) bekezdésben foglaltak alkalmazását követően a szanálási feladatkörében eljáró MNB az eljárás résztvevői – az ügyfél képviselője kivételével – és más hatóság részére a rendelkezésére álló iratokat az eljárás nyelvén és – ellentétes nyilatkozatuk hiányában – magyar nyelvű fordításban adja át. A fordítás költségeit a szanálási feladatkörében eljáró MNB viseli.
 
-107. § (1) Az 1. § (1) bekezdésében meghatározott szervezetet a szanálási feladatkörében eljáró MNB az eljárása lefolytatásáról – annak megkezdése előtt legalább tizenöt nappal – írásban értesíti, kivéve ha az előzetes értesítés a szanálási eljárás eredményességét veszélyezteti.
+107. § (1) Az 1. § (1) bekezdésében meghatározott szervezetet a szanálási feladatkörében eljáró MNB az eljárása lefolytatásáról – annak megkezdése előtt legalább tizenöt nappal – írásban értesíti, kivéve ha az előzetes értesítés az eljárás eredményességét veszélyezteti.
 
 (2) Helyszíni ellenőrzést magában foglaló eljárásban a helyszíni ellenőrzés tartására vonatkozó értesítésre az (1) bekezdést kell alkalmazni.
 
@@ -2223,7 +2226,7 @@ nincs helye.
 - b) az ideiglenes értékelést jóváhagyó határozat [25. § (3) bekezdés],
 - c) az utólagos, végleges értékelést jóváhagyó határozat [26. §],
 - d) a vagyonértékesítés vagy az eszközelkülönítés keretében átruházott eszközök, források, jogok vagy kötelezettségek visszaruházását elrendelő határozat [38. és 55. §],
-- e) a hitelezői feltőkésítés alkalmazhatóságához szükséges feltételek biztosítását elrendelő határozat [59–61. §, 69–70. §, 72–73. §],
+- e) a hitelezői feltőkésítés alkalmazhatóságához szükséges feltételek biztosítását elrendelő határozat [59–61. §, 64. § (4) bekezdés, 69–70. §, 72–73. §],
 - f) a reorganizációs tervet jóváhagyó határozat [71. § (6) bekezdés],
 - g) a szolgáltatás vagy létesítmény biztosítását előíró határozat [86. §],
 - h) az egyes szerződéses feltételeknek a szanálás során történő kizárásáról hozott határozat [88. §],
@@ -2320,7 +2323,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 
 #### 63. Együttműködés harmadik országbeli hatóságokkal
 
-124. § (1) A szanálási feladatkörében eljáró MNB érintett harmadik országbeli hatósággal szanálási együttműködési megállapodást köthet, ha a harmadik ország rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott adatkezelési és adatvédelmi követelményeknek megfelelő jogszabályi előírásokkal, valamint az Európai Unió nem kötött a harmadik országgal szanálási együttműködési megállapodást. A szanálási feladatkörében eljáró MNB érintett harmadik országbeli hatósággal kötött szanálási együttműködési megállapodásának a (2) bekezdés szerinti azon tárgykörei, amelyekről az Európai Uniónak az érintett harmadik országgal kötött együttműködési megállapodása nem rendelkezik, az utóbbi hatálybalépését követően is érvényben és hatályban maradnak.
+124. § (1) A szanálási feladatkörében eljáró MNB érintett harmadik országbeli hatósággal szanálási együttműködési megállapodást köthet, ha e körben a harmadik ország rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott adatkezelési és adatvédelmi követelményeknek megfelelő jogszabályi előírásokkal, valamint az Európai Unió nem kötött a harmadik országgal szanálási együttműködési megállapodást. A szanálási feladatkörében eljáró MNB érintett harmadik országbeli hatósággal kötött szanálási együttműködési megállapodásának a (2) bekezdés szerinti azon tárgykörei, amelyekről az Európai Uniónak az érintett harmadik országgal kötött együttműködési megállapodása nem rendelkezik, az utóbbi hatálybalépését követően is érvényben és hatályban maradnak.
 
 (2) Az együttműködési megállapodás kitér az alábbiakra:
 

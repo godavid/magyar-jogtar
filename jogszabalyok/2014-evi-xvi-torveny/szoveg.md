@@ -378,7 +378,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 16. § (1) A befektetési alapkezelő akkor kaphat befektetési alapkezelésre engedélyt, ha – a (2) bekezdésben foglaltak figyelembevételével – rendelkezik legalább százhuszonötezer euró, ingatlanalap kezelése esetén legalább háromszázezer euró induló tőkével.
 
-(2) Ha a befektetési alapkezelő által kezelt portfólió összesített értéke meghaladja a kétszázötvenmillió eurót, szavatoló tőkéjét ki kell egészítenie. A pótlólagos tőkeösszeg annak az összegnek a 0,02%-a, amellyel a befektetési alapkezelő által kezelt portfólió értéke meghaladja a kétszázötvenmillió eurót. Ha a szavatoló tőke és a pótlólagos tőke összege eléri a tízmillió eurót, a szavatoló tőkét nem szükséges tovább növelni. A számítás alapját képező összegbe bele kell számítani azon portfóliókat, amelyek kezelésével a befektetési alapkezelő kiszervezésre irányuló szerződés alapján harmadik személyt bízott meg, nem kell figyelembe venni azonban azokat a portfóliókat, amelyeket a befektetési alapkezelő kiszervezésre irányuló szerződés alapján megbízottként kezel.
+(2) Ha a befektetési alapkezelő által kezelt befektetési alapok portfólióinak összesített értéke meghaladja a kétszázötvenmillió eurót, szavatoló tőkéjét ki kell egészítenie. A pótlólagos tőkeösszeg annak az összegnek a 0,02%-a, amellyel a befektetési alapkezelő által kezelt befektetési alapok portfólióinak értéke meghaladja a kétszázötvenmillió eurót. Ha a szavatoló tőke és a pótlólagos tőke összege eléri a tízmillió eurót, a szavatoló tőkét nem szükséges tovább növelni. A számítás alapját képező összegbe bele kell számítani azon portfóliókat, amelyek kezelésével a befektetési alapkezelő kiszervezésre irányuló szerződés alapján harmadik személyt bízott meg, nem kell figyelembe venni azonban azokat a portfóliókat, amelyeket a befektetési alapkezelő kiszervezésre irányuló szerződés alapján megbízottként kezel.
 
 (3) A befektetési alapkezelőnek – a működőképesség folytonosságának fenntartása és a befektetők védelme érdekében – az általa végzett tevékenység kockázatának fedezetét mindenkor biztosító, megfelelő nagyságú szavatoló tőkével kell rendelkeznie, amely nem csökkenhet
 
@@ -1208,7 +1208,7 @@ tekintetében.
 
 67. § (1) A befektetési alap létrehozható
 
-- a) a befektetési jegyek forgalomba hozatali módja alapján zártkörű vagy nyilvános befektetési alapként (befektetési alap működési formája);
+- a) a befektetési alap működési módja alapján zártkörű vagy nyilvános befektetési alapként (befektetési alap működési formája);
 - b) a lehetséges befektetők köre alapján szakmai vagy lakossági befektetőknek forgalmazott befektetési alapként (befektetési alap forgalmazási köre);
 - c) a befektetési jegyek visszaválthatósága alapján nyílt végű vagy zárt végű befektetési alapként (befektetési alap fajtája);
 - d) a futamidő alapján határozott vagy határozatlan futamidővel (befektetési alap futamideje);
@@ -1217,7 +1217,7 @@ tekintetében.
 
 (2) Nyilvános befektetési alapként működik az a befektetési alap, amelynek legalább egy befektetési jegy sorozatát nyilvános forgalomba hozatal útján hozták forgalomba.
 
-(3) Zártkörű befektetési alapként működik az a befektetési alap, amely befektetési jegyének forgalomba hozatala a Tpt. szerint zártkörűnek minősül, vagy amely nyilvános befektetési alapból zártkörű befektetési alappá alakul át. A zártkörű befektetési alap nyilvános befektetési alappá való átalakulásáig a zártkörűen forgalomba hozott befektetési jegy befektetőknek való felajánlására a Tpt. zártkörű forgalomba hozatalra meghatározott szabályai szerint, annak korlátai között kerülhet sor.
+(3) Zártkörű befektetési alapként működik az a befektetési alap, amely befektetési jegyének forgalomba hozatala az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/1129 rendelet] 1. cikk (4) bekezdésében foglalt módon történt, vagy amely nyilvános befektetési alapból zártkörű befektetési alappá alakul át. A zártkörű befektetési alap nyilvános befektetési alappá való átalakulásáig a zártkörűen forgalomba hozott befektetési jegy befektetőknek való felajánlására a (EU) 2017/1129 rendelet 1. cikk (4) bekezdésében meghatározott szabályok szerint, azok korlátai között kerülhet sor.
 
 (4) A nyílt végű befektetési alap befektetési jegyeit a befektetők a folyamatos forgalmazás során az alap futamideje alatt megvásárolhatják, továbbá a befektetési jegyeket a befektetési alap kezelési szabályzatában foglalt szabályok szerint a futamidő alatt visszaválthatják.
 
@@ -1225,7 +1225,7 @@ tekintetében.
 
 (6) A kockázati és magántőkealap futamideje alatt a befektető nem válthatja vissza a befektetési jegyet, azonban a kezelési szabályzatban meghatározott esetekben az alapkezelő határozhat az alap jegyzett tőkéjének befektetési jegyek, vagy ideiglenes befektetési jegyek bevonásával történő csökkentéséről. A kockázati és magántőkealap jegyzett tőkéjének leszállításakor az ideiglenes befektetési jegy, illetve ideiglenes befektetési jegy tulajdonosokkal való elszámolás módját a kezelési szabályzat határozza meg.
 
-(7) A kockázati tőkealap, illetve a magántőkealap kizárólag szakmai befektetőknek határozott futamidőre, vissza nem váltható befektetési jegyek zártkörű forgalomba hozatalával hozható létre. Egy alapon belül eltérő névértékű és eltérő jogokat megtestesítő befektetési jegyek is forgalomba hozhatóak.
+(7) A kockázati tőkealap, illetve a magántőkealap kizárólag szakmai befektetőknek, határozott futamidőre, vissza nem váltható befektetési jegyekkel és zártkörű befektetési alapként hozható létre. Egy alapon belül eltérő névértékű és eltérő jogokat megtestesítő befektetési jegyek is forgalomba hozhatóak.
 
 (8) A kockázati és a magántőkealap legalább hat teljes naptári éves futamidőre hozható létre.
 
@@ -1240,7 +1240,7 @@ tekintetében.
 - a) értékpapíralap esetén kétszázmillió forint,
 - b) ingatlanalap esetén egymilliárd forint.
 
-(2) A zártkörűen létrehozott befektetési alap legkisebb induló saját tőkéje
+(2) A zártkörű befektetési alap legkisebb induló saját tőkéje
 
 - a) értékpapíralap esetében százmillió forint,
 - b) ingatlanalap esetén ötszázmillió forint,
@@ -2327,7 +2327,7 @@ kapja meg; valamint
 - b) befektetési alap esetében:
   - ba) a befektetési alap nyilvántartási száma, a forgalomba hozott befektetési jegyek ISIN kódjai,
   - bb) a befektetési alap vagy részalap, továbbá az adott értékpapír-sorozat megnevezése, a befektetési alap típusa, fajtája, harmonizációja, valamint a részalapok esetében annak a befektetési alapnak a megnevezése, amelyen belül a részalap kialakításra került,
-  - bc) a befektetési jegyek forgalomba hozatalának módja (nyilvános vagy zártkörű),
+  - bc) a befektetési alap működésének módja (nyilvános vagy zártkörű),
   - bd) a befektetési alap futamideje (határozott vagy határozatlan),
   - be) a befektetési szabályoknak megfelelő kategória (értékpapíralap, ingatlanalap, kockázati tőkealap vagy magántőkealap),
   - bf) azon országok felsorolása, ahol a kollektív befektetési forma által forgalomba hozott értékpapírt forgalmazhatják,
@@ -3566,7 +3566,7 @@ Kezelési szabályzat
 
 - 55. A befektetési jegyek forgalomba hozatala
 - 55.1. A befektetési jegyek forgalomba hozatalának módja, feltételei
-- 55.2. Azon befektetők körének megjelölése, amelyek a befektetési jegyeket jegyezhetik, illetve akik körében a befektetési jegy a folyamatos forgalmazás során forgalmazható, továbbá azon feltételek megjelölése, amely alapján a forgalomba hozatal zártkörűnek minősül
+- 55.2. Azon befektetők körének megjelölése, amelyek a befektetési jegyeket jegyezhetik, illetve akik körében a befektetési jegy a folyamatos forgalmazás során forgalmazható, továbbá azon feltételek megjelölése, amely alapján a befektetési alap zártkörűnek minősül
 - 55.3. A forgalomba hozatali mennyiség maximum, illetve minimum mértéke
 - 55.4. A befektetési jegyek forgalomba hozatali ára
 - 55.5. Az allokáció feltételei

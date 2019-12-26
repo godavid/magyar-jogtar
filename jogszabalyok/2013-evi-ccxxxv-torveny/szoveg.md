@@ -342,6 +342,8 @@ az egyes fizetési szolgáltatókról
 - b) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény hat hónapon keresztül nem folytat tevékenységet,
 - c) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény nem teljesíti a 23. §-ban foglalt kötelezettségét.
 
+21/A. § Pénzforgalmi szolgáltatásra vonatkozó tevékenységi engedély visszavonása esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a fizetési művelet érdekében átvett pénzeszközök kiadása iránt soron kívül intézkedik.
+
 22. § Pénzforgalmi intézmény, elektronikuspénz-kibocsátási intézmény a pénzügyi szolgáltatási tevékenységi, kiegészítő pénzügyi szolgáltatási tevékenységi engedélyét a Felügyeletnek akkor adhatja vissza, ha bizonyítja, hogy a pénzügyi szolgáltatási tevékenységéből, kiegészítő pénzügyi szolgáltatási tevékenységéből származó semmilyen kötelezettsége nincs.
 
 23. § (1) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, ha a tevékenységre jogosító engedély megadását követően bármilyen változás hatással van az engedély iránti kérelemben foglaltak teljesítésére, a változás bekövetkezésétől vagy a változásról történő tudomásszerzéstől számított három napon belül a Felügyeletet erről írásban tájékoztatja. A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az írásbeli tájékoztatáshoz csatolja a változás igazolására vonatkozó dokumentumot, valamint azt a hitelt érdemlő bizonyító dokumentumot vagy arra vonatkozó nyilatkozatot, hogy a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény továbbra is megfelel az engedélyezési feltételeknek.
