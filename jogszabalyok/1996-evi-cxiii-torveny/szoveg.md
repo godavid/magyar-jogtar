@@ -40,7 +40,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (5) Lakástakarékpénztár legalább kétmilliárd forint induló tőkével alapítható.
 
-(6) A Magyar Nemzeti Bank (a továbbiakban: MNB) a működési engedély iránti kérelmet elutasítja, ha a szerződéses módozatokra vonatkozó modellszámítások alapján az általános szerződési feltételek a szerződések teljesíthetőségét nem mutatják tartósan garantáltnak, vagy a szerződéses összegek kiutalását indokolatlanul elhalasztanák, méltánytalanul hosszú minimális megtakarítási időket határoznak meg, vagy a betételhelyezők egyéb érdekeit nem védik megfelelően.
+(6) A Magyar Nemzeti Bank (a továbbiakban: MNB) a működési engedély iránti kérelmet elutasítja, ha az állami támogatásra jogosult szerződéses módozatokra vonatkozó modellszámítások alapján az általános szerződési feltételek a szerződések teljesíthetőségét nem mutatják tartósan garantáltnak, vagy a szerződéses összegek kiutalását indokolatlanul elhalasztanák, méltánytalanul hosszú minimális megtakarítási időket határoznak meg, vagy a betételhelyezők egyéb érdekeit nem védik megfelelően. Állami támogatásra nem jogosult szerződéses módozatok esetén ezen feltételek teljesítését az MNB ellenőrzési eljárás keretében vizsgálja.
 
 (7) A módozat tartalmi elemei:
 
@@ -73,7 +73,7 @@ törvényt alkot a lakástakarékpénztárakról.
 - a) természetes személy saját nevében, saját maga javára, vagy teljesen, illetve korlátozottan cselekvőképes természetes személy az általa megnevezett, a (2) bekezdésben megjelölt természetes személy kedvezményezett javára,
 - b) gyám, eseti gondnok, alapítvány, természetes személy, egyesület, egyházi jogi személy és helyi önkormányzat, a gyermekvédelmi gondoskodásban élő gyermek, mint kedvezményezett javára, életkezdésének elősegítése céljából,
 - c) a lakásszövetkezet épületenként a tulajdonában, vagy a tagjainak közös tulajdonában álló épületrészek felújításához és korszerűsítéséhez szükséges pénzügyi források biztosítása céljából,
-- d) a társasház épületenként kétharmados közgyűlési határozattal a közös tulajdonukban álló épületrészek felújításához és korszerűsítéséhez szükséges pénzügyi források biztosítása céljából. [Az a)–d) pontban foglaltak a továbbiakban együtt: lakáselőtakarékoskodók.]
+- d) a társasház épületenként a közös tulajdonukban álló épületrészek felújításához és korszerűsítéséhez szükséges pénzügyi források biztosítása céljából. [Az a)–d) pontban foglaltak a továbbiakban együtt: lakáselőtakarékoskodók.]
 
 (2) Kedvezményezett lehet
 
@@ -82,11 +82,15 @@ törvényt alkot a lakástakarékpénztárakról.
 
 7. § (1) A szerződés olyan betét- és hitelszerződés, amelyben a lakáselőtakarékoskodó arra kötelezi magát, hogy – a szerződés módozata szerint – a szerződéskötéskor egy összegben vagy a megtakarítási idő alatt előre meghatározott rendszerességgel egyenlő részletekben történő befizetésekkel meghatározott összeget a lakástakarékpénztárnál betétként leköt, illetve elhelyez, a lakástakarékpénztár pedig kötelezettséget vállal arra, hogy a szerződésben meghatározott feltételek teljesülése és a lakáselőtakarékoskodó, illetve a kedvezményezett hitelképessége esetén az üzletszabályzatban rögzített módszer szerint a szerződésben meghatározott módon kiszámított összegű lakáscélú kölcsönt (a továbbiakban: lakáskölcsön) nyújt a lakáselőtakarékoskodó, illetve a cselekvőképes kedvezményezett kérésére.
 
+(1a) Az (1) bekezdéstől eltérően a megtakarítást nem szükséges egyenlő részletekben teljesíteni olyan lakás-előtakarékossági szerződés esetén, amelyhez nem kapcsolódik állami támogatás.
+
 (2) A szerződés meghatározott összegre, a szerződéses összegre szól.
 
 (3) A szerződésben meghatározott betéti és hitelkamat mértékét, valamint a kezelési költség mértékét a szerződés időtartama alatt nem lehet módosítani.
 
 (4) A szerződés alapján lakástakarékpénztárnál elhelyezett betétből a lakáselőtakarékoskodó részösszeget nem vehet ki.
+
+(4a) Nem kell alkalmazni a (4) bekezdést olyan lakás-előtakarékossági szerződés esetén, amelyhez nem kapcsolódik állami támogatás. Ebben az esetben a betétből kivehető részösszeg mértékét a lakástakarékpénztár az általános szerződési feltételekben határozza meg.
 
 (5) Ha a lakástakarékpénztárnál elhelyezett betét egy részét a lakástakarékpénztár bírósági végrehajtási eljárás keretében a bírósági végrehajtó letéti számlájára utalta át, a lakástakarékpénztár megszünteti a szerződést oly módon, hogy a már jóváírt állami támogatást és kamatait átutalja a központi költségvetésnek, a fennmaradó megtakarítást pedig kamataival együtt visszafizeti a lakáselőtakarékoskodónak.
 
@@ -140,11 +144,11 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (5) Az áthidaló kölcsön adósa e kölcsönt a kiutalt szerződéses összegből a kiutalás napján egy összegben fizeti vissza azzal, hogy a továbbiakban a visszafizetéshez felhasznált lakáskölcsön módozat szerinti törlesztésére köteles.
 
-(6) A lakástakarékpénztár az áthidaló kölcsön lakáscélú felhasználásának igazolásaként olyan számlát, lakáscélú kölcsön törlesztéséről szóló igazolást, illetve adásvételi szerződés vagy a tulajdonjog visszterhes átruházására irányuló egyéb okirat alapján a vételár kifizetéséről szóló okiratot fogadhat el, amely a hitelkérelem benyújtásának napját követően keletkezett.
+(6) A lakástakarékpénztár az áthidaló kölcsön lakáscélú felhasználásának igazolásaként olyan számlát, lakáscélú kölcsön törlesztéséről szóló igazolást, illetve adásvételi szerződés vagy a tulajdonjog visszterhes átruházására irányuló egyéb okirat alapján a vételár kifizetéséről szóló okiratot fogadhat el, amely a hitelkérelem benyújtásának napján vagy azt követően keletkezett.
 
 ### A lakástakarékpénztár biztonságos működése
 
-12. § (1) A lakás-takarékpénztár a 7. §-ban meghatározott szerződés szerinti betétgyűjtésen és hitelnyújtáson, valamint áthidaló kölcsön nyújtásán kívül kizárólag a következő tevékenységeket végezheti:
+12. § (1) A lakás-takarékpénztár a 7. §-ban meghatározott szerződés szerinti betétgyűjtésen és hitelnyújtáson, valamint áthidaló kölcsön nyújtásán kívül üzletszerűen kizárólag a következő tevékenységeket végezheti:
 
 - a) a lakás-takarékpénztár szavatoló tőkéjének összesen 10%-át meg nem haladó mértékig tulajdoni részesedést szerezhet a Hpt. szerinti járulékos vállalkozásokban,
 - b) a lakás-takarékpénztár az MNB engedélyével – a (2) bekezdésben meghatározott feltételek teljesülése esetén – a szavatoló tőkéjének összesen 20%-át meg nem haladó mértékig tulajdoni részesedést szerezhet Magyarország területén székhellyel rendelkező lakás-takarékpénztárban, vagy olyan devizakülföldinek minősülő hitelintézetben, amelynek fő tevékenysége lakás-előtakarékossági szerződés alapján történő betétgyűjtés és hitelnyújtás,
@@ -153,11 +157,14 @@ törvényt alkot a lakástakarékpénztárakról.
 - e) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott feltételekkel állampapír vonatkozásában
   - ea) a Bszt. 5. § (1) bekezdés a)–c) és g) pontjában meghatározott befektetési szolgáltatási tevékenységet,
   - eb) a Bszt. 5. § (2) bekezdés a) és b) pontjában meghatározott kiegészítő szolgáltatást,
-  - ec) az ea) és eb) alpontban meghatározott szolgáltatások függő ügynökként történő közvetítését.
+  - ec) az ea) és eb) alpontban meghatározott szolgáltatások függő ügynökként történő közvetítését,
+- f) vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását,
+- g) bizalmi szolgáltatást,
+- h) likviditáskezelési céllal legfeljebb 6 hónapra szóló repó- és fordított repóügyletek megkötését.
 
 (2) Az (1) bekezdés b) pontjában meghatározott hitelintézetben történő tulajdoni részesedés megszerzését az MNB akkor engedélyezi, ha a tulajdonszerzéssel érintett hitelintézet a rá vonatkozó jogszabályok szerint a lakáscélú betétgyűjtést és hitelnyújtást zárt rendszerben végzi, csak a betétet elhelyezők részére nyújt hitelt, és erről nyilatkozatot nyújt be az MNB részére.
 
-13. § (1) A lakástakarékpénztár által felvett kölcsönök, illetve az általa kibocsátott hitelviszonyt megtestesítő értékpapírok (a továbbiakban együtt: felvett kölcsönök) állománya a 10. § (2) bekezdésében foglalt eset kivételével nem haladhatja meg a folyósított áthidaló kölcsöneinek állományát. A felvett kölcsönök állománya – beleértve a 10. § (2) bekezdésben foglalt esetet is – a kölcsönfelvételkor, illetve a hitelviszonyt megtestesítő értékpapír kibocsátásakor nem haladhatja meg a betétállomány 40%-át.
+13. § (1) A lakástakarékpénztár által felvett kölcsönök, illetve az általa kibocsátott hitelviszonyt megtestesítő értékpapírok, ide nem értve az értékpapír fedezete mellett kötött repóügyleteket (a továbbiakban együtt: felvett kölcsönök) állománya a 10. § (2) bekezdésében foglalt eset kivételével nem haladhatja meg a folyósított áthidaló kölcsöneinek állományát. A felvett kölcsönök állománya – beleértve a 10. § (2) bekezdésében foglalt esetet is – a kölcsönfelvételkor, illetve a hitelviszonyt megtestesítő értékpapír kibocsátásakor nem haladhatja meg a betétállomány 40%-át.
 
 (2) A felvett kölcsönök állományának alakulásáról a lakástakarékpénztár a folyamatos adatszolgáltatás körében jelentést tesz az MNB-nek.
 
@@ -167,24 +174,24 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (2) A lakástakarékpénztárnak a kiutalási összeg (1) bekezdésben meghatározott célokra fel nem használt része (a továbbiakban: szabad eszköz) előző hónap utolsó napján meglévő állományának legalább tíz százalékát készpénzben, számlapénzben, illetőleg olyan országnak a központi kormánya vagy központi bankja által kibocsátott értékpapírban kell tartania, amely
 
-- a) teljes jogú tagja a Gazdasági Együttműködési és Fejlesztési Szervezetnek vagy az Európai Uniónak vagy
+- a) teljes jogú tagja a Gazdasági Együttműködési és Fejlesztési Szervezetnek vagy az Európai Uniónak vagy az Európai Gazdasági Térségnek vagy
 - b) speciális megállapodást kötött arra, hogy hitelt nyújtson a Nemzetközi Valuta Alapnak annak Általános Kölcsönnyújtási Megállapodása szerint, és a megelőző öt év során hitelfelvételből származó külső adósságát nem ütemezte át, illetőleg nem függesztette fel.
 
-(3) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb húsz százalékát helyezheti ki egy évnél nem hosszabb lejáratra a (2) bekezdés a)–b) pontjában meghatározott országban székhellyel rendelkező hitelintézeteknél.
+(3) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb húsz százalékát helyezheti ki egy évnél nem hosszabb lejáratra a (2) bekezdés a) és b) pontjában meghatározott országban székhellyel rendelkező hitelintézeteknél, melybe nem értendő bele a lakástakarékpénztár bármely Európai Unió tagállamának központi bankjánál vagy a lakástakarékpénztár anyavállalatánál vezetett fizetési számlák és az ott elhelyezett betétek egyenlege.
 
 (4) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb kilencven százalékát használhatja fel a 11. § szerinti áthidaló kölcsön nyújtására.
 
-(5) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb harminc százalékát fektetheti be jelzálog-hitelintézet által kibocsátott jelzáloglevélbe.
+(5) A lakástakarékpénztár szabad eszközei előző hónap utolsó napján meglévő állományának legfeljebb negyven százalékát fektetheti be jelzálog-hitelintézet által kibocsátott jelzáloglevélbe.
 
-16. § (1) A lakás-előtakarékoskodók érdekének védelmében a szabad pénzeszközök 15. § (2)–(5) bekezdése szerinti kihelyezésének hozamából a lakástakarékpénztár – ráfordításai között elszámolva – kiegyenlítési céltartalékot képez a tárgyév december 31-én.
+16. § (1) A lakás-előtakarékoskodók érdekének védelmében a szabad pénzeszközök 15. § (2)–(5) bekezdése szerinti kihelyezésének hozamából a lakástakarékpénztár – ráfordításai között elszámolva – kiegyenlítési tartalékot képez a tárgyév december 31-én.
 
-(2) A kiegyenlítési céltartalék tárgyévi képzésének alapját (e § alkalmazásában: alap) a 15. § (2)–(5) bekezdése szerint kihelyezett szabad eszközök tárgyévi hozamának és a szabad eszközök tárgyévi átlagos állományának a kollektív kamat mértékével meghatározott kamatösszegének a különbözeteként kell kiszámítani.
+(2) A kiegyenlítési tartalék tárgyévi képzésének alapját (e § alkalmazásában: alap) a 15. § (2)–(5) bekezdése szerint kihelyezett szabad eszközök tárgyévi hozamának és a szabad eszközök tárgyévi átlagos állományának a kollektív kamat mértékével meghatározott kamatösszegének a különbözeteként kell kiszámítani.
 
-(3) Ha a (2) bekezdés szerinti alap meghaladja a kiegyenlítési céltartalék meglévő állományát, akkor a kiegyenlítési céltartalék tárgyévi képzésének összege az alap és a kiegyenlítési céltartalék meglévő állományának különbözete. Ellenkező esetben a kiegyenlítési céltartalék tárgyévi képzésének összege 0 forint.
+(3) Ha a (2) bekezdés szerinti alap meghaladja a kiegyenlítési tartalék meglévő állományát, akkor a kiegyenlítési tartalék tárgyévi képzésének összege az alap és a kiegyenlítési céltartalék meglévő állományának különbözete. Ellenkező esetben a kiegyenlítési tartalék tárgyévi képzésének összege 0 forint.
 
-(4) Ha a meglévő kiegyenlítési céltartalék és a (3) bekezdés szerint számított képzési összeg együttesen meghaladja a tárgyév december 31-i betétállomány 10%-át, akkor a tárgyévi képzés összegét a betétállomány 10%-ának és a meglévő kiegyenlítési céltartalék-állománynak a különbözeteként kell kiszámítani.
+(4) Ha a meglévő kiegyenlítési tartalék és a (3) bekezdés szerint számított képzési összeg együttesen meghaladja a tárgyév december 31-i betétállomány 10%-át, akkor a tárgyévi képzés összegét a betétállomány 10%-ának és a meglévő kiegyenlítési tartalék-állománynak a különbözeteként kell kiszámítani.
 
-(5) Az (1) bekezdésben meghatározott kiegyenlítési céltartalékot a 10. § (2) bekezdése alapján felvett kölcsön után a tárgyévben időarányosan fizetendő kamat és az e kölcsönnek a kollektív kamat mértékével meghatározott, a tárgyévre időarányosan számított kamata különbözetének kiegyenlítésére kell a lakástakarékpénztárnak felhasználnia.
+(5) Az (1) bekezdésben meghatározott kiegyenlítési tartalékot a 10. § (2) bekezdése alapján felvett kölcsön után a tárgyévben időarányosan fizetendő kamat és az e kölcsönnek a kollektív kamat mértékével meghatározott, a tárgyévre időarányosan számított kamata különbözetének kiegyenlítésére kell a lakástakarékpénztárnak felhasználnia.
 
 17. § A lakástakarékpénztár a 10. és 11. § alapján nyújtott kölcsönöket – a vállalt kockázatnak megfelelően – személyi vagy dologi biztosítékokkal, elsősorban ingatlanra bejegyzett jelzáloggal biztosítja.
 
@@ -205,7 +212,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (2) A lakástakarékpénztár köteles általános szerződési feltételeit oly módon meghatározni, hogy azok hosszú távon biztosítsák a lakáselőtakarékoskodók és a lakástakarékpénztár által vállalt kötelezettségek összhangját.
 
-(3) Az általános szerződési feltételek módosításához az MNB engedélye szükséges.
+(3) Az általános szerződési feltételek módosításához az állami támogatás nélküli módozatokra vonatkozó általános szerződési feltételek kivételével az MNB engedélye szükséges.
 
 ### A lakástakarékpénztár felügyelete
 
@@ -221,9 +228,9 @@ törvényt alkot a lakástakarékpénztárakról.
 
 21. § (1) A (2) bekezdésben meghatározott lakás-előtakarékoskodót, illetve a kedvezményezettet – legfeljebb az első tíz megtakarítási év során – a lakás-előtakarékoskodó által az adott megtakarítási évben befizetett betét összegéhez igazodó mértékben állami támogatás illeti meg, amelyet a lakás-előtakarékoskodónak a lakás-takarékpénztárnál – a szerződéskötéskor vagy később – benyújtott kérelme alapján a központi költségvetés évente nyújt. A lakás-előtakarékoskodó jogosult az állami támogatás iránti kérelmét a megtakarítási év utolsó napjáig a teljes megtakarítási évre vonatkozóan módosítani. Az állami támogatás igénylésének, folyósításának, elszámolásának és a felhasználás ellenőrzésének rendjét a kormány rendeletben határozza meg.
 
-(2) A lakás-előtakarékosság állami támogatására az a lakás-előtakarékoskodó jogosult, aki Magyarország területén lakóhellyel rendelkező
+(2) A lakás-előtakarékosság állami támogatására az a lakás-előtakarékoskodó vagy kedvezményezett jogosult, aki Magyarország területén lakóhellyel vagy tartózkodási hellyel rendelkező
 
-- a) magyar állampolgár, vagy
+- a) magyar állampolgár,
 - b) a szabad mozgás és tartózkodás jogával rendelkező személy beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorló személy, vagy
 - c) bevándorolt, vagy letelepedett jogállású, vagy menekültként elismert személy.
 
@@ -253,13 +260,17 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (2) Az állami támogatás összegének meghatározásánál nem minősül betétbefizetésnek az előző megtakarítási évben betétként elhelyezett összeg alapján a tárgyévben betétként jóváírt állami támogatás összege, a lakástakarékpénztár által a 7. § (8) bekezdése szerint fizetett késedelmi kamat, valamint az az összeg, amelyre mint lakáscélú megtakarításra korábban adókedvezményt vettek igénybe.
 
+(3) Ha a lakás-előtakarékoskodó az állami támogatás iránti kérelmet nyújt be a lakástakarékpénztárhoz, a lakástakarékpénztár a természetes személy lakáselőtakarékoskodó vagy – amennyiben kedvezményezettet jelölnek meg – a kedvezményezett személyazonosító adatait, adóazonosító jelét, lakcímét, nem természetes személy nevét, adószámát és az épület címét, helyrajzi számát a jogosultság ellenőrzése céljából megküldi a kincstár részére. A támogatás folyósítása és összegének megállapítása, valamint a jogosultság ellenőrzése céljából a lakástakarékpénztár megküldi továbbá a kincstár részére a szerződés megkötésének időpontját, a megtakarítási év kezdetét, a betétszámlára az adott megtakarítási évben befizetett összeget, töredék megtakarítási év esetén annak végét és a szerződésben rögzített lakáskölcsön kamatát. A kincstár a lakástakarékpénztár által továbbított adatokról nyilvántartást vezet.
+
+(4) A kincstár a (3) bekezdés szerinti adatokat az állami támogatás felvételét követő 10 évig kezelheti a támogatásra való igényjogosultság ellenőrzése céljából.
+
 24. § (1) Az állami támogatásra való jogosultságot elveszti a lakás-előtakarékoskodó, ha a megtakarítási ideje a betét felvételekor nem érte el a négy évet, vagy a támogatással és kamatokkal növelt betétjét nem Magyarország területén megvalósuló lakáscélra (e § alkalmazásában a továbbiakban: lakáscél) használja fel. Amennyiben a betét felvételekor a megtakarítási idő még nem érte el a négy évet, a lakástakarékpénztár a lakás-előtakarékoskodó betétszámlájáról levonja a jóváírt összes állami támogatást az arra jóváírt betéti kamattal, és a levont összeget átutalja a központi költségvetésnek.
 
 (2) Ha a természetes személy lakáselőtakarékoskodó, illetőleg a kedvezményezett javára, vagy a nem természetes személy lakáselőtakarékoskodó által ugyanarra az épületre kötött szerződésre a szerződés(ek) módosításának, illetőleg átruházásának következtében ugyanazon naptári évben korábban több szerződés után jóváírták az állami támogatást, a lakáselőtakarékoskodót – saját választása alapján – csak az egyik szerződése után illeti meg az állami támogatás a 9. § (3) bekezdésében foglalt eltéréssel. A többi szerződés után jóváírt állami támogatást az arra jóváírt betéti kamattal együtt a lakástakarékpénztár a betétszámlá(k)ról levonja azokra az évekre vonatkozóan, amikor több szerződés után átutalták a támogatást, és a levont összeget átutalja a központi költségvetésnek.
 
-(3) Amennyiben a lakáselőtakarékoskodó a szerződése alapján felvett összeg részeként az állami támogatást is igénybe vette és a megtakarítási ideje elérte, vagy meghaladta a négy évet, a lakáselőtakarékosság állami támogatásáról szóló kormányrendeletben meghatározott időn belül igazolnia kell a felvett összeg lakáscélú felhasználását. Amennyiben a lakáselőtakarékoskodó az összegyűlt betétjének felvételekor úgy nyilatkozik, hogy nem lakáscélra kívánja felhasználni a betétösszeget, a lakástakarékpénztár a lakáselőtakarékoskodó betétszámlájáról levonja a jóváírt összes állami támogatást az arra jóváírt betéti kamattal és a levont összeget átutalja a központi költségvetésnek.
+(3) Amennyiben a lakás-előtakarékoskodó, vagy kedvezményezett jelölése esetén a kedvezményezett a szerződése alapján felvett összeg részeként az állami támogatást is igénybe vette és a megtakarítási ideje elérte, vagy meghaladta a négy évet, a lakáselőtakarékosság állami támogatásáról szóló kormányrendeletben meghatározott időn belül igazolnia kell a felvett összeg lakáscélú felhasználását. Amennyiben a lakás-előtakarékoskodó, vagy kedvezményezett jelölése esetén a kedvezményezett az összegyűlt betétjének felvételekor úgy nyilatkozik, hogy nem lakáscélra kívánja felhasználni a betétösszeget, a lakástakarékpénztár a lakáselőtakarékoskodó betétszámlájáról levonja a jóváírt összes állami támogatást az arra jóváírt betéti kamattal és a levont összeget átutalja a központi költségvetésnek.
 
-(4) Amennyiben a lakáselőtakarékoskodó az állami támogatást felvette, a lakástakarékpénztár utólag is ellenőrizheti a felvett összeg lakáscélú felhasználását.
+(4) Amennyiben a lakás-előtakarékoskodó, vagy kedvezményezett jelölése esetén a kedvezményezett az állami támogatást felvette, a lakástakarékpénztár utólag is ellenőrizheti a felvett összeg lakáscélú felhasználását.
 
 (5) Ha a lakás-előtakarékoskodó vagy a kedvezményezett felvette az állami támogatást, de a kormányrendeletben meghatározott időn belül nem igazolja a támogatással növelt betétösszeg lakáscélú felhasználását, illetve az utólagos ellenőrzés során nem tudja azt bizonyítani, vagy az utólagos ellenőrzés egyéb okból jogosulatlan igénybevételt állapít meg, vissza kell fizetnie a kapott állami támogatást a felvétel napjáig jóváírt betéti kamattal, valamint a felvétel napjától a visszafizetés napjáig, vagy amennyiben az állami adóhatóság lakás-takarékpénztár általi megkereséséig nem került sor a visszafizetésre, akkor a megkeresésig számított időszakra jutó mindenkori jegybanki alapkamattal növelt összegben a központi költségvetésnek. Ha a lakás-előtakarékoskodó vagy a kedvezményezett a lakás-előtakarékossági szerződés alapján felvett összeg csak egy részének lakáscélú felhasználását igazolja, visszafizetési kötelezettsége a nem igazolt összeggel arányos.
 
@@ -267,7 +278,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (6a) A jogerős fizetési meghagyás és a fizetési kötelezettséget megállapító jogerős bírósági határozat végrehajtható okirat, amely alapján a lakás-takarékpénztár megkeresésére a tartozást az állami adóhatóság a központi költségvetés javára adók módjára hajtja be. A lakás-takarékpénztár az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben meghatározott költségminimum viselésére nem köteles.
 
-(6b) A (6a) bekezdésben meghatározott jogerős fizetési meghagyáson, illetve a fizetési kötelezettséget megállapító jogerős bírósági határozaton alapuló követelések esetében az állami adó- és vámhatóság részére megküldött behajtás iránti megkeresés napjáig benyújtott fizetési kedvezmény iránti kérelmeket a lakástakarékpénztár bírálja el. A visszakövetelt támogatás visszafizetésének részben vagy egészben történő elengedése akkor engedélyezhető, ha a kérelmező és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kérelem benyújtását megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét. A kérelemhez csatolni kell a kérelmező és a vele közös háztartásban élők jövedelmére vonatkozó igazolásokat.
+(6b) A (6a) bekezdésben meghatározott jogerős fizetési meghagyáson, illetve a fizetési kötelezettséget megállapító jogerős bírósági határozaton alapuló követelések esetében az állami adó- és vámhatóság részére megküldött behajtás iránti megkeresés napjáig benyújtott fizetési kedvezmény iránti kérelmeket a lakáscélú állami támogatások ügyében illetékes járási hivatal bírálja el. A visszakövetelt támogatás visszafizetésének részben vagy egészben történő elengedése akkor engedélyezhető, ha a kérelmező és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kérelem benyújtását megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét. A kérelemhez csatolni kell a kérelmező és a vele közös háztartásban élők jövedelmére vonatkozó igazolásokat.
 
 (6c)
 

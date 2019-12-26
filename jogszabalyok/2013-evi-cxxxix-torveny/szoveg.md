@@ -597,7 +597,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (2) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
 
-(3) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet végrehajtását.
+(3) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja az (EU) 2017/1129 európai parlamenti és tanácsi rendeletnek az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztató formátuma, tartalma, ellenőrzése és jóváhagyása tekintetében történő kiegészítéséről, valamint a 809/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, a Bizottság (EU) 2019. március 14-i 2019/980 felhatalmazáson alapuló rendelete végrehajtását.
 
 (4) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet végrehajtását.
 
@@ -631,7 +631,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (19) Az MNB a 39. § (1) bekezdés o) pontjában meghatározott feladatai során ellátja a kártyaalapú fizetési műveletek bankközi jutalékairól szóló, 2015. április 29-i 2015/751/EU parlamenti és tanácsi rendelet végrehajtásából származó feladatokat.
 
-(20) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
+(20) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 596/2014/EU rendelet) végrehajtását.
 
 (21) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet végrehajtását.
 
@@ -650,6 +650,10 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 (28) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2402 európai parlamenti és tanácsi rendelet] végrehajtását, ideértve az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 29. cikk (4) és (5) bekezdésében meghatározott hatáskört.
 
 (29) A (28) bekezdéstől eltérően az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 6–9. és 18–27. cikkében meghatározott kötelezettségeknek való megfelelést az MNB nem felügyeli azon szervezetek esetében, amelyek csupán kitettségeket értékesítenek az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 7. pontja szerinti ABCP-program vagy egyéb értékpapírosítási ügylet vagy konstrukció keretében, de nem helyeznek ki kitettségeket aktívan, a rendszeres alapon történő értékpapírosítás elsődleges céljával.
+
+(30) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet végrehajtását.
+
+(31) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a kollektív befektetési vállalkozások határokon átnyúló forgalmazásának megkönnyítéséről, valamint a 345/2013/EU, a 346/2013/EU és az 1286/2014/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1156 európai parlamenti és tanácsi rendelet végrehajtását.
 
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
 
@@ -726,7 +730,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 - r) könnyen hozzáférhető módon a Bizottság elektronikus tájékoztatóját, amely felsorolja a fogyasztóknak az Európai Parlament és a Tanács (EU) 2015/2366 irányelve szerinti jogait, valamint a kapcsolódó Európai Uniós jogszabályokat,
 - s) azt a tájékoztatást, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést,
 - t) – jogi területek szerinti kategóriákba sorolva – a biztosítási és viszontbiztosítási értékesítési tevékenységre alkalmazandó hatályos jogszabályok naprakész elérhetőségére mutató internetes hivatkozásokat.
-- u) a foglalkoztatói nyugdíjszolgáltató intézményekkel kapcsolatos prudenciális felügyelet fő céljaira vonatkozó tájékoztatást, a felügyeleti felülvizsgálati eljárásra vonatkozó információkat, valamint a prudenciális előírások alkalmazásának főbb területeire vonatkozó összesített statisztikai adatokat és kapcsolódó elemzést.
+- u) a foglalkoztatói nyugdíjszolgáltató intézményekkel kapcsolatos prudenciális felügyelet fő céljaira vonatkozó tájékoztatást, a felügyeleti felülvizsgálati eljárásra vonatkozó információkat, valamint a prudenciális előírások alkalmazásának főbb területeire vonatkozó összesített statisztikai adatokat és kapcsolódó elemzést,
+- v) a 600/2014/EU rendelet 42. cikke alapján hozott határozatát, amelyben pénzügyi eszközök vagy strukturált betétek forgalmazását, értékesítését, továbbá egyes piaci cselekmények vagy magatartások végzését megtiltja vagy korlátozza.
 
 (2a) Az MNB a (2) bekezdés szerinti közzétételi kötelezettségének
 
@@ -756,13 +761,13 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 45. § Az MNB hatóságként jár el
 
 - a) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. § (1) és (3) bekezdésében meghatározott törvények hatálya alá tartozó személyek, szervezetek, valamint tevékenységek feletti folyamatos felügyelet gyakorlása,
-- b) a 4. § (8) bekezdésében meghatározott feladatkörében a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti jogosultság gyakorlása során,
+- b) a 4. § (8) bekezdésében meghatározott feladatkörében a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti jogosultság gyakorlása,
 - c) a 4. § (5) bekezdésében meghatározott feladatkörében a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló törvény szerinti kijelölés, valamint annak visszavonása,
-- d) a 4. § (2) bekezdésében meghatározott feladatkörében a forgalomban lévő magyar törvényes fizetőeszközről, valamint az MNB által forgalomból bevont, de törvényes fizetőeszközre átváltható bankjegyről és érméről utánzat készítésének és készíttetésének engedélyezése és ellenőrzése, továbbá
-- e) az e törvényben, az MNB elnöke rendeleteiben és az MNB határozataiban foglalt rendelkezések megtartásának ellenőrzése,
+- d) a 4. § (2) bekezdésében meghatározott feladatkörében a forgalomban lévő magyar törvényes fizetőeszközről, valamint az MNB által forgalomból bevont, de törvényes fizetőeszközre átváltható bankjegyről és érméről utánzat készítésének és készíttetésének engedélyezése és ellenőrzése,
+- e) az e törvényben, az MNB elnöke rendeleteiben és az MNB határozataiban foglalt rendelkezések megtartásának ellenőrzése, valamint
 - f) a 4. § (7) bekezdésében meghatározott feladatkörében eljárva a Hpt. 90. §-ában, valamint a Bszt. 110/E. §-ában meghatározottak szerint a globálisan és egyéb rendszerszinten jelentős hitelintézetekre, befektetési vállalkozásokra vonatkozó tőkepuffer, a 35/A. § (1) bekezdésében meghatározott rendszerkockázati tőkepuffer képzésére való kötelezés
 
-során.
+(a továbbiakban együtt: hatósági tevékenység) során.
 
 46. § (1) Az MNB-nek törvényben meghatározott hatósági eljárása és ellenőrzése során az e törvényben és
 
@@ -776,6 +781,7 @@ nem szabályozott kérdésekben az általános közigazgatási rendtartásról s
 
 - 1. az alapelvek szerepére, a jogszerűség elvére, a hivatalbóliság elvére, a hatékonyság elvére, az ügyfélre vonatkozó alapelvekre, a jóhiszeműség elvére és a bizalmi elvre,
 - 2. az eljárási képességre és a képviseletre,
+- 2a. a 15. § (2) bekezdésében meghatározott eljárási kötelezettségre,
 - 3. a hatáskör és az illetékesség vizsgálatára, a hatásköri és illetékességi vitára,
 - 4. a megkeresés szabályaira,
 - 5. az adatkezelésre, az adatok zárt kezelésére,
@@ -837,9 +843,11 @@ folytat le.
 
 (3) Az MNB a folyamatos felügyelethez szükséges információk beszerzése érdekében a 39. § (1) bekezdésében meghatározott törvények és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény hatálya alá tartozó szervezetek vagy személyek számára rendszeres vagy rendkívüli adatszolgáltatási kötelezettséget írhat elő.
 
+(3a) Az MNB egyes pénzügyi eszközök vagy strukturált betétek forgalmazását, értékesítését, továbbá egyes piaci cselekmények vagy magatartások végzését határozatában megtilthatja vagy korlátozhatja a 600/2014/EU rendelet 42. cikkében meghatározott feltételek fennállása esetén. A határozat a 39. § hatálya alá tartozó személyek és szervezetek, mint kötelezettek adatai helyett a döntéssel érintett pénzügyi eszközök vagy strukturált betétek körét, vagy egyes piaci cselekményeket vagy magatartásokat tartalmazza.
+
 (4) Az MNB felhívására a 39. § (1) bekezdésében meghatározott törvények és a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény hatálya alá tartozó személy és szervezet köteles az MNB feladatellátásához kért, a tevékenységére vonatkozó tájékoztatást megadni, a hatósági eljárás tárgyával összefüggő adatot, beszámolót, bizonylatot, vizsgálati anyagot, a számviteli nyilvántartásait, szabályzatait, az egyes ügyletekhez kapcsolódó dokumentációit, a legfőbb szerve, az ügyvezető és ellenőrző szerve előterjesztéseit, e szervek ülésének jegyzőkönyveit, a könyvvizsgáló írásos észrevételeit, a könyvvizsgálói jelentést, a belső ellenőrzés jelentéseit, jegyzőkönyveit, továbbá az előbbiekben fel nem sorolt egyéb kimutatást az MNB által meghatározott formában elkészíteni és rendelkezésére bocsátani.
 
-(4a) Az MNB valamely – a 48. § (1) bekezdésében meghatározott – eljárásában vagy folyamatos felügyelés keretében jogszerűen megszerzett iratot, adatot, dokumentumot vagy egyéb bizonyítási eszközt más – a 48. § (1) bekezdésében meghatározott – eljárásaiban és a folyamatos felügyelés során is felhasználhatja, feltéve, hogy az így megszerzett és kezelt – akár személyes adatot tartalmazó vagy annak minősülő – irat, adat, dokumentum vagy egyéb bizonyítási eszköz más eljárásban történő felhasználása az adott eljárás során a tényállás tisztázásához és az eljárás lefolytatásához szükséges.
+(4a) Az MNB a folyamatos felügyelés keretében – a 48. § (1) bekezdésében meghatározott eljárásokat is ideértve – jogszerűen megszerzett iratot, adatot, dokumentumot vagy egyéb bizonyítási eszközt más folyamatos felügyelés során – a 48. § (1) bekezdésében meghatározott eljárásokat is ideértve – is felhasználhatja, feltéve, hogy az így megszerzett és kezelt – akár személyes adatot tartalmazó vagy annak minősülő – irat, adat, dokumentum vagy egyéb bizonyítási eszköz más eljárásban történő felhasználása az adott eljárás során a tényállás tisztázásához és az eljárás lefolytatásához szükséges.
 
 (4b) Az MNB felhívására az ügyfél, az eljárás egyéb résztvevője és a tényállás tisztázása során közreműködésre kötelezett személy adatszolgáltatás keretében köteles közölni az érdemi döntéshez szükséges adatokat, ideértve a személyes és – ha az érintett adat védelmét szabályozó törvény azt nem zárja ki – a védett adatokat is. Az ügyfél jogsértést beismerő nyilatkozatot nem köteles tenni, azonban az egyéb, rá nézve terhelő bizonyíték rendelkezésre bocsátását, adatok, iratok szolgáltatását nem tagadhatja meg.
 
@@ -866,8 +874,9 @@ folytat le.
 - g) a hatóság működését legalább egy teljes napra ellehetetlenítő üzemzavar vagy más elháríthatatlan esemény időtartama,
 - h) a kérelem, a döntés és egyéb irat fordításához szükséges idő,
 - i) a kérelmező ügyfelet az eljárási költség előlegezésére kötelező döntés közlésére irányuló intézkedéstől az annak teljesítéséig terjedő idő,
-- j) a szakértői vélemény elkészítésének időtartama, és
-- k) a hatósági megkeresés vagy a döntés postára adásának napjától annak kézbesítéséig terjedő időtartam, valamint a hirdetményi, továbbá a kézbesítési meghatalmazott és a kézbesítési ügygondnok útján történő közlés időtartama.
+- j) a szakértői vélemény elkészítésének időtartama,
+- k) a hatósági megkeresés vagy a döntés postára adásának napjától annak kézbesítéséig terjedő időtartam, valamint a hirdetményi, továbbá a kézbesítési meghatalmazott és a kézbesítési ügygondnok útján történő közlés időtartama, és
+- l) a bizonyítási eljárás lezárását követően MNB-hez érkezett iratbetekintésre irányuló kérelem elbírálása során hozott végzés meghozatalától, vagy az iratbetekintés korlátozás nélkül történő engedélyezése esetén az ügyfél tájékoztatásától a kérelem alapján megvalósuló iratbetekintés napjáig terjedő időtartam.
 
 (5) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény kifüggesztésének és levételének, valamint a közhírré tétel napja. A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján. Az órákban megállapított határidő az okot adó cselekményt követő óra első percében kezdődik.
 
@@ -909,7 +918,7 @@ folytat le.
 
 (7) Az ügyben eljáró testület tagjával és vezetőjével, továbbá az MNB kiadmányozási jogkörrel rendelkező vezetőjével szemben a kizárás szabályait megfelelően alkalmazni kell azzal, hogy ha a hatóságnál nincs másik kiadmányozási jogkörrel rendelkező vagy azzal felruházható személy, a hatáskör gyakorlója jár el.
 
-49/B. § (1) Az ügyfél az eljárás bármely szakaszában és annak befejezését követően is betekinthet az eljárás során keletkezett iratba, kivéve, ha az MNB – az eljárás eredményessége érdekében – végzéssel elrendeli, hogy az eljárás irataiba csak a bizonyítási eljárás lezárását követően tekinthet be, vagy az erre irányuló kérelmet végzéssel elutasítja. Az ügyfél a bizonyítási eljárás lezárását megelőzően is betekinthet abba az iratba, amelynek megismerése az eljárás során hozott önálló jogorvoslattal támadható végzéssel szembeni jogorvoslati joga gyakorlásához szükséges.
+49/B. § (1) Az ügyfél az MNB hatósági tevékenysége során és annak befejezését követően is betekinthet az eljárás során keletkezett iratba, kivéve, ha e törvény eltérően rendelkezik, vagy az MNB – az eljárás eredményessége érdekében – végzéssel elrendeli, hogy az eljárás irataiba csak a bizonyítási eljárás lezárását követően tekinthet be, vagy az erre irányuló kérelmet végzéssel elutasítja. Az ügyfél a bizonyítási eljárás lezárását megelőzően is betekinthet abba az iratba, amelynek megismerése az eljárás során hozott önálló jogorvoslattal támadható végzéssel szembeni jogorvoslati joga gyakorlásához szükséges.
 
 (2) A tanú a vallomását tartalmazó iratba, a szemletárgy birtokosa a szemléről készített iratba tekinthet be. Harmadik személy akkor tekinthet be a személyes adatot vagy védett adatot tartalmazó iratba, ha igazolja, hogy az adat megismerése joga érvényesítéséhez, illetve jogszabályon, bírósági vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges, valamint, ha a védett adat megismerésének törvényi feltételei fennállnak.
 
@@ -928,7 +937,9 @@ folytat le.
 - a) az iratról való másolat-, illetve kivonatkészítés jogát korlátozhatja, illetve
 - b) kivételesen, ha az ügyfél törvényes jogainak gyakorlása csak olyan adat megismerésének lehetővé tételével biztosítható, amely adatnak a betekintést kérő általi pontos ismerete az adat jogosultjának az adat titokban tartásához fűződő érdekét közvetlenül és visszafordíthatatlanul sértheti, előírhatja, hogy az iratbetekintés csak az ügyfelet képviselő ügyvéd vagy az ügyfél által megbízott szakértő személy útján gyakorolható azzal, hogy a megismert korlátozottan megismerhető adatok nem tárhatók fel az ügyfélnek sem.
 
-(9) Az iratbetekintés során az arra jogosult másolatot, kivonatot készíthet vagy olyan másolatot kérhet, amelyet az MNB kérelemre hitelesít. Az iratbetekintési jog – a személyes és védett adatok megismerhetetlenné tételéért, valamint az ilyen módon kivonatolt iratról való másolat készítéséért – jogszabályban meghatározott költségtérítés ellenében gyakorolható.
+(9) Az iratbetekintés során az arra jogosult másolatot, kivonatot készíthet, elektronikus másolatot kérhet, vagy elektronikus adathordozón kérheti az adatok rögzítését és átadását, vagy olyan papíralapú másolatot kérhet, amelyet az MNB kérelemre hitelesít. Az iratbetekintési jog – a személyes és védett adatok megismerhetetlenné tételéért, valamint az ilyen módon kivonatolt iratról való másolat készítéséért – jogszabályban meghatározott költségtérítés ellenében gyakorolható.
+
+(10) Az MNB az iratbetekintés korlátozással történő engedélyezéséről, vagy az iratbetekintési kérelem elutasításáról végzéssel dönt. Amennyiben az MNB az iratbetekintést korlátozás nélkül engedélyezi, arról külön alakszerű döntést nem kell hoznia, de az ügyfelet haladéktalanul tájékoztatja.
 
 49/C. § (1) A döntés határozat vagy végzés. Az MNB az ügy érdemében határozatot hoz, az eljárás során hozott egyéb döntések végzések.
 
@@ -998,6 +1009,8 @@ a kézbesítettség beáll, kivéve, ha az MNB a kézbesítettség ellen benyúj
 - d) az ügyfelek száma meghaladja az ötvenet vagy
 - e) azt jogszabály előírja.
 
+(3a) Az MNB a 600/2014/EU rendelet 42. cikke alapján hozott határozata közlését – amelyben pénzügyi eszközök vagy strukturált betétek forgalmazását, értékesítését, továbbá egyes piaci cselekmények vagy magatartások végzését tiltja meg vagy korlátozza – hirdetmény útján kézbesíti. A határozat közlése időpontjának a közzététel időpontja minősül.
+
 (4) A hirdetmény tartalmazza
 
 - a) a honlapon történő közzététel napját,
@@ -1008,6 +1021,8 @@ a kézbesítettség beáll, kivéve, ha az MNB a kézbesítettség ellen benyúj
 - f) azt a figyelemfelhívást, hogy az ügyfél vagy képviselője a döntést a hatóságnál megtekintheti.
 
 (5) A hirdetményt az MNB a honlapján helyezi el. A döntés a honlapon történt megjelentetés napját követő tizedik napon közöltnek tekintendő.
+
+(5a) A (3a) bekezdés szerinti határozat azonnal végrehajtandó.
 
 (6) Egyebekben az Ákr. kézbesítésre vonatkozó szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
@@ -1045,7 +1060,7 @@ a kézbesítettség beáll, kivéve, ha az MNB a kézbesítettség ellen benyúj
 
 (5) Az MNB mérlegelése alapján a Hpt.-ben, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, az Fnytv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele legfeljebb 60 napra elhalasztható, ha a jogsértő magatartás legfeljebb 60 napon belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
 
-(5a) Amennyiben az MNB úgy ítéli meg, hogy az 1286/2014/EU európai parlamenti és tanácsi rendelet szabályainak megsértése okán hozott, véglegessé vált határozatában megjelölt jogsértő nem természetes személy nevének és székhelyének, valamint a jogsértő természetes személy nevének közzététele – az ilyen adatok közzététele által okozott hátrány és az azáltal elérhető előny arányosságát vizsgáló eseti értékelés alapján – aránytalan, veszélyezteti a pénzügyi piacok stabilitását vagy valamely folyamatban lévő büntetőeljárás sikerességét, akkor az MNB köteles
+(5a) Amennyiben az MNB úgy ítéli meg, hogy az 1286/2014/EU európai parlamenti és tanácsi rendelet és az (EU) 2017/1129 európai parlamenti és tanácsi rendelet szabályainak megsértése okán hozott, véglegessé vált határozatában megjelölt jogsértő nem természetes személy nevének és székhelyének, valamint a jogsértő természetes személy nevének közzététele – az ilyen adatok közzététele által okozott hátrány és az azáltal elérhető előny arányosságát vizsgáló eseti értékelés alapján – aránytalan, veszélyezteti a pénzügyi piacok stabilitását vagy valamely folyamatban lévő büntetőeljárás sikerességét, akkor az MNB köteles
 
 - a) a közzétételt – az (5) bekezdéssel összhangban – elhalasztani mindaddig, amíg a közzététel ellen szóló okok meg nem szűnnek,
 - b) határozatát – az (5) bekezdéssel összhangban – az anonimitás megőrzésével közzétenni, amennyiben az anonim közzététel biztosítja az érintett személyes adatok hatékony védelmét, vagy
@@ -1064,7 +1079,7 @@ akkor határozhat úgy, hogy a közzétételt – az (5) bekezdéssel összhangb
 
 #### 53/A. §
 
-53/B. § (1) Azt követően, hogy a szankcióval sújtott személy értesítést kapott a 600/2014/EU rendelet, a Tpt., illetve a Bszt. megsértéséért kiszabott szankciót vagy intézkedést elrendelő határozatról, az MNB minden ilyen határozatot indokolatlan késedelem nélkül közzétesz hivatalos honlapján. A közzététel legalább a jogsértés típusára és jellegére, valamint a felelős személy kilétére vonatkozó információt tartalmazza. Ez a kötelezettség nem alkalmazandó a vizsgálati jellegű intézkedéseket kiszabó határozatokra.
+53/B. § (1) Azt követően, hogy a szankcióval sújtott személy értesítést kapott a 600/2014/EU rendelet, a 909/2014/EU rendelet, a Tpt., illetve a Bszt. megsértéséért kiszabott szankciót vagy intézkedést elrendelő határozatról, az MNB minden ilyen határozatot indokolatlan késedelem nélkül közzétesz hivatalos honlapján. A közzététel legalább a jogsértés típusára és jellegére, valamint a felelős személy kilétére vonatkozó információt tartalmazza. Ez a kötelezettség nem alkalmazandó a vizsgálati jellegű intézkedéseket kiszabó határozatokra.
 
 (2) Ha a jogi személyek kilétének vagy a természetes személyek személyes adatainak a közzététele – az említett adatok közzétételének arányosságát vizsgáló eseti értékelés alapján – aránytalan, vagy a közzététel a pénzügyi piacok stabilitását vagy egy folyamatban lévő büntetőeljárást veszélyeztetné, és az 53. § (4) és (5) bekezdésében foglalt lehetőségek nem elégségesek annak biztosításához, hogy
 
@@ -1157,7 +1172,7 @@ az MNB dönthet úgy, hogy nem teszi közzé a szankciót vagy intézkedést elr
 
 (11) Az engedélyezési eljárásokban csak eredeti dokumentum vagy hiteles elektronikus másolat nyújtható be.
 
-(12) Az MNB 45. § szerinti hatósági tevékenysége során a gazdálkodó szervezetek őrzésében lévő papíralapú közokiratról, más által kiállított papíralapú teljes bizonyító erejű magánokiratról vagy egyéb magánokiratról a gazdálkodó szerv által készített elektronikus másolat hiteles dokumentumként nem fogadható el.
+(12) Az MNB 45. § szerinti hatósági tevékenysége során – ide nem értve az ellenőrzési eljárást, a fogyasztóvédelmi ellenőrzési eljárást és a felügyeleti ellenőrzést – a gazdálkodó szervezetek őrzésében lévő papíralapú közokiratról, más által kiállított papíralapú teljes bizonyító erejű magánokiratról vagy egyéb magánokiratról a gazdálkodó szerv által készített elektronikus másolat hiteles másolatként nem fogadható el.
 
 ### VII. Fejezet — EGYES HATÓSÁGI ELJÁRÁSOK
 
@@ -1496,7 +1511,7 @@ azzal, hogy ha a jogi személy anyavállalat vagy anyavállalat leányvállalata
 
 #### 28. A felügyeleti biztos
 
-79. § (1) A 39. § (1) bekezdés a), c), f), h), i), k), l) és m) pontja szerinti törvényekben meghatározott felügyeleti biztos kirendelésére az e §-ban és a 80. §-ban meghatározott szabályokat kell alkalmazni.
+79. § (1) A 39. § (1) bekezdés a), c), f), h), i), k), l), m) és s) pontja szerinti törvényekben meghatározott felügyeleti biztos kirendelésére az e §-ban és a 80. §-ban meghatározott szabályokat kell alkalmazni.
 
 (2) Felügyeleti biztosnak kizárólag az MNB 4. § (9) bekezdésben meghatározott feladatkört ellátó munkavállalója vagy a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki (a továbbiakban: MNB által kirendelt nonprofit gazdasági társaság. A felügyeleti biztosi feladatokat az MNB munkavállalója és a nonprofit gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy együttesen is elláthatja.
 
@@ -1696,8 +1711,8 @@ tarthat.
 90. § (1) Az MNB piacfelügyeleti eljárást indít
 
 - a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység gyanúja esetén,
-- b) bennfentes kereskedelem vagy piacbefolyásolás gyanúja esetén,
-- c) bennfentes személyre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
+- b) bennfentes kereskedelem vagy piacbefolyásolás, valamint bennfentes információ jogosulatlan közzétételének gyanúja esetén,
+- c) az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre és adott esetben az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
 - d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
 - e) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából [az a)–e) pont a továbbiakban együtt: piacfelügyeleti eljárás].
 
@@ -2400,7 +2415,7 @@ terjedhet.
 
 - a) az Európai Értékpapír-piaci Hatóságot
   - aa) a piaci visszaélésekről, valamint a befektetési vállalkozásokra és az árutőzsdei szolgáltatókra vonatkozó jogszabályi rendelkezések megsértésével kapcsolatban kiszabott közigazgatási intézkedésről vagy szankcióról a nyilvánosságra hozatalt követően, valamint évente összesítő jelleggel,
-  - ab) az értékpapírt kibocsátó, az ajánlattevő vagy a szabályozott piacra történő bevezetést kérő személy értesítésével egyidejűleg a tájékoztató és annak bármely kiegészítése jóváhagyásáról, amellyel egyidejűleg a tájékoztató és a tájékoztató kiegészítő jegyzékeinek egy példányát is megküldi,
+  - ab)
   - ac) a befektetési szolgáltatási tevékenység végzésére jogosító engedély, tőzsde alapítására vonatkozó engedély, tőzsdei tevékenység végzésére, befektetési alapkezelési tevékenység végzésére jogosító engedély kiadásáról és visszavonásáról,
   - ad) a Magyarországon székhellyel rendelkező szabályozott piacokról, amelynek jegyzékét megküldi, illetve a jegyzék változásáról,
   - ae) azokról a bíróságon kívüli panasztételi és jogorvoslati eljárásokról, amelyek a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek rendelkezésére állnak,
@@ -2483,6 +2498,16 @@ terjedhet.
 (9) A Pénzügyi Békéltető Testület tevékenységére vonatkozóan az Európai Bizottság felé a Bizottság által kidolgozott formanyomtatványon tájékoztatást ad.
 
 (10) Az MNB értesítheti az Európai Értékpapír-piaci Hatóságot az olyan helyzetekről, amikor a befektetési vállalkozást érintő helyszíni ellenőrzés vagy vizsgálat elvégzéséhez vagy információcseréhez kapcsolódó felügyeleti megkeresését elutasították vagy nem jártak el észszerű időben.
+
+(11) A Felügyelet késedelem nélkül átadja a másik EGT-állam illetékes felügyeleti hatóságának a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló, 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelv átültetését biztosító jogszabályokban meghatározott feladatok ellátásához szükséges információkat. A Felügyelet jelezheti, hogy az átadott információkat hozzájárulása nélkül nem lehet közzétenni és kizárólag azokra a célokra lehet felhasználni, amelyekhez hozzájárult. A Felügyelet a másik EGT-állam illetékes felügyeleti hatóságától kapott információkat kizárólag azok hozzájárulásával és az általuk elfogadott célból továbbíthatja harmadik félnek az indokolt esetek kivételével. Indokolt esetek fennállása esetén a Felügyelet azonnal tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.
+
+(12) A Felügyelet csak abban az esetben tagadhatja meg az együttműködést, illetve a (11) bekezdésben meghatározott információcserét, ha
+
+- a) az sérti Magyarország szuverenitását, biztonságát vagy közrendjét;
+- b) ugyanazon személyek és tevékenységek tekintetében magyarországi bíróságnál vagy hatóságnál már kezdeményeztek eljárást; vagy
+- c) ugyanazon személyek és tevékenységek tekintetében Magyarországon már jogerős bírósági ítélet vagy végleges döntés született
+
+azzal, hogy az elutasítás tényéről és indokáról a Felügyelet részletes tájékoztatást ad a megkeresést küldő EGT-állam illetékes felügyeleti hatóságának.
 
 141. § (1) Az MNB a magyarországi székhelyű hitelintézetek és befektetési vállalkozások Hpt. és Bszt. szerinti javadalmazási politikájával kapcsolatban jogszabály alapján nyilvánosságra hozott adatokat a javadalmazási trendek értékelése céljából összegyűjti. Az MNB ezt az információt megküldi az Európai Bankhatóságnak.
 
@@ -2953,7 +2978,7 @@ fordítható.
   - ah) a minősített befolyás engedélyezésére,
   - ai) a független és függő közvetítő igénybevételéhez szükséges engedélyezésre vagy nyilvántartásba vételre,
   - aj) a nyilvánosan forgalomba hozott értékpapír kibocsátójának tájékoztatási kötelezettsége megszüntetésére,
-  - ak) a sorozatban kibocsátott értékpapír nyilvános forgalomba hozatalához, illetve szabályozott piacra történő bevezetéséhez vagy multilaterális kereskedési rendszerbe történő regisztrálásához szükséges tájékoztató vagy alaptájékoztató és hirdetmény közzétételének engedélyezésére,
+  - ak)
   - al) a nyilvánosan működő részvénytársaságban történő befolyásszerzéshez szükséges nyilvános vételi ajánlat jóváhagyására,
 
 irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat.
@@ -3186,7 +3211,8 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - 15. az Európai Parlament és a Tanács irányelve az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek a letétkezelői funkciók, a javadalmazási politikák és a szankciók tekintetében történő módosításáról szóló, 2014. július 23-i 2014/91/EU európai parlamenti és tanácsi irányelvnek,
 - 16. a biztosítási értékesítésről szóló, 2016. január 20-i 2016/97/EU európai parlamenti és tanácsi irányelvnek,
 - 17. a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló, 2016. december 14-i 2016/2341 európai parlamenti és tanácsi irányelvnek,
-- 18. a 2014/65/EU európai parlamenti és tanácsi irányelvnek az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelme, a termékirányítási kötelezettségek, valamint a díjak, jutalékok vagy pénzbeli és nem pénzbeli juttatások nyújtására vagy átvételére alkalmazandó szabályok tekintetében történő kiegészítéséről szóló, 2016. április 7-i (EU) 2017/593 felhatalmazáson alapuló bizottsági irányelvnek
+- 18. a 2014/65/EU európai parlamenti és tanácsi irányelvnek az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelme, a termékirányítási kötelezettségek, valamint a díjak, jutalékok vagy pénzbeli és nem pénzbeli juttatások nyújtására vagy átvételére alkalmazandó szabályok tekintetében történő kiegészítéséről szóló, 2016. április 7-i (EU) 2017/593 felhatalmazáson alapuló bizottsági irányelvnek,
+- 19. a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló, 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -3210,7 +3236,8 @@ való megfelelést szolgálja.
 - 16. a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet,
 - 17. az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az európai szociális vállalkozási alapokról szóló 346/2013/EU rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1991 európai parlamenti és tanácsi rendelet
 - 18. a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről szóló 575/2013/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2401 európai parlamenti és tanácsi rendelet,
-- 19. az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet
+- 19. az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet,
+- 20. az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -3231,8 +3258,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 
 - a)
 - b) (2) bekezdése a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet,
-- c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
-- c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
+- c) (3) bekezdése az (EU) 2017/1129 európai parlamenti és tanácsi rendeletnek az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztató formátuma, tartalma, ellenőrzése és jóváhagyása tekintetében történő kiegészítéséről, valamint a 809/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. március 14-i (EU) 2019/980 bizottsági rendelet,
 - d) (4) bekezdése a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 9., 10., 12. és 13. cikkének,
 - e) (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése és 25a. cikke,
 - f) (8) bekezdése a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelete,
@@ -3246,7 +3272,9 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 - n) (26) bekezdése a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet,
 - o) (27) bekezdése az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az európai szociális vállalkozási alapokról szóló 346/2013/EU rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1991 európai parlamenti és tanácsi rendelet
 - p) (28) bekezdése a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről szóló 575/2013/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2401 európai parlamenti és tanácsi rendelet,
-- q) (29) bekezdése az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet
+- q) (29) bekezdése az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet,
+- r) (30) bekezdése az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet,
+- s) (31) bekezdése a kollektív befektetési vállalkozások határokon átnyúló forgalmazásának megkönnyítéséről, valamint a 345/2013/EU, a 346/2013/EU és az 1286/2014/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1156 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 
@@ -3358,19 +3386,19 @@ ba) befektetési alap nyilvántartásból való törlésére, ha arra azért ker
 
 bb) befektetési alap nyilvántartásból való törlésére, ha arra azért kerül sor, mert az MNB kötelezte a befektetési alapkezelőt a befektetési alap kezelésének átadására, azonban a befektetési alap kezelését egyetlen befektetési alapkezelő sem veszi át,
 
-c) a kibocsátó vagy a szabályozott piacra bevezetést kezdeményező személy között a Tpt. 22. § (2) és (5) bekezdésében meghatározott dokumentumban szereplő információknak a tájékoztatóban foglalt információkkal való egyenértékűségével kapcsolatos döntés meghozatalára,
+c) a kibocsátó vagy a szabályozott piacra bevezetést kezdeményező személy között az (EU) 2017/1129 rendelet 1. cikke (4) bekezdésének f) és g) pontjában, illetve 1. cikke (5) bekezdésének e) és f) pontjában meghatározott tájékoztató dokumentumban szereplő információknak a tájékoztatóban foglalt információkkal való egyenértékűségével kapcsolatos döntés meghozatalára,
 
-d) a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését vagy az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy vagy a forgalmazó között
+d) a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy vagy a forgalmazó között
 
-da) a kibocsátási tájékoztató kiegészítése közzétételének engedélyezésére,
+da) a kibocsátási tájékoztató kiegészítése közzétételének jóváhagyására,
 
-db) az alaptájékoztató kiegészítése közzétételének engedélyezésére,
+db) az alaptájékoztató kiegészítése közzétételének jóváhagyására,
 
-e) a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését vagy az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy között
+e) a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy között
 
-ea) a kibocsátási tájékoztató és a hirdetmény közzétételének engedélyezésére,
+ea) a kibocsátási tájékoztató közzétételének jóváhagyására,
 
-eb) az alaptájékoztató és a hirdetmény közzétételének engedélyezésére,
+eb) az alaptájékoztató közzétételének jóváhagyására,
 
 f) a Tpt. 23. számú mellékletében meghatározott nemzetközi pénzügyi intézmény, vagy az olyan nemzetközi intézmény között, amelynek az Európai Unió legalább egy tagállama a tagja, az ismertető közzétételének engedélyezésére,
 
