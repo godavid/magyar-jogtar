@@ -103,7 +103,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 8. betét: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti betétszerződés vagy a takarékbetétről szóló 1989. évi 2. törvényerejű rendelet szerinti takarékbetét-szerződés alapján fennálló tartozás, ideértve a hitelintézetnél a fizetésiszámla-szerződés alapján fennálló pozitív számlaegyenleget is;
 - 9. betét és más, a nyilvánosságtól származó visszafizetendő pénzeszköz gyűjtése: pénzeszközök egyedileg előre meg nem határozott személyektől történő gyűjtése oly módon, hogy azzal a betétgyűjtő tulajdonosként rendelkezhet, de köteles azt – kamattal, más előny biztosításával vagy anélkül – visszafizetni;
 - 10. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik;
-- 11. csoportfinanszírozás: anyavállalatnak leányvállalatokkal vagy ez utóbbiak egymás közötti, a likviditás biztosítása érdekében közösen végrehajtott pénzügyi művelete;
+- 11. csoportfinanszírozás: anyavállalatnak leányvállalatokkal vagy ez utóbbiak egymás közötti, likviditási vagy allokációs célú közösen végrehajtott pénzügyi művelete;
 - 11a. digitális tartalom: olyan áru vagy szolgáltatás, amelyet digitális formában állítanak elő és nyújtanak, illetve értékesítenek, és amelynek használata, igénybevétele meghatározott technikai eszközre korlátozódik és semmilyen formában nem jár fizikai áruk vagy szolgáltatások használatával, igénybevételével;
 - 12. dotációs tőke: a fióktelep létesítéséhez és működéséhez a létesítő által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke;
 - 13. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
@@ -1382,6 +1382,8 @@ rendelkezik.
 
 (7) A pénzügyi szolgáltatást nyújtó személy felelős a függő közvetítő és a vele – e tevékenységi körében – munkaviszonyban vagy megbízási jogviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személyekkel szemben támasztott szakmai követelmények fennállásának ellenőrzéséért.
 
+(8) A jelzáloghitel közvetítői tevékenységet végző közvetítő figyelemmel kíséri azt, hogy a közvetítői alvállalkozója betartja-e a jelzáloghitel nyújtására vonatkozó előírásokat. A jelzáloghitel közvetítői tevékenységet végző közvetítő felelős annak ellenőrzéséért, hogy a közvetítői alvállalkozója és a közvetítői alvállalkozójával – e tevékenységi körében – munkaviszonyban, megbízási jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy megfelel az e személyekkel szemben fennálló szakmai követelményeknek.
+
 #### 32. Egyes kiegészítő pénzügyi szolgáltatásokra vonatkozó különös rendelkezések
 
 75. § (1) A pénzváltás közvetítésére csak kiemelt közvetítő kaphat engedélyt.
@@ -1865,7 +1867,7 @@ ha azt az egyéb befektetésektől elkülönítve tartja nyilván, és elkülön
 
 106. § (1) Hitelintézet, ide nem értve a hitelszövetkezetet
 
-- a) a hitelintézet, illetve a hitelintézettel szoros kapcsolatban álló vállalkozás vezető testületének tagjával és könyvvizsgálójával szemben,
+- a) a hitelintézet, illetve a hitelintézettel szoros kapcsolatban álló vállalkozás vezető testületének tagjával és természetes személy könyvvizsgálójával szemben,
 - b) az a) pontban megjelölt személy közeli hozzátartozójával szemben,
 - c) az a) és b) pontban megjelölt személy ellenőrző befolyása alatt álló vállalkozással szemben, vagy
 - d) az a) és b) pontban megjelölt személy ellenőrző befolyása alatt álló vállalkozás harmadik személy részére történő értékesítése tekintetében
@@ -1876,16 +1878,16 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 (3) Az (1) bekezdésben meghatározott kockázatvállalás nem történhet az (1) bekezdésben meghatározott személyekre nézve kedvezőbb feltételekkel, mint a hitelintézettel az (1) bekezdésben meghatározott kapcsolatban nem álló személyekkel szembeni kockázatvállalás.
 
-(4) Az (1) bekezdésben meghatározott kockázatvállalásból fakadó egy személlyel vagy kapcsolatban álló személyekkel szembeni kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 80 százalékát azzal, hogy az éven túli kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 50 százalékát.
+(4) Az (1) bekezdésben meghatározott kockázatvállalásból fakadó egy személlyel vagy egy személlyel és vele az (1) bekezdés b), illetve c) pontja szerinti kapcsolatban álló személyekkel szembeni kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 80 százalékát azzal, hogy az éven túli kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 50 százalékát.
 
 (5) A (2) bekezdésben meghatározott korlátozás nem vonatkozik
 
-- a) a hitelintézetnél vezetett fizetési számlához kapcsolódó hitelkeretre, valamint
-- b) a munkáltató által adott fizetési előleg vagy lakás-, illetve más szociális célú kölcsönre
+- a) a hitelintézetnél vezetett fizetési számlához kapcsolódó hitelkeretre a belső szabályzatban meghatározott mértékig,
+- b) a munkáltató által adott fizetési előleg vagy lakás-, illetve más szociális célú kölcsönre a belső szabályzatban meghatározott mértékig,
+- c) a jelzáloghitelre, ha az adott személlyel szembeni ilyen jellegű kitettség teljes összege nem haladja meg a tizenötmillió forintot, valamint
+- d) az a)–c) pont hatálya alá nem tartozó, a fogyasztónak nyújtott hitelről szóló törvény szerinti hitelszerződésre, ha az adott személlyel szembeni ilyen jellegű kitettség teljes összege nem haladja meg az ötmillió forintot.
 
-a belső szabályzatban meghatározott mértékig.
-
-(6) A (2) bekezdéstől eltérően az (1) bekezdésben meghatározott személy részére fogyasztónak nyújtott hitel az irányítási jogkörrel rendelkező vezető testület jelen lévő tagjainak több mint kétharmados többséggel hozott határozata alapján nyújtható. A hitelintézet irányítási jogkörrel rendelkező vezető testülete által hozott határozat tartalmazza a kamat és a törlesztés feltételeit is. A határozathozatal során az (1) bekezdés alapján érintett személy nem rendelkezik szavazati joggal.
+(6) A (2) bekezdéstől eltérően az (1) bekezdésben meghatározott személy részére az (5) bekezdés hatálya alá nem tartozó fogyasztónak nyújtott hitel az irányítási jogkörrel rendelkező vezető testület jelen lévő tagjainak több mint kétharmados többséggel hozott határozata alapján nyújtható. A hitelintézet irányítási jogkörrel rendelkező vezető testülete által hozott határozat tartalmazza a kamat és a törlesztés feltételeit is. A határozathozatal során az (1) bekezdés alapján érintett személy nem rendelkezik szavazati joggal.
 
 (7) A hitelintézet írásban rögzített hatékony eljárásrenddel, szabályzatokkal rendelkezik az (1) bekezdésben meghatározott személyekkel szembeni kockázatvállalások
 
@@ -2504,9 +2506,9 @@ együttesen jogosult.
 
 (2) A vezető állású személy, a pénzügyi intézmény alkalmazottja, megbízott szakértője nem vehet részt olyan döntés előkészítésében és olyan döntésben, amelyhez saját magának, közeli hozzátartozójának vagy a közvetlen és közvetett tulajdonában álló vállalkozásnak üzleti érdeke fűződik.
 
-(3) A vezető állású személy nem vállalhat szerződéses kötelezettséget – ideértve az adásvételi szerződést is – azzal a pénzügyi intézménnyel, amelyben igazgatósági vagy felügyelő bizottsági tag, vagy ügyvezető, kivéve, ha a szerződés megkötéséhez az igazgatóság előzetesen egyhangú szavazással hozzájárult.
+(3) A vezető állású személy nem vállalhat szerződéses kötelezettséget – ideértve az adásvételi szerződést is – azzal a pénzügyi intézménnyel szemben, amelyben igazgatósági vagy felügyelő bizottsági tag, vagy ügyvezető, kivéve, ha a szerződés megkötéséhez az igazgatóság előzetesen egyhangú szavazással hozzájárult. Ezt a rendelkezést kell megfelelően alkalmazni a csoporthoz tartozó pénzügyi intézményben igazgatósági, felügyelő bizottsági, ügyvezetői tisztséget vagy állást betöltő vezető állású személyre, ha a csoporthoz tartozó pénzügyi intézménnyel kíván szerződést kötni. Ebben az esetben a szerződéskötéshez a szerződő pénzügyi intézmény és az irányító hitelintézet igazgatóságának előzetes egyetértése szükséges, ha az nem azonos az irányító hitelintézettel.
 
-(4) A (3) bekezdésben foglalt rendelkezést kell megfelelően alkalmazni a csoporthoz tartozó pénzügyi intézményben igazgatósági, felügyelő bizottsági, ügyvezetői tisztséget vagy állást betöltő vezető állású személyre, ha a csoporthoz tartozó pénzügyi intézménnyel kíván szerződést kötni. Ebben az esetben a szerződéskötéshez a szerződő pénzügyi intézmény és az irányító hitelintézet igazgatóságának előzetes egyetértése szükséges, ha az nem azonos az irányító hitelintézettel.
+(4) A (3) bekezdésben foglalt rendelkezést nem kell alkalmazni azon hitelek esetében, amelyek megfelelnek a 106. § (3) és (5) bekezdésében foglalt feltételeknek.
 
 (5) Az (1) bekezdés szerinti korlátozást nem kell alkalmazni, ha a kockázatvállalást megalapozó döntés olyan összevont felügyelet alá tartozó vállalkozásra vonatkozik, amely összevont alapú felügyelet kiterjed arra a pénzügyi intézményre is, amelynél a döntésben résztvevő vezető állású személy vagy az üzleti döntésre felhatalmazott alkalmazott tölt be vezető állást.
 
@@ -3473,6 +3475,12 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (8) Ha a Felügyelet az (1) bekezdés b) pont ba)–bb) alpontjában foglalt kivételes intézkedést alkalmaz, haladéktalanul tájékoztatja azon EGT-állam illetékes felügyeleti hatóságait, amelyekben az intézkedéssel érintett hitelintézet fióktelepet működtet vagy határon átnyúló szolgáltatást nyújt.
 
+(9) A helyreállítási terv 185. § (2) bekezdés e) pontja szerinti életbe léptetése, valamint az (1) bekezdés szerinti kivételes intézkedés alkalmazása esetén a Felügyelet
+
+- a) az intézkedésről haladéktalanul tájékoztatja a szanálási feladatkörében eljáró MNB-t,
+- b) az intézkedés végrehajtására megfelelő határidőt szab, továbbá
+- c) az adott intézkedés hatékonyságát ellenőrzi és értékeli.
+
 190. § (1) A hitelintézet igazgatósága a 189. § (2) bekezdésében meghatározott intézkedésről szóló értesítés kézhezvételét követően haladéktalanul intézkedik aziránt, hogy a tulajdonosok, szövetkezeti formában működő hitelintézet esetén a tagok
 
 - a) betéteit és a hitelintézettel szemben fennálló más követeléseit zárolják,
@@ -3554,6 +3562,8 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 (8) A (7) bekezdés alapján hozott intézkedések vagy kivételes intézkedések szükségességét a Felügyelet indokolja és azokról tájékoztatja az érintett EGT-állam illetékes felügyeleti hatóságát.
 
 199/A. § (1) A másik EGT-államban engedéllyel rendelkező jelzáloghitel közvetítői tevékenységet végző közvetítő fióktelepe felügyeletének ellátása során a Felügyelet ellenőrzi, hogy a fióktelep megfelel-e a fogyasztónak nyújtott hitelről szóló törvényben, valamint végrehajtására kiadott jogszabályokban foglalt követelményeknek.
+
+(1a) A Felügyelet az e törvényben foglalt, továbbá a jelzáloghitel nyújtására vonatkozó előírások felügyeleti ellenőrzésével kapcsolatos hatáskörének gyakorlása érdekében, a jelzáloghitel közvetítői tevékenységet végző közvetítő másik EGT-államban létesített fióktelepéhez a másik EGT-állam illetékes felügyeleti hatóságainak tájékoztatását követően helyszíni vizsgálót rendelhet ki.
 
 (2) Ha a Felügyelet megállapítja, hogy a közvetítő fióktelepe megsértette a fogyasztónak nyújtott hitelről szóló törvényben, valamint végrehajtására kiadott jogszabályokban foglalt követelményeket, akkor kötelezi a fióktelepet a jogsértő helyzet megszüntetésére. Ha a Felügyelet határozata ellenére a fióktelep nem szünteti meg a jogsértő helyzetet, a Felügyeletnek meg kell tennie a szükséges intézkedéseket a szabályellenes helyzet megszüntetésére, amelyről egyidejűleg tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.
 
@@ -3858,7 +3868,7 @@ az OBA-ban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 (10) A hitelintézetek egyesülése vagy fiókteleppé alakulása, valamint a betétállomány átruházása esetén az (1)–(3) bekezdés szerinti összeghatár szempontjából 3 hónapig külön betétnek minősülnek egyazon betétesnek az egyesülés, átruházás, illetve a fiókteleppé alakulás előtt az összeolvadó, beolvadó, átadó, átvevő vagy átalakuló hitelintézetnél elhelyezett betétei.
 
-(11) Az olyan betétre, amellyel kapcsolatban pénzmosás miatt büntetőeljárás van folyamatban, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig kártalanítás nem fizethető ki.
+(11) Az olyan betétre, amellyel kapcsolatban pénzmosás miatt vádemelés történt, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával történő befejezéséig kártalanítás nem fizethető ki.
 
 (12)
 
@@ -3866,7 +3876,7 @@ az OBA-ban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 (14) Az (1)–(3) bekezdés alkalmazása során az egyéni vállalkozó által elhelyezett betét – elhelyezésének időpontjától függetlenül – az ugyanazon személy által magánszemélyként elhelyezett betéttől külön betétnek minősül.
 
-(15) A közjegyzői, végrehajtói, ügyvédi letéti, őrzési tevékenységhez kapcsolódóan a hitelintézetnél nyitott számlák – amelyeket a hitelintézet nem a 6. § (1) bekezdése szerinti letéti szolgáltatás keretében vezet – az (1)–(3) bekezdésének alkalmazása során elhelyezésének időpontjától függetlenül a kártalanítási összeghatár szempontjából külön betétnek minősülnek a közjegyzőnek, végrehajtónak, ügyvédnek a hitelintézetnél lévő más betéteitől. E számlára (több számla esetén valamennyi számlára külön-külön) a közjegyzővel, végrehajtóval, ügyvéddel szemben a 213. § (1) bekezdés l) pontjában rögzített kizáró ok fennállása esetén is kiterjed az OBA által nyújtott biztosítás. Az OBA jogosult – a 217. § szerinti kártalanítási eljárás során – az ügyvédi kamarai szabályzatban előírt letéti nyilvántartásnak az ügyvédtől (ügyvédi irodától) való bekérésével ellenőrizni, hogy a kártalanítási összeghatár szempontjából külön betétnek minősül-e az ügyvédi letéti számlán elhelyezett összeg.
+(15) A közjegyzői, végrehajtói, ügyvédi letéti, őrzési tevékenységhez kapcsolódóan a hitelintézetnél nyitott számlák – amelyeket a hitelintézet nem a 6. § (1) bekezdése szerinti letéti szolgáltatás keretében vezet – az (1)–(3) bekezdésének alkalmazása során elhelyezésének időpontjától függetlenül a kártalanítási összeghatár szempontjából külön betétnek (több számla esetén valamennyi számla külön-külön betétnek) minősülnek a közjegyzőnek, végrehajtónak, ügyvédnek a hitelintézetnél lévő más betéteitől. Az OBA jogosult – a 217. § szerinti kártalanítási eljárás során – az ügyvédi kamarai szabályzatban előírt letéti nyilvántartásnak az ügyvédtől (ügyvédi irodától) való bekérésével ellenőrizni, hogy a kártalanítási összeghatár szempontjából külön betétnek minősül-e az ügyvédi letéti számlán elhelyezett összeg.
 
 214/A. § (1) A 214. § (1) bekezdésben meghatározott értékhatárt meghaladóan az OBA a kártalanításra jogosult természetes személy részére további legfeljebb ötvenezer euró összeghatárig fizet kártalanítást azon betétkövetelések esetén, amelyeket a kártalanítás kezdő napját megelőző három hónapban elkülönített számlán helyeztek el és a (2) bekezdésben meghatározott eredetüket a (3) bekezdésben foglaltaknak megfelelően igazolták a tagintézet részére.
 
@@ -3942,7 +3952,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 (2) Az OBA-ból a kártalanításra jogosult személy részére történt bármilyen kifizetés esetén az érintett hitelintézet az OBA által kifizetett összeget és a kifizetéshez kapcsolódóan az OBA-nál felmerült költségeket köteles az OBA-nak visszafizetni, megfizetni. E kötelezettség akkor is fennáll, ha a hitelintézet OBA-ban való tagsága megszűnt.
 
-(3) Hitelintézet a 33. § (1) bekezdés a) pontjában elrendelt tevékenységi engedély visszavonása alapján indított végelszámolása vagy felszámolása során az OBA azon betétek tekintetében is jogosult hitelezőként fellépni, amelyekből eredő jogok még nem szálltak át az OBA-ra, de amelyekért a 214. § szerint fizetni tartozik, ideértve a kifizetés kapcsán felmerülő költségeket is.
+(3) Hitelintézet a 33. § (1) bekezdés a) pontjában elrendelt tevékenységi engedély visszavonása alapján indított végelszámolása vagy felszámolása során az OBA azon betétek tekintetében is jogosult hitelezőként fellépni, amelyekből eredő jogok még nem szálltak át az OBA-ra, de amelyekért a 214. § és 214/A. § szerint fizetni tartozik, ideértve a kifizetés kapcsán felmerülő költségeket is.
 
 (4) A (2) bekezdés alkalmazásában a kifizetéshez kapcsolódóan az OBA-nál felmerülő költség a kifizető hitelintézet díja, az átutalások költsége, a nyomdaköltség, a kommunikációs költség, a számítástechnikai költség és a jogi költség.
 
@@ -4095,7 +4105,7 @@ vonatkozásában információt ad.
 
 (3) Az OBA a 211. § (1) bekezdés b) és d) pontja szerinti feladatok ellátása, valamint a (2) bekezdés szerinti kölcsönök visszafizetése érdekében kötvényt bocsáthat ki.
 
-(4) Az állam készfizető kezesként felel az OBA azon fizetési kötelezettségeiért, amelyek a (2) bekezdés szerinti kötelezettségei teljesítése érdekében felvett – az államháztartásért felelős miniszter által jóváhagyott összegű – kölcsöneiből és kötvénykibocsátásából erednek. Az OBA kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az OBA-nak kezességvállalási díjat nem kell fizetnie.
+(4) Az állam készfizető kezesként felel az OBA azon fizetési kötelezettségeiért, amelyek a (2) bekezdés szerinti kötelezettségei teljesítése érdekében felvett kölcsöneiből és kötvénykibocsátásából erednek. Az OBA kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az OBA-nak kezességvállalási díjat nem kell fizetnie.
 
 #### 97. Csatlakozási díj
 
@@ -5013,7 +5023,7 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 
 #### Az azonosító adatok
 
-- 1. Természetes személy személyazonosító és lakcímadatai: név, születési név, anyja neve, születési hely, idő, állampolgárság, lakcím, postacím, személyi igazolvány (útlevél) száma, egyéb, a személyazonosság igazolására a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint alkalmas igazolvány száma.
+- 1. Természetes személy személyazonosító és lakcímadatai: név, születési név, anyja neve, születési hely, idő, állampolgárság, lakóhely, tartózkodási hely, levelezési cím, személyi igazolvány (útlevél) száma, egyéb, a személyazonosság igazolására a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint alkalmas igazolvány száma.
 - 2. A pénzügyi intézményt, céget, elfogadót azonosító adatok: név, rövidített név, székhely, telephely és fióktelep címe, adószám, a képviseletre jogosultak neve és beosztása.
 
 ### 3. melléklet a 2013. évi CCXXXVII. törvényhez
@@ -5081,7 +5091,7 @@ Alapvető információk a betétbiztosításról
 | A betétbiztosítás összeghatára: | 100 000 euró betétesenként és hitelintézetenként2 |
 | Ha Ön ugyanannál a hitelintézetnél több betéttel is rendelkezik: | Az azonos hitelintézetnél elhelyezett betéteket összevonják, és az összevont összegre alkalmazzák a 100 000 euró összeghatárt |
 | Ha Ön más betétessel közös betéttel rendelkezik: | A 100 000 euró összeghatár külön-külön vonatkozik az egyes betétesekre3 |
-| Kártalanítási határidő a hitelintézet fizetésképtelensége esetén: | 20 munkanap4 |
+| Kártalanítási határidő a hitelintézet fizetésképtelensége esetén: | 15 munkanap4 |
 | A kártalanítás pénzneme: | forint [illetve külföldi fióktelep esetén más pénznem] |
 | Kapcsolattartó: | Országos Betétbiztosítási Alap (cím, telefonszám, e-mail cím) |
 | További információk: | www.oba.hu |
@@ -5107,7 +5117,7 @@ Egyes esetekben a betéteseket három hónapig 100 000 eurót meghaladó védele
 
 4 Kártalanítás
 
-A betétbiztosítási rendszer az Országos Betétbiztosítási Alap [cím, telefonszám, e-mail cím és weboldal]. Ez a rendszer 2018. december 31-ig 20 munkanapon, 2019. január 1-től 2020. december 31-ig 15 munkanapon, 2021. január 1-től 2023. december 31-ig 10 munkanapon, 2024. január 1-től 7 munkanapon belül kártalanítást fizet az Ön betétjeire legfeljebb 100 000 euró összeghatárig.
+A betétbiztosítási rendszer az Országos Betétbiztosítási Alap [cím, telefonszám, e-mail cím és weboldal]. Ez a rendszer 2020. december 31-ig 15 munkanapon, 2021. január 1-től 2023. december 31-ig 10 munkanapon, 2024. január 1-től 7 munkanapon belül kártalanítást fizet az Ön betétjeire legfeljebb 100 000 euró összeghatárig.
 
 Amennyiben ezeken a határidőkön belül nem kapja meg a kártalanítást, úgy vegye fel a kapcsolatot a betétbiztosítási rendszerrel.
 
