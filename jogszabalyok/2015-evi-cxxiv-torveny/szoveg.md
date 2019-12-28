@@ -40,28 +40,30 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 - e) a kérelmező által az akkreditált státusz megszerzése érdekében elfogadott szabványoknak, valamint a jogszabályoknak és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusainak való megfelelés,
 - f) az akkreditálás európai és nemzetközi eljárási rendjével való összhang.
 
-5. § (1) Akkreditálás iránti kérelmet
+5. § (1) Akkreditálási, bővítési eljárás iránti kérelmet a természetes személy, vagy
 
-- a) vizsgálólaboratórium,
-- b) mintavevő szervezet,
-- c) kalibrálólaboratórium,
-- d) jártassági vizsgálatot szervező szervezet,
-- e) terméket, folyamatot, szolgáltatást tanúsító szervezet,
-- f) irányítási rendszereket tanúsító szervezet,
-- g) személytanúsító szervezet,
-- h) ellenőrző szervezet, a hatóságok kivételével,
-- i) referenciaanyag-gyártó szervezet,
+- a) a vizsgálólaboratórium,
+- b) a mintavevő szervezet,
+- c) a kalibrálólaboratórium,
+- d) a jártassági vizsgálatot szervező szervezet,
+- e) a terméket, folyamatot, szolgáltatást tanúsító szervezet,
+- f) az irányítási rendszereket tanúsító szervezet,
+- g) a személytanúsító szervezet,
+- h) az ellenőrző szervezet, a hatóságok kivételével,
+- i) a referenciaanyag-gyártó szervezet,
 - j) a környezetvédelmi vezetési és hitelesítési rendszert hitelesítő szervezet vagy természetes személy,
 - k) az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti hitelesítő szervezet,
 - l) az (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) 43. cikke szerinti tanúsító szervezet (a továbbiakban: adatvédelmi tanúsító szervezet)
 
-nyújthat be az akkreditáló szervhez.
+elektronikus úton köteles benyújtani az akkreditáló szervhez.
 
 (2) Az akkreditálást – a (3) bekezdésben meghatározott eltéréssel – az a szervezet és természetes személy kérheti, amely vagy aki a kérelem benyújtását megelőzően legalább három hónapig az adott szervezet vagy természetes személy tevékenységére vonatkozó jogszabályok, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusai, nemzeti szabványként közzétett európai és nemzetközi szabványok és a rá vonatkozó szakmai szabályok szerint működik.
 
 (3) Az akkreditálást az (1) bekezdés k) pontja szerinti azon hitelesítő szervezet kérheti, amely megfelel a tevékenységére vonatkozó jogszabályoknak és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusainak, különösen az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvényben, a 600/2012/EU bizottsági rendelet III. fejezetében és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott szervezeti, pénzügyi biztosítékra vonatkozó és személyi követelményeknek.
 
 (4) Az akkreditálást azon adatvédelmi tanúsító szervezet kérheti, amely megfelel az általános adatvédelmi rendeletben meghatározott szervezeti, személyi és működési követelményeknek.
+
+(5) Az akkreditáló szerv az eljárást legfeljebb három hónapra felfüggesztheti, ha az eljárás határon átnyúló tevékenységet érint.
 
 6. § (1) Az akkreditálási eljárás értékelési és döntéshozatali szakaszból áll.
 
@@ -133,7 +135,7 @@ nyújthat be az akkreditáló szervhez.
 
 (2) Az akkreditáló szerv az akkreditált szervezet vagy akkreditált természetes személy akkreditált státuszát részlegesen vagy teljeskörűen felfüggesztheti, ha az akkreditált szervezet vagy akkreditált természetes személy a jelentős változás bejelentését elmulasztja. Jelentős változásnak minősül:
 
-- a) az akkreditált szervezet jogi, tulajdonosi vagy szervezeti formájában, felépítésében, vezetésében,
+- a) az akkreditált szervezet elnevezésében, jogi, tulajdonosi vagy szervezeti formájában, felépítésében, vezetésében,
 - b) az akkreditált tevékenységet ellátó személyek létszámában, fél éven belül, 30%-ot elérő vagy meghaladó mértékben,
 - c) az akkreditált szervezeti egység vezetőjének, minőségirányítási vezetőjének vagy olyan munkatársának személyében, aki az adott akkreditálási tevékenységet kizárólagosan végezte,
 - d) az akkreditált szervezet székhelyében, telephelyében, az akkreditált természetes személy lakcímében,
@@ -146,7 +148,9 @@ bekövetkezett változás.
 
 (3) Az akkreditáló szerv az akkreditált szervezet vagy akkreditált természetes személy akkreditált státuszát részlegesen vagy teljes körűen felfüggesztheti, ha a felügyeleti vizsgálat során megállapítja, hogy az akkreditált státusz alapjául szolgáló körülményekben olyan változás következett be, amelynek következtében az akkreditálás alapvető követelményei csak részben teljesülnek.
 
-(4) Az akkreditáló szerv a felfüggesztő határozatban a felfüggesztés megszüntetésének feltételeiről és a feltételek teljesítésének határidejéről is dönt. Ha az akkreditált szervezet vagy akkreditált természetes személy az előírt feltételeknek határidőben eleget tesz, az akkreditáló szerv a felfüggesztő határozatot visszavonja.
+(4) Az akkreditáló szerv az akkreditált szervezet, vagy akkreditált természetes személy akkreditált státuszát részlegesen, vagy teljeskörűen felfüggesztheti, ha az akkreditált szervezet vagy akkreditált természetes személy az eljárás során hamis adatszolgáltatást teljesít.
+
+(5) Az akkreditáló szerv a felfüggesztő határozatban a felfüggesztés megszüntetésének feltételeiről és a feltételek teljesítésének határidejéről is dönt. Ha az akkreditált szervezet, vagy akkreditált természetes személy az előírt feltételeknek határidőben eleget tesz, az akkreditáló hatóság a felfüggesztő határozatot visszavonja.
 
 10. § Az akkreditáló szerv az akkreditált szervezet vagy akkreditált természetes személy akkreditált státuszát részlegesen vagy teljes körűen visszavonja, ha
 
