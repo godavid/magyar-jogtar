@@ -10,7 +10,7 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 
 - a) felelős vezető: a hadiipari tevékenységet, illetve a haditechnikai külkereskedelmi tevékenységet folytató kérelmező vagy engedélyes vezető tisztségviselője, vagy bármely vezető állású munkavállalója, aki e tevékenységet irányítja;
 - b) hadiipari tevékenység: haditechnikai termék gyártása vagy haditechnikai szolgáltatás nyújtása;
-- c) haditechnikai termék, szolgáltatás: a védelem terén alapvető biztonsági érdekeket érintő, kifejezetten katonai, nemzetbiztonsági, rendvédelmi és rendészeti célokra alkalmas, az Európai Unió közös katonai listáján található, illetve nemzeti érdekből ide sorolt termék vagy szolgáltatás;
+- c) haditechnikai termék, szolgáltatás: a 10. § (1) bekezdés d) pontja szerinti felhatalmazás alapján kormányrendeletben meghatározott termék és szolgáltatás;
 - d) haditechnikai termék gyártása: a haditechnikai termék előállítására, átalakítására irányuló tevékenység, ideértve a termék első alkalommal történő összeszerelését;
 - e) haditechnikai szolgáltatás nyújtása: műszaki és gyártástechnikai tervezés, műszaki támogató tevékenység, a termék készletezése, tárolása, forgalmazása, minőségi vizsgálata, üzembe helyezése, üzemben tartása, karbantartása, javítása, korszerűsítése, fejlesztése, szét- és összeszerelése, hatástalanítása, megsemmisítése, felkutatása, ideértve a bérmunkát, a műszaki-technológiai utasítás és gyártási ismeret, tapasztalat átadását, továbbá az eszközök kezelésének és alkalmazásának elméleti és gyakorlati oktatása, kiképzés;
 - f) hatástalanítás: olyan technológiai folyamat, melynek eredményeként a haditechnikai termék visszafordíthatatlanul elveszíti eredeti funkcióit, ezzel alkalmatlanná válik a rendeltetés szerinti használatra; a folyamat eredményeként egyéb célra alkalmas eszköz, anyag, alkatrész keletkezhet;
@@ -80,15 +80,7 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 - f) tevékenységi engedélyében meghatározott feltételeket megszegi; vagy
 - g) tevékenységet engedély nélkül végzi a hadiipari gyártás- és szolgáltatásfelügyelet bírsággal sújthatja.
 
-(2) A bírság mértékét a hadiipari gyártás- és szolgáltatásfelügyelet az alábbi körülményeket mérlegelve állapítja meg:
-
-- a) a jogsértéssel okozott hátrány, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket, illetve a jogsértéssel elért előny mértékét,
-- b) a jogsértéssel okozott hátrány visszafordíthatósága,
-- c) a jogsértéssel érintettek körének nagysága,
-- d) a jogsértő állapot időtartama,
-- e) a jogsértő magatartás ismétlődése és gyakorisága,
-- f) a jogsértést elkövető eljárást segítő, együttműködő magatartása, valamint
-- g) a jogsértőnek való felróhatóság.
+(2)
 
 (3) A bírság ugyanazon kötelezettség ismételt megszegése esetén, ismételten is kiszabható. Ugyanazon kötelezettség többszöri megszegésének egy eljárásban való elbírálása esetén a bírság felső határa az alapérték kétszeresére emelkedik. Több különböző kötelezettségnek ugyanabban az eljárásban való elbírálása esetén a legsúlyosabb kötelezettségszegésre megállapított bírság felső határa a felével emelkedik.
 
@@ -119,7 +111,7 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 
 (4) A hadiipari gyártás- és szolgáltatásfelügyelet a hadiipari tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű, valamint, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel. A hatósági ellenőrzés céljából a hadiipari gyártás- és szolgáltatásfelügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag annak megállapítására irányulhat, hogy az (1) bekezdés b) pontjában meghatározott személy büntetlen előéletű-e, illetve, hogy az (1) bekezdés a) pontjában meghatározott személy a (2) bekezdés a)–c) pontja szerinti biztonsági feltételeknek megfelel-e.
 
-(5) A 2. § szerinti engedély akkor adható ki, ha a kérelmező felelős vezetője rendelkezik a jogszabály szerinti nemzetbiztonsági ellenőrzéssel.
+(5)
 
 (6) A 2/A. § és 2/B. § szerinti tevékenység végzéséhez szükséges személyi feltételeket kormányrendelet határozza meg.
 
@@ -135,9 +127,9 @@ A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások ny
 
 (2) Az (1) bekezdésben meghatározott személyes adatok kezelésének célja a benyújtott kérelem elbírálásának biztosítása, valamint a jogszabály által meghatározott és az engedélyezés alapjául szolgáló feltételrendszereknek való megfelelés folyamatos ellenőrzése.
 
-(3) Eltérő törvényi rendelkezés hiányában a 2. § (4) bekezdésében meghatározott szervek jogosultak az e törvényben meghatározott eljárás lefolytatása céljából a hadiipari gyártás- és szolgáltatás felügyelet előtt folyó eljárásban kezelt adatok megismerésére.
+(3) Eltérő törvényi rendelkezés hiányában a 2. § (3) bekezdésében meghatározott szervek jogosultak az e törvényben meghatározott eljárás lefolytatása céljából a hadiipari gyártás- és szolgáltatásfelügyelet előtt folyó eljárásban kezelt adatok megismerésére.
 
-(4) A hadiipari gyártás- és szolgáltatásfelügyelet a kérelem kézhezvételétől a kérelem végleges elutasítását vagy az engedély visszavonását követő 6 hónapig jogosult az (1) bekezdés a) és b) pontjában szerinti adatok kezelésére. A kezelési idő lejárta után az adatokat meg kell semmisíteni.
+(4) A hadiipari gyártás- és szolgáltatásfelügyelet a kérelem kézhezvételétől a kérelem végleges elutasítását vagy az engedély visszavonását követő 6 hónapig jogosult az (1) bekezdés a) és b) pontja szerinti személyes adatok kezelésére. A kezelési idő lejárta után az adatokat meg kell semmisíteni.
 
 (5) Az (1) bekezdés c) pontjában meghatározott személyes adatokat a hadiipari gyártás- és szolgáltatásfelügyelet
 

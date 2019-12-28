@@ -438,7 +438,14 @@ egyes rendelkezések
 - e) a nemzetbiztonsági szolgálatoknak a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 - f) az Állami Számvevőszéknek és a Kormány által kijelölt belső ellenőrzési szervnek jogszabályban meghatározott ellenőrzési célra,
 - g) az állami adóhatóságnak adóellenőrzési célra,
-- h) a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+- h) a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni,
+- i) az Európai Unió közös kül- és biztonságpolitikája keretein belül elfogadott tagállami kötelezettségek teljesítése érdekében az Európai Unió illetékes szervei és az Európai Unió tagországai számára,
+- j) Magyarország nemzetközi jogi kötelezettségeinek teljesítése érdekében nemzetközi szervezetek részére.
+
+(3) A nemzeti külkereskedelmi államigazgatási szerv az általa kezelt vagy nyilvántartott adatokat – ha törvény eltérően nem rendelkezik – megkeresés vagy adatkérés alapján átadhatja:
+
+- a) az Európai Unió Tanácsa – az Európai Unió közös kül- és biztonságpolitikája keretei között kiadott – határozatában meghatározott szerv részére,
+- b) Magyarország által vállalt nemzetközi non-proliferációs kötelezettség teljesítéséhez kormányrendeletben meghatározott kormányközi együttműködések és az azokban részt vevő államok részére.
 
 140/D. § (1) Aki a 140. § (1) bekezdése szerinti korlátozásból eredő, valamint a törvény által kihirdetett nemzetközi szerződésben és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiben az Európai Unión kívüli országokkal folytatott kereskedelemre meghatározott kötelezettségét megszegi, azt a nemzeti külkereskedelmi államigazgatási szerv bírsággal sújtja.
 

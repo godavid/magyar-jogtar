@@ -92,7 +92,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 
 (8) A kereskedelmi hatóság az üzletben az üzletköteles termékek forgalmazására előírt követelmények megtartására veszélyt jelentő termékek forgalmazását vagy tevékenységek folytatását a működési engedélyben korlátozhatja vagy megtilthatja.
 
-4. § (1) A 3. § (4) bekezdését nem érintve, a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló szándékot a vállalkozás köteles a kereskedelmi hatóságnak bejelenteni.
+4. § (1) A 3. § (4) bekezdését nem érintve, a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására, illetve felvásárlására (a továbbiakban a nemesfémekre vonatkozóan együttesen: forgalmazására) irányuló szándékot a vállalkozás köteles a kereskedelmi hatóságnak bejelenteni.
 
 (2) Az (1) bekezdés szerinti kereskedelmi tevékenység végzésére csak az a vállalkozás jogosult,
 

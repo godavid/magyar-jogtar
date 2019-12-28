@@ -80,16 +80,11 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 6. § (1) A külföldi bizonyítvány és oklevél által tanúsított végzettségi szint, szakképesítés, szakképzettség vagy tudományos fokozat elismerése az elismerési vagy a honosítási eljárás során történik.
 
-(2) Bizonyítványa vagy oklevele elismertetésére vagy honosíttatására az jogosult, aki kérelme benyújtásakor állampolgárságát, személyes adatait az állampolgárság és a személyi adat igazolására szolgáló hatósági igazolvánnyal, illetve magyarországi lakóhelyét lakcímet igazoló hatósági igazolvánnyal igazolja.
+(2) Bizonyítványa vagy oklevele elismertetésére vagy honosíttatására az jogosult, aki kérelme benyújtásakor állampolgárságát, személyes adatait az állampolgárság és a személyi adat igazolására szolgáló hatósági igazolvánnyal igazolja.
 
 (3) A tagállam állampolgárának nem minősülő, valamint az azzal azonos megítélés alá nem eső, magyar állampolgársággal nem rendelkező személy akkor jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására – ide nem értve a továbbtanulási céllal történő elismerést – ha a (2) bekezdésben foglaltak teljesítésén túlmenően keresőtevékenység folytatása vagy családi együttélés biztosítása céljából kiadott tartózkodási engedéllyel rendelkezik.
 
-(4) A kérelmezőnek a (2) bekezdés rendelkezésétől eltérően nem kell igazolnia magyarországi lakóhelyét, ha
-
-- a) az elismerést továbbtanulási céllal kéri,
-- b) a kérelem a Harmadik rész hatálya alá tartozik, vagy
-- c) résztanulmányok beszámítását kéri,
-- d) a kérelem a 4. § (4)–(4a) bekezdése vagy a III. Fejezet hatálya alá tartozik.
+(4)
 
 7. § (1) Ha a kérelmező által benyújtott okiratok valódisága tekintetében kétség merül fel, vagy a kérelmező az oklevél elismeréséhez vagy honosításához szükséges okiratokkal nem rendelkezik, és azok az eljáró hatóság megítélése szerint általa nem, vagy nehezen szerezhetők be, az eljáró hatóság megkeresést intézhet az illetékes külföldi intézményhez, szervezethez vagy hatósághoz. A Harmadik rész hatálya alá tartozó eljárások kivételével, ha olyan külföldi bizonyítvány vagy oklevél jogi hatályát kell megállapítani, amelyet valamely, a 2001. évi XCIX. törvénnyel kihirdetett, a felsőoktatási képesítéseknek az európai régióban történő elismeréséről szóló, 1997. április 11-én, Lisszabonban aláírt Egyezményt (a továbbiakban: Lisszaboni Egyezmény) magára nézve kötelezőnek elismerő államban [13. § (1) bekezdés] állítottak ki, az eljáró hatóság a megkeresést a Lisszaboni Egyezmény IX.2. Cikke szerinti külföldi információs központhoz intézi.
 
@@ -156,7 +151,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 - b) a kérelmezőt az adott országban felsőoktatási intézménybe történő jelentkezésre jogosítja, és
 - c) valószínűsíti, hogy a kérelmező felkészült a további tanulmányok folytatására.
 
-(4)
+(4) Nem felsőoktatási képzésben történő továbbtanulásra való jelentkezésre jogosító hazai érettségi bizonyítványként ismerhető el az a külföldi bizonyítvány, amely azért nem tartozik az (1) vagy a (3) bekezdés hatálya alá, mert a kérelmezőt nem jogosítja az adott országban felsőoktatási intézménybe történő jelentkezésre, vagy kizárólag valamely külföldi felsőoktatási képzésre, képzési területre vagy felsőoktatási intézménytípusban történő továbbtanulásra való jelentkezésre jogosít, feltéve, hogy a bizonyítvány jogosít nem felsőoktatási képzésben történő továbbtanulásra való jelentkezésre az adott országban.
 
 (5) Ha a bizonyítvány nem tartozik az (1) bekezdés hatálya alá, és a (2) bekezdés szerint sem ismerhető el, a kérelmező bármely, érettségi vizsga lebonyolítására, érettségi bizonyítvány kiállítására jogosult oktatási intézményben, vizsgaközpontban kérheti tanulmányainak és vizsgáinak az érettségi vizsgába történő beszámítását. Az oktatási intézmény, illetve a vizsgaközpont állapítja meg, hogy milyen tantárgyból kell érettségi vizsgát tenni, amelynek letételét követően kiállítja a magyar érettségi bizonyítványt.
 
@@ -249,7 +244,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (3) Szakmai gyakorlat végzése akkor írható elő, ha azt a hazai képzési és kimeneti követelmények az oklevél megszerzésének feltételeként tartalmazzák. A határozatban rendelkezni kell a szakmai gyakorlat időtartamáról, a gyakorlatot szervező intézményről és az intézménynél történő jelentkezés határidejéről.
 
-(4)
+(4) Az (1) bekezdés rendelkezéseitől eltérően a külföldi oklevél által tanúsított szakképzettség a hazai osztatlan mesterképzésben megszerezhető szakképzettségként ismerhető el, ha a külföldi oklevél végzettségi szintje a hazai felsőoktatási intézményben megszerezhető alapfokozat végzettségi szintjével egyenértékű, feltéve, hogy a külföldi képzés legalább ötéves időtartamú.
 
 (5) A kérelmező kérheti külföldi oklevele által tanúsított szakképzettsége egyszakos hazai tanári szakképzettségként történő elismerését is.
 
@@ -384,9 +379,9 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (12) Szakmai tapasztalatnak minősül valamely szakmának valamely tagállamban teljes munkaidőben vagy annak időtartamával összességében megegyező tartamú részmunkaidőben tényleges és jogszerű gyakorlása.
 
-(13) Alkalmazkodási időszaknak minősül valamely szabályozott szakma Magyarországon történő gyakorlása az adott szakma képesített szakemberének felügyeletével. Az eljáró hatóság előírhatja, hogy a kérelmező a szakma gyakorlása mellett képzésben is vegyen részt. Az alkalmazkodási időszakot az eljáró hatóság által meghatározott módon értékelni kell. Alkalmazkodási időszakot szabályozott elektronikus ügyintézési szolgáltatás igénybevételével nem lehet teljesíteni.
+(13) Alkalmazkodási időszaknak minősül valamely szabályozott szakma Magyarországon történő gyakorlása az adott szakma képesített szakemberének felügyeletével. Az eljáró hatóság előírhatja, hogy a kérelmező a szakma gyakorlása mellett képzésben is vegyen részt. Az alkalmazkodási időszakot az eljáró hatóság által meghatározott módon értékelni kell. Alkalmazkodási időszakot szabályozott elektronikus ügyintézési szolgáltatás igénybevételével nem lehet teljesíteni. A felügyelet mellett folytatott gyakorlatát töltő személy magyarországi jogállását – különösen a tartózkodási jog, a kötelezettségek, a szociális jogok és az ellátások, juttatások és javadalmazás tekintetében – az eljáró hatóság az alkalmazandó közösségi joggal összhangban állapítja meg.
 
-(14) Alkalmassági vizsgának minősül az olyan, magyar nyelvű elméleti, illetve gyakorlati vizsga, amelyet az eljáró hatóság abból a célból szervez vagy ismer el, hogy felmérje a kérelmező szakmai tudását, képességét és készségét a szabályozott szakma Magyarországon történő gyakorlása szempontjából. Az eljáró hatóság összeállítja azoknak a tantárgyaknak a jegyzékét, amelyek részét képezik a Magyarországon előírt képesítés megszerzéséhez szükséges képzésnek, de a kérelmező képzésének nem voltak részei. Figyelemmel arra, hogy a kérelmező valamely tagállamban képesített szakember, a vizsga követelményei csak olyan ismeretek számonkérésére vonatkozhatnak, amelyek a tevékenység Magyarországon történő folytatásához elengedhetetlenek. Alkalmassági vizsgát szabályozott elektronikus ügyintézési szolgáltatás igénybevételével nem lehet teljesíteni.
+(14) Alkalmassági vizsgának minősül az olyan, magyar nyelvű elméleti, illetve gyakorlati vizsga, amelyet az eljáró hatóság abból a célból szervez vagy ismer el, hogy felmérje a kérelmező szakmai tudását, képességét és készségét a szabályozott szakma Magyarországon történő gyakorlása szempontjából. Az eljáró hatóság összeállítja azoknak a tantárgyaknak a jegyzékét, amelyek részét képezik a Magyarországon előírt képesítés megszerzéséhez szükséges képzésnek, de a kérelmező képzésének nem voltak részei. Figyelemmel arra, hogy a kérelmező valamely tagállamban képesített szakember, a vizsga követelményei csak olyan ismeretek számonkérésére vonatkozhatnak, amelyek a tevékenység Magyarországon történő folytatásához elengedhetetlenek. Alkalmassági vizsgát szabályozott elektronikus ügyintézési szolgáltatás igénybevételével nem lehet teljesíteni. Az alkalmassági vizsga alkalmazásának részleteit, az alkalmassági vizsgára készülő kérelmező magyarországi jogállását az eljáró hatóság állapítja meg.
 
 (15) Gazdálkodó szervezet vezetőjének minősül
 
@@ -400,9 +395,9 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (18) Önálló vállalkozó az, aki önállóan, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végez gazdasági tevékenységet.
 
-(19) Letelepedés szerinti tagállam az a tagállam, ahol az önálló vállalkozó gazdasági tevékenységét ténylegesen és tartós, huzamos jelleggel, erre a célra szolgáló vagy rendszeresített létesítmény, telep, iroda, üzlet vagy egyéb hely, rögzített felszerelés vagy berendezés útján folytatja.
+(19)
 
-(20) Határon átnyúló szolgáltatásnyújtásnak minősül a tevékenységnek Magyarország területén letelepedés nélkül, átmeneti vagy alkalmi jelleggel történő folytatása.
+(20)
 
 (21) Európai szakmai kártyának minősül az az elektronikus igazolás, amely tanúsítja, hogy a kérelmező megfelelt valamennyi feltételnek ahhoz, hogy képesítését valamely tagállamban elismerjék, vagy valamely tagállamban átmeneti vagy alkalmi jelleggel szolgáltatást nyújtson.
 
@@ -422,7 +417,15 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 29. § (1) E fejezet rendelkezéseit kell alkalmazni, ha a kérelmező akár önálló vállalkozóként, akár foglalkoztatottként, szakmai képesítés birtoklásához kötött szabályozott szakmát szándékozik gyakorolni Magyarországon, és az elismerés nem tartozik e törvény VIII. vagy IX. Fejezetének hatálya alá.
 
-(2) Ha a VIII. vagy IX. Fejezet szabályai azért nem alkalmazhatók, mert a kérelmező szakmai képesítése nem felel meg az adott fejezetben foglalt feltételeknek, akkor az elismerésre e fejezet szabályait kell megfelelően alkalmazni.
+(2) E Fejezet rendelkezéseit kell alkalmazni
+
+- a) a VIII. Fejezetben meghatározott tevékenységek esetében, ha a kérelmező nem felel meg a VIII. Fejezetben meghatározott követelményeknek,
+- b) az általános orvos, a szakorvos, az általános ápoló, a fogorvos, a fogszakorvos, az állatorvos, a szülésznő, a gyógyszerész és az okleveles építészmérnök esetében, ha a kérelmező tényleges és jogszerű szakmai gyakorlata az e törvény felhatalmazása alapján megalkotott jogszabályban előírt követelményeknek nem felel meg,
+- c) az olyan okleveles építészmérnök esetében, aki nem rendelkezik az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott okleveles építészmérnöki oklevéllel,
+- d) a szakosított képesítése elismerése tekintetében az olyan általános orvos, ápoló, fogorvos, állatorvos, szülésznő, gyógyszerész és okleveles építészmérnök esetében, aki olyan előírt szakosított képesítés megszerzését tanúsító okirattal rendelkezik, amelynek a kiállítására az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott valamely szakmai cím megszerzéséhez vezető képzést követően került sor,
+- e) az olyan általános ápoló és szakápoló esetében, aki olyan előírt szakosított képesítés megszerzését tanúsító okirattal rendelkezik, amelynek kibocsátására az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott valamely szakmai cím megszerzéséhez vezető képzést követően került sor, feltéve, hogy a kérelmező képesítésének megfelelő szakmai tevékenységeket Magyarországon általános ápolói képzésben nem részesült szakápoló végzi,
+- f) az általános ápolói képzésben nem részesült szakápoló esetében, ha a kérelmező képesítésének megfelelő szakmai tevékenységet Magyarországon általános ápolók, általános ápolói képzésben nem részesült szakápolók, vagy olyan szakápolók végzik, akik olyan előírt szakosított képesítés megszerzését tanúsító okirattal rendelkeznek, amelynek kibocsátására az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott szakmai címek megszerzéséhez vezető képzést követően került sor, továbbá
+- g) ha a kérelmező harmadik országban szerzett képesítése a 28. § (5) bekezdésének hatálya alá tartozik.
 
 30. § (1) Ha valamely szabályozott szakma gyakorlása Magyarországon szakmai képesítés birtoklásához kötött, a kérelmező szakképzettsége a szabályozott szakma gyakorlásának engedélyezésére vonatkozó jogszabályok által előírt szakképzettséggel akkor minősül egyenértékűnek, ha a kérelmező a képzés sikeres elvégzését tanúsító olyan okirattal vagy képzettségi tanúsítvánnyal rendelkezik, amely feljogosítja ugyanazon szakma gyakorlására a származási tagállamban.
 
@@ -441,9 +444,8 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 31. § (1) Az eljáró hatóság három évnél nem hosszabb alkalmazkodási időszakot vagy alkalmassági vizsgát írhat elő,
 
-- a)
-- b) ha a kérelmező képzés sikeres elvégzését tanúsító okiratához vezető képzés lényegesen eltér az adott szabályozott szakma gyakorlásához Magyarországon előírt képzés sikeres elvégzését tanúsító okirathoz vezető képzéstől, vagy
-- c) ha Magyarországon a szabályozott szakma egy vagy több olyan szabályozott szakmai tevékenységet is magában foglal, amely abban a tagállamban, amelyben a képzés sikeres elvégzését tanúsító okiratot vagy képzettségi tanúsítványt kiállították, nem része a szakmának, feltéve, hogy az adott szakmai tevékenység folytatásához szükséges elméleti és gyakorlati ismeret megszerzése kifejezetten része a hazai képzésnek, a kérelmező képzésének azonban nem volt.
+- a) ha a kérelmező által elvégzett képzés a Magyarországon szükséges képesítés megszerzéséhez vezető képzés tantárgyaitól lényegesen eltérő tantárgyakat foglal magában, vagy
+- b) ha Magyarországon a szabályozott szakma egy vagy több olyan szabályozott szakmai tevékenységet is magában foglal, amely a kérelmező tagállamában az ennek megfelelő szakmában nem létezik, és a Magyarországon szükséges képzés lényegesen eltérő tantárgyakat foglal magában a kérelmező képzettségi tanúsítványának vagy előírt képesítés megszerzését tanúsító okiratának megszerzéséhez vezető képzés tantárgyaitól.
 
 (2) Az eljáró hatóság biztosítja, hogy a kérelmező választhasson az alkalmazkodási időszak és az alkalmassági vizsga között.
 
@@ -555,11 +557,13 @@ az eljáró hatóság csak akkor ismeri el az (1) bekezdés szerint a képzés e
 
 38. § (1) A valamely más tagállamban letelepedett, ott meghatározott szakma gyakorlásával járó szolgáltatási tevékenységet jogszerűen folytató személy határon átnyúló szolgáltatási tevékenysége keretében e fejezet rendelkezéseinek megfelelően jogosult Magyarország területén az ugyanazon szakma gyakorlásával járó szolgáltatási tevékenységet folytatni, és e tevékenysége – az e fejezetben meghatározott esetek kivételével – a szakmai képesítésre vonatkozó jogszabályi követelmények alapján nem korlátozható.
 
-(2) Ha a letelepedés szerinti tagállamban az adott szakma nem szabályozott szakma, az (1) bekezdés szerinti jog csak azt a szolgáltatásnyújtót illeti meg, aki a letelepedés szerinti tagállamban a szolgáltatásnyújtást megelőző tíz év folyamán legalább egy évig folytatta a tevékenységet.
+(2) Ha valamely tagállamban az adott szakma nem szabályozott szakma, az (1) bekezdés szerinti jog csak azt a szolgáltatásnyújtót illeti meg, aki valamely tagállamban a szolgáltatásnyújtást megelőző tíz év folyamán legalább egy évig folytatta a tevékenységet.
 
-(3) A (2) bekezdés szerinti egyéves szakmai tapasztalat akkor sem követelhető meg a szolgáltatásnyújtótól, ha a letelepedés szerinti tagállamban a szakma gyakorlására felkészítő képzés szabályozott képzésnek minősül.
+(3) A (2) bekezdés szerinti egyéves szakmai tapasztalat akkor sem követelhető meg a szolgáltatásnyújtótól, ha valamely tagállamban a szakma gyakorlására felkészítő képzés szabályozott képzésnek minősül.
 
 (4) Az (1) bekezdés szerint folytatott szolgáltatási tevékenységre alkalmazni kell Magyarország területén letelepedett szolgáltatásnyújtók tevékenységére alkalmazandó, a szakmai képesítéssel közvetlenül összefüggő, így különösen a szakmához tartozó tevékenységi kör meghatározására, a szakmai címek használatára, a szolgáltatást igénybe vevők biztonságával és érdekeinek védelemével közvetlenül és kifejezetten összefüggő súlyos mulasztások esetén irányadó fegyelmi rendelkezésekre vonatkozó jogszabályi, közigazgatási és szakmai magatartási szabályokat.
+
+(5) A szolgáltatásnyújtó akkor élhet a szabad szolgáltatásnyújtás jogával, ha Magyarországra a szakma átmeneti és alkalmi jellegű gyakorlása céljából érkezik. A szolgáltatásnyújtás átmeneti és alkalmi jellegét esetenként kell megállapítani, különösen a szolgáltatásnyújtás időtartamát, gyakoriságát, rendszerességét és folytonosságát véve figyelembe.
 
 ### A szolgáltatásnyújtó mentességei
 
@@ -568,7 +572,7 @@ az eljáró hatóság csak akkor ismeri el az (1) bekezdés szerint a képzés e
 - a) valamely szakmai szervezet vagy testület engedélyének beszerzése, szakmai szervezet vagy testület általi nyilvántartásba vétel, vagy szakmai szervezetben vagy testületben tagság betöltése,
 - b) társadalombiztosítási szervnél történő nyilvántartásba vétel a biztosított személyek javára végzett tevékenységekre vonatkozó elszámolás céljából.
 
-(2) Az (1) bekezdés a) pontjától eltérően, az adott szolgáltatási tevékenység megkezdésére, illetve folytatására való jogosultságot szabályozó törvény a 38. § (4) bekezdésében meghatározott rendelkezések érvényesítése céljából a szolgáltatásnyújtónak valamely szakmai szervezet vagy testület általi ideiglenes nyilvántartásba vételét, vagy ilyen szervezet vagy testület tagjai közé való ideiglenes felvételét kötelezővé teheti.
+(2) Az (1) bekezdés a) pontjától eltérően, az adott szolgáltatási tevékenység megkezdésére, illetve folytatására való jogosultságot szabályozó törvény a 38. § (4) bekezdésében meghatározott rendelkezések érvényesítése céljából a szolgáltatásnyújtónak valamely szakmai szervezet vagy testület általi ideiglenes nyilvántartásba vételét, vagy ilyen szervezet vagy testület tagjai közé való ideiglenes felvételét kötelezővé teheti, feltéve, hogy az ilyen nyilvántartásba vétel vagy ideiglenes felvétel nem késlelteti és semmilyen módon nem nehezíti a szolgáltatás nyújtását, valamint nem ró további kötelezettséget a szolgáltatásnyújtóra. Az elismerésért felelős vagy az előzetes ellenőrzést végző hatóság a szolgáltatásnyújtó 40. § (1) bekezdése szerinti bejelentése és a szolgáltatásnyújtó bejelentéséhez csatolandó iratok egy példányát az előzetes ellenőrzés és a IX. Fejezet hatálya alá tartozó szakmák esetében megküldi az érintett szakmai szervezetnek vagy testületnek. A bejelentés megküldése az érintett szakmai szervezet vagy testület automatikus, ideiglenes nyilvántartásba vételének, illetve szakmai szervezeti vagy testületi tagságnak minősül.
 
 (3) A (2) bekezdés szerinti esetben a szolgáltatásnyújtót a 40. § szerinti hiánytalan bejelentés alapján bármilyen további előzetes vizsgálat nélkül nyilvántartásba kell venni, illetve fel kell venni a szakmai szervezet vagy testület tagjai közé. A nyilvántartásba vétel, illetve a tagsági jogviszony a szolgáltatásnyújtás megkezdésének, illetve folytatásának nem feltétele.
 
@@ -584,16 +588,16 @@ az eljáró hatóság csak akkor ismeri el az (1) bekezdés szerint a képzés e
 
 (4) A szolgáltatásnyújtó a megfelelő hazai szakmai címet használva folytathatja tevékenységét, ha az a IX. Fejezet hatálya alá tartozik.
 
-41. § (1) A szolgáltatásnyújtó a Kormány rendeletében meghatározott, népegészségügyi vagy a szolgáltatás igénybe vevőjének vagy más személyeknek az életét, testi épségét érintő kockázatokat magában hordozó szabályozott szakma gyakorlását – ide nem értve a VIII., a IX. és a IX/A. Fejezet hatálya alá tartozó szabályozott szakmát – csak azt követően kezdheti meg, hogy azt az előzetes ellenőrzést végző hatóság a 40. § szerinti bejelentés alapján Magyarország területén való, határon átnyúló szolgáltatási tevékenysége első alkalommal való megkezdése előtt a szolgáltatásnyújtó szakmai képesítésének ellenőrzését követően engedélyezi (előzetes ellenőrzés). Az előzetes ellenőrzés során a hatóság csak azt vizsgálhatja – a feltétlenül szükséges mértékben –, hogy a szolgáltatásnyújtó szakmai felkészültsége megfelelő-e annak elkerülésére, hogy a szolgáltatás igénybe vevője vagy más személy életét, testi épségét súlyos károsodás vagy sérelem érje.
+41. § (1) A szolgáltatásnyújtó a Kormány rendeletében meghatározott, közegészségügyi vagy közbiztonsági vonatkozású szakma gyakorlását – ide nem értve a VIII., a IX. és a IX/A. Fejezet hatálya alá tartozó szabályozott szakmát – csak azt követően kezdheti meg, hogy azt az előzetes ellenőrzést végző hatóság a 40. § szerinti bejelentés alapján Magyarország területén való, határon átnyúló szolgáltatási tevékenysége első alkalommal való megkezdése előtt az ellenőrzés mellőzésével vagy a szolgáltatásnyújtó szakmai képesítésének ellenőrzését követően engedélyezi (előzetes ellenőrzés). Az előzetes ellenőrzés célja az, hogy megakadályozza a szolgáltatás igénybe vevője egészségének vagy biztonságának – a szolgáltatásnyújtó szakmai képesítésének hiánya miatti – súlyos károsodását vagy sérelmét.
 
 (2)
 
 (3) Az előzetes ellenőrzést végző hatóság
 
 - a) a szolgáltatásnyújtást a képesítés külön ellenőrzése nélkül engedélyezi,
-- b) a szolgáltatásnyújtást előzetes ellenőrzést követően engedélyezi,
-- c) a szolgáltatásnyújtás engedélyezését alkalmassági vizsga sikeres teljesítéséhez köti, vagy
-- d) a szolgáltatás nyújtását megtiltja, ha az engedély megadásának jogszabályi feltételei hiányoznak.
+- b) a szolgáltatásnyújtást előzetes ellenőrzést követően engedélyezi, vagy,
+- c) a szolgáltatásnyújtás engedélyezését alkalmassági vizsga sikeres teljesítéséhez köti,
+- d)
 
 (4) Az előzetes ellenőrzést végző hatóság a döntését egy hónapon belül hozza meg. Ha az előzetes ellenőrzést végző hatóság a döntését egy hónapon belül nem tudja meghozni, erről a bejelentés megtételét követő egy hónapon belül tájékoztatja a szolgáltatásnyújtót a döntés meghozatalát gátló körülmény megjelölésével. Az előzetes ellenőrzést végző hatóság a tájékoztatást követő egy hónapon belül az eljárás felfüggesztése mellett intézkedik a gátló körülmény megszüntetéséről. Az előzetes ellenőrzést végző hatóság a (3) bekezdés szerinti döntését a gátló körülmény megszűnésétől számított két hónapon belül meghozza.
 
@@ -890,7 +894,7 @@ kezeli.
 - b) az élelmiszerlánc-felügyeletért felelős miniszter, hogy rendeletben hirdesse ki az állatorvosi oklevelek megnevezését, az ezen okiratok birtokosaival azonos jogállású személyek körét, valamint rendeletben állapítsa meg az elismerési eljárás részletes szabályait,
 - c) az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, hogy rendeletben hirdesse ki az okleveles építészmérnöki oklevelek megnevezését, az előző okirat birtokosaival azonos jogállás alá tartozó személyek körét, valamint rendeletben állapítsa meg az elismerési eljárás részletes szabályait.
 
-(4) A hatáskörébe tartozó szabályozott szakmák esetében felhatalmazást kap a miniszter, hogy meghatározza az elismerhető vagy figyelembe vehető szakmai gyakornoki időszak időtartamát és az elismerés vagy figyelembevétel feltételeit.
+(4) Felhatalmazást kapnak a miniszterek, hogy rendeletben állapítsák meg a szabályozási feladatkörükbe tartozó szabályozott szakmák tekintetében az elismerhető vagy figyelembe vehető szakmai gyakornoki időszak megszervezésére és idejére vonatkozó feltételeket, ideértve a szakmai gyakornoki időszakot felügyelő személy szerepére vonatkozó iránymutatást is.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter és a környezetvédelemért felelős miniszter egyetértésével kiadott rendeletben meghatározza az 53/A. § (5) bekezdése szerinti nagyon mérgező termékek, illetve irtószerek körét.
 
