@@ -2056,7 +2056,7 @@ az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevéke
 - f) a terv esetleges végrehajtását gátló tényezők leírása, ideértve az ügyfelekre, a szerződéses partnerekre, valamint – összevont alapú felügyelet alá tartozó hitelintézet esetén – a csoport többi tagjára gyakorolt hatásokat is,
 - g) a hitelintézet fő üzletágai, működési folyamatai és eszközei értékének valamint értékesíthetőségének meghatározására irányuló eljárások, valamint értékesítésükhöz szükséges lépések és azok becsült időkerete,
 - h) annak ismertetése, hogy a terv hogyan illeszkedik a hitelintézet vállalatirányítási rendszerébe, ideértve a terv kidolgozásához és végrehajtásához kapcsolódó felelősségi köröket,
-- i) a 79. §-ban meghatározott tőkekövetelmény megőrzéséhez kapcsolódó szabályok, lehetséges lépések,
+- i) a 79. §-ban meghatározott tőkekövetelmény megőrzéséhez kapcsolódó szabályok, lehetséges lépések, ideértve a csoporton belüli pénzügyi támogatás nyújtását is,
 - j) szabályok és lépések annak biztosítására, hogy a hitelintézet megfelelően hozzáférjen válsághelyzeti finanszírozási forrásokhoz,
 - k) a kötelezettségek szerkezetének átalakítására irányuló szabályok és intézkedések,
 - l) a fő üzletágak szerkezetének átalakítására irányuló szabályok és intézkedések,
@@ -2081,6 +2081,10 @@ az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevéke
 azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet.
 
 (8) Az összevont alapú felügyelet alá tartozó hitelintézet mindazon vállalkozásokra kiterjedő csoportszintű helyreállítási tervet készít, amelyre a csoport tagjaként az összevont alapú felügyelet kiterjed.
+
+(8a) A csoportszintű helyreállítási terv célja a csoport egészének stresszhelyzetben történő helyreállítása a válsághelyzet okainak kezelésével vagy megszüntetésével, a csoport vagy a csoporthoz tartozó hitelintézet pénzügyi helyzetének rendezésével úgy, hogy a csoport többi tagjának pénzügyi helyzetére is figyelemmel van. A csoportszintű helyreállítási terv koordinált és konzisztens intézkedéseket tartalmaz az EU-szintű hitelintézeti anyavállalat, a pénzügyi intézmények, a leányvállalati hitelintézet és a jelentős fióktelep tekintetében.
+
+(8b) A csoportszintű helyreállítási terv tartalmazza a (3) bekezdés r) pontja szerinti forgatókönyvet is azzal, hogy a forgatókönyv esetében kitér a helyreállítási terv a hitelintézet egyedi szavatoló tőkéje, valamint az összevont alapú szavatolótőke-követelmény tekintetében a szavatoló tőkeelemek átruházásának nehézségére.
 
 (9) A csoportszintű helyreállítási tervet a hitelintézet irányítási jogkörrel rendelkező vezető testülete által történt jóváhagyást követően benyújtja a Felügyeletnek.
 
