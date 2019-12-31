@@ -2190,7 +2190,7 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | Vasúti Pályakapacitás-elosztó Kft. | 100% |
 | Hollóházi Hungarikum Nonprofit Kft. | 50%+1 szavazat |
 | RÁBA Járműipari Holding Nyrt. | 50% + 1 szavazat |
-| Magyar Nemzeti Filmalap Zrt. | 100% |
+| Nemzeti Filmintézet Zrt. | 100% |
 
 II. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó vagyonelemek
 
