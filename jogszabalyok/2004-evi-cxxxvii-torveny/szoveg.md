@@ -42,7 +42,7 @@ a következő törvényt alkotja:
 
 4/B. § Ha az Alapban nem áll rendelkezéshez a működtetéshez szükséges forrás, a NAVA az audiovizuális kötelespéldányok gyűjtése és archiválása körébe nem tartozó – e törvény és az NMHH elnökének rendelete által meghatározott – feladatokat a Médiatanács 14. §-a szerinti határozatában megállapított módon látja el. A rendelkezésre álló forrást az Alap vezérigazgatója az Alap keretei között működő szervezet részére a feladatellátással arányosan átadhatja.
 
-4/C. § (1) Az Alap a NAVA-t érintő és az e törvényben nem szabályozott feladatok ellátására – ideértve a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársasággal való együttműködésből eredő feladatokat is – a Médiatanács és a kultúráért felelős miniszter jóváhagyásával megállapodást köthet.
+4/C. § (1) Az Alap a NAVA-t érintő és az e törvényben nem szabályozott feladatok ellátására – ideértve a Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársasággal való együttműködésből eredő feladatokat is – a Médiatanács és a kultúráért felelős miniszter jóváhagyásával megállapodást köthet.
 
 (2) Az e törvényben nem szabályozott feladatellátás kizárólag a Médiatanács által jóváhagyott megállapodás szerint valósulhat meg. A megállapodásban rendelkezni kell más költségvetési szerv szerződő fél esetén a költségtérítésről, egyéb szerződő fél esetén megfelelő szolgáltatási díjról. Az így befolyó bevételeket az Alap köteles a NAVA feladataira fordítani.
 

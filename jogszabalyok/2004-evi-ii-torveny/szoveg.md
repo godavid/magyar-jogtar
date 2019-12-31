@@ -2,7 +2,7 @@
 
 a mozgóképről
 
-Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapítása és megőrzése, a magyarországi filmipar fejlesztése, nemzetközi viszonylatban való versenyképessé tétele, a mozgóképkultúra fejlődését szolgáló források hatékony felhasználását elősegítő támogatási rendszer, valamint az ezt szolgáló és az európai uniós szabályozással összhangban álló jogszabályi háttér megteremtése érdekében a következő törvényt alkotja:
+Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapítása és megőrzése, a magyarországi mozgóképipar fejlesztése, nemzetközi viszonylatban való versenyképessé tétele, a mozgóképkultúra fejlődését szolgáló források hatékony felhasználását elősegítő támogatási rendszer, valamint az ezt szolgáló és az európai uniós szabályozással összhangban álló jogszabályi háttér megteremtése érdekében a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -60,7 +60,7 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - 27. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 - 28. kulturális értéket műfaja alapján létrehozó filmalkotás: a játékfilm, a kisjátékfilm, a kísérleti film, a dokumentumfilm, a tudományos ismeretterjesztő film, az animációs film, a rövidfilm, a tv-film és a tv-sorozat, a Kormány rendeletében meghatározott kivételekkel;
 - 29. közvetlen magyar filmgyártási költség: a közvetlen filmgyártási költségek azon csoportja, amely adó vagy egyéb közteher-fizetési kötelezettség formájában merül fel, vagy amelynek felmerülése Magyarországon adó- vagy járulékfizetési kötelezettséget keletkeztet és megfelel az e törvényben meghatározott követelményeknek.
-- 30. mozgóképszakmai képzés: a filmipar szakemberigényének kielégítését célzó, a filmalkotás előállítása során felhasználható speciális szakismeret, kompetencia megszerzése vagy fejlesztése;
+- 30. mozgóképszakmai képzés: a mozgóképipar szakemberigényének kielégítését célzó, a filmalkotás előállítása során felhasználható speciális szakismeret, kompetencia megszerzése vagy fejlesztése;
 - 31. közterület: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti földterület;
 - 32. kiemelt nemzeti emlékhely: a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 7. § 8. pontja szerinti emlékhely.
 - 33. műpéldány: a filmalkotást vagy egyéb szerzői jogi védelem alatt álló művet, annak azonosítására alkalmas formában tartósan rögzítő hordozó.
@@ -107,37 +107,37 @@ alkotják.
 
 (2) A nemzeti filmvagyon elemei az állam tulajdonába tartoznak.
 
-(3) A nemzeti filmvagyonra vonatkozóan a magyar állam javára a tulajdonjog, illetve a felhasználási jog megszerzését eredményező megállapodást harmadik személlyel a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MNF) a tulajdonosi joggyakorló előzetes egyetértése nélkül jogosult megkötni.
+(3) A nemzeti filmvagyonra vonatkozóan a magyar állam javára tulajdonjog, illetve a felhasználási jog megszerzését eredményező megállapodást harmadik személlyel a Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NFI) a tulajdonosi joggyakorló előzetes egyetértése nélkül jogosult megkötni.
 
 ### 2. CÍM — A Magyar Nemzeti Filmarchívum
 
-5/B. § (1) A magyar és egyetemes filmkultúra tárgyi, írásos, digitális és egyéb dokumentumainak gyűjtésével, feldolgozásával, megőrzésével, digitalizálásával kapcsolatos feladatokat az MNF látja el akként, hogy szervezeti egységeként, és a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti közgyűjteményként működteti a Magyar Nemzeti Filmarchívumot.
+5/B. § (1) A magyar és egyetemes mozgóképkultúra tárgyi, írásos, digitális és egyéb dokumentumainak gyűjtésével, feldolgozásával, megőrzésével, digitalizálásával kapcsolatos feladatokat az NFI látja el akként, hogy szervezeti egységeként, és a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti közgyűjteményként működteti a Magyar Nemzeti Filmarchívumot.
 
-(2) Az MNF a Magyar Nemzeti Filmarchívum működtetése keretében gondozza a részére jogszabály alapján vagy más módon átadott filmalkotásokat és e törvény szerint filmalkotásnak nem minősülő, más szerzői műveket, valamint az ezekhez kapcsolódó egyéb dokumentumokat.
+(2) Az NFI a Magyar Nemzeti Filmarchívum működtetése keretében gondozza a részére jogszabály alapján vagy más módon átadott filmalkotásokat és e törvény szerint filmalkotásnak nem minősülő, más szerzői műveket, valamint az ezekhez kapcsolódó egyéb dokumentumokat.
 
-(3) Az MNF szakmai szolgáltatásokkal, kutatási tevékenységgel hozzájárul a magyar filmkultúra fejlődéséhez, és segíti a mozgóképkultúrával összefüggő oktatást.
+(3) Az NFI szakmai szolgáltatásokkal, kutatási tevékenységgel hozzájárul a magyar mozgóképkultúra fejlődéséhez, és segíti a mozgóképkultúrával összefüggő oktatást.
 
 ### 3. CÍM — A nemzeti filmvagyon kezelésének szabályai
 
-5/C. § (1) A nemzeti filmvagyonra vonatkozó vagyonkezelői jogokat az MNF gyakorolja.
+5/C. § (1) A nemzeti filmvagyonra vonatkozó vagyonkezelői jogokat az NFI gyakorolja.
 
-(2) A nemzeti filmvagyonba tartozó filmalkotások terjesztését az MNF végzi, figyelembe véve a terjesztésre vonatkozó piaci lehetőségeket, a terjesztésre kerülő alkotások sokszínűségéhez fűződő érdeket, a rendelkezésére álló példányok minőségét és a terjesztésre vonatkozó minőségi előírásokat. Az MNF gyakorolja továbbá a nemzeti filmvagyon részét képező egyéb szerzői művek 5/A. § (1) bekezdés b) pontja szerinti felhasználási jogait. Az MNF korlátlan területi és időbeli felhasználásról szóló, valamint a nemzeti filmvagyon egészére vonatkozó felhasználási megállapodást nem köthet.
+(2) A nemzeti filmvagyonba tartozó filmalkotások terjesztését az NFI végzi, figyelembe véve a terjesztésre vonatkozó piaci lehetőségeket, a terjesztésre kerülő alkotások sokszínűségéhez fűződő érdeket, a rendelkezésére álló példányok minőségét és a terjesztésre vonatkozó minőségi előírásokat. Az NFI gyakorolja továbbá a nemzeti filmvagyon részét képező egyéb szerzői művek 5/A. § (1) bekezdés b) pontja szerinti felhasználási jogait. Az NFI korlátlan területi és időbeli felhasználásról szóló, valamint a nemzeti filmvagyon egészére vonatkozó felhasználási megállapodást nem köthet.
 
-(3) A szerzői vagy szomszédos jogi védelem alatt nem álló filmalkotások és más szerzői művek terjesztéséről az MNF e művek vagyonkezelőjével megállapodást köthet.
+(3) A szerzői vagy szomszédos jogi védelem alatt nem álló filmalkotások és más szerzői művek terjesztéséről az NFI e művek vagyonkezelőjével megállapodást köthet.
 
-5/D. § (1) A nemzeti filmvagyonba tartozó filmalkotások és egyéb szerzői művek felhasználásából az MNF-hez befolyt bevételekből a (2) bekezdés szerinti jogdíjak megfizetése után fennmaradó összeget az MNF az e Fejezet szerinti célokra fordítja.
+5/D. § (1) A nemzeti filmvagyonba tartozó filmalkotások és egyéb szerzői művek felhasználásából az NFI-hez befolyt bevételekből a (2) bekezdés szerinti jogdíjak megfizetése után fennmaradó összeget az NFI az e Fejezet szerinti célokra fordítja.
 
-(2) A nemzeti filmvagyonba tartozó filmalkotások és egyéb szerzői művek felhasználásával kapcsolatban felmerült, a szerzői és a szomszédos jogi jogosultakat megillető jogdíjakat – kivéve az 5/E. § szerinti felhasználás esetét – az MNF fizeti meg.
+(2) A nemzeti filmvagyonba tartozó filmalkotások és egyéb szerzői művek felhasználásával kapcsolatban felmerült, a szerzői és a szomszédos jogi jogosultakat megillető jogdíjakat – kivéve az 5/E. § szerinti felhasználás esetét – az NFI fizeti meg.
 
-(3) Az (1) és (2) bekezdést az MNF és a más szerzői művek vagyonkezelője közötti terjesztési megállapodás megkötésekor is alkalmazni kell.
+(3) Az (1) és (2) bekezdést az NFI és a más szerzői művek vagyonkezelője közötti terjesztési megállapodás megkötésekor is alkalmazni kell.
 
 5/E. § (1) A Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: MTVA) az Mttv. szerinti feladatai ellátása érdekében a nemzeti filmvagyonba tartozó filmalkotásokat és egyéb mozgóképes műveket, valamint azok részleteit felhasználhatja, illetve az Mttv. szerinti feladatai ellátása körében a közszolgálati médiaszolgáltató részére felhasználásra átengedheti. A felhasználás átengedésének joga harmadik személyre nem terjedhet ki.
 
-(2) Az MNF az 5/C. § szerinti feladatai ellátása érdekében felhasználhatja az Mttv. 100. §-a alapján az MTVA tulajdonosi joggyakorlása alatt álló, a közszolgálati médiavagyonba tartozó szerzői műveket és azok részleteit, valamint azon egyéb szellemi alkotásokat, amelyek nem tartoznak a közszolgálati médiavagyonba, de amelyekre nézve az MTVA felhasználási joggal rendelkezik.
+(2) Az NFI az 5/C. § szerinti feladatai ellátása érdekében felhasználhatja az Mttv. 100. §-a alapján az MTVA tulajdonosi joggyakorlása alatt álló, a közszolgálati médiavagyonba tartozó szerzői műveket és azok részleteit, valamint azon egyéb szellemi alkotásokat, amelyek nem tartoznak a közszolgálati médiavagyonba, de amelyekre nézve az MTVA felhasználási joggal rendelkezik.
 
-(3) Az MTVA és az MNF az (1) és (2) bekezdés szerinti felhasználásokra vonatkozó igényt a másik fél által kért határidőben és módon teljesíti, kivéve, ha a teljesítés lehetetlen vagy jogszabály alapján kizárt, illetve szerzői jogi akadályba ütközik.
+(3) Az MTVA és az NFI az (1) és (2) bekezdés szerinti felhasználásokra vonatkozó igényt a másik fél által kért határidőben és módon teljesíti, kivéve, ha a teljesítés lehetetlen vagy jogszabály alapján kizárt, illetve szerzői jogi akadályba ütközik.
 
-(4) Az (1) és (2) bekezdés szerinti felhasználásokról és a felhasználások átengedésének feltételeiről, valamint a felhasználásokért járó díjazásról az MNF és az MTVA a (3) és (5) bekezdésben foglaltak figyelembevételével a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) előzetes jóváhagyásával megállapodást köt.
+(4) Az (1) és (2) bekezdés szerinti felhasználásokról és a felhasználások átengedésének feltételeiről, valamint a felhasználásokért járó díjazásról az NFI és az MTVA a (3) és (5) bekezdésben foglaltak figyelembevételével a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) előzetes jóváhagyásával megállapodást köt.
 
 (5) A (4) bekezdés szerinti díj mértékének kiszámítása során csak azokat a költségeket lehet figyelembe venni, amelyek a nemzeti filmvagyonba tartozó teljes filmalkotások és más audiovizuális művek, ezek részletei, illetve a közszolgálati médiavagyonba tartozó művek és egyéb, MTVA által kezelt szellemi alkotások felhasználásával összefüggően merültek fel. A felhasználással kapcsolatosan felmerült szerzői és szomszédos jogdíjak megfizetését a felhasználó teljesíti.
 
@@ -152,7 +152,7 @@ alkotják.
 - c) a filmalkotások elkészülésének, valamint azok közönséghez való eljutásának biztosítása,
 - d)
 - e) az iparágban fellelhető saját források mozgósítása, illetve a mozgóképipari befektetések ösztönzése,
-- f) a határon túli magyar filmkultúra eddigi értékeinek megőrzése és az új értékek létrehozásának támogatása.
+- f) a határon túli magyar mozgóképkultúra eddigi értékeinek megőrzése és az új értékek létrehozásának támogatása.
 
 7. § (1) A mozgóképszakmai célok támogatása
 
@@ -163,64 +163,62 @@ alkotják.
 
 (2) A közvetett támogatás nyújtására az államháztartásról szóló törvény költségvetési támogatás nyújtására vonatkozó rendelkezéseit nem kell alkalmazni.
 
-### 2. CÍM — A Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság jogállása, szervezete, bevételi forrásai és támogatási tevékenysége
+### 2. CÍM — A Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság jogállása, szervezete, bevételi forrásai és támogatási tevékenysége
 
-8. § (1) Az MNF az e törvényben meghatározott rendelkezések szerint végzi a mozgóképszakmai célokra előirányzott források elosztását.
+8. § (1) Az NFI az e törvényben meghatározott rendelkezések szerint végzi a mozgóképszakmai célokra előirányzott források elosztását.
 
-(2) Az MNF a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) által alapított egyszemélyes közhasznú nonprofit zártkörűen működő részvénytársaság, amelynek részvénye forgalomképtelen. Az MNF alapszabályát az MNV Zrt. fogadja el.
+(2) Az NFI a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) által alapított egyszemélyes közhasznú nonprofit zártkörűen működő részvénytársaság, amelynek részvénye forgalomképtelen. Az NFI alapszabályát az MNV Zrt. fogadja el.
 
-9. § (1) Az MNF vezetője a vezérigazgató.
+9. § (1) Az NFI vezetője az igazgatóság.
 
-(2) Az MNF támogatási feladatait az MNF szervezetében működő, öttagú Filmszakmai Döntőbizottság az MNF Támogatási Szabályzatában meghatározott módon látja el.
+(2) Az NFI támogatási feladatait az NFI szervezetében működő Döntőbizottságok az NFI Támogatási Szabályzatában meghatározott módon látják el.
 
-(3) A Filmszakmai Döntőbizottság tagjai a vezérigazgató és további négy, a mozgóképszakma valamely területén legalább öt éves szakmai tapasztalattal rendelkező magyar állampolgár. A Filmszakmai Döntőbizottság tagjait a vezérigazgató bízza meg, a tagok a vezérigazgató által meghatározott tiszteletdíjban részesülnek. A Filmszakmai Döntőbizottság tagját a vezérigazgató felmenti, ha a tag a megbízatásával összefüggésben a kötelezettségét súlyosan megsérti.
+(3) A Döntőbizottságokat az igazgatóság bízza meg, meghatározva azok tagjait, létszámát, tagjaikkal kapcsolatos szakmai követelményeket, tagjai tiszteletdíját.
 
-(4) A Filmszakmai Döntőbizottság döntéseit az összes tag többségének szavazatával hozza meg.
+9/A. § (1) Az NFI bevételi forrásait a központi költségvetési támogatás és az NFI egyéb bevételei alkotják.
 
-9/A. § (1) Az MNF bevételi forrásait a központi költségvetési támogatás és az MNF egyéb bevételei alkotják.
+(2) Az NFI II. Fejezet szerinti közfeladatai finanszírozását a központi költségvetés biztosítja. Ezt a kiadást az állami vagyonnal kapcsolatos bevételek és kiadások költségvetési fejezetében kell megtervezni. Az NFI az I/A. Fejezet szerinti feladatainak ellátásával összefüggő kiadásait központi költségvetési támogatásból és az 5/D. § (1) bekezdése szerinti bevételből fedezi.
 
-(2) A hatoslottó szerencsejáték játékadójának 80%-át az MNF a II. Fejezet szerinti feladatai ellátására fordítja. Ezt a kiadást az állami vagyonnal kapcsolatos bevételek és kiadások költségvetési fejezetében kell megtervezni. Az MNF az I/A. Fejezet szerinti feladatainak ellátásával összefüggő kiadásait központi költségvetési támogatásból, és az 5/D. § (1) bekezdése szerinti bevételből fedezi.
+(3) Az NFI működése során keletkezett egyéb bevételeit is az e törvény szerinti mozgóképszakmai célokra fordítja.
 
-(3) Az MNF működése során keletkezett egyéb bevételeit is az e törvény szerinti mozgóképszakmai célokra fordítja.
+(4) Az NFI-nek feladatai ellátása során figyelemmel kell lennie a különböző társadalmi igények kiszolgálására, a magyar mozgóképipar sokszínűségének biztosítására. Így különösen lehetőséget kell adnia a különböző filmalkotói nemzedékek, irányzatok esélyegyenlőségen alapuló, minél teljesebb körű bemutatkozására, alkotói céljaik megvalósítására. Ezért az elosztási rendszer kialakítása során meghatározza az egyes részterületek közötti arányokat, egyensúlyt teremt az alkotói, filmelőállítói, terjesztési és nézői szempontok, valamint a művészeti és gazdasági érdekek között.
 
-(4) Az MNF-nek feladatai ellátása során figyelemmel kell lennie a különböző társadalmi igények kiszolgálására, a magyar filmipar sokszínűségének biztosítására. Így különösen lehetőséget kell adnia a különböző filmalkotói nemzedékek, irányzatok esélyegyenlőségen alapuló, minél teljesebb körű bemutatkozására, alkotói céljaik megvalósítására. Ezért az elosztási rendszer kialakítása során meghatározza az egyes részterületek közötti arányokat, egyensúlyt teremt az alkotói, filmelőállítói, terjesztési és nézői szempontok, valamint a művészeti és gazdasági érdekek között.
+(5) Az NFI közvetlenül vagy az általa alapított gazdasági társaságon keresztül is jogosult filmgyártási és filmterjesztési tevékenységet folytatni, ebben az esetben nem minősül e törvény szerinti támogatónak.
 
-(5) Az MNF közvetlenül vagy az általa alapított gazdasági társaságon keresztül is jogosult filmgyártási tevékenységet folytatni, ebben az esetben nem minősül e törvény szerinti támogatónak.
-
-9/B. § (1) Az MNF feladatai különösen:
+9/B. § (1) Az NFI feladatai különösen:
 
 - a) a bevételi források elosztása révén a mozgóképszakmai támogatási rendszer működtetése,
 - b) pályázati elvek kidolgozása, különös tekintettel a következőkre:
   - ba) a pályázók esélyegyenlősége, a pályázatok egyértelműsége, átláthatósága és összehasonlíthatósága,
-  - bb) a magyar filmművészet és filmipar folyamatos jelenlétének biztosítása a hazai, az európai, valamint az Európán kívüli filmpiacon,
-  - bc) a magyar és egyetemes filmkultúra magyarországi terjesztésének elősegítése,
+  - bb) a magyar mozgóképművészet és mozgóképipar folyamatos jelenlétének biztosítása a hazai, az európai, valamint az Európán kívüli filmpiacon,
+  - bc) a magyar és egyetemes mozgóképkultúra magyarországi terjesztésének elősegítése,
   - bd) a pályáztatás folyamatosságának biztosítása,
 - c) a támogatás odaítélésétől kezdődően a filmalkotások elkészültének, valamint az egyéb támogatott célok megvalósulásának folyamatos felügyelete és a támogatások felhasználásának ellenőrzése, a filmalkotások nemzetközi terjesztésének és filmfesztiválokon való jelenlétének elősegítése,
 - d) a mozgóképszakma nemzetközi képviselete, a nemzetközi kapcsolatok ápolása, a nemzetközi mozgóképszakmai pályázati rendszerbe való bekapcsolódás elősegítése,
-- e) a határon túli magyar filmművészet támogatása, folyamatos jelenlétének elősegítése a hazai, az európai, valamint az Európán kívüli filmpiacon,
-- f) e törvény szerinti támogatással megvalósuló filmalkotásokon fennálló, szerződés alapján megszerzett vagyoni jogok kezelése, hasznosítása az MNF Támogatási Szabályzatában és a támogatottal kötött szerződésben meghatározott rendelkezések szerint,
-- g) az MNF tulajdonában vagy kezelésében lévő vagyontárgyak kezelése, hasznosítása,
+- e) a határon túli magyar mozgóképművészet támogatása, folyamatos jelenlétének elősegítése a hazai, az európai, valamint az Európán kívüli filmpiacon,
+- f) e törvény szerinti támogatással megvalósuló filmalkotásokon fennálló, szerződés alapján megszerzett vagyoni jogok kezelése, hasznosítása az NFI Támogatási Szabályzatában és a támogatottal kötött szerződésben meghatározott rendelkezések szerint,
+- g) az NFI tulajdonában vagy kezelésében lévő vagyontárgyak kezelése, hasznosítása,
 - h) a mozgóképszakmai támogatási rendszer továbbfejlesztésére vonatkozó koncepciók elkészítése,
 - i) a magyar kultúra terjesztése, illetve Magyarország nemzetközi megítélése szempontjából kiemelkedő jelentőségű, filmforgatásra alkalmas állami és önkormányzati tulajdonban álló helyszínek nyilvántartása, valamint közreműködés filmgyártási célra történő hasznosításukban az azok felett rendelkezésre jogosultakkal kötött megállapodás alapján,
 - j) a 31/B. § (2c) bekezdése szerinti forrás felhasználásával a mozgóképszakmai képzés támogatása, támogatási rendszerének működtetése, képzések szervezése és a mozgóképes szakmák népszerűsítése,
 - k) a IV. fejezet szerinti közterület- és ingatlanhasználatra vonatkozó hatósági ügyekkel kapcsolatos eljárás lefolytatása,
 - l) mozgóképszakmai rendezvények szervezése.
 
-(2) Az MNF az e törvényben meghatározott pályázati és támogatási elvek, illetve feltételek érvényesülését biztosító, a pályázatokra és a támogatások nyújtására vonatkozó részletes szabályokat az alapszabályában, illetve a Támogatási Szabályzatában állapítja meg. Az MNF a Támogatási Szabályzatot a honlapján közzéteszi.
+(2) Az NFI az e törvényben meghatározott pályázati és támogatási elvek, illetve feltételek érvényesülését biztosító, a pályázatokra és a támogatások nyújtására vonatkozó részletes szabályokat az alapszabályában, illetve a Támogatási Szabályzatában állapítja meg. Az NFI a Támogatási Szabályzatot a honlapján közzéteszi.
 
-### 3. CÍM — A Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság vagyonkezelői jogviszonyával kapcsolatos különös szabályok
+### 3. CÍM — A Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság vagyonkezelői jogviszonyával kapcsolatos különös szabályok
 
-10. § (1) Az MNF által az e törvény alapján végzett, a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül. Az MNF az állami vagyonról szóló 2007. évi CVI. törvény 27. § (7) bekezdése szerinti visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül.
+10. § (1) Az NFI által az e törvény alapján végzett, a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül. Az NFI az állami vagyonról szóló 2007. évi CVI. törvény 27. § (7) bekezdése szerinti visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül.
 
-(2) Az MNF által teljesített értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben a tulajdonosi joggyakorlónak és az MNF-nek a vagyonkezelői jogviszonnyal kapcsolatosan egymással szemben megtérítési kötelezettsége nem keletkezik. Az állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek az MNF – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásban történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
+(2) Az NFI által teljesített értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben a tulajdonosi joggyakorlónak és az NFI-nek a vagyonkezelői jogviszonnyal kapcsolatosan egymással szemben megtérítési kötelezettsége nem keletkezik. Az állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek az NFI – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásban történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
 
-(3) Az MNF-et megilletik a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (8) bekezdése szerinti tulajdonosi jogok és terhelik a tulajdonos kötelezettségei, azzal, hogy az állami tulajdonban álló ingatlanok tekintetében az építési tevékenység megvalósítása céljából az MNF által kezdeményezett hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.
+(3) Az NFI-t megilletik a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (8) bekezdése szerinti tulajdonosi jogok és terhelik a tulajdonos kötelezettségei, azzal, hogy az állami tulajdonban álló ingatlanok tekintetében az építési tevékenység megvalósítása céljából az NFI által kezdeményezett hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.
 
-(4) Az MNF a vagyonkezelésében lévő vagyonelemeken értékmegőrző és értéknövelő fejlesztéseket és beruházásokat végez, továbbá ellátja a vagyonelemekkel kapcsolatos egyéb közfeladatokat. Az MNF a törvény erejénél fogva jogosult a bontással járó munkálatok elvégzésére, valamint a saját selejtezési szabályzata alapján történő selejtezésre, azzal, hogy az MNF köteles a bontásból és a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére, illetve jogosult a hulladéknak nem minősülő vissznyereményi anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyereményi anyagok értékesítéséből származó bevétel az MNF-et illeti meg azzal, hogy az MNF köteles az értékesítésből származó bevételt a vagyonkezelésében lévő vagyonelemek értékének megőrzésére, gyarapítására vagy a vagyon cél szerinti fenntartására fordítani.
+(4) Az NFI a vagyonkezelésében lévő vagyonelemeken értékmegőrző és értéknövelő fejlesztéseket és beruházásokat végez, továbbá ellátja a vagyonelemekkel kapcsolatos egyéb közfeladatokat. Az NFI a törvény erejénél fogva jogosult a bontással járó munkálatok elvégzésére, valamint a saját selejtezési szabályzata alapján történő selejtezésre, azzal, hogy az NFI köteles a bontásból és a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére, illetve jogosult a hulladéknak nem minősülő vissznyereményi anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyereményi anyagok értékesítéséből származó bevétel az NFI-t illeti meg azzal, hogy az NFI köteles az értékesítésből származó bevételt a vagyonkezelésében lévő vagyonelemek értékének megőrzésére, gyarapítására vagy a vagyon cél szerinti fenntartására fordítani.
 
-(5) Az MNF a nemzeti filmvagyonba tartozó műpéldányokkal kapcsolatos közfeladat ellátása során a (4) bekezdés megfelelő alkalmazásával jogosult selejtezésre.
+(5) Az NFI a nemzeti filmvagyonba tartozó műpéldányokkal kapcsolatos közfeladat ellátása során a (4) bekezdés megfelelő alkalmazásával jogosult selejtezésre.
 
-11. § Az 5/A. § (3) bekezdés alapján az állam javára megszerzett tulajdon- és felhasználási jog (a továbbiakban együtt: jogszerzés) tekintetében az állam javára történt szerzéssel egy időben e törvény erejénél fogva, vagyonkezelési szerződés megkötése nélkül, az MNF-et ingyenes vagyonkezelői jog illeti meg, azzal, hogy ezen vagyon (ideértve a vagyoni értékű jogokat is) nyilvántartásáról gondoskodni köteles és a tulajdonosi joggyakorlót a jogszerzésről a jogszerzés évét követő május 31. napjáig köteles értesíteni a tulajdonosi joggyakorló által elvárt formában és adattartalommal.
+11. § Az 5/A. § (3) bekezdése alapján az állam javára megszerzett tulajdon- és felhasználási jog (a továbbiakban együtt: jogszerzés) az állam javára történt szerzéssel egy időben e törvény erejénél fogva az NFI ingyenes vagyonkezelésébe és a nemzeti filmvagyonra vonatkozó vagyonkezelési szerződésének hatálya alá kerül, azzal, hogy ezen vagyon (ideértve a vagyoni értékű jogokat is) nyilvántartásáról gondoskodni köteles és a tulajdonosi joggyakorlót a jogszerzésről a jogszerzés évét követő év május 31. napjáig köteles értesíteni a tulajdonosi joggyakorló által elvárt formában és adattartalommal.
 
 ### 4. CÍM — A támogatások elosztásának szabályai
 
@@ -242,9 +240,9 @@ alkotják.
 
 (4) A (3) bekezdésben meghatározott tevékenységek céljára nyújtható támogatás maximális mértékének meghatározása szempontjából a filmalkotáshoz nyújtott valamennyi támogatást figyelembe kell venni. A filmgyártás-előkészítési támogatásban részesülő filmalkotás támogatását a 13. §-ban meghatározott támogatási határ kiszámításakor figyelembe kell venni.
 
-(5) Az MTVA – a Médiatanács előzetes jóváhagyásával – megállapodást köthet az MNF-fel filmalkotások támogatásáról e törvény rendelkezései szerint.
+(5) Az MTVA – a Médiatanács előzetes jóváhagyásával – megállapodást köthet az NFI-vel filmalkotások támogatásáról e törvény rendelkezései szerint.
 
-(6) Az MNF a mozgóképszakmai célok támogatására rendelkezésre álló források elosztásának összehangolása érdekében megállapodást köthet a támogatóval a (3) bekezdésben meghatározott egyes mozgóképszakmai tevékenységek támogatásáról.
+(6) Az NFI a mozgóképszakmai célok támogatására rendelkezésre álló források elosztásának összehangolása érdekében megállapodást köt a támogatóval a (3) bekezdésben meghatározott egyes mozgóképszakmai tevékenységek támogatásáról, ideértve különösen az elszámolások ellenőrzését és szakmai elbírálását.
 
 (7)
 
@@ -336,7 +334,7 @@ az időpontja.
 
 (4) Az összeférhetetlenségről a pályázat elbírálását megelőzően az érintett tisztségviselőnek írásban nyilatkoznia kell. Ha az érintett vezető vagy javaslattevő tisztségviselő az összeférhetetlenség kérdésében valótlanul nyilatkozik vagy valótlan adatot szolgáltat, megbízatása a törvény erejénél fogva megszűnik.
 
-(5) Ha törvény az adott támogatóra eltérő összeférhetetlenségi szabályt állapít meg, a két szabály közül a szigorúbbat kell alkalmazni. E törvény alkalmazásában az MNF vezérigazgatója, valamint az MNF Filmszakmai Döntőbizottságának tagjai támogatásokról döntő tisztségviselőnek minősülnek.
+(5) Ha törvény az adott támogatóra eltérő összeférhetetlenségi szabályt állapít meg, a két szabály közül a szigorúbbat kell alkalmazni. E törvény alkalmazásában az NFI igazgatóságának tagjai, valamint az NFI Döntőbizottságainak tagjai támogatásokról döntő tisztségviselőnek minősülnek.
 
 15. § (1) Közvetlen támogatás a 12. § (3) bekezdésének a)–e) pontjaiban meghatározott tevékenységek esetében – az (1a) bekezdésben foglalt kivétellel – pályázat útján nyújtható. Ha a törvény másként nem rendelkezik, a támogató a támogatási szabályzatában meghatározott mértékig és feltételek mellett egyedi támogatást is nyújthat, ha a pályázati úton előzőleg kiválasztott célok megvalósítása másként nem biztosítható.
 
@@ -753,7 +751,7 @@ az időpontja.
 
 (4) A Korhatár Bizottság tagjai az Elnök által megállapított tiszteletdíjban, az eljáró Korhatár Bizottság tagjai az Elnök által megállapított költségtérítésben részesülnek.
 
-(5) A miniszter, az oktatásért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a Médiatanács és az MNF egy-egy, a gyermek- és ifjúságvédelem területén tapasztalattal rendelkező delegáltja a Korhatár Bizottság ülésein szakértőként részt vehet.
+(5) A miniszter, az oktatásért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a Médiatanács és az NFI egy-egy, a gyermek- és ifjúságvédelem területén tapasztalattal rendelkező delegáltja a Korhatár Bizottság ülésein szakértőként részt vehet.
 
 ### A filmalkotások besorolásának közzététele
 
@@ -786,9 +784,9 @@ az időpontja.
 - g) arról, hogy a filmalkotás
   - ga) a nemzeti filmvagyonba tartozik-e,
   - gb) a moziban megrendezésre kerülő, nemzetközi egyezmény vagy szakmai szervezet által szervezett filmnap, filmhét vagy filmfesztivál programjába tartozik-e,
-  - gc) az MNF-től kölcsönzöttnek minősül-e, vagy
+  - gc) az NFI-től kölcsönzöttnek minősül-e, vagy
   - gd) nemzetközileg elismert, a mozgóképszakmai hatóság által közzétett jegyzékben meghatározott nemzetközi filmfesztivál verseny- vagy versenyen kívüli valamely programjában szerepel-e, továbbá
-- h) a nemzeti filmvagyonba tartozó, a moziban megrendezésre kerülő, nemzetközi egyezmény vagy szakmai szervezet által szervezett filmnap, filmhét vagy filmfesztivál programjába tartozó, az MNF-től kölcsönzött, vagy nemzetközileg elismert, a mozgóképszakmai hatóság által közzétett jegyzékben meghatározott nemzetközi filmfesztivál verseny- vagy versenyen kívüli valamely programjában szereplő filmalkotással kapcsolatos egyéb jellemzőkről.
+- h) a nemzeti filmvagyonba tartozó, a moziban megrendezésre kerülő, nemzetközi egyezmény vagy szakmai szervezet által szervezett filmnap, filmhét vagy filmfesztivál programjába tartozó, az NFI-től kölcsönzött, vagy nemzetközileg elismert, a mozgóképszakmai hatóság által közzétett jegyzékben meghatározott nemzetközi filmfesztivál verseny- vagy versenyen kívüli valamely programjában szereplő filmalkotással kapcsolatos egyéb jellemzőkről.
 
 (3) A Hivatal a 19/H. § (3) bekezdése szerinti határozatával adatszolgáltatásra kötelezi a moziüzemeltetőt, ha a moziüzemeltető az (1) bekezdés szerinti kötelezettségének nem vagy nem megfelelően tesz eleget.
 
@@ -809,9 +807,9 @@ az időpontja.
 
 (3) Az Art Bizottság tagjai:
 
-- a) egy, a Magyar Művészeti Akadémia elnöke által a filmművészet képviselőjeként delegált személy,
-- b) egy, a Hivatal által az NMHH köztisztviselői közül delegált felsőfokú végzettségű és a filmművészet területén tapasztalattal rendelkező személy,
-- c) egy, a miniszter által delegált, a filmművészet területén tapasztalattal rendelkező személy,
+- a) egy, a Magyar Művészeti Akadémia elnöke által a mozgóképművészet képviselőjeként delegált személy,
+- b) egy, a Hivatal által az NMHH köztisztviselői közül delegált felsőfokú végzettségű és a mozgóképművészet területén tapasztalattal rendelkező személy,
+- c) egy, a miniszter által delegált, a mozgóképművészet területén tapasztalattal rendelkező személy,
 - d) három, filmművészeti, filmtudományi vagy mozgóképtanári végzettséggel, illetve gyakorlattal rendelkező személy.
 
 (4) A (3) bekezdés b) pontjában meghatározott tag ellátja az Art Bizottság koordinációjával kapcsolatos feladatokat és a Bizottság elnökeként vezeti annak üléseit.
@@ -901,17 +899,17 @@ az időpontja.
 
 (5) A Hivatal a törvényben meghatározott adatok közlése esetén, a (9) bekezdésben foglalt megtagadási ok hiányában a kérelmezőt nyilvántartásba veszi. A nyilvántartásba vett adatokban bekövetkezett változást a támogatást igénylő köteles a változást követő 15 napon belül bejelenteni a Hivatalnak.
 
-(6) A Hivatal az (5) bekezdés szerinti nyilvántartásba vételt követő 15 napon belül az e bekezdésben meghatározott célból megkeresi az MNF-et, a minisztert, valamint az egyéb támogatót. A megkeresett szervezetek a megkereséstől számított 15 napon belül nyilatkoznak arról, hogy
+(6) A Hivatal az (5) bekezdés szerinti nyilvántartásba vételt követő 15 napon belül az e bekezdésben meghatározott célból megkeresi az NFI-t, a minisztert, valamint az egyéb támogatót. A megkeresett szervezetek a megkereséstől számított 15 napon belül nyilatkoznak arról, hogy
 
 - a) vele szemben a nyilvántartásba vett természetes személynek vagy szervezetnek, a szervezet tulajdonosának vagy alapítójának és a szervezet tulajdonosa vagy alapítója által alapított vagy tulajdonolt más gazdálkodó szervezetnek van-e lejárt, teljesítetlen fizetési vagy elszámolási kötelezettsége, és
 - b) a nyilvántartásba vett szervezet vezető tisztségviselői, tulajdonosai és alapítói között van-e olyan személy, aki a nyilvántartásbavétel napját megelőző három évben olyan gazdálkodó szervezet vezető tisztségviselője volt, amely a vezető tisztségviselő megbízatásának időtartama alatt felhasznált támogatással a támogatóval szemben nem számolt el vagy elszámolását a támogató nem fogadta el.
 
-(7) A (6) bekezdés szerinti nyilatkozatban közölni kell a nyilvántartásba vett szervezet által igénybe vett közvetlen támogatás összegét és a támogatott tevékenységet, illetve filmalkotást. Ha az MNF, a miniszter vagy az egyéb támogató akként nyilatkozik, hogy
+(7) A (6) bekezdés szerinti nyilatkozatban közölni kell a nyilvántartásba vett szervezet által igénybe vett közvetlen támogatás összegét és a támogatott tevékenységet, illetve filmalkotást. Ha az NFI, a miniszter vagy az egyéb támogató akként nyilatkozik, hogy
 
 - a) a nyilvántartásba vett természetes személynek vagy szervezetnek, a szervezet tulajdonosának vagy alapítójának, vagy a szervezet tulajdonosa vagy alapítója által alapított vagy tulajdonolt más gazdálkodó szervezetnek a támogatóval szemben az e törvény hatálya alá tartozó lejárt, teljesítetlen fizetési vagy elszámolási kötelezettsége van, vagy
 - b) a nyilvántartásba vett szervezet vezető tisztségviselői, tulajdonosai vagy alapítói között olyan személy van, aki a nyilvántartásbavétel napját megelőző három évben olyan gazdálkodó szervezet vezető tisztségviselője volt, amely a vezető tisztségviselő megbízatásának időtartama alatt felhasznált támogatással a támogatóval szemben nem számolt el vagy elszámolását a támogató nem fogadta el,
 
-a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törli a nyilvántartásból, és erről az MNF-et, a minisztert és az egyéb támogatót is értesíti.
+a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törli a nyilvántartásból, és erről az NFI-t, a minisztert és az egyéb támogatót is értesíti.
 
 (8) A Hivatal a (6) bekezdésben foglalt megkeresést mellőzi olyan jogelőd nélkül alapított új szervezet nyilvántartásba vétele esetén, amelynek alapítói (tulajdonosai) és vezető tisztségviselői között kizárólag a nyilvántartásban már szereplő szervezet vagy természetes személy található.
 
@@ -924,7 +922,7 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 - a) a (7) bekezdésben, a 19/I. § (2) és (3) bekezdésében, a 26/C. § (2) bekezdésében meghatározott esetekben, és
 - b) akkor, ha a nyilvántartásba vétel megtagadásának lett volna helye, azonban a megtagadási ok a nyilvántartásba vételt követően jutott a Hivatal tudomására vagy az nyilvántartásba vételt követően merül fel.
 
-(12) A Hivatal a nyilvántartásból való törlésről értesíti az MNF-et, a minisztert és az egyéb támogatót.
+(12) A Hivatal a nyilvántartásból való törlésről értesíti az NFI-t, a minisztert és az egyéb támogatót.
 
 (13) A jelentős támogatókat a Hivatal negyedévente megkeresi a (6) bekezdés szerinti adatszolgáltatás céljából.
 
@@ -997,15 +995,15 @@ mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább
 
 (2b) A (2a) bekezdés f) pontja szerinti kötelezettség nem vonatkozik a filmművészeti állami felsőoktatási képzés keretében készülő filmalkotások gyártására.
 
-(2c) Az e törvény szerinti közvetett támogatásban részesülő filmelőállító vagy filmgyártó vállalkozás a Hivatal támogatásra jogosultságot megállapító döntésében meghatározott közvetlen filmgyártási költség 0,5%-át, de filmalkotásonként legfeljebb tizenötmillió forintot mozgóképszakmai képzési hozzájárulás címén az e törvényben meghatározott módon megfizet az MNF-nek.
+(2c) Az e törvény szerinti közvetett támogatásban részesülő filmelőállító vagy filmgyártó vállalkozás a Hivatal támogatásra jogosultságot megállapító döntésében meghatározott közvetlen filmgyártási költség 0,5%-át, de filmalkotásonként legfeljebb tizenötmillió forintot mozgóképszakmai képzési hozzájárulás címén az e törvényben meghatározott módon megfizet az NFI-nek.
 
-(2d) A mozgóképszakmai képzési hozzájárulást az MNF-nek a Magyar Államkincstárnál (a továbbiakban: kincstár) e célra vezetett számlájára a támogatásra jogosultságot megállapító döntés véglegessé válásától számított hatvan napon belül kell befizetni.
+(2d) A mozgóképszakmai képzési hozzájárulást az NFI-nek a Magyar Államkincstárnál (a továbbiakban: kincstár) e célra vezetett számlájára a támogatásra jogosultságot megállapító döntés véglegessé válásától számított hatvan napon belül kell befizetni.
 
 (2e) A mozgóképszakmai képzési hozzájárulás befizetési határidejének elmulasztása esetén a Hivatal jogkövetkezményként hivatalból indított hatósági eljárásban a támogatásra jogosultságot megállapító döntését akként módosítja, hogy a támogatásra jogosultságot elutasítja. A hivatalból indított eljárásban a Hivatal tizenöt napos határidő tűzése mellett felszólítja a késedelmesen fizető filmelőállítót vagy a filmgyártó vállalkozást a (2c) bekezdés szerinti mozgóképszakmai képzési hozzájárulás megfizetésére. Amennyiben a hatósági eljárás érdemi lezárása előtt a filmelőállító vagy a filmgyártó vállalkozás megfizeti a (2c) bekezdés szerinti mozgóképszakmai képzési hozzájárulást, úgy a Hivatal a 19/H. § (8) bekezdés d) pontjában foglalt jogkövetkezményt alkalmazhatja.
 
 (2f) Nem kell mozgóképszakmai képzési hozzájárulást fizetni a tízmillió forintot el nem érő közvetlen filmgyártási költséggel rendelkező filmalkotások után.
 
-(2g) Az MNF az általa kezelt, az egyes filmalkotásokra vonatkozó, mozgóképszakmai képzési hozzájárulás címén megfizetett összegekről, a Hivatal a mozgóképszakmai képzési hozzájárulás összegét magában foglaló támogatásra jogosultságot megállapító döntésekről nyilvántartást vezet. A véglegessé vált döntéseket az MNF részére elektronikus úton megküldi, az MNF a Hivatalt abban az esetben tájékoztatja, ha a Hivatalnak hivatalból eljárást szükséges indítania a támogatásra jogosultságot megállapító döntés módosítása iránt.
+(2g) Az NFI az általa kezelt, az egyes filmalkotásokra vonatkozó, mozgóképszakmai képzési hozzájárulás címén megfizetett összegekről, a Hivatal a mozgóképszakmai képzési hozzájárulás összegét magában foglaló támogatásra jogosultságot megállapító döntésekről nyilvántartást vezet. A véglegessé vált döntéseket az NFI részére elektronikus úton megküldi, az NFI a Hivatalt abban az esetben tájékoztatja, ha a Hivatalnak hivatalból eljárást szükséges indítania a támogatásra jogosultságot megállapító döntés módosítása iránt.
 
 (3) Az (1) bekezdés szerinti kérelem a terjesztésre kerülő filmalkotások nyilvántartásba vételére irányuló, továbbá a 26/A. §-ban és a 26/B. §-ban meghatározott eljárásban előterjesztett kérelemmel együtt is benyújtható. Ebben az esetben a Hivatal a kérelmeket egy eljárás keretében bírálja el.
 
@@ -1061,17 +1059,17 @@ mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább
 (3) A Hivatal
 
 - a) a filmelőállító, illetve a filmgyártó vállalkozás önálló vagy együttes,
-- b) – a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító támogatás esetében – az MNF, vagy
-- c) – ha az (1) bekezdés szerinti határozat véglegessé vált és a filmelőállító, illetve a filmgyártó vállalkozás vagy az MNF azt nem kérte – a közvetett támogatás forrását a Tao. tv. 22. § (3) bekezdése, illetve a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján – az MNF részére történő felajánlás kivételével – biztosító szervezet
+- b) – a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító támogatás esetében – az NFI, vagy
+- c) – ha az (1) bekezdés szerinti határozat véglegessé vált és a filmelőállító, illetve a filmgyártó vállalkozás vagy az NFI azt nem kérte – a közvetett támogatás forrását a Tao. tv. 22. § (3) bekezdése, illetve a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján – az NFI részére történő felajánlás kivételével – biztosító szervezet
 
-kérelmére a közvetett támogatás igénybevételére jogosító támogatási igazolást ad ki. Amennyiben a közvetett támogatás forrását biztosító szervezet a közvetett támogatást a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján az MNF részére történő felajánlás formájában biztosítja, a Hivatal a közvetett támogatás igénybevételére jogosító támogatási igazolást nem állít ki. A Hivatal a Tao. tv. 24/A. § (16) bekezdés a) pontja szerint igazolást a közvetett támogatás forrását biztosító szervezet és a felajánlás fogadására jogosult filmelőállító vagy filmgyártó vállalkozás együttes kérelmére állítja ki.
+kérelmére a közvetett támogatás igénybevételére jogosító támogatási igazolást ad ki. Amennyiben a közvetett támogatás forrását biztosító szervezet a közvetett támogatást a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján az NFI részére történő felajánlás formájában biztosítja, a Hivatal a közvetett támogatás igénybevételére jogosító támogatási igazolást nem állít ki. A Hivatal a Tao. tv. 24/A. § (16) bekezdés a) pontja szerint igazolást a közvetett támogatás forrását biztosító szervezet és a felajánlás fogadására jogosult filmelőállító vagy filmgyártó vállalkozás együttes kérelmére állítja ki.
 
 (4) A költségellenőrzést lezáró határozat, valamint a támogatási igazolás kiállításának feltétele, hogy a filmalkotás előállítója, illetve gyártója vállalja az állam támogatóként történő feltüntetését a filmalkotás végefőcímében az Elnök által rendeletben meghatározott módon.
 
 (5) A támogatási igazolás kiadása iránti
 
-- a) kérelemben – ha a közvetett támogatás forrását biztosító szervezet a filmelőállítóval, illetve filmgyártó vállalkozással köt szerződést a filmalkotás támogatásáról és a kérelmező a közvetett támogatás forrását biztosító szervezet vagy az MNF – a támogatási igazolás kiadása iránti kérelem benyújtásával egyidejűleg, egyéb esetben legkésőbb a kérelem benyújtását követő 30 napon belül meg kell jelölni a közvetett támogatás forrását biztosító szervezet nevét, székhelyét, adószámát és csatolni kell a filmalkotás támogatására vonatkozó szerződést,
-- b) kérelemhez – ha azt a Hivatal az MNF kérelmére adja ki – csatolni kell az MNF és a közvetett támogatás forrását biztosító szervezet között létrejött megállapodást, továbbá a közvetett támogatás forrásának a kincstárnál e célra vezetett letéti számlára (a továbbiakban: letéti számla) történt megfizetést igazoló, a kincstár által kiállított okiratot,
+- a) kérelemben – ha a közvetett támogatás forrását biztosító szervezet a filmelőállítóval, illetve filmgyártó vállalkozással köt szerződést a filmalkotás támogatásáról és a kérelmező a közvetett támogatás forrását biztosító szervezet vagy az NFI – a támogatási igazolás kiadása iránti kérelem benyújtásával egyidejűleg, egyéb esetben legkésőbb a kérelem benyújtását követő 30 napon belül meg kell jelölni a közvetett támogatás forrását biztosító szervezet nevét, székhelyét, adószámát és csatolni kell a filmalkotás támogatására vonatkozó szerződést,
+- b) kérelemhez – ha azt a Hivatal az NFI kérelmére adja ki – csatolni kell az NFI és a közvetett támogatás forrását biztosító szervezet között létrejött megállapodást, továbbá a közvetett támogatás forrásának a kincstárnál e célra vezetett letéti számlára (a továbbiakban: letéti számla) történt megfizetést igazoló, a kincstár által kiállított okiratot,
 - c) a kérelemhez csatolni kell a (2) bekezdésben meghatározott iratokat,
 - d) kérelemhez, ha azt költségellenőrzési eljárás előzte meg, csatolni kell a 31/B. § (2c) bekezdésében meghatározott hozzájárulás megfizetését igazoló iratot.
 
@@ -1084,7 +1082,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (6a)–(6b)
 
-(7) Az MNF kérelmére kiadott támogatási igazolás kizárólag a (6) bekezdés a) és d) pontjában meghatározott adatokat tartalmazza.
+(7) Az NFI kérelmére kiadott támogatási igazolás kizárólag a (6) bekezdés a) és d) pontjában meghatározott adatokat tartalmazza.
 
 (8) Megrendelésre készülő filmalkotás esetén a filmgyártó vállalkozás kérelme alapján – ide nem értve a (7) bekezdés szerinti kérelem alapján kiadott támogatási igazolásokat – a támogatási igazoláson és a költségellenőrzési eljárásban hozott határozatban a filmelőállító is feltüntethető.
 
@@ -1104,21 +1102,21 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (6) A Hivatal indokolt kérelemre, különös méltánylást érdemlő esetben a 31/D. § (2) bekezdése szerint kiadott támogatási igazolásokat vagy a költségellenőrzési eljárásokat lezáró határozatokat az addig összesen elszámolt és igazolt filmgyártási költségek egészére tekintettel állítja ki a 12. § (10) bekezdésében foglalt arány, valamint a jogdíj, befejezési garancia, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekciója, valamint a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költség érvényesíthetősége, továbbá a 31/D. § (3) bekezdése szerint megállapított közvetett támogatás 30%-os mértékig történő kiegészítése érdekében, amennyiben megfelel a támogatásra jogosultság egyéb feltételeinek. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
 
-(7) A Tao. tv. 22. § (3) bekezdése szerint biztosított támogatás esetében a közvetett támogatás forrását biztosító szervezet az MNF-fel kötött megállapodás alapján utalja a közvetett támogatás forrását a letéti számlára. A Tao. tv. 24/A. § (3) bekezdés a) pontja szerint biztosított közvetett támogatás esetében a kedvezményezett célra felajánlott összeget mint közvetett támogatást az állami adóhatóság utalja a letéti számlára. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül nem haladhatja meg az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összeget.
+(7) A Tao. tv. 22. § (3) bekezdése szerint biztosított támogatás esetében a közvetett támogatás forrását biztosító szervezet az NFI-vel kötött megállapodás alapján utalja a közvetett támogatás forrását a letéti számlára. A Tao. tv. 24/A. § (3) bekezdés a) pontja szerint biztosított közvetett támogatás esetében a kedvezményezett célra felajánlott összeget mint közvetett támogatást az állami adóhatóság utalja a letéti számlára. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül nem haladhatja meg az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összeget.
 
-(8) A letéti számlát a társadalompolitika összehangolásáért felelős miniszter nyitja meg. A letéti számlán lévő pénzeszközökkel pénzügyi művelet az e törvényben meghatározott esetekben és módon az MNF rendelkezése alapján végezhető.
+(8) A letéti számlát a társadalompolitika összehangolásáért felelős miniszter nyitja meg. A letéti számlán lévő pénzeszközökkel pénzügyi művelet az e törvényben meghatározott esetekben és módon az NFI rendelkezése alapján végezhető.
 
-(9) A közvetett támogatás kifizetését a filmelőállító, illetve a filmgyártó vállalkozás akkor kérheti az MNF-től, ha a Hivatal által a filmalkotás adott gyártási időszaka tekintetében meghozott, a 31/C. § (1) bekezdése szerinti határozata véglegessé vált és támogatási szerződést még nem kötött. A 31/C. § (1) bekezdése szerinti határozat véglegessé válásának időpontjáról a Hivatal nyilvántartást vezet. A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdése szerinti határozat véglegessé válásának sorrendjében történhet.
+(9) A közvetett támogatás kifizetését a filmelőállító, illetve a filmgyártó vállalkozás akkor kérheti az NFI-től, ha a Hivatal által a filmalkotás adott gyártási időszaka tekintetében meghozott, a 31/C. § (1) bekezdése szerinti határozata véglegessé vált és támogatási szerződést még nem kötött. A 31/C. § (1) bekezdése szerinti határozat véglegessé válásának időpontjáról a Hivatal nyilvántartást vezet. A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdése szerinti határozat véglegessé válásának sorrendjében történhet.
 
-(10) Az MNF a közvetett támogatás kifizetését – a letéti számláján rendelkezésre álló keretösszeg erejéig – a (9) bekezdés szerinti sorrendben a (9) bekezdés szerint jogosult filmelőállító vagy filmgyártó vállalkozás részére a támogatás kifizetésére irányuló kérelmének benyújtását követő 15 banki napon belül kezdeményezi a kincstárnál. Az MNF a támogatások gyűjtésével és kifizetésével kapcsolatos tevékenységéért a nyújtott támogatás legfeljebb 2,5%-ának megfelelő adminisztrációs díjat jogosult felszámítani a filmelőállítóval vagy a filmgyártó vállalkozással szemben.
+(10) Az NFI a közvetett támogatás kifizetését – a letéti számláján rendelkezésre álló keretösszeg erejéig – a (9) bekezdés szerinti sorrendben a (9) bekezdés szerint jogosult filmelőállító vagy filmgyártó vállalkozás részére a támogatás kifizetésére irányuló kérelmének benyújtását követő 15 banki napon belül kezdeményezi a kincstárnál. Az NFI a támogatások gyűjtésével és kifizetésével kapcsolatos tevékenységéért a nyújtott támogatás legfeljebb 2,5%-ának megfelelő adminisztrációs díjat jogosult felszámítani a filmelőállítóval vagy a filmgyártó vállalkozással szemben.
 
-(11) Az MNF a letéti számlán kezelt pénzösszeg terhére az e törvény szerint közvetlen támogatásban vagy az MTVA által nyújtott támogatásban is részesülő filmalkotások közvetett támogatására, legfeljebb a Hivatalnak 31/B. § (1) bekezdése szerinti kérelemre indult hatósági eljárásban hozott határozatában megállapított, a filmelőállító vagy a filmgyártó vállalkozás által az adott filmalkotás tekintetében igénybe vehető közvetett támogatásra való jogosultsága összege mértékéig tartalékot képezhet.
+(11) Az NFI a letéti számlán kezelt pénzösszeg terhére az e törvény szerint közvetlen támogatásban vagy az MTVA által nyújtott támogatásban is részesülő filmalkotások közvetett támogatására, legfeljebb a Hivatalnak 31/B. § (1) bekezdése szerinti kérelemre indult hatósági eljárásban hozott határozatában megállapított, a filmelőállító vagy a filmgyártó vállalkozás által az adott filmalkotás tekintetében igénybe vehető közvetett támogatásra való jogosultsága összege mértékéig tartalékot képezhet.
 
-(12) Ha a letéti számlán rendelkezésre álló keretösszeg – a (11) bekezdésben említett tartalékot nem számítva – teljes mértékben felhasználásra kerül, a (10) bekezdésben foglalt elintézési határidő megszakad és az MNF a támogatások kifizetését a letéti számlára pótlólagosan befizetett támogatások beérkezését követően folytatja.
+(12) Ha a letéti számlán rendelkezésre álló keretösszeg – a (11) bekezdésben említett tartalékot nem számítva – teljes mértékben felhasználásra kerül, a (10) bekezdésben foglalt elintézési határidő megszakad és az NFI a támogatások kifizetését a letéti számlára pótlólagosan befizetett támogatások beérkezését követően folytatja.
 
-(12a) Az MNF minden negyedévet követő hónap ötödik napjáig tájékoztatja az állami adóhatóságot a letéti számlára a Tao. tv. 22. § (3) bekezdése alapján az adott negyedévben befolyt közvetett támogatások összegéről.
+(12a) Az NFI minden negyedévet követő hónap ötödik napjáig tájékoztatja az állami adóhatóságot a letéti számlára a Tao. tv. 22. § (3) bekezdése alapján az adott negyedévben befolyt közvetett támogatások összegéről.
 
-(13) Az állami adóhatóság negyedévente, a negyedévet követő hó 15. napjáig a jogszabályban meghatározott keretösszeg egynegyede és az adott negyedév során a Tao. tv. 22. § (3) és a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján a letéti számlán összegyűjtött közvetett támogatás pozitív különbözetét az MNF részére megfizeti. Amennyiben az MNF valamely negyedévben a jogszabályban meghatározott adott évi keretösszeg időarányos részénél több közvetett támogatást gyűjt, a felmerült negatív különbözetet az adott éven belül az állami adóhatóság a következő negyedév hasonló elszámolásánál figyelembe veszi.
+(13) Az állami adóhatóság negyedévente, a negyedévet követő hó 15. napjáig a jogszabályban meghatározott keretösszeg egynegyede és az adott negyedév során a Tao. tv. 22. § (3) és a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján a letéti számlán összegyűjtött közvetett támogatás pozitív különbözetét az NFI részére megfizeti. Amennyiben az NFI valamely negyedévben a jogszabályban meghatározott adott évi keretösszeg időarányos részénél több közvetett támogatást gyűjt, a felmerült negatív különbözetet az adott éven belül az állami adóhatóság a következő negyedév hasonló elszámolásánál figyelembe veszi.
 
 31/E. § (1) A közvetlen filmgyártási költségek között az a filmgyártási és filmgyártás-előkészítési költség ismerhető el, amely e törvényben meghatározott, a mozgóképszakmai szervezetek és személyek nyilvántartásába való bejegyzés iránti kérelem benyújtását követően – a magyarországi gyártással összefüggésben belföldön vagy külföldön – keletkezett, és megfelel a (2)–(9) bekezdésben meghatározott feltételeknek.
 
@@ -1136,7 +1134,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (8) Valamely rendezvényről készített filmalkotás esetén csak a filmgyártáshoz közvetlenül kapcsolódó olyan költségek számolhatók el, amelyek nem a rendezvény létrehozásához kapcsolódnak. Ha a rendezvény létrehozásához és a filmgyártáshoz kapcsolódó költségek nem különíthetőek el egyértelműen, akkor azok nem számolhatók el közvetlen filmgyártási költségként.
 
-(9) Nem számolható el közvetlen filmgyártási költségként az a költség, amelyre vonatkozóan a pénzügyi teljesítést váltó kibocsátásával vagy termékek és szolgáltatások beszámításával valósítják meg, kivéve az MNF által nyújtott termékértékesítéseknek és szolgáltatásoknak azon ellenértékét, amelyet az MNF az általa pénzügyileg folyósított támogatásból visszatart vagy a támogatás részeként biztosít.
+(9) Nem számolható el közvetlen filmgyártási költségként az a költség, amelyre vonatkozóan a pénzügyi teljesítést váltó kibocsátásával vagy termékek és szolgáltatások beszámításával valósítják meg, kivéve az NFI által nyújtott termékértékesítéseknek és szolgáltatásoknak azon ellenértékét, amelyet az NFI az általa pénzügyileg folyósított támogatásból visszatart vagy a támogatás részeként biztosít.
 
 (10) A 31/B. § (2c) bekezdése szerinti mozgóképszakmai képzési hozzájárulás közvetlen filmgyártási költségként elszámolható.
 
@@ -1165,9 +1163,9 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (6) A Hivatal indokolt esetben a hatósági ellenőrzést kiterjesztheti a közbenső szerződő felekre, illetve alvállalkozókra, valamint érintett jogviszonyaikra annak érdekében, hogy a hatósági ellenőrzés hatálya alá a szolgáltatás tényleges teljesítője is bevonható legyen.
 
-31/G. § (1) Az MNF által nyújtott támogatások esetén az MNF ellenőrzi a támogatások felhasználását, és a filmalkotás pénzügyi elszámolását, amelyről az MNF az Elnök rendelete szerinti jegyzőkönyvet állít ki. A jegyzőkönyvet az MNF haladéktalanul megküldi a Hivatal részére. A Hivatalt a 31/C. § (1) bekezdésében foglalt támogatási igazolás, valamint költségellenőrzési eljárás tárgyában hozott hatósági döntésének MNF által vizsgált részében az MNF által benyújtott jegyzőkönyv tartalma köti, hatósági döntésében a jegyzőkönyvben foglaltaktól – a (2) bekezdésben foglaltak kivételével – nem térhet el.
+31/G. § (1) Az NFI által nyújtott, valamint a 12. § (6) bekezdése szerinti megállapodások alapján más támogató által nyújtott támogatások esetén az NFI ellenőrzi a támogatások felhasználását, és a filmalkotás pénzügyi elszámolását, amelyről az NFI a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete szerinti jegyzőkönyvet állít ki. A jegyzőkönyvet az NFI haladéktalanul megküldi a Hatóság részére. A Hatóságot a 31/C. § (1) bekezdésében foglalt támogatási igazolás, valamint költségellenőrzési eljárás tárgyában hozott hatósági döntésének NFI által vizsgált részében az NFI által benyújtott jegyzőkönyv tartalma köti, hatósági döntésében a jegyzőkönyvben foglaltaktól – a (2) bekezdésben foglaltak kivételével – nem térhet el.
 
-(2) Amennyiben a jegyzőkönyv tartalma nem felel meg a jogszabályokban foglalt feltételeknek, a Hivatal határidő tűzésével a jegyzőkönyv jogszabályoknak való megfelelőségét biztosító módosítására hívja fel az MNF-et. Ha a jegyzőkönyv a felhívás ellenére sem felel meg a jogszabályi rendelkezéseknek, a Hivatal a jegyzőkönyvet és annak tartalmát hatósági eljárásában és hatósági döntésében figyelmen kívül hagyja.
+(2) Amennyiben a jegyzőkönyv tartalma nem felel meg a jogszabályokban foglalt feltételeknek, a Hivatal határidő tűzésével a jegyzőkönyv jogszabályoknak való megfelelőségét biztosító módosítására hívja fel az NFI-t. Ha a jegyzőkönyv a felhívás ellenére sem felel meg a jogszabályi rendelkezéseknek, a Hivatal a jegyzőkönyvet és annak tartalmát hatósági eljárásában és hatósági döntésében figyelmen kívül hagyja.
 
 (3) A Hivatal a film gyártásának megkezdésétől a film bemutatásának napjáig helyszíni ellenőrzést folytathat le figyelemmel a (1) bekezdésben foglaltakra.
 
@@ -1206,7 +1204,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (2) Kérelmet filmelőállító vagy filmgyártó vállalkozás (a továbbiakban együtt: kérelmező) nyújthat be.
 
-(3) A települési önkormányzat a közterületek filmforgatási célú használatát legfeljebb a 3. mellékletnek megfelelő mértékben meghatározott díj ellenében biztosíthatja. A naptári napon legfeljebb hat órával átnyúló éjszakai forgatások esetében a töredéknapra a 3. mellékletben meghatározott összegeket kell alkalmazni. A közterület használatáért megállapított díj a tulajdonosi joggyakorlót illeti meg. A 3. melléklet szerinti legmagasabb díjak évente a tárgyévet megelőző második évre közzétett éves fogyasztói árindexek szorzatával növelt mértékben emelkednek. A 3. melléklet e bekezdés szerinti módosított díjtételeit az MNF és a saját honlappal rendelkező települési önkormányzat az adott év elején honlapján közzéteszi.
+(3) A települési önkormányzat a közterületek filmforgatási célú használatát legfeljebb a 3. mellékletnek megfelelő mértékben meghatározott díj ellenében biztosíthatja. A naptári napon legfeljebb hat órával átnyúló éjszakai forgatások esetében a töredéknapra a 3. mellékletben meghatározott összegeket kell alkalmazni. A közterület használatáért megállapított díj a tulajdonosi joggyakorlót illeti meg. A 3. melléklet szerinti legmagasabb díjak évente a tárgyévet megelőző második évre közzétett éves fogyasztói árindexek szorzatával növelt mértékben emelkednek. A 3. melléklet e bekezdés szerinti módosított díjtételeit az NFI és a saját honlappal rendelkező települési önkormányzat az adott év elején honlapján közzéteszi.
 
 (4) A közterület filmforgatási célú használata csak az elkerülhetetlenül szükséges mértékben korlátozhatja a közterülettel határos magántulajdonú ingatlanok használatát, és a korlátozás nem jelenthet aránytalan terhet a tulajdonos számára.
 
@@ -1214,33 +1212,33 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (6) Az (5) bekezdés alapján nyújtott mentesség vagy kedvezmény csekély összegű támogatásnak minősül, amelyet kizárólag az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályai alapján lehet nyújtani. Azonos támogatható költségek tekintetében a csekély összegű (de minimis) támogatás nem kumulálható állami támogatással, ha az ilyen jellegű kumuláció olyan támogatási intenzitást eredményezne, amely túllépi a csoportmentességi rendeletekben vagy az Európai Bizottság által elfogadott határozatban az egyes esetek meghatározott körülményeire vonatkozóan rögzített támogatási intenzitást.
 
-35. § (1) Az MNF a közterület-használatról hatósági szerződésben állapodik meg a kérelmezővel. A hatósági szerződés a települési képviselő-testület jóváhagyásával válik érvényessé. A filmforgatáshoz kapcsolódó, jogszabály alapján hatósági engedélyhez, illetve hatósági bejelentéshez kötött tevékenységek a (3) és (4) bekezdésben foglaltak kivételével – a jogszabályban a kérelem, illetve bejelentés tartalmaként előírt adatok megadásával és mellékletei benyújtásával – bejelentés alapján gyakorolhatók. Az MNF a bejelentés tartalma vagy hatósági ellenőrzés alapján megállapított jogellenesség esetén a bejelentéssel érintett tevékenységet, magatartást, illetve helyzet fenntartását megtilthatja.
+35. § (1) Az NFI a közterület-használatról hatósági szerződésben állapodik meg a kérelmezővel. A hatósági szerződés a települési képviselő-testület jóváhagyásával válik érvényessé. A filmforgatáshoz kapcsolódó, jogszabály alapján hatósági engedélyhez, illetve hatósági bejelentéshez kötött tevékenységek a (3) és (4) bekezdésben foglaltak kivételével – a jogszabályban a kérelem, illetve bejelentés tartalmaként előírt adatok megadásával és mellékletei benyújtásával – bejelentés alapján gyakorolhatók. Az NFI a bejelentés tartalma vagy hatósági ellenőrzés alapján megállapított jogellenesség esetén a bejelentéssel érintett tevékenységet, magatartást, illetve helyzet fenntartását megtilthatja.
 
-(2) Az e fejezet szerinti, közterület filmforgatási célú használatára irányuló kérelmet, valamint a filmforgatáshoz kapcsolódó hatósági bejelentéseket az MNF-nél legalább 5 munkanappal, sürgős eljárás esetén legalább 2 munkanappal a filmforgatás tervezett megkezdése előtt kell előterjeszteni. A hatósági szerződés módosítására az e bekezdés szerinti határidők az irányadók. A közterület-használathoz kapcsolódó, a települési önkormányzat valamely külön intézményének feladatkörét érintő kérelem az e törvény végrehajtására kiadott kormányrendeletben meghatározott intézményhez közvetlenül is benyújtható. Az Nvt. szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan filmforgatási célú használatára irányuló kérelem az MNF-nél is előterjeszthető, az MNF e rendelkezés alkalmazásában közreműködő hatóságnak minősül. Az MNF a kérelmet haladéktalanul, de legkésőbb a benyújtást követő munkanapon továbbítja az ingatlan tulajdonosi joggyakorlójához vagy vagyonkezelőjéhez.
+(2) Az e fejezet szerinti, közterület filmforgatási célú használatára irányuló kérelmet, valamint a filmforgatáshoz kapcsolódó hatósági bejelentéseket az NFI-nél legalább 5 munkanappal, sürgős eljárás esetén legalább 2 munkanappal a filmforgatás tervezett megkezdése előtt kell előterjeszteni. A hatósági szerződés módosítására az e bekezdés szerinti határidők az irányadók. A közterület-használathoz kapcsolódó, a települési önkormányzat valamely külön intézményének feladatkörét érintő kérelem az e törvény végrehajtására kiadott kormányrendeletben meghatározott intézményhez közvetlenül is benyújtható. Az Nvt. szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan filmforgatási célú használatára irányuló kérelem az NFI-nél is előterjeszthető, az NFI e rendelkezés alkalmazásában közreműködő hatóságnak minősül. Az NFI a kérelmet haladéktalanul, de legkésőbb a benyújtást követő munkanapon továbbítja az ingatlan tulajdonosi joggyakorlójához vagy vagyonkezelőjéhez.
 
-(3) Amennyiben a filmforgatáshoz alkalmazott színházi fegyverekhez rendőrhatósági engedély szükséges, a kérelmet legalább 10 munkanappal, sürgős eljárás esetén legalább 5 munkanappal a filmforgatás tervezett megkezdése előtt kell előterjeszteni az MNF-nél. A döntést a forgatás tervezett megkezdésének napjáig közölni kell a kérelmezővel. Az eljárásban nincs helye fellebbezésnek.
+(3) Amennyiben a filmforgatáshoz alkalmazott színházi fegyverekhez rendőrhatósági engedély szükséges, a kérelmet legalább 10 munkanappal, sürgős eljárás esetén legalább 5 munkanappal a filmforgatás tervezett megkezdése előtt kell előterjeszteni az NFI-nél. A döntést a forgatás tervezett megkezdésének napjáig közölni kell a kérelmezővel. Az eljárásban nincs helye fellebbezésnek.
 
-(4) Helyi jelentőségű védett természeti területen a filmforgatáshoz kapcsolódó természetvédelmi engedélyezési eljárásban az ügyintézési határidő 15 nap. A kérelmet az MNF-nél legalább a filmforgatás tervezett megkezdése előtt 15 nappal kell előterjeszteni, amelyet az MNF haladéktalanul, de legkésőbb a benyújtást követő munkanapon további ügyintézés céljából az eljárásra hatáskörrel rendelkező illetékes hatósághoz továbbít. A döntést a forgatás tervezett megkezdésének napjáig közölni kell a kérelmezővel. Ha a hatóság a rá vonatkozóan meghatározott határidőn belül nem nyilatkozik, engedélyét megadottnak kell tekinteni. Az eljárásban nincs helye fellebbezésnek.
+(4) Helyi jelentőségű védett természeti területen a filmforgatáshoz kapcsolódó természetvédelmi engedélyezési eljárásban az ügyintézési határidő 15 nap. A kérelmet az NFI-nél legalább a filmforgatás tervezett megkezdése előtt 15 nappal kell előterjeszteni, amelyet az NFI haladéktalanul, de legkésőbb a benyújtást követő munkanapon további ügyintézés céljából az eljárásra hatáskörrel rendelkező illetékes hatósághoz továbbít. A döntést a forgatás tervezett megkezdésének napjáig közölni kell a kérelmezővel. Ha a hatóság a rá vonatkozóan meghatározott határidőn belül nem nyilatkozik, engedélyét megadottnak kell tekinteni. Az eljárásban nincs helye fellebbezésnek.
 
-(5) Az e fejezet szerinti eljárások során a kérelmező, az MNF, a rendőrség, a települési önkormányzat, a tulajdonosi joggyakorló, a filmforgatással érintett hatóságok, szakhatóságok, továbbá az egyéb érintett intézmények elektronikus úton tartanak kapcsolatot egymással.
+(5) Az e fejezet szerinti eljárások során a kérelmező, az NFI, a rendőrség, a települési önkormányzat, a tulajdonosi joggyakorló, a filmforgatással érintett hatóságok, szakhatóságok, továbbá az egyéb érintett intézmények elektronikus úton tartanak kapcsolatot egymással.
 
 (6) A közterület-használatról szóló, a települési önkormányzat által jóváhagyott hatósági szerződést olyan időben kell megkötni, hogy a filmforgatás a kérelemben tervezett időpontban megkezdhető legyen. A közterület-használat engedélyezésére és a hatósági bejelentések, kérelmek benyújtására vonatkozó részletes eljárási szabályokat e törvény végrehajtására kiadott kormányrendelet állapítja meg. Ha a közterület-használat engedélyezésében közreműködő hatóság, települési önkormányzat, illetve egyéb szerv vagy intézmény az e törvény végrehajtására kiadott kormányrendeletben rá vonatkozóan meghatározott határidőn belül nem nyilatkozik, hozzájárulását az ott szabályozott tartalommal és feltételek szerint megadottnak kell tekinteni.
 
-(7) A filmforgatáshoz kapcsolódó – az e törvény szerinti – hatósági bejelentés és kérelem kapcsán az egyébként eljáró hatóságot, szakhatóságot igazgatási szolgáltatási díj címén annak az összegnek a másfélszerese, sürgős eljárás esetén pedig annak az összegnek a tizenötszöröse illeti meg, mint amely összeg az adott eljárás kapcsán a hatóság, szakhatóság számára igazgatási szolgáltatási díjként jogszabály alapján járna. Az MNF-et a hatósági szerződéssel kapcsolatos eljárásért 12 000 forint, sürgős eljárás esetén pedig 55 000 forint igazgatási szolgáltatási díj illeti meg. Az MNF az igazgatási szolgáltatási díjat köteles visszafizetni, ha a számára az e törvény végrehajtására kiadott kormányrendeletben megállapított valamely határidőt elmulasztja, sürgős eljárás esetén pedig az adott eljárási cselekményt legkésőbb 1 munkanap alatt nem teljesíti.
+(7) A filmforgatáshoz kapcsolódó – az e törvény szerinti – hatósági bejelentés és kérelem kapcsán az egyébként eljáró hatóságot, szakhatóságot igazgatási szolgáltatási díj címén annak az összegnek a másfélszerese, sürgős eljárás esetén pedig annak az összegnek a tizenötszöröse illeti meg, mint amely összeg az adott eljárás kapcsán a hatóság, szakhatóság számára igazgatási szolgáltatási díjként jogszabály alapján járna. Az NFI-t a hatósági szerződéssel kapcsolatos eljárásért 12 000 forint, sürgős eljárás esetén pedig 55 000 forint igazgatási szolgáltatási díj illeti meg. Az NFI az igazgatási szolgáltatási díjat köteles visszafizetni, ha a számára az e törvény végrehajtására kiadott kormányrendeletben megállapított valamely határidőt elmulasztja, sürgős eljárás esetén pedig az adott eljárási cselekményt legkésőbb 1 munkanap alatt nem teljesíti.
 
 (8) A közút kezelője a korlátozott forgalmú övezetekben a közterület-használattal arányos mértékben lehetővé teszi a kérelmező engedélyköteles járműveinek térítésmentes behajtását oly módon, hogy a külön benyújtott behajtási engedély iránti kérelem alapján megvizsgálja, hogy a kérelmezett közterület nagysága elegendő-e a kérelmezett gépjárművek elhelyezésére, illetve a kérelmezett gépjárművek behajtásának egyéb (túlsúly, túlméret) akadálya nem áll-e fenn. Amennyiben a kérelmezett közterület elégséges mértékben rendelkezésre áll és egyéb akadály nem áll fenn, a behajtási engedélyt a kérelmező gépjárműveire a forgatás megkezdéséig ki kell adni. Ha a hatóság a határidőn belül nem nyilatkozik, engedélyét megadottnak kell tekinteni.
 
-(9) E törvény alapján az MNF erre kijelölt szervezeti egysége a filmforgatás engedélyezésére vonatkozó, e fejezetben meghatározott ügyek tekintetében hatósági jogkör gyakorlására jogosult, illetékessége az ország egész területére kiterjed.
+(9) E törvény alapján az NFI erre kijelölt szervezeti egysége a filmforgatás engedélyezésére vonatkozó, e fejezetben meghatározott ügyek tekintetében hatósági jogkör gyakorlására jogosult, illetékessége az ország egész területére kiterjed.
 
-### IV/A. Fejezet — FIATAL MUNKAVÁLLALÓK FOGLALKOZTATÁSA FILMIPARI TEVÉKENYSÉG SORÁN
+### IV/A. Fejezet — FIATAL MUNKAVÁLLALÓK FOGLALKOZTATÁSA MOZGÓKÉPIPARI TEVÉKENYSÉG SORÁN
 
-35/A. § (1) Fiatal munkavállalók filmipari tevékenység során történő foglalkoztatására, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) fiatal munkavállalókra vonatkozó rendelkezéseit e fejezetben megjelölt eltérésekkel kell alkalmazni.
+35/A. § (1) Fiatal munkavállalók mozgóképipari tevékenység során történő foglalkoztatására, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) fiatal munkavállalókra vonatkozó rendelkezéseit e fejezetben megjelölt eltérésekkel kell alkalmazni.
 
 (2) E fejezet alkalmazásában filmalkotásnak minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilm is.
 
-(3) A tizenhatodik életévét be nem töltött személy filmipari tevékenység során történő foglalkoztatásának engedélyezésekor a gyámhatóság vizsgálni köteles a filmalkotás tartalmát, jellegét és a fiatal munkavállalóra gyakorolt lehetséges hatásait. A kérelmet nem lehet kizárólag azon az alapon érdemi vizsgálat nélkül elutasítani, hogy a foglalkoztatni kívánt fiatal munkavállaló életkora nem egyeztethető össze a készülő filmalkotás 21. § szerinti korhatár besorolásával.
+(3) A tizenhatodik életévét be nem töltött személy mozgóképipari tevékenység során történő foglalkoztatásának engedélyezésekor a gyámhatóság vizsgálni köteles a filmalkotás tartalmát, jellegét és a fiatal munkavállalóra gyakorolt lehetséges hatásait. A kérelmet nem lehet kizárólag azon az alapon érdemi vizsgálat nélkül elutasítani, hogy a foglalkoztatni kívánt fiatal munkavállaló életkora nem egyeztethető össze a készülő filmalkotás 21. § szerinti korhatár besorolásával.
 
-35/B. § (1) Ha a filmfelvétel objektív körülményekre tekintettel más időpontban nem rögzíthető, filmipari tevékenysége során a fiatal munkavállaló számára éjszakai munka – az Mt. 114. § (1) bekezdésétől eltérően – az alábbiak szerint rendelhető el:
+35/B. § (1) Ha a filmfelvétel objektív körülményekre tekintettel más időpontban nem rögzíthető, mozgóképipari tevékenysége során a fiatal munkavállaló számára éjszakai munka – az Mt. 114. § (1) bekezdésétől eltérően – az alábbiak szerint rendelhető el:
 
 - a) tizenhatodik életévét be nem töltött fiatal munkavállaló számára éjszakai munka legfeljebb 23:00 óráig rendelhető el, és csak akkor, ha
   - aa) hét egymást követő napon belül legfeljebb két napon kerül sor az éjszakai munkavégzésre, és
@@ -1300,7 +1298,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 36/E. § (1) A Hivatal a 13. §-ban meghatározott támogatási arányoknak a 31/B. § (5) bekezdés c) pontja és a 31/D. § (5) bekezdése alapján történő ellenőrzése során az ellenőrzéssel érintett filmalkotás támogatásra jogosultságának megállapítására irányuló kérelme Hivatalhoz érkezésének időpontjában hatályban lévő támogatási arányok betartását ellenőrzi.
 
-(2) E törvénynek a Módtv.-nyel módosított 13. § (3) bekezdését a mozgóképszakmai hatósághoz 2014. március 15-ét követően benyújtott kérelemre induló, MNF által támogatott filmalkotások támogatására való jogosultság megállapítására irányuló eljárásokban is kell alkalmazni.
+(2) E törvénynek a Módtv.-nyel módosított 13. § (3) bekezdését a mozgóképszakmai hatósághoz 2014. március 15-ét követően benyújtott kérelemre induló, a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zrt. (a továbbiakban: MNF) által támogatott filmalkotások támogatására való jogosultság megállapítására irányuló eljárásokban is kell alkalmazni.
 
 (3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel módosított 31/D. § (3) bekezdését az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény hatálybalépésekor folyamatban lévő költségellenőrzési eljárásokban és támogatási igazolási eljárásokban is kell alkalmazni.
 
@@ -1350,9 +1348,13 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 36/N. § E törvénynek a filmalkotások készítésével és terjesztésével kapcsolatos egyes törvények módosításáról szóló 2018. évi CXII. törvénnyel megállapított 5/A. § (3) bekezdését és 11. §-át a nemzeti filmvagyon 2019. január 1. napját követően vagyonkezelésbe kerülő vagyonelemeire kell alkalmazni.
 
+36/O. § (1) A Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság 2019. december 31. napjától Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság néven működik tovább.
+
+(2) A Televíziós Film Mecenatúra (a továbbiakban: Mecenatúra) és a Televíziós Filmkollégium jogutódja 2019. december 31. napjától az NFI. A jogutódlás és feladatátadás tárgyát képezi az átvett feladatok ellátásával összefüggő, a Mecenatúra mint önálló jogi személy által létrehozott valamennyi jogviszony, ideértve az NFI-nél e törvény szerinti támogatási feladatok ellátására az átadás-átvételt követően továbbfoglalkoztatottak foglalkoztatási jogviszonyát és a kapcsolódó munkáltatói jogok gyakorlását azzal, hogy a jogutódlás nem terjed ki az átvett feladatokhoz tartozó eszközállományra.
+
 ### 2. CÍM — Felhatalmazó rendelkezések
 
-37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a települési önkormányzat, valamint az állam tulajdonában álló közterület filmforgatási célú használata kapcsán a filmforgatáshoz kapcsolódó eljárások lefolytatásának és a hatósági bejelentések, kérelmek továbbításának a rendjét, valamint az MNF eljárásához kapcsolódó nyilvántartásokkal kapcsolatos részletes szabályokat.
+37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a települési önkormányzat, valamint az állam tulajdonában álló közterület filmforgatási célú használata kapcsán a filmforgatáshoz kapcsolódó eljárások lefolytatásának és a hatósági bejelentések, kérelmek továbbításának a rendjét, valamint az NFI eljárásához kapcsolódó nyilvántartásokkal kapcsolatos részletes szabályokat.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a letéti számlára a tárgyévben befizethető, kiegészítő támogatás nélküli összeget.
 
@@ -1362,7 +1364,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 - a) a nem filmgyártásra vonatkozó mozgóképszakmai tevékenységek e törvény szerinti támogatásának szabályait,
 - b) a 25. § (2) bekezdése szerinti „art” mozivá minősítéshez szükséges feltételeket és a moziknak a fogyatékkal élő emberek számára való hozzáférhetőségének feltételeit,
-- c) az adópolitikáért felelős miniszterrel egyetértésben az MNF-et a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán történő eljárásáért megillető igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat.
+- c) az adópolitikáért felelős miniszterrel egyetértésben az NFI-t a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán történő eljárásáért megillető igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat.
 
 rendeletben állapítsa meg.
 
@@ -1379,7 +1381,7 @@ rendeletben állapítsa meg.
 - a) a Hivatal által e törvény alapján vezetett nyilvántartásba bejegyezhető adatok körét, az adatszolgáltatásra kötelezettek körét, a Hivatal részére teljesítendő adatszolgáltatás és a nyilvántartásból történő adatszolgáltatás módját,
 - b) a Hivatal által megállapított kategória szerinti jelzés filmalkotáson, mozielőzetesen, azok nyilvános vetítésén, a forgalomba hozott adathordozó csomagolásán, illetve borítóján, továbbá a filmalkotással kapcsolatos közleményben és hirdetésben való feltüntetésének módját,
 - c) a filmalkotások korhatár szerinti megjelölésének feltételeit,
-- d) a közvetett támogatási eljárásban az MNF és más támogató által nyújtott támogatás esetén a támogatások felhasználásának és a filmalkotás pénzügyi elszámolásának ellenőrzése tekintetében az MNF és más támogató által kiállított jegyzőkönyv tartalmának részletes szabályait,
+- d) a közvetett támogatási eljárásban az NFI és más támogató által nyújtott támogatás esetén a támogatások felhasználásának és a filmalkotás pénzügyi elszámolásának ellenőrzése tekintetében az NFI és más támogató által kiállított jegyzőkönyv tartalmának részletes szabályait,
 - e) a nemzetközi egyezményekben meghatározott koprodukciós igazolások, valamint a magyar mozgóképszakma nemzetközi együttműködéséhez szükséges egyéb igazolások kiadásának rendjét,
 - f) a Hivatal által megállapított, e törvény szerinti támogatás igénybevételének alapjául szolgáló filmgyártási költségeket,
 - g) azon eljárások vagy a nem hatósági mozgóképszakmai statisztikai feladatok körét, amelyben kötelező vagy kizárólagos az elektronikus kapcsolattartás,

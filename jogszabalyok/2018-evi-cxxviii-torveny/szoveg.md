@@ -22,7 +22,7 @@ az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal �
 
 9. § (1)
 
-(2)
+(2) Az MFB tv. 1. melléklete az 1. melléklet szerint módosul.
 
 10. § Hatályát veszti az MFB tv.
 
@@ -32,7 +32,7 @@ az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal �
 - d)
 - e)
 - f)
-- g)
+- g) 1. melléklet 3. pontja;
 - h)
 - i)
 

@@ -325,7 +325,7 @@ műsorszám.
 
 (3)
 
-#### 29. §
+29. § A médiaszolgáltatásban bemutatásra szánt filmalkotások központi költségvetési támogatását a mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) határozza meg.
 
 ### Termékmegjelenítés a műsorszámokban
 
@@ -2380,7 +2380,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 (9) A Hatóság a rendelkezésére álló forrásokból és eszközökből a hírközlés, a média és a mozgóképszakma területén a tudatos fogyasztói döntéshozatal kultúrájának fejlesztésére – így különösen a hírközlési, a média- és a filmjog, a verseny- és fogyasztóvédelmi politika körébe tartozó tudományos-oktatási programok támogatására, a hírközlési és a médiajoggal, a mozgóképszakma tudományával, médiatudománnyal, a hírközléssel kapcsolatos tudományokkal, illetve a fogyasztóvédelmi politikával foglalkozó tudományos és oktatási programok támogatására, szakemberek képzésére, a hírközlési és médiapolitikával, valamint a fogyasztói döntéshozatallal kapcsolatos tájékozottság növelése érdekében végzett tájékoztatásra – támogatást vagy hozzájárulást nyújthat vagy e célra forrásait és eszközeit maga is felhasználhatja. A Hatóság kizárólag a jelen bekezdés szerinti célra jogosult felhasználni a Hatóság bevételeként befolyt bírságok teljes összegét. A tárgyévben fel nem használt bírságok tényleges maradványként nem vehetők figyelembe, az összeg a következő évekre átvihető, és a jelen bekezdés szerinti célokra fordítható. A bírságok összegét a Hatóság elkülönítetten köteles nyilvántartani.
 
-(10) Az Országgyűlés a – (2) bekezdésben meghatározott eljárásnak megfelelően előterjesztett – zárszámadási törvényjavaslat elfogadásával dönt a (2) bekezdésben meghatározott önálló törvény végrehajtásáról, ideértve a 136. § (15) bekezdése és a 137/F. § (13) bekezdése szerinti mellékletet is. A zárszámadási törvényjavaslat elfogadásával dönt az Országgyűlés a Hatóság előző évi költségvetésében esetlegesen képződött tényleges maradvány – ide nem értve az (1) bekezdés szerinti tartalék, illetve a képződésének költségvetési évében december 31-ig kötelezettségvállalással lekötött maradvány – felhasználásáról. A képződésének költségvetési évében december 31-ig kötelezettségvállalással lekötött maradvány a kötelezettségvállalás alapjául szolgáló jognyilatkozatnak megfelelően használható fel. E zárszámadási törvény esetében a benyújtási határidő minden év május 31.
+(10) Az Országgyűlés a – (2) bekezdésben meghatározott eljárásnak megfelelően előterjesztett – zárszámadási törvényjavaslat elfogadásával dönt a (2) bekezdésben meghatározott önálló törvény végrehajtásáról, ideértve a 136. § (15) bekezdése szerinti mellékletet is. A zárszámadási törvényjavaslat elfogadásával dönt az Országgyűlés a Hatóság előző évi költségvetésében esetlegesen képződött tényleges maradvány – ide nem értve az (1) bekezdés szerinti tartalék, illetve a képződésének költségvetési évében december 31-ig kötelezettségvállalással lekötött maradvány – felhasználásáról. A képződésének költségvetési évében december 31-ig kötelezettségvállalással lekötött maradvány a kötelezettségvállalás alapjául szolgáló jognyilatkozatnak megfelelően használható fel. E zárszámadási törvény esetében a benyújtási határidő minden év május 31.
 
 (11)
 
@@ -2533,102 +2533,11 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 (4) A 137/A. § (3) bekezdésében meghatározott közfeladatra tekintettel a nyilvántartásnak a vagyon elsődleges rendeltetése szerinti közfeladat feltüntetését egyedileg nem kell tartalmaznia.
 
-### Televíziós Film Mecenatúra és a Televíziós Filmkollégium
+#### 137/F. §
 
-137/F. § (1) A Televíziós Film Mecenatúra (a továbbiakban: Mecenatúra) olyan elkülönített pénzalap, amelynek feladata a médiaszolgáltatásban bemutatásra szánt, a 83. § (1) bekezdés b)–l) pontjában foglalt valamely közszolgálati cél megvalósulását szolgáló filmalkotások és filmsorozatok támogatása.
+#### 137/G. §
 
-(2) A Mecenatúra bevételei különösen:
-
-- a) belföldi vagy külföldi természetes személyek és jogi személyek által teljesített önkéntes befizetések, adományok,
-- b) központi költségvetési támogatások,
-- c) a Mecenatúra tárgyévet megelőző évi, visszahagyott költségvetési maradványa,
-- d) az Alap Médiatanács által jóváhagyott, célzott pénzeszközátadása, valamint
-- e) egyéb bevételek.
-
-(3) A Mecenatúra jogi személy, kezelője a Televíziós Filmkollégium.
-
-(4) A Mecenatúra a Kincstárban fizetési számlát vezet, amely mellett szabadon vezethet hitelintézetnél is fizetési számlát.
-
-(5) A Mecenatúra támogatáspolitikáját, üzleti tervét és éves beszámolóját a Televíziós Filmkollégium határozza meg, és a Médiatanács hagyja jóvá. A Médiatanács a jóváhagyást csak jogszabálysértésre hivatkozással tagadhatja meg.
-
-(6) Az Alap a Médiatanács jóváhagyásával célzottan pénzeszközt adhat át a Mecenatúrának.
-
-(7) A Mecenatúra képviseletére a Televíziós Filmkollégium elnöke jogosult.
-
-(8) A Mecenatúra tevékenységének teljes körű szervezeti és szakmai ellenőrzését háromtagú Felügyelő Bizottság látja el.
-
-(9) A Mecenatúra Felügyelő Bizottságának elnökét a Médiatanács elnöke, tagjait a Kormány rendeletében megjelölt miniszterek delegálják és hívják vissza. Tiszteletdíjukat – a Mecenatúra költségvetésének terhére – a Médiatanács elnöke állapítja meg.
-
-(10) Nem lehet a Mecenatúra Felügyelő Bizottságának elnöke vagy tagja,
-
-- a) aki a Televíziós Filmkollégium elnöke vagy tagja,
-- b) akinek a Televíziós Filmkollégium elnöke vagy tagja a Polgári Törvénykönyv szerinti közeli hozzátartozója (a továbbiakban: közeli hozzátartozó),
-- c) akinek közeli hozzátartozója a Mecenatúra Felügyelő Bizottságának elnöke vagy tagja.
-
-(11) A Mecenatúra Felügyelő Bizottságának elnöke és tagjai megbízatása megszűnik a 137/H. § (2) bekezdésben foglalt esetekben.
-
-(12) A 137/H. § (1) bekezdésben foglalt valamely felmentési ok fennállása esetén a Mecenatúra Felügyelő Bizottságának elnökét a Médiatanács elnöke, tagját az őt delegáló miniszter felmenti.
-
-(13) A Mecenatúra költségvetését – a 134. § (2) bekezdése szerinti egységes költségvetés mellékleteként – az Országgyűlés hagyja jóvá.
-
-(14) A Mecenatúra kezelésének részletes szabályait a Televíziós Filmkollégium határozza meg.
-
-(15) A Mecenatúra személyes illetékmentességre jogosult, és nem alanya a társasági adónak, valamint a helyi adónak.
-
-137/G. § (1) A filmalkotások és filmsorozatok támogatását a Televíziós Filmkollégium nyilvános pályázat útján végzi.
-
-(2) A pályáztatás átláthatósága, követhetősége, diszkrimináció-mentessége és garanciális kiszámíthatósága érdekében a Televíziós Filmkollégium meghatározza az Általános Pályázati Feltételeket, amelyet előzetes jóváhagyás céljából megküld a Médiatanácsnak. A Médiatanács csak jogszabálysértésre hivatkozással tagadhatja meg az Általános Pályázati Feltételek jóváhagyását.
-
-(3) A Televíziós Filmkollégium az Általános Pályázati Feltételek alapján készíti el és teszi közzé a pályázati felhívásokat. A pályázati felhívás tartalmazza különösen:
-
-- a) a pályázat elbírálásának módját,
-- b) a személyi, alaki és tartalmi érvényességi feltételeket,
-- c) a nyújtható támogatás mértékét, valamint
-- d) a pályáztatás során, illetve annak eredményeként hozható döntések típusait, kellékeit.
-
-(4) A filmalkotások és filmsorozatok támogatása során a mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) II. Fejezetét az ebben a törvényben foglalt eltérésekkel kell alkalmazni.
-
-(5) Nem nyújtható támogatás:
-
-- a) annak, akinek az állammal szemben fennálló adó-, járulék- vagy egyéb köztehertartozása van,
-- b) annak, aki valamely mozgóképszakmai célú támogatás felhasználásával nem számolt el, vagy a Televíziós Filmkollégiummal szemben lejárt, teljesítetlen fizetési kötelezettséggel rendelkezik,
-- c) annak, aki ellen csőd-, felszámolási vagy végelszámolási eljárás van folyamatban,
-- d) olyan filmalkotás kapcsán, amelyre tekintettel az Mktv. szerint mozgóképszakmai célok támogatására a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság központi költségvetési forrásból közvetlen támogatást nyújtott,
-- e) a Kormány rendeletében meghatározott filmalkotás kapcsán.
-
-(6) Nem nyújtható támogatás a Televíziós Filmkollégium tagjainak, valamint a közeli hozzátartozójuknak, továbbá olyan pályázó szervezetnek, amelyben a fenti személy képviseletre jogosult vezető tisztségviselő, vagy abban a Polgári Törvénykönyvnek a gazdasági társaságokra vonatkozó rendelkezései szerint többségi befolyást biztosító tulajdoni részesedéssel rendelkezik.
-
-(7) A Televíziós Filmkollégium tagja nem vehet részt a pályázat elbírálásában, ha a pályázatban érintett filmalkotásnak ő vagy a közeli hozzátartozója az Szjt. szerinti szerzője, vagy ha a pályázóval ő vagy a közeli hozzátartozója munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban áll, vagy a pályázó számára olyan gazdasági társaságon keresztül nyújt szolgáltatást, amelynek tagja vagy részvényese.
-
-(8) A Mecenatúra által folyósított, pályázat útján elnyert, árat közvetlenül befolyásoló támogatás ellenében vállalt kötelezettség az Áfa tv. 13. §-a tekintetében nem minősül szolgáltatásnyújtásnak. A Mecenatúra pályázatán elnyert és folyósított támogatásból elkészült műalkotás gyártásához kapcsolódóan igénybevett szolgáltatás, beszerzett termék az Áfa tv. 120. §-a, 123. §-a, illetve 5. számú melléklete tekintetében adóköteles termékértékesítés, szolgáltatásnyújtás érdekében használt terméknek és szolgáltatásnyújtásnak minősül.
-
-(9) Nem mutatható be filmszínházban az a filmalkotás, amelyre tekintettel a Mecenatúra támogatást nyújtott.
-
-137/H. § (1) A Televíziós Filmkollégium öt tagból álló testület. Elnökét a Médiatanács elnöke jelöli ki öt évre. A Televíziós Filmkollégium tagjait a Kormány rendeletében meghatározott miniszterek delegálják öt évre. A Televíziós Filmkollégium tagjai a filmművészet területén jártas, széles körben elismert szakemberek közül jelölhetők, delegálhatók. A Televíziós Filmkollégium elnökét a Médiatanács elnöke, többi tagját a delegáló miniszter felmenti a következő esetekben:
-
-- a) a Televíziós Filmkollégium elnökét vagy tagját cselekvőképességet érintő gondnokság alá helyezték,
-- b) a Televíziós Filmkollégium elnöke vagy tagja neki felróható okból több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak,
-- c) a Televíziós Filmkollégium elnökével vagy tagjával szemben lefolytatott büntetőeljárás eredményeként az elnök vagy a tag bűnösségét a bíróság – a szabadságvesztést, a kollégiumi tevékenységének megfelelő foglalkoztatástól való eltiltást vagy közügyektől való eltiltást tartalmazó – jogerős ítélete állapította meg.
-
-(2) A Televíziós Filmkollégium elnökének és tagjainak megbízatása megszűnik:
-
-- a) a megbízatás idejének lejártával,
-- b) lemondással,
-- c) az összeférhetetlenség megállapításával,
-- d) felmentéssel,
-- e) az elnök vagy a tag halálával.
-
-(3) Tevékenységük körében a Televíziós Filmkollégium tagjai nem utasíthatók.
-
-(4) A Televíziós Filmkollégium elnökére és tagjára a 118. § (1) bekezdés a)–c) pontjában foglalt összeférhetetlenségi szabályok megfelelően irányadók azzal, hogy a médiatanácsi tagság ellátása a televíziós filmkollégiumi tagsággal és elnöki tisztséggel nem összeférhetetlen.
-
-(5) A Televíziós Filmkollégium elnöke az államtitkár illetménye hetvenöt százalékának, további tagja az államtitkár illetménye hatvanöt százalékának megfelelő mértékű tiszteletdíjban részesül, továbbá – a Médiatanács elnöke által meghatározott – költségtérítésre jogosult a Mecenatúra költségvetésének terhére.
-
-(6) A Televíziós Filmkollégium munkáját a Hivatal támogatja.
-
-(7)
-
-(8) A Televíziós Filmkollégium működésének részletes szabályait a Médiatanács előzetes jóváhagyásával a Televíziós Filmkollégium határozza meg. A Médiatanács a jóváhagyást csak jogszabálysértésre hivatkozással tagadhatja meg.
+#### 137/H. §
 
 ### A Médiatanács Médiatudományi Intézete
 
@@ -3649,7 +3558,7 @@ h) azon filmalkotás, amely az Mktv. értelmében magyarnak minősül.
 
 40. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelynek, illetve amely egy elválasztható részének elsődleges célja, hogy egy médiaszolgáltató szerkesztői felelősségi körébe tartozó műsorszámokat tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz eljuttassa valamely elektronikus hírközlő hálózaton keresztül.
 
-40a. „Médiaszolgáltatásban bemutatásra szánt filmalkotás: az olyan filmalkotás, amellyel kapcsolatban a 137/G. § szerint támogatást igénylő a támogatásra irányuló pályázati kérelem benyújtásakor vállalja, hogy a filmalkotást valamely – Magyarországon letelepedett – országos lineáris audiovizuális médiaszolgáltató, vagy a területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény szerinti régiókból legkevesebb ötben legalább 12 – Magyarországon letelepedett – helyi médiaszolgáltatási jogosultsággal rendelkező lineáris audiovizuális médiaszolgáltató vagy legalább 3 – Magyarországon letelepedett – körzeti lineáris audiovizuális médiaszolgáltató fogja bemutatni, és az igénylő a pályázat benyújtásakor rendelkezik az érintett médiaszolgáltatók filmalkotás bemutatására vonatkozó szándéknyilatkozatával.
+40a.
 
 41. Médiaszolgáltató: az a természetes vagy jogi személy, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
 
@@ -3761,11 +3670,7 @@ rendeletben megállapítsa.
 
 (3a) Felhatalmazást kap a Kormány, hogy a JBE lineáris audiovizuális médiaszolgáltató legnagyobb éves átlagos közönségarányú lineáris audiovizuális médiaszolgáltatásáért járó programdíj fizetésének szabályait rendeletben állapítsa meg.
 
-(3b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
-
-- a) a 137/F. § (1) bekezdése szerinti támogatások nyújtásának, elszámolásának, ellenőrzésének részletszabályait, valamint a nyújtható támogatás összegét és az összeg megállapításának szabályait,
-- b) a Televíziós Filmkollégium és a Mecenatúra Felügyelő Bizottsága tagjai delegálására jogosult minisztereket,
-- c) azokat a filmalkotásokat, amelyek kapcsán a Mecenatúrából nem nyújtható támogatás.
+(3b)
 
 (4) Felhatalmazást kap a kultúráért felelős miniszter, hogy a kiadványokon az impresszum feltüntetésére vonatkozó részletes szabályokat rendeletben szabályozza.
 
@@ -3815,6 +3720,10 @@ rendeletben megállapítsa.
 
 (3) A Nemzeti Média- és Hírközlési Hatóság Elnöke a Hatóság 2019. évi egységes költségvetésének végrehajtásáról szóló, az Mttv. 134. § (10) bekezdése szerinti zárszámadási törvényjavaslatot a Mecenatúra 2019. évi költségvetésének végrehajtásáról szóló beszámolót tartalmazó melléklettel együtt terjeszti az Országgyűlés költségvetési ügyekben illetékes bizottsága elé. Az Országgyűlés a Mecenatúra 2019. évi zárszámadásáról a Nemzeti Média- és Hírközlési Hatóság egységes költségvetésének végrehajtásáról szóló törvényjavaslat elfogadásával dönt.
 
+(4) A Nemzeti Média- és Hírközlési Hatóság 2020. január 31-éig a Mecenatúra 2019. évi költségvetési támogatása fel nem használt részét 2019. december 31-ei fordulónappal a Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Nemzeti Filmintézet) részére átadja.
+
+(5) A (4) bekezdés szerinti forrás a Mecenatúrával kapcsolatos feladatok ellátására és mozgóképszakmai támogatások finanszírozására, valamint ezen feladatokkal összefüggő üzemeltetési költségekre használható fel.
+
 #### 210. §
 
 ### A törvényben meghatározott testületek tagjaira és tisztségek betöltőire vonatkozó átmeneti szabályok
@@ -3828,6 +3737,8 @@ rendeletben megállapítsa.
 (4) A sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény és a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény módosításáról szóló 2013. évi XXXIII. törvény (a továbbiakban: Módtv.) által megállapított 111/A. § (3) bekezdését és 125. § (5) bekezdését a Módtv. hatálybalépésekor hivatalban lévő Elnökre és a Médiatanácsnak a hatálybalépéskor hivatalban lévő elnökére is alkalmazni kell. A Módtv. hatálybalépése a hatálybalépéskor hivatalban lévő Elnök és a Médiatanácsnak a hatálybalépéskor hivatalban lévő elnöke és tagjai megbízatásának fennállását nem érinti.
 
 (5) Az 1. számú mellékletnek a médiaszolgáltatással kapcsolatos egyes törvények módosításáról szóló 2019. évi LXIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 1. pont o) alpontja alapján a Közszolgálati Testület tagjának jelölésére jogosult szervezet első alkalommal a Módtv2. hatálybalépését követő 30 napon belül gondoskodik új tag delegálásáról, azzal, hogy az új tag mandátuma a Módtv2. hatálybalépésekor működő Közszolgálati Testület tagjai mandátumának a lejáratáig tart.
+
+211/A. § A Televíziós Filmkollégium tagjainak és a Mecenatúra Felügyelő Bizottsága tagjainak megbízatása 2019. december 31. napjával megszűnik. A Televíziós Film Mecenatúra és a Televíziós Filmkollégium jogutódja 2019. december 31. napjától a Nemzeti Filmintézet Közhasznú Nonprofit Zrt.
 
 ### A közszolgálati médiaszolgáltatókra vonatkozó átmeneti szabályok
 
@@ -3960,9 +3871,9 @@ rendeletben megállapítsa.
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról,
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról.
 
-### VIII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK ÁLLAMI TÁMOGATÁSOKRA VONATKOZÓ SZABÁLYAIVAL VALÓ ÖSSZHANG
+### VIII. Fejezet
 
-231. § Ez a törvény a Magyarország filmszakmai támogatási programjáról szóló SA.36579. számú határozattal meghosszabbított N 202/2008. számú és az azt módosító SA.38425. számú és SA.50768. számú európai bizottsági határozat hatálya alá tartozó támogatást tartalmaz.
+#### 231. §
 
 ### 1. számú melléklet a 2010. évi CLXXXV. törvényhez
 
