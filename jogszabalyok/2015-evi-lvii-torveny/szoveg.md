@@ -101,7 +101,7 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 - i) elkészíti a nemzeti energiahatékonysági célkitűzés felé tett előrelépésekről szóló éves jelentést;
 - j) biztosítja az Európai Bizottság felé fennálló energiahatékonysági jelentéstételi, értékeléskészítési és adatszolgáltatási kötelezettségek teljesítését;
 - k) meghatározza az energiamegtakarítás összehasonlításakor és összevethető mértékegységre történő átváltásakor alkalmazandó átváltási tényezőket;
-- l) kidolgozza a fogyasztók energia- és környezettudatos szemléletének formálására és fejlesztésére irányuló cselekvési tervet; gondoskodik a fenntartható fejlődéssel és az energiatudatossággal kapcsolatos ismeretek oktatásáról, illetve a médián keresztüli terjesztéséről; továbbá létrehozza a lakosság széles körét elérő energetikai tanácsadó rendszert, ennek részeként működteti a Nemzeti Energetikusi Hálózatot;
+- l) kidolgozza a fogyasztók energia- és környezettudatos szemléletének formálására és fejlesztésére irányuló cselekvési tervet; gondoskodik a fenntartható fejlődéssel és az energiatudatossággal kapcsolatos ismeretek oktatásáról, illetve a médián keresztüli terjesztéséről;
 - m) nyilvántartja és közzéteszi a végfelhasználási energiamegtakarítás összesítéséhez szükséges, az egyes szakpolitikai intézkedések révén elért energiamegtakarítási adatokat;
 - n) olyan felülvizsgálati, verifikációs, mérési, irányítási és ellenőrzési rendszert vezet be, amely keretében a szakpolitikai intézkedésekkel megvalósított energiamegtakarítási adatok hitelességét reprezentatív statisztikai mintával igazolja.
 
@@ -164,12 +164,12 @@ járó kiadások és bevételek értékelésére (a továbbiakban: költség-has
 
 11/A. § A közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész üzemeltetéséért és fenntartásáért felelős szervezet vezetője:
 
-- a) ötévente a Hivatal által elkészített és az energiahatékonysági tájékoztató honlapon közzétett minta szerinti energiamegtakarítási intézkedési tervet készít, amit a készítés évében március 31-ig köteles megküldeni a Nemzeti Energetikusi Hálózat területileg illetékes irodája felé;
-- b) végrehajtja az energiamegtakarítási intézkedési tervet, a teljesítésről évente jelentést készít, amit a tárgyévet követő év március 31-ig megküld a Nemzeti Energetikusi Hálózat területileg illetékes irodája felé;
-- c) a Hivatal által működtetett online felületen az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint bejelenti az épületre vagy épületrészre vonatkozó energiafogyasztási adatokat;
+- a) ötévente a Hivatal által elkészített és az energiahatékonysági tájékoztató honlapon közzétett minta szerinti energiamegtakarítási intézkedési tervet készít, amit a készítés évében március 31-ig köteles feltölteni a Nemzeti Energetikusi Hálózat által üzemeltetett online felületre;
+- b) végrehajtja az energiamegtakarítási intézkedési tervet, a teljesítésről évente jelentést készít, amit a tárgyévet követő év március 31-ig köteles feltölteni a Nemzeti Energetikusi Hálózat által üzemeltetett online felületre;
+- c) a Nemzeti Energetikusi Hálózat által üzemeltetett online felületen az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint bejelenti az épületre vagy épületrészre vonatkozó energiafogyasztási adatokat;
 - d) gondoskodik az energiahatékonysági tájékoztató honlapon közzétett módszertan alapján az épület vagy épületrész használóinak energiahatékonysági szemléletformálásáról és a b) pont szerinti éves jelentésben erről beszámol;
 - e) együttműködik a Nemzeti Energetikusi Hálózattal az a)–d) pontban meghatározott feladatok ellátása során,
-- f) a Hivatal által üzemeltetett online felületre feltölti és változás esetén frissíti az épületre vagy épületrészre vonatkozó adatokat, energetikai tanúsítványt, energetikai auditot;
+- f) a Nemzeti Energetikusi Hálózat által üzemeltetett online felületre feltölti és változás esetén frissíti az épületre vagy épületrészre vonatkozó adatokat, energetikai tanúsítványt, energetikai auditot;
 - g) együttműködik a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti elosztó, a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) szerinti földgázelosztó (a továbbiakban együtt: elosztói engedélyesek) és a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) szerinti távhőszolgáltató (a továbbiakban: távhőszolgáltató) által a Hivatal számára bejelentett energiafogyasztási adatok vizsgálatában;
 - h) mentesül az a), b) és d) pont szerinti feladatok alól, ha a közintézmény nagyvállalatnak vagy energetikai szakreferens igénybevételére köteles gazdálkodó szervezetnek minősül.
 
@@ -255,13 +255,20 @@ kell elérni.
 
 (3) Az energiahatékonysági tájékoztató honlapon aktuális és részletes tájékoztatást kell nyújtani a hőtermelő berendezések (kazánok) cseréjére, ideértve a hőtermelő berendezések hatékonyságának és a megfelelő méretének kiválasztására, valamint a fűtési rendszer korszerűsítésére vonatkozó információkról.
 
-#### 17. Kiskereskedelmi energiaértékesítő vállalatok tájékoztatási feladatai
+#### 17. Kiskereskedelmi energiaértékesítő vállalatok és a Magyar Mérnöki Kamara tájékoztatási feladatai
 
 21. § (1) A kiskereskedelmi energiaértékesítő vállalat köteles ügyfélszolgálatán és honlapján az energiahatékonysággal kapcsolatos olyan tájékoztatást és tanácsadást nyújtani az energiafogyasztók számára, amely segíti a fogyasztók tudatos energiafogyasztási szemléletének kialakítását, gyakorlatias és hasznos információkat tartalmaz az egyes fogyasztói célcsoportok által kivitelezhető energiamegtakarítási lehetőségekről és a beruházásokhoz elérhető támogatási konstrukciókról.
 
 (2) A tájékoztatási és tanácsadási kötelezettséget a kiskereskedelmi energiaértékesítő vállalat üzletszabályzatában fel kell tüntetni.
 
 (3) A kiskereskedelmi energiaértékesítő vállalat köteles honlapján az energiahatékonysági tájékoztató honlapra mutató hivatkozást feltüntetni.
+
+(4) A Magyar Mérnöki Kamara
+
+- a) a vállalkozások számára ingyenes energetikai tanácsadást biztosít, valamint nyomon követi a tanácsadás következtében elért energiamegtakarítás mértékét,
+- b) ösztönzi a kis- és középvállalkozásokat energetikai auditálás lefolytatására és az auditokban foglalt ajánlások végrehajtására,
+- c) a lakosság számára ingyenes energetikai tanácsadást biztosít, valamint nyomon követi a tanácsadás következtében elért energiamegtakarítás mértékét,
+- d) tájékoztatást nyújt az elérhető energiahatékonysági pályázatokról.
 
 #### 17/A. Fogyasztóvédelmi feladatok a távhűtés terén
 
@@ -438,18 +445,15 @@ köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4
 
 #### 17/C. A Nemzeti Energetikusi Hálózat
 
-21/D. § (1) A Nemzeti Energetikusi Hálózat célja a közintézmények – köztük az önkormányzatok –, valamint a vállalkozások energiahatékony működésének, valamint a lakosság energiafogyasztás-csökkentésének szakmai tanácsadással történő elősegítése.
+21/D. § (1) A Nemzeti Energetikusi Hálózat célja a közintézmények – köztük az önkormányzatok –, energiahatékony működésének elősegítése.
 
-(2) A Nemzeti Energetikusi Hálózatot alkotó irodákban szakmai tanácsadást végző természetes személy az lehet, aki rendelkezik a jogszabályban meghatározott szakirányú végzettséggel és nem áll a szakterületének megfelelő tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
+(2) A Nemzeti Energetikusi Hálózat szakmai feladatait olyan természetes személy láthatja el közvetlenül, aki rendelkezik az e törvény végrehajtására kiadott kormányrendeletben meghatározott szakmai végzettséggel, a 39. § szerinti szakmai vizsgát teljesítette és nem áll a szakterületének megfelelő tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
-21/E. § (1) A Nemzeti Energetikusi Hálózat területileg illetékes irodája ellenőrzi a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész üzemeltetéséért és fenntartásáért felelős szervezetek e törvényben meghatározott energiahatékonysági feladatainak ellátását és mulasztás esetén haladéktalanul felhívja a szervezetet a kötelezettség teljesítésére.
+(3) A Nemzeti Energetikusi Hálózat feladatait a Hivatal látja el.
 
-(2) A Hivatal
+21/E. § (1) A Nemzeti Energetikusi Hálózat ellenőrzi a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész üzemeltetéséért és fenntartásáért felelős szervezetek e törvényben meghatározott energiahatékonysági feladatainak ellátását és mulasztás esetén haladéktalanul felhívja a szervezetet a kötelezettség teljesítésére.
 
-- a) gondoskodik a Nemzeti Energetikusi Hálózatnál szakmai tanácsadást végző természetes személyek szakmai képzéséről;
-- b) a Nemzeti Energetikusi Hálózat e törvényben meghatározott feladatainak ellátásához szakmai jellegű útmutatót és iránymutatást dolgoz ki;
-- c) a Nemzeti Energetikusi Hálózat számára elérhető online felületet hoz létre a legjobb gyakorlatok, szakmai útmutatók, iránymutatások megosztása céljából;
-- d) a c) pont szerinti online felületen közzétett információval támogatja a Nemzeti Energetikus Hálózat ellenőrzési tevékenységét.
+(2)
 
 ### VIII. Fejezet — AZ ENERGETIKAI AUDITÁLÁS
 
@@ -892,7 +896,7 @@ köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4
 - o) a 7. § f) pontja szerinti költség-haszon elemzéssel kapcsolatos kötelezettségek megszegése esetén a kiszabható bírság mértékét,
 - p) a távhűtés mérésével, elszámolásával, a díjfizetéssel, a számlázással és a felhasználók tájékoztatásával kapcsolatos rendelkezéseket, a felek jogait és kötelezettségeit;
 - q) az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet energiafogyasztási szintjére, az energetikai szakreferens által ellátandó tevékenységre, a természetes személy energetikai szakreferens szükséges szakmai képesítésére és gyakorlatára, a szakreferens igénybevételével kapcsolatos adatszolgáltatási kötelezettségre, valamint az energetikai szakreferens tevékenységével kapcsolatos jelentéstételre – ide nem értve a személyes adatokat – vonatkozó részletes szabályokat,
-- r) a Nemzeti Energetikusi Hálózat irodáit működtető szervezet kijelölését, a Nemzeti Energetikusi Hálózat által alkalmazható, szakmai tanácsadást végző természetes személyek szakmai végzettségére vonatkozó követelményeket, az irodák illetékességi területét, valamint a szakmai tanácsadásra vonatkozó részletes szabályokat,
+- r) a Nemzeti Energetikusi Hálózat szakmai feladatait közvetlenül ellátó természetes személy szakmai végzettségére vonatkozó követelményeket, a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épületekre vonatkozó energiafogyasztási adatok bejelentésére vonatkozó részletes szabályokat,
 - s) a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 45. § Felhatalmazást kap az energiapolitikáért felelős miniszter arra, hogy

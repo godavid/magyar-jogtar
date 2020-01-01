@@ -169,7 +169,7 @@ megfelelő összeg.
 
 (4) A járadékban részesülő hadirokkantat a saját háztartásában nevelt, valamint egészségi állapota miatt ápolást, gondozást nyújtó intézményben vagy rehabilitációs intézményben elhelyezett hadigyámolt gyermeke után a 4. §-ban meghatározott feltételek fennállása esetén nevelési pótlék illeti meg, feltéve, hogy a gyermeket a hadirokkant háztartásából helyezték az említett intézmények valamelyikébe. A nevelési pótlék mértéke – figyelemmel a 26/A. §-ban foglaltakra – gyermekenként és havonta az öregségi nyugdíj mindenkori legkisebb összegének 50%-a.
 
-(5) A jogerősen megállapított hadirokkant-járadék összege abban az esetben sem csökkenthető, ha a hadirokkant a hadieredetű fogyatkozás felülvizsgálata eredményeként alacsonyabb járadékosztályba kerül besorolásra.
+(5) A véglegesen megállapított hadirokkant-járadék összege abban az esetben sem csökkenthető, ha a hadirokkant a hadieredetű fogyatkozás felülvizsgálata eredményeként alacsonyabb járadékosztályba kerül besorolásra.
 
 ### Ápolási pótlék
 
@@ -328,7 +328,7 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 - a) a hadigondozási igényjogosultságról, a hadirokkant járadékosztályba sorolásáról és az orvosszakértői szerv szakvéleményében megjelölt gyógyászati segédeszköz, valamint a hadieredetű fogyatkozás megnevezéséről,
 - b) a pénzellátások – beleértve az egyösszegű térítést és a temetési hozzájárulást is – megállapításáról és összegszerűségéről,
 - c) kizárólag a hadirokkant és a hadiözvegy esetében a hadigondozotti igazolvány kiadásáról,
-- d) a pénzellátás szüneteltetéséről, megszüntetéséről, valamint a jogalap nélkül felvett pénzellátás visszafizetéséről.
+- d) a pénzellátás szüneteltetéséről, – haláleset kivételével – a megszüntetéséről, valamint a jogalap nélkül felvett pénzellátás visszafizetéséről.
 
 (3) Az elsőfokú hadigondozási hatóság a hadigondozásba vett személyről a következő nyilvántartást vezeti:
 

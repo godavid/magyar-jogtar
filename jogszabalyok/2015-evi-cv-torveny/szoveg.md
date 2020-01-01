@@ -245,7 +245,7 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 - h) az adóstársak, illetve az egyéb kötelezettek között magánjogi jogviszonyból eredő követelés érvényesítése, vagy polgári jogi igény megtérítése iránt eljárás van folyamatban, legalább 200 000 forint összegű fizetési kötelezettség teljesítése érdekében,
 - i) az adós vagy adóstárs más országban magánszemélyek adósságrendezését vagy más, hasonló jogi hatásokkal járó bíróságon kívüli vagy bírósági eljárást kezdeményezett és azt még nem bírálták el,
 - j) az adós nem minősül e törvény alkalmazásában belföldinek,
-- k) ha az adósnak, adóstársnak, egyéb kötelezettnek büntetőeljárásban meghozott határozat (ide nem értve a jogerős határozattal megítélt polgári jogi igényt) alapján fennálló pénzbüntetés, bűnügyi költség tartozása van vagy bűnügyi zárlatot rendeltek el a vagyonára, vagy vagyonelkobzást rendeltek el vele szemben,
+- k) ha az adósnak, adóstársnak, egyéb kötelezettnek büntetőeljárásban meghozott határozat (ide nem értve a jogerős határozattal megítélt polgári jogi igényt) alapján fennálló pénzbüntetés, bűnügyi költség tartozása van vagy vagyonelkobzást rendeltek el vele szemben, vagy a vagyonára a büntetőeljárásban zár alá vételt rendeltek el,
 - l) szabálysértési eljárásban vagy közigazgatási eljárásban kiszabott, járulékaival együtt számított, 500 000 forintot meghaladó összegű bírságtartozása van,
 - m) közjogi jogviszonyból eredő, lejárt esedékességű tartozása van – a (2) bekezdésben foglalt kivételekkel –,
 - n) az adós vagy a zálogkötelezett lakóingatlana a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény értelmében a Nemzeti Eszközkezelő Zrt. (a továbbiakban: NET) részére megvásárlásra felajánlásra került, kivéve, ha a NET a lakóingatlan megvásárlását elutasítja,
@@ -296,7 +296,7 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 
 12. § (1) A családi vagyonfelügyelőket és a feladataik ellátásában közreműködőket a Családi Csődvédelmi Szolgálat területi szervei foglalkoztatják.
 
-(2) Családi vagyonfelügyelő az a legalább kétéves szakmai gyakorlattal rendelkező kormánytisztviselő, állami tisztviselő vagy büntetlen előéletű tartós megbízási jogviszonyban álló személy lehet, aki rendelkezik jogi vagy közgazdasági végzettséggel, valamint közigazgatási vizsgával, jogi szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel.
+(2) Családi vagyonfelügyelő az a legalább kétéves szakmai gyakorlattal rendelkező kormányzati szolgálati jogviszonyban álló, munkaviszonyban álló vagy büntetlen előéletű tartós megbízási jogviszonyban álló személy lehet, aki rendelkezik jogi vagy közgazdasági végzettséggel, valamint közigazgatási vizsgával, jogi szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel.
 
 (3) A családi vagyonfelügyelő a bírósági adósságrendezési eljárásban közreműködő, a Családi Csődvédelmi Szolgálat által kijelölt fizetésképtelenségi szakértő, a bírósági adósságrendezési eljárás során a bíróság számára szakmai előkészítő és közreműködő feladatokat lát el, felügyeli az adós gazdálkodását és elvégzi az e törvényben számára meghatározott egyéb feladatokat. A Családi Csődvédelmi Szolgálat a családi vagyonfelügyelők természetes személyazonosító adatait, hivatali elérhetőségét elektronikus úton hozzáférhetővé teszi a bíróságok számára.
 
@@ -398,6 +398,8 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
   - dc) a bírósági adósságrendezési egyezség hatályának megszűnését a bíróság megállapította, az erről szóló jogerős végzés bejegyzésének napjától,
 
 számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követően az adatokat a Családi Csődvédelmi Szolgálat törli.
+
+16/A. § A Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásában a pénzbüntetés tartozás vizsgálata céljából elektronikus úton a bűnügyi nyilvántartó szervtől adatot igényel a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 16. § (2) bekezdés i) pontja szerinti adatok tekintetében.
 
 ### II. Fejezet — BÍRÓSÁGON KÍVÜLI ADÓSSÁGRENDEZÉS
 
@@ -651,7 +653,7 @@ a főhitelező ezt a tényt elektronikusan bejelenti a Családi Csődvédelmi Sz
 - g) ha az adós, adóstárs vagy egyéb kötelezett ellen belföldön vagy külföldön már van folyamatban adósságrendezésre irányuló eljárás,
 - h) ha az adósnak, adóstársnak nincs perbeli cselekvőképessége és a kérelmet nem törvényes képviselője útján nyújtotta be,
 - i) ha az adós, adóstárs a bírósági eljárás illetékét a felhívásban meghatározott határidőre nem fizette meg,
-- j) ha az adós vagy adóstárs vagyonát bűnügyi zárlat alá vonták.
+- j) ha az adós vagy adóstárs vagyonára a büntetőeljárásban zár alá vételt rendeltek el.
 
 (2) A bíróság a bírósági adósságrendezés iránti kérelmet a 32. § (1) bekezdés szerinti vizsgálat, illetve a 32. § (2) bekezdés szerinti hiánypótlás határidejének lejártától számított 15 napon belül elutasítja, ha
 
@@ -705,7 +707,7 @@ a főhitelező ezt a tényt elektronikusan bejelenti a Családi Csődvédelmi Sz
 (3) A bírósági adósságrendezési eljárásban
 
 - a) szünetelésnek,
-- b) felfüggesztésnek (ide nem értve, ha az adós vagyonát bűnügyi zárlat alá vették),
+- b) felfüggesztésnek (ide nem értve, ha az adós vagyonára a büntetőeljárásban zár alá vételt rendeltek el),
 - c) félbeszakadásnak (ide nem értve az adós elhalálozását),
 - d) a jogutódlás esetét kivéve perbehívásnak, illetve perbevonásnak,
 - e) beavatkozásnak,

@@ -177,11 +177,7 @@ a csere birtok-összevonási célú földcserének minősül.
 
 25. § Ha a szolgalommal terhelt föld közös tulajdonban áll, a szolgalmi jog alapításához a használati megosztás szerint érintett tulajdonostársak tulajdoni hányada alapján számított többségének írásbeli döntése szükséges.
 
-26. § (1) Öntözési célt szolgáló vízilétesítmény megvalósításához az érintett földrészlet vonatkozásában haszonélvezeti jog fennállása esetén a haszonélvezőnek, ennek hiányában a tulajdonosnak, állami tulajdonban álló ingatlan esetében az ingatlan-nyilvántartásba bejegyzett vagyonkezelőnek, vagyonkezelői jog fennállása hiányában a tulajdonosi joggyakorló szervezetnek a hozzájárulása szükséges.
-
-(2) Ha a földrészlet közös tulajdonban áll, a hozzájáruláshoz a 71. § (3) és (4) bekezdésének alkalmazásával az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges.
-
-(3) A földhasználót a más használatában levő ingatlanon – a mezőgazdasági tevékenysége folytatásához szükséges öntözés érdekében, amennyiben az másként nem, vagy csak aránytalanul nagy nehézséggel vagy költséggel biztosítható – a víz odajutását, szétosztását és elvezetését biztosító öntözési szolgalom illeti meg, amely úgy gyakorolható, hogy az ne akadályozza, aránytalanul ne nehezítse a szolgalmi joggal terhelt föld művelési ágának megfelelő használatát, hasznosítását.
+#### 26. §
 
 ### VII. Fejezet — A HATÓSÁGI JÓVÁHAGYÁSHOZ KÖTÖTT TULAJDONJOG MEGSZERZÉSÉRE VONATKOZÓ SZABÁLYOK
 
@@ -326,9 +322,11 @@ használhatja fel.
 
 (4) A mezőgazdasági igazgatási szerv döntése szóban nem közölhető.
 
+(5) A mezőgazdasági igazgatási szerv a hatósági jóváhagyásról szóló határozat véglegessé válását követően az adásvételi szerződés (3) bekezdés szerint záradékolt két példányát az ingatlanügyi hatóság részére küldi meg, amennyiben az adásvételi szerződésre az elővásárlási jog gyakorlására nyitva álló 60 napos határidő alatt egyetlen elfogadó jognyilatkozat sem került benyújtásra, az eladó az adásvételi szerződésben megadta a vevő javára szóló bejegyzési engedélyt, továbbá amennyiben az adásvételi szerződés hatályosságához a mezőgazdasági igazgatási szerv jóváhagyásán kívül más hatóság jóváhagyása, vagy engedélye nem szükséges. Az ingatlanügyi hatóság a mezőgazdasági igazgatási szerv által megküldött iratok alapján lefolytatja a tulajdonjog bejegyzésére irányuló eljárást.
+
 38. § A mezőgazdasági igazgatási szerv elsőfokú határozatával szemben nincs helye fellebbezésnek.
 
-39. § A bíróság elsőfokú ítélete ellen – kivéve a mezőgazdasági igazgatási szerv hatósági bizonyítványa ellen indított közigazgatási perben hozott elsőfokú ítéletet – fellebbezésnek van helye.
+#### 39. §
 
 #### 9. A föld tulajdonjoga végintézkedéssel történő megszerzésének, valamint a bírósági, közjegyzői jóváhagyáshoz kötött egyezséget megelőző hatósági jóváhagyásra vonatkozó eljárás különös eljárási szabályai
 
@@ -338,7 +336,7 @@ használhatja fel.
 
 (2) Az eljárás a közjegyző megkeresésének a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik.
 
-(3) Az eljárás ügyintézési határideje 30 nap, amely kivételesen indokolt esetben, egy alkalommal, legfeljebb 30 nappal hosszabbítható meg.
+(3)
 
 42. § (1) A Földforgalmi törvény 34. §-ának alkalmazásában – a Földforgalmi törvény 34. § (3) bekezdésében meghatározottak mellett – a mezőgazdasági igazgatási szerv azt is vizsgálja, hogy a hagyaték átszállása nem eredményezné-e a tulajdonszerzési korlátozás megsértését vagy megkerülését.
 

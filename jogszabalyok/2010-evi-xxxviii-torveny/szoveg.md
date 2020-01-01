@@ -120,6 +120,8 @@ nincs helye.
 
 (5) Ha a hagyatéki eljárásban érdekelt a részére az iratoknak elektronikus úton való kézbesítését kérte, utóbb a beadvány papíralapú benyújtásával egyidejűleg kérheti a közjegyzőtől a papíralapú eljárásra történő áttérés engedélyezését a Pp. szabályainak alkalmazásával. Az elektronikus úton való kézbesítés alóli kivételekre a Pp. és az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény rendelkezései alkalmazandók.
 
+11/A. § A hagyatéki eljárásban a Kjnp. 15/A–15/D. §-a alkalmazandó.
+
 12. § (1) A közjegyző végzésével jóváhagyott egyezség a bíróság által jóváhagyott egyezséggel azonos hatályú.
 
 (2) Ha az egyezség érvényességéhez hatóság vagy egyéb harmadik személy jóváhagyása vagy hozzájárulása szükséges, annak megszerzésére a közjegyző megfelelő határidőt szab; ha a határidő eredménytelenül telt el, vagy a hatóság, illetőleg a harmadik személy azt nem adta meg, az egyezség jóváhagyását megtagadja.

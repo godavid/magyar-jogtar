@@ -12,7 +12,7 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 (2) Állami projektértékelői jogviszony létesíthető azzal, aki
 
-- a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és megyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként, állami tisztviselőként vagy köztisztviselőként,
+- a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és megyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként vagy köztisztviselőként,
 - b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, valamint állami felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
 - c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként vagy közalkalmazottként vagy
 - d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként
@@ -43,7 +43,7 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 - 1. alapjogviszony: fennálló kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszony, állami felsőoktatási intézményben fennálló munkaviszony, valamint többségi állami befolyás alatt álló gazdasági társasággal fennálló munkaviszony;
 - 2. állami projektértékelői jogviszony: közfeladat ellátása céljából létrehozott, munkavégzésre irányuló különös jogviszony, amelyben az érintett alapjogviszonnyal rendelkezik, és amelyre a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit nem kell alkalmazni;
 - 3. értékelő: olyan állami projektértékelői jogviszonyban álló állami alkalmazott, aki a keretszerződés megkötését követően szaktudása alapján végzi a támogatási kérelmek tartalmi értékelését;
-- 4. központi államigazgatási szerv: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (2) bekezdés c)–g) és i) pontjában meghatározott szerv;
+- 4. központi államigazgatási szerv: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (2) bekezdés a)–c) pontjában meghatározott szerv, a Kormány kivételével;
 - 5. programozási időszak: az Európai Unió által meghatározott hétéves tervezési periódus;
 - 6. szakértői névsor: a miniszter által vezetett minisztériumban (a továbbiakban: minisztérium) nyilvántartott névjegyzék.
 

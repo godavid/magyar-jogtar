@@ -226,7 +226,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - c) feladatai ellátása során költségvetési vagy egyéb pénzeszközök felett, továbbá az állami vagyonnal való gazdálkodás, valamint elkülönített állami pénzalapok, fejezeti kezelésű előirányzatok tekintetében,
 - d) egyedi állami támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
 - e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során,
-- f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, egyéni vállalkozói igazolvány, hatósági erkölcsi bizonyítvány kiállításával összefüggő ügyekben.
+- f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, hatósági erkölcsi bizonyítvány kiállításával, valamint egyéni vállalkozói tevékenység nyilvántartásba vételével és törlésével összefüggő ügyekben.
 
 (1b) Az (1) bekezdés b) pont bc) alpontja alkalmazásában a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet munkavállalójának kell tekinteni annak a kizárólagos állami tulajdonban lévő gazdasági társaságnak a munkavállalóját is, amely gazdasági társaság tekintetében a tulajdonosi jogokat a hivatásos katasztrófavédelmi szerv vagy a büntetés-végrehajtási szervezet gyakorolja.
 
@@ -400,11 +400,11 @@ e célból együttműködik az Európai Unió tagállamaival és szerveivel, az 
 
 9. § (1) A települési önkormányzat szerződést köthet a közigazgatási illetékességi területén működő rendőrkapitányság, vagy határrendészeti kirendeltség vezetőjével — rendőrségi kötelezettségvállalás esetén a rendőrfőkapitány előzetes egyetértésével — különösen a helyi közbiztonságot érintő feladatok ellátása, a rendőrség és az önkormányzati szervek tevékenységének összehangolása, valamint az illetékességi területén működő rendőri szerv létesítésének, bővítésének és fejlesztésének elősegítése érdekében. A szerződés megkötésétől a rendőrség elzárkózhat, ha az jogszabályt sért vagy ellentétes a felettes rendőri szerv vezetőjének rendelkezésével, illetve, ha annak pénzügyi, anyagi fedezete nem biztosított vagy tartalma szakmailag megalapozatlan.
 
-(2) Az (1) bekezdés szerinti szerződés teljesítéséről, a juttatott eszközök felhasználásáról a rendőrség és az önkormányzat képviselő-testülete egymást kölcsönösen tájékoztatja. A szerződésben vállalt kötelezettség teljesítésének elmaradása esetén az önkormányzat a felettes rendőri szervhez fordulhat.
+(2) Az (1) bekezdés szerinti közigazgatási szerződés teljesítéséről, a juttatott eszközök felhasználásáról a rendőrség és az önkormányzat képviselő-testülete egymást kölcsönösen tájékoztatja. A szerződésben vállalt kötelezettség teljesítésének elmaradása esetén az önkormányzat a felettes rendőri szervhez fordulhat.
 
 10. § (1) A rendőrkapitány, a megyék (főváros) tekintetében a rendőrfőkapitány és az illetékességi területen működő önkormányzatok, a közbiztonsággal összefüggő feladatok ellátásának társadalmi segítésére és ellenőrzésére — a közbiztonság fenntartásában érintett állami és egyesületek bevonásával — bűnmegelőzési és közbiztonsági bizottságot hozhatnak létre. A bizottság elnökét, tagjait együttesen bízzák meg az önkormányzat képviselő-testülete megbízatásának időtartamára.
 
-(2) A bizottság maga állapítja meg működésének részletes eljárási szabályait. A működéséhez szükséges költségeket a rendőrség és az önkormányzatok külön megállapodásban rögzített arányban viselik.
+(2) A bizottság maga állapítja meg működésének részletes eljárási szabályait. A működéséhez szükséges költségeket a rendőrség és az önkormányzatok külön közigazgatási szerződésben rögzített arányban viselik.
 
 (3) A bűnmegelőzési és közbiztonsági bizottságnak a település közbiztonságának helyzetével, valamint az annak fenntartásában érintett szervek tevékenységével kapcsolatos állásfoglalását a bizottság elnöke megküldi az (1) bekezdésben említett rendőri szerv vezetőjének, továbbá a települési önkormányzat képviselő-testületének. A bűnmegelőzési és közbiztonsági bizottság és a rendőri szerv vezetője vagy a polgármester közötti véleményeltérés esetén az érintettek kérhetik a felettes rendőri szerv vezetőjének állásfoglalását. Az állásfoglalást — a vitában érintett rendőri szerv vezetője útján — meg kell küldeni a bűnmegelőzési és közbiztonsági bizottságnak és a települési önkormányzat képviselő-testületének.
 
@@ -543,7 +543,7 @@ igazolja.
 
 28. § (1) A rendőrség — a külön jogszabályban megállapított feltételek szerint — hatósági engedélyt ad az egyéni és a társas vállalkozás keretében folytatandó személy- és vagyonvédelmi, valamint magánnyomozói tevékenységre.
 
-(2) Az (1) bekezdésben említett hatósági engedély nélkül személy- és vagyonvédelmi, valamint magánnyomozói tevékenységre egyéni vállalkozói igazolványt kiadni, társasvállalkozást a cégnyilvántartásba bejegyezni, továbbá e tevékenységeket folytatni nem lehet.
+(2) Az (1) bekezdésben említett hatósági engedély nélkül személy- és vagyonvédelmi, valamint magánnyomozói tevékenységet egyéni vállalkozók nyilvántartásába bejegyezni, társasvállalkozást a cégnyilvántartásba bejegyezni, továbbá e tevékenységeket folytatni nem lehet.
 
 ### V. Fejezet — RENDŐRI INTÉZKEDÉSEK
 
@@ -1644,7 +1644,7 @@ adatok köre
 - o) a bíróságok által vezetett nyilvántartásokból (cégnyilvántartás, civil szervezetek és alapítványok nyilvántartása, gondnokoltak névjegyzéke),
 - p) a bírósági ügyviteli nyilvántartásból,
 - r) az ingatlan-nyilvántartásból,
-- s) az egyéni vállalkozói igazolvánnyal rendelkező vállalkozók nyilvántartásából,
+- s) az egyéni vállalkozók nyilvántartásából,
 - t) a közjegyzői zálogjogi nyilvántartásból és a hitelbiztosítéki nyilvántartásból,
 - u) a szabálysértési nyilvántartásból,
 - v) központi közlekedési közigazgatási és ellenőrzési bírságnyilvántartásból

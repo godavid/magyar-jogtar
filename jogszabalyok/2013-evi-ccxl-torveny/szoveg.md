@@ -83,7 +83,7 @@ során kell alkalmazni.
 
 5. § (1) A büntetés, az intézkedés, a kényszerintézkedés és a szabálysértési elzárás végrehajtása, valamint az utógondozás az állam feladata. Az elítélttel és az egyéb jogcímen fogvatartottal szemben a törvényben meghatározott joghátrányok az ügydöntő határozatban, illetve az egyéb határozatban foglaltak szerint – az ott meghatározott tartamban és tartalommal – érvényesíthetők.
 
-(2) A büntetés, az intézkedés, a kényszerintézkedés és a szabálysértési elzárás végrehajtását az állam a bíróság, a végrehajtási ügyintéző, a bírósági végrehajtói szervezet, az ügyészség, a végrehajtásért felelős szervek, a rendőrség, valamint az e törvényben meghatározott más szervek útján teljesíti. A végrehajtásban – törvényben meghatározottak szerint – más szervek és szervezetek is közreműködnek.
+(2) A büntetés, az intézkedés, a kényszerintézkedés és a szabálysértési elzárás végrehajtását az állam a bíróság, a Nemzeti Adó- és Vámhivatal, az ügyészség, a végrehajtásért felelős szervek, a rendőrség, valamint az e törvényben meghatározott más szervek útján teljesíti. A végrehajtásban – törvényben meghatározottak szerint – más szervek és szervezetek is közreműködnek.
 
 (3) A végrehajtásért felelős szerv a jogszabályok keretei között együttműködik az oktatási intézményekkel, valamint a fogvatartás körülményeinek a figyelemmel kísérésére, a szabadulás után a társadalomba való beilleszkedés elősegítésére, a karitatív tevékenység végzésére, továbbá az egyéb büntetés-végrehajtási feladatok segítésére alakult civil szervezetekkel és az ilyen tevékenységet ellátó vallási közösségekkel. Ha az ilyen szervezet tagja vagy a megbízásából eljáró személy a végrehajtásért felelős szerv rendjére és biztonságára vonatkozó jogszabályokat, vagy a végrehajtásért felelős szervvel kötött megállapodásban foglaltakat megszegi, a végrehajtásért felelős szerv az együttműködést megszüntetheti.
 
@@ -1315,8 +1315,8 @@ tegyen újabb előterjesztést.
 
 69/A. § (1) A büntetés-végrehajtási bíró hivatalból vagy az ügyészség indítványára – az iratok alapján – az elektronikus adat végleges hozzáférhetetlenné tételének végrehajtását az elektronikus adathoz való hozzáférés végleges megakadályozásával rendeli el, ha
 
-- a) a tárhelyszolgáltató a 324. § (3) bekezdése alapján kiszabott pénzbírság ellenére nem teljesíti a kötelezettséget,
-- b) az elektronikus adat végleges hozzáférhetetlenné tételét gyermekpornográfia (Btk. 204. §) megvalósulása miatt rendelte el, és a tárhelyszolgáltató kötelezettségének nem tesz eleget, a pénzbírság kiszabására tekintet nélkül haladéktalanul,
+- a) a tárhelyszolgáltató a 324. § (3) bekezdése alapján kiszabott rendbírság ellenére nem teljesíti a kötelezettséget,
+- b) az elektronikus adat végleges hozzáférhetetlenné tételét gyermekpornográfia (Btk. 204. §) megvalósulása miatt rendelte el, és a tárhelyszolgáltató kötelezettségének nem tesz eleget, a rendbírság kiszabására tekintet nélkül haladéktalanul,
 - c) az elektronikus adat végleges hozzáférhetetlenné tételére vonatkozóan a külföldi hatóság jogsegély iránti megkeresése a megkeresés kibocsátásától számított harminc napon belül nem vezetett eredményre.
 
 (2) Az elektronikus adat végleges hozzáférhetetlenné tétele végrehajtásának a hozzáférés végleges megakadályozásával történő elrendelése tárgyában hozott határozattal szemben az ügyészség a határozat közlésétől, az elektronikus adat feletti rendelkezésre jogosult a határozat közlésétől – ideértve a Be. 135. § (1) bekezdés b) pontja szerinti hirdetményi úton történő kézbesítést is – számított nyolc napon belül fellebbezhet.
@@ -1737,7 +1737,7 @@ a befogadó részlegen kell elhelyezni, ahol legfeljebb tizenöt napig tartózko
 - f) a nem dolgozó és újonnan befogadott elítélt munkába állítása, a munkahely és a munkakör kijelölése,
 - g) a dolgozó elítélt más munkahelyre történő áthelyezése, munkahelyről történő leváltása,
 - h) a bv. szerv orvosának javaslata alapján döntés a munkaterápiás foglalkoztatásról, annak munkaidejéről és munkarendjéről,
-- i) az oktatásra, a szakképzésre és a továbbképzésre jelentkezők beiskolázása,
+- i) az oktatásra, a szakképzésre és a felnőttképzésre jelentkezők beiskolázása,
 - j) a hosszúidős speciális részlegen történő elhelyezés vagy annak megszüntetése,
 - k) a gyógyító-terápiás részlegen történő elhelyezés vagy annak megszüntetése,
 - l) a pszichoszociális részlegen történő elhelyezés vagy annak megszüntetése,
@@ -2586,7 +2586,7 @@ használható fel.
 
 - a) 122. § b), e), n) és o) pontjában, 123. § (1) bekezdésében meghatározott jogait,
 - b) bv. intézeten kívüli munkavégzését,
-- c) szakképzésben és továbbképzésben való részvételét, valamint
+- c) szakképzésben és felnőttképzésben való részvételét, valamint
 - d) a magánál tartható tárgyainak körét
 
 korlátozhatja.
@@ -2883,15 +2883,15 @@ korlátozható.
 
 ### Az elítéltek oktatása és képzése
 
-181. § (1) Az oktatásban, szakképzésben vagy továbbképzésen való részvétel nem helyettesíti az elítélt munkában való részvételi kötelezettségét.
+181. § (1) Az oktatásban, szakképzésben vagy felnőttképzésben való részvétel nem helyettesíti az elítélt munkában való részvételi kötelezettségét.
 
-(2) Az általános iskolai oktatásban, a középfokú iskolában, illetve a szakképzésben vagy továbbképzésben részt vevő elítéltet – ha bv. intézet működési körében felmerült okból nem állították munkába, illetve nem rendelkezik nyugellátással, szolgálati járadékkal, korhatár előtti ellátással, bányászok egészségkárosodási járadékával, átmeneti bányászjáradékkal – a képzés ideje alatt az alapmunkadíj egynegyedének megfelelő pénzbeli térítés (a továbbiakban: ösztöndíj) illeti meg.
+(2) A köznevelésben, a szakképzésben vagy a felnőttképzésben részt vevő elítéltet – ha bv. intézet működési körében felmerült okból nem állították munkába, illetve nem rendelkezik nyugellátással, szolgálati járadékkal, korhatár előtti ellátással, bányászok egészségkárosodási járadékával, átmeneti bányászjáradékkal – az oktatás, képzés ideje alatt az alapmunkadíj egynegyedének megfelelő pénzbeli térítés (a továbbiakban: ösztöndíj) illeti meg.
 
 (3) Az ösztöndíjra jogosultak körének meghatározása során a bv. intézet parancsnoka a (2) bekezdésben foglaltaktól különös méltánylást érdemlő esetben eltérhet.
 
-(4) Azon képzési formák esetében, amelyért az elítéltet ösztöndíj illeti meg, bv. intézet oktatási-képzési megállapodást köt az elítélttel. A megállapodásban az elítéltet tájékoztatni kell arról, hogy ha az általános iskolai oktatásban, középfokú iskolában – idetartozik a gimnázium, a szakközépiskola és a szakiskola –, illetve a szakképzésben vagy továbbképzésben a tanulmányait megkezdi, és a képzésben önhibájából nem vesz részt, illetve indokolatlanul megszakítja, a felmerült költségek teljes vagy részleges megtérítésére kötelezhető.
+(4) Azon oktatási, képzési formák esetében, amelyért az elítéltet ösztöndíj illeti meg, a bv. intézet oktatási-képzési megállapodást köt az elítélttel. Az oktatási-képzési megállapodásban az elítéltet tájékoztatni kell arról, hogy ha a köznevelési intézményben, szakképző intézményben vagy a bv. intézet által szervezett felnőttképzésben a tanulmányait megkezdi, és a képzésben önhibájából nem vesz részt, illetve indokolatlanul megszakítja, a felmerült költségek teljes vagy részleges megtérítésére kötelezhető.
 
-(5) Az ösztöndíj az iskolai végzettséget vagy szakképzettséget igazoló okirat alapján állapítható meg. A bv. intézet parancsnoka e rendelkezéstől indokolt esetben eltérhet.
+(5) Az ösztöndíj az iskolai végzettséget vagy szakképzettséget, illetve szakképesítést igazoló okirat alapján állapítható meg. A bv. intézet parancsnoka e rendelkezéstől indokolt esetben eltérhet.
 
 (6) Az oktatásban részesülő elítélt tanulmányi eredményétől, szorgalmától és magatartásától függően kiegészítő ösztöndíjban részesül, az elbírálás és a kiegészítő ösztöndíj mértékét rendelet szabályozza.
 
@@ -2899,16 +2899,16 @@ korlátozható.
 
 182. § (1) A bv. intézet parancsnokának döntése alapján az elítéltet különös méltánylást érdemlő esetben
 
-- a) az iskolarendszeren kívüli szakoktatás vagy
+- a) a nem a bv. intézet által szervezett szakmai képzés vagy
 - b) a felsőfokú tanulmányok folytatása
 
 során is megilleti a 181. § (2) bekezdésében meghatározott ösztöndíj.
 
 (2) A bv. intézet parancsnokának döntése szerinti időtartamra és rendszerességgel az elítélt részére a nyelvtanulás, illetve nyelvvizsga letétele érdekében az idegen nyelvű szöveg meghallgatásához a bv. intézet technikai eszközt biztosít.
 
-### Az oktatásban, szakképzésben vagy továbbképzésen részt vevők kedvezményei
+### A köznevelésben, a szakképzésben vagy a felnőttképzésben részt vevők kedvezményei
 
-183. § (1) Az általános iskolai oktatásban, a középfokú iskolai oktatásban, szakképzésben és továbbképzésben részt vevő, valamint felsőfokú tanulmányokat folytató dolgozó elítélteket a vizsgára való felkészüléshez tanévenként a munkavégzés alól jogszabályban meghatározott időre – saját kérésére – fel kell menteni.
+183. § (1) A köznevelésben, a szakképzésben, illetve a felnőttképzésben részt vevő, valamint felsőfokú tanulmányokat folytató dolgozó elítélteket a vizsgára való felkészüléshez tanévenként a munkavégzés alól jogszabályban meghatározott időre – saját kérésére – fel kell menteni.
 
 (2) A felmentést a vizsgát megelőzően legfeljebb egy hónappal a bv. intézet parancsnoka engedélyezi.
 
@@ -2918,15 +2918,15 @@ során is megilleti a 181. § (2) bekezdésében meghatározott ösztöndíj.
 
 (5) Az (1)–(4) bekezdésben foglaltakat abban az esetben kell alkalmazni, ha a bv. intézet oktatási-képzési megállapodást kötött az elítélttel.
 
-### Az elítéltek szakképzése és továbbképzése
+### Az elítéltek szakképzése és felnőttképzésben való részvételük
 
-184. § (1) Az elítéltek szakképzését és továbbképzését elsősorban azokban a szakmákban kell megszervezni, amelyek elősegíthetik a szabadulás után a társadalom életébe való beilleszkedést, vagy a bv. intézeten belül történő munkavégzést.
+184. § (1) Az elítéltek szakképzését és felnőttképzésben való részvételét elsősorban azokban a szakmákban kell megszervezni, amelyek elősegíthetik a szabadulás után a társadalom életébe való beilleszkedést, vagy a bv. intézeten belül történő munkavégzést.
 
-(2) Az elítélt a szakképzésbe és a továbbképzésbe a kérelme alapján vonható be, a kérelem alapján megkezdett szakképzésben és továbbképzésben az elítélt részvétele kötelező.
+(2) Az elítélt a szakképzésbe és a felnőttképzésbe a kérelme alapján vonható be, a kérelem alapján megkezdett szakképzésben és felnőttképzésben az elítélt részvétele kötelező.
 
 (3) A 181. § (4) bekezdése alapján az elítélt a költségek részbeni vagy teljes megtérítésére kötelezhető.
 
-(4) Az elítéltek részére oktatást, szakképzést és továbbképzést a munkáltató, a bv. szerv, vagy jogszabály által arra felhatalmazott egyéb szerv, illetve magánszemély külön-külön vagy együttesen is szervezhet. Az oktatás, szakképzés és továbbképzés költségei a szervezőt terhelik, a költségekhez az elítélt önként is hozzájárulhat.
+(4) Az elítéltek részére oktatást, szakképzést és felnőttképzést a munkáltató, a bv. szerv, vagy jogszabály által arra felhatalmazott egyéb szerv, illetve magánszemély külön-külön vagy együttesen is szervezhet. Az oktatás, szakképzés és felnőttképzés költségei a szervezőt terhelik, a költségekhez az elítélt önként is hozzájárulhat.
 
 ### A szabadulásra felkészítés
 
@@ -4570,7 +4570,7 @@ lehet helye, azt az ügyészség az a)–b) pontban meghatározott esetben a bü
 
 - a) a törvényszék gazdasági hivatala,
 - b) a hatáskörébe tartozó bűncselekmény miatt folyó büntetőeljárásban lefoglalt dolog esetén a Nemzeti Adó- és Vámhivatal,
-- c) ingatlan esetén a bírósági végrehajtó
+- c) ingatlan esetén az állami adó- és vámhatóság
 
 hajtja végre.
 
@@ -4598,7 +4598,7 @@ hajtja végre.
 
 ### Az elkobzott dolog értékesítése, megsemmisítése
 
-321. § (1) Az elkobzott dolgot rendszerint értékesíteni kell. Az értékesítés elsősorban kereskedelmi tevékenység folytatására jogosult gazdálkodó szervezet vagy egyéni vállalkozó közreműködésével történő eladás útján, vagy a bírósági végrehajtó által tartott árverésen történhet.
+321. § (1) Az elkobzott dolgot rendszerint értékesíteni kell. Az értékesítés elsősorban kereskedelmi tevékenység folytatására jogosult gazdálkodó szervezet vagy egyéni vállalkozó közreműködésével történő eladás útján, vagy az állami adó- és vámhatóság által tartott árverésen történhet.
 
 (2) Az elkobzott dolgot meg lehet semmisíteni, ha
 
@@ -4628,19 +4628,19 @@ terhelik.
 
 ### XXIV. Fejezet — A VAGYONELKOBZÁS VÉGREHAJTÁSA
 
-323. § A vagyonelkobzást a bíróság értesítése, vagy a jogerősítési záradékkal ellátott és a 34/A. §-ban meghatározott követelményeknek megfelelő határozata alapján a bírósági végrehajtó a bírósági végrehajtásról szóló törvény rendelkezései szerint hajtja végre.
+323. § A vagyonelkobzást a bíróság értesítése, vagy a jogerősítési záradékkal ellátott és a 34/A. §-ban meghatározott követelményeknek megfelelő határozata alapján az állami adó- és vámhatóság az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény rendelkezései szerint hajtja végre.
 
 ### XXV. Fejezet — AZ ELEKTRONIKUS ADAT VÉGLEGES HOZZÁFÉRHETETLENNÉ TÉTELÉNEK VÉGREHAJTÁSA
 
-324. § (1) Az elektronikus adat végleges hozzáférhetetlenné tételének teljesítésére – a Be. 570. §-ában meghatározott kivétellel – az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott tárhelyszolgáltató köteles. Az elektronikus adat végleges hozzáférhetetlenné tételét a bírósági végrehajtó hajtja végre.
+324. § (1) Az elektronikus adat végleges hozzáférhetetlenné tételének teljesítésére – a Be. 570. §-ában meghatározott kivétellel – az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott tárhelyszolgáltató köteles. Az elektronikus adat végleges hozzáférhetetlenné tételét az állami adó- és vámhatóság hajtja végre.
 
-(2) A büntetés-végrehajtási bíró a bírósági végrehajtó értesítése alapján a tárhelyszolgáltatóval szemben a hozzáférhetetlenné tételi kötelezettség elmulasztása miatt százezer forinttól egymillió forintig terjedő pénzbírságot szabhat ki. A pénzbírságot kiszabó határozattal szemben halasztó hatályú fellebbezésnek van helye.
+(2) A büntetés-végrehajtási bíró az állami adó- és vámhatóság értesítése alapján a tárhelyszolgáltatóval szemben a hozzáférhetetlenné tételi kötelezettség elmulasztása miatt százezer forinttól egymillió forintig terjedő rendbírságot szabhat ki. A rendbírságot kiszabó határozattal szemben halasztó hatályú fellebbezésnek van helye.
 
-(3) Ha a tárhelyszolgáltató a pénzbírságot kiszabó határozat jogerőre emelkedését követő egy munkanapon belül a kötelezettségét nem teljesíti, a pénzbírság háromhavonta ismételten kiszabható. Az ügydöntő határozat jogerőre emelkedésétől számított három év elteltével pénzbírság kiszabásának nincs helye.
+(3) Ha a tárhelyszolgáltató a rendbírságot kiszabó határozat jogerőre emelkedését követő egy munkanapon belül a kötelezettségét nem teljesíti, a rendbírság háromhavonta ismételten kiszabható. Az ügydöntő határozat jogerőre emelkedésétől számított három év elteltével rendbírság kiszabásának nincs helye.
 
-(4) Ha a tárhelyszolgáltató a kötelezettség elmulasztása miatt első alkalommal jogerősen kiszabott pénzbírság ellenére nem teljesíti a kötelezettségét, a büntetés-végrehajtási bíró hivatalból vagy az ügyészség indítványára lefolytatja a 69/A. §-ban meghatározott, az elektronikus adat végleges megakadályozásának elrendelésére irányuló eljárást.
+(4) Ha a tárhelyszolgáltató a kötelezettség elmulasztása miatt első alkalommal jogerősen kiszabott rendbírság ellenére nem teljesíti a kötelezettségét, a büntetés-végrehajtási bíró hivatalból vagy az ügyészség indítványára lefolytatja a 69/A. §-ban meghatározott, az elektronikus adat végleges megakadályozásának elrendelésére irányuló eljárást.
 
-(4a) Ha az elektronikus adat végleges megakadályozásának elrendelését követően a bírósági végrehajtó arról tájékoztatja a büntetés-végrehajtási bírót, hogy a tárhelyszolgáltató teljesítette az eltávolítási kötelezettségét, a büntetés-végrehajtási bíró hivatalból lefolytatja a 69/A. §-ban meghatározott, az elektronikus adat végleges megakadályozásának megszüntetésére irányuló eljárást. Az eljárás lefolytatásának a tárhelyszolgáltató kérelmére is helye van. Ha a tárhelyszolgáltató alaptalanul tesz bejelentést az eltávolítási kötelezettség teljesítéséről, a büntetés-végrehajtási bíró az elektronikus adat végleges megakadályozásának ismételt elrendelésével egyidejűleg a tárhelyszolgáltatóval szemben százezer forinttól egymillió forintig terjedő rendbírságot szabhat ki.
+(4a) Ha az elektronikus adat végleges megakadályozásának elrendelését követően az állami adó- és vámhatóság arról tájékoztatja a büntetés-végrehajtási bírót, hogy a tárhelyszolgáltató teljesítette az eltávolítási kötelezettségét, a büntetés-végrehajtási bíró hivatalból lefolytatja a 69/A. §-ban meghatározott, az elektronikus adat végleges megakadályozásának megszüntetésére irányuló eljárást. Az eljárás lefolytatásának a tárhelyszolgáltató kérelmére is helye van. Ha a tárhelyszolgáltató alaptalanul tesz bejelentést az eltávolítási kötelezettség teljesítéséről, a büntetés-végrehajtási bíró az elektronikus adat végleges megakadályozásának ismételt elrendelésével egyidejűleg a tárhelyszolgáltatóval szemben százezer forinttól egymillió forintig terjedő rendbírságot szabhat ki.
 
 (4b) A büntetés-végrehajtási bíró az elektronikus adat végleges hozzáférhetetlenné tételének a hozzáférés végleges megakadályozásával történő elrendeléséről, illetve annak megszüntetéséről szóló határozatát haladéktalanul közli a Nemzeti Média és Hírközlési Hatósággal (a továbbiakban: NMHH).
 

@@ -160,7 +160,8 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - b) elősegítik a gazdaság fejlődésére jelentős hatást gyakorló, nemzetgazdasági szinten hatékony, a közvetlen vállalkozói érdekeltséget meghaladó célok megvalósulását, ennek érdekében részt vesznek az átfogó gazdaságfejlesztési, gazdaságstratégiai döntések előkészítésében, és együttműködnek az állami és a helyi önkormányzati szervekkel, illetve a gazdasági érdekképviseleti szervezetekkel;
 - c) tájékoztatást adnak a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítják a gazdasági együttműködés fejlődését;
 - d) közreműködnek a területfejlesztési koncepciók és programok gazdaságfejlesztési munkarészeinek kidolgozásában és végrehajtásában;
-- e) az országos gazdasági érdek-képviseleti szervezetekkel együttműködve ellátják a szakképzésről szóló törvényben és végrehajtási rendeletében, valamint a felnőttképzésről szóló törvényben és végrehajtási rendeletében meghatározott feladataikat, szervezik és végzik a mesterképzést és a mestervizsgáztatást.
+- e) ellátják a szakképzésről szóló törvényben meghatározott feladatokat, továbbá – az országos gazdasági érdekképviseleti szervekkel együttműködve – szervezik a mestervizsgára felkészítő, a szakmai tevékenység mesterszintű gyakorlásához szükséges mesterképzést és -vizsgáztatást.
+- f) a munkaügyi előírások végrehajtásának elősegítését szolgáló tájékoztató, felvilágosító tevékenységet végeznek.
 
 9/A. § (1) A törvény a gazdasági kamarák számára – a gazdaság fejlesztésével összefüggésben – biztosítja a lehetőséget, hogy
 
@@ -172,6 +173,12 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 (2) A gazdasági kamarák – külön törvények rendelkezései szerint – részt vesznek az (1) bekezdésben, valamint a 9. §-ban meghatározott feladataikkal összefüggő célokat szolgáló elkülönített állami pénzalapok és költségvetési előirányzatok felhasználására vonatkozó döntések előkészítésében.
 
 (3)
+
+9/B. § (1) A mesterképzés olyan képzési forma, amelynek során meghatározott szakképzettséggel, illetve szakképesítéssel és szakmai gyakorlattal rendelkező szakemberek mestervizsgára felkészítése történik. A mesterképzés keretében a szakma mester szintű gyakorlásához szükséges szakmai elméleti és gyakorlati, a vállalkozás vezetéséhez szükséges gazdasági, jogi és munkaügyi, továbbá a tanulók képzéséhez szükséges alapvető pedagógiai ismeretek átadása történik.
+
+(2) A mesterképzésben kötelezően alkalmazandó képzési és kimeneti követelményeit a szakképzésért felelős miniszter a szakképzésről szóló 2019. évi LXXX. törvény a 11. § (2)–(5) bekezdése szerint teszi közzé. A képzési és kimeneti követelmények a mesterképzésnek az országos gazdasági kamara által – az országos gazdasági érdekképviseleti szervezetekkel együttműködve – meghatározott követelményeit, valamint a mestervizsgával kapcsolatos követelményeket állapítják meg.
+
+(3) Az országos gazdasági kamara – az országos gazdasági érdekképviseleti szervezetekkel együttműködve – meghatározza azoknak a szakmáknak a körét, amelyekre mesterképzés folytatható és mestervizsga szervezhető.
 
 ### A területi gazdasági kamarák feladataiaz üzleti forgalom biztonságával kapcsolatban
 
@@ -411,7 +418,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 - a) az (5) bekezdés alapján nem választható küldöttnek;
 - b) Magyarországon nem rendelkezik lakóhellyel vagy tartózkodási hellyel; továbbá
-- c) kormányzati szolgálati, közszolgálati, vagy állami szolgálati jogviszonyban áll.
+- c) kormányzati szolgálati, közszolgálati jogviszonyban áll.
 - d)
 
 ### Törvényességi felügyelet

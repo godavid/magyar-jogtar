@@ -12,34 +12,21 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 - b) kormányzati szektorba sorolt egyéb szervezet: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 1. § 12. pontja szerinti szervezet,
 - c) kormányzati szektor egyenlege: az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló 2009. május 25-i 479/2009/EK tanácsi rendelet alapján számított egyenleg,
 - d) középtávú költségvetési cél: a költségvetési egyenleg felügyeletének megerősítéséről és a gazdaságpolitikák felügyeletéről és összehangolásáról szóló 1997. július 7-i 1466/97/EK tanácsi rendelet szerint készített aktuális konvergencia programban meghatározott célérték, ami összhangban van a stabilitási és növekedési paktum követelményeivel,
-- e) strukturális egyenleg: a kormányzati szektor gazdaság ciklikus hatásaitól és egyedi tételektől megtisztított egyenlege.
+- e) strukturális egyenleg: a kormányzati szektor gazdaság ciklikus hatásaitól és egyedi tételektől megtisztított egyenlege,
+- f) államadósság: az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló, 2009. május 25-i 479/2009/EK tanácsi rendeletben meghatározott módon számított adósság.
 
 ### II. Fejezet — AZ ÁLLAMADÓSSÁG CSÖKKENTÉSE
 
-#### 1. Az államadósság fogalma, számítása
+#### 1. Az államadósság mutató számítására vonatkozó rendelkezések
 
-2. § (1) Az Alaptörvény 36. cikk (4) és (5) bekezdésében, valamint 37. cikk (2) és (3) bekezdésében foglaltak végrehajtása során figyelembe veendő mindenkori államadósság mutatója (a továbbiakban: államadósság-mutató) olyan százalékban kifejezett, egy tizedesig kerekített hányados, amely
+2. § Az Alaptörvény 36. cikk (4) és (5) bekezdésében, valamint 37. cikk (2) és (3) bekezdésében foglaltak végrehajtása során figyelembe veendő mindenkori államadósság mutatója (a továbbiakban: államadósság-mutató) olyan, százalékban kifejezett, egy tizedesig kerekített hányados, amely
 
-- a) számlálójában az államháztartás központi alrendszerének, az államháztartás önkormányzati alrendszerének, és a kormányzati szektorba sorolt egyéb szervezetek egymással szembeni kötelezettségek kiszűrésével számított (konszolidált) adósságának (a továbbiakban együtt: államadósság),
-- b) nevezőjében a Közösségben a nemzeti és regionális számlák európai rendszeréről szóló tanácsi rendeletben meghatározottak szerint számított bruttó hazai terméknek e törvény szerinti értéke szerepel.
+- a) számlálójában az államadósságnak,
+- b) nevezőjében a Közösségben a nemzeti és regionális számlák európai rendszeréről szóló tanácsi rendeletben meghatározottak szerint számított bruttó hazai terméknek
 
-(2) Az államháztartás központi alrendszerének adóssága az államháztartás központi alrendszerébe tartozó jogi személyek által vállalt adósságot keletkeztető ügyletek konszolidált értéke a számbavétel fordulónapján.
+e törvény szerinti értéke szerepel.
 
-(3) Az államháztartás önkormányzati alrendszerének adóssága a helyi önkormányzatok, a nemzetiségi önkormányzatok, a területfejlesztésről és a területrendezésről szóló törvény szerinti térségi fejlesztési tanácsok, az önkormányzati társulások (a továbbiakban együtt: önkormányzat) által vállalt adósságot keletkeztető ügyletek konszolidált értéke a számbavétel fordulónapján.
-
-(4) A kormányzati szektorba sorolt egyéb szervezetek adóssága az általuk, saját nevükben vállalt adósságot keletkeztető ügyletek konszolidált értéke a számbavétel fordulónapján.
-
-3. § (1) Adósságot keletkeztető ügylet és annak értéke:
-
-- a) hitel, kölcsön felvétele, átvállalása a folyósítás, átvállalás napjától a végtörlesztés napjáig, és annak aktuális tőketartozása,
-- b) a számvitelről szóló törvény (a továbbiakban: Szt.) szerinti hitelviszonyt megtestesítő értékpapír forgalomba hozatala a forgalomba hozatal napjától a beváltás napjáig, kamatozó értékpapír esetén annak névértéke, egyéb értékpapír esetén annak vételára,
-- c) váltó kibocsátása a kibocsátás napjától a beváltás napjáig, és annak a váltóval kiváltott kötelezettséggel megegyező, kamatot nem tartalmazó értéke,
-- d) az Szt. szerint pénzügyi lízing lízingbevevői félként történő megkötése a lízing futamideje alatt, és a lízingszerződésben kikötött tőkerész hátralévő összege,
-- e) a visszavásárlási kötelezettség kikötésével megkötött adásvételi szerződés eladói félként történő megkötése – ideértve az Szt. szerinti valódi penziós és óvadéki repóügyleteket is – a visszavásárlásig, és a kikötött visszavásárlási ár,
-- f) a szerződésben kapott, legalább háromszázhatvanöt nap időtartamú halasztott fizetés, részletfizetés, és a még ki nem fizetett ellenérték,
-- g) hitelintézetek által, származékos műveletek különbözeteként az Államadósság Kezelő Központ Zrt.-nél (a továbbiakban: ÁKK Zrt.) elhelyezett fedezeti betétek, és azok összege.
-
-(2)
+#### 3. §
 
 #### 2. Az adósságcsökkentés
 
@@ -52,15 +39,15 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 
 (3) Az Alaptörvényből és az Európai Unió jogából következő egyenleg számítási módját, – különös tekintettel a strukturális egyenleg számítására – és az ahhoz szükséges paramétereket az államháztartásért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi.
 
-4. § (1) A központi költségvetésről szóló törvényben összegszerűen meg kell határozni az államháztartás adósságának a költségvetési év utolsó napjára tervezett értékét.
+4. § (1) A központi költségvetésről szóló törvényben meg kell határozni a költségvetési év utolsó napjára tervezett államadósság-mutató értékét.
 
-(2) Ha a költségvetési évre előrejelzett infláció és a bruttó hazai termék reál növekedési üteme egyaránt meghaladja a 3%-ot, a központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy annak alapján az államadósság megelőző évhez (a továbbiakban: viszonyítási év) viszonyított növekedési üteme ne haladja meg a központi költségvetésről szóló törvényben meghatározott, a költségvetési évre várható infláció és bruttó hazai termék reál növekedési üteme felének a különbségét.
+(2)
 
-(2a) Ha a költségvetési évre előrejelzett infláció és a bruttó hazai termék reál növekedési üteme közül legalább az egyik nem haladja meg a 3%-ot, a központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy az államadósság-mutatónak a viszonyítási évhez viszonyított csökkenése legalább 0,1 százalékpontot érjen el.
+(2a) A központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy az államadósság-mutatónak a viszonyítási évhez viszonyított csökkenése, az államadósság csökkentésre vonatkozó európai uniós szabályok érvényesítése mellett legalább 0,1 százalékpontot érjen el.
 
 (3) A központi költségvetésről szóló törvény előkészítése során a viszonyítási év államadósság-mutatóját a viszonyítási év utolsó napján várható államadósság és a viszonyítási év várható bruttó hazai terméke, a költségvetési év államadósság-mutatóját a költségvetési év utolsó napján várható államadóság és a költségvetési év várható bruttó hazai terméke alapján kell számításba venni.
 
-(3a) A központi költségvetésről szóló törvény végrehajtása során az Alaptörvény 37. cikk (2)–(3) bekezdése szerinti kölcsön felvételekor, pénzügyi kötelezettség vállalásakor a költségvetési év várható bruttó hazai terméke és az államadóság költségvetési év utolsó napjára tervezett, az (1) bekezdés szerint meghatározott értékét kell számításba venni.
+(3a) A központi költségvetésről szóló törvény végrehajtása során az Alaptörvény 37. cikk (2)–(3) bekezdése szerinti kölcsön felvételekor, pénzügyi kötelezettség vállalásakor az államadósság-mutatónak az (1) bekezdés szerint meghatározott értékét, az 5. § (1) bekezdése szerinti féléves felülvizsgálat elkészítését követően az államadósság-mutatónak a felülvizsgálatkor számított várható értékét kell számításba venni.
 
 (3b) Nem érinti az Alaptörvény 37. cikk (3) bekezdése szerinti kölcsön felvételére, pénzügyi kötelezettség vállalására irányuló szerződés érvényességét, ha a kölcsön felvételekor, a pénzügyi kötelezettség vállalásakor nem ismert okból a költségvetési év utolsó napján az államadósság-mutató meghaladja a viszonyítási év mutatójának értékét.
 
@@ -81,12 +68,14 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (3) Az előrejelzések, a felülvizsgálat részletszabályait és a közzététel módját a Kormány rendeletben határozza meg.
 
-6. § (1) Az államadósság-mutató számításakor a külföldi pénznemben fennálló adósságot keletkeztető ügyleteket azonos, a központi költségvetésről szóló törvényben meghatározott árfolyamon kell figyelembe venni.
+6. § (1) A 4. § (3a) bekezdése alkalmazásakor az alábbi tényezők hatását nem kell figyelembe venni, amennyiben az államadósság-mutató kizárólag e tényezők együttes hatása miatt növekedne:
 
-(2) A központi költségvetésről szóló törvényben az államadósság-mutató számításakor nem kell figyelembe venni
+- a) az európai uniós források utólagos visszatérítésének időigényéből, az Európai Unió költségvetésének esetleges likviditáshiányából vagy bármely egyéb olyan okból keletkező államadósság többlet, amely miatt a felmerült kiadásra jutó európai uniós támogatás nem kerül elszámolásra a központi költségvetésben,
+- b) a 44. § (1) bekezdés b) pontja szerinti kölcsönnyújtás, illetve annak visszafizetése miatt kialakuló többletfinanszírozási igényből, illetve finanszírozási igény csökkenésből következő államadósság többlet,
+- c) a 2. § szerinti államadósság-mutató számlálójának vagy nevezőjének számítási módszertanában bekövetkező, a központi költségvetési törvény elfogadása utáni változásából eredő államadósság többlet,
+- d) a külföldi pénznemben fennálló adósságot keletkeztető ügyleteknél az árfolyam változásából eredő államadósság többlet.
 
-- a) az államadósság olyan növekedését, amely az európai uniós források utólagos visszatérítésének időigényéből, az Európai Unió költségvetésének esetleges likviditáshiányából vagy bármely egyéb olyan okból keletkezik, amely miatt a felmerült kiadásra jutó európai uniós támogatás nem kerül elszámolásra a központi költségvetésben,
-- b) a 44. § (1) bekezdés b) pontja szerinti kölcsönnyújtás, illetve annak visszafizetése miatt kialakuló többletfinanszírozási igényből, illetve finanszírozási igény csökkenésből következő adósságváltozást.
+(2) A 4. § (1) bekezdése alkalmazásakor az (1) bekezdés szerinti tényezőket nem lehet figyelmen kívül hagyni.
 
 7. § (1) Az Alaptörvény 36. cikk (6) bekezdésében foglalt nemzetgazdaság tartós és jelentős visszaeséseként kell értelmezni minden olyan esetet, amikor az éves bruttó hazai termék reál értéke csökken.
 
@@ -94,11 +83,21 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 #### 3. Az államadósság keletkezését és növekedését korlátozó szabályok
 
-8. § Az állam nevében adósságot keletkeztető ügylet érvényesen csak törvény felhatalmazása alapján köthető.
+8. § (1) Az állam nevében kötött (2) bekezdésben felsorolt adósságot keletkeztető ügylet érvényesen csak törvény felhatalmazása alapján köthető.
+
+(2) Adósságot keletkeztető ügylet és annak értéke:
+
+- a) hitel, kölcsön felvétele, átvállalása a folyósítás, átvállalás napjától a végtörlesztés napjáig, és annak aktuális tőketartozása,
+- b) a számvitelről szóló törvény (a továbbiakban: Szt.) szerinti hitelviszonyt megtestesítő értékpapír forgalomba hozatala a forgalomba hozatal napjától a beváltás napjáig, kamatozó értékpapír esetén annak névértéke, egyéb értékpapír esetén annak vételára,
+- c) váltó kibocsátása a kibocsátás napjától a beváltás napjáig, és annak a váltóval kiváltott kötelezettséggel megegyező, kamatot nem tartalmazó értéke,
+- d) az Szt. szerint pénzügyi lízing lízingbevevői félként történő megkötése a lízing futamideje alatt, és a lízingszerződésben kikötött tőkerész hátralévő összege,
+- e) a visszavásárlási kötelezettség kikötésével megkötött adásvételi szerződés eladói félként történő megkötése – ideértve az Szt. szerinti valódi penziós és óvadéki repóügyleteket is – a visszavásárlásig, és a kikötött visszavásárlási ár,
+- f) a szerződésben kapott, legalább háromszázhatvanöt nap időtartamú halasztott fizetés, részletfizetés, és a még ki nem fizetett ellenérték,
+- g) hitelintézetek által, származékos műveletek különbözeteként az Államadósság Kezelő Központ Zrt.-nél (a továbbiakban: ÁKK Zrt.) elhelyezett fedezeti betétek, és azok összege.
 
 8/A. § Mindaddig, amíg az államadósság a bruttó hazai termék felét meghaladja, ha az államot terhelő olyan mértékű közvetlen kiadás keletkezik, amelynek teljesítésére a központi költségvetésről szóló törvényben megállapított, a Kormány irányítása alá tartozó fejezetekben rendelkezésre álló előirányzatok nem elegendők, a Kormány jogosult az Áht.-ban foglalt egyes intézkedések megtételére, vagy javaslatot tehet az ilyen kiadások teljesítéséhez szükséges, a 28. § szerinti fizetési kötelezettség törvényben történő megállapítására.
 
-9. § (1) A kormányzati szektorba sorolt egyéb szervezet adósságot keletkeztető ügyletet érvényesen az államháztartásért felelős miniszter előzetes hozzájárulásával köthet. E rendelkezést nem kell alkalmazni a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet igénybevételére, valamint az olyan adósságot keletkeztető ügyletre, amelyben valamennyi fél az államháztartás valamely alrendszerébe tartozó jogi személy, illetve kormányzati szektorba sorolt egyéb szervezet.
+9. § (1) A kormányzati szektorba sorolt egyéb szervezet a 8. § (2) bekezdése szerinti adósságot keletkeztető ügyletet érvényesen az államháztartásért felelős miniszter előzetes hozzájárulásával köthet. E rendelkezést nem kell alkalmazni a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet igénybevételére, valamint az olyan adósságot keletkeztető ügyletre, amelyben valamennyi fél az államháztartás valamely alrendszerébe tartozó jogi személy, illetve kormányzati szektorba sorolt egyéb szervezet.
 
 (2) Az államháztartásért felelős miniszter a hozzájárulást abban az esetben adja meg, ha
 
@@ -108,9 +107,9 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 
 (3) Az (1) és (2) bekezdésben foglaltaktól eltérően a kormányzati szektorba sorolt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi intézmény (a továbbiakban: kormányzati szektorba sorolt pénzügyi intézmény) adósságot keletkeztető ügyletet érvényesen a (4)–(10) bekezdésben foglaltak figyelembevételével köthet. E rendelkezést nem kell alkalmazni a naptári éven belül lejáró adósságot keletkeztető ügyletekre.
 
-(4) A Kormány legkésőbb a költségvetési évre vonatkozó költségvetési törvényjavaslat Költségvetési Tanács számára, a 24. § (1) bekezdés a) pontja szerint történő benyújtásáig meghatározza azt az összeget (a továbbiakban: keretszám), amelyet a kormányzati szektorba sorolt pénzügyi intézmény költségvetési év utolsó napján fennálló, a 2. § (1) bekezdés a) pontja szerinti konszolidált adósságállománya nem haladhat meg. A Kormány a költségvetési év során – az államháztartásért felelős miniszter kezdeményezésére – az államadósság-mutató e törvény szerint meghatározott alakulásának veszélyeztetése nélkül módosíthatja az előző évben meghatározott értéket.
+(4) A Kormány legkésőbb a költségvetési évre vonatkozó költségvetési törvényjavaslat Költségvetési Tanács számára, a 24. § (1) bekezdés a) pontja szerint történő benyújtásáig meghatározza azt az összeget (a továbbiakban: keretszám), amelyet a kormányzati szektorba sorolt pénzügyi intézmény költségvetési év utolsó napján fennálló, az államháztartás központi alrendszerével, az államháztartás önkormányzati alrendszerével, és a kormányzati szektorba sorolt egyéb szervezetekkel szemben fennálló követelései és kötelezettségei kiszűrésével konszolidált adósságállománya nem haladhat meg. A Kormány a költségvetési év során – az államháztartásért felelős miniszter kezdeményezésére – az államadósság-mutató e törvény szerint meghatározott alakulásának veszélyeztetése nélkül módosíthatja az előző évben meghatározott értéket.
 
-(5) A Kormány a (4) bekezdés szerinti keretszámot a kormányzati szektorba sorolt pénzügyi intézmény 3. § (1) bekezdés a)–e) pontjai szerinti adósságállománya, és a pénzügyi intézmény által elfogadott betétekből eredő adósságállománya együttes összegére határozza meg.
+(5) A Kormány a (4) bekezdés szerinti keretszámot a kormányzati szektorba sorolt pénzügyi intézmény a 8. § (2) bekezdés a)–e) pontjai szerinti adósságállománya, és a pénzügyi intézmény által elfogadott betétekből eredő adósságállománya együttes összegére határozza meg.
 
 (6) A Kormány (4) bekezdés szerinti döntéseit az államháztartásért felelős miniszter kezdeményezi, állami tulajdonú kormányzati szektorba sorolt pénzügyi intézmény esetén annak tulajdonosi joggyakorlását ellátó szerv véleményének kikérésével. A Kormány döntései a kormányzati szektorba sorolt pénzügyi intézmény legalább hároméves középtávú üzleti stratégiájának bemutatásával kezdeményezhetők.
 
@@ -152,7 +151,7 @@ egybe kell számítani.
 
 (8) Az önkormányzati társulás adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban részt vevő önkormányzatok kezességvállalása biztosítja.
 
-(9) Az önkormányzat az Áht. 96. § (1) bekezdésében és a 10/B.–10/D. §-ban foglaltaktól eltérően is vállalhat a Kormány előzetes hozzájárulásával kezességet és garanciát a többségi tulajdonában álló gazdasági társaság által vállalt kötelezettségek biztosítására, amennyiben e kötelezettségek nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához kapcsolódnak és nem minősülnek a 3. § (1) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletnek. A Kormány előzetes hozzájárulása során a beruházás nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánításának indokait és annak az önkormányzat gazdálkodási helyzetére gyakorolt várható hatásait vizsgálja.
+(9) Az önkormányzat az Áht. 96. § (1) bekezdésében és a 10/B.–10/D. §-ban foglaltaktól eltérően is vállalhat a Kormány előzetes hozzájárulásával kezességet és garanciát a többségi tulajdonában álló gazdasági társaság által vállalt kötelezettségek biztosítására, amennyiben e kötelezettségek nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához kapcsolódnak és nem minősülnek a 8. § (2) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletnek. A Kormány előzetes hozzájárulása során a beruházás nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánításának indokait és annak az önkormányzat gazdálkodási helyzetére gyakorolt várható hatásait vizsgálja.
 
 (10) Az önkormányzatnak a (9) bekezdés szerinti kezesség-, illetve garanciavállalására vonatkozó kérelmét a helyi önkormányzatokért felelős miniszterhez és az államháztartásért felelős miniszterhez kell benyújtania.
 
@@ -197,13 +196,13 @@ mellékeli.
 10/D. § (1) A megkötött adósságot keletkeztető ügyletekre, a kezesség-, illetve garanciavállalásra vonatkozó szerződésmódosításokhoz, valamint az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező, illetve annál kisebb összegű meglévő adósság visszafizetése, akkor kell a Kormány engedélyét kérni, ha
 
 - a) a szerződésmódosítást vagy adósságmegújítást követően előálló kondíciók mellett az ügylet a szerződésmódosítás vagy adósságmegújítás időpontjában engedélykötelesnek minősül, és
-- b) a módosított vagy az új szerződés az eredetihez képest hosszabb futamidejű, megváltozik az adósságot keletkeztető ügylet célja, az önkormányzatot terhelő fizetési kötelezettség a futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket, a módosított szerződés az eredetihez képest nagyobb ügyletértékű vagy a kezesség, illetve garancia összege nő.
+- b) a módosított vagy az új szerződés az eredetihez képest hosszabb futamidejű, megváltozik az adósságot keletkeztető ügylet célja, az új adósságot keletkeztető ügylet keletkeztetésének ütemezése az eredetihez képest bármely évben meghaladja az eredeti ütemezés szerint az adott év végéig keletkező kumulált adósságösszeget, az önkormányzatot terhelő fizetési kötelezettség a futamidő lejártáig bármelyik évben meghaladja az eredeti szerződés szerinti értéket, a módosított szerződés az eredetihez képest nagyobb ügyletértékű vagy a kezesség, illetve a garancia összege nő.
 
 (2) A szerződésmódosításra vonatkozó, az (1) bekezdés szerinti ügyletekre a 10/B. § (3) bekezdése szerinti ügyletekre vonatkozó szabályokat kell alkalmazni.
 
 10/E. § (1) A kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaság és az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság
 
-- a) adósságot keletkeztető ügyletét – a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet kivételével – az önkormányzat olyan adósságot keletkeztető ügyletének kell tekinteni, amely a 10. § (1) bekezdése szerint,
+- a) adósságot keletkeztető ügyletét – a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet és az 50 millió forintot el nem érő ügylet kivételével, figyelemmel a 10. § (4) bekezdés a) pontja szerinti egybe számítási szabályra is – az önkormányzat olyan adósságot keletkeztető ügyletének kell tekinteni, amely a 10. § (1) bekezdése szerint,
 - b) szerződésmódosítását és adósságmegújítását pedig olyan adósságot keletkeztető ügyletnek, amely a 10/D. § (1) bekezdése szerint
 
 a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az adott gazdasági társaságban legnagyobb tulajdoni részesedéssel vagy hányaddal rendelkező önkormányzat nyújtja be. Egyenlő tulajdoni részesedés vagy hányad esetén a kérelmet az érintett önkormányzatok megállapodása szerinti önkormányzat nyújtja be.
@@ -215,11 +214,17 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 (3) A Kormány eltekinthet a (2) bekezdésben foglaltak alkalmazásától, amennyiben a szerződés-módosítás vagy az adósságmegújítás során keletkező ügylet az eredetivel megegyező, vagy kedvezőbb kondíciót tartalmaz az ügyletet keletkeztető, kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaság vagy az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság számára.
 
+10/F. § (1) A kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-nál kisebb önkormányzati tulajdonban álló gazdasági társaság és a 100%-os önkormányzati tulajdonban álló gazdasági társaság 100%-nál kisebb tulajdonában álló gazdasági társaság (a továbbiakban együtt: részben önkormányzati tulajdonban lévő gazdasági társaság) esetében a tulajdonos önkormányzatot – a Kormány (2) bekezdés szerinti előzetes hozzájárulása hiányában – a gazdasági társaság által kötött adósságot keletkeztető ügylettel összefüggésben nem terhelik fizetési kötelezettségek és ilyen kötelezettséget az önkormányzat önként sem vállalhat.
+
+(2) A részben önkormányzati tulajdonban lévő gazdasági társaság adósságot keletkeztető ügylete kapcsán a tulajdonos önkormányzat a Kormány előzetes hozzájárulását kérheti. A hozzájárulás kérelmezésére és elbírálására a 10/E. §-ban foglaltak alkalmazandóak.
+
+(3) Az (1) és (2) bekezdés szerinti szabályozás nem vonatkozik az olyan részben önkormányzati tulajdonban lévő gazdasági társaságok adósságot keletkezető ügyleteire, amelyek cégformája nyilvánosan működő részvénytársaság.
+
 ### III. Fejezet — AZ ÁLLAMADÓSSÁG KEZELŐ KÖZPONT
 
 #### 4. Az Államadósság Kezelő Központ jogállása
 
-11. § (1) Az államháztartás központi alrendszere finanszírozási igényének teljesítése és a 3. § (1) bekezdés a), b), e) és g) pontja szerinti adósságának kezelése érdekében végzett pénzügyi műveletekről az államháztartásért felelős miniszter az ÁKK Zrt. útján gondoskodik.
+11. § (1) Az államháztartás központi alrendszere finanszírozási igényének teljesítése és a 8. § (2) bekezdés a), b), e) és g) pontja szerinti adósságának kezelése érdekében végzett pénzügyi műveletekről az államháztartásért felelős miniszter az ÁKK Zrt. útján gondoskodik.
 
 (2) Az ÁKK Zrt. egyszemélyes zártkörűen működő részvénytársaság, részvényei névre szólók és forgalomképtelenek.
 
@@ -235,7 +240,7 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 (2) Az ÁKK Zrt. bevételei:
 
-- a) az államháztartás központi alrendszere adósságának a 3. § (1) bekezdés a), b), e) és g) pontja szerinti adósságot keletkeztető ügyletből származó része kezelésével összefüggésben a központi költségvetésről szóló törvényben e célra megállapított előirányzat, amelyet havi egyenlő részletekben kell az ÁKK Zrt. rendelkezésére bocsátani,
+- a) az államháztartás központi alrendszere adósságának a 8. § (2) bekezdés a), b), e) és g) pontja szerinti adósságot keletkeztető ügyletből származó része kezelésével összefüggésben a központi költségvetésről szóló törvényben e célra megállapított előirányzat, amelyet havi egyenlő részletekben kell az ÁKK Zrt. rendelkezésére bocsátani,
 - b) egyéb bevételek.
 
 (3) A (2) bekezdés a) pontja szerinti bevételhez kapcsolódó kamatot, jutalékot, díjat, egyéb költséget az ÁKK Zrt. a központi költségvetésről szóló törvénynek az államháztartás központi alrendszere adóssága kezelésének költségvetési bevételeit és kiadásait tartalmazó fejezete terhére számolhat el és fizethet ki.
@@ -248,14 +253,14 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 13. § (1) A központi költségvetés költségvetési hiányának finanszírozása érdekében az államháztartásért felelős miniszter az ÁKK Zrt. útján
 
-- a) a központi költségvetésről szóló törvény felhatalmazása alapján szervezi az államháztartás központi alrendszere adósságának a 3. § (1) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletből származó része terhére elszámolandó állampapír-kibocsátást, hitelfelvételt és adósság-átvállalást,
+- a) a központi költségvetésről szóló törvény felhatalmazása alapján szervezi az államháztartás központi alrendszere adósságának a 8. § (2) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletből származó része terhére elszámolandó állampapír-kibocsátást, hitelfelvételt és adósság-átvállalást,
 - b) elkészíti a központi költségvetés éves és középtávú finanszírozási tervét, kidolgozza az a) pont szerinti adósság finanszírozási stratégiáját,
-- c) gondoskodik az államháztartás központi alrendszere adósságának a 3. § (1) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletből származó része terheinek kifizetéséről,
+- c) gondoskodik az államháztartás központi alrendszere adósságának a 8. § (2) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletből származó része terheinek kifizetéséről,
 - d) a központi költségvetésről szóló törvény felhatalmazása alapján az Áht. 76. § (1) bekezdés b) pontja szerinti előrejelzés figyelembevételével gondoskodik a központi költségvetés fizetőképességének fenntartásáról, valamint az állam átmenetileg szabad pénzeszközeinek kezeléséről,
 - e) szervezi a másodlagos állampapír-piacot,
 - f) a másodlagos állampapír-piacon sajátszámlás kereskedést, értékpapír kölcsönzést, repó és fordított repó műveleteket végez, valamint azonnali, határidős, fedezeti, csere és származtatott ügyleteket köt, továbbá letétkezelési és letéti őrzési feladatokat lát el,
 - g) elemzi az a) pont szerinti adósságszolgálat és az állampapírpiac folyamatait,
-- h) közreműködik az államadósság számításában, tájékoztatást ad az államháztartás központi alrendszere adósságának a 3. § (1) bekezdés a), b), e) és g) pontja szerinti adósságot keletkeztető ügyletből származó része alakulásáról, az állampapírpiac folyamatairól,
+- h) közreműködik az államadósság számításában, tájékoztatást ad az államháztartás központi alrendszere adósságának a 8. § (2) bekezdés a), b), e) és g) pontja szerinti adósságot keletkeztető ügyletből származó része alakulásáról, az állampapírpiac folyamatairól,
 - i) véleményezi az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételeit,
 - j) hitel-betét műveleteket végez,
 - k) közreműködik az állami kezesség, garancia melletti hitel- és kölcsönfelvétellel, hitelviszonyt megtestesítő értékpapír kibocsátással kapcsolatos feladatok ellátásában.
@@ -494,7 +499,7 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 (3) A családi kedvezmény gyermekenkénti mértéke nem lehet alacsonyabb a megelőző költségvetési évre megállapított mértéknél.
 
-#### 38. §
+38. § A gazdálkodó szervezetet az elért eredménye alapján terhelő fizetési kötelezettség mértékét az adóalap összegétől függetlenül, az adóalap azonos arányában, egységesen kell megállapítani.
 
 38/A. § A 32–36. §-tól és a 38. §-tól csak különleges jogrend idején, az azt kiváltó körülmények okozta következmények enyhítéséhez szükséges mértékben vagy a nemzetgazdaság tartós és jelentős visszaesése esetén, a nemzetgazdasági egyensúly helyreállításához szükséges mértékben lehet eltérni.
 
@@ -684,7 +689,7 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 (2) A 9. § (4) bekezdése alapján a 2019. évre meghatározandó értéket a Kormány legkésőbb 2018. október 31-ig hagyja jóvá.
 
-#### 49. §
+49. § E törvény 10/F. §-át a 2020. január 1-jét követően megkötendő adósságot keletkeztető ügyletekre kell alkalmazni.
 
 #### 50. §
 

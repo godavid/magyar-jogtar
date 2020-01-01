@@ -77,9 +77,10 @@ meghatározott hatáskörök együttesét kell érteni.
 - b) a szervnél szakmai vezetőként kormányzati szolgálati jogviszonyban álló személyre,
 - c) a szervnél vezetőként közszolgálati jogviszonyban álló személyre,
 - d) a szervvel vezető beosztással rendelkező, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban álló személyre,
-- e) a szervvel vezető beosztással rendelkező, a honvédek jogállásáról szóló törvény szerinti jogviszonyban álló személyre, illetve
+- e) a szervnél vezető beosztással rendelkező, a honvédek jogállásáról szóló törvény szerinti jogviszonyban álló személyre, illetve
 - f) a miniszterelnök közvetlen irányítása alatt álló és kormányrendeletben a központi államigazgatási szervnél irányítási jogkörrel felruházott kormánybiztosra
-- g) ruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
+
+átruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
 
 5/A. § (1) A központi államigazgatási szerv, a miniszter irányítása vagy felügyelete alatt álló központi költségvetési szerv és – ha a miniszter gazdasági társaság felett tulajdonosi jogot, illetve alapítvány tekintetében alapítói jogot gyakorol – az ilyen gazdasági társaság, illetve az ilyen alapítvány a Kormány rendeletében meghatározott esetben és módon átadás-átvételi eljárást folytat le.
 
@@ -313,13 +314,17 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 50. §
 
-51. § (1) Az államtitkár alapilletménye a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. §-a szerinti illetményalap 12-szerese.
+51. § (1) Annak az államtitkárnak az alapilletménye, aki egyidejűleg országgyűlési képviselői mandátumot is betölt, a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. §-a szerinti illetményalap 12-szerese.
 
-(2) Az államtitkár illetménykiegészítésre jogosult, amelynek összege az alapilletmény 50%-a.
+(2) Az (1) bekezdés szerinti államtitkár illetménykiegészítésre jogosult, amelynek összege az alapilletmény 50%-a.
 
-(3) Az államtitkár vezetői illetménypótléka az alapilletmény 65%-a.
+(3) Az (1) bekezdés szerinti államtitkár vezetői illetménypótléka az alapilletmény 65%-a.
 
-(4) Az államtitkár alapilletményét a miniszter át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg.
+(4) Az (1) bekezdés szerinti államtitkár alapilletményét a miniszter át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg.
+
+(5) Az (1) bekezdés hatálya alá nem tartozó államtitkár a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetményre jogosult, amelynek összegét a miniszter állapítja meg.
+
+(6) Az (1)–(5) bekezdés alkalmazásában a miniszter alatt a miniszterelnököt kell érteni, ha az államtitkár tevékenységét a miniszterelnök irányítja.
 
 52. §
 

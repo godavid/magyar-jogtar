@@ -28,7 +28,7 @@ a következő törvényt alkotja:
 
 - a) a gazdaságfejlesztési célok megvalósításához szükséges közép- és hosszú lejáratú hazai és külföldi források, illetőleg támogatások bevonásában és közvetítésében;
 - b) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény hatálya alá tartozó, kiemelt jelentőségű üggyel összefüggő beruházások, valamint egyéb állami, önkormányzati fejlesztések és beruházások (így különösen az infrastrukturális, agrár, környezetvédelmi, munkahelyteremtő, oktatási, turisztikai, sport és szabadidős célú, valamint a strukturális és regionális különbségek kiegyenlítését, illetőleg vidékfejlesztést, a térség- és településfelzárkóztatást szolgáló), továbbá az ezekhez kapcsolódó más fejlesztések, beruházások és mindezek bővítéséhez szükséges fejlesztések, beruházások hitel- és tőkefinanszírozásában;
-- c) a magyarországi székhelyű gazdálkodó szervezetek (ezen belül elsődlegesen a kis- és középvállalkozások), egyházi jogi személyek, valamint törvénnyel létrehozott – elkülönített állami pénzalapnak nem minősülő – vagyonkezelést is végző pénzalapok, továbbá a mezőgazdasági őstermelők és a családi gazdálkodók tevékenységének hitel- és tőkefinanszírozásában;
+- c) a magyarországi székhelyű gazdálkodó szervezetek (ezen belül elsődlegesen a kis- és középvállalkozások), egyházi jogi személyek, valamint törvénnyel létrehozott – elkülönített állami pénzalapnak nem minősülő – vagyonkezelést is végző pénzalapok, továbbá a mezőgazdasági őstermelők és a családi gazdálkodók tevékenységének hitel- és tőkefinanszírozásában, továbbá az ezekben egyéb módon történő fejlesztési célú részesedésszerzésben;
 - d) az európai uniós tagsághoz kapcsolódó állami és önkormányzati fejlesztések, beruházások pénzügyi lebonyolításában, valamint – külön jogszabályban szabályozott eljárás szerint – az Európai Közösség pénzeszközeinek igénybevételéhez kapcsolódó feladatok (ideértve a támogatás közvetítést, illetve a nemzetközi gazdasági vagy pénzügyi intézménytől történő forrásbevonást és közvetítést is) ellátásában;
 - e) az egyes állami, közösségi, illetőleg nemzetközi fejlesztési kifizetésekhez kapcsolódó feladatok (így különösen a fejlesztési célú kiadások, illetőleg támogatások közvetítésének, felhasználásának előkészítését, összehangolását, a kapcsolódó közreműködői feladatok ellátását, valamint a kifizetések felhasználásának elszámolását és értékelését) ellátásában;
 - f) a Kormány határozata alapján 1. az állami és a helyi önkormányzati tulajdonban lévő vagyon értékesítése során, annak megvásárlásához, 2. a lakóépület felújításához a lakásszövetkezet, illetőleg a társasház tulajdonostársainak közössége részére, 3. a magyar állampolgárok, illetőleg legalább egy éve életvitelszerűen Magyarországon tartózkodó természetes személyek fejlesztési beruházásaihoz szükséges hitelek refinanszírozásában;
@@ -118,11 +118,13 @@ finanszírozására nyújthat hitelt, illetve kölcsönt.
 
 (3) Az MFB Zrt. csak
 
-- a) a (2) bekezdésben meghatározott hitelhez, illetőleg kölcsönhöz,
+- a) a (2) bekezdésben meghatározott célú hitelhez, kölcsönhöz, továbbá hitelviszonyt megtestesítő értékpapírhoz,
 - b) támogatáshoz,
 - c) ajánlattételhez,
 - d) szolgáltatás nyújtásához,
-- e) vállalkozási szerződéshez kapcsolódóan vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget.
+- e) vállalkozási szerződéshez
+- f) adásvételi szerződéshez,
+- g) pénzügyi lízinghez kapcsolódóan vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget.
 
 (4) Az MFB Zrt. kizárólag akkor nyújthat hitelt, illetve kölcsönt, valamint csak akkor vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget, ha annak visszafizetése, megtérülése az ügyletre vonatkozó üzleti, pénzügyi tervek alapján biztosított, és/vagy az MFB Zrt. fedezetértékelési szabályzata szerinti mértékű fedezetek a hitelnyújtáskor vagy a későbbiekben rendelkezésre állnak. Ha mindez a 2. § b), c), h) és k) pontjában megjelölt feladatok teljesíthetőségét akadályozza, akkor ezen feladatok teljesítésének kell elsőbbséget biztosítani.
 
@@ -213,7 +215,7 @@ finanszírozására nyújthat hitelt, illetve kölcsönt.
 - c) a 2. §-ban meghatározott feladatainak ellátása érdekében, kormányrendeletben meghatározott, 1990. január 1. napját követően részben vagy egészben közvetlenül vagy közvetve állami, önkormányzati tulajdonban állt gazdálkodó szervezetben és ezek jogutódjaiban,
 - d) közműszolgáltató gazdálkodó szervezetben,
 - e) ingatlanforgalmazó, ingatlankezelő gazdálkodó szervezetben,
-- f) átmenetileg, a szerzés időpontjától számított legfeljebb hatéves időtartamra, pénzügyi szolgáltatásból származó veszteségmérséklés céljából vagy hiteltulajdonrész csereügylet vagy felszámolás következtében korlátolt felelősségű társaságban, részvénytársaságban,
+- f) egyéb módon be nem hajtható követelés ellenértékeként átmenetileg, a szerzés időpontjától számított legfeljebb hatéves időtartamra, pénzügyi szolgáltatásból származó veszteség mérséklése, vagy a közvetlen vagy közvetett részesedésével működő gazdasági társaságok veszteségmérséklése céljából, hiteltulajdonrész csereügylet vagy felszámolás következtében, korlátolt felelősségű társaságban, részvénytársaságban
 - g) a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési tőkefinanszírozás céljából korlátolt felelősségű társaságban, részvénytársaságban,
 - h) az 1. mellékletben meghatározott, valamint a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi CXXVIII. törvény hatálybalépésekor közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetben, valamint
 - i) az MFB Zrt. feletti tulajdonosi jogokat gyakorló miniszter döntésében meghatározott egyéb olyan gazdálkodó szervezetben, amelynek működése az MFB Zrt. 3. § szerinti alaptevékenységéhez kapcsolódik,
@@ -341,18 +343,25 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
 
 18. § (1) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagjaira, alkalmazottaira a Ptk.-ban, a Hpt.-ben és a (2)–(6) bekezdésben meghatározott összeférhetetlenségi szabályokat kell alkalmazni.
 
-(2) Az MFB Zrt. alkalmazottai munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, nevelőszülői foglalkoztatási jogviszony, valamint a (4) bekezdésben meghatározott esetek kivételével – nem létesíthetnek, kivéve ha
+(2) Az MFB Zrt. alkalmazottai munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, nevelőszülői foglalkoztatási jogviszony, valamint a (4) bekezdésben meghatározott esetek kivételével – kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthetnek, kivéve ha
 
 - a) az MFB Zrt. vagy az állam közvetlen vagy közvetett részesedéssel rendelkezik a gazdasági társaságban,
 - b) a gazdasági társasággal szemben, javára vagy érdekében az MFB Zrt. – a 4. § (2) vagy (3) bekezdése szerint –kockázatot vállalt.
 
 (3) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagjai, alkalmazottai pártban tisztséget nem viselhetnek, párt nevében vagy érdekében – az országgyűlési, illetve az önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhatnak.
 
-(4) Az MFB Zrt. alkalmazottja nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelő bizottsági tag, kivéve ha
+(4) Az MFB Zrt. alkalmazottja gazdasági társaságnál vezető tisztségviselői, illetve felügyelő bizottsági tagi jogviszonyt kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, kivéve ha
 
 - a) az MFB Zrt. vagy az állam közvetlen vagy közvetett részesedéssel rendelkezik a gazdasági társaságban,
 - b) helyi önkormányzat közvetlen vagy közvetett többségi részesedéssel rendelkezik a gazdasági társaságban,
 - c) a gazdasági társasággal szemben, javára vagy érdekében az MFB Zrt. – a 4. § (2) vagy (3) bekezdése szerint – kockázatot vállalt.
+
+(4a) A munkáltatói jogkör gyakorlója a (2) és (4) bekezdés szerinti előzetes engedélyt kizárólag abban az esetben adja meg, ha az új jogviszony
+
+- a) a körülmények teljes körű mérlegelése alapján nem veszélyezteti az MFB Zrt. jogos érdekeit, továbbá
+- b) más módon nem akadályozza az alkalmazott MFB Zrt.-vel fennálló munkajogviszonyából eredő feladatai ellátását.
+
+(4b) A munkáltatói jogkör gyakorlója belső szabályzatban a (2) és (4) bekezdés szerinti előzetes engedély feltételeként a (4a) bekezdésben foglaltakon túl egyéb követelményeket is meghatározhat.
 
 (5) Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagja, alkalmazottja köteles haladéktalanul írásban bejelenteni, ha vele szemben az (1)–(4) bekezdésben meghatározott összeférhetetlenségi ok merül fel, illetve, ha munkaviszonyának vagy munkavégzésre irányuló egyéb jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. A bejelentésekről az MFB Zrt. köteles nyilvántartást vezetni.
 
@@ -382,10 +391,10 @@ szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
   - a) beruházás,
   - b) immateriális javak beszerzése, létesítése, saját vállalkozásban történő előállítása,
   - c) tárgyi eszközök és immateriális javak korszerűsítése,
-  - d) beruházáshoz kapcsolódó forgóeszközigény,
+  - d) forgóeszközigény
   - e) a kutatás-fejlesztés-innováció keretében, az Európai Unió vonatkozó szabályozása szerinti tevékenység finanszírozható, valamint
-  - f) a céltársaságnak cégalapítás vagy tőkeemelés végrehajtása útján korlátolt felelősségű társaságban vagy részvénytársaságban történő közvetlen részesedésszerzése finanszírozható, ha az a)–e) pontban foglaltakat közvetlenül a céltársaság részesedésszerzésével érintett korlátolt felelősségű társaság vagy részvénytársaság valósítja meg;
-- 2. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, az egyéni vállalkozó, továbbá a jogszabállyal létrehozott, gazdasági tevékenységet is folytató jogi személy.
+  - f) befektetett pénzügyi eszköz finanszírozható.
+- 2. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, az egyéni vállalkozó, a befektetési alap, továbbá a jogszabállyal létrehozott, gazdasági tevékenységet is folytató jogi személy.
 
 22. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2014. évi LXXIX. törvénnyel megállapított 10/A. §-ban foglaltakat a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2014. évi LXXIX. törvény hatálybalépésekor már megkötött ügyletekre is alkalmazni kell.
 

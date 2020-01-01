@@ -10,15 +10,15 @@ az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New-Yorkban, 1961. m
 
 „Decision 61/1
 
-Inclusion of carfentanil in Schedule I of the Single Convention on Narcotic Drugs of 1961 as amended by the 1972 Protocol
+Inclusion of carfentanil in Schedules I and IV of the Single Convention on Narcotic Drugs of 1961 as amended by the 1972 Protocol
 
-At its 61st session, on 14 March 2018, the Comission on Narcotic Drugs decided to include carfentanil is Schedule I of the 1961 Convention, as amended by the 1972 Protocol.”
+At its 61st session, on 14 March 2018, the Comission on Narcotic Drugs decided to include carfentanil is Schedules I and IV of the 1961 Convention, as amended by the 1972 Protocol.”
 
 „61/1. sz. határozat
 
-A carfentanil felvétele az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe
+A carfentanil felvétele az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. és IV. jegyzékébe
 
-A Kábítószer Bizottság 2018. március 14-én megtartott 61. ülésszakán úgy határozott, hogy a carfentanil-t az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe felveszi.”
+A Kábítószer Bizottság 2018. március 14-én megtartott 61. ülésszakán úgy határozott, hogy a carfentanil-t az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. és IV. jegyzékébe felveszi.”
 
 4. § A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
 
@@ -52,15 +52,15 @@ A Kábítószer Bizottság 2018. március 14-én megtartott 61. ülésszakán ú
 
 „Decision 61/4
 
-Inclusion of acryloylfentanyl in Schedule I of the Single Convention on Narcotic Drugs of 1961 as amended by the 1972 Protocol
+Inclusion of acryloylfentanyl (acrylfentanyl) in Schedule I of the Single Convention on Narcotic Drugs of 1961 as amended by the 1972 Protocol
 
-At its 61st session, on 14 March 2018, the Comission on Narcotic Drugs decided to include acryloylfentanyl is Schedule I of the 1961 Convention, as amended by the 1972 Protocol.”
+At its 61st session, on 14 March 2018, the Comission on Narcotic Drugs decided to include acryloylfentanyl (acrylfentanyl) is Schedule I of the 1961 Convention, as amended by the 1972 Protocol.”
 
 „61/4. sz. határozat
 
-Az acrylfentanyl felvétele az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe
+Az acryloylfentanyl (acrylfentanyl) felvétele az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe
 
-A Kábítószer Bizottság 2018. március 14-én megtartott 61. ülésszakán úgy határozott, hogy az acrylfentanyl-t az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe felveszi.”
+A Kábítószer Bizottság 2018. március 14-én megtartott 61. ülésszakán úgy határozott, hogy az acryloylfentanyl-t (acrylfentanyl) az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe felveszi.”
 
 7. § A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
 

@@ -182,7 +182,7 @@ rendeletben határozza meg.
 
 (5) Ha a pályázat eredménytelen, – a (6) bekezdésben foglaltak kivételével – a kinevező új pályázatot írhat ki, vagy a feltételeknek megfelelő személyt az állásra kinevezi.
 
-(6) A bírósági fogalmazói állásokat nyilvános pályázat útján kell betölteni. A fogalmazói álláspályázatokat a pályázati határidő lejárta után 3 hónapon belül kell elbírálni.
+(6) A bírósági fogalmazói állásokat nyilvános pályázat útján kell betölteni, kivéve, ha az állás betöltésére a 17. § (3) bekezdésének alkalmazásával már kinevezett bírósági fogalmazó áthelyezésével kerül sor. Pályázat esetén a fogalmazói álláspályázatokat a pályázati határidő lejárta után 3 hónapon belül kell elbírálni.
 
 (7) Az OBH elnöke a felvételi versenyvizsga letételétől számított egy évig kezeli és nyilvántartja a fogalmazói állásra pályázók
 
@@ -359,7 +359,7 @@ lehet gyakorolni.
 
 (3) Nem jár végkielégítés, ha az igazságügyi alkalmazott legkésőbb a jogviszony megszűnésének időpontjában nyugdíjasnak minősül.
 
-27/A. § Ha az igazságügyi alkalmazott szolgálati viszonya megszüntetésekor végkielégítésben részesült, a szolgálati viszony megszűnésétől számított tíz hónapon belül újabb igazságügyi alkalmazotti szolgálati viszonyt, ügyészségi szolgálati viszonyt, hivatásos szolgálati jogviszonyt, állami szolgálati jogviszonyt vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 1. és 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
+27/A. § Ha az igazságügyi alkalmazott szolgálati viszonya megszüntetésekor végkielégítésben részesült, a szolgálati viszony megszűnésétől számított tíz hónapon belül újabb igazságügyi alkalmazotti szolgálati viszonyt, ügyészségi szolgálati viszonyt, hivatásos szolgálati jogviszonyt, kormányzati szolgálati jogviszonyt vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 1. és 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
 
 - a) ezt a tényt korábbi munkáltatójának haladéktalanul írásban bejelenti, és
 - b) vállalja, hogy a végkielégítés összegének az új jogviszony létesítéséig a tíz hónapból hátralévő idővel arányos mértékét visszafizeti.
@@ -562,7 +562,7 @@ lehet gyakorolni.
 
 41/B. § (1) A kijelölt titkár nem lehet tagja pártnak, és politikai tevékenységet nem folytathat.
 
-(2) A kijelölt titkár nem lehet országgyűlési vagy önkormányzati képviselő, nemzetiségi szószóló, polgármester, valamint a Kormány tagjai és az államtitkárok jogállásáról és felelősségéről szóló törvény hatálya alá tartozó állami vezető.
+(2) A kijelölt titkár nem lehet országgyűlési vagy önkormányzati képviselő, nemzetiségi szószóló, polgármester, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti politikai felsővezető, közigazgatási államtitkár és helyettes államtitkár.
 
 (3) A kijelölt titkár a tisztsége ellátásán kívül csak tudományos, művészi, irodalmi, oktató- és műszaki alkotó munkát végezhet kereső tevékenységként és nevelőszülői foglalkoztatási jogviszonyban állhat, de ezzel nem veszélyeztetheti függetlenségét és pártatlanságát, illetve nem keltheti annak látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését. A kijelölt titkár e tevékenységek gyakorlásának megkezdését köteles a munkáltatónak előzetesen bejelenteni.
 
@@ -649,7 +649,7 @@ nem haladhatja meg.
 
 (4) A jogszabályban meghatározott egészségkárosító kockázatok között folyó munkavégzéssel járó egyéb munkakörök esetén jogszabály a (3) bekezdésnek megfelelő vagy további korlátozást határozhat meg.
 
-44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. §-a szerinti fizetés nélküli szabadságot vesz igénybe.
+44/A. § (1) A teljes munkaidőben foglalkoztatott igazságügyi alkalmazott írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz óra részmunkaidőt kikötni, ha az igazságügyi alkalmazott a kérelem benyújtásakor a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. § (1) és (2) bekezdése szerinti fizetés nélküli szabadságot vesz igénybe.
 
 (2) A munkáltató az igazságügyi alkalmazottnak a munkaidő egyenlőtlen beosztására vonatkozó kérelmét csak abban az esetben tagadhatja meg, ha az számára lényegesen nagyobb munkaszervezési terhet jelentene. A munkáltató köteles írásban megindokolni a kérelem megtagadását.
 
@@ -660,7 +660,7 @@ nem haladhatja meg.
 
 (4) A kérelmet az (1) bekezdés szerinti fizetés nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatóval közölni. A kérelemben az igazságügyi alkalmazott köteles tájékoztatni a munkáltatót
 
-- a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve betöltésének időpontjáról, továbbá
+- a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke negyedik életéve, három vagy több gyermeket nevelő igazságügyi alkalmazott esetén a gyermeke hatodik életéve betöltésének időpontjáról, továbbá
 - b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztásra vonatkozó javaslatáról.
 
 (5) A (3) bekezdés szerinti időponttól a szolgálati viszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a munkaidő mértékével összefügg.
@@ -668,7 +668,7 @@ nem haladhatja meg.
 (6) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató az igazságügyi alkalmazottat
 
 - a) a kérelem szerinti időpontig, de
-- b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő igazságügyi alkalmazott esetén a gyermek ötéves koráig köteles foglalkoztatni. Ezt követően az igazságügyi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
+- b) legfeljebb a gyermek négyéves koráig, három vagy több gyermeket nevelő igazságügyi alkalmazott esetén a gyermek hatéves koráig köteles foglalkoztatni. Ezt követően az igazságügyi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
 
 (7) Az (1)–(6) bekezdés nem alkalmazható a vezetőre.
 
@@ -1158,8 +1158,8 @@ okozta.
 (4) Részben vagy egészben igazságügyi szolgálati időként lehet figyelembe venni
 
 - a) bírósági titkárnál a kinevezése előtt jogi képesítéshez kötött munkakörben a jogi szakvizsga letételének napjától számított időt,
-- b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, közalkalmazotti, hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony és szolgálati jogviszony idejét,
-- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, közalkalmazotti jogviszony és szolgálati jogviszony idejét.
+- b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, közalkalmazotti, hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
+- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, közalkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét.
 
 (5) A (4) bekezdés alkalmazásakor a beszámítandó időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás az adott év első napjával történjék. A beszámításnál figyelemmel kell lenni a helyes bérarányok fenntartására.
 
@@ -1443,6 +1443,10 @@ okozta.
 (3) 2018. december 31-ig a nem szakirányú felsőfokú iskolai végzettséggel és a munkakörére meghatározott szakirányú felsőfokú szakképesítéssel rendelkező tisztviselőnek a III. fizetési osztályba sorolása során a Módtv. hatálybalépését megelőzően alkalmazott elvek és szempontok alapján kell eljárni.
 
 134/H. § E törvénynek a Módtv.-vel megállapított rendelkezései nem érintik az igazságügyi alkalmazott 2017. évi cafeteria-juttatásra való jogosultságát. A Módtv. hatálybalépését követően létesített igazságügyi alkalmazotti jogviszonyban az e törvény 2017. augusztus 31. napján hatályos rendelkezései szerinti cafeteria-juttatás éves összegének arányos része jár.
+
+134/I. § (1) A közigazgatási és munkaügyi bíróságok 2020. március 31-i megszűnését követően a közigazgatási és munkaügyi bíróságokkal igazságügyi alkalmazotti jogviszonyban állók jogviszonyában általános jogutód a munkavégzés helye szerinti törvényszék.
+
+(2) A közigazgatási és munkaügyi bíróságok 2020. március 31-i megszűnésével a vezetői megbízások megszűnnek.
 
 135. § (1) Felhatalmazást kap a Kormány, hogy az egyéb igazságügyi szerveket rendeletben határozza meg.
 

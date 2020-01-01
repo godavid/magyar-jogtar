@@ -68,13 +68,15 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (2) Az (1) bekezdésben foglaltaktól eltérően nem kell bejelenteni a kizárólag ellenőrzött körülmények között végzett kutatási és fejlesztési célra, kísérleti gyártásra és nem termelőüzemi méretű kipróbálásra gyártott, illetőleg forgalmazott veszélyes anyagokat vagy veszélyes keverékeket. A magyarországi gyártó, illetőleg forgalmazó a rendelkezésre álló, a veszélyesség meghatározása, a tevékenységet végző egészségének biztonsága szempontjából lényeges adatokat és információkat ebben az esetben is köteles a tevékenységet végző rendelkezésére bocsátani. Minden olyan magyarországi gyártónak vagy forgalmazónak, aki (amely) a bejelentés mellőzésével élni kíván, az egészségügyi államigazgatási szerv által hozzáférhető írásbeli nyilvántartást kell vezetnie a gyártott, illetőleg forgalomba hozott veszélyes anyagról vagy veszélyes keverékről, a feliratozási és mennyiségi adatokról. A magyarországi gyártót, illetve forgalmazót a bejelentés mellőzésének lehetősége a gyártástól, illetőleg a forgalomba hozataltól vagy ezek megkezdésétől számított egy évig illeti meg, amely az egészségügyi államigazgatási szerv engedélyével egy évig meghosszabbítható, ha a magyarországi gyártó, illetve forgalmazó a meghosszabbítás szükségességét indokolja.
 
+(3) Az egyes fogyasztói, foglalkozásszerű vagy ipari felhasználásra szánt keverékek (1) bekezdés szerinti bejelentési kötelezettsége a CLP VIII. melléklet A. rész 1. pontjában, az adott felhasználásra vonatkozó alkalmazási időpontot követően megszűnik.
+
 ### Veszélyes anyag bejelentése
 
 7. § (1)–(2)
 
 (3) A veszélyes anyag bejelentésével kapcsolatos valamennyi adatszolgáltatásért, az adatok hitelességéért a bejelentő a felelős. Az egészségügyi államigazgatási szerv a veszélyes anyag egészségügyi kockázataira vonatkozóan – a biztonsági adatlap jogszabályban meghatározott adatkörében – további adatszolgáltatásra hívhatja fel a bejelentőt.
 
-(4) A bejelentés tudomásulvételét az egészségügyi államigazgatási szerv a formai és tartalmi követelményeknek megfelelő bejelentés beérkezésétől számított 15 napon belül elektronikus úton visszaigazolja. A bejelentett veszélyes anyagot az egészségügyi államigazgatási szerv felveszi az 5. § (3) bekezdése szerinti magyarországi jegyzékbe.
+(4) A formai és tartalmi követelményeknek megfelelő bejelentést az egészségügyi államigazgatási szerv elektronikus úton visszaigazolja.
 
 ### Veszélyes keverékek bejelentése
 
@@ -86,7 +88,19 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (4)
 
-(5) A bejelentés tudomásulvételét az egészségügyi államigazgatási szerv a formai és tartalmi követelményeknek megfelelő bejelentés beérkezésétől számított 15 napon belül elektronikus úton visszaigazolja. A bejelentett veszélyes keveréket az egészségügyi államigazgatási szerv felveszi a 23. § szerinti terméknyilvántartásba.
+(5) A formai és tartalmi követelményeknek megfelelő bejelentést az egészségügyi államigazgatási szerv elektronikus úton visszaigazolja.
+
+### Méregközpontba történő bejelentés
+
+8/A. § (1) A CLP 45. cikke alapján, a Magyarország területén forgalomba hozott, egészségre gyakorolt vagy fizikai hatás alapján veszélyesként osztályozott keverékek elektronikus bejelentését az egészségügyi államigazgatási szerv fogadja.
+
+(2) Az (1) bekezdésnek megfelelő fogyasztói, foglalkozásszerű vagy ipari felhasználásra szánt keverékek bejelentését, valamint a bejelentés naprakésszé tételét a CLP VIII. melléklet A. rész 1. pontjában, az adott felhasználásra vonatkozó alkalmazási időpontot követően, a VIII. mellékletben meghatározott formai és tartalmi követelményeknek megfelelően kell benyújtani, az Európai Vegyianyag-ügynökség méregközpont értesítésének portálján keresztül.
+
+(3) A (2) bekezdésben foglaltaktól eltérően, az adott felhasználásra vonatkozó alkalmazási időpontot megelőzően is benyújtható a toxikológiai központi bejelentés a CLP VIII. mellékletében meghatározott formai és tartalmi követelményekkel a méregközpont értesítésének portálján keresztül. A toxikológiai központi bejelentéssel a bejelentőnek a 6. § szerinti veszélyeskeverék-bejelentési kötelezettségét is teljesítettnek kell tekinteni.
+
+(4) A bejelentéssel kapcsolatosan megkövetelt adatok hitelességéért a bejelentő felelős.
+
+(5) Az egészségügyi államigazgatási szerv ellenőrzi a bejelentés tartalmi követelményeknek történő megfelelését. Eredménytelen adatközlés esetén az egészségügyi államigazgatási szerv intézkedik a bejelentés törléséről.
 
 ### A forgalomba hozatalra és a közösségi jegyzékben nem szereplő anyagokkal kapcsolatos adatok felkutatására vonatkozó előírások
 
@@ -205,7 +219,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 25. § (1) A kémiai biztonság irányításának koordinálása, részfeladatainak áttekinthetősége, az egységes és hatékony döntés-előkészítés céljából, a kémiai biztonság biztosításában való aktív nemzeti részvétel elősegítése érdekében tanács működik.
 
-(2) A tanács kidolgozza a kémiai biztonság nemzeti politikáját és programját – beleértve a közoktatási, illetve felsőoktatási intézmények tanulói, magánszemélyek és a szakemberek kémiai biztonsági oktatásának, képzésének rendszerét, módját is –, továbbá koordinálja a nemzeti program végrehajtását.
+(2) A tanács kidolgozza a kémiai biztonság nemzeti politikáját és programját – beleértve a köznevelési intézmények, a szakképző intézmények, illetve felsőoktatási intézmények tanulói, természetes személyek és a szakemberek kémiai biztonsági oktatásának, képzésének rendszerét, módját is –, továbbá koordinálja a nemzeti program végrehajtását.
 
 (3) A tanács javaslattételi, valamint véleményezési joggal részt vesz bármely, a kémiai biztonságot érintő jogszabály, illetőleg hatósági intézkedés előkészítésében, felülvizsgálatában.
 
@@ -235,7 +249,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (2) A bejelentést meg kell ismételni a bejelentő, illetőleg a bejelentett tevékenység azonosításához szükséges bármely adat megváltozása esetén.
 
-(3) A magánszemélyeknek magáncélú, nem foglalkozás körében történő felhasználás céljából veszélyes anyag, illetve veszélyes keverék vásárlását, illetve felhasználását nem kell bejelenteni.
+(3) A természetes személyeknek magáncélú, nem foglalkozás körében történő felhasználás céljából veszélyes anyag, illetve veszélyes keverék vásárlását, illetve felhasználását nem kell bejelenteni.
 
 (4) Az engedély visszavonásáig, illetve érvényességének lejártáig nem kell bejelenteni azt a tevékenységet, amelyet az arra jogosult e törvény hatálybalépésének napján érvényes tevékenységi engedély, illetve országos forgalmazási engedély alapján végez. Az e törvény hatálybalépése előtt kiadott általános tevékenységi engedély, illetőleg országos forgalmazási engedély csak abban az esetben vonható vissza, ha a tevékenység végzése nem felel meg az e törvényben, illetőleg a végrehajtásáról szóló jogszabályokban foglalt feltételeknek.
 
@@ -249,7 +263,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 31/B. §
 
-31/C. § A biocid termék engedélyezésével kapcsolatos eljárásokban az egészségügyi államigazgatási szerv és a szakhatóság az engedélyezési feltételeket egyeztetés alapján állapítja meg.
+31/C. § A biocid termékek hazai engedélyezésére irányuló általános közigazgatási rendtartás szerinti eljárás során nincs helye sommás eljárásnak.
 
 ### A kémiai biztonság hatósági ellenőrzése
 
@@ -292,17 +306,19 @@ végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-33/A. § (1) Szolgáltatási tevékenység keretében egészségügyi kártevőirtó tevékenység az egészségügyi államigazgatási szerv engedélyével végezhető.
+33/A. § (1) A szolgáltató köteles az egészségügyi kártevőirtó tevékenység folytatására irányuló szándékát az egészségügyi államigazgatási szervnek bejelenteni.
 
-(2) Az (1) bekezdés szerinti tevékenységre engedéllyel rendelkezőnek meg kell felelnie az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott egyéb feltételeknek. Az egészségügyi államigazgatási szerv az engedély megadásával egyidejűleg nyilvántartásba veszi a szolgáltatót.
+(2) Az (1) bekezdés szerinti tevékenységet folytató szolgáltatónak meg kell felelnie az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott egyéb feltételeknek. Az egészségügyi államigazgatási szerv a bejelentés alapján nyilvántartásba veszi a szolgáltatót, és a nyilvántartásba vételtől számított 30 napon belül ellenőrzi a szolgáltatónál a folyatni kívánt tevékenység jogszabályoknak való megfelelőségét. A tevékenység gyakorlásának feltétele az egészségügyi államigazgatási szerv megfelelőségi nyilatkozata.
 
 (3) Az (1) bekezdés szerinti tevékenységi körben az a természetes személy járhat el, aki a külön jogszabályban meghatározottak szerinti szakmai továbbképzési kötelezettségének eleget tett.
 
-(4) Az egészségügyi államigazgatási szerv az egészségügyi kártevőirtó tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet, amely – ha az engedélyes egyéni vállalkozó – tartalmazza az engedélyes természetes személyazonosító adatait, továbbá a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag az e tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(4) Az egészségügyi államigazgatási szerv az egészségügyi kártevőirtó tevékenységet folytató szolgáltatókról nyilvántartást vezet, amely – ha a szolgáltató egyéni vállalkozó – tartalmazza a szolgáltató természetes személyazonosító adatait, továbbá a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag az e tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 (4a) A nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadhatók, és a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók.
 
 (5) Az (1)–(3) bekezdés alkalmazásában egészségügyi kártevőirtó tevékenységnek minősül a külön jogszabályban meghatározott olyan tevékenység, amely egészségügyi kártevők irtására vagy külön jogszabályban meghatározott növényvédelmi célú kártevőirtásra irányul, és a külön jogszabály szerinti szakképesítéssel végezhető.
+
+(6) Az egészségügyi államigazgatási szerv a szolgáltató adataiban történt változás bejelentését követő 15 napon belül a kártevőirtó tevékenység ellátását megtiltja, ha annak jogszabályban meghatározott feltételei már nem állnak fenn.
 
 34. § (1) Ez a törvény – a (2) bekezdés kivételével – 2001. január 1. napján lép hatályba.
 
@@ -335,7 +351,7 @@ részletes szabályait rendeletben meghatározza.
 - a) az egészségügyért felelős miniszter, hogy
   - aa) a veszélyes anyagok, illetve a veszélyes keverékek osztályba sorolásához szükséges R és S mondatok, R és S számok, továbbá a veszélyszimbólumok és jelek körét;
   - ab) az e törvényben meghatározott eljárások során használt bejelentőlap, mérgezési eset bejelentő lap tartalmi és formai követelményeit,
-  - ac) az egészségügyi kártevőirtó szerekkel, valamint gázosítószerekkel végzett tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint az egészségügyi kártevőirtó szerekkel, valamint gázosítószerekkel tevékenységet végző természetes személyek szakmai továbbképzésére vonatkozó szabályokat,
+  - ac) az egészségügyi kártevőirtó szerekkel, valamint gázosítószerekkel végzett tevékenység folytatásának részletes feltételeit, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint az egészségügyi kártevőirtó szerekkel, valamint gázosítószerekkel tevékenységet végző természetes személyek szakmai továbbképzésére vonatkozó szabályokat,
   - ad) a csomagolás, a feliratozás (címkézés) részletes szabályait,
   - ae)
   - af) a vegyi anyagok okozta mérgezési esetek kötelező bejelentésének szabályait,
@@ -366,7 +382,7 @@ rendeletben meghatározza.
 
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a foglalkoztatáspolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a munkavállalók egészségének védelme érdekében korlátozandó veszélyes anyagok, veszélyes keverékek, illetve tevékenységek körét, valamint a korlátozás módját.
 
-(7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a veszélyes anyaggal, illetve veszélyes keverékkel munkahelyen végzett tevékenység kémiai biztonsági szabályait.
+(7)
 
 35. § (1) Ez a törvény a végrehajtására kiadott rendeletekkel együtt a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -389,4 +405,5 @@ rendeletben meghatározza.
 - a) a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i, 1907/2006/EK európai parlamenti és tanácsi rendelet,
 - b) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i, 1272/2008/EK európai parlamenti és tanácsi rendelet, és
 - c) a biocid termékek forgalmazásáról és felhasználásáról szóló, 2012. május 22-i, 528/2012/EU európai parlamenti és tanácsi rendelet
-- d) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+- d) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
+- e) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK európai parlamenti és tanácsi rendeletnek egy, az egészséget érintő vészhelyzetre való reagálással kapcsolatos harmonizált információkról szóló melléklet hozzáadásával történő módosításáról szóló 2017. március 22-i (EU) 2017/542 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.

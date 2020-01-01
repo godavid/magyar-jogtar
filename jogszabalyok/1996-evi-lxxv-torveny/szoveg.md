@@ -57,7 +57,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 (3) Különös hatáskörű munkaügyi hatóság:
 
 - a) a bányafelügyelet, a bányászatról szóló 1993. évi XLVIII. törvény hatálya alá tartozó bányavállalkozók és bányaüzemek, illetve a bányafelügyelet felügyelete alá tartozó tevékenységek vonatkozásában;
-- b) a honvédelmi munkaügyi hatóság, a honvédelmi szervezet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, ideiglenes építési munkahely, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó honvédségi szervezetnek nem minősülő köznevelési intézmény, valamint azon gazdasági társaságok vonatkozásában, amelyeknél az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja;
+- b) a honvédelmi munkaügyi hatóság a honvédelmi szervezetnél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél, ideiglenes építési munkahelynél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó honvédségi szervezetnek nem minősülő köznevelési intézménynél, azon gazdasági társaságok vonatkozásában, amelyeknél az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál;
 - c) a rendvédelmi munkaügyi hatóság, a rendvédelmi szervek – a d) pontban meghatározott szervek kivételével – és az önkormányzati tűzoltóság vonatkozásában,
 - d) a büntetés-végrehajtási munkaügyi hatóság, a büntetés-végrehajtási intézetekben fogvatartottak munkavégzése vonatkozásában.
 
@@ -262,14 +262,14 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 (2) A központi költségvetésbe történő befizetés mértéke
 
 - a) első alkalommal megállapított engedély nélkül történő foglalkoztatás esetén az engedély nélkül alkalmazott harmadik országbeli állampolgár részére a foglalkoztatás megkezdésétől az engedély nélküli foglalkoztatás megállapításáig kifizetett munkabér (munkadíj) négyszeresének, de legalább a kötelező legkisebb munkabér (a továbbiakban: minimálbér) nyolcszorosának,
-- b) a korábbi engedély nélküli foglalkoztatást megállapító határozat jogerőre emelkedésétől számított három éven belül megállapított ismételt engedély nélküli foglalkoztatás esetén a harmadik országbeli állampolgár részére a folyamatos foglalkoztatása megkezdésétől az engedély nélküli foglalkoztatás ismételt megállapításáig kifizetett munkabér (munkadíj) nyolcszorosának, de legalább a minimálbér tizenötszörösének
+- b) a korábbi engedély nélküli foglalkoztatást megállapító határozat véglegessé válásától számított három éven belül megállapított ismételt engedély nélküli foglalkoztatás esetén a harmadik országbeli állampolgár részére a folyamatos foglalkoztatása megkezdésétől az engedély nélküli foglalkoztatás ismételt megállapításáig kifizetett munkabér (munkadíj) nyolcszorosának, de legalább a minimálbér tizenötszörösének
 
 megfelelő összeg.
 
 (3) Természetes személy foglalkoztató (ideértve az őstermelőt is) által nem egyéni vállalkozás keretében foglalkoztatott harmadik országbeli állampolgár engedély nélkül történő foglalkoztatása esetén a természetes személy foglalkoztatót a (2) bekezdésben foglaltaktól eltérően
 
 - a) első alkalommal megállapított engedély nélkül történő foglalkoztatás esetén a minimálbér kétszeresének,
-- b) a korábbi engedély nélküli foglalkoztatást megállapító határozat jogerőre emelkedésétől számított három éven belül megállapított ismételt jogsértés esetén a minimálbér négyszeresének
+- b) a korábbi engedély nélküli foglalkoztatást megállapító határozat véglegessé válásától számított három éven belül megállapított ismételt jogsértés esetén a minimálbér négyszeresének
 
 megfelelő összeg terheli.
 
@@ -410,7 +410,7 @@ végleges közigazgatási határozattal megállapította.
 - a) a (2) bekezdés szerinti megkeresés alapján kezdeményezi a részére megküldött határozatban megállapított pénzügyi szankció behajtását, vagy
 - b) megküldi az (1) bekezdés szerinti intézkedés céljából a munkaügyi bírságot kiszabó végleges határozatot, valamint minden, a bírság behajtásához kapcsolódó dokumentumot, ideértve a behajtás iránti megkeresés végrehajtásának jogalapjául és jogcíméül szolgáló ítéletet vagy végleges határozatot, vagy annak hiteles másolatát.
 
-(5) A (2) bekezdés szerinti megkeresésének a munkaügyi hatóság akkor tesz eleget, ha a megkeresés tartalmaz minden, a pénzügyi szankció, illetve bírság behajtásához kapcsolódó dokumentumot, ideértve a behajtás iránti megkeresés végrehajtásának jogalapjául és jogcíméül szolgáló ítéletet vagy jogerős határozatot, vagy annak hiteles másolatát.
+(5) A (2) bekezdés szerinti megkeresésének a munkaügyi hatóság akkor tesz eleget, ha a megkeresés tartalmaz minden, a pénzügyi szankció, illetve bírság behajtásához kapcsolódó dokumentumot, ideértve a behajtás iránti megkeresés végrehajtásának jogalapjául és jogcíméül szolgáló ítéletet vagy végleges határozatot, vagy annak hiteles másolatát.
 
 (6) Az (1) bekezdés szerinti megkeresésre, illetve a (2) bekezdés szerinti megkeresés teljesítésének kezdeményezésére csak akkor kerülhet sor, ha a munkaügyi hatóság vagy a más EGT-állam megkereső hatósága a saját állama törvényeivel, rendeleteivel és közigazgatási gyakorlatával összhangban nem tudja biztosítani a szankció, illetve bírság behajtását, vagy teljesíteni a megküldést.
 
@@ -499,7 +499,7 @@ adja át a munkaügyi hatóság részére.
 
 (5a) Felhatalmazást kap a Kormány, hogy a büntetés-végrehajtási intézetekben fogvatartottak tekintetében rendeletben jelölje ki a büntetés-végrehajtási munkaügyi hatósági jogkör gyakorlóját.
 
-(5b) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a munkaügyi hatósági jogkör gyakorlóját a honvédelmi szervezetnél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél és ideiglenes építési munkahelynél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó honvédségi szervezetnek nem minősülő köznevelési intézménynél, valamint azon gazdasági társaságok vonatkozásában, amelyeknél az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja (a továbbiakban együtt: honvédelmi foglalkoztatók), továbbá arra, hogy a honvédelmi foglalkoztatók tekintetében a munkaügyi ellenőrzés eljárási szabályait rendeletben határozza meg.
+(5b) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a munkaügyi hatósági jogkör gyakorlóját a honvédelmi szervezetnél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél és ideiglenes építési munkahelynél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó honvédségi szervezetnek nem minősülő köznevelési intézménynél, azon gazdasági társaságok vonatkozásában, amelyeknél az államot megillető tulajdonosi jogokat és kötelezettségeket, továbbá a honvédelemért felelős miniszter gyakorolja, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál (a továbbiakban együtt: honvédelmi foglalkoztatók), továbbá arra, hogy a honvédelmi foglalkoztatók tekintetében a munkaügyi ellenőrzés eljárási szabályait rendeletben határozza meg.
 
 (6) Felhatalmazást kap
 
@@ -515,7 +515,7 @@ adja át a munkaügyi hatóság részére.
 
 - a) a Tanács 1993. november 23-i 93/104/EK irányelve a munkaidő-szervezés egyes szempontjairól a Munka Törvénykönyve irányadó rendelkezéseivel együtt;
 - b) a Tanács 1975. február 10-i irányelve a férfiak és a nők egyenlő díjazása elvének alkalmazására vonatkozó tagállami jogszabályok közelítéséről a Munka Törvénykönyve irányadó rendelkezéseivel együtt;
-- c) a Tanács 1976. február 9-i 76/207/EGK irányelve a férfiak és a nők közötti egyenlő bánásmód elvének a munkavállalás, a szakképzés, az előmenetel és a munkakörülmények terén történő végrehajtásáról, a Munka Törvénykönyve, a szakképzésről szóló 1993. évi LXXI. törvény, valamint az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény irányadó rendelkezéseivel együtt;
+- c) a Tanács 1976. február 9-i 76/207/EGK irányelve a férfiak és a nők közötti egyenlő bánásmód elvének a munkavállalás, a szakképzés, az előmenetel és a munkakörülmények terén történő végrehajtásáról, a Munka Törvénykönyve, a szakképzésről szóló törvény, valamint az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény irányadó rendelkezéseivel együtt;
 - d) a Tanács 1991. október 14-i 91/533/EGK irányelve a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről a Munka Törvénykönyve irányadó rendelkezéseivel együtt;
 - e) a Tanács 1992. október 19-i 92/85/EGK irányelve a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről a Munka Törvénykönyve, valamint a munkavédelemről szóló törvény irányadó rendelkezéseivel együtt;
 - f) a munkavállalók szolgáltatások nyújtása esetén történő kiküldetéséről szóló, az Európai Parlament és a Tanács 1996. december 16-i 96/71/EK irányelve a munka törvénykönyve és a munkavédelemről szóló törvény irányadó rendelkezéseivel együtt;
@@ -664,7 +664,7 @@ I. A végrehajtandó követeléssel kapcsolatos információk
 
 4. A végrehajtandó határozattal kapcsolatos információk:
 
-4.1. Az elsőfokú, valamint a jogerős és végrehajtható határozatot hozó szerv megjelölése, a határozat iktatószáma
+4.1. Az elsőfokú, valamint a végleges és végrehajtható határozatot hozó szerv megjelölése, a határozat iktatószáma
 
 4.2. A végrehajthatóvá válás időpontja
 

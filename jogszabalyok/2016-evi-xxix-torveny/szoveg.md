@@ -71,9 +71,9 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 
 (3) Ha az igazságügyi szakértő a (2) bekezdés szerinti alkalmazottként vagy az igazságügyi szakértői intézmény vagy igazságügyi szakértői intézet, igazságügyi szakértői testület vagy szervezet nevében jár el, tevékenységét
 
-- a) a társaság, szolgáltató vagy szervezet alkalmazásában álló igazságügyi szakértő a munka törvénykönyve szerinti munkaviszonyban, a Polgári Törvénykönyv szerinti megbízási jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, az állami tisztviselőkről szóló törvény szerinti állami szolgálati jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban,
+- a) a társaság, szolgáltató vagy szervezet alkalmazásában álló igazságügyi szakértő a munka törvénykönyve szerinti munkaviszonyban, a Polgári Törvénykönyv szerinti megbízási jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban,
 - b) az igazságügyi szakértői testület nevében eljáró igazságügyi szakértő – jogszabály eltérő rendelkezése hiányában – a Polgári Törvénykönyv szerinti megbízási jogviszonyban vagy
-- c) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény (a továbbiakban: Iasz.) szerint egyéb igazságügyi szervnek minősülő igazságügyi szakértői intézmény esetében az Iasz. szerinti szolgálati jogviszonyban; egyéb igazságügyi szakértői intézmény vagy igazságügyi szakértői intézet nevében eljáró igazságügyi szakértő az Iasz. szerinti szolgálati jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, az állami tisztviselőkről szóló törvény szerinti állami szolgálati jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban
+- c) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény (a továbbiakban: Iasz.) szerint egyéb igazságügyi szervnek minősülő igazságügyi szakértői intézmény esetében az Iasz. szerinti szolgálati jogviszonyban vagy – a 30. § (7) bekezdése szerinti esetben – a Polgári Törvénykönyv szerinti megbízási jogviszonyban; egyéb igazságügyi szakértői intézmény vagy igazságügyi szakértői intézet nevében eljáró igazságügyi szakértő az Iasz. szerinti szolgálati jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban
 
 (a továbbiakban együtt: munkavégzésre irányuló jogviszony) végezheti.
 
@@ -121,7 +121,7 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 - a) jogszabály egyenértékűnek ismer vagy ismert el, vagy
 - b) az a) pontban foglaltak hiányában a névjegyzéket vezető hatóság egyenértékűnek ismer el.
 
-(2) Az (1) bekezdés a) pontjában foglaltak kivételével a képesítés egyenértékűségének megállapítása érdekében az igazságügyi szakértői névjegyzéket vezető hatóság – szükség esetén – szakvéleményt is beszerezhet.
+(2) Az (1) bekezdés a) pontjában foglaltak kivételével a képesítés egyenértékűségének megállapítása érdekében az igazságügyi szakértői névjegyzéket vezető hatóság kikérheti a feladat- és hatáskörében érintett költségvetési szerv véleményét vagy a (3) bekezdés szerinti szakvéleményt is beszerezhet.
 
 (3) A képesítés megfelelőségének vizsgálatára a névjegyzéket vezető hatóság bizottságot kérhet fel (a továbbiakban e § alkalmazásában: bizottság). A bizottság szakértőként jogosult eljárni, tevékenységéért díjazás nem illeti meg. A bizottság tagjai a névjegyzéket vezető hatóságtól függetlenek, feladatkörükben nem utasíthatók. A bizottság elnökét a miniszter jelöli ki. A bizottság további tagja az oktatásért felelős miniszter és a Kamara által kijelölt egy-egy személy.
 
@@ -168,9 +168,9 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 
 11. § (1) Az igazságügyi szakértő 1. mellékletben meghatározott adatait és a tevékenységével kapcsolatos egyes tényeket a névjegyzék tartalmazza. A névjegyzék vezetésének és a névjegyzékkel összefüggő adatszolgáltatás szabályait a Kormány rendeletben állapítja meg.
 
-(2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1.–1.5., 1.7.–1.8., 1.11., 1.13., pontjában, valamint 1.18.1. és 1.18.2. alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1.–1.5., 1.7.–1.8., 1.11., 1.13., pontjában, 1.18.1. és 1.18.2. alpontjában, valamint 1.22. és 1.23. pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) Az 1. melléklet 1.12.1. és 1.12.3.–1.12.5. alpontja szerint nyilvántartott igazságügyi szakértőnek az 1. melléklet 1.1., 1.6.–1.9. pontjaiban, 1.10.1. alpontjában, 1.11. pontjában, 1.12.4. és 1.12.5. alpontjában, 1.13. pontjában, 1.16. és 1.17. pontjában, valamint 1.19.–1.22. és 1.23. pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a kormányzati portálon közzéteszi.
+(3) Az 1. melléklet 1.12.1. és 1.12.3.–1.12.5. alpontja szerint nyilvántartott igazságügyi szakértőnek az 1. melléklet 1.1., 1.6.–1.9. pontjaiban, 1.10.1. alpontjában, 1.11. pontjában, 1.12.4. és 1.12.5. alpontjában, 1.13. pontjában, 1.17. pontjában, valamint 1.19.–1.22. és 1.23. pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a kormányzati portálon közzéteszi.
 
 (4) A névjegyzék (3) bekezdésben fel nem sorolt adatai nem nyilvánosak, azokról csak törvényben foglalt esetben, az arra jogosult részére adható tájékoztatás. A névjegyzéket vezető hatóság az 1. melléklet 1.10.2. és 1.10.3. alpontjában, valamint 1.15. pontjában foglalt adatok kivételével a nyilvántartás adatait a Kamara részére átadja, azokat a Kamara e törvény rendelkezései szerint nyilvántartja és kezeli.
 
@@ -192,11 +192,11 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 
 - a) azt az igazságügyi szakértő kéri,
 - b) a névjegyzékbe való felvétel feltételei – ide nem értve az 5. § (3) bekezdés a) pontjában meghatározott feltételt – már a felvételkor sem álltak fenn, vagy utóbb megszűntek, illetve az igazságügyi szakértő a szakértői esküt a 10. § (1) bekezdésében foglaltak szerint nem teszi le,
-- c) a névjegyzékben szereplő adatok változását, a Kormány rendeletében meghatározott módon, ismételt felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után, szándékosan nem jelenti be,
+- c) a névjegyzékben szereplő adatok változását, a Kormány rendeletében meghatározott módon, ismételt felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után nem jelenti be,
 - d) az igazságügyi szakértő hatósági kirendelésre történő szakvélemény nyújtásával egy évet elérő késedelembe esett,
 - e) az 5. § (2) bekezdés f) pontjában meghatározott kötelezettségének felhívás ellenére ismételten nem tesz eleget,
-- f) azon statisztikai adatokat, amelyeket e törvény alapján a Kamara részére szolgáltatni köteles, két egymást követő negyedévben határidőben nem szolgáltatja,
-- g) az igazságügyi szakértő negyedévente esedékes statisztikai adatszolgáltatást két éven belül három alkalommal elmulasztja, vagy az általa szolgáltatott adatok eltérnek a szakértő nyilvántartásában szereplő adatoktól,
+- f) azon statisztikai adatokat, amelyeket e törvény alapján a Kamara részére szolgáltatni köteles, a naptári év tekintetében határidőben nem szolgáltatja,
+- g) az igazságügyi szakértő a naptári év első három negyedévében esedékes statisztikai adatszolgáltatást két éven belül három alkalommal elmulasztja, vagy az általa szolgáltatott adatok eltérnek a szakértő nyilvántartásában szereplő adatoktól,
 - h) az e törvény alapján fennálló képzési kötelezettségének határidőben nem tett eleget,
 - i) kamarai tagsága
   - ia) kizárás útján,
@@ -210,8 +210,8 @@ megszűnt, vagy
 (2) Ha a névjegyzékből történő törlésre
 
 - a) az (1) bekezdés i) pont ia) alpontja alapján került sor, az igazságügyi szakértő a határozat véglegessé válásától vagy jogerőre emelkedésétől számított öt éven belül,
-- b) az (1) bekezdés d), e) és g) pontja alapján kerül sor, az igazságügyi szakértő a határozat véglegessé válásától vagy jogerőre emelkedésétől számított két éven belül vagy
-- c) az (1) bekezdés c), f) és h) pontja, vagy i) pontjának ib) és ic) alpontja alapján kerül sor, a határozat véglegessé válásától vagy jogerőre emelkedésétől számított egy éven belül
+- b) az (1) bekezdés d) vagy e) pontja alapján kerül sor, az igazságügyi szakértő a határozat véglegessé válásától vagy jogerőre emelkedésétől számított két éven belül vagy
+- c) az (1) bekezdés c), f)–h) pontja, vagy i) pont ib) alpontja alapján kerül sor, az igazságügyi szakértő a határozat véglegessé válásától vagy jogerőre emelkedésétől számított egy éven belül
 
 a névjegyzékbe nem vehető fel.
 
@@ -220,6 +220,8 @@ a névjegyzékbe nem vehető fel.
 (4) Az (1) bekezdés f) és g) pontja szerinti törlési ok fennállását a névjegyzéket vezető hatóság az 54. § szerinti eljárásban állapítja meg.
 
 (5) Az (1) bekezdés j) pontja esetén a névjegyzéket vezető hatóság a névjegyzékbe a halál tényét hivatalból bejegyzi, és ezzel egyidejűleg az igazságügyi szakértőt a névjegyzékből törli.
+
+(6) Ha az igazságügyi szakértő névjegyzékből való törlésére az (1) bekezdés a), c), f)–h) pontja, vagy i) pont ib) vagy ic) alpontja alapján került sor, a névjegyzékbe való felvétel iránti újabb kérelme esetén az 5. § (2) bekezdés c) pontjában megjelölt kötelező szakértőjelölti jelölti időt vagy szakértőjelöltként kötelező szakmai közreműködőként elvégzett ügyszámot nem kell igazolnia.
 
 14. § Ha az igazságügyi szakértő
 
@@ -265,22 +267,20 @@ tartja nyilván, illetve kezeli.
 - g) az igazságügyi szakértő munkája során segédszemélyzet, szakkonzultáns, illetve szakértőjelölt közreműködését igénybe vette-e és
 - h) az igazságügyi szakértőre vonatkozó jogszabályi előírásoknak, kamarai és egyéb szakmai szabályzatoknak az adott szakterületen kiadott szakértői módszertani leveleknek (a továbbiakban: módszertani levél) az igazságügyi szakértő eljárása megfelelt-e.
 
-(4) Az igazságügyi szakértő munkáját abból a szempontból is szükséges vizsgálni, hogy az általa adott szakvélemény mennyiben volt felhasználható a hatóság eljárásában. A szakvélemény felhasználhatóságát alapvetően nem érinti, ha a hatóság döntését más szakvéleményre vagy egyéb bizonyítékra alapította, és a később beszerzett bizonyíték igénybevételét nem az igazságügyi szakértő szakvéleményének fogyatékosságai indokolták.
+(4)
 
-18. § (1) A névjegyzékbe felvett igazságügyi szakértő tevékenységét a névjegyzékbe történő felvételt követő második évben, legkésőbb az igazságügyi szakértő névjegyzékbe történő felvételt követő tizennyolc hónapon belül, ezt követően pedig ötévente értékelni kell.
+18. § (1) Az igazságügyi szakértő tevékenységét értékelni kell, ha
 
-(2) Soron kívül értékelni kell az igazságügyi szakértő tevékenységét, ha
+- a) az igazságügyi szakértő ezt maga kéri, vagy
+- b) az 55. § (3) bekezdésében meghatározottak szerint a névjegyzéket vezető hatóság ezt kezdeményezi.
 
-- a) az igazságügyi szakértő ezt maga kéri vagy
-- b) az 55. § (3) bekezdésében meghatározottak szerint a névjegyzéket vezető hatóság jelzésére kerül sor.
+(2) Az igazságügyi szakértő tevékenységének szakmai értékelését az (1) bekezdésben meghatározottakon kívül más nem kérheti.
 
-(3) Az igazságügyi szakértő tevékenységének szakmai értékelését a (2) bekezdésben meghatározott személyi körön kívül más nem kérheti.
+(3) Ha az igazságügyi szakértő szakmai értékelését az (1) bekezdés a) pontja szerint maga kéri, köteles a miniszter rendeletében meghatározott díjat megfizetni.
 
-(4) Ha az igazságügyi szakértő szakmai értékelését a (2) bekezdés a) pontja szerint maga kéri, köteles ezért a miniszter rendeletében meghatározott díjat megfizetni.
+19. § (1) Az értékelést megalapozó vizsgálatot a minőségbiztosítási bizottság a 18. § (1) bekezdés a) pontja szerinti esetben a miniszter rendeletében meghatározott díj Kamara részére történő megfizetését, a 18. § (1) bekezdés b) pontja szerinti esetben a névjegyzéket vezető hatóság erre irányuló megkeresését követően haladéktalanul, de legfeljebb nyolc napon belül elrendeli.
 
-19. § (1) Az értékelést megalapozó vizsgálat elrendelésére a Kamara minőségbiztosítási bizottsága jogosult. A 18. § (2) bekezdése szerinti esetekben a minőségbiztosítási bizottság az értékelést megalapozó vizsgálatot köteles elrendelni. A rendszeres értékelést megalapozó vizsgálatot a minőségbiztosítási bizottság hivatalból rendeli el.
-
-(2) A minőségbiztosítási bizottság a vizsgálat lefolytatására háromtagú szakmai értékelő tanácsot jelöl ki. A szakmai értékelő tanácsot a minőségbiztosítási bizottság egy tagja vezeti; a szakmai értékelő tanács további két tagját az értékeléssel érintett szakterületen alapított szakmai tagozatból, elsősorban a miniszter rendeletében meghatározott külön minősítéssel rendelkező igazságügyi szakértők közül kell kijelölni. Amennyiben az igazságügyi szakértő tevékenységét több szakterületen végzi, minden szakterülettel további egy tanácstagot kell kijelölni, az adott szakterületen érintett tagozatból.
+(2) A minőségbiztosítási bizottság a vizsgálat elrendelésével egyidejűleg, annak lefolytatására legalább háromtagú szakmai értékelő tanácsot jelöl ki. A szakmai értékelő tanácsot a minőségbiztosítási bizottság egy tagja vezeti; a szakmai értékelő tanács további két tagját az értékeléssel érintett szakterületen alapított szakmai tagozatból kell kijelölni. Amennyiben az igazságügyi szakértő tevékenységét több szakterületen végzi, minden szakterülettel további egy tanácstagot kell kijelölni, az adott szakterületen érintett tagozatból.
 
 (3) Az értékelést megalapozó vizsgálatról a jegyzőkönyvet a főtitkár által kijelölt jegyzőkönyvvezető vezeti.
 
@@ -290,7 +290,7 @@ tartja nyilván, illetve kezeli.
 
 (6)
 
-20. § (1) Az értékelést megalapozó vizsgálatot az elrendeléstől számított harminc napon belül le kell folytatni, és az értékelést a befejezéstől számított tizenöt napon belül kell elvégezni.
+20. § (1) Az értékelést megalapozó vizsgálatot az elrendeléstől számított negyvenöt napon belül le kell folytatni, és az értékelést a befejezéstől számított tizenöt napon belül kell elvégezni.
 
 (2) Az értékelést megalapozó vizsgálat során a szakmai értékelő tanács az igazságügyi szakértő
 
@@ -319,9 +319,9 @@ minősítést kap.
 
 (3) A határozatot és az igazságügyi szakértő értékelését kézbesíteni kell az értékelt igazságügyi szakértőnek és a névjegyzéket vezető hatóságnak. A névjegyzéket vezető hatóság az értékelés eredményeként a (2) bekezdés a) és b) pontjában foglaltakat a névjegyzékbe bejegyzi.
 
-(4) A névjegyzékbe bejegyzett, de még nem értékelt igazságügyi szakértő esetén a névjegyzékben az értékelés hiányára kell utalni.
+(4)
 
-(5) Alkalmatlan minősítés esetén a minőségbiztosítási bizottság kezdeményezi az igazságügyi szakértő Kamarából történő kizárását. A kizárás kérdésében a Kamara elnöksége (a továbbiakban: elnökség) határoz. Az elnökség a kizárás kérdésében hozott határozatát kézbesíti az értékelt igazságügyi szakértőnek és a névjegyzéket vezető hatóságnak. A névjegyzéket vezető hatóság az igazságügyi szakértőt a miniszter rendeletében meghatározott eljárás lefolytatásával a névjegyzékből törli.
+(5) Alkalmatlan minősítés esetén a minőségbiztosítási bizottság kezdeményezésére a Kamara elnöksége (a továbbiakban: elnökség) az igazságügyi szakértőt a Kamarából kizárja. Az elnökség a kizárás kérdésében hozott határozatát kézbesíti az értékelt igazságügyi szakértőnek és a névjegyzéket vezető hatóságnak.
 
 (6) A szakmai értékelő tanács elnöke
 
@@ -522,11 +522,13 @@ minősítést kap.
 
 (2) A szakértő statisztikai adatszolgáltatás keretében köteles a nyilvántartása alapján az általa nyilvántartott adatok közül, a miniszter rendeletében meghatározott adatokat a Kamara részére negyedévente a miniszter rendeletében meghatározottak szerint megküldeni.
 
-(3) A Kamara a névjegyzéket vezető hatóság részére a miniszter rendeletében meghatározott módon és esetekben megküldi a szakértő által a statisztikai adatszolgáltatás keretében megküldött adatokat.
+(3) A Kamara a névjegyzéket vezető hatóság részére a miniszter rendeletében meghatározott módon és esetekben megküldi a szakértő által a statisztikai adatszolgáltatás keretében részére megküldött vagy nála keletkezett adatokat.
 
 (4) A szakértő köteles adattovábbítási nyilvántartást vezetni, amelynek adattartalmára vonatkozó részletes szabályokat a miniszter rendeletben állapítja meg. A szakértő az általa vezetett adattovábbítási nyilvántartás adatait az adattovábbítástól számított tíz évig köteles megőrizni.
 
 44. § (1) A szakértő a névjegyzékben szereplő elérhetőségi címén köteles a küldemények átvételét biztosítani.
+
+(1a) A szakértő köteles az ügyintézési rendelkezések nyilvántartásába bejelenteni az elektronikus ügyintézés általános szabályairól szóló törvény szerinti hivatalos elérhetőségét. A Kamara által az e bekezdés szerinti elérhetőségre küldött küldemény kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. § (4) bekezdését alkalmazni kell.
 
 (2) Ha a szakértő az elektronikus kapcsolattartást vállalja, a névjegyzéket vezető hatóság az elektronikus kapcsolattartáshoz szükséges azonosító adatokat a hatóság részére átadja.
 
@@ -604,7 +606,7 @@ minősítést kap.
 
 (9) A szakértő az elektronikus kapcsolattartás keretében benyújtott szakvéleményben köteles nevét és nyilvántartási számát feltüntetni, és azt elektronikus úton, külön jogszabályban meghatározott biztonságos elektronikus kézbesítési szolgáltatás útján kézbesíteni.
 
-48. § (1) A társaság tagja vagy alkalmazottja, illetve az igazságügyi szakértői intézmény vagy igazságügyi szakértői intézet alkalmazottja a szakvéleményt a saját szakmai felelőssége mellett, a társaság, az igazságügyi szakértői intézmény vagy az igazságügyi szakértői intézet nevében adja. A szakvéleményt az igazságügyi szakértő írja alá, a szakvéleményben fel kell tüntetni a szakvéleményt készítő igazságügyi szakértő nevét és szakterületét. Az igazságügyi szakértői intézmény vagy az igazságügyi szakértői intézet alkalmazottja az igazságügyi szakértői intézmény vagy az igazságügyi szakértői intézet bélyegzőjét használja.
+48. § (1) A társaság tagja vagy alkalmazottja, illetve az igazságügyi szakértői intézmény vagy igazságügyi szakértői intézet alkalmazottja vagy a nevében eljáró igazságügyi szakértő a szakvéleményt a saját szakmai felelőssége mellett, a társaság, az igazságügyi szakértői intézmény vagy az igazságügyi szakértői intézet nevében adja. A szakvéleményt az igazságügyi szakértő írja alá, a szakvéleményben fel kell tüntetni a szakvéleményt készítő igazságügyi szakértő nevét és szakterületét. Az igazságügyi szakértői intézmény vagy az igazságügyi szakértői intézet alkalmazottja az igazságügyi szakértői intézmény vagy az igazságügyi szakértői intézet bélyegzőjét használja.
 
 (2) Az (1) bekezdés rendelkezései irányadóak arra az esetre is, ha az igazságügyi szakértői intézmény alkalmazásában álló igazságügyi szakértő természetes személyként kerül kirendelésre.
 
@@ -702,11 +704,11 @@ minősítést kap.
 - c) a 45. § (4) bekezdésében foglalt kötelességét határidőben nem teljesítette, emiatt az eljárás elhúzódott vagy az indokolatlan költséget okozott,
 - d) a szakértő a szakvélemény előterjesztésével egy évet elérő késedelembe esett,
 - e) a szakértő a névjegyzékben szereplő elérhetőségi címén a küldemények átvételét nem biztosította vagy
-- f) ha tudomására jut, hogy a szakértő az 52. § (5) vagy (6) bekezdésében foglaltaknak nem tett eleget.
+- f) tudomására jut, hogy a szakértő az 52. § (5) vagy (6) bekezdésében foglaltaknak nem tett eleget.
 
 (2) A hatóság az (1) bekezdés szerinti bejelentést a bejelentésre okot adó tény tudomására jutásától számított tizenöt napon belül köteles megtenni. A bejelentést egyidejűleg, a névjegyzéket vezető hatóság részére megküldött bejelentéssel azonos tartalommal, a szakértő részére is meg kell küldeni.
 
-(3) A névjegyzéket vezető hatóság az (1) bekezdés a)–c), e) és f) pontja szerinti bejelentést a névjegyzékbe bejegyzi. Amennyiben az igazságügyi szakértő tevékenységével kapcsolatban két éven belül az (1) bekezdés a)–c), e) és f) pontja szerinti hatósági bejelentés három alkalommal érkezik, a névjegyzéket vezető hatóság az igazságügyi szakértő munkájának értékelését kezdeményezi a 18. § (2) bekezdése szerint a Kamara minőségbiztosítási bizottságánál.
+(3) A névjegyzéket vezető hatóság az (1) bekezdés a)–c), e) és f) pontja szerinti bejelentést a névjegyzékbe bejegyzi. Amennyiben az igazságügyi szakértő tevékenységével kapcsolatban két éven belül az (1) bekezdés a)–c), e) és f) pontja szerinti hatósági bejelentés három alkalommal érkezik, a névjegyzéket vezető hatóság az igazságügyi szakértő munkájának értékelését kezdeményezi a Kamara minőségbiztosítási bizottságánál.
 
 56. § (1) A hatóság a szakértő számára köteles megküldeni az ügy érdemében hozott jogerős vagy véglegessé vált döntés másolati példányát. Az iratok megküldésének kötelezettsége a hatóságot akkor is terheli, ha a szakértő szakvéleményét a bizonyítékok köréből alkalmatlanság vagy más ok miatt kirekesztette.
 
@@ -722,8 +724,8 @@ minősítést kap.
 
 (3) Szakértőjelölti tevékenység
 
-- a) az Iasz. szerinti igazságügyi szakértői intézményben alkalmazott szakértőjelölt az Iasz. szerinti szolgálati jogviszonyban, más szakértői intézményben vagy igazságügyi szakértői intézetben alkalmazott szakértőjelölt esetén az Iasz. szerinti szolgálati jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, az állami tisztviselőkről szóló törvény szerinti állami szolgálati jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban vagy
-- b) nem igazságügyi szakértői intézményben vagy igazságügyi szakértői intézetben alkalmazott szakértőjelölt esetén a munka törvénykönyvéről szóló törvény szerinti munkaviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, az állami tisztviselőkről szóló törvény szerinti állami szolgálati jogviszonyban, a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszony vagy a Polgári Törvénykönyv szerinti megbízási jogviszony keretében végezhető.
+- a) az Iasz. szerinti igazságügyi szakértői intézményben alkalmazott szakértőjelölt az Iasz. szerinti szolgálati jogviszonyban, más szakértői intézményben vagy igazságügyi szakértői intézetben alkalmazott szakértőjelölt esetén az Iasz. szerinti szolgálati jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyban vagy a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszonyban vagy
+- b) nem igazságügyi szakértői intézményben vagy igazságügyi szakértői intézetben alkalmazott szakértőjelölt esetén a munka törvénykönyvéről szóló törvény szerinti munkaviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyban, a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszony vagy a Polgári Törvénykönyv szerinti megbízási jogviszony keretében végezhető.
 
 (3a) A (3) bekezdés a) pontja szerinti szakértőjelölti tevékenységnek minősül az általános rendőrségi feladatok ellátására létrehozott szerv szakértői és bűnügyi technikai feladatokat ellátó szervénél 2016. december 31-ig a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban végzett szakértőjelölti tevékenység is.
 
@@ -875,7 +877,7 @@ minősítést kap.
 (7) A Kamara engedélye nem szükséges a kamarai tagságnak
 
 - a) az országgyűlési képviselői, a nemzetiségi szószólói, az európai parlamenti képviselői, az önkormányzati képviselői vagy polgármesteri megbízatás,
-- b) az állami vezetői szolgálati jogviszony, az állami vezetőként betöltött jogviszony vagy
+- b) a politikai felsővezető politikai szolgálati jogviszonya, a közigazgatási államtitkár és a helyettes államtitkár kormányzati szolgálati jogviszonya vagy
 - c) az Országgyűlés által választott közjogi tisztségviselő e megbízatása
 
 miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízatás lejártáig tart. Az igazságügyi szakértő az e bekezdés szerinti szünetelést köteles a Kamarának bejelenteni, amely a szünetelés tényéről értesíti a névjegyzéket vezető hatóságot a névjegyzékbe történő bejegyzés céljából. Ebben az esetben a (2) bekezdés rendelkezéseit megfelelően alkalmazni kell.
@@ -923,7 +925,39 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 71. § (1) A Kamara legfőbb döntéshozó szerve a küldöttgyűlés.
 
-(2) A Kamara tagjai a küldöttgyűlésbe legfeljebb száznegyven küldöttet választanak. A küldöttgyűlésbe a szakmai tagozatok öt-öt küldöttet delegálnak, a további küldötteket a bejegyzett igazságügyi szakértők területi megoszlására figyelemmel kell megválasztani. A küldöttek megválasztásának részletes szabályait az alapszabály állapítja meg.
+(2) A Kamara tagjai a küldöttgyűlésbe hetven küldöttet választanak. A küldöttek jelölésének és megválasztásának részletes szabályait az alapszabály állapítja meg.
+
+(2a) A küldöttgyűlésbe a küldötteket a Kamara tagjai négyévente általános és egyenlő választójog alapján, közvetlen és titkos szavazással, elektronikus úton a küldöttjelöltek közül választják.
+
+(2b) Küldöttjelölt az a kamarai tag,
+
+- a) aki területi igazságügyi szakértői kamaránál nem töltött be elnöki, illetve elnökhelyettesi pozíciót,
+- b) akit a Kamara elnökének nem választottak még újra, és
+- c) aki valamely szakmai tagozat támogatását vagy a Kamara tagjai egy százalékának az elektronikus úton előterjesztett ajánlását megszerzi, és a jelöltséget vállalja.
+
+(2c) Egy igazságügyi szakértő egy jelöltet csak egy ajánlással támogathat és legfeljebb a küldöttgyűlés létszámának megfelelő számú ajánlást adhat le. Egy tagozat legfeljebb öt, a szakmai tagozatba tartozó küldöttjelöltet támogathat.
+
+(2d) Az elektronikus ajánlás során alkalmazott elektronikus hírközlési rendszernek biztosítania kell
+
+- a) az ajánlási jog gyakorlását valamennyi választásra jogosult igazságügyi szakértő számára,
+- b) az egyedi azonosítás alapján az ajánlásra jogosultak névjegyzékének a vezetését,
+- c) az ajánlás hiteles visszaigazolását az igazságügyi szakértő számára,
+- d) azt, hogy egy tag egy jelöltet csak egy ajánlással támogathasson,
+- e) azt, hogy egy tag legfeljebb a küldöttgyűlés létszámának megfelelő ajánlást adhasson le, valamint
+- f) az ajánlások összeszámlálása során az eredmény utólagos ellenőrizhetőségét.
+
+(2e) Az elektronikus szavazás során alkalmazott elektronikus hírközlési rendszernek biztosítania kell
+
+- a) az általános, egyenlő, közvetlen, egyszeri és titkos választójog gyakorlását valamennyi választásra jogosult kamarai tag számára,
+- b) az egyedi azonosítás alapján a választási névjegyzék vezetését,
+- c) azt, hogy egy választásra jogosult csak egyszer adhassa le a szavazatát, valamint
+- d) a szavazatszámlálás során az eredmény utólagos ellenőrizhetőségét.
+
+(2f) A szakmai tagozatok által támogatott küldöttjelöltek közül tagozatonként a legtöbb szavazatot szerzett jelölt küldötté válik. A küldöttgyűlés fennmaradó helyein küldötté azok a küldöttjelöltek válnak, akik a választáson a legtöbb szavazatot kapták.
+
+(2g) Amennyiben azonos számú szavazat folytán a megválasztott személyek száma meghaladja a megválasztható küldöttek számát, az azonos szavazatot kapott küldöttjelöltek közül a választási bizottság elnöke és legalább két tagja – az érintettek előzetes értesítése mellett – sorsolással dönti el a küldöttek megválasztását.
+
+(2h) A küldöttjelöltek a sorsoláson jelen lehetnek, de távollétük a sorsolás megtartásának nem akadálya. A sorsolásról az érintetteket előzetesen – legkésőbb a sorsolás előtt három nappal – értesíteni kell. Az előzetes értesítésnek tartalmaznia kell a sorsolás helyét, időpontját, valamint az e bekezdés szerintiekre való figyelmeztetést.
 
 (3) A küldöttgyűlés
 
@@ -973,17 +1007,24 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 75. § (1) Az elnökség a Kamara elnökéből és négy elnökhelyettesből áll.
 
-(2) A Kamara elnökét és elnökhelyetteseit általános, egyenlő választójog alapján közvetlenül, négy évre, titkos szavazással választják.
+(2) A Kamara elnökét és elnökhelyetteseit a Kamara tagjai általános és egyenlő választójog alapján, közvetlen és titkos szavazással, elektronikus úton az elnök-, illetve az elnökhelyettes-jelöltek közül választják.
 
-(3) A választói névjegyzékbe felvett igazságügyi szakértő választhat, és amennyiben jogszabály nem zárja ki, választható. Szavazni csak személyesen lehet. A választáson minden szavazásra jogosultnak egy szavazata van, minden szavazat egyenlő.
+(3) Az elnöki, illetve az elnökhelyettesi tisztség betöltésére jogosult, és a jelöltséget vállaló kamarai tagok közül,
 
-(4) A Kamara elnöke az lesz, aki a választáson az egyéni jelöltek közül a legtöbb szavazatot kapta és legalább a leadott szavazatok egyharmadával rendelkezik. Amennyiben a legtöbb szavazatot kapott egyéni jelölt nem szerezte meg a leadott szavazatok legalább egyharmadát, második fordulót kell tartani.
+- a) elnökjelölt az a három igazságügyi szakértő,
+- b) elnökhelyettes-jelölt az a tíz igazságügyi szakértő,
 
-(5) A második fordulóban csak azok az egyéni jelöltek vesznek részt, akik az első fordulóban az első három hely valamelyikén végeztek és a leadott szavazatok legalább egyötödét megkapták. A második fordulóban a Kamara elnöke az lesz, aki az egyéni jelöltek közül a legtöbb szavazatot kapta. Szavazategyenlőség esetén – amennyiben azon az elnöki tisztség betöltése vagy a második fordulóban történő részvétel múlik – az azonos szavazatot kapott személyek közül a választási bizottság elnöke és legalább két tagja – az érintettek jelenlétében – sorsolással dönti el a Kamara elnökének vagy a továbbjutó egyéni jelölt személyének választását.
+aki e tisztségre a Kamara tagjaitól a legtöbb elektronikus úton előterjesztett ajánlást megszerzi, és akit a Kamara elnökének nem választottak még újra.
+
+(3a) Ha a (3) bekezdésben meghatározottak közül ajánlásegyenlőség miatt nem lehet megállapítani, hogy ki a jelölt, az azonos számú ajánlást szerző valamennyi kamarai tag jelöltté válik.
+
+(4) A Kamara elnöke az lesz, aki a választáson az egyéni jelöltek közül a legtöbb elektronikus úton előterjesztett szavazatot kapta.
+
+(5) A Kamara elnökhelyettesei azok lesznek, akik a választáson az egyéni jelöltek közül a legtöbb elektronikus úton előterjesztett szavazatot kapták.
 
 (6) A Kamara elnökének és elnökhelyetteseinek megválasztását a miniszternek jóvá kell hagynia.
 
-(7) A Kamara elnökhelyettesei a választáson az egyéni jelöltek közül a négy legtöbb szavazatot kapó jelöltek lesznek.
+(7) A Kamara elnökének, illetve elnökhelyetteseinek választása során szavazategyenlőség esetén szükséges sorsolásra, a jelöltek sorsoláson való jelenlétére, az elektronikus ajánlásra, illetve az elektronikus szavazásra a küldöttek megválasztására vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (8) Az elnökség megválasztására a 87. § rendelkezéseit megfelelően alkalmazni kell.
 
@@ -1141,9 +1182,16 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 87. § (1) A tisztségviselők megbízatásának vagy kinevezésének leghosszabb időtartama négy év azzal, hogy a tisztségviselők tisztségükre ismételten megválaszthatók, illetve a főtitkár és a titkárok ismételten kinevezhetők. A Kamara elnöke és az elnökhelyettesek legfeljebb egy alkalommal választhatók újra.
 
-(2) A választást jelölés előzi meg, egy tisztségre több személy is jelölhető.
+(2) A tisztségviselők megbízatása vagy kinevezése az új tisztségviselők megválasztásának vagy kinevezésének napján szűnik meg.
 
-(3) A tisztségviselők megbízatása vagy kinevezése az új tisztségviselők megválasztásának vagy kinevezésének napján szűnik meg. Ha a tisztségviselő megbízatása vagy kinevezése egyéb okból szűnik meg, a választására vagy kinevezésre jogosult szerv a megbízatás vagy kinevezés megszűnésétől számított harminc napon belül megválasztja vagy kinevezi az új tisztségviselőt.
+(3) Ha a tisztségviselő megbízatása vagy kinevezése egyéb okból szűnik meg,
+
+- a) a kinevezésre jogosult szerv a megbízatás vagy kinevezés megszűnésétől számított harminc napon belül kinevezi az új tisztségviselőt,
+- b) a választás kiírására jogosult szerv tizenöt napon belül a lehető legkorábbi, de legfeljebb a kiírástól számított hatvanadik napra az új tisztségviselő megválasztására választást ír ki.
+
+(4) A (3) bekezdést nem kell alkalmazni, ha a tisztségviselő általános választásáig négy hónapnál kevesebb van hátra.
+
+(5) A (2) bekezdés szerinti esetben az új tisztségviselők megbízatása, kinevezése kezdő napjáig, illetve a megbízatás, kinevezés miniszteri jóváhagyásáig, illetve a korábbi tisztségviselő tekintetében megbízatása, kinevezése megszűnését eredményező egyéb ok bekövetkezéséig a korábbi tisztségviselők ügyvezetőként gyakorolják hatáskörüket, ennek során átadás-átvételre a hatáskörükbe tartozó ügyeket előkészítik, hatáskörüket kizárólag az új tisztségviselők megbízatásának az elnyeréséhez szükséges, valamint a jogszabályból vagy kamarai szabályzatból fakadó halaszthatatlan feladataik végrehajtása érdekében gyakorolhatják.
 
 88. § (1) A tisztségviselő megbízatása vagy kinevezése megszűnik a tisztségviselő
 
@@ -1152,7 +1200,7 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 - c) kamarai tagságának megszűnésével, és
 - d) megbízatása idejének lejártával.
 
-(2) A tisztségviselő megbízatása vagy kinevezése akkor is megszűnik, ha a vele szemben indult fegyelmi vagy büntetőeljárás során jogerősen elmarasztalták.
+(2) A tisztségviselő megbízatása vagy kinevezése akkor is megszűnik, ha a vele szemben indult büntetőeljárás során jogerősen elmarasztalták.
 
 (3) A tisztségviselő visszahívását a Kamara tagjainak legalább egytizede kezdeményezheti, a visszahívott tisztségviselő tisztségét betöltő új jelölt megjelölésével egyidejűleg. A tisztségviselő visszahívása kizárólag akkor sikeres, ha a küldöttgyűlés az új tisztségviselőnek ajánlott jelöltet egyidejűleg megválasztja.
 
@@ -1402,7 +1450,7 @@ hoz határozatot, és azt kézbesíti a fegyelmi eljárás alá vont igazságüg
 
 109. § (1) A fegyelmi bizottság elnöke a kérelmet – fegyelmi tanács kijelölése nélkül – végzéssel elutasítja, ha
 
-- a) az abban megjelölt személy nem igazságügyi szakértő,
+- a) az abban megjelölt személy nem igazságügyi szakértő vagy eseti szakértő,
 - b) a kezdeményező az erre irányuló felhívás ellenére a megadott határidőben a kérelemnek a felhívásban megjelölt hiányait nem pótolta vagy
 - c) a bejelentő az erre irányuló felhívás ellenére a megadott határidőben a fegyelmi eljárási díjat nem fizette meg.
 
@@ -1443,7 +1491,7 @@ csökkennek.
 
 (3) Ha a fegyelmi tanács úgy ítéli meg, hogy az ügy különösen bonyolult volta miatt a (2) bekezdés alkalmazása a tényállás helyes megállapítását akadályozná, indokolt határozatával a (2) bekezdés rendelkezéseinek alkalmazását mellőzheti. A határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének és a névjegyzéket vezető hatóságnak.
 
-112. § Ha a cselekmény – amely miatt a kezdeményező szerint fegyelmi vétség elkövetésével gyanúsítható a fegyelmi eljárás alá vont igazságügyi szakértő – folyamatban lévő bírósági vagy más hatósági eljárást érint, a fegyelmi tanács a fegyelmi eljárást annak megindításával egyidejűleg határozattal felfüggeszti a bíróság vagy más hatóság határozatának jogerőre emelkedéséig vagy véglegessé válásáig. A határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének, a névjegyzéket vezető hatóságnak és a kezdeményezőnek.
+112. § Ha a cselekmény – amely miatt a kezdeményező szerint fegyelmi vétség elkövetésével gyanúsítható a fegyelmi eljárás alá vont igazságügyi szakértő – folyamatban lévő bírósági vagy más hatósági eljárást érint, vagy a fegyelmi eljárás kezdeményezésére a 21. § (6) bekezdés a) pontja alapján került sor, a fegyelmi tanács a fegyelmi eljárást annak megindításával egyidejűleg határozattal felfüggeszti a bíróság, más hatóság, vagy a minőségbiztosítási bizottság határozatának jogerőre emelkedéséig vagy véglegessé válásáig. A határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének, a névjegyzéket vezető hatóságnak és a kezdeményezőnek.
 
 #### 62. Fegyelmi vizsgálat
 
@@ -1741,7 +1789,7 @@ rendeletben határozza meg.
 (2) Felhatalmazást kap a miniszter, hogy
 
 - a) az igazságügyi szakértői szakterületeket, az igazságügyi szakértők szakterületének besorolását és a szakterületekhez kapcsolódó képesítési és egyéb szakmai feltételeket, a kötelező szakértőjelölti idő vagy ügyszám mértékét, a képesítés egyenértékűségére vonatkozó feltételeket, az egyes szakterületek esetében a névjegyzékbe-vételi eljárás során figyelembe vehető szakértőjelölti szakmai gyakorlati tapasztalatra, rövidebb kötelező szakmai gyakorlat időtartamára, tudományos fokozatra, képesítésre és ágazati szakértői jogosultságra, ezek igazolására, valamint a névjegyzékbe bejegyzett igazságügyi szakértő esetében a feltételek alóli mentesülésre vonatkozó feltételeket,
-- b) a névjegyzékből a kamarai tagság megszűnése miatti törlésre vonatkozó eljárás szabályait,
+- b)
 - c) az igazságügyi szakértő által vezetett adattovábbítási nyilvántartás adattartalmára vonatkozó szabályokat,
 - d) az államháztartásért felelős miniszterrel egyetértésben az igazságügyi szakértői tevékenységet végzők díjazására, munkadíjára és költségeire, ezen belül különösen az egy órára felszámítható munkadíj, tételes munkadíj összegét; tételes költségelszámolás hiányában a felszámítható költségátalány mértékét, valamint a szakkonzultáns és a segédszemélyzet munkadíjára vonatkozó szabályokat,
 - e) a kamarai költségátalány mértékét, bevallásának és megfizetésének részletes szabályait,
@@ -1749,7 +1797,7 @@ rendeletben határozza meg.
 - g) az igazságügyi szakértő részére kötelező továbbképzés rendszerére, a továbbképzés teljesítésének mérési rendszerére és igazolására, a továbbképzés formáira, lebonyolításának módjára, a továbbképzési kötelezettség alóli mentesség eseteire és igazolásának szabályaira, valamint a továbbképzési program tartalma kialakításának módjára vonatkozó részletes szabályokat,
 - h) az érintett szakterület ágazati irányításáért felelős miniszterrel egyetértésben az igazságügyi szakértői testületeket, valamint azok működésére, szervezetére és eljárására vonatkozó szabályokat,
 - i) a szakértő eljárására, a szakvéleményre, a szakértői vizsgálatra és az egyes vizsgálattípusokra, a szakértői vizsgálathoz szükséges mintavételre és a vizsgálati tárgyak rendelkezésre bocsátására, a szakértői ügyvitelre vonatkozó szabályokat, a vizsgálati tárgy megváltozásával és megsemmisülésével járó vizsgálat elvégzéséhez szükséges előzetes hozzájárulásra vonatkozó szabályokat,
-- j) az igazságügyi szakértők értékelésére vonatkozó részletes szabályokat, a külön minősítéssel rendelkező igazságügyi szakértőkre vonatkozó szabályokat, valamint az igazságügyi szakértő által kért értékeléssel összefüggésben megfizetendő díjra vonatkozó szabályokat,
+- j) az igazságügyi szakértők értékelésére vonatkozó részletes szabályokat, valamint az igazságügyi szakértő által kért értékeléssel összefüggésben megfizetendő díjra vonatkozó szabályokat,
 - k) az igazságügyi szakértői és szakértőjelölti igazolványra vonatkozó részletes szabályokat,
 - l) az elektronikus felület létrehozására és kezelésére vonatkozó részletes szabályokat,
 - m) az adópolitikáért felelős miniszterrel egyetértésben a kamarai tagság szünetelésének engedélyezése iránti eljárás és a szakértőjelölti igazolvány kiállítása iránti eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó részletes szabályokat és
@@ -1971,6 +2019,12 @@ törvényességi felügyeleti intézkedést tehet.
 
 159/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
+159/B. § (1) E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel (a továbbiakban: Mód. törvény) módosított 13. § (1) bekezdés f) és g) pontját, valamint (2) bekezdés b) és c) pontját a Mód. törvény hatálybalépését követően fennálló statisztikai adatszolgáltatási kötelezettséggel összefüggésben indult eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Mód. törvénnyel módosított választási szabályait a Kamara tisztségviselőinek a módosítások hatálybalépését követő választása esetében kell alkalmazni.
+
+(3) A 2019. december 31-én a nyilvántartásban szereplő igazságügyi szakértő a Mód. törvénnyel megállapított 44. § (1a) bekezdése alapján az ügyintézési rendelkezések nyilvántartásába 2020. április 1-jéig köteles bejelenteni az elektronikus ügyintézés általános szabályairól szóló törvény szerinti hivatalos elérhetőségét.
+
 #### 82. Európai Uniós követelményekre utaló rendelkezések
 
 160. § (1) E törvény
@@ -2011,7 +2065,7 @@ való megfelelést szolgálja.
 - 1.10.1. a névjegyzékbe bejegyzett szakterület és a bejegyzés időpontja,
 - 1.10.2. elutasított szakterület és az elutasítás időpontja,
 - 1.10.3. elbírálás alatt lévő szakterület;
-- 1.11. iskolai végzettség és szakmai képesítés a megszerzés időpontjával, valamint nemzetközi vagy hazai szakmai minősítés a megszerzés időpontjával;
+- 1.11. iskolai végzettség és szakmai képesítés, valamint nemzetközi vagy hazai szakmai minősítés;
 - 1.12. állapot
 - 1.12.1. névjegyzékbe felvett,
 - 1.12.2. névjegyzékbe történő felvétel folyamatban,

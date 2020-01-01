@@ -56,7 +56,7 @@ az e törvényben, valamint a Nemzeti Adó- és Vámhivatalról szóló törvén
 - 17. e-TKO: az uniós számítógépes rendszerben a jövedéki termék feladója által kiállított, AHK-számmal ellátott elektronikus okmány;
 - 17a. étrend-kiegészítő: az egészségügyért felelős miniszter rendeletében ekként meghatározott és forgalomba hozatalra bejelentett (beleértve az Európai Gazdasági Térség más tagállamában fogalomban lévő termék első bejelentésének a rendelet szerinti belföldi benyújtását is) termék;
 - 18. Európai Unió: az Európai Unióról szóló szerződésben meghatározott tagállamok területe azzal az eltéréssel, hogy
-  - a) nem tekintendők a tagállamhoz tartozónak aa) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno és Campione d'Italia területe, valamint a Luganói-tó olasz vizei, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint ab) a Francia Köztársaság esetében az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikk (1) bekezdésében említett francia területek, a Spanyol Királyság esetében a Kanári-szigetek, a Nagy-Britannia és Észak-Írország Egyesült Királysága esetében a Csatorna-szigetek, a Finn Köztársaság esetében az Aland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
+  - a) nem tekintendők a tagállamhoz tartozónak aa) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint ab) a Francia Köztársaság esetében az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikk (1) bekezdésében említett francia területek, a Spanyol Királyság esetében a Kanári-szigetek, a Nagy-Britannia és Észak-Írország Egyesült Királysága esetében a Csatorna-szigetek, a Finn Köztársaság esetében az Aland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
   - b) a Monacói Hercegség a Francia Köztársaság területéhez, Jungholz és Mittelberg (Kleines Walsertal) tartományok a Németországi Szövetségi Köztársaság területéhez, a Man sziget a Nagy-Britannia és Észak-Írország Egyesült Királysága területéhez, a San Marino Köztársaság az Olasz Köztársaság területéhez, a Nagy-Britannia és Észak-Írország Egyesült Királysága ciprusi felségterületei (Akrotiri és Dhekelia) a Ciprusi Köztársaság területéhez tartozónak tekintendő;
 - 19. felhasználói engedélyes: az állami adó- és vámhatóság által kiadott engedély birtokában
   - a) egyéb ellenőrzött ásványolaj felhasználására, kiszerelésére,
@@ -135,7 +135,7 @@ jogosult személy;
 - 6. egyéb ellenőrzött ásványolaj: a 2707 10 00-2707 30 00, a 2707 50 00, a 2710 12 11-2710 12 25, a 2710 12 70-2710 19 15, a 2710 19 25, a 2710 19 29-2710 19 35, a 2710 19 51, a 2710 19 55, a 2901 10 00, a 2902 20 00-2902 44 00 KN-kód szerinti, valamint a 2710 19 43-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti, nem üzemanyagként vagy tüzelő-, fűtőanyagként értékesített, beszerzett vagy importált ellenőrzött energiatermék;
 - 7. ellenőrzött energiatermék:
   - a) a 2707 10 00-2707 30 00, a 2707 50 00, a 2711 12 11-2711 19 00, a 2901 10 00, a 2902 20 00-2902 44 00, a 3811 11 10-3811 19 00 és a 3811 90 00 KN-kód szerinti termék,
-  - b) – az ezen alpontban felsorolt, etil-alkoholt tartalmazó termékek kivételével – a 2710 12 21, 2710 12 25 és 2710 19 29 KN-kód szerinti ömlesztetten szállított termék, valamint a 2710 12 11, 2710 12 15, 2710 12 31-2710 19 25, 2710 19 31-2710 19 68 és a 2710 20 11-2710 20 39 KN-kód szerinti termék,
+  - b) – az ezen alpontban felsorolt, etil-alkoholt tartalmazó termékek kivételével – a 2710 12 21, 2710 12 25 és 2710 19 29 KN-kód szerinti ömlesztetten szállított termék, valamint a 2710 12 11, 2710 12 15, 2710 12 31–2710 19 25, 2710 19 31–2710 19 67 és a 2710 20 11–2710 20 38 KN-kód szerinti termék,
   - c) a 1507 10 10-1518 00 99, a 2710 12 11-2710 12 90 KN-kód szerinti, etil-alkoholt tartozó termék, a 3824 84 00-3824 88 00, 3824 91 00, 3824 99 86-3824 99 96, a 3826 00 10, a 3826 00 90, és a – szintetikus eredetű termék kivételével – 2905 11 00 KN-kód szerinti, üzemanyagként vagy tüzelő-, fűtőanyagként kínált, értékesített vagy felhasznált termék,
   - d) a 2207 20 00 KN-kód szerinti, részlegesen vagy teljesen denaturált, üzemanyagként vagy tüzelő-, fűtőanyagként kínált, értékesített vagy felhasznált termék;
 - 8. energiafelhasználó: földgázt, villamos energiát vagy szenet saját felhasználás céljára vagy villamos energiát a villamos energiáról szóló törvény szerint megengedett továbbadás, földgázt a földgázellátásról szóló törvény szerinti telephelyi szolgáltatás céljára beszerző személy;
@@ -157,7 +157,7 @@ történő felhasználásra állítanak elő vagy ilyenként kínálnak, érték
 - 14. földgáz: a 2711 11 00 és a 2711 21 00 KN-kód szerinti termék;
 - 15. földgázfelhasználó: a földgázellátásról szóló törvényben meghatározott felhasználó;
 - 16. földgáz felhasználási hely: a földgázellátásról szóló törvényben meghatározott felhasználási hely;
-- 17. fűtőolaj: a 2710 19 62-2710 19 68 és a 2710 20 31-2710 20 39 KN-kód szerinti termék;
+- 17. fűtőolaj: a 2710 19 62–2710 19 67 és a 2710 20 32–2710 20 38 KN-kód szerinti termék;
 - 18. gázolaj: a 2710 19 43-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti termék;
 - 19. hálózati engedélyes: a villamos energiáról szóló törvény szerinti hálózati engedélyes és a földgázellátásról szóló törvény szerinti földgázelosztó és szállítási rendszerüzemeltető;
 - 20. jelölt gázolaj: a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló, 2016. november 25-i 2017/74/EU bizottsági végrehajtási határozata szerinti jelölőanyaggal megjelölt gázolaj;
@@ -233,7 +233,7 @@ használnak fel;
 - 18a. lé nélküli alkoholos gyümölcs: csokoládégyártáshoz történő felhasználás céljából előállított, alkoholtermékben áztatott olyan gyümölcs, amelyről az áztatást követően az alkoholterméket lecsepegtetik vagy amelyet szikkasztanak;
 - 19. magánfőzés: a párlatnak a magánfőző, több tulajdonostárs magánfőző esetén valamely tulajdonostárs lakóhelyén vagy gyümölcsöse helyén használható, legfeljebb 100 liter űrtartalmú, párlat-előállítás céljára kialakított desztillálóberendezésen a magánfőző által végzett előállítása;
 - 20. magánfőző: az a 18. életévét betöltött gyümölcstermesztő személy, aki tulajdonában álló gyümölccsel, gyümölcsből származó alapanyaggal és párlat készítésére alkalmas, tulajdonában álló desztillálóberendezéssel rendelkezik;
-- 21. párlat: a – nyers párlat kivételével – 2208 20 29, 2208 20 89, 2208 90 33, 2208 90 38, 2208 90 48, – a calvados kivételével – 2208 90 71 KN-kód szerinti termék, továbbá a 2208 90 56 és 2208 90 77 KN-kód szerinti termékek közül a seprőpárlat;
+- 21. párlat: a – nyers párlat kivételével – 2208 20 19, 2208 20 28, – az armagnac kivételével – 2208 20 69, 2208 20 88, 2208 90 33, 2208 90 38, 2208 90 48, – a calvados kivételével – 2208 90 71 KN-kód szerinti termék, továbbá a 2208 90 56 és 2208 90 77 KN-kód szerinti termékek közül a seprőpárlat;
 - 22. sör: a 2203 00 01-2203 00 10 KN-kód szerinti termék, továbbá a 2206 00 31-2206 00 89 KN-kód szerinti termékek közül a 2203 00 01-2203 00 10 KN-kód szerinti és az alkoholmentes italok elegye, feltéve, hogy a termék tényleges alkoholtartalma mindkét esetben meghaladja a 0,5 térfogatszázalékot;
 - 23. szőlőtermelő: az a személy, aki bármilyen jogcímen használatában lévő szőlőültetvényt művel;
 - 24. tényleges alkoholtartalom: a termékben jelen lévő etil-alkohol térfogatának aránya a termék teljes térfogatához viszonyítva 20 °C hőmérsékleten;
@@ -2328,14 +2328,14 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 145. § (1) A jövedéki adó mértéke
 
 - a) a cigarettára
-  - aa) a 2018. szeptember 1. és 2018. december 31. közötti időszakban 17 200 forint ezer darabonként és a kiskereskedelmi eladási ár 24,5 százaléka, de legalább 30 200 forint ezer darabonként,
-  - ab) a 2019. január 1. és 2019. június 30. közötti időszakban 18 200 forint ezer darabonként és a kiskereskedelmi eladási ár 24 százaléka, de legalább 31 200 forint ezer darabonként,
-  - ac) 2019. július 1-jétől 19 200 forint ezer darabonként és a kiskereskedelmi eladási ár 23,5 százaléka, de legalább 32 200 forint ezer darabonként,
+  - aa) a 2020. január 1. és 2020. június 30. közötti időszakban 20 500 forint ezer darabonként és a kiskereskedelmi eladási ár 23 százaléka, de legalább 33 500 forint ezer darabonként,
+  - ab) a 2020. július 1. és 2020. december 31. közötti időszakban 21 500 forint ezer darabonként és a kiskereskedelmi eladási ár 22,5 százaléka, de legalább 34 500 forint ezer darabonként,
+  - ac) 2021. január 1-jétől 22 800 forint ezer darabonként és a kiskereskedelmi eladási ár 22 százaléka, de legalább 35 800 forint ezer darabonként,
 - b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 4 180 forint ezer darabonként,
 - c) a finomra vágott fogyasztási dohányra és az egyéb fogyasztási dohányra
-  - ca) a 2018. szeptember 1. és 2018. december 31. közötti időszakban 17 820 forint kilogrammonként,
-  - cb) a 2019. január 1. és 2019. június 30. közötti időszakban 18 560 forint kilogrammonként,
-  - cc) 2019. július 1-jétől 19 160 forint kilogrammonként,
+  - ca) a 2020. január 1. és 2020. június 30. közötti időszakban 20 100 forint kilogrammonként,
+  - cb) a 2020. július 1. és 2020. december 31. közötti időszakban 20 700 forint kilogrammonként,
+  - cc) 2021. január 1-jétől 21 480 forint kilogrammonként,
 - d) a töltőfolyadékra 55 forint milliliterenként,
 - e) az új dohánytermék-kategóriák dohányt tartalmazó, vagy dohánnyal együtt fogyasztott
   - ea) egyszer használatos termékeire 10 forint darabonként (szálanként),
@@ -2352,7 +2352,7 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 kell kiskereskedelmi eladási árnak tekinteni.
 
-(5) A zárjegyköteles dohánygyártmány a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti dohánytermék-kiskereskedelem keretében, továbbá a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 1. § (3) bekezdésében meghatározott kiskereskedelmi értékesítés keretében csak az állami adó- és vámhatóság honlapján közzétett áron értékesíthető, kivéve a 67. § (3) bekezdése szerinti visszavásárlás esetét.
+(5) A zárjegyköteles dohánygyártmány a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvényben (a továbbiakban: Fdvtv.) meghatározott dohánytermék-kiskereskedelem, továbbá az Fdvtv. 1. § (3) bekezdésében meghatározott kiskereskedelmi értékesítés keretében csak az állami adó- és vámhatóság honlapján közzétett áron értékesíthető, kivéve a 67. § (3) bekezdése szerinti visszavásárlás esetét.
 
 146. § Az állami adó- és vámhatóság a magánszemély által harmadik országból behozott, az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló törvény szerinti adómentes mennyiséget meghaladó mennyiségű, és a 17. életévét be nem töltött személy esetében a harmadik országból behozott dohánygyártmány fogyasztói csomagolását a vámjogi szabadforgalomba bocsátáskor az adó megfizetését igazoló jellel látja el.
 
@@ -2453,6 +2453,16 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 (24) A 19. § (1) bekezdés k) pontja, a 67. § (1) bekezdés a) pont ac) alpontja és a 74. § (1) bekezdés k) pontja szerinti rendelkezést az e bekezdés hatálybalépésekor folyamatban lévő adóigazgatási eljárásban is alkalmazni kell.
 
+(25) A 2020. június 30-ig szabadforgalomba bocsátott és 2020. augusztus 31-ig az Fdvtv.-ben meghatározott dohánytermék-kiskereskedelmi és az Fdvtv. 1. § (3) bekezdésében meghatározott kiskereskedelmi értékesítés helyére kiszállított, zárjegy nélküli töltőfolyadék és új dohánytermék-kategóriák korlátozás nélkül értékesíthetők a 145. § (5) bekezdése szerinti áron.
+
+(26) A nikotinmentes töltőfolyadékkal kereskedelmi tevékenységet folytató személy a 2020. február 29-én készleten lévő nikotinmentes töltőfolyadék mennyiségéről 2020. március 10-ig bejelentést tesz az állami adó- és vámhatósághoz.
+
+(27) A nikotinmentes töltőfolyadékkal kereskedelmi tevékenységet folytató személy a 2020. február 29-én készleten lévő nikotinmentes töltőfolyadékot 2020. április 30-ig értékesítheti jövedéki engedélyes kereskedőnek, az Fdvtv.-ben meghatározott dohánytermék-kiskereskedőnek és az Fdvtv. 1. § (3) bekezdése szerinti kiskereskedőnek.
+
+(28) A 67. § (4) bekezdésétől és a 68. § (2) bekezdésétől eltérően 2020. április 30-ig nincs szükség az állami adó- és vámhatóság előzetes engedélyére nikotinmentes töltőfolyadék beszerzéséhez.
+
+(29) A (26) bekezdés szerinti személy a 2020. május 1-jén készleten lévő nikotinmentes töltőfolyadék készletének megsemmisítéséről legkésőbb 2020. május 5-ig bejelentést tesz az állami adó- és vámhatósághoz.
+
 151. § A 2017. július 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 
 #### 102. Az Európai Unió jogának való megfelelés
@@ -2474,11 +2484,51 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 #### 103.
 
-#### 154–173. §
+#### 154. §
+
+#### 155. §
+
+#### 156. §
+
+#### 157. §
+
+#### 158. §
+
+#### 159. §
+
+#### 160. §
+
+#### 161. §
+
+#### 162. §
+
+#### 163. §
+
+#### 164. §
+
+#### 165. §
+
+#### 166. §
+
+#### 167. §
+
+#### 168. §
+
+#### 169. §
+
+#### 170. §
+
+#### 171. §
+
+#### 172. §
+
+#### 173. §
 
 #### 104. Hatályon kívül helyező rendelkezések
 
-174. § (1)–(2)
+174. § (1)
+
+(2)
 
 (3)
 

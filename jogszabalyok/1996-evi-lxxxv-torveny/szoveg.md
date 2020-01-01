@@ -57,10 +57,11 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 - k) a helyi önkormányzat, illetve azok társulásai közszolgáltatásait érintő beruházások megvalósítása érdekében benyújtandó közösségi, illetőleg nemzeti forrásból nyújtott támogatással megvalósuló pályázatok dokumentációjának elkészítéséhez,
 - l) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv,
 - m) az eljáró szerv – ideértve a bíróságot – a polgári perrendtartásról szóló 2016. évi CXXX. törvény XXXII. Fejezete szerinti gondnokság alá helyezés iránti perben,
-- n) a törvényszéki végrehajtó a Magyar Államot illető végrehajtandó összeg iránti végrehajtási ügyben
+- n)
 - o) a vízügyi igazgatási szerv az állami tulajdonban álló vízkészletek vagy vízilétesítmények vagyonkezelése tárgyában,
 - p) lakás építéséhez, vásárlásához vagy bővítéséhez igénybe vehető vissza nem térítendő állami támogatás igényléséhez az igénylő megbízásából tárgyévben ugyanazon ingatlan tulajdonilap-másolatára vonatkozóan egy alkalommal a hitelintézet,
-- q) a vízügyi hatóság és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében
+- q) a vízügyi hatóság és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében,
+- r) ügyfél öntözési beruházáshoz kapcsolódóan
 
 kéri.
 
@@ -166,7 +167,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
   - rg) a barlang felszíni védőövezete tényének ingatlan-nyilvántartási feljegyzése iránti eljárás,
 - s) az állandó legelő vagy állandó gyep jogi jelleg feljegyzése,
 - t) a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleg feljegyzése,
-- u) az Inytv. 89/A. §-a szerinti zártkerti ingatlan művelés alóli kivonására irányuló eljárás,
+- u)
 - v) tulajdonosváltozás ingatlan-nyilvántartási bejegyzése öröklés jogcímén;
 - w) haszonélvezeti jog ingatlan-nyilvántartási bejegyzése hagyatékátadó végzés alapján,
 - x) társasház esetén
@@ -234,7 +235,7 @@ irányuló eljárás.
 
 (14) A (9) bekezdésben foglaltak nem teljesítése esetén a soronkívüliség, illetve a hitelesített vagy hitelesítés nélküli iratmásolat, illetőleg kivonat iránti kérelem nem teljesíthető.
 
-32/F. § (1) A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a felülvizsgált hatósági döntés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
+32/F. § (1) A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a megtámadott hatósági döntés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
 
 (2) Ha a kérelem és a befizetést igazoló bizonylatok alapján megállapítható, hogy az ügyfél a törvényes mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
 

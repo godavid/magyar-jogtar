@@ -228,7 +228,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 (2) A komplex műveleti tervet a bányafelügyelet az (1) bekezdésben meghatározott szempontok figyelembevételével hagyja jóvá. A bányafelügyelet a célkitermelőhelyekről nyilvántartást vezet, és azt a honlapján közzéteszi. A nyilvántartás tartalmazza:
 
 - a) az engedély nyilvántartási számát (betű-, számkombinációkkal és az autópálya számával),
-- b) az engedély számát és jogerőre emelkedésének (végrehajthatóságának) időpontját,
+- b) az engedély számát és véglegessé válásának (végrehajthatóságának) időpontját,
 - c) a kérelmező (jogosított) megnevezését, székhelyét,
 - d) a célkitermelőhellyel érintett település megnevezését és az érintett ingatlanok helyrajzi számát,
 - e) a töltésanyag felhasználásának pontos helyét (a megadott autópálya-szakaszokat km-szelvényekkel),
@@ -277,7 +277,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 (6) Felhatalmazás kap a Kormány, hogy
 
 - a) a 6. § (2) bekezdésében meghatározott elővásárlásra vonatkozó részletes rendelkezéseket,
-- b) az 1. számú mellékletben megjelölt gyorsforgalmi utak esetében a környezetvédelmi engedély jogerőre emelkedését követően a gyorsforgalmi út nyomvonalát, a 17. § (1) bekezdésében meghatározott területsávot és a területsáv védettségének időtartamát,
+- b) az 1. számú mellékletben megjelölt gyorsforgalmi utak esetében a környezetvédelmi engedély véglegessé válását követően a gyorsforgalmi út nyomvonalát, a 17. § (1) bekezdésében meghatározott területsávot és a területsáv védettségének időtartamát,
 - c) a b) pont hatálya alá nem tartozó gyorsforgalmi utak nyomvonalát, a 17. § (1) bekezdésében meghatározott területsávot és a területsáv védettségének időtartamát,
 - d) a 9. § (1) és (2) bekezdése szerinti szervek kijelölését rendeletben állapítsa meg.
 

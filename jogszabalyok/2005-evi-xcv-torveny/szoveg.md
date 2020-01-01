@@ -374,7 +374,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - a) a tevékenységi engedély iránti eljárás véglegessé vált döntéssel történő befejezéséig vagy
 - b) a tevékenységi engedély kiadása esetén a hatósági ellenőrzés időtartamára vagy a tevékenységi engedély visszavonására irányuló eljárásban az eljárás véglegessé vált döntéssel történő befejezéséig kezeli.
 
-15/B. § (1) Valamely anyag vagy vegyületcsoport az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló 2005. május 10-i 2005/387/IB tanácsi határozat 4. cikk (1) bekezdése szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
+15/B. § (1) Valamely anyag vagy vegyületcsoport a Kábítószer és a Kábítószer-függőség Európai Megfigyelőközpontjáról szóló 2006. december 12-i 1920/2006/EK európai parlamenti és tanácsi rendelet 5a. cikke szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
 
 (2) Az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat az egészségügyért felelős miniszter rendeletében állapítja meg.
 
@@ -704,6 +704,10 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 - a) az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagy mértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet vagy
 - b) az indikáción túli gyógyszerrendelés keretében rendelt gyógyszer előny-kockázat aránya kedvezőbb, mint az adott javallatban forgalomba hozatalra engedélyezett gyógyszeré és jogszabály szerinti bizonyítékok alapján az adott gyógyszer indikáción túli alkalmazásával esély van a gyógyszeres kezelés sikerességére, illetve a beteg állapotának javítására vagy stabilizálására, valamint a (6) bekezdés b)–c) pontjában foglaltak teljesülnek.
 
+(6b) A (6) bekezdés c) pontja szerinti engedély iránti kérelem papíralapon is előterjeszthető.
+
+(6c) A (6) bekezdés c) pontja szerinti engedély kiadására irányuló eljárásban a gyógyszerészeti államigazgatási szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerint, elektronikus úton közli határozatát az egészségügyi szolgáltatóval.
+
 (7) Amennyiben a gyógyszer rendelése a forgalomba hozatali engedélyének alkalmazási előírása alapján az adott esetben ellenjavallt, nem lehet indikáción túli gyógyszerrendelés keretében sem alkalmazni.
 
 (8) A gyógyszerészeti államigazgatási szerv a (6)–(6a) bekezdés szerinti engedély kiadásáról a kérelem beérkezését követő naptól számított huszonegy napon – sürgős szükség esetén soron kívül, de legkésőbb három napon – belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.
@@ -785,6 +789,8 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (6) Az engedélyezés előtti gyógyszerrendelés engedélyezési eljárása igazgatási szolgáltatási díjmentes.
 
+(7) Az (1)–(6) bekezdést kell akkor is alkalmazni, ha az alkalmazni kívánt gyógyszer forgalomba hozatalát az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelet szerinti központosított eljárásban már engedélyezték, azonban kereskedelmi forgalomba hozatala az Európai Unió területén még nem történt meg.
+
 ### Ex tempore előállított radioaktív gyógyszer alkalmazása
 
 25/D. § (1) Az ex tempore előállított radioaktív gyógyszert gyógyászati célra abban az esetben lehet alkalmazni, ha
@@ -818,11 +824,15 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (11) Az e törvény hatálya alá tartozó engedélyezési és ellenőrzési eljárásokban az ügyintézési határidőbe nem számítanak be az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló az Európai Parlament és a Tanács 2001. november 6-i 2001/83/EK irányelvében meghatározott időtartamok sem.
 
+(12) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott engedélyezési és ellenőrzési eljárásokban, ha ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem hozható döntés, az általános közigazgatási rendtartásról szóló törvény szerinti kapcsolódó eljárás szabályait azzal kell alkalmazni, hogy az egyes döntéseket külön eljárások keretében kell meghozni.
+
+(13) Az e törvény, valamint az e törvény felhatalmazása alapján kiadott jogszabály alapján hivatalból indult hatósági eljárás ügyintézési határideje 110 nap.
+
 27. § Az elektronikus kapcsolattartás az e törvény 25. § (1)–(6a) bekezdésében, valamint a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló külön jogszabály 3. § (2)–(3) bekezdéseiben foglalt eljárások kivételével, a gyógyszerészeti és egészségügyi államigazgatási szervnek a gyógyszerekkel, vizsgálati készítményekkel és a gyógyszereknek nem minősülő gyógyhatású anyagokkal és készítményekkel, valamint a helyes laboratóriumi gyakorlat követelményeinek megfelelő vizsgálóhelyekkel és egyedi vizsgálóhelyekkel kapcsolatos hatósági eljárása során a gyógyszerészeti és egészségügyi államigazgatási szerv által működtetett informatikai rendszeren keresztül valósul meg.
 
 28. § Azoknak az anyagoknak a listáját, amelyek nem az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzéke alapján minősülnek kábítószerrel egy tekintet alá eső veszélyes pszichotróp anyagnak, a 2. számú melléklet határozza meg.
 
-29. § A 2004. május 1. előtt engedélyezett, terápiás javallattal rendelkező homeopátiás gyógyszerek 2020. január 1-jét követően akkor hozhatók forgalomba, ha a 2001/83/EK európai parlamenti és tanácsi irányelv, illetve az azt átültető jogszabályok ezen gyógyszerek forgalomba hozatalára vonatkozó előírásainak megfelelnek.
+29. § A 2004. május 1. előtt engedélyezett, terápiás javallattal rendelkező homeopátiás gyógyszerek 2020. július 1-jét követően akkor forgalmazhatók, ha a 2001/83/EK európai parlamenti és tanácsi irányelv, illetve az azt átültető jogszabályok ezen gyógyszerek forgalomba hozatalára vonatkozó előírásainak megfelelnek.
 
 30. §
 
@@ -908,35 +918,36 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 
 32/B. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-33. § (1) Ez a törvény a törvény végrehajtására a 32. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendeletekkel együtt a következő uniós jogi aktusoknak való megfelelést szolgálja:
+33. § Ez a törvény
 
-- a) az Európai Parlament és a Tanács 2001/20/EK irányelve (2001. április 4.) az emberi felhasználásra szánt gyógyszerekkel végzett klinikai vizsgálatok során alkalmazandó helyes klinikai gyakorlat bevezetésére vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről;
-- b) az Európai Parlament és a Tanács 2001/83/EK irányelve (2001. november 6.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről;
-- c) az Európai Parlament és a Tanács 2004/27/EK irányelve (2004. március 31.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv módosításáról;
-- d) az Európai Parlament és a Tanács 2004/10/EK (2004. február 11.) irányelve a helyes laboratóriumi gyakorlat alapelveinek alkalmazására és annak a vegyi anyagokkal végzett kísérleteknél történő alkalmazásának ellenőrzésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezések közelítéséről;
-- e) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások tekintetében történő kiegészítéséről szóló, 2017. szeptember 15-i (EU) 2017/1572 bizottsági irányelv;
-- f) a Bizottság 2005/28/EK (2005. április 8.) irányelve a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében;
-- g) a gyógyszerek forgalombahozatali engedélye feltételeinek módosítása tekintetében a 2001/82/EK és a 2001/83/EK irányelvek módosításáról szóló 2009. június 18-i 2009/53/EK európai parlamenti és tanácsi irányelv.
-- h) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv.
-- i) Az Európai Parlament és a Tanács 2011/62/EU irányelve (2011. június 8.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról;
-- j) az Európai Parlament és a Tanács 2012/26/EU irányelve (2012. október 25.) a 2001/83/EK irányelvnek a farmakovigilancia tekintetében történő módosításáról.
+- a) az emberi felhasználásra szánt gyógyszerekkel végzett klinikai vizsgálatok során alkalmazandó helyes klinikai gyakorlat bevezetésére vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló, 2001. április 4-i 2001/20/EK európai parlamenti és tanácsi irányelvnek,
+- b) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló, 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelvnek,
+- c) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv módosításáról szóló, 2004. március 31-i 2004/27/EK európai parlamenti és tanácsi irányelvnek,
+- d) a helyes laboratóriumi gyakorlat alapelveinek alkalmazására és annak a vegyi anyagokkal végzett kísérleteknél történő alkalmazásának ellenőrzésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló, 2004. február 11-i 2004/10/EK európai parlamenti és tanácsi irányelvnek,
+- e) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások tekintetében történő kiegészítéséről szóló, 2017. szeptember 15-i (EU) 2017/1572 bizottsági irányelvnek,
+- f) a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében című, 2005. április 8-i 2005/28/EK bizottsági irányelvnek,
+- g) a 2001/82/EK és a 2001/83/EK irányelvnek a gyógyszerek forgalombahozatali engedélye feltételeinek módosítása tekintetében történő módosításáról szóló 2009. június 18-i 2009/53/EK európai parlamenti és tanácsi irányelvnek,
+- h) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelvnek,
+- i) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelvnek,
+- j) a 2001/83/EK irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2012. október 25-i 2012/26/EU európai parlamenti és tanácsi irányelvnek,
+- k) a 2004/757/IB tanácsi kerethatározat mellékletének a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról szóló, 2018. december 31-i (EU) 2019/369 felhatalmazáson alapuló bizottsági irányelvnek
 
-(2) Ez a törvény a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
-
-- a) az Európai Parlament és a Tanács 726/2004/EK rendelete (2004. március 31.) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról,
-- b) az Európai Parlament és a Tanács 1901/2006/EK rendelete (2006. december 12.) a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról,
-- c) az Európai Parlament és a Tanács 1394/2007/EK rendelete (2007. november 13.) a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról,
-- d) a Bizottság 1234/2008/EK (2008. november 24.) rendelete az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerkészítmények forgalomba hozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról,
-- e) a Bizottság 357/2014/EU felhatalmazáson alapuló rendelete (2014. február 3.) a 2001/83/EK európai parlamenti és tanácsi irányelvnek és a 726/2004/EK európai parlamenti és tanácsi rendeletnek az engedélyezés utáni gyógyszerhatásossági vizsgálatok előírását indokolttá tevő esetek tekintetében történő kiegészítéséről,
-- f) az 536/2014/EU európai parlamenti és tanácsi rendeletnek az emberi felhasználásra szánt vizsgálati gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelveknek és iránymutatásoknak, valamint az inspekció szabályainak meghatározása révén történő kiegészítéséről szóló, 2017. május 23-i (EU) 2017/1569 felhatalmazáson alapuló bizottsági rendelet,
-- g) az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet.
+való megfelelést szolgálja.
 
 34. § Ez a törvény
 
-- a) a 4-metilamfetamin ellenőrzési intézkedéseknek történő alávetéséről szóló 2013. március 7-i 2013/129/EU tanácsi határozat,
-- b) az 5-(2-amino-propil)indol ellenőrzési intézkedések alá vonásáról szóló 2013. október 7-i 2013/496/EU tanácsi határozat,
-- c) a 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin (25I-NBOMe), a 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid (AH-7921), a 3,4-metilén-dioxi-pirovaleron (MDPV) és a 2-(3-metoxi-fenil)-2-(etil-amino)ciklohexanon (metoxetamin) ellenőrzési intézkedések alá vonásáról szóló, 2014. szeptember 25-ei 2014/688/EU tanácsi határozat, és
-- d) a 4-metil-5-(4-metil-fenil)-4,5-dihidrooxazol-2-amin (4,4'-DMAR) és az 1-ciklohexil-4-(1,2-difenil- etil)piperazin (MT-45) ellenőrzési intézkedések alá vonásáról szóló 2015. október 8-ai 2015/1873/EU tanácsi határozat
+- a) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló, 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet,
+- b) a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2006. december 12-i 1901/2006/EK európai parlamenti és tanácsi rendelet,
+- c) a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet,
+- d) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerkészítmények forgalomba hozatali engedélyére vonatkozó feltételek módosításainak vizsgálatáról szóló 2008. november 24-i 1234/2008/EK bizottsági rendelet,
+- e) a 4-metilamfetamin ellenőrzési intézkedéseknek történő alávetéséről szóló 2013. március 7-i 2013/129/EU tanácsi határozat,
+- f) az 5-(2-amino-propil)indol ellenőrzési intézkedések alá vonásáról szóló 2013. október 7-i 2013/496/EU tanácsi határozat,
+- g) a 2001/83/EK európai parlamenti és tanácsi irányelvnek és a 726/2004/EK európai parlamenti és tanácsi rendeletnek az engedélyezés utáni gyógyszerhatásossági vizsgálatok előírását indokolttá tevő esetek tekintetében történő kiegészítéséről szóló, 2014. február 3-i 357/2014/EU felhatalmazáson alapuló bizottsági rendelet,
+- h) a 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin (25I-NBOMe), a 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid (AH-7921), a 3,4-metilén-dioxi-pirovaleron (MDPV) és a 2-(3-metoxi-fenil)–2-(etil-amino)ciklohexanon (metoxetamin) ellenőrzési intézkedések alá vonásáról szóló, 2014. szeptember 25-i 2014/688/EU tanácsi határozat,
+- i) a 4-metil-5-(4-metil-fenil)–4,5-dihidrooxazol-2-amin (4,4'-DMAR) és az 1-ciklohexil-4-(1,2-difenil-etil)piperazin (MT-45) ellenőrzési intézkedések alá vonásáról szóló 2015. október 8-i 2015/1873/EU tanácsi határozat,
+- j) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet,
+- k) az 536/2014/EU európai parlamenti és tanácsi rendeletnek az emberi felhasználásra szánt vizsgálati gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelveknek és iránymutatásoknak, valamint az inspekció szabályainak meghatározása révén történő kiegészítéséről szóló, 2017. május 23-i (EU) 2017/1569 felhatalmazáson alapuló bizottsági rendelet,
+- l) az N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid (ciklopropil-fentanil) és a 2-me-toxi-N-fenil-N-[1-(2-feniletil)piperidin-4-yl]acetamid (metoxiacetil-fentanil) új pszichoaktív anyagok ellenőrzési intézkedéseknek való alávetéséről szóló, 2018. szeptember 28-i (EU) 2018/1463 tanácsi végrehajtási határozat
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -1198,101 +1209,105 @@ A) Jegyzék:
 
 Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény I. Jegyzékén szereplő pszichotróp anyagokkal azonos elbírálás alá esnek Magyarországon, azaz gyógyászati célra nem, kizárólag tudományos célra alkalmazhatók:
 
-|  |  | A | B |
-| --- | --- | --- | --- |
-|  |  | Hivatalos elnevezés (illetve más név vagy rövidítés, illetve külföldön gyakran használt más írásmód) | Kémiai név |
-| 1. |  | AL | 4-allil-oxi-3,5-dimetoxi-fenetil-amin |
-| 2. |  | BDB | 1-(1,3-benzo-dioxol-5-il)-2-bután-amin 1-(1,3-benzodioxol-5-yl)butan-2-ylazan |
-| 3. |  | BZP | 1-benzilpiperazin 1-benzil-1,4-diaza-ciklohexán N-benzilpiperazin |
-| 4. |  | 2C-I | 2,5-dimethoxy-4-iodophenethylamine 4-iodo-2,5-dimethoxyphenethylazan |
-| 5. |  | 2C-T-2 | 2,5-dimethoxy-4-ethylthiophenethylamine 4-ethylsulfanyl-2,5-dimethoxy-phenethylazan |
-| 6. |  | 2C-T-7 | 2,5-dimetoxi-4(n)-propil-tio-fenetil-amin 2,5-dimethoxy-4-(propylsulfanyl)-phenethylazan |
-| 7. |  | DOC | 2,5-dimetoxi-4-klór-amfetamin 1-(4-chloro-2,5-dimethoxyphenyl)propan-2-ylazan |
-| 8. |  | 4-fluoroamphetamine (4-fluoramfetamin) / 4-FA, 4-FMP | 1-(4-fluorophenyl)propan-2-amine |
-| 9. |  | FLEA | N-hidroxi-N-metil-3,4 metilén-dioxi-amfetamin vagy N-hidroxi-3,4-metilén-dioxi-metamfetamin N-[1-(1,3-benzodioxol-5-yl)propan-2-yl]-N-methylhydroxylamin |
-| 10. |  | JWH-018 | naphthalen-1-yl(1-pentyl-1H-indol-3-yl)methanone |
-| 11. |  | JWH-081 | (4-methoxynaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
-| 12. |  | JWH-073 | (1-butyl-1H-indol-3-yl)(naphthalen-1-yl)methanone |
-| 13. |  | JWH-122 | (4-methylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
-| 14. |  | JWH-210 | (4-ethylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
-| 15. |  | MAL | 3,5-dimetoxi-4-metallil-oxi-fenetil-amin 3,5-dimethoxy-4-(2-methylallyloxy)-phenethylazan |
-| 16. |  | MBDB | 2-(metil-amino)-1-(3,4-metilén-dioxi-fenil)-bután vagy N-metil-1-(1,3-benzo-dioxol-5-il)-2-bután-amin [1-(1,3-benzodioxol-5-yl)butan-2-yl](methyl)azan |
-| 17. |  | mCPP (meta-klorofenilpiperazin) | meta-chlorophenylpiperazine vagy [1-(3-chlorophenyl)piperazine] |
-| 17.a |  | 4- MA, 4-methylamphetamine (4-metilamfetamin) | l-(4-methylphenyl)propan-2-amine |
-| 18. |  | 3,4-methylendioxypirovalerone (3,4-metiléndioxipirovaleron)/ MDPV | 1-(1,3-benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
-| 19. |  | 4-methylethcathinone (4-metiletkatinon)/4-MEC | 2-(ethylamino)-1-(4-methylphenyl)propan-1-one |
-| 20. |  | Mephedrone (Mefedron) | 1-(4-methylphenyl)-2-methylaminopropan-1-on |
-| 21. |  | Methylone (Metilon) | 1-(1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one |
-| 22. |  | N-Me-1-PEA | 1-(N-metil-amino)-1-fenil-etán vagy N-metil-1-fenetil-amin |
-| 23. |  | 1-PEA | 1-amino-1-fenil-etán vagy 1-fenetil-amin |
-| 24. |  | PMMA | paramethoxymethylamphetamine vagy N-methyl-1-(4-methoxyphenyl)-2- aminopropane vagy p-methoxy-N, á-dimethylphenethylamine |
-| 25. |  | TMA-2 (2,4,5-trimetoxiamfetamin) | 2,4,5-trimethoxyamphetamine 1-(2,4,5-trimethoxyphenyl)propan-2-ylazan |
-| 26. |  | 5-IT | 5-(2-aminopropyl)indole |
-| 27. |  | 1-naphyrone (1-nafiron) | 1-(naphthalen-1-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
-| 28. |  | 2-aminoindane (2-aminoindán) | 2,3-dihydro-1H-inden-2-amine |
-| 29. |  | 2-DPMP, Desoxypipradrol (dezoxipipradrol) | 2-(diphenylmethyl)piperidine |
-| 30. |  | 2-naphyrone (2-nafiron) | 1-(naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
-| 31. |  | 3-MeO-PCE | N-ethyl-1-(3-methoxyphenyl)cyclohexanamine |
-| 32. |  | 4-MeO-PCP | 1-[1-(4-methoxyphenyl)cyclohexyl]piperidine |
-| 33. |  | 5-IAI | 5-iodo-2,3-dihydro-1H-inden-2-amine |
-| 34. |  | 5-MeO-AMT | 1-(5-methoxy-1H-indol-3-yl)propan-2-amine |
-| 35. |  | á-Pyrrolidinovalerophenone, á-PVP | 1-phenyl-2-(1-pyrrolidinyl)-1-pentanone |
-| 36. |  | AM-2201 | 1-[(5-fluoropentyl)-1H-indol-3-yl]-(naphthalen-1-yl)methanone |
-| 37. |  | AMT (alfa-metiltriptamin) | 1-(lH-indol-3-yl)propan-2-amine |
-| 38. |  | Camfetamine (kamfetamin) | N-methyl-3-phenylbicyclo[2.2.1]heptan-2-amine |
-| 39. |  | CP 47,497 C8-homológ | 2-(3-hydroxycyclohexyl)-5-(2-methylnonan-2-yl)phenol |
-| 40. |  | CRA 13 | naphthalen-1-yl [4-(pentyloxy)naphthalen-1-yl]methanone |
-| 41. |  | D2PM, Diphenylprolinol (difenilprolinol) | diphenyl(pyrrolidin-2-yl)methanol |
-| 42. |  | DBZP | 1,4-dibenzylpiperazine |
-| 43. |  | Desoxy-D2PM (dezoxi-D2PM) | 2-(diphenylmethyl)pyrrolidine |
-| 44. |  | Dimethocaine (dimetokain) | 3-(diethylamino)-2,2-dimethylpropyl-4-aminobenzoate |
-| 45. |  | DMAA | 4-methylhexan-2-amine |
-| 46. |  | Etaqualone (etakvalon) | 3-(2-ethylphenyl)-2-methylquinazolin-4(3H)-one |
-| 47. |  | Ethylphenidate (etilfenidát) | ethyl phenyl(piperidin-2-yl)acetate |
-| 48. |  | GBL, gamma-butyrolactone (gamma-butirolakton) | dihydrofuran-2(3H)-one |
-| 49. |  | HU-210 | 9-(hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a- tetrahydrobenzo [c]chromen-1-ol |
-| 50. |  | Ibogain | (6R,6aS,7S,9R)-7-ethyl-2-methoxy-6,6a,7,8,9,10,12,13-octahydro-5H-6,9- methanopyrido[10,20:1,2]azepino[4,5-b]indole |
-| 51. |  | MDAI | 6,7-dihydro-5H-indeno[5,6-d][1,3]dioxol-6-amine |
-| 52. |  | Methoxetamine (metoxetamin) | 2-(ethylamino)-2-(3-methoxyphenyl)cyclohexanone |
-| 53. |  | MPA, Methylthienylpropamine (metiltienil-propamin) | N-methyl-1-(thiophen-2-yl)propan-2-amine |
-| 54. |  | ODT, O-desmethyltramadol (O-dezmetiltramadol) | 3-{2-[(dimethylamino)methyl]-1-hydroxycyclohexyl}phenol |
-| 55. |  | para-methyl-4-methylaminorex (para-metil-4-metilaminorex) / 4,4’-DMAR | 4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine, illetve 4-methyl-5-(4-methylphenyl)-1,3-oxazolidin-2-imine tautomerek |
-| 56. |  | Pentedron, â-ethyl-methcathinone (â-etil-metkatinon) | 2-methylamino-1-phenyl-1-pentanone |
-| 57. |  | MBZP | 1-benzyl-4-methylpiperazine |
-| 58. |  | pFBT, 4-fluorotropacocaine (fluortropakokain) | 8-methyl-8-azabicyclo[3.2.1]oct-3-yl 4-fluorobenzoate |
-| 59. |  | pFPP | 1-(4-fluorophenyl)piperazine |
-| 60. |  | Phenazepam (fenazepam) | 7-bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one |
-| 61 |  | Salvinorin A (Szalvinorin A) | (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3 furanyl)dodecahydro- 6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester |
-| 62. |  | TFMPP | 1-[3-(trifluoromethyl)phenyl]piperazine |
-| 63. |  | â-Me-PEA | 2-phenylpropan-1-amine |
-| 64. |  | 3-MeO-PCP | 1-[1-(3-methoxyphenyl)cyclohexyl]-piperidine |
-| 65. |  | Homoamphetamine | 3-amino-1-phenyl-butane |
-| 66. |  | AH-7921 | 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid |
-| 67. |  | 25I-NBOMe | 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin |
-| 68. |  | AB-CHMINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole- 3-carboxamide |
-| 69. |  | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4- fluorobenzyl)-1H-indazole- 3-carboxamide |
-| 70. | 5F-AB-PINACA |  | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5- fluoropentyl)-1H-indazole- 3-carboxamide |
-| 71. | AB-PINACA |  | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide |
-| 72. | á-PVT, alpha-PVT, alpha-pyrrolidinopentiothiophenone |  | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
-| 73. | MDMB-CHMICA |  | N-[[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl]-3-methyl-valine, methyl ester |
-| 74. | MTP, methcathinone thiophen analog |  | 2-(methylamino)-1-(thiophen-2-yl)propan-1-one |
-| 75. | N-ethylnorketamine |  | 2-(2-chlorophenyl)-2-(ethylamino)cyclohexanone |
-| 76. | AM-1248 azepane isomer |  | adamant-1-yl[1-(1-methylazepan-3-yl)-1H-indol-3-yl] methanone |
-| 77. | ADB-FUBINACA |  | N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide |
-| 78. | MT-45 |  | 1-ciklohexil-4-(1,2-difenil-etil)piperazin |
-| 79. | 4-benzylpiperidine |  | 4-(phenylmethyl)piperidine |
-| 80. | 3,4-dichloromethylphenidate/ 3,4-CTMP |  | methyl-2-(3,4-dichlorophenyl)-2-[piperidin-2-yl]acetate |
-| 81. | A-836,339 |  | N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]- 2,2,3,3-tetramethylcyclopropane- carboxamide |
-| 82. | MXP, methoxyphenidine, 2-MeO-diphenidine |  | 1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine |
-| 83. | 3F-phenmetrazine, meta-fluoro- phenmetrazine, meta-F-phenmetrazine |  | 2-(3-fluorophenyl)-3-methylmorpholine |
-| 84. | N-(2-methoxyethyl)-N- (1-methylethyl)-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |  | N-(2-methoxyethyl)-N-(1-methylethyl)-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
-| 85. | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol- methanamine |  | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
-| 86. | alpha-PBT; alfa-PBT; a-PBT; α-Pyrrolidinobutiothiophenone |  | 2-(Pyrrolidin-1-yl)-1-(thiophen-2-yl)butan-1-one |
-| 87. | Diclazepam, 2-Chlorodiazepam, Ro5-3448 |  | 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H- 1,4-benzodiazepin-2-one |
-| 88. | Diphenidine, 1,2- diphenylethylpiperidine; DPD; 1,2-DEP; DIPH |  | 1-(1,2-Diphenylethyl)piperidine |
-| 89. | MTTA; MTA; Mephtetramine |  | 2-[(Methylamino)methyl]-3,4-dihydronaphthalen-1(2H)-one |
-| 90. | Nitracaine |  | 3-(Diethylamino)-2,2-dimethylpropyl 4-nitrobenzoate |
-| 91. | EG-018 |  | (naphthalen-1-yl) (9-pentyl-9H-carbazol-3-yl)-methanone” |
+|  | A | B |
+| --- | --- | --- |
+|  | Hivatalos elnevezés (illetve más név vagy rövidítés, illetve külföldön gyakran használt más írásmód) | Kémiai név |
+| 1. | AL | 4-allil-oxi-3,5-dimetoxi-fenetil-amin |
+| 2. | BDB | 1-(1,3-benzo-dioxol-5-il)-2-bután-amin 1-(1,3-benzodioxol-5-yl)butan-2-ylazan |
+| 3. | BZP | 1-benzilpiperazin 1-benzil-1,4-diaza-ciklohexán N-benzilpiperazin |
+| 4. | 2C-I | 2,5-dimethoxy-4-iodophenethylamine 4-iodo-2,5-dimethoxyphenethylazan |
+| 5. | 2C-T-2 | 2,5-dimethoxy-4-ethylthiophenethylamine 4-ethylsulfanyl-2,5-dimethoxy-phenethylazan |
+| 6. | 2C-T-7 | 2,5-dimetoxi-4(n)-propil-tio-fenetil-amin 2,5-dimethoxy-4-(propylsulfanyl)-phenethylazan |
+| 7. | DOC | 2,5-dimetoxi-4-klór-amfetamin 1-(4-chloro-2,5-dimethoxyphenyl)propan-2-ylazan |
+| 8. |  |  |
+| 9. | FLEA | N-hidroxi-N-metil-3,4 metilén-dioxi-amfetamin vagy N-hidroxi-3,4-metilén-dioxi-metamfetamin N-[1-(1,3-benzodioxol-5-yl)propan-2-yl]-N-methylhydroxylamin |
+| 10. | JWH-018 | naphthalen-1-yl(1-pentyl-1H-indol-3-yl)methanone |
+| 11. | JWH-081 | (4-methoxynaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
+| 12. | JWH-073 | (1-butyl-1H-indol-3-yl)(naphthalen-1-yl)methanone |
+| 13. | JWH-122 | (4-methylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
+| 14. | JWH-210 | (4-ethylnaphthalen-1-yl)(1-pentyl-1H-indol-3-yl)methanone |
+| 15. | MAL | 3,5-dimetoxi-4-metallil-oxi-fenetil-amin 3,5-dimethoxy-4-(2-methylallyloxy)-phenethylazan |
+| 16. | MBDB | 2-(metil-amino)-1-(3,4-metilén-dioxi-fenil)-bután vagy N-metil-1-(1,3-benzo-dioxol-5-il)-2-bután-amin [1-(1,3-benzodioxol-5-yl)butan-2-yl](methyl)azan |
+| 17. | mCPP (meta-klorofenilpiperazin) | meta-chlorophenylpiperazine vagy [1-(3-chlorophenyl)piperazine] |
+| 17.a | 4- MA, 4-methylamphetamine (4-metilamfetamin) | l-(4-methylphenyl)propan-2-amine |
+| 18. | 3,4-methylendioxypirovalerone (3,4-metiléndioxipirovaleron)/ MDPV | 1-(1,3-benzodioxol-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
+| 19. | 4-methylethcathinone (4-metiletkatinon)/4-MEC | 2-(ethylamino)-1-(4-methylphenyl)propan-1-one |
+| 20. | Mephedrone (Mefedron) | 1-(4-methylphenyl)-2-methylaminopropan-1-on |
+| 21. | Methylone (Metilon) | 1-(1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one |
+| 22. | N-Me-1-PEA | 1-(N-metil-amino)-1-fenil-etán vagy N-metil-1-fenetil-amin |
+| 23. | 1-PEA | 1-amino-1-fenil-etán vagy 1-fenetil-amin |
+| 24. | PMMA | paramethoxymethylamphetamine vagy N-methyl-1-(4-methoxyphenyl)-2- aminopropane vagy p-methoxy-N, á-dimethylphenethylamine |
+| 25. | TMA-2 (2,4,5-trimetoxiamfetamin) | 2,4,5-trimethoxyamphetamine 1-(2,4,5-trimethoxyphenyl)propan-2-ylazan |
+| 26. | 5-IT | 5-(2-aminopropyl)indole |
+| 27. | 1-naphyrone (1-nafiron) | 1-(naphthalen-1-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
+| 28. | 2-aminoindane (2-aminoindán) | 2,3-dihydro-1H-inden-2-amine |
+| 29. | 2-DPMP, Desoxypipradrol (dezoxipipradrol) | 2-(diphenylmethyl)piperidine |
+| 30. | 2-naphyrone (2-nafiron) | 1-(naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one |
+| 31. | 3-MeO-PCE | N-ethyl-1-(3-methoxyphenyl)cyclohexanamine |
+| 32. | 4-MeO-PCP | 1-[1-(4-methoxyphenyl)cyclohexyl]piperidine |
+| 33. | 5-IAI | 5-iodo-2,3-dihydro-1H-inden-2-amine |
+| 34. | 5-MeO-AMT | 1-(5-methoxy-1H-indol-3-yl)propan-2-amine |
+| 35. | á-Pyrrolidinovalerophenone, á-PVP | 1-phenyl-2-(1-pyrrolidinyl)-1-pentanone |
+| 36. | AM-2201 | 1-[(5-fluoropentyl)-1H-indol-3-yl]-(naphthalen-1-yl)methanone |
+| 37. | AMT (alfa-metiltriptamin) | 1-(lH-indol-3-yl)propan-2-amine |
+| 38. | Camfetamine (kamfetamin) | N-methyl-3-phenylbicyclo[2.2.1]heptan-2-amine |
+| 39. | CP 47,497 C8-homológ | 2-(3-hydroxycyclohexyl)-5-(2-methylnonan-2-yl)phenol |
+| 40. | CRA 13 | naphthalen-1-yl [4-(pentyloxy)naphthalen-1-yl]methanone |
+| 41. | D2PM, Diphenylprolinol (difenilprolinol) | diphenyl(pyrrolidin-2-yl)methanol |
+| 42. | DBZP | 1,4-dibenzylpiperazine |
+| 43. | Desoxy-D2PM (dezoxi-D2PM) | 2-(diphenylmethyl)pyrrolidine |
+| 44. | Dimethocaine (dimetokain) | 3-(diethylamino)-2,2-dimethylpropyl-4-aminobenzoate |
+| 45. | DMAA | 4-methylhexan-2-amine |
+| 46. | Etaqualone (etakvalon) | 3-(2-ethylphenyl)-2-methylquinazolin-4(3H)-one |
+| 47. |  |  |
+| 48. | GBL, gamma-butyrolactone (gamma-butirolakton) | dihydrofuran-2(3H)-one |
+| 49. | HU-210 | 9-(hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a- tetrahydrobenzo [c]chromen-1-ol |
+| 50. | Ibogain | (6R,6aS,7S,9R)-7-ethyl-2-methoxy-6,6a,7,8,9,10,12,13-octahydro-5H-6,9- methanopyrido[10,20:1,2]azepino[4,5-b]indole |
+| 51. | MDAI | 6,7-dihydro-5H-indeno[5,6-d][1,3]dioxol-6-amine |
+| 52. | Methoxetamine (metoxetamin) | 2-(ethylamino)-2-(3-methoxyphenyl)cyclohexanone |
+| 53. | MPA, Methylthienylpropamine (metiltienil-propamin) | N-methyl-1-(thiophen-2-yl)propan-2-amine |
+| 54. | ODT, O-desmethyltramadol (O-dezmetiltramadol) | 3-{2-[(dimethylamino)methyl]-1-hydroxycyclohexyl}phenol |
+| 55. | para-methyl-4-methylaminorex (para-metil-4-metilaminorex) / 4,4’-DMAR | 4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine, illetve 4-methyl-5-(4-methylphenyl)-1,3-oxazolidin-2-imine tautomerek |
+| 56. | Pentedron, â-ethyl-methcathinone (â-etil-metkatinon) | 2-methylamino-1-phenyl-1-pentanone |
+| 57. | MBZP | 1-benzyl-4-methylpiperazine |
+| 58. | pFBT, 4-fluorotropacocaine (fluortropakokain) | 8-methyl-8-azabicyclo[3.2.1]oct-3-yl 4-fluorobenzoate |
+| 59. | pFPP | 1-(4-fluorophenyl)piperazine |
+| 60. | Phenazepam (fenazepam) | 7-bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-one |
+| 61 | Salvinorin A (Szalvinorin A) | (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3 furanyl)dodecahydro- 6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester |
+| 62. | TFMPP | 1-[3-(trifluoromethyl)phenyl]piperazine |
+| 63. | â-Me-PEA | 2-phenylpropan-1-amine |
+| 64. | 3-MeO-PCP | 1-[1-(3-methoxyphenyl)cyclohexyl]-piperidine |
+| 65. | Homoamphetamine | 3-amino-1-phenyl-butane |
+| 66. | AH-7921 | 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid |
+| 67. | 25I-NBOMe | 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin |
+| 68. |  |  |
+| 69. | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4- fluorobenzyl)-1H-indazole- 3-carboxamide |
+| 70. | 5F-AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5- fluoropentyl)-1H-indazole- 3-carboxamide |
+| 71. |  |  |
+| 72. | á-PVT, alpha-PVT, alpha-pyrrolidinopentiothiophenone | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
+| 73. | MDMB-CHMICA | N-[[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl]-3-methyl-valine, methyl ester |
+| 74. | MTP, methcathinone thiophen analog | 2-(methylamino)-1-(thiophen-2-yl)propan-1-one |
+| 75. | N-ethylnorketamine | 2-(2-chlorophenyl)-2-(ethylamino)cyclohexanone |
+| 76. | AM-1248 azepane isomer | adamant-1-yl[1-(1-methylazepan-3-yl)-1H-indol-3-yl] methanone |
+| 77. | ADB-FUBINACA | N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide |
+| 78. | MT-45 | 1-ciklohexil-4-(1,2-difenil-etil)piperazin |
+| 79. | 4-benzylpiperidine | 4-(phenylmethyl)piperidine |
+| 80. | 3,4-dichloromethylphenidate/ 3,4-CTMP | methyl-2-(3,4-dichlorophenyl)-2-[piperidin-2-yl]acetate |
+| 81. | A-836,339 | N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]- 2,2,3,3-tetramethylcyclopropane- carboxamide |
+| 82. | MXP, methoxyphenidine, 2-MeO-diphenidine | 1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine |
+| 83. | 3F-phenmetrazine, meta-fluoro- phenmetrazine, meta-F-phenmetrazine | 2-(3-fluorophenyl)-3-methylmorpholine |
+| 84. | N-(2-methoxyethyl)-N- (1-methylethyl)-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine | N-(2-methoxyethyl)-N-(1-methylethyl)-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
+| 85. | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol- methanamine | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
+| 86. | alpha-PBT; alfa-PBT; a-PBT; α-Pyrrolidinobutiothiophenone | 2-(Pyrrolidin-1-yl)-1-(thiophen-2-yl)butan-1-one |
+| 87. | Diclazepam, 2-Chlorodiazepam, Ro5-3448 | 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H- 1,4-benzodiazepin-2-one |
+| 88. | Diphenidine, 1,2- diphenylethylpiperidine; DPD; 1,2-DEP; DIPH | 1-(1,2-Diphenylethyl)piperidine |
+| 89. | MTTA; MTA; Mephtetramine | 2-[(Methylamino)methyl]-3,4-dihydronaphthalen-1(2H)-one |
+| 90. | Nitracaine | 3-(Diethylamino)-2,2-dimethylpropyl 4-nitrobenzoate |
+| 91. | EG-018 | (naphthalen-1-yl) (9-pentyl-9H-carbazol-3-yl)-methanone” |
+| 92. | ciklopropil-fentanil | N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid |
+| 93. | metoxiacetil-fentanil | 2-metoxi-N-fenil-N-[1-(2-feniletil)piperidin-4-yl]acetamid |
+| 94. | ADB-CHMINACA | N-(1-amino-3,3-demetil-1-oxobután-2-il)–1-(ciklohexil-metil)–1H-indazol-3-karboxamid |
+| 95. | CUMYL-4CN-BINACA | 1-(4-ciano-butil)–N-(2-fenilpropán-2-il)–1H-indazol-3-karboxamid |
 
 − és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 

@@ -22,9 +22,9 @@ az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal �
 
 9. § (1)
 
-(2) Az MFB tv. 1. melléklete az 1. melléklet szerint módosul.
+(2)
 
-10. § Hatályát veszti az MFB tv.
+10. §
 
 - a)
 - b)
@@ -32,7 +32,7 @@ az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal �
 - d)
 - e)
 - f)
-- g) 1. melléklet 3. pontja;
+- g)
 - h)
 - i)
 
@@ -125,8 +125,6 @@ az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal �
 (2) A 36. § a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendeletnek való megfelelést szolgálja.
 
 ### 1. melléklet a 2018. évi CXXVIII. törvényhez
-
-Az MFB tv. 1. melléklete a „8. MFB Invest Befektetési és Vagyonkezelő Zártkörűen Működő Részvénytársaság” sorral egészül ki.
 
 ### 2. melléklet a 2018. évi CXXVIII. törvényhez
 

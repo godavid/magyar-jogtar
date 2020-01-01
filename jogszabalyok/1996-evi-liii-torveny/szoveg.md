@@ -479,7 +479,7 @@ található.
 - g) növényvédő szerek, bioregulátorok és egyéb irtószerek, valamint a talaj termékenységét befolyásoló vegyi anyagok felhasználásához;
 - h) horgászathoz;
 - i) közösségi és tömegsportesemények rendezéséhez, sportversenyhez, technikai jellegű sporttevékenység folytatásához;
-- j) járművel történő közlekedéshez, az arra kijelölt utak, az engedélyezett tevékenységek végzéséhez szükséges munkagépek, valamint a feladatukat ellátó – külön jogszabályokban erre feljogosított – személyek járművei kivételével.
+- j) járművel történő közlekedéshez, az arra kijelölt mezőgazdasági és erdészeti használatú utak, az engedélyezett tevékenységek végzéséhez szükséges munkagépek, valamint a feladatukat ellátó – külön jogszabályokban erre feljogosított – személyek járművei kivételével.
 
 (2)
 
@@ -574,7 +574,7 @@ engedélyezésekor.
 
 (5)–(6)
 
-44. § (1) A természetvédelmi hatóság engedélye szükséges állatgyűjtemények, állatkertek, illetve egyéb vadon élő védett állatok tartására, idomítására szolgáló létesítmények, telephelyek kialakításához, fenntartásához, üzemeltetéséhez.
+44. § (1) Az állategészségügyi hatóság engedélye szükséges állatgyűjtemények, állatkertek, illetve egyéb vadon élő védett állatok tartására, idomítására szolgáló létesítmények, telephelyek kialakításához, fenntartásához, üzemeltetéséhez.
 
 (2) Elhullott, elejtett védett állat egyedét a megtalálónak – ha e törvény másként nem rendelkezik – az igazgatósághoz be kell jelentenie.
 
@@ -634,25 +634,23 @@ engedélyezésekor.
 
 (6) A barlang (5) bekezdés szerinti fellelésétől a biztosítási munkák elvégzéséig, illetve annak kiépítéséig az ingatlanon folytatott tevékenység nem folytatható. Amennyiben a biztosítási munkák elvégzéséhez, illetve a barlang kiépítéséhez szükséges engedélyek véglegessé válnak, valamint az (5) bekezdés szerinti költségek fedezete az igazgatóság részére átadásra kerül, akkor a természetvédelmi hatóság az ingatlanon végzett tevékenység folytatását engedélyezheti.
 
-51. § (1) A természetvédelmi hatóság engedélye szükséges
+51. § (1) A természetvédelemért felelős miniszter engedélye szükséges
 
 - a) barlang, barlangszakasz hasznosításához, illetve a hasznosítási mód megváltoztatásához;
 - b) barlang, barlangszakasz kiépítéséhez;
-- c) barlangi képződmények kimentéséhez, hasznosításához, értékesítéséhez, külföldre juttatásához.
+- c) barlangi képződmények kimentéséhez, hasznosításához, értékesítéséhez, külföldre juttatásához;
+- d) műszaki beavatkozáshoz, így különösen bejárat vagy barlangszakasz lezárásához, műtárgy elhelyezéséhez, azok felújításához, helyreállításához.
 
 (2)
 
-(3) A természetvédelmi hatóság engedélye szükséges a barlangban végzett, az (1) bekezdés hatálya alá nem tartozó tevékenységhez, továbbá a barlang állagára, állapotára, természetes élővilágára kiható valamennyi tevékenység megkezdéséhez, így különösen:
+(3)
 
-- a) barlangban, barlangszakaszban végzendő kutatáshoz, kísérlethez, gyűjtéshez, kivéve, ha a kutatást az igazgatóság végzi;
+(4) Az igazgatóság vagyonkezelői hozzájárulása szükséges
+
+- a) barlangban, barlangszakaszban végzendő kutatáshoz, kísérlethez, gyűjtéshez;
 - b) barlangi búvármerüléshez;
-- c) az (1) bekezdés b) pontja kivételével műszaki beavatkozáshoz, így különösen bejárat vagy barlangszakasz lezárásához, műtárgy elhelyezéséhez, azok felújításához, helyreállításához;
-- d) filmforgatáshoz;
-- e) a védőövezetet megállapító miniszteri rendeletben [48. § (5) bekezdés] meghatározott
-
-tevékenységekhez.
-
-(4) Jogszabályban meghatározott barlangok látogatásához az igazgatóság vagyonkezelői hozzájárulása szükséges.
+- c) filmforgatáshoz;
+- d) jogszabályban meghatározott barlangok látogatásához.
 
 (5) A miniszter határozza meg az (1) bekezdés b) pontjában meghatározott barlang, barlangszakasz kiépítése körébe tartozó műtárgyak és tevékenységek körét, valamint azokat a barlangokat, amelyeknek látogatása a (4) bekezdés alapján vagyonkezelői hozzájáruláshoz kötött. A (4) bekezdés alapján vagyonkezelői hozzájáruláshoz kötött barlangokban történő túravezetés, az engedélyköteles barlangi búvármerülés, valamint a barlangok kutatásának képesítési feltételeit a miniszter állapítja meg.
 
@@ -1063,6 +1061,8 @@ bűncselekmény elkövetése miatt jogerősen megállapította,
 - e) a természetvédelmi hatóság engedélyéhez, hozzájárulásához kötött tevékenységet engedély, hozzájárulás nélkül vagy attól eltérően végez
 
 természetvédelmi bírságot köteles fizetni.
+
+(1a) Ha az (1) bekezdés szerinti tevékenység végzője nem ismert, vagy kiléte nem állapítható meg, a felelősség – az ellenkező bizonyításáig – annak az ingatlannak a tulajdonosát és birtokosát (használóját) egyetemlegesen terheli, akinek érdekében a jogsértő magatartást folytatták. A tulajdonos mentesül az egyetemleges felelősség alól, ha megnevezi a tevékenység tényleges végzőjét, és kétséget kizáróan bizonyítja, hogy a felelősség nem őt terheli.
 
 (2) A természetvédelmi bírságot a természetvédelmi hatóság szabja ki.
 

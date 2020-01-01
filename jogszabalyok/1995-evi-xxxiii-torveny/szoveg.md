@@ -2192,7 +2192,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 ### A Szellemi Tulajdon Nemzeti Hivatalának jogállása
 
-115/D. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban e fejezeten belül: Hivatal) a szellemi tulajdon védelméért felelős kormányhivatal.
+115/D. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban e fejezeten belül: Hivatal) a szellemi tulajdon védelméért felelős kormányzati főhivatal.
 
 (2) A Hivatal elnökét a miniszterelnök, három elnökhelyettesét – az elnök javaslatára – a felügyeletet gyakorló miniszter (a továbbiakban: miniszter) nevezi ki és menti fel.
 

@@ -42,7 +42,7 @@ bemutatásával vehető igénybe.
 
 (2) Az (1) bekezdés szerinti éves személyenkénti időkereten felül az állam
 
-- a) a tanulói jogviszonnyal összefüggésben a gimnáziumban, szakközépiskolában, illetve szakiskolában tanulói jogviszonyban álló személy részére tanévenként 120 óra,
+- a) a tanulói jogviszonnyal összefüggésben a gimnáziumban, szakképző intézményben, illetve szakiskolában tanulói jogviszonyban álló személy részére tanévenként 120 óra,
 - b) a hallgatói jogviszonnyal összefüggésben a felsőoktatási hallgatói jogviszonyban álló személy részére szemeszterenként 60 óra,
 - c) a képzéssel összefüggésben a felnőttképzésben részt vevő személy részére képzésenként a képzés óraszáma 20 százalékának megfelelő mértékű térítésmentes jelnyelvi tolmácsszolgáltatást biztosít.
 
@@ -142,7 +142,7 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 (3) Közszolgáltatási tevékenység esetén a jelnyelvi tolmácsolás költségét a tevékenységet végző, illetve a szolgáltatást nyújtó szerv, szervezet vagy intézmény viseli.
 
-(4) A közoktatásról szóló törvény, a szakképzésről szóló törvény, a felsőoktatásról szóló törvény és a felnőttképzésről szóló törvény alapján megszervezett szóbeli vizsgák során a jelnyelvi tolmácsolás költségét a vizsgát szervező intézmény viseli.
+(4) A nemzeti köznevelésről szóló törvény, a szakképzésről szóló törvény, a nemzeti felsőoktatásról szóló törvény és a felnőttképzésről szóló törvény alapján megszervezett szóbeli vizsgák során a jelnyelvi tolmácsolás költségét a vizsgát szervező intézmény viseli.
 
 ### A jelnyelv és a speciális kommunikációs rendszerek elsajátítására vonatkozó szabályok
 
@@ -176,9 +176,9 @@ hallássérült vagy siketvak gyermekek szülei (gyámjai) írásban kezdeménye
 
 (3) A gyógypedagógiai intézmény az óvodai nevelést, iskolai nevelést-oktatást bilingvális módszerrel is köteles biztosítani azon hallássérült vagy siketvak gyermek számára, akinek szülője (gyámja) ezt írásban kezdeményezi.
 
-(4) A bilingvális módszerrel történő korai fejlesztést és gondozást, óvodai nevelést, iskolai nevelést és oktatást olyan, a közoktatásról szóló törvény 17. §-ában foglalt képesítésű személy végezhet, aki egyúttal felsőoktatás keretében jelnyelv szakos képzettséget vagy felsőoktatási intézményben szervezett, a bilingvális oktatásra felkészítő szakirányú továbbképzés során szakirányú szakképzettséget szerzett.
+(4) A bilingvális módszerrel történő korai fejlesztést és gondozást, óvodai nevelést, iskolai nevelést és oktatást olyan, a nemzeti köznevelésről szóló törvényben meghatározott végzettséggel és szakképesítéssel, illetve szakképzettséggel rendelkező személy végezhet, aki egyúttal felsőoktatás keretében jelnyelv szakos képzettséget vagy felsőoktatási intézményben szervezett, a bilingvális oktatásra felkészítő szakirányú továbbképzés során szakirányú szakképzettséget szerzett.
 
-(5) A közoktatásról szóló törvény szerinti szakértői és rehabilitációs bizottság tájékoztatást nyújt a szülő (gyám) számára a bilingvális, valamint az auditív-verbális oktatási módszerekről.
+(5) A nemzeti köznevelésről szóló törvény szerinti szakértői és rehabilitációs bizottság tájékoztatást nyújt a szülő (gyám) számára a bilingvális, valamint az auditív-verbális oktatási módszerekről.
 
 ### A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosítása
 

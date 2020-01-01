@@ -40,7 +40,7 @@ Az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, t�
 
 (3) Rendkívüli munkavégzési körülmények esetére (pl. mentési, katasztrófaelhárítási tevékenységek), illetve a rendvédelmi szerveknél, az Országgyűlési Őrségnél, a polgári nemzetbiztonsági szolgálatoknál, a katasztrófavédelem szerveinél munkavégzésre irányuló jogviszonyban, szolgálati viszonyban, a Nemzeti Adó- és Vámhivatalnál szolgálati viszonyban kifejtett munkatevékenységre a feladatkörében érintett miniszter – az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter – által kiadott külön jogszabály e törvény figyelembevételével kivételesen indokolt esetben eltérő követelményeket, eljárási szabályokat állapíthat meg az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozóan.
 
-(4) A honvédelemért felelős miniszter a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes építési munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, szolgálati viszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, közalkalmazotti jogviszonyban vagy munkavégzésre irányuló jogviszonyban kifejtett munkatevékenységre, illetve a rendkívüli munkavégzési körülmények esetére – e törvény figyelembevételével, kivételesen indokolt esetben – eltérő követelményeket, eljárási szabályokat állapíthat meg az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozóan.
+(4) A honvédelemért felelős miniszter a honvédelmi szervezeteknél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézménynél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, ideiglenes építési munkahelyen, azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál szolgálati viszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, közalkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban vagy munkavégzésre irányuló jogviszonyban kifejtett munkatevékenységre, a rendkívüli munkavégzési körülmények esetére – e törvény figyelembevételével, kivételesen indokolt esetben – eltérő követelményeket, eljárási szabályokat állapíthat meg az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozóan.
 
 10. § A 9. §-ban foglaltak a magyarországi — ideértve a vámszabadterületen történő — munkavégzésre vonatkoznak, kivéve, ha törvény, nemzetközi szerződés, ez utóbbi hiányában a nemzetközi magánjog szabálya másként rendeli.
 
@@ -108,7 +108,7 @@ Az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, t�
 
 (4) Egyéni védőeszközt forgalomba hozni, használatba venni akkor szabad, ha az rendelkezik egyéni védőeszköz EK-megfelelőségi nyilatkozattal, illetve egyéni védőeszköz EK típustanúsítvánnyal. Az egyéni védőeszközök megfelelőségének tanúsítását a foglalkoztatáspolitikáért felelős miniszter rendeletében foglaltak szerint kell elvégezni.
 
-(5) A foglalkoztatáspolitikáért felelős miniszter meghatározza az egyéni védőeszköz EK-megfelelőségi nyilatkozata, egyéni védőeszköz EK típustanúsítványa kiadásának, valamint az egyéni védőeszközök minőségét biztosító rendszer, továbbá a gyártás minőségirányítási rendszere ellenőrzésének részletes szabályait.
+(5)
 
 (6) Amennyiben külön jogszabály egyes munkaeszközök üzembe helyezését hatósági engedélyhez köti, ez a hatósági engedély egyenértékű a (3) bekezdés szerinti megfelelőségi tanúsítvánnyal.
 
@@ -340,7 +340,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 - h) teljes felelősséggel megtenni minden szükséges intézkedést a munkavállalók biztonsága és egészségvédelme érdekében, figyelembe véve a változó körülményeket is, valamint törekedve a munkakörülmények folyamatos javítására;
 - i) a munkabiztonsági szaktevékenységnek, illetve munkaegészségügyi szaktevékenységnek minősített feladatok ellátásáról az e törvényben meghatározott módon gondoskodni és az előírt feladatok ellátására e törvényben meghatározott személyt, illetve szervezetet biztosítani.
 
-(8) A (2) és (3) bekezdésben meghatározott feladatok elvégzése munkabiztonsági, illetve munkaegészségügyi szaktevékenységnek minősül. A kockázatértékelés elvégzésekor a kémiai biztonság területén a külön jogszabályban foglalt szempontokat is figyelembe kell venni.
+(8) A (2) és (3) bekezdésben meghatározott feladatok elvégzése munkabiztonsági, illetve munkaegészségügyi szaktevékenységnek minősül. A kockázatértékelés elvégzésekor a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló jogszabályban foglalt szempontokat is figyelembe kell venni.
 
 (9) A munkáltató a kockázatértékelést követően, annak megállapításait figyelembe véve, a feltárt kockázatok kezelése során határozza meg a védekezés leghatékonyabb módját, a kollektív, műszaki egyéni védelem módozatait, illetve az alkalmazandó szervezési és egészségügyi megelőzési intézkedéseket.
 
@@ -414,15 +414,70 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (2) Az (1) bekezdésben meghatározott veszélyeztetésnek minősül különösen a szükséges biztonsági berendezések, az egyéni védőeszközök működőképtelensége, illetve hiánya.
 
+### IV/A. Fejezet — MUNKAEGÉSZSÉGÜGYI BEJELENTÉSEK ÉS NYILVÁNTARTÁSOK
+
+63/A. § (1) A munkáltató a veszélyes anyagok elleni védekezés és az általuk okozott egészségkárosodások megelőzésének céljából nyilvántartást vezet a (2) bekezdésben szereplő, a munkavállalók munkahelyi expozíciójára vonatkozó adatokról. A nyilvántartás célja továbbá, hogy a munkavállalók egészségének védelme, a veszélyes anyagok által okozott foglalkozási megbetegedések megelőzése, és a foglalkozási megbetegedés foglalkozási eredetének tisztázása érdekében a veszélyes anyagok okozta kockázatok utólag azonosíthatóak, ellenőrizhetőek és dokumentáltak legyenek.
+
+(2) A nyilvántartás tartalmazza
+
+- a) a munkavállaló nevét, születési helyét, idejét,
+- b) az expozíciót okozó veszélyes anyag nevét,
+- c) a munkavállaló napi, heti és éves expozíciós idejét,
+- d) az expozíciós koncentráció mért adatait anyagonként.
+
+(3) A munkáltató a nyilvántartásban szereplő adatokat a munkaviszony megszűnését követő tíz évig, ha a munkavállaló munkahelyén rákkeltő hatású anyagoknak van kitéve, ötven évig megőrzi.
+
+(4) Amennyiben a munkáltató jogutód nélkül megszűnik, a (2) bekezdés szerint nyilvántartott adatokat a munkavégzés helye szerint illetékes munkavédelmi hatóságnak átadja az (1) bekezdésben meghatározott célból.
+
+(5) A munkavédelmi hatóság az adatok őrzéséről a (3) bekezdésben meghatározottak szerint gondoskodik.
+
+63/B. § (1) A munkáltató a rákkeltő anyagok elleni védekezés és az általuk okozott egészségkárosodások, valamint daganatos megbetegedések megelőzésének céljából nyilvántartást vezet azokról a munkavállalókról, akik munkavégzésük során rákkeltő vagy mutagén anyagok expozíciójának vannak vagy lehetnek kitéve. A nyilvántartás célja továbbá, hogy a munkavállalók egészségének védelme, a rákkeltő vagy mutagén anyagok által okozott foglalkozási eredetű egészségkárosodások, valamint daganatos megbetegedések megelőzése, és a foglalkozási megbetegedés foglalkozási eredetének tisztázása érdekében a rákkeltő vagy mutagén anyagok okozta kockázatok utólag azonosíthatóak, ellenőrizhetőek és dokumentáltak legyenek.
+
+(2) A nyilvántartás tartalmazza
+
+- a) a munkavállaló nevét, születési helyét, idejét,
+- b) az expozíciót okozó rákkeltő anyag nevét,
+- c) a munkavállaló napi, heti és éves expozíciós idejét,
+- d) az expozíciós koncentráció mért adatait anyagonként.
+
+(3) A munkáltató az (2) bekezdés szerinti nyilvántartásban szereplő adatokat az expozíció utolsó napját követő ötven évig megőrzi.
+
+(4) Amennyiben a munkáltató jogutód nélkül megszűnik, az (2) bekezdés szerint nyilvántartott adatokat a munkavégzés helye szerint illetékes munkavédelmi hatóságnak átadja az (1) bekezdésben meghatározott célból.
+
+(5) A munkavédelmi hatóság az adatok őrzéséről a (3) bekezdés szerint gondoskodik.
+
+63/C. § (1) A foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló jogszabályban meghatározott rákkeltővel végzett tevékenységet, annak veszélyessége miatt, hatósági ellenőrzés lefolytatása, valamint egy jövőben esetlegesen bekövetkező fokozott expozíció vagy foglalkozási megbetegedés foglalkozási eredetének tisztázása érdekében minden év január 10-ig a munkavédelmi hatóság részére be kell jelenteni.
+
+(2) Az alkalmazandó bejelentőlapot a munkavédelmi hatóság a foglalkoztatáspolitikáért felelős miniszter hivatalos honlapján közzéteszi. A bejelentés tartalmazza:
+
+- a) a munkáltató nevét, telephely címét, telefonszámát, e-mail-címét,
+- b) a tevékenység telephelyen belüli pontos helyszínét,
+- c) az ágazati, szakágazati besorolást,
+- d) az utolsó bejelentés időpontját,
+- e) a rákkeltők vagy mutagén anyagok használatát, a használat indoklásával,
+- f) az expozíciót jelentő munkakörök megnevezését és a munkakörben dolgozók számát,
+- g) a rákkeltővel exponált munkavállalók születési évét, TAJ számát, munkakörét,
+- h) a rákkeltővel vagy mutagénnel, és rákkeltőt vagy mutagént tartalmazó keverékekkel kapcsolatos adatokat,
+- i) a tárgyévben végzett levegőszennyezettség-vizsgálatok eredményeit (mg/m3) anyagonként.
+
+(3) A munkavédelmi hatóság a (2) bekezdés szerinti bejelentésben szereplő adatok alapján a 83/A. § szerint nyilvántartást vezet.
+
+(4) Az e §-hoz kapcsolódó végrehajtási szabályokat a foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló jogszabály tartalmazza.
+
 ### V. Fejezet — A MUNKABALESETEK ÉS A FOGLALKOZÁSI MEGBETEGEDÉSEK BEJELENTÉSE, KIVIZSGÁLÁSA ÉS NYILVÁNTARTÁSA
 
 64. § (1) Azt a munkabalesetet, amely esetében a munkavállaló több mint három munkanapon át nem volt munkaképes, valamint a foglalkozási megbetegedést és a fokozott expozíciós esetet be kell jelenteni, ki kell vizsgálni és nyilvántartásba kell venni.
 
-(2) Az (1) bekezdésben foglaltakat a munkabaleset esetén – eltérő jogszabályi rendelkezés hiányában – a munkáltató, foglalkozási megbetegedés és fokozott expozíció esetén a foglalkoztatáspolitikáért felelős miniszternek az egészségügyért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott szerv (személy) teljesíti.
+(2) Az (1) bekezdésben foglaltakat
+
+- a) a munkabaleset és a fokozott expozíció esetén – eltérő jogszabályi rendelkezés hiányában – a munkáltató,
+- b) a foglalkozási megbetegedés esetén a foglalkoztatáspolitikáért felelős miniszternek az egészségügyért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott szerv vagy személy
+
+teljesíti.
 
 (3) A munkáltató a munkabalesetek, foglalkozási megbetegedések és fokozott expozíciók esetén a sérült, megbetegedett, illetve fokozott expozícióban érintett következő személyes adatait rögzíti: név (ideértve a születési nevet is), anyja neve, társadalombiztosítási azonosító jele (taj-száma), születési hely és időpont, nem, állampolgárság, lakóhely (lakcím). A munkáltató esetében az adószámot kell feltüntetni, amennyiben adószámmal nem rendelkezik, személyes adataként saját adóazonosító jelét is rögzítenie kell.
 
-(4) A munkáltatónak a munkaképtelenséggel járó munkabalesetet haladéktalanul ki kell vizsgálnia, és a kivizsgálás eredményét munkabaleseti jegyzőkönyvben kell rögzítenie. A kivizsgálás megkezdéséről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosát tájékoztatni kell. A kivizsgálásban történő orvosi közreműködésről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosa dönt. Súlyos munkabaleset esetén a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának részt kell venni a kivizsgálásban. A munkaképtelenséget nem eredményező munkabaleset körülményeit is tisztázni kell.
+(4) A munkáltatónak a munkaképtelenséggel járó munkabalesetet és a fokozott expozíciós esetet haladéktalanul ki kell vizsgálnia, és a kivizsgálás eredményét munkabaleset esetén a munkabaleseti jegyzőkönyvben, fokozott expozíció esetén a vizsgálati lapon kell rögzítenie. A munkabaleset kivizsgálásának megkezdéséről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosát tájékoztatni kell. A munkabaleset kivizsgálásában történő orvosi közreműködésről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosa dönt. Súlyos munkabaleset és fokozott expozíció esetén a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának részt kell venni a kivizsgálásban. A munkaképtelenséget nem eredményező munkabaleset körülményeit is tisztázni kell.
 
 (5) A munkáltató köteles a súlyos munkabalesetet a munkavédelmi hatóságnak [84. § (2) bekezdés] azonnal bejelenteni.
 
@@ -432,17 +487,19 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (2) Munkabiztonsági szaktevékenységnek minősül a munkabaleset kivizsgálása.
 
+(3) A fokozott expozíciós eset kivizsgálása munkaegészségügyi és munkabiztonsági szaktevékenységnek minősül.
+
 66. § (1) A sérült, illetőleg a balesetet észlelő személy köteles a balesetet a munkát közvetlenül irányító személynek haladéktalanul jelenteni. Ha a sérült neki felróható okból ezen kötelezettségének nem tesz eleget, a baleset munkáltatói kivizsgálása során a sérültet terheli annak bizonyítása, hogy a baleset a munkavégzés során vagy azzal összefüggésben történt.
 
 (2) A munkáltatónak minden bejelentett, illetve tudomására jutott balesetről meg kell állapítania, hogy munkabalesetnek tekinti-e. Ha nem tekinti munkabalesetnek, akkor erről és a jogorvoslat lehetőségéről (68. §) a sérültet, halálos baleset esetén a hozzátartozót értesítnie kell.
 
-(3) A munkáltatónak lehetővé kell tennie a munkavédelmi képviselő részvételét a munkabaleset kivizsgálásában.
+(3) A munkáltatónak lehetővé kell tennie a munkavédelmi képviselő részvételét a munkabaleset, a foglalkozási megbetegedés, valamint a fokozott expozíciós eset körülményeinek kivizsgálásában.
 
 67. § A munkabaleset bekövetkezésétől számított 3 év után a munkáltató a törvényben foglaltak alapján nem köteles a munkabalesetet bejelenteni, kivizsgálni és nyilvántartásba venni. Az elévülésre egyebekben a polgári jogi szabályokat kell alkalmazni.
 
 68. § (1) Ha a sérült a munkáltatónak a munkabaleset bejelentésével, kivizsgálásával kapcsolatos intézkedését vagy mulasztását, továbbá ha az érintett munkavállaló a foglalkozási megbetegedés vagy a fokozott expozíciós eset kivizsgálásának elmulasztását sérelmezi, illetve ha a munkavállaló vitatja a sérülés súlyosságával kapcsolatos munkáltatói megállapítást, az 1. melléklet szerinti bejelentőlapon elektronikusan vagy egyéb úton a területileg illetékes munkavédelmi hatósághoz fordulhat. A munkavállaló bejelentése alapján a munkavédelmi hatóság az eljárást hivatalból folytatja le. A munkavédelmi hatóság a foglalkozási megbetegedés gyanúját panaszoló vagy annak kivizsgálása elmulasztását sérelmező személyt a bejelentésre jogosult orvoshoz vagy a munkahigiénés és foglalkozás-egészségügyi szervhez irányítja.
 
-(2) Ha az érintett munkavállaló egészségi állapotának romlása a munkavégzéssel vagy a munkavégzés, munkafolyamat során előforduló kóroki tényezőkkel hozható összefüggésbe, és a foglalkozási megbetegedést a 64. § (2) bekezdésében meghatározott szerv, illetve személy nem jelentette be, a munkavállaló a területileg illetékes munkavédelmi hatósághoz fordulhat. A munkavédelmi hatóság a foglalkozási megbetegedés gyanúját a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló jogszabályban meghatározott szervhez előzetes vizsgálat és bejelentés céljából továbbítja.
+(2) Ha az érintett munkavállaló egészségi állapotának romlása a munkavégzéssel vagy a munkavégzés, munkafolyamat során előforduló kóroki tényezőkkel hozható összefüggésbe, és a foglalkozási megbetegedést a 64. § (2) bekezdés b) pontjában meghatározott szerv, illetve személy nem jelentette be, a munkavállaló a területileg illetékes munkavédelmi hatósághoz fordulhat. A munkavédelmi hatóság a foglalkozási megbetegedés gyanúját a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló jogszabályban meghatározott szervhez előzetes vizsgálat és bejelentés céljából továbbítja.
 
 (3) Az (1) és (2) bekezdésben meghatározott eljárásban a sérült, vagy ha a sérült meghalt, vagy egészségi állapota miatt jogainak érvényesítésére nem képes, a hozzátartozója ügyfélnek minősül. A kérelemben a hozzátartozói minőséget valószínűsíteni kell.
 
@@ -464,7 +521,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (4) A kiegyensúlyozott részvétel érdekében a munkáltató köteles a munkavédelmi kérdésben intézkedési jogkörrel bíró személlyel képviseltetni magát a tanácskozáson.
 
-(5) A munkavédelmi érdekképviseletre, érdekegyeztetésre vonatkozó részletes előírásokat a 9. § (4) bekezdés hatálya alá tartozó honvédségi szervezetek és a Katonai Nemzetbiztonsági Szolgálat esetében más jogszabályban foglalt – így különösen a honvédek jogállásáról szóló 2012. évi CCV. törvény – előírásokkal összhangban kell meghatározni és alkalmazni.
+(5) A munkavédelmi érdekképviseletre, érdekegyeztetésre vonatkozó részletes előírásokat a 9. § (4) bekezdés hatálya alá tartozó honvédelmi szervezetek és a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény esetében más jogszabályban foglalt – így különösen a honvédek jogállásáról szóló 2012. évi CCV. törvény – előírásokkal összhangban kell meghatározni és alkalmazni.
 
 ### A munkavédelmi képviselő, a munkahelyi munkavédelmi bizottság, a paritásos munkavédelmi testület
 
@@ -519,7 +576,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 - b) részt vehet a munkáltató azon döntései előkészítésében, amelyek hatással lehetnek a munkavállalók egészségére és biztonságára, ideértve a szakemberek előírt foglalkoztatására (8. §, 57–58. §-ok), a munkavédelmi oktatás (55. §) megtervezésére és megszervezésére, az új munkahelyek létesítésére vonatkozó döntéseket is;
 - c) tájékoztatást kérhet a munkáltatótól minden kérdésben, amely érinti az egészséget nem veszélyeztető és biztonságos munkavégzést;
 - d) véleményt nyilváníthat, kezdeményezheti a munkáltatónál a szükséges intézkedés megtételét;
-- e) az adatvédelmi előírások betartásával részt vehet a munkabalesetek kivizsgálásában, közreműködhet a foglalkozási megbetegedés körülményeinek feltárásában;
+- e) az adatvédelmi előírások betartásával részt vehet a munkabalesetek kivizsgálásában, közreműködhet a foglalkozási megbetegedés és a fokozott expozíciós eset körülményeinek feltárásában;
 - f) indokolt esetben a hatáskörrel rendelkező munkavédelmi hatósághoz fordulhat.
 - g) a hatósági ellenőrzés során az ellenőrzést végző személlyel közölheti észrevételeit.
 
@@ -539,7 +596,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 - b) a szükséges eszközöket, így különösen a működési, technikai, anyagi feltételeket, továbbá a vonatkozó szakmai előírásokat;
 - c) a képviselő megválasztását követő egy éven belül legalább 16 órás képzésben, ezt követően, valamint újraválasztása esetén évente legalább 8 órás továbbképzésben való részvétel lehetőségét.
 
-(2) Az (1) bekezdésben foglaltak költségei a munkáltatót terhelik, továbbá az (1) bekezdés c) pontja szerinti képzés csak rendes munkaidőben és a felnőttképzésről szóló törvény szerinti tevékenység keretében történhet.
+(2) Az (1) bekezdésben foglaltak költségei a munkáltatót terhelik, továbbá az (1) bekezdés c) pontja szerinti képzés csak rendes munkaidőben és szakmai képzés keretében történhet.
 
 76. § (1) A munkavédelmi képviselő (bizottság) jogai gyakorlásában nem akadályozható és jogai gyakorlása miatt hátrány nem érheti.
 
@@ -582,6 +639,8 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 - c) a munkabalesetek, foglalkozási megbetegedések és fokozott expozíciós esetek kivizsgálására, bejelentésére, nyilvántartására, valamint megelőzésére tett intézkedésekre.
 
 (5) A munkavédelmi hatóság jogosult az ellenőrzése során feltárt hiányosságok megszüntetése érdekében e törvényben és külön jogszabályban meghatározott intézkedés és felelősségre vonás alkalmazására.
+
+(6) Ha a kötelezett a munkavédelmi hatóság végleges döntésében foglalt kötelezésnek nem tett eleget, a meghatározott cselekmény végrehajtását a munkavédelmi hatóság foganatosítja.
 
 81/A. § (1) A munkavédelmi hatóság az ellenőrzési tevékenységét a foglalkoztatáspolitikáért felelős miniszter által közzétett ellenőrzési irányelv alapján végzi. Az irányelvet a foglalkoztatáspolitikáért felelős miniszter évenként az ellenőrzési időszakot megelőző 45. napig a hivatalos honlapján elektronikusan teszi közzé.
 
@@ -644,19 +703,42 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 82/D. § (1) A munkavédelmi hatóság közigazgatási bírsággal sújtja azt a természetes személyt, aki a szervezett munkavégzés során:
 
 - a) a munka egészséges és biztonságos végzésére, illetve annak ellenőrzésére vonatkozó szabályokat megszegi vagy feladatkörében e szabályok végrehajtásának mellőzését eltűri,
-- b) a munkabalesettel kapcsolatban nyilvántartási, kivizsgálási, jegyzőkönyv-készítési és bejelentési kötelezettségét kellő időben nem teljesíti vagy valótlan adatot közöl, illetve a baleset valódi okát eltitkolja vagy feltárását megakadályozza,
-- c) a foglalkozási megbetegedéssel, fokozott expozíciós esettel kapcsolatos adatszolgáltatási kötelezettségét nem teljesíti, valótlan adatot közöl, a foglalkozási megbetegedés, fokozott expozíció valódi okát eltitkolja, vagy kivizsgálását akadályozza, vagy
+- b) a munkabalesettel, fokozott expozíciós esettel kapcsolatos nyilvántartási, kivizsgálási, jegyzőkönyvkészítési és bejelentési kötelezettségét kellő időben nem teljesíti vagy valótlan adatot közöl, valamint a baleset, fokozott expozíciós eset valódi okát eltitkolja vagy feltárását akadályozza,
+- c) a foglalkozási megbetegedéssel kapcsolatos adatszolgáltatási kötelezettségét nem teljesíti, valótlan adatot közöl, a foglalkozási megbetegedés valódi okát eltitkolja vagy kivizsgálását akadályozza, vagy
 - d) a munkáltató képviselőjeként a munkavédelmi képviselő választásra vonatkozó szabályokat megszegi, a munkavédelmi képviselőt a munkavédelemre vonatkozó szabályban biztosított jogainak gyakorlásában akadályozza, vagy a munkavédelmi képviselővel szemben jogainak gyakorlása miatt hátrányos intézkedést tesz.
 
 (2) Az (1) bekezdés alapján kiszabott bírság összege ötszázezer forintig terjedhet. A közigazgatási bírság egy eljárásban, ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
 
-83. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály meghatározott szakterületen munkabiztonsági szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag a munkavédelmi hatóság vagy – a Kormány rendeletében meghatározott szakterületeken – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara) engedélyével rendelkező személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az ilyen személy igénybevételéhez fűződnek.
+83. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály meghatározott szakterületen munkabiztonsági szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara) engedélyével rendelkező személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az ilyen személy igénybevételéhez fűződnek.
 
-(2) Az (1) bekezdés szerinti szakértői tevékenység folytatását a munkavédelmi hatóság, illetve a kamara annak engedélyezi, aki büntetlen előéletű, nem áll a munkabiztonsági szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik az e törvény felhatalmazása alapján a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
+(2) Az (1) bekezdés szerinti szakértői tevékenység folytatását a kamara annak engedélyezi, aki büntetlen előéletű, nem áll a munkabiztonsági szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik az e törvény felhatalmazása alapján a Kormány rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(3) A munkavédelmi hatóság, illetve a kamara a szakértői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(3) A kamara a szakértői tevékenység folytatására engedéllyel rendelkező személyekről az (1) bekezdés szerinti szakértői tevékenység igénybevételének céljából nyilvántartást vezet.
 
 (4) A (3) bekezdésben meghatározott nyilvántartás a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott közhiteles adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(5) A (3) bekezdésben meghatározott nyilvántartás tartalmazza:
+
+- a) a munkabiztonsági szakértő nevét,
+- b) a munkabiztonsági szakértő lakcímét, telefonszámát, e-mail-címét,
+- c) az engedélyezett szolgáltatási tevékenység megjelölését,
+- d) az engedély számát és a tevékenység megkezdésének vagy folytatásának az engedélyben foglalt területi és időbeli korlátait,
+- e) az engedély kiadásának napját,
+- f) a szakértői tevékenység szüneteltetésének tényét és időtartamát,
+- g) a kérelmező anyja nevét, születési helyét és idejét, végzettségre vonatkozó adatait.
+
+(6) A nyilvántartás (5) bekezdés a), c)–f) pontja szerinti adatai közérdekből nyilvános adatok, amely adatokat a kamara a honlapján közzéteszi.
+
+(7) A kérelmező kérelmében tett hozzájárulása esetén a kamara a nyilvántartás (5) bekezdés b) és g) pontja szerinti adatait is közzéteszi a honlapján.
+
+(8) A kamara a munkabiztonsági szakértő adatait törli a honlapról
+
+- a) a szakértői tevékenység végzésére jogosító engedély visszavonását követő napon, vagy
+- b) a szakértő haláláról történő értesítést követő napon.
+
+(9) Az (5) bekezdés b) és g) pontja szerinti adatokat a (7) bekezdés szerinti hozzájárulás visszavonása esetén a kamara haladéktalanul, de legkésőbb a hozzájárulás visszavonását követő munkanapon törli a honlapról és a nyilvántartásból.
+
+(10) A kamara a nyilvántartásban szereplő adatokat az engedély visszavonását vagy a szakértő halálát követő öt év elteltével törli.
 
 83/A. § (1) A munkavédelmi hatóság nyilvántartást vezet annak érdekében, hogy a kockázatok minimálisra csökkentésével elősegítse a munkavállalók védelmét a rákkeltő anyagok okozta foglalkozási eredetű egészségkárosodásokkal, illetve daganatos megbetegedésekkel szemben.
 
@@ -733,7 +815,7 @@ kapcsolatban.
 - m) az ellenőrzés lefolytatásának akadályozása esetén a rendőrség igénybevételére;
 - n) munkahigiénés vizsgálatok elvégeztetését elrendelni.
 
-(2) A munkavédelmi hatóság – a közúti közlekedéssel kapcsolatos munkabalesetet kivéve – köteles a bejelentett súlyos munkabalesetet, valamint a foglalkozási megbetegedést, a fokozott expozíciós esetet – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni.
+(2) A munkavédelmi hatóság – a közúti közlekedéssel kapcsolatos munkabalesetet kivéve – köteles a bejelentett súlyos munkabalesetet, valamint a foglalkozási megbetegedést – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni.
 
 (3) A munkavédelmi hatóság – a munkavállaló egészségének és testi épségének megóvása, továbbá munkabaleset megelőzése céljából – az (1) bekezdés f), g) és j) pontjaiban foglalt határozatának azonnali végrehajtását rendelheti el.
 
@@ -759,11 +841,11 @@ kapcsolatban.
 - b) a kémiai biztonsággal összefüggő feladatok végrehajtására, kivéve a munkájuk során veszélyes anyagokkal és veszélyes keverékekkel kapcsolatos expozícióban foglalkoztatott munkavállalók egészsége és biztonsága védelmét biztosító feladatokra, előírások ellenőrzésére,
 - c) a nemdohányzók védelmére vonatkozó előírások ellenőrzésére,
 - d) a bányafelügyelet hatáskörébe tartozó hatósági ügyekre, kivéve a munkaegészségügyi feladatokat, továbbá
-- e) a honvédségi szervezetekre, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyre, illetve ideiglenes építési munkahelyre, a Katonai Nemzetbiztonsági Szolgálatra, azon gazdasági társaságokra, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervekre, az Országgyűlési Őrségre és az önkormányzati tűzoltóságra.
+- e) a honvédelmi szervezetekre, honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézményre, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyre, ideiglenes építési munkahelyre, azon gazdasági társaságokra, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságokra, továbbá a rendvédelmi szervekre, az Országgyűlési Őrségre és az önkormányzati tűzoltóságra.
 
 (2) Az (1) bekezdés e) pontjában említett szervek tekintetében külön jogszabály rendelkezik a munkavédelmi hatósági tevékenység ellátásáról.
 
-(3) A rendvédelmi szervek, az Országgyűlési Őrség, valalmint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatok ellátására kormányrendeletben kijelölt szerv e törvény szerinti eljárásaiban
+(3) A rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatok ellátására kormányrendeletben kijelölt szerv e törvény szerinti eljárásaiban
 
 - a) a kérelem kormányablaknál nem terjeszthető elő,
 - b) az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.
@@ -792,7 +874,7 @@ kapcsolatban.
 
 - 1. Áttelepítés: munkavédelmi szempontból korábban üzembe helyezésre kötelezett munkaeszköz olyan áthelyezése, amely üzembe helyezési, üzemeltetési körülményei tekintetében lényeges változást okoz. 1/A. Baleset: az emberi szervezetet ért olyan egyszeri külső hatás, amely a sérült akaratától függetlenül, hirtelen vagy aránylag rövid idő alatt következik be és sérülést, mérgezést vagy más (testi, lelki) egészségkárosodást, illetőleg halált okoz. 1/B. egyéni védőeszköz EK-megfelelőségi nyilatkozat: a gyártó írásbeli nyilatkozata, hogy a védőeszköz a mintának és az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló külön jogszabály előírásainak megfelel. 1/C. egyéni védőeszköz EK típustanúsítvány: megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EK típusvizsgálat alapján megfelel az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló külön jogszabály előírásainak. 1/D. Foglalkozási megbetegedés: a munkavégzés, a foglalkozás gyakorlása közben bekövetkezett olyan heveny és idült, valamint a foglalkozás gyakorlását követően megjelenő vagy kialakuló idült egészségkárosodás, amely
   - a) a munkavégzéssel, a foglalkozással kapcsolatos, a munkavégzés, a munkafolyamat során előforduló fizikai, kémiai, biológiai, pszichoszociális és ergonómiai kóroki tényezőkre vezethető vissza, illetve
-  - b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének a következménye. 1/E. Fokozott expozíció: a munkavállaló szervezetében a munkavégzés során, a foglalkozás gyakorlása közben vagy azzal összefüggésben a munkahelyek kémiai biztonságáról szóló miniszteri rendeletben meghatározott foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós (hatás) mutatók biológiai határértékeket meghaladó koncentrációja vagy mértéke, illetve zaj esetében 4000 Hz-en a 30 dB halláscsökkenés bármely fülön. 1/F. Kockázat: a veszélyhelyzetben a sérülés vagy az egészségkárosodás valószínűségének és súlyosságának együttes hatása. 1/G. Közúti közlekedés: a vízi, a légi útvonalon, a vasúti vonalon, a közúton, valamint bármely föld alatti vagy föld feletti útvonalon járművel történő helyváltoztatás. 1/H. Pszichoszociális kockázat: a munkavállalót a munkahelyén érő azon hatások (konfliktusok, munkaszervezés, munkarend, foglalkoztatási jogviszony bizonytalansága stb.) összessége, amelyek befolyásolják az e hatásokra adott válaszreakcióit, illetőleg ezzel összefüggésben stressz, munkabaleset, lelki eredetű szervi (pszichoszomatikus) megbetegedés következhet be. 1/I. egyéni védőeszköz EU-megfelelőségi nyilatkozat: a gyártó írásbeli nyilatkozata, hogy az egyéni védőeszköz a mintának, illetve az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet előírásainak megfelel. 1/J. egyéni védőeszköz EU típustanúsítvány: a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EU típusvizsgálat alapján megfelel az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet előírásainak.
+  - b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének a következménye. 1/E. Fokozott expozíció: a munkavállaló szervezetében a munkavégzés során, a foglalkozás gyakorlása közben vagy azzal összefüggésben a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló miniszteri rendeletben meghatározott foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós (hatás) mutatók biológiai határértékeket meghaladó koncentrációja vagy mértéke, illetve zaj esetében 4000 Hz-en a 30 dB halláscsökkenés bármely fülön. 1/F. Kockázat: a veszélyhelyzetben a sérülés vagy az egészségkárosodás valószínűségének és súlyosságának együttes hatása. 1/G. Közúti közlekedés: a vízi, a légi útvonalon, a vasúti vonalon, a közúton, valamint bármely föld alatti vagy föld feletti útvonalon járművel történő helyváltoztatás. 1/H. Pszichoszociális kockázat: a munkavállalót a munkahelyén érő azon hatások (konfliktusok, munkaszervezés, munkarend, foglalkoztatási jogviszony bizonytalansága stb.) összessége, amelyek befolyásolják az e hatásokra adott válaszreakcióit, illetőleg ezzel összefüggésben stressz, munkabaleset, lelki eredetű szervi (pszichoszomatikus) megbetegedés következhet be. 1/I. egyéni védőeszköz EU-megfelelőségi nyilatkozat: a gyártó írásbeli nyilatkozata, hogy az egyéni védőeszköz a mintának, illetve az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet előírásainak megfelel. 1/J. egyéni védőeszköz EU-típusvizsgálati tanúsítvány: a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EU-típusvizsgálat alapján megfelel az (EU) 2016/425 európai parlamenti és tanácsi rendelet előírásainak.
 - 2. Létesítés: az a folyamat, melynek eredményeként új üzem, munkahely jön létre, vagy meglévő felújítása, bővítése, átalakítása, illetve gép telepítése történik, függetlenül attól, hogy létrejötte után termelő vagy nem termelő célra használják. 2/A. Megelőzés: a munkáltató által megtett vagy tervezett intézkedések a munkáltatói tevékenység bármely fázisában, amelyeknek célja a munkával összefüggő kockázatok megelőzése vagy csökkentése.
 - 3. Munkabaleset: az a baleset, amely a munkavállalót a szervezett munkavégzés során vagy azzal összefüggésben éri, annak helyétől és időpontjától és a munkavállaló (sérült) közrehatásának mértékétől függetlenül. A munkavégzéssel összefüggésben következik be a baleset, ha a munkavállalót a foglalkozás körében végzett munkához kapcsolódó közlekedés, anyagvételezés, anyagmozgatás, tisztálkodás, szervezett üzemi étkeztetés, foglalkozás-egészségügyi szolgáltatás és a munkáltató által nyújtott egyéb szolgáltatás stb. igénybevétele során éri. Nem tekinthető munkavégzéssel összefüggésben bekövetkező balesetnek (munkabalesetnek) az a baleset, amely a sérültet a lakásáról (szállásáról) a munkahelyére, illetve a munkahelyéről a lakására (szállására) menet közben éri, kivéve, ha a baleset a munkáltató saját tulajdonában álló, bérleti vagy más szerződés alapján, továbbá egyéb megállapodás alapján biztosított járművel történt. Bányászati munkabaleset: az a munkabaleset, amely a bányafelügyelet hatósági felügyelete alá tartozó tevékenységek végzése során bármely munkáltatónál következett be. Súlyos az a munkabaleset (bányászati munkabaleset), amely
   - a) a sérült halálát (halálos munkabaleset az a baleset is, amelynek bekövetkezésétől számított egy éven belül a sérült orvosi szakvélemény szerint a balesettel összefüggésben életét vesztette), magzata vagy újszülöttje halálát, önálló életvezetését gátló maradandó károsodását;
@@ -805,10 +887,12 @@ kapcsolatban.
 - 6. Munkavállaló: a szervezett munkavégzés keretében munkát végző személy. 6/A. Munkavédelmi képviselő: olyan, a munkavállalók által választott személy, aki a munkáltatóval való együttműködés során képviseli az egészséget nem veszélyeztető és biztonságos munkavégzéssel összefüggő munkavállalói jogokat és érdekeket.
 - 7. Munkavédelmi üzembe helyezés: az a munkavédelmi eljárás, amelynek során az üzemeltető meggyőződik arról, hogy az adott létesítmény, munkahely, technológia, munkaeszköz a munkavédelmi követelményeket kielégíti, és üzemeltetését elrendeli.
 - 8. Munkáltató: a munkavállalót szervezett munkavégzés keretében foglalkoztató. Munkáltatónak kell tekinteni a munkaerő-kölcsönzés keretében átengedett munkavállalót kölcsönvevőként foglalkoztatót, a kirendelt munkavállalót foglalkoztatót, a szakképzés keretében gyakorlati oktatást folytatót, valamint a mást nem foglalkoztató, a munkáját kizárólag személyesen végző egyéni vállalkozót (akkor is, ha egyéni céget alapított) a munkavégzés hatókörében tartózkodók védelmére vonatkozó rendelkezések [9. § (2) bekezdés] tekintetében. A társadalmi munka esetén munkáltató a társadalmi munka szervezője. Magyar adószámmal nem rendelkező külföldi munkáltató esetén munkáltató az a személy vagy szervezet, aki, illetve amely a tényleges irányítást gyakorolja, vagy a munkahelyért a fő felelősséget viseli, ennek hiányában az, akinek a területén a munkavégzés folyik. 8/A. Sérülékeny csoport: az a munkavállalói kategória, amelybe tartozó munkavállalókat testi, lelki adottságaik, állapotuk következtében a munkavégzéssel összefüggő kockázatok fokozottan fenyegetnek, illetve akik maguk is fokozott kockázatot jelenthetnek munkavégzésük során (pl. fiatalkorúak, terhes, nemrégen szült, anyatejet adó nők és szoptató anyák, idősödők, megváltozott munkaképességűek).
-- 9. Szervezett munkavégzés: a munkaviszonyban – ide nem értve a természetes személy munkáltató háztartásában egyszerűsített foglalkoztatás keretében történő munkavégzést –, a közfoglalkoztatási, a kormányzati szolgálati, a politikai szolgálati, a biztosi, a közszolgálati, a közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a bíró szolgálati viszonyában, az igazságügyi alkalmazottak szolgálati jogviszonyában, az ügyészségi szolgálati viszonyban, szövetkezeti tagság esetén a munkaviszony jellegű jogviszonyban, szociális szövetkezetben tagsági jogviszonyon alapuló közvetlen közreműködés keretében, iskolaszövetkezetben és közérdekű nyugdíjas szövetkezetben külső szolgáltatásra vonatkozó tagsági megállapodás alapján történő személyes közreműködés keretében, a szakképző iskolákban a tanulói jogviszony keretében a szakmai képzési követelmények teljesülése során, továbbá a tanulószerződés alapján, a hallgatói jogviszonyban a gyakorlati képzés során, az elítéltként vagy egyéb jogcímen fogvatartottként végzett munka, a szabálysértési eljárás során alkalmazott közérdekű munka, valamint a büntetőügyben kiszabott közérdekű munka, a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes építési munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál történő munkavégzés, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a rendvédelmi szerveknél, az Országgyűlési Őrségnél, az önkormányzati tűzoltóságoknál szolgálati jogviszonyban végzett munka, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti közérdekű önkéntes tevékenység és a munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka. 9/A. Telephely: A tevékenység (munkavégzés) gyakorlásának – a munkáltató székhelyétől különböző – helye, ideértve a munkáltató fióktelepét is. 9/B. Természetes személy munkáltató háztartásában történő munkavégzés: kizárólag a maga és háztartásában vele együtt élő személyek, továbbá közeli hozzátartozói mindennapi életéhez szükséges feltételek biztosítására irányuló munkaviszony.
+- 9. Szervezett munkavégzés: a munkaviszonyban – ide nem értve a természetes személy munkáltató háztartásában egyszerűsített foglalkoztatás keretében történő munkavégzést –, a közfoglalkoztatási, a kormányzati szolgálati, a politikai szolgálati, a biztosi, a közszolgálati, a közalkalmazotti jogviszonyban, a honvédelmi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, a bíró szolgálati viszonyában, az igazságügyi alkalmazottak szolgálati jogviszonyában, az ügyészségi szolgálati viszonyban, szövetkezeti tagság esetén a munkaviszony jellegű jogviszonyban, szociális szövetkezetben tagsági jogviszonyon alapuló közvetlen közreműködés keretében, iskolaszövetkezetben és közérdekű nyugdíjas szövetkezetben külső szolgáltatásra vonatkozó tagsági megállapodás alapján történő személyes közreműködés keretében, a szakirányú oktatás keretében a szakképző intézményben, illetve a duális képzőhelyen, a hallgatói jogviszonyban a gyakorlati képzés során, az elítéltként vagy egyéb jogcímen fogvatartottként végzett munka, a szabálysértési eljárás során alkalmazott közérdekű munka, valamint a büntetőügyben kiszabott közérdekű munka, a honvédelmi szervezeteknél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó honvédségi szervezetnek nem minősülő köznevelési intézménynél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, ideiglenes építési munkahelyen, azon gazdasági társaságoknál történő munkavégzés, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál végzett munka, a rendvédelmi szerveknél, az Országgyűlési Őrségnél, az önkormányzati tűzoltóságoknál szolgálati jogviszonyban végzett munka, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti közérdekű önkéntes tevékenység és a munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka. 9/A. Telephely: A tevékenység (munkavégzés) gyakorlásának – a munkáltató székhelyétől különböző – helye, ideértve a munkáltató fióktelepét is. 9/B. Természetes személy munkáltató háztartásában történő munkavégzés: kizárólag a maga és háztartásában vele együtt élő személyek, továbbá közeli hozzátartozói mindennapi életéhez szükséges feltételek biztosítására irányuló munkaviszony.
 - 10. Újraindítás: az olyan — munkavédelmi szempontból korábban üzembe helyezett — munkaeszköz, technológia újbóli üzembe helyezése, amelyet műszaki okból egybefüggően 30 napot meghaladóan nem használtak, vagy amelyen teljes szétszereléssel együttjáró javítási munkafolyamatot végeztek.
 - 11. Veszélyes: az a létesítmény, munkaeszköz, anyag/keverék, munkafolyamat, technológia (beleértve a fizikai, biológiai, kémiai kóroki tényezők expozíciójával járó tevékenységeket is), amelynél a munkavállalók egészsége, testi épsége, biztonsága megfelelő védelem hiányában károsító hatásnak lehet kitéve.
-- 12. Veszélyes anyag: minden anyag vagy keverék, amely fizikai, kémiai vagy biológiai hatása révén veszélyforrást képviselhet, így különösen a — robbanó, — oxidáló, — gyúlékony, — sugárzó, — mérgező, — maró, — ingerlő, — szenzibilizáló, — fertőző, — rákkeltő, — mutagén, — teratogén, — utódkárosító (beleértve a spontán vetélést, koraszülést és a magzat retardált fejlődését is), — egyéb egészségkárosító anyag.
+- 12. Veszélyes anyag:
+  - a) az 1272/2008/EK európai parlamenti és tanácsi rendelet alapján fizikai, egészségi veszélyek vagy mindkettő tulajdonság alapján veszélyesként osztályozott anyag, vagy
+  - b) az a vegyi anyag, amely bár nem felel meg az a) pontban meghatározott osztályozás feltételeinek, mégis kockázatot jelent a munkavállalók biztonságára vagy egészségére fiziko-kémiai, kémiai vagy toxikológiai tulajdonságai és felhasználási módja vagy munkahelyen való jelenlét miatt, ideértve minden olyan vegyi anyagot, amelyre a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló rendelet határértéket határoz meg. 12/A. Veszélyes keverék: egy vagy több veszélyes anyagot tartalmazó keverék vagy oldat, amely az osztályozás során a fizikai, egészségi veszélyek vagy mindkét tulajdonság tekintetében veszélyes besorolást kap.
 - 13. Veszélyforrás: a munkavégzés során vagy azzal összefüggésben jelentkező minden olyan tényező, amely a munkát végző vagy a munkavégzés hatókörében tartózkodó személyre veszélyt vagy ártalmat jelenthet. Veszélyforrás lehet különösen: — a fizikai veszélyforrás, ezen belül a = munkaeszközök, járművek, szállító-, anyagmozgató eszközök, ezek részei, illetve mozgásuk, termékek és anyagok mozgása, = szerkezetek egyensúlyának megbomlása, = csúszós felületek, = éles, sorjás, egyenetlen felületek, szélek és sarkok, = tárgyak hőmérséklete, = a munkahelynek a föld (padló) szintjéhez viszonyított elhelyezése, = szintkülönbség, = súlytalanság, = a levegő nyomása, hőmérséklete, nedvességtartalma, ionizációja és áramlása, = zaj, rezgés, infra- és ultrahang, = világítás, = elektromágneses sugárzás vagy tér, = részecskesugárzás, = elektromos áramköri vagy sztatikus feszültség, = aeroszolok és porok a levegőben; — a veszélyes anyag (lásd 12. pont); — a biológiai veszélyforrás, ezen belül a = mikroorganizmus és anyagcsereterméke, = makroorganizmus (növény, állat); — a fiziológiai, idegrendszeri és pszichés igénybevétel.
 - 14. Munkáltatói érdekképviseleten a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti országos munkáltatói érdekképviseleteket, illetve érdekképviseleti szövetségeket kell érteni.
 - 15. Munkavállalói érdekképviseleten a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti munkavállalói érdekképviseleteket, illetve érdekképviseleti szövetségeket kell érteni.
@@ -819,18 +903,19 @@ kapcsolatban.
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-- a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket kijelölje, valamint azok sajátos feladatait és a hatósági eljárás eltérő szabályait rendeletben határozza meg;
+- a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédelmi szervezetek, honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, ideiglenes munkahely, azon gazdasági társaságok tekintetében, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket kijelölje, valamint azok sajátos feladatait és a hatósági eljárás eltérő szabályait rendeletben határozza meg;
 - b) rendeletet alkosson a foglalkozás-egészségügyi szolgálatról;
-- c) rendeletben állapítsa meg a munkavédelmi szakértői szakterületeket, a munkavédelmi szakértői tevékenység folytatásának, a tevékenységre jogosító engedély kiadásának a részletes szabályait, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, továbbá a nyilvántartás vezetésére vonatkozó eljárás részletes szabályait;
+- c) rendeletben állapítsa meg a munkavédelmi szakértői szakterületeket, a munkavédelmi szakértői tevékenység folytatásának, a tevékenységre jogosító engedély kiadásának a részletes szabályait, a szakértői tevékenységre jogszabályban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint a nyilvántartás vezetésére és a munkabiztonsági szakértők kötelező továbbképzési rendszerére vonatkozó eljárás részletes szabályait;
 - d) rendeletben állapítsa meg a munkavédelmi bírság mértékére és kiszabására vonatkozó részletes szabályokat;
 - e) rendeletben jelölje ki a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkavédelmi hatóságot, továbbá szabályozza ezen hatóság által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.
-- f) rendeletben állapítsa meg az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének szabályait.
+- f) rendeletben állapítsa meg az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének szabályait;
+- g) a munkabiztonsági szaktevékenység végzésére jogosult személyek nyilvántartásának és kötelező továbbképzési rendszerének szabályait rendeletben határozza meg.
 
 (3) Felhatalmazást kap a feladatkörében érintett miniszter, hogy
 
 - a) a rendkívüli munkavégzési körülmények esetére, illetőleg a rendvédelmi szervek, az önkormányzati tűzoltóságok tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan – az egyes szervek specifikumait figyelembe véve – ezen törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat ágazati rendeletben határozza meg;
 - b) az egyes veszélyes tevékenységekre vonatkozó Szabályzatokat (11. §) a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben, rendeletben adja ki.
-- c) rendeletben határozza meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a hatósági ellenőrzési irányelv kiadása és a hatósági tevékenység tapasztalatairól való beszámolás rendjét, a munkavédelmi érdekképviseletre, érdekegyeztetésre, valamint a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+- c) rendeletben határozza meg a honvédelmi szervezeteknél, honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézménynél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, ideiglenes munkahelyen, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a honvédelmi alkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a hatósági ellenőrzési irányelv kiadása és a hatósági tevékenység tapasztalatairól való beszámolás rendjét, a munkavédelmi érdekképviseletre, érdekegyeztetésre, valamint a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
 (4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy
 
@@ -883,7 +968,7 @@ részletes szabályait.
 
 részletes szabályait.
 
-(5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a munkahelyi kémiai biztonság részletes szabályait.
+(5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló részletes szabályokat.
 
 (5a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Országgyűlés elnöke véleménye kikérésével rendeletben határozza meg az Országgyűlési Őrség tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
@@ -897,7 +982,13 @@ részletes szabályait.
 - d) az Európai Parlament és a Tanács 2007/30/EK irányelve a gyakorlati végrehajtásra vonatkozó jelentések egyszerűsítése és ésszerűsítése érdekében a 89/391/EGK tanácsi irányelv, annak egyedi irányelvei, valamint a 83/477/EGK, a 91/383/EGK, a 92/29/EGK és a 94/33/EK tanácsi irányelv módosításáról,
 - e) a munkavállalók által a munkájuk során használt munkaeszközök biztonsági és egészségvédelmi minimumkövetelményeiről [második egyedi irányelv a 89/391/EGK irányelv 16. cikkének (1) bekezdése értelmében] szóló 89/655/EGK tanácsi irányelv,
 - f) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlament és tanács irányelv,
-- g) az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet.
+- g) az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet,
+- h) a munkájuk során vegyi anyagokkal kapcsolatos kockázatoknak kitett munkavállalók egészségének és biztonságának védelméről szóló, 1998. április 7-i 98/24/EK tanácsi irányelv,
+- i) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló, 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet,
+- j) a 92/58/EGK, a 92/85/EGK, a 94/33/EK és a 98/24/EK tanácsi irányelvnek, valamint a 2004/37/EK európai parlamenti és tanácsi irányelvnek az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK rendelethez való hozzáigazítása céljából történő módosításáról szóló, 2014. február 26-i 2014/27/EU európai parlamenti és tanácsi irányelv,
+- k) a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet),
+- l) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2017. december 12-i (EU) 2017/2398 európai parlamenti és tanácsi irányelv,
+- m) a munkájuk során rákkeltő, illetve mutagén anyagokkal kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2019. január 16-i (EU) 2019/130 európai parlamenti és tanácsi irányelv.
 
 (7)
 

@@ -174,9 +174,9 @@ folytathat.
 
 (4) A hatóság jogosult az iratba – az e §-ban védett jog sérelme nélkül, a feltétlenül szükséges mértékig – betekinteni, annak megállapítása céljából, hogy a védekezés céljából készült iratként minősülésére való hivatkozás nem nyilvánvalóan alaptalan-e.
 
-(5) Ha az irat minősítése az ügyfél és a hatóság között vitatott, a szemle vagy helyszíni kutatás során a hatóság birtokba veheti az érintett iratot, azzal, hogy az iratot olyan tárolóeszközben kell elhelyezni, amely kizárja az adatok megismerhetőségét és utólagos megváltoztathatóságát. Az irat minősítése kérdésében a hatóság kérelme alapján az érintett ügyfél meghallgatásával a közigazgatási ügyben eljáró bíróság nemperes eljárásban dönt. Az iratot a hatóság csatolja a kérelméhez.
+(5) Ha az irat minősítése az ügyfél és a hatóság között vitatott, a szemle vagy helyszíni kutatás során a hatóság birtokba veheti az érintett iratot, azzal, hogy az iratot olyan tárolóeszközben kell elhelyezni, amely kizárja az adatok megismerhetőségét és utólagos megváltoztathatóságát.
 
-(6) Ha a bíróság azt állapítja meg, hogy az irat, iratrész nem minősül védekezés céljából készült iratnak, azt a hatóság számára kiadja. Ellenkező döntés esetében a bíróság az iratot, iratrészt az érintett ügyfélnek adja ki.
+(6)
 
 (7) E § rendelkezéseit a büntetőeljárásról szóló törvényben meghatározott eltérésekkel kell alkalmazni.
 
@@ -2759,7 +2759,7 @@ ellenőrzésével gondoskodik.
 
 (4) Ha a mulasztás a (3) bekezdés szerinti eljárást követően is fennáll, a miniszter harminc napon belül a közigazgatási ügyben eljáró bírósághoz fordul.
 
-(5) Ha a bíróság a mulasztás tényét megállapítja, megfelelő határidő tűzésével kötelezi a Magyar Ügyvédi Kamara elnökségét az elmulasztott intézkedés megtételére. Az ítéletben megállapított határidő elmulasztása esetén indított, a mulasztási ítélet teljesítésének kikényszerítésére irányuló eljárásban a bíróság intézkedésként teljesítési bírság kiszabása mellett, csak felügyelőbiztost rendelhet ki.
+(5) Ha a bíróság a mulasztás tényét megállapítja, megfelelő határidő tűzésével kötelezi a Magyar Ügyvédi Kamara elnökségét az elmulasztott intézkedés megtételére. Az ítéletben megállapított határidő elmulasztása esetén indított, a teljesítés kikényszerítésére irányuló eljárásban a bíróság intézkedésként teljesítési bírság kiszabása mellett, csak felügyelőbiztost rendelhet ki.
 
 (6) A felügyelőbiztos a mulasztó kamarai szerv helyett és nevében – szabályzat megalkotásának kivételével – jogosult megtenni minden, az érintett kamara és annak szervei feladat- és hatáskörébe tartozó szükséges intézkedést a mulasztás orvoslása érdekében.
 

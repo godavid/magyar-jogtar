@@ -75,7 +75,7 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 5. § (1) Az Egészségbiztosítási Alap
 
 - a)
-- b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, terhességi-gyermekágyi segélyt, a táppénzt, a betegséggel kapcsolatos segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, a rokkantsági és rehabilitációs ellátásokat, valamint az egészségbiztosítás egyes pénzbeli ellátásainak összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyszeri juttatást,
+- b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, az örökbefogadói díjat, terhességi-gyermekágyi segélyt, a táppénzt, a betegséggel kapcsolatos segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, a rokkantsági és rehabilitációs ellátásokat, valamint az egészségbiztosítás egyes pénzbeli ellátásainak összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyszeri juttatást,
 - c) a természetben nyújtott ellátások, ideértve a gyógyító-megelőző ellátásokat, a gyógyfürdő és egyéb gyógyászati ellátást, az anyatej-ellátást, a gyógyszer és a gyógyászati segédeszköz támogatást, az utazási költségtérítést, továbbá a nemzetközi egyezményekből eredő és külföldön történő ellátásokat,
 
 kiadásainak fedezetére szolgál.

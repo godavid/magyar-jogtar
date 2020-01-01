@@ -31,7 +31,7 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 2. § (1) Ha a magánszemély a befizetett adójának legalább egyik egy százalékáról rendelkezett, és rendelkezésének teljesítése megtörtént, a teljesítés szerinti összeg kizárólag abban az esetben módosítható, ha a módosítás vagy módosítások által a teljesítés szerinti összeg kedvezményezettenként legalább ötezer forinttal növekszik, és a rendelkező nyilatkozat évét követő év július 31. napjáig
 
-- a) az adóhatósági ellenőrzés során hozott – az adó összegének növekedéséről szóló – jogerős határozat alapján esedékessé vált adótöbbletet a magánszemély megfizette, vagy
+- a) az adóhatósági ellenőrzés során hozott – az adó összegének növekedéséről szóló – végleges határozat alapján esedékessé vált adótöbbletet a magánszemély megfizette, vagy
 - b) a magánszemély önellenőrzést nyújtott be, és ez alapján az adótöbbletet meg is fizette.
 
 (2) Az adóhatóság a rendelkező nyilatkozat évét követő év szeptember 30. napjáig a 4. § (1) bekezdése szerinti kedvezményezettnek átutalja az (1) bekezdés a)–b) pontja szerinti többlet-adóbefizetés egy százalékának megfelelő összeget, a 4/A. § (1) bekezdés b) pontja szerint meghatározott kiemelt előirányzat kezeléséért felelős fejezetnek pedig adatot szolgáltat ezen összegről. A 4/A. § (1) bekezdés a) pontja szerinti kedvezményezettnek az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter a 6/B. § (2) bekezdésében foglaltaknak megfelelően utalja át az (1) bekezdés a)–b) pontja szerinti többlet-adóbefizetés egy százalékának megfelelő összeget. Az utalás csak abban az esetben teljesíthető, ha az (1) bekezdés a)–b) pontjaiban foglaltak szerinti adóhatósági határozatból, illetve önellenőrzésből egyértelműen megállapítható az összevont adóalap adójának, illetve a levonandó kedvezményeknek az összege.
@@ -203,7 +203,7 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 - a) nem tett eleget,
 - b) teljesítése során számszakilag hibás adatot közölt, vagy nem az elszámolandó összeget szerepelteti, és az adóhatóság által az adatok javítására kitűzött határidőt elmulasztotta, vagy
-- c) teljesítése során valótlan adatot közölt, határozatával kizárja a 4. § (1) bekezdésében meghatározott kedvezményezettet a határozat jogerőre emelkedését követő rendelkező évben tett felajánlásokból történő részesedésből.
+- c) teljesítése során valótlan adatot közölt, határozatával kizárja a 4. § (1) bekezdésében meghatározott kedvezményezettet a határozat véglegessé válását követő rendelkező évben tett felajánlásokból történő részesedésből.
 
 (4) Ha az adóhatóság a 4. § (1) bekezdés a)–g) pontjában meghatározott kedvezményezett beszámolási kötelezettségének teljesítése során megállapítja, hogy a kedvezményezett az egy éves tartalékolási időt túllépte és a visszafizetési kötelezettségét nem teljesítette, erről határozatot hoz, amelyben a kedvezményezettet a közhasznú tevékenység megvalósítására az egy éves tartalékolási idő lejártáig fel nem használt, az ötezer forintot elérő összeg visszafizetésére kötelezi.
 

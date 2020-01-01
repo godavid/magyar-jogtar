@@ -49,7 +49,7 @@ előírásait az e törvényben foglalt eltéréssel kell alkalmazni.
 - d) az állattenyésztéshez szükséges takarmány-előállítás és legelőgazdálkodás,
 - e) növénytermesztési, vetőmag-termelési, mező-, erdőgazdasági, vadgazdálkodási kertészeti, és ehhez kapcsolódó oktatási, turisztikai és lovassport-tevékenység,
 - f) az a)–e) pontokban foglalt ágazatok a Ménesbirtok hagyományaira épülő összehangolt fejlesztése,
-- g) a Mezőhegyesen hagyományos – különösen az állat- és lótenyésztéshez kapcsolódó –, valamint a modern igényeknek megfelelő elméleti és gyakorlati mezőgazdasági szakképzés, oktatás, továbbképzés, és felnőttképzés,
+- g) a Mezőhegyesen hagyományos – különösen az állat- és lótenyésztéshez kapcsolódó –, valamint a modern igényeknek megfelelő elméleti és gyakorlati mezőgazdasági szakképzés, oktatás és képzés
 - h) az agrárképzést nyújtó köznevelési, szakképző, valamint felsőoktatási intézményekkel való együttműködés és gyakorlati képzőhely biztosítása,
 - i) a gazdasági erejéhez igazodó foglalkoztatási helyzet javításával Mezőhegyes és térsége népességmegtartó erejének növelése.
 

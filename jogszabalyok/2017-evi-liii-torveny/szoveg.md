@@ -215,7 +215,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
   - aa) magyar állampolgár esetében a személyazonosság igazolására alkalmas hatósági igazolványát és lakcímet igazoló hatósági igazolványát,
   - ab) külföldi állampolgár esetén úti okmányát vagy személyazonosító igazolványát, feltéve hogy az magyarországi tartózkodásra jogosít, tartózkodási jogot igazoló okmányát vagy tartózkodásra jogosító okmányát,
 - b) jogi személy, jogi személyiséggel nem rendelkező szervezet esetén a nevében vagy megbízása alapján eljárni jogosult személy a) pontban megjelölt okiratának bemutatásán túl az azt igazoló – harminc napnál nem régebbi – okiratot, hogy
-  - ba) a belföldi gazdálkodó szervezetet a cégbíróság bejegyezte, vagy a gazdálkodó szervezet a bejegyzési kérelmét benyújtotta, egyéni vállalkozó esetében azt, hogy az egyéni vállalkozói igazolvány kiadása vagy a nyilvántartásba vételről szóló igazolás kiállítása megtörtént,
+  - ba) a belföldi gazdálkodó szervezetet a cégbíróság bejegyezte, vagy a gazdálkodó szervezet a bejegyzési kérelmét benyújtotta, egyéni vállalkozó esetében azt, hogy a nyilvántartásba vételről szóló igazolás kiállítása megtörtént,
   - bb) belföldi jogi személy esetén, ha annak létrejöttéhez hatósági vagy bírósági nyilvántartásba vétel szükséges, a nyilvántartásba vétel megtörtént,
   - bc) külföldi jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén a saját országának joga szerinti bejegyzése vagy nyilvántartásba vétele megtörtént;
 - c) cégbejegyzési, hatósági vagy bírósági nyilvántartásba vétel iránti kérelem cégbírósághoz, hatósághoz vagy bírósághoz történő benyújtását megelőzően a jogi személy vagy jogi személyiséggel nem rendelkező szervezet létesítő okiratát.
@@ -1117,28 +1117,8 @@ vonatkozó részletszabályokat.
 
 #### 22. Módosító rendelkezések
 
-#### 83. §
+#### 83–92. §
 
-#### 84. §
-
-#### 85. §
-
-#### 86. §
-
-#### 87. §
-
-#### 88. §
-
-#### 89. §
-
-#### 90. §
-
-#### 91. §
-
-#### 92. §
-
-#### 93. §
-
-#### 94. §
+#### 93–94. §
 
 #### 95. §

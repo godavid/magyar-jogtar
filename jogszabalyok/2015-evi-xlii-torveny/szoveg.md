@@ -53,6 +53,7 @@ is alkalmazni kell.
 
 - 1. alacsonyabb besorolású vezetői beosztás: az a vezetői szolgálati beosztás (a továbbiakban: vezetői beosztás), amely a betöltött vezetői beosztás besorolási kategóriájánál alacsonyabb besorolási kategóriába tartozik;
 - 2. alacsonyabb szolgálati beosztás: az a szolgálati beosztás, amely a betöltött szolgálati beosztásnál alacsonyabb besorolási osztályba vagy besorolási kategóriába tartozik, továbbá a vezetői beosztást betöltők esetében a nem vezetői beosztás vagy az alacsonyabb besorolású vezetői beosztás is;
+- 2a. állami vezető: a kormányzati igazgatásról szóló törvény szerinti politikai felsővezető, közigazgatási államtitkár és helyettes államtitkár;
 - 3. állományilletékes parancsnok: a rendvédelmi szerv általános munkáltatói jogkört gyakorló azon hivatásos állományba tartozó elöljárója vagy nem hivatásos állományba tartozó munkahelyi vezetője, aki a rendvédelmi szerv olyan szervezeti egységét vezeti, amely önálló állománytáblázattal rendelkezik; az állományilletékes parancsnok gyakorolja mindazon munkáltatói jogokat, és teljesíti azokat a kötelezettségeket, amelyeket e törvény vagy a végrehajtására kiadott kormányrendelet nem határoz meg más parancsnok vagy vezető részére;
 - 4. állománytáblázat: a rendvédelmi szerv szervezeti egységénél rendszeresített szervezeti elemeket, a rendszeresített szolgálati beosztásokat, azok besorolását, az azokban rendszeresített rendfokozatokat, valamint az azok ellátásához szükséges képesítési, képzettségi, végzettségi és egyéb követelményeket meghatározó okmány; az állománytáblázat tartalmazhatja a rendvédelmi szerv által más foglalkoztatási jogviszonyban foglalkoztatott személyekkel betölthető munkakörökre vonatkozó adatokat is;
 - 5. átszervezés: a rendvédelmi szervnél végrehajtott minden olyan, az állománytáblázat módosításával járó szervezési intézkedés, amelynek következtében a hivatásos állomány tagja által betöltött szolgálati beosztás megszűnik, vagy lényeges tartalma – így különösen a szolgálati beosztás besorolása vagy az ahhoz rendelt képesítési, képzettségi, végzettségi követelmények –, vagy a szolgálatteljesítési hely megváltozik; nem minősül átszervezésnek, ha a rendvédelmi szerv egészét vagy érintett szervezeti egységét más rendvédelmi szervvel összevonják vagy annak alárendelik, és ennek következtében a hivatásos állomány tagja más rendvédelmi szerv állományába kerül, feltéve, hogy a szolgálati beosztás lényeges tartalma nem változik;
@@ -73,7 +74,7 @@ is alkalmazni kell.
 - 19. országos parancsnok: az országos rendőr-főkapitány, a hivatásos katasztrófavédelmi szerv központi szervének vezetője, a büntetés-végrehajtás országos parancsnoka, a polgári nemzetbiztonsági szolgálatok főigazgatói, valamint az Országgyűlési Őrség parancsnoka;
 - 20. pályakezdő: az a személy, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzése után első foglalkoztatási jogviszonyként szolgálati viszonyt létesít, a véglegesítéséig;
 - 21. preferált település: olyan település vagy településrész, amelynek sajátosságai miatt – figyelemmel a rendvédelmi szerv vagy annak szervezeti egysége által ellátott feladatok jellegére – az adott településen vagy településrészen való szolgálatteljesítés ösztönzése indokolt;
-- 22. rendvédelmi oktatási intézmény: a nemzeti köznevelésről szóló 2011. évi CXC. törvény 36. § (1) bekezdésében meghatározott rendelkezés szerinti, a rendvédelmi szakképesítés megszerzésére létesített és fenntartott köznevelési intézmény, valamint a rendészeti és nemzetbiztonsági felsőoktatást folytató felsőoktatási intézmény;
+- 22. rendvédelmi oktatási intézmény: rendvédelmi szakképző intézmény, valamint a rendészeti és nemzetbiztonsági felsőoktatást folytató felsőoktatási intézmény;
 - 23. szervezeti állománytáblázat: a rendvédelmi szerv önálló jogi személynek minősülő egységeihez tartozó szervezeti egységek állománytáblázatát összesítő állománytáblázat, valamint a rendvédelmi szerv egészére vonatkozó, valamennyi, a rendvédelmi szervhez tartozó szervezeti egység állománytáblázatát összesítő állománytáblázat;
 - 24. szervezeti egység: a rendvédelmi szervnek a rendvédelmi szerv szervezeti rendszerében elhelyezkedő, különböző szervezeti elemekből álló, önálló feladatra és működésre létrehozott, meghatározott székhellyel vagy telephellyel rendelkező, az állományilletékes parancsnok által vezetett szervezete;
 - 25. szolgálati beosztás: az állománytáblázatban rendszeresített, a hivatásos állomány tagjával betölthető munkakör;
@@ -480,6 +481,8 @@ kézbesítettnek kell tekinteni.
 (4) Szolgálati viszony létesítésére a hivatásos szolgálat felső korhatáráig kerülhet sor. Egyebekben az áthelyezettnek meg kell felelnie a szolgálati viszony létesítéséhez a 33. § (1)–(6) bekezdésében meghatározott feltételeknek.
 
 35. § Ha a rendvédelmi szervnél megüresedő szolgálati beosztást a rendvédelmi szerv állományából az e törvény szerinti előmenetel alapján nem lehet betölteni, előnyben kell részesíteni a rendvédelmi szerv vagy más rendvédelmi szerv hivatásos állományából, a Magyar Honvédség hivatásos katonai állományából, továbbá a kormányzati szolgálati, közszolgálati jogviszonyból tartalékállományba kerülteket.
+
+35/A. § Ha a szolgálati viszonyt létesítő személy a szolgálati viszony létesítését közvetlenül megelőzően a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyban állt, és e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül létesít szolgálati viszonyt, jogviszonyát folyamatosnak kell tekinteni.
 
 #### 27. Hivatásos állományba visszavétel
 
@@ -1538,7 +1541,7 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 
 95. § A rendvédelmi szervek hivatásos állományából tartalékállományba helyezetteket és a tartalékállományban tartottakat a közszolgálatban történő továbbfoglalkoztatásuk érdekében a kormányzati szolgálati jogviszonyban, közszolgálati, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy igazságügyi alkalmazotti szolgálati jogviszonyban foglalkoztató költségvetési szerveknél, valamint a Magyar Honvédségnél a megüresedő munkakörök betöltésénél előnyben kell részesíteni.
 
-#### 57. Kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezés
+#### 57. Kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezés
 
 96. § A hivatásos állomány tagja, valamint
 
@@ -1916,7 +1919,7 @@ besorolási kategóriába kell besorolni.
 
 #### 70. Tanulmányi szerződés
 
-132. § (1) Szolgálati érdekből a munkáltatói jogkört gyakorló elöljáró a hivatásos állomány tagjával vagy a hivatásos szolgálatot vállaló személlyel tanulmányi szerződést köthet a betöltött vagy tervezett szolgálati beosztás, vagy a szolgálati viszony létesítéséhez vagy fenntartásához szükséges iskolai végzettség, szakképzettség,rendvédelmi tárgyú szakmai képzettség, nyelvtudás iskolarendszerű vagy felnőttképzés keretében történő megszerzésére. Nem köthető tanulmányi szerződés, ha a tanulmányok elvégzésére a munkáltatói jogkört gyakorló elöljáró a hivatásos állomány tagját kötelezte.
+132. § (1) Szolgálati érdekből a munkáltatói jogkört gyakorló elöljáró a hivatásos állomány tagjával vagy a hivatásos szolgálatot vállaló személlyel tanulmányi szerződést köthet a betöltött vagy tervezett szolgálati beosztás, vagy a szolgálati viszony létesítéséhez vagy fenntartásához szükséges iskolai végzettség, szakképzettség, rendvédelmi tárgyú szakmai képzettség, nyelvtudás megszerzésére. Nem köthető tanulmányi szerződés, ha a tanulmányok elvégzésére a munkáltatói jogkört gyakorló elöljáró a hivatásos állomány tagját kötelezte.
 
 (2) A tanulmányi szerződést, valamint a kötelezést – a lényeges tartalmi elemek: a képzés tárgya, időtartama, helye, teljesítés módja, határideje, költségek viselése, kötelezettségek rögzítésével – írásba kell foglalni.
 
@@ -2013,12 +2016,12 @@ hatályos.
 
 (6) A kérelmet az (1) bekezdés szerinti szülési szabadság, illetve az illetmény nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatói jogkört gyakorló elöljárónál benyújtatni. A kérelemben a hivatásos állomány tagja a munkáltatói jogkört gyakorló elöljárót köteles tájékoztatni
 
-- a) az illetmény nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve, a hivatásos állomány három vagy több gyermeket nevelő tagja esetében ötödik életéve betöltésének időpontjáról, továbbá
+- a) az illetmény nélküli szabadság igénybevételére jogosító gyermeke negyedik életéve, a hivatásos állomány három vagy több gyermeket nevelő tagja esetében hatodik életéve betöltésének időpontjáról, továbbá
 - b) ha egyenlőtlen szolgálatteljesítési időbeosztásban kíván dolgozni, a szolgálatteljesítési idő beosztására vonatkozó javaslatáról.
 
 (7) A (4) bekezdés szerinti időponttól az illetmény, valamint a szolgálati viszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha az arra való jogosultság a szolgálatteljesítési idő mértékével összefügg. A hivatásos állomány rész-szolgálatteljesítési időben foglalkoztatott tagjára a 60. és 61. §, a 71. §, valamint a 139–141. § nem alkalmazható.
 
-(8) Az (1) bekezdés szerinti kérelem alapján a rész-szolgálatteljesítési időt a rendvédelmi szerv a hivatásos állomány tagjának a kérelemben megjelölt időpontig, de legfeljebb a gyermek hároméves koráig, a hivatásos állomány három vagy több gyermeket nevelő tagja esetén a gyermek ötéves koráig engedélyezi. Ezt követően a hivatásos állomány tagjának szolgálatteljesítési idejét a 134. § szerint kell meghatározni, és az illetményét újra meg kell állapítani.
+(8) Az (1) bekezdés szerinti kérelem alapján a rész-szolgálatteljesítési időt a rendvédelmi szerv a hivatásos állomány tagjának a kérelemben megjelölt időpontig, de legfeljebb a gyermek négyéves koráig, a hivatásos állomány három vagy több gyermeket nevelő tagja esetén a gyermek hatéves koráig engedélyezi. Ezt követően a hivatásos állomány tagjának szolgálatteljesítési idejét a 134. § szerint kell meghatározni, és az illetményét újra meg kell állapítani.
 
 (9) Vezetői beosztás betöltésére rész-szolgálatteljesítési idő nem engedélyezhető.
 
@@ -2199,6 +2202,8 @@ teljesíti szolgálatát.
 
 (4) A hivatásos állomány tagjának illetmény nélküli szabadság engedélyezhető a nemzetközi közigazgatási szakértői tevékenység időtartamára.
 
+(5) A hivatásos állomány tagja a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/G. §-a szerinti gyermekgondozási díj időtartamára illetmény nélküli szabadságra jogosult.
+
 151. § (1) Az illetmény nélküli szabadság tartamára alap-, pót- és egészségügyi szabadság nem jár.
 
 (2) A gyermek gondozása céljából igénybe vett illetmény nélküli szabadság első hat hónapjára alap- és pótszabadság illeti meg a hivatásos állomány tagját. A szabadságot egybefüggően, az illetmény nélküli szabadság leteltét követő naptól kezdve kell kiadni.
@@ -2245,7 +2250,7 @@ teljesíti szolgálatát.
 
 154. § (1) A hivatásos állomány tagja szolgálati viszonya alapján alapilletményből, az egyéb pótlékokból és teljesítményjuttatásból álló illetményre jogosult. Az illetményt száz forintra kerekítve kell megállapítani.
 
-(2) A hivatásos állomány tagja havonta alapilletményre és az egyéb pótlékokra jogosult. Az alapilletmény beosztási illetményből, szolgálati időpótlékból és hivatásos pótlékból tevődik össze. Az ellátott feladattól és körülményektől függően a hivatásos állomány tagja az e törvényben megállapított egyéb pótlékokra jogosult.
+(2) A hivatásos állomány tagja havonta alapilletményre és pótlékokra jogosult. Az alapilletmény beosztási illetményből, szolgálati időpótlékból és hivatásos pótlékból tevődik össze. Az ellátott feladattól és körülményektől függően a hivatásos állomány tagja az e törvényben megállapított egyéb pótlékokra jogosult.
 
 (3) Az alapilletmény nem lehet kevesebb a jogszabályban meghatározott, a betöltött szolgálati beosztáshoz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum összegénél. E rendelkezést nem kell alkalmazni a hivatásos állomány pályakezdő tagjaira a rész-szakképesítés megszerzéséig.
 
@@ -3397,6 +3402,8 @@ kezdődik.
 
 kerülhet sor.
 
+275/B. § A személyügyi nyilvántartást kezelő a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § c) pontja és 30. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+
 276. § (1) A személyügyi alapnyilvántartás vezetéséhez az érintett személy köteles adatot szolgáltatni, és a változást nyolc napon belül bejelenteni az illetékes személyügyi szervnek.
 
 (2) Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 26. § (2) bekezdésében foglalt adatokon túl közérdekből nyilvános adat a hivatásos állomány tagjának rendfokozata, állampolgársága, szolgálati helye, valamint a részére adományozott kitüntető cím és a kitüntető cím adományozásának időpontja is.
@@ -3405,7 +3412,7 @@ kerülhet sor.
 
 (4) A (3) bekezdés szerinti adat megismerésére irányuló igény – a (3) bekezdésben meghatározott időtartamon belül – akkor engedélyezhető, ha az adat megismerése a polgári nemzetbiztonsági szolgálat, illetve a rendőrség törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, valamint a nemzetbiztonsági érdekeket nem veszélyezteti.
 
-(5) A 275. §-ban foglalt személyeken és szerveken kívül – törvény eltérő rendelkezése hiányában – más részére tájékoztatást, igazolást, jellemzést, javaslatot a személyügyi nyilvántartásokban őrzött iratok alapján csak az érintett hozzájárulásával lehet adni.
+(5) A 275. §-ban és a 275/B. §-ban foglalt személyeken és szerveken kívül – törvény eltérő rendelkezése hiányában – más részére tájékoztatást, igazolást, jellemzést, javaslatot a személyügyi nyilvántartásokban őrzött iratok alapján csak az érintett hozzájárulásával lehet adni.
 
 (6) A személyi anyaggyűjtő a szolgálati hely tervezett vagy kérelmezett változtatását megelőzően az új szervezeti egység vezetőjének betekintésre átadható. Áthelyezést vagy vezénylést megelőzően az új munkáltatói szerv vezetőjének csak az érintett hozzájárulásával adható át.
 
@@ -3477,7 +3484,7 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 (2) A szolgálati viszony szünetelésének időtartama hivatásos szolgálati időnek számít, ha a járulékfizetési kötelezettségnek eleget tettek.
 
-283. § Akinek a szolgálati viszonyát megszüntették, annak a 280. § (1) bekezdése szerint számított hivatásos szolgálati idejét – ha jogszabály eltérően nem rendelkezik – kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszony, bírói vagy ügyészségi szolgálati viszony, rendvédelmi igazgatási szolgálati jogviszony vagy közigazgatási szervnél munkaviszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.
+283. § Akinek a szolgálati viszonyát megszüntették, annak a 280. § (1) bekezdése szerint számított hivatásos szolgálati idejét – ha jogszabály eltérően nem rendelkezik – kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszony, bírói vagy ügyészségi szolgálati viszony, rendvédelmi igazgatási szolgálati jogviszony vagy közigazgatási szervnél munkaviszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.
 
 ### XXVII. Fejezet — A TISZTJELÖLT
 
@@ -3677,7 +3684,7 @@ kell érteni.
 
 #### 115/E. Az igazgatási jogviszony létesítése, a nemzetbiztonsági ellenőrzés
 
-287/L. § (1) A rendvédelmi alkalmazottra a VI. Fejezet rendelkezései közül a 34. § (2)–(3) bekezdését és a 41–43. §-t megfelelően alkalmazni kell.
+287/L. § (1) A rendvédelmi alkalmazottra a VI. Fejezet rendelkezései közül a 34. § (2) és (3) bekezdését, 35/A. §-át és a 41–43. §-t megfelelően alkalmazni kell.
 
 (2) A 34. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy próbaidő kikötésére akkor sem kerül sor, ha az igazgatási jogviszony létesítése hivatásos szolgálati viszonyból történik.
 
@@ -3874,7 +3881,7 @@ kell érteni.
 - b) lemondással,
 - c) azonnali hatályú lemondással,
 - d) felmentéssel,
-- e) kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, hivatásos szolgálati jogviszonyba, katonai szolgálati jogviszonyba vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
+- e) kormányzati szolgálati, közszolgálati, közalkalmazotti, hivatásos szolgálati jogviszonyba, katonai szolgálati jogviszonyba vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
 - f) más rendvédelmi szervhez történő áthelyezéssel,
 - g) azonnali hatállyal a próbaidő alatt.
 
@@ -4554,6 +4561,8 @@ adja ki, ha az esedékesség éve eltelt.
 
 (10) A rendvédelmi alkalmazottnak illetmény nélküli szabadság engedélyezhető a nemzetközi közigazgatási szakértői tevékenység időtartamára.
 
+(10a) A rendvédelmi alkalmazott a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/G. §-a szerinti gyermekgondozási díj időtartamára illetmény nélküli szabadságra jogosult.
+
 (11) A rendvédelmi alkalmazott az illetmény nélküli szabadság igénybevételét legalább tizenöt nappal korábban köteles írásban bejelenteni.
 
 (12) Az illetmény nélküli szabadság a rendvédelmi alkalmazott által megjelölt időpontban, de legkorábban a szabadság megszüntetésére irányuló jognyilatkozat közlésétől számított harmincadik napon szűnik meg.
@@ -4810,7 +4819,7 @@ hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak a
 (3) Az MRK tisztségviselője, az ügyintézői testületek nem tisztségviselő tagja nem lehet
 
 - a) politikai párt tagja,
-- b) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti állami vezető,
+- b) állami vezető,
 - c) olyan személy, aki más kamara tisztségviselője, továbbá
 - d) olyan személy, akit szakszervezeti tisztségviselőnek megválasztottak.
 
@@ -5802,7 +5811,7 @@ alakul át.
 
 ### 2. melléklet a 2015. évi XLII. törvényhez
 
-#### A hivatásos állomány tagjával közös háztartásban élő házastárs, élettárs, felnőttkorú hozzátartozó nyilatkozata
+#### A hivatásos állomány tagjával közös háztartásban élő házastárs, élettárs, nagykorú hozzátartozó nyilatkozata
 
 Alulírott .......................................................................... (név, születési hely és idő, anyja születési neve) tájékoztattak arról, hogy a velem közös háztartásban élő házastársam, élettársam, hozzátartozóm kifogástalan életvitel-ellenőrzése személyemet is érintheti, amelynek keretén belül az ellenőrzését végző szerv a bűnügyi nyilvántartásból rám vonatkozóan is adatot igényelhet. Tudomásul veszem, hogy a kifogástalan életvitel ellenőrzését végző szerv ezen adatokat megismerheti.
 
@@ -6277,19 +6286,19 @@ Középfokú munkaköri osztályba tartozó munkakörökhöz tartozó munkaköri
 |  | A) | B) | C) | D) | E) |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti illetmény alsó határa (Ft) | A fizetési fokozat szerinti illetmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | 205 000 | 230 000 |
-| 3. | 2 | 4 | 7 | 220 000 | 260 000 |
-| 4. | 3 | 8 | 14 | 250 000 | 290 000 |
-| 5. | 4 | 15 | 23 | 280 000 | 320 000 |
-| 6. | 5 | 24 | 34 | 300 000 | 350 000 |
-| 7. | 6 | 35 |  | 330 000 | 380 000 |
+| 2. | 1 | 0 | 3 | 205 000 | 245 000 |
+| 3. | 2 | 4 | 7 | 220 000 | 275 000 |
+| 4. | 3 | 8 | 14 | 250 000 | 305 000 |
+| 5. | 4 | 15 | 23 | 280 000 | 340 000 |
+| 6. | 5 | 24 | 34 | 300 000 | 370 000 |
+| 7. | 6 | 35 |  | 330 000 | 400 000 |
 
 „B” munkaköri kategória
 
 |  | A) | B) |
 | --- | --- | --- |
 | 1. | Alsó határ (Ft) | Felső határ (Ft) |
-| 2. | 350 000 | 500 000 |
+| 2. | 350 000 | 525 000 |
 
 Felsőfokú munkaköri osztályba tartozó munkaköri kategóriák fizetési fokozatai
 
@@ -6300,36 +6309,36 @@ Felsőfokú munkaköri osztályba tartozó munkaköri kategóriák fizetési fok
 |  | A) | B) | C) | D) | E) |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti illetmény alsó határa (Ft) | A fizetési fokozat szerinti illetmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | 225 000 | 265 000 |
-| 3. | 2 | 4 | 7 | 230 000 | 290 000 |
-| 4. | 3 | 8 | 14 | 250 000 | 315 000 |
-| 5. | 4 | 15 | 23 | 275 000 | 340 000 |
-| 6. | 5 | 24 | 34 | 300 000 | 365 000 |
-| 7. | 6 | 35 |  | 325 000 | 390 000 |
+| 2. | 1 | 0 | 3 | 225 000 | 280 000 |
+| 3. | 2 | 4 | 7 | 230 000 | 305 000 |
+| 4. | 3 | 8 | 14 | 250 000 | 335 000 |
+| 5. | 4 | 15 | 23 | 275 000 | 360 000 |
+| 6. | 5 | 24 | 34 | 300 000 | 385 000 |
+| 7. | 6 | 35 |  | 325 000 | 410 000 |
 
 „D” munkaköri kategória
 
 |  | A) | B) | C) | D) | E) |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti illetmény alsó határa (Ft) | A fizetési fokozat szerinti illetmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | 250 000 | 320 000 |
-| 3. | 2 | 4 | 7 | 275 000 | 345 000 |
-| 4. | 3 | 8 | 14 | 300 000 | 360 000 |
-| 5. | 4 | 15 | 23 | 325 000 | 385 000 |
-| 6. | 5 | 24 | 34 | 340 000 | 410 000 |
-| 7. | 6 | 35 |  | 370 000 | 460 000 |
+| 2. | 1 | 0 | 3 | 250 000 | 340 000 |
+| 3. | 2 | 4 | 7 | 275 000 | 365 000 |
+| 4. | 3 | 8 | 14 | 300 000 | 380 000 |
+| 5. | 4 | 15 | 23 | 325 000 | 405 000 |
+| 6. | 5 | 24 | 34 | 340 000 | 435 000 |
+| 7. | 6 | 35 |  | 370 000 | 485 000 |
 
 „E” munkaköri kategória
 
 |  | A) | B) | C) | D) | E) |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti illetmény alsó határa (Ft) | A fizetési fokozat szerinti illetmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | 290 000 | 360 000 |
-| 3. | 2 | 4 | 7 | 320 000 | 390 000 |
-| 4. | 3 | 8 | 14 | 350 000 | 420 000 |
-| 5. | 4 | 15 | 23 | 380 000 | 450 000 |
-| 6. | 5 | 24 | 34 | 410 000 | 480 000 |
-| 7. | 6 | 35 |  | 420 000 | 510 000 |
+| 2. | 1 | 0 | 3 | 290 000 | 380 000 |
+| 3. | 2 | 4 | 7 | 320 000 | 410 000 |
+| 4. | 3 | 8 | 14 | 350 000 | 445 000 |
+| 5. | 4 | 15 | 23 | 380 000 | 475 000 |
+| 6. | 5 | 24 | 34 | 410 000 | 505 000 |
+| 7. | 6 | 35 |  | 420 000 | 540 000 |
 
 Felsőfokú tábla (felsőfokú végzettséget igénylő kiemelt munkaköri kategóriához tartozó illetmények alsó és felső határa
 
@@ -6345,9 +6354,9 @@ Vezetői munkaköri osztály
 |  | A) | B) | C) |
 | --- | --- | --- | --- |
 |  | A vezetői munkaköri kategória megnevezése | A vezetői munkaköri kategória szerinti illetmény alsó határa (Ft) | A vezetői munkaköri kategória szerinti illetmény felső határa (Ft) |
-| 1. | Főigazgató | 850 000 | 1 004 000 |
-| 2. | Igazgató, főosztályvezető | 530 000 | 800 000 |
-| 3. | Osztályvezető | 420 000 | 700 000 |
+| 1. | Főigazgató | 850 000 | 1 055 000 |
+| 2. | Igazgató, főosztályvezető | 530 000 | 840 000 |
+| 3. | Osztályvezető | 420 000 | 735 000 |
 
 ### 13. melléklet a 2015. évi XLII. törvényhez
 

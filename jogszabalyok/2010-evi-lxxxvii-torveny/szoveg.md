@@ -62,7 +62,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (4) A (3) bekezdés szerinti ingatlanokra vonatkozó döntést megelőzően meg kell állapítani az ingatlan egészének elsődleges rendeltetését, valamint a hasznosítással elérhető fő célkitűzéseket, és legkedvezőbb előnyöket.
 
-### A Nemzeti Földalapkezelő Szervezet
+### A Nemzeti Földügyi Központ
 
 4. § (1) Az NFK a miniszter irányítása alatt álló központi költségvetési szerv.
 
@@ -70,7 +70,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (3) Az NFK elnöke és elnökhelyettese magyar állampolgár lehet. Az NFK elnöke, és elnökhelyettese nem lehet
 
-- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, megyei közgyűlés tagja, állami vezető, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
+- a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, megyei közgyűlés tagja, politikai felsővezető, közigazgatási államtitkár, helyettes államtitkár, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 - b)
 - c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFK-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
 
@@ -98,7 +98,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - f) kinevezi a Tanács elnökét és tagjait;
 - g) jóváhagyja a Tanács ügyrendjét.
 
-7. § (1) Az NFA elnöke
+7. § (1) Az NFK elnöke
 
 - a) vezeti az NFK-t;
 - b) javaslatot tesz a miniszternek az NFK elnökhelyettesének kinevezésére és felmentésére;
@@ -184,7 +184,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (5) A Tanács tagja a (4) bekezdés b) pontjában megjelölt esetben az összeférhetetlenség megszüntetéséig a tisztségéből eredő jogkörét nem gyakorolhatja.
 
-### A Nemzeti Földalapkezelő Szervezet tevékenységének ellenőrzése
+### A Földügyi Központ tevékenységének ellenőrzése
 
 14. § (1) A Nemzeti Földalap feletti tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 
@@ -349,11 +349,7 @@ követő napon.
 
 (3c) A védett természeti területek természetvédelmi kezeléséért felelős szerv vagyonkezelésébe kell adni azt a földrészletet, amelynek állami tulajdonba vételére a védett természeti területek védettségi szintjének helyreállítása vagy természetvédelmi célok megvalósítása érdekében került sor.
 
-(3d) Vagyonkezelési szerződés köthető
-
-- a) az Országos Képzési Jegyzékben meghatározott, agrárágazathoz tartozó szakképesítésben iskolai rendszerű szakképzést folytató intézménnyel,
-- b) az agrárágazathoz tartozó közoktatási feladatot ellátó intézménnyel,
-- c) az agrárágazathoz tartozó felsőoktatási intézménnyel az alapító okiratában vagy jogszabályban meghatározott, oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre.
+(3d) Vagyonkezelési szerződés köthető az agrárágazathoz tartozó köznevelési intézménnyel, szakképző intézménnyel, illetve felsőoktatási intézménnyel az alapító okiratában vagy jogszabályban meghatározott oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre.
 
 (4) Az NFK a Nemzeti Földalapba tartozó vízlevezető árkokat és csatornákat térítésmentesen az azok fenntartására jogosultak vagyonkezelésébe adhatja.
 

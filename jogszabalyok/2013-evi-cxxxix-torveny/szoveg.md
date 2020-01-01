@@ -427,7 +427,7 @@ kereskedelmi gyakorlattal kapcsolatos szakhatósági állásfoglalását az elj�
 
 (4) Az adatokat csak olyan formában lehet nyilvánosságra hozni, hogy azokból – jogszabály eltérő rendelkezése hiányában – az egyedi adatszolgáltatókra vonatkozó információk ne legyenek megállapíthatók.
 
-(5) Az MNB elnöke a jegybanki információs rendszerhez szolgáltatandó információk köréről, a szolgáltatás módjáról és határidejéről szóló rendeletében – az MNB alapvető feladatainak ellátásához szükséges kutatási, elemzési, döntés-előkészítési tevékenységek elvégzése érdekében – előírhatja, hogy a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény, a tőkepiacról szóló törvény (a továbbiakban: Tpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (a továbbiakban: Bszt.) hatálya alá tartozó szervezetek, az állami adóhatóság, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv, a Központi Statisztikai Hivatal, a cégbíróság, továbbá a központi költségvetésből finanszírozott családtámogatási és fogyatékossági, szociális, gyermekjóléti, gyermekvédelmi és közoktatási ellátásokra és támogatásokra vonatkozóan a kincstár a jegybanki információs rendszerbe történő információszolgáltatáshoz a kezelésükben lévő személyes adatot, adótitkot, banktitkot, fizetési titkot, értékpapírtitkot, biztosítási titkot, pénztártitkot és egyedi statisztikai adatot visszafordíthatatlan módon úgy módosítsák, hogy az információkat ne lehessen az érintettekkel kapcsolatba hozni, annak érdekében, hogy a szervezetre vonatkozó bizalmas vagy a természetes személyre vonatkozó személyes jellegtől így megfosztott információkat szolgáltassanak az MNB részére. Az MNB elnöke rendeletében kijelöli az információkat szolgáltató szervezeteket.
+(5) Az MNB elnöke a jegybanki információs rendszerhez szolgáltatandó információk köréről, a szolgáltatás módjáról és határidejéről szóló rendeletében – az MNB alapvető feladatainak ellátásához szükséges kutatási, elemzési, döntés-előkészítési tevékenységek elvégzése érdekében – előírhatja, hogy a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény, a tőkepiacról szóló törvény (a továbbiakban: Tpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (a továbbiakban: Bszt.) hatálya alá tartozó szervezetek, az állami adóhatóság, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv, a Központi Statisztikai Hivatal, a cégbíróság, továbbá a központi költségvetésből finanszírozott családtámogatási és fogyatékossági, szociális, gyermekjóléti, gyermekvédelmi, köznevelési és szakképzési támogatásokra vonatkozóan a kincstár a jegybanki információs rendszerbe történő információszolgáltatáshoz a kezelésükben lévő személyes adatot, adótitkot, banktitkot, fizetési titkot, értékpapírtitkot, biztosítási titkot, pénztártitkot és egyedi statisztikai adatot visszafordíthatatlan módon úgy módosítsák, hogy az információkat ne lehessen az érintettekkel kapcsolatba hozni, annak érdekében, hogy a szervezetre vonatkozó bizalmas vagy a természetes személyre vonatkozó személyes jellegtől így megfosztott információkat szolgáltassanak az MNB részére. Az MNB elnöke rendeletében kijelöli az információkat szolgáltató szervezeteket.
 
 (6) Az MNB elnöke rendeletében úgy is előírhatja az (5) bekezdésben írt információk bizalmas vagy személyes jellegtől való megfosztását, hogy az információkat az MNB által egyedileg az (5) bekezdés alapján információszolgáltatásra kötelezett rendelkezésére bocsátott kódképzési módszer alapján meghatározott anonim kapcsolati kóddal kell átadni. Az MNB a kódképzési módszer rendelkezésre bocsátását követően és az információszolgáltatást megelőzően a kódképzési módszert törli.
 
@@ -1144,7 +1144,7 @@ az MNB dönthet úgy, hogy nem teszi közzé a szankciót vagy intézkedést elr
 
 57/B. § (1) Az MNB végzéseivel szemben akkor van helye önálló jogorvoslatnak, ha azt az Ákr. vagy az MNB eljárására vonatkozó törvény lehetővé teszi.
 
-(2) A bíróság az MNB döntését nem változtathatja meg.
+(2) A bíróság az MNB döntését nem változtathatja meg. Az elsőfokú ítélet ellen fellebbezésnek van helye.
 
 (3) Ha az MNB a döntés végrehajtását felfüggeszti, vagy a bíróság azonnali jogvédelmet biztosít, de ennek ellenére a kötelezett teljesíti a döntésben foglaltakat, úgy az abból eredő kár az 56. § szerinti kártérítési igény keretében nem érvényesíthető.
 
@@ -1747,9 +1747,9 @@ tarthat.
 
 (2) Az ügyfél lakcímeként, székhelyeként vagy telephelyeként nem bejelentett és gazdasági tevékenység folytatására egyébként általa nem használt magáncélú, illetve magánhasználatú ingatlan, jármű, adathordozó tekintetében helyszíni kutatás csak akkor lehetséges, ha az olyan természetes személy használatában van, aki az eljárás ideje alatt ügyfél, vagy – nem természetes személy esetén – az ügyfél vezető tisztségviselője, alkalmazottja, megbízottja vagy – nem természetes személy esetén – az ügyfél felett ténylegesen irányítást gyakorló személy, vagy a vizsgálat tárgyát képező időszakban ilyen volt.
 
-(3) E § szerinti helyszíni kutatásra csak előzetes bírói engedéllyel kerülhet sor. Az MNB engedély iránti kérelmének tartalmaznia kell a helyszíni kutatás célját, helyét, az indokoltság alátámasztására szolgáló tényeket, továbbá a helyszíni kutatásra okot adó bizonyítási eszközök – így különösen adatok és adathordozók – meghatározását. Az MNB engedély iránti írásbeli kérelmét a közigazgatási ügyben eljáró bíróság bírálja el, a kérelem beérkezésétől számított hetvenkét órán belül, nemperes eljárásban.
+(3) E § szerinti helyszíni kutatásra csak előzetes bírói engedéllyel kerülhet sor.
 
-(4) A bíróság a kérelmezett helyszíni kutatást akkor engedélyezi, ha az MNB valószínűsíti, hogy más vizsgálati cselekmény – így különösen a 67. § szerinti helyszíni ellenőrzés – nem vezetne eredményre, és ésszerű megalapozottsággal feltehető, hogy az indítvány szerinti helyen a vizsgálat tárgyát képező jogsértéssel kapcsolatos bizonyítási eszköz fellelhető, és feltételezhető, hogy azt önként nem bocsátanák rendelkezésre vagy felhasználhatatlanná tennék. A bíróság a kérelmezett helyszíni kutatást részben is engedélyezheti, meghatározva, hogy kivel szemben, illetve milyen vizsgálati cselekmény tehető.
+(4)
 
 (5) A helyszíni kutatás a bírói engedély közlésétől számított tizenöt napon belül foganatosítható.
 
@@ -2440,7 +2440,7 @@ terjedhet.
   - bk) ha a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló 2013. évi LXXXIII. törvény (a továbbiakban: Pkt.) 9. § (3), (7) és (11) bekezdését alkalmazza valamely vegyes pénzügyi holding társaság esetében,
   - bl) a Hpt. 126. § (5) bekezdésében meghatározott információkról,
   - bm) a Hpt. 145. § (4) bekezdése alapján hozott engedélyről,
-  - bn) a Hpt. 174. § (5) bekezdése, a 185. §, 199. § (5) bekezdése, valamint a Bszt. 164. §-a alapján hozott határozatokról,
+  - bn) a Hpt. 145. § (4) bekezdése, 174. § (5) bekezdése, 185. §-a, 199. § (5) bekezdése, valamint a Bszt. 26/A. § (4) bekezdése és 164. §-a alapján hozott határozatokról,
   - bo) a harmadik országban székhellyel rendelkező hitelintézet vagy befektetési vállalkozás magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
   - bp) a Hpt. 114. §-a szerinti helyreállítási terv kialakításával és koordinálásával kapcsolatosan tervezett megbeszélésekről,
   - bq) a Hpt. 180. § (1) bekezdésének és a Bszt. 162. § (5) bekezdésének alkalmazásáról,
@@ -2872,7 +2872,7 @@ szervezetben.
 
 (4) A díjkülönbözet miatti fizetési kötelezettség a tárgyévet követő év második negyedéves díjszámításából származó díjfizetési kötelezettséggel egy időben válik esedékessé. A díjkülönbözet miatti túlfizetés összegével a tárgyévet követő év második negyedévében esedékessé váló díjtartozás csökkenthető.
 
-169. § (1) Az MNB által jogerősen megállapított és meg nem fizetett felügyeleti díjat, valamint a felügyeleti díj meg nem fizetése vagy késedelmes teljesítése esetén felszámított késedelmi pótlékot az MNB megkeresésére az állami adóhatóság adók módjára hajtja be. Az MNB az állami adóhatóság megkereséséhez a jogerős határozat egy példányát köteles csatolni.
+169. § (1) Az MNB által véglegessé vált döntésben megállapított és meg nem fizetett felügyeleti díjat, valamint a felügyeleti díj meg nem fizetése vagy késedelmes teljesítése esetén felszámított késedelmi pótlékot az MNB megkeresésére az állami adóhatóság adók módjára hajtja be. Az MNB az állami adóhatóság megkereséséhez a véglegessé vált határozat egy példányát köteles csatolni.
 
 (2) A felügyeleti díj meg nem fizetése vagy késedelmes teljesítése esetén a 168. §-ban meghatározott esedékesség napjától a teljesítés napjáig késedelmi pótlékot kell fizetni.
 
@@ -3020,7 +3020,7 @@ vonatkozó részletes szabályokat.
 
 (6) A 2013. október 1-je előtt indult, folyamatban lévő peres és nemperes eljárásokban a PSZÁF helyébe az MNB, továbbá a PSZÁF által működtetett Pénzügyi Békéltető Testület helyébe a Pénzügyi Békéltető Testület lép.
 
-(7) A PSZÁF által 2013. október 1-jét megelőzően hozott hatósági döntéssel szemben bírósági felülvizsgálati eljárás megindítására irányuló keresetet 2013. szeptember 30-át követően az MNB ellen kell benyújtani.
+(7) A PSZÁF által 2013. október 1-jét megelőzően hozott hatósági döntéssel szemben közigazgatási per megindítására irányuló keresetet 2013. szeptember 30-át követően az MNB ellen kell benyújtani.
 
 (8) A PSZÁF által 2013. október 1-jét megelőzően kiadott ajánlás hatályát e törvény hatálybalépése nem érinti.
 

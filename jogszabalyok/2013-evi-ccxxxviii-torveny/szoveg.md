@@ -522,9 +522,9 @@ szervezhet.
 
 62. § Az európai polgári kezdeményezésre a 16. § (1) és (3) bekezdését, valamint a 28. § rendelkezéseit alkalmazni kell.
 
-63. § Az online gyűjtési rendszer megfelelőségéről szóló igazolás kiállítása, a támogató nyilatkozatok ellenőrzése és az érvényes támogató nyilatkozatok számát tartalmazó igazolás kiállítása a Nemzeti Választási Bizottság hatáskörébe tartozik.
+63. § Az online gyűjtési rendszer megfelelőségéről szóló igazolás kiállítása, a támogató nyilatkozatok ellenőrzése és az érvényes támogató nyilatkozatok számát tartalmazó igazolás kiállítása a Nemzeti Választási Iroda hatáskörébe tartozik. A támogató nyilatkozatok ellenőrzésének eredményét a Nemzeti Választási Bizottság határozatban állapítja meg.
 
-64. § (1) Az aláírások ellenőrzése során meg kell vizsgálni, hogy a támogató nyilatkozat formailag elfogadható-e, azonosítani kell a támogató nyilatkozatot aláíró polgárt, meg kell állapítani, hogy nagykorú uniós állampolgár-e, valamint azt, hogy az Európai Parlament tagjai választására az állampolgársága szerinti tagállamban jogosító korhatárt a támogató nyilatkozat aláírásakor elérte-e, továbbá meg kell állapítani az érvényes támogató nyilatkozatok számát.
+64. § (1) Az aláírások ellenőrzése során meg kell vizsgálni, hogy a támogató nyilatkozat formailag elfogadható-e, azonosítani kell a támogató nyilatkozatot aláíró polgárt, meg kell állapítani, hogy nagykorú magyar állampolgár-e, továbbá meg kell állapítani az érvényes támogató nyilatkozatok számát.
 
 (2) A támogató nyilatkozatot aláíró polgár azonosítását az aláírásgyűjtő íven feltüntetett adatainak a személyiadat- és lakcímnyilvántartás, valamint szükség esetén az úti okmány nyilvántartás vagy a személyazonosító igazolvány nyilvántartás adataival való összevetésével kell elvégezni.
 
@@ -775,7 +775,7 @@ sarkalatosnak minősül.
 
 #### 46. A jogalkotásra vonatkozó európai uniós követelményekre utaló rendelkezés
 
-96. § A IV. Fejezet a polgári kezdeményezésről szóló 2011. február 16-ai 211/2011/EU európai parlamenti és tanácsi rendelet 15. cikkének, a 97. § a rendelet 14. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+96. § A IV. Fejezet az európai polgári kezdeményezésről szóló 2019. április 17-i 2019/788/EU európai parlamenti és tanácsi rendelet 20. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 47. Módosító rendelkezések
 

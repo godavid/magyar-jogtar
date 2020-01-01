@@ -97,7 +97,7 @@ díj – bármilyen jogcímen történő – felszámítása a beszállító fel
 
 (2) A mezőgazdasági igazgatási szerv eljárására az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy az ügyintézési határidő negyvenöt nap.
 
-(3) Az eljáró hatóság helyszíni ellenőrzésre feljogosított kormánytisztviselője, állami tisztviselője az e törvényben foglaltak ellenőrzése, valamint a tényállás tisztázásához szükséges bizonyíték fellelése érdekében jogosult
+(3) Az eljáró hatóság helyszíni ellenőrzésre feljogosított kormánytisztviselője az e törvényben foglaltak ellenőrzése, valamint a tényállás tisztázásához szükséges bizonyíték fellelése érdekében jogosult
 
 - a) az ellenőrzött helyiségbe, illetve létesítménybe belépni;
 - b) az ellenőrzés tárgyát képező vagy azzal kapcsolatos iratokat, dokumentációt, adathordozókat – az adatvédelemre, valamint a titoktartásra vonatkozó külön jogszabályok figyelembevételével – megismerni és azokról másolatot, illetve kivonatot készíteni;

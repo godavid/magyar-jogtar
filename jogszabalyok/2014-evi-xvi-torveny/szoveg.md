@@ -8,7 +8,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 1. § Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény hatálya kiterjed
 
-- a) a Magyarország területén székhellyel rendelkező, e törvény szerinti kollektív befektetési forma és befektetési alapkezelő létrehozatalára, működésére és felügyeletére,
+- a) a Magyarország területén székhellyel rendelkező, e törvény szerinti kollektív befektetési forma és befektetési alapkezelő létrehozatalára, működésére és felügyeletére, kivéve a 2. § (2) bekezdése szerinti kockázati tőkealap-kezelő (és az általa kezelt kockázati tőkealap és magántőkealap) felügyeletét, valamint az olyan egy vagy több, de kizárólag zártkörű ABA-t kezelő ABAK-ok (és az általuk kezelt zártkörű ABA-k) felügyeletét, amelyeknek ugyanezen ABAK-ok vagy azok anyavállalatai vagy leányvállalatai, vagy ezen anyavállalatok egyéb leányvállalatai az egyedüli befektetői, feltéve, hogy e befektetők maguk nem ABA-k,
 - b) a Magyarország területén végzett befektetési alapkezelési tevékenységre,
 - c) a Magyarország területén székhellyel rendelkező ÁÉKBV-alapkezelő EGT-államban létrehozott fióktelepe által végzett befektetési alapkezelési tevékenységére, valamint határon átnyúló szolgáltatás nyújtására,
 - d) a Magyarország területén székhellyel rendelkező ABAK EGT-államban létrehozott fióktelepe által végzett befektetési alapkezelési tevékenységére, valamint határon átnyúló szolgáltatás nyújtására,

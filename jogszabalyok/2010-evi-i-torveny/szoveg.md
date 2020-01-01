@@ -93,10 +93,10 @@ jegyezhet be.
 - a) végzi a hazai anyakönyvezést,
 - b) dönt a névváltoztatási kérelemről,
 - c) eljár a 14. § (2) bekezdésében meghatározott esetben,
-- d) eljár a 89. § (4) bekezdésében meghatározott esetben,
+- d)
 - e)
 - f)
-- g) anyakönyvezi az ismeretlen holttestet,
+- g)
 - h) dönt a házasságkötéshez, bejegyzett élettársi kapcsolat létesítéséhez szükséges külföldi okirat elfogadhatóságáról,
 - i) a hazai anyakönyvezés kivételével teljesíti az anyakönyvi bejegyzést, ha annak alapja nem magyar állampolgár anyától származó, Magyarországon született gyermekre vagy nem magyar állampolgár apa által tett teljes hatályú apai elismerő nyilatkozat vagy külföldi okirat, kivéve, ha az anyakönyvi bejegyzés teljesítéséről való döntésre a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2003. november 27-i 2201/2003/EK tanácsi rendelet az irányadó,
 - j) eljár a 12/B. § (1) bekezdésében meghatározott esetben,
@@ -116,7 +116,7 @@ jegyezhet be.
 
 ### Illetékesség
 
-7. § (1) A születést, a házasságkötést, a bejegyzett élettársi kapcsolat létesítését és a halálesetet – az ismeretlen személyazonosságú holttest kivételével – az az anyakönyvvezető jegyzi be az anyakönyvbe, akinek illetékességi területén az történt.
+7. § (1) A születést, a házasságkötést, a bejegyzett élettársi kapcsolat létesítését és a halálesetet az az anyakönyvvezető jegyzi be az anyakönyvbe, akinek illetékességi területén az történt.
 
 (2) A születést – ha az mozgó járművön történt – az az anyakönyvvezető jegyzi be, akinek az illetékességi területén az anya a járművet elhagyta.
 
@@ -124,9 +124,9 @@ jegyezhet be.
 
 (4) Ismeretlen szülőktől származó gyermek születését az az anyakönyvvezető jegyzi be, akinek az illetékességi területét a gyámhatóság a határozatában születési helyként megjelölte.
 
-8. § (1) A mozgó járművön történt halálesetet – az ismeretlen személyazonosságú holttest kivételével – az az anyakönyvvezető jegyzi be az anyakönyvbe, akinek az illetékességi területén a holttestet a járműről leemelték.
+8. § (1) A mozgó járművön történt halálesetet az az anyakönyvvezető jegyzi be az anyakönyvbe, akinek az illetékességi területén a holttestet a járműről leemelték.
 
-(2) Talált holttest esetében a haláleset bejegyzésére – az ismeretlen személyazonosságú holttest kivételével – az az anyakönyvvezető illetékes, akinek az illetékességi területén a holttestet megtalálták.
+(2) Talált holttest esetében a haláleset bejegyzésére az az anyakönyvvezető illetékes, akinek az illetékességi területén a holttestet megtalálták.
 
 (3) A halál tényének bírósági megállapítása esetén a haláleset bejegyzésére az az anyakönyvvezető illetékes, akinek az illetékességi területén a bíróság döntése szerint a haláleset bekövetkezett.
 
@@ -731,7 +731,7 @@ a bíróság értesíti a születést nyilvántartó anyakönyvvezetőt.
 
 érvénytelenítés és az érvénytelenítés tényének az okmány-nyilvántartásban történő átvezetése céljából megküldi.
 
-(3) Az anyakönyvvezető az elhalt személy átadott személyazonosító igazolványát és a személyi azonosítóját és lakcímét igazoló hatósági igazolványát átlyukasztással – könyv formátumú személyazonosító igazolvány esetén az adatoldalakon elhelyezett érvénytelenségre utaló bélyegzőlenyomattal – érvényteleníti. Az anyakönyvvezető az általa érvénytelenített okmányokat erre irányuló kérelem esetén visszaadja az elhalt személy hozzátartozójának. Hamis vagy meghamisított okmányt visszaadni nem lehet. Az anyakönyvvezető a vissza nem igényelt érvénytelenített okmányokat, valamint a további, személyazonosság igazolására alkalmas hatósági igazolványt soron kívül, de legkésőbb három napon belül továbbítja a haláleset helye szerint illetékes járási hivatalnak.
+(3) Az anyakönyvvezető az elhalt személy átadott személyazonosító igazolványát és a személyi azonosítóját és lakcímét igazoló hatósági igazolványát átlyukasztással – könyv formátumú személyazonosító igazolvány esetén az adatoldalakon elhelyezett érvénytelenségre utaló bélyegzőlenyomattal – érvényteleníti. Az anyakönyvvezető az általa érvénytelenített okmányokat erre irányuló kérelem esetén visszaadja az elhalt személy hozzátartozójának. Hamis vagy meghamisított okmányt visszaadni nem lehet. Az anyakönyvvezető gondoskodik a hatósági igazolvány érvénytelenítése tényének a hatósági igazolvány nyilvántartásba való bejegyzéséről. Az anyakönyvvezető a vissza nem igényelt érvénytelenített okmányokat, valamint a további, személyazonosság igazolására alkalmas hatósági igazolványt soron kívül, de legkésőbb három napon belül továbbítja a haláleset helye szerint illetékes járási hivatalnak.
 
 (4) A (2)–(2b) bekezdésben nem szereplő nem magyar állampolgár halálesetének anyakönyvezési eljárása során az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személynek vagy az ügyben eljáró temetkezési szolgáltatónak az elhalt személyazonosításra alkalmas okmányait, továbbá a halottvizsgálati bizonyítványt az anyakönyvvezető részére be kell mutatnia. Az anyakönyvezető, az elhalt külföldi hatóság által kiállított úti okmányában lévő érvényes, magyarországi tartózkodásra jogosító vízumon, illetve a magyarországi tartózkodási jogosultságra vonatkozó egyéb bejegyzésen az egyedi elektronikus anyakönyvi azonosító feltüntetésével „érvénytelen” bejegyzést tesz, és a külföldi hatóságok által kiállított okmányokat a megjelent személynek visszaadja. A bejegyzés megtörténtének tényéről az úti okmány adatainak közlésével az idegenrendészeti és a menekültügyi hatóságot értesíti.
 
@@ -906,7 +906,7 @@ megismerni.
 - f) a bejegyzés idejét és
 - g) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
 
-(2) Ha az elhalt személyazonossága ismertté válik, a halálesetnek az elektronikus anyakönyvbe való bejegyzését követően az (1) bekezdés b)–f) pontjában foglalt adatokat az illetékes anyakönyvi szerv törli, és az elektronikus anyakönyvbe az ismeretlen személyazonosságú holttestre vonatkozó adatok törlésére utaló bejegyzést tesz, az adatot bejegyző személy nevének és felhasználói azonosítójának, valamint a bejegyzés idejének feltüntetésével.
+(2) Ha az elhalt személyazonossága ismertté válik, a halálesetnek az elektronikus anyakönyvbe való bejegyzését követően az (1) bekezdés b)–f) pontjában foglalt adatokat az illetékes anyakönyvvezető törli, és az elektronikus anyakönyvbe az ismeretlen személyazonosságú holttestre vonatkozó adatok törlésére utaló bejegyzést tesz, az adatot bejegyző személy nevének és felhasználói azonosítójának, valamint a bejegyzés idejének feltüntetésével.
 
 (3) Ha az elhalt személyazonossága ismertté válik, az (1) bekezdés a) pontjában foglalt adatot akkor kell törölni, ha az elhalt személy az elektronikus anyakönyvben már szerepel.
 
@@ -1370,7 +1370,7 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 (3) Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv – a személyiadat- és lakcímnyilvántartás hatálya alá tartozó nem magyar állampolgár kivételével – a nem magyar állampolgár halálesetének anyakönyvezéséről a 69/B. § (1) bekezdés a) pontjában, b) pont ba)–bc), bf) és bh) alpontjában, valamint a 69/F. § (1) bekezdés a) pontjában foglalt adatok továbbításával értesíti a központi idegenrendészeti nyilvántartást vezető szervet, menedékes vagy befogadott jogállású személy esetén pedig a menekültügyi hatóságot. Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az idegenrendészeti hatóság által kiállított, tartózkodásra jogosító engedélyt az eljárása során bevonja, és azt az anyakönyvi értesítéshez csatolja.
 
-(4) Az anyakönyvvezető a nem magyar állampolgár anyakönyvi eseményéről értesíti az anyakönyvi szervet. Az értesítés tartalmazza a nem magyar állampolgár – gyermek születésének anyakönyvezése esetén a szülők – természetes személyazonosító adatait, menekült vagy oltalmazott jogállását, valamint – ha rendelkezésre áll – az állampolgárságát igazoló okmányának megnevezését, okmányazonosítóját és érvényességi idejét. Az anyakönyvi szerv a nem magyar állampolgár anyakönyvi eseményéről – nemzetközi szerződés vagy viszonosság alapján – az anyakönyvi kivonat és az anyakönyvvezető által küldött értesítésben szereplő adatok továbbításával értesíti az érintett állampolgársága szerinti állam Magyarországra akkreditált külképviseletét, annak hiányában a külpolitikáért felelős minisztert.
+(4) Az anyakönyvvezető a nem magyar állampolgár anyakönyvi eseményéről – nemzetközi szerződés vagy viszonosság alapján – az anyakönyvi kivonat és az értesítésben szereplő adatok megküldésével értesíti az érintett állampolgársága szerinti állam Magyarországra akkreditált külképviseletét, annak hiányában a külpolitikáért felelős minisztert. Az értesítés tartalmazza a nem magyar állampolgár – gyermek születésének anyakönyvezése esetén a szülők – természetes személyazonosító adatait, menekült vagy oltalmazott jogállását, valamint – ha rendelkezésre áll – az állampolgárságát igazoló okmányának megnevezését, okmányazonosítóját és érvényességi idejét.
 
 90. § Az anyakönyvi szerv a névváltoztatás bejegyzését követően haladéktalanul értesíti a bűnügyi nyilvántartó szervet a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személynek a névváltoztatást megelőző és megváltozott születési családi és utónevéről, a 69/B. § (1) bekezdés b) pont bb), bc) és bf) alpontjában, valamint g) pontjában foglalt adatairól.
 

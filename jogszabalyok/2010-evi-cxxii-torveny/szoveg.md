@@ -310,9 +310,17 @@ kapcsolatos feladatokat.
 
 (5) A munkáltató az egyoldalú jognyilatkozatát az e törvényben, vagy a Kttv.-ben, illetve a Hszt.-ben meghatározott esetben köteles írásban indokolni, valamint az igény érvényesítésének módjáról – és ha az az elévülési időnél rövidebb –, annak határidejéről a kormánytisztviselőt, a pénzügyőrt, az ügykezelőt kioktatni. A kioktatás elmulasztása esetén 6 hónap elteltével az igény nem érvényesíthető.
 
+(6) Írásbelinek kell tekinteni a jognyilatkozatot, ha annak közlésére a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor.
+
+(7) A nyilatkozattevő személyének (6) bekezdés szerinti azonosításához nem szükséges a nyilatkozattevő fokozott biztonságú vagy minősített elektronikus aláírása.
+
+(8) A (6) bekezdéstől eltérően a kinevezés, a hivatásos állományba való felvétel és annak elfogadása, a kinevezés, illetve a hivatásos szolgálati jogviszony módosítása, a kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony megszűnésével, megszüntetésével kapcsolatos jognyilatkozat, a fegyelmi, kártérítési ügyben hozott határozat, a sérelemdíj megfizetése ügyében hozott határozat, az összeférhetetlenség megszüntetésére irányuló felszólítás és a fizetési felszólítás a munkáltatói jogkör gyakorlója részéről elektronikusan legalább fokozott biztonságú elektronikus aláírással kiadmányozható.
+
 ### A jognyilatkozat közlése
 
 16/G. § (1) Az írásbeli jognyilatkozat akkor tekinthető közöltnek, ha azt a jognyilatkozat címzettjének vagy a 16/E. § (3)–(4) bekezdés szerint átvételre jogosult képviselőnek átadják. A közlés a megtagadás, illetve akadályozás napjával akkor is hatályos, ha a jognyilatkozat címzettje vagy az átvételre jogosult képviselője az átvételt megtagadja vagy szándékosan megakadályozza. Erről jegyzőkönyvet kell felvenni.
+
+(1a) Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát megismerje.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően a tértivevény különszolgáltatással feladott küldeményként kézbesített jognyilatkozatot
 
@@ -334,6 +342,16 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 (6) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.
 
 (7) Azokat a munkáltatói intézkedéseket, amelyek a személyi állomány egészét vagy egy részét érintően szervezetirányítási jogkörben kerülnek kiadásra, akkor is közöltnek kell tekinteni, ha azt a helyben szokásos és a személyi állomány által ismert módon (ideértve az elektronikus közlést is) közzéteszik.
+
+(8) Az írásbeli jognyilatkozatokat a kormánytisztviselők, ügykezelők és pénzügyőrök esetében a 16/F. § (6) és (8) bekezdése szerint kell kiadmányozni. Az írásbeli jognyilatkozatokat az (1) bekezdés, valamint a (9)–(12) bekezdés szerint kell kézbesíteni.
+
+(9) Az elektronikus dokumentum kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 14. §-ában, valamint 15. § (2) és (3) bekezdésében foglalt rendelkezéseket a (11) bekezdésben meghatározott eltérésekkel kell alkalmazni, azzal, hogy ügyfél alatt a kormánytisztviselőt, ügykezelőt és pénzügyőrt, elektronikus ügyintézést biztosító szerv alatt pedig a NAV szervet kell érteni.
+
+(10) A kormánytisztviselő, ügykezelő és a pénzügyőr köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében az E-ügyintézési tv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A kormánytisztviselő, ügykezelő és a pénzügyőr e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését, illetve a hivatásos állományba való felvételt követő 15 napon belül köteles teljesíteni.
+
+(11) Az E-ügyintézési tv. 15. § (3) bekezdésétől eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítésről szóló igazolásban feltüntetett időpontot követő ötödik munkanapon.
+
+(12) Ha az elektronikus dokumentum elektronikus kézbesítése (vagy a kézbesítési vélelem szabályainak alkalmazása) bármely okból nem lehetséges, vagy az a jogviszony létesítéséről rendelkezik, az elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papíralapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papíralapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A címzettel a papíralapú kiadmányt kell közölni.
 
 ### A semmisség, a megtámadhatóság és azok jogkövetkezménye
 
@@ -652,6 +670,8 @@ fegyelmi büntetés szabható ki.
 
 (1a) A Kttv. 8. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a tárgyévben munkaszerződéssel foglalkoztatott személyek aránya – ide nem értve a fizikai alkalmazottakat – együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám húsz százalékát.
 
+(1b) A Kttv. 39. § (7) bekezdése szerinti megfelelési kötelezettséget azzal az eltéréssel kell alkalmazni, hogy amennyiben a kormánytisztviselő a Kttv. 39. § (1) bekezdése szerinti büntetőeljárás hatálya alá kerül, a munkáltatói jogkör gyakorlója köteles méltatlansági eljárást indítani. Amennyiben a méltatlanság nem állapítható meg, de a munkáltatói jogkör gyakorlója a fegyelmi eljárás lefolytatását indokoltnak tartja, a méltatlansági eljárás befejezését követő 15 napon belül fegyelmi eljárást indíthat.
+
 (2) A Kttv. 50. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a teljes munkaidőben foglalkoztatott kormánytisztviselő írásbeli kérelmére a munkáltató akkor köteles a kinevezésben heti húszórás részmunkaidőt kikötni, ha a kormánytisztviselő a kérelem benyújtásakor a 32/U. § (1) bekezdésében foglalt illetmény nélküli szabadságot vesz igénybe.
 
 (3) A Kttv. 79. § g) pontját azzal az eltéréssel kell alkalmazni, hogy a kormánytisztviselő a 32/Z. §, valamint a 33. § szerinti képzésben való részvételhez szükséges időre mentesül a rendelkezésre állási, illetve munkavégzési kötelezettségének teljesítése alól.
@@ -851,7 +871,7 @@ kell megállapítani.
 
 (2) A munkáltatói jogkör gyakorlója a munkakörbe kinevezéskor az (1) bekezdésben meghatározottak alapján besorolja az érintettet, megállapítja a fizetési fokozatát és pénzügyőr esetében a rendfokozatát. Ha a pénzügyőr viselt rendfokozata alacsonyabb a besorolás szerintinél, a munkáltatói jogkör gyakorlója a pénzügyőrt a rendfokozatba kinevezi, előlépteti vagy kinevezésre, előléptetésre előterjeszti az arra jogosulthoz.
 
-(3) Az állami adó- és vámhatóság vezetője az e törvény 18/E. §, 19/A. § (1) bekezdésében és 19/B. § (1) bekezdésében előírt felsőfokú iskolai végzettség követelménye alól egyedi ügyben, indokolt esetben felmentést adhat.
+(3)
 
 19/H. § A nem vezetői munkakört betöltő kormánytisztviselőt, illetve pénzügyőrt az 1. számú mellékletben meghatározott fizetési fokozatba a 20/A. § szerinti jogviszonyban eltöltött ideje alapján kell besorolni.
 
@@ -3906,6 +3926,10 @@ esetén.
 
 (2) A titkos információgyűjtés szabályainak az új büntetőeljárási törvénnyel összefüggő, továbbá a bírósági végrehajtás során a sértettnek megítélt polgári jogi követelések kielégítési sorrendjére vonatkozó rendelkezések módosításáról szóló 2017. évi XCIII. törvény hatálybalépésekor folyamatban lévő, az e törvény 2018. június 30-ig hatályban volt rendelkezései alapján végzett titkos információgyűjtés esetén a NAV titkos információgyűjtést folytató szerve 2019. január 1-ig döntést hoz arról, hogy a büntetőeljárásról szóló törvény szerinti előkészítő eljárást kezdeményez-e vagy feljelentést tesz-e.
 
+103/B. § (1) A 2019. december 31-én kormányzati szolgálati jogviszonyban álló kormánytisztviselő és ügykezelő, valamint hivatásos szolgálati jogviszonyban álló pénzügyőr köteles a Versenyképesebb Magyarországért program egyes adóintézkedéseinek megvalósítását szolgáló törvények módosításáról szóló 2019. évi C. törvénnyel megállapított 16/G. § (10) bekezdése szerinti szolgáltatással 2020. január 1. napjától rendelkezni.
+
+(2) A Versenyképesebb Magyarországért program egyes adóintézkedéseinek megvalósítását szolgáló törvények módosításáról szóló 2019. évi C. törvénnyel megállapított 16/F–16/G. §-ban meghatározott elektronikus dokumentumokra vonatkozó szabályokat olyan okiratok vonatkozásában, amelyek érvényességéhez nem szükséges a foglalkoztatott jognyilatkozata, 2020. március 31. napjától, amelyek érvényességéhez a foglalkoztatott jognyilatkozata szükséges, 2021. január 1. napjától kell alkalmazni.
+
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
 104. § E törvény IV. Fejezete és 103/A. §-a az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
@@ -4047,25 +4071,25 @@ Besorolási kategóriák fizetési fokozataihoz rendelt rendfokozatok
 
 #### Vezetői munkakörök illetménye
 
-| 1. | Vezetői munkakör | Fizetési fokozat | A munkakörben eltöltött idő (év) | Várakozási idő a fizetési fokozatban (év) | Területi szervnél illetményalapra vetített szorzószám | Központi szervnél az illetményalapra vetített szorzó-szám |
+| 1. | Vezetői munkakör | Fizetési fokozat | A munkakörben eltöltött idő (év) | Várakozási idő a fizetési fokozatban (év) | Területi szervnél illetményalapra vetített szorzószám | Központi szervnél az illetményalapra vetített szorzószám |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2. | Főigazgató |  |  |  |  | 29,50 |
 | 3. | Szakfőigazgató, Főigazgató- helyettes |  |  |  |  | 24,00 |
 | 4. | Igazgató | 1. | 0–5 | 5 | 18,25 |  |
 | 5. | 2. | 5–10 | 5 | 18,75 |  |
 | 6. | 3. | 10– |  | 19,25 |  |
-| 7. | Igazgató- helyettes | 1. | 0–5 | 5 | 17,00 |  |
+| 7. | Igazgatóhelyettes | 1. | 0–5 | 5 | 17,00 |  |
 | 8. | 2. | 5–10 | 5 | 17,50 |  |
 | 9. | 3. | 10– |  | 18,00 |  |
-| 10. | Főosztályvezető | 1. | 0–5 | 5 | 14,50 | 19,50 |
-| 11. | 2. | 5–10 | 5 | 15,00 | 20,00 |
-| 12. | 3. | 10– |  | 15,50 | 20,50 |
-| 13. | Főosztályvezető- helyettes | 1. | 0–5 | 5 | 13,25 | 17,75 |
-| 14. | 2. | 5–10 | 5 | 13,75 | 18,25 |
-| 15. | 3. | 10– |  | 14,25 | 18,75 |
-| 16. | Osztályvezető | 1. | 0–5 | 5 | 12,00 | 15,75 |
-| 17. | 2. | 5–10 | 5 | 12,50 | 16,25 |
-| 18. | 3. | 10– |  | 13,00 | 16,75 |
+| 10. | Főosztályvezető | 1. | 0–5 | 5 | 15,00 | 19,50 |
+| 11. | 2. | 5–10 | 5 | 15,50 | 20,00 |
+| 12. | 3. | 10– |  | 16,00 | 20,50 |
+| 13. | Főosztályvezető- helyettes | 1. | 0–5 | 5 | 13,75 | 17,75 |
+| 14. | 2. | 5–10 | 5 | 14,25 | 18,25 |
+| 15. | 3. | 10– |  | 14,75 | 18,75 |
+| 16. | Osztályvezető | 1. | 0–5 | 5 | 12,50 | 15,75 |
+| 17. | 2. | 5–10 | 5 | 13,00 | 16,25 |
+| 18. | 3. | 10– |  | 13,50 | 16,75 |
 
 ### 4. számú melléklet a 2010. évi CXXII. törvényhez
 

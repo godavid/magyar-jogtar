@@ -2843,9 +2843,12 @@ irányuló végrehajtási jogsegéllyel együtt, vagy azt követően érkezett, 
 
 140/D. § (1) A tagállami határozatban kiszabott pénzbüntetés átváltoztatására csak akkor kerülhet sor, ha ahhoz a kibocsátó tagállam a tanúsítványban hozzájárult. A pénzbüntetés átváltoztatásáról az átváltozatást elrendelő bíróság a tagállami hatóságot tájékozatja.
 
-(2) Ha a tagállami hatóság az átváltoztatáshoz nem járult hozzá, és a terhelt nem fizette meg a pénzbüntetést, a pénzbüntetés adók módjára behajtandó köztartozásnak minősül. A köztartozás behajtását a bíróság a Nemzeti Adó- és Vámhivatalnál kezdeményezi.
+(2) A tagállami határozatban kiszabott pénzbüntetés átváltoztatásának nincs helye, ha
 
-(2a) A tagállami határozatban kiszabott pénzbüntetés átváltoztatásának nincs helye, ha a végrehajtás átvételére a 140/A. § (3) bekezdése alapján, vagy a 137. § 1. pont b–d) pontban meghatározottak vonatkozásában került sor. A pénzbüntetés – a sértett javára fizetendő jóvátétel kivételével – meg nem fizetése esetén adók módjára behajtandó köztartozásnak minősül. A köztartozás behajtását a bíróság a Nemzeti Adó- és Vámhivatalnál kezdeményezi.
+- a) a tagállami hatóság az átváltoztatáshoz nem járult hozzá,
+- b) a végrehajtás átvételére a 140/A. § (3) bekezdése alapján, vagy a 137. § (1) bekezdés 1. pont b)–d) pontban meghatározottak vonatkozásában került sor.
+
+(2a) A (2) bekezdésben meghatározott esetben, ha a pénzbüntetést nem fizették meg – a sértett javára fizetendő jóvátétel kivételével – a végrehajtást az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény alapján az állami adó- és vámhatóság folytatja le.
 
 (2b) Ha a pénzbüntetés átváltoztatására nincs lehetőség, és a terhelt a pénzbüntetést önként nem fizette meg, a végrehajtás nem vezetett eredményre vagy a tartozás más módon nem hajtható be, a bíróság – az akadály indokának megjelölésével – tájékoztatja a tagállami hatóságot, hogy a tagállami határozat végrehajtása Magyarországon nem lehetséges, és a végrehajtást megszünteti.
 
@@ -2932,7 +2935,7 @@ irányuló végrehajtási jogsegéllyel együtt, vagy azt követően érkezett, 
 
 (6) A bíróság a vagyonelkobzást elrendelő tagállami határozat végrehajtásának átvételét követően a végrehajtás biztosítása érdekében lefoglalást vagy zár alá vételt rendelhet el akkor is, ha erre vonatkozóan korábban a 93–100. § szerinti megkeresés nem érkezett.
 
-145/B. § A vagyonelkobzást elrendelő tagállami határozat végrehajtásának átvételét követően a vagyonelkobzás, illetve az elkobzás végrehajtása a törvényszéki végrehajtó feladata.
+#### 145/B. §
 
 145/C. § (1) A bíróság a végrehajtás átvétele esetén a határozatában rendelkezik arról, ha a vagyonelkobzás, illetve az elkobzás végrehajtásából befolyt összeg a 144. § (3) bekezdés szerinti átszámítási szabályok figyelembevételével
 
@@ -3382,6 +3385,8 @@ rendelkezik hatáskörrel és illetékességgel.
 (3) A (2) bekezdés nem alkalmazható, ha a 122/B. § (1) bekezdése alapján a tagállami jog feltételes szabadságra bocsátással kapcsolatos rendelkezései alkalmazásának lenne helye, de a terheltet már korábban feltételes szabadságra bocsátották.
 
 (4) Nincs helye felülvizsgálatnak, illetve a törvényesség érdekében bejelentetett jogorvoslatnak, ha a (2) bekezdés alapján a 111/E. §-ra figyelemmel a tagállami ítéletet végrehajtandó szabadságvesztésként elismerő bírósági határozat megváltoztatására került sor.
+
+(5) E törvénynek a 140/D. § (2a) bekezdése szerinti, a pénzbüntetés meg nem fizetése esetén alkalmazandó végrehajtásra vonatkozó szabályait a 2019. december 31. napját követően elrendelt végrehajtások esetén kell alkalmazni. A 2020. január 1. napját megelőzően megindult végrehajtás esetén a pénzbüntetés adók módjára behajtandó köztartozásnak minősül, amelynek behajtása az állami adó- és vámhatóság feladata.
 
 #### 67. Az Európai Unió jogának való megfelelés
 

@@ -37,12 +37,12 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 - 2. anyagáram: az egyes termékáramokon belül elkülönülő önálló hasznosítási kötelezettséggel rendelkező anyag, illetve termék;
 - 3.
 - 4. belföld: a Magyarország területe, ideértve a vámszabad és tranzitterületeket, valamint a vámszabad raktárakat is;
-- 5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása, amely során a bérgyártó anyagáramonként és termékáramonként legfeljebb a termékdíjköteles termék tömegében számított 50%-os mértéket meg nem haladóan adhat hozzá terméket a bérgyártató részére gyártott termékdíjköteles termékhez;
+- 5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása, amely során a bérgyártó anyagáramonként és termékáramonként legfeljebb a termékdíjköteles termék tömegében számított ötven százalékos mértéket meg nem haladóan adhat hozzá terméket a bérgyártató részére gyártott termékdíjköteles termékhez;
 - 6. csekély mennyiségű kibocsátó: a tárgyévben
   - a) 30 kg akkumulátort,
   - b) csomagolószer termékkör esetén ba) 3000 kg üveget, bb) 300 kg – a műanyag bevásárló-reklám táska nélkül számított – műanyagot, bc) 75 kg műanyag bevásárló-reklám táskát, bd) 300 kg társított vagy rétegzett csomagolószert, be) 500 kg papír, fa, természetes alapú textil csomagolószert, bf) 300 kg fém csomagolószert, bg) 300 kg egyéb csomagolószert, azonban a bb)–bg) alpontok esetén mindösszesen legfeljebb 1000 kg csomagolószert,
   - c) 40 kg egyéb kőolajterméket,
-  - d) elektromos, elektronikai berendezés termékkör esetében, da) 40 kg háztartási nagygépet, db) 40 kg háztartási kisgépet, dc) 40 kg információs (IT) és távközlési berendezést, kivéve a rádiótelefon készüléket, dd) 40 kg szórakoztató elektronikai cikket, de) 40 kg barkácsgépet, szerszámot, df) 10 kg játékot, szabadidős és sportfelszerelést, dg) 10 kg ellenőrző, vezérlő és megfigyelő eszközt, dh) 10 kg adagoló automatát, di) 5 kg rádiótelefon készüléket mindösszesen legfeljebb 100 kg elektromos, elektronikai terméket;
+  - d) elektromos, elektronikai berendezés termékkör esetében, da) 40 kg háztartási nagygépet, db) 40 kg háztartási kisgépet, dc) 40 kg információs (IT) és távközlési berendezést, kivéve a mobiltelefon készüléket, dd) 40 kg szórakoztató elektronikai cikket, de) 40 kg barkácsgépet, szerszámot, df) 10 kg játékot, szabadidős és sportfelszerelést, dg) 10 kg ellenőrző, vezérlő és megfigyelő eszközt, dh) 10 kg adagoló automatát, di) 5 kg mobiltelefon készüléket mindösszesen legfeljebb 100 kg elektromos, elektronikai terméket;
   - e) 60 kg gumiabroncsot,
   - f) 100 kg reklámhordozó papírt
   - g) 2 kg egyéb műanyag terméket,
@@ -105,7 +105,7 @@ meg nem haladó tömegű termékdíjköteles terméket – kizárólag végfelha
 
 ideértve azt is, ha más kiadvány mellékletét képezik, kivéve az ISBN-számmal ellátott könyvet, és a tankönyvjegyzékbe felvett tankönyvet;
 
-- 27. rétegzett italkarton: az a legalább 70%-ban papír alapanyagú (karton) csomagolószer, amely alkalmas folyékony élelmiszer csomagolására;
+- 27. rétegzett italkarton: az a legalább hetven százalékban papír alapanyagú (karton) csomagolószer, amely alkalmas folyékony élelmiszer csomagolására;
 - 28. termékáram: az egyes termékek hulladékgazdálkodási szempontok alapján képzett termékcsoportonkénti összessége;
 - 29. termékdíj-kötelezettség: termékdíjköteles termékkel, illetve a termékdíjjal összefüggő
   - a) bejelentkezési,
@@ -211,7 +211,7 @@ használja fel,
 - d) az elkülönített hulladék gyűjtésére szolgáló műanyag zsákot belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
 - e) a teljes egészében megújuló forrásból származó alapanyagból és – az MSZ EN 13432:2002 szabvány, vagy azzal egyenértékű megoldás követelményeinek megfelelően – biológiai úton lebomló műanyagból készült termékdíjköteles terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
 - f) olyan reklámhordozó papírt hoz belföldön forgalomba, használ fel saját célra vagy vesz készletre,
-  - fa) amely teljes nyomtatott felületére vetítve legfeljebb 50%-ában gazdasági reklám terjesztésére szolgál, vagy
+  - fa) amely teljes nyomtatott felületére vetítve legfeljebb ötven százalékában gazdasági reklám terjesztésére szolgál, vagy
   - fb) amelyet közhasznú szervezet, állami, önkormányzati szerv alapfeladata körében ad ki.
 
 (10) A reklámhordozó papír forgalomba hozatala során a (9) bekezdés f) pontja alapján a termékdíjat abban az esetben nem kell megfizetni, ha a kötelezett megrendelője a megrendelésével egyidejűleg írásban nyilatkozik a (9) bekezdés f) pont alpontjaiban meghatározott feltétel fennállásáról.
@@ -226,8 +226,8 @@ használja fel,
 
 3/B. § A gépjármű termékdíjköteles alkotórészei termékdíjának vagy a termékdíjátalány összegének
 
-- a) 70%-át kell megfizetni a hajtómotorként elektromos motorral is működő vagy
-- b) 50%-át kell megfizetni a kizárólag elektromos hajtómotorral működő
+- a) hetven százalékát kell megfizetni a hajtómotorként elektromos motorral is működő vagy
+- b) ötven százalékát kell megfizetni a kizárólag elektromos hajtómotorral működő
 
 gépjármű forgalomba hozatala, saját célú felhasználása vagy készletre vétele esetén.
 
@@ -419,9 +419,9 @@ teljesíti.
 
 (2) Az egyéni hulladékkezelést választó kötelezettet a tárgyévre (adóévre) nézve termékdíj-előleg megállapítási, bevallási és megfizetési kötelezettség terheli.
 
-(3) A termékdíj-előleg mértéke a tárgyév (adóév) első három negyedéve után fizetett termékdíj harmadának a 80%-a, amelyben figyelembe kell venni az erre az időszakra vonatkozóan elfogadott önellenőrzés, pótlólag benyújtott bevallás alapján befizetett vagy visszafizetett összeget is.
+(3) A termékdíj-előleg mértéke a tárgyév (adóév) első három negyedéve után fizetett termékdíj harmadának a nyolcvan százaléka, amelyben figyelembe kell venni az erre az időszakra vonatkozóan elfogadott önellenőrzés, pótlólag benyújtott bevallás alapján befizetett vagy visszafizetett összeget is.
 
-(4) Az egyéni hulladékkezelést választó kötelezett termékdíj-előlegének mértéke a tárgyévet megelőző évre az adott termék- vagy anyagáramra vonatkozóan bevallott termékdíj összegének 95%-a, amelyben figyelembe kell venni az erre az időszakra vonatkozóan elfogadott önellenőrzés, pótlólag benyújtott bevallás alapján befizetett vagy visszafizetett összeget is.
+(4) Az egyéni hulladékkezelést választó kötelezett termékdíj-előlegének mértéke a tárgyévet megelőző évre az adott termék- vagy anyagáramra vonatkozóan bevallott termékdíj összegének kilencvenöt százaléka, amelyben figyelembe kell venni az erre az időszakra vonatkozóan elfogadott önellenőrzés, pótlólag benyújtott bevallás alapján befizetett vagy visszafizetett összeget is.
 
 (5) A kötelezett az (1) bekezdésben meghatározott termékdíj-előlegre vonatkozó bevallási kötelezettségének a harmadik negyedévre vonatkozó bevallás benyújtásával együtt tesz eleget.
 
@@ -475,7 +475,7 @@ az 5. § (1) bekezdésében meghatározott időpontban száll át az átvállal�
   - aa) első belföldi vevője, vagy
   - ab) a d) pont szerinti értékesítés belföldi vevője,
 
-ha az átvállalt kötelezettséggel megvásárolt termékdíjköteles termék legalább 60%-át külföldre értékesíti,
+ha az átvállalt kötelezettséggel megvásárolt termékdíjköteles termék legalább hatvan százalékát külföldre értékesíti,
 
 - b) a bérgyártó,
 - c) a 1234/2007/EK rendelet szerinti mezőgazdasági termelői szerveződésen keresztül forgalomba hozott termékdíjköteles termék esetén a termelői szerveződés,
@@ -496,7 +496,7 @@ ha az átvállalt kötelezettséggel megvásárolt termékdíjköteles termék l
 
 (7) Szerződés alapján legfeljebb 3 év időtartamra vállalható át a kötelezettség.
 
-(8) Az (5) bekezdés a) pontja szerint tárgynegyedévben átvállalt termékdíjköteles termék mennyisége 60%-ának külföldre értékesítését az átvállalás tárgynegyedévének utolsó napjától, legfeljebb 365 napon belül kell igazoltan külföldre kiszállítani, ellenkező esetben a 366. napon a termékdíj-kötelezettség – az átvállalás napján hatályos szabályok szerint – beáll az átvállalónál, a ki nem szállított mennyiség tekintetében. A kiszállítás mértékének elmaradása esetén az állami adóhatóság mulasztási bírságot szabhat ki.
+(8) Az (5) bekezdés a) pontja szerint tárgynegyedévben átvállalt termékdíjköteles termék mennyisége hatvan százalékának külföldre értékesítését az átvállalás tárgynegyedévének utolsó napjától, legfeljebb 365 napon belül kell igazoltan külföldre kiszállítani, ellenkező esetben a 366. napon a termékdíj-kötelezettség – az átvállalás napján hatályos szabályok szerint – beáll az átvállalónál, a ki nem szállított mennyiség tekintetében. A kiszállítás mértékének elmaradása esetén az állami adóhatóság mulasztási bírságot szabhat ki.
 
 14/A. § Az átvállalási szerződés hatályosságához, ideértve annak módosítását is, a szerződésnek az állami adó- és vámhatóság részéről történő nyilvántartásba vétele szükséges. Az átvállalónak a nyilvántartásba vételre, módosításra vagy a nyilvántartásból történő törlésre vonatkozó kérelmet, vagy a jogutódlás tényét a szerződés vagy a szerződésmódosítás, továbbá a szerződés megszűnésére vonatkozó dokumentum keltétől számított 15 napon belül kell elektronikus úton megküldenie az állami adó- és vámhatóságnak. A szerződés nyilvántartásba vételéről szóló kérelemhez a szerződést nem kell csatolni. A szerződés az állami adó- és vámhatóság nyilvántartásba vételének napjától, vagy ha a felek a szerződésben későbbi időpontban állapodnak meg, a szerződésben megjelölt időponttól hatályos. Az állami adó- és vámhatóság a nyilvántartásba vételről mindkét szerződő felet értesíti.
 
@@ -538,9 +538,9 @@ kötelezett termékdíjátalány fizetésére jogosult.
 
 16. § (1) Az egyéni hulladékkezelést teljesítő és a 19. § szerinti szervezet – e törvény végrehajtására kiadott jogszabályban meghatározott feltételek szerinti – hulladékkezelési teljesítményének meghatározása során – a hasznosításának helyétől függetlenül – kizárólag azt a Magyarország területén gyűjtött hulladékot veheti figyelembe, amelynek hasznosításra történő átvételét az átvevő hasznosító a tárgyévben folyamatosan, a teljesítéssel egyidejűleg kiállított és átadott átvételi elismervénnyel igazol és a tényleges hulladékhasznosítás megtörténtét a tárgyévet követő év március 31-ig a kötelezett számára leigazol. Amennyiben az egyéni hulladékkezelést teljesítő saját maga hasznosít, az erre vonatkozó adatokat a saját nyilvántartása tartalmazza.
 
-(2) Az anyagában történő hasznosítás mértéke termék- és anyagáramonként legalább 55%-ot el kell érjen.
+(2) Az anyagában történő hasznosítás mértéke termék- és anyagáramonként legalább ötvenöt százalékot el kell érjen.
 
-(3) Termék- és anyagáramonként az energetikai hasznosítás legfeljebb 45%-os arányban vehető figyelembe.
+(3) Termék- és anyagáramonként az energetikai hasznosítás legfeljebb negyvenöt százalékos arányban vehető figyelembe.
 
 #### 14/A. Az egyéni hulladékkezelés
 
@@ -595,7 +595,7 @@ elsőként belföldi forgalomba hozott, saját célra felhasznált vagy készlet
 - f) támogatja a termékdíjköteles termékekkel kapcsolatos hulladékgazdálkodás fejlesztését;
 - g) közreműködik a lakosság környezettudatos nevelésével kapcsolatos teendők ellátásában.
 
-(2) Az állami hulladékgazdálkodást közvetítő szervezet az (1) bekezdés g) pontjának teljesítése érdekében a 37. § (1) bekezdése alapján befolyt összeg szerinti hulladékgazdálkodási feladatok támogatásának legalább 7%-át a lakosság környezettudatos nevelésére fordítja.
+(2) Az állami hulladékgazdálkodást közvetítő szervezet az (1) bekezdés g) pontjának teljesítése érdekében a 37. § (1) bekezdése alapján befolyt összeg szerinti hulladékgazdálkodási feladatok támogatásának legalább hét százalékát a lakosság környezettudatos nevelésére fordítja.
 
 (3) Az állami hulladékgazdálkodást közvetítő szervezet az (1) bekezdés d) pontjában foglalt ellenőrzése során, az ellenőrzés alá vont az ellenőrzés tűrésére, illetve az ellenőrzést végzőkkel való együttműködésre, az ellenőrzés eredményes végrehajtásának segítésére köteles.
 
@@ -720,8 +720,8 @@ esetében.
 27. § (1) Összetett vagy társított csomagolószer esetén a fizetendő termékdíj megállapítására,
 
 - a) ha az fizikai módon összetevőire szétválasztható, az egyes összetevőkre vonatkozó termékdíjtételt,
-- b) ha az fizikai módon összetevőire szét nem választható és legalább 90%-ban egynemű anyagból áll, a csomagolószer teljes tömegére a fő összetevőre vonatkozó termékdíjtételt,
-- c) ha az fizikai módon összetevőire szét nem választható és nincs olyan összetevő, amely a csomagolószer tömegének 90%-át eléri, a társított anyagokra vonatkozó termékdíjtételt kell alkalmazni.
+- b) ha az fizikai módon összetevőire szét nem választható és legalább kilencven százalékban egynemű anyagból áll, a csomagolószer teljes tömegére a fő összetevőre vonatkozó termékdíjtételt,
+- c) ha az fizikai módon összetevőire szét nem választható és nincs olyan összetevő, amely a csomagolószer tömegének kilencven százalékát eléri, a társított anyagokra vonatkozó termékdíjtételt kell alkalmazni.
 
 (2) A környezetvédelmi hatóság a kötelezett, vagy a csomagolószer felhasználójának kérelmére akkor veszi fel a csomagolószert az újrahasználható csomagolószerek nyilvántartásába, ha az megfelel az újrahasználható csomagolószerre vonatkozóan a 2. § 31. pontban meghatározott feltételeknek.
 
@@ -875,7 +875,7 @@ esetén.
 
 (2) A termékdíjbírság mértéke
 
-- a) az (1) bekezdés a) pontja esetében a hiány 100%-a;
+- a) az (1) bekezdés a) pontja esetében a hiány száz százaléka;
 - b) az (1) bekezdés b) pontja esetén a visszaigényléssel vagy visszatérítéssel érintett összeg háromszorosa;
 - c) az (1) bekezdés c) pontja esetében az egyéni hulladékkezelést végző az általa bevallott hasznosítási mennyiség és a valóságos teljesítmény különbözetével, azaz a nem teljesített mennyiséggel, valamint az 2. mellékletben meghatározott díjtételek figyelembevételével kiszámított termékdíj-különbözet után megállapított hiány háromszorosa szerinti összeg.
 

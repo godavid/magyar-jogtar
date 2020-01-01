@@ -64,11 +64,11 @@ Az Országgyűlés a tőkepiac stabilitásának megőrzése és a befektetési s
 
 7. § (1) Az Alap irányítását a Tpt. szerinti Befektető-védelmi Alap (a továbbiakban: BEVA) igazgatósága (a továbbiakban: igazgatóság) végzi.
 
-(2) Az Alapot harmadik személyekkel szemben, bíróság és hatóság előtt az igazgatóság elnöke vagy a hitelintézetekről szóló törvény szerinti Országos Betétbiztosítási Alap Tpt. 212. § (6) bekezdése szerinti ügyvezető igazgató-helyettese önállóan képviseli.
+(2) Az Alapot harmadik személyekkel szemben, bíróság és hatóság előtt az igazgatóság elnöke vagy a BEVA ügyvezető igazgatója önállóan képviseli.
 
 (3) Az Alap székhelye megegyezik a BEVA székhelyével.
 
-(4) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat az Országos Betétbiztosítási Alap elkülönített munkaszervezete látja el az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettesének irányításával.
+(4) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat a BEVA munkaszervezete látja el a BEVA ügyvezető igazgatójának irányításával.
 
 (5) Az Alap gazdálkodását az Állami Számvevőszék ellenőrzi.
 
@@ -80,7 +80,7 @@ Az Országgyűlés a tőkepiac stabilitásának megőrzése és a befektetési s
 - d) dönt az Alap működéséhez szükséges kötvénykibocsátásról, kölcsön felvételéről,
 - e) meghatározza a BEVA tagok által teljesítendő éves befizetés összegét, és figyelemmel kíséri a befizetések szabályszerűségét,
 - f) elfogadja az Alap éves számviteli beszámolóját és az Alap tevékenységének befejezését megelőzően elfogadja a záró beszámolót,
-- g) dönt az Alap feladatainak végrehajtásával kapcsolatos intézkedésekről, valamint irányítja és ellenőrzi az e törvényben meghatározott feladatoknak az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese irányításával történő végrehajtását, valamint
+- g) dönt az Alap feladatainak végrehajtásával kapcsolatos intézkedésekről, valamint irányítja és ellenőrzi az e törvényben meghatározott feladatoknak a BEVA ügyvezető igazgatója irányításával történő végrehajtását, valamint
 - h) ellátja az e törvényben meghatározott egyéb feladatokat.
 
 9. § Az igazgatóság feladatainak ellátására vonatkozóan szabályzatot alkot és tesz közzé

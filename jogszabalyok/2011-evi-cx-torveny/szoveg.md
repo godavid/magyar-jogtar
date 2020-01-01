@@ -28,7 +28,7 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 6. § (1) A köztársasági elnök a megbízatása keletkezését követő harminc napon belül, majd azt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz.
 
-(2) A köztársasági elnök a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) a köztársasági elnök vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+(2) A köztársasági elnök a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő feleségének vagy férjének, gyermekeinek (a továbbiakban együtt: családtag) a köztársasági elnök vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
 (3) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a köztársasági elnök tisztségét nem gyakorolhatja, javadalmazásban nem részesül. A vagyonnyilatkozat-tétel elmulasztásának – egyben a köztársasági elnök átmeneti akadályoztatásának – tényét az Országgyűlés állapítja meg.
 
@@ -50,7 +50,7 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 #### 4. A köztársasági elnök tiszteletdíja
 
-8. § (1) A köztársasági elnök havi tiszteletdíja a köztisztviselői illetményalap harminckilencszerese.
+8. § (1) A köztársasági elnök havi tiszteletdíja a házelnököt az Országgyűlésről szóló 2012. évi XXXVI. törvény 120. §-a szerint megillető tiszteletdíj összegének 1,1-szerese.
 
 (2) A köztársasági elnök a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak, tiszteletdíja nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
@@ -62,13 +62,13 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 10. § (1) A köztársasági elnök elnöki rezidencia használatára jogosult, amelyet köteles igénybe venni.
 
-(2) A köztársasági elnök – személyi, illetve hivatali célra – két személygépkocsi használatára jogosult.
+(2) A köztársasági elnök – személyi, illetve hivatali célra – személygépkocsi használatára jogosult.
 
 (3) A köztársasági elnök jogosult rádiótelefon- és internethasználatra, valamint kormányzati célú hírközlő hálózat használatára.
 
 (4) A köztársasági elnök – a szolgáltatást nyújtó egészségügyi intézmény és a Hivatal megállapodása szerint – valamennyi egészségügyi ellátást térítésmentesen vehet igénybe.
 
-11. § (1) A köztársasági elnök hivatalos külföldi kiküldetése idején kíséretre, az állami vezetők tekintetében irányadó napidíjra és költségtérítésre, valamint – szükség esetén – különjáratú légiutazásra jogosult.
+11. § (1) A köztársasági elnök hivatalos külföldi kiküldetése idején kíséretre, a politikai és szakmai felsővezetők tekintetében irányadó napidíjra és költségtérítésre, valamint – szükség esetén – különjáratú légiutazásra jogosult.
 
 (2) Ha a külföldre utazás menetrendszerű repülőgéppel, illetve vonattal történik, a köztársasági elnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe.
 
@@ -76,17 +76,37 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (4) A köztársasági elnök külföldre utazás és külföldről történő hazautazás esetén, illetve hivatalos külföldi küldöttség fogadása, kísérése céljából jogosult a repülőtéri kormányváró helyiségek használatára.
 
-12. § A köztársasági elnök, valamint a vele együtt üdülő házastársa, élettársa, gyermeke, szülője, unokája és gyermekének házastársa – térítési díj ellenében – jogosult a Kormány központi üdülőjének használatára. A térítési díj a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját foglalja magában.
+12. § A köztársasági elnök, valamint a vele együtt üdülő felesége vagy férje, gyermeke, szülője, unokája és gyermekének felesége vagy férje – térítési díj ellenében – jogosult a Kormány központi üdülőjének használatára. A térítési díj a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját foglalja magában.
 
-13. § (1) A köztársasági elnök halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a köztársasági elnök hathavi tiszteletdíjának megfelelő összegű juttatás illeti meg.
+12/A. § (1) Ha a köztársasági elnök felesége vagy férje közéletben való részvétele indokolja, kérelmére őt legfeljebb kétfős titkárság alkalmazása illeti meg. A titkárság elhelyezésére szolgáló helyiség biztosításának költségeit, valamint a titkárság egyéb dologi és személyi feltételeit a Hivatal biztosítja.
+
+(2) A köztársasági elnök feleségére vagy férjére, ha a köztársasági elnöki tisztséghez kapcsolódó közfeladattal összefüggő hivatalos programon való részvétel céljából külföldre utazik, a 11. §-t azzal az eltéréssel kell alkalmazni, hogy a köztársasági elnök felesége vagy férje különjáratú légiutazásra csak abban az esetben jogosult, ha a köztársasági elnökkel együtt utazik.
+
+(3) A köztársasági elnök felesége vagy férje – személyi és hivatali célra – személygépkocsi használatára jogosult.
+
+13. § (1) A köztársasági elnök halála esetén feleségét vagy férjét (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a köztársasági elnök hathavi tiszteletdíjának megfelelő összegű juttatás illeti meg.
 
 (2) A köztársasági elnök halála esetén a rá tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából a mindenkori köztársasági elnöki tiszteletdíj havi összegét kell a köztársasági elnök öregségi nyugdíjaként figyelembe venni.
 
-14. § (1) A köztársasági elnök a részére járó juttatások igénybevételéhez szükséges adatokat, valamint az adatok megváltozását haladéktalanul közli az érintett szervvel.
+13/A. § (1) A köztársasági elnök özvegye az ideiglenes özvegyi nyugdíj megszűnésének időpontjától kezdődően özvegyi ellátásra jogosult, ha részére az ideiglenes özvegyi nyugdíj megszűnését követően özvegyi nyugdíjat nem állapítanak meg.
 
-(2) A köztársasági elnök a jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított 15 napon belül visszafizeti.
+(2) Az özvegyi ellátás havi összege a 13. § (2) bekezdése szerinti tiszteletdíj havi összegének
 
-(3) A köztársasági elnököt megillető juttatások igénybevételével kapcsolatban felmerült költségeket – törvény eltérő rendelkezése hiányában – a központi költségvetés Köztársasági Elnökség fejezete fedezi.
+- a) hatvan százaléka, ha az özvegy a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 50. § (2) bekezdés a) pontjában meghatározott saját jogú ellátásban nem részesül,
+- b) harminc százaléka, ha az özvegy a Tny. 50. § (2) bekezdés a) pontjában meghatározott saját jogú ellátásban részesül.
+
+(3) Az özvegyi ellátást meg kell szüntetni, ha
+
+- a) az özvegynek özvegyi nyugdíjat állapítanak meg, vagy
+- b) az özvegy házasságot köt.
+
+(4) Az özvegyi ellátást a nyugdíjfolyósító szerv kérelemre állapítja meg. Az özvegyi ellátás nem minősül nyugellátásnak. Az özvegyi ellátásra az e törvényben nem szabályozott kérdésekben – ha törvény vagy kormányrendelet másként nem rendelkezik – az özvegyi nyugdíjra vonatkozó szabályokat kell alkalmazni azzal, hogy ahol az özvegyi nyugdíjra vonatkozó szabály nyugellátást vagy nyugdíjat említ, azon özvegyi ellátást kell érteni.
+
+14. § (1) A köztársasági elnök és a köztársasági elnök 12/A. § szerinti hozzátartozója a részére járó juttatások igénybevételéhez szükséges adatokat, valamint az adatok megváltozását haladéktalanul közli az érintett szervvel.
+
+(2) A köztársasági elnök és a köztársasági elnök 12/A. § szerinti hozzátartozója a jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított 15 napon belül visszafizeti.
+
+(3) A köztársasági elnököt és a köztársasági elnök 12/A. § szerinti hozzátartozóját megillető juttatások igénybevételével kapcsolatban felmerült költségeket – törvény eltérő rendelkezése hiányában – a központi költségvetés Köztársasági Elnökség fejezete fedezi.
 
 14/A. § (1) A köztársasági elnök közcélú felajánlások, adományozások céljából – a központi költségvetésről szóló törvényben a Köztársasági Elnökség fejezeten belül, külön soron tervezett – előirányzat feletti rendelkezésre jogosult.
 
@@ -106,7 +126,7 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (3) A Hivatal működési költségeit a központi költségvetés Köztársasági Elnökség fejezete biztosítja.
 
-16. § (1) A köztársasági elnök a tevékenységéhez közvetlenül kapcsolódó feladatok ellátására elnöki főtanácsadói, elnöki tanácsadói munkakört létesíthet. Az elnöki főtanácsadóra, elnöki tanácsadóra a köztisztviselők jogállásáról szóló törvény politikai főtanácsadóra, politikai tanácsadóra irányadó rendelkezéseit kell alkalmazni a (2) bekezdésben foglalt eltérésekkel.
+16. § (1) A köztársasági elnök a tevékenységéhez közvetlenül kapcsolódó feladatok ellátására elnöki főtanácsadói, elnöki tanácsadói munkakört létesíthet. Az elnöki főtanácsadóra, elnöki tanácsadóra a kormányzati igazgatásról szóló törvény politikai főtanácsadóra, politikai tanácsadóra irányadó rendelkezéseit kell alkalmazni a (2) bekezdésben foglalt eltérésekkel.
 
 (2) Az elnöki főtanácsadó, elnöki tanácsadó kinevezése a köztársasági elnök megbízatásának idejére szól. Az elnöki főtanácsadó, elnöki tanácsadó felett a munkáltatói jogokat a köztársasági elnök gyakorolja.
 
@@ -122,20 +142,24 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (4) A volt köztársasági elnök halála esetén a volt köztársasági elnökre tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából az (1) bekezdés szerinti pénzbeli juttatást kell a volt köztársasági elnök öregségi nyugdíjaként figyelembe venni.
 
+(4a) A volt köztársasági elnök özvegyére a 13/A. §-ban foglaltakat azzal az eltéréssel kell alkalmazni, hogy az özvegyi ellátás összegét a 13. § (2) bekezdése szerinti tiszteletdíj havi összege helyett az e § (4) bekezdése szerinti pénzbeli juttatás alapján kell meghatározni.
+
 (5) Az (1) bekezdés szerinti juttatás folyósításával kapcsolatos feladatokat a Kormány által kijelölt nyugdíjbiztosítási igazgatási szerv az Országgyűlés Hivatala közreműködésével látja el.
 
 19. § (1) A volt köztársasági elnököt a 20. §-ban meghatározott feltételekkel
 
 - a) – kérelmére – megfelelő lakás használatának joga,
-- b) legfeljebb kétfős titkárság alkalmazása,
+- b) legfeljebb háromfős titkárság alkalmazása,
 - c) térítésmentes egészségügyi ellátás és
-- d) személyes gépkocsi-használat
+- d) személyes gépkocsihasználat
 
 illeti meg.
 
-(2) Az (1) bekezdésben foglalt juttatások a köztársasági elnök, illetve a volt köztársasági elnök halála esetén a 20. §-ban meghatározott feltételekkel azonos módon az özvegyét is – kérelmére – megilletik.
+(2) Az (1) bekezdésben foglalt juttatások a köztársasági elnök, illetve a volt köztársasági elnök halála esetén kérelmére a 20. §-ban meghatározott feltételekkel azonos módon az özvegyét is megilletik, azzal, hogy a köztársasági elnök, volt köztársasági elnök özvegye legfeljebb kétfős titkárság alkalmazására jogosult.
 
-(3) A volt köztársasági elnöknek az (1) bekezdésben és a 18. § (1) bekezdésében foglalt juttatásainak, valamint a köztársasági elnök és a volt köztársasági elnök özvegyének a (2) bekezdésben foglalt juttatásainak költségeit – a személyes gépkocsi-használat kivételével – az Országgyűlés Hivatala költségvetése terhére kell biztosítani a 20. §-ban foglaltak figyelembevételével.
+(3) A volt köztársasági elnöknek az (1) bekezdésben és a 18. § (1) bekezdésében foglalt juttatásainak, valamint a köztársasági elnök és a volt köztársasági elnök özvegyének a (2) bekezdésben foglalt juttatásainak, valamint az özvegyi ellátás költségeit – a személyes gépkocsi-használat kivételével – az Országgyűlés Hivatala költségvetése terhére kell biztosítani a 20. §-ban foglaltak figyelembevételével.
+
+(4) A volt köztársasági elnök munkáját segítő titkárság számára az Országgyűlés Hivatala kizárólag hivatalos célú használatra egy személygépkocsit biztosít. A személygépkocsi használatával összefüggésben felmerült költségeket az Országgyűlés Hivatala biztosítja.
 
 20. § (1) Ha a volt köztársasági elnököt más közjogi tisztséggel összefüggésben lakás használatának joga illeti meg, e jogot – választása szerint – csak egy lakásra vonatkozóan gyakorolhatja.
 
@@ -157,9 +181,11 @@ illeti meg.
 
 (5) Az Országgyűlés Hivatala a honlapján a köztársasági elnök (4) bekezdés szerinti kötelezettségvállalásától számított tizenöt napon belül közzéteszi az (1) bekezdés szerinti előirányzatból nyújtott közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét.
 
-22. § (1) A volt köztársasági elnökre a 14. § (1) és (2) bekezdésében foglaltakat alkalmazni kell.
+(6) A volt köztársasági elnök közéletben való szerepvállalásával összefüggő, külföldi hivatalos programon való részvételére vonatkozóan a 11. §-t – az állami vezetők tekintetében irányadó napidíjra vonatkozó rendelkezés és a különjáratú légiutazásra való jogosultság kivételével – alkalmazni kell, azzal, hogy e juttatások igénybevételével kapcsolatban felmerült költségeket az Országgyűlés Hivatala biztosítja.
 
-(2) A volt köztársasági elnököt nem illetik meg az ebben az alcímben meghatározott jogosultságok és juttatások, ha megbízatása az Alaptörvény 12. cikk (3) bekezdés e) vagy g) pontja alapján szűnt meg.
+22. § (1) A volt köztársasági elnökre, valamint a köztársasági elnök és a volt köztársasági elnök özvegyére a 14. § (1) és (2) bekezdésében foglaltakat alkalmazni kell.
+
+(2) A volt köztársasági elnököt, valamint a köztársasági elnök és a volt köztársasági elnök özvegyét nem illetik meg az ebben az alcímben meghatározott jogosultságok és juttatások, ha a köztársasági elnök megbízatása az Alaptörvény 12. cikk (3) bekezdés e) vagy g) pontja alapján szűnt meg.
 
 (3) A volt köztársasági elnök az ebben az alcímben meghatározott juttatásokra mindaddig nem jogosult, amíg a megbízatásának megszűnését követően az e törvény szerinti vagyonnyilatkozat-tételi kötelezettségének nem tesz eleget.
 
@@ -167,11 +193,7 @@ illeti meg.
 
 23. § Ez a törvény 2012. január 1-jén lép hatályba.
 
-24. § (1) E törvény 1., 2., 4., 5. és 7. alcíme az Alaptörvény 12. cikk (5) bekezdése alapján sarkalatosnak minősül.
-
-(2) E törvény 26. § (1) bekezdése az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
-
-(3) E törvény 26. § (2) bekezdése az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+24. § Az 1., a 2., a 4., az 5. és a 7. alcím, valamint a 26. § az Alaptörvény 12. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
 25. § (1) E törvény rendelkezéseit a hivatalban lévő köztársasági elnökre és az e törvény hatálybalépését megelőzően hivatalt betöltött volt köztársasági elnökre is alkalmazni kell.
 
@@ -185,4 +207,6 @@ illeti meg.
 
 (3) E törvény 29. §-a nem érinti a hatálybalépését megelőzően hivatalt betöltött volt miniszterelnöknek a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a Legfelsőbb Bíróság elnöke tiszteletdíjáról és juttatásairól szóló 2000. évi XXXIX. törvény 22. § (1) bekezdése szerinti juttatásra való jogosultságát, ha e törvény hatálybalépéséig az öregségi nyugdíjkorhatárt betöltötte, és a juttatást kérelmezte.
 
-26–29. §
+26. § E törvénynek a kormányzati igazgatásról szóló 2018. évi CXXV. törvény, valamint egyes törvényeknek a kormányzati igazgatásról szóló 2018. évi CXXV. törvénnyel kapcsolatos módosításáról szóló 2019. évi CIX. törvénnyel megállapított rendelkezéseit első alkalommal a 2020. január hónapra járó tiszteletdíj és egyéb juttatások tekintetében kell alkalmazni.
+
+27–29. §

@@ -117,13 +117,17 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 (10) Az (5) bekezdés szerinti fejezetbe sorolt beruházások kiadási előirányzatait az egyes beruházásokhoz kapcsolódó kötelezettségvállalások teljesítése érdekében – a (9) bekezdés szerinti átcsoportosítási lehetőség hiányában – a fejezetet irányító szerv javaslata alapján az államháztartásért felelős miniszter módosíthatja.
 
-(10a) Amennyiben a beruházás költségvetési fedezetét a Magyar Államkincstár által vezetett fizetési számlák közötti átutalás biztosítja, a Beruházási Ügynökség állam nevében végzett feladataihoz kapcsolódó előirányzatokat tartalmazó fejezetet irányító szerv a fejezet költségvetési bevételi előirányzata javára elszámolandó átutalás összegével ezen beruházás előkészítését vagy megvalósítását szolgáló kiadási előirányzatot módosíthatja az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
+(10a) Amennyiben a beruházás költségvetési fedezetét a Magyar Államkincstár által vezetett fizetési számlák közötti átutalás biztosítja, az (5) bekezdés szerinti fejezetet irányító szerv a fejezet költségvetési bevételi előirányzata javára elszámolandó átutalás összegével ezen beruházás előkészítését vagy megvalósítását szolgáló kiadási előirányzatot módosíthatja az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
 (11) A Beruházási Ügynökség az állam nevében végzett feladataiból eredő műveletek hatásainak elkülönített nyilvántartásban történő könyvvezetését és beszámolási kötelezettségét az államháztartás számviteléről szóló kormányrendelet előírásai szerint teljesíti.
 
-### IV. Fejezet
+### IV. Fejezet — A KÖZPONTI KÖLTSÉGVETÉSI TÁMOGATÁS FELHASZNÁLÁSÁVAL MEGVALÓSULÓ ÖNKORMÁNYZATI MAGASÉPÍTÉSI BERUHÁZÁSOK
 
-11. §
+11. § (1) Ha a helyi önkormányzat az e törvény végrehajtására kiadott rendeletben meghatározott értékhatárt meghaladó becsült értékű magasépítési beruházást központi költségvetési támogatás felhasználásával valósítja meg, a magasépítési beruházás megvalósítása során – Kormány eltérő döntése hiányában – a Beruházási Ügynökség a Kormány e törvény végrehajtására kiadott rendeletében meghatározott feladatokat kizárólagos joggal látja el, azzal, hogy a Beruházási Ügynökség ezen feladatokhoz közreműködőt vehet igénybe.
+
+(2) Ha az önkormányzati magasépítési beruházás – amelyhez az államháztartás központi alrendszere központi költségvetési támogatást biztosít – kivitelezési dokumentációjához készült költségvetése alapján haladja meg a kivitelezés becsült értéke az e törvény végrehajtására kiadott rendeletben meghatározott értékhatárt, a Beruházási Ügynökség a támogató és a helyi önkormányzat tájékoztatása alapján haladéktalanul intézkedik az (1) bekezdésben foglaltak érvényesülése érdekében.
+
+(3) A Beruházási Ügynökség a központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházás során az e törvény végrehajtására kiadott rendeletben meghatározott feladatait a beruházással érintett helyi önkormányzat nevében és javára látja el.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

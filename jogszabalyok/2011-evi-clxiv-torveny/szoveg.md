@@ -184,7 +184,7 @@ hívja össze.
 (2) Az (1) bekezdésben foglalt feltételeken túl az a személy nevezhető ki ügyésszé, aki a jogi szakvizsga letételét követően
 
 - a) alügyészként, bírósági titkárként, közjegyzőként, ügyvédként, jogtanácsosként, az OKRI-ban kutatóként, nyomozó hatóságnál nyomozóként legalább egy évig ténylegesen dolgozott,
-- b) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában meghatározott szervnél közigazgatási, illetve jogi szakvizsgához kötött álláshelyen, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 2. §-a szerinti szervnél, valamint a rendőrség, a büntetés-végrehajtás és a hivatásos katasztrófavédelmi szerv központi, területi és helyi szervénél közigazgatási, illetve jogi szakvizsgához kötött munkakörben legalább egy évig ténylegesen dolgozott,
+- b) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában meghatározott szervnél közigazgatási, illetve jogi szakvizsgához kötött álláshelyen, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 2. §-a szerinti szervnél, az Állami Számvevőszéknél, valamint a rendőrség, a büntetés-végrehajtás és a hivatásos katasztrófavédelmi szerv központi, területi és helyi szervénél közigazgatási, illetve jogi szakvizsgához kötött munkakörben legalább egy évig ténylegesen dolgozott,
 - c) ügyészként, alkotmánybíróként, bíróként működött,
 - d) nemzetközi szervezetnél, az Európai Unió valamely szervénél ítélkezett, az igazságszolgáltatással összefüggő tevékenységet legalább egy évig ténylegesen folytatott.
 
@@ -198,11 +198,11 @@ hívja össze.
   - ca) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
   - cb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
   - cc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
-  - cd) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
+  - cd) szándékos bűncselekmény miatt kiszabott elzárás, közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
   - ce) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
   - cf) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
   - cg) gondatlan bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított öt évig,
-  - ch) gondatlan bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított három évig,
+  - ch) gondatlan bűncselekmény miatt kiszabott elzárás, közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított három évig,
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 - f) aki büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádas eljárást – hatálya alatt áll,
@@ -339,10 +339,10 @@ véleményét a pályázóról.
 - b) felmentésével;
 - c) lemondásával;
 - d)
-- e) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
+- e) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá a kormányzati igazgatásról szóló törvény szerinti politikai felsővezetővé, közigazgatási államtitkárrá és helyettes államtitkárrá (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
 - f) összeférhetetlenségének megállapításával (47. §);
 - g) hivatalvesztése kimondásával;
-- h) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
+- h) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, elzárást, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 - i) halálával;
 - j) ha a 11. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn.
 
@@ -376,7 +376,7 @@ véleményét a pályázóról.
 - d) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 - e) összeférhetetlenségének megállapításával (47. §);
 - f) hivatalvesztése kimondásával;
-- g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
+- g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, elzárást, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 - h) halálával;
 - i) ha a 11. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn.
 
@@ -505,7 +505,7 @@ véleményét a pályázóról.
 - f) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával (48. §), továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 - g) összeférhetetlenségének megállapításával;
 - h) hivatalvesztés fegyelmi büntetést kiszabó jogerős fegyelmi határozattal;
-- i) a bíróságnak vele szemben szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
+- i) a bíróságnak vele szemben szabadságvesztést, elzárást, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 - j) a 17. § (5) bekezdésében szabályozott esetben;
 - k) a 31. § (4)–(5) bekezdésében szabályozott esetben;
 - l) halálával;
@@ -661,9 +661,9 @@ véleményét a pályázóról.
 
 #### 19. Igazolási kötelezettség
 
-49. § (1) Az ügyészségi szolgálati viszony fennállása alatt az ügyész a munkáltatói jogkör gyakorlójának írásban – a mulasztás jogkövetkezményeire való figyelmeztetéssel – közölt felhívására, tizenöt munkanapon belül igazolja, hogy vele szemben nem áll fenn a 11. § (4) bekezdés a)–b) pontjában, c) pont ca)–cc), cf)–cg) alpontjában, továbbá a c) pont cd) és ch) alpont első fordulatában, valamint d) pontjában meghatározott körülmény.
+49. § (1) Az ügyészségi szolgálati viszony fennállása alatt az ügyész a munkáltatói jogkör gyakorlójának írásban – a mulasztás jogkövetkezményeire való figyelmeztetéssel – közölt felhívására, tizenöt munkanapon belül igazolja, hogy vele szemben nem áll fenn a 11. § (4) bekezdés a)–b) pontjában, c) pont ca)–cc), cf)–cg) alpontjában, továbbá a c) pont cd) és ch) alpont első és második fordulatában, valamint d) pontjában meghatározott körülmény.
 
-(2) Ha az (1) bekezdésben meghatározott felhívásra az ügyész igazolja, hogy vele szemben a 11. § (4) bekezdés a)–b) pontjában, c) pont ca)–cc), cf)–cg) alpontjában, továbbá a c) pont cd) és ch) alpont első fordulatában, valamint d) pontjában meghatározott körülmény nem áll fenn, a munkáltató az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az ügyész részére megtéríti.
+(2) Ha az (1) bekezdésben meghatározott felhívásra az ügyész igazolja, hogy vele szemben a 11. § (4) bekezdés a)–b) pontjában, c) pont ca)–cc), cf)–cg) alpontjában, továbbá a c) pont cd) és ch) alpont első és második fordulatában, valamint d) pontjában meghatározott körülmény nem áll fenn, a munkáltató az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az ügyész részére megtéríti.
 
 (3) A munkáltatói jogkör gyakorlója a 11. § (4) bekezdés a)–f) pontjában meghatározott körülmény vizsgálata céljából kezeli
 
@@ -764,7 +764,7 @@ hatályos.
 
 (5) A kérelmet az (1) bekezdés szerinti fizetés nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatóval közölni. A kérelemben az ügyész köteles tájékoztatni a munkáltatót
 
-- a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve betöltésének időpontjáról, továbbá
+- a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke negyedik életéve, három vagy több gyermeket nevelő ügyész esetén a gyermeke hatodik életéve betöltésének időpontjáról, illetve
 - b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztásra vonatkozó javaslatáról.
 
 (6) A (3) bekezdés szerinti időponttól az ügyészségi szolgálati viszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a munkaidő mértékével összefügg.
@@ -772,7 +772,7 @@ hatályos.
 (7) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató az ügyészt
 
 - a) a kérelem szerinti időpontig, de
-- b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő ügyész esetén a gyermek ötéves koráig
+- b) legfeljebb a gyermek négyéves koráig, három vagy több gyermeket nevelő ügyész esetén a gyermek hatéves koráig
 
 köteles foglalkoztatni. Ezt követően az ügyész munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
 
@@ -834,21 +834,23 @@ jogosult.
 
 (3) Az alapilletmény és a pótlékok számításának alapjául szolgáló ügyészi illetményalapot (a továbbiakban: illetményalap) évenként a központi költségvetésről szóló törvény határozza meg úgy, hogy annak összege az előző évinél nem lehet alacsonyabb és mindenkor meg kell felelnie a bírói illetményalapnak.
 
-(4) A legfőbb ügyész a Kúria elnökével azonos illetményre és más javadalmazásra jogosult. A legfőbb ügyészt tényleges illetményétől függetlenül e törvény alapján is be kell sorolni.
+(4) A legfőbb ügyész a Kúria elnökével azonos illetményre és más javadalmazásra jogosult.
 
 #### 21. Az alapilletmény
 
-60. § Az ügyész alapilletményét az e törvény szerint számított szolgálati idő (a továbbiakban: szolgálati idő) alapján, az illetményalap és e törvény 1. mellékletében fizetési fokozatonként meghatározott szorzószámok szorzataként kell megállapítani. A besorolásánál számított alapilletmény havibér, amelynek fokozatait e törvény 1. melléklete tartalmazza.
+60. § (1) Az ügyész alapilletményét az e törvény szerint számított szolgálati idő (a továbbiakban: szolgálati idő) alapján, az illetményalap és e törvény 1. mellékletében fizetési fokozatonként meghatározott szorzószámok szorzataként kell megállapítani.
+
+(2) A besorolásánál számított alapilletmény havibér, amelynek fokozatait e törvény 1. melléklete tartalmazza.
 
 61. § (1) Az 1. fizetési fokozatba kell besorolni azt az ügyészt, aki a kinevezésekor szolgálati idővel még nem rendelkezik, vagy a kinevezésekor beszámított szolgálati idő a három évet nem haladja meg.
 
 (2) Az ügyész minden három év szolgálati idő megszerzése után eggyel magasabb fizetési fokozatba lép.
 
-(3) A legfőbb ügyészt és a legfőbb ügyész helyettest – szolgálati idejüktől függetlenül – a legmagasabb fizetési fokozatba kell besorolni.
+(3) A legfőbb ügyész helyettes a Kúria elnökhelyettesével azonos illetményre és más javadalmazásra jogosult.
 
 62. § (1) A szolgálati időt – a (2) bekezdésben foglalt eltéréssel – az ügyészi kinevezés napjától kell számítani.
 
-(2) Szolgálati időként kell figyelembe venni az ügyészként ügyészségi szolgálati viszonyban és a bírói szolgálati viszonyban töltött időt. Az ügyészi kinevezés előtt a jogi szakvizsgához kötött egyéb jogviszonyban vagy munkakörben, illetve tevékenységgel eltöltött idő a szolgálati időbe részben vagy egészben beszámítható.
+(2) Szolgálati időként kell figyelembe venni a kinevezés előtt ügyészként ügyészségi szolgálati viszonyban és bírói szolgálati viszonyban töltött időt, valamint jogszabály által jogi szakvizsgához kötött, továbbá jogszabály felhatalmazása alapján a munkáltatói jogkör gyakorlójának szabályzata által jogi szakvizsgához kötött egyéb jogviszonyban vagy tevékenységgel eltöltött időt.
 
 (3) A (2) bekezdésben foglalt rendelkezés alkalmazásakor a szolgálati időt úgy kell meghatározni, hogy a következő fizetési fokozatba sorolás az év első napjával történjék.
 
@@ -861,9 +863,9 @@ jogosult.
 64. § (1) Az ügyészt havonta beosztási pótlék illeti meg, amelynek összege az illetményalap
 
 - a) húsz százaléka a járási ügyészség ügyésze esetében,
-- b) harmincöt százaléka a főügyészség ügyésze esetében,
-- c) ötven százaléka a fellebbviteli főügyészség ügyésze esetében,
-- d) nyolcvan százaléka a Legfőbb Ügyészség ügyésze esetében.
+- b) negyven százaléka a főügyészség ügyésze esetében,
+- c) hetven százaléka a fellebbviteli főügyészség ügyésze esetében,
+- d) százhúsz százaléka a Legfőbb Ügyészség ügyésze esetében.
 
 (2) Kiváló, magasabb ügyészi beosztásra alkalmas, illetve kiválóan alkalmas minősítés esetén és az adott szintű ügyészségen, ügyészként eltöltött legalább hat év után – beszámítva a magasabb szintű ügyészségen ügyészként teljesített időt is –
 
@@ -884,9 +886,9 @@ cím jár.
 (4) A (2) bekezdés alapján adományozott vagy a (3) bekezdés alapján megállapított (a továbbiakban együtt: adományozott) címmel címpótlék jár havonta, amelynek összege az illetményalap
 
 - a) harminc százaléka a „Címzetes főügyészségi ügyész”,
-- b) negyvenöt százaléka a „Címzetes fellebbviteli főügyészségi ügyész”,
-- c) hatvan százaléka a „Címzetes legfőbb ügyészségi ügyész”,
-- d) kilencven százaléka a „Legfőbb ügyészségi tanácsos”
+- b) ötven százaléka a „Címzetes fellebbviteli főügyészségi ügyész”,
+- c) nyolcvan százaléka a „Címzetes legfőbb ügyészségi ügyész”,
+- d) százharminc százaléka a „Legfőbb ügyészségi tanácsos”
 
 cím esetén.
 
@@ -900,9 +902,9 @@ cím esetén.
 
 (2) A vezetői pótlékot – a 2. mellékletben meghatározottak szerint – az illetményalap százalékában kell megállapítani.
 
-(3) A vezetői pótlékra való jogosultság szempontjából az a nagyobb főügyészség, ahol december 31-én a helyettesítésre kinevezettek kivételével az ügyészségi alkalmazottak alárendelt járási ügyészségekkel együtt számított, a munkaügyi statisztikában meghatározott munkajogi állományi létszáma a részmunkaidő teljes munkaidőre átszámításával (a továbbiakban: foglalkoztatottak létszáma) a százhetven főt meghaladja.
+(3)
 
-(4) A vezetői pótlékra való jogosultság szempontjából kiemelt járási ügyészségnek minősül az a járási ügyészség, ahol december 31-én a foglalkoztatottak létszáma a harmincöt főt meghaladja, nagyobb járási ügyészségnek minősül az a járási ügyészség, ahol december 31-én a foglalkoztatottak létszáma a nyolc főt meghaladja.
+(4) A vezetői pótlékra való jogosultság szempontjából kiemelt járási ügyészségnek minősül az a járási ügyészség, ahol december 31-én a helyettesítésre kinevezettek kivételével az ügyészségi alkalmazottak munkaügyi statisztikában meghatározott munkajogi állományi létszáma a részmunkaidő teljes munkaidőre átszámításával (a továbbiakban: foglalkoztatottak létszáma) a harmincöt főt meghaladja, nagyobb járási ügyészségnek minősül az a járási ügyészség, ahol december 31-én a foglalkoztatottak létszáma a nyolc főt meghaladja.
 
 (5) A vezetői pótlék csak egy jogcímen, a magasabb vezetői tisztség után jár.
 
@@ -1046,12 +1048,14 @@ A fenti adatokban bekövetkezett változásokról az ügyész haladéktalanul k�
 
 77. § (1) A minisztériumba beosztott ügyészre az 57–76. §-okban foglalt rendelkezéseket a (2)–(4) bekezdések szerinti eltéréssel kell alkalmazni.
 
-(2) Az ügyész a beosztási pótlékára a korábbi beosztásának megfelelően jogosult. Ha az ügyész korábban járási ügyészségen működött, részére a főügyészségi ügyészre vonatkozó mértékű beosztási pótlékot kell megállapítani, és a minisztériumba beosztott ügyészként eltöltött szolgálati idő tartamát főügyészségen eltöltött időnek kell tekinteni. A minisztériumba beosztott ügyész a beosztási pótlékon felül az ügyészi illetményalap összegének 10 százalékára jogosult.
+(2) Az ügyész a beosztási pótlékára a korábbi beosztásának megfelelően jogosult. Ha az ügyész korábban járási ügyészségen működött, részére a főügyészségi ügyészre vonatkozó mértékű beosztási pótlékot kell megállapítani, és a minisztériumba beosztott ügyészként eltöltött szolgálati idő tartamát főügyészségen eltöltött időnek kell tekinteni. A minisztériumba beosztott ügyész a beosztási pótlékon felül az ügyészi illetményalap összegének 30 százalékára jogosult.
 
-(3) Az igazságügyért felelős miniszter által vezetett minisztériumban főosztályvezetői, főosztályvezető-helyettesi, illetve osztályvezetői munkakört ellátó ügyész vezetői pótlékra a következők szerint jogosult:
+(3) Az igazságügyért felelős miniszter által vezetett minisztériumban szakmai vezetői álláshelyen foglalkoztatott ügyész vezetői pótlékra a következők szerint jogosult:
 
-- a) a főosztályvezető és a főosztályvezető-helyettes vezetői pótléka a főügyészre, illetve a főügyészhelyettesre,
-- b) osztályvezető vezetői pótléka a nagyobb járási ügyészséget vezető ügyészre irányadó összeggel azonos.
+- a) a főosztályvezető vezetői pótléka a legfőbb ügyészségi osztályvezető ügyészre,
+- b) az osztályvezető vezetői pótléka a nagyobb járási ügyészséget vezető ügyészre
+
+irányadó összeggel azonos.
 
 (4) Az ügyész soron kívüli előresorolására és részére cím adományozására – a minisztériumba beosztott ügyész esetén az igazságügyért felelős miniszter javaslatára – a legfőbb ügyész jogosult.
 
@@ -2070,6 +2074,10 @@ kerülhet sor.
 
 165/Q. § E törvénynek a Módtv.-vel megállapított rendelkezései nem érintik az alügyész, az ügyészségi fogalmazó, a tisztviselő, az írnok és a fizikai alkalmazott 2017. évi cafeteria-juttatásra való jogosultságát. A Módtv. hatálybalépését követően létesített alügyészi, ügyészségi fogalmazói, tisztviselői, írnoki és fizikai alkalmazotti szolgálati jogviszonyban az e törvény 2017. augusztus 31. napján hatályos rendelkezései szerinti cafeteria-juttatás éves összegének arányos része jár.
 
+165/R. § Az ügyészek szolgálati idejének kezdő időpontját az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel módosított 62. § (2) bekezdés alapján, a 2020. január 1-jén ügyészségi szolgálati viszonyban álló ügyész 2020. március 1-jéig a munkáltatói jogkör gyakorlójához benyújtott – megfelelően igazolt – kérelmére 2020. június 30-ig újból meg kell állapítani. A szolgálati idő kezdő időpontjának új megállapítása alapján járó illetményre az ügyész 2020. január 1-jétől kezdődően, visszamenőleg jogosult.
+
+165/S. § Az ügyész számára az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény alapján megállapított illetmény változatlan beosztás esetén nem lehet kevesebb, mint az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
 166. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelve,
@@ -2083,46 +2091,45 @@ kerülhet sor.
 
 #### Az ügyész alapilletmény táblázata
 
-Az illetményalap = 1
-
-| Fizetési fokozatok | Szorzószámok |
+| Az illetményalap = 1 |  |
 | --- | --- |
-| 1. | 1,00 |
-| 2. | 1,10 |
-| 3. | 1,20 |
-| 4. | 1,25 |
-| 5. | 1,30 |
-| 6. | 1,35 |
-| 7. | 1,40 |
-| 8. | 1,45 |
-| 9. | 1,50 |
-| 10. | 1,55 |
-| 11. | 1,60 |
-| 12. | 1,65 |
-| 13. | 1,70 |
-| 14. | 1,75 |
+| Fizetési fokozatok | Szorzószámok |
+| 1. | 1,25 |
+| 2. | 1,35 |
+| 3. | 1,45 |
+| 4. | 1,55 |
+| 5. | 1,65 |
+| 6. | 1,70 |
+| 7. | 1,75 |
+| 8. | 1,80 |
+| 9. | 1,85 |
+| 10. | 1,90 |
+| 11. | 1,95 |
+| 12. | 2,00 |
+| 13. | 2,05 |
+| 14. | 2,10 |
 
 ### 2. melléklet a 2011. évi CLXIV. törvényhez
 
-Az ügyész vezetői pótléka
+#### Az ügyész vezetői pótléka
 
 A vezetői pótlék az illetményalap százalékában
 
 A vezetői munkakörök %
 
-| 1. | A legfőbb ügyész | 400 |
+| 1. | A főosztályvezető ügyész A fővárosi főügyész Országos illetékességű főügyészség főügyésze | 200 |
 | --- | --- | --- |
-| 2. | A legfőbb ügyész helyettes | 300 |
-| 3. | A főosztályvezető ügyész A fővárosi főügyész Országos illetékességű főügyészség főügyésze | 200 |
-| 4. | A főosztályvezető-helyettes ügyész A fellebbviteli főügyész A nagyobb főügyészségi főügyész | 150 |
-| 5. | A legfőbb ügyészségi főosztályi szervezetbe nem tartozó osztályvezető ügyész A fellebbviteli főügyészhelyettes A főügyész | 120 |
-| 6. | A legfőbb ügyészségi osztályvezető ügyész A fellebbviteli főügyészségi osztályvezető ügyész A nagyobb főügyészségi főügyészhelyettes Országos illetékességű főügyészség főügyészhelyettese | 110 |
-| 7. | A legfőbb ügyészségi főosztályi szervezetbe nem tartozó osztályvezető helyettes ügyész A főügyészhelyettes | 100 |
-| 8. | A legfőbb ügyészségi csoportvezető ügyész A nagyobb főügyészségi osztályvezető ügyész Országos illetékességű főügyészség osztályvezető ügyésze A kiemelt járási ügyészségi vezető ügyész | 80 |
-| 9. | A kiemelt járási ügyészségi vezetőhelyettes ügyész A nagyobb járási ügyészségi vezető ügyész | 60 |
-| 10. | A főügyészségi osztályvezető ügyész A nagyobb járási ügyészségi vezetőhelyettes ügyész A kisebb járási ügyészségi vezető ügyész | 50 |
-| 11. | A főügyészségi csoportvezető ügyész A kiemelt és a nagyobb járási ügyészségi csoportvezető ügyész | 40 |
-| 12. | A kisebb járási ügyészségi vezetőhelyettes ügyész | 30 |
+| 2. | A főosztályvezető-helyettes ügyész | 150 |
+| 3. | A legfőbb ügyészségi főosztályi szervezetbe nem tartozó osztályvezető ügyész A fellebbviteli főügyész A főügyész | 120 |
+| 4. | A legfőbb ügyészségi osztályvezető ügyész A fellebbviteli főügyészhelyettes A fővárosi főügyészhelyettes Országos illetékességű főügyészség főügyészhelyettese | 100 |
+| 5. | A fellebbviteli főügyészségi osztályvezető ügyész | 80 |
+| 6. | A főügyészhelyettes | 70 |
+| 7. | A legfőbb ügyészségi főosztályi szervezetbe nem tartozó osztályvezető helyettes ügyész A Fővárosi Főügyészség osztályvezető ügyésze Országos illetékességű főügyészség osztályvezető ügyésze A kiemelt és nagyobb járási ügyészségi vezető ügyész | 60 |
+| 8. | A legfőbb ügyészségi csoportvezető ügyész | 50 |
+| 9. | A főügyészségi osztályvezető ügyész | 45 |
+| 10. | A főügyészségi csoportvezető ügyész A kiemelt és nagyobb járási ügyészségi vezetőhelyettes ügyész A kisebb járási ügyészségi vezető ügyész | 40 |
+| 11. | A kiemelt és a nagyobb járási ügyészségi csoportvezető ügyész | 30 |
+| 12. | A kisebb járási ügyészségi vezetőhelyettes ügyész | 25 |
 
 ### 3. melléklet a 2011. évi CLXIV. törvényhez
 

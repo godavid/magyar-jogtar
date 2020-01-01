@@ -51,7 +51,7 @@ lép.
 
 23–24. §
 
-25. §
+25. § Hatályát veszti az Áfa tv. 3. számú melléklet I. részében foglalt táblázat 50. és 51. sora.
 
 #### 7. A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény módosítása
 

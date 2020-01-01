@@ -116,17 +116,24 @@ az érdekelt vámszervek kötelesek egymás között azonnal, de legfeljebb 3 mu
 
 (1) A kérelemre induló eljárásban vélelmezni kell, hogy a kérelmező ügyfél a tényállás tisztázásához szükséges személyes adatok – ideértve a különleges adatokat is – kezeléséhez hozzájárult.
 
-(2) A vámhatóság gondoskodik arról, hogy a törvény által védett titok (a továbbiakban: védett adat) ne kerüljön nyilvánosságra, ne juthasson illetéktelen személy tudomására, és a személyes adatok védelme biztosított legyen.
+(2) A vámhatóság gondoskodik arról, hogy a törvény által védett titok és a törvény által védett egyéb adat (a továbbiakban együtt: védett adat) ne kerüljön nyilvánosságra, ne juthasson illetéktelen személy tudomására, és e védett adatok törvényben meghatározott védelme a vámhatóság eljárásában is biztosított legyen.
 
 (3) A vámhatóság az eljárása során annak lefolytatásához – jogszabályban meghatározott módon és körben – megismerheti azokat a védett adatokat, amelyek eljárásával összefüggnek, illetve amelyek kezelése az eljárás eredményes lefolytatása érdekében szükséges.
 
 #### 12. § [Adatok zárt kezelése]
 
-(1) Indokolt esetben a vámhatóság kérelemre vagy hivatalból elrendeli az ügyfél és az eljárás egyéb résztvevője természetes személyazonosító adatainak és lakcímének zárt kezelését, ha a vámigazgatási eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti. A végzést a kérelmet előterjesztővel kell közölni.
+(1) A vámhatóság kérelemre vagy hivatalból elrendeli az ügyfél, illetve az eljárás egyéb résztvevője természetes személyazonosító adatainak és lakcímének zárt kezelését, ha
+
+- a) őt a vámigazgatási eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti, vagy
+- b) ugyanazon tényállás alapján a jogerősen vagy véglegesen lezárt, vagy párhuzamosan zajló más bírósági vagy hatósági eljárásban az ügyfél vagy az eljárás egyéb résztvevője adatainak zárt kezelését rendelték el.
 
 (2) A szakértő az (1) bekezdésben foglaltak szerint az igazságügyi szakértői névjegyzék nyilvános adatain kívüli természetes személyazonosító adatai és lakcíme zárt kezelését kérheti.
 
-(3) A természetes személyazonosító adatokat és a lakcímet a vámhatóság az ügy iratai között elkülönítve, zártan kezeli és biztosítja, hogy a zártan kezelt adatok az eljárási cselekmények során ne váljanak megismerhetővé.
+(3) A vámhatóság
+
+- a) az adatok zárt kezeléséről szóló végzést kizárólag azzal közli, akinek adatai zárt kezelését elrendelte,
+- b) a természetes személyazonosító adatokat és a lakcímet az ügy iratai között elkülönítve, zártan kezeli és
+- c) biztosítja, hogy a zártan kezelt adatok az eljárási cselekmények során ne váljanak megismerhetővé.
 
 #### 13. § [Nyelvhasználat]
 
@@ -530,7 +537,7 @@ A vámhatóság és a gazdálkodók elektronikus rendszerében tárolt adatokat,
 
 #### 34. § [Vámjogi képviselet]
 
-(1) Más tagállamban letelepedett és a Vámkódex 39. cikk a)–d) pontjában megállapított feltételeknek megfelelő személy vámjogi képviselőként való, a Vámkódex 18. cikk (3) bekezdése szerinti eljárásához
+(1) Az Európai Unió más tagállamában letelepedett és a Vámkódex 39. cikk a)–d) pontjában megállapított feltételeknek megfelelő személy vámjogi képviselőként való, a Vámkódex 18. cikk (3) bekezdése szerinti eljárásához
 
 - a) érvényes engedélyezett gazdálkodói engedély, vagy a Vámkódex 39. cikk a)–d) pontjában megállapított feltételeknek való megfelelésről a letelepedés helye szerinti vámhatóság által kiadott igazolás bemutatása és
 - b) az állami adó- és vámhatóság által kiadott adószám, vagy a letelepedés helye szerinti tagállam által kiadott közösségi adószám
@@ -1378,7 +1385,7 @@ Ha a jogsértést vagy mulasztást a bizonylatok, könyvek, nyilvántartások me
 
 (2) A vámigazgatási bírság végrehajthatósága az arról szóló döntés véglegessé válásától számított 3 év elteltével évül el.
 
-(3) Nyugszik az elévülés a végrehajtási eljárás felfüggesztésének és szünetelésének, a bírság megfizetésére kötelezett vagyonának egészére elrendelt bűnügyi zárlatnak, továbbá törvényben biztosított fizetési kedvezménynek vagy feltételhez kötött adómentességnek az időtartama alatt. A jelzálogjog bejegyzése az elévülés nyugvása szempontjából a végrehajtási eljárás felfüggesztésével esik egy tekintet alá.
+(3) Nyugszik az elévülés a végrehajtási eljárás felfüggesztésének és szünetelésének, a bírság megfizetésére kötelezett vagyonára büntetőeljárásban elrendelt zár alá vételnek, továbbá törvényben biztosított fizetési kedvezménynek vagy feltételhez kötött adómentességnek az időtartama alatt. A jelzálogjog bejegyzése az elévülés nyugvása szempontjából a végrehajtási eljárás felfüggesztésével esik egy tekintet alá.
 
 #### 89. § [Vámigazgatási bírság gyorsított eljárás keretében]
 
@@ -2136,9 +2143,9 @@ A Vámkódex 92. cikk (1) bekezdése alapján a biztosítékot nyújtó személy
 - b) a kötelezettségvállalást kérő mint megbízó nevét, címét, pénzforgalmi számlaszámát, adószámát vagy adóazonosító jelét és EORI számát,
 - c) a megbízó által képviselt harmadik személy nevét, címét, adószámát vagy adóazonosító jelét és EORI számát,
 - d) a kötelezettségvállalás összegét – számmal és betűvel – és devizanemét,
-- e) a kötelezettségvállalás érvényességi idejére vonatkozó esetleges hivatkozást,
+- e) a kötelezettségvállalás kezdő időpontjára, illetve határozott idejű kötelezettségvállalás esetén annak kezdő és végső időpontja közötti időtartamra, azaz az érvényességi idejére vonatkozó esetleges hivatkozást,
 - f) a kötelezettségvállaló vállalását arra vonatkozóan, hogy a kedvezményezett első írásos felszólításának kézhezvételétől számított 30 napon belül az igénybejelentésben megjelölt, a Magyar Államkincstár által vezetett központosított beszedési számlára megfizeti a követelt összegeket,
-- g) a kötelezettségvállalás kezdő időpontjára vonatkozó hivatkozást,
+- g) a 155/A. § (5) bekezdés a) pontjában foglaltakkal összefüggésben a lejárati időpontra vonatkozó hivatkozást, abban az esetben, ha a kötelezettségvállalás csak Magyarország területére szól és tárgyi hatálya az árutovábbítási eljárásra nem terjed ki,
 - h) azt a rendelkezést, hogy a kötelezettségvállaló által az adott garanciavállaló nyilatkozat kapcsán teljesített kifizetések összegével a kötelezettségvállalás összege csökken,
 - i) a kedvezményezett vámhatóság megnevezését.
 
@@ -2218,7 +2225,7 @@ Az FJA 84. cikk (3) bekezdés k) és l) pontjában meghatározott feltételt tel
 
 amelyet követően a biztosíték felszabadítása felől haladéktalanul intézkedik.
 
-(6) Ha a vámhatóság azt állapítja meg, hogy behozatali vagy kiviteli vámok összegére és az egyéb terhekre nyújtott biztosíték alapjául szolgáló vámtartozás már megszűnt vagy az egyáltalán nem merült fel, és a vámhatósági nyilvántartás adatai szerint a továbbiakban már nem is merülhet fel, akkor az (2)–(5) bekezdéstől eltérően a biztosítékot felszabadítása felől haladéktalanul intézkedik.
+(6) Ha a vámhatóság azt állapítja meg, hogy behozatali vagy kiviteli vámok összegére és az egyéb terhekre nyújtott biztosíték alapjául szolgáló vámtartozás már megszűnt vagy az egyáltalán nem merült fel, és a vámhatósági nyilvántartás adatai szerint a továbbiakban már nem is merülhet fel, akkor a (2)–(5) bekezdéstől eltérően a biztosíték felszabadítása felől haladéktalanul intézkedik.
 
 (7) A (3) bekezdésben foglaltakat a Vámkódex 97. cikke és a VA 244. cikke értelmében megkövetelt kiegészítő biztosítékra is alkalmazni kell, ha azt egyedi biztosíték formájában nyújtják.
 
@@ -3009,7 +3016,8 @@ Felhatalmazást kap a Kormány, hogy
 - a) a Magyarország területén lévő vámhivatalok székhelyét és illetékességét,
 - b) a tranzitterület létesítését vámellenőrzési szempontból engedélyező vámszervet,
 - c) az EMGA felülellenőrzés végrehajtására kijelölt vámszervet,
-- d) a vámtanácsadói és vámügynöki nyilvántartásba történő felvétel és törlés végrehajtását, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, a nyilvántartásba vett személyek kötelező továbbképzésére, valamint a kreditpont minősítési eljárásra és az eljárásért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes szabályokat
+- d) a vámtanácsadói és vámügynöki nyilvántartásba történő felvétel és törlés végrehajtására, a nyilvántartás vezetésének szabályaira, a nyilvántartásba vett személyek kötelező továbbképzésére, valamint a kreditpont minősítési eljárásra vonatkozó részletes szabályokat,
+- e) a vámjogi szakértői hatósági képzés és hatósági vizsga részletszabályait, továbbá a vámjogi szakértői hatósági képzést lebonyolító képző szervek, és a hatósági vizsga lebonyolítására megbízással foglalkoztatható vizsgabiztosok nyilvántartásba-vételi eljárásának szabályait, valamint a hatósági vizsga és a vizsgabizottság díjának mértékére és megfizetésére vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 
@@ -3036,8 +3044,8 @@ rendeletben állapítsa meg.
 - 17. az export-visszatérítésre vonatkozó részletes szabályokat,
 - 18. az átmeneti megőrzési létesítmény üzemeltetője által küldendő garanciajelentésben szereplő adatok körét,
 - 19. a vámmentes vámeljárás végrehajtásának részletes szabályait,
-- 20.
-- 21. a vámjogi szakértői hatósági képzés és hatósági vizsga részletszabályait, továbbá a vámjogi szakértői hatósági képzést lebonyolító képző szervek, és a hatósági vizsga lebonyolítására megbízással foglalkoztatható vizsgabiztosok nyilvántartásba-vételi eljárásának szabályait, valamint a hatósági vizsga és a vizsgabizottság díjának mértékére és megfizetésére vonatkozó szabályokat
+- 20. a vámtanácsadói, illetve vámügynöki nyilvántartásba való felvételért, a vámtanácsadói, illetve vámügynöki igazolvány pótlásáért, a nyilvántartásban szereplő adatok módosításáért és a kérelemre történő nyilvántartásból való törlésért, valamint a kreditpont-minősítési eljárásért fizetendő igazgatási szolgáltatási díj mértékét,
+- 21.
 
 rendeletben állapítsa meg.
 

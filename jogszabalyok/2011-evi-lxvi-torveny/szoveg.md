@@ -152,7 +152,7 @@ jogszabályok előkészítésében.
 
 (3) Az elnök halála esetén a juttatás az özvegyet, ennek hiányában az örököst illeti meg. E juttatásból egészségbiztosítási és nyugdíjjárulékot fizetni nem kell. E juttatás a hozzátartozói nyugellátás megállapításakor a havi átlagkereset alapjául szolgáló keresetként nem vehető figyelembe.
 
-(4) Ha az elnök a megbízatásának megszűnését követően állami vezetői megbízatást kap, az e § szerinti juttatásra az új megbízatással összefüggő hivatalba lépése napjától nem jogosult, és a már felvett összeg időarányos részét vissza kell fizetnie.
+(4) Ha az elnök a megbízatásának megszűnését követően politikai vagy szakmai felsővezetői megbízatást kap, az e § szerinti juttatásra az új megbízatással összefüggő hivatalba lépése napjától nem jogosult, és a már felvett összeg időarányos részét vissza kell fizetnie.
 
 (5) Az elnök végkielégítésre, felmentési időre, jubileumi jutalomra nem jogosult.
 

@@ -63,7 +63,7 @@ látja el.
 
 ### Hatósági jogkör
 
-3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a 2018/1139/EU európai parlamenti és tanácsi rendeletben és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
+3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2018. július 4-i (EU) 2018/1139 tanácsi rendeletben (a továbbiakban: 2018/1139/EU európai parlamenti és tanácsi rendelet) és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
 
 (1a) Az e §-ban meghatározott eljárások tekintetében sommás eljárásnak nincs helye.
 
@@ -424,7 +424,7 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 (5) Ha az üzemben tartó az engedélyben és a jogszabályban előírt feltételeket súlyosan vagy tartósan megszegi, akkor az üzemben tartási engedélyt a kiadó hatóság felfüggeszti, vagy visszavonja.
 
-(6) A polgári légiközlekedés tekintetében az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának eljárásjogi szabályait, valamint az (1) bekezdés b) pontja tekintetében az üzemben tartás feltételeit a Kormány rendeletben állapítja meg.
+(6) A polgári légiközlekedés tekintetében az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának eljárásjogi szabályait, az üzembentartási engedély kötelező tartalmi elemeit, valamint az (1) bekezdés b) pontja tekintetében az üzemben tartás feltételeit a Kormány rendeletben állapítja meg.
 
 (7) A légiközlekedési hatóság a kiadott üzemben tartási engedélyekről nyilvántartást vezet, amely nyilvántartás tartalmazza:
 
@@ -434,7 +434,7 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 - d) az engedélyezett légijármű lajstromjelét, ha az üzemben tartás légiszállítás céljából történik,
 - e) annak a földrajzi területnek a megjelölését, ahol az üzemben tartás végezhető,
 - f) a repülés végrehajtásának kiegészítő feltételeit,
-- g) az üzemben tartási engedély érvényességi idejét.
+- g) az üzemben tartási engedély időbeli hatályát.
 
 (7a) Az üzemben tartási engedélyekről vezetett nyilvántartás a (7) bekezdésben meghatározott adatok vonatkozásában – a (7) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -543,7 +543,7 @@ elkövetésének alapos gyanúja miatt büntetőeljárás hatálya alatt áll,
 
 - a) nem felel meg a 23. § (1) bekezdésben meghatározott követelményeknek,
 - b) légiközlekedési hatóság a szakszolgálati engedélyét felfüggesztette vagy visszavonta, a visszavonástól számított egy évig,
-- c) az egyéni vállalkozói igazolványát visszavonták, a visszavonástól számított egy évig,
+- c) az egyéni vállalkozói tevékenység gyakorlásától eltiltották, a tiltásnak a nyilvántartásba történő bejegyzésétől számított egy évig,
 - d) vezető vagy tényleges irányító volt olyan vállalkozásnál, amelyet a cégbíróság hivatalból törölt, a jogerős törlést követő egy évig,
 - e) vezető vagy tényleges irányító volt olyan vállalkozásnál, amelynek tevékenységi engedélyét a légiközlekedési hatóság visszavonta, a visszavonástól számított egy évig,
 - f) vezető vagy tényleges irányító volt olyan vállalkozásnál, amelynek fizetésképtelenségét a bíróság jogerősen megállapította, és a vezető vagy tényleges irányító ezzel kapcsolatos felelősségét bíróság jogerősen megállapította, a jogerőre emelkedéstől számított egy évig.
@@ -721,6 +721,8 @@ kezelheti.
 (2) A légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság az (1) bekezdésben meghatározott tevékenység folytatásának szakszerűségét, a szakmai szabályok betartását bármikor ellenőrizheti.
 
 (3) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, komponens és légiközlekedéssel kapcsolatos eszköz gyártásának, folyamatos légialkalmasság-irányításának,, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait a miniszter rendeletben állapítja meg.
+
+(4) Az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, komponens és polgári légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának általános szabályait a Kormány rendeletben állapítja meg.
 
 ### A hajózó személyzetre és a légiutas-kísérőre vonatkozó külön rendelkezések
 
@@ -1036,7 +1038,7 @@ köteles elhelyezni és karbantartani.
 
 (8) A (6) bekezdésben foglaltaktól eltérően a Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat a Magyarország légiközlekedési terep és akadály adatbázisában szereplő, a feladatai ellátása érdekében szükséges adatokat, valamint a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának szabályairól szóló miniszteri rendelet alapján a részére szolgáltatandó adatokat díj- és költségmentesen kapja meg.
 
-(9) A Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat az adatbázis adatait kizárólag saját feladatai ellátásához használhatja, az adatbázist és tartalmát harmadik fél részére nem adhatja át, de feladatai körében az adatbázisból a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának a szabályairól szóló miniszteri rendeletben és a repülőtér akadálykorlátozási felületeinek kijelöléséről, a légiközlekedési akadályok jelölésének főbb szabályairól valamint Magyarország légiközlekedési terep és akadály adatbázisának létrehozásáról és fenntartásáról rendelkező kormányrendeletben, meghatározott tájékoztató kiadványokban adatok közlésére jogosult.
+(9) A Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat az adatbázis adatait kizárólag saját feladatai ellátásához használhatja, az adatbázist és tartalmát harmadik fél részére nem adhatja át, de feladatai körében az adatbázisból a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának a szabályairól szóló miniszteri rendeletben és a légiközlekedésről szóló törvény végrehajtásáról szóló kormányrendeletben meghatározott tájékoztató kiadványokban adatok közlésére jogosult.
 
 ### III. Fejezet — A légiközlekedés szabályai
 
@@ -1141,11 +1143,11 @@ köteles elhelyezni és karbantartani.
 
 (4) A légiforgalmi irányító szolgálat utasítása a légijármű parancsnoka számára kötelező, attól csak veszély elhárítása érdekében térhet el.
 
-(5) A nemzeti felügyeleti hatóság (a továbbiakban: felügyeleti hatóság) a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló, 2004. március 10-i 550/2004/EK európai parlamenti és tanácsi rendelet („léginavigációs-szolgálati rendelet”) 15. cikk (2) bekezdés b) pontjában foglaltaknak megfelelően a részéről felmerült költségeket jogosult érvényesíteni a magyar légtér igénybevételéért fizetendő díjban, az azzal összefüggő költségalap részeként. A költségek fedezésére megállapított összeg mértéke 2019. december 31-ig évi 500 millió forint, ezt követően a megállapított költségátalány mértéke megegyezik a mindenkori, a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerének létrehozásáról szóló, 2013. május 3-i 390/2013/EU bizottsági végrehajtási rendelet alapján elfogadott és a Bizottság által jóváhagyott teljesítménytervben meghatározott összeggel. A költségátalánnyal a légiforgalmi irányító szolgálat ellátására kijelölt szerv által ellátott valamennyi olyan tevékenységével kapcsolatos felügyeleti díj, amelynek a megfizetésére e szerv a 66/C. § (1) bekezdése alapján kötelezett, megfizetettnek tekintendő.
+(5) A nemzeti felügyeleti hatóság (a továbbiakban: felügyeleti hatóság) a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló, 2004. március 10-i 550/2004/EK európai parlamenti és tanácsi rendelet („léginavigációs-szolgálati rendelet”) 15. cikk (2) bekezdés b) pontjában foglaltaknak megfelelően a részéről felmerült költségeket jogosult érvényesíteni a magyar légtér igénybevételéért fizetendő díjban, az azzal összefüggő költségalap részeként. A költségek fedezésére megállapított összeg mértéke 2019. december 31-ig évi 500 millió forint, ezt követően a megállapított költségátalány mértéke megegyezik a mindenkori, az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendelet alapján elfogadott és a Bizottság által jóváhagyott teljesítménytervben meghatározott összeggel. A költségátalánnyal a légiforgalmi irányító szolgálat ellátására kijelölt szerv által ellátott valamennyi olyan tevékenységével kapcsolatos felügyeleti díj, amelynek a megfizetésére e szerv a 66/C. § (1) bekezdése alapján kötelezett, megfizetettnek tekintendő.
 
-(5a) A 61/A. § (3) bekezdés m) pontjában kijelölt költségalapkezelőnek (a továbbiakban: költségalapkezelő) az (5) bekezdésben meghatározott összeget negyedéves egyenlő részletekben, a negyedévet követő hónap tizenötödik napjáig kell forintban átutalnia a felügyeleti hatóság számlájára. A magyar légtér igénybevételéért fizetendő díjjal összefüggő költségalap megállapítása érdekében a felügyeleti hatóság köteles a felmerült költségekről a tárgyévet követő év február 15-ig kimutatatást készíteni és azt megküldeni a költségalap kezelője részére.
+(5a) A 61/A. § (3) bekezdés m) pontjában kijelölt költségalap-kezelőnek (a továbbiakban: költségalap-kezelő) az (5) bekezdésben meghatározott összeget negyedéves egyenlő részletekben, a negyedévet követő hónap tizenötödik napjáig kell forintban átutalni a felügyeleti hatóság számlájára. A magyar légtérhez kapcsolódó költségalap-elszámolás biztosítása érdekében a felügyeleti hatóság köteles a felmerült költségekről a tárgyévet követő év február 15-ig kimutatást készíteni és azt megküldeni a költségalap-kezelő részére.
 
-(5b) A tényleges költségek lényeges eltérése esetén a felügyeleti hatóság és a költségalapkezelő az elfogadott teljesítményterv alapján várhatóan rendelkezésre álló pénzügyi keretek figyelembevételével a tényleges költségek és a terv költségek közötti lényeges eltérés esetére vonatkozó elszámolási szabályokról szóló kormányrendeletben meghatározott módon elszámol.
+(5b) A tárgyévre fizetett összeg és a tárgyévben ténylegesen felmerült költségek közötti eltérés esetén a különbözetet a tárgyévet követő második év díjfizetése során kell a felügyeleti hatóságnak és a költségalap-kezelőnek rendezni azzal, hogy az adott évre az (5) bekezdés alapján meghatározott összeg mértékét a különbözet összegével módosítani kell.
 
 (6) Az (5) bekezdésben megállapított összeg a felügyeleti hatóságot illeti meg, amelyet csak a léginavigációs szolgálatokkal kapcsolatos feladatainak ellátásával összefüggésben használhatja fel.
 
@@ -1266,7 +1268,7 @@ továbbá Magyarország légterében a légiforgalmi navigációs, távközlési
 
 (3) A polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU rendelet (a továbbiakban: 376/2014/EU európai parlamenti és tanácsi rendelet) 4. cikk (2) bekezdésében és az 5. cikk (1) bekezdésében meghatározott kötelező és önkéntes jelentéstételi rendszer létrehozását, valamint a 6. cikk (1) bekezdésében meghatározott személyek kijelölését a repülésbiztonsági szervezeten belül kell végrehajtani.
 
-(3a) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű üzemben tartójának, az állami légijármű, és a pilóta nélküli állami légijármű üzemben tartójának és üzemeltetőjének, az állami repülések céljára szolgáló repülőtér üzemeltetőjének, az állami légiforgalmi szolgálatnak a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott események bejelentésére, elemzésére, nyomon követésére valamint a szükséges intézkedések meghozatalára a repülésbiztonsági szervezeten belül baleseti ügyeleti szolgálatot, továbbá a légiközlekedés biztonsága érdekében repülésbiztonsági szolgálatot kell fenntartani, vagy csatlakozni kell olyan szervezethez, amely a légiközlekedési hatóság, az állami légijármű, és a pilóta nélküli állami légijármű üzemben tartója és üzemeltetője, az állami repülések céljára szolgáló repülőtér üzemben tartója és üzemeltetője, és az állami légiforgalmi szolgálat esetén a katonai légügyi hatóság jóváhagyásával e szolgálatok feladatait átvállalja.
+(3a) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű üzemben tartójának, az állami légijármű, és a pilóta nélküli állami légijármű üzemben tartójának és üzemeltetőjének, az állami repülések céljára szolgáló repülőtér üzemeltetőjének, az állami légiforgalmi szolgálatnak a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott események bejelentésére, elemzésére, nyomon követésére valamint a szükséges intézkedések meghozatalára a repülésbiztonsági szervezeten belül baleseti készenléti szolgálatot, továbbá a légiközlekedés biztonsága érdekében repülésbiztonsági szolgálatot kell fenntartani, vagy csatlakozni kell olyan szervezethez, amely a légiközlekedési hatóság, az állami légijármű, és a pilóta nélküli állami légijármű üzemben tartója és üzemeltetője, az állami repülések céljára szolgáló repülőtér üzemben tartója és üzemeltetője, és az állami légiforgalmi szolgálat esetén a katonai légügyi hatóság jóváhagyásával e szolgálatok feladatait átvállalja.
 
 (4) A repülésbiztonsági szervezettel kapcsolatos részletes szabályokat a légiközlekedési balesetek, a repülőesemények szakmai vizsgálatának részletes szabályairól szóló, és a kizárólag állami légijárművel, pilóta nélküli állami légijárművel bekövetkezett légiközlekedési balesetek, repülőesemények szakmai vizsgálatának részletes szabályairól, valamint a kizárólag állami légijárművel, pilóta nélküli állami légijárművel összefüggő üzembentartói vizsgálat szabályairól szóló jogszabály határozza meg.
 
@@ -1401,7 +1403,7 @@ folytatja le.
 
 (8) A repülőtér légiközlekedés védelmének költségeit az állam, a repülőtér, valamint a légitársasági légijármű üzemben tartója – jogszabályban meghatározott módon és mértékben – közösen viselik. A költségek a repülőtér használóira és a légiutasokra átháríthatók.
 
-(9) A tárgyévet megelőző három év statisztikai adatai alapján számított átlag szerint az évente 250 000 utas feletti forgalmat bonyolító nemzetközi kereskedelmi repülőtér üzemben tartója a légiközlekedési hatóságnak felügyeleti díjat köteles fizetni. A felügyeleti díj éves mértéke – a forgalmi statisztika szerinti utasszám alapján – utasonként 50 forint – de maximum évi 500 millió forint – melyet negyedéves részletekben, az adott negyedév forgalmi, statisztikai adatai alapján a negyedévet követő hónap tizenötödik napjáig forintban kell a légiközlekedési hatóság számlájára átutalni. A maximumként megállapított díj összege 2012-től kezdődően a Központi Statisztikai Hivatal által közzétett hivatalos fogyasztói árindex mértékével évente automatikusan növekszik.
+(9) A tárgyévet megelőző három év statisztikai adatai alapján számított átlag szerint az évente 250 000 utas feletti forgalmat bonyolító nemzetközi kereskedelmi repülőtér üzemben tartója a légiközlekedési hatóságnak felügyeleti díjat köteles fizetni. A felügyeleti díj éves mértéke – a forgalmi statisztika szerinti utasszám alapján – az utasonként 150 forint – de maximum évi 1 milliárd 500 millió forint melyet negyedéves részletekben, az adott negyedév forgalmi, statisztikai adatai alapján a negyedévet követő hónap tizenötödik napjáig forintban kell a légiközlekedési hatóság számlájára átutalni. A maximumként megállapított díj összege 2020-tól kezdődően a Központi Statisztikai Hivatal által közzétett hivatalos fogyasztói árindex mértékével évente automatikusan növekszik.
 
 (10) A felügyeleti díjat a légiközlekedési hatóság csak a légiközlekedés védelmével kapcsolatos feladatainak ellátásával összefüggésben használhatja fel.
 
@@ -1552,11 +1554,13 @@ folytatja le.
 - b) a katonai légügyi hatóság feladat- és hatáskörét,
 - c) a nemzetközi repülések végrehajtásával összefüggésben a repülőterek igénybevételének általános szabályait,
 - d) a 61. § (5) bekezdésben meghatározott költségátalány tekintetében a tényleges költségek és a terv költségek közötti lényeges eltérés esetére vonatkozó elszámolási szabályokat,
-- e)–h)
+- e) az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, komponens és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának általános szabályait,
+- f) a polgári célú légiközlekedési szakszemélyzet tagjainak körét, akiknek képzéséhez a légiközlekedési hatóság engedélye szükséges, továbbá a képzési engedély tartalmára vonatkozó általános szabályokat.
+- g)–h)
 - i) a bérbeadott légijármű üzemben tartásával kapcsolatos általános szabályokat,
 - j) a nemzetközi repülőtérré nyilvánítás szabályait,
-- k)
-- l)
+- k) a polgári légijármű, valamint a légiközlekedéssel kapcsolatos eszköz típusalkalmassági tanúsítvány felfüggesztésének és visszavonásának részletes szabályait,
+- l) a légialkalmassági tanúsítvány kötelező tartalmi elemeit, valamint az üzemben tartónak a légialkalmasság fenntartásával és igazolásával összefüggő általános feladatait.
 - m) a polgári légiközlekedési balesetek esetére szóló nemzeti vészhelyzeti tervre és a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó légitársasági segítségnyújtási tervre vonatkozó szabályokat,
 - n) a légvédelmi készenléti gyakorlórepülések végrehajtásának általános szabályait,
 - o) a légijármű fel- és leszállásának, valamint a leszállóhely létesítésének engedélyezésére vonatkozó szabályokat,
@@ -1601,7 +1605,7 @@ folytatja le.
 
 73/B. § Felhatalmazást kap a Kormány, hogy
 
-- a) a polgári légiközlekedés tekintetében az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának részletes szabályait,
+- a) a polgári légiközlekedés tekintetében az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának eljárásjogi szabályait, valamint az üzembentartási engedély kötelező tartalmi elemeit,
 - b) a polgári légiközlekedési szakszemélyzet tekintetében a szakszolgálati engedélyek kiadásának, felfüggesztésének, valamint helyszíni elvételük és visszavonásuk szabályait,
 - c) a polgári légiközlekedés tekintetében a légialkalmassági bizonyítvány kiadásának, felfüggesztésének a részletes szabályait, valamint helyszíni elvételének és visszavonásának a szabályait,
 - d) a pilóta nélküli légi járművek légialkalmassági vizsgálatának rendjének, a légialkalmassági tanúsítvány kiadásának, felfüggesztésének részletes szabályait,
@@ -1714,7 +1718,7 @@ rendeletben állapítsa meg.
 - s) a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló, 2004. március 10-i 550/2004/EK európai parlamenti és tanácsi rendelet,
 - t) a légiforgalmi irányítói szakszolgálati engedélyekre és egyes tanúsításokra vonatkozó részletes szabályoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló, 2011. augusztus 10-i 805/2011/EU bizottsági rendelet,
 - u) a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról, valamint a 482/2008/EK és a 691/2010/EU rendelet módosításáról szóló, 2011. október 17-i 1035/2011/EU bizottsági végrehajtási rendelet,
-- v) a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló, 2013. május 3-i 391/2013/EU bizottsági végrehajtási rendelet,
+- v) az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendelet,
 - w) a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 2014. február 12-i 139/2014/EU bizottsági rendelet,
 - x) a polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU európai parlamenti és tanácsi rendelet.
 

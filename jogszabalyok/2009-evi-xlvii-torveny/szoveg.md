@@ -217,7 +217,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 (4) A 11. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint ha a bíróság a bűnügyi nyilvántartó szervvel korábban nem közölte, a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.
 
-(5) A 11. § (2) bekezdés e) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát az első fokon eljárt közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról az első fokon eljárt közlekedési igazgatási hatóság intézkedett.
+(5) A 11. § (2) bekezdés e) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát a közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról a közlekedési igazgatási hatóság intézkedett.
 
 13. § (1) A bűntettesek nyilvántartásába felvett adatokat az érintett mentesítésének időpontjáig kell nyilvántartani.
 
@@ -311,7 +311,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 (7) A 16. § (2) bekezdés i) pontja szerinti adatot a bíróság, a 16. § (2) bekezdés j) pontja szerinti adatokat a büntetés-végrehajtási bíró közli a bűnügyi nyilvántartó szervvel.
 
-(7a) A 16. § (2) bekezdés k) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtást befolyásoló tényeket és ezek fennállásának időtartamát az első fokon eljárt közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról az első fokon eljárt közlekedési igazgatási hatóság intézkedett.
+(7a) A 16. § (2) bekezdés k) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtást befolyásoló tényeket és ezek fennállásának időtartamát a közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról a közlekedési igazgatási hatóság intézkedett.
 
 (7b) A 16. § (2) bekezdés l) pontjában meghatározott adatokat az alapügyben elsőfokon eljárt bíróság közli a bűnügyi nyilvántartó szervvel,
 
@@ -892,12 +892,13 @@ miatt megalapozott gyanút közöltek.
 - a) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a bűntettesek nyilvántartásában, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában, valamint a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok,
 - b) az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv az állampolgársági eljárásban a honosítás és visszahonosítás törvényi feltételeinek vizsgálata során a bűntettesek nyilvántartásában és a büntetőeljárás hatálya alatt állók nyilvántartásában kezelt adatok.
 
-(5) A hadkötelezettség bevezetését követően a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a hadkötelezettség feltételei fennállásának megállapítása céljából jogosultak közvetlen hozzáféréssel átvenni a következő adatokat:
+(5) A Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelezettség feltételei fennállásának megállapítása céljából a bűnügyi nyilvántartási rendszerből a következő adatokat jogosult átvenni:
 
-- a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés a) és e) pontjában meghatározott adatok,
+- a) a 11. § (1) bekezdés c) pont ca) és cb) alpontjában e), f), h), i), j pontjában, a 11. § (2) bekezdés a) és e) pontjában meghatározott adatok,
 - b) a 16. § (2) bekezdés a) pontjában meghatározott adatok,
 - c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
-- d)
+
+(5a) A Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve az (5) bekezdés alapján történő adatátvétel során megkapott adatokat a behívhatóságot befolyásoló katonai igazgatási döntés meghozataláig kezeli, ezt követően az adatok törlésre kerülnek.
 
 (6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása, továbbá az ellátási és integrációs feladatai ellátása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
@@ -1050,7 +1051,7 @@ előírja.
 
 (6)
 
-72. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papír alapon, a bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton személyesen szóban vagy elektronikus azonosítását követően, elektronikus úton kell előterjeszteni.
+72. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papír alapon, a bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton, valamint a kormányablakban személyesen szóban vagy elektronikus azonosítását követően, elektronikus úton kell előterjeszteni.
 
 (1a) A kérelmező elektronikus azonosítását követően és az információ megőrzését biztosító módon történő hangrögzítés mellett, a kérelem telefonon is előterjeszthető.
 

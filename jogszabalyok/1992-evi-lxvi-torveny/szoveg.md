@@ -254,7 +254,9 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (3) Ha a menekült vagy oltalmazott jogállású személy letelepedett jogállást szerez, a nyilvántartás mind a menekült, illetve oltalmazott, mind a letelepedett jogállását tartalmazza.
 
-(4)–(5)
+(4)
+
+(5)
 
 12. § (1) A nyilvántartás történeti állománya tartalmazza a polgár minden eddigi, a törvény hatálya alá tartozó adatát és adatváltozását az érintett elhalálozásától, magyar állampolgárságának megszűnésétől, illetve a külföldi letelepedés szándékával külföldre távozásától, bevándorolt, menekült vagy oltalmazott, letelepedett jogállásának megszűnésétől, illetve a szabad mozgás és tartózkodás jogával rendelkező személy tartózkodási jogának megszűnésétől számított 15 évig, kivéve, ha jogállásának megszűnését a magyar állampolgárság megszerzése eredményezte. Ha az érintett személy a menekült vagy oltalmazott jogállás mellett letelepedett jogállást is szerzett, a 15 évet a később megszűnt jogállás megszűnésének időpontjától kell számítani. Ha az érintett magyar állampolgársága a külföldi letelepedés szándékával történt külföldre távozását követően szűnik meg, e tényt a nyilvántartás történeti állományán át kell vezetni.
 
@@ -485,7 +487,7 @@ van lehetőség.
 - c) a szabálysértési hatóság a hatáskörébe tartozó szabálysértési eljárásban a feljelentett vagy tanú (szakértő) személyi adatainak és lakcímének megállapításához;
 - d) a szociális igazgatás szervei a szociális gondoskodás körében felmerülő, törvényben meghatározott feladataik ellátásához;
 - e) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
-- f) a gépjárműveket, a forgalmi és vezetői engedélyeket nyilvántartó hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez;
+- f) a közúti közlekedési nyilvántartó szerv, valamint a közlekedési igazgatási hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez;
 - g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás, valamint az igazságügyért felelős miniszter a bűnügyi költség és rendbírság mérséklése, elengedése iránti kérelmek elbírálása során;
 - h) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való kikerülés helyére, annak – az elhalálozáson kívüli – okára és idejére, az értesítési címadatokra vonatkozó adatok kivételével a cégnyilvántartással összefüggő feladatai ellátásához a cégbíróság, valamint a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat;
 - i) a polgári védelmi kötelezettség érvényesítése céljából a hivatásos katasztrófavédelmi szerv és a polgármester;
@@ -520,6 +522,7 @@ van lehetőség.
 - j) az értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához;
 - k) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez;
 - l) A Központi Statisztikai Hivatal a hivatalos statisztikáról szóló 2016. évi CLV. törvényben meghatározott feladatai ellátásához;
+- m) a nyilvántartás történeti állományára kiterjedően is, a konzuli szolgálat a konzuli védelemről szóló 2001. évi XLVI. törvény 6. § (1) bekezdése, valamint 11. § (1) bekezdése szerinti feladata körében a hozzátartozó felkutatása, felvilágosítása, illetve értesítése céljából.
 
 23. § E törvény felhatalmazása alapján az értesítési cím adatok és a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a 17. § (2) bekezdés c) pontja szerinti adatok igénylésére jogosult
 
@@ -576,9 +579,7 @@ van lehetőség.
 - f) a konzuli tisztviselőnek olyan ügyek intézése során, amelyekben az eljárás lefolytatására hatáskörrel rendelkező hazai hatóság jogosult a személyazonosító jelet kérni;
 - g) az idegenrendészeti szerveknek a bevándorlással, a letelepedéssel, illetőleg a tartózkodással kapcsolatos ügyintézés során.
 
-(2)
-
-(3)
+(2)–(3)
 
 25/A. § A külföldön élő magyar állampolgár nyilvántartási ügyében eljáró hatóság 8 napos határidő megjelölésével hívja fel hiánypótlásra a kérelmezőt.
 

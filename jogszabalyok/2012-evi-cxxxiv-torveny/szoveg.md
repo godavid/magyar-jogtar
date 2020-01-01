@@ -97,7 +97,11 @@ kiskereskedelmi értékesítésére.
 - e) a dohányipari ágazati konzultációs fórum létrehozására és folyamatos működtetésére,
 - f) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozó mediációs tevékenységre,
 - g) a külön jogszabályban meghatározottak szerint a dohányboltban forgalmazható termékek regisztrációs adatainak fogadására, és ezeknek a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére történő publikálására; készletnyilvántartó minősítési rendszer működtetésére, a dohánytermék-kiskereskedők készlet és forgalmi adatainak kezelésére, feldolgozására,
-- h) a Jöt. alapján a dohánytermékek árainak közzététele érdekében a külön jogszabályban meghatározottak szerint a szolgáltatott árbejelentések rendszerezésére, feldolgozására és továbbítására.
+- h) a Jöt. alapján a dohánytermékek árainak közzététele érdekében a külön jogszabályban meghatározottak szerint a szolgáltatott árbejelentések rendszerezésére, feldolgozására és továbbítására,
+- i) a koncessziós szerződésekből eredő számlázási feladatok ellátására,
+- j) a koncessziós szerződésekkel összefüggő követeléskezelési feladatok – ide nem értve az azonnali beszedési megbízást – ellátására,
+- k) a dohánytermék-kiskereskedelmi jogosultság gyakorlására a részvénytársaság által külön feljogosított személyek kötelezettségeinek ellenőrzésére, a feljogosításról szóló okiratból eredő jogok és kötelezettségek érvényesítésére, valamint az ezzel összefüggő intézkedések és tájékoztatások megtételére, valamint
+- l) e törvényben vagy jogszabályban meghatározott egyéb feladat ellátására.
 
 (3) A részvénytársaság e törvényben meghatározott tevékenységével összefüggő költségeihez a miniszter a központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatást nyújt.
 
@@ -408,19 +412,19 @@ fogadhatja el.
 
 ### 6. CÍM — A fiatalkorúak különös védelme
 
-16. § (1) A dohánytermék-kiskereskedelmi tevékenység folytatása során fiatalkorú dohánytermékhez nem juthat; fiatalkorú részére dohányterméket értékesíteni, illetve kiszolgálni tilos.
+16. § (1) A dohánytermék-kiskereskedelmi tevékenység folytatása során fiatalkorú az 1. § (1) bekezdésében meghatározott termékhez nem juthat, részére ilyen terméket értékesíteni, illetve őt kiszolgálni tilos.
 
-(2) Amennyiben annak gyanúja merül fel, hogy a dohánytermék értékesítési helyére (dohányboltba, elkülönített helyre) fiatalkorú személy lépett be, illetve a dohányterméket fiatalkorú kívánja megvásárolni, a dohánytermék-kiskereskedő köteles a fogyasztót életkora hitelt érdemlő igazolására felhívni.
+(2) Ha a dohánytermék-kiskereskedőben annak gyanúja merül fel, hogy a dohánytermék értékesítési helyére (dohányboltba, elkülönített helyre) fiatalkorú személy lépett be, illetve az 1. § (1) bekezdésében meghatározott terméket fiatalkorú kívánja megvásárolni, a dohánytermék-kiskereskedő köteles a fogyasztót életkora hitelt érdemlő igazolására felhívni.
 
-(3) Amennyiben a fogyasztó az életkorát a (2) bekezdésben foglaltak szerint nem igazolja, vagy bebizonyosodik, hogy a fogyasztó fiatalkorú, részére semmilyen termék nem értékesíthető, és azonnal fel kell szólítani őt arra, hogy a dohánytermék értékesítési helyét hagyja el.
+(3) Ha a fogyasztó az életkorát a (2) bekezdésben foglaltak szerint nem igazolja, vagy bebizonyosodik, hogy a fogyasztó fiatalkorú, részére semmilyen termék nem értékesíthető, és azonnal fel kell szólítani őt arra, hogy a dohánytermék értékesítési helyét hagyja el.
 
-(4) Ameddig a (3) bekezdés rendelkezései szerint felszólított fogyasztó a dohánytermék értékesítési helyét nem hagyja el, a dohánytermék értékesítése, illetve a dohányboltban más e törvény alapján a dohányboltban forgalmazható termék értékesítése sem folytatható még az arra jogosult fogyasztó részére sem.
+(4) Ameddig a (3) bekezdés rendelkezései szerint felszólított fogyasztó a dohánytermék értékesítési helyét nem hagyja el, a dohánytermék értékesítése, illetve a dohányboltban más, e törvény alapján a dohányboltban forgalmazható termék értékesítése sem folytatható még az arra jogosult fogyasztó részére sem.
 
-(5) Abban az esetben, ha a (3) bekezdés rendelkezései szerint felszólított fogyasztó a felhívás ellenére nem hagyja el a dohánytermék értékesítésének helyét, a dohánytermék-kiskereskedő a rendőrhatóság intézkedését kérheti.
+(5) Ha a (3) bekezdés rendelkezései szerint felszólított fogyasztó a felhívás ellenére nem hagyja el a dohánytermék értékesítésének helyét, a dohánytermék-kiskereskedő a rendőrség intézkedését kérheti.
 
-(6) A dohánytermék-kiskereskedő köteles a dohánytermék értékesítését megtagadni abban az esetben is, ha annak gyanúja merül fel, hogy a nem fiatalkorú fogyasztó a dohányterméket fiatalkorú részére történő továbbadás céljából kívánja megvásárolni.
+(6) A dohánytermék-kiskereskedő köteles az 1. § (1) bekezdésében meghatározott termék értékesítését megtagadni abban az esetben is, ha annak gyanúja merül fel benne, hogy a nem fiatalkorú fogyasztó az 1. § (1) bekezdésében meghatározott terméket fiatalkorú részére történő továbbadás céljából kívánja megvásárolni.
 
-(7) A dohánytermék-kiskereskedővel szemben az e §-ban szabályozott rendelkezések be nem tartásáért a fogyasztóvédelmi hatóság bírságot szabhat ki.
+(7) A dohánytermék-kiskereskedővel szemben az e §-ban szabályozott rendelkezések be nem tartásáért a fogyasztóvédelmi hatóság bírságot szabhat ki, azzal, hogy az (1)–(3) bekezdésben foglalt rendelkezések megsértése esetén bírság kiszabása kötelező.
 
 16/A. § A dohánytermék-kiskereskedő a fogyasztó kérdésére köteles a dohányzás ártalmaival összefüggésben az alapvető tényekre vonatkozó felvilágosítást megadni és a részvénytársaság által a 10/C. §-ban foglalt feladatainak ellátása során megküldött tájékoztatót a dohányboltban, valamint az elkülönített helyen kihelyezni, vagy elektronikus eszköz útján megjeleníteni.
 
@@ -458,13 +462,13 @@ fogadhatja el.
 
 22. § (1) A vámhatóság az e törvény hatálya alá tartozó tevékenységet folytató személyt a (2)–(3) bekezdésben foglaltak szerinti esetekben az ott írt mértékű bírság megfizetésére kötelezi.
 
-(2) A bírság összege a dohánytermék-kiskereskedővel, vagy a részvénytársaság által a 10. § (1) bekezdése alapján feljogosított személlyel szemben 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedő (feljogosított személy)
+(2) A bírság összege a dohánytermék-kiskereskedővel vagy a részvénytársaság által a 10. § (1) bekezdése alapján feljogosított személlyel szemben 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedő (feljogosított személy)
 
-- a) az engedélyben foglaltaktól eltér vagy a dohánytermékek kiskereskedelmére, továbbá a 3. § 8. pont m) alpontjában felsorolt termékek, a cigarettahüvely, a cigarettapapír vagy a dohánylevél-töltő üzletszerű értékesítésére vonatkozó jogszabályi rendelkezéseket megsérti,
-- b) az állammal szembeni kötelezettségét nem teljesíti,
-- c) a számára előírt nyilvántartási, könyvvezetési előírásoknak nem tesz eleget vagy hamis adatot tüntet fel.
+- a) az engedélyben foglaltaktól eltér, vagy a dohánytermékek kiskereskedelmére, továbbá az 1. § (1) bekezdés b)–h) pontjában felsorolt termékek üzletszerű értékesítésére vonatkozó jogszabályi rendelkezéseket megsérti,
+- b) az állammal szembeni kötelezettségét nem teljesíti, vagy
+- c) a számára előírt nyilvántartási, könyvvezetési előírásoknak nem tesz eleget vagy hamis adatot közöl.
 
-(3) Ha valaki az e törvényben foglaltak ellenére dohánytermék-kiskereskedelmi jogosultság vagy engedély nélkül folytat dohánytermék, a 3. § 8. pont m) alpontjában felsorolt termékek, cigarettahüvely, cigarettapapír vagy dohánylevél-töltő üzletszerű értékesítésére vonatkozó tevékenységet, akkor őt a vámhatóság 5 millió forinttól 500 millió forintig terjedő bírsággal sújthatja.
+(3) Ha valaki az e törvényben foglaltak ellenére dohánytermék-kiskereskedelmi jogosultság vagy engedély nélkül folytat az 1. § (1) bekezdésében felsorolt termék üzletszerű értékesítésére vonatkozó tevékenységet, őt a vámhatóság 5 millió forinttól 500 millió forintig terjedő bírsággal sújtja, amelynek legfeljebb 50%-os mérséklése csak különös méltánylást érdemlő esetben lehetséges.
 
 (4) A bírság együttesen, illetve a 23. § rendelkezései szerint hozott intézkedés mellett is kiszabható.
 

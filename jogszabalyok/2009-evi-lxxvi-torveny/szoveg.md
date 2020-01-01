@@ -246,7 +246,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 (4) A határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységére vonatkozó bejelentés – ha a szolgáltató a bejelentésben ennél rövidebb időt nem határoz meg – a megtételétől számított öt naptári évre szól.
 
-23. § (1) A szolgáltatás felügyeletét ellátó hatóság a bejelentés megérkezését követően haladéktalanul ellenőrzi, hogy a bejelentés megfelel-e a 22. §-ban meghatározott követelményeknek, és legkésőbb a bejelentés megérkezésétől számított nyolc napon belül,
+23. § (1) A szolgáltatás felügyeletét ellátó hatóság a bejelentés megérkezését követően indokolt esetben (hivatali eljárás során történt tudomásszerzés vagy a hatóság általános ismeretei szerinti szükségesség alapján) ellenőrzi, hogy a bejelentés megfelel-e a 22. §-ban meghatározott követelményeknek, és legkésőbb a bejelentés megérkezésétől számított nyolc napon belül,
 
 - a) ha a bejelentés megfelel a 22. §-ban meghatározott követelményeknek, és az eljárási illetéket vagy igazgatási szolgáltatási díjat megfizették, a bejelentést tevőt erről a tényről igazolás megküldésével értesíti;
 - b) ha a bejelentés nem felel meg a 22. §-ban meghatározott követelményeknek, vagy a bejelentésre előírt eljárási illetéket vagy igazgatási szolgáltatási díjat nem fizették meg, és a szolgáltató nem részesült költségmentességben, a bejelentés hiányainak megjelölése mellett figyelmezteti a szolgáltatót a tevékenység bejelentés nélküli folytatásának jogkövetkezményeire.
@@ -296,7 +296,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 ### Bejelentéshez kötött tevékenységet folytatószolgáltatók nyilvántartása
 
-27. § (1) A bejelentéssel összefüggő eljárásban a szolgáltatás felügyeletét ellátó hatóság a szolgáltatót a 23. § (1) bekezdés a) pontja szerinti bejelentés megérkezését követő naptól számított tizenöt napon belül hivatalból nyilvántartásba veszi, kivéve, ha a bejelentés alapján folytatott ellenőrzési eljárás keretében megállapította, hogy a szolgáltató nem felel meg az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó jogszabályban foglalt előírásoknak.
+27. § (1) A bejelentéssel összefüggő eljárásban a szolgáltatás felügyeletét ellátó hatóság a szolgáltatót a 23. § (1) bekezdés a) pontja szerinti bejelentés megérkezését követő naptól számított tizenöt napon belül hivatalból nyilvántartásba veszi, kivéve, ha az ellenőrzési eljárás keretében megállapította, hogy a szolgáltató nem felel meg az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó jogszabályban foglalt előírásoknak.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 

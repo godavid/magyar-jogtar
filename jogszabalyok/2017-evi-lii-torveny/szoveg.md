@@ -8,7 +8,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 #### 1. A törvény hatálya
 
-1. § Ha uniós jogi aktus, illetve az Egyesült Nemzetek Szervezete Biztonsági Tanácsának (a továbbiakban: ENSZ BT) határozata pénzügyi és vagyoni korlátozó intézkedést rendel el, annak végrehajtása során e törvény és a bírósági végrehajtásról szóló törvény (a továbbiakban: Vht.) rendelkezései szerint kell eljárni.
+1. § Ha uniós jogi aktus, illetve az Egyesült Nemzetek Szervezete Biztonsági Tanácsának (a továbbiakban: ENSZ BT) határozata pénzügyi és vagyoni korlátozó intézkedést rendel el, annak végrehajtása során e törvény és a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) és az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény (a továbbiakban: Avt.) rendelkezései szerint kell eljárni.
 
 #### 2. Értelmező rendelkezések
 
@@ -85,9 +85,9 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 
-(3) Az (1) bekezdés szerinti zárlat végrehajtását a Vht. szabályai szerint a pénzügyi és vagyoni korlátozó intézkedés alanyával szemben, a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó befagyasztandó vagyonra kell elrendelni.
+(3) Az (1) bekezdés szerinti zárlatot a pénzügyi és vagyoni korlátozó intézkedés alanyával szemben, a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó befagyasztandó vagyonra kell elrendelni. A zárlat végrehajtása az Avt. alapján az állami adó- és vámhatóság feladata.
 
-(4) A bíróság a pénzügyi és vagyoni korlátozó intézkedés végrehajtásáról, illetve a végrehajtás befejezéséről három munkanapon belül értesíti a hatóságot, továbbá az adópolitikáért felelős minisztert.
+(4) Az állami adó- és vámhatóság a pénzügyi és vagyoni korlátozó intézkedés végrehajtásáról, illetve a végrehajtás befejezéséről három munkanapon belül értesíti a hatóságot, a bíróságot, továbbá az adópolitikáért felelős minisztert.
 
 7. § Ha a cégbíróság a hatóság 5. § szerinti értesítése alapján a cég működésének a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) 85. § (1) bekezdés b) pontja szerinti felfüggesztéséről, illetve a cég működése felfüggesztésének a Ctv. 85. § (2) bekezdése szerinti megszüntetéséről dönt, arról három munkanapon belül értesíti a hatóságot, továbbá az adópolitikáért felelős minisztert.
 
@@ -127,7 +127,7 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 
 (5) A mentesítésről a bíróság a Vht. rendelkezései alapján nemperes eljárásban a kérelem beérkezésétől számított hatvan napon belül – a zárlatot elrendelő korábbi végzésére is tekintettel – végzéssel dönt.
 
-(6) A bíróság a végzését kézbesíti a hatóságnak és az adópolitikáért felelős miniszternek is.
+(6) A bíróság a végzését kézbesíti a hatóságnak és az adópolitikáért felelős miniszternek, továbbá a zárlat feloldása esetén az állami adó- és vámhatóságnak is.
 
 (7) Az adópolitikáért felelős miniszter az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
 

@@ -47,7 +47,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 - h) összehangolja az országgyűlési bizottságok működését, az e törvényben meghatározottak szerint javaslatot tesz az országgyűlési bizottságok számára, elnevezésére, feladatkörére, tagjainak számára, az elnök, alelnök és a tagok megválasztására, valamint a személyükre vonatkozó változásra,
 - i) előkészítés, illetve intézkedés céljából kiadja a feladatkörrel rendelkező országgyűlési bizottságnak az Országgyűléshez érkezett indítványokat és beadványokat,
 - j) javaslatot tesz az Országgyűlésnek a háznagy megválasztására és felmentésére,
-- k) kinevezi és felmenti a főigazgatót, valamint az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szervek vezetőit; az általa kinevezett vezető felett munkáltatói jogkört gyakorol,
+- k) kinevezi és felmenti a főigazgatót, valamint az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szervek vezetőit; a munkáltatói jogokat az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában foglaltak szerint gyakorolja,
 - l) házelnöki rendelkezésben megállapítja az Országgyűlés Hivatala Szervezeti és Működési Szabályzatát, illetve feladat- és hatáskörének gyakorlása során házelnöki rendelkezést adhat ki,
 - m) jóváhagyja az Országgyűlés Hivatala, valamint az Országgyűlési Őrség költségvetésének tervezetét, és ellenőrzi az elfogadott költségvetés végrehajtását,
 - n) megteszi, illetve kezdeményezi az Országgyűlés biztonsága érdekében szükséges intézkedéseket,
@@ -264,8 +264,9 @@ létre.
 - d) a képviselőcsoportból történő kilépésével vagy kizárásával,
 - e) a képviselőcsoport általi visszahívásával,
 - f) ha megszűnik az a képviselőcsoport, amelynek a tagja,
-- g) ha független képviselőként képviselőcsoporthoz csatlakozik, vagy
-- h) független képviselő esetén a Házbizottság általi visszahívásával.
+- g) ha független képviselőként képviselőcsoporthoz csatlakozik,
+- h) független képviselő esetén a Házbizottság általi visszahívásával, vagy
+- i) miniszterelnökké történő megválasztásával, miniszterré vagy államtitkárrá történő kinevezésével.
 
 (2) Az állandó bizottság elnöke, alelnöke és tagja a házelnökhöz benyújtott írásbeli nyilatkozatával lemondhat megbízatásáról. A lemondást nem kell indokolni, érvényességéhez elfogadó nyilatkozat nem szükséges, a megbízatás a lemondás benyújtása napján szűnik meg.
 
@@ -277,7 +278,7 @@ létre.
 
 (4) A helyettes egy bizottsági ülésen egyidejűleg csak egy bizottsági tag helyettesítésére jogosult.
 
-21. § (1) Az állandó bizottság egyes feladatai elvégzésére tagjai sorából albizottságokat hozhat létre. Az albizottság működésének szabályaira – az albizottság eltérő rendelkezése hiányában – az állandó bizottság működésére vonatkozó szabályokat kell alkalmazni.
+21. § (1) Az állandó bizottság egyes feladatai elvégzésére tagjai sorából albizottságokat hozhat létre. Az albizottság a működési rendjét – az állandó bizottságok működésére vonatkozó házszabályi rendelkezések keretei között – maga állapítja meg.
 
 (2) Minden állandó bizottságnak létre kell hoznia egy albizottságot, amely a bizottság feladatkörébe tartozó törvények végrehajtását, társadalmi és gazdasági hatását, valamint a deregulációs folyamatokat figyelemmel kíséri.
 
@@ -616,6 +617,8 @@ használható.
 - 21. a Nemzeti Választási Iroda elnöke, elnökhelyettese részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.
 
 (2) A házelnök részére a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság elnöke állít ki közjogi tisztségviselői igazolványt.
+
+(3) A házelnök a képviselő részére a képviselői tisztség betöltésének igazolása céljából képviselői igazolványt állít ki.
 
 #### 18. A tárgyalási rend fenntartása, a fegyelmi jogkör
 
@@ -985,7 +988,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 ### VI/A. Fejezet — A HATÁRIDŐ SZÁMÍTÁSA
 
-72/A. § (1) Törvény vagy határozati házszabályi rendelkezés eltérő rendelkezése hiányában a házszabályi rendelkezések alkalmazása során a határidő számítására a (2)–(6) bekezdésben foglalt rendelkezéseket kell alkalmazni.
+72/A. § (1) Az Alaptörvény, törvény vagy határozati házszabályi rendelkezés eltérő rendelkezése hiányában a házszabályi rendelkezések alkalmazása során a határidő számítására a (2)–(6) bekezdésben foglalt rendelkezéseket kell alkalmazni.
 
 (2) A határidőket órákban vagy napokban kell számítani, kivéve, amikor a házszabályi rendelkezések ülést vagy ülésnapot említenek. Az ülésnap az elfogadott napirenden szereplő napirendi pontok megtárgyalásáig tart.
 
@@ -1045,7 +1048,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 #### 30. Összeférhetetlenség
 
-80. § (1) A képviselői megbízatás – a (2) és (2a) bekezdésben meghatározott kivételekkel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más keresőfoglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
+80. § (1) A képviselői megbízatás – a (2) bekezdésben meghatározott kivétellel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más keresőfoglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
 
 (2) A képviselő miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
 
@@ -1111,7 +1114,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (2) Ha a képviselő az (1) bekezdésben írt kötelezettségének nem tesz eleget, bármely képviselő indítványára az Országgyűlés – a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság véleményének kikérése után – tizenöt napon belül határoz az összeférhetetlenség kimondásáról.
 
-(3) A 88. §-ban meghatározott összeférhetetlenségről a jogerős ítéletet hozó bíróság vagy jogerős határozatot hozó hatóság haladéktalanul tájékoztatja a házelnököt. Az Országgyűlés bármely képviselő indítványára – a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság véleményének kikérése után – tizenöt napon belül határoz az összeférhetetlenség kimondásáról.
+(3) A 88. §-ban meghatározott összeférhetetlenségről a jogerős ítéletet hozó bíróság vagy véglegessé vált határozatot hozó hatóság haladéktalanul tájékoztatja a házelnököt. Az Országgyűlés bármely képviselő indítványára – a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság véleményének kikérése után – tizenöt napon belül határoz az összeférhetetlenség kimondásáról.
 
 (4) Képviselői összeférhetetlenségre vonatkozó bejelentést bárki tehet írásban a házelnöknél. A bejelentésben pontosan meg kell jelölni, hogy mely képviselővel szemben és milyen összeférhetetlenségi ok merült fel; mellékelni kell az összeférhetetlenségi ok megállapításához szükséges bizonyítékokat is. A bejelentésnek tartalmaznia kell a bejelentő személyazonosító adatait és aláírását. Hiányos bejelentés esetén a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság elnöke nem indítja meg a szükséges eljárást, de a kezdeményezésről tájékoztatja a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottságot.
 
@@ -1155,9 +1158,9 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 (2) A képviselőt mandátuma igazolásától a munkáltató – a munkavállaló kérésének megfelelően – a képviselői megbízatásának időtartamára vagy annak egy részére köteles fizetés nélküli szabadságban részesíteni.
 
-(3) Ha a képviselő a megválasztása napján ügyész, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban vagy közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban álló személy, közigazgatási szerv munkavállalója, a honvédek jogállásáról szóló törvény, vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban álló személy volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
+(3) Ha a képviselő a megválasztása napján ügyész, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban vagy közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban álló személy, közigazgatási szerv munkavállalója, a honvédek jogállásáról szóló törvény, vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban álló személy volt, a képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
 
-97. § (1) A képviselői megbízatás időtartama – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, rendvédelmi igazgatási, honvédelmi alkalmazotti, valamint bírói és ügyészségi szolgálati jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a honvédek jogállásáról szóló törvény, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.
+97. § (1) A képviselői megbízatás időtartama – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, közszolgálati, közalkalmazotti, rendvédelmi igazgatási, honvédelmi alkalmazotti, valamint bírói és ügyészségi szolgálati jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a honvédek jogállásáról szóló törvény, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.
 
 (2) A képviselői, valamint a háznagyi megbízatás időtartama vezetői gyakorlatnak számít. A vezetői gyakorlat megállapításánál a felsorolt tisztségek betöltésének időtartamát kell figyelembe venni.
 
@@ -1260,7 +1263,7 @@ az országgyűlési bizottság javasolhatja a képviselő kizárását a bizotts
 
 #### 37. A képviselő juttatásai és a képviselői tevékenységéhez kapcsolódó támogatások
 
-109. § (1) A képviselő az általa – a saját vagy hozzátartozója használati jogát igazoló közokirat vagy teljes bizonyító erejű magánokirat alapján – megjelölt személygépkocsi forgalmi rendszámára szóló – egy, az Országgyűlés Hivatala által biztosított, másra át nem ruházható, készpénzre nem átváltható –, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Nem jogosult az Országgyűlés Hivatala által biztosított üzemanyagkártyára az a képviselő, aki e törvény, illetve az állami vezetői juttatásokra vonatkozó jogszabály vagy más jogszabály alapján személygépkocsi használatra jogosult.
+109. § (1) A képviselő az általa – a saját vagy hozzátartozója használati jogát igazoló közokirat vagy teljes bizonyító erejű magánokirat alapján – megjelölt személygépkocsi forgalmi rendszámára szóló – egy, az Országgyűlés Hivatala által biztosított, másra át nem ruházható, készpénzre nem átváltható –, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Nem jogosult az Országgyűlés Hivatala által biztosított üzemanyagkártyára az a képviselő, aki e törvény vagy jogszabály alapján személygépkocsi használatra jogosult.
 
 (2) Az üzemanyagkártya feltöltése első alkalommal a feltöltés időpontját alapul véve az adott tárgynegyedév végéig, a második alkalomtól kezdődően havonta történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási norma vehető figyelembe. Az autógázzal üzemelő tiszta gázüzemű, a kettős üzemű, valamint a hibrid hajtású személygépkocsi esetében a benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget kell alapul venni.
 
@@ -1377,6 +1380,8 @@ a jogviszony megszűnésétől számított ötven évig kezeli.
 
 a jogviszony megszűnésétől számított egy évig kezeli.
 
+(4d) A képviselő tevékenységét segítő alkalmazott határozott idejű munkaviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 192. § (2) bekezdését nem kell alkalmazni.
+
 (5) Képviselő közeli hozzátartozója nem foglalkoztatható a 111. § (3) bekezdése alapján képviselő tevékenységét segítő alkalmazottként.
 
 (6) A képviselő a 111. § (1) bekezdésében meghatározott jogosultságának gyakorlásáról – teljes egészében vagy részlegesen – a képviselőcsoportja javára írásbeli nyilatkozatban lemondhat, amely nyilatkozatban a képviselő a (2) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jogot a képviselőcsoport vezetőjére ruházza át. Ha a képviselő a (2) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jogot a képviselőcsoport vezetőjére átruházta, a (2) bekezdés szerinti összeg egésze vagy meghatározott része a képviselőcsoport 113. § (1) bekezdése szerinti keretére kerül átcsoportosításra.
@@ -1464,7 +1469,7 @@ valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú
 
 #### 40. A házelnök és a volt házelnök javadalmazása
 
-120. § A házelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,7-szerese. A házelnök egyéb juttatásaira – a 122. §-ban foglalt eltérésekkel – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény a miniszterelnök javadalmazása és juttatásai alcímében foglalt szabályokat kell alkalmazni.
+120. § A házelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,7-szerese. A házelnök egyéb juttatásaira – a 122. §-ban foglalt eltérésekkel – a miniszterelnök juttatásaira vonatkozó szabályokat kell alkalmazni.
 
 121. § (1) Ha a házelnök megbízatása megszűnt, jogosult az e megbízatására utaló elnevezést használni.
 
@@ -1478,7 +1483,7 @@ valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú
 
 (4) A házelnök és a volt házelnök részére gépjárművezetőt az Országgyűlési Őrség biztosít.
 
-(5) A házelnök közcélú felajánlásaira, adományaira a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvénynek a miniszterelnök közcélú felajánlásaira, adományaira vonatkozó szabályait kell alkalmazni azzal, hogy az e célra szolgáló előirányzatot a központi költségvetésről szóló törvény Országgyűlés költségvetési fejezete tartalmazza, az előirányzat felhasználására a házelnök írásbeli kötelezettségvállalása alapján kerül sor és a közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét az Országgyűlés honlapján kell közzétenni.
+(5) A házelnök közcélú felajánlásaira, adományaira a miniszterelnök közcélú felajánlásaira, adományaira vonatkozó szabályokat kell alkalmazni azzal, hogy az e célra szolgáló előirányzatot a központi költségvetésről szóló törvény Országgyűlés költségvetési fejezete tartalmazza, az előirányzat felhasználására a házelnök írásbeli kötelezettségvállalása alapján kerül sor és a közcélú felajánlás, adomány kedvezményezettjének nevét, a közcélú felajánlás, adomány célját és összegét az Országgyűlés honlapján kell közzétenni.
 
 (6) A házelnök és a volt házelnök juttatása tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 13. § (3a) bekezdésében foglaltakat nem kell alkalmazni.
 
@@ -1496,13 +1501,13 @@ valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú
 
 (4a) Az Országgyűlés ülésén a főigazgató által – a házelnök egyetértésével – kijelölt, az Országgyűlés Hivatalával szerződéses jogviszonyban álló személy részt vehet, de nem szólalhat fel.
 
-(5) A főigazgató – a tárgyév január 1-jétől december 31-éig terjedő időszakra megállapított – havi alapilletménye a 124/G. § (1) bekezdése szerinti illetményalap 6,2-szerese, egyebekben az állami vezetői juttatásokról szóló Korm. rendelet szerint a minisztert megillető juttatásokra jogosult, és jogállására a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
+(5) A főigazgató – a tárgyév január 1-jétől december 31-éig terjedő időszakra megállapított – havi alapilletménye a 124/G. § (1) bekezdése szerinti illetményalap 6,2-szerese, egyebekben a minisztert megillető juttatásokra jogosult, és jogállására a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
 124. § (1) Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a főigazgató készíti el a házelnök irányítása mellett. Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a házelnök a Házbizottság egyetértésével, a Költségvetési bizottság véleményének beszerzése után küldi meg a Kormánynak, amely azt változtatás nélkül terjeszti be a központi költségvetésről szóló törvényjavaslat részeként az Országgyűlésnek.
 
 (2) A munkáltatói jogkör gyakorlója az Országgyűlés Hivatalánál foglalkoztatott köztisztviselőkre nézve a közszolgálati jogviszony létesítését a közszolgálati tisztviselőkről szóló törvényben foglaltakon túlmenően meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
 
-(3) Az Országgyűlés Hivatalának Szervezeti és Működési Szabályzatát a házelnök házelnöki rendelkezésben állapítja meg.
+(3)
 
 124/A. § (1) Az Országgyűlés Hivatala könyvtárat és muzeális intézményt tart fenn.
 
@@ -1519,7 +1524,9 @@ valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú
 
 124/B. § (1) E fejezet hatálya az Országgyűlés Hivatala főigazgatójának, az Országgyűlés Hivatala köztisztviselőinek (a továbbiakban együtt e törvény alkalmazásában: országgyűlési köztisztviselő) közszolgálati jogviszonyára, valamint e fejezet kifejezett rendelkezése esetén az Országgyűlés Hivatalánál foglalkoztatott munkavállalókra terjed ki.
 
-(2) Az Országgyűlés Hivatalánál foglalkoztatott munkavállalók jogviszonyára a munka törvénykönyvéről szóló törvény rendelkezéseit az e §-ban, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 258. §-ában foglalt eltérésekkel, a 124/N. §-ban foglaltakat figyelembe véve kell alkalmazni.
+(2) Az Országgyűlés Hivatalánál foglalkoztatott munkavállalók jogviszonyára az Mt. rendelkezéseit az e §-ban, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 258. §-ában foglalt eltérésekkel, a 124/N. §-ban foglaltakat figyelembe véve kell alkalmazni.
+
+(2a) Az Országgyűlés Hivatalánál foglalkoztatott, az Országgyűlés 1. § a)–c) pontjában meghatározott tisztségviselőinek tevékenységét segítő munkavállaló határozott idejű munkaviszonyára az Mt. 192. § (2) bekezdését nem kell alkalmazni.
 
 (3) Az Országgyűlés Hivatalánál – a 115. § (1) bekezdés szerinti munkavállalók kivételével – teljes munkaidőben foglalkoztatott
 
@@ -1529,6 +1536,8 @@ valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú
 országgyűlési köztisztviselő 3. melléklet szerint számított alapilletménye összegénél.
 
 (4) Az (1) bekezdés szerinti közszolgálati jogviszonyra a Kttv. és a Kttv. végrehajtására kiadott jogszabály közszolgálati jogviszonyra vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+(4a) Az Országgyűlés Hivatalánál határozott idejű közszolgálati jogviszony – a Kttv. 38. § (2) bekezdésében foglaltakon túlmenően – az Országgyűlés 1. § a)–c) pontjában meghatározott tisztségviselő munkájának segítésére – a tisztségviselő megbízatásának időtartamára figyelemmel, ismételt határozott idejű kinevezés keretében is – létesíthető.
 
 (5) A főigazgató, továbbá az Országgyűlés Hivatalának Szervezeti és Működési Szabályzatában meghatározott hivatali szervek (a továbbiakban: hivatali szervek) vezetői felett a munkáltatói jogokat a házelnök gyakorolja a 2. § (2) bekezdés k) pontja szerint, az Országgyűlés Hivatalának további köztisztviselői, munkavállalói feletti munkáltatói jogokat a főigazgató – a Szervezeti és Működési Szabályzatban meghatározottak szerint – gyakorolja.
 
@@ -1584,11 +1593,13 @@ besorolási fokozatba kell sorolni.
 
 feltételeket teljesítette.
 
+(7a) Nem kell az országgyűlési köztisztviselő beleegyezése a besorolási fokozatban történő előrelépése, illetményének e Fejezet szerinti megállapításakor.
+
 (8) A (7) bekezdés b) pont bb) alpontjában említett feltételek az országgyűlési köztisztviselő feladatainak ellátásához nélkülözhetetlen ismeretek – képzés, továbbképzés, átképzés formájában történő – megszerzésére irányulhatnak.
 
 (9) A közszolgálati jogviszonyban töltött idő (5) és (6) bekezdés szerinti számításánál a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamot – kivéve a sor- és tartalékos katonai, polgári szolgálat idejét, a tizennégy éven aluli gyermek ápolásának, gondozásának céljából, valamint a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát – figyelmen kívül kell hagyni.
 
-(10) Az országgyűlési fogalmazó besorolású országgyűlési köztisztviselőnek kinevezését követő egy éven belül, az országgyűlési gyakornok besorolású országgyűlési köztisztviselőnek kinevezését követő két éven belül kell közigazgatási alapvizsgát tennie. Közigazgatási alapvizsgát – ha jogszabály előírja – nem közszolgálati jogviszonyban álló is tehet. E törvény alkalmazásában közigazgatási alapvizsga alatt az állami tisztviselőkről szóló törvény alapján szerzett közigazgatási tanulmányok szakirányú szakképzettséget és kormányzati tanulmányok szakirányú szakképzettséget is érteni kell. A határidő számítására a Kttv. 118. § (4) bekezdésében foglaltakat kell alkalmazni.
+(10) Az országgyűlési fogalmazó besorolású országgyűlési köztisztviselőnek kinevezését követő egy éven belül, az országgyűlési gyakornok besorolású országgyűlési köztisztviselőnek kinevezését követő két éven belül kell közigazgatási alapvizsgát tennie. Közigazgatási alapvizsgát – ha jogszabály előírja – nem közszolgálati jogviszonyban álló is tehet. E törvény alkalmazásában közigazgatási alapvizsga alatt a közigazgatási tanulmányok szakirányú szakképzettséget és kormányzati tanulmányok szakirányú szakképzettséget is érteni kell. A határidő számítására a Kttv. 118. § (4) bekezdésében foglaltakat kell alkalmazni.
 
 (11) Ha az országgyűlési fogalmazó besorolású országgyűlési köztisztviselő és az országgyűlési gyakornok besorolású országgyűlési köztisztviselő a közigazgatási alapvizsgát a (10) bekezdésben előírt határidőt követő hat hónapon belül nem teszi le, közszolgálati jogviszonya megszűnik.
 
@@ -1705,18 +1716,19 @@ illetménynek megfelelő összeg.
 
 (3) A jubileumi jutalomra jogosító idő megállapításánál
 
-- a) az Országgyűlés Hivatalánál munkaviszonyban, közszolgálati jogviszonyban,
-- b) a Kttv., a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), az állami tisztviselőkről szóló 2016. évi LII. törvény (a továbbiakban: Áttv.) és a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati, kormánytisztviselői, kormányzati szolgálati és állami szolgálati jogviszonyban,
-- c) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban,
-- d) a hivatásos szolgálati jogviszonyban, tiszti és altiszti katonai szolgálati jogviszonyban,
-- e) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban,
-- f) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
-- g) a Kttv., a Ktv., Ktjv., Áttv., a Kit., illetve a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
-- h) az állami vezetői szolgálati jogviszonyban,
-- i) rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
-- j) a politikai szolgálati jogviszonyban
+- a) az Országgyűlés Hivatalánál munkaviszonyban, közszolgálati jogviszonyban töltött időt,
+- b) a Kttv., a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), az állami tisztviselőkről szóló 2016. évi LII. törvény (a továbbiakban: Áttv.) és a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati, kormánytisztviselői, kormányzati szolgálati és állami szolgálati jogviszonyban töltött időt,
+- c) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
+- d) a hivatásos szolgálati jogviszonyban, tiszti és altiszti katonai szolgálati jogviszonyban töltött időt,
+- e) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban töltött időt,
+- f) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban töltött időt,
+- g) a Kttv., a Ktv., Ktjv., Áttv., a Kit., illetve a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban töltött időt,
+- h) az állami vezetői szolgálati jogviszonyban töltött időt,
+- i) rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban töltött időt,
+- j) a politikai szolgálati jogviszonyban töltött időt, valamint
+- k) a Kttv. 62/A. §-a szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot
 
-töltött időt kell figyelembe venni.
+kell figyelembe venni.
 
 (4) Az országgyűlési köztisztviselő nem jogosult jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban azt már megkapta, valamint nem jogosult az (1) bekezdés a) pontja szerinti elismerésre, ha másik foglalkoztatási jogviszonyban vagy az Országgyűlés Hivatalával fennálló közszolgálati jogviszonyában már magasabb fokozatú jubileumi jutalomban részesült.
 
@@ -1758,7 +1770,7 @@ töltött időt kell figyelembe venni.
 - b) főosztályvezető-helyettesnél tizenkét munkanap,
 - c) főosztályvezetőnél tizenhárom munkanap.
 
-(6) Az Országgyűlés Hivatala főigazgatóját, a hivatali szervek vezetőit és helyettes vezetőit minden naptári évben negyven munkanap szabadság illeti meg.
+(6) Az Országgyűlés Hivatala főigazgatóját, a hivatali szervek vezetőit és helyettes vezetőit minden naptári évben negyven munkanap alapszabadság illeti meg.
 
 #### 40/E. A címek
 
@@ -1792,9 +1804,9 @@ töltött időt kell figyelembe venni.
 
 #### 40/F. A hivatali szervek vezetőinek és helyettes vezetőinek díjazása, valamint a főigazgatót, a hivatali szervek vezetőit és helyettes vezetőit megillető egyéb juttatások
 
-124/T. § (1) A hivatali szervek vezetőinek a tárgyév január 1-jétől december 31-éig terjedő időszakra megállapított havi alapilletménye az illetményalap 5,3-szerese. Egyebekben a hivatali szervek vezetői az állami vezetői juttatásokról szóló Korm. rendelet szerint a közigazgatási államtitkárt megillető juttatásokra jogosultak.
+124/T. § (1) A hivatali szervek vezetőinek a tárgyév január 1-jétől december 31-éig terjedő időszakra megállapított havi alapilletménye az illetményalap 5,3-szerese. Egyebekben a hivatali szervek vezetői a közigazgatási államtitkárt megillető juttatásokra jogosultak.
 
-(2) A hivatali szervek helyettes vezetőinek a tárgyév január 1-jétől december 31-éig terjedő időszakra megállapított havi alapilletménye az illetményalap 4,3-szerese. Egyebekben a hivatali szervek helyettes vezetői az állami vezetői juttatásokról szóló Korm. rendelet szerint a helyettes államtitkárt megillető juttatásokra jogosultak.
+(2) A hivatali szervek helyettes vezetőinek a tárgyév január 1-jétől december 31-éig terjedő időszakra megállapított havi alapilletménye az illetményalap 4,3-szerese. Egyebekben a hivatali szervek helyettes vezetői a helyettes államtitkárt megillető juttatásokra jogosultak.
 
 (3) A főigazgató és a hivatali szervek vezetőinek illetményét a házelnök, a hivatali szervek helyettes vezetőinek illetményét a főigazgató legfeljebb 50%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg.
 
@@ -1933,7 +1945,7 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 - a) kinevezi az Országgyűlési Őrség parancsnokát,
 - b) – ha törvény eltérően nem rendelkezik – gyakorolja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott, a rendvédelmi feladatokat ellátó szervet irányító miniszter részére meghatározott feladat- és hatásköröket.
 
-(2) A háznagy a házelnök által meghatározott rendben – a házelnök erre vonatkozó rendelkezése alapján – egyes, az Országgyűlési Őrség irányításával összefüggő jogokat gyakorolhat.
+(2) A főigazgató házelnöki rendelkezésben átruházott hatáskörben és ott meghatározott rendben egyes, az Országgyűlési Őrség irányításával összefüggő jogokat gyakorolhat.
 
 130. § (1) A rendészetért felelős miniszter a házelnök véleményének kikérésével rendeletben szabályozza
 
@@ -1950,7 +1962,7 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 132. § (1) Az Országgyűlési Őrséget a parancsnok vezeti. A parancsnok
 
 - a) az Országgyűlési Őrség tevékenységének részletes rendjét belső szabályzatban állapítja meg, és személyi állománya számára közvetlenül utasítást adhat,
-- b) javaslatot tesz az Országgyűlési Őrség Szervezeti és Működési Szabályzatára,
+- b) a főigazgatóval egyetértésben javaslatot tesz az Országgyűlési Őrség Szervezeti és Működési Szabályzatára,
 - c) gyakorolja az e törvényben, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben, valamint jogszabályban hatáskörébe utalt személyügyi és munkáltatói jogokat az Országgyűlési Őrség állományába tartozó személyek felett,
 - d) irányítja a közvetlen alárendeltségébe tartozó vezetők tevékenységét,
 - e) évente beszámol az Országgyűlési Őrség tevékenységéről az Országgyűlés honvédelemmel foglalkozó állandó bizottságának, valamint
@@ -2175,6 +2187,8 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 (15) A Módtv.2.-vel megállapított 118. § (5a) és (6) bekezdését az országgyűlési képviselők 2014. évi általános választását követően megalakult Országgyűlés alakuló ülésének napjától a Módtv.2. hatálybalépésének napjáig keletkezett keretmaradványok tekintetében is alkalmazni kell.
 
+(16) E törvénynek az Országgyűlés működését és a képviselők jogállását érintő egyes törvények módosításáról szóló 2019. évi CVIII. törvénnyel (a továbbiakban: Módtv.5.) megállapított rendelkezéseit – a 10. § (1) bekezdés g) pontja és (2) bekezdés g) pontja, a 28. § (2a) bekezdése, a 45–52/H. §, az 53. § (2) és (3) bekezdése, a 107–107/B. §, valamint a 142. § (2) bekezdése kivételével – a hatálybalépésükkor folyamatban lévő eljárásokban is alkalmazni kell.
+
 145/A. § (1) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény és az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról szóló 2017. évi CLXXXVII. törvénnyel (a továbbiakban: Módtv.3.) megállapított rendelkezések alapján az Országgyűlés Hivatalánál a Módtv.3. hatálybalépése előtt keletkezett közszolgálati jogviszonyban álló köztisztviselőt – a (2)–(5) bekezdésben foglaltak figyelembevételével – a Módtv.3. hatálybalépését követő harminc napon belül kell e törvény szabályai szerint besorolni és illetményét megállapítani azzal, hogy az országgyűlési köztisztviselő így megállapított illetményének összege nem lehet kevesebb a Módtv.3. hatálybalépését megelőző napon fennálló, a Kttv. szerint megállapított illetménye – idegennyelv-tudási illetménypótlék nélkül számított – összegénél.
 
 (2) A Módtv.3. hatálybalépése napján szakmai tanácsadói, szakmai főtanácsadói vagy a Kttv. 128. §-a szerinti címzetes címmel rendelkező országgyűlési köztisztviselő a korábbi címének megfelelő, a Módtv.3.-mal megállapított címre és illetményre jogosult.
@@ -2183,7 +2197,7 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 (4) A Kttv. 120. §-a alapján a Módtv.3. hatálybalépését megelőzően előresorolt köztisztviselő előresorolása a Módtv.3. hatálybalépése napján megszűnik. Az országgyűlési köztisztviselő besorolását, illetményét e törvény rendelkezéseire tekintettel kell megállapítani.
 
-(5) Az Országgyűlés Hivatalánál foglalkoztatott, a Kttv. 240-245. §-a hatálya alá tartozó közszolgálati ügykezelők jogviszonya a Módtv.3. hatálybalépése napján – a Kttv. 72. § (10) bekezdése alapján – azonos idejű és tartalmú munkajogviszonnyá alakul át. A munkáltató a jogviszony átalakulását követő harminc napon belül elkészíti a munka törvénykönyvéről szóló törvény szerinti munkaszerződéseket.
+(5) Az Országgyűlés Hivatalánál foglalkoztatott, a Kttv. 240-245. §-a hatálya alá tartozó közszolgálati ügykezelők jogviszonya a Módtv.3. hatálybalépése napján – a Kttv. 72. § (10) bekezdése alapján – azonos idejű és tartalmú munkajogviszonnyá alakul át. A munkáltató a jogviszony átalakulását követő harminc napon belül elkészíti az Mt. szerinti munkaszerződéseket.
 
 145/B. § (1) A Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel (a továbbiakban: Módtv.4.) megállapított rendelkezéseket első alkalommal a 2018. augusztus hónapra járó illetmények, tiszteletdíjak, egyéb juttatások és támogatások tekintetében kell alkalmazni.
 
@@ -2195,13 +2209,13 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 146. § (1) A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 4. § (6) bekezdése, a 48–52. §, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13) és (14) bekezdése, a 145/B. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
+(2) A 4. § (6) bekezdése, a 48–52. §, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13), (14) és (16) bekezdése, a 145/B. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 14. alcím az Alaptörvény 5. cikk (8) bekezdése alapján sarkalatosnak minősül.
 
 (4) A 10. és a 10/A. alcím, valamint a 147. § (1) bekezdése az Alaptörvény 7. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
-(5) Az Első rész, a 11. alcím, a 13. alcím, a 14/A–16. alcím, a 44. §, a 18–19. alcím, a IV–V/A. Fejezet, a VI/A. Fejezet, a 41. alcím, a 42. alcím, az 50. alcím, a 145. § (1)–(3), (7), (9), (11) és (12) bekezdése, valamint a 2. melléklet az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
+(5) Az Első rész, a 11. alcím, a 13. alcím, a 14/A–16. alcím, a 44. §, a 18–19. alcím, a IV–V/A. Fejezet, a VI/A. Fejezet, a 41. alcím, a 42. alcím, az 50. alcím, a 145. § (1)–(3), (7), (9), (11), (12) és (16) bekezdése, valamint a 2. melléklet az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
 
 (6) E törvény
 

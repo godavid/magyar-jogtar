@@ -458,11 +458,11 @@ A félbeszakadásra és felfüggesztésre a polgári perrendtartás szabályait 
 
 #### 33. § [Mintaper]
 
-(1) Ha a bíróság előtt legalább tíz olyan eljárás indul, amelyek jogi és ténybeli alapja azonos, a bíróság – a felek nyilatkozattételi jogának biztosítása mellett – dönthet arról, hogy e perek egyikét mintaperben elbírálja és a többi eljárást az eljárást befejező határozata meghozataláig felfüggeszti.
+(1) Ha a bíróság előtt legalább tíz olyan eljárás indul, amelyek jogi és ténybeli alapja azonos, a bíróság dönthet arról, hogy e perek egyikét mintaperben elbírálja és a többi eljárást az eljárást befejező határozata meghozataláig felfüggeszti.
 
 (2) A bíróság a felfüggesztett eljárásokat a mintaper eredménye szerint, tárgyaláson kívül bírálhatja el, ha azt állapítja meg, hogy azok a mintapertől sem jogi, sem ténybeli szempontból nem különböznek. A mintaper bizonyítási eredményének felhasználása nem akadálya további bizonyítás elrendelésének.
 
-(3) A bíróság – a felek nyilatkozattételi jogának biztosítása mellett – a mintaperben hozott ítélet jogerőre emelkedését követően indult, az (1) bekezdés szerinti jogvitát is e § szabályai szerint bírálhatja el.
+(3) A bíróság a mintaperben hozott ítélet jogerőre emelkedését követően indult, az (1) bekezdés szerinti jogvitát is e § szabályai szerint bírálhatja el.
 
 #### 34. § [Az Európai Unió Bírósága vagy az Alkotmánybíróság eljárásának kezdeményezése]
 
@@ -510,6 +510,8 @@ A bíróság hivatalból vagy kérelemre, a polgári perrendtartás szabályaina
 bírálja el.
 
 (3) Ha e törvény jegyzőkönyv helyett feljegyzés készítését lehetővé teszi, a feljegyzés tartalmazza készítésének helyét és idejét, az eljárási cselekményben részt vevő személyek azonosításához szükséges adatokat, nyilatkozataik lényegét, illetve a ténymegállapításokat, továbbá készítőjének nevét és aláírását.
+
+(4) A bíróság az eljárási cselekmény megkezdése előtt előterjesztett kérelemre – a technikai feltételek rendelkezésre állása esetén – elrendeli a jegyzőkönyv képet és hangot egyidejűleg rögzítő folyamatos felvétel útján történő készítését, amelyre egyebekben a polgári perrendtartás szabályait kell megfelelően alkalmazni.
 
 ## MÁSODIK RÉSZ — AZ ELSŐFOKÚ ELJÁRÁS
 
@@ -564,6 +566,8 @@ bírálja el.
 
 (3) A keresetlevelet határidőben benyújtottnak kell tekinteni, ha azt a jogi képviselő nélkül eljáró felperes – határidőn belül – tévesen a bírósághoz vagy a közigazgatási szerv jogorvoslati szervéhez (a továbbiakban: jogorvoslati szerv) nyújtotta be. Ebben az esetben a keresetlevelet haladéktalanul meg kell küldeni az (1) bekezdés szerinti közigazgatási szervnek.
 
+(3a) A keresetlevelet határidőben benyújtottnak kell tekinteni, ha azt a felperes a közigazgatási cselekmény jogorvoslati záradékának megfelelően nyújtotta be, vagy arra figyelemmel nyújtotta be a bírósághoz, hogy az (1) bekezdés szerinti közigazgatási szerv az elektronikus ügyintézés feltételeit átmenetileg vagy tartósan nem biztosítja. A bíróság a keresetlevelet haladéktalanul megküldi az (1) bekezdés szerinti közigazgatási szervnek.
+
 (4) A keresetlevél benyújtására nyitva álló határidőt az ítélkezési szünet nem érinti.
 
 (5) A perfüggőség a keresetlevél benyújtásával áll be.
@@ -602,9 +606,11 @@ bírálja el.
 
 (5) Az ügyészség, illetve a törvényességi felügyeletet gyakorló szerv a keresetlevelet a bíróságnál nyújtja be.
 
+(6) A keresetlevelet a bíróságnál kell benyújtani, ha a törvény által megengedett keresethalmazat esetén azt egyszerre kellene a közigazgatási szervnél és a bíróságnál is benyújtani. A keresetlevelet határidőben benyújtottnak kell tekinteni, ha azt a felperes – határidőn belül – tévesen a közigazgatási szervnél vagy a jogorvoslati szervnél nyújtja be.
+
 #### 42. § [Védirat]
 
-(1) A védirat az alperesnek a keresetlevélben foglaltakra tett nyilatkozata, amely vagy a keresetlevél visszautasítására irányul, vagy érdemi védekezést tartalmaz. A védiratban elő kell adni az annak alapjául szolgáló tényeket és ezek bizonyítékait.
+(1) A védirat az alperesnek a keresetlevélben foglaltakra tett nyilatkozata, amely vagy a keresetlevél visszautasítására irányul, vagy érdemi védekezést tartalmaz. A védiratban elő kell adni az annak alapjául szolgáló tényeket és ezek bizonyítékait. Az alperes a védiratban, a (3) bekezdés alkalmazása esetén a nyilatkozatban közli, hogy a keresetlevél benyújtásáról kiket értesített, valamint nyilatkozik a megelőző eljárásban zártan kezelt és védett adatokra nézve.
 
 (2) A védiratot az alperes a keresetlevélnek, illetve az ügy iratainak továbbításával egyidejűleg terjeszti elő.
 
@@ -665,6 +671,8 @@ A felperes keresetétől az alperes hozzájárulása nélkül, a tárgyalás ber
 
 (5) Az áttételt megelőzően teljesített perbeli cselekmények, illetve bírói rendelkezések hatálytalanok, kivéve, ha az áttétellel kapcsolatosak, vagy azokat – a felek kérelmére vagy egyetértésével – a hatáskörrel és illetékességgel rendelkező bíróság hatályukban fenntartja.
 
+(6) Az áttételt elrendelő végzés ellen fellebbezésnek van helye.
+
 #### 48. § [Visszautasítás]
 
 (1) A bíróság a keresetlevelet visszautasítja, ha
@@ -680,17 +688,23 @@ A felperes keresetétől az alperes hozzájárulása nélkül, a tárgyalás ber
 - i) a felperes a keresetindítási határidőt elmulasztja, és igazolási kérelmet nem terjeszt elő, vagy azt a bíróság elutasítja,
 - j) a felperes a hiánypótlási felhívás teljesítésére rendelkezésre álló határidőben a keresetlevelet nem, vagy újból hiányosan nyújtotta be, és emiatt a keresetlevél nem bírálható el,
 - k) a felperes keresetindítási határidőn belül nem jelölte meg a közigazgatási tevékenységgel okozott jogsérelmet,
-- l) a beadványok elektronikus előterjesztésére köteles felperes vagy a jogi képviselő a keresetlevelet nem elektronikus úton vagy elektronikus úton, de nem a jogszabályban meghatározott módon terjeszti elő.
+- l) az elektronikus ügyintézésre köteles felperes vagy a jogi képviselő nem elektronikus úton vagy elektronikus úton, de nem a jogszabályban meghatározott módon terjesztette elő,
+- m) az elektronikus úton kapcsolatot tartó felperes nem jogszabályban meghatározott módon terjesztette elő.
 
 (2) A bíróság az (1) bekezdés a)–j) pontjában foglaltakat az egész eljárás során hivatalból veszi figyelembe.
 
-(3) A bíróság a keresetlevelet visszautasító végzést a felperessel közli és intézkedéséről az alperest értesíti. A bíróság intézkedéséről annak jogerőre emelkedését követően tájékoztatja azokat, akiket a keresetlevél benyújtásáról a közigazgatási szerv értesített.
+(3) A bíróság a keresetlevelet visszautasító végzés jogerőre emelkedését követően tájékoztatja intézkedéséről azokat, akiket a keresetlevél benyújtásáról a közigazgatási szerv értesített. Az alperes a keresetlevél visszautasítása esetén a védirat előterjesztésének költségét nem számíthatja fel.
 
 (4) A keresetlevelet visszautasító végzés ellen fellebbezésnek van helye.
 
 #### 49. § [A keresetlevél benyújtásához fűződő jogi hatályok fenntartása]
 
-(1) A keresetlevél benyújtásának joghatásai fennmaradnak, ha a bíróság a jogi képviselő nélkül eljáró felperes keresetlevelét a 48. § (1) bekezdés k) vagy l) pontja alapján utasította vissza, és a felperes a visszautasító határozat jogerőre emelkedésétől számított nyolc nap alatt a keresetlevelet a bíróságnál az e törvényben foglaltaknak megfelelően – a már megfelelően becsatolt mellékletek kivételével – újra benyújtja.
+(1) A keresetlevél benyújtásának joghatásai fennmaradnak, ha a bíróság
+
+- a) a jogi képviselő nélkül eljáró felperes keresetlevelét a 48. § (1) bekezdés k) pontja, vagy
+- b) a felperes keresetlevelét a 48. § (1) bekezdés l) vagy m) pontja
+
+alapján utasította vissza, és a felperes a visszautasító határozat jogerőre emelkedésétől számított nyolc nap alatt a keresetlevelet a bíróságnál az e törvényben foglaltaknak megfelelően – a már megfelelően becsatolt mellékletek kivételével – újra benyújtja.
 
 (2) A keresetlevél benyújtásának joghatásai fennmaradnak, ha a polgári bíróság a felperes közigazgatási ügyben eljáró bíróság hatáskörébe tartozó kereseti kérelmét tartalmazó keresetlevelét azért utasította vissza, mert
 
@@ -736,13 +750,13 @@ A felperes keresetétől az alperes hozzájárulása nélkül, a tárgyalás ber
 
 (4) A bíróság a kérelem teljesítését biztosíték adásához kötheti.
 
-(5) Az azonnali jogvédelem tárgyában hozott végzés ellen a közléstől számított nyolc napon belül van helye fellebbezésnek, amelyről a másodfokú bíróság nyolc napon belül dönt. A kérelem elutasítását követően ismételten, azonos ténybeli és jogi alapon benyújtott kérelmet megtagadó végzés ellen nincs helye fellebbezésnek.
+(5) Az azonnali jogvédelem tárgyában hozott végzés ellen a közléstől számított nyolc napon belül van helye fellebbezésnek, amelyről a másodfokú bíróság nyolc napon belül dönt. Az azonnali jogvédelmet biztosító végzés elleni fellebbezésnek nincs halasztó hatálya. A kérelem elutasítását követően ismételten, azonos ténybeli és jogi alapon benyújtott kérelmet megtagadó végzés ellen nincs helye fellebbezésnek.
 
 (6) A bíróság tanácsa az azonnali jogvédelem tárgyában hozott végzését – a felek lehetőség szerinti meghallgatását követően – legkésőbb a végzés elleni fellebbezés felterjesztéséig módosíthatja vagy visszavonhatja.
 
 (7) Az azonnali jogvédelmet biztosító végzés az eljárást befejező határozat jogerőre emelkedésével veszti hatályát, ha azt a bíróság tanácsa az eljárás során a felek kérelmére vagy hivatalból nem helyezte hatályon kívül. A bíróság ettől eltérő időpontot is megállapíthat, amely nem lehet későbbi, mint a perorvoslati kérelem benyújtására nyitva álló határidő utolsó napja.
 
-(8) Ha a bíróság a határidőben előterjesztett keresetlevelet visszautasítja, az azonnali jogvédelmet biztosító végzés hatálya a keresetlevél benyújtásához fűződő jogi hatályok fenntartásához előírt határidő lejártáig fennmarad.
+(8) Az azonnali jogvédelem iránti kérelmet a bíróság tanácsa a keresetlevél visszautasítása esetén is elbírálja. Ha a bíróság a határidőben előterjesztett keresetlevelet visszautasítja, az azonnali jogvédelmet biztosító végzés hatálya a visszautasító végzés jogerőre emelkedéséig, vagy a keresetlevél benyújtásához fűződő jogi hatályok fenntartásához előírt határidő lejártáig fennmarad.
 
 (9) A bíróság tanácsa az eljárás során több azonnali jogvédelmi eszközt is alkalmazhat. Az azonnali jogvédelmet biztosító végzés indokolásában utalni kell a korábban elrendelt azonnali jogvédelmi eszközzel való kapcsolatra.
 
@@ -1015,7 +1029,11 @@ Ha a folytatólagos tárgyaláson az eljáró tanács tagjainak személyében v�
 
 (2) A bíróság a bizonyítékokat egyenként és összességükben, a megelőző eljárásban megállapított tényállással összevetve értékeli.
 
-(3) Bizonyítási indítvány előterjesztésére, illetve bizonyítási eszköz rendelkezésre bocsátására legkésőbb az első tárgyaláson van lehetőség.
+(3) Bizonyítási indítvány előterjesztésére, illetve bizonyítási eszköz rendelkezésre bocsátására legkésőbb az első tárgyaláson van lehetőség. A bíróság legfeljebb tizenöt napos határidő tűzésével ezt követően is engedélyezheti bizonyítási indítvány előterjesztését, illetve bizonyítási eszköz rendelkezésre bocsátását, ha
+
+- a) a felperes a keresetét az első tárgyaláson megváltoztatja,
+- b) a felperes keresetét a jogsérelem orvoslására tett cselekményre kiterjeszti, vagy
+- c) az az anyagi pervezetése folytán vált szükségessé.
 
 (4) A megelőző eljárás idején fennálló, de a megelőző eljárásban nem értékelt tényre, körülményre a felperes vagy az érdekelt akkor hivatkozhat, ha azt a megelőző eljárásban a közigazgatási szerv arra való hivatkozása ellenére nem vette figyelembe, azt önhibáján kívül nem ismerte, illetve arra önhibáján kívül nem hivatkozott.
 
@@ -1829,26 +1847,38 @@ Ha a bíróságnak az előtte folyamatban lévő eljárásban önkormányzati re
 
 (3) A Kúria határozata a törvényességi felügyeleti szervre és a helyi önkormányzatra kötelező.
 
-### XXVI. Fejezet — AZ ÚJ ELJÁRÁSRA KÖTELEZŐ ÉS A MULASZTÁSI ÍTÉLET TELJESÍTÉSÉNEK KIKÉNYSZERÍTÉSÉRE IRÁNYULÓ ELJÁRÁS
+### XXVI. Fejezet — KÖZIGAZGATÁSI NEMPERES ELJÁRÁSOK
 
-#### 151. § [A teljesítés kikényszerítése iránti kérelem]
+#### 151. § [A közigazgatási nemperes eljárások közös szabályai]
 
-(1) A felperes vagy az érdekelt a teljesítési határidő leteltétől számított kilencven napon belül a teljesítés kikényszerítése érdekében kérelemmel fordulhat az elsőfokú határozatot hozó bírósághoz, ha a közigazgatási szerv a teljesítési határidőn belül nem tett eleget
+(1) Közigazgatási nemperes eljárásban e törvénynek az egyszerűsített perre vonatkozó szabályait – az e §-ban, valamint törvényben foglalt eltérésekkel – kell a nemperes eljárás sajátosságainak megfelelően alkalmazni.
 
-- a) a bíróság új eljárás lefolytatására kötelező jogerős határozatában foglaltaknak vagy
-- b) a mulasztási ítéletből származó kötelezettségének.
+(2) Az eljárás kérelemre indul, amelyre a keresetlevélre vonatkozó szabályokat kell alkalmazni. A kérelemmel az általános szabályok szerinti kereset nem kapcsolható össze.
 
-(2) A teljesítés kikényszerítése iránti kérelem alapján indult eljárásra az egyszerűsített per szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
+(3) Ha törvény eltérően nem rendelkezik, az eljárásban kizárólag okirati bizonyításnak van helye.
 
-(3) A kérelem alapján a bíróság tizenöt napon belül határidő tűzésével felhívja a közigazgatási szervet arra, hogy teljesítse kötelezettségét, vagy adjon magyarázatot a teljesítés elmaradására, a magyarázatot alátámasztó iratok egyidejű megküldése mellett.
+(4) A bíróság a kérelemről ítélet hatályú végzésben határoz, amelyre az ítéletre vonatkozó szabályokat kell alkalmazni. A végzés ellen fellebbezésnek nincs helye.
 
-(4) Ha a közigazgatási szerv a felhívás alapján teljesít, a bíróság az eljárást megszünteti, és a közigazgatási szervet a kérelmező költségeinek megtérítésére kötelezi.
+#### 12. A határozat teljesítésének kikényszerítésére irányuló eljárás
 
-(5) E fejezet szabályait kell alkalmazni akkor is, ha a bíróság jogerős határozatában foglalt kötelezés kikényszerítése nem tartozik a bírósági végrehajtásról szóló törvény hatálya alá.
+#### 152. § [A teljesítés kikényszerítése iránti kérelem]
 
-#### 152. § [Teljesítési bírság]
+(1) A felperes vagy az érdekelt a teljesítési határidő leteltétől számított kilencven napon belül a teljesítés kikényszerítése érdekében kérelemmel fordulhat az elsőfokú határozatot hozó bírósághoz, ha a közigazgatási szerv a teljesítési határidőn belül nem tett eleget a jogerős bírósági határozatból származó
 
-(1) Ha a közigazgatási szerv a teljesítés elmaradására nem ad magyarázatot vagy az nem alapos, a bíróság a közigazgatási szervet – a kérelmező költségeinek megtérítésére kötelezése mellett – teljesítési bírsággal sújtja. Nem alapozza meg a teljesítési bírság alkalmazását, ha a közigazgatási szerv a bíróság által előírt eljárási cselekmények hiánytalan foganatosítását követően – ha ezek hatására a bíróságétól eltérő jogi értékelésre jut – nem az új eljárás lefolytatására kötelező jogerős határozatban kifejtett jogi álláspontot foglalja el, illetve nem az ott meghatározott jogkövetkezményt alkalmazza.
+- a) új eljárás lefolytatására vagy
+- b) elmulasztott közigazgatási cselekmény megvalósítására
+
+vonatkozó kötelezettségének.
+
+(2) A kérelem alapján a bíróság tizenöt napon belül határidő tűzésével felhívja a közigazgatási szervet arra, hogy teljesítse kötelezettségét, vagy adjon magyarázatot a teljesítés elmaradására, a magyarázatot alátámasztó iratok egyidejű megküldése mellett.
+
+(3) Ha a közigazgatási szerv a felhívás alapján teljesít, a bíróság az eljárást megszünteti, és a közigazgatási szervet a kérelmező költségeinek megtérítésére kötelezi.
+
+(4) E fejezet szabályait kell alkalmazni akkor is, ha a bíróság jogerős határozatában foglalt kötelezés kikényszerítése nem tartozik a bírósági végrehajtásról szóló törvény hatálya alá.
+
+#### 153. § [Teljesítési bírság és intézkedések]
+
+(1) Ha a közigazgatási szerv a teljesítés elmaradására nem ad magyarázatot, vagy az nem alapos, a bíróság a közigazgatási szervet – a kérelmező költségeinek megtérítésére kötelezése mellett – teljesítési bírsággal sújtja. Nem alapozza meg a teljesítési bírság alkalmazását, ha a közigazgatási szerv a bíróság által előírt eljárási cselekmények hiánytalan foganatosítását követően – ha ezek hatására a bíróságétól eltérő jogi értékelésre jut – nem az új eljárás lefolytatására kötelező jogerős határozatban kifejtett jogi álláspontot foglalja el, illetve nem az ott meghatározott jogkövetkezményt alkalmazza.
 
 (2) A teljesítési bírság összege az ügy körülményeihez és a kötelezettségszegés súlyához igazodóan százezer és tízmillió forint között állapítható meg. A teljesítési bírság ismételten kiszabható, ha a teljesítésre észszerű időn belül nem került sor.
 
@@ -1858,15 +1888,31 @@ Ha a bíróságnak az előtte folyamatban lévő eljárásban önkormányzati re
 
 (5) A teljesítési bírságra egyebekben a pénzbírság szabályait kell alkalmazni.
 
-#### 153. § [Intézkedések]
-
-(1) A bíróság a teljesítési bírság kiszabása mellett végzéssel
+(6) A bíróság a teljesítési bírság kiszabása mellett végzéssel
 
 - a) a közigazgatási szervvel azonos hatáskörű másik szervet jelöl ki az eljárás lefolytatására, egyúttal a közigazgatási szervet az eljárás költségeinek viselésére kötelezi,
-- b) a közigazgatási szerv törvényességi felügyeleti szervét felhatalmazza a mulasztási ítéletnek megfelelő teljesítésre, egyúttal a közigazgatási szervet a teljesítés költségeinek viselésére kötelezi, vagy
+- b) a közigazgatási szerv törvényességi felügyeleti szervét felhatalmazza a határozatnak megfelelő teljesítésre, egyúttal a közigazgatási szervet a teljesítés költségeinek viselésére kötelezi, vagy
 - c) az a) és b) pontban foglalt jogkövetkezmény alkalmazhatóságának hiányában, ha azt az ügy jellege és a rendelkezésre álló adatok lehetővé teszik, ideiglenes intézkedést hozhat, amely a teljesítésig hatályos.
 
-(2) Ha az (1) bekezdés a) pontja alapján kijelölt szerv eljárási kötelezettségének nem tesz eleget, a teljesítés kikényszerítése e fejezet szabályai szerint kérelmezhető.
+(7) Ha a (6) bekezdés a) pontja alapján kijelölt szerv eljárási kötelezettségének nem tesz eleget, a teljesítés kikényszerítése ezen alcím szabályai szerint kérelmezhető.
+
+#### 13. Egyéb különös közigazgatási nemperes eljárások
+
+#### 153/A. § [Eljárási cselekmény előzetes engedélyezése]
+
+(1) Törvény rendelkezése alapján előzetes bírói engedélyhez kötött eljárási cselekmény megvalósítása iránt a közigazgatási szerv által előterjesztett kérelmet a bíróság a beérkezésétől számított hetvenkét órán belül bírálja el.
+
+(2) A kérelemnek tartalmaznia kell az eljárási cselekmény célját, helyét, az indokoltság alátámasztására szolgáló tényeket, továbbá az eljárási cselekményre okot adó bizonyítékok meghatározását.
+
+(3) A bíróság a kérelmezett eljárási cselekményt akkor engedélyezi, ha a közigazgatási szerv valószínűsíti, hogy más eljárási cselekmény nem vezetne eredményre, valamint a helyszíni kutatás iránti kérelem esetén észszerű megalapozottsággal feltehető, hogy az indítvány szerinti helyen a vizsgálat tárgyát képező jogsértéssel kapcsolatos bizonyítási eszköz fellelhető, továbbá feltételezhető, hogy azt önként nem bocsátanák rendelkezésre, vagy felhasználhatatlanná tennék. A bíróság a kérelmezett eljárási cselekményt részben is engedélyezheti.
+
+(4) A bíróság végzése ellen perorvoslatnak nincs helye.
+
+#### 153/B. § [Védekezés céljából készült irat minősítése iránti eljárás]
+
+(1) A védekezés céljából készült irat minősítése kérdésében a bíróság a közigazgatási szerv kérelmére az érintett meghallgatásával dönt. Az iratot a közigazgatási szerv csatolja a kérelméhez.
+
+(2) Ha az irat szétválasztása a bizonyító erő sérelme nélkül nem lehetséges, a bíróság végzésében meghatározza, hogy mely irat, illetve az irat mely része minősül védekezés céljából készült iratnak. Ha a bíróság azt állapítja meg, hogy az irat, iratrész nem minősül védekezés céljából készült iratnak, azt a kérelmező számára kiadja. Ellenkező döntés esetében a bíróság az iratot, iratrészt az érintettnek adja ki.
 
 ### XXVII. Fejezet — A KÖZIGAZGATÁSI SZERV KIJELÖLÉSÉRE IRÁNYULÓ ELJÁRÁS
 
@@ -1896,17 +1942,45 @@ Ez a törvény 2018. január 1-jén lép hatályba.
 
 (1) Ezt a törvényt a 2018. január 1. napján vagy azt követően előterjesztett keresetlevél alapján indult eljárásokban kell alkalmazni.
 
-(2) A közigazgatási ügyekben a közigazgatási és munkaügyi bíróság által meghozott határozattal szemben 2018. január 1. napján vagy azt követően előterjesztett fellebbezést az e törvény szerint illetékes törvényszék, mint másodfokú bíróság bírálja el.
+(2) E törvénynek az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel módosított 99. § (2) bekezdését a 2020. április 1. napján vagy azt követően meghozott ítéletekre kell alkalmazni.
 
-(3) A 2017. december 31-én első fokon folyamatban lévő, az e törvény 12. § (2) és (3) bekezdése szerinti közigazgatási ügyeket, továbbá azokat az első fokon befejezett, e törvény 12. § (2) és (3) bekezdése szerinti ügyeket, amelyekben az elsőfokú bíróság hatáskörébe tartozó további intézkedéseket kell tenni, a közigazgatási és munkaügyi bíróság megküldi az e törvény szerint illetékes törvényszéknek, mint elsőfokú bíróságnak.
+(3) A közigazgatási ügyekben a közigazgatási és munkaügyi bíróság által meghozott határozattal szemben 2020. április 1. napján vagy azt követően előterjesztett fellebbezést a Kúria bírálja el.
 
-(4) A (2) és (3) bekezdés szerinti közigazgatási ügyeket haladéktalanul, de legkésőbb 2018. február 1-jéig kell megküldeni.
+(4) E törvénynek az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel módosított 99. § (1) bekezdését, 100. § (2) bekezdés b) pontját, 109. § (2) bekezdését, 115. § (1) és (3) bekezdését, 117. § (4) és (5) bekezdését, 118. § (1) bekezdését, valamint 121. § (1) és (2) bekezdését a 2020. július 1-jén és az azt követően meghozott határozat ellen indított fellebbezési és felülvizsgálati eljárásokban kell alkalmazni.
 
-(5) A 2018. december 31-én első fokon folyamatban lévő közigazgatási ügyeket, továbbá azokat az első fokon befejezett ügyeket, amelyekben az elsőfokú bíróság hatáskörébe tartozó további intézkedéseket kell tenni, a közigazgatási és munkaügyi bíróság legkésőbb 2019. február 1-jéig megküldi az e törvény szerint illetékes közigazgatási és munkaügyi bíróságnak.
+(5) Közigazgatási perben 2020. március 15. napját követő időpontra – az ügyek átadására tekintettel az átadó bíróságon – tárgyalási határnap nem tűzhető. A közigazgatási perben meghozott ügydöntő határozatokat 2020. március 31. napjáig írásba kell foglalni, és intézkedni kell azok közlése iránt.
 
-(6) Az ügyek (3)–(5) bekezdés szerinti megküldése során az áttételre vonatkozó szabályokat nem kell alkalmazni.
+(6) A közigazgatási és munkaügyi bíróságok bírái, valamint a Fővárosi Törvényszék és a Kúria közigazgatási és munkaügyi kollégiumának tagjai 2020. március 15-ig felterjesztik a törvényszék, illetve a Kúria elnökének a még el nem bírált ügyek iratanyagát.
 
-(7) Ahol jogszabály a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének vagy a közigazgatási perekre vonatkozó szabályainak alkalmazását rendeli, azon a közigazgatási perrendtartást, ha jogszabály bírósági felülvizsgálatot tesz lehetővé, azon közigazgatási pert kell érteni.
+(7) A 2020. március 31-én első fokon folyamatban lévő ügyeket, továbbá azokat az első fokon befejezett ügyeket, amelyekben az elsőfokú bíróság hatáskörébe tartozó további intézkedést kell tenni,
+
+- a) a törvényszék elnöke az illetékes törvényszéknek vagy a Kúriának,
+- b) a Kúria elnöke az illetékes törvényszéknek vagy a Kúriának
+
+mint elsőfokú bíróságnak megküldi.
+
+(8) A 2020. március 31-én a perorvoslati vagy az alkotmányjogi panasz esetén követendő eljárásban folyamatban lévő ügyeket, továbbá azokat a perorvoslati vagy az alkotmányjogi panasz esetén követendő eljárásban befejezett ügyeket, amelyekben a bíróság hatáskörébe tartozó további intézkedést kell tenni, a (9) bekezdésben meghatározott kivétellel,
+
+- a) a törvényszék elnöke az illetékes törvényszéknek vagy a Kúriának
+- b) a Kúria elnöke az illetékes törvényszéknek
+
+megküldi.
+
+(9) A fellebbezés alapján folyamatban lévő ügyeket a (8) bekezdés alapján nem kell megküldeni, azokat a 2020. április 1-jét megelőzően hatályos szabályok alapján hatáskörrel és illetékességgel rendelkező bíróság bírálja el.
+
+(10) A (7) bekezdés szerint befejezett és a (8) bekezdés szerinti közigazgatási ügyeket haladéktalanul, de legkésőbb 2020. május 1-jéig kell megküldeni. Ezt követően felmerült, bírói döntést igénylő intézkedés esetén a (7) és (8) bekezdés megfelelő alkalmazásával kell eljárni. Az ügyek (7) és (8) bekezdés szerinti megküldése során az áttételre vonatkozó szabályokat nem kell alkalmazni.
+
+(11) A törvényes bíróhoz való jog elvére figyelemmel, a (7) és (8) bekezdés szerinti ügyben az a bíró jár el, aki az ügy elbírálását 2020. április 1-jét megelőzően megkezdte, feltéve, hogy a hatáskörrel rendelkező, illetékes bírósághoz osztották be.
+
+(12) Azokban a 2020. március 20. után indult közigazgatási perekben, amelyek elintézésére törvény nyolc napos vagy annál rövidebb határidőt állapít meg, az eljárási határidő a megküldés időtartamával, de legfeljebb nyolc nappal meghosszabbodik.
+
+(13) Ahol jogszabály
+
+- a) a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének vagy a közigazgatási perekre vonatkozó szabályainak alkalmazását rendeli, azon a közigazgatási perrendtartást,
+- b) bírósági felülvizsgálatot tesz lehetővé, azon közigazgatási pert,
+- c) közigazgatási és munkaügyi bíróságot mint közigazgatási ügyben eljáró bíróságot említ, azon a törvényszéket mint közigazgatási ügyben eljáró bíróságot
+
+kell érteni.
 
 #### 158. § [Rövid megjelölés]
 

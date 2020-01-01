@@ -109,7 +109,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (3) A jogszabályok és a közjogi szervezetszabályozó eszközök nem sérthetik a KSH szakmai függetlenségét.
 
-(4) A kormányzati igazgatásról szóló CXXV. törvény 262. § (2) bekezdésében foglaltakat a KSH vonatkozásában nem kell alkalmazni.
+(4) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 263. § (2) bekezdésében foglaltakat a KSH vonatkozásában nem kell alkalmazni.
 
 (5) A KSH elnöke törvényben meghatározott feladatkörében nem utasítható.
 
@@ -198,7 +198,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (6) A miniszterelnök a KSH elnökének, a KSH elnöke a KSH elnökhelyettesének a (4) és (5) bekezdés alapján megismert személyes adatait az adatalany megbízatásának megszűnéséig kezeli.
 
-15. § A KSH elnöke, illetve elnökhelyettese kinevezésüket követő harminc napon belül, majd azt követően kétévente a közszolgálati tisztviselőkre vonatkozó szabályok szerint vagyonnyilatkozatot tesznek.
+15. § A KSH elnöke, illetve elnökhelyettese kinevezésüket követő harminc napon belül, majd azt követően kétévente a kormánytisztviselőkre vonatkozó szabályok szerint vagyonnyilatkozatot tesznek.
 
 16. § (1) A KSH elnökének megbízatása megszűnik:
 
@@ -226,11 +226,11 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 18. § (1) A KSH elnökhelyetteseit a KSH elnöke bármikor felmentheti, a felmentést nem kell indokolni.
 
-(2) A KSH elnökhelyettese számára e tisztségéből történő felmentését megelőzően – kivéve, ha arra nyugdíjjogosultság miatti kérelem alapján kerül sor vagy a KSH elnökhelyettese a felmentés közlésének időpontjában nyugdíjasnak minősül – végzettségének és szakképzettségének, szakképesítésének megfelelő munkakört kell felajánlani a KSH szervezetében. A KSH elnökhelyettese a felajánlott munkakör elfogadásáról öt munkanapon belül írásban nyilatkozik a KSH elnökének.
+(2) A KSH elnökhelyettese számára e tisztségéből történő felmentését megelőzően – kivéve, ha arra nyugdíjjogosultság miatti kérelem alapján kerül sor vagy a KSH elnökhelyettese a felmentés közlésének időpontjában nyugdíjasnak minősül – végzettségének és szakképzettségének, szakképesítésének megfelelő álláshelyet kell felajánlani a KSH szervezetében. A KSH elnökhelyettese a felajánlott álláshely elfogadásáról öt munkanapon belül írásban nyilatkozik a KSH elnökének.
 
-(3) Ha a KSH elnökhelyettese a felajánlott munkakört elfogadja, át kell helyezni.
+(3) Ha a KSH elnökhelyettese a felajánlott álláshelyet elfogadja, át kell helyezni.
 
-(4) Ha a KSH elnökhelyettese a felajánlott munkakört nem fogadja el a kormánytisztviselőkre irányadó szabályok szerint felmentési idő és juttatások illeti meg, amelynek időtartama alatt a munkavégzési kötelezettség alól mentesül.
+(4) Ha a KSH elnökhelyettese a felajánlott álláshelyet nem fogadja el a kormánytisztviselőkre irányadó szabályok szerint felmentési idő és juttatások illeti meg, amelynek időtartama alatt a munkavégzési kötelezettség alól mentesül.
 
 19. § A KSH elnökét az államtitkár, elnökhelyetteseit a helyettes államtitkár illetményével azonos díjazás, illetve juttatások illetik meg.
 
@@ -270,7 +270,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (7) Az OST tagja, elnöke olyan személy lehet, aki büntetlen előéletű, és nem áll a statisztikusi végzettséghez kötött foglalkozástól eltiltás hatálya alatt (a továbbiakban együtt: kizáró ok).
 
-(8) Nem bízható meg az OST tagjának, aki nem felel meg a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 39. § (1)–(1c) bekezdéseiben foglalt feltételeknek.
+(8) Nem bízható meg az OST tagjának, aki nem felel meg a Kit. 82. § (1)–(4) bekezdésében foglalt feltételeknek.
 
 (9) Az OST tagja a megbízásával egyidejűleg hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn kizáró ok.
 
@@ -548,7 +548,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (6) Az (5) bekezdés szerinti fellebbezés elbírálására, valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti eljárás lefolytatására a közigazgatás-szervezésért felelős miniszter jogosult.
 
-34. § (1) A Hivatalos Statisztikai Szolgálat statisztikai adatfelvételt végrehajtó tagja a honlapján nyilvánosságra hozhatja a 32. § (1) bekezdés a) és b) pontjaiban, valamint a 33. § (1) bekezdésében meghatározottak alapján elmarasztalt jogi személy és személyiségi joga szerint jogképes szervezet adatszolgáltató nevét, székhelyét, telephelyét és adószámát és a kiszabott bírság összegét amennyiben a jogerős hatósági határozat hozatalára sor került, feltéve, hogy a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen lezárult és a határozat bírósági felülvizsgálatának megindítására nyitva álló határidő eltelt. Ebben az esetben az elmarasztalt adatszolgáltató adatai a bírósági felülvizsgálat megindítására nyitva álló határidő eredménytelen lejártát követő naptól, illetve a bírósági eljárás jogerős lezárását követő naptól, a hatósági határozat hatályában fenntartott része vonatkozásában hozhatók nyilvánosságra.
+34. § (1) A Hivatalos Statisztikai Szolgálat statisztikai adatfelvételt végrehajtó tagja a honlapján nyilvánosságra hozhatja a 32. § (1) bekezdés a) és b) pontjában, valamint a 33. § (1) bekezdésében meghatározottak alapján elmarasztalt jogi személy és személyiségi joga szerint jogképes szervezet adatszolgáltató nevét, székhelyét, telephelyét, adószámát és a kiszabott bírság összegét, ha a véglegessé vált hatósági határozat hozatalára sor került, feltéve, hogy a határozat elleni közigazgatási per jogerősen lezárult, illetve a közigazgatási per megindítására nyitva álló határidő eredménytelenül letelt. Ebben az esetben az elmarasztalt adatszolgáltató adatai a közigazgatási per megindítására nyitva álló határidő eredménytelen lejártát követő naptól, illetve a közigazgatási per jogerős lezárását követő naptól, a hatósági határozat hatályában fenntartott része vonatkozásában hozhatók nyilvánosságra.
 
 (2) Az (1) bekezdés szerint nyilvánosságra hozott adatok egy évig maradhatnak elérhetőek a Hivatalos Statisztikai Szolgálat statisztikai adatfelvételt végrehajtó tagjának honlapján.
 

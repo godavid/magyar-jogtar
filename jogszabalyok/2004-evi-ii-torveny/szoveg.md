@@ -362,19 +362,19 @@ az időpontja.
 
 18. § (1) A mozgóképszakmai hatóság ellátja a mozgóképszakma működésével összefüggő közigazgatási feladatokat.
 
-(2) A mozgóképszakmai hatóság a Hivatal.
+(2) A mozgóképszakmai hatóság a Nemzeti Filmiroda (a továbbiakban: Filmiroda). A Filmiroda a Kormány által rendeletben kijelölt miniszter által vezetett minisztérium (a továbbiakban e §-ban: Kormány által kijelölt szerv) önálló szervezeti egysége, amely az általa ellátott hatósági feladatok tekintetében nem utasítható és hatósági tevékenysége során minden más szervtől független.
 
-(3) Az egyes mozgóképszakmai hatósági feladatok ellátása érdekében a Hivatal működteti a Nemzeti Filmirodát. A Nemzeti Filmiroda szervezetének és feladatainak részletes szabályait a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) Szervezeti és Működési Szabályzata határozza meg. A Nemzeti Filmiroda élén az NMHH Elnöke (a továbbiakban: Elnök) által az NMHH főigazgatójának javaslatára határozatlan időre kinevezett főosztályvezetői besorolású köztisztviselő áll, felette a munkáltatói jogokat – a kinevezés, felmentés, illetve a visszahívás kivételével – az NMHH főigazgatója gyakorolja.
+(3) A Filmiroda szervezetének és feladatainak részletes szabályait a Kormány által kijelölt szerv Szervezeti és Működési Szabályzata határozza meg.
 
-(4) A mozgóképszakmai hatóság a működésével összefüggő kiadásait központi költségvetési támogatásból és saját bevételeiből fedezi.
+(4) A Kormány által kijelölt szerv a Filmiroda szervezete és feladatai tekintetében a Nemzeti Média- és Hírközlési Hatóság jogutódja.
 
 ### 2. CÍM — A mozgóképszakmai hatóság feladat- és hatásköre
 
-19. § (1) A Hivatal hatósági hatáskörében az alábbi feladatokat látja el:
+19. § (1) A Filmiroda hatósági hatáskörében az alábbi feladatokat látja el:
 
 - a) a filmalkotásokat a kiskorúak védelme érdekében e törvény szerint besorolja, valamint a besorolási szabályok megsértése esetén a törvényben meghatározott szankciót alkalmazza,
 - b) a művészi értékük miatt támogatásra érdemes és a kulturális követelmények teljesítése alapján támogatásra jogosult filmalkotásokat, valamint az ilyen filmalkotásokat terjesztő mozikat és mozitermeket e törvény szerint besorolja,
-- c) az e törvény szerinti támogatást igénylő mozgóképszakmai szervezetekről és természetes személyekről, a moziüzemeltetési tevékenységet folytató természetes, illetve jogi személyekről, a forgalmazói tevékenységet folytató természetes, illetve jogi személyekről, a támogatásra jogosult, és a támogatásban nem részesülő filmalkotásokról, a terjesztésre kerülő, valamint az „art” besorolású filmalkotásokról, továbbá az „art” mozikról és mozitermekről e törvényben, illetve az Elnök rendeletében meghatározott módon a Hivatal hatósági ellenőrzése tevékenysége céljából, közhiteles hatósági nyilvántartást vezet,
+- c) az e törvény szerinti támogatást igénylő mozgóképszakmai szervezetekről és természetes személyekről, a moziüzemeltetési tevékenységet folytató természetes, illetve jogi személyekről, a forgalmazói tevékenységet folytató természetes, illetve jogi személyekről, a támogatásra jogosult, és a támogatásban nem részesülő filmalkotásokról, a terjesztésre kerülő, valamint az „art” besorolású filmalkotásokról, továbbá az „art” mozikról és mozitermekről e törvényben, illetve a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében meghatározott módon a Filmiroda hatósági ellenőrzése tevékenysége céljából, közhiteles hatósági nyilvántartást vezet,
 - d) azokat a filmalkotásokat, amelyek előállításához e törvény szerinti támogatást igényelnek, a magyar filmalkotás, a magyar részvételű filmalkotás, az egyéb magyar részvételű filmalkotás vagy az egyéb filmalkotás elnevezésű kategóriák szerint besorolja,
 - e) e törvény szerint ellenőrzi és igazolja a kulturális követelményeknek való megfelelés tényét,
 - f) e törvény szerint ellenőrzi, megállapítja és igazolja az e törvény szerinti támogatás igénybevételére vonatkozó jogosultságot, valamint kiállítja a támogatási igazolást,
@@ -382,52 +382,52 @@ az időpontja.
 - h) feladat- és hatáskörében hivatalból vagy kérelemre eljár az e törvényben, illetve az e törvény felhatalmazása keretében kibocsátott jogszabályban foglalt rendelkezések és a hatáskörében hozott hatósági döntések betartásának általános hatósági felügyeletével kapcsolatos eljárásokban,
 - i) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jogszabályban meghatározott egyéb mozgóképszakmai feladatokat.
 
-(1a) A Hivatal az (1) bekezdése c) pontja szerinti nyilvántartásban szereplő adatokat a nyilvántartásra vonatkozó tevékenység befejezéséig kezeli.
+(1a) A Filmiroda az (1) bekezdése c) pontja szerinti nyilvántartásban szereplő adatokat a nyilvántartásra vonatkozó tevékenység befejezéséig kezeli.
 
-(2) A Hivatal nem hatósági hatásköreiben az alábbi feladatokat látja el:
+(2) A Filmiroda nem hatósági hatásköreiben az alábbi feladatokat látja el:
 
 - a) nyilvántartása alapján mozgóképszakmai adatszolgáltatási tevékenységet végez,
 - b) kiadja a nemzetközi egyezményekben meghatározott koprodukciós igazolásokat az egyezményben meghatározott eljárás szerint,
 - c) ellátja a 33. §-ban meghatározott feladatokat,
 - d) ellátja az e törvényben vagy e törvény felhatalmazása alapján más jogszabályban meghatározott egyéb mozgóképszakmai feladatokat.
 
-(3) A Hivatal által e törvény alapján végzett nyilvántartási, besorolási tevékenységért az Elnök rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
+(3) A Filmiroda által e törvény alapján végzett nyilvántartási, besorolási tevékenységért a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 ### III/A. Fejezet — A MOZGÓKÉPSZAKMAI HATÓSÁG ELJÁRÁSAI
 
 ### 1. CÍM — A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-19/A. § (1) A Hivatal és az Elnök (a továbbiakban együtt: Hatóság) az e törvényben foglalt eltérésekkel és kiegészítésekkel az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerint jár el.
+19/A. § (1) A Filmiroda (a továbbiakban e fejezetben: Hatóság) az e törvényben foglalt eltérésekkel és kiegészítésekkel az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerint jár el.
 
-(2) A Hivatal által hozott elsőfokú hatósági döntés ellen az ügyfél fellebbezéssel élhet, kivéve azon döntéseket, amelyek ellen törvény alapján nincs helye fellebbezésnek. A Hivatal e törvény szerinti hatósági döntése ellen irányuló fellebbezés elbírálására jogosult hatóság az Elnök.
+(2) A Hatóság által hozott elsőfokú hatósági döntés ellen az ügyfél fellebbezéssel élhet, kivéve azon döntéseket, amelyek ellen törvény alapján nincs helye fellebbezésnek.
 
-(3) A Hivatal határozata és önálló fellebbezéssel támadható végzései ellen az egyedi hatósági ügy tárgya szerint érintett támogató szervezet is jogorvoslati jogosultsággal rendelkezik.
+(3) A Hatóság határozata és önálló fellebbezéssel támadható végzései ellen az egyedi hatósági ügy tárgya szerint érintett támogató szervezet is jogorvoslati jogosultsággal rendelkezik.
 
-(4) A Hivatal a hatáskörébe tartozó ügyekben eljárását hivatalból is megindíthatja, kivéve, ha e törvény szerint az eljárás kizárólag kérelemre indítható. A kérelem kormányablaknál nem terjeszthető elő.
+(4) A Hatóság a hatáskörébe tartozó ügyekben eljárását hivatalból is megindíthatja, kivéve, ha e törvény szerint az eljárás kizárólag kérelemre indítható. A kérelem kormányablaknál nem terjeszthető elő.
 
-(5) Amennyiben a Hivatal eljárása során az egyedi hatósági ügy tárgyán kívüli, de azzal szorosan vagy közvetetten összefüggő jogsértésről szerez tudomást, annak vonatkozásában – hatósági döntésének meghozatala előtt – eljárását hivatalból kiterjesztheti. Az eljárás hivatalbóli kiterjesztéséről az ügyfeleket az Ákr. vonatkozó rendelkezései szerint értesíteni kell. Az eljárás hivatalbóli kiterjesztésével az ügyintézési határidő az eljárásra irányadó ügyintézési határidővel meghosszabbodik.
+(5) Amennyiben a Hatóság eljárása során az egyedi hatósági ügy tárgyán kívüli, de azzal szorosan vagy közvetetten összefüggő jogsértésről szerez tudomást, annak vonatkozásában – hatósági döntésének meghozatala előtt – eljárását hivatalból kiterjesztheti. Az eljárás hivatalbóli kiterjesztéséről az ügyfeleket az Ákr. vonatkozó rendelkezései szerint értesíteni kell. Az eljárás hivatalbóli kiterjesztésével az ügyintézési határidő az eljárásra irányadó ügyintézési határidővel meghosszabbodik.
 
-(6) Hatáskör hiányában – a hatáskörrel rendelkező hatóság vizsgálata, illetve áttétel nélkül – a Hivatal jogosult a kérelmet visszautasítani, illetve az eljárást megszüntetni.
+(6) Hatáskör hiányában – a hatáskörrel rendelkező hatóság vizsgálata, illetve áttétel nélkül – a Hatóság jogosult a kérelmet visszautasítani, illetve az eljárást megszüntetni.
 
-(7) Ha a Hatóság – az e törvény alapján hatáskörébe tartozó hatósági ügyben meghozott – véglegessé vált hatósági döntése alapjául szolgáló adatokban, illetve tényekben változás következik be, az ügyfél azt köteles a változástól, illetve annak tudomására jutásától számított 15 napon belül a Hivatalnak bejelenteni.
+(7) Ha a Hatóság – az e törvény alapján hatáskörébe tartozó hatósági ügyben meghozott – véglegessé vált hatósági döntése alapjául szolgáló adatokban, illetve tényekben változás következik be, az ügyfél azt köteles a változástól, illetve annak tudomására jutásától számított 15 napon belül a Hatóságnak bejelenteni.
 
-(8) Az (7) bekezdésben foglalt változásbejelentés, vagy egyéb hivatalos tudomása alapján a Hivatal jogosult hivatalból hatósági eljárást indítani annak vizsgálata céljából, hogy a hatósági döntést, illetve e hatósági döntés meghozatalának alapjául szolgáló feltételeket az adatokban, tényekben bekövetkezett változás érdemben érinti-e. Amennyiben a Hivatal megállapítja, hogy az adatokban, tényekben bekövetkezett változás érdemben érinti a hatósági döntést, azt hivatalból indított hatósági eljárásban – a változás tartalma szerint – módosítja vagy visszavonja.
+(8) Az (7) bekezdésben foglalt változásbejelentés, vagy egyéb hivatalos tudomása alapján a Hatóság jogosult hivatalból hatósági eljárást indítani annak vizsgálata céljából, hogy a hatósági döntést, illetve e hatósági döntés meghozatalának alapjául szolgáló feltételeket az adatokban, tényekben bekövetkezett változás érdemben érinti-e. Amennyiben a Hatóság megállapítja, hogy az adatokban, tényekben bekövetkezett változás érdemben érinti a hatósági döntést, azt hivatalból indított hatósági eljárásban – a változás tartalma szerint – módosítja vagy visszavonja.
 
-(9) Az (7) bekezdésben foglalt bejelentési kötelezettség elmulasztása esetén a Hivatal a filmelőállítót a 19/H. § (8) bekezdés c) pontja szerinti bírság megfizetésére kötelezheti.
+(9) Az (7) bekezdésben foglalt bejelentési kötelezettség elmulasztása esetén a Hatóság a filmelőállítót a 19/H. § (8) bekezdés c) pontja szerinti bírság megfizetésére kötelezheti.
 
-(10) A Hivatal véglegessé vált határozata alapján jogosított ügyfél helyébe a polgári jog szerinti jogutódja léphet, ha a jogutódlás e törvény szerinti célok megvalósulását segíti elő és nem veszélyezteti a közpénzek szabályos felhasználását és az azzal való elszámolást. A jogutód a jogutódlástól számított 40 napon belül kérheti a jogutódlás megállapítását.
+(10) A Hatóság véglegessé vált határozata alapján jogosított ügyfél helyébe a polgári jog szerinti jogutódja léphet, ha a jogutódlás e törvény szerinti célok megvalósulását segíti elő és nem veszélyezteti a közpénzek szabályos felhasználását és az azzal való elszámolást. A jogutód a jogutódlástól számított 40 napon belül kérheti a jogutódlás megállapítását.
 
-(11) A jogutódlás tényét a Hivatal végzéssel állapítja meg.
+(11) A jogutódlás tényét a Hatóság végzéssel állapítja meg.
 
 ### 2. CÍM — Titoktartás
 
-19/B. § (1) A Hatósággal közszolgálati jogviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban álló, illetve állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és annak megszűnését követően is kötelesek megőrizni a Hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, minősített adatot, illetve üzleti titkot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a Hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
+19/B. § (1) A Hatósággal kormányzati szolgálati jogviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban álló, illetve állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és annak megszűnését követően is kötelesek megőrizni a Hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, minősített adatot, illetve üzleti titkot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a Hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
 
 (2) Az (1) bekezdésben felsorolt személyek a feladataik ellátásával kapcsolatban tudomásukra jutott adatokat, tényt vagy körülményt jogosulatlanul nem tehetik közzé, nem hasznosíthatják, és nem hozhatják harmadik fél tudomására.
 
 ### Elektronikus kapcsolattartás
 
-19/C. § (1) A Hatóság e törvényben foglalt hatásköreiben az Elnök rendeletben meghatározhatja azon eljárások körét, amelyben kötelező vagy kizárólagos az elektronikus kapcsolattartás.
+19/C. § (1) A Hatóság e törvényben foglalt hatásköreiben a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletben meghatározhatja azon eljárások körét, amelyben kötelező vagy kizárólagos az elektronikus kapcsolattartás.
 
 (2) A kizárólag jogi személyt vagy egyéb szervezetet érintő eljárásokban elektronikus kapcsolattartás kizárólagosan írható elő.
 
@@ -473,44 +473,44 @@ az időpontja.
 
 ### Adatszolgáltatás
 
-19/G. § (1) A Hivatal az Európai Audiovizuális Obszervatórium (European Audiovisual Observatory) és más európai és nemzetközi szervezetek által igényelt, a nyilvántartásában szereplő, mozgóképszakmai területre vonatkozó magyarországi adatokról hivatalos igazolást állít ki, és azokat továbbítja.
+19/G. § (1) A Hatóság az Európai Audiovizuális Obszervatórium (European Audiovisual Observatory) és más európai és nemzetközi szervezetek által igényelt, a nyilvántartásában szereplő, mozgóképszakmai területre vonatkozó magyarországi adatokról hivatalos igazolást állít ki, és azokat továbbítja.
 
-(2) A Hivatal felhívhatja az e törvény hatálya alá tartozó személyeket és szervezeteket minden olyan adat szolgáltatására, amely a Hivatal e törvényben meghatározott és hatáskörébe utalt feladatok ellátásához elengedhetetlenül szükséges, kivételesen abban az esetben is, ha az törvény által védett titoknak minősül, ide nem értve a minősített adatokat. E felhívás ellen jogorvoslatnak helye nincs, a felhívás a (3) bekezdésben foglalt esetben kibocsátott hatósági határozat elleni jogorvoslati kérelemben támadható.
+(2) A Hatóság felhívhatja az e törvény hatálya alá tartozó személyeket és szervezeteket minden olyan adat szolgáltatására, amely a Hatóság e törvényben meghatározott és hatáskörébe utalt feladatok ellátásához elengedhetetlenül szükséges, kivételesen abban az esetben is, ha az törvény által védett titoknak minősül, ide nem értve a minősített adatokat. E felhívás ellen jogorvoslatnak helye nincs, a felhívás a (3) bekezdésben foglalt esetben kibocsátott hatósági határozat elleni jogorvoslati kérelemben támadható.
 
-(3) Amennyiben a (2) bekezdésben foglalt felhívást az adatszolgáltatásra felhívott nem vagy nem megfelelően teljesíti, úgy a Hivatal hatósági határozatában kötelezheti a felhívásban foglalt adatok szolgáltatására.
+(3) Amennyiben a (2) bekezdésben foglalt felhívást az adatszolgáltatásra felhívott nem vagy nem megfelelően teljesíti, úgy a Hatóság hatósági határozatában kötelezheti a felhívásban foglalt adatok szolgáltatására.
 
-(4) A Hivatal az e törvény hatálya alá tartozó személyeket és szervezeteket hatósági határozatában időszakos vagy folyamatos adatszolgáltatásra is kötelezheti.
+(4) A Hatóság az e törvény hatálya alá tartozó személyeket és szervezeteket hatósági határozatában időszakos vagy folyamatos adatszolgáltatásra is kötelezheti.
 
-(5) A Hivatal e törvény hatálya alá tartozó személyeket és szervezeteket hatósági határozatában a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve folyamatba épített ellenőrző rendszerből történő táv-adatszolgáltatásra kötelezheti.
+(5) A Hatóság e törvény hatálya alá tartozó személyeket és szervezeteket hatósági határozatában a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve folyamatba épített ellenőrző rendszerből történő táv-adatszolgáltatásra kötelezheti.
 
-(6) Az ügyfél a Hivatal (3)–(5) bekezdés szerinti határozatát a határozat közlésétől számított tizenöt napon belül támadhatja meg közigazgatási perben. A keresetlevél benyújtásának halasztó hatálya van.
+(6) Az ügyfél a Hatóság (3)–(5) bekezdés szerinti határozatát a határozat közlésétől számított tizenöt napon belül támadhatja meg közigazgatási perben. A keresetlevél benyújtásának halasztó hatálya van.
 
-(7) Amennyiben az adatszolgáltatásra kötelezett a (3)–(5) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hivatal – a jogsértő előző évben elért nettó árbevételét és a jogsértés ismételtségét figyelembe véve – bírságot szab ki, amelynek mértéke legfeljebb ötszázezer forint.
+(7) Amennyiben az adatszolgáltatásra kötelezett a (3)–(5) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hatóság – a jogsértő előző évben elért nettó árbevételét és a jogsértés ismételtségét figyelembe véve – bírságot szab ki, amelynek mértéke legfeljebb ötszázezer forint.
 
 (8) Az e §-ban foglalt adatszolgáltatás során az adatszolgáltató felelős az adat tartalmának megfelelőségéért, időszerűségéért, hitelességéért, pontosságáért, ellenőrizhetőségéért és helyességéért.
 
 ### Jogkövetkezmények
 
-19/H. § (1) A Hivatal e törvényben, illetve az e törvény felhatalmazása keretében kibocsátott jogszabályban foglaltak megsértőjével szemben e törvényben meghatározottak szerint jogkövetkezményt alkalmazhat.
+19/H. § (1) A Hatóság e törvényben, illetve az e törvény felhatalmazása keretében kibocsátott jogszabályban foglaltak megsértőjével szemben e törvényben meghatározottak szerint jogkövetkezményt alkalmazhat.
 
-(2) A jogkövetkezmény alkalmazása során a Hivatal az egyenlő bánásmód elvét követve a fokozatosság és az arányosság elvére tekintettel jár el; a jogsértés súlyához, illetve ismétlődéséhez igazodóan alkalmazza a fokozatosság elvét, valamint az eset összes körülményéhez és a jogkövetkezmény által elérni kívánt célhoz képest arányos jogkövetkezményt alkalmaz.
+(2) A jogkövetkezmény alkalmazása során a Hatóság az egyenlő bánásmód elvét követve a fokozatosság és az arányosság elvére tekintettel jár el; a jogsértés súlyához, illetve ismétlődéséhez igazodóan alkalmazza a fokozatosság elvét, valamint az eset összes körülményéhez és a jogkövetkezmény által elérni kívánt célhoz képest arányos jogkövetkezményt alkalmaz.
 
-(3) Amennyiben a jogsértés csekély súlyú és ismételtség nem állapítható meg, a Hivatal – a jogsértés tényének megállapítása és figyelmeztetés mellett – legfeljebb harmincnapos határidő tűzésével felhívhatja a jogsértőt a jogsértő magatartás megszüntetésére, a jövőbeni jogsértésektől való tartózkodásra, illetve a jogszerű magatartás tanúsítására, és meghatározhatja annak feltételeit.
+(3) Amennyiben a jogsértés csekély súlyú és ismételtség nem állapítható meg, a Hatóság – a jogsértés tényének megállapítása és figyelmeztetés mellett – legfeljebb harmincnapos határidő tűzésével felhívhatja a jogsértőt a jogsértő magatartás megszüntetésére, a jövőbeni jogsértésektől való tartózkodásra, illetve a jogszerű magatartás tanúsítására, és meghatározhatja annak feltételeit.
 
 (4) A (3) bekezdésben meghatározott felhívás keretében a (7) bekezdésben meghatározott mérlegelési szempontok nem alkalmazandók.
 
-(5) Amennyiben a felhívás az ügy összes körülményeire tekintettel nem alkalmazható, vagy nem lenne a jogsértés megszüntetésére vonatkozó kötelezettség kikényszerítésére hatékony eszköz, a Hivatal – a felhívás mellőzésére vonatkozó indokolás nélkül – a jogsértő magatartás tanúsítását megtiltja, az e törvényben foglaltak érvényesítése keretében kötelezettséget állapíthat meg, illetve a (8) bekezdésben meghatározott jogkövetkezményeket alkalmazhat.
+(5) Amennyiben a felhívás az ügy összes körülményeire tekintettel nem alkalmazható, vagy nem lenne a jogsértés megszüntetésére vonatkozó kötelezettség kikényszerítésére hatékony eszköz, a Hatóság – a felhívás mellőzésére vonatkozó indokolás nélkül – a jogsértő magatartás tanúsítását megtiltja, az e törvényben foglaltak érvényesítése keretében kötelezettséget állapíthat meg, illetve a (8) bekezdésben meghatározott jogkövetkezményeket alkalmazhat.
 
-(6) Ismételt jogsértés esetén a Hivatal kétmillió forintig terjedő bírsággal sújthatja a jogsértő szervezet vezető tisztségviselőjét a jogsértés súlyához, jellegéhez, illetve az egyedi ügy sajátosságaihoz mérten.
+(6) Ismételt jogsértés esetén a Hatóság kétmillió forintig terjedő bírsággal sújthatja a jogsértő szervezet vezető tisztségviselőjét a jogsértés súlyához, jellegéhez, illetve az egyedi ügy sajátosságaihoz mérten.
 
-(7) A Hivatal a jogkövetkezményt, a jogsértés jellegétől függően a jogsértés súlyára, a jogsértés ismételtségére, folyamatosságára, időtartamára, a jogsértéssel elért vagyoni előnyre, valamint a jogsértéssel okozott érdeksérelemre, az érdeksérelmet szenvedett és veszélyeztetett személyek számára, illetve a jogsértéssel okozott kárra és a jogsértés piacra gyakorolt hatására, továbbá az egyedi ügyben értékelhető egyéb szempontokra tekintettel állapítja meg.
+(7) A Hatóság a jogkövetkezményt, a jogsértés jellegétől függően a jogsértés súlyára, a jogsértés ismételtségére, folyamatosságára, időtartamára, a jogsértéssel elért vagyoni előnyre, valamint a jogsértéssel okozott érdeksérelemre, az érdeksérelmet szenvedett és veszélyeztetett személyek számára, illetve a jogsértéssel okozott kárra és a jogsértés piacra gyakorolt hatására, továbbá az egyedi ügyben értékelhető egyéb szempontokra tekintettel állapítja meg.
 
-(8) A Hivatal a következő jogkövetkezmények alkalmazására jogosult:
+(8) A Hatóság a következő jogkövetkezmények alkalmazására jogosult:
 
-- a) ha a filmterjesztő a Hivatal korhatár besorolása nélkül terjeszti a filmalkotást, vagy a mozielőzetest, illetve, ha a Hivatal döntése ellenére a korhatár szerinti jelzés nem vagy nem megfelelően kerül feltüntetésre, valamint a terjesztésre kerülő filmalkotások nyilvántartásában nem szereplő filmalkotás jogellenes terjesztése esetén a Hivatal a filmterjesztőt, illetve a jogellenes helyzet kialakulásáért felelős személyt vagy szervezetet, ideértve a filmalkotást kereskedelmi forgalomba hozó személyt vagy szervezetet is, tízezer forinttól hárommillió forintig terjedő bírság megfizetésére kötelezheti;
+- a) ha a filmterjesztő a Hatóság korhatár besorolása nélkül terjeszti a filmalkotást, vagy a mozielőzetest, illetve, ha a Hatóság döntése ellenére a korhatár szerinti jelzés nem vagy nem megfelelően kerül feltüntetésre, valamint a terjesztésre kerülő filmalkotások nyilvántartásában nem szereplő filmalkotás jogellenes terjesztése esetén a Hatóság a filmterjesztőt, illetve a jogellenes helyzet kialakulásáért felelős személyt vagy szervezetet, ideértve a filmalkotást kereskedelmi forgalomba hozó személyt vagy szervezetet is, tízezer forinttól hárommillió forintig terjedő bírság megfizetésére kötelezheti;
 - b) a jogsértőt kötelezheti közleménynek a jogsértő internetes honlapja nyitóoldalán, sajtótermékben vagy más megjelölt módon történő közzétételére a határozatban meghatározott módon és ideig;
-- c) ha e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály alapján adatszolgáltatásra vagy bejelentésre kötelezett az adatszolgáltatási vagy bejelentési kötelezettségét nem vagy késedelmesen teljesíti, a Hivatal harmincezer forinttól ötszázezer forintig terjedő bírságot szabhat ki;
-- d) e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály a) és c) pontokban nem szabályozott rendelkezéseinek, valamint a Hatóság hatósági döntésének e törvényben nem szabályozott egyéb megsértése esetén a Hivatal háromezer forinttól egymillió forintig terjedő bírságot szabhat ki;
+- c) ha e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály alapján adatszolgáltatásra vagy bejelentésre kötelezett az adatszolgáltatási vagy bejelentési kötelezettségét nem vagy késedelmesen teljesíti, a Hatóság harmincezer forinttól ötszázezer forintig terjedő bírságot szabhat ki;
+- d) e törvény vagy e törvény felhatalmazása keretében kibocsátott jogszabály a) és c) pontokban nem szabályozott rendelkezéseinek, valamint a Hatóság hatósági döntésének e törvényben nem szabályozott egyéb megsértése esetén a Hatóság háromezer forinttól egymillió forintig terjedő bírságot szabhat ki;
 - e) e törvényben meghatározott egyéb jogkövetkezményeket alkalmazhat.
 
 (9) A (6) és (8) bekezdés alkalmazásában ismételtségnek tekintendő, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és jogszabályhely tekintetében, ugyanazon tárgykörben valósítja meg.
@@ -519,7 +519,7 @@ az időpontja.
 
 (11) A meg nem fizetett bírság adók módjára behajtható köztartozásnak minősül. A befolyt bírságot e törvényben meghatározott célok megvalósítására kell fordítani.
 
-(12) A Hivatal – a kötelezett költségére – a 21/A. § (6) bekezdés szerinti azonnali végrehajthatóságra tekintettel maga gondoskodik a hatósági döntésbe foglalt korhatárjelzés feltüntetéséről, amennyiben annak az ügyfél, határidőt tartalmazó felhívás ellenére nem, vagy nem megfelelően tesz eleget.
+(12) A Hatóság – a kötelezett költségére – a 21/A. § (6) bekezdés szerinti azonnali végrehajthatóságra tekintettel maga gondoskodik a hatósági döntésbe foglalt korhatárjelzés feltüntetéséről, amennyiben annak az ügyfél, határidőt tartalmazó felhívás ellenére nem, vagy nem megfelelően tesz eleget.
 
 ### Megkeresések, büntetőeljárás kezdeményezése
 
@@ -533,11 +533,11 @@ az időpontja.
 
 ### Általános hatósági felügyelet
 
-19/J. § (1) A Hivatal kérelemre vagy hivatalból, feladat- és hatáskörének keretében jogosult hatósági ellenőrzés vagy hatósági eljárás keretében felügyelni az e törvény, illetve az e törvény felhatalmazása keretében kibocsátott jogszabály rendelkezéseinek érvényesülését, betartását, valamint a hatósági döntéseiben, a támogatási szerződésekben foglaltak teljesítését.
+19/J. § (1) A Hatóság kérelemre vagy hivatalból, feladat- és hatáskörének keretében jogosult hatósági ellenőrzés vagy hatósági eljárás keretében felügyelni az e törvény, illetve az e törvény felhatalmazása keretében kibocsátott jogszabály rendelkezéseinek érvényesülését, betartását, valamint a hatósági döntéseiben, a támogatási szerződésekben foglaltak teljesítését.
 
-(2) Amennyiben a Hivatal a hatósági döntésének ellenőrzése eredményeként megállapítja a hatósági döntésében foglaltak megsértését, abban az esetben az ügy összes körülményei, illetve az ellenőrzés során feltárt tények, valamint a jogsértés súlya és a hatékony jogérvényesítés szempontjai alapján mérlegeli, hogy a döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
+(2) Amennyiben a Hatóság a hatósági döntésének ellenőrzése eredményeként megállapítja a hatósági döntésében foglaltak megsértését, abban az esetben az ügy összes körülményei, illetve az ellenőrzés során feltárt tények, valamint a jogsértés súlya és a hatékony jogérvényesítés szempontjai alapján mérlegeli, hogy a döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
-(3) Az általános hatósági felügyelet keretében feltárt jogsértések esetében a Hivatal a 19/H. §-ban meghatározott jogkövetkezményeket alkalmazhatja.
+(3) Az általános hatósági felügyelet keretében feltárt jogsértések esetében a Hatóság a 19/H. §-ban meghatározott jogkövetkezményeket alkalmazhatja.
 
 #### 2/A. Cím
 
@@ -681,7 +681,7 @@ az időpontja.
 - e) Azt a filmalkotást, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erőszak, illetve a szexualitás közvetlen, naturális ábrázolása, az V. kategóriába kell sorolni. Az ilyen filmalkotás minősítése: tizennyolc éven aluliak számára nem ajánlott.
 - f) Azt a filmalkotást, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének súlyos károsítására, különösen azáltal, hogy pornográfiát vagy szélsőséges, illetve indokolatlan erőszakot tartalmaz, a VI. kategóriába kell sorolni. Az ilyen filmalkotás minősítése: kizárólag felnőttek számára ajánlott. Ezeket a filmalkotásokat vagy speciális – kizárólag felnőttek számára elérhető – terjesztői hálózatban, vagy csak 22 és 05 óra között lehet moziban és egyéb nyilvános vetítőhelyen (filmklubban) nyilvánosan bemutatni.
 
-21/A. § (1) A filmterjesztő a terjesztés megkezdésének tervezett időpontját legalább 30 nappal megelőzően kérelmezi a besorolást a Hivatalnál. A kérelem tartalmazza
+21/A. § (1) A filmterjesztő a terjesztés megkezdésének tervezett időpontját legalább 30 nappal megelőzően kérelmezi a besorolást a Hatóságnál. A kérelem tartalmazza
 
 - a) a filmterjesztő által terjeszteni kívánt filmalkotás
   - aa) magyar és eredeti nyelvű címét,
@@ -691,89 +691,89 @@ az időpontja.
 - b) a filmterjesztőnek a filmalkotás besorolására vonatkozó javaslatát a 21. §-ban meghatározott kategóriák alapján, valamint
 - c) a terjesztés megkezdésének tervezett időpontját.
 
-(1a) Ha az (1) bekezdésben meghatározott adatok a kérelem benyújtásakor a filmterjesztőn, illetve az érdekkörén kívül álló okból nem állnak rendelkezésre, a filmterjesztő az adatok rendelkezésére állását követően haladéktalanul – de legkésőbb a filmalkotás magyarországi bemutatóját követő 90 napon belül – köteles azokat a Hivatalnak megküldeni. A filmterjesztő a kérelem benyújtásakor igazolja, hogy a hiányzó adatok a rajta, illetve az érdekkörén kívül álló okból nem állnak a rendelkezésére.
+(1a) Ha az (1) bekezdésben meghatározott adatok a kérelem benyújtásakor a filmterjesztőn, illetve az érdekkörén kívül álló okból nem állnak rendelkezésre, a filmterjesztő az adatok rendelkezésére állását követően haladéktalanul – de legkésőbb a filmalkotás magyarországi bemutatóját követő 90 napon belül – köteles azokat a Hatóságnak megküldeni. A filmterjesztő a kérelem benyújtásakor igazolja, hogy a hiányzó adatok a rajta, illetve az érdekkörén kívül álló okból nem állnak a rendelkezésére.
 
-(1b) Az (1a) bekezdés szerinti kötelezettség teljesítésének elmulasztása esetén a Hivatal a 19/H. § (8) bekezdés d) pontjában meghatározott jogkövetkezményt alkalmazhatja.
+(1b) Az (1a) bekezdés szerinti kötelezettség teljesítésének elmulasztása esetén a Hatóság a 19/H. § (8) bekezdés d) pontjában meghatározott jogkövetkezményt alkalmazhatja.
 
 (2) A kérelemmel egyidejűleg be kell nyújtani a filmalkotás egy megtekintésre alkalmas példányát.
 
 (3) Idegen nyelven készült filmalkotás esetén, ha a filmalkotásból szinkronizált vagy feliratos változat nem áll rendelkezésre, be kell nyújtani a filmalkotás magyar nyelvű dialóglistáját is.
 
-(4) A Hivatal az eljáró Korhatár Bizottság javaslata alapján a bejelentéstől számított 15 napon belül dönt a filmalkotás besorolási kategóriájáról.
+(4) A Hatóság az eljáró Korhatár Bizottság javaslata alapján a bejelentéstől számított 15 napon belül dönt a filmalkotás besorolási kategóriájáról.
 
 (5) Amennyiben e törvény eltérően nem rendelkezik, a hatósági döntéssel megállapított korhatár besorolás nélkül a filmalkotás terjesztését, így különösen korhatár besorolás nélküli mozielőzetes felhasználásával a hirdetési tevékenységet nem lehet megkezdeni.
 
-(6) A Hivatal besorolási eljárásban hozott elsőfokú döntése fellebbezésre tekintet nélkül azonnal végrehajtható.
+(6) A Hatóság besorolási eljárásban hozott elsőfokú döntése fellebbezésre tekintet nélkül azonnal végrehajtható.
 
-(7) A Hivatal a korhatár-besorolás tárgyában lefolytatott hatósági eljárást lezáró elsőfokú döntés meghozatalát követően haladéktalanul bejegyzi a filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket – hivatalból indított eljárásban – a terjesztésre kerülő filmalkotásokról vezetett hatósági nyilvántartásába.
+(7) A Hatóság a korhatár-besorolás tárgyában lefolytatott hatósági eljárást lezáró elsőfokú döntés meghozatalát követően haladéktalanul bejegyzi a filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket – hivatalból indított eljárásban – a terjesztésre kerülő filmalkotásokról vezetett hatósági nyilvántartásába.
 
 (8) A terjesztésre kerülő filmalkotások nyilvántartásában nem szereplő filmalkotás nem terjeszthető.
 
-21/B. § (1) Amennyiben a filmterjesztő a hirdetési tevékenységet a terjesztés (bemutató) megkezdésének tervezett időpontját legalább 30 nappal megelőző időpontban kívánja megkezdeni, és a filmalkotás 21/A. § szerinti benyújtásra alkalmas példánya még nem áll rendelkezésére, kérheti a Hivataltól a mozielőzetes önálló besorolását a 21. §-ban meghatározott kategóriák alapján (mozielőzetes önálló besorolása). Korhatár besorolás nélküli mozielőzetes felhasználásával a hirdetési tevékenységet nem lehet megkezdeni.
+21/B. § (1) Amennyiben a filmterjesztő a hirdetési tevékenységet a terjesztés (bemutató) megkezdésének tervezett időpontját legalább 30 nappal megelőző időpontban kívánja megkezdeni, és a filmalkotás 21/A. § szerinti benyújtásra alkalmas példánya még nem áll rendelkezésére, kérheti a Hatóságtól a mozielőzetes önálló besorolását a 21. §-ban meghatározott kategóriák alapján (mozielőzetes önálló besorolása). Korhatár besorolás nélküli mozielőzetes felhasználásával a hirdetési tevékenységet nem lehet megkezdeni.
 
-(2) A filmterjesztő a mozielőzetes önálló besorolására irányuló kérelmét a hirdetési tevékenység megkezdésének tervezett időpontját legalább 30 nappal megelőzően nyújthatja be a Hivatalhoz. A filmterjesztő – a készülő filmalkotás tartalmára, várható besorolási kategóriájára tekintettel – indokolt kérelmében megjelölheti azt a 21. § szerinti besorolási kategóriát, amelynél alacsonyabb kategóriába a mozielőzetest tartalmától függetlenül nem kéri besorolni.
+(2) A filmterjesztő a mozielőzetes önálló besorolására irányuló kérelmét a hirdetési tevékenység megkezdésének tervezett időpontját legalább 30 nappal megelőzően nyújthatja be a Hatósághoz. A filmterjesztő – a készülő filmalkotás tartalmára, várható besorolási kategóriájára tekintettel – indokolt kérelmében megjelölheti azt a 21. § szerinti besorolási kategóriát, amelynél alacsonyabb kategóriába a mozielőzetest tartalmától függetlenül nem kéri besorolni.
 
-(3) A 21/A. § (4) és (6) bekezdésében foglaltakat a mozielőzetes önálló besorolása esetén is megfelelően alkalmazni kell azzal, hogy a mozielőzetes önálló besorolása tárgyában hozott döntésben megállapított kategóriát a filmalkotás 21/A. § szerinti korhatár-besorolása tárgyában meghozott elsőfokú döntés nem módosítja, de a mozielőzetesen a filmalkotás korhatár-besorolása tárgyában meghozott elsőfokú döntést követően a filmalkotás korhatár besorolásának megfelelő jelzést kell feltüntetni az Elnök rendeletében foglaltak szerint.
+(3) A 21/A. § (4) és (6) bekezdésében foglaltakat a mozielőzetes önálló besorolása esetén is megfelelően alkalmazni kell azzal, hogy a mozielőzetes önálló besorolása tárgyában hozott döntésben megállapított kategóriát a filmalkotás 21/A. § szerinti korhatár-besorolása tárgyában meghozott elsőfokú döntés nem módosítja, de a mozielőzetesen a filmalkotás korhatár-besorolása tárgyában meghozott elsőfokú döntést követően a filmalkotás korhatár besorolásának megfelelő jelzést kell feltüntetni a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében foglaltak szerint.
 
-(4) Amennyiben a filmterjesztő a mozielőzetes önálló besorolását kéri, a 21/A. § (2) bekezdés szerinti filmalkotást a rendelkezésére állás, illetve birtokába kerülés után haladéktalanul – de legkésőbb a 21/A. § (1) bekezdés szerinti határidőig – köteles besorolásra benyújtani a Hivatalhoz a 21/A. §-ban foglaltak szerint.
+(4) Amennyiben a filmterjesztő a mozielőzetes önálló besorolását kéri, a 21/A. § (2) bekezdés szerinti filmalkotást a rendelkezésére állás, illetve birtokába kerülés után haladéktalanul – de legkésőbb a 21/A. § (1) bekezdés szerinti határidőig – köteles besorolásra benyújtani a Hatósághoz a 21/A. §-ban foglaltak szerint.
 
 21/C. § (1) Moziban a filmalkotást megelőzően kizárólag olyan mozielőzetes vetíthető, amelynek a besorolási kategóriája nem magasabb az azt követő filmalkotás besorolási kategóriájánál. A minél szélesebb körben történő hirdethetőség érdekében a filmterjesztő kérheti a mozielőzetes besorolását abban az esetben is, ha a filmalkotás már besorolásra került.
 
 (1a) Az adathordozón kizárólag olyan mozielőzetest, illetve hirdetést lehet közzétenni, amelynek besorolási kategóriája nem magasabb, mint az adathordozón közzétett filmalkotás besorolási kategóriája. Ha az adathordozó több filmalkotást tartalmaz, a mozielőzetes, illetve hirdetés közzétételének szempontjából a legmagasabb kategóriájú filmalkotás az irányadó.
 
-(2) A Hivatal a határozatában megjelöli azt a filmalkotásénál alacsonyabb besorolási kategóriát, amelybe tartalma alapján a mozielőzetes tartozik, és amelyet az (1) bekezdés szerinti hirdetési tevékenységnél figyelembe kell venni, azzal, hogy a mozielőzetesen ebben az esetben is a filmalkotás korhatár besorolásának megfelelő jelzést kell feltüntetni az Elnök rendeletében foglaltak szerint.
+(2) A Hatóság a határozatában megjelöli azt a filmalkotásénál alacsonyabb besorolási kategóriát, amelybe tartalma alapján a mozielőzetes tartozik, és amelyet az (1) bekezdés szerinti hirdetési tevékenységnél figyelembe kell venni, azzal, hogy a mozielőzetesen ebben az esetben is a filmalkotás korhatár besorolásának megfelelő jelzést kell feltüntetni a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében foglaltak szerint.
 
 (3) A kérelemhez mellékelni kell a mozielőzetes egy példányát megtekintésre alkalmas hordozón.
 
-(4) Ha a mozielőzetes besorolási kategóriája a filmalkotásénál nem alacsonyabb, a Hivatal a kérelmet elutasítja.
+(4) Ha a mozielőzetes besorolási kategóriája a filmalkotásénál nem alacsonyabb, a Hatóság a kérelmet elutasítja.
 
 (5) A 21/A. § (4) és (6) bekezdésében foglaltakat a mozielőzetes e § szerinti besorolása esetén is megfelelően alkalmazni kell.
 
 ### A Korhatár Bizottság
 
-22. § A Hivatal létrehozza és működteti a Korhatár Bizottságot, amely a Hivatalnak javaslatot tesz a filmalkotások kategóriákba sorolására.
+22. § A Hatóság létrehozza és működteti a Korhatár Bizottságot, amely a Hatóságnak javaslatot tesz a filmalkotások kategóriákba sorolására.
 
-23. § (1) A Korhatár Bizottság legalább tizennégy, legfeljebb huszonnyolc tagból áll. A Korhatár Bizottság működtetése érdekében a Hivatal együttműködési megállapodásokat köt az általa kiválasztott alábbi társadalmi szervezetekkel:
+23. § (1) A Korhatár Bizottság legalább tizennégy, legfeljebb huszonnyolc tagból áll. A Korhatár Bizottság működtetése érdekében a Hatóság együttműködési megállapodásokat köt az általa kiválasztott alábbi társadalmi szervezetekkel:
 
 - a) a média gyermekek fejlődésére gyakorolt hatásaival foglalkozó társadalmi szervezettel vagy szervezetekkel,
 - b) a média-, illetve mozgóképoktatással is foglalkozó pedagógus szervezettel vagy szervezetekkel,
 - c) gyermekpszichológusokat tömörítő szervvel, szervezettel vagy szervezetekkel,
 - d) a filmterjesztők szakmai szervezetével.
 
-(2) Az (1) bekezdés szerinti együttműködési megállapodásokon keresztül a Hivatal biztosítja, hogy a társadalmi szervezetek megfelelő számú és végzettségű tagot delegáljanak a Korhatár Bizottságba. A Hivatal az NMHH köztisztviselői közül is delegálhat megfelelő végzettségű és a média gyermekek fejlődésére gyakorolt hatásai tekintetében tapasztalattal rendelkező tagot a Korhatár Bizottságba.
+(2) Az (1) bekezdés szerinti együttműködési megállapodásokon keresztül a Hatóság biztosítja, hogy a társadalmi szervezetek megfelelő számú és végzettségű tagot delegáljanak a Korhatár Bizottságba. A Hatóság a vele kormányzati szolgálati jogviszonyban állók közül is delegálhat megfelelő végzettségű és a média gyermekek fejlődésére gyakorolt hatásai tekintetében tapasztalattal rendelkező tagot a Korhatár Bizottságba.
 
-(3) Az eljáró Korhatár Bizottságot a Korhatár Bizottság tagjai közül a Hivatal kéri fel és hívja össze. Az eljáró Korhatár Bizottság legalább hét tagból áll. Az eljáró Korhatár Bizottságot úgy kell összeállítani, hogy abban jelen legyen legalább
+(3) Az eljáró Korhatár Bizottságot a Korhatár Bizottság tagjai közül a Hatóság kéri fel és hívja össze. Az eljáró Korhatár Bizottság legalább hét tagból áll. Az eljáró Korhatár Bizottságot úgy kell összeállítani, hogy abban jelen legyen legalább
 
 - a) kettő, a média gyermekek fejlődésére gyakorolt hatására vonatkozóan szakmai tapasztalattal rendelkező pszichológus végzettségű személy,
 - b) kettő, a filmterjesztés vagy a média- vagy a mozgóképoktatás területén szakmai tapasztalattal rendelkező pedagógus végzettségű személy,
 - c) kettő, a média gyermekek fejlődésére gyakorolt hatására vonatkozóan szakmai tapasztalattal rendelkező felsőfokú végzettségű személy,
 - d) a filmterjesztők egy képviselője.
 
-(4) A Korhatár Bizottság tagjai az Elnök által megállapított tiszteletdíjban, az eljáró Korhatár Bizottság tagjai az Elnök által megállapított költségtérítésben részesülnek.
+(4) A Korhatár Bizottság tagjai a 18. § (2) bekezdésben meghatározott, a Kormány által rendeletben kijelölt miniszter által megállapított tiszteletdíjban, az eljáró Korhatár Bizottság tagjai a 18. § (2) bekezdésben meghatározott, a Kormány által rendeletben kijelölt miniszter által megállapított költségtérítésben részesülnek.
 
 (5) A miniszter, az oktatásért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a Médiatanács és az NFI egy-egy, a gyermek- és ifjúságvédelem területén tapasztalattal rendelkező delegáltja a Korhatár Bizottság ülésein szakértőként részt vehet.
 
 ### A filmalkotások besorolásának közzététele
 
-24. § A filmterjesztő köteles a Hivatal által megállapított kategória szerinti jelzést a filmalkotáson, illetve a mozielőzetesen, azok minden nyilvános vetítésén, minden általa forgalomba hozott adathordozó csomagolásán, illetve borítóján, továbbá a filmalkotással kapcsolatos minden közleményben és hirdetésben, az Elnök rendeletében meghatározottak szerint, jól észlelhető módon feltüntetni.
+24. § A filmterjesztő köteles a Hatóság által megállapított kategória szerinti jelzést a filmalkotáson, illetve a mozielőzetesen, azok minden nyilvános vetítésén, minden általa forgalomba hozott adathordozó csomagolásán, illetve borítóján, továbbá a filmalkotással kapcsolatos minden közleményben és hirdetésben, a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében meghatározottak szerint, jól észlelhető módon feltüntetni.
 
 ### Filmek és mozik besorolása a filmterjesztés támogatása érdekében
 
-25. § (1) A Hivatal a művészi értékű vagy kulturális jelentőségük miatt támogatásra érdemes filmalkotásoknak, terjesztésük elősegítése céljából a filmalkotás előállítójának vagy terjesztőjének kérelmére hatósági határozatban „art” minősítést adhat.
+25. § (1) A Hatóság a művészi értékű vagy kulturális jelentőségük miatt támogatásra érdemes filmalkotásoknak, terjesztésük elősegítése céljából a filmalkotás előállítójának vagy terjesztőjének kérelmére hatósági határozatban „art” minősítést adhat.
 
-(2) A Hivatal bármely mozinak, amelynek üzemeltetője a jogszabályban meghatározott feltételek betartását vállalja, az üzemeltető kérelmére hatósági határozatával „art” minősítést ad. „Art” minősítés, több termes mozi esetén a mozi valamely termének is adható, amennyiben a moziüzemeltető az „art” mozikra vonatkozó feltételek betartását az adott terem tekintetében vállalja.
+(2) A Hatóság bármely mozinak, amelynek üzemeltetője a jogszabályban meghatározott feltételek betartását vállalja, az üzemeltető kérelmére hatósági határozatával „art” minősítést ad. „Art” minősítés, több termes mozi esetén a mozi valamely termének is adható, amennyiben a moziüzemeltető az „art” mozikra vonatkozó feltételek betartását az adott terem tekintetében vállalja.
 
 (3) Az „art” mozivá való minősítés feltételeit a miniszter rendeletben határozza meg.
 
 25/A. § (1) Az „art” mozibesorolás iránti kérelemben a mozi üzemeltetőjének meg kell jelölnie a besorolásra kerülő mozi nevét, címét, az üzemeltető nevét, székhelyét, cégjegyzékszámát, valamint nyilatkozni kell arról, hogy az üzemeltető a tárgyévre vonatkozóan vállalja az „art” mozi, illetve az „art” moziterem minősítésre vonatkozó feltételek betartását.
 
-(2) Ha a besorolásra vonatkozó kérelem beadását követően az (1) bekezdésben meghatározott adatokban változás történik, azt az üzemeltető köteles a változást követő 15 napon belül írásban bejelenteni a Hivatalnak.
+(2) Ha a besorolásra vonatkozó kérelem beadását követően az (1) bekezdésben meghatározott adatokban változás történik, azt az üzemeltető köteles a változást követő 15 napon belül írásban bejelenteni a Hatóságnak.
 
-(3) A (2) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az üzemeltető kéri – a (2) bekezdés szerinti határidőben értesíti a Hivatalt.
+(3) A (2) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az üzemeltető kéri – a (2) bekezdés szerinti határidőben értesíti a Hatóságot.
 
-25/B. § (1) A Hivatal folyamatosan ellenőrzi az „art” minősítéssel ellátott mozikat, hogy megfelelnek-e az „art” mozi minősítés jogszabályban előírt feltételeinek.
+25/B. § (1) A Hatóság folyamatosan ellenőrzi az „art” minősítéssel ellátott mozikat, hogy megfelelnek-e az „art” mozi minősítés jogszabályban előírt feltételeinek.
 
-(2) A moziüzemeltető az általa üzemeltetett „art” mozik, illetve mozitermek szerinti bontásban minden naptári negyedévet követő hó 20. napjáig köteles a Hivatalnak, a Hivatal által meghatározott módon adatot szolgáltatni
+(2) A moziüzemeltető az általa üzemeltetett „art” mozik, illetve mozitermek szerinti bontásban minden naptári negyedévet követő hó 20. napjáig köteles a Hatóságnak, a Hatóság által meghatározott módon adatot szolgáltatni
 
 - a) az ott vetített filmalkotás címéről,
 - b) a vetítés időpontjáról és helyszínéről,
@@ -788,40 +788,40 @@ az időpontja.
   - gd) nemzetközileg elismert, a mozgóképszakmai hatóság által közzétett jegyzékben meghatározott nemzetközi filmfesztivál verseny- vagy versenyen kívüli valamely programjában szerepel-e, továbbá
 - h) a nemzeti filmvagyonba tartozó, a moziban megrendezésre kerülő, nemzetközi egyezmény vagy szakmai szervezet által szervezett filmnap, filmhét vagy filmfesztivál programjába tartozó, az NFI-től kölcsönzött, vagy nemzetközileg elismert, a mozgóképszakmai hatóság által közzétett jegyzékben meghatározott nemzetközi filmfesztivál verseny- vagy versenyen kívüli valamely programjában szereplő filmalkotással kapcsolatos egyéb jellemzőkről.
 
-(3) A Hivatal a 19/H. § (3) bekezdése szerinti határozatával adatszolgáltatásra kötelezi a moziüzemeltetőt, ha a moziüzemeltető az (1) bekezdés szerinti kötelezettségének nem vagy nem megfelelően tesz eleget.
+(3) A Hatóság a 19/H. § (3) bekezdése szerinti határozatával adatszolgáltatásra kötelezi a moziüzemeltetőt, ha a moziüzemeltető az (1) bekezdés szerinti kötelezettségének nem vagy nem megfelelően tesz eleget.
 
-25/C. § (1) A Hivatal az „art” besorolást az adott mozi (moziterem) vonatkozásában visszavonja, ha
+25/C. § (1) A Hatóság az „art” besorolást az adott mozi (moziterem) vonatkozásában visszavonja, ha
 
 - a) nem teljesülnek az „art” mozikra vonatkozó, jogszabályban meghatározott követelmények, vagy
 - b) a moziüzemeltető a 25/B. § (2) bekezdésében meghatározott adatszolgáltatási kötelezettségének a 25/B. § (3) bekezdésében foglalt adatszolgáltatásra kötelezés ellenére sem tesz eleget.
 
-(2) A Hivatal az „art” mozikat, illetve mozitermeket támogatót haladéktalanul értesíti, ha az adott mozi (moziterem) „art” minősítését visszavonta.
+(2) A Hatóság az „art” mozikat, illetve mozitermeket támogatót haladéktalanul értesíti, ha az adott mozi (moziterem) „art” minősítését visszavonta.
 
 (3) Az (1) bekezdés esetén újabb „art” besorolásra vonatkozó ismételt kérelem csak a visszavonást követő negyedévben terjeszthető elő.
 
-25/D. § A mozik vagy mozitermek „art” besorolása esetében a Hivatal az e tárgyában hozott határozat jogerőre emelkedését követően haladéktalanul bejegyzi – hivatalból indított eljárásban – az „art” minősítésű mozit vagy mozitermet az „art” mozik és mozitermekről vezetett hatósági nyilvántartásába. Az „art” mozik és mozitermekről vezetett nyilvántartás tartalmazza a 25/A. §-ban foglalt adatokat, továbbá az Elnök rendeletében megállapított további adatokat. A nyilvántartásba vétel részletes szabályait az Elnök rendelete határozza meg.
+25/D. § A mozik vagy mozitermek „art” besorolása esetében a Hatóság az e tárgyában hozott határozat véglegessé válását követően haladéktalanul bejegyzi – hivatalból indított eljárásban – az „art” minősítésű mozit vagy mozitermet az „art” mozik és mozitermekről vezetett hatósági nyilvántartásába. Az „art” mozik és mozitermekről vezetett nyilvántartás tartalmazza a 25/A. §-ban foglalt adatokat, továbbá a 18. § (2) bekezdésben meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében megállapított további adatokat. A nyilvántartásba vétel részletes szabályait a 18. § (2) bekezdésben meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete határozza meg.
 
-26. § (1) A filmalkotások „art” minősítésére a Hivatal által felállított és működtetett Art Bizottság tesz javaslatot.
+26. § (1) A filmalkotások „art” minősítésére a Hatóság által felállított és működtetett Art Bizottság tesz javaslatot.
 
-(2) Az Art Bizottság hat tagját a Nemzeti Filmiroda igazgatójának a javaslatára az Elnök nevezi ki három évre.
+(2) Az Art Bizottság hat tagját a Nemzeti Filmiroda igazgatójának a javaslatára a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter nevezi ki három évre.
 
 (3) Az Art Bizottság tagjai:
 
 - a) egy, a Magyar Művészeti Akadémia elnöke által a mozgóképművészet képviselőjeként delegált személy,
-- b) egy, a Hivatal által az NMHH köztisztviselői közül delegált felsőfokú végzettségű és a mozgóképművészet területén tapasztalattal rendelkező személy,
+- b) egy, a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter által delegált felsőfokú végzettségű és a mozgóképművészet területén tapasztalattal rendelkező személy,
 - c) egy, a miniszter által delegált, a mozgóképművészet területén tapasztalattal rendelkező személy,
 - d) három, filmművészeti, filmtudományi vagy mozgóképtanári végzettséggel, illetve gyakorlattal rendelkező személy.
 
 (4) A (3) bekezdés b) pontjában meghatározott tag ellátja az Art Bizottság koordinációjával kapcsolatos feladatokat és a Bizottság elnökeként vezeti annak üléseit.
 
-(5) A Hivatal az Art Bizottság javaslata alapján „art” minősítést ad minden olyan terjesztésre kerülő filmalkotásnak,
+(5) A Hatóság az Art Bizottság javaslata alapján „art” minősítést ad minden olyan terjesztésre kerülő filmalkotásnak,
 
 - a) amely művészi értékével hozzájárul a magyar, az európai, illetve az egyetemes audiovizuális kultúra fejlődéséhez, vagy
 - b) amelyet az Art Bizottság oktatási vagy kulturális szempontból jelentősnek és magas művészi színvonalúnak ítél.
 
-(6) A Hivatal a filmalkotás előállítójának vagy terjesztőjének kérelmére „art” minősítést ad annak a terjesztésre kerülő filmalkotásnak, amely nemzetközileg elismert, a Hivatal által évente közzétett jegyzékben meghatározott fesztivál díjában részesült.
+(6) A Hatóság a filmalkotás előállítójának vagy terjesztőjének kérelmére „art” minősítést ad annak a terjesztésre kerülő filmalkotásnak, amely nemzetközileg elismert, a Hatóság által évente közzétett jegyzékben meghatározott fesztivál díjában részesült.
 
-26/A. § (1) A filmelőállító vagy filmterjesztő a terjesztés megkezdésének tervezett időpontja előtt legalább 45 nappal kérheti a Hivataltól a terjeszteni kívánt filmalkotás „art” filmalkotássá minősítését. A kérelemnek tartalmaznia kell a filmalkotás címét, előállítójának, producerének, rendezőjének, forgatókönyvírójának, zeneszerzőjének, operatőrének, főszereplőinek nevét.
+26/A. § (1) A filmelőállító vagy filmterjesztő a terjesztés megkezdésének tervezett időpontja előtt legalább 45 nappal kérheti a Hatóságtól a terjeszteni kívánt filmalkotás „art” filmalkotássá minősítését. A kérelemnek tartalmaznia kell a filmalkotás címét, előállítójának, producerének, rendezőjének, forgatókönyvírójának, zeneszerzőjének, operatőrének, főszereplőinek nevét.
 
 (2) Az (1) bekezdésben meghatározott kérelemmel egyidejűleg be kell nyújtani a filmalkotás egy megtekintésre alkalmas példányát. Idegen nyelvű filmalkotás esetén, ha a filmalkotásból magyar nyelven szinkronizált vagy magyar feliratos változat nem áll rendelkezésre, be kell nyújtani a filmalkotás magyar nyelvű dialóglistáját is.
 
@@ -833,11 +833,11 @@ az időpontja.
 
 (5a)
 
-(6) A filmalkotások „art” besorolása esetében a Hivatal az e tárgyában hozott határozat jogerőre emelkedését követően haladéktalanul bejegyzi – hivatalból indított eljárásban – az „art” minősítésűnek besorolt filmalkotást az „art” besorolású filmalkotások nyilvántartásába.
+(6) A filmalkotások „art” besorolása esetében a Hatóság az e tárgyában hozott határozat véglegessé válását követően haladéktalanul bejegyzi – hivatalból indított eljárásban – az „art” minősítésűnek besorolt filmalkotást az „art” besorolású filmalkotások nyilvántartásába.
 
 ### Filmalkotások besorolása a magyar részvételi arányok alapján
 
-26/B. § (1) A Hivatal – a filmelőállító kérelmére – a közvetlen támogatásra való jogosultság megállapítása érdekében azokat a filmalkotásokat, amelyek előállításához közvetlen támogatást igényelnek, a következő kategóriákba sorolja be:
+26/B. § (1) A Hatóság – a filmelőállító kérelmére – a közvetlen támogatásra való jogosultság megállapítása érdekében azokat a filmalkotásokat, amelyek előállításához közvetlen támogatást igényelnek, a következő kategóriákba sorolja be:
 
 - a) magyar filmalkotás,
 - b) magyar részvételű filmalkotás,
@@ -850,9 +850,9 @@ az időpontja.
 
 (1c) Az (1a) és (1b) bekezdés szerinti pontszámok kiszámításakor a filmalkotás magyar elemeire adható egyes pontszámokat az egyes elemeken belüli magyar részvétel arányához kell igazítani. Ha a filmalkotásban magyar filmelőállító vagy producer vesz részt, részükre a magyar hozzájárulás arányától függetlenül, a legmagasabb elérhető pontszámot kell adni.
 
-(2) A közvetlen támogatás nyújtásának feltétele a filmalkotások magyar részvételi arányok szerinti besorolása. Az (1) bekezdés szerinti besorolási eljárást lezáró hatósági határozat jogerőre emelkedését követően a Hivatal haladéktalanul bejegyzi – hivatalból indított eljárásban – a besorolt filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket a támogatásra jogosult filmalkotásokról vezetett hatósági nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hivatal az (1) bekezdés szerinti besorolási eljárást lezáró véglegessé vált hatósági határozatban megállapított adatokkal tényekkel egészíti ki a nyilvántartás adatait.
+(2) A közvetlen támogatás nyújtásának feltétele a filmalkotások magyar részvételi arányok szerinti besorolása. Az (1) bekezdés szerinti besorolási eljárást lezáró hatósági határozat véglegessé válását követően a Hatóság haladéktalanul bejegyzi – hivatalból indított eljárásban – a besorolt filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket a támogatásra jogosult filmalkotásokról vezetett hatósági nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hatóság az (1) bekezdés szerinti besorolási eljárást lezáró véglegessé vált hatósági határozatban megállapított adatokkal tényekkel egészíti ki a nyilvántartás adatait.
 
-(3) Az (1) bekezdés szerinti besorolást a Hivatal a filmelőállító által a Hivatalhoz benyújtott, a (4) és (5) bekezdésben meghatározott okiratok alapján végzi el.
+(3) Az (1) bekezdés szerinti besorolást a Hatóság a filmelőállító által a Hatósághoz benyújtott, a (4) és (5) bekezdésben meghatározott okiratok alapján végzi el.
 
 (4) Ha a filmalkotás költségvetése az 50 millió forintot nem haladja meg, a besorolási kérelmet a közvetlen támogatás igénylését megelőzően kell benyújtani. A kérelem különös méltánylást érdemlő esetben a támogatási szerződés megkötéséig is benyújtható. A kérelemhez csatolni kell
 
@@ -875,17 +875,17 @@ az időpontja.
 
 (7) A véglegessé vált határozat hiányában kötött támogatási szerződés esetében az eljárás különös méltánylást érdemlő esetben a szerződés megkötését követő egy naptári éven belül benyújtott kérelem esetén a támogatási cél megvalósulása érdekében lefolytatható a (4) és (5) bekezdésben foglalt határidőkre tekintet nélkül.
 
-(8) A (7) bekezdés szerinti eljárásban a Hivatal nyilatkozattételre hívja fel a támogatót a támogatási cél megvalósulásához fűződő szándék fennállásának meglétéről. A Hivatal a támogató nyilatkozata és az ügy összes körülményének figyelembevételével dönt a kérelemről.
+(8) A (7) bekezdés szerinti eljárásban a Hatóság nyilatkozattételre hívja fel a támogatót a támogatási cél megvalósulásához fűződő szándék fennállásának meglétéről. A Hatóság a támogató nyilatkozata és az ügy összes körülményének figyelembevételével dönt a kérelemről.
 
 (9) A (4), (5) és (7) bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
 
-26/C. § (1) A magyar részvételi arányok szerinti besorolás alapjául szolgáló adatokban bekövetkező változást azok ismertté válását követő 15 napon belül a filmelőállító köteles bejelenteni a Hivatalnak. A bejelentés alapján, vagy az adatváltozásnak a Hivatal tudomására jutását követően a Hivatal hivatalból eljárást indít, ha feltételezhető, hogy a változás a határozatban megállapított besorolási kategória megváltozását eredményezi.
+26/C. § (1) A magyar részvételi arányok szerinti besorolás alapjául szolgáló adatokban bekövetkező változást azok ismertté válását követő 15 napon belül a filmelőállító köteles bejelenteni a Hatóságnak. A bejelentés alapján, vagy az adatváltozásnak a Hatóság tudomására jutását követően a Hatóság hivatalból eljárást indít, ha feltételezhető, hogy a változás a határozatban megállapított besorolási kategória megváltozását eredményezi.
 
-(2) Az (1) bekezdésben foglalt bejelentési kötelezettség elmulasztása esetén a Hivatal a filmelőállítót a 19/H. § (8) bekezdés c) pontja szerinti bírság megfizetésére kötelezheti és a 28. § szerinti nyilvántartásból törölheti.
+(2) Az (1) bekezdésben foglalt bejelentési kötelezettség elmulasztása esetén a Hatóság a filmelőállítót a 19/H. § (8) bekezdés c) pontja szerinti bírság megfizetésére kötelezheti és a 28. § szerinti nyilvántartásból törölheti.
 
 27. §
 
-### 4. CÍM — A Hivatal nyilvántartásai
+### 4. CÍM — A Hatóság nyilvántartásai
 
 ### Mozgóképszakmai szervezetek és természetes személyek nyilvántartása
 
@@ -897,9 +897,9 @@ az időpontja.
 
 (4) A nyilvántartásba vételt kérő természetes személy nyilatkozik arról, hogy filmterjesztőként történő nyilvántartásba vételét filmforgalmazóként, moziüzemeltetőként vagy egyéb minőségében kéri. A nyilvántartásba vételt kérő mozgóképszakmai szervezet nyilatkozik arról, hogy nyilvántartásba vételét filmelőállítóként, filmgyártó vállalkozásként, filmterjesztőként (ezen belül filmforgalmazóként, moziüzemeltetőként vagy egyéb minőségében) vagy egyéb szervezetként kéri.
 
-(5) A Hivatal a törvényben meghatározott adatok közlése esetén, a (9) bekezdésben foglalt megtagadási ok hiányában a kérelmezőt nyilvántartásba veszi. A nyilvántartásba vett adatokban bekövetkezett változást a támogatást igénylő köteles a változást követő 15 napon belül bejelenteni a Hivatalnak.
+(5) A Hatóság a törvényben meghatározott adatok közlése esetén, a (9) bekezdésben foglalt megtagadási ok hiányában a kérelmezőt nyilvántartásba veszi. A nyilvántartásba vett adatokban bekövetkezett változást a támogatást igénylő köteles a változást követő 15 napon belül bejelenteni a Hatóságnak.
 
-(6) A Hivatal az (5) bekezdés szerinti nyilvántartásba vételt követő 15 napon belül az e bekezdésben meghatározott célból megkeresi az NFI-t, a minisztert, valamint az egyéb támogatót. A megkeresett szervezetek a megkereséstől számított 15 napon belül nyilatkoznak arról, hogy
+(6) A Hatóság az (5) bekezdés szerinti nyilvántartásba vételt követő 15 napon belül az e bekezdésben meghatározott célból megkeresi az NFI-t, a minisztert, valamint az egyéb támogatót. A megkeresett szervezetek a megkereséstől számított 15 napon belül nyilatkoznak arról, hogy
 
 - a) vele szemben a nyilvántartásba vett természetes személynek vagy szervezetnek, a szervezet tulajdonosának vagy alapítójának és a szervezet tulajdonosa vagy alapítója által alapított vagy tulajdonolt más gazdálkodó szervezetnek van-e lejárt, teljesítetlen fizetési vagy elszámolási kötelezettsége, és
 - b) a nyilvántartásba vett szervezet vezető tisztségviselői, tulajdonosai és alapítói között van-e olyan személy, aki a nyilvántartásbavétel napját megelőző három évben olyan gazdálkodó szervezet vezető tisztségviselője volt, amely a vezető tisztségviselő megbízatásának időtartama alatt felhasznált támogatással a támogatóval szemben nem számolt el vagy elszámolását a támogató nem fogadta el.
@@ -909,24 +909,24 @@ az időpontja.
 - a) a nyilvántartásba vett természetes személynek vagy szervezetnek, a szervezet tulajdonosának vagy alapítójának, vagy a szervezet tulajdonosa vagy alapítója által alapított vagy tulajdonolt más gazdálkodó szervezetnek a támogatóval szemben az e törvény hatálya alá tartozó lejárt, teljesítetlen fizetési vagy elszámolási kötelezettsége van, vagy
 - b) a nyilvántartásba vett szervezet vezető tisztségviselői, tulajdonosai vagy alapítói között olyan személy van, aki a nyilvántartásbavétel napját megelőző három évben olyan gazdálkodó szervezet vezető tisztségviselője volt, amely a vezető tisztségviselő megbízatásának időtartama alatt felhasznált támogatással a támogatóval szemben nem számolt el vagy elszámolását a támogató nem fogadta el,
 
-a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törli a nyilvántartásból, és erről az NFI-t, a minisztert és az egyéb támogatót is értesíti.
+a Hatóság a nyilvántartásba vett természetes személyt vagy szervezetet törli a nyilvántartásból, és erről az NFI-t, a minisztert és az egyéb támogatót is értesíti.
 
-(8) A Hivatal a (6) bekezdésben foglalt megkeresést mellőzi olyan jogelőd nélkül alapított új szervezet nyilvántartásba vétele esetén, amelynek alapítói (tulajdonosai) és vezető tisztségviselői között kizárólag a nyilvántartásban már szereplő szervezet vagy természetes személy található.
+(8) A Hatóság a (6) bekezdésben foglalt megkeresést mellőzi olyan jogelőd nélkül alapított új szervezet nyilvántartásba vétele esetén, amelynek alapítói (tulajdonosai) és vezető tisztségviselői között kizárólag a nyilvántartásban már szereplő szervezet vagy természetes személy található.
 
 (9) Nem vehető nyilvántartásba az az igénylő, aki ellen csőd-, felszámolási vagy végelszámolási eljárás van folyamatban. Nem vehető nyilvántartásba az az igénylő, aki az általa igénybe vett közvetlen támogatás rendeltetésszerű felhasználásáról a támogató által meghatározott határidőben és feltételek szerint nem számolt el, elszámolását a támogató nem fogadta el, vagy a támogatóval szemben lejárt, teljesítetlen fizetési kötelezettséggel rendelkezik, mindaddig, amíg a támogatóval szembeni fizetési kötelezettségét nem teljesíti. Ilyen esetben az újbóli nyilvántartásba vételre akkor kerülhet sor, ha az igénylő a támogatóval szembeni fizetési kötelezettségét teljesítette.
 
-(10) A nyilvántartásban egyértelműen szerepeltetni kell, ha a nyilvántartásba vett személy vagy szervezet ellen a Hivatal a közvetett támogatás megszerzésére irányuló eljárásokkal összefüggésben a 19/I. § (1) bekezdése szerinti bejelentést, illetve feljelentést tesz. Ez esetben a nyilvántartásba vett személy vagy szervezet nyilvántartásba vételéből eredő jogosultságai és kötelezettségei szünetelnek a bíróság eljárást megszüntető jogerős vagy véglegessé vált, illetve az ügyészség vagy a nyomozó hatóság eljárást megszüntető és további jogorvoslattal nem támadható határozatának benyújtásáig.
+(10) A nyilvántartásban egyértelműen szerepeltetni kell, ha a nyilvántartásba vett személy vagy szervezet ellen a Hatóság a közvetett támogatás megszerzésére irányuló eljárásokkal összefüggésben a 19/I. § (1) bekezdése szerinti bejelentést, illetve feljelentést tesz. Ez esetben a nyilvántartásba vett személy vagy szervezet nyilvántartásba vételéből eredő jogosultságai és kötelezettségei szünetelnek a bíróság eljárást megszüntető jogerős vagy véglegessé vált, illetve az ügyészség vagy a nyomozó hatóság eljárást megszüntető és további jogorvoslattal nem támadható határozatának benyújtásáig.
 
-(11) A Hivatal a nyilvántartásba vett természetes személyt és szervezetet az e törvényben meghatározott esetekben hivatalból vagy a nyilvántartásba vett kérelmére törli a nyilvántartásból. Hivatalból való törlésnek van helye
+(11) A Hatóság a nyilvántartásba vett természetes személyt és szervezetet az e törvényben meghatározott esetekben hivatalból vagy a nyilvántartásba vett kérelmére törli a nyilvántartásból. Hivatalból való törlésnek van helye
 
 - a) a (7) bekezdésben, a 19/I. § (2) és (3) bekezdésében, a 26/C. § (2) bekezdésében meghatározott esetekben, és
-- b) akkor, ha a nyilvántartásba vétel megtagadásának lett volna helye, azonban a megtagadási ok a nyilvántartásba vételt követően jutott a Hivatal tudomására vagy az nyilvántartásba vételt követően merül fel.
+- b) akkor, ha a nyilvántartásba vétel megtagadásának lett volna helye, azonban a megtagadási ok a nyilvántartásba vételt követően jutott a Hatóság tudomására vagy az nyilvántartásba vételt követően merül fel.
 
-(12) A Hivatal a nyilvántartásból való törlésről értesíti az NFI-t, a minisztert és az egyéb támogatót.
+(12) A Hatóság a nyilvántartásból való törlésről értesíti az NFI-t, a minisztert és az egyéb támogatót.
 
-(13) A jelentős támogatókat a Hivatal negyedévente megkeresi a (6) bekezdés szerinti adatszolgáltatás céljából.
+(13) A jelentős támogatókat a Hatóság negyedévente megkeresi a (6) bekezdés szerinti adatszolgáltatás céljából.
 
-(14) Az e törvény szerinti támogatást nyújtó egyéb szervezet és az MTVA az általa nyújtott mozgóképszakmai támogatásokról és az általa támogatottak lejárt, teljesítetlen fizetési kötelezettségeiről a támogatás nyújtásakor és a fizetési kötelezettség keletkezésekor tájékoztatja a Hivatalt.
+(14) Az e törvény szerinti támogatást nyújtó egyéb szervezet az általa nyújtott mozgóképszakmai támogatásokról és az általa támogatottak lejárt, teljesítetlen fizetési kötelezettségeiről a támogatás nyújtásakor és a fizetési kötelezettség keletkezésekor tájékoztatja a Hatóságot.
 
 29. § (1) A mozgóképszakmai szervezetek és természetes személyek nyilvántartásában valamennyi támogatást igénylő esetében szerepelnie kell:
 
@@ -935,35 +935,35 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 - c) annak a ténynek, hogy az igénylő az általa igénybe vett közvetlen támogatás rendeltetésszerű felhasználásáról a támogató által meghatározott határidőben és feltételek szerint elszámolt-e, ennek hiányában a támogatóval fennálló fizetési kötelezettsége mértékének,
 - d) az e törvényben és a külön jogszabályban meghatározott, e törvény céljainak megvalósításához szükséges adatoknak.
 
-(2) Az (1) bekezdésben felsorolt adatokat, valamint az azokban bekövetkező változásokat a támogatott és az e törvény szerinti támogatást nyújtó az adat tudomására jutását, illetve a változást követő 15 napon belül köteles bejelenteni a Hivatalnak.
+(2) Az (1) bekezdésben felsorolt adatokat, valamint az azokban bekövetkező változásokat a támogatott és az e törvény szerinti támogatást nyújtó az adat tudomására jutását, illetve a változást követő 15 napon belül köteles bejelenteni a Hatóságnak.
 
 ### A támogatásra jogosult filmalkotások nyilvántartása
 
-30. § (1) A Hivatal nyilvántartásba vesz minden olyan filmalkotást, amelynek előkészítéséhez vagy gyártásához e törvény szerinti támogatást vesznek igénybe.
+30. § (1) A Hatóság nyilvántartásba vesz minden olyan filmalkotást, amelynek előkészítéséhez vagy gyártásához e törvény szerinti támogatást vesznek igénybe.
 
-(2) Az (1) bekezdés szerinti nyilvántartásban szerepelnie kell a filmalkotás címének, a filmalkotás előállítója nevének, a 26/B. § szerinti eljárásban megállapított minősítés eredményének, valamint az e törvényben és a törvény felhatalmazása alapján kiadott jogszabályban meghatározott, a törvényben meghatározott célok teljesüléséhez szükséges egyéb adatoknak. A nyilvántartásba vett adatokban bekövetkezett változást a támogatást igénylő köteles a változást követő 15 napon belül bejelenteni a Hivatalnak.
+(2) Az (1) bekezdés szerinti nyilvántartásban szerepelnie kell a filmalkotás címének, a filmalkotás előállítója nevének, a 26/B. § szerinti eljárásban megállapított minősítés eredményének, valamint az e törvényben és a törvény felhatalmazása alapján kiadott jogszabályban meghatározott, a törvényben meghatározott célok teljesüléséhez szükséges egyéb adatoknak. A nyilvántartásba vett adatokban bekövetkezett változást a támogatást igénylő köteles a változást követő 15 napon belül bejelenteni a Hatóságnak.
 
 ### A terjesztésre kerülő filmalkotások nyilvántartása
 
-31. § (1) A Hivatal, a 20. § (2) bekezdése szerinti filmalkotások kivételével minden terjesztésre kerülő filmalkotást nyilvántartásba vesz.
+31. § (1) A Hatóság, a 20. § (2) bekezdése szerinti filmalkotások kivételével minden terjesztésre kerülő filmalkotást nyilvántartásba vesz.
 
-(2) Az (1) bekezdés szerinti nyilvántartásban szerepelnie kell a terjesztésre kerülő filmalkotás címének, a filmalkotás előállítója és terjesztője nevének, a 20. § és a 25. § szerinti besorolási eljárások alapján adott minősítésnek, valamint az e törvényben meghatározott célok teljesüléséhez szükséges, a törvényben vagy a törvény felhatalmazása alapján kiadott jogszabályban megállapított egyéb adatoknak. Ezeket az adatokat a filmterjesztő köteles bejelenteni a Hivatalnak.
+(2) Az (1) bekezdés szerinti nyilvántartásban szerepelnie kell a terjesztésre kerülő filmalkotás címének, a filmalkotás előállítója és terjesztője nevének, a 20. § és a 25. § szerinti besorolási eljárások alapján adott minősítésnek, valamint az e törvényben meghatározott célok teljesüléséhez szükséges, a törvényben vagy a törvény felhatalmazása alapján kiadott jogszabályban megállapított egyéb adatoknak. Ezeket az adatokat a filmterjesztő köteles bejelenteni a Hatóságnak.
 
 ### A nyilvántartásba vétel közös szabályai
 
-31/A. § (1) A Hivatal nyilvántartásainak adatai közérdekből nyilvános adatoknak minősülnek. A Hivatal a honlapján bárki számára ingyenesen, korlátozás nélkül hozzáférhető és kereshető módon közzéteszi a nyilvántartásait. A Hivatal nyilvántartása kialakítása során előnyben részesíti és támogatja az audiovizuális adatgyűjtés területén létező nemzetközi szabványok meghonosítását és alkalmazását (nemzetközi audiovizuális azonosító szám, ISAN).
+31/A. § (1) A Hatóság nyilvántartásainak adatai közérdekből nyilvános adatoknak minősülnek. A Hatóság a honlapján bárki számára ingyenesen, korlátozás nélkül hozzáférhető és kereshető módon közzéteszi a nyilvántartásait. A Hatóság nyilvántartása kialakítása során előnyben részesíti és támogatja az audiovizuális adatgyűjtés területén létező nemzetközi szabványok meghonosítását és alkalmazását (nemzetközi audiovizuális azonosító szám, ISAN).
 
-(2) A Hivatal által vezetett mozgóképszakmai-nyilvántartások tartalmazzák az e törvényben és a külön jogszabályokban, valamint a Hivatal véglegessé vált határozatában foglaltakat, különösen a filmalkotásokhoz, valamint az e törvény szerinti jogokat és jelentős tényeket. A természetes személyek Hivatali nyilvántartásaiban szereplő adatai közérdekből nyilvánosnak minősülnek. A Hivatal az e törvényben foglalt személyes adatokat a nyilvántartásból való törlésig kezeli.
+(2) A Hatóság által vezetett mozgóképszakmai-nyilvántartások tartalmazzák az e törvényben és a külön jogszabályokban, valamint a Hatóság véglegessé vált határozatában foglaltakat, különösen a filmalkotásokhoz, valamint az e törvény szerinti jogokat és jelentős tényeket. A természetes személyek Hatósági nyilvántartásaiban szereplő adatai közérdekből nyilvánosnak minősülnek. A Hatóság az e törvényben foglalt személyes adatokat a nyilvántartásból való törlésig kezeli.
 
 (3) A mozgóképszakmai-nyilvántartások, ha e törvény kivételt nem tesz, a bejegyzett jogok és a feljegyzett tények fennállását közhitelesen tanúsítják.
 
-(4) A Hivatal e törvény alapján vezetett nyilvántartásainak részletes szabályait, a nyilvántartásba vételi eljárások részletes szabályait, valamint a nyilvántartásokból történő adatszolgáltatás módját az Elnök rendelete szabályozza.
+(4) A Hatóság e törvény alapján vezetett nyilvántartásainak részletes szabályait, a nyilvántartásba vételi eljárások részletes szabályait, valamint a nyilvántartásokból történő adatszolgáltatás módját a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete szabályozza.
 
 ### 5. CÍM — Támogatási eljárás
 
 ### A támogatásra jogosultság megállapítása
 
-31/B. § (1) A Hivatal a 12/A. § (1) bekezdése szerint, a 19. § (1) bekezdés e) pontja alapján
+31/B. § (1) A Hatóság a 12/A. § (1) bekezdése szerint, a 19. § (1) bekezdés e) pontja alapján
 
 - a) az e törvény szerinti filmgyártási célú támogatás igénybevételére vonatkozó jogosultságot (a továbbiakban: támogatásra jogosultság) a filmelőállító vagy a filmgyártó vállalkozás kérelmére,
 - b) az e törvény szerinti filmterjesztési célú támogatásra jogosultságot a filmterjesztő kérelmére
@@ -995,32 +995,32 @@ mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább
 
 (2b) A (2a) bekezdés f) pontja szerinti kötelezettség nem vonatkozik a filmművészeti állami felsőoktatási képzés keretében készülő filmalkotások gyártására.
 
-(2c) Az e törvény szerinti közvetett támogatásban részesülő filmelőállító vagy filmgyártó vállalkozás a Hivatal támogatásra jogosultságot megállapító döntésében meghatározott közvetlen filmgyártási költség 0,5%-át, de filmalkotásonként legfeljebb tizenötmillió forintot mozgóképszakmai képzési hozzájárulás címén az e törvényben meghatározott módon megfizet az NFI-nek.
+(2c) Az e törvény szerinti közvetett támogatásban részesülő filmelőállító vagy filmgyártó vállalkozás a Hatóság támogatásra jogosultságot megállapító döntésében meghatározott közvetlen filmgyártási költség 0,5%-át, de filmalkotásonként legfeljebb tizenötmillió forintot mozgóképszakmai képzési hozzájárulás címén az e törvényben meghatározott módon megfizet az NFI-nek.
 
 (2d) A mozgóképszakmai képzési hozzájárulást az NFI-nek a Magyar Államkincstárnál (a továbbiakban: kincstár) e célra vezetett számlájára a támogatásra jogosultságot megállapító döntés véglegessé válásától számított hatvan napon belül kell befizetni.
 
-(2e) A mozgóképszakmai képzési hozzájárulás befizetési határidejének elmulasztása esetén a Hivatal jogkövetkezményként hivatalból indított hatósági eljárásban a támogatásra jogosultságot megállapító döntését akként módosítja, hogy a támogatásra jogosultságot elutasítja. A hivatalból indított eljárásban a Hivatal tizenöt napos határidő tűzése mellett felszólítja a késedelmesen fizető filmelőállítót vagy a filmgyártó vállalkozást a (2c) bekezdés szerinti mozgóképszakmai képzési hozzájárulás megfizetésére. Amennyiben a hatósági eljárás érdemi lezárása előtt a filmelőállító vagy a filmgyártó vállalkozás megfizeti a (2c) bekezdés szerinti mozgóképszakmai képzési hozzájárulást, úgy a Hivatal a 19/H. § (8) bekezdés d) pontjában foglalt jogkövetkezményt alkalmazhatja.
+(2e) A mozgóképszakmai képzési hozzájárulás befizetési határidejének elmulasztása esetén a Hatóság jogkövetkezményként hivatalból indított hatósági eljárásban a támogatásra jogosultságot megállapító döntését akként módosítja, hogy a támogatásra jogosultságot elutasítja. A hivatalból indított eljárásban a Hatóság tizenöt napos határidő tűzése mellett felszólítja a késedelmesen fizető filmelőállítót vagy a filmgyártó vállalkozást a (2c) bekezdés szerinti mozgóképszakmai képzési hozzájárulás megfizetésére. Amennyiben a hatósági eljárás érdemi lezárása előtt a filmelőállító vagy a filmgyártó vállalkozás megfizeti a (2c) bekezdés szerinti mozgóképszakmai képzési hozzájárulást, úgy a Hatóság a 19/H. § (8) bekezdés d) pontjában foglalt jogkövetkezményt alkalmazhatja.
 
 (2f) Nem kell mozgóképszakmai képzési hozzájárulást fizetni a tízmillió forintot el nem érő közvetlen filmgyártási költséggel rendelkező filmalkotások után.
 
-(2g) Az NFI az általa kezelt, az egyes filmalkotásokra vonatkozó, mozgóképszakmai képzési hozzájárulás címén megfizetett összegekről, a Hivatal a mozgóképszakmai képzési hozzájárulás összegét magában foglaló támogatásra jogosultságot megállapító döntésekről nyilvántartást vezet. A véglegessé vált döntéseket az NFI részére elektronikus úton megküldi, az NFI a Hivatalt abban az esetben tájékoztatja, ha a Hivatalnak hivatalból eljárást szükséges indítania a támogatásra jogosultságot megállapító döntés módosítása iránt.
+(2g) Az NFI az általa kezelt, az egyes filmalkotásokra vonatkozó, mozgóképszakmai képzési hozzájárulás címén megfizetett összegekről, a Hatóság a mozgóképszakmai képzési hozzájárulás összegét magában foglaló támogatásra jogosultságot megállapító döntésekről nyilvántartást vezet. A véglegessé vált döntéseket az NFI részére elektronikus úton megküldi, az NFI a Hatóságot abban az esetben tájékoztatja, ha a Hatóságnak hivatalból eljárást szükséges indítania a támogatásra jogosultságot megállapító döntés módosítása iránt.
 
-(3) Az (1) bekezdés szerinti kérelem a terjesztésre kerülő filmalkotások nyilvántartásba vételére irányuló, továbbá a 26/A. §-ban és a 26/B. §-ban meghatározott eljárásban előterjesztett kérelemmel együtt is benyújtható. Ebben az esetben a Hivatal a kérelmeket egy eljárás keretében bírálja el.
+(3) Az (1) bekezdés szerinti kérelem a terjesztésre kerülő filmalkotások nyilvántartásba vételére irányuló, továbbá a 26/A. §-ban és a 26/B. §-ban meghatározott eljárásban előterjesztett kérelemmel együtt is benyújtható. Ebben az esetben a Hatóság a kérelmeket egy eljárás keretében bírálja el.
 
-(4) Az e törvény szerinti filmterjesztési célú támogatásra jogosultság megállapítására nem kell kérelmet benyújtani, ha a filmalkotás korábban már teljesítette az e törvény szerinti filmgyártási célú támogatásra jogosultság feltételeit. Ebben az esetben az előterjesztett kérelmet a Hivatal érdemi vizsgálat nélkül elutasítja.
+(4) Az e törvény szerinti filmterjesztési célú támogatásra jogosultság megállapítására nem kell kérelmet benyújtani, ha a filmalkotás korábban már teljesítette az e törvény szerinti filmgyártási célú támogatásra jogosultság feltételeit. Ebben az esetben az előterjesztett kérelmet a Hatóság érdemi vizsgálat nélkül elutasítja.
 
-(5) A Hivatal a támogatásra jogosultság megállapításakor
+(5) A Hatóság a támogatásra jogosultság megállapításakor
 
 - a) megvizsgálja a filmalkotás tervezett költségvetését, és ennek alapján – az e törvény szerinti feltételek együttes teljesülése esetén – megállapítja és igazolja a támogatás alapjául szolgáló közvetlen filmgyártási költségek és a közvetlen magyar filmgyártási költségek összegét,
 - b) megvizsgálja az e törvény szerinti támogatással érintett szolgáltatás értékét, ha az a piacon szokásos árnál magasabb áron kerül megállapításra,
 - c) ellenőrzi a 13. §-ban meghatározott támogatási arányok betartását, és
 - d) ellenőrzi a filmalkotás 2. mellékletben meghatározott kulturális követelményeknek való megfelelését.
 
-(6) Nem ismerhető el közvetlen filmgyártási költségként az a költség, amely keletkezésének körülményeit tekintve akkor merült fel, amikor a Hivatal az ügyfél mulasztásából eredően még nem gyakorolhatta ellenőrzési jogosultságát, különös tekintettel a bejelentési kötelezettség elmulasztására vagy nem megfelelő teljesítésére.
+(6) Nem ismerhető el közvetlen filmgyártási költségként az a költség, amely keletkezésének körülményeit tekintve akkor merült fel, amikor a Hatóság az ügyfél mulasztásából eredően még nem gyakorolhatta ellenőrzési jogosultságát, különös tekintettel a bejelentési kötelezettség elmulasztására vagy nem megfelelő teljesítésére.
 
-(7) A (2a) és (6) bekezdésben meghatározott – különösen a rögzített gyártási időre és költségvetésre vonatkozó – követelmények megtartása tekintetében a Hivatal indokolt kérelemre, különös méltánylást érdemlő esetben eltérést engedhet. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
+(7) A (2a) és (6) bekezdésben meghatározott – különösen a rögzített gyártási időre és költségvetésre vonatkozó – követelmények megtartása tekintetében a Hatóság indokolt kérelemre, különös méltánylást érdemlő esetben eltérést engedhet. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
 
-(8) A Hivatal az (5) bekezdés b) pontja szerinti esetben szakértőt is kirendelhet. A szakértő kirendelésének költségeit a támogatott előlegezi meg. A Hivatal a szakértői vélemény alapján dönt a költség viseléséről.
+(8) A Hatóság az (5) bekezdés b) pontja szerinti esetben szakértőt is kirendelhet. A szakértő kirendelésének költségeit a támogatott előlegezi meg. A Hatóság a szakértői vélemény alapján dönt a költség viseléséről.
 
 (9) A 2. mellékletben meghatározott kulturális követelményrendszer m) és n) pontjai kapcsán
 
@@ -1032,19 +1032,19 @@ mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább
   - bb) a filmgyártás-előkészítés vagy az utómunka Magyarországon felmerült költségei elérik a teljes filmgyártás-előkészítési vagy utómunkaköltségek 25%-át, de nem érik el a teljes filmgyártás-előkészítési vagy utómunkaköltségek 50%-át;
 - c) 3 pont adható, ha az a) és b) pontokban említett értékek elérik vagy meghaladják az 50%-os értékeket.
 
-(10) A Hivatal a támogatásra jogosultsággal összefüggő döntését a filmelőállítón, illetve a filmgyártó vállalkozáson kívül szükséges esetben közli a támogatóval, – ha a filmalkotást az MTVA támogatja – az MTVA-val és szükséges esetben az állami adóhatósággal is.
+(10) A Hatóság a támogatásra jogosultsággal összefüggő döntését a filmelőállítón, illetve a filmgyártó vállalkozáson kívül szükséges esetben közli a támogatóval, és szükséges esetben az állami adóhatósággal is.
 
-(11) A Hivatal a támogatásra jogosultság megállapítása esetén az e tárgyban lefolytatott hatósági eljárásban hozott határozat jogerőre emelkedését követően, hivatalból indított eljárásban haladéktalanul bejegyzi a filmalkotást és a hatósági döntés alapjául szolgáló adatokat és tényeket a támogatásra jogosult filmalkotásokról vezetett hatósági nyilvántartásába. Ha a filmalkotás a nyilvántartásban már szerepel, a Hivatal a hatósági eljárásban hozott határozatban megállapított adatokkal egészíti ki a nyilvántartás adatait. A támogatásra jogosultság megállapítása és igazolása az e törvény szerinti támogatás nyújtásának feltétele.
+(11) A Hatóság a támogatásra jogosultság megállapítása esetén az e tárgyban lefolytatott hatósági eljárásban hozott határozat véglegessé válását követően, hivatalból indított eljárásban haladéktalanul bejegyzi a filmalkotást és a hatósági döntés alapjául szolgáló adatokat és tényeket a támogatásra jogosult filmalkotásokról vezetett hatósági nyilvántartásába. Ha a filmalkotás a nyilvántartásban már szerepel, a Hatóság a hatósági eljárásban hozott határozatban megállapított adatokkal egészíti ki a nyilvántartás adatait. A támogatásra jogosultság megállapítása és igazolása az e törvény szerinti támogatás nyújtásának feltétele.
 
-(12) A Hivatal a (2) bekezdés d) pontjában bejelentett adatokról igazolást állít ki a filmelőállító vagy filmgyártó vállalkozás kérelmére.
+(12) A Hatóság a (2) bekezdés d) pontjában bejelentett adatokról igazolást állít ki a filmelőállító vagy filmgyártó vállalkozás kérelmére.
 
-(13) A filmelőállító vagy filmgyártó vállalkozás a (2) bekezdés d) pontja szerint bejelentett adatokban bekövetkezett változást köteles bejelenteni a Hivatalnak.
+(13) A filmelőállító vagy filmgyártó vállalkozás a (2) bekezdés d) pontja szerint bejelentett adatokban bekövetkezett változást köteles bejelenteni a Hatóságnak.
 
-(14) A Hivatal a (2) bekezdés d) pontja szerinti adatokat támogatás megállapítására és az ezzel összefüggő nyilvántartás vezetésére irányuló feladatai ellátása céljából, a kérelem elbírálását követő öt évig kezeli. A Hivatal az így tudomására jutott adatokat törvény eltérő rendelkezése hiányában harmadik személlyel nem közölheti, kivéve ha az más hatóságok eljárásához történő adatszolgáltatás teljesítését célozza.
+(14) A Hatóság a (2) bekezdés d) pontja szerinti adatokat támogatás megállapítására és az ezzel összefüggő nyilvántartás vezetésére irányuló feladatai ellátása céljából, a kérelem elbírálását követő öt évig kezeli. A Hatóság az így tudomására jutott adatokat törvény eltérő rendelkezése hiányában harmadik személlyel nem közölheti, kivéve ha az más hatóságok eljárásához történő adatszolgáltatás teljesítését célozza.
 
 ### A támogatási igazolás
 
-31/C. § (1) A Hivatal a 19. § (1) bekezdés f) pontja alapján a filmelőállítónak, illetve a filmgyártó vállalkozásnak a kérelmére költségellenőrzési eljárásban ellenőrzi a filmelőállító, illetve a filmgyártó vállalkozás által a filmalkotás tekintetében közvetlen filmgyártási költségként elszámolni kívánt költségeket, és határozatban állapítja meg a közvetlen filmgyártási költséget és a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító, valamint a Tao. tv. 24/A. § (3) bekezdés a) pontja szerint felajánlható közvetett támogatás összegét.
+31/C. § (1) A Hatóság a 19. § (1) bekezdés f) pontja alapján a filmelőállítónak, illetve a filmgyártó vállalkozásnak a kérelmére költségellenőrzési eljárásban ellenőrzi a filmelőállító, illetve a filmgyártó vállalkozás által a filmalkotás tekintetében közvetlen filmgyártási költségként elszámolni kívánt költségeket, és határozatban állapítja meg a közvetlen filmgyártási költséget és a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító, valamint a Tao. tv. 24/A. § (3) bekezdés a) pontja szerint felajánlható közvetett támogatás összegét.
 
 (2) Az (1) bekezdés szerinti kérelemhez csatolni kell
 
@@ -1056,20 +1056,20 @@ mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább
 
 (2b) A (2a) bekezdésben foglaltak alkalmazása esetén a költségellenőrzési eljárásban hozott határozatban szereplő összeg legfeljebb a költségellenőrzést lezáró határozat kiadásáig felmerült közvetlen filmgyártási költség 30%-áig terjedhet.
 
-(3) A Hivatal
+(3) A Hatóság
 
 - a) a filmelőállító, illetve a filmgyártó vállalkozás önálló vagy együttes,
 - b) – a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító támogatás esetében – az NFI, vagy
 - c) – ha az (1) bekezdés szerinti határozat véglegessé vált és a filmelőállító, illetve a filmgyártó vállalkozás vagy az NFI azt nem kérte – a közvetett támogatás forrását a Tao. tv. 22. § (3) bekezdése, illetve a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján – az NFI részére történő felajánlás kivételével – biztosító szervezet
 
-kérelmére a közvetett támogatás igénybevételére jogosító támogatási igazolást ad ki. Amennyiben a közvetett támogatás forrását biztosító szervezet a közvetett támogatást a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján az NFI részére történő felajánlás formájában biztosítja, a Hivatal a közvetett támogatás igénybevételére jogosító támogatási igazolást nem állít ki. A Hivatal a Tao. tv. 24/A. § (16) bekezdés a) pontja szerint igazolást a közvetett támogatás forrását biztosító szervezet és a felajánlás fogadására jogosult filmelőállító vagy filmgyártó vállalkozás együttes kérelmére állítja ki.
+kérelmére a közvetett támogatás igénybevételére jogosító támogatási igazolást ad ki. Amennyiben a közvetett támogatás forrását biztosító szervezet a közvetett támogatást a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján az NFI részére történő felajánlás formájában biztosítja, a Hatóság a közvetett támogatás igénybevételére jogosító támogatási igazolást nem állít ki. A Hatóság a Tao. tv. 24/A. § (16) bekezdés a) pontja szerint igazolást a közvetett támogatás forrását biztosító szervezet és a felajánlás fogadására jogosult filmelőállító vagy filmgyártó vállalkozás együttes kérelmére állítja ki.
 
-(4) A költségellenőrzést lezáró határozat, valamint a támogatási igazolás kiállításának feltétele, hogy a filmalkotás előállítója, illetve gyártója vállalja az állam támogatóként történő feltüntetését a filmalkotás végefőcímében az Elnök által rendeletben meghatározott módon.
+(4) A költségellenőrzést lezáró határozat, valamint a támogatási igazolás kiállításának feltétele, hogy a filmalkotás előállítója, illetve gyártója vállalja az állam támogatóként történő feltüntetését a filmalkotás végefőcímében a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter által rendeletben meghatározott módon.
 
 (5) A támogatási igazolás kiadása iránti
 
 - a) kérelemben – ha a közvetett támogatás forrását biztosító szervezet a filmelőállítóval, illetve filmgyártó vállalkozással köt szerződést a filmalkotás támogatásáról és a kérelmező a közvetett támogatás forrását biztosító szervezet vagy az NFI – a támogatási igazolás kiadása iránti kérelem benyújtásával egyidejűleg, egyéb esetben legkésőbb a kérelem benyújtását követő 30 napon belül meg kell jelölni a közvetett támogatás forrását biztosító szervezet nevét, székhelyét, adószámát és csatolni kell a filmalkotás támogatására vonatkozó szerződést,
-- b) kérelemhez – ha azt a Hivatal az NFI kérelmére adja ki – csatolni kell az NFI és a közvetett támogatás forrását biztosító szervezet között létrejött megállapodást, továbbá a közvetett támogatás forrásának a kincstárnál e célra vezetett letéti számlára (a továbbiakban: letéti számla) történt megfizetést igazoló, a kincstár által kiállított okiratot,
+- b) kérelemhez – ha azt a Hatóság az NFI kérelmére adja ki – csatolni kell az NFI és a közvetett támogatás forrását biztosító szervezet között létrejött megállapodást, továbbá a közvetett támogatás forrásának a kincstárnál e célra vezetett letéti számlára (a továbbiakban: letéti számla) történt megfizetést igazoló, a kincstár által kiállított okiratot,
 - c) a kérelemhez csatolni kell a (2) bekezdésben meghatározott iratokat,
 - d) kérelemhez, ha azt költségellenőrzési eljárás előzte meg, csatolni kell a 31/B. § (2c) bekezdésében meghatározott hozzájárulás megfizetését igazoló iratot.
 
@@ -1086,31 +1086,31 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (8) Megrendelésre készülő filmalkotás esetén a filmgyártó vállalkozás kérelme alapján – ide nem értve a (7) bekezdés szerinti kérelem alapján kiadott támogatási igazolásokat – a támogatási igazoláson és a költségellenőrzési eljárásban hozott határozatban a filmelőállító is feltüntethető.
 
-(9) A Hivatal a kiadott támogatási igazolásokkal és a költségellenőrzési eljárásban hozott határozatokkal összefüggésben birtokába került okiratokat az igazolás kiadásának évét követő tíz évig őrzi meg.
+(9) A Hatóság a kiadott támogatási igazolásokkal és a költségellenőrzési eljárásban hozott határozatokkal összefüggésben birtokába került okiratokat az igazolás kiadásának évét követő tíz évig őrzi meg.
 
-(10) A Hivatal a támogatási igazolással vagy a költségellenőrzési eljárással összefüggő döntését a filmelőállítón, illetve a filmgyártó vállalkozáson kívül szükséges esetben közli az állami adóhatósággal is.
+(10) A Hatóság a támogatási igazolással vagy a költségellenőrzési eljárással összefüggő döntését a filmelőállítón, illetve a filmgyártó vállalkozáson kívül szükséges esetben közli az állami adóhatósággal is.
 
-31/D. § (1) A Hivatal a támogatási igazolást, valamint a költségellenőrzési eljárást lezáró határozatot – a (2) bekezdésben és a 31/C. § (2a) és (3) bekezdés b) pontjában meghatározott kivétellel – a filmalkotás gyártásának lezárását követően, a filmalkotás közvetlen filmgyártási költségeinek egészére vonatkozóan adja ki. A filmalkotásra vonatkozó támogatási igazolás, valamint a költségellenőrzési eljárást lezáró határozat kiállításának feltétele, hogy a Hivatal véglegessé vált hatósági határozatában megállapítsa a filmalkotás után járó közvetett támogatás igénybevételére vonatkozó jogosultságot.
+31/D. § (1) A Hatóság a támogatási igazolást, valamint a költségellenőrzési eljárást lezáró határozatot – a (2) bekezdésben és a 31/C. § (2a) és (3) bekezdés b) pontjában meghatározott kivétellel – a filmalkotás gyártásának lezárását követően, a filmalkotás közvetlen filmgyártási költségeinek egészére vonatkozóan adja ki. A filmalkotásra vonatkozó támogatási igazolás, valamint a költségellenőrzési eljárást lezáró határozat kiállításának feltétele, hogy a Hatóság véglegessé vált hatósági határozatában megállapítsa a filmalkotás után járó közvetett támogatás igénybevételére vonatkozó jogosultságot.
 
 (2) A filmelőállító vagy filmgyártó vállalkozás jogosult a támogatási igazolás kiadására vonatkozó kérelmét naptári hónapok szerinti vagy naptári negyedévi ütemezésben előterjeszteni, ha a filmalkotás gyártása nem fejeződik be kilenc hónapon belül vagy a filmalkotás közvetlen filmgyártási költségei a 150 millió forintot meghaladják.
 
 (3) A (2) bekezdésben foglaltak alkalmazása esetén az egy-egy igazolásban szereplő összeg – ugyanazon filmhez a közvetett támogatás forrását biztosító több szervezet részére történő igazolás kiadása esetén az együttes összeg – legfeljebb az igazolás kiadásáig felmerült közvetlen filmgyártási költség 30%-áig terjedhet.
 
-(4) A 12. § (10) bekezdése szerinti arány teljesülése céljából a Hivatal a (2) bekezdés szerinti esetekben, a filmelőállító, illetve a filmgyártó vállalkozás kérelmére az utolsó pénzügyileg elszámolt időszak után záró elszámolást készít, amelyben figyelembe veszi az elszámolt költségek egészére tekintettel a 12. § (10) bekezdésében foglalt arányok érvényesíthetőségét, valamint a jogdíj, befejezési garancia, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekcióját, valamint a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költséget, továbbá a 31/D. § (3) bekezdése szerint megállapított közvetett támogatás 30%-os mértékig történő kiegészítését, amennyiben megfelel a támogatásra jogosultság egyéb feltételeinek.
+(4) A 12. § (10) bekezdése szerinti arány teljesülése céljából a Hatóság a (2) bekezdés szerinti esetekben, a filmelőállító, illetve a filmgyártó vállalkozás kérelmére az utolsó pénzügyileg elszámolt időszak után záró elszámolást készít, amelyben figyelembe veszi az elszámolt költségek egészére tekintettel a 12. § (10) bekezdésében foglalt arányok érvényesíthetőségét, valamint a jogdíj, befejezési garancia, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekcióját, valamint a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költséget, továbbá a 31/D. § (3) bekezdése szerint megállapított közvetett támogatás 30%-os mértékig történő kiegészítését, amennyiben megfelel a támogatásra jogosultság egyéb feltételeinek.
 
-(5) A Hivatal a támogatási igazolás vagy a költségellenőrzési eljárást lezáró határozat kiadásakor ellenőrzi a 13. §-ban meghatározott támogatási arányok betartását, és azok túllépése esetén a jogellenesen kifizetett támogatási többletet a támogatási igazolásban vagy a költségellenőrzési eljárásban hozott határozatban meghatározott összegből levonja.
+(5) A Hatóság a támogatási igazolás vagy a költségellenőrzési eljárást lezáró határozat kiadásakor ellenőrzi a 13. §-ban meghatározott támogatási arányok betartását, és azok túllépése esetén a jogellenesen kifizetett támogatási többletet a támogatási igazolásban vagy a költségellenőrzési eljárásban hozott határozatban meghatározott összegből levonja.
 
-(6) A Hivatal indokolt kérelemre, különös méltánylást érdemlő esetben a 31/D. § (2) bekezdése szerint kiadott támogatási igazolásokat vagy a költségellenőrzési eljárásokat lezáró határozatokat az addig összesen elszámolt és igazolt filmgyártási költségek egészére tekintettel állítja ki a 12. § (10) bekezdésében foglalt arány, valamint a jogdíj, befejezési garancia, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekciója, valamint a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költség érvényesíthetősége, továbbá a 31/D. § (3) bekezdése szerint megállapított közvetett támogatás 30%-os mértékig történő kiegészítése érdekében, amennyiben megfelel a támogatásra jogosultság egyéb feltételeinek. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
+(6) A Hatóság indokolt kérelemre, különös méltánylást érdemlő esetben a 31/D. § (2) bekezdése szerint kiadott támogatási igazolásokat vagy a költségellenőrzési eljárásokat lezáró határozatokat az addig összesen elszámolt és igazolt filmgyártási költségek egészére tekintettel állítja ki a 12. § (10) bekezdésében foglalt arány, valamint a jogdíj, befejezési garancia, a produceri díj és a gyártáshoz kapcsolódó elszámolható reklámköltségek tekintetében alkalmazandó elszámolási limitek korrekciója, valamint a 31/E. § (2) bekezdése alapján a kérelemben feltüntetett időszakban figyelembe nem vett, pénzügyileg teljesített költség érvényesíthetősége, továbbá a 31/D. § (3) bekezdése szerint megállapított közvetett támogatás 30%-os mértékig történő kiegészítése érdekében, amennyiben megfelel a támogatásra jogosultság egyéb feltételeinek. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
 
 (7) A Tao. tv. 22. § (3) bekezdése szerint biztosított támogatás esetében a közvetett támogatás forrását biztosító szervezet az NFI-vel kötött megállapodás alapján utalja a közvetett támogatás forrását a letéti számlára. A Tao. tv. 24/A. § (3) bekezdés a) pontja szerint biztosított közvetett támogatás esetében a kedvezményezett célra felajánlott összeget mint közvetett támogatást az állami adóhatóság utalja a letéti számlára. A letéti számlára a tárgyévben befizetett összeg a Tao. tv. 22. § (8) bekezdés a) pontja szerinti kiegészítő támogatás nélkül nem haladhatja meg az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összeget.
 
 (8) A letéti számlát a társadalompolitika összehangolásáért felelős miniszter nyitja meg. A letéti számlán lévő pénzeszközökkel pénzügyi művelet az e törvényben meghatározott esetekben és módon az NFI rendelkezése alapján végezhető.
 
-(9) A közvetett támogatás kifizetését a filmelőállító, illetve a filmgyártó vállalkozás akkor kérheti az NFI-től, ha a Hivatal által a filmalkotás adott gyártási időszaka tekintetében meghozott, a 31/C. § (1) bekezdése szerinti határozata véglegessé vált és támogatási szerződést még nem kötött. A 31/C. § (1) bekezdése szerinti határozat véglegessé válásának időpontjáról a Hivatal nyilvántartást vezet. A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdése szerinti határozat véglegessé válásának sorrendjében történhet.
+(9) A közvetett támogatás kifizetését a filmelőállító, illetve a filmgyártó vállalkozás akkor kérheti az NFI-től, ha a Hatóság által a filmalkotás adott gyártási időszaka tekintetében meghozott, a 31/C. § (1) bekezdése szerinti határozata véglegessé vált és támogatási szerződést még nem kötött. A 31/C. § (1) bekezdése szerinti határozat véglegessé válásának időpontjáról a Hatóság nyilvántartást vezet. A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdése szerinti határozat véglegessé válásának sorrendjében történhet.
 
 (10) Az NFI a közvetett támogatás kifizetését – a letéti számláján rendelkezésre álló keretösszeg erejéig – a (9) bekezdés szerinti sorrendben a (9) bekezdés szerint jogosult filmelőállító vagy filmgyártó vállalkozás részére a támogatás kifizetésére irányuló kérelmének benyújtását követő 15 banki napon belül kezdeményezi a kincstárnál. Az NFI a támogatások gyűjtésével és kifizetésével kapcsolatos tevékenységéért a nyújtott támogatás legfeljebb 2,5%-ának megfelelő adminisztrációs díjat jogosult felszámítani a filmelőállítóval vagy a filmgyártó vállalkozással szemben.
 
-(11) Az NFI a letéti számlán kezelt pénzösszeg terhére az e törvény szerint közvetlen támogatásban vagy az MTVA által nyújtott támogatásban is részesülő filmalkotások közvetett támogatására, legfeljebb a Hivatalnak 31/B. § (1) bekezdése szerinti kérelemre indult hatósági eljárásban hozott határozatában megállapított, a filmelőállító vagy a filmgyártó vállalkozás által az adott filmalkotás tekintetében igénybe vehető közvetett támogatásra való jogosultsága összege mértékéig tartalékot képezhet.
+(11) Az NFI a letéti számlán kezelt pénzösszeg terhére az e törvény szerint közvetlen támogatásban is részesülő filmalkotások közvetett támogatására, legfeljebb a Hatóságnak 31/B. § (1) bekezdése szerinti kérelemre indult hatósági eljárásban hozott határozatában megállapított, a filmelőállító vagy a filmgyártó vállalkozás által az adott filmalkotás tekintetében igénybe vehető közvetett támogatásra való jogosultsága összege mértékéig tartalékot képezhet.
 
 (12) Ha a letéti számlán rendelkezésre álló keretösszeg – a (11) bekezdésben említett tartalékot nem számítva – teljes mértékben felhasználásra kerül, a (10) bekezdésben foglalt elintézési határidő megszakad és az NFI a támogatások kifizetését a letéti számlára pótlólagosan befizetett támogatások beérkezését követően folytatja.
 
@@ -1120,7 +1120,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 31/E. § (1) A közvetlen filmgyártási költségek között az a filmgyártási és filmgyártás-előkészítési költség ismerhető el, amely e törvényben meghatározott, a mozgóképszakmai szervezetek és személyek nyilvántartásába való bejegyzés iránti kérelem benyújtását követően – a magyarországi gyártással összefüggésben belföldön vagy külföldön – keletkezett, és megfelel a (2)–(9) bekezdésben meghatározott feltételeknek.
 
-(2) A Hivatal a gyártási ütemezés adott szakaszára eső összegként csak azon költségeket veszi figyelembe, amelyek a kérelemben feltüntetett időszak kezdő és záró napja között kerültek a produkció munkaszámos főkönyvi kivonatában könyvelésre.
+(2) A Hatóság a gyártási ütemezés adott szakaszára eső összegként csak azon költségeket veszi figyelembe, amelyek a kérelemben feltüntetett időszak kezdő és záró napja között kerültek a produkció munkaszámos főkönyvi kivonatában könyvelésre.
 
 (3) Csak az a költség ismerhető el közvetlen filmgyártási költségként, amelynek teljesítését igazoló okirat a Hatóság támogatásra jogosultságot megállapító határozatában meghatározott gyártási időszakon belül, illetve az abban rögzített befejezési időpontot követő három hónapon belül keletkezik.
 
@@ -1138,7 +1138,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (10) A 31/B. § (2c) bekezdése szerinti mozgóképszakmai képzési hozzájárulás közvetlen filmgyártási költségként elszámolható.
 
-(11) A közvetlen filmgyártási költségek között a befejezési garancia elszámolt összege nem haladhatja meg a közvetlen filmgyártási költségek 5%-át, de legfeljebb 100 millió forintot. Az Elnök rendeletében meghatározhatja azon eseteket, amikor a befejezési garancia elszámolt összege ezt a mértéket meghaladhatja.
+(11) A közvetlen filmgyártási költségek között a befejezési garancia elszámolt összege nem haladhatja meg a közvetlen filmgyártási költségek 5%-át, de legfeljebb 100 millió forintot. A 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletében meghatározhatja azon eseteket, amikor a befejezési garancia elszámolt összege ezt a mértéket meghaladhatja.
 
 (12) Amennyiben a filmgyártásban közvetlenül közreműködő külföldi előadóművészek és stábtagok javadalmazása nem közvetlen magyar filmgyártási költségként kerül elszámolásra és a magánszemély vagy a képviseletében eljáró jogi személy javadalmazása meghaladja a hárommillió forintot, a magánszemélyt vagy a képviseletében eljáró jogi személyt megillető javadalmazás hárommillió forint feletti részének 50%-a számolható el közvetlen filmgyártási költségként.
 
@@ -1161,39 +1161,39 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (5) A belföldi szállító által kiállított számla és egyéb belföldi költség magyar filmgyártási költségnek minősül, és csak e § szerint számolható el.
 
-(6) A Hivatal indokolt esetben a hatósági ellenőrzést kiterjesztheti a közbenső szerződő felekre, illetve alvállalkozókra, valamint érintett jogviszonyaikra annak érdekében, hogy a hatósági ellenőrzés hatálya alá a szolgáltatás tényleges teljesítője is bevonható legyen.
+(6) A Hatóság indokolt esetben a hatósági ellenőrzést kiterjesztheti a közbenső szerződő felekre, illetve alvállalkozókra, valamint érintett jogviszonyaikra annak érdekében, hogy a hatósági ellenőrzés hatálya alá a szolgáltatás tényleges teljesítője is bevonható legyen.
 
 31/G. § (1) Az NFI által nyújtott, valamint a 12. § (6) bekezdése szerinti megállapodások alapján más támogató által nyújtott támogatások esetén az NFI ellenőrzi a támogatások felhasználását, és a filmalkotás pénzügyi elszámolását, amelyről az NFI a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete szerinti jegyzőkönyvet állít ki. A jegyzőkönyvet az NFI haladéktalanul megküldi a Hatóság részére. A Hatóságot a 31/C. § (1) bekezdésében foglalt támogatási igazolás, valamint költségellenőrzési eljárás tárgyában hozott hatósági döntésének NFI által vizsgált részében az NFI által benyújtott jegyzőkönyv tartalma köti, hatósági döntésében a jegyzőkönyvben foglaltaktól – a (2) bekezdésben foglaltak kivételével – nem térhet el.
 
-(2) Amennyiben a jegyzőkönyv tartalma nem felel meg a jogszabályokban foglalt feltételeknek, a Hivatal határidő tűzésével a jegyzőkönyv jogszabályoknak való megfelelőségét biztosító módosítására hívja fel az NFI-t. Ha a jegyzőkönyv a felhívás ellenére sem felel meg a jogszabályi rendelkezéseknek, a Hivatal a jegyzőkönyvet és annak tartalmát hatósági eljárásában és hatósági döntésében figyelmen kívül hagyja.
+(2) Amennyiben a jegyzőkönyv tartalma nem felel meg a jogszabályokban foglalt feltételeknek, a Hatóság határidő tűzésével a jegyzőkönyv jogszabályoknak való megfelelőségét biztosító módosítására hívja fel az NFI-t. Ha a jegyzőkönyv a felhívás ellenére sem felel meg a jogszabályi rendelkezéseknek, a Hatóság a jegyzőkönyvet és annak tartalmát hatósági eljárásában és hatósági döntésében figyelmen kívül hagyja.
 
-(3) A Hivatal a film gyártásának megkezdésétől a film bemutatásának napjáig helyszíni ellenőrzést folytathat le figyelemmel a (1) bekezdésben foglaltakra.
+(3) A Hatóság a film gyártásának megkezdésétől a film bemutatásának napjáig helyszíni ellenőrzést folytathat le figyelemmel a (1) bekezdésben foglaltakra.
 
-(4) A (1)–(3) bekezdésben foglaltakat kell alkalmazni, ha a közvetlen támogatást nyújtó – e rendelkezés alkalmazásában ideértve az MTVA-t is – az Elnök rendelete szerinti jegyzőkönyvet állít ki.
+(4) A (1)–(3) bekezdésben foglaltakat kell alkalmazni, ha a közvetlen támogatást nyújtó a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete szerinti jegyzőkönyvet állít ki.
 
-31/H. § A támogatási jogosultság kiadása esetén a Hivatal az e tárgyban folytatott hatósági eljárást lezáró határozat jogerőre emelkedését követően, hivatalból indított eljárásban haladéktalanul bejegyzi a filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket a támogatásra jogosult filmalkotásokról vezetett nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hivatal a támogatási igazolás kiállítására vagy a költségellenőrzésre irányuló eljárást lezáró véglegessé vált hatósági határozatban megállapított adatokkal egészíti ki a nyilvántartás adatait.
+31/H. § A támogatási jogosultság kiadása esetén a Hatóság az e tárgyban folytatott hatósági eljárást lezáró határozat véglegessé válását követően, hivatalból indított eljárásban haladéktalanul bejegyzi a filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket a támogatásra jogosult filmalkotásokról vezetett nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hatóság a támogatási igazolás kiállítására vagy a költségellenőrzésre irányuló eljárást lezáró véglegessé vált hatósági határozatban megállapított adatokkal egészíti ki a nyilvántartás adatait.
 
-### 6. CÍM — A Hivatal egyéb feladatai
+### 6. CÍM — A Hatóság egyéb feladatai
 
-32. § (1) A Hivatal ellátja az Országos Statisztikai Adatgyűjtési Program mozgóképszakmai információs rendszerének működtetéséhez szükséges feladatokat.
+32. § (1) A Hatóság ellátja az Országos Statisztikai Adatgyűjtési Program mozgóképszakmai információs rendszerének működtetéséhez szükséges feladatokat.
 
-(2) A Hivatal az e törvény szerinti nyilvántartását az Elnök által rendeletben meghatározott módon elektronikus úton kezelhető adatbázisba rendezi.
+(2) A Hatóság az e törvény szerinti nyilvántartását a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter által rendeletben meghatározott módon elektronikus úton kezelhető adatbázisba rendezi.
 
-(3) A Hivatal e törvény alapján igazolja a nyilvántartásában szereplő adatok alapján a természetes személyek és szervezetek, valamint filmalkotások támogathatóságát, annak mértékét, így különösen a közvetlen támogatásokkal való elszámolás tényét.
+(3) A Hatóság e törvény alapján igazolja a nyilvántartásában szereplő adatok alapján a természetes személyek és szervezetek, valamint filmalkotások támogathatóságát, annak mértékét, így különösen a közvetlen támogatásokkal való elszámolás tényét.
 
-(4) A Hivatal, hivatalból indított eljárásban statisztikai célból hatósági nyilvántartásba vesz minden olyan filmalkotást, amelynek előkészítéséhez vagy gyártásához e törvény szerinti támogatást nem vesznek igénybe. Az ilyen filmalkotások nyilvántartásba vételére vonatkozó részletes szabályokat az Elnök rendelete állapítja meg.
+(4) A Hatóság, hivatalból indított eljárásban statisztikai célból hatósági nyilvántartásba vesz minden olyan filmalkotást, amelynek előkészítéséhez vagy gyártásához e törvény szerinti támogatást nem vesznek igénybe. Az ilyen filmalkotások nyilvántartásba vételére vonatkozó részletes szabályokat a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete állapítja meg.
 
-(5) A Hivatal az általa kezelt mozgóképszakmai statisztikai adatbázisból kérelemre adatot szolgáltat.
+(5) A Hatóság az általa kezelt mozgóképszakmai statisztikai adatbázisból kérelemre adatot szolgáltat.
 
 (6) A (2) bekezdés szerinti adatbázisban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-33. § (1) A Hivatal segíti a filmelőállítókat, filmterjesztőket és mozgóképszakmai szervezeteket a nemzetközi kapcsolatok létrehozásában. Támogatja a mozgóképipar fejlődését elősegítő, a törvényben foglalt rendelkezések nemzetközi piaci szereplőkkel való megismertetését, valamint részt vesz az európai és nemzetközi mozgóképszakmai szervezetek munkájában.
+33. § (1) A Hatóság segíti a filmelőállítókat, filmterjesztőket és mozgóképszakmai szervezeteket a nemzetközi kapcsolatok létrehozásában. Támogatja a mozgóképipar fejlődését elősegítő, a törvényben foglalt rendelkezések nemzetközi piaci szereplőkkel való megismertetését, valamint részt vesz az európai és nemzetközi mozgóképszakmai szervezetek munkájában.
 
-(2) A Hivatal ellátja a két- és többoldalú nemzetközi koprodukciós szerződésekben megállapított feladatokat, így különösen kiállítja a nemzetközi egyezmény által előírt koprodukciós igazolást, az egyezményben meghatározott eljárás szerint.
+(2) A Hatóság ellátja a két- és többoldalú nemzetközi koprodukciós szerződésekben megállapított feladatokat, így különösen kiállítja a nemzetközi egyezmény által előírt koprodukciós igazolást, az egyezményben meghatározott eljárás szerint.
 
-(3) A Hivatal szakmai javaslatokat tehet a miniszternek a mozgóképszakma hazai és nemzetközi stratégiai kérdéseivel, és az Európai Unió audiovizuális programjaiban való magyar részvétellel kapcsolatos kormányzati politika kialakításához, javaslatot tehet nemzetközi koprodukciós egyezmények megkötésére, illetve azok tartalmára.
+(3) A Hatóság szakmai javaslatokat tehet a miniszternek a mozgóképszakma hazai és nemzetközi stratégiai kérdéseivel, és az Európai Unió audiovizuális programjaiban való magyar részvétellel kapcsolatos kormányzati politika kialakításához, javaslatot tehet nemzetközi koprodukciós egyezmények megkötésére, illetve azok tartalmára.
 
-33/A. § A Hivatal ellátja Magyarország képviseletét az Európai Audiovizuális Obszervatóriumban.
+33/A. § A Hatóság ellátja Magyarország képviseletét az Európai Audiovizuális Obszervatóriumban.
 
 ### IV. Fejezet — A KÖZTERÜLETEK ÉS AZ ÁLLAM TULAJDONÁBAN ÁLLÓ EGYÉB INGATLANOK FILMFORGATÁSI CÉLÚ HASZNÁLATA
 
@@ -1236,7 +1236,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (2) E fejezet alkalmazásában filmalkotásnak minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilm is.
 
-(3) A tizenhatodik életévét be nem töltött személy mozgóképipari tevékenység során történő foglalkoztatásának engedélyezésekor a gyámhatóság vizsgálni köteles a filmalkotás tartalmát, jellegét és a fiatal munkavállalóra gyakorolt lehetséges hatásait. A kérelmet nem lehet kizárólag azon az alapon érdemi vizsgálat nélkül elutasítani, hogy a foglalkoztatni kívánt fiatal munkavállaló életkora nem egyeztethető össze a készülő filmalkotás 21. § szerinti korhatár besorolásával.
+(3) A tizenhatodik életévét be nem töltött személy filmipari tevékenység során történő foglalkoztatásának bejelentésekor a gyámhatóság vizsgálni köteles a filmalkotás tartalmát, jellegét és a fiatal munkavállalóra gyakorolt lehetséges hatásait. A tevékenységet nem lehet kizárólag azon az alapon határozatban megtiltani, hogy a foglalkoztatni kívánt fiatal munkavállaló életkora nem egyeztethető össze a készülő filmalkotás 21. § szerinti korhatár besorolásával.
 
 35/B. § (1) Ha a filmfelvétel objektív körülményekre tekintettel más időpontban nem rögzíthető, mozgóképipari tevékenysége során a fiatal munkavállaló számára éjszakai munka – az Mt. 114. § (1) bekezdésétől eltérően – az alábbiak szerint rendelhető el:
 
@@ -1253,7 +1253,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 36. § (1) Ez a törvény 2004. április 1-jén lép hatályba. A 2. § 15. e) pont az Európai Unióhoz történő csatlakozásról szóló nemzetközi szerződés kihirdetésének napján lép hatályba.
 
-(2) A Hivatal e törvény szerinti eljárásainak díjai megfizetésének módját és feltételeit, valamint a díjak mértékét és a díjképzés szabályait az Elnök rendeletben állapítja meg.
+(2) A Filmiroda e törvény szerinti eljárásainak díjai megfizetésének módját és feltételeit, valamint a díjak mértékét és a díjképzés szabályait a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendeletben állapítja meg.
 
 (3) A törvény hatálybalépésének időpontjában már terjesztés alatt álló filmalkotásokat az ,,art''-minősítés tekintetében nem kell ismételten, e törvény rendelkezései szerint besorolni, azokra továbbra is a Magyar Mozgókép Közalapítvány által elismert ,,art''-minősítések alkalmazhatók.
 
@@ -1360,6 +1360,8 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a kulturális értéket műfaja alapján létre nem hozó filmalkotást.
 
+(1c) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki azt a minisztert, aki által vezetett minisztériumban a mozgóképszakmai hatóságként eljáró Filmiroda önálló szervezeti egységként működik.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 - a) a nem filmgyártásra vonatkozó mozgóképszakmai tevékenységek e törvény szerinti támogatásának szabályait,
@@ -1376,14 +1378,14 @@ rendeletben állapítsa meg.
 
 (5)
 
-38. § Felhatalmazást kap az Elnök, hogy rendeletben állapítsa meg
+38. § Felhatalmazást kap a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter, hogy rendeletben állapítsa meg
 
-- a) a Hivatal által e törvény alapján vezetett nyilvántartásba bejegyezhető adatok körét, az adatszolgáltatásra kötelezettek körét, a Hivatal részére teljesítendő adatszolgáltatás és a nyilvántartásból történő adatszolgáltatás módját,
-- b) a Hivatal által megállapított kategória szerinti jelzés filmalkotáson, mozielőzetesen, azok nyilvános vetítésén, a forgalomba hozott adathordozó csomagolásán, illetve borítóján, továbbá a filmalkotással kapcsolatos közleményben és hirdetésben való feltüntetésének módját,
+- a) a Filmiroda által e törvény alapján vezetett nyilvántartásba bejegyezhető adatok körét, az adatszolgáltatásra kötelezettek körét, a Filmiroda részére teljesítendő adatszolgáltatás és a nyilvántartásból történő adatszolgáltatás módját,
+- b) a Filmiroda által megállapított kategória szerinti jelzés filmalkotáson, mozielőzetesen, azok nyilvános vetítésén, a forgalomba hozott adathordozó csomagolásán, illetve borítóján, továbbá a filmalkotással kapcsolatos közleményben és hirdetésben való feltüntetésének módját,
 - c) a filmalkotások korhatár szerinti megjelölésének feltételeit,
 - d) a közvetett támogatási eljárásban az NFI és más támogató által nyújtott támogatás esetén a támogatások felhasználásának és a filmalkotás pénzügyi elszámolásának ellenőrzése tekintetében az NFI és más támogató által kiállított jegyzőkönyv tartalmának részletes szabályait,
 - e) a nemzetközi egyezményekben meghatározott koprodukciós igazolások, valamint a magyar mozgóképszakma nemzetközi együttműködéséhez szükséges egyéb igazolások kiadásának rendjét,
-- f) a Hivatal által megállapított, e törvény szerinti támogatás igénybevételének alapjául szolgáló filmgyártási költségeket,
+- f) a Filmiroda által megállapított, e törvény szerinti támogatás igénybevételének alapjául szolgáló filmgyártási költségeket,
 - g) azon eljárások vagy a nem hatósági mozgóképszakmai statisztikai feladatok körét, amelyben kötelező vagy kizárólagos az elektronikus kapcsolattartás,
 - h) az e törvény szerint nyilvántartások elektronikus úton kezelhető adatbázisba rendezésének módját és feltételeit,
 - i) a Hatóság e törvény szerinti eljárásaihoz kapcsolódó igazgatási szolgáltatási díj megfizetésének és kezelésének módját és feltételeit, a díjak mértékét és a díjképzés szabályait, valamint a díj nyilvántartásának és visszatérítésének rendjét,
@@ -1400,7 +1402,7 @@ rendeletben állapítsa meg.
 
 38/B. § E törvény
 
-- a) III. Fejezete az Alaptörvény IX. cikk (6) bekezdése,
+- a)
 - b) 11. §-a az Alaptörvény 38. cikk (1)–(2) bekezdése
 
 alapján sarkalatosnak minősül.

@@ -300,7 +300,14 @@ rendelkező személy.
 
 (4) A tiszteletbeli elnöki cím adományozásának feltételeiről az Alapszabály rendelkezik.
 
-26. § (1) Az elnököt a miniszteri illetménnyel azonos mértékű díjazás, a főtitkárt a közigazgatási államtitkári illetménnyel azonos mértékű javadalmazás, valamint évente 40 munkanap szabadság illeti meg. Egyéb juttatásaik tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben, továbbá az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletben foglaltakat kell megfelelően alkalmazni. Az elnök és a főtitkár az Alapszabályban rögzített feltételek szerint költségtérítésben részesül.
+26. § (1) Az elnököt a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetmény felső határának megfelelő illetmény, a főtitkárt a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetmény illeti meg. Az elnök és a főtitkár az Alapszabályban rögzített feltételek szerint költségtérítésben részesül.
+
+(1a) A (1) bekezdésben foglalt illetményen túl
+
+- a) az elnököt miniszteri juttatás és évente 40 munkanap szabadság, valamint
+- b) a főtitkárt közigazgatási államtitkári juttatás és évente 40 munkanap szabadság
+
+illeti meg.
 
 (2) Az (1) bekezdésben nem említett tisztségviselők a tevékenységükért az Alapszabályban rögzített feltételek szerint díjazásban és költségtérítésben részesülhetnek.
 

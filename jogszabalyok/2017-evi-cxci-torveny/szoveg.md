@@ -107,7 +107,7 @@ f) a Magyar Nemzeti Banknak a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX.
 
 (9) Ha a felperes a bíróság által meghatározott határidőn belül nem nyilatkozik, és a jogsérelem orvoslása érdekében tett cselekmény a kereseti kérelemnek eleget tett, a bíróság az eljárást megszünteti, és az alperest a felperes perköltségének megfizetésére kötelezi. Az eljárás részben való megszüntetése folytán az MNB-t terhelő költségek megfizetéséről a bíróság az eljárást befejező határozatában dönt.
 
-(10) Az e § szerinti, első fokon folyamatban lévő perekben a Fővárosi Törvényszék jár el. Az ügyeket a közigazgatási és munkaügyi bíróság megküldi a Fővárosi Törvényszéknek.
+(10)
 
 17. § Az MNB hatáskörébe tartozó döntések ellen 2018. január 1-jét követően indított közigazgatási perben – ide nem értve a felülvizsgálati eljárást –, valamint az e perek kapcsán indított perújítás esetén a keresetlevélben állított, valamint az MNB által hivatalból észlelt jogsérelem orvoslása érdekében az eljárást befejező határozat meghozataláig eljárást indíthat, amely során a 16. § (2)–(5) bekezdését megfelelően alkalmazni kell.
 

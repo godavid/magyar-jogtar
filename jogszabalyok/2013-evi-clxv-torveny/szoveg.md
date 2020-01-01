@@ -18,11 +18,11 @@ Az Országgyűlés, elkötelezetten az állami szervek működésébe vetett kö
 
 2. § (1) A panaszt és a közérdekű bejelentést – ha törvény eltérően nem rendelkezik – az eljárásra jogosult szervhez történő beérkezésétől számított harminc napon belül kell elbírálni.
 
-(2) Ha az elbírálást megalapozó vizsgálat előreláthatólag harminc napnál hosszabb ideig tart, erről a panaszost vagy a közérdekű bejelentőt – az elintézés várható időpontjának és az eljárás meghosszabbodása indokainak egyidejű közlésével – tájékoztatni kell.
+(2) Ha az elbírálást megalapozó vizsgálat előreláthatólag harminc napnál hosszabb ideig tart, erről a panaszost vagy a közérdekű bejelentőt – az elintézés várható időpontjának és a vizsgálat meghosszabbodása indokainak egyidejű közlésével – tájékoztatni kell.
 
 (3) Az eljárásra jogosult szerv a panaszost vagy a közérdekű bejelentőt meghallgatja, ha azt a panasz vagy a közérdekű bejelentés tartalma szükségessé teszi.
 
-(4) Az eljárásra jogosult szerv a vizsgálat befejezésekor – a minősített adat, illetve törvény alapján üzleti, gazdasági vagy egyéb titoknak minősülő adat kivételével – a megtett intézkedésről vagy annak mellőzéséről – az indokok megjelölésével – a panaszost vagy a közérdekű bejelentőt haladéktalanul értesíti.
+(4) Az eljárásra jogosult szerv a panasz vagy a közérdekű bejelentés elintézésekor – a minősített adat, illetve törvény alapján üzleti, gazdasági vagy egyéb titoknak minősülő adat kivételével – a megtett intézkedésről vagy annak mellőzéséről – az indokok megjelölésével – a panaszost vagy a közérdekű bejelentőt haladéktalanul értesíti.
 
 (5) Az írásbeli értesítés mellőzhető, ha a panasz vagy a közérdekű bejelentés elintézéséről a panaszost vagy közérdekű bejelentőt szóban tájékoztatták, aki a tájékoztatást tudomásul vette.
 
@@ -46,6 +46,8 @@ Az Országgyűlés, elkötelezetten az állami szervek működésébe vetett kö
 (2) A panaszost vagy a közérdekű bejelentőt – a (4) bekezdésben foglaltak kivételével – nem érheti hátrány a panasz vagy a közérdekű bejelentés megtétele miatt.
 
 (3) A panaszos vagy a közérdekű bejelentő személyes adatai – a (4) bekezdésben foglaltak kivételével – csak a panasz vagy a közérdekű bejelentés alapján kezdeményezett eljárás lefolytatására hatáskörrel rendelkező szerv részére adhatóak át, ha e szerv annak kezelésére törvény alapján jogosult, vagy az adatai továbbításához a panaszos vagy a közérdekű bejelentő egyértelműen hozzájárult. A panaszos és a közérdekű bejelentő személyes adatai egyértelmű hozzájárulása nélkül nem hozhatóak nyilvánosságra.
+
+(3a) Ha az eljárásra jogosult szerv számára nyilvánvalóvá válik, hogy a panaszos vagy a közérdekű bejelentő rosszhiszeműen, döntő jelentőségű valótlan információt közölt, a panasz vagy a közérdekű bejelentés elbírálását megalapozó vizsgálatot intézkedés mellőzésével befejezheti.
 
 (4) Ha nyilvánvalóvá vált, hogy a panaszos vagy a közérdekű bejelentő rosszhiszeműen, döntő jelentőségű valótlan információt közölt és
 
@@ -85,7 +87,7 @@ Az Országgyűlés, elkötelezetten az állami szervek működésébe vetett kö
   - bc) a közérdekű bejelentővel való kapcsolattartás kizárólag az elektronikus rendszer útján történhet,
   - bd) az eljárásra jogosult szerv az alapvető jogok biztosának hivatalán keresztül kapcsolatba léphet a közérdekű bejelentővel, és kezdeményezheti a közérdekű bejelentő személyazonosságának felfedése nélküli kapcsolattartást a közérdekű bejelentővel.
 
-9. § Ha a közérdekű bejelentés természetes személyre vonatkozik, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 15. § (1) bekezdése alapján e természetes személyt megillető, a személyes adatairól való tájékoztatáshoz való joga gyakorlása során a közérdekű bejelentő személyes adatai nem tehetők megismerhetővé a tájékoztatást kérő személy számára.
+9. § Ha a közérdekű bejelentés természetes személyre vonatkozik, az e természetes személyt megillető, a személyes adatairól való tájékoztatáshoz való joga gyakorlása során a közérdekű bejelentő személyes adatai nem tehetők megismerhetővé a tájékoztatást kérő személy számára.
 
 10. § Az elektronikus rendszerben a közérdekű bejelentéssel, az az alapján folytatott vizsgálattal és a megtett intézkedésekkel kapcsolatos adatokat az utolsó vizsgálati cselekmény vagy intézkedés befejezésétől számított öt évig meg kell őrizni, azt követően törölni kell.
 
@@ -179,12 +181,16 @@ a bejelentés kivizsgálásához elengedhetetlenül szükséges személyes adata
 
 20. § Ez a törvény 2014. január 1-jén lép hatályba.
 
-21–22. §
+#### 21. §
 
-23. §
+#### 22. §
 
-24. §
+#### 23. §
+
+#### 24. §
 
 25. § A kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni egyezmény fakultatív jegyzőkönyvének kihirdetéséről szóló 2011. évi CXLIII. törvény 10. §-ában az Ajbt. 40. § (2) bekezdés a) pontját megállapító rendelkezés az „illetve a 2. § (6) bekezdésében meghatározottak szerinti” szövegrész helyett az „a 2. § (6) bekezdésében meghatározottak szerinti, valamint a közérdekű bejelentések vizsgálatával kapcsolatos” szöveggel lép hatályba.
 
-26–27. §
+#### 26. §
+
+#### 27. §

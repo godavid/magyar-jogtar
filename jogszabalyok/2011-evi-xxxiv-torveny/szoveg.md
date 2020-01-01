@@ -215,7 +215,7 @@ részére.
 
 (2) A kizárólag Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erő, valamint a Magyarország területén felállított nemzetközi katonai parancsnokság külföldi állománya tagjának egészségügyi ellátását végző, a külföldi fegyveres erő vagy a nemzetközi katonai parancsnokság állományába tartozó személy e tevékenységének végzése erejéig mentesül az egészségügyi tevékenység végzéséhez jogszabályban előírt engedélyezési feltételek teljesítése alól.
 
-12. § A Magyar Honvédséget valamely állam fegyveres erejével szemben megillető kártérítési igényekről a honvédelemért felelős miniszter erre vonatkozó viszonosság fennállta esetén, a viszonosság mértékéig lemondhat. A kárigényekről való lemondásra vonatkozó viszonosságot a Magyar Honvédség és az érintett állam fegyveres ereje közötti megállapodás, viszonossági nyilatkozat vagy nemzetközi szerződés rögzítheti.
+12. §
 
 #### 5. A külföldi fegyveres erők, a Magyarország területén felállított nemzetközi katonai parancsnokságok és azok állományának egyes mentességeihez kapcsolódó rendelkezések
 

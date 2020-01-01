@@ -35,7 +35,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (3) Az Alkotmánybíróság tagjának megbízatási ideje tizenkét év. Az Alkotmánybíróság tagja nem választható újra.
 
-(4) Az Alkotmánybíróságnak nem lehet tagja az, aki a megválasztása napját megelőző négy éven belül a Kormány tagja, valamely párt vezető tisztségviselője volt, vagy állami vezetői tisztséget töltött be.
+(4) Az Alkotmánybíróságnak nem lehet tagja az, aki a megválasztása napját megelőző négy éven belül a Kormány tagja, valamely párt vezető tisztségviselője volt, vagy politikai és szakmai felsővezetői tisztséget töltött be.
 
 7. § (1) Az Alkotmánybíróság tagjaira az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjai által jelölt legalább kilenc és legfeljebb tizenöt képviselőből álló jelölő bizottság tesz javaslatot. A bizottságban a képviselőcsoportok legalább egy-egy képviselőjének helyet kell kapnia.
 
@@ -69,7 +69,9 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 12. § A 10. §-ban meghatározott összeférhetetlenségi ok esetén az összeférhetetlenséget megállapító alkotmánybírósági határozat meghozatalának időpontjától az összeférhetetlenség megszüntetéséig, valamint a 11. §-ban meghatározott vagyonnyilatkozat-tétel elmulasztása esetén annak teljesítéséig az Alkotmánybíróság tagja a tisztségéből eredő jogkörét nem gyakorolhatja, és díjazásban, valamint juttatásban nem részesülhet.
 
-13. § (1) Az Alkotmánybíróság elnöke (a továbbiakban: elnök) kivételével az Alkotmánybíróság tagja a minisztert megillető díjazásra és juttatásokra jogosult, azzal az eltéréssel, hogy a vezetői illetménypótlék a miniszteri illetménypótlék másfélszerese.
+13. § (1) Az Alkotmánybíróság tagja az Alkotmánybíróság elnöke (a továbbiakban: elnök) kivételével a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény szerint a legmagasabb fizetési fokozatban megállapított Kúria tanácselnöki illetmény 130%-ára jogosult.
+
+(1a) Az Alkotmánybíróság tagja az elnök kivételével az (1) bekezdésben meghatározott illetményen túl miniszteri juttatásra jogosult.
 
 (2) Az Alkotmánybíróság tagja megbízatásának időtartama alatt a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak, díjazása nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül. Az Alkotmánybíróság tagja megbízatásának időtartama közszolgálati jogviszonyban töltött időnek számít.
 
@@ -156,7 +158,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (2) Az elnök az elnöki megbízatásról való lemondást az Országgyűlés elnökével írásban közli. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni, a megbízatás a lemondás benyújtásának a napjával szűnik meg. Az elnöki megbízatásról való lemondás az elnök Alkotmánybíróságban betöltött tagságát nem érinti.
 
-19. § (1) Az elnök díjazásának az összege megegyezik a köztisztviselői illetményalap harminckilencszeresével.
+19. § (1) Az elnök a Kúria elnökét megillető juttatásokra, valamint a Kúria elnökét megillető illetmény 120%-ára jogosult.
 
 (2)
 
@@ -170,7 +172,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (7) Az elnök, valamint a vele együtt üdülő házastársa, élettársa, gyermeke, szülője, unokája és gyermekének házastársa – térítési díj ellenében – jogosult a Kormány központi üdülőjének használatára. A térítési díj a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját foglalja magában.
 
-(8) Az elnök hivatalos külföldi kiküldetése idején kíséretre, az állami vezetők tekintetében irányadó napidíjra és költségtérítésre jogosult.
+(8) Az elnök hivatalos külföldi kiküldetése idején kíséretre, a politikai és szakmai felsővezetők tekintetében irányadó napidíjra és költségtérítésre jogosult.
 
 (9) Ha a külföldre utazás menetrendszerű repülőgéppel, illetve vonattal történik, az elnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe.
 
@@ -210,15 +212,17 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 22. § (1) Alkotmánybíróság igazgatási munkaszervezete az Alkotmánybíróság Hivatala, amely ellátja az Alkotmánybíróság szervezeti működtetési, ügyviteli és döntés-előkészítési feladatait.
 
-(2) Az Alkotmánybíróság Hivatalát a főtitkár vezeti. A főtitkárt az elnök javaslatára a teljes ülés választja meg.
+(2) Az Alkotmánybíróság Hivatalát a főtitkár vezeti. A főtitkárt az elnök javaslatára a teljes ülés választja meg. A főtitkár a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti közigazgatási államtitkári illetménysáv felső határának megfelelő összegű illetményre és közigazgatási államtitkári juttatásokra jogosult.
 
 (3) A főtitkár az elnök irányítása alatt végzi munkáját.
 
 (4) A főtitkár e törvényben és az Alkotmánybíróság ügyrendjében meghatározottak szerint közreműködik az Alkotmánybíróság döntéseinek előkészítésében.
 
-(5) Az elnök az Alkotmánybíróság Hivatalában foglalkoztatott köztisztviselőkre nézve a közszolgálati jogviszony létesítését a köztisztviselők jogállásáról szóló törvényben foglaltakon túlmenően meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
+(5) Az Alkotmánybíróság Hivatalában foglalkoztatott köztisztviselőkre és munkavállalókra nézve a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény rendelkezéseit kell megfelelően alkalmazni. Az elnök a közszolgálati jogviszony létesítését meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
 
 (6) Az Alkotmánybíróság Hivatalának szervezetére és működésére vonatkozó szabályokat az Alkotmánybíróság Szervezeti és Működési Szabályzata állapítja meg.
+
+(7) Az Alkotmánybíróság Hivatalának költségvetési, pénzügyi, gazdálkodási, üzemeltetési, fenntartási, gépkocsi-üzemeltetési és humánpolitikai feladatait a gazdasági főosztály látja el. A gazdasági főosztályt a gazdasági főigazgató vezeti. A gazdasági főigazgató az Alkotmánybíróság Hivatalának helyettes vezetője. A gazdasági főigazgató a Kit. szerinti helyettes államtitkári illetménysáv felső határának megfelelő összegű illetményre és helyettes államtitkári juttatásokra jogosult.
 
 #### 5/A. Az Alkotmánybíróság által alapított ösztöndíj
 

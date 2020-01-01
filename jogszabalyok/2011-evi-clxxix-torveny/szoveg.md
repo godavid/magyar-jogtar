@@ -47,7 +47,10 @@ a következő törvényt alkotja:
 - 3. nemzetiségi kulturális autonómia: olyan kollektív nemzetiségi jog, amely az e törvény szerinti intézmény-összességnek és nemzetiségi önszerveződéseknek a nemzetiségi közösség által önigazgatással történő működtetése során megvalósuló önállóságban testesül meg;
 - 4. nemzetiségi köznevelési intézmény:
   - a) az a köznevelési intézmény, amelynek alapító okirata a nemzeti köznevelésről szóló törvényben foglaltak szerint tartalmazza a nemzetiségi feladatok ellátását, feltéve, hogy e feladatokat a köznevelési intézmény ténylegesen ellátja, továbbá óvoda, iskola és kollégium esetén a tanulók legalább huszonöt százaléka részt vesz a nemzetiségi óvodai nevelésben, illetve a nemzetiségi iskolai nevelésben-oktatásban;
-  - b) nemzetiségi többcélú intézményen, nemzetiségi tagintézményen és nemzetiségi köznevelési intézmény intézményegységén a köznevelési törvény szerinti többcélú intézmény, tagintézmény és intézményegység értendő;
+  - b) nemzetiségi többcélú intézményen, nemzetiségi tagintézményen és nemzetiségi köznevelési intézmény intézményegységén a nemzeti köznevelésről szóló törvény szerinti többcélú intézmény, tagintézmény és intézményegység értendő;
+- 4a. nemzetiségi szakképző intézmény:
+  - a) az a szakképző intézmény, amelynek alapító okirata a szakképzésről szóló törvényben foglaltak szerint tartalmazza a nemzetiségi feladatok ellátását, feltéve, hogy e feladatokat a szakképző intézmény ténylegesen ellátja és a tanulók legalább huszonöt százaléka részt vesz a nemzetiségi iskolai nevelésben-oktatásban;
+  - b) nemzetiségi többcélú szakképző intézményen a többcélú szakképző intézmény értendő;
 - 5. nemzetiségi kulturális intézmény: olyan kulturális intézmény, amelynek jogszabályban, alapító okiratban előírt feladata a nemzetiségi identitáshoz kötődő tárgyi és szellemi kultúra, kulturális értékek, javak megőrzése, hozzáférhetővé tétele, hagyományok és a közösségi nyelvhasználat megőrzése, gyakorlása, terjesztése és továbbörökítése;
   - a) nemzetiségi közművelődési intézmény: a nemzetiséghez tartozók szellemi, kulturális örökségének, kulturális hagyományainak megőrzését, fenntartását, fejlesztését, bemutatását szolgáló intézmény;
   - b) nemzetiségi feladatot ellátó közgyűjtemény: olyan könyvtár, levéltár, muzeális intézmény, kép- illetve hangarchívum, amelynek alapító okiratában szerepel a nemzetiségi feladatellátás, vagy amelynek állományában nemzetiségi nyelvű, vagy nemzetiségre vonatkozó dokumentumok huszonöt százalékot elérő arányban találhatók, függetlenül a fenntartó szervezet típusától;
@@ -228,9 +231,12 @@ láthatja el.
 
 (4) A nemzetiségi anyanyelvű és anyanyelvi közneveléshez az anyanyelvű pedagógusok képzésének, továbbképzésének biztosítása állami feladat. E feladat keretében az állam támogatja a nemzetiségek anya-, illetve nyelvországából érkező oktatók magyarországi vendégtanári alkalmazását is.
 
-24. § (1) A nemzetiségi önkormányzat – a köznevelési törvényben és az államháztartás működési rendjéről szóló jogszabályokban meghatározottak szerint – köznevelési intézményt létesíthet és tarthat fenn, illetve az e törvényben meghatározott rendben átveheti a más szerv által létesített köznevelési intézmény fenntartói jogát.
+24. § A nemzetiségi önkormányzat köznevelési intézményt, illetve szakképző intézményt alapíthat és tarthat fenn. A nemzetiségi önkormányzat által fenntartott
 
-(2) A nemzetiségi önkormányzat által fenntartott köznevelési intézmény és többcélú intézmény vezetőjét az oktatásért felelős miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
+- a) köznevelési intézmény vezetőjét az oktatásért felelős miniszter,
+- b) szakképző intézmény vezetőjét a szakképzésért felelős miniszter
+
+egyetértésével a fenntartó bízza meg. Az egyetértés csak jogszabálysértés esetén tagadható meg.
 
 25. § (1) Állami, önkormányzati feladatot ellátó intézmény esetében az országos nemzetiségi önkormányzat kezdeményezésére át kell adni az országos nemzetiségi önkormányzat részére annak az országos vagy térségi beiskolázású köznevelési intézménynek a fenntartói jogát, amely alapító okirata alapján nemzetiségi feladatot lát el, és a gyermekek, tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban, illetve kollégiumi ellátásban részesül. A kezdeményezéshez csatolni kell az érintett intézmény óvodaszékének, iskolaszékének, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, továbbá az adott nemzetiség érintett települési és területi nemzetiségi önkormányzatának a véleményét.
 
@@ -238,10 +244,12 @@ láthatja el.
 
 (3) Amennyiben a települési nemzetiségi önkormányzat a feladat ellátására törvény alapján köteles fenntartótól átvett köznevelési intézmény fenntartói jogáról le kíván mondani, a fenntartói jogot az érintett országos önkormányzat átveheti, ha nem kívánja átvenni, a korábbi fenntartó vagy jogutódja köteles a fenntartói jog visszavételére.
 
-(4) Különösen indokolt esetben az országos nemzetiségi önkormányzat – az oktatásért felelős miniszter engedélyével – átveheti az országos vagy térségi feladatot el nem látó, nemzetiségi anyanyelvű, illetve nemzetiségi két tanítási nyelvű intézmény, továbbá a roma nemzetiségi intézmény fenntartását, valamint az adott nemzetiség országos feladatot is ellátó nemzetiségi nyelvoktató intézményét. A kezdeményezéshez csatolni kell az érintett intézmény iskolaszékének, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, továbbá az adott nemzetiség érintett települési és területi nemzetiségi önkormányzatának a véleményét. A miniszter az átadást akkor engedélyezi, ha
+(4) Különösen indokolt esetben az országos nemzetiségi önkormányzat átveheti a nemzetiségi anyanyelvű, illetve nemzetiségi két tanítási nyelvű
 
-- a) a tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi oktatásban és
-- b) az adott nemzetiség köznevelése szempontjából kiemelt jelentőséggel bír.
+- a) köznevelési intézmény fenntartását az oktatásért felelős miniszter,
+- b) szakképző intézmény fenntartását a szakképzésért felelős miniszter
+
+engedélyével. A kezdeményezéshez csatolni kell a köznevelési intézmény iskolaszékének, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, a szakképző intézmény képzési tanácsának és diákönkormányzatának, továbbá mindkét esetben az adott nemzetiség érintett települési, illetve területi nemzetiségi önkormányzatának a véleményét. Az engedély nem tagadható meg, ha a tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi oktatásban és az átvétel az adott nemzetiség köznevelése szempontjából kiemelt jelentőséggel bír.
 
 (5) A nevelési-oktatási intézmény átadására az átadó és az átvevő között írásbeli megállapodás alapján kerülhet sor.
 
@@ -255,7 +263,7 @@ láthatja el.
 
 (2) Az (1) bekezdés szerinti finanszírozás során a központi költségvetés a nemzetiségi önkormányzatok köznevelési feladatainak ellátásához költségvetési hozzájárulást biztosít, továbbá kiegészítő támogatásokat nyújt.
 
-27. § Ha jogszabály a nemzetiségi önkormányzat részére valamely döntés meghozatalánál a közneveléssel kapcsolatos ügyben véleményezési vagy egyetértési jogot biztosít, a nyilatkozat megtételére – jogszabály eltérő rendelkezésének hiányában – harminc nap áll rendelkezésre. A határidő – bármely érdekeltnek a másik félhez intézett nyilatkozata alapján – egy alkalommal további 30 nappal meghosszabbodik. A határidő jogvesztő. Ha a nemzetiségi önkormányzat az egyetértését nem adta meg, az érdekelt kezdeményezésére az egyetértési nyilatkozat pótlásáról a nemzetiségi önkormányzat székhelye szerint illetékes közigazgatási és munkaügyi bíróság nemperes eljárásban harminc napon belül dönt. Az eljárás költségeit – ide értve a szakértő díjazását is – az viseli, akinek az egyetértés megszerzéséhez érdeke fűződik.
+27. § Ha jogszabály a nemzetiségi önkormányzat részére valamely döntés meghozatalánál a közneveléssel kapcsolatos ügyben véleményezési vagy egyetértési jogot biztosít, a nyilatkozat megtételére – jogszabály eltérő rendelkezésének hiányában – harminc nap áll rendelkezésre. A határidő – bármely fél másik félhez intézett nyilatkozata alapján – egy alkalommal további tizenöt nappal meghosszabbodik. A határidő jogvesztő. Ha a nemzetiségi önkormányzat a nyitva álló határidőben nem nyilatkozik, a másik fél az egyetértési nyilatkozat pótlása iránt közigazgatási pert indíthat. A perköltséget a felperes viseli.
 
 28. § A nemzetiségi nevelési, oktatási intézményt az érintett nemzetiséghez nem tartozók csak akkor vehetik igénybe, ha az intézmény – az adott nemzetiség igényeinek kielégítése után – betöltetlen férőhellyel rendelkezik. A felvétel (beiratkozás) előzetesen nyilvánosságra hozott szabályok alapján történhet.
 
@@ -273,7 +281,7 @@ láthatja el.
 
 34. § A nemzetiségi önkormányzat – az ágazati törvényben meghatározottak szerint – részt vehet a nemzetiséghez tartozók kulturális ellátásának segítésével összefüggő állami és önkormányzati feladatok végrehajtásában.
 
-35. § Ha jogszabály a nemzetiségi önkormányzat részére valamely döntés meghozatalánál a nemzetiségi kulturális önigazgatással kapcsolatos ügyben véleményezési vagy egyetértési jogot biztosít, a nyilatkozat megtételére – jogszabály eltérő rendelkezésének hiányában – harminc nap áll rendelkezésre. A határidő – bármely érdekeltnek a másik félhez intézett nyilatkozata alapján – egy alkalommal további harminc nappal meghosszabbodik. A határidő jogvesztő. Ha a nemzetiségi önkormányzat az egyetértését nem adta meg, az érdekelt kezdeményezésére az egyetértési nyilatkozat pótlásáról a nemzetiségi önkormányzat székhelye szerint illetékes közigazgatási és munkaügyi bíróság nemperes eljárásban harminc napon belül dönt. Az eljárás költségeit – ide értve a szakértő díjazását is – az viseli, akinek az egyetértés megszerzéséhez érdeke fűződik.
+35. § Ha jogszabály a nemzetiségi önkormányzat részére valamely döntés meghozatalánál a nemzetiségi kulturális önigazgatással kapcsolatos ügyben véleményezési vagy egyetértési jogot biztosít, a nyilatkozat megtételére – jogszabály eltérő rendelkezésének hiányában – harminc nap áll rendelkezésre. A határidő – bármely fél másik félhez intézett nyilatkozata alapján – egy alkalommal további tizenöt nappal meghosszabbodik. A határidő jogvesztő. Ha a nemzetiségi önkormányzat a nyitva álló határidőben nem nyilatkozik, a másik fél az egyetértési nyilatkozat pótlása iránt közigazgatási pert indíthat. A perköltséget a felperes viseli.
 
 36. § A nemzetiségi önkormányzat jogosult – az ágazati törvényben és az államháztartásról szóló jogszabályokban meghatározottak szerint – nemzetiségi kulturális intézmény létesítésére, fenntartására, más által létesített kulturális intézmény fenntartói jogának, illetve kulturális feladat ellátásának átvételére.
 
@@ -287,7 +295,7 @@ láthatja el.
 
 (5) Az átvevő köteles az átvett ingatlanvagyon állagát megőrizni. Az átvevő a polgári jog általános szabályai szerint felel az átvett vagyon állagában bekövetkezett kárért.
 
-38. § (1) A kulturális intézmény, illetve a feladat átadásáról, átvételéről az átadó intézményfenntartó és az átvevő nemzetiségi önkormányzat megállapodást köt.
+38. § (1) A kulturális intézmény, illetve a feladat átadásáról, átvételéről az átadó intézményfenntartó és az átvevő nemzetiségi önkormányzat közigazgatási szerződésben megállapodik.
 
 (2) A megállapodás tartalmát a felek – a jogszabályi keretek között – szabadon állapítják meg. Az átadás és az átvétel célja, hogy az önkormányzati közművelődési alapellátás tartalmi és szervezeti folyamatossága a nemzetiségi önkormányzat kezelésében is fennmaradjon és lehetőség szerint bővüljön. A megállapodásnak tartalmaznia kell:
 
@@ -324,7 +332,7 @@ láthatja el.
 
 (4) Az alapító okirata szerint nemzetiségi feladatot ellátó közművelődési intézmény létesítésével, megszüntetésével, átszervezésével kapcsolatos határozat meghozatalára az érintett nemzetiségi önkormányzat egyetértésével kerülhet sor.
 
-(5) Amennyiben a (3)–(4) bekezdés szerinti tárgykörökben a települési önkormányzat rendeletet alkot, a fővárosi és megyei kormányhivatal a nemzetiségi önkormányzat kezdeményezésére soron kívül felülvizsgálja a rendeletet és megteszi a szükséges intézkedéseket. A nemzetiségi jogok sérelmére hivatkozással a települési és területi nemzetiségi önkormányzat közvetlenül is bírósághoz fordulhat.
+(5) Ha a (3) és (4) bekezdés szerinti tárgykörben a települési önkormányzat rendeletet alkot, a fővárosi és megyei kormányhivatal a nemzetiségi önkormányzat kezdeményezésére soron kívül vizsgálja a rendeletet, és megteszi a szükséges törvényességi felügyeleti intézkedést. A nemzetiségi jogok sérelmére hivatkozással a települési és területi nemzetiségi önkormányzat közvetlenül is indítványozhatja az önkormányzati rendelet más jogszabályba ütközésének vizsgálatát.
 
 42. § Az állam támogatja
 
@@ -607,7 +615,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - f) a jelnyelv és a speciális kommunikációs rendszer használatának biztosítása, és
 - g) az a)–f) pontban meghatározott feladatellátáshoz kapcsolódó költségek viselése a helyi nemzetiségi önkormányzat tagja és tisztségviselője telefonhasználata költségeinek kivételével.
 
-(2) Az (1) bekezdés szerinti kötelezettségének teljesítése érdekében a helyi önkormányzat harminc napon belül biztosítja a rendeltetésszerű helyiséghasználatot. A települési önkormányzat a települési nemzetiségi önkormányzattal, a területi önkormányzat a területi nemzetiségi önkormányzattal a helyiséghasználatra, a további feltételek biztosítására és a feladatok ellátására vonatkozóan megállapodást köt. A megállapodást minden év január 31. napjáig, általános vagy időközi választás esetén az alakuló ülést követő harminc napon belül felül kell vizsgálni. A helyi önkormányzat és a nemzetiségi önkormányzat szervezeti és működési szabályzatában rögzíti a megállapodás szerinti működési feltételeket, a megállapodás megkötését, módosítását követő harminc napon belül.
+(2) Az (1) bekezdés szerinti kötelezettségének teljesítése érdekében a helyi önkormányzat harminc napon belül biztosítja a rendeltetésszerű helyiséghasználatot. A települési önkormányzat a települési nemzetiségi önkormányzattal, a területi önkormányzat a területi nemzetiségi önkormányzattal a helyiséghasználatra, a további feltételek biztosítására és a feladatok ellátására vonatkozóan közigazgatási szerződésben megállapodik. A megállapodást minden év január 31. napjáig, általános vagy időközi választás esetén az alakuló ülést követő harminc napon belül felül kell vizsgálni. A helyi önkormányzat és a nemzetiségi önkormányzat szervezeti és működési szabályzatában rögzíti a megállapodás szerinti működési feltételeket, a megállapodás megkötését, módosítását követő harminc napon belül.
 
 (3) A (2) bekezdés szerinti megállapodásban rögzíteni kell
 
@@ -624,21 +632,21 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2) A nemzetiségi intézmények vezetőinek megbízására (vezetői megbízás visszavonására) – ha nem az adott nemzetiség önkormányzata gyakorolja a megbízási jogot -, valamint a nemzetiséghez tartozók oktatási önigazgatására is kiterjedő fenntartói döntés meghozatalára csak az adott nemzetiség önkormányzata egyetértésével, egyházi köznevelési intézmény vagy egyházi felsőoktatási intézmény esetében az adott nemzetiség önkormányzata véleményének kikérésével kerülhet sor. Érintett települési nemzetiségi önkormányzat hiányában az érintett területi, ennek hiányában az országos önkormányzat, ennek hiányában az adott nemzetiség helyi egyesületeinek véleményét ki kell kérni.
 
-82. § Az e törvény által meghatározott nemzetiségi jogok védelmében, különösen a helyi kollektív nyelvhasználat, az oktatás, nevelés, hagyományápolás és kultúra, a helyi sajtó, az esélyegyenlőség, társadalmi felzárkózás és a szociális ellátás tárgyában folyó hatósági eljárásokban az adott nemzetiség területileg illetékes települési nemzetiségi önkormányzatát, ennek hiányában területi, ennek hiányában országos önkormányzatát a – közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény vagy más törvény által meghatározott rendben – ügyféli jogállás, e körben nyilatkozattételi és jogorvoslati jogosultság illeti meg.
+82. § Az e törvény által meghatározott nemzetiségi jogok védelmében, különösen a helyi kollektív nyelvhasználat, az oktatás, nevelés, hagyományápolás és kultúra, a helyi sajtó, az esélyegyenlőség, társadalmi felzárkózás és a szociális ellátás tárgyában folyó hatósági eljárásokban az adott nemzetiség területileg illetékes települési nemzetiségi önkormányzatát, ennek hiányában területi, ennek hiányában országos önkormányzatát az – általános közigazgatási rendtartásról szóló törvény vagy más törvény által meghatározott rendben – ügyféli jogállás, e körben nyilatkozattételi és jogorvoslati jogosultság illeti meg.
 
-83. § (1) Amennyiben a 81. § szerinti tárgykörökben a helyi önkormányzat rendeletet alkot, a fővárosi és megyei kormányhivatal a nemzetiségi önkormányzat kezdeményezésére soron kívül felülvizsgálja a rendeletet és megteszi a szükséges intézkedéseket. A nemzetiségi jogok sérelmére hivatkozással a települési és területi nemzetiségi önkormányzat közvetlenül is bírósághoz fordulhat, kezdeményezése a megtámadott döntés végrehajtására halasztó hatályú.
+83. § (1) Ha a 81. § szerinti tárgykörökben a helyi önkormányzat rendeletet alkot, a fővárosi és megyei kormányhivatal a nemzetiségi önkormányzat kezdeményezésére soron kívül vizsgálja a rendeletet, és megteszi a szükséges törvényességi felügyeleti intézkedést. A nemzetiségi jogok sérelmére hivatkozással a települési és területi nemzetiségi önkormányzat közvetlenül is indítványozhatja az önkormányzati rendelet más jogszabályba ütközésének vizsgálatát.
 
-(2) Ha jogszabály az e törvényben meghatározott tárgykörökön túl egyéb tárgyban ír elő együttműködési kötelezettséget, és a feladatkörében eljáró állami, önkormányzati szerv, egyházi jogi személy az előírt egyetértés, vélemény hiányában hoz döntést, határozatot, vagy vélemény hiányában alkot jogszabályt, az érintett nemzetiségi önkormányzat kezdeményezésére a felettes szerv, illetve a fővárosi és megyei kormányhivatal a döntést soron kívül megvizsgálja és megteszi a szükséges intézkedéseket. A nemzetiségi jogok sérelmére hivatkozással a nemzetiségi önkormányzat közvetlenül is bírósághoz fordulhat, kezdeményezése a megtámadott döntés végrehajtására halasztó hatályú.
+(2) Ha jogszabály az e törvényben meghatározott tárgykörökön túl egyéb tárgyban ír elő együttműködési kötelezettséget, és a feladatkörében eljáró állami, önkormányzati szerv, egyházi jogi személy az előírt egyetértés, vélemény hiányában valósítja meg közigazgatási cselekményét, vagy vélemény hiányában alkot jogszabályt, az érintett nemzetiségi önkormányzat kezdeményezésére a felettes szerv, illetve a fővárosi és megyei kormányhivatal a döntést soron kívül megvizsgálja, és megteszi a szükséges intézkedéseket. A nemzetiségi jogok sérelmére hivatkozással a nemzetiségi önkormányzat közvetlenül is közigazgatási pert indíthat, illetve az önkormányzati rendelet más jogszabályba ütközésének vizsgálatát indítványozhatja. A keresetlevél benyújtásának halasztó hatálya van.
 
-(3) Amennyiben a 80. § szerinti megállapodás megkötésre határidőben nem kerül sor, a fővárosi és a megyei kormányhivatal soron kívüli eljárást folytat le, ennek keretében egyeztetést koordinál a felek között. Az egyeztetés eredménytelensége esetén a nemzetiségi jogok sérelmére hivatkozással a nemzetiségi önkormányzat közvetlenül is bírósághoz fordulhat. A bíróság a szerződést soron kívüli eljárásban létrehozza és tartalmát megállapítja, továbbá dönt a nemzetiségi önkormányzat kártérítési igényéről.
+(3) Ha a 80. § szerinti – közigazgatási szerződésnek minősülő – megállapodás megkötésére határidőben nem kerül sor, a fővárosi és a megyei kormányhivatal soron kívüli eljárást folytat le, ennek keretében egyeztetést tart a felek között. Az egyeztetés eredménytelensége esetén a nemzetiségi jogok sérelmére hivatkozással a nemzetiségi önkormányzat közigazgatási bíróság előtt mulasztási pert indíthat.
 
-(4) Az egyetértési és a véleményezési jog jogosultja jogait az ez irányú kezdeményezés kézhezvételétől, vagy az egyéb módon történő tudomására jutástól számított harminc napon belül gyakorolhatja. E határidő elmulasztása jogvesztő. Az egyetértési, véleményezési jog jogosultjának nyilatkozatáról, a nyilatkozat elmulasztásáról a döntéshozót az előterjesztőnek a döntést megelőzően tájékoztatnia kell.
+(4) Az egyetértési és a véleményezési jog jogosultja jogait az ez irányú kezdeményezés kézhezvételétől vagy az egyéb módon történő tudomására jutásától számított harminc napon belül gyakorolhatja. E határidő elmulasztása jogvesztő. Az egyetértési, véleményezési jog jogosultjának nyilatkozatáról, a nyilatkozat elmulasztásáról a döntéshozót az előterjesztőnek a döntést megelőzően tájékoztatnia kell.
 
 84. § (1) A nemzetiségi önkormányzatok testületei megállapodás alapján a feladat- és hatáskörüket – az általuk képviselt nemzetiséggel azonos (vagy attól eltérő) nemzetiségi önkormányzatra kölcsönösen átruházhatják.
 
 (2) Az átruházott hatáskör tovább nem ruházható.
 
-(3) Az átadó és az átvevő önkormányzat, valamint az érintett országos nemzetiségi önkormányzat, önkormányzatok (kivéve, ha az országos szint maga az átvevő) megállapodást köt. A megállapodás kötelezően tartalmazza, hogy a megállapodással egyidejűleg
+(3) Az átadó és az átvevő önkormányzat, valamint az érintett országos nemzetiségi önkormányzat, önkormányzatok (kivéve, ha az országos szint maga az átvevő) közigazgatási szerződésben állapodnak meg. A megállapodás kötelezően tartalmazza, hogy a megállapodással egyidejűleg
 
 - a) a megállapodás tárgyát képező feladat- és hatáskört az átvevő az átadótól átveszi,
 - b) az átadó az ellátandó feladat- és hatáskör ellátásával arányban álló anyagi, tárgyi és pénzügyi feltételeket az átvevő rendelkezésére bocsátja,
@@ -868,21 +876,21 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 ### A nemzetiségi önkormányzat tisztségviselőjének és tagjának összeférhetetlensége
 
-106. § (1) Nem lehet a helyi nemzetiségi önkormányzat elnöke a köztársasági elnök, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék elnöke, alelnöke és számvevője, állami vezető, központi államigazgatási szerv kormánytisztviselője, a Magyar Nemzeti Bank elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke és a pénzügyi békéltető testületi tag, továbbá a Magyar Nemzeti Bank fizetési, elszámolási, és értékpapír-elszámolási rendszerek felvigyázásával, a makroprudenciális politika kialakításával, a szanálási hatósági feladatok ellátásával és a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatköréhez kapcsolódó feladatot ellátó alkalmazottja, a fővárosi és megyei kormányhivatalt vezető kormánymegbízott, a területi vagy helyi államigazgatási szervnek az a kormánytisztviselője, állami tisztviselője, akinek feladatkörébe az adott települési, területi nemzetiségi önkormányzatot érintő ügyek tartoznak, és illetékessége a helyi nemzetiségi önkormányzatra kiterjed, a területileg illetékes helyi önkormányzat jegyzője, főjegyzője, polgármesteri vagy közös önkormányzati hivatalának köztisztviselője, bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a területileg illetékes területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál a helyi nemzetiségi önkormányzatnál a helyi nemzetiségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője.
+106. § (1) Nem lehet a helyi nemzetiségi önkormányzat elnöke a köztársasági elnök, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék elnöke, alelnöke és számvevője, politikai felsővezető, központi államigazgatási szerv kormánytisztviselője, a Magyar Nemzeti Bank elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke és a pénzügyi békéltető testületi tag, továbbá a Magyar Nemzeti Bank fizetési, elszámolási, és értékpapír-elszámolási rendszerek felvigyázásával, a makroprudenciális politika kialakításával, a szanálási hatósági feladatok ellátásával és a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatköréhez kapcsolódó feladatot ellátó alkalmazottja, a fővárosi és megyei kormányhivatalt vezető kormánymegbízott, a területi vagy helyi államigazgatási szervnek az a kormánytisztviselője, akinek feladatkörébe az adott települési, területi nemzetiségi önkormányzatot érintő ügyek tartoznak, és illetékessége a helyi nemzetiségi önkormányzatra kiterjed, a területileg illetékes helyi önkormányzat jegyzője, főjegyzője, polgármesteri vagy közös önkormányzati hivatalának köztisztviselője, bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a területileg illetékes területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál a helyi nemzetiségi önkormányzatnál a helyi nemzetiségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője.
 
 (2) Nem lehet az átalakult nemzetiségi önkormányzat elnöke: aki nem lehet a helyi nemzetiségi önkormányzat elnöke, továbbá aki összeférhetetlen a helyi önkormányzat polgármesterére vonatkozó szabályozás alapján.
 
-(3) Nem lehet az országos nemzetiségi önkormányzat elnöke a köztársasági elnök, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék elnöke, alelnöke és számvevője, állami vezető, központi államigazgatási szerv kormánytisztviselője, a Magyar Nemzeti Bank elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke és a pénzügyi békéltető testületi tag, továbbá a Magyar Nemzeti Bank fizetési, elszámolási, és értékpapír-elszámolási rendszerek felvigyázásával, a makroprudenciális politika kialakításával, a szanálási hatósági feladatok ellátásával és a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatköréhez kapcsolódó feladatot ellátó alkalmazottja, a fővárosi és megyei kormányhivatalt vezető kormánymegbízott, a területi vagy helyi államigazgatási szervnek az a kormánytisztviselője, állami tisztviselője, akinek feladatkörébe az adott nemzetiségi önkormányzatot érintő ügyek tartoznak, helyi önkormányzat jegyzője, polgármesteri vagy közös önkormányzati hivatalának köztisztviselője, bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál az országos nemzetiségi önkormányzatnál az országos nemzetiségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője, az országos nemzetiségi önkormányzati hivatal munkavállalója, vagy a hivatallal munkavégzésre irányuló egyéb jogviszonyban álló személy.
+(3) Nem lehet az országos nemzetiségi önkormányzat elnöke a köztársasági elnök, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék elnöke, alelnöke és számvevője, politikai felsővezető, központi államigazgatási szerv kormánytisztviselője, a Magyar Nemzeti Bank elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke és a pénzügyi békéltető testületi tag, továbbá a Magyar Nemzeti Bank fizetési, elszámolási, és értékpapír-elszámolási rendszerek felvigyázásával, a makroprudenciális politika kialakításával, a szanálási hatósági feladatok ellátásával és a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatköréhez kapcsolódó feladatot ellátó alkalmazottja, a fővárosi és megyei kormányhivatalt vezető kormánymegbízott, a területi vagy helyi államigazgatási szervnek az a kormánytisztviselője, akinek feladatkörébe az adott nemzetiségi önkormányzatot érintő ügyek tartoznak, helyi önkormányzat jegyzője, polgármesteri vagy közös önkormányzati hivatalának köztisztviselője, bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál az országos nemzetiségi önkormányzatnál az országos nemzetiségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője, az országos nemzetiségi önkormányzati hivatal munkavállalója, vagy a hivatallal munkavégzésre irányuló egyéb jogviszonyban álló személy.
 
 (4) Az elnök az összeférhetetlenségi okot a megválasztásától, illetve az összeférhetetlenségi ok felmerülésétől számított harminc napon belül köteles megszüntetni. Amennyiben a külön jogszabály szerint nem lehetséges az összeférhetetlenség alapjául szolgáló jogviszony megszüntetése, az elnök a jogviszony megszüntetéséről szóló, az arra jogosult által megerősített nyilatkozatát a képviselő-testület, közgyűlés elé terjeszti és egyidejűleg megküldi a fővárosi és megyei kormányhivatalnak.
 
 (5) Ha az elnök a (4) bekezdésben foglalt kötelezettségének nem tett eleget, bármely képviselő indítványára a képviselő-testület, közgyűlés a következő ülésén, legkésőbb az összeférhetetlenség megállapításának kezdeményezését követő harminc napon belül határozattal megállapítja az összeférhetetlenség alapjául szolgáló körülmények fennállását, és kimondja az összeférhetetlenséget. A képviselő-testület határozatát az ülést követő munkanapon az elnöknek és a fővárosi és megyei kormányhivatalnak kézbesíteni kell.
 
-(6) Az elnök az összeférhetetlenségét, vagy a megbízatás megszűnését megállapító képviselő-testületi, közgyűlési határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított 8 napon belül a törvényszéktől.
+(6) Az elnök az összeférhetetlenségét vagy a megbízatás megszűnését megállapító képviselő-testületi, közgyűlési határozatot a határozat közlését követő tizenöt napon belül közigazgatási perben támadhatja meg.
 
-(7) A törvényszék a kérelemről – annak beérkezésétől számított harminc napon belül – nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A törvényszék a polgármestert, a keresettel megtámadott határozatot hozó képviselő-testület, közgyűlés képviselőjét és a kereset előterjesztőjét meghallgathatja. A törvényszék döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
+(7) A bíróság tanácsban jár el. Az ítélet ellen nincs helye perújításnak.
 
-(8) A fővárosi és megyei kormányhivatal a törvényszéknél kezdeményezheti az elnök összeférhetetlenségének a kimondását, ha a képviselő-testület, közgyűlés nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A törvényszék eljárására a (7) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a törvényszék döntése ellen – annak kézhezvételétől számított nyolc napon belül – az elnök, illetve a fővárosi és megyei kormányhivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a Kúria nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz.
+(8) A fővárosi és megyei kormányhivatal közigazgatási pert indíthat az elnök összeférhetetlenségének kimondása iránt, ha a képviselő-testület, közgyűlés nem dönt az összeférhetetlenségről, vagy döntése jogszabálysértő.
 
 (9) Az összeférhetetlenségre vonatkozó rendelkezéseket az elnökhelyettesre és a nemzetiségi önkormányzati képviselőre is alkalmazni kell azzal, hogy nemzetiségi önkormányzati képviselő lehet az is, aki ugyanannál a nemzetiségi önkormányzatnál a nemzetiségi önkormányzat által létesített vagy fenntartott intézmény vezetője.
 
@@ -931,11 +939,11 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (5) Az elnök – elnöki megbízatásával egyidejűleg – külön nyilatkozatban képviselői megbízatásáról is lemondhat.
 
-(6) Az elnök sorozatos törvénysértő tevékenysége, mulasztása miatt a nemzetiségi önkormányzat testülete – minősített többséggel hozott határozata alapján – keresetet nyújthat be az elnök ellen a nemzetiségi önkormányzat székhelye szerint illetékes törvényszékhez az elnök tisztségének megszüntetése érdekében. Egyidejűleg kérheti az elnöknek e tisztségből történő felfüggesztését is. A döntéshozatalban az elnök nem vehet részt.
+(6) A nemzetiségi önkormányzat testülete – minősített többséggel hozott határozata alapján – közigazgatási pert indíthat az elnök ellen sorozatos törvénysértő tevékenysége, illetve mulasztása miatti jogi felelősségének megállapítása iránt. Egyidejűleg – az azonnali jogvédelem szabályai szerint – kérhető az elnöknek e tisztségéből történő felfüggesztése. A perindítással kapcsolatos határozat meghozatalában az elnök nem vesz részt, de a határozatképesség szempontjából jelenlévőnek kell tekinteni.
 
-(7) Amennyiben a fővárosi és megyei kormányhivatal törvényességi felhívásában foglaltaknak a testület nem tesz eleget, és nem nyújt be keresetet az elnöki tisztség megszüntetése érdekében, a fővárosi és megyei kormányhivatal közvetlenül bírósághoz fordulhat az elnöki tisztség megszüntetése és egyidejűleg az elnöknek e tisztségéből történő felfüggesztése érdekében.
+(7) Ha a fővárosi és megyei kormányhivatal törvényességi felhívásában foglaltaknak a testület nem tesz eleget, és nem indít pert az elnök ellen sorozatos törvénysértő tevékenysége, illetve mulasztása miatti jogi felelősségének megállapítása iránt, a fővárosi és megyei kormányhivatal e tárgyban közigazgatási pert indíthat az elnök ellen.
 
-(8) A bíróság soron kívüli eljárása során a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XX. fejezetének rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy a perben viszontkeresetnek, szünetelésnek és egyezségnek nincs helye.
+(8) A bíróság határozata ellen nincs helye perújításnak.
 
 (9) Az elnökhelyettesre az elnökre irányadó szabályokat kell alkalmazni.
 
@@ -1053,7 +1061,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - d) egyetértési jogot gyakorol – az adott nemzetiséget közvetlenül érintő kérdésekben – a fejlesztési tervekkel kapcsolatban,
 - e)
 
-(2) A nemzetiség történelmi hagyományokkal rendelkező településeinek és építészeti emlékeinek megőrzésével és ápolásával kapcsolatos jogszabály (ide nem értve a helyi önkormányzat rendeletét) és a köznevelési törvény végrehajtásáról szóló kormányrendeletek megalkotásakor – a nemzetiséghez tartozók oktatási önigazgatását érintő kérdésekben – az országos önkormányzatok véleményének kikérése szükséges. Az e tárgyban alkotott jogszabály soron kívüli felülvizsgálata érdekében a nemzetiségi jogok sérelmére hivatkozással az országos nemzetiségi önkormányzat közvetlenül bírósághoz fordulhat.
+(2) A nemzetiség történelmi hagyományokkal rendelkező településeinek és építészeti emlékeinek megőrzésével és ápolásával kapcsolatos jogszabály (ide nem értve a helyi önkormányzat rendeletét) és a köznevelési törvény végrehajtásáról szóló kormányrendeletek megalkotásakor – a nemzetiséghez tartozók oktatási önigazgatását érintő kérdésekben – az országos önkormányzatok véleményének kikérése szükséges.
 
 119. § (1) Az országos önkormányzati feladat- és hatáskörök az országos önkormányzat közgyűlését illetik meg. A közgyűlés a feladat- és hatáskörét az át nem ruházható hatáskörök kivételével az elnökére, bizottságára, hivatalára, valamint – e törvényben meghatározottak szerint – társulására átruházhatja.
 
@@ -1228,11 +1236,11 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 ### X. Fejezet — A nemzetiségi önkormányzatok törvényességi felügyelete
 
-146. § (1) Amennyiben a nemzetiségi önkormányzat e törvényen alapuló feladat-ellátási kötelezettségét elmulasztja, a fővárosi és megyei kormányhivatal kezdeményezi a mulasztás bíróság által történő megállapítását, egyidejűleg kezdeményezi, hogy a bíróság határidő tűzésével kötelezze a nemzetiségi önkormányzatot a kötelező feladat ellátására.
+146. § (1) A fővárosi és megyei kormányhivatal a helyi önkormányzatok törvényességi felügyeletének rendjével egyező tartalommal és módon ellátja a nemzetiségi önkormányzatok törvényességi felügyeletét.
 
-(2) A fővárosi és megyei kormányhivatal – az elmaradt nemzetiségi önkormányzati döntés pótlása (aktuspótlás) kivételével – a helyi önkormányzatok törvényességi felügyeletének rendjével egyező tartalommal és módon ellátja a nemzetiségi önkormányzatok törvényességi felügyeletét.
+(2) Az országos önkormányzat és szervei törvényességi felügyeletét a Kormány által kijelölt fővárosi és megyei kormányhivatal látja el.
 
-(3) Az országos önkormányzat és szervei törvényességi felügyeletét a Kormány által kijelölt fővárosi és megyei kormányhivatal látja el.
+(3) A bírósági határozat teljesítésének kikényszerítésére irányuló eljárásban a bíróság a törvényességi felügyeleti szervet nem hatalmazhatja fel a nemzetiségi önkormányzat e törvényen alapuló feladatellátási kötelezettsége ítéletnek megfelelő teljesítésére.
 
 147. § A fővárosi és megyei kormányhivatal a mérlegelési jogkörben hozott önkormányzati döntésnek kizárólag a jogszerűségét vizsgálhatja.
 
@@ -1271,7 +1279,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - b) előkészíti a nemzetiségek jogairól szóló jogszabályok tervezetét,
 - c) közreműködik a nemzetiségek jogait, a nemzetiségi önkormányzatok feladat- és hatáskörét érintő jogszabályok, egyedi állami döntések tervezeteinek előkészítésében,
 - d) a központi költségvetésről szóló törvényben meghatározott címen és feltételekkel a nemzetiségi önkormányzatok és más nemzetiségi szervezetek részére pénzügyi támogatást nyújt, nyújthat,
-- e) rendeletében meghatározott feltételekkel és módon a nemzetiségi köznevelésben, közoktatásban részt vevő tanulók számára ösztöndíjat alapíthat.
+- e) rendeletében meghatározott feltételekkel és módon a nemzetiségi köznevelésben, szakképzésben részt vevő tanulók, képzésben részt vevő személyek számára ösztöndíjat alapíthat.
 
 152. § A feladat- és hatáskör szerint illetékes miniszter:
 
@@ -1287,7 +1295,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (4) Az egyéb munkáltatói jogon – a kinevezés, megbízás, felmentés, megbízás visszavonása, az összeférhetetlenség megállapítása, fegyelmi eljárás megindítása, fegyelmi büntetés kiszabása kivételével – minden más munkáltatói jogot kell érteni; országos nemzetiségi önkormányzat esetén a munkáltatói jog magában foglalja a hivatal munkavállalói feletti munkáltatói jogot is, melyet a hivatal vezetője gyakorol.
 
-154. § Az e törvény alapján indított perben, ahol e törvény eltérően nem rendelkezik, a Pp. XX. fejezetében foglaltakat kell alkalmazni.
+#### 154. §
 
 155. § Az e törvény 100. §-ában meghatározottak szerinti eskü (fogadalom) szövege:
 
@@ -1307,7 +1315,7 @@ Isten engem úgy segéljen!”
 - b)
 - c) a nemzetiségek vonatkozásában ellátandó helyi közszolgálat képesítési előírásait.
 
-(2) Felhatalmazást kap a nemzetiségpolitikáért felelős miniszter, hogy rendeletben szabályozza a nemzetiségi köznevelésben, közoktatásban részt vevő tanulók számára nyújtható ösztöndíj mértékét, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének szabályait.
+(2) Felhatalmazást kap a nemzetiségpolitikáért felelős miniszter, hogy rendeletben szabályozza a nemzetiségi köznevelésben, szakképzésben részt vevő tanulók, képzésben részt vevő személyek számára nyújtható ösztöndíj mértékét, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének szabályait.
 
 (3) Felhatalmazást kap a feladat- és hatáskör szerint illetékes miniszter, hogy rendeletben szabályozza a nemzetiségi önkormányzatok által fenntartott intézmények működésének szakmai követelményeit, az intézmények dolgozóinak képesítési előírásait.
 

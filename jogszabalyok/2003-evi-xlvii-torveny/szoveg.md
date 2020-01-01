@@ -23,7 +23,7 @@ Az Országgyűlés a pártok Alaptörvényben biztosított, a népakarat kialak�
 
 (6)
 
-(7) Az alapítvány kuratóriumának tagjait az alapító párt országgyűlési képviselőcsoportja nevében a képviselőcsoport vezetője, amennyiben nem rendelkezik országgyűlési képviselőcsoporttal, az alapító párt jelöli ki ötéves időtartamra. A kuratórium tagja, illetve tagjainak többsége az alapító párt tagja is lehet. A kuratórium tagjának állami vezető is kijelölhető.
+(7) Az alapítvány kuratóriumának tagjait az alapító párt országgyűlési képviselőcsoportja nevében a képviselőcsoport vezetője, amennyiben nem rendelkezik országgyűlési képviselőcsoporttal, az alapító párt jelöli ki ötéves időtartamra. A kuratórium tagja, illetve tagjainak többsége az alapító párt tagja is lehet. A kuratórium tagjának politikai felsővezető, közigazgatási államtitkár, helyettes államtitkár is kijelölhető.
 
 (8) Az alapítvány nem tartozik a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásról szóló 1996. évi CXXVI. törvény 4. §-ának (1) bekezdésében meghatározott kedvezményezettek körébe.
 

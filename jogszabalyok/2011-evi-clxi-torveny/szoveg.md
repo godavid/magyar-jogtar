@@ -187,7 +187,7 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 
 29. § (1) A bírósági joggyakorlat-elemző csoport feladata az ítélkezési gyakorlat vizsgálata. A vizsgálati tárgyköröket a Kúria elnöke – a Kúria kollégiumai véleményének beszerzését követően – évente meghatározza. A vizsgálati tárgykörökre az ítélőtáblai és a törvényszéki kollégium kollégiumvezetője, továbbá a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője, az OBH elnöke és a legfőbb ügyész (a továbbiakban együtt: kezdeményező) is indítványt tehet.
 
-(2) A bírósági joggyakorlat-elemző csoport vezetőjét és tagjait a Kúria elnöke – vizsgálati tárgykörönként – a Kúria bírái közül, a Kúria kollégiumvezetőinek javaslatai alapján jelöli ki. A csoport vezetője a csoport munkájába – a kezdeményező javaslatára, vagy ha azt a vizsgálati tárgykör indokolja – alsóbb fokú bíróságra beosztott bírót és a vizsgált területen működő elméleti vagy gyakorlati szakembert is bevonhat.
+(2) A bírósági joggyakorlat-elemző csoport vezetőjét és tagjait a Kúria elnöke – vizsgálati tárgykörönként – a Kúria bírái közül, a Kúria elnökhelyetteseinek javaslatai alapján jelöli ki. A csoport vezetője a csoport munkájába – a kezdeményező javaslatára, vagy ha azt a vizsgálati tárgykör indokolja – alsóbb fokú bíróságra beosztott bírót és a vizsgált területen működő elméleti vagy gyakorlati szakembert is bevonhat.
 
 30. § (1) A bírósági joggyakorlat-elemző csoport a vizsgálat eredményéről összefoglaló véleményt készít. Az elkészült összefoglaló véleményt a Kúria tárgykör szerint illetékes kollégiuma megvitatja, és egyetértése esetén annak megállapításait a csoport vezetője a Kúria honlapján közzéteszi. Ezzel egyidejűleg a teljes összefoglaló véleményt a csoport elnöke a bíróságok központi intranetes honlapján (a továbbiakban: intranet) is közzéteszi.
 
@@ -794,7 +794,7 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 
 #### 32. A Kúria elnöke
 
-114. § (1) A Kúria elnökét az Országgyűlés a határozatlan időre kinevezett és legalább 5 éves bírói szolgálati viszonnyal rendelkező bírák közül választja az Alaptörvény 26. cikk (3) bekezdésében foglaltak szerint.
+114. § (1) A Kúria elnökét az Országgyűlés a határozatlan időre kinevezett és legalább ötéves bírói szolgálati viszonnyal rendelkező bírák közül választja az Alaptörvény 26. cikk (3) bekezdésében foglaltak szerint. A bírói szolgálati jogviszony számításakor a nemzetközi igazságszolgáltatási szervezetben bíróként, főtanácsadóként, valamint az alkotmánybíróként, illetve az Alkotmánybíróság Hivatalában főtanácsadói munkakörben szerzett tapasztalatot is figyelembe kell venni.
 
 (2) Nem választható a Kúria elnökévé az,
 
@@ -856,7 +856,7 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 
 (2) Az (1) bekezdés b) és c) pontjában meghatározott beszámolókat és tájékoztatókat a központi honlapon, továbbá a bíróságok hivatalos lapjában közzé kell tenni.
 
-(3) A Kúria elnöke az (1) bekezdés e), g)–j), n), r) és t) pontjában meghatározott feladatait a Kúria főtitkára, valamint a Kúria főtitkár-helyettese közreműködése útján is gyakorolhatja a szervezeti és működési szabályzatban meghatározottak szerint.
+(3) A Kúria elnöke az (1) bekezdés e), g)–j), n), r) és t) pontjában meghatározott feladatait a Kúria elnökhelyettese, a Kúria főtitkára, valamint a Kúria főtitkár-helyettese közreműködése útján is gyakorolhatja a szervezeti és működési szabályzatban meghatározottak szerint.
 
 #### 33. A bírósági vezetők
 
@@ -921,7 +921,11 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 
 123. § (1) Az elnökhelyettes a bíróság elnökét akadályoztatása esetén – ideértve azt az esetet is, ha a tisztség nincs betöltve – teljes jogkörrel helyettesíti, és ellátja a bíróság szervezeti és működési szabályzata szerint hatáskörébe utalt igazgatási feladatokat.
 
-(2) A Kúria elnökhelyettese a Kúria elnökét akadályoztatása esetén – ideértve azt az esetet is, ha a tisztség nincs betöltve, kivéve a 115. § (4) bekezdését – teljes jogkörrel helyettesíti, és ellátja a bíróság szervezeti és működési szabályzata szerint hatáskörébe utalt igazgatási feladatokat.
+(2) Ha törvény eltérően nem rendelkezik, a Kúria elnökét akadályoztatása esetén – ide nem értve azt az esetet, ha a tisztség nincs betöltve – a Kúria elnöke által meghatározott rendben Kúria elnökhelyettesei helyettesítik. Ha a Kúria elnökének tisztsége nincs betöltve – a 115. § (4) bekezdése kivételével – a Kúria elnökét az az elnökhelyettes helyettesíti, aki a leghosszabb kúriai bírói szolgálati jogviszonnyal rendelkezik.
+
+(3) A Kúria elnökhelyettese a (2) bekezdésben meghatározottakon túl javaslatot tesz az ügyelosztási rendre.
+
+(4) A Kúria elnökhelyettese a kollégiumvezető feladatait is elláthatja.
 
 #### 36. Kollégiumvezető és kollégiumvezető-helyettes
 
@@ -1259,7 +1263,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 (3) Ha a nyilvánosságot a tárgyalás egészéről vagy egy részéről kizárták, és a nyilvánosság kizárását megalapozó, törvényben meghatározott érdek védelme másképpen nem biztosítható, a határozat egyes részeinek vagy a határozat egészének a gyűjteményben való megjelentetését mellőzni, illetve a közzétett határozat egyes részeit vagy a határozat egészét a gyűjteményből törölni kell.
 
-(4) Az egy részében vagy egészében zárt tárgyalás alapján hozott határozatnak a Bírósági Határozatok Gyűjteményéből való törlését vagy a közzététel mellőzését polgári eljárásban a fél, büntetőeljárásban a sértett kérheti. A kérelmet az érintett legkésőbb a határozat közzétételét követő egy évig az OBH elnökéhez terjesztheti elő, aki haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított öt munkanapon belül gondoskodik a kérelem teljesítéséről.
+(4) Az egy részében vagy egészében zárt tárgyalás alapján hozott határozatnak a Bírósági Határozatok Gyűjteményéből való törlését vagy a közzététel mellőzését polgári eljárásban a fél, közigazgatási bírósági eljárásban a fél és az érdekelt, büntetőeljárásban a sértett kérheti. A kérelmet az érintett legkésőbb a határozat közzétételét követő egy évig az OBH elnökéhez terjesztheti elő, aki haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított öt munkanapon belül gondoskodik a kérelem teljesítéséről.
 
 (5) A minősített adat védelmét a bírósági határozatok közzétételekor is biztosítani kell.
 
@@ -1351,7 +1355,7 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 és a köztársasági elnök intézkedéseinek ellenjegyzésére vonatkozó rendelkezés
 
-175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, III. Fejezete, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 197. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (6) és (8) bekezdése alapján sarkalatosnak minősül.
+175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, III. Fejezete, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 197–197/B. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (6) és (8) bekezdése alapján sarkalatosnak minősül.
 
 176. § A köztársasági elnöknek az e törvényben meghatározott tevékenysége során hozott döntéséhez és intézkedéséhez ellenjegyzés nem szükséges.
 
@@ -1470,6 +1474,20 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 196/B. § Az ügyelosztási rend kialakítása során a polgári perrendtartásról szóló 2016. évi CXXX. törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi CXXX. törvény hatálybalépését követően is figyelemmel kell lenni a még folyamatban lévő kiemelt jelentőségű perekre.
 
 197. § A bírósági vezetői tisztség újbóli betölthetőségét korlátozó rendelkezések alkalmazása során a helyi bírósági elnöki, elnökhelyettesi megbízatás azonosnak minősül a járásbírósági elnöki, elnökhelyettesi megbízatással, a közigazgatási és munkaügyi bírósági elnöki, elnökhelyettesi megbízatás azonosnak minősül a munkaügyi bírósági elnöki, elnökhelyettesi megbízatással, a megyei elnöki, elnökhelyettesi megbízatás azonosnak minősül a törvényszéki elnöki, elnökhelyettesi megbízatással.
+
+197/A. § (1) A közigazgatási és munkaügyi bíróságok 2020. március 31-én megszűnnek. A közigazgatási és munkaügyi bíróságok 2020. március 31-én fennálló jogviszonyaiban a Fővárosi Közigazgatási és Munkaügyi Bíróság vonatkozásában a Fővárosi Törvényszéket, a többi közigazgatási és munkaügyi bíróság vonatkozásában e bíróságok 2020. március 31-i területi illetékességével azonos területi illetékességű törvényszéket kell általános jogutódnak tekinteni.
+
+(2) A közigazgatási és munkaügyi regionális kollégiumok és a Fővárosi Törvényszéken működő közigazgatási és munkaügyi kollégium 2020. március 31-én megszűnnek. 2020. április 1. napjától az ítélőtáblákon munkaügyi kollégiumok, a közigazgatási ügyekben eljáró törvényszékeken közigazgatási kollégiumok működnek. A Kúria Közigazgatási-Munkaügyi Kollégiumából a munkaügyi szakág kiválik és a Kúria Polgári Kollégiumába 2020. március 31-én beolvad. 2020. április 1. napjától a Kúrián a Közigazgatási Kollégium önállóan működik. A közigazgatási és munkaügyi regionális kollégiumok iratait a megszűnéskor székhelyt adó törvényszék őrzi meg és kezeli az átvett iratokra vonatkozó szabályok szerint.
+
+197/B. § (1) A közigazgatási és munkaügyi bíróság bírósági vezetőinek, a közigazgatási és munkaügyi regionális kollégium bírósági vezetőinek, a Fővárosi Törvényszék Közigazgatási és Munkaügyi Kollégiuma bírósági vezetőinek megbízatása – a tanácselnöki kinevezések kivételével – 2020. március 31. napján megszűnik.
+
+(2) Az (1) bekezdés szerinti, a 2020. március 31. napján bírósági vezetői megbízatással rendelkező bírót – ide nem értve a megbízott bírósági vezetőt – 2020. április 1. napjától, beosztásától függően a korábbi bírósági vezetői megbízatásának megfelelő javadalmazás illeti meg az eredeti megbízatása lejáratának időpontjáig, kivéve, ha a 118. § (1) bekezdésének a)–f) pontjában és (1a) bekezdésében meghatározott bírósági vezetővé nevezik ki.
+
+(3) Ha az (1) bekezdés szerinti bírósági vezető tisztsége e törvény erejénél fogva, a megbízatási időtartam letelte előtt szűnik meg, őt pályázat kiírása nélkül tanácselnöknek kell kinevezni.
+
+(4) Az (1) bekezdésben megjelölt bírósági vezetői megbízatás betöltésére e törvény hatálybalépését követően pályázat nem írható ki, e feladatok ellátására megbízás csak 2020. március 31. napjáig adható.
+
+(5) Jogegységi panasz eljárásnak a 2020. július 1-jén és az azt követően meghozott jogerős ítélet vagy az ügy érdemében hozott jogerős végzés ellen van helye.
 
 ### XVI. Fejezet — MÓDOSULÓ JOGSZABÁLYOK
 

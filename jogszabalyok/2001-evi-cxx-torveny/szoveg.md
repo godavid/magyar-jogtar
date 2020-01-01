@@ -353,10 +353,11 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - e) az átruházásra vonatkozó esetleges korlátozást,
 - f) a kötvény futamidejét (kivéve a lejárat nélküli kötvényt); a kamatfizetési és beváltási (törlesztési) időpontokat és feltételeket,
 - g) a kötvény összegének visszafizetését (kivéve a lejárat nélküli kötvényt) és a kamat megfizetését biztosító kötelezettségvállalásokat,
-- h) a kötvény kiállításának helyét és napját,
-- i) a kibocsátó aláírását.
+- h) egyoldalú kezességvállalás esetén a kezességvállaló jognyilatkozatát és aláírását,
+- i) a kötvény kiállításának helyét és napját,
+- j) a kibocsátó aláírását.
 
-(3) Dematerializált kötvényre is az (1) és (2) bekezdésben foglalt rendelkezéseket kell alkalmazni azzal az eltéréssel, hogy a (2) bekezdés i) pontjában meghatározott személyek aláírását – az értékpapírokra vonatkozó törvényi rendelkezéseknek megfelelően – a kibocsátó által kiállított és a központi értéktárban elhelyezett okiraton kell feltüntetni. A dematerializált kötvény az aláírás helyett az okiratot aláírók nevét tartalmazza.
+(3) Dematerializált kötvényre is az (1) és (2) bekezdésben foglalt rendelkezéseket kell alkalmazni azzal az eltéréssel, hogy a (2) bekezdés h) és j) pontjában meghatározott személyek aláírását – az értékpapírokra vonatkozó törvényi rendelkezéseknek megfelelően – a kibocsátó által kiállított és a központi értéktárban elhelyezett okiraton kell feltüntetni. A dematerializált kötvény az aláírás helyett az okiratot aláírók nevét tartalmazza.
 
 (4) A dematerializált kötvények esetében a kötvénytulajdonos azonosító adatait a 7. § (3) bekezdésének megfelelően az értékpapírszámla tartalmazza. Az azonosító adatok körét a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény tartalmazza.
 
@@ -377,6 +378,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - d) nemzetközi szervezet és minden olyan külföldi szervezet, amely saját joga alapján kötvény kibocsátására jogosult,
 - e) jogi személyiséggel rendelkező gazdálkodó szervezet, illetve a jogi személyiséggel rendelkező külföldi gazdálkodó szervezet fióktelepe,
 - f) külön törvényben erre feljogosított szervezet.
+
+(9) A kötvényben a kibocsátójáért vállalt kezesség egyoldalú jognyilatkozatként is érvényes, annak érvényesítésére a kötvény mindenkori jogosultja jogosult.
 
 ### IV. Fejezet — AZ ÉRTÉKPAPÍROK FORGALOMBA HOZATALA, SZABÁLYOZOTT PIACRA TÖRTÉNŐ BEVEZETÉSE
 
@@ -1758,7 +1761,7 @@ a rendkívüli tájékoztatásra vonatkozó rendelkezéseit is megfelelően alka
 
 (5) Az Alap saját tőkéje nem osztható fel.
 
-(6) Az Alapot harmadik személyekkel szemben bíróság és hatóság előtt az igazgatóság elnöke vagy az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese képviseli.
+(6) Az Alapot harmadik személyekkel szemben bíróság és hatóság előtt az igazgatóság elnöke vagy az ügyvezető igazgató képviseli.
 
 ### Az Alap feladata
 
@@ -1893,7 +1896,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 - b) tőzsde és központi értéktár által kijelölt egy-egy személy;
 - c) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNBtv. 4. § (7) bekezdésében, a másik az MNBtv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatokat ellátó vezető;
 - d) az Alap tagjainak – szakmai érdek-képviseleti szervezetei által kijelölt – két képviselője;
-- e) az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese.
+- e) az Alap ügyvezető igazgatója.
 
 (2a) Az igazgatóság tagja – az igazgatóság jóváhagyásával – írásban állandó helyettest nevezhet ki, aki a tag távollétében teljes döntési joggal vesz részt az igazgatóság ülésein.
 
@@ -1906,29 +1909,29 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 (6) Megszűnik az igazgatósági tagság:
 
 - a) a (3) bekezdésben meghatározott idő elteltével;
-- b) a kijelölés visszavonásával, vagy az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese esetén az ügyvezető igazgató-helyettesi beosztás megszűnésével;
+- b) a kijelölés visszavonásával, vagy az ügyvezető igazgató esetén az ügyvezető igazgatói beosztás megszűnésével;
 - c) a tag halálával; vagy
-- d) az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettesének kivételével lemondással.
+- d) – az ügyvezető igazgató kivételével – lemondással.
 
-(7) Az igazgatóság a tagjai közül évente elnököt választ. Az Országos Betétbiztosítási Alap ügyvezető igazgató helyettese nem választható meg elnöknek.
+(7) Az igazgatóság a tagjai közül évente elnököt választ. Az ügyvezető igazgató nem választható meg elnöknek.
 
 (8) Az igazgatóság legalább negyedévente ülést tart. Az igazgatóság ülését össze kell hívni, ha az Alap terhére kifizetési kötelezettséggel járó helyzet bekövetkezése várható, illetve, ha a Felügyelet azt elrendeli. Az igazgatóság ülését az elnök hívja össze.
 
 (9) Az igazgatóság ülése akkor határozatképes, ha az ülésen legalább hét tag jelen van. Az igazgatóság a határozatokat egyszerű szótöbbséggel hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt.
 
-(10) Az igazgatóság az Alappal kapcsolatos feladatainak végrehajtása során igénybe veszi az Országos Betétbiztosítási Alap munkaszervezetét. Az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese – az Országos Betétbiztosítási Alap ügyvezető igazgatójának tájékoztatása mellett – gondoskodik az igazgatóság szakmai munkájának előkészítéséről, döntéseinek megalapozásáról, a döntések végrehajtásáról.
+(10)
 
-(11) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat az Országos Betétbiztosítási Alap elkülönített munkaszervezete látja el az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettesének irányítása mellett.
+(11)
 
-(12) Az Alap igazgatóságának ülésein az Országos Betétbiztosítási Alap ügyvezető igazgatója tanácskozási joggal részt vehet.
+(12)
 
 ### Az igazgatóság feladata
 
 224. § (1) Az igazgatóság
 
 - a) elfogadja az Alap szabályzatait;
-- b) javaslatot tesz az Országos Betétbiztosítási Alap igazgatótanácsának az Országos Betétbiztosítási Alap ügyvezető igazgató helyettesének kinevezésére és felmentésére, feladatai meghatározására, valamint díjazására;
-- c) dönt az Alap feladatainak végrehajtásával kapcsolatos intézkedésekről, valamint irányítja és ellenőrzi az e törvényben meghatározott feladatoknak az Országos Betétbiztosítási Alap ügyvezető igazgató helyettese irányításával történő végrehajtását;
+- b) kinevezi és felmenti az Alap ügyvezető igazgatóját, meghatározza feladatait és díjazását;
+- c) dönt az Alap feladatainak végrehajtásával kapcsolatos intézkedésekről, valamint irányítja és ellenőrzi az e törvényben meghatározott feladatoknak az ügyvezető igazgató irányításával történő végrehajtását;
 - d) meghatározza a tagsági viszonyból eredő kötelezettségek teljesítése érdekében az Alap tagjai által nyújtandó jelentések tartalmát és gyakoriságát;
 - e) meghatározza az Alap éves költségvetését, és megállapítja az Alap éves beszámolóját;
 - f) irányítja és ellenőrzi az Alap gazdálkodási és egyéb tevékenységét;
@@ -1936,7 +1939,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 - h) éves tevékenységéről a tárgyévet követő május 31. napjáig jelentést készít, és azt megküldi tagjainak és a Felügyeletnek;
 - i) ellátja az e törvényben meghatározott egyéb feladatokat.
 
-(2)
+(2) Az Alap munkaszervezetét az ügyvezető igazgató irányítja. Az ügyvezető igazgató felett a munkáltatói jogokat – az (1) bekezdés b) pontjában írottak kivételével – az igazgatóság elnöke gyakorolja.
 
 225. § (1) Az Alap igazgatósága szabályzatban határozza meg:
 

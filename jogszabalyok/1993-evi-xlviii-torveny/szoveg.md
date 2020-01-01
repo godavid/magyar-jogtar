@@ -81,17 +81,15 @@ A szénhidrogén tulajdonjoga az a) pontban meghatározott összeg megfizetésé
 
 (4) E törvény 4. §-ában meghatározott felszíni előkutatás bejelentés alapján, az 5—6. §-okban szabályozott bányászati tevékenységek hatósági engedély alapján végezhetők (liberalizált tevékenységek), az 50. § (6) bekezdésében meghatározott esetekben pedig e törvény alapján folytathatók.
 
-### Bejelentés alapján végezhető
+### Felszíni előkutatás
 
-felszíni előkutatás
-
-4. § (1) Nyílt területen, a talaj felszínének megbontásával nem járó előkutatás az ingatlan tulajdonosával (kezelőjével, használójával) kötött megállapodás és a kutatás megkezdése időpontjának a bányafelügyelethez történt előzetes bejelentése alapján végezhető.
+4. § (1) Nyílt területen, a talaj felszínének megbontásával nem járó előkutatás az ingatlan tulajdonosával (kezelőjével, használójával) kötött megállapodás alapján végezhető.
 
 (2) Az ingatlan tulajdonosával (kezelőjével, használójával) létrejött megállapodás nem mentesíti az előkutatást végzőt a külön jogszabályban kötelezően előírt egyéb hatósági engedély megszerzése alól.
 
 (3) A felszíni előkutatással okozott károkat a Polgári Törvénykönyv rendelkezései szerint kell megtéríteni.
 
-(4) A bejelentést elfogadottnak kell tekinteni, ha a bányafelügyelet a kutatás megkezdésére megjelölt határnapot megelőző tizenöt napon belül, a felszíni előkutatás ellen intézkedést nem kezdeményez.
+(4)
 
 ### A bányafelügyelet engedélye alapján végezhető tevékenységek
 
@@ -127,6 +125,8 @@ felszíni előkutatás
 tartozása van, vagy
 
 - b) a kérelmező a bányajáradék bevallására vonatkozó kötelezettségét nem teljesítette.
+
+(4b) A kérelmező (4a) bekezdés szerinti kötelezettségének teljesítését a bányafelügyelet ellenőrzi.
 
 (5) Az e törvény alapján engedélyköteles bányászati tevékenységre vonatkozó jogvesztő határidőbe, illetve a bányászati tevékenység végzésére engedélyezett időtartamba nem számít bele az a kieső időtartam, amely – a hatóságnak az eljárás lefolytatásával összefüggő, az arra jogszabály alapján nyitva álló határidőn belül folytatott tevékenysége szerinti időtartamot ide nem értve – a bányavállalkozó önhibáján kívül a hatóság döntése, intézkedése vagy mulasztása miatt következett be. A kiesés okát a bányavállalkozónak kell igazolnia.
 
@@ -649,7 +649,7 @@ vonatkozó információ.
 
 (2) A műszaki üzemi tervet a műszaki-biztonsági, az egészségvédelmi, a tűzvédelmi szabályok és az ásványvagyon-gazdálkodási, a vízgazdálkodási, valamint a környezet-, természet- és tájvédelmi követelmények figyelembevételével úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a föld alatti létesítmények, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a bányakárok, a környezeti-természeti károk lehetséges megelőzését, illetve csökkentését, továbbá a 26/A. § (3a) bekezdése szerint megállapított bányateleknél, illetve horizontálisan bővített bányatelekrésznél a településrendezési eszközökben foglaltaknak való megfelelést.
 
-(3)
+(3) A műszaki üzemi tervet a bányafelügyelet a (2) bekezdésben meghatározott szempontokra és az ingatlan-igénybevételi ütemtervre figyelemmel hagyja jóvá.
 
 (4) A bányavállalkozó a műszaki üzemi tervben engedélyezett bányászati tevékenységét – a tájrendezés kivételével – csak akkor kezdheti meg, ha a bányafelügyeletnek igazolta, hogy a bányászati tevékenységgel igénybe venni tervezett ingatlanok tekintetében ingatlan-igénybevételi jogosultsággal rendelkezik, és a bányafelügyelet az igazolást elfogadta.
 
@@ -949,7 +949,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 41. § (1) A bányafelügyelet azt a jogi vagy természetes személyt, aki vagy amely jogosulatlanul bányászati tevékenységet végez vagy végeztet, bírsággal sújtja és eltiltja a tevékenység folytatásától, valamint kötelezi a jogosulatlanul kitermelt érték megfizetésére. Jogosulatlanul az folytat bányászati tevékenységet, aki
 
-- a) a 4. § szerinti felszíni előkutatást a kötelező bejelentést elmulasztva végzi,
+- a)
 - b) bányászati koncesszió vagy bányafelügyeleti engedély nélkül ásványi nyersanyagot termel ki, vagy geotermikus energiát hasznosít,
 - c) külön jogszabályban előírt hatósági engedély nélkül vagy attól eltérően folytatott tevékenysége során ásványi nyersanyagot termel ki vagy geotermikus energiát hasznosít,
 - d)
@@ -1413,16 +1413,7 @@ aki a tevékenységére, továbbá a hites bányamérő tekintetében a bányat�
 
 (9) A teljesítés halasztását vagy a részletekben történő teljesítés engedélyezését, vagy elutasítását elrendelő végzés ellen önálló fellebbezésnek van helye.
 
-43/D. § (1) Ha a bányafelügyelet a hatósági ellenőrzés során megállapítja, hogy az ügyfél a jogszabályban vagy hatósági döntésben foglalt előírásokat megsértette, és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a bányafelügyelet felhívja az ügyfél figyelmét a jogszabálysértés tényére, és megfelelő határidő tűzésével, valamint a jogkövetkezmények kilátásba helyezésével felhívja a jogszabálysértés megszüntetésére.
-
-(2) Ha az (1) bekezdés szerinti határidő eredménytelenül telt el, vagy az (1) bekezdés nem alkalmazható, a bányafelügyelet hivatalból új eljárás keretében e törvényben meghatározott egyéb jogkövetkezményt alkalmaz.
-
-(3) Nem alkalmazható az (1) bekezdés, ha
-
-- a) a jogszabályban vagy hatósági döntésben foglalt előírások megsértése kizárólag újabb hatósági eljárás keretében orvosolható,
-- b) azt jogszabály – a jogszabálysértés és a jogkövetkezmény alkalmazását megalapozó jogszabályi rendelkezés tételes megjelölésével – kizárja,
-- c) a bányafelügyelet ugyanazon ügyféllel szemben az (1) bekezdés szerinti felhívás eredménytelensége miatt két évnél nem régebben végleges döntéssel jogkövetkezményt állapított meg,
-- d) a bányafelügyelet ugyanazon ügyféllel szemben ugyanazon ténybeli és jogi alapon két évnél nem régebben az (1) bekezdésben meghatározott felhívást bocsátott ki.
+#### 43/D. §
 
 44. § (1) A bányafelügyelet hatáskörébe tartozik – figyelemmel a 43. § (3) bekezdésében foglaltakra –:
 
@@ -1736,7 +1727,7 @@ bányahatósági felügyelete
 
 50/A. § (1) Felhatalmazást kap a Kormány
 
-- 1. a földtani kutatásra és a bejelentés alapján végezhető felszíni előkutatásra,
+- 1. a földtani kutatásra,
 - 2. e törvény hatálya alá tartozó, hatósági engedély vagy koncessziós szerződés alapján végezhető tevékenységekre,
 - 3. a koncessziós pályázatok értékelését végző minősítő bizottság létrehozására és összetételére,
 - 4. a bányajáradékra, annak befizetésére, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítésre, illetve díjfizetésre,

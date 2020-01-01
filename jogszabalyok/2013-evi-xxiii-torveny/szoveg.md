@@ -347,7 +347,7 @@ figyelembevételével kell számítani.
 41. § (1) Az alapszabályban meghatározott feltételekkel visszaigényelhető a 4. mellékletben meghatározott kőolajtermékek után bevallott tagi hozzájárulásnak az a része, amelyet a tag igazoltan
 
 - a) katonai célra hoz be, használ fel vagy értékesít közvetlenül a végső felhasználó számára,
-- b) nem magáncélú légiközlekedési tevékenységet végző szervezet nemzetközi légiforgalomban részt vevő – külföldi vagy magyar lajstromjelű – légijárművek üzemeltetésére használ fel, vagy számára ilyen célra értékesítenek, vagy a légitársaság saját felhasználásra tartalékol,
+- b)
 - c) vegyipari, kenéstechnikai, illetve korrózióvédelmi célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára.
 
 (2) Az alapszabályban meghatározottak szerint, az ott rögzített feltételek fennállása esetén a tag évente kérelmet terjeszthet elő a Szövetséghez, amely alapján a Szövetség igazgatója engedélyezheti, hogy a tag az (1) bekezdés szerinti esetekben a kőolajtermékek után fizetendő tagi hozzájárulás összegét havonta csökkentse a visszaigényelhető tagi hozzájárulás összegével.
@@ -504,16 +504,26 @@ való megfelelést szolgálja.
 
 - 1. Biztonsági kőolajkészlet a következő nyersolajból és kőolajtermékekből képezhető:
 
-|  |  | Kombinált nomenklatúra 2012 |
-| --- | --- | --- |
-|  | a) Nyersolaj | 27090090 |
-|  | b) Motorbenzin | 27101231-27101270 |
-|  | c) Motorikus gázolaj/dízelolaj | 27101943-27101948, 27102011-27102019 |
-|  | d) Háztartási és egyéb tüzelőolaj |
-|  | e) Fűtőolaj – alacsony kéntartalmú (1%-nál alacsonyabb) | 27101962-27101964, 27102031-27102035 |
-|  | f) Fűtőolaj – magas kéntartalmú (1%-nál magasabb) | 27101968, 27102039 |
+|  |  | A | B |
+| --- | --- | --- | --- |
+|  | 1 | Készletezett anyag | Kombinált nomenklatúra 2012 |
+|  | 2 | Nyersolaj | 27090090 |
+|  | 3 | Motorbenzin | 27101231-27101270 |
+|  | 4 | Motorikus gázolaj/dízelolaj | 27101943-27101948, 27102011-27102019 |
+|  | 5 | Háztartási és egyéb tüzelőolaj |
+|  | 6 | Fűtőolaj – alacsony kéntartalmú (1%-nál alacsonyabb) | 27101962-27101964, 27102031-27102035 |
+|  | 7 | Fűtőolaj – magas kéntartalmú (1%-nál magasabb) | 27101968, 27102039 |
+|  | 8 | Kerozin típusú sugárhajtómű üzemanyag | 27101921 |
 
-- 2. A biztonsági kőolajkészlet szintjét a következőképpen kell meghatározni: A = [a × 0,96 + (b+c+d+e+f) ×1,2] × 0,9 ahol, A = a biztonsági kőolajkészlet nagysága kőolaj-egyenértékben a = a tárolt nyersolaj mennyisége tonna mértékegységben b = a tárolt motorbenzin mennyisége tonna mértékegységben c = a tárolt motorikus gázolaj/dízelolaj mennyisége tonna mértékegységben d = a tárolt háztartási és egyéb tüzelőolaj mennyisége tonna mértékegységben e = a tárolt alacsony kéntartalmú fűtőolaj mennyisége tonna mértékegységben f = a tárolt magas kéntartalmú fűtőolaj mennyisége tonna mértékegységben
+- 2. A biztonsági kőolajkészlet szintjét a következőképpen kell meghatározni: A = [a×0,96+(b+c+d+e+f+g)×1,2]×0,9 ahol,
+- 2.1. A = a biztonsági kőolajkészlet nagysága kőolaj-egyenértékben;
+- 2.2. a = a tárolt nyersolaj mennyisége tonna mértékegységben;
+- 2.3. b = a tárolt motorbenzin mennyisége tonna mértékegységben;
+- 2.4. c = a tárolt motorikus gázolaj/dízelolaj mennyisége tonna mértékegységben;
+- 2.5. d = a tárolt háztartási és egyéb tüzelőolaj mennyisége tonna mértékegységben;
+- 2.6. e = a tárolt alacsony kéntartalmú fűtőolaj mennyisége tonna mértékegységben;
+- 2.7. f = a tárolt magas kéntartalmú fűtőolaj mennyisége tonna mértékegységben;
+- 2.8. g = a tárolt kerozin típusú sugárhajtómű üzemanyag mennyisége tonna mértékegységben.
 - 3. A biztonsági és a különleges kőolajkészlet mennyiségének számítása során
   - a) a kőolajtermékbe kevert, vagy
   - b) a Magyarországon tárolt, kőolajtermékhez kevert és a közlekedésben alkalmazott bioüzemanyagok (ide értve a biomassszát) és adalékok vehetők figyelembe. E pont alkalmazásában:

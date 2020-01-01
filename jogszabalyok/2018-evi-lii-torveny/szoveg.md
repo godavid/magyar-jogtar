@@ -10,7 +10,7 @@ Az Országgyűlés a gazdasági növekedés feltételeinek javítása és a gazd
 
 1. § (1) Szociális hozzájárulási adó (a továbbiakban: adó) fizetési kötelezettség áll fenn a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerint összevont adóalapba tartozó adó (adóelőleg) alap számításnál figyelembe vett jövedelem után.
 
-(2) Az (1) bekezdésben meghatározott jövedelmeken kívül adófizetési kötelezettség terheli a tanulószerződés alapján ténylegesen kifizetett díjat, az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíjat és a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíjat.
+(2) Az (1) bekezdésben meghatározott jövedelmeken kívül adófizetési kötelezettség terheli az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíjat és a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíjat.
 
 (3) Adófizetési kötelezettség terheli az Szja tv. szerinti önálló és nem önálló tevékenységből származó jövedelem esetében az Szja tv. szerinti adó (adóelőleg) alap hiányában a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerint biztosítottnak minősülő személy részére juttatott olyan jövedelmet, amely a Tbj. 4. § k) pont 2. alpontja alapján járulékalapot képez.
 
@@ -36,7 +36,7 @@ Magyarországon adóztatható része után.
 
 (6) Az (1)–(5) bekezdésben meghatározott jövedelem után a szociális hozzájárulási adót nem pénzbeli juttatás esetén is meg kell fizetni.
 
-(7) Adófizetési kötelezettség terheli az egyszerűsített vállalkozói adó alanyának minősülő egyéni vállalkozót (a továbbiakban: eva adóalany egyéni vállalkozó).
+(7)
 
 (8) Ha a természetes személy ugyanazon adómegállapítási időszakra Magyarországon adóztatható és Magyarországon nem adóztatható jövedelmet is szerez, az adóalap megállapításánál az (1)–(3) bekezdéseket megfelelően együttesen kell alkalmazni, azzal az eltéréssel, hogy a (3) bekezdés alkalmazásakor az alapbér vagy más díjazás azon időszakra (naptári napokra) vonatkozó arányos részét kell figyelembe venni, amelyben a jövedelem külföldön adóztatható.
 
@@ -84,9 +84,14 @@ Magyarországon adóztatható része után.
 
 - a) a kiegészítő tevékenységet folytató egyéni vállalkozónak;
 - b) a társas vállalkozásnak a kiegészítő tevékenységet folytató társas vállalkozóra tekintettel;
-- c) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjával fennálló jogviszonyára – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is – tekintettel;
+- c) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, képzésben részt vevő személy, hallgató tagjával fennálló jogviszonyára – 25. életévének betöltéséig a tanulói, hallgatói, felnőttképzési jogviszonya szünetelésének időtartama alatt is – tekintettel;
 - d) a szociális szövetkezetnek a tagi munkavégzési jogviszonyban álló tagjával fennálló jogviszonyára tekintettel;
-- e) a kifizetőnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszonyra tekintettel;
+- e) a kifizetőnek
+  - ea) a szakképzésről szóló 2019. évi LXXX. törvény 86. § (1) bekezdése szerinti szakképzési munkaszerződés,
+  - eb) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdés a) pontja szerinti hallgatói munkaszerződés
+
+alapján létrejött jogviszonyra tekintettel;
+
 - f) a közérdekű nyugdíjas szövetkezetnek az öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja között fennálló jogviszonyára tekintettel;
 - g) a kifizetőnek az Mt. szerinti munkaviszonyban foglalkoztatott saját jogú nyugdíjas személyre tekintettel;
 - h) a Tbj. szerint külföldinek minősülő személynek az általa megszerzett, járulékalapot nem képező jövedelemre tekintettel;
@@ -99,7 +104,7 @@ Magyarországon adóztatható része után.
 - c) a nemzetközi szervezet nemzetközi szerződés alapján mentességet élvező tisztviselője, alkalmazottja és vele közös háztartásban élő családtagja (házastárs, gyermek) részére kifizetett, juttatott bevétel, feltéve, hogy kiterjed rájuk a nemzetközi szervezet szociális biztonsági rendszere;
 - d) a külföldi kifizető által Magyarországon kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében munkaviszonyban foglalkoztatott olyan – bevándorolt vagy letelepedett jogállással nem rendelkező – természetes személy részére kifizetett, juttatott bevétel (ideértve a munkaszerződésben meghatározott alapbért is), aki harmadik állam állampolgára, feltéve, hogy a foglalkoztatás időtartama nem haladja meg a két évet, valamint az említett feltételek szerinti korábbi foglalkoztatásától számítva a foglalkoztatás ismételt megkezdéséig legalább három év már eltelt; e rendelkezés olyan harmadik államból kiküldött személy esetében is alkalmazható, aki a harmadik államban fennálló biztosítását igazolja, függetlenül attól, hogy a kiküldött személy állampolgársága szerinti állammal Magyarországnak szociális biztonsági egyezménye áll fenn, továbbá olyan harmadik államból kiküldött személy esetében is alkalmazható, aki a harmadik államban fennálló biztosítását igazolja és nem tartozik a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá;
 - e) a kifizető által megállapított és folyósított társadalombiztosítási ellátás, valamint az általa folyósított szociális ellátásból a szociális igazgatásról és a szociális ellátásokról szóló törvény szerint nem a kifizetőt terhelő rész;
-- f) táppénz, baleseti táppénz, csecsemőgondozási díj, gyermeknevelési támogatás, gyermekgondozási díj;
+- f) táppénz, baleseti táppénz, csecsemőgondozási díj, örökbefogadói díj, gyermeknevelési támogatás, gyermekgondozási díj;
 - g) az olyan személynek juttatott bevétel, akire a Tbj. 11. §-a, 11/B. §-a, és 13. §-a szerint a biztosítási kötelezettség nem terjed ki;
 - h) az ingatlan bérbeadásából származó jövedelem;
 - i) az a jövedelem, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. 11. §-a, 11/A. §-a, 11/B. §-a vagy 13. §-a alapján nem áll fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától.
@@ -126,21 +131,13 @@ nem terheli adófizetési kötelezettség.
 
 6. § (1) Az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozót saját maga után terhelő adó alapja – figyelemmel az adóalap megállapításának különös szabályaira is – a vállalkozói kivét, az átalányadózást alkalmazó egyéni vállalkozót saját maga után terhelő adó alapja az átalányban megállapított jövedelem.
 
-(2) Az egyszerűsített vállalkozói adó alanyának minősülő egyéni vállalkozót saját maga után havonta terhelő adó alapja:
+(2)
 
-- a) a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében külön törvény rendelkezése szerint az adóévre, vagy az adóévnek a munkaviszonya vagy tanulói (hallgatói) jogviszonya megszűnését követő hátralévő részére tett nyilatkozat esetében a nyilatkozat szerinti összeg;
-- b) az a) pont hatálya alá nem tartozó esetben az adóalap megállapításának egyéni vállalkozóra irányadó különös szabályai szerint meghatározott összeg.
+(3)
 
-(3) Ha az egyéni vállalkozó egyszerűsített vállalkozói adóalanyisága év közben megszűnik, a (2) bekezdés a) pontja szerinti adóalapot törthónap esetén az egyszerűsített vállalkozói adóalanyisága megszűnésének hónapjában napi arányosítással állapítja meg.
+(4)
 
-(4) Az egyszerűsített vállalkozói adó alanyának minősülő egyéni vállalkozót saját maga után terhelő adó alapja az egyszerűsített vállalkozói adó alapjának 4 százaléka, ha
-
-- a) az adóalap megállapításának különös szabályai alkalmazása alól legalább heti 36 órás foglalkoztatással járó munkaviszonyára, a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányaira tekintettel mentesül, vagy
-- b) tagként a kifizetővel az adóalap megállapításának különös szabályai hatálya alá tartozó jogviszonyban áll.
-
-E bekezdés alkalmazásakor a heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani.
-
-(5) A (4) bekezdés a) pontjában az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányokat a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Kormányrendelet (a továbbiakban: Tbj. vhr.) 7/B. §-a szerint kell igazolni.
+(5)
 
 (6) A családi gazdaságok nyilvántartásában családi gazdálkodóként bejegyzett azon magánszemély, aki a mezőgazdasági termelő tevékenység tekintetében az egyéni vállalkozói nyilvántartásban szerepel, az adóval kapcsolatos adókötelezettségeket az egyéni vállalkozókra vonatkozó szabályok szerint teljesíti.
 
@@ -200,9 +197,9 @@ harmincad része azokra a napokra, amelyekre az adófizetési kötelezettség fe
 
 9. § (1) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, az egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben nem veszi számításba a hónapnak azt a napját, amelyre a tagja, maga az egyéni vállalkozó
 
-- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban részesül;
+- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül;
 - b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, gyermekek otthongondozási díja, ápolási díj folyósítása alatt a tag személyes közreműködését, az egyházi szolgálati viszonyban álló egyházi személy egyházi szolgálatát, az egyéni vállalkozó e tevékenységét személyesen folytatja;
-- c) csecsemőgondozási díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban egyidejűleg részesül.
+- c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban egyidejűleg részesül.
 
 (2) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, az egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben nem veszi számításba a hónapnak azt a napját, amelyre a tagja, maga az egyéni vállalkozó
 
@@ -213,7 +210,7 @@ harmincad része azokra a napokra, amelyekre az adófizetési kötelezettség fe
 
 (4) Az egyéni vállalkozóról és az egyéni cégről szóló törvény szerint vezetett nyilvántartásban szereplő egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításakor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(2) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen egyéni vállalkozói tevékenységét szünetelteti.
 
-(5) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, a nem eva adóalany egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(4) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen a tagja, az egyéni vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban áll, vagy a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat. Az egyidejűleg fennálló több munkaviszony esetében az egyes munkaviszonyokban előírt munkaidőt a heti legalább 36 órás foglalkoztatás megállapításánál össze kell adni.
+(5) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, az egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(4) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen a tagja, az egyéni vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban áll, vagy a köznevelési intézményben, a szakképző intézményben vagy a felsőoktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat. Az egyidejűleg fennálló több munkaviszony esetében az egyes munkaviszonyokban előírt munkaidőt a heti legalább 36 órás foglalkoztatás megállapításánál össze kell adni.
 
 (6) Amennyiben az (5) bekezdésben meghatározott körülmények a naptári hónap egészében nem állnak fenn, akkor egy-egy naptári napra az adófizetési kötelezettség kiszámításánál egyéni vállalkozó esetében a 8. § (3) bekezdése szerinti adóalap harmincad részét, társas vállalkozó esetében a 8. § (1) bekezdés szerinti adóalap harmincad részét kell figyelembe venni.
 
@@ -246,7 +243,7 @@ munkaviszonyban természetes személyt foglalkoztató kifizető az őt a munkavi
 
 11. § (1) A munkaerőpiacra lépő személyt munkaviszonyban foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
 
-(2) E § alkalmazásában munkaerőpiacra lépő az, aki az állami adó- és vámhatóság rendelkezésére álló adatok szerint a kedvezményezett foglalkoztatás kezdetének hónapját megelőző 275 napon belül legfeljebb 92 napig rendelkezett a Tbj. szerint biztosítási kötelezettséggel járó munkaviszonnyal, egyéni-, társas vállalkozói jogviszonnyal. E szabály alkalmazása szempontjából a biztosítási kötelezettséggel járó munkaviszonyba, egyéni-, társas vállalkozói jogviszonyba a csecsemőgondozási díj, a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy a gyermeknevelési támogatás (e § alkalmazásában a továbbiakban együtt: anyasági ellátás) folyósításának időszakát, valamint a közfoglalkoztatásban történő részvétel időtartamát nem kell beszámítani. A kedvezményezett foglalkoztatás kezdetének minősül az anyasági ellátásban részesült, illetve részesülő természetes személynek a korábbi kifizetőjénél történő ismételt munkába állásának kezdete is.
+(2) E § alkalmazásában munkaerőpiacra lépő az, aki az állami adó- és vámhatóság rendelkezésére álló adatok szerint a kedvezményezett foglalkoztatás kezdetének hónapját megelőző 275 napon belül legfeljebb 92 napig rendelkezett a Tbj. szerint biztosítási kötelezettséggel járó munkaviszonnyal, egyéni-, társas vállalkozói jogviszonnyal. E szabály alkalmazása szempontjából a biztosítási kötelezettséggel járó munkaviszonyba, egyéni-, társas vállalkozói jogviszonyba a csecsemőgondozási díj, örökbefogadói díj, a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy a gyermeknevelési támogatás (e § alkalmazásában a továbbiakban együtt: anyasági ellátás) folyósításának időszakát, valamint a közfoglalkoztatásban történő részvétel időtartamát nem kell beszámítani. A kedvezményezett foglalkoztatás kezdetének minősül az anyasági ellátásban részesült, illetve részesülő természetes személynek a korábbi kifizetőjénél történő ismételt munkába állásának kezdete is.
 
 (3) Az adókedvezmény összegét a kifizető havonta az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb a minimálbér után a 2. § (1) bekezdés szerinti adómértékkel megállapított összeggel a foglalkoztatás első két évében, és legfeljebb a minimálbér után a 2. § (1) bekezdés szerinti adómérték 50 százalékával megállapított összeggel a foglalkoztatás harmadik évében (a továbbiakban e § alkalmazásában: érvényesítési időszak).
 
@@ -367,7 +364,7 @@ munkavállalót foglalkoztató – vállalkozásként működő kutatóhelynek m
 - b) a szövetkezet és természetes személy tagja között fennálló, a tag részére munkavégzési kötelezettséget eredményező vállalkozási és megbízási jogviszonyból,
 - c) az a) pont alá nem tartozó, a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői társaság, a szabadalmi ügyvivői iroda és természetes személy tagja között fennálló, a tagnak a jogi személy, az egyéb szervezet tevékenységében való személyes közreműködési kötelezettséget eredményező tagi jogviszonyból (ideértve a nem munkaviszony keretében ellátott vezető tisztségviselői jogviszonyt is);
 - d) az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég és természetes személy tagja között fennálló tagi jogviszonyból;
-- e) a gazdálkodó szervezet és a tanuló között tanulószerződés alapján fennálló jogviszonyból;
+- e)
 - f) az egyházi jogi személy és az egyházi szolgálati viszonyban álló egyházi személy között fennálló jogviszonyból;
 - g) állami projektértékelői jogviszonyból;
 - h) az Szja tv. szerinti nem önálló tevékenység vagy önálló tevékenység (ide nem értve a közérdekű önkéntes tevékenységről szóló törvény hatálya alá tartozó közérdekű önkéntes tevékenységet, az egyéni vállalkozói tevékenységet, a mezőgazdasági őstermelői tevékenységet, a bérbeadói tevékenységet és az európai parlamenti képviselő e tevékenységét) végzésének alapjául szolgáló, az a)–g) pont hatálya alá nem tartozó olyan jogviszonyból, amely alapján a tevékenységet Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam, vagy Magyarország által kötött kétoldalú szociális biztonságról szóló egyezményben részes másik állam területén végzik,
@@ -395,7 +392,7 @@ esetén,
 
 19. § Az egyéni vállalkozó az adót az Art. rendelkezései szerint havonta állapítja meg, és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg. Az egyéni vállalkozó és a kiegészítő tevékenységet folytató egyéni vállalkozó a vállalkozói osztalékalap után fizetendő adót a tárgyévre vonatkozó személyi jövedelemadó bevallásában vallja be és a bevallás benyújtására előírt határidő lejártáig fizeti meg.
 
-20. § Az egyéni vállalkozó az egyszerűsített vállalkozói adó alapja figyelembevételével fizetett adót az Art. rendelkezései szerint havonta állapítja meg, és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg. Ettől eltérően a legalább heti 36 órás foglalkoztatással járó munkaviszonnyal rendelkező, vagy közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató eva adóalany egyéni vállalkozó az adót negyedévente állapítja meg, és a tárgynegyedévet követő hónap 12-éig vallja be és fizeti meg.
+#### 20. §
 
 21. § (1) A külföldi kifizető az adóval összefüggő adókötelezettséget az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) szerinti pénzügyi képviselő, valamint adózási ügyvivő útján, ennek hiányában közvetlenül teljesíti. A külföldi kifizető az adókötelezettségeit közvetlenül csak akkor teljesítheti, ha bejelentkezése alapján az állami adó- és vámhatóság Tbj. szerinti foglalkoztatóként nyilvántartásba vette.
 
@@ -417,7 +414,7 @@ esetén,
 
 23. § A kincstár számfejtési körébe tartozó költségvetési szervek képviselőjeként az adó megállapítására, bevallására és megfizetésére a kincstár kötelezett.
 
-24. § Az adó megállapítására, bevallására és megfizetésére kötelezett adózó olyan nyilvántartást köteles vezetni, amelynek alapján az adó alapja és összege, valamint az annak megállapításánál figyelembe vett mentesség és kedvezmény összege, továbbá az adó megfizetésének napja ellenőrizhető. E nyilvántartási kötelezettségét a számvitelről szóló törvény hatálya alá tartozó kifizető a számvitelről szóló törvény szerinti nyilvántartása (könyvvezetése) megfelelő részletezésével, más kifizető az Szja tv. vagy az egyszerűsített vállalkozói adóról szóló törvény rendelkezése alapján vezetett külön nyilvántartás révén teljesíti.
+24. § Az adó megállapítására, bevallására és megfizetésére kötelezett adózó olyan nyilvántartást köteles vezetni, amelynek alapján az adó alapja és összege, valamint az annak megállapításánál figyelembe vett mentesség és kedvezmény összege, továbbá az adó megfizetésének napja ellenőrizhető. E nyilvántartási kötelezettségét a számvitelről szóló törvény hatálya alá tartozó kifizető a számvitelről szóló törvény szerinti nyilvántartása (könyvvezetése) megfelelő részletezésével, más kifizető az Szja tv. rendelkezése alapján vezetett külön nyilvántartás révén teljesíti.
 
 25. § Az 1. § (5) bekezdés e) pontjában meghatározott fizetési kötelezettséget az arra kötelezett a személyi jövedelemadóval egyidejűleg állapítja meg, vallja be és fizeti meg.
 
@@ -468,10 +465,11 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 - 1. egyéni vállalkozó: az Szja tv. szerint egyéni vállalkozónak minősülő természetes személy (az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozói nyilvántartásban szereplő természetes személy akkor is, ha a nyilvántartásban rögzített tevékenysége ingatlan-bérbeadás vagy egyéb szálláshely-szolgáltatás), valamint a gyógyszerészeti magántevékenységet, falugondnoki tevékenységet, tanyagondnoki tevékenységet végző természetes személy, a szociális szolgáltató tevékenység folytatásához szükséges engedéllyel rendelkező természetes személy;
 - 2. fogvatartott: akinek őrizetét rendelték el; az a személy, aki olyan bűnügyi felügyelet alatt áll, amelynek során a bíróság előírta számára, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el; a letartóztatott; az elzárást, a szabadságvesztést töltő személy; valamint a kényszergyógykezelés vagy előzetes kényszergyógykezelés alatt álló személy;
 - 3. harmadik állam: a Tbj.-ben ilyenként meghatározott állam;
-- 4. az iskolaszövetkezet és a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagja között fennálló jogviszony tekintetében tanulmányokat folytató tanuló, hallgató: az a személy, aki
+- 4. az iskolaszövetkezet és a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, képzésben részt vevő személy, hallgató tagja között fennálló jogviszony tekintetében tanulmányokat folytató tanuló, képzésben részt vevő személy, hallgató: az a személy, aki
   - a) nappali rendszerű oktatás keretében a nemzeti köznevelésről szóló törvény szerinti tanulói jogviszonnyal rendelkezik,
-  - b) nappali rendszerű oktatás keretében a nemzeti felsőoktatásról szóló törvény szerinti nem szünetelő (aktív) hallgatói jogviszonnyal rendelkezik, vagy
-  - c) az a) vagy b) pont szerinti jogviszonya megszűnését követően diákigazolványra jogosult, a diákigazolványra való jogosultsága lejártáig;
+  - b) nappali rendszerben felnőttképzési jogviszonnyal rendelkezik,
+  - c) nappali rendszerű oktatás keretében a nemzeti felsőoktatásról szóló törvény szerinti nem szünetelő (aktív) hallgatói jogviszonnyal rendelkezik, vagy
+  - d) az a)–c) pont szerinti jogviszonya megszűnését követően diákigazolványra jogosult, a diákigazolványra való jogosultsága lejártáig;
 - 5. kiegészítő tevékenységet folytató egyéni, társas vállalkozó: aki vállalkozói tevékenységet saját jogú nyugdíjasként folytat, továbbá az az özvegyi nyugdíjban részesülő személy, aki a reá irányadó öregségi nyugdíjkorhatárt betöltötte.
 - 6. kifizető: az Art. szerinti kifizető
 - 7. külföldi kifizető: a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel nem rendelkező személy;

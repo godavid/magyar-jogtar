@@ -62,8 +62,8 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - l) ügyészségi eljárás,
 - m) bírósági eljárás,
 - n) az érintettnek nem egészségügyi intézményben történő elhelyezése, gondozása,
-- o) a munkavégzésre való alkalmasság megállapítása függetlenül attól, hogy ezen tevékenység munkaviszony, közalkalmazotti, kormányzati szolgálati, közszolgálati vagy állami szolgálati jogviszony, hivatásos szolgálati viszony vagy egyéb jogviszony keretében történik,
-- p) közoktatás, felsőoktatás és szakképzés céljából az oktatásra, illetve képzésre való alkalmasság megállapítása,
+- o) a munkavégzésre való alkalmasság megállapítása függetlenül attól, hogy ezen tevékenység munkaviszony, közalkalmazotti, kormányzati szolgálati, politikai szolgálati, biztosi vagy közszolgálati jogviszony, hivatásos szolgálati viszony vagy egyéb jogviszony keretében történik,
+- p) köznevelés, szakképzés, illetve felsőoktatás céljából az oktatásra, illetve képzésre való alkalmasság megállapítása,
 - q) a katonai szolgálatra, illetve a személyes honvédelmi kötelezettség teljesítésére való alkalmasság megállapítása,
 - r) munkanélküli ellátás, foglalkoztatás elősegítése, valamint az ezzel összefüggő ellenőrzés,
 - s) az egészségügyi ellátásokra jogosultak részére vényen rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás folyamatos és biztonságos kiszolgáltatása, illetve nyújtása érdekében,
@@ -220,6 +220,8 @@ tartalmazza.
 
 (5) A gyógyszerész a biztosított kérésére a biztosított részére tájékoztatást ad a gyógyszerellátásban részesülő biztosított (3) bekezdés szerinti adatairól.
 
+(6) Az EESZT útján továbbított, vagy abban rögzített vények nyilvántartásából a gyógyszerészek a (3) bekezdés alapján jogszerűen megismerhető adatokat az EESZT útján is megismerhetik azzal az eltéréssel, hogy az EESZT útján a nem a kötelező egészségbiztosítás terhére igénybevett gyógyszereléssel kapcsolatos adatok is megismerhetők. A gyógyszereléssel kapcsolatos adatok (3)–(5) bekezdésben foglalt megismerésének és dokumentálásának szabályait EESZT útján történő megismerés esetén úgy kell alkalmazni, hogy az érintett tiltakozáshoz való joga ne sérüljön.
+
 ### Közegészségügyi, járványügyi és munka-egészségügyi célból történő adatkezelés
 
 15. § (1) A betegellátó haladéktalanul továbbítja az egészségügyi államigazgatási szervnek az adatfelvétel során tudomására jutott egészségügyi és személyazonosító adatot, ha
@@ -282,35 +284,37 @@ tartalmazza.
 
 ### Népegészségügyi célból történő adatkezelés
 
-16. § (1) Amennyiben az érintett beteg (ide értve a magzatot is) a miniszteri rendeletben meghatározott veleszületett rendellenességben szenved, a 4. § (1) bekezdés b) és c) pontja és a 4. § (2) bekezdés b) pontja szerinti célból a rendellenességet észlelő orvos a rendellenesség észlelésétől számított 30 napon belül az érintett személyazonosító és egészségügyi adatait, valamint – kiskorú esetén – törvényes képviselője nevét és lakcímét – miniszteri rendeletben meghatározott módon – továbbítja a Veleszületett Rendellenességek Országos Nyilvántartása részére.
+16. § (1) Ha az érintett beteg (ideértve a magzatot is) miniszteri rendeletben meghatározott veleszületett rendellenességben vagy ORPHA kóddal rendelkező ritka betegségben (a továbbiakban: ritka betegség) szenved, a 4. § (1) bekezdés b) és c) pontja és a 4. § (2) bekezdés b) pontja szerinti célból a rendellenességet vagy ritka betegséget észlelő orvos a rendellenesség vagy ritka betegség észlelésétől számított 30 napon belül az érintett személyazonosító és egészségügyi adatait, valamint – kiskorú esetén – törvényes képviselője nevét és lakcímét miniszteri rendeletben meghatározott módon továbbítja a Veleszületett Rendellenességek Országos Nyilvántartása részére.
 
 (2) Az (1) bekezdés szerinti bejelentést megelőzően az észlelő orvos ellenőrzi, hogy az érintett beteg (1) bekezdés szerinti adatai szerepelnek-e a Veleszületett Rendellenességek Országos Nyilvántartásában. Ha az adatok még nem kerültek bejelentésre, az orvos az (1) bekezdésben foglaltak szerint jár el. Ha az ellenőrzés során megállapításra kerül, hogy a beteg nyilvántartott adatai nem teljes körűek, a bejelentő orvos azokat kiegészíti.
 
-(3) Amennyiben a magzatnál – ide értve a spontán vagy indukált magzati halálozás, illetve halvaszületés esetét is – olyan elváltozást észlelnek, amely veleszületett rendellenességet eredményezhet, az (1) bekezdés szerint kell eljárni, azzal, hogy az érintett személyazonosító adatain a várandós nő adatait kell érteni.
+(3) Ha a magzatnál – ideértve a spontán vagy indukált magzati halálozás, illetve halvaszületés esetét is – olyan elváltozást észlelnek, amely veleszületett rendellenességet vagy ritka betegséget eredményezhet, az (1) bekezdés szerint kell eljárni, azzal, hogy az érintett személyazonosító adatain a várandós nő adatait kell érteni.
 
-(4) Az (1) bekezdés szerinti bejelentő orvos és az érintett gondozását végző védőnő együttműködik a Veleszületett Rendellenességek Országos Nyilvántartását vezető szervvel a veleszületett fejlődési rendellenességek okainak feltárása céljából, azok megelőzése, a betegek gyógykezelésének nyomon követése érdekében.
+(4) Az (1) bekezdés szerinti bejelentő orvos és az érintett gondozását végző védőnő együttműködik a Veleszületett Rendellenességek Országos Nyilvántartását vezető szervvel a veleszületett fejlődési rendellenességek, illetve ritka betegségek okainak feltárása céljából, azok megelőzése, a betegek gyógykezelésének nyomon követése érdekében.
 
-(4a) Az egészségügyi ellátóhálózat szervei a Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv megkeresésére a 4. § (1) bekezdés b) és c) pontja és a 4. § (2) bekezdés b) pontja szerinti célból továbbítják a kezelésükben lévő, veleszületett rendellenességekkel kapcsolatos egészségügyi és hozzájuk kapcsolódó személyazonosító adatokat a Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv részére. A Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv az (1) bekezdés szerinti adatokat az érintettre vonatkozó utolsó adattovábbítástól számított ötven évig kezelheti.
+(5) Az egészségügyi ellátóhálózat szervei a Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv megkeresésére a 4. § (1) bekezdés b) és c) pontja és a 4. § (2) bekezdés b) pontja szerinti célból továbbítják a kezelésükben lévő, veleszületett rendellenességekkel és ritka betegségekkel kapcsolatos egészségügyi és hozzájuk kapcsolódó személyazonosító adatokat a Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv részére. A Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv az (1) bekezdés szerinti adatokat az érintettre vonatkozó utolsó adattovábbítástól számított ötven évig kezelheti.
 
-(4b) A Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv végzi a veleszületett rendellenességekkel kapcsolatos nemzetközi adatszolgáltatást.
+(6) A Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv végzi a veleszületett rendellenességekkel és a ritka betegségekkel kapcsolatos nemzetközi adatszolgáltatást.
 
-(5) A miniszteri rendeletben meghatározott betegségregisztert vezető szerv (a továbbiakban: betegségregisztert vezető szerv) az általa felügyelt szakterületen népegészségügyi szempontból kiemelt jelentőségű, társadalmi vagy egyéni szinten jelentős betegségteherrel járó betegségcsoportok tekintetében betegségregisztert hoz létre és működtet ezen megbetegedések nyilvántartása érdekében a 4. § (1) bekezdés a), c) és d) pontja, és (2) bekezdés b) pontja szerinti célból. A betegségregiszter kezeli az érintett személyek megbetegedéssel összefüggő egészségügyi és halálozással összefüggő adatait, TAJ számát, nemét, születési helyét és idejét, valamint a lakóhelyét és tartózkodási helyét.
+(7) Miniszteri rendeletben meghatározott betegségregisztert vezető szerv (a továbbiakban: betegségregisztert vezető szerv) az általa felügyelt szakterületen népegészségügyi szempontból kiemelt jelentőségű, vagy egyébként jelentős költségteherrel járó betegségcsoportok, ellátások és szűrések (e § alkalmazásában a továbbiakban együtt: megbetegedések) tekintetében betegségregisztert hoz létre és működtet ezen megbetegedések nyilvántartása érdekében a 4. § (1) bekezdés a)–d) pontja és a 4. § (2) bekezdés b), c), d) és w) pontja szerinti célból. A betegségregiszter az adatok gyűjtése, a kapcsolati kód képzése céljából kezelheti az érintett személyek megbetegedéssel összefüggő egészségügyi és halálozással összefüggő adatait, TAJ számát, nemét, születési helyét és idejét, valamint a lakóhelyét, illetve tartózkodási helyét.
 
-(6) Ha a betegellátó az érintett betegnél népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó, a miniszteri rendeletben felsorolt megbetegedések valamelyikét észleli, vagy annak időszakos felülvizsgálatát végzi, a 4. § (1) bekezdés a), c) és d) pontja, valamint (2) bekezdés b) pontja szerinti célból továbbítja az érintett személynek a miniszter rendeletében meghatározott személyazonosító és az észlelt megbetegedéssel összefüggő egészségügyi adatait az észlelt megbetegedést nyilvántartó betegségregisztert vezető szerv részére.
+(8) A (7) bekezdés szerinti betegségregisztereket a 35/L. § szerinti elektronikus betegségregiszter alkalmazásával kell létrehozni és működtetni. A betegségregisztert vezető szerv jogosult a 35/L. § szerinti elektronikus betegségregiszterben tárolt adatokat az EESZT útján informatikai rendszerébe letölteni és ott kezelni.
 
-(7) Az egészségbiztosítási szerv a kezelésében lévő, a miniszteri rendeletben felsorolt megbetegedésekkel kezelt betegek TAJ számát és az adott megbetegedésre vonatkozó egészségügyi adatait a 4. § (1) bekezdés a), c) és d) pontja és (2) bekezdés b) pontja szerinti célból továbbítja a betegségregisztert vezető szerv részére.
+(9) Ha a betegellátó az érintett betegnél népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó, a miniszteri rendeletben felsorolt megbetegedések valamelyikét észleli, vagy annak időszakos felülvizsgálatát végzi, a (7) bekezdés szerinti célokból továbbítja az érintett személynek a miniszteri rendeletben meghatározott személyazonosító és az észlelt megbetegedéssel összefüggő egészségügyi adatait az észlelt megbetegedést nyilvántartó, a (7) bekezdés szerint létrehozott és működtetett elektronikus betegségregiszterbe.
 
-(8) A Központi Statisztikai Hivatal a miniszter rendeletében felsorolt megbetegedésben szenvedő elhunytak halálozással kapcsolatos egészségügyi adatait és az ahhoz kapcsolódó TAJ számot, nemet, születési helyet és időt, valamint a lakóhelyet és tartózkodási helyet a 4. § (2) bekezdés b) pontja szerinti célból továbbítja az adott megbetegedéssel kapcsolatos betegségregisztert vezető szerv részére. A betegségregisztert vezető szerv a regiszterben nyilvántartott elhunytak elhalálozásának tényét átvezeti, a regiszterben nem szereplő, de az adott megbetegedésben elhunytak adatait a regiszterbe felveszi, majd az adatok egyeztetését követően a regiszterben nem nyilvántartott elhunytak adatait törli. Az érintettek adatainak kezelése tekintetében a betegségregisztert vezető szerv egyebekben a (10)–(13) bekezdésben foglaltak szerint jár el.
+(10) Az egészségbiztosítási szerv a kezelésében lévő, a miniszteri rendeletben felsorolt megbetegedésekkel kezelt betegek TAJ számát és az adott megbetegedéssel összefüggő egészségügyi adatait a (7) bekezdés szerinti célokból továbbítja a betegségregisztert vezető szerv részére.
 
-(9) A betegségregisztert vezető szerv adategyeztetést folytat a (6)–(8) bekezdés szerinti adatszolgáltatókkal a megküldött adatok tekintetében.
+(11) A Központi Statisztikai Hivatal a miniszteri rendeletben felsorolt megbetegedésben szenvedő elhunytak halálozással kapcsolatos egészségügyi adatait és az elhunyt TAJ számát, nemét, születési helyét és idejét, valamint lakóhelyét, illetve tartózkodási helyét a (7) bekezdés szerinti célokból továbbítja az adott megbetegedést nyilvántartó betegségregisztert vezető szerv részére. A betegségregisztert vezető szerv a regiszterben nyilvántartott személyek elhalálozásának tényét átvezeti, a regiszterben nem szereplő, de az adott megbetegedésben elhunytak adatait a regiszterbe felveszi, majd az adatok egyeztetését követően a regiszterben nem nyilvántartott elhunytak adatait törli. Az érintettek adatainak kezelése tekintetében a betegségregisztert vezető szerv egyebekben a (13)–(16) bekezdésben foglaltak szerint jár el.
 
-(10) A betegségregisztert vezető szerv az azonos érintettre vonatkozó személyazonosító adatokhoz kapcsolódóan átadott egészségügyi és halálozási adatok tekintetében az átadást követően haladéktalanul kapcsolati kódot képez. A kapcsolati kódot a betegségregisztert vezető szerv minden átadott adat tekintetében azonos kódképzési módszer alapján hozza létre. A kapcsolati kód biztosítja az érintettre és az egyes ellátási eseményekre, betegutakra vonatkozó adatok személyazonosításra alkalmatlan összekapcsolását.
+(12) A betegségregisztert vezető szerv adategyeztetést folytat a (9)–(11) bekezdés szerinti adatszolgáltatókkal a megküldött adatok tekintetében.
 
-(11) A betegségregisztert vezető szerv a kapcsolati kód képzését követően az összekapcsolás céljából kapott személyazonosító adatokat haladéktalanul törli.
+(13) A betegségregisztert vezető szerv az azonos érintettre vonatkozó személyazonosító adatokhoz kapcsolódóan átadott egészségügyi és halálozási adatokat a 35/L. § szerinti kapcsolati kódot kezelő szerv által képzett kapcsolati kódhoz rendelten kezeli. A betegségregisztert vezető szerv a kapcsolati kód képzését követően az összekapcsolás céljából kapott és kezelt személyazonosító adatokat haladéktalanul törli.
 
-(12) Ha a diagnózis változása kerül megállapításra a regiszterbe felvett érintett személynél, akkor az adatszolgáltató kezdeményezi a betegségregisztert vezető szervnél az érintett adatainak módosítását vagy törlését.
+(14) A (13) bekezdés szerinti esetben a kapcsolati kód képzését és a személyazonosító adatok törlését követően törvényben meghatározott esetben vagy az érintett hozzájárulása alapján a betegségregisztert vezető szerv megkeresése alapján a kapcsolati kódot kezelő szerv a betegségregisztert vezető szerv részére továbbítja a kapcsolati kódhoz tartozó személyazonosító adatokat és TAJ számot.
 
-(13) A betegségregisztert vezető szerv a nyilvántartott adatokat a regiszterbe történő felvételtől számított 30 évig kezelheti.
+(15) A (13) és (14) bekezdésben foglalt rendelkezést nem kell alkalmazni, ha a betegségregisztert vezető szerv törvény rendelkezése vagy az érintett hozzájárulása alapján kapcsolati kód képzése nélkül jogosult az érintett TAJ számának és személyazonosító adatainak kezelésére.
+
+(16) Ha a betegségregiszterben szereplő adat a (14) vagy (15) bekezdés alapján az érintett személyazonosító adataival összekapcsolható, a betegségregisztert vezető szerv jogosult az EESZT útján hozzáférni a (7) bekezdés szerinti célból szükséges egészségügyi adatokhoz.
 
 16/A. § (1) Az egészségügyi államigazgatási szerv, valamint a területi védőnői ellátásról szóló miniszteri rendeletben és a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról szóló miniszteri rendeletben meghatározott feladatai keretében a védőnő a lakossági célzott szűrővizsgálat, valamint népegészségügyi szűrővizsgálat szervezése érdekében – a 4. § (1) bekezdés c) és d) pontja, valamint a 4. § (2) bekezdés b) pontja szerinti célból – a szűrővizsgálat megszervezésének lezárásáig kezelheti a szűrővizsgálat célcsoportjába tartozó személyeknek a szűrővizsgálat megszervezéséhez közvetlenül kapcsolódó egészségügyi és személyazonosító adatait.
 
@@ -337,9 +341,24 @@ tartalmazza.
 
 (5) A Protézis Regiszter a nyilvántartott adatokat az érintett személyre vonatkozó utolsó adattovábbítástól számított ötven évig kezelheti személyazonosításra alkalmas módon.
 
+16/C. § (1) A donor plazmaferezis eljárásban részt vevő véradókról és az emberi vér és vérkomponensek gyűjtésére, vizsgálatára, feldolgozására, tárolására és elosztására vonatkozó minőségi és biztonsági előírásokról, valamint ezek egyes technikai követelményeiről szóló miniszteri rendeletben meghatározottak szerint a véradásból véglegesen kizárt véradókról az egészségi állapotuk megőrzése és ellenőrizhetősége, továbbá a levett plazma minőségének biztosítása érdekében a véradási és plazmaferezis tevékenységet végző egészségügyi szolgáltató a 4. § (1) bekezdés a) és d) pontja szerinti célból nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti nyilvántartás a következő adatokat tartalmazza:
+
+- a) az e törvényben meghatározott személyazonosító adatok közül a plazmaferezis eljárásban részt vevő véradó születési dátumát, TAJ számát és nemét,
+- b) a teljes vér és a plazma adásának időpontjait, és összesített számukat,
+- c) a gyűjtött teljes vér és plazma mennyiségét gyűjtésenként és összesítve,
+- d) az emberi vér és vérkomponensek gyűjtésére, vizsgálatára, feldolgozására, tárolására és elosztására vonatkozó minőségi és biztonsági előírásokról, valamint ezek egyes technikai követelményeiről szóló miniszteri rendeletben meghatározottak szerint a véradásból történő végleges kizárás tényét, okát és a kizárás kezdő dátumát.
+
+(3) A véradási és plazmaferezis tevékenységet végző egészségügyi szolgáltató a (2) bekezdés szerinti adatokat a teljes vér vagy a plazma adását követő 24 órán belül továbbítja a miniszteri rendeletben kijelölt egészségügyi államigazgatási szerv által működtetett Nemzeti Keresztdonációs és Donorkizárási Regiszter (a továbbiakban: Donor Regiszter) részére.
+
+(4) A (1) bekezdés szerinti nyilvántartást a véradási és plazmaferezis tevékenységet végző egészségügyi szolgáltató a miniszteri rendeletben kijelölt egészségügyi államigazgatási szerv által működtetett informatikai felület alkalmazásával vezeti.
+
+(5) A Donor Regiszter a nyilvántartott adatokat a donor plazmaferezis eljárásban részt vevő véradókról az utolsó teljes vér vagy plazma adásának időpontjától számított harminc évig kezelheti személyazonosításra alkalmas módon.
+
 ### Egészségügyi szakember-képzés
 
-17. § (1) Az egészségügyi szakember-képzés céljából – a betegellátó és a (2) bekezdés kivételével – az érintett (törvényes képviselője) hozzájárulásával lehet jelen a gyógykezelés során orvos, orvostanhallgató, egészségügyi szakdolgozó, egészségügyi főiskola, egészségügyi szakiskola vagy egészségügyi szakközépiskola hallgatója, valamint tanulója.
+17. § (1) Az egészségügyi szakember-képzés céljából – a betegellátó és a (2) bekezdés kivételével – az érintett (törvényes képviselője) hozzájárulásával lehet jelen a gyógykezelés során orvos, orvostanhallgató, egészségügyi szakdolgozó, egészségügyi főiskola hallgatója, illetve egészségügyi szakképző intézmény tanulója.
 
 (2) Az egészségügyi ellátóhálózat egészségügyi szakember-képzésre kijelölt intézményeiben az érintett (törvényes képviselője) (1) bekezdés szerinti hozzájárulására nincs szükség. Erről az érintettet (törvényes képviselőjét) fekvőbeteg-intézmény esetén legkésőbb az intézménybe történő beutaláskor, beutaló hiányában a felvételt közvetlenül megelőzően, az egészségügyi ellátóhálózat egyéb intézményei esetén legkésőbb a gyógykezelés megkezdése előtt tájékoztatni kell.
 
@@ -620,16 +639,20 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 
 (2) Egészségügyi adatot felvehet az 5. § (1) bekezdésében meghatározott személyeken túl
 
-- a) az óvodai nevelés, iskolai oktatás területén az óvodai neveléssel, iskolaérettséggel, képzési kötelezettséggel, iskolai pályaalkalmassággal kapcsolatos vizsgálatok (2. számú melléklet) elvégzése esetén a közoktatás pedagógiai szakszolgálati intézményének tagja,
+- a) az óvodai nevelés, iskolai oktatás területén az óvodai neveléssel, iskolaérettséggel, képzési kötelezettséggel, iskolai pályaalkalmassággal kapcsolatos vizsgálatok (2. számú melléklet) elvégzése esetén a pedagógiai szakszolgálati intézmény tagja,
 - b) hadköteles személy esetén a katonai egészségügyi alkalmasság (2. számú melléklet) megállapítását végző bizottság tagja, illetve a hadkiegészítő parancsnokság sorozó szakfőorvosa.
 
 35. § A nem egészségügyi intézményben az adatkezelő a működése során tudomására jutott orvosi titkot köteles megtartani. Az adatkezelő mentesül a titoktartási kötelezettség alól a 7. § (2) bekezdése szerinti esetekben.
 
 ### III/A. Fejezet — ELEKTRONIKUS EGÉSZSÉGÜGYI SZOLGÁLTATÁSI TÉR
 
-35/A. § A Kormány által rendeletben kijelölt szerv működtetőként ellátja az EESZT, mint az egészségügyi ellátóhálózat informatikai rendszereinek együttműködését biztosító, az e törvényben vagy e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott központi elektronikus szolgáltatásokat megvalósító egészségügyi ágazati informatikai rendszer működtetésével kapcsolatos feladatokat.
+35/A. § (1) A Kormány által rendeletben kijelölt szerv működtetőként ellátja az EESZT, mint az egészségügyi ellátóhálózat informatikai rendszereinek együttműködését biztosító, az e törvényben vagy e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott központi elektronikus szolgáltatásokat megvalósító egészségügyi ágazati informatikai rendszer működtetésével kapcsolatos feladatokat.
 
-35/B. § (1) Az EESZT-hez informatikai rendszere útján csatlakozásra köteles
+(2) A működtető az (1) bekezdésben meghatározottakon túl biztosítja a törvényben meghatározott egyéb, az EESZT útján történő adattovábbítási szolgáltatásokat.
+
+(3) A működtető az (1) és (2) bekezdésben meghatározottakon túl az érintett hozzájárulása alapján egyéb adattárolási és az EESZT útján történő adattovábbítási szolgáltatásokat biztosíthat.
+
+35/B. § (1) Az EESZT-hez engedélyezett informatikai rendszere útján csatlakozásra köteles
 
 - a) az egészségügyi szolgáltatás nyújtására az egészségügyi államigazgatási szerv által kiadott működési engedély alapján jogosult egészségügyi szolgáltató, aki finanszírozási jelentés benyújtására vagy elektronikus adatszolgáltatásra kötelezett,
 - b) a gyógyszertár,
@@ -639,6 +662,16 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 (2) Az egészségügyi ellátóhálózatba tartozó, az (1) bekezdés alá nem tartozó adatkezelők az EESZT-hez a miniszter rendeletében meghatározott feltételekkel csatlakozhatnak.
 
 (3) Az EESZT szolgáltatásai a működtető által biztosított közvetlen hozzáférési felületen és az (1) és (2) bekezdés alapján csatlakozott adatkezelő (a továbbiakban: csatlakozott adatkezelő) informatikai rendszerén keresztül is igénybe vehetők. A közvetlen hozzáférési felület igénybevétele érdekében regisztrációra köteles valamennyi olyan természetes személy, aki a csatlakozott adatkezelők vagy saját nevében az EESZT szolgáltatásait igénybe veszi.
+
+(4) Az EESZT-hez csatlakozásra kötelezett egészségügyi szolgáltatók között informatikai rendszerek közötti adatcsere esetén egészségügyi adat kizárólag az EESZT útján továbbítható.
+
+(5) Az informatikai rendszere útján csatlakozott adatkezelő csak olyan informatikai rendszer használatával csatlakozhat az EESZT-hez, amely rendelkezik a működtető által kiállított engedéllyel. A csatlakozott adatkezelő az EESZT felé való adatszolgáltatási kötelezettségének teljes időtartama alatt köteles biztosítani az EESZT-hez történő csatlakozás követelményeinek teljesítését.
+
+(6) Az (5) bekezdés szerinti informatikai rendszert kérelemre az EESZT működtetője engedélyezi, ha az alkalmas az EESZT-vel való együttműködésre, valamint arra, hogy annak alkalmazásával a csatlakozott adatkezelő az EESZT-vel kapcsolatban az e törvényben meghatározott kötelezettségeit teljesítse, illetve jogait gyakorolja.
+
+(7) A miniszter rendeletben határozza meg a (6) bekezdés szerinti követelmények teljesítéséhez szükséges feltételeket.
+
+(8) Az EESZT működtetője ellenőrzi az (1) bekezdés szerinti kötelezettség teljesítését, valamint azt, hogy az EESZT-hez csatlakozásra kötelezett egészségügyi szolgáltató az EESZT útján való adatszolgáltatási kötelezettségének eleget tesz-e.
 
 35/C. § (1) Az EESZT-t a 35/B. § (3) bekezdése szerint igénybe vevő természetes személy (a továbbiakban: EESZT felhasználó) azonosítását az EESZT használatakor a működtető végzi el. A csatlakozott adatkezelők, valamint az EESZT felhasználók által az EESZT útján hozzáférhető adatok és szolgáltatások körét az érintett adatok kezelésére vonatkozó jogszabályi rendelkezések alapján a működtető korlátozhatja.
 
@@ -707,13 +740,13 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 ### Önrendelkezési nyilvántartás
 
-35/H. § (1) Az érintett az EESZT útján a Kormány által rendeletben kijelölt, az önrendelkezési nyilvántartást vezető szerv által rendszeresített elektronikus formanyomtatványon, a Kormány által kötelezően nyújtott azonosítási szolgáltatás útján történő azonosítását követően elektronikusan, vagy a Kormány által kijelölt szervnél vagy a kormányablaknál személyesen, vagy meghatalmazottja útján írásban – a (3) bekezdésben meghatározott tartalommal – bejelentheti az egészségügyi és hozzájuk kapcsolódó személyes adatai e törvény szerinti kezeléséhez hozzájáruló vagy azt korlátozó nyilatkozatát (a továbbiakban: önrendelkezési nyilatkozat).
+35/H. § (1) Az érintett az EESZT útján a Kormány által rendeletben kijelölt, az önrendelkezési nyilvántartást vezető szerv által rendszeresített elektronikus formanyomtatványon, a Kormány által kötelezően nyújtott azonosítási szolgáltatás útján történő azonosítását követően elektronikusan, vagy a Kormány által kijelölt szervnél vagy a kormányablaknál személyesen, vagy meghatalmazottja útján írásban – a (3) bekezdésben meghatározott tartalommal – bejelentheti az egészségügyi és hozzájuk kapcsolódó személyes adatai e törvény szerinti kezeléséhez hozzájáruló vagy azt korlátozó nyilatkozatát, ideértve az EESZT-ben tárolt adataihoz való hozzáférésre, illetve az érintett nevére felírt vények kiváltására vonatkozó meghatalmazás adását is (a továbbiakban: önrendelkezési nyilatkozat).
 
 (2) Ha az érintett az önrendelkezési nyilatkozatát nem az EESZT útján teszi meg, a nyilatkozatot befogadó szerv jegyzőkönyvet vesz fel, és haladéktalanul, de a kézhezvételtől vagy a személyes nyilatkozattételtől számított legfeljebb egy munkanapon belül a nyilatkozatot a (4) bekezdésben meghatározottaknak megfelelő adattartalommal, az önrendelkezési nyilvántartást vezető szerv által rendszeresített elektronikus formanyomtatványon eljuttatja az önrendelkezési nyilvántartást vezető szervnek.
 
 (3) Az (1) bekezdés szerinti bejelentés és az önrendelkezési nyilvántartás tartalmazza:
 
-- a)
+- a) ha az önrendelkezési nyilatkozatot tevő meghatalmazást kíván adni, az (1) bekezdésben megjelöltek szerinti meghatalmazást,
 - b) az önrendelkezési nyilatkozatot tevő TAJ számát,
 - c) azoknak az egészségügyi adatoknak a megjelölését, amelyekre az önrendelkezési nyilatkozat vonatkozik és az ezen egészségügyi adatokra vonatkozó önrendelkezési nyilatkozatot, valamint
 - d) a (2) bekezdés szerint megtett önrendelkezési nyilatkozat esetében a bejelentés megtételének helyét.
@@ -774,7 +807,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 (3) A kapcsolati kód nem származtatható személyazonosító adatból és tartalmaz véletlenszerűen megállapított, egyedi elemet. A kapcsolati kódot úgy kell létrehozni, hogy az kizárja az érintett személyazonosító adatainak a kódból való visszafejtését, vagy összekapcsolását, de biztosítsa az érintettre vonatkozó egészségügyi adatok személyazonosításra alkalmatlan összekapcsolását. A kapcsolati kódot kezelő szerv a kódképzési módszert nem továbbíthatja, nem hozhatja nyilvánosságra és nem teheti más számára hozzáférhetővé.
 
-(4) A kapcsolati kódot kezelő szerv a betegségregiszterbe továbbított adatokat a kapcsolati kód képzését követően a személyazonosító adatoktól megfosztva, a kapcsolati kóddal kiegészítve az EESZT útján továbbítja a betegségregisztert működtető szervnek. A betegségregisztert működtető szerv az elektronikus betegségregiszterekben szereplő egészségügyi adatokat kapcsolati kód alapján tartja nyilván.
+(4) A kapcsolati kódot kezelő szerv a betegségregiszterbe továbbított adatokat a kapcsolati kód képzését követően a személyazonosító adatoktól megfosztva, a kapcsolati kóddal kiegészítve az EESZT útján továbbítja a betegségregisztert vezető szervnek. A betegségregisztert működtető szerv az elektronikus betegségregiszterekben szereplő egészségügyi adatokat kapcsolati kód alapján tartja nyilván.
 
 (5) A működtető kizárólag törvényben meghatározott esetben vagy az érintett hozzájárulása alapján, a kapcsolati kód TAJ számmal történő megfeleltetését követően szolgáltat az érintettre vonatkozó egészségügyi vagy hozzá kapcsolódó személyazonosító adatot.
 
@@ -788,7 +821,34 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 (3) A működtető a digitális képtovábbítás során továbbított adatokat a szolgáltatás műszaki optimalizálása érdekében legfeljebb 90 napig tárolja.
 
+(4) Az Ebtv. szerinti országos várólista-nyilvántartást vezető szerv, valamint az országos tisztifőorvos jogosult az EESZT útján hozzáférni a várólistákkal kapcsolatos ellenőrzési feladataihoz szükséges egészségügyi adatokhoz.
+
 35/N. § A jogszabályban meghatározott jelentéstételre vagy adatszolgáltatásra kötelezett csatlakozott adatkezelő vagy az EESZT felhasználó a jelentéstételt vagy adatszolgáltatást az EESZT útján miniszteri rendeletben meghatározottak szerint teljesíti.
+
+35/O. § (1) A működtető biztosítja, hogy az Ebtv. alapján beutalónak nem minősülő igénylést az igénylő orvos az EESZT útján elektronikus úton is kiállíthassa, és az EESZT útján továbbíthassa (a továbbiakban: elektronikus szolgáltatásrendelés).
+
+(2) Az elektronikus szolgáltatásrendelésnek tartalmaznia kell
+
+- a) az igénylő orvos azonosítására szolgáló adatot, megnevezését, kódját,
+- b) a szolgáltatásrendeléssel érintett személy TAJ számát, vagy ennek hiányában más azonosítóját és
+- c) a szolgáltatásrendelésre okot adó előzetes diagnózis szöveges leírását, kódját, konzílium igénylése esetén a kérdést.
+
+(3) Az elektronikus szolgáltatásrendelés a (2) bekezdésben foglaltakon túl tartalmazhatja
+
+- a) a szolgáltatásrendeléssel érintett személy születési idejét,
+- b) a felkért szolgáltató nevét, intézményi azonosító kódját,
+- c) az igénylő orvos által végzett ellátás azonosítóját, és
+- d) a szolgáltatásrendeléssel érintett személy rövid kórelőzményét.
+
+(4) A működtető biztosítja, hogy az igénylő orvos és a szolgáltatásrendeléssel érintett személy az igénylés szerinti egészségügyi szolgáltatás meghatározott egészségügyi szolgáltatónál és időpontban történő igénybevételére vonatkozó igényét az EESZT útján terjessze elő, és ennek sikerességéről vagy sikertelenségéről az egészségügyi szolgáltató az EESZT útján tájékoztassa az igénylő orvost és a szolgáltatásrendeléssel érintett személyt.
+
+(5) A működtető az (1) és (4) bekezdésben foglaltakról nyilvántartást vezet. A nyilvántartás tartalmazza
+
+- a) az elektronikus szolgáltatásrendelés azonosító adatait, tartalmát és a szolgáltatásrendelés felhasználhatóságára vonatkozó információkat,
+- b) az elektronikus szolgáltatásrendelés továbbítására, módosítására és visszavonására vonatkozó adatokat, és
+- c) az elektronikus szolgáltatásrendelés felhasználására vonatkozó adatokat.
+
+(6) Az (5) bekezdés szerinti nyilvántartás adatait a működtető az (1) bekezdés szerinti elektronikus szolgáltatásrendelés visszavonásától, felhasználásától vagy felhasználási idejének lejártától számított 5 év, a (4) bekezdés szerinti foglalások időpontjától számított 5 év elteltével törli.
 
 ### IV. Fejezet — Vegyes és záró rendelkezések
 
@@ -798,7 +858,26 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 (3) Az e törvény szerinti törzsadat-nyilvántartásba tartozó nyilvántartásokhoz vagy azok miniszteri rendeletben meghatározott adataihoz 2016. június 1-jéig a nyilvántartás vezetője az EESZT útján is köteles hozzáférést biztosítani, az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvény hatálybalépésekor alkalmazott hozzáférési mód fenntartása mellett.
 
-(4)
+(4) Az egyes egészségügyi tárgyú törvények jogharmonizációs célú módosításáról szóló 2019. évi CXXI. törvény (a továbbiakban: Módtv.) hatálybalépésekor működő betegségregiszter a Módtv.-vel megállapított 16. § (8) bekezdése szerinti követelménynek való megfelelést 2021. június 1-jéig köteles biztosítani.
+
+(5) Az a csatlakozott vagy csatlakozásra köteles egészségügyi szolgáltató, amely a Módtv. hatálybalépésekor egészségügyi adatot továbbító informatikai rendszert működtet, a 35/B. § (4) bekezdése Módtv.-vel megállapított követelményének való megfelelést 2021. június 1-jéig köteles biztosítani.
+
+(6) A Módtv.-vel megállapított 35/M. § (4) bekezdése szerinti hozzáférést a működtető 2021. január 1-jéig köteles biztosítani.
+
+36/A. § (1) Az egészségbiztosítási szerv 2020. július 1-jéig elektronikus formában átadja az EESZT működtetője részére az érintett által a kötelező egészségbiztosítás terhére 2012. november 1-jét követően
+
+- a) igénybevett egészségügyi ellátás 35/F. § (1) bekezdése szerinti adatait az eseménykatalógusba történő betöltés céljából, és
+- b) kiváltott gyógyszerek 14/A. § (1c) bekezdése szerinti adatait az EESZT útján továbbított, vagy abban rögzített vényekről vezetett nyilvántartásba történő betöltés céljából.
+
+(2) A 35/B. § (1) bekezdés a) pontja szerinti csatlakozott adatkezelő – ha ennek technikai feltételei a csatlakozott adatkezelőnél biztosítottak – 2020. január 1-jétől száznyolcvan napon belül elektronikus formában az EESZT egészségügyi dokumentáció nyilvántartásába megküldi a 2012. november 1-jét követően nyújtott egészségügyi ellátás során keletkezett, a 35/K. § (1) bekezdése szerinti dokumentumokat.
+
+(3) Az EESZT működtetője
+
+- a) az (1) bekezdés a) pontja alapján kapott adatokat az eseménykatalógusra,
+- b) az (1) bekezdés b) pontja alapján kapott adatokat az EESZT útján továbbított, vagy abban rögzített vényekről vezetett nyilvántartásra,
+- c) a (2) bekezdés alapján kapott adatokat az EESZT egészségügyi dokumentáció nyilvántartására
+
+vonatkozó rendelkezések szerint kezeli.
 
 37. § (1) Az e törvényben foglalt rendelkezéseket az információs önrendelkezési jogról és az információszabadságról szóló törvénnyel együtt, azzal összhangban kell értelmezni és alkalmazni, valamint a TAJ szám kezelésére vonatkozóan az e törvényben nem szabályozott kérdésekben a személyazonosító jel helyébe lépő azonosítási módokról és azonosítási kódokról szóló 1996. évi XX. törvény rendelkezéseit kell alkalmazni.
 
@@ -824,7 +903,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 - l) a Nemzeti Szívinfarktus Regisztert vezető szervet kijelölje, valamint a szívinfarktussal kapcsolatos megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat,
 - m) a Protézis Regisztert vezető szervet kijelölje, valamint a Protézis Regiszterbe történő bejelentésre és a nyilvántartásra vonatkozó részletes szabályokat
 - n) az EESZT műszaki követelményeit,
-- o) az egészségügyi ellátóhálózatba tartozó, a 35/B. § (2) bekezdése alapján csatlakozó adatkezelők EESZT-hez csatlakozásának feltételeit, az EESZT-hez való csatlakozáshoz szükséges informatikai rendszer követelményeit, valamint az EESZT-hez csatlakozásra kötelezett államigazgatási szervek és egyéb szervezetek körét, a csatlakozás rendjét, a csatlakozás ütemezését, az EESZT bevezetési időszakának szabályait, valamint az EESZT-hez való közvetlen hozzáférés feltételeit és a szolgáltatások igénybevételéhez szükséges azonosítás követelményeit,
+- o) az egészségügyi ellátóhálózatba tartozó, a 35/B. § (2) bekezdése alapján csatlakozó adatkezelők EESZT-hez csatlakozásának feltételeit, az EESZT-hez való csatlakozáshoz szükséges informatikai rendszer követelményeit, az arra vonatkozó ajánlás tartalmi követelményeit és közzétételének részletes szabályait, valamint az EESZT-hez csatlakozásra kötelezett államigazgatási szervek és egyéb szervezetek körét, a csatlakozás rendjét, a csatlakozás ütemezését, az EESZT bevezetési időszakának szabályait, valamint az EESZT-hez való közvetlen hozzáférés feltételeit és a szolgáltatások igénybevételéhez szükséges azonosítás követelményeit,
 - p) az ellátási eseménynek a csatlakozott adatkezelő által a nyilvántartó rendelkezésére bocsátandó adatait, valamint a központi eseménykatalógusra vonatkozó részletes szabályokat,
 - q) a 35/G. § szerinti nyilvántartásokat vagy adatokat, valamint az EESZT-n keresztüli hozzáférhetővé tételük rendjét,
 - r) az önrendelkezési nyilatkozatra és önrendelkezési nyilvántartásra vonatkozó eljárási szabályokat,
@@ -833,7 +912,9 @@ hívja fel az érintett csatlakozott adatkezelőt.
 - u) az EESZT útján elektronikus úton működtetendő betegségregiszterek körét, a kapcsolati kód képzésére és az elektronikus betegségregiszterekre vonatkozó részletes szabályokat,
 - v) az elektronikus konzílium és digitális képtovábbítás részletes szabályait, valamint a 35/N. § szerinti jelentéstételi és adatszolgáltatási kötelezettségeket és azok teljesítésének rendjét,
 - w) a látlelet tartalmi és formai követelményeit, kiadásának rendjét,
-- x) a népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések körét, a megbetegedéseket nyilvántartó betegségregisztert vezető szervet, valamint ezen megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat
+- x) a népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések körét, a megbetegedéseket nyilvántartó betegségregisztert vezető szervet, valamint ezen megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat,
+- y) az EESZT-hez csatlakozott egészségügyi szolgáltatók által használt informatikai rendszerek megfelelőségére vonatkozó követelményeket,
+- z) a Donor Regisztert vezető szervet kijelölje, és a Donor Regiszterre vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

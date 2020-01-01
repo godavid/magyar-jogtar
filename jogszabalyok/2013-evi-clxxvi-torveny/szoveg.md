@@ -82,7 +82,7 @@ egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról
 
 (2) Az a hitelező, akinek az átalakuló jogi személlyel szemben fennálló követelése az átalakulásról hozott döntés első közzétételét megelőzően keletkezett, követelése erejéig az átalakuló jogi személytől a döntés második közzétételét követő harmincnapos jogvesztő határidőn belül megfelelő biztosítékot követelhet, ha az átalakulás követelésének kielégítését veszélyezteti.
 
-(3) Ha a tag helytállási kötelezettsége az átalakuló jogi személy kötelezettségeiért a jogi személy fennállása alatt korlátozott, a (2) bekezdés szerinti hitelezői felhívás alapján a hitelező által kért biztosítékot az átalakuló jogi személy csak akkor tagadhatja meg, ha
+(3) Ha a tag helytállási kötelezettsége az átalakuló jogi személy kötelezettségeiért a jogi személy fennállása alatt korlátozott, a (2) bekezdés szerinti hitelezői felhívás alapján a hitelező által kért biztosítékot az átalakuló jogi személy nem tagadhatja meg, ha
 
 - a) az átalakulásról szóló döntés meghozatalakor a jogelőd jogi személynek a saját tőke felénél magasabb összegű köztartozása van, amelyre halasztást, fizetési könnyítést nem kapott;
 - b) az átalakulásról szóló döntés meghozatalakor a hitelező egyébként nem rendelkezik az átalakuláshoz kapcsolódó kockázattal arányos biztosítékkal;

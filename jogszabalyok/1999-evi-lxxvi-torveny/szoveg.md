@@ -349,7 +349,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (3) A szabad felhasználásra vonatkozó rendelkezéseket nem lehet kiterjesztően értelmezni.
 
-(4) E fejezet rendelkezéseinek alkalmazása szempontjából az iskolai oktatás célját szolgálja a felhasználás, ha az az óvodai nevelésben, az általános iskolai, középfokú iskolai oktatásban, az alapfokú művészeti iskolai oktatásban vagy a felsőoktatásról szóló törvény hatálya alá tartozó felsőfokú oktatásban a tantervnek, illetve a képzési követelményeknek megfelelően valósul meg.
+(4) E fejezet rendelkezéseinek alkalmazása szempontjából az iskolai oktatás célját szolgálja a felhasználás, ha az az óvodai nevelésben, az általános iskolai, középfokú iskolai oktatásban, szakképző intézményben folyó szakmai oktatásban, az alapfokú művészeti iskolai oktatásban vagy a felsőoktatásról szóló törvény hatálya alá tartozó felsőfokú oktatásban a tantervnek, illetve a képzési követelményeknek megfelelően valósul meg.
 
 ### A szabad felhasználás esetei
 
@@ -367,14 +367,14 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (3) Nem minősül szabad felhasználásnak – függetlenül attól, hogy magáncélra történik-e –, ha a műről más személlyel készíttetnek másolatot számítógépen, illetve elektronikus adathordozóra.
 
-(4) Nyilvános szolgáltatásokat nyújtó könyvtár, iskolai oktatás célját szolgáló [33. § (4) bek.] intézmény, muzeális intézmény, levéltár, valamint a közgyűjteménynek minősülő kép-, illetve hangarchívum a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, és
+(4) Nyilvános szolgáltatásokat nyújtó könyvtár, iskolai oktatás céljából [33. § (4) bek.] köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény, muzeális intézmény, levéltár, valamint a közgyűjteménynek minősülő kép-, illetve hangarchívum a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, és
 
 - a) tudományos kutatáshoz vagy archiváláshoz szükséges,
 - b) nyilvános könyvtári ellátás vagy a 38. § (5) bekezdésében meghatározott felhasználás céljára készül,
 - c) megjelent mű kisebb részéről, továbbá újság- vagy folyóiratcikkről belső intézményi célra készül, vagy
 - d)
 
-(5) Könyvként kiadott mű egyes részei, valamint újság- és folyóiratcikkek az iskolai oktatás céljára egy-egy iskolai osztály létszámának megfelelő, illetve a köz- és felsőoktatási vizsgákhoz szükséges példányszámban többszörözhetők.
+(5) Könyvként kiadott mű egyes részei, valamint újság- és folyóiratcikkek az iskolai oktatás céljára egy-egy csoport vagy iskolai osztály létszámának megfelelő, valamint a köznevelés, a szakképzés, illetve a felsőoktatás keretében szervezett vizsgákhoz szükséges példányszámban többszörözhetők.
 
 (6) Szabad felhasználás a mű járulékos vagy közbenső – a felhasználásra irányuló műszaki folyamat elválaszthatatlan és lényeges részét képező, önálló gazdasági jelentőség nélküli – időleges többszörözése, ha kizárólag az a célja, hogy lehetővé tegye
 
@@ -414,7 +414,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (4) Zártkörű a gazdálkodó szervezetek, továbbá a gazdálkodó szervezetnek nem minősülő jogi személyek által kizárólag tagjaik, tisztségviselőik, munkavállalóik részére rendezett összejövetel is.
 
-(5) A felhasználásra vonatkozó eltérő megállapodás hiányában a nyilvános szolgáltatásokat nyújtó könyvtárak, iskolai oktatás célját szolgáló [33. § (4) bek.] intézmények, muzeális intézmények, levéltárak, valamint közgyűjteménynek minősülő kép-, illetve hangarchívumok gyűjteményeinek részét képező művek az ilyen intézmények helyiségeiben ezzel a céllal üzembe állított számítógépes terminálok képernyőjén tudományos kutatás vagy egyéni tanulás céljára a nyilvánosság egyes tagjai számára szabadon megjeleníthetők, és ennek érdekében – külön jogszabályban meghatározott módon és feltételekkel – a nyilvánosság említett tagjaihoz szabadon közvetíthetők, ideértve a nyilvánosság számára történő hozzáférhetővé tételt is, feltéve, hogy az ilyen felhasználás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja.
+(5) A felhasználásra vonatkozó eltérő megállapodás hiányában a nyilvános szolgáltatásokat nyújtó könyvtárak, iskolai oktatás céljából [33. § (4) bek.] köznevelési intézmények, szakképző intézmények és felsőoktatási intézmények, muzeális intézmények, levéltárak, valamint közgyűjteménynek minősülő kép-, illetve hangarchívumok gyűjteményeinek részét képező művek az ilyen intézmények helyiségeiben ezzel a céllal üzembe állított számítógépes terminálok képernyőjén tudományos kutatás vagy egyéni tanulás céljára a nyilvánosság egyes tagjai számára szabadon megjeleníthetők, és ennek érdekében – külön jogszabályban meghatározott módon és feltételekkel – a nyilvánosság említett tagjaihoz szabadon közvetíthetők, ideértve a nyilvánosság számára történő hozzáférhetővé tételt is, feltéve, hogy az ilyen felhasználás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja.
 
 39. § Az országos szakkönyvtárak a mű egyes példányait szabadon haszonkölcsönbe adhatják. Ez a rendelkezés nem vonatkozik a szoftverre és a számítástechnikai eszközökkel működtetett adatbázisra.
 

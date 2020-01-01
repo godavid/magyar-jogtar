@@ -297,6 +297,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése globális sz
 - 91. egyéb rendszerszinten jelentős befektetési vállalkozás: olyan rendszerszinten jelentős befektetési vállalkozás, amelynek felszámolása vagy nem prudens működése EGT-szinten vagy tagállami szinten rendszerkockázathoz vezethet,
 - 92. egyéb rendszerszinten jelentős befektetési vállalkozásokra vonatkozó tőkepuffer: a Magyarországon vagy az Európai Unióban jelentős kockázatokat hordozó befektetési vállalkozások csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény,
 - 93. rendszerkockázati tőkepuffer: a rendszerszintű kockázatok megelőzésére és mérséklésére irányuló szavatolótőke-követelmény,
+- 93a. helyreállítási képesség: a befektetési vállalkozás azon képessége, hogy stabilizálja pénzügyi helyzetét, ha az jelentős mértékben romlik;
 - 94. helyreállítási terv: olyan terv, amelyben foglalt a befektetési vállalkozás által végrehajtandó lépések a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás igénybevétele nélkül – biztosítják a befektetési vállalkozás pénzügyi helyzetének stabilizálódását,
 - 95. alapjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás és a vezető állású személy, munkavállaló közötti szerződésben meghatározottaknak megfelelően a befektetési vállalkozás a vezető állású személynek vagy munkavállalónak rendszeresen munkabérként kifizet, és amely megfelelően tükrözi a tisztség betöltéséhez szükséges szakmai tapasztalatokat és felelősséget, ideértve minden olyan juttatást, amelyet más munkavállaló is megkap,
 - 96.
@@ -797,13 +798,13 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 24/B. § A befektetési vállalkozás megfelelő humán és pénzügyi erőforrást biztosít az irányítási jogkörrel rendelkező vezető testület tagjainak képzésére.
 
-24/C. § (1) Az irányítási jogkörrel rendelkező vezető testület tagjai megfelelő időt fordítanak a befektetési vállalkozásnál vállalt funkciójuk ellátására.
+24/C. § (1) A vezető testület tagjai megfelelő időt fordítanak a befektetési vállalkozásnál vállalt funkciójuk ellátására.
 
 (2) A vezető testület a befektetési vállalkozás tevékenységeinek – beleértve a fő kockázatokat is – a megértéséhez megfelelő kollektív tudással, készségekkel és tapasztalatokkal rendelkezik.
 
 24/D. § (1) Ha a befektetési vállalkozásnak a tárgyévet megelőző évi mérlegfőösszege meghaladja a kétszázmilliárd forintot, akkor a befektetési vállalkozás jelölőbizottságot állít fel.
 
-(2) A jelölőbizottság tagjai az irányítási jogkörrel rendelkező vezető testület olyan tagjai közül kerülnek ki, akik az érintett befektetési vállalkozással nem állnak munkaviszonyban. Ha a befektetési vállalkozás irányítási jogkörrel rendelkező vezető testületében nincs legalább három olyan tag, aki nem áll munkaviszonyban a befektetési vállalkozással, akkor a jelölőbizottságban a felügyeleti jogkörrel rendelkező vezető testület független tagjai is részt vehetnek.
+(2) A jelölő bizottság tagjai a felügyeleti jogkörrel rendelkező vezető testület olyan tagjai közül kerülhetnek ki, akik az érintett befektetési vállalkozásban nem látnak el ügyvezetői feladatokat.
 
 (3) A jelölőbizottság feladata:
 
@@ -818,9 +819,9 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 (4) A jelölések során törekedni kell arra, hogy az irányítási jogkörrel rendelkező vezető testületben minél szélesebb szakismerettel rendelkező tagok vegyenek részt, és ennek előmozdítására a jelölőbizottság belső politikát is dolgoz ki.
 
-(5) A Felügyelet a (4) bekezdés szerinti politikát felhasználva elemzéseket és összehasonlításokat végez a befektetési vállalkozások gyakorlatáról, amelyeket megküld az Európai Bankhatóság (a továbbiakban: EBH) számára.
+(5) A befektetési vállalkozás közzéteszi a (3) bekezdés f) pontjában meghatározott nemek arányát, annak eléréséhez meghatározott stratégiáját és a stratégia végrehajtásának módját.
 
-(6) A befektetési vállalkozás közzéteszi a (3) bekezdés f) pontjában meghatározott nemek arányát, annak eléréséhez meghatározott stratégiáját és a stratégia végrehajtásának módját.
+(6) A Felügyelet a (4) és (5) bekezdés szerinti politikát felhasználva elemzéseket és összehasonlításokat végez a befektetési vállalkozások gyakorlatáról, amelyeket megküld az Európai Bankhatóság (a továbbiakban: EBH) számára.
 
 (7) A jelölőbizottság számára a befektetési vállalkozás biztosítja a (3) bekezdésben meghatározott feladatai ellátásához szükséges megfelelő erőforrásokat, az adatokhoz és információkhoz való hozzáférést, és indokolt esetben külső tanácsadó igénybevételét.
 
@@ -3112,7 +3113,7 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 (7) A befektetési vállalkozás felszámolása esetén az 575/2013/EU rendeletben meghatározott alárendelt kölcsöntőkéből, valamint kiegészítő alárendelt kölcsöntőkéből eredő tartozást a Cstv. 57. §-a (1) bekezdésének h) pontjában meghatározott tartozás kielégítését követően kell kielégíteni.
 
-(8) Az (1)–(7) bekezdésben foglalt rendelkezések bűnügyi zárlat elrendelése esetén annak feloldása után alkalmazandók.
+(8) Az (1)–(7) bekezdésben foglalt rendelkezések büntetőeljárásban elrendelt zár alá vétel esetén annak feloldása után alkalmazandók.
 
 136/A. § Ha a 136. § (1) bekezdése szerinti pénzügyi eszköz, pénzeszköz vagy árutőzsdei szolgáltatás tárgyát képező eszköz kiadásával összefüggésben a felszámoló vitatja a tulajdonos által megjelölt igényt, a vitatott tulajdoni igényt a felszámolási eljárásban lehet érvényesíteni. A felszámoló a vitatott tulajdoni igényt elbírálás érdekében 15 munkanapon belül megküldi a felszámolást elrendelő bíróságnak. A bíróság a tulajdoni igény elbírálása során a vitatott hitelezői igény elbírálására vonatkozó szabályok szerint jár el.
 
@@ -4120,7 +4121,17 @@ kapcsolatos információkról.
 
 (2) A Felügyelet a közigazgatási szankciók és intézkedések típusának és mértékének a meghatározásakor az (1) bekezdésben foglaltak mellett további tényezőket is figyelembe vehet.
 
-165. §
+165. § (1) A Felügyelet – amennyiben a befektetési vállalkozás megsérti vagy pénzügyi helyzete rohamos romlása következtében nagy valószínűséggel meg fogja sérteni az e törvényben számára előírt engedélyezési, illetve működési feltételeket – a 164. § (1) bekezdés z) pontja szerinti intézkedés mellett a következő intézkedéseket is alkalmazhatja:
+
+- a) előírhatja a helyzet megvizsgálását, a feltárt problémák megoldására irányuló intézkedések azonosítását és a problémák megoldását célzó cselekvési program és végrehajtási időrend kidolgozását, az adósság átstrukturálásával kapcsolatos tárgyalásokra vonatkozó terv készítését;
+- b) kötelezheti az igazgatóságot a közgyűlés összehívására, továbbá meghatározott napirendi pontok megtárgyalására és meghatározott döntések meghozatalának szükségességére hívhatja fel e testületek figyelmét, illetve
+- c) visszavonhatja annak a vezető állású személynek a megválasztására vagy a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért jogerős vagy végleges határozatban megállapította, és kezdeményezheti a befektetési vállalkozásnál más vezető állású személy megválasztását vagy kinevezését azzal, hogy ezen intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság.
+
+(2) A helyreállítási terv 164. § (1) bekezdés z) pontja szerinti életbe léptetése, valamint az (1) bekezdés szerinti intézkedés alkalmazása esetén a Felügyelet
+
+- a) az intézkedésről haladéktalanul tájékoztatja a szanálási feladatkörében eljáró MNB-t,
+- b) az intézkedés végrehajtására megfelelő határidőt szab, továbbá
+- c) az adott intézkedés hatékonyságát ellenőrzi és értékeli.
 
 166. § A Felügyelet a befektetési vállalkozást, az árutőzsdei szolgáltatót, ezek vezető állású személyét és alkalmazottját
 
@@ -4499,6 +4510,8 @@ foglalt követelményeknek.
 
 (3) A Felügyelet az (1) bekezdés szerinti, általa megadott – C6. származtatott energiaügyletre vonatkozó – mentesítésről értesíti az Európai Értékpapír-piaci Hatóságot.
 
+182/E. § A jelölő bizottság tagjaira vonatkozó, a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdasági stabilitást érintő egyes jogszabályok módosításáról szóló 2019. évi CXVIII. törvénnyel megállapított rendelkezéseket a befektetési vállalkozásnak legkésőbb 2020. május 31-től kell alkalmazni.
+
 ### Jogharmonizációs záradék
 
 183. § (1) E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
@@ -4681,19 +4694,22 @@ A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát
 - 17. A teljesítményjavadalmazás csak akkor fizethető ki, és a vezető állású személy vagy a munkavállaló csak akkor jogosult a teljesítményjavadalmazásra, ha
   - a) a befektetési vállalkozás pénzügyi helyzete fenntartható, és
   - b) a befektetési vállalkozás, az érintett szervezeti egység és a vezető állású személy vagy munkavállaló teljesítménye azt indokolttá teszi.
-- 18. A teljesítményjavadalmazás legalább 50 százaléka jogszabály eltérő rendelkezése hiányában a következőkből áll:
+- 18. A teljesítményjavadalmazás legalább 50 százaléka jogszabály eltérő rendelkezése hiányában a következő elemekből, vagy azok egyensúlyban lévő kombinációjából áll:
   - a) az érintett befektetési vállalkozás részvényeiből vagy tulajdoni részesedéseiből az érintett befektetési vállalkozás jogi formájától függően és abból eredő sajátosságainak figyelembevételével, illetve a szabályozott piacra be nem vezetett befektetési vállalkozás esetében részvényhez kötött eszközökből vagy azokkal egyenértékű nem készpénz alapú eszközökből, és
   - b) olyan teljesítményjavadalmazás céljára felhasználható kiegészítő alapvető tőkéből, járulékos tőkéből vagy egyéb instrumentumokból, amelyek ba) elsődleges alapvető tőkeelemmé konvertálhatóak át, vagy bb) leírhatóak az említett tőkeelemekből, és amelyek folyamatosan tükrözik a befektetési vállalkozás kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik.
 - 19. Ha a befektetési vállalkozás pénzügyi teljesítménye a belső szabályzatban meghatározottak szerinti mértékben azért romlik, mert az adott vezető állású személy, munkavállaló túlzott kockázatot vállalt, a vezető állású személy, munkavállaló kifizetendő teljesítményjavadalmazását csökkenteni kell.
-- 20. A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább 60 százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően 3 évnél rövidebb időtartamú munkaviszony esetén a munkaviszony megszűnésekor, egyébként 3–5 éves időszak alatt kell kifizetni.
-- 21. A teljesítményjavadalmazás 100 százalékára csökkentési lehetőség vagy visszafizetési szabályok alkalmazhatóak. A befektetési vállalkozás a belső szabályzatában konkrét kritériumokat határoz meg a csökkentési vagy a visszafizetési szabályok alkalmazására, amelyben tekintettel van arra, hogy a vezető állású személy vagy a munkavállaló
+- 20. A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább 60 százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően legalább 3-5 éves időszak alatt elosztva kell kifizetni. A halasztási időszak hosszát az üzleti ciklusnak, az üzlet jellegének, kockázatainak és az érintett munkavállaló tevékenységeinek megfelelően kell megállapítani.
+- 20a. A teljesítményjavadalmazást csökkenteni kell, ha a befektetési vállalkozás pénzügyi teljesítménye jelentősen visszaesik vagy negatív, figyelembe véve az aktuális javadalmazást és a csökkentési vagy visszakövetelési szabályokat.
+- 21. A teljesítményjavadalmazás 100 százalékára csökkentési lehetőség vagy visszakövetelési szabályok alkalmazhatóak. A befektetési vállalkozás a belső szabályzatában konkrét kritériumokat határoz meg a csökkentési vagy a visszakövetelési szabályok alkalmazására, amelyben tekintettel van arra, hogy a vezető állású személy vagy a munkavállaló
   - a) olyan magatartás részese volt-e, amely jelentős veszteséget okozott a befektetési vállalkozásnak, vagy felelős volt-e a befektetési vállalkozás számára bekövetkezett jelentős veszteségért, és
   - b) megfelel-e az alkalmasságra és megfelelőségre vonatkozó sztenderdeknek.
 - 22. A teljesítményjavadalmazás kifizetése nem eredményezheti azt, hogy a befektetési vállalkozás nem tudja a szükséges mértékben megerősíteni a tőkéjét, és kifizetéskor a befektetési vállalkozás nem alkalmazhat olyan módszereket, amelyek nem állnak összhangban a javadalmazási politika elveinek teljesülésével.
 - 23. A teljesítményjavadalmazás kifizetése nem eredményezheti az e törvényben, továbbá a prudens működésre vonatkozó jogszabályokban, és az 575/2013/EU rendeletben meghatározott követelmények nem teljesítését.
 - 24. A munkaviszony megszűnéséhez kapcsolódó kifizetések az eltelt időszakban elért teljesítményt tükrözik, az el nem ért eredményhez kifizetés nem kapcsolódhat.
-- 25. Az előző munkaviszony alapján fennálló, szerződésből következő teljes javadalmazás átvállalásával vagy az előző teljes javadalmazásból következő kompenzáció révén adott újabb teljes javadalmazásnak összhangban kell lennie a befektetési vállalkozás hosszú távú érdekeivel, ideértve a visszatartási, a halasztási, a teljesítmény- és a visszafizetési megállapodásokat is.
-- 26. Ha a befektetési vállalkozás a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, annak összhangban kell állnia a befektetési vállalkozás üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel. Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár, a befektetési vállalkozásnak a munkaviszony megszűnése után ötéves visszatartási időszak figyelembevételével kell kifizetnie ezen juttatásokat a 18. pontban meghatározott eszközök formájában.
+- 25. Az előző munkaviszony alapján fennálló, szerződésből következő teljes javadalmazás átvállalásával vagy az előző teljes javadalmazásból következő kompenzáció révén adott újabb teljes javadalmazásnak összhangban kell lennie a befektetési vállalkozás hosszú távú érdekeivel, ideértve a visszatartási, a halasztási, a teljesítmény- és a visszakövetelési megállapodásokat is.
+- 26. Ha a befektetési vállalkozás a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, annak összhangban kell állnia a befektetési vállalkozás üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel. Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár és a vezető állású személy, munkavállaló
+  - a) a nyugdíjazása előtt távozik a befektetési vállalkozástól, akkor a befektetési vállalkozásnak a 18. pontban meghatározott eszközök formájában öt évig vissza kell tartania a nem kötelező nyugdíjjuttatásokat,
+  - b) eléri a nyugdíjazását, akkor a befektetési vállalkozásnak a munkaviszony megszűnése után ötéves visszatartási időszak figyelembevételével kell kifizetnie ezen juttatásokat a 18. pontban meghatározott eszközök formájában.
 - 27. A befektetési vállalkozás ellenőrzési feladatokat végző munkavállalói javadalmazása független az általuk felügyelt szervezeti egységek teljesítményétől, az a feladatkörükhöz kapcsolódó célkitűzések elérésén alapul.
 - 28. Az ellenőrzési feladatokat (ideértve a belső kontroll funkciót is) és a kockázatkezelési feladatokat végző munkavállalóknak a javadalmazását – a 29. pontban meghatározott eltéréssel – a felügyelő bizottság felügyeli, kivéve, ha a befektetési vállalkozás javadalmazási bizottságot állít fel.
 - 29. Ha a befektetési vállalkozás javadalmazási bizottságot állít fel, akkor a javadalmazási bizottság a felelős az érintett munkavállalók javadalmazásának felügyeletéért.

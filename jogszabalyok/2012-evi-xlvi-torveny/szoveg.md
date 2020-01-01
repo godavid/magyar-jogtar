@@ -41,9 +41,9 @@ végzése;
 - 14. térképi adatbázis: térinformatikai rendszerben kezelhető grafikus, numerikus és leíró adatok összessége;
 - 15. honvédelmi célú térképellátás: a Magyar Honvédségnek, a Katonai Nemzetbiztonsági Szolgálatnak, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézménynek, a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karának, a katonai légügyi hatósági feladatokat ellátó szervezetnek, továbbá különleges jogrendre való felkészülés érdekében a rendvédelmi és a védelmi igazgatási szerveknek, a honvédelmi felkészülés feladataiban részt vevő egyéb központi közigazgatási szerveknek és azok területi szerveinek az ország védelmi feladataihoz szükséges, a honvédelemért felelős miniszter felelősségi körébe tartozó állami alapadatok adatbázisaival, térképekkel, térképészeti információkkal, távérzékelési anyagokkal, geodéziai adatokkal történő ellátása.
 
-#### 1/A. Eljárásjogi rendelkezések
+#### 1/A.
 
-1/A. § A vizsgálat és záradékolási eljárás ügyintézési határideje huszonöt nap.
+#### 1/A. §
 
 ### II. Fejezet — ÁLLAMI ALAPFELADATOK ÉS ALAPADATOK
 
@@ -125,7 +125,7 @@ végzése;
 
 (8) Nem hatósági eljárásban történő felhasználásra a 3. § (1) bekezdés d) pontjában meghatározott adatbázisból kizárólag a földmérési és térinformatikai államigazgatási szerv szolgáltathat adatot az alábbiak szerint:
 
-- a) egy vagy több települést vagy fekvést érintő, poligonnal lehatárolt térképi kivágatot,
+- a) egy vagy több települést vagy fekvést érintő térképi kivágatot,
 - b) szelektív vagy csökkentett pontosságú digitális térképi adattartalmat az a) pont szerinti területekre,
 - c) térinformatikai adatokkal kiegészített komplex értéknövelt digitális térképi adattartalmat.
 
@@ -140,7 +140,7 @@ végzése;
 - a) a 3. § (1) bekezdésében foglalt adatbázisokból – ide nem értve az i) pontban foglalt adatbázist – történő hitelesített adatok szolgáltatásáért,
 - b) az ingatlan-nyilvántartási célú földmérési munkarészek hatósági vizsgálatára és záradékolására irányuló eljárásért,
 - c) az ingatlanrendező földmérő minősítési eljárásáért,
-- d) a földmérő igazolvány kiadásáért,
+- d) a földmérő igazolvány kiadása iránti eljárásért,
 - e) a levegőből végzett távérzékelés engedélyezéséért és a távérzékelt adatok minősítési célú vizsgálatáért,
 - f) a b) pont szerinti eljárás soron kívüli lefolytatásáért,
 - g) az alapponthálózati pontok pótlásának vagy áthelyezésének állami átvételéért,
@@ -153,6 +153,8 @@ végzése;
 - a) 1–5 ingatlan esetén ingatlanonként 10 000 Ft,
 - b) 6–15 ingatlan esetén 50 000 Ft, valamit a hatodik ingatlantól ingatlanonként további 5 000 Ft,
 - c) 16, vagy több ingatlan esetén 100 000 Ft, valamit a tizenhatodik ingatlantól ingatlanonként további 500 Ft összegű igazgatási szolgáltatási díjat kell fizetni.
+
+(4a) A vizsgálat és záradékolási eljárást soron kívül kell lefolytatni, ha arról törvény rendelkezik. Törvényi rendelkezés hiányában az ingatlanügyi hatóság az ügyfél kérelmére, indokolt esetben a beadvány soron kívüli elintézését írásban engedélyezheti.
 
 (5) Az (4) bekezdés szerinti eljárási díj a fővárosi és megyei kormányhivatalok bevételét képezi, a megfizetés és felhasználás módjára az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 32/A. § (10) bekezdés rendelkezéseit kell alkalmazni.
 
@@ -205,7 +207,7 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (21) A honvédelem térképészeti támogatásáért felelős szerv a honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott, valamint az (1) és (1a) bekezdés alapján átadott állami alapadatok adatbázisaiból a Magyar Honvédségnek a honvédelemért felelős miniszter által rendeletben kijelölt szervezetei és a Katonai Nemzetbiztonsági Szolgálat részére, a jogszabályban meghatározott feladataik végrehajtásához, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltat adatot.
 
-(22) Az élelmiszerlánc-felügyeleti szerv a 3. § (1) bekezdés d) pontjában foglalt adatbázisból alrészlet határig, az f) pontjában foglalt adatbázisok közül pedig a 1306/2013/EU rendelet szerinti támogatások eljárásainak kizárólagos, országos azonosító rendszeréhez készült ortofó adatbázisokból évente egy alkalommal térítésmentesen jogosult az élelmiszerlánc-felügyeleti rendszer működéséhez szükséges adatok igénylésére.
+(22) Az élelmiszerlánc-felügyeleti szerv a 3. § (1) bekezdés d) pontjában foglalt adatbázisból alrészlet határig, az f) pontjában foglalt adatbázisok közül pedig a 1306/2013/EU rendelet szerinti támogatások eljárásainak kizárólagos, országos azonosító rendszeréhez készült ortofotó adatbázisokból évente egy alkalommal térítésmentesen jogosult az élelmiszerlánc-felügyeleti rendszer működéséhez szükséges adatok igénylésére.
 
 (23) A vízügyi igazgatási szerv jogszabályban meghatározott közfeladatai ellátása érdekében díj-, költség- és térítésmentesen hozzáférhet
 
@@ -222,10 +224,26 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (26) A mezőgazdasági és vidékfejlesztési támogatási szerv az Integrált Igazgatási és Ellenőrzési Rendszerben történő felhasználás céljából minden év januárjában – díjmentesen, de az adatszolgáltatáshoz kapcsolódó munkadíj megfizetése mellett – hozzáférhet az állami ingatlan-nyilvántartási térképi adatbázisból előállított, a Mezőgazdasági Parcella Azonosító Rendszer részét képező kataszteri fedvény adataihoz.
 
-(27) A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
+(27) A területrendezésért, a településfejlesztésért és településrendezésért, valamint a kulturális örökség védelméért felelős miniszter a területrendezési, a településfejlesztési és településrendezési, valamint a kulturális örökségvédelmi és világörökségi feladataival összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett állami ingatlan-nyilvántartási térképi adatbázis adataihoz.
 
-- a) az épített környezet alakításáról és védelméről szóló törvény szerinti Országos Építésügyi Nyilvántartás és a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer működtetéséhez szükséges állami ingatlan-nyilvántartási térképi adatbázis adataihoz, valamint a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz, és
-- b) a területfejlesztési és területrendezési feladatainak ellátása érdekében szükséges állami ingatlan-nyilvántartási térképi adatbázis adataihoz, a Mezőgazdasági Parcella Azonosító Rendszernek a területfejlesztési és területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, valamint a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
+(28) A megyei önkormányzat a megyei területrendezési terv készítése érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz térítésmentesen hozzáférhet.
+
+(29) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési eszköz, a településfejlesztési koncepció, az integrált településfejlesztési stratégia készítése és a településképi követelmények meghatározása érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz térítésmentesen hozzáférhet.
+
+(30) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési eszköz, a településfejlesztési koncepció, az integrált településfejlesztési stratégia készítése és a településképi követelmények meghatározása érdekében az 1:10000 digitális szintvonalrajzhoz és domborzatmodellhez térítésmentesen hozzáférhet.
+
+(31) Az épített környezet alakításáról és védelméről szóló törvény szerinti Országos Építésügyi Nyilvántartás működtetéséhez, a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer működtetéséhez, valamint a területfejlesztési és területrendezési egyéb feladatok ellátásához, továbbá a kulturális örökség védelméről szóló törvény szerinti központi, közhiteles nyilvántartás működtetéséhez szükséges állami ingatlan-nyilvántartási térképi adatbázis adataihoz ezek üzemeltetője térítésmentesen hozzáférhet.
+
+(32) Az agrárpolitikáért felelős miniszter, az öntözési igazgatási szerv az öntözésfejlesztési feladatai ellátása céljából, valamint az agrárpolitikáért felelős miniszter irányítása alatt álló, agrárkutatásokkal foglalkozó intézet az öntözésfejlesztési, agrár-gazdaságelemzési és statisztikai feladatai ellátása céljából
+
+- a) folyamatosan a 3. § (1) bekezdés d) pontjában foglalt adatbázishoz,
+- b) évente egyszer a 3. § (1) bekezdés e) és f) pontjában foglalt adatbázisokhoz,
+- c) évente egyszer az ország legújabb évjárat szerinti domborzatmodelljéhez (DDM-5), valamint
+- d) az állami ingatlan-nyilvántartási térképi adatbázisból előállított, a Mezőgazdasági Parcella Azonosító Rendszer részét képező kataszteri fedvény adataihoz,
+
+díj-, költség- és térítésmentesen hozzáférhet.
+
+(33) Az öntözési igazgatási szerv az öntözési célú beruházásokhoz szükséges térképmásolatokhoz díj-, költség- és térítésmentesen hozzáférhet.
 
 #### 6. Az ország térképellátása
 
@@ -296,6 +314,8 @@ térképi megalapozásához.
 amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (4) A (3) bekezdés f)–i) pontjában meghatározott hálózatok a (3) bekezdés a)–b) pontjában meghatározott alapponthálózatokra épülnek.
+
+(4a) A felsőrendű vízszintes alapponthálózat kiemelt pontjain létesített vasbeton mérőtornyok geodéziai építményeknek minősülnek.
 
 (5) Alapponthálózati pontnak minősülnek az Országos Gravimetriai Hálózat pontjai, de azok létesítése e törvény szerint nem minősül állami alapmunkának, és pontjainak karbantartása, helyszínelése, valamint pótlásuk a bányászati ügyekért felelős miniszter feladata.
 
@@ -408,7 +428,7 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 17. § (1) Felmérési, térképezési vagy területszámítási hiba megállapítása esetén az ingatlanügyi hatóság az állami ingatlan-nyilvántartási térképi adatbázist, illetve a hozzá tartozó területi adatokat hivatalból bármikor kijavíthatja.
 
-(2) Az (1) bekezdés szerinti hiba kijavítása nem érinti és nem változtatja meg a fennálló természetbeni határvonalat és a birtoklási viszonyokat, kizárólag a térképi határvonalakat érintheti. Amennyiben a kijavítás ellentétes a fennálló birtoklási viszonyokkal, úgy a kijavítás a természetbeni határvonalat nem változtathatja meg, arra csak a kiigazítással érintett szomszédos földrészlet tulajdonosának hozzájárulása esetén, véglegessé vált közigazgatási határozat vagy jogerős bírósági ítélet alapján van lehetőség.
+(2) Az (1) bekezdés szerinti hiba kijavítása kizárólag a térképi határvonalakat érinti, és nem változtatja meg a fennálló természetbeni határvonalat és a birtoklási viszonyokat.
 
 (3) Az (1) bekezdés szerinti hiba kijavítására irányuló eljárásban nincs szükség az eljárásba bevont ingatlanok jogosultjainak hozzájáruló nyilatkozatára.
 
@@ -573,7 +593,7 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (4) A földmérőnek a földmérési jogosultságát igazolnia kell.
 
-(5) A földmérő a földmérési jogosultságát földmérő igazolvánnyal, és az adott munka végzésére szóló megbízással, illetve megrendeléssel igazolja. Honvédelmi célú földmérési és térképészeti helyszíni munkák végzésére, ellenőrzésére e törvény végrehajtására kiadott rendeletben meghatározott követelményeknek megfelelően kiállított „Parancs” jogosít fel.
+(5) A földmérő a földmérési jogosultságát földmérő igazolvánnyal, és az adott munka végzésére szóló megbízással vagy vállalkozási szerződéssel igazolja. Honvédelmi célú földmérési és térképészeti helyszíni munkák végzésére, ellenőrzésére e törvény végrehajtására kiadott rendeletben meghatározott követelményeknek megfelelően kiállított „Parancs” jogosít fel.
 
 (6) A különleges rendeltetésű ingatlanon a földmérési és térképészeti tevékenység végzéséhez, valamint újonnan létesítendő, állandó jellegű földmérési jel elhelyezéséhez az arra hatáskörrel rendelkező miniszter vagy az általa felhatalmazott szerv vagy szervezet előzetes engedélye is szükséges.
 
@@ -601,7 +621,7 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (3) Az (1) bekezdés szerinti nyilvántartás bárki számára ingyenesen hozzáférhető országos nyilvántartás, amely tartalmazza a tevékenység végzésére jogosult személy:
 
-- a) természetes személyazonosító adatait,
+- a) nevét,
 - b) nyilvántartásba vételének számát,
 - c) szakképzettségét,
 - d) vállalkozásának megnevezését,
@@ -645,9 +665,9 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (4) A földmérési jel megóvása az ingatlan mindenkori tulajdonosának, a tulajdonosi jogok gyakorlójának (vagyonkezelőjének), jogszerű használójának a kötelezettsége.
 
-(5) Az ingatlanügyi hatóság az elmozdított, megrongált vagy megsemmisült földmérési jel helyreállítását az ingatlan mindenkori jogszerű használójának, ennek hiányában tulajdonosának költségére rendeli el. Az ingatlanügyi hatóság döntésével szemben a fellebbezés kizárt.
+(5) Az ingatlanügyi hatóság az elmozdított, megrongált vagy megsemmisült földmérési jel helyreállítását az igazolt károkozónak, ennek hiányában az ingatlan mindenkori jogszerű használójának, ennek hiányában tulajdonosának költségére rendeli el. Az ingatlanügyi hatóság döntésével szemben a fellebbezés kizárt.
 
-(6) Amennyiben a földmérési jel elmozdítása, megrongálódása, megsemmisülése az ingatlan tulajdonosának (jogszerű használójának) működési körén kívül eső elháríthatatlan okból (vis maior) következik be, a költségek forrását a központi költségvetésből kell biztosítani.
+(6) A földmérési jel elmozdítása, megrongálódása, megsemmisülése esetén az ingatlan tulajdonosa (jogszerű használója) mentesül a költségek megfizetése alól, ha bizonyítja, hogy magatartása nem volt felróható és úgy járt el, ahogy az adott helyzetben általában elvárható. A deliktuális felelősség alóli mentesülés esetében a költségek forrását a központi költségvetésből kell biztosítani.
 
 ### VI. Fejezet — A FÖLDMÉRÉSI ÉS TÉRKÉPÉSZETI TEVÉKENYSÉG VÉGZÉSE
 
@@ -690,8 +710,8 @@ végzi.
 
 (7a) Az ingatlanrendező földmérő minősítés a megadást követő öt évig érvényes. Az érvényesség meghosszabbításának feltétele:
 
-- a) a földmérési és térinformatikai államigazgatási szerv, illetve a Magyar Mérnöki Kamara (a továbbiakban: kamara) által akkreditált szakirányú továbbképzéseken vagy konferenciákon húsz továbbképzési pont megszerzése, és
-- b) a felsőfokú szakirányú végzettség igazolása.
+- a) a földmérési és térinformatikai államigazgatási szerv, illetve a Magyar Mérnöki Kamara (a továbbiakban: kamara) által akkreditált szakirányú továbbképzéseken, konferenciákon vagy a megyei kormányhivatalok földhivatali osztályai által szervezett szaktanfolyamon húsz továbbképzési pont megszerzése, és
+- b) a felsőfokú szakirányú végzettség igazolása, vagy annak igazolása, hogy a kérelmező 2013. január 1. előtt rendelkezett ingatlanrendező földmérő minősítéssel.
 
 (7b) A földmérési és térinformatikai államigazgatási szerv által szervezett szakmai továbbképzésekért adható továbbképzési pontokat a földmérési és térinformatikai államigazgatási szerv állapítja meg.
 
@@ -924,7 +944,7 @@ rendeletben állapítsa meg.
 
 #### 30. Az Európai Unió jogának való megfelelés
 
-39. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006. december 16-i 2006/123/EK Irányelvnek való megfelelést szolgálja.
+39. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 31. Hatálybalépés
 
