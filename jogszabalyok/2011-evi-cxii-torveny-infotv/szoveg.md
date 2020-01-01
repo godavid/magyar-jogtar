@@ -735,7 +735,7 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 
 (3) A (2) bekezdésben nem szereplő közfeladatot ellátó szervek a 37. § szerinti elektronikus közzétételi kötelezettségüknek választásuk szerint saját vagy társulásaik által közösen működtetett, illetve a felügyeletüket, szakmai irányításukat vagy működésükkel kapcsolatos koordinációt ellátó szervek által fenntartott, valamint az erre a célra létrehozott központi honlapon való közzététellel is eleget tehetnek.
 
-(4) Ha a közoktatási intézmény nem lát el országos vagy térségi feladatot, e törvény szerinti elektronikus közzétételi kötelezettségének az ágazati jogszabályokban meghatározott információs rendszerhez történő adatszolgáltatás teljesítésével eleget tesz.
+(4) A köznevelési intézmény és a szakképző intézmény az e törvény szerinti elektronikus közzétételi kötelezettségének az ágazati jogszabályokban meghatározott információs rendszerhez történő adatszolgáltatás teljesítésével eleget tesz.
 
 34. § (1) Az adatokat nem a saját honlapon közzétevő adatfelelős – a 35. § alkalmazásával – a közzéteendő adatokat az adatközlőnek továbbítja, amely gondoskodik az adatok honlapon való közzétételéről, és arról, hogy egyértelmű legyen az, hogy az egyes közzétett közérdekű adatok melyik szervtől származnak, illetve melyikre vonatkoznak.
 
@@ -857,7 +857,9 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 
 (6) A Hatóság elnöke által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
 
-43. § (1) A Hatóság elnöke miniszteri illetményre és juttatásokra jogosult, azzal, hogy a vezetői illetménypótlék mértéke a miniszteri vezetői illetménypótlék másfélszerese.
+43. § (1) A Hatóság elnöke az Országgyűlésről szóló 2012. évi XXXVI. törvény szerinti képviselői tiszteletdíj 2,5-szeresének megfelelő illetményre jogosult.
+
+(1a) A Hatóság elnöke az (1) bekezdésben meghatározott illetményen túl miniszteri juttatásra jogosult.
 
 (2) A Hatóság elnökét naptári évenként negyven munkanap szabadság illeti meg.
 
@@ -916,7 +918,9 @@ dönt.
 
 47. § Az elnökhelyettes vagyonnyilatkozat-tételi kötelezettségére és a vagyonnyilatkozatával kapcsolatos eljárásra a 42. § rendelkezései megfelelően irányadóak, azzal, hogy a vagyonnyilatkozatával kapcsolatos eljárás során a miniszterelnök helyett a Hatóság elnöke jár el, és az ellenőrzés eredményéről nem kell tájékoztatni a köztársasági elnököt.
 
-48. § (1) Az elnökhelyettes államtitkári illetményre és juttatásokra jogosult.
+48. § (1) Az elnökhelyettes a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult.
+
+(1a) Az elnökhelyettes az (1) bekezdésben meghatározott illetményen túl helyettes államtitkári juttatásra jogosult.
 
 (2) Az elnökhelyettest naptári évenként negyven munkanap szabadság illeti meg.
 

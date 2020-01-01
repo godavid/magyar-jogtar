@@ -5501,7 +5501,7 @@ nincs helye.
 - c) – törvényben foglalt kivételekkel – a szolgálati,
 - d) a közfoglalkoztatási,
 - e) a sporttörvény alapján kötött munkaszerződéses,
-- f) a szakképzés során kötött tanulószerződésből eredő,
+- f) a szakképzés során kötött szakképzési munkaszerződésből eredő,
 - g) a nemzeti felsőoktatási törvény szerinti hallgatói munkaszerződésből eredő,
 - h) a szociális szövetkezettel és foglalkoztatási szövetkezettel létesített tagi munkavégzési
 
@@ -5749,9 +5749,9 @@ A perben eljáró bíróság a végrehajtást kérelemre – kizárólag az igé
 
 (1) A pert a végrehajtást kérő ellen kell megindítani. Ha a vagyontárgyat több végrehajtást kérő követelésének végrehajtása végett foglalták le, a pert valamennyi végrehajtást kérő ellen meg kell indítani.
 
-(2) A bíróságnak vagy a bíróság gazdasági hivatalának a bírósági végrehajtásról szóló törvény szerinti értesítésébe foglalt bűnügyi követelés végrehajtása esetén – ideértve az ilyen követelés biztosítására elrendelt bűnügyi zárlatot is – az igénypert az állam nevében a követelés jogosultjaként eljárni jogosult ellen kell megindítani.
+(2) A büntetőeljárásban meghozott határozattal megállapított, az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben meghatározott bűnügyi követelés – ideértve az ilyen követelések biztosítására a büntetőeljárásban elrendelt zár alá vételt is – végrehajtása esetén az igénypert az állam nevében a követelés jogosultjaként eljárni jogosult ellen kell megindítani.
 
-(3) Ha a bűnügyi zárlatot polgári jogi igény biztosítására rendelték el, az igénypert a sértett, illetve magánfél ellen kell megindítani.
+(3) Ha a büntetőeljárásban a zár alá vételt polgári jogi igény biztosítására rendelték el, az igénypert a sértett, illetve magánfél ellen kell megindítani.
 
 (4) A perben fél lehet az a végrehajtást kérő is, amelynek egyébként nincs perbeli jogképessége.
 
@@ -6492,6 +6492,16 @@ Ez a törvény 2018. január 1. napján lép hatályba.
 (7) A 2017. december 31-én folyamatban lévő ügyekben a polgári perrendtartásról szóló 1952. évi III. törvény 394/H. § (6) bekezdésében foglalt rendelkezés azzal az eltéréssel alkalmazandó, hogy az elektronikus úton kapcsolatot tartó a bírósági irat kézbesítéséről, annak az elektronikus kézbesítési tárhelyen történő elhelyezéséről a kézbesítési rendszer útján, az általa megadott elektronikus levélcímre – az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott idő elteltével – értesítést kap.
 
 (8) A 2017. december 31-én folyamatban lévő ügyekben a bíróság a polgári perrendtartásról szóló 1952. évi III. törvény 185. § (1) bekezdése szerinti elővezetés költségének megfizetésére az elővezetést elrendelő végzésben megjelölt személyt végzésben kötelezi, a polgári perrendtartásról szóló 1952. évi III. törvény 309. § (3) bekezdése szerinti elővezetés költségét az állam viseli.
+
+(9) A Kúrián folyamatban lévő per kivételével munkaügyi perben 2020. március 15. napját követő időpontra – az ügyek átadására tekintettel az átadó bíróságon – tárgyalási határnap nem tűzhető. A munkaügyi perben meghozott ügydöntő határozatokat 2020. március 31. napjáig írásba kell foglalni, és intézkedni kell azok közlése iránt.
+
+(10) A közigazgatási és munkaügyi bíróságok bírái a még el nem bírált elsőfokú ügyek, a törvényszékek bírái a még el nem bírált másodfokú ügyek iratanyagát 2020. március 15-ig felterjesztik a törvényszék elnökének.
+
+(11) A törvényszék elnöke 2020. április 1-jét követően haladéktalanul, de legkésőbb 2020. április 15-ig gondoskodik a (10) bekezdés szerinti elsőfokú ügyek kiosztásáról, valamint a (10) bekezdés szerinti másodfokú ügyeket megküldi az illetékes ítélőtáblának.
+
+(12) A (10) bekezdés szerinti ügyben az a bíró jár el, aki az ügy elbírálását 2020. április 1-jét megelőzően megkezdte, feltéve, hogy a hatáskörrel rendelkező, illetékes bírósághoz osztották be.
+
+(13) Az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított 346. § (5) bekezdését, 405. § (3) bekezdését, 406. § (1) bekezdését, 409. §-át, 410. § (2) bekezdés c) pont cd) alpontját, 413. § (1) bekezdés c)–e) pontját, 423. § (1) bekezdését, 424. § (1)–(3) bekezdését, valamint 424. § (7) bekezdését a 2020. július 1-jén és az azt követően meghozott jogerős ítélet vagy az ügy érdemében hozott jogerős végzés ellen indult felülvizsgálati eljárásokban kell alkalmazni.
 
 #### 631. § [Európai uniós követelményekre utaló rendelkezés]
 

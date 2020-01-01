@@ -733,12 +733,19 @@ jelöli ki.
 
 #### 50. A tanú adatainak zártan kezelése
 
-63. § (1) A szabálysértési hatóság, illetve a bíróság a tanú kérelmére vagy hivatalból elrendelheti, hogy a tanú személyes adatait az ügy irataitól elkülönítve, zártan kezeljék. Ebben az esetben az ügy egyéb irataiban a tanú zártan kezelt adatait csak a szabálysértési hatóságnak az ügyben eljáró tagja, az ügyész, illetve a bíró tekintheti meg.
+63. § (1) A szabálysértési hatóság, illetve a bíróság a tanú kérelmére elrendeli vagy hivatalból elrendelheti, hogy a tanú nevét, születési nevét, születési helyét és idejét, anyja nevét, állampolgárságát, személyazonosító okmányának számát, lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, illetve elektronikus elérhetőségét zártan kezeljék.
 
-(2) Ha a tanú személyes adatainak zártan kezelését rendelték el, ettől kezdve
+(2) A tanú (1) bekezdés szerinti adatait zártan kell kezelni, ha ugyanazon tényállás alapján párhuzamosan zajló, illetve jogerősen vagy véglegesen lezárt más eljárásban a tanú adatainak zárt kezelését rendelték el.
 
-- a) a szabálysértési hatóság, illetve a bíróság biztosítja, hogy a tanú zártan kezelt adatai ne váljanak megismerhetővé,
-- b) a személyes adatok zártan kezelésének megszüntetésére csak a tanú beleegyezésével kerülhet sor.
+(3) A szabálysértési hatóság, illetve a bíróság
+
+- a) az adatok zárt kezeléséről szóló végzést kizárólag azzal közli, akinek adatai zárt kezelését elrendelte,
+- b) a természetes személyazonosító adatokat és a lakcímet az ügy iratai között elkülönítve, zártan kezeli és
+- c) biztosítja, hogy a zártan kezelt adatok az eljárási cselekmények során ne váljanak megismerhetővé.
+
+(4) A tanú zártan kezelt adatait csak a szabálysértési hatóságnak az ügyben eljáró tagja, az ügyész, illetve a bíró ismerheti meg.
+
+(5) A személyes adatok zártan kezelésének megszüntetésére csak a tanú beleegyezésével kerülhet sor.
 
 #### 51. A szakértő és a szakvélemény
 
@@ -1329,7 +1336,7 @@ indul meg.
 - a) a szabálysértési hatóság, a helyszíni bírság kiszabására jogosult, illetve a bíróság megnevezését,
 - b) az eljárás alapjául szolgáló szabálysértés megjelölését,
 - c) az eljárási cselekmény helyét, valamint kezdő és záró időpontját,
-- d) a szabálysértési hatóság tagja, a helyszíni bírság kiszabására jogosult személy, a bíró, az eljárásban részt vevő személy és képviselője, továbbá a tanú, a szakértő nevét.
+- d) a szabálysértési hatóság tagja, a helyszíni bírság kiszabására jogosult személy, a bíró, az eljárásban részt vevő személy és képviselője, a szakértő, továbbá – ha a tanú adatainak zártan kezelését a szabálysértési hatóság, illetve a bíróság nem rendelte el – a tanú nevét.
 
 (3) A jegyzőkönyvben a szükséges részletességgel és oly módon kell leírni az eljárási cselekményt, hogy a jegyzőkönyv alapján az eljárási szabályok megtartását is nyomon lehessen követni. A szabálysértési hatóság tagja, illetve a bíró, valamint a jegyzőkönyvvezető a jegyzőkönyvet aláírja.
 
@@ -1827,7 +1834,7 @@ téríti meg.
 
 (4) Telekommunikációs eszköz használata esetén a bírósági tárgyalás kitűzött, illetve az előkészítő eljárást lefolytató rendőri szerv által megjelölt helyszín (a továbbiakban: elkülönített helyszín) között az összeköttetés közvetlenségét és kölcsönösségét kép- és hangfelvétel továbbítása biztosítja.
 
-(5) Ha a bíróság a 63. § (1) bekezdésében meghatározottak alapján elrendelte a tanú adatainak zártan kezelését, a telekommunikációs eszköz használata útján történő meghallgatáson az elkövető csak akkor lehet jelen, ha ehhez a tanú hozzájárul. Az így kizárt elkövető a telekommunikációs eszköz használata útján történő meghallgatást követően, a meghallgatás során távollétében történteket megismerheti.
+(5) Ha a bíróság elrendelte a tanú adatainak zártan kezelését, a telekommunikációs eszköz használata útján történő meghallgatáson az elkövető csak akkor lehet jelen, ha ehhez a tanú hozzájárul. Az így kizárt elkövető a telekommunikációs eszköz használata útján történő meghallgatást követően, a meghallgatás során távollétében történteket megismerheti.
 
 (6) Telekommunikációs eszköz használata esetén az elkülönített helyszínen kizárólag a következő személyek lehetnek jelen:
 
@@ -3703,7 +3710,7 @@ szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
 
-### XXXI. Fejezet — AZ ÓVODAI NEVELÉS, VALAMINT AZ ALAPFOKÚ ÉS KÖZÉPFOKÚ NEVELÉS-OKTATÁS RENDJÉT VESZÉLYEZTETŐ SZABÁLYSÉRTÉSEK
+### XXXI. Fejezet — A KÖZNEVELÉS, A SZAKKÉPZÉS ÉS A FELSŐOKTATÁS RENDJÉT VESZÉLYEZTETŐ SZABÁLYSÉRTÉSEK
 
 #### 201. Az óvodai nevelésben való részvételi kötelezettség és a tankötelezettség megszegése
 
@@ -3711,24 +3718,24 @@ szabálysértést követ el.
 
 - a) aki a szülői felügyelete vagy gyámsága alatt álló gyermeket kellő időben az óvodába, illetve az iskolába nem íratja be,
 - b) aki nem biztosítja, hogy súlyos és halmozottan fogyatékos gyermeke a fejlődését biztosító nevelésben, nevelés-oktatásban vegyen részt,
-- c) akinek a szülői felügyelete vagy gyámsága – kivéve a gyermekvédelmi gyámsága – alatt álló gyermeke ugyanabban az óvodai nevelési évben az iskolai életmódra felkészítő foglalkozásokról, illetőleg ugyanabban a tanévben az iskolai kötelező tanórai foglalkozásokról igazolatlanul a jogszabályban meghatározott mértéket vagy annál többet mulaszt,
+- c) akinek a szülői felügyelete vagy gyámsága – kivéve a gyermekvédelmi gyámsága – alatt álló gyermeke ugyanabban az óvodai nevelési évben az iskolai életmódra felkészítő foglalkozásokról vagy ugyanabban a tanévben az iskolai kötelező tanítási óráról, illetve foglalkozásokról igazolatlanul a jogszabályban meghatározott mértéket vagy annál többet mulaszt,
 
 szabálysértést követ el.
 
 (2) Az (1) bekezdés c) pontjában meghatározott szabálysértés miatt szabálysértési felelősségre vonásnak egy nevelési évben, egy tanítási évben egyszer van helye.
 
-#### 202. Nevelési-oktatási tevékenység folytatására vonatkozó szabályok megszegése
+#### 202. Nevelési-oktatási, szakképzési vagy felsőoktatási tevékenység folytatására vonatkozó szabályok megszegése
 
 248. § (1) Aki
 
-- a) az iskolai végzettséget igazoló, illetőleg az államilag elismert szakképesítést tanúsító bizonyítványok kiállítására, nyilvántartására, tárolására vonatkozó előírásokat megszegi,
-- b) az előírt engedély hiányában iskolai oktatást, kollégiumi nevelést folytat,
+- a) az iskolai végzettséget igazoló, illetve az államilag elismert szakképesítést vagy szakképzettséget igazoló bizonyítványok vagy oklevelek kiállítására, nyilvántartására, tárolására vonatkozó előírásokat megszegi,
+- b) jogszabályban előírt engedély hiányában oktatást, képzést vagy kollégiumi nevelést folytat,
 
 szabálysértést követ el.
 
 (2) Aki
 
-- a) a gyermeket, a tanulót, a szülőt vagy a nevelési-oktatási intézményben létrehozott szervezeteiket a nevelési-közoktatási intézményekre vonatkozó jogszabályban meghatározott jogainak gyakorlásában szándékosan akadályozza,
+- a) a gyermeket, a tanulót, a képzésben részt vevő személyt, a hallgatót, a szülőt vagy jogszabály alapján a nevelési-oktatási, a szakképzési vagy a felsőoktatási tevékenységgel összefüggésben létrehozott szervezeteiket jogainak gyakorlásában szándékosan akadályozza,
 - b) anélkül, hogy a pedagógiai szakszolgálatra, pedagógiai-szakmai szolgáltatásra, Országos szakértői névjegyzékre vonatkozó rendelkezésekben meghatározottak szerint erre jogosult lenne, szakértői véleményt készít,
 - c) a pedagógiai szakszolgálatra vonatkozó rendelkezéseknek megfelelően készített szakvéleményben foglaltakat szándékosan figyelmen kívül hagyja,
 
@@ -3736,24 +3743,26 @@ szabálysértést követ el.
 
 (3) Aki
 
-- a) az iskolai nevelést-oktatást a tanév rendjétől eltérően szervezi meg,
-- b) a tanítási hetek szervezésére, a tanítás nélküli pihenőnapok kiadására, az egy tanítási napon szervezhető tanítási órákra vonatkozó rendelkezéseket megszegi,
-- c) a gyermek-, tanulóbalesetek megelőzésére vonatkozó előírásokat szándékosan megszegi, szabálysértést követ el.
+- a) a köznevelési intézmény, illetve a szakképző intézmény tevékenységét a tanév rendjétől eltérően szervezi meg,
+- b) a tanítási hetek szervezésére, a tanítás nélküli pihenőnapok kiadására, az egy tanítási napon szervezhető tanítási órákra, foglalkozásokra vonatkozó rendelkezéseket megszegi,
+- c) a tanuló- és gyermekbaleset megelőzésére vonatkozó előírásokat szándékosan megszegi,
+
+szabálysértést követ el.
 
 (4) Aki
 
-- a) a nemzetgazdasági szintű tervezéshez szükséges fenntartói, intézményi, foglalkoztatási, gyermek- és tanulói adatokat tartalmazó információs rendszerében történő bejelentkezési kötelezettségét nem teljesíti, a változásjelentést, az adatszolgáltatást nem teljesíti,
-- b) az állami vizsgák megszervezésekor a vizsgaszabályzatban meghatározottaktól szándékosan eltér,
+- a) a köznevelés információs rendszerében, illetve a szakképzés információs rendszerében a bejelentkezési kötelezettségét nem teljesíti, a változásjelentést, az adatszolgáltatást nem teljesíti,
+- b) az állami vizsgát a jogszabályban foglaltaktól szándékosan eltérően szervezi meg,
 - c) az osztály, csoport szervezésére, létszámának meghatározására vonatkozó előírásokat megszegi,
 - d) a jogszabályban meghatározott kötelező tanügyi okmányokat nem vezeti,
 
 szabálysértést követ el.
 
-(5) Aki a gyermeket, tanulót a nevelési-oktatási intézményrendszerre vonatkozó rendelkezések szándékos megszegésével hátrányosan megkülönbözteti, szabálysértést követ el.
+(5) Aki a gyermeket, tanulót, a képzésben részt vevő személyt, illetve a hallgatót szándékosan hátrányosan megkülönbözteti, szabálysértést követ el.
 
-#### 203. Szakképzésben részt vevő tanulók gyakorlati oktatására vonatkozó szabályok megszegése
+#### 203. Szakképzésben részt vevő tanulók, illetve a képzésben részt vevő személyek szakirányú oktatására vonatkozó szabályok megszegése
 
-249. § Aki a tanuló gyakorlati képzésére vonatkozó jogszabályban meghatározott kötelezettségét megsérti, illetőleg a tanuló számára előírt juttatásokat nem biztosítja, szabálysértést követ el.
+249. § Aki a tanuló, illetve a képzésben részt vevő személy szakirányú képzésére vonatkozó jogszabályban meghatározott kötelezettségét megsérti, vagy a tanuló, illetve a képzésben részt vevő személy számára előírt juttatásokat nem biztosítja, szabálysértést követ el.
 
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

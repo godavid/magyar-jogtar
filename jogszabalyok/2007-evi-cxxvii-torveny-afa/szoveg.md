@@ -195,9 +195,39 @@ termék felhasználása gazdasági tevékenységének folytatásához, feltéve,
 - f) a Közösség azon tagállamában, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor van, az (1) bekezdésben említett adóalany – mint a szolgáltatás igénybevevője – termékén szakértői értékelést vagy munkát végeznek, majd annak befejezését követően a terméket – az (1) bekezdésben említett adóalany nevére szóló rendeltetéssel – belföldre továbbítják;
 - g) a Közösség azon tagállamában, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor van, az (1) bekezdésben említett adóalany a terméket szolgáltatás nyújtása érdekében ideiglenesen használja;
 - h) az (1) bekezdésben említett adóalany termékét 24 hónapot meg nem haladó ideiglenes használat céljából a Közösség más tagállamába továbbítja, ahol ha ugyanezt a terméket importálták volna, az importált termék ideiglenes behozatal jogcímén teljes adó- és vámmentességben részesülne;
-- i) az (1) bekezdésben említett adóalany a terméket a Közösség más tagállamában fenntartott vevői készlete céljára továbbítja.
+- i)
 
 (3) Ha a (2) bekezdésben felsorolt esetekben az ott meghatározott feltételek bármelyike nem teljesül, a feltétel nem teljesülésekor az (1) bekezdéshez fűződő joghatás haladéktalanul beáll.
+
+12/A. § (1) A 12. § (1) bekezdéséhez fűződő joghatás nem áll be, ha a 12. § (1) bekezdésében említett adóalany a terméket a Közösség más tagállamában fenntartott vevői készlete céljára továbbítja.
+
+(2) A termék Közösség más tagállamában fenntartott vevői készlet céljára történő továbbítása valósul meg a következő feltételek együttes teljesülése esetén:
+
+- a) a terméknek a Közösség más tagállamába történő továbbítása abból a célból történik, hogy azt megérkezése után egy későbbi időpontban egy olyan másik adóalany részére értékesítsék, aki (amely) a 12. § (1) bekezdésében említett adóalannyal fennálló megállapodás alapján jogosult megszerezni e termék tulajdonjogát,
+- b) a 12. § (1) bekezdésében említett adóalany nem rendelkezik gazdasági célú letelepedéssel abban a tagállamban, amelybe a terméket feladják vagy elfuvarozzák,
+- c) az az adóalany, akinek (amelynek) a részére a terméket értékesíteni szándékozzák, adószámmal rendelkezik abban a tagállamban, amelybe a terméket feladják vagy elfuvarozzák, és a b) pontban említett adóalany a feladás vagy az elfuvarozás megkezdésének időpontjában ismeri ezen adóalanyt és az említett tagállam által ezen adóalany részére megállapított adószámot,
+- d) a 12. § (1) bekezdésében említett adóalany rögzíti a termék továbbítását a 182. § szerinti nyilvántartásában, valamint a 4/A. számú melléklet I. pontja szerinti összesítő nyilatkozatában feltünteti a c) pont szerinti adóalanyt és a számára azon tagállam által megállapított adószámot, amelybe a terméket feladták vagy elfuvarozták.
+
+(3) Ha a (2) bekezdésben foglalt feltételek teljesülnek, a termék feletti tulajdonosként való rendelkezési jognak a (2) bekezdés c) pontjában említett adóalany részére történő átengedését annak időpontjában úgy kell tekinteni, hogy a 12. § (1) bekezdésében említett adóalany a 89. § (1) bekezdése szerinti termékértékesítést teljesít, feltéve, hogy e jogot a (4) bekezdésben említett határidőn belül engedte át.
+
+(4) Ha a terméknek a Közösség azon más tagállamába történő megérkezését követő 12 hónapon belül, amelybe a terméket feladták vagy elfuvarozták, a terméket nem értékesítették a (2) bekezdés c) pontjában vagy a (6) bekezdésben említett azon adóalanynak, akinek (amelynek) azt szándékozták, és nem merült fel a (7) bekezdésben meghatározott egyik eset sem, úgy kell tekinteni, hogy a 12 hónap leteltét követő napon beáll a 12. § (1) bekezdése szerinti joghatás.
+
+(5) Nem áll be a 12. § (1) bekezdése szerinti joghatás a következő feltételek teljesülése esetén:
+
+- a) a termék feletti tulajdonosként való rendelkezési jogot nem engedték át és a terméket a (4) bekezdésben meghatározott határidőn belül belföldre továbbítják, és
+- b) a 12. § (1) bekezdésében említett adóalany rögzíti a termék belföldre történő továbbítását a 182. § szerinti nyilvántartásában.
+
+(6) Nem áll be a 12. § (1) bekezdése szerinti joghatás abban az esetben sem, ha a (4) bekezdésben meghatározott időtartamon belül a (2) bekezdés c) pontjában említett adóalany helyébe másik adóalany lép, feltéve, hogy:
+
+- a) teljesül a (2) bekezdésben szereplő valamennyi egyéb feltétel, és
+- b) a (2) bekezdés b) pontjában említett adóalany ezt a tényt rögzíti a 182. § szerinti nyilvántartásban.
+
+(7) A (4) bekezdésben meghatározott határidőn belül
+
+- a) ha a vevői készletben lévő terméket a (2) bekezdés c) pontjában vagy a (6) bekezdésben említett adóalanytól eltérő személy részére értékesítik, úgy kell tekinteni, hogy a (2) és (6) bekezdésben foglalt feltételek ezt az értékesítést közvetlenül megelőzően már nem teljesülnek;
+- b) ha a vevői készletben lévő terméket egy belföldtől eltérő országba adják fel vagy fuvarozzák el, úgy kell tekinteni, hogy a (2) és a (6) bekezdésben foglalt feltételek az említett feladás vagy elfuvarozás kezdetét közvetlenül megelőzően már nem teljesülnek;
+- c) a vevői készletben lévő termék megsemmisülése, elvesztése vagy ellopása esetén úgy kell tekinteni, hogy a (2) és a (6) bekezdésben foglalt feltételek abban az időpontban már nem teljesülnek, amikor a termék ténylegesen eltűnt vagy megsemmisült, vagy ha lehetetlen meghatározni ezt az időpontot, abban az időpontban, amikor kiderült, hogy a termék megsemmisült vagy hiányzik;
+- d) az a)–c) pontban nem említett esetben, ha a (2) és a (6) bekezdésben foglalt feltételek bármelyike már nem teljesül, úgy kell tekinteni, hogy a 12. § (1) bekezdése szerinti joghatás a feltétel nem teljesülésekor haladéktalanul beáll.
 
 ### Szolgáltatás nyújtása
 
@@ -339,14 +369,13 @@ az üzletágat megszerző adóalany a 88. § szerinti adófizetési kötelezetts
 
 (2) Az (1) bekezdéshez fűződő joghatás nem áll be, ha a továbbításra fordított esetben, mint 12. § (1) bekezdése szerinti termékértékesítésre a 12. § (2) bekezdése lenne alkalmazandó az ott meghatározott feltételek szerint.
 
-(3) Ha az (1) bekezdés szerinti esetben az adóalany a terméket belföldön fenntartott vevői készlete céljára továbbítja, a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy az (1) bekezdéshez fűződő joghatás akkor nem áll be, ha
+(3) Ha a (2) bekezdésben hivatkozottak szerint az ott meghatározott feltételek bármelyike nem teljesül, a feltétel nem teljesülésekor az (1) bekezdéshez fűződő joghatás haladéktalanul beáll.
 
-- a) a termék továbbítóját ezzel összefüggésben belföldön adóalanyként nem vették nyilvántartásba, valamint
-- b) a vevői készletből terméket beszerző olyan belföldön nyilvántartásba vett adóalany, akinek (amelynek) nincs olyan, e törvényben szabályozott jogállása, amely természeténél fogva összeegyeztethetetlen lenne az (5) bekezdésben meghatározott kötelezettség teljesítésével, vagy annak csorbítására lenne alkalmas.
+(4) Az (1) bekezdéshez fűződő joghatás nem áll be, ha a továbbításra fordított esetben, mint a 12. § (1) bekezdése szerinti termékértékesítésre a 12/A. § (1)–(2), (5)–(6) bekezdése lenne alkalmazandó az ott meghatározott feltételek szerint.
 
-(4) Ha a (2) bekezdésben hivatkozottak szerint az ott, illetőleg a (3) bekezdésben meghatározott feltételek bármelyike nem teljesül, a feltétel nem teljesülésekor az (1) bekezdéshez fűződő joghatás haladéktalanul beáll.
+(5) A 12/A. § (3) bekezdése szerinti termékértékesítés esetén úgy kell tekinteni, hogy az az adóalany, akinek (amelynek) a részére a terméket értékesítik, termék Közösségen belüli beszerzését teljesíti.
 
-(5) A (3) bekezdés szerinti esetben az (1) bekezdéshez fűződő joghatás a vevői készletből terméket beszerzőre áll be.
+(6) Ha a továbbításra fordított esetben, mint a 12. § (1) bekezdése szerinti termékértékesítésre a 12/A. § (4) és (7) bekezdése lenne alkalmazandó, a 12. § (1) bekezdéséhez fűződő joghatás beálltakor az (1) bekezdéshez fűződő joghatás is beáll.
 
 23. § Szintén termék Közösségen belüli ellenérték fejében teljesített beszerzése, ha Magyarország Észak-atlanti Szerződésbeli tagságával összefüggésben terméket továbbítanak belföldre, amelyet a honvédelemért felelős miniszter által vezetett minisztérium, a Magyar Honvédség, és ezek polgári állománya részére a Közösség más tagállamában – nem az ott érvényes általános adózási szabályok szerint – szereznek be, feltéve, hogy a termékre – annak importja esetében – nem vonatkozna a 93. § (1) bekezdésének h) pontja szerinti adómentesség.
 
@@ -372,7 +401,7 @@ az üzletágat megszerző adóalany a 88. § szerinti adófizetési kötelezetts
 
 27. § (1) Abban az esetben, ha a terméket többször értékesítik oly módon, hogy azt közvetlenül a sorban első értékesítőtől a sorban utolsó beszerző nevére szóló rendeltetéssel adják fel küldeményként vagy fuvarozzák el, a 26. § kizárólag egy termékértékesítésre alkalmazható.
 
-(2) Ha az (1) bekezdésben említett esetben van a sorban olyan beszerző, aki (amely) egyúttal értékesítőként a termék küldeménykénti feladását vagy fuvarozását maga vagy – javára – más végzi, úgy kell tekinteni, mint aki (amely) a termék küldeménykénti feladását vagy fuvarozását beszerzőként végzi, illetőleg arra másnak, beszerzőként adott megrendelést, kivéve, ha bizonyítja, hogy a termék küldeménykénti feladását vagy fuvarozását értékesítőként végzi, illetőleg arra másnak értékesítőként adott megrendelést.
+(2) Ha az (1) bekezdésben említett esetben van a sorban olyan beszerző, aki (amely) egyúttal értékesítőként a termék küldeménykénti feladását vagy fuvarozását maga vagy – javára – más végzi, úgy kell tekinteni, mint aki (amely) a termék küldeménykénti feladását vagy fuvarozását beszerzőként végzi, illetve arra másnak, beszerzőként adott megrendelést, kivéve, ha közölte a részére terméket értékesítővel a számára az által a tagállam által megállapított adószámot, amelyből a terméket feladják vagy elfuvarozzák.
 
 (3) Az (1) bekezdésben meghatározott termékértékesítések közül azokra, amelyek
 
@@ -809,6 +838,29 @@ megállapodásban előre rögzített, vagy az annak alapján számított árenge
 
 (6) A (4) bekezdés nem alkalmazható, ha az adóalap-csökkentésre jogosító ügylet és a pénzvisszatérítésre jogosító ügylet esetében az adót a 142. § alapján a termék beszerzője, szolgáltatás igénybevevője fizeti.
 
+(7) Különös tekintettel a rendeltetésszerű joggyakorlás elvére, az adó alapja utólag csökkenthető a behajthatatlan követelésként elszámolt ellenérték egészének vagy részének adót nem tartalmazó összegével a következő feltételek együttes teljesülése esetén:
+
+- a) az adóalany és a termék beszerzője, szolgáltatás igénybevevője független felek,
+- b) az adóalany a termék beszerzőjét, szolgáltatás igénybevevőjét a (8) bekezdésben meghatározottak szerint előzetesen írásban értesíti, kivéve, ha a termék beszerzője, szolgáltatás igénybevevője jogutód nélkül megszűnt,
+- c) az adóalany nem áll csőd-, felszámolási, vagy kényszertörlési eljárás hatálya alatt a behajthatatlan követeléssel érintett bevallás benyújtásának időpontjában,
+- d) a termék beszerzője, szolgáltatás igénybevevője nem áll csőd-, felszámolási, vagy kényszertörlési eljárás hatálya alatt a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában,
+- e) a termék beszerzője, szolgáltatás igénybevevője nem szerepel a nagy összegű adóhiánnyal vagy a nagy összegű adótartozással rendelkezők adóhatóság holnapjáról lekérdezhető adatbázisában a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában és az azt megelőző egy évben,
+- f) a termék beszerzőjének, szolgáltatás igénybevevőjének adószáma a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában nincs törölve,
+- g) az állami adó- és vámhatóság a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjáig nem adott tájékoztatást az adóalany részére a terméket beszerző, szolgáltatást igénybevevő adókötelezettsége teljesítésének megkerüléséről,
+- h) a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás ellenértéke megtérítésének esedékessége óta legalább egy év eltelt, és
+- i) a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás ellenértéke más módon nem térült vagy térül meg.
+
+(8) Az előzetes írásbeli értesítésnek legalább a következő adatokat kell tartalmaznia:
+
+- a) a behajthatatlan követelésként történő elszámolás oka,
+- b) azon számla sorszáma, amely az adóalap-csökkentéssel érintett termékértékesítést, szolgáltatásnyújtást tartalmazza,
+- c) a behajthatatlan követelés összege (ellenérték vagy részellenérték, valamint az arra jutó adó összege szerinti bontásban), és
+- d) nyilatkozat arról, hogy a c) pont szerint megjelölt ellenérték adót nem tartalmazó összegével az adóalany az adó alapját utólag csökkenti.
+
+(9) Az adóalany köteles a bevallással egyidejűleg az erre a célra rendszeresített nyomtatványon az adóhatóság részére nyilatkozni a behajthatatlan követelésként történő elszámolás okáról, azon számla sorszámáról, amely az adóalap-csökkentéssel érintett termékértékesítést, szolgáltatásnyújtást tartalmazza, az adóalap-csökkentés összegéről, a termékbeszerző, szolgáltatás igénybevevő nevéről, adószámáról, valamint a (7) bekezdés i) pontjában foglalt feltétel teljesüléséről.
+
+(10) Amennyiben az adóalap (7) bekezdés szerinti csökkentését követően a termék értékesítője, szolgáltatás nyújtója részére a behajthatatlan követelésként elszámolt ellenérték egészét vagy annak egy részét megtérítik, a megtérített ellenérték vagy részellenérték adóval csökkentett összegének erejéig az adóalap utólagos csökkentése nem alkalmazható. Az adóalany köteles a bevallással egyidejűleg az erre a célra rendszeresített nyomtatványon az adóhatóság részére nyilatkozni a megtérített ellenérték vagy részellenérték adóval csökkentett összegéről és a termékbeszerző, szolgáltatás igénybevevő nevéről, adószámáról.
+
 78. § (1) A 77. § (1)–(3) bekezdése alkalmazásának feltétele, hogy a kötelezett az ügylet teljesítését tanúsító számla
 
 - a) érvénytelenítéséről gondoskodjon azokban az esetekben, amikor az előleg vagy az ellenérték teljes összegét visszatérítik;
@@ -900,8 +952,8 @@ a fizetendő adó megállapításakor érvényes adómértéket kell alkalmazni.
 - f) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet szociális ellátás keretében közszolgáltató – ilyen minőségében – teljesít;
 - g) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet gyermek- és ifjúságvédelem keretében közszolgáltató – ilyen minőségében – teljesít;
 - h) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet bölcsődei ellátás keretében közszolgáltató – ilyen minőségében – teljesít;
-- i) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó óvodai, diákotthoni és kollégiumi ellátás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg –, valamint az azokhoz szorosan kapcsolódó termékértékesítés, amelyet köz- és felsőoktatás, továbbá a (2) bekezdésben meghatározott egyéb oktatás keretében a közszolgáltató, közoktatási intézmény, felsőoktatási intézmény, egyéb felnőttképzést folytató intézmény vagy – nemzetközi szerződés alapján – belföldön működő külföldi kulturális intézet – ilyen minőségében – teljesít;
-- j) az a szolgáltatásnyújtás, amelyet óvodai, tanári, oktatói, nevelői tevékenységet végző – ilyen minőségében – teljesít a köz- és felsőoktatás, továbbá a (2) bekezdésben meghatározott egyéb oktatás keretében, ideértve az előzőekben felsoroltakhoz kapcsolódó magánóraadást is;
+- i) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó óvodai, diákotthoni és kollégiumi ellátás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg –, valamint az azokhoz szorosan kapcsolódó termékértékesítés, amelyet a köznevelés, a szakképzés, illetve a felsőoktatás, továbbá a (2) bekezdésben meghatározott egyéb oktatás vagy képzés keretében a közszolgáltató, a köznevelési intézmény, a szakképző intézmény, a felsőoktatási intézmény, a felnőttképző vagy – nemzetközi szerződés alapján – belföldön működő külföldi kulturális intézet – ilyen minőségében – teljesít;
+- j) az a szolgáltatásnyújtás, amelyet óvodai, tanári, oktatói, nevelői tevékenységet végző – ilyen minőségében – teljesít a köznevelés, a szakképzés, illetve a felsőoktatás, továbbá a (2) bekezdésben meghatározott egyéb oktatás vagy képzés keretében, ideértve az előzőekben felsoroltakhoz kapcsolódó, óvodai, tanári, oktatói, nevelői tevékenységet végző által szervezett magánóraadást is;
 - k) a bírósági vagy más hatósági nyilvántartásba bejegyzett, vallás vagy más lelkiismereti meggyőződés kinyilvánítására, gyakorlására létrehozott jogi személy által személyzet rendelkezésre bocsátása a b), f), g), h) és i) pontokban említett tevékenységek ellátása, illetőleg lelki segély, gondozás céljából;
 - l) a bírósági vagy más hatósági nyilvántartásba bejegyzett, alapszabállyal (alapító okirattal) és tagsággal rendelkező, alapszabálya (alapító okirata) szerint és ténylegesen is nyereségszerzésre nem törekvő személy, szervezet által a tagjainak teljesített olyan szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó termékértékesítés
   - la) amelynek kizárólagos vagyoni fedezete az alapszabállyal összhangban meghatározott, minden tagra kötelező tagsági díj, egyéb hozzájárulás, a kapott államháztartási támogatás és egyéb adomány, valamint a saját tevékenységből származó nyereség, amely a társasági adóról és az osztalékadóról szóló törvény szerint az adózás előtti eredményt csökkenti, és
@@ -920,12 +972,17 @@ kivéve az uszoda- és strandfürdő-szolgáltatást, a sportesemény megtekint�
   - pc) az ellenérték, amelyet az együttműködő közösség kap vagy kapnia kell, nem több annál, mint a nála ezzel összefüggésben felmerült igazolt költség, valamint
   - pd) az ellenérték göngyölített összege nem haladja meg azt a vagyoni hozzájárulást, amelyet az együttműködő közösség tagjának kell a közös cél elérése érdekében az együttműködő közösségnek rendelkezésre bocsátania.
 
-(2) Az egyéb oktatás körébe tartoznak:
+(2) Egyéb oktatás vagy képzés
 
-- a) a felnőttképzésből az Országos Képzési Jegyzékben meghatározott szakképesítést adó oktatás, képzés, továbbképzés, vizsgára való felkészítés és vizsgáztatás;
-- b) a felnőttképzésről szóló törvény alapján engedélyezett és szervezett, illetőleg egyéb jogszabály alapján szervezett oktatás, képzés, továbbképzés, vizsgára való felkészítés és vizsgáztatás;
-- c) az államilag, illetőleg nemzetközileg elismert nyelvvizsga-bizonyítvány kiadásának alapjául szolgáló vizsgáztatás;
-- d) a tanulmányi és tehetséggondozó verseny szervezése, lebonyolítása.
+- a) a szakképzésről szóló törvény alapján szervezett szakmai oktatás és szakmai képzés, továbbá az ehhez kapcsolódóan szervezett szakmai vizsga és képesítő vizsga,
+- b) a felnőttképzésről szóló törvényben meghatározott
+  - ba) bejelentés birtokában és jogszabály alapján vagy
+  - bb) engedély birtokában
+
+szervezett oktatás vagy képzés, továbbá az ehhez kapcsolódóan szervezett vizsga,
+
+- c) a nyelvi képzés és az államilag, illetve nemzetközileg elismert nyelvvizsga-bizonyítvány kiadásának alapjául szolgáló vizsga, valamint
+- d) a tanulmányi és tehetséggondozó verseny szervezése és lebonyolítása.
 
 (3) Abban az esetben, ha az (1) és (2) bekezdésben meghatározott valamely tevékenység
 
@@ -1057,7 +1114,12 @@ adókötelessé teszi.
 
 ### Adó alóli mentesség termék Közösségen belüli értékesítése esetében
 
-89. § (1) Mentes az adó alól – a (2) és (3) bekezdésben meghatározott eltéréssel – a belföldön küldeményként feladott vagy belföldről fuvarozott termék értékesítése igazoltan belföldön kívülre, de a Közösség területére, függetlenül attól, hogy a küldeménykénti feladást vagy a fuvarozást akár az értékesítő, akár a beszerző vagy – bármelyikük javára – más végzi, egy olyan másik adóalanynak, aki (amely) ilyen minőségében nem belföldön, hanem a Közösség más tagállamában jár el, vagy szintén a Közösség más tagállamában nyilvántartásba vett adófizetésre kötelezett, nem adóalany jogi személynek.
+89. § (1) Mentes az adó alól – a (2) és (3) bekezdésben meghatározott eltéréssel – a belföldön küldeményként feladott vagy belföldről fuvarozott termék értékesítése igazoltan belföldön kívülre, de a Közösség területére, függetlenül attól, hogy a küldeménykénti feladást vagy a fuvarozást akár az értékesítő, akár a beszerző vagy – bármelyikük javára – más végzi, feltéve, hogy:
+
+- a) az egy másik, adóalanyi minőségében nem belföldön, hanem a Közösség más tagállamában eljáró adóalanynak vagy a Közösség más tagállamában nyilvántartásba vett adófizetésre kötelezett, nem adóalany jogi személynek történik, és
+- b) az az adóalany vagy adófizetésre kötelezett nem adóalany jogi személy, akinek (amelynek) részére az értékesítés történik, adószámmal rendelkezik a Közösség más tagállamában és ezt az adószámot közölte az értékesítővel.
+
+(1a) Az (1) bekezdésben meghatározott adómentesség nem alkalmazandó, ha a teljesítésre kötelezett adóalany a 4/A. számú melléklet I. pontja szerinti összesítő nyilatkozat benyújtására vonatkozó kötelezettségének nem tett eleget, vagy ezt hibásan vagy hiányosan teljesítette, kivéve, ha igazolja, hogy a mulasztás, hiba vagy hiányosság a jóhiszemű eljárása mellett következett be, és ezzel egyidejűleg az állami adó- és vámhatóság rendelkezésére bocsátja az összesítő nyilatkozat teljes körű és helyes tartalmának megállapításához szükséges adatokat.
 
 (2) Mentes az adó alól a belföldön küldeményként feladott vagy belföldről fuvarozott új közlekedési eszköz értékesítése igazoltan belföldön kívülre, de – a beszerző nevére szóló rendeltetéssel – a Közösség területére, függetlenül attól, hogy a küldeménykénti feladást vagy a fuvarozást akár az értékesítő, akár a beszerző vagy – bármelyikük javára – más végzi,
 
@@ -1082,7 +1144,7 @@ adókötelessé teszi.
 
 - 1. az ügylet teljesítését tanúsító számlát, mint az adófizetésre kötelezett meghatalmazottja bocsátja ki;
 - 2. arról adófizetésre kötelezett adóalanyonként, ezen belül meghatalmazásonként egymástól elkülönített nyilvántartást vezet;
-- 3. bevallásában és összesítő nyilatkozatában az ügyletre vonatkozó adatokat a saját adataihoz képest elkülönítetten közli.
+- 3. bevallásában és a 4/A. számú melléklet I. pontja szerinti összesítő nyilatkozatában az ügyletre vonatkozó adatokat a saját adataihoz képest elkülönítetten közli.
 
 (4) Az adófizetésre kötelezett adóalany és az adóraktár üzemeltetője közötti meghatalmazás visszavonása nem érinti az adóraktár üzemeltetőjének a 4. számú melléklet 19. pontja szerinti adóbiztosíték-nyújtási kötelezettségét, ha a megszűnés azt követően következik be, hogy a meghatalmazást a (2) bekezdés szerint az adóraktár felügyeletét ellátó vámszervhez benyújtották.
 
@@ -1218,7 +1280,7 @@ adókötelessé teszi.
 
 - a) az ügylet teljesítését tanúsító számlát mint az importáló meghatalmazottja bocsátja ki;
 - b) arról importálónként, ezen belül megbízásonként egymástól elkülönített nyilvántartást vezet;
-- c) bevallásában és összesítő nyilatkozatában az ügyletre vonatkozó adatokat a saját adataihoz képest elkülönítetten közli.
+- c) bevallásában és a 4/A. számú melléklet I. pontja szerinti összesítő nyilatkozatában az ügyletre vonatkozó adatokat a saját adataihoz képest elkülönítetten közli.
 
 (4) A 95. § (6) és (10) bekezdésében említett esetekben a közvetett vámjogi képviselő az importálóval együtt egyetemlegesen felelős az adó megfizetéséért.
 
@@ -1732,7 +1794,7 @@ fizeti.
 
 (2) Új közlekedési eszköz Közösségen belüli beszerzése esetében az adót az új közlekedési eszközt beszerző, az a nem-adóalany személy, szervezet is fizeti, aki (amely) nem jogi személy.
 
-144. § A 22. § (5) bekezdésében említett esetben az adót a vevői készletből terméket beszerző fizeti.
+144. §
 
 ### Adófizetésre kötelezett termék importja esetében
 
@@ -1852,13 +1914,15 @@ legyenek.
 
 (4) Az eredetileg levonható előzetesen felszámított adó összegét meghatározó tényezők utólagos változásának minősül a pénz visszatérítése az adóalany részére a 77. § (4) bekezdésében meghatározottak szerint, feltéve, hogy ezen adóalany részben vagy egészben adólevonásra jogosult, azon termék beszerzése, szolgáltatás igénybevétele vonatkozásában, amelyre tekintettel a pénzvisszatérítést kapja.
 
-153/D. § Nem minősül az eredetileg levonható előzetesen felszámított adó összegét meghatározó tényezők utólagos változásának:
+153/D. § (1) Nem minősül az eredetileg levonható előzetesen felszámított adó összegét meghatározó tényezők utólagos változásának:
 
-- a) az adó áthárítására jogalapot teremtő ügylet fejében járó ellenérték teljes vagy részleges meg nem térítése;
+- a) az adó áthárítására jogalapot teremtő ügylet fejében járó ellenérték teljes vagy részleges meg nem térítése, ide nem értve a 77. § (7) bekezdése szerinti esetet;
 - b) a 11. § (3) bekezdésében és a 14. § (3) bekezdésében meghatározott esetek;
 - c) a megsemmisülés és más olyan vagyoni kár, amelyet az adóalany tevékenységi körén kívül eső elháríthatatlan ok idézett elő, és ez utóbbi ok fennállását az adóalany bizonyítja;
 - d) a c) pontban nem említett egyéb vagyoni kár, ha az adóalany bizonyítja, hogy a kár elhárítása, illetve csökkentése érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható;
 - e) ha az egycélú utalvány ellenében nem teljesítenek termékértékesítést, szolgáltatásnyújtást.
+
+(2) Ha az eredetileg levonható előzetesen felszámított adó összege az (1) bekezdés a) pontja szerinti esetre tekintettel csökken, az adóalany a különbözet elszámolásakor köteles a bevallással egyidejűleg az erre a célra rendszeresített nyomtatványon az adóhatóság részére nyilatkozni ezen különbözet összegéről, valamint azon adóalany nevéről és adószámáról, aki (amely) e különbözet alapjául szolgáló, 77. § (7) bekezdése szerinti adóalap-csökkentést elszámolta.
 
 #### 2. alfejezet
 
@@ -2184,28 +2248,9 @@ számlakibocsátási kötelezettséget jelent.
 
 ### Vevői készletre vonatkozó különös szabályok
 
-182. § (1) Abban az esetben, ha a belföldön nyilvántartásba vett adóalany a Közösség valamely más tagállamában vevői készletet tart fenn, köteles a vevői készlet céljára továbbított termékekről folyamatos mennyiségi nyilvántartást vezetni. A mennyiségi nyilvántartásnak legalább a következőket kell tartalmaznia:
+182. § Abban az esetben, ha a belföldön nyilvántartásba vett adóalany a Közösség valamely más tagállamában vevői készletet tart fenn, köteles a vevői készlet céljára továbbított termékekről folyamatos mennyiségi nyilvántartást vezetni a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelv végrehajtási intézkedéseinek megállapításáról szóló, 2011. március 15-i (EU) 282/2011 tanácsi végrehajtási rendelet által meghatározottak szerint.
 
-- a) nyitó vevői készleten levő termékek mennyisége;
-- b) vevői készletre beraktározott termékek mennyisége adómegállapítási időszakonként;
-- c) vevői készletből kiraktározott termékek mennyisége adómegállapítási időszakonként;
-- d) záró vevői készleten levő termékek mennyisége.
-
-(2) A vevői készletről szóló nyilvántartást vevőnként, illetőleg tagállamonként egymástól elkülönítetten kell vezetni.
-
-(3) Tételes leltárral kell alátámasztani
-
-- a) a nyitó vevői készletet a vevői készlet létesítésének napjára,
-- b) a záró vevői készletet a vevői készlet megszüntetésének napjára,
-- c) egyéb esetekben pedig a nyitó és záró vevői készletet az adóalany üzleti éve utolsó napjára – mint mérlegfordulónapra –
-
-vonatkozó mennyiségi felvétellel. A leltározásra a Számv. tv. rendelkezéseit kell megfelelően alkalmazni.
-
-(4) Az (1) bekezdés b) pontján belül elkülönítetten kell kimutatni a belföldről, illetőleg az adóalany más vevői készletéből továbbított termékeket.
-
-(5) Az (1) bekezdés c) pontján belül elkülönítetten kell kimutatni a vevőnek értékesített, az adóalany más vevői készletébe továbbított, illetőleg a belföldre visszahozott termékeket.
-
-183. § Abban az esetben, ha a Közösség valamely más tagállamában nyilvántartásba vett adóalany belföldön vevői készletet tart fenn, a tőle beszerző köteles a vevői készletből beszerzett termékekről folyamatos mennyiségi nyilvántartást vezetni.
+183. § Abban az esetben, ha a Közösség valamely más tagállamában nyilvántartásba vett adóalany belföldön vevői készletet tart fenn, a 12/A. § (2) bekezdés c) pontjában és a 12/A. § (6) bekezdésében foglaltaknak belföldön megfelelő adóalany köteles a vevői készletből a részére értékesíteni szándékozott termékekről folyamatos mennyiségi nyilvántartást vezetni a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelv végrehajtási intézkedéseinek megállapításáról szóló, 2011. március 15-i (EU) 282/2011 tanácsi végrehajtási rendelet által meghatározottak szerint.
 
 ### XII. Fejezet — ADÓ BEVALLÁSA, MEGFIZETÉSEÉS VISSZAIGÉNYLÉSE
 
@@ -2511,7 +2556,7 @@ tünteti fel.
 - c) utas: az utazásszervezőnek tett nyilatkozata alapján az az ügyfél, aki (amely) a szolgáltatást
   - ca) nem adóalanyként vagy nem adóalanyi minőségében, illetőleg
   - cb) egyéb, a ca) alpont alá nem tartozó esetekben pedig a saját nevében és javára veszi igénybe;
-- d) önálló pozíciószám: olyan – külön nyilvántartott – utazásszervezési szolgáltatásokat foglal magában, amelyek azonos földrajzi területre (helyszínre) irányulnak, azonos tartalmúak és színvonalukat tekintve azonos minőségűek.
+- d)
 
 (2) Az utazásszervező köteles ügyfelét a teljesítést megelőzően nyilatkozattételre felhívni, és annak keretében nyilatkoztatni arról, hogy a szolgáltatást utasként vagy nem utasként kívánja igénybe venni.
 
@@ -2552,49 +2597,11 @@ tünteti fel.
 
 212. § Az utazásszervezési szolgáltatás teljesítéséhez szükséges, a 206. § (1) bekezdésének a) pontjában említett, más adóalany által teljesített szolgáltatásnyújtáshoz, termékértékesítéshez kapcsolódóan megállapított adóra – mint előzetesen felszámított adóra – az utazásszervező adólevonási jogot nem alapíthat.
 
-### Önálló pozíciószámonkénti nyilvántartáson alapuló módszer a fizetendő adó megállapítására
+212/A. §
 
-212/A. § (1) A belföldön nyilvántartásba vett utazásszervező – az állami adóhatóságnak tett előzetes bejelentése alapján – dönthet úgy is, hogy az egyedi nyilvántartáson alapuló módszer helyett az ilyen minőségében fizetendő adó együttes összegének megállapítása érdekében az önálló pozíciószámonkénti nyilvántartáson alapuló módszert alkalmazza.
+212/B. §
 
-(2) Az (1) bekezdés szerinti választás ellenére az egyedi nyilvántartáson alapuló módszert kell alkalmazni az önálló pozíciószámonkénti nyilvántartáson alapuló módszer alkalmazásának időszakában is arra az utazásszervezési szolgáltatásnyújtásra, amelynél az utas által fizetett előleg jóváírása, kézhezvétele időben megelőzi az önálló pozíciószámonkénti nyilvántartáson alapuló módszer alkalmazására való áttérést.
-
-(3) Abban az esetben, ha az utazásszervező élt az (1) bekezdésben említett választási jogával, attól a választása évét követő naptári év végéig nem térhet el.
-
-(4) Ha az utazásszervező a határnap lejártáig az állami adóhatóságnak másként nem nyilatkozik, választása a (3) bekezdésben meghatározott időtartammal meghosszabbodik.
-
-212/B. § (1) Az önálló pozíciószámonkénti nyilvántartáson alapuló módszer alkalmazása esetében az utazásszervező által fizetendő adó együttes alapja az utazásszervezési szolgáltatásoknak az adómegállapítási időszakra – önálló pozíciószámonként – összesített, az utazásszervező által számított árréstömege, csökkentve magával az így összesített árréstömegre jutó adó együttes összegével.
-
-(2) Az utazásszervező által számított árréstömeg az a pénzben kifejezett és önálló pozíciószámonként külön megállapított különbözet, amelyben
-
-- a) a kisebbítendő tag: az utazásszervezési szolgáltatások nyújtása érdekében az utasok által az utazásszervezőnek megtérített – pénzben kifejezett – ellenérték és jóváírt, kézhez vett előleg adómegállapítási időszakra összesített összege, csökkentve az utazásszervező által az utasoknak visszatérített – pénzben kifejezett – ellenérték és visszafizetett előleg szintén adómegállapítási időszakra összesített összegével;
-- b) a kivonandó tag: az utazásszervező által a 206. § (1) bekezdésének a) pontjában említett más adóalanynak juttatott vagy juttatandó – pénzben kifejezett – vagyoni előnynek az arányos összege, amely – az utazásszervező által igazolt módon – betudható ellenértéke vagy az lehet az a) pont szerint meghatározott utazásszervezési szolgáltatások nyújtása érdekében szükséges, a 206. § (1) bekezdésének a) pontjában említett más adóalany által teljesített vagy teljesítendő szolgáltatásnyújtásnak, termékértékesítésnek.
-
-(3) Abban az esetben, ha a (2) bekezdés szerinti számítás eredményeként a különbözet nem pozitív előjelű, számított árréstömegként nulla érték veendő figyelembe.
-
-212/C. § (1) Abban az adómegállapítási időszakban, amelyben egy adott önálló pozíciószám megszűnik (a továbbiakban: megszűnő önálló pozíciószám), az utazásszervező köteles a megszűnő önálló pozíciószám fennállásának teljes időtartamára a megszűnő önálló pozíciószám végleges árréstömegét megállapítani.
-
-(2) A megszűnő önálló pozíciószám végleges árréstömege az a pénzben kifejezett különbözet, amelyben
-
-- a) a kisebbítendő tag megegyezik a megszűnő önálló pozíciószám fennállásának teljes időtartamát magában foglaló adómegállapítási időszakokban a 212/B. § (2) bekezdésének a) pontja szerint megállapított érték göngyölített összegével;
-- b) a kivonandó tag megegyezik az utazásszervező által a 206. § (1) bekezdésének a) pontjában említett más adóalanynak juttatott – pénzben kifejezett – vagyoni előnynek az arányos összegével, amely – az utazásszervező által igazolt módon – betudott ellenértéke az a) pont szerint meghatározott utazásszervezési szolgáltatások nyújtása érdekében szükséges, a 206. § (1) bekezdésének a) pontjában említett más adóalany által teljesített szolgáltatásnyújtásnak, termékértékesítésnek.
-
-(3) Abban az esetben, ha a (2) bekezdés szerinti számítás eredményeként a különbözet nem pozitív előjelű, végleges árréstömegként nulla érték veendő figyelembe.
-
-(4) Abban az esetben, ha a megszűnő önálló pozíciószám végleges árréstömegének (kisebbítendő tag) és a megszűnő önálló pozíciószám fennállásának teljes időtartamát magában foglaló adómegállapítási időszakokban a megszűnő önálló pozíciószám 212/B. § (2) bekezdése szerint számított árréstömege göngyölített összegének (kivonandó tag) a különbözete abszolút értékben kifejezve eléri vagy meghaladja a 10 000 forintnak megfelelő pénzösszeget, az utazásszervező
-
-- a) köteles az (1) bekezdésben meghatározott adómegállapítási időszakban a különbözetre jutó adót fizetendő adóként megállapítani, ha a különbözet pozitív előjelű;
-- b) jogosult arra, hogy legkorábban az (1) bekezdésben meghatározott adómegállapítási időszakban a 153/A. § (1) bekezdése szerint megállapított adót a különbözetre jutó adó összegével csökkentse, ha a különbözet negatív előjelű.
-
-(5) Az önálló pozíciószám megszűnik, ha az utazásszervező
-
-- a) az adott önálló pozíciószámot lezárja;
-- b) az adott önálló pozíciószámon 6 hónapos időtartamban ténylegesen nem nyújt utazásszervezési szolgáltatást;
-- c) választási jogával élve a soron következő adómegállapítási időszak kezdetétől az önálló pozíciószámonkénti nyilvántartáson alapuló módszer helyett az egyedi nyilvántartáson alapuló módszert kívánja alkalmazni;
-- d) jogutód nélkül megszűnik.
-
-(6) Az (5) bekezdés b) pontjában említett időtartamot az önálló pozíciószám megnyitásától, illetőleg ha az alá az önálló pozíciószám alá tartozó utazásszervezési szolgáltatás nyújtása érdekében az utas az utazásszervezőnek ellenértéket térített meg vagy előleget fizetett, az utolsó ilyen megtérítéstől vagy fizetéstől kell számítani.
-
-(7) Az (5) bekezdés d) pontjának alkalmazásában az önálló pozíciószám abban az adómegállapítási időszakban szűnik meg, amelyről az utazásszervező záróbevallást benyújtani köteles.
+212/C. §
 
 ### XVI. Fejezet — HASZNÁLT INGÓSÁGOKRA, MŰALKOTÁSOKRA, GYŰJTEMÉNYDARABOKRA ÉS RÉGISÉGEKRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -3160,6 +3167,16 @@ közösségi adószám birtokában végezhet.
 
 257/I. § A hivatkozással meghatározott termékek és szolgáltatások vonatkozásában a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. mellékletének módosításáról szóló, 2017. október 12-i (EU) 2017/1925 bizottsági végrehajtási rendelet 2018. január 1-jei állapota szerinti áruazonosító számot (vámtarifaszám) és a TESZOR'15 2018. év január 1. napján érvényes besorolási rendjét kell irányadónak tekinteni. A vámtarifaszám és besorolási rend ezt követő (időközi) változása az adókötelezettséget nem változtatja meg.
 
+### Különös adóvisszatérítés
+
+257/J. § (1) Az adóalany kérelmezheti az őt terhelő előzetesen felszámított adó összegének visszatérítését, ha az neki fel nem róható okból, az adósemlegesség elvébe ütközően, más módon nem térült vagy térül meg.
+
+(2) Az adóalany a kérelmet az állami adóhatósághoz írásban terjeszti elő, legkésőbb 6 hónappal az adómegállapításhoz való jog elévülését megelőzően. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Az adóalany e kérelem előterjesztésére a folyamatban lévő adóhatósági ellenőrzés során is jogosult.
+
+(3) A kérelemben az adóalany igazolja az (1) bekezdés szerinti feltételeknek való megfelelést.
+
+(4) A kérelemről az állami adóhatóság a kérelem beérkezésétől számított 6 hónapon belül dönt. Az állami adóhatóság az adó visszatérítését akkor engedélyezi, ha a visszatérítés alapjául szolgáló adó a költségvetés felé megfizetésre került.
+
 ### XXI. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
 258. § (1) A Közösség tagállamaiban az e törvényben használt „adó” kifejezés jelentését a 9. számú melléklet tartalmazza.
@@ -3188,7 +3205,11 @@ közösségi adószám birtokában végezhet.
   - a) a 95. § szerinti adómentesség esetében megfelel a termék vámjogi szabad forgalomba bocsátására irányuló eljárásban megállapított adónak;
   - b) az adóraktározási eljárás során kiraktározandó/kiraktározott termék esetében megfelel a termék szokásos piaci árának figyelembevételével megállapított fizetendő adónak; 1/A. adattartalom sértetlensége: a számlának a törvényben előírt adattartalmát nem változtatták meg.
 - 2. állandó telephely: a székhelyen kívül a gazdasági tevékenység helyhez kötött folytatására huzamosabb időtartamra létesített vagy arra szánt földrajzilag körülhatárolt hely, amelyen a gazdasági tevékenység – székhelyhez képesti – önálló folytatásához szükséges egyéb feltételek is ténylegesen rendelkezésre állnak, ideértve az adóalany kereskedelmi képviseletét is, de csak annyiban, amennyiben a 37. § (1) bekezdésének alkalmazásában az adóalany kereskedelmi képviselete a legközvetlenebbül érintett, kivéve, ha az Európai Unió kötelező jogi aktusa ettől eltérően rendelkezik;
-- 3. áruminta: a képviselt terméknek kisebb és jellemző része vagy mennyisége, amelyet kizárólag a képviselt termék bemutatásának céljára adnak, és amely fizikai állapotánál, vagyoni értékénél fogva más cél elérésére nem is alkalmas;
+- 3. áruminta: a képviselt terméknek kisebb és jellemző része vagy mennyisége, amelyet kizárólag a képviselt termék bemutatásának céljára adnak, és amely fizikai állapotánál, vagyoni értékénél fogva más cél elérésére nem is alkalmas; 3/A. behajthatatlan követelés: termékértékesítés, szolgáltatásnyújtás alapján keletkezett, követelésként fennálló ellenérték vagy részellenérték adót is tartalmazó összege, amelyet a termék értékesítője, szolgáltatás nyújtója ekként számol el nyilvántartásában az alábbi okok valamelyike alapján:
+  - a) a követelésre az adós ellen vezetett végrehajtás során nincs fedezet vagy a talált fedezet azt csak részben fedezi,
+  - b) a követelést a hitelező a csődeljárás, a felszámolási eljárás, az önkormányzatok adósságrendezési eljárása során egyezségi megállapodás keretében elengedte,
+  - c) a követelésre a felszámoló által adott írásbeli igazolás (nyilatkozat) szerint nincs fedezet, feltéve, hogy a felszámolás kezdő időpontja óta legalább 2 év telt el,
+  - d) a követelésre a felszámolás, az adósságrendezési eljárás befejezésekor vagyonfelosztási javaslat szerinti értékben átvett eszköz nem nyújt fedezetet;
 - 4. bérbeadás, -vétel: a bérleti szerződésen alapuló jogviszony mellett minden olyan egyéb jogviszony is, amelynek tartama alatt a jogosult az ellenérték egészét vagy túlnyomó részét a termék időleges használatáért téríti vagy téríteni köteles a kötelezettnek;
 - 5. elektronikus számla: az e törvényben előírt adatokat tartalmazó számla, amelyet elektronikus formában bocsátottak ki és fogadtak be.
 - 6. ellenérték: bármilyen vagyoni előny, ideértve a meglévő követelés mérséklésére elismert vagyoni értéket is, de ide nem értve a kártérítést; 6/A. eredet hitelessége: a terméket értékesítő, a szolgáltatást nyújtó vagy a számlát kibocsátó azonosságának biztosítása.
@@ -3230,9 +3251,7 @@ közösségi adószám birtokában végezhet.
   - a) szárazföldi közlekedési eszköz esetében azt a gépjárművet jelenti, amelynek beépített erőgépének hengerűrtartalma meghaladja a 48 cm3-t, vagy teljesítménye meghaladja a 7,2 kilowattot, feltéve, hogy az értékesítés teljesítésekor az első forgalomba helyezéstől számítva legfeljebb 6 hónap telt el, vagy az általa megtett távolságból legfeljebb 6000 kilométert tett meg;
   - b) víziközlekedési eszköz esetében azt a járművet jelenti, amelynek hosszúsága meghaladja a 7,5 métert – kivéve: a nyílt tengeri forgalomban használt olyan járművet, amelyet kereskedelmi személyszállításra, egyéb kereskedelmi, ipari és halászati tevékenységre, valamint tengeri mentésre vagy segítségnyújtásra használnak, továbbá a partmenti halászati tevékenységre használt járművet is –, feltéve, hogy az értékesítés teljesítésekor az első forgalomba helyezéstől számítva legfeljebb 3 hónap telt el, vagy az általa hajózott órákból legfeljebb 100 órát hajózott;
   - c) légiközlekedési eszköz esetében azt a járművet jelenti, amelynek teljes felszállási tömege meghaladja az 1550 kilogrammot – kivéve: azt a járművet, amelyet kizárólag vagy túlnyomó részben nemzetközi légikereskedelmi forgalomban részt vevő vállalkozás használ – feltéve, hogy az értékesítés teljesítésekor az első forgalomba helyezéstől számítva legfeljebb 3 hónap telt el, vagy az általa repült órákból legfeljebb 40 órát repült; 25/A. üzletág: a vállalkozásnak olyan működő egysége, amely szervezeti szempontból függetlenül, a hozzá tartozó vagyonnal alkalmas az önálló gazdasági tevékenység tartós folytatására;
-- 26. vevői készlet:
-  - a) belföldön a termék leendő beszerzőjének saját raktárába vagy általa bérelt raktárba készletezésre fizikailag betárolt olyan terméket jelenti, amely a tárolás tartama alatt a termék leendő értékesítőjének tulajdonosi rendelkezése alatt áll, anélkül, hogy ez idő alatt a termék használatára, egyéb módon történő hasznosítására – ide nem értve a kipróbálást és a próbagyártást – bárki jogosult lenne, továbbá a termékértékesítés teljesítésével egyúttal, amelyet a termék leendő beszerzője kezdeményez, a termék fizikai kitárolása is megtörténik;
-  - b) a Közösség más tagállamában azt a jogintézményt jelenti, amely a tagállam joga szerint a belföldről továbbított termékhez a lényeges szabályozási tartalmat illetően ugyanolyan vagy ahhoz hasonló joghatásokat fűz, mint amelyeket e törvény az a) alpont szerinti esetre rendel.
+- 26.
 
 ### XXII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -3352,9 +3371,11 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - gm) a Tanács (EU) 2017/2455 irányelve (2017. december 5.) a 2006/112/EK irányelvnek és a 2009/132/EK irányelvnek a szolgáltatásnyújtásra és a termékek távértékesítésére vonatkozó bizonyos hozzáadottértékadó-kötelezettségek tekintetében történő módosításáról;
   - gn) a Tanács (EU) 2018/912 irányelve (2018. június 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a minimális általános adómérték tiszteletben tartására vonatkozó kötelezettség tekintetében történő módosításáról;
   - go) a Tanács (EU) 2018/1695 irányelve (2018. november 6.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózás, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszaka tekintetében történő módosításáról;
+  - gp) a Tanács (EU) 2018/1910 irányelve (2018. december 4.) a 2006/112/EK irányelvnek a hozzáadottértékadó-rendszer egyes, a tagállamok közötti kereskedelem adóztatására vonatkozó szabályainak harmonizálása és egyszerűsítése tekintetében történő módosításáról;
 - h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
   - ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról;
-- i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról.
+- i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról;
+- j) a Tanács (EU) 2019/475 irányelve (2019. február 18.) a 2006/112/EK és a 2008/118/EK irányelvnek az olasz Campione d'Italia településnek és a Luganói-tó olaszországi vizeinek az Unió vámterületébe, valamint a 2008/118/EK irányelv területi hatálya alá történő bevonása érdekében történő módosításáról.
 
 ### Átmeneti rendelkezések
 
@@ -3630,9 +3651,25 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 - a) építési engedélyhez kötött építési munka esetén a lakóingatlan építésére 2018. november 1. napján van végleges építési engedély, vagy
 - b) az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentéshez kötött építési tevékenységet legkésőbb 2018. november 1. napján bejelentették.
 
+328. § (1) A 2020. január 1-jét megelőzően, belföldön fenntartott vevői készlet céljára továbbított termékekre a 2019. december 31-én hatályos 22. § (3)–(5) bekezdés, 144. §, 183. §, 259. § 26. a) pontját kell alkalmazni, azzal, hogy az ilyen, 2020. december 31-én még a vevői készletben lévő termékre 2020. december 31-én beáll a 22. § (1) bekezdése szerinti joghatás.
+
+(2) Abban az esetben, ha a belföldön nyilvántartásba vett adóalany 2020. január 1-jét megelőzően továbbított terméket a Közösség valamely más tagállamában fenntartott vevői készletébe, úgy a 12. § (1) bekezdése szerinti joghatás akkor áll be, amikor a vevői készlet helye szerinti tagállam szabályozása értelmében ezen termék után Közösségen belüli termékbeszerzés jogcímén adófizetési kötelezettség keletkezik. Az adóalany az ily módon továbbított termékekről a 2019. december 31-én hatályos 182. § szerint vezet folyamatos mennyiségi nyilvántartást.
+
 329. § E törvénynek az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel (a továbbiakban: Mód10 törvény) módosított 98. § (2) bekezdés a) pontja, 98. § (5) bekezdése, 101. § (2) bekezdés a) pontja, 102. § (1) bekezdés b) pontja alkalmazható ezen módosítások hatálybalépését megelőzően teljesített ügyletekre is.
 
 330. § E törvénynek a Mód10 törvénnyel módosított 165. § (1) bekezdés b) pontja alkalmazható a 2018. december 31-ét követően teljesített ügyletek esetében is.
+
+331. § (1) E törvénynek a Mód10 törvénnyel megállapított 12/A. §-át és 182. §-át abban az esetben kell először alkalmazni, amikor az adóalany 2019. december 31-ét követően továbbít belföldről terméket egy másik tagállamba. E törvénynek a Mód10 törvénnyel megállapított 22. § (3)–(6) bekezdését és 183. §-át abban az esetben kell először alkalmazni, amikor az adóalany 2019. december 31-ét követően továbbít másik tagállamból terméket belföldre.
+
+(2) E törvénynek a Mód10 törvénnyel megállapított 27. § (2) bekezdését abban az esetben kell először alkalmazni, amikor a sorban első értékesítő által teljesített termékértékesítés 2019. december 31-ét követi.
+
+(3) E törvénynek a Mód10 törvénnyel megállapított 89. § (1a) bekezdését arra a termékértékesítésre kell először alkalmazni, amelynek teljesítési időpontja 2019. december 31-ét követi.
+
+332. § E törvénynek a Mód10 törvénnyel megállapított 77. § (7)–(10) bekezdése, 259. § 3/A. pontja, valamint a Mód10 törvénnyel módosított 153/D. §-a azokban az esetekben is alkalmazható, amikor a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontja 2020. január 1. napját megelőzi, de 2015. december 31. napját követő időpontra esik.
+
+334. § A 3. számú melléklet II. részének az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2020. január 1-jére vagy azt követő időpontra esik.
+
+335. § A felnőttképzésről szóló 2013. évi LXXVII. törvénynek a szakképzésről szóló 2019. évi LXXX. törvény hatálybalépésével összefüggő módosító és hatályon kívül helyező rendelkezésekről szóló 2019. évi CXII. törvény hatálybalépését megelőző napon hatályos rendelkezései szerinti felnőttképzési tevékenységhez kapcsolódó mentességre e törvény 85. § (2) bekezdés a) és b) pontjának 2019. augusztus 31-én hatályos rendelkezéseit kell alkalmazni.
 
 336. § (1) Az egyszerűsített vállalkozói adó alanya – az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 2020. január 1. napjával történő hatályon kívül helyezése következtében keletkező adóalanyiságához kapcsolódóan – 2020. január 15. napjáig teljesíti az Art. 16. § (2) bekezdése szerinti nyilatkozattételi kötelezettséget. A határidő elmulasztása miatt igazolási kérelem benyújtásának nincs helye.
 
@@ -3648,11 +3685,12 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
   - b) Finn Köztársaság: – Aland szigetek;
   - c) Francia Köztársaság: - az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikkének (1) bekezdésében említett francia területek;
   - d) Görög Köztársaság: – Athosz-hegy;
-  - e) Spanyol Királyság: – Kanári-szigetek.
+  - e) Spanyol Királyság: – Kanári-szigetek;
+  - f) Olasz Köztársaság: – Campione d'Italia, – a Luganói-tó olaszországi vizei.
 - 3. A Közösség területe, ezzel együtt a tagállam területe nem foglalja magában a következő tagállamok alábbiak szerint meghatározott részét, amely részek nem tartoznak a Közösség vámterületéhez:
   - a) Egyesült Királyság: – Gibraltár;
   - b) Németországi Szövetségi Köztársaság: – Büsingen területe, – Helgoland szigete;
-  - c) Olasz Köztársaság: – Campione d' Italia, – Livigno, – Luganói-tó olaszországi vizei;
+  - c) Olasz Köztársaság: – Livigno;
   - d) Spanyol Királyság: – Ceuta, – Melilla.
 - 4. E törvény alkalmazásában nem minősül harmadik államnak:
   - a) Man-sziget,
@@ -3738,8 +3776,8 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 47. | Háziasított kecskehús, fagyasztva, egész vagy fél | 0204 50 51-ből |
 | 48. | Háziasított kecskehús, fagyasztva, rövid elülső negyed | 0204 50 53-ból |
 | 49. | Házi sertéshús frissen, hűtve vagy fagyasztva | 0203-ból (kivéve: 0203 1110, 0203 2110) |
-| 50. | A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan, többlakásos lakóingatlanban kialakítandó vagy kialakított lakás, amelynek összes hasznos alapterülete nem haladja meg a 150 négyzetmétert |  |
-| 51. | A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan egylakásos lakóingatlan, amelynek összes hasznos alapterülete nem haladja meg a 300 négyzetmétert |  |
+| 50. |  |  |
+| 51. |  |  |
 | 52. | A 0105 vtsz. alá tartozó baromfi élelmezési célra alkalmas húsa, vágási mellékterméke és belsősége frissen, hűtve vagy fagyasztva | 0207 |
 | 53. | Madártojás héjában, frissen | 0407-ből |
 | 54. | Tej (kivéve az anyatejet) | 040110-ből 0401 20-ból |
@@ -3780,6 +3818,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 2. | Előadóművész személyes közreműködésévela) vendéglátás keretében, üzletben,b) nem nyilvánosan meghirdetett családi esemény, baráti rendezvény keretében, zárt körben, vagyc) belépődíj nélkül tartott, a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet hatálya alá nem tartozó, közösségi rendezvényeken nyújtott hangszeres élőzenei szolgáltatás. |
 | 3. | Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom (TESZOR’15 56.10-ből) |
 | 4. | Internet-hozzáférési szolgáltatás |
+| 5. | Kereskedelmi szálláshely-szolgáltatás |
 
 ### 3/A. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -3798,7 +3837,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 | Sorszám | Megnevezés |
 | --- | --- |
-| 1. | Kereskedelmi szálláshely-szolgáltatás |
+| 1. |  |
 | 2. | A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet 2012. január 1. napján hatályos állapota szerint meghatározott alkalmi szabadtéri rendezvényre történő, kizárólag belépést biztosító szolgáltatás. |
 | 3. |  |
 | 4. |  |
@@ -3922,6 +3961,10 @@ f) a Közösség más tagállamában adószámmal rendelkező adóalanytól megv
 g) a c)–f) pontokban meghatározott ügyletek adó nélkül számított összesített ellenértékéről beszerzőnkénti, igénybevevőnkénti (értékesítőnkénti, nyújtónkénti) részletezésben, illetve a 89. § (4) bekezdése hatálya alá tartozó ügyletek összesített ellenértékéről,
 
 h) a 77. § szerinti utólagos adóalap csökkentés esetén a korrekció összegéről (összesítő nyilatkozat).
+
+1/A. Az 1. pontban említetteken túl az adóalany nyilatkozik azon adóalany adószámáról, akinek (amelynek) a 12/A. § szerint terméket adtak fel vagy fuvaroztak el, valamint az ezekben az adatokban a benyújtást követően bekövetkezett változásokról – ideértve a terméknek a belföldre történő továbbítását is.
+
+Az 1. pontban említetteken túl az adóalany nyilatkozik azon adóalany adószámáról, aki (amely) a részére úgy továbbított terméket, hogy az tartalmában megfelel a Közösség azon tagállama jogának – összhangban a Héa-irányelv 17a. cikkben foglaltakkal –, amely tagállamból a terméket továbbította.
 
 2. Az összesítő nyilatkozatot a havi bevallásra kötelezett adóalany havonta, a tárgyhónapot követő hónap 20. napjáig, a negyedéves bevallásra kötelezett adóalany negyedévente, a tárgynegyedévet követő hónap 20. napjáig nyújtja be az állami adó- és vámhatósághoz.
 

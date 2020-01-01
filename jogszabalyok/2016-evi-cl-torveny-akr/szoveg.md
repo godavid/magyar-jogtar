@@ -266,7 +266,7 @@ az a hatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 - a) az ügyben a megkereső hatóság illetékességi területén kívül kell eljárási cselekményt végezni, vagy
 - b) az eljárás során szükséges adattal vagy irattal más rendelkezik.
 
-(2) A megkeresett szerv a megkeresés teljesítését megtagadja, ha az nem tartozik a hatáskörébe, vagy arra nem illetékes.
+(2) A megkeresett szerv a megkeresés teljesítését megtagadja, ha az nem tartozik a hatáskörébe, vagy arra nem illetékes. Ha a megkeresés teljesítésére más szerv jogosult, a megkeresett szerv a megkeresést haladéktalanul e szervhez továbbítja, és erről a megtagadással egyidejűleg tájékoztatja a megkereső hatóságot.
 
 #### 12. A kapcsolattartás általános szabályai
 
@@ -284,7 +284,7 @@ az a hatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 
 (1) A hatóság az ügyfél és az eljárás egyéb résztvevője azonosításához szükséges természetes személyazonosító adatokat és az ügyfajtát szabályozó törvényben meghatározott személyes adatokat, továbbá – ha törvény másként nem rendelkezik – az eljárás eredményes lefolytatásához elengedhetetlenül szükséges más személyes adatokat kezeli.
 
-(2) A hatóság gondoskodik arról, hogy a törvény által védett titok (a továbbiakban: védett adat) ne kerüljön nyilvánosságra, ne juthasson illetéktelen személy tudomására, és a személyes adatok védelme biztosított legyen.
+(2) A hatóság gondoskodik arról, hogy a törvény által védett titok és törvény által védett egyéb adat (a továbbiakban együtt: védett adat) ne kerüljön nyilvánosságra, ne juthasson illetéktelen személy tudomására, és e védett adatok törvényben meghatározott védelme a hatóság eljárásában is biztosított legyen.
 
 (3) A hatóság az eljárása során annak lefolytatásához – jogszabályban meghatározott módon és körben – kezeli azokat a védett adatokat, amelyek eljárásával összefüggnek, illetve amelyek kezelése az eljárás eredményes lefolytatása érdekében szükséges.
 
@@ -292,11 +292,18 @@ az a hatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 
 #### 28. § [Az adatok zárt kezelése]
 
-(1) Indokolt esetben a hatóság kérelemre vagy hivatalból elrendeli az ügyfél és az eljárás egyéb résztvevője természetes személyazonosító adatainak és lakcímének zárt kezelését, ha az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti. A végzést a kérelmet előterjesztővel kell közölni.
+(1) A hatóság kérelemre vagy hivatalból elrendeli az ügyfél illetve az eljárás egyéb résztvevője természetes személyazonosító adatainak és lakcímének zárt kezelését, ha
+
+- a) őt az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti, vagy
+- b) ugyanazon tényállás alapján a jogerősen vagy véglegesen lezárt, vagy párhuzamosan zajló és a hatóság előtt ismert más bírósági vagy hatósági eljárásban az ügyfél vagy az eljárás egyéb résztvevője adatainak zárt kezelését rendelték el.
 
 (2) A szakértő az (1) bekezdésben foglaltak szerint az igazságügyi szakértői névjegyzék nyilvános adatain kívüli természetes személyazonosító adatai és lakcíme zárt kezelését kérheti.
 
-(3) A természetes személyazonosító adatokat és a lakcímet a hatóság az ügy iratai között elkülönítve, zártan kezeli és biztosítja, hogy a zártan kezelt adatok az eljárási cselekmények során ne váljanak megismerhetővé.
+(3) A hatóság
+
+- a) az adatok zárt kezeléséről szóló végzést kizárólag azzal közli, akinek adatai zárt kezelését elrendelte,
+- b) a természetes személyazonosító adatokat és a lakcímet az ügy iratai között elkülönítve, zártan kezeli és
+- c) biztosítja, hogy a zártan kezelt adatok az eljárási cselekmények során ne váljanak megismerhetővé.
 
 #### 15. A kiskorú, a cselekvőképtelen és a cselekvőképességében részlegesen korlátozott nagykorú, valamint a fogyatékossággal élő személy eljárási védelme
 
@@ -468,12 +475,7 @@ Ha az automatikus döntéshozatali eljárásban és a sommás eljárásban hozot
 
 #### 44. § [A hiánypótlás]
 
-Ha a kérelem a jogszabályban foglalt követelményeknek
-
-- a) nem felel meg, vagy
-- b) megfelel, de a tényállás tisztázása során felmerült új adatra tekintettel az szükséges,
-
-az eljáró hatóság határidő megjelölésével, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – ha törvény vagy kormányrendelet másként nem rendelkezik – egy ízben hiánypótlásra hívja fel a kérelmezőt.
+Ha a kérelem a jogszabályban foglalt követelményeknek nem felel meg, az eljáró hatóság határidő megjelölésével, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – ha törvény vagy kormányrendelet másként nem rendelkezik – egy ízben hiánypótlásra hívja fel a kérelmezőt.
 
 #### 21. A kapcsolódó eljárás
 
@@ -518,11 +520,11 @@ az eljáró hatóság határidő megjelölésével, a mulasztás jogkövetkezmé
 - b) a kérelmező ügyfél a hatóság felhívására nem nyilatkozik, és ennek hiányában a kérelem nem bírálható el, és az eljárást hivatalból nem folytatja,
 - c) az eljárás okafogyottá vált,
 - d) az ügyfél nem tesz eleget eljárási költség előlegezési kötelezettségének,
-- e) az eljárás kérelemre indult, és valamennyi kérelmező ügyfél kérelmét visszavonta, illetve ahhoz az ellenérdekű ügyfelek hozzájárultak, és az eljárás hivatalból nem folytatható,
+- e) az eljárás kérelemre indult, és valamennyi kérelmező ügyfél kérelmét visszavonta, illetve ahhoz az ellenérdekű ügyfelek az ellenérdekű ügyféllel szemben, kérelemre indított eljárásban (a továbbiakban: jogvitás eljárás) hozzájárultak, és az eljárás hivatalból nem folytatható,
 - f) a hatóság megállapítja, hogy az ügyben más hatóság már eljárt, vagy más hatóság kijelölésére került sor, vagy
 - g) az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ (a továbbiakban: előkérdés), amely bíróság vagy más szerv hatáskörébe tartozik, és az ügyfél a hatóságnak az eljárás megindítására vonatkozó felhívásának nem tesz eleget.
 
-(2) Az (1) bekezdés f) pontja szerinti esetben a hatóság szükség esetén a döntést visszavonja, és erről szóló döntését a korábban eljárt vagy kijelölt hatósággal is közli.
+(2) Az (1) bekezdés e) és f) pontja szerinti esetben a hatóság szükség esetén a döntést visszavonja, és az (1) bekezdés f) pontja szerinti esetben erről szóló döntését a korábban eljárt vagy kijelölt hatósággal is közli.
 
 #### 24. Az eljárás felfüggesztése és szünetelése
 
@@ -619,7 +621,7 @@ az eljárás lefolytatásáért illetéknek vagy díjnak megfelelő összeget, e
 
 (4) A határidő elmulasztása esetén az igazolási kérelemmel egyidejűleg pótolni kell az elmulasztott cselekményt is, ha ennek feltételei fennállnak.
 
-(5) Az igazolási kérelem előterjesztése és a kérelem alapján megismételt eljárási cselekmény határidejének elmulasztása miatt nincs helye igazolásnak.
+(5) Az igazolási kérelem előterjesztése és a kérelem alapján megismételt eljárási cselekmény határidejének vagy határnapjának elmulasztása miatt nincs helye igazolásnak.
 
 #### 54. § [Az igazolási kérelem elfogadásának joghatása]
 
@@ -835,7 +837,7 @@ Ha a tényállás tisztázása azt szükségessé teszi, a hatóság az ügyfele
 
 (1) A hatóság tárgyalást tart, ha
 
-- a) a tényállás tisztázásához szükség van a felek együttes meghallgatására, az ellenérdekű ügyféllel szemben, kérelemre indított eljárásban (a továbbiakban: jogvitás eljárás),
+- a) a tényállás tisztázásához jogvitás eljárásban szükség van a felek együttes meghallgatására,
 - b) az ügy természete lehetővé teszi, ellenérdekű ügyfelek részvételével zajló eljárásban, vagy
 - c) a tényállás tisztázásához szükség van az eljárásban részt vevő személyek együttes meghallgatására.
 
@@ -875,7 +877,7 @@ Ha a hatóság az ügyben bizonyítási eljárást folytatott le, melynek során
 
 #### 78. § [Az eljárási cselekmények rögzítése]
 
-(1) A szóbeli kérelemről – ha azt nyomban nem teljesítik –, valamint a tényállás tisztázása érdekében lefolytatott eljárási cselekményről az ügyfél vagy az eljárás más résztvevője részvétele esetén jegyzőkönyvet, más esetben feljegyzést kell készíteni.
+(1) A személyesen előterjesztett kérelemről – ha azt nyomban nem teljesítik –, valamint a tényállás tisztázása érdekében lefolytatott eljárási cselekményről az ügyfél vagy az eljárás más résztvevője részvétele esetén jegyzőkönyvet, más esetben feljegyzést kell készíteni.
 
 (2) A feljegyzés tartalmazza készítésének helyét és idejét, az eljárási cselekményen részt vevő személyek azonosításához szükséges adatokat, nyilatkozataik lényegét, illetve a cselekmény lefolytatása során a tényállás tisztázásával összefüggő ténymegállapításokat. A jegyzőkönyv ezen túlmenően tartalmazza a jogokra és kötelezettségekre való figyelmeztetést.
 
@@ -913,14 +915,14 @@ Ha a hatóság az ügyben bizonyítási eljárást folytatott le, melynek során
 
 #### 81. § [A döntés tartalma és formája]
 
-(1) A döntés tartalmazza az eljáró hatóság, az ügyfelek és az ügy azonosításához szükséges minden adatot, a rendelkező részt – a hatóság döntésével, a szakhatóság állásfoglalásával, a jogorvoslat igénybevételével kapcsolatos tájékoztatással és a felmerült eljárási költséggel –, továbbá a megállapított tényállásra, a bizonyítékokra, a szakhatósági állásfoglalás indokolására, a mérlegelés és a döntés indokaira, valamint az azt megalapozó jogszabályhelyek megjelölésére is kiterjedő indokolást.
+(1) A döntés tartalmazza az eljáró hatóság, az ügyfelek és az ügy azonosításához szükséges minden adatot a zártan kezelt és védett adatok kivételével, a rendelkező részt – a hatóság döntésével, a szakhatóság állásfoglalásával, a jogorvoslat igénybevételével kapcsolatos tájékoztatással és a felmerült eljárási költséggel –, továbbá a megismerhetetlenné tett zártan kezelt és védett adatokkal együtt megállapított tényállásra, a bizonyítékokra, a szakhatósági állásfoglalás indokolására, a mérlegelés és a döntés indokaira, valamint az azt megalapozó jogszabályhelyek megjelölésére is kiterjedő indokolást.
 
 (2) Jogorvoslatról való tájékoztatást mellőző, az indokolásban pedig csak az azt megalapozó jogszabályhelyek megjelölését tartalmazó egyszerűsített döntés hozható
 
 - a) ha a hatóság a kérelemnek teljes egészében helyt ad, és az ügyben nincs ellenérdekű ügyfél, vagy a döntés az ellenérdekű ügyfél jogát vagy jogos érdekét nem érinti, vagy
 - b) az egyezség jóváhagyásáról.
 
-(3) Az önállóan nem fellebbezhető végzésről az indokolásban csak az azt megalapozó jogszabályhelyek megjelölését tartalmazó egyszerűsített döntés hozható.
+(3) Az önálló jogorvoslattal nem támadható végzésről az indokolásban csak az azt megalapozó jogszabályhelyek megjelölését tartalmazó egyszerűsített döntés hozható.
 
 (4) A hatóság a döntést külön okiratban szövegezi meg, jegyzőkönyvbe foglalja vagy az ügyiratra feljegyzi.
 
@@ -1177,6 +1179,8 @@ A hatóság – a hatáskörének keretei között – ellenőrzi a jogszabályb
 - c) törvény kizárja, vagy
 - d) a hatóság ugyanazon ügyfél kérelmére az újabb kérelem benyújtását megelőző egy éven belül lefolytatott ellenőrzése során jogsértést nem tárt fel, kivéve, ha a kérelem benyújtására az ellenőrzés lefolytatását követően felmerült ok vagy körülmény miatt kerül sor.
 
+(3) Kérelemre elrendelt hatósági ellenőrzés esetén helye van az eljárás megszüntetésének, ha az ügyfél eljárási költség előlegezési kötelezettségének nem tesz eleget.
+
 #### 55. A hatósági ellenőrzés lezárása
 
 #### 101. § [A hatósági ellenőrzés lezárására vonatkozó általános szabályok]
@@ -1313,7 +1317,23 @@ A jogorvoslati eljárásban e törvény rendelkezéseit az e fejezetben foglalt 
 
 #### 112. § [A jogorvoslathoz való jog]
 
-A hatóság határozata ellen önálló jogorvoslatnak van helye. A hatóság végzése ellen önálló jogorvoslatnak akkor van helye, ha azt törvény megengedi, egyéb esetben a végzés elleni jogorvoslati jog a határozat, ennek hiányában az eljárást megszüntető végzés ellen igénybe vehető jogorvoslat keretében gyakorolható.
+(1) A hatóság határozata ellen önálló jogorvoslatnak van helye. A hatóság végzése ellen önálló jogorvoslatnak akkor van helye, ha azt törvény megengedi, egyéb esetben a végzés elleni jogorvoslati jog a határozat, ennek hiányában az eljárást megszüntető végzés ellen igénybe vehető jogorvoslat keretében gyakorolható.
+
+(2) Önálló jogorvoslatnak van helye
+
+- a) az ideiglenes biztosítási intézkedésről szóló,
+- b) az ügyféli jogállásról vagy jogutódlásról rendelkező,
+- c) a kérelmet visszautasító,
+- d) az eljárást megszüntető,
+- e) az eljárás felfüggesztése vagy szünetelése tárgyában hozott,
+- f) az eljárási bírságot kiszabó,
+- g) a fellebbezési határidő elmulasztása miatt benyújtott igazolási kérelmet elutasító,
+- h) a zár alá vételt vagy lefoglalást elrendelő, valamint ezek megszüntetése iránti kérelmet elutasító,
+- i) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott elutasító,
+- j) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott, valamint
+- k) az eljárási költség megállapításával és viselésével kapcsolatos, a költségmentesség iránti kérelmet elutasító, a költségmentesség módosításáról vagy visszavonásáról szóló
+
+végzés ellen.
 
 #### 113. § [Jogorvoslati eljárások]
 
@@ -1332,7 +1352,7 @@ A hatóság határozata ellen önálló jogorvoslatnak van helye. A hatóság v�
 
 #### 114. § [A közigazgatási per lehetősége]
 
-(1) Az ügyfél – az önálló fellebbezéssel nem támadható végzések kivételével – a véglegessé vált döntés ellen közigazgatási pert indíthat. Fellebbezéssel támadható döntés esetén közigazgatási per akkor indítható, ha az arra jogosultak valamelyike fellebbezett és a fellebbezést elbírálták.
+(1) Az ügyfél – az önálló jogorvoslattal nem támadható végzések kivételével – a véglegessé vált döntés ellen közigazgatási pert indíthat. Fellebbezéssel támadható döntés esetén közigazgatási per akkor indítható, ha az arra jogosultak valamelyike fellebbezett és a fellebbezést elbírálták.
 
 (2) Ha a jogsértés megszüntetésére felszólító ügyészi felhívásban megállapított határidő eredménytelenül eltelt, az ügyész közigazgatási pert indíthat a hatóság véglegessé vált döntése ellen, vagy a hatóság eljárási kötelezettségének elmulasztása esetén a hatóság eljárásra kötelezése iránt.
 
@@ -1356,26 +1376,12 @@ A hatóság határozata ellen önálló jogorvoslatnak van helye. A hatóság v�
 
 (2) Fellebbezésnek van helye, ha a határozatot
 
-- a) járási (kerületi) hivatal vezetője vagy – a képviselő testület kivételével – helyi önkormányzat szerve, vagy
+- a) – a képviselő testület kivételével – helyi önkormányzat szerve, vagy
 - b) rendvédelmi szerv helyi szerve
 
 hozta.
 
-(3) Önálló fellebbezésnek van helye
-
-- a) az ideiglenes biztosítási intézkedésről szóló,
-- b) az ügyféli jogállásról vagy jogutódlásról rendelkező,
-- c) a kérelmet visszautasító,
-- d) az eljárást megszüntető,
-- e) az eljárás felfüggesztése vagy szünetelése tárgyában hozott,
-- f) az eljárási bírságot kiszabó,
-- g) a fellebbezési határidő elmulasztása miatt benyújtott igazolási kérelmet elutasító,
-- h) a zár alá vételt vagy lefoglalást elrendelő, valamint ezek megszüntetése iránti kérelmet elutasító,
-- i) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott elutasító,
-- j) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott, valamint
-- k) az eljárási költség megállapításával és viselésével kapcsolatos, a költségmentesség iránti kérelmet elutasító, a költségmentesség módosításáról vagy visszavonásáról szóló
-
-elsőfokú végzés ellen.
+(3) Abban az ügyben, amelyben a határozat az (1) vagy (2) bekezdés alapján fellebbezéssel támadható, az önálló jogorvoslattal támadható végzés ellen fellebbezésnek van helye.
 
 (4) Az (1) és (2) bekezdésben foglalt esetekben sincs helye fellebbezésnek
 
@@ -1681,6 +1687,8 @@ Ez a törvény 2018. január 1. napján lép hatályba.
 - b) a törvény hatálybalépésekor folyamatban lévő
 
 végrehajtási eljárásokra is alkalmazni kell.
+
+(2a) E törvény 116. § (2) bekezdésének az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel módosított a) pontját a 2020. március 1. napját követően indult és a megismételt eljárásokban kell alkalmazni.
 
 (3) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény alapján kiadott jogerős hatósági döntéseket e törvény alkalmazásában véglegessé vált döntésnek kell tekinteni. E törvény alkalmazásában, ahol jogszabály
 

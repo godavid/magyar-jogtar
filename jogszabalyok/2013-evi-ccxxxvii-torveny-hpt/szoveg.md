@@ -141,6 +141,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 36. harmadik országbeli pénzügyi intézmény: a harmadik országbeli hitelintézet és a harmadik országbeli pénzügyi vállalkozás;
 - 37. harmadik országbeli pénzügyi vállalkozás: az a pénzügyi vállalkozás, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik egy vagy több olyan tevékenység végzésére, amelyek megfeleltethetők a 3. § (1) bekezdés b)–c) és g)–l) pontjában, valamint a (2) bekezdés a)–d) pontjában foglaltaknak, és amelynek székhelye harmadik országban van;
 - 38. határon átnyúló szolgáltatás: olyan pénzügyi, illetve kiegészítő pénzügyi szolgáltatás nyújtása, amikor a szolgáltatás nyújtása nem a szolgáltatást nyújtó székhelyével, telephelyével, főirodájával, fióktelepével azonos országban történik, és a szolgáltatást igénybe vevő ügyfél telephelye, lakóhelye (lakcíme) sem abban az országban van, amelyben a szolgáltatást nyújtó székhelye, telephelye, főirodája, fióktelepe;
+- 38a. helyreállítási képesség: a hitelintézet azon képessége, hogy stabilizálja pénzügyi helyzetét, ha az jelentős mértékben romlik;
 - 39. helyreállítási terv: olyan terv, amelyben foglalt a hitelintézet által végrehajtandó lépések a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás igénybevétele nélkül – biztosítják a hitelintézet pénzügyi helyzetének stabilizálódását;
 - 40. hitel és pénzkölcsön nyújtása:
   - a) hitelnyújtás: a hitelező és az adós között írásban létesített hitelszerződés alapján meghatározott hitelkeret rendelkezésre tartása az adós részére, jutalék ellenében és a hitelező kötelezettségvállalása meghatározott szerződési feltételek megléte esetén a kölcsönszerződés megkötésére vagy egyéb hitelművelet végzésére,
@@ -460,22 +461,22 @@ végez (a továbbiakban együtt: független közvetítő).
 
 12. § (1) A (2) bekezdésben meghatározott kivétellel
 
-- a) bank legalább kettőmilliárd forint,
+- a) bank legalább négymilliárd forint,
 - b) szövetkezeti hitelintézet – kizárólag szövetkezeti formában – legalább háromszázmillió forint
 
 induló tőkével alapítható.
 
 (2) Az induló tőkére vonatkozó – e törvényben meghatározott – követelmények nem alkalmazandóak a központi szervhez tartósan kapcsolt hitelintézetre.
 
-(3) Szakosított hitelintézet a rá vonatkozó külön törvényi szabályozással meghatározott induló tőkével alapítható.
+(3) Szakosított hitelintézet a rá vonatkozó törvényi szabályozással meghatározott induló tőkével alapítható.
 
-(4) Pénzügyi vállalkozás – kivéve a pénzügyi holding társaságot és a fizetési rendszert működtető pénzügyi vállalkozást – legalább ötvenmillió forint induló tőkével alapítható.
+(4) Pénzügyi vállalkozás – kivéve a hitel- és pénzkölcsönt nyújtó pénzügyi vállalkozást, a pénzügyi holding társaságot és a fizetési rendszert működtető pénzügyi vállalkozást – legalább százmillió forint induló tőkével alapítható.
 
-(5) Harmadik országbeli hitelintézet fióktelepe – ha törvény másként nem rendelkezik – legalább kétmilliárd forint dotációs tőkével alapítható.
+(5) Harmadik országbeli hitelintézet fióktelepe – ha törvény másként nem rendelkezik – legalább négymilliárd forint dotációs tőkével alapítható.
 
-(6)
+(6) Hitel- és pénzkölcsönt nyújtó pénzügyi vállalkozás legalább százötven millió forint induló tőkével alapítható.
 
-(7) Pénzügyi holding társaság legalább kettőmilliárd forint induló tőkével alapítható.
+(7) Pénzügyi holding társaság legalább négymilliárd forint induló tőkével alapítható.
 
 (8) A fizetési rendszert működtető pénzügyi vállalkozás – a (9) bekezdésben meghatározott kivétellel – legalább ötszázmillió forint induló tőkével alapítható.
 
@@ -2010,7 +2011,7 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 112. § (1) A mérlegfőösszeg tekintetében legalább öt százalékos piaci részesedéssel rendelkező hitelintézet jelölő bizottságot állít fel.
 
-(2) A jelölő bizottság tagjai a vezető testület olyan tagjai közül kerülnek ki, akik az érintett hitelintézettel nem állnak munkaviszonyban. Ha a hitelintézet irányítási jogkörrel rendelkező vezető testületében nincs legalább három olyan tag, aki nem áll munkaviszonyban a hitelintézettel, akkor a jelölő bizottságban a felügyeleti jogkörrel rendelkező vezető testület független tagjai is részt vehetnek.
+(2) A jelölő bizottság tagjai a felügyeleti jogkörrel rendelkező vezető testület olyan tagjai közül kerülhetnek ki, akik az érintett hitelintézetben nem látnak el ügyvezetői feladatokat.
 
 (3) A jelölő bizottság feladata:
 
@@ -2025,13 +2026,13 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 (4) A jelölések során törekedni kell arra, hogy az irányítási jogkörrel rendelkező vezető testületben minél szélesebb szakismerettel rendelkező tagok vegyenek részt, és ennek előmozdítására a hitelintézet belső politikát dolgoz ki.
 
-(5) A Felügyelet a (4) bekezdés szerinti politikát felhasználva elemzéseket és összehasonlításokat végez a hitelintézetek gyakorlatáról, amelyeket megküld az Európai Bankhatóság (a továbbiakban: EBH) számára.
+(5) A hitelintézet közzéteszi a (3) bekezdés f) pontjában meghatározott nemek arányát, annak eléréséhez meghatározott stratégiáját és a stratégia végrehajtásának módját.
 
-(6) A hitelintézet közzéteszi a (3) bekezdés f) pontjában meghatározott nemek arányát, annak eléréséhez meghatározott stratégiáját és a stratégia végrehajtásának módját.
+(6) A Felügyelet a (4) és (5) bekezdés szerinti politikát felhasználva elemzéseket és összehasonlításokat végez a hitelintézetek gyakorlatáról, amelyeket megküld az Európai Bankhatóság (a továbbiakban: EBH) számára.
 
 (7) A jelölő bizottság számára a hitelintézet biztosítja a (3) bekezdésben meghatározott feladatai ellátásához szükséges megfelelő erőforrásokat, az adatokhoz és információkhoz való hozzáférést, és indokolt esetben külső tanácsadó igénybevételét.
 
-113. § (1) Az irányítási jogkörrel rendelkező vezető testület tagjai megfelelő időt fordítanak a hitelintézetnél vállalt funkciójuk ellátására.
+113. § (1) A vezető testület tagjai megfelelő időt fordítanak a hitelintézetnél vállalt funkciójuk ellátására.
 
 (2) A hitelintézet megfelelő humán és pénzügyi erőforrást biztosít az irányítási jogkörrel rendelkező vezető testület tagjainak képzésére.
 
@@ -2168,7 +2169,7 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 - a) a hitelintézet pénzügyi helyzete fenntartható, és
 - b) a hitelintézet, az érintett szervezeti egység és a vezető állású személy vagy munkavállaló teljesítménye azt indokolttá teszi.
 
-(11) A teljesítményjavadalmazás legalább 50 százaléka a következőkből áll:
+(11) A teljesítményjavadalmazás legalább 50 százaléka a következő elemekből, vagy azok egyensúlyban lévő kombinációjából áll:
 
 - a) az érintett hitelintézet részvényeiből vagy tulajdoni részesedéseiből az érintett hitelintézet jogi formájától függően és abból eredő sajátosságainak figyelembevételével, illetve a szabályozott piacra be nem vezetett hitelintézet esetében részvényhez kötött eszközökből vagy azokkal egyenértékű nem készpénz alapú eszközökből, és
 - b) olyan teljesítményjavadalmazás céljára felhasználható kiegészítő alapvető tőkéből, járulékos tőkéből vagy egyéb instrumentumokból, amelyek
@@ -2177,7 +2178,9 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 amelyek folyamatosan tükrözik a hitelintézet kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik.
 
-(12) A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább hatvan százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően három évnél rövidebb időtartamú munkaviszony esetén a munkaviszony megszűnésekor, egyébként három–ötéves időszak alatt kell kifizetni.
+(12) A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább hatvan százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően legalább három-ötéves időszak alatt elosztva kell kifizetni. A halasztási időszak hosszát az üzleti ciklusnak, az üzlet jellegének, kockázatainak és az érintett munkavállaló tevékenységeinek megfelelően kell megállapítani.
+
+(12a) A teljesítményjavadalmazást csökkenteni kell, ha a hitelintézet pénzügyi teljesítménye jelentősen visszaesik vagy negatív, figyelembe véve az aktuális javadalmazást és a csökkentési vagy visszakövetelési szabályokat.
 
 (13) A teljesítményjavadalmazás 100 százalékára csökkentési lehetőség vagy visszakövetelési szabályok alkalmazandóak. A hitelintézet a belső szabályzatában konkrét kritériumokat határoz meg a csökkentési vagy a visszakövetelési szabályok alkalmazására, amelyben tekintettel van arra, hogy a vezető állású személy vagy a munkavállaló
 
@@ -2194,7 +2197,10 @@ amelyek folyamatosan tükrözik a hitelintézet kitettségeinek minőségét azz
 
 (2) Az előző munkaviszony alapján fennálló, szerződésből következő teljes javadalmazás átvállalásával vagy az előző teljes javadalmazásból következő kompenzáció révén adott újabb teljes javadalmazás összhangban áll a hitelintézet hosszú távú érdekeivel, ideértve a visszatartási, a halasztási, a teljesítmény- és a visszakövetelési megállapodásokat is.
 
-(3) Ha a hitelintézet a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, az összhangban áll a hitelintézet üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel. Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár, a hitelintézet a munkaviszony megszűnése után ötéves visszatartási időszak figyelembevételével fizetheti ki ezen juttatásokat a 118. § (11) bekezdésben meghatározott eszközök formájában.
+(3) Ha a hitelintézet a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, az összhangban áll a hitelintézet üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel. Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár és a vezető állású személy, munkavállaló
+
+- a) a nyugdíjazása előtt távozik a hitelintézettől, akkor a hitelintézetnek a 118. § (11) bekezdésében meghatározott eszközök formájában öt évig vissza kell tartania a nem kötelező nyugdíjjuttatásokat,
+- b) eléri a nyugdíjazását, akkor a hitelintézet a munkaviszony megszűnése után ötéves visszatartási időszak figyelembevételével fizetheti ki ezen juttatásokat a 118. § (11) bekezdésében meghatározott eszközök formájában.
 
 120. § (1) A hitelintézet ellenőrzési feladatokat végző munkavállalói – ideértve a belső kontroll feladatkört ellátó munkavállalókat is – javadalmazása független az általuk felügyelt szervezeti egységek teljesítményétől, az a feladatkörükhöz kapcsolódó célkitűzések elérésén alapul.
 
@@ -2664,7 +2670,7 @@ vizsgálata, és
 - a) a 155. § (3) bekezdésben meghatározott szakirányú felsőfokú iskolai végzettséggel vagy mérlegképes könyvelői szakképesítéssel és legalább hároméves szakmai gyakorlattal rendelkezik és
 - b) büntetlen előéletű.
 
-(12) A belső ellenőrzési szervezeti egység feladatait, a belső ellenőrrel szemben támasztott szakmai követelményeket, a rendelkezésére bocsátandó informatikai és egyéb technikai feltételeket, valamint az ellenőrzés lefolytatásának eljárási szabályait az irányítási jogkörrel rendelkező vezető testület belső ellenőrzési szabályzatban rögzíti azzal, hogy legalább évente felülvizsgálja annak tartalmát. A belső ellenőrzési szabályzatra nem terjed ki a (2) bekezdés f) pontja szerinti ellenőrzés.
+(12) A belső ellenőrzési szervezeti egység feladatait, a belső ellenőrrel szemben támasztott szakmai követelményeket, a rendelkezésére bocsátandó informatikai és egyéb technikai feltételeket, valamint az ellenőrzés lefolytatásának eljárási szabályait – ideértve az ellenőrzött szervezeti egység és annak munkatársai részéről tanúsítandó együttműködést is – az irányítási jogkörrel rendelkező vezető testület belső ellenőrzési szabályzatban rögzíti azzal, hogy legalább évente felülvizsgálja annak tartalmát. A belső ellenőrzési szabályzatra nem terjed ki a (2) bekezdés f) pontja szerinti ellenőrzés.
 
 #### 67. Ügyvezetés
 
@@ -4004,13 +4010,13 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 (5) Az igazgatótanács tagjai közül évenként elnököt és alelnököt választ. Nem választható elnökké és alelnökké az ügyvezető.
 
-(6) Az igazgatótanács ülésein az OBA ügyvezető igazgató-helyettese tanácskozási joggal vehet részt.
+(6)
 
 #### 92. Az OBA igazgatótanácsának feladata
 
 224. § (1) Az igazgatótanács
 
-- a) irányítja és ellenőrzi az OBA gazdálkodási és egyéb – ide nem értve az ügyvezető igazgató-helyettes által irányított, illetve az OBA munkaszervezete által jogszabály alapján más jogi személy részére végzett – tevékenységét a jogszabályokban foglalt rendelkezések figyelembevételével,
+- a) irányítja és ellenőrzi az OBA gazdálkodási és egyéb – ide nem értve az OBA munkaszervezete által jogszabály alapján más jogi személy részére végzett – tevékenységét a jogszabályokban foglalt rendelkezések figyelembevételével,
 - b) elfogadja az OBA szabályzatait,
 - c) meghatározza az OBA ügyvezetőjének, megbízottainak feladatait, megállapítja díjazásukat,
 - d) dönt az egyes feladatokra esetileg létrehozott különleges bizottságok összetételéről,
@@ -4024,7 +4030,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 - l) dönt a kizárásokról,
 - m) határoz a 234. § (6)–(8) bekezdése szerinti megemelt, illetve rendkívüli díjfizetési kötelezettség előírásairól,
 - n) javaslatot tesz a Felügyeletnek a hitelintézetek betétbiztosítással kapcsolatos kötelezettségeinek ellenőrzésére,
-- o) a Befektető-védelmi Alap igazgatóságának javaslatára kinevezi és felmenti az ügyvezető igazgató-helyettest, meghatározza feladatait, megállapítja díjazását,
+- o)
 - p) ellátja az e törvényben meghatározott egyéb feladatokat.
 
 (2) Az igazgatótanács feladatainak végrehajtása során igénybe veheti a Felügyelet szolgáltatásait.
@@ -4039,7 +4045,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 226. § (1) Az OBA önálló munkaszervezettel rendelkezik.
 
-(2) Az OBA tevékenységének operatív irányítását az ügyvezető, a Befektető-védelmi Alappal kapcsolatos operatív feladatok irányítását az ügyvezető helyettese látja el. A belső ellenőr felett a munkáltatói jogokat az ügyvezető a munkaviszony létesítése, megszüntetése, a javadalmazás és az ellenőrzési tárgykörök meghatározása tekintetében az igazgatótanács előzetes jóváhagyása mellett gyakorolja. Az ügyvezető igazgató-helyettes által irányított, elkülönített munkaszervezetben feladatokat ellátó munkavállalók kivételével az ügyvezető gyakorolja az OBA alkalmazottai felett a munkáltatói jogokat. Az ügyvezető igazgató-helyettes által irányított, elkülönített munkaszervezetben feladatokat ellátó munkavállalók feletti munkáltatói jogokat az ügyvezető igazgató-helyettese gyakorolja.
+(2) Az OBA tevékenységének operatív irányítását az ügyvezető látja el. A belső ellenőr felett a munkáltatói jogokat az ügyvezető a munkaviszony létesítése, megszüntetése, a javadalmazás és az ellenőrzési tárgykörök meghatározása tekintetében az igazgatótanács előzetes jóváhagyása mellett gyakorolja. Az ügyvezető gyakorolja az OBA alkalmazottai felett a munkáltatói jogokat.
 
 (3) Az ügyvezető – az igazgatótanács egyetértésével – egyes feladatok ellátására munkaviszonyon kívüli megbízást adhat ki vagy együttműködési megállapodásokat köthet.
 
@@ -4867,7 +4873,17 @@ vonatkozó részletes szabályokat.
 
 (3) A 118. §-ban foglaltakat 2014. január 1-jét követően kifizetett javadalmazásra abban az esetben is alkalmazni kell, ha a kifizetésre vonatkozó szerződés az e törvény hatályba lépése előtt került megkötésre.
 
-(4)–(7)
+(4) 2019. december 31-én már működő, vagy alapítási engedély alatt álló
+
+- a) bank és pénzügyi holding társaság induló tőkéjének legkésőbb 2023. december 31-ig el kell érnie a hárommilliárd forintot és 2026. december 31-ig el kell érnie a négymilliárd forintot,
+- b) pénzügyi vállalkozás induló tőkéjének – ide nem értve a hitel- és pénzkölcsönt nyújtó pénzügyi vállalkozást, a pénzügyi holding társaságot és a fizetési rendszert működtető pénzügyi vállalkozást – induló tőkéjének 2023. december 31-ig el kell érnie a hetvenöt millió forintot és 2026. december 31-ig el kell érnie a százmillió forintot,
+- c) hitel- és pénzkölcsönt nyújtó pénzügyi vállalkozás induló tőkéjének 2023. december 31-ig el kell érnie az százmillió forintot és 2026. december 31-ig el kell érnie a százötven millió forintot.
+
+(5) 2019. december 31-én már működő, vagy létesítési engedély alatt álló harmadik országbeli fióktelep dotációs tőkéjének legkésőbb 2023. december 31-ig el kell érnie a hárommilliárd forintot és 2026. december 31-ig el kell érnie a négymilliárd forintot.
+
+(6) A jelölő bizottság tagjaira vonatkozó, a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdasági stabilitást érintő egyes jogszabályok módosításáról szóló 2019. évi CXVIII. törvénnyel megállapított rendelkezéseket a hitelintézetnek legkésőbb 2020. május 31-től kell alkalmazni.
+
+(7) A 275. § (6) bekezdése szerinti kivonaton az OBA tagintézet felhívja a betétes figyelmét a 6. § (2) bekezdés 6. pontjának 2021. január 1-jén hatályba lépő módosítására.
 
 293. § (1) A 279. § (4)–(6) és (8)–(16) bekezdését a 2009. augusztus 1-je előtt fogyasztóval kötött kölcsönszerződés vagy pénzügyi lízingszerződés módosítása esetén is alkalmazni kell a (2) bekezdésben meghatározott eltéréssel.
 

@@ -102,7 +102,7 @@ azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a
   - b) hajó, légi jármű vagy közúti szállító jármű nemzetközi forgalomban történő üzemeltetéséből származó jövedelem esetén – az a) alpontban foglaltaktól függetlenül – az üzemben tartó székhelye szerinti vagy a hajó, a jármű nyilvántartását (a lajstromot) vezető állam;
   - c) ingatlan birtoklásából, használatából és hasznainak szedéséből, valamint az ingatlan feletti rendelkezési jog gyakorlásából (így különösen az ingatlan átruházásából, bérbeadásából vagy haszonbérbe adásából) származó jövedelem esetében – az a) alpontban foglaltaktól függetlenül – az ingatlan fekvése szerinti állam;
   - d) nem önálló tevékenységből származó jövedelem esetében a tevékenységvégzés szokásos helyének fekvése szerinti állam; ha a tevékenység végzésének szokásos helye nem határozható meg (ideértve különösen a több címmel vagy nagyobb földrajzi egység megnevezésével beazonosítható helyen végzett tevékenység esetét), da) ha a magánszemély a munkáltató (a munkaadó) belföldi székhelyével vagy belföldi telephelyével (állandó bázisával), fióktelepével, kereskedelmi képviseletével áll a jövedelemszerzés alapjául szolgáló jogviszonyban, akkor belföld; db) a da) alpontban nem tartozó esetben a belföldön végzett tevékenységére arányosan számított jövedelem tekintetében belföld; dc) a db) alponttól eltérően, az olyan jövedelem tekintetében, amely nemzetközi forgalomban üzemeltetett járművön belföldön kívül (is) teljesített szolgálat ellenértéke, az az állam, amely az ilyen jövedelmet nemzetközi szerződés vagy viszonosság alapján adóztathatja, más esetben a magánszemély illetősége szerinti állam;
-  - e) kormányzati szolgálati, közszolgálati, állami szolgálati, közalkalmazotti, bírói, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati viszonya, a honvédelmi alkalmazotti jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, rendvédelmi igazgatási szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti viszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
+  - e) kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati, közalkalmazotti, bírói, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati viszonya, a honvédelmi alkalmazotti jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, rendvédelmi igazgatási szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti viszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
   - f) jogi személy, egyéb szervezet vezető tisztségviselőjeként, felügyelő bizottsága tagjaként megszerzett jövedelem esetében – az a) és d) alpontban foglaltaktól függetlenül – a jogi személy, az egyéb szervezet székhelye szerinti állam; vezető tisztségviselő a jogi személy, az egyéb szervezet törvényes képviseletére jogosult magánszemély (például az üzletvezetésre jogosult tag, az ügyvezető, a cégvezető);
   - g) előadói, művészeti és sporttevékenységre, bemutatóra (kiállításra) tekintettel megszerzett jövedelem esetében – az a) és d) alpontban foglaltaktól függetlenül – a tevékenység végzésének helye szerinti állam;
   - h) a szellemi alkotáshoz fűződő törvényi védelem alatt álló jog (így különösen szabadalom, ipari minta, védjegy, védett eljárás, szerzői jog) révén megszerzett jövedelem (jogdíj) esetében – az a) és d) alpontban foglaltaktól függetlenül – a jogdíj fizetésére kötelezett személy illetősége szerinti állam – amennyiben a jogdíj fizetésére belföldi telephelye (állandó bázisa), fióktelepe, kereskedelmi képviselete útján kötelezett, akkor belföld –, ha azonban a jogdíjfizetés alapjául szolgáló jog ténylegesen a jogosult magánszemély belföldi telephelyéhez (állandó bázisához) tartozik, akkor belföld;
@@ -157,7 +157,7 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
   - b) az adóköteles társadalombiztosítási ellátás;
   - c) a szociális igazgatásról és szociális ellátásokról szóló törvény alapján folyósított adóköteles ellátás;
   - d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított álláskeresési járadék, álláskeresési segély, ha ennek megállapítására nem a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor, továbbá a keresetkiegészítés és keresetpótló juttatás;
-  - e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély illetménye;
+  - e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély e jogviszonyból származó jövedelme;
   - f) az a)–e) pontban meghatározott jövedelmet pótló kártérítés (keresetpótló járadék), ideértve a rendvédelmi egészségkárosodási keresetkiegészítést és rendvédelmi egészségkárosodási járadékot, valamint a honvédelmi egészségkárosodási keresetkiegészítést és honvédelmi egészségkárosodási járadékot a felelősségbiztosítás alapján ilyen címen fizetett kártérítést is, de ide nem értve a nyugdíjban részesülő magánszemélyt megillető baleseti járadékot;
   - g) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díjazása.
 - 22. Munkaviszonyból származó jövedelem: a magánszemélyt munkaviszonyára (ideértve a munkaviszonynak megfelelő, külföldi jog szerinti jogviszonyt is) tekintettel megillető adóköteles bevétel.
@@ -200,7 +200,7 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
 - 43. Korábban munkanélküli személy az, aki a foglalkoztatását közvetlenül megelőzően
   - a) legalább 6 hónapig az állami foglalkoztatási szerv által nyilvántartott munkanélküli volt, vagy
   - b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján álláskeresők támogatásában a szociális igazgatásról és szociális ellátásokról szóló törvény alapján aktív korúak ellátásában részesült, vagy
-  - c) a b) pontban említett ellátásra való jogosultságát már kimerítette, de az állami foglalkoztatási szervvel továbbra is együttműködött, azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjából azt az időtartamot, amely alatt a munkanélküli csecsemőgondozási díjban, gyermekgondozási segélyben részesül, továbbá a letartóztatás, szabadságvesztés, elzárás időtartamát, valamint a tartalékos katonai szolgálatban, a polgári szolgálatban töltött időt (a szolgálat megkezdése és befejezése közötti időtartamot) figyelmen kívül kell hagyni.
+  - c) a b) pontban említett ellátásra való jogosultságát már kimerítette, de az állami foglalkoztatási szervvel továbbra is együttműködött, azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjából azt az időtartamot, amely alatt a munkanélküli csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási segélyben részesül, továbbá a letartóztatás, szabadságvesztés, elzárás időtartamát, valamint a tartalékos katonai szolgálatban, a polgári szolgálatban töltött időt (a szolgálat megkezdése és befejezése közötti időtartamot) figyelmen kívül kell hagyni.
 - 44. Azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (FEOR-08) szerint azonosnak minősülő munkakör.
 - 45. Személygépkocsi: négy, illetve három gumiabroncskerékkel felszerelt olyan gépjármű, amely a vezetővel együtt legfeljebb nyolc felnőtt személy szállítására alkalmas, azzal, hogy ide tartozik a benzinüzemű, a dízelüzemű, az elektromos üzemű, a gázüzemű személygépkocsi, a versenyautó, az önjáró lakóautó. Személygépkocsinak minősül továbbá az a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű, olyan gépjármű (nagy rakodóterű személygépkocsi), amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén a felhasználás szerinti terhek szállítására bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor.
 - 46. Gazdasági tevékenység: valamely tevékenység üzletszerű, illetőleg tartós vagy rendszeres jelleggel történő folytatása, amennyiben az ellenérték elérésére irányul, vagy azt eredményezi, és annak végzése független formában történik.
@@ -233,7 +233,7 @@ feltéve, hogy kizárólag magánszemély alapító, csatlakozó által rendelke
 - 68. Kísérleti fejlesztés: az Innovációs tv. szerinti kísérleti fejlesztés.
 - 69. Független felek: azok a személyek (természetes személyek, jogi személyek, egyéb szervezetek), amelyek (akik) között nem áll fenn olyan szoros gazdasági, jogi kapcsolat, amelynek révén legalább az egyik fél meghatározó befolyást képes gyakorolni a másik fél gazdasági döntéseire, vagy amelynek révén a felek egymással szoros együttműködésben folytatják tevékenységüket (nem tekinthetők független feleknek különösen az egymással munkaviszonyban, tartós megbízási jogviszonyban álló személyek, továbbá a társas vállalkozás és a benne akár közvetlenül, akár közvetve – a közeli hozzátartozókat megillető jogokat együttesen számítva – többségi irányítást biztosító befolyással rendelkező magánszemély).
 - 70. Elemi kár: az elemi csapás (így különösen a jégeső, az árvíz, a belvíz, a fagy, a homokverés, az aszály, a hó-, a jég- és a széltörés, a vihar, a földrengés, valamint a természeti vagy a biológiai eredetű tűz) okozta kár, amelynek igazolására a kár tényét tartalmazó okmány (pl. biztosító, mezőgazdasági igazgatási szerv, katasztrófavédelem végrehajtását végző szerv által kiállított szakvélemény, jegyzőkönyv stb.), vagy – ha nem rendelkezik tőle független szervezet által kiadott okmánnyal – a károsult által kiállított jegyzőkönyv szolgál.
-- 71. Szakképzéssel összefüggő juttatás: a szakképzésről szóló törvény előírásai alapján a tanulót, illetve a felsőfokú szakképzésben részt vevő hallgatót megillető pénzbeli juttatás, valamint a szakképzésben tanulószerződés, illetve hallgatói szerződés nélkül részt vevő tanulót a szakképzéssel összefüggő szakmai gyakorlat időtartamára a szakképzésről szóló törvény előírásai alapján megillető díjazás.
+- 71.
 - 72.
 - 73. Lakás: az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott, vagy ilyenként feltüntetésre váró építmény, valamint az építési engedély szerint lakóház céljára létesülő építmény, ha készültségi foka a szerkezetkész állapotot (elkészült és ráépített tetőszerkezet) eléri, továbbá az ingatlan-nyilvántartásban tanyaként feltüntetett földrészleten lévő lakóház.
 - 74. Lakótelek: az épített környezet alakításáról és védelméről szóló törvényben meghatározott építési telek, ha arra a településszerkezeti terv, a helyi építési szabályzat szerint lakás építhető, valamint az ingatlan-nyilvántartásban a lakással együtt nyilvántartott földrészlet, továbbá az a földrészlet, amelyet lakáshoz tartozó földhasználati jog terhel.
@@ -666,10 +666,10 @@ azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő a
 
 21. § (1) A tételes költségelszámolást alkalmazó mezőgazdasági őstermelő az e tevékenységéből származó bevételét csökkentheti:
 
-- a) a legalább 50 százalékban megváltozott munkaképességű alkalmazott foglalkoztatása esetén személyenként havonta az alkalmazottnak fizetett bérrel, de legfeljebb a hónap első napján érvényes havi minimálbérrel, a szakképző iskola tanulójával kötött – jogszabályban meghatározott – tanulószerződés alapján folytatott gyakorlati képzés esetén minden megkezdett hónap után havonta a minimálbér 24 százalékával, ha a szakképző iskolával kötött együttműködési megállapodás alapján végzi a gyakorlati képzést, minden megkezdett hónap után havonta a minimálbér 12 százalékával;
+- a) a legalább 50 százalékban megváltozott munkaképességű alkalmazott foglalkoztatása esetén személyenként havonta az alkalmazottnak fizetett bérrel, de legfeljebb a hónap első napján érvényes havi minimálbérrel, a szakképzési munkaszerződés alapján duális képzőhelyen folytatott szakirányú oktatás esetén minden megkezdett hónap után havonta a minimálbér 24 százalékával.
 - b)
 
-(2) A sikeres szakmai vizsgát tett – az (1) bekezdésben említett – szakképző iskolai tanulót folyamatosan tovább foglalkoztató, valamint a korábban munkanélküli személyt, továbbá a szabadulást követő 6 hónapon belül alkalmazott szabadságvesztésből szabaduló személyt, illetve a pártfogó felügyelet hatálya alatt álló személyt alkalmazottként foglalkoztató mezőgazdasági őstermelő (e § alkalmazásában: munkáltató), ha nem alkalmaz átalányadózást, az ezen tevékenységéből származó bevételét csökkentheti e személy után a foglalkoztatása ideje alatt, de legfeljebb 12 hónapon át befizetett szociális hozzájárulási adó összegével, függetlenül attól, hogy tételes költségelszámolás esetén egyébként költségként is elszámolhatja azt.
+(2) A szakmai vizsga megszerzését követően az (1) bekezdés szerinti tanulót, illetve képzésben részt vevő magánszemélyt folyamatosan tovább foglalkoztató, valamint a korábban munkanélküli személyt, továbbá a szabadulást követő 6 hónapon belül alkalmazott szabadságvesztésből szabaduló személyt, illetve a pártfogó felügyelet hatálya alatt álló személyt alkalmazottként foglalkoztató mezőgazdasági őstermelő (e § alkalmazásában: munkáltató), ha nem alkalmaz átalányadózást, az ezen tevékenységéből származó bevételét csökkentheti e személy után a foglalkoztatása ideje alatt, de legfeljebb 12 hónapon át befizetett szociális hozzájárulási adó összegével, függetlenül attól, hogy tételes költségelszámolás esetén egyébként költségként is elszámolhatja azt.
 
 (3) A munkáltató a korábban munkanélküli személy esetében akkor járhat el a (2) bekezdésben foglalt rendelkezés szerint, ha a korábban munkanélküli személy alkalmazása óta, illetőleg azt megelőző hat hónapon belül azonos munkakörben foglalkoztatott más alkalmazott munkaviszonyát rendes felmondással nem szüntette meg, és a korábban munkanélküli személy az alkalmazását megelőző hat hónapon belül vele nem állt munkaviszonyban.
 
@@ -938,6 +938,35 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 (6) Az igénybevétel feltétele a házastársak – adóbevallásban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza, hogy a kedvezményt melyikük veszi igénybe, vagy a kedvezmény összegének megosztására vonatkozó döntésüket.
 
+### A négy vagy több gyermeket nevelő anyák kedvezménye
+
+29/D. § (1) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély az összevont adóalapját [29. §] – minden más kedvezményt megelőzően – a négy vagy több gyermeket nevelő anyák kedvezményével csökkenti.
+
+(2) A négy vagy több gyermeket nevelő anyák kedvezménye a kedvezményre jogosult által a jogosultsági időszakban megszerzett (munkaviszonyból származó jövedelem esetében a jogosultsági időszakra elszámolt), összevont adóalapba tartozó
+
+- a) e törvény szerint bérnek minősülő jövedelme [3. § 21. pont],
+- b) az a) pontban nem említett nem önálló tevékenységből származó jövedelmeinek összege, ide nem értve a munkaviszony megszüntetésére tekintettel kapott végkielégítés törvényben előírt mértéket meghaladó összegét,
+- c) önálló tevékenységből származó jövedelmei közül
+  - ca) a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó vállalkozói kivétje, átalányadózás esetén az átalányban megállapított jövedelme;
+  - cb) a mezőgazdasági őstermelő e tevékenységéből származó jövedelme;
+  - cc) az európai parlamenti képviselő e tevékenységéből származó jövedelme;
+  - cd) a helyi önkormányzati képviselő e tevékenységéből származó jövedelme;
+  - ce) a választott könyvvizsgáló e tevékenységéből származó jövedelme;
+  - cf) a magánszemély által nem egyéni vállalkozóként kötött, díjazás ellenében történő munkavégzésre irányuló más szerződés alapján folytatott tevékenységéből származó jövedelme.
+
+(3) Négy vagy több gyermeket nevelő anyának minősül az a nő, aki vér szerinti vagy örökbefogadó szülőként az általa nevelt gyermekre tekintettel
+
+- a) családi pótlékra jogosult, vagy
+- b) családi pótlékra már nem jogosult, de jogosultsága legalább 12 éven keresztül fennállt,
+
+és az a) és b) pont szerinti gyermekek száma a négy főt eléri, azzal, hogy a b) pont szerinti gyermekkel esik egy tekintet alá az a gyermek is, aki után a családi pótlékra való jogosultság a gyermek elhunyta miatt szűnt meg.
+
+(4) A kedvezményre való jogosultság annak a hónapnak az első napján nyílik meg, amely hónap bármely napján a magánszemély négy vagy több gyermeket nevelő anyának minősül, és megszűnik annak a hónapnak az utolsó napján, amelynek egészében már nem minősül ilyennek.
+
+(5) Amennyiben a négy vagy több gyermeket nevelő anyának minősülő magánszemély kedvezményre való jogosultsága az adóév egészében nem áll fenn, és a jogosultság időszakában megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelme másként nem állapítható meg, azt az ilyen címen megszerzett adóévi jövedelmének a jogosultsági időszak hónapjaival arányos részeként kell figyelembe venni.
+
+(6) A négy vagy több gyermeket nevelő anyák kedvezménye érvényesítésének feltétele az anya adóbevalláshoz tett nyilatkozata, amelyen fel kell tüntetni a (3) bekezdés szerinti gyermekek nevét, adóazonosító jelét (ha az adóhatóság adóazonosító jelet nem állapított meg, a természetes személyazonosító adatait), valamint – ha a kedvezményre való jogosultság nem állt fenn az adóév egészében – a jogosultság megnyíltának vagy megszűntének napját és a (2) bekezdés szerinti összeget.
+
 ### VII. Fejezet — AZ ÖSSZEVONT ADÓALAP ADÓJÁNAK MEGHATÁROZÁSA
 
 30. §
@@ -1149,7 +1178,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 - b) a vállalkozói bevételből, ha az egyéni vállalkozó az e bevételéről kiállított bizonylatán feltünteti az egyéni vállalkozói jogállását bizonyító közokirat számát;
 - c) lakás bérbeadásából származó bevételből, ha a magánszemély nyilatkozik arról, hogy a 17. § (5) bekezdését alkalmazza.
 
-(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett családi kedvezményt, első házasok kedvezményét, valamint az érvényesített adókedvezményt.
+(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett négy vagy több gyermeket nevelő anyák kedvezményét, családi kedvezményt, első házasok kedvezményét, valamint az érvényesített személyi kedvezményt.
 
 (6) Az adóelőleg-megállapításra kötelezett kifizető
 
@@ -1195,7 +1224,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 ### Az adóelőleg-nyilatkozat
 
-48. § (1) Az adóelőleg-megállapításra kötelezett kifizető a bevételt terhelő adóelőleget a magánszemély által írásban adott nyilatkozat (adóelőleg-nyilatkozat) figyelembevételével állapítja meg, ha a nyilatkozatot felszólítására vagy önként a magánszemély a kifizetést megelőzően rendelkezésére bocsátja. Nyilatkozat adható esetenként vagy az adóéven belül visszavonásig (újabb nyilatkozattételig) érvényesen. A nyilatkozat tartalmát érintő bármely változás esetén a magánszemély köteles haladéktalanul új nyilatkozatot tenni. Nem kell új nyilatkozatot tenni, ha a magánszemély a családi kedvezményt már a magzatra tekintettel is érvényesítette.
+48. § (1) Az adóelőleg-megállapításra kötelezett kifizető a bevételt terhelő adóelőleget a magánszemély által írásban adott vagy a magánszemély által az Eüsztv. szerinti elektronikus azonosítási szolgáltatás alkalmazásával az erre a célra létrehozott elektronikus felületen az adóhatóság felé megtett és az adóhatóság által a kifizető részére elektronikus úton továbbított nyilatkozat (adóelőleg-nyilatkozat) figyelembevételével állapítja meg, ha a nyilatkozatot felszólítására vagy önként a magánszemély a kifizetést megelőzően rendelkezésére bocsátja. Nyilatkozat érvényesen esetenként vagy az adóéven belül visszavonásig adható azzal, hogy a korábbi nyilatkozat visszavonásának minősül az is, ha a magánszemély újabb nyilatkozatot tesz. Ha a magánszemély írásban és elektronikus felületen is tett nyilatkozatot, a kifizetőnek az írásban átadott nyilatkozatot kell figyelembe vennie. A nyilatkozat tartalmát érintő bármely változás esetén a magánszemély köteles haladéktalanul új nyilatkozatot tenni. Nem kell új nyilatkozatot tenni, ha a magánszemély a családi kedvezményt már a magzatra tekintettel is érvényesítette.
 
 (2) Az adóelőleg-nyilatkozatban a magánszemély az adott esettől függően nyilatkozik
 
@@ -1203,35 +1232,42 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 - b) az első házasok kedvezményének érvényesítéséről,
 - c) a családi kedvezmény érvényesítéséről, közös érvényesítéséről,
 - d) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállásának időtartamáról azzal, hogy a végleges fogyatékos állapotról ugyanazon kifizetőnek elegendő egyszer nyilatkozni,
-- e)
+- e) a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítéséről.
 
-(3) A magánszemély családi kedvezmény érvényesítésére, súlyosan fogyatékos állapotra vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adólapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. Ha a családi kedvezményre ugyanazon kedvezményezett eltartott után több magánszemély jogosult, akkor a jogosultak a nyilatkozatot – a változás bejelentésének kötelezettsége mellett – közösen teszik meg. A családi kedvezmény közös igénybevétele esetén a jogosultakat jogosultsági hónaponként együttesen megillető családi kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető – az összeg vagy a kedvezményezett eltartottak megosztásával – a nyilatkozat szerint veszi figyelembe. A családi kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
+(3) A magánszemély családi kedvezmény érvényesítésére, súlyosan fogyatékos állapotra vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adóalapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. A családi kedvezmény közös igénybevétele esetén a jogosultakat jogosultsági hónaponként együttesen megillető családi kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető – az összeg vagy a kedvezményezett eltartottak megosztásával – a nyilatkozat szerint veszi figyelembe. A családi kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
 
-- a) a nyilatkozó magánszemély(ek) nevét és adóazonosító jelét;
+- a) a nyilatkozó magánszemély nevét és adóazonosító jelét;
 - b) minden eltartott (kedvezményezett eltartott) nevét és adóazonosító jelét, magzat (ikermagzat) esetében a várandósság tényére vonatkozó kijelentést;
-- c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
+- c) a családi kedvezmény közös érvényesítése esetén az erre vonatkozó döntést, a másik fél nevét és adóazonosító jelét;
+- d) a nyilatkozó magánszemély adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát;
+- e) a családi kedvezmény közös érvényesítése esetén a másik fél adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
 
-(3a) A magánszemély az első házasok kedvezményének érvényesítésére vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adóalapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. A jogosult házastársak a nyilatkozatot – a változás bejelentésének kötelezettsége mellett – közösen teszik meg. A jogosult házastársakat jogosultsági hónaponként együttesen megillető kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető a nyilatkozat szerint veszi figyelembe. A kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
+(3a) A magánszemély az első házasok kedvezményének érvényesítésére vonatkozó nyilatkozatot az adóelőleget megállapító munkáltató, a magánszemély részére az összevont adóalapba tartozó rendszeres bevételt (különösen havi, heti bért, munkadíjat, tiszteletdíjat, személyes közreműködés ellenértékét, egyéb juttatást) juttató kifizető számára adhat. A jogosult házastársakat jogosultsági hónaponként együttesen megillető kedvezményt az adóelőleget megállapító munkáltató, a rendszeres bevételt juttató kifizető a nyilatkozat szerint veszi figyelembe. A kedvezményre vonatkozó adóelőleg-nyilatkozat legalább a következő adatokat tartalmazza:
 
-- a) a nyilatkozó magánszemély(ek) nevét és adóazonosító jelét;
-- b) az adott munkáltatónál, kifizetőnél érvényesítendő kedvezmény összegét;
-- c) a nyilatkozó magánszemély(ek) adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
+- a) a nyilatkozó magánszemély nevét és adóazonosító jelét;
+- b) a kedvezmény közös érvényesítésére vonatkozó döntést, a házastárs nevét és adóazonosító jelét;
+- c) az adott munkáltatónál, kifizetőnél érvényesítendő kedvezmény összegét;
+- d) a nyilatkozó magánszemély adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát;
+- e) az első házasok kedvezményének közös érvényesítése esetén a házastárs adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
+
+(3b) A magánszemély a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítése érdekében az összevont adóalapba tartozó bevételt juttató kifizető, munkáltató részére nyilatkozatot adhat. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, valamint a 29/D. § (3) bekezdése szerinti gyermekek nevét és adóazonosító jelét, vagy – ha az adóhatóság adóazonosító jelet nem állapított meg – természetes személyazonosító adatait.
+
+(3c) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély 29/D. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapját más kedvezménnyel a kifizető, a munkáltató nem csökkenti, azonban a magánszemély a családi kedvezményről adóelőleg-nyilatkozatot tehet a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
 (4) Ha a magánszemély az adóévben megszerzett bármely bevételét terhelő adóelőleg megállapításához tett nyilatkozatában
 
 - a) tételes igazolással elszámolható költség levonását kérte, és a nyilatkozat alapján levont költség meghaladja az összevont adóalap megállapításánál e törvény rendelkezései szerint az adóbevallásban elszámolt igazolt költséget, akkor a költség-különbözet 39 százalékát;
-- b) a nyilatkozattételkor fennálló körülmények ellenére családi kedvezmény, első házasok kedvezménye, adókedvezmény érvényesítését jogalap nélkül kérte, aminek következtében utóbb befizetési különbözet mutatkozik, valamint az a) pontban említett esetben is, a befizetési különbözet 12 százalékát különbözeti-bírságként az adóévre vonatkozó bevallásban külön kötelezettségként kell feltüntetnie, és a személyi jövedelemadó-fizetési kötelezettség szerint kell megfizetnie. Nem kell e rendelkezést alkalmazni, ha a költség-különbözet az adóelőleg megállapításánál figyelembe vett költség összegének 5 százalékát, a befizetési különbözet a 10 ezer forintot nem haladja meg.
+- b) a nyilatkozattételkor fennálló körülmények ellenére négy vagy több gyermeket nevelő anyák kedvezménye, családi kedvezmény, első házasok kedvezménye, tevékenységi kedvezmény, személyi kedvezmény érvényesítését jogalap nélkül kérte, aminek következtében utóbb befizetési különbözet mutatkozik, valamint az a) pont szerinti esetben is, a befizetési különbözet 12 százalékát különbözeti-bírságként az adóévre vonatkozó bevallásban külön kötelezettségként kell feltüntetnie, és a személyi jövedelemadó-fizetési kötelezettség szerint kell megfizetnie. Nem kell e rendelkezést alkalmazni, ha a költség-különbözet az adóelőleg megállapításánál figyelembe vett költség összegének 5 százalékát, a befizetési különbözet a 10 ezer forintot nem haladja meg.
 
 (5) Az adóelőleg-levonásra kötelezett kifizető a kifizetést megelőzően tájékoztatja a magánszemélyt az adóelőleg-nyilatkozat lehetőségéről és az adott vagy nem adott nyilatkozat következményeiről.
 
 ### A fizetendő adóelőleg
 
-49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa, illetve más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az adó mértékével számított összeg, figyelemmel a (2)–(4) bekezdésben foglalt rendelkezésekre is.
+49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – a négy vagy több gyermeket nevelő anyák kedvezményét, a családi kedvezményt, az első házasok kedvezményét érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa vagy más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az adó mértékével [8. §] számított összeg, figyelemmel a (2)–(4) bekezdésben foglalt rendelkezésekre is.
 
-(2) Az (1) bekezdés szerint kiszámított összeget legfeljebb annak mértékéig csökkenti – az adóelőleget megállapító munkáltatótól származó bevétel esetében a magánszemély adóelőleg-nyilatkozata alapján –
+(1a) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a 29/D. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapja más kedvezménnyel nem csökkenthető. A családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
-- a)
-- b) a súlyosan fogyatékos magánszemélynél az erről szóló igazolás, határozat alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállása idején havonta a személyi kedvezmény.
+(2) Az (1) bekezdés szerint kiszámított összeget – figyelemmel az (1a) bekezdésben foglaltakra is – legfeljebb annak mértékéig csökkenti – az adóelőleget megállapító munkáltatótól származó bevétel esetében a magánszemély adóelőleg-nyilatkozata alapján – a súlyosan fogyatékos magánszemélynél az erről szóló igazolás, határozat alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállása idején havonta a személyi kedvezmény.
 
 (3) Az adóelőleg-levonásra kötelezett kifizető (ideértve az adóelőleget megállapító munkáltatót is) az állami adó- és vámhatósághoz bejelentett módszerrel állapítja meg az adóelőleget, ha ez által az adóévi adó megállapításánál jelentkező adókülönbözet mérsékelhető. Nem kell bejelentést tenni olyan módszer választása esetén, amelyet a számítástechnikai program kidolgozója az állami adó- és vámhatósághoz bejelentett.
 
@@ -1247,6 +1283,8 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 (5) Ha a magánszemély saját maga köteles az adóelőleg megállapítására és megfizetésére, az (1) bekezdés szerint megállapított összeget csökkenti a személyi kedvezmény.
 
 (6) Ha az egyéni vállalkozó családi járulékkedvezményt kíván igénybe venni, akkor – saját döntése alapján, az e fejezetben előírtaktól eltérően – a vállalkozói kivét vagy az átalányban megállapított jövedelem adóelőlegét havonta állapítja meg és vallja be.
+
+(7) Amennyiben a négy vagy több gyermeket nevelő anyának minősülő magánszemély kedvezményre való jogosultsága az adott negyedév egészében nem áll fenn, és az adott negyedévi, jogosultsági időszakban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelmének adóelőleg-alapja másként nem állapítható meg, azt az adott negyedévi önálló tevékenységből származó jövedelem adóelőleg-alapjának a jogosultsági időszak hónapjával (hónapjaival) arányos részeként kell figyelembe venni.
 
 ## HARMADIK RÉSZ — EGYES KÜLÖN ADÓZÓ JÖVEDELMEK
 
@@ -1329,8 +1367,8 @@ adott készletek szokásos piaci értéke.
 
 (6) A (4) és (5) bekezdés rendelkezéseiben említett tételekkel növelt vállalkozói bevétel – legfeljebb annak mértékéig – csökkenthető:
 
-- a) a legalább 50 százalékban megváltozott munkaképességű alkalmazott foglalkoztatása esetén személyenként havonta az alkalmazottnak fizetett bérrel, de legfeljebb a hónap első napján érvényes havi minimálbérrel, a szakképző iskolai tanulóval kötött – jogszabályban meghatározott – tanulószerződés alapján folytatott gyakorlati képzés esetén minden megkezdett hónap után havonta a minimálbér 24 százalékával, ha a szakképző iskolával kötött együttműködési megállapodás alapján végzi a gyakorlati képzést, minden megkezdett hónap után havonta a minimálbér 12 százalékával;
-- b) a sikeres szakmai vizsgát tett, az a) pontban említett – folyamatosan továbbfoglalkoztatott – szakképző iskolai tanuló, valamint a korábban munkanélküli személy, továbbá a szabadulást követő 6 hónapon belül alkalmazott szabadságvesztésből szabaduló személy, illetve a pártfogó felügyelet hatálya alatt álló személy után alkalmazottkénti foglalkoztatása ideje alatt, de legfeljebb 12 hónapon át befizetett szociális hozzájárulási adó összegével; az egyéni vállalkozó a korábban munkanélküli személy esetében akkor járhat el az e pontban foglalt rendelkezés szerint, ha a korábban munkanélküli személy alkalmazása óta, illetőleg azt megelőző hat hónapon belül, azonos munkakörben foglalkoztatott más alkalmazott munkaviszonyát rendes felmondással nem szüntette meg, és a korábban munkanélküli személy az alkalmazását megelőző hat hónapon belül vele nem állt munkaviszonyban;
+- a) a legalább 50 százalékban megváltozott munkaképességű alkalmazott foglalkoztatása esetén személyenként havonta az alkalmazottnak fizetett bérrel, de legfeljebb a hónap első napján érvényes havi minimálbérrel, a szakképzési munkaszerződés alapján duális képzőhelyen folytatott szakirányú oktatás esetén minden megkezdett hónap után havonta a minimálbér 24 százalékával;
+- b) a szakmai vizsga megszerzését követően a tanuló, illetve a képzésben részt vevő magánszemély, a korábban munkanélküli személy, továbbá a szabadulást követő 6 hónapon belül alkalmazott szabadságvesztésből szabaduló személy, illetve a pártfogó felügyelet hatálya alatt álló személy után alkalmazottkénti foglalkoztatása ideje alatt, de legfeljebb 12 hónapon át befizetett szociális hozzájárulási adó összegével; az egyéni vállalkozó a korábban munkanélküli személy esetében akkor járhat el az e pontban foglalt rendelkezés szerint, ha a korábban munkanélküli személy alkalmazása óta, illetőleg azt megelőző hat hónapon belül, azonos munkakörben foglalkoztatott más alkalmazott munkaviszonyát rendes felmondással nem szüntette meg, és a korábban munkanélküli személy az alkalmazását megelőző hat hónapon belül vele nem állt munkaviszonyban;
 - c) az egyéni vállalkozó saját tevékenységi körében végzett alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés folytatása érdekében felmerült kiadásból – ide nem értve a társasági adóról és az osztalékadóról szóló törvény szerinti belföldi illetőségű adózótól, külföldi vállalkozó belföldi telephelyétől vagy más egyéni vállalkozótól közvetve vagy közvetlenül igénybe vett kutatási és kísérleti fejlesztési szolgáltatás ellenértéke alapján felmerült kiadást – az adóévben költségként elszámolt összeggel, vagy – az egyéni vállalkozó választása szerint, ha a kiadást az adóévben beruházási költségként számolta el – a kísérleti fejlesztésre fordított – alapnyilvántartásában, valamint egyedi beruházási és felújítási költség-nyilvántartásában rögzített – beruházási költség alapján állományba vett nem anyagi jószágra az adóévben elszámolt értékcsökkenési leírás összegével, bármely esetben, feltéve, hogy
   - ca) a szolgáltatást nyújtó nyilatkozik arról, hogy a szolgáltatást nem belföldi illetőségű adózótól, külföldi vállalkozó belföldi telephelyétől vagy a személyi jövedelemadóról szóló törvény szerinti egyéni vállalkozótól megrendelt kutatási és kísérleti fejlesztési szolgáltatás igénybevételével teljesítette,
   - cb) az elszámolás nem támogatásból származó bevétellel szemben történt;
@@ -1934,7 +1972,7 @@ a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről
 
 (4) Nem alkalmazható az (1) bekezdés a) pont ae) és ag) alpontja, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte.
 
-(5) Az (1) bekezdés a) pont ae) és ag) alpontjának alkalmazása során azt kell feltételezni, hogy a kedvezményezett először a hozamot szerzi meg. Ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a hozamok nem különíthetőek el a kezelt vagy az alapítványi vagyontól, a magánszemély által megszerzett vagyoni érték egészét osztaléknak kell tekinteni.
+(5) Az (1) bekezdés a) pont ae) és ag) alpontjának alkalmazása során azt kell feltételezni, hogy a kedvezményezett először a hozamot szerzi meg. Ha a kifizető – kifizető hiányában a kedvezményezett magánszemély – nyilvántartása alapján a hozamok nem különíthetőek el a kezelt vagy az alapítványi vagyontól, a magánszemély által megszerzett vagyoni érték egészét osztaléknak kell tekinteni. Nem kell jövedelemként figyelembe venni az (1) bekezdés a) pont ae) és ag) alpontja szerinti osztalékból azt a részt, amelynek forrása a 67/B. § (14) bekezdés szerinti tartós befektetési szerződésből származó hozam. A jövedelemként figyelembe nem veendő osztalék forrásáról a vagyonkezelő és az alapítvány nyilvántartást vezet.
 
 ### Árfolyamnyereségből származó jövedelem
 
@@ -2094,6 +2132,13 @@ kell figyelembe venni.
 
 (13) Ha a magánszemély a hároméves lekötési időszakot a lekötött pénzösszegnek csak egy részére hosszabbította meg, majd ezt követően rendelkezik a lekötési átutalásról, a lekötési igazoláson fel kell tüntetni a lekötés részben való megszakításakor a magánszemélynek juttatott bevétel és az azzal összefüggésben megállapított lekötési hozam összegét is, mely adatokat a lekötési utalást fogadó befektetési szolgáltató, hitelintézet a további adókötelezettség megállapítása során felhasznál. A lekötési átutalást követően, a lekötési hozamot a lekötési utalást fogadó befektetési szolgáltató úgy állapítja meg, hogy a magánszemély bevételét megnöveli az átadó befektetési szolgáltató, hitelintézet adatszolgáltatása alapján a hároméves lekötési időszak végén a magánszemélynek juttatott bevétellel, és csökkenti a lekötött pénzösszeggel és az átadó befektetési szolgáltató, hitelintézet adatszolgáltatása alapján a hároméves lekötési időszak végén a részkivét után már megállapított lekötési hozammal.
 
+(14) Tartós befektetési szerződést köthet az (1) bekezdésben említett magánszemélyen túlmenően:
+
+- a) a magánalapítvány magánszemély mint kedvezményezett javára történő vagyoni juttatás céljából;
+- b) a bizalmi vagyonkezelő – a magánszeméllyel mint vagyonrendelővel magánszemély mint kedvezményezett javára megkötött – bizalmi vagyonkezelési szerződés teljesítése céljából,
+
+azzal, hogy a szerződés szerint keletkező hozam adókötelezettségére e § rendelkezéseit kell alkalmazni, a hozammal kapcsolatban keletkező adókötelezettséget az alapítványi vagyon, a kezelt vagyon terhére a szerződő alapítvány, vagyonkezelő teljesíti, az e § szerinti rendelkezést, bevallási kötelezettséget az alapítvány, a vagyonkezelő tesz, teljesít.
+
 ### A vállalkozásból kivont jövedelem
 
 68. § (1) A társas vállalkozás (kivéve az MRP szervezetet) jogutód nélküli megszűnése következtében a magánszemély tag (részvényes, üzletrész-tulajdonos) által e jogviszonyára tekintettel a társas vállalkozás vagyonából megszerzett bevételből az a rész, amely meghaladja az értékpapír megszerzésére fordított érték és a társas vállalkozás kötelezettségeiből a magánszemélyre jutó kötelezettségek együttes összegét, a magánszemély jövedelmének minősül. A bevételt és a magánszemélyre jutó kötelezettségek értékét a vagyonfelosztási javaslat (ennek hiányában az annak megfelelő megállapodás, vagy a vagyonfelosztási javaslat alapjául szolgáló záró számviteli beszámoló mérlege) szerint kell megállapítani. A kötelezettségek alapján teljesített kiadást a későbbiekben a jövedelem megállapításánál költségként nem lehet elszámolni. E rendelkezések irányadók a társas vállalkozás cégbejegyzése iránti kérelem elutasítása, valamint a társas vállalkozás cégbejegyzése iránti eljárás megszüntetése következtében a magánszemély tag (részvényes, üzletrész-tulajdonos) által e jogviszonyára tekintettel megszerzett jövedelemre is.
@@ -2154,7 +2199,7 @@ kell figyelembe venni.
 
 (2) Egyes meghatározott juttatásnak minősül az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra – kivéve a kiegészítő önsegélyező szolgáltatásra – befizetett összeg.
 
-(3) Egyes meghatározott juttatásnak minősül a munkáltató által szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató részére azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles bevétel.
+(3) Egyes meghatározott juttatásnak minősül a munkáltató által a szakképzési munkaszerződés alapján duális képzőhelyen folytatott szakirányú oktatásban részt vevő magánszemély, kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató részére azonos feltételekkel és módon ingyenesen vagy kedvezményesen átadott termék, nyújtott szolgáltatás révén juttatott adóköteles bevétel.
 
 (4) Egyes meghatározott juttatásnak minősül az adóévben reprezentáció és üzleti ajándékok juttatása alapján meghatározott jövedelem azzal, hogy a jövedelem meghatározásánál figyelmen kívül kell hagyni az e törvény előírásai szerint adómentes juttatásokat.
 
@@ -3092,6 +3137,8 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.11. a honvédek jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, kiegészítő rokkantsági támogatás és kiegészítő hozzátartozói támogatás.
 
+1.12. a köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerinti özvegyi ellátás.
+
 2. A lakáshoz kapcsolódóan adómentes:
 
 2.1. a lakáscélú támogatás, ha az
@@ -3192,7 +3239,7 @@ vállalkozási tevékenységet nem folytató alapítványtól, közalapítványt
 
 4.2. a külföldi tartózkodásra tekintettel külföldről kapott ösztöndíj azzal, hogy ilyen ösztöndíjon a külföldi oktatási intézményben folytatott tanulmányra, illetve a külföldi kutatóhelyen végzett kutatásra külföldi kifizető (cég, magánszemély stb.) által folyósított összeget kell érteni;
 
-4.3. a belföldön oktatási, nevelési intézményben, köznevelési, felsőoktatási intézményben vendégtanári tevékenység ellátásáért kapott jövedelem, annak figyelembevételével, hogy vendégtanári tevékenységnek minősül a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi munkaterv alapján külföldi illetőségű magánszemély által nem magyar nyelven folytatott nevelési, oktatási tevékenység;
+4.3. a belföldön köznevelési intézményben, szakképző intézményben vagy felsőoktatási intézményben vendégtanári tevékenység ellátásáért kapott jövedelem, annak figyelembevételével, hogy vendégtanári tevékenységnek minősül a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi munkaterv alapján külföldi illetőségű magánszemély által nem magyar nyelven folytatott nevelési, oktatási tevékenység;
 
 4.4. a külföldi középfokú és felsőoktatási intézmény nem magyar állampolgár hallgatójának belföldi szakmai gyakorlaton végzett munkájából származó jövedelem;
 
@@ -3232,23 +3279,17 @@ b) a központi költségvetésből jövedelempótlék vagy annak megfelelő jogc
 
 4.10. az egészségügyi és szociális intézményben a betegek, a gondozottak részére kifizetett munkaterápiás jutalom, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti fejlesztési foglalkoztatási díj;
 
-4.11. a szakképző iskolai tanulónak, a felsőfokú szakképzésben, felsőoktatási szakképzésben részt vevő hallgatónak tanulószerződés, hallgatói munkaszerződés alapján és a szakképzésben tanulószerződés nélkül részt vevő tanulónak a szorgalmi idő befejezését követő összefüggő szakmai gyakorlat időtartamára külön jogszabály szerint kötelezően kifizetett díjazás, továbbá a tanulószerződéses tanulót jogszabály alapján megillető kiegészítő pénzbeli juttatás, továbbá a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény vagy a szakképzésről szóló törvény alapján a szakképző iskolai tanulónak nyújtott ösztöndíj;
+4.11. a szakképző intézményben a tanulónak, illetve a képzésben részt vevő magánszemélynek a szakképzésről szóló törvény alapján meghatározott mértékben kifizetett ösztöndíj, az első szakma megszerzéséhez kapcsolódóan nyújtott egyszeri pályakezdési juttatás és a rászorultsági helyzetre és a jó tanulmányi eredményre tekintettel pályázat útján nyújtott támogatás, továbbá a szakképzési munkaszerződés alapján a duális képzőhelyen folytatott szakirányú oktatásban részt vevő magánszemélynek a szakképzésről szóló törvény alapján meghatározott mértékben kifizetett munkabér és a minimálbért meg nem haladó mértékű más pénzbeli és nem pénzbeli juttatás;
 
 4.12. a nemzeti felsőoktatási törvény szerinti
 
 4.12.1. hallgató részére
 
-a) a teljes idejű, a részidős, a távoktatásban megvalósuló képzésben részt vevőt, ideértve a doktori képzésben részt vevőt megillető juttatásként kifizetett
-
-– ösztöndíj,
-
-– tankönyv- és jegyzettámogatás teljes összege,
-
-– diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
+a) a teljes idejű, a részidős, a távoktatásban megvalósuló képzésben részt vevő magánszemély, ideértve a doktori képzésben részt vevő magánszemélyt megillető juttatásként kifizetett ösztöndíj, tankönyv- és jegyzettámogatás teljes összege, valamint diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
 
 b) a gyakorlati képzés idejére, duális képzés esetén az elméleti és a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
 
-c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Ösztöndíj, nemzeti felsőoktatási kiválóság ösztöndíj;
+c) folyósított Magyar Sportcsillagok Ösztöndíj, nemzeti felsőoktatási kiválóság ösztöndíj;
 
 d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályázat alapján nyújtott ösztöndíj;
 
@@ -3258,9 +3299,11 @@ d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályáz
 
 4.12.4. doktori fokozatszerzésre tekintettel kifizetett juttatás összege;
 
-4.13. a nemzeti köznevelésről szóló törvényben meghatározott nevelési-oktatási intézmény, a nemzeti felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy az egyházi jogi személy által a tanuló, hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, valamint a roma szakkollégium által a szakkollégiumi tagsági jogviszonyra tekintettel nyújtott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontban nem említett pénzbeli juttatás;
+4.12.5. Klebelsberg Képzési Ösztöndíj;
 
-4.14. a honvédtiszti alap- és mesterképzésben, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt ösztöndíja és egyéb pénzbeli juttatása, továbbá a honvédelemért felelős miniszter által alapított középiskolai, esélyegyenlőségi, önkéntes tartalékos szolgálati ösztöndíjban, a honvédelemért felelős miniszter által a polgári felsőoktatási intézmények és a szakképző iskolák hallgatói részére a katonai szolgálat vállalásának ösztönzése érdekében alapított ösztöndíjban, valamint a honvédelmi tárca gondoskodási körébe tartozó árvák részére alapított ösztöndíjban részesülők ösztöndíja;
+4.13. a köznevelési intézmény, a szakképző intézmény, a felsőoktatási intézmény, a helyi önkormányzat vagy az egyházi jogi személy által a tanuló, hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, valamint a roma szakkollégium által a szakkollégiumi tagsági jogviszonyra tekintettel nyújtott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontban nem említett pénzbeli juttatás;
+
+4.14. a honvédtiszti alap- és mesterképzésben, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt ösztöndíja és egyéb pénzbeli juttatása, továbbá a honvédelemért felelős miniszter által alapított középiskolai, esélyegyenlőségi, önkéntes tartalékos szolgálati ösztöndíjban, a honvédelemért felelős miniszter által a polgári felsőoktatási intézmények hallgatói, továbbá a rendvédelmi szakképző intézmény, illetve a honvédelmi szakképző intézmény tanulói részére a katonai szolgálat vállalásának ösztönzése érdekében alapított ösztöndíjban, valamint a honvédelmi tárca gondoskodási körébe tartozó árvák részére alapított ösztöndíjban részesülők ösztöndíja;
 
 4.15. az ösztöndíjas foglalkoztatottnak az ösztöndíjas foglalkoztatási jogviszonyból származó ösztöndíja minimálbért meg nem haladó mértéke;
 
@@ -3276,7 +3319,7 @@ d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályáz
 
 4.21. a magánszemély által külön jogszabály szerint felszolgálási díj címen megszerzett bevétel, valamint a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló.
 
-4.22. a Rezidens Támogatási Program keretében folyósított ösztöndíj, továbbá az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló kormányrendelet alapján az első szakképesítés megszerzésére irányuló képzésben történő részvétel során a támogatott jelöltnek a szakképzéssel kapcsolatos kiadások, dologi költségek megtérítésére az adott évre vonatkozó költségvetési törvényben meghatározott mértékű, utólagosan folyósított támogatás.
+4.22. a Rezidens Támogatási Program keretében folyósított ösztöndíj,
 
 4.23. a Kormány által alapított közigazgatási ösztöndíjprogram keretében folyósított ösztöndíj;
 
@@ -3294,9 +3337,9 @@ b) a munkáltató a szolgáltatást bármely, vagy – ha a pályázat a jogosul
 
 c) a szolgáltatás igénybevétele nem minősül a tevékenység ellenértékének,
 
-azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatónál másik munkáltató utasítása alapján a munkaszerződésében rögzített munkahelytől eltérő helyen foglalkoztatott munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakképző iskolai tanuló, a kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
+azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatónál másik munkáltató utasítása alapján a munkaszerződésében rögzített munkahelytől eltérő helyen foglalkoztatott munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakmai oktatásban részt vevő magánszemély, a kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
 
-4.26. a szakiskolai és szakközépiskolai képzésbe történő bekapcsolódást célzó, a társadalmi felzárkózást elősegítő „Út a szakmaválasztáshoz” program keretében, európai uniós forrás terhére adományozott tanulói ösztöndíj.
+4.26.
 
 4.27. a kifizető által független félnek biztosított olyan szolgáltatás, amelynek forrása az Európai Unió intézménye által meghirdetett pályázat alapján az Európai Unió valamely pénzügyi alapja vagy az Európai Unió valamely pénzügyi alapja és az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatás, feltéve, hogy a szolgáltatás nem minősül a magánszemély tevékenysége ellenértékének;
 
@@ -3318,13 +3361,13 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 
 4.36. a Bolyai János kutatási ösztöndíj;
 
-4.37. a szakképzésről szóló törvény és az iskolai rendszerű szakképzésben részt vevő tanulók juttatásairól szóló miniszteri rendelet alapján a szakképző iskolai tanulóknak gyakorlati képzésük ideje alatt kötelezően biztosított vagy a gyakorlati képzést végző szervezet által saját döntése alapján biztosított nem pénzbeli juttatások, ideértve az utazási költségtérítést is.
+4.37.
 
 4.38. a külügyi és külgazdasági szakmai ismeretek fejlesztésére, valamint a külügyi és külgazdasági területet érintő ágazati szakmai kutatási és tudományos tevékenység támogatásának elősegítésért a külpolitikáért felelős miniszter által működtetett ösztöndíjprogram keretében biztosított ösztöndíj és juttatás a folyósítás időpontjától függetlenül;
 
 4.39. a felsőfokú végzettséggel rendelkező ápolókat és mentőtiszteket a mesterfokozat, az oklevelesápolói szakképzettség megszerzésében támogató, a Kormány rendeletében előírt feltételekkel kiírt pályázaton elnyert Michalicza-ösztöndíj a folyósítás időpontjától függetlenül;
 
-4.40. a kormányrendeletben meghatározott Szabóky Adolf Szakképzési Ösztöndíj a folyósítás időpontjától függetlenül;
+4.40.
 
 4.41. az az összeg, amelyet a magánszemély, a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott díjjal járó járadék címén kap;
 
@@ -3562,9 +3605,9 @@ c) a nemzetközi sportszövetséggel foglalkoztatásra irányuló jogviszonyban 
 
 8.6. az ingyenesen vagy kedvezményesen juttatott
 
-a) a gyermeknek vagy rá tekintettel más magánszemélynek a köznevelésről szóló törvény vagy annak felhatalmazása alapján kiadott rendelet, vagy a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény, és a hallgatónak a nemzeti felsőoktatásról szóló törvény alapján nem pénzben biztosított ellátás;
+a) a gyermeknek, tanulónak vagy rá tekintettel más magánszemélynek a nemzeti köznevelésről szóló törvény vagy annak felhatalmazása alapján kiadott rendelet, a szakképzésről szóló törvény vagy annak felhatalmazása alapján kiadott rendelet, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény, és a hallgatónak a nemzeti felsőoktatásról szóló törvény alapján nem pénzben biztosított ellátás;
 
-b) a köznevelésről szóló törvény szerinti nevelési-oktatási intézmény által az intézmény tanulói számára adott, a helyi vagy helyközi tömegközlekedési eszköz igénybevételét szolgáló bérlet, jegy;
+b) a köznevelési intézmény tanulója, illetve a szakképző intézmény tanulója számára adott, a helyi vagy helyközi tömegközlekedési eszköz igénybevételét szolgáló bérlet, jegy;
 
 c) bölcsődei, óvodai szolgáltatás, bölcsődei, óvodai ellátás, ideértve azt is, ha a kifizető a bölcsődei, óvodai szolgáltatás térítési díját a magánszemély nevére kiállított számla alapján téríti meg;
 
@@ -3606,7 +3649,7 @@ b) üzleti forgalmának növelése érdekében valamely termék megismertetése 
 
 8.15. az a személyszállítási közszolgáltatási utazási kedvezmény, amely után a kifizető a személyszállítási szolgáltatásokról szóló törvényben meghatározott szociálpolitikai menetdíj-támogatásban részesül;
 
-8.16. a Magyar Honvédség, a rendvédelmi szervezetek, valamint a Nemzeti Adó- és Vámhivatal tartósan fokozott igénybevételnek kitett, terepfoglalkozáson, gyakorlaton részt vevő vagy őr- és ügyeleti szolgálatot ellátó hivatásos és szerződéses állományú tagjának, valamint a polgári védelmi szervezet békeidőszaki, különleges jogrendi katasztrófa elhárításában résztvevőnek a szolgálati feladattal összefüggésben nyújtott természetbeni ellátása, továbbá a tartalékos katona, a rendvédelmi középiskola tanulója, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt kizárólag e jogviszonyával összefüggésben a szolgálati feladathoz kapott nem pénzbeli ellátása, azzal, hogy e rendelkezés alkalmazásában tartósan fokozott igénybevételnek kitett magánszemély a szerződéses legénységi és önkéntes tartalékos, a terrorelhárító, a repülőhajózó, a repülő műszaki, a búvár, a tűzszerész, az ejtőernyős és a békefenntartó feladatokra vezényelt hivatásos és szerződéses katonák állományának a tagja;
+8.16. a Magyar Honvédség, a rendvédelmi szervezetek, valamint a Nemzeti Adó- és Vámhivatal tartósan fokozott igénybevételnek kitett, terepfoglalkozáson, gyakorlaton részt vevő vagy őr- és ügyeleti szolgálatot ellátó hivatásos és szerződéses állományú tagjának, valamint a polgári védelmi szervezet békeidőszaki, különleges jogrendi katasztrófa elhárításában résztvevőnek a szolgálati feladattal összefüggésben nyújtott természetbeni ellátása, továbbá a tartalékos katona, a rendvédelmi szakképző intézmény tanulója, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt kizárólag e jogviszonyával összefüggésben a szolgálati feladathoz kapott nem pénzbeli ellátása, azzal, hogy e rendelkezés alkalmazásában tartósan fokozott igénybevételnek kitett magánszemély a szerződéses legénységi és önkéntes tartalékos, a terrorelhárító, a repülőhajózó, a repülő műszaki, a búvár, a tűzszerész, az ejtőernyős és a békefenntartó feladatokra vezényelt hivatásos és szerződéses katonák állományának a tagja;
 
 8.17. összeghatártól függetlenül a sportversenyen vagy sportvetélkedőn nyert érem, serleg, trófea;
 
@@ -3620,11 +3663,11 @@ b) a köztársasági elnök, az Országgyűlés elnöke, a miniszterelnök, az e
 
 8.21. a kormányrendeletben meghatározott, adómentes juttatásnak minősülő, szociálpolitikai menetdíj-támogatást nem tartalmazó közlekedési kedvezmény;
 
-8.22. a Nemzeti Kulturális Alap támogatásával szervezett rendezvényhez, programhoz kapcsolódó utazás, szállás, étkezés értékének a támogatás összegét meg nem haladó része, továbbá az a juttatás, amelyet az államháztartás – a juttatás forrása alapján akár közvetetten is – valamely alrendszeréből, az egyházi jogi személy forrásából vagy a köznevelési intézmény saját bevételéből
+8.22. a Nemzeti Kulturális Alap támogatásával szervezett rendezvényhez, programhoz kapcsolódó utazás, szállás, étkezés értékének a támogatás összegét meg nem haladó része, továbbá az a juttatás, amelyet az államháztartás – a juttatás forrása alapján akár közvetetten is – valamely alrendszeréből, az egyházi jogi személy forrásából, a köznevelési intézmény vagy a szakképző intézmény saját bevételéből
 
-a) a köznevelésről szóló törvény szerinti sajátos nevelési igényű gyermek, tanuló kulturális, sport és más hasonló rendezvény alkalmával nem pénzbeli formában kap, ideértve a rendezvényhez kapcsolódó utazást, szállást, étkezést és egyéb, a rendezvénnyel szokásszerűen együtt járó juttatást is;
+a) a sajátos nevelési igényű gyermek, tanuló kulturális, sport és más hasonló rendezvény alkalmával nem pénzbeli formában kap, ideértve a rendezvényhez kapcsolódó utazást, szállást, étkezést és egyéb, a rendezvénnyel szokásszerűen együtt járó juttatást is;
 
-b) a köznevelésben vagy hasonló képzésben részt vevő gyermek, tanuló a tanulmányi kirándulás, táborozás, tanulmányi verseny alkalmával kap (ideértve az iskolai könyvjutalmat is);
+b) a gyermek, tanuló a tanulmányi kirándulás, táborozás, tanulmányi verseny alkalmával kap (ideértve az iskolai könyvjutalmat is);
 
 c) az a)–b) pontokban említett rendezvényeken a gyermekek, tanulók felügyeletét ellátó magánszemély a jelenlétének, közreműködésének biztosításához szükséges feltételek biztosításaként nem pénzbeli (ide értve különösen az utazást, szállást, étkezést) formában kap.
 
@@ -3674,7 +3717,7 @@ az adóévben legfeljebb – az a) és b) pont szerinti juttatási körben kül�
 
 8.42. az Európai Unió valamely pénzügyi alapja vagy az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatásból a Családbarát Ország projekt keretében nem pénzben biztosított juttatás, így különösen a babacsomag, a kelengyecsomag.
 
-8.43. a hallgatók, diákok, oktatók széles köre számára köznevelési vagy felsőoktatási intézmény által működési körében meghirdetett rendezvény – ideértve a közösségépítő, hagyományőrző rendezvényeket is – keretében nyújtott szolgáltatás, továbbá a rendezvény összes költségének 10 százalékát meg nem haladó mértékben biztosított vendéglátás, a juttatás időpontjától függetlenül, akkor is, ha a rendezvényen a tanulókon, hallgatókon, tanárokon, oktatókon kívül más személy is részt vehet.
+8.43. a hallgatók, diákok, oktatók széles köre számára köznevelési intézmény, szakképző intézmény vagy felsőoktatási intézmény által működési körében meghirdetett rendezvény – ideértve a közösségépítő, hagyományőrző rendezvényeket is – keretében nyújtott szolgáltatás, továbbá a rendezvény összes költségének 10 százalékát meg nem haladó mértékben biztosított vendéglátás, a juttatás időpontjától függetlenül, akkor is, ha a rendezvényen a tanulókon, hallgatókon, tanárokon, oktatókon kívül más személy is részt vehet.
 
 9. Adómentességre vonatkozó vegyes rendelkezések:
 

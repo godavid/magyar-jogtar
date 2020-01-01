@@ -326,7 +326,7 @@ kézbesítettnek kell tekinteni.
 
 (2) Munkavállaló az lehet, aki a tizenhatodik életévét betöltötte. Ettől eltérően munkavállaló lehet – az iskolai szünet alatt – az a tizenötödik életévét betöltött tanuló, aki nappali rendszerű képzés keretében tanulmányokat folytat.
 
-(3) A gyámhatóság engedélye alapján a jogszabályban meghatározott kulturális, művészeti, sport-, hirdetési tevékenység keretében a tizenhatodik életévét be nem töltött személy is foglalkoztatható.
+(3) A gyámhatósághoz a foglalkoztatást megelőző legalább 15 nappal történő előzetes bejelentés alapján a jogszabályban meghatározott kulturális, művészeti, sport-, hirdetési tevékenység keretében a tizenhatodik életévét be nem töltött személy is foglalkoztatható.
 
 #### 22. Eltérő megállapodás
 
@@ -343,11 +343,13 @@ kézbesítettnek kell tekinteni.
 - c) a 38. § (1) bekezdésében,
 - d) a 39–40. §-ban,
 - e) a 66. § (3) bekezdésében,
-- f) a 228. § (4) bekezdésében,
+- f) a 228. § (5) bekezdésében,
 - g) a 229. § (4) bekezdésében, valamint
 - h) a 282. §-ban
 
 foglaltak nem alkalmazhatók.
+
+(3) A (2) bekezdés rendelkezései irányadóak a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvényben meghatározott vagyonértékesítési eljárásban, áthidaló intézmény alkalmazásában vagy eszköz elkülönítés alkalmazásában.
 
 37. § Az átadó munkáltató az átszállást megelőzően köteles tájékoztatni az átvevő munkáltatót az átszállással érintett munkaviszonyokból, valamint a versenytilalmi megállapodásokból és a tanulmányi szerződésekből származó jogokról és kötelezettségekről. A tájékoztatás elmaradása az átvevő munkáltatóval szemben e jogviszonyokból származó igények érvényesítését nem érinti.
 
@@ -633,7 +635,7 @@ foglalkoztatás lehetőségéről.
 
 (2) A munkavállaló munkaszerződés módosítására irányuló ajánlatára a munkáltató tizenöt napon belül írásban nyilatkozik.
 
-(3) A munkáltató a munkavállaló ajánlatára a gyermek hároméves koráig – három vagy több gyermeket nevelő munkavállaló esetén a gyermek ötéves koráig – köteles a munkaszerződést az általános teljes napi munkaidő felének megfelelő tartamú részmunkaidőre módosítani.
+(3) A munkáltató a munkavállaló ajánlatára a gyermek négyéves koráig – három vagy több gyermeket nevelő munkavállaló esetén a gyermek hatéves koráig – köteles a munkaszerződést az általános teljes napi munkaidő felének megfelelő tartamú részmunkaidőre módosítani.
 
 #### 35. Eltérő megállapodás
 
@@ -704,7 +706,7 @@ nem szolgálhat a munkáltató felmondásának indokául.
 
 (5) A (4) bekezdésben meghatározott munkavállaló munkaviszonya a munkavállaló képességével vagy a munkáltató működésével összefüggő okból akkor szüntethető meg, ha a munkáltatónál a 45. § (3) bekezdése szerinti munkahelyen nincs a munkavállaló által betöltött munkakörhöz szükséges képességnek, végzettségnek, gyakorlatnak megfelelő betöltetlen másik munkakör vagy a munkavállaló az e munkakörben való foglalkoztatásra irányuló ajánlatot elutasítja.
 
-(6) Az anya vagy a gyermekét egyedül nevelő apa munkaviszonyának felmondással történő megszüntetése esetén a gyermek hároméves koráig a (4)–(5) bekezdésben foglaltakat kell alkalmazni, ha a munkavállaló szülési vagy a gyermek gondozása céljából fizetés nélküli szabadságot (128. §) nem vesz igénybe.
+(6) Az anya vagy a gyermekét egyedül nevelő apa munkaviszonyának felmondással történő megszüntetése esetén a gyermek hároméves koráig a (4)–(5) bekezdésben foglaltakat kell alkalmazni, ha a munkavállaló szülési vagy a gyermek gondozása céljából fizetés nélküli szabadságot [128. § (1) és (2) bekezdése] nem vesz igénybe.
 
 (7) A munkáltató a rehabilitációs ellátásban vagy rehabilitációs járadékban részesülő munkavállaló munkaviszonyát a munkavállaló egészségi okkal összefüggő képességével indokolt felmondással akkor szüntetheti meg, ha a munkavállaló eredeti munkakörében nem foglalkoztatható tovább és a munkavállaló számára állapotának egészségi szempontból megfelelő munkakört nem tud felajánlani, vagy a munkavállaló a felajánlott munkakört alapos ok nélkül nem fogadja el.
 
@@ -1133,7 +1135,9 @@ lehet.
 (3) A 92. § (2) bekezdése alapján foglalkoztatott munkavállaló esetén – a felek írásbeli megállapodása alapján – a munkavállaló beosztás szerinti
 
 - a) napi munkaideje legfeljebb huszonnégy óra,
-- b) heti munkaideje legfeljebb hetvenkét óra lehet. A megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidő-keret elrendelése esetén a munkaidő-keret utolsó napjára tizenöt napos határidővel felmondhatja.
+- b) heti munkaideje legfeljebb hetvenkét óra
+
+lehet. A megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidőkeret elrendelése esetén a munkaidőkeret utolsó napjára tizenöt napos határidővel felmondhatja. A megállapodás felmondása esetén a munkavállalót – a 6. és 7. §-ban foglaltakra figyelemmel – jogellenesen hátrány nem érheti.
 
 (4) A munkavállaló beosztás szerinti napi vagy heti munkaideje a (2)–(3) bekezdésben meghatározott tartamot legfeljebb egy órával meghaladhatja, ha a téli időszámítás kezdete a munkaidő-beosztás szerinti munkaidőre esik.
 
@@ -1463,7 +1467,7 @@ munkanap pótszabadság jár.
 
 127. § (1) Az anya egybefüggő 24 hét szülési szabadságra jogosult azzal, hogy ebből két hetet köteles igénybe venni.
 
-(2) A szülési szabadság annak a nőnek is jár, aki a gyermeket örökbefogadási szándékkal nevelésbe vette.
+(2) A szülési szabadság annak a szülőnek is jár, aki a gyermeket az anya egészségi állapota vagy halála miatt végrehajtható bírósági ítélet vagy végrehajtható gyámhatósági határozat alapján gondozza.
 
 (3) A szülési szabadságot – eltérő megállapodás hiányában – úgy kell kiadni, hogy legfeljebb négy hét a szülés várható időpontja elé essen.
 
@@ -1471,7 +1475,11 @@ munkanap pótszabadság jár.
 
 (5) A szülési szabadság tartamát a kifejezetten munkavégzéshez kapcsolódó jogosultságot kivéve, munkában töltött időnek kell tekinteni.
 
-128. § A munkavállaló gyermeke harmadik életéve betöltéséig – a gyermek gondozása céljából – fizetés nélküli szabadságra jogosult, amelyet a munkavállaló kérésének megfelelő időpontban kell kiadni.
+128. § (1) A munkavállaló gyermeke harmadik életéve betöltéséig – a gyermek gondozása céljából – fizetés nélküli szabadságra jogosult, amelyet a munkavállaló kérésének megfelelő időpontban kell kiadni.
+
+(2) A munkavállaló – örökbe fogadott gyermeke gondozása céljából – a gyermek gondozásba történő kihelyezésének kezdő időpontjától számított három évig, három évesnél idősebb gyermek esetén hat hónapig fizetés nélküli szabadságra jogosult, amelyet a munkavállaló kérésének megfelelő időpontban kell kiadni.
+
+(3) A munkavállaló a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/G. §-a szerinti gyermekgondozási díj időtartamára fizetés nélküli szabadságra jogosult.
 
 129. § (1) A 127–128. §-ban meghatározott szabadság megszűnik
 
@@ -1481,7 +1489,7 @@ munkanap pótszabadság jár.
 
 (2) Az (1) bekezdésben megjelölt esetben a szabadság tartama – a szülést követően – hat hétnél rövidebb nem lehet.
 
-130. § A munkavállalónak gyermeke személyes gondozása érdekében – a 128. §-ban foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély, gyermekgondozást segítő ellátás folyósításának tartama alatt.
+130. § A munkavállalónak gyermeke személyes gondozása érdekében – a 128. § (1) és (2) bekezdésében foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozást segítő ellátás folyósításának tartama alatt.
 
 131. § (1) A munkavállalónak hozzátartozója tartós – előreláthatólag harminc napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre fizetés nélküli szabadság jár.
 
@@ -2473,11 +2481,13 @@ foglaltakat nem lehet alkalmazni.
 
 (2) Az (1) bekezdés szerinti kötelezettség teljesítéséért a munkáltató megfelelő ellenértéket fizet. Az ellenérték összegének meghatározásánál különösen arra kell tekintettel lenni, hogy a megállapodás milyen mértékben akadályozza a munkavállalót – elsősorban képzettségére és gyakorlatára tekintettel – újabb munkavégzésre irányuló jogviszony létesítésében. Az ellenérték a megállapodás tartamára nem lehet kevesebb, mint az azonos időszakra járó alapbér egyharmada.
 
-(3) A munkavállaló, ha munkaviszonyát a 78. § (1) bekezdése alapján szünteti meg, a megállapodástól elállhat.
+(3) A versenytilalmi megállapodást írásba kell foglalni.
 
-(4) A munkáltató személyében bekövetkező változás esetén a megállapodásból származó jogok és kötelezettségek az átvevő munkáltatóra átszállnak.
+(4) A munkavállaló, ha munkaviszonyát a 78. § (1) bekezdése alapján szünteti meg, a megállapodástól elállhat.
 
-(5) Kötbér kikötése esetén a Ptk. 6:186–189. §-a irányadó.
+(5) A munkáltató személyében bekövetkező változás esetén a megállapodásból származó jogok és kötelezettségek az átvevő munkáltatóra átszállnak.
+
+(6) Kötbér kikötése esetén a Ptk. 6:186–189. §-a irányadó.
 
 #### 103. A tanulmányi szerződés
 
@@ -2499,6 +2509,20 @@ foglaltakat nem lehet alkalmazni.
 (7) A tanulmányi szerződést a fél azonnali hatállyal felmondhatja, ha körülményeiben olyan lényeges változás következett be, amely a kötelezettség teljesítését lehetetlenné tenné, vagy az aránytalan sérelemmel járna. A munkavállaló felmondása esetén a munkáltató a nyújtott támogatást visszakövetelheti. A munkáltató a támogatást arányosan követelheti vissza, ha a munkavállaló a szerződésben kikötött tartamnak csak egy részét töltötte le. A munkáltató felmondása esetén a támogatás nem követelhető vissza.
 
 (8) Kötbér kikötése esetén a Ptk. 6:186–189. §-a irányadó.
+
+229/A. § (1) A felek megállapodása vagy kollektív szerződés
+
+- a) a 228. § (3) bekezdésében,
+- b) a 229. § (3) bekezdésében
+
+foglaltaktól nem térhet el.
+
+(2) Kollektív szerződés
+
+- a) a 228. § (2) bekezdésében,
+- b) a 229. § (1) bekezdésében
+
+foglaltaktól csak a munkavállaló javára térhet el.
 
 ## HARMADIK RÉSZ — A MUNKAÜGYI KAPCSOLATOK
 
@@ -3189,6 +3213,7 @@ a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak 
 - l) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól,
 - m) az Európai Parlament és Tanács 2008/104/EK irányelve (2008. november 19.) a munkaerő-kölcsönzés egyes szabályairól,
 - n) az Európai Parlament és Tanács 2014/67/EU irányelve (2014. május 15.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról,
-- o) az Európai Parlament és a Tanács 2015/1794/EU irányelve (2015. október 6.) a 2008/94/EK, a 2009/38/EK és a 2002/14/EK európai parlamenti és tanácsi irányelvnek, valamint a 98/59/EK és a 2001/23/EK tanácsi irányelvnek a tengerészek tekintetében történő módosításáról.
+- o) az Európai Parlament és a Tanács 2015/1794/EU irányelve (2015. október 6.) a 2008/94/EK, a 2009/38/EK és a 2002/14/EK európai parlamenti és tanácsi irányelvnek, valamint a 98/59/EK és a 2001/23/EK tanácsi irányelvnek a tengerészek tekintetében történő módosításáról,
+- p) az Európai Parlament és a Tanács 2014/59/EU irányelve (2014. május 15.) a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU, 2012/30/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról.
 
 300. § A 10–11. §, valamint a 11/A. § a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. árpilis 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.

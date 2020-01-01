@@ -106,12 +106,12 @@ az eljáró adóhatóság gondoskodik ügygondnok kirendeléséről.
 
 (1) A meghatalmazott a képviseleti jogosultságát – ha a meghatalmazást az adózó nem a (2) bekezdés szerinti felületen adta – köteles igazolni. A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni vagy jegyzőkönyvbe kell mondani.
 
-(2) Az állami adó- és vámhatóság az adózók állandó meghatalmazásainak rögzítésére elektronikus felületet működtet.
+(2) Az állami adó- és vámhatóság az adózók állandó meghatalmazásainak rögzítésére elektronikus felületet működtet, továbbá az erre a célra rendszeresített elektronikus űrlapon fogadja az önkormányzati adóhatóság előtt helyi iparűzési adóügyben eljárni jogosult állandó meghatalmazottra vonatkozó bejelentést.
 
-(3) Adóügyekben meghatalmazást elektronikusan
+(3) Meghatalmazást elektronikusan
 
-- a) természetes személy, valamint egyéni vállalkozó adózó esetében a rendelkezési nyilvántartásban, valamint a (2) bekezdés szerinti elektronikus felületen,
-- b) az a) pontban nem megjelölt adózó, valamint törvényes képviselője esetében a (2) bekezdés szerinti felületen vagy
+- a) az önkormányzati adóhatóság hatáskörébe tartozó ügyben az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti elektronikus ügyintézést biztosító információs rendszeren keresztül,
+- b) az állami adó- és vámhatóság hatáskörébe tartozó ügyben a (2) bekezdés szerinti elektronikus felületen, vagy
 - c) a polgári perrendtartásról szóló törvény alapján elektronikusan hitelesített közokiratba vagy teljes bizonyító erejű magánokiratba foglalva
 
 lehet tenni.
@@ -374,11 +374,18 @@ az az adóhatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 
 #### 37. § [Az adatok zárt kezelése]
 
-(1) Indokolt esetben az adóhatóság kérelemre vagy hivatalból elrendeli az adózó és az eljárás egyéb résztvevője természetes személyazonosító adatainak és lakcímének zárt kezelését, ha az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti. A végzést a kérelmet előterjesztővel kell közölni.
+(1) Az adóhatóság kérelemre vagy hivatalból elrendeli az adózó, illetve az eljárás egyéb résztvevője természetes személyazonosító adatainak és lakcímének zárt kezelését, ha
+
+- a) őt az eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti, vagy
+- b) ugyanazon tényállás alapján a jogerősen vagy véglegesen lezárt, vagy párhuzamosan zajló más bírósági vagy hatósági eljárásban az adózó vagy az eljárás egyéb résztvevője adatainak zárt kezelését rendelték el.
 
 (2) A szakértő az (1) bekezdésben foglaltak szerint az igazságügyi szakértői névjegyzék nyilvános adatain kívüli természetes személyazonosító adatai és lakcíme zárt kezelését kérheti.
 
-(3) A természetes személyazonosító adatokat és a lakcímet az adóhatóság az ügy iratai között elkülönítve, zártan kezeli és biztosítja, hogy a zártan kezelt adatok az eljárási cselekmények során ne váljanak megismerhetővé.
+(3) Az adóhatóság
+
+- a) az adatok zárt kezeléséről szóló végzést kizárólag azzal közli, akinek adatai zárt kezelését elrendelte,
+- b) a természetes személyazonosító adatokat és a lakcímet az ügy iratai között elkülönítve, zártan kezeli és
+- c) biztosítja, hogy a zártan kezelt adatok az eljárási cselekmények során ne váljanak megismerhetővé.
 
 (4) A zártan kezelt adatok megismerésére csak az adóhatóság, a nyomozó hatóság, a felügyeleti szerv, valamint a fellebbezés elbírálására jogosult felettes szerv, az illetékes ügyész, a bíróság és a Nemzeti Adatvédelmi és Információszabadság Hatóság jogosult.
 
@@ -1379,8 +1386,9 @@ Fellebbezés benyújtására az jogosult, akire a döntés rendelkezést tartalm
 - h) a többletköltségek megtérítésére kötelező,
 - i) az eljárási költség viselésével kapcsolatos, a költségmentességi kérelmet elutasító,
 - j) a kézbesítési kifogás tárgyában hozott elutasító,
-- k) az áru hatósági felügyelet alá vonását elrendelő, valamint
-- l) a visszatartási jog gyakorlásáról rendelkező
+- k) az áru hatósági felügyelet alá vonását elrendelő
+- l) a visszatartási jog gyakorlásáról rendelkező, valamint
+- m) a hatósági átvezetésről rendelkező
 
 végzés ellen.
 
@@ -1579,7 +1587,8 @@ Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 - c) az ellenőrzésre vonatkozó részletes szabályokat;
 - d) a hatósági zár alkalmazásának részletes szabályait;
 - e) az adóigazgatási eljárásban kirendelt ügygondok tevékenységének részletes szabályait,
-- f) az adóigazgatási eljárásban az eljárási költségek, az iratbetekintéssel összefüggő költségtérítés, a költségek megfizetése, valamint a költségmentesség részletes szabályait.
+- f) az adóigazgatási eljárásban az eljárási költségek, az iratbetekintéssel összefüggő költségtérítés, a költségek megfizetése, valamint a költségmentesség részletes szabályait,
+- g) az ügyintézési határidőre és az adóhatóság előtti képviseletre vonatkozó részletes szabályokat.
 
 #### 55. Hatálybalépés
 

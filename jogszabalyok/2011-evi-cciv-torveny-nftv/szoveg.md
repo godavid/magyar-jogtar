@@ -759,7 +759,7 @@ címet adományozhat.
 41. § (1) A Kormány
 
 - a) hátrányos helyzetű hallgatói csoport,
-- b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, csecsemőgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
+- b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
 - c) fogyatékossággal élő jelentkezők csoportjához tartozók,
 - d) nemzetiséghez tartozó jelentkezők csoportjához tartozók
 
@@ -1052,7 +1052,7 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 48/L. § A hazai munkaviszony időtartamába beleszámít
 
-- a) a csecsemőgondozási díj, a gyermekgondozást segítő ellátás és a gyermekgondozási díj folyósításának időtartama,
+- a) a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozást segítő ellátás és a gyermekgondozási díj folyósításának időtartama,
 - b) az az időszak, amely alatt a volt magyar állami (rész)ösztöndíjas hallgató részére álláskeresési járadékot folyósítottak.
 
 48/M. § (1) A volt magyar állami (rész)ösztöndíjas hallgatónak nem kell teljesítenie a 48/A. § a) pontjában meghatározott feltételt, illetve a 48/A. § c) pont alapján fennálló még nem teljesített kötelezettséget, ha három gyermeket szül.
@@ -2483,7 +2483,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 - 1. doktorandusz: a doktori képzésben részt vevő hallgató;
 - 1a. doktori értekezés: a doktorandusz által készített írásmű, alkotás vagy munka, amellyel bizonyítja, hogy a fokozat követelményeihez mért tudományos feladat önálló megoldására képes;
-- 1b. duális képzés: a műszaki, informatika, agrár, természettudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, teljes idejű, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
+- 1b. duális képzés: a műszaki, informatika, agrár, természettudomány, egészségtudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, teljes idejű, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
 - 2. egészségügyi alkalmassági vizsgálat: orvosi vizsgálat, amelynek célja annak megállapítása, hogy az egyén testi adottságai és egészségi állapota alapján képes-e felkészülni a választott tevékenység ellátására, ennek során nem kerül-e veszélybe egészsége;
 - 2a. egyetemi kórház: az az egészségügyi szolgáltató, amely az egészségügyi felsőoktatási intézmény szervezeti egységeként az Eütv. alapján a működési engedélyében meghatározott ellátási területen és progresszivitási szinten járó- és fekvőbetegek diagnosztikus és terápiás szakorvosi ellátását, rehabilitációt és követéses gondozást, valamint a működési engedélyében meghatározott egyéb egészségügyi szolgáltatásokat végez, valamint közreműködik az orvos-, fogorvos-, gyógyszerész- és egészségtudományi képzéssel összefüggő gyakorlati képzési és kutatási feladatok ellátásában;
 - 3. esti képzés munkarendje: olyan oktatásszervezési rend, mely szerint a hallgatók tanóráira a szorgalmi időszakban munkanapokon tizenhat óra után vagy a heti pihenőnapon kerül sor;
@@ -2569,7 +2569,7 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 - 8. a felvételhez szükséges érettségi vizsga teljesítésével kapcsolatos követelményeket, az érettségi vizsgatárgyakat, a nyelvi követelményeket, a jelentkezők eredményeinek megfeleltetését, a jelentkezések elbírálási rendjét, a többletteljesítmények, beszámítása, a jelentkezők rangsorolásának, valamint felsőoktatási intézménybe való besorolásának elveit és módját a felsőoktatási felvételi tájékoztatás módját, ezen belül a felvételi feltételek, illetve az alkalmassági követelmények a felvételt legalább két évvel megelőzően történő közzétételének rendjét, a felvételi eljárások igazgatási szolgáltatási díjainak mértékét, befizetésének módját és visszatérítésének feltételeit, azon alapszakokat, amelyek esetében a felvétel gyakorlati vizsga, egészségügyi alkalmassági vizsgálat alkalmazásával történik, továbbá azt, hogy a felsőoktatási intézmények milyen feltételekkel szervezhetnek szóbeli felvételi vizsgát,
 - 9. a felvételi eljárás azon feltételeit, amelyek
   - a) hátrányos helyzetű hallgatói (jelentkezői) csoport,
-  - b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, csecsemőgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
+  - b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
   - c) fogyatékossággal élő jelentkezők csoportjához tartozók,
   - d) nemzetiséghez tartozó jelentkezők csoportjához tartozók
 
@@ -2909,8 +2909,6 @@ kell érteni.
 (4b) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltáshoz kapcsolódóan ingyenes vagyonjuttatásként kapott eszközöket – ide nem értve a (4c) bekezdésben foglalt pénzeszközöket – nyilvántartási értéken mint bekerülési értéken a tőketartalékkal szemben köteles a könyveibe felvenni. Azon eszközöknél, amelyekhez a jogelődnél részben vagy egészben halasztott bevétel kapcsolódott, az ingyenes vagyonjuttatásként történő átvételt a jogelőd könyveiben halasztott bevételként megjelenő összeg erejéig a tőketartalék helyett a halasztott bevételekkel szemben kell elszámolni.
 
 (4c) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltáshoz kapcsolódóan a jogelőd felsőoktatási intézmény által az állami fenntartó útján a jogutód felsőoktatási intézmény részére átadott pénzeszközt az eredménytartalékkal szemben köteles a könyveibe felvenni.
-
-(5) A fenntartóváltás következtében a felsőoktatási intézmény mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonya a fenntartói jog átszállásának időpontjában megszűnik és – a (7) és (8) bekezdésben meghatározottak szerint – a megszűnését követő nappal munkaviszonnyá alakul. A munkáltató és foglalkoztatott közötti jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (7) bekezdésében foglaltakat, valamint a 37. § (2) bekezdés c) pont rendelkezéseit kell alkalmazni.
 
 (5) A fenntartóváltás következtében a felsőoktatási intézmény mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonya a fenntartói jog átszállásának időpontjában megszűnik és – a (7) és (8) bekezdésben meghatározottak szerint – a megszűnését követő nappal munkaviszonnyá alakul. A munkáltató és foglalkoztatott közötti jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (7) bekezdésében foglaltakat, valamint a 37. § (2) bekezdés c) pont rendelkezéseit kell alkalmazni.
 

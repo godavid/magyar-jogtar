@@ -1532,7 +1532,7 @@ biztosítja.
 
 (9) A bíróság, az ügyészség és a nyomozó hatóság – e törvény eltérő rendelkezésének hiányában – az indítvány előterjesztésétől számított tizenöt napon belül biztosítja az eljárás (2) bekezdés szerint meghatározott ügyiratai közül azoknak a megismerését, amelyek vonatkozásában a megismerést nem korlátozta.
 
-101. § (1) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, pártfogó felügyelő, megelőző pártfogó felügyelő, nyomozó hatóság, közigazgatási hatóság, kormányzati ellenőrzési szerv, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Védelmi Szolgálat, a katona terhelt állományilletékes parancsnoka a törvényben meghatározott feladata ellátásához szükséges mértékben és időtartamban megismerheti az eljárás ügyiratait. A megismerési jog a nyomozás befejezéséig az eljárás érdekeire figyelemmel korlátozható. A megismerés korlátozása ellen nincs helye jogorvoslatnak.
+101. § (1) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, állami adó- és vámhatóság, pártfogó felügyelő, megelőző pártfogó felügyelő, nyomozó hatóság, közigazgatási hatóság, kormányzati ellenőrzési szerv, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Védelmi Szolgálat, a katona terhelt állományilletékes parancsnoka a törvényben meghatározott feladata ellátásához szükséges mértékben és időtartamban megismerheti az eljárás ügyiratait. A megismerési jog a nyomozás befejezéséig az eljárás érdekeire figyelemmel korlátozható. A megismerés korlátozása ellen nincs helye jogorvoslatnak.
 
 (2) Törvénnyel kihirdetett nemzetközi szerződéssel vagy európai uniós jogi aktussal létrehozott szerv, a szerv ilyen jogforrásban meghatározott feladatainak ellátásához szükséges mértékben és időtartamban az (1) bekezdésben foglaltak szerint ismerheti meg az eljárás ügyiratait.
 
@@ -4413,6 +4413,8 @@ szükséges.
 
 (5) Ha a zár alá vétel elrendelésére a bíróság jogosult és az elrendeléshez szükséges bírósági határozat meghozatala olyan késedelemmel járna, amely a zár alá vétellel elérni kívánt célt jelentősen veszélyeztetné, az ügyészség, illetve a nyomozó hatóság a bíróság döntéséig elrendelheti a zár alá vételt. Ilyen esetben a bíróság határozatát utólag haladéktalanul be kell szerezni. Ha a zár alá vételt a bíróság nem rendeli el, a zár alá vétel feloldásáról rendelkezik és késedelem nélkül intézkedik annak végrehajtása iránt.
 
+(6) Ha az ingatlan zár alá vételére a Btk. 75. § (1) bekezdésében meghatározott vagyonelkobzás biztosítása vagy kártérítésre, illetve pénz fizetésére irányuló polgári jogi igény biztosítása érdekében került sor, a határozat rendelkező részében fel kell tüntetni a zár alá vétellel biztosítandó pénzkövetelés összegét is.
+
 ### A zár alá vétel végrehajtása
 
 328. § (1) Ha van olyan közhiteles nyilvántartás, amelyben a zár alá vett vagyont nyilván kell tartani, a zár alá vételt a zár alá vétel tényének közhiteles nyilvántartásba történő bejegyzésével kell végrehajtani. Ha nincs olyan közhiteles nyilvántartás, amelyben a zár alá vett vagyont nyilván kell tartani, a zár alá vétel végrehajtására a zár alá vett vagyon feletti rendelkezési jog felfüggesztését érvényesíteni képes gazdálkodó szervezetet kell kijelölni. A zár alá vétel végrehajtása iránt haladéktalanul intézkedni kell.
@@ -4470,7 +4472,7 @@ szükséges.
 
 332. § (1) A zár alá vételt a vádemelés előtt az elrendelő, azt követően a bíróság oldhatja fel. A nyomozó hatóság által elrendelt zár alá vételt a vádemelés előtt az ügyészség vagy a bíróság is feloldhatja. A bíróság által elrendelt zár alá vételt a vádemelés előtt az ügyészség is feloldhatja.
 
-(2) Ha a zár alá vétel tárgyát képező ingatlant a bírósági végrehajtásról szóló törvény alapján értékesítették, az értékesítésből befolyt összegnek a bírósági végrehajtásról szóló törvényben meghatározottak szerinti része az értékesített ingatlan helyébe lép, amelyre a zár alá vétel külön határozat nélkül kiterjed.
+(2) Ha a zár alá vétel tárgyát képező ingatlant az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény, vagy a bírósági végrehajtásról szóló törvény alapján értékesítették, az értékesítésből befolyt összegnek az ott meghatározottak szerinti része az értékesített ingatlan helyébe lép, amelyre a zár alá vétel külön határozat nélkül kiterjed.
 
 ### LII. Fejezet — VAGYONKEZELÉS A LEFOGLALÁS ÉS A ZÁR ALÁ VÉTEL SORÁN
 
@@ -5500,7 +5502,7 @@ szünteti meg.
 
 (4) Ha a gyanúsított az eljárást megszüntető határozatnak kizárólag a bűnügyi költség viselésére kötelező rendelkezését sérelmezi, a jogorvoslati kérelmet felülbírálati indítványnak kell tekinteni. Ebben az esetben az ügyészség a felülbírálati indítványt az ügyiratokkal, továbbá az észrevételével, illetve indítványával együtt három munkanapon belül továbbítja a nyomozási bíróhoz.
 
-403. § (1) Kérelemre a bűnügyi költség megfizetésére halasztás, illetve részletfizetés engedélyezhető a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között. Az ötvenezer forintot meghaladó bűnügyi költség esetében a halasztás, illetve a részletfizetés a bírósági végrehajtó által foganatosított foglalás után engedélyezhető, ha a foglalási jegyzőkönyvet a végrehajtó az ügyészséghez beterjesztette. Az ötvenezer forintot meg nem haladó bűnügyi költség esetén az ügyészség foglalási cselekmény bevárása nélkül, a rendelkezésre álló adatok alapján legfeljebb két hónapi halasztást, illetve három hónapi részletfizetést engedélyezhet.
+403. § (1) Kérelemre a bűnügyi költség megfizetésére halasztás, illetve részletfizetés engedélyezhető a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között.
 
 (2) A halasztás, illetve a részletfizetés iránti kérelemnek nincs halasztó hatálya.
 
@@ -5990,7 +5992,7 @@ zárt tárgyalást rendelhet el (a továbbiakban: zárt tárgyalás).
 
 ### Közös szabályok
 
-443. § (1) Kérelemre a rendbírság megfizetésére halasztás, illetve részletfizetés engedélyezhető a Bv. tv. 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között. Az ötvenezer forintot meghaladó rendbírság esetében a halasztás, illetve a részletfizetés a bírósági végrehajtó által foganatosított foglalás után engedélyezhető, ha a foglalási jegyzőkönyvet a végrehajtó a bírósághoz beterjesztette. Az ötvenezer forintot meg nem haladó rendbírság esetén az egyesbíró vagy a tanács elnöke foglalási cselekmény bevárása nélkül, a rendelkezésre álló adatok alapján legfeljebb két hónapi halasztást, illetve három hónapi részletfizetést engedélyezhet.
+443. § (1) Kérelemre a rendbírság megfizetésére halasztás, illetve részletfizetés engedélyezhető a Bv. tv. 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között.
 
 (2) A halasztás, illetve a részletfizetés iránti kérelemnek nincs halasztó hatálya.
 
@@ -8158,6 +8160,8 @@ tanácsülésen bírálja el.
 
 (3) A megismételt eljárásban hozott ítélet felülbírálata során a másodfokú, illetve a harmadfokú bíróságot változatlan tényállás mellett sem kötik a hatályon kívül helyező határozatban kifejtett okok és indokok.
 
+(4) A vádlottat nem lehet kötelezni a megismételt eljárásban felmerült bűnügyi költség viselésére, kivéve, ha az az ő mulasztása folytán merült fel.
+
 ### Az elsőfokú bírósági eljárás megismétlése
 
 633. § (1) A tárgyalás előkészítésére és az elsőfokú bírósági tárgyalásra vonatkozó Tizenharmadik–Tizennegyedik Rész rendelkezéseit az e §-ban és a 634. §-ban foglalt eltérésekkel értelemszerűen kell alkalmazni.
@@ -10253,13 +10257,13 @@ szükséges.
 (2) A 819. § (2) bekezdése esetén a bíróság jogerős ügydöntő határozatát követően az ügyészség vagyonkutatást rendel el
 
 - a) a bűncselekmény elkövetéséből eredő vagyon visszaszerzése érdekében, ha a jogerős ügydöntő határozattal elrendelt, pénzösszegben kifejezett vagyonelkobzás esetén
-  - aa) a vagyonelkobzás végrehajtása a bírósági végrehajtó tájékoztatása alapján nem vezetett eredményre, vagy
+  - aa) a vagyonelkobzás végrehajtása az állami adó- és vámhatóság tájékoztatása alapján nem vezetett eredményre, vagy
   - ab) a jogerős ügydöntő határozatot megelőzően a terhelt vagyonelkobzás alá eső vagyona nem volt biztosítható,
 - b) ha az elkobzás, a vagyonelkobzás vagy az elektronikus adat végleges hozzáférhetetlenné tétele utólagos alkalmazásának lehet helye,
 
 és feltehető, hogy a vagyonelvonásra irányuló eljárás célja elérhető.
 
-(3) Az ügyészség a (2) bekezdés a) pont aa) alpontja esetén a vagyonkutatás elrendeléséről tájékoztatja a végrehajtót.
+(3) Az ügyészség a (2) bekezdés a) pont aa) alpontja esetén a vagyonkutatás elrendeléséről tájékoztatja az állami adó- és vámhatóságot.
 
 (4) A vagyonkutatást az (1) bekezdés esetén a nyomozó hatóság vagy az ügyészség, a (2) bekezdés esetén a nyomozó hatóság vagyonvisszaszerzési szerve folytatja le.
 
@@ -10288,7 +10292,7 @@ rendelhető el.
 
 (3) A vagyonelvonásra irányuló eljárás megszüntetése nem akadálya annak, hogy ha a vagyonelvonásra irányuló eljárás alapjául szolgáló új tény, körülmény merül fel, a vagyonkutatást ismét elrendeljék.
 
-(4) Az ügyészség, illetve a nyomozó hatóság vagyonvisszaszerzési szerve a 820. § (2) bekezdés a) pont aa) alpontja esetén az eljárás megszüntetéséről rendelkező határozatot kézbesíti a bírósági végrehajtónak.
+(4) Az ügyészség, illetve a nyomozó hatóság vagyonvisszaszerzési szerve a 820. § (2) bekezdés a) pont aa) alpontja esetén az eljárás megszüntetéséről rendelkező határozatot kézbesíti az állami adó- és vámhatóságnak.
 
 (5) Az eljárást megszüntető határozat ellen panasznak nincs helye.
 
@@ -10485,7 +10489,7 @@ rendelhető el.
 
 ### Halasztás vagy részletfizetés engedélyezése a bűnügyi költség megfizetésére
 
-843. § (1) Az államot illető bűnügyi költség megfizetésére az egyesbíró vagy a tanács elnöke halasztást, illetve részletfizetést engedélyezhet a Bv. tv. 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között. Az ötvenezer forintot meghaladó bűnügyi költség esetében a halasztás, illetve a részletfizetés a bírósági végrehajtó által foganatosított foglalás után engedélyezhető, ha a foglalási jegyzőkönyvet a végrehajtó a bírósághoz beterjesztette. Az ötvenezer forintot meg nem haladó bűnügyi költség esetén foglalási cselekmény bevárása nélkül, a rendelkezésre álló adatok alapján legfeljebb két hónapi halasztás, illetve három hónapi részletfizetés engedélyezhető.
+843. § (1) Az államot illető bűnügyi költség megfizetésére az egyesbíró vagy a tanács elnöke halasztást, illetve részletfizetést engedélyezhet a Bv. tv. 42. § (1) bekezdésében meghatározott feltételek mellett és keretek között.
 
 (2) A halasztás és a részletfizetés iránti kérelemnek nincs halasztó hatálya.
 
@@ -10648,9 +10652,9 @@ a napján válik esedékessé.
 
 855. § (1) Ha az államnak kártalanítást kell fizetnie és a kártalanítási eljárás során adat merült fel arra, hogy a kártalanítást igénylővel szemben a kártalanítás alapjául szolgáló büntetőeljárás tárgyát képező bűncselekmény elkövetésével kapcsolatban jogerősen polgári jogi igényt ítéltek meg, amelyet a kártalanítás kifizetéséig nem teljesített, az igazságügyért felelős miniszter a kártalanítási összeget visszatartja. Ilyen esetben a megítélt polgári jogi igényt a kártalanítás összegéből kell teljesíteni. A kártalanítási összeg fennmaradó részét a bírósági végrehajtó foglalást igazoló nyilatkozatának beérkezését követően ki kell fizetni.
 
-(2) Ha az államnak kártalanítást kell fizetnie és a kártalanítási eljárás során adat merült fel arra, hogy a kártalanítást igénylővel szemben a kártalanítás alapjául szolgáló büntetőeljárás tárgyát képező bűncselekmény elkövetésével kapcsolatban pénzbüntetést szabtak ki, vagyonelkobzást rendeltek el, vagy a kártalanítást igénylőt bűnügyi költség megfizetésére kötelezték, és azt a kártalanítás kifizetéséig nem hajtották végre, az igazságügyért felelős miniszter a kártalanítás kifizetése előtt a végrehajtás érdekében megkeresi a bírósági végrehajtót. A megkeresésben közölni kell a kártalanítást igénylő természetes személyazonosító adatait, illetve a kártalanítás kifizetésével kapcsolatos adatokat.
+(2) Ha az államnak kártalanítást kell fizetnie és a kártalanítási eljárás során adat merült fel arra, hogy a kártalanítást igénylővel szemben a kártalanítás alapjául szolgáló büntetőeljárás tárgyát képező bűncselekmény elkövetésével kapcsolatban vagyonelkobzást rendeltek el, fiatalkorúval szemben pénzbüntetést szabtak ki, vagy a kártalanítást igénylőt bűnügyi költség megfizetésére kötelezték, és azt a kártalanítás kifizetéséig nem hajtották végre, az igazságügyért felelős miniszter a kártalanítás kifizetése előtt a végrehajtás érdekében megkeresi az állami adó- és vámhatóságot. A megkeresésben közölni kell a kártalanítást igénylő természetes személyazonosító adatait, illetve a kártalanítás kifizetésével kapcsolatos adatokat.
 
-(3) Az (1) és (2) bekezdés alapján az igazságügyért felelős miniszter kezelheti a polgári jogi igénnyel és a vagyonelkobzással kapcsolatos adatokat, az adatkérésre vonatkozó rendelkezések alapján a bírósági végrehajtótól adatok szolgáltatását kérheti, továbbá a bírósági végrehajtó a polgári jogi igény vagy a vagyonelkobzás végrehajtása érdekében a kártalanítási eljárással kapcsolatos személyes adatokat megismerheti, illetve azokat kezelheti.
+(3) Az (1) és (2) bekezdés alapján az igazságügyért felelős miniszter kezelheti a polgári jogi igénnyel, a vagyonelkobzással, a fiatalkorúval szemben kiszabott pénzbüntetéssel és a bűnügyi költséggel kapcsolatos adatokat, az adatkérésre vonatkozó rendelkezések alapján a bírósági végrehajtótól, illetve az állami adó- és vámhatóságtól adatok szolgáltatását kérheti, továbbá a bírósági végrehajtó a polgári jogi igény, illetve az állami adó- és vámhatóság a vagyonelkobzás, a fiatalkorúval szemben kiszabott pénzbüntetés és a bűnügyi költség végrehajtása érdekében a kártalanítási eljárással kapcsolatos személyes adatokat megismerheti, illetve azokat kezelheti.
 
 ### CIX. Fejezet — A VISSZATÉRÍTÉS
 

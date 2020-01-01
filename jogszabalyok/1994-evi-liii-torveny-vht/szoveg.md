@@ -18,6 +18,8 @@ a bírósági végrehajtásról
 
 (2) Az (1) bekezdésben foglalt esetben, vagy ha a közigazgatási végrehajtást törvény rendelkezése alapján bírósági végrehajtó foganatosítja, a végrehajtás a közigazgatási végrehajtás alapjául szolgáló végrehajtható okirat alapján folytatódik. Ha a közigazgatási végrehajtást bírósági végrehajtás útján kell folytatni, a követelés jogosultjára e törvénynek a végrehajtást kérőre vonatkozó szabályait kell megfelelően alkalmazni, a követelés jogosultját azonban a közigazgatási végrehajtásra irányadó szabályok szerinti jogok is megilletik.
 
+(3) Az (1) bekezdésben foglalt esetben, ha a közigazgatási végrehajtás bűnügyi követelés behajtására irányul, a végrehajtás során az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény eltérő rendelkezéseit is alkalmazni kell.
+
 4/A. § Ha a zálogkötelezettel szemben a zálogtárgyra is kiterjedő bírósági végrehajtás folyik, a zálogjogosult kielégítési jogát – a zálogtárgy lefoglalásától kezdődően – a bírósági végrehajtáson kívül nem gyakorolhatja, kielégítést kizárólag bírósági végrehajtás útján kereshet.
 
 ### A végrehajtási kényszer alkalmazása
@@ -63,30 +65,9 @@ a bírósági végrehajtásról
 
 - a) a bíróság és a közjegyző által kiállított végrehajtási lap,
 - b) az olyan okirat, amelyet a bíróság vagy a közjegyző végrehajtási záradékkal látott el,
-- c) a bíróság végrehajtást elrendelő, letiltó, illetőleg átutalási végzése, továbbá közvetlen bírósági felhívást tartalmazó határozata,
-- d) a bíróság pénzbüntetésről, pénzbírságról, rendbírságról, vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamai közé nem tartozó államban (a továbbiakban: külföldi állam) vagy az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról szóló értesítése,
-- e) a büntetőeljárásról szóló törvény alapján
-  - ea) elrendelt elővezetés vagy előállítás költségének,
-  - eb) a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség, illetve nyomozó hatóság vagy végrehajtásért felelős szerv elé állítása költségének,
-  - ec) az ügyészség, illetve a nyomozó hatóság által kiszabott rendbírságnak,
-  - ed) a bíróság vagy az ügyészség által a bűnügyi költségnek
-
-a megállapításáról szóló értesítés,
-
-- f) a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény alapján
-  - fa) elrendelt elővezetés költségének,
-  - fb) az elítélt vagy a kényszergyógykezelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség vagy végrehajtásért felelős szerv elé állítása költségének, továbbá
-  - fc) az elítélt vagy az egyéb jogcímen fogvatartott kérelmére és költségére történő előállítás során felmerült költségnek
-
-a megállapításáról szóló értesítés,
-
-- g) fegyelmi eljárásban a végrehajtóval, végrehajtó-helyettessel és végrehajtójelölttel szemben kiszabott pénzbírságról szóló értesítés,
-- h) az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítés,
-- i) a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról szóló értesítése,
-- j) a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítés,
-- k) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, valamint az elektronikus adat megőrzésére kötelezésről szóló határozat,
-- l) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés, valamint
-- m) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.
+- c) a bíróság végrehajtást elrendelő, letiltó, illetve átutalási végzése, továbbá közvetlen bírósági felhívást tartalmazó határozata,
+- d) a bíróság rendbírságról szóló értesítése, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi, valamint
+- e) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.
 
 ### Végrehajtási kérelem
 
@@ -159,7 +140,7 @@ a megállapításáról szóló értesítés,
 - c) külföldi bírósági határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - d) belföldi és külföldi választottbírósági határozat és egyezség alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi vállalkozások magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén pedig a fióktelep, illetőleg a képviselet helye – szerinti törvényszék,
 - e) az Európai Unió Tanácsának, az Európai Bíróságnak és az Európai Bizottságnak a határozata alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- f) a Belső Piaci Harmonizációs Hivatal (védjegyek és formatervezési minták) által a közösségi védjegyről szóló, 1993. december 20-i 40/94/EK tanácsi rendelet és a közösségi formatervezési mintáról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet, a Közösségi Növényfajta-hivatal által a közösségi növényfajta-oltalomról szóló, 1994. július 27-i 2100/94/EK tanácsi rendelet, valamint az Európai Szabadalmi Hivatal által az Európai Szabadalmi Egyezmény szerint a költségek viselése tárgyában hozott határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi vállalkozások magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén pedig a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- f) az Európai Unió Szellemi Tulajdoni Hivatala által az európai uniós védjegyről szóló, 2017. június 14-i 2017/1001/EU európai parlamenti és tanácsi rendelet és a közösségi formatervezési mintáról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet, a Közösségi Növényfajta-hivatal által a közösségi növényfajta-oltalomi jogokról szóló, 1994. július 27-i 2100/94/EK tanácsi rendelet, valamint az Európai Szabadalmi Hivatal által az Európai Szabadalmi Egyezmény szerint a költségek viselése tárgyában hozott határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi vállalkozások magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén pedig a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - g) a nem vitatott követelésekre vonatkozó európai végrehajtható okirat létrehozásáról szóló, az Európai Parlament és a Tanács 805/2004/EK rendelete (a továbbiakban: 805/2004/EK rendelet) szerint európai végrehajtható okiratként hitelesített külföldi határozat (bírósági egyezség) alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - h) a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve a 1347/2003/EK rendelet hatályon kívül helyezéséről szóló, a Tanács 2201/2003/EK rendeletének (a továbbiakban: 2201/2003/EK tanácsi rendelet) 42. cikke szerint kiállított igazolással ellátott külföldi határozat (bírósági egyezség) alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - i) az európai fizetési meghagyásos eljárás létrehozásáról szóló 1896/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1896/2006/EK rendelet) szerint végrehajthatónak nyilvánított európai fizetési meghagyás alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság; ha az európai fizetési meghagyást a magyar közjegyző bocsátotta ki, az európai fizetési meghagyást kibocsátó közjegyző,
@@ -400,7 +381,7 @@ a megállapításáról szóló értesítés,
 
 ### A végrehajtás foganatosításának megkezdése
 
-32. § (1) A bíróság, illetőleg a végrehajtható okiratot kiállító szerv a végrehajtható okirat másolatát – a 10. § c)–l) pontjában említett végrehajtható okirat kivételével – elektronikus úton megküldi a Kar hivatali szervének. A közjegyző a végrehajtható okirat – a 10. § b) pontjában említett végrehajtható okirat esetén kizárólag a végrehajtási záradék – másolatát a MOKK számítástechnikai rendszerén keresztül küldi meg elektronikus úton a Kar hivatali szervének. Az ügyelosztás szabályaira figyelemmel a Kar hivatali szerve tájékoztatása alapján a bíróság, illetőleg a végrehajtható okiratot kiállító szerv a végrehajtható okiratot – a 10. § c)–l) pontjaiban említett végrehajtható okiratok kivételével – közvetlenül megküldi az adós lakóhelye, illetőleg székhelye szerinti végrehajtónak és a végrehajtást kérőnek.
+32. § (1) A bíróság, illetőleg a végrehajtható okiratot kiállító szerv a végrehajtható okirat másolatát – a 10. § c)–d) pontjában említett végrehajtható okirat kivételével – elektronikus úton megküldi a Kar hivatali szervének. A közjegyző a végrehajtható okirat – a 10. § b) pontjában említett végrehajtható okirat esetén kizárólag a végrehajtási záradék – másolatát a MOKK számítástechnikai rendszerén keresztül küldi meg elektronikus úton a Kar hivatali szervének. Az ügyelosztás szabályaira figyelemmel a Kar hivatali szerve tájékoztatása alapján a bíróság, illetőleg a végrehajtható okiratot kiállító szerv a végrehajtható okiratot – a 10. § c)–l) pontjaiban említett végrehajtható okiratok kivételével – közvetlenül megküldi az adós lakóhelye, illetőleg székhelye szerinti végrehajtónak és a végrehajtást kérőnek.
 
 (2) A végrehajtható okiratot az adós végrehajtás alá vonható vagyontárgyának helye szerinti végrehajtóhoz kell eljuttatni, ha
 
@@ -429,7 +410,7 @@ a megállapításáról szóló értesítés,
 
 (4) A felek az általuk előlegezett költség összegét kötelesek a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni.
 
-(5) Ha az adós a végrehajtási eljárás során a végrehajtást kérőnek fizette meg a követelés összegét, a végrehajtást kérő köteles a végrehajtási költségek kielégítéséről is gondoskodni. Ennek keretében a meg nem fizetett illetéket és az állam által előlegezett költséget, valamint a törvényszéki végrehajtó helyszíni eljárása, illetve a tanú díja fejében járó költségátalányt köteles befizetni a megfelelő számlára, a végrehajtás foganatosításáért az önálló bírósági végrehajtót megillető összeget pedig köteles a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni. Ennek elmulasztása esetén ezen összeg megfizetéséért az adós és a végrehajtást kérő egyetemlegesen felel.
+(5) Ha az adós a végrehajtási eljárás során a végrehajtást kérőnek fizette meg a követelés összegét, a végrehajtást kérő köteles a végrehajtási költségek kielégítéséről is gondoskodni. Ennek keretében a meg nem fizetett illetéket és az állam által előlegezett költséget, valamint a tanú díja fejében járó költségátalányt köteles befizetni a megfelelő számlára, a végrehajtás foganatosításáért az önálló bírósági végrehajtót megillető összeget pedig köteles a végrehajtó elszámolási számlájára befizetni, illetőleg nyugta ellenében a végrehajtónak átadni. Ennek elmulasztása esetén ezen összeg megfizetéséért az adós és a végrehajtást kérő egyetemlegesen felel.
 
 (6) A végrehajtó a gyermektartásdíj végrehajtására irányuló ügyekben az előleg bevárása nélkül köteles eljárni. Az előleg folyósítására köteles szerv az eljárás befejezésekor a végrehajtó díjjegyzéke alapján soron kívül megfizeti részére a végrehajtás során befolyt összegből nem fedezhető díját és költségeit.
 
@@ -897,10 +878,10 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 57/A. § (1) A végrehajtó hivatali elektronikus aláírásaként – ha jogszabály a végrehajtó számára az elektronikus aláírás használatát előírja – csak olyan minősített elektronikus aláírás használható, amely megfelel a következő feltételeknek:
 
-- a) az elektronikus aláíráshoz tartozó tanúsítványban a bizalmi szolgáltató feltüntette, hogy az aláíró önálló bírósági végrehajtó, törvényszéki végrehajtó, önálló bírósági végrehajtó-helyettes vagy törvényszéki végrehajtó-helyettes;
+- a) az elektronikus aláíráshoz tartozó tanúsítványban a bizalmi szolgáltató feltüntette, hogy az aláíró önálló bírósági végrehajtó vagy önálló bírósági végrehajtó-helyettes;
 - b) a bizalmi szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos érvényes visszavonási kérelem alapján a módosított visszavonási állapotot legfeljebb 3 percen belül közzéteszi a nyilvántartásában, és a tanúsítvány ellenőrzését kérő felhasználóknak a tanúsítvány visszavonási állapotáról folyamatos tájékoztatást ad.
 
-(2) A törvényszéki végrehajtó és törvényszéki végrehajtó-helyettes hivatali elektronikus aláírására az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 35/A. §-át kell alkalmazni; az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes részére pedig a Kar hivatali szerve rendszeresít hivatali elektronikus aláírást.
+(2) Az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes részére a Kar hivatali szerve rendszeresít hivatali elektronikus aláírást.
 
 (3) Az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a Kar hivatali szervét is.
 
@@ -994,7 +975,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 ### Levonás egészségbiztosítási pénzbeli ellátásból
 
-68. § A baleseti járadékból, a baleseti táppénzből, a táppénzből, a gyermekgondozási díjból, valamint a csecsemőgondozási díjból legfeljebb 33%-ot lehet levonni az alábbi követelések fejében:
+68. § A baleseti járadékból, a baleseti táppénzből, a táppénzből, a gyermekgondozási díjból, valamint a csecsemőgondozási díjból, örökbefogadói díjból legfeljebb 33%-ot lehet levonni az alábbi követelések fejében:
 
 - a) gyermektartásdíj,
 - b) jogalap nélkül felvett egészségbiztosítási ellátás.
@@ -1796,7 +1777,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (4) Az (1) bekezdésben foglaltakat kell alkalmazni a föld lefoglalását követően létesített földhasználati jogosultság megszerzésére is.
 
-137/B. § Nem terheli az ingatlant megszerző tulajdonos tulajdonjogát a bűnügyi zárlat ténye, ha a bűnügyi zárlat tényével terhelt ingatlan értékesítése iránt a 139. § (5)–(7) bekezdése alapján intézkedni lehet.
+137/B. § Nem terheli az ingatlant megszerző tulajdonos tulajdonjogát a büntetőeljárásban elrendelt zár alá vétel ténye, ha a büntetőeljárásban elrendelt zár alá vétel tényével terhelt ingatlan értékesítése iránt a 139. § (5)–(7) bekezdése alapján intézkedni lehet.
 
 ### Az ingatlan lefoglalása
 
@@ -1832,11 +1813,11 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (4) Ha az ingatlan a közfoglalkoztatáshoz nyújtható támogatásokról szóló kormányrendeletben meghatározott közfoglalkoztatási programban használt ingatlan, becsértékének megállapítása iránt csak a támogatási időszak befejezése után lehet intézkedni.
 
-(5) Ha az ingatlan nem pénzfizetésre irányuló bűnügyi követelést vagy ilyen polgári jogi igényt, illetve ilyen vagyonelkobzást biztosító bűnügyi zárlat tényével terhelt, az ingatlan értékesítése iránt a bűnügyi zárlat tényének törlését követően lehet intézkedni.
+(5) Ha az ingatlan olyan, a büntetőeljárásban elrendelt zár alá vétel tényével terhelt, amelyet az ingatlan elkobzása, nem pénzösszegre irányuló vagyonelkobzás vagy ilyen polgári jogi igény biztosítására rendeltek el, az ingatlan értékesítése iránt a büntetőeljárásban elrendelt zár alá vétel tényének törlését követően lehet intézkedni.
 
-(6) Ha az ingatlan pénzfizetésre irányuló bűnügyi követelést vagy ilyen polgári jogi igényt, illetve ilyen vagyonelkobzást biztosító bűnügyi zárlat tényével terhelt, és a bűnügyi zárlat bejegyzésére a végrehajtási jogot követően került sor, az ingatlan értékesítése iránt lehet intézkedni. Sikeres értékesítést követően pedig az adósnak visszajáró összeget a bűnügyi zárlat jogosultja részére nem lehet kiutalni, azt a végrehajtói letéti számlán kell kezelni.
+(6) Ha az ingatlan olyan, a büntetőeljárásban elrendelt zár alá vétel tényével terhelt, amelyet a jogi személlyel szemben kiszabható pénzbírság, pénzfizetésre irányuló vagyonelkobzás vagy ilyen polgári jogi igény biztosítására rendeltek el, és annak bejegyzésére a végrehajtási jogot követően került sor, az ingatlan értékesítése iránt lehet intézkedni. Sikeres értékesítést követően a büntetőeljárásban elrendelt zár alá vétel jogcímre jutó befolyt összeget az állami adó- és vámhatóságnál a végrehajtási kényszer eredményeként befizetett összegek fogadására és kezelésére elkülönített számlára kell átutalni.
 
-(7) Ha az ingatlan pénzfizetésre irányuló bűnügyi követelést vagy ilyen polgári jogi igényt, illetve ilyen vagyonelkobzást biztosító bűnügyi zárlat tényével terhelt, és a bűnügyi zárlat bejegyzésére a végrehajtási jogot megelőzően került sor, az ingatlan értékesítése iránt kizárólag abban az esetben lehet intézkedni, ha a végrehajtási jog, a bűnügyi zárlat ténye jogosultjainak a követelései és a végrehajtási költségek várhatóan megtérülnek. Sikeres értékesítést követően a bűnügyi zárlattal biztosított összeget a jogosult részére nem lehet kiutalni, azt a végrehajtói letéti számlán kell kezelni.
+(7) Ha az ingatlan olyan, a büntetőeljárásban elrendelt zár alá vétel tényével terhelt, amelyet a jogi személlyel szemben kiszabható pénzbírság, pénzfizetésre irányuló vagyonelkobzás vagy ilyen polgári jogi igény biztosítására rendeltek el, és annak bejegyzésére a végrehajtási jogot megelőzően került sor, az ingatlan értékesítése iránt kizárólag akkor lehet intézkedni, ha a végrehajtási jog, a büntetőeljárásban elrendelt zár alá vétel jogcíme szerinti követelések és a végrehajtási költségek várhatóan megtérülnek. Sikeres értékesítést követően a büntetőeljárásban elrendelt zár alá vétel jogcímre jutó befolyt összeget az állami adó- és vámhatóságnál a végrehajtási kényszer eredményeként befizetett összegek fogadására és kezelésére elkülönített számlára kell átutalni.
 
 (8) Amennyiben az ingatlanon a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény alapján keletkezett tulajdonjog és a részletvételhez kapcsolódóan a magyar állam javára jelzálogjog és elidegenítési és terhelési tilalom van bejegyezve, abban az esetben az ingatlan becsértékének megállapítása iránt csak a tulajdonjog bejegyzéstől számított három év elteltével lehet intézkedni.
 
@@ -2412,21 +2393,7 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 (9) Ha az (1) bekezdésben foglalt perben hozott határozat kizárólag pénzfizetésre kötelezést tartalmaz, a határozat végrehajtása a pénzkövetelés végrehajtására vonatkozó szabályok szerint történik.
 
-### Elektronikus adat végleges hozzáférhetetlenné tételének végrehajtása
-
-184/B. § (1) Az elektronikus adat végleges hozzáférhetetlenné tételét elrendelő bírósági határozat végrehajtása során a 172–177. §-ban foglalt rendelkezéseket e §-ban foglalt eltérésekkel kell alkalmazni.
-
-(2) Az elektronikus adat végleges hozzáférhetetlenné tételéről szóló értesítésben a bíróság a kötelezettet azonnali teljesítésre hívja fel és azt megküldi a végrehajtónak.
-
-(3) A végrehajtó az értesítést személyesen kézbesíti a kötelezettnek, és ellenőrzi a kötelezett azonnali teljesítését a helyszínen; a végrehajtó legkésőbb a kézbesítést követő munkanapon ellenőrzi a helyszínen a teljesítést, amennyiben az azonnali teljesítés feltételei nem állnak fenn.
-
-(4) Ha a végrehajtó az ellenőrzés során azt állapítja meg, hogy a kötelezett nem teljesítette a meghatározott cselekményt, erről nyomban a teljesítési határidő lejártának napját is tartalmazó jegyzőkönyvet készít és azt legkésőbb a jegyzőkönyv készítésének napját követő munkanapon a megállapított pénzbírság kiszabása céljából beterjeszti a végrehajtást foganatosító bírósághoz.
-
-(5) A végrehajtó a pénzbírságot kiszabó határozat jogerőre emelkedését követő öt munkanapon belül ismételten – szükség esetén a helyszínen – ellenőrzi a kötelezett teljesítését.
-
-(6) Ha a végrehajtó az ismételt ellenőrzés során azt állapítja meg, hogy a kötelezett nem teljesítette a meghatározott cselekményt a (4)–(5) bekezdés megfelelő, a teljesítés megtörténtéig ismételt alkalmazásával jár el.
-
-(7) A végrehajtás megszűnik az értesítés végrehajtó általi átvételét követő három év elteltével.
+184/B. §
 
 ### A hitelbiztosítéki nyilvántartásba való bejegyzést, módosítást, törlést elrendelő bírósági határozat végrehajtása
 
@@ -2584,56 +2551,17 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 201/B. § A fizetési meghagyásos eljárás során elrendelt biztosítási intézkedést a fizetési meghagyásos eljárás perré alakulása esetén a fél kérelmére a perbíróság a kérelem beérkezésétől számított 8 napon belül felülvizsgálja, és ennek eredményeként a biztosítási intézkedés hatályát fenntartja vagy azt megszünteti.
 
-### Elektronikus adat ideiglenes hozzáférhetetlenné tételének végrehajtása
+201/C. §
 
-201/C. § (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét, illetve visszaállítását elrendelő bírósági határozat végrehajtása során a 172–177. §-ban foglalt rendelkezéseket e §-ban foglalt eltérésekkel kell alkalmazni.
+202. §
 
-(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról szóló határozatot a bíróság megküldi a végrehajtónak.
+202/A. §
 
-(3) A végrehajtó a határozatot személyesen kézbesíti a kötelezettnek, és ellenőrzi a kötelezett azonnali teljesítését a helyszínen, illetve ha az azonnali teljesítés feltételei nem állnak fenn, a végrehajtó legkésőbb a kézbesítést követő munkanapon ellenőrzi a helyszínen a teljesítést.
+203. §
 
-(4) Ha a végrehajtó az ellenőrzés során azt állapítja meg, hogy a kötelezett nem teljesítette a kötelezettséget, erről haladéktalanul – a teljesítési határidő lejártának napját is tartalmazó – jegyzőkönyvet készít, és azt legkésőbb a jegyzőkönyv készítésének napját követő munkanapon beterjeszti az elektronikus adat ideiglenes hozzáférhetetlenné tételét vagy visszaállítását elrendelő bírósághoz rendbírság kiszabása céljából.
+204. §
 
-(5) Ha az elektronikus adat ideiglenes hozzáférhetetlenné tételének vagy visszaállításának elrendelése esetén a rendbírság kiszabását követően a kötelezett teljesít, és erről a végrehajtót értesíti, a végrehajtó az értesítés átvételét követő öt munkanapon belül ismételten – szükség esetén a helyszínen – ellenőrzi a kötelezett teljesítését, és az ellenőrzés eredményéről haladéktalanul tájékotatja az azt elrendelő bíróságot.
-
-### Bűnügyi zárlat
-
-202. § (1) Ha a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) szerint a büntetőügyben eljáró bíróság, ügyészség, nyomozó hatóság a terhelt egész vagyonának vagy egyes vagyontárgyainak a zár alá vételét rendelte el (a továbbiakban: bűnügyi zárlat), ennek elvégzése a végrehajtó hatáskörébe tartozik.
-
-(2) A bűnügyi zárlatra a zárlatnak a szabályait kell megfelelően alkalmazni. A pénzfizetésre irányuló bűnügyi követelést vagy ilyen polgári jogi igényt, illetve ilyen vagyonelkobzást biztosító bűnügyi zárlatra pedig a pénzkövetelés biztosításának a szabályait kell megfelelően alkalmazni akként, hogy a végrehajtó a bűnügyi zárlat ingatlan-nyilvántartásba történő bejegyzése iránti megkeresésében köteles megjelölni a pénzkövetelés összegét.
-
-(3) A végrehajtó a zár alá vett vagyont zárgondnok kezelésébe adhatja.
-
-202/A. § (1)
-
-(2)
-
-(3) A bűnügyi zárlat elrendelésétől a bűnügyi zárlattal érintett jogi személyek tulajdonosai és vezető tisztségviselői nem hozhatnak a bűnügyi zárlat foganatosításával és céljával ellentétes döntéseket.
-
-203. § (1) A végrehajtó a bűnügyi zárlatot az elrendelő határozat kézhezvétele után haladéktalanul foganatosítja.
-
-(2) Bűnügyi zárlat esetén — az adós nyilatkozata vagy egyéb adat alapján — a foglalási jegyzőkönyvben fel kell tüntetni azokat a tartozásokat is, amelyek az adóst jogszabálynál fogva, tartási kötelezettsége folytán vagy más jogcímen terhelik.
-
-(3) A végrehajtó a bűnügyi zárlat feloldásáról rendelkező jogerős vagy véglegessé vált határozat kézhezvétele után haladéktalanul intézkedik a bűnügyi zárlat törlése iránt.
-
-204. § A vagyonelkobzás biztosítására elrendelt bűnügyi zárlat esetén
-
-- a) az adós minden vagyontárgyát le kell foglalni, kivéve a végrehajtás alól mentes vagyontárgyakat és a munkabért,
-- b) az ingatlan zárgondnokául azt a szervet kell kijelölni, amely a vagyonelkobzás esetén állami tulajdonba kerülő ingatlant a jogszabály értelmében kezeli.
-
-### Zárlat az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására
-
-204/A. § (1) Ha az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására a bíróság zárlatot rendelt el, ennek végrehajtása a bírósági végrehajtó hatáskörébe tartozik.
-
-(2) A zárlat végrehajtása során az e §-ban nem szabályozott kérdésekben a vagyonelkobzás biztosítására elrendelt bűnügyi zárlat szabályai szerint kell eljárni azzal, hogy
-
-- a) munkabér letiltásának is helye van,
-- b) pénzforgalmi szolgáltatónál kezelt összegek esetében a 191. § (2)–(4) bekezdése szerint kell eljárni és az intézkedést az adóst megillető pénzösszegre és minden későbbi befizetésre foganatosítani kell,
-- c) a zárgondnoknak a cég vagyonából származó jövedelmet – a felmerült költségek levonása után – a cég pénzforgalmi számláján kell elhelyezni.
-
-(3) A végrehajtás költségét az állam viseli.
-
-(4) Ha a zárlat elrendelésének közösségi jogi feltételei már nem állnak fenn, a bíróság a végrehajtást megszünteti.
+204/A. §
 
 ### XI. Fejezet — ZÁLOGTÁRGY EGYSZERŰSÍTETTVÉGREHAJTÁSI ÉRTÉKESÍTÉSE
 
@@ -2736,62 +2664,17 @@ az e Fejezetben foglaltak szerint jár el.
 
 210/B. § Ha a határozat végrehajtása bírósági végrehajtás útján, e törvény szerint történik, a bíróság a 2201/2003/EK tanácsi rendelet szerinti, a bírósági határozat végrehajthatóságának megállapítására irányuló eljárás során – ha a 2201/2003/EK tanácsi rendelet másképpen nem rendelkezik – az e Fejezetben foglaltak szerint jár el.
 
-### XIII. Fejezet — VAGYONELKOBZÁS VÉGREHAJTÁSA
+### XIII. Fejezet
 
-### Közös szabályok
+210/C. §
 
-210/C. § (1) A vagyonelkobzás végrehajtása során végrehajtást kérőnek az állam minősül, amelynek nevében – e törvényben foglalt kivételekkel – a vagyonelkobzásról szóló értesítést kiállító bíróság gazdasági hivatala jár el.
+210/D. §
 
-(2) Ha végrehajtás alá vonható vagyontárgy hiányában vagy a lefoglalt vagyontárgy sikertelen értékesítése miatt a végrehajtás szünetel, a végrehajtó a szünetelésről szóló jegyzőkönyv másolatát megküldi az ügyészség részére a Be. CVI. Fejezetében írt eljárás lefolytatása érdekében.
+210/E. §
 
-### Pénzösszegben elrendelt vagyonelkobzás végrehajtása
+210/F. §
 
-210/D. § (1) Ha a bíróság a vagyonelkobzást pénzösszegben rendelte el, annak végrehajtását – az e fejezetben foglalt eltérésekkel – a pénzkövetelés behajtásának szabályai szerint kell foganatosítani.
-
-(2) A pénzkövetelés behajtásának szabályai szerint kell foganatosítani a vagyonelkobzást a másik európai uniós tagállamban (a továbbiakban e fejezet alkalmazásában: másik tagállam) vagy külföldi államban elrendelt vagyonelkobzás végrehajtása során is, ha azt a vagyontárgy értékének megfelelő összegű pénzösszegben kifejezett vagyonelkobzásként rendeli el a bíróság.
-
-(3) Ha e § alkalmazása során ingatlanra vezetnek végrehajtást, a végrehajtási jog bejegyzése iránti megkeresésben behajtandó követelésként a pénzösszeg behajtására irányuló vagyonelkobzást (a pénzösszeggel együtt), végrehajtást kérőként pedig az államot kell megjelölni, amelynek nevében a vagyonelkobzásról szóló értesítést kiállító bíróság gazdasági hivatala jár el.
-
-### Meghatározott vagyontárgyra vagy az elkövető teljes vagyonára elrendelt vagyonelkobzás végrehajtása
-
-210/E. § (1) Ha
-
-- a) a bíróság a vagyonelkobzást az adós ingóságára, adóst megillető, pénzforgalmi szolgáltatónál kezelt pénzösszegre stb. rendelte el, vagy
-- b) az adós egész vagyonára elrendelt vagyonelkobzás végrehajtása során megállapították, hogy a vagyonhoz ingóság, adóst megillető pénzösszeg is tartozik,
-
-az adós vagyontárgyait a pénzkövetelés végrehajtásának szabályai szerint – a 7. § (1) és (2) bekezdésében foglalt rendelkezések alkalmazása nélkül – kell végrehajtás alá vonni, és az államot a végrehajtás során befolyt összeg illeti meg.
-
-(2) Az (1) bekezdés a) pontja alapján történő foglalás során a 87. § alkalmazásának nincs helye; a végrehajtó az ingóságot – a mentesség szabályaitól függetlenül – lefoglalja, a pénzösszeget teljes összegben végrehajtás alá vonja. A végrehajtó azonnal intézkedik a lefoglalt ingóság elszállítása iránt.
-
-(3) Az (1) bekezdés b) pontjában foglalt esetben a végrehajtó az adós valamennyi ingóságát – ide nem értve a végrehajtás alól mentes vagyontárgyakat – lefoglalja, és azonnal intézkedik a lefoglalt ingóságok elszállítása iránt. Ha az elszállítás akadályba ütközik, a zár alá vétel szabályait kell alkalmazni. Zár alá kell venni azt a dolgot is, amelyre nézve már korábban igénypert indítottak.
-
-(4) Mentesek a végrehajtás alól a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott tanúsítványban felsorolt kulturális javak a különleges védelem időtartama alatt.
-
-210/F. § (1) Ingatlanra kimondott vagyonelkobzás esetén, továbbá ha az adós egész vagyonára elrendelt vagyonelkobzás végrehajtása során megállapították, hogy a vagyonhoz ingatlan is tartozik, a végrehajtó – ha e törvény másként nem rendelkezik – haladéktalanul megkeresi az ingatlanügyi hatóságot, hogy az ingatlanra az állam tulajdonjogát jegyezze be. A megkeresésben az állam tulajdonosi jogait gyakorló szervezetként a Magyar Nemzeti Vagyonkezelő Zrt.-t (a továbbiakban: MNV Zrt.) kell megjelölni, és erről az MNV Zrt.-t értesíteni kell.
-
-(2) Az (1) bekezdés szerint kell eljárni akkor is, ha a másik tagállamban vagy külföldi államban elrendelt vagyonelkobzásra vonatkozó határozat végrehajtása nemzeti kulturális örökséghez tartozó ingatlanra történik, vagy a másik tagállammal vagy külföldi állammal kötött nemzetközi szerződés zárja ki a vagyonelkobzásból származó állami bevétel megosztását.
-
-(3) Ha a másik tagállamban vagy külföldi államban a vagyonelkobzást nem pénzösszegben rendelték el, és azt a bíróság sem pénzösszegben kifejezett vagyonelkobzásként rendelte el Magyarországon, a vagyonelkobzást az ingatlanra a (4)–(7) bekezdés szerint kell végrehajtani.
-
-(4) A végrehajtó a pénzkövetelés behajtására irányadó szabályok szerint intézkedik az ingatlan lefoglalása iránt, egyúttal adó- és értékbizonyítványt beszerezve megállapítja az ingatlan becsértékét. A végrehajtási jog bejegyzése iránti megkeresésben behajtandó követelésként a vagyonelkobzást, végrehajtást kérőként pedig az államot kell megjelölni, amelynek nevében az MNV Zrt. jár el.
-
-(5) A végrehajtó a becsértéket közli az MNV Zrt.-vel, és nyilatkozattételre hívja fel arról, hogy a vagyonelkobzás végrehajtásának keretében az ingatlan tulajdonjogára vagy az értékesítéséből befolyt vételárra tart igényt az állam.
-
-(6) Ha az állam az ingatlan tulajdonjogára tart igényt, a végrehajtó a becsérték jogerős megállapítását követően az (1) bekezdés szabályainak alkalmazásával intézkedik a tulajdonjog bejegyzése iránt. Ha a másik tagállamban elrendelt vagyonelkobzás esetében az ingatlan becsértéke a tízezer eurónak megfelelő forintösszeget meghaladja, vagy a külföldi államban elrendelt vagyonelkobzás esetében az ingatlan becsértéke a tízezer eurónak megfelelő forintösszeget meghaladja, és a külföldi állam kérelmére a bíróság arról rendelkezik, hogy az összeg 50%-a a külföldi államot illeti, a végrehajtó egyben felhívja az MNV Zrt.-t a végrehajtási költségek és a becsérték 50%-ának a törvényszéki letéti számlára történő befizetésére. A 210/G. § (4) bekezdése szerinti eseti megállapodás megkötése esetén az eseti megállapodásban foglalt összeget kell befizetni a törvényszéki letéti számlára.
-
-(7) Ha az állam az ingatlan értékesítéséből befolyt vételárra tart igényt, úgy a pénzkövetelés behajtásának szabályai szerint kell az eljárást folytatni; ebben az esetben a végrehajtási költségek, valamint a 165. § (1) bekezdés a)–d) pontjában és a 170. §-ban foglalt követelések kielégítése után fennmaradó pénzösszeg illeti meg az államot.
-
-(8) Ha a pénzösszegben vagy az adós egész vagyonára elrendelt vagyonelkobzás végrehajtása során a végrehajtó megállapítja, hogy az adós birtokában levő, fizetésre használt elektronikus adat is végrehajtás alá vonható, vagy a bíróság a vagyonelkobzást fizetésre használt elektronikus adatra rendelte el, a végrehajtó a fizetésre használt elektronikus adatot a büntetőeljárás során lefoglalt dolog előzetes értékesítésének szabályai szerint biztosítja és értékesíti.
-
-### Vagyonelkobzás végrehajtásából befolyt összeg megosztása másik tagállammal vagy külföldi állammal
-
-210/G. § (1) Ha a másik tagállamban elrendelt vagyonelkobzás végrehajtásából befolyt, a végrehajtási költségek fejében behajtott összegek levonása után fennmaradó összeg meghaladja a tízezer eurónak megfelelő forintösszeget, a bírósági gazdasági hivatal az összeg 50%-át átutalja a másik tagállam részére.
-
-(2) Ha a külföldi államban elrendelt vagyonelkobzás végrehajtásából befolyt, a végrehajtási költségek fejében behajtott összegek levonása után fennmaradó összeg meghaladja a tízezer eurónak megfelelő forintösszeget, és a külföldi állam kérelmére a bíróság arról rendelkezik, hogy az összeg 50%-a a külföldi államot illeti, a bírósági gazdasági hivatal az összeg 50%-át átutalja a külföldi állam részére.
-
-(3) A vagyonelkobzás végrehajtásából befolyt euróösszeget a külföldi bíróság vagyonelkobzást elrendelő határozatának meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett átváltási árfolyamon kell meghatározni.
-
-(4) Ha a külföldi államban elrendelt vagyonelkobzás végrehajtásából befolyt, a végrehajtási költségek fejében behajtott összegek levonása után fennmaradó összeg megosztására a magyar állam és a külföldi állam eseti megállapodást kötött, a bírósági gazdasági hivatal az eseti megállapodásban foglalt összeget utalja át a külföldi állam részére.
+210/G. §
 
 ### XIV. Fejezet — KÖZPONTI HATÓSÁGI MEGKERESÉS VÉGREHAJTÁSA A TARTÁSRA KÖTELEZETT ADATAINAK BESZERZÉSE ÉRDEKÉBEN
 
@@ -2845,11 +2728,9 @@ feltételei fennállnak.
 
 (2) A felülvizsgálati kérelem benyújtására és elbírálására a Pp. felülvizsgálatra vonatkozó rendelkezései megfelelően irányadók.
 
-### Egyéb jogorvoslatok
+215. §
 
-215. § Ha a bíróság a végrehajtást a büntetőügyben kiállított értesítéssel [10. § d) és e) pont] rendelte el, az adós a jogsérelem orvoslása céljából az értesítés alapjául szolgáló bírósági, ügyészségi, illetőleg nyomozó hatósági határozat ellen a büntetőeljárásról szóló törvény szerint élhet jogorvoslattal.
-
-216. § A bűnügyi zárlatot elrendelő határozat ellen a büntetőeljárás szabályai szerint van helye jogorvoslatnak.
+216. §
 
 ### XVI. Fejezet — A VÉGREHAJTÁS FOGANATOSÍTÁSÁVAL KAPCSOLATOS JOGORVOSLATOK
 
@@ -2957,20 +2838,20 @@ feltételei fennállnak.
 225. § (1) A végrehajtás elrendelését és foganatosítását – e törvényben megállapított szabályok szerint – a bíróság, illetve a közjegyző, továbbá e törvényben meghatározott más szervek és személyek, így különösen a következők végzik:
 
 - a) az önálló bírósági végrehajtó,
-- b) a törvényszéki végrehajtó,
+- b)
 - c) az önálló bírósági végrehajtó-helyettes,
-- d) a törvényszéki végrehajtó-helyettes,
+- d)
 - e) a végrehajtójelölt (e fejezetben a továbbiakban együtt: végrehajtó).
 
 (2) A végrehajtó eljárása – mint polgári nemperes eljárás – a bíróság eljárásával azonos.
 
-(3) Ha az adós ellen az önálló bírósági, valamint a törvényszéki végrehajtó hatáskörébe tartozó eljárás is folyamatban van, az eljárást az a végrehajtó folytatja, akinek a hatáskörébe tartozik a korábban elrendelt végrehajtás.
+(3)
 
 (4)
 
 (5) Az önálló bírósági végrehajtó ellátja a számára külön jogszabályban megállapított feladatokat is.
 
-(6) A végrehajtást elrendelő bíróságnak azt a bíróságot kell tekinteni, amely a végrehajtható okirat kiállítására jogosult. Végrehajtást foganatosító bíróságnak – ha e törvény másként nem rendelkezik – azt a bíróságot kell tekinteni, amely mellé az eljáró önálló bírósági végrehajtót kinevezték, illetve azon törvényszék székhelye szerinti járásbíróságot, amely törvényszékre a törvényszéki végrehajtót kinevezték, fővárosi törvényszéki végrehajtó esetében pedig a Pesti Központi Kerületi Bíróságot.
+(6) A végrehajtást elrendelő bíróságnak azt a bíróságot kell tekinteni, amely a végrehajtható okirat kiállítására jogosult. Végrehajtást foganatosító bíróságnak – ha e törvény másként nem rendelkezik – azt a bíróságot kell tekinteni, amely mellé az eljáró önálló bírósági végrehajtót kinevezték.
 
 (7) A végrehajtást elrendelő közjegyzőnek azt a közjegyzőt kell tekinteni, aki a végrehajtható okirat kiállítására jogosult.
 
@@ -3013,11 +2894,11 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 229. § (1) A végrehajtót az eljárása során tudomására jutott adat és tény tekintetében – ha törvény kivételt nem tesz – titoktartási kötelezettség terheli; e kötelezettsége a végrehajtói működésének megszűnése után is fennmarad. Ez a rendelkezés irányadó a végrehajtói iroda tagjára és alkalmazottjára is.
 
-(2) A végrehajtónak a titoktartási kötelezettség alóli felmentésére a bírósági dolgozókra vonatkozó szabályok megfelelően irányadók azzal, hogy törvényszéki végrehajtó esetében a törvényszék elnöke, önálló bírósági végrehajtó esetében pedig a Kar hivatali szervének vezetője jogosult a titoktartás alóli felmentés megadására.
+(2) A végrehajtónak a titoktartási kötelezettség alóli felmentésére a bírósági dolgozókra vonatkozó szabályok megfelelően irányadók azzal, hogy a Kar hivatali szervének vezetője jogosult a titoktartás alóli felmentés megadására.
 
 (3) Az összeférhetetlenség és a titoktartás szabályai a végrehajtó-helyettesre és a végrehajtójelöltre, a kizárás szabályai a végrehajtó-helyettesre is irányadók azzal, hogy a végrehajtó-helyettes az ügy elintézéséből akkor is ki van zárva, ha az őt alkalmazó végrehajtóval szemben áll fenn kizárási ok.
 
-(4) A titoktartás szabályai a végrehajtás során közreműködő tanúra, ügygondnokra és zárgondnokra is irányadóak. Titoktartási kötelezettségük az erre történő figyelmeztetésükről való tudomásszerzés időpontjával áll be; a figyelmeztetést a helyszíni eljárásról készült jegyzőkönyvben, illetve a zárgondnok rendeléséről, ügygondnok kijelöléséről szóló iratban fel kell tüntetni. A titoktartás alóli felmentés megadására esetükben az eljárt végrehajtó, szolgálatának megszűnése után a Kar hivatali szervének vezetője, illetve a törvényszék elnöke jogosult; a felmentés nem tagadható meg, ha azt az ügyben eljárt végrehajtó is megkapta.
+(4) A titoktartás szabályai a végrehajtás során közreműködő tanúra, ügygondnokra és zárgondnokra is irányadóak. Titoktartási kötelezettségük az erre történő figyelmeztetésükről való tudomásszerzés időpontjával áll be; a figyelmeztetést a helyszíni eljárásról készült jegyzőkönyvben, illetve a zárgondnok rendeléséről, ügygondnok kijelöléséről szóló iratban fel kell tüntetni. A titoktartás alóli felmentés megadására esetükben az eljárt végrehajtó, szolgálatának megszűnése után a Kar hivatali szervének vezetője jogosult; a felmentés nem tagadható meg, ha azt az ügyben eljárt végrehajtó is megkapta.
 
 229/A. § A végrehajtó az általa intézett végrehajtási ügyről a sajtó, a rádió és a televízió részére nem adhat tájékoztatást. Végrehajtási ügyről a sajtó, a rádió és a televízió részére a Kar hivatali szervének vezetője vagy az általa kijelölt személy ad tájékoztatást.
 
@@ -3033,9 +2914,9 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (4) A Kar hivatali szerve a végrehajtó működésének ellenőrzését a Kormány rendeletében meghatározott eljárás lefolytatásával végzi, ennek keretében a Kormány rendeletében meghatározott időszakonként minden végrehajtó tevékenységének vizsgálatát el kell végezni.
 
-(5) A törvényszéki végrehajtókkal kapcsolatban a (2)–(4) bekezdésben említett feladatokat a törvényszék elnöke látja el azzal, hogy a végrehajtó tevékenységének vizsgálatát az általa kijelölt bíró, bírósági titkár és végrehajtási ügyintéző is végezheti.
+(5)
 
-(6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a minisztert – a törvényszéki végrehajtókra vonatkozóan az Országos Bírósági Hivatal elnökét is – tájékoztatni kell.
+(6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a minisztert tájékoztatni kell.
 
 230/A. § (1)
 
@@ -3831,53 +3712,21 @@ kérhetnek adatszolgáltatást.
 
 254/I. §
 
-### XX. Fejezet — A TÖRVÉNYSZÉKI VÉGREHAJTÓ
+### XX. Fejezet
 
-### A törvényszéki végrehajtó feladata
+255. §
 
-255. § A törvényszéki végrehajtó foganatosítja a végrehajtást, ha a végrehajtandó követelés
+255/A. §
 
-- a) a 10. § d)–l) pontjában felsorolt végrehajtható okiraton alapul, kivéve, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi,
-- b) a polgári ügyben az állam által előlegezett költség,
-- c) a bíróság által előlegezett gyermektartásdíj,
-- d) egyéb jogcímen illeti meg a bíróságot, az Országos Bírósági Hivatal elnökét, az Országos Bírósági Hivatalt, a minisztériumot, az igazságügyi szakértői intézményt vagy az államot,
-- e) a büntetés-végrehajtási szervezetet a fogvatartottal — illetőleg a volt fogvatartottal — szemben illeti meg.
+256. §
 
-255/A. § (1) A törvényszéki végrehajtó székhelye és illetékességi területe azonos annak a törvényszéknek a székhelyével és illetékességi területével, ahol szolgálatot teljesít, a fővárosi törvényszéki végrehajtó székhelye: Budapest, illetékességi területe: Budapest főváros területe.
+256/A. §
 
-(2) A Budapest környéki törvényszéki végrehajtó az illetékességi területén indult ügyben Budapest főváros területén, a fővárosi törvényszéki végrehajtó Pest megye területén is eljár. A végrehajtó az illetékességi területén indult ügyben az ingatlan-végrehajtást az ország egész területén foganatosítja.
+257. §
 
-### A törvényszéki végrehajtó szolgálati viszonya
+258. §
 
-256. § (1) A törvényszéki végrehajtó a törvényszéknél szolgálati viszonyban álló bírósági tisztviselő.
-
-(2) A törvényszéki végrehajtót a törvényszék elnöke nevezi ki határozatlan időre, meghatározott törvényszékre; a kinevezésre a 233. § megfelelően irányadó. A törvényszéki végrehajtó a 238. § (2) bekezdése szerinti esküt a kinevezését követő egy hónapon belül a törvényszék elnöke előtt teszi le. Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: törvényszéki végrehajtó.
-
-(3) A törvényszéki végrehajtó szolgálati viszonyának megszűnésére a 239. § irányadó azzal, hogy a szolgálat megszűnését a törvényszék elnöke állapítja meg, illetve ő menti fel a törvényszéki végrehajtót végrehajtói szolgálata alól.
-
-### Törvényszéki végrehajtó-helyettes
-
-256/A. § (1) A törvényszéki végrehajtó-helyettes a törvényszéknél szolgálati viszonyban álló bírósági tisztviselő, akit a törvényszék elnöke pályázat alapján nevez ki. A kinevezésre a 240/F. § (1)–(4) bekezdése megfelelően irányadó azzal, hogy a kinevezéséhez középfokú iskolai végzettséggel kell rendelkeznie. Az eskütételre a 256. § (2) bekezdése megfelelően irányadó azzal, hogy az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskütétel során: törvényszéki végrehajtó-helyettes.
-
-(2) A törvényszéki végrehajtó-helyettes önállóan foganatosíthat eljárási cselekményt, de árverést nem tarthat, és meghatározott cselekmény végrehajtását nem foganatosíthatja.
-
-### Törvényszéki végrehajtójelölt
-
-257. § (1) A törvényszéki végrehajtójelölt a törvényszéknél szolgálati viszonyban álló bírósági tisztviselő, akit a törvényszék elnöke pályázat alapján nevez ki.
-
-(2) A törvényszéki végrehajtójelölt kinevezésére a 241. § (2) bekezdése, eskütételére a 256. § (2) bekezdése megfelelően irányadó azzal, hogy az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: törvényszéki végrehajtójelölt.
-
-### A törvényszéki végrehajtó helyettesítése
-
-258. § (1) A törvényszék elnöke indokolt esetben a törvényszéki végrehajtó helyettesítésével másik törvényszéki végrehajtót, legalább egyéves gyakorlattal rendelkező törvényszéki végrehajtó-helyettest vagy a megye bármely bíróságának bírósági titkárát megbízhatja.
-
-(2) A megbízott az írásbeli megbízás alapján mint ,,helyettes törvényszéki végrehajtó'' jár el.
-
-### Utaló rendelkezés
-
-259. § (1) A törvényszéki végrehajtóra, végrehajtó-helyettesre és végrehajtójelöltre az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvényt és a kapcsolódó jogszabályokat e törvényben foglalt eltérésekkel kell alkalmazni.
-
-(2) A törvényszéki végrehajtó és a törvényszéki végrehajtó-helyettes az elektronikus nyilvántartásokból a végrehajtás során történő adatigényléshez a bíróság számítástechnikai eszközét veszi igénybe.
+259. §
 
 ### XXI. Fejezet — A VÉGREHAJTÁSI ÜGYINTÉZŐ
 
@@ -4244,7 +4093,7 @@ kérhetnek adatszolgáltatást.
 
 ### Fegyelmi eljárása szolgálati viszonyban álló személyekkel szemben
 
-300. § A törvényszéki végrehajtó, a törvényszéki végrehajtó-helyettes és a törvényszéki végrehajtójelölt, továbbá a végrehajtási ügyintéző elleni fegyelmi eljárásra és a velük szemben kiszabható fegyelmi büntetésekre az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló szabályokat kell alkalmazni.
+300. § A végrehajtási ügyintéző elleni fegyelmi eljárásra és a vele szemben kiszabható fegyelmi büntetésekre az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló szabályokat kell alkalmazni.
 
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -4356,6 +4205,14 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 (5) Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény rendelkezései nem érintik a (2) bekezdés szerinti ügyekben, a törvényszéki végrehajtó által az e törvény alapján engedélyezett részletfizetésről rendelkező döntések hatályát.
 
 (6) A (2) bekezdés szerinti ügyekben a törvényszéki végrehajtó által lefoglalt vagyontárgyak értékesítésére 2020. január 1. napjától az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény rendelkezései alapján kerülhet sor. A törvényszéki végrehajtó által 2019. december 31. napját követő időpontra kitűzött árveréseket meghiúsultnak kell tekinteni.
+
+304/E. § (1) E törvény alapján az állam a törvényszéki végrehajtók hatáskörébe tartozó 2019. január 1-jét megelőzően kiállított azon végrehajtható okiratokkal érintett, 2019. december 31-én még fennálló, az államot megillető követelésekről – a (3) bekezdésben foglaltak kivételével – lemond, amelyek elévültek, vagy amelyeket behajthatatlanná nyilvánítottak.
+
+(2) E törvény alapján az állam a törvényszéki végrehajtók hatáskörébe tartozó, 2019. január 1-jét megelőzően kiállított azon végrehajtható okiratokkal érintett, 2019. december 31-én még fennálló, 200 000 forintot el nem érő, valamint a 2010. január 1. napja előtt indult ügyekben az államot közvetlenül megillető követelésekről – a (3) bekezdésben foglaltak kivételével – lemond.
+
+(3) A bűnügyi követelés esetén, a büntetőeljárásban elrendelt zár alá vétellel, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedéssel érintett ügyek esetén az állam nem mond le a követeléséről.
+
+(4) E törvény alapján a bírósági titkár elvégzi a 2019. december 31. napját követően a korábban a törvényszéki végrehajtó hatáskörébe tartozó, de törvény alapján még az állami adó- és vámhatóságnak át nem adott végrehajtási ügyekben felmerülő valamennyi szükséges intézkedést.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 
@@ -4561,7 +4418,7 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 
 317. § (1) E törvény
 
-- a) 10. §-ának d) pontja a kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló, 2005. február 24-i 2005/214/IB tanácsi kerethatározat,
+- a) a kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló, 2005. február 24-i 2005/214/IB tanácsi kerethatározat,
 - b) 184/A. §-a és 187. §-a (1) bekezdésének b) pontja a szellemi tulajdonjogok érvényesítéséről szóló, 2004. április 29-i 2004/48/EK európai parlamenti és tanácsi irányelvnek.
 - c) a kölcsönös elismerés elvének a vagyonelkobzást elrendelő határozatokra történő alkalmazásáról szóló 2006. október 6-i 2006/783/IB tanácsi kerethatározatnak,
 - d) a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek,
@@ -4572,7 +4429,7 @@ való megfelelést szolgálja.
 (2) E törvény
 
 - a) 13. §-ának (3) bekezdése, 16. §-ának j) pontja, 31/C. §-a, 37/B. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-i 861/2007/EK európai parlamenti és tanácsi rendelet,
-- b) 16. §-ának f) pontja a közösségi védjegyről szóló, 1993. december 20-i 40/94/EK tanácsi rendelet, a közösségi formatervezési mintákról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet, valamint a közösségi növényfajta-oltalomról szóló, 1994. július 27-i 2100/94/EK tanácsi rendelet,
+- b) 16. §-ának f) pontja az európai uniós védjegyről szóló, 2017. június 14-i (EU) 2017/1001 európai parlamenti és tanácsi rendelet, a közösségi formatervezési mintákról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet, valamint a közösségi növényfajta-oltalomról szóló, 1994. július 27-i 2100/94/EK tanácsi rendelet,
 - c) 16. §-ának g) pontja, 23/B. §-ának (2) bekezdése, 31/C. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése a nem vitatott követelésekre vonatkozó európai végrehajtható okirat létrehozásáról szóló, 2004. április 21-i 805/2004/EK európai parlamenti és tanácsi rendelet,
 - d) 16. §-ának h) pontja, 31/C. §-a és 210/B. §-a a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet,
 - e) 16. §-ának i) pontja, 31/C. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,

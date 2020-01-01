@@ -18,17 +18,17 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
 
 (3) A törvény hatálya nem terjed ki az egyéni vállalkozóra, a polgári jogi társaságra, az építőközösségre, továbbá a külföldi székhelyű vállalkozás magyarországi kereskedelmi képviseletére.
 
-2/A. § (1) E törvény hatálya nem terjed ki arra a közkereseti társaságra, betéti társaságra, egyéni cégre és ügyvédi irodára, amely az üzleti évben (az adóévben) nyilvántartásait az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény előírásai szerint vezeti.
+2/A. § (1) E törvény hatálya nem terjed ki arra a közkereseti társaságra, betéti társaságra, egyéni cégre és ügyvédi irodára, amely az üzleti évben (az adóévben) nyilvántartásait a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény előírásai szerint vezeti.
 
-(2) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben előírt feltételeknek meg nem felelő, (1) bekezdés szerinti közkereseti társaság, betéti társaság, egyéni cég, valamint ügyvédi iroda attól a naptól köteles e törvény előírásait alkalmazni, amely naptól nem tartozik az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá.
+(2) A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben előírt feltételeknek meg nem felelő, (1) bekezdés szerinti közkereseti társaság, betéti társaság, egyéni cég, valamint ügyvédi iroda attól a naptól köteles e törvény előírásait alkalmazni, amely naptól nem tartozik a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá.
 
-(3) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti közkereseti társaságra, betéti társaságra, egyéni cégre, valamint ügyvédi irodára a jogelőd nélkül alapított vállalkozókra vonatkozó előírásokat kell megfelelően alkalmazni.
+(3) A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti közkereseti társaságra, betéti társaságra, egyéni cégre, valamint ügyvédi irodára a jogelőd nélkül alapított vállalkozókra vonatkozó előírásokat kell megfelelően alkalmazni.
 
-(4) Az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti közkereseti társaságnak, betéti társaságnak, egyéni cégnek, valamint ügyvédi irodának – tételes leltározással alátámasztott – leltár alapján nyitó mérleget kell készítenie. A nyitó mérlegbe az eszközöket piaci értéken, a kötelezettségeket a ténylegesen fizetendő, a céltartalékokat a számított, a törvény előírásainak megfelelő összegben, a saját tőkét az eszközök és a kötelezettségek (ideértve a céltartalékokat is) különbözetének összegében kell figyelembe venni. A nyitó mérlegbe felvett eszközök és források értékének valódiságát könyvvizsgálóval kell ellenőriztetni.
+(4) A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól e törvény hatálya alá átkerült (visszakerült), (1) bekezdés szerinti közkereseti társaságnak, betéti társaságnak, egyéni cégnek, valamint ügyvédi irodának – tételes leltározással alátámasztott – leltár alapján nyitó mérleget kell készítenie. A nyitó mérlegbe az eszközöket piaci értéken, a kötelezettségeket a ténylegesen fizetendő, a céltartalékokat a számított, a törvény előírásainak megfelelő összegben, a saját tőkét az eszközök és a kötelezettségek (ideértve a céltartalékokat is) különbözetének összegében kell figyelembe venni. A nyitó mérlegbe felvett eszközök és források értékének valódiságát könyvvizsgálóval kell ellenőriztetni.
 
 (4a) Az egyéni vállalkozóról és az egyéni cégről szóló törvény szerint alapított egyéni cégnek és korlátolt felelősségű társaságnak az alapítása időpontjával a (4) bekezdés megfelelő alkalmazásával nyitó mérleget kell készítenie azzal, hogy a nyitó mérlegbe felvett eszközök és források értékének valódiságát könyvvizsgálóval nem kell ellenőriztetni.
 
-(5) A törvény hatálya alá tartozó közkereseti társaság, betéti társaság, egyéni cég, valamint ügyvédi iroda beszámolójának kiegészítő mellékletében – az (1)–(4) bekezdés előírásaival összefüggésben – utalni kell arra, ha számviteli (nyilvántartási) kötelezettségei tekintetében a vállalkozó az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá a következő üzleti évtől átjelentkezett, vagy ha e törvény hatálya alá – az egyszerűsített vállalkozói adóról szóló, illetve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól – átkerülve (visszatérve) először készít beszámolót.
+(5) A törvény hatálya alá tartozó közkereseti társaság, betéti társaság, egyéni cég, valamint ügyvédi iroda beszámolójának kiegészítő mellékletében – az (1)–(4) bekezdés előírásaival összefüggésben – utalni kell arra, ha számviteli (nyilvántartási) kötelezettségei tekintetében a vállalkozó a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá a következő üzleti évtől átjelentkezett, vagy ha e törvény hatálya alá – a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alól – átkerülve (visszatérve) először készít beszámolót.
 
 ### Értelmező rendelkezések, fogalmak
 
@@ -101,7 +101,12 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
   - d) amelyre a felszámolás, az adósságrendezési eljárás befejezésekor a vagyonfelosztási javaslat szerinti értékben átvett eszköz nem nyújt fedezetet,
   - e) amelyet eredményesen nem lehet érvényesíteni, amelynél a fizetési meghagyásos eljárással, a végrehajtással kapcsolatos költségek nincsenek arányban a követelés várhatóan behajtható összegével (a fizetési meghagyásos eljárás, a végrehajtás veszteséget eredményez vagy növeli a veszteséget), amelynél az adós nem lelhető fel, mert a megadott címen nem található és a felkutatása „igazoltan” nem járt eredménnyel,
   - f) amelyet bíróság előtt érvényesíteni nem lehet,
-  - g) amely a hatályos jogszabályok alapján elévült. A behajthatatlanság tényét és mértékét bizonyítani kell.
+  - g) amely a hatályos jogszabályok alapján elévült. A behajthatatlanság tényét és mértékét bizonyítani kell;
+- 11. szerződés elszámolási egysége:
+  - a) jogilag – a szerződés felek által meghatározott tárgya alapján – egy egységet képező – a megrendelővel kötött, a megrendelő által meghatározott jellemzőkkel rendelkező termék vagy szolgáltatás létrehozására és értékesítésére vonatkozó – szerződés egésze (a szerződés összes részteljesítése, összes teljesítési kötelme együttesen, függetlenül attól, hogy a szerződés egy vagy több részteljesítést, teljesítési kötelmet tartalmaz);
+  - b) az ugyanazzal a megrendelővel kötött a) pont szerinti szerződések egy csoportja, amennyiben: ba) a szerződések csoportjának feltételeit egyetlen csomagban tárgyalták, bb) a szerződések egymással annyira szoros kapcsolatban állnak, hogy valójában egy közös nyereséghányaddal rendelkező egyetlen projekt részeit képezik, és bc) a szerződések egyidejűleg, vagy egymást szorosan követően valósulnak meg.
+- 12. teljesítési fok: a tényleges teljesítésnek a szerződés elszámolási egységére meghatározott mértéke, amely a ténylegesen elvégzett munkáknak az elvégzendő összes munkához viszonyított – a számviteli politikában meghatározott módszer szerinti – arányát fejezi ki.
+- 13. készültségi fok: a befejezetlen termelés vagy a befejezetlen szolgáltatás készültségének mértéke, amely a már elvégzett tevékenységeknek a félkész termék, illetve a késztermék (kész szolgáltatás) előállításához elvégzendő összes tevékenységhez viszonyított – a számviteli politikában meghatározott módszer szerinti – arányát fejezi ki.
 
 (5) E törvény alkalmazásában
 
@@ -341,13 +346,13 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 (6) Az (5) bekezdés szerinti gazdálkodó a 151. § (1) bekezdésének alkalmazása során köteles gondoskodni arról, hogy a könyvviteli szolgáltatás körébe tartozó feladatok irányítását, vezetését, az éves beszámoló, az összevont (konszolidált) éves beszámoló elkészítését olyan személy végezze, aki
 
 - a) IFRS regisztrálási szakterületen szerepel a könyvviteli szolgáltatást végzők nyilvántartásában, vagy
-- b) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény szerinti IFRS minősítéssel, IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolással, vagy IFRS mérlegképes könyvelői szakképesítés-ráépüléssel rendelkező kamarai tag könyvvizsgáló.
+- b) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény szerinti IFRS minősítéssel, IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolással, vagy IFRS mérlegképes könyvelői szakképesítéssel rendelkező kamarai tag könyvvizsgáló.
 
 ### Üzleti év
 
 11. § (1) Az üzleti év az az időtartam, amelyről a beszámolót kell készíteni. Az üzleti év időtartama megegyezik – a (2)–(13) bekezdésben foglaltak kivételével – a naptári évvel.
 
-(2) Az üzleti év a naptári évtől eltérhet a hitelintézetnek, pénzügyi vállalkozásnak vagy biztosítónak nem minősülő vállalkozónál, a Magyarország területén engedéllyel működő külföldi felsőoktatási intézménynél, amennyiben azt a működés jellemzői (különösen az üzletmenet ciklikussága, illetve konszolidálásba bevont vállalkozás esetén az anyavállalat információs igénye) indokolttá teszik. Annál a vállalkozónál, amely alkalmazza a 9. § (6) bekezdését, valamint annál az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó vállalkozónál, amely nyilvántartásait e törvény szerint vezeti, az üzleti év nem térhet el a naptári évtől.
+(2) Az üzleti év a naptári évtől eltérhet a hitelintézetnek, pénzügyi vállalkozásnak vagy biztosítónak nem minősülő vállalkozónál, a Magyarország területén engedéllyel működő külföldi felsőoktatási intézménynél, amennyiben azt a működés jellemzői (különösen az üzletmenet ciklikussága, illetve konszolidálásba bevont vállalkozás esetén az anyavállalat információs igénye) indokolttá teszik. Annál a vállalkozónál, amely alkalmazza a 9. § (6) bekezdését, az üzleti év nem térhet el a naptári évtől.
 
 (3) Az üzleti év mérlegfordulónapjának megváltoztatására – a (2) bekezdésben rögzítettek mellett is – három, beszámolóval lezárt üzleti év után, vagy a konszolidálásba történő bevonáskor, vagy az anyavállalat személyében bekövetkezett változás esetén van lehetőség, a létesítő okirat ennek megfelelő módosítása mellett.
 
@@ -620,6 +625,8 @@ függetlenül attól, hogy használatba vették-e azokat vagy sem.
 - c) azokat az eszközöket, amelyeket a befektetett eszközök közül – a 23. § (5) bekezdése szerint – átsoroltak,
 - d) a használatba vétel időpontjától áruként azokat az értékesítési céllal beszerzett, előállított eszközöket, amelyeket a vállalkozó az értékesítésig (az állományból történő kivonásig) átmenetileg használatba vett.
 
+(3a) A szerződés elszámolási egységéhez kapcsolódóan befejezetlen termelés, befejezetlen szolgáltatás, továbbá félkész vagy késztermék a kapcsolódó árbevétel elszámolásáig mutatható ki készletként.
+
 (4) A készletekre adott előlegként az anyag-, az áruszállítónak, a közvetített szolgáltatást nyújtónak, importbeszerzésnél az importálást végző vállalkozónak ilyen címen átutalt (megfizetett, kiegyenlített) – a levonható előzetesen felszámított általános forgalmi adót nem tartalmazó – összeget kell kimutatni.
 
 29. § (1) Követelések azok a különféle szállítási, vállalkozási, szolgáltatási és egyéb szerződésekből jogszerűen eredő, pénzértékben kifejezett fizetési igények, amelyek a vállalkozó által már teljesített, a másik fél által elfogadott, elismert termékértékesítéshez, szolgáltatás teljesítéséhez, hitelviszonyt megtestesítő értékpapír, tulajdoni részesedést jelentő befektetés értékesítéséhez, kölcsönnyújtáshoz, előlegfizetéshez (beleértve az osztalékelőleget is) kapcsolódnak, valamint a különféle egyéb követelések, ideértve a vásárolt követeléseket, a térítés nélkül és egyéb címen átvett követeléseket, a bíróság által jogerősen megítélt követeléseket is.
@@ -677,6 +684,8 @@ függetlenül attól, hogy használatba vették-e azokat vagy sem.
 (6) Aktív időbeli elhatárolásként kell kimutatni a kötelezettséggel szemben a 47. § (11) bekezdés alkalmazása esetén a kötelezettség visszafizetendő összege és bekerülési értéke közötti különbözetet, ha a visszafizetendő összeg a nagyobb. Az így kimutatott aktív időbeli elhatárolást a kötelezettség kivezetésekor, a kivezetett könyv szerinti értékkel arányos összegben kell megszüntetni a pénzügyi műveletek egyéb ráfordításaival szemben.
 
 (7) Aktív időbeli elhatárolásként lehet kimutatni a hitel, a kölcsön felvételéhez közvetlenül kapcsolódóan felmerült költségeket, beleértve a hitel, a kölcsön feltételeként előírt bankgarancia vagy hitelvizsgálat díját, a hitel igénybevétele miatt fizetett kezelési díjat és folyósítási jutalékot, amennyiben azokat nem a 47. § (4) bekezdés a) pontja szerint számolják el. A hitelfelvételhez kapcsolódó költségek elhatárolt összegét a hitel, a kölcsön futamideje alatt időarányosan, de legkésőbb a hitel, a kölcsön teljes összegének visszafizetésekor kell megszüntetni.
+
+(8) Aktív időbeli elhatárolásként kell kimutatni a szerződés elszámolási egysége – általános forgalmi adót nem tartalmazó – teljes szerződéses ellenértékének mérlegfordulónapi teljesítési fok arányában számított összege azon részét, amely meghaladja a szerződés elszámolási egységével kapcsolatban az előző üzleti év(ek)ben és a tárgyévben együttesen – a 72. § (2)–(4a) bekezdés és 73. § alapján – elszámolt nettó árbevételt.
 
 33. § (1) Az aktív időbeli elhatárolások között halasztott ráfordításként kell kimutatni az ellentételezés nélküli tartozásátvállalás során – a tartozásátvállalás beszámolási időszakában – a véglegesen átvállalt és pénzügyileg nem rendezett kötelezettség egyéb ráfordításként elszámolt megállapodás szerinti összegét. Az elhatárolást az átvállalt kötelezettségnek a megállapodás szerinti pénzügyi rendezésekor, a teljesítésnek megfelelően kell az egyéb ráfordításokkal szemben megszüntetni.
 
@@ -750,7 +759,8 @@ a cégbejegyzést követően, az eszköz átvételekor az (1) bekezdés a)–b) 
 - c) a veszteség miatti negatív eredménytartalék ellentételezésére felhasznált tőketartalékot, lekötött tartalékot,
 - d) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség pótlásához nem szükséges – korábban ilyen címen adott – pótbefizetés visszakapott összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 - e) az eredménytartalékból lekötött tartalék visszavezetett összegét a lekötés feloldása alapján,
-- f) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékba helyezett pénzeszközöket, átvett eszközök értékét.
+- f) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékba helyezett pénzeszközöket, átvett eszközök értékét,
+- g) a pótbefizetés összegét a lekötött tartalékkal szemben, ha a pótbefizetésből származó követeléséről a gazdasági társaság tulajdonosa (tagja) lemond, a lemondás időpontjával.
 
 (2) Az eredménytartalék csökkenéseként kell kimutatni:
 
@@ -805,6 +815,8 @@ a cégbejegyzést követően, az eszköz átvételekor az (1) bekezdés a)–b) 
 (9) A lekötött tartalék növekedéseként, illetve csökkenéseként kell kimutatni a pénzmozgással, illetve az eszközmozgással egyidejűleg a külön jogszabály alapján a lekötött tartalékkal szemben átvett, illetve átadott pénzeszközök, egyéb eszközök értékét. A külön jogszabály alapján átvett lekötött tartalék feloldását – a külön jogszabály eltérő rendelkezése hiányában – az eredménytartalékkal szemben kell elszámolni.
 
 (10) Amennyiben a gazdasági társaság veszteségének fedezetére szolgáló – törvényi előíráson alapuló – korábban teljesített pótbefizetés visszafizetésének a teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell a lekötött tartalékot csökkenteni.
+
+(11) A gazdasági társaságnál a lekötött tartalékban kimutatott pótbefizetés összegét az eredménytartalék javára kell átvezetni, amennyiben a gazdasági társaság tulajdonosa (tagja) a pótbefizetésből származó követeléséről lemond, a lemondás időpontjával.
 
 39. § (1) Értékelési tartalékként, és azon belül elkülönítetten kell kimutatni
 
@@ -866,7 +878,7 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 
 (8) Bizalmi vagyonkezelés során vagyonkiadásra csak az induló tőke (negatív tartalék, illetve tárgyévi veszteség esetén a tartalékkal, illetve a tárgyévi veszteséggel csökkentett induló tőke) összegéig kerülhet sor. Évközi vagyonkiadásnál a kiadható vagyon megállapításánál a közbenső mérlegben kimutatott negatív adózott eredményt is figyelembe kell venni.
 
-41. § (1) Az adózás előtti eredmény terhére céltartalékot kell képezni – a szükséges mértékben – azokra a múltbeli, illetve a folyamatban lévő ügyletekből, szerződésekből származó, harmadik felekkel szembeni fizetési kötelezettségekre [ideértve különösen a jogszabályban meghatározott garanciális kötelezettséget, a függő kötelezettséget, a biztos (jövőbeni) kötelezettséget, a korengedményes nyugdíj, illetve a helyébe lépő korhatár előtti ellátás, a végkielégítés miatti fizetési kötelezettséget, a környezetvédelmi kötelezettséget], amelyek a mérlegfordulónapon valószínű vagy bizonyos, hogy fennállnak, de összegük vagy esedékességük időpontja még bizonytalan, és azokra a vállalkozó a szükséges fedezetet más módon nem biztosította.
+41. § (1) Az adózás előtti eredmény terhére céltartalékot kell képezni – a szükséges mértékben – azokra a múltbeli, illetve a folyamatban lévő ügyletekből, szerződésekből származó, harmadik felekkel szembeni fizetési kötelezettségekre [ideértve különösen a jogszabályban meghatározott garanciális kötelezettséget, a függő kötelezettséget, a biztos (jövőbeni) kötelezettséget, a korengedményes nyugdíj, illetve a helyébe lépő korhatár előtti ellátás, a végkielégítés miatti fizetési kötelezettséget, a környezetvédelmi kötelezettséget, valamint a megkötött szerződésből vagy annak elszámolási egységéből várható veszteséget], amelyek a mérlegfordulónapon valószínű vagy bizonyos, hogy fennállnak, de összegük vagy esedékességük időpontja még bizonytalan, és azokra a vállalkozó a szükséges fedezetet más módon nem biztosította.
 
 (2) Az adózás előtti eredmény terhére – a valós eredmény megállapítása érdekében a szükséges mértékben – céltartalék képezhető az olyan várható, jelentős és időszakonként ismétlődő jövőbeni költségekre (különösen a fenntartási, az átszervezési költségekre, a környezetvédelemmel kapcsolatos költségekre), amelyekről a mérlegfordulónapon feltételezhető vagy bizonyos, hogy a jövőben felmerülnek, de összegük vagy felmerülésük időpontja még bizonytalan és nem sorolhatók a passzív időbeli elhatárolások közé.
 
@@ -932,6 +944,8 @@ kimutatott tőketartalék, valamint az – osztalékként, részesedésként, ka
 - e) előrejelzett ügylet vagy biztos elkötelezettség cash-flow fedezeti ügylete esetén, ha a fedezeti ügylet lejárata a pénzügyi teljesítéshez igazodik, és ezért a fedezeti ügylet lejárata későbbi, mint a fedezett ügylet bekövetkezésének időpontja, a fedezeti ügyletnek a fedezett ügylet bekövetkezésének időpontjában fennálló, nem realizált veszteségéből a hatékony részt az ügylet zárásáig, jellegétől függően a fizetendő (fizetett) kamatokkal és kamatjellegű ráfordításokkal vagy a pénzügyi műveletek egyéb ráfordításaival szemben.
 
 (6) Passzív időbeli elhatárolásként kell kimutatni a kötelezettséggel szemben a 47. § (11) bekezdés alkalmazása esetén a kötelezettség visszafizetendő összege és bekerülési értéke közötti különbözetet, ha a visszafizetendő összeg a kisebb. Az így kimutatott passzív időbeli elhatárolást a kötelezettség kivezetésekor, a kivezetett könyv szerinti értékkel arányos összegben kell megszüntetni a pénzügyi műveletek egyéb bevételeivel szemben.
+
+(7) Passzív időbeli elhatárolásként kell kimutatni a szerződés elszámolási egységével kapcsolatban az előző üzleti év(ek)ben és a tárgyévben együttesen – a 72. § (2)–(4a) bekezdés és a 73. § alapján – elszámolt nettó árbevételnek azt a részét, amely meghaladja a szerződés elszámolási egysége – általános forgalmi adót nem tartalmazó – teljes szerződéses ellenértékének mérlegfordulónapi teljesítési fok arányában számított összegét.
 
 45. § (1) A passzív időbeli elhatárolások között halasztott bevételként kell kimutatni az egyéb bevételként vagy a pénzügyi műveletek bevételeként elszámolt
 
@@ -1407,9 +1421,9 @@ kell elszámolni.
 
 62. § (1) Tulajdoni részesedést jelentő befektetéseknél, továbbá hitelviszonyt megtestesítő értékpapíroknál bekerülési érték a 47–50. § szerinti tételek, vagy csoportos nyilvántartás esetén a beszerzési értékek alapján számított átlagos (súlyozott) beszerzési ár, vagy a FIFO módszer szerint meghatározott beszerzési ár.
 
-(2) Vásárolt készleteknél (anyag,áru) bekerülési érték a 47–50. § szerinti tételek, vagy a beszerzési értékek alapján számított átlagos (súlyozott) beszerzési ár, vagy a FIFO módszer szerint meghatározott bekerülési érték; saját termelésű készleteknél (befejezetlen termelés, félkész és késztermék, állatok) előállítási érték az 51. § szerinti közvetlen önköltség, vagy az átlagos (súlyozott) közvetlen önköltség, vagy a FIFO módszer szerint meghatározott közvetlen önköltség. A közvetlen önköltség utókalkulációval meghatározott vagy norma szerinti közvetlen önköltség lehet. A befejezetlen termelés norma szerinti közvetlen önköltsége a félkész termék, a késztermék norma szerinti közvetlen önköltségéből a teljesítési fok alapján arányosítással is meghatározható.
+(2) Vásárolt készleteknél (anyag,áru) bekerülési érték a 47–50. § szerinti tételek, vagy a beszerzési értékek alapján számított átlagos (súlyozott) beszerzési ár, vagy a FIFO módszer szerint meghatározott bekerülési érték; saját termelésű készleteknél (befejezetlen termelés, félkész és késztermék, állatok) előállítási érték az 51. § szerinti közvetlen önköltség, vagy az átlagos (súlyozott) közvetlen önköltség, vagy a FIFO módszer szerint meghatározott közvetlen önköltség. A közvetlen önköltség utókalkulációval meghatározott vagy norma szerinti közvetlen önköltség lehet. A befejezetlen termelés norma szerinti közvetlen önköltsége a félkész termék, a késztermék norma szerinti közvetlen önköltségéből a készültségi fok alapján arányosítással is meghatározható.
 
-(3) A befejezetlen építési-szerelési, illetve technológiai szerelési munka bekerülési értéke a kalkulációs egység összes elszámolt közvetlen költségéből a megrendelővel még el nem számolt, de ténylegesen elvégzett munkák közvetlen önköltsége, amely utókalkulációval, továbbá – a megrendelő igazolása alapján – a teljesítési fok alapján arányosítással is meghatározható. A kalkulációs egység egy szerződés szerinti munkánál (egy létesítménynél) nagyobb egység nem lehet.
+(3)
 
 (4) Valutakészleteknél, devizakészleteknél bekerülési érték a beszerzéskori árfolyamon számított forintérték, vagy az átlagos (súlyozott) beszerzési árfolyamon, vagy a FIFO módszer szerinti árfolyamon számított forintérték.
 
@@ -1545,6 +1559,11 @@ kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, es
 - d) a befektetett eszközök használati, üzemeltetési, kezelési jogának átengedéséért kapott – általános forgalmi adót nem tartalmazó – számlázott ellenértéket,
 - e)
 
+(4a) Az értékesítés nettó árbevételét:
+
+- a) növeli az az összeg, amellyel a szerződés elszámolási egysége – általános forgalmi adót nem tartalmazó – teljes szerződéses ellenértékének teljesítési fok arányában számított összege meghaladja a szerződés elszámolási egységével kapcsolatban – az e bekezdés, a (2)–(4) bekezdés és a 73. § alapján – elszámolt árbevételt,
+- b) csökkenti az az összeg, amellyel a szerződés elszámolási egységével kapcsolatban – az e bekezdés, a (2)–(4) bekezdés és a 73. § alapján – elszámolt árbevétel meghaladja a szerződés elszámolási egysége – általános forgalmi adót nem tartalmazó – teljes szerződéses ellenértékének teljesítési fok arányában számított összegét.
+
 (5) Az értékesítés nettó árbevételét módosító (növelő vagy csökkentő) tételként kell elszámolni a nem pénzügyi eszköz eladásával teljesülő származékos ügyletek esetében az ügyletnek a zárás napján érvényes valós értékét a pénzügyi műveletek egyéb ráfordításaival, illetve a pénzügyi műveletek egyéb bevételeivel szemben.
 
 73. § (1) Az értékesítés nettó árbevétele nem tartalmazhatja az értékesítésről kiállított számlában, nyugtában – a konkrét vásárolt és saját termelésű készlethez, szolgáltatásnyújtáshoz kapcsolódóan – adott engedmény összegét.
@@ -1662,7 +1681,7 @@ ha az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez kapcsolód
 - a) az immateriális javaknak, a tárgyi eszközöknek az 52. § (1)–(4) bekezdése szerint tervezett (meghatározott), az 53. § (3) bekezdése szerint módosított értékcsökkenése összegét,
 - b) a (2) bekezdés szerint a használatbavételkor elszámolt összeget.
 
-(2) A 100 ezer forint egyedi beszerzési, előállítási érték alatti vagyoni értékű jogok, szellemi termékek, tárgyi eszközök bekerülési értéke – a vállalkozó döntésétől függően – a használatbavételkor értékcsökkenési leírásként egy összegben elszámolható.
+(2) A 200 ezer forint egyedi beszerzési, előállítási érték alatti vagyoni értékű jogok, szellemi termékek, tárgyi eszközök bekerülési értéke – a vállalkozó döntésétől függően – a használatbavételkor értékcsökkenési leírásként egy összegben elszámolható.
 
 81. § (1) Egyéb ráfordítások az olyan, az értékesítés nettó árbevételéhez közvetlenül vagy közvetetten nem kapcsolódó kifizetések és más veszteség jellegű tételek, amelyek a rendszeres tevékenység (üzletmenet) során merülnek fel, és nem minősülnek pénzügyi műveletek ráfordításainak.
 
@@ -1861,7 +1880,7 @@ függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszem�
 
 87. § (1) Az adózás előtti eredmény az üzemi (üzleti) tevékenység eredménye és a pénzügyi műveletek eredményének együttes összege.
 
-(2) Adófizetési kötelezettségként kell kimutatni az üzleti év adózás előtti eredményét terhelő adó (ideértve különösen a társasági adót, az abba beszámítható külföldi adót, valamint az olyan külföldi adót, amelynek alapjául szolgáló jövedelem nemzetközi szerződés rendelkezése alapján mentes a társasági adó alól), az egyszerűsített vállalkozói adó, a kisvállalati adó megállapított (bevallott, kivetett) összegét.
+(2) Adófizetési kötelezettségként kell kimutatni az üzleti év adózás előtti eredményét terhelő adó (ideértve különösen a társasági adót, az abba beszámítható külföldi adót, valamint az olyan külföldi adót, amelynek alapjául szolgáló jövedelem nemzetközi szerződés rendelkezése alapján mentes a társasági adó alól), a kisvállalati adó megállapított (bevallott, kivetett) összegét.
 
 (3) Az adózott eredmény az adózás előtti eredmény és az adófizetési kötelezettség különbözetével egyezik meg.
 
@@ -2135,7 +2154,7 @@ a jelentősebb összegeit, azok időbeli alakulását.
 98. § Az egyszerűsített éves beszámoló készítése során:
 
 - a) az 57. § (2) bekezdése szerinti visszaírás alkalmazása nem kötelező;
-- b) a saját termelésű készlet – a 66. § (1) bekezdésben rögzítettektől eltérően – a még várhatóan felmerülő költségekkel és a kalkulált haszonnal csökkentett eladási áron is értékelhető, a még várhatóan felmerülő költségek a teljesítési fok alapján arányosítással is meghatározhatók;
+- b) a saját termelésű készlet – a 66. § (1) bekezdésben rögzítettektől eltérően – a még várhatóan felmerülő költségekkel és a kalkulált haszonnal csökkentett eladási áron is értékelhető, a még várhatóan felmerülő költségek a készültségi fok alapján arányosítással is meghatározhatók;
 - c)
 - d) a 25. § (8) bekezdése, illetve a 45. § (3) bekezdése előírásait nem kötelező alkalmazni.
 
@@ -2356,7 +2375,7 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 - b) IFRS-ek szerinti jegyzett tőke: a létesítő okiratban meghatározott jegyzett tőke, amennyiben az tőkeinstrumentumnak minősül;
 - c) jegyzett, de be nem fizetett tőke: az IFRS-ek szerinti jegyzett tőkéből a gazdálkodó rendelkezésére még nem bocsátott összeg;
 - d) tőketartalék: a saját tőke minden olyan elemének összege, amely nem felel meg az IFRS-ek szerinti jegyzett tőke, a jegyzett, de be nem fizetett tőke, az eredménytartalék, az értékelési tartalék, az adózott eredmény vagy a lekötött tartalék fogalmának;
-- e) eredménytartalék: az IFRS-ek szerinti éves beszámolóban kimutatott, korábbi évek halmozott – és a tulajdonosok részére még ki nem osztott – adózott eredmény (ideértve az IFRS-ekre való áttérés éve előtti üzleti év mérlegfordulónapján az e törvény szerint keletkezett eredménytartalék és adózott eredmény együttes összegének az IFRS-ekre való áttérés felhalmozott eredményre gyakorolt hatásával korrigált összegét), továbbá az IFRS-ek szerint közvetlenül a felhalmozott eredmény javára vagy terhére elszámolt összegek, a jegyzett tőkéből vagy a tőketartalékból a veszteségek fedezetére átvezetett összeg, az egyéb tartalékokból átvezetett bármely olyan összeg, amelynek átvezetését az IFRS-ek előírják vagy megengedik. Az így meghatározott összeget csökkenteni kell a fizetett pótbefizetés IFRS-ek szerint eszközként kimutatott összegével, és a fel nem használt fejlesztési tartaléknak a kapcsolódó, az IAS 12 Nyereségadók című standard alapján számított halasztott adóval csökkentett összegével. Az eredménytartalék összege az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti egyéb átfogó jövedelmet – az átsorolási módosítások kivételével – nem tartalmazhat;
+- e) eredménytartalék: az IFRS-ek szerinti éves beszámolóban kimutatott, korábbi évek halmozott – és a tulajdonosok részére még ki nem osztott – adózott eredmény (ideértve az IFRS-ekre való áttérés éve előtti üzleti év mérlegfordulónapján az e törvény szerint keletkezett eredménytartalék és adózott eredmény együttes összegének az IFRS-ekre való áttérés felhalmozott eredményre gyakorolt hatásával korrigált összegét), továbbá az IFRS-ek szerint közvetlenül a felhalmozott eredmény javára vagy terhére elszámolt összegek [ideértve a kapott pótbefizetés azon összegét is, amely esetében a pótbefizetésből származó követeléséről a gazdasági társaság tulajdonosa (tagja) lemondott], a jegyzett tőkéből vagy a tőketartalékból a veszteségek fedezetére átvezetett összeg, az egyéb tartalékokból átvezetett bármely olyan összeg, amelynek átvezetését az IFRS-ek előírják vagy megengedik. Az így meghatározott összeget csökkenteni kell a fizetett pótbefizetés IFRS-ek szerint eszközként kimutatott összegével, és a fel nem használt fejlesztési tartaléknak a kapcsolódó, az IAS 12 Nyereségadók című standard alapján számított halasztott adóval csökkentett összegével. Az eredménytartalék összege az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti egyéb átfogó jövedelmet – az átsorolási módosítások kivételével – nem tartalmazhat;
 - f) értékelési tartalék: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti átfogó jövedelem kimutatásban szereplő egyéb átfogó jövedelem halmozott és tárgyévi egyéb átfogó jövedelmet is tartalmazó összege, továbbá az IFRS-ekre történő áttérés előtt keletkezett értékelési tartalék összege;
 - g) adózott eredmény: 114/A. § 9. pontjában meghatározott fogalom;
 - h) lekötött tartalék: a kapott pótbefizetés IFRS-ek szerint kötelezettségként kimutatott összege, növelve a fel nem használt fejlesztési tartaléknak a kapcsolódó, az IAS 12 Nyereségadók című standard alapján számított halasztott adóval csökkentett összegével.
@@ -2997,7 +3016,8 @@ tartalmazza.
 - a) az átalakulással egyidejűleg belépő új tagok (részvényesek) pénzbeli és nem pénzbeli (vagyoni) hozzájárulását eszközönként, és ezzel azonos értékben a saját tőke (jegyzett tőke, tőketartalék) létesítő okirat szerinti növekedését;
 - b) az átalakulás feltételeként meghatározott, a meglévő tagokat (részvényeseket) terhelő, pótlólagosan teljesítendő pénzbeli és nem pénzbeli (vagyoni) hozzájárulást eszközönként, és ezzel azonos értékben a saját tőke (jegyzett tőke, tőketartalék) létesítő okirat szerinti növekedését;
 - c) az átalakulással létrejövő gazdasági társaságban részt venni nem kívánó tagok (részvényesek) részére kiadásra kerülő eszközöknek és kötelezettségeknek a vagyonmérleg-tervezet szerinti értékét, és ezek különbözetével azonos értékben a saját tőke (jegyzett tőke, tőketartalék, eredménytartalék) létesítő okirat szerinti csökkenését;
-- d) a beolvadó, illetve szétváló részvénytársaság részvényesei számára juttatható kiegészítő készpénzfizetés összegét és ezzel azonos értékben a tőketartalék, az eredménytartalék létesítő okirat szerinti csökkenését.
+- d) a beolvadó, illetve szétváló részvénytársaság részvényesei számára juttatható kiegészítő készpénzfizetés összegét és ezzel azonos értékben a tőketartalék, az eredménytartalék létesítő okirat szerinti csökkenését;
+- e) a jogelőd gazdasági társaságnál a lekötött tartalékban kimutatott pótbefizetés összegéből az eredménytartalékba átvezetett összeget, ha a pótbefizetésből származó követeléséről az átalakulás során a gazdasági társaság tulajdonosa (tagja) lemond.
 
 (3) A kiválással létrejövő gazdasági társaságnak – ha élt az átértékelés lehetőségével – a vagyonmérleg-tervezete ,,különbözetek'' oszlopában elkülönítetten kell kimutatnia az átértékelési különbözetet, a 138. § (4) bekezdésében foglaltak szerint.
 
@@ -3230,7 +3250,7 @@ a különbözettel.
 
 (11) A nyilvántartásba vételt végző szervezet a tárgyévben nyilvántartásba vett és nyilvántartásból törölt természetes személyek (10) bekezdés szerinti nyilvános adatait, valamint a nyilvántartásba vettek ezen adataiban bekövetkezett változásokat az egységes Kormányzati Portálon évente közzéteszi, továbbá internetes honlapján valamennyi nyilvántartásba vett természetes személy előbbi adatait nyilvánosságra hozza, és biztosítja, hogy a nyilvános adatokról a nyilvántartásba vételt végző szervezettől bárki tájékoztatást kapjon.
 
-(12) A mérlegképes könyvelői szakképesítés szakmai és vizsgakövetelményeit a számviteli szabályozásért felelős miniszter (a továbbiakban: miniszter) rendeletben szabályozza.
+(12) A mérlegképes könyvelői szakmai képzés programkövetelményét a számviteli szabályozásért felelős miniszter (a továbbiakban: miniszter) állapítja meg.
 
 (13) A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő 10 évig köteles megőrizni.
 
@@ -3858,6 +3878,18 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (74) E törvénynek az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 3. § (5) bekezdés 1., 2. és 2a. pontját, 11. § (4) és (14)–(15) bekezdését, 72. § (4) bekezdés e) pontját, 77. § (3) bekezdés p) pontját, 81. § (2) bekezdés q) pontját és 92. § (4) bekezdését a 2018. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
 
+(75) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 2/A. § (4a) bekezdését, 3. § (4) bekezdés 11–13. pontját, 28. § (3a) bekezdését, 32. § (8) bekezdését, 41. § (1) bekezdését, 44. § (7) bekezdését, 62. § (2) bekezdését, 72. § (4a) bekezdését, 98. § b) pontját először a 2020. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(76) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 2/A. § (4a) bekezdését, 3. § (4) bekezdés 11–13. pontját, 28. § (3a) bekezdését, 32. § (8) bekezdését, 41. § (1) bekezdését, 44. § (7) bekezdését, 62. § (2) bekezdését, 72. § (4a) bekezdését, 98. § b) pontját a 2019. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(77) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 3. § (4) bekezdés 11–13. pontját, 28. § (3a) bekezdését, 32. § (8) bekezdését, 44. § (7) bekezdését, 62. § (2) bekezdését, 72. § (4a) bekezdését, 98. § b) pontját a 2020. január 1-je előtt megkötött szerződésekre nem kötelező alkalmazni.
+
+(78) Ha a vállalkozó a 2020. január 1-je előtt megkötött szerződésekre alkalmazza az e törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 3. § (4) bekezdés 11–13. pontját, 28. § (3a) bekezdését, 32. § (8) bekezdését, 44. § (7) bekezdését, 62. § (2) bekezdését, 72. § (4a) bekezdését, 98. § b) pontját, úgy az érintett szerződésekre, az e törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel hatályon kívül helyezett 62. § (3) bekezdését nem alkalmazhatja.
+
+(79) E törvénynek a Versenyképesebb Magyarországért program egyes adóintézkedéseinek megvalósítását szolgáló törvények módosításáról szóló 2019. évi C. törvénnyel megállapított 37. § (1) bekezdés g) pontját, 38. § (11) bekezdését, 80. § (2) bekezdését, 114/B. § (4) bekezdés e) pontját, 139. § (2) bekezdés e) pontját először a 2020. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(80) E törvénynek a Versenyképesebb Magyarországért program egyes adóintézkedéseinek megvalósítását szolgáló törvények módosításáról szóló 2019. évi C. törvénnyel megállapított 37. § (1) bekezdés g) pontját, 38. § (11) bekezdését, 114/B. § (4) bekezdés e) pontját, 139. § (2) bekezdés e) pontját a 2019. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
 ### Felhatalmazás
 
 178. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben szabályozza:
@@ -3871,7 +3903,7 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 - g) az egyes pénz- és tőkepiaci szolgáltatásokat is végző egyéb vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságait;
 - h) a mikrogazdálkodói egyszerűsített éves beszámoló készítésének sajátosságait.
 
-(2) Felhatalmazást kap a miniszter arra, hogy rendeletben szabályozza a mérlegképes könyvelői képesítés szakmai és vizsgakövetelményeit.
+(2)
 
 (3) Felhatalmazást kap a miniszter, hogy a 154/A. § (2) bekezdésének megfelelő államok listáját közzétegye.
 

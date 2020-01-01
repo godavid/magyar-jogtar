@@ -24,7 +24,7 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
 
 - 1. átlagos statisztikai állományi létszám: a Központi Statisztikai Hivatal által kiadott Útmutató a munkaügy-statisztikai adatszolgáltatáshoz című kiadvány 2009. január 1. napján érvényes szabályai szerint meghatározott állományi létszám;
 - 2. beszámoló: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.), vagy a felhatalmazása alapján kiadott jogszabály szerinti beszámoló, kivéve az összevont (konszolidált) éves beszámolót;
-- 3. bevétel: e törvény III. Fejezetének alkalmazásában az értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei, vagy a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó egyszerűsített vállalkozói adóalany esetén az egyszerűsített vállalkozói adó alapja, a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó kisadózó vállalkozás esetén a 12. pont alapján meghatározott összeg;
+- 3. bevétel: e törvény III. Fejezetének alkalmazásában az értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei, a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó kisadózó vállalkozás esetén a 12. pont alapján meghatározott összeg;
 - 4. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvényben egyéni cégként meghatározott jogalany;
 - 5. egyéni vállalkozó: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti egyéni vállalkozó;
 - 6. ellenőrzött külföldi társaság: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 4. § 11. pontja szerinti társaság, azzal, hogy a feltételezett magyarországi adókötelezettség számításánál a kisvállalati adó szabályait kell alkalmazni;
@@ -38,7 +38,7 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
   - f) rokkantsági ellátásban részesül és egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50 százalékos vagy kisebb mértékű,
   - g) a kisadózó vállalkozáson kívül más vállalkozásban nem kiegészítő tevékenységet folytató egyéni vállalkozónak vagy társas vállalkozónak minősül, ideértve más kisadózó vállalkozásban fennálló főállású kisadózó jogállást is,
   - h) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszonyban áll,
-  - i) a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat, vagy az előzőekben nem említett államokban folytat ez előbbieknek megfelelő tanulmányokat, azzal, hogy 25. éves életévének betöltéséig ide tartozik a tanulmányait szüneteltető kisadózó is;
+  - i) a köznevelési intézményben, a szakképző intézményben vagy a felsőoktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat, vagy az előzőekben nem említett államokban folytat ez előbbieknek megfelelő tanulmányokat, azzal, hogy 25. éves életévének betöltéséig ide tartozik a tanulmányait szüneteltető kisadózó is;
 - 9. kapcsolt vállalkozás: a Tao. tv. 4. § 23. pontja szerinti vállalkozás;
 - 10. kisadózó vállalkozás: a kisadózó vállalkozások tételes adóját jogszerűen választó egyéni vállalkozó, egyéni cég, közkereseti társaság és betéti társaság, valamint ügyvédi iroda;
 - 11. kisadózó: a kisadózó vállalkozások tételes adóját jogszerűen választó egyéni vállalkozó esetében az egyéni vállalkozó mint magánszemély, egyéni cég esetén annak tagja, közkereseti társaság, betéti társaság, valamint ügyvédi iroda esetén a társaság, az ügyvédi iroda kisadózóként bejelentett tagja;
@@ -98,7 +98,7 @@ igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt k
 - b) az egyéni cég,
 - c) a kizárólag magánszemély taggal rendelkező betéti társaság,
 - d) a kizárólag magánszemély taggal rendelkező közkereseti társaság,
-- e) az ügyvédi iroda, ha az állami adóhatóságnak az erre a célra rendszeresített nyomtatványon bejelenti, hogy adókötelezettségeit e törvény II. Fejezet rendelkezései szerint teljesíti. Az adóalanyiság létrejöttének nem akadálya, ha az adóalany az adóévre az Szja tv. szerinti átalányadózást vagy az egyszerűsített vállalkozói adó szerinti adóalanyiságot választott.
+- e) az ügyvédi iroda, ha az állami adóhatóságnak az erre a célra rendszeresített nyomtatványon bejelenti, hogy adókötelezettségeit e törvény II. Fejezet rendelkezései szerint teljesíti. Az adóalanyiság létrejöttének nem akadálya, ha az adóalany az adóévre az Szja tv. szerinti átalányadózást választott.
 
 #### 2. Az adóalanyiság keletkezése és megszűnése
 
@@ -183,7 +183,7 @@ igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt k
 
 (9) Nem kell megfizetni a kisadózó után az (1), a (2), valamint a (4a) bekezdés szerinti adót azon hónapokra vonatkozóan, amelyek egészében a kisadózó
 
-- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy gyermekek otthongondozási díjában, ápolási díjban részesül,
+- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy gyermekek otthongondozási díjában, ápolási díjban részesül,
 - b) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 - c) fogvatartott,
 - d) egyéni vállalkozói tevékenységét szüneteltette,
@@ -377,7 +377,7 @@ növelt összege, de legalább a b) pont szerinti összeg.
 (4) Az adóalap megállapításakor csökkentő tételként kell figyelembe venni:
 
 - a) a tőkebevonás (különösen a jegyzett tőke emelés) cégbírósági bejegyzésére tekintettel az adóévben a saját tőke növekedéseként elszámolt összeget,
-- b) a kapott (járó) osztalék címén az adóévben elszámolt, a külföldön megfizetett (fizetendő) adó összegével csökkentett bevétel összegét,
+- b) a kapott (járó) osztalék címén az adóévben elszámolt, a külföldön megfizetett (fizetendő) adó összegével csökkentett bevétel összegét, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja el az adózás előtti eredmény terhére ráfordításként,
 - c) a pénztár értékének tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének és mentesített értékének pozitív különbözetét,
 - d) a 2017. január 1-je előtt a kisvállalati adó hatálya alá tartozó vállalkozásnál e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (4) bekezdés e) és f) pontjai szerint elszámolt csökkentés, e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (5) bekezdés e) és f) pontja és 20. § (6)–(8) bekezdése szerint elszámolt növelés összegével csökkentett, a 2013–2016. adóévek pénzforgalmi szemléletű eredményével növelt pozitív összegét.
 
@@ -394,7 +394,7 @@ növelt összege, de legalább a b) pont szerinti összeg.
 
 #### 15. Az adó mértéke
 
-21. § (1) Az adó mértéke az adó alapjának 13 százaléka.
+21. § (1) Az adó mértéke az adó alapjának 12 százaléka.
 
 (2) A kisvállalati adó adóalanya mentesül:
 
@@ -421,21 +421,23 @@ bevallása és megfizetése alól.
 (2) Az adóelőleg összege
 
 - a) az adóelőleg-megállapítási időszakban az adóalany által fizetendő, e törvény 20. § (2)–(2b) bekezdése szerint meghatározott személyi jellegű kifizetések összege, és
-- b) az adóelőleg-megállapítási időszakban jóváhagyott fizetendő osztalék (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában jóváhagyásra kerülő osztalékot), csökkentve az adóelőleg-megállapítási időszakban bevételként elszámolt osztalék összegével
+- b) az adóelőleg-megállapítási időszakban jóváhagyott fizetendő osztalék (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában jóváhagyásra kerülő osztalékot), csökkentve az adóelőleg-megállapítási időszakban bevételként elszámolt, a külföldön megfizetett (fizetendő) adó összegét nem tartalmazó osztalék összegével, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja el az adózás előtti eredmény terhére ráfordításként
 
-együttes összegének a 13 százaléka.
+együttes összegének a 12 százaléka.
 
 (3) Az adóalany az adóévre e törvény szerint megállapított adót – az adóévben már megfizetett adóelőlegek beszámításával – a bevallás benyújtására előírt határidőig megfizeti. Ha az adóévre már megfizetett adóelőlegek összege meghaladja az adóévre megállapított adó összegét, a különbözetet az adóalany bevallásában, a bevallás beérkezésének napjától, de legkorábban a bevallás benyújtására előírt határidő napjától (esedékességtől) jogosult visszaigényelni.
 
 #### 18. A kettős adóztatás elkerülése
 
-24. § (1) Az adóalapot csökkenti a külföldön adóztatható, 20. § (4) bekezdés b) pontja szerinti osztaléknak nem minősülő jövedelem külföldön megfizetett (fizetendő) adóval csökkentett része, amennyiben nemzetközi szerződés a jövedelem belföldi adózás alóli mentesítéséről rendelkezik.
+24. § (1) A 20. § (1) bekezdés a) pontja szerinti egyenleget csökkenti a külföldön adóztatható, 20. § (4) bekezdés b) pontja szerinti osztaléknak nem minősülő jövedelem külföldön megfizetett (fizetendő) adóval csökkentett része, amennyiben nemzetközi szerződés a jövedelem belföldi adózás alóli mentesítéséről rendelkezik.
 
-(2) Külföldön adóztatható, a 20. § (4) bekezdés b) pontja szerinti osztaléknak nem minősülő jövedelem esetén az adóalapot csökkenti a külföldön megfizetett (fizetendő) adó és a kisvállalati adó 21. §-ban meghatározott mértékének hányadosával számított jövedelem, de legfeljebb a külföldön adóztatható jövedelem külföldön megfizetett adóval csökkenthető része, amennyiben e jövedelem nem tartozik nemzetközi szerződés hatálya alá vagy a nemzetközi szerződés az adó beszámításáról rendelkezik.
+(2) Külföldön adóztatható, a 20. § (4) bekezdés b) pontja szerinti osztaléknak nem minősülő jövedelem esetén a 20. § (1) bekezdés a) pontja szerinti egyenleget csökkenti a külföldön megfizetett (fizetendő) adó és a kisvállalati adó 21. §-ban meghatározott mértékének hányadosával számított jövedelem, de legfeljebb a külföldön adóztatható jövedelem külföldön megfizetett adóval csökkenthető része, amennyiben e jövedelem nem tartozik nemzetközi szerződés hatálya alá vagy a nemzetközi szerződés az adó beszámításáról rendelkezik.
 
-(3) Az (1)–(2) bekezdés alkalmazásakor a külföldön adóztatható jövedelem megállapításánál figyelembe kell venni az e bevétel megszerzéséhez közvetlenül hozzárendelhető költségeket, ráfordításokat, a 20. § (2)–(7) bekezdései szerinti módosító tételeket. A külföldről származó árbevétel és bevétel összegének az összes árbevétel és bevétel összegéhez viszonyított arányában kell megosztani a külföldről származó jövedelem megszerzéséhez közvetlenül hozzá nem rendelhető – de nem a kizárólag belföldről származó jövedelemhez felmerült – költségeket, ráfordításokat, a 20. § (2)–(7) bekezdése szerinti módosító tételeket.
+(3) Az (1)–(2) és (5) bekezdés alkalmazásakor a külföldön adóztatható jövedelem megállapításánál figyelembe kell venni az e bevétel megszerzéséhez közvetlenül hozzárendelhető költségeket, ráfordításokat, a 20. § (2)–(7) bekezdései szerinti módosító tételeket. A külföldről származó árbevétel és bevétel összegének az összes árbevétel és bevétel összegéhez viszonyított arányában kell megosztani a külföldről származó jövedelem megszerzéséhez közvetlenül hozzá nem rendelhető – de nem a kizárólag belföldről származó jövedelemhez felmerült – költségeket, ráfordításokat, a 20. § (2)–(7) bekezdése szerinti módosító tételeket.
 
 (4) Nem minősül a 20. § (2)–(2b) bekezdése szerinti személyi jellegű kifizetésnek a nemzetközi szerződés alapján külföldön adóztatható kifizetés.
+
+(5) Az (1)–(2) bekezdéstől eltérően a 20. § (1) bekezdés a) pontja szerinti egyenleget csökkenti az adózó külföldi telephelyének betudható jövedelem külföldön megfizetett (fizetendő) adóval csökkentett része.
 
 ### IV. Fejezet — EGYES ADÓKRA, SZÁMVITELI KÖTELEZETTSÉGEKRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -443,7 +445,7 @@ együttes összegének a 13 százaléka.
 
 25. § (1) Az egyéni vállalkozó esetében a kisadózó vállalkozások tételes adója szerinti adóalanyiság kezdő napját megelőző napon megszerzett vállalkozói bevételnek kell tekinteni minden olyan, őt egyéni vállalkozói tevékenységére tekintettel megillető ellenértéket, amelyről kiállított bizonylat szerinti teljesítési időpont megelőzi az említett adóalanyiság kezdő napját. A kisadózó vállalkozások tételes adója szerint adóalanyiság időtartamában felmerült, az adóalanyiság választását megelőző időszakra vonatkozó kiadásokat az egyéni vállalkozó oly módon számolhatja el, mintha azok a kisadózó vállalkozások tételes adója szerinti adóalanyiság kezdő napját megelőző napon merültek volna fel.
 
-(2) A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a kisadózó vállalkozások tételes adója szerinti adóalanyiság bejelentése adóévében az Szja tv.-nek az egyéni vállalkozói tevékenység megszüntetésére vonatkozó előírásai szerint megállapítja a meglévő készletekkel kapcsolatos bevételét. E bevételt a továbbiakban mindaddig adóalapot nem érintő bevételként tartja nyilván, amíg adókötelezettségeit a kisadózó vállalkozások tételes adójára vonatkozó rendelkezések szerint teljesíti vagy az Szja tv. szerinti átalányadózást alkalmaz, vagy áttér az egyszerűsített vállalkozói adó hatálya alá.
+(2) A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó a kisadózó vállalkozások tételes adója szerinti adóalanyiság bejelentése adóévében az Szja tv.-nek az egyéni vállalkozói tevékenység megszüntetésére vonatkozó előírásai szerint megállapítja a meglévő készletekkel kapcsolatos bevételét. E bevételt a továbbiakban mindaddig adóalapot nem érintő bevételként tartja nyilván, amíg adókötelezettségeit a kisadózó vállalkozások tételes adójára vonatkozó rendelkezések szerint teljesíti vagy az Szja tv. szerinti átalányadózást alkalmaz.
 
 (2a) Ha a kisadózó vállalkozások tételes adóját alkalmazó egyéni vállalkozó a tevékenységét megszünteti, akkor a bevételét növeli az az összeg, amelyet a kisadózó vállalkozások tételes adója szerinti adóalanyiság bejelentése adóévében a (2) bekezdésben foglaltak szerint megállapított.
 
@@ -481,7 +483,7 @@ együttes összegének a 13 százaléka.
 
 csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött tartalékkal, eredménytartalékból jóváhagyott osztalékfizetési kötelezettséggel, adózott eredmény terhére fizetett (jóváhagyott) osztalékfizetési kötelezettséggel, adózott eredménnyel, amely az adóalany egyszerűsített vállalkozói adó szerinti adóalanyiságának időtartama alatt keletkezett, csökkentve továbbá a mérlegben kimutatott, a társasági adóalanyiság időszakában keletkezett eredménytartaléka terhére felvett osztalékelőleg követelés könyv szerinti értékével, feltéve, hogy az előleget a beszámoló elfogadásakor osztalékként jóváhagyták.
 
-(3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság, az egyéni cég és az ügyvédi iroda adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 15 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában, vagy egyszerűsített vállalkozói adóról szóló bevallásában, vagy kisvállalatiadó-bevallásában elkülönítetten vall be. A bevallott összeget három egyenlő részletben, az üzleti évre vonatkozó társaságiadó-bevallás, egyszerűsített vállalkozói adóról szóló bevallás vagy kisvállalatiadó-bevallás benyújtására előírt határidőig és a bevallás benyújtását követő két adóévre – de legkésőbb a kisadózó vállalkozások tételes adója szerinti adóalanyisága megszűnése adóévére – vonatkozó társaságiadó-bevallás, egyszerűsített vállalkozói adóról szóló bevallás vagy kisvállalatiadó-bevallás Art. szerinti esedékességének időpontjában fizeti meg.
+(3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság, az egyéni cég és az ügyvédi iroda adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 15 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában, vagy kisvállalatiadó-bevallásában elkülönítetten vall be. A bevallott összeget három egyenlő részletben, az üzleti évre vonatkozó társaságiadó-bevallás, vagy kisvállalatiadó-bevallás benyújtására előírt határidőig és a bevallás benyújtását követő két adóévre – de legkésőbb a kisadózó vállalkozások tételes adója szerinti adóalanyisága megszűnése adóévére – vonatkozó társaságiadó-bevallás, vagy kisvállalatiadó-bevallás Art. szerinti esedékességének időpontjában fizeti meg.
 
 (4) A közkereseti társaság, a betéti társaság, az egyéni cég és az ügyvédi iroda, ha olyan immateriális jószágot vagy tárgyi eszközt ad ingyenesen vagy kedvezményesen magánszemély részére, amely eszköz könyv szerinti értéke alapján az osztalék utáni adót kiváltó adó alapját csökkentette, akkor az ezen juttatás könyv szerinti értékének megfelelő jövedelemre – az Szja tv.-nek és az Art.-nak egyes, a kifizetőt terhelő adó mellett adható juttatásokra vonatkozó rendelkezései szerint – a személyi jövedelemadót megállapítja, megfizeti és bevallja.
 

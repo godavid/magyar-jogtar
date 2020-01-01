@@ -35,17 +35,7 @@ kell alkalmazni.
 
 (3) A Ptk. hatálybalépésekor cselekvőképességet általánosan korlátozó gondnokság alatt álló nagykorú személyt a gondnokság alá helyező határozatban a kötelező felülvizsgálatra megállapított időpontban a Ptk. gondnokság alá helyezés kötelező felülvizsgálatára irányuló eljárásának szabályai szerint kell megvizsgálni abból a szempontból, hogy a cselekvőképességét indokolt-e korlátozni, és ha igen, mely ügycsoportokban.
 
-6. § (1) A gyámhatóságnak
-
-- a) 2014-ben az 1982. december 31. előtt,
-- b) 2015-ben az 1983. január 1. és 1994. december 31. között,
-- c) 2016-ban az 1995. január 1. és 2001. december 31. között,
-- d) 2017-ben a 2002. január 1. és 2007. december 31. között,
-- e) 2018-ban a 2008. január 1. és 2014. március 14. között
-
-elrendelt – cselekvőképességet kizáró gondnokság alá helyezésről szóló, felülvizsgálati kötelezettséget nem tartalmazó – határozatok felülvizsgálata iránt kell a bíróságon pert indítania.
-
-(2) A Ptk. hatálybalépése előtt hozott, felülvizsgálati kötelezettséget tartalmazó határozatok esetében a felülvizsgálati eljárást a bírósági határozatban megjelölt időpontban, de legkésőbb a Ptk. hatálybalépésétől számított öt éven belül kell a gyámhatóságnak megindítania.
+6. § A gyámhatóságnak a – cselekvőképességet kizáró gondnokság alá helyezésről szóló, felülvizsgálati kötelezettséget nem tartalmazó – határozatok felülvizsgálata iránt a bíróságon pert kell indítania.
 
 ### (A Ptk. 2:31–2:37. §-ához)
 

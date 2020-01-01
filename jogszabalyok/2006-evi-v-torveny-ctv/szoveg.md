@@ -272,7 +272,7 @@ megismerhetők.
 
 (6) Az eltiltott személyekre vonatkozó adatok ingyenes céginformációként – külön jogszabályban meghatározott módon – keresőprogram segítségével, csoportosított lekérdezés útján ismerhetőek meg.
 
-15. § (1) A céginformációs szolgálat az erre a célra szolgáló honlapján, azonosítást követően, jogszabályban meghatározottak szerint ingyenes céginformációt biztosít. Ingyenes céginformációként ismerhető meg a cég neve, székhelye, cégjegyzékszáma, esetleges európai egyedi azonosítója (a továbbiakban: EUID), főtevékenysége, képviseletére jogosult személyek adatai, továbbá arra vonatkozó adatok, hogy a cég végelszámolás, felszámolás, kényszertörlés alatt áll. A céginformációs szolgálat az azonosítással összefüggésben megismert személyes adatokat egy hónapig kezeli.
+15. § (1) A céginformációs szolgálat a cégjegyzékben szereplő fennálló vagy törölt adatok, valamint a bejegyzési (változásbejegyzési) kérelem elektronikusan rögzített, még be nem jegyzett adatainak a megismerését betekintéssel bárki számára ingyenesen és korlátozásmentesen biztosítja. A céginformációs szolgálat honlapján – a hitelezők védelme érdekében – biztosítja egyes cégjegyzékadatok ingyenesen történő megismerését.
 
 (1a) A céginformációs szolgálat a céget a cég adataiban bekövetkezett változásról a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségére megküldött, közokirati formában kiállított, elektronikus cégbizonyítvánnyal – ingyenesen – értesíti.
 
@@ -1578,7 +1578,7 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 - a) az ingatlanügyi hatóságot a végelszámolás tényének bejegyzése érdekében,
 - b) ha a cég valamely vagyontárgya országos közhiteles vagy közérdekből vezetett nyilvántartásban szerepel, e nyilvántartást vezető szervezetet,
 - c)
-- d) a területileg illetékes állami munkaerő-piaci szervezetet,
+- d)
 - e) a környezetvédelmi és természetvédelmi hatóságot arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, melyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások elhárításához, illetve terhek rendezéséhez szükséges kiadás származhat,
 - f) a cég pénzforgalmi számláit vezető valamennyi pénzforgalmi szolgáltatót,
 - g) a cég vagyoni részvételével működő jogalanyok vezető tisztségviselőit, illetve a cég részvételével működő egyesületeket, alapítványokat,
@@ -2048,6 +2048,8 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 131/L. § A jogi képviselő 2021. január 1-jétől a cégbejegyzésre (változásbejegyzésre) irányuló kérelmet és minden egyéb beadványt az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon, a Pp. rendelkezéseinek megfelelő alkalmazásával is benyújthatja. E határidőig a cégbejegyzési (változásbejegyzési) eljárás során kizárólag a IV. Fejezet 2. cím szerinti elektronikus kapcsolattartás szabályai alkalmazhatóak.
 
+131/M. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel megállapított 1. számú melléklet III. 4. pontját a folyamatban lévő eljárásokban akkor kell alkalmazni, ha az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 35/A. § alapján az átalakulásról, egyesülésről, szétválásról a cég döntéshozó szerve első ízben 2019. október 1-je után döntött.
+
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a Ptk.-val és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) a Szerződés 54. cikke (3) bekezdésének g) pontja alapján a részvénytársaságok szétválásáról szóló, 1982. december 17-i 82/891/EGK tanácsi irányelv;
@@ -2244,7 +2246,7 @@ III. Átalakulás bejegyzéséhez szükséges további okiratok:
 
 3. az átalakulási terv;
 
-4. a vagyonmérleg-tervezetekre és a vagyonleltár-tervezetekre vonatkozó könyvvizsgálói jelentést tartalmazó okirat;
+4. ha a vagyonmérleg-tervezetek és a vagyonleltár-tervezetek könyvvizsgálata kötelező, az ezekre vonatkozó könyvvizsgálói jelentést tartalmazó okirat;
 
 5. az átalakulásra vonatkozó közlemények megjelenését igazoló lappéldányok kivonata;
 

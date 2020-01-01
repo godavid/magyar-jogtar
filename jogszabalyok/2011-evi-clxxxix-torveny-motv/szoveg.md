@@ -44,6 +44,8 @@ Az Országgyűlés tisztelettel adózva hazánk haladó önkormányzati hagyomá
 
 7. § (1) Az Alaptörvény 32. cikk (1) bekezdés j) pontja szerint megkeresett szerv a helyi önkormányzat megkeresésére harminc napon belül érdemben köteles válaszolni.
 
+(1a) Ha az (1) bekezdés szerinti megkeresés címzettje az Országgyűlés, a harmincnapos határidőt nem kell alkalmazni.
+
 (2) Amennyiben a tájékoztatás, a válaszadás vagy az intézkedés nem a megkeresett szerv hatáskörébe tartozik, az köteles a megkeresést nyolc napon belül áttenni a hatáskörrel rendelkező szervhez és erről a megkereső helyi önkormányzatot egyidejűleg tájékoztatni.
 
 8. § (1) A helyi közösség tagjai a helyi önkormányzás alanyaként kötelesek:
@@ -63,7 +65,7 @@ Az Országgyűlés tisztelettel adózva hazánk haladó önkormányzati hagyomá
 
 (2) A helyi önkormányzat – a helyi képviselő-testület vagy a helyi népszavazás döntésével – önként vállalhatja minden olyan helyi közügy önálló megoldását, amelyet jogszabály nem utal más szerv kizárólagos hatáskörébe. Az önként vállalt helyi közügyekben az önkormányzat mindent megtehet, ami jogszabállyal nem ellentétes. Az önként vállalt helyi közügyek megoldása nem veszélyeztetheti a törvény által kötelezően előírt önkormányzati feladat- és hatáskörök ellátását, finanszírozása a saját bevételek, vagy az erre a célra biztosított külön források terhére lehetséges.
 
-(3) A helyi önkormányzat – törvényben meghatározott esetekben – az állammal kötött külön megállapodás alapján elláthat állami feladatokat. A megállapodásban rendelkezni kell a feladatellátás finanszírozásáról.
+(3) A helyi önkormányzat – törvényben meghatározott esetekben – az állammal kötött megállapodás alapján elláthat állami feladatokat. A megállapodásban rendelkezni kell a feladatellátás finanszírozásáról. A megállapodás közigazgatási szerződésnek minősül.
 
 11. § (1) A községnek, a városnak, a járásszékhely városnak, a megyei jogú városnak, a fővárosnak és kerületeinek, valamint a megyei önkormányzatnak egymástól eltérő feladat- és hatáskörei lehetnek.
 
@@ -114,6 +116,8 @@ képes ellátni.
 
 (2) Törvény a helyi közügyek, valamint a helyben biztosítható közfeladatok körében ellátandó más helyi önkormányzati feladatot is megállapíthat.
 
+(3) Az (1) bekezdés 18. pontja szerinti helyi közösségi közlekedési feladatellátás forrása helyi önkormányzatnál a helyi iparűzési adóból származó bevétel, a fővárosi önkormányzat esetében elsőként a külön törvény alapján a fővárosi önkormányzatot osztottan megillető adóbevétel.
+
 14. § (1) A 13. § (1) bekezdésében meghatározott feladatok ellátásának részletes szabályait, ha e törvény másként nem rendelkezik, jogszabályok tartalmazzák.
 
 (2) A 13. § (1) bekezdés 3. pontjában meghatározott közterület, illetve közintézmény nem viselheti
@@ -145,9 +149,9 @@ elnevezés.
 
 16. § (1) Ha az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettség határideje eredménytelenül telt el, vagy a határidőben történő teljesítés elmaradásának reális veszélye fennáll, a Kormány a kötelezettséggel összefüggő beruházás megvalósításáról saját hatáskörben gondoskodhat. A Kormány a beruházás saját hatáskörben történő megvalósításáról egyedi határozatban dönt.
 
-(2) A Kormány határozatának bírósági felülvizsgálatát az érintett önkormányzat képviselő-testülete a Fővárosi Közigazgatási és Munkaügyi Bíróságnál kérheti. A perben felperesként az önkormányzat képviselő-testülete, alperesként a Kormány vesz részt. A Kormányt – ha a Kormány az (1) bekezdésben említett határozatában másként nem rendelkezik – a helyi önkormányzatokért felelős miniszter képviseli. A bíróság a határozat felülvizsgálata során a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének rendelkezéseit – a (3) bekezdésben írt eltérésekkel – alkalmazva, soron kívül jár el.
+(2) A Kormány határozatát az érintett önkormányzat közigazgatási perben megtámadhatja. A Kormányt – ha az (1) bekezdés szerinti határozat másként nem rendelkezik – a helyi önkormányzatokért felelős miniszter képviseli.
 
-(3) A keresetlevelet a Kormányt a (2) bekezdés alapján képviselő miniszternél a felülvizsgálni kért határozatnak a Magyar Közlönyben történő közzétételének napjától számított tizenöt napon belül kell benyújtani. Ha a perben a miniszter által vezetett minisztérium ügyintézője jár el képviselőként, képviseleti jogosultságát – külön meghatalmazás nélkül – munkáltatói igazolványával igazolja. A perben első fokon eljárt közigazgatási szervnek a minisztert kell tekinteni. A bíróság ítélete ellen felülvizsgálatnak és perújításnak helye nincs.
+(3) A keresetlevelet a Kormányt a (2) bekezdés alapján képviselő szervnél, a határozat Magyar Közlönyben történő közzétételének napjától számított tizenöt napon belül kell benyújtani. A bíróság ítélete ellen nincs helye perújításnak.
 
 (4) A helyi önkormányzat köteles a beruházás megvalósításához szükséges, tulajdonát érintő intézkedések tűrésére.
 
@@ -169,7 +173,7 @@ láthatja el külön törvényben szabályozottak szerint.
 
 17. § (1) A települési és a fővárosi önkormányzat a helyi közbiztonságról, vagyonának, más értékének védelméről kényszerítő eszköz alkalmazására törvény alapján jogosult szervezet létrehozásával is gondoskodhat.
 
-(2) Az (1) bekezdésben meghatározott szervezet alaptevékenységét a települési és a fővárosi önkormányzat területe szerint illetékes megyei (fővárosi) rendőr-főkapitánysággal kötött írásbeli együttműködési megállapodás alapján, a rendőrség szakmai felügyeletével végzi.
+(2) Az (1) bekezdésben meghatározott szervezet alaptevékenységét a települési és a fővárosi önkormányzat területe szerint illetékes megyei (fővárosi) rendőr-főkapitánysággal kötött írásbeli együttműködési megállapodás alapján, a rendőrség szakmai felügyeletével végzi. A megállapodás közigazgatási szerződésnek minősül.
 
 (3) Az (1) bekezdésben meghatározott szervezet által végezhető feladatokat, az alkalmazható kényszerítő eszközöket, az együttműködési megállapodásra, valamint a szervezet működésére vonatkozó szabályokat, továbbá az e feladatokat ellátókkal szemben támasztott személyi feltételeket törvény határozza meg.
 
@@ -388,9 +392,9 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 - a) országgyűlési képviselő, valamint aki olyan tisztséget tölt be, olyan feladatot lát el, amelyre kinevezését, megbízatását az Országgyűléstől, köztársasági elnöktől, Kormánytól, Kormány tagjától vagy az Országgyűlés, Kormány alárendeltségébe tartozó szervtől (vezetőjétől) kapta, kivéve
   - aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet lát el, illetve nevelőszülői foglalkoztatási jogviszonyban áll;
-  - ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
+  - ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szakképző intézmény vezetője, foglalkoztatottja vagy a szakképző intézmény tekintetében fenntartói irányítási hatáskört gyakorló szerv vezetője, foglalkoztatottja, felsőoktatási intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
 - b) központi államigazgatási szerv vezetője, köztisztviselője;
-- c) állami tisztviselő, kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
+- c) kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
 - d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, az Országgyűlési Őrség vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja;
 - e) jegyző (főjegyző), aljegyző, továbbá ugyanazon önkormányzat polgármesteri hivatalának vagy közös önkormányzati hivatalának köztisztviselője, alkalmazottja;
 - f) más települési önkormányzatnál képviselő;
@@ -408,13 +412,13 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (3) Az önkormányzati képviselő összeférhetetlenségének megállapítását bárki kezdeményezheti a polgármesternél, melyet az összeférhetetlenséggel kapcsolatos feladatokat ellátó bizottságnak haladéktalanul továbbítani kell kivizsgálásra. Ismételt kezdeményezés esetén, amennyiben az új tényt vagy körülményt nem tartalmaz, az összeférhetetlenséggel kapcsolatos feladatokat ellátó bizottság külön vizsgálat nélkül lezárja az ügyet, ebben az esetben a (2) bekezdés szerinti határozathozatalra sem kerül sor.
 
-(4) Az önkormányzati képviselő az összeférhetetlenségét, a tisztsége megszűnését megállapító képviselő-testületi határozat felülvizsgálatát kérheti – jogszabálysértésre hivatkozással – a határozat kézhezvételétől számított nyolc napon belül a közigazgatási és munkaügyi bíróságtól.
+(4) Az önkormányzati képviselő az összeférhetetlenségét, illetve a tisztsége megszűnését megállapító képviselő-testületi határozatot a határozat közlését követő öt napon belül a közigazgatási ügyben eljáró bíróság előtt támadhatja meg. A keresetlevelet a bíróságnál kell benyújtani.
 
-(5) A bíróság a kérelemről – annak beérkezésétől számított harminc napon belül – a polgári perrendtartásról szóló törvény a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit megfelelően alkalmazva nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság az önkormányzati képviselőt, a keresettel megtámadott határozatot hozó képviselő-testület képviselőjét, a kereset előterjesztőjét meghallgathatja. A bíróság döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
+(5) Ha a képviselő-testület nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő, az önkormányzati képviselő összeférhetetlenségének a kimondását a kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen elteltétől számított öt napon belül kérheti a közigazgatási ügyben eljáró bíróságtól.
 
-(6) A kormányhivatal a közigazgatási és munkaügyi bíróságnál kezdeményezheti az önkormányzati képviselő összeférhetetlenségének a kimondását, ha a képviselő-testület nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A bíróság eljárására az (5) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a bíróság döntése ellen – annak kézhezvételétől számított nyolc napon belül – az érintett önkormányzati képviselő, valamint a kormányhivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a másodfokú bíróság nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A bíróság döntése ellen felülvizsgálatnak helye nincs.
+(6) A bíróság a keresetlevél bírósághoz érkezésétől számított tizenöt napon belül tanácsban határoz, határozata ellen a határozat közlését követő nyolc napon belül van helye fellebbezésnek. A fellebbezésről a bíróság annak a bírósághoz érkezésétől számított tizenöt napon belül határoz. A bíróság döntése ellen nincs helye perújításnak.
 
-(7) Az önkormányzati képviselő tisztsége a képviselő-testület összeférhetetlenséget megállapító határozata – ha az ellen a rendelkezésre álló határidő alatt jogorvoslat iránti kérelemmel nem éltek – meghozatalának napján, jogorvoslati kérelem előterjesztése esetén a jogerős bírósági döntés napján szűnik meg.
+(7) Az önkormányzati képviselő tisztsége az összeférhetetlenséget megállapító határozat meghozatalát követő napon szűnik meg, ha a határozatot bíróság előtt nem támadták meg. Ha az összeférhetetlenséget a bíróság állapította meg, az önkormányzati képviselő tisztsége a bírósági döntés jogerőre emelkedését követő napon szűnik meg.
 
 ### Méltatlanság
 
@@ -710,9 +714,11 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (2) A polgármester e tisztségéről a képviselő-testülethez intézett írásbeli nyilatkozatával mondhat le, amelyet az alpolgármesternek, ennek hiányában a szervezeti és működési szabályzatban a képviselő-testület összehívására, vezetésére kijelölt képviselőnek adja át, részére juttatja el. A polgármester e tisztsége az általa meghatározott, a lemondást követő egy hónapon belüli időpontban, ennek hiányában az írásbeli nyilatkozat átvételének napjával szűnik meg. A lemondás nem vonható vissza. Az írásbeli nyilatkozatot a képviselő-testület következő ülésén ismertetni kell.
 
-70. § (1) A polgármester sorozatos törvénysértő tevékenysége, mulasztása miatt a képviselő-testület – minősített többséggel hozott határozata alapján – keresetet nyújthat be a polgármester ellen a helyi önkormányzat székhelye szerint illetékes közigazgatási és munkaügyi bírósághoz a polgármester tisztségének megszüntetése érdekében. Egyidejűleg kérheti a polgármesternek e tisztségéből történő felfüggesztését is. A döntéshozatalban a polgármester nem vesz részt, de a határozathozatalnál a határozatképesség szempontjából jelenlévőnek kell tekinteni. A bíróság a keresetet soron kívül bírálja el.
+70. § (1) A képviselő-testület – minősített többséggel hozott határozata alapján – közigazgatási pert indíthat a polgármester ellen sorozatos törvénysértő tevékenysége, illetve mulasztása miatti jogi felelősségének megállapítása iránt, a polgármester tisztségének megszűnése érdekében.
 
-(2) A bírósági eljárás során a polgári perrendtartásról szóló törvénynek a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a perben viszontkeresetnek, szünetelésnek és egyezségnek nincs helye.
+(2) A keresetlevelet a bíróságnál kell benyújtani, egyidejűleg – az azonnali jogvédelem szabályai szerint – kérhető a polgármesternek e tisztségéből történő felfüggesztése. A bíróság ítélete ellen fellebbezésnek van helye. Az ügyben nincs helye perújításnak.
+
+(3) A perindítással kapcsolatos határozat meghozatalában a polgármester nem vesz részt, de a határozatképesség szempontjából jelenlévőnek kell tekinteni.
 
 70/A. § A fővárosi kerületi polgármester megbízatása megszűnik, ha fővárosi közgyűlési képviselői megbízatása megszűnik.
 
@@ -848,9 +854,9 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (2a) Ha a kialakítandó közös önkormányzati hivatalhoz tartozó települések közül valamelyik város, a (2) bekezdésben meghatározott összlakosságszámra vonatkozó követelményt nem kell alkalmazni.
 
-(3) Közös önkormányzati hivatal létrehozásáról vagy megszüntetéséről az érintett települési önkormányzatok képviselő-testületei az általános önkormányzati választások napját követő hatvan napon belül állapodnak meg. A megállapodás az általános önkormányzati választásokat követő év január 1-jén lép hatályba.
+(3) Közös önkormányzati hivatal létrehozásáról vagy megszüntetéséről az érintett települési önkormányzatok képviselő-testületei az általános önkormányzati választások napját követő hatvan napon belül közigazgatási szerződésben állapodnak meg. A megállapodás az általános önkormányzati választásokat követő év január 1-jén lép hatályba.
 
-(3a) Ha a (3) bekezdésben meghatározott határidőn belül nem kerül sor a közös önkormányzati hivatal létrehozására vagy ahhoz valamely település nem csatlakozik, akkor a kormányhivatal vezetője a határidő lejártát követő második hónap első napjával döntésével kijelöli a közös önkormányzati hivatalhoz tartozó településeket és egyúttal pótolja a közös önkormányzati hivatalról szóló megállapodást. A kormányhivatal vezetője a kijelölő döntés és az önkormányzati hivatalról szóló megállapodás pótlását megelőzően – legalább tizenöt napos véleményezési határidő biztosítása mellett – kikéri az érintett települési önkormányzatok véleményét a kormányhivatal vezetőjének döntése alapján létrejövő közös önkormányzati hivatalhoz tartozó településekkel és a pótolandó közös önkormányzati hivatalról szóló megállapodás tartalmával összefüggésben. A kormányhivatal vezetője a megállapodás létrehozásáról szóló döntésében az e §-ban foglaltakra figyelemmel rendelkezik a közös önkormányzati hivatal székhelytelepüléséről, a közös önkormányzati hivatal létszámáról és a közös önkormányzati hivatal ügyfélfogadási rendjéről. Ha a döntés eltér a települési önkormányzatok véleményétől, a kormányhivatal vezetője az eltérés okát a döntésének indokolásában külön részletezi. A megállapodás pótlása esetén is teljesülnie kell az (1)–(2a) bekezdésben meghatározott feltételeknek.
+(3a) Ha a (3) bekezdésben meghatározott határidőn belül nem kerül sor a közös önkormányzati hivatal létrehozására vagy ahhoz valamely település nem csatlakozik, akkor a kormányhivatal vezetője a határidő lejártát követően döntésével, az abban megjelölt időponttal – amely nem lehet korábbi a (3) bekezdésben meghatározott időpontnál –, kijelöli a közös önkormányzati hivatalhoz tartozó településeket és egyúttal pótolja a közös önkormányzati hivatalról szóló megállapodást. A kormányhivatal vezetője a kijelölő döntés és az önkormányzati hivatalról szóló megállapodás pótlását megelőzően – legalább tizenöt napos véleményezési határidő biztosítása mellett – kikéri az érintett települési önkormányzatok véleményét a kormányhivatal vezetőjének döntése alapján létrejövő közös önkormányzati hivatalhoz tartozó településekkel és a pótolandó közös önkormányzati hivatalról szóló megállapodás tartalmával összefüggésben. A kormányhivatal vezetője a megállapodás létrehozásáról szóló döntésében az e §-ban foglaltakra figyelemmel rendelkezik a közös önkormányzati hivatal székhelytelepüléséről, a közös önkormányzati hivatal létszámáról és a közös önkormányzati hivatal ügyfélfogadási rendjéről. Ha a döntés eltér a települési önkormányzatok határidőben adott véleményétől, a kormányhivatal vezetője az eltérés okát a döntésének indokolásában külön részletezi. A megállapodás pótlása esetén is teljesülnie kell az (1)–(2a) bekezdésben meghatározott feltételeknek.
 
 (3b) A kormányhivatal vezetőjének (3a) bekezdésben meghatározott döntését az érintett önkormányzat képviselő-testülete közigazgatási perben megtámadhatja.
 
@@ -873,7 +879,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (7) A városi, valamint a kétezer főt meghaladó lakosságszámú települési önkormányzat képviselő-testülete nem tagadhatja meg a közös önkormányzati hivatal létrehozására irányuló megállapodás megkötését, ha azt a vele határos település kezdeményezi.
 
-(7a) A (7) bekezdésben meghatározott megállapodás megkötése a kormányhivatal vezetőjének jóváhagyásával megtagadható. A jóváhagyásról vagy annak megtagadásáról szóló döntés ellen az érintett önkormányzat képviselő-testülete – jogszabálysértésre hivatkozással – a döntés közlésétől számított tizenöt napon belül bírósági felülvizsgálatot kezdeményezhet.
+(7a) A (7) bekezdésben meghatározott megállapodás megkötése a kormányhivatal vezetőjének jóváhagyásával megtagadható. A jóváhagyásról vagy annak megtagadásáról szóló határozatot az érintett önkormányzat a közigazgatási ügyben eljáró bíróság előtt – a döntés közlésétől számított tizenöt napon belül – megtámadhatja.
 
 (8) A közös önkormányzati hivatal létrehozásáról szóló megállapodásban meghatározottak szerint minden érintett településen biztosítani kell az igazgatási munka folyamatos vagy időszakos ellátásához szükséges személyi és tárgyi feltételeket.
 
@@ -883,7 +889,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (11) A közös hivatal működési költségeit a közös hivatalhoz tartozó önkormányzatok – eltérő megállapodásuk hiányában – lakosságszámuk arányában biztosítják.
 
-(12) A (3b) vagy a (7a) bekezdés szerinti bírósági felülvizsgálat iránt indított perekben a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó fejezetének rendelkezéseit az e törvényben foglalt eltéréseknek megfelelően kell alkalmazni, és e perekben a közigazgatási és munkaügyi bíróság jár el.
+(12)
 
 86. § (1) A közös önkormányzati hivatal jegyzője vagy aljegyzője vagy megbízottja köteles a képviselő-testület ülésén részt venni és ott a szükséges tájékoztatást megadni.
 
@@ -922,7 +928,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - c) a törvény erejénél fogva;
 - d) a bíróság jogerős döntése alapján.
 
-92. § A helyi önkormányzatok képviselő-testületei között a társulások működése során felmerülő vitás kérdésekben a közigazgatási és munkaügyi bíróság dönt. A társult önkormányzatok képviselő-testületei megállapodhatnak abban, hogy a vitás kérdésben bármelyik képviselő-testület kérheti a megállapodásban megjelölt önkormányzati érdekszövetség által felkért tagokból álló egyeztető bizottság állásfoglalását, továbbá abban, hogy a kereset benyújtása előtt a képviselő-testület kéri az egyeztető bizottság állásfoglalását.
+92. § A társult önkormányzatok képviselő-testületei megállapodhatnak abban, hogy a vitás kérdésben bármelyik képviselő-testület kérheti a megállapodásban megjelölt önkormányzati érdekszövetség által felkért tagokból álló egyeztető bizottság állásfoglalását, továbbá abban, hogy a közigazgatási per megindítása előtt a képviselő-testület az egyeztető bizottság állásfoglalását kéri.
 
 ### A társulási megállapodás alapvető szabályai
 
@@ -1004,9 +1010,11 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (4) Az előkészítő bizottság javaslatot készít az (1) és (2) bekezdésben írt követelmények és a területszervezési eljárásról szóló kormányrendeletben meghatározott egyéb feltételek teljesítésére.
 
-(5) A miniszter március 31-ig határozatában dönt arról, hogy nem terjeszti elő a kezdeményezést, ha az nem felel meg az (1) és (2) bekezdésben foglalt feltételeknek, vagy a jogszabályban előírt eljárási szabályt nem tartották meg. Az előkészítő bizottság, a képviselő-testület a miniszter határozatának felülvizsgálatát a kézbesítéstől számított harminc napon belül a miniszternek benyújtott kérelemben a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérheti. A miniszter az iratokat a kérelem beérkezésétől számított három napon belül megküldi a bírósághoz.
+(5) A miniszter március 31-ig határozatban dönt arról, hogy nem terjeszti elő a kezdeményezést, ha az nem felel meg az (1) és (2) bekezdésben foglalt feltételeknek, vagy a jogszabályban előírt eljárási szabályt nem tartották meg. A miniszter határozatát az előkészítő bizottság, valamint a képviselő-testület tizenöt napon belül közigazgatási perben megtámadhatja. A miniszter a keresetlevelet annak a bírósághoz érkezésétől számított három napon belül továbbítja az ügy irataival együtt a hatáskörrel és illetékességgel rendelkező bírósághoz.
 
-(6) A bíróság az ügyben a beérkezéstől számított harminc napon belül nemperes eljárásban dönt. Végzésében a kérelmet elutasítja, vagy a miniszter határozatát hatályon kívül helyezi. A végzés ellen fellebbezésnek helye nincs. A miniszter a határozat hatályon kívül helyezése esetén június 30-áig nyújtja be a kezdeményezést a köztársasági elnöknek.
+(5a) A bíróság a keresetlevél beérkezésétől számított harminc napon belül tanácsban határoz, határozata ellen a határozat közlését követő nyolc napon belül van helye fellebbezésnek. A fellebbezésről a bíróság annak a bírósághoz érkezésétől számított harminc napon belül határoz. A bíróság döntése ellen nincs helye perújításnak.
+
+(6) Ha a bíróság a keresetnek helyt ad, a miniszter határozatát megsemmisíti. A miniszter a határozat megsemmisítése esetén a kezdeményezést haladéktalanul a köztársasági elnök elé terjeszti.
 
 (7) A településrész új községgé alakításáról szóló köztársasági elnöki döntés közzétételétől számított harminc napon belül az előkészítő bizottság településrészi önkormányzattá alakul át. A településrészi önkormányzat egyetértése szükséges a településrészt érintő
 
@@ -1014,13 +1022,13 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - b) a bel- és külterületek lehatárolásához;
 - c) önkormányzati vagyonról, vagyoni jogokról és kötelezettségekről szóló döntéshez.
 
-(8) Az önkormányzati vagyon megosztásáról a községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az érintett önkormányzatok állapodnak meg. Megállapodás hiányában az önkormányzati vagyont lakosságarányosan kell megosztani.
+(8) Az önkormányzati vagyon megosztásáról a községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az érintett önkormányzatok közigazgatási szerződésben állapodnak meg. Megállapodás hiányában az önkormányzati vagyont lakosságarányosan kell megosztani.
 
-(9) Az új község területéről a községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az érintett önkormányzatok állapodnak meg. A megállapodásban az új község alakítására vonatkozó népszavazással érintett területtől eltérni nem lehet. Az új község külterülete a belterülethez kapcsolódó, egybefüggő terület. Eltérő megállapodás hiányában a település külterületét a belterületi népességgel arányosan kell megosztani.
+(9) Az új község területéről a községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az érintett önkormányzatok közigazgatási szerződésben állapodnak meg. A megállapodásban az új község alakítására vonatkozó népszavazással érintett területtől eltérni nem lehet. Az új község külterülete a belterülethez kapcsolódó, egybefüggő terület. Eltérő megállapodás hiányában a település külterületét a belterületi népességgel arányosan kell megosztani.
 
-(10) Az új község vagyonára, területére vonatkozó megállapodás hiányában bármelyik érintett önkormányzat keresete alapján a közigazgatási és munkaügyi bíróság dönt.
+(10) Ha az új község vagyonára, területére vonatkozóan az önkormányzatok határidőn belül nem állapodnak meg, bármelyik érintett önkormányzat közigazgatási pert indíthat a szerződés bírósági létrehozása iránt.
 
-(11) A községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az új község önkormányzata a törvényi feltételek keretei között polgármesteri hivatalt hoz létre vagy közös önkormányzati hivatalhoz (a továbbiakban: hivatal) csatlakozik. Eddig az időpontig az új község hivatali feladatait annak a településnek a hivatala látja el, amelyből az új község megalakult. A hivatal költségeinek viseléséről az érintett önkormányzatok állapodnak meg. Ennek hiányában a költségekhez az érintett önkormányzatok a települések lakosságszámának arányában járulnak hozzá.
+(11) A községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az új község önkormányzata a törvényi feltételek keretei között polgármesteri hivatalt hoz létre vagy közös önkormányzati hivatalhoz (a továbbiakban: hivatal) csatlakozik. Eddig az időpontig az új község hivatali feladatait annak a településnek a hivatala látja el, amelyből az új község megalakult. A hivatal költségeinek viseléséről az érintett önkormányzatok közigazgatási szerződésben állapodnak meg. Ennek hiányában a költségekhez az érintett önkormányzatok a települések lakosságszámának arányában járulnak hozzá.
 
 99. § (1) Új község alakítását településegyesítés megszüntetés jogcímén akkor lehet kezdeményezni, ha a településrész egyesítése 1950. január 1-jén vagy azt követően lépett hatályba.
 
@@ -1040,13 +1048,13 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 101. § Az érintett képviselő-testületek megállapodhatnak egymással határos területrész átadásáról, átvételéről vagy cseréjéről (a továbbiakban együtt: területrész átadása).
 
-102. § (1) Az érintett képviselő-testületek a területrész átadását előkészítő bizottság javaslata alapján előzetes megállapodást köthetnek az átadandó területrész területéről és határairól, a vagyon megosztásáról.
+102. § (1) Az érintett képviselő-testületek a területrész átadását előkészítő bizottság javaslata alapján közigazgatási szerződésben előzetesen megállapodhatnak az átadandó területrész területéről és határairól, a vagyon megosztásáról.
 
 (2) A lakott területrész átadásának kezdeményezése esetén az érintett képviselő-testületek együttes ülésen legalább háromtagú, területrész átadását előkészítő bizottságot választanak települési képviselőkből, valamint más választópolgárokból. Az előkészítő bizottság tagjainak több mint felét a lakott területrészen lakó települési képviselők vagy választópolgárok közül kell megválasztani. A bizottság elnökének és tagjainak megválasztásához a képviselő-testületi tagok több mint felének igen szavazata szükséges.
 
 (3) Lakott területrész átadása esetén az ott lakó választópolgárok – helyi népszavazással kinyilvánított – többségi támogatása szükséges a megállapodáshoz.
 
-(4) A képviselő-testületek – az előzetes megállapodásnak megfelelően – a lakott területrész átadásáról, annak részletes feltételeiről a helyi népszavazást követő kilencven napon belül állapodnak meg. Megállapodás hiányában az érintett képviselő-testület keresete alapján a közigazgatási és munkaügyi bíróság – soron kívül – dönt. Döntése a megállapodást pótolja.
+(4) A képviselő-testületek – az előzetes megállapodásnak megfelelően – a lakott területrész átadásáról, annak részletes feltételeiről a helyi népszavazást követő kilencven napon belül állapodnak meg. Ha az előzetes megállapodásban részes önkormányzat a megállapodás megkötését megtagadja, az érintett önkormányzat közigazgatási pert indíthat az előzetes megállapodásban részes önkormányzattal szemben a szerződés bírósági létrehozása iránt. Ha a bíróság az alperest az előzetes megállapodás alapján terhelő szerződéskötési kötelezettséget megállapítja, ítéletével a szerződést az előzetes megállapodás tartalmának megfelelően létrehozza.
 
 (5) Lakott területrész átadása nem tagadható meg, ha a képviselő-testületek előzetes megállapodást kötöttek és az átadással a területrész választópolgárainak többsége helyi népszavazás során egyetértett.
 
@@ -1180,6 +1188,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 111/A. § Ha a helyi önkormányzat a költségvetési évre vonatkozóan nem rendelkezik elfogadott költségvetéssel, nem fogadja el a költségvetési évet megelőző évre vonatkozó zárszámadását, államháztartási beszámolási kötelezettségének vagy vagyon-nyilvántartási kötelezettségének nem tesz eleget, a részére járó egyes támogatások folyósítása az államháztartásról szóló törvényben meghatározottak szerint felfüggesztésre kerül.
 
 112. § (1) A helyi önkormányzat feladataihoz igazodóan választja meg a gazdálkodás formáit, és pénzügyi előírások keretei között önállóan alakítja ki az érdekeltségi szabályokat. A helyi önkormányzat a feladatai ellátásának feltételeit saját bevételeiből, más gazdálkodó szervektől átvett bevételekből, valamint központi költségvetési támogatásból teremti meg.
+
+(1a) A helyi önkormányzatok helyi közösségi közlekedési feladatellátásának forrása a fővárosi önkormányzat esetében elsőként a külön törvény alapján fővárosi önkormányzatot osztottan megillető adóbevétel, más önkormányzatnál pedig a helyi iparűzési adóból származó bevétel. A helyi iparűzési adóbevételből a közösségi közlekedési feladat ellátási összegén felüli bevétel különösen a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására használható fel.
 
 (2) A helyi önkormányzat veszteséges gazdálkodásának következményei a helyi önkormányzatot terhelik, kötelezettségeiért a központi költségvetés nem tartozik felelősséggel.
 
@@ -1336,7 +1346,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - a) törvényességi felhívással élhet;
 - b) kezdeményezheti a képviselő-testület vagy a társulási tanács összehívását, valamint e törvényben meghatározott esetben összehívja a képviselő-testület vagy a társulási tanács ülését;
 - c) javasolhatja a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek, hogy kezdeményezze a Kormánynál annak indítványozását, hogy az Alkotmánybíróság vizsgálja felül az önkormányzati rendelet Alaptörvénnyel való összhangját;
-- d) kezdeményezheti a közigazgatási és munkaügyi bíróságnál az önkormányzat határozatának felülvizsgálatát;
+- d) az önkormányzati határozatot közigazgatási perben megtámadhatja;
 - e) kezdeményezheti a határozathozatali, feladat ellátási kötelezettségét nem teljesítő helyi önkormányzattal szemben bírósági eljárás megindítását, a határozathozatal pótlásának elrendelését;
 - f) javasolhatja a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek, hogy kezdeményezze a Kormánynál az Alaptörvénnyel ellentétesen működő képviselő-testület feloszlatását;
 - g) kezdeményezheti a helyi önkormányzatnak a központi költségvetés terhére nyújtott támogatások felülvizsgálatát a 117. § (1) bekezdés a) pontja szerinti támogatás esetében a kincstárnál, a helyi önkormányzatnak nyújtott költségvetési támogatás esetében a támogatónál;
@@ -1384,34 +1394,21 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (2) Ha a polgármester, illetve a társulási tanács elnöke a kormányhivatal (1) bekezdés szerinti javaslatának, vagy a polgármester a kormányhivatal 44. § szerinti indítványának 15 napon belül nem tesz eleget, a képviselő-testület, illetve a társulási tanács ülését a kormányhivatal hívja össze. Az ülés összehívása során a kormányhivatal eltérhet a helyi önkormányzat, illetve a társulás szervezeti és működési szabályzatában meghatározott szabályoktól.
 
-### Önkormányzati rendelet Alaptörvénybe ütközése esetére alkotmánybírósági felülvizsgálat kezdeményezése, önkormányzati rendelet jogszabállyal való összhangja bírósági felülvizsgálatának kezdeményezése
+### Önkormányzati rendelet Alaptörvénybe ütközése esetére alkotmánybírósági felülvizsgálat kezdeményezése, önkormányzati rendelet más jogszabályba ütközésének vizsgálatára irányuló eljárás kezdeményezése
 
 136. § (1) Ha a kormányhivatal az önkormányzati rendeletet az Alaptörvénnyel ellentétesnek találja, – a törvényességi felügyelet 132. § (1) bekezdés a) és b) pontjában meghatározott eszközeinek eredménytelen alkalmazását követően – az önkormányzati rendelet alkotmánybírósági felülvizsgálatának Kormány általi kezdeményezése iránti javaslatát az Alkotmánybíróságról szóló törvényben meghatározott formai és tartalmi követelményeknek megfelelő indítvány tervezetének megküldésével terjeszti elő a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternél. A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter a javaslat megvizsgálását követően – a feltételek fennállása esetén – kezdeményezi a Kormánynál az önkormányzati rendelet Alaptörvénnyel való összhangja felülvizsgálatának indítványozását. A kormányhivatal az indítvány tervezetét a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek történő megküldésével egyidejűleg megküldi az érintett helyi önkormányzatnak is.
 
-(2) A kormányhivatal kezdeményezheti a Kúriánál az önkormányzati rendelet jogszabállyal való összhangjának felülvizsgálatát. A bírósági eljárás megindításával egyidejűleg az indítványt a kormányhivatal megküldi az érintett helyi önkormányzatnak.
+(2) A kormányhivatal indítványozhatja az önkormányzati rendelet más jogszabályba ütközésének vizsgálatára irányuló eljárást.
 
-(3) Az önkormányzati rendelet felülvizsgálatára irányuló bírósági indítvány tartalmazza:
+(3)
 
-- a) a Kúria által vizsgálandó önkormányzati rendeletet;
-- b) az önkormányzati rendelet jogszabálysértőnek talált rendelkezésének megjelölését;
-- c) azon jogszabályi rendelkezés megjelölését, amelyet az önkormányzati rendelet sért;
-- d) annak okát, hogy a kormányhivatal az adott rendelkezést miért tartja jogszabálysértőnek.
+(4)
 
-(4) Az önkormányzati rendelet felülvizsgálatára vonatkozó bírósági eljárás szabályait és a bírósági döntés jogkövetkezményeit a bíróságok szervezetéről és igazgatásáról szóló törvény tartalmazza.
+### A helyi önkormányzati jogalkotási kötelezettség elmulasztásának megállapításának indítványozása
 
-### A helyi önkormányzati jogalkotási kötelezettség elmulasztásának megállapítása
+137. § (1) A kormányhivatal indítványozhatja a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapítását.
 
-137. § (1) A kormányhivatal a helyi önkormányzat egyidejű tájékoztatása mellett kezdeményezi a Kúriánál a helyi önkormányzat jogalkotási kötelezettsége elmulasztásának megállapítását, ha a helyi önkormányzat törvényen alapuló jogalkotási kötelezettségét elmulasztotta.
-
-(2) A jogalkotási kötelezettség elmulasztásának megállapítására irányuló bírósági indítvány tartalmazza:
-
-- a) azon törvényi rendelkezés megjelölését, amely alapján a helyi önkormányzat jogalkotási kötelezettsége fennáll;
-- b) annak okát, hogy a kormányhivatal miért tartja a jogalkotási kötelezettség elmulasztását megállapíthatónak;
-- c) a jogalkotási kötelezettség elmulasztásával összefüggő, a mulasztás elbírálásához szükséges önkormányzati rendeletet.
-
-(3) Ha a helyi önkormányzat a Kúria által megadott határidőn belül nem tesz eleget jogalkotási kötelezettségének, a kormányhivatal a határidő leteltét követő harminc napon belül kezdeményezi a Kúriánál a mulasztás kormányhivatal által történő orvoslásának az elrendelését.
-
-(4) A helyi önkormányzat jogalkotási kötelezettsége elmulasztásának megállapítására irányuló bírósági eljárás szabályait és a bírósági döntés jogkövetkezményeit a bíróságok szervezetéről és igazgatásáról szóló törvény tartalmazza.
+(2) Ha a helyi önkormányzat határidőn belül nem tesz eleget jogalkotási kötelezettségének, a kormányhivatal a határidő leteltét követő harminc napon belül indítványozhatja önkormányzati rendelet vagy normatív határozat megalkotására való felhatalmazását.
 
 ### A helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége pótlása
 
@@ -1421,31 +1418,18 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (3) A kormányhivatal vezetője által a helyi önkormányzat nevében megalkotott rendelet helyi önkormányzati rendeletnek minősül azzal, hogy annak módosítására és hatályon kívül helyezésére a helyi önkormányzat kizárólag a következő önkormányzati választást követően jogosult, ez idő alatt a módosításra a kormányhivatal vezetője jogosult.
 
-### Az önkormányzati határozat elleni bírósági eljárás kezdeményezési joga
+### Az önkormányzati határozat közigazgatási ügyben eljáró bíróság előtti megtámadása
 
-139. § (1) A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen elteltétől számított tizenöt napon belül kezdeményezheti a közigazgatási és munkaügyi bíróságnál az önkormányzati határozat felülvizsgálatát.
+139. § A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen elteltétől számított tizenöt napon belül támadhatja meg az önkormányzati határozatot a közigazgatási ügyben eljáró bíróság előtt.
 
-(2) A közigazgatási és munkaügyi bíróság a jogszabálysértő önkormányzati határozat végrehajtását felfüggesztheti.
+### Mulasztási per indítása
 
-### Önkormányzati határozathozatali és feladat-ellátási kötelezettség elmulasztása
+140. § (1) A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen leteltétől számított tizenöt napon belül indíthat mulasztási pert a helyi önkormányzat törvényen alapuló
 
-140. § (1) A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen leteltétől számított tizenöt napon belül kezdeményezheti a közigazgatási és munkaügyi bíróságnál a helyi önkormányzat törvényen alapuló:
+- a) határozathozatali kötelezettsége elmulasztásának megállapítására, vagy
+- b) feladat-ellátási (közszolgáltatási) kötelezettsége elmulasztásának megállapítására.
 
-- a) határozathozatali kötelezettsége elmulasztásának megállapítását és a határozat meghozatalára való kötelezést, vagy
-- b) feladat-ellátási (közszolgáltatási) kötelezettsége elmulasztásának megállapítását és a feladat elvégzésére való kötelezést.
-
-(2) A határozathozatali, feladat-ellátási kötelezettség elmulasztásának megállapítására irányuló bírósági indítvány tartalmazza:
-
-- a) azon törvényi rendelkezés megjelölését, amely alapján a helyi önkormányzat határozathozatali, feladat-ellátási kötelezettsége fennáll, és
-- b) annak okát, hogy a kormányhivatal miért tartja a határozathozatali, feladat-ellátási kötelezettség elmulasztását megállapíthatónak.
-
-(3) A kormányhivatal kezdeményezésére a közigazgatási és munkaügyi bíróság megállapítja a határozathozatali kötelezettség elmulasztását és határidő tűzésével kötelezi az önkormányzatot a határozat meghozatalára.
-
-(4) A kormányhivatal kezdeményezésére a közigazgatási és munkaügyi bíróság megállapítja a mulasztást és határidő tűzésével kötelezi a helyi önkormányzatot, hogy biztosítsa a feladat-ellátást (közszolgáltatást).
-
-(5) Ha a helyi önkormányzat a közigazgatási és munkaügyi bíróság által megadott határidőn belül nem tesz eleget határozathozatali kötelezettségének, a kormányhivatal a határidő leteltét követő harminc napon belül kezdeményezheti a közigazgatási és munkaügyi bíróságnál a mulasztás kormányhivatal által történő pótlásának az elrendelését az önkormányzat költségére.
-
-(6)
+(2) A bíróság mulasztási ítélete teljesítésének elmaradása esetén – a határozathozatal vagy a feladat-ellátás (közszolgáltatás) pótlása érdekében – a kormányhivatal hatvan napon belül a teljesítés kikényszerítése iránti eljárást indíthat.
 
 ### Törvényességi felügyeleti bírság megállapítása
 
@@ -1453,7 +1437,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 - a) ha a jegyző a kormányhivatal felhívása ellenére a megadott határidőn belül nem tesz eleget a jegyzőkönyv megküldési kötelezettségének;
 - b) ha az érintett határidőben nem tesz eleget a kormányhivatal információkérésre irányuló megkeresésének;
-- c) ha bíróság megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
+- c)
 - d) ha a kormányhivatal kezdeményezése alapján a képviselő-testület nem folytatja le határidőben a polgármester, valamint a polgármester a jegyző ellen a fegyelmi eljárást;
 - e) ha az érintett ugyanazon jogszabályi kötelezettségét ismételten megsérti, azonban az ismételten megsértett jogszabályi kötelezettség súlya nem indokolja más törvényességi felügyeleti eszköz alkalmazását.
 
@@ -1474,19 +1458,11 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - c) az indokolásban a döntést megalapozó tényeket;
 - d) a záró részben a kiadmányozást.
 
-(6) A kormányhivatal törvényességi felügyeleti bírságot megállapító határozatának bírósági felülvizsgálatát jogszabálysértésre hivatkozással a helyi önkormányzat vagy a társulás kérheti az illetékes közigazgatási és munkaügyi bíróságtól a döntés közlésétől számított tizenöt napon belül.
+(6) A kormányhivatal törvényességi felügyeleti bírságot megállapító határozatát a helyi önkormányzat vagy a társulás a döntés közlésétől számított tizenöt napon belül közigazgatási perben megtámadhatja.
 
-(7) A közigazgatási és munkaügyi bíróság a kormányhivatalt a törvényességi felügyeleti bírsággal összefüggésben új eljárás lefolytatására nem kötelezheti.
+(7) A bíróság a kormányhivatalt a törvényességi felügyeleti bírsággal összefüggésben új eljárás lefolytatására nem kötelezheti.
 
-### A bírósági eljárás kezdeményezésének közös szabályai
-
-142. § (1) A 132. § (1) bekezdés h) pontja esetében a kormányhivatal által kezdeményezett bírósági eljárásra a 70. § rendelkezéseit megfelelően kell alkalmazni.
-
-(2) A 139–140. § szerinti jogszabálysértések megszüntetésére irányuló pert a helyi önkormányzat vagy a polgármester ellen lehet megindítani.
-
-(3) A kormányhivatalnak a helyi önkormányzattal szemben törvényességi felügyeleti bírságot megállapító határozata ellen a pert a kormányhivatal ellen kell megindítani.
-
-(4) Az önkormányzati határozat bírósági felülvizsgálata, az önkormányzat határozathozatali és feladat-ellátási kötelezettsége elmulasztásának megállapítása iránt, valamint a kormányhivatal törvényességi felügyeleti bírságot megállapító határozatának bírósági felülvizsgálata iránt indított perekben a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó fejezetének rendelkezéseit az e törvényben foglalt eltéréseknek megfelelően kell alkalmazni, e perekben a közigazgatási és munkaügyi bíróság jár el.
+#### 142. §
 
 ### VIII. Fejezet — AZ ÖNKORMÁNYZATI HATÓSÁGI ÜGY
 

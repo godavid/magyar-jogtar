@@ -16,7 +16,7 @@ a következő törvényt alkotja:
 
 3. § (1) E törvény alkalmazásában
 
-- a) foglalkoztatási jogviszony: a munkaviszony, a közszolgálati jogviszony, a közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, a bírósági szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonya, az ügyészségi szolgálati jogviszony, a hivatásos és szerződéses szolgálati jogviszony, a nevelőszülői foglalkoztatási jogviszony, a kölcsönbeadó és a kölcsönzött munkavállaló között a munka törvénykönyvéről szóló törvény szerinti munkaerő-kölcsönzés alapján fennálló jogviszony,
+- a) foglalkoztatási jogviszony: a munkaviszony, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, a bírósági szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonya, az ügyészségi szolgálati jogviszony, a hivatásos és szerződéses szolgálati jogviszony, a nevelőszülői foglalkoztatási jogviszony, a kölcsönbeadó és a kölcsönzött munkavállaló között a munka törvénykönyvéről szóló törvény szerinti munkaerő-kölcsönzés alapján fennálló jogviszony,
 - b) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, a munkavégzésre irányuló vállalkozási és megbízási szerződés alapján létrejött jogviszony, a szakcsoporti tagsági viszony, valamint a szövetkezeti tagsági viszonynak, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei,
 - c) állami támogatás: az államháztartás alrendszereinek költségvetése terhére ingyenes vagy kedvezményes források, illetve egyéb előny bármilyen formában történő nyújtása oly módon, hogy ez állami bevételkiesést vagy állami kiadást jelent, ideértve az állami kezességvállalást is, valamint az Európai Unióból, nemzetközi szervezetektől és más államokból származó források, adományok és segélyek, amennyiben azok a központi költségvetésen keresztül kerülnek folyósításra,
 - d) közszolgáltatás: szerződéskötési kötelezettség alapján a lakosság alapvető szükségleteinek ellátására irányuló szolgáltatás, így különösen a villamosenergia-, gáz-, hő-, víz-, szennyvíz- és hulladékkezelési, köztisztasági, postai és távközlési szolgáltatás, továbbá a menetrend alapján közlekedő járművekkel végzett közforgalmú személyszállítás,
@@ -38,7 +38,7 @@ a következő törvényt alkotja:
 - d) a Magyar Honvédség és a rendvédelmi szervek,
 - e) a közalapítványok, a köztestületek, valamint munkavállalók és munkáltatók érdekképviseleti szervezetei
 - f) a közszolgáltatást végző szervezetek,
-- g) a közoktatási és a felsőoktatási intézmények (a továbbiakban együtt: oktatási intézmény),
+- g) a köznevelési intézmények, a szakképző intézmények és a felsőoktatási intézmények (a továbbiakban együtt: oktatási intézmény),
 - h) a szociális, gyermekvédelmi gondoskodást, valamint gyermekjóléti szolgáltatást nyújtó személyek és intézmények,
 - i) a muzeális intézmények, a könyvtárak, a közművelődési intézmények,
 - j) az önkéntes kölcsönös biztosítópénztárak, a magánnyugdíjpénztárak,
@@ -426,7 +426,7 @@ során.
 
 (2) Nem sérti az egyenlő bánásmód követelményét, ha
 
-- a) közoktatási intézményben a szülők kezdeményezésére és önkéntes választása szerint,
+- a) köznevelési intézményben, illetve szakképző intézményben a szülők kezdeményezésére és önkéntes választása szerint,
 - b) felsőoktatási intézményben a hallgatók önkéntes részvétele alapján
 
 olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerveznek, amelynek célja vagy tanrendje indokolja elkülönült osztályok vagy csoportok alakítását; feltéve, hogy emiatt az oktatásban résztvevőket semmilyen hátrány nem éri, továbbá ha az oktatás megfelel az állam által jóváhagyott, államilag előírt, illetve államilag támogatott követelményeknek.
@@ -462,7 +462,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 
 31. § (1) A község, a város és a főváros kerületeinek önkormányzata (a továbbiakban: települési önkormányzat) ötévente öt évre szóló helyi esélyegyenlőségi programot fogad el.
 
-(2) A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok – különös tekintettel a nők, a mélyszegénységben élők, romák, a fogyatékkal élő személyek, valamint a gyermekek és idősek csoportjára – oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve a helyzetelemzésen alapuló intézkedési tervben meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A helyzetelemzés és az intézkedési terv elfogadása során figyelembe kell venni a települési kisebbségi önkormányzatok véleményét. A helyi esélyegyenlőségi programot a társadalmi felzárkózásért felelős miniszter által meghatározott részletes szabályok alapján kell elkészíteni. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a települési önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a közoktatási esélyegyenlőségi terv és az integrált településfejlesztési stratégia anti-szegregációs célkitűzéseinek összhangjáról.
+(2) A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok – különös tekintettel a nők, a mélyszegénységben élők, romák, a fogyatékkal élő személyek, valamint a gyermekek és idősek csoportjára – oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve a helyzetelemzésen alapuló intézkedési tervben meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A helyzetelemzés és az intézkedési terv elfogadása során figyelembe kell venni a települési kisebbségi önkormányzatok véleményét. A helyi esélyegyenlőségi programot a társadalmi felzárkózásért felelős miniszter által meghatározott részletes szabályok alapján kell elkészíteni. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a települési önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a köznevelési esélyegyenlőségi terv, illetve a szakképzési esélyegyenlőségi terv és az integrált településfejlesztési stratégia anti-szegregációs célkitűzéseinek összhangjáról.
 
 (3) A helyi esélyegyenlőségi program elkészítése során kiemelt figyelmet kell fordítani
 
@@ -557,7 +557,9 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 
 (6) A hatóság elnöke által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
 
-38. § (1) A hatóság elnöke miniszteri illetményre és juttatásokra jogosult, azzal, hogy a vezetői illetménypótlék mértéke a miniszteri vezetői illetménypótlék másfélszerese.
+38. § (1) A hatóság elnöke a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetmény felső határának megfelelő illetményre jogosult.
+
+(1a) A hatóság elnöke az (1) bekezdésben meghatározott illetményen túl miniszteri juttatásra jogosult.
 
 (2) A hatóság elnökét naptári évenként negyven munkanap szabadság illeti meg.
 
@@ -603,7 +605,9 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 
 42. § Az elnökhelyettes vagyonnyilatkozat-tételi kötelezettségére és a vagyonnyilatkozatával kapcsolatos eljárásra a 37. § rendelkezéseit kell alkalmazni azzal, hogy a vagyonnyilatkozatával kapcsolatos eljárás során a miniszterelnök helyett a hatóság elnöke jár el, és az ellenőrzés eredményéről nem kell tájékoztatni a köztársasági elnököt.
 
-43. § (1) A hatóság elnökhelyettese államtitkári illetményre és juttatásokra jogosult.
+43. § (1) A hatóság elnökhelyettese a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult.
+
+(1a) A hatóság elnökhelyettese az (1) bekezdésben meghatározott illetményen túl államtitkári juttatásra jogosult.
 
 (2) A hatóság elnökhelyettesét naptári évenként negyven munkanap szabadság illeti meg.
 

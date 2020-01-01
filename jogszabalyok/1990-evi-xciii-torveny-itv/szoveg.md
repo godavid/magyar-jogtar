@@ -83,7 +83,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - s) a tőkepiacról szóló 2001. évi CXX. törvény szerinti Befektető-védelmi Alap,
 - t) a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény szerinti Kárrendezési Alap.
 
-(2) Az (1) bekezdés c)–g) és m) pontokban említett szervezetet az illetékmentesség csak abban az esetben illeti meg, ha a vagyonszerzést, illetőleg az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége, illetve – költségvetési szerv esetében – eredménye után a központi költségvetésbe befizetési kötelezettsége nem keletkezett.
+(2) Az (1) bekezdés c)–g) és m) pontban említett szervezetet az illetékmentesség csak abban az esetben illeti meg, ha a vagyonszerzést, illetve az eljárás megindítását megelőző adóévben folytatott vállalkozási tevékenységéből származó jövedelme után társasági adófizetési kötelezettsége, külföldi illetőségű szervezet esetén a társasági adónak megfelelő közteherfizetési kötelezettsége, illetve – költségvetési szerv esetében – eredménye után a központi költségvetésbe befizetési kötelezettsége nem keletkezett.
 
 (3) A szervezet (alapítvány) közigazgatási hatósági vagy bírósági eljárás kezdeményezése, illetve gépjármű, pótkocsi szerzése esetén nyilatkozik az illetékmentesség (2) bekezdésben meghatározott feltételének fennállásáról, egyéb vagyonszerzés esetén a feltétel teljesülését az állami adóhatóság hivatalból ellenőrzi.
 
@@ -299,13 +299,13 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 (2) Ha a kedvezményben részesülő vagyonszerző az (1) bekezdés szerinti 3 éves időtartam letelte előtt a kisvállalkozás működtetését a gazdasági tevékenységgel együtt járó üzleti kockázaton túlmutató elháríthatatlan külső ok hiányában megszünteti, vagy a kedvezményes illetékfizetés mellett megszerzett vagyoni betétje arányát csökkenti, az általa igénybe vett illetékalap-kedvezmény alapján élvezett illetékteher-csökkenés összegének kétszeresét köteles pótlólag megfizetni.
 
-### A bizalmi vagyonkezelés keretében történő vagyonszerzés illetékkötelezettsége
+### A bizalmi vagyonkezelés keretében történő és a vagyonkezelő alapítvány vagyonkezelésével összefüggő vagyonszerzés illetékkötelezettsége
 
-17/D. § (1) Nem tárgya az ajándékozási illetéknek az állami adóhatósághoz bizalmi vagyonkezelőként bejelentett személynek, szervezetnek (a továbbiakban: vagyonkezelő) a Polgári Törvénykönyv szerinti bizalmi vagyonkezelési szerződés (a továbbiakban e § alkalmazásában: szerződés) alapján történő vagyonszerzése – ideértve a vagyonkezelői tisztségben való jogutódlás formájában történő vagyonszerzést is –, kivéve a vagyonkezelő kedvezményezettként történő vagyonszerzését.
+17/D. § (1) Nem tárgya az ajándékozási illetéknek az állami adóhatósághoz bizalmi vagyonkezelőként bejelentett személynek, szervezetnek (a továbbiakban: bizalmi vagyonkezelő), továbbá a vagyonkezelő alapítványnak (a továbbiakban együtt: vagyonkezelő) a Polgári Törvénykönyv szerinti bizalmi vagyonkezelési szerződés (a továbbiakban ezen alcím alkalmazásában: szerződés), továbbá a vagyonkezelő alapítványokról szóló törvényben meghatározott alapítói vagyonrendelés (a továbbiakban: alapítói vagyonrendelés) keretében történő vagyonszerzése – ideértve a vagyonkezelői tisztségben való jogutódlás formájában megvalósuló vagyonszerzést is –, kivéve a bizalmi vagyonkezelő kedvezményezettként történő vagyonszerzését.
 
-(2) A kezelt vagyon és annak hasznai kedvezményezett általi megszerzését az illetékkötelezettség vonatkozásában úgy kell tekinteni, mintha a kedvezményezett a kezelt vagyont és annak hasznait közvetlenül a vagyonrendelőtől szerezte volna. Ha a szerződést a vagyonrendelő és a kedvezményezett között, a szerződés megkötését megelőzően létrejött visszterhes jogviszonyra tekintettel kötötték, a kezelt vagyon és annak hasznai megszerzésekor a kedvezményezett e törvény visszterhes vagyonátruházási illetékre vonatkozó szabályai szerint köteles fizetni visszterhes vagyonátruházási illetéket.
+(2) A kezelt vagyon és annak hasznai kedvezményezett általi megszerzését az illetékkötelezettség vonatkozásában úgy kell tekinteni, mintha a kedvezményezett a kezelt vagyont és annak hasznait közvetlenül a vagyonrendelőtől, alapítótól szerezte volna. Ha a szerződés, alapítói vagyonrendelés a szerződéskötést, alapítói vagyonrendelést megelőzően a vagyonrendelő és a kedvezményezett vagy az alapító és a kedvezményezett között létrejött visszterhes jogviszonyra tekintettel valósult meg, a kezelt vagyon és annak hasznai megszerzésekor a kedvezményezett e törvény visszterhes vagyonátruházási illetékre vonatkozó szabályai szerint köteles fizetni visszterhes vagyonátruházási illetéket.
 
-(3) Nem tárgya az ajándékozási illetéknek a kezelt vagyon és annak hasznai vagyonrendelő általi megszerzése, ideértve a vagyonrendelő kedvezményezettként történő vagyonszerzését is.
+(3) Nem tárgya az ajándékozási illetéknek a kezelt vagyon és annak hasznai vagyonrendelő, alapító általi megszerzése, ideértve a vagyonrendelő, alapító kedvezményezettként történő vagyonszerzését is.
 
 (4) A kedvezményezett illetékkötelezettsége a vagyon tényleges megszerzése napján keletkezik.
 
@@ -753,7 +753,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 - 34. a pénzügyi közvetítőrendszer felügyeletét ellátó szerv fogyasztóvédelmi eljárása;
 - 35. a fogyasztóvédelmi hatóság első fokú fogyasztóvédelmi eljárása;
 - 36. az európai területi társulásban történő részvétel jóváhagyására irányuló eljárás;
-- 37. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás;
+- 37. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, köznevelési, szakképző, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás;
 - 38. az egészségügyben működő szakmai kamarai tagsági viszony első létesítésére irányuló eljárás;
 - 39. a hadkötelezettséggel és a honvédelmi kötelezettségekkel kapcsolatos államigazgatási eljárás, valamint az azokkal kapcsolatos hatósági igazolás céljára kiállított közokirat;
 - 40. a megváltozott munkaképességű személyek ellátásai megállapítására irányuló eljárás;
@@ -777,7 +777,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 - 58. jelnyelvi tolmács névjegyzékbe vételével kapcsolatos eljárás;
 - 59. a közérdekű önkéntes tevékenységről szóló törvény alapján a fogadó szervek bejelentésére és nyilvántartásba vételére irányuló eljárás, a nyilvántartásba vett adatok változásának bejelentésére irányuló eljárás és a közérdekű önkénteseket foglalkoztató szervezetek nyilvántartásából való törlésére irányuló eljárás;
 - 60. a lakáscélú állami támogatás igénylésével kapcsolatos hatósági eljárások;
-- 61.
+- 61. a köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerinti özvegyi ellátással kapcsolatos eljárás;
 - 62. hatósági bizonyítvány kiállítása az egyéni vállalkozók nyilvántartásában szereplő adatokról;
 - 63. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 27/A. § (1) bekezdése és 27/D. § (1) bekezdése szerinti nyilatkozat megtételével kapcsolatos eljárás;
 - 64. Magyarország területén kívül élő magyar állampolgár kérelemre történő személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartásba vételére irányuló eljárás;
@@ -825,7 +825,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 ### A polgári eljárás illetékének alapja
 
-39. § (1) A polgári peres és nemperes eljárásban az illeték alapja — ha törvény másként nem rendelkezik — az eljárás tárgyának az eljárás megindításakor fennálló értéke, jogorvoslati eljárásban pedig a vitássá tett követelés vagy követelésrész értéke.
+39. § (1) Az illeték alapja a polgári peres eljárásban a per tárgyának, polgári nemperes eljárásban az eljárás tárgyának az eljárás megindításakor fennálló értéke (a továbbiakban együtt: az eljárás tárgyának értéke) a jogorvoslati eljárásban pedig a vitássá tett követelés vagy követelésrész értéke.
 
 (2) Azon perek és igények esetén, amelyek tekintetében a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) a per tárgyának az értékét meghatározza, az illeték számításának alapja az ott meghatározott érték.
 
@@ -855,7 +855,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 - a) peres eljárásban 6%, de legalább 15 000 forint, legfeljebb 1 500 000 forint;
 - b) bírósági meghagyás elleni ellentmondás esetén 3%, de legalább 5000 forint, legfeljebb 750 000 forint;
 - c) egyezségi kísérletre idézés iránti kérelem esetén 1%, de legalább 3000 forint, legfeljebb 15 000 forint;
-- d) a végrehajtási eljárásban 1%, de legalább 5000 forint, legfeljebb 350 000 forint, ha a végrehajtás foganatosítása a törvényszéki végrehajtó feladatkörébe tartozik, 3%, de legalább 8000 forint, legfeljebb 750 000 forint;
+- d) a végrehajtási eljárásban 1%, de legalább 5000 forint, legfeljebb 350 000 forint;
 - e) a határozat jogerőre emelkedése után a részletekben való teljesítés vagy ennek módosítása, vagy részletfizetés engedélyezése iránt kezdeményezett eljárásban 1%, de legalább 5000 forint, legfeljebb 15 000 forint;
 - f) a kiszabott pénzbírság megfizetésére halasztás vagy részletfizetés engedélyezése iránt kezdeményezett eljárásban 1%, de legalább 5000 forint, legfeljebb 18 000 forint;
 - g) egyéb nemperes eljárásokban – a közigazgatási nemperes eljárás kivételével – az eljárás tárgya értékének 3%-a, de legalább 5000 forint, legfeljebb 250 000 forint.
@@ -897,7 +897,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 ### A csőd- és felszámolási eljárás illetéke
 
-44. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 3. § (1) bekezdés a) pontjában meghatározott és jogi személyiséggel rendelkező gazdálkodó szervezetek felszámolási eljárásának illetéke 80 000 forint, csődeljárásának illetéke 50 000 forint, jogi személyiséggel nem rendelkező gazdálkodó szervezet esetében pedig a felszámolási eljárás illetéke 30 000 forint, a csődeljárás illetéke 30 000 forint.
+44. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csődtv.) 3. § (1) bekezdés a) pontjában meghatározott és jogi személyiséggel rendelkező gazdálkodó szervezetek felszámolási eljárásának illetéke 80 000 forint, csődeljárásának illetéke 50 000 forint, jogi személyiséggel nem rendelkező gazdálkodó szervezet esetében pedig a felszámolási eljárás illetéke 30 000 forint, a csődeljárás illetéke 30 000 forint.
 
 (2) A fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet (a továbbiakban: 2015/848 EU rendelet) III. fejezete alapján Magyarországon indított másodlagos fizetésképtelenségi eljárások kezdeményezésének illetéke, valamint a 2015/848 EU rendelet alapján belföldi bíróság előtt kezdeményezett egyéb polgári nemperes eljárások illetéke 50 000 forint.
 
@@ -933,7 +933,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (3) Az egyszerűsített eljárással történő cégbejegyzési kérelem illetéke zártkörűen működő részvénytársaság esetén 50 000 Ft, azzal, hogy amennyiben az egyszerűsített cégbejegyzésre irányuló kérelem benyújtása után megállapítást nyer, hogy a kérelmező az egyszerűsített bejegyzés igénybevételére nem jogosult, a cégbíróság felhívást bocsát ki az illeték (1) bekezdés szerinti összegre történő kiegészítésére.
 
-(3a) A jogutód nélkül megszűnt gazdálkodó szervezet vagyontárgyára vonatkozóan jognak vagy ténynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 83/A. §-a, 83/C. §-a szerinti törlésére irányuló bírósági nemperes eljárás illetéke 10 000 forint.
+(3a) A jogutód nélkül megszűnt gazdálkodó szervezet vagyontárgyára vonatkozóan jognak vagy ténynek a Csődtv. 83/A. §-a, 83/C. §-a szerinti törlésére irányuló bírósági nemperes eljárás illetéke 10 000 forint.
 
 (3b) Az e §-ban nem említett egyéb cégbírósági eljárás illetéke 15 000 Ft.
 
@@ -1059,7 +1059,7 @@ esetében.
 
 57. § (1) Illetékmentes a polgári és közigazgatási ügyekben:
 
-- a) az eljárás, ha a bíróság az eljárást (ideértve a fellebbezési és a felülvizsgálati eljárást is) megindító beadványt – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélkül – visszautasítja, vagy az eljárást a Pp. 259. §-ában foglalt okokból, illetve az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt vagy azért szünteti meg, mert az eljárást megindító beadvány visszautasításának lett volna helye, továbbá az ezen eljárásban hozott döntés elleni fellebbezés és felülvizsgálat;
+- a) az eljárás, ha a bíróság az eljárást (ideértve a fellebbezési és a felülvizsgálati eljárást is) megindító beadványt – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélkül – visszautasítja, vagy az eljárást a Pp. 259. §-ában foglalt okokból megszünteti, vagy a Csődtv. 29. § (3) bekezdése alapján hivatalból megszünteti, illetve az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt vagy azért szünteti meg, mert az eljárást megindító beadvány visszautasításának lett volna helye, továbbá az ezen eljárásban hozott döntés elleni fellebbezés és felülvizsgálat;
 - b) a költségkedvezmény tárgyában hozott határozat elleni jogorvoslati eljárás;
 - c) a bontóperben a házasság vonatkozásában indított viszontkereset;
 - d) a holtnak nyilvánítással és a halál tényének megállapításával kapcsolatos eljárás, ha az eltűnés vagy a halál háborús esemény vagy természeti katasztrófa folytán következett be;
@@ -1170,7 +1170,7 @@ esetében.
 - s) a választási bizottság határozatának felülvizsgálatára irányuló nemperes eljárásban,
 - t) a bűncselekménnyel vagy szabálysértéssel okozott kár megfizetésére kötelező végrehajtási eljárásban;
 - u) a hallgatói hitelből eredő követelés érvényesítése és behajtása iránti peres és nemperes eljárásban;
-- v) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33/A., 40., 63. és 63/A. §-a alapján a hitelezők által indított perekben.
+- v) a Csődtv. 33/A., 40., 63. és 63/A. §-a alapján a hitelezők által indított perekben.
 
 (2)
 
@@ -1492,7 +1492,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 naptári évének utolsó napjától számított 5 év elteltével évül el.
 
-### Késedelmi pótlék
+### Jogkövetkezmények
 
 87. § (1) A fizetési meghagyásban (határozatban), az illeték-különbözetről kibocsátott, valamint a bíróság határozata alapján az állami adóhatóság által kiadott fizetési felhívásban megállapított határidőig meg nem fizetett illeték után az adózás rendjéről szóló törvény rendelkezései szerint kell késedelmi pótlékot fizetni.
 
@@ -1505,6 +1505,13 @@ naptári évének utolsó napjától számított 5 év elteltével évül el.
 (4)
 
 (5) Ha a 26. § (1) bekezdés r) pontjában meghatározott feltételek valamelyike nem teljesül, vagy a vagyonszerző –, illetve a sportcélú ingatlan létesítésre e törvény alapján köteles jogutódja – a sportcélú ingatlan létesítésére biztosított határidőn belül kéri a megszerzett telek vagy annak egy része tekintetében az illeték felfüggesztésének megszüntetését, a megállapított, de meg nem fizetett illetéket az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben kell megfizetni.
+
+(6) Ha a vagyonszerző a 102. § (1) bekezdés v) pontja szerinti vállalása ellenére az alapítás évét követő második év végéig nem igazolja, hogy
+
+- a) újonnan létrejött belföldi alapítványként az alapítás évét követő második év végéig az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil törvény) szerinti közhasznú jogállást szerzett vagy
+- b) újonnan létrejött, más EGT-államban nyilvántartásba vett alapítványként az alapítás évét követő második év végéig teljesítette a Civil törvény szerinti közhasznú szervezetté történő minősítés – magyarországi nyilvántartásba vételen kívüli – feltételeit,
+
+az 5. § (1) bekezdése f) pontja alapján igénybe vett mentességre tekintettel meg nem fizetett illetéket az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben köteles az állami adóhatóság felhívására megfizetni. Az alapítvány megszűnése esetén e fizetési kötelezettség az alapítót vagy annak jogutódját terheli.
 
 ### Az illeték biztosítása, behajtása, fizetési kedvezmények
 
@@ -1672,6 +1679,10 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 99/S. § A babaváró támogatás igénylésével, valamint a nagycsaládosok személygépkocsi-szerzési támogatásával kapcsolatos eljárások illetékmentességének megteremtése érdekében az illetékekről szóló 1990. évi XCIII. törvény módosításáról szóló 2019. évi LXII. törvénnyel megállapított 33. § (2) bekezdés 74. és 75. pontját a 2019. július 1-jén vagy azt követően benyújtott kérelmek alapján indult ügyekben is alkalmazni kell. Ha az ügyfél igazolja, hogy az eljárási illetéket a babaváró támogatás igénylésével, valamint a nagycsaládosok személygépkocsi-szerzési támogatásával kapcsolatos eljárással összefüggésben fizette meg, akkor a megfizetett illetéket kérelmére az állami adóhatóság visszatéríti.
 
+99/T. § Az a vagyonszerző, amely a 102. § (1) bekezdés 2019. december 31-én hatályos v) pontja értelmében alapítványnak minősül, 2022. december 31-ig jogosult az 5. § (1) bekezdés f) pontja szerinti feltételes személyes illetékmentesség igénybevételére, ha vállalja, hogy 2023. január 15-ig igazolja, hogy a Civil törvény szerinti közhasznú jogállást szerzett. Ha a vagyonszerző e vállalását nem teljesíti, az 5. § (1) bekezdés f) pontja szerinti feltételes személyes mentességre tekintettel meg nem fizetett illetéket az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben köteles az állami adóhatóság felhívására megfizetni. A vagyonszerző megszűnése esetén e fizetési kötelezettség az alapítót vagy annak jogutódját terheli.
+
+99/U. § Az 57. § (1) bekezdés a) pontjának a törvényszéki végrehajtással összefüggő egyes törvények módosításáról szóló 2019. évi LXXXI. törvénnyel (a továbbiakban: Mód1tv.) megállapított rendelkezését azokban a Mód1tv. hatálybalépése napján folyamatban lévő felszámolási eljárásokban is alkalmazni kell, amelyekben a bíróság az eljárást a Mód1tv. hatálybalépését követően szüntette meg.
+
 ### Felhatalmazás
 
 100. § (1) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendelettel állapítsa meg
@@ -1722,8 +1733,9 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 - r) természeti katasztrófa: az ár- és belvíz, a földcsuszamlás, valamint a földrengés;
 - s) lakóépület: kizárólag vagy túlnyomó részben lakást tartalmazó épület;
 - sz) kisvállalkozás: az az egyéni cég, illetve gazdasági társaság, amelynél az éves összes foglalkoztatott létszám az 50 főt nem éri el és éves nettó árbevétele legfeljebb 700 millió forint. Az éves foglalkoztatottak létszámát az egyes foglalkoztatottak munkaviszonyának kezdetétől annak megszűnéséig eltelt naptári napok összegezésével, majd az így kapott összeg 365-tel történő elosztásával, tört hányados esetén lefelé kerekítve kell meghatározni;
-- t) vállalkozói vagyon: minden olyan üzleti célt szolgáló ingatlan (termőföld, telek, épület, egyéb építmény), ingó vagyon (műszaki berendezés, gép, jármű, üzemi és üzleti felszerelés, egyéb berendezés), továbbá az ilyen vagyonra vonatkozó haszonélvezeti jog, amelyet a kisvállalkozó kizárólag a vállalkozói tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősül vállalkozói vagyonnak a személygépkocsi, a lakástulajdon (tulajdoni hányad), valamint az ezekre vonatkozó vagyoni értékű jog.
-- v) alapítvány (közalapítvány): magánszemély, jogi személy által tartós közérdekű célra alapított, az alapítvány székhelye szerint illetékes törvényszék által nyilvántartásba vett szervezet;
+- t) vállalkozói vagyon: minden olyan üzleti célt szolgáló ingatlan (termőföld, telek, épület, egyéb építmény), ingó vagyon (műszaki berendezés, gép, jármű, üzemi és üzleti felszerelés, egyéb berendezés), továbbá az ilyen vagyonra vonatkozó haszonélvezeti jog, amelyet a kisvállalkozó kizárólag a vállalkozói tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják. Nem minősül vállalkozói vagyonnak a személygépkocsi, a lakástulajdon (tulajdoni hányad), valamint az ezekre vonatkozó vagyoni értékű jog;
+- u) vagyonkezelő alapítvány: a vagyonkezelő alapítványokról szóló törvény szerinti vagyonkezelő alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a vagyonkezelő alapítványokról szóló törvény által előírt, a vagyonkezelő alapítványok alapítására és működésére vonatkozó feltételeket;
+- v) alapítvány: a Civil törvény szerinti közhasznú jogállású alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a Civil törvény szerinti közhasznú szervezetté történő minősítés feltételeit, ide nem értve a magyarországi nyilvántartásba vételt; valamint az alapítás évében és az azt követő két évben az az újonnan létrejött alapítvány, amely vállalja, hogy az alapítás évét követő második év végéig e feltételeknek eleget tesz;
 - w) közigazgatási hatósági eljárás: az az eljárás, amelynek intézése során a hatóság döntésével az ügyfél jogát vagy kötelezettségét megállapítja, jogvitáját eldönti, jogsértését megállapítja, tényt, állapotot, adatot igazol vagy nyilvántartást vezet, illetve az ezeket érintő döntését érvényesíti, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentés;
 - z) cég: a cégnyilvánosságról, a bírósági eljárásról és a végelszámolásról szóló 2006. évi V. törvény 2. §-ában meghatározott jogalany.
 

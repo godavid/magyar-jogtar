@@ -5442,7 +5442,7 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 411. § (1) Aki
 
-- a) olyan ügyletet köt, megbízást ad, visszavon vagy módosít, saját számlás kereskedés során ajánlatot rögzít, visszavon vagy módosít, amely az adott pénzügyi eszköz vagy kapcsolódó azonnali árutőzsdei ügylet keresleti vagy kínálati viszonyairól, árfolyamáról vagy áráról hamis vagy félrevezető jelzéseket ad, azt mesterséges vagy rendellenes szinten rögzíti,
+- a) olyan ügyletet köt, megbízást ad, visszavon vagy módosít, saját számlás kereskedés során olyan ajánlatot rögzít, visszavon vagy módosít, vagy más olyan magatartást tanúsít, amely az adott pénzügyi eszköz vagy kapcsolódó azonnali árutőzsdei ügylet keresleti vagy kínálati viszonyairól, árfolyamáról vagy áráról hamis vagy félrevezető jelzéseket ad, azt mesterséges vagy rendellenes szinten rögzíti,
 - b) pénzügyi eszközre vonatkozó színlelt ügylet kötésével vagy más megtévesztő magatartással a pénzügyi eszköz vagy kapcsolódó azonnali árutőzsdei ügylet árfolyamát vagy árát befolyásolni törekszik,
 - c) a referenciaérték kiszámítását hamis vagy félrevezető információ közlésével vagy továbbításával, vagy megtévesztő módszer alkalmazásával befolyásolni törekszik,
 
@@ -6058,7 +6058,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - f) az egészségügyi dolgozó és az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló más személy az egészségügyről szóló törvényben meghatározott esetekben,
   - g) az állami mentőszolgálat, valamint a mentésre feljogosított más szervezet tagja a mentéssel és betegszállítással összefüggésben,
   - h) az önkormányzati és a létesítményi tűzoltóság, valamint az önkéntes tűzoltó egyesület tagja a tűzoltási és műszaki mentési feladatainak ellátása során,
-  - i) a nemzeti köznevelésről szóló törvényben meghatározott esetben a pedagógus, valamint a nevelő és oktató munkát közvetlenül segítő alkalmazott, továbbá a nemzeti felsőoktatásról szóló törvényben meghatározott esetben a felsőoktatási intézmény oktatója, tanára és tudományos kutatója,
+  - i) a nemzeti köznevelésről szóló törvényben meghatározott esetben a pedagógus, valamint a nevelő és oktató munkát közvetlenül segítő alkalmazott, a szakképzésről szóló törvényben meghatározott esetben az oktató, továbbá a nemzeti felsőoktatásról szóló törvényben meghatározott esetben a felsőoktatási intézmény oktatója, tanára és tudományos kutatója,
   - j) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben, valamint a szociális igazgatásról és a szociális ellátásokról szóló törvényben meghatározott munkakörben foglalkoztatott személy e tevékenységének gyakorlása során,
   - k) az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet tagja az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott tevékenysége körében,
   - l) a hivatásos vadász a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben meghatározott tevékenysége körében,
