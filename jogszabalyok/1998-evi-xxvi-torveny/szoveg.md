@@ -183,7 +183,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
   - bb) halláskárosodása mellett a hangzó beszéd érthető ejtése elmarad (hallási fogyatékos),
 - c) értelmi akadályozottsága genetikai, illetőleg magzati károsodás vagy szülési trauma következtében, továbbá tizennegyedik életévét megelőzően bekövetkező súlyos betegség miatt középsúlyos vagy annál nagyobb mértékű (értelmi fogyatékos),
 - d) állapota a személyiség egészét érintő fejlődés átható zavara miatt, az autonómia-tesztek alapján súlyosnak vagy középsúlyosnak minősíthető,
-- e) a mozgásrendszer károsodása, illetőleg funkciózavara miatt helyváltoztatása a külön jogszabályban meghatározott segédeszköz állandó és szükségszerű használatát igényli, vagy a külön jogszabály szerinti mozgásszervi betegsége miatt állapota segédeszközzel eredményesen nem befolyásolható (mozgásszervi fogyatékos),
+- e) helyváltoztatása a jogszabályban meghatározott segédeszköz állandó és szükségszerű használatát igényli, vagy a jogszabály szerinti mozgáskorlátozottsága miatt állapota segédeszközzel eredményesen nem befolyásolható (mozgásában fogyatékos),
 - f) az a)–e) és h) pontban meghatározott súlyos fogyatékosságok közül legalább két fogyatékossága van (halmozottan fogyatékos),
 - g) hallásvesztesége olyan mértékű, hogy a beszédnek hallás útján történő megértésére segédeszközzel sem képes és az a), c)–e) és h) pontok valamelyikében megjelölt egyéb fogyatékossága is van (halmozottan fogyatékos),
 - h) állapota kromoszóma-rendellenesség miatt súlyosnak vagy középsúlyosnak minősíthető,
@@ -297,6 +297,8 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 (1a) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés e) pontja szerinti adatkör tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A nyilvántartást vezető szerv a nyilvántartásból adatot törvény alapján adatkezelésre jogosult szervnek – a felhasználás céljának és jogalapjának egyidejű megjelölésével – jogszabályban meghatározott módon szolgáltathat.
+
+(2a) A nyilvántartást vezető szerv a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § u) pontjában és 30. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 (3) A nyilvántartásból a fogyatékossági támogatásra való jogosultság megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat.
 

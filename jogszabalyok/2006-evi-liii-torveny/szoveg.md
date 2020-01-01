@@ -42,6 +42,8 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 (4) A (3) bekezdés szerinti esetben a telekalakítást legkésőbb a használatbavételi engedélyezési vagy tudomásulvételi eljárás megindulásáig az ingatlan-nyilvántartásban át kell vezetni.
 
+(5) Közlekedési infrastruktúra-beruházás megvalósítása során az építtető kérelmére a hatóság köteles lefolytatni azt az Étv. szerinti, valamint a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárást és környezeti hatásvizsgálati engedélyezési, valamint a már kiadott engedély módosítására irányuló eljárást is, ha az adott tevékenységre vonatkozóan jogszabály már nem ír elő engedélyt. Ilyen esetben az engedélyezésre vonatkozó korábbi – a hatályvesztésüket megelőző napon hatályos – jogszabályi rendelkezéseket kell alkalmazni.
+
 ### A kiemelt jelentőségű ügy koordinációja
 
 2/A. § (1) A Kormány a kiemelt jelentőségű ügyben rendeletével jelölheti ki a koordinációs feladatokat ellátó kormánymegbízottat.
@@ -70,7 +72,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 (5) Az ügyintézési határidő
 
-- a) a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő,
+- a) a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő, környezeti hatásvizsgálati eljárás esetén hatvan nap,
 - b) az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárások esetén az ott meghatározott határidő,
 - c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósági engedélyezési eljárások esetén harminc nap,
 - d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap,
@@ -162,13 +164,20 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 - a) az építési engedélyezés és a vízjogi létesítési engedélyezés iránti kérelem nem utasítható el,
 - b) a megindult építési engedélyezési eljárás és a vízjogi létesítési engedélyezési eljárás nem szüntethető meg, továbbá
-- c) az építési engedélyezési eljárás és a vízjogi létesítési engedélyezési eljárás nem függeszthető fel arra tekintettel, hogy az építési vagy a vízjogi létesítési engedély alapját képező környezetvédelmi engedélyezés iránti eljárás vagy a környezetvédelmi engedéllyel szemben bírósági felülvizsgálat van folyamatban.
+- c) az építési engedélyezési eljárás és a vízjogi létesítési engedélyezési eljárás nem függeszthető fel
 
-(2) Az építési engedélyben és a vízjogi létesítési engedélyben – ha azt a környezetvédelmi engedély kiadását megelőzően adták ki – az engedélyező hatóság rendelkezik arról, hogy az a környezetvédelmi engedélyről szóló határozat kiadását követően válik hatályossá, amennyiben a környezetvédelmi engedély tartalmával nem ellentétes. A határozat hatályossá válását az engedélyező hatóság végzésben állapítja meg. Ha az építési engedély vagy a vízjogi létesítési engedély nem felel meg a környezetvédelmi engedélyben foglaltaknak, akkor az eljáró hatóság a határozatát módosítja vagy visszavonja.
+arra tekintettel, hogy a környezetvédelmi engedéllyel szemben közigazgatási per van folyamatban.
+
+(2) A közlekedési infrastruktúra-beruházás során
+
+- a) az építési engedélyezés és a vízjogi létesítési engedélyezés iránti kérelem nem utasítható el,
+- b) a megindult építési engedélyezési eljárás és a vízjogi létesítési engedélyezési eljárás nem szüntethető meg
+
+arra tekintettel, hogy az építési vagy a vízjogi létesítési engedély alapját képező környezetvédelmi engedélyezés iránti eljárás van folyamatban. Az építési engedélyezési eljárást és a vízjogi létesítési engedélyezési eljárást a határozathozatal előtt a környezetvédelmi engedély kiadását követő nyolcadik napig a hatóság felfüggeszti.
 
 (3) A környezetvédelmi engedély kiadását követően kiadott építési engedélyben és vízjogi létesítési engedélyben rendelkezni kell arról, hogy a határozat
 
-- a) a környezetvédelmi engedély bírósági felülvizsgálata tárgyában hozott ítélettel szemben nyitva álló felülvizsgálati határidő elteltével, vagy
+- a) a környezetvédelmi engedély elleni közigazgatási perben hozott ítélettel szemben nyitva álló felülvizsgálati határidő elteltével, vagy
 - b) a jogerős ítélettel szemben benyújtott bírósági felülvizsgálati eljárás lezárultával
 
 válik hatályossá.
@@ -268,9 +277,9 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (8) A (3)–(4) bekezdés szerinti tilalom, illetve használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően végleges döntéssel engedélyezett építési munkákra.
 
-(9) A (3)–(4) bekezdés szerinti tilalommal, illetve használati korlátozással bekövetkező akadályoztatás (az ingatlannak közút céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás (rendelkezésre tartás) időtartamára, jellegére, az akadályoztatást megelőző használathoz képest megállapítható mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan közút céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
+(9) A (3) és (4) bekezdés szerinti használati korlátozással bekövetkező akadályoztatás (az ingatlannak közút céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás időtartamára, jellegére, az akadályoztatást megelőző, tulajdonos (haszonélvező) általi tényleges használat mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan közút céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
 
-(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére fővárosi és megyei kormányhivatal állapítja meg. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni.
+(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére a fővárosi vagy a megyei kormányhivatal állapítja meg. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni. Amennyiben az ingatlan megvásárlására, kisajátítására az egyszeri kártalanítás megállapítását és kifizetését követően sor kerül, úgy a vételár, kártalanítási összeg meghatározása során az ingatlan – (3) bekezdés szerinti tilalom és (4) bekezdés szerinti használati korlátozás figyelmen kívül hagyásával megállapított – forgalmi értékéből az egyszeri kártalanítás összegét le kell vonni.
 
 6/M. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán az építtető az előkészítés fázisában köteles az egységes elektronikus közműnyilvántartás adatszolgáltatását igénybe venni, a kiváltásra vagy kiépítésre kerülő közművek terveit elkészíttetni.
 
@@ -404,7 +413,7 @@ cél megvalósítására irányuló beruházást.
 
 (3) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. A kártalanítás a felek megállapodásának tárgya. Ha a felek között – a kártalanítási igényt támasztó kérelmének benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kisajátítási kártalanítás szabályai szerinti kártalanítási eljárás lefolytatásának van helye.
 
-(4) A kártalanítás tárgyában hozott közigazgatási határozat bírósági felülvizsgálatára az Étv. 30. § (8) bekezdésében foglaltakat kell alkalmazni.
+(4) A kártalanítás tárgyában hozott közigazgatási határozat elleni közigazgatási perre az Étv. 30. § (8) bekezdésében foglaltakat kell alkalmazni.
 
 11/D. § (1) A Kormány a 11/B. § (1) bekezdése szerinti követelmények meghatározásával együtt rendeletben határozhatja meg
 
@@ -448,7 +457,7 @@ vagy mellőzésére vonatkozó szabályokat.
 
 ### Záró rendelkezések
 
-12. § (1) E törvény a kihirdetését követő negyvenötödik napon lép hatályba, rendelkezéseit – a (2) bekezdés kivételével – a hatálybalépését követően indult közigazgatási hatósági eljárásokban és ezen eljárásokban hozott határozatok bírósági felülvizsgálata során kell alkalmazni. A (2) bekezdést a folyamatban lévő ügyekben is alkalmazni kell.
+12. § (1) E törvény a kihirdetését követő negyvenötödik napon lép hatályba, rendelkezéseit – a (2) bekezdés kivételével – a hatálybalépését követően indult közigazgatási hatósági eljárásokban és ezen eljárásokban hozott határozatok elleni közigazgatási perekben kell alkalmazni. A (2) bekezdést a folyamatban lévő ügyekben is alkalmazni kell.
 
 (2)
 

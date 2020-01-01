@@ -16,7 +16,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 - a) az önkéntes véradásra,
 - b) az önkéntes, illetve létesítményi tűzoltóként végzett tevékenységre,
 - c) a polgári természetőrként végzett tevékenységre,
-- d) a nemzeti köznevelésről szóló törvény szerinti közösségi szolgálatra.
+- d) közösségi szolgálatra.
 
 (3) E törvény nem érinti a 3. § (1) bekezdésén kívüli személynél, szervezetnél, illetve tevékenységi körben más vagy mások javára, ellenszolgáltatás nélkül végzett önkéntes tevékenységet.
 
@@ -51,16 +51,17 @@ közérdekű önkéntes tevékenységre terjed ki.
 - c) a költségvetési szerv az alaptevékenysége körében;
 - d) a magyarországi székhelyű civil szervezet, közhasznú szervezet a közhasznú és a működésével összefüggő tevékenysége körében;
 - e) a magyarországi székhelyű egyházi jogi személy vagy vallási egyesület a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
-- f) a jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a közszolgáltatásait igénybevevőknek nyújtott többletszolgáltatások körében a magyarországi székhelyű, illetve magyar hatóság által kiadott működési engedéllyel rendelkező, jogképes
+- f) a jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a közszolgáltatásait igénybe vevőknek nyújtott többletszolgáltatások körében a magyarországi székhelyű, illetve magyar hatóság által kiadott működési engedéllyel rendelkező, jogképes
   - fa) szociális, gyermekjóléti, gyermekvédelmi szolgáltató, intézmény vagy hálózat,
   - fb) egészségügyi szolgáltató,
   - fc) köznevelési intézmény,
-  - fd) felsőoktatási intézmény,
-  - fe) muzeális intézmény,
-  - ff) nyilvános könyvtár,
-  - fg) közlevéltár,
-  - fh) nyilvános magánlevéltár,
-  - fi) közművelődési intézmény [az fa)–fi) alpontokban foglaltak a továbbiakban együtt: fogadó intézmény];
+  - fd) szakképző intézmény,
+  - fe) felsőoktatási intézmény,
+  - ff) muzeális intézmény,
+  - fg) nyilvános könyvtár,
+  - fh) közlevéltár,
+  - fi) nyilvános magánlevéltár,
+  - fj) közművelődési intézmény [az fa)–fj) alpont a továbbiakban együtt: fogadó intézmény];
 - g) a nem jogképes fogadó intézmény fenntartója a fogadó intézmény jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a fogadó intézmény közszolgáltatásait igénybevevőknek nyújtott többletszolgáltatások körében.
 
 (2) Építésiengedély-köteles munkában való részvételre önkéntes az (1) bekezdés a)–e) pontja szerint foglalkoztatható.

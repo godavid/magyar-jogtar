@@ -46,7 +46,7 @@ a Tbj. 5. §-a szerinti biztosított volt;
 
 (3) Az (1) bekezdés a) pontja szerinti biztosítási időbe be kell számítani
 
-- a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, álláskeresési támogatás folyósításának az idejét,
+- a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, az örökbefogadói díj, gyermekgondozási díj, álláskeresési támogatás folyósításának az idejét,
 - b) a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai és a kivételes rokkantsági ellátás kivételével a megváltozott munkaképességű személyek ellátása folyósításának idejét.
 - c) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a Tbj. 34. §-a szerint kötött megállapodás alapján szerzett szolgálati időt, amennyiben a megállapodást 2011. december 31-éig megkötötték,
 - d) a gyermekek otthongondozási díja és az ápolási díj folyósításának idejét.
@@ -85,11 +85,11 @@ a Tbj. 5. §-a szerinti biztosított volt;
 - a) a rehabilitáció sikeres megvalósulása érdekében szükséges szolgáltatásokra (a továbbiakban: rehabilitációs szolgáltatás), valamint
 - b) pénzbeli ellátásra (a továbbiakban: rehabilitációs pénzbeli ellátás) jogosult.
 
-(2) A rehabilitációs ellátásban részesülő személy a rehabilitációs hatósággal történő együttműködésre köteles, amelynek keretében teljesíti a rehabilitációs tervben foglalt kötelezettségeket.
+(2) A rehabilitációs ellátásban részesülő személy a rehabilitációs hatósággal történő együttműködésre köteles.
 
 (3) A (2) bekezdés szerinti együttműködési kötelezettség keretében a rehabilitációs ellátásban részesülő személy köteles
 
-- a) a rehabilitációs hatóságnál a rehabilitációs tervben meghatározott időpontban megjelenni,
+- a) a rehabilitációs hatóságnál meghatározott időpontban megjelenni,
 - b) értesítési kötelezettségét teljesíteni,
 - c) aktívan munkahelyet keresni,
 - d) a felajánlott
@@ -105,7 +105,7 @@ a Tbj. 5. §-a szerinti biztosított volt;
 
 (3) A rehabilitációs ellátásban részesülő személy keresőtevékenység folytatása esetén a keresőtevékenység időtartama alatt bekövetkezett keresőképtelenségére (a továbbiakban: keresőképtelenség) tekintettel – a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben (a továbbiakban: Ebtv.) meghatározottak szerint – táppénzre vagy baleseti táppénzre jogosult.
 
-(4) Ha rehabilitációs ellátásban részesülő a 6. § (2) és (3) bekezdésében meghatározott együttműködési vagy a rehabilitációs tervben foglalt kötelezettségét neki felróható okból nem teljesíti, a rehabilitációs pénzbeli ellátás folyósítását a kötelezettségszegésről való tudomásszerzés hónapját követő második hónap első napjától 3 hónap időtartamra – de legfeljebb a rehabilitációs ellátás megszűnéséig hátralevő időtartamra – fel kell függeszteni.
+(4) Ha a rehabilitációs ellátásban részesülő a 6. § (2) és (3) bekezdésében meghatározott együttműködési kötelezettségét neki felróható okból nem teljesíti, a rehabilitációs pénzbeli ellátás folyósítását a kötelezettségszegésről való tudomásszerzés hónapját követő második hónap első napjától 3 hónap időtartamra – de legfeljebb a rehabilitációs ellátás megszűnéséig hátralevő időtartamra – fel kell függeszteni.
 
 (4a) A folyósítás felfüggesztésének időtartama a rehabilitációs ellátásra való jogosultság időtartamába beleszámít.
 
@@ -154,7 +154,7 @@ megszűnik.
 - c) más rendszeres pénzellátásban részesül, ide nem értve a keresőképtelenségre tekintettel folyósított táppénzt, baleseti táppénzt, valamint az Ebtv. 42/C. § (1) bekezdés b) pontjában foglaltakra tekintettel megállapított gyermekgondozási díjat,
 - d) egészségi állapotában olyan tartós rosszabbodás következett be, amely a rehabilitációt lehetetlenné teszi,
 - e) egészségi állapotában olyan tartós javulás következett be, amely alapján már nem minősül megváltozott munkaképességű személynek,
-- f) az együttműködési, értesítési vagy a rehabilitációs tervben foglalt kötelezettségét neki felróható okból ismételten nem teljesíti,
+- f) az együttműködési, értesítési kötelezettségét neki felróható okból ismételten nem teljesíti,
 - g) a felülvizsgálat során neki felróható okból nem működik együtt, vagy
 - h) foglalkoztatására a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában került sor.
 
@@ -323,7 +323,9 @@ tart.
 - a) a felülvizsgálatra az ellátás megállapításáról szóló vagy a felülvizsgálati eljárás során hozott döntésben meghatározott időpontban, vagy
 - b) a felülvizsgálati eljárás megindításának időpontjában
 
-az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam az 5 évet nem haladja meg.
+az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam a 10 évet nem haladja meg.
+
+(1b) Rokkantsági ellátásban részesülő személy esetén az (1) bekezdés a) pontja szerinti felülvizsgálatot nem kell elvégezni, ha a 3. § (2) bekezdés b) pont bd) alpontja alapján a megváltozott munkaképességű személy rehabilitációja nem javasolt, mert egészségkárosodása jelentős és önellátásra nem vagy csak segítséggel képes.
 
 (2) Amennyiben a felülvizsgálat során a rehabilitációs hatóság megállapítja, hogy a 3. § (2) bekezdése szerinti minősítési kategória eltér a felülvizsgálatot megelőzően megállapított minősítési kategóriától (a továbbiakban: állapotváltozás), akkor a megváltozott munkaképességű személyek ellátását az új minősítési kategória figyelembevételével – ha a bíróság által elrendelt megismételt eljárás esetén az ítélet másként nem rendelkezik – az erről szóló döntést követő naptól állapítja meg. A megállapított ellátás összege az állapotjavulás kivételével nem lehet kevesebb a felülvizsgálatot megelőző hónapra járó ellátás összegénél. Ha a megállapított ellátás összege csökken, azt a döntést követő második hónap első napjától kell a csökkentett összegben folyósítani.
 
@@ -524,6 +526,8 @@ a megváltozott munkaképességű személyek ellátásait folyósító szerv hiv
 (3) Ha a honvédelmi egészségkárosodási járadékra vagy honvédelmi egészségkárosodási keresetkiegészítésre jogosult az (1) bekezdés a) vagy b) pontjában meghatározott ellátásra jogosult vagy jogosulttá válik, vagy az ott meghatározott körülmények valamelyike bekövetkezik, akkor ezen tényekről a megváltozott munkaképességű személyek ellátásait folyósító szerv hivatalból 15 napon belül tájékoztatja a honvédelmi egészségkárosodási járadékot vagy honvédelmi egészségkárosodási keresetkiegészítést folyósító szervet.
 
 (4) Az ellátást folyósító szerv a honvédelmi egészségkárosodási járadékot vagy honvédelmi egészségkárosodási keresetkiegészítést megállapító szerv tájékoztatása alapján szerez tudomást arról, hogy kinek a részére állapítottak meg honvédelmi egészségkárosodási járadékot vagy honvédelmi egészségkárosodási keresetkiegészítést, továbbá arról, ha ezen ellátások megszűntek.
+
+21/E. § A rehabilitációs hatóság a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § d) és u) pontja és 30. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 #### 7. A rehabilitációs hozzájárulás és a megváltozott munkaképességű személyek foglalkoztatásának támogatása
 

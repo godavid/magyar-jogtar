@@ -134,7 +134,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 14. § Az ingatlan-nyilvántartás az ingatlan következő adatait tartalmazza:
 
-- a) a település nevét, az ingatlan fekvését (belterület, külterület megjelölése), a KCR-ből automatikus adatátvétel útján átvett címadatokat a helyrajzi számát és területnagyságát,
+- a) a település nevét, az ingatlan fekvését (belterület, külterület megjelölése), a KCR-ből automatikus adatátvétel útján átvett, valamint – közterület ingatlan esetén – az ingatlanügyi hatóság által átvezetett címadatokat, a helyrajzi számát és területnagyságát,
 - b) művelési ágát és a művelés alól kivett terület elnevezését,
 - c) minőségi osztályát, kataszteri tisztajövedelmét,
 - d) ingatlan-nyilvántartási szempontból szükséges egyéb adatát.
@@ -373,7 +373,7 @@ azon változásokat, amelyeket eljárása során észlel.
 - a) a változás egy földrészleten belül nem éri el a 400 m2-t,
 - b) egy földrészlet egész területe más művelési ágra változik,
 - c) egy vagy több alrészlet területe teljes egészében azonos művelési ágra változik és így a földrészlet egy művelési ágba kerül,
-- d) ha egy alrészlet egész területe más művelési ágra változik, kivéve, ha az alrészlet új művelési ága megegyezik valamely szomszédos alrészlet művelési ágával.
+- d) egy alrészlet egész területe más művelési ágra változik.
 
 (3) A 27. § (2) bekezdésében meghatározott változásokat az ingatlanügyi hatóság bejelentés és a bejelentés során csatolt, az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajz alapján vezeti át. A nyilvántartott adatoknak a tényleges állapottal való egyezőségét az ingatlanügyi hatóság ellenőrizheti.
 
@@ -465,13 +465,13 @@ alapján kerülhet sor.
 
 (2) Ha az okiratot a nyilatkozattevő helyett meghatalmazott írta alá, illetve látta el kézjegyével, csatolni kell a meghatalmazást is, amelyet a bejegyzés alapjául szolgáló okiratra előírt alakszerűségek szerint kell kiállítani. Ha a felet a közjegyzői okirat elkészítésénél meghatalmazott képviseli, az ingatlan-nyilvántartási eljárásban azt a magánokiratban foglalt meghatalmazást is el kell fogadni, amelyben a fél aláírását közjegyző vagy magyar külképviseleti szerv hitelesítette.
 
-(3) Írásra vagy olvasásra képtelen személy jognyilatkozatán alapuló bejegyzéshez, a nyilatkozat közokiratba foglalása szükséges, amelyben e körülményre utalni kell.
+(3) Írásra vagy olvasásra képtelen személy jognyilatkozata alapján a jogügylet akkor kerülhet bejegyzésre, ha a jognyilatkozat megfelel a 32. § (3) bekezdésében, valamint a Ptk. 6:7. § (4) bekezdésében előírt feltételeknek.
 
 34. § (1) A bejegyzés alapjául szolgáló végleges hatósági és jogerős bírósági határozat tartalmára e törvény 32. § (1) bekezdésében foglaltak az irányadók azzal az eltéréssel, hogy a határozatnak és a bejegyzésre irányuló megkeresésnek – az érdekelt lakcímén túl – vagy az érdekelt természetes személyazonosító adatait vagy az érdekelt családi nevét, utónevét és személyi azonosítóját kell tartalmaznia, továbbá a felek megállapodását a hatóság rendelkezése pótolja. Ez utóbbi rendelkezés bíróság által okiratba foglalt jognyilatkozatra nem vonatkozik.
 
 (2) Az állami szervek által vezetett, jogszabály által rendszeresített nyilvántartásokból készített kivonatnak csak a bejegyzéshez szükséges adatokat kell tartalmaznia.
 
-(3) A közokirat alakiságát a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) határozza meg.
+(3) A közokirat alakiságát a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) határozza meg.
 
 34/A. § Ha a társasházakról szóló törvényben szabályozott társasházi közösköltség-tartozás, illetve a lakásszövetkezetekről szóló törvényben szabályozott költséghátralék biztosítékául szolgáló jelzálogjog bejegyzése iránti eljárásban benyújtott okirat nem tartalmazza a személyi azonosítót, akkor azt az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartást vezető szerv megkeresése útján, hivatalból pótolja.
 
@@ -663,7 +663,7 @@ kell csatolnia.
 
 (4) Az elsőfokú határozattal szemben benyújtott fellebbezés folytán eljáró ingatlanügyi hatóság a másodfokú eljárást – a fellebbező kérelmére – a fellebbezéssel érintett jog bejegyzése, tény feljegyzése, vagy adatváltozás átvezetése alapjául szolgáló végleges döntés (a továbbiakban: bejegyzést megalapozó döntés) bírósági felülvizsgálatára irányuló eljárás lezárultáig felfüggeszti, kivéve ha jogszabály a bejegyzést megalapozó döntés elleni jogorvoslat halasztó hatályát a végrehajtás tekintetében kizárja.
 
-(5) A hatósági határozat felülvizsgálata iránti per megindításának igazolására és annak elmulasztására a (3) bekezdésben foglaltak értelemszerűen irányadók azzal, hogy annak megtörténte a keresetlevélnek az ingatlan-nyilvántartási eljárás alapjául szolgáló határozatot hozó hatóság által iktatott példányával, vagy annak hiteles másolatával is igazolható.
+(5) A hatósági határozat elleni közigazgatási per megindításának igazolására és annak elmulasztására a (3) bekezdésben foglaltak értelemszerűen irányadók azzal, hogy annak megtörténte a keresetlevélnek az ingatlan-nyilvántartási eljárás alapjául szolgáló határozatot hozó hatóság által iktatott példányával, vagy annak hiteles másolatával is igazolható.
 
 (6) Az eljárás felfüggesztéséről szóló végzés ellen felügyeleti eljárásnak nincs helye.
 
@@ -895,7 +895,7 @@ tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem v�
 
 (4) Ha a felügyeleti szerv az elsőfokú döntést megsemmisíti és új eljárás lefolytatását rendeli el, az ingatlanügyi hatóság az új eljárásban meghozott döntésnek megfelelő bejegyzéssel egyidejűleg törli a felülvizsgált bejegyzést, valamint a felügyeleti eljárásra vonatkozó feljegyzést. Az erről szóló döntést a felügyeleti szerv döntésével együtt kell kézbesíteni.
 
-61/C. § Az Ákr. 123. § (1) bekezdésének g) pontja alkalmazása szempontjából súlyos eljárási jogszabálysértésnek minősül, ha
+61/C. § Az Ákr. 123. § (1) bekezdésének h) pontja alkalmazása szempontjából súlyos eljárási jogszabálysértésnek minősül, ha
 
 - a) az ingatlanügyi hatóság a kérelemnek helyt adó döntést a bejegyzés alapjául szolgáló okirat hiánya ellenére hozza meg,
 - b) a beadványok intézése a rangsor elvének megsértésével történik, vagy ha
@@ -1046,7 +1046,7 @@ igényli.
 
 ### Elektronikus adatszolgáltatás a számítógépes ingatlan-nyilvántartási rendszerből
 
-72. § (1) Az ingatlanügyi hatóság kérelemre, ha jogszabály másként nem rendelkezik, az Elektronikus Kormányzati Gerinchálózaton (a továbbiakban: EKG) keresztül hozzáférést biztosít, hogy
+72. § (1) Az ingatlanügyi hatóság kérelemre, ha jogszabály másként nem rendelkezik, a Nemzeti Távközlési Gerinchálózaton (a továbbiakban: NTG) keresztül hozzáférést biztosít, hogy
 
 - a) a bíróságok és az Országos Bírósági Hivatal elnöke a bírósági ügyek ellátásához szükséges egyedi adatok lekérdezése céljából,
 - b) a Központi Statisztikai Hivatal statisztikai célú felhasználásra a személyazonosításra alkalmas módon, térítésmentesen a statisztikai feladataihoz szükséges egyedi adatokat lekérdezze,
@@ -1058,11 +1058,11 @@ igényli.
 
 (3) A miniszter a szakmai irányításával összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett adatbázisokhoz.
 
-(4) A területrendezésért, valamint a településfejlesztésért és a településrendezésért felelős miniszter a területrendezési, valamint a településfejlesztési és településrendezési feladataival összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett állami ingatlan-nyilvántartási térképi adatbázis adataihoz, a Mezőgazdasági Parcella Azonosító Rendszernek a területrendezési és településrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz.
+(4)
 
-(5) A megyei önkormányzat a megyei területrendezési terv készítése érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz, a Mezőgazdasági Parcella Azonosító Rendszer a területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
+(5)
 
-(6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzatok a településrendezési eszköz, a településfejlesztési koncepció, az integrált településfejlesztési stratégia készítése és a településképi követelmények meghatározása érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz, valamint a 1:10000 digitális szintvonalrajzhoz és domborzatmodellhez térítésmentesen hozzáférhet.
+(6)
 
 (7)
 
@@ -1074,9 +1074,9 @@ igényli.
 
 73/A. § (1) A bírósági végrehajtó a bírósági végrehajtási eljárás lefolytatása és a törvényben meghatározott feladatainak a teljesítése céljából a hivatali helyiségében működtetett saját számítástechnikai eszközével köteles a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe venni. Az ingatlan-nyilvántartási hatóság a bírósági végrehajtó részére kérelem alapján biztosítja a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
-(2) Személyük azonosítására alkalmas módon végrehajtói irodában, végrehajtók közös irodájában, illetve az ugyanazon törvényszéken működő végrehajtók az (1) bekezdésben foglalt célra közös számítástechnikai eszközt is működtethetnek, a törvényszéki végrehajtók pedig a bíróság számítástechnikai eszközét is igénybe vehetik a lekérdezés jogának gyakorlásához.
+(2) Személyük azonosítására alkalmas módon végrehajtói irodában, illetve végrehajtók közös irodájában működő végrehajtók az (1) bekezdésben foglalt célra közös számítástechnikai eszközt is működtethetnek.
 
-(3) A bírósági végrehajtói szolgálat fennállásáról, annak adataiban történt változásról (áthelyezés, tartós helyettes kirendelése stb.), illetve megszűnéséről az önálló bírósági végrehajtók tekintetében a Magyar Bírósági Végrehajtói Kar, a törvényszéki végrehajtók tekintetében pedig az illetékes törvényszék értesíti az ingatlanügyi hatóságot, amely az értesítés alapján a bírósági végrehajtó hozzáférési jogosultságát visszavonja.
+(3) A bírósági végrehajtói szolgálat fennállásáról, annak adataiban történt változásról (áthelyezés, tartós helyettes kirendelése stb.), illetve megszűnéséről a Magyar Bírósági Végrehajtói Kar értesíti az ingatlanügyi hatóságot, amely az értesítés alapján a bírósági végrehajtó hozzáférési jogosultságát visszavonja.
 
 (4) A vízitársulat a törvényben meghatározott közfeladatainak teljesítése céljából a hivatali helyiségében működtetett saját számítástechnikai eszközével jogosult a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe venni. Az ingatlanügyi hatóság a vízitársulat részére kérelem alapján térítésmentesen biztosítja a vízitársulat közfeladatainak ellátásához szükséges számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
@@ -1095,7 +1095,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (2) A szolgáltatási szerződés kötelező elemeit külön jogszabály határozza meg.
 
-(3) Az önálló EKG-kapcsolattal nem rendelkező felhasználók kapcsolódása a számítógépes ingatlan-nyilvántartási rendszerhez a Kormány által biztosított azonosítási szolgáltatáson keresztül, vagy azonnali érvényességvizsgálatra alkalmas, legalább fokozott biztonságú elektronikus aláírással történhet.
+(3) Az önálló NTG-kapcsolattal nem rendelkező felhasználók kapcsolódása a számítógépes ingatlan-nyilvántartási rendszerhez a Kormány által biztosított azonosítási szolgáltatáson keresztül, vagy azonnali érvényességvizsgálatra alkalmas, legalább fokozott biztonságú elektronikus aláírással történhet.
 
 75. § (1) A számítógépes ingatlan-nyilvántartási rendszer szolgáltatásainak igénybevétele iránti kérelem tárgyában az ingatlanügyi hatóság határozatot hoz, kivéve ha a tulajdonilap-másolat szolgáltatása a Kormány által biztosított azonosítási szolgáltatáson keresztül történik.
 
@@ -1153,27 +1153,13 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 ### Rendezetlen tulajdoni állású ingatlanokkalkapcsolatos eljárás
 
-85. § Azon ingatlanok esetében, amelyeknél az elsőfokú ingatlanügyi hatósághoz 2000. január 1. előtt benyújtott okirat hiányossága miatt a benyújtáskor hatályos jogszabály alapján a bejegyzési kérelem nem volt teljesíthető (rendezetlen tulajdoni állású ingatlanok), a IV. fejezet rendelkezéseit a 86–88. §-okban foglalt eltéréssel kell alkalmazni.
+85. §
 
 86. §
 
-87. § (1) Az eljárás során pótolni kell a szükséges bejegyzést, ha
+87. §
 
-- a) a tulajdonváltozást bejegyzésre alkalmas okirattal,
-- b) az egyéb jog, tény keletkezését, módosulását, megszűnését bejegyzésre alkalmas okirattal, illetőleg az eljárás során tett elismerő nyilatkozattal igazolják.
-
-(2) Ha az állapítható meg, hogy valamely hatósági intézkedés (határozathozatal) elmaradt, az ingatlanügyi hatóság a hatáskörébe tartozó határozatot pótlólag meghozza. Ha a határozat meghozatala nem az ingatlanügyi hatóság hatáskörébe tartozik, kezdeményezni kell az illetékes hatóság eljárását.
-
-88. § (1) A tényleges birtokos tulajdonjogát kell az ingatlan-nyilvántartásba bejegyezni, ha
-
-- a) az eljárás során olyan okiratot mutat fel, amely bejegyzésre nem alkalmas, de a felek tulajdonátruházásra irányuló megállapodását az ingatlan megjelölését, továbbá az ellenértéket, illetve a szerzés ingyenességét tartalmazza, vagy
-- b) az ingatlan-nyilvántartásba bejegyzett tulajdonos vagy annak hagyatékátadó végzéssel (bírósági ítélettel) igazolt örököse vagy hatósági határozattal igazolt jogutóda elismeri, hogy a tényleges birtokos az ingatlan tulajdonjogának átruházásában a tulajdonossal már korábban megállapodott.
-
-(2) Ha az ingatlant többször is átruházták, a tényleges birtokos a közbenső átruházásokat is igazolhatja az (1) bekezdésben és a 87. §-ban szabályozott módon.
-
-(3) Ha a közbenső átruházó hatósági határozattal (bírósági ítélettel, hagyatékátadó végzéssel) szerzett tulajdonjogot, csak ettől a szerzéstől kell a további jogszerzést igazolni.
-
-(4) Az eljárást lezáró döntésnek tartalmaznia kell az ingatlanügyi hatóságnak a rendezetlen tulajdoni állású ingatlanokkal kapcsolatos eljárás lefolytathatóságára vonatkozó döntését is.
+88. §
 
 ### A számítógéppel kezelt tulajdoni lap pótlása
 
@@ -1183,11 +1169,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (3) A tulajdoni lap tervezetének elkészültéről hirdetményt kell közzétenni, és a tervezetet az ingatlanügyi hatóságnál ki kell függeszteni. A tervezetre az érdekeltek a kifüggesztéstől számított két hónapon belül tehetnek észrevételt. Ennek letelte után az ingatlanügyi hatóság határozatot hoz, amelyben elrendeli, hogy a tervezet tartalmát pótolt tulajdoni lapként az ingatlan-nyilvántartás számítógépes rendszerében kell továbbkezelni. A határozatot a tervezetből megállapított jogosultak részére kell kézbesíteni.
 
-### Zártkerti ingatlan művelés alóli kivonása
-
-89/A. § (1) A tulajdonos – e törvény végrehajtására kiadott rendeletben meghatározottak szerint – 2017. december 31-ig kérheti az ingatlan-nyilvántartásban zártkertként nyilvántartott ingatlana (a továbbiakban: zártkerti ingatlan) művelési ágának művelés alól kivett területként történő átvezetését.
-
-(2) A zártkerti ingatlan művelési ágának művelés alól kivett területként történő átvezetése a zártkerti ingatlan meghatározott részére is kérhető. Ez esetben a zártkerti ingatlant meg kell osztani.
+89/A. §
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1243,32 +1225,27 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 93. § Az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvény (a továbbiakban: 3. sz. Módtv.) 34. §-ával megállapított 26. § (1a) bekezdésében foglaltakat a 3. sz. Módtv. 34. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-94. § (1) A Fétv. 108. § (1) bekezdésében foglaltak alapján megszűnő haszonélvezeti jog és használat joga (e §-ban a továbbiakban együtt: haszonélvezeti jog) ingatlan-nyilvántartásból történő törlése érdekében az ingatlanügyi hatóság által legkésőbb 2014. október 31. napjáig kiküldött felhívásra a haszonélvezeti jog természetes személy jogosultjának a felhívás kézbesítését követő 15 napon belül a miniszter által rendszeresített formanyomtatványon nyilatkoznia kell a közte és a haszonélvezeti jogot alapító, a bejegyzés alapjául szolgáló okirat szerinti ingatlan-tulajdonos közötti közeli hozzátartozói viszony fennállásáról. A határidő elmulasztása miatt 2014. december 31. napját követően igazolási kérelemnek nincs helye.
+94. § (1)
 
-(2) Ha a haszonélvezeti jog törlését 2014. október 31. napját megelőzően a Fétv. 108. § (1) bekezdésre hivatkozással kérik, az ingatlanügyi hatóság az (1) bekezdés szerinti felhívást a kérelem benyújtásától számított 8 napon belül küldi meg a jogosultnak. A kérelem ügyében az érdemi döntést a nyilatkozatban foglaltak alapján, a (4) bekezdésben meghatározott ellenőrzést követően, illetve nyilatkozat hiányában, vagy a (4) bekezdés szerinti hiánypótlás eredménytelensége esetén a (3) bekezdésben foglalt jogkövetkezmény alkalmazásával kell meghozni.
+(2)
 
-(3) Ha a nyilatkozat alapján közeli hozzátartozói jogviszony nem áll fenn, vagy ha a jogosult határidőben nem tesz nyilatkozatot, az ingatlanügyi hatóság a bejegyzett haszonélvezeti jogot a nyilatkozattételre nyitva álló határidő elteltét követő hat hónapon belül, legkésőbb 2015. július 31. napjáig hivatalból törli az ingatlan-nyilvántartásból.
+(3)
 
-(4) A nyilatkozatban megadott, valamint az ingatlan-nyilvántartásban szereplő adatok alapján az ingatlanügyi hatóság a közeli hozzátartozói jogviszony fennállásáról szóló nyilatkozat valóságtartalmát az anyakönyvvezető megkeresésével, vagy az elektronikus anyakönyvből történő adatszolgáltatás útján ellenőrzi. Ha az ellenőrzés során a közeli hozzátartozói viszony fennállása nem állapítható meg, és a jogosult az erre irányuló hiánypótlási felhívás kézbesítésétől számított 8 napon belül a jogviszony fennállását nem tudja igazolni, a bejegyzést a hiánypótlásra nyitva álló határidő elteltét követően törölni kell.
+(4)
 
-(4a) Ha a jogosult a nyilatkozattételre történő felhívásról nem értesült (az irat a hatósághoz nem kereste, a címzett ismeretlen vagy ismeretlen helyre költözött jelzéssel érkezik vissza), az ingatlanügyi hatóság a tényállás tisztázása érdekében az ingatlan-nyilvántartásban rendelkezésére álló adatok alapján megkeresi az anyakönyvezetőt a közeli hozzátartozói jogviszony fennállásának igazolása céljából. Ha a megkeresés eredménytelen vagy a közeli hozzátartozói viszony fennállása nem állapítható meg, a haszonélvezeti jogot 2015. július 31. napjáig hivatalból törölni kell az ingatlan-nyilvántartásból.
+(4a)
 
-(5) A jogi személy, valamint az ingatlan-nyilvántartásba bejegyezhető jogra ügyleti képességgel bíró jogi személyiséggel nem rendelkező szervezet javára bejegyzett és a Fétv. 108. § (1) bekezdése alapján megszűnt haszonélvezeti jogot az ingatlanügyi hatóság legkésőbb 2014. december 31. napjáig hivatalból köteles törölni az ingatlan-nyilvántartásból.
+(5)
 
-(6) Nincs helye fellebbezésnek, ha a haszonélvezeti jog törlésére a (3) bekezdés szerint megtett nyilatkozat vagy az (5) bekezdés alapján kerül sor.
+(6)
 
-(7) A haszonélvezeti jog (3) bekezdés szerinti törléséről rendelkező határozat ellen benyújtott fellebbezéshez csatolt eredeti okiratokkal (anyakönyvi kivonat, örökbefogadás, valamint a nevelőszülő és a nevelt gyermek közötti jogviszony esetén az erről szóló végleges gyámhivatali határozat) vagy ezek hiteles másolatával a jogosult igazolhatja a közeli hozzátartozói viszony fennállását.
+(7)
 
-(8) Nem törölhető a haszonélvezeti jog vagy a használat joga az ingatlan-nyilvántartásból, ha az okirattárban levő iratok alapján megállapítható, hogy a haszonélvezeti jog vagy a használat jogának az alapítása az átruházással egyidejűleg a korábbi tulajdonos javára történt.
+(8)
 
-(9) E törvénynek az egyes ingatlan-nyilvántartással és földméréssel összefüggő törvények módosításáról szóló 2015. évi XLIV. törvénnyel megállapított
+(9)
 
-- a) 50. § (5) bekezdésében,
-- b) 94. § (4a), (7) és (8) bekezdésében
-
-foglaltakat az e rendelkezések hatálybalépésekor folyamatban levő, valamint a megismételt eljárásokban is alkalmazni kell.
-
-(10) Ha a haszonélvezeti jog vagy a használat jogának a törlésére az egyes ingatlan-nyilvántartással és földméréssel összefüggő törvények módosításáról szóló 2015. évi XLIV. törvény hatálybalépését megelőzően és a (8) bekezdésben foglalt rendelkezéssel ellentétesen került sor, a jogosult 2015. május 31-ig fellebbezést nyújthat be.
+(10)
 
 (11) Ha az ingatlan-nyilvántartás és az egyéb közhiteles nyilvántartás között e rendelkezés hatálybalépésekor ellentmondás áll fenn, e rendelkezés hatálybalépésétől számított három éven belül az ingatlan-nyilvántartásban szereplő ingatlan művelési ágát, fő rendeltetését, jogi jellegét összhangba kell hozni az egyéb közhiteles nyilvántartásban foglaltakkal.
 

@@ -298,23 +298,24 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 - a) a járműokmányt kiadó, érvényesítő, cserélő, visszavonó, visszaadó, a járműokmányba bejegyzést tevő hatóság a végleges határozatáról, a járműokmány adatairól vagy az adatváltozásról;
 - b) a személyiadat- és lakcímnyilvántartás szerve a polgár nyilvántartásba bejegyzett adatai megváltozásáról, illetve elhalálozásának idejéről;
-- c) a jogszabályban meghatározott hatóság a 8. § (1) bekezdés h) pontjában megjelölt adatokról;
+- c) a jogszabályban meghatározott hatóság a 8. § (1) bekezdés a) pont ah) alpontjában megjelölt adatokról;
 - d) a parkolási igazolványt kiállító hatóság a 8/A. §-ban meghatározott adatokról;
 - e) a közlekedési hatóság elektronikus úton
   - ea)
   - eb)
   - ec) a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a jármű-honosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól,
-  - ed) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről;
-- f) a biztosító a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
+  - ed)
+- f) a biztosító elektronikus úton a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
 - g) a díjmentes úthasználatra, továbbá a közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosult az útdíj köteles elemi útszakaszok, és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatokról, valamint – a változástól számított 30 napon belül – azok változásáról;
 - h) a vizsgaközpont elektronikusan
   - ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
-  - hb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól.
+  - hb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól,
+  - hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről.
 
 14/A. § A közlekedési igazgatási hatóságot értesíti
 
 - a) a vizsgálatot végző szerv a 8. § (1) bekezdés a) pont ae) pontjában megjelölt adatokról és azok változásáról;
-- b) a rendőrhatóság a közúti közlekedés körében elkövetett, külön jogszabályban meghatározott bűncselekmény, illetve szabálysértés miatt a járművezető ellen indult eljárásról;
+- b) a rendőrhatóság elektronikus úton a közúti közlekedés körében elkövetett, külön jogszabályban meghatározott bűncselekmény, illetve szabálysértés miatt a járművezető ellen indult eljárásról;
 - c) a parkolási igazolvány használatának ellenőrzésére jogosult szerv az igazolvány birtokban tartását érintő intézkedésről.
 
 ### Adatkezelés időtartama
@@ -346,7 +347,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - a) a nyilvántartótól csoportos adatszolgáltatás, járműéletút-adatszolgáltatás és – a Kormány által rendeletben az e törvény szerint adatigénylésre jogosult szervek közül kijelölt szervek eseti jellegű megkeresése esetén – egyedi adatszolgáltatás,
 - b) a közlekedési igazgatási hatóságtól egyedi adatszolgáltatás igényelhető.
 
-(2) Az okmánytárból, az előzetes eredetiségvizsgálati nyilvántartásból adatszolgáltatás e törvény szabályai szerint a közlekedési igazgatási hatóságtól igényelhető.
+(2) Az okmánytárból, az előzetes eredetiségvizsgálati nyilvántartásból adatszolgáltatás e törvény szabályai szerint a nyilvántartótól igényelhető.
 
 (3) A 8. § (2) bekezdésében, illetve a 9. § (2) bekezdés f) pontjában meghatározott adatokról adatszolgáltatás a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény rendelkezéseivel összhangban teljesíthető.
 
@@ -389,7 +390,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (3)–(4) bekezdése, valamint a 9/D. § (1) bekezdése szerinti adatokat;
 - r) az országos közutak kezelői a Kkt. 15. § (1) bekezdésében meghatározott közútkezelői hozzájárulás kiadására és a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésére vonatkozó feladataik ellátásához a 9. § (1)–(1a) bekezdésben, a (2) bekezdés a)–b) és d)–e) pontjában, a (3) bekezdésében, a 9/C. § (1) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 - s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jogosult, valamint a közfeladat ellátására jogosulttal a Kkt. 9/D. § (4) bekezdése alapján szerződött szervezet feladatai ellátásához a 9. § (1)–(1a) és (3) bekezdésben, valamint a 9/D. § (1) bekezdésében megjelölt adatokat,
-- t) az anyakönyvvezető a személyazonosság ellenőrzése és az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
+- t) az anyakönyvvezető a személyazonosság ellenőrzése, az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása, vagy a névváltozási eljárással összefüggő feladatainak ellátása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
 - u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, valamint (2) bekezdés a)–c) pontjában, valamint a 9/D. § (1) bekezdés a)–b) pontjában, (2) bekezdés a)–b) pontjában és (3) bekezdésében megjelölt adatokat;
 - v) a környezetvédelmi és természetvédelmi hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésében és a 9/D. § (1) bekezdésében megjelölt adatokat;
 - w) a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a 8. § (1) bekezdés a) pont aa)–ad), af) és ag) alpontjában, valamint a b) pont ba) és bb) alpontjában foglalt adatokat;

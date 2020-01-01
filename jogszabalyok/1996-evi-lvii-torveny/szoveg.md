@@ -460,7 +460,17 @@ kell figyelembe venni.
 
 (2) Az elnök személyi anyagának kezelését, valamint az elnök tekintetében a Kttv. 115. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a főtitkár látja el.
 
-42. § (1) A Gazdasági Versenyhivatal elnöke a miniszterrel, elnökhelyettese a közigazgatási államtitkárral, főtitkára a helyettes államtitkárral azonos illetményben, illetve juttatásokban részesül azzal, hogy az elnök vezetői illetménypótléka az alapilletményének 110%-a, az elnökhelyettes vezetői illetménypótléka az alapilletményének 100%-a, a főtitkár vezetői illetménypótléka az alapilletményének 90%-a, továbbá az elnök és az elnökhelyettes illetménykiegészítése az alapilletményük 80%-a, a főtitkár illetménykiegészítése az alapilletményének 70%-a. A Versenytanács tagjának alapilletménye a köztisztviselői illetményalap tízszerese, vezetői illetménypótléka az alapilletményének 80%-a.
+42. § (1) A Gazdasági Versenyhivatal elnökének havi illetménye a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 149. § (1) bekezdése szerinti havi bér 80%-a, az elnökhelyettes illetménye az elnök havi illetményének 90%-a, a főtitkár illetménye az elnök havi illetményének 60%-a.
+
+(1a) A Versenytanács tagjának az illetménye az Elnök havi illetményének 50%-a.
+
+(1b) Az (1) bekezdés szerinti illetményen túl a Gazdasági Versenyhivatal
+
+- a) elnöke miniszteri,
+- b) elnökhelyettese államtitkári, valamint
+- c) főtitkára helyettes államtitkári
+
+juttatásra jogosult.
 
 (2) A Gazdasági Versenyhivatal elnökét, elnökhelyettesét, főtitkárát és a Versenytanács tagját minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
 
@@ -847,7 +857,12 @@ tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
 
 ### Adatok zárt kezelése
 
-54/A. § (1) Erre irányuló indokolt kérelem esetén a vizsgáló, illetve az eljáró versenytanács elrendeli az ügyfél vagy az eljárás egyéb résztvevője természetes személyazonosító adatainak és lakcímének zárt kezelését, ha a kérelmet előterjesztő valószínűsíti, hogy a versenyfelügyeleti eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti. A végzést az érintett személlyel kell közölni.
+54/A. § (1) A vizsgáló, illetve az eljáró versenytanács kérelemre vagy hivatalból elrendeli az ügyfél vagy az eljárás egyéb résztvevője természetes személyazonosító adatainak és lakcímének zárt kezelését, ha
+
+- a) az előterjesztő indokolt kérelmében valószínűsíti, hogy a versenyfelügyeleti eljárásban való közreműködése miatt súlyosan hátrányos következmény érheti, vagy
+- b) ugyanazon tényállás alapján a jogerősen vagy véglegesen lezárt, vagy párhuzamosan zajló más bírósági vagy hatósági eljárásban az ügyfél vagy az eljárás egyéb résztvevője adatainak zárt kezelését rendelték el.
+
+(1a) Az adatok zárt kezeléséről szóló végzést kizárólag azzal kell közölni, akinek az adatai zárt kezelését elrendelték.
 
 (2) Az (1) bekezdésben foglaltak szerint az ügyfél csak a vállalkozási tevékenységére vonatkozó közhiteles nyilvántartás nyilvános adatain kívüli természetes személyazonosító adatai és lakcíme, a szakértő csak az igazságügyi szakértői névjegyzék nyilvános adatain kívüli természetes személyazonosító adatai és lakcíme zárt kezelését kérheti.
 
@@ -1708,11 +1723,11 @@ hozza meg.
 
 (4) A 2006/2004/EK európai parlamenti és tanácsi rendelet 8. cikk (4) bekezdésében meghatározott feltételek teljesülésének megállapítására, illetve a feltételek nem teljesülése esetén a 8. cikk (5) bekezdése szerinti értesítés megtételére a vizsgáló jogosult.
 
-### XII. Fejezet — A közigazgatási hatósági eljárás szabályainak alkalmazása
+### XII. Fejezet — Jogorvoslat a Gazdasági Versenyhivatal versenyfelügyeleti eljárásában
+
+### A közigazgatási hatósági eljárás szabályainak alkalmazása
 
 80/I. § A jogorvoslatra az e fejezetben nem szabályozott kérdésekben az Ákr. rendelkezéseit kell megfelelően alkalmazni.
-
-### Jogorvoslat a Gazdasági Versenyhivatal versenyfelügyeleti eljárásában
 
 ### A vizsgálati kifogás
 

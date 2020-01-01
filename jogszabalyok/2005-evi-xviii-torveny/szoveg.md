@@ -165,7 +165,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 - a) megküldi előzetes véleményezésre a fogyasztóvédelmi hatóságnak és a felhasználói érdek-képviseleteknek a távhőszolgáltatást érintő képviselő-testületi előterjesztések tervezetét.
 - b)
 
-11. § (1) A távhőszolgáltató a szükséges adatok és információk rendelkezésre bocsátásával köteles együttműködni a Hivatallal, az önkormányzat jegyzőjével és a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal), valamint a lakossági felhasználókat, illetve a természetes személy díjfizetőket érintő kérdésekben a fogyasztóvédelmi hatósággal és a felhasználói érdek-képviseletekkel.
+11. § (1) A távhőszolgáltató a szükséges adatok és információk rendelkezésre bocsátásával köteles együttműködni a Hivatallal, az önkormányzat jegyzőjével és a bírósággal, valamint a lakossági felhasználókat, illetve a természetes személy díjfizetőket érintő kérdésekben a fogyasztóvédelmi hatósággal és a felhasználói érdek-képviseletekkel.
 
 (2) A távhőszolgáltató köteles az általános szerződési feltételeit – kiemelve a távhőszolgáltatás igénybevételének feltételeit, azok változását, a számlázás rendjét és a szolgáltatás minőségi követelményeit – az ügyfélszolgálatán könnyen hozzáférhető helyen kifüggeszteni, valamint a felhasználó és a díjfizető kívánságára azt ingyenesen rendelkezésre bocsátani.
 
@@ -360,9 +360,9 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 
 28. § (1) A szolgáltatói hőközpontot idegen ingatlanon, illetve a távhővel ellátott épületek vagy építmények egyikében az ingatlantulajdonossal kötött megállapodás alapján lehet elhelyezni, üzemeltetni és karbantartani.
 
-(2) Az engedélyes megállapodás hiányában az ingatlan használatára vonatkozó használati jog megállapítását kérheti az járási hivataltól.
+(2) Az engedélyes megállapodás hiányában az ingatlan használatára vonatkozó használati jog megállapítását kérheti a bíróságtól.
 
-(3) A használati jog alapítását és a fizetendő kártalanítás mértékét az járási hivatal állapítja meg az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben (a továbbiakban: Étv.) meghatározott módon.
+(3) A használati jog alapítását és a fizetendő kártalanítás mértékét a bíróság állapítja meg az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben (a továbbiakban: Étv.) meghatározott módon.
 
 29. § (1) A használati jog ingatlan-nyilvántartásba történő bejegyzését az engedélyes kérelmezi az ingatlantulajdonossal kötött szerződés vagy véglegessé vált hatósági határozat alapján. A használati jog a mindenkori engedélyest illeti meg, és az ingatlan mindenkori tulajdonosát terheli. A használati jog az azt megállapító hatósági határozat véglegessé válását követően, illetve az ingatlantulajdonossal kötött megállapodás alapján gyakorolható.
 
@@ -616,7 +616,7 @@ meghatározott szerződésszegést követi el.
 
 ### A közszolgáltatási szerződés felmondása alóli mentesség
 
-51/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi vagy közoktatási intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a távhőszolgáltatónál a közszolgáltatási szerződés – távhőszolgáltatás díjára vonatkozó fizetési késedelem miatt történő – felmondása alóli mentesség (a továbbiakban: moratórium) biztosítását.
+51/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, köznevelési vagy szakképző intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a távhőszolgáltatónál a közszolgáltatási szerződés – távhőszolgáltatás díjára vonatkozó fizetési késedelem miatt történő – felmondása alóli mentesség (a továbbiakban: moratórium) biztosítását.
 
 (2) A moratórium a közintézményi felhasználó kezdeményezése szerinti időszakra, de legfeljebb az adott év október 15. és az azt követő év április 15. közötti időszakra terjed ki.
 

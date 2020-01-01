@@ -321,6 +321,8 @@ az e törvény végrehajtására kiadott jogszabály szerint, írásbeli szerző
 
 (5a) Az állatok jelölésére felhasznált jelölő- és behelyezőeszközök, valamint ENAR-bizonylatok megrendelésével kapcsolatos ügyintézést az állattartó elektronikus úton teljesíti az élelmiszerlánc-felügyeleti szerv felé.
 
+(5b) A sertés tartásával és szállításával összefüggő valamennyi bejelentési kötelezettségét az állattartó elektronikus úton teljesíti az élelmiszerlánc-felügyeleti szerv felé.
+
 (6) A méhész köteles a méhállományok tartásának helyét, vándoroltatását nyilvántartásba vétel céljából az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint bejelenteni a letelepedés helye szerint illetékes élelmiszerlánc-felügyeleti szervnél.
 
 19. § (1) Az állati eredetű melléktermék – így különösen az elhullott állat tetemének – tulajdonosa saját költségén köteles annak elszállításáról, ártalmatlanná tételéről az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban előírt módon gondoskodni. Az állati eredetű melléktermék tulajdonosa, illetve annak szállítását, kezelését, tárolását, feldolgozását, felhasználását vagy ártalmatlanítását végző minden üzemeltető az élelmiszerlánc-felügyeleti szerv felé az e törvény végrehajtására kiadott jogszabály szerinti éves jelentési kötelezettséget elektronikus úton köteles teljesíteni.
@@ -569,7 +571,7 @@ terheli.
 - a) az e törvény végrehajtására kiadott jogszabályban foglaltak szerint engedélyezi és ellenőrzi a nem állami szolgáltató laboratóriumokat, valamint nyilvántartásba veszi és ellenőrzi a nem állami üzemi laboratóriumokat;
 - b) az állat-, valamint a növény-egészségügyi határállomásokkal rendelkező – illetve a ba) és bb) alpontok esetében az egyéb – határátkelőhelyeken,
   - ba) ellenőrzi az élelmiszer-, illetve takarmánybiztonsági, -minőségi, állat- és növény-egészségügyi rendelkezések megtartását;
-  - bb) végrehajtja az áru, a személyes poggyászban található állati termékek, továbbá nem kereskedelmi célból behozott, kedvtelésből tartott állatok okirat-ellenőrzését, azonosságvizsgálatát és fizikális ellenőrzését (valamint jogszabályban előírt mintavételét);
+  - bb) végrehajtja az áru, a személyes poggyászban található e törvény hatálya alá tartozó termékek, továbbá nem kereskedelmi célból behozott, kedvtelésből tartott állatok okirat-ellenőrzését, azonosságvizsgálatát és fizikális ellenőrzését (valamint jogszabályban előírt mintavételét);
   - bc) ellenőrzi az állatok szállításra való alkalmasságát, a kísérő dokumentációt, valamint a szállítóeszközt;
   - bd) ellenőrzi az Európai Unió jogi aktusaiban teljeskörűen nem szabályozott (a továbbiakban: nem harmonizált) állatfaj és állati eredetű termék harmadik országból más tagállamba magyar határállomáson keresztüli beléptetéssel történő szállítása során a rendeltetési hely szerinti tagállam által meghatározott feltételek teljesülését;
   - be) ellenőrzi a vizsgálatköteles áruk növény-egészségügyi előírásoknak való megfelelőségét;
@@ -577,7 +579,7 @@ terheli.
 - d) működteti az – e törvény hatálya alá tartozó engedélyköteles vagy nyilvántartásba vételi kötelezettség alá vont növények, növényi termékek, állatok, egyéb termékek, létesítmények, eszközök, természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező szervezetek, illetve tevékenységek e törvényben, valamint az e törvény végrehajtására kiadott jogszabályban meghatározott adatait tartalmazó – élelmiszerlánc-felügyeleti adatbázist.
 - e) engedélyezi a növényvédő szerek és termésnövelő anyagok engedélyezési célú biológiai hatásvizsgálataihoz a Helyes Kísérleti Gyakorlat (GEP) alkalmazását.
 
-34. § (1) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglaltak szerint engedélyezi vagy nyilvántartásba veszi
+34. § (1) Állat-egészségügyi feladatainak keretében az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglaltak szerint engedélyezi vagy bejelentés alapján nyilvántartásba veszi
 
 - a) járművek élőállat-szállítás céljára történő használatát, illetve ezen járművek mosását és fertőtlenítését végző helyeket, valamint az állati eredetű mellékterméket szállító járműveket;
 - b) a gyepmesteri, illetve ebrendészeti tevékenység végzését;
@@ -820,6 +822,8 @@ engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fog
 
 (3b) A Hhvtv. 54. §-a szerinti Országos Halgazdálkodási Adattár kapcsolódik a FELIR-hez.
 
+(3c) A FELIR működtetője jogosult a működésével és szolgáltatási tevékenységével kapcsolatos adatokat is a FELIR-ben kezelni.
+
 (4) Az e törvény végrehajtására kiadott jogszabály szerint az élelmiszerlánc-felügyeleti szerv részére e törvényben meghatározott feladatai ellátása érdekében megkeresésre adatokat kell átadni:
 
 - a) az egyéni vállalkozók nyilvántartásából,
@@ -835,6 +839,8 @@ engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fog
 - k) az e törvény hatálya alá tartozó vállalkozók, tevékenységi helyek, illetve tevékenységek vonatkozásában jogszabályi kötelezettség alapján vezetett országos hatósági nyilvántartásokból.
 
 (4a) Az élelmiszerlánc-felügyeleti szerv a személyiadat- és lakcímnyilvántartásból az (1) bekezdésben meghatározott feladata ellátása céljából a FELIR-ben nyilvántartott természetes személy ügyfél természetes személyazonosító adatai, lakcíme, külföldön történő letelepedésére, elhalálozására vonatkozó adata igénylésére jogosult.
+
+(4b) Az élelmiszerlánc-felügyeleti szerv az egyéni vállalkozók nyilvántartásából az (1) bekezdésben meghatározott feladata ellátása céljából a FELIR-ben nyilvántartott egyéni vállalkozó ügyfél az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 11. § b)–k) pontjában meghatározott adatok igénylésére jogosult.
 
 (5) A FELIR-ben kezelt adatokat a Központi Statisztikai Hivatal részére – a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatóak. Az átvett adatok körét és az adatátvétel részletszabályait a hivatalos statisztikáról szóló törvényben meghatározott együttműködési megállapodásban kell rögzíteni.
 
@@ -856,6 +862,8 @@ engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fog
 
 (13) A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara a tagjaira vonatkozó adatok tekintetében az általa vezetett gazdaságszerkezeti nyilvántartáshoz hozzáférést biztosít az élelmiszerlánc-felügyeleti szerv részére hatósági feladatának ellátása céljából.
 
+(14) A Földmegfigyelési Operatív Központ folyamatos és térítésmentes, elektronikus hozzáférést biztosít a Földmegfigyelési Információs Rendszer adatbázisához az élelmiszerlánc-felügyeleti szerv számára a FELIR működtetésével összefüggő feladatainak ellátása érdekében.
+
 38/B. § (1) Az a
 
 - a) természetes személy, jogi személy,
@@ -871,11 +879,13 @@ aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek 
 
 (2a) E törvény, illetve a 38/A. § (3a) bekezdésében megjelölt törvények hatálya alá tartozó tevékenységet csak FELIR azonosítóval rendelkező ügyfél folytathat.
 
+(2b) Az e törvény, illetve a 38/A. § (3a) bekezdésében megjelölt törvények hatálya alá tartozó tevékenység végzéséhez szükséges, e törvényben vagy külön jogszabályban meghatározott, nyilvántartásba vételi vagy engedélyezési eljárást csak FELIR azonosítóval rendelkező ügyfél kezdeményezhet.
+
 (3) A FELIR azonosítóval rendelkező ügyfél köteles bejelenteni az élelmiszerlánc-felügyeleti szervnek, ha csődeljárás, felszámolás vagy végelszámolás alatt áll, valamint a jogutódlással történő vagy jogutód nélküli megszűnését is.
 
 (4) A FELIR azonosítóval rendelkező ügyfél köteles az élelmiszerlánc-felügyeleti szervnek bejelenteni az (1) és a (3) bekezdés szerinti adataiban bekövetkezett változást, annak bekövetkezésétől számított tizenöt napon belül.
 
-(5) A (4) bekezdés szerinti kötelezettség elmulasztása esetén az élelmiszerlánc-felügyeleti szerv a FELIR azonosítóval rendelkező ügyfelet a kötelezettség teljesítésére hívja fel. A változásbejelentési kötelezettség teljesítésének ismételt elmaradása esetén az élelmiszerlánc-felügyeleti szerv az ügyfelet az (1) bekezdés szerinti nyilvántartásból törli.
+(5) Amennyiben az élelmiszerlánc-felügyeleti szerv az (1) és a (3) bekezdés szerinti adatokban bekövetkezett változásról tudomást szerez – és az ügyfél a (4) bekezdés szerinti kötelezettségének nem tett eleget – a megváltozott adatokat hivatalból vezeti át a FELIR-ben.
 
 (6) Az élelmiszerlánc-felügyeleti szerv a honlapján elektronikusan hitelesített módon közzéteszi
 
@@ -1014,7 +1024,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 43. § Az élelmiszerlánc-felügyeleti szerv e törvény szerinti hatósági eljárásához és tájékoztatási kötelezettségének teljesítéséhez – ha az emberek, illetve állatok egészsége veszélyeztetésének fennállása miatt szükséges – a büntetőeljárásról szóló 2017. évi XC. törvény 101. § (1) bekezdésében foglaltak szerint megismerheti az eljárás ügyiratait. A megkeresés irányulhat a lefoglalt dologból történő minta szolgáltatására.
 
-44. § (1) Az élelmiszerlánc-felügyeleti szerv helyszíni ellenőrzésre feljogosított állami tisztviselője, kormánytisztviselője, valamint jelenlétében az Európai Bizottság szakértője és az általa kijelölt szakértő az e törvény végrehajtására kiadott jogszabály, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusai szerinti ellenőrzés során jogosult
+44. § (1) Az élelmiszerlánc-felügyeleti szerv helyszíni ellenőrzésre feljogosított kormánytisztviselője, valamint jelenlétében az Európai Bizottság szakértője és az általa kijelölt szakértő az e törvény végrehajtására kiadott jogszabály, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusai szerinti ellenőrzés során jogosult
 
 - a) az ellenőrzött helyiségbe, illetve létesítménybe belépni;
 - b) berendezéseket, eszközöket, technológiai folyamatokat ellenőrizni;

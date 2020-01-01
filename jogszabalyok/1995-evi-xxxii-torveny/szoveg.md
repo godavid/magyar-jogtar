@@ -141,13 +141,22 @@ a szabadalmi ügyvivőkről
 
 (5) A Kamara a tevékenység folytatására engedéllyel rendelkező szolgáltatókról nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
+(6) Az (1) bekezdés szerinti működési forma keretében kiegészítő jelleggel – az e törvényben meghatározott kivételekkel – más tevékenység is végezhető.
+
+(7) Az (1) bekezdés szerinti keretek között működő szabadalmi ügyvivőnek az ügyvivői tevékenységével okozott kár megtérítését, valamint személyiségi jogsértés miatt járó sérelemdíj megfizetését szabadalmi ügyvivői felelősségbiztosítással kell biztosítania. A felelősségbiztosításnak a (6) bekezdés szerinti kiegészítő tevékenységekre nem kell kiterjednie.
+
 ### Az egyéni szabadalmi ügyvivő
 
 6/A. § Az egyéni szabadalmi ügyvivő szabadalmi ügyvivőt alkalmazottként foglalkoztathat. Az ügyfél képviseletében az egyéni szabadalmi ügyvivőnek adott megbízás vagy kirendelés alapján mind az egyéni szabadalmi ügyvivő, mind a szabadalmi ügyvivő alkalmazott eljárhat.
 
 ### A szabadalmi ügyvivői iroda
 
-7. § (1) A szabadalmi ügyvivői iroda jogi személyiséggel rendelkező szervezet, amelynek kizárólag szabadalmi ügyvivő tagja van. Szabadalmi ügyvivői irodát egy vagy több szabadalmi ügyvivő alapíthat.
+7. § (1) A szabadalmi ügyvivői iroda olyan jogi személyiséggel rendelkező szervezet,
+
+- a) amely elsődlegesen szabadalmi ügyvivői feladatokat lát el,
+- b) amelynek természetes személy tagjai vannak, akik közül legalább egy tag szabadalmi ügyvivő,
+- c) amelynek vezetője szabadalmi ügyvivő, és
+- d) amelyben a szabadalmi ügyvivő tag vagy tagok a szavazatok legalább kétharmadával rendelkeznek.
 
 (2) A szabadalmi ügyvivői iroda szabadalmi ügyvivőt alkalmazottként is foglalkoztathat.
 
@@ -200,9 +209,9 @@ a szabadalmi ügyvivőkről
 
 10. § (1) A szabadalmi ügyvivői társaságban akkor végezhető ügyvivői tevékenység, ha
 
-- a) a társaság kizárólag szabadalmi ügyvivői feladatokat lát el,
+- a) a társaság elsődlegesen szabadalmi ügyvivői feladatokat lát el,
 - b) a társaságnak csak természetes személy tagjai vannak, akik közül legalább egy tag szabadalmi ügyvivő,
-- c) a társaság jegyzett tőkéje társasági tulajdonban levő hányadán felüli részének legalább háromnegyedét a szabadalmi ügyvivő tag vagy tagok vagyoni hozzájárulása teszi ki, és a társaságban a szabadalmi ügyvivői szavazati jog is legalább ilyen arányú,
+- c) a társaság jegyzett tőkéje társasági tulajdonban levő hányadán felüli részének több mint felét a szabadalmi ügyvivő tag vagy tagok vagyoni hozzájárulása teszi ki, és a társaságban a szabadalmi ügyvivő tag vagy tagok a szavazatok legalább kétharmadával rendelkeznek,
 - d) a szabadalmi ügyvivői társaság vezető tisztségviselője és tisztségviselőinek legalább háromnegyed része a szabadalmi ügyvivő tagok közül kerül ki.
 
 (2) A szabadalmi ügyvivői társaság szabadalmi ügyvivőt alkalmazottként is foglalkoztathat.
@@ -241,38 +250,40 @@ a szabadalmi ügyvivőkről
 
 (2) A szabadalmi ügyvivő bíróság vagy egyéb hatóság előtti eljárása során a Kamara által kiállított fényképes hatósági igazolvánnyal igazolja magát.
 
-14. § (1) A szabadalmi ügyvivői tevékenység gyakorlásával összeférhetetlen
+14. § (1) A szabadalmi ügyvivői tevékenységgel összeférhetetlen minden olyan tevékenység, amely veszélyezteti a szabadalmi ügyvivői tevékenység gyakorlásának függetlenségét, valamint a szabadalmi ügyvivő ügyfeleinek jogos érdekét.
 
-- a) az e törvényben meghatározott kivétellel a munkaviszony, a kormányzati szolgálati, a közszolgálati, a közalkalmazotti, a rendvédelmi feladatokat ellátó szerveknél fennálló hivatásos szolgálati, rendvédelmi igazgatási szolgálati jogviszonyban, a honvédelmi alkalmazotti jogviszonyban, a hivatásos vagy szerződéses katonai szolgálati jogviszony, továbbá a közjegyzői, bírósági végrehajtói jogállás,
-- b) a szabadalmi ügyvivői társaságon kívül más gazdasági társaságban a korlátlan felelősséggel járó tagsági jogviszony,
-- c) minden más, munkavégzési kötelezettséggel járó és ellenérték fejében végzett tevékenység.
+(2) A szabadalmi ügyvivői tevékenység gyakorlásával összeférhetetlen a szabadalmi ügyvivői társaságon kívül más gazdasági társaságban korlátlan felelősséggel járó tagsági jogviszony, vagy egyéb korlátlan felelősséggel járó vállalkozói tevékenység.
 
-(2) A választott közjogi tisztségviselői megbízatás – ideértve a helyi önkormányzat és a nemzetiségi önkormányzat tisztségviselője vagy tagja, valamint az általa létrehozott bizottság tisztségviselője vagy tagja megbízatását is – a szabadalmi ügyvivői tevékenység gyakorlásával akkor összeférhetetlen, ha a tisztségviselő jogállását szabályozó törvény így rendelkezik.
+(3) A szabadalmi ügyvivő köteles folyamatosan biztosítani, hogy szabadalmi ügyvivői tevékenysége és az általa végzett egyéb tevékenységek között ne álljon fenn összeférhetetlenség. Nem összeférhetetlen a szabadalmi ügyvivői tevékenységgel
 
-14/A. § (1) Nem esik a 14. § (1) bekezdés c) pont szerinti tilalom alá
+- 1. az oktatói tevékenység,
+- 2. a tudományos, művészeti és sporttevékenység,
+- 3. a mezőgazdasági őstermelői tevékenység,
+- 4. az önkéntes tartalékos szolgálati viszony,
+- 5. a nevelőszülői foglalkoztatási jogviszony,
+- 6. a választottbírói tevékenység,
+- 7. a jogi, mérnöki, műszaki, gazdasági, informatikai vagy más, egészségügyi, természettudományos szakfordítói, tolmácsolási tevékenység,
+- 8. a nem igazságügyi szakértői tevékenység,
+- 9. a választási bizottsági tagság,
+- 10. az adatvédelmi tisztviselői tevékenység,
+- 11. a végelszámolói feladat ellátása,
+- 12. a felügyelőbizottsági, számvizsgáló bizottsági feladat ellátása,
+- 13. a gazdasági társaság vezető tisztségviselőkből álló ügyvezető testületének tagja vagy elnöke feladatának ellátása,
+- 14. a 13. pont alá nem eső jogi személy vezető tisztségviselője feladatának ellátása,
+- 15. az ügyvédi tevékenység és az annak keretein belül végzett kiegészítő tevékenység,
+- 16. a közvetítői eljárásban vagy büntetőügyekben folytatott közvetítői tevékenység.
 
-- a) az oktatói tevékenység,
-- b) a tudományos, művészeti és sporttevékenység,
-- c) a mezőgazdasági őstermelői tevékenység,
-- d) az önkéntes tartalékos szolgálati viszony,
-- e) a nevelőszülői foglalkoztatási jogviszony,
-- f) a választottbírói tevékenység,
-- g) a jogi, mérnöki, informatikai vagy más, egészségügyi, természettudományos szakfordítói, tolmácsolási tevékenység,
-- h) a nem igazságügyi szakértői tevékenység,
-- i) a választási bizottsági tagság,
-- j) a belső adatvédelmi felelősi tevékenység,
-- k) a végelszámolói feladat ellátása,
-- l) a felügyelőbizottsági, számvizsgáló bizottsági feladat ellátása,
-- m) a gazdasági társaság vezető tisztségviselőkből álló ügyvezető testületének tagja vagy elnöke feladatának ellátása,
-- n) az m) pont alá nem eső jogi személy vezető tisztségviselője feladatának ellátása,
-- o) az ügyvédi, alkalmazott ügyvédi, kamarai jogtanácsosi, ügyvédjelölti, ügyvédi kamarai nyilvántartásba vett jogi előadói tevékenység,
-- p) közvetítői eljárásban vagy büntetőügyekben folytatott közvetítői tevékenység.
+(4) A szabadalmi ügyvivő szabadalmi ügyvivői tevékenységét minden más tevékenységétől – ideértve a (3) bekezdés 1–14. és 16. pontja szerinti tevékenységeket is – elkülönítve köteles folytatni. A (3) bekezdés szerinti tevékenységeket a szabadalmi ügyvivői tevékenység gyakorlója nem szabadalmi ügyvivőként, hanem az adott tevékenységre irányadó jogszabályban meghatározott formában folytathatja.
 
-(2) A szabadalmi ügyvivő az oktatói és tudományos tevékenységet munkaviszonyban, közalkalmazotti jogviszonyban, rendvédelmi feladatokat ellátó szerveknél fennálló hivatásos szolgálati, hivatásos vagy szerződéses katonai szolgálati viszonyban is elláthatja.
+(5) Nem végezhető szabadalmi ügyvivői tevékenység azon ügyfél számára, amelynél a szabadalmi ügyvivő
 
-(3) Az e § szerinti tevékenység a szabadalmi ügyvivői tevékenység gyakorlásától minden szempontból elkülönítve, úgy folytatható, hogy az ne veszélyeztesse a szabadalmi ügyvivői tevékenység gyakorlásának a függetlenségét. Az e § szerinti tevékenységeket a szabadalmi ügyvivői tevékenység gyakorlója nem szabadalmi ügyvivőként, hanem az adott tevékenységre irányadó jogszabályban meghatározott formában folytathatja.
+- a) az igazságügyi szakértői tevékenységen kívüli más, nem szabadalmi ügyvivői tevékenységbe tartozó szakértői tevékenységet lát el,
+- b) a vezető tisztségviselőkből álló ügyvezető testület tagja vagy elnöke,
+- c) vezetői tisztségviselői feladatokat lát el,
 
-(4) Az (1) bekezdés h), m) és n) pontjában meghatározott tevékenység és a szabadalmi ügyvivői tevékenység ugyanazon ügyfél számára nem végezhető, kivéve, ha a megbízott szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői társaság, a megbízás teljesítésében a szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői társaság (1) bekezdés h), m) és n) pontjában meghatározott tevékenységet folytató tagja nem vesz részt, és az ügyfél ehhez írásban kifejezetten hozzájárul.
+kivéve, ha a megbízott szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői társaság, és a megbízás teljesítésében a szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői társaság a), b) és c) pontban meghatározott tevékenységet folytató tagja nem vesz részt, továbbá az ügyfél ehhez írásban kifejezetten hozzájárul.
+
+14/A. §
 
 14/B. § (1) Az összeférhetetlenségi ok bekövetkezését meg kell előzni.
 
@@ -331,7 +342,7 @@ a szabadalmi ügyvivőkről
 - b) közjegyzőként, közjegyzőhelyettesként, bírósági végrehajtóként, végrehajtó-helyettesként, vagy
 - c) közvetítőként, választottbíróként vagy egyéb vitarendezési minőségben, kivéve a közvetítés eredményeként létrejött egyezség okiratba foglalását és kapcsolódó eljárásokban való jogi képviseletet.
 
-(3) A szabadalmi ügyvivő nem láthat el képviseletet azon közhatalmi hatáskört gyakorló szerv vagy jogutódja által folytatott közhatalmi eljárásban, amellyel közhatalmi hatáskör gyakorlásával közvetlenül összefüggő feladat ellátására létesített jogviszonyban állt, valamint amelynek az irányításával vagy felügyeletével közvetlenül összefüggő feladat ellátására létesített jogviszonyban állt, e jogviszonya megszűnését követő két évig.
+(3) A szabadalmi ügyvivői tevékenység gyakorlója közhatalmi hatáskör gyakorlásával közvetlenül összefüggő feladat ellátására létesített jogviszonya megszűnését követő két évig nem láthat el képviseletet azon közhatalmi hatáskört gyakorló szerv vagy jogutódja által folytatott közhatalmi eljárásban, amelynek a tevékenységében, valamint az irányításával vagy felügyeletével közvetlenül összefüggő feladat ellátásában e jogviszonya alapján, az annak megszűnését megelőző öt évben részt vett.
 
 (4) A szabadalmi ügyvivő nem folytathat olyan szabadalmi ügyvivői tevékenységet, amely összeütközésbe kerülne korábbi ügyfelével szemben vállalt kötelezettségével, kivéve, ha a korábbi és az új ügy között nincs összefüggés, vagy ha a korábbi ügyfél ehhez – a tájékoztatását követően – hozzájárult.
 
@@ -580,7 +591,7 @@ a szabadalmi ügyvivőkről
 
 (5) A fegyelmi tanács keresettel meg nem támadott határozata a kézbesítéstől számított harminc nap elteltével emelkedik jogerőre.
 
-24/H. § (1) A jogerős határozat meghozatala után a Kamara elnöke vagy a szabadalmi ügyvivő, a szabadalmi ügyvivő halála esetén a Polgári Törvénykönyv szerinti hozzátartozója új eljárást kezdeményezhet, ha olyan tényre vagy bizonyítékra, illetve olyan jogerős hatósági határozatra hivatkozik, amelyet a fegyelmi tanács nem bírált el, illetve nem vett figyelembe, feltéve, hogy az elbírálása, illetve figyelembevétele esetén a fegyelmi határozatra lényeges hatással lett volna. Új eljárásnak van helye akkor is, ha az alapügyben a fegyelmi tanács elnöke vagy tagja kötelességét a Büntető Törvénykönyvbe ütköző módon megszegte.
+24/H. § (1) A jogerős határozat meghozatala után a Kamara elnöke vagy a szabadalmi ügyvivő, a szabadalmi ügyvivő halála esetén a Polgári Törvénykönyv szerinti hozzátartozója új eljárást kezdeményezhet, ha olyan tényre vagy bizonyítékra, illetve olyan végleges vagy jogerős hatósági határozatra hivatkozik, amelyet a fegyelmi tanács nem bírált el, illetve nem vett figyelembe, feltéve, hogy az elbírálása, illetve figyelembevétele esetén a fegyelmi határozatra lényeges hatással lett volna. Új eljárásnak van helye akkor is, ha az alapügyben a fegyelmi tanács elnöke vagy tagja kötelességét a Büntető Törvénykönyvbe ütköző módon megszegte.
 
 25. § (1) Nem folytatható le a fegyelmi eljárás, ha a Kamara elnöke a cselekmény, illetőleg mulasztás tudomásra jutásától számított három hónapon belül nem indítja meg az eljárást, vagy a cselekmény, illetőleg a mulasztás befejezése óta három év eltelt.
 
@@ -678,8 +689,8 @@ a szabadalmi ügyvivőkről
 
 (3) A Kamara a bejelentés alapján a bejelentőt felveszi az európai közösségi hivatásos iparjogvédelmi képviselők névjegyzékébe (a továbbiakban: közösségi képviselők névjegyzéke), ha
 
-- a) három hónapnál nem régebbi okirat magyar fordításának bemutatásával bizonyítja, hogy valamely EGT-államban jogosultsággal rendelkezik szabadalmi ügyvivői tevékenység folytatására, és
-- b) igazolja szabadalmi ügyvivői felelősségbiztosítása meglétét,
+- a) három hónapnál nem régebbi okirat és magyar fordításának bemutatásával vagy másolatának és magyar fordításának benyújtásával igazolja, hogy valamely EGT-államban jogosultsággal rendelkezik szabadalmi ügyvivői tevékenység folytatására,
+- b) írásban nyilatkozik a Magyarország területére kiterjedő hatályú szabadalmi ügyvivői felelősségbiztosítása meglétéről és annak tartalmáról, és
 - c) megfizeti a névjegyzékbe vételi díjat.
 
 (4) A (3) bekezdés a) pontjában foglalt feltételt kielégíti, ha a kérelmező az ott meghatározott módon bizonyítja, hogy az 1. §-ban meghatározott ügyekben a működésének helye szerinti tagállam központi iparjogvédelmi hatósága előtt képviselet ellátására jogosult. Ha az említett tagállamban a képviselet külön szakképesítés hiányában is ellátható, a képviselet ellátására való jogosultság megállapításához a kérelmezőnek igazolnia kell, hogy e tagállam központi iparjogvédelmi hatósága előtt legalább öt éven át folytatott képviselői tevékenységet az 1. §-ban meghatározott ügyekben. Ha a kérelmező szakképesítést szerzett képviselet ellátására, és azt ez utóbbi tagállam jogszabályai értelmében hivatalosan elismerték, mentesül a képviselői tevékenység folytatásának igazolása alól.
@@ -791,6 +802,8 @@ a szabadalmi ügyvivőkről
 - b) határidőben megfizetni a kamarai tagdíjat és a Kamara által esetenként előírt rendkívüli kamarai hozzájárulást, valamint szolgáltatni a Kamara által előírt adatokat a tagdíj összegének meghatározásához;
 - c)
 
+29/A. § A kamarai tagság fennállása illetve a közösségi képviselők névjegyzékében való szereplés ideje alatt a Kamara honlapján közzéteszi a szabadalmi ügyvivők, valamint a közösségi képviselők felelősségbiztosításával kapcsolatos – az ügyfelek tájékoztatásához szükséges – adatokat.
+
 ### A Kamara eljárása közigazgatási hatósági ügyekben
 
 30. § (1) A Kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el a következő ügyekben (a továbbiakban: kamarai hatósági ügy):
@@ -810,7 +823,7 @@ a szabadalmi ügyvivőkről
 
 (5) A kamarai tagság megszűnésének megállapítása, a szabadalmi ügyvivőjelölt, illetve a közösségi képviselő névjegyzékből való törlése és a szabadalmi ügyvivői iroda, illetve a szabadalmi ügyvivői társaság nyilvántartásból való törlése iránti eljárást hivatalból meg kell indítani, ha a Kamara megszűnési, illetve törlési okról szerez tudomást. A Kamara az így megindított eljárásban az ügyfelet nyilatkozattételre hívhatja fel és kötelezheti az érdemi döntéshez szükséges adatok közlésére.
 
-(5a) A szabadalmi ügyvivői iroda nyilvántartásból a 9. § (2) bekezdés a) pontja alapján való törlése iránti eljárás során a megszüntetésre irányuló döntés meghozatalának feltétele az állami adóhatóság és a vámhatóság – erre a célra rendszeresített nyomtatványon kiadott – nyilatkozata arról, hogy az iroda adóbevallási kötelezettségeinek eleget tett, adótartozása, jogerős határozatban megállapított adófizetési kötelezettsége nincs, az irodánál adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást az állami adóhatóság illetőleg a vámhatóság nem kezdeményez. Az adóhatósági nyilatkozat beszerzése érdekében a kamarai hatósági eljárás során a kamara megkeresi az adóhatóságot, a nyilatkozat beszerzéséig eltelt idő az döntés meghozatalára nyitva álló határidőbe nem tartozik bele.
+(5a) A szabadalmi ügyvivői iroda nyilvántartásból a 9. § (2) bekezdés a) pontja alapján való törlése iránti eljárás során a megszüntetésre irányuló döntés meghozatalának feltétele az állami adóhatóság és a vámhatóság – erre a célra rendszeresített nyomtatványon kiadott – nyilatkozata arról, hogy az iroda adóbevallási kötelezettségeinek eleget tett, adótartozása, végleges határozatban megállapított adófizetési kötelezettsége nincs, az irodánál adóhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást az állami adóhatóság illetőleg a vámhatóság nem kezdeményez. Az adóhatósági nyilatkozat beszerzése érdekében a kamarai hatósági eljárás során a kamara megkeresi az adóhatóságot, a nyilatkozat beszerzéséig eltelt idő az döntés meghozatalára nyitva álló határidőbe nem tartozik bele.
 
 (6) A Kamara a szabadalmi ügyvivő részére „Szabadalmi Ügyvivői Igazolvány”-t állít ki, amelynek a következő adatokat kell tartalmaznia:
 
@@ -932,4 +945,14 @@ a szabadalmi ügyvivőkről
 
 ### Az Európai Unió jogának való megfelelés
 
-41. § Ez a törvény az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
+41. § Ez a törvény
+
+- a) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének;
+- b) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek;
+- c) a szakmai képesítések elismeréséről szóló 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv 55a. és 59. cikkének
+
+való megfelelést szolgálja.
+
+### Jogszabály tervezetének egyeztetése
+
+42. § A törvény tervezetének a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.

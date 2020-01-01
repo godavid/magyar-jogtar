@@ -17,7 +17,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (2)
 
-(3) A honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter közegészségügyi felügyeletét – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a katonai egészségügyi államigazgatási szerv gyakorolja.
+(3) A honvédelmi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, valamint azon gazdasági társaságok közegészségügyi felügyeletét, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a katonai egészségügyi államigazgatási szerv gyakorolja.
 
 (3a) A rendészetért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek az (1) bekezdés a) pontjában foglaltak figyelembevételével, továbbá a rendvédelmi szervek személyi állományára, valamint az Országgyűlési Őrségre vonatkozó közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a rendvédelmi szervek egészségügyi szolgálatai végzik.
 
@@ -104,7 +104,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (2) Az (1) bekezdést a szúnyogirtási tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
 
-4/B. § (1) 18 év alatti személyek közoktatási tevékenységnek nem minősülő csoportos, több napos táboroztatására, üdültetésére és egyéb szabadidős foglalkoztatására (a továbbiakban együtt: táboroztatás) csak akkor kerülhet sor, ha a táboroztatás szervezője gondoskodik az egészségügyért felelős miniszter rendeletében meghatározott személyi és tárgyi feltételek meglétéről. A táboroztatás személyi és tárgyi feltételeinek betartását az egészségügyi államigazgatási szerv ellenőrzi.
+4/B. § (1) 18 év alatti személyek csoportos, több napos táboroztatására, üdültetésére és egyéb szabadidős foglalkoztatására (a továbbiakban együtt: táboroztatás) csak akkor kerülhet sor, ha a táboroztatás szervezője gondoskodik az egészségügyért felelős miniszter rendeletében meghatározott személyi és tárgyi feltételek meglétéről. A táboroztatás személyi és tárgyi feltételeinek betartását az egészségügyi államigazgatási szerv ellenőrzi.
 
 (2) A táboroztatás szervezője köteles legkésőbb 6 héttel a táboroztatás megkezdését megelőzően az egészségügyi államigazgatási szervnek bejelenteni a tervezett táboroztatás helyét, kezdő időpontját és tervezett időtartamát, továbbá a táborozásban részt vevő személyek tervezett számát és az egészségügyért felelős miniszter rendeletében meghatározott egyéb adatokat.
 
@@ -433,7 +433,7 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 - e) harmadik országból származó természetes ásványvíz elismerése,
 - f) egészségügyi, egészségvédelmi és kémiai terhelési bírság kiszabása.
 
-(8)
+(8) Az ivóvízbiztonsággal, az ivóvíz vizsgálatával, valamint a természetes gyógytényezőkkel, természetes ásványvizekkel kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak.
 
 14/C. § Az egészségügyi szolgáltató által a beteg részére nyújtott egészségügyi ellátással kapcsolatban tett, a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti panasszal kapcsolatban az az egészségügyi államigazgatási szerv jár el, amely a panasszal érintett egészségügyi szolgáltató részére működési engedély kiadására jogosult.
 
@@ -443,7 +443,7 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 (3) A felügyeleti díj mértéke nyolcvanezer forint.
 
-14/E. § A Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok vonatkozásában a közegészségügyi-járványügyi hatósági feladatok ellátására kormányrendeletben kijelölt szerv, továbbá a rendvédelmi szervek és az Országgyűlési Őrség vonatkozásában a közegészségügyi-járványügyi hatósági feladatok ellátására kormányrendeletben kijelölt szerv e törvény szerinti eljárásaiban
+14/E. § A honvédelmi szervezetek, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, valamint azon gazdasági társaságok vonatkozásában, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a közegészségügyi-járványügyi hatósági feladatok ellátására kormányrendeletben kijelölt szerv, továbbá a rendvédelmi szervek és az Országgyűlési Őrség vonatkozásában a közegészségügyi-járványügyi hatósági feladatok ellátására kormányrendeletben kijelölt szerv e törvény szerinti eljárásaiban
 
 - a) a hivatalbóli eljárás megindításáról az ügyfelet nem kell értesíteni,
 - b) nincs helye sommás eljárásnak,
@@ -461,7 +461,7 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 (5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, valamint az Országgyűlési Őrség vonatkozásában a rendészetért felelős miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
-(6) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
+(6) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a honvédelmi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, valamint azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a feladatukkal kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
 (7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a menekültügyi hatóság által fenntartott, a menekültügyi őrizet végrehajtására szolgáló intézményre, a befogadó állomásra és a közösségi szállásra, valamint a rendőrség által fenntartott, az idegenrendészeti eljárásban elrendelt őrizet végrehajtására szolgáló őrzött szállásra vonatkozó közegészségügyi követelményeket, a közegészségügyi ellenőrzés, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 

@@ -745,7 +745,7 @@ véleményezésre megküldi.
 
 (3) Az állami feladat ellátása során a miniszter a környezeti ismeretek szakszerű oktatásának biztosítása és azok folyamatos fejlesztése érdekében együttműködik az oktatásért felelős miniszterrel és más érdekelt miniszterekkel.
 
-(4) A Nemzeti Alaptanterv elvei és követelményei szerint a miniszter közreműködik a közoktatás intézményei számára készülő tantervi követelmények és taneszközök szakmai előkészítésében.
+(4) A Nemzeti Alaptanterv elvei és követelményei szerint a miniszter közreműködik a köznevelési intézmények számára készülő tantervi követelmények és taneszközök szakmai előkészítésében.
 
 (5) A miniszter környezeti nevelési, képzési programot készít, amely összefoglalja
 
@@ -872,7 +872,7 @@ véleményezésre megküldi.
 
 - a) a környezetvédelmi hatósági tevékenység ellátása, így különösen a környezethasználat — e törvényben meghatározott szabályok szerinti — engedélyezése, a környezetért való közigazgatási jogi felelősség érvényesítése;
 - b) az Információs Rendszer működtetésével kapcsolatos adatkezelési, valamint tájékoztatási feladatok ellátása;
-- c) anyagok, termékek és technológiák környezetvédelmi szempontból történő minősítési rendszerének meghatározása, forgalomba hozataluk, illetőleg alkalmazásuk engedélyezése;
+- c) anyagok, termékek és technológiák környezetvédelmi szempontból történő minősítési rendszerének meghatározása, forgalomba hozataluk, alkalmazásuk engedélyezése; illetve az e törvény végrehajtására kiadott rendeletben meghatározott esetekben ezen tevékenységek bejelentése;
 - d) a környezeti károk elhárítására irányuló feladatok szervezése;
 - e) a leghatékonyabb megoldás, az elérhető legjobb technika alkalmazására vonatkozó követelmények érvényesítése;
 - f) a környezet védelmét és javítását, valamint helyreállítását szolgáló intézkedések, programok kidolgozása és végrehajtásának ellenőrzése.
@@ -905,7 +905,7 @@ véleményezésre megküldi.
   - bb) székhely településazonosító törzsszámmal, illetve telephelyei településazonosító törzsszámmal;
 - c) egyéni vállalkozó esetében
   - ca) neve,
-  - cb) egyéni vállalkozói igazolvány kiállítója és száma, valamint adószáma és statisztikai számjele, ennek hiányában az egyéni vállalkozói nyilvántartási szám,
+  - cb) egyéni vállalkozói nyilvántartási szám, valamint az egyéni vállalkozó adószáma és statisztikai számjele,
   - cc) székhely településazonosító törzsszámmal, illetve telephelyei településazonosító törzsszámmal;
 - d) az a)–c) pont esetében
   - da) környezet használatára vonatkozó határozatok rendelkezései,
@@ -926,6 +926,8 @@ tarthatók nyilván.
 64/B. § (1) A termékdíjköteles termékekből keletkező hulladékok gyűjtését és hasznosítását közvetítő és szervező állami koordináló szervezet (a továbbiakban: állami koordináló szerv) – az európai uniós hulladékgazdálkodási kötelezettségek teljesítésének elősegítése, a stratégiai tervezés, a hulladékgazdálkodás közhasznú feladatai hatékony ellátásának érdekében –, valamint a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítő (a továbbiakban: minősítő) – a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítéssel kapcsolatos eljárásai során a minősítési osztály megalapozása, az ellenőrzések eredményes lefolytatása céljából – jogosult az Információs Rendszer adataihoz való közvetlen hozzáférésre és azok kezelésére.
 
 (2) Az állami koordináló szerv, valamint a minősítő az Információs Rendszer számára közvetlenül elérhetővé teszi a feladatellátásával összefüggésben keletkezett, a hulladék útjának nyomon követésével, a hulladék kezelésével, valamint a hulladékkezelési közszolgáltatással kapcsolatos adatokat.
+
+64/C. § A környezetvédelmi, valamint a vízvédelmi hatóság a jogszabályban meghatározott feladatai ellátása céljából jogosult a vízgazdálkodásról szóló törvényben meghatározott VIZEK rendszer, valamint annak alrendszerei adataihoz való közvetlen hozzáférésre és azok kezelésére.
 
 ### A környezetvédelmi hatósági együttműködés
 

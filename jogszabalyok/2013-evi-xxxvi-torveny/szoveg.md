@@ -224,7 +224,7 @@ lakcímmel rendelkező, a központi névjegyzékben szereplő választópolgár 
 - a) párt tagja,
 - b) a választókerületben jelöltet állító jelölő szervezet tagja,
 - c) a választókerületben induló jelölt hozzátartozója,
-- d) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szervvel vagy a választási bizottság illetékességi területén hatáskörrel rendelkező egyéb közigazgatási szervvel kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, szolgálati vagy más, munkavégzésre irányuló jogviszonyban álló személy a közalkalmazott kivételével, állami vezető.
+- d) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szervvel vagy a választási bizottság illetékességi területén hatáskörrel rendelkező egyéb közigazgatási szervvel kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, szolgálati vagy más, munkavégzésre irányuló jogviszonyban álló személy a közalkalmazott kivételével.
 
 (3) Az (1) bekezdés f) pontja szerinti összeférhetetlenségi ok nem vonatkozik
 
@@ -586,7 +586,9 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 (6) A Nemzeti Választási Iroda elnöke által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
 
-58. § (1) A Nemzeti Választási Iroda elnöke államtitkári illetményre és juttatásokra jogosult.
+58. § (1) A Nemzeti Választási Iroda elnöke a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetmény felső határának megfelelő illetményre jogosult.
+
+(1a) A Nemzeti Választási Iroda elnöke az (1) bekezdésben meghatározott illetményen túl államtitkári juttatatásra jogosult.
 
 (2) A Nemzeti Választási Iroda elnökét naptári évenként negyven munkanap szabadság illeti meg.
 
@@ -644,7 +646,9 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 63. § Az elnökhelyettes vagyonnyilatkozat-tételi kötelezettségére és a vagyonnyilatkozatával kapcsolatos eljárásra az 57. § rendelkezései megfelelően irányadóak, azzal, hogy a vagyonnyilatkozatával kapcsolatos eljárás során a miniszterelnök helyett a Nemzeti Választási Iroda elnöke jár el, és az ellenőrzés eredményéről nem kell tájékoztatni a köztársasági elnököt.
 
-64. § (1) Az elnökhelyettes helyettes államtitkári illetményre és juttatásokra jogosult.
+64. § (1) Az elnökhelyettes a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult.
+
+(1a) Az elnökhelyettes az (1) bekezdésben meghatározott illetményen túl helyettes államtitkári juttatatásra jogosult.
 
 (2) Az elnökhelyettest naptári évenként negyven munkanap szabadság illeti meg.
 
@@ -691,7 +695,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 (2) A választási iroda tagjának megbízatását a választási iroda vezetője indokolás nélkül visszavonhatja.
 
-68. § (1) A választási iroda tagjává közszolgálati tisztviselő, állami tisztviselő és közalkalmazott bízható meg.
+68. § (1) A választási iroda tagjává közszolgálati tisztviselő, kormánytisztviselő és közalkalmazott bízható meg.
 
 (2) A külképviseleti választási iroda vezetőjét és többi tagját a Nemzeti Választási Iroda elnöke bízza meg. A külképviseleti választási iroda tagjává a diplomáciai képviselet személyzetének, illetőleg a konzuli személyzet magyar állampolgár tagját is meg lehet bízni.
 
@@ -785,6 +789,8 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 - h) az a)–g) pont szerinti nyilvántartásokhoz történő elektronikus hozzáférést biztosító felhasználói nyilvántartással
 
 kapcsolatos adatfeldolgozási feladatok ellátásával, kivéve, ha e korlátozás alól a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak szerint egyedi felmentést kap.
+
+(4) A Nemzeti Választási Iroda a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § l) pontja és 30. § (1) bekezdés e) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 ### IV. Fejezet — A SZAVAZÓKÖRÖK
 
@@ -2797,7 +2803,7 @@ visszavonhatja átjelentkezési kérelmét.
 
 328. § A települési nemzetiségi önkormányzati választás eredményét a helyi választási bizottság állapítja meg.
 
-329. § (1) A 327. § (1) bekezdése szerinti szavazatszámlálás eredményéről kiállított jegyzőkönyvek egy-egy példányát a helyi választási iroda legkésőbb a szavazást követő napon 10 óráig eljuttatja a területi választási irodához.
+329. § (1) A 327. § (1) bekezdése szerinti szavazatszámlálás eredményéről kiállított jegyzőkönyvek egy-egy példányát a helyi választási iroda legkésőbb a szavazást követő harmadik napon eljuttatja a területi választási irodához.
 
 (2) A területi választási bizottság a területi listás szavazólapok megszámlálásáról az (1) bekezdés szerint kiállított jegyzőkönyvek és az általa végzett szavazatszámlálás eredményét megállapító jegyzőkönyv alapján megállapítja a területi nemzetiségi önkormányzati választás eredményét.
 

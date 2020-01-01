@@ -10,7 +10,7 @@ a közalkalmazottak jogállásáról
 
 (2) A 25/A–25/C. § hatálya – az ott meghatározottak szerint – kiterjed a munkáltatóra és a munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
 
-(3) A 25/C. § hatálya – az ott meghatározottak szerint – kiterjed a közszolgálati tisztviselőkről szóló törvény és a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatóra és kormánytisztviselőre, köztisztviselőre, kormányzati és közszolgálati ügykezelőre, valamint a közigazgatási szervnél és a kormányzati igazgatási szervnél foglalkoztatott munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a kormányzati szolgálati jogviszony, a közszolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony vagy a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
+(3) A 25/C. § hatálya – az ott meghatározottak szerint – kiterjed a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltatóra és kormánytisztviselőre, köztisztviselőre, kormányzati és közszolgálati ügykezelőre, valamint a közigazgatási szervnél foglalkoztatott munkavállalóra, ha a munkáltató egészének vagy egy részének átadásra tekintettel a kormányzati szolgálati jogviszony, a közszolgálati jogviszony vagy a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
 
 (4) Az (1) bekezdésben foglaltaktól eltérően e törvény hatálya nem terjed ki a helyi önkormányzat, illetve a költségvetési szerv által közfoglalkoztatás keretében foglalkoztatottra, valamint az egyszerűsített foglalkoztatásról szóló külön törvény alapján foglalkoztatott munkavállalóra.
 
@@ -421,7 +421,7 @@ eredmény adható.
 (7) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató a közalkalmazottat
 
 - a) a kérelem szerinti időpontig, de
-- b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő közalkalmazott esetén a gyermek ötéves koráig
+- b) legfeljebb a gyermek négyéves koráig, három vagy több gyermeket nevelő közalkalmazott esetén a gyermek hatéves koráig
 
 köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
 
@@ -451,7 +451,7 @@ köteles foglalkoztatni. Ezt követően a közalkalmazott munkaidejét a kérele
 (2) A közalkalmazotti jogviszony megszüntethető:
 
 - a) közös megegyezéssel;
-- b) áthelyezéssel 1. az e törvény, valamint 2. e törvény és a közszolgálati tisztviselőkről szóló törvény, 3. 4. és a hivatásos, továbbá a szerződéses szolgálati jogviszonyt szabályozó jogszabályok, 5. hatálya alá tartozó munkáltatók között.
+- b) áthelyezéssel 1. az e törvény, valamint 2. e törvény és a közszolgálati tisztviselőkről szóló törvény, 3. e törvény és a honvédelmi alkalmazottak jogállásáról szóló törvény 4. és a hivatásos, továbbá a szerződéses szolgálati jogviszonyt szabályozó jogszabályok, 5. hatálya alá tartozó munkáltatók között.
 - c) lemondással;
 - d) rendkívüli lemondással;
 - e) felmentéssel;
@@ -516,32 +516,32 @@ gazdasági társaság utódszervezet vagy alapítvány részére adja át közfe
 
 (3) A közalkalmazotti jogviszony jogellenes megszüntetése esetén – ha a közalkalmazottat eredeti munkakörében kell továbbfoglalkoztatni – az átvevő munkáltató köteles az ítélet jogerőre emelkedésekor a 25/A. §-ban és a 25/B. §-ban, valamint a (4)–(13) bekezdésben foglaltak megfelelő alkalmazásával az állásfelajánlási és foglalkoztatási kötelezettséget teljesíteni. Az átvevő munkáltató a 25/A. § (2)–(3) bekezdése, és az (5) bekezdés szerinti tájékoztatási kötelezettséget a jogerős ítélet közlésétől számított tizenöt napon belül köteles teljesíteni.
 
-(4) A munkáltató személyében a jogszabály rendelkezése folytán bekövetkező olyan változás esetén, ha a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) a közszolgálati tisztviselőkről szóló törvény, a kormányzati igazgatásról szóló törvény vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó munkáltatóhoz kerül, a munkáltató érintett szervezete vagy tevékenysége keretében foglalkoztatott közalkalmazott közalkalmazotti jogviszonya – a (6) és (7) bekezdésben, valamint a (12) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át.
+(4) A munkáltató személyében a jogszabály rendelkezése folytán bekövetkező olyan változás esetén, ha a munkáltató egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) a közszolgálati tisztviselőkről szóló törvény vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó munkáltatóhoz kerül, a munkáltató érintett szervezete vagy tevékenysége keretében foglalkoztatott közalkalmazott közalkalmazotti jogviszonya – a (6) és (7) bekezdésben, valamint a (12) bekezdésben foglalt kivétellel – a jogállásváltozás időpontjában kormányzati szolgálati, közszolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át.
 
 (5) A jogviszony átalakulásáról az érintetteket az átvevő munkáltató az átalakulást követő harminc napon belül tájékoztatja.
 
-(6) A (4) bekezdésben foglaltaktól eltérően nem alakul át a közalkalmazott jogviszonya, ha az átvevő munkáltató a közszolgálati tisztviselőkről szóló, a kormányzati igazgatásról szóló vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény rendelkezései alapján nem létesíthet kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati vagy igazságügyi szolgálati jogviszonyt az átadással érintett közalkalmazottal, ebben az esetben a közalkalmazotti jogviszony a törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a közalkalmazottat az átadás napjával írásban értesíteni kell. A jogviszony megszűnése esetén a közalkalmazott számára a 37. § (2) és (4)–(7) bekezdés alkalmazásával megállapított végkielégítést – határozott idejű jogviszony esetén a 27. § (2) bekezdésében meghatározott távolléti díjat – kell megfizetni.
+(6) A (4) bekezdésben foglaltaktól eltérően nem alakul át a közalkalmazott jogviszonya, ha az átvevő munkáltató a közszolgálati tisztviselőkről szóló vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény rendelkezései alapján nem létesíthet kormányzati szolgálati, közszolgálati vagy igazságügyi szolgálati jogviszonyt az átadással érintett közalkalmazottal, ebben az esetben a közalkalmazotti jogviszony a törvény erejénél fogva az átadás időpontjában megszűnik. A jogviszony megszűnéséről a közalkalmazottat az átadás napjával írásban értesíteni kell. A jogviszony megszűnése esetén a közalkalmazott számára a 37. § (2) és (4)–(7) bekezdés alkalmazásával megállapított végkielégítést – határozott idejű jogviszony esetén a 27. § (2) bekezdésében meghatározott távolléti díjat – kell megfizetni.
 
-(7) A (6) bekezdésben foglaltakat kell megfelelően alkalmazni, ha az átadással érintett közalkalmazottal szemben a közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a közalkalmazott a jogviszony átalakulását megelőzően intézkedik, és ezt igazolja.
+(7) A (6) bekezdésben foglaltakat kell megfelelően alkalmazni, ha az átadással érintett közalkalmazottal szemben a közszolgálati tisztviselőkről szóló törvény alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a közalkalmazott a jogviszony átalakulását megelőzően intézkedik, és ezt igazolja.
 
-(8) A jogviszony kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati vagy igazságügyi szolgálati jogviszonnyá történő átalakulását követő negyvenöt napon belül a közalkalmazottat a kormányzati szolgálati jogviszonyra, a politikai szolgálati jogviszonyra, a biztosi jogviszonyra, közszolgálati jogviszonyra vagy az igazságügyi szolgálati jogviszonyra vonatkozó szabályok szerint be kell sorolni, és illetményét meg kell állapítani.
+(8) A jogviszony kormányzati szolgálati, közszolgálati vagy igazságügyi szolgálati jogviszonnyá történő átalakulását követő negyvenöt napon belül a közalkalmazottat a kormányzati szolgálati jogviszonyra, közszolgálati jogviszonyra vagy az igazságügyi szolgálati jogviszonyra vonatkozó szabályok szerint be kell sorolni, és illetményét meg kell állapítani.
 
-(9) Határozatlan időtartamú közalkalmazotti jogviszony – eltérő törvényi rendelkezés hiányában – határozatlan időtartamú kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át.
+(9) Határozatlan időtartamú közalkalmazotti jogviszony – eltérő törvényi rendelkezés hiányában – határozatlan időtartamú kormányzati szolgálati, közszolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős kormányzati szolgálati, közszolgálati vagy igazságügyi szolgálati jogviszonnyá alakul át.
 
 (10) Az átalakult jogviszony esetén a közalkalmazottnak az átalakulással érintett, e törvény hatálya alá tartozó munkáltatónál közalkalmazotti jogviszonyként elismert idejét úgy kell tekinteni, mintha azt az átvevő munkáltatónál töltötte volna el.
 
-(11) A közalkalmazotti jogviszonyban álló vezető jogviszonyának átalakulását követően – a kormányzati szolgálati jogviszonyra, a politikai szolgálati jogviszonyra, a biztosi jogviszonyra, közszolgálati jogviszonyra vagy igazságügyi szolgálati jogviszonyra vonatkozó szabály figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
+(11) A közalkalmazotti jogviszonyban álló vezető jogviszonyának átalakulását követően – a kormányzati szolgálati jogviszonyra, közszolgálati jogviszonyra vagy igazságügyi szolgálati jogviszonyra vonatkozó szabály figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
 
-(12) A (4) bekezdéstől eltérően a közalkalmazotti jogviszony munkaviszonnyá alakul át, ha a közalkalmazott a munkakörére tekintettel a közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény szabályai szerint a közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatóval nem kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati jogviszonyban, hanem munkaviszonyban állhat. Ebben az esetben a közalkalmazott átalakulás utáni munkabére (alapbérének, bérpótlékainak és egyéb bérelemeinek együttes összege) az átalakulást megelőzően irányadó illetményének és a jogszabály alapján járó illetménypótlékainak együttes összege, kivéve, ha valamely közalkalmazotti illetménypótlék megállapításának alapjául szolgáló körülmény a munkaviszonyban már nem áll fenn. Az alapbérbe a közalkalmazotti illetménypótlékok beépíthetőek. A munkabérről való tájékoztatást a jogviszony átalakulását követő hatvan napon belül meg kell adni. E bekezdés alkalmazása során megfelelően alkalmazni kell az (5) és (6) bekezdést, továbbá a (9)–(11) bekezdést.
+(12) A (4) bekezdéstől eltérően a közalkalmazotti jogviszony munkaviszonnyá alakul át, ha a közalkalmazott a munkakörére tekintettel a közszolgálati tisztviselőkről szóló törvény szabályai szerint a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltatóval nem kormányzati szolgálati, közszolgálati jogviszonyban, hanem munkaviszonyban állhat. Ebben az esetben a közalkalmazott átalakulás utáni munkabére (alapbérének, bérpótlékainak és egyéb bérelemeinek együttes összege) az átalakulást megelőzően irányadó illetményének és a jogszabály alapján járó illetménypótlékainak együttes összege, kivéve, ha valamely közalkalmazotti illetménypótlék megállapításának alapjául szolgáló körülmény a munkaviszonyban már nem áll fenn. Az alapbérbe a közalkalmazotti illetménypótlékok beépíthetőek. A munkabérről való tájékoztatást a jogviszony átalakulását követő hatvan napon belül meg kell adni. E bekezdés alkalmazása során megfelelően alkalmazni kell az (5) és (6) bekezdést, továbbá a (9)–(11) bekezdést.
 
 (13) Ha a jogviszony átalakulása időpontjában munkaügyi per fegyelmi elbocsátás tekintetében folyik, a közalkalmazotti kereset elbírálásánál
 
 - a) az azonnali hatályú felmondás szabályait kell megfelelően alkalmazni, ha a közalkalmazott jogviszonya munkaviszonnyá,
-- b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a közalkalmazott jogviszonya kormányzati szolgálati, politikai szolgálati, biztosi vagy közszolgálati jogviszonnyá
+- b) a hivatalvesztés fegyelmi büntetés szabályait kell megfelelően alkalmazni, ha a közalkalmazott jogviszonya kormányzati szolgálati, vagy közszolgálati jogviszonnyá
 
 alakul át.
 
-25/D. §
+25/D. § Ha a közalkalmazotti jogviszonyt létesítő személy a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül első jogviszonyként közalkalmazotti jogviszonyt létesít, a jogviszonyát folyamatosnak kell tekinteni.
 
 25/E. §
 
@@ -735,7 +735,8 @@ Kollektív szerződés 8 hónapnál hosszabb felmentési időt nem állapíthat 
 (5) A végkielégítésre való jogosultság megállapításánál figyelembe kell venni
 
 - a) jogutódlás esetén a jogelődnél,
-- b) a munkáltató egészének vagy egy részének átadása esetén az átadó munkáltatónál munkaviszonyban vagy közalkalmazotti jogviszonyban töltött időt is [25/B. § (5) bekezdés].
+- b) a munkáltató egészének vagy egy részének átadása esetén az átadó munkáltatónál munkaviszonyban vagy közalkalmazotti jogviszonyban töltött időt is [25/B. § (5) bekezdés],
+- c) a 25/D. § szerinti, két jogviszony közötti időtartamot.
 
 (6) A közalkalmazott végkielégítésének mértéke, ha a közalkalmazotti jogviszonyban töltött idő legalább
 
@@ -1017,40 +1018,34 @@ alapszabadság illeti meg.
 
 - a) az „A” fizetési osztályba
   - aa) a legfeljebb alapfokú iskolai végzettséghez kötött munkakör,
-  - ab) az alapfokú iskolai végzettséget nem igénylő szakképesítéshez kötött munkakör;
-- b) a „B” fizetési osztályba
-  - ba)
-  - bb) az alapfokú iskolai végzettséget igénylő szakképesítéshez kötött munkakör;
+  - ab) az alapfokú iskolai végzettséget nem igénylő szakképesítéshez kötött munkakör,
+- b) a „B” fizetési osztályba az alapfokú iskolai végzettséget igénylő szakképesítéshez kötött munkakör,
 - c) a „C” fizetési osztályba
-  - ca) a „B” fizetési osztály bb) pontjában említett szakképesítésre épülő szakképesítéshez kötött munkakör,
-  - cb)
-  - cc) a középfokú végzettséget igénylő szakképesítéshez kötött munkakör,
-  - cd) az érettségi végzettséghez kötött munkakör;
-- d) a „D” fizetési osztályba
-  - da) a „C” fizetési osztály cb)–cc) pontjában említett szakképesítésre épülő szakképesítéshez kötött munkakör,
-  - db) az érettségi végzettséget igénylő szakképesítéshez kötött munkakör;
+  - ca) a középfokú iskolai végzettséget igénylő szakképesítéshez kötött munkakör,
+  - cb) az érettségi végzettséghez kötött munkakör,
+- d) a „D” fizetési osztályba az érettségi végzettséget igénylő szakképesítéshez kötött munkakör,
 - e) az „E” fizetési osztályba
   - ea) az egyetemi, főiskolai végzettséget nem tanúsító felsőfokú szakképesítéshez, felsőoktatási szakképzésben szerzett szakképzettséghez kötött munkakör,
-  - eb) az érettségi végzettséghez kötött akkreditált iskolai rendszerű felsőfokú szakképesítéshez kötött munkakör;
-- f) az „F” fizetési osztályba a főiskolai végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör;
-- g) a „G” fizetési osztályba a főiskolai végzettséget és szakképzettséget igazoló oklevélhez és a munkakör betöltéséhez jogszabályban előírt szakvizsgát vagy jogszabályban azzal egyenértékűnek elismert vizsgát igazoló oklevélhez kötött munkakör;
+  - eb) az érettségi végzettséghez kötött akkreditált iskolai rendszerű felsőfokú szakképesítéshez kötött munkakör,
+- f) az „F” fizetési osztályba a főiskolai végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör,
+- g) a „G” fizetési osztályba a főiskolai végzettséget és szakképzettséget igazoló oklevélhez és a munkakör betöltéséhez jogszabályban előírt szakvizsgát vagy jogszabályban azzal egyenértékűnek elismert vizsgát igazoló oklevélhez kötött munkakör,
 - h) a „H” fizetési osztályba
   - ha) az egyetemi végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör,
-  - hb) a főiskolai végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör és ehhez az oklevélhez kapcsolódó tudományos fokozat;
+  - hb) a főiskolai végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör és ehhez az oklevélhez kapcsolódó tudományos fokozat,
 - i) az „I” fizetési osztályba
   - ia) az egyetemi végzettséget és szakképzettséget igazoló oklevélhez és a munkakör betöltéséhez jogszabályban előírt szakvizsgát vagy jogszabályban azzal egyenértékűnek elismert vizsgát igazoló oklevélhez kötött munkakör,
-  - ib) az egyetemi végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör és 1984. szeptember 1-je előtt doktori cselekmény alapján szerzett egyetemi doktori cím, vagy egyetemi végzettséget és szakképzettséget igazoló oklevél és 1984. szeptember 1-je után szerzett egyetemi tudományos fokozat (dr.univ.);
+  - ib) az egyetemi végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör és 1984. szeptember 1-je előtt doktori cselekmény alapján szerzett egyetemi doktori cím, vagy egyetemi végzettséget és szakképzettséget igazoló oklevél és 1984. szeptember 1-je után szerzett egyetemi tudományos fokozat,
 - j) a „J” fizetési osztályba
-  - ja) az egyetemi végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör és a felsőoktatásról szóló törvény szerinti tudományos fokozat,
+  - ja) az egyetemi végzettséget és szakképzettséget igazoló oklevélhez kötött munkakör és a nemzeti felsőoktatásról szóló törvény szerinti tudományos fokozat,
   - jb) a Magyar Tudományos Akadémia hazai rendes és levelező tagsága, az akadémiai doktori cím.
 
-(2) Az (1) bekezdésben említett iskolai végzettséget, illetve szakképesítést, szakképzettséget a köznevelési, a szakképzési és a felsőoktatási törvényekben használt fogalmakkal azonosan kell értelmezni. Ennek során a részszakképesítés és a szakképesítés-elágazás is szakképesítésnek, a szakképesítés-ráépülés pedig szakképesítésre épülő szakképesítésnek tekintendő.
+(2)
 
-(3) Az Országos Képzési Jegyzék szerinti emelt szintű szakképesítést az (1) bekezdés, valamint a 66. § (2) bekezdésének alkalmazásakor felsőfokú szakképesítésnek, a középszintű szakképesítést középfokú szakképesítésnek kell tekinteni.
+(3)
 
-(3a) Azon szakképesítés esetében, ahol a szakképesítés szakmai és vizsgakövetelménye a szakképzésben való részvétel feltételeként az iskolai végzettség megléte helyett a bemeneti kompetenciák meglétét is elfogadja, a szakképesítéssel rendelkező személyt a besorolás szempontjából minden esetben úgy kell tekinteni, mintha rendelkezne az előírt iskolai végzettséggel is.
+(3a)
 
-(4) Végrehajtási rendelet rendelkezhet az (1) és (3) bekezdésben foglaltak alól indokolt esetben lehetséges felmentésről. A felmentéssel egyidejűleg elő kell írni a szükséges iskolai végzettség, illetve szakképesítés, szakképzettség legfeljebb öt éven belüli megszerzését. Nem számítható be az ötéves határidőbe mindazon időtartam, amelyet a gyakornoki időnél figyelmen kívül kell hagyni. A felmentés időtartamának eredménytelen eltelte esetén a közalkalmazotti jogviszony a törvény erejénél fogva megszűnik.
+(4) Végrehajtási rendelet rendelkezhet az (1) bekezdésben foglaltak alól indokolt esetben lehetséges felmentésről. A felmentéssel egyidejűleg elő kell írni a szükséges iskolai végzettség, illetve szakképesítés, szakképzettség legfeljebb öt éven belüli megszerzését. Nem számítható be az ötéves határidőbe mindazon időtartam, amelyet a gyakornoki időnél figyelmen kívül kell hagyni. A felmentés időtartamának eredménytelen eltelte esetén a közalkalmazotti jogviszony a törvény erejénél fogva megszűnik.
 
 (5)
 
@@ -1428,7 +1423,7 @@ magasabb fizetési fokozatba kell besorolni.
 
 (3a)
 
-(4) Felhatalmazást kap az elektronikus hírközlésért, a környezetvédelemért, a vízgazdálkodásért, vízügyi igazgatási szervek irányításáért, vízvédelemért, a természetvédelemért, az oktatásért, a kultúráért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, az államháztartásért, a nemzetpolitikáért, a nemzetiségpolitikáért, a c) pont kivételével az agrár-vidékfejlesztésért, az agrárpolitikáért, a b) és f) pont kivételével a közlekedésért, az energiapolitikáért, a bányászati ügyekért és a postaügyért (a továbbiakban: a közlekedésért), az idegenrendészetért és menekültügyért, az igazságügyért felelős miniszter, továbbá valamennyi pont tekintetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az általa irányított, a (2)–(3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben állapítsa meg
+(4) Felhatalmazást kap a Kormány tagja, hogy az általa irányított, a (2)–(3) bekezdés alá nem tartozó költségvetési intézmények (munkáltatók), illetve közalkalmazottak tekintetében rendeletben állapítsa meg
 
 - a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 - b) azt a munkakört, amelyben nem kötelező pályázat kiírása a közalkalmazotti jogviszony létesítéséhez,
@@ -1444,17 +1439,17 @@ magasabb fizetési fokozatba kell besorolni.
 - a) a közlekedésért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésénél a tizennyolcadik életév betöltésének feltétele alóli mentesítést,
 - b) a honvédelemért, az idegenrendészetért és menekültügyért, az igazságügyért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
 - c) a honvédelemért, az idegenrendészetért és menekültügyért felelős miniszter, az igazságügyért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként a munkakör ellátásához szükséges magyar nyelvtudás feltételét,
-- d) a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, az államháztartásért, valamint a honvédelemért felelős miniszter, hogy a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
+- d) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, az államháztartásért, valamint a honvédelemért felelős miniszter, hogy a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 - e) a honvédelemért felelős miniszter, hogy a Magyar Honvédségnél foglalkoztatott közalkalmazottak részére, a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat,
-- f) a honvédelemért, valamint a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén a 21/A. § (1) bekezdés szerinti próbaidőt nem lehet megállapítani,
-- g) az idegenrendészetért és menekültügyért, az igazságügyért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy a gyakornoki idő kikötése alól mentes munkaköröket,
+- f) a honvédelemért, valamint a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén a 21/A. § (1) bekezdés szerinti próbaidőt nem lehet megállapítani,
+- g) az idegenrendészetért és menekültügyért, az igazságügyért, a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy a gyakornoki idő kikötése alól mentes munkaköröket,
 - h) a honvédelemért felelős miniszter, hogy a gyakornoki követelmények ágazati szakmai tartalmát,
-- i) , a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, a katasztrófák elleni védekezésért, valamint az államháztartásért felelős miniszter, hogy azokat a munkaköröket, illetve munkakörönként – a kinevezéshez szükséges iskolai végzettséggel, szakképesítéssel, illetve szakképzettséggel egyenértékű – azon iskolai végzettséget, szakképesítést, illetve szakképzettséget, amellyel a közalkalmazott által korábban ellátott, a 22. § (3) bekezdés szerinti jogviszony tartamát a szakmai gyakorlat idejébe be kell számítani,
-- j) a honvédelemért, az elektronikus hírközlésért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
-- k) a honvédelemért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként a napi munkaidőből kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
+- i) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, a katasztrófák elleni védekezésért, valamint az államháztartásért felelős miniszter, hogy azokat a munkaköröket, illetve munkakörönként – a kinevezéshez szükséges iskolai végzettséggel, szakképesítéssel, illetve szakképzettséggel egyenértékű – azon iskolai végzettséget, szakképesítést, illetve szakképzettséget, amellyel a közalkalmazott által korábban ellátott, a 22. § (3) bekezdés szerinti jogviszony tartamát a szakmai gyakorlat idejébe be kell számítani,
+- j) a honvédelemért, az elektronikus hírközlésért, a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
+- k) a honvédelemért, a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként a napi munkaidőből kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
 - l) a honvédelemért felelős miniszter, hogy a vezető állású munkavállalóval betöltendő vezetői munkaköröket,
-- m) a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy munkakörönként, illetve vezetői megbízásonként az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
-- n) a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, valamint az államháztartásért felelős miniszter, hogy az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
+- m) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy munkakörönként, illetve vezetői megbízásonként az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
+- n) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, valamint az államháztartásért felelős miniszter, hogy az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
 - o)
 - p) az elektronikus hírközlésért, valamint a környezetvédelemért, a vízgazdálkodásért, vízügyi igazgatási szervek irányításáért, vízvédelemért, a természetvédelemért felelős miniszter, hogy a formaruha-juttatást,
 - q)
@@ -1530,7 +1525,8 @@ is érteni kell.
 - i) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban,
 - j) honvédelmi alkalmazottak jogállásáról szóló törvény szerinti honvédelmi alkalmazotti jogviszonyban,
 - k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszonyban,
-- l) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban
+- l) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban,
+- m) a 25/D. § szerint a két jogviszony között
 
 töltött időt.
 

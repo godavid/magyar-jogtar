@@ -36,7 +36,7 @@ jelleggel.
 
 1/A. § (1) Fegyveres biztonsági őrség létrehozására
 
-- a) a honvédelemért felelős miniszter a Magyar Honvédség fokozott védelmet igénylő létesítményei, a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) létesítményei, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság létesítményei (e törvény alkalmazásában a továbbiakban együtt: a Magyar Honvédség létesítményei)
+- a) a honvédelemért felelős miniszter a honvédelmi szervezetek létesítményei, a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság létesítményei, továbbá az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok létesítményei (e törvény alkalmazásában a továbbiakban együtt: a Magyar Honvédség létesítményei)
 - b) a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal létesítményei,
 - c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az irányítása alatt álló polgári nemzetbiztonsági szolgálatok létesítményei vonatkozásában jogosult.
 
@@ -126,7 +126,7 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 (8) A rendőrség az ellenőrzés során a (6) bekezdés szerint átvett adatokat
 
 - a) az ellenőrzés befejezéséig kezelheti, az ellenőrzést követően az adatokat törli, majd az ellenőrzés irataira az ellenőrzés tényét és időpontját feljegyzi, vagy
-- b) ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására eljárást indított, az eljárás jogerős befejezéséig kezelheti.
+- b) ha a fegyveres biztonsági őr hatósági szolgálati igazolványának visszavonására eljárást indított, az eljárás végleges befejezéséig, vagy – ha a rendőrség döntését közigazgatási perben megtámadták – a közigazgatási per jogerős lezárásáig kezelheti.
 
 (9) Ha a fegyveres biztonsági őrrel szemben szándékos bűncselekmény miatt büntetőeljárás indul, a rendőrség a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet vezetőjénél kezdeményezheti a fegyveres biztonsági őr szolgálatellátás alóli ideiglenes – a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tartó – felfüggesztését.
 
@@ -135,7 +135,7 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 - a) megfelel az e törvényben meghatározott feltételeknek, és
 - b) rendelkezik az Országos Képzési Jegyzékben a fegyveres biztonsági őrök számára meghatározott szakképesítéssel vagy a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottság előtt e törvény, a végrehajtására kiadott jogszabályok és a szolgálati helye őrszolgálati okmányainak ismeretéből, a lőfegyver használatához szükséges szakismeretből és gyakorlati jártasságból eredményes vizsgát tett, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – teljesíti a jogszabályban meghatározott fizikai állóképességi és szakképesítésre vonatkozó követelményeket.
 
-(1a) A honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrségben – a KNBSZ létesítményei vonatkozásában létrehozott fegyveres biztonsági őrség kivételével – fegyveres biztonsági őr jogviszony létesíthető azzal is, aki
+(1a) A honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrségben – a Katonai Nemzetbiztonsági Szolgálat létesítményei vonatkozásában létrehozott fegyveres biztonsági őrség kivételével – fegyveres biztonsági őr jogviszony létesíthető azzal is, aki
 
 - a) az (1) bekezdés a) pontjában meghatározott feltételeknek megfelel,
 - b) a honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrséget működtető szervezet által szervezett nem iskolai rendszerű, egyéb más szakközépiskolai ágazatba nem sorolható, a honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrséget működtető szervezetben munkavállalásra jogosító belső képzés keretében eredményes vizsgát tett,

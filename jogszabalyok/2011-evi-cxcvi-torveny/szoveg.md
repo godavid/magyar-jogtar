@@ -54,9 +54,10 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 - 17. tulajdonosi joggyakorló: aki a nemzeti vagyon felett az államot vagy a helyi önkormányzatot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására jogosult;
 - 18. üzleti vagyon: a nemzeti vagyon azon része, amely nem tartozik az állami vagyon esetén a kincstári vagyonba, az önkormányzati vagyon esetén a törzsvagyonba;
 - 19. vagyonkezelő:
-  - a) az állam tulajdonában álló nemzeti vagyon tekintetében: aa) költségvetési szerv, ab) helyi önkormányzat, nemzetiségi önkormányzat, valamint ezek társulásai, ac) az ab) alpontban felsoroltak fenntartása vagy irányítása alá tartozó intézmény, ad) köztestület, ae) az állam, az aa)–ac) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, af) az ae) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet, ag) a törvény által kijelölt egyedileg meghatározott jogi személy.
+  - a) az állam tulajdonában álló nemzeti vagyon tekintetében: aa) költségvetési szerv, ab) helyi önkormányzat, nemzetiségi önkormányzat, valamint ezek társulásai, ac) az ab) alpontban felsoroltak fenntartása vagy irányítása alá tartozó intézmény, ad) köztestület, ae) az állam, az aa)–ac) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, af) az ae) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet, ag) országos törzshálózati vasúti pályát működtető többségi állami tulajdonú gazdasági társaság, ah) a törvény által kijelölt egyedileg meghatározott jogi személy.
   - b) a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében: ba) nemzetiségi önkormányzat, helyi vagy nemzetiségi önkormányzati társulás, valamint ezek fenntartása vagy irányítása alá tartozó intézmény, bb) költségvetési szerv, bc) köztestület, bd) az állam, a helyi önkormányzat, a ba) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
   - c) az egyházi jogi személy a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
+- 20. összetett vízilétesítmény: olyan vízilétesítmény, mely más létesítményeket, vizeket is magába foglal; az összetett vízilétesítmény része a létesítmények, vizek között lévő földterület is.
 
 (2) Az (1) bekezdés 1. pont b) és c) alpontjában foglalt feltételeknek való megfelelésről a szerződő félnek cégszerűen aláírt módon nyilatkoznia kell. A valótlan tartalmú nyilatkozat alapján kötött szerződés semmis.
 
@@ -76,7 +77,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 - d) a felszín alatti vizek, a felszín alatti vizek természetes víztartó képződményei, a folyóvíz és természetes tavak elhagyott medre és a folyóvízben, természetes tavakban újonnan keletkezett sziget, valamint az 1. mellékletben meghatározott folyóvizek, holtágak, mellékágak, természetes tavak és ezek medre,
 - e) az 1. mellékletben meghatározott csatornák, tározók, árvízvédelmi fővédvonalak és egyéb vízi létesítmények, valamint az állami tulajdonban álló vízi közművek,
 - f) az országos közutak és azok műtárgyai, ide nem értve a közút tartozékát képező, az ingatlan-nyilvántartásban várakozóhelyként, pihenőhelyként feltüntetett önálló ingatlant, valamint a közúti közlekedésről szóló törvény szerinti útcsatlakozást,
-- g) állami tulajdonban álló terek, parkok,
+- g) állami tulajdonban álló terek, parkok, közkertek,
 - h) az 1. mellékletben meghatározott országos törzshálózati vasúti pályák és azok tartozékai,
 - i) az állami tulajdonban lévő nemzetközi kereskedelmi repülőtér, a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt,
 - j) a barlang,
@@ -87,7 +88,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 
 (3)
 
-(4) Korlátozottan forgalomképes nemzeti vagyonnak minősül a 2. melléklet I. pontja szerinti nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon körébe nem tartozó, többségi állami tulajdonban álló, a közbeszerzésekről szóló 2011. évi CVIII. törvény XIV. fejezetében meghatározott közszolgáltatási tevékenységet ellátó gazdasági társaságban fennálló, állami tulajdonban lévő társasági részesedés.
+(4) Korlátozottan forgalomképes nemzeti vagyonnak minősül a 2. melléklet I. pontja szerinti nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon körébe nem tartozó, többségi állami tulajdonban álló, a közbeszerzésekről szóló törvényben meghatározott közszolgáltatási tevékenységet ellátó gazdasági társaságban fennálló, állami tulajdonban lévő társasági részesedés.
 
 (5) A (4) bekezdés szerinti nemzeti vagyon – a (6) bekezdésben foglalt kivétellel – kizárólag helyi önkormányzat vagy önkormányzati társulás részére idegeníthető el. A korlátozott forgalomképesség a (4) bekezdés szerinti nemzeti vagyon tekintetében addig áll fenn, amíg a gazdasági társaság közszolgáltatási tevékenységet lát el.
 
@@ -108,7 +109,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 (3) A helyi önkormányzat kizárólagos tulajdonát képező nemzeti vagyonba tartoznak
 
 - a) a helyi közutak és műtárgyaik,
-- b) a helyi önkormányzat tulajdonában álló terek, parkok,
+- b) a helyi önkormányzat tulajdonában álló terek, parkok, közkertek,
 - c) a helyi önkormányzat tulajdonában álló nemzetközi kereskedelmi repülőtér, a hozzá tartozó légiforgalmi távközlő, rádiónavigációs és fénytechnikai berendezésekkel és eszközökkel, továbbá a légiforgalmi irányító szolgálat elhelyezését szolgáló létesítményekkel együtt, valamint
 - d) a helyi önkormányzat tulajdonában álló – külön törvény rendelkezése alapján részére átadott –vizek, közcélú vízi létesítmények, ide nem értve a vízi közműveket.
 
@@ -161,7 +162,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 
 7. § (1) A nemzeti vagyon alapvető rendeltetése a közfeladat ellátásának biztosítása, ideértve a lakosság közszolgáltatásokkal való ellátását és e feladatok ellátásához szükséges infrastruktúra biztosítását. A nemzeti vagyonnal felelős módon, rendeltetésszerűen kell gazdálkodni.
 
-(2) A nemzeti vagyongazdálkodás feladata a nemzeti vagyon megőrzése, értékének és állagának védelme, rendeltetésének megfelelő, az állam, az önkormányzat mindenkori teherbíró képességéhez igazodó, elsődlegesen a közfeladatok ellátásához és a mindenkori társadalmi szükségletek kielégítéséhez szükséges, egységes elveken alapuló, átlátható, hatékony és költségtakarékos működtetése, értéknövelő használata, hasznosítása, gyarapítása, továbbá az állam vagy a helyi önkormányzat feladatának ellátása szempontjából feleslegessé váló vagyontárgyak elidegenítése. A kiemelt kulturális örökségvédelmi és természetvédelmi szempontok – kulturális és természeti értékek jövő nemzedékek számára való megőrzése érdekében történő – érvényesítésének nem akadálya a vagyon értékváltozása.
+(2) A nemzeti vagyongazdálkodás feladata a nemzeti vagyon megőrzése, értékének és állagának védelme, rendeltetésének megfelelő, az állam, az önkormányzat mindenkori teherbíró képességéhez igazodó, elsődlegesen a közfeladatok ellátásához és a mindenkori társadalmi szükségletek kielégítéséhez szükséges, egységes elveken alapuló, átlátható, hatékony és költségtakarékos működtetése, értéknövelő használata, hasznosítása, gyarapítása, továbbá az állam vagy a helyi önkormányzat feladatának ellátása szempontjából feleslegessé váló vagyontárgyak elidegenítése, azzal, hogy a nemzeti vagyon megőrzése érdekében végzett bontás vagy átalakítás nem minősül az állag védelmi kötelezettség megszegésének. A kiemelt kulturális örökségvédelmi és természetvédelmi szempontok – kulturális és természeti értékek jövő nemzedékek számára való megőrzése érdekében történő – érvényesítésének nem akadálya a vagyon értékváltozása.
 
 7/A. § (1) Az állam tulajdonában álló nemzeti vagyon tekintetében tulajdonosi joggyakorló kizárólag
 
@@ -177,7 +178,7 @@ lehet.
 
 (3) A 2. mellékletben felsorolt állami tulajdonban álló nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő gazdasági társasági részesedések felett a tulajdonosi jogok gyakorlására kizárólag
 
-- a) törvényben kijelölt miniszter,
+- a) miniszter,
 - b) központi költségvetési szerv vagy
 - c) az állam 100%-os tulajdonában álló gazdálkodó szervezet
 
@@ -232,17 +233,17 @@ jóváhagyó határozata szükséges.
 
 #### 5. A nemzeti vagyon kezelése, hasznosítása
 
-11. § (1) A vagyonkezelői jog az (5) bekezdésben meghatározott kivétellel vagyonkezelési szerződéssel jön létre. A nemzeti vagyon tekintetében vagyonkezelési szerződés az (5) bekezdésben meghatározott kivétellel, továbbá a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–af) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető, és a vagyonkezelői jog kizárólag általuk gyakorolható.
+11. § (1) A vagyonkezelői jog az (5) bekezdésben meghatározott kivétellel vagyonkezelési szerződéssel jön létre. A nemzeti vagyon tekintetében vagyonkezelési szerződés az (5) bekezdésben meghatározott kivétellel, továbbá a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető, és a vagyonkezelői jog kizárólag általuk gyakorolható.
 
-(2) A nemzeti vagyon tekintetében haszonélvezeti jogot alapító szerződés a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–af) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető és a haszonélvezeti jog kizárólag általuk gyakorolható.
+(2) A nemzeti vagyon tekintetében haszonélvezeti jogot alapító szerződés a 12. §-ban foglaltak szerinti korlátozásokkal, kizárólag a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyekkel köthető és a haszonélvezeti jog kizárólag általuk gyakorolható.
 
 (3) A vagyonkezelési szerződés, valamint a haszonélvezeti jogot alapító szerződés versenyeztetés nélkül köthető.
 
 (4) A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés e törvény erejénél fogva megszűnik, ha a vagyonkezelő vagy a haszonélvező a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, illetve b) alpont bd) vagy be) alpontjában meghatározott tulajdonosi szerkezete megváltozik. A vagyonkezelési vagy haszonélvezeti jogot alapító szerződés megszűnésének időpontja az a nap, amelyen a 3. § (1) bekezdés 19. pont a) alpont ae) vagy af) alpontjában, vagy b) alpont bd) vagy be) alpontjában meghatározottaktól eltérő tulajdonosi szerkezetet eredményező tulajdonosváltozás bekövetkezik.
 
-(5) A vagyonkezelői jog kivételesen törvényben történő kijelöléssel, a törvényben megjelölt – a 3. § (1) bekezdés 19. pontjában felsoroltak körébe tartozó – személyekkel, vagy a törvényben egyedileg meghatározott jogi személlyel jön létre. Az állam és a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon, a 2. mellékletben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon, valamint az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége tekintetében a 3. § (1) bekezdés 19. pont a) alpont aa)–af) alpontjában, valamint b) és c) alpontjában felsorolt személyeken kívül kijelölés nem alkalmazható.
+(5) A vagyonkezelői jog kivételesen törvényben történő kijelöléssel, a törvényben megjelölt – a 3. § (1) bekezdés 19. pontjában felsoroltak körébe tartozó – személyekkel, vagy a törvényben egyedileg meghatározott jogi személlyel jön létre. Az állam és a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon, a 2. mellékletben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon, valamint az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége tekintetében a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyeken kívül kijelölés nem alkalmazható.
 
-(6) Központi költségvetési szerv a működéséhez szükséges, a számviteli törvény szerinti immateriális jószág, tárgyi eszköz (műszaki berendezés, gép, felszerelés stb.), készlet megvásárlására – ingatlan kivételével – adásvételi szerződést köthet. Ezen vagyonelem – ha értéke a külön törvényben meghatározott értékhatárt nem haladja meg – e törvény erejénél fogva az állam tulajdonába és vagyonkezelési szerződés megkötése nélkül a központi költségvetési szerv vagyonkezelésébe kerül.
+(6) Központi költségvetési szerv a működéséhez szükséges, az államháztartási számvitelről szóló kormányrendelet szerinti immateriális jószág, tárgyi eszköz (különösen műszaki berendezés, gép, felszerelés, készlet) valamint egyéb ingóság megvásárlására – ingatlan kivételével – adásvételi szerződést köthet. Ezen vagyonelem e törvény erejénél fogva az állam tulajdonába és vagyonkezelési szerződés megkötése nélkül a központi költségvetési szerv vagyonkezelésébe és a fennálló vagyonkezelési szerződése hatálya alá kerül azzal, hogy a központi költségvetési szerv köteles – a vagyon-nyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemet.
 
 (6a) A vagyonkezelőt e törvény erejénél fogva változatlan feltételekkel megilleti a vagyonkezelői jog mindazon vagyonelemre, amely a vagyonkezelésében lévő vagyonból bármely módon – így különösen kitermelés, bontás, megosztás útján – újonnan jön létre, feltéve hogy az újonnan létrejövő vagyonelem és a vagyonkezelő vagyonkezelésében lévő vagyonelem tulajdonosa megegyezik. A felek eltérő megállapodásának hiányában a vagyonkezelői jog e törvény erejénél fogva kiterjed arra a vagyonelemre is – ideértve a tartozékot és az alkotórészt is –, amely a vagyonkezelői jogviszony fennállása alatt válik a vagyon részévé.
 
@@ -261,6 +262,8 @@ jóváhagyó határozata szükséges.
 (9) A központi költségvetési szervek a vagyonkezelési szerződésben foglalt jogokat és kötelezettségeket – az ingatlanokra vonatkozó jogok és kötelezettségek kivételével – egymás között szerződéssel átruházhatják.
 
 (10) A nemzeti vagyon hasznosítására vonatkozó szerződés csak természetes személlyel vagy átlátható szervezettel köthető. A hasznosításra irányuló szerződés határozatlan vagy legfeljebb 15 éves határozott időre köthető, amely időszak egy alkalommal legfeljebb 5 évvel meghosszabbító abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. E bekezdés szerinti korlátozás nem vonatkozik az állammal, költségvetési szervvel, önkormányzattal vagy önkormányzati társulással kötött szerződésre.
+
+(10a) A Kormány kiemelt nemzetgazdasági érdekből nyilvános határozatban dönthet az állami vagyon hasznosítására irányuló szerződés legfeljebb 30 éves határozott időre történő megkötéséről, amennyiben az állami vagyont érintő beruházás megtérülési ideje ezt kifejezetten indokolja.
 
 (11) Nemzeti vagyon hasznosítására vonatkozó szerződés kizárólag olyan természetes személlyel vagy átlátható szervezettel köthető, amely az átengedett nemzeti vagyon hasznosítására vonatkozó szerződésben vállalja, hogy
 
@@ -287,7 +290,8 @@ jóváhagyó határozata szükséges.
 
 - a) államháztartási körbe tartozó szervezet,
 - b) jogszabályban előírt állami vagy önkormányzati feladatot ellátó gazdálkodó szervezet, vagy
-- c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő, az állam vagy a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek
+- c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő, az állam vagy a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek,
+- d) a közfeladatot ellátó, az állam közvetlen vagy közvetett tulajdonában álló gazdasági társaság vagyonkezelésében lévő, az állam tulajdonában álló lakások tekintetében a vagyonkezelővel vagy a vagyonkezelő tulajdonában álló gazdasági társasággal foglalkoztatásra irányuló jogviszonyban álló személyek
 
 javára történik.
 
@@ -369,7 +373,7 @@ részére átengedhető és kizárólag általuk gyakorolható.
 
 (2) Nemzeti vagyon tulajdonjogát átruházni természetes személy vagy átlátható szervezet részére lehet.
 
-(3) A nemzeti vagyon tulajdonjogát ingyenesen átruházni csak törvényben meghatározott esetekben és feltételekkel lehet. A nemzeti vagyonba tartozó leselejtezett tárgyi eszközt – amennyiben az a közfeladat ellátásához nem szükséges – a tulajdonosi joggyakorló ingyenesen átruházhatja.
+(3) A nemzeti vagyon tulajdonjogát ingyenesen átruházni csak törvényben meghatározott esetekben és feltételekkel lehet. A nemzeti vagyonba tartozó leselejtezett tárgyi eszközt – amennyiben az a közfeladat ellátásához nem szükséges – a tulajdonosi joggyakorló ingyenesen átruházhatja, ebben az esetben a (4) bekezdés b) pontját nem kell alkalmazni.
 
 (4) Nemzeti vagyon tulajdonjogának ingyenes átruházása esetén a tulajdonjogot megszerző félnek – az állam kivételével – eleget kell tennie a következő feltételeknek:
 
@@ -457,6 +461,8 @@ elővásárlási jogát követi, kivéve a kulturális örökség védelméről 
 
 17. § (1) E törvény hatálybalépését megelőzően jogszerűen és jóhiszeműen szerzett jogokat és kötelezettségeket e törvény rendelkezései nem érintik. Az e törvény hatálybalépése előtt létrejött szerződések időtartamának e törvény hatálybalépését követően történő meghosszabbítása új jogviszony létesítésének minősül, kivéve a 6. § (8) bekezdésében, a 11. § (10) bekezdésében, valamint a 12. § (3) bekezdésében meghatározott eseteket.
 
+(1a) Az e törvény hatálybalépése előtt létrejött vagyonkezelési szerződések – amennyiben a szerződés szerinti vagyonkezelő nem a 3. § (1) bekezdés 19. pontjában meghatározott jogi személy – a felek közös megegyezésével, új vagyonelemmel való bővítés nélkül – ide nem értve a 11. § (6a) bekezdésében foglalt eseteket – a hatályos jogszabályoknak megfelelő tartalommal módosíthatóak.
+
 (2) Az e törvényben meghatározott nemzeti vagyon körébe tartozó vagyonnak minősül az e törvény hatálybalépését követően az állam vagy az önkormányzat tulajdonába kerülő vagyon. Az 1. mellékletben nem szereplő, e törvény hatálybalépését követően létrejövő vagy bármilyen más jogcímen az állam tulajdonába kerülő folyóvizek és természetes tavak, a medrükkel együtt, valamint országos törzshálózati vasúti pálya e törvény erejénél fogva az állam kizárólagos tulajdonában álló nemzeti vagyonnak minősül.
 
 (3) Nemzetközi szerződés eltérő rendelkezése hiányában, Magyarország határa által körbezárt területen lévő nemzeti vagyonra vonatkozó polgári jogi szerződésben a nemzeti vagyonnal rendelkezni jogosult irányadóként kizárólag a magyar nyelv és a magyar jog alkalmazását, jogvita esetére kizárólag a magyar bíróság joghatóságát kötheti ki. A magyar bíróság joghatóságának kizárólagossága nem érinti a választottbíróság kikötésének jogát.
@@ -509,7 +515,7 @@ elővásárlási jogát követi, kivéve a kulturális örökség védelméről 
 
 - a) I. Fejezete, 4. §-a, 6–8. §-a, 10–11. §-a, 12. § (1) és (3)–(15) bekezdése, 13. §-a, 17. § (2) bekezdése, 18. §-a, 18/A. §-a és 18/C. §-a, valamint 1. és 2. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján,
 - b) 5. §-a, 9. §-a és 12. § (2) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján,
-- c) 14. §-a, 15. §-a és 17. § (1) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése, valamint az Alaptörvény 31. cikk (3) bekezdése alapján
+- c) 14. §-a, 15. §-a és 17. § (1)–(1a) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése, valamint az Alaptörvény 31. cikk (3) bekezdése alapján
 
 sarkalatosnak minősül.
 
@@ -1101,6 +1107,12 @@ b) Kiskunsági-főcsatorna
 | Hortobágy-Berettyó jobbpart | Nagykunsági | 54,280 |
 | Hortobágy-Berettyó jobbpart | Fegyvernek-mesterszállási | 16,200 |
 | Ipoly balpart | Balassagyarmati | 4,150 |
+| Ipoly balpart | Ipolydamásdi | 1,505 |
+| Ipoly balpart | Letkési | 8,198 |
+| Ipoly balpart | Ipolytölgyesi | 3,397 |
+| Ipoly balpart | Ipolyvecei | 9,182 |
+| Ipoly balpart | Dejtári | 7,825 |
+| Ipoly balpart | Szécsényi | 8,053 |
 | Kálló főcs. balpart | Berettyóújfalui | 1,925 |
 | Kálló főcs. jobbpart | Nagy-Sárréti | 11,210 |
 | Keleti főcs. balpart | Tiszanagyfalu-tiszalöki | 3,475 |
@@ -1283,9 +1295,9 @@ bc) Az árvízi tározó töltő-ürítő és határoló vízi létesítményei
 
 | Folyó megnevezése | A műtárgy neve |
 | --- | --- |
-| Által-ér | Vecserei zsilip |
+| Által-ér | Tatai Öreg-tó Vecserei zsilip |
 | Duna | Dunakiliti fenékküszöb |
-| Duna | Dunakiliti vízlépcső |
+| Duna | Dunakiliti duzzasztómű és hajózsilip |
 | Dunacsúny-Rajkai-szivárgócsatorna | Homokparti (II. sz.) zsilip |
 | Rajka-Dunakiliti-szivárgócsatorna | Záperdei (III. sz.) zsilip |
 | Rajka-Dunakiliti-szivárgócsatorna | Diós (IV. sz.) zsilip |
@@ -1293,81 +1305,29 @@ bc) Az árvízi tározó töltő-ürítő és határoló vízi létesítményei
 | Fehér-Körös | Gyulai duzzasztó |
 | Hármas-Körös | Békésszentandrási vízlépcső |
 | Hármas-Körös | Bökényi vízlépcső |
-| Hernád | Hernádszurdok fixgát |
+| Hernád | Hernádszurdoki duzzasztó |
 | Hortobágy-Berettyó | Ágotai vészelzárómű |
 | Hortobágy-Berettyó | Mezőtúri torkolati árvízkapu |
 | Hortobágy-Berettyó | Mezőtúri torkolati hármaszsilip |
 | Kettős-Körös | Békési duzzasztó |
-| Lajta | Lajta Mosonmagyaróvári duzzasztó |
+| Lajta | Lajta duzzasztó (Mosonmagyaróvár) |
 | Lónyay-főcsatorna | Lónyay-főcsatorna torkolati műtárgy (árvízkapu) |
 | Marcal | Marcal duzzasztó |
-| Mosoni-Duna | Rajkai vízkivételi zsilip |
+| Mosoni-Duna | Rajkai (I. sz.) vízkivételi zsilip |
 | Mosoni-Duna | Vigh (VI. sz.) zsilip |
 | Mosoni-Duna | Mosonmagyaróvári duzzasztó |
+| Mosoni-Duna | Iparcsatorna árvízkapu |
 | Rába | Szentgotthárdi duzzasztó |
 | Rába | Nicki duzzasztó |
-| Ráckevei-Duna | Kvassay zsilip |
-| Ráckevei-Duna | Tassi zsilip |
-| Sebes-Körös | Biharugrai fenékgát |
+| Ráckevei-Duna | Kvassay vízlépcső |
+| Ráckevei-Duna | Tassi duzzasztómű és hajózsilip |
+| Sebes-Körös | Biharugrai duzzasztó |
 | Sebes-Körös | Körösladányi duzzasztó |
 | Sió | Siófoki leeresztő zsilip és hajózsilip |
 | Sió | Balatonkiliti mederduzzasztó |
-| Sió | Sió árvízkapu |
+| Sió | Sió Torkolati Mű |
 | Tisza | Tisza tó |
 | Tisza | Tiszalöki vízlépcső |
-| Tisza | Kiskörei vízlépcső |
-| Túr | Sonkádi duzzasztó |
-| Túr | Túr torkolati műtárgy |
-| Duna-Tisza-csatorna | Dunaharaszti tűsgát |
-| Duna-Tisza-csatorna | Sári-zsilip |
-| Ferenc-tápcsatorna | Deák Ferenc zsilip |
-| Hanság-főcsatorna | Mekszikópusztai zsilip |
-| Jászsági-főcsatorna | Beeresztő zsilip |
-| Jászsági-főcsatorna | Hanyi vízleadó |
-| Jászsági-főcsatorna | Sajfoki vízleadó |
-| Jászsági-főcsatorna | 28-as vízleadó |
-| K-III. főcsatorna | K-III. fővízkivétel |
-| K-III. főcsatorna | I. sz. vízszintszabályzó |
-| K-III. főcsatorna | II. sz. vízszintszabályzó |
-| K-III. főcsatorna | III. sz. vízszintszabályzó |
-| K-III. főcsatorna | IV. sz. vízszintszabályzó |
-| K-III. főcsatorna | V. sz. vízszintszabályzó |
-| K-IV. főcsatorna | K-IV. fővízkivétel |
-| K-IV. főcsatorna | 6T. automatikus vízszintszabályzó |
-| K-IV. főcsatorna | 9T. automatikus vízszintszabályzó |
-| K-IV. főcsatorna | 14T. automatikus vízszintszabályzó |
-| K-IV. főcsatorna | 16T. automatikus vízszintszabályzó |
-| K-IV. főcsatorna | 20T. automatikus vízszintszabályzó |
-| K-IV. főcsatorna | 24T. automatikus vízszintszabályzó |
-| Keleti-főcsatorna | Tiszavasvári-keleti vízbeeresztő- és hajózsilip |
-| Keleti-főcsatorna | Balmazújvárosi bukó |
-| Keleti-főcsatorna | Hajdúszoboszlói bukó |
-| Keleti-főcsatorna | Bakonszegi zsilip |
-| Kiskunsági-főcsatorna | Tassi zsilip |
-| Kiskunsági-főcsatorna | Homoki zsilip |
-| Kiskunsági-főcsatorna | Halas-tói zsilip |
-| Kiskunsági-főcsatorna | DVCS-kitorkollás |
-| Kiskunsági-főcsatorna | Akasztói zsilip |
-| Nagykunsági-főcsatorna | Beeresztő zsilip |
-| Nagykunsági-főcsatorna | 14. sz. alvízszint-szabályzó |
-| Nagykunsági-főcsatorna | 31. sz. alvízszint-szabályzó |
-| Nagykunsági-főcsatorna | 34. sz. alvízszint-szabályzó |
-| Nagykunsági-főcsatorna | Leürítő zsilip |
-| Nagykunsági-főcsatorna (Keleti ág) | 18. sz. alvízszint-szabályzó |
-| Nagykunsági-főcsatorna (Keleti ág) | Fenékleürítő |
-| NK-III-2. öntözőcsatorna | 1. sz. alvízszint-szabályzó |
-| NK-III-2. öntözőcsatorna | 7. sz. zsilip |
-| NK-III-2. öntözőcsatorna | 14. sz. alvízszint-szabályzó |
-| NK-III-2. öntözőcsatorna | 20. sz. alvízszint-szabályzó |
-| NK-III-2. öntözőcsatorna | 21. sz. alvízszint-szabályzó |
-| NK-III-2. öntözőcsatorna | 22. sz. alvízszint-szabályzó |
-| Nyugati-főcsatorna | Tiszavasvári-nyugati vízbeeresztő zsilip |
-| Nyugati-főcsatorna | I. vízszintszabályzó |
-| Nyugati-főcsatorna | II. vízszintszabályzó |
-| Nyugati-főcsatorna | III. vízszintszabályzó |
-| Nyugati-főcsatorna | Hármas elosztó zsilip |
-| Rábca árapasztó csatorna | Rábca árvízkapu |
-| Takta-övcsatorna | Kesznyéteni árvízkapu |
 
 5. Regionális vízi közműből a közművagyon
 
@@ -1911,7 +1871,7 @@ bc) Az árvízi tározó töltő-ürítő és határoló vízi létesítményei
 | Tatai-Öreg-tó | 2,000 |
 | Zámolyi-tározó | 3,300 |
 
-8. Összetett létesítmények (vizek), amelyek más létesítményeket (vizeket) tartozékként magukban foglalnak
+8. Összetett vízilétesítmények
 
 | Létesítmény megnevezése | A tartozékként kezelendő létesítmény(ek) típusa |
 | --- | --- |
@@ -2166,7 +2126,6 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | Garantiqa Hitelgarancia Zrt. | 25%+1 szavazat |
 | Regionális Fejlesztési Holding Zrt. | 100% |
 | Nemzeti Infokommunikációs Szolgáltató Zrt. | 100% |
-| Tiszavíz Vízerőmű Energetikai Kft. | 100% |
 | Concordia Közraktár Kereskedelmi Zrt. | 100% |
 | Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. | 100% |
 | Szerencsejáték Zrt. | 100% |
@@ -2373,7 +2332,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 5.8. | KOMLÓSKA Rákóczi u. 50. | rutén tájház |
 | 5.9. | KURITYÁN | pálos templom- és kolostorrom |
 | 5.10. | MARTONYI Háromhegy | pálos templom- és kolostorrom |
-| 5.11. | MÁD Rákóczi u. 75. | zsinagóga |
+| 5.11. |  |  |
 | 5.12. | MISKOLC Bükkszentlélek | pálos templom- és kolostorrom |
 | 5.13. | MISKOLC Diósgyőr Vár u. | vár |
 | 5.14. | MISKOLC Hámor Újmassa | őskohó |

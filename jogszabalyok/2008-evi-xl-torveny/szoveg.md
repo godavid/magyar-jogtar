@@ -55,6 +55,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 8. Egyetemes szolgáltatás: a jogosult felhasználók földgázellátására vonatkozó, e törvényben és külön jogszabályban meghatározott szolgáltatások értékesítése.
 - 9.
 - 9a. Egyensúlyozó platform: a 312/2014/EU bizottsági rendelet 3. cikk 6. pontjában meghatározott fogalom.
+- 9b. Egyensúlyozási elszámolás: az elszámolóház által a rendszerhasználók gáznapi kereskedelmi egyensúlytalansága következtében a 312/2014/EU bizottsági rendelet alapján a szállítási rendszerüzemeltető által végzett egyensúlyozási tevékenység pénzügyi elszámolása.
 - 10. Együttműködő földgázrendszer: a rendszer-összekötési pontokkal határolt, összekapcsolt szállítóvezeték, a szállítóvezetékhez kapcsolódó elosztóvezeték, a földgáztároló, valamint a részleges szigetüzem.
 - 11. Ellátás biztonsági szint: a földgázellátásnak a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározott felkészülési feltételei, amelyek mértékéig a felhasználók földgázellátása rendkívüli intézkedések nélkül még biztosítható.
 - 11a. Elosztóhálózat-használati szerződés: a földgázelosztó és a felhasználó között létrejött szerződés, amely alapján a felhasználó az elosztóvezetéket a földgázelosztói csatlakozási szerződésben meghatározott vásárolt kapacitás mértékéig használhatja.
@@ -62,6 +63,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 13. Előre fizető mérő: olyan fogyasztásmérő berendezés, amely a földgáz ellenértékének előzetes megfizetését követően biztosítja a földgáz vételezését.
 - 13a. Elszámolási időszak: szerződésben megállapított, elszámolás alapjául szolgáló, két mérőleolvasás közötti időszak;
 - 14. Elszámolási mérés: az Üzemi és Kereskedelmi Szabályzat szerint kialakított, rendszerüzemeltető által működtetett, a mérésügyi jogszabályok szerint mérésre alkalmas fogyasztásmérő berendezés adatainak rögzítése a földgázforgalom meghatározása érdekében.
+- 14a. Elszámolóház: a szállítási rendszerüzemeltető által kiírt pályázaton nyertes központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet (szakosított hitelintézet, illetve annak a teljesítés során közreműködő kapcsolt vállalkozása), amely az egyensúlyozási elszámolást, valamint a Kereskedési Platformon kötött ügyletek anonim elszámolását végzi, valamint az ügyletek klíringjével és garantálásával kapcsolatos szolgáltatásokat nyújt.
 - 15. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Hivatal által kiadott érvényes engedéllyel rendelkezik.
 - 16. Felhasználási hely: az az ingatlan, ahol a csatlakozóvezeték, a felhasználói berendezés, a gázmérőhely, a fogyasztói főcsap vagy a gázfogyasztást szolgáló nyomásszabályozó van, ide nem értve a közvetlen szállítóvezetéki felhasználó ellátását szolgáló gázátadó állomást.
 - 17. Felhasználó: aki földgázt vagy vezetéken keresztül PB-gázt saját felhasználás céljára vásárol.
@@ -962,7 +964,7 @@ a Hivatal a kérelmet ezekre nézve visszautasíthatja, az eljárást megszünte
 
 ### A földgázellátásból történő kikapcsolás alóli mentesség
 
-64/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi vagy közoktatási intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a földgázkereskedőnél és a földgázelosztónál a földgázellátásból fizetési késedelem miatt történő kikapcsolás alóli mentesség (a továbbiakban: moratórium) biztosítását.
+64/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, köznevelési vagy szakképző intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a földgázkereskedőnél és a földgázelosztónál a földgázellátásból fizetési késedelem miatt történő kikapcsolás alóli mentesség (a továbbiakban: moratórium) biztosítását.
 
 (2) A moratórium a közintézményi felhasználó kezdeményezése szerinti időszakra, de legfeljebb az adott év október 15. és az azt követő év április 15. közötti időszakra terjed ki.
 
@@ -1318,11 +1320,11 @@ földgázrendszerhez való hozzáférés
 
 88. § (1) A csatlakozóvezeték és a felhasználói berendezés létesítése az ingatlantulajdonos kötelezettsége. Az elkészült csatlakozóvezeték és a felhasználói berendezés az ingatlantulajdonos tulajdonát képezi. A csatlakozóvezeték és a felhasználói berendezés üzemeltetése a felhasználó kötelezettsége.
 
-(2) A csatlakozóvezeték- és a felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenység folytatására irányuló szándékot a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint be kell jelenteni a területi műszaki biztonsági hatósághoz. A tevékenységet az folytathatja, aki rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek. A bejelentés alapján műszaki biztonsági hatóság a nyilvántartásba vétellel egyidejűleg hivatalból igazolványt állít ki a jogosult számára. A jogosultságot a földgázelosztónál és az ingatlantulajdonosnál vagy a felhasználónál a létesítés előtt igazolni kell.
+(2) A csatlakozóvezeték- és a felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenység folytatására irányuló szándékot a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint be kell jelenteni a Magyar Mérnöki Kamarához (a továbbiakban: MMK). A tevékenységet az folytathatja, aki rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel és megfelel az ott meghatározott egyéb feltételeknek. A bejelentés alapján az MMK a nyilvántartásba vétellel egyidejűleg hivatalból igazolványt állít ki a jogosult számára. A jogosultságot a földgázelosztónál és az ingatlantulajdonosnál vagy a felhasználónál a létesítés előtt igazolni kell.
 
-(3) A bejelentett és jogosult gázszerelőkről és gázkészülék-javítókról (a továbbiakban: gázszerelő) a műszaki biztonsági hatóság által vezetett nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a gázszerelő nevét, születésének helyét és időpontját, a gázszerelő képesítésének megnevezését, az általa végezhető tevékenységek meghatározását, valamint az igazolvány számát.
+(3) A bejelentett és jogosult gázszerelőkről és gázkészülék-javítókról (a továbbiakban: gázszerelő) az MMK által vezetett nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a gázszerelő nevét, születésének helyét és időpontját, a gázszerelő képesítésének megnevezését, az általa végezhető tevékenységek meghatározását, valamint az igazolvány számát.
 
-(3a) A műszaki biztonsági hatóság törli a gázszerelőt a nyilvántartásból, ha a gázszerelő megsértette a gázszerelésre vonatkozó – jogszabályban előírt – szakmai szabályokat és ezt a műszaki-biztonsági hatóság megállapította.
+(3a) Az MMK törli a gázszerelőt a nyilvántartásból, ha a gázszerelő megsértette a gázszerelésre vonatkozó – jogszabályban előírt – szakmai szabályokat és ezt az MMK megállapította.
 
 (4) A nyilvántartást vezető hatóság a gázszerelők jegyzékét honlapján közzéteszi, mely tartalmazza a gázszerelő nevét és igazolvány számát. A gázszerelő hozzájárulása esetén a jegyzékben feltüntetésre kerül a gázszerelő értesítési címe, telefonszáma, faxszáma, elektronikus postacíme.
 
@@ -1365,6 +1367,8 @@ földgázrendszerhez való hozzáférés
 91. § (1) A szállítóvezetéken a hidraulikai egyensúlyt a szállítási rendszerüzemeltető biztosítja. A rendszerhasználó napi kereskedelmi egyensúlytartásra kötelezett, ennek keretében a rendszerhasználó köteles az egy adott gáznapon a szállítóvezetékből vételezett gázmennyiséget ugyanezen a gáznapon betáplálni a szállítóvezetékbe az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint.
 
 (1a) A kereskedelmi egyensúly 312/2014/EU bizottsági rendeletben, e törvény végrehajtásáráról szóló kormányrendeletben, valamint Üzemi és Kereskedelmi Szabályzatban meghatározott módon történő helyreállításának elmulasztása esetén a rendszerhasználó viseli mindazon költségeket, amelyek a mulasztása következtében az egyensúlyi eltérés miatt felmerültek.
+
+(1b) A kereskedelmi egyensúly szállítási rendszerüzemeltető részéről történő helyreállítása következtében szükséges egyensúlyozási elszámolást a szállítási rendszerüzemeltető által rendelkezésre bocsátott adatok alapján az elszámolóház végzi a rendszerhasználók és a szállítási rendszerüzemeltető kötelező elszámolóházi klíringtagsága mellett és az elszámolóházzal e tárgyban kötött szerződésük szerint.
 
 (2) A szállítási rendszerüzemeltető felelős az általa üzemeltetett szállítóvezetéknek, a földgázelosztó pedig az elosztóvezetéknek a napon belüli hidraulikai egyensúlyáért.
 
@@ -1422,7 +1426,7 @@ ha megfelel a kereskedési platform szabályzatában meghatározott követelmén
 93. § (1) A szállítási rendszerüzemeltető rendszeregyensúlyozási feladatai a következők:
 
 - a) a rendszeregyensúly megtervezése,
-- b) a hidraulikai egyensúly biztosítása érdekében, a napi operatív beavatkozások végrehajtása, valamint a felhasznált egyensúlyozó földgáz mennyiségi elszámolása és az egyensúlyozási pótdíjak meghatározása,
+- b) a hidraulikai egyensúly biztosítása érdekében a napi operatív beavatkozások végrehajtása, a felhasznált kiegyensúlyozó földgáz mennyiségi elszámolása és a kiegyensúlyozó földgáz díjának meghatározása,
 - c) a szállítóvezetékek forrás és felhasználói oldali kapcsolatainak irányítása és koordinálása,
 - d) földgázellátási válsághelyzet esetén a Kormány és a miniszter által elrendelt intézkedések végrehajtása,
 - e) a 312/2014/EU bizottsági rendelet előírásai szerinti adatszolgáltatás a rendszerhasználók részére.
@@ -2785,7 +2789,7 @@ tartalmazza.
 - 3. a csatlakozóvezeték és a felhasználói berendezés, valamint a telephelyi vezeték létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeit, feltételeit, a műszaki biztonsági dokumentáció tartalmát,
 - 4. a gázfogyasztó készülékek forgalomba hozatalára, üzembe helyezésére, üzemeltetésére, valamint megfelelőségük tanúsítására vonatkozó részletes szabályokat,
 - 5.
-- 6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak és a gázszerelők bejelentése esetén fizetendő díj – ideértve a jogorvoslati díjat is – mértékét és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+- 6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásért fizetendő igazgatási szolgáltatási díj – ideértve a jogorvoslati díjat is – mértékét és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (3)
 

@@ -23,7 +23,7 @@ az e törvényben meghatározott szabályok szerint osztottan illeti meg.
 
 (6) Az (1) bekezdés a) pontja és a (4) bekezdés szerint figyelembe vehető kiadásokat a (2) bekezdésben felsorolt bevételek legfeljebb 50%-áig terjedő mértékben lehet érvényesíteni.
 
-3. § A fővárosi önkormányzatot és a kerületi önkormányzatokat a 2. § alapján osztottan megillető bevételekből a fővárosi önkormányzatot 54%, a kerületi önkormányzatokat együttesen 46% részesedés illeti meg. A fővárosi önkormányzat az őt megillető 54%-ból a helyi közösségi közlekedési feladat ellátására az ehhez szükséges összeget köteles a tárgyévben fordítani.
+3. § A fővárosi önkormányzatot és a kerületi önkormányzatokat a 2. § alapján osztottan megillető bevételekből a fővárosi önkormányzatot 54%, a kerületi önkormányzatokat együttesen 46% részesedés illeti meg. A fővárosi önkormányzat az őt megillető 54%-ból a helyi iparűzési adó részesedésének összegét elsőként a helyi közösségi közlekedési feladat ellátására köteles fordítani.
 
 4. § (1) A kerületi önkormányzatokat a 2. § (1) bekezdés a) pontja és a 2. § (2) bekezdése alapján a 3. § szerinti mértékben mindösszesen megillető forrás az egyes kerületi önkormányzatok között az 1. melléklet szerinti arányban kerül felosztásra.
 

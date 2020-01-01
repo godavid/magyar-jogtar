@@ -33,6 +33,8 @@ a védelmére.
 
 (6) Az alapvető jogok biztosa ellátja a 2011. évi CXLIII. törvénnyel kihirdetett, a kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni egyezmény fakultatív jegyzőkönyve 3. cikke szerinti nemzeti megelőző mechanizmus feladatait.
 
+(7) Az alapvető jogok biztosa az alapvető jogok tiszteletben tartása és hatékonyabb védelme érdekében javaslatot tehet az országos rendőrfőkapitánynak, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatójának, a terrorizmust elhárító szerv főigazgatójának, illetve az idegenrendészeti szerv főigazgatójának utasítás kiadására, módosítására vagy hatályon kívül helyezésére.
+
 3. § (1) Az alapvető jogok biztosának a jövő nemzedékek érdekeinek védelmét ellátó helyettese figyelemmel kíséri a jövő nemzedékek érdekeinek érvényesülését, és
 
 - a) rendszeresen tájékoztatja az alapvető jogok biztosát, az érintett intézményeket és a nyilvánosságot a jövő nemzedékek érdekeinek érvényesülésével kapcsolatos tapasztalatairól,
@@ -137,9 +139,13 @@ a védelmére.
 
 11. § Az alapvető jogok biztosa eljárása során független, csak a törvénynek van alárendelve, tevékenységével összefüggésben nem utasítható.
 
-12. § (1) Az alapvető jogok biztosa miniszteri illetményre és juttatásokra jogosult azzal, hogy a vezetői illetménypótlék mértéke a miniszteri vezetői illetménypótlék másfélszerese.
+12. § (1) Az alapvető jogok biztosa az Országgyűlésről szóló 2012. évi XXXVI. törvény szerinti képviselői tiszteletdíj 2,5-szeresének megfelelő illetményre jogosult.
 
-(2) Az alapvető jogok biztosának helyettese államtitkári illetményre és juttatásokra jogosult.
+(1a) Az alapvető jogok biztosa az (1) bekezdésben meghatározott illetményen túl miniszteri juttatásra jogosult.
+
+(2) Az alapvető jogok biztosának helyettese a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult.
+
+(2a) Az alapvető jogok biztosának helyettese a (2) bekezdésben meghatározott illetményen túl államtitkári juttatásra jogosult.
 
 (3) Az alapvető jogok biztosát és helyettesét naptári évenként negyven munkanap szabadság illeti meg.
 
@@ -214,7 +220,7 @@ a védelmére.
 - g) közigazgatási jogkörben eljáró egyéb szerv e jogkörében,
 - h) nyomozó hatóság vagy az ügyészség nyomozást végző szerve,
 - i) közjegyző,
-- j) törvényszéki végrehajtó,
+- j)
 - k) önálló bírósági végrehajtó vagy
 - l) közszolgáltatást végző szerv
 
@@ -289,7 +295,7 @@ tevékenységét.
 - b) a vizsgált üggyel összefüggésbe hozható összes iratba betekinthet, azokról másolatot, kivonatot készíthet, és
 - c) a vizsgált hatóság bármely munkatársát meghallgathatja.
 
-(2) Az alapvető jogok biztosának vagy a felhatalmazása alapján a vizsgálatot végző munkatársának a helyszíni ellenőrzés során a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak a NAV nyomozó hatósági feladatokat ellátó területi szervei működésére szolgáló területekre történő belépésének, tartózkodásnak és kilépésének rendjét a honvédelemért felelős miniszter, a rendvédelmi szerv irányításáért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatalt irányító miniszter határozza meg.
+(2) Az alapvető jogok biztosának vagy a felhatalmazása alapján a vizsgálatot végző munkatársának a helyszíni ellenőrzés során a honvédelmi szervezet, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak a NAV nyomozó hatósági feladatokat ellátó területi szervei működésére szolgáló területekre történő belépésének, tartózkodásnak és kilépésének rendjét a honvédelemért felelős miniszter, a rendvédelmi szerv irányításáért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatalt irányító miniszter határozza meg.
 
 (3) A vizsgált hatóság helyiségébe való belépést szabályozó jogszabály a helyszíni ellenőrzést érdemben nem akadályozhatja.
 
@@ -415,14 +421,9 @@ tevékenységét.
 
 34. § Az alapvető jogok biztosa az Alkotmánybíróságról szóló törvényben meghatározottak szerint az Alkotmánybírósághoz fordulhat.
 
-34/A. § (1) Ha az alapvető jogok biztosa a vizsgálata során észleli, hogy az alapvető jogokkal kapcsolatos visszásságot önkormányzati rendelet más jogszabályba ütközése okozza, kezdeményezheti a Kúriánál az önkormányzati rendelet más jogszabállyal való összhangjának felülvizsgálatát.
+34/A. § (1) Ha az alapvető jogok biztosa a vizsgálata során észleli, hogy az alapvető jogokkal kapcsolatos visszásságot önkormányzati rendelet más jogszabályba ütközése okozza, kezdeményezheti az önkormányzati rendelet más jogszabállyal való összhangjának felülvizsgálatát.
 
-(2) Az (1) bekezdés szerinti indítvány tartalmazza
-
-- a) a Kúria által vizsgálandó önkormányzati rendeletet,
-- b) az önkormányzati rendelet jogszabálysértőnek talált rendelkezésének megjelölését,
-- c) azon jogszabályi rendelkezés megjelölését, amelyet az önkormányzati rendelet sért,
-- d) annak okát, hogy az alapvető jogok biztosa az adott rendelkezést miért tartja jogszabálysértőnek.
+(2)
 
 35. § (1) Ha az alapvető jogok biztosa vizsgálata során bűncselekmény gyanúját észleli, büntetőeljárást kezdeményez az annak megindítására jogosult szervnél. Ha az alapvető jogok biztosa vizsgálata során szabálysértés vagy fegyelmi vétség elkövetésének alapos gyanúját észleli, szabálysértési, illetve fegyelmi eljárást kezdeményez a szabálysértési, illetve a fegyelmi eljárás lefolytatására jogosult szervnél.
 
@@ -521,7 +522,7 @@ tevékenységét.
 
 41. § (1) Az alapvető jogok biztosának a feladatával kapcsolatos ügyvitel és előkészítés teendőit a Hivatal látja el.
 
-(2) A Hivatalt az alapvető jogok biztosa irányítja, és a főtitkár vezeti.
+(2) A Hivatalt az alapvető jogok biztosa irányítja, és a főtitkár vezeti. A Hivatalban foglalkoztatott köztisztviselőkre és munkavállalókra nézve a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (3) A Hivatal Szervezeti és Működési Szabályzatát az alapvető jogok biztosa normatív utasításban állapítja meg.
 

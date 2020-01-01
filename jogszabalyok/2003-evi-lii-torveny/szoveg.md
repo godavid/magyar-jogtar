@@ -200,7 +200,7 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (6) A kábítószerek vagy pszichotróp anyagok előállítására alkalmas növényfajok szaporítóanyagának előállítását és forgalomba hozatalát külön jogszabály feltételekhez kötheti.
 
-(7) E törvény felhatalmazása alapján kiadott jogszabályban meghatározott esetben szőlő, gyümölcs-, dísznövény és erdészeti szaporítóanyag, valamint zöldségpalánta előállítására és forgalomba hozatalára irányuló tevékenységet az folytathat, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek és rendelkezik a tevékenység végzéséhez szükséges, a növénytermesztési hatóság által kiadott engedéllyel.
+(7) E törvény felhatalmazása alapján kiadott jogszabályban meghatározott esetben szőlő-, gyümölcs- és erdészeti szaporítóanyag, valamint zöldségpalánta előállítására és forgalomba hozatalára irányuló tevékenységet az folytathat, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek és rendelkezik a tevékenység végzéséhez szükséges, a növénytermesztési hatóság által kiadott engedéllyel. Dísznövény-szaporítóanyag előállítására és forgalomba hozatalára irányuló tevékenységet az folytathat, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek és a tevékenység megkezdését a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentette a növénytermesztési hatóságnak.
 
 (8) A (7) bekezdés szerinti engedéllyel rendelkező előállítót, forgalmazót a nyilvántartást vezető szerv – a növénytermesztési hatóság megkeresésére – nyilvántartásba veszi.
 
@@ -391,7 +391,13 @@ megsemmisítését rendelheti el.
 
 (2) A növénytermesztési hatóság
 
-- a)–c)
+- a) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint eljár a
+  - aa) dísznövény-szaporítóanyagok előállításának és forgalomba hozatalának,
+  - ab) dísznövény-szaporítóanyagot előállító faiskola és palántanevelő üzem létesítésének
+
+bejelentése esetén.
+
+- b)–c)
 - d) kiadja a növényfajták állami elismeréséről, annak meghosszabbításáról, illetve visszavonásáról szóló határozatokat;
 - e) vezeti és közzéteszi a Nemzeti Fajtajegyzéket;
 - f) bejegyzi az új fajtafenntartókat;
@@ -403,7 +409,7 @@ megsemmisítését rendelheti el.
   - hd) a fémzárolt szaporítóanyag tételek kiszerelését,
   - he) a törzsültetvények létesítését,
   - hf) a faiskola és palántanevelő üzem létesítését,
-  - hg) a szőlő-, gyümölcs-, dísznövény-, erdészeti szaporítóanyagok, valamint zöldségpalánta előállítását és forgalomba hozatalát;
+  - hg) a szőlő-, gyümölcs-, erdészeti szaporítóanyagok, valamint zöldségpalánta előállítását és forgalomba hozatalát;
 - i) engedélyezheti a 15. § (1) bekezdésében foglaltaknak vagy e törvény végrehajtására kiadott jogszabály szerinti minősítési feltételeknek meg nem felelő szaporítóanyag eseti felhasználását;
 - j) ellenőrzi:
   - ja) a növényfajták fajtafenntartásának eredményességét, a fajtaleírásban rögzített morfológiai tulajdonságok alapján,
@@ -495,7 +501,7 @@ a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatár
 - a) szabályozza a minőségvédelmi bírság mértékét és kiszabásának rendjét,
 - b) jelölje ki a növénytermesztési hatóságot vagy hatóságokat,
 - c) állapítsa meg a szaporítóanyag-minősítés eljárási rendjét, a mintavétel szabályait, a mintavevői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, és
-- d) állapítsa meg a továbbszaporítás és az árutermesztés céljára szolgáló szántóföldi, kertészeti, szőlő-, gyümölcs-, dísznövény-, zöldség-, erdészeti növényfajták szaporítóanyaga előállításának, feldolgozásának, kiszerelésének és forgalomba hozatalának személyi és tárgyi feltételeit, valamint a 15. § (7) bekezdése szerinti engedély kiadásának rendjét és a 15. § (9) és (10) bekezdése szerinti bejelentés részletes szabályait, az engedély iránti kérelem, illetve a bejelentés, valamint a nyilvántartás személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
+- d) állapítsa meg a továbbszaporítás és az árutermesztés céljára szolgáló szántóföldi, kertészeti, szőlő-, gyümölcs-, dísznövény-, zöldség-, erdészeti növényfajták szaporítóanyaga előállításának, feldolgozásának, kiszerelésének és forgalomba hozatalának személyi és tárgyi feltételeit, valamint a 15. § (7) bekezdése szerinti engedély kiadásának rendjét és a 15. § (7), (9) és (10) bekezdése szerinti bejelentés részletes szabályait, az engedély iránti kérelem, illetve a bejelentés, valamint a nyilvántartás személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
 - e) jelölje ki a fajtavizsgálatot végző szervet,
 - f) jelölje ki a nyilvántartást vezető szervet.
 

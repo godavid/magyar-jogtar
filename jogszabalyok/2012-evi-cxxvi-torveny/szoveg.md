@@ -73,7 +73,7 @@ keletkezik.
 
 (3) Azon őstermelő, aki tárgyévben hatályos, de nem érvényesített őstermelői igazolvánnyal rendelkezik, a tárgyév negyedik hónapjától agrárkamarai tagságából származó jogait kizárólag az őstermelői igazolvány érvényesítését követően gyakorolhatja.
 
-(4) Az azonos időpontban az (1) bekezdés a) és b) pontjának is megfelelő gazda esetében egy agrárkamarai tagsági jogviszony keletkezik. E rendelkezést megfelelően alkalmazni kell arra az esetre is, ha a gazda azonos tárgyéven belül szünteti meg egyéni vállalkozói tevékenységét, de őstermelői igazolványt vált ki, adja vissza őstermelői igazolványát és vált ki egyéni vállalkozói igazolványt, vagy egyéni vállalkozását egyéni céggé alakítja át.
+(4) Az azonos időpontban az (1) bekezdés a) és b) pontjának is megfelelő gazda esetében egy agrárkamarai tagsági jogviszony keletkezik. E rendelkezést megfelelően alkalmazni kell arra az esetre is, ha a gazda azonos tárgyéven belül szünteti meg egyéni vállalkozói tevékenységét, de őstermelői igazolványt vált ki, adja vissza őstermelői igazolványát és egyéni vállalkozói tevékenység végzését jelenti be, vagy egyéni vállalkozását egyéni céggé alakítja át.
 
 (5) Az egyéni vállalkozói tevékenység szüneteltelése alatt az agrárkamarai tagsági jogviszony is szünetel, kivéve, ha a kamarai tagsági viszony az őstermelői igazolvány hatálya miatt egyébként fennáll.
 
@@ -132,7 +132,7 @@ az alapszabályban meghatározottak szerint önkéntesen vállal kamarai tagság
 
 (3) Az agrárkamarai tagsági viszony megszűnésével – a (4) és (5) bekezdésben foglaltakra is figyelemmel – az agrárkamara a volt agrárkamarai tagot törli a tag jegyzékből.
 
-(4) Az őstermelői igazolvánnyal és egyéni vállalkozói igazolvánnyal is rendelkező agrárkamarai tag tagsági viszonya kizárólag abban az esetben szűnik meg, ha a tagsági viszony megszűnésének mind az őstermelőkre, mind az egyéni vállalkozókra vonatkozó feltételei együttesen állnak fenn.
+(4) Az őstermelői igazolvánnyal rendelkező, egyéni vállalkozói tevékenységet folytató agrárkamarai tag tagsági viszonya kizárólag abban az esetben szűnik meg, ha a tagsági viszony megszűnésének mind az őstermelőkre, mind az egyéni vállalkozókra vonatkozó feltételei együttesen állnak fenn.
 
 (5) Az önkéntesen vállalt agrárkamarai tagság az agrárkamara alapszabályában meghatározottak szerint szűnik meg.
 
@@ -399,7 +399,7 @@ használhatja fel.
 
 13/A. § (1) Az agrárkamarát az ügyfél jogállása illeti meg azon közigazgatási hatósági ügyekben és az azokhoz kapcsolódó jogorvoslati eljárásokban, amelyekben nem közigazgatási hatóságként jogszabály által meghatározott feladatot lát el.
 
-(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 103. §-a alapján a helyi földbizottság feladatkörében eljáró agrárkamarát a helyi földbizottság állásfoglalása ellen előterjesztett kifogás elbírálására irányuló eljárásban – ideértve a jogorvoslati eljárásokat is – az ügyfél jogállása, továbbá a kifogás elbírálásáról szóló döntés bírósági felülvizsgálata vonatkozásában keresetindítási jog illeti meg.
+(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 103. §-a alapján a helyi földbizottság feladatkörében eljáró agrárkamarát a helyi földbizottság állásfoglalása ellen előterjesztett kifogás elbírálására irányuló eljárásban – ideértve a jogorvoslati eljárásokat is – az ügyfél jogállása, továbbá a kifogás elbírálásáról szóló döntés elleni közigazgatási per vonatkozásában keresetindítási jog illeti meg.
 
 #### 1. Az agrárkamara igazgatási jellegű közfeladatai
 
@@ -468,13 +468,22 @@ használhatja fel.
 
 összefüggő feladatokat.
 
+15/C. § (1) Az agrárkamara mezőgazdasági igazgatási szervként ellátja
+
+- a) a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 17. § (1) bekezdésében, 21. §-ában, 22. § (2) bekezdésében foglalt feladatokat, valamint
+- b) a települési önkormányzat által létesített mezei őrszolgálat és a hegyközség által létrehozott hegyőrség megalakításához, fenntartásához és működéséhez nyújtandó állami hozzájárulás iránti kérelem elbírálásával összefüggő feladatokat.
+
+(2) Az agrárkamara ellátja a családi gazdaságok nyilvántartásba vételével összefüggő feladatokat és a családi gazdaságokról szóló nyilvántartásban rögzíti az adatokat.
+
+(3) Az agrárkamara a (2) bekezdésben meghatározott feladata ellátása során biztosítja, hogy a nyilvántartásba vétel során a nyilvántartásba veendő személytől vagy szervtől független és pártatlan személy járjon el.
+
 #### 2. Az agrárkamara szolgáltatási közfeladatai
 
 16. § (1) Az agrárkamara szolgáltatási közfeladatai keretében
 
 - a) országos szaktanácsadói hálózatot működtet;
 - b) tájékoztatást nyújt a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítja a gazdasági együttműködés fejlődését;
-- c) az országos szakmai gazdasági érdek-képviseleti szervezetekkel együttműködve ellátja a szakképzésről szóló törvényben és végrehajtási rendeletében, valamint a felnőttképzésről szóló törvényben és végrehajtási rendeletében meghatározott feladatait, szervezi és végzi a mesterképzést és a mestervizsgáztatást;
+- c) az országos szakmai gazdasági érdek-képviseleti szervezetekkel együttműködve ellátja a szakképzésről szóló törvényben meghatározott feladatait, szervezi és végzi a mesterképzést és a mestervizsgáztatást;
 - d) országos jégkármegelőző rendszert működtet;
 - e) ellátja az élelmiszerlánc-felügyeletért, illetve az erdőgazdálkodásért felelős miniszter által rendeletben meghatározott, a mezőgazdasági és az erdészeti gépkezelői jogosítvány megszerzésével összefüggő feladatokat;
 - f) ellátja a Digitális Agrárakadémia működtetésével összefüggő feladatokat,
@@ -563,7 +572,7 @@ használhatja fel.
 
 (3) Az alapszabály – a (2) bekezdésben meghatározottakon túl – más ügyet is az országos küldöttgyűlés hatáskörébe utalhat.
 
-(4) A (2) bekezdés e) pontjában foglalt díjat a közszolgálati tisztségviselőkről szóló törvény illetményrendszere alapján kell megállapítani.
+(4)
 
 20. § (1) Az országos küldöttgyűlést az alapszabályban meghatározott időközönként, de legalább évente egyszer össze kell hívni. Az országos küldöttgyűlést akkor is össze kell hívni, ha azt legalább a küldöttek egyötöde – az ok és a cél megjelölésével – írásban kéri.
 

@@ -29,7 +29,8 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - o) az ingatlant terhelő, az ingatlan rendeltetésszerű használatát jelentősen korlátozó, vagy megszüntető közérdekű használati jogok, szolgalmak miatti hátrányok megszüntetése;
 - p) környezetvédelem;
 - q) sportinfrastruktúra fejlesztése;
-- r) az Országgyűlés munkáját segítő hivatali szervezet elhelyezése.
+- r) az Országgyűlés munkáját segítő hivatali szervezet elhelyezése;
+- s) kulturális infrastruktúra fejlesztése.
 
 3. § (1) Kisajátításnak akkor van helye, ha
 
@@ -102,7 +103,8 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
   - na) a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül,
   - nb) a sportlétesítmény létesítése olimpia vagy valamely sportágban Európa-bajnokság vagy világbajnokság megrendezése céljából történik,
   - nc) az egyedileg meghatározott sport- és szabadidő infrastruktúrafejlesztés megvalósításáról külön törvény rendelkezik;
-- o) a 2. § r) pontja szerinti célból az Országgyűlés Hivatalának lakóingatlannak nem minősülő ingatlanban történő elhelyezése érdekében.
+- o) a 2. § r) pontja szerinti célból az Országgyűlés Hivatalának lakóingatlannak nem minősülő ingatlanban történő elhelyezése érdekében;
+- p) kulturális infrastruktúra fejlesztése keretében a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti muzeális intézmény, könyvtár, közművelődési intézmény vagy közösségi színtér létesítése céljából.
 
 (2) Nem kell alkalmazni
 

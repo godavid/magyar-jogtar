@@ -46,7 +46,7 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
   - a) a pályahálózat-működtető egy olyan vállalkozás irányítása alatt áll, amely egyben a pályahálózat-működtető hálózatán vasúti szolgáltatásokat nyújtó egy vagy több vállalkozó vasúti társaságot is irányít;
   - b) a pályahálózat-működtető egy vagy több olyan vállalkozó vasúti társaság irányítása alatt áll, amely a pályahálózat-működtető hálózatán vasúti szolgáltatásokat nyújt;
   - c) a pályahálózat-működtető hálózatán vasúti szolgáltatásokat nyújtó egy vagy több vállalkozó vasúti társaság a pályahálózat-működtető irányítása alatt áll; vagy
-  - d) a vállalkozás különálló részlegekből áll, magában foglal egy pályahálózat-működtetőt és egy vagy több, saját jogi személyiséggel nem rendelkező részleget, amelyek vasúti szállítási szolgáltatásokat nyújtanak. 5.3. 5.4. kiszolgáló létesítmény üzemeltetője: olyan természetes személy vagy gazdálkodó szervezet, aki vagy amely egy vagy több kiszolgáló létesítmény üzemeltetéséért felel, vagy vállalkozó vasúti társaságok számára egy vagy több, a 2. melléklet 2–4. pontja szerinti szolgáltatást nyújt; 5.5. 5.6. nem független pályahálózat-működtető: az a pályahálózat-működtető, amely a pályahálózat-működtető függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételekről szóló rendeletben meghatározott feltételeknek nem felel meg; 5.7. pályahálózat-működtető: olyan szervezet vagy társaság, amely egy hálózat vasúti infrastruktúrájának működtetését, karbantartását és felújítását biztosítja, valamint részt vesz annak fejlesztésében. 5.8. vasúti társaság: a pályahálózat-működtető, a vállalkozó vasúti társaság, valamint a vasúti tevékenységet bejelentés alapján végző gazdálkodó szervezet; 5.9. vállalkozó vasúti társaság: olyan, működési engedéllyel rendelkező gazdasági társaság, amelynek fő tevékenysége vasúti árufuvarozási vagy személyszállítási szolgáltatás nyújtása, azzal a megkötéssel, hogy e vállalkozásnak kell a vontatást biztosítania. Ideértendők a csak vontatást nyújtó társaságok is; 5.10. vasúti műszaki vizsgálati központ üzemeltetője: olyan természetes személy vagy gazdasági társaság, amely egy vagy több vasúti műszaki vizsgálati központ üzemeltetéséért felel és vasúti vagy egyéb gazdálkodó szervezetek számára a 2. melléklet 4. pontja szerinti valamely szolgáltatást nyújt;
+  - d) a vállalkozás különálló részlegekből áll, magában foglal egy pályahálózat-működtetőt és egy vagy több, saját jogi személyiséggel nem rendelkező részleget, amelyek vasúti szállítási szolgáltatásokat nyújtanak. 5.3. 5.4. kiszolgáló létesítmény üzemeltetője: olyan természetes személy vagy gazdálkodó szervezet, aki vagy amely egy vagy több kiszolgáló létesítmény üzemeltetéséért felel, vagy vállalkozó vasúti társaságok számára egy vagy több, a 2. melléklet 2–4. pontja szerinti szolgáltatást nyújt; 5.5. 5.6. nem független pályahálózat-működtető: az a pályahálózat-működtető, amely a pályahálózat-működtető függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételekről szóló rendeletben meghatározott feltételeknek nem felel meg; 5.7. pályahálózat-működtető: olyan szervezet vagy társaság, amely egy hálózat vasúti infrastruktúrájának működtetését, karbantartását és felújítását biztosítja, valamint részt vesz annak fejlesztésében. 5.8. vasúti társaság: a pályahálózat-működtető, a vállalkozó vasúti társaság, valamint a vasúti tevékenységet bejelentés alapján végző gazdálkodó szervezet; 5.9. vállalkozó vasúti társaság: olyan, működési engedéllyel rendelkező gazdasági társaság, amelynek fő tevékenysége vasúti árufuvarozási vagy személyszállítási szolgáltatás nyújtása, azzal a megkötéssel, hogy e vállalkozásnak kell a vontatást biztosítania. Ideértendők a csak vontatást nyújtó társaságok is; 5.10. vasúti műszaki vizsgálati központ üzemeltetője: olyan természetes személy vagy gazdasági társaság, amely egy vagy több vasúti műszaki vizsgálati központ üzemeltetéséért felel és vasúti vagy egyéb gazdálkodó szervezetek számára a 2. melléklet 4. pontja szerinti valamely szolgáltatást nyújt; 5.11. vagyonműködtető: legalább többségi állami tulajdonú pályahálózat-működtető gazdasági társaság, mellyel az állam az állami vagyonról szóló 2007. évi CVI. törvény 26. § (1) bekezdésében meghatározott vagyonműködtetési tevékenység érdekében vagyonműködtetési szerződést kötött;
 - 6. A vasúti rendszer átjárhatóságával kapcsolatos fogalmak: 6.1. Átjárhatósági Műszaki Előírás (ÁME): a kölcsönös átjárhatóságot lehetővé tevő azon műszaki előírások összessége, amelyek az alrendszerek közötti szükséges kölcsönös kapcsolat létrehozására és a vasúti rendszer kölcsönös átjárhatóságának megteremtésére vonatkozó alapvető követelményeknek való megfelelés és a vasúti rendszer kölcsönös átjárhatóságának biztosítása érdekében az egyes alrendszerekre vagy alrendszerrészekre vonatkozó műszaki feltételeket és előírásokat szabályozza; 6.2. kölcsönös átjárhatóság: egy vasúti rendszer azon képessége, amely lehetővé teszi az ezen előírt teljesítményt elérő vonatok biztonságos és zavartalan haladását. Ez a képesség azoktól a szabályozási, műszaki és üzemeltetési feltételektől függ, amelyeket az alapvető követelményeknek való megfelelés érdekében be kell tartani; 6.3. nagy sebességű vasúti rendszer: a 200 km/h vagy azt meghaladó sebességű közlekedésre alkalmas vasúti pályahálózat és járművek; 6.4. üzemszerű átjárhatóság: két vasúti pályahálózat olyan tulajdonsága, amely biztosítja a pályahálózatok közötti rendszeres vasúti közlekedés lehetőségét azáltal, hogy a két pályahálózat közötti fizikai összeköttetésen túl a két pályahálózat között a lényeges műszaki paraméterek – a nyomtáv, űrszelvény, tengelyterhelés, jelző- és biztosítóberendezések, az áramellátás módja és a vonatbefolyásoló berendezések –, valamint a vasúti járművekre érvényes műszaki előírások és a pályahálózatokra vonatkozó forgalmi szabályok tekintetében nincs eltérés, vagy – az áramellátás módja, a vonatbefolyásoló berendezések vagy a vasúti járműre érvényes műszaki szabályok és a pályahálózatokra vonatkozó eltérő forgalmi szabályok esetében – ez az eltérés mindkét hálózaton való közlekedésre alkalmas vasúti járművel megoldható; 6.5. nemzeti szabályok: minden olyan jogszabályban kihirdetett vagy jogszabály felhatalmazása alapján kiadott kötelező erejű vasútbiztonsági vagy műszaki követelményeket tartalmazó szabályok összessége, amelynek célja az Átjárhatósági Műszaki Előírások valamint a közös biztonsági célok és közös biztonsági módszerek mellett az alrendszerek közötti szükséges kölcsönös kapcsolat létrehozására és a vasúti rendszer kölcsönös átjárhatóságának megteremtésére vonatkozó alapvető követelményeknek való megfelelés és a vasúti rendszer kölcsönös átjárhatóságának biztosítása érdekében az egyes alrendszerekre vagy alrendszerrészekre vonatkozó vasútbiztonsági és műszaki feltételek és előírások szabályozása.
 - 7. A vasúti közlekedés biztonságával kapcsolatos fogalmak: 7.1. biztonsági jelentés: a 2004/49/EK európai parlamenti és tanácsi irányelv 8. cikk (2) és (4) bekezdésében, továbbá 32. cikkében előírt jelentés; 7.2. biztonságirányítási rendszer: a pályahálózat-működtető vagy a vállalkozó vasúti társaság által az üzemeltetés biztonságos irányítására létrehozott irányítási rendszer, beleértve az azt működtető szervezeti egységet és az e szervezeti egység által meghozott intézkedések összességét; 7.3. közös biztonsági célok: azon biztonsági szint megfogalmazása, amelyet a vasúti rendszer különböző részein (így különösen a hagyományos vasúti rendszer, nagy sebességű vasúti rendszer, kizárólag áruszállításra használt hosszú vasúti alagutak vagy vonalak) és a rendszer egészén meg kell valósítani. A közös biztonsági célokat az utasokkal, a személyzettel – beleértve az alvállalkozók személyzetét is – a vasúti átjárók használóival és más személyekkel kapcsolatos egyedi kockázatokra, és a vasúti létesítményeken tartózkodó illetéktelen személyekkel kapcsolatos egyedi kockázatokra, továbbá a társadalmi kockázatokra vonatkozóan a kockázatelfogadási feltétel fejezi ki; 7.4. közös biztonsági módszerek: a biztonsági szintek, a biztonsági célok megvalósítása és más biztonsági követelmények teljesítése értékelésének szabályait meghatározó előírások, amelyek a következőkre terjednek ki:
   - a) kockázatelemzési és értékelési módszerek,
@@ -601,7 +601,7 @@ a vagyonkezelési szerződést – a miniszter és az állami vagyon felügyelet
 
 (2) A nemzeti szabályoknak összhangban kell lenniük az Európai Unió Hivatalos Lapjában közzétett Átjárhatósági Műszaki Előírásokkal, közös biztonsági módszerekkel és célokkal és elő kell segítenie az egységes európai vasúti szállítási rendszer kialakítását.
 
-(3) Ha új nemzeti szabály bevezetésére van szükség, a miniszter a nemzeti szabály tervezetét a közlekedési hatóság által a 80. § (1) bekezdés g) pontja szerint lefolytatott egyeztetést követően megküldi az Európai Bizottságnak, és ismerteti bevezetésének indokait.
+(3) Amennyiben új nemzeti szabály bevezetésére van szükség, a miniszter a nemzeti szabály tervezetét – a nem jogszabályban kihirdetett nemzeti szabályok esetén a közlekedési hatóság általi, 80. § (1) bekezdés g) pontja szerinti jóváhagyást követően – bejelenti a Bizottságnak és az Ügynökségnek, ismerteti bevezetésének indokait, valamint ellátja a bejelentéshez kapcsolódó az (EU) 2016/796 európai parlamenti és tanácsi rendeletben foglalt vizsgálat során a tagállamot terhelő feladatokat.
 
 (4) Ha az Európai Bizottság a tervezett nemzeti szabály ellen kifogást emel, annak tervezete – az Európai Bizottság határozatának meghozataláig, de legfeljebb a kifogást tartalmazó értesítés megérkezésétől számított hat hónapig – nem hirdethető ki, illetve nem tehető közzé.
 
@@ -746,7 +746,7 @@ kapcsolatos szabályokat.
 
 (4)–(6)
 
-(7) Az alapvizsga és az időszakos vizsga lebonyolítását, valamint az alapképzés és az időszakos oktatás szakmai irányítását a Kormány által külön jogszabályban kijelölt vasúti vizsgaközpont végzi.
+(7) Az alapvizsga és az időszakos vizsga lebonyolítását a Kormány által a vasúti vizsgaközpont kijelöléséről szóló kormányrendeletben kijelölt vasúti vizsgaközpont, az alapképzés és az időszakos oktatás szakmai irányítását, valamint a vasútszakmai oktatók és a vasútüzemvezetők továbbképzését, továbbá a vasúti közlekedés területén hatósági vizsgabiztosi tevékenységet ellátók képzését és továbbképzését a Kormány által a vasúti képzési módszertani központ kijelöléséről szóló kormányrendeletben kijelölt vasúti képzési módszertani központ végzi.
 
 (8) Az alapképzést és az időszakos oktatást a közlekedési hatóság ellenőrzi.
 
@@ -940,7 +940,7 @@ műszaki hatósági engedélye kiadásának alapjául szolgáló feltételek fen
 
 (8) A MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság – a Kínai–Magyar Vasúti Nonprofit Zrt. bonyolítóként történő bevonásával – a (7) bekezdés szerinti feladatkörében jár el a Magyarország Kormánya és a Kínai Népköztársaság Kormánya között a Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztése, kivitelezése és finanszírozása kapcsán született Egyezmény kihirdetéséről szóló 2016. évi XXIV. törvény alapján megvalósuló beruházás megvalósítása során.
 
-44/A. § (1) A magyar állam tulajdonába és ingyenesen a NIF Zrt. vagyonkezelésébe kerül a 44. § (3) bekezdés szerinti közérdekű és közcélú tevékenység folytatása érdekében a NIF Zrt. által megvásárolt vagy kisajátított földrészlet, ezeken a földterületeken létrehozott vagy megszerzett vasúti pályahálózat működéséhez szükséges eszközök, a vasútvonalak megállóhelyei megközelítésének fejlesztése és a ráhordás feltételeinek javítása érdekében létrehozott parkolók és kapcsolódó létesítmények. A vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzéséről a NIF Zrt. gondoskodik. A NIF Zrt. a vagyonkezelői jog bejegyzésére vonatkozó ingatlanügyi hatósági határozatot annak kézhezvételét követően haladéktalanul megküldi az MNV Zrt. részére.
+44/A. § (1) A magyar állam tulajdonába és ingyenesen a NIF Zrt. vagyonkezelésébe kerül a 44. § (3) bekezdés szerinti közérdekű és közcélú tevékenység folytatása érdekében a NIF Zrt. által megvásárolt, kisajátított vagy egyéb jogcímen megszerzett földrészlet, ezeken a földterületeken létrehozott vagy megszerzett vasúti pályahálózat működéséhez szükséges eszközök, a vasútvonalak megállóhelyei megközelítésének fejlesztése és a ráhordás feltételeinek javítása érdekében létrehozott parkolók és kapcsolódó létesítmények. A vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzéséről a NIF Zrt. gondoskodik. A NIF Zrt. a vagyonkezelői jog bejegyzésére vonatkozó ingatlanügyi hatósági határozatot annak kézhezvételét követően haladéktalanul megküldi a tulajdonosi joggyakorló részére.
 
 (2) A NIF Zrt. által végzett közérdekű és közcélú tevékenység alapján megszerzett, az állam tulajdonában álló egyes földterületek, valamint a NIF Zrt. által ezen földterületeken létrehozott vagy megszerzett vasúti pályahálózat működéséhez szükséges eszközök az átadás-átvétel fordulónapján, e törvény erejénél fogva, a NIF Zrt. által nyilvántartott könyv szerinti értéken, ellenérték nélkül, közvetlenül a vasúti pályahálózat vagyonkezelője vagyonkezelésébe kerülnek, a NIF Zrt. vagyonkezelési jogának egyidejű megszűnése mellett. Az átadás-átvétel fordulónapjától számított hat hónapon belül a NIF Zrt. elszámolási kimutatást készít annak céljából, hogy az érintett eszközöket az átadás-átvétel fordulónapján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és jelen bekezdés szerinti új vagyonkezelő könyveiben azokat nyilvántartásba vegye.
 
@@ -994,11 +994,11 @@ vasúti pályahálózathoz kapcsolódó – állami tulajdont keletkeztető – 
 
 (8) Törvény a nemzetgazdasági szempontból kiemelt jelentőségű vasúti infrastruktúra beruházások esetében a közműkiváltásra vagy -fejlesztésre az e törvényben foglaltaktól eltérő szabályokat állapíthat meg.
 
-46. § (1) A NIF Zrt. és a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.) mint GSM-R fejlesztők a magyar állam tulajdonában álló vasúti pályahálózat részét képező GSM-R rendszerhálózat tekintetében központi költségvetési és uniós támogatásból építtetői, létesítési feladatokat láthat el – a fejlesztési közreműködő mellett – a magyar állam javára eljárva. A GSM-R rendszerhálózat megvalósítása fontos közérdekű és közcélú tevékenység.
+46. § (1) A NIF Zrt. és a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.), mint GSM-R fejlesztők a magyar állam és a GYSEV Zrt. tulajdonában álló vasúti pályahálózat részét képező GSM-R rendszerhálózat tekintetében központi költségvetési és európai uniós támogatásból építtetői, létesítési feladatokat láthat el – a fejlesztési közreműködő mellett – a magyar állam javára eljárva. A GSM-R rendszerhálózat megvalósítása fontos közérdekű és közcélú tevékenység.
 
 (2) A pályahálózat-működtető, a fejlesztési közreműködő vagy a GSM-R fejlesztő a GSM-R rendszerhálózat előkészítéseként teljeskörűen elkészíti vagy elkészítteti a szükséges terveket, tanulmányokat. A pályahálózat-működtető, a fejlesztési közreműködő vagy a GSM-R fejlesztő ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, a saját nevére megszerzi az építési és egyéb engedélyeket. A pályahálózat-működtető, a fejlesztési közreműködő vagy a GSM-R fejlesztő lefolytatja a közbeszerzési eljárásokat, megköti a megvalósításra vonatkozó szerződéseket, elvégzi a teljesítések igazolását, gondoskodik az építési műszaki ellenőri tevékenység ellátásáról, valamint a műszaki átadás-átvétel lebonyolításáról.
 
-(3) A létesített – a magyar állam tulajdonában álló vasúti pályahálózat tartozékát képező – GSM-R rendszerhálózat és annak tartozékai e törvény erejénél fogva magyar állam tulajdonába kerülnek. A vasúti pályahálózat tartozékaként a GSM-R rendszerhálózat és tartozékai a beruházásnak a – számvitelről szóló törvény szerinti – megvalósulásakor a vasúti pályahálózat vagyonkezelőjének nyilvántartásában kerülnek aktiválásra, a beruházásnak a GSM-R fejlesztő nyilvántartásaiból – az elszámolásra kapott forrásokkal szemben – történő kivezetésével egyidejűleg.
+(3) A létesített – a magyar állam vagy a GYSEV Zrt. tulajdonában álló vasúti pályahálózat tartozékát képező – GSM-R rendszerhálózat és annak tartozékai e törvény erejénél fogva a magyar állam tulajdonába kerülnek. A vasúti pályahálózat tartozékaként a GSM-R rendszerhálózat és tartozékai a beruházásnak a – számvitelről szóló törvény szerinti – megvalósulásakor a vasúti pályahálózat tulajdonosának, vagyonkezelőjének, vagy vagyonműködtetőjének nyilvántartásában kerülnek aktiválásra, a beruházásnak a GSM-R fejlesztő nyilvántartásaiból – az elszámolásra kapott forrásokkal szemben – történő kivezetésével egyidejűleg.
 
 (4) A fejlesztési közreműködő vagy a GSM-R fejlesztő által végzett GSM-R rendszerhálózat-létesítés során az érintett vasúti pályahálózat tulajdonosa, vagyonkezelője és működtetője köteles együttműködni.
 
@@ -1443,14 +1443,14 @@ biztosítható.
 
 67/V. § (1) A VPSZ vezető tisztségviselője, felügyelőbizottságának tagja, vezető állású munkavállalója, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalója
 
-- a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt, állami szolgálati jogviszonyt, vasúti társasággal vagy annak kapcsolt vállalkozásával munkaviszonyt, valamint munkavégzésre irányuló egyéb jogviszonyt nem létesíthet,
+- a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt vasúti társasággal vagy annak kapcsolt vállalkozásával munkaviszonyt, valamint munkavégzésre irányuló egyéb jogviszonyt nem létesíthet,
 - b) vasúti társaságban vagy annak kapcsolt vállalkozásában részesedést nem szerezhet,
 - c) munkafeltételeit, hatásköreit, beszámolási kötelezettségeit olyan módon kell meghatározni, hogy a 67/P. § (3) bekezdése szerinti feladatok ellátásával kapcsolatos ügyekben a független döntéshozatal biztosított legyen, továbbá
 - d) munkaszerződésében vagy megbízási szerződésében foglalt jogait és kötelezettségeit, valamint a munkavégzésének feltételeit – független döntéshozatali eljárás keretében – úgy kell meghatározni, hogy a 67/P. § (3) bekezdése szerinti feladatok ellátásával összefüggő döntések meghozatala során a befolyásmentesség és az egyenlő bánásmód követelményének megfelelően járjon el.
 
 (2) A VPSZ vezető tisztségviselőjének, felügyelőbizottsága tagjának, vezető állású munkavállalójának, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalójának a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója
 
-- a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt, állami szolgálati jogviszonyt nem létesíthet,
+- a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt, nem létesíthet,
 - b) vasúti társaságban vagy annak kapcsolt vállalkozásában részesedést nem szerezhet,
 - c) vasúti társaságnak vagy kapcsolt vállalkozásának vezető tisztségviselője, felügyelőbizottságának tagja vagy vezető munkavállalója nem lehet,
 - d) kiszolgáló létesítmény üzemeltetését végző társaságban vagy annak kapcsolt vállalkozásában részesedést nem szerezhet,
@@ -1583,7 +1583,7 @@ biztosítható.
 
 70. § (1) A vasúti igazgatási szerv vezetőjét – a miniszter javaslatára–a miniszterelnök öt évre nevezi ki. A vasúti igazgatási szerv vezetője egy alkalommal ismételten kinevezhető.
 
-(2) A vasúti igazgatási szerv vezetője tisztségére nem kell pályázatot kiírni. A vasúti igazgatási szerv vezetőjének olyan személy nevezhető ki, aki a közszolgálati tisztviselőkről szóló törvényben foglalt követelményeken túl
+(2) A vasúti igazgatási szerv vezetője tisztségére nem kell pályázatot kiírni. A vasúti igazgatási szerv vezetőjének olyan személy nevezhető ki, aki a kormányzati igazgatásról szóló törvényben foglalt követelményeken túl
 
 - a) legalább hároméves vasúti vagy egyéb hálózati iparági területen szerzett gyakorlattal rendelkezik vagy
 - b) legalább hároméves vezetői gyakorlattal rendelkezik a közigazgatásban.
@@ -1592,25 +1592,25 @@ biztosítható.
 
 (2) A vasúti igazgatási szerv vezetőjének felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
 
-72. § A vasúti igazgatási szerv vezetője gyakorolja a vasúti igazgatási szervvel kormányzati szolgálati, állami szolgálati jogviszonyban vagy munkaviszonyban álló alkalmazottak feletti munkáltatói jogkört.
+72. § A vasúti igazgatási szerv vezetője gyakorolja a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyban vagy munkaviszonyban álló alkalmazottak feletti munkáltatói jogkört.
 
-### A vasúti igazgatási szerv kormánytisztviselője, állami tisztviselője
+### A vasúti igazgatási szerv kormánytisztviselője
 
-73. § (1) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal.
+73. § (1) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal.
 
-(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője az öröklés kivételével vasúti társaságban tulajdoni részesedést nem szerezhet.
+(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője az öröklés kivételével vasúti társaságban tulajdoni részesedést nem szerezhet.
 
-(3) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője kinevezése előtt vagy öröklés útján szerzett tulajdoni részesedését a kinevezésétől vagy a szerzéstől számított három hónapon belül köteles elidegeníteni.
+(3) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője kinevezése előtt vagy öröklés útján szerzett tulajdoni részesedését a kinevezésétől vagy a szerzéstől számított három hónapon belül köteles elidegeníteni.
 
-(4) A (3) bekezdésben foglalt kötelezettsége teljesítéséig a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az összeférhetetlenségi okkal érintett társaságra vonatkozik.
+(4) A (3) bekezdésben foglalt kötelezettsége teljesítéséig a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az összeférhetetlenségi okkal érintett társaságra vonatkozik.
 
-(5) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
+(5) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
 
-74. § (1) A 73. § (4) bekezdésében foglaltakon túl a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője nem vehet részt döntés előkészítésében és meghozatalában az olyan vállalkozásokat érintő esetekben, amelyekkel az eljárás megkezdését megelőző egy év során kapcsolatban állt.
+74. § (1) A 73. § (4) bekezdésében foglaltakon túl a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője nem vehet részt döntés előkészítésében és meghozatalában az olyan vállalkozásokat érintő esetekben, amelyekkel az eljárás megkezdését megelőző egy év során kapcsolatban állt.
 
-(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője, állami tisztviselője kinevezésekor, valamint évente nyilatkozik a munkáltatói jogkör gyakorlójának a 73. § (1) és (2) bekezdésében foglalt rendelkezések teljesüléséről.
+(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője kinevezésekor, valamint évente nyilatkozik a munkáltatói jogkör gyakorlójának a 73. § (1) és (2) bekezdésében foglalt rendelkezések teljesüléséről.
 
-75. § A vasúti igazgatási szerv feladatkörében eljáró kormánytisztviselő, állami tisztviselő ezen jogviszonya megszűnését követően egy évig sem pályahálózat-működtetővel, sem vállalkozó vasúti társasággal, sem a vasúti pályakapacitás-elosztó szervezettel nem létesíthet munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt. A vasúti igazgatási szerv e korlátozás alapján ellenértéket köteles fizetni a kormánytisztviselőnek, állami tisztviselőnek, amelynek mértékére a munka törvénykönyvéről szóló törvény versenytilalmi megállapodásra vonatkozó szabályait kell alkalmazni.
+75. § A vasúti igazgatási szerv feladatkörében eljáró kormánytisztviselő ezen jogviszonya megszűnését követően egy évig sem pályahálózat-működtetővel, sem vállalkozó vasúti társasággal, sem a vasúti pályakapacitás-elosztó szervezettel nem létesíthet munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt. A vasúti igazgatási szerv e korlátozás alapján ellenértéket köteles fizetni a kormánytisztviselőnek, amelynek mértékére a munka törvénykönyvéről szóló törvény versenytilalmi megállapodásra vonatkozó szabályait kell alkalmazni.
 
 ### A vasúti igazgatási szerv eljárására vonatkozó közös szabályok
 
@@ -1640,7 +1640,7 @@ biztosítható.
 
 (2)
 
-(3) A vasúti igazgatási szerv közhírré teszi a 69. § 1., 5., 7., 14. 17., 18., 21. és 25. pontja szerinti eljárásokban hozott határozatairól szóló közleményt azzal, hogy a közhírré tétel kiterjed a Hálózati Üzletszabályzat, a keretmegállapodás, a belső megállapodás, valamint az üzemi menetrend szövegére is. A közhírré tett közlemény nem tartalmazhatja az érdekeltek által előzetesen – indokoltan – üzleti titoknak minősített adatokat.
+(3) A vasúti igazgatási szerv közhírré teszi a 69. § 1., 5., 7., 14. 17., 19., 21. és 25. pontja szerinti eljárásokban hozott határozatairól szóló közleményt azzal, hogy a közhírré tétel kiterjed a Hálózati Üzletszabályzat, a keretmegállapodás, a belső megállapodás, valamint az üzemi menetrend szövegére is. A közhírré tett közlemény nem tartalmazhatja az érdekeltek által előzetesen – indokoltan – üzleti titoknak minősített adatokat.
 
 ### A vasúti igazgatási szerv ellenőrzési tevékenysége
 
@@ -1673,10 +1673,13 @@ biztosítható.
 - e) a Díjképzési Módszertan ellentétes az e törvényben, vagy a hálózat-hozzáférési díjképzési rendszerek kereteiről, a díjak képzésének, alkalmazásának, a díjképzési elvek alóli kivételek kezeléséről, a biztosítható kedvezmények, valamint a kiegyenlítő juttatások nyújtásának alapvető szabályairól, a Díjképzési Módszertanra és a Díjszámítási Dokumentumra vonatkozó részletes szabályokról szóló rendeletben foglaltakkal,
 - f) a Díjszámítási Dokumentum vagy a Hálózati Üzletszabályzatban szereplő díjak, kedvezmények és felárak nem az e törvényben vagy a külön jogszabályban foglaltaknak megfelelően kerültek meghatározásra, vagy a Hálózati Üzletszabályzatban nem a Díjszámítási Dokumentumban meghatározott díjak szerepelnek,
 - g) valamely szerződő fél megsértette a pályahálózathoz való nyílt hozzáférés tárgyában kötött szerződést, vagy a menetvonal igénybevételéért fizetendő hálózat-hozzáférési díj mértéke jogszabálysértően vagy a Hálózati Üzletszabályzatba ütköző módon került megállapításra,
-- h) a kiszolgáló létesítmény üzemeltetőjének döntése, az általa alkalmazott díjak ellentétesek a megkülönböztetéstől mentes eljárás követelményével, vagy
-- i) a kiszolgáló létesítmény üzemeltetője a 67/O. § (6) bekezdése szerinti információkat határidőre nem szolgáltatta vagy nem megfelelően szolgáltatta a pályahálózat-működtető vagy a VPSZ részére.
+- h) a kiszolgáló létesítmény üzemeltetőjének döntése, az általa alkalmazott díjak ellentétesek a megkülönböztetéstől mentes eljárás követelményével,
+- i) a kiszolgáló létesítmény üzemeltetője a 67/O. § (6) bekezdése szerinti információkat határidőre nem szolgáltatta vagy nem megfelelően szolgáltatta a pályahálózat-működtető vagy a VPSZ részére,
+- j) a pályahálózat-működtetőnek a forgalomirányítással kapcsolatos valamely döntése ellentétes a megkülönböztetéstől mentes eljárás követelményével,
+- k) a pályahálózat-működtetőnek a vasúti pályahálózat karbantartási, felújítási vagy fejlesztési munkáinak tervezésével kapcsolatos valamely döntése ellentétes a megkülönböztetéstől mentes eljárás követelményével, e törvényben, a vasúti pályahálózathoz történő nyílt hozzáférés részletes szabályairól szóló rendeletben vagy a Hálózati Üzletszabályzatban foglaltakkal, vagy
+- l) a pályahálózat-működtető vagy a VPSZ esetében a 11. § (8)–(9) bekezdésben, a 11/A.–11/C. §-okban, vagy a pályahálózat-működtető függetlenségi feltételeiről szóló miniszteri rendeletben foglalt valamely kötelezettség nem teljesül.
 
-(2) Az (1) bekezdés a), b) és d)–i) pontja szerinti esetekben a kérelmet a jogsértésről való tudomásszerzést követő tizenöt napon belül, de legkésőbb a jogsértés megtörténtétől számított három hónapon belül lehet előterjeszteni. A c) pont szerinti kérelmet az üzemi menetrendtervezet külön jogszabály szerinti közzétételét követő tizenöt napon belül lehet előterjeszteni.
+(2) Az (1) bekezdés a), b) és d)–l) pontja szerinti esetekben a kérelmet a jogsértésről való tudomásszerzést követő tizenöt napon belül, de legkésőbb a jogsértés megtörténtétől számított három hónapon belül lehet előterjeszteni. A c) pont szerinti kérelmet az üzemi menetrendtervezet külön jogszabály szerinti közzétételét követő tizenöt napon belül lehet előterjeszteni.
 
 (3) A kérelemben meg kell jelölni
 
@@ -1728,7 +1731,7 @@ biztosítható.
 
 (3) A vasúti igazgatási szerv a piac felügyeletével kapcsolatos tevékenysége során hivatalból is ellenőrizheti a 79/B. § (1) bekezdésében meghatározottakat, valamint ellenőrzi, hogy a hálózati üzletszabályzat tartalmaz-e diszkriminatív rendelkezéseket vagy felruházza-e a pályahálózat-működtetőt vagy a VPSZ-t olyan mérlegelési jogkörrel, amelyet fel lehet használni a kapacitásfoglalásra jogosultakkal szembeni hátrányos megkülönböztetésre.
 
-(4) A vasúti igazgatási szerv a (2) és (3) bekezdés szerinti tevékenysége során szakértőt vehet igénybe. A szakértőre a vasúti igazgatási szerv kormánytisztviselőjére, állami tisztviselőjére vonatkozó összeférhetetlenségi szabályokat kell alkalmazni.
+(4) A vasúti igazgatási szerv a (2) és (3) bekezdés szerinti tevékenysége során szakértőt vehet igénybe. A szakértőre a vasúti igazgatási szerv kormánytisztviselőjére vonatkozó összeférhetetlenségi szabályokat kell alkalmazni.
 
 (5) A vasúti igazgatási szerv felügyeleti és ellenőrzési terv alapján és azon kívül is hivatalból vagy kérelemre folytat felügyeleti tevékenységet.
 
@@ -1739,10 +1742,7 @@ biztosítható.
 - c) a tevékenység végzésének feltételeit megállapítja,
 - d) a jogsértő magatartás folytatását megtiltja.
 
-(1a) A vasúti igazgatási szerv figyelmeztetést is alkalmazhat, ha a kötelezettségek megszegése a közlekedésbiztonságot nem veszélyeztette, és a jogsértő a jogsértést
-
-- a) a helyszínen megszüntette, vagy
-- b) megelőzően hat hónapon belül azonos jogsértést nem követett el.
+(1a)
 
 (2) A kötelezettségek súlyos és ismétlődő megszegése esetén – ha az (1) bekezdésben meghatározott jogkövetkezmények nem vezettek eredményre – a vasúti igazgatási szerv felfüggesztheti vagy visszavonhatja a működési engedélyt.
 
@@ -1783,7 +1783,7 @@ során.
 - d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati, a forgalmi és a biztonsági szabályzatokban foglaltaknak,
 - e) a vasúti járművek és a vasúti járműre szerelt vasútüzemi célt szolgáló kazánok és nyomástartó edények hatósági jelzésének kiadása,
 - f) a vasúti járművek, valamint a vasúti pályák nyilvántartásának vezetése,
-- g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti szabályok érvényesítése és érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, a nem jogszabályban kihirdetett nemzeti szabályok kidolgozása és módosítása során szakmai egyeztetés lefolytatása a nemzeti szabályok kiadásáért felelős szakértői testülettel, a vasúti társaságokkal, a vasúti alrendszerek gyártóival és karbantartóival, a vasúti szolgáltatásokat igénybevevőkkel, valamint a vasúti munkavállalók képviselőivel,
+- g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti szabályok érvényesítése és érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, a nem jogszabályban kihirdetett nemzeti szabályok jóváhagyása,
 - h) a (2) bekezdés szerinti éves jelentés elkészítése,
 - i) a vasútbiztonsági tanúsítvány, kiegészítő vasútbiztonsági tanúsítvány megszerzéséhez szükséges tudnivalókról ingyenesen hozzáférhető útmutató készítése,
 - j) együttműködés és információcsere a más EGT-államokban működő vasútbiztonsági hatóságokkal,
@@ -1875,6 +1875,8 @@ során.
 (4) A döntést helybenhagyó vagy megváltoztató másodfokú döntést a kérelem megérkezését követő naptól számított két hónapon belül kell meghozni.
 
 (5) Ha a vasúti járművek üzembe helyezésének engedélyezésével kapcsolatos hatósági eljárásban a közlekedési hatóság a döntését az előírt határidőn belül nem hozza meg, a vasúti jármű üzembe helyezését a határidő lejártát követő három hónap után engedélyezettnek kell tekinteni, amely csak arra a vasúti pályahálózatra hatályos, amelyre a kérelem vonatkozott.
+
+(6) A közlekedési hatóságon belül a megfelelőségértékelő szervezet kijelölési és bejelentési eljárása során nem dönthet a kijelölésről és a bejelentésről az, aki a megfelelőségértékelő szervezet értékelését végezte.
 
 80/F. § (1) A közlekedési hatóság műszaki engedélyezési eljárásában hozott döntésével szemben perindításra az az eljárás megindításáról szabályszerűen értesített ügyfél jogosult, aki a közlekedési hatóság eljárásában részt vett.
 
@@ -2460,7 +2462,7 @@ amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelke
 
 87/D. § (1) A Vtvmódtv1. hatálybalépésekor már működő pályahálózat-működtetőknek – nem független pályahálózat-működtető esetén a VPSZ-nek – a Vtvmódtv1. -nek megfelelő Díjképzési Módszertant, Díjszámítási Dokumentumot, Hálózati Üzletszabályzatot, teljesítményösztönző rendszert első ízben a 2016. december második vasárnapjától kezdődő menetrendi évre kell elkészíteniük.
 
-(2) A 67/P. §-ban meghatározott alapvető feladatokat az országos jelentőségű vasútvonalat működtető független pályahálózat-működtető esetén is 2020. január 1-jéig a VPSZ látja el a díjbeszedés kivételével, amelyet a független pályahálózat-működtető is elláthat.
+(2)
 
 87/E. § (1) A legalább többségi állami tulajdonban lévő, a vasúti pályahálózat működtetésére engedéllyel rendelkező gazdasági társaság (e § alkalmazásában a továbbiakban: jogelőd pályavasúti társaság) számára kiadott határozatlan idejű
 
@@ -2500,8 +2502,8 @@ amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelke
 - 2. a vasúti közlekedés területén a kötelező kárfedezet biztosításának részletes szabályait,
 - 3. a vasúti piacfelügyeleti bírság legmagasabb mértékére, a vasúti bírság mértékére, továbbá a megfizetésükre vonatkozó részletes szabályokat,
 - 4. a vasúti árufuvarozási szerződésre vonatkozó részletes szabályokat,
-- 5. a kapacitáselosztás körébe tartozó szolgáltatások nyújtására vonatkozóan a VPSZ és a nem független pályahálózat-működtető között fennálló jogviszony feltételeit, ideértve az e szolgáltatások ellenértékeként a nem független pályahálózat-működtető által fizetendő megbízási díj mértékét,
-- 6. a vasúti vizsgaközpont kijelölését,
+- 5. a kapacitáselosztás körébe tartozó szolgáltatások nyújtására vonatkozóan a VPSZ és a pályahálózat-működtető között fennálló jogviszony feltételeit, ideértve az e szolgáltatások ellenértékeként a pályahálózat-működtető által fizetendő megbízási díj mértékét,
+- 6. a vasúti vizsgaközpont, valamint vasúti képzési módszertani központ kijelölését,
 - 7. a jogszabályban meghatározott vasúti munkaköröket betöltő munkavállalókkal szemben támasztott egészségügyi követelményeket és az egészségügyi vizsgálat feltételeit, valamint az egészségi alkalmasság megállapítását végző szerv vagy személyek kijelölését, az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának részletes szabályait,
 - 8. az e törvény szerinti szakértői tevékenység folytatásának a részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - 9. az EUROFIMA Európai Vasúti Gördülőállomány-finanszírozási Társaság által nyújtott gördülőállomány-finanszírozás esetében az állami kezességre vonatkozó részletes szabályokat,
@@ -2556,7 +2558,8 @@ rendeletben állapítsa meg.
 - 36. közutaknak és magánutaknak turisztikai hajtánypálya által történő keresztezésére vonatkozó szabályokat
 - 37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat,
 - 38. a vasúti közlekedés biztonságával összefüggő munkakör betöltéséhez szükséges vizsgán való részvételért fizetendő díjak körét és mértékét, valamint azok megfizetésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
-- 39. a nem jogszabályban kihirdetett nemzeti szabályok kidolgozásáért és kiadásáért felelős szakértői testület létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat
+- 39. a nem jogszabályban kihirdetett nemzeti szabályok kidolgozásáért és kiadásáért felelős szakértői testület létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat,
+- 40. a kockázatértékelő szervezetekkel szembeni – ideértve a felelősségbiztosítás mértékét, továbbá a szakmai képzettségi és szakmai gyakorlati – követelményeket
 
 rendeletben állapítsa meg.
 

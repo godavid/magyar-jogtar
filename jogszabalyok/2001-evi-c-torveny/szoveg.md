@@ -12,7 +12,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (2) E törvényt kell alkalmazni valamely külföldi állam joga szerint kiállított bizonyítványnak és oklevélnek a Magyarországon megszerezhető bizonyítvánnyal és oklevéllel egyenértékűként történő elismerésére és honosítására, valamint a résztanulmányok beszámítására. E törvényt kell alkalmazni akkor is, ha az elismerés a szakmai gyakorlaton alapul.
 
-(3) Bizonyítvány, illetve oklevél az alap-, közép- vagy felsőfokú végzettséget, alap-, közép- vagy felsőfokú szakképesítést, felsőfokú szakképzettséget, illetve tudományos fokozatot tanúsító okirat. Bizonyítványnak, illetve oklevélnek tekintendő az ezekkel azonos hatályú okirat is. Nem minősül külföldi bizonyítványnak, oklevélnek, illetve szakmai képesítésnek a hazai bizonyítvány, oklevél, illetve szakmai képesítés külföldi elismeréséről szóló, külföldi eljáró hatóság által hozott döntés.
+(3) Bizonyítvány, illetve oklevél az alap-, közép- vagy felsőfokú végzettséget és azokhoz kapcsolódó szakképesítést, szakképzettséget, illetve tudományos fokozatot tanúsító okirat. Bizonyítványnak, illetve oklevélnek tekintendő az ezekkel azonos hatályú okirat is. Nem minősül külföldi bizonyítványnak, oklevélnek, illetve szakmai képesítésnek a hazai bizonyítvány, oklevél, illetve szakmai képesítés külföldi elismeréséről szóló, külföldi eljáró hatóság által hozott döntés.
 
 (4) E törvényt kell alkalmazni a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítványok kiállítása során is.
 
@@ -112,7 +112,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 11. § (1) Ha az eljáró hatóság oktatási intézmény, az elsőfokú döntés ellen az oktatásért felelős miniszterhez, más esetben a Kormány rendeletében kijelölt hatósághoz lehet fellebbezni.
 
-(2) Résztanulmányok beszámítása esetén, ha közoktatási intézmény jár el, az elsőfokú határozat ellen a fenntartóhoz lehet fellebbezni.
+(2) Résztanulmányok beszámítása esetén, ha köznevelési intézmény vagy szakképző intézmény jár el, az elsőfokú határozat ellen a fenntartóhoz lehet fellebbezni.
 
 (3)
 
@@ -122,13 +122,13 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 ## MÁSODIK RÉSZ — AZ ELISMERÉS ÉS A HONOSÍTÁS KÜLÖNÖS SZABÁLYAI
 
-### II. Fejezet — AZ ÁLTALÁNOS ISKOLAI, A KÖZÉPISKOLAIÉS A FELSŐFOKÚ VÉGZETTSÉGI SZINT ELISMERÉSE
+### II. Fejezet — AZ ALAPFOKÚ, A KÖZÉPFOKÚÉS A FELSŐFOKÚ VÉGZETTSÉGI SZINT ELISMERÉSE
 
 ### Az általános iskolai végzettségi szint elismerése
 
 12. § (1) Általános iskolai bizonyítványként az olyan külföldi bizonyítvány ismerhető el,
 
-- a) amely közoktatási intézményben legalább nyolc évfolyam elvégzését tanúsítja, és
+- a) amely külföldi oktatási intézményben legalább nyolc évfolyam elvégzését tanúsítja, és
 - b) amelynek alapján, figyelembe véve a külföldi oktatási intézmény jogállását, a bizonyítvány jogi hatályát és a tanulmányi követelményeket, megállapítható, hogy a hazai általános iskolai végzettségi szinttel azonos végzettségi szintet tanúsít.
 
 (2) Ha az elismerés továbbtanulási céllal történik, akkor általános iskolai bizonyítványként az (1) bekezdés b) pontjának meg nem felelő olyan külföldi bizonyítvány is elismerhető, amely valószínűsíti, hogy a kérelmező felkészült a további tanulmányok folytatására.
@@ -137,17 +137,17 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 ### A középiskolai végzettségi szint elismerése
 
-13. § (1) A magyar középiskolai érettségi bizonyítvánnyal egyenértékű az a külföldi középiskola elvégzését tanúsító és az adott országban felsőoktatási intézménybe történő jelentkezésre jogosító bizonyítvány, amelyet az Európai Gazdasági Térséghez tartozó államban vagy olyan államban állítottak ki, amely a Lisszaboni Egyezmény rendelkezéseit magára nézve kötelezőnek ismerte el.
+13. § (1) A magyar érettségi bizonyítvánnyal egyenértékű az a külföldi oktatási intézmény elvégzését tanúsító és az adott országban felsőoktatási intézménybe történő jelentkezésre jogosító bizonyítvány, amelyet az Európai Gazdasági Térséghez tartozó államban vagy olyan államban állítottak ki, amely a Lisszaboni Egyezmény rendelkezéseit magára nézve kötelezőnek ismerte el.
 
-(2) Ha a középiskolai érettségi bizonyítvány nem minősül az (1) bekezdésben meghatározottak alapján a magyar középiskolai érettségivel egyenértékűnek, középiskolai érettségi bizonyítványként az olyan külföldi bizonyítvány ismerhető el, amely – figyelembe véve a külföldi oktatási intézmény jogállását, a bizonyítvány jogi hatályát és a tanulmányi követelményeket – a hazai középiskolai érettségi bizonyítvánnyal azonos végzettségi szintet tanúsít, továbbá
+(2) Ha az érettségi bizonyítvány nem minősül az (1) bekezdésben meghatározottak alapján a magyar érettségi bizonyítvánnyal egyenértékűnek, érettségi bizonyítványként az olyan külföldi bizonyítvány ismerhető el, amely – figyelembe véve a külföldi oktatási intézmény jogállását, a bizonyítvány jogi hatályát és a tanulmányi követelményeket – a magyar érettségi bizonyítvánnyal azonos végzettségi szintet tanúsít, továbbá
 
 - a) a kérelmezőt az adott országban felsőoktatási intézménybe történő jelentkezésre jogosítja,
-- b) közoktatási intézményben legalább tizenkét évfolyam elvégzését tanúsítja, és
+- b) külföldi oktatási intézményben legalább tizenkét évfolyam elvégzését tanúsítja, és
 - c) tanúsítja, hogy a kérelmező tanulmányai befejezésekor legalább négy tantárgyból külön vizsgát tett.
 
 (3) Ha az elismerés továbbtanulási céllal történik, akkor középiskolai érettségi bizonyítványként a (2) bekezdés feltételeinek meg nem felelő olyan külföldi bizonyítvány is elismerhető, amely
 
-- a) közoktatási intézményben legalább tizenkét évfolyam, vagy ha az adott külföldi államban a közoktatás tizenegy évfolyamból áll, akkor tizenegy évfolyam elvégzését tanúsítja,
+- a) külföldi oktatási intézményben legalább tizenkét évfolyam, vagy ha az adott külföldi államban a közoktatás tizenegy évfolyamból áll, akkor tizenegy évfolyam elvégzését tanúsítja,
 - b) a kérelmezőt az adott országban felsőoktatási intézménybe történő jelentkezésre jogosítja, és
 - c) valószínűsíti, hogy a kérelmező felkészült a további tanulmányok folytatására.
 
@@ -213,11 +213,11 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (3) Az eljáró hatóság a tudományos fokozat honosításáról rendelkező határozatban feljogosítja a kérelmezőt a doktori cím használatára.
 
-### IV. Fejezet — A SZAKKÉPESÍTÉS ELISMERÉSE
+### IV. Fejezet — AZ ALAPFOKÚ ISKOLAI VÉGZETTSÉGHEZ KAPCSOLÓDÓ SZAKKÉPESÍTÉS ÉS A KÖZÉPFOKÚ ISKOLAI VÉGZETTSÉGHEZ KAPCSOLÓDÓ SZAKKÉPESÍTÉS, ILLETVE SZAKKÉPZETTSÉG ELISMERÉSE
 
-### AZ ALAP-, KÖZÉP- ÉS FELSŐFOKÚ SZAKKÉPESÍTÉS ELISMERÉSE, A HATÓSÁGI BIZONYÍTVÁNY
+### AZ ALAP- ÉS KÖZÉPFOKÚ SZAKKÉPESÍTÉS, ILLETVE A KÖZÉPFOKÚ SZAKKÉPZETTSÉG ELISMERÉSE, A HATÓSÁGI BIZONYÍTVÁNY
 
-16. § (1) Magyarországon megszerezhető, alap-, közép- vagy felsőfokú szakképesítést tanúsító bizonyítványként olyan külföldi bizonyítvány ismerhető el, amely, figyelembe véve a kiállító külföldi intézmény jogállását, a bizonyítvány jogi hatályát, továbbá összehasonlítva a képzés időtartamát, tartalmát, valamint a szakmai és vizsgakövetelményeket, olyan szakképesítést tanúsít, amely Magyarországon megszerezhető vagy korábban megszerezhető volt.
+16. § (1) Magyarországon megszerezhető, alap- és középfokú szakképesítést tanúsító szakmai bizonyítványként, illetve a középfokú szakképzettséget tanúsító oklevélként tanúsító bizonyítványként olyan külföldi bizonyítvány ismerhető el, amely, figyelembe véve a kiállító külföldi intézmény jogállását, a bizonyítvány jogi hatályát, továbbá összehasonlítva a képzés időtartamát, tartalmát, valamint a képzési és kimeneti követelményeket, olyan szakképesítést, illetve szakképzettséget tanúsít, amely Magyarországon megszerezhető vagy korábban megszerezhető volt.
 
 (2) Ha a kérelmező képzése és a megfelelő hazai képesítéshez vezető képzés között alapvető különbség van, az eljáró hatóság a bizonyítvány elismerését szakmai vizsga letételéhez kötheti.
 
@@ -225,7 +225,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (4) A mestervizsga elismerésére az (1)–(3) bekezdés rendelkezéseit megfelelően alkalmazni kell.
 
-17. § Az eljáró hatóság a külföldi oktatási intézményben szerzett bizonyítványnak a magyar általános iskolai, szakképesítő vagy középiskolai érettségi bizonyítvánnyal való egyenértékűségéről, ha azt nemzetközi szerződés vagy jogszabály állapítja meg, hatósági bizonyítványt állít ki.
+17. § Az eljáró hatóság a külföldi oktatási intézményben szerzett bizonyítványnak a magyar általános iskolai bizonyítvánnyal, szakképzésben szerzett oklevéllel, illetve szakmai bizonyítvánnyal vagy érettségi bizonyítvánnyal való egyenértékűségéről, ha azt nemzetközi szerződés vagy jogszabály állapítja meg, hatósági bizonyítványt állít ki.
 
 ### V. Fejezet — A FELSŐFOKÚ VÉGZETTSÉGHEZ KAPCSOLÓDÓ SZAKKÉPZETTSÉG ELISMERÉSE
 
@@ -328,7 +328,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 28. § E rész alkalmazásában a következő fogalmak esetén az alábbi meghatározásokat kell alkalmazni.
 
-(1) Tagállamnak minősül Magyarország kivételével az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szakképesítések elismerése vagy – a X. fejezet alkalmazásában – a szolgáltatásnyújtás szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogokat élvez.
+(1) Tagállamnak minősül Magyarország kivételével az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szakképesítések, illetve szakképzettségek elismerése vagy – a X. fejezet alkalmazásában – a szolgáltatásnyújtás szabadsága tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogokat élvez.
 
 (2) A tagállam állampolgárával azonos megítélés alá esik:
 
@@ -427,7 +427,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 - f) az általános ápolói képzésben nem részesült szakápoló esetében, ha a kérelmező képesítésének megfelelő szakmai tevékenységet Magyarországon általános ápolók, általános ápolói képzésben nem részesült szakápolók, vagy olyan szakápolók végzik, akik olyan előírt szakosított képesítés megszerzését tanúsító okirattal rendelkeznek, amelynek kibocsátására az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott szakmai címek megszerzéséhez vezető képzést követően került sor, továbbá
 - g) ha a kérelmező harmadik országban szerzett képesítése a 28. § (5) bekezdésének hatálya alá tartozik.
 
-30. § (1) Ha valamely szabályozott szakma gyakorlása Magyarországon szakmai képesítés birtoklásához kötött, a kérelmező szakképzettsége a szabályozott szakma gyakorlásának engedélyezésére vonatkozó jogszabályok által előírt szakképzettséggel akkor minősül egyenértékűnek, ha a kérelmező a képzés sikeres elvégzését tanúsító olyan okirattal vagy képzettségi tanúsítvánnyal rendelkezik, amely feljogosítja ugyanazon szakma gyakorlására a származási tagállamban.
+30. § (1) Ha valamely szabályozott szakma gyakorlása Magyarországon szakmai képesítés birtoklásához kötött, a kérelmező szakképesítése, illetve szakképzettsége a szabályozott szakma gyakorlásának engedélyezésére vonatkozó jogszabályok által előírt szakképesítéssel, illetve szakképzettséggel akkor minősül egyenértékűnek, ha a kérelmező a képzés sikeres elvégzését tanúsító olyan okirattal vagy képzettségi tanúsítvánnyal rendelkezik, amely feljogosítja ugyanazon szakma gyakorlására a származási tagállamban.
 
 (2) Az (1) bekezdés szerinti okiratnak tekintendő az olyan, a (3) bekezdésnek megfelelő képzettségi tanúsítvány vagy képzés sikeres elvégzését tanúsító okirat is, amelyet egy olyan tagállam illetékes hatósága állított ki, amely az adott szakmát nem szabályozza, feltéve, hogy a kérelmező az adott szakmát valamely tagállamban a kérelem benyújtását megelőző tíz évben legalább egy évig teljes munkaidőben vagy ezzel egyenértékű részmunkaidőben gyakorolta.
 
@@ -532,7 +532,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 ### IX. Fejezet — A KÉPZÉS SIKERES ELVÉGZÉSÉT TANÚSÍTÓ EGYES OKIRATOK FELTÉTEL NÉLKÜLI ELISMERÉSE
 
-37. § (1) Az eljáró hatóság e fejezet rendelkezései alapján a külön jogszabályokban meghatározott általános orvosi, szakorvosi, ápolói, szülésznői, fogorvosi, fogszakorvosi, állatorvosi, gyógyszerészi, valamint okleveles építészmérnöki képzés elvégzését tanúsító, a minimális közös képzési követelményekkel összhangban kiállított okiratokat az adott szakma gyakorlásának megkezdése szempontjából a megfelelő hazai szakképzettséggel egyenértékűként feltétel nélkül ismeri el.
+37. § (1) Az eljáró hatóság e fejezet rendelkezései alapján a külön jogszabályokban meghatározott általános orvosi, szakorvosi, ápolói, szülésznői, fogorvosi, fogszakorvosi, állatorvosi, gyógyszerészi, valamint okleveles építészmérnöki képzés elvégzését tanúsító, a minimális közös képzési követelményekkel összhangban kiállított okiratokat az adott szakma gyakorlásának megkezdése szempontjából a megfelelő hazai szakképesítéssel, illetve szakképzettséggel egyenértékűként feltétel nélkül ismeri el.
 
 (2) Ha külön jogszabály előírja, hogy
 

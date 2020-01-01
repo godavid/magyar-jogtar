@@ -47,6 +47,8 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 (2a) Az (1) bekezdésben rögzített, a felszámolás alatt álló gazdálkodó szervezetnél foglalkoztatott, szokásos magyarországi munkavégzési hellyel rendelkező munkavállalók körébe tartoznak a megszűnt magán nevelési-oktatási intézmény munkavállalói is, a nevelési-oktatási intézmény fenntartójára törvény rendelkezése alapján átszállt, a munkavállalók elmaradt munkabérét érintő kötelezettségekkel összefüggésben.
 
+(2b) E törvény alkalmazásában szokásos magyarországi munkavégzési hellyel rendelkezőnek kell tekinteni az Európai Unió valamely tagállamában időszakos jelleggel, legfeljebb huszonnégy hónap időtartamra kiküldetésben lévő, magyar munkajog hatálya alá tartozó munkavállalót is.
+
 (3) Vitás esetben az állami foglalkoztatási szerv, a felszámoló, vagy a munkavállaló kérelmére a munkaügyi perben eljáró bíróság tizenöt napon belül, nemperes eljárásban dönt arról, hogy a munkavállaló szokásos munkavégzési helye Magyarországon található-e.
 
 (4) A (3) bekezdés szerinti nemperes eljárásban a munkaügyi perben eljáró bíróság illetékességét az eljáró állami foglalkoztatási szerv székhelye határozza meg, eljáró állami foglalkoztatási szerv hiányában a Fővárosi Közigazgatási és Munkaügyi Bíróság az illetékes.
@@ -124,7 +126,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 8. § (1) A jogosulatlanul igénybe vett vagy nem jogszerűen felhasznált támogatást a támogatás iránti kérelem benyújtásának időpontjában hatályos jegybanki alapkamat kétszeresével növelt összegben kell visszafizetni. Ilyennek kell tekinteni, ha az állami foglalkoztatási szerv az 5. § (2) bekezdésében meghatározott kifizetést – a felszámoló valóságnak nem megfelelő adatszolgáltatása miatt – olyan munkavállaló részére is teljesíti, akinek nem állt fenn bértartozása vagy a munkavállaló fennálló bértartozásánál nagyobb mértékű támogatási összeg került kifizetésre.
 
-(1a)
+(1a) A jogosulatlanul igénybe vett vagy nem jogszerűen felhasznált támogatás visszakövetelése, vagy az annak biztosítékaként szereplő vagyontárgyra irányuló végrehajtás tekintetében nem kell alkalmazni az állami vagyonról szóló 2007. évi CVI. törvény rendelkezéseit.
 
 (2) Az (1) bekezdés szerinti visszafizetésből a kamatrész a felszámolót, a támogatás összege a felszámolás alatt álló gazdálkodó szervezet vagyonát terheli.
 
@@ -177,7 +179,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 12/A. § Az e törvényben meghatározott jogok és kötelezettségek tekintetében a Bérgarancia biztost, valamint a kényszertörlési eljárás alatt álló gazdálkodó szervezet munkavállalóját ugyanazok a jogok illetik meg, illetve kötelezettségek terhelik, mint a felszámolót, illetőleg felszámolás alatt álló gazdálkodó szervezet munkavállalóját.
 
-13. § (1) Ha a kölcsönbeadó, illetve az iskolaszövetkezet 11. § szerinti kérelme az e törvényben foglaltaknak megfelel, az állami foglalkoztatási szerv a kölcsönbeadó és az iskolaszövetkezet részére a 11. §-ban meghatározott támogatást megállapítja és a kérelem átvételétől számított 15 napon belül intézkedik annak a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből a kölcsönbeadó és az iskolaszövetkezet pénzforgalmi számlájára történő átutalásáról.
+13. § (1) Ha a kölcsönbeadó, illetve az iskolaszövetkezet 11. § szerinti kérelme az e törvényben foglaltaknak megfelel, az állami foglalkoztatási szerv a kölcsönbeadó és az iskolaszövetkezet részére a 11. §-ban meghatározott támogatást megállapítja és a döntés meghozatalától számított 5 napon belül intézkedik annak a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből a kölcsönbeadó és az iskolaszövetkezet pénzforgalmi számlájára történő átutalásáról.
 
 (2) A 11. §-ban meghatározott támogatás nyújtására az 1. § (1) bekezdés b) és c) pontját, (4) és (5) bekezdését, a 2/A. § (3) bekezdését, a 4. §-t, az 5. § (1) bekezdését, valamint a 8. § (1) bekezdését alkalmazni kell.
 
@@ -204,7 +206,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 - a) A Tanács 1980. október 20-i, a munkáltató fizetésképtelensége esetén a munkavállalók védelmére vonatkozó tagállami jogszabályok közelítéséről szóló 80/987/EGK számú irányelve;
 - b) Az Európai Parlament és a Tanács 2002. szeptember 23-i, a munkáltató fizetésképtelensége esetén a munkavállalók védelmére vonatkozó tagállami jogszabályok közelítéséről szóló 80/987/EGK tanácsi irányelv módosításáról szóló 2002/74/EK irányelve.
 
-(3)
+(3) Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és a tanács rendelet 12. cikk (1) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (4)
 

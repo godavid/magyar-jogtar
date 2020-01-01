@@ -37,15 +37,21 @@ a következő törvényt alkotja:
 
 #### 2. Iskolaszövetkezet
 
-7. § (1) Az iskolaszövetkezet a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti középfokú iskolával, kollégiummal, alapfokú művészeti iskolával (a továbbiakban együtt: nevelési-oktatási intézmény) tanulói jogviszonyban álló tanulók, továbbá a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvényben meghatározott felsőoktatási intézménnyel hallgatói jogviszonyban álló hallgatók számára lehetőséget biztosít a munkavégzési feltételek megteremtésére, valamint gyakorlati képzésük elősegítésére.
+7. § (1) Az iskolaszövetkezet
+
+- a) a középfokú iskolával, a kollégiummal, illetve az alapfokú művészeti iskolával (a továbbiakban együtt: nevelési-oktatási intézmény) tanulói jogviszonyban álló tanulók,
+- b) a szakképző intézménnyel tanulói jogviszonyban álló tanulók vagy felnőttképzési jogviszonyban álló képzésben részt vevő személyek, és
+- c) a felsőoktatási intézménnyel hallgatói jogviszonyban álló hallgatók
+
+számára lehetőséget biztosít a munkavégzési feltételek megteremtésére, valamint szakirányú oktatási, illetve gyakorlati képzésük elősegítésére.
 
 (2) Az iskolaszövetkezetnek a nevében viselnie kell az „iskolaszövetkezet” megnevezést.
 
-(3) Az iskolaszövetkezet tevékenységének összhangban kell állnia a nevelési-oktatási intézmény, a felsőoktatási intézmény pedagógiai és képzési célkitűzéseivel, az nem veszélyeztetheti a nevelési-oktatási, a felsőoktatási intézmény működését, a nevelési-oktatási, a felsőoktatási intézményben folytatott tanulmányokat.
+(3) Az iskolaszövetkezet tevékenységének összhangban kell állnia a nevelési-oktatási intézmény, a szakképző intézmény, illetve felsőoktatási intézmény pedagógiai és képzési célkitűzéseivel, az nem veszélyeztetheti a nevelési-oktatási, a felsőoktatási intézmény működését, a nevelési-oktatási, a felsőoktatási intézményben folytatott tanulmányokat.
 
-(4) Az iskolaszövetkezet hozzájárulhat a nevelési-oktatási intézmény, illetve a felsőoktatási intézmény nevelő és oktató munkájához szükséges feltételek javításához. Az iskolaszövetkezet hozzájárulhat a tagjai tanulmányainak folytatásához szükséges feltételek megteremtéséhez.
+(4) Az iskolaszövetkezet hozzájárulhat a nevelési-oktatási intézmény, a szakképző intézmény, illetve a felsőoktatási intézmény nevelő és oktató munkájához szükséges feltételek javításához. Az iskolaszövetkezet hozzájárulhat a tagjai tanulmányainak folytatásához szükséges feltételek megteremtéséhez.
 
-(5) Amennyiben az iskolaszövetkezet nevelési-oktatási intézmény tagja szakiskola vagy szakközépiskola, a gyakorlati képzés feladatait részben vagy egészben az iskolaszövetkezet is elláthatja, feltéve, hogy rendelkezik a gyakorlati képzés megszervezéséhez szükséges feltételekkel.
+(5)
 
 (6) A gyakorlati képzéshez kapcsolódó, a felsőoktatási intézmény által meghatározott szakmai feltételeket az iskolaszövetkezet és a szolgáltatás fogadója együttesen biztosítja.
 
@@ -53,17 +59,17 @@ a következő törvényt alkotja:
 
 (7) Az iskolaszövetkezet útján megszervezett gyakorlati képzés esetén a szakmai gyakorlatot – a szolgáltatás fogadójának nyilatkozata alapján – az iskolaszövetkezet igazolhatja, feltéve, hogy a gyakorlati képzés az iskolaszövetkezet hallgató tagjának felsőoktatási képzésben megszerzett elméleti ismereteinek felhasználását igényli, továbbá a szolgáltatás fogadója megfelel a szakmai gyakorlóhellyel, a gyakorlati képzés tartalma pedig a szakmai gyakorlattal szemben jogszabály által támasztott követelményeknek.
 
-(8) Az iskolaszövetkezet a szolgáltatás fogadójával kötött megállapodást köteles az Oktatási Hivatalnak annak megkötésétől számított öt munkanapon belül megküldeni. Az Oktatási Hivatal a szakmai gyakorlattal kapcsolatos követelmények teljesülését a szolgáltatás fogadójánál is ellenőrizheti.
+(8) Az iskolaszövetkezet a szolgáltatás fogadójával kötött megállapodást köteles a nemzeti köznevelésről szóló 2011. évi CXC. törvény 19. § (5) bekezdése szerinti szervnek, a szakképzési államigazgatási szervnek, illetve a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 6. § (5) bekezdés a) pontja szerinti szervnek annak megkötésétől számított öt munkanapon belül megküldeni. A nemzeti köznevelésről szóló 2011. évi CXC. törvény 19. § (5) bekezdése szerinti szerv, a szakképzési államigazgatási szerv, illetve a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 6. § (5) bekezdés a) pontja szerinti szerv a szakmai gyakorlattal kapcsolatos követelmények teljesülését a szolgáltatás fogadójánál is ellenőrizheti.
 
 (9) Az iskolaszövetkezet közhasznú jogállású lehet.
 
-8. § (1) Az iskolaszövetkezet alapításában és működésében nevelési-oktatási intézménynek vagy felsőoktatási intézménynek tagként részt kell vennie.
+8. § (1) Az iskolaszövetkezet alapításában és működésében nevelési-oktatási intézménynek, szakképző intézménynek, illetve felsőoktatási intézménynek tagként részt kell vennie.
 
-(2) A nevelési-oktatási intézmény akkor lehet az iskolaszövetkezet tagja, ha ezt alapító okirata lehetővé teszi és a tagsághoz a nevelési-oktatási intézmény fenntartója hozzájárul. Felsőoktatási intézmény akkor lehet iskolaszövetkezet tagja, ha a szenátus ezt támogatja, és a tagsághoz a felsőoktatási intézmény fenntartója hozzájárul.
+(2) A nevelési-oktatási intézmény, illetve a szakképző intézmény akkor lehet az iskolaszövetkezet tagja, ha ezt alapító okirata lehetővé teszi és a tagsághoz a nevelési-oktatási intézmény, illetve a szakképző intézmény fenntartója hozzájárul. Felsőoktatási intézmény akkor lehet iskolaszövetkezet tagja, ha a szenátus ezt támogatja, és a tagsághoz a felsőoktatási intézmény fenntartója hozzájárul.
 
 (3) Az iskolaszövetkezetnek természetes személy és jogi személy tagja lehet.
 
-(4) Az iskolaszövetkezet tagjainak legalább kilencven százaléka olyan természetes személy, aki nevelési-oktatási intézménnyel tanulói vagy felsőoktatási intézménnyel hallgatói jogviszonyban áll.
+(4) Az iskolaszövetkezet tagjainak legalább kilencven százaléka olyan természetes személy, aki nevelési-oktatási intézménnyel, illetve a szakképző intézménnyel tanulói vagy felsőoktatási intézménnyel hallgatói jogviszonyban áll.
 
 (5) Az iskolaszövetkezetnek nem lehet személyes közreműködést nem vállaló természetes személy tagja.
 
@@ -77,7 +83,7 @@ a következő törvényt alkotja:
 
 (3) Az iskolaszövetkezet közgyűlésén és a felügyelő bizottság ülésén tanácskozási joggal részt vehet
 
-- a) az iskolaszövetkezet nevelési-oktatási intézmény tagjában működő iskolai szülői szervezet (közösség) és diákönkormányzat képviselője,
+- a) az iskolaszövetkezet nevelési-oktatási intézmény, illetve a szakképző intézmény tagjában működő iskolai szülői szervezet (közösség) és diákönkormányzat képviselője,
 - b) az iskolaszövetkezet felsőoktatási intézmény tagjában működő hallgatói önkormányzat képviselője.
 
 10/A. § (1) Az iskolaszövetkezet és a tagja közötti gazdasági együttműködést, a személyes közreműködés módját – az alapszabály keretei között – a tagsági megállapodásban kell meghatározni.
@@ -118,17 +124,17 @@ a következő törvényt alkotja:
 
 11. § (1) Ha az iskolaszövetkezet tagja a tizennyolcadik életévét még nem töltötte be, az iskolaszövetkezet üzletszerű gazdasági tevékenységében személyes közreműködésére – ideértve a munkaviszony, illetve a polgári jogi jogviszony keretében történő munkavégzés esetét is –, az Mt.-ben foglalt, a fiatal munkavállalók munkajogi védelmére vonatkozó rendelkezések figyelembevételével kerülhet sor.
 
-(2) Ha az iskolaszövetkezet üzletszerű gazdasági tevékenységében személyes közreműködésre munkaviszony, illetve polgári jogi jogviszony létrehozása nélkül kerül sor, az iskolaszövetkezet tizenhatodik életévét be nem töltött tagja csak olyan tevékenységet láthat el, amelyet a vele jogviszonyban álló nevelési-oktatási intézmény pedagógiai programja alapján a tanítási órák keretében is ellát, vagy amely kapcsolódik a nevelési-oktatási intézmény létesítményeinek rendeltetésszerű működésével összefüggő, a tanulói jogviszonyból származó kötelezettségeinek teljesítéséhez.
+(2) Ha az iskolaszövetkezet üzletszerű gazdasági tevékenységében személyes közreműködésre munkaviszony, illetve polgári jogi jogviszony létrehozása nélkül kerül sor, az iskolaszövetkezet tizenhatodik életévét be nem töltött tagja csak olyan tevékenységet láthat el, amelyet a vele jogviszonyban álló nevelési-oktatási intézmény pedagógiai programja, illetve a szakképző intézmény szakmai programja alapján a tanítási órák keretében is ellát, vagy amely kapcsolódik a nevelési-oktatási intézmény létesítményeinek rendeltetésszerű működésével összefüggő, a tanulói jogviszonyból származó kötelezettségeinek teljesítéséhez.
 
-(3) Ha a gyakorlati képzést az iskolaszövetkezet keretében szervezik meg, a tag és az iskolaszövetkezet gazdasági együttműködése keretében – az alapszabályban – meg kell határozni a gyakorlati képzés során előállított termékek értékesítésével és az ebből származó nyereség szétosztásával kapcsolatos kérdéseket. Ha az iskolaszövetkezet keretében szervezik meg a gyakorlati képzést, az iskolaszövetkezet a tagjaival – a szakképzésről szóló törvény rendelkezései szerint – tanulószerződést is köthet.
+(3)
 
-12. § (1) A nevelési-oktatási intézmény, továbbá a felsőoktatási intézmény azt a vagyonát viheti be az iskolaszövetkezetbe, illetve azt a vagyonát bocsáthatja az iskolaszövetkezet rendelkezésére, amellyel az alapító okiratának megfelelően vállalkozhat, feltéve, hogy ez nem veszélyezteti az alapító okiratában meghatározott alaptevékenységét és ebből fakadó kötelezettségeinek teljesítését.
+12. § (1) A nevelési-oktatási intézmény, a szakképző intézmény, illetve a felsőoktatási intézmény azt a vagyonát viheti be az iskolaszövetkezetbe, illetve azt a vagyonát bocsáthatja az iskolaszövetkezet rendelkezésére, amellyel az alapító okiratának megfelelően vállalkozhat, feltéve, hogy ez nem veszélyezteti az alapító okiratában meghatározott alaptevékenységét és ebből fakadó kötelezettségeinek teljesítését.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően, ha a nevelési-oktatási intézmény a szakképzési hozzájárulás teljesítése keretében fejlesztési támogatást kap, az ebből származó vagyon – külön megállapodás keretében – az iskolaszövetkezet rendelkezésére bocsátható, feltéve, hogy az iskolaszövetkezet alapszabálya szerint részt vesz a gyakorlati képzés feladatainak az ellátásában, és ezt a célt a fejlesztési támogatás nyújtásával kapcsolatos megállapodásban rögzítik.
 
-(3) A nevelési-oktatási intézmény, illetve a felsőoktatási intézmény által az iskolaszövetkezet rendelkezésére bocsátott vagyon nem minősíthető az iskolaszövetkezet fel nem osztható vagyonává.
+(3) A nevelési-oktatási intézmény, a szakképző intézmény, illetve a felsőoktatási intézmény által az iskolaszövetkezet rendelkezésére bocsátott vagyon nem minősíthető az iskolaszövetkezet fel nem osztható vagyonává.
 
-(4) Ha az iskolaszövetkezet jogutód nélkül megszűnik, az a vagyon, amelyet a nevelési-oktatási intézmény, illetve a felsőoktatási intézmény az (1) és (2) bekezdés alapján bocsátott az iskolaszövetkezet rendelkezésére, a nevelési-oktatási intézményt, illetve a felsőoktatási intézményt illeti meg.
+(4) Ha az iskolaszövetkezet jogutód nélkül megszűnik, az a vagyon, amelyet a nevelési-oktatási intézmény, a szakképző intézmény, illetve a felsőoktatási intézmény az (1) és (2) bekezdés alapján bocsátott az iskolaszövetkezet rendelkezésére, a nevelési-oktatási intézményt, illetve a felsőoktatási intézményt illeti meg.
 
 (5) Az iskolaszövetkezet alapszabálya nem jogosíthatja fel a közgyűlést arra, hogy a szövetkezet veszteségének fedezésére pótbefizetést írjon elő.
 

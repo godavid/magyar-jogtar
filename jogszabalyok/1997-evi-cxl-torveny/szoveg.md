@@ -156,7 +156,7 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 (5) A muzeális intézmény a kulturális javakhoz való hozzáférés feltételeit a működési engedélyében meghatározott szakmai besorolásnak megfelelő követelményszint szerint biztosítja.
 
-(6) A muzeális intézmények feladataik ellátásában – fenntartójuktól függetlenül – együttműködnek egymással, valamint a kulturális örökség más értékeit gondozó intézményekkel, így különösen a könyvtárakkal, a levéltárakkal és a közművelődés intézményeivel, továbbá a tudományos köztestületekkel, a köz- és a felsőoktatás, valamint a szakképzés intézményeivel.
+(6) A muzeális intézmények feladataik ellátásában – fenntartójuktól függetlenül – együttműködnek egymással, valamint a kulturális örökség más értékeit gondozó intézményekkel, így különösen a könyvtárakkal, a levéltárakkal és a közművelődés intézményeivel, továbbá a tudományos köztestületekkel, a köznevelési intézményekkel, a szakképző intézményekkel és a felsőoktatási intézményekkel.
 
 (7) A muzeális intézmény szakmai besorolása szerint lehet:
 
@@ -1084,7 +1084,7 @@ esetében.
 - a) területi szintű közművelődési tevékenységek szervezése, támogatása, a közművelődési feladatellátás, a közművelődési intézmények és a közösségi színterek működésének kérdéseiben szakmai szolgáltatás biztosítása, a közművelődés minőségbiztosítási, -fejlesztési rendszere működésének segítése,
 - b) együttműködés az országos, a hazai és a nemzetközi szakmai szervezetekkel,
 - c) a terület- és vidékfejlesztési célokkal összhangban közművelődési tevékenységgel összefüggő elemzések és fejlesztő programok készítése és hasznosítása, szakmai műhelyek működtetése, innovatív kezdeményezések támogatása, közreműködés a kulturális alapú gazdaságfejlesztésben a kreatív és kulturális ipari szolgáltatások fejlesztésével,
-- d) a területi szintű amatőr művészeti, népművészeti, hagyományőrző tevékenységek megőrzésének és fejlesztésének, a népi iparművészet, az élethosszig tartó tanulás, a tanórán kívüli nevelés, a felnőttképzés, az ismeretterjesztés, a közösségfejlesztés, a honismereti, helytörténeti kutatás, az anyanyelvápolás, a kulturális turizmus, a népfőiskolai mozgalom szakmai támogatása,
+- d) a területi szintű amatőr művészeti, népművészeti, hagyományőrző tevékenységek megőrzésének és fejlesztésének, a népi iparművészet, az élethosszig tartó tanulás, a tanórán kívüli nevelés, a szakképzés, az ismeretterjesztés, a közösségfejlesztés, a honismereti, helytörténeti kutatás, az anyanyelvápolás, a kulturális turizmus, a népfőiskolai mozgalom szakmai támogatása,
 - e) közművelődési információs szolgáltatás nyújtása, tematikus adatbázisok létrehozása és működtetése, részvétel az országos információs adatbázis működtetésében és a közművelődési statisztikai adatgyűjtésben,
 - f) a területi szintű értéktárak összeállításának módszertani segítése, területi kulturális regiszter gondozása, az adott terület és a főváros szellemi, tárgyi, természeti kulturális örökségének, környezeti, művészeti, közművelődési sajátosságainak bemutatása, közreműködés digitális archívum működtetésében,
 - g) a közművelődési tevékenységek szervezőinek, vezetőinek szakmai képzése és továbbképzése, szakkiadványok megjelentetése,
@@ -1184,9 +1184,9 @@ esetében.
 
 (2) A minisztérium költségvetési fejezetén belül támogatást kell előirányozni az e törvényben és Ltv.-ben meghatározott közvetlen állami feladatok ellátására, a közművelődési és a közgyűjteményi feladatfinanszírozásra, a közgyűjtemények és a közművelődési intézmények telematikai, információs feladatainak ellátására, amelyek mértékét az éves költségvetési törvény határozza meg.
 
-(3)
+(3) Az e törvény hatálya alá tartozó, központi költségvetési szervként működő intézmény kiadási előirányzata terhére a tulajdonosi joggyakorlásában álló gazdasági társaság részére költségvetési támogatást nyújthat.
 
-(4) Az egyházi jogi személyek a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, muzeális és közművelődési intézményeik működéséhez a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény, illetve az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény rendelkezéseit figyelembe véve az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.
+(4) Az egyházi jogi személyek a tulajdonukban lévő kulturális örökség értékeinek megőrzéséhez, felújításához, gyarapításához, továbbá levéltáraik, könyvtáraik, muzeális és közművelődési intézményeik működéséhez a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény, illetve az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseit figyelembe véve az éves költségvetési törvényben meghatározott összegű támogatásban részesülnek.
 
 ### Hatósági eljárásokra vonatkozó közös szabályok
 
@@ -1236,7 +1236,7 @@ esetében.
 
 (4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről hatósági nyilvántartást vezet, mely az alábbi adatok tekintetében közhitelesnek minősül:
 
-- a) a szakmai továbbképzési programot készítő intézmény megnevezése, a felnőttképzést folytató intézmények nyilvántartásában szereplő száma,
+- a) a szakmai továbbképzési programot készítő intézmény megnevezése,
 - b) a szakmai továbbképzési program megnevezése,
 - c) a szakmai továbbképzés célcsoportja,
 - d) a szakmai továbbképzési programba való jelentkezés feltételei,
@@ -1325,9 +1325,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 
 ### Vegyes rendelkezések
 
-97. § (1) A közoktatásról szóló, többször módosított 1993. évi LXXIX. törvény 11. §-a (1) bekezdésének c) pontjában szereplő könyvtárral akkor rendelkezik az iskola, ha az megfelel a miniszter által kiadott szakmai követelményeknek és normatíváknak.
-
-(2) A felsőoktatásról szóló 2005. évi CXXXIX. törvény 12. § (3) bekezdése, 15. § (12) bekezdése és 19. § (3) bekezdése szerint szükséges tárgyi feltételekkel akkor rendelkezik a könyvtár, ha megfelel a miniszter által kiadott szakmai követelményeknek és normatíváknak.
+97. § A köznevelési intézmény, a szakképző intézmény és a felsőoktatási intézmény az általa működtetett könyvtár tekintetében akkor rendelkezik a működtetéshez szükséges feltételekkel, ha az megfelel a miniszter által kiadott szakmai követelményeknek.
 
 98. § (1) Ahol jogszabály ,,muzeális emlék''-et vagy ,,muzeális érték''-et említ, ott ,,kulturális javak''-at, ahol ,,történeti (régészeti) jelentőségű védett földterület''-et, azon ,,régészeti jelentőségű védett földterület''-et, ahol ,,ásatás''-t ott ,,régészeti feltárás''-t kell érteni.
 

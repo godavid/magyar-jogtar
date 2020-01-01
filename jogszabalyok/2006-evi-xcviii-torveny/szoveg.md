@@ -1051,7 +1051,7 @@ esetén,
 
 38/A. § A 12. § (3) bekezdése szerinti, ismertetési tevékenységet folytatót – azon napok tekintetében, amelyeken az a)–g) pontok szerinti körülmény fennáll – a 36. § (4)–(4a) bekezdése szerinti befizetési kötelezettség nem terheli azon általa munkavégzésre irányuló jogviszony keretében foglalkoztatott ismertető személy után:
 
-- a) akinek táppénzt, baleseti táppénzt, csecsemőgondozási díjat, gyermekgondozási díjat folyósítanak, ennek időtartama alatt,
+- a) akinek táppénzt, baleseti táppénzt, csecsemőgondozási díjat, örökbefogadói díjat, gyermekgondozási díjat folyósítanak, ennek időtartama alatt,
 - b) akinek gyermekgondozást segítő ellátást folyósítanak, ennek időtartama alatt, kivéve, ha a folyósításban részesülő az ellátás folyósítása alatt munkát végez,
 - c) aki keresőképtelen,
 - d) aki fizetés nélküli szabadságát tölti,
@@ -1107,6 +1107,8 @@ a befizetést követően haladéktalanul átutalja.
 (5) A közforgalmú gyógyszertárat működtető vállalkozás az (1) bekezdés szerinti működési célú támogatást a tárgynegyedévet követő negyedik hónap első napjától igényelheti az illetékes elsőfokú állami adóhatóságtól.
 
 (6) Az (1) bekezdés szerinti támogatás az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény szerinti költségvetési támogatásnak minősül. A támogatás igénylésére és folyósítására az Art. rendelkezései irányadóak. A jogosultság megállapításának feltételeit jogszabály állapítja meg.
+
+(7) Az (1) bekezdés szerinti működési célú támogatást a közforgalmú gyógyszertárat működtető vállalkozás a személyi jogról történő lemondást követő, az 57. § (2) bekezdés szerinti hat hónapos időtartam azon részére is igényelheti, amelyben az egészségügyi államigazgatási szerv határozata alapján, a személyi jogról történő lemondást követően a közforgalmú gyógyszertár működtetését biztosítani köteles.
 
 42. § (1) Amennyiben a támogatott gyógyszerek tárgyévi forgalma után kifizetett társadalombiztosítási támogatás – a 38. § (1) bekezdése szerinti gyógyszerekre fordított összeget nem tartalmazó – összege meghaladja az E. Alap költségvetése Gyógyszertámogatás kiadásai jogcímének a tárgyév január első napján hatályos előirányzatának összegét, akkor e kiadási többlet finanszírozása – a (2)–(3) bekezdésben foglaltak szerint – az E. Alap kezelője és a forgalomba hozatali engedélyek jogosultjainak kötelezettsége.
 
@@ -1245,7 +1247,7 @@ a befizetést követően haladéktalanul átutalja.
 
 (2) Azon a településen, ahol már működik közforgalmú gyógyszertár, új közforgalmú gyógyszertár létesítésére az egészségügyi államigazgatási szerv akkor írhat ki pályázatot, ha az új gyógyszertárral együtt számított valamennyi közforgalmú gyógyszertárra átlagosan
 
-50 000 lélekszámot meghaladó településen és az 50 000 lélekszámot meghaladó fővárosi kerületekben legalább 4000, egyéb településen és egyéb fővárosi kerületekben legalább 4500 lakos jut, és a meglévő közforgalmú gyógyszertárak bejárata és az új közforgalmú gyógyszertár bejárata között 50 000 lélekszámot meghaladó városokban és az 50 000 lélekszámot meghaladó fővárosi kerületekben legalább 250 méter, egyéb településeken és egyéb fővárosi kerületekben legalább 300 méter távolság van.
+50 000 lélekszámot meghaladó településen és az 50 000 lélekszámot meghaladó fővárosi kerületekben legalább 4000, egyéb településen és egyéb fővárosi kerületekben legalább 4500 lakos jut, és a meglévő közforgalmú gyógyszertárak betegforgalmi bejárata és az új közforgalmú gyógyszertár betegforgalmi bejárata között 50 000 lélekszámot meghaladó városokban és az 50 000 lélekszámot meghaladó fővárosi kerületekben legalább 250 méter, egyéb településeken és egyéb fővárosi kerületekben legalább 300 méter távolság van.
 
 (3) A meglévő és az újonnan létesített közforgalmú gyógyszertárak közötti legkisebb távolságon, a közúton vagy közterületen történő megközelítéshez szükséges legrövidebb utat kell érteni.
 
@@ -1259,6 +1261,10 @@ a befizetést követően haladéktalanul átutalja.
 (3) Az egészségügyi államigazgatási szerv az új közforgalmú gyógyszertár létesítésére irányuló pályázatot – a (2) bekezdés b) pontjában foglaltakon túl – akkor is kiírja, ha a (2) bekezdés a) pontja szerinti esetben a kérelmező a közforgalmú gyógyszertár létesítésére előírt feltételeknek nem felel meg.
 
 (4) Az (1)–(3) bekezdés szerinti eljárás részletes szabályait a Kormány rendeletben állapítja meg.
+
+49/C. § (1) A gyógyszertár működtetőjének az általa vállalt többletszolgáltatást az új, közforgalmú gyógyszertár működésének megkezdésétől számított legalább ötéves időtartamra kell biztosítania. A vállalt többletszolgáltatás időtartama a létesítési engedélyben meghatározott időtartamon belül nem csökkenthető, kivéve, ha a vállalt többletszolgáltatást a működtető a működésével összefüggő, elháríthatatlan külső ok (vis maior) miatt nem tudja teljesíteni. A vis maior megszűnését követően a működtető köteles a vállalt többletszolgáltatást teljesíteni.
+
+(2) A vállalt többletszolgáltatásnak az (1) bekezdés szerinti csökkentését és az annak alapjául szolgáló vis maiort a működtető az egészségügyi államigazgatási szervnek haladéktalanul, de legkésőbb a vis maior bekövetkezését követő 12 órán belül bejelenti.
 
 ### A fiókgyógyszertár létesítése
 
@@ -1275,7 +1281,7 @@ a befizetést követően haladéktalanul átutalja.
 (2b) Fiókgyógyszertár településrészen történő működtetésére engedély akkor adható ki, ha
 
 - a) a településrészi önkormányzatot (részönkormányzatot) létrehozó képviselő-testület ahhoz hozzájárul, és
-- b) a működtetni kívánt fiókgyógyszertár bejárata és a településen már működő gyógyszertárak bejárata között számított – közúton mért – távolság minimum 1000 méter.
+- b) a működtetni kívánt fiókgyógyszertár betegforgalmi bejárata és a településen már működő gyógyszertárak betegforgalmi bejárata között számított – közúton mért – távolság minimum 1000 méter.
 
 (3) A fiókgyógyszertár annak a közforgalmú gyógyszertárnak a telephelye, amelyre nézve a létesítését engedélyezték. Mozgó egységként működtetett fiókgyógyszertár esetén az egészségügyi államigazgatási szerv engedélyében megjelöli a mozgó egység működtetését kérő közforgalmú gyógyszertár székhelyéhez földrajzilag legközelebb eső ellátható települések körét. A mozgó fiókgyógyszertár által ellátott lakosságszám az engedélyben megjelölt települések összlakosságának a számát tekintve a 4500 főt nem haladhatja meg.
 
@@ -1339,6 +1345,8 @@ az egészségügyi államigazgatási szerv – erre irányuló kérelem esetén 
 
 (6a) A közforgalmú és fiókgyógyszertár szolgálati rendjét a létesítés feltételeire is tekintettel a gyógyszertár működtetője és a személyi joggal rendelkező gyógyszertárvezető javaslata alapján az egészségügyi államigazgatási szerv a gyógyszertár működési engedélyében határozza meg. Az egészségügyi államigazgatási szerv a nyitvatartási idő megállapítása során figyelembe veszi az adott településen vagy településrészen működő egészségügyi szolgáltatók szolgálati rendjét is. Készenlét és ügyelet teljesítésére valamennyi működési engedéllyel rendelkező közforgalmú gyógyszertár és közvetlen lakossági gyógyszerellátást is biztosító intézeti gyógyszertár kötelezhető. A gyógyszertári ügyelet és gyógyszertári készenlét megállapítása során az egészségügyi államigazgatási szerv figyelembe veszi adott településen vagy településrészen működő egészségügyi szolgáltatók elérhetőségét, az orvosi ügyelet helyét és idejét, az ellátandó lakosságszámot, továbbá a gyógyszertár közfinanszírozott gyógyszerek forgalmazásából származó árréstömegét. A folyamatos lakossági gyógyszerellátás érdekében a gyógyszertár ügyeleti, készenléti idejének megállapítására irányuló eljárás hivatalból is indulhat.
 
+(6b) A gyógyszertár működtetője a működési engedélyben meghatározott teljes nyitvatartási időben kizárólag a betegforgalom bonyolítására szolgáló helyiségben biztosítja a gyógyszerek és a gyógyszertárban forgalmazható egyéb termékek kiszolgáltatását. Nyitvatartási időben a gyógyszerek és a gyógyszertárban forgalmazható egyéb termékek kiszolgáltatása kiadó ablakon keresztül tilos.
+
 (7) Az egészségügyi államigazgatási szerv a gyógyszertár működtetésére vonatkozó végleges döntését megküldi az egészségbiztosítási szerv, illetve a települési önkormányzat jegyzője részére is.
 
 (8) A gyógyszertár létesítésére, működésére szóló hatósági engedélyben foglalt jogosultság forgalomképtelen.
@@ -1367,17 +1375,17 @@ az egészségügyi államigazgatási szerv – erre irányuló kérelem esetén 
 - b) ha a gyógyszertárnak helyet adó ingatlan megsemmisül, vagy
 - c) amennyiben a gyógyszertárnak helyet adó ingatlan bérleti joga azért kerül megszüntetésre, mert a közforgalmú gyógyszertár az azt működtető gazdasági társaság, egyéni vállalkozó, vagy egyéni cég tulajdonában lévő ingatlanba kerülne áthelyezésre.
 
-(2) Az (1) bekezdés szerinti áthelyezésre kizárólag az adott településen/településrészen/ kerületben az áthelyezendő gyógyszertár bejáratától számított – közúton mért – maximum 1000 méter távolságon belül kerülhet sor akkor, ha a meglévő közforgalmú gyógyszertárak bejárata és az áthelyezendő közforgalmú gyógyszertár bejárata között 50 000 lélekszámot meghaladó városokban legalább 250 méter, egyéb településeken legalább 300 méter távolság van.
+(2) Az (1) bekezdés szerinti áthelyezésre kizárólag az adott településen/településrészen/ kerületben az áthelyezendő gyógyszertár betegforgalmi bejáratától számított – közúton mért – maximum 1000 méter távolságon belül kerülhet sor akkor, ha a meglévő közforgalmú gyógyszertárak betegforgalmi bejárata és az áthelyezendő közforgalmú gyógyszertár betegforgalmi bejárata között 50 000 lélekszámot meghaladó városokban legalább 250 méter, egyéb településeken legalább 300 méter távolság van.
 
 (2a) Amennyiben a közforgalmú gyógyszertár az adott településen a lakossági gyógyszerellátást egyedüliként biztosítja, úgy a közforgalmú gyógyszertár működtetője kérelmére az egészségügyi államigazgatási szerv engedélyezi a közforgalmú gyógyszertár áthelyezését az adott településen belül.
 
 (3) A közforgalmú gyógyszertár működtetőjének kérelmére vagy a települési önkormányzat és a közforgalmú gyógyszertár működtetőjének együttes kérelmére az egészségügyi államigazgatási szerv a (2) bekezdésben foglaltak figyelembevételével engedélyezi a közforgalmú gyógyszertár áthelyezését, amennyiben az a települési alapellátási és/vagy szakellátási szolgáltatások fejlesztési forrásból megvalósuló, 2011. január 1-je előtt meghirdetett pályázatokkal összefüggő integrációjához, fejlesztéséhez kapcsolódik.
 
-(4) A közforgalmú gyógyszertár áthelyezésére az áthelyezést engedélyező határozat véglegessé válását követő egy éven belül kerülhet sor.
+(4) A közforgalmú gyógyszertár áthelyezésére az áthelyezést engedélyező határozat véglegessé válását követő egy éven belül kerülhet sor. Ha a közforgalmú gyógyszertár áthelyezését többször is kezdeményezik, úgy a (2) bekezdés szerinti távolságokat minden esetben az áthelyezendő közforgalmú gyógyszertár eredeti működési helyének betegforgalmi bejáratától kell számítani, és a többszöri áthelyezéssel az eredeti működési helytől számított, közúton mért maximálisan 1000 méteres távolság nem léphető túl az első áthelyezést engedélyező határozat véglegessé válásától számított 5 évig. Az 5 év elteltével kerülhet sor a közforgalmú gyógyszertár áthelyezésére úgy, hogy a közúton mért maximálisan 1000 méteres távolságot a közforgalmú gyógyszertárnak az áthelyezési kérelem beadásának időpontjában meglévő működési helyétől kell számítani.
 
 53/C. § Közforgalmú gyógyszertár csak akkor működtethető, ha az általa működtetett fiókgyógyszertár nyitva tartását is beleszámítva legalább heti 30 órában a lakosság rendelkezésére áll.
 
-53/D. § (1) A gyógyszertárat működtető gazdasági társaság tulajdonosi szerkezetét, törvényes képviseletét, társasági szerződésének vagy alapító okiratának rendelkezéseit az egészségügyi államigazgatási szerv a (2) bekezdés szerinti ellenőrzés céljából és annak keretei között vizsgálja.
+53/D. § (1) A gyógyszertárat működtető gazdasági társaság tulajdonosi szerkezetét, törvényes képviseletét, társasági szerződésének vagy alapító okiratának, valamint a gyógyszertár működtetését szabályozó, a (2) bekezdésben hivatkozott rendelkezéseket érintő egyéb megállapodások, jognyilatkozatok rendelkezéseit az egészségügyi államigazgatási szerv a (2) bekezdés szerinti ellenőrzés céljából és annak keretei között vizsgálja.
 
 (2) Az egészségügyi államigazgatási szerv ellenőrzi, hogy a gyógyszertárat működtető gazdasági társaság, illetve a személyi jogos gyógyszerész a 73. §-ban, a 74. § (3), (5) és (6) bekezdésben, a 75. §-ban, valamint a 83/A. § (3), (7) és (8) bekezdésében foglalt rendelkezések szerint működik, jár el.
 
@@ -1442,7 +1450,8 @@ vonatkozó előírásokat ismételten és súlyosan megsérti.
 - i) a gyógyszertár a működését a pályázatban meghatározott határidőben a nyertes pályázónak felróható okból nem kezdte meg,
 - j) a pályázatban vállalt többletszolgáltatást a pályázat nyertese nem teljesíti,
 - k) a közforgalmú gyógyszertárat működtető gazdasági társaság nem felel meg a 74. § (1) bekezdésében foglaltaknak,
-- l) a gyógyszertár egészségbiztosítási szervvel fennálló ártámogatási szolgáltatói jogviszonya megszűnik.
+- l) a gyógyszertár egészségbiztosítási szervvel fennálló ártámogatási szolgáltatói jogviszonya megszűnik,
+- m) a gyógyszertár működtetője alaptalanul hivatkozott a 49/C. §-ban foglalt vis maiorra.
 
 (3) A működési engedélyt a (2) bekezdés
 
@@ -1592,7 +1601,8 @@ tevékenységet folytatott, és e tevékenység megszűnésétől három év mé
 (2) A több mint heti 48 órát nyitva tartó gyógyszertár vezetője más munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt nem létesíthet, illetve nem tarthat fenn, ide nem értve:
 
 - a) a tudományos, oktatói, illetve a szerzői jogi védelem alá eső tevékenységet, vagy
-- b) a települést egyedüliként ellátó, egy gyógyszerésszel működő közforgalmú gyógyszertárak személyi jogos gyógyszerészei közötti megállapodáson alapuló, évente 60 napot meg nem haladó helyettesítést.
+- b) a települést egyedüliként ellátó, egy gyógyszerésszel működő közforgalmú gyógyszertárak személyi jogos gyógyszerészei közötti megállapodáson alapuló, évente 60 napot meg nem haladó helyettesítést, vagy
+- c) más közforgalmú gyógyszertárban vagy más közforgalmú gyógyszertárhoz tartozó fiókgyógyszertárban folytatott gyógyszerészi tevékenységet feltéve, hogy az adott gyógyszertárat működtető gazdasági társaságban gyógyszerésziként nyilvántartott tulajdoni hányaddal rendelkezik és a munkaideje összesen a heti 60 órát nem haladja meg.
 
 (2a) A gyógyszertár vezetője – az általa vezetett közforgalmú gyógyszertárhoz tartozó fiókgyógyszertár kivételével – csak egy gyógyszertárat vezethet.
 
@@ -1707,7 +1717,7 @@ tevékenységet folytatott, és e tevékenység megszűnésétől három év mé
 
 ### Vegyes rendelkezések
 
-73. § (1) Gyógyszertárat működtető gazdasági társaság a gyógyszertár szakmai vezetését, irányítását, valamint a gyógyszertárban szakellátási feladatokat ellátó személyeket gyógyszerellátással kapcsolatos szakmai kérdésekben, így a gyógyszerek kiadása, eltartása, a gyógyszerekkel kapcsolatos betegtájékoztatási és kereskedelmi gyakorlatra vonatkozó tevékenység tekintetében nem utasíthatja. A gyógyszertárat működtető gazdasági társaság legfőbb szerve (tagok gyűlése, taggyűlés, közgyűlés) kizárólag a gyógyszertár szakmai vezetését ellátó személyi jogos gyógyszerész igenlő szavazatával hozhat döntést a gyógyszertár szakmai vezetésével, irányításával és a közfinanszírozással kapcsolatos szakmai kérdésekben, így a szolgálati rend és a gyógyszertári termékkör kialakítására, a gyógyszerek beszerzésére, készletezésére, eltartására, kiadására, a gyógyszerekkel kapcsolatos betegtájékoztatási és kereskedelmi gyakorlatra vonatkozó tevékenységre, a gyógyszertárban szakellátási feladatokat ellátó személyek foglalkoztatására, valamint a közfinanszírozási szerződések megkötésére és módosítására vonatkozóan. Az ezzel ellentétes intézkedés, megállapodás semmis.
+73. § (1) Gyógyszertárat működtető gazdasági társaság a gyógyszertár szakmai vezetését, irányítását, valamint a gyógyszertárban szakellátási feladatokat ellátó személyeket gyógyszerellátással kapcsolatos szakmai kérdésekben, így a gyógyszerek kiadása, eltartása, a gyógyszerekkel kapcsolatos betegtájékoztatási és kereskedelmi gyakorlatra vonatkozó tevékenység tekintetében nem utasíthatja. A gyógyszertárat működtető gazdasági társaság legfőbb szerve (tagok gyűlése, taggyűlés, közgyűlés) kizárólag a gyógyszertár szakmai vezetését ellátó személyi jogos gyógyszerész igenlő szavazatával hozhat döntést a gyógyszertár szakmai vezetésével, irányításával és a közfinanszírozással kapcsolatos szakmai kérdésekben, így a szolgálati rend és a gyógyszertári termékkör kialakítására, a gyógyszerek beszerzésére, készletezésére, eltartására, kiadására, a gyógyszerekkel kapcsolatos betegtájékoztatási és kereskedelmi gyakorlatra vonatkozó tevékenységre, a gyógyszertárban szakellátási feladatokat ellátó személyek foglalkoztatására, valamint a közfinanszírozási szerződések megkötésére és módosítására vonatkozóan. Az ezzel ellentétes vagy ennek megkerülésével megtett intézkedés, nyilatkozat, megkötött szerződés, megállapodás semmis.
 
 (2) Gyógyszertárat működtető nem köthet olyan szerződést, nem fogadhat el olyan előnyt, amely betegek, fogyasztók hatékony és biztonságos gyógyszerellátását sérti vagy veszélyezteti. Gyógyszertárban szakmai feladatot ellátó személyek nem vállalhatnak olyan szerződéses kötelezettséget és nem fogadhatnak el olyan előnyt, amely korlátozhatja vagy akadályozhatja szakmai függetlenségüket, különös tekintettel a betegekkel szemben fennálló pártatlan és tárgyszerű tanácsadási kötelezettségük teljesítésére.
 
@@ -1735,6 +1745,8 @@ a gyógyszertárat működtető vállalkozásban meghaladja az 50%-ot.
 (6) A közforgalmú gyógyszertárat működtető gazdasági társaság működése során a gyógyszerészi tulajdoni hányad tekintetében biztosítani kell a tagsági jogoknak a tulajdoni hányadnak megfelelő – a társasági szerződésben rendezett – gyakorlását. Az ezzel ellentétes megállapodás semmis.
 
 (7) A gyógyszertárat működtető gazdasági társaságban tulajdonhányaddal rendelkező gyógyszerész halála esetén a hagyatékátadó végzés jogerőre emelkedését követő 45 napon belül kell megfelelni az (1) bekezdés b) pontjában foglaltaknak.
+
+(8) Ha a közforgalmú gyógyszertárat működtető gazdasági társaság jogutód nélküli megszűnésére arra tekintettel kerülne sor, hogy tagjainak száma egy főre csökken, és az ettől számított hat hónapos jogvesztő határidőn belül a gazdasági társaság nem jelenti be a nyilvántartó hatóságnál újabb tagnak a társaságba való belépését, a gazdasági társaságban egyedüli tagként maradt közforgalmú gyógyszertár működtetésére személyi joggal rendelkező gyógyszerész – a működési engedély módosításával – jogosult egyéni vállalkozóként a gyógyszertárat továbbműködtetni.
 
 74/A. §
 

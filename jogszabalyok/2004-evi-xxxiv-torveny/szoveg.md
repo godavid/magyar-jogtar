@@ -139,15 +139,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 12. § A Kormány kétévente az Országgyűlés elé terjeszti a miniszter által kidolgozott, a KKV-k helyzetét, gazdálkodási feltételrendszerét, a vállalkozásfejlesztés érdekében megtett intézkedéseket, valamint a KKV-k részére nyújtott állami támogatások eredményeit bemutató jelentést.
 
-12/A. § (1) A hatósági ellenőrzést végző szervek a kis- és középvállalkozásokkal szemben az első esetben előforduló jogsértés esetén – az adó- és vámhatósági eljárást és a felnőttképzési tevékenységet folytató intézmények ellenőrzésére irányuló eljárást kivéve – bírság kiszabása helyett figyelmeztetést alkalmaznak.
-
-(2) Nincs lehetőség a bírságtól való eltekintésre, ha
-
-- a) a jogsértés emberi életet, testi épséget vagy egészséget sért vagy veszélyeztet,
-- b) a bírság kiszabásának alapjául szolgáló tényállás megvalósulásával környezetkárosodás következett be,
-- c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor, vagy
-- d) a jogsértésre a személyeknek koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó személlyel szemben került sor,
-- e) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a fogyasztóvédelemről szóló 1997. évi CLV. törvény 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét.
+12/A. §
 
 13. § Az elkülönített állami pénzalap és a központi költségvetésben meghatározott célelőirányzat kezelője, a Magyar Nemzeti Bank (a továbbiakban: MNB) elnöke, valamint a Közbeszerzési Hatóság elnöke összesített adatokat szolgáltat a miniszter részére a KKV-k részesedéséről a támogatásokból, a vállalkozói hitelekből és a közbeszerzésekből.
 

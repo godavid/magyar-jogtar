@@ -14,7 +14,7 @@ Az Országgyűlés az értékteremtő közfoglalkoztatás jogi kereteinek megter
 - d) a helyi vagy azon túlmutató közösségi – így különösen – egészségmegőrzési, szociális, nevelési, oktatási, kulturális, kulturális örökség megóvása, építészeti örökség védelmével összefüggő, természet-, környezet- és állatvédelemi, gyermek- és ifjúságvédelemi, a munkaviszonyban és a polgári jogi jogviszony keretében megbízás alapján folytatott sporttevékenység kivételével sport, közrend és közlekedésbiztonsági, ár- és belvízvédelemi célú, közforgalom számára megnyitott út, híd, alagút fejlesztéséhez, fenntartásához és üzemeltetéséhez kapcsolódó szükségletek kielégítését szolgáló feladat vagy
 - e) a Kormány által meghatározott közösségi célok megvalósítását elősegítő feladat
 
-ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, rendvédelmi igazgatási szolgálati vagy honvédelmi alkalmazotti jogviszonyt, közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszonyt.
+ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, rendvédelmi igazgatási szolgálati vagy honvédelmi alkalmazotti jogviszonyt, közszolgálati, kormányzati szolgálati jogviszonyt.
 
 (2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
 
@@ -192,11 +192,11 @@ vonatkozó szabályai nem alkalmazhatók,
 
 3. § (1) A közfoglalkoztató a közfoglalkoztatott részére az alábbiakat köteles biztosítani:
 
-- a) ha a munkavégzés helye és a közfoglalkoztatott lakóhelye közötti naponta – tömegközlekedési eszközzel – történő oda- és visszautazás ideje a hat órát meghaladja, a munkavégzés helyétől számított 20 km-es távolságon belül az illetékes megyei kormányhivatal által kiadott engedélynek megfelelő térítésmentes elhelyezést, tisztálkodási és étkezési lehetőséget, vagy
+- a)
 - b) ha a munkavégzés helye és a közfoglalkoztatott lakóhelye közötti naponta – tömegközlekedési eszközzel – történő oda- és visszautazás ideje a három órát, illetve tíz éven aluli gyermeket nevelő nő és tíz éven aluli gyermeket egyedül nevelő férfi munkanélküli esetében a két órát meghaladja, a munkavégzés helyére és onnan a közfoglalkoztatott lakóhelyére történő térítésmentes szállítást, valamint
-- c) amennyiben az a) és b) pontokban meghatározott esetekben a foglalkoztatás a napi négy órát meghaladja, a munkahelyen térítésmentes napi egyszeri étkezést.
+- c) amennyiben a b) pontban meghatározott esetekben a foglalkoztatás a napi négy órát meghaladja, a munkahelyen térítésmentes napi egyszeri étkezést.
 
-(2) A közfoglalkoztató az (1) bekezdés a) pontjában szabályozott elhelyezés biztosítása esetén a heti pihenőidő igénybevétele érdekében a közfoglalkoztatott hazautazását a b) pontban szabályozott módon biztosítja.
+(2)
 
 4. § A közfoglalkoztatási jogviszonyra a munkaviszonyra irányadó társadalombiztosítási, adózási, munkavédelmi szabályokat kell alkalmazni.
 

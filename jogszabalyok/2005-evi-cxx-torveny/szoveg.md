@@ -202,10 +202,7 @@ Színházi cipész
 
 azzal, hogy ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
-(5) A (4) bekezdés szerinti bevételi határt csökkenti az a bevétel,
-
-- a) amelyet az adóévben az egyszerűsített vállalkozói adóról szóló törvény (a továbbiakban: eva) hatálya alá tartozó egyéni vállalkozói tevékenységet (is) folytató magánszemélynek az eva alapjába tartozó bevételként kell figyelembe vennie, azzal, hogy a (2) bekezdés rendelkezése nem alkalmazható az eva hatálya alá tartozó egyéni vállalkozót a (2) bekezdés ba) pontjában említett vállalkozói szerződés alapján megillető bevételre, amelyet az eva alapjába tartozó bevételként kell figyelembe vennie,
-- b) amely az eva hatálya alá tartozó társas vállalkozás bevételéből a társas vállalkozás ekhót választó tagjára (tulajdonosára) a társasági szerződésben az adózott eredményből való részesedésére előírt mérték, ennek hiányában a jegyzett tőkéből való részesedése arányában jut.
+(5)
 
 (6) Nem tehet az adóévben az ekho választására vonatkozó nyilatkozatot a magánszemély azt követően, hogy a (4) bekezdés szerinti összeghatárt már elérte.
 

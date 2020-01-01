@@ -39,7 +39,7 @@ Tbj. 3. § (1) Az állam a társadalombiztosítási rendszer működéséről é
 
 Tbj. 4. § E törvény alkalmazásában:
 
-- a) Foglalkoztató: 1. bármely jogi és természetes személy, egyéni vállalkozó, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat; 2. a szakképzésről szóló törvényben meghatározott tanulószerződés alapján szakképző iskolai tanulmányokat folytató tanuló esetén a tanulószerződés megkötésére jogosult szervezet, 3. társas vállalkozó esetén a társas vállalkozás; 4. az álláskeresési járadékban, keresetpótló juttatásban, vállalkozói járadékban, valamint munkanélküli-járadékban, álláskeresést ösztönző juttatásban, nyugdíj előtti álláskeresési segélyben (a továbbiakban együtt: álláskeresési támogatás) részesülő, biztosítottnak minősülő személy esetén az ellátást folyósító szerv, 5. a gyermekgondozást segítő ellátásban, a gyermekgondozási segélyben, a gyermekgondozási díjban, a gyermeknevelési támogatásban, a gyermekek otthongondozási díjában és az ápolási díjban részesülő személyek esetében a segélyt, a támogatást, illetve a díjat folyósító szerv; 6. a kincstár számfejtési körében a helyi önkormányzatok nettó finanszírozásának hatálya alá tartozó munkáltatók esetében a járulék megállapításával, bevallásával, megfizetésével, a nyilvántartással és adatszolgáltatással, valamint a biztosítottak bejelentésével összefüggő, az e törvényben és az az adóigazgatási rendtartásról szóló törvényben (a továbbiakban: Air.), az adózás rendjéről szóló törvényben (a továbbiakban: Art.), ezek végrehatására szolgáló rendeletben, valamint az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben (a továbbiakban: Avt.) előírt kötelezettségek tekintetében a kincstár, 7. a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezete szerinti munkavégzés esetén – ha jogszabály másként nem rendelkezik – a kölcsönbeadó. 8. több munkáltatóval létesített munkaviszony (Mt. 195. §) esetén az Art.-ben meghatározott munkáltató. 9. a rendvédelmi egészségkárosodási keresetkiegészítésben vagy rendvédelmi egészségkárosodási járadékban részesülő személy esetében a rendvédelmi feladatokat ellátó szerv, valamint a honvédelmi egészségkárosodási keresetkiegészítésben vagy honvédelmi egészségkárosodási járadékban részesülő személy esetében az ellátást megállapító honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat, 10. a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti fejlesztési jogviszony keretében fejlesztési foglalkoztatási díjat folyósító fejlesztő foglalkoztatást nyújtó szolgáltató, intézmény.
+- a) Foglalkoztató: 1. bármely jogi és természetes személy, egyéni vállalkozó, egyéb szervezet, költségvetés alapján gazdálkodó szerv, bármely személyi egyesülés, ha biztosítottat foglalkoztat; 2. 3. társas vállalkozó esetén a társas vállalkozás; 4. az álláskeresési járadékban, keresetpótló juttatásban, vállalkozói járadékban, valamint munkanélküli-járadékban, álláskeresést ösztönző juttatásban, nyugdíj előtti álláskeresési segélyben (a továbbiakban együtt: álláskeresési támogatás) részesülő, biztosítottnak minősülő személy esetén az ellátást folyósító szerv, 5. a gyermekgondozást segítő ellátásban, a gyermekgondozási segélyben, a gyermekgondozási díjban, a gyermeknevelési támogatásban, a gyermekek otthongondozási díjában és az ápolási díjban részesülő személyek esetében a segélyt, a támogatást, illetve a díjat folyósító szerv; 6. a kincstár számfejtési körében a helyi önkormányzatok nettó finanszírozásának hatálya alá tartozó munkáltatók esetében a járulék megállapításával, bevallásával, megfizetésével, a nyilvántartással és adatszolgáltatással, valamint a biztosítottak bejelentésével összefüggő, az e törvényben és az az adóigazgatási rendtartásról szóló törvényben (a továbbiakban: Air.), az adózás rendjéről szóló törvényben (a továbbiakban: Art.), ezek végrehatására szolgáló rendeletben, valamint az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben (a továbbiakban: Avt.) előírt kötelezettségek tekintetében a kincstár, 7. a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezete szerinti munkavégzés esetén – ha jogszabály másként nem rendelkezik – a kölcsönbeadó. 8. több munkáltatóval létesített munkaviszony (Mt. 195. §) esetén az Art.-ben meghatározott munkáltató. 9. a rendvédelmi egészségkárosodási keresetkiegészítésben vagy rendvédelmi egészségkárosodási járadékban részesülő személy esetében a rendvédelmi feladatokat ellátó szerv, valamint a honvédelmi egészségkárosodási keresetkiegészítésben vagy honvédelmi egészségkárosodási járadékban részesülő személy esetében az ellátást megállapító honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat, 10. a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti fejlesztési jogviszony keretében fejlesztési foglalkoztatási díjat folyósító fejlesztő foglalkoztatást nyújtó szolgáltató, intézmény.
 - b) Egyéni vállalkozó: 1. az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozói nyilvántartásban szereplő természetes személy, 2. a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező magánszemély, a gyógyszerészi magántevékenység, falugondnoki tevékenység, tanyagondnoki tevékenység vagy szociális szolgáltató tevékenység folytatásához szükséges engedéllyel rendelkező magánszemély (a továbbiakban együtt: egészségügyi vállalkozó), 3. az ügyvéd, európai közösségi jogász (a továbbiakban együtt: ügyvéd), 4. az egyéni szabadalmi ügyvivő, 5. a nem közjegyzői iroda tagjaként tevékenykedő közjegyző, 6. a nem végrehajtói iroda tagjaként tevékenykedő önálló bírósági végrehajtó.
   - ba)
 - c) Társas vállalkozás: 1. a közkereseti társaság, 2. a betéti társaság, 3. a korlátolt felelősségű társaság, 4. 5. a közös vállalat, 6. az egyesülés, ideértve az európai gazdasági egyesülést is, 7. az 1–6. pontban felsorolt társas vállalkozások az előtársaságként történő működés időszakában is 8. a szabadalmi ügyvivői társaság, szabadalmi ügyvivői iroda, 9. a gépjárművezető-képző munkaközösség, 10. az oktatói munkaközösség, 11. az ügyvédi iroda, közjegyzői iroda, 12. a végrehajtói iroda, 13. az egyéni cég.
@@ -50,12 +50,12 @@ Tbj. 4. § E törvény alkalmazásában:
 - h) Megbízási jogviszony, munkaviszony: a magyar jog hatálya alá tartozó megbízási jogviszony és munkaviszony, továbbá a külföldi jog hatálya alá tartozó olyan megbízási jogviszony és munkaviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam, vagy Magyarország által kötött kétoldalú szociális biztonságról szóló egyezményben részes másik állam területén végzik.
 - i) Foglalkoztatott: aki nem minősül egyéni, illetve társas vállalkozónak és foglalkoztatója biztosítással járó jogviszony keretében foglalkoztatja.
 - j) Külföldi: az a természetes személy, aki nem minősül belföldinek.
-- k) Járulékalapot képező jövedelem: 1. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerint összevont adóalapba tartozó önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a tanulószerződés alapján ténylegesen kifizetett díj, a felszolgálási díj, a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló (a továbbiakban: borravaló), az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj, 2. az 1. alpont szerinti jövedelem hiányában a munkaszerződésben meghatározott alapbér; ha a munkát munkavégzésre irányuló egyéb jogviszony vagy külföldi jog hatálya alá tartozó munkaszerződés alapján végzik, a szerződésben meghatározott díj havi összege, 3. Járulékalapot képező jövedelemként kell figyelembe venni azt a jövedelmet, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától, ha a kifizetés, juttatás időpontjában e törvény 13. §-a alapján más ország járulékszabályai alkalmazandók.
+- k) Járulékalapot képező jövedelem: 1. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerint összevont adóalapba tartozó önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a szakképzési munkaszerződés alapján ténylegesen kifizetett pénzbeli juttatás, a felszolgálási díj, a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló (a továbbiakban: borravaló), az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj, 2. az 1. alpont szerinti jövedelem hiányában a munkaszerződésben meghatározott alapbér; ha a munkát munkavégzésre irányuló egyéb jogviszony vagy külföldi jog hatálya alá tartozó munkaszerződés alapján végzik, a szerződésben meghatározott díj havi összege, 3. Járulékalapot képező jövedelemként kell figyelembe venni azt a jövedelmet, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától, ha a kifizetés, juttatás időpontjában e törvény 13. §-a alapján más ország járulékszabályai alkalmazandók.
 - l) Járulék: az egészségbiztosítási és munkaerő-piaci járulék (a természetbeni egészségbiztosítási járulék, a pénzbeli egészségbiztosítási járulék és a munkaerő-piaci járulék), a nyugdíjjárulék, a táppénz-hozzájárulás, az egészségügyi szolgáltatási járulék.
 - m) A magánnyugdíjpénztár tagja: 1. 2. a magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó személy.
 - n)
 - o) Magánnyugdíjpénztárhoz önkéntes döntéssel csatlakozó: 1. a tagságra kötelezett pályakezdőnek nem minősülő természetes személy, aki az 1998. január 1-je és 2005. december 31-e között hatályos rendelkezések értelmében önkéntes döntéssel taggá vált, és 2. az Mpt. 3. §-ában meghatározott személy.
-- p) Tanulószerződés: a a szakképzésről szóló törvény szerinti tanulószerződés.
+- p)
 - q) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony teljes munkaidős foglalkoztatási jogviszonynak minősül.
 - r) Igazgatási szerv: 1. a biztosítási kötelezettség megállapításával, a bejelentési-, nyilvántartási-, adatszolgáltatási kötelezettséggel, a járulék- bevallásával, megfizetésével, e kötelezettségek megsértésével kapcsolatos jogkövetkezmények megállapításával, a tartozás beszedésével, behajtásával, a bevallás ellenőrzésével kapcsolatos hatósági ügyben – a 34–35. §, 41. § (4)–(5) bekezdés, 42–43. § kivételével – az állami adó- és vámhatóság, 2. a 34. § (1), (5), (8) bekezdésének, a 35. §-ának, 40. §-ának, a 41. §-ának (2) bekezdése és a 42–43. §-ainak alkalmazásánál a központi nyugdíjbiztosítási szerv, a nyugdíjfolyósító szerv és a nyugdíjbiztosítási igazgatási szerv, 3. a 34. § (10) és (12) bekezdésének, a 35. §-ának, 40. §-ának, a 41. §-a (2) és (4)–(5) bekezdésének, a 42–43. §-ainak, alkalmazásánál az egészségbiztosítási szerv, 4. a 40. §, a 41. § (2) és (3) bekezdése és a 42–43/A. § alkalmazásánál a rehabilitációs hatóság.
 - s) Minimálbér: 1. a tárgyhónap első napján érvényes, a teljes munkaidőben foglalkoztatott munkavállaló részére megállapított alapbér kötelező legkisebb havi összege, és 2. a biztosított egyéni és társas vállalkozó járulékfizetéséről szóló rendelkezések alkalmazásában a tárgyhónap első napján, a teljes munkaidőre érvényes garantált bérminimum havi összege, ha az egyéni vállalkozó személyesen végzett főtevékenysége vagy a társas vállalkozó főtevékenysége legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igényel.
@@ -74,8 +74,8 @@ Tbj. 4. § E törvény alkalmazásában:
 Tbj. 5. § (1) E törvény alapján biztosított
 
 - a) a munkaviszonyban (ide nem értve a saját jogú nyugdíjasnak minősülő személy által létesített Mt. szerinti munkaviszonyt), közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ügyészségi szolgálati jogviszonyban, bírói szolgálati jogviszonyban, igazságügyi alkalmazotti szolgálati viszonyban, nevelőszülői foglalkoztatási jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, vendégoktatói ösztöndíjas jogviszonyban, közfoglalkoztatási jogviszonyban álló személy, a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a Független Rendészeti Panasztestület tagja, a Magyar Honvédség szerződéses állományú tagja, a katonai szolgálatot teljesítő önkéntes tartalékos katona, a honvédelmi alkalmazott, az országgyűlési képviselő, a nemzetiségi szószóló (a továbbiakban: munkaviszony), tekintet nélkül arra, hogy foglalkoztatása teljes vagy részmunkaidőben történik,
-- b) a szövetkezet tagja, aki a szövetkezet tevékenységében munkaviszony, vállalkozási vagy megbízási jogviszony keretében személyesen közreműködik, kivéve az iskolaszövetkezet nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagját – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is –, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját, valamint a szociális szövetkezetben tagi munkavégzés keretében munkát végző tagot,
-- c) a tanulószerződés alapján szakképző iskolai tanulmányokat folytató tanuló,
+- b) a szövetkezet tagja, aki a szövetkezet tevékenységében munkaviszony, vállalkozási vagy megbízási jogviszony keretében személyesen közreműködik, kivéve az iskolaszövetkezet nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, képzésben részt vevő személy, hallgató tagját – 25. életévének betöltéséig a tanulói, hallgatói, felnőttképzési jogviszonya szünetelésének időtartama alatt is –, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját, valamint a szociális szövetkezetben tagi munkavégzés keretében munkát végző tagot,
+- c)
 - d) az álláskeresési támogatásban részesülő személy,
 - e) a kiegészítő tevékenységet folytatónak nem minősülő egyéni vállalkozó,
 - f) a kiegészítő tevékenységet folytatónak nem minősülő társas vállalkozó,
@@ -102,7 +102,7 @@ Tbj. 7. § (1) A biztosítás – amennyiben e törvény eltérően nem rendelke
 Tbj. 8. § Szünetel a biztosítás:
 
 - a) a fizetés nélküli szabadság ideje alatt, kivéve, ha
-  - aa) a fizetés nélküli szabadság idejére csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, gyermekgondozási segély vagy gyermeknevelési támogatás kerül folyósításra, vagy
+  - aa) a fizetés nélküli szabadság idejére csecsemőgondozási díj, örökbefogadói díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, gyermekgondozási segély vagy gyermeknevelési támogatás kerül folyósításra, vagy
   - ab) a fizetés nélküli szabadságot tizenkét évesnél fiatalabb beteg gyermek ápolása címén veszik igénybe,
   - ac) azt önkéntes tartalékos katonai szolgálat teljesítése céljából veszik igénybe.
 - b) az igazolatlan távollét időtartama alatt,
@@ -111,8 +111,8 @@ Tbj. 8. § Szünetel a biztosítás:
 - e) az ügyvédi tevékenység szünetelésének ideje alatt, a közjegyző, a szabadalmi ügyvivő kamarai tagságának szüneteltetése alatt,
 - f) az egyéni vállalkozói tevékenység szünetelésének ideje alatt,
 - g) az állat-egészségügyi szolgáltató tevékenységet végző állatorvos tevékenységének szünetelése alatt,
-- h) a tanulószerződés szüneteltetésének időtartama alatt,
-- i) az a)–h) pontban nem említett olyan esetben, amikor külön jogszabály szerint a biztosítás alapjául szolgáló jogviszony szünetel.
+- h)
+- i) az a)–g) pontban nem említett olyan esetben, amikor külön jogszabály szerint a biztosítás alapjául szolgáló jogviszony szünetel.
 
 Tbj. 9. § (1) Az egyidejűleg több biztosítással járó jogviszonyban álló személy biztosításának fennállását mindegyik jogviszonyában külön-külön kell elbírálni.
 
@@ -120,7 +120,7 @@ Tbj. 9. § (1) Az egyidejűleg több biztosítással járó jogviszonyban álló
 
 (3) Az 5. § (1) bekezdésének g) pontjában és (2) bekezdésében említett személy biztosítása – a 7. § (1) bekezdésében említett időszakon belül – akkor is fennáll, ha
 
-- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban,
+- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban,
 - b) gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban, gyermekek otthongondozási díjában vagy ápolási díjban részesül, továbbá
 - c) amennyiben az ellátások folyósítását közvetlenül megelőző napon biztosított volt.
 
@@ -182,7 +182,8 @@ Tbj. 14. § (1) A társadalombiztosítás rendszerében nyújtott ellátások az
 - b) pénzbeli ellátások:
   - ba) csecsemőgondozási díj,
   - bb) gyermekgondozási díj,
-  - bc) táppénz;
+  - bc) táppénz,
+  - bd) örökbefogadói díj;
 - c) baleseti ellátások:
   - ca) baleseti egészségügyi szolgáltatás,
   - cb) baleseti táppénz,
@@ -211,7 +212,7 @@ Tbj. 15. § (1) Baleseti ellátásra, baleseti hozzátartozói nyugellátásra j
 
 (2) Baleseti egészségügyi szolgáltatásra jogosult, aki
 
-- a) nevelési-oktatási és felsőoktatási intézmény, iskola, iskolarendszeren kívüli oktatásban gyakorlati képzésben részesülő tanulója, hallgatója, ide nem értve a külföldi állampolgárt,
+- a) nevelési-oktatási intézmény vagy felsőoktatási intézmény gyakorlati képzésben részt vevő tanulója, illetve hallgatója, továbbá szakképző intézmény szakirányú oktatásban részt vevő tanulója, illetve képzésben részt vevő személye, ide nem értve a külföldi állampolgárt,
 - b) szocioterápiás intézetben gyógykezelt elmebeteg, illetőleg szenvedélybeteg,
 - c) letartóztatott, szabadságvesztést, elzárást, tölt, továbbá akinek őrizetét rendelték el,
 - d) közcélú munkát végez, különösen, aki életmentés, baleset-, illetőleg katasztrófa-elhárítás vagy véradás során szenved, balesetet vagy egészségkárosodást.
@@ -222,7 +223,7 @@ Tbj. 15. § (1) Baleseti ellátásra, baleseti hozzátartozói nyugellátásra j
 
 Tbj. 16. § (1) Egészségügyi szolgáltatásra jogosult – az e törvény szerint biztosított, illetőleg a 13. § szerint egészségügyi szolgáltatásra jogosult személyeken túl – az, aki
 
-- a) csecsemőgondozási díjban, gyermekgondozási díjban, baleseti táppénzben, baleseti táppénzben, baleseti járadékban,
+- a) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban, baleseti táppénzben, baleseti táppénzben, baleseti járadékban,
 - b) a 14. § (3) bekezdése alapján saját jogán nyugdíjban, hozzátartozói nyugellátásban, rehabilitációs járadékban,
 - c) mezőgazdasági járadékban (öregségi, munkaképtelenségi, özvegyi járadékban, növelt összegű öregségi, munkaképtelenségi, özvegyi járadékban), megváltozott munkaképességű személyek ellátásában, bányászok egészségkárosodási járadékában, fogyatékossági támogatásban, rokkantsági járadékban, házastársi pótlékban, házastársi jövedelempótlékban,
 - d) nemzeti gondozási díjban (pótlékban), hadigondozotti ellátásban,
@@ -230,7 +231,7 @@ Tbj. 16. § (1) Egészségügyi szolgáltatásra jogosult – az e törvény sze
 - f) gyermekgondozást segítő ellátásban, gyermekgondozási segélyben részesül,
 - g) egyházi jogi személytől nyugdíjban vagy a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi vagy rokkantsági nyugdíjsegélyben (nyugdíjban) részesül,
 - h) az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátásban, időskorúak járadékában, gyermekek otthongondozási díjában, ápolási díjban vagy gyermeknevelési támogatásban részesül, továbbá
-- i) a köznevelésről szóló törvény hatálya alá tartozó nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerinti köznevelési intézményben, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató nagykorú magyar állampolgár, menekült, oltalmazott, valamint az a külföldi állampolgár, aki nemzetközi szerződés vagy az oktatásért, a külügyekért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll, továbbá az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy, aki a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll,
+- i) a nappali rendszerű oktatás vagy a nappali oktatás munkarendje szerint köznevelési intézményben vagy szakképző intézményben, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató nagykorú magyar állampolgár, menekült, oltalmazott, valamint az a külföldi állampolgár, aki nemzetközi szerződés vagy az oktatásért, a külügyekért felelős miniszter által adományozott ösztöndíj alapján létesített tanulói, hallgatói jogviszonyban áll, továbbá az a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozó személy, aki a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében államilag támogatott, vagy magyar állami (rész)ösztöndíjjal támogatott képzési formában hallgatói jogviszonyban áll,
 - j) megváltozott munkaképességű, illetve egészségkárosodást szenvedett és munkaképesség-változásának mértéke az 50 százalékot, illetve egészségkárosodásának mértéke a 40 százalékot eléri, vagy egészségi állapota 50 százalékos vagy ennél kisebb mértékű, és az illetékes hatóság erre vonatkozó igazolásával rendelkezik,
 - k) a reá irányadó nyugdíjkorhatárt betöltötte és jövedelme nem éri el a minimálbér 30 százalékát,
 - l) kiskorú, magyar állampolgársággal, menekült vagy oltalmazott jogállással és Magyarország területén lakóhellyel vagy tartózkodási hellyel rendelkezik, továbbá az a nem magyar állampolgárságú kiskorú, aki Magyarország területén lakóhellyel rendelkezik,
@@ -253,7 +254,7 @@ Tbj. 16. § (1) Egészségügyi szolgáltatásra jogosult – az e törvény sze
 
 (5) Az egészségügyi szolgáltatásra jogosult és az egészségügyi szolgáltatásra nem jogosult személyek által a biztosítástól függetlenül térítésmentesen, valamint a biztosítás alapján térítésmentesen vagy térítés ellenében, továbbá a biztosításon felül térítés ellenében igénybe vehető ellátások körét külön törvény határozza meg.
 
-Tbj. 16/A. § A 16. § (1) bekezdésének i) pontjában említett tanuló és hallgató a tanulói jogviszony, illetőleg a hallgatói jogviszony kezdetétől a diákigazolványra való jogosultság megszűnéséig jogosult egészségügyi szolgáltatásra, ideértve a tanulói, hallgatói jogviszony szünetelésének időtartamát is.
+Tbj. 16/A. § A 16. § (1) bekezdésének i) pontja szerinti tanuló, képzésben részt vevő személy és hallgató a tanulói jogviszony, a hallgatói jogviszony, illetve a felnőttképzési jogviszony kezdetétől a diákigazolványra való jogosultság megszűnéséig jogosult egészségügyi szolgáltatásra, ideértve a tanulói jogviszony, a hallgató jogviszony, illetve a felnőttképzési jogviszony szünetelésének időtartamát is.
 
 ### A magánnyugdíj keretében járó szolgáltatásés kifizetés
 
@@ -294,7 +295,7 @@ Tbj. 19. § (1)
 
 (3) A biztosított által fizetendő egészségbiztosítási- és munkaerő-piaci járulék mértéke 8,5 százalék. Az egészségbiztosítási- és munkaerő-piaci járulékon belül a természetbeni egészségbiztosítási járulék 4 százalék, a pénzbeli egészségbiztosítási járulék 3 százalék, a munkaerő-piaci járulék 1,5 százalék.
 
-(4) A kiegészítő tevékenységet folytató egyéni vállalkozó, a kiegészítő tevékenységet folytató társas vállalkozó után a társas vállalkozás, tagi munkavégzés esetén a szociális szövetkezet, valamint a 39. § (2) bekezdésében meghatározott személy által fizetendő egészségügyi szolgáltatási járulék havi összege 7500 forint (napi összege 250 forint).
+(4) A kiegészítő tevékenységet folytató egyéni vállalkozó, a kiegészítő tevékenységet folytató társas vállalkozó után a társas vállalkozás, tagi munkavégzés esetén a szociális szövetkezet, valamint a 39. § (2) bekezdésében meghatározott személy által fizetendő egészségügyi szolgáltatási járulék havi összege 7710 forint (napi összege 257 forint).
 
 (5) A foglalkoztató az 5. §-ban említett biztosított betegsége miatti keresőképtelensége, valamint a kórházi (klinikai) ápolása időtartamára folyósított táppénz egyharmadát hozzájárulás címén fizeti meg.
 
@@ -367,7 +368,7 @@ Tbj. 25. § A saját jogú nyugdíjas foglalkoztatott (ide nem értve az Mt. sze
 Tbj. 25/A. § Nem fizet a 19. § (3) bekezdésében meghatározott mértékű munkaerő-piaci járulékot
 
 - a) az 5. § (1) bekezdésének b)–d), g)–i) pontjaiban és (2) bekezdésében meghatározott személy – ide nem értve az iskolaszövetkezetnek nem minősülő szövetkezet tevékenységében munkaviszony keretében közreműködő szövetkezeti tagot –,
-- b) az az egyéni és társas vállalkozó, aki a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat, vagy a vállalkozói tevékenysége mellett munkaviszonnyal is rendelkezik – ide nem értve azt a munkavállalót, aki fizetés nélküli szabadságon van –,
+- b) az az egyéni és társas vállalkozó, aki köznevelési intézményben, szakképző intézményben vagy felsőoktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat, vagy a vállalkozói tevékenysége mellett munkaviszonnyal is rendelkezik – ide nem értve azt a munkavállalót, aki fizetés nélküli szabadságon van –,
 - c) az a foglalkoztatott, egyéni és társas vállalkozó, aki saját jogú nyugdíjas vagy a társadalombiztosítási nyugellátásról szóló jogszabályban meghatározott reá irányadó öregségi nyugdíjkorhatárt betöltötte.
 
 Tbj. 26. § (1) A gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban, gyermekek otthongondozási díjában, ápolási díjban, fejlesztési foglalkoztatási díjban, rehabilitációs járadékban, a 2012. január 1-jét követően hatósági határozattal megállapított rehabilitációs ellátásban, rendvédelmi egészségkárosodási keresetkiegészítésben, rendvédelmi egészségkárosodási járadékban, honvédelmi egészségkárosodási keresetkiegészítésben, honvédelmi egészségkárosodási járadékban, részesülő személy a díj, segély, támogatás, járadék, ellátás összege után nyugdíjjárulékot fizet. A saját jogú nyugdíjban, valamint a reá irányadó öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a gyermekgondozást segítő ellátás, gyermekgondozási segély, a gyermekek otthongondozási díja, az ápolási díj, valamint a fejlesztési foglalkoztatási díj után nyugdíjjárulékot nem fizet. A reá irányadó öregségi nyugdíjkorhatárt betöltött, özvegyi nyugdíjban részesülő személy a folyósító szervhez benyújtott nyilatkozatával azonban vállalhatja a nyugdíjjárulék fizetését.
@@ -378,7 +379,7 @@ Tbj. 26. § (1) A gyermekgondozási díjban, gyermekgondozást segítő ellátá
 
 (4)
 
-(5) A központi költségvetés a 16. § (1) bekezdés b) pontjában meghatározott – foglalkoztatottnak vagy kiegészítő tevékenységet folytatónak nem minősülő – személyek, a gyermekgondozási díjban részesülők, valamint a 16. § (1) bekezdés c)–f), h)–o) és s)–v) pontjában meghatározott személyek után havonta 7320 forint egészségügyi szolgáltatási járulékot fizet.
+(5) A központi költségvetés a 16. § (1) bekezdés b) pontjában meghatározott – foglalkoztatottnak vagy kiegészítő tevékenységet folytatónak nem minősülő – személyek, a gyermekgondozási díjban részesülők, valamint a 16. § (1) bekezdés c)–f), h)–o) és s)–v) pontjában meghatározott személyek után havonta 7710 forint egészségügyi szolgáltatási járulékot fizet.
 
 (6)
 
@@ -406,9 +407,9 @@ Tbj. 27. § (1)
 
 Tbj. 28. § (1) A 27. §-ban meghatározott járulékalap alsó határát arányosan csökkenteni kell azon időszak figyelembevételével, amely alatt a társas vállalkozó
 
-- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban részesül,
+- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül,
 - b) gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban, gyermekek otthongondozási díjában vagy ápolási díjban részesül – kivéve, ha a gyermekgondozást segítő ellátás, a gyermekgondozási segély, a gyermekek otthongondozási díja, illetve az ápolási díj fizetésének időtartama alatt vállalkozói tevékenységét személyesen folytatja –,
-- c) csecsemőgondozási díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban, gyermekgondozási segélyben egyidejűleg részesül,
+- c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban, gyermekgondozási segélyben egyidejűleg részesül,
 - d) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 - e) fogvatartott,
 - f) ügyvédként, szabadalmi ügyvivőként, közjegyzőként kamarai tagságát szünetelteti.
@@ -425,9 +426,9 @@ Tbj. 29. § (1)
 
 (4) Az egyéni vállalkozó a járulékfizetési alsó határ után nem köteles nyugdíjjárulékot és egészségbiztosítási- és munkaerő-piaci járulékot fizetni arra az időtartamra, amely alatt
 
-- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban részesül,
+- a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül,
 - b) gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban, gyermekek otthongondozási díjában vagy ápolási díjban részesül – kivéve, ha a gyermekgondozást segítő ellátás, a gyermekgondozási segély, a gyermekek otthongondozási díja, illetve az ápolási díj fizetésének időtartama alatt vállalkozói tevékenységét személyesen folytatja –,
-- c) csecsemőgondozási díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban, gyermekgondozási segélyben egyidejűleg részesül
+- c) csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban, gyermekgondozási segélyben egyidejűleg részesül
 - d) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 - e) fogvatartott,
 - f) ügyvédként, szabadalmi ügyvivőként, közjegyzőként kamarai tagságát, egyéni vállalkozói tevékenységét szünetelteti.
@@ -473,7 +474,7 @@ Tbj. 31. § (1) Több biztosítási kötelezettséggel járó jogviszony egyidej
 (4) A természetbeni és pénzbeli egészségbiztosítási járulék, valamint a nyugdíjjárulék alapja a ténylegesen elért járulékalapot képező jövedelem, eva adózó egyéni vállalkozó esetében az Eva tv.-ben meghatározott adóalap 4 százaléka, átalányadózó egyéni vállalkozó esetében az átalányban megállapított jövedelem, ha
 
 - a) az egyéni vállalkozó, a társas vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban is áll, vagy
-- b) az egyéni vállalkozó, a társas vállalkozó a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat. A heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani.
+- b) az egyéni vállalkozó, a társas vállalkozó köznevelési intézményben, szakképző intézményben vagy felsőoktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat. A heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani.
 
 (5) Amennyiben a társas vállalkozóként biztosított több gazdasági társaság személyesen közreműködő tagja vagy ügyvezetője, a járulékfizetési alsó határ utáni járulékot – évente egy alkalommal történő választása szerint – egyszer kell figyelembe venni. A társas vállalkozó e választásáról a tárgyév január 31-éig nyilatkozik a társas vállalkozásnak.
 
@@ -644,6 +645,8 @@ Tbj. 40/B. § (1) A kincstár központi szerve vezeti az egészségügyi és eg�
 
 (3) A TAJ nyilvántartásban szereplő személyes adatokat a kincstár központi szerve az érintett természetes személy elhunytát követő 30 évig kezeli.
 
+(4) A kincstár központi szerve a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § t) pontjában és 30. § (1) bekezdés h) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+
 Tbj. 40/C. § (1) Az Egészségbiztosítási Alap kezelésére kijelölt egészségbiztosítási szerv vezeti az egészségbiztosítási nyilvántartást.
 
 (2) Az egészségbiztosítási nyilvántartásban az egészségügyi szolgáltatásokhoz kapcsolódó nyilvántartási feladatok ellátása, és a hatósági ügyintézés során történő felhasználás és azonosítás céljából nyilván kell tartani a TAJ számmal rendelkező természetes személyre vonatkozó alábbi adatokat és azok változását:
@@ -774,7 +777,7 @@ Tbj. 44/A. § (1) A családtámogatási igazgatási eljárásban, illetve a fogy
 - b) a bányászati keresetkiegészítésben részesülők esetén a keresetkiegészítést folyósító szerv,
 - c)
 - d) a személyes gondoskodást nyújtó bentlakásos szociális intézményben és gyermekotthonban elhelyezettek esetén – az a) pontban és a (4) bekezdésben említett személyek kivételével – az intézmény, illetve a gyermekotthon vezetője, nevelőszülőnél elhelyezettek esetén a nevelőszülői hálózatot működtető, külső férőhelyen elhelyezettek esetén a külső férőhelyet működtető,
-- e) a 16. § (1) bekezdésének i) pontjában említett tanulók és hallgatók esetén a közoktatási információs rendszer, illetve a felsőoktatási információs rendszer működtetője,
+- e) a 16. § (1) bekezdés i) pontja szerinti tanulók, képzésben részt vevő személyek és hallgatók esetén a köznevelés információs rendszere, a szakképzés információs rendszere, a felsőoktatási információs rendszer és a felnőttképzés adatszolgáltatási rendszere működtetője,
 - f) fogvatartottak esetén a fogvatartást foganatosító szerv,
 - g) a rehabilitációs ellátásban, rokkantsági ellátásban részesülők esetében az ellátást folyósító szerv
 
@@ -854,7 +857,7 @@ Tbj. 45/A. § (1) Az egészségügyi szolgáltatási járulékfizetésre kötele
 
 (7) Ha a (6) bekezdés szerinti felszólítást követően a természetes személy vagy képviselője hitelt érdemlő módon bizonyítja, hogy az egészségügyi szolgáltatásra jogosultság fennáll, vagy a természetes személy elhalálozott, illetőleg külföldön tartózkodik és e törvény alapján nem minősül belföldinek, az ezt bizonyító okirat, nyilatkozat másolatát az adóhatóság haladéktalanul továbbítja a természetes személy lakóhelye szerint illetékes egészségbiztosítási szervnek.
 
-(8) Az állami adó- és vámhatóság a 39. § (2) bekezdése alapján a tárgyhónapban járulékfizetésre kötelezett természetes személyek adatairól havonta, a tárgyhónapot követő hónap utolsó napjáig, a (7) bekezdésnek megfelelően előírt járulékkötelezettségről a határozat jogerőre emelkedését követő 10 napon belül elektronikus úton szolgáltat adatot az Egészségbiztosítási Alap kezeléséért felelős szerv részére.
+(8) Az állami adó- és vámhatóság a 39. § (2) bekezdése alapján a tárgyhónapban járulékfizetésre kötelezett természetes személyek adatairól havonta, a tárgyhónapot követő hónap utolsó napjáig, a (7) bekezdésnek megfelelően előírt járulékkötelezettségről a határozat véglegessé válását követő 10 napon belül elektronikus úton szolgáltat adatot az Egészségbiztosítási Alap kezeléséért felelős szerv részére.
 
 (9) A 44/B. § vagy a 44/C. § alapján teljesített adatszolgáltatásban az adóhatóságnak átadott azon személyek adatait, akiket az adóhatóság beazonosítani nem tud, mert az egészségbiztosítási szerv által ismert és közölt természetes személyazonosító adatok és lakcím alapján az nem lehetséges, az adóhatóság „nem beazonosítható” jelzéssel visszaküldi az egészségbiztosítási szerv részére.
 
@@ -1017,7 +1020,7 @@ Tbj. 54. § (1) Az igazgatási szervek – jogszabályban meghatározott hatásk
 
 Tbj. 55. § Járulék utólagos megállapítása nélkül az állami adó- és vámhatóság a biztosítási jogviszonyt akkor törli, ha:
 
-- a) ellenőrzési eljárás keretében bizonyított a természetes személy valós foglalkoztatójának kiléte, amely adózónál a biztosítás fennállásának időtartama jogerős határozatban rögzítésre került, és
+- a) ellenőrzési eljárás keretében bizonyított a természetes személy valós foglalkoztatójának kiléte, amely adózónál a biztosítás fennállásának időtartama véglegessé vált határozatban rögzítésre került, és
 - b) a valótlan bejelentést tevő foglalkoztató az állami adó- és vámhatóság által folytatott ellenőrzés időpontjában a cégnyilvántartásból törlésre került, illetve a törlése folyamatban van.
 
 ### Késedelem, mulasztás következményei

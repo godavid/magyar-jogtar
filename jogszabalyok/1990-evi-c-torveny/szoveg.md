@@ -42,11 +42,11 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 (2) Adómentes valamennyi helyi adó alól – a (3) bekezdésben foglaltakra figyelemmel – az egyesület, az alapítvány, a közszolgáltató szervezet, a köztestület, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár és – kizárólag a helyi iparűzési adó vonatkozásában – a közhasznú szervezetnek minősülő nonprofit gazdasági társaság.
 
-(3) A (2) bekezdés szerinti mentesség abban az adóévben illeti meg az adóalanyt, amelyet megelőző adóévben folytatott tevékenységéből származó jövedelme (nyeresége) után sem bel-, sem külföldön adófizetési kötelezettsége nem keletkezett. Az építmény- és telekadóban a (2) bekezdés szerinti mentesség azon épület, épületrész, telek után jár, amelyet az ingatlan-nyilvántartásban tulajdonosként – a vasúti pályahálózatot üzemeltető közszolgáltató szervezet esetén tulajdonosként, vagyoni értékű jog jogosítottjaként – bejegyzett adóalany kizárólag a létesítő okiratában meghatározott alaptevékenysége, főtevékenysége kifejtésére használ. A feltételek meglétéről az adóalany – az adóév ötödik hónapjának utolsó napjáig – írásban köteles nyilatkozni az adóhatóságnak. A nyilatkozat adóbevallásnak, adatbejelentésnek minősül.
+(3) A (2) bekezdés szerinti mentesség abban az adóévben illeti meg az adóalanyt, amelyet megelőző adóévben folytatott tevékenységéből származó jövedelme (nyeresége) után sem bel-, sem külföldön adófizetési kötelezettsége nem keletkezett. Az építmény- és telekadóban a (2) bekezdés szerinti mentesség azon épület, épületrész, telek után jár, amelyet az ingatlan-nyilvántartásban tulajdonosként vagy a magyar állam tulajdonában álló ingatlanon fennálló vagyoni értékű jog jogosítottjaként bejegyzett adóalany kizárólag a létesítő okiratában meghatározott alaptevékenysége, főtevékenysége kifejtésére használ. A feltételek meglétéről az adóalany – az adóév ötödik hónapjának utolsó napjáig – írásban köteles nyilatkozni az adóhatóságnak. A nyilatkozat adóbevallásnak, adatbejelentésnek minősül.
 
 (4) Az (1)–(3) bekezdésben meghatározottak szerint adóalany a külföldi magánszemély és szervezet is feltéve, hogy adómentességét nemzetközi szerződés vagy viszonosság nem biztosítja. A viszonosság kérdésében az adópolitikáért felelős miniszter állásfoglalása az irányadó.
 
-(5) E törvény hatálya – a 34. §-ban foglaltak kivételével – nem terjed ki az államra, a helyi önkormányzatra, a nemzetiségi önkormányzatra, a költségvetési szervre, az egyházi jogi személyre, a Magyar Nemzeti Vagyonkezelő Zrt.-re, a Nemzeti Eszközkezelő Zrt.-re, az Államadósság Kezelő Központ Zrt.-re, a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó büntetés-végrehajtási gazdálkodó szervezetre, valamint a helyi iparűzési adó vonatkozásában a Magyar Nemzeti Bankra, az Országos Betétbiztosítási Alapra, a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott Szanálási Alapra, a Befektető-védelmi Alapra és a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény szerinti Kárrendezési Alapra.
+(5) E törvény hatálya – a 34. §-ban foglaltak kivételével – nem terjed ki az államra, a helyi önkormányzatra, a nemzetiségi önkormányzatra, a költségvetési szervre, az állam által alapított vagyonkezelő alapítvány fenntartásában álló közhasznú szervezetként működő felsőoktatási intézményre, az egyházi jogi személyre, a Magyar Nemzeti Vagyonkezelő Zrt.-re, a Nemzeti Eszközkezelő Zrt.-re, az Államadósság Kezelő Központ Zrt.-re, a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó büntetés-végrehajtási gazdálkodó szervezetre, valamint a helyi iparűzési adó vonatkozásában a Magyar Nemzeti Bankra, az Országos Betétbiztosítási Alapra, a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott Szanálási Alapra, a Befektető-védelmi Alapra és a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény szerinti Kárrendezési Alapra.
 
 (6) Ha e törvény az adóalanyiságot az év első napján fennálló állapothoz köti és az önkormányzat az adót év közben vezeti be, akkor a bevezetés évében az adó alanyának azt kell tekinteni, aki/amely az adót bevezető rendelet hatálybalépésének napján megfelel az adóalanyiság követelményeinek.
 
@@ -372,7 +372,7 @@ Az adófelfüggesztés
 
 36. § Adóköteles iparűzési tevékenység: a vállalkozó e minőségben végzett nyereség-, illetőleg jövedelemszerzésre irányuló tevékenysége.
 
-36/A. § A helyi iparűzési adóból származó bevétel különösen a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására és – a fővárosi önkormányzat esetén külön törvényben meghatározottak szerint – a helyi közösségi közlekedési feladatok ellátására használható fel. A helyi iparűzési adóból származó bevétel az önkormányzati hivatal állományában foglalkoztatottak személyi juttatásai és az ahhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó finanszírozására nem fordítható azt meghaladó mértékben, mint amilyen mértékben a települési önkormányzatot az adóerő-képessége szerint a központi költségvetésről szóló törvényben meghatározott hivatali működési támogatáshoz kapcsolódó beszámítás terheli.
+36/A. § A helyi iparűzési adóból származó bevétel elsőként – a fővárosi önkormányzat esetén külön törvényben meghatározottak szerint – a helyi közösségi közlekedési feladat ellátására, a helyi közösségi közlekedési feladat ellátásához szükséges összegen felüli bevétel különösen a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására használható fel. A helyi iparűzési adóból származó bevétel az önkormányzati hivatal állományában foglalkoztatottak személyi juttatásai és az ahhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó finanszírozására nem fordítható azt meghaladó mértékben, mint amilyen mértékben a települési önkormányzatot az adóerő-képessége szerint a központi költségvetésről szóló törvényben meghatározott hivatali működési támogatáshoz kapcsolódó beszámítás terheli.
 
 ### Az állandó és ideiglenes jelleggel végzett
 
@@ -399,7 +399,7 @@ iparűzési tevékenység
 
 39. § (1) Állandó jelleggel végzett iparűzési tevékenység esetén – a (6) bekezdésben foglaltakra is figyelemmel – az adó alapja a nettó árbevétel, csökkentve
 
-- a) az eladott áruk beszerzési értéke és a közvetített szolgáltatások értéke, együttes – a (4)–(8) bekezdésben meghatározottak szerint számított – összegével,
+- a) az eladott áruk beszerzési értéke és a közvetített szolgáltatások értéke, együttes – a (4)–(10) bekezdésben meghatározottak szerint számított – összegével,
 - b) az alvállalkozói teljesítések értékével,
 - c) az anyagköltséggel,
 - d) az alapkutatás, alkalmazott kutatás, kísérleti fejlesztés adóévben elszámolt közvetlen költségével.
@@ -449,7 +449,7 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (5) Az adó alapjának (2) vagy (3) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést legkésőbb az adóévről szóló bevallás benyújtására előírt határidőig kell megtenni az adóhatóságnál.
 
-39/B. § (1) Az egyszerűsített vállalkozói adó hatálya alá tartozó vállalkozó az adó alapját – a 39. § (1) bekezdésében, vagy a 39/A. §-ban foglalt előírásoktól eltérően – az egyszerűsített vállalkozói adó alapjának 50%-ában is megállapíthatja.
+39/B. § (1)
 
 (2) A kisvállalati adó hatálya alá tartozó vállalkozó az adó alapját – a 39. § (1) bekezdésében, vagy a 39/A. §-ban foglalt előírásoktól eltérően – a kisvállalati adója alapjának 20%-kal növelt összegében is megállapíthatja.
 
@@ -473,16 +473,13 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 45 napon belül vagy február 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik és az adóév február 15-ig jelentheti be, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
 
-(10) Az adó alapjának az (1)–(2) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést a 39/A. § (5) bekezdése szerint kell megtenni.
+(10) Az adó alapjának a (2) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést a 39/A. § (5) bekezdése szerint kell megtenni.
 
-(11) Ha a vállalkozó az egyszerűsített vállalkozói adóról szóló törvény hatálya alól kikerül, akkor az adó alapját az egyszerűsített vállalkozói adóról szóló törvény szerinti adóévére az (1) bekezdés szerint, a naptári év hátralévő részére a 39. § (1) bekezdése, vagy a 39/A. § előírásai szerint kell megállapítani, utóbbi esetén feltéve, hogy a 39/A. §-ban foglalt feltételek egyébként fennállnak.
+(11)
 
 (12) Ha a vállalkozó a kisvállalati adó hatálya alól kikerül, akkor az adó alapját a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény szerinti adóévére a (2) bekezdés szerint, a naptári év hátralévő részére a 39. § (1) bekezdése, vagy a 39/A. § előírásai szerint kell megállapítani, utóbbi esetén feltéve, hogy a 39/A. §-ban foglalt feltételek egyébként fennállnak.
 
-(13) Ha a vállalkozó az egyszerűsített vállalkozói adóról szóló törvény hatálya alól kikerül, akkor
-
-- a) köteles az egyszerűsített vállalkozói adókötelezettségéről szóló bevallás-benyújtással egyidejűleg az egyszerűsített vállalkozói adóalanyiság megszűnését követő naptól az azt követő adóév első félévének utolsó napjáig terjedő időszakra (e pont alkalmazásában: előlegfizetési időszak) a bevallásban szereplő, a bevallással lefedett időszak naptári napjai alapján 12 hónapra számított összegű adóelőleget az előlegfizetési időszakra eső egyes előlegfizetési időpontokra, egyenlő arányban bevallani, azzal, hogy nem kell adóelőleget bevallani arra az előlegfizetési időpontra, amelyre a vállalkozó már vallott be adóelőleget.
-- b) az egyszerűsített vállalkozói adóról szóló törvény szerinti adóévéről szóló bevallást az egyszerűsített vállalkozói adóról szóló törvényben meghatározott időpontig köteles benyújtani, s ezzel egyidejűleg az adóévre már megfizetett előleg és a tényleges fizetendő adó összegének különbözetét megfizeti, illetve igényelheti vissza.
+(13)
 
 (14) Ha a vállalkozó a kisvállalati adó hatálya alól kikerül, akkor
 
@@ -538,7 +535,7 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (2) Az adóévben megfizetett ideiglenes jellegű tevékenység utáni adó, az útdíj (1) bekezdés szerinti része és a (3) bekezdés alapján megalkotott rendelet szerinti adókedvezmény a székhely, illetve telephely(ek) szerinti önkormányzatokhoz fizetendő adóból a vállalkozás szintjén képződő teljes törvényi adóalap és az egyes (székhely, illetve telephely(ek) szerinti) önkormányzatokhoz kimutatott települési adóalapok arányában vonható le.
 
-(3) Az önkormányzat rendelete – valamennyi vállalkozóra egységesen – határozhatja meg, hogy a vállalkozó az alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés adóévben elszámolt közvetlen költsége 10%-ának megfelelő összeggel csökkentheti az adóját.
+(3) Az önkormányzat rendelete – valamennyi vállalkozóra azonos feltételekkel – határozhatja meg, hogy a vállalkozó az alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés adóévben elszámolt közvetlen költsége 10%-ának megfelelő összeggel csökkentheti az adóját.
 
 (4) A vállalkozó az önkormányzathoz fizetendő adóévi adóját a (3) bekezdés alapján alkotott rendelet szerinti adókedvezménnyel a (2) bekezdésben meghatározott módon, legfeljebb az adóévre fizetendő adó összegéig csökkentheti.
 
@@ -768,20 +765,20 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 (4)
 
-42/D. § (1) Az adózó az állandó jellegű helyi iparűzési adóról szóló adóbevallási kötelezettségét – ideértve az adóbevallás kijavítását és az önellenőrzéssel való helyesbítést – és az adóelőleg-kiegészítés összegéről szóló bevallási kötelezettségét (e § alkalmazásában a továbbiakban együtt: adóbevallás) a PM rendelet szerinti bevallási nyomtatványon az állami adóhatósághoz elektronikus úton, az állami adóhatóság hatáskörébe tartozó adókról szóló bevallások benyújtására vonatkozó rendelkezések értelemszerű alkalmazásával, az általános nyomtatványkitöltő program használatával is teljesítheti.
+42/D. § (1) Az adózó az állandó jellegű helyi iparűzési adóról szóló adóbevallási kötelezettségét – ideértve az adóbevallás kijavítását és az önellenőrzéssel való helyesbítést – és az adóelőleg-kiegészítés összegéről szóló bevallási kötelezettségét (e § alkalmazásában a továbbiakban együtt: adóbevallás) az állami adóhatóság által rendszeresített, PM rendelet szerinti bevallási nyomtatványnak megfelelő elektronikus nyomtatványon az állami adóhatósághoz elektronikus úton, az állami adóhatóság hatáskörébe tartozó adókról szóló bevallások benyújtására vonatkozó rendelkezések értelemszerű alkalmazásával is teljesítheti.
 
-(2) Az állami adóhatóság a hozzá beérkezett, (1) bekezdés szerinti adóbevallást – az adóbevallás-benyújtásra kötelezett azonosítását követően, tartalmi vizsgálat nélkül, a befogadó nyugta kiadása mellett – az adóalany által a bevallási nyomtatványon megjelölt székhely, telephely(ek) szerinti önkormányzati adóhatóság részére haladéktalanul, elektronikus úton megküldi.
+(2) Az állami adóhatóság a hozzá beérkezett, számszaki hibát, ellentmondást nem tartalmazó adóbevallást – az adóbevallás-benyújtásra kötelezett azonosítását követően, a befogadó nyugta kiadása mellett – az adóalany által a bevallási nyomtatványon megjelölt székhely, telephely(ek) szerinti önkormányzati adóhatóság részére haladéktalanul továbbítja. Az állami adóhatóság bevalláskitöltésre szolgáló számítógépes rendszere a számszaki hibára, ellentmondásra automatikusan felhívja az adóalany figyelmét és tájékoztatja arról, hogy az adóbevallást az önkormányzati adóhatóság részére csak a hiba adózó általi kijavítását követően továbbítja.
 
-(3) Az állami adóhatósághoz határidőben benyújtott adóbevallást az önkormányzati adóhatóságnál teljesítettnek kell tekinteni.
+(3) A számszaki hibát, ellentmondást nem tartalmazó vagy a (2) bekezdés szerint javított adóbevallást az önkormányzati adóhatóságnál határidőben teljesítettnek kell tekinteni, feltéve, hogy azt az állami adóhatósághoz határidőben benyújtották.
 
-42/E. § (1) Az állami adó- és vámhatóság minden hónap 15. és utolsó napján elektronikus úton megküldi az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 1. melléklet 1. pontja szerinti (ide nem értve az adózó képviseletére vonatkozó adatokat), az Art. 1. melléklete 17. pontja, 18. pontja, 20–21. pontjai alapján az állami adó- és vámhatósághoz – az önkormányzati adóhatósághoz teljesített korábbi adatszolgáltatást követően – érkezett adatokat az Art. 1. melléklet 17. pontja szerinti adózó székhelye szerinti önkormányzati adóhatóság részére.
+42/E. § (1) Az állami adó- és vámhatóság naponta, elektronikus úton megküldi az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 1. melléklet 1. pontja szerinti (ide nem értve az adózó állami adóhatóság előtti képviseletére vonatkozó adatokat), az Art. 1. melléklet 17. pontja, 18. pontja, 20–21. pontja alapján az állami adó- és vámhatósághoz – az önkormányzati adóhatósághoz teljesített korábbi adatszolgáltatást követően – érkezett adatokat és az Art. 1. melléklet 29. pontja alapján bejelentett adatokat az Art. 1. melléklet 17. pontja szerinti adózó székhelye szerinti önkormányzati adóhatóság, valamint azon telephelyei szerinti önkormányzati adóhatóságok (a továbbiakban e § alkalmazásában: telephely szerinti önkormányzati adóhatóság) részére, amely telephelyeket az adózó az állami adó- és vámhatósághoz bejelentette.
 
 (2) Az (1) bekezdés szerinti adatszolgáltatásban szereplő adózó:
 
-- a) bejelentkezési, változás-bejelentési kötelezettségét a székhelye szerinti önkormányzati adóhatóságnál teljesítettnek kell tekinteni,
+- a) bejelentkezési, változásbejelentési kötelezettségét a székhelye szerinti és a telephely szerinti önkormányzati adóhatóságnál teljesítettnek kell tekinteni,
 - b) a 39/B. § (9) bekezdése szerinti körülményről, valamint képviselőjéről az önkormányzati adóhatóságnak bejelentést tehet.
 
-(3) Ha a bejelentkezéssel, változás-bejelentéssel összefüggésben adóelőleget vagy jogszabály alapján az (1) bekezdés szerinti adatszolgáltatásban nem szereplő más adatot is be kell jelenteni, akkor e bejelentés megtételére az adózót a székhelye szerinti önkormányzati adóhatóság külön felhívja.
+(3) Ha a bejelentkezéssel, változásbejelentéssel összefüggésben adóelőleget vagy jogszabály alapján az (1) bekezdés szerinti adatszolgáltatásban nem szereplő más adatot is be kell jelenteni, akkor e bejelentés megtételére az adózót a székhelye és a telephely szerinti önkormányzati adóhatóság külön felhívja.
 
 42/F. § A naptári évtől eltérő üzleti évet választó vállalkozó a helyi iparűzési adóban az adómegállapítási, bevallási, adófizetési kötelezettségét az üzleti év első napján hatályos szabályok szerint teljesíti.
 
@@ -856,6 +853,8 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 elektronikus úton megküldi az állami adóhatóság részére.
 
 (2) Ha a sportvállalkozás az (1) bekezdés szerint továbbított adóbevallásában tett nyilatkozata alapján az 52. § 22. pont i) alpontja szerinti nettó árbevétel csökkentés miatti adócsökkenés az 53. § (2) bekezdés b) pontja szerinti támogatásnak minősül és annak összege meghaladja az ötszázezer eurónak megfelelő forintösszeget, az állami adóhatóság a támogatás igénybevételéről adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az adózás rendjéről szóló törvény szerinti tartalommal és határidőben.
+
+51/H. § Az az adóalany, amely e törvény 2019. december 31-én hatályos szabályai alapján alapítványként a 3. § (2)–(3) bekezdése szerinti feltételes adómentesség igénybevételére jogosult, e mentességet 2022. december 31-ig igénybe veheti, ha vállalja, hogy 2023. január 15-ig igazolja, hogy a Civil törvény szerinti közhasznú jogállást szerzett. Ha az adóalany e vállalását nem teljesíti, a 3. § (2)–(3) bekezdése szerinti feltételes mentességre tekintettel meg nem fizetett adót az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben köteles az önkormányzati adóhatóság felhívására megfizetni. A szervezet megszűnése esetén e fizetési kötelezettség az alapítót vagy annak jogutódját terheli.
 
 51/I. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel (a továbbiakban: Eadtv.) megállapított 41. § (9) bekezdést annak a naptári évtől eltérő üzleti évet választó vállalkozónak is alkalmaznia kell a 2019. évben kezdődő adóévében, amelynek ezen adóéve utolsó hónapjának 20. napja az Eadtv. hatálybalépését követő időszakra esik.
 
@@ -934,7 +933,7 @@ elektronikus úton megküldi az állami adóhatóság részére.
 - 36. eladott áruk beszerzési értéke: a kettős könyvvitelt vezető vállalkozások esetében a vásárolt és változatlan formában eladott anyagoknak, áruknak – a számvitelről szóló törvény szerint az eladott áruk beszerzési értékeként elszámolt – bekerülési (beszerzési) értéke. Az egyszeres könyvvitelt, valamint – a személyi jövedelemadóról szóló törvény hatálya alá tartozó – pénzforgalmi nyilvántartást vezető vállalkozók esetében a tárgyévi árubeszerzésre fordított kiadás, csökkentve a kifizetett árukészlet leltár szerinti záró értékével, növelve a kifizetett árukészlet leltár szerinti nyitó értékével. Csökkenti az eladott áruk beszerzési értékét az az érték, amellyel az adóalany a 37. pont szerint anyagköltségként, a 32. pont szerint alvállalkozói teljesítés értékeként, a 40. pont szerint közvetített szolgáltatások értékeként nettó árbevételét csökkentette,
 - 37. anyagköltség: a kettős könyvvitelt vezető vállalkozások esetében a vásárolt anyagoknak – a számvitelről szóló törvény szerint – anyagköltségként elszámolt bekerülési (beszerzési) értéke. Az egyszeres könyvvitelt, valamint – a személyi jövedelemadóról szóló törvény hatálya alá tartozó – pénzforgalmi nyilvántartást vezető vállalkozók esetében a tárgyévi anyagbeszerzésre fordított kiadás, csökkentve a kifizetett anyagkészlet leltár szerinti záró értékével, növelve a kifizetett anyagkészlet leltár szerinti nyitó értékével. Csökkenti az anyagköltséget a saját vállalkozásában végzett beruházáshoz felhasznált anyagok bekerülési (beszerzési) értéke, továbbá az az érték, amellyel az adóalany a 36. pont szerint az eladott áruk beszerzési értékeként, a 32. pont szerint alvállalkozói teljesítés értékeként, a 40. pont szerint közvetített szolgáltatások értékeként nettó árbevételét csökkentette,
 - 38. anyag, áru: a számvitelről szóló törvény szerinti vásárolt készletekből az anyagok, az áruk,
-- 39. az egyszerűsített vállalkozói adónak a számviteli törvény hatálya alá nem tartozó alanya esetében nettó árbevétel: a 22. pont g) alpontja szerinti nettó árbevétel, eladott áruk beszerzési értéke és anyagköltség: a 36. és a 37. pontokban foglalt, pénzforgalmi nyilvántartást vezető vállalkozókra meghatározott eladott áruk beszerzési értéke és anyagköltség,
+- 39.
 - 40. közvetített szolgáltatások értéke: az adóalany által saját nevében vásárolt és a harmadik személlyel (a megrendelővel) írásban kötött szerződés alapján, a szerződésben rögzített módon részben vagy egészben, de változatlan formában továbbértékesített (továbbszámlázott) szolgáltatás értéke. Közvetített szolgáltatásnál az adóalany vevője és nyújtója is a szolgáltatásnak, az adóalany a vásárolt szolgáltatást részben vagy egészben közvetíti úgy, hogy a megrendelővel kötött szerződésből a közvetítés lehetősége, a számlából a közvetítés ténye, vagyis az, hogy az adóalany nemcsak a saját, hanem az általa vásárolt szolgáltatást is értékesíti változatlan formában, de nem feltétlenül változatlan áron, egyértelműen megállapítható. Az e pont szerinti értékkel az adóalany akkor csökkentheti a nettó árbevételét, ha azzal a 22. pont a) alpontja szerint jogdíjként, a 36. pont szerint eladott áruk beszerzési értékeként, a 37. pont szerint anyagköltségként vagy a 32. pont szerint alvállalkozói teljesítések értékeként nettó árbevételét nem csökkentette;
 - 41. székhely: belföldi szervezet esetében az alapszabályában (alapító okiratában), a cégbejegyzésben (bírósági nyilvántartásban), az egyéni vállalkozó esetében az egyéni vállalkozók nyilvántartásában ekként feltüntetett hely, a magánszemélyek esetében az állandó lakóhely. A külföldi székhelyű vállalkozás magyarországi fióktelepe vonatkozásában a székhely alatt a cégbejegyzésben a fióktelep helyeként megjelölt helyet, a bizalmi vagyonkezelésbe adott vagyon esetében a bizalmi vagyonkezelő székhelyét, lakóhelyét kell érteni;
 - 42. saját vállalkozásban végzett beruházás: a számviteli törvény szerinti tárgyi eszköznek minősülő eszközök saját vállalkozásban végzett megvalósítása, létesítése, bővítése, rendeltetésének megváltoztatása, átalakítása, élettartamának növelése, eredeti állagának helyreállítását szolgáló felújítása – ide nem értve a tárgyi eszköz folyamatos, zavartalan, biztonságos üzemeltetését szolgáló javítási, karbantartási munkákat, továbbá az erdőnevelési, erdőfenntartási, erdőfelújítási munkákat – akkor is, ha az adóalany kizárólag a beruházás megvalósításához szükséges anyagot biztosítja,
@@ -954,22 +953,26 @@ származó ellenérték (bevétel);
 
 - 52. sportvállalkozás: főtevékenységként sporttevékenységet [TEÁOR '08 93.1] végző, a sportról szóló törvény szerinti azon sportvállalkozás, amely az adóévben indult mindazon sportág sportszövetsége által kiírt, szervezett, rendezett vagy engedélyezett versenyrendszerben, amely sportágban versenyző játékjogának használati jogával rendelkezik;
 - 53. közszolgálati kötelezettség:
-  - a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony,
-  - b) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény szerinti szolgálati jogviszony,
-  - c) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti állami vezetői jogviszony,
-  - d) az Állami Számvevőszékről szóló 2011. évi LXVI. törvény szerinti szolgálati jogviszony,
-  - e) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény szerinti ügyész szolgálati jogviszony,
-  - f) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény szerinti jogviszony,
-  - g) a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati jogviszony,
-  - h) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti szolgálati viszony,
-  - i) az állami tisztviselőkről szóló 2016. évi LII. törvény szerinti állami szolgálati jogviszony,
-  - j) a külön jogszabály által mentelmi jogot biztosító jogállás,
-  - k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti jogviszony
+  - a) a közalkalmazottak jogállásáról szóló törvény szerinti közalkalmazotti jogviszony,
+  - b) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony,
+  - c) a kormányzati igazgatásról szóló törvény szerinti politikai szolgálati jogviszony, biztosi jogviszony, kormányzati szolgálati jogviszony,
+  - d) az Állami Számvevőszékről szóló törvény szerinti szolgálati jogviszony,
+  - e) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény szerinti ügyész szolgálati jogviszony,
+  - f) a közszolgálati tisztviselőkről szóló törvény szerinti jogviszony,
+  - g) a honvédek jogállásáról szóló törvény szerinti szolgálati jogviszony,
+  - h) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati viszony,
+  - i) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszony,
+  - j) a honvédelmi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti jogviszony,
+  - k) jogszabály által mentelmi jogot biztosító jogállás
 
 keretében végzett kötelezettség;
 
 - 54. beruházás: az adómentességet, adókedvezményt rendeletében biztosító önkormányzat illetékességi területén üzembe helyezett, a számvitelről szóló törvény szerinti olyan beruházás, amelyet a vállalkozó vesz első ízben használatba;
-- 55–59.
+- 55. alapítvány: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil törvény) szerinti közhasznú jogállású alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a Civil törvény szerinti közhasznú szervezetté történő minősítés feltételeit, ide nem értve a magyarországi nyilvántartásba vételt;
+- 56.
+- 57.
+- 58.
+- 59.
 - 60. lakóépület: olyan épület, amelynek hasznos alapterülete legalább 50 százalékát lakások hasznos alapterülete teszi ki.
 - 61. külföldön létesített telephelyen végzett tevékenységből származó adóalaprész: az iparűzési adóalapnak az a része, amely a 3. számú melléklet – tevékenységre leginkább jellemző – 1.1 vagy 1.2 vagy 2.1 vagy 2.3 pontja alkalmazásával a külföldön létesített telephelyre, telephelyekre jut, azzal, hogy a 3. számú mellékletben említett település, települések kifejezések alatt a külföldön létesített telephelyet, telephelyeket is érteni kell. Ha a vállalkozó adóévet megelőző teljes adóévi adóalapja a 100 millió forintot meghaladta, csak a 3. számú melléklet 2.1 pontja vagy 2.3 pontja szerinti módszer alkalmazható,
 - 62. építőipari tevékenységet folytató vállalkozó: az a vállalkozó, akinek (amelynek) az adóévben a számviteli törvény szerinti értékesítés nettó árbevétele és az adóév utolsó napján készletre vett befejezetlen termelés, félkésztermék, késztermék értékének együttes összege legalább 75%-ban építőipari tevékenységből [52. § 24. pont] származik,

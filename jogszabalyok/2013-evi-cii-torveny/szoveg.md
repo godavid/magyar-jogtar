@@ -329,7 +329,7 @@ különleges rendeltetésűvé nyilvánítható.
 
 (4) A halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítása nem érinti a halgazdálkodási jog haszonbérletére vonatkozó szerződés alapján gyakorolható jogokat, azonban a haszonbérleti szerződés megszűnésével a halgazdálkodási jog átengedésére – a 24. § a) pontjára figyelemmel – új haszonbérleti szerződés nem köthető.
 
-27/A. § (1) Ha a halgazdálkodási jog gyakorlására a 74. § (4) bekezdése alapján jogosult (a továbbiakban: kényszerhasznosított jogosult) a halgazdálkodási hatóság felszólítása ellenére – a felszólítás kézhezvételétől számított – egy éven túl sem tesz eleget a halgazdálkodási jog gyakorlásával kapcsolatos kötelezettségeknek, és ezáltal a halállomány vagy a vízi élőhely fennmaradását közvetlenül vagy súlyosan sérti, illetve veszélyezteti, a halgazdálkodási hatóság a kényszerhasznosított jogosult költségére elrendeli a halgazdálkodási jog gyakorlásának kényszerhasznosítását. A halgazdálkodási jog kényszerhasznosítását elrendelő hatósági döntést nyilvánosan is közzé kell tenni. A kényszerhasznosítást arra az időre kell elrendelni, amíg a halgazdálkodási jog a jogosultat megilleti.
+27/A. § (1) Ha a halgazdálkodási jog gyakorlására a 74. § (4) bekezdése alapján jogosult (a továbbiakban: kényszerhasznosított jogosult) a halgazdálkodási hatóság felszólítása ellenére – a felszólítás kézhezvételétől számított – egy éven túl sem tesz eleget a halgazdálkodási jog gyakorlásával kapcsolatos kötelezettségeknek, és ezáltal a halállomány vagy a vízi élőhely fennmaradását közvetlenül vagy súlyosan sérti, illetve veszélyezteti, a halgazdálkodási hatóság a kényszerhasznosított jogosult költségére elrendeli a halgazdálkodási jog gyakorlásának kényszerhasznosítását. A halgazdálkodási jog kényszerhasznosítását elrendelő hatósági döntést közhírré kell tenni. A kényszerhasznosítást arra az időre kell elrendelni, amíg a halgazdálkodási jog a jogosultat megilleti.
 
 (2) A halgazdálkodási jog kényszerhasznosítása során a miniszter – a kényszerhasznosított jogosult törvényes képviselőjeként eljárva – a halgazdálkodási jogot haszonbérbe vagy vagyonkezelésbe adja. A haszonbérleti vagy vagyonkezelési szerződés időtartama nem lehet hosszabb a kényszerhasznosítás időtartamánál. A kényszerhasznosított jogosult a haszonbérleti vagy a vagyonkezelési díjnak csak a felmerült költségeket – ide értve a kényszerhasznosítás elrendelésével, a haszonbérbe vagy vagyonkezelésbe adással kapcsolatos, valamint a halgazdálkodási jog gyakorlásából eredő valamennyi költséget is – meghaladó részére tarthat igényt.
 
@@ -368,7 +368,7 @@ különleges rendeltetésűvé nyilvánítható.
 
 követő napon.
 
-(2) A halgazdálkodási jog haszonbérletére vonatkozó haszonbérleti szerződést a miniszter azonnali hatállyal, kártalanítási kötelezettség nélkül felmondhatja, amennyiben a haszonbérlővel szemben 5 éven belül – az adott halgazdálkodási vízterület vonatkozásában – három alkalommal jogerősen halgazdálkodási bírságot szabott ki a halgazdálkodási hatóság.
+(2) A halgazdálkodási jog haszonbérletére vonatkozó haszonbérleti szerződést a miniszter azonnali hatállyal, kártalanítási kötelezettség nélkül felmondhatja, amennyiben a haszonbérlővel szemben 5 éven belül – az adott halgazdálkodási vízterület vonatkozásában – három alkalommal véglegessé vált döntésében halgazdálkodási bírságot szabott ki a halgazdálkodási hatóság.
 
 31. § (1) A halgazdálkodási jog haszonbérletére kötött szerződés megszűnésekor, eltérő megállapodás hiányában a haszonbérlő követelheti
 
@@ -1054,6 +1054,26 @@ meghatározott közfeladatokat látja el.
 - e) a halgazdálkodási jogosultak által ellátott halőrzés fejlesztése, a tevékenység összehangolása, minőségének fejlesztése,
 - f) a horgászati és horgászturisztikai szolgáltatások értékelési, minőségbiztosítási rendszerének kidolgozása és üzemeltetése,
 - g) a nyilvántartott halgazdálkodási vízterületeket érintő horgászturisztikai fejlesztési igények, lehetőségek felkutatása, azok összehangolása.
+
+(4a) A (4) bekezdés a) és b) pontja szerinti nyilvántartásban (az e § alkalmazásában a továbbiakban együtt: nyilvántartás) a horgászszövetség kezeli a nyilvántartott természetes személy (a továbbiakban: nyilvántartott személy)
+
+- a) természetes személyazonosító adatait,
+- b) lakcímét,
+- c) kézbesítési címét,
+- d) telefonos és elektronikus elérhetőségét.
+
+(4b) Az adatfelvétel során a (4a) bekezdés a) és b) pontja szerinti adatokat – a hitelesség biztosítása érdekében – a nyilvántartott személy által
+
+- a) személyesen vagy
+- b) elektronikus ügyintézés esetén a videotechnológiával történő azonosítás során
+
+bemutatott, a (4a) bekezdés a) pontja szerinti adat esetében személyazonosításra alkalmas, arcképmását tartalmazó okmány, továbbá a (4a) bekezdés b) pontja szerinti adat esetében személyi azonosítót és lakcímet igazoló hatósági igazolvány vagy a lakcímet igazoló egyéb okmány alapján kell rögzíteni.
+
+(4c) A telefonos és elektronikus elérhetőség a nyilvántartott személy hozzájárulása esetén kerül rögzítésre.
+
+(4d) A (4a) bekezdés szerinti személyes adat – törvény eltérő rendelkezése hiányában – más szerv vagy személy részére nem továbbítható, és azt a horgászszövetség a nyilvántartott személynek a nyilvántartásból való törlését követő ötödik év végéig zártan kezeli.
+
+(4e) A nyilvántartott személy a (4a) bekezdés a)–c) pontjában meghatározott adatokban történt változást haladéktalanul, de legkésőbb az adatváltozás bekövetkezésétől számított 30 napon belül bejelenti a horgászszövetségnek azzal, hogy a (4a) bekezdés a) és b) pontja szerinti adatokban bekövetkezett változás bejelentése tekintetében a (4b) bekezdést alkalmazni kell.
 
 (5) A horgászszövetség a (2)–(3) bekezdésben meghatározott feladatokat az adott vízterület vonatkozásában a halgazdálkodásra jogosult hozzájárulása alapján végezheti.
 

@@ -312,12 +312,12 @@ a (2) bekezdésben meghatározottak megérkezéséig – de legfeljebb két óra
 
 #### 12. A tetten ért személy előállítása
 
-20. § (1) Az 1. § (1) bekezdés c), d), i), j), k) és l) pontjában meghatározott – közszolgálati vagy közalkalmazotti jogviszonyban álló – személy jogosult a tetten ért személyt
+20. § (1) Az 1. § (1) bekezdés c), d), i), j), k) és l) pontjában meghatározott – kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban álló – személy jogosult a tetten ért személyt
 
 - a) bűncselekmény vagy
 - b) azon szabálysértési elzárással is büntethető szabálysértés esetén, amely tekintetében helyszíni bírságot szabhat ki az eljárás lefolytatása érdekében haladéktalanul előállítani – a (2) bekezdésben meghatározott kivétellel – a helyi rendőri szervhez, vagy a rendőrséggel egyeztetett helyszínen a rendőrség részére átadni.
 
-(2) Az 1. § (1) bekezdés d), i), j), k) és l) pontjában meghatározott – közszolgálati vagy közalkalmazotti jogviszonyban álló – személynek ellenszegülés esetén az előállításhoz a Rendőrségről szóló törvény szerint a rendőrség segítségét kell kérnie.
+(2) Az 1. § (1) bekezdés d), i), j), k) és l) pontjában meghatározott – kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban álló – személynek ellenszegülés esetén az előállításhoz a Rendőrségről szóló törvény szerint a rendőrség segítségét kell kérnie.
 
 (3) Az (1) bekezdésben meghatározott rendészeti feladatokat ellátó személy a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározott feltételek fennállása esetén a bíróság elé állítás során az ott meghatározott módon az eljárásban részt vesz.
 
@@ -342,7 +342,7 @@ korlátozhatja.
 
 - a) az 1. § (1) bekezdés c)–l) pontjában meghatározott személy – az intézkedés kikényszerítése céljából – vegyi eszközt,
 - b) az 1. § (1) bekezdés c)–l) pontjában meghatározott személy – kizárólag önvédelmi célból – szolgálati kutyát, valamint rendőrbotot,
-- c) az 1. § (1) bekezdés c), d), i), j, k) és l) pontjában meghatározott közszolgálati vagy közalkalmazotti jogviszonyban álló személy – az előállításnak ellenszegülő személy támadásának, valamint szökésének megakadályozása érdekében – bilincset
+- c) az 1. § (1) bekezdés c), d), i), j, k) és l) pontjában meghatározott kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban álló személy – az előállításnak ellenszegülő személy támadásának, valamint szökésének megakadályozása érdekében – bilincset
 
 tarthat magánál.
 
@@ -417,7 +417,7 @@ rendelkezések ismeretéből – bizottság előtt – vizsgát tenni.
 
 #### 16. Az együttműködési megállapodás
 
-24. § (1) Az 1. § (1) bekezdés c)–l) pontjában meghatározott – közszolgálati vagy közalkalmazotti jogviszonyban álló – személy munkáltatója a működési területén illetékes megyei (fővárosi) rendőr-főkapitánysággal – a rendészeti feladatokat ellátó személyek ellenőrzése és törvényben meghatározott tevékenységük felügyelete, valamint a feladatellátás összehangolása érdekében – írásbeli együttműködési megállapodást köt.
+24. § (1) Az 1. § (1) bekezdés c)–l) pontjában meghatározott – kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban álló – személy munkáltatója a működési területén illetékes megyei (fővárosi) rendőr-főkapitánysággal – a rendészeti feladatokat ellátó személyek ellenőrzése és törvényben meghatározott tevékenységük felügyelete, valamint a feladatellátás összehangolása érdekében – írásbeli együttműködési megállapodást köt.
 
 (2) Az (1) bekezdésben meghatározott személy a III. Fejezetben meghatározott intézkedéseket és kényszerítő eszközöket csak az együttműködési megállapodás megkötését követően gyakorolhatja.
 

@@ -135,7 +135,7 @@ jelöli meg.
 
 (7) Nem folytatható belföldön, külföldön vagy nemzetközi együttműködés keretében szervezett szerencsejátékban történő részvételre Magyarországon értékesítési, szervező, közvetítő tevékenység, ha a szerencsejáték szervezésére a szerencsejáték-felügyeleti hatóság nem adott engedélyt.
 
-(7a) Szerencsejátékot népszerűsítő reklám kizárólag a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5. § (1) bekezdésének és 21. §-ának megfelelően tehető közzé Magyarországon. A külön törvényben meghatározott hatóság az e rendelkezések megsértésével közzétett szerencsejáték tárgyú reklám (a továbbiakban: tiltott reklám) esetén a reklámozót, a reklámszolgáltatót, a reklám közzétevőjét és a reklámban szereplő személyt egyetemlegesen a tiltott reklámmal elért vagyoni előny tízszeresének megfelelő, de legalább 10 millió forint összegű bírsággal sújtja. Ha nem állapítható meg a reklámozó, a reklámszolgáltató vagy a reklámban szereplő személy, a külön törvényben meghatározott hatóság a bírságot a reklám közzétevőjével szemben állapítja meg.
+(7a) Szerencsejátékot népszerűsítő reklám kizárólag a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5. § (1) bekezdésének és 21. §-ának megfelelően tehető közzé Magyarországon. A külön jogszabályban meghatározott hatóság az e rendelkezések megsértésével közzétett szerencsejáték tárgyú reklám (a továbbiakban: tiltott reklám) esetén a reklámozót, a reklámszolgáltatót, a reklám közzétevőjét és a reklámban szereplő személyt egyetemlegesen a tiltott reklámmal elért vagyoni előny tízszeresének megfelelő, de legalább 10 millió forint összegű bírsággal sújthatja. Ha nem állapítható meg a reklámozó, a reklámszolgáltató vagy a reklámban szereplő személy, a külön jogszabályban meghatározott hatóság a bírságot a reklám közzétevőjével szemben állapítja meg.
 
 (8) A szerencsejáték-szervező a (4) bekezdés b) és d) pontjaiban és az (5) bekezdésben meghatározott személyi megfelelőségének folyamatosan fenn kell állnia, ennek érdekében azt a szervező évente igazolni köteles, a szerencsejáték-felügyeleti hatóság pedig a személyi megfelelőség meglétét köteles ellenőrizni. A személyi megfelelőség meghosszabbítására irányuló kérelmet a személyi megfelelőség érvényességéig kell benyújtani a szerencsejáték-felügyeleti hatósághoz, a határidőben benyújtott kérelem esetén annak végleges döntéssel történő elbírálásáig a szerencsejáték-felügyeleti hatóság vélelmezi a személyi megfelelőség fennállását.
 
@@ -160,6 +160,8 @@ végezheti.
 (2a) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter ellátja a szerencsejáték-szervezés felügyeletét és a szerencsejáték-felügyeleti hatóság irányítását.
 
 (2b) A szerencsejáték-szervezéshez kapcsolódó nemzetközi szerződés esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, az egyéb, szerencsejáték-szervezéshez kapcsolódó két- vagy többoldalú szerződés esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter vagy a szerencsejáték-felügyeleti hatóság vezetője jár el a szerződés előkészítése, megkötése, módosítása, megszüntetése során és felel a szerződésből eredő kötelezettségek teljesítéséért.
+
+(2c) Az állami adóhatóság megkeresésre tájékoztatja a szerencsejáték-szervezés állami felügyeletéért felelős minisztert a (2) bekezdés szerinti hatásköréhez kapcsolódóan a megbízható szervezői minőség 37. § 30. pont a)–c) alpontja szerinti ellenőrzéséhez szükséges adó-, illetve vámtitkot képező adatról vagy információról.
 
 (3) A számsorsjáték és – a lóversenyfogadás, a távszerencsejáték és a bukmékeri rendszerű fogadás kivételével – a fogadás szervezésére kizárólag az állami játékszervező jogosult.
 
@@ -271,9 +273,7 @@ végezheti.
 
 8/A. §
 
-8/B. § (1) A szerencsejáték-felügyeleti hatóság vezetője a szerencsejáték-felügyeleti hatóságnál foglalkoztatott kormánytisztviselőt és munkavállalót a hivatali, szervezeti célok megvalósítását elősegítő kiemelkedő teljesítménye, illetve tartósan jó munkavégzése alapján a (2) bekezdés szerinti intézményi feladatok teljesülése esetén feltételekhez kötött személyi juttatásban részesítheti.
-
-(2) A feltételekhez kötött személyi juttatás – negyedévekre lebontott – éves keretösszegét és a szerencsejáték-felügyeleti hatóság számára negyedévekre előírt intézményi feladatok körét a tárgyév január 31. napjáig a szerencsejáték-szervezés állami felügyeletéért felelős miniszter határozza meg.
+8/B. §
 
 9. § (1) Szerencsejáték csak jóváhagyott játékterv alapján szervezhető. A szerencsejáték-szervezőnek biztosítania kell a szerencsejátékkal összefüggő valamennyi tudnivaló (különösen a szerencsejáték lebonyolításának módja, a nyerési esélyek, a nyeremények felosztásának módja, feltételei, át nem vett nyeremények kezelése) játékosok számára való nyilvánosságát. A szerencsejáték-szervezőnek fel kell hívnia a figyelmet a túlzásba vitt szerencsejáték ártalmaira, a szenvedélybetegség kialakulásának veszélyére. A szerencsejáték-szervező az értékesítőhelyen köteles ilyen tartalmú tájékoztató hirdetmények elhelyezésére.
 
@@ -380,7 +380,9 @@ végezheti.
 
 (2) A szerencsejáték-felügyeleti hatóság az (1) bekezdés szerinti felhívást pénzforgalmi szolgáltató esetén a Magyar Nemzeti Bank, elektronikus hírközlési szolgáltató esetén a Nemzeti Média- és Hírközlési Hatóság részére, egyéb szervezet esetén az ismert magyarországi felügyeleti szerv részére is megküldi.
 
-13/C–13/D. §
+13/C. § A szerencsejáték-szervezés állami felügyeletéért felelős miniszter évente – a tárgyévet követő március 31. napjáig – beszámol a Kormánynak a szerencsejáték-felügyeleti hatóság e törvényben meghatározott felügyeleti tevékenységéről.
+
+13/D. §
 
 13/E. §
 
@@ -516,7 +518,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (7)–(10)
 
-(11) Pénznyerő automata működtetésére a gyártás időpontjától számított 5 éven túli időtartamra nem adható engedély.
+(11)
 
 (12)
 
@@ -532,7 +534,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (18)
 
-(19) A pénznyerő automata a gyártásának időpontjától számított 5 éven túl – illetve annak letelte előtt, ha a szervező a pénznyerő automata üzemeltetésének végleges megszüntetéséről dönt – teljes egészében a hulladékgazdálkodásról szóló 2000. évi XLIII. törvény és annak végrehajtási rendeletei szerint meghatározott elektronikus berendezés hulladékának minősül.
+(19)
 
 (20)
 
@@ -1129,18 +1131,18 @@ fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megf
 
 (3) A szerencsejáték-felügyeleti hatóság elrendelheti a dolog zár alá vételét, amennyiben a rendelkezésére álló adatok alapján megalapozottan feltehető, hogy az e törvény értelmében elkobozható.
 
-(4) A szerencsejáték-felügyeleti hatóság az elkobzást akkor is elrendelheti, ha a dolog nem a jogsértő tulajdona. Ha az elkobzott dolog tulajdonosa nem ismert, az elkobzást elrendelő döntést – a tulajdonos megjelölése nélkül – a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 15 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. Az elkobzás kivételesen mellőzhető, ha az a jogsértőre vagy a dolog tulajdonosára a jogsértés súlyával arányban nem álló, méltánytalan hátrányt jelentene. Az elkobzott dolog tulajdonjoga az államra száll.
+(4) A szerencsejáték-felügyeleti hatóság az elkobzást akkor is elrendelheti, ha a dolog nem a jogsértő tulajdona. Ha az (1) bekezdés szerint elkobzás alá eső dolog tulajdonosa nem ismert, az elkobzást elrendelő döntést – a tulajdonos megjelölése nélkül – a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 15 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. Az elkobzás kivételesen mellőzhető, ha az a jogsértőre vagy a dolog tulajdonosára a jogsértés súlyával arányban nem álló, méltánytalan hátrányt jelentene. Az elkobzott dolog tulajdonjoga az államra száll.
 
 (5) Ha az elkobzott dolog értékesítését vagy megsemmisítését követően a szerencsejáték-felügyeleti hatóság vagy a bíróság megállapítja, hogy az elkobzás elrendelése jogszabálysértő volt, a szerencsejáték-felügyeleti hatóság az elkobzott dolog tulajdonosa részére visszafizetés elrendeléséről intézkedik. A visszafizetés keretében
 
 - a) tőkeösszegként értékesítés esetén az értékesítés során ténylegesen befolyt ellenértéket, megsemmisítés esetén a dolog elkobzását elrendelő határozat meghozatalakor fennálló értéket és
-- b) késedelmi kamatként az a) pont szerinti összeg után az elkobzást elrendelő határozat jogerőre emelkedésétől a visszatérítést elrendelő határozat meghozatala napjáig terjedő időszakra, naptári naponként ez utóbbi határozat meghozatala napján érvényes jegybanki alapkamat kétszerese 365-öd részének megfelelő összeget kell visszatéríteni.
+- b) késedelmi kamatként az a) pont szerinti összeg után az elkobzást elrendelő határozat véglegessé válásától, vagy jogerőre emelkedésétől a visszatérítést elrendelő határozat meghozatala napjáig terjedő időszakra, naptári naponként ez utóbbi határozat meghozatala napján érvényes jegybanki alapkamat kétszerese 365-öd részének megfelelő összeget kell visszatéríteni.
 
 (6) Az elkobzott dolgot az állami adóhatóság az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény értékesítésre vonatkozó szabályai megfelelő alkalmazásával értékesíti vagy megsemmisíti.
 
 (7)
 
-(8) Az állami adóhatóság az elkobzott dolog értékesítését vagy megsemmisítését követően az értékesítés vagy megsemmisítés költségeiről végzést hoz. A kötelezett az értékesítésért vagy megsemmisítésért 20 000 forint összegű költségátalány fizetésére köteles. E költségátalányon túlmenően az állami adóhatóság végzésben kötelezi az értékesítéshez vagy megsemmisítéshez kapcsolódó számszerűsíthető és számlával igazolt költségek megfizetésére a kötelezettet.
+(8) Az állami adóhatóság az elkobzott dolog értékesítését vagy megsemmisítését követően az értékesítés vagy megsemmisítés költségeiről végzést hoz. Az (1) bekezdés szerint elkobzás alá eső dolog tulajdonosa az állam javára elkobozni rendelt dolog értékesítéséért vagy megsemmisítéséért 20 000 forint összegű költségátalány fizetésére köteles. E személyt a költségátalányon túlmenően az állami adóhatóság végzésben kötelezi az értékesítéshez vagy megsemmisítéshez kapcsolódó számszerűsíthető és számlával igazolt költségek megfizetésére. Ha az elkobzás elrendelésére irányuló eljárásban az elkobzás alá eső dolog tulajdonosának személye nem volt megállapítható, az elkobzott dolog elkobzásának foganatosításával kapcsolatban felmerült költségeket az állam viseli.
 
 (9) A szerencsejáték-felügyeleti hatóság az (5) bekezdés szerinti esetben végzésben rendeli el a (8) bekezdés szerinti költségek visszatérítését.
 
@@ -1171,7 +1173,7 @@ fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megf
 
 36/J. § A szerencsejáték-felügyeleti hatóság a jogkövető magatartás elősegítése, valamint a játékosok és a pénzforgalmi szolgáltatók tájékoztatása érdekében honlapján az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a végleges döntéssel elrendelt ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését, valamint – amennyiben az megállapítható – az ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlapon tiltott szerencsejáték-szervezést megvalósító szervezet vagy személy elnevezését, és a tiltott szerencsejáték szervezéséhez használt fizetési számla számát.
 
-36/K. § A szerencsejáték-szervezés állami felügyeletéért felelős miniszter féléves gyakorisággal – a tárgyév július 20. és a tárgyévet követő január 20. napjáig – beszámol a Kormánynak a 13/A-13/B. §-ok és a IV. fejezet szerinti feladatok végrehajtásáról.
+36/K. §
 
 ### Nemzetközi közigazgatási együttműködés
 
@@ -1204,7 +1206,7 @@ fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megf
 
 (3) A kérelem elbírálása és a feltételek meghatározása során figyelembe kell venni a fizetési nehézség kialakulásának okait és körülményeit.
 
-(4) Nem engedélyezhető fizetési könnyítés, ha a kérelmezővel szemben a szerencsejáték-felügyeleti hatóság a fizetési könnyítési kérelemmel érintett jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt jogerősen bírságot szabott ki.
+(4) Nem engedélyezhető fizetési könnyítés, ha a kérelmezővel szemben a szerencsejáték-felügyeleti hatóság a fizetési könnyítési kérelemmel érintett jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt véglegesen bírságot szabott ki.
 
 (5) Magánszemély vagy egyéni vállalkozó esetében a fizetési könnyítés a (2) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha a kérelmező igazolja vagy valószínűsíti, hogy a bírság azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel súlyos megterhelést jelent.
 
@@ -1290,10 +1292,7 @@ kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter a lóversenyek és az agárversenyek szabályainak rendeletben történő megállapítására.
 
-(4) Felhatalmazást kap a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, hogy a szerencsejáték-felügyeleti hatóságnál foglalkoztatott
-
-- a)
-- b) kormánytisztviselők és munkavállalók részére feltételekhez kötött személyi juttatás és az intézményi feladatok megállapítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
+(4)
 
 39. § (1) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 33. § (1), (4)–(5), (7)–(8) bekezdéseit első alkalommal 2011. november tárgyhónapra kell alkalmazni.
 

@@ -371,7 +371,7 @@ vonatkozó rendelkezéseket is alkalmazni kell.
 
 (3) Honvédelmi rendeltetésű erdőben közjóléti létesítményt létesíteni csak abban az esetben lehet, ha az a területen folytatott katonai tevékenységgel összeegyeztethető.
 
-(4) Az engedélyköteles erdészeti létesítmények kivételével az erdészeti létesítmény létesítését, bővítését, korszerűsítését, megszüntetését vagy rendeltetésének megváltoztatását annak megkezdése előtt legkésőbb 21 nappal előzetesen be kell jelenteni az erdészeti hatóság részére.
+(4) Az engedélyköteles erdészeti létesítmények, valamint az erdei legeltetés céljából létesített villanypásztor kivételével, az erdészeti létesítmény létesítését, bővítését, korszerűsítését, megszüntetését vagy rendeltetésének megváltoztatását annak megkezdése előtt legkésőbb 21 nappal előzetesen be kell jelenteni az erdészeti hatóság részére.
 
 (5) Az erdészeti létesítmények közül
 
@@ -481,7 +481,7 @@ közhiteles hatósági nyilvántartásnak minősül.
 
 ### Egyszerűsített erdőgazdálkodói nyilvántartásba vétel
 
-18/A. § Az erdészeti hatóság egyszerűsített erdőgazdálkodói nyilvántartásba-vételi eljárást folytat le, ha a legfeljebb 10 személy tulajdonában álló erdőnek minősülő föld használatára vonatkozó megállapodást a felek a jelen törvény végrehajtására kiadott rendeletben meghatározott szerződésminta alkalmazásával kötötték meg.
+#### 18/A. §
 
 ### Erdőgazdálkodói nyilvántartásba bejegyzés alapjául szolgáló okiratok kellékei
 
@@ -1010,23 +1010,11 @@ folytatott gazdálkodást kell érteni.
 
 ### Az erdőgazdálkodási tevékenység nyilvánosságának biztosítása
 
-43. § (1) Az erdőgazdálkodási tevékenységek közül a nyilvánosság biztosítása szempontjából jelentős tevékenységnek minősül:
+43. § (1)
 
-- a) az erdészeti magánút, az engedélyköteles épített közelítő nyom, valamint az erdei sípálya létesítése, bővítése,
-- b) védelmi vagy közjóléti elsődleges rendeltetésű erdőben az erdőterv módosítása,
-- c) védelmi vagy közjóléti, valamint az állam 100%-os tulajdonában álló gazdasági elsődleges rendeltetésű erdőben a növedékfokozó gyérítés, a tarvágás, a fokozatos felújítóvágás, az egészségügyi fakitermelés és a szálaló vágás.
+(2)
 
-(2) Az erdészeti hatóság köteles
-
-- a) az (1) bekezdés a) és b) pont esetén a tevékenység engedélyezése, illetve a módosítás iránti kérelem beérkezését követő tíz napon belül,
-- b) az (1) bekezdés c) pont esetén a körzeti erdőtervezés befejezését követő harminc napon belül
-
-az e törvény végrehajtására kiadott jogszabályban meghatározott tájékoztatást a honlapján közzétenni. A tájékoztatás közzétételét követő 8 napon belül bárki írásos észrevételt tehet a honlapon keresztül.
-
-(3) Az erdészeti hatóság közmeghallgatást tart, ha:
-
-- a) a (2) bekezdés szerinti tájékoztatás kapcsán tett észrevételek alapján azt indokoltnak tartja, vagy
-- b) elvégzett erdőgazdálkodási tevékenységgel összefüggésben szükségesnek látja az adott térségben a fenntartható erdőgazdálkodási tevékenységgel kapcsolatban a nyilvánosság véleményének megismerését.
+(3)
 
 (4) A miniszter minden évben közleményben határozza meg az Erdők Hetét, amelynek rendezvényei azt a célt szolgálják, hogy az ország lakossága tájékoztatást kapjon az erdők állapotáról, az erdőgazdálkodási tevékenység helyzetéről, a Stratégia végrehajtásáról.
 
@@ -1253,7 +1241,7 @@ akadályozó létszámú és fajösszetételű vadászható vadállomány nem ta
 
 során a talaj tápanyag- és vízgazdálkodásának javítása céljából – kérelemre, védett természeti terület és Natura 2000 terület kivételével – engedélyezi, ha az erdőgazdálkodó megfelelő akkreditációval rendelkező kutatóhely közreműködésével biztosítja a kihelyezett szennyvíziszap termőhelyre, és erdei életközösségre való hatásainak folyamatos, legalább húsz éven keresztül történő figyelemmel kísérését.
 
-(3) Az erdőből az akácmag engedélyezett gyűjtésének kivételével erdei avar vagy a talaj humuszos termőrétegének összegyűjtése és elszállítása tilos.
+(3) Az erdőből erdei avar vagy a talaj humuszos termőrétegének összegyűjtése és elszállítása tilos. Akácmag gyűjtése az erdészeti hatósághoz a gyűjtést megelőző legalább 30 nappal korábban történő bejelentéssel lehetséges.
 
 (4) Az erdőben folytatott szakszerűtlen gazdálkodás következtében az erdővel szomszédos mezőgazdasági vagy egyéb rendeltetésű területek erdőből továbbterjedő károsítása esetén az erdőgazdálkodónak kell gondoskodnia a kár okának megszüntetéséről.
 

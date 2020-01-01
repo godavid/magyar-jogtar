@@ -32,7 +32,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - 9. Katasztrófaveszély: olyan folyamat vagy állapot, amelynek következményeként okszerűen lehet számolni a katasztrófa bekövetkezésének valószínűségével, és amely ezáltal veszélyezteti az emberi egészséget, környezetet, az élet- és vagyonbiztonságot.
 - 10. Katasztrófaveszélyes tevékenység: olyan emberi cselekvés vagy mulasztás, amely katasztrófát vagy annak közvetlen veszélyét idézheti elő.
 - 11. Kockázat: egy adott területen adott időtartamon belül vagy meghatározott körülmények között jelentkező egészség-, illetve környezetkárosító hatás valószínűsége.
-- 12. Közbiztonsági referens: a polgármester katasztrófák elleni védekezésre való felkészülési, védekezési, helyreállítási szakmai feladataiban, továbbá rendvédelmi és honvédelmi feladataiban közreműködő, köztisztviselői jogviszonyban álló, e feladat ellátására a polgármester által kijelölt, e törvény végrehajtási rendeletében meghatározott végzettséggel rendelkező személy.
+- 12. Közbiztonsági referens: a polgármester katasztrófák elleni védekezésre való felkészülési, védekezési, helyreállítási szakmai feladataiban, továbbá rendvédelmi feladataiban közreműködő, köztisztviselői jogviszonyban álló, e feladat ellátására a polgármester által kijelölt, e törvény végrehajtási rendeletében meghatározott végzettséggel rendelkező személy.
 - 13. Külső védelmi terv: a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem környezetében élő lakosság mentése, az anyagi javakban, a környezetben bekövetkező károk enyhítése érdekében a végrehajtandó rendszabályok bevezetésére, a végrehajtó szervezetre, a vezetésre, az adatszolgáltatásra vonatkozó terv, amely a települési veszélyelhárítási terv része.
 - 14. Küszöbérték alatti üzem: egy adott üzemeltető irányítása alatt álló azon terület, ahol e törvény végrehajtására kiadott jogszabály szerinti alsó küszöbérték negyedét elérő vagy meghaladó, de az alsó küszöbértéket el nem érő mennyiségben veszélyes anyag van jelen, valamint a külön jogszabályban meghatározott, kiemelten kezelendő létesítmények.
 - 15. Lakossági riasztó rendszer: a hivatásos katasztrófavédelmi szerv központi szerve, illetve a hivatásos katasztrófavédelmi szerv területi szervei kezelésében lévő lakossági riasztó, riasztó-tájékoztató, viharjelző rendszerek és ezek működésével szorosan összefüggő eszközök, berendezések összessége, amely lehet:
@@ -657,10 +657,10 @@ esetén.
 
 (3) Veszélyhelyzetben a közigazgatási hatósági eljárásra vonatkozó törvény rendelkezései közül rendelettel eltérő rendelkezések bevezetésére van mód
 
-- a) a bírósági felülvizsgálat alá nem tartozó eljárások körét,
+- a) a bíróság előtt meg nem támadható hatósági döntések körét,
 - b) a hatáskör és illetékesség megállapítását,
 - c) az eljáró közigazgatási hatóság kijelölésének rendjét,
-- d) a belföldi jogsegély szabályát,
+- d) a megkeresés szabályát,
 - e) az ügyintézési és egyéb határidőt,
 - f) a képviselet rendjét,
 - g) az elővezetés szabályát,
@@ -725,7 +725,12 @@ rendelheti el.
 
 (3) A veszélyhelyzet elhárításához szükséges mértékben – kártalanítás mellett – elrendelhető az ingatlan igénybevétele, illetve az építmény részleges vagy teljes bontása, amennyiben az a veszély elhárítása vagy további veszély megelőzése érdekében feltétlenül szükséges.
 
-(4) Veszélyhelyzetben az oktatásért felelős miniszter határozatban írhatja elő a közoktatási intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével kapcsolatos feladatokat. Az oktatásért felelős miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.
+(4) Veszélyhelyzetben egyedi határozatban határozhatja meg
+
+- a) az oktatásért felelős miniszter a köznevelési intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével,
+- b) a szakképzésért felelős miniszter a szakképző intézmények működésével, működtetésével, a tanítási év megszervezésével
+
+kapcsolatos feladatokat. Az oktatásért felelős miniszter, illetve a szakképzésért felelős miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.
 
 ### VI. Fejezet — A POLGÁRI VÉDELMI SZERVEZETEK MŰKÖDÉSE, A GAZDASÁGI ÉS ANYAGI SZOLGÁLTATÁS
 
@@ -970,9 +975,9 @@ Esküszöm, hogy minden erőmmel, törekvésemmel, tudásommal Magyarország jav
 
 (3) A kártalanítási igényeket a teljesítés helye szerint illetékes polgármester a szolgáltatás elrendelésétől számított hatvan napon belül összesíti és megküldi a teljesítés helye szerint illetékes hivatásos katasztrófavédelmi szerv területi szerve részére.
 
-(4) A kártalanítási eljárás lefolytatására és a kártalanítás összegének megállapítására első fokon a hivatásos katasztrófavédelmi szerv területi szerve jogosult. A fellebbezést a hivatásos katasztrófavédelmi szerv központi szerve bírálja el. Az ügyintézési határidő a kártalanítási igénynek a hivatásos katasztrófavédelmi szerv területi szervéhez történő megérkezése napján kezdődik.
+(4) A kártalanítási eljárás lefolytatására és a kártalanítás összegének megállapítására első fokon a hivatásos katasztrófavédelmi szerv területi szerve jogosult, határozata ellen fellebbezésnek van helye, amelyet a hivatásos katasztrófavédelmi szerv központi szerve bírál el. A fellebbezésnek a polgári védelmi szolgáltatás teljesítésére nincs halasztó hatálya.
 
-(5) A kártalanítás ügyében hozott jogerős határozat ellen a döntést sérelmező fél a határozat közlésétől számított 30 napon belül – jogszabálysértésre hivatkozással – keresettel fordulhat a bírósághoz. A fellebbezésnek, illetve a kereset benyújtásának a polgári védelmi szolgáltatás teljesítésére nincs halasztó hatálya.
+(5) Az ügyintézési határidő a kártalanítási igénynek a hivatásos katasztrófavédelmi szerv területi szervéhez történő megérkezése napján kezdődik.
 
 70. § (1) A kártalanítási kötelezettség a szolgáltatást elrendelőt terheli.
 
@@ -987,7 +992,7 @@ Esküszöm, hogy minden erőmmel, törekvésemmel, tudásommal Magyarország jav
 
 (3) A kártalanítást pénzben kell megállapítani és megtéríteni.
 
-(4) A kártalanítás megfizetésére kötelezett a jogerős döntés vagy bírósági ítélet kézhezvételétől számított 15 napon belül köteles a megállapított összeget megfizetni.
+(4) A kártalanítás megfizetésére kötelezett a véglegessé vált döntés vagy jogerős bírósági ítélet kézhezvételétől számított 15 napon belül köteles a megállapított összeget megfizetni.
 
 (5) Nem jár kártalanítás, ha az igénybevétel nem akadályozta az igénybevétel tárgyának rendeltetésszerű használatát.
 
@@ -1032,9 +1037,9 @@ kezelheti.
 
 72. § (1) A polgármester az általa kezelt adatállományt a beosztásra jelölés céljából továbbítja a hivatásos katasztrófavédelmi szervnek, amely ennek alapján kijelöli a polgári védelmi kötelezettségen alapuló polgári védelmi szervezetbe beosztható személyeket, és erről tájékoztatja a polgármestert.
 
-(2) A polgármester a kijelöltek adatállománya alapján kiválasztja azokat a kötelezetteket, akiket a szervezetbe határozattal beoszt, és erről a jogerős határozattal tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervét, valamint a beosztottak adatairól a hadkiegészítő parancsnokságot.
+(2) A polgármester a kijelöltek adatállománya alapján kiválasztja azokat a kötelezetteket, akiket a szervezetbe határozattal beoszt, és erről a véglegessé vált határozattal tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervét, valamint a beosztottak adatairól a hadkiegészítő parancsnokságot.
 
-(3) A polgármester a 71. § (1) bekezdése szerint összegyűjtött adatokról nyilvántartást nem vezethet, az adatállományt a beosztó határozat jogerőre emelkedése és a hivatásos katasztrófavédelmi szerv területi szerve tájékoztatása után haladéktalanul törli.
+(3) A polgármester a 71. § (1) bekezdése szerint összegyűjtött adatokról nyilvántartást nem vezethet, az adatállományt a beosztó határozat véglegessé válása és a hivatásos katasztrófavédelmi szerv területi szerve tájékoztatása után haladéktalanul törli.
 
 (4) A (2) bekezdés szerint átadott adatok felhasználásával a polgári védelmi kötelezettség teljesítésével kapcsolatos feladatok végrehajtása céljából a hivatásos katasztrófavédelmi szerv nyilvántartást vezet. A nyilvántartásból kizárólag a polgári védelmi szervezetbe történő beosztáshoz, a polgári védelmi kötelezettség teljesítéséhez, az igazolványban szereplő adatok ellenőrzéséhez igényelhető adat.
 

@@ -270,7 +270,7 @@ besorolást kap.
 
 (2) Új nukleáris létesítmény és radioaktívhulladék-tároló létesítését, valamint meglévő atomerőmű további atomreaktort tartalmazó egységgel való bővítését előkészítő tevékenység megkezdéséhez az Országgyűlés előzetes, elvi hozzájárulása szükséges.
 
-8. § (1) Az atomenergia-felügyeleti szerv kormányhivatal, felügyeletét a miniszter látja el. Az atomenergia-felügyeleti szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+8. § (1) Az atomenergia-felügyeleti szerv kormányzati főhivatal, felügyeletét a miniszter látja el. Az atomenergia-felügyeleti szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
 (2) Az atomenergia-felügyeleti szerv bevételét – a bírságból származó bevételek kivételével – működésének fedezetére használja fel, az más célra nem vonható el.
 
@@ -306,7 +306,7 @@ besorolást kap.
 - b) a nukleáris létesítmény, a radioaktívhulladék-tároló, valamint azok rendszereinek és rendszerelemeinek a műszaki állapota, valamint
 - c) a nukleáris létesítmény, a radioaktívhulladék-tároló üzemeltetése, továbbá az átalakítás végrehajtása megfelel a kockázat elfogadható mértéke alapján meghatározott követelményeknek és a hatósági engedélyekben előírtaknak.
 
-(2) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója folyamatos hatósági felügyelet alatt áll. Az atomenergia-felügyeleti szerv folyamatos hatósági felügyeleti tevékenysége a következő módon valósul meg:
+(2) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló folyamatos hatósági felügyelet alatt áll. Az atomenergia-felügyeleti szerv folyamatos hatósági felügyeleti tevékenysége a következő módon valósul meg:
 
 - a) egyedi hatósági eljárás keretében engedélyezési és jóváhagyási döntésekkel,
 - b) az engedélyes tevékenységének, valamint a nukleáris létesítmény, a radioaktívhulladék-tároló biztonsági helyzetének rendszeres elemzésével és értékelésével,
@@ -372,7 +372,7 @@ Időszakos Biztonsági Felülvizsgálat keretében – figyelembe véve az üzem
 - d) szándékos bűncselekmény miatt, a (3) bekezdésben meghatározott munkakörnek megfelelő feladatok ellátásával összefüggő foglalkozástól eltiltó, jogerős bírósági határozat született, a mentesítés beálltától számított hat évig,
 - e) szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás van folyamatban, a büntetőeljárás jogerős befejezéséig.
 
-(5) A (3) bekezdésben meghatározott létesítményben, illetve munkakörökben történő foglalkoztatáshoz, valamint az építészeti-műszaki szakértői, építészeti tervezői, építészeti műszaki ellenőri és építész felelős műszaki vezetői szakmagyakorláshoz a rendőrség által kiadott közbiztonsági engedély szükséges. A közbiztonsági engedély kiadására irányuló eljárásban a rendőrség közvetlen adatlekéréssel ellenőrzi, hogy a munkavállalóval szemben a (3) és (4) bekezdésben meghatározott kizáró okok nem állnak fenn, valamint, hogy nem áll a (3) bekezdésben meghatározott munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, valamint a (3) bekezdésben meghatározott szándékos bűncselekmény miatt nem áll büntetőeljárás hatálya alatt. A rendőrség a közbiztonság védelmének biztosítása céljából a foglalkoztatottakra vonatkozó követelmények fennállását évenként ellenőrzi. Az ellenőrzés során a közbiztonsági feltételek biztosítása céljából és az ellenőrzés időtartamára a rendőrség a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, valamint a büntetőeljárás hatálya alatt állók nyilvántartásából jogosult közvetlen hozzáféréssel átvenni és kezelni a (3) és (4) bekezdésben meghatározott feltételekre vonatkozó adatokat, valamint az arra vonatkozó adatokat, hogy az igazolás alanya nem áll a (3) bekezdésben meghatározott munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, valamint vele szemben a (3) bekezdésben meghatározott szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt nincsen büntetőeljárás folyamatban.
+(5) A (3) bekezdésben meghatározott létesítményben, illetve munkakörökben történő foglalkoztatáshoz, valamint az építészeti-műszaki szakértői, építészeti tervezői, építészeti műszaki ellenőri és építész felelős műszaki vezetői szakmagyakorláshoz a rendőrség által kiadott közbiztonsági engedély szükséges. A közbiztonsági engedély kiadására irányuló eljárásban a rendőrség közvetlen adatlekéréssel ellenőrzi, hogy a munkavállalóval szemben a (3) és (4) bekezdésben meghatározott kizáró okok nem állnak fenn, valamint, hogy nem áll a (3) bekezdésben meghatározott munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, valamint a (3) bekezdésben meghatározott szándékos bűncselekmény miatt nem áll büntetőeljárás hatálya alatt. A rendőrség a közbiztonság védelmének biztosítása céljából a foglalkoztatottakra vonatkozó követelmények fennállását évenként ellenőrzi. Az ellenőrzés során a közbiztonsági feltételek biztosítása céljából és az ellenőrzés időtartamára a rendőrség a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, valamint a büntetőeljárás hatálya alatt állók nyilvántartásából jogosult közvetlen hozzáféréssel átvenni és kezelni a (3) és (4) bekezdésben meghatározott feltételekre vonatkozó adatokat, valamint az arra vonatkozó adatokat, hogy az igazolás alanya nem áll a (3) bekezdésben meghatározott munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, valamint a (3) bekezdésben meghatározott szándékos bűncselekmény miatt nem áll büntetőeljárás hatálya alatt.
 
 (6) Ha az ellenőrzés során a rendőrség megállapítja, hogy a foglalkoztatottal szemben kizáró ok áll fenn, az atomenergia alkalmazójának a kizáró ok fennállásának tényére vonatkozó egyidejű tájékoztatása mellett az engedélyt visszavonja. A rendőrség az ellenőrzés alapján indított, az engedély visszavonására irányuló eljárás végleges döntéssel történő befejezéséig kezelheti az (5) bekezdés szerint átvett adatokat.
 
@@ -561,6 +561,16 @@ ha ezeket a közigazgatási hatósági ügyeket az Ngtv. felhatalmazása alapjá
 
 (3) Az atomenergia-felügyeleti szerv az engedélyt visszavonhatja vagy az engedély időbeli hatályát korlátozhatja, ha megállapítja, hogy az engedély megadása alapjául szolgáló nukleáris biztonsági, biztosítéki, védettségi, valamint az ionizáló sugárzás elleni védelemmel kapcsolatos körülmények megváltoztak és az ebből fakadó kockázat mértéke növekedett.
 
+(3a) Az atomenergia-felügyeleti szerv az engedélyest e törvény vagy e törvény végrehajtására kiadott rendelet megsértése esetén a tevékenység végzésétől eltilthatja. Az atomenergia-felügyeleti szerv a tevékenységtől való eltiltás időbeli hatályának megállapításakor a biztonsági vagy radiológiai kockázatokat is figyelembe véve dönt azzal, hogy az eltiltás legfeljebb a jogszerű állapot helyreállításáig tarthat.
+
+(3b) Az eltiltás időbeli hatályának megállapítása során a biztonsági vagy radiológiai kockázatok mérlegelésekor figyelemmel kell lenni az eset összes körülményére, ezen belül különösen arra, hogy a szabályszegés vagy mulasztás folytán
+
+- a) bekövetkezett-e rendkívüli esemény, nukleáris veszélyhelyzet vagy atomkár,
+- b) milyen súlyú a követelmények, előírások megszegése,
+- c) ismételt szabályszegés történt-e,
+- d) felróható-e a szabályszegést vagy mulasztást okozó magatartás,
+- e) a szabályszegő vagy mulasztó tanúsított-e az általa okozott állapot megszüntetésére hozott intézkedéseket segítő, kárenyhítő magatartást.
+
 (4) Az átalakítási engedély kiadása előtt végzett ellenőrzés során feltárt, a nukleáris biztonságot veszélyeztető nem-megfelelőség esetén az atomenergia-felügyeleti szerv az átalakítás folytatását megtilthatja.
 
 (4a) Ha az átalakítást követő üzemeltetés megkezdését megelőzően az atomenergia-felügyeleti szerv a hozzá – jogszabály alapján – becsatolandó dokumentum értékelése, az eseti ellenőrzés vagy az átalakítás végrehajtása során lefolytatott ellenőrzés keretében olyan nem-megfelelőséget állapít meg, amely veszélyezteti a nukleáris biztonságot, akkor a kiadott átalakítási engedélyt visszavonja, vagy az engedélyt módosítva feltételeket állapít meg.
@@ -583,6 +593,13 @@ megadott engedélyek hatályának megszűnése esetén is fennáll.
 (2) Az alperes hatóság csak a védiratban indítványozhatja a megelőző eljárásban közreműködő szakhatóság perbevonását. A bíróság a perbevonási indítványt haladéktalanul közli a szakhatósággal, mely a közlést követő három napon belül nyilatkozik a perbevonás elfogadása tárgyában.
 
 15. § (1) Az engedély, a jogszabályok, a nukleáris biztonsági szabályzatok és a radioaktívhulladék-tárolóra vonatkozó biztonsági szabályzatok előírásainak megtartását, és az atomenergia alkalmazásának biztonságosságát az atomenergia-felügyeleti szerv köteles rendszeresen ellenőrizni, és az észlelt rendellenességek megszüntetése érdekében haladéktalanul intézkedni, vagy intézkedést kezdeményezni.
+
+(1a) Az atomenergia alkalmazási körébe tartozó hatósági eljárások során megállapított jogszabálysértések esetén nem alkalmazható figyelmeztetés, valamint közigazgatási óvadék szankció, ha
+
+- a) a jogsértés rendkívüli esemény, nukleáris veszélyhelyzet vagy atomkár bekövetkezéséhez vezethet,
+- b) a jogszabályban foglalt követelmények oly módon sérülnek, hogy ennek következtében ellenőrizetlen és szabályozatlan nukleáris láncreakció jöhet létre,
+- c) a 4. § (3) bekezdés c) pontja szerinti követelmények nem teljesülnek,
+- d) a jogszabálysértés következményeinek helyreállítására nincs lehetőség.
 
 (2) Az atomenergia-felügyeleti szerv az e törvény vagy az e törvény végrehajtására kiadott jogszabály megsértése, valamint az e törvény vagy az e törvény végrehajtására kiadott jogszabály alapján kiadott határozatában foglaltak betartásának elmulasztása esetén az engedélyest, továbbá a 17. § (2) bekezdés 20–22. pontja szerinti, az atomenergia-felügyeleti szerv hatáskörébe tartozó ügyekben adatszolgáltatásra kötelezettet bírság megfizetésére kötelezheti.
 
@@ -941,7 +958,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (4a) A független műszaki szakértő szervezetekre vonatkozó nyilvántartás adatai közül a Szolgtv.-ben meghatározott adatokon túl nyilvános mindazon természetes személyek neve, szakmai gyakorlatának rövid leírása és ideje, szakterülete, műszaki szakértők esetén a nyilvántartási száma, akik a (3b) bekezdés alapján a nyilvántartásban szerepelnek, továbbá a független műszaki szakértő szervezet engedélye kiállításának napja és a nyilvántartási száma. A nyilvántartás a független műszaki szakértő szervezet szakterülete, a szakértői tevékenységet engedélyező határozat száma, a kiállítás napja és a nyilvántartási szám tekintetében közhitelesnek minősül.
 
-(5)
+(5) A szakértői tevékenységtől eltiltó döntés hatálya legfeljebb három év lehet.
 
 (6)
 
@@ -1002,9 +1019,9 @@ szükséges nukleáris biztonsági engedélyezés;
 
 25. § A környezetvédelemért felelős miniszter jogszabályban meghatározott módon látja el a levegő, a szárazföldi és a vízi környezet radioaktív szennyezésének ellenőrzését.
 
-26. § (1) A honvédelemért felelős miniszter a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter – e törvény keretei között honvédelmi érdekből – eltérő követelményeket állapíthat meg.
+26. § (1) A honvédelemért felelős miniszter a honvédelmi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál – e törvény keretei között honvédelmi érdekből – eltérő követelményeket állapíthat meg.
 
-(2) A 17. § (2) bekezdés 26–42. pontjában meghatározott hatásköröket az (1) bekezdés szerinti szervezetek vonatkozásában ellátó honvédségi szervezet kijelöléséről, valamint a kijelölt honvédségi szervezet által alkalmazandó – az Ákr.-t kiegészítő és attól eltérő – közigazgatási hatósági eljárás szabályairól e törvény végrehajtására kiadott kormányrendelet rendelkezik.
+(2) A 17. § (2) bekezdés 26–42. pontjában meghatározott hatásköröket az (1) bekezdés szerinti szervezetek vonatkozásában ellátó honvédelmi szervezet kijelöléséről, valamint a kijelölt honvédelmi szervezet által alkalmazandó – az Ákr.-t kiegészítő és attól eltérő – közigazgatási hatósági eljárás szabályairól e törvény végrehajtására kiadott kormányrendelet rendelkezik.
 
 (3) A 12. és a 15. §-ban meghatározott eljárási szabályokat a (2) bekezdés szerint kijelölt szervezet is alkalmazza.
 
@@ -1380,7 +1397,7 @@ alkalmazásával kell megállapítani.
   - xn) a sugárzás elleni védőeszköz forgalomba hozatalnak engedélyezési és sugárvédelmi minősítési rendjét;
   - xo) az xj) és xk) pontok szerinti létesítmény, berendezés alkalmazásának vagy üzemeltetésének megkezdésére, alkalmazásának vagy üzemeltetésének megszüntetésére, tulajdonjoga megszerzésére, illetve használata bármilyen jogcímen történő átengedésére irányuló bejelentés tudomásulvételét.
 - y) az Országos Személyi Dozimetriai Nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi szakértői tevékenység folytatásának részletes feltételeit, e tevékenység folytatására jogosító engedély kiadásának rendjét, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a sugárvédelmi képzésre és továbbképzésre vonatkozó részletes szabályokat valamint a sugárvédelmi képzettség nyilvántartásának vezetésére vonatkozó részletes szabályokat;
-- z) a 26. §-ban meghatározott feladatok végrehajtására a honvédségi szervezet kijelölését, a kijelölt szervezet közigazgatási hatósági eljárásában alkalmazandó Ákr.-t kiegészítő és az Ákr.-től eltérő szabályokat.
+- z) a 26. §-ban meghatározott feladatok végrehajtására a honvédelmi szervezet kijelölését, a kijelölt szervezet közigazgatási hatósági eljárásában alkalmazandó Ákr.-t kiegészítő és az Ákr.-től eltérő szabályokat.
 
 67/A. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza az atomenergia alkalmazásával összefüggő hatósági engedélyek kiadásához szükséges rendőrségi szakhatósági hozzájárulás szempontjait, valamint az atomenergia alkalmazása körében a rendőrség által végzett hatósági ellenőrzések különös és kiegészítő eljárási szabályait.
 
@@ -1431,7 +1448,7 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
 
 (9)
 
-(10) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter egyetértésével kiadott rendeletben állapítsa meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter az e törvényben meghatározottaktól eltérő követelményeket.
+(10) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter egyetértésével kiadott rendeletben állapítsa meg a honvédelmi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál az e törvényben meghatározottaktól eltérő követelményeket.
 
 (11) Felhatalmazást kap a Kormány tagja, hogy rendeletben állapítsa meg a feladatkörükbe tartozó tevékenységek az országos környezeti sugárvédelmi ellenőrző rendszer részére történő adatszolgáltatáshoz szükséges környezeti sugárvédelmi ellenőrző rendszerének, továbbá adatgyűjtő és szolgáltató központjának felépítését és működési szabályait.
 

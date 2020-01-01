@@ -33,7 +33,7 @@ terjed ki.
 - i) az országos közforgalmú kikötők és a határkikötők rendeltetésszerű működéséhez és fejlesztéséhez szükséges közúti és vasúti összeköttetések feltételeinek biztosítása;
 - j) a közforgalmú kikötők fejlesztéséhez kapcsolódó támogatási rendszer meghatározása;
 - k) a honvédelmi és a polgári védelmi feladatok során igénybe vehető úszólétesítmények körének meghatározása, rendelkezésre állásuk biztosítása;
-- l) a belvízi és a tengerhajózási szakemberek – nemzetközi képesítési követelményeknek is megfelelő – iskolai rendszerű és iskolarendszeren kívüli képzési és továbbképzési feltételeinek meghatározása;
+- l)
 - m) a hajózással kapcsolatos egészségügyi követelmények megállapítása;
 - n) a hajózással kapcsolatos munkabiztonsági követelmények megállapítása;
 - o) a hajózással kapcsolatos környezet- és természetvédelmi követelmények megállapítása;
@@ -50,7 +50,7 @@ terjed ki.
 - g) az i) pontjában rögzített feladatot a miniszter a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
 - h) a j) pontjában rögzített feladatot a miniszter a Kormány európai uniós források felhasználásáért felelős tagjával, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
 - i) a k) pontjában rögzített feladatot a honvédelemért felelős miniszter a katasztrófák elleni védekezésért felelős miniszterrel együttesen, a miniszterrel és a gazdaságpolitikáért felelős miniszterrel egyetértésben,
-- j) az l) pontjában rögzített feladatot a miniszter a szakképzésért és felnőttképzésért felelős miniszterrel egyetértésben,
+- j)
 - k) az m) pontjában rögzített feladatot a miniszter az egészségügyért felelős miniszterrel egyetértésben,
 - l) az n) pontjában rögzített feladatot a foglalkoztatáspolitikáért felelős miniszter a miniszterrel és az egészségügyért felelős miniszterrel egyetértésben,
 - m) az o) pontjában rögzített feladatot a környezetvédelemért felelős miniszter, illetve a természetvédelemért felelős miniszter a miniszterrel egyetértésben,
@@ -81,7 +81,7 @@ látja el.
 
 (3) A hajózási hatóság eljárásáért miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-(4) Az ország határain kívül Magyarország konzuli tisztviselője első fokú hajózási hatósági jogkörben jár el a képesítő okmányok, a szolgálati könyvek ideiglenes pótlása, meghosszabbítása, valamint – a hajózási hatóság felkérésére – a hajóokmányok érvényességi idejének ideiglenes meghosszabbítása tekintetében. Ellátja továbbá a nemzetközi szerződésekben meghatározott, hajózással kapcsolatos egyéb konzuli feladatokat.
+(4) Az ország határain kívül Magyarország konzuli tisztviselője első fokú hajózási hatósági jogkörben jár el a képesítő okmányok, a szolgálati könyvek ideiglenes pótlása, meghosszabbítása, valamint – a külön jogszabályban meghatározott hajózási hatóság felkérésére – a hajóokmányok érvényességi idejének ideiglenes meghosszabbítása tekintetében. Ellátja továbbá a nemzetközi szerződésekben meghatározott, hajózással kapcsolatos egyéb konzuli feladatokat.
 
 (5)
 
@@ -142,7 +142,7 @@ látja el.
 
 (2) Nem kell nyilvántartásba venni:
 
-- a) csónakot a révcsónak kivételével,
+- a) a csónakot,
 - b) a nem gépi hajtású vízi sporteszközt,
 - c) a gépnélküli kishajót, kivéve a vitorlás kishajót,
 - d) a lakótéri felépítmény nélküli, 25 m2-nél kisebb fedélzeti területű úszóművet,
@@ -171,9 +171,12 @@ lajstromban tartja nyilván.
 - b) üzemeltetésre végleg alkalmatlanná vált,
 - c) elpusztult,
 - d) több mint egy éve eltűnt,
-- e) a törlést e törvény elrendeli [12. § (3) bekezdés], vagy azt az úszólétesítmény tulajdonosa egyéb okból kéri.
+- e) a törlést e törvény elrendeli [12. § (3) bekezdés], vagy azt az úszólétesítmény tulajdonosa egyéb okból kéri,
+- f) a hajózási hatóság megállapítja, hogy az a mérete alapján nem nyilvántartásra kötelezett.
 
 (2) A törlési eljárást az úszólétesítmény tulajdonosa kezdeményezi. Amennyiben a tulajdonos az eljárást az annak alapjául szolgáló esemény bekövetkezésétől számított 15 napon belül nem kezdeményezi, az eljárást a hajózási hatóság – a mulasztásról történt tudomásszerzését követően – hivatalból indítja meg.
+
+(2a) Az (1) bekezdés f) pontja szerinti esetben a hajózási hatóság igazgatási szolgáltatási díj megfizetésének mellőzésével, hivatalból jár el.
 
 (3) A lajstromból törölt úszólétesítmény hajóokmányainak eredeti példányát az úszólétesítmény tulajdonosa legkésőbb a véglegessé vált törlési döntés közlésétől számított 15 napon belül köteles az eljárást lefolytató hajózási hatóságnak átadni.
 
@@ -182,7 +185,7 @@ lajstromban tartja nyilván.
 10. § (1) A lajstrom nyilvánosan és közhitelesen tanúsítja a lajstromozott
 
 - a) úszólétesítmény állami hovatartozását;
-- b) az úszólétesítmény tulajdonosának természetes személyazonosító adatait és címét, illetve jogi személy esetén székhelyét, alapítójának nevét, a gazdasági társaság tagjának nevét, címét, anyja nevét, születési helyét és idejét, valamint tulajdoni arányát, a gazdasági társaság formáját és cégjegyzékszámát;
+- b) az úszólétesítmény tulajdonosának természetes személyazonosító adatait és címét, illetve jogi személy esetén székhelyét, alapítójának nevét, a gazdasági társaság tagjának természetes személyazonosító adatait és címét, valamint tulajdoni arányát, a gazdasági társaság formáját és cégjegyzékszámát;
 - c) úszólétesítményhez kapcsolódó jogokat és jogi szempontból jelentős tényeket;
 - d) úszólétesítmény azonosító adatait.
 
@@ -292,7 +295,7 @@ lajstromban tartja nyilván.
 
 (1b) Az (1a) bekezdés szerinti egészségügyi szűrővizsgálat a nemzeti egészségügyi rendszer keretében is elvégezhető belvízi hajós-orvosi vizsgálatokra jogosult orvos által.
 
-(2) A 20 tengeri mérföldnél hosszabb utakon közlekedő tengeri személyhajó és tengeri gyorsjáratú vízijármű, illetve az államhatárt átlépő belvízi személyhajó üzemben tartója köteles felkutatási és mentési, valamint hatósági feladatok végrehajtását biztosító célokra a hajón utazó személyek nevét, életkorát, nemét és állampolgárságát tartalmazó utasnyilvántartást vezetni, és azt szükség esetén a felkutató és mentőszolgálatok, valamint – a hatóság adatkérése esetén – a 48/A. § (1) bekezdésében megjelölt hatóságok rendelkezésére bocsátani.
+(2) A 20 tengeri mérföldnél hosszabb utakon közlekedő tengeri személyhajó és tengeri gyorsjáratú vízijármű, az államhatárt átlépő belvízi személyhajó, valamint a nyaralóhajó üzemben tartója köteles felkutatási és mentési, valamint hatósági feladatok végrehajtását biztosító célokra a hajón utazó személyek nevét, életkorát, nemét és állampolgárságát tartalmazó utasnyilvántartást vezetni, és azt szükség esetén a felkutató és mentőszolgálatok, valamint – a hatóság adatkérése esetén – a 48/A. § (1) bekezdésében megjelölt hatóságok rendelkezésére bocsátani.
 
 (3) A hajózási hatóság – az indulási és érkezési kikötő szerinti állam hatóságának hozzájárulásával – felmentheti az utasnyilvántartás vezetése alól a védett tengeri területen, illetve egy óránál rövidebb utakon közlekedő tengeri személyhajót és tengeri gyorsjáratú vízijárművet.
 
@@ -314,26 +317,19 @@ lajstromban tartja nyilván.
 
 ### A biztosítás
 
-24. § (1) Belföldi forgalomban személyhajó és áruszállító hajó, továbbá komp és gazdasági célból üzemeltetett egyéb vízi jármű csak abban az esetben vehet részt, ha az üzemben tartó a szerződésen kívüli kárra érvényes hajó-felelősségbiztosítási szerződéssel rendelkezik.
+24. § (1) Belföldi forgalomban magyar lajstromban nyilvántartott személyhajó és áruszállító hajó, továbbá komp és gazdasági célú hajózási tevékenység végzése céljából üzemeltetett kishajó csak abban az esetben vehet részt, ha az üzembentartó érvényes hajó-felelősségbiztosítási szerződéssel rendelkezik.
 
-(2) A külföldi lobogó alatt közlekedő – az (1) bekezdésben meghatározott – úszólétesítménynek Magyarország területére történő belépéséhez szükséges, hogy
+(2) Az (1) bekezdésben meghatározott vízi jármű esetében a rendőrség ellenőrzi az (1) bekezdésben foglalt hajó-felelősségbiztosítási szerződés meglétét, és ha annak hiányát állapítja meg, a további közlekedést megtiltja.
 
-- a) az üzemben tartó érvényes felelősségbiztosítást igazoló nemzetközi bizonylattal rendelkezzék, vagy
-- b) Magyarország területére való belépésekor az üzemben tartó – határozott időre szóló – felelősségbiztosítási szerződést kössön.
+(3) A hajó-felelősségbiztosítási szerződés megkötését tanúsító bizonylatot (kötvény, igazolólap) a vízi jármű vezetője köteles a vízi járművön tartani, és azt jogszabályban meghatározott esetben felmutatni.
 
-(3) A külföldi lobogó alatt közlekedő – az (1) bekezdésben meghatározott – úszólétesítmények Magyarország területére történő belépésekor a vámhatóság ellenőrzi a (2) bekezdésben foglaltak meglétét, és ha annak hiányát állapítja meg, a beléptetést megtagadja.
+(4) Ha megállapítást nyer, hogy az (1) bekezdésben megjelölt vízi járműre nincs érvényes hajó-felelősségbiztosítási biztosítási szerződés, az üzembentartó lakhelye (székhelye) szerinti illetékes hajózási hatóság tizenöt napon belül felhívja az üzembentartót a biztosítási szerződés megkötésének igazolására. Amennyiben az üzembentartó a felhívás kézhezvételétől számított nyolc napon belül a biztosítási szerződés fennállását nem igazolja, a hajózási hatóság a hajózási engedélyt visszavonja.
 
-(4) A hajó-felelősségbiztosítási szerződés megkötését tanúsító bizonylatot (kötvény, igazolólap) az úszólétesítmény vezetője köteles az úszólétesítményen tartani, és azt jogszabályban megállapított esetben felmutatni.
+25. § (1) A biztosítási szerződés akkor felel meg a 24. § (1) bekezdésében írt követelményeknek, ha az fedezetet nyújt a 2017. évi CVII. törvénnyel kihirdetett a felelősségnek a belvízi hajózásban való korlátozásáról szóló 2012. évi strasbourgi egyezmény (CLNI 2012) 2. cikkében meghatározott korlátozás hatálya alá eső követelések kockázati körében bekövetkezett károkra – beleértve a sérelemdíjat – a CLNI 2012-ben meghatározott biztosítási összegek legalább 10%-os mértékéig.
 
-(5) Ha megállapítást nyer, hogy az (1) bekezdésben megjelölt úszólétesítményre nincs érvényes hajó-felelősségbiztosítási biztosítási szerződés, az üzemben tartó lakhelye (székhelye) szerinti illetékes hajózási hatóság tizenöt napon belül felhívja az üzemben tartót a biztosítási szerződés megkötésének igazolására. Amennyiben az üzemben tartó a felhívás kézhezvételétől számított nyolc napon belül a biztosítási szerződés fennállását nem igazolja, a hajózási hatóság a hajózási engedélyt visszavonja.
+(2) A biztosító a 2017. évi CVII. törvénnyel kihirdetett a felelősségnek a belvízi hajózásban való korlátozásáról szóló 2012. évi strasbourgi egyezményben (CLNI 2012) foglalt korlátozások esetein kívül is mentesülhet szolgáltatási kötelezettsége alól.
 
-25. § (1) A biztosító az üzemben tartónak a felelősségbiztosítás általános feltételei szerinti biztosítási szerződés kötésére vonatkozó ajánlatát köteles elfogadni.
-
-(2) Az a biztosító, amely az ajánlattevővel korábban már kötött biztosítási szerződést, és ezt a biztosítottnak súlyosan felróható okból felmondta, vagy a korábbi szerződés a díj nem fizetése miatt szűnt meg, a biztosítási időszak leteltét követő egy évig megtagadhatja újabb szerződés megkötését.
-
-(3) A biztosító – amennyiben nemzetközi szerződés eltérően nem rendelkezik – a szerződés alapján összegszerű korlátozás nélkül köteles helytállni a károsulttal szemben.
-
-(4) A károsult a biztosítási szerződés keretei között jogosult igényét közvetlenül a biztosítóval szemben érvényesíteni.
+(3) Ha megállapítást nyer, hogy az (1) bekezdésben megjelölt vízi járműre nincs érvényes hajó-felelősségbiztosítási biztosítási szerződés, az üzembentartó lakhelye (székhelye) szerinti illetékes hajózási hatóság tizenöt napon belül felhívja az üzembentartót a biztosítási szerződés megkötésének igazolására. Amennyiben az üzembentartó a felhívás kézhezvételétől számított nyolc napon belül a biztosítási szerződés fennállását nem igazolja, a hajózási hatóság a hajózási engedélyt visszavonja.
 
 25/A. § (1) A magyar lajstromba bejegyzett, valamint a Magyarország területi vizeire érkező külföldi lobogójú, gazdasági célú tengeri hajózási tevékenységet folytató, 300 vagy ennél nagyobb bruttó tonnatartalmú hajó a víziközlekedésben csak abban az esetben vehet részt, ha az üzemben tartó a szerződésen kívüli kárra az adott hajóra vonatkozóan érvényes biztosítási igazolással rendelkezik.
 
@@ -1224,6 +1220,7 @@ kezeli.
 - 20. kikötő: az úszólétesítmények kikötésére kijelölt vagy azok részére fenntartott partterület, amely alkalmas a víziközlekedéssel, személyek be- és kiszállításával, árukezeléssel, áruátrakással és elosztással, valamint az úszólétesítmények hajózásra alkalmasságának megőrzésével kapcsolatos tevékenység végzésére, és a hajózási hatóság üzemeltetési engedélyével rendelkezik;
 - 20a. kikötői tevékenység: olyan víziközlekedéssel kapcsolatos tevékenység, amely során személyek ki- és beszállása, áru ki-, be- és átrakása, tárolása és kezelése történik;
 - 21. kishajó: az a belvízi hajó, amelynek a hajótesten mért hossza a 20 métert nem éri el, valamint az a tengeri hajó, amelynek a hajótesten mért hossza a 24 métert nem éri el;
+- 21a. kisgéphajó: minden saját gépi berendezésével hajtott kishajó, kivéve azokat a kishajókat, amelyeknél a motort csak korlátozott mértékű helyváltoztatásra (kikötőben vagy be- és kirakodó helyen), illetve azok vontatásakor vagy tolásakor a műveletképesség növelésére használják;
 - 22. kitűzés: a hajóút megjelölésére szolgáló tevékenység és eszközrendszer;
 - 23. kombinált forgalom: több közlekedési alágazat (pl. vízi- és közúti közlekedés) igénybevételével végzett személyszállítás vagy árufuvarozás;
 - 24. komp: vízen történő közútpótló átkelésre szolgáló, személyeket és közúti járműveket szállító, a hajózási hatóság által kompnak (önjáró, nem önjáró, köteles komp, továbbá a révhajó és a révcsónak) minősített vízijármű;
@@ -1232,6 +1229,7 @@ kezeli.
 - 27. nagyhajó: az a belvízi hajó, amelynek a hajótesten mért hossza 20 méter vagy annál nagyobb, valamint az a tengeri hajó, amelynek hajótesten mért hossza 24 méter vagy annál nagyobb;
 - 28. nemzeti víziút: az ország határain belül lévő és nemzetközi víziúttá nem nyilvánított víziút;
 - 29. nemzetközi víziút: nemzetközi szerződés alapján nemzetközivé nyilvánított víziút;
+- 29a. nyaralóhajó: az a 12 főnél nem nagyobb befogadóképességű kedvtelési célú kisgéphajó, amelynek hajótesten mért hossza a 15 métert nem haladja meg, és legnagyobb holtvízi sebessége nem több 15 km/h-nál; és amelyre a hajózási hatóság nyaralóhajó bérbeadása hajózási tevékenységre engedélyt adott ki;
 - 30. önjáró úszómunkagép: helyváltoztatásra önállóan alkalmas úszómunkagép;
 - 31. őrszolgálat: tengeri hajón a parancsnoki hídon, a fedélzeten, illetve a géptérben, menetben vagy kikötőben teljesített szolgálat;
 - 32. révhajó, révcsónak: csak személyeket szállító komp;

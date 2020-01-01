@@ -620,7 +620,7 @@ szabható ki.
 
 (8) Nemzetközi sportszövetségként nyilvántartásba nem vett, Magyarországon székhellyel rendelkező szervezet elnevezésében, megjelenésében, létesítő okiratában nem keltheti azt a látszatot, hogy nemzetközi sportszövetségként működik.
 
-30/B. § (1) A nemzetközi sportszövetséget a Fővárosi Törvényszék veszi nyilvántartásba. A nemzetközi sportszövetség nyilvántartásba vételére irányuló bírósági eljárásra a civil szervezetek nyilvántartásba vételére vonatkozó általános szabályokat az e törvényben meghatározott eltérésekkel kell alkalmazni.
+30/B. § (1) A nemzetközi sportszövetség kérelmeit az erre a célra rendszeresített űrlapon terjeszti elő. A nemzetközi sportszövetséget a Fővárosi Törvényszék veszi nyilvántartásba. A nemzetközi sportszövetség nyilvántartásba vételére irányuló bírósági eljárásra a civil szervezetek nyilvántartásba vételére vonatkozó általános szabályokat az e törvényben meghatározott eltérésekkel kell alkalmazni, azzal, hogy a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 63. §-a szerinti adatokat és okiratokat nem kell bejelenteni, illetve csatolni, és a nemzetközi sportszövetség létesítő okiratát kizárólag a képviselőknek kell aláírnia, a tagok aláírása nem szükséges.
 
 (2) A nemzetközi sportszövetség nyilvántartásba vételére a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, valamint a sportpolitikáért felelős miniszter együttes támogató nyilatkozata (a továbbiakban: miniszteri támogató nyilatkozat) alapján kerülhet sor. A miniszteri támogató nyilatkozatot mellékelni kell a nemzetközi sportszövetség nyilvántartásba vétele iránti kérelemhez. A bíróság a nyilvántartásba vételi eljárásban a miniszteri támogató nyilatkozat meglétét vizsgálja a (3) bekezdésben foglaltakra figyelemmel.
 
@@ -1288,7 +1288,7 @@ kezeli.
 49. § A sport társadalmilag hasznos céljainak megvalósítása érdekében az állam:
 
 - a) meghatározza a szervezett formában történő sporttevékenység gyakorlásának jogszabályi feltételeit,
-- b) gondoskodik – a nemzeti köznevelésről szóló törvényben meghatározottak szerint – a mindennapos testnevelés feltételeinek megteremtéséről a köznevelésben, továbbá közreműködik ezek biztosításában a felsőoktatási intézményekben és a felsőoktatási kollégiumokban,
+- b) gondoskodik a mindennapos testnevelés feltételeinek megteremtéséről a köznevelésben és a szakképzésben, továbbá közreműködik ezek biztosításában a felsőoktatási intézményekben és a felsőoktatási kollégiumokban,
 - c) elősegíti az egészséges életmód és a szabadidősport gyakorlása feltételeinek megteremtését,
 - d) az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, valamint az állami sportcélú támogatásokról szóló kormányrendeletben meghatározottak szerint – elsősorban a sportfejlesztési programokon alapuló támogatás előtérbe helyezésével, pályázati úton történő források rendelkezésre bocsátásával – részt vesz a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, az egyetemi-főiskolai sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok finanszírozásában,
 - e) az esélyegyenlőség jegyében támogatja a gyermek- és ifjúsági sportot, a nők és a családok sportját, a hátrányos helyzetű társadalmi csoportok, valamint a fogyatékosok sportját,
@@ -1437,7 +1437,7 @@ támogatására és e programokban elősegíti az esélyegyenlőséget, tovább�
 
 - a) jogszabályban normatív módon meghatározott feltételek szerint és mértékben jogosultság biztosítására, vagy – a versenysport támogatása esetén – pontértéktáblázat alapján – előzetesen kiszámított működési támogatásként szerződés alapján,
 - b) a sportszervezetek, sportszövetségek, helyi önkormányzatok és a sportköztestületek által összeállított, a szakmai feladatok ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját tartalmazó támogatási kérelem benyújtását és annak elbírálását követően, szerződés alapján, vagy
-- c) a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a egyetemi-főiskolai sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok támogatására kiírásra kerülő pályázat útján, szerződés alapján vehető igénybe. Az a)–c) pont szerint biztosított állami sportcélú támogatásokhoz való hozzáférés, a támogatások felhasználásának, elszámolásának és ellenőrzésének részletes szabályaira az e törvényben foglaltakon túl az államháztartás működési rendjéről szóló jogszabályokat és a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának szabályairól szóló kormányrendeletben foglaltakat kell alkalmazni.
+- c) a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a szakképző intézményben folytatott sport, a egyetemi-főiskolai sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok támogatására kiírásra kerülő pályázat útján, szerződés alapján vehető igénybe. Az a)–c) pont szerint biztosított állami sportcélú támogatásokhoz való hozzáférés, a támogatások felhasználásának, elszámolásának és ellenőrzésének részletes szabályaira az e törvényben foglaltakon túl az államháztartás működési rendjéről szóló jogszabályokat és a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának szabályairól szóló kormányrendeletben foglaltakat kell alkalmazni.
 
 (2) A sorsolásos szerencsejátékok játékadójának tizenkét százalékát, a bukmékeri rendszerű fogadások játékadójának ötven százalékát, a távszerencsejáték játékadóját, valamint a sportfogadás (TOTÓ) játékadóját a központi költségvetésről szóló törvényben meghatározottak szerint, a sport – a bukmékeri rendszerű fogadások, a sportfogadás (TOTÓ) és a távszerencsejáték játékadója tekintetében a Magyar Labdarúgó Szövetség útján a labdarúgás – támogatására kell felhasználni.
 
@@ -2205,11 +2205,18 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
 
 (3)
 
-(4) Felhatalmazást kap az oktatásért felelős miniszter, hogy a sportpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg az iskolai sportkörök tevékenységének szervezésével, a sportiskolák létrehozásával és működésével kapcsolatos részletes szabályokat, és a tornateremmel nem rendelkező iskolák fenntartója által kötelezően biztosítandó sportolási lehetőségeket.
+(4) Felhatalmazást kap
+
+- a) az oktatásért felelős miniszter, hogy az iskolai sportkörök, a sportiskolák létrehozásával és működésével és a tornateremmel nem rendelkező iskolák által kötelezően biztosítandó sportolási lehetőségekkel,
+- b) a szakképzésért felelős miniszter, hogy a szakképző intézményi sportkörök szervezésével és a tornateremmel nem rendelkező szakképző intézmények által kötelezően biztosítandó sportolási lehetőségekkel
+
+kapcsolatos részletes szabályokat a sportpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a kiemelt biztonsági kockázatú sportrendezvények közfeladatként történő rendőri biztosításához nyújtható támogatások felhasználásának részletes szabályait.
 
 (6) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a 22. § (5) bekezdésében és az 51. § (3) bekezdésében meghatározott igazgatási szolgáltatási díj mértékét.
+
+(7) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a nemzetközi sportszövetséget nyilvántartó bíróság előtti eljárásokban alkalmazott űrlapjainak adattartalmát rendeletben határozza meg.
 
 80. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK irányelvnek való megfelelést szolgálja.
 

@@ -65,11 +65,11 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
   - ca) szándékos bűncselekmény miatt kiszabott ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
   - cb) szándékos bűncselekmény miatt kiszabott öt évet el nem érő végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tíz évig,
   - cc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
-  - cd) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
+  - cd) szándékos bűncselekmény miatt kiszabott elzárás, közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
   - ce) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
   - cf) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
   - cg) gondatlan bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés büntetés esetén a mentesítés beálltától számított öt évig,
-  - ch) gondatlan bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított három évig,
+  - ch) gondatlan bűncselekmény miatt kiszabott elzárás, közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított három évig,
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 - f) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
@@ -431,7 +431,7 @@ elnökének véleményét.
 
 39. § (1) A bírák nem lehetnek tagjai pártnak, és politikai tevékenységet nem folytathatnak.
 
-(2) A bíró nem lehet országgyűlési, európai parlamenti vagy önkormányzati képviselő, nemzetiségi szószóló, polgármester, vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezető.
+(2) A bíró nem lehet országgyűlési, európai parlamenti vagy önkormányzati képviselő, nemzetiségi szószóló, polgármester, vagy a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti politikai felsővezető, közigazgatási államtitkár és helyettes államtitkár.
 
 40. § (1) A bíró a tisztsége ellátásán kívül csak tudományos, oktatói, edzői, versenybírói, játékvezetői, művészi, szerzői jogi védelemben részesülő, lektori és szerkesztői, valamint műszaki alkotó munkát végezhet kereső tevékenységként és nevelőszülői foglalkoztatási jogviszonyban állhat, de ezzel nem veszélyeztetheti függetlenségét, pártatlanságát és nem keltheti ennek látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését.
 
@@ -447,7 +447,7 @@ elnökének véleményét.
 
 (7) A bíróval kapcsolatban az alkotmánybírói tisztsége miatt összeférhetetlenség nem áll fenn.
 
-41. § A bíróság elnökének, elnökhelyettesének, valamint kollégiumvezetőjének és helyettesének, csoportvezetőjének és helyettesének a hozzátartozója ugyanazon bíróságon, kollégiumban vagy csoportban bíróként nem működhet.
+41. § A bírósági vezetők hozzátartozója a bírósági vezető által vezetett bíróságon vagy bírósági szervezeti egységben bíróként nem működhet. E § alkalmazásában bírósági vezetőnek minősül a Kúria elnöke is.
 
 42. § (1) A bíró köteles haladéktalanul bejelenteni, ha vele szemben összeférhetetlenségi ok merül fel.
 
@@ -459,11 +459,37 @@ elnökének véleményét.
 
 (5) Ha a bíró a (4) bekezdésben írt kötelezettségének az előírt ideig nem tesz eleget, a munkáltatói jogkör gyakorlója a határidő lejártától számított 5 napon belül határozatban állapítja meg az összeférhetetlenség fennállását és kezdeményezi a bíró felmentését.
 
-(6) A bíró a határozattal szemben 15 napon belül a szolgálati bírósághoz fordulhat. A szolgálati bíróság a fegyelmi eljárás szabályainak megfelelő alkalmazásával eljárva soron kívül dönt az összeférhetetlenségről. Az összeférhetetlenség megállapítása esetén a szolgálati bíróság határozatot hoz a felmentési ok fennállásáról. Az összeférhetetlenségről hozott határozat ellen a fegyelmi határozatra vonatkozó szabályok szerint van helye fellebbezésnek és másodfokú eljárásnak.
+(6) A bíró a határozattal szemben 15 napon belül az elsőfokú szolgálati bírósághoz fordulhat. Az elsőfokú szolgálati bíróság a fegyelmi eljárás szabályainak megfelelő alkalmazásával eljárva soron kívül dönt az összeférhetetlenségről. Az összeférhetetlenség megállapítása esetén az elsőfokú szolgálati bíróság határozatot hoz a felmentési ok fennállásáról. Ha az összeférhetetlenség nem áll fenn, erről rendelkezik az elsőfokú szolgálati bíróság a határozatában. Az összeférhetetlenségről hozott határozat ellen a fegyelmi határozatra vonatkozó szabályok szerint van helye fellebbezésnek és másodfokú eljárásnak.
 
 (7) A 40. § (6) bekezdése szerinti okból hozott munkáltatói határozattal szemben indított eljárásban a szolgálati bíróság első- és másodfokon is 15 napon belül jár el.
 
 (8) Ha a bíró az eljárás ideje alatt a vele szemben fennálló összeférhetetlenségi okot megszünteti, az összeférhetetlenség megállapítását – különös méltánylást érdemlő okból – mellőzni lehet.
+
+#### 21/A. A bírák nemzetbiztonsági ellenőrzésének szabályai
+
+42/A. § A bírák nemzetbiztonsági ellenőrzésére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) nemzetbiztonsági ellenőrzésre vonatkozó szabályait az ezen alcímben foglalt eltérésekkel kell alkalmazni.
+
+42/B. § (1) A bíró nemzetbiztonsági ellenőrzését a munkáltatói jogkör gyakorlója kezdeményezi.
+
+(2) Az Nbtv. alkalmazásában a bíró nemzetbiztonsági ellenőrzése tekintetében a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony alatt a nemzetbiztonsági ellenőrzéshez kötött tisztséget, munkakört vagy bírósági eljáráshoz kapcsolódó eljárási jogosultságot kell érteni.
+
+(3) A bíró nemzetbiztonsági ellenőrzése tekintetében az Nbtv. 71. § (2)–(6) bekezdésében foglaltak nem alkalmazhatóak.
+
+42/C. § Nemzetbiztonsági ellenőrzés alá eső bíró
+
+- a) az a bíró, akinek perbeli eljárási jogosultságát törvény nemzetbiztonsági ellenőrzés lefolytatásához köti,
+- b) az a bíró, aki
+  - ba) a Kúria elnökhelyettese,
+  - bb) ítélőtábla elnöke, elnökhelyettese,
+  - bc) törvényszék elnöke, elnökhelyettese,
+  - bd) az OBH elnökhelyettese,
+  - be) az OBH-ban az OBH elnöke által szabályzatban meghatározott szervezeti egység főosztályvezetője,
+  - bf) a minisztériumban vagy az érintett szervnél nemzetbiztonsági ellenőrzéshez kötött tisztséget tölt be, vagy ilyen munkakört lát el,
+- c) a bíró, akinek a feladata az OBH-ban vagy a bíróságon
+  - ca) honvédelmi, polgári védelmi feladatok ellátása,
+  - cb) a minősített adat védelméről szóló törvény végrehajtásának, a fizikai és elektronikus információs rendszer működtetésének és biztonságának felügyelete (biztonsági vezető),
+  - cc) az elektronikus információs rendszer személyi, fizikai, adminisztratív, valamint rendszerbiztonsági feltételei érvényesülésének felügyelete (rendszerbiztonsági felügyelő),
+  - cd) a rendszerbiztonsági felügyelő irányítása mellett az elektronikus információs rendszer üzemeltetésének és karbantartásának felügyelete (rendszeradminisztrátor).
 
 #### 22. Nyilatkozattétel
 
@@ -518,7 +544,7 @@ hatályos.
 
 (5) A kérelmet az (1) bekezdés szerinti fizetés nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatóval közölni. A kérelemben a bíró köteles tájékoztatni a munkáltatót
 
-- a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve betöltésének időpontjáról, továbbá
+- a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke negyedik életéve, három vagy több gyermeket nevelő bíró esetén a gyermeke hatodik életéve betöltésének időpontjáról, illetve
 - b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztásra vonatkozó javaslatáról.
 
 (6) A (3) bekezdés szerinti időponttól a bírói szolgálati viszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a munkaidő mértékével összefügg.
@@ -526,7 +552,9 @@ hatályos.
 (7) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató a bírót
 
 - a) a kérelem szerinti időpontig, de
-- b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő bíró esetén a gyermek ötéves koráig köteles foglalkoztatni. Ezt követően a bíró munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
+- b) legfeljebb a gyermek négyéves koráig, három vagy több gyermeket nevelő bíró esetén a gyermek hatéves koráig
+
+köteles foglalkoztatni. Ezt követően a bíró munkaidejét a kérelem benyújtása előtti mérték szerint, illetményét az időarányosság elvének megfelelő alkalmazásával kell megállapítani.
 
 50. § A 49. § nem alkalmazható a bírósági vezetőre.
 
@@ -803,7 +831,7 @@ szünetel.
 - c) ha a bíróval szemben jogerősen szabadságvesztést, közérdekű munkát vagy elzárást szabtak ki, kényszergyógykezelését rendelték el,
 - d) ha a bíró a bírói esküt a 22. §-ban meghatározott határidőn belül nem tette le,
 - e) ha a bíró kinevezésének a 4. § (1) bekezdés a) és b) pontjában foglalt feltételei már nem állnak fenn,
-- f) ha a bírót országgyűlési, európai parlamenti, helyi önkormányzati képviselőnek, nemzetiségi szószólónak vagy polgármesternek megválasztották, vagy a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetőnek megválasztották vagy kinevezték,
+- f) ha a bírót országgyűlési, európai parlamenti, helyi önkormányzati képviselőnek, nemzetiségi szószólónak vagy polgármesternek megválasztották, vagy a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti politikai felsővezetőnek, közigazgatási államtitkárnak és helyettes államtitkárnak megválasztották vagy kinevezték,
 - g) ha a bíró – az OBH elnökének egyetértésével – nemzetközi szervezetnél vagy az Európai Unió valamely szervénél pályázat alapján ítélkezésre vagy az igazságszolgáltatással összefüggő egyéb munkavégzésre irányuló jogviszonyt létesít,
 - h) ha a bíró
   - ha) betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt,
@@ -901,7 +929,7 @@ szünetel.
 - d) a törvény szerint beosztása következtében nem ítélkezhet, illetve akinek a szolgálati viszonya szünetel, vagy
 - e) hozzátartozói kapcsolatban áll az OBH elnökével vagy annak helyettesével, továbbá az ítélőtábla vagy a törvényszék elnökével, illetve elnökhelyettesével.
 
-(3) A szolgálati bíróság bíráinak megbízatása a kinevezéstől számított 6 évre szól.
+(3) A szolgálati bíróság bíráinak megbízatása a kinevezéstől számított 9 évre szól.
 
 (4) Akadályoztatása esetén a szolgálati bíróság elnökét az elnökhelyettes teljes jogkörrel helyettesíti.
 
@@ -1273,7 +1301,7 @@ lehet adatot továbbítani.
 
 #### 57. A Kúria elnökének illetménye és juttatásai
 
-150. § (1) A Kúria elnökének havi illetménye a köztisztviselői illetményalap 39-szerese.
+150. § (1) A Kúria elnökének havi illetménye a bírói illetményalap 7-szerese.
 
 (2) A Kúria elnökének társadalombiztosítási jogállására a bírói szolgálati viszonyban állókra vonatkozó szabályok az irányadók.
 
@@ -1308,21 +1336,13 @@ lehet adatot továbbítani.
 
 #### 58. A Kúria elnökhelyettesének illetménye és juttatásai
 
-157. § (1) A Kúria elnökhelyettesét – szolgálati idejétől függetlenül – a legmagasabb fizetési fokozatba kell besorolni.
-
-(2) A Kúria elnökhelyettese e törvénynek a kúriai bíró beosztási pótlékára irányadó szabálya szerinti beosztási pótlékra jogosult.
-
-(3) A Kúria elnökhelyettese vezetői pótlékra a 3. mellékletben foglaltak szerint jogosult.
+157. § A Kúria elnökhelyettesének havi illetménye a Kúria elnöke havi illetményének a 90 százaléka.
 
 158. § A Kúria elnökhelyettesének juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek a miniszter részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
 
 #### 59. Az OBH elnökének illetménye és juttatásai
 
-159. § (1) Az OBH elnökét – szolgálati idejétől függetlenül – a legmagasabb fizetési fokozatba kell besorolni.
-
-(2) Az OBH elnöke beosztási pótlékra jogosult. A beosztási pótlék összege a bírói illetményalap összegének 60 százaléka.
-
-(3) Az OBH elnöke vezetői pótlékra jogosult. A vezetői pótlék összege a bírói illetményalap összegének 130 százaléka.
+159. § Az OBH elnökének havi illetménye a bírói illetményalap 7-szerese.
 
 160. § Az OBH elnökének juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek a miniszter részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
 
@@ -1330,11 +1350,7 @@ lehet adatot továbbítani.
 
 #### 60. Az OBH elnökhelyettesének illetménye és juttatásai
 
-162. § (1) Az OBH elnökhelyettesét – szolgálati idejétől függetlenül – a legmagasabb fizetési fokozatba kell besorolni.
-
-(2) Az OBH elnökhelyettese beosztási pótlékra jogosult. A beosztási pótlék összege a bírói illetményalap összegének 60 százaléka.
-
-(3) Az OBH elnökhelyettese vezetői pótlékra jogosult. A vezetői pótlék összege a bírói illetményalap összegének 60 százaléka.
+162. § Az OBH elnökhelyettesének havi illetménye az OBH elnöke havi illetményének a 90 százaléka.
 
 163. § Az OBH elnökhelyettesének juttatásaira – függetlenül attól, hogy a beosztást bíró vagy nem bíró tölti be – az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
 
@@ -1390,7 +1406,7 @@ jogosult.
 
 172. § (1) A szolgálati időt – a (2) bekezdésben foglalt eltéréssel – a bírói kinevezés napjától kell számítani.
 
-(2) Szolgálati időként kell figyelembe venni a kinevezés előtt bírói és ügyészi szolgálati viszonyban töltött időt. A bírói kinevezés előtt a jogi szakvizsgához kötött egyéb jogviszonyban vagy tevékenységgel eltöltött idő a szolgálati időbe részben vagy egészben beszámítható.
+(2) Szolgálati időként kell figyelembe venni a kinevezés előtt bírói szolgálati viszonyban és ügyészként ügyészségi szolgálati viszonyban töltött időt, valamint a jogszabály által jogi szakvizsgához kötött, továbbá a jogszabály felhatalmazása alapján a munkáltatói jogkör gyakorlójának szabályzata által jogi szakvizsgához kötött egyéb jogviszonyban vagy tevékenységgel eltöltött időt.
 
 (3) A szolgálati idő számításánál a töredék évet egész évként kell figyelembe venni.
 
@@ -1400,11 +1416,13 @@ jogosult.
 
 (2) A beosztási pótlék összege a bírói illetményalap összegének
 
-- a) a járásbírósági bírónál 10,
-- b) a közigazgatási és munkaügyi bírósági bírónál 15,
-- c) a törvényszéki bírónál 20,
-- d) az ítélőtábla bírájánál 40,
-- e) a Kúria bírájánál 60 százaléka.
+- a) a járásbírósági bírónál 20,
+- b) a közigazgatási és munkaügyi bírósági bírónál 20,
+- c) a törvényszéki bírónál 40,
+- d) az ítélőtábla bírájánál 70,
+- e) a Kúria bírájánál 120
+
+százaléka.
 
 174. § (1) Kiváló, magasabb bírói beosztásra alkalmas, illetve kiválóan alkalmas minősítés és az adott bírósági szinten tényleges bírói gyakorlattal eltöltött legalább 6 év után – beszámítva a magasabb szintű bíróságon bírói szolgálati viszonyban töltött időt is – az OBT
 
@@ -1420,7 +1438,7 @@ jogosult.
 - c) az ítélőtábla bírája részére „címzetes kúriai bíró”,
 - d) a kúria bírája részére „kúriai tanácsos” címet adományoz.
 
-(3) Az (1) és (2) bekezdés szerinti cím adományozásával a címzetes törvényszéki bíró a bírói illetményalap összegének a 20 százalékát, a címzetes táblabíró a 30 százalékát, a címzetes kúriai bíró az 50 százalékát, a kúriai tanácsos a 70 százalékát kitevő összegre jogosult. Egyidejűleg a tényleges beosztással járó beosztási pótlékra való jogosultság megszűnik.
+(3) Az (1) és (2) bekezdés szerinti cím adományozásával címpótlékként a címzetes törvényszéki bíró a bírói illetményalap összegének a 30 százalékát, a címzetes táblabíró az 50 százalékát, a címzetes kúriai bíró a 80 százalékát, a kúriai tanácsos a 130 százalékát kitevő összegre jogosult. Egyidejűleg a tényleges beosztással járó beosztási pótlékra való jogosultság megszűnik.
 
 175. § Ha a bírót – a fegyelmi okot kivéve – szolgálati érdekből alacsonyabb szintű bíróságra helyezik át, vagy alacsonyabb szintű bíróságra rendelik ki, korábbi beosztási pótlékára, illetve címére és a címmel járó pótlékra továbbra is jogosult. Szolgálati érdeknek minősül az is, ha a bírót alacsonyabb szintű bíróságon vezetőnek nevezik ki, vagy újabb beosztására pályázat nélkül került sor.
 
@@ -1432,17 +1450,20 @@ jogosult.
 
 (3) A vezetői pótlék csak egy jogcímen, a magasabb vezetői beosztás után jár.
 
-177. § (1) A vezetői pótlék összegének a megállapítása szempontjából a kiemelt járásbíróság elnöke és elnökhelyettese a törvényszék elnökével és elnökhelyettesével, csoportvezetője a nagyobb járásbíróság elnökével, csoportvezető-helyettese a kisebb járásbíróság elnökével azonos beosztásúnak minősül.
+177. § (1) A vezetői pótlék összegének a megállapítása szempontjából a kiemelt járásbíróság elnöke a törvényszék elnökével, elnökhelyettese a nagyobb járásbíróság elnökével, csoportvezetője a törvényszék kollégiumvezetőjével, csoportvezető-helyettese a kisebb járásbíróság elnökével azonos beosztásúnak minősül.
 
 (2) A vezetői pótlékra való jogosultság szempontjából kiemelt járásbíróságnak minősül az a járásbíróság, ahol a bírák éves átlagos statisztikai állományi létszáma az 50 főt meghaladja, nagyobb járásbíróságnak minősül a törvényszék székhelyén működő járásbíróság, továbbá az a bíróság, ahol a bírák éves átlagos statisztikai állományi létszáma a 8 főt meghaladja.
 
-178. § (1) A vezetői pótlék összegének a megállapítása szempontjából annak a közigazgatási és munkaügyi bíróságnak az elnöke és elnökhelyettese, ahol
+178. § (1) A vezetői pótlék összegének a megállapítása szempontjából annak a közigazgatási és munkaügyi bíróságnak
 
-- a) a bírák éves átlagos statisztikai állományi létszáma az 50 főt meghaladja a törvényszék elnökével és elnökhelyettesével,
-- b) a bírák éves átlagos statisztikai állományi létszáma a 8 főt meghaladja a nagyobb járásbíróság elnökével és elnökhelyettesével,
-- c) ahol a bírák éves átlagos statisztikai állományi létszáma a 8 főt nem haladja meg, a kisebb járásbíróság elnökével és elnökhelyettesével azonos beosztásúnak minősül.
+- a) az elnöke, ahol a bírák éves átlagos statisztikai állományi létszáma az 50 főt meghaladja a törvényszék elnökével,
+- b) az elnökhelyettese, ahol a bírák éves átlagos statisztikai állományi létszáma az 50 főt meghaladja, a nagyobb járásbíróság elnökével,
+- c) az elnöke és elnökhelyettese, ahol a bírák éves átlagos statisztikai állományi létszáma a 8 főt meghaladja a nagyobb járásbíróság elnökével és elnökhelyettesével,
+- d) az elnöke és elnökhelyettese, ahol a bírák éves átlagos statisztikai állományi létszáma a 8 főt nem haladja meg, a kisebb járásbíróság elnökével és elnökhelyettesével
 
-(2) Ha a közigazgatási és munkaügyi bíróságon a bírák éves átlagos statisztikai állományi létszáma az 50 főt meghaladja, akkor a közigazgatási és munkaügyi bíróság csoportvezetője a nagyobb járásbíróság elnökével, csoportvezető-helyettese a kisebb járásbíróság elnökével azonos beosztásúnak minősül. Ha a közigazgatási és munkaügyi bíróságon a bírák éves átlagos statisztikai állományi létszáma a 8 főt meghaladja, akkor csoportok felállítása esetén a csoportvezető és a csoportvezető-helyettes a nagyobb járásbíróság csoportvezetőjével, illetve a nagyobb járásbíróság csoportvezető-helyettesével azonos beosztásúnak minősül.
+azonos beosztásúnak minősül.
+
+(2) Ha a közigazgatási és munkaügyi bíróságon a bírák éves átlagos statisztikai állományi létszáma az 50 főt meghaladja, akkor a közigazgatási és munkaügyi bíróság csoportvezetője a törvényszék kollégiumvezetőjével, csoportvezető-helyettese a kisebb járásbíróság elnökével azonos beosztásúnak minősül. Ha a közigazgatási és munkaügyi bíróságon a bírák éves átlagos statisztikai állományi létszáma a 8 főt meghaladja, akkor csoportok felállítása esetén a csoportvezető és a csoportvezető-helyettes a nagyobb járásbíróság csoportvezetőjével, illetve a nagyobb járásbíróság csoportvezető-helyettesével azonos beosztásúnak minősül.
 
 (3) A vezetői pótlék összegének a megállapítása szempontjából a közigazgatási és munkaügyi regionális kollégiumvezető a törvényszék kollégiumvezetőjével, a közigazgatási és munkaügyi regionális kollégiumvezető helyettese a törvényszék kollégiumvezető-helyettesével azonos beosztásúnak minősül.
 
@@ -1483,7 +1504,7 @@ jogosult.
 
 #### 69. Egyéb javadalmazások, kedvezmények és költségtérítések
 
-183. § (1) A bíró cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. Az OBH elnöke további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
+183. § (1) A bíró cafetéria-juttatásként a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. Az OBH elnöke szabályzatban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
 (2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő bíró, valamint a bíró azon időtartam vonatkozásában, amelyre illetményre vagy átlagilletményre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
@@ -1499,7 +1520,7 @@ jogosult.
 
 (2) A jubileumi jutalom 25 év szolgálati idő után a bíró 2 havi, 30 év után a 3 havi, 35 év után négyhavi, 40 év után az 5 havi illetménye.
 
-(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti szolgálati jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a nemzetiségi szószólóként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a közszolgálati jogviszonyban, a közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban stb.) eltöltött időt is figyelembe kell venni.
+(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti szolgálati jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a nemzetiségi szószólóként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, politikai felsővezetőként, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a közszolgálati jogviszonyban, a közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban stb.) eltöltött időt is figyelembe kell venni.
 
 (4) A (3) bekezdésben foglaltakon kívül jubileumi jutalomra jogosító időnek számít az ügyvédi tevékenység, valamint a közjegyzői és a bírósági végrehajtói szolgálat időtartama is, kivéve az ügyvédi tevékenység, illetve a közjegyzői, valamint a bírósági végrehajtói szolgálat szünetelésének idejét.
 
@@ -1571,7 +1592,7 @@ végzi.
 
 (2) A nyugállományú bíró pénzbeli és természetbeni támogatásban részesíthető.
 
-(3) Az (1) és (2) bekezdésben meghatározott juttatások részletes feltételeit és mértékét az OBH elnöke – az érdek-képviseleti szervekkel együttműködve – állapítja meg.
+(3) Az (1) és (2) bekezdésben meghatározott juttatások részletes feltételeit és mértékét az OBH elnöke – az érdek-képviseleti szervekkel együttműködve – szabályzatban állapítja meg.
 
 189/A. § (1) Ha a bírónak átlagilletményt kell fizetni, részére az átlagszámítás alapjául szolgáló időszakra (a továbbiakban: irányadó időszak) kifizetett illetmény és jutalom (a továbbiakban e §-ban együtt: javadalmazás) időarányosan számított átlaga jár.
 
@@ -1640,12 +1661,15 @@ végzi.
 
 (2) A bíró a beosztási pótlékára a korábbi beosztásának megfelelően jogosult. Ha a bíró korábban helyi bíróságon, illetve járásbíróságon működött, részére a törvényszéki bírákra vonatkozó mértékű beosztási pótlékot kell megállapítani, és a Kúrián, az OBH-ban és a minisztériumban beosztott bíróként eltöltött szolgálati idő tartamát törvényszéken eltöltött időnek kell tekinteni.
 
-(3) Az OBH-ban és a minisztériumban főosztályvezetői, főosztályvezető-helyettesi, illetve osztályvezetői munkakört ellátó bírák vezetői pótlékra az a) és b) pontokban foglaltak szerint jogosultak. A vezetői pótlék
+(3) Az OBH-ban, és a minisztériumban főosztályvezetői, főosztályvezető-helyettesi, illetve osztályvezetői munkakört betöltő vagy álláshelyen foglalkoztatott bírák vezetői pótléka
 
-- a) a főosztályvezetők és a főosztályvezető-helyettesek esetén a törvényszék elnökére, illetve elnökhelyettesére,
-- b) az osztályvezetők esetén a nagyobb járásbíróság elnökére irányadó összeggel azonos.
+- a) a főosztályvezetők esetén az ítélőtábla kollégiumvezetőjére,
+- b) a főosztályvezető-helyettesek esetén a törvényszék elnökhelyettesére,
+- c) az osztályvezetők esetén a nagyobb járásbíróság elnökére
 
-(4) Az OBH-ba beosztott bíró a (2) bekezdés szerint járó beosztási pótlékon felül a bírói illetményalap összegének 30 százalékára jogosult, a minisztériumba és a Kúriára beosztott bíró a (2) bekezdés szerint járó beosztási pótlékon felül a bírói illetményalap összegének 10 százalékára jogosult.
+irányadó összeggel azonos.
+
+(4) Az OBH-ba, a Kúriára és a minisztériumba beosztott bíró a (2) bekezdés szerint járó beosztási pótlékon felül a bírói illetményalap összegének 30 százalékára jogosult.
 
 (5) A bíró soron kívüli előresorolására és részére magasabb bírói cím adományozására – a minisztériumba beosztott bíró esetén az igazságügyért felelős miniszternek, az OBH-ba beosztott bíró esetén az OBH elnökének, valamint a Kúriára beosztott bíró esetén a Kúria elnökének javaslatára – az OBT jogosult.
 
@@ -2024,6 +2048,28 @@ kerülhet sor.
 
 232/M. § A Kúria 2020. január 1-jén hivatalban lévő elnöke a megbízatása megszűnéséig jogosult – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre.
 
+232/N. § (1) A közigazgatási és munkaügyi regionális kollégium tagja az OBH elnökéhez intézett nyilatkozatban kérheti arra a közigazgatási ügyben eljáró törvényszékre való áthelyezését, amelynek törvény szerinti illetékességi területe magában foglalja a bíró álláshelye szerinti bíróság illetékességi területét. A közigazgatási és munkaügyi regionális kollégium azon tagja, akinek a szolgálati jogviszonya nem a közigazgatási ügyben eljáró törvényszékkel áll fenn, az OBH elnökéhez intézett nyilatkozatban kérheti választása szerint bármely közigazgatási ügyben eljáró törvényszékre való áthelyezését. A Fővárosi Törvényszék közigazgatási és munkaügyi kollégiumának tagja az OBH elnökéhez intézett nyilatkozatban kérheti választása szerint bármely közigazgatási ügyben eljáró törvényszékre való áthelyezését. A Fővárosi Törvényszék közigazgatási és munkaügyi kollégiumának legalább kétéves legfelsőbb bírósági, kúriai, vagy ítélőtáblai ítélkező bírói gyakorlattal rendelkező törvényszéki bíró tagja az OBH elnökéhez intézett nyilatkozatban kérheti választása szerint a Kúriára vagy bármely közigazgatási ügyben eljáró törvényszékre való áthelyezését. A nyilatkozatot – a szolgálati út betartásával – úgy kell megtenni, hogy az legkésőbb 2020. február 20. napjáig az OBH elnökéhez megérkezzen.
+
+(2) Az (1) bekezdés szerinti feltételeknek megfelelően nyilatkozatot tett bírót az OBH elnöke 2020. április 1-jei hatállyal a nyilatkozatban megjelölt közigazgatási ügyben eljáró törvényszékre osztja be. Ha a bíró nem rendelkezik a 30. § (1) bekezdése szerinti kijelöléssel, az OBH elnöke a beosztással egyidejűleg kijelöli a bírót közigazgatási ügyekben eljáró bírónak. A bíró a beosztása szerinti kollégium tagjává válik.
+
+(3) Ha az (1) bekezdés szerinti bíró nem tett nyilatkozatot, bírói szolgálati viszonya változatlan marad azzal, hogy a közigazgatási és munkaügyi bíróságon ítélkező bírót 2020. március 10. napjáig a törvényszék elnöke, 2020. április 1-jei hatállyal a korábbi álláshelye szerinti törvényszékre osztja be. Ha a bíró nem rendelkezik a munkaügyi ügyek intézéséhez szükséges kijelöléssel, a törvényszék elnöke a beosztással egyidejűleg a 30. § (1a) bekezdésének megfelelő javaslatot tesz az OBH elnöke felé a bíró kijelölésre. A bíró a beosztása szerinti kollégium tagjává válik.
+
+(4) Az (1)–(3) bekezdésben foglalt esetben a munkaügyi ügyekre kijelöléssel rendelkező bírák, valamint a közigazgatási ügyekre kijelöléssel rendelkező bírák kijelölését 2020. szeptember 30. napjáig vizsgálja felül az érintett törvényszék és az érintett ítélőtábla elnöke és a kijelölés fenntartására vagy megszüntetésére tesz javaslatot az OBH elnökének. A beosztásnak a (2) vagy (3) bekezdése szerinti változása esetén a kijelöléssel az (1) bekezdése szerinti nyilatkozattételi határnapon fennálló kijelöléssel rendelkező bírónak – a 30. § (8) bekezdése alapján a felülvizsgálat határnapjáig nem szűnik meg a kijelölése.
+
+(5) Az OBH elnöke 2020. január 1. napját követően megállapítja a szükséges bírói létszámot és pályázatot írhat ki az ítélőtáblai munkaügyi ügyszakos bírói álláshelyek betöltésére, amely az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépését követő első alkalommal nem lehet későbbi, mint 2020. január 31. napja. A pályázatokat a pályázati felhívásban foglalt határidőig az ítélőtábla elnökéhez kell benyújtani.
+
+(6) Az ítélőtáblák munkaügyi kollégiumainak létrehozásáig az e kollégiumba kiírt pályázatok elbírálása során kollégiumi véleményként az érintett ítélőtábla elnökéből, a polgári kollégiumvezetőjéből, valamint 2020. március 31-ig a Kúria Közigazgatási és Munkaügyi Kollégiumának az ügyelosztási rend szerint munkaügyi ügyeket tárgyaló, 2020. április 1-től a Kúria ügyelosztási rend szerint munkaügyi ügyeket tárgyaló bíráiból álló szakmai testület véleményét kell figyelembe venni.
+
+(7) Az (1) bekezdés szerint nyilatkozattételre jogosult, az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépését megelőző napon „címzetes táblabíró” címmel rendelkező, valamint táblabírói cím használatára és illetményére a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 197. § (7) bekezdése alapján jogosult bíró az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépésének napjától, beosztásától függően megtartja címét és annak megfelelő javadalmazás illeti meg, kivéve, ha részére magasabb javadalmazással járó címet adományoznak, vagy bíróként a Kúriára osztják be.
+
+232/O. § (1) A szolgálati bíráknak az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított megbízatási idejére vonatkozó szabályt a 2019. december 31. napján szolgálati bírói megbízatással rendelkező bírák esetében is alkalmazni kell, kivéve, ha a szolgálati bíró 2020. január 31. napjáig kéri, hogy a szolgálati bírói megbízatása az eredeti kinevezési idejéig tartson.
+
+(2) A 2020. március 31. napján szolgálati bírói megbízatással rendelkező bírák szolgálati bírói megbízatását nem érinti a közigazgatási és munkaügyi bíróságok megszűnése miatti új beosztása.
+
+232/P. § A bírák szolgálati idejének kezdő időpontját az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított 172. § (2) bekezdése alapján, 2020. június 30. napjáig hivatalból újból meg kell állapítani. A szolgálati idő kezdő időpontjának új megállapítása alapján járó illetményre a bíró 2020. január 1-től kezdődően, visszamenőleg jogosult.
+
+232/Q. § A 2020. április 1-jét megelőzően a közigazgatási és munkaügyi bírósághoz megválasztott ülnök 2020. április 1-jétől az ülnöki feladatait annál a törvényszéknél látja el, amelynek illetékességi területéhez a közigazgatási és munkaügyi bíróság tartozott. A közigazgatási és munkaügyi bíróság megszűnése egyebekben nem érinti az ülnök jogállását.
+
 233. § E törvény
 
 - a) az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló, 1996. június 3-i 96/34/EK tanácsi irányelvnek,
@@ -2044,7 +2090,7 @@ való megfelelést szolgálja.
 
 (4)
 
-237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/M. §-a, továbbá 236. §-a az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/Q. §-a, továbbá 236. §-a az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Bjt.
 
@@ -2097,43 +2143,45 @@ való megfelelést szolgálja.
 
 ### 2. melléklet a 2011. évi CLXII. törvényhez
 
-#### A bírák alapilletménye a különböző fizetési fokozatokban
+#### A bírák fizetési fokozatai és az alapilletmény megállapításához szükséges szorzószámok
 
 |  | A | B |
 | --- | --- | --- |
 | 1. | Fizetési fokozatok | Szorzószámok |
-| 2. | 1. | 1,00 |
-| 3. | 2. | 1,10 |
-| 4. | 3. | 1,20 |
-| 5. | 4. | 1,25 |
-| 6. | 5. | 1,30 |
-| 7. | 6. | 1,35 |
-| 8. | 7. | 1,40 |
-| 9. | 8. | 1,45 |
-| 10. | 9. | 1,50 |
-| 11. | 10. | 1,55 |
-| 12. | 11. | 1,60 |
-| 13. | 12. | 1,65 |
-| 14. | 13. | 1,70 |
-| 15. | 14. | 1,75 |
+| 2. | 1. | 1,25 |
+| 3. | 2. | 1,35 |
+| 4. | 3. | 1,45 |
+| 5. | 4. | 1,55 |
+| 6. | 5. | 1,65 |
+| 7. | 6. | 1,70 |
+| 8. | 7. | 1,75 |
+| 9. | 8. | 1,80 |
+| 10. | 9. | 1,85 |
+| 11. | 10. | 1,90 |
+| 12. | 11. | 1,95 |
+| 13. | 12. | 2,00 |
+| 14. | 13. | 2,05 |
+| 15. | 14. | 2,10 |
 
 ### 3. melléklet a 2011. évi CLXII. törvényhez
 
-#### A vezetői pótlék a bírói illetményalap százalékában
+#### A vezetői munkakörök és az ahhoz tartozó pótlék a bírói illetményalap százalékában
 
 |  | A | B |
 | --- | --- | --- |
 | 1. | A vezetői munkakörök | Százalék |
-| 2. | A Kúria elnökhelyettese | 80 |
-| 3. | Az ítélőtábla elnöke A Kúria kollégiumvezetője és főtitkára A Fővárosi Törvényszék elnöke | 60 |
-| 4. | Az ítélőtábla elnökhelyettese A Kúria kollégiumvezető-helyettese és főtitkár-helyettese A törvényszék elnöke | 50 |
-| 5. | A Kúria tanácselnöke Az ítélőtábla kollégiumvezetője A Fővárosi Törvényszék elnökhelyettese | 45 |
-| 6. | Az ítélőtábla kollégiumvezető-helyettese | 40 |
-| 7. | Az ítélőtábla tanácselnöke A Fővárosi Törvényszék kollégiumvezetője A törvényszék elnökhelyettese | 35 |
-| 8. | A Fővárosi Törvényszék kollégiumvezető-helyettese A törvényszék kollégiumvezetője A nagyobb járásbíróság elnöke | 30 |
-| 9. | A törvényszék kollégiumvezető-helyettese A törvényszék tanácselnöke A törvényszék csoportvezetője A nagyobb járásbíróság elnökhelyettese A kisebb járásbíróság elnöke | 25 |
-| 10. | A törvényszék csoportvezető-helyettese A nagyobb járásbíróság csoportvezetője | 20 |
-| 11. | A nagyobb járásbíróság csoportvezető-helyettese A kisebb járásbíróság elnökhelyettese | 15 |
+| 2. | A Kúria kollégiumvezetője és főtitkára | 200 |
+| 3. | A Kúria kollégiumvezető-helyettese és főtitkár-helyettese Az ítélőtábla elnöke A Fővárosi Törvényszék elnöke | 150 |
+| 4. | A Kúria tanácselnöke Az ítélőtábla elnökhelyettese A törvényszék elnöke | 120 |
+| 5. | Az ítélőtábla kollégiumvezetője A Fővárosi Törvényszék elnökhelyettese | 100 |
+| 6. | Az ítélőtábla kollégiumvezető-helyettese | 80 |
+| 7. | A Fővárosi Törvényszék kollégiumvezetője A törvényszék elnökhelyettese | 70 |
+| 8. | A nagyobb járásbíróság elnöke | 60 |
+| 9. | Az ítélőtábla tanácselnöke | 50 |
+| 10. | A Fővárosi Törvényszék kollégiumvezető-helyettese A törvényszék kollégiumvezetője | 45 |
+| 11. | A törvényszék kollégiumvezető-helyettese A törvényszék csoportvezetője A nagyobb járásbíróság elnökhelyettese A kisebb járásbíróság elnöke | 40 |
+| 12. | A törvényszék csoportvezető-helyettese A törvényszék tanácselnöke A nagyobb járásbíróság csoportvezetője | 30 |
+| 13. | A nagyobb járásbíróság csoportvezető-helyettese A kisebb járásbíróság elnökhelyettese | 25 |
 
 ### 4. melléklet a 2011. évi CLXII. törvényhez
 

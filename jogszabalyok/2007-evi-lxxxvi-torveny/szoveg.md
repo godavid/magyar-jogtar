@@ -98,6 +98,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 42. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező, egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol villamos energiát a villamos energia vételezésére megkötött szerződés alapján, és az így vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet; ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a lakóépületet, mint felhasználót a közös fogyasztás vonatkozásában úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt villamos energiával nem folytat jövedelemszerzés céljából gazdasági tevékenységet;
 - 42a. Leágazási pont: az átviteli vagy az elosztó hálózat azon pontja, amelyen keresztül a csatlakozóberendezés részét képező csatlakozó vezeték e hálózathoz kapcsolódik;
 - 43. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás;
+- 43a. Leolvasás: a fogyasztásmérő-berendezés mérési adatainak a felhasználási helyen hálózati engedélyes által végzett leolvasása, az arra alkalmas fogyasztásmérő-berendezés mérési adatainak hálózati engedélyes általi távlehívása, valamint a fogyasztásmérő-berendezés mérési adatainak a felhasználó részére biztosított applikációval történő rögzítése;
 - 44. Magánvezeték: közcélúnak, termelői vezetéknek vagy közvetlen vezetéknek nem minősülő, a csatlakozási pont után elhelyezkedő hálózati elem, vezeték, vagy átalakító- és kapcsolóberendezés, amely az átviteli vagy elosztó hálózathoz közvetlenül vagy közvetve kapcsolódó felhasználó vagy a vételező ellátására szolgál;
 - 45. Megújuló energiaforrás: nem fosszilis és nem nukleáris energiaforrás, amelyből nap-, szél-, légtermikus, geotermikus, hidrotermikus energia, vízenergia, biomasszából nyert energia – beleértve a biogázból (hulladéklerakóból, illetve szennyvízkezelő létesítményből származó, valamint az egyéb szerves anyagokból előállított éghető gázból) nyert energiát – állítható elő;
 - 45a. Menetrend: egy adott naptári napra a kereskedelmi szabályzatban meghatározott elszámolási mérési időegységekre vonatkozó villamos-átlagteljesítmények adatsora;
@@ -106,8 +107,10 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 47. Nemzeti Cselekvési Terv: a közlekedésben, a villamosenergia-fogyasztásban, a fűtésben és hűtésben felhasznált, megújuló energiaforrásokból előállított energia 2020-as részarányaira vonatkozó – az energiahatékonysággal kapcsolatos egyéb intézkedéseknek a végső energiafogyasztásra gyakorolt hatásait figyelembe vevő – a Magyarországra érvényes célértékeket, és az e célértékek elérésére alkalmas, foganatosítandó intézkedéseket tartalmazó terv;
 - 47a. nemzetközi üzemi és kereskedelmi szabályzat: a 714/2009/EK rendelet és a 2019/943/EU rendelet alapján kiadott európai bizottsági rendeletek szerint jóváhagyott feltételeket és módszertanokat tartalmazó szabályzat;
 - 48. Együttműködő villamosenergia-rendszer: legalább két, egy vagy több rendszerösszekötő vezetékkel összekapcsolt villamosenergia-rendszer, melyből az egyik Magyarország területén működik;
+- 48a. Okosmérő: olyan fogyasztásmérő-berendezés, amely képes a villamosenergia-fogyasztás és a villamosenergia-hálózatba táplált villamos energia mennyiségét mérni, a mérési adatokat tárolni, valamint elektronikus távkommunikáció útján a mért adatokat továbbítani és távoli utasításokat fogadni tájékoztatás, vezérlés, figyelemmel kísérés és ellenőrzés céljából;
 - 49. Összekötő berendezés: több felhasználó által használt ingatlan belső vezetékhálózatának nem az elosztó tulajdonában álló, a csatlakozási pont után lévő méretlen szakasza;
 - 49a. Profil: statisztikai elemzéssel készült normalizált, 1000 kWh éves fogyasztásra vonatkoztatott éves felhasználói villamosteljesítmény-igény görbe;
+- 49b. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők villamos energiára vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik;
 - 50. Rendszerhasználó: aki a közcélú hálózathoz villamos energia betáplálása, illetve vételezése céljából közvetlenül vagy közvetve csatlakozik, ideértve a töltőállomás-üzemeltetőt és a villamosenergia-tárolói engedélyest;
 - 51. Rendszerirányítás: a villamosenergia-rendszer zavartalan és biztonságos működtetését és a teljesítmény egyensúlyának biztosítását, valamint a nemzetközi összeköttetések rendelkezésre állását szolgáló célirányos tevékenységek összessége;
 - 52. Rendszerösszekötő vezeték: az átviteli hálózat részét képező határkeresztező vezeték, amely együttműködő villamosenergia-rendszerek hálózatait köti össze;
@@ -262,7 +265,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 (7) Az átvételi kötelezettség keretében adható támogatás, valamint a prémium típusú támogatás mértékének meghatározásakor csökkentő tényezőként kell figyelembe venni az állami támogatásokat, és a környezetvédelmi termékdíjról szóló törvény szerinti hulladékhasznosítói szolgáltatásra vonatkozó megrendelést.
 
-(8) A (7) bekezdés szempontjából figyelembe veendő támogatások különösen a beruházási támogatások, az adókedvezmények, valamint a megújuló energiaforrások mennyiségének, illetve arányának növelésén keresztül megtakarított azon kibocsátási egységekből eredő haszon, amely kibocsátási egységekhez az érintett az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló törvény rendelkezései alapján térítés nélkül jutott. Nem kell figyelembe venni a 147. § (1) bekezdése szerinti szénipari szerkezetátalakítási, valamint a kapcsolt termelésszerkezet-átalakítási támogatást.
+(8) A (7) bekezdés szempontjából figyelembe veendő támogatások különösen a beruházási támogatások, az adókedvezmények, valamint a megújuló energiaforrások mennyiségének, illetve arányának növelésén keresztül megtakarított azon kibocsátási egységekből eredő haszon, amely kibocsátási egységekhez az érintett az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló törvény rendelkezései alapján térítés nélkül jutott. Nem kell figyelembe venni a 147. § (1) bekezdése szerinti kapcsolt termelésszerkezet-átalakítási támogatást.
 
 (9) A (2) bekezdés b) pontja szerinti prémium típusú támogatás mértékének meghatározásakor – a (7) és (8) bekezdéstől eltérően – csak a működési jellegű állami támogatásokat kell figyelembe venni, beleértve a működés fenntartásához szükséges beruházásokhoz kapott támogatásokat is.
 
@@ -799,7 +802,9 @@ kiállított számla érvénytelen.
 
 44. § Ha jogszabály vagy a hálózathasználati szerződés ettől eltérően nem rendelkezik a villamosenergia-kereskedő a szerződésben meghatározott időszakban, a hálózati engedélyes tulajdonában lévő hiteles fogyasztásmérő berendezés adatai alapján a 40. § (4) bekezdésében meghatározott leolvasási gyakorisággal egyezően számolja el az értékesített villamosenergia-mennyiséget. Az elszámolás során tájékoztatni kell a felhasználót az adott elszámolási időszakra vonatkozóan a fogyasztásmérő berendezés által tárolt kezdő és záró mérőállásról.
 
-#### 45. §
+45. § (1) A hálózati engedélyes új felhasználási helyen történő új csatlakozás esetén a Vhr.-ben meghatározott esetekben az adott felhasználási helyen okosmérőt szerel fel.
+
+(2) A villamosenergia-kereskedő a felhasználó részére legalább egy, több zónaidős és rugalmas árszabást is biztosít.
 
 ### VII. Fejezet — VILLAMOSENERGIA-KERESKEDELEM
 
@@ -1200,7 +1205,7 @@ akkor a rendelkezési jog az adott teljesítmény vonatkozásában a hálózati 
 
 ### A villamosenergia-ellátásból történő kikapcsolás alóli mentesség
 
-63/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi vagy közoktatási intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a villamosenergia-kereskedőnél és az elosztónál a villamosenergia-ellátásból fizetési késedelem miatt történő kikapcsolás alóli mentesség (a továbbiakban: moratórium) biztosítását.
+63/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, köznevelési vagy szakképző intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a villamosenergia-kereskedőnél és az elosztónál a villamosenergia-ellátásból fizetési késedelem miatt történő kikapcsolás alóli mentesség (a továbbiakban: moratórium) biztosítását.
 
 (2) A moratórium a közintézményi felhasználó kezdeményezése szerinti időszakra, de legfeljebb az adott év október 15. és az azt követő év április 15. közötti időszakra terjed ki.
 
@@ -2602,6 +2607,12 @@ ELJÁRÁSOK
 
 (4) A (2) bekezdés szerinti intézkedéseket a piac működésének lehető legkisebb mértékű zavarásával, a lehető legrövidebb időtartam alatt kell megvalósítani.
 
+139/A. § (1) A 2019/941/EU európai parlamenti és tanácsi rendelet előírásai tekintetében illetékes hatóságként – a (2) bekezdés szerinti kivétellel – a miniszter jár el.
+
+(2) A 2019/941/EU európai parlamenti és tanácsi rendelet 4. cikke, 6. cikke, 7. cikk (1) és (2) bekezdése, 10. cikke, 12. cikk (3) bekezdése, 13. cikke, valamint 17. cikke szerinti feladatokat a Hivatal látja el.
+
+(3) A Hivatal szakmai javaslatot tesz az (1) bekezdés szerinti feladatokhoz kapcsolódóan a miniszter számára.
+
 ### XVI. Fejezet — ÁRSZABÁLYOZÁS
 
 140. § (1) A felhasználó megfizeti a villamosenergia-vásárlási szerződés feltételei szerint a villamos energia árát és a hálózathasználati szerződés feltételei szerint a 142. § szerinti, a villamosenergia-rendszer használatáért fizetendő díjakat.
@@ -2768,7 +2779,7 @@ díjmentes.
 
 147. § (1) Az átviteli rendszerirányító által az e célból létrehozott elkülönített számláján kezelt, kötelező befizetésből származó pénzeszközökből kell biztosítani
 
-- a) a szénipari szerkezetátalakítási támogatás,
+- a)
 - b) a külön jogszabályban meghatározott személyi kör részére a villamosenergia-iparban fennálló, vagy eltöltött munkaviszonnyal összefüggésben külön jogszabálynak megfelelően biztosított kedvezményes árú villamosenergia-ellátás támogatása,
 - c) a kapcsolt termelésszerkezet-átalakítás támogatása
 
@@ -2792,7 +2803,7 @@ finanszírozásához szükséges pénzügyi forrásokat.
 
 villamos energia képezi.
 
-(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0 Ft/kWh.
+(2)
 
 (3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,08 Ft/kWh.
 
@@ -3157,20 +3168,20 @@ nem változtathatja meg.
 - 19. az okos mérés bevezetésével kapcsolatos mintaprojektek megvalósításával összefüggő szabályokat, ennek keretében az okos mérőkre és felszerelésükre, a mintaprojektben résztvevők jogaira és kötelezettségeire, az adatkezeléssel és adatfeldolgozással kapcsolatos előírásokra, a mintaprojekttel összefüggő, és azok eredményeiről való adatszolgáltatásra, tájékoztatásra vonatkozó szabályokat,
 - 20. a szervezett villamosenergia-piac működésére, engedélyezésére, a szervezett villamosenergia-piaci engedélyesnek az energiakereskedelem fizikai teljesítésű ügyleteivel összefüggő feladataira, jogaira és kötelezettségeire vonatkozó részletes szabályokat, továbbá a szervezett villamosenergia-piaci szabályzat elkészítésének, közzétételének rendjét, a szervezett villamosenergia-piac engedélyese és az átviteli rendszerirányító együttműködésének szabályait,
 - 21. az átviteli rendszerirányító és az elosztó hálózati engedélyesek, valamint a rendszerhasználók közötti jogviszony részletes szabályait, a hálózati csatlakozási szerződés tartalmi elemeit és rendelkezéseit, hálózathasználati szerződés és a kereskedési szerződés minimális tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit,
-- 22. a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályait,
+- 22.
 - 23. a villamosenergia-ellátási válsághelyzet és a villamosenergia-rendszer jelentős zavarának részletes szabályait, a válsághelyzet és a jelentős zavar esetén alkalmazandó korlátozások szabályait, elveit, valamint a rendszerhasználók jogait és kötelezettségeit, a teherviselés részletes szabályait, a felhasználók ellátására kötött szerződések teljesítése felfüggesztésének rendjét, a villamosenergia-ellátáshoz kapcsolódó, a hatósági és nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
 - 24. a megújuló energiaforrásból és a nagy hatékonyságú kapcsolt energiatermelésből származó energia eredetét igazoló származási garanciára, annak kiadására, nyilvántartására, átruházására, az ilyen módon termelt energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére vonatkozó részletes szabályokat,
 - 25. a Hivatal határozatainak közzétételére vonatkozó részletes szabályokat,
 - 26. Magyarország nemzetközi kötelezettségvállalásán alapuló, valamint az Európai Bizottság felé teljesítendő jelentéstételi és adatszolgáltatási kötelezettségre vonatkozó részletes szabályokat,
 - 27. az e törvény szerinti hatósági árakra vonatkozó rendelkezések végrehajtásának ellenőrzésére vonatkozó eljárás, valamint az alkalmazandó jogkövetkezmények végrehajtásának részletes szabályait,
-- 28. az e törvény 147. § (1) bekezdésében meghatározott pénzeszköz kezelésének és a 147. § (1) bekezdés a) pontja esetében felhasználása és kifizetése szabályait,
+- 28. az e törvény 147. § (1) bekezdésében meghatározott pénzeszköz kezelésének szabályait,
 - 29. a megújuló energiaforrásból nyert villamos energia felhasználását elősegítő kötelező átvételi rendszer és prémium típusú támogatási rendszer részletes szabályait, a kötelező átvételi rendszer és a prémium típusú támogatás keretében végrehajtandó elszámolások részletes szabályait, az átvételi kötelezettség alá eső villamos energia befogadásának és kötelező átvételének részletes szabályait, valamint az egyes termelési eljárások, különösen a biomasszával termelt villamos energia kötelező átvételéhez és prémium típusú támogatásához szükséges minimális hatásfok mértékét,
 - 30. a villamosmű, a termelői vezeték, a magánvezeték és a közvetlen vezeték építésének, üzemeltetésének, használatbavételének, fennmaradásának és megszüntetésének engedélyezésével, az engedélyek meghosszabbításával, az egyszerűsített engedéllyel, valamint az idegen ingatlanra vonatkozó jogok alapításával, tartalmával, engedélyezésével, megszűnésével, az építési jogosultság igazolására alkalmas okiratokkal és a kártalanítással kapcsolatos részletes szabályokat,
 - 31. az átviteli rendszerirányító részére nyújtandó pénzügyi biztosíték nyújtásának feltételeit, módját, az alkalmazandó mértéket megalapozó feltételeket, valamint az átviteli rendszerirányító pénzügyi biztosítékkal kapcsolatos tájékoztatási kötelezettségét,
 - 32. a rendszerszintű szolgáltatások biztosításához, az átviteli vagy elosztó hálózati veszteség pótlásához szükséges villamos energia beszerzésére vonatkozó pályázat minimális tartalmi követelményeit, valamint nyilvánosságra hozatalának módját,
 - 33. az elosztó hálózati engedélyesnek háztartási kiserőművek hálózatra csatlakoztatásával, hálózathasználatával, elszámolásával, valamint nyilvántartásával kapcsolatos feladatait, valamint az elosztó hálózati engedélyes, a villamosenergia-kereskedő, és az egyetemes szolgáltató védendő fogyasztókkal kapcsolatos feladatait, jogait és kötelezettségeit, a védendő fogyasztó szerződésszegése esetén alkalmazható jogkövetkezményeket,
 - 34. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
-- 35.
+- 35. az okosmérőkre, azok felszerelésére, az engedélyesek és a felhasználók jogaira és kötelezettségeire, valamint az adatkezeléssel és adatfeldolgozással kapcsolatos előírásokra vonatkozó szabályokat,
 - 36. a főváros területén a lakossági fogyasztók arányában létesítendő ügyfélszolgálatok minimális számát, továbbá az ügyfélszolgálatok elhelyezésére és működtetésére vonatkozó részletes szabályokat,
 - 37. a közvilágításra vonatkozó részletes szabályokat, valamint a közvilágítási berendezéseknek az elosztó hálózat tartószerkezetein és létesítményeiben történő elhelyezésével, üzemeltetésével összefüggő kérdéseket rendező, az elosztó hálózati engedélyes és a közvilágításra kötelezett közötti szerződés minimális tartalmi és formai követelményeit,
 - 38. a végső menedékes kijelölésére, tevékenységére, jogaira és kötelezettségeire, feladatai ellátására, valamint a korábbi egyetemes szolgáltató vagy villamosenergia-kereskedő működési engedélyében meghatározott jogai gyakorlása korlátozására, az engedély visszavonására, továbbá a fogyasztásmérő-berendezés leolvasására és az elszámolásra vonatkozó részletes szabályokat,
@@ -3289,9 +3300,9 @@ rendeletben állapítsa meg.
 
 (12)
 
-(13) Az Európai Bizottság adott bányavállalkozó esetében történt jóváhagyását követően, az adott bányavállalkozó esetében jóváhagyott mértékben 2018. december 31-éig szénipari szerkezetátalakítási támogatást lehet téríteni.
+(13)
 
-(14) A (13) bekezdés szerint kifizethető szénipari szerkezetátalakítási támogatást – a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU európai tanácsi határozattal összhangban – külön jogszabályban kell megállapítani.
+(14)
 
 (15) E törvény hatálybalépését megelőzően kötött uralmi szerződést a 92. § (4) bekezdésben meghatározott engedélyesek 2008. június 30-ig kötelesek megszüntetni, ennek hiányában az érintett felek az uralmi szerződésből fakadó jogokat, illetve kötelezettségeket érvényesen nem gyakorolhatnak, illetve nem teljesíthetnek.
 
@@ -3360,7 +3371,9 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (7)
 
-#### 178/A. §
+178/A. § (1) A hálózati engedélyes a Vhr.-ben meghatározott határidőig és a Vhr.-ben meghatározott esetekben a fogyasztásmérő-berendezést okosmérőre cseréli.
+
+(2) Az okosmérő (1) bekezdés szerinti felszereléséhez, üzemeltetéséhez és adatainak továbbításához szükséges mérőhely-átalakítás költsége a hálózati engedélyest terheli.
 
 178/B. § (1) A Hivatal a rendszerhasználati és a csatlakozási díjakat, valamint alkalmazásuk feltételeit első alkalommal 2012. január 1-jei hatállyal állapítja meg az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény hatálybalépését megelőzően a Hivatal által a 2009–2012. közötti időszakra vonatkozóan a villamos energia rendszerhasználati díjak szabályozásáról kiadott módszertani útmutató alapján.
 
@@ -3432,9 +3445,9 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (2) A 2018. december 31-ig terjedő időszakra vonatkozóan a kiegyenlítő fizetések kapcsán keletkezett, de árengedményként nem rendezett összeget az átviteli rendszerirányító legkésőbb 2019. március 31-ig visszafizetési kötelezettség nélkül adott támogatásként, e törvénynek a Mód. 4. törvénnyel megállapított 143. § (6) bekezdése szerinti rendeletekben meghatározottak szerint átadja az érintett elosztóknak.
 
-(3) Az átviteli rendszerirányító 2019. március 31-ig gondoskodik a 147. § (1) bekezdés a) pontja szerinti elkülönített számlán lévő pénzeszköz maradványának a 147. § (1) bekezdés c) pontja szerinti elkülönített számlára történő átvezetéséről.
+(3)
 
-(4) A (3) bekezdés szerinti átvezetést követően a 147. § (1) bekezdés a) pontja szerinti pénzeszköz megszüntetéséhez kapcsolódó utólagos elszámolásokat a 147. § (1) bekezdés c) pontja szerinti elkülönített számlával szemben kell végrehajtani.
+(4)
 
 (5) E törvénynek a Mód. 4. törvénnyel megállapított 161. §-át első alkalommal a 2019. évi felügyeleti díjbevallás során – a 2018. évi árbevételre vonatkozóan – kell alkalmazni.
 

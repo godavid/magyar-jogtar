@@ -229,7 +229,7 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 
 (2) A gyűjtő – a (2a) és (2c) bekezdésben, valamint a 28. § (5) bekezdésében meghatározott kivétellel – tevékenységét gyűjtésre vonatkozó hulladékgazdálkodási engedéllyel végzi.
 
-(2a) A nemzeti köznevelésről szóló 2011. évi CXC törvény 7. § (1) bekezdés a)–h) pontja szerinti nevelési-oktatási intézmény papírhulladék gyűjtése céljából évente legfeljebb 2 alkalommal, és alkalmanként legfeljebb 5 nap időtartamban papírhulladék-gyűjtési kampányt szervezhet, amelynek során a papírhulladékot a vele jogviszonyban álló gyermektől, tanulótól gyűjtésre vonatkozó hulladékgazdálkodási engedély nélkül, a területén kialakított átvételi helyen átveheti. Az átvett papírhulladék kezeléséről a nevelési-oktatási intézmény a 31. § (2) bekezdése szerint gondoskodik.
+(2a) A nevelési-oktatási intézmény, illetve a szakképző intézmény papírhulladék gyűjtése céljából évente legfeljebb 2 alkalommal, és alkalmanként legfeljebb 5 nap időtartamban papírhulladék-gyűjtési kampányt szervezhet, amelynek során a papírhulladékot a vele jogviszonyban álló gyermektől, tanulótól gyűjtésre vonatkozó hulladékgazdálkodási engedély nélkül, a területén kialakított átvételi helyen átveheti. Az átvett papírhulladék kezeléséről a nevelési-oktatási intézmény a 31. § (2) bekezdése szerint gondoskodik.
 
 (2b) A legalább 300 m2 alapterületű üzlettel rendelkező forgalmazó a forgalmazás helyén köteles az általa forgalmazott termékcsoportból származó termékből, és a termék csomagolásából származó szennyeződésmentes, nem veszélyes, elkülönítetten gyűjtött csomagolási üveghulladék hulladékbirtokostól történő átvételére, elkülönített gyűjtésére.
 

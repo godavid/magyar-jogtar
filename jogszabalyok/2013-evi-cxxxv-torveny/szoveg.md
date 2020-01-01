@@ -150,13 +150,21 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (2) A közgyűlés legalább évente egy alkalommal ülésezik, üléseit az Integrációs Szervezet igazgatósága hívja össze. A közgyűlés összehívásáról szóló, a napirendi pontokat is tartalmazó meghívót valamennyi tagnak a közgyűlés napját megelőzően legalább 15 nappal meg kell küldeni.
 
-(3) A közgyűlés határozatait a jelen lévő tagok szavazatainak többségével hozza meg. A közgyűlésen az Integrációs Szervezet valamennyi tagja egy szavazattal rendelkezik.
+(3) A közgyűlés – a (7)–(10) bekezdésben meghatározottak figyelembevételével – a határozatait a jelen lévő tagok szavazatainak többségével hozza meg. A közgyűlésen az Integrációs Szervezet minden tagjának egy szavazata van.
 
 (4) Az Integrációs Szervezet közgyűlésén az igazgatósági tagok és a felügyelőbizottsági tagok többsége a Holding Szövetkezet által delegált személyek közül, az Integrációs Szervezet tagjai többségének az egyetértő szavazatával választható meg.
 
 (5) A Holding Szövetkezet azt a személyt delegálhatja az Integrációs Szervezet igazgatósági vagy felügyelőbizottsági tagjának, akit a Holding Szövetkezet természetes személy tagjainak több mint fele a Holding Szövetkezet közgyűlésén delegált személyként megválasztott.
 
 (6) A (4) bekezdés szerint megválasztott tagok visszahívásához az Integrációs Szervezet tagjai többségének az egyetértő szavazata szükséges.
+
+(7) Az 1/A. § g) pontjában meghatározott integrációs célok megvalósulása és a Szövetkezeti Hitelintézetek Integrációs Alapja által az Integrációs Szervezet rendelkezésére bocsátott vagyon felhasználásának folyamatos figyelemmel kísérése érdekében az Integrációs Szervezet közgyűlésen tanácskozási joggal részt vesz a nemzeti pénzügyi szolgáltatásokért felelős miniszter vagy az általa kijelölt személy.
+
+(8) Az Integrációs Szervezet közgyűléséről a meghívó tagoknak történő megküldésével egyidejűleg értesíteni kell a (7) bekezdésben meghatározott minisztert a napirend és a kapcsolódó dokumentumok egyidejű megküldésével. Az értesítésben nem szereplő új napirendi pont megtárgyalásához a (7) bekezdésben meghatározott miniszter vagy az általa kijelölt személy egyetértése szükséges.
+
+(9) A (7) bekezdésben meghatározott miniszter – a kérdés megtárgyalása és a szükséges határozatok meghozatala érdekében – jogosult kezdeményezni a közgyűlés összehívását, továbbá a közgyűlésre új napirendi pont felvételét, ha az igazgatóság tevékenysége sértheti a Szövetkezeti Hitelintézetek Integrációs Alapja által az Integrációs Szervezet rendelkezésére bocsátott vagyon integrációs célokhoz igazodó felhasználását.
+
+(10) Az Integrációs Szervezet közgyűlésének 7. § (1) bekezdésében meghatározott döntéséhez, továbbá a (9) bekezdésben meghatározott kérdésben hozott döntéséhez a (7) bekezdésben meghatározott miniszter vagy az általa kijelölt személy jóváhagyása szükséges.
 
 #### 5.2. A közgyűlés hatásköre
 
@@ -242,6 +250,8 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 (3) Az Integrációs Szervezet felügyelőbizottsági tagjává nem választható, akivel szemben a Hpt. 137. § (4) bekezdésében foglalt valamely kizáró ok fennáll.
 
 (4) Az Integrációs Szervezet alapszabálya a (2) bekezdésben meghatározottakon túl, további hatásköröket állapíthat meg az Integrációs Szervezet felügyelőbizottságának.
+
+(5) Az Integrációs Szervezet felügyelőbizottságának ülésén a 6. § (7) bekezdésében meghatározott miniszter vagy az általa kijelölt személy tanácskozási joggal részt vesz. Az Integrációs Szervezet felügyelőbizottságának üléséről a meghívó tagoknak történő megküldésével egyidejűleg értesíteni kell a 6. § (7) bekezdésében meghatározott minisztert a napirend és a kapcsolódó dokumentumok egyidejű megküldésével.
 
 #### 5.5. Az ügyvezetés
 
