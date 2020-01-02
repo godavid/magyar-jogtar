@@ -2575,42 +2575,11 @@ E törvény az Európai Unió következő uniós jogi aktusainak való megfelel�
 - i) az Európai Parlament és a Tanács 2011/95/EU irányelve (2011. december 13.) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról;
 - j) a Tanács 2005/85/EK irányelve (2005. december 1.) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól.
 
-#### 108. § [Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény módosítása]
+#### 108. §
 
-Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 41. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 109. §
 
-„(2) A Hivatalt az alapvető jogok biztosa irányítja, és a főtitkár vezeti. A Hivatalban foglalkoztatott köztisztviselőkre és munkavállalókra nézve a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény rendelkezéseit kell megfelelően alkalmazni.”
-
-#### 109. § [Az Alkotmánybíróságról szóló 2011. évi CLI. törvény módosítása]
-
-(1) Az Alkotmánybíróságról szóló 2011. évi CLI. törvény (a továbbiakban: Abtv.) 22. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az Alkotmánybíróság Hivatalát a főtitkár vezeti. A főtitkárt az elnök javaslatára a teljes ülés választja meg. A főtitkár a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti közigazgatási államtitkári illetménysáv felső határának megfelelő összegű illetményre és közigazgatási államtitkári juttatásokra jogosult.”
-
-(2) Az Abtv. 22. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az Alkotmánybíróság Hivatalában foglalkoztatott köztisztviselőkre és munkavállalókra nézve a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény rendelkezéseit kell megfelelően alkalmazni. Az elnök a közszolgálati jogviszony létesítését meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.”
-
-(3) Az Abtv. 22. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Az Alkotmánybíróság Hivatalának költségvetési, pénzügyi, gazdálkodási, üzemeltetési, fenntartási, gépkocsi-üzemeltetési és humánpolitikai feladatait a gazdasági főosztály látja el. A gazdasági főosztályt a gazdasági főigazgató vezeti. A gazdasági főigazgató az Alkotmánybíróság Hivatalának helyettes vezetője. A gazdasági főigazgató a Kit. szerinti helyettes államtitkári illetménysáv felső határának megfelelő összegű illetményre és helyettes államtitkári juttatásokra jogosult.”
-
-#### 110. § [A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása]
-
-(1) A Kttv. 2. §-a helyébe a következő rendelkezés lép:
-
-„2. § Törvény eltérő rendelkezése hiányában az Országgyűlés Hivatala, valamint az Országgyűlési Őrség köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára e törvény rendelkezéseit kell alkalmazni.”
-
-(2) A Kttv. 234. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, az érettségi végzettségű köztisztviselő esetében az alapilletményének 35%-a.”
-
-(3) Hatályát veszti a Kttv.
-
-- a) 227. § (3) bekezdése,
-- b) 233. §-a,
-- c) 234. § (1) bekezdése,
-- d) 236. § (1)–(3) és (8) bekezdése.
+#### 110. §
 
 ### 1. melléklet a 2019. évi CVII. törvényhez
 

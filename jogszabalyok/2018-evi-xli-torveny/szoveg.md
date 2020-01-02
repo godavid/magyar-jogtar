@@ -30,9 +30,7 @@ az egyes adótörvények és más kapcsolódó törvények módosításáról, v
 
 #### 8. §
 
-9. § Az Szja tv. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az adóelőleg-megállapításra kötelezett kifizető a bevételt terhelő adóelőleget a magánszemély által írásban adott vagy a magánszemély által az Eüsztv. szerinti elektronikus azonosítási szolgáltatás alkalmazásával az erre a célra létrehozott elektronikus felületen az adóhatóság felé megtett és az adóhatóság által a kifizető részére elektronikus úton továbbított nyilatkozat (adóelőleg-nyilatkozat) figyelembevételével állapítja meg, ha a nyilatkozatot felszólítására vagy önként a magánszemély a kifizetést megelőzően rendelkezésére bocsátja. Nyilatkozat érvényesen esetenként vagy az adóéven belül visszavonásig adható azzal, hogy a korábbi nyilatkozat visszavonásának minősül az is, ha a magánszemély újabb nyilatkozatot tesz. Ha a magánszemély írásban és elektronikus felületen is tett nyilatkozatot, a kifizetőnek az írásban átadott nyilatkozatot kell figyelembe vennie. A nyilatkozat tartalmát érintő bármely változás esetén a magánszemély köteles haladéktalanul új nyilatkozatot tenni. Nem kell új nyilatkozatot tenni, ha a magánszemély a családi kedvezményt már a magzatra tekintettel is érvényesítette.”
+#### 9. §
 
 #### 10. §
 

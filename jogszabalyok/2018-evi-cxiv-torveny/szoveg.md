@@ -1237,9 +1237,7 @@ jogviszony-megszűnésnek.
 
 #### 18. Módosító rendelkezések
 
-100. § E törvény 75. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az illetménykiegészítés alapösszege 47.300 Ft.”
+#### 100. §
 
 #### 101. §
 

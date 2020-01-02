@@ -771,6 +771,12 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 (3) A számszaki hibát, ellentmondást nem tartalmazó vagy a (2) bekezdés szerint javított adóbevallást az önkormányzati adóhatóságnál határidőben teljesítettnek kell tekinteni, feltéve, hogy azt az állami adóhatósághoz határidőben benyújtották.
 
+(4) A sportvállalkozás az adóbevallást kizárólag az (1) bekezdés szerint nyújthatja be.
+
+(5) Az állami adóhatóság a sportvállalkozás által a (4) bekezdés szerint benyújtott adóbevallás (2) bekezdés szerinti továbbítását megelőzően az adóbevallásban feltüntetett adatokat nyilvántartásba veszi.
+
+(6) Ha a sportvállalkozás adóbevallásában tett nyilatkozata alapján az 52. § 22. pont i) alpontja szerinti nettó árbevétel csökkentés miatti adócsökkenés az 53. § (2) bekezdés b) pontja szerinti támogatásnak minősül és annak összege meghaladja az ötszázezer eurónak megfelelő forintösszeget, az állami adóhatóság a támogatás igénybevételéről adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az adózás rendjéről szóló törvény szerinti tartalommal és határidőben.
+
 42/E. § (1) Az állami adó- és vámhatóság naponta, elektronikus úton megküldi az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 1. melléklet 1. pontja szerinti (ide nem értve az adózó állami adóhatóság előtti képviseletére vonatkozó adatokat), az Art. 1. melléklet 17. pontja, 18. pontja, 20–21. pontja alapján az állami adó- és vámhatósághoz – az önkormányzati adóhatósághoz teljesített korábbi adatszolgáltatást követően – érkezett adatokat és az Art. 1. melléklet 29. pontja alapján bejelentett adatokat az Art. 1. melléklet 17. pontja szerinti adózó székhelye szerinti önkormányzati adóhatóság, valamint azon telephelyei szerinti önkormányzati adóhatóságok (a továbbiakban e § alkalmazásában: telephely szerinti önkormányzati adóhatóság) részére, amely telephelyeket az adózó az állami adó- és vámhatósághoz bejelentette.
 
 (2) Az (1) bekezdés szerinti adatszolgáltatásban szereplő adózó:
@@ -853,6 +859,8 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 elektronikus úton megküldi az állami adóhatóság részére.
 
 (2) Ha a sportvállalkozás az (1) bekezdés szerint továbbított adóbevallásában tett nyilatkozata alapján az 52. § 22. pont i) alpontja szerinti nettó árbevétel csökkentés miatti adócsökkenés az 53. § (2) bekezdés b) pontja szerinti támogatásnak minősül és annak összege meghaladja az ötszázezer eurónak megfelelő forintösszeget, az állami adóhatóság a támogatás igénybevételéről adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az adózás rendjéről szóló törvény szerinti tartalommal és határidőben.
+
+51/G. § Az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel beiktatott 42/D. § (4) bekezdést a hatálybalépését magában foglaló adóévi helyi iparűzési adókötelezettség teljesítése során is alkalmazni kell.
 
 51/H. § Az az adóalany, amely e törvény 2019. december 31-én hatályos szabályai alapján alapítványként a 3. § (2)–(3) bekezdése szerinti feltételes adómentesség igénybevételére jogosult, e mentességet 2022. december 31-ig igénybe veheti, ha vállalja, hogy 2023. január 15-ig igazolja, hogy a Civil törvény szerinti közhasznú jogállást szerzett. Ha az adóalany e vállalását nem teljesíti, a 3. § (2)–(3) bekezdése szerinti feltételes mentességre tekintettel meg nem fizetett adót az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben köteles az önkormányzati adóhatóság felhívására megfizetni. A szervezet megszűnése esetén e fizetési kötelezettség az alapítót vagy annak jogutódját terheli.
 

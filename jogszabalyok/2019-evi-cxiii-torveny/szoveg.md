@@ -150,54 +150,16 @@ a vízügyi igazgatási szervek részére azok vízgazdálkodási, vízvédelmi 
 
 16. § Ez a törvény 2020. január 1-jén lép hatályba.
 
-17. § A vízgazdálkodásról szóló 1995. évi LVII. törvénynek az egyes belügyi tárgyú és más kapcsolódó törvények módosításáról szóló 2018. évi CXXI. törvény 31. § (1) bekezdésével megállapított 33/E. § (1) bekezdése a következő szöveggel lép hatályba:
+17. §
 
-„(1) A VIZEK rendszer keretében nyilvántartott, vízjogi engedélyezési eljárásban részt vevő, valamint a vízjogi engedéllyel már rendelkező ügyfélnek – az érintett vízhasználathoz és vízilétesítményhez kapcsolódó – a 33/B. § (1) bekezdés a)–h) pontjában meghatározott adatai, valamint a vízimunkára, a vízilétesítményekre és a vízhasználatokra vonatkozó, az engedélyes dokumentációjában rögzített műszaki alapadatok kezelésére
+18. §
 
-a) az agrárpolitikáért felelős miniszter agrárgazdasági elemzések és agrár-szakmapolitikai döntések meghozatala,
+19. §
 
-b) az agrárpolitikáért felelős miniszter irányítása alatt álló, agrárkutatásokkal foglalkozó intézet az öntözésfejlesztési, az agrár-gazdaságelemzési és statisztikai feladatai ellátása,
+20. §
 
-c) az öntözési igazgatási szerv az öntözésfejlesztéssel kapcsolatos feladatai ellátása,
+21. §
 
-d) a Nemzeti Agrárgazdasági Kamara a gazdaságszerkezeti nyilvántartással összefüggő feladatainak ellátása
-
-céljából jogosult.”
-
-18. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 31. § (1) bekezdés a következő r) ponttal egészül ki:
-
-(Tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése, ha az)
-
-„r) ügyfél öntözési beruházáshoz kapcsolódóan”
-
-(kéri.)
-
-19. § A termőföld védelméről szóló 2007. évi CXXIX. törvény a következő 50/B. §-sal egészül ki:
-
-„50/B. § Öntözési tevékenység esetén az ellenőrző vizsgálatokat tartalmazó talajvédelmi terv alapján a talajvédelmi hatóság dönt arról, hogy továbbra is fennállnak-e az öntözés folytatásának talajvédelmi feltételei.”
-
-20. § A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. §-a a következő (32) és (33) bekezdéssel egészül ki:
-
-„(32) Az agrárpolitikáért felelős miniszter, az öntözési igazgatási szerv az öntözésfejlesztési feladatai ellátása céljából, valamint az agrárpolitikáért felelős miniszter irányítása alatt álló, agrárkutatásokkal foglalkozó intézet az öntözésfejlesztési, agrár-gazdaságelemzési és statisztikai feladatai ellátása céljából
-
-a) folyamatosan a 3. § (1) bekezdés d) pontjában foglalt adatbázishoz,
-
-b) évente egyszer a 3. § (1) bekezdés e) és f) pontjában foglalt adatbázisokhoz,
-
-c) évente egyszer az ország legújabb évjárat szerinti domborzatmodelljéhez (DDM-5), valamint
-
-d) az állami ingatlan-nyilvántartási térképi adatbázisból előállított, a Mezőgazdasági Parcella Azonosító Rendszer részét képező kataszteri fedvény adataihoz,
-
-díj-, költség- és térítésmentesen hozzáférhet.
-
-(33) Az öntözési igazgatási szerv az öntözési célú beruházásokhoz szükséges térképmásolatokhoz díj-, költség- és térítésmentesen hozzáférhet.”
-
-21. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 46. § (3) bekezdése a következő e) ponttal egészül ki:
-
-[Az (1) bekezdés a) pontjával megegyező ranghelyen illeti meg előhaszonbérleti jog]
-
-„e) szántó, szőlő, gyümölcsös, kert művelési ágban nyilvántartott föld haszonbérbe adása esetén a föld területe legalább fele részének öntözhetőségét biztosító és a földdel alkotórész kapcsolatba kerülő öntözésfejlesztési beruházást végrehajtó földművest vagy mezőgazdasági termelőszervezetet, ha a haszonbérleti szerződés időtartamának legalább fele részében a végrehajtott öntözésfejlesztési beruházás a számvitelről szóló törvény rendelkezései szerint még értékkel bír.”
-
-22. § Hatályát veszti a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 26. §-a.
+22. §
 
 23. § E törvény 12. §-a az Alaptörvény 38. cikk (1) bekezdése alapján, 21. §-a az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.

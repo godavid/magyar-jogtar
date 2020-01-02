@@ -164,7 +164,7 @@ a következő törvényt alkotja:
 
 #### 6/B. A Nemzeti Tudománypolitikai Tanács működése
 
-10/C. § Az NTT működésével kapcsolatos titkársági feladatokat az NKFI Hivatal látja el tudománypolitika koordinációjáért felelős miniszter szakmai felügyelete mellett.
+10/C. § Az NTT működésével kapcsolatos titkársági feladatokat a Kormány által kijelölt szerv látja el tudománypolitika koordinációjáért felelős miniszter szakmai felügyelete mellett.
 
 ### IV. Fejezet — A NEMZETI KUTATÁSI, FEJLESZTÉSI ÉS INNOVÁCIÓS ALAP
 
@@ -174,7 +174,7 @@ a következő törvényt alkotja:
 
 (2) Az NKFI Alap rendeltetése kiszámítható és biztos forrást biztosítani a kutatás-fejlesztés és a gazdaságban hasznosuló innováció ösztönzésére és támogatására, lehetővé tenni a gazdaságban és a társadalmi élet egyéb területein hasznosuló kutatás és fejlesztés erősítését, a hazai és külföldi kutatási eredmények hasznosítását, erősíteni a nemzetközi kutatás-fejlesztési és innovációs együttműködéseket, fejleszteni a kutatás-fejlesztési és innovációs infrastruktúrát és annak körébe tartozó szolgáltató tevékenységeket.
 
-(3) Az NKFI Alap kezeléséért az NKFI Hivatal a felelős. Az NKFI Alap Innovációs és Kutatási Alaprészből áll.
+(3) Az NKFI Alap kezeléséért a tudománypolitika koordinációjáért felelős miniszter felelős, az NKFI Alap kezelő szerve a Kormány által kijelölt szerv. Az NKFI Alap Innovációs és Kutatási Alaprészből áll.
 
 #### 8. Az NKFI Alap bevételi forrásai és kiadásai
 

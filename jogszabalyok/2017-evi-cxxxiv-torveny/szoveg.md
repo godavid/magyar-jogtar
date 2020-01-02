@@ -4,127 +4,237 @@ a belügyi feladatokat érintő és más kapcsolódó törvények módosításá
 
 #### 1. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-1. §
+#### 1. §
 
 #### 2. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
-2. §
+#### 2. §
 
 #### 3. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
 3. § (1)–(2)
 
-(3) A Kvt. a következő 64/C. §-sal egészül ki:
-
-„64/C. § A környezetvédelmi, valamint a vízvédelmi hatóság a jogszabályban meghatározott feladatai ellátása céljából jogosult a vízgazdálkodásról szóló törvényben meghatározott VIZEK rendszer, valamint annak alrendszerei adataihoz való közvetlen hozzáférésre és azok kezelésére.”
+(3)
 
 (4)–(5)
 
 #### 4. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-4. §
+#### 4. §
 
-5. § A Vgtv. 15/A. §-a a következő (3)–(5) bekezdéssel egészül ki:
+#### 5. §
 
-„(3) A vízjogi engedéllyel rendelkező vízhasználó a vízkészletjárulék mértékének kiszámítását, bevallását és befizetését elektronikusan teljesítheti.
+#### 6. §
 
-(4) A vízkészletjárulék fizetési kötelezettség fennállásának ellenőrzése és mértékének meghatározása érdekében az illetékes vízügyi hatóság jogosult hozzáférni a vízhasználók minden vízhasználatára vonatkozó adatához az e-vízikönyvi hatósági közhiteles nyilvántartásból.
-
-(5) A vízhasználók által bevallott, a vízkészletjárulék alapjául szolgáló tényleges vízhasználatra vonatkozó adatokhoz a vízügyi igazgatási szervek jogosultak hozzáférni a vízkészlet-gazdálkodási faladataik ellátása céljából.”
-
-6. §
-
-7. §
+#### 7. §
 
 8. § (1)–(2)
 
-9–11. §
+#### 9. §
+
+#### 10. §
+
+#### 11. §
 
 #### 5. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-12. §
+#### 12. §
 
 #### 6. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 
-13. §
+#### 13. §
 
 #### 7. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-14. §
+#### 14. §
 
 #### 8. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
 
-15–18. §
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
 
 #### 9. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-19. § A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 31. §-a helyébe a következő rendelkezés lép:
-
-„31. § (1) Jogszabály eltérő rendelkezése hiányában az e törvény hatálya alá tartozó intézkedések országos földterület-azonosítási rendszere a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR). A MePAR közhiteles hatósági nyilvántartásnak minősül. A MePAR adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot – ideértve a tárolt adatok karbantartását is – az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
-
-(2) A MePAR blokkhatár fedvényhez és annak részeként a blokkazonosítóhoz, a Natura 2000 Területek, Nitrátérzékeny Területek, Magas Természeti Értékű Területek és Érzékeny Természeti Területek tematikus fedvényekhez, továbbá a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet
-
-a) a vízgazdálkodásról szóló törvényben meghatározott VIZEK rendszer kormányrendeletben kijelölt üzemeltetője a VIZEK rendszer üzemeltetési feladataival összefüggő feladatai ellátása és a VIZEK rendszerben való vagyonkezelői hozzájárulások biztosítása érdekében,
-
-b) a vízügyi igazgatási szerv a vagyongazdálkodás, a nagyvízi meder és a parti sáv kezelésével összefüggő feladatai ellátása érdekében.
-
-(3) A MePAR Vízvédelmi Sávok, Vásárhelyi Terv Területei, Árvíz Járta Területek, Aszály Érzékeny Területek, Belvízzel Veszélyeztetett Területek, Nitrátérzékeny Területek, VP vízvédelmi célú nem termelő beruházások programhoz kapcsolódó fedvényekhez, továbbá a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet a vízügyi és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében.”
+#### 19. §
 
 #### 10. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-20. §
+#### 20. §
 
-#### 11. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló2011. évi CXXVIII. törvény módosítása
+#### 11. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló
 
-21. §
+2011. évi CXXVIII. törvény módosítása
+
+#### 21. §
 
 #### 12. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-22. §
+#### 22. §
 
 #### 13. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-23–27. §
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
 
 #### 14. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-28–37. §
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
 
 #### 15. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-38. §
+#### 38. §
 
 #### 16. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
-39–40. §
+#### 39. §
+
+#### 40. §
 
 #### 17. A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény módosítása
 
-41–45. §
+#### 41. §
 
-#### 18. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló2013. évi L. törvény módosítása
+#### 42. §
 
-46. §
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 18. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló
+
+2013. évi L. törvény módosítása
+
+#### 46. §
 
 #### 19. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
-47–48. §
+#### 47. §
+
+#### 48. §
 
 #### 20. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
-49. §
+#### 49. §
 
 #### 21. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-50–78. §
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 62. §
+
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
 
 #### 22. A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény módosítása
 
-79–82. §
+#### 79. §
 
-#### 23. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló2015. évi CCXXII. törvény módosítása
+#### 80. §
 
-83–89. §
+#### 81. §
+
+#### 82. §
+
+#### 23. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló
+
+2015. évi CCXXII. törvény módosítása
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
 
 #### 24. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosításáról szóló 2016. évi XLI. törvény módosítása
 
@@ -134,7 +244,7 @@ b) a vízügyi igazgatási szerv a vagyongazdálkodás, a nagyvízi meder és a 
 
 #### 25. A hivatalos statisztikáról szóló 2016. évi CLV. törvény módosítása
 
-91. §
+#### 91. §
 
 #### 26. Az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvény módosítása
 
@@ -294,9 +404,9 @@ b) a vízkivételt biztosító vízilétesítmények engedélyezési eljárása 
 
 (2) A helyi vízgazdálkodási hatósági jogkörben eljáró hatóság a vízilétesítményekről nyilvántartást vezet.
 
-33/A. § A vízügyi hatóság jogosult – a természeti és a környezeti veszélyeztetettség megelőzése (így a nagyvízi meder vízszállító képességének megőrzése, az árvizek levezetésének biztosítása) érdekében – a nagyvízi mederben telekalakítási, illetve építési tilalmat elrendelni.”
+33/A. § A vízügyi hatóság jogosult – a természeti és a környezeti veszélyeztetettség megelőzése (így a nagyvízi meder vízszállító képességének megőrzése, az árvizek levezetésének biztosítása) érdekében – a nagyvízi mederben telekalakítási, illetve építési tilalmat elrendelni.
 
-27. Záró rendelkezések
+27. Záró rendelkezések”
 
 93. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – 2017. december 1-jén lép hatályba.
 

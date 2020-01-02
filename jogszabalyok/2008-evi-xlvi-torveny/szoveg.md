@@ -321,7 +321,7 @@ az e törvény végrehajtására kiadott jogszabály szerint, írásbeli szerző
 
 (5a) Az állatok jelölésére felhasznált jelölő- és behelyezőeszközök, valamint ENAR-bizonylatok megrendelésével kapcsolatos ügyintézést az állattartó elektronikus úton teljesíti az élelmiszerlánc-felügyeleti szerv felé.
 
-(5b) A sertés tartásával és szállításával összefüggő valamennyi bejelentési kötelezettségét az állattartó elektronikus úton teljesíti az élelmiszerlánc-felügyeleti szerv felé.
+(5b) A sertés tartásával és szállításával összefüggő valamennyi bejelentési kötelezettségét az állattartónak a tartási helyek és tenyészetek összerendeléséről történő értesítést követő három hónap elteltét követően elektronikus úton kell teljesítenie az élelmiszerlánc-felügyeleti szerv felé.
 
 (6) A méhész köteles a méhállományok tartásának helyét, vándoroltatását nyilvántartásba vétel céljából az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint bejelenteni a letelepedés helye szerint illetékes élelmiszerlánc-felügyeleti szervnél.
 

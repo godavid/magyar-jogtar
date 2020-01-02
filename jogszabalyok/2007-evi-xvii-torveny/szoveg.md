@@ -703,6 +703,19 @@ eljárhat.
 
 (3) A MePAR Vízvédelmi Sávok, Vásárhelyi Terv Területei, Árvíz Járta Területek, Aszály Érzékeny Területek, Belvízzel Veszélyeztetett Területek, Nitrátérzékeny Területek, VP vízvédelmi célú nem termelő beruházások programhoz kapcsolódó fedvényekhez, továbbá a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet a vízügyi és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében.
 
+(4) A területrendezésért, a településfejlesztésért és településrendezésért, valamint a kulturális örökség védelméért felelős miniszter a területrendezési, a településfejlesztési és településrendezési, valamint a kulturális örökségvédelmi és világörökségi feladataival összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a Mezőgazdasági Parcella Azonosító Rendszernek a területrendezési és településrendezési, valamint a kulturális örökségvédelmi és világörökségi feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz.
+
+(5) A megyei önkormányzat a megyei területrendezési terv készítése érdekében a Mezőgazdasági Parcella Azonosító Rendszernek a területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
+
+(6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési eszköz, a településfejlesztési koncepció, az integrált településfejlesztési stratégia készítése és a településképi követelmények meghatározása érdekében az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
+
+(7) A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
+
+- a) az épített környezet alakításáról és védelméről szóló törvény szerinti Országos Építésügyi Nyilvántartás, a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer, valamint a kulturális örökség védelméről szóló törvény szerinti központi, közhiteles nyilvántartás működtetéséhez szükséges Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz, és
+- b) a területfejlesztési és területrendezési feladatainak ellátása érdekében a Mezőgazdasági Parcella Azonosító Rendszernek a területfejlesztési és területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, valamint a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz
+
+térítésmentesen hozzáférhet.
+
 ### Intervenciós raktárregiszter
 
 31/A. § (1) Az intervenciós raktárregiszter országos adatbázis, amely az intervenciós termékek raktározásához, megőrzéséhez, szállításához vagy átadásához kapcsolódó műveletek elvégzése érdekében biztosítja a raktározási helyszínek és raktárépítmények egyedi beazonosíthatóságát.

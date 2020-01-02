@@ -319,9 +319,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 32. §
 
-33. § A Kkt. 18. § (13) bekezdése helyébe a következő rendelkezés lép:
-
-„(13) A közúti járművezetők és a közúti közlekedési szakemberek képesítésmegszerzési kötelezettségéhez kapcsolódó elméleti és gyakorlati vizsgák sikeres teljesítéséről a közúti járművezetők részére a vizsgaigazolást, illetve a közúti közlekedési szakemberek részére a képesítés megszerzését igazoló okmányt a vizsgaközpont adja ki.”
+33. §
 
 34. § (1)
 
@@ -357,11 +355,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 46. §
 
-47. § Az Lt. 61. § (5a) és (5b) bekezdése helyébe a következő rendelkezés lép:
-
-„(5a) A 61/A. § (3) bekezdés m) pontjában kijelölt költségalap-kezelőnek (a továbbiakban: költségalap-kezelő) az (5) bekezdésben meghatározott összeget negyedéves egyenlő részletekben, a negyedévet követő hónap tizenötödik napjáig kell forintban átutalni a felügyeleti hatóság számlájára. A magyar légtérhez kapcsolódó költségalap-elszámolás biztosítása érdekében a felügyeleti hatóság köteles a felmerült költségekről a tárgyévet követő év február 15-ig kimutatást készíteni és azt megküldeni a költségalap-kezelő részére.
-
-(5b) A tárgyévre fizetett összeg és a tárgyévben ténylegesen felmerült költségek közötti eltérés esetén a különbözetet a tárgyévet követő második év díjfizetése során kell a felügyeleti hatóságnak és a költségalap-kezelőnek rendezni azzal, hogy az adott évre az (5) bekezdés alapján meghatározott összeg mértékét a különbözet összegével módosítani kell.”
+47. §
 
 48. §
 
@@ -378,11 +372,11 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - g)
 - h)
 - i)
-- j) 61. § (5) bekezdésében az „a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerének létrehozásáról szóló, 2013. május 3-i 390/2013/EU bizottsági végrehajtási rendelet” szövegrész helyébe az „az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendelet” szöveg,
-- k) 67. § (9) bekezdésében az „az utasonként 50 forint – de maximum évi 500 millió forint –” szövegrész helyébe az „az utasonként 150 forint – de maximum évi 1 milliárd 500 millió forint” szöveg, és a „2012-től” szövegrész helyébe a „2020-tól” szöveg,
+- j)
+- k)
 - l)
 - m)
-- n) 74/A. § (1) bekezdés v) pontjában az „a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló, 2013. május 3-i 391/2013/EU bizottsági végrehajtási rendelet” szövegrész helyébe az „az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendelet” szöveg
+- n)
 
 lép.
 
@@ -450,11 +444,7 @@ szöveg lép.
 
 74. § (1)
 
-(2) A Kknyt. 14. § (2) bekezdés h) pontja a következő hc) alponttal egészül ki:
-
-(A nyilvántartót értesíti a vizsgaközpont elektronikusan)
-
-„hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről.”
+(2)
 
 75. §
 
@@ -466,7 +456,7 @@ szöveg lép.
 
 - a)
 - b)
-- c) 14. § (2) bekezdés e) pont ed) alpontja.
+- c)
 
 #### 20. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
@@ -518,7 +508,7 @@ szöveg lép.
 
 #### 25. A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény módosítása
 
-97. § Hatályát veszti a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 12/A. §-a.
+97. §
 
 #### 26. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
@@ -549,7 +539,7 @@ szöveg lép.
 110. § Hatályát veszti a Vtv.
 
 - a)
-- b) 79/F. § (1a) bekezdése.
+- b)
 
 #### 27. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 

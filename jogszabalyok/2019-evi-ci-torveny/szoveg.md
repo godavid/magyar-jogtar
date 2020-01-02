@@ -50,23 +50,7 @@ egyes energetikai tárgyú törvények jogharmonizációs célú módosításár
 
 #### 5. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-20. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 3. §-a a következő 43a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„43a. Leolvasás: a fogyasztásmérő-berendezés mérési adatainak a felhasználási helyen hálózati engedélyes által végzett leolvasása, az arra alkalmas fogyasztásmérő-berendezés mérési adatainak hálózati engedélyes általi távlehívása, valamint a fogyasztásmérő-berendezés mérési adatainak a felhasználó részére biztosított applikációval történő rögzítése;”
-
-(2) A Vet. 3. §-a a következő 48a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„48a. Okosmérő: olyan fogyasztásmérő-berendezés, amely képes a villamosenergia-fogyasztás és a villamosenergia-hálózatba táplált villamos energia mennyiségét mérni, a mérési adatokat tárolni, valamint elektronikus távkommunikáció útján a mért adatokat továbbítani és távoli utasításokat fogadni tájékoztatás, vezérlés, figyelemmel kísérés és ellenőrzés céljából;”
-
-(3) A Vet. 3. §-a a következő 49b. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„49b. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők villamos energiára vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik;”
+20. §
 
 21. §
 
@@ -78,23 +62,13 @@ egyes energetikai tárgyú törvények jogharmonizációs célú módosításár
 
 25. §
 
-26. § A Vet. VI. Fejezete a következő 45. §-sal egészül ki:
-
-„45. § (1) A hálózati engedélyes új felhasználási helyen történő új csatlakozás esetén a Vhr.-ben meghatározott esetekben az adott felhasználási helyen okosmérőt szerel fel.
-
-(2) A villamosenergia-kereskedő a felhasználó részére legalább egy, több zónaidős és rugalmas árszabást is biztosít.”
+26. §
 
 27. §
 
 28. §
 
-29. § A Vet. XV. Fejezete a következő 139/A. §-sal egészül ki:
-
-„139/A. § (1) A 2019/941/EU európai parlamenti és tanácsi rendelet előírásai tekintetében illetékes hatóságként – a (2) bekezdés szerinti kivétellel – a miniszter jár el.
-
-(2) A 2019/941/EU európai parlamenti és tanácsi rendelet 4. cikke, 6. cikke, 7. cikk (1) és (2) bekezdése, 10. cikke, 12. cikk (3) bekezdése, 13. cikke, valamint 17. cikke szerinti feladatokat a Hivatal látja el.
-
-(3) A Hivatal szakmai javaslatot tesz az (1) bekezdés szerinti feladatokhoz kapcsolódóan a miniszter számára.”
+29. §
 
 30. §
 
@@ -106,19 +80,9 @@ egyes energetikai tárgyú törvények jogharmonizációs célú módosításár
 
 34. §
 
-35. § A Vet. 170. § (1) bekezdése a következő 35. ponttal egészül ki:
+35. §
 
-(Felhatalmazást kap a Kormány, hogy)
-
-„35. az okosmérőkre, azok felszerelésére, az engedélyesek és a felhasználók jogaira és kötelezettségeire, valamint az adatkezeléssel és adatfeldolgozással kapcsolatos előírásokra vonatkozó szabályokat,”
-
-(rendeletben állapítsa meg.)
-
-36. § A Vet. a következő 178/A. §-sal egészül ki:
-
-„178/A. § (1) A hálózati engedélyes a Vhr.-ben meghatározott határidőig és a Vhr.-ben meghatározott esetekben a fogyasztásmérő-berendezést okosmérőre cseréli.
-
-(2) Az okosmérő (1) bekezdés szerinti felszereléséhez, üzemeltetéséhez és adatainak továbbításához szükséges mérőhely-átalakítás költsége a hálózati engedélyest terheli.”
+36. §
 
 37. §
 
@@ -130,17 +94,9 @@ egyes energetikai tárgyú törvények jogharmonizációs célú módosításár
 
 40. § (1)
 
-(2) A Get. 3. §-a a következő 9b. ponttal egészül ki:
+(2)
 
-(E törvény alkalmazásában:)
-
-„9b. Egyensúlyozási elszámolás: az elszámolóház által a rendszerhasználók gáznapi kereskedelmi egyensúlytalansága következtében a 312/2014/EU bizottsági rendelet alapján a szállítási rendszerüzemeltető által végzett egyensúlyozási tevékenység pénzügyi elszámolása.”
-
-(3) A Get. 3. §-a a következő 14a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„14a. Elszámolóház: a szállítási rendszerüzemeltető által kiírt pályázaton nyertes központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet (szakosított hitelintézet, illetve annak a teljesítés során közreműködő kapcsolt vállalkozása), amely az egyensúlyozási elszámolást, valamint a Kereskedési Platformon kötött ügyletek anonim elszámolását végzi, valamint az ügyletek klíringjével és garantálásával kapcsolatos szolgáltatásokat nyújt.”
+(3)
 
 (4)
 
@@ -178,15 +134,9 @@ egyes energetikai tárgyú törvények jogharmonizációs célú módosításár
 
 49. §
 
-50. § A Get. 91. §-a a következő (1b) bekezdéssel egészül ki:
+50. §
 
-„(1b) A kereskedelmi egyensúly szállítási rendszerüzemeltető részéről történő helyreállítása következtében szükséges egyensúlyozási elszámolást a szállítási rendszerüzemeltető által rendelkezésre bocsátott adatok alapján az elszámolóház végzi a rendszerhasználók és a szállítási rendszerüzemeltető kötelező elszámolóházi klíringtagsága mellett és az elszámolóházzal e tárgyban kötött szerződésük szerint.”
-
-51. § A Get. 93. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A szállítási rendszerüzemeltető rendszeregyensúlyozási feladatai a következők:)
-
-„b) a hidraulikai egyensúly biztosítása érdekében a napi operatív beavatkozások végrehajtása, a felhasznált kiegyensúlyozó földgáz mennyiségi elszámolása és a kiegyensúlyozó földgáz díjának meghatározása,”
+51. §
 
 52. §
 
@@ -242,11 +192,11 @@ egyes energetikai tárgyú törvények jogharmonizációs célú módosításár
 
 71. § (1)
 
-(2) A Kt. 2. melléklete a 3. melléklet szerint módosul.
+(2)
 
 72. §
 
-73. § Hatályát veszti a Kt. 41. § (1) bekezdés b) pontja.
+73. §
 
 #### 9. Az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény módosítása
 
@@ -310,44 +260,3 @@ való megfelelést szolgálja.
 ### 2. melléklet a 2019. évi CI. törvényhez
 
 ### 3. melléklet a 2019. évi CI. törvényhez
-
-1. A Kt. 2. melléklet 1. pontja helyébe a következő rendelkezés lép:
-
-„1. Biztonsági kőolajkészlet a következő nyersolajból és kőolajtermékekből képezhető:
-
-|  |  | A | B |
-| --- | --- | --- | --- |
-|  | 1 | Készletezett anyag | Kombinált nomenklatúra 2012 |
-|  | 2 | Nyersolaj | 27090090 |
-|  | 3 | Motorbenzin | 27101231-27101270 |
-|  | 4 | Motorikus gázolaj/dízelolaj | 27101943-27101948, 27102011-27102019 |
-|  | 5 | Háztartási és egyéb tüzelőolaj |
-|  | 6 | Fűtőolaj – alacsony kéntartalmú (1%-nál alacsonyabb) | 27101962-27101964, 27102031-27102035 |
-|  | 7 | Fűtőolaj – magas kéntartalmú (1%-nál magasabb) | 27101968, 27102039 |
-|  | 8 | Kerozin típusú sugárhajtómű üzemanyag | 27101921 |
-
-”
-
-2. A Kt. 2. melléklet 2. pontja helyébe a következő rendelkezés lép:
-
-„2. A biztonsági kőolajkészlet szintjét a következőképpen kell meghatározni:
-
-A = [a×0,96+(b+c+d+e+f+g)×1,2]×0,9
-
-ahol,
-
-2.1. A = a biztonsági kőolajkészlet nagysága kőolaj-egyenértékben;
-
-2.2. a = a tárolt nyersolaj mennyisége tonna mértékegységben;
-
-2.3. b = a tárolt motorbenzin mennyisége tonna mértékegységben;
-
-2.4. c = a tárolt motorikus gázolaj/dízelolaj mennyisége tonna mértékegységben;
-
-2.5. d = a tárolt háztartási és egyéb tüzelőolaj mennyisége tonna mértékegységben;
-
-2.6. e = a tárolt alacsony kéntartalmú fűtőolaj mennyisége tonna mértékegységben;
-
-2.7. f = a tárolt magas kéntartalmú fűtőolaj mennyisége tonna mértékegységben;
-
-2.8. g = a tárolt kerozin típusú sugárhajtómű üzemanyag mennyisége tonna mértékegységben.”
