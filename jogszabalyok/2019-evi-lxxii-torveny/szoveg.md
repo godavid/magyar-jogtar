@@ -156,19 +156,11 @@ az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizác
 
 #### 7. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-54. § A helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) 42/D. §-a a következő (4)–(6) bekezdéssel egészül ki:
-
-„(4) A sportvállalkozás az adóbevallást kizárólag az (1) bekezdés szerint nyújthatja be.
-
-(5) Az állami adóhatóság a sportvállalkozás által a (4) bekezdés szerint benyújtott adóbevallás (2) bekezdés szerinti továbbítását megelőzően az adóbevallásban feltüntetett adatokat nyilvántartásba veszi.
-
-(6) Ha a sportvállalkozás adóbevallásában tett nyilatkozata alapján az 52. § 22. pont i) alpontja szerinti nettó árbevétel csökkentés miatti adócsökkenés az 53. § (2) bekezdés b) pontja szerinti támogatásnak minősül és annak összege meghaladja az ötszázezer eurónak megfelelő forintösszeget, az állami adóhatóság a támogatás igénybevételéről adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az adózás rendjéről szóló törvény szerinti tartalommal és határidőben.”
+54. §
 
 55. §
 
-56. § A Htv. Harmadik rész VI. Fejezete a következő 51/G. §-sal egészül ki:
-
-„51/G. § Az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel beiktatott 42/D. § (4) bekezdést a hatálybalépését magában foglaló adóévi helyi iparűzési adókötelezettség teljesítése során is alkalmazni kell.”
+56. §
 
 ### IV. Fejezet — ILLETÉKEK
 
