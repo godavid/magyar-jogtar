@@ -263,6 +263,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 - 109. teljes hiteldíj mutató: a fogyasztónak nyújtott hitelről szóló törvényben meghatározott fogalom;
 - 110. teljesítményjavadalmazás: a javadalmazás azon része, amelyet a hitelintézet az alapjavadalmazáson felül biztosíthat a vezető állású személynek és a munkavállalónak, ha az a munkaszerződésben meghatározottakat meghaladó teljesítményt nyújt vagy abban nem rögzített feladatokat lát el;
 - 111. teljes kockázati kitettség: az 575/2013/EU rendeletben ekként alkalmazott fogalom;
+- 111a. tényleges tulajdonos: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben (a továbbiakban: Pmt.) ekként meghatározott fogalom;
 - 112. tőkeáttétel: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 113. tőkefenntartási pufferkövetelmény: a hitelintézet veszteségviselő képességének növelése érdekében kötelezően fenntartandó szavatolótőke-követelmény;
 - 114. túlzott tőkeáttétel kockázata: az 575/2013/EU rendeletben ekként meghatározott fogalom;
@@ -1389,7 +1390,7 @@ rendelkezik.
 
 75. § (1) A pénzváltás közvetítésére csak kiemelt közvetítő kaphat engedélyt.
 
-(2) Pénzváltási tevékenységet végzőnél vezető állású személyként nem nevezhető ki, illetve vezető állású személynek nem választható meg, pénzváltási tevékenységet közvetlenül nem irányíthat, illetve ilyen tevékenységet közvetlenül nem végezhet az,
+(2) Pénzváltási tevékenységet közvetítő vezető állású személyének nem nevezhető ki, illetve vezető állású személynek nem választható meg, pénzváltási tevékenységet közvetlenül nem irányíthat, illetve ilyen tevékenységet közvetlenül nem végezhet az,
 
 - a) akit
   - aa) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősítésű adattal bűncselekmény, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, a XV. fejezet VII. címében meghatározott közélet tisztasága elleni bűncselekmény, bűnszervezetben részvétel, önbíráskodás, a XVI. fejezet III. címében meghatározott közbizalom elleni bűncselekmény, a XVII. fejezetben meghatározott gazdasági bűncselekmény, a XVIII. fejezetben meghatározott vagyon elleni bűncselekmény elkövetése miatt elítéltek,
@@ -1399,6 +1400,8 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 
 - b) aki e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll, és
 - c) akivel szemben az a) pontban meghatározott bűncselekmények bármelyike miatt büntetőeljárás van folyamatban, a büntetőeljárás befejezéséig.
+
+(2a) Pénzváltási tevékenységet közvetítő tényleges tulajdonosa nem lehet olyan személy, akivel szemben teljesül a (2) bekezdés a) vagy c) pontjában foglalt feltétel. Ha a pénzváltási tevékenységet végző tényleges tulajdona megszerzésének feltételei már nem állnak fenn, a Felügyelet a jogellenes állapot megszüntetéséig vagy megszűnéséig a tag szavazati jogának gyakorlását felfüggeszti.
 
 (3) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt a (2) bekezdésben meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás végleges befejezéséig kezelheti.
 
@@ -2831,7 +2834,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve
 - b)
 - c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 13. § (1) bekezdése alapján szolgáltat adatot,
 - d) a pénzügyi intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget,
-- e) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) szerinti bejelentési kötelezettségét, valamint csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettségét teljesíti,
+- e) a pénzügyi intézmény a Pmt. szerinti bejelentési kötelezettségét, valamint csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettségét teljesíti,
 - f) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – harmadik ország bűnüldöző szerve esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől, vagy
 - g) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől.
 
@@ -4728,7 +4731,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 285. § (1) Elektronikus pénzt kibocsátó hitelintézet a tevékenység végzése során alkalmazza az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 66. §-át.
 
-(2) Az (1) bekezdés szerinti tevékenységre irányuló szerződést nem szükséges írásban megkötni abban az esetben, ha a kibocsátandó elektronikus pénz összege a Pmt. 15. § (2) bekezdése szerinti összeghatároknak megfelel.
+(2) Az (1) bekezdés szerinti tevékenységre irányuló szerződést nem szükséges írásban megkötni abban az esetben, ha a kibocsátandó elektronikus pénz összege a Pmt. 24/A. § (1) bekezdése szerinti összeghatároknak megfelel.
 
 #### 124. Bankszünnap
 
@@ -5096,7 +5099,8 @@ A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát
   - j) a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvnek,
   - k) az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek
   - l) a belső piaci pénzforgalmi szolgáltatásokról és a 2002/65/EK, a 2009/110/EK és a 2013/36/EU irányelv és a 1093/2010/EU rendelet módosításáról, valamint a 2007/64/EK irányelv hatályon kívül helyezéséről szóló 2015. november 25-i (EU) 2015/2366 európai parlamenti és tanácsi irányelvnek,
-  - m) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+  - m) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelvnek,
+  - n) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 - 2. Ez a törvény a 185. § (1) bekezdésében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (6) bekezdés f) pontjának végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában.
 - 3. Ez a törvény a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
