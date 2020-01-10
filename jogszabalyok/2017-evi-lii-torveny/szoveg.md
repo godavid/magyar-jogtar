@@ -311,7 +311,10 @@ rendeletben jelölje ki.
 - 53. a tunéziai helyzetre tekintettel egyes személyekkel, szervezetekkel és szervekkel szemben hozott korlátozó intézkedésekről szóló 2011. február 4-i 101/2011/EU tanácsi rendelet 1–10. és 15. cikkének,
 - 54. a tunéziai helyzetre tekintettel egyes személyekkel, szervezetekkel és szervekkel szemben hozott korlátozó intézkedésekről szóló 101/2011/EU rendelet módosításáról szóló 2012. november 26-i 1100/2012/EU tanácsi rendelet 1. cikkének,
 - 55. a jemeni helyzetre tekintettel hozott korlátozó intézkedésekről szóló 2014. december 18-i 1352/2014/EU tanácsi rendelet 1–2., 4–13. és 18. cikkének,
-- 56. egyes, Zimbabwéval szembeni korlátozó intézkedésekről szóló 2004. február 19-i 314/2004/EK tanácsi rendelet 1., 6–9., 10. és 13. cikkének
+- 56. egyes, Zimbabwéval szembeni korlátozó intézkedésekről szóló 2004. február 19-i 314/2004/EK tanácsi rendelet 1., 6–9., 10. és 13. cikkének,
+- 57. a venezuelai helyzetre tekintettel hozott korlátozó intézkedésekről szóló 2017. november 13-i 2017/2063/EU tanácsi rendelet 1. és 8–15. cikkének,
+- 58. a vegyi fegyverek elterjedése és használata elleni korlátozó intézkedésekről szóló 2018. október 15-i 2018/1542/EU tanácsi rendelet 1–8. és 10. cikkének,
+- 59. az Uniót vagy annak tagállamait fenyegető kibertámadások elleni korlátozó intézkedésekről szóló 2019. május 17-i 2019/796/EU tanácsi rendelet 1–7., 9. és 11. cikkének
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
