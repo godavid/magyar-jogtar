@@ -80,6 +80,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 - 42. Építésügyi műszaki irányelv: jogszabály vagy európai vagy nemzeti szabvány által nem vagy nem teljeskörűen szabályozott területen, ismételt vagy folyamatos alkalmazás céljára, széles körű szakmai összefogással és állami felügyelet mellett létrehozott, magyar nyelven kiadott, mindenki számára hozzáférhető építésügyi műszaki előírás.
 - 43. Barnamezős terület: olyan földrészlet vagy földrészletek összessége – ide nem értve a mező- és erdőgazdasági területeket –, amely elsősorban ipari, kereskedelmi, közlekedési vagy honvédelmi célú felhasználást követően felhagyottá, alulhasznosítottá vagy leromlott állapotúvá vált, jellemzően környezetszennyezéssel terhelt, ugyanakkor környezeti és műszaki beavatkozással értéknövelt, fejleszthető területté alakítható.
+- 44. vasúti telekalakítás: a vasúti közlekedésről szóló törvényben meghatározott eljárás.
 
 ### Általános követelmények
 
@@ -483,7 +484,8 @@ kivételével más építési munkát végezni nem szabad.
 - a) telekcsoport újraosztása (2. § 22. pont),
 - b) telekfelosztás (2. § 24. pont),
 - c) telekegyesítés (2. § 23. pont), és
-- d) telekhatárrendezés (2. § 25. pont).
+- d) telekhatárrendezés (2. § 25. pont),
+- e) vasúti telekalakítás (2. § 44. pont)
 
 (2) Új beépítésre szánt, vagy jelentős mértékben átépítésre kerülő (pl. rehabilitációs) területek esetében a területre vonatkozó helyi építési szabályzat elfogadása után a beépíthetőség feltételeként a telkeket az előírásoknak megfelelő építési telekké, telekké kell alakítani az érintett telekcsoport – legalább telektömbönként történő – újraosztásával
 
