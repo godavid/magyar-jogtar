@@ -63,7 +63,7 @@ az ingatlan-nyilvántartásról
 
 (2) A ranghely előzetes biztosításának, a ranghely fenntartásának ténye a jogosultak kérelme alapján az ingatlan-nyilvántartás tulajdoni lapján legfeljebb egyévi időtartamra, a törvényben meghatározott módon feljegyezhető.
 
-(3)
+(3) Állami tulajdonban álló, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító törvényben vagy kormányrendeletben meghatározott beruházással érintett ingatlan tekintetében a vagyonkezelői jog bejegyzése, módosítása vagy törlése tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
 
 (4) A földmérési és térképészeti tevékenységről szóló törvény szerinti felmérési, térképezési és területszámítási hiba kijavítása tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
 
@@ -1224,6 +1224,8 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 92. § Az egyes agrár tárgyú törvények módosításáról szóló 2012. évi CCXIII. törvény (a továbbiakban: 2. sz. Módtv.) 38. § a) pontjával módosított 15. § (1) bekezdés szerinti állampolgársági adat, valamint a 38. § b) pontjával módosított 15. § (1) bekezdés szerinti cégjegyzékszám nyilvántartására vonatkozó rendelkezéseket a 2. sz. Módtv. 38. §-ának hatálybalépését követően indult ingatlan-nyilvántartási eljárások során keletkezett adatok vonatkozásában kell alkalmazni.
 
 93. § Az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvény (a továbbiakban: 3. sz. Módtv.) 34. §-ával megállapított 26. § (1a) bekezdésében foglaltakat a 3. sz. Módtv. 34. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+93/A. § E törvénynek az egyes vagyongazdálkodási tárgyú törvények módosításáról, valamint egyes vagyongazdálkodást érintő rendelkezésekről szóló 2019. évi CXIV. törvénnyel (a továbbiakban: 4. sz. Módtv.) megállapított 7. § (3) bekezdésben foglalt rendelkezéseket a 4. sz. Módtv. 11. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 94. § (1)
 
