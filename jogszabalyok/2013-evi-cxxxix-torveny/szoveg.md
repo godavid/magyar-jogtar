@@ -655,7 +655,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (31) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a kollektív befektetési vállalkozások határokon átnyúló forgalmazásának megkönnyítéséről, valamint a 345/2013/EU, a 346/2013/EU és az 1286/2014/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1156 európai parlamenti és tanácsi rendelet végrehajtását.
 
-41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
+41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását
 
 - a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008 április 23-i 2008/48/EK európai parlamenti és tanácsi irányelvet,
 - b) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló 1993. április 5-i 93/13/EGK tanácsi irányelvet,
@@ -3250,9 +3250,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatkörében és eljárásában.
 
-(3) E törvény 41. § (1) bekezdése, a 87. §-a, 88. § (1) bekezdés a)–c) pontja és a 89. §-a a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (1) és (6) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatkörében és eljárásában.
+(3) E törvény 41. § (1) bekezdése, a 87. §-a, 88. § (1) bekezdés a)–c) pontja és a 89. §-a az (EU) 2017/2394 rendelet 5. cikk (1) és 9. cikk (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatkörében és eljárásában.
 
-(4) E törvény 41. § (2) bekezdése a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló, 2006. december 22-i 2007/76/EK bizottsági határozat, valamint az azt módosító 2008. március 17-i 2008/282/EK bizottsági határozat végrehajtásához szükséges rendelkezést állapít meg az MNB feladatkörében és eljárásában.
+(4)
 
 (5) A 40. §
 

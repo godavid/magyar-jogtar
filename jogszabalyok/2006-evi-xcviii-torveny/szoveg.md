@@ -329,7 +329,7 @@ is jogosult.
 
 (6)
 
-18/B. § (1) A 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a 2001/83/EK európai parlamenti és tanácsi irányelvnek a – 2004/27/EK irányelvvel módosított – 86–100. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében
+18/B. § (1) A fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását a 2001/83/EK európai parlamenti és tanácsi irányelvnek a – 2004/27/EK irányelvvel módosított – 86–100. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében
 
 - a) a 18/A. § (1) bekezdése szerinti esetekben – a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény szerinti hatáskör-megosztásban – a fogyasztóvédelmi hatóság, illetve a Gazdasági Versenyhivatal,
 - b) a 18/A. § (2) bekezdése szerinti esetekben a fogyasztóvédelmi hatóság
@@ -1966,9 +1966,9 @@ lép hatályba.
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság, illetve a Gazdasági Versenyhivatal feladatkörében és eljárásában:
 
-- a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) bekezdés [a 18/B. § (1) bekezdés],
-- b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 18/B. § (2) bekezdés],
-- c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 18/B. § (2) bekezdés].
+- a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés.
+- b)
+- c)
 
 (3) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

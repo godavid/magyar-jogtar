@@ -473,7 +473,7 @@ köteles átadni.
 - e) a kötelezettségvállalás tartalmát közérthetően összefoglalva, valamint
 - f) az arra vonatkozó figyelemfelhívást, hogy a hatósági szerződés a Hatóságnál megtekinthető.
 
-16/F. § (1) A 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a 2000/31/EK európai parlamenti és tanácsi irányelv
+16/F. § (1) A fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását a 2000/31/EK európai parlamenti és tanácsi irányelv
 
 - a) 5., 6. és 10. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében – az Fttv.-ben meghatározottak szerint – a fogyasztóvédelmi hatóság vagy a Gazdasági Versenyhivatal,
 - b) 7. cikkét átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében a Hatóság,
@@ -528,7 +528,7 @@ látja el.
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Hatóság feladatkörében és eljárásában:
 
-- a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) és (6) bekezdés [a 16/D. § (1) bek., illetve a 16/E. § és 16/F. § (1) bek.];
+- a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés;
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 16/F. § (2) bek.];
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 16/F. § (2) bek.].
 

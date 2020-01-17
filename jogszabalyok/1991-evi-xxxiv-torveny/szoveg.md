@@ -988,7 +988,8 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 - h) a távszerencsejáték játéktervétől való, a Vhr. 43. § (2) bekezdése szerinti ideiglenes eltérésre vonatkozó kérelem esetén 200 ezer forint,
 - i) a szerencsejáték-szervezői tevékenységi engedélynek kizárólag az 1. § (5a)–(6d) bekezdésével, 29/I. § (2) és (2a) bekezdésével, 37. § 32. pontjával, és a felelős játékszervezés részletes szabályairól szóló kormányrendelettel összefüggő módosítása iránti eljárásért kérelmenként 5000 forint,
 - j) a kizárólag a távszerencsejáték és online kaszinójáték játékterve 29/F. § (5) bekezdése szerinti módosításának jóváhagyására vonatkozó eljárás esetén kérelmenként 21 000 forint,
-- k) a kizárólag a Vhr. 35/A. § (1) bekezdése szerinti közös játékosi egyenleg kialakításához szükséges játékterv módosítása iránti eljárás esetén kérelmenként 6500 forint igazgatási szolgáltatási díjat fizet.
+- k) a kizárólag a Vhr. 35/A. § (1) bekezdése szerinti közös játékosi egyenleg kialakításához szükséges játékterv módosítása iránti eljárás esetén kérelmenként 6500 forint,
+- l) a 13. § (5) bekezdés szerinti játékminősítési kérelem benyújtása esetén 42 000 forint igazgatási szolgáltatási díjat fizet.
 
 (4) Az illetékekről szóló 1990. évi XCIII. törvény
 
