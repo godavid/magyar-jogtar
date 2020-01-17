@@ -384,13 +384,35 @@ lép.
 
 #### 17. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
-52. §
+52. § (1) A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban. Tpvt.) 98. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-53. §
+(E törvény)
+
+„c) 43/H. § (12) bekezdése és XI/B. Fejezete – a Gazdasági Versenyhivatal feladatkörében és eljárásában – a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendeletnek,”
+
+(a végrehajtásához szükséges rendelkezéseket állapít meg.)
+
+(2) A Tpvt.
+
+- a) 43/H. § (12) bekezdésében a „2006/2004/EK európai parlamenti és tanácsi rendelet 8. cikke” szövegrész helyébe a „fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 12. cikke”,
+- b) XI/B. Fejezet címében az „a 2006/2004/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „az (EU) 2017/2394 rendelet”,
+- c) 80/G. § (1) bekezdésében az „a 2006/2004/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „az (EU) 2017/2394 rendelet”,
+- d) 80/H. § (1) bekezdésében „A 2006/2004/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „Az (EU) 2017/2394 rendelet”,
+- e) 80/H. § (2) bekezdésében az „a 2006/2004/EK európai parlamenti és tanácsi rendelet 6. cikke” szövegrész helyébe az „az (EU) 2017/2394 rendelet 11. cikke”,
+- f) 80/H. § (3) bekezdésében az „a 2006/2004/EK európai parlamenti és tanácsi rendelet 8. cikke” szövegrész helyébe az „az (EU) 2017/2394 rendelet 12. cikke”,
+- g) 80/H. § (4) bekezdésében az „A 2006/2004/EK európai parlamenti és tanácsi rendelet 8. cikk (4) bekezdésében meghatározott feltételek teljesülésének megállapítására, illetve feltételek nem teljesülése esetén a 8. cikk (5) bekezdése” szövegrész helyébe az „az (EU) 2017/2394 rendelet 14. cikk (2) bekezdésében meghatározott feltételek teljesülésének megállapítására, illetve feltételek nem teljesülése esetén a 14. cikk (3) bekezdése”
+
+szöveg lép.
+
+53. § Hatályát veszti a Tpvt. 98. § (3) bekezdés d) pontja.
 
 #### 18. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-54. §
+54. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. §-a a következő x) ponttal egészül ki:
+
+(E törvény alkalmazásában:)
+
+„x) online felület: a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 3. cikk 15. pontjában meghatározott fogalom.”
 
 55. §
 
@@ -416,21 +438,69 @@ lép.
 
 66. §
 
-67. §
+67. § Az Fgytv. 43/A. §-a helyébe a következő rendelkezés lép:
 
-68. §
+„43/A. § (1) A fogyasztóvédelmi hatóság látja el az (EU) 2017/2394 rendelet végrehajtását a következő irányelveket átültető tagállami jogszabályokba ütköző Európai Unión belüli jogsértések tekintetében:
 
-69. §
+a) a fogyasztói hitelre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló – a 90/88/EGK tanácsi irányelvvel, továbbá a 98/7/EK európai parlamenti és tanácsi irányelvvel módosított – 1986. december 22-i 87/102/EGK tanácsi irányelv,
+
+b) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló, 1993. április 5-i 93/13/EGK tanácsi irányelv,
+
+c) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről szóló, 1998. február 16-i 98/6/EK európai parlamenti és tanácsi irányelv,
+
+d) a fogyasztási cikkek adásvételének és a kapcsolódó jótállásnak egyes vonatkozásairól szóló, 1999. május 25-i 1999/44/EK európai parlamenti és tanácsi irányelv,
+
+e) a belső piacon az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem egyes jogi vonatkozásairól szóló, 2000. június 8-i 2000/31/EK európai parlamenti és tanácsi irányelv 5. és 10–11. cikke,
+
+f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló, 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelv – 2004/27/EK európai parlamenti és tanácsi irányelvvel módosított – 86–100. cikke,
+
+g) a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelv,
+
+h) a fogyasztók jogairól, a 93/13/EGK tanácsi irányelv és az 1999/44/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 85/577/EGK tanácsi irányelv és a 97/7/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló 2011. október 25-i 2011/83/EU európai parlamenti és tanácsi irányelv,
+
+i) a szálláshelyek időben megosztott használati jogára, a hosszú távra szóló üdülési termékekre, ezek viszontértékesítésére és cseréjére vonatkozó szerződések egyes szempontjai tekintetében a fogyasztók védelméről szóló 2009. január 14-i 2008/122/EK európai parlamenti és tanácsi irányelv,
+
+j) az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i (EU) 2015/2302 európai parlamenti és tanácsi irányelv.
+
+(2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – az (EU) 2017/2394 rendelet végrehajtását a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról és a 295/91/EGK rendelet hatályon kívül helyezéséről szóló, 2004. február 11-i 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Unión belüli jogsértések tekintetében.
+
+(3) A fogyasztóvédelmi hatóság végzi Magyarországon – összekötő hivatalként – az (EU) 2017/2394 rendelet végrehajtásának összehangolását.
+
+(4) A fogyasztóvédelmi hatóság látja el az (EU) 2017/2394 rendelet végrehajtását az (EU) 2018/302 rendeletbe ütköző Európai Unión belüli jogsértések tekintetében abban az esetben, ha a vevő az (EU) 2018/302 rendelet szerinti fogyasztónak minősül.”
+
+68. § Az Fgytv. 43/B. §-a helyébe a következő rendelkezés lép:
+
+„43/B. § Az (EU) 2017/2394 rendelet 5. cikkének (1) bekezdése, 16. cikkének (1) bekezdése, valamint 8. cikkének (1) bekezdése szerinti tájékoztatási kötelezettségek, a 17. cikk, a 26. cikk, a 29. cikk, a 30. cikk, a 37. cikk (1) és (3) bekezdése szerinti információcsere, továbbá a 39. cikk szerinti értesítési kötelezettség végrehajtásáról a fogyasztóvédelemért felelős miniszter gondoskodik.”
+
+69. § Az Fgytv. 47. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
+
+„(1a) Amennyiben nem áll rendelkezésre más hatékony eszköz az (EU) 2017/2394 rendelet hatálya alá tartozó jogsértések megszüntetésének vagy megtiltásának érvényre juttatására és a fogyasztók kollektív érdekeit érő súlyos sérelem kockázatának megelőzése érdekében, a fogyasztóvédelmi hatóság:
+
+a) elrendelheti az online felületről a tartalom eltávolítását vagy egy online felülethez való hozzáférés korlátozását, illetve elrendelheti, hogy az online felületre való belépéskor a fogyasztóknak szóló kifejezett figyelmeztetés jelenjen meg,
+
+b) elrendelheti, hogy a tárhelyszolgáltató az online felületet távolítsa el, az ahhoz való hozzáférést tiltsa le vagy korlátozza, vagy
+
+c) elrendelheti, hogy a domainszolgáltatók és domainnyilvántartók egy teljesen minősített domainnevet töröljenek és jogosult annak az engedélyezésére, hogy az érintett illetékes hatóság ilyen domainnevet nyilvántartásba vegyen,
+
+ideértve a harmadik fél vagy más hatóság felkérését ilyen intézkedések megtételére.
+
+(1b) A fogyasztóvédelmi hatóság (1a) bekezdés szerinti határozatának kötelezettje – annak határozatban történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(1c) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.”
 
 70. §
 
-71. §
+71. § Az Fgytv. 57. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság feladatkörében és eljárásában:)
+
+„a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés, 8. cikk (1) bekezdés, 9. cikk (4) bekezdés g) pont, 17. cikk, 26. cikk, 29–30. cikk, 37. cikk (1) és (3) bekezdés és 39. cikk [a 43/A.§, a 43/B.§, a 47. § (1a) és (6) bek., a 47. § (14) bek., valamint az 51. § (2)–(4) bek.];”
 
 72. § Az Fgytv.
 
 - a)
-- b)
-- c)
+- b) 47. § (14) bekezdésében az „a 2006/2004/EK európai parlamenti és tanácsi rendeletből” szövegrész helyébe az „az (EU) 2017/2394 rendeletből”,
+- c) 51/A. § (1) bekezdésében az „a 2006/2004/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „az (EU) 2017/2394 rendelet”
 
 szöveg lép.
 
@@ -438,7 +508,7 @@ szöveg lép.
 
 - a)
 - b)
-- c)
+- c) 57. § (2) bekezdés b) és c) pontja.
 
 #### 19. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
@@ -482,9 +552,13 @@ szöveg lép.
 
 #### 22. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
 
-88. §
+88. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ektv.) 18. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-89. §
+(Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Hatóság feladatkörében és eljárásában:)
+
+„a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés;”
+
+89. § Az Ektv. 16/F. § (1) bekezdésében az „A 2006/2004/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „A fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet]” szöveg lép.
 
 #### 23. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
@@ -543,11 +617,15 @@ szöveg lép.
 
 #### 27. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-111. §
+111. § A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 88. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-112. §
+(Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság, illetve a Gazdasági Versenyhivatal feladatkörében és eljárásában:)
 
-113. §
+„a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés.”
+
+112. § A Gyftv. 18/B. § (1) bekezdésében az „A 2006/2004/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „A fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet]” szöveg lép.
+
+113. § Hatályát veszti a Gyftv. 88. § (2) bekezdés b) és c) pontja.
 
 #### 28. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
@@ -559,15 +637,27 @@ szöveg lép.
 
 #### 30. A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló2008. évi XLVII. törvény módosítása
 
-116. §
+116. § A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény (a továbbiakban: Fttv.)
 
-117. §
+- a) 28. § (1) bekezdésében az „A 2006/2004/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „A fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet]”,
+- b) 56. § (3) bekezdés a) pontjában az „a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésének és melléklete 16. pontjának” szövegrész helyébe az „az (EU) 2017/2394 rendelet 5. cikk (1) bekezdésének és melléklete 9. pontjának”
+
+szöveg lép.
+
+117. § Hatályát veszti az Fttv.
+
+- a) 28. § (2) bekezdése,
+- b) 56. § (3) bekezdés b) pontja.
 
 #### 31. A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény módosítása
 
-118. §
+118. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 230. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-119. §
+(Ez a törvény a következő európai uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:)
+
+„a) az (EU) 2017/2394 rendelet,”
+
+119. § Az Mttv. 183. § (2) bekezdésében az „a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet]” szöveg lép.
 
 #### 32. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
@@ -601,9 +691,11 @@ szöveg lép.
 
 #### 34. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
-133. §
+133. § (1) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 41. § (1) bekezdésében az „a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását” szövegrész helyébe az „a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását” szöveg lép.
 
-134. §
+(2) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 186. § (3) bekezdésében az „a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet 4. cikk (1) és (6) bekezdésének” szövegrész helyébe az „az (EU) 2017/2394 rendelet 5. cikk (1) és 9. cikk (3) bekezdésének” szöveg lép.
+
+134. § Hatályát veszti a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 186. § (4) bekezdése.
 
 #### 35. A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény módosítása
 
@@ -613,11 +705,13 @@ szöveg lép.
 
 #### 36. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
-137. §
+137. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 90. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ez a törvény a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet 9. cikk (6)–(7) bekezdése végrehajtásához szükséges rendelkezéseket állapítja meg a Felügyelet eljárásában.”
 
 #### 37. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-138. §
+138. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 5. melléklete az 1. melléklet szerint módosul.
 
 #### 38. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
@@ -644,3 +738,7 @@ szöveg lép.
 148. §
 
 ### 1. melléklet a 2019. évi LXVII. törvényhez
+
+- 1. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 5. melléklet 2. pontja helyébe a következő rendelkezés lép:
+
+„2. Ez a törvény a 185. § (1) bekezdésében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet 9. cikk (6)–(7) bekezdés végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában.”

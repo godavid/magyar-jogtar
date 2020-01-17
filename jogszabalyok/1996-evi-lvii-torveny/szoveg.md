@@ -671,7 +671,7 @@ vonatkozó rendelkezéseit azzal, hogy ügyfél alatt a bejelentőt és – az a
 
 (11) A vizsgáló a bejelentéssel kapcsolatos eljárást megszünteti, ha az ügyben az Európai Bizottság az 1/2003/EK tanácsi rendelet alapján eljárást indított. A bejelentéssel kapcsolatos eljárás megszüntethető, ha az ügyben más tagállam versenyhatósága eljárást indított. Az eljárást e bekezdés alapján megszüntető végzés ellen jogorvoslatnak nincs helye.
 
-(12) Ha a vizsgáló a 2006/2004/EK európai parlamenti és tanácsi rendelet 8. cikke szerinti végrehajtás iránti megkereséssel él, erre hivatkozással a bejelentés alapján indult eljárást megszüntetheti. Az eljárást e bekezdés alapján megszüntető végzés ellen jogorvoslatnak nincs helye.
+(12) Ha a vizsgáló a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 12. cikke szerinti végrehajtás iránti megkereséssel él, erre hivatkozással a bejelentés alapján indult eljárást megszüntetheti. Az eljárást e bekezdés alapján megszüntető végzés ellen jogorvoslatnak nincs helye.
 
 43/I. § (1) A 43/H. § (1) bekezdése szerinti bejelentésnek nem minősülő beadványt a Gazdasági Versenyhivatal panaszként kezeli az e §-ban meghatározottak szerint.
 
@@ -1702,9 +1702,9 @@ hozza meg.
 
 80/F. § Ha az 1/2003/EK tanácsi rendelet alapján az Európai Bizottság, illetve más tagállam versenyhatósága vagy a 139/2004/EK tanácsi rendelet alapján az Európai Bizottság vizsgálati cselekmény foganatosítását kéri a Gazdasági Versenyhivataltól, e célból versenyfelügyeleti eljárást kell indítani. Ilyen esetben az eljárás a vizsgálónak a beszerzett bizonyítékok átadásáról és – az 1/2003/EK tanácsi rendelet 22. cikk (1) bekezdése szerinti esetben – az eljárás során felmerült, a Gazdasági Versenyhivatal által megelőlegezett költség megállapításáról szóló végzésével zárul.
 
-### XI/B. Fejezet — Eljárás a 2006/2004/EK európai parlamenti és tanácsi rendelet alkalmazása során
+### XI/B. Fejezet — Eljárás az (EU) 2017/2394 rendelet alkalmazása során
 
-80/G. § (1) A Gazdasági Versenyhivatal látja el feladatkörében a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
+80/G. § (1) A Gazdasági Versenyhivatal látja el feladatkörében az (EU) 2017/2394 rendelet végrehajtását
 
 - a) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló, 1993. április 5-i 93/13/EGK tanácsi irányelvet, valamint
 - b) a 2006/114/EK európai parlamenti és tanácsi irányelvet
@@ -1715,13 +1715,13 @@ hozza meg.
 
 (3) Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a 2006/114/EK európai parlamenti és tanácsi irányelvet átültető jogszabályi rendelkezések felsorolását.
 
-80/H. § (1) A 2006/2004/EK európai parlamenti és tanácsi rendelet alkalmazása során e törvény rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
+80/H. § (1) Az (EU) 2017/2394 rendelet alkalmazása során e törvény rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2) Ha a 2006/2004/EK európai parlamenti és tanácsi rendelet 6. cikke alapján a Gazdasági Versenyhivatalt információ beszerzése iránt keresik meg, e célból versenyfelügyeleti eljárást kell indítani. Ilyen esetben az eljárás a vizsgálónak a beszerzett információk átadásáról szóló végzésével zárul.
+(2) Ha az (EU) 2017/2394 rendelet 11. cikke alapján a Gazdasági Versenyhivatalt információ beszerzése iránt keresik meg, e célból versenyfelügyeleti eljárást kell indítani. Ilyen esetben az eljárás a vizsgálónak a beszerzett információk átadásáról szóló végzésével zárul.
 
-(3) Ha a vizsgáló vagy az eljáró versenytanács a 2006/2004/EK európai parlamenti és tanácsi rendelet 8. cikke szerinti végrehajtás iránti megkereséssel él, erre hivatkozással a versenyfelügyeleti eljárást megszüntetheti.
+(3) Ha a vizsgáló vagy az eljáró versenytanács az (EU) 2017/2394 rendelet 12. cikke szerinti végrehajtás iránti megkereséssel él, erre hivatkozással a versenyfelügyeleti eljárást megszüntetheti.
 
-(4) A 2006/2004/EK európai parlamenti és tanácsi rendelet 8. cikk (4) bekezdésében meghatározott feltételek teljesülésének megállapítására, illetve a feltételek nem teljesülése esetén a 8. cikk (5) bekezdése szerinti értesítés megtételére a vizsgáló jogosult.
+(4) az (EU) 2017/2394 rendelet 14. cikk (2) bekezdésében meghatározott feltételek teljesülésének megállapítására, illetve feltételek nem teljesülése esetén a 14. cikk (3) bekezdése szerinti értesítés megtételére a vizsgáló jogosult.
 
 ### XII. Fejezet — Jogorvoslat a Gazdasági Versenyhivatal versenyfelügyeleti eljárásában
 
@@ -2254,7 +2254,7 @@ végrehajtási eljárásokra is alkalmazni kell.
 
 - a) 1. § (2) bekezdése, 33. § (1) és (2a) bekezdése, 36. § (1) bekezdés e) pontja, 43/H. § (11) bekezdése, 80/A. § (1) bekezdése, 80/B. §-a, 80/C. §-a, 80/D. § (1)–(3) bekezdése, 80/E. §-a és 80/F. §-a a Szerződés 81. és 82. cikkében meghatározott versenyszabályok végrehajtásáról szóló, 2002. december 16-i 1/2003/EK tanácsi rendeletnek,
 - b) 36. § (1) bekezdés e) pontja, 80/A. § (2) bekezdése, 80/D. § (4)–(7) bekezdése és 80/F. §-a a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendeletnek,
-- c) 43/H. § (12) bekezdése és XI/B. Fejezete – a Gazdasági Versenyhivatal feladatkörében és eljárásában – a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendeletnek,
-- d) 80/G. § (2) bekezdése – a Gazdasági Versenyhivatal feladatkörében és eljárásában – a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló, 2006. december 22-i 2007/76/EK bizottsági határozatnak, továbbá az azt módosító, 2008. március 17-i 2008/282/EK és 2011. március 1-jei 2011/141/EU bizottsági határozatoknak
+- c) 43/H. § (12) bekezdése és XI/B. Fejezete – a Gazdasági Versenyhivatal feladatkörében és eljárásában – a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendeletnek,
+- d)
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
