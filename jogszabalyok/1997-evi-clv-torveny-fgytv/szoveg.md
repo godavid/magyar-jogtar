@@ -42,7 +42,8 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - t) belföldi fogyasztói jogvita: adásvételi vagy szolgáltatási szerződés kapcsán felmerülő olyan jogvita, amely esetében a fogyasztó a termék vagy a szolgáltatás megrendelésének időpontjában Magyarországon rendelkezik lakóhellyel vagy tartózkodási hellyel, és a vállalkozás rendelkezik Magyarországon székhellyel, telephellyel, fiókteleppel,
 - u) határon átnyúló fogyasztói jogvita: adásvételi vagy szolgáltatási szerződés kapcsán felmerülő olyan jogvita, amely esetében az érintett fogyasztó lakóhelye vagy tartózkodási helye Magyarországon található, és a vállalkozás székhelye, telephelye, letelepedési helye ettől eltérő európai uniós tagállamban van, vagy az érintett fogyasztó lakóhelye vagy tartózkodási helye más európai uniós tagállamban található, és a vállalkozás székhelye Magyarországon van,
 - v) szexuális termék: olyan birtokba vehető forgalomképes dolog, amelynek elsődleges célja a szexuális ingerkeltés, különösen amely nemi aktust vagy egyéb szexuális cselekményt nyíltan ábrázol, illetve emberi testet, testrészt szexuális ingerkeltésre alkalmas módon vagy szexuális ingerkeltés céljából ábrázol, ideértve a – rendeltetése szerint – szexuális ingerkeltésre szolgáló, nemi aktus vagy egyéb szexuális cselekmény során alkalmazható eszközt is, a fogamzásgátlás céljából alkalmazható eszköz kivételével,
-- w) dohánytermék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott fogalom.
+- w) dohánytermék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott fogalom,
+- x) online felület: a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 3. cikk 15. pontjában meghatározott fogalom.
 
 ### II. Fejezet
 
@@ -744,29 +745,26 @@ foglalt személyes adatait.
 
 ### Együttműködés az Európai Gazdasági Térség államainak fogyasztóvédelmi hatóságaival
 
-43/A. § (1) A fogyasztóvédelmi hatóság látja el a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a következő irányelveket átültető tagállami jogszabályokba ütköző Európai Unión belüli jogsértések tekintetében:
+43/A. § (1) A fogyasztóvédelmi hatóság látja el az (EU) 2017/2394 rendelet végrehajtását a következő irányelveket átültető tagállami jogszabályokba ütköző Európai Unión belüli jogsértések tekintetében:
 
-- a) az üzlethelyiségen kívül kötött szerződések esetén a fogyasztók védelméről szóló 85/577/EGK tanácsi irányelv,
-- b) a fogyasztói hitelre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló – a 90/88/EGK tanácsi irányelvvel, továbbá a 98/7/EK európai parlamenti és tanácsi irányelvvel módosított – 87/102/EGK tanácsi irányelv,
-- c) a szervezett utazási formákról szóló 90/314/EGK tanácsi irányelv,
-- d) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló 93/13/EGK tanácsi irányelv,
-- e) az ingatlanok időben megosztott használati jogának megszerzésére irányuló szerződések egyes szempontjai vonatkozásában a fogyasztók védelméről szóló 94/47/EK európai parlamenti és tanácsi irányelv,
-- f) a távollevők között kötött szerződések esetén a fogyasztók védelméről szóló – a 2002/65/EK európai parlamenti és tanácsi irányelvvel módosított – 97/7/EK európai parlamenti és tanácsi irányelv,
-- g) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről szóló 98/6/EK európai parlamenti és tanácsi irányelv,
-- h) a fogyasztási cikkek adásvételének és a kapcsolódó jótállásnak egyes vonatkozásairól szóló 1999/44/EK európai parlamenti és tanácsi irányelv,
-- i) a belső piacon az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem egyes jogi vonatkozásairól szóló 2000/31/EK európai parlamenti és tanácsi irányelv 5. és 10–11. cikke,
-- j) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelv – 2004/27/EK európai parlamenti és tanácsi irányelvvel módosított – 86–100. cikke,
-- k) a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól szóló 2005/29/EK európai parlamenti és tanácsi irányelv.
+- a) a fogyasztói hitelre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló – a 90/88/EGK tanácsi irányelvvel, továbbá a 98/7/EK európai parlamenti és tanácsi irányelvvel módosított – 1986. december 22-i 87/102/EGK tanácsi irányelv,
+- b) a fogyasztókkal kötött szerződésekben alkalmazott tisztességtelen feltételekről szóló, 1993. április 5-i 93/13/EGK tanácsi irányelv,
+- c) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről szóló, 1998. február 16-i 98/6/EK európai parlamenti és tanácsi irányelv,
+- d) a fogyasztási cikkek adásvételének és a kapcsolódó jótállásnak egyes vonatkozásairól szóló, 1999. május 25-i 1999/44/EK európai parlamenti és tanácsi irányelv,
+- e) a belső piacon az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem egyes jogi vonatkozásairól szóló, 2000. június 8-i 2000/31/EK európai parlamenti és tanácsi irányelv 5. és 10–11. cikke,
+- f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló, 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelv – 2004/27/EK európai parlamenti és tanácsi irányelvvel módosított – 86–100. cikke,
+- g) a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelv,
+- h) a fogyasztók jogairól, a 93/13/EGK tanácsi irányelv és az 1999/44/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 85/577/EGK tanácsi irányelv és a 97/7/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló 2011. október 25-i 2011/83/EU európai parlamenti és tanácsi irányelv,
+- i) a szálláshelyek időben megosztott használati jogára, a hosszú távra szóló üdülési termékekre, ezek viszontértékesítésére és cseréjére vonatkozó szerződések egyes szempontjai tekintetében a fogyasztók védelméről szóló 2009. január 14-i 2008/122/EK európai parlamenti és tanácsi irányelv,
+- j) az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i (EU) 2015/2302 európai parlamenti és tanácsi irányelv.
 
-(2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról szóló 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Unión belüli jogsértések tekintetében.
+(2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – az (EU) 2017/2394 rendelet végrehajtását a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról és a 295/91/EGK rendelet hatályon kívül helyezéséről szóló, 2004. február 11-i 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Unión belüli jogsértések tekintetében.
 
-(3) A fogyasztóvédelmi hatóság végzi Magyarországon – összekötő hivatalként – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának összehangolását.
+(3) A fogyasztóvédelmi hatóság végzi Magyarországon – összekötő hivatalként – az (EU) 2017/2394 rendelet végrehajtásának összehangolását.
 
-(4) A kölcsönös jogsegély során a fogyasztóvédelmi hatóság a – 2008/282/EK bizottsági határozattal módosított – 2007/76/EK bizottsági határozatnak megfelelően jár el.
+(4) A fogyasztóvédelmi hatóság látja el az (EU) 2017/2394 rendelet végrehajtását az (EU) 2018/302 rendeletbe ütköző Európai Unión belüli jogsértések tekintetében abban az esetben, ha a vevő az (EU) 2018/302 rendelet szerinti fogyasztónak minősül.
 
-(5) A fogyasztóvédelmi hatóság látja el a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását az (EU) 2018/302 rendeletbe ütköző Európai Unión belüli jogsértések tekintetében abban az esetben, ha a vevő az (EU) 2018/302 rendelet szerinti fogyasztónak minősül.
-
-43/B. § A 2006/2004/EK európai parlamenti és tanácsi rendelet 5. cikkének (1) bekezdése, 16. cikkének (1) bekezdése, valamint 17. cikkének (1) bekezdése szerinti értesítési kötelezettségek, továbbá a 21. cikkének (2) bekezdése szerinti jelentéstételi kötelezettség végrehajtásáról a fogyasztóvédelemért felelős miniszter gondoskodik.
+43/B. § Az (EU) 2017/2394 rendelet 5. cikkének (1) bekezdése, 16. cikkének (1) bekezdése, valamint 8. cikkének (1) bekezdése szerinti tájékoztatási kötelezettségek, a 17. cikk, a 26. cikk, a 29. cikk, a 30. cikk, a 37. cikk (1) és (3) bekezdése szerinti információcsere, továbbá a 39. cikk szerinti értesítési kötelezettség végrehajtásáról a fogyasztóvédelemért felelős miniszter gondoskodik.
 
 ### VIII. Fejezet — A helyi önkormányzatok szerepe
 
@@ -880,6 +878,16 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 - h) a 16/A. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a jogsértés megállapításától számított legfeljebb egy évig megtilthatja az alkoholtartalmú ital, a dohánytermék, illetve a szexuális termék forgalmazását, e rendelkezések ismételt megsértése esetén pedig elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc nap időtartamra történő ideiglenes bezárását,
 - i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
+(1a) Amennyiben nem áll rendelkezésre más hatékony eszköz az (EU) 2017/2394 rendelet hatálya alá tartozó jogsértések megszüntetésének vagy megtiltásának érvényre juttatására és a fogyasztók kollektív érdekeit érő súlyos sérelem kockázatának megelőzése érdekében, a fogyasztóvédelmi hatóság:
+
+- a) elrendelheti az online felületről a tartalom eltávolítását vagy egy online felülethez való hozzáférés korlátozását, illetve elrendelheti, hogy az online felületre való belépéskor a fogyasztóknak szóló kifejezett figyelmeztetés jelenjen meg,
+- b) elrendelheti, hogy a tárhelyszolgáltató az online felületet távolítsa el, az ahhoz való hozzáférést tiltsa le vagy korlátozza, vagy
+- c) elrendelheti, hogy a domainszolgáltatók és domainnyilvántartók egy teljesen minősített domainnevet töröljenek és jogosult annak az engedélyezésére, hogy az érintett illetékes hatóság ilyen domainnevet nyilvántartásba vegyen, ideértve a harmadik fél vagy más hatóság felkérését ilyen intézkedések megtételére.
+
+(1b) A fogyasztóvédelmi hatóság (1a) bekezdés szerinti határozatának kötelezettje – annak határozatban történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(1c) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+
 (2) Az (1) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a fogyasztóvédelmi hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
 
 (3) Jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg.
@@ -906,7 +914,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (13) A fogyasztóvédelmi hatóság termék vagy szolgáltatás tekintetében próbavásárlást végezhet.
 
-(14) A fogyasztóvédelmi hatóság a 2006/2004/EK európai parlamenti és tanácsi rendeletből eredő feladatainak teljesítése során, az Fgytv. 45/A (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezések megsértésének alapos gyanúja esetén jogosult a hatósági eljárás megindítása előtt a jogsértő vállalkozást előzetesen, határidő tűzésével felhívni a hibák, hiányosságok megszüntetésére. Amennyiben a vállalkozás a felhívásban foglaltakat a fogyasztóvédelmi hatóság felhívásában meghatározott határidőben nem teljesíti, a fogyasztóvédelmi hatóság lefolytatja az e törvény szerinti fogyasztóvédelmi eljárást.
+(14) A fogyasztóvédelmi hatóság az (EU) 2017/2394 rendeletből eredő feladatainak teljesítése során, az Fgytv. 45/A (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezések megsértésének alapos gyanúja esetén jogosult a hatósági eljárás megindítása előtt a jogsértő vállalkozást előzetesen, határidő tűzésével felhívni a hibák, hiányosságok megszüntetésére. Amennyiben a vállalkozás a felhívásban foglaltakat a fogyasztóvédelmi hatóság felhívásában meghatározott határidőben nem teljesíti, a fogyasztóvédelmi hatóság lefolytatja az e törvény szerinti fogyasztóvédelmi eljárást.
 
 47/A. § (1) A próbavásárláshoz a fogyasztóvédelmi hatóság közreműködő személyt vehet igénybe. A közreműködő személlyel megbízási szerződés köthető, amely alapján megbízási díjra jogosult.
 
@@ -1022,7 +1030,7 @@ terjedhet.
 
 (8) A hatóság biztosítja, hogy a honlapon közzétett hatósági döntések és bírósági határozatok között a dokumentumok szövegére, a jogorvoslati eljárás tényére és a megsértettként megjelölt jogszabályi rendelkezésre keresni lehessen.
 
-51/A. § (1) A fogyasztóvédelmi hatóság az általa a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtása keretében kötött hatósági szerződésről közleményt tesz közzé honlapján, továbbá – amennyiben szükséges –, az általa célszerűnek tartott egyéb módon.
+51/A. § (1) A fogyasztóvédelmi hatóság az általa az (EU) 2017/2394 rendelet végrehajtása keretében kötött hatósági szerződésről közleményt tesz közzé honlapján, továbbá – amennyiben szükséges –, az általa célszerűnek tartott egyéb módon.
 
 (2) Az (1) bekezdés szerinti közleménynek tartalmaznia kell:
 
@@ -1130,9 +1138,9 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság feladatkörében és eljárásában:
 
-- a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről, 4. cikk (1) és (6) bekezdés, 5. cikk (1) bekezdés, 16. cikk (1) bekezdés, 17. cikk (1) bekezdés, 21. cikk (2) bekezdés [a 43/A. §, a 43/B. §, a 47. § (6) bek., a 47. § (14) bek., valamint az 51. § (2)–(4) bek.];
-- b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 43/A. § (4) bek.];
-- c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 43/A. § (4) bek.];
+- a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés, 8. cikk (1) bekezdés, 9. cikk (4) bekezdés g) pont, 17. cikk, 26. cikk, 29–30. cikk, 37. cikk (1) és (3) bekezdés és 39. cikk [a 43/A.§, a 43/B.§, a 47. § (1a) és (6) bek., a 47. § (14) bek., valamint az 51. § (2)–(4) bek.];
+- b)
+- c)
 - d) az Európai Parlament és Tanács 2013. május 21-i 524/2013/EU rendelete a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) [2. § a),18. § (8) bekezdés, 29. § (11) bekezdés];
 - e) a belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet.
 
