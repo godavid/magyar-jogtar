@@ -781,9 +781,9 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 (8) A könyvvizsgálónak a Hpt. 263. § (1) bekezdésében foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az érintett intézmény igazgatóságának, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek, valamint az Integrációs Szervezetnek legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
 
-(9) A szövetkezeti hitelintézet által a Hpt. 208. §-a szerint fizetendő felügyeleti díj a Hpt. 208. § (3) bekezdés szerinti alapdíjként kétszázezer forint és a (10) bekezdésben szereplő változó díj.
+(9) A szövetkezeti hitelintézet által a Hpt. 208. §-a szerint fizetendő felügyeleti díj a Hpt. 208. § (3) bekezdés szerinti alapdíjként hárommillió forint és a (10) bekezdésben szereplő változó díj.
 
-(10) A változó díj a Hpt. 79. § (2) bekezdése szerint számított tőkekövetelmény 3,8 ezrelékének, és a Bszt.-ben meghatározott portfóliókezelési tevékenység keretében kezelt, piaci értéken számított portfólió eszközértéke 0,25 ezrelékének összege.
+(10) A változó díj a Hpt. 79. § (2) bekezdése szerint számított tőkekövetelmény 6,0 ezrelékének, és a Bszt.-ben meghatározott portfóliókezelési tevékenység keretében kezelt, piaci értéken számított portfólió eszközértéke 0,35 ezrelékének összege.
 
 (11)
 
