@@ -1092,16 +1092,16 @@ legkésőbb a naptári évet követő hónap végéig nyilvánosan közzéteszi 
 
 (2) A felügyeleti díj a (3)–(4) bekezdés szerint számított alapdíj, valamint az (5)–(6) bekezdés szerint számított változó díj összege.
 
-(3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység ötvenezer forint.
+(3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység hetvenötezer forint.
 
 (4) A szorzószám
 
 - a) pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény esetén: négy,
 - b) másik EGT-államban székhellyel rendelkező pénzforgalmi intézmény magyarországi fióktelepe, másik EGT-államban székhellyel rendelkező elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe esetén: négy.
 
-(5) A pénzforgalmi intézmény által fizetendő változó díj éves mértéke a 38. § (1) bekezdése szerint számított, az elektronikuspénz-kibocsátó intézmény által fizetendő éves díj mértéke a 47. § (1) bekezdése szerint számított tőkekövetelmény 3,8 ezreléke.
+(5) A pénzforgalmi intézmény által fizetendő változó díj éves mértéke a 38. § (1) bekezdése szerint számított, az elektronikuspénz-kibocsátó intézmény által fizetendő éves díj mértéke a 47. § (1) bekezdése szerint számított tőkekövetelmény 6,0 ezreléke.
 
-(6) Ha a másik EGT-államban székhellyel rendelkező pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,1 ezreléke.
+(6) Ha a másik EGT-államban székhellyel rendelkező pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,15 ezreléke.
 
 72. § (1) A Felügyelet a jogszabályokban és felügyeleti határozatban foglalt kötelezettségek sérelme esetén a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel, utalványkibocsátóval szemben – a (2)–(3) bekezdésben meghatározott kivételekkel – a 73–80. §-ban meghatározott intézkedéseket, kivételes intézkedéseket alkalmazhatja, valamint bírságot szabhat ki.
 

@@ -4,7 +4,13 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 #### 1. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-1. §
+1. § (1) Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 9/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószám szorzata. Az alapdíjegység hetvenötezer forint.”
+
+(2) Az Öpt. 9/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A pénztár által fizetendő változó díj éves mértéke a pénztári vagyon piaci értékének 0,3 ezreléke.”
 
 #### 2. A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény módosítása
 
@@ -30,7 +36,13 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 #### 3. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-12. §
+12. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 116. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószám szorzata. Az alapdíjegység hetvenötezer forint.
+
+(4) A szorzószám magánnyugdíjpénztár esetén: kettő.
+
+(5) A pénztár által fizetendő változó díj éves mértéke a pénztári vagyon piaci értékének 0,3 ezreléke.”
 
 #### 4. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
@@ -82,9 +94,17 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 36. §
 
-37. §
+37. § A Tpt. 380. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-38. §
+„(3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység hetvenötezer forint.”
+
+38. § (1) A Tpt. 381. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A központi értéktár, a központi szerződő fél, a tőzsde által fizetendő változó díj éves mértéke az éves beszámoló szerinti mérlegfőösszeg 0,25 ezreléke.”
+
+(2) A Tpt. 381. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ha az Európai Unió másik tagállamában székhellyel rendelkező központi értéktár, szabályozott piac, tőzsde magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke az éves beszámoló szerinti mérlegfőösszeg 0,125 ezreléke.”
 
 39. §
 
@@ -141,7 +161,13 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 #### 5. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
-49. §
+49. § (1) A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény (a továbbiakban: Fnyt.) 71. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az alapdíj az alapdíjegység és az (5) bekezdés szerinti szorzószám szorzata. Az alapdíjegység hetvenötezer forint.”
+
+(2) Az Fnyt. 71. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A foglalkoztatói nyugdíjszolgáltató intézmény által fizetendő változó díj éves mértéke a foglalkoztatói nyugdíjszolgáltató intézmény által kezelt vagyon tárgyévet megelőző év utolsó napján számított piaci értékének 0,3 ezreléke.”
 
 #### 6. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
@@ -149,9 +175,29 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 51. §
 
-52. §
+52. § A Bszt. 156. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-53. §
+„(1) Az alapdíj az alapdíjegység és a (2) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység hetvenötezer forint.”
+
+53. § (1) A Bszt. 157. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A befektetési vállalkozás által fizetendő változó díj éves mértéke
+
+a) a 105. § (1) és (2) bekezdése szerint számított tőkekövetelmény 6,0 ezrelékének, és
+
+b) a portfóliókezelési tevékenység – ide nem értve az önkéntes kölcsönös biztosító pénztár, mint ügyfél és a magánnyugdíjpénztár mint ügyfél részére történő portfólió-kezelést – keretében kezelt, piaci értéken számított portfólió eszközértéke 0,35 ezrelékének
+
+összege.”
+
+(2) A Bszt. 157. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A más EGT-államban székhellyel rendelkező és az adott tagállam hatáskörrel rendelkező felügyeleti hatósága által kiadott, tevékenység végzésére jogosító engedéllyel rendelkező befektetési vállalkozás magyarországi fióktelepe által fizetendő változó díj éves mértéke
+
+a) a magyarországi fióktelep éves beszámolója szerinti mérlegfőösszege 0,15 ezrelékének, és
+
+b) a portfóliókezelési tevékenység – ide nem értve az önkéntes kölcsönös biztosító pénztár, mint ügyfél és a magánnyugdíjpénztár mint ügyfél részére történő portfólió-kezelést – keretében kezelt, piaci értéken számított portfólió eszközértéke 0,175 ezrelékének
+
+összege.”
 
 54. §
 
@@ -197,7 +243,11 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 #### 10. A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény módosítása
 
-72. §
+72. § A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 17/K. § (9) és (10) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(9) A szövetkezeti hitelintézet által a Hpt. 208. §-a szerint fizetendő felügyeleti díj a Hpt. 208. § (3) bekezdés szerinti alapdíjként hárommillió forint és a (10) bekezdésben szereplő változó díj.
+
+(10) A változó díj a Hpt. 79. § (2) bekezdése szerint számított tőkekövetelmény 6,0 ezrelékének, és a Bszt.-ben meghatározott portfóliókezelési tevékenység keretében kezelt, piaci értéken számított portfólió eszközértéke 0,35 ezrelékének összege.”
 
 #### 11. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
@@ -239,7 +289,15 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 89. §
 
-90. §
+90. § (1) Az Fsztv. 71. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység hetvenötezer forint.”
+
+(2) Az Fsztv. 71. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(5) A pénzforgalmi intézmény által fizetendő változó díj éves mértéke a 38. § (1) bekezdése szerint számított, az elektronikuspénz-kibocsátó intézmény által fizetendő éves díj mértéke a 47. § (1) bekezdése szerint számított tőkekövetelmény 6,0 ezreléke.
+
+(6) Ha a másik EGT-államban székhellyel rendelkező pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,15 ezreléke.”
 
 #### 13. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
@@ -267,7 +325,45 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 101. §
 
-102. §
+102. § A Hpt. 208. §-a helyébe a következő rendelkezés lép:
+
+„208. § (1) A pénzügyi intézmény és ezen intézmények magyarországi fióktelepe, a kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás, a független közvetítő és a bankképviselet a Felügyelet részére felügyeleti díjat fizet.
+
+(2) A felügyeleti díj a (3) és (4) bekezdés szerint számított alapdíj, valamint az (5)–(9) bekezdés szerint számított változó díj összege.
+
+(3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység hetvenötezer forint.
+
+(4) A szorzószám
+
+a) bank, szakosított hitelintézet és szövetkezeti hitelintézet esetén: negyven,
+
+b) pénzügyi vállalkozás esetén: négy,
+
+c) a másik EGT-államban székhellyel rendelkező pénzügyi intézmény magyarországi fióktelepe esetén: négy,
+
+d) kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás, bankképviselet és a független közvetítő esetén: egy.
+
+(5) A hitelintézet által fizetendő változó díj éves mértéke
+
+a) a 79. § (2) bekezdés a) pontja szerint számított tőkekövetelmény 6,0 ezrelékének, és
+
+b) a Bszt.-ben meghatározott portfóliókezelési tevékenység – ide nem értve az önkéntes kölcsönös biztosító pénztár és a magánnyugdíjpénztár részére történő portfóliókezelési tevékenységet – keretében kezelt, piaci értéken számított portfólió eszközértéke 0,35 ezrelékének
+
+összege.
+
+(6) A pénzügyi vállalkozás, valamint a 105/A. § alapján mentesített harmadik országbeli hitelintézet magyarországi fióktelepe által fizetendő változó díj éves mértéke a pénzügyi vállalkozás éves beszámolója szerinti mérlegfőösszeg 0,25 ezreléke azzal, hogy a kizárólag csoportfinanszírozást végző pénzügyi vállalkozás esetén a változó éves díj éves mértéke legfeljebb egymillió forint.
+
+(7) Ha a másik EGT-államban székhellyel rendelkező hitelintézet magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke
+
+a) a hitelintézet magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,15 ezrelékének, és
+
+b) a Bszt.-ben meghatározott portfóliókezelési tevékenység – ide nem értve az önkéntes kölcsönös biztosító pénztár és a magánnyugdíjpénztár részére történő portfóliókezelési tevékenységet – keretében kezelt, piaci értéken számított portfólió eszközértéke 0,175 ezrelékének
+
+összege.
+
+(8) Ha a másik EGT-államban székhellyel rendelkező pénzügyi vállalkozás magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a pénzügyi vállalkozás magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,15 ezreléke.
+
+(9) A független közvetítő által fizetendő változó éves díj mértéke az éves jutalékbevétel 0,25 százaléka.”
 
 103. §
 
@@ -303,7 +399,15 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 111. §
 
-112. §
+112. § A Kbftv. 162. §-a helyébe a következő rendelkezés lép:
+
+„162. § (1) A befektetési alap és a befektetési alapkezelő – a 2. § (2) bekezdése szerinti kockázati tőkealap-kezelő (és az általa kezelt kockázati tőkealap és magántőkealap) kivételével, valamint az olyan egy vagy több, de kizárólag zártkörű ABA-t kezelő ABAK kivételével, amelyeknek ugyanezen ABAK-ok vagy azok anyavállalatai vagy leányvállalatai, vagy ezen anyavállalatok egyéb leányvállalatai az egyedüli befektetői, feltéve, hogy e befektetők maguk nem ABA-k – a Felügyelet részére felügyeleti díjat fizet. A felügyeleti díj a (2) bekezdés szerinti alapdíj, valamint a (3) és a (4) bekezdés szerint számított változó díj összege.
+
+(2) A befektetési alapkezelő (beleértve a fióktelepet is) a Felügyelet részére évi háromszázezer forint díjat fizet.
+
+(3) A befektetési alapkezelő (beleértve a fióktelepet is) által fizetendő változó díj éves mértéke a portfóliókezelési tevékenység – ide nem értve az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíj szolgáltató intézmény, a pénzügyi intézmény és a biztosító részére végzett portfóliókezelési tevékenységet – keretében kezelt portfólió éves átlagos nettó eszközértékének 0,35 ezreléke.
+
+(4) A befektetési alap a Felügyelet részére változó díjat fizet, amelynek éves mértéke az éves átlagos nettó eszközérték 0,35 ezreléke.”
 
 113. §
 
@@ -339,11 +443,31 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 #### 16. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
-128. §
+128. § A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 325. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-129. §
+„(2) Az alapdíjegység hetvenötezer forint.”
 
-130. §
+129. § A Bit. 326. §-a helyébe a következő rendelkezés lép:
+
+„326. § (1) A biztosító által fizetendő változó díj éves mértéke
+
+a) a szavatolótőke-szükséglet 3,8 ezrelékének, a hatodik rész hatálya alá tartozó biztosító esetében a minimális szavatolótőke-szükséglet 3,8 ezrelékének, és
+
+b) a számviteli biztosítástechnikai tartalékok könyv szerinti értéke 0,35 ezrelékének
+
+összege.
+
+(2) Ha az Európai Unió másik tagállamában székhellyel rendelkező biztosító magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a biztosító magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,15 ezreléke.”
+
+130. § A Bit. 436. §-a helyébe a következő rendelkezés lép:
+
+„436. § (1) A többes ügynök és az alkusz – ide értve a másik tagállamban székhellyel rendelkező többes ügynöki és az alkuszi tevékenységet végző biztosításközvetítő magyarországi fióktelepét is – a Felügyelet részére felügyeleti díjat fizet.
+
+(2) A felügyeleti díj a (3) bekezdés szerint számított alapdíj és a (4) bekezdés szerint számított változó díj összege.
+
+(3) Az alapdíj hetvenötezer forint, amely összeg minden ötven – többes ügynök és az alkusz által alkalmazott vagy megbízott, továbbá a részéről megbízott gazdálkodó szervezet által alkalmazott vagy megbízott – biztosításközvetítést végző természetes személy után újabb hetvenötezer forinttal nő.
+
+(4) A változó éves díj mértéke az éves jutalékbevétel 0,25 százaléka.”
 
 #### 17. A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény módosítása
 

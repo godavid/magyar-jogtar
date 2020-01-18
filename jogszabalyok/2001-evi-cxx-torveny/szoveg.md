@@ -3062,7 +3062,7 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (2) A felügyeleti díj a (3)–(4) bekezdés szerint számított alapdíj, valamint a 381. § szerint számított változó díj összege.
 
-(3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység ötvenezer forint.
+(3) Az alapdíj az alapdíjegység és a (4) bekezdés szerinti szorzószámok szorzata. Az alapdíjegység hetvenötezer forint.
 
 (4) A szorzószám
 
@@ -3074,11 +3074,11 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (2)
 
-(3) A központi értéktár, a központi szerződő fél, a tőzsde által fizetendő változó díj éves mértéke az éves beszámoló szerinti mérlegfőösszeg 0,2 ezreléke.
+(3) A központi értéktár, a központi szerződő fél, a tőzsde által fizetendő változó díj éves mértéke az éves beszámoló szerinti mérlegfőösszeg 0,25 ezreléke.
 
 (4)
 
-(5) Ha az Európai Unió másik tagállamában székhellyel rendelkező központi értéktár, szabályozott piac, tőzsde magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke az éves beszámoló szerinti mérlegfőösszeg 0,1 ezreléke.
+(5) Ha az Európai Unió másik tagállamában székhellyel rendelkező központi értéktár, szabályozott piac, tőzsde magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke az éves beszámoló szerinti mérlegfőösszeg 0,125 ezreléke.
 
 (6)
 

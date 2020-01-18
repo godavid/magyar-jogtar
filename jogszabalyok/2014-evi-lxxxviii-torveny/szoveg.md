@@ -4238,7 +4238,7 @@ fedezete nem elegendő, vagy az előírt mérték alá csökkent;
 
 325. § (1) Az alapdíj az alapdíjegység és a (3) bekezdés szerinti szorzószámok szorzata.
 
-(2) Az alapdíjegység ötvenezer forint.
+(2) Az alapdíjegység hetvenötezer forint.
 
 (3) A szorzószám
 
@@ -4251,12 +4251,12 @@ fedezete nem elegendő, vagy az előírt mérték alá csökkent;
 
 326. § (1) A biztosító által fizetendő változó díj éves mértéke
 
-- a) a szavatolótőke-szükséglet 1,8 ezrelékének, a hatodik rész hatálya alá tartozó biztosító esetében a minimális szavatolótőke-szükséglet 3,8 ezrelékének, és
-- b) a számviteli biztosítástechnikai tartalékok könyv szerinti értéke 0,25 ezrelékének
+- a) a szavatolótőke-szükséglet 3,8 ezrelékének, a hatodik rész hatálya alá tartozó biztosító esetében a minimális szavatolótőke-szükséglet 3,8 ezrelékének, és
+- b) a számviteli biztosítástechnikai tartalékok könyv szerinti értéke 0,35 ezrelékének
 
 összege.
 
-(2) Ha az Európai Unió másik tagállamában székhellyel rendelkező biztosító magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a biztosító magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,1 ezreléke.
+(2) Ha az Európai Unió másik tagállamában székhellyel rendelkező biztosító magyarországi fióktelepe által végez tevékenységet, az általa fizetendő változó díj éves mértéke a biztosító magyarországi fióktelepének éves beszámolója szerinti mérlegfőösszeg 0,15 ezreléke.
 
 ### XXV. Fejezet — A CSOPORTFELÜGYELET
 
@@ -5476,7 +5476,11 @@ a Felügyelet – a másik tagállam illetékes hatóságának tájékoztatásá
 
 436. § (1) A többes ügynök és az alkusz – ide értve a másik tagállamban székhellyel rendelkező többes ügynöki és az alkuszi tevékenységet végző biztosításközvetítő magyarországi fióktelepét is – a Felügyelet részére felügyeleti díjat fizet.
 
-(2) A felügyeleti díj ötvenezer forint, amely összeg minden ötven – többes ügynök és az alkusz által alkalmazott vagy megbízott, továbbá a részéről megbízott gazdálkodó szervezet által alkalmazott vagy megbízott – biztosításközvetítést végző természetes személy után újabb ötvenezer forinttal nő.
+(2) A felügyeleti díj a (3) bekezdés szerint számított alapdíj és a (4) bekezdés szerint számított változó díj összege.
+
+(3) Az alapdíj hetvenötezer forint, amely összeg minden ötven – többes ügynök és az alkusz által alkalmazott vagy megbízott, továbbá a részéről megbízott gazdálkodó szervezet által alkalmazott vagy megbízott – biztosításközvetítést végző természetes személy után újabb hetvenötezer forinttal nő.
+
+(4) A változó éves díj mértéke az éves jutalékbevétel 0,25 százaléka.
 
 ## NEGYEDIK KÖNYV — ZÁRÓ RENDELKEZÉSEK
 
