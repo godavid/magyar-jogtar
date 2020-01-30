@@ -647,4 +647,4 @@ c) a cégbíróság a Cégtörvényben foglalt ok miatt megszünteti.
 
 amely a közgyűlés 23/A. § (5) bekezdése szerinti határozatán alapszik.
 
-(2) Az (1) bekezdésben foglaltakat a folyamatban levő bírósági, valamint végrehajtási eljárásokban is alkalmazni kell azzal, hogy a tag által a 2012. december 27. napját megelőzően hozott küldöttgyűlési határozat alapján a társulat részére már teljesített fizetés nem követelhető vissza.
+(2) A tag által a 2012. december 27. napját megelőzően hozott küldöttgyűlési határozat alapján a társulat részére már teljesített fizetés nem követelhető vissza.
