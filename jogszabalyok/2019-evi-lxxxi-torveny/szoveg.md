@@ -16,11 +16,16 @@ a törvényszéki végrehajtással összefüggő egyes törvények módosítás�
 
 #### 4. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-15. §
+15. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (a továbbiakban: Iasz.) 16. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-16. §
+„(3) A végrehajtási ügyintéző esküjének a szövegét az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvény tartalmazza.”
 
-17. §
+16. § Az Iasz. 6. § (1) bekezdésében az „a végrehajtási ügyintéző, továbbá a törvényszéki végrehajtó, végrehajtó-helyettes és a végrehajtójelölt” szövegrész helyébe a „továbbá a végrehajtási ügyintéző” szöveg lép.
+
+17. § Hatályát veszti az Iasz.
+
+- a) 1. § (4) bekezdésében az „a törvényszéki végrehajtó, végrehajtó-helyettes, végrehajtójelölt, valamint” szövegrész,
+- b) 95. § (2) bekezdése.
 
 #### 5. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 

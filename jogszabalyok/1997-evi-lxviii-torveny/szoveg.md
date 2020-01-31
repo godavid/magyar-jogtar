@@ -16,7 +16,7 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 
 (3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
-(4) E törvény hatálya alá tartozó igazságügyi szakértő, valamint szakértőjelölt szolgálati viszonyára az igazságügyi szakértőkről szóló 2016. évi XXIX. törvénynek és az igazságügyi szakértőkről szóló jogszabályoknak a rendelkezéseit, a törvényszéki végrehajtó, végrehajtó-helyettes, végrehajtójelölt, valamint a végrehajtási ügyintéző szolgálati viszonyára a bírósági végrehajtásról szóló 1994. évi LIII. törvénynek a rendelkezéseit is alkalmazni kell.
+(4) E törvény hatálya alá tartozó igazságügyi szakértő, valamint szakértőjelölt szolgálati viszonyára az igazságügyi szakértőkről szóló 2016. évi XXIX. törvénynek és az igazságügyi szakértőkről szóló jogszabályoknak a rendelkezéseit, a végrehajtási ügyintéző szolgálati viszonyára a bírósági végrehajtásról szóló 1994. évi LIII. törvénynek a rendelkezéseit is alkalmazni kell.
 
 (5) Az igazságügyi alkalmazottak szolgálati viszonyára más jogszabály rendelkezéseit akkor kell alkalmazni, ha azt e törvény elrendeli.
 
@@ -53,7 +53,7 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 
 (2) A szakértőjelölt az igazságügyi szakértői kinevezéshez szükséges elméleti és gyakorlati ismeretek megszerzése érdekében – az igazságügyi szakértő szakmai felügyeletével – közreműködik a szakvélemény előkészítésében.
 
-6. § (1) Az igazságügyi szervnél – a 3–5. §-okban foglaltakon kívül – az érdemi és az ügydöntő feladatokat középfokú vagy felsőfokú iskolai végzettséggel rendelkező tisztviselők látják el. Tisztviselő a főtanácsadó, a bírósági ügyintéző, a végrehajtási ügyintéző, továbbá a törvényszéki végrehajtó, végrehajtó-helyettes és a végrehajtójelölt is.
+6. § (1) Az igazságügyi szervnél – a 3–5. §-okban foglaltakon kívül – az érdemi és az ügydöntő feladatokat középfokú vagy felsőfokú iskolai végzettséggel rendelkező tisztviselők látják el. Tisztviselő a főtanácsadó, a bírósági ügyintéző, továbbá a végrehajtási ügyintéző is.
 
 (1a) A Kúrián és az OBH-ban foglalkoztatott főtanácsadó szakirányú felsőfokú végzettséggel rendelkező tisztviselő.
 
@@ -218,7 +218,7 @@ rendeletben határozza meg.
 
 (2a) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvényben foglalt eskü szövegében szereplő tisztség megnevezése a (2) bekezdés szerinti eskü tétele során: igazságügyi alkalmazott.
 
-(3) A törvényszéki végrehajtó, végrehajtó-helyettes és végrehajtójelölt, valamint a végrehajtási ügyintéző esküjének a szövegét külön jogszabály tartalmazza.
+(3) A végrehajtási ügyintéző esküjének a szövegét az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló 2008. évi XXVII. törvény tartalmazza.
 
 ### A kinevezés tartalmának módosítása
 
@@ -1089,7 +1089,7 @@ okozta.
 - b)
 - c) egyéb javadalmazásra, kedvezményre és költségtérítésre jogosult.
 
-(2) A bírósági végrehajtási jutalomról és a végrehajtási költségátalányról szóló jogszabály szerinti juttatások a törvényszéki végrehajtót és a végrehajtásban közreműködő személyt az (1) bekezdésben foglalt járandóságon felül illetik meg.
+(2)
 
 ### Az illetmény
 
