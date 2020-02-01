@@ -122,7 +122,9 @@ haladéktalanul törli.
 
 (6) A rögzített felvételen szereplő személy részére az adattovábbításról adott tájékoztatás költségmentes.
 
-8. §
+8. § (1) Ha a települési önkormányzatnál közterület-felügyelet vagy közterület-felügyelő nem működik, a 7. § (3) bekezdésében meghatározott képfelvevőt a jegyző, vagy a képviselő-testület által kijelölt, a települési önkormányzat alkalmazásában álló köztisztviselő is üzemeltetheti és kezelheti.
+
+(2) Az (1) bekezdésben meghatározott esetben a képfelvevő kihelyezésére, üzemeltetésére, az adatkezelésre, a felvétel felhasználására és továbbítására, valamint a Kormány által kijelölt központi tárhelyszolgáltatóval való együttműködésre a 7. § és a 7/A. § rendelkezéseit megfelelően alkalmazni kell.
 
 9. § A felügyelő eljárása során a diplomáciai és konzuli képviseletek, valamint azok személyzetének kiváltságait és mentességeit, továbbá más, törvényben megállapított mentességeket köteles tiszteletben tartani.
 

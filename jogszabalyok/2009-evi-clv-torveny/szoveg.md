@@ -70,7 +70,7 @@ részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontb
 - l) a Kormány tagja,
 - m) a kormánybiztos, a miniszterelnöki biztos,
 - n) a Kormány ügyrendje szerint működő testület vezetője,
-- o) az autonóm államigazgatási szerv vezetője, az önálló szabályozó szerv vezetője, a kormányhivatal vezetője,
+- o) az autonóm államigazgatási szerv vezetője, az önálló szabályozó szerv vezetője, a kormányzati főhivatal vezetője,
 - p) a rendvédelmi szerv központi szerve, a Katonai Nemzetbiztonsági Szolgálat vezetője,
 - q) a rendőrségről szóló törvényben meghatározott
   - qa) az általános rendőrségi feladatok ellátására létrehozott szerv vezetője,
@@ -171,7 +171,7 @@ minősítési szintű.
 
 (4) A minősítésre jogosult személy az általa minősítői jogkörrel felruházott személyek minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
 
-(5) A legfőbb ügyész az ügyészség vezetője, a miniszterelnök a miniszterelnöki biztos és a kormánybiztos, a Kormány tagja – felügyeleti jogkörében – a kormányhivatal vezetője minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
+(5) A legfőbb ügyész az ügyészség vezetője, a miniszterelnök a miniszterelnöki biztos és a kormánybiztos, a Kormány tagja – felügyeleti jogkörében – a kormányzati főhivatal vezetője minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
 
 (6) A felülvizsgálat és a felülbírálat során a minősítési eljárás szabályai szerint kell eljárni.
 

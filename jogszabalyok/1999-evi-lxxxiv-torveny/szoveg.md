@@ -128,7 +128,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
   - af) elhalálozásának idejét,
   - ag) állampolgárságát,
   - ah) közúti közlekedési előéleti pontrendszer adatait,
-  - ai) „Gépjármű-vezetői képesítési igazolvány” sorszámára, kategóriájára, kiadásának dátumára és érvényességi idejére vonatkozó adatokat, továbbá
+  - ai) „Gépjármű-vezetői képesítési igazolvány” sorszámára, kategóriájára, kiadásának dátumára és érvényességi idejére vonatkozó adatokat,
 - b) az engedély
   - ba) típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatokat,
   - bb) elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására és megkerülésére vonatkozó adatokat,
@@ -137,7 +137,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 
 (2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a SIS II-ben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
 
-(3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, a lakcím-azonosító adatok, valamint a „Gépjármű-vezetői képesítési igazolvány” adatai kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – az (1) bekezdés a) pont aa), ab), ai) és aj) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 8/A. § (1) A parkolási igazolvány nyilvántartása tartalmazza
 
@@ -314,7 +314,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 14/A. § A közlekedési igazgatási hatóságot értesíti
 
-- a) a vizsgálatot végző szerv a 8. § (1) bekezdés a) pont ae) pontjában megjelölt adatokról és azok változásáról;
+- a)
 - b) a rendőrhatóság elektronikus úton a közúti közlekedés körében elkövetett, külön jogszabályban meghatározott bűncselekmény, illetve szabálysértés miatt a járművezető ellen indult eljárásról;
 - c) a parkolási igazolvány használatának ellenőrzésére jogosult szerv az igazolvány birtokban tartását érintő intézkedésről.
 

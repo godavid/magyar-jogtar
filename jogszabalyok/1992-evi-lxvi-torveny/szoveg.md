@@ -74,7 +74,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 (3) E törvény hatálya kiterjed:
 
 - a) a személyiadat- és lakcímnyilvántartási, az adatkezelési és a lakcímbejelentési eljárásra,
-- b) az (1) bekezdés c) pontja szerinti külföldön élő polgár, valamint a szabad mozgás és tartózkodás jogával rendelkező személy kivételével a személyazonosító igazolvánnyal kapcsolatos eljárásra,
+- b) a szabad mozgás és tartózkodás jogával rendelkező személy kivételével a személyazonosító igazolvánnyal kapcsolatos eljárásra,
 - c) a személyazonosítás célját szolgáló és jogosultságot igazoló egyéb okmányok kiadásával összefüggő eljárásra,
 - d) az értesítési cím bejelentési eljárásra.
 
@@ -198,7 +198,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - d) ellátja a nyilvántartás, valamint a személyazonosító igazolvány kiadásával és nyilvántartásával kapcsolatos, külön jogszabályban hatáskörébe utalt hatósági feladatokat;
 - e) működteti a nyilvántartás informatikai rendszerét;
 - f) a személyiadat- és lakcímnyilvántartásért felelős miniszter (a továbbiakban: miniszter) és az e-közigazgatásért felelős miniszter jóváhagyásával államigazgatási szerv vagy kizárólagos állami tulajdonú gazdálkodó szervezet adatfeldolgozót bízhat meg egyes adatfeldolgozási műveletek, technikai feladatok elvégzésével kivéve, ha a miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak alapján más adatfeldolgozó megbízását engedélyezi;
-- g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a személyazonosító igazolvány nyilvántartásban kezeli a 29. § (2) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
+- g) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a nyilvántartásban kezeli a 29. § (2) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
   - ga) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizet vagy letartóztatás elrendelését,
   - gb) nem magyar állampolgár esetén Magyarország területének külföldi letelepedés szándékával történő elhagyását,
   - gc) a bevándorlási engedély, letelepedési engedély, nemzeti letelepedési engedély EK letelepedési engedély, vagy az ideiglenes letelepedési engedély visszavonását, valamint a menekült vagy oltalmazott jogállás megszűnését,
@@ -217,9 +217,9 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (3) A nyilvántartást kezelő szerv a Központi Okmánytárban – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
 
-- a) az állandó személyazonosító igazolvány adatlapokat és fényképeket, a lakcímbejelentő lapokat, valamint az ezen iratokban szereplő adatok változását igazoló okmányokat, valamint az értesítésicím-bejelentőlapot;
-- b) a külföldi letelepedésre vonatkozó nyilatkozatot, valamint a külföldön élő magyar állampolgároknak a nyilvántartással kapcsolatos bejelentéseit, illetőleg nyilatkozatait tartalmazó iratokat;
-- c) a nyilvántartási eljárásban keletkezett – a nyilvántartásba vétellel, az abból való törléssel, adatszolgáltatási korlátozással, adatváltozással, adathelyesbítéssel kapcsolatos alapiratokat, az anyakönyvi alapiratok kivételével;
+- a) az állandó személyazonosító igazolvány adatlapokat, kérelmeket és fényképeket, a lakcímbejelentő lapokat, valamint az értesítésicím-bejelentőlapot;
+- b) a külföldi letelepedésre vonatkozó nyilatkozatot, valamint a külföldön élő magyar állampolgárok nyilvántartásba vételével és a külföldi lakóhely változás bejelentésével kapcsolatos iratokat;
+- c) a nyilvántartási eljárásban keletkezett – a nyilvántartásba vétellel, adatszolgáltatási korlátozással és annak visszavonásával, adatváltozással, adathelyesbítéssel kapcsolatos – alapiratokat, az anyakönyvi alapiratok kivételével;
 - d) a 2015. január 1. napját megelőzően keletkezett területszervezési, közigazgatás-szervezési, címváltozási iratokat.
 
 (4) A (3) bekezdés a) pontja szerinti, 1993. június 1-je előtt keletkezett iratokat és fényképeket a Központi Okmánytár elkülönítetten, zárt archívumként kezeli. Ebben az adatállományban csak a passziválás okát és időpontját, továbbá a magyar állampolgárság megszűnésének tényét és időpontját lehet átvezetni.
@@ -314,7 +314,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
   - mg) – a Magyarország területén élő, a 4. § (2c) bekezdés b) pontja szerinti magyar állampolgárok esetében – a magyar állampolgárság igazolásáról, a természetes személyazonosító és magyarországi lakcím adatokról, a családi állapotról, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyéről és a neméről,
   - mh) az állampolgársági eljárásban engedélyezett névmódosításról,
   - mi) a magyar állampolgárság megszűnéséről és annak időpontjáról;
-  - mj) a magyarországi lakóhellyel rendelkező honosított ujjnyomatáról;
+  - mj) a honosított ujjnyomatáról,
+  - mk) a honosított arcképmásáról és aláírásáról;
 - n) az anyakönyvvezető értesítése
   - na) a magyar állampolgárság megszerzéséről és annak időpontjáról, valamint
   - nb) a honosított okirattal igazolt vagy nyilatkozata szerinti nőtlen vagy hajadon családi állapotáról,
@@ -385,7 +386,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (6) A nyilvántartást kezelő szerv a 29. § (2) bekezdésében meghatározott adatokról és a lakcímről, valamint a 11. § (1) bekezdés n) pontjában meghatározott adatokról törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére a személyazonosító igazolvány adatainak, valamint az érintett lakcímének ellenőrzése, az érintett személy azonosítása céljából adatot szolgáltathat. Az érintett arcképmását és saját kezű aláírását a személyazonosítást követően az adatkérő haladéktalanul törli, kivéve, ha az érintett ezen adatok további kezeléséhez hozzájárult, vagy azt törvény lehetővé teszi.
 
-(7) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetőleg a személyazonosító igazolvány adattartalmának és érvényességének a személyazonosítás során történő ellenőrzése céljából a személyazonosító igazolvány nyilvántartásból – közvetlen adathozzáféréssel – adatokat vehet át. Az átvett adatokat a személyazonosítást követően az adatkérőnek haladéktalanul törölnie kell.
+(7) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetőleg a személyazonosító igazolvány adattartalmának és érvényességének a személyazonosítás során történő ellenőrzése céljából a nyilvántartásból – közvetlen adathozzáféréssel – adatokat vehet át. Az átvett adatokat a személyazonosítást követően az adatkérőnek haladéktalanul törölnie kell.
 
 (8) A nyilvántartás szervei a külön törvényben meghatározott esetekben és megkereső szervek javára, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvényben meghatározott rendelkezések szerint adatot szolgáltatnak a polgár azonosítása, a megkereső szervek általi azonosítás, a megkereső szervek által kezelhető azonosító kódok lekérdezése érdekében.
 
@@ -680,7 +681,7 @@ van lehetőség.
 
 ### Címnyilvántartás
 
-28/A. § (1) A nyilvántartást kezelő szerv a lakcímbejelentés feltételeinek vizsgálata, a szállásadónak a lakcímbejelentéssel összefüggő jogosultságai érvényesítésének biztosítása, valamint a címhez kapcsolódó állami feladatellátás szervezésének megkönnyítése céljából kezeli a települési címek, valamint a lakcímbejelentéssel összefüggő szállásadói nyilatkozatok nyilvántartását (a továbbiakban: címnyilvántartás).
+28/A. § (1) A nyilvántartást kezelő szerv a lakcímbejelentés feltételeinek vizsgálata, a szállásadónak a lakcímbejelentéssel összefüggő jogosultságai érvényesítésének biztosítása, valamint a címhez kapcsolódó állami feladatellátás szervezésének megkönnyítése céljából résznyilvántartásként kezeli a települési címek, valamint a lakcímbejelentéssel összefüggő szállásadói nyilatkozatok nyilvántartását (a továbbiakban: címnyilvántartás).
 
 (2) A címnyilvántartás tartalmazza
 
@@ -788,7 +789,7 @@ foglalt adatokat tartalmazza.
 
 (14) A polgár köteles a személyazonosító igazolvány kiadását igényelni, ha nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal. A cselekvőképtelen kiskorú, valamint a cselekvőképességet teljesen korlátozó gondnokság alatt álló nagykorú polgár törvényes képviselője köteles biztosítani azt, hogy a kiskorú, valamint a cselekvőképességet teljesen korlátozó gondnokság alatt álló nagykorú polgár személyazonosságot igazoló hatósági igazolvánnyal rendelkezzen.
 
-(15) A személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló kérelem – jogszabályban meghatározott kivétellel – csak személyes megjelenéssel terjeszthető elő.
+(15) A személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló kérelem – jogszabályban meghatározott kivétellel – csak személyes megjelenéssel terjeszthető elő. Jogszabályban meghatározott esetekben a személyazonosság igazolására alkalmas hatósági igazolvány hivatalból is kiállítható.
 
 (16) A polgár az elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelentheti a személyazonossága igazolására alkalmas hatósági igazolványa elvesztését, eltulajdonítását, megsemmisülését, és kérheti a vezetői engedélye, illetve magánútlevele, második magánútlevele, szolgálati útlevele, hajós szolgálati útlevele pótlását, ha az adataiban nem következett be változás, ideiglenes okmány kiadására nincs szükség, és a magánútlevél, a második magánútlevél, illetve hajós szolgálati útlevél esetében az érintett hozzájárulása alapján az útiokmány-nyilvántartás tartalmazza az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát.
 
@@ -812,11 +813,11 @@ a tároló elemen elhelyezi.
 
 (2) A bv. szerv átveszi a fogvatartott polgár személyazonosító igazolvány iránti kérelmét. A fogvatartott polgár a bv. szerv rendelkezésére bocsátja a 29. § (2) bekezdés a)–g) pontjában megjelölt személyes adatait és saját kezű aláírását, valamint az (1) bekezdés szerint az ujjnyomatát. A bv. szerv – ha törvény eltérően nem rendelkezik – az adatokat a kijelölt kormányhivatal részére történő megküldésig kezelheti.
 
-(3) A 29. § (9) bekezdésben foglalt esetek kivételével a honosítási és visszahonosítási kérelmet átvevő szerv a magyarországi lakóhellyel rendelkező polgár esetén a honosítási és visszahonosítási kérelem (a továbbiakban együtt: honosítási kérelem) benyújtásakor 12. életévét betöltött, valamint a honosítási kérelem benyújtásának évében 12. életévét betöltő polgár ujjnyomatát rögzíti az ujjnyomatnak a személyazonosító igazolvány tároló elemén történő elhelyezése céljából. A honosítási kérelmet átvevő szerv az ujjnyomatot a honosítási kérelem továbbításával egyidejűleg továbbítja az állampolgársági ügyekben eljáró szervnek. Az állampolgársági ügyekben eljáró szerv az ujjnyomatot a 14. § m) pont mj) alpontjában meghatározott feladata teljesítése céljából, az értesítés megküldéséig kezelheti, az értesítés megküldését, valamint a honosítási kérelem elutasítását követően az ujjnyomatot haladéktalanul törölnie kell. Ha a polgár az ujjnyomat rögzítését visszautasítja, a személyazonosító igazolványt anélkül kell kiadni.
+(3) A 29. § (9) bekezdésben foglalt esetek kivételével a honosítási és visszahonosítási kérelmet átvevő szerv a honosítási és visszahonosítási kérelem (a továbbiakban együtt: honosítási kérelem) benyújtásakor 12. életévét betöltött, valamint a honosítási kérelem benyújtásának évében 12. életévét betöltő polgár ujjnyomatát rögzíti az ujjnyomatnak a személyazonosító igazolvány tároló elemén történő elhelyezése céljából. A honosítási kérelmet átvevő szerv az ujjnyomatot a honosítási kérelem továbbításával egyidejűleg továbbítja az állampolgársági ügyekben eljáró szervnek. Az állampolgársági ügyekben eljáró szerv az ujjnyomatot a 14. § m) pont mj) alpontjában meghatározott feladata teljesítése céljából, az értesítés megküldéséig kezelheti, az értesítés megküldését, valamint a honosítási kérelem elutasítását követően az ujjnyomatot haladéktalanul törölnie kell. Ha a polgár az ujjnyomat rögzítését visszautasítja, a személyazonosító igazolványt anélkül kell kiadni.
 
 (4) A nyilvántartást kezelő szerv és a kijelölt kormányhivatal az ujjnyomatot – az (5) bekezdésben meghatározott kivétellel – az állandó személyazonosító igazolvány kiállításáig, valamint a személyazonosító igazolvány kiadását megtagadó határozat vagy eljárást megszüntető végzés véglegessé válásáig jogosult kezelni, azt az állandó személyazonosító igazolvány kiállításakor, valamint a személyazonosító igazolvány kiadását megtagadó határozat vagy az eljárást megszüntető végzés véglegessé válását követően haladéktalanul törölni kell.
 
-(5) A honosítási kérelmet előterjesztő, magyarországi lakóhellyel rendelkező polgár ujjnyomatát a kijelölt kormányhivatal az állampolgársági eskü vagy fogadalom letételéig, legfeljebb azonban a magyar állampolgárságról szóló 1993. évi LV. törvény 16. § (4) bekezdésében meghatározott időpontig vagy a honosítási vagy visszahonosítási okirat hatályvesztéséig jogosult kezelni. A honosítási kérelmet előterjesztő, magyarországi lakóhellyel rendelkező polgár ujjnyomatát a kijelölt kormányhivatal a tároló elemen csak akkor helyezi el, ha a polgár 12. életévét legkésőbb az állampolgársági eskü vagy fogadalom letételének napján betölti.
+(5) A honosítási kérelmet előterjesztő polgár ujjnyomatát a kijelölt kormányhivatal az állampolgársági eskü vagy fogadalom letételéig, legfeljebb azonban a magyar állampolgárságról szóló 1993. évi LV. törvény 16. § (6) bekezdésében meghatározott időpontig jogosult kezelni. A honosítási kérelmet előterjesztő polgár ujjnyomatát a kijelölt kormányhivatal a tároló elemen csak akkor helyezheti el, ha a polgár a 12. életévét legkésőbb az állampolgársági eskü vagy fogadalom letételének napján betölti.
 
 (6) Az ujjnyomatot az e törvényben foglaltak kivételével adatszolgáltatás során nem lehet átadni és továbbítani.
 
@@ -829,6 +830,8 @@ a tároló elemen elhelyezi.
 (3a) Az eljáró hatóság a 29. § (7) bekezdés g) pontjában meghatározott adatot kizárólag az állandó személyazonosító igazolvány kiadásáig, illetve az adatnak a tároló elemen történő rögzítéséig jogosult kezelni, azt az állandó személyazonosító igazolvány kiadását, illetve az adatnak a tároló elemen történő rögzítését követően haladéktalanul törölni kell. A 29. § (7) bekezdés g) pontjában meghatározott adat tároló elemből történő olvasására kizárólag a polgár halála vagy tájékoztatás adására képtelen egészségi állapota esetén az értesítendő személy tájékoztatása céljából kerülhet sor. A polgár a 29. § (7) bekezdés g) pontja szerinti adat megadásánál nyilatkozik arról, hogy azt a telefonszám birtokosának hozzájárulásával adja meg.
 
 (4) A polgár a tároló elemben szereplő adatokat a Kormány által erre a feladatra kijelölt hatóságnál ellenőrizheti. A 29. § (7) bekezdés b) pontjában megjelölt adatot a Kormány által kijelölt hatóság kizárólag abból a célból kezelheti, hogy az érintett polgár a tároló elem tartalmát ellenőrizhesse.
+
+(5) A 29. § (7) bekezdés b) pontja szerinti ujjnyomatot – ha azt az állandó személyazonosító igazolvány tároló eleme tartalmazza – a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti kérelem előterjesztésekor az eljáró hatóság a személyazonosítás céljából összeveti a polgár ujjnyomatával, kizárólag abból a célból, hogy a személyazonosság igazolására bemutatott állandó személyazonosító igazolvány és a polgár közötti kapcsolat kétséget kizáróan megállapítható legyen. Az eljáró hatóság az összevetés elvégzéséig kezelheti az ujjnyomatot.
 
 29/C. § (1) Az állandó személyazonosító igazolvány tároló eleme minősített elektronikus aláírást létrehozó eszköz.
 
@@ -892,7 +895,7 @@ nem kell alkalmazni.
 
 (2) A 65. életévet betöltött jogosult – a (4) bekezdésben foglalt kivétellel – kérheti, hogy a részére határidő nélküli érvényességi idejű személyazonosító igazolvány kerüljön kiállításra. A határidő nélküli érvényességi idejű személyazonosító igazolvány tároló elemet nem tartalmaz, érvényességi idejeként a kiállítást követő 60. év január első napját kell feltüntetni.
 
-(3) A magyarországi lakóhellyel rendelkező honosított esetén az állandó személyazonosító igazolvány kiállításának napja a magyar állampolgárság megszerzésének időpontja.
+(3) A honosított esetén az állandó személyazonosító igazolvány kiállításának napja a magyar állampolgárság megszerzésének időpontja.
 
 (3a) Ha a jogosult február 29-én született, és az érvényességi idő lejártának évében ez a nap hiányzik, akkor a személyazonosító igazolvány érvényességi ideje február 28-án jár le.
 
@@ -1063,6 +1066,12 @@ adatvédelmi tisztviselőt nevez ki.
 
 (4) A Kormány rendeletében meghatározott esetekben és feltételekkel a nyilvántartás szerve az eljárást az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus döntéshozatal útján folytatja le.
 
+(6) A polgár kérelme személyesen, ügyintézői közreműködés nélkül történő benyújtására elektronikus ügyintézési pontot vehet igénybe. Az elektronikus ügyintézési pontot a nyilvántartást kezelő szerv működteti. A nyilvántartást kezelő szerv ebben az esetben írásban tart kapcsolatot a polgárral.
+
+(7) A kérelem benyújtásakor a polgár – a vezetői engedély kivételével – személyazonosság igazolására alkalmas hatósági igazolványával azonosítja magát.
+
+(8) A nyilvántartást kezelő szerv az elektronikus ügyintézési ponton történő személyazonosítás, valamint a kérelem kitöltése céljából a polgár természetes személyazonosító adatait és lakcímét szolgáltatja.
+
 35. § (1) A nyilvántartásban és annak alapján kiadott iratokban a családi név megelőzi az utónevet.
 
 (2) A nyilvántartásban az idegen írásmódú neveket — az érintett nyilatkozatának figyelembevételével — a magyar ábécé betűinek felhasználásával kell szerepeltetni.
@@ -1160,7 +1169,7 @@ adatvédelmi tisztviselőt nevez ki.
 - c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetve értesítésért, a lakcímbejelentésről és az értesítési cím bejelentésről történő értesítésért, továbbá a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
 - d)
 - e) a személyazonosítás célját szolgáló és a jogosultságot igazoló kitöltetlen biztonsági okmányok nyilvántartásának, azok kezelésének és tárolásának szabályait;
-- f) azon jogosultságok körét, amelyek ellenőrzésére az állandó személyazonosító igazolvány tároló elemén elhelyezett szolgáltatásazonosító felhasználható.
+- f) az állandó személyazonosító igazolvány tároló elemén elhelyezett szolgáltatás-azonosító kezelését, felhasználását és annak műszaki követelményeit.
 
 (3)
 
@@ -1215,6 +1224,8 @@ adatvédelmi tisztviselőt nevez ki.
 52/F. § E törvénynek az egyes ügyintézési folyamatok egyszerűsítéséről szóló 2019. évi LV. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a hatálybalépésüket követően indult és megismételt eljárásokban kell alkalmazni.
 
 52/G. § 2019. szeptember 30-át követően a tároló elemmel ellátott állandó személyazonosító igazolvány esetében a járási hivatal, a kijelölt kormányhivatal, a bv. szerv, a nyilvántartást kezelő szerv, illetve a konzuli tisztviselő a polgár erre irányuló kérelmére az állandó személyazonosító igazolvány tároló elemén rögzíti a polgár személyiadat- és lakcímnyilvántartás szerinti lakcímadatát és személyi azonosítóját.
+
+52/H. § A magyar állampolgársággal összefüggő egyes törvények módosításáról szóló 2019. évi XCVII. törvénnyel megállapított 4. § (3) bekezdés b) pontját, 14. § m) pont mj) és mk) alpontját, 29/A. § (3) és (5) bekezdését, valamint 29/E. § (3) bekezdését a Magyarországon lakóhellyel nem rendelkező honosított személyek vonatkozásában az e rendelkezések hatálybalépését követően benyújtott honosítási vagy visszahonosítási kérelem esetén kell alkalmazni.
 
 53. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

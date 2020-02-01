@@ -305,7 +305,7 @@ terheli.
 
 (3) Az adatszolgáltatási és nyilatkozattételi kötelezettség teljesítésének – a 16. § (1) bekezdésében foglaltak kivételével – nem akadálya, ha annak tárgya minősített adat vagy ilyen adatot tartalmazó egyéb információ. A Bizottság az ilyen adatot vagy információt zártan kezeli, és zárt ülésen tárgyalja.
 
-(4) A közreműködési kötelezettségről a Bizottság a döntését a Kormány nemzetbiztonsági szolgálatot irányító vagy korábban irányító tagja, vagy az ezen ügyekben átruházott hatáskörben eljáró állami vezető, illetve a nemzetbiztonsági szolgálat állományához tartozó vagy korábban tartozó személyek esetében a jelen lévő bizottsági tagok több mint felének a szavazatával, más személyek esetében a jelen lévő bizottsági tagok kétharmadának a szavazatával hozza meg.
+(4) A közreműködési kötelezettségről a Bizottság a döntését a Kormány nemzetbiztonsági szolgálatot irányító vagy korábban irányító tagja, vagy az ezen ügyekben átruházott hatáskörben eljáró politikai felsővezető, közigazgatási államtitkár vagy helyettes államtitkár, illetve a nemzetbiztonsági szolgálat állományához tartozó vagy korábban tartozó személyek esetében a jelen lévő bizottsági tagok több mint felének a szavazatával, más személyek esetében a jelen lévő bizottsági tagok kétharmadának a szavazatával hozza meg.
 
 14/B. § (1) A közreműködésre kötelezettet a megjelenési, az adatszolgáltatási, illetve a nyilatkozattételi kötelezettsége Bizottság ülésén történő teljesítésére határidő megjelölésével a Bizottság döntése alapján a Bizottság elnöke idézi meg.
 
@@ -456,7 +456,7 @@ terheli.
 
 (2) Az állami szervek kötelesek a 11. § (6) bekezdésében meghatározott tevékenységhez szükséges információkról – a Kormány által meghatározottak szerint – térítésmentesen adatszolgáltatást teljesíteni.
 
-30. § (1) Az e törvényben meghatározott feladatok ellátása érdekében, ha azt a nemzetbiztonsági szolgálatok főigazgatói kezdeményezik, a nemzetbiztonság szempontjából különleges fontosságú állami szervek és a tartós állami tulajdonban lévő gazdálkodó szervezetek, a központi energiaellátó és hírközlési rendszereket üzemeltető, a nemzetközileg ellenőrzött termékeket és technológiákat előállító és felhasználó, valamint a hadiipari kutatással foglalkozó üzemek és intézmények a nemzetbiztonsági szolgálat – alkalmazási feltételeknek egyébként megfelelő – munkatársával hivatásos szolgálati, közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt, honvédelmi alkalmazotti jogviszonyt, illetve munkajogviszonyt (a továbbiakban együtt: munkaviszony) létesítenek.
+30. § (1) Az e törvényben meghatározott feladatok ellátása érdekében, ha azt a nemzetbiztonsági szolgálatok főigazgatói kezdeményezik, a nemzetbiztonság szempontjából különleges fontosságú állami szervek és a tartós állami tulajdonban lévő gazdálkodó szervezetek, a központi energiaellátó és hírközlési rendszereket üzemeltető, a nemzetközileg ellenőrzött termékeket és technológiákat előállító és felhasználó, valamint a hadiipari kutatással foglalkozó üzemek és intézmények a nemzetbiztonsági szolgálat – alkalmazási feltételeknek egyébként megfelelő – munkatársával hivatásos szolgálati, közszolgálati, kormányzati szolgálati, közalkalmazotti jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt, honvédelmi alkalmazotti jogviszonyt, illetve munkajogviszonyt (a továbbiakban együtt: munkaviszony) létesítenek.
 
 (2) Az e törvényben meghatározott feladatok ellátása érdekében a nemzetbiztonsági szolgálatok – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhetnek az (1) bekezdés hatálya alá nem tartozó szervezeteknél.
 
@@ -1050,7 +1050,7 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 
 69. § (1) A nemzetbiztonsági ellenőrzés alá eső személyeket a 74. § i) pontja határozza meg.
 
-(2) A 74. § i) pont in) és io) alpontjában meghatározott körben a nemzetbiztonsági ellenőrzés alá eső munkaköröket, tisztségeket és beosztásokat (a továbbiakban együtt: munkakör)
+(2) A 74. § i) pont in) és io) alpontjában meghatározott körben a nemzetbiztonsági ellenőrzés alá eső munkaköröket, álláshelyeket, tisztségeket és beosztásokat (a továbbiakban együtt: munkakör)
 
 - a) kormányzati irányítás alatt álló szervek esetében az irányítást vagy felügyeletet gyakorló miniszter, – a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat irányításáért felelős miniszter egyetértésével kiadott – rendeletben,
 - b) kormányzati irányítás alatt nem álló foglalkoztató szervezet esetében a foglalkoztató szervezet vezetője a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálatokat irányító miniszter egyetértésével kiadott közjogi szervezetszabályozó eszközben, ha ennek kiadására nem jogosult, a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálatokat irányító miniszter jóváhagyásával munkáltatói intézkedésben, írásban
@@ -1330,13 +1330,13 @@ iránt intézkedik.
 - d) katonai egységes felderítő rendszer: az ország fegyveres védelmének és a szövetségi szintű védelem tervezéséhez és felülvizsgálatához, valamint a Magyar Honvédség műveleteinek tervezéséhez, irányításához és vezetéséhez szükséges döntések meghozatalának felderítő támogatását biztosító rendszer;
 - e) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a jegyes, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa;
 - f) cégellenőrzés: az illetékes nemzetbiztonsági szolgálat által végzett ellenőrzés, amelynek célja annak megállapítása, hogy a gazdálkodó szervezet minősített adat felhasználásával járó közreműködése jelent-e nemzetbiztonsági kockázatot;
-- g) foglalkoztatási jogviszony: az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, az állami szolgálati jogviszony, a közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
+- g) foglalkoztatási jogviszony: az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
 - h)
 - i) nemzetbiztonsági ellenőrzés alá eső személy:
   - ia) a nagykövet és az önálló külképviseletet irányító főkonzul;
   - ib) a miniszter, az államtitkár, a kormánybiztos, a miniszterelnöki biztos és a miniszterelnöki megbízott;
   - ic) a közigazgatási államtitkár, a helyettes államtitkár, a miniszteri biztos;
-  - id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányhivatal, valamint a fővárosi és megyei kormányhivatal vezetője és vezetőhelyettese;
+  - id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és megyei kormányhivatal vezetője és vezetőhelyettese;
   - ie) az Országgyűlés Hivatalának főigazgatója, az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szerveinek, illetve azok önálló szervezeti egységeinek vezetői és helyetteseik;
   - if) a Köztársasági Elnöki Hivatal vezetője, valamint a Köztársasági Elnöki Hivatal önálló szervezeti egységének a vezetője;
   - ig) a Magyar Honvédség parancsnoka és helyettesei;
