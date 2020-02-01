@@ -315,6 +315,13 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 18. § (1) Ingatlannak, valamint a (2) bekezdésben meghatározott ingónak és vagyoni értékű jognak visszteher mellett, továbbá öröklési vagy ajándékozási illeték alá nem eső, más módon történő megszerzése visszterhes vagyonátruházási illeték alá esik. Ezt a szabályt kell alkalmazni az ingatlanok, illetve a gépjárművek (pótkocsik) pénzügyi lízingjére vonatkozó, a futamidő végén tulajdonjog átszállást eredményező szerződések esetén, továbbá az öröklési szerződés alapján történő vagyonszerzésre is azzal, hogy az öröklési szerződés tekintetében az illetékkötelezettség keletkezésére a 3. § (1) bekezdése az irányadó.
 
+(1a) A visszterhes vagyonátruházási illeték alá esik
+
+- a) a belterületbe vont ingatlan,
+- b) a belterületbe vont ingatlannal rendelkező társaság vagyoni betétjének
+
+visszterhes átruházása.
+
 (2) Az illetékfizetési kötelezettség a következő vagyoni értékű jogokra és ingókra terjed ki:
 
 - a) az ingatlanhoz kapcsolódó vagyoni értékű jog megszerzése, továbbá e jognak a megszüntetése folytán bekövetkező vagyonszerzés;
@@ -353,6 +360,13 @@ tulajdonában álló vagyoni betétek aránya önállóan vagy együttesen elér
 - c) öröklés vagy ajándékozás útján
 
 szerzett.
+
+(6) A visszterhes vagyonátruházási illeték mértéke
+
+- a) a 18. § (1a) bekezdés a) pontja szerinti esetben az ingatlan állami adóhatóság által megállapított szerzéskori – megállapítás hiányában a szerzés időpontjára utólagosan megállapított – forgalmi értéke és az állami adóhatóság által az átruházás időpontjára megállapított forgalmi értéke különbözete után
+- b) a 18. § (1a) bekezdés b) pontja szerinti esetben az a) pont szerint megállapított különbözet és az értékesített vagyoni betét összes vagyoni betétben képviselt arányának szorzata után
+
+90%.
 
 ### Haszonélvezet, használat visszterhes vagyonátruházási illetéke
 
@@ -616,7 +630,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (20) Az (1) bekezdés g), h), q) és t) pontja szerinti mentesség a 17. § (4) bekezdésében említett feltételek fennállásakor vehető igénybe.
 
-(21)
+(21) Az e § szerinti illetékmentességek, illetékkedvezmények – az (1) bekezdés g), h), q) és t) pontok szerinti illetékmentességek kivételével – a 18. § (1a) bekezdése szerinti esetekben nem alkalmazhatóak.
 
 (22) Az (1a) bekezdés c) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a felfüggesztett illetéket törli, ha az (1a) bekezdés c) pontja szerinti bérlő vagy annak magánszemély örököse az (1a) bekezdés c) pontja szerinti szerződés hatályának beálltától számított 5 éven belül a szerződés aláírását közvetlenül megelőző tulajdoni hányadának megfelelő tulajdoni hányadot visszavásárolja.
 
@@ -636,6 +650,8 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 (2) A 18. § (2) bekezdésének h) pontján alapuló illetékkötelezettség esetén a 18. § (4) bekezdésének a)–c) pontjaiban felsorolt személyek kötelesek az illetéket megfizetni a 19. § (5) bekezdése szerint a tulajdonukban lévő vagyoni betét alapján számított illetékalap után.
 
 (3) Az illeték megfizetéséért felelősök körére egyebekben az adózás rendjéről szóló törvény rendelkezései az irányadóak azzal az eltéréssel, hogy az öröklési illeték megfizetéséért az örököstárs egyetemleges felelőssége nem állapítható meg.
+
+(4) A 18. § (1a) bekezdése szerinti esetekben a visszterhes vagyonátruházási illetéket az átruházó fél köteles megfizetni.
 
 ## HARMADIK RÉSZ — AZ ELJÁRÁSI ILLETÉKEK ÉS AZ IGAZGATÁSI, BÍRÓSÁGI SZOLGÁLTATÁSOK DÍJA
 
@@ -764,7 +780,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 - 45. a mezőgazdasági termelő székhelye vagy lakóhelye és a művelése alatt álló termőföld, tanya vagy használatában lévő telephely között, termény szállítása esetén, az útdíj köteles elemi útszakaszra vonatkozó, díjmentes viszonylati jegy váltására jogosító hatósági bizonyítvány kiállítására irányuló eljárás;
 - 46. a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásába (a továbbiakban: szolgáltatói nyilvántartás) való felvétel, az adatmódosítás, a szolgáltatói nyilvántartásból való törlés, a szolgáltatói nyilvántartással kapcsolatos bejelentések, a szolgáltatói nyilvántartás adatairól hatósági bizonyítvány kiállítása és a szolgáltatói nyilvántartásból teljesített egyéb adatszolgáltatás;
 - 47. a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti, a mező- és erdőgazdasági hasznosítású föld tulajdonjoga megszerzésének, valamint a földhasználati szerződésnek a mezőgazdasági igazgatási szerv általi hatósági jóváhagyására irányuló eljárás, továbbá a földhasználati nyilvántartási eljárás;
-- 48. kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése miatt kezdeményezett elsőfokú közigazgatási hatósági eljárás.
+- 48. kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése, továbbá az okmány gyártáshibája, valamint a tároló elem hibás adattartalma vagy nem megfelelő működése miatt kezdeményezett közigazgatási hatósági eljárás;
 - 49. a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente négy alkalommal;
 - 50. a vállalkozói igazolvánnyal és az üzlet működési engedélyével kapcsolatos eljárás;
 - 51. évente egy alkalommal az állandó személyazonosító igazolvány és a lakcímet igazoló hatósági igazolvány kiadására irányuló eljárás;
@@ -1552,6 +1568,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 91. § (1) Az ingatlan tulajdonjogának, valamint az ingatlanhoz kapcsolódó vagyoni értékű jognak a megszerzését (megszüntetését) az ingatlanügyi hatósághoz kell bejelenteni illetékkiszabásra az azt tartalmazó szerződés (okirat), valamint az állami adóhatóság által erre a célra rendszeresített – a felek adóazonosító számát vagy az ennek hiányára utaló nyilatkozatot is tartalmazó – nyomtatvány benyújtásával, az ingatlan-nyilvántartási bejegyzésre irányuló kérelemmel egyidejűleg, az illetékkötelezettség keletkezését követő 30 napon belül.
 
+(1a) A 18. § (1a) bekezdése szerinti esetben az átruházó fél az (1) bekezdésben említett nyomtatványon nyilatkozik arról, hogy a jogügylet tárgya a 102. § (1a) bekezdés a)–b) pontja szerinti vagyontárgy.
+
 (2) A vagyonszerzési illeték tárgyát képező, de ingatlan-nyilvántartási eljárást nem igénylő jogügyletet a szerződő felek – a 76. §-ban említett eset kivételével – közvetlenül az állami adóhatóságnak kötelesek bejelenteni. A bejelentést az illetékkötelezettség keletkezését követő 30 napon belül, a vagyonszerzést rögzítő irat eredeti és másolati példányának vagy – elektronikus ügyintézés keretében való bejelentés esetén (ha a vagyonszerzést rögzítő irat nem elektronikus irat) – az irat hiteles elektronikus másolati példányának benyújtásával kell teljesíteni. A nem elektronikus másolatot az állami adóhatóság illetékmentesen hitelesíti.
 
 (3) Az okirat kiállítása nélkül is illetékköteles jogügyletet szóval is be lehet jelenteni. A szóbeli bejelentést írásba kell foglalni, és a bejelentés megtörténtéről az állami adóhatóság az ügyfélnek igazolást köteles adni.
@@ -1739,6 +1757,11 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 - w) közigazgatási hatósági eljárás: az az eljárás, amelynek intézése során a hatóság döntésével az ügyfél jogát vagy kötelezettségét megállapítja, jogvitáját eldönti, jogsértését megállapítja, tényt, állapotot, adatot igazol vagy nyilvántartást vezet, illetve az ezeket érintő döntését érvényesíti, továbbá a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott bejelentés;
 - z) cég: a cégnyilvánosságról, a bírósági eljárásról és a végelszámolásról szóló 2006. évi V. törvény 2. §-ában meghatározott jogalany.
 
+(1a) E törvény alkalmazásában
+
+- a) belterületbe vont ingatlan: az olyan ingatlan, amelyet a tulajdonosa, vagyoni értékű jogának jogosítottja tulajdonjogának, vagyoni értékű jogának – ajándékozás útján szerzett ingatlan esetén a megajándékozó (több, egymást követő ajándékozás esetén valamennyi megajándékozó), a 26. § (1) bekezdés g), h), q), t) pontja szerinti ügylet keretében szerzett ingatlan esetén a jogelőd [több, 26. § (1) bekezdés g), h), q) pontja szerinti ügylet esetén valamennyi jogelőd], vagy a kapcsolt vállalkozás [több, 26. § (1) bekezdés t) pontja szerinti ügylet esetén valamennyi kapcsolt vállalkozás] tulajdonjogának, vagyoni értékű jogának – fennállása ideje alatt, de az ingatlan átruházását megelőző 10 éven belül minősítettek belterületté, ide nem értve azt az ingatlant, amelyet az átruházó fél általi megszerzést követő 6. évben vagy azt követően minősítettek belterületté, vagy az átruházó öröklés útján szerzett meg;
+- b) belterületbe vont ingatlannal rendelkező társaság: az olyan gazdálkodó szervezet, amely belterületbe vont ingatlan – közvetett vagy közvetlen – tulajdonosa.
+
 (2) A 2. § (1) bekezdésében megjelölt Magyarországon élő nem magyar állampolgárnak azt kell tekinteni, aki
 
 - a) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogával rendelkezik,
@@ -1754,6 +1777,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 102/A. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 91. § (2) bekezdését és 80. § (1) bekezdés c) pontját 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 102/B. § E törvénynek az illetékekről szóló 1990. évi XCIII. törvény és a szövetkezetekről szóló 2006. évi X. törvény módosításáról szóló 2017. évi CXXII. törvénnyel (a továbbiakban: 2017. évi CXXII. törvény) megállapított 45. § (1a) bekezdését a 2017. évi CXXII. törvény hatálybalépésekor bejegyzett, vagy bejegyzés alatt álló közérdekű nyugdíjas szövetkezet esetében is alkalmazni kell. A közérdekű nyugdíjas szövetkezetnek a megfizetett illetéket az állami adóhatóság a cégbíróság visszatérítésről szóló végzése alapján, a végzés közlésétől számított 30 napon belül, hivatalból téríti vissza a 79. § (4) bekezdésének alkalmazásával. A végzést a cégbíróság az állami adóhatósággal elektronikus úton közli.
+
+102/C. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról szóló 2019. évi XCIX. törvénnyel megállapított 18. § (1a) bekezdését, 19. § (6) bekezdését, 26. § (21) bekezdését, 27. § (4) bekezdését, 91. § (1a) bekezdését, 102. § (1a) bekezdését azon belterületbe vont ingatlanok, belterületbe vont ingatlannal rendelkező társaság vagyoni betétjének átruházása esetén kell alkalmazni, amely ingatlanok belterületbe vonása 2020. január 31-ét követően történt.
 
 103. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -1900,7 +1925,7 @@ b) a külügyi szolgálati útlevél,
 
 c) a határátlépési igazolvány,
 
-d) az úti okmány cseréje, amennyiben az úti okmány tároló eleme nem tartalmazza vagy hibásan tartalmazza a törvényben meghatározott adatokat, illetve az nem működik,
+d)
 
 e) a 65. életévét betöltött személy magánútlevele.
 
@@ -1930,7 +1955,7 @@ IV. Egyéb rendelkezések
 
 2. Illetékmentes:
 
-a) az e címben meghatározott okmány cseréje, ha az okmány gyártáshibás;
+a)
 
 b) a személyi azonosító képzése – ideértve a személyi azonosító megváltozását eredményező adatváltozást is – miatt kiállított hatósági igazolvány;
 

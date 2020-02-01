@@ -1270,7 +1270,16 @@ indul meg.
 
 87. § (1) Akit a szabálysértési hatóság, a bíróság, valamint a helyszíni bírság kiszabására jogosult szerv vagy személy az eljárási cselekményre idéz, köteles megjelenni. A szabálysértési hatóság, a bíróság, valamint a helyszíni bírság kiszabására jogosult szerv vagy személy azt idézi, akinek a meghallgatása indokolt vagy jelenléte kötelező. Az idézés ellen nincs helye jogorvoslatnak.
 
-(2) Az idézést – e törvényben foglaltak kivételével – írásban kell közölni úgy, hogy azt az idézett személy az idézésben megjelölt napnál öt nappal korábban megkapja. Ha ugyanabban az eljárásban az idézett személlyel szemben korábban eljárási cselekményt foganatosítottak, úgy az idézést három nappal korábban kell megkapnia. Az idézésben meg kell jelölni, hogy a szabálysértési hatóság, illetve a bíróság az idézett személyt milyen ügyben és milyen minőségben kívánja meghallgatni, egyúttal figyelmeztetni kell a megjelenés elmulasztásának következményeire.
+(2) Az e törvényben foglalt kivételekkel az idézést, illetve az értesítést írásban kell közölni úgy, hogy azt a címzett legkésőbb az eljárási cselekmény időpontja előtt öt nappal megkapja.
+
+(2a) Az idézésben, illetve értesítésben meg kell jelölni
+
+- a) az idézést, illetve értesítést kibocsátó bíróság vagy szabálysértési hatóság megnevezését, az ügy számát,
+- b) azt, hogy az idézettnek hol, mikor, milyen minőségben kell megjelennie,
+- c) azt, hogy az értesített hol, mikor, milyen minőségben jelenhet meg,
+- d) a távolmaradás következményeire való figyelmeztetést.
+
+(2b) Az idézett az idézésben felhívható arra, hogy az ügyre vonatkozó iratain kívül a bizonyításnál felhasználható feljegyzéseit vagy egyéb tárgyait hozza magával.
 
 (3) Ha az idézés kézbesítésére a (2) bekezdésben meghatározott tartamnál rövidebb idő alatt kerül sor, az idézett személy beleegyezése esetén az eljárási cselekményt foganatosítani lehet.
 
@@ -1296,7 +1305,9 @@ indul meg.
 
 - a) személyesen,
 - b) postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó külön jogszabályok szerint,
-- c) szabálysértési jogsegély keretében történhet.
+- c) szabálysértési jogsegély keretében,
+- d) az (5) bekezdésben meghatározott esetben hirdetményi úton,
+- e) elektronikus úton az E-ügyintézési törvény szerinti hivatalos elérhetőségre, illetve biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre történhet.
 
 (2) Joghatás csak a szabályszerű kézbesítéshez kapcsolódik. A kézbesítés akkor szabályszerű, ha annak megtörténtét a jogszabályban jogosultként megjelölt személy aláírásával ellátott tértivevény, illetve jegyzőkönyv vagy határozatpéldány igazolja. A kézbesítés akkor is szabályszerű, ha az arra jogosult a jegyzőkönyv vagy határozatpéldány aláírását megtagadja és a szabálysértési hatóság, bíróság ennek tényét az iratra feljegyzi.
 
@@ -1304,9 +1315,9 @@ indul meg.
 
 (4) Az elővezetést elrendelő határozatot a foganatosításkor kell átadni a határozatban megnevezett személynek.
 
-(5) Az ismeretlen helyen tartózkodó eljárás alá vont személy, valamint az elkövető részére a határozatot és a bíróság végzését hirdetményi úton is lehet kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza az ügy számát és tárgyát, az eljárás alá vont személy nevét és utolsó ismert lakcímét, a kifüggesztés napját, továbbá, hogy a címzett az iratot melyik szabálysértési hatóságnál vagy bíróságnál veheti át.
+(5) Az ismeretlen helyen tartózkodó eljárás alá vont személy, valamint az elkövető részére a hivatalos iratot hirdetményi úton is lehet kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza az ügy számát és tárgyát, az eljárás alá vont személy nevét és utolsó ismert lakcímét, a kifüggesztés napját, továbbá, hogy a címzett az iratot melyik szabálysértési hatóságnál vagy bíróságnál veheti át.
 
-(6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő szabálysértési hatóság vagy bíróság, valamint – ha ilyen van – a címzett utolsó ismert lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. A hirdetmény útján közölt döntést a hirdetménynek az eljáró szabálysértési hatóságnál vagy a bíróságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
+(6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő szabálysértési hatóság vagy bíróság, valamint – ha ilyen van – a címzett utolsó ismert lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. A hirdetmény útján közölt hivatalos iratot a hirdetménynek az eljáró szabálysértési hatóságnál vagy a bíróságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
 #### 74. A kézbesítési vélelem megdöntése
 
@@ -2050,7 +2061,12 @@ téríti meg.
 
 (1a) A szabálysértési elzárást a szabálysértési őrizetet foganatosító rendőrség székhelye szerinti rendőrségi fogdában kell végrehajtani, ha az elkövető a rendőrség őrizetében van, és a 9. § (3) bekezdése szerinti beszámítást követően az elzárás hátralevő tartama a két napot nem haladja meg. Ha az elkövető rendőrségi fogdába történő befogadására férőhely hiányában nincs lehetőség, az elkövetőt büntetés-végrehajtási intézetbe kell szállítani.
 
-(1b) A szabálysértési elzárás végrehajtását az elfogás helye szerinti illetékes rendőrségi fogdában kell megkezdeni, ha az elkövető büntetés-végrehajtási intézetbe történő előállítására a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor. Ha az elkövető rendőrségi fogdába történő befogadására férőhely hiányában vagy az elkülönítési szabályok betartása miatt nincs lehetőség, az elkövetőt büntetés-végrehajtási intézetbe kell szállítani, amelynek az elkövetőt a hivatali munkarendjén kívül is be kell fogadnia.
+(1b) A szabálysértési elzárás végrehajtását
+
+- a) az elfogás helye szerinti illetékes rendőrségi fogdában kell megkezdeni, ha az elkövető büntetés-végrehajtási intézetbe történő előállítására,
+- b) a szabálysértési őrizetet foganatosító rendőrség székhelye szerinti rendőrségi fogdában kell megkezdeni az (1a) bekezdésben foglaltakon kívül abban az esetben is, ha az elkövető büntetés-végrehajtási intézetbe történő átszállítására
+
+a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor. Ha az elkövető rendőrségi fogdába történő befogadására férőhely hiányában vagy az elkülönítési szabályok betartása miatt nincs lehetőség, az elkövetőt büntetés-végrehajtási intézetbe kell szállítani, amelynek az elkövetőt a hivatali munkarendjén kívül is be kell fogadnia.
 
 (1c) Az (1b) bekezdés szerint megkezdett szabálysértési elzárást a rendőrségi fogdán kell végrehajtani, ha a szabálysértési elzárás hátralévő ideje a büntetés-végrehajtási intézetbe történő befogadáskor kevesebb lenne, mint két nap.
 
@@ -2456,7 +2472,7 @@ vehető nyilvántartásba.
 - h) a pénzbírság, helyszíni bírság helyébe lépő közérdekű munka időtartamát, teljesítésének kezdő és befejező időpontját, vagy nem teljesítésének tényét,
 - i) a pénzbírság, helyszíni bírság szabálysértési elzárásra átváltoztatásának tényét, az e tényt megállapító bíróság megnevezését, határozatának számát és keltét, valamint a szabálysértési elzárás tartamát,
 - j) a kiszabott büntetés, alkalmazott intézkedés elengedésének, illetve mérséklésének tényét, az erről szóló határozatot hozó szerv megnevezését, határozatának számát és keltét,
-- k) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás elhalasztásának vagy félbeszakításának tényét, az erről szóló határozat számát és keltét,
+- k) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás elhalasztásának, felfüggesztésének vagy félbeszakításának tényét, az erről szóló határozat számát és keltét,
 - l) a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, a közérdekű munka helyébe lépő szabálysértési elzárás tényleges kezdő és utolsó napját, az azonnali szabadítás elrendelésének az időpontját, az elzárás felfüggesztésének tényét és a próbaidő tartamát,
 - m) a közérdekű munka büntetésre jelentkezés időpontját, teljesítésének kezdő és befejező időpontját, vagy nem teljesítésének tényét,
 - n) a közérdekű munka szabálysértési elzárásra átváltoztatásának tényét, az e tényt megállapító bíróság megnevezését, határozatának számát és keltét, valamint a szabálysértési elzárás tartamát,
@@ -2493,7 +2509,7 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 
 (5) A (3) bekezdés a), c) és d) pontjában meghatározott adatokat az előkészítő eljárást lefolytató szerv vagy a szabálysértési hatóság is közölheti.
 
-(6) Ha a bíróság a büntetőeljárásról szóló 1998. évi XIX. törvény 337. § (1) bekezdése szerint jár el, akkor a (3) bekezdés a) pontja, valamint a 154. § (3) bekezdése szerinti adatrögzítési kötelezettségének az általános szabálysértési hatóság útján tesz eleget.
+(6) Ha a bíróság a büntetőeljárásról szóló 2017. évi XC. törvény 573. § (1) bekezdése szerint jár el, akkor a (3) bekezdés a) pontja, valamint a 154. § (3) bekezdése szerinti adatrögzítési kötelezettségének az általános szabálysértési hatóság útján tesz eleget.
 
 #### 115. A szabálysértési eljárás hatálya alatt állók nyilvántartása
 
@@ -2983,7 +2999,9 @@ szabálysértést követ el.
 
 szabálysértést követ el.
 
-(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2a) Aki a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 17a. pontja szerinti, a Honvédséghez köthető megjelölést jogosulatlanul használ, szabálysértést követ el.
+
+(3) Az (1), (2) és (2a) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
 #### 138. Szexuális szolgáltatásra való felhívás tilalma
 

@@ -371,6 +371,8 @@ a bírósági végrehajtásról
 
 (5) A végrehajtás (biztosítási intézkedés) elrendeléséért további munkadíj, költségtérítés és illeték – ide nem értve a jogorvoslati eljárás illetékét – nem számítható fel.
 
+(5a) A közjegyző által elrendelt végrehajtási eljárás során benyújtott végrehajtási lap visszavonása vagy végrehajtási záradék törlése iránti kérelem előterjesztéséért a közjegyző részére díjat kell fizetni, amelynek mértéke 15 000 forint. Ha a kérelem alapos, a közjegyző a végrehajtási lap visszavonása, vagy a végrehajtási záradék törlése tárgyában hozott döntésében hivatalból rendelkezik a megfizetett díjnak a kérelmet előterjesztő részére történő visszafizetéséről.
+
 (6) A közjegyző által foganatosítandó hirdetményi kézbesítésre az egyes közjegyzői nemperes eljárásokról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (7) A Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) és a végrehajtást elrendelő közjegyző a végrehajtás elrendelése során keletkezett adatokat kezeli. A MOKK az elrendelt végrehajtási ügyre vonatkozó adatokat a számítástechnikai rendszerén keresztül elektronikus úton továbbítja a Kar hivatali szerve részére.
@@ -4213,6 +4215,8 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 (3) A bűnügyi követelés esetén, a büntetőeljárásban elrendelt zár alá vétellel, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedéssel érintett ügyek esetén az állam nem mond le a követeléséről.
 
 (4) E törvény alapján a bírósági titkár elvégzi a 2019. december 31. napját követően a korábban a törvényszéki végrehajtó hatáskörébe tartozó, de törvény alapján még az állami adó- és vámhatóságnak át nem adott végrehajtási ügyekben felmerülő valamennyi szükséges intézkedést.
+
+304/F. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel (a továbbiakban: Módtv.10.) megállapított 31/E. § (5a) bekezdése szerinti, végrehajtási lap visszavonása vagy végrehajtási záradék törlése iránti kérelem előterjesztéséért fizetett díjat a 2020. február 1-je után előterjesztett kérelmek után kell megfizetni.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 

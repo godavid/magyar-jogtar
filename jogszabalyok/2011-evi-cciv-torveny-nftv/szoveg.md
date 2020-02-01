@@ -2701,7 +2701,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 114/D. § (1) A 85/A. § (1) bekezdése alapján
 
-- a) az egy főre megállapított hallgatói normatíva 128 520 Ft/év,
+- a) az egy főre megállapított hallgatói normatíva 166 600 Ft/év,
 - b) a doktori képzésben részt vevők egy főre meghatározott támogatása
   - ba) a képzési és kutatási szakaszban 1 680 000 Ft/év,
   - bb) a kutatási és disszertációs szakaszban 2 160 000 Ft/év,
