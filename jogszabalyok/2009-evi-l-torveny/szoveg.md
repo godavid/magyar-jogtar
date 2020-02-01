@@ -626,6 +626,8 @@ kell megfizetni.
 
 (8) Ha a közjegyző a végrehajtási eljárást a 32. § (2) bekezdése alapján szünteti meg és a végrehajtást kérő díjfeljegyzési joga folytán a végrehajtási díjat nem fizette meg, a közjegyző felhívja a kötelezettet, hogy a feljegyzett végrehajtási díjat a MOKK részére a végzés kézhezvételétől számított tizenöt napon belül fizesse meg; ezt a végrehajtási díjat a kötelezett viseli. Ha a kötelezett a végrehajtási díjat határidőn belül a MOKK részére nem fizeti meg, a közjegyző az ellentmondást visszautasítja.
 
+(9) A végrehajtási lap visszavonása iránti kérelem előterjesztéséért a MOKK részére – a MOKK rendszere üzemeltetési költségeinek, valamint a közjegyzők munkadíjának és költségeinek fedezése érdekében – 15.000 Ft díjat kell fizetni; a díj öthatodát a MOKK a végrehajtást elrendelő közjegyzők között az elvégzett munka arányában az igazságügyért felelős miniszter rendeletében meghatározottak szerint munkadíj és költségtérítés címén megosztja, a fennmaradó összeget a MOKK a működésére fordítja. Ha a kérelem alapos, a közjegyző a végrehajtási lap visszavonása tárgyában hozott döntésében hivatalból rendelkezik a megfizetett díjnak a kérelmet előterjesztő részére történő visszafizetéséről.
+
 ### A MOKK rendszere
 
 56. § (1) A fizetési meghagyásos eljárásban keletkezett papír alapú vagy elektronikus iratok adattartama, valamint az egyes eljárási cselekmények megtételének ténye a MOKK rendszerébe kerül bevitelre, illetve rögzítésre. A MOKK rendszerében – a felek eljárási jogainak érvényesülése és az eljárások párhuzamos lefolytatásának megelőzése érdekében – rögzített adatokat a közjegyző és a MOKK kezeli.
@@ -733,6 +735,8 @@ rendeletben állapítsa meg.
 (11) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított 37. § (4a) bekezdését a 2016. január 1. napján és az azt követően indult ügyekben kell alkalmazni.
 
 (12) E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított 37. § (4a) bekezdését 2016. június 30. napjáig akkor kell alkalmazni, ha a jogosult vagy képviselője az elektronikus kapcsolattartást választja. 2016. július 1-jétől ugyanezen bekezdésnek a kötelező elektronikus kapcsolattartásra vonatkozó rendelkezését a 2016. július 1. napján és az azt követően indult ügyekben kell alkalmazni.
+
+(13) E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel megállapított 55. § (9) bekezdése szerinti, a végrehajtási lap visszavonása iránti kérelem előterjesztéséért fizetett díjat a 2020. február 1-je után előterjesztett kérelmek után kell megfizetni.
 
 ### Módosuló jogszabályok
 

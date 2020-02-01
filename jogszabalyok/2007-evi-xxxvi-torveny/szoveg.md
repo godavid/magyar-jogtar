@@ -35,7 +35,7 @@ alkalmazandó.
 
 - a) az eljárási jogsegély kibocsátásával és teljesítésével kapcsolatban – a d) pontban foglaltak kivételével – a legfőbb ügyész,
 - b) az ENYH kibocsátásával, valamint végrehajtásával kapcsolatban a legfőbb ügyész,
-- c) a pénzbírságot kiszabó jogerős szabálysértési határozat átvételével és átadásával kapcsolatban a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott szerv, valamint
+- c) a pénzbírságot kiszabó jogerős szabálysértési határozat – ideértve a 27. § (1b) bekezdésében foglalt határozatokat is – átvételével és átadásával kapcsolatban a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott szerv, valamint
 - d) a közúti közlekedési nyilvántartás jármű nyilvántartásából történő automatizált adatkeresés esetén a közúti közlekedési nyilvántartó szerv.
 
 (5) E törvény alkalmazásában
@@ -415,7 +415,7 @@ vonatkozásában kezdeményezik.
 
 (3a) Ha a kibocsátó állam a pénzbírság közérdekű munkára vagy elzárásra történő átváltoztatásához hozzájárult és annak tartamát meghatározta, az átváltoztatott pénzbírság tartamát a kibocsátó állam által meghatározott tartamban kell meghatározni.
 
-(4) Az általános szabálysértési hatóság az elkövető részére a pénzbírság és eljárási költség megfizetésére harminc napos határidőt biztosít, egyúttal tájékoztatja az elkövetőt a meg nem fizetett pénzbírság közérdekű munkával történő megváltásáról. A tájékoztatásnak ki kell terjednie arra, hogy ha az elkövető a pénzbírságot nem fizeti meg, helyébe milyen tartamú közérdekű munka lép, valamint arra is, hogy a pénzbírság befizetésére nyitva álló határidő lejártát követő harmadik munkanapig személyesen jelentkezhet a lakóhelye vagy tartózkodási helye szerint illetékes állami foglalkoztatási szervnél a pénzbírság közérdekű munkával történő megváltása érdekében. Amennyiben az eljárás alá vont személy az állami foglalkoztatási szerv előtti megjelenési kötelezettségének határidőben nem tesz eleget, a szabálysértési hatóság intézkedik a pénzbírság szabálysértési elzárásra történő átváltoztatásáról vagy annak adók módjára történő behajtásáról; e körülményekre a tájékoztatásnak úgyszintén ki kell terjednie.
+(4) Az általános szabálysértési hatóság az elkövető részére a pénzbírság és eljárási költség megfizetésére harminc napos határidőt biztosít, egyúttal tájékoztatja az elkövetőt a meg nem fizetett pénzbírság közérdekű munkával történő megváltásáról. A tájékoztatásnak ki kell terjednie arra, hogy ha az elkövető a pénzbírságot nem fizeti meg, helyébe milyen tartamú közérdekű munka lép, valamint arra is, hogy a pénzbírság befizetésére nyitva álló határidő lejártát követő nyolcadik munkanapig személyesen jelentkezhet a lakóhelye vagy tartózkodási helye szerint illetékes állami foglalkoztatási szervnél a pénzbírság közérdekű munkával történő megváltása érdekében. Amennyiben az eljárás alá vont személy az állami foglalkoztatási szerv előtti megjelenési kötelezettségének határidőben nem tesz eleget, a szabálysértési hatóság intézkedik a pénzbírság szabálysértési elzárásra történő átváltoztatásáról vagy annak adók módjára történő behajtásáról; e körülményekre a tájékoztatásnak úgyszintén ki kell terjednie.
 
 (5) Amennyiben az elkövető jelentkezik az állami foglalkoztatási szervnél, akkor az állami foglalkoztatási szerv soron kívül értesíti a végrehajtásért felelős általános szabálysértési hatóságot.
 
@@ -423,7 +423,7 @@ vonatkozásában kezdeményezik.
 
 (1a) Az (1) bekezdés az Európai Unió tagállamaiból érkező jogsegély esetén akkor alkalmazható, ha a cselekményt nem a kibocsátó állam területén követték el és az elbírálásra a magyar joghatóság kiterjed. Ebben az esetben a végrehajtás a külföldi határozatban kiszabott pénzbírság teljes összegére terjed ki, abban az esetben is, ha a pénzbírság összege meghaladja a magyar jogszabályok szerint kiszabható legmagasabb összeget.
 
-(2) Ha az elkövető igazolja, hogy a külföldi határozatban megjelölt összeget részben vagy egészben megfizette, a általános szabálysértési hatóság értesítése alapján a központi hatóság az eljárást felfüggeszti, és egyidejűleg megkeresi a határozatot kibocsátó külföldi hatóságot, hogy a megfizetés tényéről harminc napon belül nyilatkozzon. Ha a megadott határidőn belül a külföldi hatóság a megkeresésre nem válaszol, az eljárást meg kell szüntetni.
+(2) Ha az elkövető igazolja, hogy a külföldi határozatban megjelölt összeget részben vagy egészben megfizette, a általános szabálysértési hatóság értesítése alapján a központi hatóság az eljárást felfüggeszti, és egyidejűleg megkeresi a határozatot kibocsátó külföldi hatóságot, hogy a megfizetés tényéről hatvan napon belül nyilatkozzon. Ha a megadott határidőn belül a külföldi hatóság a megkeresésre nem válaszol, az eljárást meg kell szüntetni.
 
 32. § A külföldi pénznemben kiszabott pénzbírság és az eljárási költség végrehajtását Magyarország hivatalos pénznemében kell teljesíteni. Az átváltásnál a pénzbírságot kiszabó határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyam alapján a feltüntetett középárfolyamot kell figyelembe venni.
 

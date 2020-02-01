@@ -302,6 +302,8 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (9) A szülői hozzájáruló nyilatkozat megtételére elektronikus kapcsolattartás útján is sor kerülhet.
 
+(10) Ha a kérelmező a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti kérelem előterjesztésekor a személyazonossága igazolására útlevelet mutat be, és az útlevél tároló eleme tartalmaz második biometrikus adatot, a második biometrikus adatot az eljáró hatóság személyazonosítás céljából összeveti a polgár ujjnyomatával, kizárólag abból a célból, hogy a személyazonosság igazolására bemutatott útlevél és a polgár közötti kapcsolat kétséget kizáróan megállapítható legyen. Az eljáró hatóság az összevetés elvégzéséig kezelheti a második biometrikus adatot.
+
 21/C. § Ha az útlevélhatóság határozatának meghozatala az ügyfél magyar állampolgárságának megállapításától mint előkérdés előzetes elbírálásától függ, a közreműködő hatóság vagy az általános hatáskörű útlevélhatóság az eljárást felfüggeszti.
 
 22. § (1)
@@ -423,7 +425,8 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 - a) a polgárok személyi adatainak és lakcímének nyilvántartásából,
 - b) az adatkezelő szervtől a 24. § (1) bekezdése alapján kezelt adatokból, kivéve a 24. § (1) bekezdés g) pontjában meghatározott adatokat, valamint
-- c) közvetlenül vagy az adatkezelő szerv útján a bűnügyi nyilvántartásból, a rendőrség központi személy-, tárgy- és gépjármű-körözési nyilvántartó rendszeréből és a büntetés-végrehajtás központi nyilvántartásából, az állampolgársági ügyekben eljáró szervtől és az idegenrendészeti vagy menekültügyi hatóságtól.
+- c) közvetlenül vagy az adatkezelő szerv útján a bűnügyi nyilvántartásból, a rendőrség központi személy-, tárgy- és gépjármű-körözési nyilvántartó rendszeréből és a büntetés-végrehajtás központi nyilvántartásából, az állampolgársági ügyekben eljáró szervtől és az idegenrendészeti vagy menekültügyi hatóságtól,
+- d) közvetlenül vagy az adatkezelő szerv útján a vezetői engedély tekintetében a közúti közlekedési nyilvántartás engedély-nyilvántartásából a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá a 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.
 
 (1a) Az útlevélhatóság – saját, illetve közreműködői feladatellátása céljából is – a kérelmező anyakönyvi adatainak beszerzése érdekében elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel jogosult adatokat átvenni az elektronikus anyakönyvből.
 
@@ -441,6 +444,8 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 (1c) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat a körözési nyilvántartó szerv részére az úti okmány adatainak a körözési nyilvántartási rendszerbe rögzítését megelőző ellenőrzése céljából átadhatja.
 
 (1d) Az adatkezelő szerv a szerencsejáték szervezéséről szóló törvény szerinti szervező részére a természetes személy által a magánútlevele alapján megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségének és az úti okmány érvényességének tényéről adatszolgáltatást teljesít a természetes személy személyazonosságának igazoló ellenőrzése céljából.
+
+(1e) Az adatkezelő szerv az elektronikus ügyintézési ponton történő személyazonosítás céljából a polgár útiokmány-nyilvántartásban szereplő, az azonosításhoz szükséges természetes személyazonosító adatait szolgáltatja.
 
 (2) Az adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § (1) bekezdés g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 

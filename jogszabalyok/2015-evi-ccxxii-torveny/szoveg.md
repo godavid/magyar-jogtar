@@ -126,6 +126,8 @@ jár el.
 
 (2) Az elektronikus ügyintézést biztosító szerv az elektronikus ügyintézést támogató és a jogszabályban előírt feltételeket biztosító rendszerfolyamatokat az ügyfél érdekeinek figyelembevételével alakítja ki.
 
+(3) Az elektronikus ügyintézést biztosító szerv köteles az e-ügyintézési szolgáltatásainak működtetéséhez és az ügyintézésbe bevont társszervekkel való kapcsolattartáshoz szükséges belső működését, folyamatait teljeskörűen elektronizálni, ehhez az elektronikus információs rendszereket biztosítani.
+
 7. § Az elektronikus ügyintézés során biztosítani kell a közérdekű, illetve közérdekből nyilvános adatok megismerhetőségét és a személyes, a minősített és a nem nyilvános adatok védelmét.
 
 ### II. Fejezet — AZ ELEKTRONIKUS ÜGYINTÉZÉS
@@ -662,7 +664,7 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 
 (17) A (16) bekezdésben foglalt esetben a Központi Ügyfél-regisztrációs Nyilvántartásba a (10) bekezdés a) pontja szerinti adatokat a személyiadat- és lakcímnyilvántartást kezelő szerv adatközlése alapján a tároló elemet tartalmazó személyazonosító igazolvány érvényessé válásakor kell bejegyezni.
 
-(18) A személyiadat- és lakcímnyilvántartást kezelő szerv értesíti a Központi Ügyfél-regisztrációs Nyilvántartást kezelő szervet a tárolóelemet tartalmazó személyazonosító igazolvány érvénytelenné válása tényéről és időpontjáról.
+(18) A személyiadat- és lakcímnyilvántartást kezelő szerv értesíti a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervet a tárolóelemet tartalmazó személyazonosító igazolvány érvénytelenné válása tényéről és időpontjáról.
 
 #### 22. Adatkezelés
 
@@ -896,7 +898,9 @@ a Kormány által rendeletben meghatározott adattartalommal adatbázist vezet �
 
 #### 31. Az együttműködésre vonatkozó szabályok alkalmazása
 
-51. § (1) Az e Részben foglalt szabályokat az elektronikus ügyintézést biztosító szervek, valamint a Kormány által kijelölt közfeladatot ellátó szervek (a továbbiakban együtt: együttműködő szervek) e minőségükben az e törvényben és más jogszabályban előírt vagy lehetővé tett egymás közötti kapcsolattartására, információátadásaira, valamint az egymás közötti információátadással járó ügyek intézésére és eljárások során az e törvényben meghatározottak szerint informatikai együttműködésre kell alkalmazni.
+51. § (1) Az e Részben foglalt szabályokat – az (1a) bekezdésben foglaltak kivételével – az elektronikus ügyintézést biztosító szervek, valamint a Kormány által kijelölt közfeladatot ellátó szervek (a továbbiakban együtt: együttműködő szervek) e minőségükben az e törvényben és más jogszabályban előírt vagy lehetővé tett egymás közötti kapcsolattartására, információátadásaira, valamint az egymás közötti információátadással járó ügyek intézésére és eljárások során az e törvényben meghatározottak szerint informatikai együttműködésre kell alkalmazni.
+
+(1a) Az információkhoz, eljárásokhoz, valamint segítségnyújtó és problémamegoldó szolgáltatásokhoz hozzáférést biztosító egységes digitális kapu létrehozásáról, továbbá az 1024/2012/EU rendelet módosításáról szóló, 2018. október 2-i (EU) 2018/1724 európai parlamenti és tanácsi rendelet végrehajtásához szükséges, az Egységes Digitális Kapuhoz való csatlakozással és annak működtetésével kapcsolatos szabályokat kormányrendelet határozza meg.
 
 (2) E Részt
 
@@ -1710,7 +1714,8 @@ kell biztosítani.
 - o) az elektronikus ügyintézést biztosító szerveknek az ügyek intézésével kapcsolatos adatai biztonsági mentésének rendjét és gyakoriságát, valamint az adatok őrzéséért felelős szervet,
 - p) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket,
 - q) az elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak az 1. § 17. pont j) és l) alpontja szerinti jogalanyok általi használatáért számítható díj megállapításának módját,
-- r) a központi tárhely használatára kötelezett és a tárhelyszolgáltató együttműködésének a szabályait, illetve a központi tárhely igénybevételének a szabályait.
+- r) a központi tárhely használatára kötelezett és a tárhelyszolgáltató együttműködésének a szabályait, illetve a központi tárhely igénybevételének a szabályait,
+- s) az Egységes Digitális Kapuhoz való csatlakozással és annak működtetésével kapcsolatos részletszabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
@@ -1863,6 +1868,8 @@ kell biztosítani.
 111. § E törvény a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet III. fejezetének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 111/A. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+111/B. § E törvény az információkhoz, eljárásokhoz, valamint segítségnyújtó és problémamegoldó szolgáltatásokhoz hozzáférést biztosító egységes digitális kapu létrehozásáról, továbbá az 1024/2012/EU rendelet módosításáról szóló, 2018. október 2-i (EU) 2018/1724 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 112. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

@@ -105,21 +105,21 @@ a büntetés-végrehajtási szervezetről
 
 (2) A gazdasági társaságok részére az elítéltek foglalkoztatásából eredő sajátos és indokolt többletkiadásokat – a mindenkori költségvetési törvényben meghatározott mértékben – a központi költségvetés megtéríti.
 
-9/A. § (1) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – az átadás-átvétel és az ellentételezés miniszteri rendeletben meghatározott rendje szerint – a büntetés-végrehajtási szervezetet a miniszter vezetése, irányítása vagy felügyelete alá tartozó szervek részére ellátási kötelezettség terheli.
+9/A. § (1) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – az átadás-átvétel és az ellentételezés miniszteri rendeletben meghatározott rendje szerint – a büntetés-végrehajtási szervezetet a miniszter vezetése, irányítása vagy felügyelete alá tartozó szervek, valamint a miniszter tulajdonosi joggyakorlása alá tartozó gazdálkodó szervezet részére ellátási kötelezettség terheli.
 
-(2) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – kormányrendeletben foglaltak szerint – a büntetés-végrehajtási szervezetet a Magyar Honvédség, a kormányrendeletben meghatározott központi államigazgatási szerv, az autonóm államigazgatási szerv, az egészségügyért felelős miniszter irányítása alatt álló, az egészségügy területén működő országos intézet, az állam tulajdonába, illetve fenntartásába tartozó fekvőbeteg-szakellátás vagy fekvőbeteg- és hozzá kapcsolódó járóbeteg-szakellátást végző egészségügyi szolgáltató, tankerületi központok, valamint a szociál- és nyugdíjpolitikáért felelős miniszter irányítása és felügyelete alá tartozó szociális intézmény részére is ellátási kötelezettség terheli.
+(2) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – kormányrendeletben foglaltak szerint – a büntetés-végrehajtási szervezetet a Magyar Honvédség, a kormányrendeletben meghatározott központi államigazgatási szerv, az autonóm államigazgatási szerv, a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 2. §-ában meghatározott szerv, az egészségügyért felelős miniszter irányítása alatt álló, az egészségügy területén működő országos intézet, az állam tulajdonába, illetve fenntartásába tartozó fekvőbeteg-szakellátás vagy fekvőbeteg- és hozzá kapcsolódó járóbeteg-szakellátást végző egészségügyi szolgáltató, tankerületi központok, valamint a szociál- és nyugdíjpolitikáért felelős miniszter irányítása és felügyelete alá tartozó szociális intézmény részére is ellátási kötelezettség terheli.
 
 (3) A büntetés-végrehajtási szervezetet nem terheli a (2) bekezdésben meghatározott ellátási kötelezettség a Magyar Honvédség tekintetében, ha a honvédelemért felelős miniszter rendelkezése alapján a Magyar Honvédség egyéb beszerzési eljárást folytat le.
 
-(4) Az autonóm államigazgatási szervek tekintetében a büntetés-végrehajtási szervezetet a (2) bekezdésben meghatározott ellátási kötelezettség kizárólag ez irányú igénybejelentés esetén terheli.
+(4) Az autonóm államigazgatási szervek, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 2. §-ában meghatározott szervek tekintetében a büntetés-végrehajtási szervezetet a (2) bekezdésben meghatározott ellátási kötelezettség kizárólag ez irányú igénybejelentés esetén terheli.
 
 ### A bv. szervezet személyi állománya
 
-10. § (1) A bv. szervezet személyi állománya – a (2) és (2a) bekezdésben foglalt kivétellel – hivatásos büntetés-végrehajtási szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), továbbá külön jogszabályban meghatározott munkakörök esetén rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban álló személyekből állhat.
+10. § (1) A bv. szervezet személyi állománya hivatásos büntetés-végrehajtási szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), továbbá rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban álló személyekből állhat.
 
-(2) A gazdasági társaságoknál és a fogvatartottak foglalkoztatására létrehozott költségvetési szerveknél alkalmazottak hivatásos szolgálati jogviszonyban, közalkalmazotti jogviszonyban vagy munkaviszonyban állhatnak.
+(2)
 
-(2a) A bv. szervezetben működtetett fegyveres biztonsági őrségnél alkalmazottak a rendvédelmi igazgatási szolgálati jogviszony mellett munkaviszonyban is állhatnak.
+(2a)
 
 (3) A rendvédelmi igazgatási szolgálati jogviszonyban álló, illetve munkaviszonyban álló személy csak olyan munkakört láthat el, amelyhez a hivatásos szolgálati jogviszony létesítésének sajátos feltételei nem szükségesek.
 
@@ -135,7 +135,7 @@ a büntetés-végrehajtási szervezetről
 
 (5) Az (1)—(3) bekezdés szerinti jogviszonyok tartalmát külön törvények szabályozzák.
 
-(6) Az országos parancsnok vagy a bv. szerv parancsnoka munkabiztonsági okból vagy a feladatellátás rendjének fenntartása és ellenőrizhetősége érdekében megtilthatja, hogy a közalkalmazott, a kormánytisztviselő, valamint a munkavállaló munkaidőben meghatározott összeget meghaladó készpénzt vagy – a bankkártya és a Széchenyi Pihenő Kártya kivételével – a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszközt magánál tartson, továbbá korlátozhatja a magáncélú telekommunikációs eszközöknek a munkaidőben történő használatát. A korlátozások a fogvatartottak elhelyezésére szolgáló részlegen vagy a fogvatartottak foglalkoztatására kijelölt területen munkát végzők esetében, továbbá a bv. szerv területén kívüli felügyeleti és ellenőrzési feladatokat ellátó személyek esetében vezethetők be.
+(6) Az országos parancsnok vagy a bv. szerv parancsnoka munkabiztonsági okból vagy a feladatellátás rendjének fenntartása és ellenőrizhetősége érdekében megtilthatja, hogy a munkavállaló munkaidőben meghatározott összeget meghaladó készpénzt vagy – a bankkártya és a Széchenyi Pihenő Kártya kivételével – a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszközt magánál tartson, továbbá korlátozhatja a magáncélú telekommunikációs eszközöknek a munkaidőben történő használatát. A korlátozások a fogvatartottak elhelyezésére szolgáló részlegen vagy a fogvatartottak foglalkoztatására kijelölt területen munkát végzők esetében, továbbá a bv. szerv területén kívüli felügyeleti és ellenőrzési feladatokat ellátó személyek esetében vezethetők be.
 
 ### III. Fejezet — A bv. szervezet működésének általános szabályai
 
@@ -395,7 +395,8 @@ alkalmazható.
 - b) lakcímére (székhelyére),
 - c) telefonszámára,
 - d) kapcsolattartói minőségére, és
-- e) születési helyére és idejére.
+- e) születési helyére és idejére,
+- f) anyja születési nevére.
 
 (2) A bv. szervezet nyilvántartja a hivatalos minőségben kapcsolatot tartó személy
 

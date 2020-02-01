@@ -95,7 +95,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 - 21.
 - 22.
 - 23.
-- 24.
+- 24. 114/D. § (1) bekezdés a) pontjában a „128 520 Ft/év” szövegrész helyébe a „166 600 Ft/év”
 
 szöveg lép.
 

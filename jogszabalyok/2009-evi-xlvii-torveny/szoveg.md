@@ -1055,6 +1055,8 @@ előírja.
 
 (1a) A kérelmező elektronikus azonosítását követően és az információ megőrzését biztosító módon történő hangrögzítés mellett, a kérelem telefonon is előterjeszthető.
 
+(1b) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet a kérelmező a személyazonosság igazolására alkalmas hatósági igazolványa birtokában, elektronikus ügyintézési ponton keresztül is előterjesztheti.
+
 (2) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelemnek tartalmaznia kell
 
 - a) a kérelmező 69. § (2) bekezdés a) pontjában meghatározott adatait,

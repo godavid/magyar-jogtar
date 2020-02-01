@@ -76,7 +76,7 @@ kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkeze
 4. § (1) Az anyakönyvbe adatot a kormányrendeletben meghatározott képesítési feltételekkel rendelkező
 
 - a) anyakönyvvezető vagy
-- b) a Kormány által rendeletben kijelölt anyakönyvi szerv kormánytisztviselője vagy állami tisztviselője
+- b) a Kormány által rendeletben kijelölt anyakönyvi szerv kormánytisztviselője
 
 jegyezhet be.
 
@@ -1235,7 +1235,7 @@ foglalt adatait tartja nyilván.
 - a) a nyilvántartó szerv az arra jogosultnak közvetlen hozzáférést biztosít,
 - b) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv törvényben meghatározott kötelező adattovábbítást végez,
 - c) az anyakönyvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az arra jogosult részére adatigénylés alapján adattovábbítást végez,
-- d) az anyakönyvvezető, valamint az anyakönyvi szerv kormánytisztviselője vagy állami tisztviselője az arra jogosult részére anyakönyvi okiratot állít ki, vagy
+- d) az anyakönyvvezető, valamint az anyakönyvi szerv kormánytisztviselője az arra jogosult részére anyakönyvi okiratot állít ki, vagy
 - e) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv biztosítja az érintett személyes adataihoz való hozzáférési jogának gyakorlását.
 
 78. § (1) Az anyakönyvből a kizárólag a papír alapú anyakönyvben nyilvántartott adat, valamint az anyakönyvi alapirat tekintetében az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv
