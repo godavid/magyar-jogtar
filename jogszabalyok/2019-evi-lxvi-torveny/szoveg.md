@@ -462,17 +462,9 @@ Magyarország 2020. évi központi költségvetésének megalapozásáról
 
 #### 53. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-171. § Az adózás rendjéről szóló 2017. évi CL. törvény 131. §-a a következő (24) bekezdéssel egészül ki:
+171. §
 
-„(24) Az állami adó- és vámhatóság a természetes személy elektronikus úton benyújtott kérelmére, a természetes személy elektronikus úton adott hozzájárulása alapján haladéktalanul, elektronikus úton rendelkezésre bocsátja a kérelem benyújtását megelőző második hónap utolsó napjáig terjedő, 12 hónapos időszakra vonatkozó, a havi adó- és járulékbevallások alapján előállított, jogszabály szerinti tartalmú, hatósági bizonyítványnak nem minősülő elektronikus keresetkimutatást a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény szerinti központi hitelinformációs rendszert kezelő pénzügyi vállalkozáson keresztül a természetes személy által megjelölt, a központi hitelinformációs rendszert kezelő pénzügyi vállalkozással erre vonatkozó szerződéssel rendelkező pénzügyi intézménynek, pénzforgalmi szolgáltatónak, a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény szerinti adósságrendezési eljárásokban eljáró Családi Csődvédelmi Szolgálatnak (a továbbiakban e bekezdés alkalmazásában együtt: címzett), feltüntetve a természetes személy adóazonosító jelét. Ennek során a központi hitelinformációs rendszert kezelő pénzügyi vállalkozás az állami adó- és vámhatóság által automatizált módon megküldött elektronikus keresetkimutatást a címzett – a természetes személy adóazonosító jelét is tartalmazó – elektronikus úton továbbított kérésére haladéktalanul rendelkezésére bocsátja. A központi hitelinformációs rendszert kezelő pénzügyi vállalkozás az elektronikus keresetkimutatást a természetes személy által megjelölt összes címzett számára való továbbítását követően haladéktalanul törli. A központi hitelinformációs rendszert kezelő pénzügyi vállalkozás az elektronikus keresetkimutatást az előállításától számított 30 nap elteltével akkor is törli, ha a természetes személy által megjelölt címzett a megküldését nem kéri.”
-
-172. § Az adózás rendjéről szóló 2017. évi CL. törvény 268. § (1) bekezdése a következő 18. alponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„18. a 131. § (24) bekezdése szerinti elektronikus keresetkimutatás tartalmát”
-
-(rendeletben állapítsa meg.)
+172. §
 
 #### 54. Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény módosítása
 

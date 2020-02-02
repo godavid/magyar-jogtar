@@ -86,62 +86,25 @@ a családvédelmi akciótervvel összefüggő egyes törvények módosításár�
 
 #### 6. A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény módosítása
 
-37. § A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény (a továbbiakban: Met.) 2/A. §-a következő (5) bekezdéssel egészül ki:
-
-„(5) A miniszter az ellenőrzési tevékenységről negyedévente időszakos, valamint éves összefoglaló jelentést készít, amit a minisztérium honlapján közzétesz.”
+37. §
 
 38. §
 
-39. § A Met. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+39. §
 
-„(2) A helyszíni ellenőrzés során a munkaügyi hatóság a hatósági ellenőrzés általános szabályain túl jogosult
-
-a) az ellenőrzött munkahelyen található biztonsági berendezések képfelvételének megtekintésére, a munkahelyre való be- és kilépést rögzítő berendezések adatainak megtekintésére, és azokról másolat készítésére,
-
-b) a munkahelyen tartózkodó személyek személyazonosságának igazoltatással történő megállapítására, valamint e személyektől az ellenőrzéshez szükséges felvilágosítás kérésére, e személyek tanúként történő meghallgatására,
-
-c) az adóazonosító jel, valamint Társadalombiztosítási Azonosító Jel (a továbbiakban: TAJ) használatára.”
-
-40. § (1) A Met. 6. § (1) bekezdése a következő k) ponttal egészül ki:
-
-(A munkaügyi hatóság eljárásában a következő intézkedéseket alkalmazhatja:)
-
-„k) közigazgatási bírságot szab ki a 7/B. §-ban, a 8/D. § (7) és (8) bekezdésében foglaltak szerint.”
-
-(2) A Met. 6. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Az egy eljárásban feltárt jogsértések miatt – a 3. § (1) bekezdés i) pontja szerinti jogsértés kivételével – az (1) bekezdés b), e), f), h) és i) pontjában meghatározott jogkövetkezményeket, valamint a munkaügyi bírságot, vagy a figyelmeztetést együttesen kell alkalmazni.”
+40. §
 
 41. §
 
 42. §
 
-43. § A Met. 9. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben állapítsa meg
-
-a) a 8/H. § (1) bekezdése szerint nyilvántartott adatokhoz való hozzáférés biztosításának rendjét és azok használatának,
-
-b) a munkaügyi hatósági ellenőrzésre jogosító képzés és vizsga
-
-részletes szabályait.”
+43. §
 
 44. §
 
-45. § A Met.
+45. §
 
-- a) 1. § (1) bekezdés e) pontjában a „javadalmazás, továbbá a munkaviszonyra vonatkozó szabályban megállapított egyéb pénzbeli juttatás” szövegrész helyébe a „javadalmazás” szöveg,
-- b) 1. § (1) bekezdés h) pontjában a „rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony,” szövegrész helyébe a „rendvédelmi igazgatási szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony,” szöveg,
-- c) 4/A. § (8) bekezdésében az „a munkaügyi hatóság általi ismételt elrendelésben meghatározott határidőben” szövegrész helyébe az „az eljárás során kitűzött határidőn belül” szöveg,
-- d) 5/A. § (2) bekezdésében „a 6. § (1) és (2) bekezdése szerinti jogkövetkezmény alkalmazására” szövegrész helyébe „közigazgatási szankció alkalmazására” szöveg,
-- e) 5/A. § (3) bekezdésében az „indítható eljárás” szövegrész helyébe az „indítható eljárás és alkalmazható közigazgatási szankció” szöveg,
-- f) a 6. § (1) bekezdés a) pontban a „továbbá b), e), f), i), k) és s) pontja” szövegrész helyébe a „továbbá b), e), f), i), j), k) és s) pontja” szöveg,
-- g) 8. § (5) bekezdés c) pontjában a „munkavállalók TAJ-számát” szövegrész helyébe a „munkavállalók adóazonosító jelét és TAJ-számát” szöveg,
-- h) 8/C. § (6) bekezdésében az „A munkaügyi hatóság a határozatának megtámadása esetén” szövegrész helyébe az „A munkaügyi hatóság az (1) bekezdés szerinti, jogsértést megállapító határozatának megtámadása esetén” szöveg
-
-lép.
-
-46. § Hatályát veszti a Met. 7. § (8) bekezdése.
+46. §
 
 #### 7. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
