@@ -1202,6 +1202,10 @@ vehessen fel.
 
 (7) Az (1)–(6) bekezdés rendelkezéseit megfelelő módon az oklevélmellékletre is alkalmazni kell.
 
+#### 30/A. Szakképzettségek, tudományos fokozatok, címek, rövidítések adományozása, illetve használata
+
+52/B. § Az e törvény által szabályozott szakképzettséget, tudományos fokozatot, címet vagy rövidítést csak az arra jogosult használhatja. Nem lehet az e törvény által szabályozott tudományos fokozattal, címmel vagy rövidítéssel összetéveszthető tudományos fokozatot vagy címet adományozni, illetve az e törvény által szabályozott szakképzettséggel, tudományos fokozattal, címmel vagy rövidítéssel összetéveszthető szakképzettséget, tudományos fokozatot, címet vagy rövidítést használni.
+
 ### XIV. Fejezet — A TEHETSÉGGONDOZÁSRA, A DOKTORI KÉPZÉSRE VONATKOZÓ KÜLÖN SZABÁLYOK
 
 #### 31. A doktori képzés és a doktori fokozatszerzési eljárás

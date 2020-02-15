@@ -2208,7 +2208,13 @@ követi el, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 ### Kuruzslás
 
-187. § (1) Aki ellenszolgáltatásért vagy rendszeresen az orvosi gyakorlat körébe tartozó tevékenységet jogosulatlanul fejt ki, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+187. § (1) Aki ellenszolgáltatásért vagy rendszeresen
+
+- a) az orvosi gyakorlat,
+- b) az egészségügyi szakképesítéshez kötött pszichoterápiás gyakorlat vagy
+- c) a nem-konvencionális gyógyító és természetgyógyászati eljárások
+
+körébe tartozó tevékenységet jogosulatlanul fejt ki, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a kuruzslást az orvosi gyakorlatra jogosultság színlelésével követik el.
 
@@ -4187,6 +4193,23 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) E § rendelkezéseit a külföldi állam igazságszolgáltatási vagy bűnüldözési feladatot ellátó hatóságának a törvény alapján Magyarország területén eljáró tagjára is megfelelően kell alkalmazni.
+
+### Oktatással összefüggő jogosulatlan tevékenység
+
+343/A. § (1) Aki
+
+- a) felsőoktatásban megszerezhető szakképzettséget igazoló oklevéllel vagy iskolarendszeren kívüli képzésben, illetve iskolai rendszerű szakképzésben megszerezhető szakképesítést igazoló bizonyítvánnyal összetéveszthető okiratot állít ki, vagy
+- b) a nemzeti felsőoktatásról szóló törvényben meghatározott vagy azzal összetéveszthető
+  - ba) szakképzettséget igazoló oklevelet,
+  - bb) tudományos fokozatot,
+  - bc) címet vagy
+  - bd) rövidítést
+
+jogosulatlanul adományoz,
+
+vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Aki az (1) bekezdésben meghatározott bűncselekményt bűnszövetségben vagy üzletszerűen követi el, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 ### Biztonsági okmány hamisítása
 
