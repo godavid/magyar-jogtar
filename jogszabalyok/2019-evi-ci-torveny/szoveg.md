@@ -116,7 +116,9 @@ egyes energetikai tárgyú törvények jogharmonizációs célú módosításár
 
 (12)
 
-41. §
+41. § A Get. II. Fejezet „Földgázszállítás” című alcíme a következő 10/B. §-sal egészül ki:
+
+„10/B. § A szállítási rendszerüzemeltető az általa kötött szállítóvezeték üzemeltetésére vonatkozó műszaki megállapodásokról tájékoztatja a Hivatalt.”
 
 42. §
 
@@ -130,7 +132,25 @@ egyes energetikai tárgyú törvények jogharmonizációs célú módosításár
 
 47. §
 
-48. §
+48. § (1) A Get. 85. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+
+[Az a külföldi vagy belföldi gazdálkodó szervezet, amely új határkeresztező földgázvezetéket, cseppfolyós földgáz tárolására szolgáló létesítményt vagy földgáztárolót (a továbbiakban: új infrastruktúra) kíván létrehozni, vagy az új infrastruktúra kapacitását egyablakos rendszerben kívánja értékesíteni, a Hivatalnál kérelmezheti az új infrastruktúra egészére vagy annak egy részére vonatkozóan – határozott időre – az együttműködő földgáz-rendszerben alkalmazott díj-megállapítási szabályok, valamint a hozzáférési kötelezettségek, továbbá a – 120. § kivételével az e törvény XIII. fejezete szerinti – szétválasztási követelmények teljesítése alóli teljes vagy részbeni mentességet a következő feltételek mellett:]
+
+„e) a mentesség megadása nincs hátrányos hatással a versenyre a beruházással érintett releváns piacokon, az együttműködő földgázrendszer hatékony működésére, annak az érintett szállítóvezetéknek vagy földgáztárolónak a hatékony működésére vagy az Európai Unión belüli földgázellátás biztonságára.”
+
+(2) A Get. 85. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+„(1a) A Hivatal a mentességről szóló kérelmet megvizsgálja és a határozata meghozatala előtt az eljárás egyidejű felfüggesztése mellett
+
+a) konzultál
+
+aa) azon Európai Unió más tagállamának energiapiaci szabályozó hatóságként kijelölt külföldi szabályozó hatóságával (a továbbiakban: külföldi szabályozó hatóság), amelynek piacait az új infrastruktúra érinteni fogja, és
+
+ab) harmadik ország megfelelő hatóságával, ha az új infrastruktúra az Európai Unió területén csatlakozik az uniós hálózatra és harmadik országból indul ki vagy ér véget, valamint
+
+b) új határkeresztező gázvezeték létesítése esetén – amennyiben Magyarország területén csatlakozik első alkalommal tagállami földgázhálózatra – konzultálhat az érintett harmadik ország megfelelő hatóságával a mentességre vonatkozó szabályok alkalmazása tekintetében.
+
+(1b) Ha a konzultációra felkért (1a) bekezdés a) pont ab) alpontja és b) pontja szerinti, harmadik ország hatósága a Hivatal által megadott határidőn, de legfeljebb három hónapon belül nem válaszol, a Hivatal az eljárás felfüggesztését megszünteti, és az eljárást folytatja.”
 
 49. §
 
@@ -146,7 +166,17 @@ egyes energetikai tárgyú törvények jogharmonizációs célú módosításár
 
 55. §
 
-56. §
+56. § A Get. XVI. Fejezete a következő 131/A. § és 131/B. §-sal egészül ki:
+
+„131/A. § A Hivatal a határon átnyúló ügyekben történő együttműködés keretében, határkeresztező gázvezeték esetén – amennyiben az Magyarország területén csatlakozik első alkalommal tagállami földgázhálózatra – az érintett külföldi szabályozó hatóságokkal történő konzultációt követően együttműködhet az érintett harmadik ország megfelelő hatóságával.
+
+131/B. § (1) A 130/A. §–131. §-tól eltérően a földgáz belső piacára vonatkozó közös szabályokat érintő kérdésekben határkeresztező gázvezeték üzemeltetéséről szóló kormányközi megállapodás (e § alkalmazásában a továbbiakban: megállapodás) módosítására, meghosszabbítására vagy megkötésére vonatkozó tárgyalás megkezdése előtt öt hónappal – a tárgyalás megkezdésére vonatkozó Európai Bizottság általi felhatalmazás érdekében – a miniszter tájékoztatja az Európai Bizottságot. A tájékoztatás keretében megküldi a vonatkozó dokumentációt a megvitatandó vagy módosítandó rendelkezések, a tárgyalás céljának és a további lényeges információk megjelölésével. A miniszter rendszeres tájékoztatást küld az Európai Bizottságnak a tárgyalás előrehaladásáról, és ezzel összhangban gondoskodik a 130/A. § (4) bekezdése szerinti információk megküldéséről.
+
+(2) A megállapodás tekintetében az Európai Bizottságnak a 2017/684 európai parlamenti és tanácsi határozattal összhangban kiadott véleményét a miniszter kötelezően figyelembe veszi.
+
+(3) A megállapodás módosítása, meghosszabbítása vagy megkötése előtt a miniszter értesíti az Európai Bizottságot a tárgyalás eredményéről, és megküldi a megállapodás végleges tervezetét az Európai Bizottság általi, a megállapodás megkötésére vonatkozó felhatalmazás érdekében.
+
+(4) A miniszter a megállapodás megkötéséről, hatálybalépéséről és a megállapodást érintő változásról értesíti az Európai Bizottságot.”
 
 57. §
 
@@ -154,7 +184,15 @@ egyes energetikai tárgyú törvények jogharmonizációs célú módosításár
 
 59. §
 
-60. §
+60. § (1) A Get. 159. § (1) bekezdése a következő d) ponttal egészül ki:
+
+(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„d) a földgáz belső piacára vonatkozó közös szabályokról szóló 2009/73/EK irányelv módosításáról szóló, 2019. április 17-i 2019/692/EU európai parlamenti és tanácsi irányelv.”
+
+(2) A Get. 159. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) Ez a törvény az Energiaszabályozók Európai Uniós Együttműködési Ügynökségének létrehozásáról szóló, 2019. június 5-i 2019/942/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.”
 
 61. §
 
@@ -164,7 +202,7 @@ egyes energetikai tárgyú törvények jogharmonizációs célú módosításár
 - b)
 - c)
 - d)
-- e)
+- e) 85. § (2) bekezdésében az „A Hivatal a kérelmet megvizsgálja, és új határkeresztező szállítóvezeték létesítése esetén konzultál az érintett ország(ok) energetikai szabályozó hatóságaival.” szövegrész,
 - f)
 - g)
 - h)

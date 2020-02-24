@@ -247,6 +247,8 @@ végzi.
 
 (3) Az (1) bekezdésben meghatározott képviselet keretében a szállítási rendszerüzemeltető a regionális vagy európai szinten szervezett és koordinált rendszer-összekötési pontokon megjelenő kapacitáshiány-kezelési eljárásokat, a szállító- és elosztóvezeték, valamint a földgáztároló együttműködő képességét alapvetően befolyásoló megállapodásokat a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásokról a szállítási rendszerüzemeltető az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a Hivatalt tájékoztatja.
 
+10/B. § A szállítási rendszerüzemeltető az általa kötött szállítóvezeték üzemeltetésére vonatkozó műszaki megállapodásokról tájékoztatja a Hivatalt.
+
 ### Rendszerirányítás
 
 11. § (1) Egy szállítási rendszerüzemeltetési engedéllyel rendelkező engedélyes esetén a szállítási rendszerüzemeltető látja el az együttműködő földgázrendszer irányítási és koordinációs feladatait.
@@ -1262,9 +1264,18 @@ földgázrendszerhez való hozzáférés
 - b) az új infrastruktúra létesítésével kapcsolatos pénzügyi-gazdasági kockázatok olyan mértékűek, hogy a beruházás a mentesség biztosítása nélkül nem valósulna meg,
 - c) az új infrastruktúra tulajdonosa olyan gazdálkodó szervezet, amely nem rendelkezik azon hálózatok működtetésére vonatkozó engedéllyel, amelyhez az új infrastruktúra kapcsolódik,
 - d) az új infrastruktúra igénybevétele díj ellenében történik,
-- e) a mentesség megadása nincs hátrányos hatással a versenyre és az együttműködő földgázrendszer hatékony működésére, vagy annak a szállítóvezetéknek, illetve a tárolónak a hatékony működésére, amelyre az új infrastruktúra rácsatlakozik.
+- e) a mentesség megadása nincs hátrányos hatással a versenyre a beruházással érintett releváns piacokon, az együttműködő földgázrendszer hatékony működésére, annak az érintett szállítóvezetéknek vagy földgáztárolónak a hatékony működésére vagy az Európai Unión belüli földgázellátás biztonságára.
 
-(2) A Hivatal a kérelmet megvizsgálja, és új határkeresztező szállítóvezeték létesítése esetén konzultál az érintett ország(ok) energetikai szabályozó hatóságaival. A Hivatal eljárása során az (1) bekezdésben foglaltakon túl a következő szempontokat veszi figyelembe:
+(1a) A Hivatal a mentességről szóló kérelmet megvizsgálja és a határozata meghozatala előtt az eljárás egyidejű felfüggesztése mellett
+
+- a) konzultál
+  - aa) azon Európai Unió más tagállamának energiapiaci szabályozó hatóságként kijelölt külföldi szabályozó hatóságával (a továbbiakban: külföldi szabályozó hatóság), amelynek piacait az új infrastruktúra érinteni fogja, és
+  - ab) harmadik ország megfelelő hatóságával, ha az új infrastruktúra az Európai Unió területén csatlakozik az uniós hálózatra és harmadik országból indul ki vagy ér véget, valamint
+- b) új határkeresztező gázvezeték létesítése esetén – amennyiben Magyarország területén csatlakozik első alkalommal tagállami földgázhálózatra – konzultálhat az érintett harmadik ország megfelelő hatóságával a mentességre vonatkozó szabályok alkalmazása tekintetében.
+
+(1b) Ha a konzultációra felkért (1a) bekezdés a) pont ab) alpontja és b) pontja szerinti, harmadik ország hatósága a Hivatal által megadott határidőn, de legfeljebb három hónapon belül nem válaszol, a Hivatal az eljárás felfüggesztését megszünteti, és az eljárást folytatja.
+
+(2) A Hivatal eljárása során az (1) bekezdésben foglaltakon túl a következő szempontokat veszi figyelembe:
 
 - a) a mentesség megadásának hatása a földgáz árakra,
 - b) a mentességet indokló pénzügyi információk megalapozottsága,
@@ -2691,6 +2702,16 @@ tartalmazza.
 
 131. § A 130/A–130/C. §-ban megállapított kötelezettségek nem vonatkoznak a vállalkozások közötti megállapodásokra.
 
+131/A. § A Hivatal a határon átnyúló ügyekben történő együttműködés keretében, határkeresztező gázvezeték esetén – amennyiben az Magyarország területén csatlakozik első alkalommal tagállami földgázhálózatra – az érintett külföldi szabályozó hatóságokkal történő konzultációt követően együttműködhet az érintett harmadik ország megfelelő hatóságával.
+
+131/B. § (1) A 130/A. §–131. §-tól eltérően a földgáz belső piacára vonatkozó közös szabályokat érintő kérdésekben határkeresztező gázvezeték üzemeltetéséről szóló kormányközi megállapodás (e § alkalmazásában a továbbiakban: megállapodás) módosítására, meghosszabbítására vagy megkötésére vonatkozó tárgyalás megkezdése előtt öt hónappal – a tárgyalás megkezdésére vonatkozó Európai Bizottság általi felhatalmazás érdekében – a miniszter tájékoztatja az Európai Bizottságot. A tájékoztatás keretében megküldi a vonatkozó dokumentációt a megvitatandó vagy módosítandó rendelkezések, a tárgyalás céljának és a további lényeges információk megjelölésével. A miniszter rendszeres tájékoztatást küld az Európai Bizottságnak a tárgyalás előrehaladásáról, és ezzel összhangban gondoskodik a 130/A. § (4) bekezdése szerinti információk megküldéséről.
+
+(2) A megállapodás tekintetében az Európai Bizottságnak a 2017/684 európai parlamenti és tanácsi határozattal összhangban kiadott véleményét a miniszter kötelezően figyelembe veszi.
+
+(3) A megállapodás módosítása, meghosszabbítása vagy megkötése előtt a miniszter értesíti az Európai Bizottságot a tárgyalás eredményéről, és megküldi a megállapodás végleges tervezetét az Európai Bizottság általi, a megállapodás megkötésére vonatkozó felhatalmazás érdekében.
+
+(4) A miniszter a megállapodás megkötéséről, hatálybalépéséről és a megállapodást érintő változásról értesíti az Európai Bizottságot.
+
 ### XVII. Fejezet — FELHATALMAZÓ RENDELKEZÉSEK
 
 132. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
@@ -3255,7 +3276,8 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 - a) Az Európai Parlament és a Tanács 2009/73/EK irányelve (2009. július 13.) a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről;
 - b) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikke;
-- c) az Európai Parlament és a Tanács 2014/65/EU irányelve (2014. május 15.) a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról.
+- c) az Európai Parlament és a Tanács 2014/65/EU irányelve (2014. május 15.) a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról;
+- d) a földgáz belső piacára vonatkozó közös szabályokról szóló 2009/73/EK irányelv módosításáról szóló, 2019. április 17-i 2019/692/EU európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény a földgázszállító-hálózatokhoz való hozzáférés feltételeiről és az 1775/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
@@ -3268,3 +3290,5 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 (6) Ez a törvény a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló, 2017. március 16-i 2017/459/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (7) Ez a törvény a gázszállításirendszer-üzemeltetők közötti rendszeregyensúlyozásra vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2014. március 26-i 312/2014/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(8) Ez a törvény az Energiaszabályozók Európai Uniós Együttműködési Ügynökségének létrehozásáról szóló, 2019. június 5-i 2019/942/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
