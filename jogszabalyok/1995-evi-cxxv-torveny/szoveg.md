@@ -1351,7 +1351,7 @@ iránt intézkedik.
   - ip) a minősített adat védelméről szóló törvényben meghatározott, a minősített adatot kezelő szervvel közreműködő természetes személy, akinek feladata ellátásához „Bizalmas!”, „Titkos!” vagy „Szigorúan titkos!” minősítési szintű minősített adatot szükséges felhasználnia;
   - ir) az e törvény szerinti titkos információgyűjtést engedélyező bíró;
   - is) az 55. §-ban meghatározott kijelölt ügyész;
-  - it) a Független Rendészeti Panasztestület tagja;
+  - it)
   - iu) az Országgyűlési Őrség személyi állománya;
   - iv) a Nemzeti Emlékezet Bizottsága tagja;
   - iw) a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény (a továbbiakban: Lrtv.) szerinti közigazgatási hatósági eljárásban a hatóságok és a szakhatóságok részéről részt vevő személy, valamint – az Lrtv. szerinti üzemeltető kezdeményezésére – az európai létfontosságú rendszerelemekre vonatkozó, Lrtv. szerinti azonosítási eljárásban az üzemeltető által igénybe vett közreműködő személy;

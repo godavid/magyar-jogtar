@@ -149,60 +149,13 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (6) A rendőrséget a két- vagy többoldalú nemzetközi egyezményeken, valamint a viszonosságon alapuló nemzetközi kapcsolatokban a 7/G. § (1)–(3) bekezdése alapján az országos rendőrfőkapitány képviseli. A miniszter két- vagy többoldalú nemzetközi egyezményen alapuló nemzetközi kapcsolatban a rendőrség képviseletére a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatóját, a terrorizmust elhárító szerv főigazgatóját vagy az idegenrendészeti szerv főigazgatóját kijelölheti.
 
-### A Független Rendészeti Panasztestület
+#### 6/A. §
 
-6/A. § (1) A Független Rendészeti Panasztestület (a továbbiakban: Testület)
+#### 6/B. §
 
-- a) a 92–93/A. § rendelkezései szerint vizsgálatot folytat,
-- b) működésének és eljárásainak tapasztalatairól háromévente beszámol az Országgyűlésnek, valamint évente tájékoztatja az Országgyűlés rendészeti, valamint emberi jogi ügyekben feladatkörrel rendelkező bizottságait,
-- c) az alapvető jogok tiszteletben tartása és hatékonyabb védelme érdekében javaslatot tehet az országos rendőrfőkapitánynak és a főigazgatóknak utasítás kiadására, módosítására vagy hatályon kívül helyezésére.
+#### 6/C. §
 
-(2) A Testület öt tagját az Országgyűlés rendészeti, valamint emberi jogi ügyekben feladatkörrel rendelkező bizottságainak együttes javaslatára az Országgyűlés egyidejű, listás módon választja. A Testület tagjaira az alapvető jogok védelme érdekében tevékenységet folytató szervek és szervezetek a bizottságoknak javaslatot tehetnek.
-
-(3) A Testület tagjának olyan, büntetlen előéletű, az országgyűlési képviselők választásán választható személy választható meg, aki jogi végzettséggel és az alapvető jogok védelme területén kiemelkedő tapasztalatokkal rendelkezik, és külön törvény szerinti nemzetbiztonsági ellenőrzése megtörtént.
-
-(4) Nem választható meg a testület tagjává az, aki
-
-- a) a megválasztás időpontjában párt alkalmazottja vagy tisztségviselője,
-- b) a megválasztás időpontjában vagy az azt megelőző két évben politikai felsővezető, közigazgatási államtitkár, helyettes államtitkár, polgármester,
-- c) a megválasztás időpontjában vagy az azt megelőző hat évben rendvédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszervével vagy nyomozó hatóságával, valamint a Magyar Honvédséggel foglalkoztatásra irányuló jogviszonyban állt.
-
-(5) A Testület tagjának megbízatása a megválasztással keletkezik és hat évre szól. A Testület tagja újraválasztható.
-
-(6) A Testület akkor határozatképes, ha három tagja jelen van. A Testület tagjai feladatuk ellátása során függetlenek, az e törvényben meghatározott feladatkörükben nem utasíthatóak.
-
-6/B. § (1) A Testület tagjának megbízatása megszűnik:
-
-- a) megbízatása időtartamának leteltével,
-- b) lemondással,
-- c) összeférhetetlenségi okból,
-- d) felmentéssel,
-- e) a tisztségtől való megfosztással,
-- f) a tag halálával.
-
-(2) A Testület tagja megbízatásának megszűnését az (1) bekezdés b), valamint f) pontja esetében az Országgyűlés elnöke állapítja meg és hirdeti ki. Az (1) bekezdés c)–e) pontja esetében a megbízatás megszűnésének kérdésében az Országgyűlés határoz.
-
-(3) A lemondást írásban kell közölni az Országgyűlés elnökével, aki köteles azt elfogadni.
-
-(4) Összeférhetetlenségi okból szűnik meg a megbízatása annak a tagnak, aki a jelölését követően bekövetkezett körülmény folytán nem felel meg a megválasztáshoz szükséges feltételeknek.
-
-(5) Ha a Testület tagjának tevékenysége során összeférhetetlenségi ok merül fel, azt meg kell szüntetnie. Az összeférhetetlenség fennállását az Országgyűlés határozatban állapítja meg. Ha a Testület tagja az összeférhetetlenségi okot e határozat meghozatalától számított tíz napon belül nem szünteti meg, az Országgyűlés – bármely képviselő indítványára – határozatban állapítja meg a Testület tagja megbízatásának megszűnését. Az összeférhetetlenségi ok fennállását megállapító országgyűlési határozat meghozatalának időpontjától az összeférhetetlenségi ok megszüntetéséig vagy a megbízatás e miatt történő megszűnését megállapító országgyűlési határozat meghozataláig a Testület tagja e tisztségéből eredő jogkörét nem gyakorolhatja.
-
-(6) Felmentéssel szűnik meg a megbízatás, ha a Testület tagja neki fel nem róható okból száznyolcvan napnál hosszabb ideig nem képes eleget tenni a testületi tagságból eredő feladatainak. A felmentést bármely képviselő indítványozhatja.
-
-(7) Tisztségtől való megfosztással szűnik meg a megbízatás, ha a Testület tagja neki felróható okból kilencven napnál hosszabb ideig nem tesz eleget a testületi tagságból eredő feladatainak. A tisztségtől való megfosztást az arra alapot adó okok vizsgálatát követően az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottsága indítványozhatja.
-
-(8) A Testület tagja megbízatásának az (1) bekezdés a) pontjában meghatározott okból történő megszűnése esetén a megbízatás megszűnését megelőző harmincadik napig, az (1) bekezdés b)–f) pontjaiban meghatározott okból történő megszűnését követő harminc napon belül kell az új tagot megválasztani.
-
-6/C. § (1) A Testület saját tagjai közül elnököt választ. Az elnököt akadályoztatása esetén az általa kijelölt tag teljes jogkörben helyettesíti.
-
-(2) A Testület működésének részletes szabályait ügyrendjében állapítja meg.
-
-(3) A Testület működését titkárság segíti, amely az Országgyűlés munkaszervezetében működik, azonban a Titkárságon foglalkoztatott személyek tekintetében a munkáltatói jogkört a Testület elnöke gyakorolja.
-
-(4) A Testület elnöke havonta a közigazgatási államtitkári illetmény nyolcvan százalékával, a Testület többi tagja a közigazgatási államtitkári illetmény ötvenöt százalékával megegyező összegű tiszteletdíjra jogosult.
-
-6/D. § A Testület elhelyezéséről és működésének feltételeiről – az államháztartásért felelős miniszter bevonásával – az Országgyűlés elnöke gondoskodik.
+#### 6/D. §
 
 ### II. Fejezet — A BELSŐ BŰNMEGELŐZÉSI ÉS BŰNFELDERÍTÉSI FELADATOKAT ELLÁTÓ SZERV, A TERRORIZMUST ELHÁRÍTÓ SZERV ÉS AZ IDEGENRENDÉSZETI SZERV, VALAMINT AZ EGYÜTTMŰKÖDÉS
 
@@ -2046,7 +1999,7 @@ részére.
 92. § (1) Akinek a IV–V. Fejezetben – a 46/A–46/C. § kivételével –, valamint a VI. Fejezetben meghatározott kötelezettség megsértése, a rendőri intézkedés, annak elmulasztása, a kényszerítő eszköz alkalmazása (e fejezet alkalmazásában a továbbiakban együtt: intézkedés) alapvető jogát sértette, választása szerint
 
 - a) panasszal fordulhat az intézkedést foganatosító rendőri szervhez vagy
-- b) kérheti, hogy – amennyiben a panasz elintézése nem tartozik más eljárás hatálya alá – panaszát a Testület által lefolytatott vizsgálatot követően, az érintett rendőri szerv kilététől függően
+- b) kérheti, hogy – amennyiben a panasz elintézése nem tartozik más eljárás hatálya alá – panaszát az alapvető jogok biztosa által lefolytatott vizsgálatot követően, az érintett rendőri szerv kilététől függően
   - ba) az országos rendőrfőkapitány,
   - bb) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója vagy
   - bc) a terrorizmust elhárító szerv főigazgatója,
@@ -2060,37 +2013,9 @@ bírálja el.
 
 (4) Az (1)–(2) bekezdésben meghatározott eljárások tárgyi költségmentesek.
 
-93. § (1) A Testülethez a panaszt az intézkedéstől, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, ettől az időponttól számított harminc napon belül lehet előterjeszteni. A rendőri intézkedéstől számított egy éven túl panasz előterjesztésének nincs helye.
+#### 93. §
 
-(2) A Testület az alapvető jogot nem sértő, valamint az alapvető jogot csekély mértékben sértő intézkedéssel szemben előterjesztett panaszt az intézkedést foganatosító szerv vezetőjéhez átteszi, illetve ha az áttétel ellen a panaszos panaszában előzetesen tiltakozott, az eljárást megszünteti.
-
-(3) A Testület a rendőri szerveknél előterjesztett panaszokról felvilágosítást kérhet, és amennyiben a 92. § (1) bekezdése szerinti eljárásának feltételei fennállnak, erről a panaszost, illetve az eljáró rendőri szervet értesíti. A panaszos az értesítés kézhezvételétől számított nyolc napon belül kérheti, hogy panaszát az országos rendőrfőkapitány, vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója a Testület által lefolytatott vizsgálatot követően bírálja el. Az eljáró rendőri szerv a Testülettől kapott értesítés kézhezvételekor köteles az eljárását felfüggeszteni.
-
-(4) Amennyiben a panaszos a (3) bekezdés szerint határidőben kéri, hogy panaszát az országos rendőrfőkapitány, vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója a Testület által lefolytatott vizsgálatot követően bírálja el, a rendőri szerv köteles a panaszt a Testülethez áttenni. Amennyiben a Testület az eljáró rendőri szervet arról értesíti, hogy a határidő eredménytelenül eltelt, a rendőri szerv köteles az eljárását folytatni.
-
-(5) A Testület tagja az adott panasz kivizsgálásában, illetve az azzal összefüggő állásfoglalás kialakításában nem vehet részt, ha az ügy elintézéséből a közigazgatási hatósági eljárásra vonatkozó törvény rendelkezései szerint ki lenne zárva.
-
-(6) A 92. § alapján a rendőri szervekhez benyújtott panaszokról – a Testület által meghatározott adattartalommal – az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója havonta tájékoztatást küld a Testület számára.
-
-93/A. § (1) A Testület a vizsgálata során a rendőrségtől felvilágosítást kérhet. A Testület az összes olyan iratba betekinthet, illetve iratról másolatot kérhet, adatot, körülményt, tényt, eljárást megismerhet, ami a vizsgált intézkedéssel összefügghet.
-
-(2) A Testület (1) bekezdés szerinti tevékenységére az alapvető jogok biztosáról szóló 2011. évi CXI. törvény (a továbbiakban: Ajbtv.) 27. § (1) bekezdését kell alkalmazni.
-
-(3) A Testület az (1) bekezdés szerinti tevékenysége során a minősített adatnak minősülő adatokat az Ajbtv. 23. § (3) bekezdésének, a 27. § (2) bekezdésének, valamint a 28. § (3) bekezdésének megfelelő alkalmazásával ismerheti meg.
-
-(4) A Testület tagjának a rendőrség helyiségeibe történő belépésére az Ajbtv. 22. § (2) és (3) bekezdését kell alkalmazni.
-
-(5) A Testület felhatalmazása alapján a Testület tagja a Testület nevében az (1)–(4) bekezdésben meghatározott vizsgálati cselekményeket elvégezheti.
-
-(6) A Testület a panaszt kilencven nap alatt vizsgálja meg, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő. A Testület az állásfoglalását külső befolyástól mentesen alakítja ki. A Testület az állásfoglalását megküldi az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója és az idegenrendészeti szerv főigazgatója számára.
-
-(7) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója a panaszról harmincöt napon belül közigazgatási hatósági eljárásban dönt. Az ügyintézési határidő a Testület állásfoglalásának kézhezvételét követő napon indul. Ha az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója határozatban eltér a Testület állásfoglalásától, ezt köteles megindokolni.
-
-(8) Az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója határozatának meghozatalát követően a Testület az állásfoglalását – a személyazonosító adatoktól megfosztva – honlapján közzéteszi, kivéve, ha a közzététel ellen a panaszos panaszában előzetesen tiltakozott.
-
-(9)
-
-(10) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, az idegenrendészeti szerv főigazgatója, valamint az intézkedést foganatosító szerv vezetője döntéseinek megküldésével tájékoztatja a Testületet azokban az ügyekben, amelyekben a Testület állásfoglalást alakított ki.
+#### 93/A. §
 
 93/B. § (1) Az intézkedést foganatosító szervhez benyújtott panaszt az intézkedést foganatosító szerv vezetője közigazgatási hatósági eljárásban bírálja el.
 

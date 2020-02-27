@@ -684,7 +684,7 @@ utasíthat.
 - 9. a Nemzeti Választási Bizottság elnöke és tagja,
 - 10. a Nemzeti Emlékezet Bizottságának elnöke és tagjai,
 - 11. a Médiatanács elnöke és tagja,
-- 12. a Független Rendészeti Panasztestület elnöke és tagja,
+- 12.
 - 13. a Közszolgálati Közalapítvány kuratóriumának elnöke, tagja,
 - 14. a Közbeszerzési Hatóság elnöke, alelnöke, tagja,
 - 15. a Gazdasági Versenyhivatal elnöke, elnökhelyettese,
@@ -1019,9 +1019,9 @@ megegyező mértékben csökkenti.
 - j) a Médiatanács elnökének és négy tagjának megválasztásához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 124. § (1) bekezdésében foglaltak szerint,
 - k) a Médiatanács elnökének megválasztásához a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 125. § (3) bekezdésében meghatározott esetben,
 - l) a Médiatanács elnöke vagy tagja összeférhetetlenségéről, felmentéséről vagy kizárásáról való döntéshez a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 129. § (7) bekezdésében meghatározott esetben,
-- m) a Független Rendészeti Panasztestület öt tagjának megválasztásához a Rendőrségről szóló 1994. évi XXXIV. törvény 6/A. § (2) bekezdésében foglaltak szerint,
-- n) a Független Rendészeti Panasztestület tagja megbízatása – a Rendőrségről szóló 1994. évi XXXIV. törvény 6/B. § (1) bekezdés c)–e) pontja szerinti – megszűnésének megállapításához a Rendőrségről szóló 1994. évi XXXIV. törvény 6/B. § (2) bekezdésében foglaltak szerint,
-- o) a Független Rendészeti Panasztestület tagja összeférhetetlensége fennállásának megállapításához a Rendőrségről szóló 1994. évi XXXIV. törvény 6/B. § (5) bekezdésében foglaltak szerint,
+- m)
+- n)
+- o)
 - p) alapítvány létrehozásához a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény 8. § (1) bekezdésében foglalt esetben,
 - q) a Nemzeti Emlékezet Bizottsága elnökének és két tagjának megválasztásához a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 7. § (1) bekezdésében foglaltak szerint,
 - r) a Nemzeti Emlékezet Bizottsága tagja megbízatása – a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (1) bekezdésének e)–g) pontja szerinti – megszűnésének megállapításához a Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény 16. § (4) bekezdésében foglaltak szerint.
