@@ -21,7 +21,7 @@ a védelmére.
 
 (3) Az alapvető jogok biztosa tevékenysége során – különösen hivatalból indított eljárások lefolytatásával – megkülönböztetett figyelmet fordít a 2007. évi XCII. törvénnyel kihirdetett, a fogyatékossággal élő személyek jogairól szóló egyezmény végrehajtásának segítésére, védelmére és ellenőrzésére.
 
-2. § (1) Az alapvető jogok biztosa áttekinti és elemzi az alapvető jogok magyarországi helyzetét, és az alapvető jogokkal összefüggő, Magyarországon történt jogsértésekről statisztikai kimutatást készít. Az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Független Rendészeti Panasztestület, valamint az oktatási jogok biztosa az alapvető jogok biztosának megkeresése alapján a statisztikai kimutatáshoz személyes adatokat nem tartalmazó összesített adatokat szolgáltat.
+2. § (1) Az alapvető jogok biztosa áttekinti és elemzi az alapvető jogok magyarországi helyzetét, és az alapvető jogokkal összefüggő, Magyarországon történt jogsértésekről statisztikai kimutatást készít. Az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv, a Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint az oktatási jogok biztosa az alapvető jogok biztosának megkeresése alapján a statisztikai kimutatáshoz személyes adatokat nem tartalmazó összesített adatokat szolgáltat.
 
 (2) Az alapvető jogok biztosa véleményezi a feladat- és hatáskörét érintő jogszabályok tervezetét, a hosszú távú fejlesztési, területrendezési és a jövő nemzedékek életminőségét egyébként közvetlenül érintő terveket és koncepciókat, valamint javaslatot tehet az alapvető jogokat érintő jogszabályok módosítására, megalkotására, illetve nemzetközi szerződés kötelező hatályának elismerésére.
 
@@ -504,13 +504,56 @@ tevékenységét.
 
 39/E. § Az alapvető jogok biztosa részére és a nemzeti megelőző mechanizmus feladatainak teljesítésére általa felhatalmazott munkatársa részére történő információközlés miatt senkit sem érhet hátrány.
 
+### III/B. Fejezet — A RENDŐRSÉGI PANASZOK VIZSGÁLATA
+
+39/F. § A Rendőrségről szóló 1994. évi XXXIV. szóló törvény (a továbbiakban: Rtv.) 92. § (1) bekezdése alapján előterjesztett panasz (a továbbiakban: rendőrségi panasz) vizsgálata során az alapvető jogok biztosa eljárására a III. Fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+39/G. § (1) Az alapvető jogok biztosa a rendőrségi panasz vizsgálata során személyesen és a rendőrségi panasz vizsgálatára felhatalmazott munkatársai útján is eljárhat.
+
+(2) A 22. § (1) bekezdés c) pontja szerinti meghallgatáson az alapvető jogok biztosán és a meghallgatott személyen kívül más csak akkor vehet részt, ha a részvételéhez az alapvető jogok biztosa hozzájárult.
+
+(3) Az alapvető jogok biztosának a rendőrségi panasz vizsgálatára felhatalmazott munkatársa e feladatok teljesítése körében – ha megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik – a minősített adatot a minősített adat védelméről szóló törvényben meghatározott felhasználói engedély nélkül is megismerheti.
+
+(4) Az alapvető jogok biztosának a rendőrségi panasz vizsgálatára felhatalmazott munkatársa az adott panasz kivizsgálásában, illetve az azzal összefüggő jelentés előkészítésében nem vehet részt, ha az ügy elintézéséből a közigazgatási hatósági eljárásra vonatkozó törvény rendelkezései szerint ki lenne zárva.
+
+39/H. § (1) Az alapvető jogok biztosa az Rtv. 92. § (1) bekezdés a) pontja szerinti rendőrségi panaszokról felvilágosítást kérhet, és amennyiben eljárásának feltételei fennállnak, erről a panaszost, illetve az eljáró rendőri szervet értesíti. A panaszos az értesítés kézhezvételétől számított nyolc napon belül kérheti, hogy rendőrségi panaszát az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója az alapvető jogok biztosa által lefolytatott vizsgálatot követően bírálja el. Az eljáró rendőri szerv az alapvető jogok biztosától kapott értesítés kézhezvételekor köteles az eljárását felfüggeszteni.
+
+(2) Amennyiben a panaszos az (1) bekezdés szerint határidőben kéri, hogy rendőrségi panaszát az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója az alapvető jogok biztosa által lefolytatott vizsgálatot követően bírálja el, a rendőri szerv köteles a rendőrségi panaszt az alapvető jogok biztosához áttenni. Amennyiben az alapvető jogok biztosa az eljáró rendőri szervet arról értesíti, hogy a határidő eredménytelenül eltelt, a rendőri szerv köteles az eljárását folytatni.
+
+(3) Az Rtv. 92. § (1) bekezdés a) pontja szerinti rendőrségi panaszokról – az alapvető jogok biztosa által meghatározott adattartalommal – az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója havonta tájékoztatást küld az alapvető jogok biztosa számára.
+
+39/I. § Az alapvető jogok biztosához az Rtv. 92. § (1) bekezdés b) pontja szerinti rendőrségi panaszt a rendőri intézkedés időpontjától számított egy éven belül lehet előterjeszteni.
+
+39/J. § (1) Az alapvető jogok biztosa az Rtv. 92. § (1) bekezdés b) pontja szerinti rendőrségi panaszt, illetve a 39/H. § (2) bekezdése szerint az alapvető jogok biztosához áttett rendőrségi panaszt jelentés készítése nélkül elutasítja, ha
+
+- a) az elkésett,
+- b) nyilvánvalóan alaptalan, és annak alapján vizsgálat indítása nem indokolt,
+- c) ismételten előterjesztett, és érdemben új tényt, adatot nem tartalmaz, vagy
+- d) a rendőrségi panasz előterjesztője kérte, hogy kilétét ne fedjék fel, és anélkül a vizsgálat nem folytatható le.
+
+(2) Az alapvető jogok biztosa a vizsgálatáról jelentést készít, amely tartalmazza a feltárt tényeket, az ezeken alapuló megállapításokat és következtetéseket, valamint a III. fejezet szerinti intézkedést.
+
+(3) Ha a vizsgálat nem tár fel alapjogi visszásságot vagy nem érint alapjogi szempontból lényeges kérdést, az alapvető jogok biztosa a rendőrségi panaszt jelentés készítésének mellőzésével is elutasíthatja.
+
+(4) Az alapvető jogok biztosa a jelentést, illetve a (3) bekezdés szerinti elutasítást megküldi az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója vagy az idegenrendészeti szerv főigazgatója számára.
+
+39/K. § (1) Az alapvető jogok biztosának a 39/J. § szerinti jelentésére figyelemmel az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója a rendőrségi panaszról harmincöt napon belül közigazgatási hatósági eljárásban dönt. Az ügyintézési határidő az alapvető jogok biztosa jelentésének kézhezvételét követő napon kezdődik.
+
+(2) Ha az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója határozatban eltér az alapvető jogok biztosa jelentésétől, ezt köteles megindokolni.
+
+(3) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója az (1) és (2) bekezdés szerinti határozatának felülvizsgálata iránt indult perben az alapvető jogok biztosa beavatkozóként részt vehet.
+
+39/L. § (1) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója a határozatának meghozatalát követően az alapvető jogok biztosa jelentését – a személyazonosító adatoktól megfosztva – honlapján közzéteszi, kivéve, ha a közzététel ellen a panaszos rendőrségi panaszában előzetesen tiltakozott.
+
+(2) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, az idegenrendészeti szerv főigazgatója, valamint az intézkedést foganatosító szerv vezetője döntéseinek megküldésével tájékoztatja az alapvető jogok biztosát azokban az ügyekben, amelyekben az alapvető jogok biztosa jelentést készített, illetve utasítás kiadására, módosítására vagy hatályon kívül helyezésére vonatkozó javaslatot tett.
+
 ### IV. Fejezet — AZ ALAPVETŐ JOGOK BIZTOSÁNAK ÉVES BESZÁMOLÓJA
 
 40. § (1) Az alapvető jogok biztosa az éves beszámolót a tárgyévet követő év március 31-ig terjeszti az Országgyűlés elé.
 
 (2) Az alapvető jogok biztosa az éves beszámolóban
 
-- a) tájékoztat az alapjogvédelmi tevékenységéről, külön fejezetekben bemutatva az 1. § (2) és (3) bekezdésében, a 2. § (6) bekezdésében meghatározottak szerinti, valamint a közérdekű bejelentések vizsgálatával kapcsolatos tevékenységét is,
+- a) tájékoztat az alapjogvédelmi tevékenységéről, külön fejezetekben bemutatva az 1. § (2) és (3) bekezdésében, a 2. § (6) bekezdésében és a III/B. Fejezetben meghatározottak szerinti, valamint a közérdekű bejelentések vizsgálatával kapcsolatos tevékenységét is,
 - b) tájékoztat az általa tett kezdeményezések, ajánlások fogadtatásáról és eredményéről, valamint
 - c) az alapvető jogokkal kapcsolatos jogsértésekről készült statisztikai kimutatás alapján értékeli az alapvető jogok helyzetét.
 
@@ -526,15 +569,25 @@ tevékenységét.
 
 (3) A Hivatal Szervezeti és Működési Szabályzatát az alapvető jogok biztosa normatív utasításban állapítja meg.
 
+(3a) A rendőri intézkedéssel, annak elmulasztásával, kényszerítő eszköz alkalmazásával összefüggő beadványok és a rendőrségi panaszok vizsgálatát a Hivatal önálló szervezeti egysége végzi.
+
 (4) A Hivatal a központi költségvetés szerkezetében önálló fejezet, a fejezetet irányító szerv vezetőjének jogosítványait a főtitkár gyakorolja.
 
 (5) Az alapvető jogok biztosa a kiadmányozási jogot a Szervezeti és Működési Szabályzatban a helyettesekre, intézkedést nem tartalmazó irat esetén a főtitkárra vagy a Hivatal vezetői megbízással rendelkező köztisztviselőjére átruházhatja.
 
 42. § (1) A főtitkár felett a munkáltatói jogokat az alapvető jogok biztosa gyakorolja.
 
-(2) A főtitkár államtitkári illetményre és juttatásokra jogosult, naptári évenként negyven munkanap szabadság illeti meg.
+(2) A főtitkár a Kit. szerinti közigazgatási államtitkári illetménysáv felső határának megfelelő összegű illetményre és közigazgatási államtitkári juttatásokra jogosult, valamint naptári évenként negyven munkanap szabadság illeti meg.
 
-(3) A Hivatalban foglalkoztatott köztisztviselőt az alapvető jogok biztosa, a (4) bekezdésben meghatározott köztisztviselő esetében az alapvető jogok biztosának helyettese nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja. Az Alapvető Jogok Biztosának Hivatala törekszik a nők, az etnikai, kisebbségi és hátrányos helyzetű csoportok megjelenítésére a Hivatal személyi állományában.
+(2a) A főtitkár munkáját főtitkárhelyettes segíti. A főtitkárhelyettes a Kit. szerinti helyettes államtitkári illetménysáv felső határának megfelelő összegű illetményre és helyettes államtitkári juttatásokra jogosult, valamint naptári évenként harmincöt munkanap szabadság illeti meg.
+
+(2b) A 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője felett a munkáltatói jogokat az alapvető jogok biztosa gyakorolja.
+
+(2c) A 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője helyettes államtitkári illetményre és juttatásokra jogosult, valamint naptári évenként harmincöt munkanap szabadság illeti meg.
+
+(2d) Tevékenysége során a 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője a „rendészeti igazgató” címet viseli.
+
+(3) A Hivatalban foglalkoztatott köztisztviselőt az alapvető jogok biztosa, a (4) bekezdésben meghatározottak szerint foglalkoztatott köztisztviselőt az alapvető jogok biztosának helyettese nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja. A 41. § (3a) bekezdése szerinti önálló szervezeti egységnél foglalkoztatott köztisztviselőt – az alapvető jogok biztosának egyetértésével – a 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja. A Hivatal törekszik a nők, az etnikai, kisebbségi és hátrányos helyzetű csoportok megjelenítésére a Hivatal személyi állományában.
 
 (4) A Szervezeti és Működési Szabályzatban meg kell határozni azon köztisztviselők létszámkeretét, akik az alapvető jogok biztosa helyettesének irányítása alá tartoznak.
 
@@ -571,11 +624,13 @@ tevékenységét.
 
 (5) E törvény hatálybalépésétől az Országgyűlési Biztos Hivatala vezetője tisztségének elnevezése főtitkár.
 
-(6) A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 14. § (1) bekezdés c) pontjának alkalmazása szempontjából az Országgyűlési Biztos Hivatala jogutódjának a Hivatalt kell tekinteni.
+(6)
 
 45/A. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2012. évi CCXI. törvénnyel megállapított 34/A. §-át a 2013. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
 45/B. § Ha az alapvető jogok biztosa az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartás tekintetében e törvény 2016. december 31-én hatályos 39. § (2) bekezdését és 27. § (4) bekezdését kell alkalmazni.
+
+45/C. § A Független Rendészeti Panasztestület 2020. február 27-én megszűnik, feladat- és hatáskörét az alapvető jogok biztosa látja el.
 
 #### 16. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

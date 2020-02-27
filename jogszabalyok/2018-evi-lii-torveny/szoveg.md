@@ -491,7 +491,7 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
   - k) a Magyar Honvédség szerződéses állományú tagjának e jogviszonya,
   - l) a katonai szolgálatot teljesítő önkéntes tartalékos katona e jogviszonya,
   - m) a nemzeti felsőoktatásról szóló törvényben meghatározott hallgatói munkaszerződés alapján létrejött munkaviszony,
-  - n) a Független Rendészeti Panasztestület tagjának e jogviszonya,
+  - n)
   - o) az a)–n) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik,
   - p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségkárosodási járadék folyósításának időtartama, valamint a honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat által megállapított honvédelmi egészségkárosodási járadék folyósításának időtartama;
 - 13. nevelőszülői foglalkoztatási jogviszony: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony, amely teljes munkaidős foglalkoztatási jogviszonynak minősül;
