@@ -190,13 +190,9 @@ a kormányzati igazgatásról szóló 2018. évi CXXV. törvény, valamint egyes
 
 #### 6. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-84. § A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 92. § (1) bekezdés b) pontjában az „a Testület” szövegrész helyébe az „az alapvető jogok biztosa” szöveg lép.
+84. §
 
-85. § Hatályát veszti az Rtv.
-
-- a) 6/A. §-át megelőző alcím címe,
-- b) 6/A–6/D. §-a,
-- c) 93. §-a és 93/A. §-a.
+85. §
 
 #### 7. A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény módosítása
 
@@ -214,7 +210,7 @@ a kormányzati igazgatásról szóló 2018. évi CXXV. törvény, valamint egyes
 
 #### 10. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-90. § Hatályát veszti a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pont it) alpontja.
+90. §
 
 #### 11. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló1996. évi LVII. törvény módosítása
 
@@ -240,9 +236,7 @@ a kormányzati igazgatásról szóló 2018. évi CXXV. törvény, valamint egyes
 
 #### 16. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 
-97. § (1) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés a) pontjában a „vendégoktatói” szövegrész helyébe a „vendégoktatói vagy külügyi szakmai” szöveg lép.
-
-(2) Hatályát veszti a Tbj. 5. § (1) bekezdés a) pontjában az „ , a Független Rendészeti Panasztestület tagja” szövegrész.
+97. §
 
 #### 17. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
@@ -376,90 +370,17 @@ a kormányzati igazgatásról szóló 2018. évi CXXV. törvény, valamint egyes
 
 140. §
 
-141. § Az Ajbt. a következő III/B. Fejezettel egészül ki:
+141. §
 
-„III/B. FEJEZET
+142. §
 
-A RENDŐRSÉGI PANASZOK VIZSGÁLATA
+143. §
 
-39/F. § A Rendőrségről szóló 1994. évi XXXIV. szóló törvény (a továbbiakban: Rtv.) 92. § (1) bekezdése alapján előterjesztett panasz (a továbbiakban: rendőrségi panasz) vizsgálata során az alapvető jogok biztosa eljárására a III. Fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+144. §
 
-39/G. § (1) Az alapvető jogok biztosa a rendőrségi panasz vizsgálata során személyesen és a rendőrségi panasz vizsgálatára felhatalmazott munkatársai útján is eljárhat.
+145. §
 
-(2) A 22. § (1) bekezdés c) pontja szerinti meghallgatáson az alapvető jogok biztosán és a meghallgatott személyen kívül más csak akkor vehet részt, ha a részvételéhez az alapvető jogok biztosa hozzájárult.
-
-(3) Az alapvető jogok biztosának a rendőrségi panasz vizsgálatára felhatalmazott munkatársa e feladatok teljesítése körében – ha megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik – a minősített adatot a minősített adat védelméről szóló törvényben meghatározott felhasználói engedély nélkül is megismerheti.
-
-(4) Az alapvető jogok biztosának a rendőrségi panasz vizsgálatára felhatalmazott munkatársa az adott panasz kivizsgálásában, illetve az azzal összefüggő jelentés előkészítésében nem vehet részt, ha az ügy elintézéséből a közigazgatási hatósági eljárásra vonatkozó törvény rendelkezései szerint ki lenne zárva.
-
-39/H. § (1) Az alapvető jogok biztosa az Rtv. 92. § (1) bekezdés a) pontja szerinti rendőrségi panaszokról felvilágosítást kérhet, és amennyiben eljárásának feltételei fennállnak, erről a panaszost, illetve az eljáró rendőri szervet értesíti. A panaszos az értesítés kézhezvételétől számított nyolc napon belül kérheti, hogy rendőrségi panaszát az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója az alapvető jogok biztosa által lefolytatott vizsgálatot követően bírálja el. Az eljáró rendőri szerv az alapvető jogok biztosától kapott értesítés kézhezvételekor köteles az eljárását felfüggeszteni.
-
-(2) Amennyiben a panaszos az (1) bekezdés szerint határidőben kéri, hogy rendőrségi panaszát az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója az alapvető jogok biztosa által lefolytatott vizsgálatot követően bírálja el, a rendőri szerv köteles a rendőrségi panaszt az alapvető jogok biztosához áttenni. Amennyiben az alapvető jogok biztosa az eljáró rendőri szervet arról értesíti, hogy a határidő eredménytelenül eltelt, a rendőri szerv köteles az eljárását folytatni.
-
-(3) Az Rtv. 92. § (1) bekezdés a) pontja szerinti rendőrségi panaszokról – az alapvető jogok biztosa által meghatározott adattartalommal – az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az idegenrendészeti szerv főigazgatója havonta tájékoztatást küld az alapvető jogok biztosa számára.
-
-39/I. § Az alapvető jogok biztosához az Rtv. 92. § (1) bekezdés b) pontja szerinti rendőrségi panaszt a rendőri intézkedés időpontjától számított egy éven belül lehet előterjeszteni.
-
-39/J. § (1) Az alapvető jogok biztosa az Rtv. 92. § (1) bekezdés b) pontja szerinti rendőrségi panaszt, illetve a 39/H. § (2) bekezdése szerint az alapvető jogok biztosához áttett rendőrségi panaszt jelentés készítése nélkül elutasítja, ha
-
-a) az elkésett,
-
-b) nyilvánvalóan alaptalan, és annak alapján vizsgálat indítása nem indokolt,
-
-c) ismételten előterjesztett, és érdemben új tényt, adatot nem tartalmaz, vagy
-
-d) a rendőrségi panasz előterjesztője kérte, hogy kilétét ne fedjék fel, és anélkül a vizsgálat nem folytatható le.
-
-(2) Az alapvető jogok biztosa a vizsgálatáról jelentést készít, amely tartalmazza a feltárt tényeket, az ezeken alapuló megállapításokat és következtetéseket, valamint a III. fejezet szerinti intézkedést.
-
-(3) Ha a vizsgálat nem tár fel alapjogi visszásságot vagy nem érint alapjogi szempontból lényeges kérdést, az alapvető jogok biztosa a rendőrségi panaszt jelentés készítésének mellőzésével is elutasíthatja.
-
-(4) Az alapvető jogok biztosa a jelentést, illetve a (3) bekezdés szerinti elutasítást megküldi az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója vagy az idegenrendészeti szerv főigazgatója számára.
-
-39/K. § (1) Az alapvető jogok biztosának a 39/J. § szerinti jelentésére figyelemmel az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója a rendőrségi panaszról harmincöt napon belül közigazgatási hatósági eljárásban dönt. Az ügyintézési határidő az alapvető jogok biztosa jelentésének kézhezvételét követő napon kezdődik.
-
-(2) Ha az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója határozatban eltér az alapvető jogok biztosa jelentésétől, ezt köteles megindokolni.
-
-(3) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója az (1) és (2) bekezdés szerinti határozatának felülvizsgálata iránt indult perben az alapvető jogok biztosa beavatkozóként részt vehet.
-
-39/L. § (1) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, valamint az idegenrendészeti szerv főigazgatója a határozatának meghozatalát követően az alapvető jogok biztosa jelentését – a személyazonosító adatoktól megfosztva – honlapján közzéteszi, kivéve, ha a közzététel ellen a panaszos rendőrségi panaszában előzetesen tiltakozott.
-
-(2) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, az idegenrendészeti szerv főigazgatója, valamint az intézkedést foganatosító szerv vezetője döntéseinek megküldésével tájékoztatja az alapvető jogok biztosát azokban az ügyekben, amelyekben az alapvető jogok biztosa jelentést készített, illetve utasítás kiadására, módosítására vagy hatályon kívül helyezésére vonatkozó javaslatot tett.”
-
-142. § Az Ajbt. 40. § (2) bekezdés a) pont helyébe a következő rendelkezés lép:
-
-(Az alapvető jogok biztosa az éves beszámolóban)
-
-„a) tájékoztat az alapjogvédelmi tevékenységéről, külön fejezetekben bemutatva az 1. § (2) és (3) bekezdésében, a 2. § (6) bekezdésében és a III/B. Fejezetben meghatározottak szerinti, valamint a közérdekű bejelentések vizsgálatával kapcsolatos tevékenységét is,”
-
-143. § Az Ajbt. 41. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A rendőri intézkedéssel, annak elmulasztásával, kényszerítő eszköz alkalmazásával összefüggő beadványok és a rendőrségi panaszok vizsgálatát a Hivatal önálló szervezeti egysége végzi.”
-
-144. § (1) Az Ajbt. 42. § (2) bekezdése helyébe a következő rendelkezés lép, valamint a § következő (2a)–(2d) bekezdéssel egészül ki:
-
-„(2) A főtitkár a Kit. szerinti közigazgatási államtitkári illetménysáv felső határának megfelelő összegű illetményre és közigazgatási államtitkári juttatásokra jogosult, valamint naptári évenként negyven munkanap szabadság illeti meg.
-
-(2a) A főtitkár munkáját főtitkárhelyettes segíti. A főtitkárhelyettes a Kit. szerinti helyettes államtitkári illetménysáv felső határának megfelelő összegű illetményre és helyettes államtitkári juttatásokra jogosult, valamint naptári évenként harmincöt munkanap szabadság illeti meg.
-
-(2b) A 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője felett a munkáltatói jogokat az alapvető jogok biztosa gyakorolja.
-
-(2c) A 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője helyettes államtitkári illetményre és juttatásokra jogosult, valamint naptári évenként harmincöt munkanap szabadság illeti meg.
-
-(2d) Tevékenysége során a 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője a „rendészeti igazgató” címet viseli.”
-
-(2) Az Ajbt. 42. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A Hivatalban foglalkoztatott köztisztviselőt az alapvető jogok biztosa, a (4) bekezdésben meghatározottak szerint foglalkoztatott köztisztviselőt az alapvető jogok biztosának helyettese nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja. A 41. § (3a) bekezdése szerinti önálló szervezeti egységnél foglalkoztatott köztisztviselőt – az alapvető jogok biztosának egyetértésével – a 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja. A Hivatal törekszik a nők, az etnikai, kisebbségi és hátrányos helyzetű csoportok megjelenítésére a Hivatal személyi állományában.”
-
-145. § Az Ajbt. a következő 45/C. §-al egészül ki:
-
-„45/C. § A Független Rendészeti Panasztestület 2020. február 27-én megszűnik, feladat- és hatáskörét az alapvető jogok biztosa látja el.”
-
-146. § Hatályát veszti az Ajbt.
-
-- a) 2. § (1) bekezdésében „ , a Független Rendészeti Panasztestület” szövegrész,
-- b) 45. § (6) bekezdése.
+146. §
 
 #### 40. Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosítása
 
@@ -535,10 +456,10 @@ d) a rendőrségi panasz előterjesztője kérte, hogy kilétét ne fedjék fel,
 
 171. §
 
-172. § Hatályát veszti az Országgyűlésről szóló 2012. évi XXXVI. törvény
+172. §
 
-- a) 44/A. § (1) bekezdés 12. pontja,
-- b) 61/A. § (2) bekezdés m)–o) pontja,
+- a)
+- b)
 - c)
 - d)
 - e)
@@ -689,7 +610,7 @@ d) a rendőrségi panasz előterjesztője kérte, hogy kilétét ne fedjék fel,
 
 #### 68. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-229. § Hatályát veszti a szociális hozzájárulási adóról szóló 2018. évi LII. törvény 34. § 12. pont n) alpontja.
+229. §
 
 #### 69. A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény módosítása
 
