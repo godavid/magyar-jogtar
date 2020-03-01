@@ -833,7 +833,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (2b) A 46. § (6a) bekezdés b) pontjának alkalmazása esetén a fogyasztóvédelmi hatóság értesítheti a jelen lévő ügyfelet a hivatalbóli eljárás megindításáról az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 104. § (4) bekezdésében meghatározott, rendelkezésére álló adatok közlésével. E bekezdésben foglaltak alkalmazása során az ügyfél részéről a helyszínen eljáró személyt, akivel a hatóság a döntését a helyszínen közli, – az ellenkező bizonyításáig – az ügyfél képviseletére jogosultnak kell tekinteni, amennyiben erre irányuló nyilatkozatot tesz, illetve egyéb, ezt igazoló okiratot csatol.
 
-(2c) A (2b) bekezdésben foglalt vélelem megdöntése iránti kérelmet a döntéssel szembeni fellebbezéssel egyidejűleg terjeszthet elő az ügyfél. A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a képviseleti jogosultság hiányát valószínűsítik.
+(2c) A (2b) bekezdésben foglalt vélelem megdöntése iránt kérelmet terjeszthet elő az ügyfél. A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a képviseleti jogosultság hiányát valószínűsítik.
 
 (3) A fogyasztóvédelmi hatóság eljárása a jogsértés bekövetkezését követő három éven túl nem indítható meg. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
@@ -982,7 +982,7 @@ terjedhet.
 
 49. § (1) A fogyasztóvédelmi hatóság az ügydöntő határozatának meghozataláig terjedő időtartamra azonnal végrehajtható végzésében elrendelheti a 47. § (1) bekezdésének a), b), illetve g) pontjában foglaltakat, ha arra a (2) bekezdésben meghatározott feltételek fennállásának valószínűsíthetősége miatt halaszthatatlanul szükség van. E végzését a fogyasztóvédelmi hatóság soron kívül hozza meg.
 
-(2) A fogyasztóvédelmi hatóság első fokú határozatát az alábbi esetekben, illetve okokból is azonnal végrehajthatónak nyilváníthatja
+(2) A fogyasztóvédelmi hatóság határozatát az alábbi esetekben, illetve okokból is azonnal végrehajthatónak nyilváníthatja
 
 - a) a 47. § (1) bekezdésének h) pontja szerinti jogkövetkezmény megállapítása esetén,
 - b) környezetvédelmi okból,
@@ -1020,10 +1020,10 @@ terjedhet.
 - i) a döntés rendelkező részét, ide nem értve véglegessé vált döntés esetén a jogorvoslatról szóló rendelkezést, valamint
 - j) a döntéssel szembeni jogorvoslati eljárás tényét.
 
-(6) A fogyasztóvédelmi hatóság a jogorvoslat során hozott és a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutásakor – a határozat, illetve végzés közzétételével megegyező módon – közzéteszi:
+(6) A fogyasztóvédelmi hatóság a jogorvoslat során hozott és a közzétett döntés érdemében változást eredményező bírósági határozat tudomására jutásakor – a határozat, illetve végzés közzétételével megegyező módon – közzéteszi:
 
 - a) a jogorvoslattal érintett döntésre vonatkozó (5) bekezdés szerinti információkat,
-- b) a jogorvoslat során hozott hatósági döntést vagy bírósági határozatot, annak rövid indokolását, valamint
+- b) a jogorvoslat során hozott bírósági határozatot, annak rövid indokolását, valamint
 - c) a közzététel napját.
 
 (7) A fogyasztóvédelmi hatóság a (4), illetve (6) bekezdés alapján közzétett információkat a közzétételtől számított hat hónap elteltével honlapjáról eltávolítja.

@@ -744,7 +744,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 75. § Ha az egészségi állapottól függő nyugellátás iránti igényt arra tekintettel utasították el, hogy az igénylő nem megváltozott munkaképességű, az elutasító határozat véglegessé válását követő egy éven belül a nyugellátás iránt újabb igény akkor nyújtható be, ha az igénylő az igénybejelentéshez csatolja a háziorvos (szakorvos) igazolását arról, hogy az egészségi állapota az igény elutasítását követően rosszabbodott.
 
-76. § Ha a hozzátartozói nyugellátást azért szüntetik meg, mert a nyugellátásban részesülő személy már nem megváltozott munkaképességű, a megszüntetést az erről szóló elsőfokú határozat keltét követő második hónap első napjától kell végrehajtani.
+76. § Ha a hozzátartozói nyugellátást azért szüntetik meg, mert a nyugellátásban részesülő személy már nem megváltozott munkaképességű, a megszüntetést az erről szóló határozat keltét követő második hónap első napjától kell végrehajtani.
 
 #### 77. §
 
@@ -771,7 +771,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (5) A nyugdíjfolyósító szerv a nyugellátás megszüntetéséről vagy a nyugdíj összegének csökkentéséről rendelkező határozat alapján az ellátás folyósítását, illetve a különbözet folyósítását a döntés véglegessé válásáig felfüggeszti.
 
-(6) A nyugellátást megállapító elsőfokú határozatban foglalt nyugdíjösszeget a fellebbezésre tekintet nélkül folyósítani kell.
+(6)
 
 (7) Az esedékessé vált és fel nem vett nyugellátást az esedékességtől számított öt éven belül lehet felvenni.
 
@@ -949,7 +949,7 @@ vagy más módon az ellenőrzést akadályozzák.
 
 (3) A mulasztási bírság kiszabásánál a nyugdíjbiztosítási igazgatási szervnek mérlegelnie kell a mulasztás körülményeit, így különösen a mulasztás súlyát, gyakoriságát, továbbá azt, hogy a mulasztó – a magánszemély, illetve a foglalkoztató, egyéb szerv esetén annak intézkedésre jogosult képviselője, alkalmazottja, tagja vagy megbízottja – az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
 
-(4) A mulasztási bírságot az elsőfokú nyugdíjbiztosítási igazgatási szervhez kell befizetni.
+(4) A mulasztási bírságot az ügyben eljárt nyugdíjbiztosítási igazgatási szervhez kell befizetni.
 
 (5) Aki a mulasztási bírságot a határozatban megállapított határidőn belül nem fizeti meg, – késedelmi pótlék helyett – a kiszabott mulasztási bírság kétszeresét köteles megfizetni.
 
@@ -986,13 +986,11 @@ vagy más módon az ellenőrzést akadályozzák.
 
 ### Jogorvoslat és döntés-felülvizsgálat
 
-95. § (1) A nyugdíjelőleggel kapcsolatos hatósági ügyekben nincs helye fellebbezésnek.
+95. § (1)
 
 (2) A 80. §-ban foglaltak nem érintik a nyugdíjbiztosítási igazgatási szervnek az általános közigazgatási rendtartásban biztosított jogát a döntés módosítására vagy visszavonására. Ha e törvény másként nem rendelkezik, a nyugdíjbiztosítási igazgatási szervek eljárásában a döntés akkor is módosítható vagy visszavonható, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
 
-95/A. § (1) A nyugdíjbiztosítási igazgatási szervek hatáskörébe tartozó többfokú közigazgatási eljárások esetén a közigazgatási pert az elsőfokon eljárt nyugdíjbiztosítási igazgatási szerv ellen kell indítani.
-
-(2)
+#### 95/A. §
 
 ### IX. Fejezet — A NYILVÁNTARTÁSI ÉS ADATSZOLGÁLTATÁSI KÖTELEZETTSÉG
 

@@ -627,7 +627,7 @@ rendelkezik.
 
 (10) Az egyházi köznevelési intézmény és a magán köznevelési intézmény akkor rendelkezik állandó saját székhellyel, telephellyel, ha a fenntartója igazolja, hogy a feladatai ellátásához szükséges jogszabályban meghatározott helyiségek feletti rendelkezési jog a nevelési-oktatási intézmény működéséhez legalább öt nevelési évre, tanítási évre biztosított. Ha a nevelési-oktatási intézmény székhelye, telephelye másik nevelési-oktatási intézmény által is használt ingatlanban található, az engedélyezési eljárásban vizsgálni kell azt is, hogy az épületben biztosítható-e valamennyi nevelési-oktatási intézmény zavartalan működése, az alapító okiratában megjelölt maximális gyermek-, tanulói létszám fogadása, a nevelőtestületek működése.
 
-(11) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban hozott elsőfokú döntés ellen fellebbezésnek van helye.
+(11)
 
 (12)
 
@@ -1396,7 +1396,7 @@ továbbítható.
 
 (5) Tíz év alatti tanulóval szemben fegyelmi eljárás nem indítható. Tanköteles tanulóval szemben a (4) bekezdés e) pontjában meghatározott fegyelmi büntetés nem, a (4) bekezdés f) pontjában és a (7) bekezdés e) pontjában meghatározott fegyelmi büntetés pedig csak rendkívüli vagy ismétlődő fegyelmi vétség esetén alkalmazható. Ebben az esetben a szülő köteles új iskolát, kollégiumot keresni a tanulónak. A fegyelmi büntetést hozó iskola, kollégium segítséget nyújt a szülőnek az új iskola, kollégium megtalálásában. Abban az esetben, ha az iskola, a kollégium a fegyelmi büntetés megállapításáról szóló határozat véglegessé válásától számított nyolc napon belül a tanulót fogadó iskolától, kollégiumtól nem kap értesítést arról, hogy a tanuló más iskolában, kollégiumban történő elhelyezése a szülő kezdeményezésére megtörtént, a fegyelmi büntetést hozó iskola, kollégium három napon belül köteles megkeresni a köznevelési feladatot ellátó hatóságot, amely három munkanapon belül másik, az állami közfeladat-ellátásban résztvevő iskolát, kollégiumot jelöl ki a tanuló számára. Az iskolát, kollégiumot úgy kell kijelölni, hogy a tanuló számára a kijelölt intézményben a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési feladatokat ellátó hatóság kijelölő határozata azonnal végrehajtható. A (4) bekezdés d) pontjában szabályozott fegyelmi büntetés akkor alkalmazható, ha az iskola igazgatója a tanuló átvételéről a másik iskola igazgatójával megállapodott. A (4) bekezdés c) pontjában meghatározott fegyelmi büntetés szociális kedvezményekre és juttatásokra nem terjed ki. A (4) bekezdés f) pontjában és a (7) bekezdés e) pontjában meghatározott fegyelmi büntetés tanköteles tanuló esetében nem hajtható végre az új tanulói jogviszony, kollégiumi tagsági viszony létesítéséig.
 
-(5a) A köznevelési feladatot ellátó hatóság fegyelmi büntetésként kizárt tanuló számára másik iskolát, kollégiumot kijelölő határozata ellen – jogszabályban meghatározott hatósághoz – fellebbezésnek van helye.
+(5a)
 
 (6)
 
@@ -2843,7 +2843,7 @@ kapcsolatosan eljáró, felmentést engedélyező szervet rendeletben jelölje k
 
 (3d)
 
-(3e) A köznevelési feladatot ellátó hatóságnak a hatósági ellenőrzését követően indult eljárásban hozott döntése ellen – a kormányzati igazgatásról szóló törvényben meghatározott hatósághoz – fellebbezésnek van helye.
+(3e)
 
 (4) Köznevelési intézmény tekintetében felügyeleti és irányító szerven a fenntartót, felügyeleten és irányításon a fenntartói jogok és kötelességek gyakorlását, szakmai és gazdasági felügyeleten és irányításon a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
 

@@ -100,9 +100,9 @@ alapvető jogai és kötelezettségei
 
 (3) A fővárosi önkormányzat a főváros közigazgatási területén lévő közúttal érintkező szilárd burkolatú járda, gyalogút, gyalogos felállóhely szegélye egységes kialakításának követelményeit rendeletben határozza meg.
 
-(4) Az országos illetékességgel eljáró fővárosi és megyei kormányhivatal által első fokon meghozott közlekedési hatósági döntéssel szemben – ideértve a nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedési beruházásokat is – fellebbezésnek van helye.
+(4)
 
-(5) A 20. § (11) bekezdésében felsorolt szervezetek által végrehajtott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.
+(5) A 20. § (11) bekezdésében – a munkaügyi hatóság és a közlekedési hatóságként eljáró fővárosi és megyei kormányhivatal, valamint járási (fővárosi kerületi) hivatal kivételével – felsorolt szervezetek által végrehajtott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.
 
 (6) A miniszter e törvény szerinti döntésével szemben indított közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
@@ -647,7 +647,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (2) A bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság, a munkaügyi hatóság és a közterület-felügyelet (a továbbiakban együtt: eljáró hatóság) jogosult.
 
-(2a) A rendőrség, a katasztrófavédelmi hatóság, a közlekedési hatóság, a vámhatóság és a munkaügyi hatóság közigazgatási hatósági eljárásban hozott határozata ellen fellebbezésnek van helye.
+(2a) A rendőrség, a katasztrófavédelmi hatóság, a közlekedési hatóság – kivéve a közlekedési hatóságként eljáró fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal – és a vámhatóság közigazgatási hatósági eljárásban hozott határozata ellen fellebbezésnek van helye.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
@@ -1441,9 +1441,9 @@ terjedhet.
 - c)–d)
 - e) az engedélyezési eljárásokban hatásterületnek minősül azon ingatlanok területe, amelyeket a tervezett tevékenység terület-igénybevétellel érinti, vagy amely a tevékenységgel igénybevett ingatlan tervezési határok közötti területével közvetlenül határos, vagy amelynek a kapubejárója az eljárás tárgyát képező útszakaszhoz közvetlenül csatlakozik.
 
-(3) A gyorsforgalmi közúthálózat közérdekűségéről és fejlesztéséről szóló külön törvényben megjelölt utakkal és az ezekkel az utakkal egy beruházásban megvalósuló egyéb utakkal kapcsolatos közlekedési hatósági eljárásokban az elsőfokú határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – a fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(3) A gyorsforgalmi közúthálózat közérdekűségéről és fejlesztéséről szóló külön törvényben megjelölt utakkal és az ezekkel az utakkal egy beruházásban megvalósuló egyéb utakkal kapcsolatos közlekedési hatósági eljárásokban hozott határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – azonnal végrehajthatónak nyilvánítható.
 
-(4) Az országos közutak forgalomba helyezése tárgyában hozott elsőfokú határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(4) Az országos közutak forgalomba helyezése tárgyában hozott határozat – a közérdekű közlekedési infrastruktúra kialakítására tekintettel – azonnal végrehajthatónak nyilvánítható.
 
 (5) Az elsőfokú határozat ellen nem nyújthat be fellebbezést az az ügyfél, aki az eljárás megindításáról szóló szabályszerű értesítés ellenére az első fokú engedélyezési eljárásban nem vett részt.
 

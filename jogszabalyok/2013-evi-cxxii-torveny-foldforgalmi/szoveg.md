@@ -402,7 +402,7 @@ belül döntést hoz.
 
 (4) A mezőgazdasági igazgatási szerv az (1)–(3) bekezdésben meghatározott döntését közli az eladóval, az adásvételi szerződés szerinti vevővel, valamint azokkal az elővásárlásra jogosultakkal, akik az adásvételi szerződésre elfogadó jognyilatkozatot tettek, továbbá a helyi földbizottsággal. Ha az eladó az adásvételi szerződésben megadta a vevő javára szóló bejegyzési engedélyt, a mezőgazdasági igazgatási szerv a (2) bekezdésben meghatározott döntését közli az ingatlanügyi hatósággal is.
 
-(5) A mezőgazdasági igazgatási szerv döntésével szemben fellebbezésnek nincs helye. A közigazgatási perben a bíróság a mezőgazdasági igazgatási szerv döntését nem változtathatja meg.
+(5) A közigazgatási perben a bíróság a mezőgazdasági igazgatási szerv döntését nem változtathatja meg.
 
 #### 8. Hatósági jóváhagyása az adás-vételnek nem minősülő tulajdonjog átruházásról szóló szerződésnek és az átruházásnak nem minősülő módon történő tulajdonszerzésnek
 
@@ -691,7 +691,7 @@ az alapító okiratában vagy jogszabályban meghatározott, oktatási vagy tudo
 
 (4) A mezőgazdasági igazgatási szerv az (1)–(3) bekezdésben meghatározott döntését közli a haszonbérbeadóval, a haszonbérleti szerződés szerinti haszonbérlővel, valamint azokkal az előhaszonbérletre jogosultakkal, akik a haszonbérleti szerződésre elfogadó jognyilatkozatot tettek.
 
-(5) A mezőgazdasági igazgatási szerv döntésével szemben fellebbezésnek nincs helye.
+(5)
 
 #### 15. Hatósági jóváhagyása a haszonbérleti szerződésnek nem minősülő földhasználati szerződésnek, a haszonbérleti szerződés módosításának, valamint az olyan haszonbérleti szerződésnek, melynek létestése során nem áll fenn előhaszonbérleti jog
 

@@ -422,9 +422,9 @@ van helye.
 
 ### VII. Fejezet — A SZABÁLYSÉRTÉS MIATT ELJÁRÓ HATÓSÁGOK
 
-38. § (1) Az általános szabálysértési hatóság a fővárosi, megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal).
+38. § (1) Általános szabálysértési hatóságként a rendőrség általános rendőrségi feladatok ellátására létrehozott szervének szabálysértési hatósági feladatok ellátására kijelölt szervei járnak el.
 
-(2) Az e törvény által a hatáskörébe utalt szabálysértés miatt a szabálysértési hatóság jogkörében a rendőrkapitányság vagy az egyes feladatok ellátására létrehozott rendőri szerv, illetve a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve jár el.
+(2) Az e törvény által a hatáskörébe utalt szabálysértés miatt a szabálysértési hatóság jogkörében a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, a Kormány által kijelölt szerv, valamint az egészségügyi államigazgatási szerv jár el.
 
 (3) Szabálysértési elzárással is büntethető, valamint e törvényben meghatározott szabálysértés miatt első fokon a járásbíróság jár el.
 
@@ -434,7 +434,7 @@ van helye.
 
 (2) Törvényben meghatározott esetben szabálysértés észlelése esetén – amennyiben ezt e törvény külön említi – helyszíni bírságot szabhat ki:
 
-- a) a járási hivatal arra felhatalmazott ügyintézője,
+- a)
 - b) a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve,
 - c) a hivatásos katasztrófavédelmi szerv arra felhatalmazott ügyintézője,
 - d) a közlekedési hatóság ellenőre,
@@ -458,8 +458,8 @@ van helye.
 
 (5) Ha vitás, hogy több szabálysértési hatóság közül melyik köteles eljárni, a hatáskörrel, illetékességgel rendelkező szabálysértési hatóságot
 
-- a) járási hivatal esetén a fővárosi és megyei kormányhivatal, rendőrkapitányság esetén a megyei (fővárosi) rendőr-főkapitányság, Nemzeti Adó- és Vámhivatal területi szerve esetén a Központi Irányítás,
-- b) fővárosi és megyei, vagy több megyei kormányhivatal illetékességi területe esetén a közigazgatás-szervezésért felelős miniszter, több rendőr-főkapitányság illetékességi területe esetén az Országos Rendőr-főkapitányság,
+- a) rendőrkapitányság esetén a megyei (fővárosi) rendőr-főkapitányság, Nemzeti Adó- és Vámhivatal területi szerve esetén a Központi Irányítás,
+- b) több rendőr-főkapitányság illetékességi területe esetén az Országos Rendőr-főkapitányság,
 - c) az a) és b) pontban foglaltak hiányában a szabálysértési szabályozásért felelős miniszter
 
 jelöli ki.
@@ -468,7 +468,7 @@ jelöli ki.
 
 (7) A szabálysértési hatóság kijelöléséről hozott határozat ellen jogorvoslatnak nincs helye.
 
-40/A. § A közigazgatás-szervezésért felelős miniszter a szabálysértési szabályozásért felelős miniszterrel egyetértésben kiadott rendeletében a kormányhivatal illetékességi területén a járási hivatal hatáskörébe tartozó valamennyi vagy egyes szabálysértési ügyekben való eljárásra, valamint a járási hivatal rendes munkaidején túl történő eljárásra az általános illetékességű járási hivataltól eltérő más járási hivatal illetékességét is megállapíthatja.
+#### 40/A. §
 
 #### 30. A bíróság hatásköre és illetékessége
 
@@ -516,9 +516,8 @@ jelöli ki.
 
 (3) A (2) bekezdés szerint eljárva
 
-- a) a járási hivatal az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, a bíróság elsőfokú hatáskörébe tartozó szabálysértést, valamint a rendőrség hatáskörébe tartozó közlekedési szabálysértést és a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó szabálysértéseket;
-- b) a rendőrség a közúti közlekedési szabálysértés miatt előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, a bíróság elsőfokú hatáskörébe tartozó szabálysértést, valamint a pénzügyi és kereskedelmi szabálysértéseket;
-- c) a bíróság az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is.
+- a) az általános szabálysértési hatóság az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is, kivéve a szabálysértési elzárással is büntethető szabálysértést, a bíróság elsőfokú hatáskörébe tartozó szabálysértést, valamint a Nemzeti Adó- és Vámhivatal, a Kormány által kijelölt szerv és az egészségügyi államigazgatási szerv hatáskörébe tartozó szabálysértéseket;
+- b) a bíróság az előtte folyó szabálysértési eljáráshoz egyesítheti az ugyanazon eljárás alá vont személy ellen a hatáskörébe nem tartozó szabálysértés miatt indult eljárást is.
 
 (4) Ha a szabálysértési eljárásban több eljárás alá vont személy van, velük szemben rendszerint egy eljárást kell folytatni.
 
@@ -2092,11 +2091,11 @@ a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor
 
 (2) Az általános szabálysértési hatóság által kiszabott helyszíni bírság, valamint pénzbírság végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
-(2a) A szabálysértési hatóság jogkörében eljáró rendőrkapitányság vagy az egyes feladatok ellátására létrehozott rendőri szerv szabálysértési hatósága által kiszabott pénzbírság, valamint helyszíni bírság végrehajtásáról a szabálysértési jogkörben eljáró rendőrkapitányság vagy az egyes feladatok ellátására létrehozott szabálysértési hatósági jogkörben eljáró rendőri szerv gondoskodik.
+(2a)
 
 (2b) A Nemzeti Adó- és Vámhivatal vámszerve által kiszabott pénzbírság, valamint helyszíni bírság végrehajtásáról a Nemzeti Adó- és Vámhivatal vámszerve gondoskodik.
 
-(2c) A (2a) és (2b) bekezdés szerinti esetben a helyszíni bírság és a pénzbírság végrehajtásáról azon szerv gondoskodik, amelyik
+(2c) A helyszíni bírság és a pénzbírság végrehajtásáról azon szerv gondoskodik, amelyik
 
 - a) az elkövető lakóhelye,
 - b) tartózkodási helye,
@@ -2215,11 +2214,11 @@ elektronikus formában automatikusan továbbítja.
 
 144. § (1) A bíróság és az általános szabálysértési hatóság által kiszabott közérdekű munka végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
-(2) A szabálysértési hatóság jogkörében eljáró rendőrkapitányság vagy az egyes feladatok ellátására létrehozott rendőri szerv szabálysértési hatósága által kiszabott közérdekű munka végrehajtásáról a szabálysértési hatósági jogkörben eljáró rendőrkapitányság vagy az egyes feladatok ellátására létrehozott szabálysértési hatósági jogkörben eljáró rendőri szerv gondoskodik.
+(2)
 
 (3) A Nemzeti Adó- és Vámhivatal vámszerve által kiszabott közérdekű munka végrehajtásáról a Nemzeti Adó- és Vámhivatal vámszerve gondoskodik.
 
-(4) A (2) és (3) bekezdés szerinti esetben a közérdekű munka végrehajtásáról azon szerv gondoskodik, amelyik
+(4) A közérdekű munka végrehajtásáról azon szerv gondoskodik, amelyik
 
 - a) az elkövető lakóhelye,
 - b) tartózkodási helye,
@@ -2945,7 +2944,7 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 181. § (1) Aki valótlan tények állításával a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló törvényben meghatározott – szabálysértésnek vagy bűncselekménynek nem minősülő – hozzátartozók közötti erőszak miatt megelőző távoltartás elrendelését kezdeményezi, ha azt a valótlan tények alapján elrendelik, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 #### 136. Polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértés
 
@@ -2953,7 +2952,7 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 (2) Aki a pirotechnikai termékek előállítására, forgalmára, tárolására, szállítására, felhasználására, megsemmisítésére, birtoklására vonatkozó előírásokat megszegi, szabálysértést követ el.
 
-(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)
 
 (4) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő és a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
 
@@ -2986,7 +2985,7 @@ szabálysértést követ el.
 
 (2b) E § alkalmazásában csekély mennyiség a legfeljebb tíz darab lőszer.
 
-(3) Az (1)–(2a) bekezdésben meghatározott szabálysértések miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)
 
 #### 137/A. Jogosulatlan címhasználat
 
@@ -3008,13 +3007,13 @@ szabálysértést követ el.
 
 (2a) Aki a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 17a. pontja szerinti, a Honvédséghez köthető megjelölést jogosulatlanul használ, szabálysértést követ el.
 
-(3) Az (1), (2) és (2a) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)
 
 #### 138. Szexuális szolgáltatásra való felhívás tilalma
 
 184. § (1) Aki a külön jogszabály szerint meghatározott védett övezetben ellenszolgáltatást felajánlva mást szexuális szolgáltatás nyújtására felhív, illetve más személy szexuális szolgáltatásának felajánlását elfogadja, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatti eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 #### 139. Koldulás
 
@@ -3089,13 +3088,13 @@ szabálysértést követ el.
 
 (5)
 
-(6) Az (1)–(4) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(6)
 
 #### 144. Az egyesülési, a gyülekezési szabadság megsértése
 
 190. § (1) Aki mást egyesülési vagy gyülekezési jogának gyakorlásában jogtalanul akadályoz, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 #### 145. Tiltott szerencsejáték
 
@@ -3139,7 +3138,7 @@ szabálysértést követ el.
 
 a közterület használatának, vagy a lakó- vagy más épületben tartózkodók nyugalmának megzavarására alkalmas magatartást tanúsít, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 #### 149. Csendháborítás
 
@@ -3177,7 +3176,7 @@ szabálysértést követ el.
 
 198. § (1) Aki a közbiztonságra különösen veszélyes eszközök birtoklására, szállítására, forgalmazására vonatkozó szabályokat megszegi, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 #### 153. Kábítószer-rendészeti szabálysértés
 
@@ -3188,7 +3187,7 @@ szabálysértést követ el.
 
 szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 #### 153/A. Gyógyszerrendészeti szabálysértés
 
@@ -3209,13 +3208,13 @@ szabálysértést követ el.
 
 (2) E § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a 2 gramm mennyiséget nem haladja meg. A só formában előforduló vegyületek esetén tiszta hatóanyag-tartalom alatt a bázis formában megadott hatóanyag-tartalmat kell érteni.
 
-(3) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)
 
 #### 153/C. Nem-konvencionális eljárással kapcsolatos szabálysértés
 
 199/C. § (1) Aki az egészségügyről szóló törvény és annak végrehajtására kiadott jogszabály szerinti nem-konvencionális eljárás alkalmazása során az egészségügyről szóló törvény szerinti tájékoztatási kötelezettségét megszegi, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 #### 154. Szeszesital-árusítás, -kiszolgálás és -fogyasztás tilalmának megszegése
 
@@ -3246,7 +3245,7 @@ szabálysértést követ el.
 
 (4) Aki az államhatárról szóló törvény 5. § (1c) bekezdése szerinti tartózkodás szabályait megszegi, szabálysértést követ el.
 
-(5) Az (1)–(4) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(5)
 
 #### 156. Jégen tartózkodás szabályainak megszegése
 
@@ -3264,7 +3263,7 @@ szabálysértést követ el.
 
 203. § (1) Aki számszeríjat, szigonypuskát a jogszabályban meghatározott rendelkezésektől eltérően vagy jogszabályi tiltás ellenére használ, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 (3) Az (1) bekezdésben meghatározott szabálysértés miatt a halászati őr is szabhat ki helyszíni bírságot.
 
@@ -3274,7 +3273,7 @@ szabálysértést követ el.
 
 (2) Aki az útiokmánnyal kapcsolatos jogszabályi rendelkezéseket megszegi, szabálysértést követ el.
 
-(3) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)
 
 #### 159. Határrendészeti szabálysértés
 
@@ -3285,7 +3284,7 @@ szabálysértést követ el.
 
 szabálysértést követ el.
 
-(2) Az (1) bekezdés a) és b) pontjában meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 #### 160. Minősített adat biztonságának megsértése
 
@@ -3301,13 +3300,13 @@ szabálysértést követ el.
 
 szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 #### 160/A. Közérdekű bejelentő üldözése
 
 206/A. § (1) Aki közérdekű bejelentés miatt a bejelentővel szemben hátrányos intézkedést tesz, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 #### 160/B. Hamis statisztikai adatszolgáltatás
 
@@ -3321,7 +3320,7 @@ szabálysértést követ el.
 
 (2) Az a vagyonvédelmi rendszerek programozását végző vállalkozás vagy gazdasági társaság vezetője vagy ilyen tevékenységet végző személy, aki a vagyonvédelmi riasztórendszer programozását, kivitelezését úgy hajtja vagy hajtatja végre, hogy a vagyonvédelmi rendszer bármilyen formában segélyhívásnak nem minősülő, automatikus jelzést vagy üzenetet küld az egységes európai segélyhívó számra, illetve bármely nemzeti segélyhívó számra szabálysértést követ el.
 
-(3) Az (1) és a (2) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(3)
 
 (4) E § alkalmazásában segélyhívás a segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló kormányrendelet szerinti segélyhívás.
 
@@ -3329,7 +3328,7 @@ szabálysértést követ el.
 
 207. § (1) Aki személyazonosító igazolványra vonatkozó jogszabályban előírt kötelezettségét megszegi, az igazoltatásra feljogosított személy felszólítására személyi adatainak bemondását vagy a személyazonosság igazolására alkalmas hatósági igazolvány átadását megtagadja, vagy az említett adatokra vonatkozólag az intézkedés során valótlant állít, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 (3) Az (1) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő is szabhat ki helyszíni bírságot.
 
@@ -3337,11 +3336,13 @@ szabálysértést követ el.
 
 208. § (1) Aki a külföldiek bejelentésére, jelentkezésére vagy az ország területén tartózkodására vonatkozó szabályokat megszegi, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(2)
 
 #### 162/A. Sajtórendészeti szabálysértés
 
-208/A. § Aki olyan sajtóterméket terjeszt, amelynek lefoglalását vagy elkobzását rendelték el, szabálysértést követ el.
+208/A. § (1) Aki olyan sajtóterméket terjeszt, amelynek lefoglalását vagy elkobzását rendelték el, szabálysértést követ el.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Kormány által kijelölt szerv hatáskörébe tartozik.
 
 ### XXV. Fejezet — A PÉNZÜGYI ÉS KERESKEDELMI SZABÁLYSÉRTÉSEK
 
@@ -3436,7 +3437,7 @@ helyszínén a rendőr vagy a Nemzeti Adó- és Vámhivatal hivatásos állomán
 
 (3) Aki a gyűlés feloszlatását követően a helyszínt nem hagyja el, szabálysértést követ el.
 
-(4) Az (1)–(3) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(4)
 
 #### 170/A. Az Országgyűlési nemzetbiztonsággal foglalkozó állandó bizottsága ténymegállapító vizsgálati tevékenységének akadályozása
 
@@ -3561,9 +3562,9 @@ ha ezzel a légi közlekedés biztonságát nem veszélyezteti, szabálysértés
 
 (4) Az (1)–(3) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
 
-#### 183. Hatásköri rendelkezés
+#### 183.
 
-229. § A 217–228. §-okban meghatározott szabálysértések miatt az eljárás a rendőrség hatáskörébe tartozik.
+#### 229. §
 
 #### 184. Szmogriadó szabályainak mozgó légszennyező forrásokkal való megsértése
 
@@ -3668,7 +3669,9 @@ megsérti, és ezzel százezer forintot meg nem haladó vagyoni hátrányt okoz,
 
 megszegi, szabálysértést követ el.
 
-(2) Az (1) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás az egészségügyi államigazgatási szerv hatáskörébe tartozik.
+
+(3) Az (1) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
 
 #### 194. Kábítószer előállítására alkalmas növényekkel kapcsolatos előírások megszegése
 
@@ -3820,7 +3823,7 @@ részletes szabályait rendeletben szabályozza.
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a pénzügyi és kereskedelmi szabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.
 
-(3a) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy a szabálysértési szabályozásért felelős miniszterrel egyetértésben a járási hivatal 40/A. § szerinti általánostól eltérő illetékességét, valamint a járási hivatal eltérő illetékességgel történő eljárásának végrehajtási feltételeit rendeletben meghatározza.
+(3a)
 
 (4)
 
@@ -3857,6 +3860,8 @@ részletes szabályait rendeletben szabályozza.
 (8) A 141. § (2d)–(2h) bekezdése szerinti feladatok ellátása érdekében az általános szabálysértési hatóság a jogerősen kiszabott, de 2017. január 1-jéig be nem fizetett pénzbírságokról, rendbírságokról, megállapított szabálysértési költségekről és helyszíni bírságokról a 141. § (2f) bekezdésében meghatározott adatok elektronikus úton történő biztosításával, az egységesen használt ügyfeldolgozást támogató rendszer adatainak feltöltésével, jóváhagyásával, az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve által meghatározott módon, az egyes belügyi tárgyú törvények módosításáról szóló 2016. évi CXVI. törvény hatálybalépését követő 30 napon belül tájékoztatja az általános rendőrségi feladatok ellátására létrehozott szerv központi szervét.
 
 (9) Ha az eljáró szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+(10) A fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvénnyel megállapított 38. § (1) bekezdése alapján a fővárosi, megyei kormányhivatal járási (fővárosi kerületi) hivatalának állományából az általános szabálysértési hatóság személyi állományába kerülő állomány alapilletménye a jogviszonyváltáskor nem lehet kevesebb, mint a jogviszonyváltást megelőző napon a járási (fővárosi kerületi) hivatalnál érvényes illetménye. E tekintetben a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 289. § (4) bekezdésétől eltérően a rendvédelmi igazgatási alkalmazott illetménye meghaladhatja a munkakör besorolása szerinti fizetési fokozathoz tartozó felső határt és az ehhez szükséges különbözetet korrekciós díjként kell folyósítani. A korrekciós díj a Hszt. 289/A. § (3) bekezdésének alkalmazása során nem változtatható meg.
 
 #### 207.
 

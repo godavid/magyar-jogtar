@@ -144,7 +144,7 @@ ha az e törvényben és más jogszabályokban meghatározott feltételek szerin
 
 (5) Ahol e törvény jövedelmet említ, a családi pótlékot, az árvaellátást és a tartásdíj címén kapott összeget annak a személynek a jövedelmeként kell figyelembe venni, akire tekintettel azt folyósítják.
 
-(6) A súlyos mozgáskorlátozott személyek közlekedési kedvezményeivel kapcsolatos közigazgatási hatósági eljárásokban a szociális hatóság által hozott elsőfokú döntés ellen nincs helye fellebbezésnek.
+(6)
 
 (7)
 
@@ -241,7 +241,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (2) Ha a pénzbeli és a természetben nyújtott ellátásra vonatkozó igényt végleges döntéssel megállapítják, az – ha e törvény másként nem rendelkezik – a kérelem benyújtásától esedékes.
 
-(3) A szociális rászorultságtól függő pénzbeli ellátásra való jogosultságot megállapító elsőfokú határozatban foglaltakat a fellebbezésre tekintet nélkül teljesíteni kell.
+(3) A szociális rászorultságtól függő pénzbeli ellátásra való jogosultságot megállapító határozatban foglaltakat a jogorvoslatra tekintet nélkül teljesíteni kell.
 
 14. § A végrehajtáshoz való jog a kötelezettséget megállapító döntés véglegessé válásának időpontjától, vagy ha a véglegessé vált döntés teljesítési határidőt vagy határnapot állapított meg, a határidő utolsó napjától, illetve a határnaptól számított egy év elteltével évül el. A végrehajtás elévülését a 17/A. § (1) bekezdése szerinti cselekmény is megszakítja.
 
@@ -276,7 +276,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - b) csökkentheti,
 - c) részletekben fizettetheti meg.
 
-(6) A járási hivatal (4) bekezdés szerinti döntése ellen fellebbezésnek nincs helye.
+(6)
 
 (7) Az időskorúak járadékát, aktív korúak ellátását, gyermekek otthongondozási díját vagy ápolási díjat igénylő személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha
 
@@ -889,9 +889,9 @@ gondoskodik.
 
 (2) Szakértő kirendelése esetén a gyermekek otthongondozási díjáról döntést hozó szerv a szakvélemény elkészítéséért szakértői díjat fizet. A díjazás összegét az éves központi költségvetésről szóló törvény határozza meg.
 
-(3) A másodfokú eljárásban eljáró hatóság – ha a szükséges szakértelemmel nem rendelkezik – a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek megfelelő szakértő útján gondoskodik az (1) bekezdés szerinti szakvélemény felülvizsgálatáról, szükség esetén új szakvélemény beszerzéséről.
+(3)
 
-(4) Az (1) és a (3) bekezdés szerinti eljárásban a hatóság akkor rendelkezik a szükséges szakértelemmel, ha foglalkoztat olyan személyt, aki megfelel a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek.
+(4) Az (1) bekezdés szerinti eljárásban a hatóság akkor rendelkezik a szükséges szakértelemmel, ha foglalkoztat olyan személyt, aki megfelel a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek.
 
 ### Ápolási díj
 
@@ -936,9 +936,9 @@ személy.
 
 (5) Szakértő kirendelése esetén az ápolási díjról döntést hozó szerv a szakvélemény elkészítéséért szakértői díjat fizet. A díjazás összegét az éves központi költségvetésről szóló törvény határozza meg.
 
-(6) A másodfokú eljárásban eljáró hatóság – ha a szükséges szakértelemmel nem rendelkezik – a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek megfelelő szakértő útján gondoskodik a (3) bekezdés c) pontja szerinti szakvélemény felülvizsgálatáról, szükség esetén új szakvélemény beszerzéséről.
+(6)
 
-(7) A (4) és a (6) bekezdés szerinti eljárásban a hatóság akkor rendelkezik a szükséges szakértelemmel, ha foglalkoztat olyan személyt, aki megfelel a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek.
+(7) A (4) bekezdés szerinti eljárásban a hatóság akkor rendelkezik a szükséges szakértelemmel, ha foglalkoztat olyan személyt, aki megfelel a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek.
 
 (8) Ha az ápolási díjra való jogosultságot a gyermekek otthongondozási díjára való jogosultság iránti kérelem elutasításáról szóló döntés véglegessé válásától számított 30 napon belül benyújtott kérelem alapján állapítják meg, az ápolási díjra való jogosultság kezdő napjának a gyermekek otthongondozási díja iránti kérelem benyújtásának napját kell tekinteni.
 
@@ -994,9 +994,9 @@ személy.
 
 (4) Szakértő kirendelése esetén az ápolási díjról döntést hozó szerv a szakvélemény elkészítéséért díjat fizet. A díjazás összegét az éves központi költségvetésről szóló törvény határozza meg.
 
-(5) A másodfokú eljárásban eljáró hatóság – ha a szükséges szakértelemmel nem rendelkezik – a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek megfelelő szakértő útján gondoskodik a (3) bekezdés szerinti szakvélemény felülvizsgálatáról, szükség esetén új szakvélemény beszerzéséről.
+(5)
 
-(6) A (2) és az (5) bekezdés szerinti eljárásban a hatóság akkor rendelkezik a szükséges szakértelemmel, ha foglalkoztat olyan személyt, aki megfelel a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek.
+(6) A (2) bekezdés szerinti eljárásban a hatóság akkor rendelkezik a szükséges szakértelemmel, ha foglalkoztat olyan személyt, aki megfelel a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott feltételeknek.
 
 43/B. § (1) Ha a kiemelt ápolási díj megállapítása iránti eljárás során a kiemelt ápolási díjra való jogosultság azért nem állapítható meg, mert nem került sor a komplex minősítés eredményéről kiállított hatósági bizonyítvány benyújtására, a rendelkezésre álló adatok alapján kell megállapítani az ellátásra való jogosultságot.
 
@@ -1422,7 +1422,7 @@ ellátott személyek száma, teljesített feladatmutató, illetve betöltött f�
 - b) a működést engedélyező szerv eljárása, vagy
 - c) a fenntartó tevékenységével vagy a szociális szolgáltató, szociális intézmény működésével összefüggő büntetőeljárás
 
-van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti eljárás befejezéséig – ideértve a másodfokú eljárást, a közigazgatási pert és a megismételt eljárást is – függesztheti fel.
+van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti eljárás befejezéséig – ideértve a jogorvoslati eljárást és a megismételt eljárást is – függesztheti fel.
 
 58/B. § (1)
 

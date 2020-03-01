@@ -261,11 +261,11 @@ A cselekvőképesség részleges korlátozásán és a cselekvőképtelenségen 
 
 #### 2:25. § [A zárlat elrendelése és a zárgondnokrendelés]
 
-Ha cselekvőképességet érintő gondnokság alá helyezés látszik indokoltnak, és az érintett személy vagyonának védelme sürgős intézkedést igényel, a gyámhatóság a vagyonra vagy annak egy részére zárlatot rendel el, és ezzel egyidejűleg zárgondnokot rendel ki. A határozat ellen nincs helye fellebbezésnek.
+Ha cselekvőképességet érintő gondnokság alá helyezés látszik indokoltnak, és az érintett személy vagyonának védelme sürgős intézkedést igényel, a gyámhatóság a vagyonra vagy annak egy részére zárlatot rendel el, és ezzel egyidejűleg zárgondnokot rendel ki.
 
 #### 2:26. § [Az ideiglenes gondnokrendelés]
 
-(1) Azonnali intézkedést igénylő esetben a gyámhatóság ideiglenes gondnokot rendelhet annak a nagykorúnak, akinek a cselekvőképességét érintő gondnokság alá helyezése látszik indokoltnak, és személyének vagy vagyonának védelme zárlat elrendelésével vagy más módon nem lehetséges. Az ideiglenes gondnokot kirendelő határozat ellen nincs helye fellebbezésnek.
+(1) Azonnali intézkedést igénylő esetben a gyámhatóság ideiglenes gondnokot rendelhet annak a nagykorúnak, akinek a cselekvőképességét érintő gondnokság alá helyezése látszik indokoltnak, és személyének vagy vagyonának védelme zárlat elrendelésével vagy más módon nem lehetséges.
 
 (2) A gyámhatóság az ideiglenes gondnokot kirendelő határozatában megjelöli, hogy az ideiglenes gondnok mely ügyekben vagy ügycsoportokban jogosult jognyilatkozatot tenni.
 
@@ -5574,7 +5574,7 @@ A gyámhatóság, kérelemre vagy a gyermek érdekében hivatalból, a szülői 
 
 (1) Ha a kapcsolattartásra jogosult vagy kötelezett személy a kapcsolattartást kellő indok nélkül akadályozza vagy szabályait megszegi, az ezzel okozott kárt köteles a másik félnek megtéríteni.
 
-(2) A gyámhatóság kérelemre kötelezi a kapcsolattartást kellő indok nélkül akadályozó, a kapcsolattartás szabályait megszegő felet a kapcsolattartás akadályozása, szabályainak megszegése folytán keletkezett igazolt költségek viselésére.
+(2) A bíróság polgári nemperes eljárásban kérelemre kötelezi a kapcsolattartást kellő indok nélkül akadályozó, a kapcsolattartás szabályait megszegő felet a kapcsolattartás akadályozása, szabályainak megszegése folytán keletkezett igazolt költségek viselésére.
 
 #### 4:184. § [A kapcsolattartási jog korlátozása és megvonása]
 
@@ -5582,7 +5582,7 @@ A gyámhatóság vagy - házassági vagy szülői felügyelet rendezése iránti
 
 #### 4:185. § [A kapcsolattartásra vonatkozó határozat végrehajtása]
 
-A kapcsolattartásra vonatkozó határozat végrehajtásáról a gyámhatóság gondoskodik.
+A kapcsolattartásra vonatkozó határozat végrehajtását a bíróság polgári nemperes eljárásban rendeli el.
 
 ### XIX. Fejezet — A szülői felügyeleti jog szünetelése és megszűnése
 
