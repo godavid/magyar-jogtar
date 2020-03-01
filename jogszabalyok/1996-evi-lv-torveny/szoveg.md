@@ -160,7 +160,7 @@ nyújthat be a vadászati hatósághoz a hatályos vadgazdálkodási üzemtervi 
 
 (8) A (7) bekezdésben meghatározott terület legfeljebb egyharmada más, nem a módosító javaslatot benyújtó földtulajdonos(ok) tulajdonában is lehet.
 
-(9) Az e § előírásainak megfelelő módosító javaslat befogadásáról (érvényes módosító javaslat) a vadászati hatóság 10 napon belül végzéssel dönt. A vadászati hatóság módosító javaslat befogadásáról szóló döntésével szemben jogorvoslati kérelemmel a vadászterület határát megállapító döntéssel szemben benyújtott fellebbezéssel lehet élni.
+(9) Az e § előírásainak megfelelő módosító javaslat befogadásáról (érvényes módosító javaslat) a vadászati hatóság 10 napon belül végzéssel dönt.
 
 (10) Ha a vadászati hatóság ajánlásában szereplő vadászterület határára nem érkezik érvényes módosító javaslat, a vadászati hatóság a vadászterület határának megállapítására vonatkozó szabályok szerint hivatalból megállapítja a vadászterület határát.
 

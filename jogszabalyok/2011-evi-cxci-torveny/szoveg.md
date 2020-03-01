@@ -234,7 +234,7 @@ meghatározott összeg 65 százaléka.
 
 (6) A kivételes rokkantsági ellátást a 13. § (2) bekezdésében foglaltakon túl, a megszüntetési ok megállapítását követő hónap első napjától abban az esetben is meg kell szüntetni, ha az ellátásban részesülő komplex minősítése során a rehabilitációs hatóság megállapítja, hogy az (1) bekezdés a) vagy b) pontjában meghatározott feltétel már nem áll fenn.
 
-(7) Az (1) bekezdés szerinti méltányossági jogkörben kiadott döntés ellen fellebbezésnek nincs helye.
+(7)
 
 (8) A kivételes rokkantsági ellátásra – ha e § eltérően nem rendelkezik – a rokkantsági ellátásra vonatkozó rendelkezéseket kell alkalmazni.
 
@@ -286,7 +286,7 @@ tart.
 - a) a közlekedőképesség vizsgálata esetén az eljárására irányadó határidő 50 nap,
 - b) az a) pontban nem említett esetben az eljárására irányadó határidő 21 nap.
 
-16/C. § A megváltozott munkaképességű személyek ellátásaival kapcsolatos ügyekben a keresetlevelet a másodfokon eljárt rehabilitációs hatóságnál kell benyújtani.
+#### 16/C. §
 
 17. § (1) A rokkantsági ellátásban részesülő tíz napon belül értesíti a rehabilitációs hatóságot, ha
 
@@ -394,7 +394,7 @@ az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam a 10 évet
 - a) az Ebtv. 66. §-a szerinti visszafizetésre kötelező határozattal vagy megtérítésre kötelező határozattal, továbbá
 - b) az Ebtv. 67. és 68. §-a szerinti megtérítésre kötelező határozattal érvényesíti.
 
-20/E. § (1) Az Ebtv. 72. §-ában foglaltak alapján, méltányossági jogkörben hozott döntés ellen fellebbezésnek helye nincs.
+20/E. § (1)
 
 (2) A rehabilitációs hatóság a méltányossági jogkörben hozott döntésében annak végrehajtását feltételhez is kötheti. Ha a fizetésre kötelezett a méltányossági jogkörben hozott döntésben meghatározott feltételt nem teljesíti, a tartozás egy összegben esedékessé válik.
 

@@ -800,7 +800,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (4)
 
-(5) Az összevont eljárás elvi építési keretengedélyezési szakaszában az elvi építési keretengedély megtagadásáról szóló határozat ellen önálló fellebbezésnek van helye.
+(5)
 
 (6) Az építtető az összevont eljárásért, valamint az integrált eljárásért az építésügyi hatóságnak, szakhatóság közreműködése esetén a szakhatóságnak külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat köteles fizetni.
 
@@ -1045,7 +1045,7 @@ megkezdett és végzett tevékenység.
 - a) a jogszabály alapján hatósági engedélyhez vagy tudomásulvételhez kötött építési vagy bontási tevékenységet
   - aa) engedély vagy tudomásulvétel nélkül,
   - ab) az engedélytől vagy tudomásulvételtől eltérően,
-  - ac) az engedély véglegessé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –, vagy
+  - ac) az engedély véglegessé válása nélkül – kivéve, ha a döntés azonnal végrehajthatóvá válik –, vagy
   - ad) a végleges engedély végrehajthatóságának felfüggesztése ellenére;
 - b) a 33/A. § szerinti egyszerű bejelentéshez kötött építési tevékenységet
   - ba) bejelentés nélkül,
@@ -1206,7 +1206,7 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 53/E. § (1) A használatbavételi engedélyezési eljárásban részt vevő szakhatóságok állásfoglalásukban nem írhatnak elő újabb feltételt vagy követelményt az építési engedélyezési eljárásban adott szakhatósági véleményükben meghatározottakhoz képest és nem tagadhatják meg szakhatósági állásfoglalásuk megadását azzal az indokkal, hogy időközben a szakterületre vonatkozó szabályok megváltoztak.
 
-(2) Ha a szakhatóság az eljárására irányadó ügyintézési határidőn belül nem ad ki állásfoglalást, és ellenérdekű ügyfél az elsőfokú eljárásban nem vesz részt, a hozzájárulását megadottnak kell tekinteni.
+(2) Ha a szakhatóság az eljárására irányadó ügyintézési határidőn belül nem ad ki állásfoglalást, és ellenérdekű ügyfél az eljárásban nem vesz részt, a hozzájárulását megadottnak kell tekinteni.
 
 53/F. § (1) Amennyiben az eljárásban több mint ötven ügyfél vesz részt, az építésügyi és az építésfelügyeleti hatóság akkor tart közmeghallgatást, ha azt a tényállás tisztázása érdekében indokoltnak tartja. Az építésügyi hatóság a használatbavételi engedélyezési eljárás során nem tart közmeghallgatást.
 
@@ -1214,9 +1214,9 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 (3) Az építésügyi hatóság határozata honvédelmi okból akkor nyilvánítható azonnal végrehajthatónak, ha az honvédelmi és katonai célú területen megvalósuló, és a külön jogszabály szerinti honvédelmi és katonai célú építmény építésügyi hatósági engedélyezésére irányul.
 
-53/G. § (1) Amennyiben a használatbavételi engedélyezési eljárásban benyújtott fellebbezés és az építésügyi engedélyezési eljárásban elbírált fellebbezés azonos indokokat tartalmaz, a használatbavételi engedélyezési eljárásban másodfokon eljáró hatóság a fellebbezési kérelmet érdemben nem vizsgálja.
+53/G. § (1)
 
-(2) Az eljárás megindulásáról szabályszerűen értesített ügyfél ügyféli jogait akkor gyakorolhatja, ha az ügyfél az elsőfokú eljárásban nyilatkozatot tett vagy kérelmet nyújtott be.
+(2) Az eljárás megindulásáról szabályszerűen értesített ügyfél ügyféli jogait akkor gyakorolhatja, ha az ügyfél az eljárásban nyilatkozatot tett vagy kérelmet nyújtott be.
 
 53/H. § Az építésügyi és az építésfelügyeleti hatóság eljárást lezáró döntésének véglegessé válásától számított hat hónapot követően új ügyfél nem vehet részt az eljárásban.
 
@@ -1318,7 +1318,7 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 (4) A Kormányhivatal a szakhatósági hozzájárulás iránti kérelem elbírálása során a kereskedelmi építményekre vonatkozó különös környezetvédelmi, közlekedési és településfejlesztési követelményeket megállapító kormányrendelet figyelembevételével az (1) bekezdésben meghatározott kereskedelmi építménynek a létesítés helye szerinti településre és vonzáskörzetére gyakorolt környezeti, közlekedési és településrendezési hatásaival összefüggő szakkérdésben foglal állást abban a tekintetben, hogy a kereskedelmi létesítmény nem okoz-e olyan hátrányos következményeket, amelyek aránytalanul meghaladják a kereskedelmi építmény létesítésétől várható előnyöket.
 
-(5) Az olyan építésügyi hatósági engedélyezési eljárásokban, amelyekben a Kormányhivatal e fejezet szerint szakhatóságként működött közre, másodfokú építésügyi hatósági hatáskörben nem járhat el, ilyen ügyekben e hatáskört a Heves Megyei Kormányhivatal látja el.
+(5)
 
 57/D. § (1) A szakhatósági eljárás során a Kormányhivatal – az építésügyi hatósági engedély iránti kérelem és mellékletei, illetve az előzetes szakhatósági hozzájárulás iránti kérelem megküldése mellett – beszerzi az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, a kereskedelemért, a településfejlesztésért és településrendezésért, a környezetvédelemért, valamint a közlekedésért felelős miniszterek képviselőinek részvételével működő bizottság (a továbbiakban: Bizottság) véleményét. A Kormányhivatal a szakhatósági állásfoglalás kiadása során mérlegeli a Bizottságtól beszerzett véleményt.
 
@@ -1331,13 +1331,13 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 - a) szerezzen be a kérelmezőtől kiegészítő adatokat és információkat, továbbá
 - b) szerezze be az érintett települési önkormányzatok, fogyasztói, környezetvédelmi érdek-képviseleti, valamint más érintett civil szervezetek véleményét.
 
-57/E. § Ha az 57/C. § (1) bekezdése szerinti eljárásban hozott döntéssel szemben benyújtott fellebbezés érinti a Kormányhivatal szakhatósági állásfoglalását, a másodfokú eljárásban szakhatóságként országos illetékességgel a Heves Megyei Kormányhivatal jár el.
+57/E. §
 
 57/F. § (1) A 400 m2 vagy az azt meghaladó bruttó alapterületű építmény rendeltetésének kereskedelmi rendeltetésre változtatására, vagy kereskedelmi rendeltetésű építmény jogszabályban meghatározott átalakítására hatósági engedély (a továbbiakban: rendeltetésmódosítási engedély) alapján van lehetőség.
 
 (2) A rendeltetésmódosítási engedély iránti eljárásban a Kormányhivatal szakhatósági állásfoglalását be kell szerezni. A szakhatósági állásfoglalás kialakítása során az 57/C. és 57/D. § rendelkezéseit kell alkalmazni.
 
-(3) Ha az (1) bekezdés szerinti eljárásban hozott döntéssel szemben benyújtott fellebbezés érinti a Kormányhivatal szakhatósági állásfoglalását, a másodfokú eljárásban az 57/E. § rendelkezését kell alkalmazni.
+(3)
 
 (4) Ha rendeltetésmódosítási engedély nélkül kerül sor az építmény kereskedelmi rendeltetésű használatára vagy átalakítására, a rendeltetésmódosítási engedély iránti eljárásban eljáró hatóság megtiltja a kereskedelmi rendeltetésű használatot, és legfeljebb az eljárási bírság legmagasabb összegének megfelelő bírsággal sújtja azt, akinek a rendeltetésmódosítási engedély iránti kérelmet be kellett volna nyújtania.
 
@@ -1377,7 +1377,9 @@ kérelmező személy,
   - da) a jogosultságának igazolását kérő személy,
   - db) az építőipari kivitelezői névjegyzékbe (elkülönített névjegyzékbe) vételét bejelentő egyéni vállalkozó vagy gazdasági társaság,
   - dc)
-  - dd) az energetikai tanúsítói tevékenység folytatására bejelentést tevő személy. Az a) és b) pontokban meghatározott eljárások, illetve azokkal összefüggésben keletkezett eljárások fellebbezésének igazgatási szolgáltatási díja harmincezer forint.
+  - dd) az energetikai tanúsítói tevékenység folytatására bejelentést tevő személy.
+
+Az a) és b) pontokban meghatározott eljárások igazgatási szolgáltatási díja harmincezer forint.
 
 (4) Az (1) és (2) bekezdés szerinti nyilvántartást elektronikus úton kell vezetni, az adatokat elektronikusan kell tárolni és feldolgozni. A nyilvántartásnak alkalmasnak kell lennie a bekövetkezett változások folyamatos követésére és a nyilvántartásból történő elektronikus adatszolgáltatásra.
 
@@ -1438,7 +1440,7 @@ tartalmazza.
 
 - a) az adatkezelő, az adatfeldolgozó, és az érintettek a saját személyes adataikat korlátozás nélkül,
 - b) a jogszabályban meghatározott adatfelelősök a feladat ellátásához szükséges tartalommal korlátozottan,
-- c) a települési önkormányzat, a fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a szakmai kamara és a (4) bekezdés szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
+- c) a települési önkormányzat, a fővárosi és megyei kormányhivatal, a szakmai kamara és a (4) bekezdés szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
 - d) a szakmagyakorlók és az a)–c) pontba nem tartozó egyéb szervek és személyek – ha törvény eltérően nem rendelkezik – az érintett írásbeli hozzájárulásával ismerhetik meg.
 
 (3) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint
@@ -1526,7 +1528,7 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 
 (4)
 
-(5) 2013. január 1-től az elsőfokú építésügyi hatósági feladat- és hatáskör önkormányzati társulás útján nem látható el.
+(5)
 
 (6) E törvénynek a településfejlesztéssel, a településrendezéssel és az építésüggyel összefüggő egyes törvények módosításáról szóló 2012. évi CLVII. törvénnyel megállapított 53/A. §-át a nukleáris építmények tekintetében a 2015. január 1-jét követően indult eljárásokban kell alkalmazni.
 
@@ -1562,7 +1564,7 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 
 60/C. § A kereskedelemről szóló 2005. évi CLXIV. törvény szerinti üzlet és bevásárlóközpont építésére vonatkozó, 2015. január 1-jét követően benyújtott építésügyi hatósági engedély iránti kérelmekre e törvénynek az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek az egyes kereskedelmi építmények engedélyezése fenntarthatósági szempontjainak érvényesítése érdekében történő módosításáról szóló 2014. évi CXIII. törvénnyel megállapított rendelkezéseit kell alkalmazni azzal, hogy a 2015. január 1. és 2015. január 31. között benyújtott építésügyi hatósági engedély iránti kérelmek esetében az ügyintézési határidő 2015. február 1-jén kezdődik, a kérelmek elbírálását ezen a napon kell elkezdeni.
 
-60/D. § Az egyszerű bejelentés körének bővítésére és az építésügy területén érvényesítendő további bürokráciacsökkentésre vonatkozóan az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításáról szóló 2016. évi CLXXIII. törvénnyel megállapított 57/E. §-t a folyamatban lévő másodfokú eljárásokban is alkalmazni kell.
+60/D. §
 
 60/E. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek az egyszerű bejelentés 300 négyzetméternél nagyobb lakóingatlan nem kereskedelmi célú építésére történő kiterjesztésével összefüggő módosításáról szóló 2017. évi XXIV. törvény hatálybalépése előtt indult építésügyi engedélyezési eljárások esetében az építési engedélyezési eljárást a kérelem benyújtása napján hatályos rendelkezések szerint kell lefolytatni.
 

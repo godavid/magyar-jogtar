@@ -1341,13 +1341,7 @@ aki a tevékenységére, továbbá a hites bányamérő tekintetében a bányat�
 
 (11) A bányafelügyelet a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
 
-43/A. § (1) A bányafelügyeleti és az állami földtani feladatokat ellátó szerv a Magyar Bányászati és Földtani Szolgálat (a továbbiakban: MBFSZ), valamint a Baranya Megyei, Borsod-Abaúj-Zemplén Megyei, Jász-Nagykun-Szolnok Megyei, Pest Megyei és Veszprém Megyei Kormányhivatal (a továbbiakban együtt: kormányhivatal). A kormányhivatalok bányafelügyeleti és állami földtani hatósági feladatait érintően felügyeleti szerv az MBFSZ.
-
-(2) A bányafelügyelet hatáskörébe tartozó közigazgatási hatósági ügyekben hatóságként – a (3) bekezdésben foglalt kivétellel – elsőfokon az (1) bekezdés szerinti kormányhivatal, másodfokon – országos illetékességgel – az MBFSZ jár el.
-
-(3) Az MBFSZ elsőfokú bányafelügyeleti hatáskörébe tartozó hatósági ügyeket e törvény végrehajtására kiadott kormányrendelet határozza meg.
-
-(4) A kormányhivatal bányászati szakigazgatási hatósági elsőfokú műszaki-biztonsági, építésügyi hatósági, építésfelügyeleti, munkaügyi, munkavédelmi, bányászati tevékenység engedélyezésével és felügyeletével kapcsolatos, piacfelügyeleti és földtani hatáskörében, valamint a 44. § (1) bekezdés b)–o), q), s) és t) pontjában meghatározott ügyekben hozott döntéseivel szemben fellebbezésnek van helye.
+#### 43/A. §
 
 43/B. § (1) A szilárd ásványi nyersanyag esetében a bányatelek megállapítására indított eljárásban, a kutatási, kitermelési, szüneteltetési vagy bányabezárási, valamint mezőfelhagyási műszaki üzemi tervek jóváhagyására indult eljárásban, továbbá a bányafelügyelet építésügyi hatósági hatáskörébe tartozó engedélyezési eljárásokban a műszaki üzemi tervben tervezett bányászati tevékenységgel ténylegesen igénybe vett területekkel, valamint a létesítmény és biztonsági övezete területével érintett ingatlan tulajdonosa, továbbá az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
@@ -1407,11 +1401,11 @@ aki a tevékenységére, továbbá a hites bányamérő tekintetében a bányat�
 
 (6) A bírság, bányajáradék és a jogosulatlanul kitermelt ásványinyersanyag-érték esetében a bányafelügyelet kérelemre részletekben történő teljesítést vagy halasztott fizetést is engedélyezhet.
 
-(7) A kötelezett a teljesítési határidő lejárta előtt előterjesztett kérelmében annak igazolásával kérheti az elsőfokú hatóságtól a pénzfizetési kötelezettség teljesítésére halasztás vagy a részletekben történő teljesítés engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene.
+(7) A kötelezett a teljesítési határidő lejárta előtt előterjesztett kérelmében annak igazolásával kérheti a hatóságtól a pénzfizetési kötelezettség teljesítésére halasztás vagy a részletekben történő teljesítés engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene.
 
 (8) Késedelmes fizetés esetén a bányafelügyelet a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamattal megegyező mértékű késedelmi kamatot számít fel.
 
-(9) A teljesítés halasztását vagy a részletekben történő teljesítés engedélyezését, vagy elutasítását elrendelő végzés ellen önálló fellebbezésnek van helye.
+(9)
 
 #### 43/D. §
 
@@ -1664,12 +1658,9 @@ bányahatósági felügyelete
 
 49/D. § A szénjárandóságra jogosult nyugdíjas bányász kérheti szénjárandóságának pénzbeli megváltását.
 
-49/E. § (1) A kormányrendeletben meghatározott bányászati keresetkiegészítés megállapítása és felülvizsgálata iránti elsőfokú eljárásban az ügyintézési határidő negyven nap, ha az eljárásban a kérelmező egészségkárosodásának mértékét és a föld alatti bányamunkára való alkalmatlanságát szakkérdésként vizsgálni kell.
+49/E. § (1) A kormányrendeletben meghatározott bányászati keresetkiegészítés megállapítása és felülvizsgálata iránti eljárásban az ügyintézési határidő negyven nap, ha az eljárásban a kérelmező egészségkárosodásának mértékét és a föld alatti bányamunkára való alkalmatlanságát szakkérdésként vizsgálni kell.
 
-(2) A bányászok – kormányrendeletben meghatározott – egészségkárosodási járadékának megállapítása és felülvizsgálata iránti elsőfokú eljárásban az ügyintézési határidő harmincöt munkanap, ha az eljárásban a kérelmező egészségkárosodásának mértékét szakkérdésként vizsgálni kell. Az ügyintézési határidő tizenhét munkanap
-
-- a) az elsőfokú eljárásban, ha a kérelmező egészségkárosodásának mértékét nem kell megvizsgálni, és
-- b) a másodfokú eljárásban.
+(2) A bányászok – kormányrendeletben meghatározott – egészségkárosodási járadékának megállapítása és felülvizsgálata iránti eljárásban az ügyintézési határidő harmincöt munkanap, ha az eljárásban a kérelmező egészségkárosodásának mértékét szakkérdésként vizsgálni kell. Az ügyintézési határidő tizenhét munkanap az eljárásban, ha a kérelmező egészségkárosodásának mértékét nem kell megvizsgálni.
 
 ## VII. RÉSZ — HATÁLYBALÉPTETŐ ÉS ÁTMENETI RENDELKEZÉSEK
 

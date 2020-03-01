@@ -16,11 +16,11 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 (2) A tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolatért 3600 forint, a nem hiteles másolatért 1000 forint elektronikus adatszolgáltatási díjat kell fizetni.
 
-(3) A tulajdonilap-másolat kiállítását elutasító határozat elleni fellebbezés díja az (1) bekezdésben megállapított díj kétszerese.
+(3)
 
 29. § (1) A díjat, valamint az elektronikus adatszolgáltatási díjat annak kell megfizetnie, aki a tulajdonilap-másolat szolgáltatását kéri, illetve amely szerv az erre irányuló megkeresést előterjeszti.
 
-(2) A 28. § (1) és (3) bekezdése szerinti díjfizetési kötelezettség az ingatlanügyi hatóság pénztárába történő készpénzbefizetéssel, amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, a kérelem előterjesztésével egyidejűleg bankkártyával vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással vagy átutalási megbízással teljesíthető.
+(2) A 28. § (1) bekezdése szerinti díjfizetési kötelezettség az ingatlanügyi hatóság pénztárába történő készpénzbefizetéssel, amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, a kérelem előterjesztésével egyidejűleg bankkártyával vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással vagy átutalási megbízással teljesíthető.
 
 (3) A díj készpénz-átutalási megbízással vagy átutalási megbízással történő megfizetése esetén a tulajdonilap-másolat kiállítása iránti kérelem, megkeresés előterjesztésekor mellékelni kell a díj megfizetését igazoló bizonylatot vagy annak másolatát.
 
@@ -73,9 +73,9 @@ kéri.
 
 (5) Az elektronikus dokumentumként díjmentesen szolgáltatott nem hiteles és hiteles tulajdonilap-másolat, valamint az erről készített papír alapú másolat kizárólag a lekérdezés alapjául szolgáló ügyben használható fel, harmadik fél részére nem adható tovább.
 
-(6) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a díjmentesség igénybevételére jogszerűtlenül került sor, továbbá az (5) bekezdésben foglaltak megsértése esetén az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi. A döntés ellen közigazgatási eljárás keretében nincs helye fellebbezésnek.
+(6) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a díjmentesség igénybevételére jogszerűtlenül került sor, továbbá az (5) bekezdésben foglaltak megsértése esetén az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi.
 
-(7) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a részadat-szolgáltatás során átadott adatok felhasználására jogszerűtlenül, nem a törvényben vagy kormányrendeletben meghatározott céllal került sor, vagy azok harmadik személy részére továbbításra kerültek, az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi. A döntés ellen közigazgatási eljárás keretében nincs helye fellebbezésnek.
+(7) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a részadat-szolgáltatás során átadott adatok felhasználására jogszerűtlenül, nem a törvényben vagy kormányrendeletben meghatározott céllal került sor, vagy azok harmadik személy részére továbbításra kerültek, az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi.
 
 31/A. § Papír alapú tulajdonilap-másolat szolgáltatás esetén a közigazgatási hatósági eljárásban a személyes költségmentesség megállapításáról szóló kormányrendelet szerinti személyes költségmentesség kizárólag abban az esetben engedélyezhető, ha a kérelmező az ingatlan-nyilvántartásban bejegyzett jogosultként, kötelezettként szerepel vagy írásban igazolja, hogy a kiállított másolat joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
 
@@ -87,7 +87,7 @@ kéri.
 
 ## HARMADIK RÉSZ — Az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díja
 
-32/A. § (1) Az elsőfokú eljárásért – ha e törvény másként nem rendelkezik – változással érintett ingatlanonként 6600 forint összegű díjat kell fizetni.
+32/A. § (1) Az ingatlan-nyilvántartási eljárásért – ha e törvény másként nem rendelkezik – változással érintett ingatlanonként 6600 forint összegű díjat kell fizetni.
 
 (2) A jelzálogjog bejegyzése, valamint – ide nem értve a jelzálogjog törlését – a bejegyzés módosítása iránti eljárás díja változással érintett ingatlanonként 12 600 forint.
 
@@ -95,7 +95,7 @@ kéri.
 
 (4) Törvényben meghatározott soron kívüli ügyintézés kivételével, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 46. §-ában meghatározott soron kívüli eljárás díja ingatlanonként 10 000 forint.
 
-(5) Az ingatlan-nyilvántartási eljárásban hozott döntés ellen benyújtott fellebbezés díja 10 000 forint.
+(5)
 
 (6) Az ingatlan-nyilvántartási eljárásban készített hiteles vagy hitelesítés nélküli másolatért, illetőleg kivonatért oldalanként 100 forint díjat kell fizetni.
 
@@ -204,11 +204,11 @@ irányuló eljárás.
 
 (5) A díjfizetésre kötelezett személyének megállapításához szükséges adatok hiányában az ingatlanügyi hatóság a megkereső szervet hívja fel a (9) bekezdés szerinti hiánypótlásra.
 
-(6) A díjnak a másodfokú ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással történő megfizetése esetén a kérelem, megkeresés előterjesztésekor mellékelni kell a díj megfizetését igazoló bizonylatot vagy annak másolatát.
+(6)
 
 (7) Átutalással történő fizetési mód esetén az átutalási megbízáson fel kell tüntetni a külön jogszabályban meghatározott kincstári tranzakciós kódot, valamint az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát. Készpénz-átutalási megbízással történő fizetés esetén a készpénz-átutalási megbízás „Közlemény” rovatában fel kell tüntetni az ingatlan fekvése szerinti település nevét és az ingatlan helyrajzi számát.
 
-(8) Ha e törvény másként nem rendelkezik a díjfizetési kötelezettség (ideértve a fellebbezés díját is) az ingatlanügyi hatóságnál – a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel, ha az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával – vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető.
+(8) Ha e törvény másként nem rendelkezik a díjfizetési kötelezettség az ingatlanügyi hatóságnál – a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel, ha az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, az eljárás megindításával egyidejűleg bankkártyával – vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással teljesíthető.
 
 (8a) Új épület építése vagy meglévő épület – ingatlan-nyilvántartásban változást eredményező – átalakítása esetén, a változás ingatlan-nyilvántartási átvezetésére (az épület feltüntetésére) irányuló eljárás igazgatási szolgáltatási díját az ehhez szükséges változási vázrajz záradékolása iránt történő benyújtásával egyidejűleg kell megfizetni.
 

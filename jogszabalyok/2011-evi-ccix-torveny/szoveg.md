@@ -190,7 +190,7 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 - b) a víziközmű-szolgáltató olyan jogsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása; vagy
 - c) a 73. § b) pontjában meghatározott esetkörön kívül, ha a lakossági felhasználót visszatérítés illeti meg, az annak teljesítésére való kötelezés.
 
-(5) A fogyasztóvédelmi hatóság (1) és (2) bekezdésben meghatározott feladatkörén kívül, a létfenntartási, a közegészségügyi vízigények teljesítésével összefüggésben az illetékes népegészségügyi szerv, továbbá a víziközmű-rendszerbe való bekötésre kötelezéssel összefüggésben a fővárosi és megyei kormányhivatal járási (főváros kerületi) hivatala (a továbbiakban: járási hivatal) jár el.
+(5) A fogyasztóvédelmi hatóság (1) és (2) bekezdésben meghatározott feladatkörén kívül, a létfenntartási, a közegészségügyi vízigények teljesítésével összefüggésben az illetékes népegészségügyi szerv, továbbá a víziközmű-rendszerbe való bekötésre kötelezéssel összefüggésben a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) jár el.
 
 (6) Az (1)–(4) bekezdés szerinti hatósági eljárást megelőzően a felhasználó köteles panaszával igazolható módon a víziközmű-szolgáltatóhoz fordulni.
 
@@ -863,7 +863,7 @@ alapul.
 
 (3) Ha az ingatlan tulajdonosa a bekötés valamennyi műszaki előfeltételét teljesítette, a víziközmű-szolgáltató az ingatlan víziközmű-rendszerhez történő csatlakoztatását és a közszolgáltatási szerződés létrejöttét nem tagadhatja meg.
 
-(4) Ha az ingatlan tulajdonosa az (1) bekezdésben foglalt kötelezettségét a (2) bekezdésben meghatározott határidőben nem teljesíti, a víziközmű-szolgáltató bejelentésére a tulajdonost a járási hivatal kötelezi az ingatlan beköttetésére. A járási hivatal eljárása igazgatási szolgáltatási díjfizetési kötelezettséget nem von maga után.
+(4) Ha az ingatlan tulajdonosa az (1) bekezdésben foglalt kötelezettségét a (2) bekezdésben meghatározott határidőben nem teljesíti, a víziközmű-szolgáltató bejelentésére a tulajdonost a kormányhivatal kötelezi az ingatlan beköttetésére. A kormányhivatal eljárása igazgatási szolgáltatási díjfizetési kötelezettséget nem von maga után.
 
 (5) A víziközmű-szolgáltató a (4) bekezdés szerinti bejelentésében
 
@@ -877,13 +877,13 @@ alapul.
 - a) az ivóvíz-törzshálózatra történő bekötési kötelezettség alól, ha az ingatlan vízellátása a vízügyi hatóság által engedélyezett és a vízgazdálkodásról szóló 1995. évi LVII. törvény 1. számú melléklet 26. pont b) alpontjában meghatározott saját célú vízilétesítményből biztosított,
 - b) a szennyvízelvető rendszerre történő bekötési kötelezettség alól, ha az ingatlanon keletkező szennyvíz elvezetése, tisztítása és ártalommentes elhelyezése vagy hasznosítása a vízügyi hatóság által engedélyezett és a vízgazdálkodásról szóló 1995. évi LVII. törvény 1. számú melléklet 26. pont b) alpontjában meghatározott saját célú vízilétesítménnyel biztosított vagy az ingatlanon keletkező szennyvíz tisztítása az építésügyi hatóság által engedélyezett egyedi szennyvízkezelő berendezéssel megoldott vagy az ezen engedélyek megszerzésére vonatkozó kérelmet a (2) bekezdés szerinti felszólítást megelőzően az ingatlan tulajdonosa vagy jogcímes használója előterjesztette.
 
-(7) A járási hivatal a kötelezési eljárás lefolytatásának mellőzése mellett dönt, ha az eset összes körülményére tekintettel a tulajdonostól nem várható el, hogy a kötelezésnek eleget tegyen. E körben a járási hivatal mérlegeli, hogy
+(7) A kormányhivatal a kötelezési eljárás lefolytatásának mellőzése mellett dönt, ha az eset összes körülményére tekintettel a tulajdonostól nem várható el, hogy a kötelezésnek eleget tegyen. E körben a kormányhivatal mérlegeli, hogy
 
 - a) az ingatlan használata víziközmű-szolgáltatás hiányában biztosított-e,
 - b) víziközmű-szolgáltatás hiányában fennáll-e a felszíni és felszín alatti vizek állapotának, valamint a földtani közegnek a közvetlen veszélyeztetése, vagy
 - c) a bejelentés benyújtása időpontjában van-e az ellátásért felelősnek vagy a víziközmű-szolgáltatónak jogszabályban vagy szerződésben előírt teljesítetlen kötelezettsége víziközmű-rendszerhez történő csatlakozási arány vonatkozásában.
 
-(8) A feltárt tényállás összes körülményére tekintettel a járási hivatal kötelezés kibocsátása vagy a kötelezési eljárás lefolytatásának mellőzése helyett az ingatlan tulajdonosával hatósági szerződésben is megállapodhat a bekötés megvalósításáról.
+(8) A feltárt tényállás összes körülményére tekintettel a kormányhivatal kötelezés kibocsátása vagy a kötelezési eljárás lefolytatásának mellőzése helyett az ingatlan tulajdonosával hatósági szerződésben is megállapodhat a bekötés megvalósításáról.
 
 (9) Az állam mint tulajdonos az (1) és (2) bekezdés szerinti kötelezettségek, továbbá a felhasználó díjtartozása vonatkozásában felmerülő mögöttes felelősség alól mentesül a Nemzeti Eszközkezelő Zrt. által a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján megvásárolt lakóingatlanok esetében.
 
@@ -891,15 +891,15 @@ alapul.
 
 55/A. § (1) Ha a víziközmű-szolgáltatást olyan ingatlanon igénylik, ahol az ingatlan és a közműves ivóvízellátás vagy a közműves szennyvízelvezetés és -tisztítás biztosítását szolgáló víziközmű-rendszer között egy másik ingatlan helyezkedik el, a bekötés a szomszédos ingatlan tulajdonosának hozzájárulásával – az ingatlantulajdonosok megállapodása (szerződéses szolgalom) alapján – a szomszédos ingatlan vagy ingatlanok igénybevételével is elvégezhető. A szerződésnek tartalmaznia kell a szolgáló telken lévő, az uralkodó telek ellátását biztosító házi ivóvíz-, illetve szennyvízvezeték bekötővezeték elhelyezésével, az ingatlan használatával kapcsolatos kölcsönös jogokat és kötelezettségeket. A szolgáló telek birtokosa az uralkodó telek birtokosát a jogszabályokból és a közszolgáltatási szerződésből eredő kötelezettségei teljesítésében nem akadályozhatja.
 
-(2) Az (1) bekezdés szerinti szerződést, valamint a szolgalomalapítás iránti ingatlan-nyilvántartási kérelem fővárosi és megyei kormányhivatal ingatlanügyi hatáskörében eljáró járási (fővárosi kerületi) hivatala által érkeztetett másolatát a víziközmű-szolgáltató részére az igénybejelentés kiegészítéseként az igénybejelentő megküldi.
+(2) Az (1) bekezdés szerinti szerződést, valamint a szolgalomalapítás iránti ingatlan-nyilvántartási kérelem ingatlanügyi hatóság által érkeztetett másolatát a víziközmű-szolgáltató részére az igénybejelentés kiegészítéseként az igénybejelentő megküldi.
 
-(3) Az (1) bekezdésben meghatározott megállapodás hiányában – ha a szomszédos ingatlant érintő ivóvíz-, illetve szennyvízvezeték megvalósítása és üzemeltetése az ingatlan rendeltetésszerű használatát nem lehetetleníti el – a járási hivatal a szomszédos ingatlanra az uralkodó telek tulajdonosa kérelmére szolgalmat alapíthat.
+(3) Az (1) bekezdésben meghatározott megállapodás hiányában – ha a szomszédos ingatlant érintő ivóvíz-, illetve szennyvízvezeték megvalósítása és üzemeltetése az ingatlan rendeltetésszerű használatát nem lehetetleníti el – a kormányhivatal a szomszédos ingatlanra az uralkodó telek tulajdonosa kérelmére szolgalmat alapíthat.
 
 (4) Az (1) bekezdés vagy (3) bekezdés szerinti szolgalmat meg kell szüntetni és önálló bekötést kell kialakítani, ha az uralkodó telek mentén a víziközmű-rendszer megépült.
 
 55/B. § (1)
 
-(2) Az eljárásnak az Ákr. szerinti eljárási költségeit – ideértve az eljárásban kirendelt ügygondnok vagy eseti gondnok díját és költségeit, továbbá a járási hivatal által hivatalból indított eljárások költségeit is – a vezetékjog alapítást kérő viseli.
+(2) Az eljárásnak az Ákr. szerinti eljárási költségeit – ideértve az eljárásban kirendelt ügygondnok vagy eseti gondnok díját és költségeit, továbbá a kormányhivatal által hivatalból indított eljárások költségeit is – a vezetékjog alapítást kérő viseli.
 
 55/C. § (1) A szolgalom alapítására irányuló kérelemben meg kell jelölni a vezetékjog célját, valamint szolgalom gyakorlása megkezdésének időpontját.
 
@@ -910,13 +910,13 @@ alapul.
 - c) ha a vezetékjogot az ingatlan természetben vagy területi mértékben meghatározott részére kérik bejegyeztetni, akkor a szolgáló telek korlátozással érintett részét bemutató ingatlanügyi hatóság hatályos záradékával ellátott vázrajzot, és
 - d) a vezetékjog alapítását kérő nyilatkozatát arról, hogy a kártalanításhoz szükséges pénzügyi fedezet rendelkezésére áll.
 
-55/D. § A járási hivatal a szolgáló telek tulajdonosa vonatkozásában hivatalból szerzi be az ingatlan-nyilvántartást vezető szervtől:
+55/D. § A kormányhivatal a szolgáló telek tulajdonosa vonatkozásában hivatalból szerzi be az ingatlan-nyilvántartást vezető szervtől:
 
 - a) a tulajdonos természetes személy természetes személyazonosító adatait, lakcímét,
 - b) a tulajdonos jogi személy vagy jogi személyiséggel nem rendelkező szervezet megnevezését, székhelyét (telephelyét),
 - c) állami tulajdonban álló ingatlan esetén az állam tulajdonosi jogait gyakorló szervezet megnevezését vagy személy nevét.
 
-55/E. § (1) A járási hivatal a kérelemnek helyt adó határozatában rendelkezik:
+55/E. § (1) A kormányhivatal a kérelemnek helyt adó határozatában rendelkezik:
 
 - a) az ivóvíz-, illetve szennyvízvezeték elhelyezésével és üzemeltetésével összefüggő használati korlátozások tartalmáról, figyelembe véve a jogosult és a vezetékjoggal érintett ingatlan tulajdonosának, vagyonkezelőjének, használójának érdekeit, valamint az ingatlanhasználat módját,
 - b) a korlátozással érintett ingatlanrész meghatározásáról, az ingatlanügyi hatóság által érvényes záradékkal ellátott változási vázrajzra történő utalással,
@@ -925,7 +925,7 @@ alapul.
 
 (2) Ha a szolgáló telek mezőgazdasági művelés alatt áll, a birtokba bocsátásra közvetlenül a termés betakarítása előtti időpontot nem lehet megjelölni.
 
-55/F. § (1) A véglegessé vált határozatot a járási hivatal az ingatlanügyi hatóság részére megküldi.
+55/F. § (1) A véglegessé vált határozatot a kormányhivatal az ingatlanügyi hatóság részére megküldi.
 
 (2) A szolgalmi jogot az ingatlanügyi hatóság a véglegessé vált határozat alapján a záradékolt vázrajz szerint vezeti át az ingatlan-nyilvántartáson.
 
@@ -1023,9 +1023,9 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (3) A víziközmű szolgáltatók kötelesek adatot szolgáltatni az ivóvízfogyasztást igénybe vevő fogyasztókról a nem közművel összegyűjtött háztartási szennyvízszállítási közszolgáltatást végző közszolgáltatók részére, amennyiben a közszolgáltatás díját kéttényezős módon határozzák meg.
 
-60. § (1) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult a víziközmű-szolgáltatótól, az ellátásért felelőstől, a járási hivataltól, a víziközmű tulajdonosától és a kiszervezett tevékenységet végzőtől eseti és rendszeres információt kérni, továbbá az e törvény hatálya alá tartozó tevékenységgel kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is.
+60. § (1) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult a víziközmű-szolgáltatótól, az ellátásért felelőstől, a kormányhivataltól, a víziközmű tulajdonosától és a kiszervezett tevékenységet végzőtől eseti és rendszeres információt kérni, továbbá az e törvény hatálya alá tartozó tevékenységgel kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is.
 
-(2) A víziközmű-szolgáltató, az ellátásért felelős, a járási hivatal, a víziközmű tulajdonosa és a kiszervezett tevékenységet végző a Hivatal részére megadja az e törvényben, valamint a felhatalmazása alapján kiadott külön jogszabályokban meghatározott és feladatai ellátásához szükséges információkat. Az adatszolgáltatás tartalmát és formáját a Hivatal határozza meg.
+(2) A víziközmű-szolgáltató, az ellátásért felelős, a kormányhivatal, a víziközmű tulajdonosa és a kiszervezett tevékenységet végző a Hivatal részére megadja az e törvényben, valamint a felhatalmazása alapján kiadott külön jogszabályokban meghatározott és feladatai ellátásához szükséges információkat. Az adatszolgáltatás tartalmát és formáját a Hivatal határozza meg.
 
 (3) A Hivatal adatkezelésére a villamos energiáról szóló törvényben a Hivatal adatkezelésére vonatkozó szabályokat kell megfelelően alkalmazni.
 

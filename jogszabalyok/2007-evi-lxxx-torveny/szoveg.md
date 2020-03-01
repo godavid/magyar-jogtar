@@ -1553,7 +1553,7 @@ meghaladja,
 
 (6) A kártalanítást pénzben kell megállapítani és megtéríteni.
 
-(7) A kártalanítás ügyében hozott határozat ellen fellebbezésnek helye nincs, a döntés közigazgatási perben megtámadható.
+(7) A kártalanítás ügyében hozott döntés közigazgatási perben megtámadható.
 
 (8) Ha a tömeges bevándorlás okozta válsághelyzet meghosszabbítása miatt, vagy más okból az igénybevevő szerv az igénybevett ingatlant a törvényben meghatározott határidőig nem szolgáltatta vissza a vagyonkezelőnek, továbbá amennyiben az eredeti állapot helyreállítása nem lehetséges vagy aránytalan költséggel jár, a tulajdonos ezen az alapon kérelmezheti a kormányhivatalnál, hogy az az igénybevevő szervet kötelezze az ingatlan állam nevében és az állam javára való kisajátításra vonatkozó kérelem benyújtására.
 

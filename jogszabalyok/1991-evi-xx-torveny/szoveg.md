@@ -107,9 +107,9 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 42. §
 
-#### III. ÉPÍTÉSÜGYI IGAZGATÁS
+#### III.
 
-43. § A külön jogszabályban meghatározott jegyző ellátja az elsőfokú építésügyi hatósági feladatokat. Építésügyi feladat- és hatáskörét és a feladatellátás feltételeit a Kormány rendeletben állapítja meg.
+43. §
 
 #### IV.
 

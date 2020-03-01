@@ -1492,7 +1492,7 @@ A KÖRNYEZETVÉDELEMBEN
 
 (4) E törvénynek az egyes környezetvédelmi tárgyú törvények környezeti felelősséggel összefüggő módosításáról szóló 2007. évi XXIX. törvénnyel megállapított rendelkezéseit a 2007. április 30-át követően megvalósított környezetkárosításokra és környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
 
-(5) A törvény rendelkezéseit — a (6) bekezdésben foglaltak kivételével — az elsőfokú határozattal még el nem bírált ügyekben is alkalmazni kell.
+(5) A törvény rendelkezéseit — a (6) bekezdésben foglaltak kivételével — a határozattal még el nem bírált ügyekben is alkalmazni kell.
 
 (6) A környezeti elemekre és az azokat veszélyeztető tényezőkre vonatkozó új jogszabályok hatálybalépéséig a szabályozás tárgyát képező kormány-, illetőleg miniszteri rendeletek előírásait kell alkalmazni.
 

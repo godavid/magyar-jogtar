@@ -420,7 +420,7 @@ bejelentése esetén.
 
 (3) A növénytermesztési hatóság hatósági igazolványt állít ki az ellenőrzést végző munkatársa részére. A növénytermesztési hatóság ellenőrzési tevékenysége kiterjed minden olyan helyre, ahol a szaporítóanyag előállítását, kezelését, tárolását végzik, továbbá, ahol szaporítóanyagot forgalomba hoznak vagy szaporító alapanyagot felhasználnak. A termelő, illetve a forgalmazó köteles az ellenőrzést végző személy bejutását biztosítani az ellenőrizendő helyre és együttműködni az ellenőrzést végzővel.
 
-(4) A növénytermesztési hatóság közigazgatási eljárásban hozott döntése ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+(4)
 
 (5) A növénytermesztési hatóság az (1) bekezdés a) pontja szerinti nyilvántartásban lévő adatokat az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 

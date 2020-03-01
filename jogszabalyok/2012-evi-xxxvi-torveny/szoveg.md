@@ -1616,7 +1616,7 @@ valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú
 
 (3) A képviselőcsoport a (2) bekezdésben meghatározott személyek foglalkoztatására a (4) bekezdésben meghatározott bérkeret, illetve – a 118. § (1) bekezdése szerinti átcsoportosítás esetén – a (4) bekezdés szerinti bérkeret átcsoportosítással növelt összege erejéig jogosult. A bérkeret terhére polgári jogi jogviszony is létesíthető.
 
-(4) A képviselőcsoport a tárgyév január 1-jétől december 31-éig havonta a (2) bekezdés szerint megállapított létszám és a Központi Statisztikai Hivatal által a tárgyévet megelőző évben – az azt megelőző év egészére vonatkozóan – hivatalosan közzétett nemzetgazdasági havi átlagos bruttó kereset két és félszerese szorzatának megfelelő összegű bérkeretre jogosult.
+(4) A képviselőcsoport a tárgyév március 1-jétől a következő év február végéig havonta a (2) bekezdés szerint megállapított létszám és a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset két és félszerese szorzatának megfelelő összegű bérkeretre jogosult.
 
 (5) A képviselőcsoport működését segítő, az Országgyűlés Hivatalánál foglalkoztatott személyekre az e törvényben foglalt, illetve az e törvény szerinti eltérő rendelkezés hiányában a köztisztviselőkre, továbbá munkavállalók esetében a közigazgatási szervnél foglalkoztatott munkavállalókra irányadó szabályokat kell alkalmazni azzal, hogy a munkáltatói jogkört a képviselőcsoport vezetője egyetértésével kell gyakorolni.
 
@@ -1687,7 +1687,7 @@ valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú
 
 (4a) Az Országgyűlés ülésén a főigazgató által – a házelnök egyetértésével – kijelölt, az Országgyűlés Hivatalával szerződéses jogviszonyban álló személy részt vehet, de nem szólalhat fel.
 
-(5) A főigazgató – a tárgyév január 1-jétől december 31-éig terjedő időszakra megállapított – havi alapilletménye a 124/G. § (1) bekezdése szerinti illetményalap 6,2-szerese, egyebekben a minisztert megillető juttatásokra jogosult, és jogállására a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
+(5) A főigazgató – a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított – havi alapilletménye a 124/G. § (1) bekezdése szerinti illetményalap 6,2-szerese, egyebekben a minisztert megillető juttatásokra jogosult, és jogállására a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
 124. § (1) Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a főigazgató készíti el a házelnök irányítása mellett. Az Országgyűlés Hivatalának költségvetésére vonatkozó javaslatot a házelnök a Házbizottság egyetértésével, a Költségvetési bizottság véleményének beszerzése után küldi meg a Kormánynak, amely azt változtatás nélkül terjeszti be a központi költségvetésről szóló törvényjavaslat részeként az Országgyűlésnek.
 
@@ -1819,7 +1819,7 @@ feltételeket teljesítette.
 
 (6) Az alapilletmény összegének legalább a – Kormány által rendeletben megállapított – garantált bérminimum összegét el kell érnie.
 
-124/G. § (1) A tárgyév január 1-jétől december 31-éig terjedő időszakra megállapított illetményalap a Központi Statisztikai Hivatal által a tárgyévet megelőző évben – az azt megelőző év egészére vonatkozóan – hivatalosan közzétett nemzetgazdasági havi átlagos bruttó kereset összegével megegyező összeg (a továbbiakban e fejezet alkalmazásában: illetményalap).
+124/G. § (1) A tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított illetményalap a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset összegével megegyező összeg (a továbbiakban e fejezet alkalmazásában: illetményalap).
 
 (2) Az (1) bekezdés rendelkezései szerint a tárgyévre megállapított illetményalap nem lehet kevesebb, mint a tárgyévet megelőző évre megállapított illetményalap összege.
 
@@ -1827,7 +1827,7 @@ feltételeket teljesítette.
 
 (2) A besorolási osztályokat és a besorolási fokozatokat a 3. melléklet tartalmazza.
 
-(3) A rendelkezésre álló személyi juttatások előirányzatán belül a tárgyévet megelőző év teljesítményértékelése alapján – ide nem értve, ha az országgyűlési köztisztviselő végleges áthelyezésére kerül sor – a tárgyévre vonatkozóan az országgyűlési köztisztviselő besorolása szerinti besorolási fokozathoz tartozó alapilletményét – át nem ruházható hatáskörében a munkáltatói jogkör gyakorlója – tárgyév január 1-jétől december 31-éig terjedő időszakra legfeljebb 50%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg. Az eltérítésről a munkáltatói jogkör gyakorlója – a hivatali szerv vezetője javaslata alapján – minden év február 28-áig dönt. Az így megállapított eltérítés mértéke – a (4) bekezdésben foglaltakon túl – a tárgyévben a teljesítményértékeléstől számított hathavonta elvégezhető újabb teljesítményértékelés alapján módosítható, azzal a feltétellel, hogy az országgyűlési köztisztviselő besorolás szerint járó alapilletménye legfeljebb 20%-kal csökkenthető.
+(3) A rendelkezésre álló személyi juttatások előirányzatán belül a tárgyévet megelőző év teljesítményértékelése alapján – ide nem értve, ha az országgyűlési köztisztviselő végleges áthelyezésére kerül sor – a tárgyévre vonatkozóan az országgyűlési köztisztviselő besorolása szerinti besorolási fokozathoz tartozó alapilletményét – át nem ruházható hatáskörében a munkáltatói jogkör gyakorlója – tárgyév március 1-jétől a következő év február végéig terjedő időszakra legfeljebb 50%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg. Az eltérítésről a munkáltatói jogkör gyakorlója – a hivatali szerv vezetője javaslata alapján – minden év február 28-áig dönt. Az így megállapított eltérítés mértéke – a (4) bekezdésben foglaltakon túl – a tárgyévben a teljesítményértékeléstől számított hathavonta elvégezhető újabb teljesítményértékelés alapján módosítható, azzal a feltétellel, hogy az országgyűlési köztisztviselő besorolás szerint járó alapilletménye legfeljebb 20%-kal csökkenthető.
 
 (4) A (3) bekezdés szerint megállapított alapilletmény-eltérítés a tárgyévben akkor módosítható, ha a tárgyévben az országgyűlési köztisztviselő vezetői kinevezést kap, vagy azt tőle visszavonják, illetve címadományozásra, vagy annak visszavonására, vagy a Kttv. 119. §-a szerinti átsorolásra kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint e törvény alapján az eltérítés nélkül meghatározott összeg.
 
@@ -1990,9 +1990,9 @@ kell figyelembe venni.
 
 #### 40/F. A hivatali szervek vezetőinek és helyettes vezetőinek díjazása, valamint a főigazgatót, a hivatali szervek vezetőit és helyettes vezetőit megillető egyéb juttatások
 
-124/T. § (1) A hivatali szervek vezetőinek a tárgyév január 1-jétől december 31-éig terjedő időszakra megállapított havi alapilletménye az illetményalap 5,3-szerese. Egyebekben a hivatali szervek vezetői a közigazgatási államtitkárt megillető juttatásokra jogosultak.
+124/T. § (1) A hivatali szervek vezetőinek a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított havi alapilletménye az illetményalap 5,3-szerese. Egyebekben a hivatali szervek vezetői a közigazgatási államtitkárt megillető juttatásokra jogosultak.
 
-(2) A hivatali szervek helyettes vezetőinek a tárgyév január 1-jétől december 31-éig terjedő időszakra megállapított havi alapilletménye az illetményalap 4,3-szerese. Egyebekben a hivatali szervek helyettes vezetői a helyettes államtitkárt megillető juttatásokra jogosultak.
+(2) A hivatali szervek helyettes vezetőinek a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított havi alapilletménye az illetményalap 4,3-szerese. Egyebekben a hivatali szervek helyettes vezetői a helyettes államtitkárt megillető juttatásokra jogosultak.
 
 (3) A főigazgató és a hivatali szervek vezetőinek illetményét a házelnök, a hivatali szervek helyettes vezetőinek illetményét a főigazgató legfeljebb 50%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg.
 

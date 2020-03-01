@@ -1770,7 +1770,7 @@ folyósítja.
 
 - a) a 66. § szerinti visszafizetésre kötelező határozattal, illetve megtérítésre kötelező fizetési meghagyással,
 - b) a 67–68. § szerinti megtérítésre kötelező fizetési meghagyással,
-- c) a 68/B. § szerinti megtérítésre kötelező határozattal érvényesíti. A fizetési meghagyás hatósági határozat, a kiadására irányuló eljárásban hozott döntés ellen nincs helye fellebbezésnek.
+- c) a 68/B. § szerinti megtérítésre kötelező határozattal érvényesíti. A fizetési meghagyás hatósági határozat.
 
 (2) A 66–68. §-on alapuló követelés a felvett ellátás kifizetésétől, illetőleg az egészségügyi vagy baleseti egészségügyi szolgáltatás igénybevételétől számított öt éven belül, míg a 68/B. §-on alapuló követelés a gyógyszerhez, gyógyászati segédeszközhöz vagy gyógyászati ellátáshoz nyújtott támogatás igénybevételétől számított öt éven belül érvényesíthető. Ha a követelésre alapot adó magatartás a bíróság jogerős ítélete szerint bűncselekmény, a 66–68. §-on alapuló követelés öt éven túl, a 68/B. §-on alapuló követelés pedig öt éven túl is érvényesíthető mindaddig, amíg a büntethetőség el nem évül.
 
@@ -1824,13 +1824,13 @@ kell érteni.
 
 ### Határozat megtámadhatósága
 
-76. § A társadalombiztosítási kifizetőhelynek az egészségbiztosítás pénzbeli ellátásaival, a baleset üzemiségének elbírálásával, valamint a baleseti táppénzzel kapcsolatban hozott döntése ellen fellebbezésnek van helye.
+#### 76. §
 
 77. § (1) A biztosított keresőképessé nyilvánítása miatt panasszal fordulhat az orvosszakértői szervhez.
 
 (2)
 
-(3) Az egészségbiztosítás pénzbeli ellátásaival, üzemi balesettel, baleseti táppénzzel és utazási költségtérítéssel kapcsolatos többfokú közigazgatási eljárások esetén a közigazgatási pert az első fokon eljárt hatóság ellen kell megindítani, ha az elsőfokú döntést a megyeszékhely szerinti járási (fővárosi kerületi) hivatal hozta.
+(3) Az egészségbiztosítás pénzbeli ellátásaival, az üzemi balesettel, illetve a baleseti táppénzzel kapcsolatos közigazgatási eljárások esetén a közigazgatási pert a foglalkoztató székhelye szerint illetékes egészségbiztosítási szerv ellen kell megindítani, ha a döntést kifizetőhely hozta.
 
 78. § A baleseti járadékkal kapcsolatos jogorvoslatokra a Tny.-nek a nyugellátások esetében érvényesíthető jogorvoslatokra vonatkozó rendelkezéseit kell alkalmazni.
 
@@ -1879,7 +1879,7 @@ kell érteni.
 (6) Az e törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem vagy késedelmesen teljesítő, annak nem az előírt módon eleget tevő vagy valótlan adatokat közlő
 
 - a) természetes személy 10 ezertől 100 ezer forintig,
-- b) a Tbj. 4. § a) pontjában meghatározott foglalkoztató, és a Tbj. 4. § b) pontjában meghatározott egyéni vállalkozó 10 ezer forinttól 1 millió forintig terjedő összegű, az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető. A mulasztási bírságot kiszabó elsőfokú végzés ellen önálló fellebbezésnek van helye.
+- b) a Tbj. 4. § a) pontjában meghatározott foglalkoztató, és a Tbj. 4. § b) pontjában meghatározott egyéni vállalkozó 10 ezer forinttól 1 millió forintig terjedő összegű, az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető.
 
 81. § (1) Az egészségbiztosító szak- és pénzügyi ellenőrzése kiterjed az egészségbiztosítás pénzbeli, illetőleg baleseti ellátásaival összefüggő nyilvántartási és adatszolgáltatási kötelezettség teljesítésére, a társadalombiztosítási kifizetőhelyek hatáskörébe tartozó ellátásoknak és szolgáltatásoknak a jogosultak részére történő megállapítására, folyósítására, továbbá az ezekkel összefüggő ügyviteli feladatok ellátására. Az ehhez szükséges nyilvántartásokat, egészségügyi szolgáltatói jelentéseket, könyvelési és egyéb okmányokat, illetőleg adatokat rendelkezésre kell bocsátani.
 

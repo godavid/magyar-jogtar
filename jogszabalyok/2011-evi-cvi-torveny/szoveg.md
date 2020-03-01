@@ -70,7 +70,7 @@ kerül sor,
 
 (4c) A (4a) bekezdés a) pont ab) alpontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a járási hivatal adatot közvetlenül vehet át a szabálysértési nyilvántartásból.
 
-(4d) A kizárás kérdésében első fokon a járási hivatal, másodfokon az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) hatósági határozattal dönt.
+(4d) A kizárás kérdésében a járási hivatal dönt.
 
 (4e) Ha a közfoglalkoztatási jogviszony létrehozását követően értesül a járási hivatal a közfoglalkoztatást kizáró okról, a kizárásról szóló döntését közli a közfoglalkoztatóval. A közfoglalkoztató a közfoglalkoztatási jogviszonyt a jogerős döntés alapján azonnali felmondással megszünteti.
 
