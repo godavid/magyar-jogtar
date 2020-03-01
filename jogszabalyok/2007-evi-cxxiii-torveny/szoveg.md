@@ -567,7 +567,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 (8) A kisajátítási hatóság intézkedik a szakértői díjnak és költségnek a szakértő részére történő kifizetése iránt.
 
-(9) A kisajátítási hatóság végzése ellen fellebbezésnek nincs helye, azt a közigazgatási végzéssel szemben indított közigazgatási perre irányadó szabályok szerint a kérelmező és a szakértő a bíróságnál támadhatja meg. Az eljárásra az a közigazgatási és munkaügyi bíróság az illetékes, amely a kirendelő kisajátítási hatóság kisajátítási döntése elleni közigazgatási perre illetékes lenne.
+(9) A kisajátítási hatóság végzését közigazgatási perben a kérelmező és a szakértő támadhatja meg.
 
 37/D. § (1) Nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő kisajátítás esetén az ezen alcímben foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
 

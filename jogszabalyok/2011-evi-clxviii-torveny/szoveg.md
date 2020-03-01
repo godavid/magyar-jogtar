@@ -218,7 +218,7 @@ mezőgazdasági termelő által benyújtott kárenyhítő juttatás iránti kér
 
 (7) Az agrárkár-megállapító szerv az e törvény végrehajtásáról szóló rendeletben foglaltaknak megfelelően az (1) és (2) bekezdés szerinti döntés adattartalmát a kárenyhítő juttatás iránti kérelem adattartalmával együtt megküldi az agrárkár-enyhítési szervhez, míg a kárenyhítő juttatás iránti kérelem ellenőrzött adatából készített adatállományt továbbítja a mezőgazdasági igazgatási szervhez.
 
-(8) Az agrárkár-enyhítési eljárás keretében az elsőfokú hatósági döntés meghozatalára irányuló eljárás tárgyi díj- és illetékmentes.
+(8) Az agrárkár-enyhítési eljárás keretében a hatósági döntés meghozatalára irányuló eljárás tárgyi díj- és illetékmentes.
 
 15. § (1) Az agrárkár-enyhítési szerv a kockázatközösségben tag mezőgazdasági termelő kérelmére indult eljárásban a kárenyhítő juttatásra való jogosultságról, valamint a kárenyhítő juttatás összegéről
 

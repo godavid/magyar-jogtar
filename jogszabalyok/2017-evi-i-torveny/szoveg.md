@@ -578,9 +578,11 @@ bírálja el.
 
 #### 40. § [A keresetlevél továbbítása]
 
-(1) A keresetlevelet a benyújtásától számított tizenöt napon belül kell az ügy irataival együtt a hatáskörrel és illetékességgel rendelkező bírósághoz továbbítani. Többfokú közigazgatási eljárásban hozott cselekmény esetében az elsőfokon eljárt közigazgatási szerv a benyújtástól számított öt napon belül az ügy irataival együtt felterjeszti a másodfokon eljárt közigazgatási szervhez, amely azokat a benyújtástól számított huszonegy napon belül továbbítja a bírósághoz.
+(1) A keresetlevelet a benyújtástól számított harminc napon belül kell az ügy irataival együtt a hatáskörrel és illetékességgel rendelkező bírósághoz továbbítani. Többfokú közigazgatási eljárásban hozott cselekmény esetében az elsőfokon eljárt közigazgatási szerv a keresetlevelet a benyújtástól számított tizenöt napon belül az ügy irataival együtt felterjeszti a másodfokon eljárt közigazgatási szervhez, amely azokat a benyújtástól számított harminc napon belül továbbítja a bírósághoz. A járási (fővárosi kerületi) hivatal eljárásában hozott cselekmény esetében a járási (fővárosi kerületi) hivatal a keresetlevelet a benyújtástól számított tizenöt napon belül az ügy irataival együtt felterjeszti a fővárosi és megyei kormányhivatalhoz, amely azokat a benyújtástól számított harminc napon belül továbbítja a bírósághoz.
 
-(2) Ha a keresetlevél azonnali jogvédelem iránti kérelmet is tartalmaz, a keresetlevelet a benyújtásától számított öt, többfokú közigazgatási eljárásban hozott cselekmény esetén – a benyújtásától számított három napon belüli felterjesztést követően – nyolc napon belül kell az ügy irataival együtt a bírósághoz továbbítani.
+(2) Ha a keresetlevél azonnali jogvédelem iránti kérelmet is tartalmaz, a keresetlevelet a benyújtástól számított öt, többfokú közigazgatási eljárásban hozott cselekmény, illetve a járási (fővárosi kerületi) hivatal eljárása esetén – a benyújtástól számított három napon belüli felterjesztést követően – nyolc napon belül kell az ügy irataival együtt a bírósághoz továbbítani.
+
+(2a) Jogszabály kötelezővé teheti, hogy valamely ügyben a keresetlevél benyújtásáról a felügyeleti szervet értesíteni kell.
 
 (3) A közigazgatási szerv az ügy iratait továbbítás helyett a bíróság számára elektronikusan hozzáférhetővé teszi, ha az ehhez szükséges informatikai feltételek rendelkezésre állnak.
 
@@ -1630,7 +1632,7 @@ A közigazgatási szerv közigazgatási cselekmény megvalósítására vonatkoz
 
 #### 131. § [A marasztalási per eljárási szabályai]
 
-(1) A védiratot a keresetlevél benyújtásától, illetve az alperessel való közlésétől számított harminc napon belül kell előterjeszteni.
+(1) A védiratot – a 40. § (2) bekezdésében meghatározott kivétellel – a keresetlevél benyújtásától, illetve az alperessel való közlésétől számított harminc napon belül kell előterjeszteni.
 
 (2) Szünetelésnek a polgári perrendtartás szabályai szerint van helye, ha a felek azt közösen kérik. Az eljárás a kérelem bírósághoz érkezésétől kezdve szünetel.
 

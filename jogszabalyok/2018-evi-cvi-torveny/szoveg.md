@@ -20,7 +20,7 @@ egyes kulturális tárgyú törvények módosításáról
 
 5. §
 
-6. §
+6. § Hatályát veszti a Városliget tv. 1. § (1a) bekezdés b) pontja.
 
 #### 5. Záró rendelkezések
 

@@ -1438,7 +1438,7 @@ el lehet térni.
 - a) ha az időjárási viszonyok miatt kialakuló sajátos gombaérés azt indokolja, a földalatti gomba gyűjtési időszakát adott naptári évre, az ország egészére vagy egy részére, illetve adott gombafajra vonatkozóan az e törvény végrehajtására kiadott jogszabályban meghatározott időszaktól eltérően is meghatározhatja, illetve
 - b) a földalatti gomba fajállományának csökkenése miatt vagy egyéb fajvédelmi okból az ország egészére vagy egy részére a földalatti gomba gyűjtését adott naptári évre vonatkozóan korlátozhatja, illetve megtilthatja.
 
-(3) Az erdészeti hatóság az e § alapján hozott határozatát fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja, és azt a honlapján közzéteszi.
+(3) Az erdészeti hatóság az e § alapján hozott határozatát a honlapján közzéteszi.
 
 76/B. § (1) Az erdészeti hatóság az e törvény végrehajtására kiadott jogszabályban meghatározott feltételeknek megfelelő személyekről, valamint a részükre kiadott tanúsítványról és a gyűjtési naplóról az alábbi adatokkal hatósági nyilvántartást vezet:
 
@@ -1833,6 +1833,8 @@ ingyenesen tulajdonba adhatja.
 
 (5) A faanyag-kereskedelmi lánc hatósági felügyeletét ellátó erdészeti hatóság eljárásában hozott, az 5. § 41. pont szerinti zárlatot elrendelő végzése ellen önálló jogorvoslatnak van helye.
 
+90/N. § Az erdészeti hatóság faanyag kereskedelmi lánc hatósági felügyelete keretében hozott döntésével szemben indított közigazgatási perben a Fővárosi Törvényszék kizárólagosan illetékes.
+
 ### Az erdő látogatása
 
 91. § (1) Az erdőben – annak rendeltetésétől függetlenül – pihenés, üdülés, sportolás és kirándulás céljából gyalogosan, emberi erővel hajtott kerékpárral, lóval, valamint az erdészeti feltáróhálózat részét képező erdei úton sport vagy turisztikai célú, lóval vontatott járművel bárki saját felelősségére közlekedhet, illetve ott tartózkodhat, amit az erdőgazdálkodó tűrni köteles, kivéve, ha
@@ -2185,16 +2187,14 @@ vonatkozó adat igénylésére.
 
 (3) Az 1. mellékletben meghatározott gazdasági társaságoknak az e törvényben foglalt eljárásokért nem kell igazgatási szolgáltatási díjat fizetnie.
 
-### Az erdészeti hatóság elsőfokú és másodfokú eljárásaiban közreműködő szakhatóságok
+### Az erdészeti hatóság eljárásaiban közreműködő szakhatóságok
 
 105/C. § (1) Part- vagy töltésvédelmi, árvízvédelmi és vízvédelmi rendeltetésű erdő esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a (2) bekezdés szerinti eljárásban
 
-- a) az erdészeti hatóság elsőfokú eljárásában
+- a) az erdészeti hatóság eljárásában
   - aa) a part- vagy töltésvédelem és árvízvédelem tekintetében a területi vízügyi hatóságot,
   - ab) a vízvédelem tekintetében a területi vízvédelmi hatóságot,
-- b) az erdészeti hatóság másodfokú eljárásában
-  - ba) a part- vagy töltésvédelem és árvízvédelem tekintetében az országos vízügyi hatóságot,
-  - bb) vízvédelem tekintetében az országos vízvédelmi hatóságot
+- b)
 
 szakhatóságként kell bevonni.
 
@@ -2217,7 +2217,7 @@ irányuló eljárás esetén, szakhatósági eljárása során vizsgálja, hogy 
 
 (3) A területi vízügyi hatóság, a területi vízvédelmi hatóság, az országos vízügyi hatóság, valamint az országos vízvédelmi hatóság szakhatósági eljárásának ügyintézési határideje 15 nap.
 
-105/D. § (1) A honvédelemért felelős minisztert elsőfokú eljárásban szakhatóságként kell bevonni
+105/D. § (1) A honvédelemért felelős minisztert szakhatóságként kell bevonni
 
 - a) honvédelmi rendeltetésű erdő, valamint az aa), ab), ai) és aj) alpontok tekintetében a Honvédelmi Minisztérium vagyonkezelésében álló, erdőnek nem minősülő földterületek esetén
   - aa) fásítás faállománya felszámolásának előírására,

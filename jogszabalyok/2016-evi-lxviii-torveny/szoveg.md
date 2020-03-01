@@ -247,9 +247,11 @@ használnak fel;
   - a) a dohányrúd, amely meglévő állapotában dohányzásra alkalmas és nem minősül szivarnak vagy szivarkának,
   - b) a dohányrúd, amelyet egyszerű, nem ipari eljárással cigarettapapír-hüvelybe töltenek, vagy cigarettapapír-lappal körbevesznek,
   - c) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a)–b) pontban meghatározott kritériumoknak;
-- 2. dohánygyártmány: a cigaretta, a szivar, szivarka, a finomra vágott fogyasztási dohány, az egyéb fogyasztási dohány, a töltőfolyadék és az új dohánytermék-kategóriák, kivéve a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és a külön jogszabályban meghatározott hatóság által kiadott hatályos forgalomba hozatali engedéllyel rendelkezik;
+- 2. dohánygyártmány: a cigaretta, a szivar, szivarka, a finomra vágott fogyasztási dohány, az egyéb fogyasztási dohány, a füst nélküli dohánytermék, a töltőfolyadék, az új dohánytermék-kategóriák és a dohányzást helyettesítő nikotintartalmú termék, kivéve a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és a külön jogszabályban meghatározott hatóság által kiadott hatályos forgalomba hozatali engedéllyel rendelkezik;
 - 3. dohánynövény: a 0602 90 50 KN-kód szerinti növény;
 - 4. dohánytörmelék: a dohány feldolgozása és a dohánytermékek előállítása során keletkező dohánylevél-maradvány és melléktermék;
+- 4a. dohányzást helyettesítő nikotintartalmú termék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvény szerint ekként meghatározott termék;
+- 4b. dohányzást imitáló elektronikus eszköz: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvény szerint ekként meghatározott termék;
 - 5. egyéb fogyasztási dohány:
   - a) a finomra vágott fogyasztási dohányon kívüli, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat,
   - b) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) pontban meghatározott kritériumoknak;
@@ -259,13 +261,14 @@ használnak fel;
   - a) olyan, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat, amelyben a dohányrészecskék tömegének több mint 25 százaléka kisebb, mint 1,5 milliméter szélességűre vágott,
   - b) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) pontban meghatározott kritériumoknak;
 - 9. fogyasztási dohány: az egyéb fogyasztási dohány és a finomra vágott fogyasztási dohány;
+- 9a. füst nélküli dohánytermék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvény szerint ekként meghatározott termék;
 - 10. kész dohányvágat: olyan dohánygyártmány, amely pipadohány esetében pipában történő elszívásra, cigarettadohány esetében kézi töltésű cigaretta elkészítésére szolgál, beleértve a dohányzásra alkalmas, ilyenkénti értékesítésre felkínált dohánytörmeléket is;
 - 11. szárított dohány: a tőről leszakított nyersdohány, a 2401 10 35-2401 20 95 KN-kód szerinti feldolgozatlan dohány, továbbá a 2401 30 00 KN-kód szerinti dohányhulladék;
 - 12. szivar, szivarka:
   - a) a természetes dohánylevelekből álló külső borítékkal rendelkező dohányrúd,
   - b) a kocsányozott dohánykeverékből készült szivarbélből, valamint a szivar szokásos színével megegyező színű, regenerált dohánylevélből készült, és a terméket – adott esetben a füstszűrőt is beleértve, a szopókával ellátott szivaroknál azonban a szopóka kivételével – teljesen körülölelő, külső borítékból álló dohányrúd, amelynek tömege – füstszűrő vagy szopóka nélkül – legalább 2,3 gramm és legfeljebb 10 gramm, valamint amely hosszának legalább egyharmadánál mért kerülete eléri a 34 millimétert,
   - c) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) és b) pontban meghatározott kritériumoknak;
-- 13. töltőfolyadék: olyan nikotintartalmú folyadék, amelyet az elektronikus cigarettába a gyártási folyamat során töltenek be, ideértve az elektronikus cigaretta utántöltésére szolgáló folyadékot is;
+- 13. töltőfolyadék: olyan folyadék, amelyet az elektronikus cigarettába vagy a dohányzást imitáló elektronikus eszközbe a gyártási folyamat során töltenek be, ideértve az elektronikus cigaretta vagy a dohányzást imitáló elektronikus eszköz utántöltésére, többszöri használatára szolgáló folyadékot is;
 - 14. új dohánytermék-kategóriák: e törvény szerint cigarettának, szivarnak, szivarkának, fogyasztási dohánynak vagy töltőfolyadéknak nem minősülő, a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott dohánytermék.
 
 #### 3. Általános rendelkezések
@@ -2336,10 +2339,12 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
   - ca) a 2020. január 1. és 2020. június 30. közötti időszakban 20 100 forint kilogrammonként,
   - cb) a 2020. július 1. és 2020. december 31. közötti időszakban 20 700 forint kilogrammonként,
   - cc) 2021. január 1-jétől 21 480 forint kilogrammonként,
-- d) a töltőfolyadékra 55 forint milliliterenként,
+- d) a töltőfolyadékra 20 forint milliliterenként,
 - e) az új dohánytermék-kategóriák dohányt tartalmazó, vagy dohánnyal együtt fogyasztott
   - ea) egyszer használatos termékeire 10 forint darabonként (szálanként),
-  - eb) folyadékára 70 forint milliliterenként.
+  - eb) folyadékára 70 forint milliliterenként,
+- f) a füst nélküli dohánytermékre 19 160 forint kilogrammonként,
+- g) a dohányzást helyettesítő nikotintartalmú termékre 19 160 forint kilogrammonként.
 
 (2) A jövedéki adó megállapítása szempontjából a cigaretta tételes adójának alapját kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de nem hosszabb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 11 centimétert, de nem hosszabb, mint 14 centiméter; az előzőek szerinti mérettartomány minden további 3 centiméterenkénti növekedése esetén a tételes adó alapjának szorzószámát eggyel növelni kell.
 
@@ -2462,6 +2467,8 @@ kell kiskereskedelmi eladási árnak tekinteni.
 (28) A 67. § (4) bekezdésétől és a 68. § (2) bekezdésétől eltérően 2020. április 30-ig nincs szükség az állami adó- és vámhatóság előzetes engedélyére nikotinmentes töltőfolyadék beszerzéséhez.
 
 (29) A (26) bekezdés szerinti személy a 2020. május 1-jén készleten lévő nikotinmentes töltőfolyadék készletének megsemmisítéséről legkésőbb 2020. május 5-ig bejelentést tesz az állami adó- és vámhatósághoz.
+
+(30) A 74. § rendelkezéseitől eltérően a füst nélküli dohánytermék és a dohányzást helyettesítő nikotintartalmú termék 2020. július 1. napjáig zárjegy nélkül bocsátható szabadforgalomba és forgalmazható belföldön azzal, hogy a 2020. június 30-ig szabadforgalomba bocsátott és 2020. augusztus 31-ig az Fdvtv.-ben meghatározott dohánytermék-kiskereskedelmi és az Fdvtv. 1. § (3) bekezdésében meghatározott kiskereskedelmi értékesítés helyére kiszállított zárjegy nélküli füst nélküli dohánytermék és dohányzást helyettesítő nikotintartalmú termék korlátozás nélkül értékesíthető a 145. § (5) bekezdése szerinti áron.
 
 151. § A 2017. július 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 

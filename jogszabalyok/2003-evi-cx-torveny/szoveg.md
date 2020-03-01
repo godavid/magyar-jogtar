@@ -104,7 +104,7 @@ keletkezik.
 
 (4) Ha az adókötelezettség átalakítás miatt keletkezik, az adó alanya köteles a területileg illetékes közlekedési hatósághoz benyújtott előzetes engedély iránti kérelmet benyújtani. A közlekedési hatóság az átalakítási engedély kiadásakor, annak egy példánya megküldésével haladéktalanul értesíti a vámhatóságot az adóalany átalakítási szándékáról, közölve minden, az e törvény szerinti adókötelezettség megállapításához szükséges adatot (az eredeti és az átalakított gépjármű hengerűrtartalmát, üzemanyag fajtáját és környezetvédelmi osztályba sorolását, valamint az e törvény szerinti adó alanyának beazonosításához szükséges adatokat).
 
-(4a) A közlekedési hatóság gépjármű-átalakítás engedélyezése iránti eljárásában hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
+(4a)
 
 (5) A közlekedési igazgatási hatóság a gépjármű alvázszámáról, gyártmányáról, típusáról és a motor egyedi azonosító jeléről, illetve kódjáról az adategyezőség ellenőrzésének céljából adatokat kérhet a vámhatóságtól.
 

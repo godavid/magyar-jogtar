@@ -661,7 +661,7 @@ kell csatolnia.
 
 (3b) Az ingatlanügyi hatóság felfüggeszti az eljárását akkor is, ha a kérelem érdemi elbírálása a gyámhatóság hatáskörébe tartozó kérdés előzetes elbírálásától függ, a végleges gyámhatósági döntés meghozataláig.
 
-(4) Az elsőfokú határozattal szemben benyújtott fellebbezés folytán eljáró ingatlanügyi hatóság a másodfokú eljárást – a fellebbező kérelmére – a fellebbezéssel érintett jog bejegyzése, tény feljegyzése, vagy adatváltozás átvezetése alapjául szolgáló végleges döntés (a továbbiakban: bejegyzést megalapozó döntés) bírósági felülvizsgálatára irányuló eljárás lezárultáig felfüggeszti, kivéve ha jogszabály a bejegyzést megalapozó döntés elleni jogorvoslat halasztó hatályát a végrehajtás tekintetében kizárja.
+(4)
 
 (5) A hatósági határozat elleni közigazgatási per megindításának igazolására és annak elmulasztására a (3) bekezdésben foglaltak értelemszerűen irányadók azzal, hogy annak megtörténte a keresetlevélnek az ingatlan-nyilvántartási eljárás alapjául szolgáló határozatot hozó hatóság által iktatott példányával, vagy annak hiteles másolatával is igazolható.
 
@@ -768,11 +768,7 @@ bejegyzésével egyidejűleg.
 - i) adó- és illetéktartozás behajtására irányuló végrehajtási jog bejegyzéséről az állami adóhatóságnak,
 - j) ha az érdekelt kiskorú vagy gondnokság alatt áll, a gyámhatóságnak,
 - k) felszámolás vagy végelszámolás alatt álló jogosult esetében a felszámolónak, illetve a végelszámolónak,
-- l) a föld
-  - la) tulajdonjogának hatósági jóváhagyáshoz kötött szerzése esetén,
-  - lb) tulajdonjogának hatósági jóváhagyáshoz nem kötött szerzése esetén a bejegyzés alapját képező okirat másolatával együtt
-
-a mezőgazdasági igazgatási szervnek.
+- l)
 
 (1a) A tulajdonjog bejegyzéséről szóló határozatot kézbesíteni kell a jelzálogjog (önálló zálogjog, átalakításos önálló zálogjog) és az alzálogjog jogosultjának is.
 
@@ -790,14 +786,9 @@ a mezőgazdasági igazgatási szervnek.
 
 (6) Hirdetményi úton kézbesíti az ingatlanügyi hatóság a döntését azon jogosult részére, akinek az ingatlan-nyilvántartásba lakcíme nincs bejegyezve, vagy a személyiadat- és lakcímnyilvántartásban szereplő adattal történő összevetés alapján megállapítható, hogy az ingatlan-nyilvántartásba felvett lakcím időközben megszűnt és a jogosult nem rendelkezik érvényes lakcímmel.
 
-(7) Az elsőfokú döntést hozó hatóság a fellebbezés és az iratok felterjesztését követően
+(7)
 
-- a) az ügyfélnek az elsőfokú eljárást lezáró döntés meghozataláig előterjesztett írásbeli kérelmére a nem fellebbező ügyfelet, és
-- b) tulajdoni hányadot érintő tulajdonjog-bejegyzés esetén a nem fellebbező tulajdonostársat
-
-tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem vált véglegessé, illetve arról, hogy a fellebbezést valamennyi fellebbező ügyfél visszavonta.
-
-(8) Nem kell a (7) bekezdés b) pontját alkalmazni abban az esetben, ha az elővásárlási jog jogosultjával a tulajdonjog megszerzésére irányuló szerződést, vételi ajánlatot kizárólag a külön jogszabályban meghatározott hirdetményi úton kell közölni.
+(8)
 
 (9) Az ingatlan-nyilvántartási eljárásban a döntés szóban történő közlése kizárt.
 
@@ -841,21 +832,17 @@ tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem v�
 
 56. § (1)
 
-(2) A beadvány megtartja a benyújtás időpontjának megfelelő ranghelyét, ha az elutasításra a 39. § (3) bekezdése miatt került sor, a határozat fellebbezéssel megtámadható és a fellebbezés során pótolták a határozatban megjelölt hiányosságokat, vagy ha a kérelem visszautasítására a 39. § (4) bekezdés f) pontjára tekintettel került sor, és a fellebbezéssel a formanyomtatvány pótlásra került.
+(2) A beadvány megtartja a benyújtás időpontjának megfelelő ranghelyét, ha az elutasításra a 39. § (3) bekezdése miatt került sor, és a jogorvoslat során pótolták a határozatban megjelölt hiányosságokat, vagy ha a kérelem visszautasítására a 39. § (4) bekezdés f) pontjára tekintettel került sor, és a jogorvoslat során a formanyomtatvány pótlásra került.
 
 (3) Ha a jogorvoslat az ingatlan határvonalát vagy területét érinti, a jogorvoslati kérelmet az érintett ingatlanok tulajdonosainak meg kell küldeni a jogorvoslat tényének az érintett tulajdoni lapokra történő feljegyzésével egyidejűleg.
 
 (4) Ha a jogorvoslati kérelemmel megtámadott határozat saját hatáskörben történő kijavítására, kiegészítésére, módosítására vagy visszavonására nincs lehetőség, és a jogorvoslati kérelmet új eljárásra irányuló beadványnak sem lehet tekinteni, a jogorvoslati kérelem tényét az érkezésétől számított nyolc nap alatt a tulajdoni lapra fel kell jegyezni.
 
-(5) A fellebbezés alapján hozott másodfokú határozat hatálya a megtámadott bejegyzésen alapuló további bejegyzésre is kiterjed.
+(5)
 
 (6)
 
-57. § (1) Ha a fellebbezés elbírálására jogosult szerv elutasítja a fellebbezést, az ingatlanügyi hatóság törli a fellebbezésre vonatkozó feljegyzést és ennek megtörténtét a másodfokú döntésre vezetett záradékkal igazolja; erről az érdekeltet a másodfokú döntés kézbesítésével értesíti.
-
-(2) Ha a fellebbezés elbírálására jogosult szerv a fellebbezésnek helyt ad és az elsőfokú döntést egészben vagy részben megváltoztatja, a másodfokú döntés tartalmának megfelelő változást az ingatlanügyi hatóság foganatosítja a tulajdoni lapon, ennek megtörténtét a másodfokú döntésre vezetett záradékkal igazolja és az érdekeltet a másodfokú döntés kézbesítésével értesíti.
-
-(3) Ha a fellebbezés elbírálására jogosult szerv új eljárást rendelt el, az ingatlanügyi hatóság az új eljárásban meghozott döntésnek megfelelő bejegyzéssel egyidejűleg törli a megtámadott bejegyzést, valamint a fellebbezésre vonatkozó feljegyzést. Az erről szóló döntést a fellebbezés elbírálására jogosult szerv döntésével együtt kell kézbesíteni.
+57. §
 
 ### Közigazgatási per
 
@@ -887,13 +874,13 @@ tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem v�
 
 ### Felügyeleti eljárás
 
-61/B. § (1) A felügyeleti szerv az eljárás megindításakor haladéktalanul megkeresi az elsőfokú ingatlanügyi hatóságot a felügyeleti eljárás megindítása tényének tulajdoni lapra történő feljegyzése iránt.
+61/B. § (1) A felügyeleti szerv az eljárás megindításakor haladéktalanul megkeresi az ingatlanügyi hatóságot a felügyeleti eljárás megindítása tényének tulajdoni lapra történő feljegyzése iránt.
 
 (2) A felügyeleti eljárás során hozott határozat hatálya a felülvizsgált bejegyzésen alapuló további bejegyzésekre is kiterjed.
 
-(3) Ha a felügyeleti szerv az elsőfokú döntést egészben vagy részben megváltoztatja, a döntés tartalmának megfelelő változást az elsőfokú ingatlanügyi hatóság foganatosítja a tulajdoni lapon, ennek megtörténtét a felügyeleti eljárás során hozott döntésre vezetett záradékkal igazolja és az érdekeltet a felügyeleti eljárás során hozott döntés kézbesítésével értesíti, valamint törli a felügyeleti eljárás tényét az ingatlan tulajdoni lapjáról.
+(3) Ha a felügyeleti szerv a döntést egészben vagy részben megváltoztatja, a döntés tartalmának megfelelő változást az elsőfokú ingatlanügyi hatóság foganatosítja a tulajdoni lapon, ennek megtörténtét a felügyeleti eljárás során hozott döntésre vezetett záradékkal igazolja és az érdekeltet a felügyeleti eljárás során hozott döntés kézbesítésével értesíti, valamint törli a felügyeleti eljárás tényét az ingatlan tulajdoni lapjáról.
 
-(4) Ha a felügyeleti szerv az elsőfokú döntést megsemmisíti és új eljárás lefolytatását rendeli el, az ingatlanügyi hatóság az új eljárásban meghozott döntésnek megfelelő bejegyzéssel egyidejűleg törli a felülvizsgált bejegyzést, valamint a felügyeleti eljárásra vonatkozó feljegyzést. Az erről szóló döntést a felügyeleti szerv döntésével együtt kell kézbesíteni.
+(4) Ha a felügyeleti szerv a döntést megsemmisíti és új eljárás lefolytatását rendeli el, az ingatlanügyi hatóság az új eljárásban meghozott döntésnek megfelelő bejegyzéssel egyidejűleg törli a felülvizsgált bejegyzést, valamint a felügyeleti eljárásra vonatkozó feljegyzést. Az erről szóló döntést a felügyeleti szerv döntésével együtt kell kézbesíteni.
 
 61/C. § Az Ákr. 123. § (1) bekezdésének h) pontja alkalmazása szempontjából súlyos eljárási jogszabálysértésnek minősül, ha
 
@@ -932,7 +919,7 @@ tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem v�
 
 (3) A feljegyzés alapjául szolgáló végzés hatályon kívül helyezéséről szóló jogerős végzést a bíróság megküldi az ingatlanügyi hatóságnak a feljegyzés törlése céljából.
 
-(4) A per megindítása tényének feljegyzése tárgyában hozott végzés ellen külön fellebbezésnek van helye.
+(4)
 
 65. § (1) A feljegyzett perben hozott határozaton alapuló változás bejegyzésével egyidejűleg törölni kell a perfeljegyzést és a függő hatállyal történt bejegyzéseket.
 

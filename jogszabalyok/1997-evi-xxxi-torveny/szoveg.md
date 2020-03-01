@@ -2263,7 +2263,7 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
 (4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a családtámogatási feladatokat ellátó hatóságnál a családi pótlék szüneteltetésének megszüntetését, ha a gyermeket (fiatal felnőttet) nevelőszülőnél, gyermekotthonban vagy szociális intézményben helyezték el, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
 
-(5) A gyámhatóságnak a (3) bekezdés b) pontja és (4) bekezdés szerinti intézkedése ellen nincs helye fellebbezésnek.
+(5)
 
 68/B. § (1) A gyámhatóság – a 68/A. § szerinti esetet kivéve –
 
@@ -2482,9 +2482,9 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
 (4) Az ideiglenes hatályú elhelyezéstől kezdődően az (1) bekezdés a) pontja szerinti esetben a szülő gondozási, nevelési joga szünetel.
 
-(5) A gyermek ideiglenes hatályú elhelyezéséről szóló másodfokú gyámhatósági döntés ellen az ügyfél tizenöt napon belül indíthat közigazgatási pert. A másodfokú gyámhatóság a keresetindítás tudomására jutásától számított nyolc napon belül terjeszti elő a védiratát. A bíróság lehetőleg a keresetlevél hozzá való érkezését követő harminc napon belül határoz.
+(5) A beutaló szerv ideiglenes hatályú elhelyezéséről szóló döntése ellen az ügyfél tizenöt napon belül indíthat közigazgatási pert. A beutaló szerv a benyújtástól számított nyolc napon belül továbbítja a bírósághoz a keresetlevelet. A bíróság a keresetlevél hozzá való érkezését követő harminc napon belül határoz.
 
-73. § (1) A gyámhatóság – a (3) bekezdésben meghatározott kivétellel – az ideiglenes hatályú elhelyezést követően – függetlenül attól, hogy arra mely beutaló szerv intézkedése alapján kerül sor, és hogy a döntést megfellebbezték-e – annak elrendelésétől számított
+73. § (1) A gyámhatóság – a (3) bekezdésben meghatározott kivétellel – az ideiglenes hatályú elhelyezést követően – függetlenül attól, hogy arra mely beutaló szerv intézkedése alapján kerül sor – annak elrendelésétől számított
 
 - a) harminc napon belül megszünteti az ideiglenes hatályú elhelyezést, ha annak okai nem állnak fenn, vagy
 - b) negyvenöt napon belül elrendeli a gyermek nevelésbe vételét, valamint egyidejűleg meghatározza a gyermek gondozási helyét és dönt a 79. § (5) bekezdés b)–g) pontjai szerinti járulékos kérdésekről, vagy
@@ -3591,7 +3591,7 @@ a végkielégítés és a jogviszony megszűnésétől az új jogviszony létes�
 
 nyilatkozatban kérhetik a vér szerinti szülők születési családi és utónevének az anyakönyvben való feltüntetését.
 
-(2) Az (1) bekezdésben meghatározott nyilatkozatot az annak előterjesztésére jogosult személyek az örökbefogadást engedélyező elsőfokú határozat meghozataláig a gyámhatóság előtt visszavonhatják.
+(2) Az (1) bekezdésben meghatározott nyilatkozatot az annak előterjesztésére jogosult személyek az örökbefogadást engedélyező határozat meghozataláig a gyámhatóság előtt visszavonhatják.
 
 (3) A titkos örökbefogadás kivételével az örökbefogadott gyermek a nagykorúságának elérését követően a gyámhatóság előtt nyilatkozhat arról, hogy kéri a vér szerinti szülők születési családi és utónevének az anyakönyvben való feltüntetését.
 
@@ -3722,7 +3722,7 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
 - a) hagyatéki eljárásban vagy
 - b) bírósági végrehajtási eljárásban merült fel és e költség másra át nem hárítható.
 
-133/B. § A kapcsolattartásra vonatkozó határozat végrehajtására irányuló eljárásban hozott valamennyi döntés ellen fellebbezésnek van helye.
+133/B. § A gyámhatóságnak a kapcsolattartás végrehajtásának felfüggesztésére, a kapcsolattartás megvonására és a kapcsolattartás szüneteltetésére vonatkozó döntése az Ákr. 84. §-a alapján azonnal végrehajtható.
 
 133/C. § Ha a kapcsolattartásra jogosult vagy a kapcsolattartásra kötelezett a végrehajtást elrendelő végzésben foglalt kötelezettségének nem tesz eleget, a gyámhatóság végzéssel a 132. § (7) bekezdése alapján, meghatározott időtartamra felfüggeszti a végrehajtási eljárást, ha
 

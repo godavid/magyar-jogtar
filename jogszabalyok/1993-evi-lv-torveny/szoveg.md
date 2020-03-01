@@ -112,7 +112,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (3) A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és az állampolgársági ügyekben eljáró szerv a névmódosítást engedélyezi – a névmódosításnak megfelelő névvel kell kiadni. A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és az állampolgársági ügyekben eljáró szerv a névmódosítási kérelmet elutasítja vagy ha a 20/A. § szerinti eljárásra nem kerül sor – a honosítást kérő külföldi nevével kell kiadni.
 
-7. § (1) A honosított, illetőleg a visszahonosított (a továbbiakban együtt: honosított) személy választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat a honosított a lakóhelye szerint illetékes polgármester előtt, illetve a 4. § (3), (3a) (6) és (7) bekezdésének, illetve az 5. § hatálya alá tartozó honosított választása szerint a polgármester vagy a magyar külképviselet vezetője előtt teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat. A cselekvőképtelen személy nevében az esküt vagy fogadalmat a törvényes képviselője teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat.
+7. § (1) A honosított, illetőleg a visszahonosított (a továbbiakban együtt: honosított) személy választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat a honosított a lakóhelye szerint illetékes polgármester előtt, illetve a 4. § (3), (3a) (6) és (7) bekezdésének, illetve az 5. § hatálya alá tartozó honosított választása szerint a polgármester vagy a magyar külképviselet vezetője előtt teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat. A cselekvőképtelen személy nevében az esküt vagy fogadalmat a törvényes képviselője teszi le.
 
 (2) A honosított a magyar állampolgárságot az eskü vagy fogadalom letételének napján szerzi meg. Az eskütétel, illetve fogadalomtétel tényét és napját a honosítási okiraton fel kell tüntetni.
 
@@ -279,7 +279,7 @@ ellátva kell csatolni.
 
 (9) Az állampolgársági bizonyítvány kiadása iránti kérelem esetén az állampolgársági ügyekben eljáró szerv a kérelem visszautasításáról, az eljárás megszüntetéséről és felfüggesztéséről, valamint az eljárási költség viselése tekintetében végzéssel dönt.
 
-(10) Az állampolgársági ügyekben eljáró szerv döntésével szemben nincs helye fellebbezésnek.
+(10)
 
 17/A. § (1) Az állampolgársági ügyekben eljáró szerv a nyilatkozattal, a lemondással és a magyar állampolgárság visszavonásával összefüggésben hozott határozatát közli azzal a természetes személlyel, akire nézve az rendelkezést tartalmaz.
 

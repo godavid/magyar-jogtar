@@ -175,7 +175,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (2) Az anyakönyvi szerv felügyeletet gyakorol az anyakönyvvezető tevékenysége felett.
 
-(3) Az anyakönyvi eljárásban nincs helye fellebbezésnek.
+(3) Az anyakönyvvezető anyakönyvi eljárásában nincs helye fellebbezésnek.
 
 ### Okirat és személyes nyilatkozat
 

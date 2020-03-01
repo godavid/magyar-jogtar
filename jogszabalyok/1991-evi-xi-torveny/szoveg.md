@@ -161,7 +161,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 - g) ellátja a gyógyhelyek, gyógyfürdő intézmények és a természetes gyógytényezők vonatkozásában a külön jogszabályban meghatározott feladatokat;
 - h) ellátja a gyógyszerellátással és a fokozottan ellenőrzött szerekkel, illetve kábítószer-prekurzorokkal kapcsolatos szakfelügyeletet, ennek keretében biztosítja, hogy a forgalomból kivont gyógyszerkészítmények ne kerüljenek további felhasználásra;
 - i) kijelöli azokat a gyógyszertárakat és egészségügyi intézményeket, amelyek az egészségügyért felelős miniszter által meghatározott gyógyszereket és immunbiológiai készítményeket kötelesek készletükben tartani;
-- j) felügyeletet gyakorol a halottkémlés szakszerűsége felett, engedélyezi a nem kórházban elhunyt személy holttestének elhamvasztását;
+- j) felügyeletet gyakorol a halottkémlés szakszerűsége felett;
 - k) a helyi önkormányzatokat rendszeresen, szükség esetén alkalomszerűen tájékoztatja a lakosság egészségi állapotáról, az egészség romlását kiváltó vélelmezett okokról és a szükséges tennivalókról ;
 - l) közvetlenül intézkedik, ha azt rendkívüli körülmény (járvány, természeti csapás és egyéb katasztrófák, hirtelen fellépő orvoshiány stb.) szükségessé teszi;
 - m) közvetlenül intézkedik súlyos, tömeges, illetőleg ismétlődő egészségkárosodás előfordulása, vagy annak gyanúja esetén a kiváltó okok megszüntetése, illetőleg az esemény megelőzése érdekében;
@@ -422,16 +422,9 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 (7)
 
-(7a) A büntetés-végrehajtási szervek tevékenységének közegészségügyi ellenőrzésével összefüggésben az egészségügyi államigazgatási szerv által hozott döntéssel szemben nincs helye fellebbezésnek.
+(7a)
 
-(7b) Az egészségügyi államigazgatási szerv által a következő hatósági ügyekben hozott első fokú döntésekkel szemben fellebbezésnek van helye:
-
-- a) ivóvízbiztonsági engedély kiadása,
-- b) további vizsgálatokra kötelezés, ha a hatóság az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben foglaltak szerint egy már nyilvántartásban lévő anyagot, terméket vagy ivóvízbiztonsági engedéllyel rendelkező technológiát közegészségügyi szempontból kockázatosnak ítél meg,
-- c) természetes gyógytényezőkkel kapcsolatos hatósági ügyek,
-- d) víz természetes ásványvízként való elismerése,
-- e) harmadik országból származó természetes ásványvíz elismerése,
-- f) egészségügyi, egészségvédelmi és kémiai terhelési bírság kiszabása.
+(7b)
 
 (8) Az ivóvízbiztonsággal, az ivóvíz vizsgálatával, valamint a természetes gyógytényezőkkel, természetes ásványvizekkel kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak.
 

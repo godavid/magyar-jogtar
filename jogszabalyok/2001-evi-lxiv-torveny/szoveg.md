@@ -1271,7 +1271,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 
 (2) Egybefoglalt örökségvédelmi engedélyezési eljárás folytatható le egymással összefüggő, de eltérő tárgyú örökségvédelmi tevékenységek esetében jogszabályban meghatározottak szerint.
 
-75/C. § A hatóság által hozott döntéssel szemben nincs helye fellebbezésnek.
+#### 75/C. §
 
 ### A kulturális örökség elemeinek hozzáférhetővé tétele
 

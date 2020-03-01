@@ -87,7 +87,7 @@ látja el.
 
 (6) A kikötő létesítésével, fennmaradásával, továbbá az úszólétesítmény építési (átépítési) terveinek felülvizsgálatával és jóváhagyásával, valamint a komp- és révátkelőhely létesítésével és fennmaradásával, üzemben tartásával kapcsolatos ügyekben az ügyintézési határidő 30 nap.
 
-(7) Az országos illetékességgel eljáró fővárosi és megyei kormányhivatal által első fokon meghozott hajózási hatósági döntéssel szemben fellebbezésnek van helye.
+(7)
 
 5. § A hajózással kapcsolatos rendőrhatósági és határrendészeti tevékenységet a rendészetért felelős miniszter és a határrendészetért felelős miniszter – a rendőrség vízirendészeti feladatokat ellátó szervei útján – a vízirendészettel és a víziközlekedéssel kapcsolatos rendőri feladatokról szóló jogszabályban foglaltak alapján látja el.
 
@@ -100,7 +100,7 @@ látja el.
 
 5/B. § A veszélyes áru szállításának és a szállításhoz kapcsolódó tevékenységnek a hatósági ellenőrzése kizárólag hivatalból indul, az ügyfél saját maga hatósági ellenőrzés alá vonását nem kérheti.
 
-5/C. § A területi szinten hozott elsőfokú, azonnali eljárási cselekményt tartalmazó hatósági döntéssel szemben fellebbezésnek van helye.
+5/C. §
 
 6. § (1) A hajózás egészségügyi és közegészségügyi-járványügyi hatósági felügyeletét az egészségügyért felelős miniszter – az egészségügyi államigazgatási szerv útján – látja el.
 

@@ -620,9 +620,9 @@ gyakorolja.
 
 #### 44. § [A jogorvoslati jogkör]
 
-(1) A kormányhivatal jogosult a fellebbezés elbírálására és az Ákr.-ben a felügyeleti szervre ruházott jogkörök gyakorlására, ha az elsőfokú hatóság a járási hivatal vagy a helyi önkormányzat államigazgatási hatáskörben eljáró jegyzője, főjegyzője.
+(1) A kormányhivatal jogosult az Ákr.-ben a felügyeleti szervre ruházott jogkörök gyakorlására, ha a járási hivatal vagy a települési önkormányzat jegyzője, fővárosban a kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző, a polgármesteri hivatal és a közös önkormányzati hivatal ügyintézője (a továbbiakban együtt: jegyző), valamint a polgármester, a főpolgármester, a megyei közgyűlés elnöke (a továbbiakban együtt: polgármester) államigazgatási hatáskörben jár el.
 
-(2) A járási hivatal vagy a helyi önkormányzat jegyzője, főjegyzője államigazgatási hatáskörébe tartozó döntés tekintetében az (1) bekezdéstől eltérően törvény vagy kormányrendelet más hatóságot jelölhet ki a fellebbezés elbírálására és a felügyeleti jogkör gyakorlására.
+(2) A járási hivatal, a jegyző vagy a polgármester államigazgatási hatáskörébe tartozó döntés tekintetében az (1) bekezdéstől eltérően törvény vagy kormányrendelet más hatóságot jelölhet ki a felügyeleti jogkör gyakorlására.
 
 #### 45. § [A véleményezés]
 
@@ -650,7 +650,7 @@ A kormányhivatal véleményezi – a rendvédelmi szervek, valamint az állami 
 
 (4) Az egyszerűsített hatósági ellenőrzési hatáskörében eljárva a járási hivatal az e törvényben és az egyszerűsített hatósági ellenőrzésre vonatkozó kormányrendeletben meghatározott eljárási szabályokat alkalmazza.
 
-(5) A járási hivatal egyszerűsített hatósági ellenőrzési hatáskörben hozott döntésével szemben fellebbezésnek nincs helye.
+(5)
 
 #### 48. § [Egyéb feladat- és hatáskörök]
 
@@ -771,6 +771,10 @@ hozható létre, azzal, hogy részmunkaidőben történő foglalkoztatás eseté
 (1) A kormányzati igazgatási szerv az alaplétszámába tartozó valamennyi álláshelyet köteles betölteni.
 
 (2) Ha az álláshely hat hónapon át betöltetlen, azt a Kormány – a rendeletében meghatározottak szerint – határozatával a központosított álláshelyállományba helyezi.
+
+(2a) Ha a kormányzati igazgatási szerv feladatainak ellátásához szükséges, a Kormány – a (2) bekezdésben foglaltaktól eltérően – mellőzheti a hat hónapon át betöltetlen álláshelynek a központosított álláshelyállományba helyezését azzal, hogy ebben az esetben a (2) bekezdés szerinti időtartam számítása újrakezdődik.
+
+(2b) A (2) bekezdés szerinti időtartamot az álláshelyen létrehozott jogviszony a jogviszony kezdetének napjától számított 21. napon szakítja meg. Ez irányadó akkor is, ha az álláshely betöltésére az 59. § vagy a 89. § (6) bekezdésének alkalmazásával kerül sor azzal, hogy ezekben az esetekben az álláshely betöltése a kinevezés módosításától számított 21. napon szakítja meg a (2) bekezdés szerinti időtartamot.
 
 (3) A (2) bekezdés alkalmazásában nem minősül betöltetlennek az az álláshely, amelyen foglalkoztatott kormánytisztviselő
 

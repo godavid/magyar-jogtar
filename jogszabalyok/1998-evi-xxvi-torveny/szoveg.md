@@ -351,7 +351,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (2) A vakok személyi járadéka 2013. június 1-jétől havi 16 160 forint összegben jár. A kincstár a 2013. június hónapra járó vakok személyi járadékát a jogosultak számára már emelt összegben folyósítja. A vakok személyi járadékát 2014. január 1-jétől a társadalombiztosítási nyugellátásról szóló törvénynek a nyugellátások évenkénti rendszeres emelésére vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell.
 
-29/B. § Felhatalmazást kap a Kormány, hogy a fogyatékossági támogatás ügyében első- és másodfokon eljáró fogyatékossági támogatási szervet, a fogyatékossági támogatást folyósító szervet, valamint a nyilvántartást vezető szervet rendeletben jelölje ki.
+29/B. § Felhatalmazást kap a Kormány, hogy a fogyatékossági támogatás ügyében eljáró fogyatékossági támogatási szervet, a fogyatékossági támogatást folyósító szervet, valamint a nyilvántartást vezető szervet rendeletben jelölje ki.
 
 30. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 

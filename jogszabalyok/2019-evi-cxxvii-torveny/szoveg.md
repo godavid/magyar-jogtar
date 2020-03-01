@@ -44,9 +44,21 @@ az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésé
 
 11. §
 
-#### 11.
+#### 11. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-12. §
+12. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény a 180/A. §-t követően a következő „Gyermek átadása kapcsolattartásra vonatkozó határozat végrehajtása esetén” című alcímmel egészül ki:
+
+„Gyermek átadása kapcsolattartásra vonatkozó határozat végrehajtása esetén
+
+180/B. § (1) A végrehajtó a végrehajtási költségek előlegezésének bevárása nélkül haladéktalanul a helyszíni eljárásra időpontot tűz, és erről értesíti a kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárás kérelmezőjét és kérelmezettjét, valamint a gyámhatóságot és a rendőrséget. A kérelmezőnek a gyermek átadásánál jelen kell lennie. Ha az eljárás eredménytelen, a végrehajtó a következő helyszíni eljárásra kitűzött időpontról rövid úton küld értesítést az előzőekben felsoroltaknak.
+
+(2) A végrehajtó a kérelmezett tartózkodási helyén – ha a gyermek nem tartózkodik ott, a gyermek tartózkodási helyén – a gyámhatóság és a rendőrség közreműködésével foganatosítja az átadást. E rendelkezés alkalmazása szempontjából lakó- és tartózkodási hely a polgárok személyi és lakcím adatait tartalmazó nyilvántartásba bejelentett lakóhely és tartózkodási hely, továbbá a be nem jelentett, akár életvitelszerű, akár ideiglenes vagy alkalomszerű tartózkodásra szolgáló hely.
+
+(3) A kérelmezett az eljárás késleltetése nélkül köteles a gyermek személyes iratait, a gyermek által a kapcsolattartás során használt tárgyakat, a szükséges ruházati cikkeket, a rendszeres tanulmányok folytatásához nélkülözhetetlen eszközöket, a gyermek betegsége vagy testi fogyatékossága miatt szükséges gyógyszereket, gyógyászati és technikai segédeszközöket a kérelmezőnek átadni.
+
+(4) A végrehajtó az eljárása kezdetén tájékoztatja a kérelmezettet a (3) bekezdésben foglalt kötelezettségéről.
+
+(5) A végrehajtó indítványára a rendőrség az 5. § (3) bekezdése szerint eltávolíthatja a gyermek átadásának helyszínéről azokat a személyeket, akik a gyermek átadását akadályozzák. A rendőrség intézkedésének igénybevételére a végrehajtó előzetesen figyelmezteti az érintetteket, ennek tényét – amely tartalmazza indokolt esetben a rendbírság kiszabására teendő indítványra történő figyelmeztetést is – jegyzőkönyvben rögzíti.”
 
 #### 12.
 
@@ -186,9 +198,11 @@ lép.
 
 45. §
 
-#### 39.
+#### 39. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
-46. §
+46. § A kisajátításról szóló 2007. évi CXXIII. törvény 37/C. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A kisajátítási hatóság végzését közigazgatási perben a kérelmező és a szakértő támadhatja meg.”
 
 #### 40. A bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló 2010. évi CLXXXIV. törvény módosítása
 
@@ -553,9 +567,14 @@ lép.
 
 168. §
 
-#### 58.
+#### 58. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-169. §
+169. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény
+
+- a) 4:183. § (2) bekezdésében a „gyámhatóság” szövegrész helyébe a „bíróság polgári nemperes eljárásban” szöveg,
+- b) 4:185. §-ában a „végrehajtásáról a gyámhatóság gondoskodik” szövegrész helyébe a „végrehajtását a bíróság polgári nemperes eljárásban rendeli el” szöveg
+
+lép.
 
 #### 59. A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény módosítása
 
@@ -682,7 +701,13 @@ lép.
 
 212. §
 
-213. §
+213. § A Kp. 40. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek és a § a következő (2a) bekezdéssel egészül ki:
+
+„(1) A keresetlevelet a benyújtástól számított harminc napon belül kell az ügy irataival együtt a hatáskörrel és illetékességgel rendelkező bírósághoz továbbítani. Többfokú közigazgatási eljárásban hozott cselekmény esetében az elsőfokon eljárt közigazgatási szerv a keresetlevelet a benyújtástól számított tizenöt napon belül az ügy irataival együtt felterjeszti a másodfokon eljárt közigazgatási szervhez, amely azokat a benyújtástól számított harminc napon belül továbbítja a bírósághoz. A járási (fővárosi kerületi) hivatal eljárásában hozott cselekmény esetében a járási (fővárosi kerületi) hivatal a keresetlevelet a benyújtástól számított tizenöt napon belül az ügy irataival együtt felterjeszti a fővárosi és megyei kormányhivatalhoz, amely azokat a benyújtástól számított harminc napon belül továbbítja a bírósághoz.
+
+(2) Ha a keresetlevél azonnali jogvédelem iránti kérelmet is tartalmaz, a keresetlevelet a benyújtástól számított öt, többfokú közigazgatási eljárásban hozott cselekmény, illetve a járási (fővárosi kerületi) hivatal eljárása esetén – a benyújtástól számított három napon belüli felterjesztést követően – nyolc napon belül kell az ügy irataival együtt a bírósághoz továbbítani.
+
+(2a) Jogszabály kötelezővé teheti, hogy valamely ügyben a keresetlevél benyújtásáról a felügyeleti szervet értesíteni kell.”
 
 214. §
 
@@ -748,7 +773,7 @@ lép.
 - 12.
 - 13.
 - 14.
-- 15.
+- 15. 131. § (1) bekezdésében a „védiratot a keresetlevél” szövegrész helyébe a „védiratot – a 40. § (2) bekezdésében meghatározott kivétellel – a keresetlevél” szöveg,
 - 16.
 - 17.
 - 18.
@@ -782,9 +807,109 @@ lép.
 
 246. §
 
-#### 74.
+#### 74. A bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény módosítása
 
-247. §
+247. § (1) A bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény a következő 7/A. alcímmel egészül ki:
+
+„7/A. A kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárás
+
+22/A. § (1) A bíróság vagy a gyámhatóság által a kapcsolattartásra vonatkozó határozatban, továbbá a bíróság vagy a gyámhatóság által jóváhagyott kapcsolattartást rendező egyezségben (a továbbiakban: a kapcsolattartásra vonatkozó határozat) foglaltak megszegése esetén a kapcsolattartásra vonatkozó határozatban foglaltak végrehajtásának elrendelése e törvény szerinti eljárásban kérhető. A bíróság a kapcsolattartásra vonatkozó határozat végrehajtását – végrehajtható okirat kiállítása nélkül – végzéssel rendeli el. E végzés elleni fellebbezésnek nincs halasztó hatálya.
+
+(2) A kapcsolattartásra vonatkozó határozat végrehajtását a Ptk. szerint kapcsolattartásra jogosult és kapcsolattartásra kötelezett személy kérheti.
+
+(3) Az eljárás járásbíróság hatáskörébe tartozik.
+
+(4) Az eljárás lefolytatására az a bíróság illetékes, amelynek területén a kapcsolattartással érintett gyermek belföldi lakóhelye, ennek hiányában belföldi tartózkodási helye található.
+
+(5) Ha az illetékes bíróság a (4) bekezdés alapján nem állapítható meg, az eljárásra a Budai Központi Kerületi Bíróság az illetékes.
+
+22/B. § (1) A kapcsolattartásra vonatkozó határozat végrehajtása iránti kérelemben fel kell tüntetni
+
+a) az eljáró bíróságot és azokat az adatokat, amelyekből a bíróság illetékessége – ha az ügyben külföldi elem van, joghatósága – megállapítható,
+
+b) a kérelmező nevét, lakóhelyét, továbbá a kérelem előterjesztésére való jogosultság jogcímét,
+
+c) a kérelmezett nevét, lakóhelyét továbbá egyéb, az azonosításához szükséges adatot,
+
+d) a kapcsolattartással érintett gyermek, gyermekek adatait,
+
+e) a kapcsolattartásra vonatkozó határozatot kibocsátó bíróság vagy gyámhatóság megnevezését, a határozat számát,
+
+f) annak leírását, hogy a kapcsolattartás megszegése milyen magatartással vagy mulasztással valósult meg vagy milyen egyéb tevékenység vagy mulasztás akadályozza vagy zavarja a kapcsolattartást,
+
+g) a kapcsolattartásra vonatkozó határozat végrehajtásának elrendelése iránti határozott kérelmet.
+
+(2) A kérelmező a kapcsolattartásra vonatkozó határozat végrehajtása iránti kérelemben kérheti, hogy a bíróság kötelezze a kérelmezettet a kapcsolattartás megszegése folytán keletkezett igazolt költségeinek viselésére.
+
+(3) A kérelmet a kapcsolattartásra vonatkozó határozatban foglaltak megszegésétől vagy annak a kérelmező tudomására jutásától számított 30 napon belül lehet előterjeszteni. A határidőt az elmaradt kapcsolattartás pótlása esetén a kapcsolattartás pótlására megállapított legközelebbi megfelelő időpont lejártától kell számítani.
+
+(4) A kapcsolattartásra vonatkozó határozatban foglaltak megszegésének minősül, ha a kapcsolattartásra jogosult vagy kötelezett neki felróható okból
+
+a) határidőben nem tesz eleget kapcsolattartási kötelezettségének,
+
+b) a határozatban megállapított határidő alatt nem pótolja az elmaradt kapcsolattartást,
+
+c) a kapcsolattartást kellő indok nélkül akadályozza vagy
+
+d) egyéb módon meghiúsítja a gyermekkel való zavartalan kapcsolattartást.
+
+22/C. § (1) A bíróság a kapcsolattartásra vonatkozó határozat végrehajtásának elrendelése tárgyában szükség esetén meghallgatást tart. A meghallgatásra szabályszerűen megidézetteknek a távolmaradása a meghallgatás megtartását és a végrehajtás elrendelése tárgyában való döntés meghozatalát nem gátolja.
+
+(2) Ha a bíróság megállapítja, hogy a kérelmezett megszegte a kapcsolattartásra vonatkozó határozatban foglaltakat, elrendeli a végrehajtást. A bíróság a végrehajtást elrendelő végzésben a kérelmezettet felhívja, hogy
+
+a) a végzés kézhezvételét követően esedékes kapcsolattartásnak a kapcsolattartásra vonatkozó határozat szerinti időpontban és módon tegyen eleget,
+
+b) a kapcsolattartásra jogosultnak fel nem róható okból elmaradt kapcsolattartás pótlását a legközelebbi megfelelő időpontban, de legkésőbb hat hónapon belül biztosítsa, és megjelöli a pótlás végső határidejét vagy
+
+c) ha a kapcsolattartásnak egyéb, a kapcsolattartásra jogosultnak fel nem róható akadálya volt, annak elhárulását követően biztosítsa a gyermekkel való zavartalan kapcsolattartást.
+
+(3) A végrehajtást elrendelő végzésben figyelmeztetni kell a kérelmezettet a felhívás nemteljesítésének 22/D. § (2) bekezdése szerinti jogkövetkezményeire.
+
+(4) A bíróság erre irányuló kérelem esetén kötelezi a kérelmezettet a kapcsolattartásra vonatkozó határozatban foglaltak megszegése folytán keletkezett igazolt költségek viselésére.
+
+(5) Ha a kapcsolattartásra vonatkozó határozat végrehajtása elrendelésének feltételei nem állnak fenn, a bíróság a kérelmet elutasítja. A végzés ellen fellebbezésnek van helye.
+
+22/D. § (1) A bíróság a végrehajtást elrendelő végzést azzal a felhívással küldi meg a kérelmezőnek, hogy az önkéntes teljesítésre kitűzött határidő eltelte után annak teljesítéséről vagy elmaradásáról értesítse a bíróságot.
+
+(2) A teljesítés elmaradása esetén a bíróság
+
+a) megkeresi a gyámhatóságot, hogy a család- és gyermekjóléti intézményrendszer bevonásával mozdítsa elő a kérelmezett teljesítését,
+
+b) a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 174. § c) pontja szerinti pénzbírságot szabhat ki,
+
+c) a kapcsolattartás szabályainak rendszeres és visszatérő megszegése esetén a gyermek rendőrség közreműködésével történő, a Vht. 180/B. § szerinti átadását rendelheti el,
+
+d) megkeresheti a gyámhatóságot a szülői felügyeleti jog rendezése vagy a gyermek harmadik személynél történő elhelyezése iránt per megindítása érdekében, feltéve, hogy az a kiskorú gyermek érdekében áll, és azt a szülő vagy harmadik személy is kéri vagy
+
+e) feljelentést tehet kiskorú veszélyeztetése vagy kiskorúval való kapcsolattartás akadályozása miatt.
+
+(3) A bíróság a végrehajtásnak a (2) bekezdésben felsorolt azt a módját köteles elrendelni, amely – az ügy körülményeit figyelembe véve – a leghatékonyabban mozdítja elő a kötelezettség teljesítését. A (2) bekezdés d) és e) pontjában foglalt intézkedések a (2) bekezdés a), b) vagy c) pontjában foglalt intézkedés mellett is elrendelhetők.
+
+(4) A bíróság a (2) bekezdésben foglalt intézkedések közül egyszerre többnek az alkalmazását is elrendelheti. Ha a kérelmezett a pénzbírságot kiszabó végzésben megállapított határidő alatt sem teljesítette a kötelezettségét, a pénzbírság ismételten kiszabható.
+
+(5) A bíróság a (2) bekezdésben foglalt intézkedések elrendeléséről végzéssel határoz. A végzés elleni fellebbezésnek nincs halasztó hatálya.
+
+(6) A (2) bekezdés c) pontja szerinti intézkedés elrendelése esetén a bíróság a végzést elektronikus úton haladéktalanul megküldi a Magyar Bírósági Végrehajtói Kar hivatali szervének.
+
+22/E. § (1) Ha a kapcsolattartás a 14. életévét betöltött gyermek akaratnyilvánítása miatt hiúsul meg, a bíróság a kapcsolattartásra vonatkozó határozat végrehajtását felfüggeszti, feltéve, ha
+
+a) a kapcsolattartásra jogosult és kötelezett – kérelemre vagy a bíróság elrendelése alapján – közvetítői eljárást vesz igénybe vagy
+
+b) a kapcsolattartásra jogosult vagy kötelezett a kapcsolattartás megváltoztatását, korlátozását vagy megvonását kéri a gyámhatóságtól.
+
+(2) Az eljárás felfüggesztésére
+
+a) az (1) bekezdés a) pontja szerinti esetben a közvetítői eljárás befejezéséig, legfeljebb azonban a közvetítői eljárás megindulását követő két hónapig,
+
+b) az (1) bekezdés b) pontja szerinti esetben a kapcsolattartás megváltoztatására vagy megvonására irányuló eljárás befejezéséig
+
+kerül sor.
+
+(3) Ha az (1) bekezdés a) vagy b) pontja szerinti eljárás eredményesen befejeződik, a bíróság a végrehajtási eljárást megszünteti.”
+
+(2) A bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény a következő 25. §-sal egészül ki:
+
+„25. § E törvénynek az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított 7/A. alcímét a 2020. március 1-jén vagy az azt követően indult eljárásokban kell alkalmazni. A 2020. február 29. napján folyamatban lévő ügyeket a 2020. március 1-jét megelőzően hatályos szabályok alapján hatáskörrel és illetékességgel rendelkező szerv intézi el.”
 
 #### 75. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 

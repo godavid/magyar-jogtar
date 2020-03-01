@@ -803,11 +803,11 @@ jár el.
 
 (4) Az e törvényen, valamint a felhatalmazása alapján kiadott rendeleten alapuló hatósági eljárásban egy okiratba foglalható a határozat és a végzés, illetve több határozat vagy végzés. Az egy okiratba foglalt döntések rendelkező részét és indokolását döntésenként önállóan kell megszövegezni.
 
-45. § (1) A kötelezett a teljesítési határidő lejárta előtt benyújtott kérelmében annak igazolásával kérheti az elsőfokú állami foglalkoztatási szervtől a pénzfizetési kötelezettség teljesítésére fizetési kedvezmény engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene.
+45. § (1) A kötelezett a teljesítési határidő lejárta előtt benyújtott kérelmében annak igazolásával kérheti az állami foglalkoztatási szervtől a pénzfizetési kötelezettség teljesítésére fizetési kedvezmény engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene.
 
 (2) A határidő lejárta után a kötelezett – feltéve, hogy a végrehajtást még nem indították meg – az (1) bekezdésben meghatározott okból igazolási kérelem egyidejű benyújtásával kérhet fizetési kedvezményt.
 
-(3) Az (1) bekezdésben foglalt fizetési kedvezménnyel kapcsolatos elsőfokú végzés ellen önálló fellebbezésnek van helye.
+(3)
 
 46. § (1) Az állami foglalkoztatási szerv ellenőrzi az e törvény, valamint a felhatalmazása alapján kiadott jogszabályok rendelkezéseinek betartását, valamint az azok alapján hozott végrehajtható döntésben foglaltak teljesítését.
 
@@ -986,7 +986,7 @@ köt a támogatásban részesülővel hatósági szerződést.
 
 (2)
 
-(3) Az e törvényben és a felhatalmazása alapján kiadott jogszabályban meghatározott ügyekben mérlegelési jogkörben hozott határozat ellen kérelem alapján akkor van helye fellebbezésnek, ha a kérelem elutasítására a jogszabályban meghatározott feltételek hiánya miatt került sor, vagy a határozatot hozó szerv a mérlegelési jogkör gyakorlására irányadó jogszabályban meghatározott szabályokat megsértette.
+(3)
 
 (4)
 

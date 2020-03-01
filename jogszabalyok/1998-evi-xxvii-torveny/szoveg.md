@@ -59,7 +59,7 @@ terjed ki.
 
 (4)
 
-(5) Az e törvény hatálya alá tartozó eljárásokban az eljáró hatóság elsőfokú döntését akkor is módosíthatja vagy visszavonhatja, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
+(5) Az e törvény hatálya alá tartozó eljárásokban az eljáró hatóság döntését akkor is módosíthatja vagy visszavonhatja, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
 
 (6) A bíróság az egészségügyi géntechnológiai hatóság, valamint a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság (a továbbiakban együtt: géntechnológiai hatóság) közigazgatási cselekményét nem változtathatja meg.
 

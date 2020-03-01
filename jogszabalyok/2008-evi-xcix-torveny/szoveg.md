@@ -134,7 +134,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - e)
 - f) ellátja a törvényben vagy törvény felhatalmazása alapján más jogszabályban meghatározott egyéb feladatokat.
 
-(2) A kijelölt szerv döntése ellen nincs helye fellebbezésnek.
+(2)
 
 (3) A kijelölt szerv által végzett nyilvántartási, igazgatási és szolgáltatási tevékenységért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 

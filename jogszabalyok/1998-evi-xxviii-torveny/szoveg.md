@@ -593,7 +593,7 @@ eb után.
 
 45/C. § Az e törvény alapján elkobzott állat tulajdonjoga törvény eltérő rendelkezése hiányában az államra száll.
 
-46. § Az állatvédelmi hatóság döntésével szemben nincs helye fellebbezésnek.
+46. § Az állatvédelmi hatósági hatáskörben eljáró települési önkormányzat jegyzőjének, fővárosban a kerületi önkormányzat jegyzőjének, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőnek döntésével szemben nincs helye fellebbezésnek.
 
 47. §
 

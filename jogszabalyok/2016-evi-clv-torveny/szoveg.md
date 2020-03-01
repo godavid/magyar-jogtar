@@ -528,9 +528,9 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - b) a jogsértő magatartás ismétlődését és gyakoriságát,
 - c) a jogsértést elkövető gazdasági súlyát.
 
-(5) A fővárosi és megyei kormányhivatal az (1) bekezdés szerinti eljárásban hozott, önálló jogorvoslattal támadható döntésével szemben fellebbezésnek van helye.
+(5)
 
-(6) Az (5) bekezdés szerinti fellebbezés elbírálására, valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti eljárás lefolytatására a közigazgatás-szervezésért felelős miniszter jogosult.
+(6) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti eljárás lefolytatására a közigazgatás-szervezésért felelős miniszter jogosult.
 
 33. § (1) A fővárosi és megyei kormányhivatal – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül – közigazgatási bírsággal sújtja azt a jogi személyt vagy személyiségi joga szerint jogképes szervezetet, amely kötelező adatszolgáltatás esetén a valóságnak nem megfelelő adatot szolgáltat vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
 
@@ -544,9 +544,9 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - b) a jogsértő magatartás ismétlődését és gyakoriságát,
 - c) a jogsértést elkövető gazdasági súlyát.
 
-(5) A fővárosi és megyei kormányhivatal az (1) bekezdés szerinti eljárásban hozott, önálló jogorvoslattal támadható döntésével szemben fellebbezésnek van helye.
+(5)
 
-(6) Az (5) bekezdés szerinti fellebbezés elbírálására, valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti eljárás lefolytatására a közigazgatás-szervezésért felelős miniszter jogosult.
+(6) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti eljárás lefolytatására a közigazgatás-szervezésért felelős miniszter jogosult.
 
 34. § (1) A Hivatalos Statisztikai Szolgálat statisztikai adatfelvételt végrehajtó tagja a honlapján nyilvánosságra hozhatja a 32. § (1) bekezdés a) és b) pontjában, valamint a 33. § (1) bekezdésében meghatározottak alapján elmarasztalt jogi személy és személyiségi joga szerint jogképes szervezet adatszolgáltató nevét, székhelyét, telephelyét, adószámát és a kiszabott bírság összegét, ha a véglegessé vált hatósági határozat hozatalára sor került, feltéve, hogy a határozat elleni közigazgatási per jogerősen lezárult, illetve a közigazgatási per megindítására nyitva álló határidő eredménytelenül letelt. Ebben az esetben az elmarasztalt adatszolgáltató adatai a közigazgatási per megindítására nyitva álló határidő eredménytelen lejártát követő naptól, illetve a közigazgatási per jogerős lezárását követő naptól, a hatósági határozat hatályában fenntartott része vonatkozásában hozhatók nyilvánosságra.
 

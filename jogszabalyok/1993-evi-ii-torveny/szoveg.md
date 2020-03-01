@@ -124,7 +124,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (4) Az ingatlanügyi hatóság az adott szövetkezetet érintő valamennyi földkiadással kapcsolatos ingatlan-nyilvántartási bejegyzésről az utolsó határozat véglegessé válását követő két hónapon belül értesíti a mezőgazdasági igazgatási szervet. A mezőgazdasági igazgatási szerv az értesítés alapján határozattal dönt a kártalanításról.
 
-(5) A kártalanítási eljárásban hozott határozatot közölni kell az ingatlanügyi hatósággal. A határozat ellen fellebbezésnek helye nincs.
+(5) A kártalanítási eljárásban hozott határozatot közölni kell az ingatlanügyi hatósággal.
 
 (6)
 
@@ -238,7 +238,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 10. § (1) A föld, tanya körüli föld kiadása, illetőleg a részarány-tulajdon helyének meghatározása során tulajdonba kerülő föld korábbi tulajdonosa, használója által közölt, az egyes földrészleteket terhelő meliorációs, művelési és egyéb, a termőföld AK értékében ki nem fejezett — így különösen a szövetkezet üzletrésztőkéjében meghatározott, ültetvény telepítéséből eredő — értéknövekedést eredményező beruházási költségeket a földkiadó bizottság a tulajdonos kérelmére ellenőrzi. A tényleges értéknövekedést eredményező költségeket a mezőgazdasági igazgatási szerv állapítja meg. A föld tulajdonba adásáról, továbbá az értékkülönbözet megfizetésére történő kötelezésről külön határozatot kell hozni.
 
-(2) A költségek megtérítésére vonatkozó rendelkezés ellen fellebbezésnek nincs helye.
+(2)
 
 ### A földkiadó bizottság határozata
 
@@ -283,9 +283,9 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2) Az (1) bekezdésben meghatározott ingatlanok közül a védett vagy védelemre tervezett természeti területhez tartozók a Magyar Állam tulajdonába és a védett természeti területek természetvédelmi kezeléséért felelős szerv vagyonkezelésébe kerülnek.
 
-(3) Az (1) bekezdésben meghatározott földrészletek önkormányzati tulajdonba kerüléséről az ingatlanügyi hatóság dönt. A határozat ellen a polgármester, illetőleg a főpolgármester a döntés közlésétől számított két hónapon belül fellebbezhet.
+(3) Az (1) bekezdésben meghatározott földrészletek önkormányzati tulajdonba kerüléséről az ingatlanügyi hatóság dönt.
 
-(4) Fellebbezés hiányában az ingatlanügyi hatóság az önkormányzat tulajdonjogát a határozat alapján hivatalból bejegyzi.
+(4) Az ingatlanügyi hatóság az önkormányzat tulajdonjogát a határozat alapján hivatalból bejegyzi.
 
 12/B. § (1) Ha a földkiadó bizottság a részarány-tulajdonost jegyzőkönyvbe foglalt döntéssel vagy bizonyíthatóan más módon birtokba helyezte, de erről az ingatlan-nyilvántartásba való bejegyzésre alkalmas okiratot nem adott ki – feltéve, hogy a birtokolt terület AK értéke a tulajdonos jogos igényét nem haladja meg, és a birtokba helyezés más részarány-tulajdonos kérelmének teljesítését nem sérti –, az okiratot a mezőgazdasági igazgatási szerv határozattal pótolja.
 
@@ -307,9 +307,9 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2) Az (1) bekezdésben meghatározott utak közül a védett vagy védelemre tervezett természeti területhez tartozók a Magyar Állam tulajdonába és a védett vagy védelemre tervezett természeti területen működő igazgatóság vagyonkezelésébe kerülnek.
 
-(3) Az utak önkormányzati tulajdonba kerüléséről az ingatlanügyi hatóság dönt. A határozat ellen a polgármester, illetőleg a főpolgármester a döntés közlésétől számított két hónapon belül fellebbezhet.
+(3) Az utak önkormányzati tulajdonba kerüléséről az ingatlanügyi hatóság dönt.
 
-(4) Fellebbezés hiányában az ingatlanügyi hatóság az önkormányzat tulajdonjogát a határozat alapján hivatalból bejegyzi.
+(4) Az ingatlanügyi hatóság az önkormányzat tulajdonjogát a határozat alapján hivatalból bejegyzi.
 
 (5) Ha az út a kárpótlási földalapot is érinti, az (1)–(4) bekezdés szerint kell eljárni.
 

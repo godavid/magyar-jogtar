@@ -833,7 +833,7 @@ kapcsolatban.
 
 (10) A munkavédelmi hatósági eljárásban a kapcsolattartás formáját a hatóság választja meg.
 
-85. § A munkavédelmi hatóság által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
+#### 85. §
 
 86. § (1) A munkavédelmi hatóság hatósági jogköre nem terjed ki
 

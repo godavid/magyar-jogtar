@@ -981,7 +981,7 @@ aki a 47/B. § (2) bekezdése a)–k) pontjában meghatározott tevékenységek 
 
 (2) Az élelmiszerlánc-felügyelet hatósági eljárásával kapcsolatos perben egyezség nem köthető.
 
-#### 39/A. §
+39/A. § Ha az élelmiszerlánc-felügyeleti szerv országos illetékességgel eljárva hozott döntést, a döntésével szemben indított közigazgatási perben a Fővárosi Törvényszék kizárólagosan illetékes.
 
 40. § (1) Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek forgalombahozatali, felhasználási engedélyezési és engedélymódosítási eljárása során az engedély megadásáról tizenkét hónapon belül, a növényvédő szernek nem minősülő növényvédelmi hatású termékek, védőanyagok, kölcsönhatás-fokozók, segédanyagok, hatásjavítók, növényvédelmi célú eszközök és anyagok, makroszervezetek és mikroorganizmusok forgalombahozatali, felhasználási engedélyezési és engedélymódosítási eljárása során az engedély megadásáról tizennégy hónapon belül dönt.
 
@@ -1522,7 +1522,7 @@ vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előíráso
 
 (7) Ha a kötelezés jellege megengedi, az élelmiszerlánc-felügyeleti szerv részletekben történő teljesítést is megállapíthat.
 
-(8) A kötelezett a teljesítési határidő lejárta előtt benyújtott kérelmében annak igazolásával kérheti az elsőfokú hatóságtól a pénzfizetési kötelezettség teljesítésére halasztás vagy a részletekben történő teljesítés engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene.
+(8) A kötelezett a teljesítési határidő lejárta előtt benyújtott kérelmében annak igazolásával kérheti a hatóságtól a pénzfizetési kötelezettség teljesítésére halasztás vagy a részletekben történő teljesítés engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene.
 
 (9) A határidő lejárta után a kötelezett – feltéve, hogy a végrehajtást még nem indították meg – a (9) bekezdésben meghatározott okból igazolási kérelem egyidejű benyújtásával kérhet fizetési kedvezményt.
 
