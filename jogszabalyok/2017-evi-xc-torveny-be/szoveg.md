@@ -10867,7 +10867,7 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 
 (2) Az e törvény hatálybalépésekor folyamatban lévő határidőket a korábbi jogszabály szerint kell számolni.
 
-(3) A korábbi jogszabály alapján előterjesztett panasz, felülbírálati indítvány, fellebbezés vagy egyéb indítvány elbírálását e törvény hatálybalépése után a nyomozó hatóság, az ügyészség, illetve a bíróság mellőzi, és erről az előterjesztőt tájékoztatja, ha e törvény alapján nincs helye panasz, felülbírálati indítvány, fellebbezés vagy egyéb indítvány előterjesztésének, vagy annak címzettje e törvény alapján nem jogosult a döntésre.
+(3) A korábbi jogszabály alapján előterjesztett panasz, felülbírálati indítvány vagy egyéb indítvány elbírálását e törvény hatálybalépése után a nyomozó hatóság, az ügyészség, illetve a bíróság mellőzi, és erről az előterjesztőt tájékoztatja, ha e törvény alapján nincs helye panasz, felülbírálati indítvány vagy egyéb indítvány előterjesztésének, vagy annak címzettje e törvény alapján nem jogosult a döntésre.
 
 (4) E törvénynek az igazolási kérelem előterjesztésének határidejére vonatkozó szabályát e törvény hatálybalépését követően történt mulasztás esetében kell alkalmazni.
 
