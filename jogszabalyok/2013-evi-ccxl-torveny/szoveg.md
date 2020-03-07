@@ -173,7 +173,9 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 
 (5) A kifizetés
 
-- a) az elítéltnek vagy az egyéb jogcímen fogvatartottnak a megjelölt számlaszámra utalással, illetve ha fogva van – kérelmére – letéti számlájára való átutalással,
+- a) az alapvető jogokat sértő elhelyezési körülmények tárgyában hozott határozat alapján az elítélt vagy egyéb jogcímen fogvatartott részére
+  - aa) – ha fogva van – a büntetés-végrehajtási intézet által kezelt letéti számlájára való átutalással,
+  - ab) szabadlábra helyezését követően kizárólag olyan fizetési számlára való átutalással, amelynek számlatulajdonosa és a számla feletti kizárólagos rendelkezési jogosultja az elítélt vagy egyéb jogcímen fogvatartott,
 - b) a polgári jogi igény vagy a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultjának a megjelölt számlaszámra utalással vagy készpénzben
 
 történik.
@@ -6076,6 +6078,10 @@ a büntetés-végrehajtási bíró ezen eljárások befejezéséig, illetve az E
 - b) az indítvány, illetve a kérelem,
 
 2018. június 30. napjáig a bíróságra beérkezett.
+
+(14) A börtönzsúfoltsági kártalanításokkal kapcsolatos visszaélések megszüntetése érdekében szükséges haladéktalan intézkedésekről szóló 2020. évi IV. törvény hatálybalépését követően az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítási igény tárgyában hozott határozatban megítélt kártalanítási összeg 2020. június 15-ig nem fizethető ki. E bekezdés szerinti felfüggesztés időtartama a 70/B. § (6) bekezdésében foglalt időtartamba nem számít bele.
+
+(15) A börtönzsúfoltsági kártalanításokkal kapcsolatos visszaélések megszüntetése érdekében szükséges haladéktalan intézkedésekről szóló 2020. évi IV. törvény hatálybalépését megelőzően az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítási igény tárgyában hozott határozat a meghozatalakor hatályos szabályok szerint teljesítendő.
 
 ### Hatályon kívül helyező rendelkezés
 
