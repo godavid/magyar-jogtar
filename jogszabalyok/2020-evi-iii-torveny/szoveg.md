@@ -14,7 +14,7 @@ a polgári légi közlekedés szabályairól szóló EKLT-megállapodás I. mell
 
 (2) Az Európai Közösség és tagállamai és az Albán Köztársaság, a Bolgár Köztársaság, Bosznia és Hercegovina, az Egyesült Nemzetek Ideiglenes Koszovói Közigazgatási Missziója, a Horvát Köztársaság, az Izlandi Köztársaság, Macedónia Volt Jugoszláv Köztársaság, a Montenegrói Köztársaság, a Norvég Királyság, Románia és a Szerb Köztársaság között európai közös légtér létrehozásáról szóló többoldalú megállapodásnak az EKLT vegyes bizottság 1/2019 határozatával egységes szerkezetbe foglalt, hiteles magyar nyelvű szövegének közzétételéről a miniszter gondoskodik.
 
-5. § Hatályát veszti az Európai Közösség és tagállamai, valamint Albánia, Bosznia és Hercegovina, Bulgária, az Egyesült Nemzetek Ideiglenes Koszovói Közigazgatási Missziója, Horvátország, Izland, Macedónia Volt Jugoszláv Köztársaság, Montenegró, Norvégia, Románia és Szerbia között létrejött, az európai közös légtér (EKLT) létrehozására irányuló többoldalú Megállapodás módosításának kihirdetéséről szóló 2009. évi CIII. törvény.
+5. §
 
 ### 1. melléklet a 2020. évi III. törvényhez
 
