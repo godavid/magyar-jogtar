@@ -1244,7 +1244,9 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 - f) a közművek elhelyezésének,
 - g) zöldfelületek kialakításának biztosítása.
 
-(5) A közterületet rendeltetésének megfelelően bárki használhatja. A közterület rendeltetésére és használatára jogszabály további szabályokat állapíthat meg.
+(5) A közterületet – az (5a) bekezdésben foglaltak figyelembevételével – rendeltetésének megfelelően bárki használhatja. A közterület rendeltetésére és használatára jogszabály további szabályokat állapíthat meg.
+
+(5a) Amennyiben a közterület használatára törvényben vagy a Kormány rendeletében kiemelten közérdekű beruházássá nyilvánított olyan építési beruházással összefüggésben kerül sor, amely legalább 50%-ban központi költségvetési támogatásból valósul meg, úgy a beruházás megvalósítója – legfeljebb törvényben vagy a Kormány rendeletében meghatározott időtartamra – a helyi önkormányzat tulajdonában álló közterületet díjmentesen használhatja.
 
 (6) Amennyiben elosztóvezeték vagy elosztóhálózat létesítéséhez vagy felújításához a közterület tulajdonosának, kezelőjének nyilatkozata, hozzájárulása vagy jóváhagyása szükséges a közterület igénybevételével, felbontásával kapcsolatban, és arra az elosztó nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni.
 
@@ -1585,6 +1587,10 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 - e) a területfelhasználási egységre vagy építési övezetre a helyi építési szabályzatban – a fővárosban a 14/A. § (2) bekezdés b)–d) pontja szerinti településrendezési eszközökben – megállapított maximális lakásszámba a tetőtér-beépítéssel létrejött lakás nem számít bele, és
 - f) a tetőtér-beépítésekre és az épület belső udvarának lefedésére vonatkozóan e törvény felhatalmazása alapján kiadott kormányrendelet további előírásokat állapíthat meg, amelyeknél szigorúbb követelményeket a helyi építési szabályzat – a fővárosban a 14/A. § (2) bekezdés b)–d) pontja szerinti településrendezési eszközök – nem állapíthat meg.
 
+60/I. § (1) E törvénynek a közérdekű cél megvalósítását szolgáló beruházásokkal összefüggésben egyes törvények módosításáról szóló 2020. évi VI. törvénnyel (a továbbiakban: Mód3. tv.) megállapított 54. § (5) és (5a) bekezdését a Mód3. tv. hatálybalépésekor folyamatban lévő beruházásokra is alkalmazni kell, azzal, hogy a Mód3. tv. hatálybalépése napján hatályos közterület-használat tárgyában kötött szerződés vagy közigazgatási hatósági engedély, illetve közterület-használati hozzájárulás esetében a közterület díjmentes használata a közterület használatának feltétlenül szükséges időtartamát megállapító jogszabály hatálybalépésének napjától illeti meg a beruházót.
+
+(2) Amennyiben az (1) bekezdésben meghatározott szabályozás alapján meghatározott díjmentes használat időszakára díjfizetés történt, akkor a befizetett díjat vissza kell fizetni.
+
 61. § (1) Ahol jogszabály
 
 - a) általános rendezési tervet említ, azon településszerkezeti tervet,
@@ -1699,6 +1705,10 @@ rendeletben állapítsa meg.
 
 - a) a fővárosi kerületi önkormányzat, hogy 2014. június 30-ig a fővárosi településszerkezeti terv területfelhasználásnak megfelelő egyéb alkalmazható keretövezetnek megfelelő építési övezetet, övezetet állapítson meg,
 - b) a fővárosi önkormányzat, hogy 2014. június 30-ig, amennyiben a keretövezet változtatása szükséges, a fővárosi szabályozási kerettervet módosítsa.
+
+### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+
+62/A. § Az 54. § (5) és (5a) bekezdése, valamint a 60/I. § az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogának való megfelelés
 
