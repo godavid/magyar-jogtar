@@ -316,7 +316,9 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 28. § (1) A helyi önkormányzati képviselő (a továbbiakban: önkormányzati képviselő) megbízatása, jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
 
-(2) Az önkormányzati képviselő a képviselő-testület alakuló ülésén, időközi választás esetén a megválasztását követő ülésen a képviselő-testület előtt az 1. melléklet szerinti szöveggel esküt tesz és erről okmányt ír alá.
+(2) Ha a listáról megválasztott önkormányzati képviselő nem veszi át a megbízólevelét, jelöltként továbbra is a listán marad. A lista alapján a helyi önkormányzati képviselők következő általános választásáig a helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 21. § (2) bekezdése alapján képviselői megbízatást szerezhet, ha a megbízólevelét át nem vevő jelöltön kívül a listán szereplő valamennyi jelölt kiesett.
+
+(3) Az önkormányzati képviselő a képviselő-testület alakuló ülésén, időközi választás esetén a megválasztását követő ülésen a képviselő-testület előtt az 1. melléklet szerinti szöveggel esküt tesz és erről okmányt ír alá.
 
 29. § (1) Az önkormányzati képviselő megbízatása megszűnik:
 
@@ -393,13 +395,14 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - a) országgyűlési képviselő, valamint aki olyan tisztséget tölt be, olyan feladatot lát el, amelyre kinevezését, megbízatását az Országgyűléstől, köztársasági elnöktől, Kormánytól, Kormány tagjától vagy az Országgyűlés, Kormány alárendeltségébe tartozó szervtől (vezetőjétől) kapta, kivéve
   - aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet lát el, illetve nevelőszülői foglalkoztatási jogviszonyban áll;
   - ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szakképző intézmény vezetője, foglalkoztatottja vagy a szakképző intézmény tekintetében fenntartói irányítási hatáskört gyakorló szerv vezetője, foglalkoztatottja, felsőoktatási intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
+  - ac) az állam által alapított vagy tulajdoni részesedésével működő gazdálkodó szervezet felügyelőbizottságának vagy ügyvezetésének tagja;
 - b) központi államigazgatási szerv vezetője, köztisztviselője;
 - c) kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
 - d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, az Országgyűlési Őrség vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja;
 - e) jegyző (főjegyző), aljegyző, továbbá ugyanazon önkormányzat polgármesteri hivatalának vagy közös önkormányzati hivatalának köztisztviselője, alkalmazottja;
 - f) más települési önkormányzatnál képviselő;
 - g) más települési önkormányzatnál polgármester, alpolgármester;
-- h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével működő gazdasági társaság, továbbá a helyi önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság legfőbb szervének – kivéve, ha a gazdasági társaság legfőbb szerve a képviselő-testület –, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja;
+- h) a helyi önkormányzat által alapított vagy tulajdoni részesedésével működő gazdasági társaság, továbbá a helyi önkormányzat tulajdoni részesedésével működő gazdasági társaság által alapított gazdasági társaság legfőbb szervének – kivéve, ha a gazdasági társaság legfőbb szerve a képviselő-testület – tagja, személyes közreműködője, képviselet ellátására jogosultja;
 - i) médiatartalom-szolgáltató természetes személy, jogi személy, gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.
 
 (2) A települési önkormányzati képviselő nem lehet a megyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
@@ -748,7 +751,13 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 72. § (1) A 3000 fő és az az alatti lakosságszámú település polgármesterének, valamint a 3000 fő feletti település társadalmi megbízatású polgármesterének összeférhetetlenségére a 36. §-t kell alkalmazni.
 
-(2) A 3000 fő feletti lakosságszámú település főállású polgármestere – a tudományos, oktatói, lektori, szerkesztői, művészeti, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, nem lehet gazdasági társaság személyesen közreműködő tagja.
+(2) A 3000 fő feletti lakosságszámú település főállású polgármestere
+
+- a) a tudományos, oktatói, lektori, szerkesztői, művészeti, jogi oltalom alá eső szellemi tevékenység,
+- b) a nevelőszülői foglalkoztatási jogviszony, valamint
+- c) az egészségügyi tevékenység végzésére irányuló jogviszony – ide nem értve az egészségügyi alapellátásban végzett tevékenységet –
+
+kivételével egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, nem lehet gazdasági társaság személyesen közreműködő tagja.
 
 (3)
 
@@ -1524,7 +1533,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, valamint a 146/F. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, valamint a 146/H. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 
@@ -1558,6 +1567,10 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 (2) Ha a polgármesteri hivatal, körjegyzőség megszűnésének időpontjában a jegyző, körjegyző felmentési védelem alatt áll, akkor a jegyző, körjegyző jogviszonyának megszüntetéséről szóló intézkedést – eltérő megállapodás hiányában – a megszűnt polgármesteri hivatalt, körjegyzőséget alkotó önkormányzatok polgármesterei legkorábban a felmentési védelem lejártát követő napon hozhatják meg. E rendelkezéseket a közszolgálati jogviszonyban állókra megfelelően alkalmazni kell azzal az eltéréssel, hogy – eltérő megállapodás hiányában – a munkáltatói intézkedést az érintett jegyző hozza meg.
 
 146/F. § Azon 3000 fő és ez alatti lakosságszámú település polgármesterére, akivel szemben az összeférhetetlenség a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2016. évi CLXXXV. törvény hatálybalépését megelőző napon hatályos 72. § (2) bekezdése alapján merült fel, az összeférhetetlenség jogkövetkezményeit nem kell alkalmazni.
+
+146/G. § E törvénynek a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2020. évi VII. törvénnyel (a továbbiakban: Módtv.) megállapított 28. § (2) bekezdését a helyi önkormányzati képviselők és polgármesterek 2019. október 13-i választásán listáról mandátumot szerzett, de arról a Módtv. hatálybalépését megelőzően lemondott önkormányzati képviselő esetén is alkalmazni kell akkor, ha a lemondott jelöltön vagy jelölteken kívül a listán szereplő valamennyi jelölt kiesett.
+
+146/H. § E törvénynek a Módtv.-vel megállapított 72. § (2) bekezdés c) pontját a Módtv. hatálybalépését megelőzően megválasztott polgármesterre is alkalmazni kell.
 
 ### Módosító rendelkezések
 
