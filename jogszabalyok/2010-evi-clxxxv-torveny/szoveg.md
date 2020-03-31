@@ -3227,7 +3227,8 @@ a Biztos hivatalánál panasszal élhet.
 - a) előkészíti a Médiatanács feladat- és hatáskörébe tartozó ügyeket,
 - b) előkészíti a médiaszolgáltatási jogosultságok pályázati eljárását, nyilvános meghallgatást tart,
 - c) piaci elemző, értékelő, illetve más vizsgálati tevékenységet folytat a műsorfigyelő és -elemző szolgálat által,
-- d) egyéb, törvényben meghatározott – nem hatósági – feladatokat lát el.
+- d) az adatok végleges hozzáférhetetlenné tételét lehetővé tevő alkalmazás biztosításával kapcsolatban térítésmentes szolgáltatást nyújt a fogyasztók részére,
+- e) egyéb, törvényben meghatározott – nem hatósági – feladatokat lát el.
 
 ### V. Fejezet — A JOGSÉRTÉS ESETÉN ALKALMAZHATÓ JOGKÖVETKEZMÉNYEK
 
@@ -3671,6 +3672,11 @@ rendeletben megállapítsa.
 (3a) Felhatalmazást kap a Kormány, hogy a JBE lineáris audiovizuális médiaszolgáltató legnagyobb éves átlagos közönségarányú lineáris audiovizuális médiaszolgáltatásáért járó programdíj fizetésének szabályait rendeletben állapítsa meg.
 
 (3b)
+
+(3c) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+- a) az adatok végleges hozzáférhetetlenné tételét biztosító alkalmazás igénybevételével összefüggő eljárási szabályokat,
+- b) az általános adatvédelmi rendelet alapján fennálló adattörlési kötelezettséget biztosító szoftver fejlesztését követően a minősített tanúsítvány kiadására kijelölt jogi személyt, továbbá a minősítés feltételeit.
 
 (4) Felhatalmazást kap a kultúráért felelős miniszter, hogy a kiadványokon az impresszum feltüntetésére vonatkozó részletes szabályokat rendeletben szabályozza.
 
