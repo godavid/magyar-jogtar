@@ -1917,7 +1917,7 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 
 (2) A bírósági felülvizsgálat iránti kérelemről a bíróság legkésőbb a beérkezésétől számított harmadik napon dönt. A bírósági eljárásban a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni.
 
-229. § (1) A bírósági felülvizsgálati kérelmet a másodfokú határozatot hozó választási bizottság székhelye szerint illetékes ítélőtábla bírálja el. A Nemzeti Választási Bizottság határozata ellen benyújtott bírósági felülvizsgálati kérelmet a Kúria bírálja el.
+229. § (1) A bírósági felülvizsgálati kérelmet Kúria bírálja el. A Nemzeti Választási Bizottság határozata ellen benyújtott bírósági felülvizsgálati kérelmet a Kúria bírálja el.
 
 (2) A bíróság a bírósági felülvizsgálat iránti kérelemről nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz.
 
@@ -1989,7 +1989,7 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 
 (3) Ha a helyi választási iroda vezetője a fellebbezésnek helyt ad, a névjegyzéket módosítja.
 
-(4) Ha a helyi választási iroda vezetője a fellebbezésnek nem ad helyt, a fellebbezést legkésőbb az elbírálására rendelkezésre álló határidő utolsó napján felterjeszti a járásbírósághoz.
+(4) Ha a helyi választási iroda vezetője a fellebbezésnek nem ad helyt, a fellebbezést legkésőbb az elbírálására rendelkezésre álló határidő utolsó napján felterjeszti a törvényszékhez.
 
 (5) A bíróság a fellebbezésről legkésőbb a beérkezését követő tizenötödik napon, a választás kitűzését követően meghozott döntés esetén a beérkezését követő három napon belül, de legkésőbb a szavazást megelőző napon dönt. A bírósági eljárásban az ügyvédi képviselet nem kötelező. A bíróság egyesbíróként jár el.
 
@@ -2009,7 +2009,7 @@ küldött megkeresésében tájékoztatást ad a képviselő választójogának 
 
 240. § (1) A választási bizottságnak a szavazólap adattartalmának jóváhagyásával kapcsolatos határozata ellen nincs helye fellebbezésnek.
 
-(2) A választási bizottságnak a szavazólap adattartalmának jóváhagyásával kapcsolatos határozata elleni bírósági felülvizsgálati kérelmet úgy kell benyújtani, hogy az legkésőbb a választási bizottság határozatának meghozatalát követő napon megérkezzen a megtámadott határozatot hozó választási bizottsághoz. A bírósági felülvizsgálati kérelmet a választási bizottság székhelye szerinti ítélőtábla, a Nemzeti Választási Bizottság esetén a Kúria bírálja el. A bíróság a bírósági felülvizsgálati kérelemről legkésőbb a felterjesztését követő napon dönt.
+(2) A választási bizottságnak a szavazólap adattartalmának jóváhagyásával kapcsolatos határozata elleni bírósági felülvizsgálati kérelmet úgy kell benyújtani, hogy az legkésőbb a választási bizottság határozatának meghozatalát követő napon megérkezzen a megtámadott határozatot hozó választási bizottsághoz. A bírósági felülvizsgálati kérelmet a Kúria bírálja el. A bíróság a bírósági felülvizsgálati kérelemről legkésőbb a felterjesztését követő napon dönt.
 
 #### 105. A választás eredménye elleni jogorvoslat
 
@@ -3024,6 +3024,8 @@ alapján megállapítja a választás eredményét.
 353. § 2013-ban az országgyűlési képviselők időközi választását nem lehet kitűzni szeptember 1-jét követő napra.
 
 353/A. § E törvénynek az egyes választásokkal kapcsolatos törvények módosításáról szóló 2018. évi XXXVI. törvénnyel megállapított rendelkezéseit a hatálybalépését követően kitűzött választásokon kell alkalmazni.
+
+353/B. § E törvénynek az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított rendelkezéseit a 2020. január 1-jét követően kitűzött választásokon kell alkalmazni.
 
 #### 172. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

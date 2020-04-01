@@ -322,7 +322,7 @@ a központi vezetés saját kezdeményezésére, vagy legalább két tagállamba
 
 23. § (1) Az európai üzemi tanács létesítésére, a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljárás kialakítására irányuló megállapodással, valamint az európai üzemi tanácsra, a különleges tárgyaló testület, európai üzemi tanács és tagjainak e törvényben szabályozott jogaira és kötelezettségeire vonatkozó törvényi rendelkezésekkel kapcsolatos, az 1. § (3) bekezdésében felsoroltak és az európai üzemi tanács, annak az európai üzemi tanács tagjai, a munkavállalók, az üzemi tanács, valamint a szakszervezet közötti jogvitában a bíróság tizenöt napon belül nemperes eljárásban határoz.
 
-(2) Az (1) bekezdésben foglalt eljárásra a központi vezetés székhelye, illetve az irányított vezetés, a képviselet, valamint az 1. § (3) bekezdésének d) pontjában meghatározott vállalkozás, illetve telephely szerinti közigazgatási és munkaügyi bíróság illetékes.
+(2) Az (1) bekezdésben foglalt eljárásra a központi vezetés székhelye, illetve az irányított vezetés, a képviselet, valamint az 1. § (3) bekezdésének d) pontjában meghatározott vállalkozás, illetve telephely szerinti munkaügyi perben eljáró bíróság illetékes.
 
 23/A. § (1) A 6/A. § és az abból fakadó kötelezettségek kivételével e törvényt nem kell alkalmazni azokra a közösségi szinten működő vállalkozásokra, illetve vállalkozáscsoportokra, amelyek esetében
 

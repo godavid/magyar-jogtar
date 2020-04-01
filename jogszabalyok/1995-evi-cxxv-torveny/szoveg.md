@@ -543,7 +543,7 @@ terheli.
 
 (5) Az elmulasztott határnaptól számított 30 napon belül igazolási kérelmet lehet előterjeszteni.
 
-(6) A miniszter határozata elleni perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes. A bíróság a határozatot nem változtathatja meg.
+(6) A közigazgatási per indításának előfeltétele a panasz kimerítése. A perre a Fővárosi Törvényszék kizárólagosan illetékes. A bíróság a miniszter döntését nem változtathatja meg.
 
 ### A nemzetbiztonsági szolgálatok adatkezelése
 
@@ -1301,7 +1301,7 @@ iránt intézkedik.
 
 (9) A nemzetbiztonsági ellenőrzés alá eső személy a miniszter döntésével szemben, annak kézhezvételétől számított 15 napon belül panasszal élhet a Bizottságnál.
 
-(10) Ha a Bizottság a panaszt elutasítja és a nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) vagy (4a) bekezdése, a 71/C. § (9) bekezdése vagy a 72/B. § (8) vagy (8a) bekezdése alapján szüntették meg, a nemzetbiztonsági ellenőrzés alá eső személy a Bizottság döntésének kézhezvételétől számított 15 napon belül támadhatja meg a miniszter döntését. A közigazgatási pert a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény ellen benyújtott panaszt elbíráló miniszter ellen kell megindítani. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(10) Ha a Bizottság a panaszt elutasítja és a nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) vagy (4a) bekezdése, a 71/C. § (9) bekezdése vagy a 72/B. § (8) vagy (8a) bekezdése alapján szüntették meg, a nemzetbiztonsági ellenőrzés alá eső személy a Bizottság döntésének kézhezvételétől számított 15 napon belül támadhatja meg a miniszter döntését. A közigazgatási pert a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény ellen benyújtott panaszt elbíráló miniszter ellen kell megindítani. A perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
 (11) A (10) bekezdés szerinti közigazgatási per megindításának joga azt a hivatásos szolgálati viszonyban állót is megilleti, akit a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján beosztás alóli felmentésével egyidejűleg rendelkezési állományba helyeztek.
 

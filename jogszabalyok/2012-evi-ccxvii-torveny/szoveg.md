@@ -570,7 +570,7 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 
 (2) A végleges döntésben megállapított teljesítési határidő eredménytelen elteltét követően a hatóság a számlavezetési díj behajtása érdekében megkeresi az állami adó- és vámhatóságot, és a meg nem fizetett számlavezetési díj 10%-ával megegyező mértékű bírságot szab ki.
 
-34/B. § A klímavédelemért felelős hatóság döntése elleni perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+34/B. § A klímavédelemért felelős hatóság döntése elleni perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
 #### 14. Felügyeleti díj
 

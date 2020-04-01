@@ -102,7 +102,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (2) A nyilatkozat elfogadása esetén az állampolgársági ügyekben eljáró szerv bizonyítványban igazolja az állampolgárság megszerzését.
 
-(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozattal szemben indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes.
+(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozattal szemben indított közigazgatási perre a Fővárosi Törvényszék illetékes.
 
 ### Hatásköri szabályok, eskü és fogadalom
 
@@ -112,7 +112,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (3) A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és az állampolgársági ügyekben eljáró szerv a névmódosítást engedélyezi – a névmódosításnak megfelelő névvel kell kiadni. A honosítási okiratot – ha a 20/A. § szerinti eljárásra sor kerül, és az állampolgársági ügyekben eljáró szerv a névmódosítási kérelmet elutasítja vagy ha a 20/A. § szerinti eljárásra nem kerül sor – a honosítást kérő külföldi nevével kell kiadni.
 
-7. § (1) A honosított, illetőleg a visszahonosított (a továbbiakban együtt: honosított) személy választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat a honosított a lakóhelye szerint illetékes polgármester előtt, illetve a 4. § (3), (3a) (6) és (7) bekezdésének, illetve az 5. § hatálya alá tartozó honosított választása szerint a polgármester vagy a magyar külképviselet vezetője előtt teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat. A cselekvőképtelen személy nevében az esküt vagy fogadalmat a törvényes képviselője teszi le.
+7. § (1) A honosított, illetőleg a visszahonosított (a továbbiakban együtt: honosított) személy választása szerint állampolgársági esküt vagy fogadalmat tesz. Az esküt vagy a fogadalmat a honosított a lakóhelye szerint illetékes polgármester előtt, illetve a 4. § (3), (3a) (6) és (7) bekezdésének, illetve az 5. § hatálya alá tartozó honosított választása szerint a polgármester vagy a magyar külképviselet vezetője előtt teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat. A cselekvőképtelen személy nevében az esküt vagy fogadalmat a törvényes képviselője teszi le. Az eskü vagy fogadalom letételénél a magyar külképviselet vezetője helyett az általa kijelölt konzuli tisztviselő is eljárhat.
 
 (2) A honosított a magyar állampolgárságot az eskü vagy fogadalom letételének napján szerzi meg. Az eskütétel, illetve fogadalomtétel tényét és napját a honosítási okiraton fel kell tüntetni.
 
@@ -139,7 +139,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (2) Ha az (1) bekezdésben megállapított feltételek fennállnak, az állampolgársági ügyekben eljáró szerv javaslatára a miniszter előterjesztést tesz a köztársasági elnöknek a lemondás elfogadására. A magyar állampolgárság lemondással való megszűnéséről a köztársasági elnök okiratot ad ki. A magyar állampolgárság az okirat kiállítása napján szűnik meg.
 
-(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a lemondás elfogadásának feltételei hiányoznak. A határozattal szemben indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes.
+(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a lemondás elfogadásának feltételei hiányoznak. A határozattal szemben indított közigazgatási perre a Fővárosi Törvényszék illetékes.
 
 (4) A lemondás elfogadásától számított három éven belül kérheti a köztársasági elnöktől magyar állampolgárságának visszaállítását az, aki nem szerzett külföldi állampolgárságot.
 
@@ -147,7 +147,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 9. § (1) A magyar állampolgárság visszavonható attól a személytől, aki magyar állampolgárságát a jogszabályok megszegésével, így különösen valótlan adatok közlésével, illetve adatok vagy tények elhallgatásával a hatóságot félrevezetve szerezte meg. Nincs helye a visszavonásnak a magyar állampolgárság megszerzésétől számított húsz év elteltével.
 
-(2) Az állampolgárság visszavonására okot adó tény fennállását az állampolgársági ügyekben eljáró szerv határozattal állapítja meg. A határozattal szemben indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes.
+(2) Az állampolgárság visszavonására okot adó tény fennállását az állampolgársági ügyekben eljáró szerv határozattal állapítja meg. A határozattal szemben indított közigazgatási perre a Fővárosi Törvényszék illetékes.
 
 (3) A magyar állampolgárság visszavonással történő megszüntetéséről — a miniszter előterjesztése alapján — a köztársasági elnök dönt.
 
@@ -181,7 +181,7 @@ igazolható.
 - e) a döntéshozatal helyét, idejét, a kiadmányozó nevét, hivatali beosztását és a hatóság bélyegzőlenyomatát,
 - f) az állampolgársági bizonyítvány érvényességi idejét.
 
-(4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozattal szemben indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes.
+(4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozattal szemben indított közigazgatási perre a Fővárosi Törvényszék illetékes.
 
 (5) Az állampolgársági bizonyítvány kiadására irányuló eljárásban újrafelvételi kérelem nem nyújtható be.
 
