@@ -2098,6 +2098,8 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 
 125. § (1) Az Országgyűlési Őrség feladata az Országgyűlés védelme, függetlenségének és külső befolyástól mentes működésének biztosítása, tárgyalási rendjének fenntartásával összefüggő, az e törvényben meghatározott személyvédelmi, létesítménybiztosítási feladatok biztosítása, protokolláris díszelgési, valamint az elsődleges tűzoltási és tűzbiztonsági feladatok ellátása.
 
+(1a) Az Országgyűlési Őrség közreműködik a kiemelt nemzeti emlékhely méltóságának megőrzésében és a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartásában.
+
 (2) Az Országgyűlési Őrség
 
 - a) ellátja a házelnök személyvédelmét,
@@ -2105,10 +2107,13 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 - c) az Országgyűlés Hivatalával együttműködve biztosítja az Országház, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek területére történő belépés és az ott-tartózkodás rendjére vonatkozó szabályok betartását,
 - d) az Országházban, az Országgyűlés Irodaházában, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben gondoskodik a jogszabályokban meghatározott tűzbiztonsági követelmények megtartásáról, valamint a tevékenységi körükkel kapcsolatos veszélyhelyzetek megelőzésének és elhárításának a feltételeiről,
 - e) ellátja a tárgyalási rend fenntartásával kapcsolatos, e törvényben meghatározott feladatokat,
-- f) protokolláris díszelgési feladatokat lát el, és
-- g) elvégzi a részére törvényben, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat.
+- f) a kiemelt nemzeti emlékhely méltóságának megőrzése, valamint a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartása érdekében járőr- és őrszolgálatot lát el,
+- g) protokolláris díszelgési feladatokat lát el, és
+- h) elvégzi a részére törvényben, valamint az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő egyéb feladatokat.
 
 (3) A (2) bekezdés a) és b) pontjában meghatározott feladatokat az Országgyűlési Őrség kizárólagos hatáskörrel és országos illetékességgel látja el, a feladatok végrehajtásába azonban – együttműködési megállapodás vagy felkérés alapján – más szerveket is bevonhat.
+
+(4) A (2) bekezdés f) pontjában meghatározott feladatokat az Országgyűlési Őrség a közterület rendjének fenntartásában feladat- és hatáskörrel rendelkező szervek tevékenységét támogatva hajtja végre.
 
 126. § Az Országgyűlési Őrség feladatai ellátása során együttműködik a rendőrséggel, a nemzetbiztonsági szolgálatokkal, a hivatásos katasztrófavédelmi szervekkel, a Magyar Honvédséggel, valamint a helyi önkormányzatokkal.
 
@@ -2196,13 +2201,13 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 
 #### 43/A. Az Országgyűlési Őrség adatkezelési tevékenysége
 
-137. § (1) Az Országgyűlési Őrség a 125. § (1) és (2) bekezdésében meghatározott feladatai ellátása során az intézkedéssel érintett személy családi nevét és utónevét, születési helyét és idejét, anyja születési családi és utónevét, – nem magyar állampolgár esetében az állampolgárságát is –, személyazonosításra alkalmas hatósági igazolvány okmányazonosítóját, lakcímét, értesítési címét, valamint az intézkedéssel összefüggő adatait kezeli.
+137. § (1) Az Országgyűlési Őrség a 125. § (1)–(2) bekezdésében meghatározott feladatai ellátása során az intézkedéssel érintett személy családi nevét és utónevét, születési helyét és idejét, anyja születési családi és utónevét, – nem magyar állampolgár esetében az állampolgárságát is –, személyazonosításra alkalmas hatósági igazolvány okmányazonosítóját, lakcímét, értesítési címét, valamint az intézkedéssel összefüggő adatait kezeli.
 
-(2) Az Országgyűlési Őrség – az (1) bekezdésben meghatározott személyes adatok kezelésén túl – a 125. § (2) bekezdés a), b), c) és e) pontjában meghatározott feladatai ellátása során az intézkedéssel érintett személyről, a környezetéről, továbbá az intézkedés szempontjából lényeges körülményről, tárgyról képfelvételt, hangfelvételt, kép- és hangfelvételt (a továbbiakban együtt: felvétel) készít.
+(2) Az Országgyűlési Őrség – az (1) bekezdésben meghatározott személyes adatok kezelésén túl – a 125. § (2) bekezdés a), b), c), e) és f) pontjában meghatározott feladatai ellátása során az intézkedéssel érintett személyről, a környezetéről, továbbá az intézkedés szempontjából lényeges körülményről, tárgyról képfelvételt, hangfelvételt, kép- és hangfelvételt (a továbbiakban együtt: felvétel) készít.
 
 (3) Az Országgyűlési Őrség a 125. § (2) bekezdés a) pontjában meghatározott feladata ellátása során a házelnök szállítására használt gépjármű külső környezete megfigyelésére képfelvevő eszközt alkalmaz és képfelvételt készít.
 
-(4) Az Országgyűlési Őrség elektronikus megfigyelőrendszer működtetése útján képfelvételt a 125. § (2) bekezdés a), b), c) és e) pontjában meghatározott feladatai ellátásának támogatása, az Országház, az Országgyűlés Irodaháza, az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek, valamint a házelnök tartózkodási helye biztosítása, a létesítményekben tartózkodók biztonsága, az őrzésbiztonsági feltételek ellenőrzése, a rendkívüli események megelőzése, következményeinek elhárítása és kivizsgálásának elősegítése, a jogsértések észlelése és megelőzése, az elkövető tettenérése céljából készít, illetve kezel.
+(4) Az Országgyűlési Őrség elektronikus megfigyelőrendszer működtetése útján képfelvételt a 125. § (2) bekezdés a), b), c), e) és f) pontjában meghatározott feladatai ellátásának támogatása, az Országház, az Országgyűlés Irodaháza, az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek, valamint a házelnök tartózkodási helye biztosítása, a létesítményekben tartózkodók biztonsága, az őrzésbiztonsági feltételek ellenőrzése, a rendkívüli események megelőzése, következményeinek elhárítása és kivizsgálásának elősegítése, a jogsértések észlelése és megelőzése, az elkövető tettenérése céljából készít, illetve kezel.
 
 (5) A (4) bekezdés szerinti elektronikus megfigyelőrendszer kialakítása során kamera nem helyezhető el olyan helyen, ahol a megfigyelés és az adatrögzítés
 
@@ -2249,7 +2254,7 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 138. § (1) Az országgyűlési őr a feladata ellátása során
 
 - a) az Országház, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületek területén a személyazonosság megállapítása céljára a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározott személyazonosság igazolására alkalmas hatósági igazolványt, vagy ha a belépő személy nem magyar állampolgár vagy a személyazonosításra alkalmas okmányt nem magyar hatóság állította ki, akkor a személyazonosság megállapítására alkalmas okmányt, valamint az Országházba, az Országgyűlés Irodaházába, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületekbe való belépésre jogosító okmányt fogadja el,
-- b) megállapíthatja annak a személyazonosságát, akinek ez a házelnök személyvédelme érdekében, a belépési jogosultság igazolásához, a közbiztonság, az Országházban, az Országgyűlés Irodaházában, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben tartózkodók védelme céljából szükséges.
+- b) megállapíthatja annak a személyazonosságát, akinek ez a házelnök személyvédelme érdekében, a belépési jogosultság igazolásához, a közbiztonság, a kiemelt nemzeti emlékhely méltóságának megőrzése, a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartása, az Országházban, az Országgyűlés Irodaházában, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben tartózkodók védelme céljából szükséges.
 
 (2) Az (1) bekezdés b) pontja esetén az országgyűlési őr minden olyan hatósági igazolványt elfogad, amely tartalmazza a személyazonosításhoz szükséges adatokat. A személyazonosság megállapításával érintett személy a személyazonosság megállapítására alkalmas okmányok közül egy bemutatására kötelezhető. Az országgyűlési őr más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja igazolásként.
 
@@ -2267,7 +2272,7 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 #### 46. Közlekedésrendészeti intézkedés
 
-140. § Az országgyűlési őr személyvédelmi és létesítménybiztosítási feladatai céljából
+140. § Az országgyűlési őr személyvédelmi, létesítménybiztosítási, járőr- és őrszolgálati feladatai céljából
 
 - a) a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti, valamint
 - b) az üzemben tartó, illetve a használó személyazonosító adatainak megállapítása érdekében járművet feltartóztathat, az abban tartózkodók személyazonosságát megállapíthatja.
@@ -2320,7 +2325,7 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a házelnök véleményének kikérésével rendeletben szabályozza
 
-- a) az Országgyűlési Őrség szolgálati szabályzatát, ennek részeként az intézkedések, a kényszerítő eszközök alkalmazásának részletes szabályait, a személyvédelmi és létesítménybiztonsági feladatokat, az elsődleges tűzoltási és tűzbiztonsági feladatokat, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a magatartási szabályokat, a más keresőfoglalkozás lehetőségét, a rendszeresített munkakörök átminősítésének rendjét,
+- a) az Országgyűlési Őrség szolgálati szabályzatát, ennek részeként az intézkedések, a kényszerítő eszközök alkalmazásának részletes szabályait, a személyvédelmi és létesítménybiztonsági feladatokat, az elsődleges tűzoltási és tűzbiztonsági feladatokat, a járőr- és őrszolgálati feladatokat, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a magatartási szabályokat, a más keresőfoglalkozás lehetőségét, a rendszeresített munkakörök átminősítésének rendjét,
 - b) az országgyűlési őr képesítési követelményeit,
 - c) az Országgyűlési Őrség egyenruházati szabályzatát,
 - d) az Országgyűlési Őrség által használt kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat, valamint a rendszeresíthető kényszerítő eszközök típusát, fajtáját.

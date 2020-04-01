@@ -354,7 +354,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (6) A klímavédelmi bírság kiszabása nem mentesít a büntetőjogi, polgári jogi és közigazgatási jogi felelősség alól.
 
-10/J. § A klímavédelemért felelős hatóság döntése elleni perre a Fővárosi Közigazgatási- és Munkaügyi Bíróság kizárólagosan illetékes.
+10/J. § A klímavédelemért felelős hatóság döntése elleni perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
 ### Részvétel nemzetközi rugalmassági mechanizmusokban és klímapolitikai célkitűzések végrehajtásában
 

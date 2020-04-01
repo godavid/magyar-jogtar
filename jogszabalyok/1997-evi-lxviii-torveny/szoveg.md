@@ -72,7 +72,7 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 - c) az egyéb igazságügyi szerv vezetője, vezetőjének helyettese, valamint az egyéb igazságügyi szerv igazságügyi alkalmazottai tekintetében – a 8/A. § (1) bekezdésében meghatározott kivétellel – jogszabályban meghatározott személy
 - d)
 - e) a járásbírósági fogalmazók és titkárok, a bírósági ügyintézők, a végrehajtási ügyintézők tekintetében a törvényszék elnöke,
-- f) az egyéb igazságügyi alkalmazottak tekintetében az igazságügyi szerv vezetője (a továbbiakban együtt: munkáltató) gyakorolja.
+- f) az egyéb igazságügyi alkalmazottak tekintetében – ha törvény eltérően nem rendelkezik – az igazságügyi szerv vezetője (a továbbiakban együtt: munkáltató) gyakorolja.
 
 (2) A munkáltató a munkáltatói jogok részben vagy egészben való gyakorlását a helyettesére vagy más vezető beosztású alkalmazottra – írásban – átruházhatja.
 
@@ -597,7 +597,7 @@ nem haladhatja meg.
 
 (2) Az OBH-ba beosztott bírósági titkár tekintetében a munkáltatói jogkört az OBH elnöke gyakorolja.
 
-(3) A bírósági titkár a hivatali tevékenysége során köteles végrehajtani az OBH elnökének intézkedéseit, utasításait.
+(3) Az OBH-ba beosztott bírósági titkár a hivatali tevékenysége során köteles végrehajtani az OBH elnökének intézkedéseit, utasításait.
 
 (4) A hivatali beosztás megszűnését követően a bírósági titkárt a hivatali tevékenységét megelőző szolgálati helyére kell beosztani.
 
@@ -607,26 +607,37 @@ nem haladhatja meg.
 
 42/B. § (1) A bírósági titkárt az OBH elnöke az igazságügyért felelős miniszter által vezetett minisztériumba (a továbbiakban: minisztérium) a jogszabályok előkészítésében történő részvétel, kegyelmi ügyek intézése vagy egyéb igazságügyi munkatapasztalatot igénylő feladat ellátása céljából beoszthatja. A beosztáshoz a bírósági titkár hozzájárulása szükséges.
 
-(2) A minisztériumba beosztott bírósági titkár tekintetében – a fegyelmi eljárás elrendelésének és lefolytatásának, valamint az igazságügyi alkalmazotti szolgálati jogviszony megszüntetésének kivételével – a munkáltatói jogkört az igazságügyért felelős miniszter gyakorolja.
+(2) A közigazgatási ügyszakban dolgozó titkárt az OBH elnöke legfeljebb egy évre beoszthatja ahhoz a szervhez, amelyhez a bírák jogállásáról és javadalmazásáról szóló törvény szerint a közigazgatási ügyekben eljáró bírót beoszthatja (a továbbiakban: érintett szerv). A beosztásra az érintett szerv alaptevékenységébe tartozó közigazgatási vagy egyéb közjogi jellegű feladat- és hatáskör ellátására annak érdekében kerülhet sor, hogy az érintett szerv tevékenységében való részvétellel szakmai gyakorlatot és ismereteket szerezzen a bírósági titkár.
 
-(3) A minisztériumba beosztott bírósági titkár köteles a vezetői intézkedéseket, utasításokat teljesíteni, érvényesülésüket elősegíteni.
+(3) A (2) bekezdés szerinti beosztást a bírósági titkár kérelmére az érintett szerv vezetője – az ügyészség esetén a legfőbb ügyész – kezdeményezheti. A bírósági titkár beosztásához a munkáltatói jogkör gyakorlójának egyetértése szükséges.
 
-(4) A minisztériumi beosztás megszűnését követően a bírósági titkárt a minisztériumi beosztást megelőző szolgálati helyére kell beosztani.
+(4) A munkáltatói jogkört – a fegyelmi eljárás elrendelésének és lefolytatásának, valamint az igazságügyi alkalmazotti szolgálati jogviszony megszüntetésének kivételével – az (1) bekezdés szerint a minisztériumba beosztott bírósági titkár tekintetében az igazságügyért felelős miniszter, a (2) bekezdés szerint az érintett szervhez beosztott bírósági titkár tekintetében az érintett szerv vezetője gyakorolja.
 
-(5) Az OBH elnöke a bírósági titkár minisztériumi beosztását megszünteti:
+(5) A beosztott bírósági titkár köteles a vezetői intézkedéseket, utasításokat teljesíteni, érvényesülésüket elősegíteni.
+
+(6) A beosztás megszűnését követően a bírósági titkárt a beosztást megelőző szolgálati helyére kell beosztani.
+
+(7) Az OBH elnöke az (1) bekezdés szerint a minisztériumba beosztott bírósági titkár minisztériumi beosztását megszünteti
 
 - a) a bírósági titkár kérelmére,
 - b) az igazságügyért felelős miniszter indítványára.
 
-(6) A bírósági titkár a megszüntetés közlését követően további 30 napig köteles feladatait ellátni, amitől a felek közös megegyezéssel eltérhetnek.
+(8) Az OBH elnöke a (2) bekezdés szerint az érintett szervhez beosztott bírósági titkárnak az érintett szervhez történő beosztását megszünteti
 
-42/C. § (1) A minisztériumba beosztott bírósági titkár hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre irányadó szabályok szerint értékeli.
+- a) a bírósági titkár kérelmére,
+- b) az érintett szerv vezetőjének indítványára.
 
-(2) A minisztériumba beosztott bírósági titkár tekintetében az 55–76. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a minisztériumba beosztott bírósági tikár ellen az igazságügyért felelős miniszter kezdeményezheti a fegyelmi eljárás megindítását.
+(9) A bírósági titkár a megszüntetés közlését követően további 30 napig köteles feladatait ellátni, amitől a felek közös megegyezéssel eltérhetnek.
 
-(3) A minisztériumba beosztott bírósági titkár adatait a minisztériumban kell nyilvántartani.
+(10) Az (1) vagy (2) bekezdés alapján beosztott bírósági titkár vezetői munkakört nem tölthet be, illetve vezetői álláshelyen nem foglalkoztatható.
 
-(4) A minisztériumba beosztott bírósági titkár tekintetében a 95–123. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a beosztási pótlék mértéke az illetményalap 10 százaléka.
+42/C. § (1) A minisztériumba és az érintett szervhez beosztott bírósági titkár (a továbbiakban e §-ban együtt: beosztott bírósági titkár) hivatali munkáját a beosztás szerinti szerv vezetője a beosztás szerinti szervnél szolgálatot teljesítő alkalmazottakra irányadó szabályok szerint értékeli.
+
+(2) A beosztott bírósági titkár tekintetében az 55–76. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a beosztott bírósági titkár ellen a beosztás szerinti szerv vezetője kezdeményezheti a fegyelmi eljárás megindítását.
+
+(3) A beosztott bírósági titkár adatait a beosztás szerinti szervnél kell nyilvántartani.
+
+(4) A beosztott bírósági titkár tekintetében a 95–123. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a beosztási pótlék mértéke az illetményalap 10 százaléka.
 
 42/D. § Az OBH elnöke több bíróságot érintő központi igazgatási feladat összehangolt végrehajtása érdekében az igazságügyi alkalmazott hozzájárulásával és az igazságügyi alkalmazott felett munkáltatói jogkört gyakorló bírósági elnök egyetértésével külön feladattal bízhatja meg az igazságügyi alkalmazottat.
 
@@ -1049,7 +1060,7 @@ okozta.
 
 ### VIII. Fejezet — A SZEMÉLYI NYILVÁNTARTÁS
 
-93. § (1) A munkáltató az igazságügyi alkalmazottról személyi nyilvántartást vezet. A járásbírósági és a közigazgatási és munkaügyi bírósági igazságügyi alkalmazottak személyi adatlapját a törvényszéken is nyilván kell tartani.
+93. § (1) A munkáltató az igazságügyi alkalmazottról személyi nyilvántartást vezet. A járásbírósági igazságügyi alkalmazottak személyi adatlapját a törvényszéken is nyilván kell tartani.
 
 (2) A személyi nyilvántartás a kinevezéshez szükséges iratokat, a fényképet és az esküokmányt, a személyi adatlapot, a kinevezésről, az elektronikus aláírási jogosultságról, illetve a vezetői megbízásról és az illetmény megállapításáról készült iratokat, az értékelést, az elismerésekről és a kitüntetésekről szóló okiratokat, a hatályos fegyelmi büntetésről szóló határozatot, a jogerős kártérítési, illetve sérelemdíjról szóló határozatot, valamint a kirendelésről, áthelyezésről és a szolgálati viszony megszűnéséről szóló iratokat tartalmazza. Bírósági titkár esetén a pályaalkalmassági vizsgálatról készült véleményt a személyi nyilvántartásban kell elhelyezni.
 

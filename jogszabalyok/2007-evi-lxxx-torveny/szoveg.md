@@ -155,9 +155,9 @@ rendelkezik;
 
 (6) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt.
 
-(7) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(7) A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
 
-(8) A bíróság a menekültügyi hatóság döntését megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
+(8) A bíróság a menekültügyi hatóság döntését megváltoztathatja. A bíróság eljárást befejező döntésével szemben fellebbezésnek és perújításnak nincs helye.
 
 ### A menekült jogállás megszűnése
 
@@ -415,7 +415,7 @@ rendelkezik;
 
 (3) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt.
 
-(4) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(4) A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
 
 ### A menekültügyi őrizet
 
@@ -579,7 +579,7 @@ rendelkezik;
 
 (3) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt.
 
-(4) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(4) A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
 
 ### VI/A. Fejezet — AZ E TÖRVÉNY ÁLTAL SZABÁLYOZOTT ELJÁRÁSOK SORÁN ALKALMAZANDÓ ÁLTALÁNOS ELJÁRÁSI SZABÁLYOK
 
@@ -1096,7 +1096,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (7a)
 
-(8) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(8) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
 
 (9) A közigazgatási perben a keresetlevél benyújtásának, valamint az átadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek nincs halasztó hatálya a végzés végrehajtására.
 
@@ -1168,7 +1168,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (4) A bíróság a keresetlevél bírósághoz érkezésétől számított nyolc napon belül dönt.
 
-(5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg. A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg. A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
 
 (6) A közigazgatási perben – az 51. § (2) bekezdés e) és (7) bekezdés h) pontja alapján hozott menekültügyi döntések kivételével – a keresetlevél benyújtásának nincs halasztó hatálya a döntés végrehajtására.
 
@@ -1320,7 +1320,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg.
 
-(6) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(6) A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
 
 ### Menekültkénti elismerés kivételes méltányosságból
 
@@ -1427,7 +1427,7 @@ a tranzitzónában nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt el
 - a) a lakóhelyéről nem idézhető, vagy
 - b) ismeretlen helyre távozott.
 
-(5) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
+(5) A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
 
 ### A menekültkénti, oltalmazottkénti és befogadottkénti elismerés feltételei fennállásának felülvizsgálata
 

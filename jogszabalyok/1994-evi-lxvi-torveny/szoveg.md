@@ -51,7 +51,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 (3) Vitás esetben az állami foglalkoztatási szerv, a felszámoló, vagy a munkavállaló kérelmére a munkaügyi perben eljáró bíróság tizenöt napon belül, nemperes eljárásban dönt arról, hogy a munkavállaló szokásos munkavégzési helye Magyarországon található-e.
 
-(4) A (3) bekezdés szerinti nemperes eljárásban a munkaügyi perben eljáró bíróság illetékességét az eljáró állami foglalkoztatási szerv székhelye határozza meg, eljáró állami foglalkoztatási szerv hiányában a Fővárosi Közigazgatási és Munkaügyi Bíróság az illetékes.
+(4) A (3) bekezdés szerinti nemperes eljárásban a munkaügyi perben eljáró bíróság illetékességét az eljáró állami foglalkoztatási szerv székhelye határozza meg, eljáró állami foglalkoztatási szerv hiányában a Fővárosi Törvényszék az illetékes.
 
 2/A. § (1) A külföldi gazdálkodó szervezet felszámolása esetén a 2. § (1) bekezdése szerinti kötelezettség a külföldi gazdálkodó szervezet felszámolóját terheli.
 

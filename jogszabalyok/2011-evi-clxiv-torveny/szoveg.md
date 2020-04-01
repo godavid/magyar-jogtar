@@ -21,6 +21,8 @@ a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogáll�
 
 (4) A katonai ügyészek, illetve a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyész mellett ügyészségi alkalmazottként a Magyar Honvédség hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
+(5) Ha törvény másként nem rendelkezik, az ügyészségre beosztott bíróra az ügyészekre, az ügyészségre beosztott bírósági titkárra az alügyészekre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
 #### 2. A munkáltatói jogkör gyakorlója
 
 2. § (1) Ha törvény eltérően nem rendelkezik, a munkáltatói jogkört a legfőbb ügyész gyakorolja. A legfőbb ügyész e jogkörét – a (2) bekezdésben foglalt kivétellel – egészben vagy részben más, vezetői munkakört betöltő ügyészségi alkalmazottra átruházhatja.

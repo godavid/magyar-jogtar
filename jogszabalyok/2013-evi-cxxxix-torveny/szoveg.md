@@ -136,7 +136,7 @@ A Monetáris Tanács hatáskörébe tartozik:
 
 (11) A (4) bekezdés c) pontja szerinti tagok választására és felmentésére az Országgyűlés gazdasági ügyekért felelős állandó bizottsága tesz javaslatot az Országgyűlés számára.
 
-(12) A (11) bekezdés szerinti felmentési javaslatot a Monetáris Tanács érintett tagja részére meg kell küldeni, aki a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szabályai szerint közigazgatási és munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
+(12) A (11) bekezdés szerinti felmentési javaslatot a Monetáris Tanács érintett tagja részére meg kell küldeni, aki a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szabályai szerint bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
 
 (13) A (11) bekezdés szerinti felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság az Alapokmány 14.2. cikkében meghatározott felmentési feltételek fennállását megállapító döntésének jogerőre emelkedését követően terjeszthető a (4) bekezdés b) pontja szerinti tagok esetében a köztársasági elnök, a (4) bekezdés c) pontja szerinti tagok esetében az Országgyűlés elé.
 
@@ -156,7 +156,7 @@ A Monetáris Tanács hatáskörébe tartozik:
 
 (4) Az MNB elnökét a 9. § (10) bekezdésben foglaltaknak megfelelően, a miniszterelnök javaslatára a köztársasági elnök menti fel.
 
-(5) A miniszterelnök (4) bekezdés szerinti felmentési javaslatát az MNB elnöke részére meg kell küldeni, aki az Mt. szabályai szerint közigazgatási és munkaügyi bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
+(5) A miniszterelnök (4) bekezdés szerinti felmentési javaslatát az MNB elnöke részére meg kell küldeni, aki az Mt. szabályai szerint bírósághoz fordulhat. Az Mt. szabályai szerinti bírósághoz fordulás joga nem érinti az Európai Unió Bíróságához fordulásnak az Alapokmány 14.2. cikkében meghatározott jogát.
 
 (6) A felmentésre irányuló javaslat a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság az Alapokmány 14.2. cikkében meghatározott felmentési feltételek fennállását megállapító döntésének jogerőre emelkedését követően terjeszthető a köztársasági elnök elé.
 
@@ -1968,7 +1968,7 @@ terjedhet.
 - a) olyan magatartást tanúsított, amely az MNB rendeltetésszerű működését akadályozta,
 - b) száznyolcvan napon túl nem képes eleget tenni a megbízatásából eredő feladatainak.
 
-(10) A felmentésre vonatkozó kezdeményezést a Pénzügyi Békéltető Testület elnöke részére meg kell küldeni, aki az Mt. szabályai szerint közigazgatási és munkaügyi bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet, illetve a jogerős bírósági döntést a Pénzügyi Békéltető Testület elnöke az MNB elnökének haladéktalanul megküldi. Az MNB elnökének határozatával szemben jogorvoslatnak nincs helye.
+(10) A felmentésre vonatkozó kezdeményezést a Pénzügyi Békéltető Testület elnöke részére meg kell küldeni, aki az Mt. szabályai szerint bírósághoz fordulhat. A bíróság által érkeztetett keresetlevelet, illetve a jogerős bírósági döntést a Pénzügyi Békéltető Testület elnöke az MNB elnökének haladéktalanul megküldi. Az MNB elnökének határozatával szemben jogorvoslatnak nincs helye.
 
 (11) A Pénzügyi Békéltető Testület elnöke összeférhetetlenségének kimondására vagy felmentésére a bírósághoz fordulási határidő lejártát vagy – bírósághoz fordulás esetén – a kezdeményezés tekintetében meghozott bírósági döntés jogerőre emelkedését követően kerülhet sor.
 
@@ -3180,7 +3180,7 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 
 (2) Az e törvény – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – 58. § (2) bekezdésében meghatározott szervezetek az (1) bekezdésben meghatározott rendelet követelményeinek való megfelelést és az ehhez szükséges regisztrációt követően, de legkésőbb 2017. január 1-jétől kötelesek elektronikus kapcsolattartásra.
 
-183/I. § A 2018. január 1. napján már folyamatban lévő azon engedélyezési, ellenőrzési, fogyasztóvédelmi ellenőrzési és piacfelügyeleti eljárásokban, ahol az MNB érdemi határozatot még nem hozott, illetve az eljárást még nem szüntette meg, e törvénynek a 2017. december 31-én hatályos rendelkezéseit kell alkalmazni az eljárás egésze tekintetében, és a döntések végrehajtása során azzal, hogy ahol e törvény Fővárosi Közigazgatási és Munkaügyi Bíróságot említ, azon Fővárosi Törvényszéket kell érteni és a bíróság az MNB döntését nem változtathatja meg.
+#### 183/I. §
 
 183/J. § A pénzügyi közvetítőrendszert érintő egyes törvények jogharmonizációs célú módosításáról szóló 2018. évi CXXVI. törvény (a továbbiakban: Módtv.3.) 85. § (1) bekezdésével megállapított 14. § (8) bekezdést a hatálybalépésekor megbízatásukat töltő felügyelőbizottsági tagok megbízatásának időtartama tekintetében is alkalmazni kell.
 

@@ -2,13 +2,13 @@
 
 a bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról
 
-1. § (1) A járásbíróságok és kerületi bíróságok (a továbbiakban együtt: járásbíróság), a közigazgatási és munkaügyi bíróságok, továbbá a törvényszékek elnevezését és illetékességi területét az 1. melléklet tartalmazza.
+1. § (1) A járásbíróságok és kerületi bíróságok (a továbbiakban együtt: járásbíróság), továbbá a törvényszékek elnevezését és illetékességi területét az 1. melléklet tartalmazza.
 
 (2) Az ítélőtáblák elnevezését és illetékességi területét a 2. melléklet tartalmazza.
 
 (3) A Kúria illetékességi területe az ország egész területére kiterjed.
 
-2. § (1) A járásbíróság és a közigazgatási és munkaügyi bíróság székhelye – (2) bekezdésben foglalt kivétellel – az elnevezésében megjelölt település.
+2. § (1) A járásbíróság székhelye – (2) bekezdésben foglalt kivétellel – az elnevezésében megjelölt település.
 
 (2) A kerületi bíróságok székhelye Budapest.
 
@@ -22,7 +22,9 @@ a bíróságok elnevezéséről, székhelyéről és illetékességi területén
 
 (2) A kijelölt törvényszékeken működő katonai tanácsok által első fokon elbírált ügyekben másodfokon a Fővárosi Ítélőtábla katonai tanácsa jár el.
 
-3/A. § A közigazgatási és munkaügyi regionális kollégiumok számát, elnevezését és illetékességi területét a 4. melléklet tartalmazza.
+3/A. § A közigazgatási kollégiummal működő törvényszékek közigazgatási jogvitákban a 4. mellékletben meghatározott illetékességi területen járnak el.
+
+3/B. § A járásbíróság szervezeti egységeként működő törvénykezési helyeket az 5. melléklet tartalmazza.
 
 4. § (1) E törvény 2011. március 1-jén lép hatályba.
 
@@ -30,7 +32,7 @@ a bíróságok elnevezéséről, székhelyéről és illetékességi területén
 
 (3) Hatályát veszti az ítélőtáblák és a fellebbviteli ügyészi szervek székhelyének és illetékességi területének megállapításáról szóló 2002. évi XXII. törvény.
 
-(4) A Pest Megyei Munkaügyi Bíróság jogutódja a Budapest Környéki Munkaügyi Bíróság.
+(4)
 
 5. § (1) E törvénynek a büntetőeljárások időszerűségének javítása érdekében szükséges egyes törvények módosításáról szóló 2013. évi CXII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésének időpontjában folyamatban lévő ügyekben nem kell alkalmazni.
 
@@ -44,7 +46,7 @@ a bíróságok elnevezéséről, székhelyéről és illetékességi területén
 
 8. § A Székesfehérvári Törvényszék, valamint a Székesfehérvári Törvényszék illetékességi területéhez tartozó járásbíróságok határozata ellen a 2016. december 31-ét követően előterjesztett jogorvoslatot a Győri Ítélőtábla bírálja el.
 
-9. § A közigazgatási és munkaügyi regionális kollégiumok az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel megállapított 4. mellékletben meghatározott illetékességgel 2018. január 1. napjától kezdődően működnek.
+9. §
 
 ### 1. melléklet a 2010. évi CLXXXIV. törvényhez
 
@@ -1614,44 +1616,21 @@ A törvényszékek, valamint a járásbíróságok illetékességi területe
 
 ### 4. melléklet a 2010. évi CLXXXIV. törvényhez
 
-#### A közigazgatási és munkaügyi regionális kollégiumok és illetékességi területük
+#### A közigazgatási kollégiummal működő törvényszékek illetékességi területe közigazgatási jogvitákban
 
-- 1. ÉSZAK-MAGYARORSZÁGI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
-| Borsod-Abaúj-Zemplén megye | Heves megye |  |
+| 1. Fővárosi Törvényszék Budapest főváros |  |  |
 | --- | --- | --- |
-
-- 2. ÉSZAK-ALFÖLDI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
+| 2. Budapest Környéki Törvényszék |  |  |
+| Nógrád megye | Pest megye |  |
+| 3. Debreceni Törvényszék |  |  |
 | Hajdú-Bihar megye | Jász-Nagykun-Szolnok megye | Szabolcs-Szatmár-Bereg megye |
-| --- | --- | --- |
-
-- 3. DÉL-ALFÖLDI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
-| Bács-Kiskun megye | Békés megye | Csongrád megye |
-| --- | --- | --- |
-
-- 4. KÖZÉP-DUNA-VÖLGYI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
-| Nógrád megye | Pest megye |
-| --- | --- |
-
-- 5. ÉSZAK-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
+| 4. Győri Törvényszék |  |  |
 | Győr-Moson-Sopron megye | Komárom-Esztergom megye | Vas megye |
-| --- | --- | --- |
-
-- 6. DÉL-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
+| 5. Miskolci Törvényszék |  |  |
+| Borsod-Abaúj-Zemplén megye | Heves megye |  |
+| 6. Pécsi Törvényszék |  |  |
 | Baranya megye | Somogy megye | Tolna megye |
-| --- | --- | --- |
-
-- 7. KÖZÉP-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
+| 7. Szegedi Törvényszék |  |  |
+| Bács-Kiskun megye | Békés megye | Csongrád megye |
+| 8. Veszprémi Törvényszék |  |  |
 | Fejér megye | Veszprém megye | Zala megye |
-| --- | --- | --- |
-
-- 8. FŐVÁROSI TÖRVÉNYSZÉKI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
-
-| Budapest főváros |
-| --- |

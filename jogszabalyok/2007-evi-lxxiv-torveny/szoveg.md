@@ -384,7 +384,7 @@ a közönségarányát.
 
 (5) Az Elnök pályázat eredménytelenségét, vagy eredményesség esetén a pályázat nyertesét vagy nyerteseit megállapító határozata a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással támadható meg közigazgatási perben. A bíróság a keresetlevelet, a keresetlevél bírósághoz történő beérkezésétől számított hatvan napon belül bírálja el és a kihirdetés napjáig írásba foglalja. A bíróság döntésével szemben perújításnak nincs helye.
 
-(6) A bíróság (5) bekezdés szerinti határozata elleni fellebbezés a határozat közlésétől számított tizenöt napon belül terjeszthető elő azzal, hogy a fellebbezés benyújtására meghatározott határidőn belül a fellebbezésnek az elsőfokú bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A bíróság a fellebbezést hatvan napon belül bírálja el és határozatát e határidőn belül írásba foglalja. E határozattal szemben rendkívüli perorvoslatnak (felülvizsgálatnak, perújításnak) helye nincs.
+(6) A bíróság (5) bekezdés szerinti határozata elleni fellebbezés a határozat közlésétől számított tizenöt napon belül terjeszthető elő azzal, hogy a fellebbezés benyújtására meghatározott határidőn belül a fellebbezésnek az elsőfokú bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A bíróság a fellebbezést hatvan napon belül bírálja el és határozatát e határidőn belül írásba foglalja. E határozattal szemben perújításnak helye nincs.
 
 (7) A bíróság az Elnök határozatát nem változtathatja meg.
 

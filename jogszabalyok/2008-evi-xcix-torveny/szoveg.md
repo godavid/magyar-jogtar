@@ -259,6 +259,8 @@ részére.
 - a) meghatározza – ideértve a vezetői kinevezés módját is – a színház közös működtetésének és működésének részletes szabályait;
 - b) rögzíti a központi költségvetésből juttatandó támogatás és az önkormányzati támogatás mértékét.
 
+(9) Ha a közös működtetésre irányuló megállapodás keretében az önkormányzati fenntartású színház éves működésének pénzügyi feltételeit teljes egészében a központi költségvetés biztosítja, a színház vezető állású munkavállalója felett az alapvető munkáltatói jogokat a miniszter gyakorolja.
+
 16/A. § A központi költségvetés a nem állami fenntartású, nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített zene- és táncművészeti szervezetek támogatását felosztási szabályzat alapján biztosítja.
 
 ### 2. CÍM — Az előadó-művészeti szervezetek központi költségvetési támogatásai és az igénybevétel feltételei
@@ -449,9 +451,9 @@ részére.
 
 39. § (1) Költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezetnél a munkáltató vezetőjével (a továbbiakban: vezető) – az e törvényben foglalt eltérésekkel – az Mt. vezető állású munkavállalókra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni.
 
-(2) A vezető feladatainak ellátására a munkáltatói jogkör gyakorlója pályázatot ír ki.
+(2) A vezető feladatainak ellátására a munkáltatói – a 16. § (9) bekezdése szerinti esetben az alapvető munkáltatói – jogkör gyakorlója pályázatot ír ki.
 
-(3) A munkáltatói jogkör gyakorlója a pályázatok véleményezésére szakmai bizottságot kér fel.
+(3) A munkáltatói – a 16. § (9) bekezdése szerinti esetben az alapvető munkáltatói – jogkör gyakorlója a pályázatok véleményezésére szakmai bizottságot kér fel.
 
 (4) A pályázat kiírásának, benyújtásának és értékelésének rendjét, a szakmai bizottság összetételét és eljárásrendjét a Kormány rendeletben határozza meg.
 
@@ -461,7 +463,7 @@ részére.
 
 41. § (1) A munkaviszony legfeljebb öt évre jön létre. Ha a felek eltérően nem állapodnak meg, a munkaviszony február 1-jével kezdődik, és január 31-vel végződik.
 
-(2) A vezető munkakörének betöltésénél megfelelően alkalmazni kell az Mt. vezető állású munkavállalókra vonatkozó összeférhetetlenségi szabályait azzal, hogy az Mt. 211. § (2) bekezdés a) pontjában foglaltak alól – indokolt esetben – a munkáltatói jogkör gyakorlója felmentést adhat.
+(2) A vezető munkakörének betöltésénél megfelelően alkalmazni kell az Mt. vezető állású munkavállalókra vonatkozó összeférhetetlenségi szabályait azzal, hogy az Mt. 211. § (2) bekezdés a) pontjában foglaltak alól – indokolt esetben – a munkáltatói – a 16. § (9) bekezdése szerinti esetben az alapvető munkáltatói – jogkör gyakorlója felmentést adhat.
 
 (3) A vezető vezetői tevékenységével összefüggésben jutalomban vagy más, munkáltatói döntésen alapuló egyéb többletjuttatásban abban az esetben részesíthető, ha az arra jogosító, mutatószámokon alapulóan meghatározott többletfeladatra, illetve többletteljesítményre vonatkozó feltételek a munkáltatóval kötött megállapodásban rögzítésre és teljesítésre kerültek.
 
@@ -561,7 +563,8 @@ részére.
 - 54. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
 - 55. fúvószenekar: komolyzene műfajába tartozó, eredeti vagy áthangszerelt műveket előadó zeneművészeti szervezet, amelyben a rézfúvós és fafúvós hangszercsoportokat ütőhangszeresek egészíthetik ki,
 - 56. hangversenyterem: olyan zárt terű, legalább száz ülőhelyet magába foglaló, nézőtérrel rendelkező befogadó színház, amely akusztikailag és technikailag alkalmas e törvény szerinti hangversenyek előadására,
-- 57. kamarakórus: oratorikus vagy a cappella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő.
+- 57. kamarakórus: oratorikus vagy a cappella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő,
+- 58. alapvető munkáltatói jogok: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 19. § b) pontja szerinti kinevezés, vezetői megbízás, felmentés, vezetői megbízás visszavonása, az összeférhetetlenség megállapítása, fegyelmi eljárás megindítása, és a fegyelmi büntetés kiszabása.
 
 ### Hatálybalépés
 
@@ -573,7 +576,7 @@ részére.
 
 ### Átmeneti rendelkezések
 
-46. § (1)
+46. § (1) A 16. § (9) bekezdését az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosításáról szóló 2020. évi XVII. törvény hatálybalépésekor fennálló vezetői megbízások esetében is megfelelően alkalmazni kell.
 
 (2) 2018. január 1-jéig olyan színház, balett- és táncegyüttes is nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősíthető, amely tekintetében a 11. § (2) bekezdés b) pontjában vagy a 11. § (3) bekezdés b) pontjában meghatározott feltételek nem állnak fenn.
 

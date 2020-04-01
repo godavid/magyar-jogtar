@@ -292,7 +292,7 @@ is felhasználható.
 
 9. § (1) A víziközlekedési személyszállítás engedélyezésére vonatkozó szabályokat a Vkt. és a vízi személyszállításról szóló rendelet, a vasúti személyszállítás engedélyezésére vonatkozó szabályokat a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvényben (a továbbiakban: Vtv.) állapítja meg.
 
-(2) Az autóbuszos piacfelügyeleti és utasjogi hatóság (a továbbiakban: autóbuszos hatóság) döntései megtámadására vonatkozó közigazgatási perekben a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességgel jár el.
+(2) Az autóbuszos piacfelügyeleti és utasjogi hatóság (a továbbiakban: autóbuszos hatóság) döntései megtámadására vonatkozó közigazgatási perekben a Fővárosi Törvényszék kizárólagos illetékességgel jár el.
 
 (3) Az autóbuszos hatóság piacfelügyeleti és utasjogi hatósági eljárásaiban országos illetékességgel jár el.
 
@@ -1075,7 +1075,7 @@ adja ki.
 
 (8) Amennyiben a vasúti igazgatási szerv az objektív gazdasági elemzést követően azt állapítja meg, hogy az egy adott kiindulási és célállomás között működtetni tervezett nagy sebességű személyszállítási szolgáltatás veszélyezteti az ugyanazon útvonalat vagy annak alternatíváját lefedő közszolgáltatási szerződés gazdasági egyensúlyát, a vasúti igazgatási szervnek jeleznie kell a szolgáltatás azon lehetséges módosításait, amelyekkel biztosítható lenne, hogy a hozzáférési jog megadásának feltételei teljesüljenek. E módosítások magukban foglalhatják a tervezett szolgáltatás módosítását is.
 
-(9) Az (1)–(4) és a (8) bekezdésben meghatározott döntésekről szóló határozatok ellen bírósági felülvizsgálat kezdeményezésének van helye.
+(9)
 
 48. § (1) A vasúti igazgatási szerv a vasúti személyszállítási közszolgáltatási szerződésben rögzített kötelezettségek ellentételezésének biztosítása érdekében pénzügyi ellentételezési kötelezettséget állapíthat meg olyan vasúti társaságok terhére, amelyek nem közszolgáltatásnak minősülő vasúti személyszállítási szolgáltatást nyújtanak két olyan meghatározott belföldi állomás között, amely szakaszra más vasúti társaság hatályos vasúti személyszállítási közszolgáltatási szerződéssel rendelkezik. A pénzügyi ellentételezést a vasúti társaság az ellátásért felelős részére teljesíti.
 

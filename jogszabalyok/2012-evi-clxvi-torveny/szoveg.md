@@ -52,6 +52,8 @@ dönthet.
 
 (3) Az ágazati kijelölő hatóság a nemzeti létfontosságú rendszerelemmé kijelölő határozatban rendelkezik az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe.
 
+(3a) A Kormány meghatározza a kritikus társadalmi, illetve gazdasági tevékenységek fenntartásához szükséges alapvető szolgáltatások jegyzékét.
+
 (4) A nyilvántartó hatóság vezeti az alapvető szolgáltatásokat nyújtó szereplők jegyzékét.
 
 (5) A nyilvántartó hatóság törli az alapvető szolgáltatásokat nyújtó szereplők jegyzékéből az üzemeltetőt, ha az ágazati kijelölő hatóság dönt a nemzeti létfontosságú rendszerelemmé kijelölés visszavonásáról.
@@ -234,7 +236,8 @@ kezeli.
 - f) jelölje ki a nyilvántartó hatóságot, állapítsa meg a nyilvántartás vezetésére, a nyilvántartásba veendő adatok szolgáltatására és a nyilvántartásból történő adatigénylés rendjére vonatkozó részletes eljárási szabályokat,
 - g) állapítsa meg a biztonsági összekötő személy képesítési követelményeit,
 - h) állapítsa meg az üzemeltetői biztonsági terv lehetséges ágazati tartalmi és formai követelményeit,
-- i) állapítsa meg a hálózatbiztonsági intézkedések megtételével kapcsolatos szabályokat.
+- i) állapítsa meg a hálózatbiztonsági intézkedések megtételével kapcsolatos szabályokat,
+- j) határozza meg a kritikus társadalmi, illetve gazdasági tevékenységek fenntartásához szükséges alapvető szolgáltatások jegyzékét.
 
 15. § (1) Ez a törvény – a (2) és a (3) bekezdésben foglaltak kivételével – a kihirdetését követő negyedik hónap első napján lép hatályba.
 
