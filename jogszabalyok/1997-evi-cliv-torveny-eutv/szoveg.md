@@ -2557,7 +2557,7 @@ A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik
 
 (4) A közigazgatási ügyben eljáró bíróság a kutatásengedélyezési ügyben hozott döntést nem változtathatja meg.
 
-(5) A kutatásengedélyezési ügyben hozott döntés ellen indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(5) A kutatásengedélyezési ügyben hozott döntés ellen indított közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
 159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése, valamint az orvostechnikai eszközök hatékonyságával, teljesítőképességével kapcsolatos klinikai adat gyűjtése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál, a következő feltételek együttes fennállása esetén végezhető:
 
@@ -2849,7 +2849,7 @@ végezhető kutatás. Az eljárásban a 186. § szerinti Humán Reprodukciós Bi
 
 (4) Az (1)–(3) bekezdésekben meghatározott eljárások az embriót létrehozó házastársak (élettársak) – tájékoztatásukat követően tett – írásbeli beleegyező nyilatkozata alapján, reprodukciós eljárás végzésére jogosult egészségügyi szolgáltatónál alkalmazhatóak.
 
-183. § Az embriókkal vagy ivarsejtekkel végezhető kutatások, vizsgálatok és beavatkozások engedélyezésével kapcsolatos közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes. A bíróság a döntést nem változtathatja meg.
+183. § Az embriókkal vagy ivarsejtekkel végezhető kutatások, vizsgálatok és beavatkozások engedélyezésével kapcsolatos közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes. A bíróság a döntést nem változtathatja meg.
 
 184. §
 

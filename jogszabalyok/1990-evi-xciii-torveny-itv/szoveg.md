@@ -850,7 +850,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 - a) a járásbíróság előtt a peres eljárásban 350 000 forint, a nemperes eljárásban 200 000 forint;
 - b) a törvényszék előtt: – első fokon indult peres eljárásban 600 000 forint, nemperes eljárásban pedig 350 000 forint, – fellebbezési eljárásban, peres eljárás esetén 300 000 forint, nemperes eljárásban pedig 170 000 forint,
 - c) az ítélőtábla előtt fellebbezési eljárásban, peres eljárás esetén 600 000 forint, nemperes eljárásban 300 000 forint;
-- d) a Kúria előtt: – fellebbezési eljárásban 500 000 forint, – felülvizsgálati eljárásban 700 000 forint.
+- d) a Kúria előtt: – fellebbezési eljárásban 500 000 forint, – felülvizsgálati és jogegységi panasz eljárásban 700 000 forint.
 
 40. § (1) Ha a fél egy eljárásban egy jogviszonyból eredő több igényét vagy több jogviszonyból eredő igényeit érvényesíti, az eljárás tárgya értékének megállapításakor — a járulékok figyelmen kívül hagyásával — az előterjesztett igények együttes értékét kell figyelembe venni.
 
@@ -1003,9 +1003,9 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 49. § A perújítási eljárásban az e törvény szerinti illetéket kell fizetni, tekintet nélkül az alapeljárásban teljesített illetékfizetésre.
 
-### A felülvizsgálati eljárás illetéke
+### A felülvizsgálati és a jogegységi panasz eljárás illetéke
 
-50. § (1) A 39–41. § szerint meghatározott illetékalap után az illeték mértéke ítélet elleni felülvizsgálat esetén 10%, de legalább 50 000 forint, legfeljebb 3 500 000 forint.
+50. § (1) A 39–41. § szerint meghatározott illetékalap után az illeték mértéke ítélet elleni felülvizsgálat és jogegységi panasz esetén 10%, de legalább 50 000 forint, legfeljebb 3 500 000 forint.
 
 (2) A végzés elleni felülvizsgálat illetéke az (1) bekezdés szerint számított illeték fele, de legalább 20 000 forint, legfeljebb 1 250 000 forint.
 
@@ -1028,7 +1028,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 ### A büntető eljárás illetéke
 
-52. § (1) A magánvádas eljárásban a feljelentés illetéke 10 000 forint, a fellebbezés illetéke 10 000 forint, a perújítási indítvány és a felülvizsgálati indítvány illetéke 15 000 forint.
+52. § (1) A magánvádas eljárásban a feljelentés illetéke 10 000 forint, a fellebbezés illetéke 10 000 forint, a perújítási indítvány és a felülvizsgálati indítvány és a jogegységi panasz illetéke 15 000 forint.
 
 (2) Ha magánvádas eljárásban több feljelentő egy beadványban tesz feljelentést, továbbá, ha több feljelentő különálló ügyeit egyesítik, mindegyik feljelentő köteles az illetéket megfizetni. Ha ugyanannak a feljelentőnek több ügyét egyesítik, az egyesítést követően csak egyszer kell az illetéket megfizetni. Viszonvád esetén az illetéket mindkét vádra vonatkozóan külön kell megfizetni.
 
@@ -1075,7 +1075,7 @@ esetében.
 
 57. § (1) Illetékmentes a polgári és közigazgatási ügyekben:
 
-- a) az eljárás, ha a bíróság az eljárást (ideértve a fellebbezési és a felülvizsgálati eljárást is) megindító beadványt – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélkül – visszautasítja, vagy az eljárást a Pp. 259. §-ában foglalt okokból megszünteti, vagy a Csődtv. 29. § (3) bekezdése alapján hivatalból megszünteti, illetve az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt vagy azért szünteti meg, mert az eljárást megindító beadvány visszautasításának lett volna helye, továbbá az ezen eljárásban hozott döntés elleni fellebbezés és felülvizsgálat;
+- a) az eljárás, ha a bíróság az eljárást (ideértve a fellebbezési és a felülvizsgálati és jogegységi panasz eljárást is) megindító beadványt – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélkül – visszautasítja, vagy az eljárást a Pp. 259. §-ában foglalt okokból megszünteti, vagy a Csődtv. 29. § (3) bekezdése alapján hivatalból megszünteti, illetve az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt vagy azért szünteti meg, mert az eljárást megindító beadvány visszautasításának lett volna helye, továbbá az ezen eljárásban hozott döntés elleni fellebbezés és felülvizsgálat;
 - b) a költségkedvezmény tárgyában hozott határozat elleni jogorvoslati eljárás;
 - c) a bontóperben a házasság vonatkozásában indított viszontkereset;
 - d) a holtnak nyilvánítással és a halál tényének megállapításával kapcsolatos eljárás, ha az eltűnés vagy a halál háborús esemény vagy természeti katasztrófa folytán következett be;
@@ -1088,7 +1088,7 @@ esetében.
 - k) a kárpótlási ügyekben hozott közigazgatási döntés ellen indított közigazgatási per;
 - l) a helyi önkormányzat adósságrendezési eljárása;
 - m) az önálló bírósági végrehajtónak az általa lefolytatott bírósági végrehajtási eljárással összefüggésben kezdeményezett eljárása;
-- n) az eredményes alkotmányjogi panasz alapján induló eljárás;
+- n) az eredményes alkotmányjogi panasz és a jogegységi panasz alapján induló eljárás;
 - o) a személyes adatok védelmével, illetve a közérdekű adatok nyilvánosságával összefüggésben indított per;
 - p) a jogi segítségnyújtás engedélyezése tárgyában hozott közigazgatási döntés ellen indított közigazgatási per,
 - q) az általános meghatalmazással kapcsolatos bírósági nyilvántartási eljárás;
@@ -1112,7 +1112,8 @@ esetében.
 - e) a terhelt, a védő, a fiatalkorú terhelt törvényes képviselője és az ügygondnok részére az általuk a büntetőeljárásról szóló törvény alapján megismerhető ügyiratokról készült másolat egyszeri kiadása;
 - f) a sértett részére másolat egyszeri kiadása az olyan eljárási cselekményről készült ügyiratról, amelyen jelen volt vagy jelen lehetett;
 - g) a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, illetve az írásban tett feljelentés megtételét igazoló irat másolatának egyszeri kiadása;
-- h) az elektronikus formában, elektronikus okiratként vagy papíralapú okirat elektronikus másolataként (a továbbiakban együtt: elektronikus formában) rendelkezésre álló ügyirat másolatának elektronikus kapcsolattartás útján vagy elektronikus levelezési címre történő továbbítása.
+- h) az elektronikus formában, elektronikus okiratként vagy papíralapú okirat elektronikus másolataként (a továbbiakban együtt: elektronikus formában) rendelkezésre álló ügyirat másolatának elektronikus kapcsolattartás útján vagy elektronikus levelezési címre történő továbbítása;
+- i) az eredményes jogegységi panasz alapján indult eljárás.
 
 (3) Illetékmentes:
 
@@ -1164,7 +1165,7 @@ esetében.
 
 61. §
 
-62. § (1) A felet – ideértve a beavatkozót és az érdekeltet is – illetékfeljegyzési jog illeti meg:
+62. § (1) A felet – ideértve a beavatkozót és az érdekeltet is – illetékfeljegyzési jog illeti meg, a jogegységi panasz eljárás kivételével:
 
 - a) a munkaügyi vagy közszolgálati jogviszonnyal kapcsolatos perben, ha az a munkavállaló vagy az állam nevében foglalkoztatott személy szándékos vagy súlyos gondatlan károkozásával, valamint a vezető állású munkavállaló kártérítési felelősségével kapcsolatban indult; továbbá a végkielégítés iránti per a törvény alapján járó összegen felüli részében, ha az a minimálbér hússzorosát meghaladja;
 - b) a személy életében, testi épségében vagy egészségében okozott, illetve a vagyonában bekövetkezett olyan kár megtérítése iránti igény esetén, amikor a személy élete, testi épsége vagy egészsége is veszélyeztetve volt;

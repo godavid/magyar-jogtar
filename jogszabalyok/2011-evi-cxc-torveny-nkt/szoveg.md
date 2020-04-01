@@ -2849,7 +2849,7 @@ kapcsolatosan eljáró, felmentést engedélyező szervet rendeletben jelölje k
 
 (5) Ahol jogszabály valamely kedvezményre, juttatásra való jogosultságot tanulói jogviszony fennállásához köti, tanulói jogviszony alatt a fejlesztő nevelés-oktatást is érteni kell.
 
-(6) A tanulók tankönyvellátását szolgáló központi költségvetési támogatás terhére a készségfejlesztő speciális szakiskolai nevelés-oktatáshoz és a fejlesztő iskolai oktatáshoz a szakmai munkaközösség és az iskolai szülői szervezet egyetértésével a pedagógiai programban foglaltak megvalósítását szolgáló, a tankönyvjegyzékben nem szereplő könyvek, munkafüzetek, feladatlapok, digitális ismerethordozók is beszerezhetők tankönyv helyett, ha az iskolában a nevelő és oktató munkához részben vagy egészben nem alkalmaznak tankönyvet.
+(6) A tanulók tankönyvellátását szolgáló központi költségvetési támogatás terhére a sajátos nevelési igényű tanulók neveléséhez-oktatásához a szakmai munkaközösség és az iskolai szülői szervezet egyetértésével a pedagógiai programban foglaltak megvalósítását szolgáló, a tankönyvjegyzékben nem szereplő könyvek, munkafüzetek, feladatlapok, eszközök és digitális ismerethordozók is beszerezhetők tankönyv helyett, ha az iskolában a nevelő és oktató munkához részben vagy egészben nem alkalmaznak tankönyvet.
 
 (7) Ahol jogszabály az óvodai nevelésben részt vevő, a tanulói jogviszonyban, kollégiumi tagsági viszonyban álló fogyatékos gyermek részére kedvezményt, juttatást, jogosultságot, kötelezettséget állapít meg, a fogyatékos gyermek, tanuló fogalom alatt a sajátos nevelési igényű gyermeket, tanulót kell érteni.
 

@@ -100,15 +100,14 @@ A bíróság a perkoncentráció érvényesülése érdekében az e törvényben
 
 (1) Elsőfokon ítélkezik:
 
-- a) a járásbíróság,
-- b) a közigazgatási és munkaügyi bíróság és
-- c) a törvényszék.
+- a) a járásbíróság és
+- b) a törvényszék.
 
 (2) Másodfokon ítélkezik:
 
-- a) a járásbírósághoz, valamint a közigazgatási és munkaügyi bírósághoz tartozó ügyekben a törvényszék,
+- a) a járásbírósághoz tartozó ügyekben a törvényszék,
 - b) a törvényszékhez tartozó ügyekben az ítélőtábla és
-- c) az ítélőtáblához tartozó ügyekben, továbbá az e törvényben meghatározott esetben a Kúria.
+- c) az ítélőtáblához tartozó ügyekben a Kúria.
 
 (3) Felülvizsgálati ügyekben a Kúria jár el.
 
@@ -175,7 +174,7 @@ A per elintézéséből ki van zárva, és abban, mint bíró nem vehet részt:
 
 #### 14. § [A bíróság kizárása]
 
-(1) A perben az a járásbíróság, közigazgatási és munkaügyi bíróság, törvényszék, illetve ítélőtábla sem járhat el,
+(1) A perben az a járásbíróság, törvényszék, illetve ítélőtábla sem járhat el,
 
 - a) amely a perben fél, a féllel együtt jogosított vagy kötelezett személy, továbbá az, amely a per tárgyát egészen vagy részben a maga részére követeli, vagy amelynek jogaira, illetve kötelezettségeire a per eredménye kihatással lehet, vagy
 - b) amelynek elnöke, illetve elnökhelyettese a 12. § a), b) vagy c) pontja értelmében ki van zárva.
@@ -211,7 +210,7 @@ A per elintézéséből ki van zárva, és abban, mint bíró nem vehet részt:
 
 tárgyaláson kívül határoz.
 
-(2) Ha ugyanannak a bíróságnak nincs olyan bírája vagy tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok az egész bíróságra kiterjed, a kizárás kérdésében a másodfokú bíróság, a törvényszéket mint másodfokú bíróságot és a közigazgatási és munkaügyi bíróságot érintő ok esetén az ítélőtábla, az ítélőtáblát mint másodfokú bíróságot érintő ok esetén a Kúria határoz.
+(2) Ha ugyanannak a bíróságnak nincs olyan bírája vagy tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok az egész bíróságra kiterjed, a kizárás kérdésében a másodfokú bíróság, a törvényszéket mint másodfokú bíróságot érintő ok esetén az ítélőtábla, az ítélőtáblát mint másodfokú bíróságot érintő ok esetén a Kúria határoz.
 
 (3) Ha a bejelentést nem maga a bíró tette, nyilatkozatát a döntés előtt be kell szerezni.
 
@@ -239,7 +238,7 @@ A fizetési meghagyásos eljárással összefüggésben indult per elintézésé
 
 (1) A törvényszék hatáskörébe tartoznak mindazok a perek, amelyek elbírálását törvény nem utalja a járásbíróság hatáskörébe.
 
-(2) A közigazgatási és munkaügyi bíróság hatáskörébe tartoznak az e törvény hatálya alá tartozó perek közül a munkaügyi perek.
+(2) A törvényszék mint munkaügyi bíróság jár el a munkaügyi perekben.
 
 (3) A járásbíróság hatáskörébe tartoznak:
 
@@ -392,7 +391,7 @@ szerint illetékes bíróság előtt is megindíthatja.
 (2) A kijelölés kérdésében – a hatásköri és illetékességi szabályok alkalmazásával, a (3) bekezdésben foglalt kivétellel –
 
 - a) a törvényszék határoz, ha az összeütközés a területén lévő járásbíróságok között merült fel, valamint, ha a területén lévő járásbíróság kizárása esetén a területén lévő másik járásbíróság kijelölhető,
-- b) az a) pont alá nem tartozó esetekben az ítélőtábla határoz, ha az összeütközés a területén lévő járásbíróságok, törvényszékek, illetve közigazgatási és munkaügyi bíróságok között merült fel, továbbá, ha a területén lévő járásbíróság, törvényszék vagy közigazgatási és munkaügyi bíróság kizárása esetén a területén lévő másik járásbíróság, törvényszék vagy közigazgatási és munkaügyi bíróság kijelölhető,
+- b) az a) pont alá nem tartozó esetekben az ítélőtábla határoz, ha az összeütközés a területén lévő járásbíróságok, törvényszékek között merült fel, továbbá, ha a területén lévő járásbíróság, törvényszék kizárása esetén, a területén lévő másik járásbíróság, törvényszék kijelölhető,
 - c) az a) és b) pont alá nem tartozó esetekben a Kúria határoz.
 
 (3) Az e törvény hatálya alá tartozó ügyben eljáró bíróság és a közigazgatási ügyben eljáró bíróság között felmerült hatásköri összeütközés esetén az eljáró bíróság kijelölésére a közigazgatási perrendtartás vonatkozó rendelkezéseit kell alkalmazni.
@@ -3985,7 +3984,7 @@ tartalmazza.
 
 (4) Az indokolás a bíróság által megállapított tényeket, a feleknek a per tárgyára vonatkozó kérelmét, illetve nyilatkozatát és azok alapjának rövid ismertetését, az érdemi rendelkezés tartalmára történő utalást, továbbá a jogi indokolást tartalmazza.
 
-(5) A jogi indokolás tartalmazza az ítélet alapjául szolgáló jogszabályokat és szükség esetén azok értelmezését, a megállapított tényekre vonatkozó bizonyítékokat azokkal a körülményekkel együtt, amelyeket a bíróság a bizonyítékok mérlegelésénél irányadónak vett, a tények megállapításának egyéb körülményeit, továbbá azokat az okokat, amelyek miatt a bíróság valamely tényállítást nem talált bizonyítottnak, vagy amelyek miatt a felajánlott bizonyítást mellőzte.
+(5) A jogi indokolás tartalmazza az ítélet alapjául szolgáló jogszabályokat és szükség esetén azok értelmezését, a megállapított tényekre vonatkozó bizonyítékokat azokkal a körülményekkel együtt, amelyeket a bíróság a bizonyítékok mérlegelésénél irányadónak vett, a tények megállapításának egyéb körülményeit, továbbá azokat az okokat, amelyek miatt a bíróság valamely tényállítást nem talált bizonyítottnak, vagy amelyek miatt a felajánlott bizonyítást mellőzte. A jogi indokolás tartalmazza azokat az okokat is, amelyek miatt a bíróság jogkérdésben eltért a Kúriának a Bírósági Határozatok Gyűjteményében közzétett határozatától (a továbbiakban: a Kúria közzétett határozata), vagy az arra irányuló indítványt elutasította.
 
 (6) Az ítélet a jogi indokolást követően az eljárás folyamán hozott végzés indokolását akkor tartalmazza, ha e törvény szerint a végzés külön fellebbezéssel nem támadható, de a bíróság azt e törvény szerint köteles indokolni és arra az ítélet meghozataláig nem került sor.
 
@@ -4581,9 +4580,11 @@ A 393. § e) pontjára hivatkozással előterjesztett perújítási kérelmet az
 
 (2) A felülvizsgálati eljárásban a Kúria az olyan végzést, amellyel szemben az elsőfokú eljárás szabályai szerint külön fellebbezésnek lenne helye, továbbá a felülvizsgálati kérelmet visszautasító végzést tanácsban hozza meg és köteles azt indokolni.
 
+(3) A felülvizsgálati eljárással összefüggésben jogegységi panasz iránti eljárásnak a bíróságok szervezetéről és igazgatásáról szóló törvényben foglaltak szerint van helye.
+
 #### 406. § [A felülvizsgálat alapja és tárgyai]
 
-(1) A jogerős ítélet vagy az ügy érdemében hozott jogerős végzés (e fejezetben a továbbiakban együtt: ítélet) felülvizsgálatát a Kúriától – az ügy érdemére kiható jogszabálysértésre hivatkozással – a fél, valamint a rendelkezés rá vonatkozó része ellen az kérheti, akire az ítélet rendelkezést tartalmaz.
+(1) A jogerős ítélet vagy az ügy érdemében hozott jogerős végzés (e fejezetben a továbbiakban együtt: ítélet) felülvizsgálatát a Kúriától az ügy érdemére kiható jogszabálysértésre, illetve a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozással a fél, valamint a rendelkezés rá vonatkozó része ellen az kérheti, akire az ítélet rendelkezést tartalmaz.
 
 (2) Az (1) bekezdésben foglaltak megfelelő alkalmazásával van helye felülvizsgálati kérelem benyújtásának a keresetlevelet a 176. § (1) bekezdés a)–i) pontja és a 176. § (2) bekezdés b)–c) pontja alapján visszautasító és az eljárást a 240. § (1) bekezdés a)–c) és f) pontja alapján megszüntető jogerős végzések ellen.
 
@@ -4612,16 +4613,17 @@ A 393. § e) pontjára hivatkozással előterjesztett perújítási kérelmet az
 
 #### 409. § [A felülvizsgálat kivételes engedélyezésének feltételei]
 
-(1) Ha a felülvizsgálatnak a 408. § alapján nem lenne helye – ugyanakkor törvény a felülvizsgálatot más okból nem zárja ki – a felülvizsgálatot a Kúria kivételesen engedélyezheti.
+(1) Ha a felülvizsgálatnak a 408. § alapján nem lenne helye – ugyanakkor törvény a felülvizsgálatot más okból nem zárja ki – a felülvizsgálatot a Kúria a (2) bekezdés szerinti esetekben engedélyezheti, a (3) bekezdés szerinti esetben engedélyezi.
 
 (2) A Kúria a felülvizsgálatot akkor engedélyezi, ha az ügy érdemére kiható jogszabálysértés vizsgálata
 
 - a) a joggyakorlat egységének vagy továbbfejlesztésének biztosítása,
-- b) a felvetett jogkérdés különleges súlya, illetve társadalmi jelentősége,
-- c) – a másodfokú bíróság erről való döntése hiányában – az Európai Unió Bírósága előzetes döntéshozatali eljárásának szükségessége, vagy
-- d) a Kúria közzétett ítélkezési gyakorlatától eltérő ítéleti rendelkezés
+- b) a felvetett jogkérdés különleges súlya, illetve társadalmi jelentősége vagy
+- c) – a másodfokú bíróság erről való döntése hiányában – az Európai Unió Bírósága előzetes döntéshozatali eljárásának szükségessége
 
 miatt indokolt.
+
+(3) A Kúria engedélyezi a felülvizsgálatot, ha az ítélet a Kúria közzétett határozatától jogkérdésben eltér.
 
 #### 410. § [Az engedélyezés iránti kérelem]
 
@@ -4635,7 +4637,7 @@ miatt indokolt.
   - ca) okokat, amelyek a joggyakorlat egységének vagy továbbfejlesztésének biztosítása érdekében indokolják a felülvizsgálat befogadásának engedélyezését,
   - cb) jogkérdés megjelölését, amelynek különleges súlya vagy társadalmi jelentősége indokolja a befogadás engedélyezését,
   - cc) jogkérdés megjelölését, amely az Európai Unió Bírósága előzetes döntéshozatali eljárásának szükségességét indokolja, vagy
-  - cd) ítéleti rendelkezést, amely a Kúria közzétett ítélkezési gyakorlatától eltér.
+  - cd) – a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozás esetén – a Kúria közzétett határozatát és annak azt a részét, amelytől a felülvizsgálattal támadott ítéleti rendelkezés jogkérdésben eltér.
 
 (3) Az engedélyezés iránti kérelemre a felülvizsgálati kérelem előzetes megvizsgálására és visszautasítására vonatkozó rendelkezések irányadók. Az engedélyezés iránti kérelmet az előterjesztő fél ellenfelének a kérelem elbírálását megelőzően nem kell megküldeni.
 
@@ -4643,7 +4645,7 @@ miatt indokolt.
 
 #### 411. § [Döntés a felülvizsgálat engedélyezéséről]
 
-(1) Ha a felülvizsgálat engedélyezése iránti kérelem érdemi elbírálásra alkalmas, a Kúria háromtagú tanácsban, tárgyaláson kívül határoz a felülvizsgálat engedélyezéséről vagy annak megtagadásáról.
+(1) Ha a felülvizsgálat engedélyezése iránti kérelem érdemi elbírálásra alkalmas, a Kúria háromtagú tanácsban, tárgyaláson kívül, harminc napon belül határoz a felülvizsgálat engedélyezéséről vagy annak megtagadásáról.
 
 (2) A felülvizsgálat megtagadásáról szóló végzést röviden indokolni kell.
 
@@ -4663,8 +4665,9 @@ miatt indokolt.
 
 - a) a felülvizsgálni kívánt ítélet számát,
 - b) a jogszabálysértés pontos megnevezésével, a jogszabályhely megjelölésével azt az eljárási, illetve anyagi jogi szabálysértést, amely kihatott az ügy érdemi eldöntésére, valamint annak indokait, hogy a fél az új határozat hozatalát vagy a határozat hatályon kívül helyezését milyen okból kívánja,
-- c) a Kúria döntésére vonatkozó határozott kérelmet, hogy a kérelmező milyen tartalmú döntés meghozatalát kívánja, és
-- d) a végrehajthatóság felfüggesztése iránti kérelmet tartalmazó felülvizsgálati kérelem esetén a végrehajtásra vonatkozó adatokat.
+- c) – a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozás esetén – a Kúria közzétett határozatát és annak azt a részét, amelytől a felülvizsgálattal támadott ítéleti rendelkezés jogkérdésben eltér,
+- d) a Kúria döntésére vonatkozó határozott kérelmet, hogy a kérelmező milyen tartalmú döntés meghozatalát kívánja, és
+- e) a végrehajthatóság felfüggesztése iránti kérelmet tartalmazó felülvizsgálati kérelem esetén a végrehajtásra vonatkozó adatokat.
 
 (2) A felülvizsgálati kérelemben nincs helye kereset- és ellenkérelem-változtatásnak, utólagos bizonyításnak és beszámítás előterjesztésének.
 
@@ -4734,7 +4737,7 @@ A felülvizsgálati eljárásban bizonyítás felvételének helye nincs, a Kúr
 
 #### 423. § [A felülvizsgálati kérelem elbírálásának korlátai]
 
-(1) A Kúria a felülvizsgálat során a felülvizsgálati és csatlakozó felülvizsgálati kérelem korlátai között, az ott megjelölt jogszabályok tekintetében vizsgálja a jogerős ítélet jogszabálysértő voltát, kivéve, ha az eljárást hivatalból megszünteti, vagy ha a határozatot hozó bíróság nem volt szabályszerűen megalakítva, illetve a határozat meghozatalában olyan bíró vett részt, akivel szemben törvény értelmében kizáró ok áll fenn.
+(1) A Kúria a felülvizsgálat során a felülvizsgálati és csatlakozó felülvizsgálati kérelem korlátai között, az ott megjelölt jogszabályok, illetve a Kúria közzétett határozatától jogkérdésben való eltérés tekintetében vizsgálja a jogerős ítélet jogszabálysértő, illetve a kúriai határozattól jogkérdésben való eltérő voltát, kivéve, ha az eljárást hivatalból megszünteti, vagy ha a határozatot hozó bíróság nem volt szabályszerűen megalakítva, illetve a határozat meghozatalában olyan bíró vett részt, akivel szemben törvény értelmében kizáró ok áll fenn.
 
 (2) A felülvizsgálat a jogerős ítélet meghozataláig bekövetkezett és a jogerős ítélettel elbírált tényekre terjedhet ki.
 
@@ -4742,17 +4745,19 @@ A felülvizsgálati eljárásban bizonyítás felvételének helye nincs, a Kúr
 
 #### 424. § [A felülvizsgálati eljárásban hozott határozatok]
 
-(1) Ha a felülvizsgálni kért határozat a jogszabályoknak megfelel, vagy olyan eljárási szabálysértés történt, amelynek az ügy érdemi elbírálására lényeges kihatása nem volt, a Kúria a megtámadott határozatot hatályában fenntartja.
+(1) Ha a felülvizsgálni kért határozat a jogszabályoknak megfelel, vagy olyan eljárási szabálysértés történt, amelynek az ügy érdemi elbírálására lényeges kihatása nem volt, illetve a határozat jogkérdésben nem tért el a Kúria hivatkozott, közzétett határozatától, a Kúria a megtámadott határozatot hatályában fenntartja.
 
-(2) Ha a Kúria azt állapítja meg, hogy a jogerős határozat megfelel a jogszabályoknak és a Kúria közzétett ítélkezési gyakorlatának, a határozat indokolásának elegendő csak erre a körülményre utalnia, az alkalmazott jogszabályok feltüntetése mellett.
+(2) Ha a Kúria azt állapítja meg, hogy a jogerős határozat megfelel a jogszabályoknak, a határozat indokolásának elegendő csak erre a körülményre utalnia, az alkalmazott jogszabályok feltüntetése mellett. Ha a határozat jogkérdésben nem tért el a Kúria hivatkozott, közzétett határozatától a határozatot hatályában fenntartó határozat indokolásában nem elegendő csak erre a körülményre utalni.
 
-(3) Ha a határozat az ügy érdemére kiható módon jogszabálysértő, a Kúria a jogerős határozatot egészben vagy részben hatályon kívül helyezi, és a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
+(3) Ha a határozat az ügy érdemére kiható módon jogszabálysértő, illetve jogkérdésben eltér a Kúria hivatkozott, közzétett határozatától a Kúria a határozatot egészben vagy részben hatályon kívül helyezi, és a jogszabályoknak megfelelő új határozatot hoz, egyébként az ügyben eljárt első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja.
 
 (4) Ha a Kúria az első- vagy másodfokú bíróságot új eljárásra és új határozat hozatalára utasítja, a hatályon kívül helyező végzésben az új eljárás lefolytatására vonatkozóan kötelező utasításokat ad. Ebben az esetben csak a felülvizsgálati eljárásban felmerült perköltség és a meg nem fizetett illeték, illetve az állam által előlegezett költség összegét állapítja meg, azok viselése, illetve megfizetése kérdésében az új határozatot hozó bíróság dönt.
 
 (5) Ha a Kúria a másodfokú bíróságot utasítja új eljárásra, határozatát a másodfokú bíróság, egyébként pedig az elsőfokú bíróság közli a felekkel, és intézkedik – a határozathoz képest – a végrehajthatóság vagy a végrehajtás felfüggesztésének megszüntetése, illetve korlátozása iránt.
 
 (6) Új eljárásra utasítás esetén a tárgyalás a Kúria határozatának ismertetésével, a Kúria határozatában meghatározott perszakaszban kezdődik; a bíróság a továbbiakban a rá nézve irányadó szabályok szerint folytatja le az eljárást.
+
+(7) A Kúria indítványozza a jogegységi eljárást, ha megállapítja, hogy a határozat jogkérdésben eltér a Kúria hivatkozott, közzétett határozatától, de az eltérés indokolt. Az indítványnak a jogkérdés mikénti eldöntésére irányuló javaslatot is tartalmaznia kell.
 
 ### XXX. Fejezet — AZ ALKOTMÁNYJOGI PANASZ ESETÉN KÖVETENDŐ ELJÁRÁS
 
@@ -5521,7 +5526,7 @@ jogviszonyból (a továbbiakban együtt: munkaviszony) származó pert kell ért
 
 #### 509. § [Az általános szabályok alkalmazása]
 
-(1) E törvény rendelkezéseit a munkaügyi perekben az e fejezetben foglalt eltérésekkel kell alkalmazni azzal, hogy a XV. Fejezet rendelkezései vonatkozásában járásbíróság alatt a munkaügyi perben eljáró bíróságot kell érteni.
+(1) E törvény rendelkezéseit a munkaügyi perekben az e fejezetben és a XV. Fejezetben foglalt eltérésekkel kell alkalmazni. A XV. Fejezet rendelkezései vonatkozásában járásbíróság alatt a munkaügyi perben eljáró bíróságot kell érteni.
 
 (2) A perben a keresethez csatlakozásnak nincs helye.
 
@@ -5549,11 +5554,18 @@ Munkaügyi perben az elsőfokú bíróság – törvény eltérő rendelkezése 
 
 #### 513. § [Hatáskör és illetékesség]
 
-(1) Ha valamelyik pertársra, illetve kereseti kérelem elbírálására a munkaügyi perben eljáró bíróságnak, míg a többi pertársra, illetve kereseti kérelemre a járásbíróságnak vagy törvényszéknek van hatásköre, a per a munkaügyi bíróság hatáskörébe tartozik, feltéve, hogy a pertársaság vagy a keresethalmazat törvény által megengedett.
+(1) Pertársaság vagy keresethalmazat esetén, ha
 
-(2) Munkaügyi perben a munkavállaló felperes a pert az alperesre általánosan illetékes bíróság helyett belföldi lakóhelye, ennek hiányában belföldi tartózkodási helye szerint illetékes közigazgatási és munkaügyi bíróság előtt is megindíthatja.
+- a) a törvényszék hatáskörébe tartozó valamelyik kereseti kérelem elbírálása munkaügyi perre, míg a többi kereseti kérelem nem munkaügyi perre tartozik, vagy
+- b) valamelyik kereseti kérelem elbírálása munkaügyi perre, míg a többi kereseti kérelem járásbíróság hatáskörébe tartozik,
 
-(3) Munkaügyi perben a munkavállaló felperes a pert az alperesre általánosan illetékes bíróság helyett megindíthatja azon közigazgatási és munkaügyi bíróság előtt is, amelynek illetékességi területén huzamos ideig munkát végez vagy végzett.
+a pert a munkaügyi perben eljáró tanács bírálja el, feltéve, hogy a pertársaság vagy a keresethalmazat törvény által megengedett.
+
+(2) A munkavállaló felperes a pert az alperesre általánosan illetékes bíróság helyett belföldi lakóhelye, ennek hiányában belföldi tartózkodási helye szerint illetékes munkaügyi perben eljáró bíróság előtt is megindíthatja.
+
+(3) A munkavállaló felperes a pert az alperesre általánosan illetékes bíróság helyett megindíthatja azon munkaügyi perben eljáró bíróság előtt is, amelynek illetékességi területén huzamos ideig munkát végez vagy végzett.
+
+(4) A munkáltató felperes a pert kizárólag a munkavállaló belföldi lakóhelye, ennek hiányában a belföldi tartózkodási helye szerinti bíróság előtt indíthatja meg.
 
 #### 514. § [Felek és képviselet]
 

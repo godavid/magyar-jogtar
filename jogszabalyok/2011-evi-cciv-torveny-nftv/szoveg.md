@@ -1366,7 +1366,7 @@ feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötele
 
 (5) A hallgatói önkormányzat az e törvényben meghatározott jogainak megsértése esetén – beleértve azt is, ha az alapszabályának jóváhagyását megtagadják – a közléstől számított harminc napon belül jogszabálysértésre vagy intézményi szabályzatban foglaltakba ütközésre hivatkozással bírósághoz fordulhat.
 
-(6) Az (5) bekezdés szerinti határidő jogvesztő. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes. A keresetlevél benyújtásának halasztó hatálya van.
+(6) Az (5) bekezdés szerinti határidő jogvesztő. A perre a Fővárosi Törvényszék kizárólagosan illetékes. A keresetlevél benyújtásának halasztó hatálya van.
 
 (7) A hallgatói önkormányzat dönt működéséről, a működéséhez biztosított anyagi eszközök, állami támogatás és saját bevételek felhasználásáról, hatáskörei gyakorlásáról, az intézményi tájékoztatási rendszer létrehozásáról és működtetéséről. A hallgatói önkormányzat részére érdekképviseleti tevékenysége körében utasítás nem adható.
 
@@ -1592,7 +1592,7 @@ kapcsolatos ügyekben.
 
 (6) Az (5) bekezdés szerinti bírósági eljárás a határidő eredménytelen elteltétől, illetve a felhívás közlésétől számított harminc napos jogvesztő határidőn belül indítható meg.
 
-(7) A miniszter által az (5) bekezdés alapján indított közigazgatási perre a köztestületi felügyeleti per szabályait kell megfelelően alkalmazni. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(7) A miniszter által az (5) bekezdés alapján indított közigazgatási perre a köztestületi felügyeleti per szabályait kell megfelelően alkalmazni. A perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
 71/B. § (1) A MAB az oktatási hivatal felkérésére szakvéleményt készít
 
@@ -1673,7 +1673,7 @@ irányuló eljárásban.
 
 #### 44. A fenntartói irányítás keretei
 
-75. § (1) A fenntartói irányítás nem sértheti a felsőoktatási intézmény – a képzés és kutatás tudományos tárgyával és tartalmával kapcsolatos kérdések tekintetében biztosított – önállóságát. A felsőoktatási intézmény szenátusának döntése alapján a rektor a fenntartói intézkedést – a felsőoktatási intézmény e törvényben biztosított önállóságának védelme érdekében – a közléstől számított harminc napon belül közigazgatási perben támadhatja meg. A határidő jogvesztő. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+75. § (1) A fenntartói irányítás nem sértheti a felsőoktatási intézmény – a képzés és kutatás tudományos tárgyával és tartalmával kapcsolatos kérdések tekintetében biztosított – önállóságát. A felsőoktatási intézmény szenátusának döntése alapján a rektor a fenntartói intézkedést – a felsőoktatási intézmény e törvényben biztosított önállóságának védelme érdekében – a közléstől számított harminc napon belül közigazgatási perben támadhatja meg. A határidő jogvesztő. A perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
 (2) Állami felsőoktatási intézmény esetén a fenntartó
 

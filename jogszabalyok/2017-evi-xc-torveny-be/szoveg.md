@@ -7360,7 +7360,8 @@ a tárgyalást el kell napolni, és a szakértőt a kitűzött tárgyalásra meg
 - c) a bíróság által megállapított tényállást,
 - d) azoknak a bizonyítékoknak a megjelölését, amelyekre a bíróság a döntését alapozta, valamint annak rövid indokolását, hogy a bíróság a tényállás megállapításánál milyen bizonyítékokat és miért vagy miért nem fogadott el,
 - e) a bíróság által megállapított tényállás szerinti cselekmény minősítését,
-- f) a határozat egyéb rendelkezéseinek és az indítványok, így különösen a bizonyítási indítványok elutasításának indokolását, az alkalmazott jogszabályok megjelölésével.
+- f) a határozat egyéb rendelkezéseinek és az indítványok, így különösen a bizonyítási indítványok elutasításának indokolását, az alkalmazott jogszabályok megjelölésével,
+- g) azokat az indokokat, amelyek miatt a bíróság – a 649. § (1) és (2) bekezdésében meghatározott, felülvizsgálati eljárás alapjául szolgáló kérdésben – eltért a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától, ide nem értve a jogegységi határozatot.
 
 562. § (1) Ha a kihirdetés vagy a kézbesítés útján közölt ügydöntő határozat ellen sem az ügyész, sem a vádlott, sem a védő nem jelentett be fellebbezést, a határozat rövidített indokolása az 561. § (3) bekezdés a)–c) és e) pontjában meghatározottakból, valamint az alkalmazott jogszabályok megjelöléséből is állhat. Ha a bíróság a büntetés kiszabásakor enyhítő körülményként figyelembe vette a büntetőeljárás elhúzódását, akkor a határozat rövidített indokolásában szerepelnie kell az erre való utalásnak.
 
@@ -7864,7 +7865,7 @@ ellen is.
 - b) a bíróságnak az (1) bekezdésben meghatározott döntését,
 - c) az 561. § (2) bekezdés b) pontjában meghatározott személyes adatot abban az esetben, ha az megváltozott.
 
-(4) A határozat indokolása tartalmazza az elsőfokú bíróság ítélete rendelkező részének és a másodfokú bíróság mellett működő ügyészség indítványának lényegét, azt, hogy ki, miért fellebbezett, és kifejti a bíróság döntésének indokait, szükség esetén az 561. § (3) bekezdés b)–f) pontjában, az 564. § (4) bekezdés a), illetve b) pontjában, az 566. § (4) bekezdésében vagy az 567. § (5) bekezdésében meghatározottak feltüntetésével.
+(4) A határozat indokolása tartalmazza az elsőfokú bíróság ítélete rendelkező részének és a másodfokú bíróság mellett működő ügyészség indítványának lényegét, azt, hogy ki, miért fellebbezett, és kifejti a bíróság döntésének indokait, szükség esetén az 561. § (3) bekezdés b)–g) pontjában, az 564. § (4) bekezdés a), illetve b) pontjában, az 566. § (4) bekezdésében vagy az 567. § (5) bekezdésében meghatározottak feltüntetésével.
 
 ### Az elsőfokú bíróság ítéletének helybenhagyása
 
@@ -8206,6 +8207,8 @@ tanácsülésen bírálja el.
 
 (2) Ha az Alkotmánybíróság a Kúriának a törvényesség érdekében bejelentett jogorvoslat alapján hozott határozatát megsemmisíti, a Kúria eljárására a XCII. Fejezet rendelkezéseit kell alkalmazni.
 
+(3) Ha a jogegységi panasz tanács a Kúria felülvizsgálati eljárás során hozott határozatát hatályon kívül helyezi, a Kúria eljárására a XC. Fejezet rendelkezéseit kell alkalmazni, azzal, hogy az eljáró tanács jogegységi eljárást kezdeményez. A megismételt felülvizsgálati eljárásban a felülvizsgálati indítvánnyal megtámadott határozat a terhelt terhére nem változtatható meg és csak akkor helyezhető hatályon kívül, ha a terhelt felmentésének vagy az eljárás megszüntetésének van helye.
+
 ## TIZENKILENCEDIK RÉSZ — RENDKÍVÜLI JOGORVOSLATOK
 
 ### LXXXIX. Fejezet — A PERÚJÍTÁS
@@ -8396,7 +8399,8 @@ terjeszthet elő perújítási indítványt.
 
 - a) a büntető anyagi jog szabályainak megsértése miatt,
 - b) eljárási szabálysértés miatt,
-- c) az Alkotmánybíróság vagy nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján
+- c) az Alkotmánybíróság vagy nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján,
+- d) a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától való eltérés esetén
 
 van helye.
 
@@ -8427,6 +8431,8 @@ hozta meg.
 (4) Nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján felülvizsgálati indítvány terjeszthető elő, ha nemzetközi szerződéssel létrehozott emberi jogi szerv megállapította, hogy az eljárás lefolytatása vagy a bíróság jogerős ügydöntő határozata megsértette a törvényben kihirdetett nemzetközi szerződés valamely rendelkezését, feltéve, hogy a nemzetközi emberi jogi szerv joghatóságának Magyarország alávetette magát.
 
 (5) Nemzetközi szerződéssel létrehozott emberi jogi szerv határozata alapján felülvizsgálatnak akkor is helye van, ha a nemzetközi szerződéssel létrehozott emberi jogi szerv a nemzetközi szerződés azon rendelkezésének megsértését állapította meg, amely olyan eljárási szabálysértést valósított meg, amely e törvény szerint felülvizsgálattal nem, csak fellebbezéssel támadható.
+
+(6) A Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától való eltérés esetén felülvizsgálati indítvány akkor terjeszthető elő, ha az eltérés a büntető anyagi jog szabályainak (1) bekezdésben meghatározott megsértését eredményezte vagy a (2) bekezdésben meghatározott eljárási szabálysértést eredményezett.
 
 ### A felülvizsgálat korlátai
 
@@ -8461,7 +8467,7 @@ terjeszthet elő felülvizsgálati indítványt.
 
 (4) Ha valamely hatóság vagy hivatalos személy a hivatali hatáskörében azt észleli, hogy a terhelt sérelmére felülvizsgálati eljárás alapjául szolgáló törvénysértés történt, köteles erről a legfőbb ügyészt tájékoztatni.
 
-652. § (1) A felülvizsgálati indítványban meg kell jelölni azt a határozatot, amely ellen a felülvizsgálati indítvány irányul, valamint az indítvány előterjesztésének okát és célját.
+652. § (1) A felülvizsgálati indítványban meg kell jelölni azt a határozatot, amely ellen a felülvizsgálati indítvány irányul, valamint az indítvány előterjesztésének okát és célját. A 649. § (6) bekezdése esetén meg kell jelölni a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatát és annak azt a részét, amelytől a felülvizsgálattal támadott ügydöntő határozat eltér.
 
 (2) A felülvizsgálati indítványnak tartalmaznia kell az indítványozó kézbesítésre alkalmas elérhetőségét.
 
@@ -8660,6 +8666,12 @@ terjeszthet elő felülvizsgálati indítványt.
 (4) A jogegységi határozat indokolása tartalmazza a terhelt felmentésének és az eljárás megszüntetésének indokait is.
 
 (5) A jogegységi határozatot közölni kell azzal a terhelttel is, akit felmentettek vagy akivel szemben az eljárást megszüntették.
+
+(6) A bíróságok szervezetéről és igazgatásáról szóló törvény rendelkezései alapján jogegységi panasz nyújtható be.
+
+(7) Jogegységi panasz eljárásban a jogerős ügydöntő határozatban kiszabott büntetés vagy alkalmazott intézkedés végrehajtása, illetve a jogerős ügydöntő határozatba foglaltak teljesítése felfüggesztésének vagy félbeszakításának nincs helye.
+
+(8) A Kúria jogegységi panasszal támadott határozata hatályon kívül helyezésének nincs helye, ha a jogegységi panasz tanács megállapítja, hogy a felülvizsgálati eljárásban támadott határozat indokolatlanul tért el a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától, azonban a 649. § (1) és (2) bekezdésében meghatározott szabálysértés hiányában a felülvizsgálati eljárásban a megtámadott határozat megváltoztatásának, hatályon kívül helyezésének nincs helye.
 
 ### XCIV. Fejezet — EGYSZERŰSÍTETT FELÜLVIZSGÁLAT
 
@@ -10940,6 +10952,8 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 (6) Ahol a határzárral kapcsolatos bűncselekmény miatt elrendelt személyi szabadságot érintő kényszerintézkedés végrehajtását e törvény hatálybalépését megelőzően megkezdték, ott végrehajtható e törvény hatálybalépését követően is.
 
 (7) Az e törvény hatálybalépése előtt megkezdett különleges eljárást a bíróság a korábbi jogszabály rendelkezései szerint fejezi be.
+
+876/A. § E törvénynek az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel megállapított 561. § (3) bekezdés g) pontját, 604. § (4) bekezdését, 636. § (3) bekezdését, 648. § d) pontját, 649. § (6) bekezdését, 652. § (1) bekezdését és 670. § (6) bekezdését a bíróság 2020. július 1-jén vagy az azt követően meghozott ügydöntő határozata vonatkozásában kell alkalmazni.
 
 ### Sarkalatossági záradék
 
