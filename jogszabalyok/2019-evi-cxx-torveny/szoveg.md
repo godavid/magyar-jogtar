@@ -36,7 +36,7 @@ a közbeszerzésekre vonatkozó egyes törvények módosításáról
 
 16. §
 
-17. § A Kbt.
+17. §
 
 - 1.
 - 2.
@@ -45,17 +45,17 @@ a közbeszerzésekre vonatkozó egyes törvények módosításáról
 - 5.
 - 6.
 - 7.
-- 8. 61. § (4) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
+- 8.
 - 9.
-- 10. 66. § (6) bekezdésében az „eljárást megindító felhívásban” szövegrész helyébe a „dokumentumokban”,
+- 10.
 - 11.
 - 12.
 - 13.
-- 14. 71. § (6) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
-- 15. 75. § (5) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
-- 16. 77. § (5) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
-- 17. 81. § (4) és (5) bekezdésében az „az eljárást megindító felhívásban” szövegrész helyébe az „a közbeszerzési dokumentumokban”,
-- 18. 104. § (6) bekezdésében az „eljárást megindító felhívásban” szövegrész helyébe a „dokumentumokban”,
+- 14.
+- 15.
+- 16.
+- 17.
+- 18.
 - 19.
 - 20.
 - 21.
@@ -68,8 +68,6 @@ a közbeszerzésekre vonatkozó egyes törvények módosításáról
 - 28.
 - 29.
 - 30.
-
-szöveg lép.
 
 18. § (1)
 
