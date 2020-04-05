@@ -2236,8 +2236,8 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 1.42. | Múzeum u. 7. |  | Hadik-palota |
 | 1.43. | Ötpacsirta u. 2. |  | Almásy–Andrássy-palota |
 | 1.44. | Pollack Mihály tér 3. (Bródy S. u. 3.) |  | Festetics-palota |
-| 1.45. | Pollack Mihály tér 4. |  | Esterházy-palota |
-| 1.46. | Pollack Mihály tér 10. (Múzeum u. 4.) |  | Károlyi-palota |
+| 1.45. |  |  |  |
+| 1.46. |  |  |  |
 | 1.47. | Üllői út 80–82. Ludovika tér 1. |  | Ludovika Akadémia |
 | IX. kerület |  |  |  |
 | 1.48. |  |  |  |
