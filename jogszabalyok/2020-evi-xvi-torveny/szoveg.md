@@ -43,4 +43,4 @@ szám alatt található ingatlanok (a továbbiakban együtt: Ingatlanok) és a r
 
 7. § Az 1. §, a 3. §, a 4. § és a 8. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-8. § Hatályát veszti az Nvtv. 2. melléklet III. pont 1. alpontjában foglalt táblázat 1.45. és 1.46. sora.
+#### 8. §
