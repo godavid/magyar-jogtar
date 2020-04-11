@@ -1455,7 +1455,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 - b) a közigazgatási szakvizsgához szükséges gyakorlati időbe,
 - c) a közigazgatási gyakorlatba.
 
-(4)
+(4) Az ösztöndíjas jogviszonyt létrehozó szerződésben meghatározott feltételek sikeres teljesítését követően az ösztöndíjassal első munkavégzésre irányuló jogviszonyként az ösztöndíjas jogviszony megszűnését követő egy éven belül elsőként kormányzati szolgálati jogviszonyt létesítő kormányzati igazgatási szerv próbaidőt nem köthet ki.
 
 (5) Az ösztöndíjas jogviszonyra
 
@@ -4805,24 +4805,19 @@ figyelembe kell venni.
 
 kell érteni.
 
-(2) Ha jogszabály
-
-- a) a Ksztv.-t vagy annak rendelkezését rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig a Ksztv. 2018. december 31-én hatályos szabályai,
-- b) az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletet vagy annak rendelkezését, illetve az állami vezetői juttatásokról szóló kormányrendeletet vagy annak rendelkezését rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig az állami vezetői juttatásokról szóló 275/2015. (IX. 21.) Korm. rendelet 2018. december 31-én hatályos szabályai
-
-az irányadóak.
+(2)
 
 (3) Ha jogszabály
 
-- a) a miniszterelnök, a miniszter, az államtitkár Ksztv. szerinti javadalmazásának szabályait rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig e tisztségviselőnek a Ksztv. 2018. december 31-én hatályos szabályai szerinti javadalmazására vonatkozó szabályok,
-- b) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár vagy a helyettes államtitkár Ksztv. szerinti juttatásainak szabályait rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig e tisztségviselőnek a Ksztv. 2018. december 31-én hatályos szabályai szerinti juttatására vonatkozó szabályok,
+- a)
+- b)
 - c) a miniszterelnök közcélú felajánlásaira, adományaira vonatkozó Ksztv. szerinti szabályokat rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig a Ksztv. miniszterelnök közcélú felajánlásaira, adományaira vonatkozó szabályok
 
 az irányadóak.
 
 (3a)
 
-(4) Ha jogszabály a közigazgatási államtitkár vagy a helyettes államtitkár illetményére vonatkozó szabályokat rendeli alkalmazni, jogszabály eltérő rendelkezése hiányában 2020. december 31-éig e tisztségviselőnek a Kttv. 2018. december 31-én hatályos szabályai szerinti illetményére vonatkozó szabályok az irányadóak.
+(4)
 
 (5) Ahol jogszabály állami tisztviselőt, illetve állami ügykezelőt említ, azon az e törvény szerinti fővárosi és megyei kormányhivatal kormánytisztviselőjét kell érteni.
 

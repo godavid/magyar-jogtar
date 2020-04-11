@@ -109,7 +109,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (3) A jogszabályok és a közjogi szervezetszabályozó eszközök nem sérthetik a KSH szakmai függetlenségét.
 
-(4) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 263. § (2) bekezdésében foglaltakat a KSH vonatkozásában nem kell alkalmazni.
+(4) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 263. § (2) bekezdésében foglaltakat a KSH vonatkozásában nem kell alkalmazni.
 
 (5) A KSH elnöke törvényben meghatározott feladatkörében nem utasítható.
 
@@ -159,7 +159,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 9. § A KSH vezetői az elnök és az elnökhelyettesek.
 
-10. § Törvény eltérő rendelkezése hiányában a KSH elnöke és elnökhelyettesei jogviszonyára – az e törvényben foglalt eltérésekkel – a kormányzati igazgatásról szóló törvény szakmai vezetői álláshelyet betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.
+10. § Törvény eltérő rendelkezése hiányában a KSH elnöke és elnökhelyettesei jogviszonyára – az e törvényben foglalt eltérésekkel – a Kit. szakmai vezetői álláshelyet betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.
 
 11. § (1) A KSH-t az elnök vezeti, aki feladatainak ellátása során nem utasítható.
 
@@ -232,7 +232,9 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (4) Ha a KSH elnökhelyettese a felajánlott álláshelyet nem fogadja el a kormánytisztviselőkre irányadó szabályok szerint felmentési idő és juttatások illeti meg, amelynek időtartama alatt a munkavégzési kötelezettség alól mentesül.
 
-19. § A KSH elnökét az államtitkár, elnökhelyetteseit a helyettes államtitkár illetményével azonos díjazás, illetve juttatások illetik meg.
+19. § (1) A KSH elnöke a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg. A KSH elnöke ezenfelül az államtitkári juttatásokkal azonos juttatásokra jogosult.
+
+(2) A KSH elnökhelyettese a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetményre jogosult, amelynek összegét a KSH elnöke mint a munkáltatói jogkör gyakorlója állapítja meg. A KSH elnökhelyettese ezenfelül a helyettes államtitkári juttatásokkal azonos juttatásokra jogosult.
 
 20. § A KSH elnökét és elnökhelyetteseit évente negyven munkanap szabadság illeti meg.
 

@@ -1596,7 +1596,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 ### A Kuratórium elnökének és tagjainak a díjazása
 
-93. § A Kuratórium elnökét az államtitkári illetmény hatvanöt százalékának, a Kuratórium tagját az államtitkári illetmény negyven százalékának megfelelő mértékű tiszteletdíj illeti meg, továbbá – legfeljebb tiszteletdíjuk ötven százalékáig – költségtérítésre tarthatnak igényt. A költségtérítés mértékére vonatkozó további szabályokat a Közalapítvány Szervezeti és Működési Szabályzata állapítja meg.
+93. § A Kuratórium elnökét a kormányzati igazgatásról szóló törvény szerinti közigazgatási államtitkári illetmény felső határa harmincöt százalékának, a Kuratórium tagját a kormányzati igazgatásról szóló törvény szerinti közigazgatási államtitkári illetmény felső határa huszonkét százalékának megfelelő mértékű tiszteletdíj illeti meg, továbbá – legfeljebb tiszteletdíjuk ötven százalékáig – költségtérítésre tarthatnak igényt. A költségtérítés mértékére vonatkozó további szabályokat a Közalapítvány Szervezeti és Működési Szabályzata állapítja meg.
 
 ### A Közalapítvány gazdálkodása
 
@@ -1655,7 +1655,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (4) A Közszolgálati Testület titkársági feladatait a Közalapítvány irodája látja el, költségei – beleértve az elnök és a tagok tiszteletdíját – a Közalapítványt terhelik.
 
-(5) A Közszolgálati Testület elnökét az államtitkári illetmény negyven százalékának, tagját az államtitkári illetmény huszonöt százalékának megfelelő mértékű tiszteletdíj illeti meg. Az elnök és a tagok ezen felül – a Testülethez kötődő feladataik ellátásához szükséges – utazási költségeik megtérítésére tarthatnak igényt. Az elnökre és a tagokra a 118. §-ban foglalt összeférhetetlenségi szabályok– a 118. § (1) bekezdés e) pontjának kivételével – értelemszerűen irányadók.
+(5) A Közszolgálati Testület elnökét a kormányzati igazgatásról szóló törvény szerinti közigazgatási államtitkári illetmény felső határa huszonkét százalékának, tagját a kormányzati igazgatásról szóló törvény szerinti közigazgatási államtitkári illetmény felső határa tizennégy százalékának megfelelő mértékű tiszteletdíj illeti meg. Az elnök és a tagok ezenfelül – a Testülethez kötődő feladataik ellátásához szükséges – utazási költségeik megtérítésére tarthatnak igényt. Az elnökre és a tagokra a 118. §-ban foglalt összeférhetetlenségi szabályok – a 118. § (1) bekezdés e) pontjának kivételével – irányadók.
 
 (6) A Közszolgálati Testület a társadalmi felügyeletet biztosítja a közszolgálati médiaszolgáltató felett.
 
@@ -1963,13 +1963,13 @@ Ennek keretében:
 
 110/A. § (1) A Hatóság a 109–110. §-ban részletezett feladatai ellátásához szükséges, speciális szaktudással és kompetenciákkal rendelkező szakemberállomány fenntartása érdekében önállóan alakítja a személyzetpolitikájával kapcsolatos alapelveket.
 
-(2) A Hatóság főigazgatója és főigazgató-helyettesei, valamint a Hatóság alkalmazottai e tevékenységüket közszolgálati jogviszony keretében látják el, jogviszonyukra az e törvényben foglalt eltérésekkel a közszolgálati tisztviselőkről szóló törvény köztisztviselőkre vonatkozó rendelkezéseit kell alkalmazni.
+(2) A Hatóság főigazgatója és főigazgató-helyettesei, valamint a Hatóság alkalmazottai e tevékenységüket közszolgálati jogviszony keretében látják el, jogviszonyukra az e törvényben foglalt eltérésekkel a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvényt kell alkalmazni.
 
-(3) A Hatóság elnöke meghatározza a Hatóság feladatainak ellátásához szükséges munkakörök rendszerét, a feladatok ellátásához szükséges erőforrások mennyiségét, illetve a Hatóság szervezeti és működési szabályzatában jelöli ki a (2) bekezdésbe nem tartozó azon munkaköröket, amelyek betöltői feladataikat munkaviszony keretében látják el.
+(3) A Hatóság elnöke meghatározza a Hatóság feladatainak ellátásához szükséges álláshelyek rendszerét, a feladatok ellátásához szükséges erőforrások mennyiségét, valamint a Hatóság szervezeti és működési szabályzatában jelöli ki a (2) bekezdésbe nem tartozó azon álláshelyeket, amely álláshelyen foglalkoztatottak feladataikat munkaviszony keretében látják el. A Hatóság elnöke szabályzatban meghatározhatja az álláshelyek besorolási kategóriáit.
 
-(4) A Hatóság elnöke át nem ruházható hatáskörében dönt a Hatóság illetménypolitikai alapelveiről, béren kívüli juttatásairól, köztisztviselőinek alapilletményéről, annak eltérítéséről.
+(4) A Hatóság elnöke át nem ruházható hatáskörében dönt a Hatóság illetménypolitikai alapelveiről és béren kívüli juttatásairól.
 
-(5) A Hatóság elnöke a speciális, egyedi szaktudással rendelkező munkakört, illetve több vezetői munkakört betöltő köztisztviselők részére személyi illetményt állapíthat meg. Személyi illetmény a Hatóság aktív létszámának legfeljebb húsz százalékáig adható és indokolás nélkül visszavonható. A Hatóság elnöke meghatározza a fenti munkaköröket betöltő személyek jogviszonyának megszűnése esetén esetlegesen alkalmazandó, elhelyezkedést korlátozó szabályokat és e szabályok részletes feltételeit a kinevezésekben rögzíti.
+(5) A Hatóság és a Hatóság köztisztviselői közszolgálati munkaszerződésben állapodnak meg a köztisztviselő illetményéről, a juttatásokról, a pótszabadság mértékéről, a napi munkaidőről és az általános munkarendről.
 
 (6) A Hatóság elnöke saját hatáskörében, a Hatóság Közszolgálati Szabályzatában maga határozza meg a teljesítményértékelési rendszerével, az ahhoz kapcsolódó jutalmazással, toborzási és kiválasztási politikájával, valamint a továbbképzések, tanfolyamok, egyedi fejlesztések tervezésével és lebonyolításával kapcsolatos részletszabályokat.
 
@@ -2018,9 +2018,9 @@ Ennek keretében:
 
 (2a) A (2) bekezdés a) pontja szerinti gyakorlatnak kell tekinteni különösen a következőket:
 
-- a) a Hivatalnál, illetve a Nemzeti Hírközlési Hatóságnál hírközlési területen folytatott hatósági tevékenység vezetői vagy ügyintézői munkakörben,
+- a) a Hivatalnál, illetve a Nemzeti Hírközlési Hatóságnál hírközlési területen folytatott hatósági tevékenység vezetői vagy ügyintézői munkakörben vagy álláshelyen,
 - b) a Hivatal, illetve a Nemzeti Hírközlési Hatóság határozataival kapcsolatos jogorvoslati eljárások lefolytatásában való bírói, ügyészi vagy jogi képviselői részvétel,
-- c) az Országos Rádió és Televízió Testületnél vagy annak szerveinél, illetve a Médiatanácsnál a médiaszolgáltatások felügyeletével kapcsolatos tevékenység vezetői vagy ügyintézői munkakörben,
+- c) az Országos Rádió és Televízió Testületnél vagy annak szerveinél, illetve a Médiatanácsnál a médiaszolgáltatások felügyeletével kapcsolatos tevékenység vezetői vagy ügyintézői munkakörben vagy álláshelyen,
 - d) az Országos Rádió és Televízió Testület vagy annak szervei döntéseivel kapcsolatos jogorvoslati eljárások lefolytatásában való bírói, ügyészi vagy jogi képviselői részvétel,
 - e) a rádiózásról és televíziózásról szóló 1996. évi I. törvény szerinti Magyar Rádió Közalapítvány, Magyar Televízió Közalapítvány és Hungária Televízió Közalapítvány kuratóriumában vagy ezek ellenőrző testületeiben, illetve a 85. § szerinti Kuratóriumban betöltött tagság.
 
@@ -2092,7 +2092,7 @@ amelynek jogát vagy jogos érdekét elnökként, illetve elnökhelyettesként h
 
 (9) Tekintettel a (8) bekezdés szerinti működési szektort érintő elhelyezkedési tilalomra, az Elnök, illetve az elnökhelyettes megbízatásának megszűnésével egyidejűleg a megelőző 12 havi, a Hatóságtól származó nettó – azaz személyi jövedelemadóval csökkentett – jövedelmének megfelelő mértékű kártalanításra jogosult. A kártalanítást a Hatóság költségvetése terhére kell megfizetni. Az ily módon megállapított kárátalány a károk megtérülése körében adómentes. Ugyanezt a szabályt kell alkalmazni a Médiatanács elnöke és tagjai megbízatásának megszűnésekor érvényesülő, 129. § (9) bekezdésben foglalt tilalommal összefüggésben is.
 
-(10) Amennyiben az elnökhelyettes megbízatása a (4) bekezdés d) pontja szerint szűnik meg, a megbízatás megszűnésére a közszolgálati jogviszonyban történő vezetői megbízás visszavonása esetére irányadó rendelkezéseket kell megfelelően alkalmazni.
+(10) Amennyiben az elnökhelyettes megbízatása a (4) bekezdés d) pontja szerint szűnik meg, a megbízatás megszűnésére a vezetői álláshelyről nem vezetői álláshelyre való helyezés esetére irányadó rendelkezéseket kell megfelelően alkalmazni.
 
 ### A Nemzeti Média- és Hírközlési Hatóság Hivatala
 
@@ -2113,6 +2113,8 @@ amelynek jogát vagy jogos érdekét elnökként, illetve elnökhelyettesként h
 (2) A főigazgató kinevezésére a 111/A. § (2) és (2a) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
 (3) A főigazgató havi illetménye az Elnök havi illetményének 60%-a. Egyebekben a főigazgató államtitkári juttatásokra jogosult.
+
+(3a) A főigazgató minden naptári évben a Hatóság szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
 
 (4) A főigazgatót nem lehet utasítani az elsőfokú hatósági határozathozatali joggyakorlása során.
 
@@ -2159,6 +2161,8 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 (2) A főigazgató-helyettes olyan személy lehet, aki az országgyűlési képviselők választásán választható, büntetlen előéletű, nem áll a tevékenységének megfelelő foglalkozástól eltiltás hatálya alatt, valamint felsőfokú végzettséggel és legalább három év, a műsorszórással, a médiaszolgáltatással, a média hatósági felügyeletével, az elektronikus hírközléssel, vagy a hírközlési hatósági felügyelettel összefüggő közgazdasági, társadalomtudományi, jogi, műszaki vagy vezetői (vezető testületben tagsági), illetve igazgatási gyakorlattal rendelkezik.
 
 (3) A főigazgató-helyettes havi illetménye az Elnök havi illetményének 50%-a. Egyebekben a főigazgató-helyettes helyettes államtitkári juttatásokra jogosult.
+
+(3a) A főigazgató-helyettes minden naptári évben a Hatóság szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
 
 (4) A főigazgató-helyettesre a főigazgatóra vonatkozó, a 115. § (5)–(10) bekezdésében foglalt rendelkezéseket alkalmazni kell.
 
@@ -2223,9 +2227,9 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 (2a) A (2) bekezdés a) pontja szerinti gyakorlatnak kell tekinteni különösen a következőket:
 
-- a) a Hivatalnál, illetve a Nemzeti Hírközlési Hatóságnál hírközlési területen folytatott hatósági tevékenység vezetői vagy ügyintézői munkakörben,
+- a) a Hivatalnál, illetve a Nemzeti Hírközlési Hatóságnál hírközlési területen folytatott hatósági tevékenység vezetői vagy ügyintézői munkakörben vagy álláshelyen,
 - b) a Hivatal, illetve a Nemzeti Hírközlési Hatóság határozataival kapcsolatos jogorvoslati eljárások lefolytatásában való bírói, ügyészi vagy jogi képviselői részvétel,
-- c) az Országos Rádió és Televízió Testületnél vagy annak szerveinél, illetve a Médiatanácsnál a médiaszolgáltatások felügyeletével kapcsolatos tevékenység vezetői vagy ügyintézői munkakörben,
+- c) az Országos Rádió és Televízió Testületnél vagy annak szerveinél, illetve a Médiatanácsnál a médiaszolgáltatások felügyeletével kapcsolatos tevékenység vezetői vagy ügyintézői munkakörben vagy álláshelyen,
 - d) az Országos Rádió és Televízió Testület vagy annak szervei döntéseivel kapcsolatos jogorvoslati eljárások lefolytatásában való bírói, ügyészi vagy jogi képviselői részvétel,
 - e) a rádiózásról és televíziózásról szóló 1996. évi I. törvény szerinti Magyar Rádió Közalapítvány, Magyar Televízió Közalapítvány és Hungária Televízió Közalapítvány kuratóriumában vagy ezek ellenőrző testületeiben, illetve a 85. § szerinti Kuratóriumban betöltött tagság.
 
@@ -2561,7 +2565,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 139. § (1) A Hatóság részeként Média- és Hírközlési Biztos (a továbbiakban: Biztos) működik. A Biztos az elektronikus hírközlési szolgáltatást, illetve médiaszolgáltatást igénybe vevő felhasználókat, előfizetőket, nézőket, hallgatókat, fogyasztókat, illetve a sajtótermékek olvasóit megillető, elektronikus hírközléssel és a médiaszolgáltatásokkal, sajtótermékekkel kapcsolatos méltánylást érdemlő érdekek érvényesülésének elősegítésében működik közre. A Biztos eljár az e törvényben meghatározott ügyekben.
 
-(2) A Biztost az Elnök nevezi ki és menti fel, valamint gyakorolja felette a munkáltatói jogokat. A Biztos főosztályvezetői besorolású köztisztviselő. A Biztos e fejezet szerinti feladatai ellátása körében nem utasítható.
+(2) A Biztost az Elnök nevezi ki és menti fel, valamint gyakorolja felette a munkáltatói jogokat. A Biztos szakmai vezető I. besorolású álláshelyen foglalkoztatott köztisztviselő. A Biztos e fejezet szerinti feladatai ellátása körében nem utasítható.
 
 (3) A Biztosra megfelelően alkalmazni kell a 111/A. § (2) és (2a) bekezdésében foglaltakat.
 

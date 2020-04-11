@@ -202,7 +202,7 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 
 (3) A Hivatal ellátja a Bizottság szervezeti működtetési, ügyviteli és döntés-előkészítési feladatait.
 
-27. § A Hivatal közszolgálati jogviszonyban álló főigazgatóból, egyéb vezetői munkakört betöltő, valamint nem vezetői munkakört betöltő szakirányú felsőfokú végzettséggel rendelkező köztisztviselőkből, egyéb legalább középiskolai végzettségű köztisztviselőkből, közszolgálati ügykezelőkből és a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból áll.
+27. § A Hivatal közszolgálati jogviszonyban álló főigazgatóból, köztisztviselőkből és munkavállalókból áll. A Hivatal köztisztviselői és munkavállalói tekintetében a munkáltatói jogokat a Hivatal főigazgatója gyakorolja.
 
 27/A. § (1) A Hivatalt főigazgató vezeti. A főigazgatót a Bizottság elnöke nevezi ki, menti fel és gyakorolja felette az egyéb munkáltatói jogokat.
 
@@ -214,17 +214,19 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 
 (5) A főigazgató az e törvényben foglalt kivételekkel gyakorolja a fejezetet irányító szerv hatásköreit.
 
-27/B. § A Hivatal főigazgatója a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetmény felső határának megfelelő illetményre jogosult, egyéb juttatásait a Bizottság elnöke szabályzatban állapítja meg.
+27/B. § (1) A Hivatal főigazgatója a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetmény felső határának megfelelő illetményre jogosult, egyéb juttatásait a Bizottság elnöke szabályzatban állapítja meg.
 
-28. § (1) A Bizottság elnöke a Hivatal köztisztviselői tekintetében a közszolgálati jogviszony létesítését a közszolgálati tisztviselőkről szóló törvényben foglaltakon túlmenően meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
+(2) A Hivatal főigazgatója minden naptári évben húsz munkanap vezetői pótszabadságot jogosult igénybe venni.
 
-(2) A Hivatal főigazgatója a Hivatal köztisztviselőjét vezetői munkakörbe, ezen belül főosztályvezetőnek, főosztályvezető-helyettesnek, osztályvezetőnek kinevezheti és kinevezését visszavonhatja.
+28. § (1) A Hivatal főigazgatója az álláshely betöltésének szakmai feltételeit, az álláshelynek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) 4. § (3) bekezdése szerinti besorolási kategóriáját, valamint az álláshelyen ellátandó feladatot a Bizottság elnökének iránymutatása alapján, szabályzatban állapítja meg.
 
-(3) Az e törvényben nem szabályozott kérdésekben a Hivatal köztisztviselőinek és közszolgálati ügykezelőinek jogviszonyára a közszolgálati tisztviselőkről szóló törvényt, a munkavállalók jogviszonyára a munka törvénykönyvéről szóló törvényt kell alkalmazni.
+(2) A Hivatal szervezeti felépítését a főigazgató által kiadott és a Bizottság elnöke által jóváhagyott szervezeti és működési szabályzat határozza meg.
 
-29. § (1) A Hivatalnál foglalkoztatott köztisztviselő, közszolgálati ügykezelő, valamint munkavállaló összeférhetetlenségére a közszolgálati tisztviselőkről szóló törvény szabályai az irányadóak a (2) és (3) bekezdésben foglalt kiegészítéssel.
+(3) Az e törvényben nem szabályozott kérdésekben a Hivatal által közszolgálati jogviszonyban foglalkoztatottak jogviszonyára a Küt.-öt, a munkavállalók jogviszonyára a munka törvénykönyvéről szóló törvényt a Küt.-ben foglalt eltérésekkel kell alkalmazni.
 
-(2) A Hivatalnál foglalkoztatott köztisztviselő, közszolgálati ügykezelő, valamint munkavállaló nem lehet az,
+29. § (1) A Hivatalnál foglalkoztatott köztisztviselő és munkavállaló összeférhetetlenségére a Küt. szabályai az irányadóak a (2) és (3) bekezdésben foglalt kiegészítéssel.
+
+(2) A Hivatalnál foglalkoztatott köztisztviselő, valamint munkavállaló nem lehet az,
 
 - a) aki az 1990. február 14-e előtti időszakban titkosszolgálati tevékenységet folytatott,
 - b) aki 1990. május 2-a előtt

@@ -74,6 +74,8 @@ Az Országgyűlés a hatékonyan működő, költségtakarékos, az adminisztrat
 
 (4) A (2) bekezdés b) pontja és (3) bekezdés b) pontja szerinti vezetői álláshely a szervezeti és működési szabályzatban meghatározott szervezeti egység vezetésére tölthető be.
 
+(4a) Ha az önálló szervezeti egység nem tagolódik nem önálló szervezeti egységekre vagy kizárólag az önálló szervezeti egység vezetője által közvetlenül vezetett nem önálló szervezeti egységekre tagolódik, – szabályzat eltérő rendelkezése hiányában – az önálló szervezeti egység vezetőjét az általa vagy a munkáltatói jogkör gyakorlója által írásban kijelölt köztisztviselő helyettesíti.
+
 (5) A különleges jogállású szerv vezetője és annak helyettese vonatkozásában az álláshely besorolási kategóriáját a szervet létrehozó törvény, a különleges jogállású szerv alapító okirata vagy a különleges jogállású szerv szervezeti és működési szabályzata határozza meg.
 
 #### 5. § [Az álláshely felhasználásának esetei]
@@ -577,7 +579,7 @@ hatályos.
 (6) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a munkáltató a köztisztviselőt
 
 - a) a kérelem szerinti időpontig, de
-- b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő köztisztviselő esetén a gyermek ötéves koráig
+- b) legfeljebb a gyermek négyéves koráig, három vagy több gyermeket nevelő köztisztviselő esetén a gyermek hatéves koráig
 
 köteles foglalkoztatni. Ezt követően a köztisztviselő munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
 
@@ -833,6 +835,8 @@ meghosszabbodik, ha azt a köztisztviselő kéri.
 
 (5) A köztisztviselőt a felmentés időtartamának legalább a felére a munkavégzési kötelezettség alól mentesíteni kell, erre az időtartamra illetményre jogosult. A 51. § (2) és (3) bekezdésében meghatározott összeférhetetlenségi szabály nem alkalmazható a munkavégzési kötelezettség alól mentesített köztisztviselővel szemben. A munkavégzés alól a köztisztviselőt a kívánságának megfelelően – legfeljebb két részletben – kell mentesíteni.
 
+(5a) A köztisztviselő a felmentési idő egészére jogosult illetményre, ha a munkavégzési kötelezettség alól fizetés nélküli szabadság miatt mentesül.
+
 (6) A köztisztviselő a munkavégzési kötelezettség alóli mentesítés idejére járó illetményre havonta egyenlő részletekben jogosult.
 
 (7) A kifizetett illetményt visszakövetelni nem lehet, ha a köztisztviselőt a munkavégzés alól végleg mentesítették és az illetmény fizetését kizáró körülmény a köztisztviselőnek a munkavégzés alóli mentesítése után következett be.
@@ -907,7 +911,8 @@ Az a) pont alkalmazása szempontjából a köztisztviselő besorolása szerinti 
 - d) a beteg gyermek ápolása címén fennálló keresőképtelenség,
 - e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés,
 - f) a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének, de legfeljebb ennek megkezdésétől számított hat hónap, és
-- g) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság
+- g) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság,
+- h) az unoka gondozása céljából igénybe vett fizetés nélküli szabadság
 
 időtartama alatt.
 
@@ -1455,6 +1460,8 @@ munkanap pótszabadság igénybevételére jogosult.
 - a) a (9) és (10) bekezdés szerinti esetben a gyermek mindkét köztisztviselő szülője jogosult igénybe venni, ha a gyermekkel közös háztartásban él,
 - b) a (13) bekezdés szerinti esetben minden köztisztviselő nagyszülő jogosult igénybe venni.
 
+(16) Az a köztisztviselő, aki vezetői pótszabadságra és a (9) és (10) bekezdés szerinti pótszabadságra nem jogosult, az ötvenedik életévének betöltésétől évente 3 munkanap pótszabadságot is igénybe vehet.
+
 #### 64. § [A szabadság kiadása]
 
 (1) A szabadságot az esedékességének évében kell kiadni és kivenni.
@@ -1466,7 +1473,9 @@ munkanap pótszabadság igénybevételére jogosult.
 
 ha az esedékesség éve eltelt.
 
-(3) A (2) bekezdés szerinti határidőt követően a szabadság nem adható ki és nem vehető igénybe.
+(2a) Ha a köztisztviselő táppénz, szülési szabadság, vagy a gyermek, illetve az unoka gondozása, a hozzátartozó ápolása céljából igénybe vett fizetés nélküli szabadság miatt nem tudja az esedékesség évében a szabadságát igénybe venni, az akadályoztatás megszűnésétől számított harminc napon belül – az esedékesség évét követően is – igénybe veheti a szabadságot.
+
+(3) A (2) és (2a) bekezdés szerinti határidőt követően a szabadság nem adható ki és nem vehető igénybe.
 
 (4) A (2) bekezdés a) pontjában meghatározott szolgálati érdeknek minősül különösen, ha az alapszabadság kiadása miatt
 
@@ -1507,9 +1516,9 @@ nem biztosítható.
 
 (20) Ha a szabadság mértékét érintő változásra év közben kerül sor, akkor a köztisztviselő számára az alapszabadság arányos része jár, illetve a pótszabadság arányos része vehető igénybe.
 
-(21) A köztisztviselőnek a szabadság kivételére vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie. Ha a köztisztviselőt érintő olyan körülmény merül fel, amely miatt a munkavégzési kötelezettség teljesítése számára személyi, illetve családi körülményeire tekintettel aránytalan vagy jelentős sérelemmel járna, a köztisztviselő erről haladéktalanul értesíti a munkáltatót. Ebben az esetben a munkáltató a szabadságot a tizenöt napos bejelentési határidőre vonatkozó szabály mellőzésével köteles kiadni. A köztisztviselő a hivatali szervezet vezetőjének felszólítása esetén a körülmény fennállását a munkába állásakor haladéktalanul igazolni köteles.
+(21) A köztisztviselőnek a szabadság kivételére vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie. Ha a köztisztviselőt érintő olyan körülmény merül fel, amely miatt a munkavégzési kötelezettség teljesítése számára személyi, illetve családi körülményeire tekintettel aránytalan vagy jelentős sérelemmel járna, a köztisztviselő erről haladéktalanul értesíti a munkáltatót. Ebben az esetben a munkáltató a szabadságot a tizenöt napos bejelentési határidőre vonatkozó szabály mellőzésével köteles kiadni. A köztisztviselő a munkáltatói jogkör gyakorlójának felszólítása esetén a körülmény fennállását a munkába állásakor haladéktalanul igazolni köteles.
 
-(22) Ha a köztisztviselő a gyermek ápolása, gondozása miatt kapott fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság megszűnését követően.
+(22) Ha a köztisztviselő a gyermek vagy az unoka gondozása, a hozzátartozó ápolása céljából igénybe vett fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani a gyermek vagy az unoka gondozása, a hozzátartozó ápolása céljából igénybe vett fizetés nélküli szabadság megszűnését követően.
 
 #### 65. § [A betegszabadság]
 
@@ -1550,6 +1559,8 @@ nem biztosítható.
 (10) A (9) bekezdésben megjelölt esetben a szabadság időtartama – a szülést követően – hat hétnél rövidebb nem lehet.
 
 (11) A köztisztviselőnek gyermeke személyes gondozása érdekében – a (7) bekezdésben foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély, gyermekgondozást segítő ellátás folyósításának időtartama alatt.
+
+(11a) A köztisztviselőnek unokája személyes gondozása érdekében fizetés nélküli szabadság jár a gyermekgondozási díj folyósításának időtartama alatt.
 
 (12) A köztisztviselőnek hozzátartozója tartós – előreláthatólag harminc napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre fizetés nélküli szabadság jár. A tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
 
@@ -2381,7 +2392,11 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 (1) A Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Gazdasági Versenyhivatal és a Közbeszerzési Hatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
 
+(1a) Az (1) bekezdés szerinti különleges jogállású szerv vezetőjének és helyettesének közszolgálati jogviszonya a különleges jogállású szervet létrehozó törvényben meghatározottak szerint jön létre.
+
 (2) A közszolgálati munkaszerződésben a felek a köztisztviselő illetményéről, a juttatásokról, a pótszabadság mértékéről, a napi munkaidőről és az általános munkarendről állapodnak meg.
+
+(2a) Ha az (1) bekezdés szerinti különleges jogállású szerv foglalkoztatottjának jogviszonya a különleges jogállású szervet létrehozó törvény alapján nem közszolgálati munkaszerződéssel jön létre, a foglalkoztatott a különleges jogállású szerv szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
 
 (3) Ahol e törvény kinevezési okmányról rendelkezik, azon az (1) bekezdés szerinti szervek esetében a közszolgálati munkaszerződést kell érteni.
 
@@ -2399,9 +2414,9 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 #### 100. § [A Köztársasági Elnöki Hivatalra vonatkozó eltérő szabályok]
 
-(1) A Köztársasági Elnöki Hivatal vezetője és annak helyettese a különleges jogállású szervet létrehozó törvényben, vagy annak felhatalmazása alapján az alapító okiratban vagy a szervezeti és működési szabályzatban meghatározott mértékű illetményre jogosult.
+(1) A Köztársasági Elnöki Hivatal vezetője a különleges jogállású szervet létrehozó törvényben, vagy annak felhatalmazása alapján az alapító okiratban vagy a szervezeti és működési szabályzatban meghatározott mértékű illetményre és pótszabadságra jogosult.
 
-(2) A 22. § (1) bekezdése, a 24. § (10) bekezdése, a 39. § (1) bekezdés d) pontja szerinti jogkört a Köztársasági Elnöki Hivatal vonatkozásában a köztársasági elnök gyakorolja.
+(2) A 22. § (1) bekezdése, a 24. § (10) bekezdése, a 39. § (1) bekezdés d) pontja szerinti jogkört a Köztársasági Elnöki Hivatal vezetője vonatkozásában a köztársasági elnök gyakorolja.
 
 ### XVI. Fejezet — A KÜLÖNLEGES JOGÁLLÁSÚ SZERVNÉL FOGLALKOZTATOTT MUNKAVÁLLALÓK
 
@@ -2487,6 +2502,8 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 (5) A 38. § (1) bekezdés g) pontja és a 39. § (2) bekezdés d) pontja alkalmazása szempontjából a köztisztviselő öregségi nyugdíjra a (2) bekezdés a)–c) pontjában szabályozott esetben jogosult.
 
+103/A. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a nemzeti szakértőként az Európai Unió, valamint a nemzetközi szervezet intézményeiben alkalmazott köztisztviselők jogviszonyára, sajátos jogállására vonatkozó részletes szabályokat.
+
 #### 104. § [Hatálybalépés]
 
 Ez a törvény 2020. január 1. napján lép hatályba.
@@ -2525,9 +2542,9 @@ Ez a törvény 2020. január 1. napján lép hatályba.
 
 (16) A (15) bekezdés szerinti döntéshozatal során a munkáltatói jogkör gyakorlója figyelembe veszi a köztisztviselő 2019. második félévi teljesítményértékelését és éves minősítését, valamint a közszolgálati ügykezelő utolsó értékelését.
 
-(17) Az érintett részére a 2020. április 30-án meglévő szabadságát 2020. április 30-át követően – a (20) bekezdésben meghatározott kivétellel – nem lehet kiadni.
+(17) Az érintett részére a 2020. április 30-án meglévő szabadságát 2020. április 30-át követően – a (20) és (21) bekezdésben meghatározott kivétellel – nem lehet kiadni.
 
-(18) Az érintett 2020. április 30-án meglévő, ki nem adott szabadságát 40 napon belül meg kell váltani.
+(18) Az érintett 2020. április 30-án meglévő, ki nem adott szabadságát – a (21) bekezdés szerinti szabadság kivételével – 40 napon belül meg kell váltani.
 
 (19) A (18) bekezdés szerinti megváltás során az érintettet 2020. április 1. napján megillető illetménnyel kell számolni.
 
@@ -2641,6 +2658,20 @@ I/A.
 11. önéletrajza
 
 I/B. eltartott gyermeke(i)
+
+1. családi és utóneve
+
+2. születési helye, ideje
+
+3. anyja születési családi és utóneve
+
+4. lakóhelye, lakáscíme, tartózkodási helye
+
+5. adóazonosító jele
+
+6. társadalombiztosítási azonosító jele
+
+I/C. unokája, unokái
 
 1. családi és utóneve
 

@@ -180,7 +180,7 @@ az eljárás végleges döntéssel történő befejezését vagy az ügy lezár�
 
 (4) Az elnökhelyettesek feladatkörét a Hivatal szervezeti és működési szabályzata állapítja meg.
 
-7. § (1) A Hivatal elnökének és elnökhelyettesének tisztségére nem kell pályázatot kiírni. Elnöknek és elnökhelyettesnek olyan személy nevezhető ki, aki a közszolgálati tisztviselőkről szóló törvényben foglalt követelményeken túl felsőfokú iskolai végzettséggel és
+7. § (1) A Hivatal elnökének és elnökhelyettesének tisztségére nem kell pályázatot kiírni. Elnöknek és elnökhelyettesnek olyan személy nevezhető ki, aki a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvényben foglalt követelményeken túl felsőfokú iskolai végzettséggel és
 
 - a) legalább három éves gyakorlattal rendelkezik az 1. § (1) bekezdése szerinti tevékenységi területek legalább egyikén, vagy
 - b) legalább három éves vezetői gyakorlattal rendelkezik az államigazgatásban.
@@ -191,7 +191,9 @@ az eljárás végleges döntéssel történő befejezését vagy az ügy lezár�
 
 (4) A Hivatal elnökhelyettesének havi illetménye az Elnök havi illetményének 90%-a.
 
-(5) A Hivatal elnökét a miniszterrel, az elnökhelyettesét a közigazgatási államtitkárral azonos juttatások illetik meg. A Hivatal elnökét és elnökhelyettesét naptári évenként negyven-negyven munkanap szabadság illeti meg.
+(5) A Hivatal elnökét a miniszterrel, az elnökhelyettesét a közigazgatási államtitkárral azonos juttatások illetik meg.
+
+(6) A Hivatal elnöke és elnökhelyettese minden naptári évben a Hivatal szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
 
 8. § (1) A Hivatal elnökének jogviszonya megszűnik
 
@@ -202,7 +204,7 @@ az eljárás végleges döntéssel történő befejezését vagy az ügy lezár�
 
 (2) A Hivatal elnöke jogviszonyának megszűnését az (1) bekezdés a)–c) pontja esetén a miniszterelnök állapítja meg.
 
-(3) A miniszterelnök – a közszolgálati tisztviselőkről szóló törvény szerinti indokolási kötelezettség mellett – felmenti az elnököt,
+(3) A miniszterelnök – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény szerinti indokolási kötelezettség mellett – felmenti az elnököt,
 
 - a) ha a 11. § (1) bekezdése szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
 - b) az ítélet jogerőre emelkedésének napjával, ha az elnökkel szemben lefolytatott büntetőeljárás eredményeként az elnök bűnösségét a bíróság – szabadságvesztés vagy az elnök tevékenységének megfelelő foglalkoztatástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg,
@@ -238,7 +240,7 @@ amelynek jogát vagy jogos érdekét a Hivatal döntése a megbízatás megszűn
 
 (3) Tekintettel a (2) bekezdés szerinti működési szektort érintő elhelyezkedési tilalomra, az elnök, illetve az elnökhelyettes megbízatásának megszűnésével egyidejűleg a megelőző 12 havi, a Hivataltól származó nettó – azaz személyi jövedelemadóval csökkentett – jövedelmének megfelelő mértékű kártalanításra jogosult. A kártalanítást a Hivatal költségvetése terhére kell megfizetni. Az ily módon megállapított kárátalány a károk megtérülése körében adómentes.
 
-(4) Amennyiben az elnökhelyettes megbízatása a 9. § (1) bekezdés d) pontja szerint szűnik meg, a megbízatás megszűnésére a közszolgálati jogviszonyban történő vezetői kinevezés módosítása esetére irányadó rendelkezéseket kell megfelelően alkalmazni.
+(4) Amennyiben az elnökhelyettes megbízatása a 9. § (1) bekezdés d) pontja szerint szűnik meg, a megbízatás megszűnésére a vezetői álláshelyről nem vezetői álláshelyre való helyezés esetére irányadó rendelkezéseket kell megfelelően alkalmazni.
 
 11. § (1) Az elnök, az elnökhelyettes nem lehet
 
@@ -259,11 +261,11 @@ amelynek jogát vagy jogos érdekét a Hivatal döntése a megbízatás megszűn
 
 - a) rendeletben megállapítja az egyes villamos energia rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjfizetésre kötelezettek körét, és a rendszerhasználati díjak alkalmazásának szabályait, a villamos energiáról szóló törvény szerinti elosztók közötti kiegyenlítő fizetések mértékét, a villamos energia csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint az elosztó által a felhasználó vagy az engedélyes igénye alapján, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és alkalmazásuknak szabályait, az elosztóhálózat-használati szerződés és a villamosenergia-vásárlási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
 - b) rendeletben megállapítja a földgázellátásról szóló törvény szerinti rendszerüzemeltető által nyújtott szolgáltatás minőségének a földgáz rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható földgáz rendszerhasználati díjszabályozás kereteit, valamint a földgáz rendszerhasználati díjak alkalmazásának feltételeit, a földgáz rendszerhasználat árszabályozásának kereteit, a felhasználók és földgáztermelők földgázrendszerre történő csatlakozásának részletes szabályait, ezen belül a csatlakozás műszaki-gazdasági feltételeit, és azok közzétételét, a földgázelosztó és a földgázszállító csatlakozással kapcsolatos együttműködésének szabályait, a földgáz csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjak alkalmazásának szabályait, a rendszerüzemeltetők által a felhasználó vagy a rendszerhasználó igénye alapján, valamint felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és alkalmazásuknak szabályait, az elosztóhálózat-használati szerződés és az egyetemes szolgáltatási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
-- c) kiadja a Hivatal szervezeti és működési szabályzatát és egyéb szabályzatait,
-- d) irányítja a Hivatal munkaszervezetét, meghatározza létszámkeretét és a kiadmányozás rendjét,
-- e) képviseli a Hivatalt,
-- f) gyakorolja a közszolgálati tisztviselőkről szóló törvényben a hivatali szervezet vezetője számára meghatározott hatásköröket,
-- g) gyakorolja a Hivatallal közszolgálati jogviszonyban vagy munkaviszonyban álló alkalmazottak feletti munkáltatói jogkört,
+- c) kiadja a Hivatal szervezeti és működési szabályzatát, a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény szerinti közszolgálati szabályzatát, valamint egyéb szabályzatait,
+- d) képviseli a Hivatalt,
+- e) irányítja a Hivatal munkaszervezetét, meghatározza a kiadmányozás rendjét,
+- f) gyakorolja a különleges jogállású szerv vezetője számára a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvényben meghatározott egyéb hatásköröket,
+- g) gyakorolja a Hivatal köztisztviselői és munkavállalói feletti munkáltatói jogkört,
 - h) a Hivatal költségvetése tekintetében ellátja mindazon feladatokat, amelyeket az államháztartásról szóló törvény a fejezetet irányító szerv vezetőjének hatáskörébe utal,
 - i) törvényben kapott felhatalmazás alapján rendeletet ad ki,
 - j) a minősített adat védelméről szóló törvény rendelkezései alapján dönt a Hivatal tevékenysége során kezelt adatok minősítéséről,
@@ -281,23 +283,17 @@ amelynek jogát vagy jogos érdekét a Hivatal döntése a megbízatás megszűn
 
 14. § (1) A Hivatal elnöke, elnökhelyettese, valamint a Hivatal alkalmazottai a Hivatal feladatainak ellátásához közvetlenül kapcsolódó tevékenységüket közszolgálati jogviszony keretében látják el.
 
-(2) A Hivatal elnöke meghatározza a Hivatal feladatainak ellátásához szükséges munkakörök rendszerét, a feladatok ellátásához szükséges erőforrások mennyiségét, illetve a Hivatal szervezeti és működési szabályzatában jelöli ki az (1) bekezdésbe nem tartozó azon munkaköröket, amelyek betöltői feladataikat munkaviszony keretében látják el.
+(2) A Hivatal elnöke meghatározza a Hivatal feladatainak ellátásához szükséges álláshelyek rendszerét, a feladatok ellátásához szükséges erőforrások mennyiségét, továbbá a Hivatal szervezeti és működési szabályzatában kijelöli az (1) bekezdésbe nem tartozó azon álláshelyeket, amely álláshelyen foglalkoztatottak feladataikat munkaviszony keretében látják el. A Hivatal elnöke szabályzatban meghatározhatja az álláshelyek besorolási kategóriáit.
 
 (3) A Hivatal elnökének közszolgálati jogviszonyával összefüggő, e törvényben nem nevesített munkáltatói intézkedéseket az általános elnökhelyettes teszi meg.
 
-15. § A Hivatal elnökére, elnökhelyettesére, valamint a Hivatallal közszolgálati jogviszonyban álló köztisztviselőkre és közszolgálati ügykezelőkre az e törvényben foglalt eltérésekkel a közszolgálati tisztviselőkről szóló törvény köztisztviselőkre vonatkozó rendelkezéseit kell alkalmazni.
+15. § A Hivatal elnökére, elnökhelyettesére, valamint a Hivatallal közszolgálati jogviszonyban álló köztisztviselőkre az e törvényben foglalt eltérésekkel a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvényt kell alkalmazni.
 
-16. § (1) A Hivatal elnöke át nem ruházható hatáskörében dönt a Hivatal köztisztviselője alapilletményének eltérítéséről, a tárgyév során módosíthatja azt, a Hivatalnál történő jogviszony létesítés kivételével a köztisztviselő munkájának tárgyévet megelőző évi minősítése, ennek hiányában teljesítményértékelése alapján. Az elnök az alapilletmény módosítása során a köztisztviselő alapilletményét legfeljebb ötven százalékkal megemelheti vagy legfeljebb húsz százalékkal csökkentett mértékben állapíthatja meg.
+16. § (1) A Hivatal elnöke át nem ruházható hatáskörében dönt a Hivatal illetménypolitikai alapelveiről és béren kívüli juttatásairól.
 
-(2) A szakmai főtanácsadói, a szakmai tanácsadói, a közigazgatási főtanácsadói és a közigazgatási tanácsadói címek aránya együttesen a Hivatal felsőfokú iskolai végzettségű köztisztviselőinek negyven százalékáig terjedhet.
+(2) A Hivatal és a Hivatal köztisztviselői közszolgálati munkaszerződésben állapodnak meg a köztisztviselő illetményéről, a juttatásokról, a pótszabadság mértékéről, a napi munkaidőről és az általános munkarendről
 
-(3) A Hivatal elnöke a kimagasló teljesítményt nyújtó köztisztviselőnek a közszolgálati tisztviselőkről szóló törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg. Személyi illetmény a Hivatal szervezeti és működési szabályzatában megállapított létszám legfeljebb húsz százalékáig adható a személyi juttatás előirányzata terhére. A személyi illetmény indokolás nélkül visszavonható, amely nem minősül a köztisztviselői kinevezés módosításának.
-
-(4) A napidíj mértéke a központi költségvetési törvényben meghatározott illetményalap egy munkanapra eső összegének 150%-a. Kiszámításánál havonta huszonegy munkanapot kell figyelembe venni és azt tíz forintra felkerekítve kell megállapítani.
-
-(5) A Hivatal – a cafetéria juttatás kivételével – saját hatáskörben maga határozza meg béren kívüli juttatásait. A Hivatal elnöke által adható jutalom mértékét és a béren kívüli juttatásokat szabályzatban kell meghatározni.
-
-17. § (1) A Hivatal köztisztviselője – a közszolgálati tisztviselőkről szóló törvény szerinti összeférhetetlenségi szabályokban foglaltakon túl – törvény eltérő rendelkezése hiányában nem létesíthet és nem tarthat fenn tagsági viszonyt, munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt a 3. § (2) bekezdése szerinti szervezettel.
+17. § (1) A Hivatal köztisztviselője – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény szerinti összeférhetetlenségi szabályokban foglaltakon túl – törvény eltérő rendelkezése hiányában nem létesíthet és nem tarthat fenn tagsági viszonyt, munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt a 3. § (2) bekezdése szerinti szervezettel.
 
 (2) A Hivatal köztisztviselője öröklés kivételével nem szerezhet tulajdoni részesedést a 3. § (2) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetben.
 

@@ -189,15 +189,13 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (4b) A főtitkárhelyettes illetménye a főtitkár illetményének 90%-a.
 
-(4c) A (4)–(4b) bekezdés szerinti illetményen túl
+(4c) A (4) bekezdés szerinti illetményen túl az elnököt miniszteri juttatás illeti meg és minden naptári évben húsz munkanap vezetői pótszabadságot jogosult igénybe venni.
 
-- a) az elnököt miniszteri juttatás és évente 40 munkanap szabadság,
-- b) a főtitkárt közigazgatási államtitkári juttatás és évente 40 munkanap szabadság, valamint
-- c) a főtitkárhelyettest helyettes államtitkári juttatás és évente 40 munkanap szabadság
+(4d) A (4a) bekezdés szerinti illetményen túl a főtitkárt közigazgatási államtitkári juttatás illeti meg és minden naptári évben húsz munkanap vezetői pótszabadságot jogosult igénybe venni.
 
-illeti meg.
+(4e) A (4b) bekezdés szerinti illetményen túl a főtitkárhelyettest helyettes államtitkári juttatás illeti meg és minden naptári évben húsz munkanap vezetői pótszabadságot jogosult igénybe venni.
 
-(5) Az elnök, a főtitkár és a főtitkárhelyettes jogállására az e törvényben nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell – az 1–4. §; a 6. § 5., 7., 12–15., 17., 19–20., 29–30., 32., 34. és 36. pontja; 8. § (1)–(4) bekezdése; 60. § (1) bekezdés e) pontja; 155–159. §-a; 195–202. §-a; 206–211. §-a; a IX. és X. fejezetben foglaltak; valamint a besorolásra, a közigazgatási alap- és szakvizsgára, a címadományozásra, a vezetőkre, a képzésre, továbbképzésre, a teljesítményértékelésre, és a minősítésre vonatkozó rendelkezések kivételével – megfelelően alkalmazni.
+(5) Az elnök, a főtitkár és a főtitkárhelyettes jogállására az e törvényben nem szabályozott kérdésekben a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény rendelkezéseit kell – a 38. § (1) bekezdés d) pontja, 84. §-a, 85. §-a, 95–97. §-a, 103. § (1) bekezdés 5., 6., 15., 16. és 25. pontja, valamint a besorolásra, a vezetőkre, a képzésre, továbbképzésre és a teljesítményértékelésre vonatkozó rendelkezések kivételével – alkalmazni.
 
 ### Az Akadémia elnöke és alelnökei
 
@@ -274,7 +272,7 @@ illeti meg.
 
 ### Az akadémiai költségvetési szerveknél foglalkoztatottak jogviszonyára vonatkozó rendelkezések
 
-19/B. § (1) Az akadémiai költségvetési szerveknél foglalkoztatottak jogviszonyára – az MTA Titkárságának közfeladatokat ellátó köztisztviselői, ügykezelői, illetve munkavállalói kivételével – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), valamint a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+19/B. § (1) Az akadémiai költségvetési szerveknél foglalkoztatottak jogviszonyára – az MTA Titkárságának közfeladatokat ellátó köztisztviselői, illetve munkavállalói kivételével – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), valamint a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A Kjt. határozott idejű jogviszony létesítésére vonatkozó rendelkezését azzal az eltéréssel kell alkalmazni, hogy az akadémiai költségvetési szerv közfeladatának ellátása során azonos foglalkoztatottra vonatkozóan egy alkalommal legfeljebb három év határozott időtartamra tudományos kutatói közalkalmazotti jogviszonyt létesíthet a Kjt. 21. § (2) bekezdésben felsorolt kivételi eseteken túlmenően.
 

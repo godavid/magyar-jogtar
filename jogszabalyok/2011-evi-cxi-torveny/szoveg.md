@@ -143,7 +143,7 @@ a védelmére.
 
 (1a) Az alapvető jogok biztosa az (1) bekezdésben meghatározott illetményen túl miniszteri juttatásra jogosult.
 
-(2) Az alapvető jogok biztosának helyettese a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult.
+(2) Az alapvető jogok biztosának helyettese a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult.
 
 (2a) Az alapvető jogok biztosának helyettese a (2) bekezdésben meghatározott illetményen túl államtitkári juttatásra jogosult.
 
@@ -453,7 +453,7 @@ tevékenységét.
 - b) a közérdekű bejelentő a vizsgálat eredményével nem ért egyet,
 - c) a közérdekű bejelentő álláspontja szerint az eljárásra jogosult szerv a közérdekű bejelentést nem vizsgálta ki teljeskörűen.
 
-38/D. § A Hivatal a közérdekű bejelentések közvetlen vizsgálatával kapcsolatos feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó munkakörben és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
+38/D. § A Hivatal a közérdekű bejelentések közvetlen vizsgálatával kapcsolatos feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó álláshelyen és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
 
 #### 11/B. Nemzetbiztonsági ellenőrzés felülvizsgálati eljárásának vizsgálata
 
@@ -461,7 +461,7 @@ tevékenységét.
 
 (2) Az alapvető jogok biztosának e címben rögzített eljárására a 23. § (2) bekezdésében rögzített korlátozások nem terjednek ki, ha az irat megismerése az eljárás eredményes lefolytatása érdekében elengedhetetlenül szükséges.
 
-(3) A Hivatal nemzetbiztonsági ellenőrzés felülvizsgálati eljárásával összefüggő feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó munkakörben és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
+(3) A Hivatal nemzetbiztonsági ellenőrzés felülvizsgálati eljárásával összefüggő feladatokat ellátó munkatársai nemzetbiztonsági ellenőrzés hatálya alá tartozó álláshelyen és személyi biztonsági tanúsítvánnyal rendelkezve látják el e feladataikat.
 
 #### 12. Kivételes vizsgálat
 
@@ -498,9 +498,9 @@ tevékenységét.
 
 (2) Az alapvető jogok biztosának a nemzeti megelőző mechanizmus feladatainak teljesítésére felhatalmazott munkatársa e feladatok teljesítése körében – ha megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik – a minősített adatot a minősített adat védelméről szóló törvényben meghatározott felhasználói engedély nélkül is megismerheti.
 
-(3) Az alapvető jogok biztosának a nemzeti megelőző mechanizmus feladatainak teljesítésére – az Alapvető Jogok Biztosának Hivatala köztisztviselői közül, állandó jelleggel – legalább tizenegy munkatársát fel kell hatalmaznia. A felhatalmazott köztisztviselő munkatársak a szabadságuktól megfosztott személyekkel való bánásmódot érintő szakterületen kiemelkedő elméleti tudással vagy legalább ötéves szakmai gyakorlattal rendelkező, felsőfokú végzettségű szakértők lehetnek. A nemzeti megelőző mechanizmus feladatainak teljesítésében való közreműködésre az alapvető jogok biztosa a köztisztviselő munkatársak mellett eseti vagy állandó jelleggel más szakértőket is felhatalmazhat.
+(3) Az alapvető jogok biztosának a nemzeti megelőző mechanizmus feladatainak teljesítésére legalább tizenegy munkatársát fel kell hatalmaznia. A felhatalmazott munkatársak a szabadságuktól megfosztott személyekkel való bánásmódot érintő szakterületen kiemelkedő elméleti tudással vagy legalább ötéves szakmai gyakorlattal rendelkező, felsőfokú végzettségű szakértők lehetnek. A nemzeti megelőző mechanizmus feladatainak teljesítésében való közreműködésre az alapvető jogok biztosa eseti vagy állandó jelleggel más szakértőket is felhatalmazhat.
 
-(4) A nemzeti megelőző mechanizmus feladatainak teljesítésére felhatalmazott köztisztviselő munkatársak között kell lennie legalább egy, a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettes biztos által javasolt személynek, és legalább két-két jogász, orvos, illetve pszichológus végzettségű személynek. A felhatalmazott köztisztviselő munkatársak között az egyik nem képviselőinek a száma legfeljebb eggyel haladhatja meg a másik nem képviselőinek számát.
+(4) A nemzeti megelőző mechanizmus feladatainak teljesítésére felhatalmazott munkatársak között kell lennie legalább egy, a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettes biztos által javasolt személynek, és legalább két-két jogász, orvos, illetve pszichológus végzettségű személynek. A felhatalmazott munkatársak között az egyik nem képviselőinek a száma legfeljebb eggyel haladhatja meg a másik nem képviselőinek számát.
 
 39/E. § Az alapvető jogok biztosa részére és a nemzeti megelőző mechanizmus feladatainak teljesítésére általa felhatalmazott munkatársa részére történő információközlés miatt senkit sem érhet hátrány.
 
@@ -565,7 +565,9 @@ tevékenységét.
 
 41. § (1) Az alapvető jogok biztosának a feladatával kapcsolatos ügyvitel és előkészítés teendőit a Hivatal látja el.
 
-(2) A Hivatalt az alapvető jogok biztosa irányítja, és a főtitkár vezeti. A Hivatalban foglalkoztatott köztisztviselőkre és munkavállalókra nézve a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény rendelkezéseit kell megfelelően alkalmazni.
+(2) A Hivatalt az alapvető jogok biztosa irányítja, és a főtitkár vezeti. A Hivatalban foglalkoztatott köztisztviselőkre és munkavállalókra nézve a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) rendelkezéseit kell megfelelően alkalmazni.
+
+(2a) A Hivatal álláshelyeire a Küt. 5. § (2) bekezdése nem alkalmazható.
 
 (3) A Hivatal Szervezeti és Működési Szabályzatát az alapvető jogok biztosa normatív utasításban állapítja meg.
 
@@ -573,23 +575,31 @@ tevékenységét.
 
 (4) A Hivatal a központi költségvetés szerkezetében önálló fejezet, a fejezetet irányító szerv vezetőjének jogosítványait a főtitkár gyakorolja.
 
-(5) Az alapvető jogok biztosa a kiadmányozási jogot a Szervezeti és Működési Szabályzatban a helyettesekre, intézkedést nem tartalmazó irat esetén a főtitkárra vagy a Hivatal vezetői megbízással rendelkező köztisztviselőjére átruházhatja.
+(5) Az alapvető jogok biztosa a kiadmányozási jogot a Szervezeti és Működési Szabályzatban a helyettesekre, intézkedést nem tartalmazó irat esetén a főtitkárra vagy a Hivatal vezetői álláshelyen foglalkoztatott köztisztviselőjére átruházhatja.
 
 42. § (1) A főtitkár felett a munkáltatói jogokat az alapvető jogok biztosa gyakorolja.
 
-(2) A főtitkár a Kit. szerinti közigazgatási államtitkári illetménysáv felső határának megfelelő összegű illetményre és közigazgatási államtitkári juttatásokra jogosult, valamint naptári évenként negyven munkanap szabadság illeti meg.
+(2) A főtitkár a Kit. szerinti közigazgatási államtitkári illetménysáv felső határának megfelelő összegű illetményre és közigazgatási államtitkári juttatásokra jogosult, valamint minden naptári évben húsz munkanap vezetői pótszabadságot jogosult igénybe venni.
 
-(2a) A főtitkár munkáját főtitkárhelyettes segíti. A főtitkárhelyettes a Kit. szerinti helyettes államtitkári illetménysáv felső határának megfelelő összegű illetményre és helyettes államtitkári juttatásokra jogosult, valamint naptári évenként harmincöt munkanap szabadság illeti meg.
+(2a) A főtitkár munkáját főtitkárhelyettes segíti. A főtitkárhelyettes a Kit. szerinti helyettes államtitkári illetménysáv felső határának megfelelő összegű illetményre és helyettes államtitkári juttatásokra jogosult, valamint minden naptári évben tizenöt munkanap vezetői pótszabadságot jogosult igénybe venni.
 
 (2b) A 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője felett a munkáltatói jogokat az alapvető jogok biztosa gyakorolja.
 
-(2c) A 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője helyettes államtitkári illetményre és juttatásokra jogosult, valamint naptári évenként harmincöt munkanap szabadság illeti meg.
+(2c) A 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg. Ezenfelül helyettes államtitkári juttatásokra jogosult, valamint minden naptári évben tizenöt munkanap vezetői pótszabadságot jogosult igénybe venni.
 
 (2d) Tevékenysége során a 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője a „rendészeti igazgató” címet viseli.
 
-(3) A Hivatalban foglalkoztatott köztisztviselőt az alapvető jogok biztosa, a (4) bekezdésben meghatározottak szerint foglalkoztatott köztisztviselőt az alapvető jogok biztosának helyettese nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja. A 41. § (3a) bekezdése szerinti önálló szervezeti egységnél foglalkoztatott köztisztviselőt – az alapvető jogok biztosának egyetértésével – a 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja. A Hivatal törekszik a nők, az etnikai, kisebbségi és hátrányos helyzetű csoportok megjelenítésére a Hivatal személyi állományában.
+(3) A Hivatalban foglalkoztatott köztisztviselőt az alapvető jogok biztosa nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja.
 
-(4) A Szervezeti és Működési Szabályzatban meg kell határozni azon köztisztviselők létszámkeretét, akik az alapvető jogok biztosa helyettesének irányítása alá tartoznak.
+(3a) A (4) bekezdés szerint foglalkoztatott köztisztviselőt az alapvető jogok biztosának helyettese nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja.
+
+(3b) A 41. § (3a) bekezdése szerinti önálló szervezeti egységnél foglalkoztatott köztisztviselőt – az alapvető jogok biztosának egyetértésével – a 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja.
+
+(3c) A Hivatalban foglalkoztatott munkavállalóra a (3) bekezdésben, a (4) bekezdés szerint foglalkoztatott munkavállalóra a (3a) bekezdésben, a 41. § (3a) bekezdése szerinti önálló szervezeti egységnél foglalkoztatott munkavállalóra a (3b) bekezdésben foglaltakat kell alkalmazni azzal, hogy kinevezés alatt a munkaszerződés megkötését, felmentés alatt a munkaviszony megszüntetését kell érteni.
+
+(3d) A Hivatal törekszik a nők, az etnikai, kisebbségi és hátrányos helyzetű csoportok megjelenítésére a Hivatal személyi állományában.
+
+(4) A Szervezeti és Működési Szabályzatban meg kell határozni azon köztisztviselők és munkavállalók létszámkeretét, akik az alapvető jogok biztosa helyettesének irányítása alá tartoznak.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
