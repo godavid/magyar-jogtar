@@ -511,7 +511,7 @@ nyilatkozatára is alkalmazni kell.
 
 (4) A nyilvántartásban külön kell feltüntetni azokat a betegjogi, ellátottjogi, illetve gyermekjogi képviselőket, akik e tevékenységet végzik és azokat, akik a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatásköréről szóló kormányrendelet szerinti tanfolyamot elvégezték, de a tevékenységet nem végzik.
 
-33/B. § Az Integrált Jogvédelmi Szolgálatot vezető jogvédelmi biztos helyettes államtitkári illetményre és juttatásokra jogosult.
+33/B. § Az Integrált Jogvédelmi Szolgálatot vezető jogvédelmi biztos a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg, ezenfelül helyettes államtitkári juttatásokra jogosult.
 
 ### A közvetítői tanács
 

@@ -2157,7 +2157,7 @@ illeti meg.
 - a) az oktatásért felelős miniszternek tartozik felelősséggel,
 - b) tevékenységét kormányzati szolgálati jogviszonyban végzi szakmai felsővezetői álláshelyen,
 - c) jogosult a megbízatásának megfelelő cím használatára,
-- d) helyettes államtitkári illetményre és juttatásokra jogosult.
+- d) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg, ezenfelül helyettes államtitkári juttatásokra jogosult.
 
 (8) Az oktatási jogok biztosa
 

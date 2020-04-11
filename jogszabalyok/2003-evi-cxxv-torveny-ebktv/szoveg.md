@@ -630,7 +630,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 
 (4) A hatóság elnöke felmenti a hatóság elnökhelyettesét, ha a hatóság elnökhelyettese neki fel nem róható okból kilencven napon túlmenően nem képes eleget tenni megbízatásából eredő feladatainak.
 
-(5) A hatóság elnöke a hatóság elnökhelyettesét felmentheti, ezzel egyidejűleg a hatóság elnökhelyettesének a hatóságnál köztisztviselői munkakört kell felajánlani.
+(5) A hatóság elnöke a hatóság elnökhelyettesét felmentheti, ezzel egyidejűleg a hatóság elnökhelyettesének a hatóságnál köztisztviselői álláshelyet kell felajánlani.
 
 (6) A hatóság elnöke megfosztja tisztségétől a hatóság elnökhelyettesét, ha a hatóság elnökhelyettese neki felróható okból kilencven napon túlmenően nem tesz eleget megbízatásából eredő feladatainak, vagy vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl.
 

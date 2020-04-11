@@ -3109,7 +3109,7 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 
 (4) A Hatóság keretében Tanács (a továbbiakban: Tanács) és Közbeszerzési Döntőbizottság (a továbbiakban: Döntőbizottság) működik.
 
-(5) A Hatóságnál foglalkoztatottak jogviszonyára – az e törvényben foglalt eltérésekkel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) rendelkezéseit kell alkalmazni.
+(5) A Hatóságnál foglalkoztatottak jogviszonyára – az e törvényben foglalt eltérésekkel – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) rendelkezéseit kell alkalmazni.
 
 ### A Hatóság elnöke
 
@@ -3119,14 +3119,14 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 - b) meghívása esetén részt vesz az Országgyűlés és bizottságainak ülésein és ismerteti a Hatóság éves beszámolóját;
 - c) a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról elnöki tájékoztatót ad ki;
 - d) a Tanács hatáskörébe tartozó halasztást nem tűrő ügyek eldöntése érdekében – a Hatóság szervezeti és működési szabályzatában meghatározottak szerint – a tanácsülések közötti időszakban rövid úton való szavazást kezdeményez;
-- e) gyakorolja a munkáltatói jogokat a Hatóság főtitkára (a továbbiakban: főtitkár), a Hatóság Titkárságának alkalmazottai, valamint a Döntőbizottság elnöke, elnökhelyettese és a közbeszerzési biztosok vonatkozásában;
+- e) gyakorolja a munkáltatói jogokat a Hatóság főtitkára (a továbbiakban: főtitkár), a Hatóság Titkárságának alkalmazottai, valamint a Döntőbizottság elnöke, elnökhelyettese és a közbeszerzési biztosok vonatkozásában, továbbá szabályzatban meghatározhatja az álláshelyek besorolási kategóriáit;
 - f) ellátja a részére törvényben előírt egyéb feladatokat.
 
 (2) A Hatóság elnökét távolléte esetén az a Tanács alelnöke a Tanács képviseletében és üléseinek vezetésében teljes jogkörrel helyettesíti.
 
 181. § (1) A Hatóság elnökének öt évre történő kinevezéséről a Tanács a jelen levő tagok kétharmados szótöbbségével dönt.
 
-(2) A Hatóság elnökére a Kttv.-t az e törvény szerinti eltérésekkel kell alkalmazni.
+(2) A Hatóság elnökére a Küt.-öt az e törvény szerinti eltérésekkel kell alkalmazni.
 
 (3) A Hatóság elnökének havi illetménye a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 149. § (1) bekezdése szerinti havi bér 80%-a. Az illetményen túl a Hatóság elnöke a minisztert megillető juttatásra jogosult.
 
@@ -3148,9 +3148,9 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 
 (8) Amennyiben a Hatóság elnöke megbízatása időtartamának lejártáig a Tanács nem dönt az új elnök kinevezéséről, az elnök megbízatása az adott naptári év végéig meghosszabbodik.
 
-(9) Az elnök személyi anyagának kezelését, valamint az elnök tekintetében a Kttv. 115. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a főtitkár látja el.
+(9) Az elnök személyi anyagának kezelését, valamint az elnök tekintetében a Küt. 68. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a főtitkár látja el.
 
-(10) A Hatóság elnökét minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
+(10) A Hatóság elnöke minden naptári évben a Hatóság szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
 
 ### A Hatóság keretében működő Tanács
 
@@ -3214,9 +3214,9 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 
 185. § (1) A Hatóság és a Tanács tevékenységével kapcsolatos koordinációt, döntéseinek előkészítését és végrehajtását, továbbá az ennek végzéséhez szükséges adatgyűjtő, nyilvántartó, valamint adminisztratív tevékenységet – ideértve a Tanács tevékenységének koordinálását is – a Hatóság Titkársága végzi. A Titkárságot a főtitkár vezeti.
 
-(2) A főtitkár és a Titkárság alkalmazottai a Hatósággal állnak közszolgálati jogviszonyban vagy munkaviszonyban, amely jogviszonyra e törvényt, a Kttv.-t, vagy a munka törvénykönyvéről szóló törvényt kell alkalmazni. A főtitkár a közigazgatási államtitkárral azonos illetményben, illetve juttatásokban részesül azzal, hogy a vezetői illetménypótlék az alapilletmény 100%-a, továbbá az illetménykiegészítés az alapilletmény 80%-a.
+(2) A főtitkár és a Titkárság alkalmazottai a Hatósággal állnak közszolgálati jogviszonyban vagy munkaviszonyban, amely jogviszonyra e törvényt, a Küt.-öt vagy a munka törvénykönyvéről szóló törvényt kell alkalmazni. A főtitkár havi illetménye a Hatóság elnöke havi illetményének 60%-a. A főtitkár az államtitkárt megillető egyéb juttatásokra is jogosult.
 
-(3) A Hatóság főtitkárát minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
+(3) A főtitkár minden naptári évben a Hatóság szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
 
 186. § A Hatóság elnöke, a Tanács alelnöke és a Tanács tagjai, a főtitkár, a Titkárság alkalmazottai és a közbeszerzési biztosok vagy azon személyek, akik ilyen tisztséget viseltek, tevékenységet végeztek, a feladatuk ellátásával kapcsolatban tudomásukra jutott minősített adatot és üzleti titkot kötelesek megőrizni.
 
@@ -3366,68 +3366,13 @@ figyelembe veszi. A bírság összegének és az eltiltás időtartamának megá
 
 megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
 
-191/A. § (1) A Hatóságnál foglalkoztatott felsőfokú iskolai végzettségű köztisztviselőt a közszolgálati jogviszonyban eltöltött idejének megfelelően a (2) bekezdésben meghatározott besorolási fokozatba, illetve – a (3) bekezdésben meghatározott esetekben az ott meghatározott – fizetési fokozatokba kell besorolni a Kttv. 118. §-a, 119. §-a, 120. §-a, 121. §-a és 122. §-a megfelelő alkalmazásával.
+191/A. § (1) A Hatóság elnöke át nem ruházható hatáskörében dönt a Hatóság illetménypolitikai alapelveiről és béren kívüli juttatásairól.
 
-(2) A köztisztviselő
+(2) A Hatóság és a Hatóság köztisztviselői közszolgálati munkaszerződésben állapodnak meg a köztisztviselő illetményéről, a juttatásokról, a pótszabadság mértékéről, a napi munkaidőről és az általános munkarendről.
 
-- a) pályakezdőként gyakornok,
-- b) egy év közszolgálati jogviszonyban töltött idő után fogalmazó,
-- c) három év közszolgálati jogviszonyban töltött idő után tanácsos,
-- d) nyolc év közszolgálati jogviszonyban töltött idő után vezető tanácsos,
-- e) tizenhat év közszolgálati jogviszonyban töltött idő után főtanácsos,
-- f) huszonöt év közszolgálati jogviszonyban töltött idő után vezető főtanácsos
+#### 191/B. §
 
-besorolást kap.
-
-(3) A (2) bekezdés a) és b) pontja szerinti besorolási fokozaton belül nincsenek fizetési fokozatok, a (2) bekezdés c)–f) pontja szerinti besorolási fokozat I. és II. fizetési fokozatokból áll. A
-
-- a) tanácsos besorolású köztisztviselőt öt év közszolgálati jogviszonyban eltöltött idő után tanácsos II. fizetési fokozatba,
-- b) vezető tanácsos besorolású köztisztviselőt tizenkét év közszolgálati jogviszonyban töltött idő után vezető tanácsos II. fizetési fokozatba,
-- c) főtanácsos besorolású köztisztviselőt húsz év közszolgálati jogviszonyban töltött idő után főtanácsos II. fizetési fokozatba,
-- d) vezető főtanácsos besorolású köztisztviselőt harminc év közszolgálati jogviszonyban töltött idő után vezető főtanácsos II. fizetési fokozatba
-
-kell besorolni.
-
-191/B. § (1) A köztisztviselő a Hatóság elkülönült szervezeti egységének vezetésére főosztályvezetői, főosztályvezető-helyettesi, illetve osztályvezetői munkakörbe nevezhető ki. A főosztályvezető helyettesítésére – szervezeti egység vezetése nélkül – egy szervezeti egységnél legfeljebb egy főosztályvezető-helyettesi munkakör tölthető be.
-
-(2) A főosztályvezetőre, a főosztályvezető-helyettesre és az osztályvezetőre – ha e törvény eltérően nem rendelkezik – a Kttv. főosztályvezetőre, főosztályvezető-helyettesre, illetve osztályvezetőre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
-
-(3) A Hatóságnál tanácsadói vagy főtanácsadói munkakörbe kinevezett köztisztviselő besorolásakor az e törvény szerinti főtanácsosi, illetve vezető főtanácsosi besorolást kell figyelembe venni; a főtanácsosi besorolású köztisztviselő főosztályvezető-helyettesi, a vezető főtanácsosi besorolású köztisztviselő főosztályvezetői illetményre jogosult.
-
-191/C. § (1) A Hatóságnál foglalkoztatott felsőfokú iskolai végzettségű köztisztviselő alapilletménye
-
-- a) gyakornok esetében az illetményalap 4-szerese,
-- b) fogalmazó esetében az illetményalap 4,5-szerese,
-- c) tanácsos
-  - ca) I. fizetési fokozat esetében az illetményalap 5,5-szerese,
-  - cb) II. fizetési fokozat esetében az illetményalap 6-szorosa,
-- d) vezető tanácsos
-  - da) I. fizetési fokozat esetében az illetményalap 6,5-szerese,
-  - db) II. fizetési fokozat esetében az illetményalap 7-szerese,
-- e) főtanácsos
-  - ea) I. fizetési fokozat esetében az illetményalap 7,6-szerese,
-  - eb) II. fizetési fokozat esetében az illetményalap 7,9-szerese,
-- f) vezető főtanácsos
-  - fa) I. fizetési fokozat esetében az illetményalap 8,4-szerese,
-  - fb) II. fizetési fokozat esetében az illetményalap 8,6-szerese.
-
-(2) A vezető alapilletménye
-
-- a) osztályvezető esetében az illetményalap 8,6-szerese,
-- b) főosztályvezető-helyettes esetében az illetményalap 8,7-szerese,
-- c) főosztályvezető esetében az illetményalap 9-szerese.
-
-(3) A vezetői illetménypótlék mértéke
-
-- a) osztályvezető esetében az alapilletmény 20%-a,
-- b) főosztályvezető-helyettes esetében az alapilletmény 40%-a,
-- c) főosztályvezető esetében az alapilletmény 60%-a.
-
-(4) A Hatóság alaptevékenységét elősegítő munkakörben foglalkoztatott, nem felsőfokú végzettségű köztisztviselő illetménykiegészítésének mértéke az alapilletmény 80%-a.
-
-(5) A közszolgálati ügykezelő illetményét a hivatali szervezet vezetője állapítja meg, oly módon, hogy az elérje legalább a garantált bérminimum összegét, de ne haladja meg az illetményalap nyolcszorosát. Az illetmény megállapításakor arányosan figyelembe kell venni a közszolgálati ügykezelő közszolgálati jogviszonyban töltött idejét. Az illetmény megállapításakor figyelembe veendő egyéb szempontokat a közszolgálati szabályzatban kell rögzíteni.
-
-(6) A Hatóság elnöke a minősítéssel, ennek hiányában teljesítményértékeléssel alátámasztott, kimagasló teljesítményt nyújtó köztisztviselőnek a személyi juttatás előirányzata terhére az e törvényben, illetve a Kttv.-ben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg. Személyi illetmény a Hatóság megállapított létszámkeretének legfeljebb húsz százalékáig adható úgy, hogy adott év március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, az adott évet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset hatszorosát. A személyi illetmény megállapítása egy évig – az adott évet követő év február végéig – érvényes.
+#### 191/C. §
 
 191/D. § A Hatóság nem tartozik a közigazgatási személyügyi tevékenységekkel kapcsolatos adatszolgáltatási körbe.
 
@@ -3450,13 +3395,13 @@ kell besorolni.
 
 rendelkezik.
 
-(6) A Döntőbizottság elnökének közszolgálati jogviszonyára a Kttv.-t a közbeszerzési biztosok közszolgálati jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
+(6) A Döntőbizottság elnökének közszolgálati jogviszonyára a Küt.-öt a közbeszerzési biztosok közszolgálati jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(7) A Döntőbizottság elnöke a közigazgatási államtitkárral azonos illetményben, illetve juttatásokban részesül azzal, hogy a vezetői illetménypótlék az alapilletmény 100%-a, továbbá az illetménykiegészítés az alapilletmény 80%-a. Az elnökhelyettes főosztályvezetői illetményre jogosult.
+(7) A Döntőbizottság elnökének havi illetménye a Hatóság elnöke havi illetményének 60%-a. A Döntőbizottság elnöke az államtitkárt megillető egyéb juttatásokra is jogosult.
 
-(8) A Döntőbizottság elnökét minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
+(8) A Döntőbizottság elnöke minden naptári évben a Hatóság szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
 
-(9) A Döntőbizottság elnöke személyi anyagának kezelését, valamint a Döntőbizottság elnöke tekintetében a Kttv. 115. §-a szerinti adatok nyilvántartását, továbbá a Döntőbizottság elnökének foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a Döntőbizottság elnökhelyettese látja el.
+(9) A Döntőbizottság elnöke személyi anyagának kezelését, valamint a Döntőbizottság elnöke tekintetében a Küt. 68. §-a szerinti adatok nyilvántartását, továbbá a Döntőbizottság elnökének foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a Döntőbizottság elnökhelyettese látja el.
 
 193. § (1) A Döntőbizottság elnöke
 
@@ -3469,11 +3414,11 @@ rendelkezik.
 
 (2) A Döntőbizottság elnökét távolléte esetén az elnökhelyettes teljes jogkörrel helyettesíti.
 
-(3) A közbeszerzési biztosok közszolgálati jogviszonyára a Kttv.-t az e törvény szerinti eltérésekkel kell alkalmazni.
+(3) A közbeszerzési biztosok közszolgálati jogviszonyára a Küt.-öt az e törvény szerinti eltérésekkel kell alkalmazni.
 
 (4) Közbeszerzési biztos az lehet, aki felsőfokú végzettséggel és legalább hároméves szakmai gyakorlattal, valamint közigazgatási, illetve jogi szakvizsgával, vagy közigazgatási tanulmányok szakirányú szakképzettséggel, vagy kormányzati tanulmányok szakirányú szakképzettséggel rendelkezik.
 
-(5) A (4) bekezdésben meghatározott szakvizsga előírásra a Kttv.-ben meghatározott határidőket megfelelően alkalmazni kell.
+(5)
 
 (6) A közbeszerzési biztos – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – más megbízást nem fogadhat el, más kereső foglalkozást nem folytathat, nem lehet gazdasági társaságban személyes közreműködésre kötelezett tag, vezető tisztségviselő, felügyelőbizottsági tag.
 
@@ -3482,13 +3427,13 @@ rendelkezik.
 - a) országgyűlési, helyi önkormányzati képviselő, nemzetiségi szószóló, polgármester, illetve kamarai tisztségviselő;
 - b) gazdasági társaságban 25%-nál, illetve huszonötmillió forintnál nagyobb tulajdoni részesedéssel rendelkezik.
 
-(8) A közbeszerzési biztost a Kttv. előmeneteli szabályainak megfelelően kell besorolni azzal az eltéréssel, hogy a besorolási fokozatánál kettővel magasabb besorolási fokozathoz tartozó illetményre jogosult.
+(8)
 
-(9) A főtanácsosi besorolású közbeszerzési biztos osztályvezetői illetményre, a vezető-főtanácsosi besorolású közbeszerzési biztos pedig főosztályvezető-helyettesi illetményre jogosult.
+(9)
 
-(10) A közbeszerzési biztos közszolgálati jogviszonya felmentéssel szűnhet meg a Kttv.-ben szabályozottakon túlmenően akkor is, ha a Tanács a Döntőbizottság létszámát csökkentette.
+(10) A közbeszerzési biztos közszolgálati jogviszonya felmentéssel szűnhet meg a Küt.-ben szabályozottakon túlmenően akkor is, ha a Tanács a Döntőbizottság létszámát csökkentette.
 
-(11) Ha a közbeszerzési biztos megbízatása megszűnik, őt a Kttv. szabályai szerint újra be kell sorolni.
+(11)
 
 (12) A közbeszerzési biztosok döntéshozataluk során függetlenek, a jogszabályok alapján meggyőződésüknek megfelelően döntenek, döntéseik meghozatalával kapcsolatban nem befolyásolhatók és nem utasíthatók.
 

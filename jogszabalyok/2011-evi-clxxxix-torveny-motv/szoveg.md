@@ -727,9 +727,9 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 ### A főpolgármester, polgármester, a megyei önkormányzat közgyűlésének elnöke díjazása, költségtérítése
 
-71. § (1) A főpolgármester megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a miniszter központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből, és vezetői illetménypótlékából álló illetményének összegével. A főpolgármester havonta az illetményének 15%-ában meghatározott költségtérítésre, valamint a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.
+71. § (1) A főpolgármester megbízatásának időtartamára havonta illetményre jogosult, amelynek összege 1 296 300 forint. A főpolgármester havonta az illetményének 15%-ában meghatározott költségtérítésre, valamint a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.
 
-(2) A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik az államtitkárnak a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott alapilletményéből, illetménykiegészítéséből és vezetői illetménypótlékából álló illetményének összegével.
+(2) A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta illetményre jogosult, amelynek összege 997 200 forint.
 
 (3) A megyei önkormányzat közgyűlésének elnöke megbízatásának időtartamára havonta illetményre jogosult, amelynek összege megegyezik a (2) bekezdésben meghatározott illetmény 90%-ának összegével.
 

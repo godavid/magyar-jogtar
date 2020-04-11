@@ -943,7 +943,7 @@ dönt.
 
 (4) A Hatóság elnöke felmenti a Hatóság elnökhelyettesét, ha a Hatóság elnökhelyettese neki fel nem róható okból kilencven napon túlmenően nem képes eleget tenni megbízatásából eredő feladatainak.
 
-(5) A Hatóság elnöke a Hatóság elnökhelyettesét felmentheti, ezzel egyidejűleg a Hatóság elnökhelyettesének a Hatóságnál köztisztviselői munkakört és – az 51. § (1) bekezdésében meghatározott feltételek fennállásának hiányában is – vizsgálói megbízatást kell felajánlani.
+(5) A Hatóság elnöke a Hatóság elnökhelyettesét felmentheti, ezzel egyidejűleg a Hatóság elnökhelyettesének a Hatóságnál köztisztviselői álláshelyet és – az 51. § (1) bekezdésében meghatározott feltételek fennállásának hiányában is – vizsgálói megbízatást kell felajánlani.
 
 (6) A Hatóság elnöke megfosztja tisztségétől a Hatóság elnökhelyettesét, ha a Hatóság elnökhelyettese neki felróható okból kilencven napon túlmenően nem tesz eleget megbízatásából eredő feladatainak, vagy vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl.
 
@@ -955,11 +955,11 @@ dönt.
 
 50. § A Hatóság köztisztviselői és munkavállalói felett a munkáltatói jogokat a Hatóság elnöke gyakorolja.
 
-51. § (1) A Hatóság elnöke a Hatóság köztisztviselői létszámának legfeljebb húsz százalékáig vizsgálót nevezhet ki, a Hatóság azon köztisztviselői közül, akik felsőfokú informatikai vagy jogász végzettségűek és legalább három évet adatvédelmi szakértő vagy adatvédelmi felelős munkakörben töltöttek, valamint közigazgatási vagy jogi szakvizsgával, vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel rendelkeznek.
+51. § (1) A Hatóság elnöke a Hatóság alaplétszámának legfeljebb húsz százalékáig vizsgálót nevezhet ki a Hatóság azon felsőfokú végzettségű köztisztviselői és munkavállalói közül, akik közszolgálati jogviszonya vagy munkaviszonya a Hatóságnál legalább öt éve fennáll.
 
-(2) A vizsgálói megbízatás határozatlan időre szól, amely a Hatóság elnöke által bármikor – indokolás nélkül – visszavonható. Ha a Hatóság elnöke a vizsgálói megbízatást visszavonja, a köztisztviselőt a vizsgálói megbízatását megelőzően betöltött utolsó munkakörébe kell visszahelyezni.
+(2) A vizsgálói megbízatás határozatlan időre szól, amely a Hatóság elnöke által bármikor – indokolás nélkül – visszavonható.
 
-(3) A vizsgáló vezetői pótlék nélkül számított osztályvezetői illetményre jogosult.
+(3) A vizsgáló illetményének és pótszabadságának mértékét, továbbá egyéb járandóságait az önálló szervezeti egység vezetőjére vonatkozó előírások alapján kell megállapítani.
 
 ### VI. Fejezet — A HATÓSÁG ELJÁRÁSAI
 
@@ -1275,7 +1275,7 @@ alkalmazásának időtartamára felfüggeszti, azzal, hogy a Hatóság a felfüg
 
 (2) Az általános adatvédelmi rendelet 62. cikkében meghatározott módon, az EGT-állam felügyeleti hatóságával közösen végzett műveletek során
 
-- a) a Hatóság személyi állományába tartozó, a Hatóság elnöke által a közös műveletben való közreműködésre kijelölt köztisztviselő a más EGT-állam területén, a más EGT-állam felügyeleti hatósága által átruházott feladat- és hatáskörök,
+- a) a Hatóság személyi állományába tartozó, a Hatóság elnöke által a közös műveletben való közreműködésre kijelölt köztisztviselő vagy munkavállaló a más EGT-állam területén, a más EGT-állam felügyeleti hatósága által átruházott feladat- és hatáskörök,
 - b) a más EGT-állam felügyeleti hatósága feladat- és hatáskörében eljáró és e felügyeleti hatóság által kijelölt személy Magyarország területén a Hatóság elnöke által írásban meghatározott terjedelemben a Hatóság feladat- és hatáskörének
 
 gyakorlásában közreműködik.
@@ -1375,7 +1375,7 @@ szükséges.
 
 (3c) Ha a Hatóság által vizsgálni kívánt irat olyan adatot is tartalmaz, amelyet a Hatóság csak a (3) bekezdés szerint ismerhet meg, az irat megismerését a meg nem ismerhető adat felismerhetetlenné tételével kell a Hatóság részére lehetővé tenni.
 
-(4) A minősített adatot érintő adatkezeléssel kapcsolatos eljárása során a Hatóság elnökhelyettese, vezetői munkakört betöltő köztisztviselője és vizsgálója – ha megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik – a minősített adatot a minősített adat védelméről szóló törvényben meghatározott felhasználói engedély nélkül is megismerheti.
+(4) A minősített adatot érintő adatkezeléssel kapcsolatos eljárása során a Hatóság elnökhelyettese, vezetői álláshelyen foglalkoztatott köztisztviselője és vizsgálója – ha megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik – a minősített adatot a minősített adat védelméről szóló törvényben meghatározott felhasználói engedély nélkül is megismerheti.
 
 (5) A Hatóság elnöke, elnökhelyettese és a Hatósággal közszolgálati jogviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban álló, illetve állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és annak megszűnését követően is kötelesek megőrizni a Hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, minősített adatot, illetve törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a Hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
 
@@ -1477,7 +1477,7 @@ az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 
 75/A. § A Hatóság az általános adatvédelmi rendelet 83. cikk (2)–(6) bekezdésében foglalt hatásköreit az arányosság elvének figyelembevételével gyakorolja, különösen azzal, hogy a személyes adatok kezelésére vonatkozó – jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott – előírások első alkalommal történő megsértése esetén a jogsértés orvoslása iránt – az általános adatvédelmi rendelet 58. cikkével összhangban – elsősorban az adatkezelő vagy adatfeldolgozó figyelmeztetésével intézkedik.
 
-76. § E törvény V. Fejezete az Alaptörvény VI. cikk (3) bekezdése alapján sarkalatosnak minősül.
+76. § E törvény V. Fejezete az Alaptörvény VI. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
 77. § Ez a törvény
 
