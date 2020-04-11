@@ -292,6 +292,10 @@ rendelkező személy.
 
 (3) A főtitkár részletes feladatait – a (2) bekezdésre is figyelemmel – az Alapszabály és a 28. § (3) bekezdése szerinti alapító okirat határozza meg.
 
+24/A. § (1) A főtitkár helyettesítését az MMA Titkárságának hivatali feladatai tekintetében a főtitkár által – az elnökség előzetes tájékoztatása mellett – határozatlan időre kinevezett főtitkárhelyettes látja el.
+
+(2) A főtitkárhelyettes illetménye a főtitkár illetményének 90%-a, a főtitkárhelyettest – illetményén túl – helyettes államtitkári juttatás illeti meg és minden naptári évben 20 munkanap vezetői pótszabadságot jogosult igénybe venni.
+
 25. § (1) A közgyűlés – az elnökség ajánlására – tiszteletbeli elnöki címet adományozhat az MMA – a közgyűlés időpontjában legalább két éve megválasztott – rendes tagja számára.
 
 (2) A tiszteletbeli elnök az elnökség tagja és az elnökség ülésein szavazati joggal rendelkezik.
@@ -302,12 +306,9 @@ rendelkező személy.
 
 26. § (1) Az elnököt a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetmény felső határának megfelelő illetmény, a főtitkárt a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetmény illeti meg. Az elnök és a főtitkár az Alapszabályban rögzített feltételek szerint költségtérítésben részesül.
 
-(1a) A (1) bekezdésben foglalt illetményen túl
+(1a) Az (1) bekezdésben foglalt illetményen túl az elnököt miniszteri juttatás és évente 40 munkanap szabadság illeti meg.
 
-- a) az elnököt miniszteri juttatás és évente 40 munkanap szabadság, valamint
-- b) a főtitkárt közigazgatási államtitkári juttatás és évente 40 munkanap szabadság
-
-illeti meg.
+(1b) A főtitkárt közigazgatási államtitkári juttatás illeti meg és minden naptári évben 20 munkanap vezetői pótszabadságot jogosult igénybe venni.
 
 (2) Az (1) bekezdésben nem említett tisztségviselők a tevékenységükért az Alapszabályban rögzített feltételek szerint díjazásban és költségtérítésben részesülhetnek.
 
@@ -361,13 +362,13 @@ illeti meg.
 
 az MMA Titkársága látja el.
 
-(2) Az MMA Titkársága az MMA irányítása alá tartozó költségvetési szerv, amelynek a közfeladat-szervezési, igazgatási és gazdálkodási feladatokat ellátó alkalmazottja – a főtitkárt is beleértve – közszolgálati jogviszonyban álló köztisztviselő és közszolgálati ügykezelő.
+(2) Az MMA Titkársága az MMA irányítása alá tartozó költségvetési szerv, amelynek a közfeladat-szervezési, igazgatási és gazdálkodási feladatokat ellátó alkalmazottja – a főtitkárt és a főtitkár-helyettest is ideértve – közszolgálati jogviszonyban álló köztisztviselő.
 
 (3) Az MMA Titkárságának alapító okiratát az MMA elnöke adja ki.
 
 (4) Az MMA Titkárságának vagyonkezelési feladatait, illetve vagyonhasználati jogait részletesen a vagyongazdálkodási szabályzat határozza meg. Ha az MMA a vagyona hasznosításával összefüggő valamely pénzügyi, vagyonkezelési és ellenőrzési feladat ellátására az irányítása alá tartozó egyéb költségvetési szervet bíz meg, azzal – pályázat kiírása nélkül – vagyon hasznosítására irányuló szerződést köt. A vagyon hasznosítására irányuló szerződés megkötésére a 27. § (5) bekezdését alkalmazni kell. A vagyon hasznosítására irányuló szerződés tartalmára és formájára irányadó rendelkezéseket a vagyongazdálkodási szabályzat határozza meg.
 
-(5) Az MMA által irányított költségvetési szerveknél foglalkoztatottra – az MMA Titkárságának a közfeladat-szervezési, igazgatási és gazdálkodási feladatokat ellátó köztisztviselője, közszolgálati ügykezelője vagy munkavállalója kivételével – a közalkalmazottak jogállásáról szóló törvényt kell alkalmazni.
+(5) Az MMA által irányított költségvetési szerveknél foglalkoztatottra – az MMA Titkárságának a közfeladat-szervezési, igazgatási és gazdálkodási feladatokat ellátó köztisztviselője vagy munkavállalója kivételével – a közalkalmazottak jogállásáról szóló törvényt kell alkalmazni.
 
 ### III/A. Fejezet — A NEMZET MŰVÉSZE DÍJ
 

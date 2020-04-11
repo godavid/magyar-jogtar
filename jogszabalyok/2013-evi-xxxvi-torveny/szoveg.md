@@ -592,7 +592,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 (2) A Nemzeti Választási Iroda elnökét naptári évenként negyven munkanap szabadság illeti meg.
 
-(3) A Nemzeti Választási Iroda elnöke személyi anyagának kezelését, valamint az elnök tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 115. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat az elnökhelyettesek látják el.
+(3) A Nemzeti Választási Iroda elnöke személyi anyagának kezelését, valamint az elnök tekintetében a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) 68. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat az elnökhelyettesek látják el.
 
 (4) A Nemzeti Választási Iroda elnöke kiadja a Nemzeti Választási Iroda Szervezeti és Működési Szabályzatát.
 
@@ -624,13 +624,17 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 #### 30. A Nemzeti Választási Iroda személyi állománya
 
-61. § (1) A Nemzeti Választási Iroda közszolgálati tisztviselői és munkavállalói felett a munkáltatói jogokat a Nemzeti Választási Iroda elnöke gyakorolja.
+61. § (1) A Nemzeti Választási Irodánál foglalkoztatottak jogviszonyára a Küt., valamint a munka törvénykönyvéről szóló törvény rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A Nemzeti Választási Iroda közszolgálati tisztviselői és munkavállalói összeférhetetlenségére az 56. §-ban foglaltakat megfelelően alkalmazni kell.
+(2) A Nemzeti Választási Iroda köztisztviselői és munkavállalói felett a munkáltatói jogokat a Nemzeti Választási Iroda elnöke gyakorolja.
 
-(3) Ha a Nemzeti Választási Iroda közszolgálati tisztviselője vagy munkavállalója az 56. § szerinti összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy vele szemben összeférhetetlenségi ok merül fel, a Nemzeti Választási Iroda elnöke dönt az összeférhetetlenség megállapításának kérdésében.
+(3) A Nemzeti Választási Iroda köztisztviselői és munkavállalói összeférhetetlenségére az 56. §-ban foglaltakat megfelelően alkalmazni kell.
 
-(4) A Nemzeti Választási Iroda elnöke más központi államigazgatási szerv közszolgálati tisztviselőjét és munkavállalóját – a szerv vezetőjének engedélyével – a Nemzeti Választási Iroda feladatainak elvégzésébe bevonhatja, részére utasítást adhat.
+(4) Ha a Nemzeti Választási Iroda köztisztviselője vagy munkavállalója az 56. § szerinti összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy vele szemben összeférhetetlenségi ok merül fel, a Nemzeti Választási Iroda elnöke dönt az összeférhetetlenség megállapításának kérdésében.
+
+(5) Az 56. § (4) bekezdése szerinti összeférhetetlenség esetén a Nemzeti Választási Iroda elnöke a köztisztviselő közszolgálati jogviszonyát azonnali hatállyal megszünteti.
+
+(6) A Nemzeti Választási Iroda elnöke más központi államigazgatási szerv kormánytisztviselőjét, köztisztviselőjét és munkavállalóját – a szerv vezetőjének engedélyével – a Nemzeti Választási Iroda feladatainak elvégzésébe bevonhatja, részére utasítást adhat.
 
 #### 31. A Nemzeti Választási Iroda elnökének helyettesei
 
@@ -640,7 +644,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 (3) Az elnökhelyettesnek meg kell felelnie a Nemzeti Választási Iroda elnökének kinevezéséhez szükséges, az 55. § (1) és (2) bekezdésében előírt feltételeknek.
 
-(4) Az elnökhelyettes összeférhetetlenségére az 56. §-ban foglaltakat megfelelően alkalmazni kell.
+(4) Az elnökhelyettes összeférhetetlenségére az 56. §-ban és a 61. § (5) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 (5) Az elnökhelyettes az elnök akadályoztatása esetén, illetve ha az elnöki tisztség nincs betöltve, gyakorolja az elnök hatásköreit és ellátja feladatait.
 
@@ -695,7 +699,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 (2) A választási iroda tagjának megbízatását a választási iroda vezetője indokolás nélkül visszavonhatja.
 
-68. § (1) A választási iroda tagjává közszolgálati tisztviselő, kormánytisztviselő és közalkalmazott bízható meg.
+68. § (1) A választási iroda tagjává közszolgálati tisztviselő, kormánytisztviselő és közalkalmazott, a helyi választási iroda és az országgyűlési egyéni választókerületi választási iroda tagjává továbbá a székhelye szerinti polgármesteri vagy közös önkormányzati hivatal munkavállalója bízható meg.
 
 (2) A külképviseleti választási iroda vezetőjét és többi tagját a Nemzeti Választási Iroda elnöke bízza meg. A külképviseleti választási iroda tagjává a diplomáciai képviselet személyzetének, illetőleg a konzuli személyzet magyar állampolgár tagját is meg lehet bízni.
 

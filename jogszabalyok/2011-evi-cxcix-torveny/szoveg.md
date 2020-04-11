@@ -134,7 +134,7 @@ terjed ki.
 
 (8) A közszolgálati tisztviselő besorolásánál (116. §) az önkéntes tartalékos tényleges katonai szolgálatteljesítés idejét kétszeres időtartammal kell figyelembe venni.
 
-(9) Az (1)–(4) bekezdésben foglalt szabályokat az Országgyűlési Őrség és az Állambiztonsági Szolgálatok Történeti Levéltára esetében nem kell alkalmazni.
+(9) Az (1)–(4) bekezdésben foglalt szabályokat az Országgyűlési Őrség esetében nem kell alkalmazni.
 
 (10) Az (1) bekezdésben foglaltaktól eltérően, Magyarország diplomáciai és konzuli képviseletein, a nemzetközi szervezetek mellett működő állandó képviseleteken, valamint más állami képviseleteken ügyviteli feladat ellátására nem kizárólag kormányzati szolgálati, illetve közszolgálati jogviszony létesíthető.
 
@@ -1078,6 +1078,8 @@ Az a)–d) pontban meghatározott rendelkezések alkalmazása szempontjából a 
 
 (4) A kormánytisztviselőt a felmentés időtartamának legalább a felére a munkavégzési kötelezettség alól mentesíteni kell, erre az időtartamra illetményre jogosult. A 85. § (2) és (3) bekezdésében meghatározott összeférhetetlenségi szabály nem alkalmazható a munkavégzési kötelezettség alól mentesített kormánytisztviselővel szemben. A munkavégzés alól a kormánytisztviselőt a kívánságának megfelelően – legfeljebb két részletben – kell mentesíteni.
 
+(4a) A kormánytisztviselő a felmentési idő egészére jogosult illetményre, ha a munkavégzési kötelezettség alól fizetés nélküli szabadság miatt mentesül.
+
 (5) A kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés idejére járó illetményre havonta egyenlő részletekben jogosult.
 
 (6) A kifizetett illetményt visszakövetelni nem lehet, ha a kormánytisztviselőt a munkavégzés alól végleg mentesítették és az illetmény fizetését kizáró körülmény a kormánytisztviselőnek a munkavégzés alóli mentésítése után következett be.
@@ -1152,7 +1154,8 @@ Az a) pont alkalmazása szempontjából akkor is a kormánytisztviselő besorol�
 - d) a beteg gyermek ápolása címén fennálló keresőképtelenség,
 - e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés, valamint
 - f) a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének, de legfeljebb ennek megkezdésétől számított hat hónap,
-- g) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság időtartama alatt.
+- g) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság,
+- h) az unoka gondozása céljából igénybe vett fizetés nélküli szabadság időtartama alatt.
 
 (2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó.
 
@@ -1825,6 +1828,8 @@ adja ki, ha az esedékesség éve eltelt.
 (2) Az (1) bekezdésben megjelölt esetben a szabadság időtartama – a szülést követően – hat hétnél rövidebb nem lehet.
 
 113. § (1) A kormánytisztviselőnek gyermeke személyes gondozása érdekében – a 111. § (1) bekezdésében foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély, gyermekgondozást segítő ellátás folyósításának időtartama alatt.
+
+(1a) A kormánytisztviselőnek unokája személyes gondozása érdekében fizetés nélküli szabadság jár a gyermekgondozási díj folyósításának időtartama alatt.
 
 (2) A kormánytisztviselőnek hozzátartozója tartós – előreláthatólag harminc napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre fizetés nélküli szabadság jár. A tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
 
@@ -3127,7 +3132,7 @@ munkanapra emelkedik.
 
 (8) Ha a fővárosi és megyei kormányhivatal a települési önkormányzatnál végzett közszolgálati ellenőrzés keretében a települési önkormányzat szervének határozatával okozott olyan jogszabálysértést tár fel, amelyből a polgármester közvetlen vagy közvetett anyagi előnyre tehet szert, és más bírósági vagy közigazgatási hatósági eljárás lefolytatásának nincs helye, a jogszabálysértés megszüntetése érdekében a közigazgatási ügyben eljáró bírósághoz fordul.
 
-225/L. § (1) A polgármesteri foglalkoztatási jogviszonyra megfelelően alkalmazni kell a 3. § (4) bekezdését, a 6. § 1., 10., 11., 16., 17., 18., 20a., 23., 25., 26., 31a. pontját; a 9. § (1)–(3) bekezdését; a 10–12 §-t; a 13. § (2) bekezdését; a 15. §-t; a 17. §-t; a 19. §-t; a 20. § (3) és (4) bekezdését; a 21-24. §-t; a 25. § (1) bekezdés első mondatát, (3) és (4), valamint (6) bekezdését; a 74. §-át; a 75. § (1) bekezdés a)–b) és f)–h) és k) pontját, (3) és (4) bekezdését; a 76. § (1) bekezdését; a 79. §-t; a 89. § (1) bekezdését; a 93. § (1) és (2) bekezdését; a 94. § (1) bekezdését; a 95. § (1) és (2), valamint (4) bekezdését; a 96. § (1) bekezdését; a 99. §-t; a 100. § (2) bekezdését; a 104. § (2), (6) és (7) bekezdését, a 106. § (1) és (2) bekezdését, a 107. §-t, a 109–112. §-t; a 113. § (1) és (2) bekezdését; a 114. §-t; a 131. § (1) bekezdését; a 132. §-t; a 141. § (1)–(9) bekezdését; a 144. § (3) bekezdés a) és b), valamint a d) pontját és (4) bekezdését; a 145. §-t; a 146. § (1) és (3)–(7) bekezdését; a 147–149/A. §-t; a 150–153/A. §-t; a 156. §-t; a 157. § (1) és (2) bekezdését, a (3) bekezdés első mondatát és (4) bekezdését; a 158. §-t; a 159. § (1) bekezdését; a 160. § (1) és (2), valamint (4) és (5) bekezdését; a 164. §-t, a 166–175. §-t; a 176. § (1) bekezdését; a 177. § (1) bekezdését; a 184. § (2) és (3) bekezdését; a 189. §-t; a 192. §-t; a 232/A. §-t, valamint a 237. §-t.
+225/L. § (1) A polgármesteri foglalkoztatási jogviszonyra megfelelően alkalmazni kell a 3. § (4) bekezdését, a 6. § 1., 10., 11., 16., 17., 18., 20a., 23., 25., 26., 31a. pontját; a 9. § (1)–(3) bekezdését; a 10–12 §-t; a 13. § (2) bekezdését; a 15. §-t; a 17. §-t; a 19. §-t; a 20. § (3) és (4) bekezdését; a 21-24. §-t; a 25. § (1) bekezdés első mondatát, (3) és (4), valamint (6) bekezdését; a 74. §-t; a 75. § (1) bekezdés a)–b) és f)–h) és k) pontját, (3) és (4) bekezdését; a 76. § (1) bekezdését; a 79. §-t; a 89. § (1) bekezdését; a 93. § (1) és (2) bekezdését; a 94. § (1) bekezdését; a 95. § (1) és (2), valamint (4) bekezdését; a 96. § (1) bekezdését; a 99. §-t; a 100. § (2) bekezdését; a 104. § (2), (6) és (7) bekezdését, a 106. § (1) és (2) bekezdését, a 107. §-t, a 109–112. §-t; a 113. § (1), (1a) és (2) bekezdését; a 114. §-t; a 131. § (1) bekezdését; a 132. §-t; a 141. § (1)–(9) bekezdését; a 144. § (3) bekezdés a) és b), valamint a d) pontját és (4) bekezdését; a 145. §-t; a 146. § (1) és (3)–(7) bekezdését; a 147–149/A. §-t; a 150–153/A. §-t; a 156. §-t; a 157. § (1) és (2) bekezdését, a (3) bekezdés első mondatát és (4) bekezdését; a 158. §-t; a 159. § (1) bekezdését; a 160. § (1) és (2), valamint (4) és (5) bekezdését; a 164. §-t, a 166–175. §-t; a 176. § (1) bekezdését; a 177. § (1) bekezdését; a 184. § (2) és (3) bekezdését; a 189. §-t; a 192. §-t; a 232/A. §-t, valamint a 237. §-t.
 
 (2) A polgármester foglalkoztatási jogviszonyára az alábbi rendelkezéseket a következő eltérésekkel kell alkalmazni:
 
@@ -3701,6 +3706,8 @@ részletes szabályokat.
 
 kell alkalmazni.
 
+260/E. § A köztisztviselő az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló 2020. évi XIX. törvény hatálybalépését követően 2020. január és február hónapokra visszamenőleg jogosult az e törvény 2019. december 31-éig hatályos 133. §-a alapján hozott munkáltatói intézkedés szerint számított, 2018. évi minősítése, ennek hiányában teljesítményértékelése alapján eltérített 2019. évi december havi illetménye és a 2020. január havi illetménye közötti különbözetre. A különbözetet az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló 2020. évi XIX. törvény hatálybalépését követő hónapra járó illetménnyel együtt kell részére egy összegben kifizetni.
+
 ### Az Európai Unió jogi aktusainak való megfelelés
 
 261. § E törvény az Európai Unió következő uniós jogi aktusainak való megfelelést szolgálja:
@@ -3803,6 +3810,20 @@ I/B. eltartott gyermeke(i)
 3. anyja születési családi és utóneve
 
 4. lakóhely, lakáscím, tartózkodási hely
+
+5. adóazonosító jele
+
+6. társadalombiztosítási azonosító jele
+
+I/C. unokája, unokái
+
+1. családi és utóneve
+
+2. születési helye, ideje
+
+3. anyja születési családi és utóneve
+
+4. lakóhelye, lakáscíme, tartózkodási helye
 
 5. adóazonosító jele
 

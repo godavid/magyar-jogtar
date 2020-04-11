@@ -78,9 +78,9 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (5) Az NFK elnökére, elnökhelyetteseire és alkalmazottaira a kormányzati igazgatásról szóló törvénynek a kormánytisztviselőkre vonatkozó rendelkezései, az NFK álláshelyeire pedig a kormányzati igazgatási létszámgazdálkodásra vonatkozó rendelkezései irányadók.
 
-(6) Az NFK elnöke államtitkári illetményre és juttatásokra jogosult.
+(6) Az NFK elnöke a miniszter által vezetett minisztérium közigazgatási államtitkárával azonos összegű illetményre jogosult.
 
-(7) Az NFK elnökhelyettese helyettes államtitkári illetményre jogosult.
+(7) Az NFK elnökhelyettese a miniszter által vezetett minisztérium helyettes államtitkárával azonos összegű illetményre jogosult.
 
 (8)
 
@@ -130,7 +130,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (2) A Tanács ellátja továbbá az (1) bekezdésben meghatározottak körében a szervezeti és működési szabályzatban részére meghatározott feladatokat.
 
-(3) A Tanács tagjai – a Tanács elnökének és az NFK elnökének kivételével – tevékenységükért helyettes államtitkári illetménynek megfelelő összegű tiszteletdíjban részesülnek. A Tanács elnöke tevékenységéért államtitkári illetménynek megfelelő összegű tiszteletdíjban részesül.
+(3) A Tanács tagja – a Tanács elnöke és az NFK elnöke kivételével – tevékenységéért a miniszter által vezetett minisztérium helyettes államtitkári illetményének megfelelő összegű tiszteletdíjban részesül. A Tanács elnöke tevékenységéért a miniszter által vezetett minisztérium közigazgatási államtitkári illetményének megfelelő összegű tiszteletdíjban részesül.
 
 9. § (1) A Tanács a jogait és kötelezettségeit testületként gyakorolja.
 
@@ -505,20 +505,20 @@ követő napon.
 
 39. § E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások megvalósításának gyorsításával összefüggésben egyes törvények módosításáról szóló 2015. évi LXXIX. törvénnyel (a továbbiakban: Módtv1.) megállapított rendelkezéseit a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással érintett földterületre a Módtv1. hatálybalépését megelőzően kötött, földrészlet hasznosítására irányuló jogviszonyokra is alkalmazni kell, ha a 31/A. § (1) bekezdése szerinti értesítésre a Módtv1. hatálybalépését követően kerül sor.
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
 48. § E törvény 1–3., 18–23. és 36. §-a az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.

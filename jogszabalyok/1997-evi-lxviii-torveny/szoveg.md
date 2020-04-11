@@ -1106,7 +1106,7 @@ okozta.
 
 96. § (1) Az igazságügyi alkalmazott a szolgálati viszonya alapján havonta alapilletményre, továbbá – ha a folyósítás e törvényben meghatározott feltételei fennállnak – beosztási pótlékra és címpótlékra jogosult. A beosztási pótlék és a címpótlék az illetmény része. Az alapilletmény összege nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér), illetve a garantált bérminimum összege.
 
-(2) Az OBH elnökhelyettese illetményére a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvénynek az államtitkár javadalmazására, juttatásaira az állami vezetői juttatásokról szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
+(2) Az OBH elnökhelyettesének illetményére a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 51. § (5) bekezdésének szabályait kell alkalmazni azzal, hogy az illetmény összegét az OBH elnöke állapítja meg. Az OBH elnökhelyettesének juttatásaira az állami vezetői juttatásokról szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
 
 96/A. § (1) Az igazságügyi alkalmazottat az illetménye illeti meg a következő távollétek idejére is:
 
@@ -1125,7 +1125,7 @@ okozta.
 
 ### A besorolás és az alapilletmény megállapítása
 
-97. § (1) Az igazságügyi alkalmazottat munkaköre és iskolai végzettsége alapján – a fizikai dolgozó kivételével – a megfelelő fizetési osztályba, ezen belül az igazságügyi szolgálati ideje alapján – a vezető kivételével – a megfelelő fizetési fokozatba kell besorolni. Az alapilletmény megállapításának alapjául a mindenkori legalacsonyabb bírói alapilletmény (a továbbiakban: illetményalap) szolgál; az alapilletményt az illetményalap és az egyes fizetési fokozatok szorzószámai alapján kell megállapítani.
+97. § (1) Az igazságügyi alkalmazottat munkaköre és iskolai végzettsége alapján – a fizikai dolgozó kivételével – a megfelelő fizetési osztályba, ezen belül az igazságügyi szolgálati ideje alapján – a vezető kivételével – a megfelelő fizetési fokozatba kell besorolni. Az alapilletmény megállapításának alapjául a bírói illetményalap (a továbbiakban: illetményalap) szolgál; az alapilletményt az illetményalap és az egyes fizetési fokozatok szorzószámai alapján kell megállapítani.
 
 (2) Az igazságügyi alkalmazott alapilletményét – a kijelölt titkár kivételével – a besorolása szerinti fizetési fokozathoz tartozó alsó és felső határ között kell megállapítani úgy, hogy annak összege elérje legalább az alsó határt, de ne haladja meg a felső határt. Az igazságügyi alkalmazott a besorolása szerinti fizetési fokozathoz tartozó alsó határ szerinti alapilletményre alanyi jogon jogosult.
 

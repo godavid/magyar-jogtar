@@ -137,7 +137,7 @@ a tudományos kutató igazolja, hogy korábban elkezdett kutatásához ezen adat
 (7) Felmentésnek van helye, ha a főigazgató (főigazgató-helyettes)
 
 - a) tisztségére méltatlanná vált,
-- b) munkaköri feladatait egészségi okból 90 napon túl folyamatosan nem tudja ellátni.
+- b) álláshelyi feladatait egészségi okból 90 napon túl folyamatosan nem tudja ellátni.
 
 (8) Tisztségére méltatlannak kell tekinteni a főigazgatót (főigazgató-helyettest), ha a bíróság jogerős ügydöntő határozatával szándékos bűncselekmény elkövetésében bűnösségét megállapította, illetőleg feladatainak neki felróható okból nem tesz eleget.
 
@@ -153,9 +153,11 @@ a tudományos kutató igazolja, hogy korábban elkezdett kutatásához ezen adat
 
 (6) A kinevezés és a felmentés kivételével a munkáltatói jogokat a főigazgató tekintetében az Országgyűlés Hivatala főigazgatója gyakorolja.
 
-(7) A Levéltár munkatársaira egyebekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
+(7) A Levéltár munkatársaira egyebekben a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény rendelkezéseit kell alkalmazni.
 
 (8) A főigazgató a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetmény felső határának megfelelő illetményre, a főigazgató-helyettes a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetmény felső határának megfelelő illetményre jogosult. A főigazgató és a főigazgató-helyettes egyéb juttatásait az Országgyűlés elnöke állapítja meg.
+
+(9) A főigazgató és a főigazgató-helyettes minden naptári évben húsz munkanap vezetői pótszabadságot jogosult igénybe venni.
 
 10. § (1) A Levéltár működésére az Ltv. szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni. Az Ltv. 28. §-a a Levéltár eljárására nem alkalmazható.
 

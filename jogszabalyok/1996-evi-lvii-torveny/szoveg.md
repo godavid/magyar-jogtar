@@ -349,15 +349,13 @@ kell figyelembe venni.
 
 33/B. § A Gazdasági Versenyhivatal minden évben az augusztus 20-át megelőző tizedik munkanappal kezdődően augusztus 20-áig, valamint a december 24-e és január 1-je közötti időszakban igazgatási szünetet tart.
 
-34. § A Gazdasági Versenyhivatal elnökének, elnökhelyetteseinek, valamint a Versenytanács tagjainak a jogviszonyára – az e törvényben foglalt eltérésekkel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) rendelkezéseit kell alkalmazni.
+34. § A Gazdasági Versenyhivatal elnökének, elnökhelyetteseinek, főtitkárának, valamint a Versenytanács tagjainak a jogviszonyára – az e törvényben foglalt eltérésekkel – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) rendelkezéseit kell alkalmazni.
 
-34/A. § Nem lehet a Gazdasági Versenyhivatal elnöke, elnökhelyettese, valamint a Versenytanács tagja olyan személy, aki
+34/A. § A Küt. 24. §-ában meghatározott feltételeken túl nem lehet a Gazdasági Versenyhivatal elnöke, elnökhelyettese, valamint a Versenytanács tagja olyan személy, aki büntetlen előéletű, de akinek a büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította
 
-- a) büntetett előéletű,
-- b) büntetlen előéletű, de akinek a büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította
-  - ba) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősítésű adattal, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, XV. fejezet VII. címében meghatározott közélet tisztasága elleni bűncselekmény, VIII. címében meghatározott nemzetközi közélet tisztasága elleni bűncselekmény, bűnszervezetben részvétel, a XVI. fejezet III. címében meghatározott közbizalom elleni bűncselekmény, XVII. fejezetében meghatározott gazdasági bűncselekmény, XVIII. fejezetében meghatározott vagyon elleni bűncselekmény miatt,
-  - bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti minősített adattal visszaélés, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, XXVII. Fejezetében meghatározott korrupciós bűncselekmény, bűnszervezetben részvétel, XXXIII. Fejezetében meghatározott közbizalom elleni bűncselekmény, XXXV–XLIII. Fejezetében meghatározott bűncselekmény miatt vagy
-  - bc) olyan bűntett miatt, amelyet bűnszervezet keretében követett el, szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén az elítéléshez fűződő hátrányos jogkövetkezmények alóli mentesítés (a továbbiakban: büntetőjogi mentesítés) beálltától számított tizenkét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított tíz évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a büntetőjogi mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a büntetőjogi mentesítés beálltától számított három évig.
+- a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben (a továbbiakban: 1978. évi IV. törvény) meghatározott visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősítésű adattal, bűnpártolás, bűnszervezetben részvétel, az 1978. évi IV. törvény XVII. Fejezetében meghatározott gazdasági bűncselekmény, XVIII. Fejezetében meghatározott vagyon elleni bűncselekmény miatt,
+- b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti minősített adattal visszaélés, bűnszervezetben részvétel, XXXV–XLIII. Fejezetében meghatározott bűncselekmény miatt vagy
+- c) olyan bűntett miatt, amelyet bűnszervezet keretében követett el, szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén az elítéléshez fűződő hátrányos jogkövetkezmények alóli mentesítés (a továbbiakban: büntetőjogi mentesítés) beálltától számított tizenkét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított tíz évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a büntetőjogi mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a büntetőjogi mentesítés beálltától számított három évig.
 
 35. § (1) A Gazdasági Versenyhivatal élén az elnök áll.
 
@@ -369,11 +367,11 @@ kell figyelembe venni.
 
 (8) A Gazdasági Versenyhivatal elnökét, elnökhelyettesét az elődje megbízatásának lejártát megelőző három hónapon belül meg kell nevezni, valamint a kinevezéséhez szükséges folyamatot az előző kinevezés lejárta előtt egy hónappal be kell fejezni.
 
-35/A. § (1) A Gazdasági Versenyhivatal elnökének, elnökhelyettesének javasolt személy a miniszterelnök részére, a Versenytanács tagjának javasolt személy a Gazdasági Versenyhivatal elnöke részére – a javaslat előterjesztését megelőzően – hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a 34/A. §-ban meghatározott kizáró ok.
+35/A. § (1) A Gazdasági Versenyhivatal elnökének, elnökhelyettesének javasolt személy a miniszterelnök részére, a Versenytanács tagjának javasolt személy a Gazdasági Versenyhivatal elnöke részére – a javaslat előterjesztését megelőzően – hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a 34/A. §-ban és a Küt. 24. §-ában meghatározott kizáró ok.
 
-(2) A miniszterelnök a Gazdasági Versenyhivatal elnökét, elnökhelyettesét, a Gazdasági Versenyhivatal elnöke a Versenytanács tagját kinevezésének időtartama alatt írásban, a mulasztás jogkövetkezményének ismertetésével felhívhatja annak igazolására, hogy vele szemben nem áll fenn a 34/A. §-ban meghatározott kizáró ok.
+(2) A miniszterelnök a Gazdasági Versenyhivatal elnökét, elnökhelyettesét, a Gazdasági Versenyhivatal elnöke a Versenytanács tagját kinevezésének időtartama alatt írásban, a mulasztás jogkövetkezményének ismertetésével felhívhatja annak igazolására, hogy vele szemben nem áll fenn a 34/A. §-ban és a Küt. 24. §-ában meghatározott kizáró ok.
 
-(3) Ha a (2) bekezdés szerinti felhívásra a felhívástól számított húsz napon belül – ha e határidőn belül a felhívott személyen kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – a Gazdasági Versenyhivatal elnöke, elnökhelyettese vagy a Versenytanács tagja igazolja, hogy vele szemben nem áll fenn a 34/A. §-ban meghatározott kizáró ok, a Gazdasági Versenyhivatal az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az igazolást benyújtó tisztségviselőnek megtéríti.
+(3) Ha a (2) bekezdés szerinti felhívásra a felhívástól számított húsz napon belül – ha e határidőn belül a felhívott személyen kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – a Gazdasági Versenyhivatal elnöke, elnökhelyettese vagy a Versenytanács tagja igazolja, hogy vele szemben nem áll fenn a 34/A. §-ban és a Küt. 24. §-ában meghatározott kizáró ok, a Gazdasági Versenyhivatal az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az igazolást benyújtó tisztségviselőnek megtéríti.
 
 (4) A miniszterelnök a Gazdasági Versenyhivatal elnökének, elnökhelyettesének, a Gazdasági Versenyhivatal elnöke a Versenytanács tagjának az (1) és (3) bekezdés alapján megismert személyes adatait az adatalany megbízatásának megszűnéséig kezeli.
 
@@ -381,10 +379,11 @@ kell figyelembe venni.
 
 - a) vezeti a Gazdasági Versenyhivatalt,
 - b) képviseli a Gazdasági Versenyhivatalt,
-- c) megállapítja a Gazdasági Versenyhivatal szervezeti és működési szabályzatát, jóváhagyja a Versenytanács szervezeti és működési szabályzatát, meghatározza a Gazdasági Versenyhivatal létszámkeretét, kiadmányozási rendjét,
-- d) gyakorolja – az e törvényben meghatározott kivételekkel – a munkáltatói jogokat a Gazdasági Versenyhivatal elnökhelyettesei, a Versenytanács tagjai, valamint a Gazdasági Versenyhivatal köztisztviselői, közszolgálati ügykezelői és munkavállalói felett, ellátja a Kttv.-ben a hivatali szerv vezetője számára meghatározott feladatokat,
+- c) megállapítja a Gazdasági Versenyhivatal szervezeti és működési szabályzatát, jóváhagyja a Versenytanács szervezeti és működési szabályzatát, meghatározza a Gazdasági Versenyhivatal szervezetét, alaplétszámát, kiadmányozási rendjét, szabályzatban meghatározhatja az álláshelyek besorolási kategóriáit,
+- d) gyakorolja – az e törvényben meghatározott kivételekkel – a munkáltatói jogokat a Gazdasági Versenyhivatal elnökhelyettesei, a Versenytanács tagjai, valamint a Gazdasági Versenyhivatal köztisztviselői és munkavállalói felett, ellátja a Küt.-ben a hivatali szerv vezetője számára meghatározott feladatokat,
 - e) kijelöli az 1/2003/EK tanácsi rendelet szerinti Versenykorlátozó Magatartások és Erőfölényes Helyzetek Tanácsadó Bizottságában, valamint a 139/2004/EK tanácsi rendelet szerinti Összefonódások Tanácsadó Bizottságában a Gazdasági Versenyhivatalt képviselő személyeket,
-- f) irányítja a Gazdasági Versenyhivatal versenykultúrát és a tudatos fogyasztói döntéshozatal kultúráját fejlesztő tevékenységét.
+- f) irányítja a Gazdasági Versenyhivatal versenykultúrát és a tudatos fogyasztói döntéshozatal kultúráját fejlesztő tevékenységét,
+- g) megállapítja a Gazdasági Versenyhivatalnál foglalkoztatottakra vonatkozó hivatásetikai alapelveket és az etikai, valamint a fegyelmi eljárásra vonatkozó részletszabályokat.
 
 (2) A Gazdasági Versenyhivatal elnöke
 
@@ -403,7 +402,7 @@ kell figyelembe venni.
 
 (7) A Gazdasági Versenyhivatal elnöke a Gazdasági Versenyhivatalnak a magyarországi és európai uniós versenykultúra fejlesztése, valamint a regionális versenyjogi intézményrendszer fejlesztésének előmozdítása érdekében létrehozott szervezeti egységét az alapító határozatban önálló jogi személyiséggel ruházhatja fel.
 
-36/A. § A Gazdasági Versenyhivatal főtitkára a Gazdasági Versenyhivatal szervezeti és működési szabályzatában meghatározottak szerint, az elnök irányításával ellátja – a jogszabályoknak és a szakmai követelményeknek megfelelően – a Gazdasági Versenyhivatal hivatali szervezetének vezetésével összefüggő feladatokat.
+36/A. § A Gazdasági Versenyhivatal főtitkárát az elnök nevezi ki. A főtitkár a Gazdasági Versenyhivatal szervezeti és működési szabályzatában meghatározottak szerint, az elnök irányításával – a jogszabályoknak és a szakmai követelményeknek megfelelően – ellátja a Gazdasági Versenyhivatal hivatali szervezetének vezetésével összefüggő feladatokat.
 
 37. § (1) A Versenytanács elnökből és tagokból áll. A Versenytanács ellátja a törvényben meghatározott feladatokat. A Versenytanács elnöke és tagjai döntéshozataluk során függetlenek, a jogszabályok alapján meggyőződésüknek megfelelően döntenek, döntéseik meghozatalával összefüggésben nem befolyásolhatók és nem utasíthatók.
 
@@ -415,9 +414,9 @@ kell figyelembe venni.
 - d) gondoskodik a Versenytanács döntéseinek nyilvánosságra hozataláról (80. §),
 - e) az eljáró Versenytanács tagjaként eljárhat.
 
-(3) A Versenytanács tagját a Gazdasági Versenyhivatal elnökének javaslatára a köztársasági elnök nevezi ki és menti fel. A kinevezés hat évre szól. A kinevezett személy megbízatásának lejártát követően egy alkalommal újból kinevezhető.
+(3) A Versenytanács tagját a Gazdasági Versenyhivatal elnökének javaslatára a köztársasági elnök nevezi ki és menti fel. A köztársasági elnök e döntéséhez ellenjegyzésre nincs szükség. A kinevezés hat évre szól. A kinevezett személy megbízatásának lejártát követően egy alkalommal újból kinevezhető.
 
-(4) A Gazdasági Versenyhivatal köztisztviselője közszolgálati jogviszonyának fennállását a Versenytanács tagjává való kinevezése nem érinti. Ha a Versenytanács tagjának megbízatása a megbízatás időtartamának letelte miatt szűnik meg, a köztisztviselőt az előmeneteli szabályok figyelembevételével újra be kell sorolni, és vissza kell helyezni a megbízatása előtt általa betöltött munkakörbe vagy a végzettségének és szakképzettségének, szakképesítésének megfelelő más munkakörbe kell kinevezni. Ha a megváltozott munkakörbe való kinevezés miatt a köztisztviselő felmentését kéri, a Kttv. 48. § (7) bekezdése alkalmazásában a kinevezésmódosítást megelőzően betöltött munkakörként a versenytanácstagi megbízatást kell figyelembe venni.
+(4) A Gazdasági Versenyhivatal köztisztviselőjének közszolgálati jogviszonya a Versenytanács tagjává való kinevezésekor a köztársasági elnöki kinevezésnek (megbízatás) megfelelő tartalmú közszolgálati jogviszonnyá alakul át. Ha a Versenytanács tagjának megbízatása a megbízatás időtartamának letelte miatt szűnik meg, a köztisztviselőt vissza kell helyezni a megbízatása előtt ellátott feladatkörbe vagy a végzettségének és szakképzettségének, szakképesítésének megfelelő más feladatkörben kell továbbfoglalkoztatni. Ha a megváltozott feladatkörben való továbbfoglalkoztatása miatt a köztisztviselő a Küt. 29. § (7) bekezdése alapján felmentését kéri, a Küt. 29. § (8) bekezdése alkalmazásában a kinevezés-módosítást megelőző illetményként a versenytanácstagként járó illetményét kell figyelembe venni.
 
 38. § (1) A Gazdasági Versenyhivatal elnökének, elnökhelyettesének, illetve a Versenytanács tagjának megbízatása és – a 37. § (4) bekezdésében meghatározott esetek kivételével – közszolgálati jogviszonya megszűnik
 
@@ -438,7 +437,7 @@ kell figyelembe venni.
 
 - a) felmenti, ha
   - aa) kilencven napon túl – neki felróható okból – nem képes eleget tenni a megbízatásából eredő feladatainak,
-  - ab) a közszolgálati jogviszony létesítéséhez szükséges, a Kttv.-ben, illetve az e törvényben meghatározott feltételeknek nem felel meg, vagy
+  - ab) a közszolgálati jogviszony létesítéséhez szükséges, a Küt.-ben, illetve az e törvényben meghatározott feltételeknek nem felel meg, vagy
   - ac) vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közöl, illetve
 - b) felmentheti, ha száznyolcvan napon túl – neki fel nem róható okból – nem képes eleget tenni a megbízatásából eredő feladatainak.
 
@@ -446,7 +445,7 @@ kell figyelembe venni.
 
 (7) Az összeférhetetlenség megállapítására vagy a felmentésre vonatkozó előterjesztés a bírósághoz fordulásra nyitva álló határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően küldhető meg a köztársasági elnöknek. A köztársasági elnök határozatával szemben jogorvoslatnak vagy közszolgálati jogvita kezdeményezésének nincs helye.
 
-39. § A vizsgáló a Gazdasági Versenyhivatal feladat- és hatáskörében eljáró, ágazati vizsgálatban, bejelentéssel (az összefonódás-bejelentést is ideértve), illetve panasszal összefüggő eljárásban, továbbá versenyfelügyeleti eljárásban vizsgálatot végző, illetve az eljárás eredményessége érdekében abban közreműködő köztisztviselő. A vizsgálói munkaköröket a Gazdasági Versenyhivatal szervezeti és működési szabályzata határozza meg.
+39. § A vizsgáló a Gazdasági Versenyhivatal feladat- és hatáskörében eljáró, ágazati vizsgálatban, bejelentéssel (az összefonódás-bejelentést is ideértve), illetve panasszal összefüggő eljárásban, továbbá versenyfelügyeleti eljárásban vizsgálatot végző, illetve az eljárás eredményessége érdekében abban közreműködő köztisztviselő. A vizsgálói álláshelyeket a Gazdasági Versenyhivatal szervezeti és működési szabályzata, az álláshelyen ellátandó feladatokat a szabályzata határozza meg.
 
 40. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – nem létesíthet (összeférhetetlenség).
 
@@ -458,11 +457,11 @@ kell figyelembe venni.
 
 41. § (1) A kinevezéshez szükséges feltételek meglétének vizsgálatával, az igazolásra való felhívással, továbbá az összeférhetetlenségi okok bejelentésével és az összeférhetetlenség megszüntetésére felhívással összefüggő jogkör gyakorlója az elnök tekintetében a miniszterelnök, az elnökhelyettes és a Versenytanács tagja tekintetében az elnök.
 
-(2) Az elnök személyi anyagának kezelését, valamint az elnök tekintetében a Kttv. 115. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a főtitkár látja el.
+(2) Az elnök személyi anyagának kezelését, valamint az elnök tekintetében a Küt. 68. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a főtitkár látja el.
 
 42. § (1) A Gazdasági Versenyhivatal elnökének havi illetménye a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 149. § (1) bekezdése szerinti havi bér 80%-a, az elnökhelyettes illetménye az elnök havi illetményének 90%-a, a főtitkár illetménye az elnök havi illetményének 60%-a.
 
-(1a) A Versenytanács tagjának az illetménye az Elnök havi illetményének 50%-a.
+(1a) A Versenytanács tagjának az illetménye az elnök havi illetményének 50%-a.
 
 (1b) Az (1) bekezdés szerinti illetményen túl a Gazdasági Versenyhivatal
 
@@ -472,7 +471,7 @@ kell figyelembe venni.
 
 juttatásra jogosult.
 
-(2) A Gazdasági Versenyhivatal elnökét, elnökhelyettesét, főtitkárát és a Versenytanács tagját minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
+(2) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, főtitkára és a Versenytanács tagja minden naptári évben a Gazdasági Versenyhivatal szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
 
 (3) Ha a Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja e megbízatását három évig betöltötte, a megbízatás megszűnése esetén – kivéve, ha a megbízatás a 38. § (1) bekezdés d) vagy e) pontjában meghatározott okból vagy a 38. § (5) bekezdés a) pontjában meghatározott felmentési okból történő felmentés miatt szűnik meg – további három hónapon keresztül a havi illetményével megegyező összegű juttatásra jogosult, amely szociális hozzájárulási adó, valamint egészségbiztosítási, munkaerő-piaci és nyugdíjjárulék alapjául szolgáló jövedelem.
 
@@ -480,73 +479,25 @@ juttatásra jogosult.
 
 (5) Ha a megbízatás halál miatt szűnik meg, a juttatás az özvegyet, ennek hiányában az örököst illeti meg. E juttatásból egészségbiztosítási, munkaerő-piaci és nyugdíjjárulékot fizetni nem kell. E juttatás a hozzátartozói nyugellátás megállapításakor a havi átlagkereset alapjául szolgáló keresetként nem vehető figyelembe.
 
-(6) A Versenytanács tagjának a 37. § (4) bekezdése szerinti továbbfoglalkoztatása esetén a (3), illetve (4) bekezdést azzal az eltéréssel kell alkalmazni, hogy az e rendelkezésekben meghatározottak szerint juttatás helyett az ott meghatározott időtartamokig a köztisztviselőt megilleti a korábbi illetménye és az új illetménye különbségének összege, ha az előbbi magasabb volt.
+(6)
 
-42/A. § (1) A Gazdasági Versenyhivatalnál foglalkoztatott felsőfokú iskolai végzettségű köztisztviselőt a közszolgálati jogviszonyban eltöltött idejének megfelelően a (2) bekezdésben meghatározott besorolási fokozatba, illetve – a (3) bekezdésben meghatározott esetekben az ott meghatározott – fizetési fokozatokba kell besorolni a Kttv. 118. §-a, 119. §-a, 120. § (1) bekezdése, 121. §-a és 122. §-a megfelelő alkalmazásával.
+42/A. § (1) A Gazdasági Versenyhivatal elnöke át nem ruházható hatáskörében dönt a Gazdasági Versenyhivatal illetménypolitikai alapelveiről és béren kívüli juttatásairól.
 
-(2) A köztisztviselő
+(2) A Gazdasági Versenyhivatal és a Gazdasági Versenyhivatal köztisztviselői közszolgálati munkaszerződésben állapodnak meg a köztisztviselő illetményéről, a juttatásokról, a pótszabadság mértékéről, a napi munkaidőről és az általános munkarendről.
 
-- a) pályakezdőként gyakornok,
-- b) egy év közszolgálati jogviszonyban töltött idő után fogalmazó,
-- c) három év közszolgálati jogviszonyban töltött idő után tanácsos,
-- d) nyolc év közszolgálati jogviszonyban töltött idő után vezető tanácsos,
-- e) tizenhat év közszolgálati jogviszonyban töltött idő után főtanácsos,
-- f) huszonöt év közszolgálati jogviszonyban töltött idő után vezető főtanácsos
+42/B. § (1) A köztisztviselő a Gazdasági Versenyhivatal elkülönült szervezeti egységének vezetésére irodavezetői, irodavezető-helyettesi, illetve csoportvezetői álláshelyre nevezhető ki. Az irodavezető helyettesítésére – szervezeti egység vezetése nélkül – egy szervezeti egységnél legfeljebb egy irodavezető-helyettesi álláshely tölthető be.
 
-besorolást kap.
+(2) Az irodavezetőre, az irodavezető-helyettesre és a csoportvezetőre – ha e törvény eltérően nem rendelkezik – a Küt. vezetőre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-(2a) A gyakornok vagy fogalmazó besorolású vizsgáló közszolgálati jogviszonya egy év határozott időre szól, amely a kinevezésben foglalt határozott idő lejártát megelőzően határozatlan idejű jogviszonyra módosítható.
+(3)
 
-(3) A (2) bekezdés a) és b) pontja szerinti besorolási fokozaton belül nincsenek fizetési fokozatok, a c)–f) pontja szerinti besorolási fokozat I. és II. fizetési fokozatokból áll. A tanácsos besorolású köztisztviselőt öt év közszolgálati jogviszonyban eltöltött idő után tanácsos II. fizetési fokozatba, a vezető tanácsos besorolású köztisztviselőt tizenkét év közszolgálati jogviszonyban töltött idő után vezető tanácsos II. fizetési fokozatba, a főtanácsos besorolású köztisztviselőt húsz év közszolgálati jogviszonyban töltött idő után főtanácsos II. fizetési fokozatba, a vezető főtanácsos besorolású köztisztviselőt harminc év közszolgálati jogviszonyban töltött idő után vezető főtanácsos II. fizetési fokozatba kell besorolni.
-
-42/B. § (1) A köztisztviselő a Gazdasági Versenyhivatal elkülönült szervezeti egységének vezetésére irodavezetői, irodavezető-helyettesi, illetve csoportvezetői munkakörbe nevezhető ki. Az irodavezető helyettesítésére – szervezeti egység vezetése nélkül – egy szervezeti egységnél legfeljebb egy irodavezető-helyettesi munkakör tölthető be.
-
-(2) Az irodavezetőre, az irodavezető-helyettesre és a csoportvezetőre – ha e törvény eltérően nem rendelkezik – a Kttv. főosztályvezetőre, főosztályvezető-helyettesre, illetve osztályvezetőre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
-
-(3) A Gazdasági Versenyhivatalban tanácsadói vagy főtanácsadói munkakörbe kinevezett köztisztviselő besorolásakor az e törvény szerinti főtanácsosi, illetve vezető főtanácsosi besorolást kell figyelembe venni; a főtanácsosi besorolású köztisztviselő irodavezető-helyettesi, a vezető főtanácsosi besorolású köztisztviselő irodavezetői illetményre jogosult.
-
-42/C. § (1) A Gazdasági Versenyhivatalnál foglalkoztatott felsőfokú iskolai végzettségű köztisztviselő alapilletménye
-
-- a) gyakornok esetében az illetményalap 4-szerese,
-- b) fogalmazó esetében az illetményalap 4,5-szerese,
-- c) tanácsos
-  - ca) I. fizetési fokozat esetében az illetményalap 5,5-szerese,
-  - cb) II. fizetési fokozat esetében az illetményalap 6-szorosa,
-- d) vezető tanácsos
-  - da) I. fizetési fokozat esetében az illetményalap 6,5-szerese,
-  - db) II. fizetési fokozat esetében az illetményalap 7-szerese,
-- e) főtanácsos
-  - ea) I. fizetési fokozat esetében az illetményalap 7,6-szerese,
-  - eb) II. fizetési fokozat esetében az illetményalap 7,9-szerese,
-- f) vezető főtanácsos
-  - fa) I. fizetési fokozat esetében az illetményalap 8,4-szerese,
-  - fb) II. fizetési fokozat esetében az illetményalap 8,6-szerese.
-
-(2) A vezető alapilletménye
-
-- a) csoportvezető esetében az illetményalap 8,6-szerese,
-- b) irodavezető-helyettes esetében az illetményalap 8,7-szerese,
-- c) irodavezető esetében az illetményalap 9-szerese.
-
-(3) A vezetői illetménypótlék mértéke
-
-- a) csoportvezető esetében az alapilletmény 20%-a,
-- b) irodavezető-helyettes esetében az alapilletmény 40%-a,
-- c) irodavezető esetében az alapilletmény 90%-a.
-
-(4) A gyakornokot három, a fogalmazót öt, a tanácsost tíz, a vezető tanácsost tizenegy, a főtanácsost tizenkét, a vezető főtanácsost tizenhárom munkanap pótszabadság illeti meg. A vezetői pótszabadság mértéke csoportvezetőnél tizenkét, irodavezető-helyettesnél és irodavezetőnél tizenhárom munkanap.
-
-(5) A Gazdasági Versenyhivatal elnöke a különös felelősséggel járó vizsgálói munkakörben foglalkoztatott köztisztviselő részére vizsgálói pótlékot állapíthat meg. A vizsgálói pótlékra jogosító munkaköröket – munkakörelemzés és -értékelés alapján – a Gazdasági Versenyhivatal közszolgálati szabályzata határozza meg. Vizsgálói pótlékként legfeljebb a köztisztviselő besorolása szerinti alapilletménye 30%-ának megfelelő összeg fizethető azzal, hogy ha a köztisztviselő tekintetében alapilletmény-eltérítést is megállapítottak, akkor a vizsgálói pótlék és az eltérítés együttes összege nem haladhatja meg a köztisztviselő besorolása szerinti alapilletménye 50%-ának megfelelő összeget.
-
-(6) A Gazdasági Versenyhivatal alaptevékenységét elősegítő munkakörben foglalkoztatott, nem felsőfokú végzettségű köztisztviselő illetménykiegészítésének mértéke az alapilletmény 80%-a.
-
-(7) A Gazdasági Versenyhivatal elnöke a minősítéssel, ennek hiányában teljesítményértékeléssel alátámasztott, kimagasló teljesítményt nyújtó köztisztviselőnek a személyi juttatás előirányzata terhére az e törvényben, illetve a Kttv.-ben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg. Személyi illetmény a Gazdasági Versenyhivatal megállapított létszámkeretének legfeljebb húsz százalékáig adható úgy, hogy adott év március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, az adott évet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset hatszorosát. A személyi illetmény megállapítása egy évig – az adott évet követő év február végéig – érvényes.
+#### 42/C. §
 
 43. § (1) A Versenytanács tagja szakirányú felsőfokú végzettséggel rendelkező személy lehet. A Versenytanács jogi végzettségű tagjának jogi szakvizsgával kell rendelkeznie.
 
-(2) A Gazdasági Versenyhivatalban a vizsgálói munkakört betöltő köztisztviselőnek szakirányú felsőfokú végzettséggel kell rendelkeznie.
+(2) Az (1) bekezdés szerinti szakirányú felsőfokú végzettségnek tekinthető képesítések, végzettségek körét a Gazdasági Versenyhivatal közszolgálati szabályzata határozza meg.
 
-(3) Az (1), illetve (2) bekezdés szerinti szakirányú felsőfokú végzettségnek tekinthető képesítések, végzettségek körét a Gazdasági Versenyhivatal szervezeti és működési szabályzata határozza meg.
+(3)
 
 43/A. § (1) A Gazdasági Versenyhivatalnál közszolgálati jogviszonyban állók képzéséről és továbbképzéséről – a vezetőképzést is ideértve – a Gazdasági Versenyhivatal maga gondoskodik. A képzésre és továbbképzésre vonatkozó részletszabályokat a Gazdasági Versenyhivatal közszolgálati szabályzata határozza meg.
 
@@ -556,7 +507,7 @@ besorolást kap.
 
 (4) A Gazdasági Versenyhivatal nem tartozik a közigazgatási személyügyi tevékenységekkel kapcsolatos adatszolgáltatási körbe.
 
-43/B. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, valamint a Gazdasági Versenyhivatallal közszolgálati jogviszonyban, illetve munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott személy – a jogszabályban előírt adatszolgáltatást, illetve megismerhetővé tételt kivéve – e jogviszony fennállása alatt és annak megszűnését követően is köteles a Gazdasági Versenyhivatal tevékenységével, feladatának ellátásával kapcsolatban tudomására jutott korlátozottan megismerhető adatot, továbbá minden egyéb nem nyilvános adatot megőrizni, az ilyen adatot jogosulatlanul nem teheti közzé, nem hasznosíthatja, és nem hozhatja harmadik fél tudomására.
+43/B. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, valamint a Gazdasági Versenyhivatallal közszolgálati jogviszonyban, illetve munkaviszonyban foglalkoztatott személy – a jogszabályban előírt adatszolgáltatást, illetve megismerhetővé tételt kivéve – e jogviszony fennállása alatt és annak megszűnését követően is köteles a Gazdasági Versenyhivatal tevékenységével, feladatának ellátásával kapcsolatban tudomására jutott korlátozottan megismerhető adatot, továbbá minden egyéb nem nyilvános adatot megőrizni, az ilyen adatot jogosulatlanul nem teheti közzé, nem hasznosíthatja, és nem hozhatja harmadik fél tudomására.
 
 (2) Korlátozottan megismerhető adat – a közérdekből nyilvános adat kivételével – a hivatás gyakorlásához kötött titoknak vagy külön törvény által védett egyéb titoknak minősülő adat (a továbbiakban együtt: védett adat), a személyes adat és az olyan egyéb adat, amelynek megismerése az iratbetekintés során e törvény szerint korlátozott.
 
@@ -2235,6 +2186,18 @@ hozza meg.
 végrehajtási eljárásokra is alkalmazni kell.
 
 (3) E törvénynek a Módtv4.-gyel megállapított 65/C. § (2) bekezdése alkalmazásában a 2018. január 1. előtt keletkezett iratok közül nem tekinthető védekezés céljából készült iratnak az olyan irat vagy iratrész, amely nem az ügyfél és megbízott ügyvédje közötti kommunikáció során keletkezett, vagy nem ilyen kommunikáció során elhangzottakat rögzít.
+
+95/G. § (1) A Küt. 105. § (6) bekezdése alapján a közszolgálati munkaszerződést a köztisztviselő közszolgálati munkaszerződés megkötésének időpontjában hatályos kinevezése szerinti időtartamra kell megkötni.
+
+(2) A Küt. 105. § (5) bekezdése nem alkalmazható azzal a köztisztviselővel szemben, akinek a Gazdasági Versenyhivatallal fennálló közszolgálati jogviszonya 2020. április 23. és 30. között keletkezik. E köztisztviselővel a közszolgálati munkaszerződést 2020. április 30-ig kell megkötni.
+
+95/H. § (1) A 37. § (4) bekezdésében meghatározott esetben a versenytanácsi megbízatást megelőző közszolgálati munkaszerződés hiányában a megbízatási idő lejárta esetén e köztisztviselővel a megbízatás megszűnését megelőző öt munkanapon belül közszolgálati munkaszerződést kell kötni, amely a megbízatás lejártának napjával lép hatályba. Ebben az esetben a 37. § (4) bekezdése szerinti feladatkörön a megbízatást megelőzően betöltött munkakört kell érteni.
+
+(2) Az (1) bekezdés szerinti esetben az új közszolgálati munkaszerződésben olyan feladatkört kell megállapítani, amely megegyezik a köztisztviselő által versenytanácstagi megbízatása előtt betöltött munkakörrel vagy egyébként végzettségének, szakképzettségének, szakképesítésének megfelel. A közszolgálati munkaszerződést az (1) bekezdés szerinti köztisztviselővel a versenytanácstagi megbízatását megelőzően hatályos kinevezése szerinti időtartamra kell megkötni. A közszolgálati munkaszerződésben megállapított illetmény nem lehet kevesebb, mint a köztisztviselő versenytanácstagi megbízatását megelőző illetménye.
+
+(3) Ha a Gazdasági Versenyhivatalnál foglalkoztatott, (1) bekezdés szerinti köztisztviselő a közszolgálati munkaszerződésre vonatkozó ajánlatot nem fogadja el, közszolgálati jogviszonya a Küt. 105. § (7) bekezdésének megfelelően a határidő utolsó napját követő napon megszűnik. A Küt. 41. §-ának alkalmazásában a versenytanácstagként járó illetményt kell figyelembe venni.
+
+(4) A 34. §-ban meghatározott köztisztviselők jogviszonyának Küt. szerinti közszolgálati jogviszonnyá történő átalakulása nem érinti a megbízatást, kinevezést.
 
 ### Felhatalmazó rendelkezések
 
