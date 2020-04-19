@@ -37,7 +37,7 @@ Az Országgyűlés a vállalkozások, különösen a kis- és középvállalkoz�
 - h) a személy- és vagyonvédelmi tevékenység szabályairól szóló törvényben meghatározott személy- és vagyonvédelmi tevékenységekre;
 - i) a közjegyzők és az önálló bírósági végrehajtók tevékenységére;
 - j) az adó-, illeték-, vám-, járulék- és egyéb, az államháztartás valamely alrendszerét megillető, jogszabályban rögzített befizetési kötelezettségre és az ezen fizetési kötelezettségekkel összefüggő hatósági eljárásokra;
-- k) a 765/2008/EK európai parlamenti és tanácsi rendelet szerinti, meghatározott termék forgalmazása körülményeinek feltételeire vonatkozó közösségi harmonizációs jogszabályok végrehajtását szolgáló, valamint a 764/2008/EK európai parlamenti és tanácsi rendelet szerinti műszaki szabálynak minősülő jogszabályi követelményekre, továbbá az e követelmények érvényesítését szolgáló hatósági eljárásokra.
+- k) a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet szerinti, meghatározott termék forgalmazása körülményeinek feltételeire vonatkozó közösségi jogszabályok végrehajtását szolgáló jogszabályokban, továbbá a valamely másik tagállamban jogszerűen forgalmazott áruk kölcsönös elismeréséről és a 764/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. március 19-i (EU) 2019/515 európai parlamenti és tanácsi rendelet szerinti nemzeti műszaki szabálynak minősülő jogszabályokban foglaltakra.
 
 (3) Ha az adott szolgáltatási tevékenység szabályozott szakmának minősül, e törvény rendelkezéseit a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott eltérésekkel kell alkalmazni.
 
