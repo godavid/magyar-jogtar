@@ -57,27 +57,15 @@ szöveg lép.
 
 #### 5. Az Európai Közösség létrehozásáról szóló szerződésnek az áruk szabad áramlását biztosító rendelkezéseihez kapcsolódó kölcsönös elismerés alkalmazásáról szóló 2009. évi VII. törvény módosítása
 
-20. § Az Európai Közösség létrehozásáról szóló szerződésnek az áruk szabad áramlását biztosító rendelkezéseihez kapcsolódó kölcsönös elismerés alkalmazásáról szóló 2009. évi VII. törvény (a továbbiakban: EKtv.) 2. §-a helyébe a következő rendelkezés lép:
+20. §
 
-„2. § (1) Az Európai Unió másik tagállamában vagy Törökországban az ott irányadó előírásoknak megfelelően előállított vagy forgalomba hozott, továbbá az Európai Gazdasági Térségről szóló megállapodásban részes – az előbbiektől eltérő – államban az ott irányadó előírásoknak megfelelően előállított árura a nemzeti műszaki szabályt csak akkor kell alkalmazni, ha az adott államban irányadó előírások a nemzeti műszaki szabály által érvényesíteni kívánt kényszerítő követelmény érvényesülése tekintetében nem nyújtanak a nemzeti műszaki szabállyal egyenértékű védelmet.
+21. §
 
-(2) Ha a védelem egyenértékűsége a műszaki szabálynak csak egy része tekintetében állapítható meg, az árunak meg kell felelnie a fennmaradó nemzeti műszaki szabálynak.”
-
-21. § Az EKtv. 4. § b) pontja helyébe a következő rendelkezés lép:
-
-(E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:)
-
-„b) a valamely másik tagállamban jogszerűen forgalmazott áruk kölcsönös elismeréséről és a 764/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. március 19-i (EU) 2019/515 európai parlamenti és tanácsi rendelet 2. és 5. cikke.”
-
-22. § Az EKtv. 1. § c) pontjában az „a 764/2008/EK európai parlamenti és tanácsi rendelet 2. cikkének (2) bekezdése” szövegrész helyébe az „az (EU) 2019/515 európai parlamenti és tanácsi rendelet 2. cikkének (2) bekezdése” szöveg lép.
+22. §
 
 #### 6. A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény módosítása
 
-23. § A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 1. § (2) bekezdés k) pontja helyébe a következő rendelkezés lép:
-
-(Nem kell alkalmazni e törvény rendelkezéseit)
-
-„k) a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet szerinti, meghatározott termék forgalmazása körülményeinek feltételeire vonatkozó közösségi jogszabályok végrehajtását szolgáló jogszabályokban, továbbá a valamely másik tagállamban jogszerűen forgalmazott áruk kölcsönös elismeréséről és a 764/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. március 19-i (EU) 2019/515 európai parlamenti és tanácsi rendelet szerinti nemzeti műszaki szabálynak minősülő jogszabályokban foglaltakra.”
+23. §
 
 #### 7. A nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény módosítása
 
