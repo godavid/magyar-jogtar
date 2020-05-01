@@ -558,11 +558,11 @@ van lehetőség.
 
 24/E. § Az anyakönyvvezető az elhalálozott személyek személyazonosító igazolványának, valamint a személyi azonosítóját és lakcímét igazoló hatósági igazolványának bevonása céljából a 11. § (1) bekezdés m) pontja és a 18. § (5) bekezdése szerinti adatokat jogosult igényelni, az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány elhelyezésének ténye, valamint az állandó személyazonosító igazolványa elektronikus egyedi azonosítója kivételével.
 
-24/F. § (1) A nyilvántartást kezelő szerv az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a polgár arcképmását, valamint a 11. § (1) bekezdésének q) pontjában meghatározott adatot átadja.
+24/F. § (1) A nyilvántartást kezelő szerv az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a polgár arcképmását, valamint a 11. § (1) bekezdés q) pontjában meghatározott adatot és az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott metaadatot átadja.
 
 (2) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek – az e törvényben meghatározott feltételekkel – a 11. § (1) bekezdésének q) pontjában meghatározott adat közlésével is igényelhetnek adatot a nyilvántartásból.
 
-(2a) Az arcképelemzési nyilvántartás vezetéséért és az arcképelemző rendszer működtetéséért felelős központi szerv a törvényben előírt feladatainak ellátása érdekében az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 11. § (4) bekezdésében és 12. § (6) bekezdésében meghatározott adatokat igényelheti a nyilvántartásból.
+(2a) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott arcképelemző tevékenység igénybevételére jogosult szervek, valamint az automatizált összehasonlítás igénybevételére jogosult szervek a személyazonosság ellenőrzése céljából a polgár természetes személyazonosító adatai közlésével a 11. § (1) bekezdés q) pontjában meghatározott adatot igényelhetik a nyilvántartásból.
 
 (3) A nyilvántartást kezelő szerv – a 11. § (1) bekezdésének q) pontjában meghatározott adat alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a polgár arcképmás adatának nyilvántartásba vételéről, valamint a polgár nyilvántartásban szereplő arcképmás adatának változásáról.
 
@@ -1068,9 +1068,13 @@ adatvédelmi tisztviselőt nevez ki.
 
 (6) A polgár kérelme személyesen, ügyintézői közreműködés nélkül történő benyújtására elektronikus ügyintézési pontot vehet igénybe. Az elektronikus ügyintézési pontot a nyilvántartást kezelő szerv működteti. A nyilvántartást kezelő szerv ebben az esetben írásban tart kapcsolatot a polgárral.
 
-(7) A kérelem benyújtásakor a polgár – a vezetői engedély kivételével – személyazonosság igazolására alkalmas hatósági igazolványával azonosítja magát.
+(7) A kérelem benyújtásakor a polgár személyazonosság igazolására alkalmas hatósági igazolványával azonosítja magát.
 
 (8) A nyilvántartást kezelő szerv az elektronikus ügyintézési ponton történő személyazonosítás, valamint a kérelem kitöltése céljából a polgár természetes személyazonosító adatait és lakcímét szolgáltatja.
+
+(9) Az elektronikus azonosítási szolgáltatást végző szerv – a (6) bekezdés szerinti esetben – a polgár személyazonosságának ellenőrzése céljából az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/B. §-ában meghatározott szolgáltatást igénybe veheti.
+
+(10) A nyilvántartást kezelő szerv a (6) bekezdésben foglaltak tekintetében elektronikus azonosítási szolgáltatást végző szervnek minősül.
 
 35. § (1) A nyilvántartásban és annak alapján kiadott iratokban a családi név megelőzi az utónevet.
 

@@ -512,7 +512,11 @@ igazolja.
 
 (3) Ha további intézkedéshez, eljáráshoz szükséges, vagy egyéb körülmények ezt indokolják, az igazoltatás során rögzíteni kell az igazoltatott személyazonosító adatait, az igazolvány sorozatát és számát, az igazoltatás helyét, idejét és okát, valamint – az (1) bekezdés b) pontjában meghatározott felkérés teljesítése esetén – az igazoltatott személy lakóhelyét, tartózkodási helyét.
 
-(4) A személyazonosság igazolásának megtagadása esetén az igazoltatott a személyazonosság megállapítása céljából feltartóztatható, a személyazonosság megállapításának sikertelensége esetén előállítható, ha a személyazonosítás megállapítása más módon nem biztosítható, a személyazonosság megállapítása céljából az igazoltatottól ujjnyomat vehető, az igazoltatottról fényképfelvétel készíthető, továbbá a külső testi jegyek észlelés és mérés alapján rögzíthetők.
+(4) A személyazonosság igazolásának megtagadása esetén az igazoltatott a személyazonosság megállapítása céljából feltartóztatható, a személyazonosság megállapításának sikertelensége esetén – ha a személyazonosság megállapítása más módon nem biztosítható vagy hitelt érdemlően nem bizonyítható – a személyazonosság megállapítása céljából az igazoltatottról fényképfelvétel készíthető, az igazoltatottól ujjnyomat vehető, továbbá a külső testi jegyek észlelés és mérés alapján rögzíthetők.
+
+(4a) A (4) bekezdés szerint készített fényképfelvételt az erre a célra rendszeresített eszköz alkalmazásával az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben szabályozott automatizált összehasonlítás igénybevételével, az ott meghatározott szabályoknak megfelelően – személyazonosság megállapítása céljából – a helyszínen ellenőrizni lehet.
+
+(4b) Ha az igazoltatott személy személyazonosságának megállapítása a helyszínen sikertelen, akkor az igazoltatott előállítható a további adategyeztetés érdekében.
 
 (5) A igazoltatás vagy a személyazonosság megállapításának sikertelensége esetén az előállítás csak a személyazonosság megállapításához szükséges ideig tarthat.
 
@@ -522,7 +526,7 @@ igazolja.
 
 (8) E § alkalmazásában személyazonosító adaton az érintett személy nevét, születési helyét, születési idejét és anyja születési családi és utónevét kell érteni.
 
-29/A. § (1) Ha az igazoltatott személyazonossága a 29. § (2) bekezdése alapján nem állapítható meg, – a 29. § (4) bekezdésében meghatározottakon túl – a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) tárolt adatokkal történő összevetés céljából a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 20. cikke alapján történő ellenőrzés céljából az igazoltatottól ujjnyomat vehető.
+29/A. § (1) Ha az igazoltatott személyazonossága a 29. § (2) bekezdése alapján nem állapítható meg, – a 29. § (4) és (4a) bekezdésében meghatározottakon túl – a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben (a továbbiakban: Vízuminformációs Rendszer) tárolt adatokkal történő összevetés céljából a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 20. cikke alapján történő ellenőrzés céljából az igazoltatottól ujjnyomat vehető.
 
 (2) Az (1) bekezdésben meghatározott célból rögzített ujjnyomat-adat – a 29. § (7) bekezdésétől eltérően – kizárólag a VIS rendelet 20. cikke szerinti keresés elvégzéséhez, annak befejezéséig kezelhető, ezt követően haladéktalanul törölni kell.
 
@@ -749,6 +753,7 @@ készítése
   - ac) körözött személy vagy tárgy azonosítása érdekében,
   - ad) a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, vagy
   - ae) az érintett személy jogainak gyakorlása érdekében,
+  - af) az érintett személy személyazonosságának megállapítása érdekében,
 - b) (5a) és (5c) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés vagy fegyelmi vétség miatt indult büntető-, szabálysértési vagy fegyelmi eljárás során, vagy a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében
 - c) (5b) bekezdés alapján készített felvétel, illetve az abban szereplő személyes adat a segélyhívó számon fogadott hívással összefüggésben elkövetett, a segélyhívás során említett bűncselekmény vagy szabálysértés miatt indult büntető- vagy szabálysértési eljárás során vagy a segélyhívást követő intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, illetve az érintett személy jogainak gyakorlása érdekében,
 - d) a (2) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátásának szervezése, koordinálása és irányítása céljából
