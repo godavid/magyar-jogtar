@@ -8,8 +8,9 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 1. § (1) E törvény hatálya kiterjed:
 
-- a) a kibocsátási egységek és a légiközlekedési kibocsátási egységek (a továbbiakban együtt: ÜHG-egység) kereskedelmére, és
-- b) a (2)–(4) bekezdés szerinti kivétellel az 1. mellékletben meghatározott tevékenységekre és az e tevékenységekből származó, az 1. mellékletben felsorolt üvegházhatású gázok kibocsátására.
+- a) a kibocsátási egységek és a légiközlekedési kibocsátási egységek (a továbbiakban együtt: ÜHG-egység) kereskedelmére
+- b) a (2)–(4) bekezdés szerinti kivétellel az 1. mellékletben meghatározott tevékenységekre és az e tevékenységekből származó, az 1. mellékletben felsorolt üvegházhatású gázok kibocsátására, és
+- c) az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikkében meghatározott repülésekre és az azokból származó üvegházhatású gázok kibocsátására.
 
 (2) Nem terjed ki a törvény hatálya a kizárólag kutatásra, fejlesztésre és új termékek és folyamatok tesztelésére használt létesítményekre vagy létesítményrészekre, valamint a kizárólag biomasszát használó létesítményekre.
 
@@ -37,7 +38,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 - 1. adminisztrációért felelős tagállam:
   - a) az adott légi jármű üzembentartó számára az 1008/2008/EK európai parlamenti és tanácsi rendelet rendelkezéseivel összhangban a tagállam által kiadott érvényes üzembentartási engedéllyel rendelkező légi jármű üzembentartó esetében az engedélyt kiadó tagállam,
-  - b) minden egyéb esetben az a tagállam, ahol a referenciaévben az adott légi jármű üzembentartó által végzett repülésekből származó, légiközlekedésnek tulajdonított becsült kibocsátások mértéke a legnagyobb,
+  - b) minden egyéb esetben az a tagállam, ahol a referenciaévben az adott légi jármű üzembentartó által végzett repülésekből származó, légiközlekedésnek tulajdonított becsült kibocsátások mértéke a legnagyobb, vagy – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendeletben meghatározott kötelezettségek teljesítése tekintetében – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 5. cikkében meghatározott tagállam,
 - 2. akkreditált hitelesítő szervezet: a 2018/2067/EU bizottsági végrehajtási rendeletnek megfelelően, az Európai Unió bármely tagállamának nemzeti akkreditáló testülete által akkreditált olyan hitelesítő szervezet, amely üvegházhatású gázok kibocsátói által elkészített kibocsátási és tonnakilométer-adatokat tartalmazó jelentéseket hitelesít,
 - 3. aukciós platform: az 1031/2010/EU bizottsági rendelet 26. cikk (1) és (2) bekezdése alapján kijelölt aukciós platform,
 - 4. ellenőrzési év: a térítésmentes kiosztásra vonatkozó kérelemmel érintett időszak kezdetét 24 hónappal megelőzően véget érő naptári év,
@@ -60,10 +61,10 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 - 17. kis kibocsátónak minősülő légi jármű üzembentartó: a 601/2012/EU bizottsági rendelet 54. cikk (1) bekezdésének megfelelő légi jármű üzembentartó,
 - 18. környezeti információ: a nyilvánosság környezeti információkhoz való hozzáférésének rendjéről szóló jogszabályban meghatározott információ,
 - 19. központi tisztviselő: a 389/2013/EU bizottsági rendelet 3. cikk 2. pontjában meghatározott személy,
-- 20. légi jármű üzembentartó: az 1. melléklet XXII. pontjában meghatározott légiközlekedési tevékenység folytatásának idején légi járművet üzembentartó személy, illetve ha ez a személy ismeretlen vagy a légi jármű tulajdonosa által nem azonosított, a légi jármű tulajdonosa,
+- 20. légi jármű üzembentartó: az 1. melléklet XXII. pontjában és – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendeletben meghatározott kötelezettségek teljesítése tekintetében – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendeletben meghatározott légiközlekedési tevékenység folytatásának idején légi járművet üzembentartó személy, illetve ha ez a személy ismeretlen vagy a légi jármű tulajdonosa által nem azonosított, a légi jármű tulajdonosa,
 - 21. légiközlekedési kibocsátási egység: az e törvény szerinti kötelezettségek teljesítésére a légi jármű üzembentartó által felhasználható, egy tonna szén-dioxid-egyenérték meghatározott időn belül történő kibocsátását lehetővé tévő forgalomképes vagyoni értékű jog,
 - 22.
-- 23. légiközlekedésnek tulajdonított kibocsátások: az 1. melléklet XXII. pontjában felsorolt légiközlekedési tevékenységek közé tartozó összes olyan repülésből származó kibocsátás, amely egy tagállam területén található repülőtérről indul vagy egy ilyen repülőtérre harmadik országból érkezik,
+- 23. légiközlekedésnek tulajdonított kibocsátások: az 1. melléklet XXII. pontjában felsorolt légiközlekedési tevékenységek közé tartozó összes olyan repülésből származó kibocsátás, amely egy tagállam területén található repülőtérről indul vagy egy ilyen repülőtérre harmadik országból érkezik, továbbá – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendeletben meghatározott kötelezettségek teljesítése tekintetében – az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikkében meghatározott repülésből származó kibocsátás,
 - 24. létesítmény: minden olyan helyhez kötött műszaki egység, ahol egy vagy több, az 1. melléklet I–XXI. pontjában felsorolt tevékenység vagy bármely más, azzal technológiailag összefüggő tevékenység, valamint az adott telephelyen folytatott tevékenységhez műszakilag kapcsolódó tevékenység folyik, és amely az 1. mellékletben meghatározott üvegházhatású gáz kibocsátását eredményezi vagy arra közvetlenül hatással van,
 - 25. nemzeti tisztviselő: a 389/2013/EU bizottsági rendelet 3. cikk 22. pontjában meghatározott személy,
 - 26. számlatulajdonos: a 389/2013/EU bizottsági rendelet 3. cikk 1. pontjában meghatározott személy,
@@ -145,7 +146,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 6. § (1) A légi jármű üzembentartó
 
-- a) az 1. melléklet XXII. pontja szerinti tevékenysége során keletkező szén-dioxid kibocsátása, és
+- a) az 1. melléklet XXII. pontja szerinti tevékenysége, valamint az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikke szerinti repülések során keletkező szén-dioxid kibocsátása, és
 - b) amennyiben térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását kérelmezi, a tonnakilométer adatai nyomon követésére és jelentésére vonatkozóan nyomon követési tervet készít, és azt a hatóság részére jóváhagyás céljából megküldi a 601/2012/EU bizottsági rendelet 51. cikkében meghatározott határidők betartásával.
 
 (2) Amennyiben az (1) bekezdés szerinti nyomon követési terv megfelel a 601/2012/EU bizottsági rendeletben, e törvényben és e törvény végrehajtására kiadott jogszabályokban foglaltaknak, a hatóság a nyomon követési tervet jóváhagyja.
@@ -165,6 +166,8 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 #### 4. A kibocsátások nyomon követése, jelentése, a jelentések hitelesítése
 
 10. § (1) A légi jármű üzembentartó az 1. melléklet XXII. pontja szerinti, az üzemeltető a kibocsátási engedély hatálya alá tartozó tevékenységből származó üvegházhatású gáz kibocsátását – a 601/2012/EU bizottsági rendelet, e törvény és a végrehajtására kiadott jogszabályok, a jóváhagyott nyomon követési terv, a légi jármű üzembentartó, illetve az üzemeltető belső eljárásrendje szerint – nyomon követi, és a jelentési időszak (tárgyév) éves kibocsátását tartalmazó hitelesített kibocsátási jelentését a hatóság részére a tárgyévet követő év március 31-ig benyújtja.
+
+(1a) A légi jármű üzembentartó az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikke szerinti repülésekből származó – az (1) bekezdésben meghatározott jelentéstől független – hitelesített kibocsátási jelentést készít a 601/2012/EU bizottsági rendelet, e törvény és a végrehajtására kiadott jogszabályok, a hatóság által jóváhagyott nyomonkövetési terv, valamint a légi jármű üzembentartó belső eljárásrendje szerint, és azt a hatóság részére a tárgyévet követő év április 30. napjáig benyújtja.
 
 (2) Ha a légi jármű üzembentartó térítésmentesen kiosztandó légiközlekedési kibocsátási egységek kiosztását kérelmezi, az (1) bekezdésben foglaltakon túl a tonnakilométer-adatokat is nyomon követi a 601/2012/EU bizottsági rendelet, e törvény és a végrehajtására kiadott jogszabályok, a jóváhagyott nyomon követési terv, valamint a légi jármű üzembentartó belső eljárásrendje szerint, és arról a hatóság részére – a (3) bekezdésben foglalt kivétellel – hitelesített tonnakilométer-adatokat tartalmazó jelentést tesz az ellenőrzési évet követő év március 31-ig.
 
@@ -653,7 +656,8 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 - t) a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó részletes szabályokat,
 - u) az állam tulajdonában lévő ESD-egységek értékesítésére vonatkozó részletes szabályokat,
 - v) az állam tulajdonában lévő ESD-egységekkel és az abból származó bevételekkel való gazdálkodás részletes szabályait,
-- w) a 31/B. § szerinti elektronikus nyilvántartás vezetésére, a regisztrációra, az adatszolgáltatásra, a jelentéstételre vonatkozó részletes szabályokat, és a megszegésük esetén alkalmazandó jogkövetkezmények részletes szabályait
+- w) a 31/B. § szerinti elektronikus nyilvántartás vezetésére, a regisztrációra, az adatszolgáltatásra, a jelentéstételre vonatkozó részletes szabályokat, és a megszegésük esetén alkalmazandó jogkövetkezmények részletes szabályait,
+- x) az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet szerinti repülések üvegházhatású gázkibocsátásának nyomon követésére és jelentésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
@@ -699,6 +703,10 @@ rendeletben állapítsa meg.
 
 (6) Amennyiben egy légi jármű üzembentartó összes éves kibocsátása kevesebb, mint 25 000 tonna szén-dioxid, és e kibocsátás meghatározása a 606/2010/EU bizottsági rendelet által jóváhagyott, az Eurocontrol által kifejlesztett eszközzel történt, úgy a légi jármű üzembentartó kibocsátását hitelesítettnek kell tekinteni.
 
+(7) A légi jármű üzembentartó az (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet 2. cikke szerinti repülésekről készített nyomonkövetési tervet – a hatóság felhívására – jóváhagyás céljából a hatóság részére megküldi.
+
+(8) A légi jármű üzembentartó a 2019. évi kibocsátására vonatkozóan a 10. § (1a) bekezdése szerinti jelentését – első alkalommal – 2020. május 31-ig a hatóság részére megküldi.
+
 41/B. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 42. § (1) E törvény – a végrehajtására a 39. §-ban foglalt felhatalmazások alapján kiadott jogszabályokkal együtt –
@@ -727,25 +735,112 @@ való megfelelést szolgálja.
 - k) a nemzetközi jóváírási jogosultságoknak a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében történő meghatározásáról szóló, 2013. november 8-i 1123/2013/EU bizottsági rendelet,
 - l) az üvegházhatású gázok uniós kibocsátáskereskedelmi rendszeréhez piaci stabilizációs tartalék létrehozásáról és működtetéséről, valamint a 2003/87/EK irányelv módosításáról szóló, 2015. október 6-i, 2015/1814/EU európai parlamenti és tanácsi határozat,
 - m) az üvegházhatású gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről, valamint a 601/2012/EU bizottsági rendelet módosításáról szóló, 2018. december 19-i 2018/2066/EU európai bizottsági végrehajtási rendelet,
-- n) az 1031/2010/EU rendeletnek a piaci stabilitási tartalékból 50 millió ki nem osztott kibocsátási egységnek az innovációs alap számára árverés útján való értékesítése tekintetében és egy Németország által kijelölendő aukciós platform bejegyzése céljából történő módosításáról szóló, 2018. október 30-i 2019/7/EU felhatalmazáson alapuló bizottsági rendelet
+- n) az 1031/2010/EU rendeletnek a piaci stabilitási tartalékból 50 millió ki nem osztott kibocsátási egységnek az innovációs alap számára árverés útján való értékesítése tekintetében és egy Németország által kijelölendő aukciós platform bejegyzése céljából történő módosításáról szóló, 2018. október 30-i 2019/7/EU felhatalmazáson alapuló bizottsági rendelet,
+- o) a 2003/87/EK európai parlamenti és tanácsi irányelvnek a Nemzetközi Polgári Repülési Szervezet által a légi közlekedésből származó kibocsátásoknak a piaci alapú globális intézkedés végrehajtása céljából való nyomon követése, jelentése és hitelesítése érdekében elfogadott intézkedések tekintetében történő kiegészítéséről szóló 2019. július 18-i, (EU) 2019/1603 felhatalmazáson alapuló bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 18. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-#### 43–62. §
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 62. §
 
 #### 63. §
 
-#### 64–73. §
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
 
 #### 19. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosítása
 
-#### 74–78. §
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
 
 #### 20. Az Éhvt. módosítása
 
-#### 79–90. §
+#### 79. §
+
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
 
 #### 21. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
@@ -753,11 +848,59 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 92. §
 
-#### 93–108. §
+#### 93. §
+
+#### 94. §
+
+#### 95. §
+
+#### 96. §
+
+#### 97. §
+
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 102. §
+
+#### 103. §
+
+#### 104. §
+
+#### 105. §
+
+#### 106. §
+
+#### 107. §
+
+#### 108. §
 
 #### 22. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-#### 109–118. §
+#### 109. §
+
+#### 110. §
+
+#### 111. §
+
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+#### 115. §
+
+#### 116. §
+
+#### 117. §
+
+#### 118. §
 
 119. § (1)
 
@@ -765,7 +908,21 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3)
 
-#### 120–127. §
+#### 120. §
+
+#### 121. §
+
+#### 122. §
+
+#### 123. §
+
+#### 124. §
+
+#### 125. §
+
+#### 126. §
+
+#### 127. §
 
 #### 23. Az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény módosítása
 
@@ -785,7 +942,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | --- | --- | --- | --- |
 | 1. |  | Tevékenység | Üvegházhatású gáz |
 | 2. |  | Energiatermeléssel kapcsolatos tevékenységek |  |
-| 3. | I. | Tüzelőanyagok égetése a 20 MWth-ot meghaladó bemenő hőteljesítményű létesítményekben (kivéve a veszélyes hulladék- és települési hulladékégető létesítményeket) | Szén-dioxid |
+| 3. | I. | Tüzelőanyagok égetése a 20 MWth-ot meghaladó teljes névleges bemenő hőteljesítményű létesítményekben (kivéve a veszélyes hulladék- és települési hulladékégető létesítményeket) | Szén-dioxid |
 | 4. | II. | Ásványolaj-feldolgozás | Szén-dioxid |
 | 5. | III. | Kokszolás | Szén-dioxid |
 | 6. |  | Fémek termelése és feldolgozása |  |
