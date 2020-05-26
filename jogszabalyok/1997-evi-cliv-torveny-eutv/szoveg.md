@@ -46,14 +46,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
   - gb) az állami mentőszolgálat,
   - gc) az állami vérellátó szolgálat, valamint
   - gd) az egészségügyi államigazgatási szerv intézetei, amennyiben egészségügyi szolgáltatást is nyújtanak;
-- h) orvostechnikai eszköz: minden olyan, akár önállóan, akár más termékkel együttesen használt készülék, berendezés, anyag, szoftver vagy más termék – ideértve az azok megfelelő működéséhez szükséges szoftvert, amely a gyártó szándéka szerint kifejezetten diagnosztikai, illetve terápiás célra szolgál, valamint a rendelésre készült eszköz, továbbá a klinikai vizsgálatra szánt eszköz is –, amely a gyártó meghatározása szerint emberen vagy emberből származó mintán történő alkalmazásra szolgál
-  - ha) betegség megelőzése, diagnosztizálása, megfigyelése, kezelése vagy a betegség tüneteinek enyhítése,
-  - hb) sérülés vagy fogyatékosság diagnosztizálása, megfigyelése, kezelése, tüneteinek enyhítése vagy kompenzálása,
-  - hc) az anatómiai felépítés vagy valamely fiziológiai folyamat vizsgálata, helyettesítése, illetve pótlása vagy módosítása,
-  - hd) fogamzásszabályozás
-
-céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy szervezetre elsősorban nem farmakológiai, immunológiai vagy metabolikus módon fejti ki, de működése ilyen módon elősegíthető;
-
+- h) orvostechnikai eszköz: az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/745 rendelet] 2. cikk 1. pontjában meghatározott fogalom;
 - i) sürgős szükség: az egészségi állapotban bekövetkezett olyan változás, amelynek következtében azonnali egészségügyi ellátás hiányában a beteg közvetlen életveszélybe kerülne, illetve súlyos vagy maradandó egészségkárosodást szenvedne;
 - j) veszélyeztető állapot: az az állapot, amelyben az azonnali intézkedés hiánya a beteg vagy más személy életét, testi épségét vagy egészségét közvetlenül fenyegető helyzetet eredményezne, illetőleg a környezetére közvetlen veszélyt jelentene;
 - k) vizsgálat: az a tevékenység, amelynek célja a beteg egészségi állapotának felmérése, a betegségek, illetve kockázatuk felderítése, a konkrét betegség(ek) meghatározása, prognózisuk, változásuk megállapítása, a gyógykezelés eredményességének, valamint a halál bekövetkeztének és a halál okának megállapítása;
@@ -86,7 +79,12 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 
 - a) sejt: különálló emberi sejt vagy kötőszövet által össze nem kapcsolt emberi sejtek egy csoportja;
 - b) szövet: az emberi test sejtekből álló valamennyi alkotórésze, ide nem értve a vért és a véralkotórészt;
-- c) szerv: az emberi test olyan része, amely szövetek meghatározott szerkezetű egysége, és amely megtartja szerkezetét, erezettségét és azt a képességét, hogy jelentős önállósággal élettani funkciókat tartson fenn, valamint a szerv egy része, ha működése az emberi szervezetben ugyanazt a célt szolgálja, mint az egész szerv, ideértve a szerkezet és erezettség követelményét is.
+- c) szerv: az emberi test olyan része, amely szövetek meghatározott szerkezetű egysége, és amely megtartja szerkezetét, erezettségét és azt a képességét, hogy jelentős önállósággal élettani funkciókat tartson fenn, valamint a szerv egy része, ha működése az emberi szervezetben ugyanazt a célt szolgálja, mint az egész szerv, ideértve a szerkezet és erezettség követelményét is;
+- d) in vitro diagnosztikai orvostechnikai eszköz: minden olyan orvostechnikai eszköz, amely mint reagens, reagensszármazék, kalibráló, kontrollanyag, reagenskészlet, készülék, berendezés, gép vagy rendszer, önmagában vagy más eszközzel együttesen alkalmazva, a gyártó meghatározása szerint emberi szervezetből származó minták – ideértve a vér- vagy szövetadományozást is – in vitro vizsgálatára szolgál kizárólag vagy elsősorban azzal a céllal, hogy információt nyújtson
+  - da) valamely fiziológiai vagy patológiai állapotról,
+  - db) veleszületett rendellenességről,
+  - dc) potenciális recipiens biztonságának és kompatibilitásának megítéléséről, vagy
+  - dd) terápiás beavatkozás monitorozásáról.
 
 ### 4. CÍM — A törvény hatálya
 
@@ -99,6 +97,8 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 (2) Törvény a természetes személyek egyes csoportjai tekintetében az e törvényben foglaltaktól eltérő szabályokat állapíthat meg.
 
 (3) Ha jogszabály másként nem rendelkezik, e törvény rendelkezéseit a személyes gondoskodást nyújtó szociális intézmények által nyújtott egészségügyi szolgáltatások vonatkozásában is megfelelően alkalmazni kell.
+
+4/A. § E törvény orvostechnikai eszközökre előírt rendelkezéseit az in vitro diagnosztikai orvostechnikai eszközökre is alkalmazni kell.
 
 ### II. Fejezet — A BETEGEK JOGAI ÉS KÖTELEZETTSÉGEI
 
@@ -1360,26 +1360,44 @@ beutalása alapján vehető igénybe.
 
 ### Orvostechnikai eszközellátás
 
-101. § (1) Orvostechnikai eszköz akkor hozható forgalomba, illetve az egészségügyi ellátás során akkor használható fel, ha az egészségügyért felelős miniszter rendeletében meghatározott követelményeket kielégíti.
+101. § (1) Orvostechnikai eszköz akkor hozható forgalomba, illetve az egészségügyi ellátás során akkor használható fel, ha a vonatkozó uniós jogi aktusban, illetve az egészségügyért felelős miniszter rendeletében meghatározott követelményeket kielégíti.
 
 (2)
 
 101/A. § Az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos egyes eljárásokért – ideértve a szakhatósági eljárásokat is – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-101/B. § (1) Az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv (e § tekintetében a továbbiakban: hatóság) bírságot szabhat ki, ha e törvény vagy az egészségügyért felelős miniszter rendelete szerinti kötelezett megszegi
+101/B. § (1) Az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv (e § tekintetében a továbbiakban: hatóság) közigazgatási szankciót alkalmazhat, ha a vonatkozó uniós jogi aktus, e törvény vagy az egészségügyért felelős miniszter rendelete szerinti kötelezett megszegi
 
 - a) az orvostechnikai eszközök klinikai vizsgálatával,
-- b) az orvostechnikai eszközök nyilvántartásba vételével,
+- b) az orvostechnikai eszközök és gazdasági szereplők nyilvántartásba vételével,
 - c) az orvostechnikai eszközök időszakos felülvizsgálatával,
-- d) az orvostechnikai eszközökkel kapcsolatos baleset, váratlan esemény bejelentéssel,
+- d) az orvostechnikai eszközökkel kapcsolatos baleset, váratlan esemény bejelentésével,
 - e) az orvostechnikai eszközökkel kapcsolatos váratlan esemény kivizsgálásával,
 - f) a balesetfelelős bejelentésével,
-- g) az implantátum beültetése, kivétele és cseréje során előírt nyilvántartással és a Központi Implantátumregiszterbe történő adattovábbítással,
-- h) az orvostechnikai eszközök forgalmazásával és kereskedelmi gyakorlatával kapcsolatos, e törvényben vagy az egészségügyért felelős miniszter rendeletében meghatározott kötelezettségét, vagy valótlan adat közlésével a hatóságot megtéveszti.
+- g) az implantátum beültetése, kivétele és cseréje során előírt nyilvántartással és a Központi Implantátumregiszterbe történő adattovábbítással, a vonatkozó uniós jogi aktusokban meghatározott beültethető eszközökre kiosztott egyedi eszközazonosító (a továbbiakban: UDI) tárolásával és megőrzésével, valamint a beültethető eszközzel kapcsolatos tájékoztatással és az implantátumkísérő kártya átadásával,
+- h) az orvostechnikai eszközök forgalmazásával és kereskedelmi gyakorlatával,
+- i) az orvostechnikai eszközök vonatkozásában megfelelőségértékelést végző szervezetek tevékenységével,
+- j) az (EU) 2017/745 rendelet 27. cikk (9) bekezdésében meghatározott orvostechnikai eszközök UDI tárolásával,
+- k) a forgalmazói hálózaton belüli azonosítással,
+- l) az orvostechnikai eszközök UDI kiosztással és feltöltéssel,
+- m) a szabályoknak való megfelelés biztosításáért felelős személy rendelkezésre állásával,
+- n) a meghatalmazott képviselői szerződésekkel,
+- o) a minőségirányítási rendszer fenntartásával,
+- p) a termékkel kapcsolatos ellenőrzéssel és nyilvántartással, valamint címkézéssel
+
+kapcsolatos, a vonatkozó uniós jogi aktusban, e törvényben vagy az egészségügyért felelős miniszter rendeletében meghatározott kötelezettségét, vagy valótlan adat közlésével a hatóságot megtéveszti.
+
+(1a) A hatóság az (1) bekezdésben meghatározott esetekben
+
+- a) elrendelheti a jogsértő állapot megszüntetését,
+- b) megtilthatja a jogsértő magatartás további folytatását,
+- c) határidő tűzésével felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatásának felfüggesztését kezdeményezheti,
+- d) ismételt vagy súlyos közegészségügyi veszélyt rejtő jogsértés esetén a tevékenység folytatására vonatkozó engedély visszavonását vagy bejelentéshez kötött tevékenység esetén a tevékenység végzőjének a nyilvántartásból való törlését kezdeményezi, vagy
+- e) bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható.
 
 (2) A bírság összegét a jogsértés súlyára, a jogsértő magatartás ismételt tanúsítására és a jogsértéssel okozott kár mértékére vagy az eset más, a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni, azzal, hogy a bírság összege
 
-- a) az (1) bekezdés a), g) és h) pontja esetén 50 000 forinttól 400 000 forintig,
+- a) az (1) bekezdés a) és g)–p) pontja esetén 50 000 forinttól 400 000 forintig,
 - b) az (1) bekezdés b) pontja esetén 10 000 forinttól 140 000 forintig,
 - c) az (1) bekezdés c) pontja esetén 50 000 forinttól 150 000 forintig,
 - d) az (1) bekezdés d)–f) pontja esetén 15 000 forinttól 50 000 forintig
