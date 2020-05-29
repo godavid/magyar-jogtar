@@ -1623,7 +1623,7 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 (4) Ha a korábban bevallott jövedelemadatok az állami adóhatóságnál módosításra kerültek, és ezért az egészségbiztosítás ellátásai közül a pénzbeli ellátás vagy a baleseti táppénz összege magasabb összegben kerül megállapításra, úgy a különbözet kiutalására akkor kerülhet sor, ha az meghaladja az ezer forintot.
 
-(5) A kifizetőhellyel nem rendelkező munkáltató a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz iránti kérelmeket kizárólag az egészségbiztosító honlapján közzétett számítógépes program segítségével töltheti ki és a járási hivatalnál történt regisztrációt követően, kizárólagosan elektronikus azonosítását követően elektronikus úton nyújthatja be.
+(5) A kifizetőhellyel nem rendelkező munkáltató a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz iránti kérelmeket kizárólag az egészségbiztosító honlapján közzétett számítógépes program segítségével töltheti ki és az egészségbiztosítási szervnél történt regisztrációt követően, kizárólagosan elektronikus azonosítását követően elektronikus úton nyújthatja be.
 
 (5a) A pénzbeli egészségbiztosítási ellátások és a baleseti táppénz iránti kérelmekhez, továbbá a kifizetőhelyi feladatellátás során az egészségbiztosító által rendszeresített, az egészségbiztosító honlapján közzétett nyomtatványoknak megfelelő érvényes nyomtatványokat kell használni.
 

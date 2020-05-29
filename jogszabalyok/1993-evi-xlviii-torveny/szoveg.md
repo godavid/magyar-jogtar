@@ -130,6 +130,8 @@ tartozása van, vagy
 
 (5) Az e törvény alapján engedélyköteles bányászati tevékenységre vonatkozó jogvesztő határidőbe, illetve a bányászati tevékenység végzésére engedélyezett időtartamba nem számít bele az a kieső időtartam, amely – a hatóságnak az eljárás lefolytatásával összefüggő, az arra jogszabály alapján nyitva álló határidőn belül folytatott tevékenysége szerinti időtartamot ide nem értve – a bányavállalkozó önhibáján kívül a hatóság döntése, intézkedése vagy mulasztása miatt következett be. A kiesés okát a bányavállalkozónak kell igazolnia.
 
+(6) A kulturális örökség védelméről szóló törvény által nemzeti emlékhellyé nyilvánított kegyhelyen, valamint annak 5 km sugarú környezetében – a kegyhely méltóságának megőrzése érdekében – külfejtéses művelésű bányatelket csak akkor lehet megállapítani, horizontálisan bővíteni vagy a megállapított bányatelken feltárási, kitermelési tevékenységet folytatni, ha azzal a bányatelek fekvése szerinti fővárosi és megyei kormányhivatal kulturális örökségvédelmi szempontból egyetért. Egyetértés hiányában a bányafelügyelet az engedély, műszaki üzemi terv jóváhagyása iránti kérelmet elutasítja.
+
 6. § (1) A hatósági engedély alapján gyakorolt bányászati jog kérelemre, a bányafelügyelet hozzájárulásával átruházható. A hozzájárulás iránti kérelmet az átvevő nyújtja be.
 
 (2) A bányászati jog átruházására vonatkozó szerződés a bányafelügyelet határozatának véglegessé válása napján válik hatályossá.
@@ -1715,6 +1717,8 @@ bányahatósági felügyelete
 (23) Az egyes energetikai tárgyú törvények módosításáról szóló 2015. évi CXCVI. törvénnyel megállapított 43. § (9c) bekezdése szerinti visszafizetést a Hivatal elsőként 2017. január 1-jét követően alkalmazza.
 
 (24) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+(25) E törvénynek az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvénnyel (a továbbiakban: Módtv3.) megállapított 5. § (6) bekezdését a Módtv3. hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.
 
 50/A. § (1) Felhatalmazást kap a Kormány
 

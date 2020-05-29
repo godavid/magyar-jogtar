@@ -3692,6 +3692,8 @@ rendeletben megállapítsa.
 
 206/A. § E törvénynek az egyes családjogi és cégjogi eljárások egyszerűsítéséről szóló 2012. évi LXXXV. törvénnyel megállapított 42. § (1) bekezdés b) pontját és (2a) bekezdését a 2013. február 1-jén és az azt követően benyújtott kérelmek esetében kell alkalmazni.
 
+206/B. § E törvénynek a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvénnyel módosított 184. § (2) bekezdés d) és e) pontját, valamint 206. § (3c) bekezdését 2021. január 1. napját követően kell alkalmazni.
+
 ### A műsorszolgáltatási szerződésekre vonatkozó átmeneti szabályok
 
 207. § (1) A rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) szerinti analóg, földfelszíni terjesztésű műsorszolgáltatási jogosultság és az e törvény szerinti állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatási jogosultság – a 203. § 32. pontja szerinti közszolgálati médiaszolgáltatók médiaszolgáltatásai kivételével – kizárólag a Médiatanács által kötött hatósági szerződés alapján gyakorolható.

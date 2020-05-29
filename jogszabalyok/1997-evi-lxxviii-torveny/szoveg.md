@@ -1228,7 +1228,7 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 ### Az épített környezet fenntartása és használata
 
-54. § (1) Az épített környezet elemeit (a közterületet, az építési telkeket és területeket, építményeket, építményrészeket, építményegyütteseket, burkolt és zöldfelületeket) – a jó műszaki állapot folyamatos fenntartása mellett – csak a jellegük szerinti rendeltetésüknek, a rájuk vonatkozó hatósági előírásoknak és engedélyeknek megfelelő célra és módon szabad használni.
+54. § (1) Az épített környezet elemeit (a közterületet, az építési telkeket és területeket, építményeket, építményrészeket, építményegyütteseket, burkolt és zöldfelületeket) – a jó műszaki állapot folyamatos fenntartása mellett – csak a jellegük szerinti rendeltetésüknek, a rájuk vonatkozó előírásoknak és hatósági engedélyeknek megfelelő célra és módon szabad használni.
 
 (2) A tulajdonos köteles az építmény állapotát, állékonyságát a jogszabályokban meghatározott esetekben és módon időszakonként felülvizsgáltatni, és a jó műszaki állapothoz szükséges munkálatokat elvégeztetni.
 
@@ -1244,9 +1244,46 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 - f) a közművek elhelyezésének,
 - g) zöldfelületek kialakításának biztosítása.
 
-(5) A közterületet – az (5a) bekezdésben foglaltak figyelembevételével – rendeltetésének megfelelően bárki használhatja. A közterület rendeltetésére és használatára jogszabály további szabályokat állapíthat meg.
+(5) A közterületet – az (5a) és (5b) bekezdésben foglaltak figyelembevételével – rendeltetésének megfelelően bárki használhatja. A közterület rendeltetésére és használatára jogszabály további szabályokat állapíthat meg.
 
 (5a) Amennyiben a közterület használatára törvényben vagy a Kormány rendeletében kiemelten közérdekű beruházássá nyilvánított olyan építési beruházással összefüggésben kerül sor, amely legalább 50%-ban központi költségvetési támogatásból valósul meg, úgy a beruházás megvalósítója – legfeljebb törvényben vagy a Kormány rendeletében meghatározott időtartamra – a helyi önkormányzat tulajdonában álló közterületet díjmentesen használhatja.
+
+(5b) Ha a közterület használatára az Alaptörvény J) cikk (2) bekezdésében meghatározott hivatalos állami ünnep (a továbbiakban: állami ünnep) méltó megtartásával összefüggésben kerül sor, az állami ünnep – előkészítést és a lebonyolítást is magában foglaló – megtartásával kapcsolatos közfeladat ellátására kijelölt szervezet (a továbbiakban: állami ünnep megszervezője) az állam, illetve a fővárosi vagy a fővárosi kerületi önkormányzat tulajdonában álló, az (5c) bekezdésben meghatározott közterületeket – legfeljebb az augusztus 15–25. napja közötti időszakra korlátozódóan – díjmentesen használhatja.
+
+(5c) Az (5b) bekezdés szerinti közterületek:
+
+- a) a világörökségről szóló törvény alapján meghatározott fővárosi világörökségi területek,
+- b) az Árpád híd területe,
+- c) a Petőfi híd területe,
+- d) a Rákóczi híd területe,
+- e) a Margitsziget területe,
+- f) az Óbudai-sziget területe.
+
+(5d) A tulajdonos fővárosi önkormányzat vagy fővárosi kerületi önkormányzat, vagy az állami tulajdonban álló közterület vagyonkezelője (a továbbiakban együtt: tulajdonos) az (5b) és (5c) bekezdés szerinti közterület használatát és a területfoglalást az ott meghatározott időszakra, az (5b) bekezdéstől eltérő célra – kormányrendeletben foglaltak szerint – az állami ünnep megszervezője
+
+- a) felé tett előzetes értesítés alapján, és
+- b) előzetes egyetértő nyilatkozata beszerzését követően
+
+engedélyezheti, valamint köthet ezekre vonatkozóan szerződést.
+
+(5e) Az állami ünnep megtartása érdekében a közterület használatának időtartamáról, valamint a közterület-használattal érintett területekről az állami ünnep megszervezője az állami ünnepet megelőző hatvanadik napig tájékoztatja a tulajdonost. A tájékoztatás megtételét követően az (5d) bekezdést a tájékoztatásban nem szereplő közterületre a tárgyévre vonatkozóan nem kell alkalmazni.
+
+(5f) Az (5b) és (5c) bekezdés alá tartozó
+
+- a) kiemelt nemzeti emlékhely tekintetében – az (5d) és (5e) bekezdéstől eltérően – a kiemelt nemzeti emlékhely használatának rendjére vonatkozó,
+- b) Budai Palotanegyed tekintetében – az (5d) és (5e) bekezdéstől eltérően – a Budai Palotanegyedben lévő közterület használatának általános szabályaira vonatkozó,
+
+jogszabályban meghatározottakat kell alkalmazni.
+
+(5g) Az állami ünnep megtartása érdekében szükséges, közigazgatási hatósági engedélyhez vagy bejelentéshez kötött tevékenység vonatkozásában a Kormány rendeletben
+
+- a) állapítja meg az eljárás sajátos – kormányrendelettől vagy miniszteri rendelettől eltérő – szabályait,
+- b) jelöli ki az eljáró hatóságot.
+
+(5h) Az állami ünnep megtartásával összefüggő közigazgatási hatósági eljárásokban
+
+- a) az ügyintézési határidő – ha jogszabály ennél rövidebb határidőt nem állapít meg – tíz nap,
+- b) a szakhatósági eljárás ügyintézési határideje – ha jogszabály ennél rövidebb határidőt nem állapít meg – öt nap.
 
 (6) Amennyiben elosztóvezeték vagy elosztóhálózat létesítéséhez vagy felújításához a közterület tulajdonosának, kezelőjének nyilatkozata, hozzájárulása vagy jóváhagyása szükséges a közterület igénybevételével, felbontásával kapcsolatban, és arra az elosztó nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni.
 
@@ -1310,19 +1347,19 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 57/B. § E fejezet alkalmazásában kereskedelmi építmény: a kereskedelemről szóló 2005. évi CLXIV. törvény szerinti üzlet és bevásárlóközpont.
 
-57/C. § (1) Az építési engedélyhez kötött építési tevékenységgel megvalósuló, 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építmény építésének, átalakításának, valamint a 400 m2-t meghaladó bruttó alapterületre való bővítésének építésügyi hatósági engedélyezési eljárásában az országos illetékességgel eljáró Hajdú-Bihar Megyei Kormányhivatal vezetőjének (a továbbiakban: Kormányhivatal) szakhatósági állásfoglalását – amennyiben annak törvényi és kormányrendeleti feltételei fennállnak – be kell szerezni az engedély iránti kérelem és mellékletei megküldésével.
+57/C. § (1) Az építési engedélyhez kötött építési tevékenységgel megvalósuló, 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építmény építésének, átalakításának, valamint a 400 m2-t meghaladó bruttó alapterületre való bővítésének építésügyi hatósági engedélyezési eljárásában az országos illetékességgel eljáró Hajdú-Bihar Megyei Kormányhivatal vezetője (a továbbiakban: Kormányhivatal) – amennyiben annak törvényi és kormányrendeleti feltételei fennállnak – szakkérdésben nyilatkozik. A szakkérdésben született nyilatkozattól az építésügyi hatósági engedélyezési eljárás során hozott döntésben nem lehet eltérni.
 
-(2) A Kormányhivatal a szakhatósági állásfoglalását hatvan napon belül adja meg. E határidőbe nem számít bele az 57/D. § (4) bekezdése szerinti kiegészítő adatok és információk, illetve vélemények beérkezéséig tartó idő.
+(2) Amennyiben az (1) bekezdés szerinti engedélyezési eljárásban a Kormányhivatal szakkérdés elbírálására irányuló nyilatkozatának van helye, az építésügyi hatóság ügyintézési határideje 75 nap, amely határidőbe nem számít bele a szakkérdés vizsgálatához szükséges 57/D. § (4) bekezdése szerinti kiegészítő adatok, információk és vélemények megkérésének kiküldésétől azok beérkezéséig tartó idő.
 
-(3) Az (1) bekezdésben megjelölt engedélyezési eljárás megindítását megelőzően a kérelmező az általános közigazgatási rendtartásról szóló törvény szakhatósági közreműködésre vonatkozó szabályai szerint előzetes szakhatósági hozzájárulás kiadását is kérheti a Kormányhivataltól. Az előzetes szakhatósági hozzájárulás egy éven belül használható fel az (1) bekezdés szerinti építésügyi hatósági engedélyezési eljárásban. A szakhatósági hozzájárulás iránti kérelemnek tartalmaznia kell legalább a kereskedelmi építmény és a kapcsolódó kiszolgáló létesítmények látványtervét, főbb adatainak, tervezett méreteinek és várható forgalmának leírását.
+(3) A Kormányhivatal eljárása során a kereskedelmi építményekre vonatkozó különös környezetvédelmi, közlekedési és településfejlesztési követelményeket megállapító kormányrendelet figyelembevételével az (1) bekezdésben meghatározott kereskedelmi építménynek a létesítés helye szerinti településre és vonzáskörzetére gyakorolt környezeti, közlekedési és településrendezési hatásaival összefüggő szakkérdésben foglal állást abban a tekintetben, hogy a kereskedelmi létesítmény nem okoz-e olyan hátrányos következményeket, amelyek aránytalanul meghaladják a kereskedelmi építmény létesítésétől várható előnyöket.
 
-(3a) Amennyiben az (1) bekezdés szerinti engedélyezési eljárásban a Kormányhivatal szakhatósági állásfoglalása iránti megkeresésnek van helye, az építésügyi hatóság ügyintézési határideje 75 nap, amelybe a Kormányhivatal szakhatósági eljárásának időtartama, de legfeljebb 60 nap beszámít.
+(3a)
 
-(4) A Kormányhivatal a szakhatósági hozzájárulás iránti kérelem elbírálása során a kereskedelmi építményekre vonatkozó különös környezetvédelmi, közlekedési és településfejlesztési követelményeket megállapító kormányrendelet figyelembevételével az (1) bekezdésben meghatározott kereskedelmi építménynek a létesítés helye szerinti településre és vonzáskörzetére gyakorolt környezeti, közlekedési és településrendezési hatásaival összefüggő szakkérdésben foglal állást abban a tekintetben, hogy a kereskedelmi létesítmény nem okoz-e olyan hátrányos következményeket, amelyek aránytalanul meghaladják a kereskedelmi építmény létesítésétől várható előnyöket.
+(4)
 
 (5)
 
-57/D. § (1) A szakhatósági eljárás során a Kormányhivatal – az építésügyi hatósági engedély iránti kérelem és mellékletei, illetve az előzetes szakhatósági hozzájárulás iránti kérelem megküldése mellett – beszerzi az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, a kereskedelemért, a településfejlesztésért és településrendezésért, a környezetvédelemért, valamint a közlekedésért felelős miniszterek képviselőinek részvételével működő bizottság (a továbbiakban: Bizottság) véleményét. A Kormányhivatal a szakhatósági állásfoglalás kiadása során mérlegeli a Bizottságtól beszerzett véleményt.
+57/D. § (1) A szakkérdés vizsgálata során a Kormányhivatal – az építésügyi hatósági engedély iránti kérelem és mellékletei megküldése mellett – beszerzi az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, a kereskedelemért, a településfejlesztésért és településrendezésért, a környezetvédelemért, valamint a közlekedésért felelős miniszterek képviselőinek részvételével működő bizottság (a továbbiakban: Bizottság) véleményét. A Kormányhivatal a szakkérdés vizsgálata során mérlegeli a Bizottságtól beszerzett véleményt.
 
 (2) A Bizottság öt tagból áll. A Bizottság tagja az (1) bekezdésben megjelölt miniszterek által kijelölt egy-egy személy, elnöke az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter által kijelölt személy.
 
@@ -1335,13 +1372,11 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 57/E. §
 
-57/F. § (1) A 400 m2 vagy az azt meghaladó bruttó alapterületű építmény rendeltetésének kereskedelmi rendeltetésre változtatására, vagy kereskedelmi rendeltetésű építmény jogszabályban meghatározott átalakítására hatósági engedély (a továbbiakban: rendeltetésmódosítási engedély) alapján van lehetőség.
+57/F. § (1) A 400 m2-nél nagyobb bruttó alapterületű építmény rendeltetésének kereskedelmi rendeltetésre történő változtatására, vagy kereskedelmi rendeltetésű építmény jogszabályban meghatározott átalakítására a rendeltetésmódosítási hatóság engedélye alapján van lehetőség.
 
-(2) A rendeltetésmódosítási engedély iránti eljárásban a Kormányhivatal szakhatósági állásfoglalását be kell szerezni. A szakhatósági állásfoglalás kialakítása során az 57/C. és 57/D. § rendelkezéseit kell alkalmazni.
+(2) A rendeltetésmódosítási hatóság engedélye iránti eljárásban a Kormányhivatal szakkérdésben nyilatkozik. A nyilatkozat kialakítása során az 57/C. és 57/D. § rendelkezéseit kell alkalmazni.
 
-(3)
-
-(4) Ha rendeltetésmódosítási engedély nélkül kerül sor az építmény kereskedelmi rendeltetésű használatára vagy átalakítására, a rendeltetésmódosítási engedély iránti eljárásban eljáró hatóság megtiltja a kereskedelmi rendeltetésű használatot, és legfeljebb az eljárási bírság legmagasabb összegének megfelelő bírsággal sújtja azt, akinek a rendeltetésmódosítási engedély iránti kérelmet be kellett volna nyújtania.
+(3) Ha rendeltetésmódosítási hatóság engedélye nélkül kerül sor az építmény kereskedelmi rendeltetésű használatára vagy átalakítására, a rendeltetésmódosítási hatóság megtiltja a kereskedelmi rendeltetésű használatot, és legfeljebb az eljárási bírság legmagasabb összegének megfelelő bírsággal sújtja azt, akinek a rendeltetésmódosítási engedély iránti kérelmet be kellett volna nyújtania.
 
 ### V. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -1514,6 +1549,8 @@ tartalmazza.
 
 (5) Az (1) bekezdés szerinti adatok vonatkozásában az adatkezelést végző háromévente felülvizsgálja az adatkezelés szükségességét.
 
+(6) Az építészeti szerzői jogi nyilvántartás elektronikus ügyintézés keretében működik.
+
 ### A törvény hatálybalépése és átmeneti rendelkezések
 
 60. § (1) E törvény – a (2) bekezdés kivételével – 1998. január 1-jén lép hatályba.
@@ -1560,7 +1597,7 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 
 (13) A bíróság az 58. § (13) bekezdése szerinti kötelezettségét 2013. december 31-éig papír alapon is teljesítheti. Az adatkezelő gondoskodik a papír alapú ítéletek Nyilvántartásba történő elektronikus feltöltéséről.
 
-60/A. §
+60/A. § A fővárosi önkormányzat vagy a fővárosi kerületi önkormányzat tulajdonában álló, az 54. § (5b) és (5c) bekezdése szerinti közterület 2020. augusztus 15–25. közötti időszakban tervezett foglalására vonatkozóan a 2020. április 1-je után benyújtott kérelmeket az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvény hatálybalépését követően ismételten be kell nyújtani.
 
 60/B. § Az 57/D. § (1) bekezdésében meghatározott Bizottságot 2015. január 15-ig létre kell hozni. A miniszter 2015. január 8-ig felkéri a Bizottság tagjait kijelölni jogosult minisztereket, hogy jelöljenek tagokat a Bizottságba.
 
@@ -1600,6 +1637,8 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 (2)
 
 61/A. § Ha az építésügyi vagy építésfelügyeleti hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az 53/A. §-nak a 2016. december 31-én hatályos előírásait kell alkalmazni.
+
+61/B. § E törvénynek az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvénnyel (a továbbiakban: Mód4. tv.) megállapított 57/C–57/F. §-át a kereskedelmi építmények építési engedélyezési vagy rendeltetésmódosítási eljárásában – amennyiben a Mód4. tv. hatálybalépésekor fellebbezési eljárás van folyamatban –, a fellebbezés elbírálása során e törvénynek a Mód4. tv. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
 62. § (1) Felhatalmazást kap a Kormány arra, hogy
 
@@ -1646,7 +1685,7 @@ rendelettel állapítsa meg.
 
 (1c) Felhatalmazást kap a Kormány, hogy
 
-- a) a 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építményekre vonatkozó különös környezetvédelmi, közlekedési és településfejlesztési követelményeket, az azoktól való eltérés feltételeit, valamint az előzetes engedély iránti kérelem tartalmi követelményeit,
+- a) a 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építményekre vonatkozó különös környezetvédelmi, közlekedési és településfejlesztési követelményeket, az azoktól való eltérés feltételeit, valamint az engedély iránti kérelem tartalmi követelményeit,
 - b) az 57/D. § (1) bekezdésében meghatározott Bizottság működésének rendjét, valamint a Bizottság véleményének kialakítása során irányadó részletes szempontrendszert,
 - c) a rendeltetésmódosítási eljárás részletes szabályait, az eljáró hatóság kijelölését és az eljárás során vizsgálandó szempontokat,
 - d) építmény rendeltetésének engedélyhez kötött, de engedély nélküli kereskedelmi rendeltetésre változtatása vagy átalakítása miatt alkalmazható bírság összegét, a bírság kiszabásának részletes szabályait, valamint a beszedett bírság felhasználását
@@ -1656,6 +1695,12 @@ rendeletben állapítsa meg.
 (1d) Felhatalmazást kap a Kormány arra, hogy az egyszerű bejelentéssel érintett építési tevékenységek tekintetében az építészeti-műszaki tervezői tevékenység, valamint a vállalkozó kivitelezői tevékenység végzéséhez szükséges felelősségbiztosítási szerződés tartalmi elemeire és a meglétének az ellenőrzésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 (1e) Felhatalmazást kap a Kormány arra, hogy a kötelező tervezői művezetés részletes szabályait, ennek keretében a tevékenységre vonatkozó szerződés egyes kötelező tartalmi elemeit (különös tekintettel a szerződés ellenértékére) rendeletben állapítsa meg.
+
+(1f) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
+
+- a) az 54. § (5b) bekezdése szerinti állami ünnep megszervezőjét,
+- b) az 54. § (5d) bekezdés a) pontja szerinti értesítésre, az 54. § (5d) bekezdés b) pontja szerinti nyilatkozat megadására és az 54. § (5e) bekezdése szerinti tájékoztatás megtételére vonatkozó részletes szabályokat,
+- c) az 54. § (5g) bekezdése szerinti eljárási szabályokat és az eljáró hatóságot.
 
 (2) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter arra, hogy
 
@@ -1708,7 +1753,7 @@ rendeletben állapítsa meg.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-62/A. § Az 54. § (5) és (5a) bekezdése, valamint a 60/I. § az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
+62/A. § Az 54. § (5)–(5f) bekezdése, a 60/A. §, valamint a 60/I. § az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogának való megfelelés
 

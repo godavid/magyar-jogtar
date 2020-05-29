@@ -1132,12 +1132,13 @@ biztosító védelmet, továbbá az ezeket elősegítő közérdekű szempontok 
 - a) az örökségvédelem szabályainak megsértése esetén a nyilvántartott műemléki értékek, műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését, a méltatlan használat megszüntetését,
 - b) nyilvántartott műemléki értékek, műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység folytatásától eltiltani,
 - c) elrendelheti a védett műemléki értékek állagmegóvására vagy jókarbantartására vonatkozó kötelezettség teljesítését,
-- d) a 61/K. § (6) bekezdése szerinti esetben és körben elrendelheti – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását.
+- d) a 61/K. § (6) bekezdése szerinti esetben és körben elrendelheti – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását,
+- e) amennyiben a nyilvántartott műemléki érték, műemlék jelenkori állapota – a védett vagy a védettséget megalapozó korábbi és jelentős építési korszak szerinti állapotától eltérően – szomszédos ingatlan kiemelt közérdekű beruházás részeként megvalósuló, jogszabályban meghatározott módon és feltételek szerint való beépítését vagy beépítését követő használatát akadályozza, elrendelheti épület, építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását a 43. § (5) és (5c) bekezdésében meghatározott célok érdekében és korlátok között. A hatóság a döntést azonnal végrehajthatóvá nyilváníthatja, ha kiemelten közérdekű beruházásnak a szomszédos ingatlanon való megvalósításával összefüggésben kerül sor a felújítás, illetve átalakítás elrendelésére, és a végrehajtás késedelme a kiemelten közérdekű beruházás megvalósítását akadályozza vagy késlelteti.
 
 (2) A hatóság
 
 - a) az (1) bekezdés a)–c) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, a társasházat, továbbá a használót vagy az építtetőt, és a kivitelezőt,
-- b) az (1) bekezdés d) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, illetve a társasházat
+- b) az (1) bekezdés d) és e) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, illetve a társasházat
 
 kötelezheti.
 
@@ -1148,7 +1149,7 @@ kötelezheti.
 - c) elrendelheti a védetté nyilvánított kulturális javak közgyűjteményben történő ideiglenes elhelyezését; vagy
 - d) kezdeményezheti a vagyonkezelői szerződés felülvizsgálatát, illetve a használati jog megszüntetését.
 
-(3a) Ha a kötelezett az (1) bekezdés d) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget, a hatóság
+(3a) Ha a kötelezett az (1) bekezdés d) és e) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget, a hatóság
 
 - a) településkép-védelmi bírság kiszabásáról intézkedik, valamint
 - b) a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet.
@@ -1627,3 +1628,5 @@ II. Nemzeti emlékhely
 |  | 15. | Szigetvár, vár | cím: 7900 Szigetvár, Vár utca |
 |  | 16. | Esztergom, Várhegy és Víziváros | A Főszékesegyház (Bazilika) épülete cím: 2500 Esztergom, Szent István tér 1., a királyi palota maradványa és a vár épületei cím: 2500 Esztergom, Szent István tér 2., valamint az Érseki Palota épülete: a Prímási Levéltár, a Simor Érseki Könyvtár és a Keresztény Múzeum cím: 2500 Esztergom, Bercsényi utca 2. |
 |  | 17. | Győri Káptalandomb | Győri Bazilika épülete cím: 9021 Győr, Káptalandomb 12. Püspökvár épülete cím: 9021 Győr, Káptalandomb 1. Szent László Látogatóközpont épülete cím: 9021 Győr, Káptalandomb 13. Győri Egyházmegyei Kincstár és Könyvtár épülete cím: 9021 Győr Gutenberg tér 2. Hittudományi Főiskola épülete cím: 9021 Győr, Káptalandomb 7. Hotel Konferencia épülete cím: 9021 Győr, Apor Vilmos püspök tere 3. |
+|  | 18. | Mátraverebély-Szentkút Nemzeti Kegyhely | cím: 3077 Mátraverebély-Szentkút 14. |
+|  | 19. | Máriapócs Nemzeti Kegyhely | cím: 4326 Máriapócs, Kossuth tér 25. |

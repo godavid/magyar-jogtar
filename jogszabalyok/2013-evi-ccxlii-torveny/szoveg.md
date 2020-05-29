@@ -182,7 +182,13 @@ rendeltetésű épület, valamint parkoló és gépjárművek, illetve kerékpá
 
 11. § Az Opera beruházások közérdekű célú fejlesztésnek minősülnek, amelynek során a létrehozott vagyon, építmény az állam tulajdonába kerül.
 
-#### 12–13. §
+12. § (1) Az 1. § (1) bekezdése szerinti ingatlanon, valamint ezen ingatlanból telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokon megvalósuló beruházások az Ngtv. szerinti kiemelten közérdekű beruházásnak minősülnek.
+
+(2) Az (1) bekezdés szerinti ingatlanok tekintetében változtatási tilalom nem alkalmazható.
+
+(3) Az (1) bekezdés szerinti ingatlanokra vonatkozó önkormányzati rendeletet a (2) bekezdésben meghatározott eltéréssel kell alkalmazni. Amennyiben önkormányzati rendelet a (2) bekezdésben foglaltakkal ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette a (2) bekezdésben foglaltakat kell alkalmazni.
+
+#### 13. §
 
 14. § Ez a törvény a kihirdetését követő napon lép hatályba.
 

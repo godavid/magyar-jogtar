@@ -415,6 +415,8 @@ cél megvalósítására irányuló beruházást.
 
 (4) A kártalanítás tárgyában hozott közigazgatási határozat elleni közigazgatási perre az Étv. 30. § (8) bekezdésében foglaltakat kell alkalmazni.
 
+(5) Ha az adott kiemelten közérdekű beruházásra vonatkozó 11/B. § (1) bekezdés a) pontja szerinti beépítési szabálynak, építési követelménynek megfelelő beépítést a szomszédos ingatlan építményének az ingatlan határvonalán átnyúló része akadályozza, a szomszédos ingatlan tulajdonosa az adott építményrész elbontását, átalakítását köteles elvégezni. Az elbontásról a kiemelten közérdekű beruházás építtetője és a szomszédos ingatlan tulajdonosa a költségek viselésére is kiterjedő módon megállapodnak. Amennyiben a megállapodás nem jön létre a felek között a szerződéskötésre vonatkozó ajánlat megtételétől számított 90 napon belül a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:71. §-a szerint, a felek bármelyike bírósághoz fordulhat és a megállapodást a bíróság ítéletével pótolja. A bíróság ítélete elleni fellebbezésnek az ítélet végrehajtására nincs halasztó hatálya.
+
 11/D. § (1) A Kormány a 11/B. § (1) bekezdése szerinti követelmények meghatározásával együtt rendeletben határozhatja meg
 
 - a) az építésügyi hatósági eljárások – közműegyeztetésekre is kiterjedő –,
@@ -448,6 +450,10 @@ vagy mellőzésére vonatkozó szabályokat.
 (6) Kiemelten közérdekű beruházás megvalósításához közvetlenül kapcsolódó útépítési, közmű-csatlakozási, fejlesztési, bontási és kiváltási munkák elvégzésével érintett vagyonelemek értékének változásával az építtető a beruházások teljes megvalósítását követően, a teljes beruházás időszakát figyelembe véve köteles elszámolni a beruházással érintett közművagyon-elemek tulajdonosával, Budapesten a víziközművek esetén az ellátásért felelős fővárosi önkormányzattal.
 
 (7) A felek kötelesek a (2) bekezdés szerinti értesítést követően legkésőbb 90 napon belül megállapodást kötni – a teljes beruházási időszakban elvégzésre kerülő munkálatok figyelembevételével – az elszámolás feltételeiről, valamint a felmerülő terhek viselésének megosztásáról.
+
+(8) Kiemelten közérdekű beruházás megvalósításával összefüggésben, az építmény rendeltetésszerű és biztonságos használhatósága, közszolgálati járművel, vagy gyalogosan történő megközelíthetőségének, valamint közhasználatú építmény esetén az akadálymentes módon történő megközelítésének biztosítása szempontjából, illetve a biztonságos kiürítés biztosíthatósága érdekében, a közterület és az építmény szintkülönbségének áthidalása (terepcsatlakozás) céljából az építtető által – a közterületre a feltétlenül szükséges mértékben – rámpa, lépcső, vagy egyéb szintemelés építéséhez nem szükséges tulajdonosi hozzájárulás.
+
+(9) Az építtető a (8) bekezdés szerint közterületen elhelyezett építményrészt az adott közterületre vonatkozó jogszabályi és építési követelményeknek megfelelően köteles megvalósítani. Az építtető vagy az ingatlan tulajdonosa, használója a (8) bekezdés szerint létrejött, közterületen elhelyezkedő építményrész tekintetében a beruházás befejezését követően a közhasználatot nem korlátozhatja, és a beruházást követően egyebekben az építményrészre a közterületre vonatkozó szabályokat kell alkalmazni.
 
 11/G. § (1) A kiemelt közérdekű beruházással kapcsolatos feladatok ellátására, irányítására – törvényben vagy a Kormány által rendeletben vagy határozatban – kijelölt személy vagy szerv bármely hatóságtól, közigazgatási szervtől, közműszolgáltató, közműnyilvántartó és energiaszolgáltató társaságtól, az építtetőtől, egyéb állami tulajdonban álló társaságtól, a kiemelt közérdekű beruházás megvalósításában közreműködő bármely szervezettől, továbbá az érintett helyi önkormányzattól (a továbbiakban együtt: érintett szerv) a beruházással összefüggő ügyben tájékoztatást kérhet, illetve az érintett szerv részére intézkedés megtételét javasolhatja.
 

@@ -1640,6 +1640,10 @@ valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú
 
 (6) A független képviselő esetében az (1)–(5a) bekezdésben meghatározottakat megfelelően alkalmazni kell.
 
+118/A. § (1) A képviselőcsoport az országos listán mandátumot szerzett pártja részére a 118. § (5a) bekezdése szerinti keretmaradvány terhére támogatást nyújthat.
+
+(2) A támogatás támogatási igény nélkül, egyedi döntés alapján, támogatói okirattal nyújtható. A támogatásról az országgyűlési képviselőcsoport vezetője dönt. A támogatás rendelkezésre bocsátása a keretek közötti szükséges átcsoportosításokat követően a képviselőcsoport előirányzat-felhasználási keretszámlájáról történhet. A támogatást a kedvezményezett hitelintézetnél vezetett fizetési számlájára történő átutalással kell teljesíteni.
+
 #### 39. A volt képviselő juttatásai
 
 119. § (1) Ha a képviselő megbízatása az Országgyűlés megbízatásának megszűnésével szűnik meg, a volt képviselő további három hónapon keresztül a tiszteletdíjának a megbízatása megszűnését megelőző háromhavi átlagának megfelelő összegű ellátásra jogosult.

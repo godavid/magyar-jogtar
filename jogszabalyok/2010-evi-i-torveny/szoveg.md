@@ -57,7 +57,7 @@ kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkeze
 - h) hazai anyakönyvezés: a magyar állampolgár külföldön történt anyakönyvi eseményéhez, valamint a nem magyar állampolgár anyakönyvi eseményéhez kapcsolódó, e törvényben meghatározott adatoknak az anyakönyvbe történő bejegyzése, azok módosítása és törlése,
 - i) anyakönyvvezető: a Kormány által rendeletben kijelölt személy,
 - j) nyilvántartó anyakönyvvezető: az az anyakönyvvezető, aki, illetve az anyakönyvi szerv, amely a bejegyzés alapjául szolgáló anyakönyvi alapiratot őrzi,
-- k) személyazonosításra alkalmas adat: az érintett születési családi és utóneve, házassági neve, neme, születési helye és ideje, anyja születési családi és utóneve, az érintett személyi azonosítója, előző születési családi és utóneve vagy házassági neve, állampolgársága, előző állampolgársága, valamint lakcíme,
+- k) személyazonosításra alkalmas adat: az érintett születési családi és utóneve, házassági neve, születési neme, születési helye és ideje, anyja születési családi és utóneve, az érintett személyi azonosítója, előző születési családi és utóneve vagy házassági neve, állampolgársága, előző állampolgársága, valamint lakcíme,
 - l) születés: az élveszületés,
 - m) tolmács: a tolmács és a jelbeszédben jártas személy,
 - n) származási hely: az anya nyilatkozata alapján az anya lakóhelye vagy tartózkodási helye, ismeretlen anya esetén a gyámhatóság által megállapított hely, hazai anyakönyvezés esetén – kérelemre – az anya lakóhelye, illetve ha az nem ismert, a gyermek születési helye,
@@ -69,7 +69,8 @@ kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkeze
 - t) eseményazonosító: az adott anyakönyvi eseményt azonosító alfanumerikus azonosító,
 - u) ügyazonosító: az adatbejegyzéskor, adatmódosítás anyakönyvbe történő bejegyzésekor, az adattörléskor, valamint az egyéb elektronikus ügyindításkor képzett alfanumerikus azonosító,
 - v) harmadik országbeli állampolgár: a magyar állampolgár kivételével minden olyan személy, aki nem EGT-állampolgár, ideértve a hontalant is,
-- w) hivatali munkaidő: a közszolgálati tisztviselőkről szóló törvényen alapuló általános munkarend szerinti munkaidő.
+- w) hivatali munkaidő: a közszolgálati tisztviselőkről szóló törvényen alapuló általános munkarend szerinti munkaidő,
+- x) születési nem: az elsődleges nemi jelleg, illetve kromoszóma alapján meghatározott biológiai nem.
 
 ### Hatáskör
 
@@ -106,7 +107,7 @@ jegyezhet be.
 
 (6)
 
-(7) Anyakönyvi okirat kiállítására az (1) bekezdésben meghatározott szervek jogosultak. Az anyakönyvi szerv – a 89. § (4) bekezdésében foglaltak kivételével – az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével összefüggésben jogosult anyakönyvi okirat kiállítására. Ha a névváltoztatás iránti kérelmet hivatásos konzuli tisztviselőnél nyújtották be, a névváltoztatási eljárással összefüggésben az anyakönyvi kivonatot a hivatásos konzuli tisztviselő állítja ki.
+(7) Anyakönyvi okirat kiállítására az (1) bekezdésben meghatározott szervek jogosultak. Az anyakönyvi szerv az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével összefüggésben jogosult anyakönyvi okirat kiállítására. Ha a névváltoztatás iránti kérelmet hivatásos konzuli tisztviselőnél nyújtották be, a névváltoztatási eljárással összefüggésben az anyakönyvi kivonatot a hivatásos konzuli tisztviselő állítja ki.
 
 5. § (1)
 
@@ -440,9 +441,9 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (2a) Az a személy, akinek korábbi személyes joga alapján kettős családi nevét a magyar anyakönyvi szabályoktól eltérő írásmóddal anyakönyvezték, a magyar állampolgárság megszerzése után kérheti, hogy kettős családi nevét a magyar anyakönyvi szabályoknak megfelelő írásmóddal jegyezzék be az anyakönyvbe.
 
-(3) Anyakönyvezni a szülők által meghatározott sorrendben legfeljebb két, a gyermek nemének megfelelő utónevet lehet a Bölcsészettudományi Kutatóközpont által összeállított utónévjegyzékből. Az utónévjegyzéket az Bölcsészettudományi Kutatóközpont a honlapján teszi közzé.
+(3) Anyakönyvezni a szülők által meghatározott sorrendben legfeljebb két, a gyermek születési nemének megfelelő utónevet lehet a Nyelvtudományi Intézet által összeállított utónévjegyzékből. Az utónévjegyzéket a Nyelvtudományi Intézet a honlapján teszi közzé.
 
-(4) Ha a választott utónév nem szerepel az utónévjegyzékben, az érintett – jogszabályban meghatározott módon az anyakönyvi szerv közreműködésével – kérheti az Bölcsészettudományi Kutatóközpont nyilatkozatát a kért utónév anyakönyvezhetőségéről. Az Bölcsészettudományi Kutatóközpont az anyakönyvi szerv megkeresésére harminc napon belül nyilatkozik, és ha az Bölcsészettudományi Kutatóközpont nyilatkozata szerint az utónév anyakönyvezhető, azt az utónévjegyzékbe haladéktalanul felveszi.
+(4) Ha a választott utónév nem szerepel az utónévjegyzékben, az érintett – jogszabályban meghatározott módon az anyakönyvi szerv közreműködésével – kérheti a Nyelvtudományi Intézet nyilatkozatát a kért utónév anyakönyvezhetőségéről. A Nyelvtudományi Intézet az anyakönyvi szerv megkeresésére harminc napon belül nyilatkozik, és ha a Nyelvtudományi Intézet nyilatkozata szerint az utónév anyakönyvezhető, azt az utónévjegyzékbe haladéktalanul felveszi.
 
 (5) Az ugyanattól az anyától származó, ugyanazon a napon született gyermekek nem viselhetnek megegyező utónevet.
 
@@ -817,7 +818,7 @@ megismerni.
   - bb) születési helyét,
   - bc) születési idejét, ennek hiányában életkorát,
   - bd) személyi azonosítóját,
-  - be) nemét,
+  - be) születési nemét,
   - bf) anyjának születési családi és utónevét,
   - bg) apjának születési családi és utónevét,
   - bh) igazolt nem magyar állampolgárságát, hontalanságát vagy ismeretlen állampolgárságát, magyar állampolgárságának megszerzését vagy megszűnését, valamint a magyar állampolgárság megszűnése után megszerzett külföldi állampolgárságot, ha az érintettnek a megszűnés után Magyarországon anyakönyvi eseménye történik; hazai anyakönyvezés esetén a gyermek magyar állampolgárság megszerzésének idejét, valamint előző állampolgárságát;
@@ -834,9 +835,9 @@ megismerni.
 
 (2) A szülő születési családi és utónevének megváltozását vagy a családi név korrekcióját nagykorú személy esetében kizárólag a nagykorú személy kérelmére kell a saját személyazonosító adatainál adatváltozásként átvezetni és megjeleníteni.
 
-(3) Nem vezethető át adatváltozásként a szülők neme adatának és ahhoz kapcsolódóan az utónevének megváltozása a gyermek személyazonosító adatainál.
+(3) Az (1) bekezdés b) pont be) alpontjában meghatározott adat nem változtatható meg.
 
-(4) A nem megváltozásának anyakönyvbe való bejegyzését meg kell tagadni, ha az érintett személy házassága vagy bejegyzett élettársi kapcsolata fennáll.
+(4)
 
 69/C. § (1) Az elektronikus anyakönyv a születéssel kapcsolatban nyilvántartja
 
@@ -1370,7 +1371,7 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 (3) Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv – a személyiadat- és lakcímnyilvántartás hatálya alá tartozó nem magyar állampolgár kivételével – a nem magyar állampolgár halálesetének anyakönyvezéséről a 69/B. § (1) bekezdés a) pontjában, b) pont ba)–bc), bf) és bh) alpontjában, valamint a 69/F. § (1) bekezdés a) pontjában foglalt adatok továbbításával értesíti a központi idegenrendészeti nyilvántartást vezető szervet, menedékes vagy befogadott jogállású személy esetén pedig a menekültügyi hatóságot. Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az idegenrendészeti hatóság által kiállított, tartózkodásra jogosító engedélyt az eljárása során bevonja, és azt az anyakönyvi értesítéshez csatolja.
 
-(4) Az anyakönyvvezető a nem magyar állampolgár anyakönyvi eseményéről – nemzetközi szerződés vagy viszonosság alapján – az anyakönyvi kivonat és az értesítésben szereplő adatok megküldésével értesíti az érintett állampolgársága szerinti állam Magyarországra akkreditált külképviseletét, annak hiányában a külpolitikáért felelős minisztert. Az értesítés tartalmazza a nem magyar állampolgár – gyermek születésének anyakönyvezése esetén a szülők – természetes személyazonosító adatait, menekült vagy oltalmazott jogállását, valamint – ha rendelkezésre áll – az állampolgárságát igazoló okmányának megnevezését, okmányazonosítóját és érvényességi idejét.
+(4) Az anyakönyvvezető nemzetközi szerződés vagy viszonosság alapján – a menekült vagy oltalmazott jogállású személy kivételével – a nem magyar állampolgár anyakönyvi eseményéről az anyakönyvi kivonat és a nem magyar állampolgár – gyermek születésének anyakönyvezése esetén a szülők – természetes személyazonosító adatainak, valamint – ha rendelkezésre áll – az állampolgárságát igazoló okmányának megnevezésére, okmányazonosítójára és érvényességi idejére vonatkozó adatok megküldésével értesíti az érintett állampolgársága szerinti állam Magyarországra akkreditált külképviseletét, annak hiányában a külpolitikáért felelős minisztert.
 
 90. § Az anyakönyvi szerv a névváltoztatás bejegyzését követően haladéktalanul értesíti a bűnügyi nyilvántartó szervet a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személynek a névváltoztatást megelőző és megváltozott születési családi és utónevéről, a 69/B. § (1) bekezdés b) pont bb), bc) és bf) alpontjában, valamint g) pontjában foglalt adatairól.
 
@@ -1451,7 +1452,7 @@ válnak bárki számára kutathatóvá.
 
 - a) az anyakönyvi eljárás lefolytatására és az anyakönyvi eljárásban való közreműködésre jogosult szerveket és személyeket, azok illetékességét és hatáskörét, a nyilvántartó szervet, valamint az anyakönyvi ügyekért felelős miniszter és a nyilvántartó szerv nyilvántartás működtetésével kapcsolatos együttműködésének kereteit,
 - b) az anyakönyvezéshez szükséges képesítési feltételeket,
-- c) az MTA-utónévjegyzékbe történő felvételre vonatkozó nyilatkozatával összefüggő megkeresésre és az anyakönyvi szerv közreműködésére vonatkozó szabályokat.
+- c) a Nyelvtudományi Intézet által vezetett utónévjegyzékbe történő felvételre vonatkozó nyilatkozatával összefüggő megkeresésre és az anyakönyvi szerv közreműködésére vonatkozó szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy
 
@@ -1482,7 +1483,9 @@ részletes szabályait rendeletben állapítsa meg.
 
 101. § E törvénynek a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvénnyel módosított rendelkezéseit a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvény hatálybalépése előtt indult, folyamatban lévő hazai anyakönyvezési ügyekben is alkalmazni kell.
 
-101/A. § E törvénynek az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2016. évi CIX. törvénnyel (a továbbiakban: Módtv.) módosított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
+101/A. § (1) E törvénynek az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2016. évi CIX. törvénnyel (a továbbiakban: Módtv.) módosított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
+
+(2) E törvénynek az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvénnyel (a továbbiakban: Módtv.3) megállapított 3. § k) és x) pontját, 44. § (3) bekezdését, 69/B. § (1) bekezdés b) pont be) alpontját és 69/B. § (3) bekezdését a Módtv.3 hatálybalépése előtt indult és folyamatban lévő eljárásokban, valamint a megismételt eljárásokban is alkalmazni kell.
 
 ### Az Európai Unió jogának való megfelelés
 
