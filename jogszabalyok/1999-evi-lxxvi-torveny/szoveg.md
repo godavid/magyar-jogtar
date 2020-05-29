@@ -1232,7 +1232,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (4) Ha a (3) bekezdés sem alkalmazható, az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki a művet először hozta nyilvánosságra.
 
-(5) Építészeti alkotások esetén, ha az (1) bekezdés nem alkalmazható, akkor az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság által vezetett építészeti szerzői jogi nyilvántartásban szerzőként szerepel. Ha e szabály nem alkalmazható, akkor a (2)–(4) bekezdésben foglaltak irányadóak.
+(5)
 
 94/C. § (1) A mű önkéntes nyilvántartásba vételére irányuló eljárásban a Hivatal az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 

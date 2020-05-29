@@ -147,6 +147,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (6) A konzuli tisztviselőnél előterjesztett állandó személyazonosító igazolvány kiadására irányuló eljárással összefüggésben a közigazgatási per megindítására irányuló keresetlevelet a vitatott közigazgatási cselekmény közlésétől számított hatvan napon belül kell benyújtani.
 
+(7) A jegyző e törvény alapján meghozott döntésével szemben nincs helye fellebbezésnek.
+
 7. § (1) A járási hivatal
 
 - a) gondoskodik a járás (fővárosi kerület) területén lakcímmel rendelkező polgár adatainak, adatváltozásainak, illetve adatjavításainak, valamint a polgár adataiban a járás (fővárosi kerület) közigazgatási területén bekövetkezett változásoknak a nyilvántartáson történő átvezetéséről;
