@@ -24,9 +24,9 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 - 2. exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése vagy lízingszerződése, amelynek eredményeként befektetés esetén a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló gazdálkodó szervezetnél, lízingszerződés esetén pedig a lízingbevevő gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése;
 - 3. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó;
 - 4. nemzetközi fejlesztési együttműködés: a nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló törvényben meghatározott fogalom;
-- 5. nemzetközi versenyképességet javító befektetés: a devizabelföldi gazdálkodó szervezet olyan belföldi működő tőke befektetése, amelynek eredményeként a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló, a befektetéssel érintett belföldi gazdálkodó szervezetnél a Gazdasági Fejlesztési és Együttműködési Szervezet által alkalmazott módszertan szerint számszerűsíthető előny mutatható ki vagy ami a befektetéssel érintett gazdálkodó szervezet nemzetközi piacra lépését segíti elő;
-- 6. nemzetközi versenyképességet javító beruházás: devizabelföldi gazdálkodó szervezet belföldön megvalósuló beruházása, amelynek eredményeként a beruházást megvalósító vagy az azt üzembe helyező devizabelföldi gazdálkodó szervezetnél a Gazdasági Fejlesztési és Együttműködési Szervezet által alkalmazott módszertan szerint számszerűsíthető előny mutatható ki, vagy amely a beruházást megvalósító vagy az azt üzembe helyező devizabelföldi gazdálkodó szervezet nemzetközi piacra lépését segíti elő;
-- 7. nemzetközi versenyképességet javító forgóeszközigény: devizabelföldi gazdálkodó szervezet versenyképes termeléséhez vagy szolgáltatásnyújtásához szükséges erőforrások, árukészletek vagy szolgáltatások finanszírozásához szükséges, vagy nemzetközi versenyképességet javító beruházásához kapcsolódó forgóeszköz-növekményhez köthető likvid források iránti igény, amely kielégítésével a Gazdasági Fejlesztési és Együttműködési Szervezet által alkalmazott módszertan szerint a gazdálkodó szervezetnél számszerűsíthető előny mutatható ki, vagy amely igény kielégítése a gazdálkodó szervezet nemzetközi piacra lépését segíti elő.
+- 5.
+- 6.
+- 7.
 
 (6) Az Eximbank nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
 
@@ -45,7 +45,8 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 - g) kizárólag tevékenységéhez szükséges forrásszerzés céljából:
   - ga) betétek gyűjtése bankközi piacon bel- és külföldi, a Bszt. 48. § (1) bekezdése szerinti szakmai ügyféltől és a Mehib Rt.-től,
   - gb) kötvények kibocsátása;
-- h) követelésvásárlás.
+- h) követelésvásárlás,
+- i) kezesség- és garanciavállaláshoz kapcsolódóan pénzügyi szolgáltatás közvetítése.
 
 (1a) Az Eximbank nemzetközi fejlesztési együttműködési céllal az alábbi tevékenységet végzi:
 
@@ -57,9 +58,11 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (1c) Az Eximbank felelős az (1b) bekezdés szerint megkötött szerződések magyar kormányzati fejlesztési együttműködési politika szerinti végrehajtásáért és a szerződésből eredő kötelezettségek teljesítéséért. Az Eximbank a megkötött szerződések végrehajtásáról és azok nemzetközi fejlesztési együttműködési szempontú eredményességéről a nemzetközi pénzügyi kapcsolatokért és a nemzetközi fejlesztési együttműködésért felelős miniszterek részére évente jelentést készít.
 
-(1d) Az Eximbank (1a) bekezdés szerinti tevékenységén túl jogosult bel- és külföldi kockázati- és magántőkealap alapításához, vagy ahhoz történő csatlakozáshoz kapcsolódóan befektetési jegyet jegyezni.
+(1d) Az Eximbank az (1a) bekezdés szerinti tevékenységén túl jogosult bel- és külföldi alternatív befektetési alap alapításához vagy ahhoz történő csatlakozáshoz kapcsolódóan befektetési jegyet jegyezni vagy megszerezni.
 
 (1e) Az Eximbank a Kormány határozata alapján az (1d) bekezdés szerinti tevékenységet az állam nevében is végezheti, ekkor az alapításhoz vagy csatlakozáshoz szükséges fedezetet a központi költségvetés terhére kell biztosítani, e kifizetéseket a külgazdaságért felelős miniszter irányítása alá tartozó központi költségvetési fejezetben kell megtervezni és elszámolni.
+
+(1f) Az Eximbank jogosult alternatív befektetési alapkezelőt alapítani vagy abban részesedést szerezni.
 
 (2) Az Eximbank a hitel és pénzkölcsön nyújtás keretében az export finanszírozása érdekében külön rendeletben foglalt feltételek mellett kötött segélyhitelt nyújthat a magyar árukat, szolgáltatásokat megvásároló, igénybe vevő devizakülföldieknek, és kedvező kamatozású hiteleket nyújthat a külön rendeletben foglalt feltételek mellett. Devizabelföldi és devizakülföldi alatt a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ában foglaltakat kell érteni.
 
@@ -180,7 +183,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 (2) A befolyt követelések után az Eximbankot és a Mehib Rt.-t az államháztartásért felelős miniszter rendeletében meghatározott mértékű jutalék illeti meg. A jutalék alapja a behajtott tőke, a kamat és a késedelmi kamat.
 
-9. §
+9. § E törvénynek az Eximbank által az állam készfizető kezessége mellett vállalható garanciaügyletre vonatkozó rendelkezéseit az Eximbank által kormányrendeletben előírt feltételekkel vállalt készfizető kezességre is alkalmazni kell.
 
 ### Kormányzati kapcsolatok
 
@@ -283,7 +286,7 @@ szerzett.
 
 21. § (1) Az Eximbank esetében az 575/2013/EU rendelet 392. cikkében foglaltaktól eltérően nagykockázat vállalásának minősül az egy ügyféllel vagy ügyfélcsoporttal szembeni kitettség, ha annak értéke eléri vagy meghaladja az Eximbank szavatoló tőkéjének huszonöt százalékát.
 
-(2) Az 575/2013/EU rendelet 395. cikk (1) bekezdésétől eltérően hitelintézetnek nem minősülő egy ügyféllel vagy ügyfélcsoport nem hitelintézet tagjával szembeni kitettség értékének az együttes összege nem haladhatja meg az Eximbank szavatoló tőkéjének harmincöt százalékát.
+(2) Az 575/2013/EU rendelet 395. cikk (1) bekezdésétől eltérően hitelintézetnek nem minősülő egy ügyféllel vagy ügyfélcsoport nem hitelintézet tagjával szembeni kitettség értékének az együttes összege nem haladhatja meg az Eximbank szavatoló tőkéjének harmincöt százalékát. A hitelintézetekkel szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség értékének összege nem haladhatja meg az Eximbank szavatoló tőkéjének kétszáz százalékát.
 
 (3) Az (1)–(2) bekezdésben foglalt rendelkezéseket nem kell alkalmazni – az 575/2013/EU rendelet 400. cikk (1) bekezdésében meghatározottakon túlmenően –
 
@@ -293,6 +296,8 @@ szerzett.
   - ca) a Gazdasági Együttműködési és Fejlesztési Szervezet tagországában székhellyel rendelkező hitelintézet garanciájával fedezett hitelnél és pénzkölcsönnél, vagy
   - cb) olyan hitelintézet garanciájával fedezett hitelnél és pénzkölcsönnél, amellyel szembeni – hitelkockázati fedezettel nem ellátott – három hónapnál hosszabb futamidejű kitettségre a hitelezési kockázat sztenderd módszere alkalmazásában legfeljebb 50%-os kockázati súly rendelhető,
 - d) a központi költségvetés készfizető kezességével fedezett kockázatvállalásokra, ideértve a Mehib Rt. nem piacképes kockázatú biztosításával fedezett exportcélú hitelt és pénzkölcsönt is a biztosított összeg önrészesedéssel csökkentett mértékéig.
+
+(4) Az 575/2013/EU rendelet I. melléklet 4. pontja szerinti alacsony kockázatú kategóriába sorolandók azok a mérlegen kívüli kötelezettségvállalások, amelyekből a kötelezettségvállaláshoz kapcsolódó fedezet még nem érvényesíthető állapota miatt az Eximbank belső szabályzata szerint lehívás, folyósítás nem valósulhat meg.
 
 22. §
 

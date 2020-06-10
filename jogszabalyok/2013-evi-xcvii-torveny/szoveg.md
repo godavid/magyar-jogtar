@@ -19,7 +19,7 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
   - da) aki a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter (a továbbiakban: miniszter) alárendeltségébe, közvetlen irányítása és fenntartói irányítása alatt álló szervezetében vagy a Magyar Honvédség katonai szervezeteinél teljesített szolgálatot, és
   - db) akinek nyugdíjazását közvetlenül megelőző utolsó foglalkoztatási jogviszonya a da) alpontban meghatározott szervezetek valamelyikével állt fent, vagy
   - dc) aki a da) alpontban meghatározott szervekkel fennálló jogviszonyának megszűnése és nyugdíjba vonulása között új jogviszonyt nem létesített, feltéve, hogy a két időpont között eltelt idő az 1 évet nem haladja meg,
-- e) Honvédség személyi állománya: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 40. § (1) bekezdése szerinti személyi állomány, a Honvédelmi Minisztérium által foglalkoztatott kormánytisztviselők, a miniszter közvetlen alárendeltségébe tartozó szervezeteknél foglalkoztatott honvédelmi alkalmazottak és az önkéntes tartalékos katonák,
+- e) Honvédség személyi állománya: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 40. § (1) bekezdése szerinti személyi állomány, a Honvédelmi Minisztérium által foglalkoztatott kormánytisztviselők ideértve a politikai szolgálati és a biztosi jogviszonyban állókat is, munkavállalók, a miniszter közvetlen alárendeltségébe tartozó szervezeteknél foglalkoztatott honvédelmi alkalmazottak és az önkéntes tartalékos katonák,
 - f) hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 2. pontjában meghatározott személy,
 - g) igénybevevő: a honvédelmi szervezet, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség és a Hvt. 18. § (2) bekezdésében meghatározott honvédelemben közreműködő szervek,
 - h) igénybevételi hatóság: a gazdasági és anyagi szolgáltatás Hvt. 14. §-a szerinti igénybevételét elrendelő szerv vagy személy,
@@ -409,9 +409,9 @@ kezeli tovább.
 (4) Az érdekvédelmi nyilvántartásban történő adatkezelés célja
 
 - a) a honvédségi nyugdíjasnak, a nyugállományú katonának, a köztársasági elnök által szolgálaton kívüli állományba felvett személynek,
-- b) a hivatásos, a szerződéses és az önkéntes tartalékos, vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggő baleset, betegség, sebesülés vagy haláleset miatt társadalombiztosítási, illetve szociális ellátásra jogosultaknak,
-- c)
-- d) az a)–b) pont szerint ellátásra jogosult hozzátartozóinak, és
+- b) a hivatásos, a szerződéses és az önkéntes tartalékos katonai szolgálatteljesítéssel, vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggő baleset, betegség, sebesülés miatt társadalombiztosítási, illetve szociális ellátásra jogosultaknak,
+- c) az állomány elhunyt tagjának, az önkéntes tartalékos szolgálatteljesítéssel vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggésben elhunyt katonának, az elhunyt nyugállományú katonának, az elhunyt honvédségi nyugdíjasnak, az elhunyt kormánytisztviselőnek, az elhunyt kormányzati ügykezelőnek, az elhunyt honvédelmi alkalmazottnak és az elhunyt közalkalmazottnak,
+- d) az a)–c) pont szerint ellátásra jogosult hozzátartozóinak és
 - e) az egyéb munkavégzésre irányuló jogviszony alapján foglalkoztatott állomány esetén a jogviszony megszűnését vagy megszüntetését követően, a Honvédséggel kötött egyéni megállapodás alapján
 
 társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának és folyósításának biztosítása, valamint elismerés adományozása.
@@ -925,7 +925,7 @@ a 21. melléklet szerinti adatait a rekreációs szolgáltatásokkal kapcsolatos
 
 #### 14. A hadköteles nyilvántartás
 
-25. § (1) A hadkötelezettség bevezetésének biztosítása, valamint az önkéntes tartalékos állomány toborzásának céljából a kiképzett tartalékosokról és potenciális hadkötelesekről már békeidőszakban és különleges jogrendben, valamint a hadkötelezettség bevezetését követően a hadkötelesekről a katonai szolgálatra történő behívás előkészítése és végrehajtása céljából hadköteles nyilvántartást kell vezetni.
+25. § (1) A hadkötelezettség bevezetésének biztosítása, valamint az önkéntes tartalékos állomány toborzásának, továbbá a hadköteles jogviszonnyal kapcsolatos hatósági bizonyítványok kiadása céljából a kiképzett tartalékosokról és potenciális hadkötelesekről már békeidőszakban és különleges jogrendben, valamint a hadkötelezettség bevezetését követően a hadkötelesekről a katonai szolgálatra történő behívás előkészítése és végrehajtása céljából hadköteles nyilvántartást kell vezetni.
 
 (2) Az (1) bekezdés szerinti nyilvántartás közhiteles nyilvántartásnak minősül.
 
@@ -1123,7 +1123,7 @@ a 4. mellékletben foglalt, általa kezelt adatokról.
 (2) A 14–17. alcímben szolgáltatott adatokat
 
 - a) a személyi azonosító alkalmazásával, annak hiányában a természetes személyazonosító adatokkal szolgáltatja az állampolgársági ügyekben eljáró szerv, a személyiadat- és lakcímnyilvántartást kezelő szerv, a választási szerv és a Honvédség központi személyügyi szerve, és
-- b) a természetes személyazonosító adatokkal szolgáltatja minden további adatszolgáltató.
+- b) a természetes személyazonosító adatokkal és – amennyiben kezelheti, továbbíthatja, – a társadalombiztosítási azonosító jellel szolgáltatja minden további adatszolgáltató.
 
 ### V. Fejezet — A VESZTESÉG-NYILVÁNTARTÁS
 
@@ -1227,9 +1227,14 @@ részére az erre vonatkozó írásbeli kérelem alapján.
 
 #### 24. A honvédségi szolgálati, kormánytisztviselői, közalkalmazotti és honvédelmi alkalmazotti igazolvány kiadásával kapcsolatos adatkezelés
 
-41. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a honvédek szolgálati viszonya fennállásának igazolására szolgáló szolgálati igazolványának, valamint a Honvédség személyi állományába tartozást igazoló kormánytisztviselői, közalkalmazotti és honvédelmi alkalmazotti igazolvány kiadása érdekében a 10. melléklet szerinti adatokat kezeli a Honvédséggel fennálló szolgálati, kormánytisztviselői, közalkalmazotti és honvédelmi alkalmazotti jogviszony létrejöttétől a jogviszony megszűnését vagy megszüntetését követő 5 évig.
+41. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve
 
-(2) A szolgálati igazolvány, a kormánytisztviselői és a közalkalmazotti igazolvány tartalmazza
+- a) a honvédek szolgálati viszonya fennállásának igazolására szolgáló szolgálati igazolványának, valamint
+- b) a Honvédség személyi állományába tartozást igazoló kormánytisztviselői, közalkalmazotti, honvédelmi alkalmazotti és munkavállalói igazolvány (a továbbiakban együtt: munkáltatói igazolvány)
+
+kiadása érdekében a 10. melléklet szerinti adatokat kezeli a Honvédséggel fennálló szolgálati, kormányzati szolgálati, politikai szolgálati, biztosi, közalkalmazotti, honvédelmi alkalmazotti jogviszony, illetve munkaviszony létrejöttétől a jogviszony megszűnését vagy megszüntetését követő 5 évig.
+
+(2) A szolgálati igazolvány és munkáltatói igazolvány (e § alkalmazásában a továbbiakban együtt: igazolvány) tartalmazza
 
 - a) az igazolvány megnevezését,
 - b) az igazolvány birtokosa nevét és a 10. melléklet e)–h) pontjai szerinti adatokat,

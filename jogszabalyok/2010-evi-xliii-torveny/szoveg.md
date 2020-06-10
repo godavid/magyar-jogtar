@@ -78,7 +78,8 @@ meghatározott hatáskörök együttesét kell érteni.
 - c) a szervnél vezetőként közszolgálati jogviszonyban álló személyre,
 - d) a szervvel vezető beosztással rendelkező, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban álló személyre,
 - e) a szervnél vezető beosztással rendelkező, a honvédek jogállásáról szóló törvény szerinti jogviszonyban álló személyre, illetve
-- f) a miniszterelnök közvetlen irányítása alatt álló és kormányrendeletben a központi államigazgatási szervnél irányítási jogkörrel felruházott kormánybiztosra
+- f) a miniszterelnök közvetlen irányítása alatt álló és kormányrendeletben a központi államigazgatási szervnél irányítási jogkörrel felruházott kormánybiztosra,
+- g) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 29. § (3) bekezdése szerinti személyre
 
 átruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
 

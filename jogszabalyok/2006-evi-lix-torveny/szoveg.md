@@ -6,7 +6,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 ### Általános rendelkezések
 
-1. § (1) A 4/A. §-ban és a 4/D. §-ban meghatározott személy különadó fizetésére kötelezett.
+1. § (1) A 4/A. §-ban és a 4/D. §-ban, valamint a 4/E. §-ban meghatározott személy különadó fizetésére kötelezett.
 
 (2) A különadóból származó bevétel a központi költségvetést illeti meg.
 
@@ -138,13 +138,29 @@ támogatása.
 
 (8) Amennyiben a külföldi kollektív befektetési értékpapírokat a befektetési alapkezelő forgalmazza és ehhez kapcsolódóan értékpapírszámla vezetést is végez, akkor a (2) bekezdés a) pontja szerint adóalany, és e tevékenysége körében megfelelően alkalmaznia kell az (1)–(5) bekezdés rendelkezéseit.
 
+### A hitelintézetek járványügyi helyzettel összefüggő különadója
+
+4/E. § (1) A hitelintézet a 2020. adóévre vonatkozóan a (2)–(7) bekezdésben foglaltak szerinti különadó megállapítására, bevallására és fizetésére kötelezett.
+
+(2) A hitelintézet a különadót 2020. június 10-ig külön nyomtatványon megállapítja és az adókötelezettséget 2020. június 10-ig, 2020. szeptember 10-ig és 2020. december 10-ig egyenlő részletekben megfizeti.
+
+(3) A különadó alapja a 4/A. § (4) bekezdés 1. pontja szerint megállapított 2020. adóévi adóalap 50 milliárd forintot meghaladó része.
+
+(4) A különadó mértéke 0,19 százalék.
+
+(5) A hitelintézet az (1) bekezdés szerinti kötelezettségét választása szerint csökkentheti a 4/A. § (14)–(19) bekezdésében foglaltak megfelelő alkalmazásával megállapított összeg.
+
+(6) A hitelintézetek járványügyi helyzettel összefüggő különadója hatálya alól bármely okból kikerülő hitelintézet az (1) bekezdés szerinti kötelezettségét a különadó hatálya alól történő kikerülését követő 30. napig teljesíti, ha az annak teljesítésére előírt határidő korábban nem telt le.
+
+(7) Amennyiben a hitelintézet a Gazdaságvédelmi Akcióterv végrehajtása érdekében a Járványügyi Alap feltöltését szolgáló, hitelintézetek járványügyi helyzettel összefüggő különadójáról szóló kormányrendelet alapján az (1) bekezdés szerinti kötelezettségének az egyes adózási tárgyú törvényeknek a koronavírus-járvány gazdasági hatásainak mérséklése érdekében szükséges módosításáról szóló 2020. évi XLVI. törvény hatálybalépését megelőzően eleget tett, akkor e kötelezettséget teljesítettnek kell tekinteni.
+
 ### Vegyes rendelkezések
 
 5. § (1)
 
-(2) A 4/A. § alapján megállapított és bevallott különadót a számviteli törvény III. Fejezete szerinti beszámolót készítő pénzügyi szervezetnek az adózás előtti eredmény terhére kell elszámolni.
+(2) A 4/A. § és a 4/E. § alapján megállapított és bevallott különadót a számviteli törvény III. Fejezete szerinti beszámolót készítő pénzügyi szervezetnek az adózás előtti eredmény terhére kell elszámolni.
 
-(3) A felügyeleti adatszolgáltatás céljából évközi főkönyvi zárásra és főkönyvi kivonat készítésére kötelezett, az éves beszámolóját a számviteli törvény III. Fejezete szerint összeállító pénzügyi szervezetnek a 4/A. § alapján megállapított és bevallott éves különadót időarányosan kell az évközi eredményben bemutatnia.
+(3) A felügyeleti adatszolgáltatás céljából évközi főkönyvi zárásra és főkönyvi kivonat készítésére kötelezett, az éves beszámolóját a számviteli törvény III. Fejezete szerint összeállító pénzügyi szervezetnek a 4/A. § és a 4/E. § alapján megállapított és bevallott éves különadót időarányosan kell az évközi eredményben bemutatnia.
 
 (4)
 
