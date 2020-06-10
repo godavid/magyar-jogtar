@@ -6,7 +6,7 @@ Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó 
 
 #### 1. Általános rendelkezések
 
-1. § (1) E törvényben foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erőkre, a Magyarország területén felállított nemzetközi katonai parancsnokságokra és azok állományának tagjaira, továbbá – a rájuk vonatkozó rendelkezések tekintetében – az állomány tagjainak Magyarország területén tartózkodó hozzátartozóira.
+1. § (1) E törvényben foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erőkre, a Magyarország területén felállított nemzetközi katonai parancsnokságokra és azok állományának tagjaira, továbbá – a rájuk vonatkozó rendelkezések tekintetében – az állomány tagjainak Magyarország területén tartózkodó hozzátartozóira és az USA-vállalkozókra.
 
 (2) Nem alkalmazandó e törvény valamely állam Magyarország területére akkreditált diplomáciai képviseletéhez tartozó katonai állomány tagjára, ideértve a katonai attaséhivatalok tagjait is.
 
@@ -21,6 +21,9 @@ Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó 
 - a) külföldi fegyveres erő: valamely külföldi állam haderejét alkotó szárazföldi, haditengerészeti és légierő, továbbá a haderő szervezetéhez kapcsolódó rendfenntartó erők összessége;
 - b) külföldi fegyveres erő állományának tagja: az a) pontban foglalt fegyveres erő katonai személyi állományának és a fegyveres erő alkalmazásában álló polgári személyzet tagja;
 - c) nemzetközi katonai parancsnokság: az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok jogállásáról, Párizsban, 1952. augusztus 28-án készült Jegyzőkönyv (a továbbiakban: Párizsi Jegyzőkönyv) I. cikk b), c) pontjának vagy XIV. cikkének hatálya alá tartozó, vagy az Egyesült Nemzetek Szervezete, az Európai Unió döntése alapján, vagy nemzetközi szerződésben nemzetközi katonai parancsnokság jogállással felállított nemzetközi katonai szervezet;
+- d) védelmi együttműködésről szóló magyar–amerikai megállapodás: a 2019. évi LI. törvénnyel kihirdetett, 2019. április 4-én aláírt, Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya közötti, a védelmi együttműködésről szóló megállapodás;
+- e) USA fegyveres erői: a védelmi együttműködésről szóló magyar–amerikai megállapodás II. cikk 1. pontja szerinti fegyveres erő;
+- f) USA-vállalkozók: a védelmi együttműködésről szóló magyar–amerikai megállapodás II. cikk 4. pontja hatálya alá tartozók.
 
 (2) E törvény alkalmazásában hozzátartozónak minősül az (1) bekezdés b) pontjában foglalt személynek vagy az (1) bekezdés c) pontjában foglalt nemzetközi katonai parancsnoksághoz tartozó állomány tagjának
 
@@ -199,6 +202,8 @@ részére.
 
 (7) A (3) és (5) bekezdésben foglaltak szerinti adatszolgáltatás térítésmentes.
 
+7/A. § Az USA-vállalkozók esetében nem kell nyilvántartást vezetni.
+
 #### 4. A külföldi fegyveres erők és állományuk jogállásához kapcsolódó egyes rendelkezések
 
 8. § Amennyiben nemzetközi szerződés eltérően nem rendelkezik, valamely állam Magyarország területén szolgálati céllal tartózkodó fegyveres erejét és annak katonai és polgári állománya tagjait megillető egyes jogosultságok és őket terhelő egyes kötelezettségek tekintetében a jelen alcímben foglaltakat kell alkalmazni.
@@ -242,11 +247,21 @@ részére.
 
 (2) Az (1) bekezdésben meghatározott mentességek adó-visszatérítés formájában illetik meg a feljogosított szervezeteket, amennyiben az azok létrehozásáról vagy székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződés másként nem rendelkezik.
 
-#### 6.
+#### 6. A védelmi együttműködésről szóló magyar–amerikai megállapodás alapján biztosítandó mentességekhez kapcsolódó egyéb rendelkezések
 
-15. §
+15. § (1) A védelmi együttműködésről szóló magyar–amerikai megállapodás XVI. cikkében meghatározott mentességek közvetlenül vásárláskor illetik meg a feljogosított USA-vállalkozókat, ha az ügylethez csatolták az állami adóhatóság által rendszeresített formanyomtatvány alapján kiállított adómentességi igazolást.
 
-16. §
+(2) Az (1) bekezdés szerinti beszerzések eljárásrendje megegyezik az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 107. § (1) bekezdés c) pontja szerinti Észak-atlanti Szerződés tagállamának belföldön állomásozó fegyveres ereje hivatali beszerzéseire vonatkozó eljárásrenddel.
+
+(3) Az (1) bekezdés szerinti esetekben a honvédelemért felelős miniszter által vezetett minisztérium állít ki adómentességi igazolást, amely a jogállás mellett a kérelmező által megadott adatok alapján igazolja, hogy a beszerzés az USA fegyveres erői által vagy javára történik.
+
+16. § (1) A védelmi együttműködésről szóló magyar–amerikai megállapodás XVII. cikkében az USA fegyveres erői személyi állományának, valamint hozzátartozóinak személyes beszerzéseire meghatározott mentességek adó-visszatérítés formájában illetik meg a feljogosított személyeket, ha a jogosult a Magyar Honvédség központi adatfeldolgozó szervének nyilvántartásában szerepel és ezt igazolja. Az ilyen áruk mennyisége nem haladhatja meg a személyes használatban indokolt mennyiséget és nem kelthetik azt a benyomást, hogy az árukat kereskedelmi célokra vásárolták vagy szerezték be.
+
+(2) Az (1) bekezdésben meghatározott beszerzések eljárásrendje megegyezik az Áfa tv. 107. § (1) bekezdés a) pontja szerinti diplomáciai és a hivatásos konzuli képviselet tagjainak személyes beszerzéseire vonatkozó eljárásrenddel, kivéve az Áfa tv. 108. § (3) bekezdésében foglaltakat.
+
+(3) Az (1) bekezdés szerinti esetekben a honvédelemért felelős miniszter által vezetett minisztérium állít ki adómentességi igazolást, amely igazolja a jogállást.
+
+16/A. § A mentességi igazolások hatályosságának kezdő időpontja legkorábban a védelmi együttműködésről szóló magyar–amerikai megállapodás hatálybalépésének napja lehet.
 
 #### 7. Felhatalmazó rendelkezések
 
