@@ -104,7 +104,7 @@ sorolt azon tevékenységek, melyek folytatása esetén a vevő magánszemély i
 
 (9) A Korm. rendelet 8. §-a szerint megfizetett adóelőleget a 7. § (4) bekezdése szerinti adófizetési kötelezettség, illetve a visszatérítendő adó megállapítása során az első adóévre megfizetett adóelőleg részeként kell figyelembe venni.
 
-10. § (1) Hatályát veszti a Korm. rendelet.
+10. § (1)
 
 (2) Nem kell
 
