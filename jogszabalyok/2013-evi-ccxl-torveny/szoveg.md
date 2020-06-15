@@ -1401,7 +1401,7 @@ tegyen újabb előterjesztést.
 - b) az a) pont szerinti követelések behajtása iránt végrehajtási eljárás nem indult, és
 - c) az elítélt vagy védője ilyen irányú védekezését vizsgálva megállapította, hogy a Polgári Törvénykönyv szerinti általános elévülési idő még nem telt el.
 
-(6) A büntetés-végrehajtási bíró a határozatban a kártalanítás megfizetésére az államot kötelezi és a kifizetésre a határozat kézbesítésétől számított hatvannapos határidő kitűzésével hívja fel.
+(6) A büntetés-végrehajtási bíró a határozatban a kártalanítás megfizetésére az államot kötelezi és a kifizetésre a határozat kézbesítésétől számított kilencvennapos határidő kitűzésével hívja fel.
 
 ### Utólagos büntetés-végrehajtási bírói eljárás
 
@@ -6082,6 +6082,10 @@ a büntetés-végrehajtási bíró ezen eljárások befejezéséig, illetve az E
 (14) A börtönzsúfoltsági kártalanításokkal kapcsolatos visszaélések megszüntetése érdekében szükséges haladéktalan intézkedésekről szóló 2020. évi IV. törvény hatálybalépését követően az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítási igény tárgyában hozott határozatban megítélt kártalanítási összeg 2020. június 15-ig nem fizethető ki. E bekezdés szerinti felfüggesztés időtartama a 70/B. § (6) bekezdésében foglalt időtartamba nem számít bele.
 
 (15) A börtönzsúfoltsági kártalanításokkal kapcsolatos visszaélések megszüntetése érdekében szükséges haladéktalan intézkedésekről szóló 2020. évi IV. törvény hatálybalépését megelőzően az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítási igény tárgyában hozott határozat a meghozatalakor hatályos szabályok szerint teljesítendő.
+
+(16) A börtönzsúfoltsági kártalanításokkal kapcsolatos visszaélések megszüntetése érdekében szükséges haladéktalan intézkedésekről szóló 2020. évi IV. törvény hatálybalépését követően az alapvető jogokat sértő elhelyezési körülmények miatti kártalanítási igény tárgyában hozott határozatban megítélt kártalanítási összegből a 10/B. § (5) bekezdés a) pontja szerinti kifizetés 2020. december 31-ig nem teljesíthető. E bekezdés szerinti felfüggesztés időtartama a 70/B. § (6) bekezdésében foglalt időtartamba nem számít bele.
+
+(17) A (14) bekezdés alapján felfüggesztett kifizetések esetén – a (16) bekezdésben foglaltakra figyelemmel – a 10/B. §-ban meghatározottakat 2020. szeptember 15. napjáig kell teljesíteni.
 
 ### Hatályon kívül helyező rendelkezés
 
