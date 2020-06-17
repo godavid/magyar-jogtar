@@ -418,23 +418,31 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 (2) A hegyközség által létesített hegyőrségre és a hegyőrre – az e törvényben foglalt eltérésekkel – a mezei őrszolgálatra és a mezőőrre vonatkozó rendelkezéseket kell alkalmazni.
 
-17. § (1) A mezei őrszolgálat létrehozását a mezőgazdasági igazgatási szervnek be kell jelenteni, amely az őrszolgálatot közhiteles hatósági nyilvántartásba veszi.
+17. § (1) A mezei őrszolgálatot létrehozó települési önkormányzat a mezei őrszolgálat létrehozását – a (2) bekezdés a)–d) pontja szerinti adatok megadásával – bejelenti a mezőgazdasági igazgatási szervnek. A települési önkormányzat a (2) bekezdésben meghatározott adatokban történő változást, valamint a mezei őrszolgálat megszűnését bejelenti a mezőgazdasági igazgatási szervnek.
 
-(2) A bejelentésnek tartalmaznia kell az őrszolgálat létszámát, az őrzött terület mértékét és a földrészletek helyrajzi számát.
+(2) A mezőgazdasági igazgatási szerv nyilvántartást vezet
+
+- a) a mezei őrszolgálatot létrehozó települési önkormányzat elnevezéséről és székhelyéről,
+- b) a mezei őrszolgálat megalakításának időpontjáról,
+- c) a mezei őrszolgálat létszámáról,
+- d) a mezei őrszolgálat működési területe nagyságáról és a működési területhez tartozó földrészletek helyrajzi számáról, valamint
+- e) a mezei őrszolgálat megszűnésének időpontjáról.
 
 18. § (1) A mezei őrszolgálat a nyilvántartásba vett területen (a továbbiakban: működési terület) látja el tevékenységét.
 
 (2) Az őrszolgálat létszámát a működési területhez és a körzetben tevékenykedő egyéb közfeladatot ellátó őrszolgálatok működéséhez mérten úgy kell megállapítani, hogy annak napi, rendszeres ellenőrzése biztosítható legyen.
 
-(3) A vegyes minősítésű területeken (erdő, mezőgazdasági terület, halastó stb.) a mező-, hegy-, halászati őrök, hivatásos vadászok és az erdészeti szakszemélyzet az egymás hatáskörébe tartozó feladatok ellátásával is megbízhatók.
+(3) A vegyes minősítésű területeken (erdő, mezőgazdasági terület, halastó stb.) a mező-, hegy-, halászati őrök és az erdészeti szakszemélyzet az egymás hatáskörébe tartozó feladatok ellátásával is megbízhatók.
 
-19. § (1) Az önkormányzati mezei őrszolgálat megalakítási, fenntartási és működési költségeit a földhasználó, ha ez ismeretlen, a tulajdonos által kifizetett mezőőri járulékból és a központi költségvetés által biztosított hozzájárulásból kell fedezni. A mezőőri járulék mértékét és megfizetésének módját a települési, a fővárosban a fővárosi kerületi önkormányzat, a mezei őrszolgálat létesítéséről és működéséről szóló helyi önkormányzati rendeletében szabályozza.
+19. § (1) Az önkormányzati mezei őrszolgálat megalakítási, fenntartási és működési költségeit a földhasználó, ha ez ismeretlen, a tulajdonos által kifizetett mezőőri járulékból és a központi költségvetés által biztosított hozzájárulásból kell fedezni. A mezőőri járulék mértékét, megfizetésének módját, valamint a kedvezményekre és mentességekre vonatkozó előírásokat a települési, a fővárosban a fővárosi kerületi önkormányzat, a mezei őrszolgálat létesítéséről és működéséről szóló helyi önkormányzati rendeletében szabályozza.
 
 (1a) Az önkormányzat a mezei őrszolgálat megalakítása előtt az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott együttműködési megállapodást köt a rendőrséggel.
 
 (2) A megalakítási, fenntartási és működési költségek felét, de legfeljebb a külön jogszabályban meghatározott összeget a központi költségvetés biztosítja hozzájárulásként az agrárpolitikáért felelős miniszter által vezetett minisztérium fejezetéből.
 
 (3) Az önkormányzati mezei őrszolgálat esetében, a mezőőri járulék adók módjára behajtandó köztartozásnak minősül. Az eljárásra az ingatlan fekvése szerinti települési önkormányzat jegyzője jogosult
+
+19/A. § A 17. § (2) bekezdése szerinti nyilvántartás adatait és a 21. § (3) bekezdésében meghatározott adatokat a mezőgazdasági igazgatási szerv az élelmiszerlánc-felügyeleti információs rendszerben kezeli.
 
 ### A mezőőr
 
@@ -444,9 +452,21 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 21. § (1) A mezőőr feladatát az őrszolgálatot létrehozó települési önkormányzat (a továbbiakban: fenntartó) utasításai szerint végzi, szakmai felügyeletét a mezőgazdasági igazgatási szerv és a rendőrség látja el.
 
-(2) A fenntartó a mezőőr foglalkoztatásáról, illetve a foglalkoztatás megszüntetéséről a mezőgazdasági igazgatási szervet és a rendőrséget a foglalkoztatást, illetve annak megszüntetését megelőzően öt napon belül írásban értesíti.
+(2) A fenntartó a mezőőr foglalkoztatásáról, illetve a foglalkoztatás megszüntetéséről a mezőgazdasági igazgatási szervet és a rendőrséget – a (3) bekezdés szerinti adatok továbbításával – a foglalkoztatást, illetve annak megszüntetését megelőzően öt napon belül írásban értesíti.
 
-22. § (1) A mezőőr e törvényből, a működési és szolgálati szabályzatból, mezőgazdasági alapismeretből, lőfegyverismeretből, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott ismeretekből vizsgát tesz.
+(3) A mezőőrök központi nyilvántartása, valamint a 19. § (2) bekezdése szerinti hozzájárulás biztosítása érdekében a mezőgazdasági igazgatási szerv a (2) bekezdés szerinti értesítés alapján nyilvántartást vezet a mezőőr
+
+- a) természetes személyazonosító adatairól,
+- b) lakcíméről,
+- c) eskütételének időpontjáról,
+- d) fegyvertartási engedélye számáról,
+- e) munkáltatója megnevezéséről és címéről,
+- f) tevékenységi területéről, valamint
+- g) szolgálati igazolványa és szolgálati jelvénye sorszámáról.
+
+(4) A (3) bekezdés szerinti nyilvántartásban szereplő személyes adatok a foglalkoztatás megszűnésének évét követő év végéig kezelhetők.
+
+22. § (1) A mezőőr e törvényből, a működési és szolgálati szabályzatból, mezőgazdasági alapismeretből, lőfegyverismeretből, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott ismeretekből – a mezőgazdasági igazgatási szerv által szervezett képzés, valamint éves továbbképzés elvégzését követően – a mezőgazdasági szerv előtt vizsgát tesz.
 
 (2) A mezőőrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által kiadott szolgálati igazolványa igazolja. A mezőőr szolgálati igazolványának, tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók. A mezőgazdasági igazgatási szerv a mezőőr számára az előírt vizsga és eskü letétele után szolgálati naplót ad ki.
 
@@ -505,7 +525,7 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy a honvédelemért felelős miniszterrel, a polgári hírszerzési tevékenység irányításáért felelős miniszterrel és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel egyetértésben rendeletben meghatározza a fegyveres biztonsági őrség működési és szolgálati szabályzatát, ennek keretében különösen a fegyveres biztonsági őrség keretében végzett szolgálat irányítási, szervezési, tervezési és ellenőrzési szabályait, a szolgálat ellátásához kapcsolódó képesítési feltételeket, a képzési és a továbbképzési renddel összefüggő szabályokat, a 7. §-ban előírt vizsga követelményeit és a vizsgáztatás rendjét, a szolgálatellátási renddel összefüggő szabályokat, a kényszerítő eszközök – különös tekintettel a lőfegyverre – alkalmazásával kapcsolatos részletes szabályokat.
 
-(6) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a rendészetért felelős miniszterrel – a közúton a jármű megállításával és ellenőrzésével kapcsolatban a közlekedésért felelős miniszterrel – egyetértésben rendelettel adja ki a mezőőr és a hegyőr működésének, szolgálati viszonyának, valamint vizsgáztatási rendjének szabályzatát.
+(6) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a rendészetért felelős miniszterrel – a közúton a jármű megállításával és ellenőrzésével kapcsolatban a közlekedésért felelős miniszterrel – egyetértésben rendelettel adja ki a mezőőr és a hegyőr működésének, szolgálati viszonyának, valamint képzési és vizsgáztatási rendjének szabályzatát.
 
 (7) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az önkormányzati mezei őrszolgálat megalakításához, fenntartásához és működéséhez nyújtandó állami hozzájárulás igénybevételének rendjét és feltételeit, valamint a hozzájárulás legmagasabb mértékét.
 

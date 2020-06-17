@@ -28,21 +28,28 @@ Az Országgyűlés a mezőgazdasági termelést érintő időjárási és más t
 - 13. hozamérték-csökkenés: a referencia hozamérték és a tárgyévi hozamérték különbsége;
 - 14. jégeső: szilárd halmazállapotú, jégszemcsékből és azok képződményeiből álló csapadék;
 - 15. jégesőkár: a kockázatviselés helyén termesztett növényekben a jégeső miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
+- 15a. jövedelemcsökkenés: a referenciajövedelem és a tárgyévi mezőgazdasági jövedelem különbsége;
 - 16. kárenyhítő juttatás: a 7. § szerinti mezőgazdasági kockázatkezelési pénzeszköz terhére a kockázatközösségben tag mezőgazdasági termelő számára történő kifizetés;
 - 16/a. kármegállapítást támogató szerv: a káreseményt kiváltó időjárási jelenséget és természeti eseményt vagy annak következményét megfigyelő, arról adatot gyűjtő és a kármegállapítást alátámasztó adatot szolgáltató szerv;
 - 17. kockázatviselés helye: az egységes kérelemben feltüntetett azon terület, amely alapján a mezőgazdasági termelő kárenyhítési hozzájárulás-fizetési kötelezettsége megállapításra kerül;
+- 17a. krízisbiztosítási kompenzáció: a krízisbiztosítási pénzeszköz terhére a mezőgazdasági krízisbiztosítási rendszerben tag mezőgazdasági termelő részére történő kifizetés;
 - 18. mezőgazdasági árvíz: a folyók vagy vízfolyások védművekkel határolt területéről nem emberi beavatkozás miatt kilépő víz;
 - 19. mezőgazdasági árvízkár: a kockázatviselés helyén termesztett növényben a mezőgazdasági árvíz miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
 - 20. mezőgazdasági biztosítás: a lábon álló növénykultúrára, továbbá a gazdasági céllal tartott, illetve tenyésztett haszonállatra kötött vagyonbiztosítás;
+- 20a. mezőgazdasági jövedelem: az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet 39. cikk (1) bekezdésében foglaltaknak megfelelően számított jövedelem;
 - 21. mezőgazdasági káresemény: a mezőgazdasági termelő használatában lévő termőföldön a káreseménnyel érintett területen a termesztett növénykultúra 30%-ot meghaladó mértékű várható hozamcsökkenését okozó aszálykár, belvízkár, felhőszakadáskár, jégesőkár, mezőgazdasági árvízkár, tavaszi fagykár, őszi fagykár, téli fagykár vagy viharkár;
 - 22. mezőgazdasági őstermelő: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18–19. pontja szerinti magánszemély;
-- 23. mezőgazdasági termelő: az egységes kérelmet benyújtó, a mezőgazdasági és vidékfejlesztési támogatási szerv által kérelemre nyilvántartásba vett ügyfél;
+- 23. mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés a) pontjában és 9. cikkében foglaltaknak megfelelő, a mezőgazdasági és vidékfejlesztési támogatási szerv által kérelemre nyilvántartásba vett ügyfél;
+- 23a. mezőgazdasági termék: az Európai Unió működéséről szóló Szerződés I. számú mellékletében felsorolt, mezőgazdasági termelő által előállított termék, a halászati és akvakultúra termékek kivételével;
 - 24. mezőgazdasági termény termeltetése: a mezőgazdasági termény termelőjével kötött olyan megállapodás, amely keretében a mezőgazdasági termény termelője a mezőgazdasági termény megtermelését segítő szolgáltatást vesz igénybe, és az így megtermelt mezőgazdasági terményt a szolgáltatás nyújtója saját felhasználás vagy továbbértékesítés céljára átveszi;
+- 24a. mezőgazdasági tevékenység: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés c) pontja szerinti tevékenység;
+- 24b. önkéntes befizetés: olyan befizetés, amit természetes vagy jogi személy teljesít az országos jégkármegelőző rendszer vagy a krízisbiztosítási rendszer részére;
 - 25. őszi fagy: a kockázatviselés helyén az őszi időszakban a talajszinttől számított két méter magasságban mért mínusz 2 °C vagy annál alacsonyabb hőmérséklet;
 - 25a. őszi fagykár: az őszi fagy miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
 - 26. referenciahozam: a referencia-időszak hozamának – ideértve szükség esetén az átlaghozamot is – számtani átlaga;
 - 27. referencia hozamérték: a referenciahozam alapján számított átlagtermésnek a miniszter által vezetett minisztérium internetes honlapján közzétett közleményben meghatározott referenciaáron számított értéke;
 - 28. referencia-időszak: a tárgyévet megelőző ötéves időszakból a legmagasabb és a legalacsonyabb hozammal rendelkező kettő év elhagyásával képzett három év;
+- 28a. referenciajövedelem: a mezőgazdasági termelő mezőgazdasági jövedelmének a tárgyévet megelőző háromévi átlaga;
 - 29. szántóföldi zöldség: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. melléklet második rész II. áruosztály 7. árucsoportjába tartozó termékek, továbbá a görög- és a sárgadinnye;
 - 30. tavaszi fagy: a kockázatviselés helyén a tavaszi időszakban a talajszinttől számított kettő méter magasságban mért mínusz 2 °C vagy annál alacsonyabb hőmérséklet;
 - 30a. tavaszi fagykár: a téli nyugalmi periódus végét követően jelentkező tavaszi fagy miatt, a kockázatviselés helyén termesztett növényben bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
@@ -110,9 +117,14 @@ megjelölésével nyújtanak be egységes kérelmet, az elemi káresemények mia
 
 (5) A (4) bekezdés szerinti költségvetési támogatás összegét az agrárkár-enyhítési szerv által a tárgyév július 15-ig a miniszter részére átadott és a (4) bekezdésben foglaltakat tartalmazó adatok alapján kell megállapítani.
 
-(6) Az (1) bekezdés a) és b) pontja szerinti pénzforrás legfeljebb 4%-a a miniszter által meghatározottak szerint az időjárási kockázatkezelési rendszer működtetésével és fejlesztésével kapcsolatos végrehajtási költségek fedezetére használható fel.
+(6) Az (1) bekezdés a) és b) pontja szerinti pénzforrás legfeljebb 4%-a a miniszter által meghatározottak szerint
 
-(7) Az (1) bekezdés a) és b) pontja szerinti összegek és c) pont szerinti maradvány nem vonható el, nem csoportosítható át, nem csökkenthető és nem zárolható, arra a mindenkori költségvetési törvény által előírt tartalék- és maradványképzési kötelezettség nem vonatkozik. Az összeg tárgyévben kárenyhítő juttatásra fel nem használt részét a következő évre kötelezően át kell vinni.
+- a) az időjárási kockázatkezelési rendszer működtetésével és fejlesztésével kapcsolatos végrehajtási költségek,
+- b) a 2021–2027. időszakra vonatkozó Közös Agrárpolitika hazai végrehajtásához szükséges tervezés meghatározott költségei – beleértve a mezőgazdasági kockázatkezelési eszközök kialakítását és továbbfejlesztését –
+
+fedezetére használható fel.
+
+(7) Az (1) bekezdés a) és b) pontja szerinti összegek, az (1) bekezdés c) pontja szerinti maradvány, valamint a (6) bekezdés szerinti összegekből származó maradvány – beleértve az államháztartás központi alrendszerébe tartozó költségvetési szerv számára feladat ellátása céljából átadott, tárgyévben fel nem használt összeget – nem vonható el, nem csoportosítható át, nem csökkenthető és nem zárolható, arra a mindenkori költségvetési törvény által előírt tartalék- és maradványképzési kötelezettség nem vonatkozik. Ezen összegek tárgyévben kárenyhítő juttatásra, valamint a (6) bekezdésben foglalt célokra fel nem használt részével a miniszter által vezetett minisztérium költségvetési fejezet fejezeti kezelésű előirányzatán nyilvántartott összeget a következő évben meg kell növelni.
 
 8. § A mezőgazdasági termelőt sújtó időjárási kockázatokra kötött mezőgazdasági biztosítás díjának támogatására a következő pénzforrások használhatóak fel:
 
@@ -158,7 +170,7 @@ megjelölésével nyújtanak be egységes kérelmet, az elemi káresemények mia
 
 (4) A kárenyhítési hozzájárulás-fizetési kötelezettség és a kárenyhítő juttatásra való jogosultság megállapításakor a termőre fordult és az elemi káresemény bekövetkezésekor még termő ültetvényterület vehető figyelembe.
 
-(5) Jogszabály eltérő rendelkezése hiányában az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő a neki járó kárenyhítő juttatás felére jogosult, amennyiben az egységes kérelemben, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamértékének legalább felére kiterjedően – az adott kárenyhítési évre vonatkozóan – nem köt az adott növénykultúrára jellemző káreseményre kiterjedő hatályú mezőgazdasági biztosítást.
+(5) Jogszabály eltérő rendelkezése hiányában az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő a neki járó kárenyhítő juttatás felére jogosult, amennyiben az egységes kérelemben bejelentett terület legalább felére kiterjedően, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamértékének legalább felére kiterjedően – az adott kárenyhítési évre vonatkozóan – nem köt az adott növénykultúrára jellemző, e törvény szerinti aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, tavaszi fagy, őszi fagy, téli fagy vagy vihar miatt bekövetkező káreseményre kiterjedő hatályú mezőgazdasági biztosítást.
 
 12. § (1) Az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő legfeljebb a hozamérték-csökkenésnek a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló, 2014–2020 időszakra vonatkozó európai uniós iránymutatásnak a természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség által okozott veszteségek ellentételezésére nyújtott támogatásról szóló 1.2.1.2. alfejezet (362) pontjában meghatározott 80%-os mértéke szerinti kárenyhítő juttatásra jogosult, amely mértékbe bele kell számítani az ugyanazon elszámolható költségek tekintetében megállapított, bármely egyéb – állami vagy uniós társfinanszírozású – támogatást és a kárenyhítő juttatás iránti kérelemben szereplő káresemény után a biztosító által kifizetett kártérítési összeget is.
 
@@ -318,7 +330,7 @@ adatokat.
 - a) a miniszter a felügyeleti jogkör gyakorlása és a mezőgazdasági káreseményekkel kapcsolatos szakmapolitikai döntések meghozatala,
 - b) a mezőgazdasági igazgatási szerv az agrárkár-megállapító szerv feletti szakmai irányítási feladatainak ellátása,
 - c) az agrárkár-megállapító szerv az illetékességi területére vonatkozó adatok tekintetében az agrárkár-megállapítással összefüggő feladatainak ellátása,
-- d) az agrárgazdasági elemzésekkel foglalkozó intézmény statisztikai és gazdaságelemzési feladatai ellátása, és
+- d) az agrárgazdasági elemzésekkel foglalkozó intézmény statisztikai és gazdaságelemzési feladatai ellátása, valamint a Központi Statisztikai Hivatal a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben, és
 - e) a mezőgazdasági biztosítási díjtámogatás tekintetében a (2) bekezdés e) pontja szerinti adatok vonatkozásában az agrár-vidékfejlesztésért felelős miniszter a Vidékfejlesztési Program végrehajtásához kapcsolódó ellenőrzési és monitoring feladatainak ellátása
 
 céljából.
@@ -376,6 +388,97 @@ céljából.
 
 (10) Az országos jégkármegelőző rendszernek a létrehozására irányuló tevékenység – így különösen a tervezés és a kivitelezés – közfeladatnak minősül, amennyiben ezt a tevékenységet a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § 1. pontjának a) alpontja szerinti átlátható szervezet végzi.
 
+### II/A. Fejezet — A MEZŐGAZDASÁGI KRÍZISBIZTOSÍTÁSI RENDSZER
+
+19/B. § (1) Az állam – a mezőgazdasági termelők időjárási és más kockázatok következtében kialakuló jövedelemingadozásainak mérséklése és a mezőgazdasági jövedelmek stabilizálása céljából – mezőgazdasági krízisbiztosítási rendszert (a továbbiakban: krízisbiztosítási rendszer) működtet.
+
+(2) A krízisbiztosítási szerv látja el a krízisbiztosítási rendszerrel összefüggő
+
+- a) képviseleti és végrehajtási,
+- b) nyilvántartási,
+- c) monitoring-adatgyűjtési, valamint
+- d) jogszabályban meghatározott egyéb
+
+feladatokat.
+
+(3) A krízisbiztosítási szerv – az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1305/2013/EU rendelet) 39. cikk (2) bekezdés a) pontja szerinti – akkreditálását az 1305/2013/EU rendelet b) és c) pontjaira is figyelemmel a miniszter az általa megadott és a miniszter által vezetett minisztérium hivatalos lapjában közzétett szempontok alapján végzi el. A miniszter jogosult az akkreditáció feltételrendszerét felülvizsgálni, az annak történő megfelelést ellenőrizni.
+
+19/C. § (1) A krízisbiztosítási rendszerhez a mezőgazdasági termelő a csatlakozási kérelmének a krízisbiztosítási szervhez tárgyév február 28-áig történő benyújtásával, hároméves időtartamra önként csatlakozhat.
+
+(2) Ha a krízisbiztosítási rendszerben tag mezőgazdasági termelő meghal vagy jogutód nélkül megszűnik, akkor a krízisbiztosítási rendszerben lévő tagsága megszűnik.
+
+(3) A krízisbiztosítási rendszerben tag mezőgazdasági termelő krízisbiztosítási hozzájárulást fizet, amelynek alapja a mezőgazdasági termelő által használt termőföld területe, illetve az átlagos állatállomány.
+
+(4) A krízisbiztosítási rendszerben tag mezőgazdasági termelő a krízisbiztosítási hozzájárulást tárgyév október 15-éig, átutalási megbízással, a befizető azonosítására alkalmas módon, az ügyfél-azonosító, valamint az adószám vagy adóazonosító jel megadásával köteles megfizetni azzal, hogy határidőben történő befizetésnek kizárólag a krízisbiztosítási szerv e törvény végrehajtásáról szóló rendeletben meghatározott számláján tárgyév október 15-éig jóváírt összeg tekinthető.
+
+(5) A meg nem fizetett krízisbiztosítási hozzájárulás adók módjára behajtandó köztartozásnak minősül. A krízisbiztosítási hozzájárulás megfizetésének elmulasztása esetén az eljárási tv. 59., 60. és 62. §-ában foglaltakat kell alkalmazni.
+
+19/D. § (1) A krízisbiztosítási rendszerben tag mezőgazdasági termelő az e törvényben foglalt feltételek teljesítése esetén krízisbiztosítási kompenzációra jogosult, ha
+
+- a) az e törvény végrehajtásáról szóló rendeletben meghatározott jövedelemszámítási módszertan alapján megállapított mezőgazdasági jövedelme a tárgyévben 30%-ot meghaladó mértékben visszaesett a referenciajövedelméhez képest,
+- b) a krízisbiztosítási kompenzációs kérelmét az e törvény végrehajtásáról szóló rendeletben meghatározott módon és határidőben benyújtotta,
+- c) a krízisbiztosítási hozzájárulást a 19/C. § (4) bekezdésében foglaltak alapján határidőben és maradéktalanul befizette, és
+- d) a mezőgazdasági tevékenységből származó bevételeket és költségeket elkülönítetten tartja nyilván a nem mezőgazdasági tevékenységből származó bevételektől és költségektől.
+
+(2) A krízisbiztosítási kompenzáció igénybevételére jogosultságot szerezhet az örökös vagy jogutód, ha az örökhagyó vagy a jogelőd tárgyévi krízisbiztosítási kompenzáció igénybevételével összefüggő kötelezettségei teljesülnek és megfelel az (1) bekezdésben meghatározott feltételeknek.
+
+(3) A mezőgazdasági termelő krízisbiztosítási kompenzációra nem jogosult az után a jövedelemcsökkenés után, amely a mezőgazdasági tevékenység körében felmerülő gondatlanság, üzemméret-változás, a krízisbiztosítási rendszer céljaival ellentétes előnyhöz jutás érdekében a körülmények mesterséges létrehozásával vagy egyéb, jogszabályban meghatározott ok miatt következik be.
+
+(4) A krízisbiztosítási kompenzáció összege – amennyiben az Európai Unió kötelezően alkalmazandó jogi aktusa másként nem rendelkezik – legfeljebb a jövedelemcsökkenés 69,9%-a.
+
+19/E. § (1) A krízisbiztosítási kompenzáció kifizetésére felhasználható pénzforrások (a továbbiakban: krízisbiztosítási pénzeszköz):
+
+- a) a krízisbiztosítási rendszerben tag mezőgazdasági termelő által megfizetett összes krízisbiztosítási hozzájárulás tárgyévet követő év május 31-i állománya,
+- b) önkéntes befizetések tárgyévet követő év május 31-i állománya,
+- c) az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatás összege,
+- d) az állam által a központi költségvetésből nyújtott támogatás,
+- e) az a)–d) pontban foglaltak szerinti összeg mindenkori maradványa.
+
+(2) A krízisbiztosítási pénzeszközt a krízisbiztosítási szerv kezeli és azt saját számláján tartja nyilván.
+
+(3) Az (1) bekezdés c) pontja szerinti támogatást a krízisbiztosítási szerv igényli.
+
+(4) Az (1) bekezdés a) és b) pontja szerinti pénzforrások (a továbbiakban: a krízisbiztosítási rendszer saját forrása) kizárólag a krízisbiztosítási kompenzáció kifizetésére használhatóak fel.
+
+(5) Ha a krízisbiztosítási pénzeszköz rendelkezésre álló összege nem fedezi a tárgyévre vonatkozóan megállapított összes krízisbiztosítási kompenzáció összegét, akkor a krízisbiztosítási kompenzáció mértékét az adott évben valamennyi krízisbiztosítási kompenzációra jogosult mezőgazdasági termelőnél arányosan csökkenteni kell azzal, hogy a krízisbiztosítási kompenzáció összege nem lehet kevesebb, mint a tárgyévi krízisbiztosítási hozzájárulás 120%-a.
+
+(6) A krízisbiztosítási pénzeszköz felhasználására vonatkozóan a krízisbiztosítási szerv évenként egyszer, az e törvény végrehajtásáról szóló rendeletben meghatározott határidőn belül kifizetési tervben tesz javaslatot a miniszternek.
+
+(7) Ha a (4) bekezdésben foglalt arányos csökkentés mértéke eléri vagy meghaladja az 50%-ot, akkor jogszabály alapján az összes tag mezőgazdasági termelő, a kompenzációra jogosult mezőgazdasági termelők vagy meghatározott összeg feletti kompenzációra jogosult mezőgazdasági termelők részére pótbefizetés írható elő annak érdekében, hogy az arányos csökkentés mértéke mérsékelhető vagy megszüntethető legyen.
+
+(8) A pótbefizetés összege nem haladhatja meg a fizetésre kötelezett mezőgazdasági termelő tárgyévi krízisbiztosítási hozzájárulása 50%-át. A pótbefizetést krízisbiztosítási hozzájárulásnak kell tekinteni. A pótbefizetés nem teljesítése esetén a fizetésre kötelezett mezőgazdasági termelő a tárgyévi kompenzációra nem jogosult.
+
+(9) Ha a mezőgazdasági termelő nagyobb összegű pótbefizetést teljesít, mint ami a kompenzáció teljes körű teljesítéséhez szükséges, akkor az így keletkezett többletbefizetéssel az érintett mezőgazdasági termelő következő esedékes hozzájárulását kell csökkenteni.
+
+(10) A (6) bekezdés szerinti pótbefizetés előírása esetén pótlólagos kompenzációs kifizetést kell teljesíteni. A pótlólagos kompenzációs kifizetés forrása kizárólag a pótbefizetés és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatás összege.
+
+(11) A krízisbiztosítási szerv a miniszter kérésére a krízisbiztosítási rendszer működésével összefüggésben adatot szolgáltat, és évente az e törvény végrehajtásáról szóló rendeletben meghatározott határidőn belül összefoglaló jelentést készít.
+
+19/F. § (1) A krízisbiztosítási szerv eljárására – az e törvényben foglalt eltérésekkel – az eljárási tv. I., III., IV., VI. és VII. fejezetében foglalt rendelkezéseket kell alkalmazni.
+
+(2) A krízisbiztosítási szerv a mezőgazdasági termelő krízisbiztosítási kompenzációs kérelmére a krízisbiztosítási kompenzációra való jogosultságról és a krízisbiztosítási kompenzáció összegéről
+
+- a) a mezőgazdasági termelő által tett nyilatkozatok,
+- b) a krízisbiztosítási hozzájárulás teljesítése,
+- c) adminisztratív vagy helyszíni ellenőrzés megállapításai, és
+- d) a rendelkezésre álló krízisbiztosítási pénzeszköz
+
+alapján dönt.
+
+(3) A krízisbiztosítási szerv (2) bekezdés c) pont szerinti ellenőrzése során az e törvény végrehajtásáról szóló rendeletben meghatározottak szerint figyelembe veszi az agrárgazdasági elemzésekkel foglalkozó intézmény által meghatározott ellenőrző adatokat.
+
+(4) Ha a krízisbiztosítási kompenzáció összege a 19/E. § (5) bekezdése szerinti arányos csökkentés alkalmazásával kerül megállapításra, akkor kizárólag ezen indokkal a csökkentett mértékben megállapított krízisbiztosítási kompenzációról szóló döntés ellen fellebbezésnek nincs helye.
+
+19/G. § (1) A mezőgazdasági termelőnek a jövedelemcsökkenés meghatározása érdekében a krízisbiztosítási szerv részére adatot kell szolgáltatnia a tárgyévre és a tárgyévet megelőző évekre vonatkozó
+
+- a) mezőgazdasági tevékenységből származó jövedelemadatairól,
+- b) éves átlagos állatlétszám adatairól, és
+- c) használatában lévő földterülete adatairól (hektár, hasznosítási kód).
+
+(2) Az agrárgazdasági elemzésekkel foglalkozó intézmény statisztikai és gazdaságelemzési feladatai ellátása céljából jogosult megismerni a csatlakozási kérelem adatait, a krízisbiztosítási hozzájárulás és a krízisbiztosítási kompenzáció összegét egyedi azonosításra alkalmas módon.
+
+(3) A Központi Statisztikai Hivatal részére – az Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolás alapján, az ahhoz szükséges mértékben – az (1) bekezdés szerinti adatokat statisztikai célra, egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletes szabályait az Stt. 28. §-a szerinti megállapodásban kell rögzíteni.
+
 ### III. Fejezet — A MEZŐ-, ÉS ERDŐGAZDASÁGOT SÚJTÓ IDŐJÁRÁSI ÉS MÁS TERMÉSZETI JELLEGŰ ELHÁRÍTHATATLAN
 
 KÜLSŐ OK (VIS MAIOR) MIATTI KÁRESEMÉNYEK KEZELÉSE
@@ -425,9 +528,12 @@ amelynek összegéről – a Magyar Agrár-, Élelmiszergazdasági és Vidékfej
 - b) az agrárkár-enyhítési szervet,
 - c) a mezőgazdasági igazgatási szervet,
 - d) az agrárgazdasági elemzésekkel foglalkozó intézményt, valamint
-- e) az országos jégkármegelőző rendszert működtető szervet
+- e) az országos jégkármegelőző rendszert működtető szervet,
+- f) a krízisbiztosítási szervet
 
 rendeletben jelölje ki.
+
+(1a) Felhatalmazást kap a Kormány, hogy a krízisbiztosítási hozzájárulás mértékét rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy:
 
@@ -443,7 +549,15 @@ rendeletben jelölje ki.
 - j) a kárenyhítési hozzájárulás megfizetésének részletes szabályait,
 - k) a kárenyhítő juttatások kifizetési terve elkészítésének határidejét,
 - l) a kockázatkezelési adatbázis feletti rendelkezési jogot, a kármegállapítást támogató szervek által a kockázatkezelési adatbázis működéséhez szükséges adatok körét és az adatbázisban szereplő adatok felhasználására vonatkozó szabályokat,
-- m) az időjárási kockázatkezelési rendszer működtetésével és fejlesztésével kapcsolatos végrehajtási költségek fedezetére szolgáló pénzforrás felhasználásának részletszabályait
+- m) az időjárási kockázatkezelési rendszer működtetésével és fejlesztésével kapcsolatos végrehajtási költségek fedezetére szolgáló pénzforrás felhasználásának részletszabályait,
+- n) a mezőgazdasági krízisbiztosítási rendszer indulási éve meghatározását, valamint a rendszerhez való csatlakozás részletes szabályait,
+- o) a krízisbiztosítási hozzájárulás megállapításának módját, megfizetésének, pótbefizetésnek és az önkéntes befizetésnek a részletes szabályait
+- p) a mezőgazdasági jövedelem és jövedelemcsökkenés számításának részletes szabályait,
+- q) a krízisbiztosítási kompenzációs kérelem benyújtására és a krízisbiztosítási kompenzációs döntés meghozatalára vonatkozó részletes szabályokat,
+- r) a krízisbiztosítási kompenzáció kifizetésére és a pótlólagos kompenzációs kifizetésre, valamint a kifizetési terv és az összefoglaló jelentés elkészítésére vonatkozó részletes szabályokat,
+- s) az agrárgazdasági elemzésekkel foglalkozó intézmény által meghatározott ellenőrző adatok körét és azok felhasználásának részletes szabályait,
+- t) a krízisbiztosítási rendszer működésével kapcsolatos eljárási szabályokat,
+- u) a 2020 utáni Közös Agrárpolitika hazai végrehajtásához szükséges tervezés és a mezőgazdasági kockázatkezelési rendszer továbbfejlesztésének a 7. § (6) bekezdés szerinti pénzösszeg terhére finanszírozható költségeinek a meghatározását
 
 rendeletben állapítsa meg.
 
@@ -461,7 +575,7 @@ rendeletben állapítsa meg.
 
 - a)–b)
 - c) a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló, 2014–2020 időszakra vonatkozó európai uniós iránymutatás a természeti katasztrófák által a mezőgazdasági ágazatban okozott károk helyreállításához nyújtott támogatásról szóló 1.2.1.1. és a természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség által okozott veszteségek ellentételezésére nyújtott támogatásról szóló 1.2.1.2. alfejezetei, és
-- d) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet kockázatkezelésről szóló 36., termény-, állat- és növénybiztosításról szóló 37. cikke,
+- d) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet 36., 37. és 39. cikke,
 - e) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 1305/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről, valamint átmeneti rendelkezések bevezetéséről szóló, 2014. március 11-i 807/2014/EU bizottsági rendelet, és
 - f) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1305/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak megállapításáról szóló, 2014. július 17-i 808/2014/EU bizottsági rendelet
 
