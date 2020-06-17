@@ -149,7 +149,7 @@ kell teljesíteni.
 
 ### A törvény hatálya
 
-10. § (1) A Magyarország területén székhellyel, telephellyel, lakóhellyel, szokásos tartózkodási hellyel rendelkező vagy egyébként itt tartózkodó és gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytató természetes személy, jogi személy, egyéb szervezet egyes intézkedésekben való részvételének rendjére, valamint az ezzel összefüggő mezőgazdasági támogatási eljárásban részt vevő személyre e törvény rendelkezéseit kell alkalmazni.
+10. § (1) A Magyarország területén székhellyel, telephellyel, lakóhellyel, szokásos tartózkodási hellyel rendelkező vagy egyébként itt tartózkodó és gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytató természetes személy, jogi személy, egyéb szervezet egyes intézkedésekben való részvételének rendjére, valamint az ezzel összefüggő mezőgazdasági támogatási eljárásban részt vevő vagy érintett személyre, szervezetre e törvény rendelkezéseit kell alkalmazni.
 
 (2) E törvény rendelkezéseit kell alkalmazni továbbá az Európai Unió bármely tagállamában székhellyel, telephellyel rendelkező jogi személyre, illetve egyéb szervezetre, továbbá az Európai Unió bármely tagállamában lakóhellyel, szokásos tartózkodási hellyel rendelkező arra a természetes személyre, aki (amely) Magyarországon gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytat, és a vonatkozó jogszabályok alapján:
 
@@ -172,7 +172,7 @@ benyújtásával a hatáskörrel és illetékességgel rendelkező szervnél elj
 
 hozott intézkedésekben való részvétellel kapcsolatos, az irányítási, valamint a végrehajtási feladatokat ellátó szervek, illetve szervezetek hatáskörébe tartozó eljárására.
 
-(1a) Az (1) bekezdés a) és c) pontja tekintetében e törvényt – a 4/A. § (5) bekezdése, 9. § (1) bekezdés 7., 10. és 27. pontja, a 11. § (10) bekezdése, a 13. §-a, 14. § (1) bekezdés f) pontja, a III. Fejezete, a 36. § (3) bekezdése, a 43/A. §, a 44. § (7) bekezdése, a 45. § (3) és (9) bekezdése, a 81. § (1) bekezdés c)–g) pontja, a 81. § (1a) és (2) bekezdése, a 81. § (3) bekezdés b)–d), j) és k) pontja kivételével – a 2007–2013. programozási időszak intézkedései tekintetében kell alkalmazni.
+(1a) Az (1) bekezdés a) és c) pontja tekintetében e törvényt – a 4/A. § (5) bekezdése, 9. § (1) bekezdés 7., 10. és 27. pontja, a 11. § (10) bekezdése, a 13. §-a, 14. § (1) bekezdés f) pontja, a III. Fejezete, a 36. § (3) bekezdése, a 43/A. §, a 44. § (7) bekezdése, a 45. § (3) és (9) bekezdése, a 81. § (1) bekezdés c)–g) pontja, a 81. § (1a), (1b) és (2) bekezdése, a 81. § (3) bekezdés b)–d), j) és k) pontja kivételével – a 2007–2013. programozási időszak intézkedései tekintetében kell alkalmazni.
 
 (2) E törvény végrehajtásáért a miniszter felel, amelynek keretében:
 
@@ -223,7 +223,7 @@ gyakorolja.
 
 (5)
 
-(6) Az e törvény végrehajtására kiadott jogszabályban meghatározott esetben az ügyfélnek elektronikus úton kell a kérelmet, pályázatot benyújtania, adatszolgáltatási kötelezettségét teljesítenie, illetve elektronikus úton kell kapcsolatot tartania.
+(6)
 
 ### II. Fejezet — AZ IRÁNYÍTÁS ÉS VÉGREHAJTÁS EGYES INTÉZMÉNYEI
 
@@ -590,7 +590,7 @@ külön rendelkezések
   - bl) a 28/A. § (1a) bekezdésében foglaltak szerinti fizetési számlaszámát és annak devizanemét – külföldi nem természetes személy esetén külföldi fizetési számlaszám is megadható,
   - bm) szöveges üzenet fogadására alkalmas telefonos elérhetőségét,
 - c) külföldi természetes személy vagy külföldi nem természetes személy esetén az a) és b) pontban foglalt adatok mellett a magyar adóazonosító számát és az illetékessége szerinti állam hatósága által megállapított adóazonosító számát,
-- d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét) is a pénzügyi következményekkel járó intézkedésben részt vevő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező külföldi természetes személy vagy külföldi vállalkozás esetében.
+- d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét) is a pénzügyi következményekkel járó intézkedésben részt vevő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező természetes személy vagy nem természetes személy esetében.
 
 (3a) Az ügyfélnek elektronikus úton történő támogatási kérelem benyújtása esetén a kérelem benyújtásakor kérelemre nyilvántartásba vett ügyfélnek kell lennie.
 
@@ -620,7 +620,7 @@ külön rendelkezések
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozó, pénzügyi következményekkel járó intézkedés vonatkozásában kifizetésre csak az az ügyfél jogosult, aki bejelentette a fizetési számlaszámát, valamint annak devizanemét. A külföldi vállalkozás vagy külföldi természetes személy ügyfél nemzetközi fizetési számlaszámot is megadhat. A mezőgazdasági és vidékfejlesztési támogatási szerv a kifizetést az ügyfél-nyilvántartásban rögzített számlára teljesíti akkor is, ha az ügyfél vagy más személy – az ügyfél-nyilvántartásban szereplő számla módosítását nem kérve – az ügyfél-nyilvántartásban rögzített fizetési számlától eltérő személy nevén szereplő fizetési számlára történő kifizetés teljesítése iránt kérelmet nyújt be.
 
-(3) A 28. § (3) bekezdés a) pont aj) alpontjában és b) pont bl) alpontjában meghatározott fizetési számlaszám bejelentéséhez az ügyfél nevére szóló fizetési számlaszám létezését igazoló két hónapnál nem régebbi fizetési számlakivonat másolatát, vagy két hónapnál nem régebbi fizetési számlaszerződés másolatát vagy a számlát vezető pénzforgalmi szolgáltatónak a kérelem benyújtási időpontját megelőző két hónapnál nem régebbi nyilatkozatát kell csatolni, amely tartalmazza az ügyfél azonosításához szükséges adatokat, valamint az ügyfél nevére szóló fizetési számlaszámot.
+(3) A 28. § (3) bekezdés a) pont aj) alpontjában és b) pont bl) alpontjában meghatározott fizetési számlaszám bejelentéséhez az ügyfél nevére szóló fizetési számlaszám létezését igazoló két hónapnál nem régebbi fizetési számlakivonat másolatát, vagy két hónapnál nem régebbi fizetési számlaszerződés másolatát vagy a számlát vezető pénzforgalmi szolgáltatónak a kérelem benyújtási időpontját megelőző két hónapnál nem régebbi nyilatkozatát vagy annak másolatát kell csatolni, amely tartalmazza az ügyfél azonosításához szükséges adatokat, valamint az ügyfél nevére szóló fizetési számlaszámot.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél-nyilvántartási rendszer részeként, a törvény hatálya alá tartozó eljárások végrehajtásához szükséges mértékben nyilvántartja az ügyfelek fióktelepeit, termelőegységeit, a gazdálkodás végzésének helyeit.
 
@@ -638,7 +638,7 @@ külön rendelkezések
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az (1) és (1a) bekezdésben foglaltaknak meg nem felelő nyilvántartásba vételi kérelmet visszautasítja A meghatalmazott visszautasítása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv felhívja az ügyfelet, hogy járjon el személyesen, vagy gondoskodjon az (1) és (1a) bekezdésben foglaltaknak megfelelő képviselő alkalmazásáról.
 
-(5) Ha az ügyfél nevében meghatalmazottja jár el, és az ügyfél eltérően nem rendelkezik, az iratokat a mezőgazdasági és vidékfejlesztési támogatási szerv a meghatalmazott részére küldi meg. Ha az ügyfél az iratok saját részére történő kézbesítését kérte, akkor részére kézbesítendő az irat, kivéve, ha kötelező elektronikus kapcsolattartás esetén nem ő volt az utolsó iratot benyújtó személy. Kötelező elektronikus kapcsolattartás esetén az iratokat az utolsó iratot benyújtó személynek kell kézbesíteni.
+(5) Ha az ügyfél nevében meghatalmazottja jár el, és az ügyfél eltérően nem rendelkezik, az iratokat a mezőgazdasági és vidékfejlesztési támogatási szerv a meghatalmazott részére küldi meg. Ha az ügyfél az iratok saját részére történő kézbesítését kérte, akkor részére kézbesítendő az irat, kivéve, ha kötelező elektronikus kapcsolattartás esetén nem felel meg az elektronikus kapcsolattartás feltételeinek és nem ő volt az utolsó iratot benyújtó személy. Erről az iratoknak a saját részére történő kézbesítését kérő ügyfelet a mezőgazdasági és vidékfejlesztési támogatási szerv egyéb úton tájékoztatja. Kötelező elektronikus kapcsolattartás esetén az iratokat az utolsó iratot benyújtó, az elektronikus kapcsolattartás feltételeinek megfelelő személynek kell kézbesíteni.
 
 (6) A mezőgazdasági és vidékfejlesztési támogatási szerv nyilatkozattételre hívja fel az ügyfelet, ha az eljárás során az ügyfél és az ügyfél meghatalmazottjának a nyilatkozata eltér egymástól, vagy egyéb eljárási cselekményeik ellentétesek. Ha az ügyfél eltérően nem nyilatkozik, a mezőgazdasági és vidékfejlesztési támogatási szerv a későbbi cselekményt, nyilatkozatot tekinti érvényesnek.
 
@@ -646,10 +646,7 @@ külön rendelkezések
 
 (8) Folyamatban lévő támogatás esetén az ügy megindítását követően rendelkezési nyilvántartásba meghatalmazásra tett új ügyintézési rendelkezést, vagy annak módosítását a mezőgazdasági és vidékfejlesztési támogatási szerv csak akkor veszi figyelembe, ha azt az ügyfél a mezőgazdasági és vidékfejlesztési támogatási szervnek is bejelenti.
 
-28/C. § (1) A magyarországi lakcímmel vagy székhellyel nem rendelkező ügyfél köteles az első kapcsolatfelvétel alkalmával – a kézbesítési meghatalmazás előterjesztésével együtt – kézbesítési meghatalmazottat megnevezni, ha
-
-- a) képviselőt nem nevezett meg, és
-- b) elektronikus kapcsolattartásnak nincs helye.
+28/C. § (1)
 
 (2) A kézbesítési meghatalmazott feladata, hogy az eljárásban keletkezett, az ügyféllel közlendő döntéseket és iratokat átvegye, és azokat az ügyfél részére továbbítsa, amely tevékenységéért az ügyféllel szemben a polgári jog szabályai szerint felel. Az ügyfél részére szóló és a kézbesítési meghatalmazottal szabályszerűen közölt döntést úgy kell tekinteni, hogy az a kézbesítési meghatalmazottal történt közlést követő tizenötödik napon minősül az ügyféllel közöltnek.
 
@@ -758,7 +755,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 33/A. § (1) A tényállás megállapítása céljából a mezőgazdasági és vidékfejlesztési támogatási szerv felhívhatja az ügyfelet okirat vagy más irat bemutatására.
 
-(2) Ha jogszabály másként nem rendelkezik, az ügyfél az iratot, illetve más hatóság által kiállított elektronikus iratot papíralapú másolatban is benyújthatja, ha nyilatkozik arról, hogy az az eredetivel mindenben megegyezik.
+(2) Ha jogszabály másként nem rendelkezik, az ügyfél, a meghatalmazott, a törvényes képviselő vagy az elsődleges képviselő az iratot, illetve más hatóság által kiállított elektronikus iratot papíralapú vagy elektronikus másolatban is benyújthatja, ha nyilatkozik arról, hogy az az eredetivel mindenben megegyezik.
 
 (3) Ha a külföldön kiállított közokirat eredetiségével vagy tartalmával kapcsolatban kétség merül fel, a mezőgazdasági és vidékfejlesztési támogatási szerv felhívja az ügyfelet a külön jogszabály szerint felülhitelesített, külföldön kiállított közokirat bemutatására.
 
@@ -797,7 +794,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (2) Az iratokat az előzetes értesítés alapján lefolytatott helyszíni ellenőrzés kezdő időpontjára, egyéb esetben az erre vonatkozó felhívást követő munkanap kezdetén a mezőgazdasági és vidékfejlesztési támogatási szerv rendelkezésére kell bocsátani.
 
-(3) Az iratokat az ügyfélnek a nyilvántartás módjától függetlenül – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a támogatás esedékessége naptári évének utolsó napjától számított nyolc évig kell megőriznie.
+(3) Az iratokat az ügyfélnek a nyilvántartás módjától függetlenül – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a támogatás esedékessége naptári évének utolsó napjától számított tíz évig kell megőriznie.
 
 (4) Az irat megőrzésére kötelezett jogi személynek, illetve egyéb szervezetnek minősülő ügyfél megszűnése esetén az iratokat a (3) bekezdésben foglalt időpontig köteles megőrizni:
 
@@ -831,9 +828,9 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 38. § (1) Jogszabály vagy a pályázati felhívást tartalmazó közlemény eltérő rendelkezése hiányában a kérelmet a mezőgazdasági és vidékfejlesztési támogatási szervhez kell benyújtani.
 
-(2) A (3) bekezdésben foglalt esetek kivételével a kérelmet postai úton kell benyújtani.
+(2) A (3) bekezdésben foglalt esetek kivételével a kérelmet elektronikus úton kell benyújtani.
 
-(3) Amennyiben az e törvény végrehajtására kiadott jogszabály vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a kérelmet benyújtani, illetve az adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen, telefax útján vagy elektronikus úton is lehet a jogszabályban vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-azonosító szám megállapítása iránti kérelem személyesen is, az ügyél-nyilvántartási adatok módosítása iránti kérelem személyes és elektronikus úton is benyújtható.
+(3) Ha az e törvény végrehajtására kiadott rendelet vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a mezőgazdasági és vidékfejlesztési támogatási szerv irányába kérelmet benyújtani és adatszolgáltatási kötelezettséget teljesíteni személyesen, telefax útján vagy postai úton is lehet a rendeletben vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-azonosító megállapítása iránti kérelem és az ügyfélnyilvántartási adatok módosítása iránti kérelem személyesen, postai úton és a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített elektronikus nyomtatványon, elektronikus úton is benyújtható.
 
 (4) Jogszabály eltérő rendelkezése hiányában vagy a miniszternek az általa vezetett minisztérium honlapján közzétett közleményében meghatározott, a kérelem benyújtására megállapított határidőt megtartottnak kell tekinteni, ha a kérelem a határidő leteltét követően érkezett meg, de a kérelmet legkésőbb a határidő utolsó napján postára adták, illetve az elektronikus úton benyújtásra kerülő kérelmek esetében az automatikus értesítés legkésőbb a határidő utolsó napjának dátumával történő beérkezést igazolja.
 
@@ -1330,9 +1327,9 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 - b) a kérelmet a jogosultsági keret kimerülése vagy forráshiány miatt utasítja el,
 - c) az intézkedés során arányos csökkentést alkalmaz és a kérelmet kizárólag ezen indokkal utasítja részben el,
 - d) a döntését közhiteles nyilvántartás adatainak – a 29/A. § (3) bekezdése alkalmazásával – az ügyfél-nyilvántartási rendszerben történt átvezetésével hozta meg,
-- e) a kérelmet a (2) bekezdés b), c) vagy f) pontjában meghatározott indokkal utasítja vissza.
+- e) a kérelmet a (2) bekezdés b), c), f) vagy n) pontjában meghatározott indokkal utasítja vissza.
 
-(2) A vissza kell utasítani, ha:
+(2) A kérelmet vissza kell utasítani, ha:
 
 - a) a kérelmet a keret kimerülését követően nyújtották be;
 - b) a kérelem nem a jogszabályban meghatározott módon, illetve nem az arra rendszeresített, hatályos nyomtatványon került benyújtásra;
@@ -1425,7 +1422,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 57/A. § (1) A jogorvoslati eljárás során a törvény rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(1a) A mezőgazdasági és vidékfejlesztési támogatási szerv döntései ellen irányuló fellebbezést kormányrendeletben meghatározottak szerint a miniszter bírálja el.
+(1a) A mezőgazdasági és vidékfejlesztési támogatási szerv döntése ellen irányuló fellebbezést a miniszter bírálja el.
 
 (1b)
 
@@ -1593,7 +1590,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 62/A. § (1) A végrehajtáshoz való jog a kötelezettséget megállapító döntés véglegessé válásától, vagy ha a döntés teljesítési határidőt vagy határnapot állapított meg, annak utolsó napjától, illetve a határnapot követő naptól számított öt év elteltével évül el.
 
-(2) Nyugszik az elévülés a végrehajtási eljárásban engedélyezett fizetési kedvezmény, továbbá a pénzfizetési kötelezettség folyamatos végrehajtásának időtartama alatt.
+(2) Nyugszik az elévülés a végrehajtási eljárásban engedélyezett fizetési kedvezmény, a végrehajtás felfüggesztése, továbbá a pénzfizetési kötelezettség folyamatos végrehajtásának időtartama alatt.
 
 (3) A végrehajtáshoz való jog elévülését bármely végrehajtási cselekmény megszakítja. Az elévülés megszakadásával az elévülési idő újra kezdődik. A döntés véglegessé válásának időpontjától vagy ha a döntés teljesítési határidőt vagy határnapot állapított meg, annak utolsó napjától, illetve a határnapot követő naptól számított tíz év elteltével a döntés nem hajtható végre.
 
@@ -2031,3 +2028,5 @@ rendeletben állapítsa meg.
 92. § E törvénynek az egyes agrárszabályozási tárgyú törvényeknek az általános közigazgatási rendtartásról szóló törvénnyel összefüggő és más célú módosításáról szóló 2017. évi CCV. törvénnyel megállapított 44. § (7) bekezdés j) pontjának, továbbá 57/C és 57/D. §-ának rendelkezéseit a hatályba lépésekor folyamatban levő és a megismételt eljárásokban, további rendelkezéseit a hatályba lépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 93. § E törvénynek a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosításáról szóló 2019. évi XXIII. törvénnyel (a továbbiakban: 2019. évi XXIII. törvény) megállapított 3/F. §-át és 11. §-át a 2019. évi XXIII. törvény hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
+
+94. § E törvény 38. § (3) bekezdésének az agráriumban létrehozandó krízisbiztosítási rendszer működéséhez szükséges egyes törvények módosításáról szóló 2020. évi LII. törvénnyel megállapított rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
