@@ -6,7 +6,7 @@ az adóhatóság által foganatosítandó végrehajtási eljárásokról
 
 #### 1. A törvény hatálya
 
-1. § (1) E törvényt kell alkalmazni az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság (a továbbiakban együtt: adóhatóság) által megállapított, nyilvántartott, törvényen vagy önkormányzati rendeleten alapuló fizetési kötelezettségek végrehajtása során.
+1. § (1) E törvényt kell alkalmazni az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság – ideértve azt az esetet is, amikor az állami adó- és vámhatóság a különleges gazdasági övezet tekintetében önkormányzati adóhatósági feladatkörében jár el – által (a továbbiakban együtt: adóhatóság) megállapított, nyilvántartott, törvényen vagy önkormányzati rendeleten alapuló fizetési kötelezettségek végrehajtása során.
 
 (2) Törvény, kormányrendelet vagy önkormányzati hatósági ügyben helyi önkormányzati rendelet eltérő rendelkezése hiányában e törvény rendelkezéseit kell alkalmazni arra a végrehajtásra, amelyet az általános közigazgatási rendtartás alapján az állami adó- és vámhatóság foganatosít.
 

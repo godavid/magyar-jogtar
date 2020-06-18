@@ -72,15 +72,11 @@ Az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarorsz�
 
 (5) Központi tartalék szolgál a XV. Pénzügyminisztérium fejezet, 26. cím, 2. alcím, 4. Beruházás Előkészítési Alap jogcímcsoporton a központi költségvetési források felhasználásával megvalósuló egyes beruházások előkészítési folyamata fedezetének biztosítására. A Beruházás Előkészítési Alap felhasználásának szabályait a Kormány rendeletben állapítja meg.
 
-(6) A XXII. Miniszterelnöki Kormányiroda fejezet, 21. cím, 4. alcím, 2. Országvédelmi Alap jogcímcsoport előirányzatából legfeljebb 189 000,0 millió forint az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló, 2009. május 25-ei 479/2009/EK tanácsi rendelet szerint benyújtott jelentés (a továbbiakban: EDP jelentés) 2020. március 31-ig történő benyújtását követően használható fel a (8) bekezdés figyelembevételével, amennyiben a benyújtott EDP jelentésben szereplő 2020. évre várható hiány (a továbbiakban: ESA-hiány) – a felhasználni kívánt tartalékösszeg figyelembevételével – nem haladja meg a GDP 1,0%-át.
+(6) A XLVI. Járvány Elleni Védekezési Alap fejezet, 1. Járvány Elleni Védekezés Központi Tartaléka címről az Operatív Törzs működése ideje alatt, annak javaslata alapján az államháztartásért felelős miniszter csoportosíthat át, egyéb esetben a kiadási cím előirányzatának felhasználásáról a Kormány dönt.
 
-(7) A XXII. Miniszterelnöki Kormányiroda fejezet, 21. cím, 4. alcím, 2. Országvédelmi Alap jogcímcsoport előirányzatának a (6) bekezdésen felüli része az EDP jelentés 2020. szeptember 30-ig történő benyújtását követően használható fel a (8) bekezdés figyelembevételével, amennyiben a benyújtott EDP jelentésben szereplő ESA-hiány – a felhasználni kívánt tartalékösszeg figyelembevételével – nem haladja meg a GDP 1,0%-át.
+(7)
 
-(8) A (6) és (7) bekezdés szerinti összeg felhasználásáról a Kormány határozatban dönt, amelyet az államháztartásért felelős miniszter készít elő, ennek során bemutatja a Kormány számára
-
-- a) a 2020. évi gazdasági és költségvetési folyamatok,
-- b) a 2020. évre várható ESA-hiány és
-- c) a 2020. évre várható államadósság alakulását, továbbá javaslatot tesz a kiadási előirányzat felhasználásának céljára és ütemezésére.
+(8)
 
 (9) Céltartalék szolgál a XV. Pénzügyminisztérium fejezet, 26. cím, 2. alcím, 3. jogcímcsoport, 4. Hazai bölcsődefejlesztési program jogcímen a bölcsődei ellátást biztosító intézmények, szolgáltatások létrehozására és kapacitásbővítésére.
 
@@ -112,7 +108,7 @@ lehet.
 
 (8) Az állami tulajdonú gazdasági társaságok felett törvényben és miniszteri rendeletben kijelölt tulajdonosi jogok gyakorlására feljogosított szervezet az általa e minőségében a 2020. év során beszedett bevételeket előirányzat-módosítás nélkül is elszámolhatja, erről a fejezetet irányító szervet és az államháztartásért felelős minisztert írásban tájékoztatni kell. A fejezetet irányító szerv e tulajdonosi joggyakorlói minőségben végrehajtandó kiadások teljesítése érdekében – a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet kivételével – a fejezeten belül átcsoportosíthat és új központi kezelésű kiadási előirányzatot hozhat létre az államháztartásért felelős miniszter egyetértésével.
 
-(9) A XX. Emberi Erőforrások Minisztériuma fejezet, 20. cím, 3. alcím, 6. Felsőoktatási vagyongazdálkodási feladatok jogcímcsoport előirányzat a Kormány engedélyével 2020. szeptember 30. után túlléphető azzal, hogy ezen túllépés és a 4. § (7) bekezdésben foglalt tartalékösszeg-felhasználás együttes összegének figyelembevételével sem haladhatja meg az EDP jelentésben szereplő 2020. évre várható ESA-hiány a GDP 1,0%-át.
+(9) A XX. Emberi Erőforrások Minisztériuma fejezet, 20. cím, 3. alcím, 6. Felsőoktatási vagyongazdálkodási feladatok jogcímcsoport előirányzat a Kormány engedélyével túlléphető.
 
 6. § (1) A XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 7. Fejezeti tartalék címén szereplő kiadási előirányzat az e költségvetési fejezetben szereplő kiadási előirányzatok átcsoportosítás útján történő növelésére használható fel. A XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 7. Fejezeti tartalék cím kiadási előirányzatának felhasználásáról az állami vagyon felügyeletéért felelős miniszter és az államháztartásért felelős miniszter együttesen dönt.
 
@@ -146,7 +142,11 @@ lehet.
 
 9. § (1) A LXIII. Nemzeti Foglalkoztatási Alap fejezet, 8. Start-munkaprogram címen rendelkezésre álló előirányzat biztosít fedezetet a 2019. évben, illetve azt megelőző években az e címen keletkezett, 2020. évre áthúzódó kötelezettségvállalásokra is.
 
-(2) A Nemzeti Foglalkoztatási Alap a központi költségvetésbe 71 000,0 millió forintot ad át az állami fenntartású szakképző iskolák működési költségeihez és a foglalkoztatást helyettesítő támogatásban részesülők ellátásához. A befizetési kötelezettséget negyedévente egyenlő részletekben kell teljesíteni.
+(2)
+
+(2a) Az Országgyűlés megállapítja, hogy a LXIII. Nemzeti Foglalkoztatási Alap fejezet előirányzatai a XLVII. Gazdaságvédelmi Alap fejezetbe kerültek át, azzal, hogy az előirányzatok tekintetében a központi kezelésű előirányzatok fedezetének biztosítására vonatkozó szabályokat kell alkalmazni. A 2020. évben a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39/A. § (8) bekezdésében foglaltakat nem kell alkalmazni.
+
+(2b) A XLVII. Gazdaságvédelmi Alap fejezetben a Munkahely-megtartási program, továbbá a 2014–2020-as időszak munkaerőpiaci programjainak előfinanszírozása megnevezésű előirányzatok terhére előirányzat-módosítási kötelezettség nélkül az eredeti előirányzaton felül kiadás teljesíthető.
 
 (3) Az Elektronikus Információszolgáltatás Nemzeti Program működtetésével kapcsolatos feladatokra a feladatot ellátó MTA Könyvtár és Információs Központ részére a LXII. Nemzeti Kutatási, Fejlesztési és Innovációs Alap fejezet, 1. Kutatási Alaprész cím terhére 2020. évben 1950,0 millió forint támogatást kell biztosítani.
 
@@ -188,6 +188,8 @@ lehet.
 (2) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 3. alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport jogcímeinek előirányzatai együttesen 3000,0 millió forintot tartalmaznak az egészségügyi ellátórendszer fejlesztéséről szóló törvény és végrehajtási rendelete szerinti többletkapacitás-befogadások várható éves teljesítményének finanszírozására. A befogadásoktól eltérő, a jogcímcsoporton belüli jogcímek szerinti célra történő felhasználását a tényleges kiadások függvényében az egészségbiztosításért felelős miniszter az államháztartásért felelős miniszter egyetértésével engedélyezheti.
 
 (3) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 3. alcím, 4. jogcímcsoport, 1. Gyógyszertámogatás kiadásai jogcím előirányzata tartalmazza az 1200,0 millió forint finanszírozási előlegre fordítható összeget.
+
+(4) A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 3. alcím, 5. jogcímcsoport, 3. Egyéb gyógyászati segédeszköz támogatás jogcím előirányzata tartalmazza a 2100,0 millió forint finanszírozási előlegre fordítható összeget.
 
 15. § A LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 2. Egészségbiztosítás pénzbeli ellátásai alcímen belül az adott előirányzat terhére különös méltánylást érdemlő körülmények esetén táppénz, csecsemőgondozási díj és gyermekgondozási díj megállapítására együttesen 200,0 millió forint, rokkantsági, rehabilitációs ellátás megállapítására 150,0 millió forint, a 3. Természetbeni ellátások alcímen belül az adott előirányzat terhére különös méltánylást érdemlő körülmények esetén gyógyító-megelőző ellátásra 2611,3 millió forint, gyógyszertámogatásra 10 000,0 millió forint, gyógyászati segédeszköz támogatásra 2400,0 millió forint használható fel.
 
@@ -267,9 +269,9 @@ előirányzatainak év közbeni megváltoztatására.
 
 25. § (1) A XVII. Innovációs és Technológiai Minisztérium fejezetet irányító szerv vezetője a XVII. Innovációs és Technológiai Minisztérium fejezet, 20. cím, 65. alcím, 1. Szakképzési Centrumok által ellátott felnőtt oktatási tevékenység finanszírozása jogcímcsoport terhére átcsoportosíthat a XVII. Innovációs és Technológiai Minisztérium fejezet, 8. Szakképzési Centrumok cím javára.
 
-(2) A XVII. Innovációs és Technológiai Minisztérium fejezet, 20. cím, 35. alcím, 4. Zöldgazdaság Finanszírozási Rendszer jogcímcsoport előirányzatát a fejezetet irányító miniszter – az Áht. 31. § (2b) bekezdése alapján – az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Ügkr. tv.) által létrehozott légiközlekedési kibocsátási egységek 2020. évi értékesítéséből az e törvényben megtervezetten felül pénzforgalmilag teljesült bevétel 100%-ával, továbbá az Ügkr. tv. hatálya alá tartozó kibocsátási egységek 2020. évi értékesítéséből pénzforgalmilag teljesült bevétel 50%-ával növelheti meg.
+(2) A XVII. Innovációs és Technológiai Minisztérium fejezet, 20. cím, 35. alcím, 4. Zöldgazdaság Finanszírozási Rendszer jogcímcsoport előirányzatát a fejezetet irányító miniszter az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Ügkr. tv.) által létrehozott légiközlekedési kibocsátási egységek 2020. évi értékesítéséből az e törvényben megtervezetten felül pénzforgalmilag teljesült bevétel 100%-ával, továbbá az Ügkr. tv. hatálya alá tartozó kibocsátási egységek 2020. évi értékesítéséből pénzforgalmilag teljesült bevétel 50%-ával növelheti meg.
 
-(3) A XVII. Innovációs és Technológiai Minisztérium fejezet, 20. cím, 35. alcím, 7. Zöld Beruházási Rendszer végrehajtásának feladatai jogcímcsoport előirányzatát a fejezetet irányító miniszter – az Áht. 31. § (2b) bekezdése alapján – az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény (a továbbiakban: Éhvt.) alapján létrehozott kiotói egységek átruházásából pénzforgalmilag teljesült bevétel 100%-ával, továbbá az Ügkr. tv. hatálya alá tartozó ESD-egységek értékesítéséből pénzforgalmilag teljesült bevétel 100%-ával növelheti meg.
+(3) A XVII. Innovációs és Technológiai Minisztérium fejezet, 20. cím, 35. alcím, 7. Zöld Beruházási Rendszer végrehajtásának feladatai jogcímcsoport előirányzatát a fejezetet irányító miniszter az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény (a továbbiakban: Éhvt.) alapján létrehozott kiotói egységek átruházásából pénzforgalmilag teljesült bevétel 100%-ával, továbbá az Ügkr. tv. hatálya alá tartozó ESD-egységek értékesítéséből pénzforgalmilag teljesült bevétel 100%-ával növelheti meg.
 
 (4) Az energiapolitikáért felelős miniszter az Éhvt. alapján létrehozott kiotói egységek átruházásából és az Ügkr. tv. hatálya alá tartozó ESD-egységek értékesítéséből befolyó bevételek elszámolására a XVII. Innovációs és Technológiai Minisztérium fejezet, 21. cím, 3. alcím, 3. Kibocsátási egységek értékesítéséből származó bevételek jogcímcsoporton belül új jogcímeket hozhat létre.
 
@@ -339,7 +341,7 @@ előirányzatainak év közbeni megváltoztatására.
 
 37. § (1) A települési önkormányzatot illeti meg
 
-- a) a gépjárműadóról szóló törvény alapján a belföldi gépjárművek után a települési önkormányzat által beszedett adó 40%-a és
+- a)
 - b) a gépjárműadóhoz kapcsolódó bírságból, pótlékból és végrehajtási költségből származó bevétel 100%-a.
 
 (2) A termőföld bérbeadásából származó jövedelem utáni – a települési önkormányzat által beszedett – személyi jövedelemadó 100%-a a földterület fekvése szerinti települési önkormányzatot illeti meg.
@@ -367,6 +369,12 @@ előirányzatainak év közbeni megváltoztatására.
 (4) Az önkormányzattól a 2. melléklet V. pontja szerinti szolidaritási hozzájárulás elvonása a települési önkormányzat számára folyósítandó támogatás havi összegéből a nettó finanszírozás keretében történik. Ennek összegét a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. cím, 5. Önkormányzati szolidaritási hozzájárulás alcímen kell elszámolni.
 
 (5) Ha a települési önkormányzatot az (1) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források a (4) bekezdés szerint levonandó összegekre nem nyújtanak fedezetet, a kincstár az Áht. 83. § (3) bekezdése alapján havonta beszedési megbízást nyújt be a települési önkormányzattal szemben. Ha a települési önkormányzatnak 2020. december 16-án bármilyen elmaradása van a (4) bekezdés szerinti befizetési kötelezettsége tekintetében, a kincstár a meg nem fizetett összegre a kötelezett fizetési számlájára beszedési megbízást nyújt be.
+
+(6) A települési önkormányzat a 2. melléklet I. pont 1. alpont e) pont Üdülőhelyi feladatok támogatása jogcímen a 2. melléklet I. pont 1. alpont f) pontja szerinti beszámítással csökkentett és kiegészítéssel növelt összegre nem jogosult.
+
+(7) A települési önkormányzat 2020. december hónapban a 3. melléklet I. pont 14. Kulturális illetménypótlék jogcímen az 3. melléklet I. pont 14. alpont szabályaitól eltérően a 2020. november havi támogatással azonos összegű támogatásban részesül.
+
+(8) A 2. melléklet III. pont 2. alpont j) pontja szerinti támogatás esetében és a 2. melléklet III. pont 3. alpont a) pont aa) alpontjában meghatározottaktól eltérően a támogatás szempontjából figyelembe vehető gyermekek száma alatt 2020. augusztus 31-éig a veszélyhelyzet megszűnésének napján beíratott gyermekek számát kell érteni.
 
 ### V. Fejezet — A KÖZPONTI ALRENDSZER ÉS AZ ÁLLAMHÁZTARTÁSON KÍVÜLI SZERVEZETEK KAPCSOLATA
 
@@ -465,17 +473,17 @@ előirányzatainak év közbeni megváltoztatására.
 
 (3) Az Etv. 7. § (1) bekezdés c) pontja szerinti felső határ a 2020. évben 1 000 000,0 millió forint.
 
-50. § (1) A Garantiqa Hitelgarancia Zrt. által vállalt készfizető kezesség mögött – jogszabályban meghatározott feltételek mellett – a (2)–(8) bekezdés szerint az állam visszavonhatatlan viszontgaranciája áll fenn.
+50. § (1) A Garantiqa Hitelgarancia Zrt. által vállalt készfizető kezesség mögött – jogszabályban meghatározott feltételek mellett – a (2)–(9) bekezdés szerint az állam visszavonhatatlan viszontgaranciája áll fenn.
 
-(2) Az (1) bekezdés szerinti viszontgarancia mértéke a Garantiqa Hitelgarancia Zrt. által vállalt készfizető kezesség érvényesítéséből a társaságot terhelő fizetési kötelezettség 85%-a.
+(2) Az állami viszontgarancia mértéke – a (6) bekezdés kivételével – a Garantiqa Hitelgarancia Zrt. által vállalt készfizető kezesség érvényesítéséből a társaságot terhelő fizetési kötelezettség 85%-a.
 
-(3) A Garantiqa Hitelgarancia Zrt. az (1) bekezdés szerinti viszontgaranciával
+(3) A Garantiqa Hitelgarancia Zrt. a (2) bekezdés szerinti viszontgaranciával
 
 - a) a kis- és középvállalkozások, valamint a Munkavállalói Résztulajdonosi Program megvalósítására – a Munkavállalói Résztulajdonosi Programról szóló törvény alapján – létrejövő szervezetek legfeljebb 25 év lejáratú hitel-, kölcsönszerződésből, garancia-szerződésből és termelési célú eszközbeszerzéshez kapcsolódó pénzügyi lízingszerződésből, továbbá faktoringszerződésből eredő kötelezettségéért vállalhat készfizető kezességet, azzal, hogy a készfizető kezességvállalás legfeljebb egyéves futamidejű faktoringügyletekhez kapcsolódhat,
 - b) készfizető kezességet vállalhat gyógyszerész vállalkozási célú, a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 74. § (1) bekezdésében és 83/A. § (1) bekezdésében foglalt feltételek teljesítése érdekében történő tulajdoni hányad megszerzését szolgáló – a közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló kormányrendelet szerinti Patika Hitelprogram keretében – 2013. július 1-je és 2020. december 31-e között létrejött hitel- vagy kölcsönszerződéséhez, valamint
 - c) jogszabályban meghatározott feltételek szerint készfizető kezességet vállalhat pénzügyi intézménynek, befektetési vállalkozásnak, befektetési alapkezelőnek, biztosítónak nem minősülő gazdasági társaságok által kibocsátott kötvényekből eredő, továbbá az ilyen társaságokkal szembeni kitettségek értékpapírosításával létrejött értékpapírokból eredő kötelezettségekhez.
 
-(4) Az (1) bekezdés szerinti viszontgarancia kiterjed a Garantiqa Hitelgarancia Zrt.-nek a tőkepiacról szóló törvény alapján működő kockázati tőkealapnak gazdasági társaságban fennálló kockázati tőkebefektetése értékesítéséből származó követelés 50%-áért vállalt készfizető kezességére is. A készfizető kezességgel biztosított követelés mértéke nem haladhatja meg a tulajdonszerzésre fordított összeg 50%-át.
+(4) A (2) bekezdés szerinti viszontgarancia kiterjed a Garantiqa Hitelgarancia Zrt.-nek a tőkepiacról szóló törvény alapján működő kockázati tőkealapnak gazdasági társaságban fennálló kockázati tőkebefektetése értékesítéséből származó követelés 50%-áért vállalt készfizető kezességére is. A készfizető kezességgel biztosított követelés mértéke nem haladhatja meg a tulajdonszerzésre fordított összeg 50%-át.
 
 (5) A készfizető kezesi szerződés jogosultja lehet
 
@@ -485,13 +493,15 @@ előirányzatainak év közbeni megváltoztatására.
 - d) a megyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenység esetén,
 - e) a (3) bekezdés c) pontja esetében a kötvény- és értékpapír-tulajdonos.
 
-(6) A Garantiqa Hitelgarancia Zrt. által a (3) bekezdés a)–b) pontjai és a (4) bekezdés szerinti állami viszontgarancia mellett vállalt készfizető kezesség állománya 2020. december 31-én nem haladhatja meg a 870 000,0 millió forintot.
+(6) Az állami viszontgarancia mértéke a Garantiqa Hitelgarancia Zrt. által az Európai Bizottság „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című 2020. március 19-i, C(2020) 1863 final számú közleménye (a továbbiakban: Közlemény) alapján az Európai Bizottság határozatában jóváhagyott feltételek szerinti Garantiqa Krízis Garanciaprogram keretében vállalt készfizető kezesség érvényesítéséből a társaságot terhelő fizetési kötelezettség 90%-a.
 
-(7) A Garantiqa Hitelgarancia Zrt. által a (3) bekezdés c) pontja szerinti állami viszontgarancia mellett vállalt készfizető kezesség állománya 2020. december 31-én nem haladhatja meg a 200 000,0 millió forintot.
+(7) A Garantiqa Hitelgarancia Zrt. által állami viszontgarancia mellett vállalt készfizető kezesség állománya – a (8) bekezdés szerinti kezességek kivételével – 2020. december 31-én nem haladhatja meg az 1 500 000,0 millió forintot azzal, hogy ezen belül 500 000,0 millió forint kizárólag a Garantiqa Krízis Garanciaprogram keretében történő készfizető kezességvállalásra használható fel.
 
-(8) A Garantiqa Hitelgarancia Zrt. az (1) bekezdés szerinti ügyletek bevételeit, és az ezen ügyletekhez kapcsolódó költségeket és ráfordításokat elkülönítetten köteles nyilvántartani, és az Európai Unió által befogadott Nemzetközi Beszámolási Standardok (IFRS) alapján készült éves Pénzügyi kimutatásaiban bemutatni.
+(8) A Garantiqa Hitelgarancia Zrt. által a (3) bekezdés c) pontja szerinti állami viszontgarancia mellett vállalt készfizető kezesség állománya 2020. december 31-én nem haladhatja meg a 200 000,0 millió forintot.
 
-51. § (1) Az Agrár-Vállalkozási Hitelgarancia Alapítvány (e § alkalmazásában a továbbiakban: Alapítvány) által vállalt készfizető kezesség mögött – jogszabályban meghatározott feltételek mellett – a (2)–(6) bekezdés szerint az állam visszavonhatatlan viszontgaranciája áll fenn.
+(9) A Garantiqa Hitelgarancia Zrt. az (1) bekezdés szerinti ügyletek bevételeit, és az ezen ügyletekhez kapcsolódó költségeket és ráfordításokat elkülönítetten köteles nyilvántartani, és az Európai Unió által befogadott Nemzetközi Beszámolási Standardok (IFRS) alapján készült éves Pénzügyi kimutatásaiban bemutatni.
+
+51. § (1) Az Agrár-Vállalkozási Hitelgarancia Alapítvány (e § alkalmazásában a továbbiakban: Alapítvány) által vállalt készfizető kezesség mögött – jogszabályban meghatározott feltételek mellett – a (2)–(7) bekezdés szerint az állam visszavonhatatlan viszontgaranciája áll fenn.
 
 (2) Az (1) bekezdés szerinti viszontgarancia mértéke az Alapítvány által vállalt készfizető kezesség érvényesítéséből az Alapítványt terhelő fizetési kötelezettség 85%-a.
 
@@ -505,7 +515,9 @@ előirányzatainak év közbeni megváltoztatására.
 - b) a Magyar Vállalkozásfejlesztési Alapítvány az Országos Mikrohitel Alapból történő pénzkölcsön nyújtása esetén,
 - c) a megyei és fővárosi vállalkozásfejlesztési alapítvány mikrohitelezési tevékenység esetén.
 
-(6) Az Alapítvány által az (1) bekezdés szerinti viszontgarancia mellett vállalt készfizető kezesség állománya 2020. december 31-én nem haladhatja meg a 300 000,0 millió forintot.
+(6) Az állami viszontgarancia mértéke az Alapítvány által a Közlemény alapján az Európai Bizottság határozatában jóváhagyott feltételek szerinti Krízis Agrárgarancia Program keretében vállalt készfizető kezesség érvényesítéséből az Alapítványt terhelő fizetési kötelezettség 90%-a.
+
+(7) Az Alapítvány által állami viszontgarancia mellett vállalt készfizető kezesség állománya 2020. december 31-én nem haladhatja meg a 350 000,0 millió forintot azzal, hogy ezen belül 100 000,0 millió forint kizárólag a Krízis Agrárgarancia Program keretében történő készfizető kezességvállalásra használható fel.
 
 52. § (1) Az állam készfizető kezesként felel a Diákhitel Központ Zrt. azon fizetési kötelezettségeiért, amelyek a belföldről és külföldről, a diákhitelezési rendszer finanszírozása érdekében felvett hiteleiből, kölcsöneiből és kötvénykibocsátásaiból erednek.
 
@@ -557,7 +569,7 @@ előirányzatainak év közbeni megváltoztatására.
 
 (3) A honvédek jogállásáról szóló 2012. évi CCV. törvény 2. § 12a. pontja szerinti honvédelmi illetményalap 2020. január 1-jétől 44 600 forint.
 
-(4) A költségvetési szervek által foglalkoztatottak éves cafetéria-juttatásának kerete, illetve cafetéria-juttatást nem nyújtó költségvetési szervek esetében az egy foglalkoztatottnak éves szinten – az Szja tv. 71. § (1) bekezdésében meghatározott juttatások – az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterheket is magában foglaló együttes összege, törvény eltérő rendelkezése hiányában, 2020. évben nem haladhatja meg a bruttó 200 000 forintot.
+(4) A költségvetési szervek által foglalkoztatottak éves cafetéria-juttatásának kerete, illetve cafetéria-juttatást nem nyújtó költségvetési szervek esetében az egy foglalkoztatottnak éves szinten – az Szja tv. 71. § (1) bekezdésében meghatározottak alapján adott juttatások – nettó összege, törvény eltérő rendelkezése hiányában, 2020. évben nem haladhatja meg a 400 000 forintot.
 
 (5) A fizetési számlához kapcsolódóan törvény alapján az egy foglalkoztatottnak havonta adható bankszámla-hozzájárulás mértéke a 2020. évben legfeljebb 1000 forint.
 
@@ -654,10 +666,7 @@ előirányzatainak év közbeni megváltoztatására.
 - d) építési koncesszió esetében 200,0 millió forint,
 - e) szolgáltatási koncesszió esetében 100,0 millió forint.
 
-71. § A védelmi és biztonsági célú beszerzésekről szóló törvény szerinti uniós értékhatár 2020. január 1-től 2020. december 31-ig
-
-- a) árubeszerzés és szolgáltatás megrendelése esetén 443 000 euró,
-- b) építési beruházás esetén 5 548 000 euró.
+71. §
 
 #### 20. Egyes koncessziós díjak
 
@@ -701,6 +710,24 @@ határozzon meg.
 75. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2019. november 1-jén lép hatályba, és 2023. december 31-én hatályát veszti.
 
 (2) Az 1–33. §, a 35–74. §, az 1. melléklet és a 4–9. melléklet 2020. január 1-jén lép hatályba.
+
+#### 24. Egyéb rendelkezések
+
+76. § A COVID-19 fertőzés okozta tömeges megbetegedést okozó, 2020. évben bekövetkezett humánjárvány megelőzésére, illetve következményeinek elhárítására kihirdetett veszélyhelyzet során a járványügyi védekezés és a gazdaság újraindítása érdekében szükséges hazai, illetve esetleges európai uniós források és kiadások elszámolására a központi költségvetés fejezetrendjében a XLVI. Járvány Elleni Védekezési Alap, a XLVII. Gazdaságvédelmi Alap és a XLVIII. Európai Unióból Érkező Járvány Elleni Támogatások Alapja fejezetek létrejöttét az Országgyűlés tudomásul veszi.
+
+77. § Az Országgyűlés megállapítja, hogy a gépjárműadóról szóló törvény alapján a belföldi gépjárművek után a települési önkormányzatot az általa 2020. évben beszedett gépjárműadó nem illeti meg. A beszedett gépjárműadó 40%-a a XLVI. Járvány Elleni Védekezési Alap fejezet bevételét képezi.
+
+78. § A XLVI. Járvány Elleni Védekezési Alap fejezet, 1. Járvány Elleni Védekezés Központi Tartaléka cím előirányzata terhére előirányzat-módosítási kötelezettség nélkül az eredeti előirányzaton felül kiadás teljesíthető.
+
+79. § A XLVII. Gazdaságvédelmi Alap fejezet, 1. Gazdaságvédelmi Programok cím előirányzata terhére a Kormány jóváhagyásával előirányzat-módosítási kötelezettség nélkül az eredeti előirányzaton felül kiadás teljesíthető.
+
+80. § A XLVIII. Európai Unióból érkező Járvány Elleni Támogatások Alapja fejezetben elszámolt bevétel erejéig a XLVIII. Európai Unióból Érkező Járvány Elleni Támogatások Alapja fejezet kiadási előirányzatáról kiadás teljesíthető.
+
+81. § A Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény módosításáról szóló 2020. évi LX. törvény (a továbbiakban: Kvtvmód. tv.) 5. §-ával megállapított 39. § (6) és (8) bekezdését a Kvtvmód. tv. hatálybalépése napjától kell alkalmazni.
+
+82. § (1) A Kvtvmód. tv. 11. § (2) bekezdéssel megállapított, Budapest Főváros Önkormányzatát terhelő szolidaritási hozzájárulás megemeléséből befolyó bevételt a járvány elleni védekezésre kell fordítani.
+
+(2) A Kvtvmód. tv. 11. § (2) bekezdéssel és 12. § (3) bekezdéssel megállapított szolidaritási hozzájárulás emelkedés érvényesítése a 2020. július havi nettó finanszírozástól kezdődően egyenlő részletekben történik.
 
 ### 1. melléklet a 2019. évi LXXI. törvényhez
 
@@ -3460,7 +3487,7 @@ határozzon meg.
 | Bács-Kiskun Megyei Önkormányzat | 307,0 |
 | Békés Megyei Önkormányzat | 270,4 |
 | Borsod-Abaúj-Zemplén Megyei Önkormányzat | 352,0 |
-| Csongrád Megyei Önkormányzat | 281,2 |
+| Csongrád-Csanád Megyei Önkormányzat | 281,2 |
 | Fejér Megyei Önkormányzat | 289,0 |
 | Győr-Moson-Sopron Megyei Önkormányzat | 295,6 |
 | Hajdú-Bihar Megyei Önkormányzat | 311,1 |
@@ -3752,7 +3779,7 @@ Az előirányzat a települési önkormányzatokat a kulturális alapellátás b
 
 #### V. SZOLIDARITÁSI HOZZÁJÁRULÁS
 
-A 34 000 forint feletti egy lakosra jutó adóerő-képességgel rendelkező települési önkormányzattól – Budapest Főváros Önkormányzatának kivételével – a támogatáscsökkentés beszámítás alapját meghaladó része (a továbbiakban: szolidaritási hozzájárulás alapja) a nettó finanszírozás keretében elvonásra kerül szolidaritási hozzájárulás jogcímen. A szolidaritási hozzájárulás számításakor alkalmazandó paramétertábla:
+A 34 000 forint feletti egy lakosra jutó adóerő-képességgel rendelkező települési önkormányzattól a támogatáscsökkentés beszámítás alapját meghaladó része (a továbbiakban: szolidaritási hozzájárulás alapja) a nettó finanszírozás keretében elvonásra kerül szolidaritási hozzájárulás jogcímen. A szolidaritási hozzájárulás számításakor alkalmazandó paramétertábla:
 
 | No. | Kategóriák a települési önkormányzat egy lakosra jutó adóerő-képessége szerint (forint) |  | Hozzájárulás mértéke a szolidaritási hozzájárulás alapjának százalékában |  |
 | --- | --- | --- | --- | --- |
@@ -3780,7 +3807,7 @@ a-d = a szolidaritási hozzájárulás számításakor alkalmazandó paramétert
 
 KT = 500 fő lakosságszám alatti települések esetében alkalmazandó korrekciós tényező, amelynek összege 15 millió forint
 
-Budapest Főváros Önkormányzata esetében a szolidaritási hozzájárulás összege 10 000,0 millió forint.
+Budapest Főváros Önkormányzata esetében a szolidaritási hozzájárulás összege a számított összegnél 15%-kal alacsonyabb.
 
 Kiegészítő szabályok:
 
@@ -3955,7 +3982,8 @@ I. Működési célú támogatások
   - e) Az előirányzat szolgál arra, hogy a jogosult magánszemély részére a közműfejlesztési hozzájárulás megfizetett összegének meghatározott hányada közműfejlesztési támogatásként a települési önkormányzatokon keresztül biztosításra kerüljön. A támogatást a helyi önkormányzat jegyzője kérelem útján igényli a magánszemély jogosultaktól beérkezett, a feltételeknek megfelelő igények közműfajtánként és igénylők számának megjelölésével történő összesítésével minden negyedévet követő hónap 20-áig a Magyar Államkincstár illetékes területi szervén (a továbbiakban: Igazgatóság) keresztül. Az Igazgatóság a beérkezéstől számított húsz napon belül továbbítja az összesített kérelmeket a helyi önkormányzatokért felelős miniszter részére. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben a kérelmek beérkezését követő hónapban történik.
   - f) Az előirányzat szolgál fa) a „Sikeres Magyarországért Panel Plusz” Hitelprogram keretében lakásszövetkezet, illetve társasház által felvett kölcsönhöz kapcsolódó támogatás nyújtásáról szóló 156/2005. (VIII. 15.) Korm. rendelet alapján kamattámogatásra jogosultak számára kifizetett összeg, továbbá fb) az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal összefüggésben elítéltek, valamint a korábbi nyugdíjcsökkentés megszüntetéséről, továbbá az egyes személyes szabadságot korlátozó intézkedések hatálya alatt állt személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 93/1990. (XI. 21.) Korm. rendelet alapján a személyes szabadság korlátozása miatti kárpótlás címén kifizetett összegek 100%-a igénylésének fedezetéül. Az e pont szerint biztosított támogatás kizárólag az abban meghatározott célokra fordítható. A támogatás szempontjából kizárólag az egységes rovatrend „Ellátottak pénzbeli juttatásai” megfelelő rovatain elszámolt kiadások vehetők figyelembe.
   - g) Az előirányzat szolgál fedezetül a helyi önkormányzat és társulása számára a Svájci-Magyar Együttműködési Program fejlesztési célú pályázataihoz szükséges saját forrás kiegészítésére a korábbi években megítélt és támogatási szerződésben rögzített központi költségvetési támogatásból adódó fizetési kötelezettségek teljesítésére.
-  - h) Az előirányzatból 1 500,0 millió forint a bölcsődei fejlesztési program célját szolgálja. A IX. Helyi önkormányzatok támogatásai fejezetben első ízben 2018. évben létrehozott Bölcsődei fejlesztési program cím terhére biztosított támogatás felhasználási határideje a támogatás folyósításának évét követő második év december 31-e.
+  - h) Az előirányzatból 1 500,0 millió forint a bölcsődei fejlesztési program célját szolgálja.
+  - i) Az előirányzatból a települési önkormányzat vissza nem térítendő támogatást igényelhet az illetékességi területén bevallott, de meg nem fizetett idegenforgalmi adó összegével egyező összegben. A negyedévi összegre vonatkozó igénylés a helyi önkormányzatokért felelős miniszter által üzemeltetett elektronikus rendszerben nyújtható be, a tárgynegyedévet követő hónap 20. napjáig. A IX. Helyi önkormányzatok támogatásai fejezetben első ízben 2018. évben létrehozott Bölcsődei fejlesztési program cím terhére biztosított támogatás felhasználási határideje a támogatás folyósításának évét követő második év december 31-e.
 - 11. A költségvetési szerveknél foglalkoztatottak 2019. évi áthúzódó és 2020. évi kompenzációja Az előirányzat szolgál a helyi önkormányzati intézményrendszerben 2019. december 1. és 2020. november 30. között foglalkoztatottak havi keresete után járó bérkompenzációjának támogatására. A támogatás a helyi önkormányzatokat a költségvetési szervek és az egyházi jogi személyek foglalkoztatottjainak 2019. évi kompenzációjáról szóló 275/2018. (XII. 21.) Korm. rendeletben és e törvény 74. § (1) bekezdés a) pontjában kapott felhatalmazás alapján kiadott kormányrendeletben foglaltak szerint illeti meg.
 
 | ELŐIRÁNYZAT: | 2 987,0 millió forint |

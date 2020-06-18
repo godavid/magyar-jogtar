@@ -646,7 +646,7 @@ szolgálati beosztásából indokolás nélkül rendelkezési állományba áthe
 46. § (1) A Magyar Honvédség rendelkezési állományába tartozik,
 
 - a) az állomány azon tagja, aki Magyarországon települő katonai szervezetnél teljesít szolgálatot, a vezénylés időtartamára,
-- b) az állomány azon tagja, aki más szervnél teljesít szolgálatot, az 51. § (3) bekezdésében foglalt kivétellel, a más szervnél történő szolgálatteljesítés időtartamára,
+- b) az állomány azon tagja, aki más szervnél teljesít szolgálatot, az 51. § (3) bekezdésében és a 237/C. § (3) bekezdésében foglalt kivétellel, a más szervnél történő szolgálatteljesítés időtartamára,
 - c) az állomány azon tagja, aki nem katonai oktatási intézményben teljesít szolgálatot, a vezénylés időtartamára,
 - d) a hivatásos állomány azon tagja, aki a KNBSZ-nél teljesít szolgálatot, a vezénylés időtartamára,
 - e) az állomány azon tagja, aki külföldön teljesít szolgálatot, melynek időtartama egybefüggően meghaladja az 1 évet, a vezénylés időtartamára, vagy aki 1 évet meghaladó időtartamra hosszabbított külföldi szolgálatot, a meghosszabbítástól annak megszűnéséig,
@@ -733,7 +733,7 @@ tart.
 
 (2) A munkáltatói jogkört gyakorló az állomány 46. § (1) bekezdés f)–i), k), l), és p)–r) és u) pontja alá tartozó tagját megfelelő szolgálati feladat ellátására vezényli. A vezénylés időtartama a 46. § (1) bekezdés r) pontja esetén nem haladhatja meg a rendelkezési állomány időtartamának felét.
 
-(3) A más helységbe történő vezénylések együttes időtartama 3 évenként a 6 hónapot nem haladhatja meg. A vezénylés befejezésétől számított 6 hónapon belül újabb vezénylésre nem kerülhet sor. E bekezdés szerinti korlátozásoktól az állomány tagjának kérelmére vagy beleegyezésével el lehet térni.
+(3)
 
 (4) Beleegyezésével vezényelhető más helységbe az állomány tagja, a várandóssága megállapításától gyermeke 3 éves koráig, ha kiskorú gyermekét egyedül neveli, vagy ha tartósan ápolásra szoruló közeli hozzátartozóját vagy élettársát gondozza.
 
@@ -761,7 +761,7 @@ tart.
 
 (2) A megállapodás megkötése alapján az állomány tagja a vezénylés tartamára további külön munkáltatói döntés nélkül kerül a 46. § (1) bekezdés b) pontja szerinti rendelkezési állományba.
 
-(3) Ha a más szervnél történő szolgálatteljesítés nem haladja meg a hat hónapot, a miniszter – a szolgálati érdek figyelembevételével – az (1) bekezdés szerinti megállapodásban dönthet a rendelkezési állományba helyezés mellőzéséről is. Ha a miniszter a rendelkezési állományba helyezés mellőzéséről döntött, az állomány tagjának jogai és kötelezettségei – ide nem értve a 113. § (2) bekezdése szerinti szabadságmegváltást – azonosak az állomány 46. § (1) bekezdés b) pontja szerinti rendelkezési állományba helyezett tagjának jogaival és kötelezettségeivel.
+(3) Ha a más szervnél történő szolgálatteljesítés – e törvény eltérő rendelkezése hiányában – nem haladja meg a hat hónapot, a miniszter – a szolgálati érdek figyelembevételével – az (1) bekezdés szerinti megállapodásban dönthet a rendelkezési állományba helyezés mellőzéséről is. Ha a miniszter a rendelkezési állományba helyezés mellőzéséről döntött, az állomány tagjának jogai és kötelezettségei – ide nem értve a 113. § (2) bekezdése szerinti szabadságmegváltást – azonosak az állomány 46. § (1) bekezdés b) pontja szerinti rendelkezési állományba helyezett tagjának jogaival és kötelezettségeivel.
 
 (4) A más szervnél történő szolgálatteljesítés időtartama legfeljebb öt év, amely egy alkalommal, legfeljebb öt évvel meghosszabbítható.
 
@@ -907,14 +907,16 @@ feltéve, hogy a szolgálati beosztás ellátásához miniszteri rendeletben el�
 - d) azonnali hatállyal a próbaidő alatt, vagy
 - e) lemondással vagy egyoldalú szerződésbontással.
 
+(2a) A (2) bekezdés e) pontjától eltérően különleges jogrend ideje alatt a szerződéses állomány tagja egyoldalú szerződésbontással nem szüntetheti meg a szolgálati viszonyát.
+
 (3) Nem alkalmazható az (1) bekezdés d) pontja, és a (2) bekezdés a méltatlansági eljárás elrendelésétől, annak befejezését követő 30 napig.
 
 (3a) Nem alkalmazható az (1) bekezdés d) pontja a 68/B. § (4) bekezdésében foglalt időtartam alatt, a szerződéses állomány tagja szolgálati viszonyának a (2) bekezdés c) pontja alapján történő megszüntetésének vagy a 68. § (1) bekezdés n) vagy o) pontja alapján történő megszűnésének időpontjáig.
 
-(4) Nem szűnik meg a szerződéses állomány tagjának szolgálati viszonya az (1) bekezdés d) pontja alapján, ha
+(4) Nem szűnik meg a szerződéses állomány tagjának szolgálati viszonya az (1) bekezdés d) pontja alapján,
 
-- a) a felek a szerződésben vállalt szolgálati időt a szerződés módosításával meghosszabbítják, vagy
-- b) a szerződéses állomány tagja a 61. § (3) bekezdése szerinti feladat-végrehajtásban személyesen részt vesz, az ott megjelölt időtartam alatt.
+- a) ha a felek a szerződésben vállalt szolgálati időt a szerződés módosításával meghosszabbítják, továbbá
+- b) különleges jogrend ideje alatt.
 
 (5) A (3) bekezdés, a (3a) bekezdés, valamint a (4) bekezdés b) pontja esetén a vállalt szolgálati idő lejártakor a szerződéses állomány tagjának szolgálati viszonya e törvény erejénél fogva meghosszabbodik. E rendelkezés nem alkalmazható, ha a munkáltatói jogkört gyakorló a szerződéses állomány tagjának kérelmére, különös méltánylást érdemlő egyéni érdekre tekintettel, a szolgálati viszony szerződésben megállapított határozott idő letelte szerinti megszűnését megállapítja.
 
@@ -934,8 +936,8 @@ feltéve, hogy a szolgálati beosztás ellátásához miniszteri rendeletben el�
 
 (3) Az (1) bekezdéstől eltérően nem mondhat le a szolgálati viszonyáról a hivatásos állomány tagja
 
-- a) a katonai műveletben való részvételt engedélyező döntést követően, nemzetközi szerződésből eredő kollektív védelmi feladatok ellátásának időszakában, és az azt követő 30 napon belül,
-- b) a veszélyhelyzet időtartama alatt feltéve, hogy a feladat-végrehajtásban személyesen részt vesz.
+- a) a katonai műveletben való részvételt engedélyező döntést követően, nemzetközi szerződésből eredő kollektív védelmi feladatok ellátásának időszakában, és az azt követő 30 napon belül, feltéve, hogy a feladat-végrehajtásban személyesen részt vesz, továbbá
+- b) különleges jogrend ideje alatt.
 
 (4)
 
@@ -1850,7 +1852,7 @@ valósul-e meg.
 
 (2) Az (1) bekezdésen túl mentesül az állomány tagja a szolgálatteljesítési kötelezettség alól, ha jogszabály ezt előírja, vagy a munkáltatói jogkört gyakorló írásban engedélyezi. A szolgálatteljesítési kötelezettség alóli mentesülés igénybevételének rendjét miniszteri rendelet határozza meg.
 
-(3)
+(3) Az (1) bekezdés c) pontja szerinti esetben a szolgálatteljesítés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy az állomány tagja előző évről megmaradt szabadságát, a túlszolgálat ellentételezését biztosító pihenőidőt és az éves szabadságának 112. § (1) bekezdésében foglaltak szerinti időarányos részét már kiadta. Ebben az esetben a munkáltatói jogkört gyakorló az általa meghatározott szabadság kezdő napját a 112. § (1) bekezdésétől eltérően a szabadság kezdete előtt 15 napon belül is közölheti.
 
 #### 64. Az alap- és a pótszabadság
 
@@ -2051,6 +2053,8 @@ időtartamát.
 - c) ha a 46. § (1) bekezdés j) pontja alapján rendelkezési állományba tartozik,
 - d) a jogellenes távollét időtartamára, vagy
 - e) a szolgálati viszony 58. § (1) bekezdése és 58/A. § (1) bekezdése szerinti szünetelése időtartamára.
+
+(8) Az állomány tagja a 108. § (1) bekezdés c) pontja szerinti esetben miniszteri rendeletben meghatározott mértékű illetményre jogosult.
 
 #### 70. Alapilletmény
 
@@ -3351,6 +3355,8 @@ különbözetének megtérítése iránti igényt.
 
 (2) Megszüntethető az önkéntes tartalékos szolgálati viszony bármelyik fél által tett egyoldalú jognyilatkozattal, indokolás nélkül. Az egyoldalú megszüntetés esetén az önkéntes tartalékos szolgálati viszony a jognyilatkozat közlését követő legalább 1, legfeljebb 6 hónap elteltével szűnik meg. A felek ennél rövidebb időpontban is megállapodhatnak. E bekezdést a rendelkezésre állás időszakában is alkalmazni kell.
 
+(2a) A (2) bekezdéstől eltérően, különleges jogrend idején az önkéntes tartalékos katona a szolgálati viszonyát egyoldalú nyilatkozattal nem szüntetheti meg.
+
 (3) Ha az önkéntes tartalékos katona kezdeményezi a szerződés megszüntetését, részére az illetmény és a rendelkezésre állási díj időarányos részét ki kell fizetni.
 
 (4) Ha az önkéntes tartalékos katona szerződésének megszüntetésére közös megegyezéssel vagy a honvédelmi szervezet kezdeményezésére kerül sor, a megkezdett év után járó rendelkezésre állási díjat részére teljes összegben ki kell fizetni.
@@ -3615,6 +3621,36 @@ jogosult.
 
 (3) A 247/H. § (6) bekezdésének felfüggesztése esetén, ha az állomány tagjának a vezénylés alatt teljesített túlszolgálata túlszolgálati díjjal ellentételezésre került, a 97. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkaszüneti napon, valamint a rá irányadó heti pihenőnapon történő szolgálatteljesítését nem kell kétszeresen figyelembe venni.
 
+### XXI/B. Fejezet — A HVT. 36. § (1) BEKEZDÉS K) PONTJA SZERINTI FELADATBAN RÉSZT VEVŐ ÁLLOMÁNYRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+
+237/B. § Ha a Honvédség a Kormány döntése alapján a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban részt vesz, a Kormány rendeletében az e Fejezetben foglalt különös szabályok alkalmazását rendelheti el az 1. § (1) bekezdése szerinti állomány tagja és – a 212–222. §-ban foglaltakra figyelemmel – a tényleges szolgálatot teljesítő önkéntes tartalékos katona vonatkozásában.
+
+237/C. § (1) A más szervnél történő szolgálatteljesítésére vonatkozó megállapodásban az 52/A. § (2) bekezdésében foglaltakon túl, az 52. § (1) bekezdésében szereplő bármely kérdésben el lehet térni, ide nem értve a más szerv vezetőjének az állomány más szervhez vezényelt tagja tekintetében a szolgálatteljesítésre vonatkozó rendelkezési jogát.
+
+(2) Az 52. § (1) bekezdésében foglaltaktól eltérően a más szervhez vezényelt hivatásos vagy szerződéses katona a miniszter döntése alapján egyenruha viselésére köteles.
+
+(3) A miniszter az 51. § (3) bekezdésétől eltérően a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban történő közreműködés időtartama alatt az 51. § (1) bekezdés szerinti megállapodásban dönthet a rendelkezési állományba helyezés mellőzéséről is. Ha a miniszter a rendelkezési állományba helyezés mellőzéséről döntött, az állomány tagjának jogai és kötelezettségei – ide nem értve a 113. § (2) bekezdése szerinti szabadságmegváltást – azonosak az állomány 46. § (1) bekezdés b) pontja szerinti rendelkezési állományba helyezett tagjának jogaival és kötelezettségeivel.
+
+237/D. § A szolgálati viszony a 38. § (8) bekezdésétől, a 68. § (1) bekezdés b) pontjától, valamint a 78. § (2) bekezdés f) pontjától eltérően nem szűnik meg a törvény erejénél fogva az ott meghatározott kiképzési, képzési és vizsgakötelezettség teljesítésének elmulasztása esetén.
+
+237/E. § A 79. § (1) bekezdésében foglaltaktól eltérően az egészségi, a pszichikai és a fizikai alkalmasság rendszeres ellenőrzési kötelezettségétől el lehet tekinteni.
+
+237/F. § (1) A 94. § (2) bekezdésétől eltérően a szolgálati rend, valamint a 97. § (2) bekezdésétől eltérően az alkalmazott szolgálatteljesítési időkeret tartama munkaköri leírás módosítása nélkül, írásbeli munkáltatói döntésben megváltoztatható.
+
+(2) A szolgálatteljesítési időbeosztás öt napon belül és egy hétnél rövidebb időtartamra is közölhető.
+
+(3) A 101. § (1) bekezdése szerinti napi pihenőidőbe a lakásról a szolgálatteljesítési helyre és az onnan való visszautazás időtartama is beszámítható. A pihenőidő időtartama ebben az esetben sem lehet – a lakásról a szolgálatteljesítési helyre és az onnan való visszautazás időtartamát levonva – kevesebb hat óra időtartamnál.
+
+(4) Az állomány tagja számára a 105. § (3) bekezdés a) és c) pontja szerint elrendelt laktanyán kívüli készenléti szolgálat után fokozott igénybevételi illetménypótlék nem jár, valamint a 105. § (3) bekezdés b) és c) pontja szerint elrendelt laktanyai készenléti szolgálat után a fokozott igénybevételi illetménypótlék óránkénti mértéke a honvédelmi illetményalap 0,26%-a.
+
+(5) A tényleges szolgálatot teljesítő önkéntes tartalékos katona részére a 105. § (3) bekezdés b) pontja szerint elrendelt laktanyai készenléti szolgálat után fokozott igénybevételi pótlék jár, melynek óránkénti mértéke a honvédelmi illetményalap 0,26%-a.
+
+(6) A munkáltatói jogkört gyakorló az általa meghatározott szabadság kezdő napját a 112. § (1) bekezdésétől eltérően a szabadság kezdete előtt 15 napon belül is közölheti.
+
+(7) Az elrendelt őr-, ügyeleti és készenléti szolgálat esetében a 106. § (1) bekezdésétől eltérően nem kell figyelembe venni a szolgálat miniszteri rendeletben meghatározott besorolását.
+
+237/G. § A Kit. 3. § (7) bekezdés b) pontja szerinti szakmai felsővezető – ha az 58/A. §-a alapján szünetel a jogviszonya – az 58/C. §-ban meghatározottakon túlmenően a feladatai ellátása során jogosult egyenruhát viselni, a miniszter előzetes egyetértése esetén.
+
 ### XXII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 139. Felhatalmazó rendelkezések
@@ -3627,7 +3663,8 @@ jogosult.
 - d) a tiszti és az altiszti állomány tagjára vonatkozó teljesítményértékelés kötelező elemeit és a kötelező elemekhez kapcsolódó eljárási rendet,
 - e) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat,
 - f) a 47. § (4) bekezdése szerinti együttműködés rendjét,
-- g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati kötelmekkel való összefüggésének, valamint a baleseti járadékra való jogosultság vizsgálatának és megállapításának szabályait.
+- g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati kötelmekkel való összefüggésének, valamint a baleseti járadékra való jogosultság vizsgálatának és megállapításának szabályait,
+- h) a XXI/B. Fejezet szerinti különös szabályok alkalmazásának bevezetését.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
@@ -3845,6 +3882,8 @@ végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megálla
 (3) A Módtv.-vel megállapított 107. § (1) bekezdése helyett a 2022. december 31-ig elrendelt és teljesített katasztrófavédelmi feladatok végrehajtásával összefüggésben elrendelt készenléti szolgálatokra a miniszter rendeletben határozhatja meg azokat az eseteket és körülményeket, amelyek bekövetkezése esetén – a feladatvégzés idejére – a 128. § (3) bekezdése szerinti pótlék helyett a 247/H. § túlszolgálat díjazására vonatkozó szabályait kell alkalmazni.
 
 (4) Az egyes honvédelmi tárgyú törvények módosításáról szóló 2016. évi XXXVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 98. § (3) bekezdése helyett a 2022. december 31-ig elrendelt és teljesített, az éves kiképzési tervben meghatározott gyakorlat esetén, ha a gyakorlat egyik napja vagy napjai pihenő- vagy munkaszüneti napra esnek, azokat azonos számú szabadnappal kell ellentételezni. A szabadnapot a gyakorlat befejeződését követő legkésőbb 90 napon belül kell kiadni. Ha a szolgálati elfoglaltság miatt a szabadnapot 90 napon belül igazoltan nem lehet kiadni, azt legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt meg kell váltani.
+
+(5) A (4) bekezdést a gyakorlatnak nem minősülő, tartós igénybevétel esetén is alkalmazni kell. Tartós igénybevételnek minősül a szolgálati feladatra vezénylés időtartama alatt a legalább hét napig tartó, egymást folyamatosan váltó feladatvégrehajtás és rendelkezésre állás, ha a rendelkezésre állás helyét a munkáltatói jogkört gyakorló határozza meg. A szolgálati feladatra vezénylés időtartama alatt nem alkalmazható a 107. § (2) bekezdése arra a laktanyai készenléti szolgálatra, amikor a munkáltatói jogkört gyakorló a Hvt. 36. § (1) bekezdés k) pontjára figyelemmel a rendelkezésre állás helyét kizárólag annak érdekében határozza meg, hogy az állomány vezényelt tagjának meghatározott időpontban történő szolgálatba lépése biztosított legyen.
 
 247/J. § (1) A legénységi állomány 2015. július 1-jén állományban lévő azon tagját, akinek a beosztásához 2015. július 1-jei hatállyal szakaszvezetőnél alacsonyabb rendszeresített rendfokozatot állapítanak meg, a beosztásában e törvény erejénél fogva – alacsonyabb beosztásba helyezés nélkül is – tovább kell foglalkoztatni.
 

@@ -306,6 +306,8 @@ változásáról a honvédelmi alkalmazottat a változást követő tizenöt nap
 - c) a honvédelmi szervezet jogutód nélküli megszűnésével, vagy
 - d) a 16. § (16) bekezdésében és a 22. § (1) bekezdésében meghatározott esetben, továbbá ha törvény így rendelkezik.
 
+(1a) Az (1) bekezdés a) pontjától eltérően különleges jogrend ideje alatt nem szűnik meg a honvédelmi alkalmazotti jogviszony a kinevezésben foglalt határozott idő lejártával, kivéve, ha a munkáltatói jogkör gyakorlója írásban – legkésőbb a jogviszony megszűnésének napján – így rendelkezik, és azt közli a honvédelmi alkalmazottal.
+
 (2) A honvédelmi alkalmazotti jogviszony megszüntethető:
 
 - a) közös megegyezéssel,
@@ -332,7 +334,7 @@ változásáról a honvédelmi alkalmazottat a változást követő tizenöt nap
 
 (4) A honvédelmi alkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.
 
-(5) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény IX. Fejezetében szabályozott különleges jogrend kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
+(5) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény IX. Fejezetében szabályozott különleges jogrend, illetve veszélyhelyzet kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
 
 (6) Az e törvény hatálya alá tartozó munkáltatók között az áthelyezés háromoldalú megállapodással történik.
 
@@ -724,6 +726,10 @@ minősíteni kell.
 (4) A honvédelmi alkalmazottak tekintetében miniszteri rendelet a honvédelmi feladatok ellátásával összefüggésben, az Mt. 143. és 144. §-a szerinti pótlék helyett napi átalány illetménypótlékot is megállapíthat.
 
 (5) Az Mt. 55. § (1) bekezdése szerinti eseteken túl a honvédelmi alkalmazott a honvédelmi szervezet engedélye alapján is mentesülhet a munkavégzési kötelezettség teljesítése alól. A mentesítés miatt kiesett munkaidő az Mt. 115. § (2) bekezdése alkalmazásában munkában töltött időnek minősül, és ezen időtartamra a honvédelmi alkalmazott az Mt. 146. § (2) bekezdésétől eltérően távolléti díjra jogosult.
+
+(5a) Ha a honvédelmi alkalmazott az Mt. 55. § (1) bekezdés j) pontja szerint mentesül a rendelkezésre állási és munkavégzési kötelezettség alól, akkor erre az időtartamra távolléti díjának miniszteri rendeletben meghatározott mértékű részére jogosult. A honvédelmi alkalmazott és a munkáltató az Mt. 146. § (2) bekezdésétől eltérően ezzel összefüggésben eltérő megállapodást nem köthet.
+
+(5b) Az (5a) bekezdés szerinti esetben a rendelkezésre állási és a munkavégzés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy a honvédelmi alkalmazott éves szabadságának időarányos részét – az Mt. 122. § (1)–(3) bekezdésében foglaltak szerint – már kiadta. Ebben az esetben az Mt. 122. § (4) bekezdése nem alkalmazható.
 
 (6) A Hvt. 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő honvédelmi alkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés, az egészségügyi válsághelyzet vagy a honvédelmi válsághelyzet időtartama alatt teljesített munkavégzés tekintetében a felek az Mt. 99. § (2) bekezdés b) pontjától, 109. § (1) bekezdésétől és 135. § (3) bekezdésétől írásbeli megállapodással eltérhetnek, azzal, hogy a megállapodás alapján teljesített munkaidő
 
@@ -1154,9 +1160,29 @@ eltöltött időt.
 - f) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, és
 - g) az adóhatóság, a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv, az üzemi baleseteket kivizsgáló szerv és a munkavédelmi szerv.
 
+### VI/A. Fejezet — A HVT. 36. § (1) BEKEZDÉS K) PONTJA SZERINTI FELADATBAN RÉSZT VEVŐ HONVÉDELMI ALKALMAZOTTAKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+
+92/A. § Ha a Magyar Honvédség a Kormány döntése alapján a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban részt vesz, a Kormány rendeletében az e Fejezetben foglalt különös szabályok alkalmazását rendelheti el a honvédelmi alkalmazottak vonatkozásában.
+
+92/B. § (1) A honvédelmi alkalmazotti jogviszony esetében az Mt. 104. § (1) bekezdésétől eltérően napi pihenőidőként legalább 8 órát kell biztosítani. A napi pihenőidőbe a lakásról a munkavégzési helyre és az onnan való visszautazás időtartam is beszámítható, de a pihenőidő időtartama ebben az esetben sem lehet – a lakásról a szolgálatteljesítési helyre és az onnan való visszautazás időtartamát levonva – kevesebb hat óra időtartamnál.
+
+(2) A honvédelmi alkalmazotti jogviszony esetében a heti pihenőnapok havonta összevontan is kiadhatók.
+
+(3) A honvédelmi alkalmazottak éves kötelező honvédelmi továbbképzésétől el lehet tekinteni.
+
+(4) Az Mt. 97. § (4) és (5) bekezdésétől és az Mt. 110. § (6) bekezdésétől eltérően a munkaidő-beosztás és a rendelkezésre állás tartama öt napon belül és egy hétnél rövidebb időtartamra is közölhető.
+
+(5) A honvédelmi alkalmazott részére az Mt. 110. §-a szerint elrendelt készenlét idejére illetménypótlék nem jár, ide nem értve az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § a)–c) pontjának hatálya alá tartozó honvédelmi alkalmazottat.
+
+(6) A munkáltató a honvédelmi alkalmazottat az Mt. 53. § (2) bekezdésében meghatározott mértéknél hosszabb időtartamban is a kinevezéstől eltérően foglalkoztathatja.
+
+(7) Az Mt. 122. § (4) bekezdésétől eltérően a munkáltató az általa meghatározott szabadság kezdő napját a szabadság kezdete előtt 15 napon belül is közölheti a honvédelmi alkalmazottal.
+
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 15. Felhatalmazó rendelkezések
+
+92/C. § Felhatalmazást kap a Kormány, hogy rendeletben elrendelje a VI/A. Fejezet szerinti különös szabályok alkalmazását.
 
 93. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
@@ -1174,7 +1200,7 @@ eltöltött időt.
 - 12. a minősítési szempontokat, illetve az egyes munkakörökben foglalkoztatott honvédelmi alkalmazott minősítésénél kizárt szempontokat,
 - 13. munkakörönként a napi munkaidőből kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
 - 14. a honvédelmi alkalmazottnak adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
-- 15. a honvédelmi alkalmazottak illetményének folyósítására, illetve teljesítményjuttatásra vonatkozó részletes szabályokat,
+- 15. a honvédelmi alkalmazottak illetményének folyósítására, az 51. § (5a) bekezdése szerinti illetmény mértékére, illetve a teljesítményjuttatásra vonatkozó részletes szabályokat.
 - 16. az 51. § (7) bekezdése szerinti hátrányos jogkövetkezményeket,
 - 17. a honvédelmi alkalmazottaknak és hozzátartozóiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és – visszatérítési kötelezettség esetén – az elengedés részletes rendjét,
 - 18. a honvédelmi alkalmazottak és hozzátartozóik üdültetésének rendjét,

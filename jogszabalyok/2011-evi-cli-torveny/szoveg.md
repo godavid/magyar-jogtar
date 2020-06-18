@@ -468,6 +468,8 @@ indítványa alapján elvi véleményt nyilvánít.
 
 (6) A teljes ülés az 50. § (2) bekezdés d)–e) pontjai szerinti személyi kérdésekben titkos szavazással hozza meg döntését. Az 50. § (2) bekezdés d) pontja szerinti személyi kérdésben az érintett tag nem szavazhat.
 
+48/A. § Az Alkotmánybíróság teljes ülése, valamint a tanács ülése az elnök döntése alapján elektronikus kommunikációs eszköz igénybevételével is megtartható.
+
 49. § (1) A tanácsok számáról, összetételéről és a tanácsvezető személyéről az elnök javaslatára a teljes ülés dönt. A tanácsok összetétele háromévente, a tanácsvezető személye évente megújul.
 
 (2) A tanács ideiglenes vagy állandó tanács formájában hozható létre.
@@ -691,6 +693,11 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 67. § Az Alkotmánybíróság előtt folyamatban lévő eljárásokban a polgári perrendtartásról szóló törvény anyanyelv használatára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 68. § A 23–24. § és a 32–33. § szerinti eljárásban az Alkotmánybíróság a részére megküldött indítványokat elektronikus formában, bárki számára, személyazonosítás nélkül, korlátozásmentesen nyilvánosságra hozza. A 25–27. § szerinti eljárásban az Alkotmánybíróság az indítványokat az indítványozó hozzájárulása esetén nyilvánosságra hozza.
+
+68/A. § Különleges jogrend idején
+
+- a) az elnök és a főtitkár gondoskodik az Alkotmánybíróság folyamatos működéséről, és megteszi az ehhez szükséges szervezeti működtetési, ügyviteli és döntés-előkészítési intézkedéseket, valamint
+- b) az elnök engedélyezheti az Alkotmánybíróság ügyrendjétől való eltérést.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

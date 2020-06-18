@@ -969,7 +969,7 @@ akkor a vételi ajánlatot legkésőbb az 55. § (2) bekezdésében meghatározo
 
 (3) Összehangoltan eljáró személyek befolyásszerzése esetén a vételi ajánlat megtételére valamennyi szerződő fél együttesen köteles, kivéve, ha a felek megállapodnak a vételi ajánlatot tevő fél személyéről. A vételi ajánlat megtételére kötelezett személyében való megállapodás nem mentesíti a feleket a vételi ajánlat megtételével kapcsolatos felelősség alól.
 
-(4) A vételi ajánlat útján történő befolyásszerzés lebonyolítására a Bszt. 5. §-a (2) bekezdésének d) pontjában meghatározott szolgáltatás végzésére vonatkozó engedéllyel rendelkező befektetési vállalkozást, hitelintézetet (e fejezet alkalmazásában a továbbiakban: befektetési szolgáltató) kell megbízni.
+(4) A vételi ajánlat útján történő befolyásszerzés lebonyolítására a Bszt. 5. §-a (2) bekezdésének d) pontjában meghatározott szolgáltatás végzésére vonatkozó engedéllyel rendelkező befektetési vállalkozást, hitelintézetet (e fejezet alkalmazásában a továbbiakban együtt: befektetési szolgáltató) kell megbízni.
 
 (5) Nem kell az (1)–(4) bekezdés rendelkezéseit alkalmazni abban az esetben, ha az (1) bekezdésben meghatározott mértékű befolyásszerzésre a Szantv. keretében alkalmazható szanálási intézkedések vagy hatáskörök alkalmazásával kerül sor.
 

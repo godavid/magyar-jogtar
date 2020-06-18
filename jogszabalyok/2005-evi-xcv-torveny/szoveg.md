@@ -422,6 +422,8 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2a) A közfinanszírozásban részesülő gyógyszerrel való folyamatos ellátásról a forgalomba hozatali engedély jogosultja, ennek hiányában a forgalmazó köteles gondoskodni.
 
+(2b) A gyógyszerészeti államigazgatási szerv a gyógyszerhiányt vagy annak kockázatát bármely, a jogszabályban foglalt feladatainak ellátásával összefüggésben tudomására jutó információk alapján, a (2) bekezdés szerinti értesítés hiányában is megállapíthatja.
+
 (3) A gyógyszer-nagykereskedelmi engedély jogosultja köteles azon gyógyszereket beszerezni és forgalmazni, amelyek forgalmazására nagykereskedelmi tevékenységi engedélyt kapott.
 
 (3a) A gyógyszer-nagykereskedelmi engedély jogosultja a (3) bekezdés szerinti forgalmazási tevékenysége körében köteles a megrendelések szokásos üzletmenet szerinti arányos kielégítése mellett a betegellátási szükségletet is figyelembe venni.
@@ -697,32 +699,47 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 - a) az adott beteg kezelése más forgalomban lévő gyógyszer alkalmazási előírása szerint nem lehetséges vagy eredménytelen, és a külön jogszabály szerinti bizonyítékok alapján az adott gyógyszer indikáción túli alkalmazásával esély van a gyógyszeres kezelés sikerességére, illetve a beteg állapotának javítására vagy stabilizálására,
 - b) az adott gyógyszer Magyarországon vagy más országban forgalomba hozatalra engedéllyel rendelkezik, és
-- c) az adott terápiás terület szakorvosi szakképesítéssel rendelkező orvosa a külön jogszabályban foglalt feltételeknek megfelelően a gyógyszer indikáción túli alkalmazását az adott betegre nézve a gyógyszerészeti államigazgatási szervtől kérelmezte és azt a gyógyszerészeti államigazgatási szerv egyedileg engedélyezte.
+- c) az adott terápiás terület szakorvosi szakképesítéssel rendelkező orvosa a külön jogszabályban foglalt feltételeknek megfelelően a gyógyszer indikáción túli alkalmazását az adott betegre nézve
+  - ca) a gyógyszerészeti államigazgatási szervtől kérelmezte és azt a gyógyszerészeti államigazgatási szerv egyedileg engedélyezte, vagy
+  - cb) a (6d)–(6h) bekezdés szerinti esetben a gyógyszerészeti államigazgatási szerv részére bejelentette.
 
 (6a) Gyógyszert a (6) bekezdésben foglaltakon túl akkor is lehet indikáción túli gyógyszerrendelés keretében rendelni, illetve alkalmazni, ha
 
 - a) az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagy mértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet vagy
 - b) az indikáción túli gyógyszerrendelés keretében rendelt gyógyszer előny-kockázat aránya kedvezőbb, mint az adott javallatban forgalomba hozatalra engedélyezett gyógyszeré és jogszabály szerinti bizonyítékok alapján az adott gyógyszer indikáción túli alkalmazásával esély van a gyógyszeres kezelés sikerességére, illetve a beteg állapotának javítására vagy stabilizálására, valamint a (6) bekezdés b)–c) pontjában foglaltak teljesülnek.
 
-(6b) A (6) bekezdés c) pontja szerinti engedély iránti kérelem papíralapon is előterjeszthető.
+(6b) A (6) bekezdés c) pontja szerinti engedély iránti kérelem, illetve bejelentés papíralapon is előterjeszthető.
 
 (6c) A (6) bekezdés c) pontja szerinti engedély kiadására irányuló eljárásban a gyógyszerészeti államigazgatási szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerint, elektronikus úton közli határozatát az egészségügyi szolgáltatóval.
 
+(6d) A (6) bekezdés c) pont ca) alpontjában és a (6a) bekezdésben foglaltaktól eltérően gyógyszert indikáción túli gyógyszerrendelés keretében a (6e)–(6h) bekezdés szerinti esetben, indikáción túli gyógyszerrendelési ajánlásban szereplő gyógyszer esetében a gyógyszerészeti államigazgatási szerv részére történő bejelentés alapján is lehet rendelni, illetve alkalmazni.
+
+(6e) A gyógyszerészeti államigazgatási szerv kérelemre vagy hivatalból, meghatározott hatóanyag vagy készítmény meghatározott javallatban történő indikáción túli rendelésére vonatkozóan – a szakmai kollégium véleményének kikérését követően – betegcsoportra vonatkozó ajánlást (e § alkalmazásában: indikáción túli gyógyszerrendelési ajánlás) adhat ki. Az indikáción túli gyógyszerrendelési ajánlás kiadása során a gyógyszerészeti államigazgatási szerv mérlegeli
+
+- a) terápiás terület jellegét és az adott terápiás területen alkalmazható, forgalomba hozatali engedéllyel rendelkező gyógyszerek alkalmazási előírásában szereplő javallatokat, és
+- b) a legújabb szakmai és tudományos ismereteket a rendelkezésre álló terápiás megoldások és terápiás javaslatok tekintetében, a releváns klinikai vizsgálati eredményeket.
+
+(6f) Az indikáción túli gyógyszerrendelési ajánlás kiadása iránt kérelem tartalmi követelményeit a 32. § (5) bekezdés g) pontja szerinti felhatalmazás alapján kiadott miniszteri rendelet állapítja meg.
+
+(6g) Az indikáción túli gyógyszerrendelési ajánlásokat a gyógyszerészeti államigazgatási szerv a honlapján közzéteszi. Az indikáción túli gyógyszerrendelési ajánlás nem érinti a kezelőorvosnak a (6) bekezdés a) pontjában foglaltakért fennálló felelősségét, különös figyelemmel az adott beteg állapotára, kísérő betegségeire, illetve az indikáción túli gyógyszerrendelési ajánlásban megjelölt, egyedileg mérlegelendő további szempontokra.
+
+(6h) A indikáción túli gyógyszerrendelési ajánlásban foglalt esetben az indikáción túli gyógyszerrendelést, illetve -alkalmazást a kezelőorvos a gyógyszerészeti államigazgatási szerv részére utólag, az indikáción túli gyógyszerrendelési ajánlásban meghatározott határidőben, illetve gyakorisággal, de legalább minden év január 31-ig és július 31-ig bejelenti. A bejelentés a kezelőorvos által kezelt több betegre együttesen is megtehető. Az indikáción túli gyógyszerrendelési ajánlás a bejelentés tartalmára vonatkozóan további szempontokat is megállapíthat.
+
 (7) Amennyiben a gyógyszer rendelése a forgalomba hozatali engedélyének alkalmazási előírása alapján az adott esetben ellenjavallt, nem lehet indikáción túli gyógyszerrendelés keretében sem alkalmazni.
 
-(8) A gyógyszerészeti államigazgatási szerv a (6)–(6a) bekezdés szerinti engedély kiadásáról a kérelem beérkezését követő naptól számított huszonegy napon – sürgős szükség esetén soron kívül, de legkésőbb három napon – belül dönt, szükség esetén az illetékes szakmai kollégium véleményének kikérését követően.
+(8) A gyógyszerészeti államigazgatási szerv a (6) bekezdés c) pont ca) alpontja és a (6a) bekezdés szerinti engedély kiadásáról a kérelem beérkezését követő naptól számított nyolc napon – sürgős szükség esetén soron kívül, de legkésőbb három napon – belül dönt, szükség esetén a szakmai kollégium véleményének birtokában.
 
 (9) Sürgős szükség esetén indokolt, indikáción túli gyógyszerrendelés szabályait külön jogszabály tartalmazza.
 
-(10) Az orvos a (8) bekezdés szerinti engedély másolatát a gyógyszeres kezelés megkezdését megelőzően átadja a betegnek, aki az átvételt aláírásával igazolja. Az átvételről szóló igazolást az orvos csatolja a betegdokumentációhoz.
+(10) Az orvos a (8) bekezdés szerinti engedély másolatát, vagy a (6d)–(6h) bekezdés szerinti esetben az indikáción túli gyógyszerrendelési ajánlásban foglaltak alapján elkészített tájékoztatást a gyógyszeres kezelés megkezdését megelőzően átadja a betegnek, aki az átvételt és beleegyezését az indikáción túli gyógyszerrendelés keretén belül alkalmazott gyógyszerrel történő kezelésbe aláírásával igazolja. Az átvételről és beteg beleegyezéséről szóló igazolást az orvos csatolja a betegdokumentációhoz.
 
-(11) A gyógyszerészeti államigazgatási szerv a (6)–(6a) bekezdésben foglalt gyógyszerrendelésről nyilvántartást vezet a beteg állapotának, valamint a gyógyszer hatásának folyamatos nyomon követése érdekében, mely nyilvántartás tartalmazza az orvos nevét és pecsétszámát, a beteg nevét, születési idejét és TAJ-számát, a gyógyszer nevét, hatóanyagát, hatáserősségét, gyógyszerformáját, kiszerelését, valamint annak a javallatnak a pontos megnevezését, amelyben a kezelőorvos a gyógyszert rendelni kívánja, valamint a gyógyszer tervezett adagolását, a kezelés várható időtartamát.
+(11) A gyógyszerészeti államigazgatási szerv a (6)–(6h) bekezdésben foglalt gyógyszerrendelésről nyilvántartást vezet a beteg állapotának, valamint a gyógyszer hatásának folyamatos nyomon követése érdekében, mely nyilvántartás tartalmazza az orvos nevét és pecsétszámát, a beteg nevét, születési idejét és TAJ-számát, a gyógyszer nevét, hatóanyagát, hatáserősségét, gyógyszerformáját, kiszerelését, valamint annak a javallatnak a pontos megnevezését, amelyben a kezelőorvos a gyógyszert rendelni kívánja, valamint a gyógyszer tervezett adagolását, a kezelés várható időtartamát.
 
-(12) A (6)–(6a) bekezdés szerinti kérelemre, a (8) bekezdés szerinti engedélyre és a (10) bekezdés szerinti betegtájékoztatásra vonatkozó részletes szabályokat külön jogszabály tartalmazza.
+(12) A (6)–(6a) bekezdés szerinti kérelemre, illetve bejelentésre, a (8) bekezdés szerinti engedélyre és a (10) bekezdés szerinti betegtájékoztatásra vonatkozó részletes szabályokat külön jogszabály tartalmazza.
 
-(13) A (2), (6) és (6a) bekezdés szerinti eljárások igazgatási szolgáltatási díjmentesek.
+(13) A (2), (6), (6a) és (6h) bekezdés szerinti eljárások igazgatási szolgáltatási díjmentesek.
 
-(14) A (2), (6) és (6a) bekezdéstől eltérően a mentés során történő gyógyszeralkalmazásra az egészségügyért felelős miniszter rendeletében foglaltak szerint kerülhet sor.
+(14) A (2), (6), (6a) és (6h) bekezdéstől eltérően a mentés során történő gyógyszeralkalmazásra az egészségügyért felelős miniszter rendeletében foglaltak szerint kerülhet sor.
 
 25/A. §
 
@@ -765,6 +782,11 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (8) A díjfizetés tárgya tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2)–(3) bekezdésében foglaltakat, a díjfizetésre kötelezettek tekintetében az Itv. 31. § (1) bekezdés első mondatában foglaltakat kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
 
+(9) Egészségügyi válsághelyzet ideje alatt az e törvény szerinti igazgatási szolgáltatási díj befizetésének igazolását a gyógyszerészeti államigazgatási szerv a kérelem elbírálásnak előfeltételeként nem vizsgálja, ha
+
+- a) a kérelem az egészségügyi válsághelyzet szerinti tömeges megbetegedést okozó humánjárvány kezelése céljából, ellátási érdekből szükséges hatósági döntés kiadására irányul, vagy
+- b) az a) pont szerinti célhoz kapcsolódóan az gyógyszerészeti államigazgatási szerv legfeljebb hat hónapos határozott időre szóló hatósági döntést ad ki.
+
 ### Engedélyezés előtti gyógyszeralkalmazás
 
 25/C. § (1) Engedélyezés előtti gyógyszeralkalmazás keretében vizsgálati készítményt, vagy forgalomba hozatali engedéllyel nem rendelkező gyógyszert (a továbbiakban e § tekintetében együttesen: gyógyszer) különös méltánylást érdemlő betegellátási érdekből a gyógyszerészeti államigazgatási szerv engedélye alapján akkor lehet alkalmazni, ha
@@ -790,6 +812,14 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 (6) Az engedélyezés előtti gyógyszerrendelés engedélyezési eljárása igazgatási szolgáltatási díjmentes.
 
 (7) Az (1)–(6) bekezdést kell akkor is alkalmazni, ha az alkalmazni kívánt gyógyszer forgalomba hozatalát az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelet szerinti központosított eljárásban már engedélyezték, azonban kereskedelmi forgalomba hozatala az Európai Unió területén még nem történt meg.
+
+(8) Engedélyezés előtti gyógyszeralkalmazás keretében gyógyszert – kiemelt járványügyi érdekből vagy egyéb, az egészségügyről szóló 1997. évi CLIV. törvény szerinti egészségügyi válsághelyzettel közvetlenül összefüggő – kiemelten különös méltánylást érdemlő betegellátási érdekből az (1), (2) és (7) bekezdésben foglaltaktól a következő eltérésekkel lehet a gyógyszerészeti államigazgatási szerv engedélye alapján alkalmazni, amennyiben a már rendelkezésre álló klinikai evidenciákra tekintettel a gyógyszer alkalmazásától várható előny/kockázat arány kedvező:
+
+- a) az (1) bekezdés a) pont aa) alpontja szerinti feltétel olyan gyógyszerrel is teljesíthető, amely az adott indikációra vonatkozóan az Európai Gyógyszerügynökség vagy az Egészségügyi Világszervezet ajánlásában vagy programjában szerepel,
+- b) az (1) bekezdés b) pontja azzal az eltéréssel alkalmazandó, hogy a kérelmező egészségügyi szolgáltató vagy – az ellátásért felelős egészségügyi szolgáltató vagy orvos megjelölése esetén – szponzor is lehet, és a kérelem előre meghatározott betegcsoportra vagy programra vonatkozóan is benyújtható,
+- c) az (1) bekezdés d) pontjától indokolt kérelem alapján a gyógyszerészeti államigazgatási szerv kivételes esetben eltekinthet, amennyiben a gyógyszer gyártója részéről a hozzájárulás, illetve a gyógyszer térítésmentes rendelkezésre bocsátására vonatkozó kötelezettségvállalás beszerzése bizonyíthatóan olyan késedelemmel járna vagy olyan aránytalan nehézségekbe ütközne, amelyek az engedély kiadását ellehetetlenítenék,
+- d) a (2) bekezdés szerinti indokolási kötelezettséget az a) pont szerinti szponzor is teljesítheti, és
+- e) a (7) bekezdés szerinti feltétel abban az esetben is teljesül, ha az alkalmazni kívánt gyógyszer kereskedelmi forgalomba hozatala Magyarország területén nem történt meg, és a c) pont szerinti kivétel nem kerül alkalmazásra.
 
 ### Ex tempore előállított radioaktív gyógyszer alkalmazása
 

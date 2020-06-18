@@ -5089,6 +5089,18 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (2) A központi személyügyi nyilvántartásba a 275. §-ban meghatározottakon túl betekinteni, valamint onnan adatot átvenni a miniszter, a miniszter kabinetfőnöke, valamint a miniszter által meghatározott, a miniszteri irányítási feladatok ellátását segítő szervezetben vagy az illetékes munkáltatói jogkört gyakorló elöljáró által meghatározott, a polgári nemzetbiztonsági szolgálatoknál dolgozó személyek jogosultak. A 275. §-ban foglalt közvetlen elektronikus hozzáférési jogosultság a polgári nemzetbiztonsági szolgálat által vezetett központi személyügyi nyilvántartás vonatkozásában nem alkalmazható.
 
+### XXXI/A. Fejezet — AZ EGÉSZSÉGÜGYI VÁLSÁGHELYZETRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+
+339/A. § (1) Az egészségügyi válsághelyzet idején a Kormány dönthet a hivatásos állomány vonatkozásában a (2) bekezdésben, a rendvédelmi igazgatási alkalmazotti állomány vonatkozásában a (3) bekezdésben foglalt különös szabályok alkalmazásának bevezetéséről.
+
+(2) Egészségügyi válsághelyzet idején
+
+- a) a szolgálati elöljáró a szolgálatteljesítési időbeosztást a 135. § (6) bekezdésétől eltérően a szolgálatba lépést megelőző egy héten belüli időpontban is közölheti a hivatásos állomány tagjával,
+- b) a 136. § (3) bekezdésében foglaltaktól eltérően a hivatásos állomány tagjánál a napi legalább nyolc óra egybefüggő pihenőidőbe a lakásról a szolgálatteljesítési helyre utazás és az onnan való visszautazás időtartama is beszámítható azzal, hogy az utazás nélkül számított időtartam ebben az esetben sem lehet rövidebb hat óránál,
+- c) az állományilletékes parancsnok a hivatásos állomány tagjának szolgálatteljesítési időrendjét írásban módosíthatja, e tekintetben nem szükséges a munkaköri leírás módosítása.
+
+(3) A (2) bekezdés b) és c) pontjában foglaltakat a rendvédelmi igazgatási alkalmazottak vonatkozásában is megfelelően alkalmazni kell.
+
 ### XXXII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 340. § Felhatalmazást kap a Kormány, hogy rendeletben:
@@ -5119,6 +5131,8 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - b) a polgári nemzetbiztonsági szolgálatok esetében azon általános iskolai végbizonyítványt vagy OKJ-s (alap vagy közép) végzettséget vagy szakmunkás bizonyítványt igénylő munkaköröket, amelyek a XXVIII/A. Fejezet hatálya alá tartozó igazgatási jogviszonyban láthatók el,
 - c) a rendészeti alap- és szakvizsgára vonatkozó követelményeket, a vizsgáztatás rendjét és az e vizsgák alóli mentesítés szabályait,
 - d) a nemzetközi közigazgatási szakértői tevékenység tartalmát, típusát és a célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályokat.
+
+340/B. § Felhatalmazást kap a Kormány, hogy rendeletben elrendelje az egészségügyi válsághelyzet idején a hivatásos állományra és a rendvédelmi igazgatási alkalmazotti állományra vonatkozó különös szabályok alkalmazásának bevezetését.
 
 341. § (1) Felhatalmazást kap a miniszter, hogy az általa irányított rendvédelmi szerv tekintetében rendeletben:
 

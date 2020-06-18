@@ -316,6 +316,8 @@ terjed ki.
 - d) az elektronikai vagyonvédelmi rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezésekről;
 - e) a vagyonőr intézkedései által okozott jogsérelem esetén igénybe vehető eljárásokról.
 
+28/A. § Egészségügyi válsághelyzetben az egészségügyi készlet megóvása érdekében eljáró vagyonőr az e törvényben meghatározott jogkörét gyakorolja azzal az eltéréssel, hogy az emberi méltóság tiszteletben tartásával jogosult az érintett beleegyezése nélkül ruházat, csomag, jármű átvizsgálására a 28. § (1) bekezdésében meghatározott feltételek hiányában is.
+
 29. § (1)
 
 (2) Ha a megbízó meghatározott dolgoknak a közterületnek nem minősülő létesítményébe, területére, illetve zárt területen vagy helyen tartott rendezvényére való bevitelét megtiltja, biztosítani kell ezen dolgok biztonságos és harmadik személytől elzárt tárolását.

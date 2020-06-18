@@ -390,13 +390,60 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (7) A szabadalmas a kényszerengedély módosítását vagy visszavonását akkor is kérheti, ha az engedélyezés alapjául szolgáló körülmények megszűntek és várhatóan nem következnek be újból. A módosításról vagy a visszavonásról úgy kell rendelkezni, hogy az a kényszerengedélyes jogos érdekeit ne sértse.
 
-### Kényszerengedély közegészségügyi problémák kezelésére
+### A 816/2006/EK rendelet hatálya alá tartozó kényszerengedély
 
 33/A. § (1) A közegészségügyi problémákkal küzdő országokba történő kivitelre szánt gyógyszeripari termékek előállításával kapcsolatos szabadalmak kényszerengedélyezéséről szóló, 2006. május 17-i 816/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 816/2006/EK rendelet) meghatározott esetben és feltételekkel a Szellemi Tulajdon Nemzeti Hivatala a találmány hasznosítására kényszerengedélyt ad.
 
 (2) A kényszerengedélyes az (1) bekezdés szerinti kényszerengedély alapján hasznosítási engedélyt nem adhat.
 
 (3) A kényszerengedélyes az (1) bekezdés szerinti kényszerengedélyről bármikor lemondhat. Az (1) bekezdés szerinti kényszerengedély – a lemondás és a visszavonás esetét kivéve – a Szellemi Tulajdon Nemzeti Hivatala által megszabott időtartamig, illetve a szabadalmi oltalom megszűnéséig áll fenn.
+
+### Közegészségügyi kényszerengedély
+
+33/B. § (1) A Szellemi Tulajdon Nemzeti Hivatala az egészségügyről szóló 1997. évi CLIV. törvény 228. § (2) bekezdése szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) összefüggő belföldi szükségletek kielégítése, illetve más országban felmerülő közegészségügyi probléma kezelésére szolgáló kényszerengedéllyel (a továbbiakban: külföldi kényszerengedély) összefüggő exportcélú hasznosítás céljából közegészségügyi kényszerengedélyt (a továbbiakban: közegészségügyi kényszerengedély) ad
+
+- a) szabadalmi vagy kiegészítő oltalom alatt álló gyógyszer, hatóanyag vagy vizsgálati készítmény, szabadalmi oltalom alatt álló orvostechnikai eszköz (a továbbiakban együtt: egészségügyi termék), vagy
+- b) egészségügyi termék előállításához szükséges, szabadalmi oltalom alatt álló eljárás, berendezés vagy eszköz
+
+hasznosítására.
+
+(2) A közegészségügyi kényszerengedély exportcélú hasznosításra csak abban az esetben adható, ha
+
+- a) a kérelmező a célországban történő hasznosításra külföldi kényszerengedéllyel rendelkezik, kivéve, ha az adott egészségügyi termék vagy egészségügyi termék előállításához szükséges eljárás, berendezés vagy eszköz a célországban nem áll szabadalmi vagy kiegészítő oltalom alatt,
+- b) az exportcélú hasznosítás a gyógyszerészeti államigazgatási szerv igazolása alapján az egészségügyi válsághelyzet elhárítását nem veszélyezteti, és
+- c) az exportcélú hasznosítás nem haladja meg a külföldi kényszerengedélyben meghatározott mértéket.
+
+(3) A közegészségügyi kényszerengedély nem ad kizárólagos jogot a hasznosításra, a közegészségügyi kényszerengedélyes a közegészségügyi kényszerengedély alapján hasznosítási engedélyt nem adhat.
+
+33/C. § (1) A közegészségügyi kényszerengedély időtartamát a Szellemi Tulajdon Nemzeti Hivatala
+
+- a) belföldi hasznosítás esetén a gyógyszerészeti államigazgatási szerv igazolása alapján az egészségügyi válsághelyzet kezelésére alkalmas szükségletekre tekintettel, de legalább 6 hónap időtartamban,
+- b) az exportcélú hasznosítás tekintetében a külföldi kényszerengedéllyel azonos időbeli hatállyal
+
+állapítja meg.
+
+(2) A 33/B. § (2) bekezdés b) pontja és az (1) bekezdés a) pontja szerinti igazolást a gyógyszerészeti államigazgatási szerv saját hatáskörben – a rendelkezésre álló készletek mennyiségére vonatkozó információk elemzésével, illetve kockázatértékelés alapján – állítja ki. Az igazolás kiállításához szükséges további adatok beszerzése érdekében a gyógyszerészeti államigazgatási szerv az Állami Egészségügyi Tartalék kezelőjéhez vagy az egészségügyért felelős miniszter által vezetett minisztériumhoz is fordulhat adatszolgáltatás iránt.
+
+(3) A közegészségügyi kényszerengedélyért a szabadalmasnak megfelelő díj jár. A díjat a Szellemi Tulajdon Nemzeti Hivatala állapítja meg. A díjnak ki kell fejeznie a közegészségügyi kényszerengedély gazdasági értékét, így különösen arányban kell állnia azzal a díjjal, amelyet a közegészségügyi kényszerengedélyesnek – a találmány tárgya szerinti műszaki területen kialakult licenciaforgalmi viszonyokra figyelemmel – a szabadalmassal kötött hasznosítási szerződés alapján fizetnie kellene.
+
+(4) A Szellemi Tulajdon Nemzeti Hivatala a (3) bekezdés szerinti díj megállapítása során figyelembe veszi különösen
+
+- a) az adott iparágban a hasznosítási díj és a nettó értékesítési árbevétel jellemző arányát, illetve
+- b) azt, hogy az adott egészségügyi termékben, vagy az egészségügyi termék előállításához szükséges, szabadalmi oltalom alatt álló eljárásban, berendezésben vagy eszközben megjelenő gazdasági előny milyen arányban vezethető vissza a közegészségügyi kényszerengedéllyel érintett szabadalom alkalmazására (fedési hányad).
+
+(5) A közegészségügyi kényszerengedélyes a közegészségügyi kényszerengedélyről a Szellemi Tulajdon Nemzeti Hivatalához címzett nyilatkozattal bármikor lemondhat. A belföldi és exportcélú hasznosításra egyaránt kiterjedő közegészségügyi kényszerengedély esetén a közegészségügyi kényszerengedélyes a belföldi vagy exportcélú hasznosításról részben is lemondhat. A lemondásról a Szellemi Tulajdon Nemzeti Hivatala értesíti szabadalmast és a gyógyszerészeti államigazgatási szervet.
+
+(6) A közegészségügyi kényszerengedély az arról való lemondással, az (1) bekezdés szerinti határozott idő lejártával, vagy a szabadalmi vagy kiegészítő oltalom megszűnésével megszűnik. A közegészségügyi kényszerengedély az exportcélú hasznosítás tekintetében a külföldi kényszerengedély megszűnésével hatályát veszti. A közegészségügyi kényszerengedélyes a külföldi kényszerengedély megszűnéséről köteles a Szellemi Tulajdon Nemzeti Hivatalát a megszűnéstől számított nyolc napon belül értesíteni.
+
+(7) A közegészségügyi kényszerengedély lemondás vagy az (1) bekezdés szerinti határozott idő letelte miatti megszűnése esetén a közegészségügyi kényszerengedélyes által jogszerűen forgalomba nem hozott egészségügyi termék, vagy az egészségügyi termék előállításához szükséges berendezés vagy eszköz megsemmisítését, illetve az egészségügyi termék előállításához szükséges eljárás hasznosításának abbahagyását a gyógyszerészeti államigazgatási szerv határozatban rendeli el.
+
+(8) A (7) bekezdés nem alkalmazandó, ha a közegészségügyi kényszerengedélyes az (1) bekezdés szerinti határozott idő letelte előtt újabb, az egészségügyi termékek előállítását megalapozó közegészségügyi kényszerengedéllyel azonos tárgyi hatályú közegészségügyi kényszerengedélyt szerez.
+
+(9) Ha a belföldi hasznosítású közegészségügyi kényszerengedély alapján előállított egészségügyi termék forgalomba hozatala törvény alapján hatósági engedélyhez kötött, az engedélyező hatóság az engedélyezésre irányuló eljárásában a közegészségügyi kényszerengedélyben foglaltakat a kérelem elbírálása során bizonyítottnak tekinti.
+
+(10) A közegészségügyi kényszerengedély alapján előállított egészségügyi termékeket a szabadalmas által előállított terméktől egyedi jelzéssel kell megkülönböztetni. A csomagoláson és valamennyi kapcsolódó iraton egyértelműen fel kell tüntetni, hogy az egészségügyi termék előállítására a Szellemi Tulajdon Nemzeti Hivatala által adott közegészségügyi kényszerengedély alapján, és kizárólag belföldi vagy a 83/J. § (2) bekezdés b) pontja szerinti országba irányuló exportcélú forgalmazás céljából került sor.
+
+(11) Ha a közegészségügyi kényszerengedély jogosultja nem tesz eleget a (10) bekezdésben foglalt kötelezettségnek, a gyógyszerészeti államigazgatási szerv az egészségügyi termék – a (10) bekezdésnek, illetve a 83/J. § (2) bekezdés d) pontjának megfelelő – átcsomagolására kötelezi.
 
 ### V. Fejezet — Találmány- és szabadalombitorlás
 
@@ -544,7 +591,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (4) A Szellemi Tulajdon Nemzeti Hivatala jár el a kiegészítő oltalmi tanúsítványokkal kapcsolatos – külön jogszabályban meghatározott – ügyekben is.
 
-(5) A Szellemi Tulajdon Nemzeti Hivatala jár el a 816/2006/EK rendelet [33/A. § (1) bek.] hatálya alá tartozó kényszerengedélyekkel összefüggő ügyekben (83/A–83/H. §-ok) is.
+(5) A Szellemi Tulajdon Nemzeti Hivatala jár el a 816/2006/EK rendelet [33/A. § (1) bek.] hatálya alá tartozó kényszerengedélyekkel összefüggő ügyekben (83/A–83/H. §), illetve a közegészségügyi kényszerengedéllyel [33/B. § (1) bek.] összefüggő ügyekben (83/I–83/K. §) is.
 
 ### A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
@@ -575,7 +622,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 46. § (1)
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a megsemmisítési eljárásban, a nemleges megállapítási eljárásban, valamint – e törvény eltérő rendelkezése hiányában – a 816/2006/EK rendelet [33/A. § (1) bek.] hatálya alá tartozó kényszerengedélyekkel összefüggő eljárásokban (83/A–83/H. §-ok). A szabadalmi leírás értelmezése tárgyában szintén háromtagú tanácsban eljárva ad szakvéleményt. A tanács szótöbbséggel dönt.
+(2) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a megsemmisítési eljárásban, a nemleges megállapítási eljárásban, valamint – e törvény eltérő rendelkezése hiányában – a 816/2006/EK rendelet [33/A. § (1) bek.] hatálya alá tartozó kényszerengedélyekkel összefüggő eljárásokban (83/A–83/H. §), és a közegészségügyi kényszerengedéllyel [33/B. § (1) bek.] összefüggő eljárásokban (83/I–83/K. §). A szabadalmi leírás értelmezése tárgyában szintén háromtagú tanácsban eljárva ad szakvéleményt. A tanács szótöbbséggel dönt.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala döntése a kézbesítéssel emelkedik jogerőre, ha nem kérik annak megváltoztatását.
 
@@ -729,7 +776,8 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 - c) a szabadalom megsemmisítése;
 - d) a nemleges megállapítás;
 - e) a 816/2006/EK rendelet [33/A. § (1) bek.] hatálya alá tartozó kényszerengedély megadása, módosítása és felülvizsgálata, valamint a kényszerengedélyes könyveibe és nyilvántartásaiba történő betekintés (83/A–83/G. §-ok);
-- f) a közzétett európai szabadalmi bejelentésben foglalt igénypontok fordításának közzététele, az európai szabadalom szövegéről készített fordítás benyújtása és a fordítás kijavítása.
+- f) a közegészségügyi kényszerengedély megadása;
+- g) a közzétett európai szabadalmi bejelentésben foglalt igénypontok fordításának közzététele, az európai szabadalom szövegéről készített fordítás benyújtása és a fordítás kijavítása.
 
 (4) E törvény eltérő rendelkezése hiányában a (3) bekezdés c)–e) pontjaiban említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 
@@ -1309,6 +1357,56 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (5) A Szellemi Tulajdon Nemzeti Hivatala értesíti az Európai Bizottságot az (1) bekezdés szerinti határozatról és a (4) bekezdésben említett intézkedésekről.
 
+### A közegészségügyi kényszerengedélyekkel összefüggő eljárások
+
+83/I. § (1) A közegészségügyi kényszerengedéllyel kapcsolatos eljárásra e törvény rendelkezéseit az alábbi eltérésekkel kell alkalmazni:
+
+- a) a hiánypótlásra, illetve nyilatkozattételre legalább tizenöt, de legfeljebb harminc napos határidőt kell kitűzni, valamint határidő-hosszabbítás csak különösen indokolt esetben adható,
+- b) a Szellemi Tulajdon Nemzeti Hivatala soron kívül jár el.
+
+(2) A közegészségügyi kényszerengedély iránti kérelemnek – a 45. § (5) és (6) bekezdésében foglaltakon túlmenően – tartalmaznia kell:
+
+- a) azt, hogy a kérelem belföldi, exportcélú, vagy belföldi és exportcélú hasznosításra irányul,
+- b) exportcélú hasznosítás esetén azon országok megnevezését, amelyekre a kérelem irányul,
+- c) a közegészségügyi kényszerengedély alapján hasznosítani kívánt találmányra adott szabadalom vagy kiegészítő oltalmi tanúsítvány lajstromszámát,
+- d) a kényszerengedély alapján a kérelmező által gyártani kívánt egészségügyi termék megnevezését, gyógyszer esetén a termék szabadnevét,
+- e) azokat a jelzéseket, amelyek a közegészségügyi kényszerengedély alapján gyártani kívánt egészségügyi terméket a 33/C. § (10) bekezdése szerint megkülönböztetik a szabadalmas termékétől,
+- f) gyógyszerészeti államigazgatási szerv igazolását arról, hogy a kérelmező az egészségügyi válsághelyzettel összefüggő belföldi szükségletek kielégítése céljára alkalmas, az igazolásban meghatározott szükséges mennyiségű egészségügyi termékre kéri a közegészségügyi kényszerengedélyt,
+- g) annak igazolását, hogy a közegészségügyi kényszerengedély kérelmezője rendelkezik a közegészségügyi kényszerengedély alapján előállítani szándékozott, az f) pont szerinti igazolásban meghatározott mennyiséghez, exportcélú hasznosítás esetén – ha a külföldi kényszerengedély erről rendelkezik – a külföldi kényszerengedélyben meghatározott mennyiséghez megfelelő kapacitással,
+- h) a g) pontban meghatározottak hiányában annak igazolását, hogy a kérelmező az f) pont szerinti igazolásban, vagy exportcélú hasznosítás esetén – ha a külföldi kényszerengedély erről rendelkezik – a külföldi kényszerengedélyben meghatározott mennyiség előállításához szükséges kapacitások biztosítása érdekében komoly előkészületeket tett, és
+- i) exportcélú hasznosítás esetén a külföldi kényszerengedélyt és annak hiteles angol vagy magyar nyelvű fordítását.
+
+(3) A közegészségügyi kényszerengedély iránti kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg. Ennek elmaradása esetén a kérelmet visszavontnak kell tekinteni.
+
+(4) A Szellemi Tulajdon Nemzeti Hivatala a kérelem beérkezését követően megvizsgálja, hogy
+
+- a) a kérelem megfelel-e a (2) és (3) bekezdésben foglalt feltételeknek,
+- b) teljesülnek-e a 33/B. §-ban foglalt feltételek.
+
+(5) A Szellemi Tulajdon Nemzeti Hivatala a kérelem beérkezésétől számított nyolc napon belül értesíti a kérelemmel érintett szabadalom jogosultját annak tényéről, hogy találmánya tekintetében kényszerengedély megadása iránt kérelmet nyújtottak be.
+
+(6) A Szellemi Tulajdon Nemzeti Hivatala döntéséig a közegészségügyi kényszerengedély kérelmezőjével szemben a kérelemben megjelölt szabadalommal vagy kiegészítő oltalmi tanúsítvánnyal kapcsolatban folyó bitorlási pert, és az ahhoz kapcsolódó ideiglenes intézkedést fel kell függeszteni.
+
+(7) Ha a közegészségügyi kényszerengedély iránti kérelem nem felel meg a (4) bekezdésben előírt feltételeknek, a kérelmezőt hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha az a hiánypótlás, illetve nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket. Ha a kérelmező a hiánypótlási felhívásra a kitűzött határidőn belül nem válaszol, a kérelmet visszavontnak kell tekinteni.
+
+83/J. § (1) A Szellemi Tulajdon Nemzeti Hivatala tárgyalás tartása nélkül határoz a közegészségügyi kényszerengedély megadásáról vagy a kérelem elutasításáról. A döntést írásba kell foglalni és közölni kell a kérelmezővel. A döntésről a Szellemi Tulajdon Nemzeti Hivatala a szabadalmast a döntés meghozatalától számított nyolc napon belül értesíti.
+
+(2) A közegészségügyi kényszerengedély megadásáról szóló határozatnak tartalmaznia kell:
+
+- a) azt, hogy a kényszerengedély belföldi, exportcélú, vagy belföldi és exportcélú hasznosításra vonatkozik,
+- b) exportcélú hasznosítás esetén azon országot, vagy országokat, amelyek tekintetében az exportcélú hasznosításra a közegészségügyi kényszerengedély kiterjed,
+- c) a közegészségügyi kényszerengedély időtartamát,
+- d) azokat a jelzéseket, amelyek a közegészségügyi kényszerengedély alapján előállítani kívánt egészségügyi terméket megkülönböztetik a szabadalmas termékétől,
+- e) a szabadalmasnak fizetendő díj meghatározását,
+- f) a szabadalom vagy a kiegészítő oltalmi tanúsítvány lajstromszámát, és
+- g) az egészségügyi termék megnevezését, gyógyszer esetén pedig a termék szabadnevét.
+
+(3) A közegészségügyi kényszerengedélyt be kell jegyezni a szabadalmi vagy a kiegészítő oltalmi tanúsítványokról vezetett lajstromba, és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.
+
+(4) A közegészségügyi kényszerengedély megadásáról a Szellemi Tulajdon Nemzeti Hivatala haladéktalanul tájékoztatja a gyógyszerészeti államigazgatási szervet.
+
+83/K. § A gyógyszerészeti államigazgatási szervnek a közegészségügyi kényszerengedély időtartama alatt, a közegészségügyi kényszerengedély alapján előállított gyógyszerrel összefüggő döntéseivel szemben indított perben azonnali jogvédelemnek nincs helye.
+
 ### A szabadalmi leírás értelmezése
 
 84. § Ha a szabadalmi leírás értelmezése kérdésében vita támad, az eljáró bíróság vagy egyéb hatóság megkeresésére a Szellemi Tulajdon Nemzeti Hivatala szakvéleményt ad.
@@ -1538,6 +1636,8 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 - e) az eljárási bírságot kiszabó, valamint az eljárási költség megállapításának és viselésének kérdésében hozott döntését.
 
 (2) Az eljárási bírságot kiszabó, valamint az eljárási költség megállapításával és viselésével kapcsolatos döntés ellen előterjesztett megváltoztatási kérelemnek nincs halasztó hatálya a döntés többi – a megváltoztatási kérelemben nem támadott – rendelkezése tekintetében, és nem akadályozza meg azok jogerőre emelkedését.
+
+(2a) A közegészségügyi kényszerengedély megadása tárgyában hozott döntés ellen előterjesztett megváltoztatási kérelemnek a megadott közegészségügyi kényszerengedély tekintetében halasztó hatálya nincs.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatalának az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett megváltoztatási kérelemben támadható meg.
 
@@ -2396,6 +2496,8 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 (6)
 
 116. § E törvénynek a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvénnyel összefüggésben szükséges törvénymódosításokról és egyes iparjogvédelmi tárgyú törvények módosításáról szóló 2010. évi CXLVIII. törvénnyel megállapított 84/G. §-át és 84/H. §-át azokra az európai szabadalmakra kell alkalmazni, amelyek esetében a megadásról szóló értesítést 2011. január 1-jét követően hirdették meg az Európai Szabadalmi Közlönyben.
+
+116/A. § A belföldi hasznosításra szolgáló közegészségügyi kényszerengedélyről szóló 212/2020. (V. 16.) Korm. rendelet alapján megadott közegészségügyi kényszerengedélyre az e törvény szerinti, közegészségügyi kényszerengedélyre vonatkozó szabályokat kell alkalmazni.
 
 117. § (1) A 2003. január 1-jét megelőzően megkezdett hasznosításra a szabadalmi oltalom tartalma, korlátai és a szabadalombitorlás tekintetében a korábban hatályos rendelkezéseket kell alkalmazni a hasznosításnak a 2003. január 1-jén meglévő mértékéig.
 

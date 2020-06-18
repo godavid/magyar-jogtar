@@ -732,6 +732,12 @@ rendelheti el.
 
 kapcsolatos feladatokat. Az oktatásért felelős miniszter, illetve a szakképzésért felelős miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.
 
+#### 24/A. A Kormány rendkívüli intézkedései tömeges megbetegedést okozó humánjárvánnyal összefüggő veszélyhelyzetben
+
+51/A. § (1) A Kormány az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében kihirdetett veszélyhelyzetben – a 21–24. alcímben meghatározott rendkívüli intézkedéseken és szabályokon túl – az állampolgárok élet-, egészség-, személyi-, vagyon- és jogbiztonságának, valamint a nemzetgazdaság stabilitásának garantálása érdekében rendeletével egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, és egyéb rendkívüli intézkedéseket hozhat.
+
+(2) A Kormány az (1) bekezdés szerinti jogkörét – a szükséges mértékben, az elérni kívánt céllal arányosan – a humánjárvány megelőzése, kezelése, felszámolása, továbbá káros hatásainak megelőzése, illetve elhárítása céljából gyakorolhatja.
+
 ### VI. Fejezet — A POLGÁRI VÉDELMI SZERVEZETEK MŰKÖDÉSE, A GAZDASÁGI ÉS ANYAGI SZOLGÁLTATÁS
 
 #### 25. A polgári védelem katasztrófavédelemmel kapcsolatos feladatai
@@ -1233,7 +1239,7 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 (2) E törvény 67–70. §-ai, 71–72. §-ai az Alaptörvény XXXI. cikk (6) bekezdése alapján sarkalatosnak minősülnek.
 
-(3) E törvény 20–24. alcíme az Alaptörvény 53. és 54. cikke alapján sarkalatosnak minősül.
+(3) E törvény 20–24/A. alcíme az Alaptörvény 53. és 54. cikke alapján sarkalatosnak minősül.
 
 (4) E törvény 90. §-a és 97. §-a az Alaptörvény 46. cikkére figyelemmel sarkalatosnak minősül.
 

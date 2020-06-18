@@ -351,15 +351,24 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (4) E fejezet rendelkezéseinek alkalmazása szempontjából az iskolai oktatás célját szolgálja a felhasználás, ha az az óvodai nevelésben, az általános iskolai, középfokú iskolai oktatásban, szakképző intézményben folyó szakmai oktatásban, az alapfokú művészeti iskolai oktatásban vagy a felsőoktatásról szóló törvény hatálya alá tartozó felsőfokú oktatásban a tantervnek, illetve a képzési követelményeknek megfelelően valósul meg.
 
+33/A. § E fejezet alkalmazásában biztonságos elektronikus hálózat az olyan műszaki megoldás, amely megakadályozza a lehívásra hozzáférhetővé tett műnek az iskolai oktatást végző és igénybe vevő személyek körén kívülre irányuló közvetítését.
+
 ### A szabad felhasználás esetei
 
 34. § (1) A mű részletét – az átvevő mű jellege és célja által indokolt terjedelemben és az eredetihez híven – a forrás, valamint az ott megjelölt szerző megnevezésével bárki idézheti.
 
 (2) Nyilvánosságra hozott irodalmi vagy zenei mű, film részlete, vagy kisebb terjedelmű ilyen önálló mű, továbbá képzőművészeti, építészeti, iparművészeti és ipari tervezőművészeti alkotás képe, valamint fotóművészeti alkotás szemléltetés érdekében iskolai oktatási célra, valamint tudományos kutatás céljára a forrás és az ott megjelölt szerző megnevezésével a cél által indokolt terjedelemben átvehető, feltéve, hogy az átvevő művet nem használják fel üzletszerűen. Átvételnek minősül a mű olyan mértékű felhasználása más műben, amely az idézést meghaladja.
 
-(3) A (2) bekezdésben említett átvevő mű nem üzletszerű többszörözéséhez és terjesztéséhez nem szükséges a szerző engedélye, ha az ilyen átvevő művet az irányadó jogszabályoknak megfelelően tankönyvvé vagy segédkönyvvé nyilvánítják, és a címoldalon az iskolai célt feltüntetik.
+(3) Nem szükséges a szerző engedélye a (2) bekezdés szerinti átvevő mű
 
-(4) A mű iskolai oktatási célra iskolai foglalkozás keretében átdolgozható. Az átdolgozott mű felhasználásához az eredeti mű szerzőjének engedélye is szükséges.
+- a) többszörözéséhez és terjesztéséhez, ha azt az irányadó jogszabályoknak megfelelően tankönyvvé vagy segédkönyvvé nyilvánítják, és a címoldalon az iskolai célt feltüntetik, illetve
+- b) iskolai oktatás céljából [33. § (4) bek.] az iskolai oktatás helyszínén történő digitális formában, elektronikus eszközön történő felhasználásához, illetve biztonságos elektronikus hálózaton keresztül történő nyilvánossághoz közvetítéséhez,
+
+feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
+
+(3a) A (3) bekezdés b) pontja szerinti felhasználást úgy kell tekinteni, hogy az oktatási intézmény székhelye szerinti tagállamban valósul meg.
+
+(4) A mű iskolai oktatási célra iskolai foglalkozás keretében – beleértve a biztonságos elektronikus hálózaton keresztül tartott foglalkozást – átdolgozható. Az átdolgozott mű felhasználásához – az iskolai foglalkozás keretében történő előadást és a (3) bekezdés szerinti felhasználást kivéve – az eredeti mű szerzőjének engedélye is szükséges.
 
 35. § (1) Természetes személy magáncélra a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja. E rendelkezés nem vonatkozik az építészeti műre, a műszaki létesítményre, a szoftverre és a számítástechnikai eszközzel működtetett adatbázisra, valamint a mű nyilvános előadásának kép- vagy hanghordozóra való rögzítésére. Kotta reprográfiával [21. § (1) bek.] magáncélra és a (4) bekezdés b)–d) pontjában szabályozott esetekben sem többszörözhető.
 
@@ -374,7 +383,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 - c) megjelent mű kisebb részéről, továbbá újság- vagy folyóiratcikkről belső intézményi célra készül, vagy
 - d)
 
-(5) Könyvként kiadott mű egyes részei, valamint újság- és folyóiratcikkek az iskolai oktatás céljára egy-egy csoport vagy iskolai osztály létszámának megfelelő, valamint a köznevelés, a szakképzés, illetve a felsőoktatás keretében szervezett vizsgákhoz szükséges példányszámban többszörözhetők.
+(5) Könyvként kiadott mű egyes részei, valamint újság- és folyóiratcikkek az iskolai oktatás céljára egy-egy csoport vagy iskolai osztály létszámának megfelelő, valamint a köznevelés, a szakképzés, illetve a felsőoktatás keretében szervezett vizsgákhoz szükséges példányszámban többszörözhetők, az érintett tanulók, hallgatók részére terjeszthetők és az oktatási intézmény biztonságos elektronikus hálózatán keresztül szemléltetés érdekében számukra lehívásra hozzáférhetővé tehetők.
 
 (6) Szabad felhasználás a mű járulékos vagy közbenső – a felhasználásra irányuló műszaki folyamat elválaszthatatlan és lényeges részét képező, önálló gazdasági jelentőség nélküli – időleges többszörözése, ha kizárólag az a célja, hogy lehetővé tegye
 
@@ -878,7 +887,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 68. § (1) A szabadban, nyilvános helyen, állandó jelleggel felállított képzőművészeti, építészeti és iparművészeti alkotás látképe a szerző hozzájárulása és díjazás nélkül elkészíthető és felhasználható.
 
-(2) Tudományos ismeretterjesztő előadás, továbbá iskolai oktatás céljára [33. § (4) bek.] képzőművészeti, építészeti, iparművészeti és ipari tervezőművészeti alkotás képe, valamint a fotóművészeti alkotás a szerző hozzájárulása és díjazás nélkül felhasználható.
+(2) Tudományos ismeretterjesztő előadás céljából képzőművészeti, építészeti, iparművészeti és ipari tervezőművészeti alkotás képe, valamint a fotóművészeti alkotás a szerző hozzájárulása és díjazás nélkül felhasználható.
 
 (3) Épület helyreállítása céljából építészeti alkotás vagy annak terve, továbbá az építészeti alkotás rajza és az azt tartalmazó mű a szerző hozzájárulása és díjazás nélkül többszörözhető és a nyilvánosság számára lehívásra hozzáférhetővé tehető.
 
@@ -1478,16 +1487,17 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 113. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) az Európai Parlament és a Tanács 2009/24/EK irányelve (2009. április 23.) a számítógépi programok jogi védelméről;
-- b) a Tanács 93/83/EGK irányelve (1993. szeptember 27.) a műholdas műsorsugárzásra és a vezetékes továbbközvetítésre alkalmazandó egyes szerzői és szomszédos jogi szabályok összehangolásáról;
-- c) az Európai Parlament és a Tanács 96/9/EK irányelve (1996. március 11.) az adatbázisok jogi védelméről;
-- d) az Európai Parlament és a Tanács 2001/29/EK irányelve (2001. május 22.) az információs társadalomban a szerzői és szomszédos jogok egyes vonatkozásainak összehangolásáról;
-- e) az Európai Parlament és a Tanács 2001/84/EK irányelve (2001. szeptember 27.) az eredeti műalkotás szerzőjét megillető követő jogról;
-- f) az Európai Parlament és a Tanács 2004/48/EK irányelve (2004. április 29.) a szellemi tulajdonjogok érvényesítéséről;
-- g) az Európai Parlament és a Tanács 2006/115/EK irányelve (2006. december 12.) a bérleti jogról és a haszonkölcsönzési jogról, valamint a szellemi tulajdon területén a szerzői joggal szomszédos bizonyos jogokról;
-- h) az Európai Parlament és a Tanács 2006/116/EK irányelve (2006. december 12.) a szerzői jog és egyes szomszédos jogok védelmi idejéről és az azt módosító 2011/77/EU európai parlamenti és tanácsi irányelv;
-- i) a Bizottság 2006/585/EK ajánlása (2006. augusztus 24.) a kulturális anyagok digitalizálásáról és online hozzáférhetőségéről, valamint a digitális megőrzésről 6. a) és c) alpontja;
-- j) az Európai Parlament és a Tanács 2012/28/EU irányelve (2012. október 25.) az árva művek egyes megengedett felhasználási módjairól;
-- k) a szerzői és szomszédos jogi védelemben részesülő egyes műveknek és más teljesítményeknek a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló egyes megengedett felhasználási módjairól, valamint az információs társadalomban a szerzői és szomszédos jogok egyes vonatkozásainak összehangolásáról szóló 2001/29/EK irányelv módosításáról szóló, 2017. szeptember 13-i (EU) 2017/1564 európai parlamenti és tanácsi irányelv.
+- a) az Európai Parlament és a Tanács 2009/24/EK irányelve (2009. április 23.) a számítógépi programok jogi védelméről,
+- b) a Tanács 93/83/EGK irányelve (1993. szeptember 27.) a műholdas műsorsugárzásra és a vezeték útján történő továbbközvetítésre alkalmazandó szerzői jogra és a szerzői joghoz kapcsolódó jogokra vonatkozó egyes szabályok összehangolásáról,
+- c) az Európai Parlament és a Tanács 96/9/EK irányelve (1996. március 11.) az adatbázisok jogi védelméről,
+- d) az Európai Parlament és a Tanács 2001/29/EK irányelve (2001. május 22.) az információs társadalomban érvényesülő szerzői és kapcsolódó jogok egyes kérdésekben történő összehangolásáról,
+- e) az Európai Parlament és a Tanács 2001/84/EK irányelve (2001. szeptember 27.) az eredeti műalkotás szerzőjét megillető követő jogról,
+- f) az Európai Parlament és a Tanács 2004/48/EK irányelve (2004. április 29.) a szellemi tulajdonjogok érvényesítéséről,
+- g) az Európai Parlament és a Tanács 2006/115/EK irányelve (2006. december 12.) a bérleti jogról és a haszonkölcsönzési jogról, valamint a szellemi tulajdon területén a szerzői joghoz kapcsolódó egyes jogokról,
+- h) az Európai Parlament és a Tanács 2006/116/EK irányelve (2006. december 12.) a szerzői jog és egyes szomszédos jogok védelmi idejéről és az azt módosító 2011/77/EU európai parlamenti és tanácsi irányelv,
+- i) a Bizottság 2006/585/EK ajánlása (2006. augusztus 24.) a kulturális anyagok digitalizálásáról és online hozzáférhetővé tételéről, valamint a digitális megőrzésről 6. pont a) és c) alpontja,
+- j) az Európai Parlament és a Tanács 2012/28/EU irányelve (2012. október 25.) az árva művek egyes megengedett felhasználási módjairól,
+- k) a szerzői és szomszédos jogi védelemben részesülő egyes műveknek és más teljesítményeknek a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló egyes megengedett felhasználási módjairól, valamint az információs társadalomban a szerzői és szomszédos jogok egyes vonatkozásainak összehangolásáról szóló 2001/29/EK irányelv módosításáról szóló, 2017. szeptember 13-ai (EU) 2017/1564 európai parlamenti és tanácsi irányelv,
+- l) a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/790 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény a szerzői és szomszédos jogi védelemben részesülő egyes művek és más teljesítmények hozzáférhető formátumú példányainak a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló, határokon átnyúló, az Unió és harmadik országok közötti cseréjéről szóló 2017. szeptember 13-i (EU) 2017/1563 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

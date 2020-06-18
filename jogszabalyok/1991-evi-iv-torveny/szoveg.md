@@ -617,7 +617,7 @@ időtartamával.
 
 (10) A Nemzeti Foglalkoztatási Alap alaprészeinek központi pénzügyi kerete által finanszírozott program esetében a programhoz közvetlenül kapcsolódó igazolt költségek az érintett keret terhére elszámolhatók, illetve abból megtéríthetők.
 
-(11) Az elkülönített alaprészek bevételeit és kiadásait a központi költségvetésről szóló törvény címenként, illetve alcímenként tartalmazza.
+(11) Az elkülönített alaprészek bevételeit és kiadásait a központi költségvetésről szóló törvény alcímeként, illetve jogcímcsoportonként tartalmazza.
 
 (12) A Nemzeti Foglakoztatási Alap költségvetésében külön előirányzat tartalmazza:
 

@@ -1682,6 +1682,10 @@ alapján fogadja be.
 
 (4) Az ideiglenes befogadás az arra okot adó körülmény megszűnéséig, de legfeljebb harminc napig tarthat.
 
+### Egészségügyi elkülönítés a befogadási eljárásban
+
+91/A. § A befogadást követően – az egészségügyi szakterület javaslatára – a bv. intézet parancsnokának írásbeli intézkedése alapján az elítélt a befogadó részlegen tizennégy napra egészségügyi okból elkülöníthető.
+
 ### Központi Kivizsgáló és Módszertani Intézet és a Kockázatelemzési és Kezelési Rendszer
 
 92. § (1) A Központi Kivizsgáló és Módszertani Intézet (a továbbiakban: KKMI) a Kockázatelemzési és Kezelési Rendszer alapján elvégzi az e törvényben meghatározott elítéltek kockázatelemző, valamint az egyéb reintegrációs programokat és döntéseket elősegítő vizsgálatát.
@@ -4484,6 +4488,8 @@ kezdődik.
 (3) Ha a pártfogolt az (1) bekezdés b) pontja szerinti felvilágosításadási kötelezettségének nem tesz eleget, a pártfogó felügyelő, a büntetés-végrehajtási pártfogó felügyelő vagy a rendőrség a büntetés-végrehajtási bírónál rendbírság kiszabását kezdeményezi, erre a pártfogoltat előzetesen figyelmeztetni kell.
 
 (4) A magatartási szabályok megtartását a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő ellenőrzi, abban a rendőrség a 310. § (4) bekezdése szerint vagy a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő megkeresésére közreműködik.
+
+(4a) Ha a pártfogolt magatartásáról a személyes kapcsolattartás keretében szerzett tapasztalatok alapján az állapítható meg, hogy a pártfogó felügyelet eredményes végrehajtása így is biztosítható, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő a pártfogolt kapcsolattartási kötelezettsége teljesítésének módját telefon vagy egyéb elektronikus kapcsolattartás útján is meghatározhatja. A pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő a pártfogolt magatartásának megváltozására figyelemmel az intézkedést visszavonhatja.
 
 (5) Ha a pártfogó felügyelet eredményes végrehajtása érdekében a külön magatartási szabály módosítása vagy mellőzése indokoltnak tűnik, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő az ellenőrzési tapasztalatai, vagy a rendőrség kezdeményezése vagy a pártfogolt kérelme alapján a külön magatartási szabály megváltoztatására a büntetés-végrehajtási bírónak javaslatot tesz.
 

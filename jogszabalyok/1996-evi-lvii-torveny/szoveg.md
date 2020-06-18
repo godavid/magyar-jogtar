@@ -234,6 +234,8 @@ kell figyelembe venni.
 
 (2) Ha a továbbértékesítés egy éven belül mégsem valósul meg, az összefonódást – legkésőbb az egyéves átmeneti idő lejártától számított tizenöt napon belül – be kell jelenteni a Gazdasági Versenyhivatalnak. A bejelentés elmulasztása esetén az összefonódás a 29. § szerinti tilalomba ütközően végrehajtott összefonódásnak minősül.
 
+25/A. § A 24. §-tól eltérően nem kell bejelenteni a Gazdasági Versenyhivatalnak a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap részvételével a COVID-19 koronavírus miatt szükségessé vált finanszírozási ügylettel – az e célra létrehozott tőkeprogramon keresztül – megvalósuló összefonódást, amely révén a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap egyedül vagy más vállalkozásokkal közös, befektetésvédelmi célú irányítási jogokat szerez.
+
 26. § (1) Érintett vállalkozások az összefonódásban közvetlenül és közvetetten részt vevő vállalkozások.
 
 (2) Közvetlen résztvevők
