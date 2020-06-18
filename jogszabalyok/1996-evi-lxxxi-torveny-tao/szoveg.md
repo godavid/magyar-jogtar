@@ -1462,10 +1462,7 @@ a támogatás adóévében megfizetni.
 
 (4b) Az (1) bekezdés c) pont cb), cd), ce) és cf) alpontja és az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a 30/I. § alkalmazandó, az (1) bekezdés a) pont ac) alpontja, az (1) bekezdés b) pont bd) és bf)–bg) alpontja, az (1) bekezdés c) pont cb), cd), ce) és cf) alpontja, az (1) bekezdés d) pont dc), de) és dg) alpontja szerinti támogatás, valamint más helyi, regionális, államháztartási vagy európai uniós forrásból származó állami támogatás együttes összege azonos elszámolható költségek tekintetében jelenértéken nem haladhatja meg a (4) bekezdésben meghatározott mértékeket.
 
-(4c) A (4) bekezdésben foglaltaktól eltérően a támogatási igazolások összértéke az (1) bekezdés a), b) és d) pontja szerinti támogatott szervezet – ide nem értve azokat a szervezeteket, amelyekkel összefüggésben a 30/I. § alkalmazandó – ingatlanra irányuló tárgyi eszköz beruházás, felújítás beruházási, felújítási értéke – ideértve a biztonsági követelmények teljesülését szolgáló infrastruktúra-fejlesztést is – legfeljebb 100 százaléka lehet, ha
-
-- a) a beruházás, felújítás már érdemben megkezdődött, vagy
-- b) a beruházás, felújítás még érdemben nem kezdődött meg, de a támogatott szervezetnek még lehetősége van meghosszabbítani a sportfejlesztési programját legalább 2 évvel, azzal, hogy ha a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendeletben meghatározottak szerint utófinanszírozás keretében kerül a támogatott szerv részére kifizetésre, akkor a támogatási időszakban a sportcélú ingatlanfejlesztés készültségével arányos elszámolás benyújtását és annak elfogadását követően nyújtható támogatás.
+(4c) A (4) bekezdésben foglaltaktól eltérően a támogatási igazolások összértéke az (1) bekezdés a), b) és d) pontja szerinti támogatott szervezet – ide nem értve azokat a szervezeteket, amelyekkel összefüggésben a 30/I. § alkalmazandó – sportfejlesztési programjában szereplő igazolt költségek, ráfordítások, kiadások legfeljebb 100 százaléka lehet.
 
 (5) Támogatási igazolás a támogatás igénybevételére jogosult szervezettel kapcsolatban csak akkor állítható ki, ha
 
@@ -2100,6 +2097,8 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 (92) A (90) bekezdés szerinti választás esetén, ha az adózó a 2019-ben kezdődő adóévre vonatkozóan a (90) bekezdés hatálybalépésének napjáig társasági adóbevallást nem nyújtott be, de a 2019-ben kezdődő adóévre vonatkozóan elfogadott éves beszámolóval rendelkezik, akkor a 2019-ben kezdődő adóévre vonatkozó, elfogadott számviteli beszámolója tekintetében a számviteli ellenőrzés szabályai szerint lekötött tartalékot képez.
 
 (93) E törvénynek az egyes adózási tárgyú törvényeknek a koronavírus-járvány gazdasági hatásainak mérséklése érdekében szükséges módosításáról szóló 2020. évi XLVI. törvénnyel módosított 7. § (1) bekezdés f) pontját első alkalommal a 2020-ban kezdődő adóévre kell alkalmazni.
+
+(94) E törvénynek a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvénnyel megállapított 22/C. § (4c) bekezdése első alkalommal a 2020. április 16. napján folyamatban lévő, jóváhagyott sportfejlesztési programokkal összefüggésben alkalmazandó.
 
 29/B. § (1) A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Kárrendezési Alap részére a Kárrendezési Törvény 11. § (1) bekezdése alapján befizetést teljesítő adózó által az adóévben, a Kárrendezési Törvény 11. § (2) bekezdésére figyelemmel megállapított, befizetett összeg (továbbiakban e §-ban: befizetés) csökkenti az adózó által fizetendő társasági adót, a fizetendő pénzügyi szervezetek különadóját a fizetendő pénzügyi tranzakciós illetéket.
 

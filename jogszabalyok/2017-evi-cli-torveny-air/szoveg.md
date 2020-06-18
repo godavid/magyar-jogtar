@@ -1020,7 +1020,7 @@ Az adóhatóság az adótörvényekben és más jogszabályokban előírt kötel
   - ac) az állami adó- és vámhatóságot irányító miniszter utasítása alapján,
   - ad) annál a gazdasági társaságnál, amelynek két egymást követő üzleti évben elért nettó árbevétele mindkét üzleti évben külön-külön eléri a 60 milliárd forintot és az adózott eredménye mindkét üzleti évben nulla vagy negatív,
 - b) az önkormányzati adóhatóság hatáskörébe tartozó adóellenőrzés esetén
-  - ba) az önkormányzat képviselő-testületének határozata alapján,
+  - ba) az önkormányzat képviselő-testületének, a különleges gazdasági övezet esetében a megyei önkormányzat képviselő-testületének határozata alapján,
   - bb) az Állami Számvevőszék elnökének megkeresése alapján
   - bc) az adópolitikáért felelős miniszter utasítása alapján.
 
@@ -1028,7 +1028,7 @@ Az adóhatóság az adótörvényekben és más jogszabályokban előírt kötel
 
 (1b) Az (1) bekezdés a) pont ad) alpontját a jogelőd nélkül alapított gazdasági társaság esetében az első négy üzleti év tekintetében nem kell alkalmazni. Jogutódlás esetén az (1) bekezdés a) alpont ad) alpontja szerinti feltételek teljesülése tekintetében a jogelőd gazdasági társaság működését is figyelembe kell venni.
 
-(2) Az Állami Számvevőszék elnöke, illetve az önkormányzati adóhatóság hatáskörébe tartozó adók esetében az önkormányzat képviselő-testülete akkor kezdeményezhet ellenőrzést, ha a rendelkezésére álló adatok, körülmények arra utalnak, hogy az adóhatóság a megkülönböztetés nélküli eljárás elvének megsértésével mellőzi valamely adózó vagy adózói csoport vizsgálatát, illetve a lefolytatott ellenőrzések eredménytelensége mögött a megkülönböztetés nélküli eljárás elvének megsértése áll.
+(2) Az Állami Számvevőszék elnöke, az önkormányzati adóhatóság hatáskörébe tartozó adók esetében az önkormányzat képviselő-testülete, illetve a különleges gazdasági övezet esetében a megyei önkormányzat képviselő-testülete akkor kezdeményezhet ellenőrzést, ha a rendelkezésére álló adatok, körülmények arra utalnak, hogy az adóhatóság a megkülönböztetés nélküli eljárás elvének megsértésével mellőzi valamely adózó vagy adózói csoport vizsgálatát, illetve a lefolytatott ellenőrzések eredménytelensége mögött a megkülönböztetés nélküli eljárás elvének megsértése áll.
 
 #### 87/A. § [Az Európai Unió tagállamai között a hozzáadottérték-adó területén történő közigazgatási együttműködés keretében végzett ellenőrzés egyes szabályai]
 
@@ -1097,7 +1097,7 @@ Adóellenőrzéssel lezárt bevallási időszak tekintetében az adó, költség
 
 (1) Felülellenőrzést folytat le a felettes szerv, ha
 
-- a) állami adó- és vámhatóság hatáskörébe tartozó ellenőrzés esetén az állami adó- és vámhatóságot irányító miniszter, az önkormányzati adóhatóság hatáskörébe tartozó ellenőrzés esetén az adópolitikáért felelős miniszter, ellenőrzéssel már lezárt időszak ellenőrzését rendelte el, vagy az Állami Számvevőszék elnöke, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzat képviselő-testülete ellenőrzéssel már lezárt időszak ellenőrzését kezdeményezte,
+- a) az állami adó- és vámhatóság hatáskörébe tartozó ellenőrzés esetén az állami adó- és vámhatóságot irányító miniszter, az önkormányzati adóhatóság hatáskörébe tartozó ellenőrzés esetén az adópolitikáért felelős miniszter ellenőrzéssel már lezárt időszak ellenőrzését rendelte el, vagy az Állami Számvevőszék elnöke, a különleges gazdasági övezet esetében a megyei önkormányzat képviselő-testülete, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzat képviselő-testülete ellenőrzéssel már lezárt időszak ellenőrzését kezdeményezte,
 - b) az állami adó- és vámhatóság vezetője erre utasítást ad, amely alapján a felettes szerv ellenőrzi a korábban lefolytatott ellenőrzés szakszerűségét és törvényességét,
 - c) ha az adóhatóság olyan, az adó megállapítását befolyásoló új tényről, adatról, bizonyítékról szerez tudomást, amely a korábbi adóellenőrzéskor nem volt ismert, és az ellenőrzés lefolytatására az állami adó- és vámhatóság vezetője, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzati adóhatóság döntései elleni fellebbezések elbírálására jogosult hatóság vezetője utasítást ad.
 

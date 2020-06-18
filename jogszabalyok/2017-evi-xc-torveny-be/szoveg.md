@@ -727,6 +727,10 @@ védőt rendel ki.
 - b) a területi ügyvédi kamara által kijelölt védő tekintetében a kijelöléskor a 43. § (1) bekezdés a)–b) pontjában vagy d)–h) pontjában meghatározott kizáró ok állapítható meg, vagy
 - c) a kijelöléskor a kijelölt védő szabályszerű idézése vagy értesítése a védő elérhetetlensége miatt nem lehetséges, és az eljárási cselekmény elvégzése nem mellőzhető.
 
+(1a) Az (1) bekezdés c) pontja alkalmazásában az idézés vagy az értesítés 113. § (3) bekezdése szerinti sürgős, illetve 113. § (4) bekezdése szerint történő kibocsátása esetén a kijelölt védő akkor minősül elérhetetlennek, ha a nyomozó hatóság vagy az ügyészség a jogszabályban meghatározott kapcsolatfelvételi lehetőségek útján egy óra alatt nem tud kapcsolatba lépni a kijelölt védővel.
+
+(1b) Az (1) bekezdés szerint kirendelt helyettes védő jelenléte az eljárási cselekményen kötelező.
+
 (2) A vádemelés után a bíróság feladata a kirendelt védőként eljáró ügyvéd kijelölése, ha
 
 - a) a területi ügyvédi kamara a védő kijelöléséről a kirendelő határozat kézhezvételétől számított egy órán belül nem gondoskodik,
@@ -769,11 +773,11 @@ védőt rendel ki.
 - a) a védő a távolmaradását előzetesen kimentette, azonban helyettesítéséről nem gondoskodott, és
 - b) az eljárási cselekmény elhalasztása az eljárási cselekmény eredményes elvégzését veszélyeztetné, vagy a büntetőeljárás lefolytatását jelentősen késleltetné.
 
-(3) Helyettes védő kirendelése esetén a bírósági eljárásban a terhelt védőjének távollétében nem lehet befejezni a bizonyítási eljárást, a helyettes védő perbeszédet nem tarthat.
+(3) Helyettes védő kirendelése esetén a bírósági eljárásban a terhelt védőjének távollétében nem lehet befejezni a bizonyítási eljárást, a helyettes védő perbeszédet nem tarthat, kivéve, ha a terhelt ehhez hozzájárul.
 
-(4) A helyettes védő kirendelésére a védő kirendelésére vonatkozó rendelkezéseket kell alkalmazni azzal, hogy az eljáró védőt a kirendelő bíróság, ügyészség vagy nyomozó hatóság jelöli ki.
+(4) A helyettes védő kirendelésére a védő kirendelésére vonatkozó rendelkezéseket kell alkalmazni azzal, hogy az eljáró védőt a kirendelő bíróság, ügyészség vagy nyomozó hatóság jelöli ki. Helyettes védőként az eljárási cselekményen jelen lévő, más bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy terhelt védőjeként eljáró ügyvéd is kijelölhető, feltéve, hogy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyek vagy terheltek érdekei nem ellentétesek.
 
-(5) A helyettes védő kirendelésének hatálya a védő távollétében lefolytatott eljárási cselekmény befejezéséig tart.
+(5) A helyettes védő kirendelésének hatálya a védő távollétében lefolytatott eljárási cselekmény befejezéséig tart. A 47. § (1) bekezdése esetén a helyettes védő a nyomban egymást követően tartott eljárási cselekményeken mindaddig eljárhat, amíg a kirendelt védő meg nem jelenik vagy nem lép kapcsolatba az eljáró ügyészséggel, nyomozó hatósággal.
 
 (6) A helyettes védő díjára és költségeinek megtérítésére a kirendelt védőre vonatkozó rendelkezéseket kell alkalmazni.
 
@@ -1089,23 +1093,31 @@ a polgári jog szabályai szerint érvényesen rendelkezhet.
 
 73. § (1) A bíróság, az ügyészség, illetve a nyomozó hatóság ügygondnokot rendel ki, ha
 
-- a) a törvényes képviselő a bűncselekményt az általa képviselt terhelttel együtt követte el,
-- b) a törvényes képviselő érdekei az általa képviselt személy érdekeivel ellentétesek,
-- c) a fiatalkorú terheltnek, illetve a polgári jog szabályai szerint teljes cselekvőképességgel nem rendelkező sértettnek, vagyoni érdekeltnek vagy egyéb érdekeltnek nincs törvényes képviselője vagy a törvényes képviselő személye nem állapítható meg,
-- d) a törvényes képviselő a jogainak gyakorlásában akadályozva van, vagy
-- e) az őt érintő eljárási cselekmény időpontjában ismeretlen helyen tartózkodó sértettnek, vagyoni érdekeltnek vagy egyéb érdekeltnek nincs sem törvényes képviselője, sem meghatalmazott képviselője.
+- a) a polgári jog szabályai szerint teljes cselekvőképességgel nem rendelkező terheltnek, bűncselekmény elkövetésével megalapozottan gyanúsítható személynek, sértettnek, vagyoni érdekeltnek vagy egyéb érdekeltnek nincs törvényes képviselője vagy a törvényes képviselő személye nem állapítható meg,
+- b) a terheltnek, a bűncselekmény elkövetésével megalapozottan gyanúsítható személynek, a sértettnek, a vagyoni érdekeltnek vagy az egyéb érdekeltnek nincs olyan törvényes képviselője, akire nem állapítható meg kizárási ok,
+- c) a törvényes képviselő a jogainak gyakorlásában akadályozva van, vagy
+- d) az őt érintő eljárási cselekmény időpontjában ismeretlen helyen tartózkodó sértettnek, vagyoni érdekeltnek vagy egyéb érdekeltnek nincs sem törvényes képviselője, sem meghatalmazott képviselője.
 
-(2) A bíróság, az ügyészség, illetve a nyomozó hatóság ügygondnokként ügyvédet vagy ügyvédi irodát rendelhet ki. A kirendelés hatályára az (1) bekezdés a)–d) pontja esetén a 48. § (1) bekezdését, az (1) bekezdés e) pontja esetén a 49. § (5) bekezdését kell alkalmazni.
+(2) A bíróság, az ügyészség, illetve a nyomozó hatóság ügygondnokként ügyvédet rendelhet ki. A kirendelés hatályára az (1) bekezdés a)–c) pontja esetén a 48. § (1) bekezdését, az (1) bekezdés d) pontja esetén a 49. § (5) bekezdését kell alkalmazni.
 
-(3) Az (1) bekezdés a) és b) pontja esetén a vádemelés előtt az ügyészség, a vádemelés után a bíróság a törvényes képviselőt kizárhatja az eljárásból.
+(3) Az ügygondnok kirendelése ellen nincs helye jogorvoslatnak. A képviselt személy – indokoltan – más ügygondnok kirendelését indítványozhatja. Az indítványról az a bíróság, ügyészség vagy nyomozó hatóság dönt, amely előtt az eljárás folyamatban van.
 
-(4) Ha az ügygondnok kirendelésére okot adó körülmény az eljárás folyamán megszűnik, a bíróság, az ügyészség, illetve a nyomozó hatóság az ügygondnokot a kirendelés alól felmenti.
+(4) A kirendelt ügygondnok indokolt esetben indítványozhatja a felmentését a kirendelés alól. Az indítványról az a bíróság, ügyészség vagy nyomozó hatóság dönt, amely előtt az eljárás folyamatban van.
 
-(5) Az ügygondnokot a büntetőeljárásban – a (6) bekezdésben foglalt kivételekkel – a törvényes képviselő jogállása illeti meg.
+(5) A vádemelés előtt az ügyészség, a vádemelés után a bíróság a törvényes képviselőt kizárja az eljárásból, ha
 
-(6) Az ügygondnok a képviselt személy e törvényben biztosított jogáról nem mondhat le, közvetítői eljáráshoz, magatartási szabály vagy kötelezettség előírásához nem járulhat hozzá, kivéve, ha ezzel az általa képviselt személyt nyilvánvaló károsodástól óvja meg.
+- a) megalapozottan feltehető, hogy a törvényes képviselő a bűncselekményt az általa képviselt terhelttel vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személlyel együtt követte el, vagy
+- b) a törvényes képviselő érdekei az általa képviselt személy érdekeivel ellentétesek.
 
-(7) Az ügygondnok a közreműködéséért díjra és költségeinek megtérítésére is jogosult.
+(6) A vádemelés előtt az (5) bekezdés a) pontjában meghatározott esetben a törvényes képviselőt a nyomozó hatóság is kizárhatja az eljárásból.
+
+(7) Ha az ügygondnok kirendelésére okot adó körülmény az eljárás folyamán megszűnik, a bíróság, az ügyészség, illetve a nyomozó hatóság az ügygondnokot a kirendelés alól felmenti.
+
+(8) Az ügygondnokot a büntetőeljárásban a törvényes képviselő jogállása illeti meg. Az ügygondnok kizárására a törvényes képviselő kizárására vonatkozó szabályokat kell alkalmazni. A terheltet vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt képviselő ügygondnok kizárására a 43. § (1) bekezdését is megfelelően alkalmazni kell.
+
+(9) Ha a bíróság, az ügyészség vagy a nyomozó hatóság a kirendelt ügygondnokot felmenti vagy kizárja, és ezzel egyidejűleg új ügygondnokot rendel ki, a 48. § (3)–(6) bekezdését megfelelően alkalmazni kell.
+
+(10) Az ügygondnok a közreműködéséért díjra és költségeinek megtérítésére is jogosult.
 
 ## NEGYEDIK RÉSZ — AZ ELJÁRÁSI CSELEKMÉNYEKRE VONATKOZÓ ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -3520,8 +3532,8 @@ kérhető.
 
 262. § (1) A nyomozó hatóság és a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve kizárólag az ügyészség engedélyével kérhet adatszolgáltatást
 
-- a) az adóhatóságtól,
-- b) a vámhatóságtól,
+- a)
+- b)
 - c) az elektronikus hírközlési szolgáltatótól,
 - d) a postai szolgáltatótól, illetve a postai közreműködői tevékenységet végző személytől vagy szervezettől,
 - e) a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak vagy biztosítási titoknak minősülő adatot kezelő szervezettől, ilyen adatra vonatkozóan,
@@ -4875,11 +4887,11 @@ készítését.
 
 360. § (1) Az eljárási cselekményről a jegyzőkönyvet egyidejűleg kell elkészíteni.
 
-(2) Az ügyészség és a nyomozó hatóság gondoskodik arról, hogy a gyanúsított, a tanú és a tolmács a jegyzőkönyv aláírása előtt annak tartalmát megismerje. Ha a gyanúsított, a tanú és a tolmács a jegyzőkönyv tartamának megismerését megtagadja, úgy kell tekinteni, mint aki a jegyzőkönyv aláírását tagadta meg.
+(2) Az ügyészség és a nyomozó hatóság gondoskodik arról, hogy a jegyzőkönyv hitelesítése előtt annak tartalmát a jogszabályban meghatározott, az eljárási cselekményen jelen lévő büntetőeljárásban részt vevő személy (a továbbiakban: hitelesítésben való közreműködésre köteles személy) megismerje. Ha a hitelesítésben való közreműködésre köteles személy a jegyzőkönyv tartalmának megismerését megtagadja, úgy kell tekinteni, mint aki a jegyzőkönyv hitelesítésében való közreműködést tagadta meg.
 
-(3) A jegyzőkönyvet az eljárási cselekményt végző ügyész vagy nyomozó hatóság tagja és a jegyzőkönyvvezető aláírja.
+(3) Az észrevétlenül nem megváltoztatható módon lezárt jegyzőkönyvet az eljárási cselekményt végző ügyész vagy nyomozó hatóság tagja a hitelesítésben való közreműködésre köteles személlyel együtt jogszabályban meghatározott módon hitelesíti.
 
-(4) A gyanúsított, a tanú és a tolmács a jegyzőkönyv minden oldalát aláírja. Ha a gyanúsított, a tanú vagy a tolmács a jegyzőkönyv aláírását megtagadja, a megtagadás tényét és annak közölt vagy ismert indokát a jegyzőkönyvben fel kell tüntetni.
+(4) Ha a hitelesítésben való közreműködésre köteles személy a jegyzőkönyv hitelesítésében való közreműködést megtagadja, a megtagadás tényét és annak közölt vagy ismert indokát jogszabályban meghatározott módon rögzíteni kell.
 
 (5) Folyamatos hangfelvétel vagy kép- és hangfelvétel esetén a felvételt az ügyiratok között kell kezelni.
 
@@ -6998,10 +7010,10 @@ ellen.
 - c) a tárgyalást az 518. § (3) bekezdése alapján meg kell ismételni,
 - d) a tanú a 181. § alapján írásban tett vallomást, és a tanú tárgyaláson történő kihallgatását a bíróság nem tartja szükségesnek.
 
-(2) Az (1) bekezdésben meghatározott eseteken kívül az egyesbíró vagy a tanács elnöke a tanúnak a korábban tanúként tett vallomását indítványra felolvassa, lényegét ismerteti vagy a jegyzőkönyvvezetővel felolvastatja, ha
+(2) Az (1) bekezdésben meghatározott eseteken kívül az egyesbíró vagy a tanács elnöke hivatalból vagy indítványra a tanú korábban tett vallomásának lényegét ismerteti, a vallomását felolvassa vagy a jegyzőkönyvvezetővel felolvastatja,
 
-- a) a tanú tárgyaláson történő kihallgatását a bíróság nem tartja szükségesnek és azt a vádlott vagy a védő sem indítványozza, vagy
-- b) azt e törvény lehetővé teszi.
+- a) annak érdekében, hogy a 163. § (4) bekezdés c) pontjának alkalmazhatóságát tisztázza, vagy
+- b) ha a tanú vallomása szükséges a bizonyításhoz, de a tanú tárgyaláson történő kihallgatása nem indokolt, azt a bíróság sem tartja szükségesnek, és azt az ügyész, a vádlott vagy a védő sem indítványozza.
 
 528. § (1) Az egyesbíró vagy a tanács elnöke az ügyész, a vádlott vagy a védő indítványára, vagy hivatalból ismertetheti a tanú korábban tett vallomásának részeit, ha a tanú a történtekre nem emlékszik, vagy ha a tárgyaláson tett és a korábban tett tanúvallomása között ellentét van.
 
@@ -8315,7 +8327,7 @@ terjeszthet elő perújítási indítványt.
 
 (3) A bíróság a perújítási indítvány érkezését követően – ha azt az ügyészség nem csatolta – beszerzi az alapügy ügyiratait.
 
-(4) Ha a perújítási indítványt a bíróságnál terjesztették elő, a bíróság azt az alapügy bírósági ügyirataival együtt észrevételének megtétele érdekében megküldi az ügyészségnek. Az ügyészség az alapügy ügyiratait a nyilatkozatával együtt egy hónapon belül visszaküldi a bíróságnak.
+(4) Ha a perújítási indítványt a bíróságnál terjesztették elő, a bíróság azt az alapügy bírósági ügyirataival együtt, a 642. §-ban meghatározott intézkedések megtétele érdekében megküldi az ügyészségnek. Az ügyészség az alapügy ügyiratait a nyilatkozatával együtt egy hónapon belül visszaküldi a bíróságnak. Ha az ügyészség a 642. § (6) bekezdése alapján perújítási nyomozást rendelt el, a határidőt a perújítási nyomozás elvégzésétől kell számítani.
 
 (5) A bíróság kézbesíti az ügyészség nyilatkozatát a perújítási indítvány előterjesztőjének. A terhelt részére kézbesíteni kell a más által előterjesztett perújítási indítványt és az arra tett ügyészségi nyilatkozatot.
 

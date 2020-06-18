@@ -689,6 +689,8 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (8) A gazdálkodó szervezet – ide nem értve az egyéni vállalkozót – által az adóhatóságnál, illetve a vámhatóságnál kezdeményezett fizetési könnyítésre, adómérséklésre irányuló eljárás illetéke 10 000 forint. Mentes az illeték alól az adózás rendjéről szóló törvény szerinti megbízható adózó által az állami adóhatóságnál kezdeményezett automatikus részletfizetésre irányuló eljárás.
 
+(9) A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény szerinti ellenőrzött bejelentés illetéke az engedélyezés illetékének 50%-a.
+
 ### Az eljárási illeték alapja
 
 30. § (1) Az értékhez igazodó közigazgatási hatósági eljárási illeték alapja az eljárás tárgyának az eljárás megindítása időpontjában fennálló értéke.

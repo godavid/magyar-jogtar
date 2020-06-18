@@ -1049,7 +1049,8 @@ haladéktalanul szabadítani kell. A szabadításról az őrizetet elrendelő re
 - a) az ügy érdemi elbírálása olyan előzetes kérdés eldöntésétől függ, amelyben a döntés más szerv hatáskörébe tartozik,
 - b) az eljárás alá vont személy ismeretlen helyen vagy külföldön tartózkodik és távollétében az ügy érdemi elbírálása nem lehetséges,
 - c) a szabálysértési hatóság vagy a bíróság az ügyet közvetítői eljárásra utalja,
-- d) az eljárás alá vont személy tartós, súlyos betegsége vagy a szabálysértés elkövetése után bekövetkezett elmebetegsége miatt az eljárásban nem vehet részt.
+- d) az eljárás alá vont személy tartós, súlyos betegsége vagy a szabálysértés elkövetése után bekövetkezett elmebetegsége miatt az eljárásban nem vehet részt,
+- e) a szabálysértési eljárásban részt vevő személyek személyes jelenlétével járó eljárási cselekmény elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályainak megszegésével járna.
 
 (2) A bíróság az eljárást hivatalból vagy indítványra felfüggeszti és az Alkotmánybíróság eljárását kezdeményezi, ha az ügy elbírálása során olyan jogszabályt vagy közjogi szervezetszabályozó eszközt, illetve jogegységi határozatot kell alkalmazni, amelynek alaptörvény-ellenességét vagy nemzetközi szerződésbe ütközését észleli.
 
@@ -3672,6 +3673,17 @@ megszegi, szabálysértést követ el.
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás az egészségügyi államigazgatási szerv hatáskörébe tartozik.
 
 (3) Az (1) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
+
+#### 193/A. Védelmi intézkedés megszegése
+
+239/A. § (1) Aki az egészségügyi válsághelyzet során
+
+- a) kormányrendeletben meghatározott védelmi intézkedést,
+- b) a települési önkormányzat területén működő piac, vásár, illetve a piac, vásár területén működő üzletek nyitva tartásának önkormányzati rendeletben meghatározott szabályait
+
+megszegi, szabálysértést követ el.
+
+(2) Az (1) bekezdésben meghatározott védelmi intézkedés megszüntetését követően a 4. §-tól eltérően a folyamatban lévő szabálysértési eljárást az elkövetés idején hatályban lévő szabályok szerint kell elbírálni.
 
 #### 194. Kábítószer előállítására alkalmas növényekkel kapcsolatos előírások megszegése
 

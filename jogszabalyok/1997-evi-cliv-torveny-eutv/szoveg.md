@@ -46,7 +46,14 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
   - gb) az állami mentőszolgálat,
   - gc) az állami vérellátó szolgálat, valamint
   - gd) az egészségügyi államigazgatási szerv intézetei, amennyiben egészségügyi szolgáltatást is nyújtanak;
-- h) orvostechnikai eszköz: az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/745 rendelet] 2. cikk 1. pontjában meghatározott fogalom;
+- h) orvostechnikai eszköz: minden olyan, akár önállóan, akár más termékkel együttesen használt készülék, berendezés, anyag, szoftver vagy más termék – ideértve az azok megfelelő működéséhez szükséges szoftvert, amely a gyártó szándéka szerint kifejezetten diagnosztikai, illetve terápiás célra szolgál, valamint a rendelésre készült eszköz, továbbá a klinikai vizsgálatra szánt eszköz is –, amely a gyártó meghatározása szerint emberen vagy emberből származó mintán történő alkalmazásra szolgál
+  - ha) betegség megelőzése, diagnosztizálása, megfigyelése, kezelése vagy a betegség tüneteinek enyhítése,
+  - hb) sérülés vagy fogyatékosság diagnosztizálása, megfigyelése, kezelése, tüneteinek enyhítése vagy kompenzálása,
+  - hc) az anatómiai felépítés vagy valamely fiziológiai folyamat vizsgálata, helyettesítése, illetve pótlása vagy módosítása,
+  - hd) fogamzásszabályozás
+
+céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy szervezetre elsősorban nem farmakológiai, immunológiai vagy metabolikus módon fejti ki, de működése ilyen módon elősegíthető;
+
 - i) sürgős szükség: az egészségi állapotban bekövetkezett olyan változás, amelynek következtében azonnali egészségügyi ellátás hiányában a beteg közvetlen életveszélybe kerülne, illetve súlyos vagy maradandó egészségkárosodást szenvedne;
 - j) veszélyeztető állapot: az az állapot, amelyben az azonnali intézkedés hiánya a beteg vagy más személy életét, testi épségét vagy egészségét közvetlenül fenyegető helyzetet eredményezne, illetőleg a környezetére közvetlen veszélyt jelentene;
 - k) vizsgálat: az a tevékenység, amelynek célja a beteg egészségi állapotának felmérése, a betegségek, illetve kockázatuk felderítése, a konkrét betegség(ek) meghatározása, prognózisuk, változásuk megállapítása, a gyógykezelés eredményességének, valamint a halál bekövetkeztének és a halál okának megállapítása;
@@ -942,6 +949,21 @@ kötelező szűrővizsgálatát rendelheti el.
 
 (2) A járványügyi zárlat alá helyezett személyre a 66. § (1) bekezdésben foglaltakat alkalmazni kell azzal, hogy a zárlat alá helyezett személy a zárlat foganatosítási helyét nem hagyhatja el.
 
+### Hatósági házi karantén
+
+67/A. § (1) A járványügyi hatóság
+
+- a) meghatározott országokból történő beutazás esetén vagy
+- b) fertőzés vagy megbetegedés esetén
+
+előírhatja, hogy a járványügyi intézkedés alá vont személy a számára meghatározott lakást, ahhoz tartozó bekerített helyet vagy egyéb, egészségügyi intézménynek nem minősülő helyet a határozatban meghatározott ideig ne hagyja el (a továbbiakban: hatósági házi karantén).
+
+(2) A járványügyi hatóság hatósági házi karanténra vonatkozó döntését szóban vagy rövid úton – így különösen telefonon vagy elektronikus levelezés útján – is közölheti. A szóban vagy rövid úton közölt döntést – a közlést követően – a járványügyi hatóság írásban is megküldi azon személynek, akivel a döntését közölte. Szóban vagy rövid úton a döntés csak olyan személlyel közölhető, akinek az ügy megismeréséhez való jogosultságát a járványügyi hatóság előzetesen kétséget kizáróan megállapította.
+
+(3) A hatósági házi karanténra vonatkozó döntést az (1) bekezdés a) pontja szerinti esetben a rendőr, az (1) bekezdés b) pontja szerinti esetben az erre kijelölt egészségügyi dolgozó is közölheti.
+
+(4) A hatósági házi karantént előíró rendelkezések alól – amennyiben a járványügyi védekezés hatósági házi karantén alkalmazása nélkül is biztosítható – különös méltánylást érdemlő esetben – egészségügyi válsághelyzetben a kormány rendeletében meghatározott esetek kivételével – a hatósági házi karantént elrendelő határozat kiadására illetékes járványügyi hatóság felmentést adhat, illetve egyedi magatartási szabályt állapíthat meg.
+
 ### Járványügyi ellenőrzés
 
 68. § (1) Kórokozó hordozó az a személy, aki szervezetében a miniszter rendeletében meghatározott fertőző betegség kórokozóját hordozza, és anélkül üríti szervezetéből, hogy maga a fertőző betegség bármely szakaszában lenne.
@@ -996,6 +1018,18 @@ kötelezett.
 látja el.
 
 (5) Ha a körözés elrendelésének az oka megszűnt, az azt elrendelő egészségügyi államigazgatási szerv a körözést visszavonja.
+
+70/B. § (1) A járványügyi hatóság a járványok elleni küzdelemben – különösen a fertőzött személyek felkutatása, ellenőrzése érdekében – az általános rendőrségi feladatok ellátására létrehozott szervet (a továbbiakban: rendőrség) is bevonhatja.
+
+(2) Az (1) bekezdés szerinti esetben a kezelt személyes adatot az adatkezelő – a rendőrség járványügyi hatósági feladatainak ellátása érdekében – a rendőrség erre irányuló megkeresése esetén a rendőrség részére haladéktalanul, ingyenesen és más adattovábbítási kötelezettségéhez képest elsőbbséggel továbbítja.
+
+(3) A járványügyi hatóság a hatósági házi karantén elrendeléséről, illetve a járványügyi elkülönítésről, járványügyi megfigyelésről, járványügyi zárlatról, valamint járványügyi korlátozásról szóló határozatot soron kívül továbbítja a rendőrség részére az ellenőrzési feladatainak ellátása érdekében.
+
+(4) A járványügyi hatóság, valamint a rendőrség a hatósági házi karantén szabályai megtartásának ellenőrzése érdekében jogosult az érintett személynek a 74/B. § (1) bekezdése szerinti karantén szoftver által küldött mozgási adatainak kezelésére.
+
+(5) A rendőrség e §-ban foglalt feladatainak ellátása érdekében jogosult az érintett személy természetes személyazonosító adatainak, elérhetőségi adatainak és a fertőzéssel vagy annak gyanújával összefüggésbe hozható, a 74/B. § (1) bekezdése szerinti karantén szoftver útján továbbított egészségügyi adatainak kezelésére, valamint azoknak jogszabályban meghatározott szerv részére történő továbbítására.
+
+(6) A rendőrség az e §-ban meghatározott adatokat a járványügyi védekezés és a hatósági házi karantén szabályai megtartásának ellenőrzése céljából nyilvántartja. A nyilvántartásba nem vehető fel olyan adat, amely a járványügyi védekezés és a hatósági házi karantén szabályai megtartásának ellenőrzése céljából nem szükséges. A nyilvántartásban szereplő adatokat a hatósági házi karantén, a járványügyi elkülönítés, a járványügyi megfigyelés, a járványügyi zárlat, valamint a járványügyi korlátozás megszűnésének időpontjában törölni kell.
 
 ### Fertőző betegek szállítása
 
@@ -1053,6 +1087,24 @@ látja el.
 (6) A fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala az e törvény szerinti egészségügyi válsághelyzet, vagy az egészségügyi válsághelyzetre vonatkozó szabályok alkalmazása esetén az illetékes rendőrkapitányságnál kezdeményezheti az egészségügyi szolgáltatók fokozottabb őrzéséről való intézkedést.
 
 (7) Az (1)–(6) bekezdésben foglaltakat nem kell alkalmazni a Magyarország területére más hatósági vagy bírósági eljárásban való kötelező megjelenés céljából történő belépés esetén.
+
+74/B. § (1) A járványügyi hatóság elrendeli a hatósági házi karantén szabályai betartásának az érintett nagykorú cselekvőképes személy mozgását nyomon követő, valamint az arcképmásának és általa megadott egészségügyi adatainak továbbítására alkalmas elektronikus szoftver (a továbbiakban: karantén szoftver) alkalmazásával történő ellenőrzését, ha nyilatkozik, hogy
+
+- a) a karantén szoftver telepítésének feltételei rendelkezésre állnak, ahhoz megfelelő eszközzel rendelkezik, és
+- b) a karantén szoftver telepítését és használatát önként vállalja.
+
+(2) A járványügyi hatóság az (1) bekezdés szerinti nyilatkozat beszerzése érdekében a rendőrség közreműködését kérheti.
+
+(3) A járványügyi hatóság a hatósági házi karanténra kötelezett személyt az (1) bekezdés szerinti nyilatkozat megtétele előtt
+
+- a) tájékoztatja a karantén szoftver telepítésének és használatának önkéntességéről, továbbá a karantén szoftver telepítésének feltételeiről, a karantén szoftver használatával járó előnyökről és kötelezettségekről, és
+- b) figyelmezteti, hogy az (1) bekezdés szerinti önkéntes nyilatkozat megtétele hiányában fokozott ellenőrzésnek van helye.
+
+(4) A karantén szoftver telepítésére és használatára vonatkozó kötelezettség teljesítését a rendőrség – elsősorban elektronikus úton – ellenőrzi, amely során az (1) bekezdés szerinti nyilatkozatot tevő személy (a továbbiakban: érintett személy) köteles együttműködni, és a karantén szoftverrel a rendőrség által előírt műveletet elvégezni. A rendőrség a karantén szoftver útján megadott mozgási adatokat elektronikus úton is összevetheti a hatósági házi karanténra kijelölt hely adataival. Az ellenőrzés nem járhat az érintett személy magánéletének szükségtelen zavarásával, 22.00 és 6.00 óra között az érintett személy pihenése indokolatlanul nem zavarható meg. A személyes ellenőrzésre akkor kerülhet sor, ha a karantén szoftver által biztosított ellenőrzés kijátszásának gyanúja merül fel, vagy ha az érintett személy a karantén szoftver használatát elmulasztja.
+
+(5) A hatósági házi karantén megszűnésével az érintett személy a karantén szoftvert törli, a rendőrség az érintett személy szerinti ellenőrzését megszünteti.
+
+(6) Ha a hatósági házi karanténra kötelezett személy nem tesz az (1) bekezdés szerinti nyilatkozatot, a hatósági házi karantén szabályainak megtartását a rendőrség személyes jelenlét útján ellenőrzi.
 
 ### IV. Fejezet — AZ EGÉSZSÉGÜGYI ELLÁTÁSOK RENDSZERE
 
@@ -2648,6 +2700,14 @@ A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik
 
 (5) Az orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálat megkezdéséhez hatósági engedély szükséges, amelynek kiadásáról a kérelem benyújtásától számított hatvan napon belül az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv dönt.
 
+(6) Kiemelt járványügyi érdekből az adott járvánnyal összefüggő beavatkozással nem járó vizsgálatnak minősülő orvostudományi kutatásba (a továbbiakban: kutatás) bevonni kívánt cselekvőképes személy telekommunikációs eszköz útján is tájékoztatható a 159. § (3) bekezdésében foglaltakról.
+
+(7) A (6) bekezdés szerinti kutatásban való részvételéhez a beleegyezését – a 159. § (1) bekezdés e) pontjában foglaltakon túl – telekommunikációs eszköz útján is megteheti és kutatásban való részvételéhez adott beleegyezését – a 159. § (3) bekezdés a) pontja alapján – telekommunikációs eszköz útján is visszavonhatja.
+
+(8) A kutatásban való részvételéhez adott beleegyezését az érintett személy kiemelt járványügyi érdek megszűnését követően is visszavonhatja telekommunikációs eszköz útján.
+
+(9) A (6)–(8) bekezdés alkalmazásában telekommunikációs eszköz minden olyan eszköz, amely alkalmas a tájékoztatás, illetve a nyilatkozat utólag ellenőrizhető módon történő megtételére, így különösen a hangfelvétel rögzítésére alkalmas eszköz.
+
 164/B. § Az orvostudományi kutatás, valamint a 164/A. § szerinti beavatkozással nem járó vizsgálat engedélyezési eljárásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
 164/C. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat és engedélyezés utáni gyógyszerbiztonsági vizsgálat esetében az engedélyt nem lehet megadni abban az esetben sem, ha a vizsgálatról megállapítható, hogy a vizsgálat végzése a a gyógyszer vagy orvostechnikai eszköz alkalmazására ösztönöz.
@@ -3473,27 +3533,27 @@ megítéléséhez szükséges.
 
 ### XIV. Fejezet — EGÉSZSÉGÜGYI VÁLSÁGHELYZETI ÉS EGÉSZSÉGÜGYI VESZÉLYHELYZETI ELLÁTÁS
 
-228. § (1) Egészségügyi válsághelyzet idején a betegek ellátása az egészségügyi válsághelyzeti ellátás keretében történik.
+228. § (1) Az országos tisztifőorvos javaslatára, a miniszter előterjesztése alapján a Kormány rendeletében egészségügyi válsághelyzetet rendelhet el, ha azt a (2) bekezdés a) pontja szerinti járványügyi szükséghelyzet vagy (2) bekezdés b) és c) pontja szerinti valamely más körülmény szükségessé teszi. Egészségügyi válsághelyzet elrendelése járványügyi készültségnek minősül. Egészségügyi válsághelyzet idején a betegek ellátása az egészségügyi válsághelyzeti ellátás keretében történik.
 
-(2) E törvény alkalmazásában egészségügyi válsághelyzetnek minősül
+(2) Egészségügyi válsághelyzet elrendelésének van helye
 
-- a) minden – rendszerint váratlanul bekövetkező – esemény, amely a polgárok életét, testi épségét, egészségét vagy az egészségügyi szolgáltatók működését veszélyezteti vagy károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé, valamint az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályainak kihirdetéséről szóló törvény szerinti nemzetközi horderejű közegészségügyi-járványügyi szükséghelyzet, függetlenül attól, hogy erre különleges jogrend idején vagy azon kívül kerül sor,
-- b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kialakulása, amely a gyógyintézet külön jogszabály szerinti ellátási területéhez tartozó lakosság egészségügyi ellátását súlyosan és közvetlenül akadályozza, feltéve, hogy az ellátási területéhez tartozó lakosság más gyógyintézet általi ellátása aránytalan nehézséggel járna.
+- a) az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályainak kihirdetéséről szóló törvény szerinti nemzetközi horderejű közegészségügyi-járványügyi szükséghelyzet vagy egyéb járványveszély esetén (járványügyi szükséghelyzet),
+- b) az a) pont alá nem tartozó minden – rendszerint váratlanul bekövetkező – esemény esetén, amely a polgárok életét, testi épségét, egészségét vagy az egészségügyi szolgáltatók működését veszélyezteti vagy károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé,
+- c) az a) és b) pontban meghatározott eseteken kívül bármely olyan körülmény kialakulása esetén, amely a gyógyintézet külön jogszabály szerinti ellátási területéhez tartozó lakosság egészségügyi ellátását súlyosan és közvetlenül akadályozza, feltéve, hogy az ellátási területéhez tartozó lakosság más gyógyintézet általi ellátása aránytalan nehézséggel járna.
+
+(2a) Az egészségügyi válsághelyzet feltételeinek a fennállását az országos tisztifőorvos köteles folyamatosan figyelemmel kísérni, és ha az egészségügyi válsághelyzet elrendelésének a feltételei nem állnak fenn, kezdeményezni a miniszternél, hogy tegyen javaslatot a Kormánynak az (1) bekezdés szerinti kormányrendelet hatályon kívül helyezésére. A miniszter javaslatát a Kormány részére haladéktalanul benyújtja, amelyet a Kormány soron kívül köteles megtárgyalni, és – ha az egészségügyi válsághelyzet elrendelésének a feltételei nem állnak fenn – az (1) bekezdés szerinti kormányrendeletet hatályon kívül helyezni.
+
+(2b) Az (1) bekezdés szerinti kormányrendelet legfeljebb hat hónapig marad hatályban, kivéve, ha a Kormány annak hatályát meghosszabbítja. A Kormány az (1) bekezdés szerinti kormányrendelet hatályát akkor hosszabbíthatja meg, ha az egészségügyi válsághelyzet elrendelésének a feltételei a meghosszabbítás időpontjában fennállnak.
+
+(2c) Az (1) bekezdés szerinti kormányrendelet hatályának meghosszabbításáról a Kormány az Országgyűlés egészségüggyel foglalkozó állandó bizottságának beszámol.
 
 (3) Különleges jogrend bevezetésekor az egészségügyi válsághelyzeti ellátásra vonatkozó rendelkezéseket kell alkalmazni az egész országra kiterjedően, azonban ez esetben nem szükséges az egészségügyi válsághelyzet kihirdetése.
 
 (3a) Ha a tömeges bevándorlás okozta válsághelyzet elrendelésére a menedékjogról szóló 2007. évi LXXX. törvény 80/A. § (1) bekezdés a) vagy b) pontja alapján, illetve c) pontjában meghatározott közegészségügyi okból kerül sor, az egészségügyi válsághelyzeti ellátásra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy ilyenkor nem szükséges az egészségügyi válsághelyzet kihirdetése.
 
-(4) A (3) és (3a) bekezdésen kívüli eseményt
+(4) Egészségügyi válsághelyzet Magyarország egész, illetve annak meghatározott területére rendelhető el.
 
-- a) ha a (2) bekezdés a) pontja szerinti egészségügyi válsághelyzet
-  - aa) egy megye területét érinti, az egészségügyi államigazgatási szerv javaslatára a miniszter,
-  - ab) több megyét érint, az országos tisztifőorvos javaslatára a miniszter,
-- b) ha a (2) bekezdés b) pontja szerinti egészségügyi válsághelyzet
-  - ba) egy megye területét érinti, az országos tisztifőorvos egyetértésével az egészségügyi államigazgatási szerv a miniszter azonnali tájékoztatása mellett,
-  - bb) több megyét érint, az országos tisztifőorvos javaslatára a miniszter
-
-minősíthet egészségügyi válsághelyzetnek.
+(5) Egészségügyi válsághelyzet elrendelése esetén a 74. § (2)–(4) bekezdése nem alkalmazható.
 
 228/A. § Az egészségügyi válsághelyzetek megelőzése érdekében együttműködési kötelezettség terheli az egészségügyi szolgáltatókat.
 
@@ -3549,14 +3609,30 @@ minősíthet egészségügyi válsághelyzetnek.
 
 232/A. § A 228. § (2) bekezdés b) pontja szerinti esetben a 229. § (1) és (2) bekezdése, a 230. § (1) bekezdése, (4) bekezdés a) pontja, a 231. § és a 232. § (1) bekezdése nem alkalmazható.
 
-232/B. § (1) Az egészségügyi válsághelyzeti ellátást országos szinten az országos tisztifőorvos közreműködésével a miniszter, kihirdetett veszélyhelyzetben a Kormány a miniszter útján az országos tisztifőorvos közreműködésével irányítja.
+232/B. § (1) Egészségügyi válsághelyzetben a 228. § (2) bekezdése szerinti körülmény felszámolására tett intézkedések és az egészségügyi válsághelyzeti ellátás összehangolása érdekében – a Kormány rendeletében meghatározottak szerint – Operatív Törzs működhet (a továbbiakban: Operatív Törzs). Az Operatív Törzset, ha az elrendelt egészségügyi válsághelyzet jellege következtében indokolt, a Kormány rendeletben hozza létre.
 
-(2) Az egészségügyi válsághelyzet kezeléséhez szükséges feladatok helyi szintű összehangolt koordinálását és irányítását
+(2) Az Operatív Törzs munkaszervezeteként ügyeleti központot működtet.
 
-- a) a 228. § (2) bekezdés a) pontja szerinti egészségügyi válsághelyzet esetén a megyei, fővárosi védelmi bizottság,
-- b) a 228. § (2) bekezdés b) pontja szerinti egészségügyi válsághelyzet esetén az egészségügyi államigazgatási szerv
+(3) Az Operatív Törzs a feladatkörébe tartozó egyes részfeladatok ellátására akciócsoportokat hozhat létre.
 
-látja el.
+(4) A 228. § (2) bekezdése szerinti körülmény megelőzése, megismerése, felderítése és továbbterjedésének megakadályozása, valamint az állami szervek összehangolt feladatellátásának megszervezése céljából, kizárólag az e cél elérése érdekében elengedhetetlenül szükséges – az adattakarékosság elvét is figyelembe vevő – mértékben az Operatív Törzs adatszolgáltatást kérhet bármely szervtől, jogi személytől vagy jogi személyiséggel nem rendelkező szervezettől, amely ezen adatszolgáltatásnak köteles haladéktalanul, ingyenesen eleget tenni.
+
+(5) Az Operatív Törzs a 228. § (2) bekezdése szerinti körülmény megelőzése, megismerése, felderítése és továbbterjedésének megakadályozása, valamint az állami szervek összehangolt feladatellátása céljából, kizárólag az e cél elérése érdekében elengedhetetlenül szükséges – az adattakarékosság elvét is figyelembe vevő – mértékben kezeli
+
+- a) a 228. § (2) bekezdése szerinti körülménnyel érintett személyek,
+- b) az a) pontban meghatározott személyekkel kapcsolatban álló vagy kapcsolatba került, – különösen a közegészségügyi-járványügyi szempontból veszélyeztetett – személyek, valamint
+- c) a (4) bekezdés szerinti adatszolgáltatás vagy a tevékenysége révén egyébként tudomására jutott személyek
+
+az adatkezelési céllal közvetlenül összefüggő személyes adatait.
+
+(6) Az Egészségügyi Elektronikus Szolgáltatási Tér működtetője biztosítja, hogy az Operatív Törzs a 228. § (2) bekezdése szerinti körülménnyel összefüggő – ha az szükséges, személyes adatokat is tartalmazó – információkat közvetlenül megkapja.
+
+(7) A (2)–(4) bekezdés alapján az Operatív Törzs az érintett azonosítását lehetővé tevő egészségügyi adatot – a 228. § (2) bekezdése szerinti körülménnyel való érintettség tényét ide nem értve – kizárólag a (8) bekezdésben meghatározott módon akkor ismerheti meg és akkor kezeli, ha az a 228. § (2) bekezdése szerinti körülmény megelőzése, megismerése, felderítése és továbbterjedésének megakadályozása céljából valamely halaszthatatlan intézkedés megtételéhez elengedhetetlenül szükséges, és egyúttal megalapozottan feltehető, hogy
+
+- a) az intézkedés az érintett azonosítását lehetővé tevő egészségügyi adat személyazonosításra alkalmatlanná tétele, álnevesítése vagy más – az érintett azonosítását nem igénylő – adat megismerése útján nem volna megtehető, vagy
+- b) az intézkedés az a) pont szerinti módon való megtétele az intézkedés sikeressége szempontjából aránytalan nehézséggel vagy sérelemmel járna.
+
+(8) A (7) bekezdés szerint megismert, az érintett azonosítását lehetővé tevő egészségügyi adatot – ha jogszabály vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – kizárólag az Operatív Törzs, annak munkaszervezete vagy akciócsoportja tevékenységében az intézkedés megtétele érdekében közvetlenül részt vevő orvos ismerheti meg, egyebekben az ilyen adatot más, az intézkedésben közvetlenül részt vevő személy számára csak az adat személyazonosításra alkalmatlanná tételét vagy álnevesítését követően lehet megismerhetővé tenni.
 
 232/C. § (1) A katasztrófavédelemről szóló törvény szerinti katasztrófaveszély esetén az egészségügyi feladatatok biztosítása érdekében a fővárosi és megyei kormányhivatal egészségügyi veszélyhelyzetet hirdethet és
 
@@ -3573,6 +3649,51 @@ látja el.
 (3) Az egészségügyi veszélyhelyzet időtartama a 10 napot nem haladhatja meg.
 
 (4) Egészségügyi veszélyhelyzet – az (1) bekezdésben foglaltakon túl – kihirdethető akkor is, amikor katasztrófahelyzet nem áll fenn, de az egészségügyi feladatok más módon nem biztosíthatók. Ebben az esetben a miniszter jóváhagyásával hirdethető ki az egészségügyi veszélyhelyzet.
+
+232/D. § (1) A járványügyi készültség keretében egészségügyi válsághelyzetben a Kormány rendeletében
+
+- a) korlátozható vagy megtiltható
+  - aa) minden olyan intézmény és létesítmény működése, rendezvény látogatása és szervezése, valamint tevékenység végzése, amely járvány terjedését elősegítheti,
+  - ab) üzletek működése, nyitvatartása,
+  - ac) az ország egyes területei, illetve Magyarország és más ország közötti személyforgalom, élőállat- vagy áruszállítás,
+  - ad) az ország egyes területei, illetve Magyarország és más ország lakosainak egymással való személyes érintkezése,
+  - ae) egyes intézmények – így különösen járóbeteg-szakrendelő, fekvőbeteg-gyógyintézet, valamint köznevelési, szakképző, felsőoktatási, szociális, gyermekvédelmi, gyermekjóléti és közművelődési intézmény – látogatása,
+  - af) egyes területek elhagyása,
+  - ag) egyes élelmiszerek, termékek árusítása, fogyasztása, vásárlása,
+  - ah) az ivóvíz fogyasztása,
+  - ai) meghatározott állatok tartása,
+- b) gyógyszer- és gyógyászati segédeszköz-ellátásra, valamint az egészségügyi szolgáltatások igénybevételének rendjére vonatkozó intézkedés hozható,
+- c) az egészségügyi készlet állagának megóvása érdekében szükséges intézkedés vezethető be, így annak érdekében a rendőrség, illetve a Magyar Honvédség közreműködése, a kórházparancsnoki feladatok ellátására a rendvédelmi szerv, illetve a Magyar Honvédség közreműködése előírható, a kórházparancsnok feladatköre és az intézményvezető kötelezettsége meghatározható, a kórházparancsnok működése az idősek tartós vagy átmeneti ellátását nyújtó intézményre kiterjeszthető,
+- d) meghatározhatja a szociális távolságtartásra vonatkozó, valamint a fertőzés veszélyét csökkentő védőeszköz viselésére vonatkozó szabályokat, továbbá a lakosság járvány által okozott betegséggel leginkább veszélyeztetett csoportjai számára az üzletekben, valamint a piacokon történő kizárólag e csoportok általi vásárlásra vonatkozó idősávot,
+- e) köznevelésre, felsőoktatásra, szakképzésre és felnőttképzésre vonatkozó rendelkezéseket állapíthat meg,
+- f) közlekedési korlátozást vagy közlekedési tilalmat állapíthat meg,
+- g) a járványügyi elkülönítésre vonatkozó rendelkezéseket állapíthat meg,
+- h) a küldemények kézbesítésére vonatkozóan rendelkezéseket állapíthat meg,
+- i) a védett vezető egészségügyi ellátásának koordinálására és a védett vezetőre vonatkozó egészségügyi előírások végrehajtására és ellenőrzésére vonatkozó rendelkezéseket állapíthat meg,
+- j) elrendelhet törvény alapján meghozható járványügyi intézkedéseket,
+- k) törvényben meghatározott egyéb rendelkezéseket hozhat.
+
+(2) A Kormány az (1) bekezdés szerinti jogkörét – a szükséges mértékben, az elérni kívánt céllal arányosan – a 228. § (2) bekezdése szerinti körülmény megelőzése, kezelése, felszámolása, továbbá káros hatásainak megelőzése, illetve elhárítása céljából gyakorolhatja, és kijárási korlátozást nem vezethet be.
+
+(3) Egészségügyi válsághelyzetben – a kereskedelemről szóló törvény és a végrehajtására kiadott kormányrendelet rendelkezéseitől eltérően – a települési önkormányzat képviselő-testülete eredeti jogalkotói hatáskörben kiadott rendeletével szabályozhatja a települési önkormányzat területén működő piac, vásár, illetve a piac, vásár területén működő üzletek nyitva tartásának szabályait.
+
+232/E. § (1) Egészségügyi válsághelyzet idején a 231. § (2) bekezdése szerinti beszerzéseken kívül a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5–7. §-a szerinti további ajánlatkérő jogosult a 228. § (2) bekezdése szerinti körülmény kezelésével közvetlenül összefüggő vagy az egészségügyi válsághelyzetben a védekezést irányító állami szervek, védekezést irányító csoportok hatékony működését szolgáló beszerzését (e § alkalmazásában a továbbiakban: beszerzés) a miniszterelnök egyedi mentesítése alapján a közbeszerzési és beszerzési szabályoktól eltérő módon is megvalósítani.
+
+(2) A beszerzés iránti mentesítési kérelemről a miniszterelnök soron kívül dönt. A miniszterelnök a Kormány másik tagjára delegálhatja a beszerzés iránti mentesítési kérelemről való döntési jogkörét.
+
+(3) Az (1) bekezdés szerinti eltérés alapján az ajánlatkérő a beszerzést közbeszerzési eljárás vagy egyéb beszerzési eljárás lefolytatása nélkül a Kbt. 15. § (1) bekezdés b) pontjában meghatározott értékhatár elérése vagy meghaladása esetén jogosult megvalósítani, – a (7) bekezdésben meghatározott kivétellel – lehetőség szerint három ajánlat bekérésével.
+
+(4) Beszerzés esetén az ajánlatkérő köteles előzetesen megvizsgálni, hogy a beszerzési igénye központosított közbeszerzési eljárás eredményeképpen megkötött keretmegállapodás vagy más keret jellegű szerződés alkalmazásával kielégíthető-e.
+
+(5) A (4) bekezdés szerinti beszerzés választása esetén az ajánlatkérésre feljogosított szervezet részére fizetendő díj megfizetése alól az ajánlatkérő mentesül.
+
+(6) A (4) bekezdés szerinti beszerzési igény kielégítésére alkalmas keretmegállapodások vagy más keret jellegű szerződések a 228. § (2) bekezdése szerinti körülmény kezelésével arányos mértékben, illetve módon – a Kbt. 141. § (6) bekezdésében foglalt feltételek vizsgálata nélkül – módosíthatóak.
+
+(7) Kivételes sürgősség esetén a fenti eljárási szabályok mellőzésével egy adott gazdasági szereplő közvetlenül is felhívható ajánlattételre.
+
+(8) A beszerzések szabályszerűségét az államháztartásért felelős miniszter utólag ellenőrzi.
+
+(9) Európai uniós fejlesztési források felhasználása esetén az (1)–(8) bekezdés szerinti szabályok nem alkalmazhatók.
 
 ### XV. Fejezet — EGÉSZSÉGÜGYI SZAKÉRTŐI TEVÉKENYSÉG
 
@@ -3770,7 +3891,7 @@ rendeletben kijelölje.
 247. § (1) Felhatalmazást kap a Kormány, hogy
 
 - a) az ellátás visszautasítására vonatkozó részletes szabályokat megállapítsa,
-- b) az egészségügyi szolgáltatás megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra és a bejelentés alapján történő egészségügyi szolgáltatás érdekében a hatósági nyilvántartásba vételre, továbbá a hatósági nyilvántartás személyes adatokat nem tartalmazó adattartalmára vonatkozó szabályokat,
+- b) az egészségügyi szolgáltatás – ide értve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra, a bejelentés alapján történő egészségügyi szolgáltatás – ide értve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – érdekében a hatósági nyilvántartásba vételre, továbbá a hatósági nyilvántartás személyes adatokat nem tartalmazó adattartalmára vonatkozó szabályokat,
 - c) a meghatározott időtartamra és helyszínre szóló, egészségügyi tevékenységre jogosító engedély kérelmezésének és kiadásának szabályait, valamint a bejelentés alapján végezhető egészségügyi tevékenységekre vonatkozó bejelentés megtételére, valamint – személyes adatokat nem tartalmazó – kötelező adattartalmára, továbbá a bejelentett személyek nyilvántartásba vételére vonatkozó rendelkezéseket
 - d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, illetőleg külföldre történő kivitelére vonatkozó szabályokat,
 - e) az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra, az egészségügyi válsághelyzet és veszélyhelyzet kezelésére vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra való felkészülésre, az egészségügyi válsághelyzet és veszélyhelyzet kihirdetésére, megszüntetésére, az egészségügyi válsághelyzet és veszélyhelyzet esetén nyújtott egészségügyi ellátások finanszírozására, továbbá az egészségügyi válsághelyzet és veszélyhelyzet esetén az Állami Egészségügyi Tartalék feltöltésére vonatkozó részletes szabályokat,
@@ -3812,6 +3933,12 @@ rendeletben megállapítsa.
 - c) meghatározza a helyi önkormányzatoktól átvett egészségügyi intézmények felett az egészségügyért felelős miniszter által kijelölt szerv által gyakorolt feladat- és hatásköröket, az általa gyakorolt jogokat és kötelezettségeket,
 - d) meghatározza a 244/D. § (2) bekezdésben foglalt járóbeteg-szakellátási feladatot 2013. április 30-át követően is ellátó helyi önkormányzattal kötendő – a Mötv. 10. § (3) bekezdése szerinti – megállapodással kapcsolatos eljárási szabályokat, a megállapodással szembeni tartalmai és formai követelményeket, a megállapodás időtartamára, felmondására és egyéb okból történő megszűnésére vonatkozó szabályokat és a megállapodással kapcsolatban az állam nevében eljárásra és a megállapodás aláírására jogosult szervet,
 - e) meghatározza a kórházlelkészi, illetve kórházi lelki gondozói tevékenységre vonatkozó részletes szabályokat.
+
+(1b) Felhatalmazást kap a Kormány, hogy járványügyi készültség keretében szükség esetén rendeletben
+
+- a) egészségügyi válsághelyzet elrendelésével járványügyi készültséget vezessen be,
+- b) rendelkezzen Operatív Törzs létrehozásáról, valamint az Operatív Törzs összetételére, szervezetére és működésére vonatkozó szabályokat meghatározza,
+- c) egészségügyi válsághelyzetben a 232/D. § (1) bekezdése szerinti intézkedéseket meghozza, illetve rendelkezéseket megállapítsa.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -3966,6 +4093,7 @@ rendeletben állapítsa meg.
 (8) Ez a törvény
 
 - a) az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet,
-- b) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 bizottsági felhatalmazáson alapuló rendelet
+- b) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 bizottsági felhatalmazáson alapuló rendelet,
+- c) az orvostechnikai eszközökről szóló (EU) 2017/745 rendeletnek a benne foglalt bizonyos rendelkezések alkalmazási időpontja tekintetében történő módosításáról szóló, 2020. április 23-i (EU) 2020/561 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

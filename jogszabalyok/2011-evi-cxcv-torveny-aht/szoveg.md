@@ -473,7 +473,7 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 
 14. § (1) A központi költségvetésről szóló törvény a költségvetési bevételeket és költségvetési kiadásokat fejezetekbe tagolva állapítja meg. A központi költségvetésről szóló törvényben szereplő fejezetek fejezetrendet képeznek.
 
-(2) A központi költségvetésről szóló törvényben az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai alaponként külön fejezetben jelennek meg.
+(2) A központi költségvetésről szóló törvényben az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai alaponként külön címen vagy külön fejezetben jelennek meg.
 
 (3) A központi költségvetésről szóló törvény a helyi önkormányzatok általános működésének és ágazati feladatai támogatásait, valamint a részükre juttatandó költségvetési támogatásokat önálló fejezetként tartalmazza.
 
@@ -500,7 +500,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 (5)
 
-(6) Az elkülönített állami pénzalap költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú, továbbá a központi költségvetésről szóló törvényben az elkülönített állami pénzalap számára előírt befizetési kötelezettség fedezetéül szolgáló költségvetési kiadási előirányzatokat, valamint az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú költségvetési bevételi előirányzatokat cím, alcím szerinti bontásban tartalmazza.
+(6) Az elkülönített állami pénzalap költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet vagy cím az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú, továbbá a központi költségvetésről szóló törvényben az elkülönített állami pénzalap számára előírt befizetési kötelezettség fedezetéül szolgáló költségvetési kiadási előirányzatokat, valamint az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú költségvetési bevételi előirányzatokat tartalmazza.
 
 (7) A társadalombiztosítás pénzügyi alapjai költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet a szabályozási szempontból összetartozó költségvetési bevételi előirányzatokat és költségvetési kiadási előirányzatokat cím, alcím, jogcím-csoport, jogcím szerinti bontásban tartalmazza. A működési bevételek és kiadások címként jelennek meg, ezen belül alcímet alkotnak a központi hivatali szervek.
 
@@ -795,7 +795,7 @@ kerülhet sor.
 
 (2) A pénzügyi ellenjegyzésre jogosult személyek körét, a pénzügyi ellenjegyző feladatait, összeférhetetlenségének eseteit, képesítési követelményeit a Kormány rendeletben határozza meg.
 
-(3) Az elektronikus aláírásnak a külképviseletekről és a tartós külszolgálatról szóló törvény szerinti külképviseleteken történő bevezetéséig – ha egy gazdasági esemény során a pénzügyi ellenjegyzést, a kötelezettségvállalást, a teljesítésigazolást, az érvényesítést vagy az utalványozást végző személyek egymástól eltérő földrajzi helyen tartózkodnak – elegendő, ha a szükséges aláírások szkennelt formában állnak rendelkezésre, illetve az eredeti aláírások külön dokumentumokon kerülnek megtételre, amelyeket a kötelezettségvállalás helye szerinti külképviselet belső szabályzatban foglaltaknak megfelelően hitelesít.
+(3) Ha egy gazdasági esemény során a szerződő fél és a kötelezettségvállalást, a pénzügyi ellenjegyzést, a teljesítésigazolást, az érvényesítést, illetve az utalványozást végző személyek egymástól eltérő országban tartózkodnak, elegendő, ha a szükséges aláírások szkennelt formában állnak rendelkezésre, illetve az eredeti aláírások külön dokumentumokon kerülnek megtételre.
 
 #### 26. A teljesítés igazolása, érvényesítés, utalványozás
 
@@ -1490,11 +1490,11 @@ vizsgálatára terjed ki.
 
 (7)
 
-83/A. § (1) A belföldi gépjárművek után beszedett adónak (a továbbiakban: gépjárműadó) a települési önkormányzat és a központi költségvetés közötti – a központi költségvetésről szóló törvényben meghatározott mértékű – megosztását a kincstár ellenőrzi. A kincstár ellenőrzéséhez a települési önkormányzat a Kormány rendeletében meghatározott adatszolgáltatást teljesít.
+83/A. § (1) A belföldi gépjárművek után beszedett adónak (a továbbiakban: gépjárműadó) a települési önkormányzat által a központi költségvetés részére történő befizetését a kincstár ellenőrzi. A kincstár ellenőrzéséhez a települési önkormányzat a Kormány rendeletében meghatározott adatszolgáltatást teljesít.
 
 (1a) Az (1) bekezdés szerinti adatszolgáltatási kötelezettség elmulasztása vagy késedelmes teljesítése esetén az önkormányzati hivatal a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a kincstár határozatban szab ki.
 
-(2) Ha a kincstár az (1) bekezdés szerinti ellenőrzés során megállapítja, hogy a települési önkormányzat a gépjárműadóval kapcsolatos fizetési kötelezettségét nem vagy nem a központi költségvetésről szóló törvénynek megfelelően teljesítette, hivatalból megindított eljárás keretében kötelezi a települési önkormányzatot a különbözet és az ehhez kapcsolódó kamat megfizetésére.
+(2) Ha a kincstár az (1) bekezdés szerinti ellenőrzés során megállapítja, hogy a települési önkormányzat a gépjárműadóval kapcsolatos fizetési kötelezettségét a Kormány rendeletében meghatározottak szerint nem teljesítette, hivatalból megindított eljárás keretében kötelezi a települési önkormányzatot a különbözet és az ehhez kapcsolódó kamat megfizetésére.
 
 (3) A kincstár (1a) és (2) bekezdés szerinti határozata ellen indított közigazgatási perben az 57. § (6) és (7) bekezdését kell alkalmazni. A kincstár (1a) és (2) bekezdés szerinti határozatában foglaltak részletekben történő teljesítése a 60/A. § (3) és (4) bekezdése szerint kérhető és engedélyezhető.
 
@@ -1649,11 +1649,11 @@ eredményeképpen keletkeztek.
 
 (7) Kiállítási garancia és kiállítási viszontgarancia állami tulajdonban álló kiállítási tárgyra nem vállalható.
 
-95. § (1) A 92–94. § szerinti eljárásokban – az e törvényben meghatározott kivételekkel – az államot az államháztartásért felelős miniszter képviseli.
+95. § (1) Az Európai Bizottság által az Európai Unió nevében vállalt, hitelviszonyon alapuló fizetési kötelezettségének teljesítéséhez és az Európai Unió tagállamainak közös tulajdonában álló pénzügyi intézmény általi hitel vagy garancia nyújtásához szükséges tagállami fizetési kötelezettség a Kormány egyedi határozata alapján vállalható. A Kormány által meghatározott kötelezettségvállalási cél, mérték, időtartam és egyéb lényeges feltételek figyelembevételével ilyen kötelezettség az Európai Bizottsággal, illetve az Európai Unió tagállamainak közös tulajdonában álló pénzügyi intézménnyel kölcsönösen elfogadott tartalommal és formában vállalható.
 
-(2) A 92–94. § szerinti fizetési kötelezettségekből eredő, az államot terhelő kifizetés során – jogszabály eltérő rendelkezése hiányában – az állami adóhatóság jár el.
+(2) Az (1) bekezdés szerinti kötelezettség vállalása és teljesítése során az állam nevében a nemzetközi pénzügyi kapcsolatokért felelős miniszter jár el.
 
-(3) Az Országgyűlés a költségvetési év során vállalható egyedi állami kezesség, kiállítási garancia és kiállítási viszontgarancia, valamint állami viszontgarancia mértékét, annak felső határát a központi költségvetésről szóló törvényben állapítja meg.
+(3) Az (1) bekezdés szerinti kötelezettségből eredően az államot terhelő kifizetés az erre a célra rendelkezésre álló kiadási előirányzat hiányában vagy annak összegét meghaladóan is teljesíthető. E kifizetést a 14. § (4) bekezdés d) pontja szerinti költségvetési fejezetbe kell megtervezni és elszámolni.
 
 #### 65. Kezesség- és garanciavállalás az államháztartás önkormányzati alrendszerében
 
@@ -1763,7 +1763,7 @@ kezelésére.
 
 (4) A kincstár a törzskönyvi nyilvántartás vezetése során jogosult a törzskönyvi jogi személy vezetőjének elektronikus azonosítása és képviseleti jogosultságának igazolása céljából a Korm. rendeletben meghatározott adatokon túl az adóazonosító jelének nyilvántartására és kezelésére. A kincstár a törzskönyvi jogi személy vezetőjének adóazonosító jelét harmadik személy részére, jogszabályi felhatalmazás kivételével, nem teszi megismerhetővé.
 
-106/B. § A kincstár a belföldi gépjárművek után beszedett adó törvény alapján a központi költségvetést megillető hányadának a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.
+106/B. § A kincstár a belföldi gépjárművek után beszedett adó központi költségvetés részére történő befizetésének a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.
 
 106/C. § (1) A lakáscélú állami támogatást nyújtó hitelintézet a támogatási szerződés megkötésének, módosításának, illetve megszűnésének időpontjától számított harminc napon belül továbbítja a lakáscélú állami támogatásban részesülő személy és – ha a támogatás megállapításának a támogatottnak más személlyel való együttköltözése a feltétele – az együttköltöző személy természetes személyazonosító adatait, adóazonosító jelét és a támogatási szerződésben vállalt kötelezettségekre vonatkozó adatokat a kincstár részére. A kincstár a lakáscélú állami támogatást nyújtó hitelintézet által továbbított adatokról nyilvántartást vezet.
 
@@ -1887,7 +1887,7 @@ részletes szabályait,
 - 35. a központosított illetményszámfejtés szabályait,
 - 36. a letéti pénzkezeléshez kapcsolódóan a letéti számla megnyitásának, a letéti számlán lévő pénzeszközzel való pénzügyi műveletek végzésének és a letéti számla vezetésének szabályait,
 - 37. a helyi önkormányzatok vis maior támogatása igénylésének, döntési rendszerének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
-- 38. a gépjárműadó központi költségvetést megillető hányadával kapcsolatos átutalás, adatszolgáltatás, ellenőrzés és kamatfizetés részletes szabályait, valamint az eljárások során kiróható bírság mértékét és kiszabásának elveit,
+- 38. a gépjárműadóval kapcsolatos átutalás, adatszolgáltatás, ellenőrzés és kamatfizetés részletes szabályait, valamint az eljárások során kiróható bírság mértékét és kiszabásának elveit,
 - 39. a törzskönyvi nyilvántartásba bejegyzendő adatok körét, a nyilvántartásba vétel, a nyilvántartás vezetésének, a nyilvántartásból történő adatlekérdezés és adatszolgáltatás, a nyilvántartáshoz gépi adatfeldolgozási eszközzel történő csatlakozás szabályait, a törzskönyvi nyilvántartással kapcsolatos bejelentési vagy adatszolgáltatási kötelezettség elmulasztása, késedelmes, hibás vagy valótlan adattartalommal történő teljesítése esetén kiszabható bírság mértékét és kiszabásának elveit,
 - 40. a 11/A. § (1) bekezdése szerinti társaság
   - a) által ellátott állami feladat központi költségvetési szerv részére történő átadását és a feladatátvétellel összefüggésben szükséges intézkedéseket,
@@ -2058,6 +2058,19 @@ rendeletben szabályozza.
 vállalható kötelezettség azzal, hogy az előző években vállalt kötelezettségek összegét egybe kell számítani.
 
 111/F. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+111/G. § (1) Az egészségügyi válsághelyzettel összefüggésben felmerült, a Koronavírus-járvány Elleni Védekezésért Felelős Operatív Törzs felállításáról szóló 1012/2020. (I. 31.) Korm. határozattal felállított Koronavírus-járvány Elleni Védekezésért Felelős Operatív Törzs javaslata alapján a miniszterelnök vagy az általa kijelölt személy által indokoltnak ítélt és írásban meghatározott költségek finanszírozása tekintetében, az egészségügyi válsághelyzettel összefüggő szükséges nélkülözhetetlen kötelezettségvállalásokat érintően az államháztartás központi alrendszerébe tartozó költségvetési szervekre vonatkozó gazdálkodási szabályokat azzal az eltéréssel kell alkalmazni, hogy
+
+- a) kötelezettséget vállalni előzetes pénzügyi ellenjegyzés nélkül is lehet,
+- b) a pénzügyi ellenjegyzésre a kötelezettségvállalást követően, a kötelezettségvállalás felülvizsgálata eredményének függvényében, utólag is sor kerülhet, legkésőbb az egészségügyi válsághelyzet megszűnését követő 30 napon belül,
+- c) kötelezettségvállalásra – ha az egészségügyi válsághelyzetre tekintettel szükséges – a kötelezettségvállaló írásbeli – ideértve az elektronikus úton tett – utasítása alapján is sor kerülhet,
+- d) a c) pont esetében a megállapodás, szerződés megkötésére szóban vagy távollévők között tett jognyilatkozattal is sor kerülhet, amelyet utólagosan legkésőbb az egészségügyi válsághelyzet megszűnését követő 30 napon belül szükséges írásba foglalni,
+- e) a 33. § (3) bekezdés b) pont ba) és bb) alpontja szerinti, a Kormány irányítása alá tartozó fejezeten belüli előirányzat-átcsoportosításra az államháztartásért felelős miniszter egyidejű tájékoztatása mellett kerülhet sor,
+- f) a 108. § szerinti adatszolgáltatásokkal, bejelentésekkel összefüggő bírságok – így különösen az egészségügyi válsághelyzet alatt, az egészségügyi válsághelyzet összefüggésben tett kötelezettségvállalások, pénzügyi kifizetések kapcsán – nem szabhatóak ki.
+
+(2) Az (1) bekezdés a) és b) pontja esetében, ha a kötelezettségvállalás összege eléri a bruttó 100 000 000 forintot, a kötelezettségvállaló – a kötelezettségvállalást megelőzően egy munkanappal – köteles tájékoztatni az államháztartásért felelős minisztert.
+
+111/H. § A 41. § (6) bekezdésétől eltérően a központi költségvetés terhére az egészségügyi válsághelyzettel összefüggésben történő eszközbeszerzések és kapcsolódó szolgáltatások beszerzése tekintetében felmerülő szerződések esetében a szerződéses fél a megkötött szerződés vonatkozásában átlátható szervezetnek minősül.
 
 #### 74. Az Európai Unió jogának való megfelelés
 
