@@ -1150,6 +1150,8 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 77/D. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
+77/E. § A postai szolgáltató az egészségügyről szóló törvény szerint elrendelt egészségügyi válsághelyzetben jogosult a könyvelt postai küldeményeket az e törvénynek a személyes átadással történő kézbesítésére vonatkozó rendelkezései mellőzésével kézbesíteni. A személyes átadás mellőzésével történő kézbesítés részletes szabályait a Kormány rendeletben állapítja meg.
+
 #### 50. Felhatalmazó rendelkezések
 
 78. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
@@ -1160,7 +1162,8 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - d) Egyetemes Postai szolgáltatást Támogató Számla működtetésének részletes szabályait és bevételeinek számítási módját;
 - e) a postai szolgáltatások különleges jogrend időszaki felkészítésének rendszerét, feladatait, működési feltételeit;
 - f) a postai szolgáltatót, alkalmazottját, tagját, megbízottját és a postai közreműködőt terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket;
-- g) a postai szolgáltatók, a postai közreműködők és a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének részletes szabályait.
+- g) a postai szolgáltatók, a postai közreműködők és a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének részletes szabályait;
+- h) az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet esetén a személyes átadás mellőzésével történő kézbesítés részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg:
 

@@ -646,6 +646,8 @@ külön rendelkezések
 
 (8) Folyamatban lévő támogatás esetén az ügy megindítását követően rendelkezési nyilvántartásba meghatalmazásra tett új ügyintézési rendelkezést, vagy annak módosítását a mezőgazdasági és vidékfejlesztési támogatási szerv csak akkor veszi figyelembe, ha azt az ügyfél a mezőgazdasági és vidékfejlesztési támogatási szervnek is bejelenti.
 
+(9) A Magyar Agrár- Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) által vagy annak munkavállalója által e minőségére tekintettel agrár-, illetve vidékfejlesztési támogatások igénybevételével összefüggő elektronikus ügyintézésben az ügyfelek részére technikai közreműködőként történő segítségnyújtásra kötött meghatalmazás alapján a NAK bármely munkavállalója eljárhat. Az eljáró személyről a NAK a mezőgazdasági és vidékfejlesztési támogatási szervet értesíti. A meghatalmazás alapján az eljáró személy jogosult a meghatalmazó ügyfél kezdeményezésére, de személyes jelenléte nélkül a támogatási kérelem benyújtására. A NAK a meghatalmazó ügyfél támogatási kérelemnek ügyfélkapun keresztül való benyújtásáért felelős, felelőssége nem terjed ki a benyújtott kérelem tartalmi megfelelőségére.
+
 28/C. § (1)
 
 (2) A kézbesítési meghatalmazott feladata, hogy az eljárásban keletkezett, az ügyféllel közlendő döntéseket és iratokat átvegye, és azokat az ügyfél részére továbbítsa, amely tevékenységéért az ügyféllel szemben a polgári jog szabályai szerint felel. Az ügyfél részére szóló és a kézbesítési meghatalmazottal szabályszerűen közölt döntést úgy kell tekinteni, hogy az a kézbesítési meghatalmazottal történt közlést követő tizenötödik napon minősül az ügyféllel közöltnek.

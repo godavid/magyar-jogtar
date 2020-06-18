@@ -898,7 +898,8 @@ alkotják.
 - g) talált robbanótestek tűzszerészeti mentesítése, és egyéb tűzszerészeti feladatok térítés ellenében való végrehajtása,
 - h) a menedékjogról szóló törvény szerinti tömeges bevándorlás okozta válsághelyzet idején közreműködés az államhatár őrzésében, az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedések végrehajtásában, valamint az államhatár rendje ellen irányuló erőszakos cselekmények elhárításában,
 - i) – a hatályos nemzetközi normák betartásával – közreműködik a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, az evakuálás végrehajtásában,
-- j) honvédelmi veszélyhelyzet idején az államhatár ellenőrzésében való részvétel.
+- j) honvédelmi veszélyhelyzet idején az államhatár ellenőrzésében való részvétel,
+- k) a Kormány döntése alapján közreműködés különleges jogrend szerinti veszélyhelyzettel (a továbbiakban: veszélyhelyzet) és az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban.
 
 (2) A Honvédség fegyverhasználati jog nélkül látja el a következő feladatokat:
 
@@ -918,9 +919,11 @@ alkotják.
 
 (1b) A 36. § (1) bekezdés h) pontja szerinti közreműködés során a katona kizárólag a menedékjogról szóló törvény szerinti tömeges bevándorlás okozta válsághelyzetet kihirdető kormányrendeletben meghatározott területen – e törvényben meghatározottak szerint – segítheti a rendőr feladatainak ellátását.
 
-(2) A 36. § (1) bekezdés h) pontja, valamint a 36. § (2) bekezdés a) pontja szerinti közreműködői feladatukat az abban résztvevő honvédségi szervezetek katonai függelmi rendszerben, saját parancsnokaik vezetésével hajtják végre.
+(1c) A 36. § (1) bekezdés k) pontja szerinti közreműködés során a katona a veszélyhelyzettel és az egészségügyi válsághelyzettel érintett területen – e törvényben meghatározottak szerint – segítheti a veszélyhelyzet és az egészségügyi válsághelyzet felszámolásához szükséges feladatok ellátását.
 
-(3) A 36. § (1) bekezdés h) pontja szerinti közreműködői feladat során meg kell határozni az igénybevétel pontos célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét. A 36. § (1) bekezdés h) pontjában és a 36. § (2) bekezdésében meghatározott feladatok teljesítésére alárendelt szervezeteitől legfeljebb 200 fő 21 napi időtartamot meg nem haladó igénybevételéről a Magyar Honvédség parancsnoka, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntéssel egyidejűleg – az Országgyűlés honvédelmi ügyekkel foglalkozó bizottságát tájékoztatja.
+(2) A 36. § (1) bekezdés h) és k) pontja, valamint a 36. § (2) bekezdés a) pontja szerinti közreműködői feladatukat az abban résztvevő honvédségi szervezetek katonai függelmi rendszerben, saját parancsnokaik vezetésével hajtják végre.
+
+(3) A 36. § (1) bekezdés h) és k) pontja szerinti közreműködői feladat során meg kell határozni az igénybevétel pontos célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét. A 36. § (1) bekezdés h) és k) pontjában és a 36. § (2) bekezdésében meghatározott feladatok teljesítésére alárendelt szervezeteitől legfeljebb 200 fő 21 napi időtartamot meg nem haladó igénybevételéről a Magyar Honvédség parancsnoka, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntéssel egyidejűleg – az Országgyűlés honvédelmi ügyekkel foglalkozó bizottságát tájékoztatja.
 
 (3a) A 36. § (1) bekezdés i) pontja szerinti közreműködői feladatról a rendészetért felelős miniszter és a külpolitikáért felelős miniszter kezdeményezésére a Kormány dönt. A 36. § (1) bekezdés i) pontja szerinti közreműködői feladat akkor rendelhető el, ha a közreműködői feladat olyan külföldi helyszínen hajtható végre, amely tekintetében a Honvédség határátlépéssel járó csapatmozgását az erre jogosult engedélyezte, és a terrorizmust elhárító szerv alkalmazása nem elegendő. A 36. § (1) bekezdés i) pontja szerinti közreműködői feladat elrendelése során meg kell határozni az igénybevétel pontos célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét.
 
@@ -1332,6 +1335,21 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 - b) végrehajtására vezényelt katona – ha más kényszerítő eszköz nem áll rendelkezésre vagy a használatára nincs lehetőség – bárkivel szemben testi sérülés okozására alkalmas, e törvényben meghatározottaktól eltérő, más kényszerítő eszközt is használhat, azonban annak használata nem irányulhat az emberi élet kioltására, és
 - c) végrehajtása során nem minősül lőfegyverhasználatnak a gumilövedék, a pirotechnikai eszköz, a könnygázgránát, az elfogó háló lőfegyverrel vagy az e célra szolgáló egyéb kilövő eszközzel történő célba juttatása.
 
+#### 35/C. A katona veszélyhelyzetben és az egészségügyi válsághelyzetben való közreműködése
+
+54/E. § (1) A 36. § (1) bekezdés k) pontja szerinti feladatra vezényelt katona – e törvény rendelkezéseitől eltérően –
+
+- a) az Rtv. 29–32. §-ában, 33. §-ában, 35. §-ában, 36. §-ában, 37. § a) és e) pontjában, 39. §-ában, továbbá 42–43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
+- b) a jogszabályban meghatározott feladatának ellátása során a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti.
+
+(2) A katona intézkedésének a jogszerűségét az e törvényben meghatározottak szerint kell vizsgálni. A katona az (1) bekezdés szerinti intézkedéseket a szükségesség és arányosság követelménye betartásával alkalmazhatja.
+
+(3) A 36. § (1) bekezdés k) pontja szerinti feladat
+
+- a) végrehajtására vezényelt katonát nem terheli az e törvény szerinti fegyverhasználati kötelezettség,
+- b) végrehajtására vezényelt katona – ha más kényszerítő eszköz nem áll rendelkezésre vagy a használatára nincs lehetőség – bárkivel szemben testi sérülés okozására alkalmas, e törvényben meghatározottaktól eltérő, más kényszerítő eszközt is használhat, azonban annak használata nem irányulhat az emberi élet kioltására, és
+- c) végrehajtása során nem minősül lőfegyverhasználatnak a gumilövedék, a pirotechnikai eszköz, a könnygázgránát, az elfogó háló lőfegyverrel vagy az e célra szolgáló egyéb kilövő eszközzel történő célba juttatása.
+
 #### 36. A katonai szervezetek fegyverhasználata
 
 55. § (1) A katonai szervezetek fegyverhasználati joghoz kötött feladataik végrehajtására rendszeresített fegyverzetüket a törvényben, a nemzetközi szerződésekben, valamint a jogszabályoknak megfelelő elöljárói parancsokban meghatározottak szerint használják. Kötelékben a katona csak a kötelék parancsnokának parancsára használhatja fegyverét. A katonai szervezetek – a cél eléréséhez feltétlenül szükséges és arányos mértékben – törvényben meghatározott feltételek szerint más kényszerítő eszközt is alkalmazhatnak.
@@ -1448,7 +1466,7 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 61. § (1) A fegyver és egyéb kényszerítő eszköz alkalmazása során megsérült személy részére, a szolgálat megszakítása nélkül, szükség esetén mások segítségül hívásával, segítséget kell nyújtani, és gondoskodni kell arról, hogy a sérültet orvos elláthassa, kórházi elhelyezése esetén a hozzátartozó vagy más, a sérülttel kapcsolatban álló személy erről értesüljön.
 
-(2) A kényszerítő eszköz alkalmazását a szolgálati elöljárónak haladéktalanul jelenteni kell, aki a kényszerítő eszköz alkalmazásának a jogszerűségét köteles megvizsgálni, majd – a műveleti területen, valamint a 36. § (1) bekezdés h) pontja szerinti feladat végrehajtása során végzett katonai tevékenység kivételével – álláspontjáról a kényszerítő eszköz alkalmazásától számított nyolc napon belül értesíti azt, akivel szemben a kényszerítő eszközt alkalmazták. Ha a kényszerítő eszközt utasításra alkalmazták, a jelentés megtétele az utasítást adó elöljáró kötelezettsége, és annak jogszerűségéről a Honvéd Vezérkar főnöke foglal állást.
+(2) A kényszerítő eszköz alkalmazását a szolgálati elöljárónak haladéktalanul jelenteni kell, aki a kényszerítő eszköz alkalmazásának a jogszerűségét köteles megvizsgálni, majd – a műveleti területen, valamint a 36. § (1) bekezdés h) és k) pontja szerinti feladat végrehajtása során végzett katonai tevékenység kivételével – álláspontjáról a kényszerítő eszköz alkalmazásától számított nyolc napon belül értesíti azt, akivel szemben a kényszerítő eszközt alkalmazták. Ha a kényszerítő eszközt utasításra alkalmazták, a jelentés megtétele az utasítást adó elöljáró kötelezettsége, és annak jogszerűségéről a Honvéd Vezérkar főnöke foglal állást.
 
 (3) A kényszerítő eszköz jogszerűtlennek minősített használatáról a katonai ügyészt vagy a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyészt nyolc napon belül, ha pedig a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.
 
@@ -1920,6 +1938,8 @@ rendelheti el.
 - x) a polgári felkészültség követelményeit,
 - y) a honvédelmi veszélyhelyzet kihirdetését és meghosszabbítását,
 - z) a közérdekű használati jog gyakorlására jogosultak körét, továbbá az ezzel összefüggő kártalanítás és kártalanítási eljárás szabályait.
+
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a Honvédség veszélyhelyzettel és egészségügyi válsághelyzettel összefüggő feladatokban történő közreműködésének tartalmát.
 
 (2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
 

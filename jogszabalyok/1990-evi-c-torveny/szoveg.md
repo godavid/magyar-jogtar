@@ -14,7 +14,7 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 ### I. Fejezet — Az adómegállapítás joga és az adókötelezettség
 
-1. § (1) E törvény felhatalmazása és rendelkezései szerint a települési (községi, városi, fővárosi és kerületi) önkormányzat képviselőtestülete (a továbbiakban: önkormányzat) rendelettel az illetékességi területén helyi adókat (a továbbiakban: adót), valamint települési adókat vezethet be.
+1. § (1) E törvény felhatalmazása és rendelkezései szerint a települési (községi, városi, fővárosi és kerületi) önkormányzat, valamint a megyei önkormányzat képviselő-testülete (a továbbiakban együtt: önkormányzat) rendelettel az önkormányzat illetékességi területén helyi adókat (a továbbiakban: adót), valamint – a megyei önkormányzat kivételével – települési adókat vezethet be.
 
 (2) A főváros esetében az építményadót, a telekadót, a magánszemély kommunális adóját és az idegenforgalmi adót a (3) bekezdés kivételével a kerületi önkormányzat, a helyi iparűzési adót a fővárosi önkormányzat jogosult bevezetni.
 
@@ -22,7 +22,9 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 (4) A fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a kerületi önkormányzat által bevezethető adó bevezetésére a fővárosi önkormányzat jogosult.
 
-1/A. § (1) Az önkormányzat az illetékességi területén rendelettel olyan települési adót, települési adókat vezethet be, amelyet vagy amelyeket más törvény nem tilt. Az önkormányzat települési adót bármely adótárgyra megállapíthat, feltéve, hogy arra nem terjed ki törvényben szabályozott közteher hatálya. A települési adónak nem lehet alanya állam, önkormányzat, szervezet, továbbá – e minőségére tekintettel – vállalkozó [52. § 26. pont].
+(5) A megyei önkormányzat képviselőtestülete a bevezetendő helyi adóról szóló rendeletének tervezetét – legalább 15 napos határidővel – véleményezésre megküldi a különleges gazdasági övezet fekvése szerinti és a különleges gazdasági övezetről szóló kormányrendelet szerint a beruházással közvetlenebbül érintett települési önkormányzatnak minősülő önkormányzatoknak, továbbá a Kormány részére.
+
+1/A. § (1) A települési önkormányzat az illetékességi területén rendelettel olyan települési adót, települési adókat vezethet be, amelyet vagy amelyeket más törvény nem tilt. A települési önkormányzat települési adót bármely adótárgyra megállapíthat, feltéve, hogy arra nem terjed ki törvényben szabályozott közteher hatálya. A települési adónak nem lehet alanya állam, önkormányzat, szervezet, továbbá – e minőségére tekintettel – vállalkozó [52. § 26. pont].
 
 (2) Az e § alapján megállapított települési adóra kizárólag az 1. § (1) bekezdését, a 42/B. §-t és a 43. § (3) bekezdését kell alkalmazni.
 
@@ -87,15 +89,25 @@ személyi állományába tartozó vagy alkalmazásában álló nem magyar állam
 - i) ha a h) pont hb) alpont alkalmazásával az adó mértékét növelte, akkor az adó mértékét a határozott időszakra eredetileg megállapított adómértékkel egyező mértékben kell megállapítani azon naptári évtől kezdődően, amelyet megelőző – és a h) pont hb) alpont alkalmazását követő – naptári év első tíz hónapjában az adott adónemben bevallott, kivetett adóból származó bevétel eléri a viszonyítási bevételt,
 - j) ha a 39/C. § (4) bekezdése alapján adómentességet vagy adókedvezményt állapít meg, akkor azt legalább három egymást követő naptári éven át nem helyezheti hatályon kívül, az adóalany hátrányára nem változtathatja meg.
 
-8. § (1)
+8. § (1) A települési önkormányzat a beszedett adó összegéről évenként köteles a költségvetési beszámoló részeként a település lakosságát tájékoztatni.
 
-(2) Az önkormányzat a beszedett adó összegéről évenként köteles a költségvetési beszámoló részeként a település lakosságát tájékoztatni.
+(2) Az állami adóhatóság a különleges gazdasági övezet tekintetében beszedett helyi adók összegét honlapján évente közzé teszi.
 
 (3) Az adóból származó bevétel – a fővárosi önkormányzat és a kerületi önkormányzatok közötti forrásmegosztásról szóló törvényben meghatározott kivétellel – az azt megállapító önkormányzat bevétele.
 
-### Az önkormányzati adóhatóság hatásköre és illetékessége
+(4) A különleges gazdasági övezet fekvése szerinti megye megyei önkormányzata az adóból származó bevételt a rendeletében meghatározott módon a különleges gazdasági övezet szerinti megye területén fekvő – különös tekintettel a különleges gazdasági övezet kijelöléséről szóló kormányrendeletben meghatározott, a beruházással közvetlenebbül érintett – települések területén megvalósuló fejlesztések és a területen működő szervezetek és települések működésének támogatására, valamint a bevétel legfeljebb 3%-ának erejéig a megyei önkormányzati feladatok ellátásával kapcsolatos működési költségeire használhatja fel.
 
-9. § Helyi adóügyben, települési adóügyben az az önkormányzati adóhatóság jár el első fokon, amelynek önkormányzata a helyi adót, települési adót bevezette.
+(5) Ha a különleges gazdasági övezet több megye illetékességi területén helyezkedik el, akkor az adóalany által teljesített helyi adókötelezettségből származó bevétel az adóalany által a különleges gazdasági övezet területéből használt terület arányában illeti meg az egyes megyei önkormányzatokat.
+
+### Az önkormányzati adóügyben eljáró adóhatóság hatásköre és illetékessége
+
+9. § (1) Helyi adóügyben, települési adóügyben – a (2) bekezdésben foglaltak kivételével – annak az önkormányzatnak az adóhatósága jár el első fokon, amelyik a helyi adót, települési adót bevezette.
+
+(2) A megyei önkormányzat képviselő-testülete által megállapított adóval kapcsolatos adóhatósági feladatokat az állami adóhatóság látja el. Az állami adóhatóság a beszedett adót naponta átutalja a különleges gazdasági övezet fekvése szerinti megye megyei önkormányzata által megadott számlája javára.
+
+(3) Az állami adó- és vámhatóság különleges gazdasági övezettel kapcsolatos adóhatósági feladatai tekintetében – törvény eltérő rendelkezése hiányában – az önkormányzati adóhatóságra vonatkozó rendelkezéseket kell alkalmazni.
+
+(4) A megyei önkormányzat az állami adóhatóság megkeresését követő 5 napon belül visszautalja az állami adóhatóság által meghatározott számlára az adózót véglegessé vált hatósági határozat alapján megillető visszatérítés összegét.
 
 #### 10. §
 
@@ -372,7 +384,7 @@ Az adófelfüggesztés
 
 36. § Adóköteles iparűzési tevékenység: a vállalkozó e minőségben végzett nyereség-, illetőleg jövedelemszerzésre irányuló tevékenysége.
 
-36/A. § A helyi iparűzési adóból származó bevétel elsőként – a fővárosi önkormányzat esetén külön törvényben meghatározottak szerint – a helyi közösségi közlekedési feladat ellátására, a helyi közösségi közlekedési feladat ellátásához szükséges összegen felüli bevétel különösen a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására használható fel. A helyi iparűzési adóból származó bevétel az önkormányzati hivatal állományában foglalkoztatottak személyi juttatásai és az ahhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó finanszírozására nem fordítható azt meghaladó mértékben, mint amilyen mértékben a települési önkormányzatot az adóerő-képessége szerint a központi költségvetésről szóló törvényben meghatározott hivatali működési támogatáshoz kapcsolódó beszámítás terheli.
+36/A. § A települési önkormányzat által megállapított helyi iparűzési adóból származó bevétel elsőként – a fővárosi önkormányzat esetén külön törvényben meghatározottak szerint – a helyi közösségi közlekedési feladat ellátására, a helyi közösségi közlekedési feladat ellátásához szükséges összegen felüli bevétel különösen a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására használható fel. A települési önkormányzat által megállapított helyi iparűzési adóból származó bevétel az önkormányzati hivatal állományában foglalkoztatottak személyi juttatásai és az ahhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó finanszírozására nem fordítható azt meghaladó mértékben, mint amilyen mértékben a települési önkormányzatot az adóerő-képessége szerint a központi költségvetésről szóló törvényben meghatározott hivatali működési támogatáshoz kapcsolódó beszámítás terheli.
 
 ### Az állandó és ideiglenes jelleggel végzett
 
@@ -469,9 +481,9 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 (7)
 
-(8) Ha a kisadózó vállalkozás a (3) bekezdés szerinti adóalap-megállapítást adóév közben választja, akkor az adóév első napjától a kisadózó vállalkozások tételes adójában fennálló adóalanyisága kezdő napját megelőző napig terjedő adóköteles időtartamról adóbevallást nyújt be az önkormányzati adóhatósághoz.
+(8) Ha a kisadózó vállalkozás a (3) bekezdés szerinti adóalap-megállapítást adóév közben választja, akkor az adóév első napjától a kisadózó vállalkozások tételes adójában fennálló adóalanyisága kezdő napját megelőző napig terjedő adóköteles időtartamról adóbevallást nyújt be az adóhatósághoz.
 
-(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az önkormányzati adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 45 napon belül vagy február 15-ig jelenti be az önkormányzati adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik és az adóév február 15-ig jelentheti be, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
+(9) A (3) bekezdés szerinti adóalap-megállapítás választását a vállalkozó – az adóhatóság által rendszeresített – bejelentkezési, bejelentési, bevallási nyomtatványon, a kisadózó vállalkozások tételes adójának hatálya alá tartozás kezdő napjától számított 45 napon belül vagy február 15-ig jelenti be az adóhatóság számára. A vállalkozó e döntése a teljes adóévre vonatkozik és az adóév február 15-ig jelentheti be, hogy az adó alapját nem a (3) bekezdésben foglaltak szerint kívánja megállapítani. A bejelentkezési, bejelentési, bevallási nyomtatvány végrehajtható okiratnak minősül.
 
 (10) Az adó alapjának a (2) bekezdés szerinti megállapítása adóévre választható, az erről szóló bejelentést a 39/A. § (5) bekezdése szerint kell megtenni.
 
@@ -504,7 +516,7 @@ az adó alapját a (2), illetőleg a (3) bekezdésben foglaltak szerint – figy
 
 39/E. § (1) Mentes az adó alól a szabályozott ingatlanbefektetési társaságról szóló törvény (a továbbiakban: Szit. tv.) szerinti szabályozott ingatlanbefektetési társaság (a továbbiakban e § vonatkozásában: társaság), a Szit. tv. szerinti szabályozott ingatlanbefektetési elővállalkozás (a továbbiakban e § vonatkozásában: elővállalkozás), valamint a társaság és az elővállalkozás Szit. tv. szerinti projekttársasága.
 
-(2) Ha az elővállalkozást az állami adóhatóság anélkül törli az elővállalkozások nyilvántartásából, hogy társaságként nyilvántartásba venné, akkor az elővállalkozás és annak projekttársasága az (1) bekezdés szerinti mentesség figyelmen kívül hagyásával számított, az elővállalkozásként való működés időszakára eső adó kétszeresét köteles az önkormányzati adóhatóságnak bevallani és megfizetni.
+(2) Ha az elővállalkozást az állami adóhatóság anélkül törli az elővállalkozások nyilvántartásából, hogy társaságként nyilvántartásba venné, akkor az elővállalkozás és annak projekttársasága az (1) bekezdés szerinti mentesség figyelmen kívül hagyásával számított, az elővállalkozásként való működés időszakára eső adó kétszeresét köteles bevallani és megfizetni.
 
 (3) Ha az elővállalkozás projekttársasága megszűnik, vagy az elővállalkozás a projekttársaságban fennálló tulajdoni illetőségét részben vagy egészben elidegeníti, akkor a projekttársaság (1) bekezdés szerinti mentesség figyelmen kívül hagyásával számított adójának kétszeresét az elővállalkozás a projekttársaság megszűnésének, elidegenítésének időpontját követő első adóbevallása benyújtásával egyidejűleg köteles bevallani és megfizetni.
 
@@ -719,7 +731,7 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 (3)
 
-(4) Az önkormányzati adóhatóság – az (5)–(7) bekezdésben foglalt kivételtől eltekintve – készpénzfizetést nem fogadhat el.
+(4) Az adóhatóság – az (5)–(7) bekezdésben foglalt kivételtől eltekintve – készpénzfizetést nem fogadhat el.
 
 (5) Postahivatallal nem rendelkező községekben, továbbá tanyaközpontokban, külterületeken – előzetes kihirdetés mellett – befizetési napokat lehet tartani, amikor az adózók készpénzben fizethetnek. Így történhet a fizetés ingóvégrehajtás során is, ha azt az adózó önként felajánlja, illetőleg, ha az előtalált készpénzt az adóhatóság lefoglalja. Készpénz átvételére vagy lefoglalására kizárólag az jogosult, akit erre az adóhatóság írásban felhatalmazott és az e célra rendszeresített hivatalos nyugtatömbbel ellátott. Az átvett vagy lefoglalt készpénzről azonnal nyugtát kell adni, s a pénzösszeget az átvétel napján, de legkésőbb a következő munkanapon az adóbeszedési számlára be kell fizetni.
 
@@ -729,7 +741,7 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 (8) A helyi iparűzési adóbevallást magyar nyelven, forintban kell elkészíteni. A beszámolót, könyvvezetést konvertibilis devizában készítő adózó a helyi iparűzési adóbevallás adatait a Magyar Nemzeti Bank hivatalos – az adóév utolsó napján érvényes – devizaárfolyamának alapulvételével számítja át forintra. Olyan külföldi pénznem esetében, amelynek nincs a Magyar Nemzeti Bank által jegyzett árfolyama, a Magyar Nemzeti Bank által az adóév utolsó napjára vonatkozóan közzétett, euróban megadott árfolyamot kell a forintra történő átszámításkor figyelembe venni. Ugyanígy kell eljárni minden más esetben, ha az átszámításra a számvitelről szóló törvény rendelkezése nem vonatkozik.
 
-(9) Az idegenforgalmi adót az adó beszedője abban a – Magyar Nemzeti Bank által jegyzett – külföldi pénznemben is beszedheti, amelyben a szállásdíj megfizetését lehetővé teszi. A beszedésre kötelezett az adó összegének külföldi pénznemben való megállapításakor és az adónak az önkormányzati adóhatóság számára forintban való befizetésekor a Magyar Nemzeti Bank hivatalos – az adóévet megelőző év utolsó napján érvényes – devizaárfolyamát veszi alapul.
+(9) Az idegenforgalmi adót az adó beszedője abban a – Magyar Nemzeti Bank által jegyzett – külföldi pénznemben is beszedheti, amelyben a szállásdíj megfizetését lehetővé teszi. A beszedésre kötelezett az adó összegének külföldi pénznemben való megállapításakor és az adónak az adóhatóság számára forintban való befizetésekor a Magyar Nemzeti Bank hivatalos – az adóévet megelőző év utolsó napján érvényes – devizaárfolyamát veszi alapul.
 
 (10) A lakás korrigált forgalmi értékének megállapítása során a lakáshoz tartozó kiegészítő helyiség, melléképület, melléképületrész alapterületére jutó korrigált forgalmi értéket figyelmen kívül kell hagyni.
 
@@ -739,18 +751,20 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 ### Tájékoztatás a bevezetett helyi adók és települési adók szabályairól
 
-42/B. § (1) Az önkormányzati adóhatóság az önkormányzati adórendelet, valamint annak módosítása hatályba lépését megelőző hónap ötödik napjáig – a kincstár elektronikus rendszerén keresztül – adatot szolgáltat a kincstár számára:
+42/B. § (1) A jegyző, főjegyző az önkormányzati adórendelet, valamint annak módosítása hatálybalépését megelőző hónap ötödik napjáig – a kincstár elektronikus rendszerén keresztül – adatot szolgáltat a kincstár számára:
 
 - a) a helyi adónem, a települési adónem bevezetésének napjáról,
 - b) az önkormányzat által megállapított adóalap, adómérték, adókedvezmény, adómentesség szövegéről,
-- c) a b) pontban említett rendelkezések hatályba lépésének napjáról,
-- d) az önkormányzat honlapjának címéről, valamint legalább egy adóügyi információs telefonszámról, elektronikus levélcímről, hivatali kapu azonosítóról,, és az önkormányzati adóhatóság levelezési címéről (a továbbiakban: elérhetőségi információk),
+- c) a b) pontban említett rendelkezések hatálybalépésének napjáról,
+- d) az önkormányzat honlapjának címéről, valamint legalább egy adóügyi információs telefonszámról, elektronikus levélcímről, hivatali kapu azonosítóról, és az adóhatóság levelezési címéről (a továbbiakban együtt: elérhetőségi információk),
 - e) a helyi adónem, a települési adónem pénzforgalmi jelzőszámáról,
 - f) határozott időszakra megállapított adómérték, adómentesség, adókedvezmény esetén a határozott időszak lejártának időpontjáról.
 
-(2) A kincstár a hozzá beérkezett adatokat és elérhetőségi információkat feldolgozza és a honlapján – települések (a fővárosban a fővárosi, illetve kerületi önkormányzatok) szerinti bontásban – elektronikus úton feldolgozható és letölthető formátumban is közzéteszi. A kincstár a honlapján közzétett adatokat és elérhetőségi információkat az önkormányzati adóhatóságoktól az (1) bekezdés szerint beérkezett adatokkal havonta, az önkormányzati adóhatóság adatszolgáltatását követő hónap 5. napjáig módosítja.
+(2) A kincstár a hozzá beérkezett adatokat és elérhetőségi információkat feldolgozza és a honlapján – települések (a fővárosban a fővárosi, illetve kerületi önkormányzatok), illetve különleges gazdasági övezetek szerinti bontásban – elektronikus úton feldolgozható és letölthető formátumban is közzéteszi. A kincstár a honlapján közzétett adatokat és elérhetőségi információkat az (1) bekezdés szerint beérkezett adatokkal havonta, a jegyző, főjegyző adatszolgáltatását követő hónap 5. napjáig módosítja.
 
-(3) Az önkormányzati adóhatóság az (1) bekezdés szerinti adatszolgáltatása teljesítésével egyidejűleg az önkormányzat honlapján közzéteszi az adórendelet szövegét, az adórendelet módosításokkal egységes szerkezetbe foglalt szövegét, valamint a rendszeresített bevallási, adatbejelentési, bejelentkezési nyomtatványokat, az elérhetőségi információkat, feltéve, hogy az önkormányzat honlapot üzemeltet.
+(3) A jegyző, főjegyző (1) bekezdés szerinti adatszolgáltatása teljesítésével egyidejűleg az önkormányzat honlapján közzéteszi az adórendelet szövegét, az adórendelet módosításokkal egységes szerkezetbe foglalt szövegét, valamint a rendszeresített bevallási, adatbejelentési, bejelentkezési nyomtatványokat, az elérhetőségi információkat, feltéve, hogy az önkormányzat honlapot üzemeltet.
+
+(4) A főjegyző az (1) bekezdésben meghatározott időpontig az (1) bekezdés a)–c) és f) pontja szerinti adatokat az állami adóhatóságnak is megküldi.
 
 ### Az adóbevallás-benyújtás, bejelentkezés, változás-bejelentés szabályai
 
@@ -771,7 +785,7 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 (3) A számszaki hibát, ellentmondást nem tartalmazó vagy a (2) bekezdés szerint javított adóbevallást az önkormányzati adóhatóságnál határidőben teljesítettnek kell tekinteni, feltéve, hogy azt az állami adóhatósághoz határidőben benyújtották.
 
-(4) A sportvállalkozás az adóbevallást kizárólag az (1) bekezdés szerint nyújthatja be.
+(4) A sportvállalkozás és a különleges gazdasági övezetbe tartozó területen székhellyel, telephellyel rendelkező adóalany az adóbevallást kizárólag az (1) bekezdés szerint nyújthatja be.
 
 (5) Az állami adóhatóság a sportvállalkozás által a (4) bekezdés szerint benyújtott adóbevallás (2) bekezdés szerinti továbbítását megelőzően az adóbevallásban feltüntetett adatokat nyilvántartásba veszi.
 
@@ -787,6 +801,25 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 (3) Ha a bejelentkezéssel, változásbejelentéssel összefüggésben adóelőleget vagy jogszabály alapján az (1) bekezdés szerinti adatszolgáltatásban nem szereplő más adatot is be kell jelenteni, akkor e bejelentés megtételére az adózót a székhelye és a telephely szerinti önkormányzati adóhatóság külön felhívja.
 
 42/F. § A naptári évtől eltérő üzleti évet választó vállalkozó a helyi iparűzési adóban az adómegállapítási, bevallási, adófizetési kötelezettségét az üzleti év első napján hatályos szabályok szerint teljesíti.
+
+### V/A. Fejezet — A KÜLÖNLEGES GAZDASÁGI ÖVEZET LÉTREJÖTTÉVEL ÖSSZEFÜGGŐ SAJÁTOS RENDELKEZÉSEK
+
+42/G. § (1) Ha a különleges gazdasági övezet fekvése szerinti települési önkormányzat
+
+- a) valamely helyi adót bevezette, akkor a megyei önkormányzat év közbeni adómegállapítása során nem súlyosbíthatja az adóalanyok terheit;
+- b) határozott időre szóló adómértéket alkotott, akkor a 7. § h) pontjában foglalt adómérték-változtatási korlátozás a megyei önkormányzatot is köti;
+- c) a 39/C. § (4) bekezdése szerint adómentességet vagy adókedvezményt alkotott, akkor a 7. § j) pontja szerinti korlátozás a megyei önkormányzatot is köti;
+- d) valamely helyi adót bevezette, akkor a különleges gazdasági övezet fekvése szerinti települési önkormányzat helyi adóról szóló rendeletében meghatározott szabályokat kell alkalmazni mindaddig – de legfeljebb a különleges gazdasági övezet kijelöléséről szóló kormányrendelet hatálybalépésétől számított 120 napig –, amíg a megyei önkormányzat rendeletében nem állapít meg helyi adóra vonatkozó szabályokat.
+
+(2) Ha a különleges gazdasági övezet több megye illetékességi területén helyezkedik el, és a különleges gazdasági övezet fekvése szerinti megyék megyei önkormányzatai eltérő helyi adómértéket állapítottak meg rendeletükben, akkor az adózó a legkisebb adómérték alapján teljesítheti adókötelezettségét.
+
+42/H. § (1) A különleges gazdasági övezet létrejötte napját megelőző napon a helyi iparűzési adó alanyának a különleges gazdasági övezet fekvése szerinti települési önkormányzat illetékességi területén fennálló iparűzésiadó-kötelezettsége megszűnik, amelyet az állandó jellegű iparűzési tevékenység utáni adókötelezettség szempontjából úgy kell tekinteni, mintha az iparűzési adó alanya székhelyét áthelyezte, telephelyét megszüntette volna.
+
+(2) A különleges gazdasági övezet fekvése szerinti megyei önkormányzat illetékességi területén az iparűzésiadó-kötelezettség a különleges gazdasági övezet létrejötte napján keletkezik.
+
+(3) Ha az adóalany előrehozott adót fizetett a különleges gazdasági övezet fekvése szerinti települési önkormányzat számára, akkor a be nem számított előrehozott adót visszaigényelheti a települési önkormányzat adóhatóságától az adózás rendjéről szóló törvény túlfizetésre vonatkozó szabályai szerint, feltéve, hogy a veszélyhelyzettel összefüggésben a nemzetgazdaság stabilitásának érdekében szükséges intézkedésekről szóló 135/2020. (IV. 17.) Korm. rendeletben biztosított visszaigénylési jogával nem élt.
+
+(4) A különleges gazdasági övezet fekvése szerinti település önkormányzati adóhatósága a különleges gazdasági övezet területén lévő épületről, telekről szóló, hozzá benyújtott építményadó-, telekadó-, magánszemély kommunális adója bevallást, adatbejelentést a különleges gazdasági övezet létrejöttét követő 30 napon belül – adókivetés céljából – az állami adóhatóság részére átadja.
 
 ## HARMADIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -862,7 +895,7 @@ elektronikus úton megküldi az állami adóhatóság részére.
 
 51/G. § Az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel beiktatott 42/D. § (4) bekezdést a hatálybalépését magában foglaló adóévi helyi iparűzési adókötelezettség teljesítése során is alkalmazni kell.
 
-51/H. § Az az adóalany, amely e törvény 2019. december 31-én hatályos szabályai alapján alapítványként a 3. § (2)–(3) bekezdése szerinti feltételes adómentesség igénybevételére jogosult, e mentességet 2022. december 31-ig igénybe veheti, ha vállalja, hogy 2023. január 15-ig igazolja, hogy a Civil törvény szerinti közhasznú jogállást szerzett. Ha az adóalany e vállalását nem teljesíti, a 3. § (2)–(3) bekezdése szerinti feltételes mentességre tekintettel meg nem fizetett adót az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben köteles az önkormányzati adóhatóság felhívására megfizetni. A szervezet megszűnése esetén e fizetési kötelezettség az alapítót vagy annak jogutódját terheli.
+51/H. § Az az adóalany, amely e törvény 2019. december 31-én hatályos szabályai alapján alapítványként a 3. § (2)–(3) bekezdése szerinti feltételes adómentesség igénybevételére jogosult, e mentességet 2022. december 31-ig igénybe veheti, ha vállalja, hogy 2023. január 15-ig igazolja, hogy a Civil törvény szerinti közhasznú jogállást szerzett. Ha az adóalany e vállalását nem teljesíti, a 3. § (2)–(3) bekezdése szerinti feltételes mentességre tekintettel meg nem fizetett adót az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben köteles az adóhatóság felhívására megfizetni. A szervezet megszűnése esetén e fizetési kötelezettség az alapítót vagy annak jogutódját terheli.
 
 51/I. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel (a továbbiakban: Eadtv.) megállapított 41. § (9) bekezdést annak a naptári évtől eltérő üzleti évet választó vállalkozónak is alkalmaznia kell a 2019. évben kezdődő adóévében, amelynek ezen adóéve utolsó hónapjának 20. napja az Eadtv. hatálybalépését követő időszakra esik.
 
@@ -874,7 +907,7 @@ elektronikus úton megküldi az állami adóhatóság részére.
 
 52. § E törvény alkalmazásában:
 
-- 1. önkormányzat illetékességi területe: az önkormányzat közigazgatási határa által behatárolt — bel- és külterületet magában foglaló — térség, amelyre az önkormányzati hatáskör kiterjed,
+- 1. önkormányzat illetékességi területe: a települési önkormányzat illetékességi területe vagy a megyei önkormányzat illetékességi területe;
 - 2. külföldi: az a természetes személy, akinek állandó lakóhelye külföldön van és nem tartózkodik Magyarországon 183 napnál hosszabb időtartamban; továbbá az a jogi személy, gazdálkodó szervezet vagy más személyi egyesülés, amelynek székhelye (központja) külföldön van, ide nem értve a Magyarországon működő telepeit, fiókjait, képviseleteit,
 - 3. vagyoni értékű jog: a kezelői jog, a vagyonkezelői jog, a tartós földhasználat, a haszonélvezet, a használat joga – ideértve a külföldiek ingatlanhasználati jogát is –, a földhasználat és a lakásbérlet,
 - 4. külterület: a település közigazgatási határának belterületén kívül eső földrészlete, ideértve a zártkertet is,
@@ -977,9 +1010,9 @@ keretében végzett kötelezettség;
 
 - 54. beruházás: az adómentességet, adókedvezményt rendeletében biztosító önkormányzat illetékességi területén üzembe helyezett, a számvitelről szóló törvény szerinti olyan beruházás, amelyet a vállalkozó vesz első ízben használatba;
 - 55. alapítvány: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil törvény) szerinti közhasznú jogállású alapítvány, továbbá a más EGT-államban nyilvántartásba vett alapítvány, ha igazolja, hogy teljesíti a Civil törvény szerinti közhasznú szervezetté történő minősítés feltételeit, ide nem értve a magyarországi nyilvántartásba vételt;
-- 56.
-- 57.
-- 58.
+- 56. különleges gazdasági övezet: a különleges gazdasági övezetről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény felhatalmazása alapján alkotott kormányrendeletek szerinti különleges gazdasági övezet;
+- 57. települési önkormányzat illetékességi területe: az önkormányzat közigazgatási határa által behatárolt – bel- és külterületet magában foglaló – térség, amelyre az önkormányzati hatáskör kiterjed, ide nem értve a különleges gazdasági övezet területét;
+- 58. megyei önkormányzat illetékességi területe: a megyei önkormányzat közigazgatási határa által behatárolt – bel- és külterületet magában foglaló – térségben lévő különleges gazdasági övezet területe;
 - 59.
 - 60. lakóépület: olyan épület, amelynek hasznos alapterülete legalább 50 százalékát lakások hasznos alapterülete teszi ki.
 - 61. külföldön létesített telephelyen végzett tevékenységből származó adóalaprész: az iparűzési adóalapnak az a része, amely a 3. számú melléklet – tevékenységre leginkább jellemző – 1.1 vagy 1.2 vagy 2.1 vagy 2.3 pontja alkalmazásával a külföldön létesített telephelyre, telephelyekre jut, azzal, hogy a 3. számú mellékletben említett település, települések kifejezések alatt a külföldön létesített telephelyet, telephelyeket is érteni kell. Ha a vállalkozó adóévet megelőző teljes adóévi adóalapja a 100 millió forintot meghaladta, csak a 3. számú melléklet 2.1 pontja vagy 2.3 pontja szerinti módszer alkalmazható,
@@ -1018,7 +1051,7 @@ A helyi iparűzési adó alapjának megosztása:
 
 1.1. Személyi jellegű ráfordítással arányos megosztás módszere
 
-A székhely, telephely(ek) szerinti településekhez (a továbbiakban együtt: települések) tartozó foglalkoztatottak – ideértve a magánszemély vállalkozó [52. § 26. a)–d) pont] esetében önmagát is – után a tárgyévben elszámolt személyi jellegű ráfordítások arányában osztható meg az adóalap. Személyi jellegű ráfordításnak a melléklet alkalmazásában az tekintendő, amit a számvitelről szóló törvény annak minősít, és a társasági adóról és osztalékadóról szóló törvény, illetőleg a személyi jövedelemadóról szóló törvény alapján költségként elszámolható. A magánszemély vállalkozó esetében az önmaga után elszámolt személyi jellegű ráfordítás címén – az említett törvényekben foglaltaktól függetlenül – 500 000 Ft-ot kell figyelembe venni. Ha a nem magánszemély vállalkozó ügyvezetője (a vállalkozónak a társasági szerződésben, az alapító okiratban képviseletére feljogosított magánszemély) után az adóévben személyi jellegű ráfordítás nem merül fel, akkor ezen ügyvezető után 500 000 forintot kell figyelembe venni személyi jellegű ráfordítás címén. A településen kívül változó munkahelyen foglalkoztatott személyek esetében a ráfordítást annál a településnél kell figyelembe venni, ahol ezen személyek tényleges irányítása történik.
+A székhely, telephely(ek) szerinti településekhez, különleges gazdasági övezet(ek)hez (a továbbiakban együtt: települések) tartozó foglalkoztatottak – ideértve a magánszemély vállalkozó [52. § 26. a)–d) pont] esetében önmagát is – után a tárgyévben elszámolt személyi jellegű ráfordítások arányában osztható meg az adóalap. Személyi jellegű ráfordításnak a melléklet alkalmazásában az tekintendő, amit a számvitelről szóló törvény annak minősít, és a társasági adóról és osztalékadóról szóló törvény, illetőleg a személyi jövedelemadóról szóló törvény alapján költségként elszámolható. A magánszemély vállalkozó esetében az önmaga után elszámolt személyi jellegű ráfordítás címén – az említett törvényekben foglaltaktól függetlenül – 500 000 Ft-ot kell figyelembe venni. Ha a nem magánszemély vállalkozó ügyvezetője (a vállalkozónak a társasági szerződésben, az alapító okiratban képviseletére feljogosított magánszemély) után az adóévben személyi jellegű ráfordítás nem merül fel, akkor ezen ügyvezető után 500 000 forintot kell figyelembe venni személyi jellegű ráfordítás címén. A településen kívül változó munkahelyen foglalkoztatott személyek esetében a ráfordítást annál a településnél kell figyelembe venni, ahol ezen személyek tényleges irányítása történik.
 
 A részletszámítás a következő:
 

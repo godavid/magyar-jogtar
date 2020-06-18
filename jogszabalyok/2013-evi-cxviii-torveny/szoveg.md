@@ -325,7 +325,7 @@ e törvény erejénél fogva ingyenesen az állam tulajdonába kerülnek az akt�
 | 229 | Budapest | Budapest Főváros XXIII. kerület Soroksár Önkormányzat | Budapest | 196857 | 1/1 |
 | 230 | Budapest | Budapest Főváros XXI. kerület Csepel Önkormányzata | Budapest | 202788/69 | 1/1 |
 | 231 | Budapest | Budapest Főváros XXI. kerület Csepel Önkormányzata | Budapest | 209927 | 1/1 |
-| 232 | Budapest | Budapest Főváros XXI. kerület Csepel Önkormányzata | Budapest | 209961/8 | 1/1 |
+| 232 |  |  |  |  |  |
 | 233 | Budapest | Budapest Főváros XXI. kerület Csepel Önkormányzata | Budapest | 210039 | 1/1 |
 | 234 | Budapest | Budapest Főváros XXII. kerület Budafok-Tétény Önkormányzata | Budapest | 221684 | 1/1 |
 | 235 | Budapest | Budapest Főváros XXII. kerület Budafok-Tétény Önkormányzata | Budapest | 224181 | 32/144 |

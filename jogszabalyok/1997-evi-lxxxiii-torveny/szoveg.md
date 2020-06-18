@@ -919,6 +919,8 @@ igazolja.
 
 (8) Amennyiben az egészségbiztosító tévesen utal valamely egészségügyi szolgáltató részére finanszírozási összeget, jogosult azt a téves utalás megállapításától számított hat hónapon belül az egészségügyi szolgáltató finanszírozási díjából egy összegben vagy több részletben levonni.
 
+(9) Azon gyógyászati segédeszköz forgalmazó számára, amely járóbeteg-ellátás keretében rendelt gyógyászati segédeszköz árához támogatással igénybe vehető szolgáltatást nyújt, a lakosság biztonságos ellátása érdekében az egészségbiztosító – az E. Alap éves költségvetésében e célra megjelölt előirányzat terhére – kamatmentes finanszírozási előleget nyújthat.
+
 35/A. § A háziorvosi, házi gyermekorvosi szolgáltató kormányrendeletben meghatározottak szerint jogosult szakmailag megalapozott és költséghatékony beutalási tevékenysége alapján az E. Alapból külön díjazásra, amelyet a háziorvosi, házi gyermekorvosi ellátáshoz kapcsolódó fejlesztési célokra fordíthat.
 
 ### A szerződés teljesítésének ellenőrzése
@@ -2062,6 +2064,8 @@ meghatározására.
 (2j) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a gyógyszerek és a gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának és a támogatás mértéke megállapításának, valamint a társadalombiztosítási támogatásba befogadott gyógyszerek, gyógyászati segédeszközök hivatalból történő felülvizsgálatának eljárási szabályait.
 
 (2k) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 82/O. § szerinti többletköltségek megtérítésének szabályait.
+
+(2l) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyógyászati segédeszközök árához nyújtott támogatással igénybe vehető szolgáltatást nyújtók számára folyósítható előleg feltételeinek és folyósításának szabályait.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 

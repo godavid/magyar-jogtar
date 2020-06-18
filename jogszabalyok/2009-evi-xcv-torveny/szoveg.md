@@ -67,7 +67,8 @@ díj – bármilyen jogcímen történő – felszámítása a beszállító fel
 - r) a kereskedő által forgalmazott termékmennyiség alapján érvényesíthető árkedvezmény, jutalék vagy díj – bármilyen jogcímen történő – felszámítása a beszállító felé, a kereskedőt a forgalmazott termékmennyiség növelésére ösztönző – a felek által megállapított valamely korábbi időszakban elért vagy becsült mértékhez képesti többletértékesítés alapján, a terméket terhelő adómérték figyelembevétele nélkül megállapított, a termék kereskedelmi forgalmának tulajdonságaival összefüggő, arányos mértékű – utólagos árkedvezmény kivételével;
 - s) ha a kereskedő a részére szállított termék után a beszállító által fizetendő népegészségügyi termékadó összegét a h) pontban foglalt határidőn belül nem téríti meg a beszállító részére;
 - t) a (2b) vagy a (2c) bekezdésben foglalt rendelkezés be nem tartása;
-- u) összetétele és érzékszervi tulajdonságai alapján azonos termékek végső fogyasztói értékesítési árának a termék származási országa alapján diszkriminatív módon eltérő képzése.
+- u) összetétele és érzékszervi tulajdonságai alapján azonos termékek végső fogyasztói értékesítési árának a termék származási országa alapján diszkriminatív módon eltérő képzése;
+- x) ha a beszállítóval szemben a kereskedő a beszerzési árat a beszállító tiltakozása ellenére egyoldalúan csökkenti, vagy ha a beszerzési ár csökkentésére irányuló szerződésmódosítás érdekében a kereskedő a beszállítót a szerződéses kapcsolat megszüntetésével, terméke rendelésének lemondásával, a rendelésállomány csökkentésével, eladásösztönző tevékenységek – így különösen az akciók és promóciók – lemondásával vagy más, a beszállítónak anyagi vagy erkölcsi veszteséget okozó eszközzel fenyegeti.
 
 (2a) A kereskedő által a beszállító hozzájárulásával a végső fogyasztónak nyújtott árengedmény fogyasztó irányába történő nyújtásának végső időpontjától számított harminc napon belül, illetve ha a kereskedőnek a 6. § (3) bekezdése szerint számított előző évi nettó árbevétele nem haladja meg a százmillió forintot, az Szt. szerinti beszámoló elkészítéshez kapcsolódó leltár elkészítését követő harminc napon belül, a kereskedőnek a nyújtott árengedményről és az azzal érintett termékmennyiségről el kell számolnia a beszállító felé.
 
@@ -76,6 +77,15 @@ díj – bármilyen jogcímen történő – felszámítása a beszállító fel
 (2c) A terméket terhelő – a (2) bekezdés e) pontjának ed) alpontja, valamint a (2) bekezdés r) pontja szerinti – adómérték összegéről a beszállító tájékoztatja a kereskedőt.
 
 (2c) Amennyiben a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a kereskedő a jegybanki alapkamat kétszeresével növelt kamat megfizetésére köteles. A szerződésnek tartalmaznia kell a kereskedő részéről a termék ellenértékére, valamint annak a jegybanki alapkamat kétszeresével növelt kamatára vonatkozó, a pénzforgalmi szolgáltatónak adott beszedési megbízás teljesítésére vonatkozó hozzájárulást, felhatalmazó nyilatkozatot, arra az esetre, ha a (2) bekezdés h) pontjában meghatározott határidőn belül a fizetési teljesítésre nem kerül sor.
+
+(2d) A (2) bekezdés x) pontjának alkalmazása során a kereskedő köteles igazolni, hogy a beszerzési ár csökkentésére nem a (2) bekezdés x) pontja szerinti módon került sor, ha az eljárás megindítására a beszállító bejelentése alapján került sor, és
+
+- a) a beszállító éves árbevétele nem haladja meg az 500 millió forintot, és a kereskedő árbevétele meghaladja az 1 milliárd forintot,
+- b) a beszállító éves árbevétele meghaladja az 500 millió forintot, de nem haladja meg az 5 milliárd forintot, és a kereskedő árbevétele meghaladja a 20 milliárd forintot,
+- c) a beszállító éves árbevétele meghaladja az 5 milliárd forintot, de nem haladja meg a 75 milliárd forintot, és a kereskedő árbevétele meghaladja a 100 milliárd forintot,
+- d) a beszállító éves árbevétele meghaladja a 75 milliárd forintot, és a kereskedő árbevétele meghaladja a 200 milliárd forintot.
+
+(2e) A (2) bekezdés x) pontjának alkalmazása során az utolsó lezárt év szerinti árbevételt kell figyelembe venni azzal, hogy az Szt. szerint kapcsolt vállalkozási viszonyban álló beszállítók vagy kereskedők, továbbá közös beszerzés esetén a közös beszerzési szövetséget vagy ügyleti társulást alkotó, vagy a kereskedelmi szerződést közösen megkötő kereskedők árbevételét egybe kell számítani.
 
 (3) A tisztességtelen forgalmazói magatartást tartalmazó, illetve az e törvényben szereplő tilalom megkerülésére irányuló szerződési kitétel semmis. Az (5) bekezdés szerinti üzletszabályzat nyilvánosságra hozatalának elmulasztása önmagában nem eredményezi az abban foglalt kitétel semmisségét.
 
@@ -156,7 +166,8 @@ jogkövetkezmények
 
 - a) kötelezettségvállaló nyilatkozata nem terjed ki valamennyi feltárt jogsértésre;
 - b) ugyanezen jogsértő magatartása vonatkozásában a mezőgazdasági igazgatási szerv korábban már hozott az (1) bekezdés szerinti döntést vagy a (4) bekezdés szerint termékpálya-felügyeleti bírságot szabott ki; vagy
-- c) jogsértő magatartása kirívóan súlyos vagy a beszállítók széles körét érintő érdeksérelmet, illetve kárt okozott.
+- c) jogsértő magatartása kirívóan súlyos vagy a beszállítók széles körét érintő érdeksérelmet, illetve kárt okozott;
+- d) ellen a 3. § (2) bekezdés x) pontjának alkalmazása miatt folyik az eljárás.
 
 (2) Az (1) bekezdés szerinti végzés meghozatala nem zárja ki, hogy az ügyben – a körülmények lényeges változása miatt, illetve akkor, ha a végzés a döntés meghozatala szempontjából fontos tény félrevezető közlésén alapult – újabb eljárás kerüljön megindításra. Az újabb eljárás során rendelkezni kell a korábban az (1) bekezdés alapján hozott végzésről.
 

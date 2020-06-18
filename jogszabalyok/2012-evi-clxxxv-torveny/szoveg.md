@@ -32,6 +32,8 @@ Az Országgyűlés a környezet és az emberi egészség védelme, a környezett
 - f) a fekáliára – ha arra a (2) bekezdés c) pontja nem terjed ki –, a szalmára, valamint a mezőgazdasági termelőtevékenység, az erdőgazdálkodás, továbbá a fafeldolgozás során képződő egyéb nem veszélyes természetes anyagra, amelyet a mezőgazdaságban, az erdészetben vagy biomasszaként energia előállítására használnak a környezetre és az emberi egészségre veszélytelen eljárással vagy módszerrel,
 - g) a vizek és vízi utak kezelése, árvízmentesítés, vízkárelhárítás vagy talajfeltöltés (a talaj minőségének javítása) céljából a felszíni vizekben áthelyezett üledékre, iszapra, amely az 1. mellékletben meghatározott veszélyességi jellemzők egyikével sem rendelkezik.
 
+(4) E törvény rendelkezéseit a különleges gazdasági övezetről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2020. évi LIX. törvényben foglalt eltérésekkel kell alkalmazni.
+
 #### 2. Értelmező rendelkezések
 
 2. § (1) E törvény alkalmazásában
