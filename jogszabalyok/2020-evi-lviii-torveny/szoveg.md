@@ -2386,1081 +2386,268 @@ közigazgatási bírsággal sújthatja.
 
 #### 86. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-293. § Az illetékekről szóló 1990. évi XCIII. törvény 29. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény szerinti ellenőrzött bejelentés illetéke az engedélyezés illetékének 50%-a.”
+#### 293. §
 
 #### 87. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-294. § Az Flt. 39. § (11) bekezdésében a „címenként, illetve alcímenként” szövegrész helyébe az „alcímeként, illetve jogcímcsoportonként” szöveg lép.
+#### 294. §
 
 #### 88. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-295. § (1) A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény (a továbbiakban: Szt.) IV. Fejezet „Kényszerengedély közegészségügyi problémák kezelésére” alcím címe helyébe a következő alcím cím lép:
+#### 295. §
 
-„A 816/2006/EK rendelet hatálya alá tartozó kényszerengedély”
+#### 296. §
 
-(2) Az Szt. IV. Fejezete a következő alcím címmel és 33/B. és 33/C. §-sal egészül ki:
+#### 297. §
 
-„Közegészségügyi kényszerengedély
+#### 298. §
 
-33/B. § (1) A Szellemi Tulajdon Nemzeti Hivatala az egészségügyről szóló 1997. évi CLIV. törvény 228. § (2) bekezdése szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) összefüggő belföldi szükségletek kielégítése, illetve más országban felmerülő közegészségügyi probléma kezelésére szolgáló kényszerengedéllyel (a továbbiakban: külföldi kényszerengedély) összefüggő exportcélú hasznosítás céljából közegészségügyi kényszerengedélyt (a továbbiakban: közegészségügyi kényszerengedély) ad
+#### 299. §
 
-a) szabadalmi vagy kiegészítő oltalom alatt álló gyógyszer, hatóanyag vagy vizsgálati készítmény, szabadalmi oltalom alatt álló orvostechnikai eszköz (a továbbiakban együtt: egészségügyi termék), vagy
+#### 300. §
 
-b) egészségügyi termék előállításához szükséges, szabadalmi oltalom alatt álló eljárás, berendezés vagy eszköz
-
-hasznosítására.
-
-(2) A közegészségügyi kényszerengedély exportcélú hasznosításra csak abban az esetben adható, ha
-
-a) a kérelmező a célországban történő hasznosításra külföldi kényszerengedéllyel rendelkezik, kivéve, ha az adott egészségügyi termék vagy egészségügyi termék előállításához szükséges eljárás, berendezés vagy eszköz a célországban nem áll szabadalmi vagy kiegészítő oltalom alatt,
-
-b) az exportcélú hasznosítás a gyógyszerészeti államigazgatási szerv igazolása alapján az egészségügyi válsághelyzet elhárítását nem veszélyezteti, és
-
-c) az exportcélú hasznosítás nem haladja meg a külföldi kényszerengedélyben meghatározott mértéket.
-
-(3) A közegészségügyi kényszerengedély nem ad kizárólagos jogot a hasznosításra, a közegészségügyi kényszerengedélyes a közegészségügyi kényszerengedély alapján hasznosítási engedélyt nem adhat.
-
-33/C. § (1) A közegészségügyi kényszerengedély időtartamát a Szellemi Tulajdon Nemzeti Hivatala
-
-a) belföldi hasznosítás esetén a gyógyszerészeti államigazgatási szerv igazolása alapján az egészségügyi válsághelyzet kezelésére alkalmas szükségletekre tekintettel, de legalább 6 hónap időtartamban,
-
-b) az exportcélú hasznosítás tekintetében a külföldi kényszerengedéllyel azonos időbeli hatállyal
-
-állapítja meg.
-
-(2) A 33/B. § (2) bekezdés b) pontja és az (1) bekezdés a) pontja szerinti igazolást a gyógyszerészeti államigazgatási szerv saját hatáskörben – a rendelkezésre álló készletek mennyiségére vonatkozó információk elemzésével, illetve kockázatértékelés alapján – állítja ki. Az igazolás kiállításához szükséges további adatok beszerzése érdekében a gyógyszerészeti államigazgatási szerv az Állami Egészségügyi Tartalék kezelőjéhez vagy az egészségügyért felelős miniszter által vezetett minisztériumhoz is fordulhat adatszolgáltatás iránt.
-
-(3) A közegészségügyi kényszerengedélyért a szabadalmasnak megfelelő díj jár. A díjat a Szellemi Tulajdon Nemzeti Hivatala állapítja meg. A díjnak ki kell fejeznie a közegészségügyi kényszerengedély gazdasági értékét, így különösen arányban kell állnia azzal a díjjal, amelyet a közegészségügyi kényszerengedélyesnek – a találmány tárgya szerinti műszaki területen kialakult licenciaforgalmi viszonyokra figyelemmel – a szabadalmassal kötött hasznosítási szerződés alapján fizetnie kellene.
-
-(4) A Szellemi Tulajdon Nemzeti Hivatala a (3) bekezdés szerinti díj megállapítása során figyelembe veszi különösen
-
-a) az adott iparágban a hasznosítási díj és a nettó értékesítési árbevétel jellemző arányát, illetve
-
-b) azt, hogy az adott egészségügyi termékben, vagy az egészségügyi termék előállításához szükséges, szabadalmi oltalom alatt álló eljárásban, berendezésben vagy eszközben megjelenő gazdasági előny milyen arányban vezethető vissza a közegészségügyi kényszerengedéllyel érintett szabadalom alkalmazására (fedési hányad).
-
-(5) A közegészségügyi kényszerengedélyes a közegészségügyi kényszerengedélyről a Szellemi Tulajdon Nemzeti Hivatalához címzett nyilatkozattal bármikor lemondhat. A belföldi és exportcélú hasznosításra egyaránt kiterjedő közegészségügyi kényszerengedély esetén a közegészségügyi kényszerengedélyes a belföldi vagy exportcélú hasznosításról részben is lemondhat. A lemondásról a Szellemi Tulajdon Nemzeti Hivatala értesíti szabadalmast és a gyógyszerészeti államigazgatási szervet.
-
-(6) A közegészségügyi kényszerengedély az arról való lemondással, az (1) bekezdés szerinti határozott idő lejártával, vagy a szabadalmi vagy kiegészítő oltalom megszűnésével megszűnik. A közegészségügyi kényszerengedély az exportcélú hasznosítás tekintetében a külföldi kényszerengedély megszűnésével hatályát veszti. A közegészségügyi kényszerengedélyes a külföldi kényszerengedély megszűnéséről köteles a Szellemi Tulajdon Nemzeti Hivatalát a megszűnéstől számított nyolc napon belül értesíteni.
-
-(7) A közegészségügyi kényszerengedély lemondás vagy az (1) bekezdés szerinti határozott idő letelte miatti megszűnése esetén a közegészségügyi kényszerengedélyes által jogszerűen forgalomba nem hozott egészségügyi termék, vagy az egészségügyi termék előállításához szükséges berendezés vagy eszköz megsemmisítését, illetve az egészségügyi termék előállításához szükséges eljárás hasznosításának abbahagyását a gyógyszerészeti államigazgatási szerv határozatban rendeli el.
-
-(8) A (7) bekezdés nem alkalmazandó, ha a közegészségügyi kényszerengedélyes az (1) bekezdés szerinti határozott idő letelte előtt újabb, az egészségügyi termékek előállítását megalapozó közegészségügyi kényszerengedéllyel azonos tárgyi hatályú közegészségügyi kényszerengedélyt szerez.
-
-(9) Ha a belföldi hasznosítású közegészségügyi kényszerengedély alapján előállított egészségügyi termék forgalomba hozatala törvény alapján hatósági engedélyhez kötött, az engedélyező hatóság az engedélyezésre irányuló eljárásában a közegészségügyi kényszerengedélyben foglaltakat a kérelem elbírálása során bizonyítottnak tekinti.
-
-(10) A közegészségügyi kényszerengedély alapján előállított egészségügyi termékeket a szabadalmas által előállított terméktől egyedi jelzéssel kell megkülönböztetni. A csomagoláson és valamennyi kapcsolódó iraton egyértelműen fel kell tüntetni, hogy az egészségügyi termék előállítására a Szellemi Tulajdon Nemzeti Hivatala által adott közegészségügyi kényszerengedély alapján, és kizárólag belföldi vagy a 83/J. § (2) bekezdés b) pontja szerinti országba irányuló exportcélú forgalmazás céljából került sor.
-
-(11) Ha a közegészségügyi kényszerengedély jogosultja nem tesz eleget a (10) bekezdésben foglalt kötelezettségnek, a gyógyszerészeti államigazgatási szerv az egészségügyi termék – a (10) bekezdésnek, illetve a 83/J. § (2) bekezdés d) pontjának megfelelő – átcsomagolására kötelezi.”
-
-296. § Az Szt. 44. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A Szellemi Tulajdon Nemzeti Hivatala jár el a 816/2006/EK rendelet [33/A. § (1) bek.] hatálya alá tartozó kényszerengedélyekkel összefüggő ügyekben (83/A–83/H. §), illetve a közegészségügyi kényszerengedéllyel [33/B. § (1) bek.] összefüggő ügyekben (83/I–83/K. §) is.”
-
-297. § Az Szt. 46. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a megsemmisítési eljárásban, a nemleges megállapítási eljárásban, valamint – e törvény eltérő rendelkezése hiányában – a 816/2006/EK rendelet [33/A. § (1) bek.] hatálya alá tartozó kényszerengedélyekkel összefüggő eljárásokban (83/A–83/H. §), és a közegészségügyi kényszerengedéllyel [33/B. § (1) bek.] összefüggő eljárásokban (83/I–83/K. §). A szabadalmi leírás értelmezése tárgyában szintén háromtagú tanácsban eljárva ad szakvéleményt. A tanács szótöbbséggel dönt.”
-
-298. § (1) Az Szt. 53/A. § (3) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(E törvény eltérő rendelkezése hiányában a Szellemi Tulajdon Nemzeti Hivatala csak megváltoztatási kérelem alapján és csak annak a bírósághoz történő továbbításáig módosíthatja és vonhatja vissza a következő kérdésekben hozott – az eljárást befejező – döntését:)
-
-„f) a közegészségügyi kényszerengedély megadása;”
-
-(2) Az Szt. 53/A. § (3) bekezdése a következő g) ponttal egészül ki:
-
-(E törvény eltérő rendelkezése hiányában a Szellemi Tulajdon Nemzeti Hivatala csak megváltoztatási kérelem alapján és csak annak a bírósághoz történő továbbításáig módosíthatja és vonhatja vissza a következő kérdésekben hozott – az eljárást befejező – döntését:)
-
-„g) a közzétett európai szabadalmi bejelentésben foglalt igénypontok fordításának közzététele, az európai szabadalom szövegéről készített fordítás benyújtása és a fordítás kijavítása.”
-
-299. § Az Szt. X. Fejezete a következő alcím címmel és 83/I–83/K. §-sal egészül ki:
-
-„A közegészségügyi kényszerengedélyekkel összefüggő eljárások
-
-83/I. § (1) A közegészségügyi kényszerengedéllyel kapcsolatos eljárásra e törvény rendelkezéseit az alábbi eltérésekkel kell alkalmazni:
-
-a) a hiánypótlásra, illetve nyilatkozattételre legalább tizenöt, de legfeljebb harminc napos határidőt kell kitűzni, valamint határidő-hosszabbítás csak különösen indokolt esetben adható,
-
-b) a Szellemi Tulajdon Nemzeti Hivatala soron kívül jár el.
-
-(2) A közegészségügyi kényszerengedély iránti kérelemnek – a 45. § (5) és (6) bekezdésében foglaltakon túlmenően – tartalmaznia kell:
-
-a) azt, hogy a kérelem belföldi, exportcélú, vagy belföldi és exportcélú hasznosításra irányul,
-
-b) exportcélú hasznosítás esetén azon országok megnevezését, amelyekre a kérelem irányul,
-
-c) a közegészségügyi kényszerengedély alapján hasznosítani kívánt találmányra adott szabadalom vagy kiegészítő oltalmi tanúsítvány lajstromszámát,
-
-d) a kényszerengedély alapján a kérelmező által gyártani kívánt egészségügyi termék megnevezését, gyógyszer esetén a termék szabadnevét,
-
-e) azokat a jelzéseket, amelyek a közegészségügyi kényszerengedély alapján gyártani kívánt egészségügyi terméket a 33/C. § (10) bekezdése szerint megkülönböztetik a szabadalmas termékétől,
-
-f) gyógyszerészeti államigazgatási szerv igazolását arról, hogy a kérelmező az egészségügyi válsághelyzettel összefüggő belföldi szükségletek kielégítése céljára alkalmas, az igazolásban meghatározott szükséges mennyiségű egészségügyi termékre kéri a közegészségügyi kényszerengedélyt,
-
-g) annak igazolását, hogy a közegészségügyi kényszerengedély kérelmezője rendelkezik a közegészségügyi kényszerengedély alapján előállítani szándékozott, az f) pont szerinti igazolásban meghatározott mennyiséghez, exportcélú hasznosítás esetén – ha a külföldi kényszerengedély erről rendelkezik – a külföldi kényszerengedélyben meghatározott mennyiséghez megfelelő kapacitással,
-
-h) a g) pontban meghatározottak hiányában annak igazolását, hogy a kérelmező az f) pont szerinti igazolásban, vagy exportcélú hasznosítás esetén – ha a külföldi kényszerengedély erről rendelkezik – a külföldi kényszerengedélyben meghatározott mennyiség előállításához szükséges kapacitások biztosítása érdekében komoly előkészületeket tett, és
-
-i) exportcélú hasznosítás esetén a külföldi kényszerengedélyt és annak hiteles angol vagy magyar nyelvű fordítását.
-
-(3) A közegészségügyi kényszerengedély iránti kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg. Ennek elmaradása esetén a kérelmet visszavontnak kell tekinteni.
-
-(4) A Szellemi Tulajdon Nemzeti Hivatala a kérelem beérkezését követően megvizsgálja, hogy
-
-a) a kérelem megfelel-e a (2) és (3) bekezdésben foglalt feltételeknek,
-
-b) teljesülnek-e a 33/B. §-ban foglalt feltételek.
-
-(5) A Szellemi Tulajdon Nemzeti Hivatala a kérelem beérkezésétől számított nyolc napon belül értesíti a kérelemmel érintett szabadalom jogosultját annak tényéről, hogy találmánya tekintetében kényszerengedély megadása iránt kérelmet nyújtottak be.
-
-(6) A Szellemi Tulajdon Nemzeti Hivatala döntéséig a közegészségügyi kényszerengedély kérelmezőjével szemben a kérelemben megjelölt szabadalommal vagy kiegészítő oltalmi tanúsítvánnyal kapcsolatban folyó bitorlási pert, és az ahhoz kapcsolódó ideiglenes intézkedést fel kell függeszteni.
-
-(7) Ha a közegészségügyi kényszerengedély iránti kérelem nem felel meg a (4) bekezdésben előírt feltételeknek, a kérelmezőt hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha az a hiánypótlás, illetve nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket. Ha a kérelmező a hiánypótlási felhívásra a kitűzött határidőn belül nem válaszol, a kérelmet visszavontnak kell tekinteni.
-
-83/J. § (1) A Szellemi Tulajdon Nemzeti Hivatala tárgyalás tartása nélkül határoz a közegészségügyi kényszerengedély megadásáról vagy a kérelem elutasításáról. A döntést írásba kell foglalni és közölni kell a kérelmezővel. A döntésről a Szellemi Tulajdon Nemzeti Hivatala a szabadalmast a döntés meghozatalától számított nyolc napon belül értesíti.
-
-(2) A közegészségügyi kényszerengedély megadásáról szóló határozatnak tartalmaznia kell:
-
-a) azt, hogy a kényszerengedély belföldi, exportcélú, vagy belföldi és exportcélú hasznosításra vonatkozik,
-
-b) exportcélú hasznosítás esetén azon országot, vagy országokat, amelyek tekintetében az exportcélú hasznosításra a közegészségügyi kényszerengedély kiterjed,
-
-c) a közegészségügyi kényszerengedély időtartamát,
-
-d) azokat a jelzéseket, amelyek a közegészségügyi kényszerengedély alapján előállítani kívánt egészségügyi terméket megkülönböztetik a szabadalmas termékétől,
-
-e) a szabadalmasnak fizetendő díj meghatározását,
-
-f) a szabadalom vagy a kiegészítő oltalmi tanúsítvány lajstromszámát, és
-
-g) az egészségügyi termék megnevezését, gyógyszer esetén pedig a termék szabadnevét.
-
-(3) A közegészségügyi kényszerengedélyt be kell jegyezni a szabadalmi vagy a kiegészítő oltalmi tanúsítványokról vezetett lajstromba, és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.
-
-(4) A közegészségügyi kényszerengedély megadásáról a Szellemi Tulajdon Nemzeti Hivatala haladéktalanul tájékoztatja a gyógyszerészeti államigazgatási szervet.
-
-83/K. § A gyógyszerészeti államigazgatási szervnek a közegészségügyi kényszerengedély időtartama alatt, a közegészségügyi kényszerengedély alapján előállított gyógyszerrel összefüggő döntéseivel szemben indított perben azonnali jogvédelemnek nincs helye.”
-
-300. § Az Szt. 85. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A közegészségügyi kényszerengedély megadása tárgyában hozott döntés ellen előterjesztett megváltoztatási kérelemnek a megadott közegészségügyi kényszerengedély tekintetében halasztó hatálya nincs.”
-
-301. § Az Szt. a következő 116/A. §-sal egészül ki:
-
-„116/A. § A belföldi hasznosításra szolgáló közegészségügyi kényszerengedélyről szóló 212/2020. (V. 16.) Korm. rendelet alapján megadott közegészségügyi kényszerengedélyre az e törvény szerinti, közegészségügyi kényszerengedélyre vonatkozó szabályokat kell alkalmazni.”
+#### 301. §
 
 #### 89. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
-302. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény VI. Fejezete a következő 25/A. §-sal egészül ki:
-
-„25/A. § A 24. §-tól eltérően nem kell bejelenteni a Gazdasági Versenyhivatalnak a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap részvételével a COVID-19 koronavírus miatt szükségessé vált finanszírozási ügylettel – az e célra létrehozott tőkeprogramon keresztül – megvalósuló összefonódást, amely révén a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap egyedül vagy más vállalkozásokkal közös, befektetésvédelmi célú irányítási jogokat szerez.”
+#### 302. §
 
 #### 90. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-303. § A Tao. törvény 22/C. § (4c) bekezdése helyébe a következő rendelkezés lép:
+#### 303. §
 
-„(4c) A (4) bekezdésben foglaltaktól eltérően a támogatási igazolások összértéke az (1) bekezdés a), b) és d) pontja szerinti támogatott szervezet – ide nem értve azokat a szervezeteket, amelyekkel összefüggésben a 30/I. § alkalmazandó – sportfejlesztési programjában szereplő igazolt költségek, ráfordítások, kiadások legfeljebb 100 százaléka lehet.”
-
-304. § A Tao. törvény 29/A. §-a a következő (94) bekezdéssel egészül ki:
-
-„(94) E törvénynek a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvénnyel megállapított 22/C. § (4c) bekezdése első alkalommal a 2020. április 16. napján folyamatban lévő, jóváhagyott sportfejlesztési programokkal összefüggésben alkalmazandó.”
+#### 304. §
 
 #### 91. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-305. § Az Ebtv. 35. §-a a következő (9) bekezdéssel egészül ki:
+#### 305. §
 
-„(9) Azon gyógyászati segédeszköz forgalmazó számára, amely járóbeteg-ellátás keretében rendelt gyógyászati segédeszköz árához támogatással igénybe vehető szolgáltatást nyújt, a lakosság biztonságos ellátása érdekében az egészségbiztosító – az E. Alap éves költségvetésében e célra megjelölt előirányzat terhére – kamatmentes finanszírozási előleget nyújthat.”
-
-306. § Az Ebtv. 83. §-a a következő (2l) bekezdéssel egészül ki:
-
-„(2l) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyógyászati segédeszközök árához nyújtott támogatással igénybe vehető szolgáltatást nyújtók számára folyósítható előleg feltételeinek és folyósításának szabályait.”
+#### 306. §
 
 #### 92. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-307. § Az egészségügyről szóló 1997. évi CLIV. törvény 3. § h) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„h) orvostechnikai eszköz: minden olyan, akár önállóan, akár más termékkel együttesen használt készülék, berendezés, anyag, szoftver vagy más termék – ideértve az azok megfelelő működéséhez szükséges szoftvert, amely a gyártó szándéka szerint kifejezetten diagnosztikai, illetve terápiás célra szolgál, valamint a rendelésre készült eszköz, továbbá a klinikai vizsgálatra szánt eszköz is –, amely a gyártó meghatározása szerint emberen vagy emberből származó mintán történő alkalmazásra szolgál
-
-ha) betegség megelőzése, diagnosztizálása, megfigyelése, kezelése vagy a betegség tüneteinek enyhítése,
-
-hb) sérülés vagy fogyatékosság diagnosztizálása, megfigyelése, kezelése, tüneteinek enyhítése vagy kompenzálása,
-
-hc) az anatómiai felépítés vagy valamely fiziológiai folyamat vizsgálata, helyettesítése, illetve pótlása vagy módosítása,
-
-hd) fogamzásszabályozás
-
-céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy szervezetre elsősorban nem farmakológiai, immunológiai vagy metabolikus módon fejti ki, de működése ilyen módon elősegíthető;”
+#### 307. §
 
 #### 308. §
 
-309. § Az egészségügyről szóló 1997. évi CLIV. törvény a következő alcím címmel és 67/A. §-sal egészül ki:
+#### 309. §
 
-„Hatósági házi karantén
+#### 310. §
 
-67/A. § (1) A járványügyi hatóság
+#### 311. §
 
-a) meghatározott országokból történő beutazás esetén vagy
+#### 312. §
 
-b) fertőzés vagy megbetegedés esetén
+#### 313. §
 
-előírhatja, hogy a járványügyi intézkedés alá vont személy a számára meghatározott lakást, ahhoz tartozó bekerített helyet vagy egyéb, egészségügyi intézménynek nem minősülő helyet a határozatban meghatározott ideig ne hagyja el (a továbbiakban: hatósági házi karantén).
+#### 314. §
 
-(2) A járványügyi hatóság hatósági házi karanténra vonatkozó döntését szóban vagy rövid úton – így különösen telefonon vagy elektronikus levelezés útján – is közölheti. A szóban vagy rövid úton közölt döntést – a közlést követően – a járványügyi hatóság írásban is megküldi azon személynek, akivel a döntését közölte. Szóban vagy rövid úton a döntés csak olyan személlyel közölhető, akinek az ügy megismeréséhez való jogosultságát a járványügyi hatóság előzetesen kétséget kizáróan megállapította.
+#### 315. §
 
-(3) A hatósági házi karanténra vonatkozó döntést az (1) bekezdés a) pontja szerinti esetben a rendőr, az (1) bekezdés b) pontja szerinti esetben az erre kijelölt egészségügyi dolgozó is közölheti.
+#### 316. §
 
-(4) A hatósági házi karantént előíró rendelkezések alól – amennyiben a járványügyi védekezés hatósági házi karantén alkalmazása nélkül is biztosítható – különös méltánylást érdemlő esetben – egészségügyi válsághelyzetben a kormány rendeletében meghatározott esetek kivételével – a hatósági házi karantént elrendelő határozat kiadására illetékes járványügyi hatóság felmentést adhat, illetve egyedi magatartási szabályt állapíthat meg.”
+#### 317. §
 
-310. § Az egészségügyről szóló 1997. évi CLIV. törvény „Személy felkutatása járványügyi intézkedés végrehajtása érdekében” című alcíme a következő 70/B. §-sal egészül ki:
+#### 318. §
 
-„70/B. § (1) A járványügyi hatóság a járványok elleni küzdelemben – különösen a fertőzött személyek felkutatása, ellenőrzése érdekében – az általános rendőrségi feladatok ellátására létrehozott szervet (a továbbiakban: rendőrség) is bevonhatja.
+#### 319. §
 
-(2) Az (1) bekezdés szerinti esetben a kezelt személyes adatot az adatkezelő – a rendőrség járványügyi hatósági feladatainak ellátása érdekében – a rendőrség erre irányuló megkeresése esetén a rendőrség részére haladéktalanul, ingyenesen és más adattovábbítási kötelezettségéhez képest elsőbbséggel továbbítja.
+#### 320. §
 
-(3) A járványügyi hatóság a hatósági házi karantén elrendeléséről, illetve a járványügyi elkülönítésről, járványügyi megfigyelésről, járványügyi zárlatról, valamint járványügyi korlátozásról szóló határozatot soron kívül továbbítja a rendőrség részére az ellenőrzési feladatainak ellátása érdekében.
+#### 321. §
 
-(4) A járványügyi hatóság, valamint a rendőrség a hatósági házi karantén szabályai megtartásának ellenőrzése érdekében jogosult az érintett személynek a 74/B. § (1) bekezdése szerinti karantén szoftver által küldött mozgási adatainak kezelésére.
-
-(5) A rendőrség e §-ban foglalt feladatainak ellátása érdekében jogosult az érintett személy természetes személyazonosító adatainak, elérhetőségi adatainak és a fertőzéssel vagy annak gyanújával összefüggésbe hozható, a 74/B. § (1) bekezdése szerinti karantén szoftver útján továbbított egészségügyi adatainak kezelésére, valamint azoknak jogszabályban meghatározott szerv részére történő továbbítására.
-
-(6) A rendőrség az e §-ban meghatározott adatokat a járványügyi védekezés és a hatósági házi karantén szabályai megtartásának ellenőrzése céljából nyilvántartja. A nyilvántartásba nem vehető fel olyan adat, amely a járványügyi védekezés és a hatósági házi karantén szabályai megtartásának ellenőrzése céljából nem szükséges. A nyilvántartásban szereplő adatokat a hatósági házi karantén, a járványügyi elkülönítés, a járványügyi megfigyelés, a járványügyi zárlat, valamint a járványügyi korlátozás megszűnésének időpontjában törölni kell.”
-
-311. § Az egészségügyről szóló 1997. évi CLIV. törvény „Egyéb járványügyi intézkedések” című alcíme a következő 74/B. §-sal egészül ki:
-
-„74/B. § (1) A járványügyi hatóság elrendeli a hatósági házi karantén szabályai betartásának az érintett nagykorú cselekvőképes személy mozgását nyomon követő, valamint az arcképmásának és általa megadott egészségügyi adatainak továbbítására alkalmas elektronikus szoftver (a továbbiakban: karantén szoftver) alkalmazásával történő ellenőrzését, ha nyilatkozik, hogy
-
-a) a karantén szoftver telepítésének feltételei rendelkezésre állnak, ahhoz megfelelő eszközzel rendelkezik, és
-
-b) a karantén szoftver telepítését és használatát önként vállalja.
-
-(2) A járványügyi hatóság az (1) bekezdés szerinti nyilatkozat beszerzése érdekében a rendőrség közreműködését kérheti.
-
-(3) A járványügyi hatóság a hatósági házi karanténra kötelezett személyt az (1) bekezdés szerinti nyilatkozat megtétele előtt
-
-a) tájékoztatja a karantén szoftver telepítésének és használatának önkéntességéről, továbbá a karantén szoftver telepítésének feltételeiről, a karantén szoftver használatával járó előnyökről és kötelezettségekről, és
-
-b) figyelmezteti, hogy az (1) bekezdés szerinti önkéntes nyilatkozat megtétele hiányában fokozott ellenőrzésnek van helye.
-
-(4) A karantén szoftver telepítésére és használatára vonatkozó kötelezettség teljesítését a rendőrség – elsősorban elektronikus úton – ellenőrzi, amely során az (1) bekezdés szerinti nyilatkozatot tevő személy (a továbbiakban: érintett személy) köteles együttműködni, és a karantén szoftverrel a rendőrség által előírt műveletet elvégezni. A rendőrség a karantén szoftver útján megadott mozgási adatokat elektronikus úton is összevetheti a hatósági házi karanténra kijelölt hely adataival. Az ellenőrzés nem járhat az érintett személy magánéletének szükségtelen zavarásával, 22.00 és 6.00 óra között az érintett személy pihenése indokolatlanul nem zavarható meg. A személyes ellenőrzésre akkor kerülhet sor, ha a karantén szoftver által biztosított ellenőrzés kijátszásának gyanúja merül fel, vagy ha az érintett személy a karantén szoftver használatát elmulasztja.
-
-(5) A hatósági házi karantén megszűnésével az érintett személy a karantén szoftvert törli, a rendőrség az érintett személy szerinti ellenőrzését megszünteti.
-
-(6) Ha a hatósági házi karanténra kötelezett személy nem tesz az (1) bekezdés szerinti nyilatkozatot, a hatósági házi karantén szabályainak megtartását a rendőrség személyes jelenlét útján ellenőrzi.”
-
-312. § Az egészségügyről szóló 1997. évi CLIV. törvény 164/A. §-a a következő (6)–(9) bekezdéssel egészül ki:
-
-„(6) Kiemelt járványügyi érdekből az adott járvánnyal összefüggő beavatkozással nem járó vizsgálatnak minősülő orvostudományi kutatásba (a továbbiakban: kutatás) bevonni kívánt cselekvőképes személy telekommunikációs eszköz útján is tájékoztatható a 159. § (3) bekezdésében foglaltakról.
-
-(7) A (6) bekezdés szerinti kutatásban való részvételéhez a beleegyezését – a 159. § (1) bekezdés e) pontjában foglaltakon túl – telekommunikációs eszköz útján is megteheti és kutatásban való részvételéhez adott beleegyezését – a 159. § (3) bekezdés a) pontja alapján – telekommunikációs eszköz útján is visszavonhatja.
-
-(8) A kutatásban való részvételéhez adott beleegyezését az érintett személy kiemelt járványügyi érdek megszűnését követően is visszavonhatja telekommunikációs eszköz útján.
-
-(9) A (6)–(8) bekezdés alkalmazásában telekommunikációs eszköz minden olyan eszköz, amely alkalmas a tájékoztatás, illetve a nyilatkozat utólag ellenőrizhető módon történő megtételére, így különösen a hangfelvétel rögzítésére alkalmas eszköz.”
-
-313. § Az egészségügyről szóló 1997. évi CLIV. törvény 228. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Az országos tisztifőorvos javaslatára, a miniszter előterjesztése alapján a Kormány rendeletében egészségügyi válsághelyzetet rendelhet el, ha azt a (2) bekezdés a) pontja szerinti járványügyi szükséghelyzet vagy (2) bekezdés b) és c) pontja szerinti valamely más körülmény szükségessé teszi. Egészségügyi válsághelyzet elrendelése járványügyi készültségnek minősül. Egészségügyi válsághelyzet idején a betegek ellátása az egészségügyi válsághelyzeti ellátás keretében történik.
-
-(2) Egészségügyi válsághelyzet elrendelésének van helye
-
-a) az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályainak kihirdetéséről szóló törvény szerinti nemzetközi horderejű közegészségügyi-járványügyi szükséghelyzet vagy egyéb járványveszély esetén (járványügyi szükséghelyzet),
-
-b) az a) pont alá nem tartozó minden – rendszerint váratlanul bekövetkező – esemény esetén, amely a polgárok életét, testi épségét, egészségét vagy az egészségügyi szolgáltatók működését veszélyezteti vagy károsítja olyan mértékben, hogy az az egészségügyi ellátási szükségletek és a helyben rendelkezésre álló kapacitás közötti aránytalanság kialakulásához vezet, továbbá az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatók, valamint más állami és önkormányzati szervek együttműködését teszi szükségessé,
-
-c) az a) és b) pontban meghatározott eseteken kívül bármely olyan körülmény kialakulása esetén, amely a gyógyintézet külön jogszabály szerinti ellátási területéhez tartozó lakosság egészségügyi ellátását súlyosan és közvetlenül akadályozza, feltéve, hogy az ellátási területéhez tartozó lakosság más gyógyintézet általi ellátása aránytalan nehézséggel járna.”
-
-314. § Az egészségügyről szóló 1997. évi CLIV. törvény 228. §-a a következő (2a)–(2c) bekezdéssel egészül ki:
-
-„(2a) Az egészségügyi válsághelyzet feltételeinek a fennállását az országos tisztifőorvos köteles folyamatosan figyelemmel kísérni, és ha az egészségügyi válsághelyzet elrendelésének a feltételei nem állnak fenn, kezdeményezni a miniszternél, hogy tegyen javaslatot a Kormánynak az (1) bekezdés szerinti kormányrendelet hatályon kívül helyezésére. A miniszter javaslatát a Kormány részére haladéktalanul benyújtja, amelyet a Kormány soron kívül köteles megtárgyalni, és – ha az egészségügyi válsághelyzet elrendelésének a feltételei nem állnak fenn – az (1) bekezdés szerinti kormányrendeletet hatályon kívül helyezni.
-
-(2b) Az (1) bekezdés szerinti kormányrendelet legfeljebb hat hónapig marad hatályban, kivéve, ha a Kormány annak hatályát meghosszabbítja. A Kormány az (1) bekezdés szerinti kormányrendelet hatályát akkor hosszabbíthatja meg, ha az egészségügyi válsághelyzet elrendelésének a feltételei a meghosszabbítás időpontjában fennállnak.
-
-(2c) Az (1) bekezdés szerinti kormányrendelet hatályának meghosszabbításáról a Kormány az Országgyűlés egészségüggyel foglalkozó állandó bizottságának beszámol.”
-
-315. § Az egészségügyről szóló 1997. évi CLIV. törvény 228. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Egészségügyi válsághelyzet Magyarország egész, illetve annak meghatározott területére rendelhető el.”
-
-316. § Az egészségügyről szóló 1997. évi CLIV. törvény 228. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Egészségügyi válsághelyzet elrendelése esetén a 74. § (2)–(4) bekezdése nem alkalmazható.”
-
-317. § Az egészségügyről szóló 1997. évi CLIV. törvény 232/B. §-a helyébe a következő rendelkezés lép:
-
-„232/B. § (1) Egészségügyi válsághelyzetben a 228. § (2) bekezdése szerinti körülmény felszámolására tett intézkedések és az egészségügyi válsághelyzeti ellátás összehangolása érdekében – a Kormány rendeletében meghatározottak szerint – Operatív Törzs működhet (a továbbiakban: Operatív Törzs). Az Operatív Törzset, ha az elrendelt egészségügyi válsághelyzet jellege következtében indokolt, a Kormány rendeletben hozza létre.
-
-(2) Az Operatív Törzs munkaszervezeteként ügyeleti központot működtet.
-
-(3) Az Operatív Törzs a feladatkörébe tartozó egyes részfeladatok ellátására akciócsoportokat hozhat létre.
-
-(4) A 228. § (2) bekezdése szerinti körülmény megelőzése, megismerése, felderítése és továbbterjedésének megakadályozása, valamint az állami szervek összehangolt feladatellátásának megszervezése céljából, kizárólag az e cél elérése érdekében elengedhetetlenül szükséges – az adattakarékosság elvét is figyelembe vevő – mértékben az Operatív Törzs adatszolgáltatást kérhet bármely szervtől, jogi személytől vagy jogi személyiséggel nem rendelkező szervezettől, amely ezen adatszolgáltatásnak köteles haladéktalanul, ingyenesen eleget tenni.
-
-(5) Az Operatív Törzs a 228. § (2) bekezdése szerinti körülmény megelőzése, megismerése, felderítése és továbbterjedésének megakadályozása, valamint az állami szervek összehangolt feladatellátása céljából, kizárólag az e cél elérése érdekében elengedhetetlenül szükséges – az adattakarékosság elvét is figyelembe vevő – mértékben kezeli
-
-a) a 228. § (2) bekezdése szerinti körülménnyel érintett személyek,
-
-b) az a) pontban meghatározott személyekkel kapcsolatban álló vagy kapcsolatba került, – különösen a közegészségügyi-járványügyi szempontból veszélyeztetett – személyek, valamint
-
-c) a (4) bekezdés szerinti adatszolgáltatás vagy a tevékenysége révén egyébként tudomására jutott személyek
-
-az adatkezelési céllal közvetlenül összefüggő személyes adatait.
-
-(6) Az Egészségügyi Elektronikus Szolgáltatási Tér működtetője biztosítja, hogy az Operatív Törzs a 228. § (2) bekezdése szerinti körülménnyel összefüggő – ha az szükséges, személyes adatokat is tartalmazó – információkat közvetlenül megkapja.
-
-(7) A (2)–(4) bekezdés alapján az Operatív Törzs az érintett azonosítását lehetővé tevő egészségügyi adatot – a 228. § (2) bekezdése szerinti körülménnyel való érintettség tényét ide nem értve – kizárólag a (8) bekezdésben meghatározott módon akkor ismerheti meg és akkor kezeli, ha az a 228. § (2) bekezdése szerinti körülmény megelőzése, megismerése, felderítése és továbbterjedésének megakadályozása céljából valamely halaszthatatlan intézkedés megtételéhez elengedhetetlenül szükséges, és egyúttal megalapozottan feltehető, hogy
-
-a) az intézkedés az érintett azonosítását lehetővé tevő egészségügyi adat személyazonosításra alkalmatlanná tétele, álnevesítése vagy más – az érintett azonosítását nem igénylő – adat megismerése útján nem volna megtehető, vagy
-
-b) az intézkedés az a) pont szerinti módon való megtétele az intézkedés sikeressége szempontjából aránytalan nehézséggel vagy sérelemmel járna.
-
-(8) A (7) bekezdés szerint megismert, az érintett azonosítását lehetővé tevő egészségügyi adatot – ha jogszabály vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – kizárólag az Operatív Törzs, annak munkaszervezete vagy akciócsoportja tevékenységében az intézkedés megtétele érdekében közvetlenül részt vevő orvos ismerheti meg, egyebekben az ilyen adatot más, az intézkedésben közvetlenül részt vevő személy számára csak az adat személyazonosításra alkalmatlanná tételét vagy álnevesítését követően lehet megismerhetővé tenni.”
-
-318. § Az egészségügyről szóló 1997. évi CLIV. törvény XIV. Fejezete a következő 232/D. §-sal egészül ki:
-
-„232/D. § (1) A járványügyi készültség keretében egészségügyi válsághelyzetben a Kormány rendeletében
-
-a) korlátozható vagy megtiltható
-
-aa) minden olyan intézmény és létesítmény működése, rendezvény látogatása és szervezése, valamint tevékenység végzése, amely járvány terjedését elősegítheti,
-
-ab) üzletek működése, nyitvatartása,
-
-ac) az ország egyes területei, illetve Magyarország és más ország közötti személyforgalom, élőállat- vagy áruszállítás,
-
-ad) az ország egyes területei, illetve Magyarország és más ország lakosainak egymással való személyes érintkezése,
-
-ae) egyes intézmények – így különösen járóbeteg-szakrendelő, fekvőbeteg-gyógyintézet, valamint köznevelési, szakképző, felsőoktatási, szociális, gyermekvédelmi, gyermekjóléti és közművelődési intézmény – látogatása,
-
-af) egyes területek elhagyása,
-
-ag) egyes élelmiszerek, termékek árusítása, fogyasztása, vásárlása,
-
-ah) az ivóvíz fogyasztása,
-
-ai) meghatározott állatok tartása,
-
-b) gyógyszer- és gyógyászati segédeszköz-ellátásra, valamint az egészségügyi szolgáltatások igénybevételének rendjére vonatkozó intézkedés hozható,
-
-c) az egészségügyi készlet állagának megóvása érdekében szükséges intézkedés vezethető be, így annak érdekében a rendőrség, illetve a Magyar Honvédség közreműködése, a kórházparancsnoki feladatok ellátására a rendvédelmi szerv, illetve a Magyar Honvédség közreműködése előírható, a kórházparancsnok feladatköre és az intézményvezető kötelezettsége meghatározható, a kórházparancsnok működése az idősek tartós vagy átmeneti ellátását nyújtó intézményre kiterjeszthető,
-
-d) meghatározhatja a szociális távolságtartásra vonatkozó, valamint a fertőzés veszélyét csökkentő védőeszköz viselésére vonatkozó szabályokat, továbbá a lakosság járvány által okozott betegséggel leginkább veszélyeztetett csoportjai számára az üzletekben, valamint a piacokon történő kizárólag e csoportok általi vásárlásra vonatkozó idősávot,
-
-e) köznevelésre, felsőoktatásra, szakképzésre és felnőttképzésre vonatkozó rendelkezéseket állapíthat meg,
-
-f) közlekedési korlátozást vagy közlekedési tilalmat állapíthat meg,
-
-g) a járványügyi elkülönítésre vonatkozó rendelkezéseket állapíthat meg,
-
-h) a küldemények kézbesítésére vonatkozóan rendelkezéseket állapíthat meg,
-
-i) a védett vezető egészségügyi ellátásának koordinálására és a védett vezetőre vonatkozó egészségügyi előírások végrehajtására és ellenőrzésére vonatkozó rendelkezéseket állapíthat meg,
-
-j) elrendelhet törvény alapján meghozható járványügyi intézkedéseket,
-
-k) törvényben meghatározott egyéb rendelkezéseket hozhat.
-
-(2) A Kormány az (1) bekezdés szerinti jogkörét – a szükséges mértékben, az elérni kívánt céllal arányosan – a 228. § (2) bekezdése szerinti körülmény megelőzése, kezelése, felszámolása, továbbá káros hatásainak megelőzése, illetve elhárítása céljából gyakorolhatja, és kijárási korlátozást nem vezethet be.
-
-(3) Egészségügyi válsághelyzetben – a kereskedelemről szóló törvény és a végrehajtására kiadott kormányrendelet rendelkezéseitől eltérően – a települési önkormányzat képviselő-testülete eredeti jogalkotói hatáskörben kiadott rendeletével szabályozhatja a települési önkormányzat területén működő piac, vásár, illetve a piac, vásár területén működő üzletek nyitva tartásának szabályait.”
-
-319. § Az egészségügyről szóló 1997. évi CLIV. törvény XIV. Fejezete a következő 232/E. §-sal egészül ki:
-
-„232/E. § (1) Egészségügyi válsághelyzet idején a 231. § (2) bekezdése szerinti beszerzéseken kívül a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5–7. §-a szerinti további ajánlatkérő jogosult a 228. § (2) bekezdése szerinti körülmény kezelésével közvetlenül összefüggő vagy az egészségügyi válsághelyzetben a védekezést irányító állami szervek, védekezést irányító csoportok hatékony működését szolgáló beszerzését (e § alkalmazásában a továbbiakban: beszerzés) a miniszterelnök egyedi mentesítése alapján a közbeszerzési és beszerzési szabályoktól eltérő módon is megvalósítani.
-
-(2) A beszerzés iránti mentesítési kérelemről a miniszterelnök soron kívül dönt. A miniszterelnök a Kormány másik tagjára delegálhatja a beszerzés iránti mentesítési kérelemről való döntési jogkörét.
-
-(3) Az (1) bekezdés szerinti eltérés alapján az ajánlatkérő a beszerzést közbeszerzési eljárás vagy egyéb beszerzési eljárás lefolytatása nélkül a Kbt. 15. § (1) bekezdés b) pontjában meghatározott értékhatár elérése vagy meghaladása esetén jogosult megvalósítani, – a (7) bekezdésben meghatározott kivétellel – lehetőség szerint három ajánlat bekérésével.
-
-(4) Beszerzés esetén az ajánlatkérő köteles előzetesen megvizsgálni, hogy a beszerzési igénye központosított közbeszerzési eljárás eredményeképpen megkötött keretmegállapodás vagy más keret jellegű szerződés alkalmazásával kielégíthető-e.
-
-(5) A (4) bekezdés szerinti beszerzés választása esetén az ajánlatkérésre feljogosított szervezet részére fizetendő díj megfizetése alól az ajánlatkérő mentesül.
-
-(6) A (4) bekezdés szerinti beszerzési igény kielégítésére alkalmas keretmegállapodások vagy más keret jellegű szerződések a 228. § (2) bekezdése szerinti körülmény kezelésével arányos mértékben, illetve módon – a Kbt. 141. § (6) bekezdésében foglalt feltételek vizsgálata nélkül – módosíthatóak.
-
-(7) Kivételes sürgősség esetén a fenti eljárási szabályok mellőzésével egy adott gazdasági szereplő közvetlenül is felhívható ajánlattételre.
-
-(8) A beszerzések szabályszerűségét az államháztartásért felelős miniszter utólag ellenőrzi.
-
-(9) Európai uniós fejlesztési források felhasználása esetén az (1)–(8) bekezdés szerinti szabályok nem alkalmazhatók.”
-
-320. § Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„b) az egészségügyi szolgáltatás – ide értve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra, a bejelentés alapján történő egészségügyi szolgáltatás – ide értve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – érdekében a hatósági nyilvántartásba vételre, továbbá a hatósági nyilvántartás személyes adatokat nem tartalmazó adattartalmára vonatkozó szabályokat,”
-
-(rendeletben megállapítsa.)
-
-321. § Az egészségügyről szóló 1997. évi CLIV. törvény 247. §-a következő (1b) bekezdéssel egészül ki:
-
-„(1b) Felhatalmazást kap a Kormány, hogy járványügyi készültség keretében szükség esetén rendeletben
-
-a) egészségügyi válsághelyzet elrendelésével járványügyi készültséget vezessen be,
-
-b) rendelkezzen Operatív Törzs létrehozásáról, valamint az Operatív Törzs összetételére, szervezetére és működésére vonatkozó szabályokat meghatározza,
-
-c) egészségügyi válsághelyzetben a 232/D. § (1) bekezdése szerinti intézkedéseket meghozza, illetve rendelkezéseket megállapítsa.”
-
-322. § Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (8) bekezdése a következő c) ponttal egészül ki:
-
-(Ez a törvény)
-
-„c) az orvostechnikai eszközökről szóló (EU) 2017/745 rendeletnek a benne foglalt bizonyos rendelkezések alkalmazási időpontja tekintetében történő módosításáról szóló, 2020. április 23-i (EU) 2020/561 európai parlamenti és tanácsi rendelet”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
+#### 322. §
 
 #### 93. A szerzői jogról szóló 1999. évi LXXVI. törvény módosítása
 
-323. § A szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) IV. Fejezet „Általános szabályok” alcíme a következő 33/A. §-sal egészül ki:
+#### 323. §
 
-„33/A. § E fejezet alkalmazásában biztonságos elektronikus hálózat az olyan műszaki megoldás, amely megakadályozza a lehívásra hozzáférhetővé tett műnek az iskolai oktatást végző és igénybe vevő személyek körén kívülre irányuló közvetítését.”
+#### 324. §
 
-324. § (1) Az Szjt. 34. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 325. §
 
-„(3) Nem szükséges a szerző engedélye a (2) bekezdés szerinti átvevő mű
+#### 326. §
 
-a) többszörözéséhez és terjesztéséhez, ha azt az irányadó jogszabályoknak megfelelően tankönyvvé vagy segédkönyvvé nyilvánítják, és a címoldalon az iskolai célt feltüntetik, illetve
-
-b) iskolai oktatás céljából [33. § (4) bek.] az iskolai oktatás helyszínén történő digitális formában, elektronikus eszközön történő felhasználásához, illetve biztonságos elektronikus hálózaton keresztül történő nyilvánossághoz közvetítéséhez,
-
-feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.”
-
-(2) Az Szjt. 34. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A (3) bekezdés b) pontja szerinti felhasználást úgy kell tekinteni, hogy az oktatási intézmény székhelye szerinti tagállamban valósul meg.”
-
-(3) Az Szjt. 34. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A mű iskolai oktatási célra iskolai foglalkozás keretében – beleértve a biztonságos elektronikus hálózaton keresztül tartott foglalkozást – átdolgozható. Az átdolgozott mű felhasználásához – az iskolai foglalkozás keretében történő előadást és a (3) bekezdés szerinti felhasználást kivéve – az eredeti mű szerzőjének engedélye is szükséges.”
-
-325. § Az Szjt. 35. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Könyvként kiadott mű egyes részei, valamint újság- és folyóiratcikkek az iskolai oktatás céljára egy-egy csoport vagy iskolai osztály létszámának megfelelő, valamint a köznevelés, a szakképzés, illetve a felsőoktatás keretében szervezett vizsgákhoz szükséges példányszámban többszörözhetők, az érintett tanulók, hallgatók részére terjeszthetők és az oktatási intézmény biztonságos elektronikus hálózatán keresztül szemléltetés érdekében számukra lehívásra hozzáférhetővé tehetők.”
-
-326. § Az Szjt. 68. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Tudományos ismeretterjesztő előadás céljából képzőművészeti, építészeti, iparművészeti és ipari tervezőművészeti alkotás képe, valamint a fotóművészeti alkotás a szerző hozzájárulása és díjazás nélkül felhasználható.”
-
-327. § Az Szjt. 113. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-a) az Európai Parlament és a Tanács 2009/24/EK irányelve (2009. április 23.) a számítógépi programok jogi védelméről,
-
-b) a Tanács 93/83/EGK irányelve (1993. szeptember 27.) a műholdas műsorsugárzásra és a vezeték útján történő továbbközvetítésre alkalmazandó szerzői jogra és a szerzői joghoz kapcsolódó jogokra vonatkozó egyes szabályok összehangolásáról,
-
-c) az Európai Parlament és a Tanács 96/9/EK irányelve (1996. március 11.) az adatbázisok jogi védelméről,
-
-d) az Európai Parlament és a Tanács 2001/29/EK irányelve (2001. május 22.) az információs társadalomban érvényesülő szerzői és kapcsolódó jogok egyes kérdésekben történő összehangolásáról,
-
-e) az Európai Parlament és a Tanács 2001/84/EK irányelve (2001. szeptember 27.) az eredeti műalkotás szerzőjét megillető követő jogról,
-
-f) az Európai Parlament és a Tanács 2004/48/EK irányelve (2004. április 29.) a szellemi tulajdonjogok érvényesítéséről,
-
-g) az Európai Parlament és a Tanács 2006/115/EK irányelve (2006. december 12.) a bérleti jogról és a haszonkölcsönzési jogról, valamint a szellemi tulajdon területén a szerzői joghoz kapcsolódó egyes jogokról,
-
-h) az Európai Parlament és a Tanács 2006/116/EK irányelve (2006. december 12.) a szerzői jog és egyes szomszédos jogok védelmi idejéről és az azt módosító 2011/77/EU európai parlamenti és tanácsi irányelv,
-
-i) a Bizottság 2006/585/EK ajánlása (2006. augusztus 24.) a kulturális anyagok digitalizálásáról és online hozzáférhetővé tételéről, valamint a digitális megőrzésről 6. pont a) és c) alpontja,
-
-j) az Európai Parlament és a Tanács 2012/28/EU irányelve (2012. október 25.) az árva művek egyes megengedett felhasználási módjairól,
-
-k) a szerzői és szomszédos jogi védelemben részesülő egyes műveknek és más teljesítményeknek a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló egyes megengedett felhasználási módjairól, valamint az információs társadalomban a szerzői és szomszédos jogok egyes vonatkozásainak összehangolásáról szóló 2001/29/EK irányelv módosításáról szóló, 2017. szeptember 13-ai (EU) 2017/1564 európai parlamenti és tanácsi irányelv,
-
-l) a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/790 európai parlamenti és tanácsi irányelv.”
+#### 327. §
 
 #### 94. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-328. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB tv.) 2. §-a a következő m) ponttal egészül ki:
+#### 328. §
 
-[Az MFB Zrt. feladata, hogy a 3. § (1)–(3) bekezdéseiben meghatározott tevékenységi körében – az átláthatóság, a célszerűség, a gazdaságosság, a hatékonyság és a prudencia követelményeinek megfelelően – a Kormány közép- és hosszú távú gazdaságstratégiája által meghatározott gazdaságfejlesztési célok megvalósításához szükséges fejlesztési források biztosítása érdekében, részben önállóan, részben más hazai és nemzetközi szervezetekkel közösen részt vegyen]
+#### 329. §
 
-„m) az 1. mellékletben meghatározott, valamint az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére a tevékenységük megfelelő színvonalú ellátását, az átlátható és prudens működésüket, annak jogszerűségét biztosító szolgáltatások nyújtásában;”
+#### 330. §
 
-329. § Az MFB tv. 3. §-a a következő (7) bekezdéssel egészül ki:
+#### 331. §
 
-„(7) Az MFB Zrt. az (1) bekezdésben meghatározott körben a 2. § m) pontjában meghatározott feladatához kapcsolódóan nyújthat az 1. mellékletben meghatározott, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére szolgáltatásokat.”
-
-330. § Az MFB tv. 4. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az MFB Zrt. Magyarországon létrehozott, magyarországi székhelyű befektetési alapkezelő által kezelt befektetési alap által kibocsátott befektetési jegyet kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan szerezhet, ha a befektetés minél magasabb mértékű megtérülése biztosított.”
-
-331. § Az MFB tv. 5. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az állam a központi költségvetés terhére visszavonhatatlanul készfizető kezesként felel az MFB Zrt. által)
-
-„b) közvetlenül vagy pénzügyi intézményen keresztül közvetetten nyújtott hitel- és pénzkölcsönből, készfizető kezességvállalásból, garanciavállalásból, valamint egyéb bankári kötelezettségvállalásból az MFB Zrt. vagy a pénzügyi intézmény felé fennálló fizetési kötelezettségek teljesítéséért a Kormány határozatában megjelölt ügyletek tekintetében azzal, hogy a Kormány által meghatározott keretösszeg felhasználásának nyilvántartása és az erre vonatkozó adatszolgáltatások elkészítése az MFB Zrt. feladata, továbbá a kezesség beváltására szerződésátruházást vagy engedményezést követően kizárólag az MFB Zrt. jogosult;”
-
-332. § (1) Az MFB tv. 8. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő c) ponttal egészül ki:
-
-[Az 575/2013/EU rendelet 395. cikk (1) bekezdésében foglalt rendelkezéstől eltérően az MFB Zrt. által]
-
-„b) pénzügyi vállalkozással szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének száz százalékát,
-
-c) pénzügyi intézménynek nem minősülő egy ügyféllel vagy egy ügyfélcsoport nem pénzügyi intézmény tagjaival szembeni együttes kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének hatvan százalékát.”
-
-(2) Az MFB tv. 8. §-a a következő (1b) és (1c) bekezdéssel egészül ki:
-
-„(1b) Az (1) bekezdés alkalmazása során az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek részére az MFB Zrt. befektetési jegy lejegyzése vagy megvásárlása céljából nyújtott kölcsönt és amelyek a befektetési alapra, az alapkezelőre vagy azok keresztkapcsolataira tekintettel képeznének egyetlen kockázati tényezőt.
-
-(1c) Az (1) bekezdést nem kell alkalmazni az MFB Zrt. közvetlen többségi tulajdoni részesedésével működő gazdasági társaságokra, továbbá az 1. mellékletben meghatározott gazdasági társaságokra.”
-
-(3) Az MFB tv. 8. § (3) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(Az MFB Zrt.)
-
-„f) korlátolt felelősségű társaságban, részvénytársaságban átmenetileg, a szerzés időpontjától számított legfeljebb hatéves időtartamra, pénzügyi szolgáltatásból származó veszteség mérséklése, vagy a közvetlen vagy közvetett részesedésével működő gazdasági társaságok veszteségmérséklése céljából, hiteltulajdonrészre vonatkozó csereügylet vagy követelése ellenértékeként csődeljárás, felszámolás során,”
-
-(szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.)
+#### 332. §
 
 #### 333. §
 
-334. § Az MFB tv. 9. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) Egy befektetési alap által kibocsátott, MFB Zrt. által lejegyzett befektetési jegyre teljesített vagyoni hozzájárulás összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének hetvenöt százalékát.
-
-(3) Befektetési alap által kibocsátott, MFB Zrt. által lejegyzett befektetési jegyre teljesített vagyoni hozzájárulások együttes összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének kettőszázötven százalékát.”
+#### 334. §
 
 #### 335. §
 
-336. § Az MFB tv.
-
-- a) 2. § nyitó szövegrészében az „a 3. § (1)–(3) bekezdéseiben” szövegrész helyébe az „a 3. §-ban” szöveg,
-- b) 21. § 2. pontjában az „a befektetési alap,” szövegrész helyébe az „a befektetési alap, az Európai Gazdasági Térség területén székhellyel rendelkező vállalkozás magyarországi fióktelepe,” szöveg
-
-lép.
+#### 336. §
 
 337. § Hatályát veszti az MFB tv.
 
-- a) 4. § (2) bekezdése,
-- b) 4. § (3) bekezdés a) pontjában az „a (2) bekezdésben meghatározott célú” szövegrész,
+- a)
+- b)
 - c)
-- d) 18. § (2) bekezdés b) pontjában és 18. § (4) bekezdés c) pontjában az „– a 4. § (2) vagy (3) bekezdése szerint –” szövegrész.
+- d)
 
 #### 95. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
-338. § A tőkepiacról szóló 2001. évi CXX. törvény 68. § (4) bekezdésében az „(e fejezet alkalmazásában a továbbiakban: befektetési szolgáltató)” szövegrész helyébe az „(e fejezet alkalmazásában a továbbiakban együtt: befektetési szolgáltató)” szöveg lép.
+#### 338. §
 
 #### 96. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-339. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 16. §-a a következő (2b) bekezdéssel egészül ki:
+#### 339. §
 
-„(2b) A gyógyszerészeti államigazgatási szerv a gyógyszerhiányt vagy annak kockázatát bármely, a jogszabályban foglalt feladatainak ellátásával összefüggésben tudomására jutó információk alapján, a (2) bekezdés szerinti értesítés hiányában is megállapíthatja.”
+#### 340. §
 
-340. § (1) A Gytv. 25. § (6) bekezdés c) pontja helyébe a következő rendelkezés lép:
+#### 341. §
 
-[Gyógyszert a forgalomba hozatali engedélyében jóváhagyott alkalmazási előírásban nem szereplő javallatban (a továbbiakban: indikáción túli gyógyszerrendelés) kizárólag abban az esetben lehet rendelni, illetve alkalmazni, ha]
+#### 342. §
 
-„c) az adott terápiás terület szakorvosi szakképesítéssel rendelkező orvosa a külön jogszabályban foglalt feltételeknek megfelelően a gyógyszer indikáción túli alkalmazását az adott betegre nézve
-
-ca) a gyógyszerészeti államigazgatási szervtől kérelmezte és azt a gyógyszerészeti államigazgatási szerv egyedileg engedélyezte, vagy
-
-cb) a (6d)–(6h) bekezdés szerinti esetben a gyógyszerészeti államigazgatási szerv részére bejelentette.”
-
-(2) A Gytv. 25. §-a a következő (6d)–(6h) bekezdéssel egészül ki:
-
-„(6d) A (6) bekezdés c) pont ca) alpontjában és a (6a) bekezdésben foglaltaktól eltérően gyógyszert indikáción túli gyógyszerrendelés keretében a (6e)–(6h) bekezdés szerinti esetben, indikáción túli gyógyszerrendelési ajánlásban szereplő gyógyszer esetében a gyógyszerészeti államigazgatási szerv részére történő bejelentés alapján is lehet rendelni, illetve alkalmazni.
-
-(6e) A gyógyszerészeti államigazgatási szerv kérelemre vagy hivatalból, meghatározott hatóanyag vagy készítmény meghatározott javallatban történő indikáción túli rendelésére vonatkozóan – a szakmai kollégium véleményének kikérését követően – betegcsoportra vonatkozó ajánlást (e § alkalmazásában: indikáción túli gyógyszerrendelési ajánlás) adhat ki. Az indikáción túli gyógyszerrendelési ajánlás kiadása során a gyógyszerészeti államigazgatási szerv mérlegeli
-
-a) terápiás terület jellegét és az adott terápiás területen alkalmazható, forgalomba hozatali engedéllyel rendelkező gyógyszerek alkalmazási előírásában szereplő javallatokat, és
-
-b) a legújabb szakmai és tudományos ismereteket a rendelkezésre álló terápiás megoldások és terápiás javaslatok tekintetében, a releváns klinikai vizsgálati eredményeket.
-
-(6f) Az indikáción túli gyógyszerrendelési ajánlás kiadása iránt kérelem tartalmi követelményeit a 32. § (5) bekezdés g) pontja szerinti felhatalmazás alapján kiadott miniszteri rendelet állapítja meg.
-
-(6g) Az indikáción túli gyógyszerrendelési ajánlásokat a gyógyszerészeti államigazgatási szerv a honlapján közzéteszi. Az indikáción túli gyógyszerrendelési ajánlás nem érinti a kezelőorvosnak a (6) bekezdés a) pontjában foglaltakért fennálló felelősségét, különös figyelemmel az adott beteg állapotára, kísérő betegségeire, illetve az indikáción túli gyógyszerrendelési ajánlásban megjelölt, egyedileg mérlegelendő további szempontokra.
-
-(6h) A indikáción túli gyógyszerrendelési ajánlásban foglalt esetben az indikáción túli gyógyszerrendelést, illetve -alkalmazást a kezelőorvos a gyógyszerészeti államigazgatási szerv részére utólag, az indikáción túli gyógyszerrendelési ajánlásban meghatározott határidőben, illetve gyakorisággal, de legalább minden év január 31-ig és július 31-ig bejelenti. A bejelentés a kezelőorvos által kezelt több betegre együttesen is megtehető. Az indikáción túli gyógyszerrendelési ajánlás a bejelentés tartalmára vonatkozóan további szempontokat is megállapíthat.”
-
-(3) A Gytv. 25. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A gyógyszerészeti államigazgatási szerv a (6) bekezdés c) pont ca) alpontja és a (6a) bekezdés szerinti engedély kiadásáról a kérelem beérkezését követő naptól számított nyolc napon – sürgős szükség esetén soron kívül, de legkésőbb három napon – belül dönt, szükség esetén a szakmai kollégium véleményének birtokában.”
-
-(4) A Gytv. 25. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) Az orvos a (8) bekezdés szerinti engedély másolatát, vagy a (6d)–(6h) bekezdés szerinti esetben az indikáción túli gyógyszerrendelési ajánlásban foglaltak alapján elkészített tájékoztatást a gyógyszeres kezelés megkezdését megelőzően átadja a betegnek, aki az átvételt és beleegyezését az indikáción túli gyógyszerrendelés keretén belül alkalmazott gyógyszerrel történő kezelésbe aláírásával igazolja. Az átvételről és beteg beleegyezéséről szóló igazolást az orvos csatolja a betegdokumentációhoz.”
-
-341. § A Gytv. 25/B. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Egészségügyi válsághelyzet ideje alatt az e törvény szerinti igazgatási szolgáltatási díj befizetésének igazolását a gyógyszerészeti államigazgatási szerv a kérelem elbírálásnak előfeltételeként nem vizsgálja, ha
-
-a) a kérelem az egészségügyi válsághelyzet szerinti tömeges megbetegedést okozó humánjárvány kezelése céljából, ellátási érdekből szükséges hatósági döntés kiadására irányul, vagy
-
-b) az a) pont szerinti célhoz kapcsolódóan az gyógyszerészeti államigazgatási szerv legfeljebb hat hónapos határozott időre szóló hatósági döntést ad ki.”
-
-342. § A Gytv. 25/C. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Engedélyezés előtti gyógyszeralkalmazás keretében gyógyszert – kiemelt járványügyi érdekből vagy egyéb, az egészségügyről szóló 1997. évi CLIV. törvény szerinti egészségügyi válsághelyzettel közvetlenül összefüggő – kiemelten különös méltánylást érdemlő betegellátási érdekből az (1), (2) és (7) bekezdésben foglaltaktól a következő eltérésekkel lehet a gyógyszerészeti államigazgatási szerv engedélye alapján alkalmazni, amennyiben a már rendelkezésre álló klinikai evidenciákra tekintettel a gyógyszer alkalmazásától várható előny/kockázat arány kedvező:
-
-a) az (1) bekezdés a) pont aa) alpontja szerinti feltétel olyan gyógyszerrel is teljesíthető, amely az adott indikációra vonatkozóan az Európai Gyógyszerügynökség vagy az Egészségügyi Világszervezet ajánlásában vagy programjában szerepel,
-
-b) az (1) bekezdés b) pontja azzal az eltéréssel alkalmazandó, hogy a kérelmező egészségügyi szolgáltató vagy – az ellátásért felelős egészségügyi szolgáltató vagy orvos megjelölése esetén – szponzor is lehet, és a kérelem előre meghatározott betegcsoportra vagy programra vonatkozóan is benyújtható,
-
-c) az (1) bekezdés d) pontjától indokolt kérelem alapján a gyógyszerészeti államigazgatási szerv kivételes esetben eltekinthet, amennyiben a gyógyszer gyártója részéről a hozzájárulás, illetve a gyógyszer térítésmentes rendelkezésre bocsátására vonatkozó kötelezettségvállalás beszerzése bizonyíthatóan olyan késedelemmel járna vagy olyan aránytalan nehézségekbe ütközne, amelyek az engedély kiadását ellehetetlenítenék,
-
-d) a (2) bekezdés szerinti indokolási kötelezettséget az a) pont szerinti szponzor is teljesítheti, és
-
-e) a (7) bekezdés szerinti feltétel abban az esetben is teljesül, ha az alkalmazni kívánt gyógyszer kereskedelmi forgalomba hozatala Magyarország területén nem történt meg, és a c) pont szerinti kivétel nem kerül alkalmazásra.”
-
-343. § A Gytv.
-
-- a) 25. § (6b) bekezdésében a „kérelem” szövegrész helyébe a „kérelem, illetve bejelentés” szöveg,
-- b) 25. § (6c) bekezdésében a „c) pont” szövegrész helyébe a „c) pont ca) alpontja” szöveg,
-- c) 25. § (11) bekezdésében a „(6)–(6a)” szövegrész helyébe a „(6)–(6h)” szöveg,
-- d) 25. § (12) bekezdésében a „kérelemre” szövegrész helyébe a „kérelemre, illetve bejelentésre” szöveg,
-- e) 25. § (13) és (14) bekezdésében a „(6) és (6a)” szövegrész helyébe a „(6), (6a) és (6h)” szöveg
-
-lép.
+#### 343. §
 
 #### 97. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosítása
 
-344. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény a következő 28/A. §-sal egészül ki:
-
-„28/A. § Egészségügyi válsághelyzetben az egészségügyi készlet megóvása érdekében eljáró vagyonőr az e törvényben meghatározott jogkörét gyakorolja azzal az eltéréssel, hogy az emberi méltóság tiszteletben tartásával jogosult az érintett beleegyezése nélkül ruházat, csomag, jármű átvizsgálására a 28. § (1) bekezdésében meghatározott feltételek hiányában is.”
+#### 344. §
 
 #### 345. §
 
 #### 98. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-346. § A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 28/B. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A Magyar Agrár- Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) által vagy annak munkavállalója által e minőségére tekintettel agrár-, illetve vidékfejlesztési támogatások igénybevételével összefüggő elektronikus ügyintézésben az ügyfelek részére technikai közreműködőként történő segítségnyújtásra kötött meghatalmazás alapján a NAK bármely munkavállalója eljárhat. Az eljáró személyről a NAK a mezőgazdasági és vidékfejlesztési támogatási szervet értesíti. A meghatalmazás alapján az eljáró személy jogosult a meghatalmazó ügyfél kezdeményezésére, de személyes jelenléte nélkül a támogatási kérelem benyújtására. A NAK a meghatalmazó ügyfél támogatási kérelemnek ügyfélkapun keresztül való benyújtásáért felelős, felelőssége nem terjed ki a benyújtott kérelem tartalmi megfelelőségére.”
+#### 346. §
 
 #### 99. A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény módosítása
 
-347. § (1) A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény (a továbbiakban: Tfmtv.) 3. § (2) bekezdése a következő x) ponttal egészül ki:
-
-(Tisztességtelen forgalmazói magatartásnak minősül)
-
-„x) ha a beszállítóval szemben a kereskedő a beszerzési árat a beszállító tiltakozása ellenére egyoldalúan csökkenti, vagy ha a beszerzési ár csökkentésére irányuló szerződésmódosítás érdekében a kereskedő a beszállítót a szerződéses kapcsolat megszüntetésével, terméke rendelésének lemondásával, a rendelésállomány csökkentésével, eladásösztönző tevékenységek – így különösen az akciók és promóciók – lemondásával vagy más, a beszállítónak anyagi vagy erkölcsi veszteséget okozó eszközzel fenyegeti.”
-
-(2) A Tfmtv. 3. §-a a következő (2d) és (2e) bekezdéssel egészül ki:
-
-„(2d) A (2) bekezdés x) pontjának alkalmazása során a kereskedő köteles igazolni, hogy a beszerzési ár csökkentésére nem a (2) bekezdés x) pontja szerinti módon került sor, ha az eljárás megindítására a beszállító bejelentése alapján került sor, és
-
-a) a beszállító éves árbevétele nem haladja meg az 500 millió forintot, és a kereskedő árbevétele meghaladja az 1 milliárd forintot,
-
-b) a beszállító éves árbevétele meghaladja az 500 millió forintot, de nem haladja meg az 5 milliárd forintot, és a kereskedő árbevétele meghaladja a 20 milliárd forintot,
-
-c) a beszállító éves árbevétele meghaladja az 5 milliárd forintot, de nem haladja meg a 75 milliárd forintot, és a kereskedő árbevétele meghaladja a 100 milliárd forintot,
-
-d) a beszállító éves árbevétele meghaladja a 75 milliárd forintot, és a kereskedő árbevétele meghaladja a 200 milliárd forintot.
-
-(2e) A (2) bekezdés x) pontjának alkalmazása során az utolsó lezárt év szerinti árbevételt kell figyelembe venni azzal, hogy az Szt. szerint kapcsolt vállalkozási viszonyban álló beszállítók vagy kereskedők, továbbá közös beszerzés esetén a közös beszerzési szövetséget vagy ügyleti társulást alkotó, vagy a kereskedelmi szerződést közösen megkötő kereskedők árbevételét egybe kell számítani.”
-
-(3) A Tfmtv. 8. § (1a) bekezdése a következő d) ponttal egészül ki:
-
-[Nem hozható meg az (1) bekezdés szerinti döntés ha az eljárás alá vont kereskedő]
-
-„d) ellen a 3. § (2) bekezdés x) pontjának alkalmazása miatt folyik az eljárás.”
+#### 347. §
 
 #### 100. A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény módosítása
 
-348. § A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 36. § (1) bekezdése a következő k) ponttal egészül ki:
+#### 348. §
 
-(A Honvédség fegyverhasználati joggal látja el a következő feladatokat:)
+#### 349. §
 
-„k) a Kormány döntése alapján közreműködés különleges jogrend szerinti veszélyhelyzettel (a továbbiakban: veszélyhelyzet) és az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban.”
+#### 350. §
 
-349. § A Hvt. 37. §-a a következő (1c) bekezdéssel egészül ki:
+#### 351. §
 
-„(1c) A 36. § (1) bekezdés k) pontja szerinti közreműködés során a katona a veszélyhelyzettel és az egészségügyi válsághelyzettel érintett területen – e törvényben meghatározottak szerint – segítheti a veszélyhelyzet és az egészségügyi válsághelyzet felszámolásához szükséges feladatok ellátását.”
-
-350. § A Hvt. a következő 35/C. alcímmel egészül ki:
-
-„35/C. A katona veszélyhelyzetben és az egészségügyi válsághelyzetben való közreműködése
-
-54/E. § (1) A 36. § (1) bekezdés k) pontja szerinti feladatra vezényelt katona – e törvény rendelkezéseitől eltérően –
-
-a) az Rtv. 29–32. §-ában, 33. §-ában, 35. §-ában, 36. §-ában, 37. § a) és e) pontjában, 39. §-ában, továbbá 42–43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
-
-b) a jogszabályban meghatározott feladatának ellátása során a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti.
-
-(2) A katona intézkedésének a jogszerűségét az e törvényben meghatározottak szerint kell vizsgálni. A katona az (1) bekezdés szerinti intézkedéseket a szükségesség és arányosság követelménye betartásával alkalmazhatja.
-
-(3) A 36. § (1) bekezdés k) pontja szerinti feladat
-
-a) végrehajtására vezényelt katonát nem terheli az e törvény szerinti fegyverhasználati kötelezettség,
-
-b) végrehajtására vezényelt katona – ha más kényszerítő eszköz nem áll rendelkezésre vagy a használatára nincs lehetőség – bárkivel szemben testi sérülés okozására alkalmas, e törvényben meghatározottaktól eltérő, más kényszerítő eszközt is használhat, azonban annak használata nem irányulhat az emberi élet kioltására, és
-
-c) végrehajtása során nem minősül lőfegyverhasználatnak a gumilövedék, a pirotechnikai eszköz, a könnygázgránát, az elfogó háló lőfegyverrel vagy az e célra szolgáló egyéb kilövő eszközzel történő célba juttatása.”
-
-351. § A Hvt. 81. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a Honvédség veszélyhelyzettel és egészségügyi válsághelyzettel összefüggő feladatokban történő közreműködésének tartalmát.”
-
-352. § A Hvt.
-
-- a) 37. § (2) és (3) bekezdésében, 61. § (2) bekezdésében a „36. § (1) bekezdés h) pontja” szövegrész helyébe a „36. § (1) bekezdés h) és k) pontja” szöveg,
-- b) 37. § (3) bekezdésében a „36. § (1) bekezdés h) pontjában” szövegrész helyébe a „36. § (1) bekezdés h) és k) pontjában” szöveg
-
-lép.
+#### 352. §
 
 #### 101. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-353. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény V. Fejezete a következő 24/A. alcímmel egészül ki:
+#### 353. §
 
-„24/A. A Kormány rendkívüli intézkedései tömeges megbetegedést okozó humánjárvánnyal összefüggő veszélyhelyzetben
-
-51/A. § (1) A Kormány az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében kihirdetett veszélyhelyzetben – a 21–24. alcímben meghatározott rendkívüli intézkedéseken és szabályokon túl – az állampolgárok élet-, egészség-, személyi-, vagyon- és jogbiztonságának, valamint a nemzetgazdaság stabilitásának garantálása érdekében rendeletével egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, és egyéb rendkívüli intézkedéseket hozhat.
-
-(2) A Kormány az (1) bekezdés szerinti jogkörét – a szükséges mértékben, az elérni kívánt céllal arányosan – a humánjárvány megelőzése, kezelése, felszámolása, továbbá káros hatásainak megelőzése, illetve elhárítása céljából gyakorolhatja.”
-
-354. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 86. § (3) bekezdésében a „20–24. alcíme” szövegrész helyébe a „20–24/A. alcíme” szöveg lép.
+#### 354. §
 
 #### 102. Az Alkotmánybíróságról szóló 2011. évi CLI. törvény módosítása
 
-355. § Az Alkotmánybíróságról szóló 2011. évi CLI. törvény a következő 48/A. §-sal egészül ki:
+#### 355. §
 
-„48/A. § Az Alkotmánybíróság teljes ülése, valamint a tanács ülése az elnök döntése alapján elektronikus kommunikációs eszköz igénybevételével is megtartható.”
-
-356. § Az Alkotmánybíróságról szóló 2011. évi CLI. törvény 23. alcíme a következő 68/A. §-sal egészül ki:
-
-„68/A. § Különleges jogrend idején
-
-a) az elnök és a főtitkár gondoskodik az Alkotmánybíróság folyamatos működéséről, és megteszi az ehhez szükséges szervezeti működtetési, ügyviteli és döntés-előkészítési intézkedéseket, valamint
-
-b) az elnök engedélyezheti az Alkotmánybíróság ügyrendjétől való eltérést.”
+#### 356. §
 
 #### 103. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-357. § Az Áht. 14. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 357. §
 
-„(2) A központi költségvetésről szóló törvényben az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai alaponként külön címen vagy külön fejezetben jelennek meg.”
+#### 358. §
 
-358. § Az Áht. 15. § (6) bekezdése helyébe a következő rendelkezés lép:
+#### 359. §
 
-„(6) Az elkülönített állami pénzalap költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet vagy cím az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú, továbbá a központi költségvetésről szóló törvényben az elkülönített állami pénzalap számára előírt befizetési kötelezettség fedezetéül szolgáló költségvetési kiadási előirányzatokat, valamint az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú költségvetési bevételi előirányzatokat tartalmazza.”
+#### 360. §
 
-359. § Az Áht. 37. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 361. §
 
-„(3) Ha egy gazdasági esemény során a szerződő fél és a kötelezettségvállalást, a pénzügyi ellenjegyzést, a teljesítésigazolást, az érvényesítést, illetve az utalványozást végző személyek egymástól eltérő országban tartózkodnak, elegendő, ha a szükséges aláírások szkennelt formában állnak rendelkezésre, illetve az eredeti aláírások külön dokumentumokon kerülnek megtételre.”
+#### 362. §
 
-360. § (1) Az Áht. 83/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 363. §
 
-„(1) A belföldi gépjárművek után beszedett adónak (a továbbiakban: gépjárműadó) a települési önkormányzat által a központi költségvetés részére történő befizetését a kincstár ellenőrzi. A kincstár ellenőrzéséhez a települési önkormányzat a Kormány rendeletében meghatározott adatszolgáltatást teljesít.”
-
-(2) Az Áht. 83/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a kincstár az (1) bekezdés szerinti ellenőrzés során megállapítja, hogy a települési önkormányzat a gépjárműadóval kapcsolatos fizetési kötelezettségét a Kormány rendeletében meghatározottak szerint nem teljesítette, hivatalból megindított eljárás keretében kötelezi a települési önkormányzatot a különbözet és az ehhez kapcsolódó kamat megfizetésére.”
-
-361. § Az Áht. 95. §-a helyébe a következő rendelkezés lép:
-
-„95. § (1) Az Európai Bizottság által az Európai Unió nevében vállalt, hitelviszonyon alapuló fizetési kötelezettségének teljesítéséhez és az Európai Unió tagállamainak közös tulajdonában álló pénzügyi intézmény általi hitel vagy garancia nyújtásához szükséges tagállami fizetési kötelezettség a Kormány egyedi határozata alapján vállalható. A Kormány által meghatározott kötelezettségvállalási cél, mérték, időtartam és egyéb lényeges feltételek figyelembevételével ilyen kötelezettség az Európai Bizottsággal, illetve az Európai Unió tagállamainak közös tulajdonában álló pénzügyi intézménnyel kölcsönösen elfogadott tartalommal és formában vállalható.
-
-(2) Az (1) bekezdés szerinti kötelezettség vállalása és teljesítése során az állam nevében a nemzetközi pénzügyi kapcsolatokért felelős miniszter jár el.
-
-(3) Az (1) bekezdés szerinti kötelezettségből eredően az államot terhelő kifizetés az erre a célra rendelkezésre álló kiadási előirányzat hiányában vagy annak összegét meghaladóan is teljesíthető. E kifizetést a 14. § (4) bekezdés d) pontja szerinti költségvetési fejezetbe kell megtervezni és elszámolni.”
-
-362. § Az Áht. 106/B. §-a helyébe a következő rendelkezés lép:
-
-„106/B. § A kincstár a belföldi gépjárművek után beszedett adó központi költségvetés részére történő befizetésének a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.”
-
-363. § Az Áht. a következő 111/G. és 111/H. §-sal egészül ki:
-
-„111/G. § (1) Az egészségügyi válsághelyzettel összefüggésben felmerült, a Koronavírus-járvány Elleni Védekezésért Felelős Operatív Törzs felállításáról szóló 1012/2020. (I. 31.) Korm. határozattal felállított Koronavírus-járvány Elleni Védekezésért Felelős Operatív Törzs javaslata alapján a miniszterelnök vagy az általa kijelölt személy által indokoltnak ítélt és írásban meghatározott költségek finanszírozása tekintetében, az egészségügyi válsághelyzettel összefüggő szükséges nélkülözhetetlen kötelezettségvállalásokat érintően az államháztartás központi alrendszerébe tartozó költségvetési szervekre vonatkozó gazdálkodási szabályokat azzal az eltéréssel kell alkalmazni, hogy
-
-a) kötelezettséget vállalni előzetes pénzügyi ellenjegyzés nélkül is lehet,
-
-b) a pénzügyi ellenjegyzésre a kötelezettségvállalást követően, a kötelezettségvállalás felülvizsgálata eredményének függvényében, utólag is sor kerülhet, legkésőbb az egészségügyi válsághelyzet megszűnését követő 30 napon belül,
-
-c) kötelezettségvállalásra – ha az egészségügyi válsághelyzetre tekintettel szükséges – a kötelezettségvállaló írásbeli – ideértve az elektronikus úton tett – utasítása alapján is sor kerülhet,
-
-d) a c) pont esetében a megállapodás, szerződés megkötésére szóban vagy távollévők között tett jognyilatkozattal is sor kerülhet, amelyet utólagosan legkésőbb az egészségügyi válsághelyzet megszűnését követő 30 napon belül szükséges írásba foglalni,
-
-e) a 33. § (3) bekezdés b) pont ba) és bb) alpontja szerinti, a Kormány irányítása alá tartozó fejezeten belüli előirányzat-átcsoportosításra az államháztartásért felelős miniszter egyidejű tájékoztatása mellett kerülhet sor,
-
-f) a 108. § szerinti adatszolgáltatásokkal, bejelentésekkel összefüggő bírságok – így különösen az egészségügyi válsághelyzet alatt, az egészségügyi válsághelyzet összefüggésben tett kötelezettségvállalások, pénzügyi kifizetések kapcsán – nem szabhatóak ki.
-
-(2) Az (1) bekezdés a) és b) pontja esetében, ha a kötelezettségvállalás összege eléri a bruttó 100 000 000 forintot, a kötelezettségvállaló – a kötelezettségvállalást megelőzően egy munkanappal – köteles tájékoztatni az államháztartásért felelős minisztert.
-
-111/H. § A 41. § (6) bekezdésétől eltérően a központi költségvetés terhére az egészségügyi válsághelyzettel összefüggésben történő eszközbeszerzések és kapcsolódó szolgáltatások beszerzése tekintetében felmerülő szerződések esetében a szerződéses fél a megkötött szerződés vonatkozásában átlátható szervezetnek minősül.”
-
-364. § Az Áht. 109. § (1) bekezdés 38. pontjában a „gépjárműadó központi költségvetést megillető hányadával” szövegrész helyébe a „gépjárműadóval” szöveg lép.
+#### 364. §
 
 #### 104. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-365. § (1) A Szabs. tv. 82. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(A szabálysértési eljárást – határozatban – fel kell függeszteni, ha)
-
-„e) a szabálysértési eljárásban részt vevő személyek személyes jelenlétével járó eljárási cselekmény elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés szabályainak megszegésével járna.”
-
-(2) A Szabs. tv. a következő 193/A. alcímmel egészül ki:
-
-„193/A. Védelmi intézkedés megszegése
-
-239/A. § (1) Aki az egészségügyi válsághelyzet során
-
-a) kormányrendeletben meghatározott védelmi intézkedést,
-
-b) a települési önkormányzat területén működő piac, vásár, illetve a piac, vásár területén működő üzletek nyitva tartásának önkormányzati rendeletben meghatározott szabályait
-
-megszegi, szabálysértést követ el.
-
-(2) Az (1) bekezdésben meghatározott védelmi intézkedés megszüntetését követően a 4. §-tól eltérően a folyamatban lévő szabálysértési eljárást az elkövetés idején hatályban lévő szabályok szerint kell elbírálni.”
+#### 365. §
 
 #### 105. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-366. § A postai szolgáltatásokról szóló 2012. évi CLIX. törvény 49. alcíme a következő 77/E. §-sal egészül ki:
+#### 366. §
 
-„77/E. § A postai szolgáltató az egészségügyről szóló törvény szerint elrendelt egészségügyi válsághelyzetben jogosult a könyvelt postai küldeményeket az e törvénynek a személyes átadással történő kézbesítésére vonatkozó rendelkezései mellőzésével kézbesíteni. A személyes átadás mellőzésével történő kézbesítés részletes szabályait a Kormány rendeletben állapítja meg.”
-
-367. § A postai szolgáltatásokról szóló 2012. évi CLIX. törvény 78. § (1) bekezdése a következő h) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:)
-
-„h) az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet esetén a személyes átadás mellőzésével történő kézbesítés részletes szabályait.”
+#### 367. §
 
 #### 106. A honvédek jogállásáról szóló 2012. évi CCV. törvény módosítása
 
-368. § (1) A Hjt. 59. §-a a következő (2a) bekezdéssel egészül ki:
+#### 368. §
 
-„(2a) A (2) bekezdés e) pontjától eltérően különleges jogrend ideje alatt a szerződéses állomány tagja egyoldalú szerződésbontással nem szüntetheti meg a szolgálati viszonyát.”
+#### 369. §
 
-(2) A Hjt. 59. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 370. §
 
-„(4) Nem szűnik meg a szerződéses állomány tagjának szolgálati viszonya az (1) bekezdés d) pontja alapján,
+#### 371. §
 
-a) ha a felek a szerződésben vállalt szolgálati időt a szerződés módosításával meghosszabbítják, továbbá
+#### 372. §
 
-b) különleges jogrend ideje alatt.”
+#### 373. §
 
-369. § A Hjt. 61. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 374. §
 
-„(3) Az (1) bekezdéstől eltérően nem mondhat le a szolgálati viszonyáról a hivatásos állomány tagja
+#### 375. §
 
-a) a katonai műveletben való részvételt engedélyező döntést követően, nemzetközi szerződésből eredő kollektív védelmi feladatok ellátásának időszakában, és az azt követő 30 napon belül, feltéve, hogy a feladat-végrehajtásban személyesen részt vesz, továbbá
+#### 376. §
 
-b) különleges jogrend ideje alatt.”
-
-370. § A Hjt. 108. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az (1) bekezdés c) pontja szerinti esetben a szolgálatteljesítés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy az állomány tagja előző évről megmaradt szabadságát, a túlszolgálat ellentételezését biztosító pihenőidőt és az éves szabadságának 112. § (1) bekezdésében foglaltak szerinti időarányos részét már kiadta. Ebben az esetben a munkáltatói jogkört gyakorló az általa meghatározott szabadság kezdő napját a 112. § (1) bekezdésétől eltérően a szabadság kezdete előtt 15 napon belül is közölheti.”
-
-371. § A Hjt. 122. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Az állomány tagja a 108. § (1) bekezdés c) pontja szerinti esetben miniszteri rendeletben meghatározott mértékű illetményre jogosult.”
-
-372. § A Hjt. 215. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A (2) bekezdéstől eltérően, különleges jogrend idején az önkéntes tartalékos katona a szolgálati viszonyát egyoldalú nyilatkozattal nem szüntetheti meg.”
-
-373. § A Hjt. a következő XXI/B. Fejezettel egészül ki:
-
-„XXI/B. FEJEZET
-
-A HVT. 36. § (1) BEKEZDÉS K) PONTJA SZERINTI FELADATBAN RÉSZT VEVŐ ÁLLOMÁNYRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
-
-237/B. § Ha a Honvédség a Kormány döntése alapján a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban részt vesz, a Kormány rendeletében az e Fejezetben foglalt különös szabályok alkalmazását rendelheti el az 1. § (1) bekezdése szerinti állomány tagja és – a 212–222. §-ban foglaltakra figyelemmel – a tényleges szolgálatot teljesítő önkéntes tartalékos katona vonatkozásában.
-
-237/C. § (1) A más szervnél történő szolgálatteljesítésére vonatkozó megállapodásban az 52/A. § (2) bekezdésében foglaltakon túl, az 52. § (1) bekezdésében szereplő bármely kérdésben el lehet térni, ide nem értve a más szerv vezetőjének az állomány más szervhez vezényelt tagja tekintetében a szolgálatteljesítésre vonatkozó rendelkezési jogát.
-
-(2) Az 52. § (1) bekezdésében foglaltaktól eltérően a más szervhez vezényelt hivatásos vagy szerződéses katona a miniszter döntése alapján egyenruha viselésére köteles.
-
-(3) A miniszter az 51. § (3) bekezdésétől eltérően a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban történő közreműködés időtartama alatt az 51. § (1) bekezdés szerinti megállapodásban dönthet a rendelkezési állományba helyezés mellőzéséről is. Ha a miniszter a rendelkezési állományba helyezés mellőzéséről döntött, az állomány tagjának jogai és kötelezettségei – ide nem értve a 113. § (2) bekezdése szerinti szabadságmegváltást – azonosak az állomány 46. § (1) bekezdés b) pontja szerinti rendelkezési állományba helyezett tagjának jogaival és kötelezettségeivel.
-
-237/D. § A szolgálati viszony a 38. § (8) bekezdésétől, a 68. § (1) bekezdés b) pontjától, valamint a 78. § (2) bekezdés f) pontjától eltérően nem szűnik meg a törvény erejénél fogva az ott meghatározott kiképzési, képzési és vizsgakötelezettség teljesítésének elmulasztása esetén.
-
-237/E. § A 79. § (1) bekezdésében foglaltaktól eltérően az egészségi, a pszichikai és a fizikai alkalmasság rendszeres ellenőrzési kötelezettségétől el lehet tekinteni.
-
-237/F. § (1) A 94. § (2) bekezdésétől eltérően a szolgálati rend, valamint a 97. § (2) bekezdésétől eltérően az alkalmazott szolgálatteljesítési időkeret tartama munkaköri leírás módosítása nélkül, írásbeli munkáltatói döntésben megváltoztatható.
-
-(2) A szolgálatteljesítési időbeosztás öt napon belül és egy hétnél rövidebb időtartamra is közölhető.
-
-(3) A 101. § (1) bekezdése szerinti napi pihenőidőbe a lakásról a szolgálatteljesítési helyre és az onnan való visszautazás időtartama is beszámítható. A pihenőidő időtartama ebben az esetben sem lehet – a lakásról a szolgálatteljesítési helyre és az onnan való visszautazás időtartamát levonva – kevesebb hat óra időtartamnál.
-
-(4) Az állomány tagja számára a 105. § (3) bekezdés a) és c) pontja szerint elrendelt laktanyán kívüli készenléti szolgálat után fokozott igénybevételi illetménypótlék nem jár, valamint a 105. § (3) bekezdés b) és c) pontja szerint elrendelt laktanyai készenléti szolgálat után a fokozott igénybevételi illetménypótlék óránkénti mértéke a honvédelmi illetményalap 0,26%-a.
-
-(5) A tényleges szolgálatot teljesítő önkéntes tartalékos katona részére a 105. § (3) bekezdés b) pontja szerint elrendelt laktanyai készenléti szolgálat után fokozott igénybevételi pótlék jár, melynek óránkénti mértéke a honvédelmi illetményalap 0,26%-a.
-
-(6) A munkáltatói jogkört gyakorló az általa meghatározott szabadság kezdő napját a 112. § (1) bekezdésétől eltérően a szabadság kezdete előtt 15 napon belül is közölheti.
-
-(7) Az elrendelt őr-, ügyeleti és készenléti szolgálat esetében a 106. § (1) bekezdésétől eltérően nem kell figyelembe venni a szolgálat miniszteri rendeletben meghatározott besorolását.
-
-237/G. § A Kit. 3. § (7) bekezdés b) pontja szerinti szakmai felsővezető – ha az 58/A. §-a alapján szünetel a jogviszonya – az 58/C. §-ban meghatározottakon túlmenően a feladatai ellátása során jogosult egyenruhát viselni, a miniszter előzetes egyetértése esetén.”
-
-374. § A Hjt. 238. § (1) bekezdése a következő h) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„h) a XXI/B. Fejezet szerinti különös szabályok alkalmazásának bevezetését.”
-
-375. § A Hjt. 247/I. § a következő (5) bekezdéssel egészül ki:
-
-„(5) A (4) bekezdést a gyakorlatnak nem minősülő, tartós igénybevétel esetén is alkalmazni kell. Tartós igénybevételnek minősül a szolgálati feladatra vezénylés időtartama alatt a legalább hét napig tartó, egymást folyamatosan váltó feladatvégrehajtás és rendelkezésre állás, ha a rendelkezésre állás helyét a munkáltatói jogkört gyakorló határozza meg. A szolgálati feladatra vezénylés időtartama alatt nem alkalmazható a 107. § (2) bekezdése arra a laktanyai készenléti szolgálatra, amikor a munkáltatói jogkört gyakorló a Hvt. 36. § (1) bekezdés k) pontjára figyelemmel a rendelkezésre állás helyét kizárólag annak érdekében határozza meg, hogy az állomány vezényelt tagjának meghatározott időpontban történő szolgálatba lépése biztosított legyen.”
-
-376. § A Hjt.
-
-- a) 46. § (1) bekezdés b) pontjában az „51. § (3) bekezdésében” szövegrész helyébe az „51. § (3) bekezdésében és a 237/C. § (3) bekezdésében” szöveg,
-- b) 51. § (3) bekezdésében a „szolgálatteljesítés nem haladja” szövegrész helyébe a „szolgálatteljesítés – e törvény eltérő rendelkezése hiányában – nem haladja” szöveg
-
-lép.
-
-377. § Hatályát veszti a Hjt. 49. § (3) bekezdése.
+#### 377. §
 
 #### 107. Egyes állami és önkormányzati ingatlanok ingyenes tulajdonba adásáról, valamint a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény módosításáról szóló 2013. évi CXVIII. törvény módosítása
 
-378. § Hatályát veszti az egyes állami és önkormányzati ingatlanok ingyenes tulajdonba adásáról, valamint a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény módosításáról szóló 2013. évi CXVIII. törvény 1. mellékletében foglalt táblázat 232. sora.
+#### 378. §
 
 #### 108. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-379. § A Bv. tv. V. Fejezete a következő alcím címmel és 91/A. §-sal egészül ki:
+#### 379. §
 
-„Egészségügyi elkülönítés a befogadási eljárásban
-
-91/A. § A befogadást követően – az egészségügyi szakterület javaslatára – a bv. intézet parancsnokának írásbeli intézkedése alapján az elítélt a befogadó részlegen tizennégy napra egészségügyi okból elkülöníthető.”
-
-380. § A Bv. tv. 313. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Ha a pártfogolt magatartásáról a személyes kapcsolattartás keretében szerzett tapasztalatok alapján az állapítható meg, hogy a pártfogó felügyelet eredményes végrehajtása így is biztosítható, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő a pártfogolt kapcsolattartási kötelezettsége teljesítésének módját telefon vagy egyéb elektronikus kapcsolattartás útján is meghatározhatja. A pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő a pártfogolt magatartásának megváltozására figyelemmel az intézkedést visszavonhatja.”
+#### 380. §
 
 #### 109. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-381. § A Hszt. a következő XXXI/A. Fejezettel egészül ki:
+#### 381. §
 
-„XXXI/A. FEJEZET
-
-AZ EGÉSZSÉGÜGYI VÁLSÁGHELYZETRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
-
-339/A. § (1) Az egészségügyi válsághelyzet idején a Kormány dönthet a hivatásos állomány vonatkozásában a (2) bekezdésben, a rendvédelmi igazgatási alkalmazotti állomány vonatkozásában a (3) bekezdésben foglalt különös szabályok alkalmazásának bevezetéséről.
-
-(2) Egészségügyi válsághelyzet idején
-
-a) a szolgálati elöljáró a szolgálatteljesítési időbeosztást a 135. § (6) bekezdésétől eltérően a szolgálatba lépést megelőző egy héten belüli időpontban is közölheti a hivatásos állomány tagjával,
-
-b) a 136. § (3) bekezdésében foglaltaktól eltérően a hivatásos állomány tagjánál a napi legalább nyolc óra egybefüggő pihenőidőbe a lakásról a szolgálatteljesítési helyre utazás és az onnan való visszautazás időtartama is beszámítható azzal, hogy az utazás nélkül számított időtartam ebben az esetben sem lehet rövidebb hat óránál,
-
-c) az állományilletékes parancsnok a hivatásos állomány tagjának szolgálatteljesítési időrendjét írásban módosíthatja, e tekintetben nem szükséges a munkaköri leírás módosítása.
-
-(3) A (2) bekezdés b) és c) pontjában foglaltakat a rendvédelmi igazgatási alkalmazottak vonatkozásában is megfelelően alkalmazni kell.”
-
-382. § A Hszt. a következő 340/B. §-sal egészül ki:
-
-„340/B. § Felhatalmazást kap a Kormány, hogy rendeletben elrendelje az egészségügyi válsághelyzet idején a hivatásos állományra és a rendvédelmi igazgatási alkalmazotti állományra vonatkozó különös szabályok alkalmazásának bevezetését.”
+#### 382. §
 
 #### 110. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-383. § A Be. 47. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+#### 383. §
 
-„(1a) Az (1) bekezdés c) pontja alkalmazásában az idézés vagy az értesítés 113. § (3) bekezdése szerinti sürgős, illetve 113. § (4) bekezdése szerint történő kibocsátása esetén a kijelölt védő akkor minősül elérhetetlennek, ha a nyomozó hatóság vagy az ügyészség a jogszabályban meghatározott kapcsolatfelvételi lehetőségek útján egy óra alatt nem tud kapcsolatba lépni a kijelölt védővel.
+#### 384. §
 
-(1b) Az (1) bekezdés szerint kirendelt helyettes védő jelenléte az eljárási cselekményen kötelező.”
+#### 385. §
 
-384. § A Be. 49. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+#### 386. §
 
-„(4) A helyettes védő kirendelésére a védő kirendelésére vonatkozó rendelkezéseket kell alkalmazni azzal, hogy az eljáró védőt a kirendelő bíróság, ügyészség vagy nyomozó hatóság jelöli ki. Helyettes védőként az eljárási cselekményen jelen lévő, más bűncselekmény elkövetésével megalapozottan gyanúsítható személy vagy terhelt védőjeként eljáró ügyvéd is kijelölhető, feltéve, hogy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyek vagy terheltek érdekei nem ellentétesek.
+#### 387. §
 
-(5) A helyettes védő kirendelésének hatálya a védő távollétében lefolytatott eljárási cselekmény befejezéséig tart. A 47. § (1) bekezdése esetén a helyettes védő a nyomban egymást követően tartott eljárási cselekményeken mindaddig eljárhat, amíg a kirendelt védő meg nem jelenik vagy nem lép kapcsolatba az eljáró ügyészséggel, nyomozó hatósággal.”
+#### 388. §
 
-385. § A Be. 73. §-a helyébe a következő rendelkezés lép:
+#### 389. §
 
-„73. § (1) A bíróság, az ügyészség, illetve a nyomozó hatóság ügygondnokot rendel ki, ha
-
-a) a polgári jog szabályai szerint teljes cselekvőképességgel nem rendelkező terheltnek, bűncselekmény elkövetésével megalapozottan gyanúsítható személynek, sértettnek, vagyoni érdekeltnek vagy egyéb érdekeltnek nincs törvényes képviselője vagy a törvényes képviselő személye nem állapítható meg,
-
-b) a terheltnek, a bűncselekmény elkövetésével megalapozottan gyanúsítható személynek, a sértettnek, a vagyoni érdekeltnek vagy az egyéb érdekeltnek nincs olyan törvényes képviselője, akire nem állapítható meg kizárási ok,
-
-c) a törvényes képviselő a jogainak gyakorlásában akadályozva van, vagy
-
-d) az őt érintő eljárási cselekmény időpontjában ismeretlen helyen tartózkodó sértettnek, vagyoni érdekeltnek vagy egyéb érdekeltnek nincs sem törvényes képviselője, sem meghatalmazott képviselője.
-
-(2) A bíróság, az ügyészség, illetve a nyomozó hatóság ügygondnokként ügyvédet rendelhet ki. A kirendelés hatályára az (1) bekezdés a)–c) pontja esetén a 48. § (1) bekezdését, az (1) bekezdés d) pontja esetén a 49. § (5) bekezdését kell alkalmazni.
-
-(3) Az ügygondnok kirendelése ellen nincs helye jogorvoslatnak. A képviselt személy – indokoltan – más ügygondnok kirendelését indítványozhatja. Az indítványról az a bíróság, ügyészség vagy nyomozó hatóság dönt, amely előtt az eljárás folyamatban van.
-
-(4) A kirendelt ügygondnok indokolt esetben indítványozhatja a felmentését a kirendelés alól. Az indítványról az a bíróság, ügyészség vagy nyomozó hatóság dönt, amely előtt az eljárás folyamatban van.
-
-(5) A vádemelés előtt az ügyészség, a vádemelés után a bíróság a törvényes képviselőt kizárja az eljárásból, ha
-
-a) megalapozottan feltehető, hogy a törvényes képviselő a bűncselekményt az általa képviselt terhelttel vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személlyel együtt követte el, vagy
-
-b) a törvényes képviselő érdekei az általa képviselt személy érdekeivel ellentétesek.
-
-(6) A vádemelés előtt az (5) bekezdés a) pontjában meghatározott esetben a törvényes képviselőt a nyomozó hatóság is kizárhatja az eljárásból.
-
-(7) Ha az ügygondnok kirendelésére okot adó körülmény az eljárás folyamán megszűnik, a bíróság, az ügyészség, illetve a nyomozó hatóság az ügygondnokot a kirendelés alól felmenti.
-
-(8) Az ügygondnokot a büntetőeljárásban a törvényes képviselő jogállása illeti meg. Az ügygondnok kizárására a törvényes képviselő kizárására vonatkozó szabályokat kell alkalmazni. A terheltet vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt képviselő ügygondnok kizárására a 43. § (1) bekezdését is megfelelően alkalmazni kell.
-
-(9) Ha a bíróság, az ügyészség vagy a nyomozó hatóság a kirendelt ügygondnokot felmenti vagy kizárja, és ezzel egyidejűleg új ügygondnokot rendel ki, a 48. § (3)–(6) bekezdését megfelelően alkalmazni kell.
-
-(10) Az ügygondnok a közreműködéséért díjra és költségeinek megtérítésére is jogosult.”
-
-386. § A Be. 360. § (2)–(4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) Az ügyészség és a nyomozó hatóság gondoskodik arról, hogy a jegyzőkönyv hitelesítése előtt annak tartalmát a jogszabályban meghatározott, az eljárási cselekményen jelen lévő büntetőeljárásban részt vevő személy (a továbbiakban: hitelesítésben való közreműködésre köteles személy) megismerje. Ha a hitelesítésben való közreműködésre köteles személy a jegyzőkönyv tartalmának megismerését megtagadja, úgy kell tekinteni, mint aki a jegyzőkönyv hitelesítésében való közreműködést tagadta meg.
-
-(3) Az észrevétlenül nem megváltoztatható módon lezárt jegyzőkönyvet az eljárási cselekményt végző ügyész vagy nyomozó hatóság tagja a hitelesítésben való közreműködésre köteles személlyel együtt jogszabályban meghatározott módon hitelesíti.
-
-(4) Ha a hitelesítésben való közreműködésre köteles személy a jegyzőkönyv hitelesítésében való közreműködést megtagadja, a megtagadás tényét és annak közölt vagy ismert indokát jogszabályban meghatározott módon rögzíteni kell.”
-
-387. § A Be. 527. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben meghatározott eseteken kívül az egyesbíró vagy a tanács elnöke hivatalból vagy indítványra a tanú korábban tett vallomásának lényegét ismerteti, a vallomását felolvassa vagy a jegyzőkönyvvezetővel felolvastatja,
-
-a) annak érdekében, hogy a 163. § (4) bekezdés c) pontjának alkalmazhatóságát tisztázza, vagy
-
-b) ha a tanú vallomása szükséges a bizonyításhoz, de a tanú tárgyaláson történő kihallgatása nem indokolt, azt a bíróság sem tartja szükségesnek, és azt az ügyész, a vádlott vagy a védő sem indítványozza.”
-
-388. § A Be. 643. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha a perújítási indítványt a bíróságnál terjesztették elő, a bíróság azt az alapügy bírósági ügyirataival együtt, a 642. §-ban meghatározott intézkedések megtétele érdekében megküldi az ügyészségnek. Az ügyészség az alapügy ügyiratait a nyilatkozatával együtt egy hónapon belül visszaküldi a bíróságnak. Ha az ügyészség a 642. § (6) bekezdése alapján perújítási nyomozást rendelt el, a határidőt a perújítási nyomozás elvégzésétől kell számítani.”
-
-389. § A Be. 49. § (3) bekezdésében a „nem tarthat” szövegrész helyébe a „nem tarthat, kivéve, ha a terhelt ehhez hozzájárul” szöveg lép.
-
-390. § Hatályát veszti a Be. 262. § (1) bekezdés a) és b) pontja.
+#### 390. §
 
 #### 111. A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény módosítása
 
-391. § A Haj. tv. 21. §-a a következő (1a) bekezdéssel egészül ki:
+#### 391. §
 
-„(1a) Az (1) bekezdés a) pontjától eltérően különleges jogrend ideje alatt nem szűnik meg a honvédelmi alkalmazotti jogviszony a kinevezésben foglalt határozott idő lejártával, kivéve, ha a munkáltatói jogkör gyakorlója írásban – legkésőbb a jogviszony megszűnésének napján – így rendelkezik, és azt közli a honvédelmi alkalmazottal.”
+#### 392. §
 
-392. § A Haj. tv. 51. §-a a következő (5a) és (5b) bekezdéssel egészül ki:
+#### 393. §
 
-„(5a) Ha a honvédelmi alkalmazott az Mt. 55. § (1) bekezdés j) pontja szerint mentesül a rendelkezésre állási és munkavégzési kötelezettség alól, akkor erre az időtartamra távolléti díjának miniszteri rendeletben meghatározott mértékű részére jogosult. A honvédelmi alkalmazott és a munkáltató az Mt. 146. § (2) bekezdésétől eltérően ezzel összefüggésben eltérő megállapodást nem köthet.
+#### 394. §
 
-(5b) Az (5a) bekezdés szerinti esetben a rendelkezésre állási és a munkavégzés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy a honvédelmi alkalmazott éves szabadságának időarányos részét – az Mt. 122. § (1)–(3) bekezdésében foglaltak szerint – már kiadta. Ebben az esetben az Mt. 122. § (4) bekezdése nem alkalmazható.”
+#### 395. §
 
-393. § A Haj. tv. a következő VI/A. Fejezettel egészül ki:
-
-„VI/A. FEJEZET
-
-A HVT. 36. § (1) BEKEZDÉS K) PONTJA SZERINTI FELADATBAN RÉSZT VEVŐ HONVÉDELMI ALKALMAZOTTAKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
-
-92/A. § Ha a Magyar Honvédség a Kormány döntése alapján a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban részt vesz, a Kormány rendeletében az e Fejezetben foglalt különös szabályok alkalmazását rendelheti el a honvédelmi alkalmazottak vonatkozásában.
-
-92/B. § (1) A honvédelmi alkalmazotti jogviszony esetében az Mt. 104. § (1) bekezdésétől eltérően napi pihenőidőként legalább 8 órát kell biztosítani. A napi pihenőidőbe a lakásról a munkavégzési helyre és az onnan való visszautazás időtartam is beszámítható, de a pihenőidő időtartama ebben az esetben sem lehet – a lakásról a szolgálatteljesítési helyre és az onnan való visszautazás időtartamát levonva – kevesebb hat óra időtartamnál.
-
-(2) A honvédelmi alkalmazotti jogviszony esetében a heti pihenőnapok havonta összevontan is kiadhatók.
-
-(3) A honvédelmi alkalmazottak éves kötelező honvédelmi továbbképzésétől el lehet tekinteni.
-
-(4) Az Mt. 97. § (4) és (5) bekezdésétől és az Mt. 110. § (6) bekezdésétől eltérően a munkaidő-beosztás és a rendelkezésre állás tartama öt napon belül és egy hétnél rövidebb időtartamra is közölhető.
-
-(5) A honvédelmi alkalmazott részére az Mt. 110. §-a szerint elrendelt készenlét idejére illetménypótlék nem jár, ide nem értve az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § a)–c) pontjának hatálya alá tartozó honvédelmi alkalmazottat.
-
-(6) A munkáltató a honvédelmi alkalmazottat az Mt. 53. § (2) bekezdésében meghatározott mértéknél hosszabb időtartamban is a kinevezéstől eltérően foglalkoztathatja.
-
-(7) Az Mt. 122. § (4) bekezdésétől eltérően a munkáltató az általa meghatározott szabadság kezdő napját a szabadság kezdete előtt 15 napon belül is közölheti a honvédelmi alkalmazottal.”
-
-394. § A Haj. tv. 15. alcíme a következő 92/C. §-sal egészül ki:
-
-„92/C. § Felhatalmazást kap a Kormány, hogy rendeletben elrendelje a VI/A. Fejezet szerinti különös szabályok alkalmazását.”
-
-395. § A Haj. tv. 93. § 15. pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg)
-
-„15. a honvédelmi alkalmazottak illetményének folyósítására, az 51. § (5a) bekezdése szerinti illetmény mértékére, illetve a teljesítményjuttatásra vonatkozó részletes szabályokat.”
-
-396. § A Haj. tv. 21. § (5) bekezdésében a „jogrend kihirdetése” szövegrész helyébe a „jogrend, illetve veszélyhelyzet kihirdetése” szöveg lép.
+#### 396. §
 
 #### 112.
 

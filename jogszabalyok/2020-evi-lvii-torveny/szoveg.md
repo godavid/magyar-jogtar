@@ -6,7 +6,7 @@ Az Országgyűlés annak érdekében, hogy a koronavírus elleni védekezésről
 
 1. § Az Országgyűlés felhívja a Kormányt, hogy a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelet szerinti veszélyhelyzetet (a továbbiakban: veszélyhelyzet) az Alaptörvény 54. cikk (3) bekezdése szerint szüntesse meg.
 
-2. § Hatályát veszti a koronavírus elleni védekezésről szóló 2020. évi XII. törvény.
+2. §
 
 3. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
