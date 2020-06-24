@@ -6466,7 +6466,7 @@ Eljáró bíróság
 
 1. § A jelen Egységes Szabályok alapján indított kereset a felek által közösen kijelölt tagállam bírósága vagy annak az államnak a bírósága előtt indítható, amelynek területén:
 
-a) a felperes lakóhelye, szokásos tartózkodási helye, székhelye, az a telephelye vagy irodája van, amely a fuvarozási szerződést megkötötte, vagy
+a) az alperes lakóhelye, szokásos tartózkodási helye, székhelye, az a telephelye vagy irodája van, amely a fuvarozási szerződést megkötötte, vagy
 
 b) az a hely, ahol a fuvarozó az árut átvette, vagy a kiszolgáltatásra kijelölt hely van.
 

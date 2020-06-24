@@ -1561,7 +1561,7 @@ A törvényszékek, valamint a járásbíróságok illetékességi területe
 
 - 2. SZEGEDI ÍTÉLŐTÁBLA
 
-| Csongrád megye Jász-Nagykun-Szolnok megye | Bács-Kiskun megye | Békés megye |
+| Csongrád-Csanád megye Jász-Nagykun-Szolnok megye | Bács-Kiskun megye | Békés megye |
 | --- | --- | --- |
 
 - 3. PÉCSI ÍTÉLŐTÁBLA
@@ -1595,7 +1595,7 @@ A törvényszékek, valamint a járásbíróságok illetékességi területe
 
 - 2. SZEGEDI TÖRVÉNYSZÉK KATONAI TANÁCSA
 
-| Bács-Kiskun megye | Békés megye | Csongrád megye |
+| Bács-Kiskun megye | Békés megye | Csongrád-Csanád megye |
 | --- | --- | --- |
 
 - 3. GYŐRI TÖRVÉNYSZÉK KATONAI TANÁCSA
@@ -1631,6 +1631,6 @@ A törvényszékek, valamint a járásbíróságok illetékességi területe
 | 6. Pécsi Törvényszék |  |  |
 | Baranya megye | Somogy megye | Tolna megye |
 | 7. Szegedi Törvényszék |  |  |
-| Bács-Kiskun megye | Békés megye | Csongrád megye |
+| Bács-Kiskun megye | Békés megye | Csongrád-Csanád megye |
 | 8. Veszprémi Törvényszék |  |  |
 | Fejér megye | Veszprém megye | Zala megye |

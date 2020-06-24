@@ -581,7 +581,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (12) Az Országos Területfejlesztési Koncepcióban meghatározott egyes tervezési-statisztikai régiókban a szerencsejáték-szervezés állami felügyeletéért felelős miniszter egyidejűleg egy koncesszióba vevőnek, az állam többségi részesedésével működő gazdálkodó szervezetnek vagy az állami játékszervező kizárólagos tulajdonában lévő gazdasági társaságnak engedheti át az I. kategóriába sorolt játékkaszinó működtetésének jogát.
 
-(13) 500 000 lakosonként legfeljebb egy játékkaszinó üzemeltethető azzal, hogy a fővárosban és Pest megyében együtt legfeljebb öt, Baranya, Fejér, Győr-Moson-Sopron, Komárom-Esztergom, Somogy, Tolna, Vas, Veszprém és Zala megyében együtt legfeljebb három és Bács-Kiskun, Békés, Borsod-Abaúj-Zemplén, Csongrád, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok, Nógrád és Szabolcs-Szatmár-Bereg megyében együtt legfeljebb három játékkaszinó üzemeltethető.
+(13) 500 000 lakosonként legfeljebb egy játékkaszinó üzemeltethető azzal, hogy a fővárosban és Pest megyében együtt legfeljebb öt, Baranya, Fejér, Győr-Moson-Sopron, Komárom-Esztergom, Somogy, Tolna, Vas, Veszprém és Zala megyében együtt legfeljebb három és Bács-Kiskun, Békés, Borsod-Abaúj-Zemplén, Csongrád-Csanád, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok, Nógrád és Szabolcs-Szatmár-Bereg megyében együtt legfeljebb három játékkaszinó üzemeltethető.
 
 27/A. § (1) A játékkaszinóban a játékosok vendéglátásához és pénzváltásához szorosan kapcsolódó tevékenységen kívül más tevékenység nem folytatható. Pénzváltási tevékenység, mint kiegészítő pénzügyi szolgáltatás, kizárólag a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben előírt engedély birtokában végezhető.
 
