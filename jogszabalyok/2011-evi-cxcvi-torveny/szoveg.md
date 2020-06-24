@@ -2345,7 +2345,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 5.21. | SZÖGLIGET Várhegy | Szádvár romjai |
 | 5.22. | TARD Béke u. 55. és 57. | tájház |
 
-6. CSONGRÁD MEGYE
+6. CSONGRÁD-CSANÁD MEGYE
 
 | 6.1. | DEREKEGYHÁZ Köztársaság tér | Károlyi-kastély együttese |
 | --- | --- | --- |

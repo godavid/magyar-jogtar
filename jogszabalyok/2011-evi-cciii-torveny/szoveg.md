@@ -204,7 +204,7 @@ párt: a pártok működéséről és gazdálkodásáról szóló törvény alap
 | 3. | Bács-Kiskun | 6 |
 | 4. | Békés | 4 |
 | 5. | Borsod-Abaúj-Zemplén | 7 |
-| 6. | Csongrád | 4 |
+| 6. | Csongrád-Csanád | 4 |
 | 7. | Fejér | 5 |
 | 8. | Győr-Moson-Sopron | 5 |
 | 9. | Hajdú-Bihar | 6 |
@@ -2325,11 +2325,11 @@ Területe:
 
 54. Vatta
 
-Csongrád megye
+Csongrád-Csanád megye
 
 01. számú országgyűlési egyéni választókerület
 
-Rövidítése: Csongrád 01. OEVK
+Rövidítése: Csongrád-Csanád 01. OEVK
 
 Székhelye: Szeged
 
@@ -2351,7 +2351,7 @@ Területe:
 
 02. számú országgyűlési egyéni választókerület
 
-Rövidítése: Csongrád 02. OEVK
+Rövidítése: Csongrád-Csanád 02. OEVK
 
 Székhelye: Szeged
 
@@ -2385,7 +2385,7 @@ Területe:
 
 03. számú országgyűlési egyéni választókerület
 
-Rövidítése: Csongrád 03. OEVK
+Rövidítése: Csongrád-Csanád 03. OEVK
 
 Székhelye: Szentes
 
@@ -2437,7 +2437,7 @@ Területe:
 
 04. számú országgyűlési egyéni választókerület
 
-Rövidítése: Csongrád 04. OEVK
+Rövidítése: Csongrád-Csanád 04. OEVK
 
 Székhelye: Hódmezővásárhely
 
