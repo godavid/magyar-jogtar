@@ -46,7 +46,7 @@ a Bernben, 1980. május 9-én kelt Nemzetközi Vasúti Fuvarozási Egyezmény (C
 
 (2) Az Egyezmény és Függelékei módosításokkal egységes szerkezetbe foglalt hiteles angol nyelvű szövegének és annak hivatalos magyar nyelvű fordításának közzétételéről a közlekedésért felelős miniszter gondoskodik.
 
-17. § A Bernben, 1980. május 9-én kelt, Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv kihirdetéséről szóló 2006. évi LXXVII. törvény 2. §-ában A Nemzetközi Vasúti Árufuvarozási Szerződésre vonatkozó Egységes Szabályok (CIM – az Egyezmény B Függeléke) 46. cikk 1. § a) pontjában az „a felperes” szövegrész helyébe az „az alperes” szöveg lép.
+17. §
 
 ### 1. melléklet a 2020. évi LXII. törvényhez
 
