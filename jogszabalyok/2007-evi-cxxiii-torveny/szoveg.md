@@ -144,7 +144,7 @@ jelentősen akadályozza vagy megszünteti.
 
 (5) A visszamaradó rész kisajátítását legkésőbb a kisajátítási tárgyalás befejezéséig lehet kérni.
 
-(6) A kisajátítással érintett ingatlan tulajdonosa az ingatlan tulajdonjogával a kisajátítási eljárás időtartama alatt csak a kisajátítást kérő javára vagy más részére a kisajátítást kérő hozzájárulásával rendelkezhet; erről a tulajdonost a függő hatályú döntésben külön tájékoztatni kell. A kisajátítási hatóság a kisajátítási eljárás időtartamára az ingatlanra – a kisajátítást kérő javára – elidegenítési tilalmat jegyeztet fel az ingatlan-nyilvántartásban.
+(6) A kisajátítással érintett ingatlan tulajdonosa az ingatlan tulajdonjogával a kisajátítási eljárás időtartama alatt csak a kisajátítást kérő javára vagy más részére a kisajátítást kérő hozzájárulásával rendelkezhet. A kisajátítási hatóság a kisajátítási eljárás időtartamára az ingatlanra – a kisajátítást kérő javára – elidegenítési tilalmat jegyeztet fel az ingatlan-nyilvántartásban.
 
 (7) Ha az ingatlanra végrehajtási jog van bejegyezve, a kisajátítási eljárás megindítása tényének feljegyzését követően a végrehajtó a bírósági végrehajtásról szóló törvény által meghatározott külön szabályok szerint jár el.
 
@@ -653,7 +653,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 40/E. § (1) Ha – pernyertessége folytán – az igénylő tulajdonába került érintett ingatlan kisajátítása iránt a kérelmező az előzetes állásfoglalás hatályossági idején belül, az előzetes eljárásban megjelölt kisajátítási és beruházási, illetve tevékenységi céllal azonos céllal kisajátítási eljárást indít, a tényleges kisajátítási eljárásban e törvénynek a kisajátításra vonatkozó általános rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A tényleges kisajátítási eljárásban benyújtott kisajátítási kérelemnek tartalmaznia kell az arra való utalást, hogy korábban a kisajátítási hatóság előzetes állásfoglalást adott ki, és a kérelemhez csatolni kell az előzetes állásfoglalást is. A kisajátítási hatóság a függő hatályú döntéshez csatolja az előzetes állásfoglalást.
+(2) A tényleges kisajátítási eljárásban benyújtott kisajátítási kérelemnek tartalmaznia kell az arra való utalást, hogy korábban a kisajátítási hatóság előzetes állásfoglalást adott ki, és a kérelemhez csatolni kell az előzetes állásfoglalást is.
 
 (3) A tényleges kisajátítási eljárásban a kisajátítási hatóság a kisajátítás jogalapja tekintetében döntését az előzetes állásfoglalásban foglaltakra alapítja, kivéve, ha az attól való eltérést a 3. § (1) bekezdés b) pontjában foglalt feltétel tekintetében lefolytatott bizonyítás vagy a (4) bekezdésben foglaltak indokolják.
 
@@ -669,7 +669,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 ### Vegyes rendelkezések
 
-40/F. § (1) Az e törvény hatálya alá tartozó hatósági eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+40/F. § (1)
 
 (2) Az e törvény hatálya alá tartozó hatósági eljárásokban hirdetményi közlésnek és közhírré tételnek nincs helye.
 

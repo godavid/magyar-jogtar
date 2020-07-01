@@ -413,7 +413,7 @@ egyes rendelkezések
 
 (5) A kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről szóló kormányrendelet szerinti engedélyezési eljárásokban az engedélyező hatóság az eljárást felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amely más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
 
-(6) A kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről szóló kormányrendelet szerinti engedélyezési eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(6)
 
 140/A. § A Kormány a 140. § (1) bekezdése szerinti korlátozást elrendelő rendeletében előírhatja, hogy a 140. § (1) bekezdése szerinti tevékenység folytatására a nemzeti külkereskedelmi államigazgatási szerv 140/B. §-a szerinti nyilvántartásába felvett természetes személy, jogi személy, jogi személyiség nélküli szervezet jogosult.
 

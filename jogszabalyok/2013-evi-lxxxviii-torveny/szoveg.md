@@ -13,7 +13,14 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 - c) kapcsolatba hozható személy: a körözési eljárás során a körözést elrendelő vagy a körözési eljárást lefolytató szerv által megjelölt, a körözött személy felkutatását elősegítő információval rendelkező személy, személyazonossággal visszaélés esetén a személyazonossággal visszaélés áldozata,
 - d) körözés: személy esetén törvényben, holttest és dolog esetén jogszabályban meghatározottak szerinti döntés, a Schengeni Információs Rendszerben rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezése, valamint az elfogatóparancs, az európai elfogatóparancs és a nemzetközi körözés,
 - e) körözési eljárás: az ismeretlen helyen lévő személyek és dolgok hollétének megállapítására, ismeretlen személyek, holttestek, ismeretlen eredetű dolgok azonosítására irányuló eljárás, valamint a Schengeni Információs Rendszerben rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezésével kapcsolatos intézkedések összessége,
-- f) nemzetközi körözés: nemzetközi szerződés, valamint viszonossági gyakorlat alapján büntető-, polgári vagy közigazgatási ügyben magyar szerv kezdeményezésére más állam hatósága által az adott állam területén, illetve külföldi állam hatósága kezdeményezésére magyar hatóság által Magyarország területén végzett körözési eljárás, kivéve az európai elfogatóparancs alapján végzett körözési eljárást.
+- f) nemzetközi körözés: nemzetközi szerződés, valamint viszonossági gyakorlat alapján büntető-, polgári vagy közigazgatási ügyben magyar szerv kezdeményezésére más állam hatósága által az adott állam területén, illetve külföldi állam hatósága kezdeményezésére magyar hatóság által Magyarország területén végzett körözési eljárás, kivéve az európai elfogatóparancs alapján végzett körözési eljárást,
+- g) belső azonosító kód: az e törvény alapján rögzített ujj- és tenyérnyomat, valamint DNS-profil meghatározására alkalmas anyaghoz hozzárendelt alfanumerikus azonosító, amelynek célja, hogy tájékoztatást nyújtson arról, hogy a minta levétele megtörtént,
+- h) DNS-elemzés: a DNS-profil meghatározásának folyamata,
+- i) DNS-profil: a dezoxiribonukleinsav-molekula meghatározott szakaszainak vizsgálata alapján képzett alfanumerikus adatsor,
+- j) körözés azonosítására szolgáló kapcsolati kód: a nyilvántartó által képzett olyan alfanumerikus azonosító, amelynek célja az érintett személyazonosító adatainak hozzárendelése a körözési eljáráshoz kapcsolódó biometrikus adatok nyilvántartásában kezelt adataihoz,
+- k) szájnyálkahártya-törlet: a szájüreg belső felületéről, annak sérelme nélkül, steril gézzel vagy más, az egészségügyben használatos hordozóval letörölt anyag,
+- l) szakértői nyilvántartó szerv: a körözési eljáráshoz kapcsolódó biometrikus adatok nyilvántartásának vezetéséért felelős, a Kormány által kijelölt szerv,
+- m) szakrendszeri azonosító kód: a szakértői nyilvántartó szerv által a DNS-profilhoz, valamint az ujj- és tenyérnyomathoz hozzárendelt egyedi alfanumerikus azonosító.
 
 ### II. Fejezet — A KÖRÖZÉSI NYILVÁNTARTÁSI RENDSZER
 
@@ -100,9 +107,10 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
   - la) megnevezését,
   - lb) elrendelésének időpontját,
   - lc) befejezésének időpontját, valamint
-  - ld) tartalmi leírását.
+  - ld) tartalmi leírását,
+- p) eltűnés miatti körözés esetén a belső azonosító kódot, a körözés azonosítására szolgáló kapcsolati kódot, valamint a szakrendszeri azonosító kódot.
 
-(3) A körözött személyek nyilvántartásába a (2) bekezdés a) pont aa)–ai) alpontjában, valamint a (2) bekezdés b) és d)–j) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
+(3) A körözött személyek nyilvántartásába a (2) bekezdés a) pont aa)–ai) alpontjában, valamint a (2) bekezdés b), d)–j), valamint p) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
 
 (4) A körözött személyek nyilvántartásába a (2) bekezdés c) pontjában meghatározott adatokat a körözést elrendelő rögzíti, ha az adat a körözés alapjául szolgáló bűncselekmény tényállási eleme.
 
@@ -226,10 +234,13 @@ kezeli.
 - e) a körözési eljárás során megtett intézkedés
   - ea) megnevezését,
   - eb) elrendelésének időpontját,
-  - ec) befejezésének időpontját, valamint
-  - ed) tartalmi leírását.
+  - ec) befejezésének időpontját,
+  - ed) tartalmi leírását,
+- f) a belső azonosító kódot,
+- g) a körözés azonosítására szolgáló kapcsolati kódot, valamint
+- h) a szakrendszeri azonosító kódot.
 
-(3) Az ismeretlen holttestek, holttestrészek nyilvántartásában a (2) bekezdés a)–d) pontjában foglalt adatot a körözést elrendelő rögzíti.
+(3) Az ismeretlen holttestek, holttestrészek nyilvántartásában a (2) bekezdés a)–d), valamint f)–h) pontjában foglalt adatot a körözést elrendelő rögzíti.
 
 (4) Az ismeretlen holttestek, holttestrészek nyilvántartásában a körözési eljárás során ismertté vált, a (2) bekezdés a) pont ad) alpontjában, b) pont bc) alpontjában c) pontjában és e) pontjában meghatározott adatokat a körözési eljárást lefolytató szerv vagy az intézkedést végrehajtó szerv rögzíti.
 
@@ -471,6 +482,133 @@ előírja.
 
 (7) A (6) bekezdés szerinti betekintés tényéről, valamint a betekintés eredményeként tett megállapításokról jegyzőkönyvet kell felvenni.
 
+### II/A. Fejezet — A KÖRÖZÉSI ELJÁRÁSHOZ KAPCSOLÓDÓ BIOMETRIKUS ADATOK NYILVÁNTARTÁSA
+
+#### 14/B. Általános szabályok
+
+14/B. § (1) A körözési eljáráshoz kapcsolódó biometrikus adatok nyilvántartása körözési célú daktiloszkópiai nyilvántartásból és körözési célú DNS-profil-nyilvántartásból áll.
+
+(2) A körözési eljáráshoz kapcsolódó biometrikus adatok nyilvántartását a Kormány által rendeletben kijelölt szakértői nyilvántartó szerv vezeti. A szakértői nyilvántartó szerv ellátja – ha törvény eltérően nem rendelkezik – a nyilvántartással összefüggő adatkezelési feladatokat.
+
+(3) A körözési eljáráshoz kapcsolódó biometrikus adatok nyilvántartásának törvényességi felügyeletét az ügyész látja el.
+
+(4) A körözési eljáráshoz kapcsolódó biometrikus adatok nyilvántartása tekintetében a 9-14/A. alcímben foglalt rendelkezéseket alkalmazni kell.
+
+14/C. § A szakértői nyilvántartó szerv az e törvény alapján nyilvántartásba vétel céljából részére megküldött mintákat, valamint DNS-profilokat
+
+- a) haladéktalanul nyilvántartásba veszi,
+- b) kezeli és az e törvény alapján arra jogosultnak továbbítja,
+- c) elemzi és ha e törvény lehetővé teszi, a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal összehasonlítja.
+
+#### 14/C. A körözési célú daktiloszkópiai nyilvántartás
+
+14/D. § A körözési célú daktiloszkópiai nyilvántartás célja
+
+- a) az eltűnés miatt körözött személy felkutatásának, holléte, illetve személyazonossága megállapításának elősegítése, valamint
+- b) az ismeretlen holttest vagy holttestrész azonosítása. 14/E. § A körözési célú daktiloszkópiai nyilvántartás
+- a) az eltűnés miatt körözött személyek ujj- és tenyérnyomatának nyilvántartásából, valamint
+- b) az ismeretlen holttestek vagy holttestrészek ujj- és tenyérnyomatainak nyilvántartásából
+
+áll.
+
+14/F. § (1) Ha a körözést elrendelő szerv ujj- és tenyérnyomat nyilvántartásba vételét kezdeményezi, a szakértői nyilvántartó szerv a nyilvántartásba vételt megelőzően haladéktalanul összehasonlítja az ujj- és tenyérnyomatot az e törvény és a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény (a továbbiakban: Bnytv.) szerinti nyilvántartásban kezelt ujj- és tenyérnyomatokkal.
+
+(2) Ha az (1) bekezdés szerinti összehasonlítás az ujj- és tenyérnyomatok azonosságát állapítja meg, a szakértői nyilvántartó szerv haladéktalanul közli az azonosság tényét, valamint azt a tényt, hogy mely – e törvény vagy a Bnytv. szerinti – nyilvántartásban található az ujj- és tenyérnyomattal azonos, korábban nyilvántartásba vett ujj- és tenyérnyomat
+
+- a) a nyilvántartásba vételt kezdeményező, körözést elrendelő szervvel, valamint
+- b) azzal a szervvel, amelynek kezdeményezésére azt az ujj- és tenyérnyomatot, amellyel az azonosságot megállapították, az e törvény vagy a Bnytv. szerinti nyilvántartások valamelyikébe korábban felvették.
+
+14/G. § (1) Az eltűnés miatt körözött személyek ujj- és tenyérnyomatának nyilvántartása tartalmazza
+
+- a) az eltűnés miatt körözött személy ujj- és tenyérnyomatát,
+- b) a körözés azonosítására szolgáló kapcsolati kódot, valamint
+- c) a szakrendszeri azonosító kódot.
+
+(2) Az (1) bekezdés a) pontjában meghatározott adatokat a nyilvántartásba vétel alapjául szolgáló eltűnés miatt körözést elrendelő szerv – a nyilvántartásba vétel kezdeményezésével egyidejűleg – küldi meg a szakértői nyilvántartó szervnek.
+
+14/H. § (1) Az eltűnés miatt körözött személyek ujj- és tenyérnyomatának nyilvántartásába felvett adatokat a nyilvántartásba vétel alapjául szolgáló körözéshez kapcsolódóan a körözött személyek nyilvántartásában kezelt adatok megőrzési idejéig kell nyilvántartani.
+
+(2) A körözés visszavonásáról, illetve a körözési adatok törléséről a nyilvántartó elektronikus úton értesíti a szakértői nyilvántartó szervet.
+
+14/I. § (1) Az ismeretlen holttestek vagy holttestrészek ujj- és tenyérnyomatainak nyilvántartása tartalmazza
+
+- a) az ismeretlen holttest vagy holttestrész ujj- és tenyérnyomatát,
+- b) a körözés azonosítására szolgáló kapcsolati kódot, valamint
+- c) a szakrendszeri azonosító kódot.
+
+(2) Az (1) bekezdés a) pontjában meghatározott adatokat a nyilvántartásba vétel alapjául szolgáló körözést elrendelő szerv – a nyilvántartásba vétel kezdeményezésével egyidejűleg – küldi meg a szakértői nyilvántartó szervnek.
+
+14/J. § (1) Az ismeretlen holttestek vagy holttestrészek ujj- és tenyérnyomatának nyilvántartásába felvett adatokat a nyilvántartásba vétel alapjául szolgáló körözéshez kapcsolódóan a körözött személyek nyilvántartásában kezelt adatok megőrzési idejéig kell nyilvántartani.
+
+(2) A körözés visszavonásáról, illetve a körözési adatok törléséről a nyilvántartó elektronikus úton értesíti a szakértői nyilvántartó szervet.
+
+#### 14/D. A körözési célú DNS-profil-nyilvántartás
+
+14/K. § A körözési célú DNS-profil-nyilvántartás célja
+
+- a) az eltűnés miatt körözött személy felkutatásának, holléte, illetve személyazonossága megállapításának elősegítése, valamint
+- b) az ismeretlen holttest vagy holttestrész azonosítása.
+
+14/L. § A körözési célú DNS-profil-nyilvántartás
+
+- a) az eltűnés miatt körözött személyek DNS-profiljainak nyilvántartásából,
+- b) az eltűnés miatt körözött személyek vér szerinti hozzátartozói DNS-profiljainak nyilvántartásából, valamint
+- c) az ismeretlen holttestek vagy holttestrészek DNS-profiljainak nyilvántartásából
+
+áll.
+
+14/M. § (1) Ha a körözést elrendelő szerv – az eltűnés miatt körözött személyek vér szerinti hozzátartozói kivételével – DNS-profil nyilvántartásba vételét kezdeményezi, a szakértői nyilvántartó szerv a nyilvántartásba vételt megelőzően haladéktalanul összehasonlítja a DNS-profilt a Bnytv. szerinti nyilvántartásokban kezelt DNS-profilokkal.
+
+(2) Ha az (1) bekezdés szerinti összehasonlítás a DNS-profilok azonosságát állapítja meg, az azonosság tényét, valamint azt a tényt, hogy mely – Bnytv. szerinti – nyilvántartásban található a DNS-profillal azonos, korábban nyilvántartásba vett DNS-profil, a szakértői nyilvántartó szerv haladéktalanul közli
+
+- a) a körözést elrendelő szervvel, valamint
+- b) azzal a szervvel, amelynek kezdeményezésére azt a DNS-profilt, amellyel az azonosságot megállapították, a Bnytv. szerinti nyilvántartások valamelyikébe korábban felvették.
+
+14/N. § (1) Az eltűnés miatt körözött személyek DNS-profiljainak nyilvántartása tartalmazza
+
+- a) az eltűnés miatt körözött személytől rögzített anyagmaradványt, továbbá az abból meghatározott DNS-profilt,
+- b) a körözés azonosítására szolgáló kapcsolati kódot, valamint
+- c) a szakrendszeri azonosító kódot.
+
+(2) Az (1) bekezdés a) pontjában meghatározott adatokat, valamint a DNS-profil meghatározására alkalmas anyagmaradványt a nyilvántartásba vétel alapjául szolgáló eltűnés miatt körözést elrendelő szerv megküldi az általa kirendelt és a Kormány által e szakkérdés vizsgálatára kijelölt szerv részére.
+
+(3) A DNS-profilt az eltűnt személytől vagy használati tárgyairól rögzített anyagmaradványból a szakkérdés vizsgálatára kirendelt szerv meghatározza, és a DNS-profilt, valamint az annak meghatározására alkalmas anyagmaradványt a szakértői nyilvántartó szerv részére – a DNS-profil meghatározását követően haladéktalanul – megküldi.
+
+(4) A DNS-profil meghatározására alkalmas anyagmaradvány rögzítése kötelező, ha az eltűnés miatti körözés elrendelése óta kilencven nap eredménytelenül eltelt.
+
+14/O. § (1) Az eltűnés miatt körözött személyek DNS-profiljainak nyilvántartásába felvett adatokat a nyilvántartásba vétel alapjául szolgáló körözéshez kapcsolódóan a körözött személyek nyilvántartásában kezelt adatok megőrzési idejéig kell nyilvántartani.
+
+(2) A körözés visszavonásáról, illetve a körözési adatok törléséről a nyilvántartó elektronikus úton értesíti a szakértői nyilvántartó szervet.
+
+14/P. § (1) Az eltűnés miatt körözött személyek vér szerinti hozzátartozóinak DNS-profil nyilvántartása tartalmazza
+
+- a) az eltűnés miatt körözött személy vér szerinti hozzátartozója és az eltűnés miatt körözött személy közötti rokoni kapcsolat fokát,
+- b) az eltűnés miatt körözött személy vér szerinti hozzátartozójától levett szájnyálkahártya-törletet, vagy egyéb, DNS-profil meghatározására alkalmas mintáját és az abból meghatározott DNS-profilt,
+- c) a körözés azonosítására szolgáló kapcsolati kódot, valamint
+- d) a szakrendszeri azonosító kódot.
+
+(2) Az (1) bekezdés a) pontjában meghatározott adatokat, valamint a DNS-profil meghatározására alkalmas anyagmaradványt a nyilvántartásba vétel alapjául szolgáló eltűnés miatt körözési eljárást elrendelő szerv megküldi az általa kirendelt és a Kormány által e szakkérdés vizsgálatára kijelölt szerv részére.
+
+(3) A DNS-profilt az eltűnt személy vér szerinti hozzátartozójától rögzített anyagmaradványból a szakkérdés vizsgálatára kirendelt szerv meghatározza, és a DNS-profilt, valamint az annak meghatározására alkalmas anyagmaradványt a szakértői nyilvántartó szerv részére – a DNS-profil meghatározását követően haladéktalanul – megküldi.
+
+14/Q. § (1) Az eltűnés miatt körözött személyek vér szerinti hozzátartozóinak DNS-profil nyilvántartásába felvett adatokat a nyilvántartásba vétel alapjául szolgáló körözéshez kapcsolódóan a körözött személyek nyilvántartásában kezelt adatok megőrzési idejéig kell nyilvántartani.
+
+(2) A körözés visszavonásáról, illetve a körözési adatok törléséről a nyilvántartó elektronikus úton értesíti a szakértői nyilvántartó szervet.
+
+14/R. § (1) Az ismeretlen holttestek, holttestrészek DNS-profiljainak nyilvántartása tartalmazza
+
+- a) az ismeretlen holttestből, holttestrészből rögzített anyagmaradványt, továbbá az abból meghatározott DNS-profilt,
+- b) a körözés azonosítására szolgáló kapcsolati kódot, valamint
+- c) a szakrendszeri azonosító kódot.
+
+(2) Az (1) bekezdésben meghatározott adatokat, valamint a DNS-profil meghatározására alkalmas anyagmaradványt a nyilvántartásba vétel alapjául szolgáló körözési eljárást folytató hatóság megküldi az általa kirendelt és a Kormány által e szakkérdés vizsgálatára kijelölt szerv részére.
+
+(3) A DNS-profilt az ismeretlen holttestből, holttestrészből rögzített anyagmaradványból a szakkérdés vizsgálatára kirendelt szerv meghatározza, és az (1) bekezdésben meghatározott adatokat, a DNS-profilt, valamint az annak meghatározására alkalmas anyagmaradványt a szakértői nyilvántartó szerv részére – a DNS-profil meghatározását követően haladéktalanul – megküldi.
+
+14/S. § (1) Az ismeretlen holttestek, holttestrészek DNS-profiljainak nyilvántartásába felvett adatokat a nyilvántartásba vétel alapjául szolgáló körözéshez kapcsolódóan a körözött személyek nyilvántartásában kezelt adatok megőrzési idejéig kell nyilvántartani.
+
+(2) Az (1) bekezdésben meghatározott időpontot a körözést elrendelő szerv közli a szakértői nyilvántartó szervvel.
+
 ### III. Fejezet — A KÖRÖZÉSI ELJÁRÁS
 
 #### 15. A körözési eljárásra vonatkozó általános szabályok
@@ -489,7 +627,7 @@ előírja.
 
 (4a) Jogszabály alapján állampolgársági bizonyítvány, honosítási okirat kiadására feladat- és hatáskörrel rendelkező szerv eljárása során a kérelmezővel és a kérelmező által felhasznált okmánnyal kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában és a körözött dolgok nyilvántartásában. Ha az eljáró szerv az ügyfelet a körözött személyek nyilvántartásában, illetve az ügyfél által az eljárás során felhasznált okmányt a körözött dolgok nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
 
-(5) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során ellenőrzi a körözött személyek nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
+(5)
 
 (5a) A rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során a szabálysértési eljárás alá vont személlyel kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában. Ha az eljáró szerv a szabálysértési eljárás alá vont személyt a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti, illetve kezdeményezi a törvény szerint szükséges intézkedések végrehajtását.
 
@@ -553,7 +691,7 @@ felelős.
 
 19. § A körözési eljárás során a körözési eljárást lefolytató szerv által alkalmazott intézkedés elrendelése és végrehajtásának jogszerűsége miatti jogorvoslatra a rendőrségről szóló törvény jogorvoslatra vonatkozó rendelkezéseit kell alkalmazni.
 
-#### 20. Az eltűnt személyekre vonatkozó különös körözési eljárási szabályok
+#### 20. Az eltűnt személyekre vonatkozó különös körözési eljárási szabályok, a mintavételi eljárás rendje az ujj- és tenyérnyomat, valamint a DNS-profil nyilvántartásba vétele céljából
 
 20. § (1) A rendőrség körözését rendelheti, – eltűnt személy esetén – rendeli el
 
@@ -668,6 +806,31 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 20/E. § Az e törvény rendelkezései szerint kiszabott bírságot az adóhatóság adók módjára hajtja be.
 
+20/F. § (1) Az e törvény alapján felvételre kerülő ujj- és tenyérnyomat levételéről, illetve egyéb módon való megszerzéséről a körözési eljárást elrendelő szerv a körözés elrendelését követően haladéktalanul gondoskodik.
+
+(2) A körözést elrendelő szerv a körözés elrendelését követően haladéktalanul tájékoztatja a szakértői nyilvántartó szervet a korábban nyilvántartásba vett szakrendszeri, valamint – ha az rendelkezésre áll – belső azonosító kódról. Ezek hiányában megküldi a korábban felvett ujj- és tenyérnyomatlapot, ha az rendelkezésre áll.
+
+20/G. § (1) Az eltűnés miatt körözött személy vér szerinti hozzátartozójától DNS-profil meghatározására alkalmas minta kifejezett írásbeli hozzájárulás esetén és csak akkor vehető, ha az eltűnt személy személyazonosságának megállapítására nem áll rendelkezésre fénykép, arcképmás, illetve daktiloszkópiai adat, vagy azok az azonosításra nem alkalmasak és az eltűnt személy DNS-profil meghatározására alkalmas mintája más módon nem, vagy csak aránytalan nehézséggel szerezhető meg.
+
+(2) A mintavétel célja kizárólag az eltűnt személy felkutatása, azonosítása, illetve a személyazonosság megállapítása.
+
+(3) A mintaadással érintett személyt a körözési eljárást elrendelő szerv – a mintavételt megelőzően – tájékoztatja arról, hogy a szájnyálkahártya-törlet levételének célja a DNS-elemzés.
+
+(4) A mintavételt az érintett személy fizikai sértetlenségének biztosításával kell végezni.
+
+(5) A DNS-profil meghatározására alkalmas mintát a nyilvántartásba vétel alapjául szolgáló körözési eljárást elrendelő szerv megküldi a Kormány által e szakkérdés vizsgálatára kijelölt, általa kirendelt szerv részére.
+
+(6) A szakkérdés vizsgálatára kirendelt szerv a mintából meghatározott DNS-profilt, valamint az annak meghatározására alkalmas anyagmaradványt a körözési eljárást elrendelő szerv részére – a DNS-profil meghatározását követően haladéktalanul – megküldi.
+
+(7) A körözési eljárást elrendelő szerv a DNS-profilt nyilvántartásba vétel céljából megküldi a szakértői nyilvántartó szervnek.
+
+(8) A szakértői nyilvántartó szerv az eltűnés miatt körözött személy vér szerinti hozzátartozójától rögzített minta alapján meghatározott DNS-profilt a nyilvántartásba vételt megelőzően haladéktalanul összehasonlítja a körözött személyek nyilvántartásában eltűnés miatt kezelt, valamint az ismeretlen holttestek, holttestrészek nyilvántartásában kezelt DNS-profilokkal.
+
+(9) Ha a (8) bekezdés szerinti összehasonlítás a DNS-profilok között rokonsági fokot
+
+- a) nem állapít meg, a szakértői nyilvántartó szerv erről haladéktalanul tájékoztatja a körözési eljárást elrendelő szervet és nyilvántartásba veszi a DNS-profilt,
+- b) megállapít, a szakértői nyilvántartó szerv erről haladéktalanul tájékoztatja a körözést elrendelő szervet.
+
 21. § (1) A rendőrség arról a kiskorúról, akinek eltűnését bejelentették, valamint arról, aki a szülői felügyelet vagy a gyámság, illetve a nevelőszülőknél vagy gyermekotthonban történő elhelyezése alól engedély nélkül kivonta magát, haladéktalanul tájékoztatja a gyámhatóságot.
 
 (2) Ha a rendőrség olyan tartalmú bejelentést kap, hogy a gyermekjóléti alapellátást, illetve gyermekvédelmi szakellátást nyújtó személy vagy intézmény által gondozott, vagy egyéb okból ellátásra befogadott gyermek engedély nélkül eltávozott a gondozási helyéről vagy oda a számára előírt időpontban nem tért vissza, a rendőrség a körözés elrendelésével egyidejűleg áttekinti a gyermek részére ellátást nyújtó intézmény és a törvényes képviselő által a felkutatás érdekében jogszabályban előírtak szerint megtett intézkedéseit.
@@ -710,7 +873,7 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (7) A körözési eljárást lefolytató szerv a körözési eljárás során a pénzügyi intézménytől és a pénzforgalmi intézménytől adatokat igényelhet a készpénzt-helyettesítő fizetési eszköz használatának helyszínére és időpontjára vonatkozóan.
 
-25. § (1) A körözési eljárást lefolytató szerv a körözési eljárás lefolytatása céljából az adott személy, holttest, holttestrész vagy dolog felkutatása érdekében a nyilvántartás adatállományait a rendőrségről szóló törvényben meghatározott adatállományaival, valamint más bűnüldözési adatállománnyal összekapcsolhatja. Az összekapcsolást az adott üggyel kapcsolatos körözési eljárás befejezése után meg kell szüntetni. Az összekapcsolás során keletkezett olyan új adatokat, amelyek a körözési eljárás során nem kerülnek felhasználásra, haladéktalanul törölni kell.
+25. § (1) A körözési eljárást lefolytató szerv a körözési eljárás lefolytatása céljából az adott személy, holttest, holttestrész vagy dolog felkutatása, azonosítása vagy a személyazonosságának a megállapítása érdekében a nyilvántartás, valamint a körözési eljáráshoz kapcsolódó biometrikus adatok nyilvántartás adatállományait a rendőrségről szóló törvényben meghatározott adatállományaival, valamint más bűnüldözési adatállománnyal összekapcsolhatja. Az összekapcsolást az adott üggyel kapcsolatos körözési eljárás befejezése után meg kell szüntetni. Az összekapcsolás során keletkezett olyan új adatokat, amelyek a körözési eljárás során nem kerülnek felhasználásra, haladéktalanul törölni kell.
 
 (2) Ha a körözési eljárás lefolytatásához szükséges adattal más hatóság, egyéb állami, önkormányzati szerv vagy – ha törvény lehetővé teszi – egyéb szerv vagy személy rendelkezik, a körözési eljárást lefolytató szerv e szervet megkeresheti a szükséges adat megismerése érdekében. A megkeresést harminc napon belül teljesíteni kell.
 
@@ -825,13 +988,19 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 #### 23. Felhatalmazó rendelkezések
 
-30. § (1) Felhatalmazást kap a Kormány, hogy a nyilvántartót kijelölje.
+30. § (1) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje
+
+- a) a nyilvántartót,
+- b) a szakértői nyilvántartó szervet, valamint
+- c) az eltűnés miatt körözött személyek, az eltűnés miatt körözött személyek vér szerinti hozzátartozóinak, valamint az ismeretlen holttest vagy holttestrész DNS-profiljának meghatározására jogosult szervet.
 
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben állapítsa meg
 
 - a) a körözési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés formájára és módjára vonatkozó szabályokat,
 - b) a körözési eljárás lefolytatásának részletes eljárási szabályait,
 - c) – az államháztartásért felelős miniszter egyetértésével – a körözési eljárásban elrendelt elővezetés végrehajtásával felmerült költség megtérítésének szabályait.
+- d) az ujj- és tenyérnyomat, valamint a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének, illetve az ujj- és tenyérnyomat és a szájnyálkahártya-törlet levételének részletes technikai szabályait; a DNS-profil meghatározásának szakmai-módszertani követelményeit; továbbá a nyilvántartás technikai vezetésének részletes szabályait,
+- e) a körözési eljáráshoz kapcsolódó biometrikus adatok nyilvántartása részére történő adatközlés és az e nyilvántartás által teljesített adatszolgáltatás rendjét.
 
 #### 24. Hatályba léptető és átmeneti rendelkezések
 
@@ -855,6 +1024,13 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 (4) A 2013. december 31-én a személy- és tárgykörözésről szóló 2001. évi XVIII. törvény szerint folyamatban lévő személy és tárgykörözéseket a törvény rendelkezései szerint kell végrehajtani.
 
 (5) A 2013. december 31-én a személy- és tárgykörözésről szóló 2001. évi XVIII. törvény szerint nyilvántartatott adatokat 2014. január 1-jétől a nyilvántartásban kell kezelni e törvény rendelkezései szerint.
+
+(6) Az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvénnyel megállapított
+
+- a) ismeretlen holttestek, holttestrész ujj- és tenyérnyomatának, valamint DNS-profiljának nyilvántartása létrehozásához szükséges informatikai fejlesztéseket, valamint
+- b) az eltűnt személyek ujj- és tenyérnyomatának, valamint DNS-profiljának, valamint az eltűnt személyek hozzátartozói DNS-profiljának nyilvántartása létrehozásához szükséges informatikai fejlesztéseket
+
+2023. január 1-jéig kell megvalósítani.
 
 #### 25. Sarkalatossági záradék
 

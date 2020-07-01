@@ -84,7 +84,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 állhat.
 
-(4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya hivatásos állományú rendőrökből, az általános rendőrségi feladatok ellátására létrehozott szervtől a hivatásos szolgálati viszonyra vonatkozó jogszabály szerint vezényelt rendőrökből, valamint rendvédelmi igazgatási alkalmazottakból és munkavállalókból állhat.
+(4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya hivatásos állományú rendőrökből, vezényelt hivatásos állományúakból, valamint rendvédelmi igazgatási alkalmazottakból és munkavállalókból állhat.
 
 (5) A terrorizmust elhárító szerv személyi állománya hivatásos állományú rendőrökből, vezényelt hivatásos állományúakból, valamint rendvédelmi igazgatási alkalmazottakból és munkavállalókból állhat.
 
@@ -165,11 +165,11 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 - a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 - b) elvégzi
-  - ba) a közszolgálati tisztviselőkről szóló törvény, valamint a kormányzati igazgatásról szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők,
+  - ba) a közszolgálati tisztviselőkről szóló törvény, valamint a kormányzati igazgatásról szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők, továbbá az (1c) bekezdésben meghatározott szervezetnél meghatározott feladatkört ellátó munkavállalók,
   - bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai – ideértve a vezényléssel az ezen rendvédelmi feladatokat ellátó szerveken kívül szolgálatot teljesítő hivatásos állományt is –, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
-  - bc) a bb) alpontban meghatározott szervek kormánytisztviselői, köztisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
+  - bc) a bb) alpontban meghatározott szervek kormánytisztviselői, köztisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, az idegenrendészeti szerv és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
   - bd) a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok, továbbá a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, rendvédelmi igazgatási alkalmazottai,
-  - be) a Kormány által a kormányzati igazgatásról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai felsővezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
+  - be) a Kormány által a kormányzati igazgatásról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai felsővezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek (a ba)–be) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
 - c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését.
 
 (1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
@@ -179,9 +179,20 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - c) feladatai ellátása során költségvetési vagy egyéb pénzeszközök felett, továbbá az állami vagyonnal való gazdálkodás, valamint elkülönített állami pénzalapok, fejezeti kezelésű előirányzatok tekintetében,
 - d) egyedi állami támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
 - e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során,
-- f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, hatósági erkölcsi bizonyítvány kiállításával, valamint egyéni vállalkozói tevékenység nyilvántartásba vételével és törlésével összefüggő ügyekben.
+- f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, hatósági erkölcsi bizonyítvány kiállításával, valamint egyéni vállalkozói tevékenység nyilvántartásba vételével és törlésével összefüggő ügyekben,
+- g) a jármű műszaki megvizsgálásával, illetve környezetvédelmi felülvizsgálatával összefüggő ügyekben.
 
 (1b) Az (1) bekezdés b) pont bc) alpontja alkalmazásában a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet munkavállalójának kell tekinteni annak a kizárólagos állami tulajdonban lévő gazdasági társaságnak a munkavállalóját is, amely gazdasági társaság tekintetében a tulajdonosi jogokat a hivatásos katasztrófavédelmi szerv vagy a büntetés-végrehajtási szervezet gyakorolja.
+
+(1c) Megbízhatósági vizsgálat alá vonható – az (1) bekezdés b) pont bc) alpontjában meghatározott szervek munkavállalóin túl –
+
+- a) a közbeszerzésekről szóló törvény szerinti
+  - aa) fekvőbeteg-szakellátást nyújtó intézmények, illetve speciális finanszírozású gyógyszerek és orvostechnikai eszközök beszerzései vonatkozásában központi beszerző szervként eljáró, valamint
+  - ab) általános hatáskörrel központi beszerző szervként eljáró
+
+szervezetnek a közbeszerzési eljárás során döntés előkészítésére, döntésre vagy ellenőrzésre jogosult munkavállalója,
+
+- b) a közlekedési hatóság által engedélyezett tanúsító szervezettel munkaviszonyban álló műszaki vizsgabiztos.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 
@@ -200,7 +211,9 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 ### Megbízhatósági vizsgálat
 
-7/A. § (1) A megbízhatósági vizsgálat célja annak megállapítása, hogy az azzal érintett eleget tesz-e a jogszabályban előírt hivatali, illetve jogszabályban, kollektív szerződésben, üzemi megállapodásban, valamint munkaszerződésben előírt munkaköri kötelezettségének. Ennek megállapítása érdekében a megbízhatósági vizsgálatot végző szerv a munkakör ellátása során a valóságban is előforduló vagy feltételezhető élethelyzeteket hoz mesterségesen létre. A megbízhatósági vizsgálat során feltárt jogsértés alapján fegyelmi vagy szabálysértési eljárás nem indítható.
+7/A. § (1) A megbízhatósági vizsgálat célja annak megállapítása, hogy az azzal érintett eleget tesz-e a jogszabályban előírt hivatali, illetve jogszabályban, kollektív szerződésben, üzemi megállapodásban, valamint munkaszerződésben előírt munkaköri kötelezettségének. A megbízhatósági vizsgálat során feltárt jogsértés alapján fegyelmi vagy szabálysértési eljárás nem indítható.
+
+(1a) A munkaköri, illetve hivatali kötelezettség teljesítésének ellenőrzése érdekében a megbízhatósági vizsgálatot végző szerv a munkakör ellátása során a valóságban is előforduló vagy feltételezhető élethelyzeteket hoz mesterségesen létre. A megbízhatósági vizsgálat helyszínén az (1) bekezdésben meghatározott cél elérésére alkalmas olyan – sérülést vagy egészségkárosodást nem okozó – tárgy is elhelyezhető, amely jellegénél, rendeltetésénél fogva illeszkedik a kialakítani tervezett mesterséges élethelyzetbe.
 
 (2) A megbízhatósági vizsgálatot – a szükségességének indokolásával – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője a védett szerv tagjával, vagy a védett szerv valamely állománycsoportjához tartozó, meghatározott szolgálati feladatot teljesítő, az elrendeléskor még nem nevesíthető tagjával szemben, határozattal rendeli el. A megbízhatósági vizsgálat elrendeléséről és befejezéséről – az arra vonatkozó határozat, valamint elrendelés esetén a részletes terv, befejezés esetén az összesítő jelentés megküldésével – az ügyészt haladéktalanul tájékoztatni kell. A határozat és a megbízhatósági vizsgálat végrehajtásáról szóló részletes terv alapján az ügyész a megbízhatósági vizsgálat elrendelését két munkanapon belül jóváhagyja, vagy a jóváhagyást megtagadja.
 
@@ -741,7 +754,7 @@ készítése
 
 (5e) Az állam működése szempontjából kiemelten fontos, illetve a Kormány által létesítmény és rendezvénybiztosítási intézkedés céljából kijelölt és a rendőrség által védett, továbbá a rendőrség kezelésében lévő létesítmények rendjének és jogszerű működésének védelme, illetve az abban tartózkodók biztonsága érdekében a létesítmény folyosóin, a közös használatú – a megfigyelés elől az emberi méltóság védelme érdekében el nem zárt – helyiségeiben, valamint a létesítmények területét határoló külső falakon és kapuknál a rendőrség képfelvevőt helyezhet el és felvételt készíthet.
 
-(5f) A rendőrség az (1)–(2), valamint (5)–(5a) bekezdés alapján készített felvételt a törvényben előírt tájékoztatási kötelezettségének teljesítése érdekében személyazonosításra alkalmatlanná tett módon abban az esetben használhatja fel, ha az a felvétel készítésének alapjául szolgáló eljárás eredményességét nem sérti.
+(5f) A rendőrség az (1)–(2), valamint (5)–(5a) bekezdés alapján készített felvételt a törvényben előírt tájékoztatási kötelezettségének teljesítése, illetve az állomány képzése, oktatása érdekében személyazonosításra alkalmatlanná tett módon abban az esetben használhatja fel, ha az a felvétel készítésének alapjául szolgáló eljárás eredményességét nem sérti.
 
 (5g) A rendőrség a rendőri intézkedéssel, illetve az ellátott szolgálati feladattal összefüggésben az intézkedéssel, illetve a szolgálati feladat ellátásával érintett személyről a törvényben előírt tájékoztatási kötelezettségének teljesítése érdekében – az érintett hozzájárulásával – felvételt készíthet.
 
@@ -1653,7 +1666,7 @@ adatok köre
 - c) az adatvédelmi ellenőrzésre feljogosított szerv képviselőjének,
 - d) az adatkezelő szerv vezetőjének,
 - e) az adatátvevő szerv vezetőjének a szerv részéről adatátvételt végzők tevékenységének ellenőrzése céljából,
-- f) bűnüldöző szerveknek a jogosulatlan adatkezelés miatt folytatott büntetőeljárás során a tényállás tisztázása céljából.
+- f) büntetőeljárás során a bíróság, az ügyészség, illetve a nyomozó hatóság részére.
 
 (4) Az adattovábbítási nyilvántartásba való betekintést és az abból történő adattovábbítást dokumentálni kell.
 
@@ -2047,7 +2060,7 @@ bírálja el.
 - e) tömeg: 10 főt meghaladó csoportosulás;
 - f) automatizált keresés: másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely során a válasz is teljesen automatizált módon érkezik;
 - g) fedett nyomozó: a rendőrséghez tartozását, illetve kilétét tartósan leplező, kifejezetten ilyen feladat ellátása érdekében foglalkoztatott rendőr;
-- h) fogvatartott: akit törvény, illetőleg törvény alapján kiadott hatósági határozat alapján a szabad mozgáshoz és a tartózkodási hely szabad megválasztásához való jogában korlátoznak (őrizetbe vett, letartóztatott, közbiztonsági őrizetben lévő, elfogott és előállított, elővezetett);
+- h) fogvatartott: akit törvény vagy törvény alapján kiadott hatósági határozat alapján a szabad mozgáshoz és a tartózkodási hely szabad megválasztásához való jogában a rendőrség korlátoz;
 - i) súlyos bűncselekmény: az a bűntett, amelyet a törvény 5 évi, vagy ennél súlyosabb szabadságvesztéssel fenyeget;
 - j) határterület: a határvonaltól számított az a területsáv, amelyet a Kormány rendeletében meghatározott települések közigazgatási területe alkot, továbbá a nemzetközi forgalom számára megnyitott repülőtér, vasútállomás és kikötő (kikötőhely) külön-külön meghatározott területe;
 - k) határellenőrzés: a rendőrségnek a Közösségi Kódex 2. cikk 9. pontjában meghatározott tevékenysége;

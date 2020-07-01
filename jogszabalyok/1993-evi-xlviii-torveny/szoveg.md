@@ -1381,7 +1381,7 @@ aki a tevékenységére, továbbá a hites bányamérő tekintetében a bányat�
 
 (2) A bányafelügyelet
 
-- a) eljárásaiban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról,
+- a)
 - b) eljárásaiban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
 
 (3) A bányafelügyelet
@@ -1452,7 +1452,7 @@ aki a tevékenységére, továbbá a hites bányamérő tekintetében a bányat�
 
 (6) Az 1. § (7) bekezdése szerinti tevékenységek jogszerűségének vizsgálata a bányafelügyelet hatáskörébe tartozik.
 
-(7) Polgári felhasználású robbanóanyag forgalmazását és polgári robbantási tevékenység végzését érintő eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(7)
 
 44/A. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály földtani szakkérdésben szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a személynek az igénybevételéhez fűződnek, aki a bányafelügyeletnél a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentést tett.
 
@@ -1656,7 +1656,7 @@ bányahatósági felügyelete
 
 (2) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, az átmeneti bányászjáradék szüneteltetésére, megszűnésére és fedezetére, a megszűnéssel kapcsolatos jogkövetkezményekre, valamint az átmeneti bányászjáradékban részesülő személyek öregségi nyugdíjára a korhatár előtti ellátásra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol a korhatár előtti ellátásra vonatkozó szabály korhatár előtti ellátást említ, azon átmeneti bányászjáradékot kell érteni.
 
-(3) Különös méltánylást érdemlő körülmények fennállása esetén a nyugdíjbiztosítási igazgatási szerv az átmeneti bányászjáradék folyósításának a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 83/B. §-a alapján történő szüneteltetése alól kérelemre, méltányosságból mentesítést adhat.
+(3) Különös méltánylást érdemlő körülmények fennállása esetén a nyugdíjbiztosítási igazgatási szerv az átmeneti bányászjáradék folyósításának a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. §-a alapján történő szüneteltetése alól kérelemre, méltányosságból mentesítést adhat.
 
 49/D. § A szénjárandóságra jogosult nyugdíjas bányász kérheti szénjárandóságának pénzbeli megváltását.
 

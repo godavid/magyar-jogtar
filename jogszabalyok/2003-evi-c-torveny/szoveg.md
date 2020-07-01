@@ -1656,7 +1656,13 @@ nem kell alkalmazni.
 
 (3) Az elektronikus hírközlési szolgáltató a kormányzati eseménykezelő központ tájékoztatása alapján köteles értesíteni azon előfizetőjét vagy felhasználóját, amelynek elektronikus hírközlő végberendezése vagy információs rendszere a biztonsági esemény bekövetkezésében érintett vagy azt okozta, vagy az által tudomása szerint fenyegetett.
 
-92/C. §
+### Együttműködés a hivatásos katasztrófavédelmi szervvel
+
+92/C. § (1) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató köteles együttműködni a hivatásos katasztrófavédelmi szerv központi szervével a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvényben foglalt, a lakosság riasztásának és veszélyhelyzeti tájékoztatásának céljából.
+
+(2) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató köteles az elektronikus hírközlési szolgáltatáshoz az (1) bekezdésben szereplő feladat végrehajtásához megfelelő műszaki rendszert létesíteni, és ennek elérhetőségét hálózatában az összekapcsolási pontig biztosítani a hivatásos katasztrófavédelmi szerv központi szerve részére.
+
+(3) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató köteles a (2) bekezdésben meghatározott műszaki rendszeren ingyenesen biztosítani a lakosság riasztását és veszélyhelyzeti tájékoztatását.
 
 ### Űrszegmens használat
 
@@ -2717,6 +2723,12 @@ kiállított számla érvénytelen.
 
 (2) A segélyhívások megválaszolása céljából a telefonszolgáltató a hívó fél azonosítása kijelzésének letiltására, továbbá a helymeghatározási adatok kezelésére vonatkozó hozzájárulásának hiánya vagy visszavonása esetén is köteles a segélyhívó szolgálatok és a segélyszolgálati állomások rendelkezésére bocsátani – külön jogszabályban meghatározott módon – a hívó fél azonosítására, illetve a helymeghatározásra vonatkozó adatokat.
 
+### Riasztási és veszélyhelyzeti SMS-tájékoztatás
+
+145/A. § (1) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató a lakosság riasztásának és veszélyhelyzeti tájékoztatásának érdekében biztosítja ezen információk célba juttatását SMS útján.
+
+(2) Az (1) bekezdés szerinti információk célba juttatásának költsége a szolgáltatót terheli.
+
 ### Tudakozó szolgáltatás
 
 146. § (1) Minden, az előfizetőkhöz telefonszámokat rendelő szolgáltató köteles teljesíteni minden olyan ésszerű kérést, amely a nyilvánosan elérhető tudakozószolgálatok és telefonkönyvek szolgáltatása céljából a megfelelő információk egyeztetett formában, tisztességes, tárgyilagos, költségalapú és megkülönböztetéstől mentes rendelkezésre bocsátására irányul.
@@ -3202,7 +3214,8 @@ tekinthetnek be.
 - e) az e törvény szerinti egyablakos információs pontot működtető szervet, valamint az egyablakos információs pont működésére vonatkozó szabályokat;
 - f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket;
 - g)
-- g) a 127. § (2d) bekezdésében meghatározott szervet.
+- g) a 127. § (2d) bekezdésében meghatározott szervet;
+- h) a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatók és a hivatásos katasztrófavédelmi szerv központi szerve közötti együttműködés rendjét.
 
 (2)
 
@@ -3337,6 +3350,8 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - n) az elektromágneses összeférhetőségre vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/30/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
+
+(3) A 92/C. §, a 145/A. § és a 182. § (1) bekezdésének h) pontja a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
 ### Értelmező rendelkezések
 

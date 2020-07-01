@@ -395,7 +395,7 @@ miatt kerül sor.
 
 ### Álláskeresési járadék mértéke
 
-26. § (1) Az álláskeresési járadék összegét a kérelem benyújtását megelőző, vagy – ha az álláskeresőként való nyilvántartásba vételre későbbi időpontban kerül sor – az álláskeresőnek az álláskeresővé válását megelőző négy naptári negyedévben az ezen időszakkal érintett jogviszonyokban elért, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 19. §-ának (3) bekezdésében meghatározott munkaerő-piaci járulék alapja (a továbbiakban: járulékalap) havi átlagos összegének alapulvételével kell kiszámítani. A havi átlagos összeg kiszámítása során ezen időszak alatt elért járulékalap összegét osztani kell azoknak a hónapoknak a számával, amelyekben az álláskeresőnek volt járulékalapot képező jövedelme. Ha az álláskereső adott hónapban nem az egész hónapra vonatkozóan rendelkezik járulékalappal, akkor a hónapot a havi átlagos összeg kiszámítása során töredékhónapként kell figyelembe venni.
+26. § (1) Az álláskeresési járadék összegét a kérelem benyújtását megelőző, vagy – ha az álláskeresőként való nyilvántartásba vételre későbbi időpontban kerül sor – az álláskeresőnek az álláskeresővé válását megelőző négy naptári negyedévben az ezen időszakkal érintett jogviszonyokban elért, a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 23. § (1) bekezdés a) pontjában meghatározott társadalombiztosítási járulék alapja (a továbbiakban: járulékalap) havi átlagos összegének alapulvételével kell kiszámítani. A havi átlagos összeg kiszámítása során ezen időszak alatt elért járulékalap összegét osztani kell azoknak a hónapoknak a számával, amelyekben az álláskeresőnek volt járulékalapot képező jövedelme. Ha az álláskereső adott hónapban nem az egész hónapra vonatkozóan rendelkezik járulékalappal, akkor a hónapot a havi átlagos összeg kiszámítása során töredékhónapként kell figyelembe venni.
 
 (2) Ha az álláskereső az álláskeresővé válását megelőző négy naptári negyedévben több munkaadóval állt munkaviszonyban, vagy több vállalkozói tevékenységet is folytatott, vagy munkaviszonyban állt és vállalkozói tevékenységet is folytatott, az álláskeresési járadék összegét valamennyi munkaadónál, illetőleg vállalkozói tevékenysége során elért járulékalap alapulvételével kell az (1) bekezdés szerint kiszámítani.
 
@@ -413,7 +413,7 @@ miatt kerül sor.
 
 ### Álláskeresési járadék folyósításának időtartama
 
-27. § (1) Az álláskeresési járadék folyósításának időtartamát (a továbbiakban: folyósítási idő) – az (5) bekezdésben foglaltak, valamint a 25. § (4) bekezdésében foglaltak figyelembevételével – annak az időtartamnak az alapulvételével kell megállapítani, amely alatt az álláskereső az álláskeresővé válást megelőző három év alatt munkaviszonyban töltött, vagy egyéni, illetőleg társas vállalkozói tevékenységet folytatott, feltéve ez utóbbi esetben, hogy vállalkozói tevékenysége alatt járulékfizetési kötelezettségének eleget tett (a továbbiakban együtt: jogosultsági idő). A jogosultsági idő tartamába nem számítható be az az időtartam, amely alatt az álláskereső álláskeresési járadékban vagy vállalkozói járadékban részesült. Az előbbiekben meghatározott hároméves időtartam meghosszabbodik a következő időtartamokkal vagy azok egy részével, ha ezen időtartamok alatt munkaviszony nem állt fenn, vagy az álláskereső jogosultsági időnek minősülő vállalkozói tevékenységet nem folytatott:
+27. § (1) Az álláskeresési járadék folyósításának időtartamát (a továbbiakban: folyósítási idő) – az (5) bekezdésben foglaltak, valamint a 25. § (4) bekezdésében foglaltak figyelembevételével – annak az időtartamnak az alapulvételével kell megállapítani, amely alatt az álláskereső az álláskeresővé válást megelőző három év alatt munkaviszonyban megbízási jogviszonyban töltött, mezőgazdasági őstermelői igazolvánnyal tevékenységet folytatott, feltéve, hogy mezőgazdasági őstermelői tevékenysége alatt járulékfizetési kötelezettségének eleget tett, vagy egyéni, illetőleg társas vállalkozói tevékenységet folytatott, feltéve ez utóbbi esetben, hogy vállalkozói tevékenysége alatt járulékfizetési kötelezettségének eleget tett (a továbbiakban együtt: jogosultsági idő). A jogosultsági idő tartamába nem számítható be az az időtartam, amely alatt az álláskereső álláskeresési járadékban vagy vállalkozói járadékban részesült. Az előbbiekben meghatározott hároméves időtartam meghosszabbodik a következő időtartamokkal vagy azok egy részével, ha ezen időtartamok alatt munkaviszony nem állt fenn, vagy az álláskereső jogosultsági időnek minősülő vállalkozói tevékenységet nem folytatott:
 
 - a)
 - b) a keresőképtelenséggel járó betegség,
@@ -435,6 +435,8 @@ időtartamával.
 (5) A nevelőszülői foglalkoztatási jogviszony abban az esetben minősül az (1) bekezdés szerinti jogosultsági időnek, ha annak időtartama alatt a nevelőszülő álláskeresési ellátásban nem részesül.
 
 (5a) Az (1) bekezdés szerinti jogosultsági időnek minősül a honvédek jogállásáról szóló törvény szerinti önkéntes tartalékos katona (a továbbiakban önkéntes tartalékos katona) tényleges szolgálatteljesítésének időtartama abban az esetben is, ha az önkéntes tartalékos katona ezen időtartam alatt nem áll munkaviszonyban.
+
+(5b) A mezőgazdasági őstermelői igazolvánnyal folytatott tevékenység abban az esetben minősül az (1) bekezdés szerinti jogosultsági időnek, ha annak időtartama alatt a mezőgazdasági őstermelő álláskeresési ellátásban nem részesül.
 
 (6) A folyósítási idő számítása szempontjából a jogosultsági idő csak egyszer vehető figyelembe. Ha az álláskereső az álláskeresési járadék folyósításának számára meghatározott időtartamát teljes mértékben nem vette igénybe, az ismételt folyósításnál a járadékfolyósítás időtartamának alapját képező jogosultsági időt a tényleges járadékfolyósítási időtartamnak megfelelően csökkenteni kell. Ezt a rendelkezést alkalmazni kell a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó személy által, az Európai Gazdasági Térség másik tagállamában igénybevett munkanélküli ellátás tekintetében is.
 
@@ -544,7 +546,7 @@ időtartamával.
 
 (3) Az álláskeresési járadék és álláskeresési segély megállapításához szükséges igazolólap egy példányát a munkaadó az utolsó munkában töltött napon átadja a munkavállalónak, a másik példányát pedig – a munkavállaló részére az álláskeresési járadék és álláskeresési segély megállapíthatósága érdekében – öt évig megőrzi.
 
-36/B. § (1) Az állami adó- és vámhatóság az ellátásra való jogosultság igazolása céljából kérelemre igazolást ad ki az egyéni és társas vállalkozó, valamint a Tbj. 56/A. §-a szerinti járulékfizetés esetén a külföldi vállalkozás által foglalkoztatott természetes személy részére a munkaerő-piaci járulék alapjáról és a járulék befizetéséről, megjelölve a járulékfizetési kötelezettség alól mentes időszakokat is.
+36/B. § (1) Az állami adó- és vámhatóság az ellátásra való jogosultság igazolása céljából kérelemre igazolást ad ki az egyéni és társas vállalkozó, valamint a Tbj. 87. §-a szerinti járulékfizetés esetén a külföldi vállalkozás által foglalkoztatott természetes személy részére a társadalombiztosítási járulék alapjáról és a járulék befizetéséről, megjelölve a járulékfizetési kötelezettség alól mentes időszakokat is.
 
 (2) A 30. § (1) bekezdés d) pontjában meghatározott feltétel teljesülését az állami foglalkoztatási szerv megkeresésére a nyugdíjbiztosítási igazgatási szerv igazolja. Az igazolás kiadásához a nyugdíjbiztosítási igazgatási szerv egyeztetési eljárást nem folytat le.
 
@@ -681,7 +683,7 @@ időtartamával.
 
 39/C. § (1) A Nemzeti Foglalkoztatási Alap bevétele:
 
-- a) az egészségbiztosítási- és munkaerőpiaci járulékból a Nemzeti Foglalkoztatási Alapot a Tbj. szerint megillető rész;
+- a) a társadalombiztosítási járulékból a Nemzeti Foglalkoztatási Alapot a Tbj. szerint megillető rész;
 - b) a szociális hozzájárulási adónak a központi költségvetésről szóló törvényben meghatározott százaléka.
 - c)
 - d)
@@ -1083,7 +1085,7 @@ kezeli.
 - a) a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv az ellátás megállapítása, folyósítása, ellenőrzése céljából a TAJ szám alkalmazásával az a)–c), e) és g) pontjai,
 - b) a szociális igazgatás szerve az aktív korúak ellátása megállapítási és folyósítási feltételei fennállásának megállapítása céljából a TAJ szám alkalmazásával az a)–c) és e) pontjai,
 - c) a központi és területi idegenrendészeti hatóság a külföldiek beutazásához és tartózkodásához kapcsolódó, törvényben meghatározott feladataik ellátása céljából az a)–d) és f)–h) pontjai,
-- d) az állami adó- és vámhatóság az adókötelezettség ellenőrzése, valamint a munkaerő-piaci járulék bevallásának és befizetésének ellenőrzése céljából az a), c), d), e) és g) pontjai,
+- d) az állami adó- és vámhatóság az adókötelezettség ellenőrzése, valamint a társadalombiztosítási járulék bevallásának és befizetésének ellenőrzése céljából az a), c), d), e) és g) pontjai,
 - e) a rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak megállapítása, ellenőrzése céljából a TAJ alkalmazásával az a), valamint c)–i) pontjai,
 
 szerinti adatok igénylésére jogosult.
@@ -1279,8 +1281,8 @@ tekinthet be.
 - p) háztartás: az Szt. 4. §-a (1) bekezdésének f) pontjában meghatározott személyek,
 - q) jövedelem: az Szt. 4. §-a (1) bekezdésének a) pontjában meghatározott jövedelem,
 - r) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa,
-- s) egyéni vállalkozó: a Tbj. 5. §-a (1) bekezdésének e) pontja szerint biztosított, a Tbj. 4. §-ának b) pontjában meghatározott személy,
-- t) társas vállalkozó: a Tbj. 5. §-a (1) bekezdésének f) pontja szerint biztosított, a Tbj. 4. §-ának d) pontjában meghatározott személy,
+- s) egyéni vállalkozó: a Tbj. 6. § (1) bekezdés d) pontja szerint biztosított, a Tbj. 4. § 2. pontjában meghatározott személy,
+- t) társas vállalkozó: a Tbj. 6. § (1) bekezdés e) pontja szerint biztosított, a Tbj. 4. § 21. pontjában meghatározott személy,
 - u) havi átlagjövedelem: a kérelem benyújtásának napját közvetlenül megelőző naptári évben (a továbbiakban: referencia-időszak) elért, munkaerőpiaci járulék alapját képező jövedelem napi átlagának 30-szorosa; ha a jogosult a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel, a kérelem benyújtásának napját megelőző 180 naptári napi jövedelem napi átlagának 30-szorosa. A 180 naptári napi jövedelmet legfeljebb a kérelem benyújtásának napját közvetlenül megelőző naptári év első napjáig lehet figyelembe venni.
 - v)
 - v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
@@ -1356,7 +1358,7 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 
 (2) A 25. § (1) bekezdés b) pont és a 26. § (5) bekezdés rendelkezéseit, a 27. § (1) bekezdésének bevezető szövegrészét, a 27. § (2) és (3) bekezdése és a 30. § rendelkezéseit a 2011. szeptember 1-jét követően benyújtott kérelmekre kell alkalmazni. A hatályba lépést megelőzően, álláskeresési járadék, valamint álláskeresési segély megállapítása iránt benyújtott kérelmeket a kérelem benyújtásának időpontjában hatályos szabályok szerint kell elbírálni.
 
-(3) A 2011. december hónapra vonatkozóan kifizetett ellátások után a Tbj. 2011. december 31-én hatályos 22. §-a alapján fizetendő társadalombiztosítási járulékot a szolidaritási alaprészből kell megfizetni.
+(3) A 2011. december hónapra vonatkozóan kifizetett ellátások után a a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2011. december 31-én hatályos 22. §-a alapján fizetendő társadalombiztosítási járulékot a szolidaritási alaprészből kell megfizetni.
 
 59/D. § (1) A Foglalkoztatási és Szociális Adatbázisban a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény hatályba lépése napján lévő adatállomány tekintetében jogutód az állami foglalkoztatási szerv. Az adatállományból történő adatszolgáltatásra az 57/A. § (3) bekezdés rendelkezései alkalmazhatók.
 
@@ -1364,7 +1366,7 @@ említ, azon az Európai Unióhoz történő csatlakozást követően az EGT tag
 
 (3) A települési önkormányzat jegyzője az általa 2011. december 31-éig megállapított jogosultságokat 2012. április 30-ig rögzíti az adatbázisban.
 
-#### 59/E. §
+59/E. § A 27. § (1) bekezdése szerinti jogosultsági időbe a 2020. július 1-jét követően szerzett a díjazás ellenében egyéb munkavégzésre irányuló jogviszonyban, mezőgazdasági őstermelői tevékenységben töltött időtartam számítható be.
 
 59/F. § E törvénynek az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2017. évi LIV. törvénnyel megállapított 27. § (5a) bekezdését a 2017. július 1-jén vagy azt követően álláskeresővé vált személyek vonatkozásában kell alkalmazni azzal, hogy esetükben a 2017. július 1-jét megelőzően önkéntes tartalékosként teljesített, tényleges katonai szolgálat jogosultsági időnek minősül.
 

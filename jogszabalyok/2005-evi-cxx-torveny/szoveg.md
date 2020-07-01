@@ -216,15 +216,15 @@ azzal, hogy ha a magánszemély általános forgalmi adó fizetésére köteleze
 
 4. § (1) Az ekho alapja a 3. § (2) bekezdésének rendelkezésében meghatározott bevétel, csökkentve – ha a magánszemély általános forgalmi adó fizetésére kötelezett – az általános forgalmi adóval.
 
-(2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhot fizet. Ettől eltérően, ha a magánszemély a kifizetést megelőzően nyilatkozik arról, hogy nyugdíjas, az ekho mértéke 11,1 százalék.
+(2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhót fizet. Ettől eltérően, ha a magánszemély az adóév 183 napját meghaladóan a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerint saját jogú nyugdíjas, az ekho mértéke 9,5 százalék. Ha a magánszemély nyugdíjas, e körülményről a kifizetést megelőzően nyilatkozhat.
 
-(3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 17,5 százalék ekhót fizet.
+(3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 15,5 százalék ekhót fizet.
 
 (4) A kifizető a magánszemélyt terhelő ekhot levonással állapítja meg, ideértve azt az esetet is, ha a kifizetést számla alapján – akár egyéni vállalkozónak, akár más magánszemélynek – teljesíti, kivéve, ha a magánszemély az 5. § (3) bekezdése szerinti nyilatkozatot tesz.
 
 (5) Az (1)–(4) bekezdés rendelkezésétől eltérően az EGT-államban biztosított személy esetében a kifizető ekhot nem fizet, a magánszemélynek juttatott ekho alapul szolgáló bevételből 9,5 százalék ekhot állapít meg és von le.
 
-(6) A (3) bekezdés rendelkezésétől eltérően a kifizető nem fizet ekhót a hivatásos sportoló és a nemzetközi sportszövetség munkavállalója részére az e foglalkozása ellenértékeként juttatott bevétel után.
+(6) A (3) bekezdés rendelkezésétől eltérően a kifizető nem fizet ekhót a hivatásos sportoló, a nemzetközi sportszövetség munkavállalója, és a saját jogú nyugdíjas részére az e foglalkozása ellenértékeként juttatott bevétel után.
 
 ### Az ekho választására vonatkozó nyilatkozat
 
@@ -252,25 +252,26 @@ köteles adóbevallásában feltüntetni és a bevallás benyújtására előír
 
 ### A magánszemélyt terhelő ekho mértékének helyesbítése
 
-7. § Ha a magánszemély a 4. § (2) bekezdése szerinti nyilatkozattételi lehetőségével – annak feltételei fennállta ellenére – nem élt, vagy nyugdíjjárulék fizetésére a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) rendelkezései rendelkezései szerint nem volt kötelezett, a magánszemélyt terhelő ekho nyugdíjjáruléknak minősülő részének megfelelő különbözetet a személyi jövedelemadó bevallásban igényli vissza.
+7. § A nyugdíjas magánszemély az őt terhelő ekho tartozatlanul megfizetett részét a személyi jövedelemadó bevallásában igényli vissza.
 
 ### Az ekhóval teljesített közterhek
 
 8. § A jogszerűen ekhoalapként figyelembe vett bevétel után a közterhek e törvényben szabályozott megfizetésével teljesülnek
 
 - a) a szociális hozzájárulási adóra vonatkozó törvényi rendelkezésekben meghatározott, a kifizetőt terhelő közterheket,
-- b) a Tbj.-ben meghatározott biztosítottat terhelő járulékokat érintő befizetési, illetve levonási, továbbá
+- b) a Tbj.-ben meghatározott biztosítottat terhelő járulékot érintő befizetési, illetve levonási, továbbá
 - c) a kifizetőt és a magánszemélyt terhelő személyi jövedelemadózási kötelezettségek.
 
 ### Az ekho megoszlása
 
-9. § (1) A 4. § (2) bekezdése szerinti, a magánszemélyt terhelő ekhoból az ekhoalap
+9. § (1) A 15 százalékos mértékkel levont, magánszemélyt terhelő ekhoból az ekhoalap
 
-- a) 1,6 százaléka természetbeni egészségbiztosítási járuléknak,
-- b) 9,5 százaléka személyi jövedelemadónak,
-- c) 3,9 százaléka – kivéve, ha a magánszemély nyugdíjas – nyugdíjjáruléknak
+- a) 9,5 százaléka személyi jövedelemadónak,
+- b) 5,5 százaléka társadalombiztosítási járuléknak
 
 minősül.
+
+(1a) A 9,5 százalékos mértékkel levont, magánszemélyt terhelő ekho személyi jövedelemadónak minősül.
 
 (2) A 4. § (3) bekezdése szerint a kifizetőt terhelő ekho és a 6. § szerint a magánszemélyt terhelő különadó szociális hozzájárulási adónak minősül.
 
@@ -284,20 +285,13 @@ minősül.
 
 ### Az ekhóval teljesített közterhek nyilvántartása, átutalása
 
-11. § (1) Az állami adóhatóság a magánszemélyt terhelő 11,1 százalékos mértékkel levont ekho megfizetett összegéből 85,6 százalékot személyi jövedelemadóként tart nyilván, 14,4 százalékot természetbeni egészségbiztosítási járulékként az Egészségbiztosítási Alapnak utal át. Az EGT-államban biztosított személyt terhelő 9,5 százalékos mértékkel levont ekhot személyi jövedelemadóként tartja nyilván. A magánszemélyt terhelő 15 százalékos mértékkel levont ekho megfizetett összegéből az állami adóhatóság
-
-- a) 63,3 százalékot személyi jövedelemadóként tart nyilván, 26 százalékot a Nyugdíjbiztosítási Alapnak, 10,7 százalékot az Egészségbiztosítási Alapnak utal át.
-- b)
-
-(2)–(3)
-
-(4) A 2010. november 1-je és 2011. december 31-e közötti időszakban esedékes ekhora az (1) bekezdés b) pontja nem alkalmazható.
+11. § Az állami adóhatóság a magánszemélyt terhelő 9,5 százalékos mértékkel levont ekho megfizetett összegét személyi jövedelemadóként tartja nyilván. A magánszemélyt terhelő 15 százalékos mértékkel levont ekho megfizetett összegéből az állami adóhatóság 63,3 százalékot személyi jövedelemadóként tart nyilván, 26 százalékot a Nyugdíjbiztosítási Alapnak, 10,7 százalékot az Egészségbiztosítási Alapnak utal át.
 
 ### A magánszemélyt megillető társadalombiztosítási ellátások
 
-12. § Az állami költségvetésbe fizetett ekho alapján a magánszemély egészségügyi szolgáltatásra, baleseti egészségügyi szolgáltatásra, baleseti járadékra és nyugdíjbiztosítási ellátásra jogosult.
+12. § Az állami költségvetésbe fizetett 15 százalékos mértékű ekho alapján a magánszemély egészségügyi szolgáltatásra, baleseti egészségügyi szolgáltatásra, baleseti járadékra és nyugdíjbiztosítási ellátásra jogosult.
 
-12/A. § Az a bevétel, ellenérték, amely az ekho szabályai szerint adózik, a pénzbeli egészségbiztosítási ellátások [Tbj. 14. § (2) bekezdés b) pont] számítása során nem vehető figyelembe.
+12/A. § Az a bevétel, ellenérték, amely az ekho szabályai szerint adózik, a pénzbeli egészségbiztosítási ellátások [Tbj. 5. § (2) bekezdés b) pont] számítása során nem vehető figyelembe.
 
 ### Vegyes rendelkezések
 

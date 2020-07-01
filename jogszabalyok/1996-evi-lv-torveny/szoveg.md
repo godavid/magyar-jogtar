@@ -188,7 +188,7 @@ a tulajdonukban álló földterület – ideértve a medret is – aránya szeri
 
 (2) A földtulajdonosok a vadászterület összes területe – ideértve a medret is – összes tulajdonosának a tulajdoni hányada arányában viselik a vadászati jog gyakorlásával vagy hasznosításával kapcsolatos terheket, valamint részesednek annak hasznaiból.
 
-(3) A tulajdonosi közösség a vadászati jog gyakorlásával, hasznosításával kapcsolatos ügyek intézése során jogokat szerezhet és kötelezettségeket vállalhat, továbbá önállóan perelhet és perelhető. A tulajdonosi közösség (1) bekezdés szerint megválasztott, és a vadászati hatóságnál nyilvántartásba vett – hatósági igazolással rendelkező – képviselője külön meghatalmazás nélkül a tulajdonosi közösség ügyeiben eljárva a tulajdonosi közösség nevében jogokat szerezhet és kötelezettségeket vállalhat, képviseli a tulajdonosi közösséget a vadászati jog gyakorlásával, hasznosításával összefüggő hatósági, illetve bírósági eljárásban és más szervek előtt, valamint harmadik személyekkel szemben.
+(3) A tulajdonosi közösség a vadászati jog gyakorlásával, hasznosításával kapcsolatos ügyek intézése során jogokat szerezhet és kötelezettségeket vállalhat, továbbá önállóan perelhet és perelhető. A tulajdonosi közösséget az (1) bekezdés szerint megválasztott, és a vadászati hatóságnál nyilvántartásba vett – hatósági igazolással rendelkező – képviselő külön meghatalmazás nélkül képviseli. A tulajdonosi közösség ügyeiben eljárva a tulajdonosi képviselő szerezhet jogokat és vállalhat kötelezettségeket a tulajdonosi közösség nevében és javára, továbbá gyakorolja az ügyféli és keresetindítási jogot, képviseli a tulajdonosi közösséget a vadászati jog gyakorlásával, hasznosításával összefüggő hatósági, illetve bírósági eljárásban és más szervek előtt, valamint harmadik személyekkel szemben.
 
 (4) A tulajdonosi közösség képviselője természetes és jogi személy lehet.
 
@@ -358,7 +358,7 @@ rendeltetésű lehet.
 (2) A vadászterület különleges rendeltetését a vadászatra jogosult kérelmére a miniszter – a c) pont esetén ha azzal a természetvédelemért felelős miniszter is egyetért – határozatban állapítja meg, ha
 
 - a) azt a vad génállományának megőrzése szükségessé teszi;
-- b)
+- b) a vadászterületen mintagazdaság működik és a mintagazdaság által bármely jogcímen használt állami földterület nagysága a vadászterület 50%-át meghaladja;
 - c) a természetvédelmi érdekek érvényesítése ezt szükségessé teszi.
 
 (3) A különleges rendeltetésű vadászterületen a vadászati jog gyakorlásával kapcsolatos különleges feltételeket a határozat állapítja meg.
@@ -366,6 +366,8 @@ rendeltetésű lehet.
 (4) A vadászterület különleges rendeltetésének közérdekből történő megállapítását a vadászati hatóság – a (2) bekezdés c) pontja esetén a természetvédelmi szakkérdések vizsgálatával –, illetve védett természeti terület esetén a természetvédelmi hatóság a vadászatra jogosulttal való előzetes egyeztetés után kezdeményezheti. A határozat meghozatalára a (2) és (3) bekezdésben foglaltakat kell alkalmazni.
 
 (5) A vadászterület közérdekből történő különleges rendeltetésű vadászterületté való minősítéséből eredő többletköltség megtérítéséről az azt kezdeményező köteles gondoskodni.
+
+(6) A (2) bekezdés b) pontja esetén a különleges rendeltetést megállapító határozatban az üzemtervi időszak legfeljebb a mintagazdaság által az állammal kötött földhasználati szerződés időtartamára is megállapítható, ha a vadászterület a törvényi előírásoknak egyébként megfelel.
 
 #### 22. §
 
@@ -703,7 +705,7 @@ kell biztosítani.
 
 ### Tájegységi vadgazdálkodási terv
 
-42. § A tájegységi vadgazdálkodási terv az e törvényben foglalt célok megvalósítását szolgáló, húsz évre szóló, hosszú távú vadgazdálkodási előírás.
+42. § A tájegységi vadgazdálkodási terv az e törvényben foglalt célok megvalósítását szolgáló, 2037. február 28. napjáig szóló, hosszú távú vadgazdálkodási előírás.
 
 43. § (1) A tájegységi vadgazdálkodási terv az adott térségre vonatkozóan tartalmazza:
 
@@ -720,7 +722,7 @@ kell biztosítani.
 
 ### Vadgazdálkodási üzemterv
 
-44. § (1) A vadászati jogot a vadászterületre vonatkozóan a tájegységi vadgazdálkodási terv alapján elkészített, húsz évre szóló vadgazdálkodási üzemterv előírásai szerint lehet gyakorolni vagy hasznosítani.
+44. § (1) A vadászati jogot a vadászterületre vonatkozóan a tájegységi vadgazdálkodási terv alapján elkészített, 2037. február 28. napjáig szóló vadgazdálkodási üzemterv előírásai szerint lehet gyakorolni vagy hasznosítani.
 
 (2) A tájegységi vadgazdálkodási terv hatálybalépésétől számított három hónapon belül a tájegységi fővadász elkészíti a vadászatra jogosult részére a vadgazdálkodási üzemtervre vonatkozó javaslatát. A vadászatra jogosult a tájegységi vadgazdálkodási terv hatálybalépésétől számított hat hónapon belül jóváhagyásra benyújtja a vadászati hatóság részére a vadászterületre vonatkozó vadgazdálkodási üzemtervet.
 
@@ -858,6 +860,8 @@ nyilvánosak.
 - a) azzal a személlyel szemben, aki a vadászterületen tartózkodik és a vadállományt veszélyezteti,
 - b) azzal a személlyel szemben, aki vadászterületen vagy annak közvetlen körzetében tartózkodik és a birtokában lévő vad, vadhús, szárnyas vad tojása, illetőleg a trófea jogellenes birtoklásával alaposan gyanúsítható,
 - c) vadvédelmi bírság fizetésének alapjául szolgáló cselekmény alapos gyanúja esetén az elkövetésül használt eszközök – ideértve a járművet is – biztosítása érdekében az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedés és kényszerítő eszközök alkalmazására.
+
+(1a) A hivatásos vadász által alkalmazott intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) Amennyiben a vadászterület vagy annak egy része a honvédelemért felelős miniszter kezelésében, illetve használatában levő területtel egybeesik, akkor – e terület vonatkozásában – a hivatásos vadász az (1) bekezdésben szabályozott tevékenységét csak az illetékes katonai szerv hozzájárulásával gyakorolhatja.
 

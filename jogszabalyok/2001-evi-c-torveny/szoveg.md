@@ -92,7 +92,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (3) Az e törvény rendelkezései alapján benyújtandó okirat benyújtása helyett az ügyfél az okirat által bizonyítani kívánt tényről kizárólag akkor tehet nyilatkozatot, ha e törvény azt megengedi.
 
-8. § Az e törvény hatálya alá tartozó hatósági eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+8. §
 
 9. § (1) Az eljáró hatóság húsz napon belül hiánypótlásra hívja fel a kérelmezőt, ha a kérelmet nem a jogszabályoknak megfelelően nyújtotta be.
 

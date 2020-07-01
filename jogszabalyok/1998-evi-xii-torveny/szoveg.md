@@ -37,8 +37,9 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 - c) útlevélhatóság: az úti okmány kiadására, visszavonására, az utazás e törvény szerint történő engedélyezésére, illetőleg korlátozására feljogosított közigazgatási szerv;
 - d) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 - e) gazdálkodó szervezet: gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
-- f) pótlás: úti okmány kiállítása az útlevélhatóság által kiadott elveszett, eltulajdonított vagy megsemmisült úti okmány helyett, annak érvényességi idején belül a korábbi úti okmánnyal – az okmányazonosító adat és a kiállítás dátumának kivételével – megegyező adattartalommal;
-- g) elektronikus adat: az útiokmány-nyilvántartás számítógépes adathordozón kezelt adatállománya.
+- f) pótlás: úti okmány kiállítása az útlevélhatóság által kiadott elveszett, eltulajdonított vagy megsemmisült magánútlevél, második magánútlevél, szolgálati útlevél és hajós szolgálati útlevél helyett, annak érvényességi idején belül a korábbi úti okmánnyal – az okmányazonosító adat és a kiállítás dátumának kivételével – megegyező adattartalommal;
+- g) elektronikus adat: az útiokmány-nyilvántartás számítógépes adathordozón kezelt adatállománya;
+- h) kapcsolattartási adat: telefonszám, e-mail-cím.
 
 ### II. Fejezet — Az úti okmányra vonatkozó általános szabályok
 
@@ -57,24 +58,40 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 - a) a magánútlevél;
 - b) a hivatalos útlevél.
 
+6/A. § (1) A magánútlevél fajtái:
+
+- a) a magánútlevél,
+- b) a második magánútlevél és
+- c) az ideiglenes magánútlevél.
+
+(2) A hivatalos útlevél fajtái:
+
+- a) a diplomata-útlevél,
+- b) a külügyi szolgálati útlevél,
+- c) a szolgálati útlevél és
+- d) a hajós szolgálati útlevél.
+
 7. § (1) Az útlevél adatoldala tartalmazza
 
-- a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, nemét, állampolgárságát, arcképmását és aláírását;
+- a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, nemét, állampolgárságát, arcképmását és aláírását, ha a 12. életévét betöltötte és nem írásképtelen vagy írástudatlan;
 - b) az útlevél típusát, számát, kiállításának keltét, érvényességi idejét, a kiadó magyar állam kódját, a kiállító hatóság nevét;
 - c) az a) és b) pontban meghatározott adatokból képzett, az állampolgár és az útlevél azonosítását lehetővé tevő, gépi olvasásra alkalmas adatsort.
 
-(2) Az útlevél – kivéve a tizenkét hónapra vagy annál rövidebb érvényességi időre szóló ideiglenes magánútlevél – biometrikus azonosítót tartalmazó tároló elemet (a továbbiakban: tároló elem) tartalmaz. A tároló elem az (1) bekezdésben foglalt adatokat elektronikus formában tartalmazza.
+(2) Az útlevél – az ideiglenes magánútlevél kivételével – biometrikus azonosítót tartalmazó tároló elemet (a továbbiakban: tároló elem) tartalmaz. A tároló elem az (1) bekezdésben foglalt adatokat elektronikus formában tartalmazza.
 
 (3) A tároló elem elektronikus formában tartalmazza – kivéve a (4) bekezdésben foglalt eseteket – a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet 1. cikk (2) bekezdésének második mondata szerinti biometrikus adatot (a továbbiakban: második biometrikus adat).
 
 (4) A tároló elem kizárólag az (1) bekezdésben foglalt adatokat tartalmazza
 
 - a) a közvetlenül alkalmazandó európai közösségi jogi aktusban meghatározott esetben,
-- b) az útlevél iránti kérelem benyújtásakor a második biometrikus adat adására átmenetileg fizikailag képtelen személyek esetében, valamint
+- b) az útlevél iránti kérelem benyújtásakor a második biometrikus adat adására átmenetileg fizikailag képtelen személyek esetében,
 - c) azon személyek esetében, akiknek az útlevél iránti kérelem előterjesztésekor történő személyes megjelenését – a kezelőorvos által kiállított igazolás szerint – egészségi állapotuk nem teszi lehetővé.
-- d)
+- d) az útlevél iránti kérelem benyújtásakor a második biometrikus adat adására fizikailag véglegesen képtelen személyek esetében.
 
-(5) A (4) bekezdés b) és c) pontja alapján kiadott útlevél érvényességi ideje egy év.
+(5) A (4) bekezdés b) és c) pontja alapján kiadott
+
+- a) magánútlevél érvényességi ideje egy év,
+- b) második magánútlevél és hivatalos útlevél érvényességi ideje legfeljebb egy év.
 
 (6) Az ideiglenes magánútlevél adatoldala az (1) bekezdésben meghatározott adatokon kívül tartalmazza az ellenőrző sorszámot, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását. A hazatérés céljából kiállított ideiglenes magánútlevél az (1) bekezdés c) pontjában meghatározott adatot a gépi kiállításhoz szükséges technikai feltételek fennállása esetén tartalmazza.
 
@@ -119,13 +136,13 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 ### A hivatalos útlevél
 
-11. § (1) Hivatalos útlevél: a diplomata-útlevél, a külügyi szolgálati útlevél, a szolgálati útlevél és a hajós szolgálati útlevél. A 7. § (5) bekezdésben foglalt kivétellel a hivatalos útlevél a jogosultságot megalapozó megbízatás vagy jogviszony időtartamára, de legfeljebb öt évig érvényes.
+11. § (1) A 7. § (5) bekezdésben foglalt kivétellel a hivatalos útlevél a jogosultságot megalapozó megbízatás vagy jogviszony időtartamára, de legfeljebb öt évig érvényes.
 
-(2) Hivatalos útlevél – a diplomata-útlevél és a hajós szolgálati útlevél kivételével – kizárólag hivatalos utazás céljára használható fel.
+(2) Hivatalos útlevél – a diplomata-útlevél és a hajós szolgálati útlevél kivételével – kizárólag hivatalos utazás céljára használható fel. A tartós külszolgálat időtartama alatt a külügyi szolgálati útlevél magáncélú utazásokra is igénybe vehető.
 
 (3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke [12. § (1) bekezdés g) pont] diplomata-útlevele esetében az Országgyűlés Hivatala –, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet végzi.
 
-(4) Hivatalos útlevél a (2) bekezdésben foglaltaktól eltérően a tartós külszolgálat időtartama alatt magáncélú utazásokra is igénybe vehető.
+(4)
 
 12. § (1) Diplomata-útlevélre jogosult
 
@@ -260,11 +277,11 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 - a) elvesztését, megsemmisülését vagy eltulajdonítását bejelentették, valamint ha azt elvették, illetve bevonták vagy szabálysértési, illetve büntetőeljárásban lefoglalták,
 - b) személyazonosság megállapítására alkalmatlan, betelt, megrongálódott,
 - c) hamis vagy meghamisították,
-- d) jogosulatlanul használták fel vagy jogosulatlan felhasználás gyanúja alapján szabálysértési vagy büntetőeljárás indult,
+- d) jogosulatlanul tartották birtokban vagy használták fel, illetve jogosulatlan felhasználás gyanúja alapján szabálysértési vagy büntetőeljárás indult,
 - e) az arra való jogosultság megszűnt,
 - f) érvényességi ideje lejárt,
 - g) annak jogosultja külföldre utazási korlátozás alatt áll, a korlátozás időtartama alatt,
-- h) a 19. § (3) bekezdésében foglalt okból visszavonták,
+- h) a 19. § (3) bekezdésében foglaltak szerint visszavonták,
 - i) a használatára jogosult meghalt, vagy
 - j) annak jogosultja az úti okmányáról lemondott.
 
@@ -272,33 +289,40 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (3) Az érvénytelenség tényét az (1) bekezdés a), b) és e)–j) pontja szerinti esetekben haladéktalanul be kell jegyezni az útiokmány-nyilvántartásba.
 
+(4) Az ideiglenes magánútlevél érvénytelenné válik Magyarország vagy a jogosult szokásos tartózkodási helye szerinti ország területére történő belépéssel is.
+
 21. § A 20. § (1) bekezdés e) pontjában meghatározott okból érvénytelenné vált hivatalos útlevelet az útlevélhatóság az útlevél visszavonását elrendelő határozatában elveszettnek nyilvánítja és erről a Kormány által kijelölt útiokmány-nyilvántartó szervet (a továbbiakban: adatkezelő szerv) haladéktalanul értesíti.
 
 ### IV. Fejezet — Az eljárás alapvető szabályai
 
 21/A. § (1) Az útlevélhatóság erre irányuló kérelemre a magánútlevelet, a második magánútlevelet, a szolgálati útlevelet, valamint a hajós szolgálati útlevelet soron kívüli, a magánútlevelet, valamint a második magánútlevelet sürgősségi vagy azonnali eljárás keretében adja ki. A magánútlevél, a második magánútlevél, a szolgálati útlevél, valamint a hajós szolgálati útlevél soron kívüli, valamint a magánútlevél és a második magánútlevél sürgősségi, illetve azonnali eljárásban történő kiadásának eljárási szabályait a Kormány rendeletben állapítja meg.
 
-(2) A magánútlevél, valamint a második magánútlevél soron kívüli, azonnali, illetve sürgősségi eljárásban történő kiadásáért az ügyfél az illetékekről szóló törvényben meghatározott illetéken felül igazgatási szolgáltatási pótdíjat köteles fizetni.
+(2) A magánútlevél, valamint a második magánútlevél soron kívüli, azonnali, illetve sürgősségi eljárásban történő kiadásáért és pótlásáért az ügyfél az illetékekről szóló törvényben meghatározott illetéken felül igazgatási szolgáltatási pótdíjat köteles fizetni.
 
 (3) A magánútlevél és a második magánútlevél azonnali vagy sürgősségi eljárás keretében történő kiállítása esetén, illetve az ideiglenes magánútlevél kiállítása esetén az okmány kiállításának ügyintézési határideje a kérelem benyújtásának napján kezdődik.
 
 21/B. § (1) Az úti okmány iránti kérelem előterjesztésekor – a (2)–(8) bekezdésben meghatározott kivétellel – személyesen kell megjelenni. Az úti okmány iránti kérelem előterjesztésekor – e törvényben meghatározott kivétellel – az elektronikus ügyintézésre vonatkozó rendelkezések nem alkalmazhatóak.
 
-(2) A személyes megjelenés kötelezettsége alól a kérelmező nem mentesül, kivéve, ha kiskorú és útlevelének a második biometrikus adatot nem kell tartalmaznia.
+(2) A személyes megjelenés kötelezettsége alól a kérelmező nem mentesül, kivéve, ha kiskorú és útlevelének a második biometrikus adatot és aláírást nem kell tartalmaznia.
 
 (3) Az úti okmány iránti kérelem meghatalmazott útján is előterjeszthető, ha a személyes megjelenést a kérelmező egészségi állapota – a kezelőorvos által kiállított igazolás szerint – nem teszi lehetővé.
 
 (4) Ha a külföldön élő vagy tartózkodó kérelmező konzuli tisztviselőnél történő személyes megjelenése aránytalan nehézséget okoz, a 7. § (4) bekezdése, valamint a 10. § (1) és (2) bekezdése szerinti kérelmét az útlevélhatósághoz postai úton is benyújthatja. Ebben az esetben a kérelmező személyazonosságát és aláírását az érintett ország gyakorlata szerint erre felhatalmazott külföldi szerv vagy személy hitelesíti. A hitelesítés – nemzetközi egyezmény eltérő rendelkezése hiányában – akkor fogadható el, ha azt a konzuli tisztviselő diplomáciai felülhitelesítéssel látta el.
 
-(5) Ha a kérelmező korábbi úti okmányának kiállítása iránti kérelem benyújtásakor a 32/A. § (1) bekezdés a) pontja alapján a biometrikus adatok tárolásához hozzájárult, a tároló elemet tartalmazó úti okmány elvesztése, eltulajdonítása, megsemmisülése esetén az új úti okmány kiállítása, valamint a második magánútlevél kiállítása iránti kérelem személyes megjelenés, (ideértve a törvényes képviselő vagy meghatalmazott általi képviseletet is) és a biometrikus adatok rendelkezésre bocsátása nélkül, elektronikus kapcsolattartás útján benyújtható az elveszett, eltulajdonított, megsemmisült úti okmány vagy az első magánútlevél érvényességi idején belül. Ebben az esetben az útlevélhatóság által korábban rögzített és kezelt biometrikus adatok felhasználásával kell az útlevelet kiállítani.
+(5) Elektronikus kapcsolattartás útján kérelmezhető
 
-(5a) Ha az úti okmány tároló eleme a kérelmező második biometrikus adatát tartalmazza, az úti okmány pótlására abban az esetben van lehetőség, ha a kérelmező a 32/A. § (1) bekezdés a) pontja alapján a második biometrikus adat tárolásához hozzájárult.
+- a) a magánútlevél pótlása,
+- b) a második magánútlevél kiállítása,
+
+ha a kérelmező a 32/A. § (1) bekezdés a) pontja alapján a második biometrikus adat kezeléséhez hozzájárult.
+
+(5a)
 
 (6) Az (5) bekezdés alapján az elveszett, eltulajdonított vagy megsemmisült úti okmány helyett kiállított új úti okmány érvényességi ideje az eredeti úti okmány érvényességének idejével megegyezik.
 
-(7) Az (5) bekezdés alapján kiállított második magánútlevél érvényességi ideje a 9. § (3) bekezdésében meghatározott időtartamig, legfeljebb azonban az első magánútlevél érvényességi idejéig tart.
+(7)
 
-(8) A kérelmező a magánútlevél és második magánútlevél elvesztésének, eltulajdonításának, megsemmisülésének, illetve megtalálásának tényét – a 32/A. § (1) bekezdés a) pontjában meghatározott hozzájárulástól függetlenül – elektronikus kapcsolattartás útján is bejelentheti.
+(8) A kérelmező a magánútlevél és második magánútlevél elvesztésének, eltulajdonításának, megsemmisülésének, illetve megtalálásának tényét – a 32/A. § (1) bekezdés a) pontjában meghatározott hozzájárulástól függetlenül – elektronikus, illetve hangkapcsolatot biztosító elektronikus úton is bejelentheti.
 
 (9) A szülői hozzájáruló nyilatkozat megtételére elektronikus kapcsolattartás útján is sor kerülhet.
 
@@ -312,7 +336,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (3)
 
-23. § (1) Az érvénytelen úti okmányt – a 20. § (1) bekezdés a) pontjában meghatározott kivétellel – az útlevélhatóság, továbbá a bíróság, az ügyészség a nyomozó hatóság, a rendőrség, a Nemzeti Adó- és Vámhivatal vámszerve, a büntetés-végrehajtási intézet intézkedésre feljogosított tagja, továbbá a magyar külképviselet intézkedésre feljogosított konzuli tisztviselője vagy tiszteletbeli konzuli tisztviselője hivatalos eljárása során elveszi.
+23. § (1) Az érvénytelen úti okmányt – a 20. § (1) bekezdés a) pontjában meghatározott kivétellel – az útlevélhatóság, továbbá a bíróság, az ügyészség a nyomozó hatóság, a rendőrség, a Nemzeti Adó- és Vámhivatal vámszerve, a büntetés-végrehajtási intézet intézkedésre feljogosított tagja, az anyakönyvvezető, továbbá a magyar külképviselet intézkedésre feljogosított konzuli tisztviselője vagy tiszteletbeli konzuli tisztviselője hivatalos eljárása során elveszi.
 
 (2) Az elvett úti okmányt haladéktalanul meg kell küldeni az útlevélhatóságnak.
 
@@ -357,7 +381,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 ### V. Fejezet — Adatkezelés és adatszolgáltatás
 
-24. § (1) Az adatkezelő szerv az útiokmány-nyilvántartásban kezeli:
+24. § (1) Az adatkezelő szerv – az úti okmány valódiságának ellenőrzése, a birtokosa személyazonosságának és állampolgárságának, valamint a külföldre utazáshoz, illetve hazatéréshez való jogosultság igazolása céljából – az útiokmány-nyilvántartásban kezeli:
 
 - a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, nemét, állampolgárságát (a továbbiakban együtt: személyi adat), személyi azonosítóját, személyazonosságát igazoló hatósági igazolványának számát, kézbesítési címét valamint kapcsolattartási adatát,
 - b) az állampolgár arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,
@@ -455,6 +479,8 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (4) Az útlevélhatóság, illetve az adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve, valamint a konzuli tisztviselő részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § (1) bekezdés a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.
 
+(4a) Az útlevélhatóság a közúti közlekedési nyilvántartó szerv és közlekedési igazgatási hatóság részére a közlekedési igazgatási eljárások során a személyazonosítás céljára a 24. § (1) bekezdés a)–b), valamint e) pontjában meghatározott adatokat szolgáltathatja.
+
 (5) Az adatkezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető adatbázisába (a továbbiakban: a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisa) továbbítja az útiokmány-nyilvántartásban érvénytelenítésre került hivatalos útlevél és magánútlevél törvényben meghatározott adatait, ha az okmány nincs az útlevélhatóság, vagy a 20. § (1) bekezdés g) pontja szerinti esetben a visszatartására jogosult szerv birtokában.
 
 (6) Ha az (5) bekezdés szerinti hivatalos útlevél vagy magánútlevél
@@ -482,14 +508,14 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 - a) arra vonatkozóan, hogy az érintett személy rendelkezik-e érvényes úti okmánnyal;
 - b) az úti okmány birtokosának családi és utónevéről – ideértve a születési családi és utónevet is –,
-- c) az úti okmány elvesztésének, eltulajdonításának, megsemmisülésének, illetőleg megkerülésének tényéről, valamint
+- c) az úti okmány elvesztésének, eltulajdonításának, megsemmisülésének, illetőleg megtalálásának tényéről, valamint
 - d) törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére az érintett arcképmásáról és saját kezű aláírásáról is, de a személyazonosítást követően ezen adatokat haladéktalanul törölni kell, kivéve, ha az érintett a további adatkezeléshez hozzájárult, vagy azt törvény lehetővé teszi.
 
 (2) A (2a) és (2b) bekezdésben meghatározott eltérésekkel az útlevélhatóság, illetőleg az adatkezelő szerv az úti okmány okmányazonosítóját megjelölő kérelmező részére a felhasználás céljának és jogalapjának igazolása nélkül is adatszolgáltatást teljesít az úti okmány kiadásáról, cseréjéről, visszavonásáról, érvényességének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, megkerülésének tényéről.
 
 (2a) Ha a kérelmező saját, az útlevélhatóság által nyilvántartott adatáról kér tájékoztatást, a kérelemre és annak teljesítésére az érintettnek a személyes adataihoz való hozzáférésre vonatkozó jogát szabályozó előírásokat kell alkalmazni.
 
-(2b) Ha a kérelmező a saját, az útlevélhatóság által nyilvántartott adatáról hatósági bizonyítvány kiállítását kéri, e törvénynek az adatszolgáltatásra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a hatósági bizonyítvány kiállítását a kérelmező bármely, az útlevélhatóság által nyilvántartott adatáról kérheti.
+(2b) Ha a kérelmező a saját, az útlevélhatóság által nyilvántartott adatáról hatósági bizonyítvány kiállítását kéri, e törvénynek az adatszolgáltatásra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a hatósági bizonyítvány kiállítását a kérelmező – a második biometrikus adat kivételével – bármely, az útlevélhatóság által nyilvántartott adatáról kérheti.
 
 (3) Az útlevélhatóság, valamint az adatkezelő szerv az általa nyilvántartott adatot statisztikai célra felhasználhatja, abból ilyen célra – a (3a) bekezdésben foglalt kivétellel – személyazonosító adat nélkül adatot szolgáltathat.
 
@@ -514,13 +540,13 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 (3) Az útlevélhatóság, valamint az adatkezelő szerv az e törvény alapján teljesített adatszolgáltatásról nyilvántartást vezet, amelyet az adatszolgáltatástól számított öt évig köteles megőrizni.
 
-30. § (1) Az útlevélhatóság és a közreműködő szerv a 24. § (1) bekezdésében meghatározott adatok kezelésére az eljárás befejezéséig jogosult.
+30. § (1) A közreműködő szerv a 24. § (1) bekezdésében meghatározott adatok elektronikus formában történő kezelésére az előtte folyó eljárás befejezéséig jogosult.
 
-(2) Az útlevélhatósági eljárásban keletkezett iratokat az úti okmány érvényességi idejének lejártától számított egy évig kell megőrizni, ezt követően azokat az iratkezelésre irányadó jogszabályok szerint selejtezni kell.
+(2) Az útlevélhatósági eljárásban keletkezett papíralapú dokumentumokat az iratkezelésre irányadó jogszabályok szerint kell kezelni.
 
-31. § (1) Az adatkezelő szerv a 24. § (1) bekezdésében meghatározott adatokat az úti okmány érvényességi idejének lejártától számított tizenöt évig kezeli.
+31. § (1) Az adatkezelő szerv a 24. § (1) bekezdésében meghatározott elektronikus adatokat az úti okmány érvényességi idejének lejártától számított tizenöt évig kezeli.
 
-(2)
+(2) Abban az esetben, ha a kérelem alapján úti okmány nem kerül kiállításra, az adatkezelő szerv a kérelem adatait – bűnüldözési, bűnmegelőzési célból – az eljárás megszüntetését vagy a kérelem elutasítását tartalmazó döntés véglegessé válását követő egy évig kezeli, azt követően haladéktalanul törli.
 
 32. § A hivatalos útlevéllel rendelkező állampolgár személyi adatait és a kiadott útlevél adatait
 
@@ -531,11 +557,11 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 az útlevélnek az arra való jogosultság megszűnését követő bevonásáig kezeli.
 
-32/A. § (1) A tároló elemnek az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatait
+32/A. § (1) A második biometrikus adatot
 
-- a) az útlevélhatóság – az elveszett, eltulajdonított vagy megsemmisült útlevelek pótlására történő útlevél-kiállítás, valamint a második magánútlevél kiállítása iránti kérelemhez történő felhasználás érdekében – a tároló elemet tartalmazó úti okmány érvényességi idejének lejártáig jogosult kezelni, ha ehhez a kérelmező az adatok rögzítésekor írásban hozzájárul, ezt követően az adatokat haladéktalanul törölni kell; hozzájárulás hiányában az útlevélhatóság a tároló elemet kizárólag a tároló elemet tartalmazó úti okmány kiadásáig jogosult kezelni és az adatokat az úti okmány kiadásakor haladéktalanul törölni kell,
-- b) a Rendőrség határforgalom-ellenőrzést végző szerve kizárólag a személyes adatnak a tároló elemből történő olvasásával kezelheti, kizárólag a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet 4. cikk (3) bekezdésében meghatározott célból,
-- c) a Kormány által kijelölt hatóság kizárólag a személyes adatnak a tároló elemből történő olvasásával kezelheti, abból a célból, hogy a kérelmező a tároló elem tartalmát ellenőrizhesse,
+- a) az útlevélhatóság – az elveszett, eltulajdonított vagy megsemmisült magánútlevél pótlása, valamint a második magánútlevél kiállítása iránti kérelemhez történő felhasználás érdekében – a tároló elemet tartalmazó úti okmány érvényességi idejének lejártáig kezeli, ha ehhez a kérelmező az adatok rögzítésekor írásban hozzájárul, ezt követően az adatokat haladéktalanul törli; hozzájárulás hiányában kizárólag a tároló elemet tartalmazó úti okmány kiállításáig kezeli és ezt követően haladéktalanul törli,
+- b) a rendőrség határforgalom-ellenőrzést végző szerve a személyes adatnak a tároló elemből történő olvasásával kezeli, a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet 4. cikk (3) bekezdésében meghatározott célból,
+- c) a Kormány által kijelölt hatóság a személyes adatnak a tároló elemből történő olvasásával kezeli, abból a célból, hogy a kérelmező a tároló elem tartalmát ellenőrizhesse,
 - d) a 27. § (1) bekezdésének és a 28. § (3) bekezdésének alkalmazása során nem lehet átadni vagy továbbítani.
 
 (2) A személyes adatoknak a tároló elemben történő tárolását olyan technikai módszerek alkalmazásával kell megvalósítani, amelyek az elérhető legmagasabb szinten biztosítják azt, hogy a tároló elem tartalmához illetéktelen személyek ne férhessenek hozzá.
@@ -574,12 +600,12 @@ az útlevélnek az arra való jogosultság megszűnését követő bevonásáig 
 
 (2) Felhatalmazást kap a külföldre utazás szabályozásáért felelős miniszter – a b) és a d) pont tekintetében a külpolitikáért felelős miniszterrel, a c) pont tekintetében a személyiadat- és lakcímnyilvántartásért felelős miniszterrel egyetértésben – hogy rendeletben határozza meg
 
-- a) a diplomata- és a külügyi szolgálati útlevél kiadására jogosult útlevélhatóság kivételével az útlevélhatóságok székhelyét és illetékességi területét;
+- a) az ideiglenes magánútlevél, a diplomata-útlevél és a külügyi szolgálati útlevél kiadására jogosult útlevélhatóság kivételével az útlevélhatóságok székhelyét és illetékességi területét;
 - b) Magyarország útlevelének és egyéb úti okmányainak mintáját, az úti okmány iránti kérelem benyújtására szolgáló formanyomtatvány tartalmát;
 - c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, valamint kijelölje azokat az adatfeldolgozónak nem minősülő szerveket, amelyek az úti okmányok előállításában közreműködhetnek;
 - d) a külképviseleteknek az útlevél kiadásával, nyilvántartásával kapcsolatos feladatait;
 - e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél kivételével – az úti okmányok kiadásáért és cseréjéért; valamint az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, a kedvezmények és mentességek körét;
-- f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi, valamint azonnali kiadásáért fizetendő igazgatási szolgáltatási pótdíj összegét és fizetendő igazgatási szolgáltatási pótdíj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
+- f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi, valamint azonnali kiadásáért és pótlásáért fizetendő igazgatási szolgáltatási pótdíj összegét és fizetendő igazgatási szolgáltatási pótdíj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 - g) a 28. § (1), (2) és (2b) bekezdése szerinti adatszolgáltatás iránti kérelem benyújtására szolgáló formanyomtatvány adattartalmát;
 - h)
 

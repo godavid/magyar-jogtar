@@ -7,9 +7,9 @@ a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár elő
 1. § E törvény alkalmazásában
 
 - a) biztosítással járó jogviszony:
-  - aa) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszony,
-  - ab) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
-  - ac) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony;
+  - aa) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszony,
+  - ab) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 6. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
+  - ac) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 6. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony;
 - b) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 - c) korhatár előtti öregségi nyugdíj: az öregségi nyugdíjkorhatárt be nem töltött személynek járó
   - ca) előrehozott öregségi nyugdíj,
@@ -158,9 +158,17 @@ kell érteni.
 
 #### 5. A korhatár előtti ellátás és a szolgálati járandóság folyósításának szüneteltetése
 
-11. § (1) A korhatár előtti ellátás és a szolgálati járandóság keresőtevékenység miatti szüneteltetésére – a (2) bekezdésben meghatározott kivétellel - a Tny. 83/B. § (1) és (2) bekezdését és 83/C. § (1), (2) és (4) bekezdését kell alkalmazni, azzal, hogy öregségi nyugdíj és nyugellátás alatt korhatár előtti ellátást és szolgálati járandóságot kell érteni.
+11. § (1) Ha a korhatár előtti ellátásban vagy szolgálati járandóságban részesülő személy a tárgyévben biztosítással járó jogviszonyban áll, és az általa fizetendő társadalombiztosítási járulék alapja meghaladja a tárgyév első napján érvényes kötelező legkisebb munkabér havi összegének tizennyolcszorosát (a továbbiakban: éves keretösszeg), az éves keretösszeg elérését követő hónap első napjától az adott tárgyév december 31-éig, de legfeljebb az öregségi nyugdíjkorhatár betöltéséig a korhatár előtti ellátás, illetve a szolgálati járandóság folyósítását szüneteltetni kell. Ha a fizetendő társadalombiztosítási járulék alapja az éves keretösszeget a tárgyév decemberében haladja meg, a folyósítás szüneteltetésére nem kerül sor, de a tárgyév december havi korhatár előtti ellátást, illetve szolgálati járandóságot vissza kell fizetni. Az éves keretösszeg elérésének vizsgálatakor a kifizetett társadalombiztosítási járulékalapot képező keresetet, jövedelmet arra az időszakra kell figyelembe venni, amely időszakra vonatkozóan azt kifizették. E § alkalmazása során a fizetendő társadalombiztosítási járulék alapjába nem számít bele a Tny. 83/C. § (1) bekezdése szerinti jogviszonyból származó, a szünetelés időtartama alatt szerzett kereset, jövedelem.
 
-(2) Szolgálati járandóság esetén a Tny. 83/B. § (1) bekezdése szerinti éves keretösszeg számítása során figyelmen kívül kell hagyni az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára figyelemmel kifizetett, a kifizető szerv által – a kifizetést követő hónap tizedik napjáig – a nyugdíjfolyósító szerv számára bejelentett összegű juttatásait.
+(2) Szolgálati járandóság esetén az éves keretösszeg számítása során figyelmen kívül kell hagyni az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára figyelemmel kifizetett, a kifizető szerv által – a kifizetést követő hónap tizedik napjáig – a nyugdíjfolyósító szerv számára bejelentett összegű juttatásait.
+
+(3) A nyugdíjbiztosítási igazgatási szerv a folyósítás szüneteltetéséről, újbóli folyósításáról, valamint a jogalap nélkül felvett korhatár előtti ellátás, illetve szolgálati járandóság visszafizettetéséről – a korhatár előtti ellátásban, illetve szolgálati járandóságban részesülő személynek a Tny. 97. § (5) bekezdése szerint tett bejelentése, illetve az állami adóhatóság által közölt, az éves keretösszegre vonatkozó összesített adatok alapján – hivatalból dönt.
+
+(4) Az újbóli folyósítás során a jogosultat a korhatár előtti ellátás, illetve a szolgálati járandóság szüneteltetést megelőző összegének az időközben végrehajtott emelésekkel megemelt összege illeti meg.
+
+(5) Az e §-ban foglalt rendelkezések nem alkalmazhatók arra a személyre, aki a korhatár előtti ellátásának, illetve szolgálati járandóságának folyósítását a 12. § alapján teljes naptári évre szünetelteti.
+
+11/A. § A korhatár előtti ellátás és a szolgálati járandóság keresőtevékenység miatti szüneteltetésére – a 11. §-ban meghatározottakon túl – a Tny. 83/C. § (1), (2) és (4) bekezdését is alkalmazni kell azzal, hogy öregségi nyugdíj és nyugellátás alatt korhatár előtti ellátást és szolgálati járandóságot kell érteni.
 
 12. § (1) A korhatár előtti ellátás és a szolgálati járandóság folyósítását szüneteltetni kell, ha a jogosult
 
@@ -247,4 +255,4 @@ kérelmezi.
 
 (2) Az (1) bekezdés szerinti személy korhatár előtti ellátását, szolgálati járandóságát, – az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 43/B. § (2) bekezdésében foglaltakra tekintettel – balettművészeti életjáradékát és – a bányászatról szóló 1993. évi XLVIII. törvény 49/C. § (2) bekezdésében foglaltakra tekintettel – átmeneti bányászjáradékát – ha közalkalmazotti jogviszonya továbbra is fennáll – 2013. július 1-jétől kell a Tny. 83/C. §-a szerint szüneteltetni.
 
-27. § Az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2017. évi LIV. törvénnyel módosított 11. § (2) bekezdését a 2017. június 30-át követő időszakban teljesített tényleges szolgálatra tekintettel kifizetett juttatásra kell alkalmazni.
+27. § 2020. évben a Tbj.-vel megállapított 11. § (1) bekezdése szerinti éves keretösszegbe be kell számítani a Tny. 2020. június 30-án hatályos 83/B. §-a szerinti szüneteléshez a 2020. január–június hónapokra figyelembe vett keresetet, jövedelmet is.

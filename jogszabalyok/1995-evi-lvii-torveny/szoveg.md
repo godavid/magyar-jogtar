@@ -266,6 +266,8 @@ kell érteni.
 
 (4) E törvény alkalmazása során a vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottakra a munka törvénykönyvéről szóló 2012. évi I. törvény 53. § (1) és (2) bekezdése nem alkalmazható.
 
+(5) A vízügyi igazgatási szerv a vizek kártételei elleni védelem és védekezés (vízkárelhárítás) során a figyelőszolgálat működtetésével összefüggésben munkaviszony vagy megbízási jogviszony keretében is gondoskodhat a feladatellátásról.
+
 ### Hivatásetikai normák, etikai eljárás
 
 13/A. § (1) A közalkalmazottra vonatkozó hivatásetikai alapelvek különösen a szakszerűség, a megbízhatóság, az erős hivatás- és összetartozás-tudat, a feltétlen és önzetlen segítőkészség, elkötelezettség és lojalitás, a méltóság és tisztesség, az előítélet-mentesség, a pártatlanság és az együttműködési készség.
@@ -769,18 +771,27 @@ hatáskörébe tartozik.
 
 (2) A parti ingatlan tulajdonosa parti ingatlanát az elhabolás ellen jogosult megvédeni, illetve az elhabolt részt vízjogi engedély alapján helyreállítani.
 
-22/A. § (1) A vízügyi igazgatási szerv vizsgálja, hogy van-e az öntözővíz továbbítását akadályozó vízfolyás- vagy csatornaszakasz.
+22/A. § (1) A vízügyi igazgatási szerv a mezőgazdasági vízszolgáltatás, az aszálykár és a vízkár elhárítása érdekében vizsgálja, hogy az öntözővíz továbbítását, a vízelvezetést akadályozza-e vízfolyás- vagy csatornaszakasz.
 
-(2) Ha a vízügyi igazgatási szerv az (1) bekezdés szerinti vizsgálat eredményeképpen megállapítja, hogy van nem állami tulajdonban lévő, az öntözővíz-továbbítást akadályozó vízfolyás- vagy csatornaszakasz, úgy kezdeményezi a vízügyi hatóságnál a vízügyi igazgatási szerv üzemeltetőként, fenntartóként történő kijelölését.
+(2) Ha a vízügyi igazgatási szerv az (1) bekezdés szerinti vizsgálat alapján megállapítja, hogy az öntözővíz továbbítását, a vízelvezetést akadályozó vízfolyás- vagy csatornaszakasz
 
-(3) A vízügyi hatóság – hatvan napon belül lefolytatott hatósági eljárásban – a vízügyi igazgatási szervet üzemeltetőnek és fenntartónak akkor jelöli ki, ha
+- a) nem állami tulajdonban van,
+- b) más nyomvonalon történő elvezetéssel nem váltható ki,
+- c) használata a mezőgazdasági vízszolgáltatásban vagy az aszálykár, vízkár elhárításában közérdekű célú, valamint
+- d) rendeltetésszerű használatához állami vízgazdálkodási fejlesztés szükséges,
 
-- a) megállapítja, hogy az adott nem állami tulajdonban lévő vízfolyásnak, csatornának az öntözésben betöltött szerepe közérdekű, és
-- b) a vízfolyás, csatorna elhanyagolt állapota akadályozza az öntözővíz-továbbítást.
+kezdeményezi a terület tulajdonjogának az állam javára történő megszerzését.
 
-(4) A vízügyi hatóság kijelölő döntése két évig hatályos és fellebbezésre tekintet nélkül végrehajtható.
+(3) A (2) bekezdés alapján állami tulajdonba kerülő vízfolyás- vagy csatornaszakasz közcélú vízilétesítménynek minősül.
 
-(5) A kijelölő döntés a közléstől számítva legfeljebb három hónap időtartamot biztosít arra, hogy a vízügyi igazgatási szerv a vízfolyást, csatornát üzemeltetésre és fenntartásra átvegye.
+(4) A (2) bekezdés szerinti tulajdonszerzés hiányában a vízügyi igazgatási szerv üzemeltetőként, fenntartóként történő kijelölését kezdeményezi a vízügyi hatóságnál az öntözővíz továbbítását, a vízelvezetést akadályozó, nem állami tulajdonban lévő vízfolyás- vagy csatornaszakasz tekintetében. A vízügyi hatóság a vízügyi igazgatási szervet üzemeltetőnek és fenntartónak kijelöli, ha
+
+- a) megállapítja, hogy a nem állami tulajdonban lévő vízfolyás, csatorna használata a mezőgazdasági vízszolgáltatásban vagy az aszálykár, vízkár elhárításában közérdekű célú, és
+- b) a vízfolyás, csatorna elhanyagolt állapota akadályozza a mezőgazdasági vízszolgáltatáshoz vagy az aszálykár, vízkár elhárításához szükséges vízelvezetést, öntözővíz-továbbítást.
+
+(5) A vízügyi hatóság (4) bekezdés szerinti kijelölő döntése két évig hatályos.
+
+(6) A (4) bekezdés szerinti kijelölő döntés a közléstől számítva legfeljebb három hónap időtartamot biztosít arra, hogy a vízügyi igazgatási szerv a vízfolyást, csatornát üzemeltetésre és fenntartásra átvegye.
 
 22/B. § Ha az öntözővíz továbbítását akadályozó vízilétesítmény tulajdonosa a 22/A. § szerinti hatósági kijelölés helyett üzemeltetési szerződést köt a vízügyi igazgatósággal a vízfolyás, csatorna üzemeltetésére és fenntartására, úgy a vízügyi igazgatóság a kijelölés iránti kérelmet visszavonja és a vízügyi hatóság a folyamatban lévő eljárást megszünteti, valamint, ha a kijelölés már megtörtént, a vízügyi hatóság a döntést visszavonja. A szerződéskötésről a vízügyi igazgatási szerv tizenöt napon belül tájékoztatja a vízügyi hatóságot.
 
@@ -856,7 +867,7 @@ hatáskörébe tartozik.
 
 csak írásban terjeszthető elő.
 
-28/C. § A vízügyi hatósági eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+28/C. §
 
 28/D. § (1) A kérelemre indult eljárás megindulásáról
 
@@ -901,7 +912,7 @@ csak írásban terjeszthető elő.
 - a) a kivitelező kétséget kizáróan bizonyítja, hogy a jogellenes létesítésért való felelősség nem őt terheli, vagy
 - b) a kivitelező személye nem ismert.
 
-(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő vagy üzemeltető, aki az egyes belügyi tárgyú és más kapcsolódó törvények módosításáról szóló 2018. évi CXXI. törvény (a továbbiakban: Vgtv.mód2.) hatálybalépését megelőzően engedély nélkül vagy engedélytől eltérően létesített vagy üzemeltet felszín alatti vízkivételt biztosító vízilétesítményt, ha a vízjogi fennmaradási engedélyezési eljárást 2020. december 31-ig kérelmezi.
+(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő vagy üzemeltető, aki az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény (a továbbiakban: Vgtv.mód3.) hatálybalépését megelőzően engedély nélkül vagy engedélytől eltérően létesített vagy üzemeltet felszín alatti vízkivételt biztosító vízilétesítményt, ha a vízjogi fennmaradási engedélyezési eljárást 2023. december 31-ig kérelmezi.
 
 (8) Nem szabható ki vízgazdálkodási bírság
 
@@ -1467,7 +1478,7 @@ való megfelelést szolgálja.
 
 (5) A közalkalmazott és a vezető a Kjt. 39. § (3) és (4) bekezdése szerinti címek viselésére 2018. január 1-jét követően is jogosult.
 
-45/M. § E törvénynek a Vgtv.mód2.-vel megállapított 29. § (7) bekezdését a Vgtv.mód2. hatálybalépésekor első fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell.
+45/M. § E törvénynek a Vgtv.mód3.-mal megállapított 29. § (7) bekezdését a Vgtv.mód3. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 ### 1. számú melléklet az 1995. évi LVII. törvényhez
 

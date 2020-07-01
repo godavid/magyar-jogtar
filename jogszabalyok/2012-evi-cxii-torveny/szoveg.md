@@ -36,7 +36,7 @@ a nyugdíjbiztosítási átutalással érintett időre nem jogosult.
 
 3. § (1) A társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás összegének meghatározása során – az (5) bekezdésben nem említett esetben – a nyugdíjbiztosítási átutalásra jogosító jogviszony létrejöttének napját megelőző napig terjedő időre meg kell állapítani a figyelembevételre kerülő szolgálati időt és keresetet, jövedelmet. Ennek során a társadalombiztosítási nyugellátásra irányadó szabályokat kell megfelelően alkalmazni azzal, hogy
 
-- a) szolgálati időként és keresetként, jövedelemként nem vehető figyelembe az az idő, illetve kereset, jövedelem, amely után nyugdíjjárulék-fizetési kötelezettség nem állt fenn, és
+- a) szolgálati időként és keresetként, jövedelemként nem vehető figyelembe az az idő, illetve kereset, jövedelem, amely után a 2020. július 1-jét megelőző időszakra nyugdíjjárulék, a 2020. július 1-jétől kezdődő időszakra társadalombiztosítási járulék vagy nyugdíjjárulék (a továbbiakban együtt: nyugdíjjárulék) fizetésének kötelezettsége nem állt fenn, és
 - b) a figyelembevételre kerülő szolgálati idő teljes tartamára a járulékfizetés alapjául szolgáló keresetet, jövedelmet kell figyelembe venni, a 2013. január 1-jét megelőző időszakra legfeljebb a járulékfizetési felső határnak megfelelő összegig.
 
 (2) Az uniós tisztviselőnek az (1) bekezdés alapján figyelembevételre kerülő éves kereseteit, jövedelmeit évenként a nyugellátások megállapítása során alkalmazott valorizációs szorzószámokkal (a továbbiakban: valorizációs szorzószám) meg kell szorozni. A kiszámítás során a nyugdíjbiztosítási átutalás évében alkalmazandó valorizációs szorzószámokat kell figyelembe venni.
@@ -161,7 +161,9 @@ rendeletben állapítsa meg.
 
 #### 11. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-#### 19–20. §
+#### 19. §
+
+#### 20. §
 
 21. § (1)
 
@@ -175,11 +177,19 @@ rendeletben állapítsa meg.
 
 #### 22. §
 
-#### 23–25. §
+#### 23. §
 
-#### 26–27. §
+#### 24. §
 
-#### 28–29. §
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
 
 30. § (1)
 
@@ -201,7 +211,15 @@ rendeletben állapítsa meg.
 
 #### 33. §
 
-#### 34–38. §
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
 
 #### 13. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosítása
 
@@ -209,7 +227,11 @@ rendeletben állapítsa meg.
 
 #### 14. A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény módosítása
 
-#### 40–42. §
+#### 40. §
+
+#### 41. §
+
+#### 42. §
 
 ### 1. melléklet a 2012. évi CXII. törvényhez
 

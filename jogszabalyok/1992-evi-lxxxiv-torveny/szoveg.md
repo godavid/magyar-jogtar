@@ -54,7 +54,7 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 (3) A kiadások fedezetét a következő bevételek képezik:
 
 - a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, munkáltatói nyugdíjbiztosítási járulék;
-- b) 1. a biztosítotti nyugdíjjárulék, a kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó személyek esetében, 2. a magánnyugdíjpénztár tagja által fizetett nyugdíjjárulék, 3. 4. a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a gyermeknevelési támogatás, a gyermekek otthongondozási díja, az ápolási díj után fizetett nyugdíjjárulék, 5. 6. az álláskeresési támogatásból fizetett nyugdíjjárulék;
+- b) 1. a biztosított által fizetett társadalombiztosítási járulékból a Nyugdíjbiztosítási Alapot megillető rész, a kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó személyek esetében, 2. a magánnyugdíjpénztár tagja által fizetett nyugdíjjárulék, 3. 4. a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a gyermeknevelési támogatás, a gyermekek otthongondozási díja, az ápolási díj után fizetett nyugdíjjárulék, 5. 6. az álláskeresési támogatásból fizetett nyugdíjjárulék;
 - c) egyéb járulékok és hozzájárulások, ideértve 1. a szolgálati idő megszerzésére kötött megállapodás alapján befizetett nyugdíjjárulékot, 2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget, 3. 4. 5. 6. 7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
 - d) a Nemzeti Adó- és Vámhivatalnál (a továbbiakban: az állami adóhatóság) kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 - e) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 91. §-a szerinti mulasztási bírság;
@@ -85,7 +85,7 @@ kiadásainak fedezetére szolgál.
 (3) A kiadások fedezetét a következő bevételek képezik:
 
 - a) a szociális hozzájárulási adónak az Egészségbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, a munkáltatói egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
-- b) a biztosított által fizetett egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
+- b) a biztosított által fizetett társadalombiztosítási járulék Egészségbiztosítási Alapot megillető része;
 - c) egyéb járulékok és hozzájárulások, ideértve 1. az egészségügyi szolgáltatási járulékot, 2. az egészségbiztosítási ellátásokra kötött megállapodás alapján fizetett járulékot, 3. a munkáltatói táppénz-hozzájárulást, 4. az Efo.tv. 7. §-a alapján a kincstár által az Egészségbiztosítási Alapnak átutalt összeget, 5. 6.
 - d) az egészségügyi hozzájárulás;
 - e) az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;

@@ -78,7 +78,7 @@ kiadása érdekében.
 
 ### Az egyszerűsített foglalkoztatáshoz kapcsolódó közteherfizetés
 
-7. § (1) Az egyszerűsített foglalkoztatás keretében alkalmazott személy utáni személyi jövedelemadó- és járulékfizetési kötelezettségekre – a (2) bekezdésben meghatározott kivételekkel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja.tv.), illetve a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) rendelkezéseit kell alkalmazni.
+7. § (1) Az egyszerűsített foglalkoztatás keretében alkalmazott személy utáni személyi jövedelemadó- és járulékfizetési kötelezettségekre – a (2) bekezdésben meghatározott kivételekkel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja.tv.), illetve a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) rendelkezéseit kell alkalmazni.
 
 (2) A személyi jövedelemadó- és járulékfizetési kötelezettségekre az egyszerűsített foglalkoztatás esetén
 
@@ -92,7 +92,7 @@ kiadása érdekében.
 (3) Az (1) és (2) bekezdésben szabályozott közteher megfizetésével nem terheli
 
 - a) a munkáltatót szociális hozzájárulási adó, szakképzési hozzájárulás és rehabilitációs hozzájárulás, valamint az Szja.tv.-ben a munkáltatóra előírt adóelőleg-levonási kötelezettség,
-- b) a munkavállalót nyugdíjjárulék (tagdíj), egészségbiztosítási és munkaerő-piaci járulékfizetési, és személyi jövedelemadóelőleg-fizetési kötelezettség.
+- b) a munkavállalót társadalombiztosítási járulékfizetési, és személyi jövedelemadóelőleg-fizetési kötelezettség.
 
 (4) Ha a munkáltató a (2) bekezdésben szereplő közteherrel terhelt munkára az 1. § (2)–(4) bekezdésében, a 2. § 1–3. pontjában és a 4. § (2) bekezdésében meghatározott létszám-, kereseti-, illetve időkorlátok túllépésével létesít, illetve tart fenn e törvény szerinti munkaviszonyt, attól a naptól, hogy az előzőek szerinti feltételek nem teljesülnek, a munkáltató a munkavállalóira nem alkalmazhatja az (1)–(3) bekezdés rendelkezéseit. A munkáltató a 7. § (1) bekezdésében meghatározott jogszabályokat köteles továbbá alkalmazni az előzőek szerinti feltételek megsértése feltárásának időpontjától annyi ideig, ameddig az (1)–(3) bekezdést jogosulatlanul alkalmazta.
 

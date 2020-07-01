@@ -181,8 +181,11 @@ nincs helye.
 19. § (1) Az eljárás akkor indul, amikor a jegyző
 
 - a) a halottvizsgálati bizonyítvány alapján,
-- b) az a) pont szerinti irat hiányában a holtnak nyilvánító vagy a halál tényét megállapító végzés alapján, vagy
-- c) olyan személynek a bejelentése alapján, akinek a hagyatéki eljárás megindításához jogi érdeke fűződik, az örökhagyó haláláról értesül.
+- b) az a) pont szerinti irat hiányában a holtnak nyilvánító vagy a halál tényét megállapító végzés alapján,
+- c) olyan személynek a bejelentése alapján, akinek a hagyatéki eljárás megindításához jogi érdeke fűződik, vagy
+- d) az ingatlanügyi hatóság bejelentése alapján
+
+az örökhagyó haláláról értesül.
 
 (2) Az (1) bekezdés c) pontja szerinti bejelentésben elő kell adni azokat az adatokat, amelyek a bejelentőnek a hagyatéki eljárás megindításához fűződő jogi érdekét valószínűsítik, valamint azokat, amelyek a hagyatéki eljárás lefolytatására való joghatóság (különösen az örökhagyó szokásos tartózkodási helye) és illetékesség megállapításához szükségesek. A bejelentéshez csatolni kell a joghatóság és az illetékesség megállapításához szükséges adatokat alátámasztó, valamint a bejelentés szerinti örökhagyó halálának tényét igazoló okiratokat, vagy elő kell adni és valószínűsíteni kell azokat a körülményeket, amelyek miatt ezeknek az okiratoknak a csatolása elháríthatatlan akadályba ütközik.
 

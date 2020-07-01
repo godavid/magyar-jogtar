@@ -39,7 +39,7 @@ részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontb
 - 6. közreműködő: az a természetes személy, aki az állami vagy közfeladatot ellátó szerv feladat- és hatáskörébe tartozó ügyben segítséget nyújt, és ehhez minősített adat felhasználása is szükséges;
 - 7. felhasználás: állami vagy közfeladat végrehajtása érdekében a felhasználói engedély kiadására jogosult vezető által, a felhasználói engedélyben meghatározott, a minősített adatra vonatkozó rendelkezési jogosultságok gyakorlása;
 - 8. felhasználói engedély: állami vagy közfeladat végrehajtása érdekében a minősítő, illetve a felhasználói engedély kiadására jogosult vezető által, a minősített adat felhasználására jogosult személy részére írásban adott felhatalmazás, a minősített adattal kapcsolatos egyes rendelkezési jogosultságok meghatározásával;
-- 9. megismerési engedély: a minősítő által a jogosult személyazonosító adatainak feltüntetésével, a nemzeti minősített adattal kapcsolatos rendelkezési jogosultságok megjelölésével, a nemzeti minősített adat megismerésére írásban adott felhatalmazás;
+- 9. megismerési engedély: a minősítő által az érintett személyazonosító adatainak feltüntetésével, a nemzeti minősített adattal kapcsolatos rendelkezési jogosultságok megjelölésével, az érintett személyes adatait tartalmazó nemzeti minősített adat megismerésére írásban adott felhatalmazás;
 - 10. titoktartási nyilatkozat: a minősített adatot felhasználó vagy megismerő személy nyilatkozata arról, hogy a minősített adat védelmére vonatkozó szabályokat megismerte, és az őt terhelő titoktartási kötelezettséget tudomásul vette;
 - 11. személyi biztonsági tanúsítvány: az a tanúsítvány, amely érvényességi idejének lejártáig meghatározza, hogy valamely természetes személy milyen legmagasabb minősítési szintű adat felhasználására kaphat felhasználói engedélyt;
 - 12. elektronikus adatkezelő rendszer: minősített adat elektronikus, elektromagnetikus vagy optikai úton történő kezelésére alkalmas berendezés, módszer és eljárás együttese;
@@ -303,7 +303,7 @@ csak akkor vehet részt, ha a Nemzeti Biztonsági Felügyelet a megfelelő szint
 
 - a) egyszerűsített telephely biztonsági tanúsítványt,
 - b) amennyiben a minősített adat védelmének fizikai, adminisztratív és elektronikus biztonsági feltételei is kialakításra kerültek, telephely biztonsági tanúsítványt,
-- c) a Paksi Atomerőmű kapacitásnak fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény (a továbbiakban: 2015. évi VII. törvény) hatálya alá tartozó gazdálkodó szervezet esetében az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló kormányrendeletben meghatározott telephely biztonsági tanúsítványt
+- c) a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény (a továbbiakban: 2015. évi VII. törvény) hatálya alá tartozó gazdálkodó szervezet esetében telephely biztonsági tanúsítványt vagy egyszerűsített telephely biztonsági tanúsítványt
 
 ad ki.
 
@@ -311,10 +311,7 @@ ad ki.
 
 (4) Egyszerűsített telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet „Bizalmas!” vagy annál magasabb minősítési szintű adatot a saját székhelyén, telephelyén és fióktelepén nem kezelhet.
 
-(4a) A (2) bekezdés c) pontja szerinti telephely biztonsági tanúsítvány alapján a gazdálkodó szervezet
-
-- a) saját telephelyén minősített adatot nem kezelhet,
-- b) a 2015. évi VII. törvény 3. § (1) bekezdésében meghatározott szerződés, illetve alvállalkozói szerződés megkötésére jogosult.
+(4a)
 
 (5) „Korlátozott terjesztésű!” minősítési szintű adat gazdálkodó szervezetnek történő átadását a minősített adatot kezelő szerv vezetője akkor engedélyezheti, ha meggyőződött arról, hogy a gazdálkodó szervezet a minősített adat személyi, fizikai, adminisztratív és elektronikus biztonsági feltételeinek megfelel.
 
@@ -326,6 +323,7 @@ ad ki.
 
 - a) adja ki a szerven belül a nemzeti minősített adatot felhasználók, valamint a szervvel közreműködők személyi biztonsági tanúsítványát,
 - b) a szükséges biztonsági feltételek hiánya vagy megszűnése esetén a személyi biztonsági tanúsítvány kiállítását megtagadja, illetve a már kiadott tanúsítványt visszavonja.
+- c) adja ki az igazolást a nemzeti és külföldi minősített adatot felhasználó személyi biztonsági tanúsítványairól más hazai minősített adatot kezelő szervnél történő minősített adat felhasználása céljából, illetve a szükséges biztonsági feltételek hiánya vagy megszűnése esetén visszavonja.
 
 ### Felhasználói engedély
 
@@ -374,7 +372,7 @@ ad ki.
 - a) a minősített adatot kezelő szervnél engedélyezi a minősített adatok kezelését, jogosult a kiadott engedély módosítására vagy visszavonására,
 - b) engedélyezi a minősített adatok kezelésére szolgáló elektronikus rendszerek használatba vételét, jogosult a kiadott engedély módosítására vagy visszavonására,
 - c) nyilvántartja az a) és b) pontban meghatározott engedéllyel rendelkező minősített adatot kezelő szerveket nevük és székhelyük feltüntetésével,
-- d)
+- d) nyilvántartja a minősített adatot kezelő szervek biztonsági vezetőinek, valamint helyettes biztonsági vezetőinek nevét, hivatali telefonszámát, hivatali e-mail-címét és munkahelyének nevét,
 - e) ellátja a rejtjeltevékenység hatósági engedélyezését és felügyeletét,
 - f) egyetértési jogot gyakorol a minősített adatot kezelő szervek biztonsági vezetőinek kinevezésével kapcsolatban,
 - g) ellenőrzi a minősítők minősítési gyakorlatát, ennek eredményeként egyedi vagy általános ajánlást bocsáthat ki az egységes minősítési gyakorlat kialakítása érdekében, illetve kezdeményezheti a minősítés felülvizsgálatát,
@@ -420,6 +418,12 @@ ad ki.
 (4) A bíróság, az ügyészség, a nyomozó hatóság és a nemzetbiztonsági szolgálatok megkeresésére vagy adatkérésére – a rájuk vonatkozó törvényben meghatározott feladataik ellátásához, az ott meghatározott körben – a Nemzeti Biztonsági Felügyelet adatot szolgáltat.
 
 (5) A Nemzeti Biztonsági Felügyelet az (1) bekezdés a) pont aa)–ad) alpontjában és b) pontjában szereplő adatokat – a nemzetközi kötelezettségvállalások alapján – továbbíthatja a külföldi adatkezelők részére.
+
+(6) A Nemzeti Biztonsági Felügyelet a biztonsági vezetőkkel és a helyettes biztonsági vezetőkkel jogszabályban meghatározott feladatok végrehajtása érdekében történő kapcsolattartás céljából kezeli a minősített adatot kezelő szervek biztonsági vezetőinek, valamint a helyettes biztonsági vezetőinek nevét, hivatali telefonszámát, hivatali e-mail-címét és munkahelyének nevét.
+
+(7) A Nemzeti Biztonsági Felügyelet a (6) bekezdése szerinti adatokat a biztonsági vezetői, valamint a helyettes biztonsági vezetői kinevezés megszűnéséig kezeli.
+
+(8) A Nemzeti Biztonsági Felügyelet a (6) bekezdése szerinti adatokat a minősített adatot kezelő szervek részére továbbíthatja.
 
 ### A biztonsági vezető és a helyi biztonsági felügyelet
 

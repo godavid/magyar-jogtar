@@ -25,7 +25,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 (3) Az adórendszeren kívüli keresettel összefüggésben bevallási kötelezettség sem a foglalkoztatót, sem a foglalkoztatottat nem terheli.
 
-(4) Ha a foglalkoztató elmulasztja a regisztrációs díjfizetési kötelezettségét és/vagy a bejelentési kötelezettségét teljesíteni, a mulasztással érintett naptári hónapokban a háztartási alkalmazottnak kifizetett bevétel teljes összege után a személyi jövedelemadóról szóló törvény és a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint az adót és a járulékokat meg kell fizetni. Ha a mulasztás a foglalkoztató érdekkörére vezethető vissza, a magánszemélyt terhelő közterheket is a foglalkoztató köteles megfizetni.
+(4) Ha a foglalkoztató elmulasztja a regisztrációs díjfizetési kötelezettségét és/vagy a bejelentési kötelezettségét teljesíteni, a mulasztással érintett naptári hónapokban a háztartási alkalmazottnak kifizetett bevétel teljes összege után a személyi jövedelemadóról szóló törvény és a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény rendelkezései szerint az adót és a járulékokat meg kell fizetni. Ha a mulasztás a foglalkoztató érdekkörére vezethető vissza, a magánszemélyt terhelő közterheket is a foglalkoztató köteles megfizetni.
 
 3. § (1) Háztartási alkalmazott foglalkoztatása esetén a foglalkoztató az állami adóhatóságnak havonta vagy több hónapra előre a munkavégzés megkezdése előtt bejelenti a (2) bekezdés szerinti adatokat. A foglalkoztató, választása szerint, bejelentési kötelezettségét
 
@@ -52,7 +52,7 @@ teljesíti.
 
 (2) A foglalkoztató az (1) bekezdés szerinti regisztrációs díjat az állami adóhatóság által e célra rendszeresített fizetési számlára történő készpénzbefizetéssel, vagy az állami adóhatóság ügyfélszolgálatain bankkártyával, vagy ha pénzforgalmi számlával rendelkezik, átutalással a bejelentés napját magában foglaló hónapot követő hó 12. napjáig fizeti meg.
 
-(3) Az (1) bekezdés szerinti regisztrációs díj megfizetése társadalombiztosítási ellátásra való jogosultságot nem keletkeztet. A háztartási munkára e fejezet szerint foglalkoztatott természetes személy nem minősül a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerinti biztosítottnak.
+(3) Az (1) bekezdés szerinti regisztrációs díj megfizetése társadalombiztosítási ellátásra való jogosultságot nem keletkeztet. A háztartási munkára e fejezet szerint foglalkoztatott természetes személy nem minősül a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerinti biztosítottnak.
 
 (4) A regisztrációs díj a központi költségvetés bevétele.
 

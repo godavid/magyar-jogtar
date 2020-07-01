@@ -302,62 +302,86 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 ### Térségi Fejlesztési Tanács
 
-15. § (1) A régió határokon, illetve a megyehatárokon túlterjedő, továbbá egyes kiemelt területfejlesztési feladatai ellátására a megyei közgyűlések a szervezeti és működési szabályzat elfogadásával térségi fejlesztési tanácsot hozhatnak létre. A térségi fejlesztési tanács jogi személy, amelyet megalakulását követően a kincstár vesz nyilvántartásba.
+15. § (1) Az e törvényben foglalt egyes feladatok ellátása érdekében a megyei önkormányzat önállóan, vagy a szomszédos megye megyei önkormányzatával közösen térségi fejlesztési tanács létrehozását kezdeményezheti.
 
-(1a) A térségi fejlesztési tanács működésével kapcsolatos gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni.
+(2) A térségi fejlesztési tanács jogi személy, amelyet megalakulását követően a Magyar Államkincstár vesz nyilvántartásba.
 
-(2) A területfejlesztési koncepció és program kidolgozását, a területrendezési terv készítésében való közreműködést és más közös területfejlesztési feladatokat a Balaton kiemelt üdülőkörzete térségében a Balaton Fejlesztési Tanács látja el. Ennek keretében:
+(3) A térségi fejlesztési tanács tagjai:
 
-- a) vizsgálja és értékeli a kiemelt térség társadalmi és gazdasági helyzetét, környezeti állapotát, adottságait, a vizsgálatok során felhasznált információkat és a vizsgálatok eredményeit a területi információs rendszer rendelkezésére bocsátja,
-- b) az országos fejlesztési és területfejlesztési koncepcióval összhangban kidolgozza és a Kormánynak elfogadásra benyújtja a kiemelt térség területfejlesztési koncepcióját, illetve – a kiemelt térség területrendezési tervének figyelembevételével – a kiemelt térség területfejlesztési programját,
-- c) előzetesen véleményezi az országos, valamint a kiemelt térséget érintő ágazati fejlesztési koncepciókat és programokat,
-- d) figyelemmel kíséri az operatív programok kiemelt térségben jelentkező feladatainak végrehajtását, külön döntés alapján közreműködik azok végrehajtásában.
+- a) a térségi fejlesztési tanács illetékességi területén működő megyei közgyűlés elnöke és a megyei közgyűlés egy további képviselője, valamint
+- b) az operatív programok végrehajtásáért felelős miniszterek egy-egy képviselője.
 
-(3)–(7)
+(4) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz:
 
-(8) A térségi fejlesztési tanács tagjai
+- a) a térségi fejlesztési tanács illetékességi területe szerinti
+  - aa) területi gazdasági kamarák egy-egy képviselője,
+  - ab) megyei kormányhivatalok vezetője és állami főépítésze, valamint
+- b) a területfejlesztés stratégiai tervezéséért felelős miniszter képviselője,
+- c) a gazdaságfejlesztésért felelős miniszter képviselője.
 
-- a) a tanács illetékességi területén működő megyei közgyűlések elnökei,
-- b) az érintett megyei közgyűlés egy-egy képviselője, továbbá
-- c) a Balaton Fejlesztési Tanács tekintetében: a területfejlesztés stratégiai tervezéséért felelős miniszter képviselője, valamint
-- d) az ágazati operatív programok végrehajtásáért felelős miniszterek egy-egy képviselője.
+(5) A térségi fejlesztési tanács üléseire a tanács döntése alapján egyéb, a feladatellátásban érdekelt szervezetek is meghívást kaphatnak.
 
-(9)
+(6) A térségi fejlesztési tanács a tagjai közül elnököt és alelnököt választ, munkaszervezetét kialakítja. A térségi fejlesztési tanács tisztségviselője a tanácsban végzett munkájáért díjazást nem kap, egyéb juttatásra nem jogosult.
 
-(10) A térségi fejlesztési tanács felkérhet a tanács munkájában való részvételre egyéb szervezeteket, személyeket is.
+16. § (1) A térségi fejlesztési tanács szervezeti és működési szabályzatot készít és fogad el.
 
-(11) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz a területi gazdasági kamarák, kamaránként egy-egy képviselője, a kormányhivatal vezetője, az állami főépítész, valamint mindazon gazdasági, civil és egyéb szervezetek képviselői, amelyeket a térségi fejlesztési tanács döntése közvetlenül érint vagy akit az ülésen való részvételre felkérnek.
+(2) A térségi fejlesztési tanács munkaszervezete működésének részletes szabályait ügyrend rögzíti.
 
-(12)
+(3) A térségi fejlesztési tanács gazdálkodására a költségvetési szervek gazdálkodására vonatkozó szabályokat kell alkalmazni.
 
-(13)
+(4) A térségi fejlesztési tanács működtetését a tagok által képviselt szervezetek befizetései és egyéb bevételek biztosítják. A működtetéshez a központi költségvetés támogatást nem nyújt.
 
-(13a)
+(5) A térségi fejlesztési tanács működésének törvényességi felügyeletét a térségi fejlesztési tanács székhelye szerint illetékes megyei kormányhivatal látja el.
 
-(14) A Balaton Fejlesztési Tanács dönt a hatáskörébe utalt pénzeszközök felhasználásáról, és megállapodást köthet az érintett tárcákkal az egyes fejlesztési programok finanszírozásáról.
+(6) A térségi fejlesztési tanács
 
-(15) A területfejlesztési koncepció és program kidolgozását, és más közös területfejlesztési feladatokat a Tokaj Borvidék térségében a Tokaj Borvidék Fejlesztési Tanács látja el. A Tokaj Borvidék Fejlesztési Tanács ennek keretében:
+- a) rendszeresen vizsgálja és legalább kétévente értékeli a térség társadalmi és gazdasági folyamatait, környezeti állapotát, azonosítja fejlesztési szükségleteit,
+- b) az a) pont szerinti vizsgálatok eredményét a területi információs rendszeren keresztül nyilvánossá teszi,
+- c) az országos fejlesztési és területfejlesztési koncepcióval összhangban kidolgozza a térség területfejlesztési koncepcióját és programját,
+- d) megállapodást köthet az érintett miniszterekkel a térségi fejlesztési program finanszírozásáról,
+- e) figyelemmel kíséri az operatív programok térséget érintő feladatainak végrehajtását, erre irányuló kormányzati döntés esetén közreműködik az operatív programok térséget érintő feladatainak végrehajtásában,
+- f) előzetesen véleményezi az illetékességi területe szerinti megyék területfejlesztési koncepcióját és programját,
+- g) tevékenységéről a tárgyévet követő év március 31-éig beszámolót készít, amelyet megküld a területfejlesztés stratégiai tervezéséért felelős miniszternek.
 
-- a) vizsgálja és értékeli a kiemelt térség társadalmi és gazdasági helyzetét, környezeti állapotát, adottságait, a vizsgálatok során felhasznált információkat és a vizsgálatok eredményeit a területi információs rendszer rendelkezésére bocsátja,
-- b) az országos fejlesztési és területfejlesztési koncepcióval összhangban kidolgozza és a területfejlesztés stratégiai tervezéséért felelős miniszter útján a Kormánynak elfogadásra benyújtja a kiemelt térség területfejlesztési koncepcióját,
-- c) előzetesen véleményezi az országos, valamint a kiemelt térséget érintő ágazati fejlesztési koncepciókat és programokat, és
-- d) figyelemmel kíséri az operatív programok kiemelt térségben jelentkező feladatainak végrehajtását, külön döntés alapján közreműködik azok végrehajtásában.
+17. § (1) Az országos fejlesztési és területfejlesztési koncepcióban meghatározott kiemelt térségekben az alábbi kiemelt térségi fejlesztési tanácsok működnek:
 
-(16) A Tokaj Borvidék Fejlesztési Tanács tagjai a tanács illetékességi területén működő megyei közgyűlés elnöke, az érintett megyei közgyűlés egy képviselője, Tokaj Borvidék Hegyközségi Tanácsa elnöke, Tokaj Kereskedőház Felügyelő Bizottságának elnöke továbbá a területfejlesztés stratégiai tervezéséért felelős miniszter és az általános politikai koordinációért felelős miniszter egy-egy képviselője.
+- a) a Balaton Kiemelt Üdülőkörzetben a Balaton Fejlesztési Tanács,
+- b) a Tokaj Borvidéken a Tokaj Borvidék Fejlesztési Tanács, valamint
+- c) a Közép-Duna Menti Kiemelt Térségben a Közép-Duna Menti Fejlesztési Tanács.
 
-15/A. §
+(2) A Balaton Fejlesztési Tanács tagjai:
 
-15/B. §
+- a) a 15. § (3) bekezdése szerinti tagok, valamint
+- b) a területfejlesztés stratégiai tervezéséért felelős miniszter képviselője.
 
-16. § (1)–(3)
+(3) A Tokaj Borvidék Fejlesztési Tanács tagjai:
 
-(4) A térségi fejlesztési tanács működéséhez szükséges pénzügyi fedezetet a költségvetési hozzájárulás, a pályázatokon elnyert források, valamint a térségi fejlesztési tanácsban szavazati joggal rendelkező szervezetek befizetései biztosítják azzal, hogy működtetéséhez központi költségvetési hozzájárulás csak a törvény alapján kötelezően létrehozott térségi fejlesztési tanács részére adható.
+- a) a Borsod-Abaúj-Zemplén megyei közgyűlés elnöke és a megyei közgyűlés egy további képviselője,
+- b) a területfejlesztés stratégiai tervezéséért felelős miniszter képviselője,
+- c) az általános politikai koordinációért felelős miniszter képviselője,
+- d) a gazdaságfejlesztésért felelős miniszter képviselője,
+- e) a Tokaji Borvidék Hegyközségi Tanácsa elnöke, valamint
+- f) a borvidék többségi állami tulajdonú borászatának képviselője.
 
-(5)–(6)
+(4) A Közép-Duna Menti Fejlesztési Tanács tagjai:
 
-(7)–(16)
+- a) a 15. § (3) bekezdése szerinti tagok,
+- b) a területfejlesztés stratégiai tervezéséért felelős miniszter képviselője,
+- c) a gazdaságfejlesztésért felelős miniszter képviselője, valamint
+- d) a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter képviselője.
 
-17. §
+(5) A Közép-Duna Menti Fejlesztési Tanácsba egy miniszter egy tagot delegál akkor is, ha több felelősségi kör alapján jogosult delegálásra.
+
+(6) Az (1) bekezdésben meghatározott kiemelt térségi fejlesztési tanácsok ülésein állandó meghívottként az európai uniós források felhasználásáért felelős miniszter képviselője részt vesz. A kormányzati hatáskörbe tartozó napirendi pont tárgyalására az illetékes központi kormányzati igazgatási szerv képviselőjét meg kell hívni.
+
+(7) A kiemelt térségi fejlesztési tanácsok a 16. § (6) bekezdésében meghatározottakon túl az alábbi feladatokat látják el:
+
+- a) előzetesen véleményezik a kohéziós célú európai uniós források felhasználását megalapozó legmagasabb szintű nemzeti tervezési dokumentumot, az országos, továbbá a kiemelt térséget érintő ágazati és területi terveket,
+- b) a területfejlesztés stratégiai tervezéséért felelős miniszter útján a Kormány elé terjesztik a térség területfejlesztési koncepcióját és programját,
+- c) irányítják a térség területfejlesztési programjának végrehajtását,
+- d) döntenek a hatáskörükbe utalt fejlesztési források felhasználásáról.
+
+(8) A kiemelt térségi fejlesztési tanácsok működtetésére a 15. § (4) bekezdés a) pontját, a 15. § (5) és (6) bekezdését és a 16. §-t kell alkalmazni azzal az eltéréssel, hogy a kiemelt térségi fejlesztési tanácsok működtetéséhez a központi költségvetés támogatást nyújt.
 
 ### A területi államigazgatási szervek feladatai
 
@@ -388,13 +412,9 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (5) Az OTÉF ülésén egy szavazattal rendelkeznek a kormányzati és egy szavazattal rendelkeznek az önkormányzati tagok. Az OTÉF konszenzussal hozza meg döntéseit.
 
-### Regionális Területfejlesztési Konzultációs Fórum
+18/B. §
 
-18/B. § Az egy régió területén működő megyei közgyűlések elnökei – ha a régió a főváros területét is magában foglalja, akkor a megyei közgyűlés elnöke és a főpolgármester – területfejlesztési feladataik ellátása és összehangolása érdekében Regionális Területfejlesztési Konzultációs Fórumot működtetnek.
-
-### Megyei Területfejlesztési Konzultációs Fórum
-
-18/C. § A megyei közgyűlés és a – megye területén működő – megyei jogú város(ok) közgyűlése(i) területfejlesztési feladataik ellátása és összehangolása érdekében Megyei Területfejlesztési Konzultációs Fórumot működtetnek.
+18/C. §
 
 19. §
 
@@ -626,7 +646,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (7) Felhatalmazást kap a területrendezésért felelős miniszter, hogy az országos és a kiemelt térségi területrendezési terveket érintő változások, valamint a térségi területfelhasználási engedélyek tervi következményeit rendeletben kihirdesse.
 
-28. §
+28. § E törvénynek a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosításáról szóló 2020. évi XXIII. törvénnyel megállapított 15–17. §-ára tekintettel a térségi fejlesztési tanácsok legkésőbb 2020. augusztus 31-ig módosítják szervezeti és működési szabályzatukat.
 
 29. §
 

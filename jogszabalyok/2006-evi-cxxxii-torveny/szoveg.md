@@ -700,7 +700,7 @@ köteles a számviteli jogszabályok szerinti beszámolóját könyvvizsgálóva
 
 (2) A könyvvizsgálatra, illetve a könyvvizsgálóval szembeni követelményekre a számviteli jogszabályok, valamint a Magyar Könyvvizsgálói Kamaráról és a könyvvizsgálói tevékenységről szóló törvény előírásait kell megfelelően alkalmazni.
 
-(3) Az e törvény alapján lefolytatott eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(3)
 
 13. § (1) Annak az egészségügyi szolgáltatónak a vezetője, amely
 

@@ -107,7 +107,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 7. § Ha valamely közvetlenül alkalmazandó európai közösségi jogi aktus, nemzetközi szerződés, e törvény vagy e törvény felhatalmazása alapján kormányrendelet másként nem rendelkezik, a harmadik országbeli állampolgár kilencven napot meg nem haladó, tervezett tartózkodás céljából történő beutazásához és tartózkodásához vízum szükséges.
 
-7/A. § A kilencven napot meg nem haladó tervezett tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár, valamint az 539/2001/EK tanácsi rendelet II. mellékletében szereplő harmadik ország állampolgáraként Magyarország területén jogszerűen tartózkodó személy – ha e törvény eltérően nem rendelkezik – a 20. § (1) és (2) bekezdése szerinti keresőtevékenységet folytathat.
+7/A. § A kilencven napot meg nem haladó tervezett tartózkodásra jogosító vízummal rendelkező harmadik országbeli állampolgár, valamint az (EU) 2018/1806 európai parlamenti és tanácsi rendelet II. mellékletében szereplő harmadik ország állampolgáraként Magyarország területén jogszerűen tartózkodó személy – ha e törvény eltérően nem rendelkezik – a 20. § (1) és (2) bekezdése szerinti keresőtevékenységet folytathat.
 
 ### A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumok
 
@@ -210,7 +210,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 - a) a kivételes méltánylást érdemlő körülményt igazolta,
 - b) a kilencven napot meghaladó tartózkodás célja kutatás, vagy
-- c) az 539/2001/EK rendelet II. mellékletében szereplő állam állampolgáraként vagy ilyen harmadik országbeli állampolgárral együtt, családtagként tartózkodik jogszerűen Magyarország területén.
+- c) az (EU) 2018/1806 európai parlamenti és tanácsi rendelet II. mellékletében szereplő állam állampolgáraként vagy ilyen harmadik országbeli állampolgárral együtt, családtagként tartózkodik jogszerűen Magyarország területén.
 
 (1a) A Magyarország területén tartózkodó, az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából tartózkodási engedély (hosszú távú mobilitási engedély) kiadása iránti kérelmét, valamint az ilyen engedéllyel rendelkező harmadik országbeli állampolgárral együtt Magyarországon jogszerűen tartózkodó családtag tartózkodási engedély iránti kérelmét Magyarországon terjesztheti elő, amennyiben az első tagállam által kiadott tartózkodási engedélye érvényes.
 
@@ -2899,7 +2899,8 @@ részére továbbíthat adatot.
 - i) a felsőoktatási információs rendszer működéséért felelős szerv által vezetett felsőoktatási információs rendszerből,
 - j) törvényben meghatározott esetben az adóhatóságtól,
 - k) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott juttatások vonatkozásában a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott adatkezelő szervtől,
-- l) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől.
+- l) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől,
+- m) az állampolgársági ügyekben eljáró szervtől.
 
 (5) Az idegenrendészeti hatóság az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmását, valamint az arcképmáshoz rendelt technikai kapcsoló számot átadja.
 
@@ -2910,6 +2911,8 @@ részére továbbíthat adatot.
 (8) Az idegenrendészeti hatóság a körözési nyilvántartási rendszer részére – az arcképmás nyilvántartásba vétele céljából – a körözési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmását átadja.
 
 (9) Az idegenrendészeti hatóság e törvény szerinti eljárása során a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések modul hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
+
+(10) Az idegenrendészeti hatóság e törvény szerinti eljárása során átveheti és kezelheti a közérdekből nyilvános, e törvény alapján kezelhető adatok körébe tartozó személyes adatokat, ideértve a nyilvános külföldi adatforrásból származó adatot is.
 
 107. § (1) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból külföldi bűnüldöző, határőrizeti, idegenrendészeti és igazságszolgáltatási szervnek, nemzetközi szervezetnek, illetve közvetlenül alkalmazandó közösségi jogi aktussal létrehozott közösségi szervnek közvetlenül alkalmazandó közösségi jogi aktus vagy nemzetközi szerződés alapján – az azokban meghatározott adatkörben – továbbíthat adatot.
 
@@ -3274,7 +3277,7 @@ való megfelelést szolgálja.
 - a) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet; [6. §; 40. §]
 - b) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, a Tanács 2002. június 13-i 1030/2002/EK rendelet, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet [53. §, 67. §, 96. §, 99. §, 111. §];
 - c) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkei [67/A. §, 95. §];
-- d) a Közösségi Vízumkódex létrehozásáról szóló (vízumkódex), 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §, 8. §, 9. §, 12. §, 111. §];
+- d) a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §, 8. §, 9. §, 12. §, 111. §], valamint a Közösségi Vízumkódex (vízumkódex) létrehozásáról szóló 810/2009/EK rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1155 európai parlamenti és tanácsi rendelet;
 - e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007EK európai parlamenti és tanácsi rendelet;
 - f) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 48. cikkének (107. §);
 - g) a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i, 343/2003/EK tanácsi rendelet,
@@ -3285,6 +3288,6 @@ való megfelelést szolgálja.
 - l) az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet;
 - m) az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1561/2003/EK rendelet módosításáról szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendelet,
 - n) a Menekültügyi, a Migrációs és az Integrációs alapra, valamint a rendőrségi együttműködés, a bűnmegelőzés és a bűnözés elleni küzdelem, valamint a válságkezelés pénzügyi támogatására szolgáló eszközre vonatkozó általános rendelkezések megállapításáról szóló, 2014. április 16-i 514/2014/EU európai parlamenti és tanácsi rendelet,
-- o) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2001. március 15-i 539/2001/EK tanácsi rendelet, és az azt módosító 509/2014/EU európai parlamenti és tanácsi rendelet
+- o) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2018. november 14-i (EU) 2018/1806 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

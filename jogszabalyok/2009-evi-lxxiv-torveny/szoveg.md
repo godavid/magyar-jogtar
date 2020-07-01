@@ -320,7 +320,7 @@ szereplő szempontokra együtt legalább 10 pontot kapott.
   - bf) a kérelem a kormányablaknál nem terjeszthető elő,
   - bg) sommás eljárásnak nincs helye,
   - bh) az ÁRMB ügyintézési határideje 120 nap,
-  - bi) nincs helye függő hatályú döntés meghozatalának,
+  - bi)
   - bj) az ÁRMB döntését módosíthatja vagy visszavonhatja akkor is, ha az jóhiszeműen szerzett és gyakorolt jogot sért,
   - bk) a kérelmet az ÁRMB-hez személyesen nem lehet előterjeszteni,
   - bl) a kérelmező a kapcsolattartás formáját nem választhatja meg, a kapcsolattartás írásban vagy írásbelinek nem minősülő elektronikus úton történik az e törvényben meghatározottak szerint,

@@ -953,7 +953,14 @@ a kárviselésre vonatkozó szabályok
 
 76. § (1) A természetvédelmi hatósági engedélyezési eljárásokban az ügyintézési határidő kilencven nap.
 
-(2) A természetvédelmi szakhatóság a szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított huszonegy napon belül köteles megadni. A szakhatósági állásfoglalás megadására tizenöt nap áll rendelkezésre, ha az eljáró hatóság a sürgősséget megkeresésében megindokolja.
+(2) A természetvédelmi szakhatóság a szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított huszonegy napon belül köteles megadni.
+
+(2a) Ha jogszabály közigazgatási hatósági eljárás során természetvédelmi szakkérdés vizsgálatát írja elő, az eljárást lezáró döntés
+
+- a) rendelkező része tartalmazza
+  - aa) a szakkérdés vizsgálatának tényét,
+  - ab) a szakkérdés vizsgálatának eredményét és az annak alapján meghatározott egyedi előírásokat,
+- b) indokolása tartalmazza a szakkérdés vizsgálata során tett részletes megállapításokat.
 
 (3) A védett, fokozottan védett területet, a védett, fokozottan védett fajokat, valamint azok élőhelyét, továbbá Natura 2000 területet, vagy a közösségi jelentőségű fajokat, élőhelytípusokat érintő hatósági eljárások során az ügyben eljáró hatóság különös indokolást érdemlő esetben az eljárást felfüggesztheti.
 
@@ -1022,6 +1029,8 @@ bűncselekmény elkövetése miatt jogerősen megállapította,
 
 - a) akit a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vontak, a határozat jogerőre emelkedésétől számított három évig vagy
 - b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat véglegessé válásától számított három évig.
+
+(3a) A (3) bekezdés nem vonatkozik a kérelmező által jogszerűen tartott egyeddel és annak utódjával kapcsolatos kérelmekre.
 
 (4) Az (1) bekezdésben meghatározott jogosultság megszerzéséhez a kérelmező
 

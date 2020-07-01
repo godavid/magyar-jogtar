@@ -37,7 +37,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 - a) az előadó-művészeti szervezetekre és az előadó-művészeti szakmai érdekképviseleti szervezetekre,
 - b) az előadó-művészeti szervezetek fenntartóira,
-- c) az előadó-művészeti szervezetekkel munkaviszonyban vagy közalkalmazotti jogviszonyban álló természetes személyekre, és
+- c) az előadó-művészeti szervezetekkel munkaviszonyban álló természetes személyekre, és
 - d) az előadó-művészeti szervezetek működésével összefüggő közigazgatási hatósági és szolgáltatási feladatokat ellátó szervezetre.
 
 (2) E törvény rendelkezései nem érintik a szerzői jogról szóló törvény rendelkezéseit.
@@ -185,14 +185,14 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 (2) Azt az előadó-művészeti szervezetet lehet nemzeti előadó-művészeti szervezetnek minősíteni, amelynek
 
 - a) fenntartója az állam vagy az e törvény szerinti közszolgáltatási szerződése van az állammal,
-- b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészei – ide nem értve a gyermek- és csoportos szereplőket – legalább 70%-a szakirányú felsőfokú végzettséggel vagy a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
+- b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészei – ide nem értve a gyermek- és csoportos szereplőket – legalább 70%-a szakirányú felsőfokú végzettséggel vagy művészeti elismeréssel rendelkezik,
 - c) vezetőjét – állami vagy önkormányzati fenntartású szervezet esetén – az e törvényben és a Kormány rendeletében foglalt rendelkezéseknek megfelelően bízták meg, és
 - d) a magyar előadó-művészeti életben betöltött szerepe, a művészeti tevékenysége a magyar nemzeti kulturális identitás és hagyományok őrzése, fejlesztése, a kulturális érték- és mintaközvetítés szempontjából kiemelkedő jelentőségű.
 
 (3) Azt az előadó-művészeti szervezetet lehet kiemelt előadó-művészeti szervezetnek minősíteni, amelynek
 
 - a) fenntartója helyi önkormányzat vagy az e törvény szerinti közszolgáltatási szerződése van helyi önkormányzattal,
-- b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészeinek – ide nem értve a gyermek- és csoportos szereplőket – legalább 60%-a szakirányú felsőfokú végzettséggel vagy a Kjt. 63. § (2) bekezdésében meghatározott elismeréssel rendelkezik,
+- b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészeinek – ide nem értve a gyermek- és csoportos szereplőket – legalább 60%-a szakirányú felsőfokú végzettséggel vagy művészeti elismeréssel rendelkezik,
 - c) vezetőjét – állami vagy önkormányzati fenntartású szervezet esetén – az e törvényben és a Kormány rendeletében foglalt rendelkezéseknek megfelelően bízták meg, és
 - d) a fővárosi, illetve a megyei előadó-művészeti életben betöltött művészeti, kulturális szerepe, az általa nyújtott művészeti szolgáltatások tartalma és művészeti értéke az állami támogatási és az önkormányzati fenntartói vagy támogatási szerepvállalást egyidejűleg és tartósan indokolja.
 
@@ -261,6 +261,8 @@ részére.
 
 (9) Ha a közös működtetésre irányuló megállapodás keretében az önkormányzati fenntartású színház éves működésének pénzügyi feltételeit teljes egészében a központi költségvetés biztosítja, a színház vezető állású munkavállalója felett az alapvető munkáltatói jogokat a miniszter gyakorolja.
 
+(10) A (9) bekezdésben meghatározott esetben a színház felügyelőbizottságának létszáma 5 fő lehet, akik közül 3 főt a miniszter jogosult megbízni és a megbízásból visszahívni.
+
 16/A. § A központi költségvetés a nem állami fenntartású, nemzeti előadó-művészeti szervezetnek vagy kiemelt előadó-művészeti szervezetnek minősített zene- és táncművészeti szervezetek támogatását felosztási szabályzat alapján biztosítja.
 
 ### 2. CÍM — Az előadó-művészeti szervezetek központi költségvetési támogatásai és az igénybevétel feltételei
@@ -327,51 +329,42 @@ részére.
 
 ### 1. CÍM — A foglalkoztatottakra vonatkozó eltérő munkajogi szabályok
 
-25. § (1) Az előadó-művészeti szervezetekben – a munkáltató személyétől függően – a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) vagy a Kjt. szabályait az e fejezetben megállapított eltérésekkel kell alkalmazni.
+25. § (1) Az előadó-művészeti szervezetekben a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szabályait az e fejezetben megállapított eltérésekkel kell alkalmazni.
 
-(2) A művészi és művészeti munkaköröket külön jogszabály határozza meg.
+(2) A művészi és művészeti munkaköröket a Kormány rendeletben határozza meg.
+
+(3) Az előadó-művészeti szervezetben foglalkoztatott az lehet, aki megfelel a Kormány rendeletében előírt képesítési és egyéb feltételeknek.
 
 26. § A munkáltató a szakmai végzettségre vonatkozó külön jogszabályban meghatározott rendelkezéseket köteles figyelembe venni, de a művészi munkakörök betöltése esetében kivételesen mentesítheti
 
 - a) határozott időre azt, aki az adott munkakörben kiemelkedő művészi teljesítmény nyújtására alkalmas,
-- b) véglegesen azt, aki művészi teljesítményére tekintettel a Kjt. 63. §-ának (2) bekezdésében meghatározott elismeréssel rendelkezik.
+- b) véglegesen azt, aki művészi teljesítményére tekintettel művészeti elismeréssel rendelkezik.
 
-27. § A munkaviszony, illetve a közalkalmazotti jogviszony (a továbbiakban együtt: foglalkoztatásra irányuló jogviszony) – eltérő megállapodás hiányában – határozatlan időtartamra jön létre.
+27. §
 
-28. § (1) A határozott időre szóló foglalkoztatásra irányuló jogviszony időtartama – ideértve a meghosszabbított és az előző határozott időtartamú munkaszerződés, illetve kinevezés (a továbbiakban együtt: munkaszerződés) megszűnésétől számított hat hónapon belül létesített újabb határozott időtartamú foglalkoztatásra irányuló jogviszony tartamát is – az öt évet nem haladhatja meg.
+28. §
 
-(2) Határozott idejű közalkalmazotti jogviszony – a Kjt. 21. § (2) bekezdésében foglaltakon túlmenően –
+29. § (1) A művészi és a művészeti munkakör betöltésére létesített határozott idejű munkaviszony – ha a felek eltérően nem állapodnak meg – az évad végéig tart.
 
-- a) előadó-művészeti szervezetnél kinevezett magasabb vezetői, illetve vezetői munkakörben történő foglalkoztatásra, legfeljebb ötéves időtartamra, továbbá
-- b) művészi és művészeti munkakör betöltésére létesíthető.
+(2) Művészi és művészeti munkakörben határozott időre létesített munkaviszony esetén a munkáltató a továbbfoglalkoztatásra irányuló nyilatkozatát legkésőbb a határozott időtartam lejárata évének március 1-jéig írásban közli a munkavállalóval.
 
-29. § (1) A művészi és a művészeti munkakör betöltésére létesített határozott idejű foglalkoztatási jogviszony – ha a felek eltérően nem állapodnak meg – az évad végéig tart.
+(3) Ha a munkáltató elmulasztja a (2) bekezdésben meghatározott nyilatkozat megtételét, köteles a munkavállalót – annak kérésére – legalább a lejáró szerződésnek megfelelő feltételekkel továbbfoglalkoztatni.
 
-(2) Művészi és művészeti munkakörben határozott időre létesített foglalkoztatásra irányuló jogviszony esetén a munkáltató a továbbfoglalkoztatásra irányuló igenlő vagy nemleges nyilatkozatát legkésőbb a határozott időtartam lejárata évében március 1-jéig írásban közli a foglalkoztatottal.
+(4) A munkáltató a munkaviszony meghosszabbítására vonatkozó részletes ajánlatát legkésőbb március 31-ig írásban közli, a munkáltató ajánlatára pedig a munkavállaló április 30-ig írásban nyilatkozik.
 
-(3) Ha a munkáltató elmulasztja a (2) bekezdésben meghatározott nyilatkozat megtételét, köteles a foglalkoztatottat – annak kérésére – legalább a lejáró szerződésnek megfelelő feltételekkel továbbfoglalkoztatni.
+30. § (1) A munkáltató a karmester, karnagy, színművész, bábművész, artistaművész, magánénekes, magántáncos, segédszínész, csoportos szereplő munkakörben foglalkoztatott határozatlan idejű munkaviszonyát rendes felmondással akkor is megszüntetheti, ha a munkavállaló számára a munkaszerződésben vagy – ha a munkaszerződésben erről nem állapodtak meg – a 31. § (3) bekezdésében megállapított előadásszám legalább 40%-a mértékéig az elmúlt évadban nem tudott és a következő évadban sem tud művészi feladatot biztosítani az előadó-művészeti szervezet megváltozott művészeti koncepciójával összefüggő ok miatt.
 
-(4) A munkáltató a jogviszony meghosszabbítására vonatkozó részletes ajánlatát legkésőbb március 31-ig írásban közli, a munkáltató ajánlatára pedig a foglalkoztatott április 30-ig írásban nyilatkozik.
+(2) A munkáltató az (1) bekezdés szerint csak különösen indokolt esetben szüntetheti meg a munkaviszonyt, ha a munkavállalót legalább harminc éve foglalkoztatja.
 
-30. § (1) A munkáltató a karmester, karnagy, színművész, bábművész, artistaművész, magánénekes, magántáncos, segédszínész, csoportos szereplő munkakörben foglalkoztatott foglalkoztatásra irányuló határozatlan idejű jogviszonyát rendes felmondással, illetve felmentéssel (a továbbiakban együtt: felmondás) akkor is megszüntetheti, ha a foglalkoztatott számára a munkaszerződésben vagy – ha a munkaszerződésben erről nem állapodtak meg – a 31. § (3) bekezdésében megállapított előadásszám legalább 40%-a mértékéig az elmúlt évadban nem tudott és a következő évadban sem tud művészi feladatot biztosítani az előadó-művészeti szervezet megváltozott művészeti koncepciójával összefüggő ok miatt.
+(3) A munkáltató az (1) bekezdésben meghatározott esetben a munkavállalót a felmondásról szóló döntéséről, illetve a részfoglalkoztatás lehetőségéről legkésőbb március 1-jéig előzetesen tájékoztatja.
 
-(2) A munkáltató az (1) bekezdés szerint csak különösen indokolt esetben szüntetheti meg a jogviszonyt, ha a foglalkoztatottat legalább harminc éve foglalkoztatja.
+(4) Ha a munkáltató az (1) bekezdés alapján szünteti meg a határozatlan idejű jogviszonyt, a munkavállalót az Mt. 77. § (3) bekezdésében meghatározotton felül – kollektív szerződésnek a munkavállalóra nézve kedvezőbb rendelkezése hiányában – a munkáltatónál fennálló legalább
 
-(3) A munkáltató az (1) bekezdésben meghatározott esetben a foglalkoztatottat a felmondásról szóló döntéséről, illetve a részfoglalkoztatás lehetőségéről legkésőbb március 1-jéig előzetesen tájékoztatja.
+- a) tízéves jogviszonya után négyhavi,
+- b) tizenöt éves jogviszonya után nyolchavi,
+- c) húszéves jogviszonya után tizenkét havi távolléti díjának megfelelő további végkielégítés illeti meg.
 
-(4) Ha a munkáltató az (1) bekezdés alapján szünteti meg a határozatlan idejű jogviszonyt, a foglalkoztatottat az Mt. 77. § (3) bekezdésében, illetve a Kjt. 37. § (6) bekezdésében meghatározotton felül – kollektív szerződésnek a foglalkoztatottra nézve kedvezőbb rendelkezése hiányában – a munkáltatónál fennálló legalább
-
-- a) tíz éves jogviszonya után négyhavi,
-- b) tizenöt éves jogviszonya után nyolc havi,
-- c) húsz éves jogviszonya után tizenkét havi
-
-átlagkeresetének megfelelő további végkielégítés illeti meg.
-
-(5) Ha a (3) bekezdés szerinti tájékoztatás időpontjában a foglalkoztatott az Mt. vagy a Kjt. szabályai szerinti felmondási tilalom alatt áll, a felmondás csak a tilalom megszűnését követően közölhető.
-
-(6)
-
-(7) A Kjt. 40. § (1) bekezdésétől eltérően – a magasabb vezető és vezető munkakör, illetve beosztás kivételével – azokban az esetekben, ahol a Kjt. minősítési kötelezettséget ír elő a munkáltató számára, a művészi és egyéb művészeti munkakört betöltő közalkalmazottat nem kell minősíteni, ha Kossuth-díjjal, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja díjjal vagy a miniszter által jogszabály alapján adományozható művészeti díjjal rendelkezik.
+(5) Ha a (3) bekezdés szerinti tájékoztatás időpontjában a munkavállaló az Mt. szabályai szerinti felmondási tilalom alatt áll, a felmondás csak a tilalom megszűnését követően közölhető.
 
 31. § (1) A művészi és művészeti munkakörben foglalkoztatott teljes munkaidejének megállapítása szempontjából a munkahelyén elrendelt munkavégzés idejét, a rendelkezésre állás idejét és a munkahelyen kívüli felkészüléshez szükséges időt kell figyelembe venni.
 
@@ -394,15 +387,15 @@ részére.
 
 (7) A munkahelyen kívüli felkészüléshez szükséges munkaidőként a teljes munkaidőben karmester, karnagy, színművész, bábművész, artistaművész, magánénekes, magántáncos, segédszínész, zenekari tag, énekkari tag, tánckari tag munkakörben foglalkoztatott esetében egy évadban munkanaponként átlagosan két munkaórát kell figyelembe venni. Részmunkaidőben foglalkoztatott esetében a munkahelyen kívüli felkészüléshez szükséges munkaidőt a teljes és a munkaszerződésben kikötött részmunkaidő arányában kell figyelembe venni. A munkahelyen kívüli felkészülést kiválthatja a munkáltató, ha erre munkaidőben, munkahelyen lehetőséget biztosít a művészei számára.
 
-32. § A munkáltató négyhavi munkaidőkeretet is előírhat az Mt. 92. §-a szerinti napi munkaidő tartamának alapulvételével.
+32. § a a munkáltató a munkavállaló által teljesítendő munkaidőt munkaidő-keretben határozza meg, a munkaidőkeret tartama legfeljebb hat hónap az Mt. 92. §-a szerinti napi munkaidő tartamának alapulvételével.
 
 33. § A foglalkoztatott munkaidejét nem érintő munkavégzésre irányuló további jogviszony létesítését – a tudományos, oktatói, lektori, szerkesztői, a szerzői jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony és a közérdekű önkéntes tevékenység kivételével – a foglalkoztatott köteles a munkáltatói jogkör gyakorlójának előzetesen bejelenteni, aki a további jogviszony létesítését megtilthatja, ha az előadó-művészeti szervezet üzemszerű működését veszélyezteti.
 
-34. § A magántáncos és a tánckari tag munkakörben foglalkoztatott közalkalmazott kétévenként eggyel magasabb, a Kjt. szerinti fizetési fokozatba lép.
+34. §
 
 35. § (1) A művészi munkakörben foglalkoztatott az előadáson történő közreműködésért – kollektív szerződés, illetve munkaszerződés alapján – külön díjazást kaphat.
 
-(2) A nem művészi munkakörben foglalkoztatott munkavállalót a munkakörébe nem tartozó, közönség előtt történő színpadi szereplésért – megállapodás esetén – közreműködési díj illeti meg. A közreműködési díj mértékét, tekintettel a feladat nehézségére és jellegére, kollektív szerződés, annak hiányában a felek állapítják meg. A közreműködési díj a Kjt. pótlékalap 5%–50%-ának megfelelő összeg lehet.
+(2) A nem művészi munkakörben foglalkoztatott munkavállalót a munkakörébe nem tartozó, közönség előtt történő színpadi szereplésért – megállapodás esetén – közreműködési díj illeti meg. A közreműködési díj mértékét, tekintettel a feladat nehézségére és jellegére, kollektív szerződés, annak hiányában a felek állapítják meg.
 
 (3) A munkáltató az előadó-művészeti szervezet üzemszerű működésének biztosítása érdekében ügyeletet rendelhet el az Mt. 108–114. §-ában meghatározott eseteken kívül is. Az ügyeleti díj mértéke a személyi alapbér vagy az alapilletmény legalább 40%-a.
 
@@ -416,7 +409,7 @@ részére.
 
 ### Az opera-, szimfonikus-, kamara- és egyébzenekari tag, az énekkari tag, valamint a tánckari tag munkakört betöltő munkavállalóra vonatkozó eltérő szabályok
 
-37. § (1) A zenekari és énekkari tag esetében a foglalkoztatásra irányuló jogviszony létrehozásának feltétele az eredményes szakmai próbajáték, illetve próbaéneklés, amelyek meghirdetésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
+37. § (1) A zenekari és énekkari tag esetében a munkajogviszony létrehozásának feltétele az eredményes szakmai próbajáték, illetve próbaéneklés, amelyek meghirdetésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
 
 (2) Zenekari tag, énekkari tag és tánckari tag határozott időre létesített foglalkoztatására irányuló jogviszony esetén a munkáltató a továbbfoglalkoztatásra irányuló igenlő vagy nemleges nyilatkozatát legkésőbb a határozott időtartam lejárata előtt négy hónappal írásban közli a foglalkoztatottal.
 
@@ -539,7 +532,7 @@ részére.
 - 33. színház: prózai, zenés, táncos színpadi művek előadásával foglalkozó előadó-művészeti szervezet, ide értve a bábszínházat, befogadó színházat, produkciós színházat, független színházat, szabadtéri színházat, nemzetiségi színházat,
 - 34. színházi nevelési program: legalább három óra időtartamú, maximum 40 főből álló csoportnak tartott program, amelynek résztvevői köznevelésben részt vevő gyermekek, tanulók, illetve a szakképzésben részt vevő tanulók, képzésben részt vevő személyek életkor tekintetében homogén közösségei, valamint amelyben művészeti értéket képviselő előadás vagy előadás-részletek és drámapedagógiai feldolgozó munka komplex, pedagógiai célokat megvalósító módon épülnek egymásra, továbbá szerkezetében és tartalmában igazodik az adott korcsoport életkori és pszichológiai sajátosságaihoz,
 - 35. színpadi próba: minden olyan próba, amely színpadi körülmények között zajlik, jelmezzel, díszlettel, világítással, hanggal vagy ezek nélkül úgy, hogy a próba közvetlen célja az alkotás színpadi körülmények között történő előadásának valamennyi művészi, szakmai és technikai feltételének együttes kialakítása és összehangolása,
-- 36. társulat: művészek olyan csoportja, akik munkaviszony, közalkalmazotti jogviszony, vagy munkavégzésre irányuló egyéb jogviszony alapján egy vagy több évadon keresztül folyamatosan kapcsolódnak egy előadó-művészeti szervezethez,
+- 36. társulat: művészek olyan csoportja, akik munkaviszony vagy munkavégzésre irányuló egyéb jogviszony alapján egy vagy több évadon keresztül folyamatosan kapcsolódnak egy előadó-művészeti szervezethez,
 - 37. többtagozatos színház: próza, opera/operett és/vagy balett, táncjátékokat repertoáron tartó, állandó társulattal rendelkező színházi együttes,
 - 38. zenekar: zeneműveket játszó előadó-művészeti szervezet,
 - 39. zenés színpadi mű: az operett, a musical, a rockopera, a daljáték, a zenés játék.
@@ -557,14 +550,15 @@ részére.
 - 51. üzemeltetés: az előadó-művészeti szervezet tulajdonában vagy tartós használatában álló, a művészeti alaptevékenységhez kapcsolódó ingatlan és eszközök rendeltetésszerű használatához folyamatosan szükséges szolgáltatások, személyi és tárgyi feltételek biztosítása,
 - 52. vendégelőadás: olyan színházi alkotás, amelynek előadásához szükséges szerzői jogokkal a felhasználási szerződés alapján meghatározott időre vagy előadásszámra a vendégszínház rendelkezik, az előadás a vendégszínház által szerződtetett alkotó- és előadóművészek művészi tevékenységével jön létre, és a fogadó színház szervezésével, a fogadó színház költségvetéséből kerül a nyilvánosság elé,
 - 53. biztosítással járó jogviszony:
-  - a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszony,
-  - b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
-  - c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
+  - a) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. § (1) bekezdés a), b) és d)–f) pontja szerinti biztosítással járó jogviszony,
+  - b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 6. § (1) bekezdés a), b) és d)–f) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
+  - c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 6. § (1) bekezdés a), b) és d)–f) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
 - 54. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
 - 55. fúvószenekar: komolyzene műfajába tartozó, eredeti vagy áthangszerelt műveket előadó zeneművészeti szervezet, amelyben a rézfúvós és fafúvós hangszercsoportokat ütőhangszeresek egészíthetik ki,
 - 56. hangversenyterem: olyan zárt terű, legalább száz ülőhelyet magába foglaló, nézőtérrel rendelkező befogadó színház, amely akusztikailag és technikailag alkalmas e törvény szerinti hangversenyek előadására,
 - 57. kamarakórus: oratorikus vagy a cappella művek előadására alkalmas előadó-művészeti szervezet, amelynek létszáma legalább 12, legfeljebb 30 fő,
-- 58. alapvető munkáltatói jogok: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 19. § b) pontja szerinti kinevezés, vezetői megbízás, felmentés, vezetői megbízás visszavonása, az összeférhetetlenség megállapítása, fegyelmi eljárás megindítása, és a fegyelmi büntetés kiszabása.
+- 58. alapvető munkáltatói jogok: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 19. § b) pontja szerinti kinevezés, vezetői megbízás, felmentés, vezetői megbízás visszavonása, az összeférhetetlenség megállapítása, fegyelmi eljárás megindítása, és a fegyelmi büntetés kiszabása,
+- 59. művészeti elismerés: a Kossuth-díj, a Magyarország Kiváló Művésze, a Magyarország Érdemes Művésze, a Magyarország Babérkoszorúja-díj, valamint e díjakkal egyenértékű, már nem hatályos jogszabályok alapján adományozott elismerés, valamint a miniszter feladatkörében adományozott művészeti elismerés.
 
 ### Hatálybalépés
 
@@ -603,7 +597,7 @@ részére.
 - g) határozza meg a művészeti támogatás mértékének megállapításánál irányadó szempontokat és a művészeti támogatás biztosításának feltételeit tartalmazó részletes szabályokat,
 - h) határozza meg a létesítménygazdálkodási célú működési támogatás biztosításának feltételeit tartalmazó részletes szabályokat,
 - i) határozza meg a nem minősített előadó-művészeti szervezetek működésének és szakmai program megvalósításának támogatására irányuló pályázatok részletes szabályait,
-- j) határozza meg a miniszter által felügyelt költségvetési fejezetből az előadó-művészeti szervezeteknek pályázati úton nyújtható kiemelt támogatások részletes szabályait,
+- j) határozza meg a miniszter által felügyelt költségvetési fejezetből az előadó-művészeti szervezeteknek pályázati úton nyújtható kiemelt támogatások, valamint az önkormányzati fenntartású színházak közös működtetés keretében biztosított költségvetési támogatás részletes szabályait,
 - k) határozza meg az előadó-művészeti szervezettel kötendő, közfeladatellátásra irányuló közszolgáltatási szerződés tartalmára és megkötésére irányadó szabályokat,
 - l) határozza meg az önkormányzati fenntartású előadó-művészeti szervezettel kötendő fenntartói megállapodás tartalmára és megkötésére irányadó szabályokat,
 - m) határozza meg az előadó-művészeti szervezet és előadó-művészeti szakmai érdek-képviseleti szervezet nyilvántartásba vételére, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, az igazolás kiállítására, valamint a hatósági ellenőrzéssel kapcsolatos hatósági eljárásra, valamint a központi költségvetésből nyújtott támogatás mértékének megállapításához szükséges, továbbá a 11. § és a 12. § szerinti minősítés alapjául szolgáló adatszolgáltatási kötelezettségre vonatkozó szabályokat,

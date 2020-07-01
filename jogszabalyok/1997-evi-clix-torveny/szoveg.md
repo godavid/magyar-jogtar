@@ -48,6 +48,10 @@ jelleggel.
 
 2. § (1) Az 1. § (3) bekezdése szerinti határozat kötelezettje (a továbbiakban: kötelezett) a fegyveres biztonsági őrséget saját szervezetében, többségi befolyást biztosító tulajdonosi részvételével működő gazdálkodó szervezet vagy az irányítása alá tartozó költségvetési szerv útján köteles létrehozni, működtetni, fenntartani, vagy az őrzést más fegyveres biztonsági őrséggel rendelkező szerv útján biztosítani. A fegyveres biztonsági őrség költségeit a kötelezett viseli.
 
+(1a) Az atomenergia alkalmazása körében fegyveres biztonsági őrséggel védendő nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója, valamint a vonatkozó jogszabály szerinti I. és II. kategóriába tartozó nukleáris anyag őrzésére a kötelezett a fegyveres biztonsági őrséggel történő őrzést kizárólag saját szervezetében vagy többségi befolyást biztosító tulajdonosi részvételével működő gazdálkodó szervezet vagy az irányítása alá tartozó költségvetési szerv útján biztosíthatja.
+
+(1b) A kötelezett a védendő nukleáris létesítmény őrzött üzemi területén kívül, de még a tulajdonában lévő terület határáig különleges jogrendben, emelt szintű fizikai védelem elrendelésénél, vagy a létesítmény közvetlen fenyegetettsége esetén fokozott ellenőrzést vezethet be, valamint korlátozhatja a gépjárműforgalmat.
+
 (2) A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet biztosítja a szervezetében létrehozott fegyveres biztonsági őrség működésének szervezeti, személyi, anyagi-technikai és pénzügyi feltételeit, fegyver- és lőszerellátását.
 
 3. § (1) Fegyveres biztonsági őrség az e törvényben, valamint jogszabály alapján megkötött együttműködési megállapodásban meghatározott őrzési feladatokat ellátó, szolgálati fegyverrel és más kényszerítő eszközzel rendelkező, sajátos jogokkal felruházott biztonsági szervezet, amelynek tagjai a létesítő, illetőleg a működtető állami, önkormányzati vagy egyéb intézménnyel, gazdálkodó szervezettel munkaviszonyban, illetve közalkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi szervnél a szervvel munkaviszonyban vagy rendvédelmi igazgatási szolgálati jogviszonyban állnak.
@@ -60,8 +64,12 @@ jelleggel.
 - b) a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet költségére kiadja, visszavonja, ideiglenesen bevonja, és nyilvántartja a fegyveres biztonsági őr hatósági szolgálati igazolványát;
 - c) határozattal jóváhagyja a fegyveres biztonsági őrség őrségutasítását és őrutasítását;
 - d) hatósági ellenőrzés keretében ellenőrzi a fegyveres biztonsági őrök szolgálatellátását;
-- e) kezdeményezi az őrszolgálat ideiglenes korlátozását vagy megerősítését;
-- f) ellenőrzi a fegyveres biztonsági őr alkalmassága elbírálásához szükséges adatokat.
+- e) megerősített szolgálatot, riadót rendelhet el;
+- f) ellenőrzi a fegyveres biztonsági őr alkalmassága elbírálásához szükséges adatokat;
+- g) jog- és szakszerűség szempontjából kivizsgálja a fegyveres biztonsági őr személyi szabadságot korlátozó intézkedését és kényszerítő eszköz alkalmazását;
+- h) különleges jogrendi időszakban kezdeményezheti a rendészetért felelős miniszternél a fegyveres biztonsági őrség feletti parancsnokság rendőrség általi átvételét;
+- i) ellenőrzi, figyelemmel kíséri és szakmai felügyeletet gyakorol a fegyveres biztonsági őrség képzési, kiképzési, továbbképzési tevékenysége felett, végrehajtja a fegyveres biztonsági őrök vizsgáztatását;
+- j) a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet költségére kiadja a fegyveres biztonsági őr szolgálati jelvényét.
 
 (2) A fegyveres biztonsági őrség őrségutasítása tartalmazza az 1. § (3) bekezdése szerinti határozatban vagy a fegyveres biztonsági őrséget működtető szervezet vezetője által meghatározott objektum, létesítmény, szállítmány vagy tevékenység őrzésének, védelmének végrehajtására vonatkozó szabályokat, továbbá a szolgálat ellátásának módját. A fegyveres biztonsági őrség őrutasítása tartalmazza az őr őrhelyére vonatkozó őrzési és védelmi feladatokat.
 
@@ -69,7 +77,7 @@ jelleggel.
 
 - a) az 1. § (3) bekezdése szerinti, végleges határozatban elrendelt fegyveres biztonsági őrséget az abban meghatározott határidőig a kötelezett nem hozta létre, vagy a kötelezett a fegyveres biztonsági őrzésről az arra jogosult szervezettel kötött szerződés útján nem gondoskodik,
 - b) a fegyveres biztonsági őrséget a kötelezett engedély nélkül megszüntette,
-- c) a fegyveres biztonsági őrzés nem felel meg a jóváhagyott őrségutasításban foglaltaknak,
+- c) a fegyveres biztonsági őrzés nem felel meg az 1. § (3) bekezdése szerinti határozatban, a jóváhagyott őrutasításban vagy a jóváhagyott őrségutasításban foglaltaknak,
 
 határozattal felhívja a kötelezettet vagy – a c) pontban meghatározott esetben – a fegyveres biztonsági őrséget működtető szervezetet a fegyveres biztonsági őrséggel kapcsolatos feladatainak teljesítésére, a hiányosságok megszüntetésére.
 
@@ -93,6 +101,8 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 - b) kidolgozza a 4. § (1) bekezdésének c) pontjában meghatározott szolgálati okmányokat.
 
 6. § (1) A fegyveres biztonsági őr a fegyveres biztonsági őrség – szolgálatban közfeladatot ellátó, szolgálati fegyver viselésére jogosult – tagja. A fegyveres biztonsági őrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által kiadott hatósági szolgálati igazolvány igazolja.
+
+(1a) A szolgálati igazolvány kiállításáig a fegyveres biztonsági őr e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által rendszeresített és a szolgálati igazolvány kiállításának kezdeményezését alátámasztó, a rendőrség által hitelesített igénylőlap igazolja.
 
 (2) Fegyveres biztonsági őr az a magyar állampolgár, illetve külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy lehet, aki tizennyolcadik életévét betöltötte, fegyver viselésére alkalmas, és rendelkezik a szolgálati beosztáshoz előírt képesítési feltételekkel. A fegyveres biztonsági őrség parancsnokának és helyettesének legalább középiskolai végzettséggel kell rendelkeznie.
 
@@ -195,7 +205,7 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 - g) az igazolvány kiállításának helyét és időpontját;
 - h) a hatósági szolgálati igazolványt kiállító hatóság és a munkáltató érvényesítő aláírását, bélyegzőlenyomatát.
 
-9. § (1) A fegyveres biztonsági őrség lőfegyverrel, lőszerrel és más kényszerítő eszközzel való ellátását a rendőrség engedélyezi.
+9. § (1) A fegyveres biztonsági őrség lőfegyverrel, lőszerrel és más kényszerítő eszközzel való ellátását a rendőrség az 1. § (3) bekezdés szerinti határozatban engedélyezi.
 
 (2) A fegyveres biztonsági őrség számára – az engedélyben meghatározott mennyiségben és minőségben – jogszabályban meghatározottaknak megfelelően a Rendőrségről szóló 1994. évi XXXIV. törvény hatálya alá tartozó rendőri szerveknél rendszeresített vagy alkalmazott, illetve a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség esetén a Magyar Honvédségnél rendszeresített és a 10. § (2) bekezdésben felsorolt kényszerítő eszköz, továbbá lőfegyver és lőszer vásárlása, illetve tartása engedélyezhető. A fegyveres biztonsági őr feladatai ellátása során csak a rendőrség szolgálati kutyák kiképzésével összefüggő feladatok ellátására létrehozott szervezeti eleme által kiképzett és évente minősített szolgálati kutyát alkalmazhat.
 
@@ -314,7 +324,7 @@ alkalmazhat, illetve használhat.
 
 (5) A rendőrség a panaszról a beérkezését követő naptól számított tizenöt napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
 
-10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a katasztrófavédelemmel, a Nemzeti Adó- és Vámhivatal vámszerveivel, a hivatásos állami és önkormányzati tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (továbbiakban: járási hivatal), valamint az egyesületekkel.
+10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a Rendőrségről szóló törvény hatálya alá tartozó rendőri szervekkel, a hivatásos katasztrófavédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszerveivel, az önkormányzati és létesítményi tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal). Az atomenergia alkalmazása körében működő fegyveres biztonsági őrségek az Országos Atomenergia Hivatallal is együttműködnek.
 
 10/C. § A munka törvénykönyvéről szóló 2012. évi I. törvény 86. § (1) bekezdésében foglalt rendelkezéstől eltérően a honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrségnél foglalkoztatott fegyveres biztonsági őr munkaidejéhez nem kell hozzászámítani az előírt formaruha fel- és levételének, valamint a fegyver átvételének és leadásának időtartamát.
 
@@ -339,6 +349,8 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 - b) természeti terület vagy érték károsításának megelőzése, illetve megakadályozása érdekében természeti területet – a természetvédelmi hatóság egyidejű értesítése mellett, a károsítás veszélyének elhárításáig ideiglenesen, vagy a természetvédelmi hatóság közlekedést vagy tartózkodást korlátozó vagy megtiltó határozata alapján – bárki számára nyilvánvalóan észlelhető, továbbá az életet, a testi épséget és a vagyonbiztonságot nem veszélyeztető módon lezárni,
 - c) intézkedése végrehajtásának helyszíni biztosítása érdekében természeti területet – bárki számára nyilvánvalóan észlelhető, továbbá az életet, a testi épséget és a vagyonbiztonságot nem veszélyeztető módon – lezárni.
 
+(3) A természetvédelmi őr jogosult a védelemben részesülő gerinces faj sérült, beteg vagy egyéb ok miatt szabad életre alkalmatlan, továbbá a faj számára alkalmatlan élőhelyen fellelt egyedének életmentés céljából történő és ahhoz szükséges mértékű birtokban tartására, gondozására, belföldi szállítására, amely az egyed mentőközpontba vagy természetes élőhelyére való eljuttatásáig tart.
+
 12/A. § A természetvédelmi őr – a helyszíni bírságolás kivételével – a nemzeti park igazgatóság működési területén kívül is jogosult a 12. § szerint intézkedni, ha a természet és a régészeti örökség védelmének érdekeit sértő jogellenes cselekményt észlel, vagy a nemzeti park igazgatóság működési területén kívüli szolgálatellátást az arra jogosult elrendeli.
 
 13. § (1)
@@ -361,9 +373,11 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 (3) Az önkormányzati természetvédelmi őr az (1) bekezdés b)–c) pontjában meghatározott intézkedéseivel szembeni ellenszegülés leküzdésére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott kényszerítő eszközt alkalmazhat.
 
+(4) Az önkormányzati természetvédelmi őr jogosult a munkáltató települési – Budapest közigazgatási területén belül a fővárosi – önkormányzat közigazgatási területén belül védelemben részesülő gerinces faj sérült, beteg vagy egyéb ok miatt szabad életre alkalmatlan, továbbá a faj számára alkalmatlan élőhelyen fellelt egyedének életmentés céljából történő és ahhoz szükséges mértékű birtokban tartására, gondozására, belföldi szállítására, amely az egyed mentőközpontba vagy természetes élőhelyére való eljuttatásáig tart.
+
 ### Közös szabályok
 
-15. § (1) A természetvédelmi őr és az önkormányzati természetvédelmi őr által alkalmazott intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
+15. § (1) A természetvédelmi őr és az önkormányzati természetvédelmi őr által alkalmazott intézkedések és kényszerítő eszközök jelentésére és kivizsgálásának rendjére, a panasz benyújtására és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
 
 (2)
 
@@ -493,6 +507,8 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 (5) Az (1)–(4) bekezdés előírásait kell megfelelően alkalmazni a külön törvényben meghatározott őrzési feladatokat ellátó halászati őrre, azzal hogy a (3a) bekezdésben meghatározott helyszíni bírság kiszabására csak az önkormányzat alkalmazásában álló halászati őr jogosult.
 
+23/A. § A mezőőr és törvényben meghatározott őrzési feladatot ellátó halászati őr által alkalmazott intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
+
 ### A kényszerítő eszközök használatának szabályai
 
 24–26. §
@@ -511,13 +527,17 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 (2) A hegyőrnek az e törvényben meghatározott tevékenység folytatására való jogosultságát a rendőrség által kiadott szolgálati igazolvány igazolja. A hegyőr szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók. A hegybíró a hegyőr számára az előírt vizsga és eskü letétele után szolgálati naplót ad ki.
 
+(3) A hegyőr az (1) bekezdésben meghatározott feladata ellátása során jogosult és köteles az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedések és kényszerítő eszközök alkalmazására.
+
+(4) A hegyőr által alkalmazott intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
+
 ### IV. Fejezet — Záró rendelkezések
 
 30. § (1) Ez a törvény – a IV. fejezetben foglaltak kivételével – a kihirdetését követő hatodik hónap, a IV. fejezet a kihirdetést követő hónap első napján lép hatályba.
 
 (2)
 
-(3) A törvény I. fejezetének hatálybalépésekor alkalmazott fegyveres biztonsági őr további alkalmazhatóságának alapfeltétele, hogy ismerje e törvényt, a végrehajtására kiadott rendelkezéseket és a szolgálati helye őrszolgálati okmányait, ezekből eredményes vizsgát tegyen. A továbbképzést és vizsgáztatást e törvény kihirdetése után az I. fejezet hatálybalépéséig kell végrehajtani.
+(3) Az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény (a továbbiakban: Módtv.) hatálybalépésekor foglalkoztatási jogviszonyban lévő őr további alkalmazhatóságának alapfeltétele, hogy legkésőbb 2021. december 31-ig e törvény, a végrehajtására kiadott rendeletek és a szolgálati helye őrszolgálati okmányainak ismeretéből eredményes vizsgát tegyen. A Módtv. hatálybalépését követően a jogviszony létesítésekor az alkalmazhatóság feltétele a 7. § (1) bekezdésében meghatározottak mellett, az e törvény, a végrehajtására kiadott rendeletek, továbbá a szolgálati hely őrszolgálati okmányainak ismeretéből tett eredményes vizsga.
 
 (4) Felhatalmazást kap a Kormány, hogy az atomenergia alkalmazása körében elrendelt fegyveres biztonsági őrség tekintetében a fizikai állóképességre és az iskolai végzettségre vonatkozó követelményeket meghatározza.
 

@@ -211,7 +211,7 @@ rendelkezik;
   - aa) nemzetközi dokumentumokban meghatározott béke elleni, háborús vagy emberiesség elleni bűncselekményt követett el;
   - ab) vele szemben a 8. § (5) bekezdése szerinti kizáró ok áll fenn;
   - ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt követett el;
-- b) akinek Magyarország területén való tartózkodása a nemzetbiztonságot sérti.
+- b) akinek Magyarország területén való tartózkodása a nemzetbiztonságot veszélyezteti.
 
 ### Oltalmazottak biztonságos származási országokból és biztonságos harmadik országokból
 
@@ -428,7 +428,7 @@ rendelkezik;
 - e) a kérelem előterjesztésére repülőtéri eljárásban került sor, vagy
 - f) a dublini átadási eljárások biztosítása érdekében szükséges, és komoly veszély áll fenn a szökésre.
 
-(1a) A dublini átadás végrehajtása érdekében a menekültügyi hatóság menekültügyi őrizetbe veheti azt a külföldit, aki Magyarországon menedékjog iránti kérelmet nem terjesztett elő, és esetében dublini átadásnak van helye.
+(1a) A dublini eljárás lefolytatása érdekében a menekültügyi hatóság menekültügyi őrizetbe veheti azt a külföldit, aki Magyarországon menedékjog iránti kérelmet nem terjesztett elő, esetében dublini átadásnak lehet helye, és szökésének komoly veszélye áll fenn.
 
 (1b) Az (1a) bekezdés alapján őrizetbe vett külföldire a menekültügyi őrizet időtartama alatt az elismerését kérőre vonatkozó szabályok megfelelően alkalmazandók. A menekültügyi őrizet megszüntetését, továbbá az átadás meghiúsulását követően – az őrizet megszüntetésével egyidőben meghozott, rendelkezésre állást biztosító intézkedésre vonatkozó döntés kivételével – az idegenrendészeti szabályok alkalmazásának van helye.
 
@@ -455,7 +455,7 @@ rendelkezik;
 
 (9) A menekültügyi őrizetnek a (8) bekezdés a), c), d), illetve f) pontja alapján történő megszüntetése esetén a menekültügyi hatóság az elismerését kérő számára kijelölt tartózkodási helyet rendel el. A menekültügyi őrizetnek a (8) bekezdés e) pontja alapján történő megszüntetése esetén a menekültügyi hatóság kijelölt tartózkodási helyet rendelhet el.
 
-(10) A menekültügyi őrizetet a menekültügyi hatóság – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködésével – az erre a célra kijelölt, az őrizet végrehajtására szolgáló intézményben hajtja végre.
+(10) A menekültügyi őrizetet a menekültügyi hatóság – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködésével – az erre a célra kijelölt, az őrizet végrehajtására szolgáló intézményben vagy – kivételesen indokolt esetben – egészségügyi intézményben hajtja végre.
 
 31/B. § (1) Nem rendelhető el menekültügyi őrizet kizárólag azon az alapon, hogy az elismerését kérő elismerés iránti kérelmet terjesztett elő.
 
@@ -596,9 +596,10 @@ rendelkezik;
 - i) 64. § (1) bekezdés,
 - j) 81. § (2) bekezdés a) pontja,
 - k) 90. §,
-- l) 113. § (2) bekezdés a) és c) pontja,
-- m) 114. § (2) bekezdés,
-- n) 122. §
+- l) 108–110. §,
+- m) 113. § (2) bekezdés a) és c) pontja,
+- n) 114. § (2) bekezdés,
+- o) 122. §
 
 előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -764,7 +765,7 @@ időtartama.
 
 (4) Ha a menekültügyi hatóság megállapítja, hogy a közigazgatási bíróság által el nem bírált döntése jogszabályt sért, a döntését annak közlésétől számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja.
 
-(5) A döntést a hatósági igazolványba és bizonyítványba felvett téves bejegyzés kivételével nem lehet módosítani vagy visszavonni, ha az jóhiszeműen szerzett és gyakorolt jogot sértene.
+(5) A döntést a hatósági igazolványba, bizonyítványba, valamint hatósági nyilvántartásba felvett téves bejegyzés kivételével nem lehet módosítani vagy visszavonni, ha az jóhiszeműen szerzett és gyakorolt jogot sértene.
 
 (6) Az ügyfél – az önálló jogorvoslattal nem támadható végzések kivételével – a véglegessé vált döntés ellen közigazgatási pert indíthat.
 
@@ -877,6 +878,11 @@ követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
 (8) A végrehajtást meg kell szüntetni, ha a követelés elévült vagy a további eljárási cselekményektől már nem várható eredmény. A végrehajtást foganatosító szerv a megszűnési okról és a végrehajtás befejezéséről a végrehajtást elrendelő menekültügyi hatóságot értesíti.
 
+(8a) Megszűnik a végrehajtási eljárás
+
+- a) az adóhatóságnak a végrehajtás eredménytelenségéről szóló értesítése és a behajtási eljárásának második alkalommal történő megszüntetése esetén;
+- b) ha az adós meghal.
+
 (9) A végrehajtási jog a teljesítési határidő utolsó napjától számított öt év elteltével elévül.
 
 (10) A végrehajtási jog elévülését bármely végrehajtási cselekmény megszakítja.
@@ -886,6 +892,14 @@ követő ötödik munkanapon kézbesítettnek kell tekinteni.
 (12) A kötelezett kérelmére a menekültügyi hatóság vezetője – a végrehajtás foganatosítása előtt – indokolt esetben kamatmentes részletfizetést vagy fizetési halasztást engedélyezhet.
 
 (13) A menekültügyi hatóság vezetőjének döntése ellen indult közigazgatási perben a bíróság a döntés megváltoztatására nem jogosult.
+
+### Zár alá vétel
+
+32/Z. § (1) Ha a tényállás másként nem tisztázható vagy az jelentős késedelemmel járna, vagy a zár alá vétel mellőzése a tényállás tisztázásának sikerét veszélyeztetné, a menekültügyi hatóság jogosult valamely dolog birtokának a birtokos rendelkezése alóli elvonására.
+
+(2) A dolog birtokosa köteles a zár alá vett elektronikus adathordozóhoz tartozó hozzáférési adatokat a menekültügyi hatóság részére átadni. A menekültügyi hatóság a zár alá vett dologban tárolt adatokhoz történő hozzáféréshez szakértő közreműködését veszi igénybe. Ha a tárolt adatok személyes adatot tartalmaznak, azokat a menekültügyi hatóság a menekültügyi eljárásban történő személyazonosság megállapítása érdekében szükséges ideig és mértékig használhatja fel és tárolhatja. A tényállás tisztázásához nem szükséges adatokat a menekültügyi hatóság nem használhatja fel és nem tárolhatja. A zár alá vett dologban tárolt adatokat a menekültügyi hatóság és az igénybe vett szakértő nem törölheti, és köteles a dolgot rendeltetésszerűen kizárólag a tényállás tisztázásához szükséges adatok kinyerése érdekében használni.
+
+(3) A tényállás tisztázásához a továbbiakban már nem szükséges zár alá vett dolgot ki kell adni annak, akitől azt zár alá vették. Ha a zár alá vett dolog hamis vagy hamisított irat vagy okmány, az a menekültügyi eljárás lezárulását követően sem adható ki. Ha a hatóság más szerv hatáskörébe tartozó eljárást kezdeményez, az eljárás lefolytatásához szükséges zár alá vett iratokat és tárgyi bizonyítékokat átadja a megkeresett szervnek.
 
 ### VII. Fejezet — A MENEKÜLTÜGYI ELJÁRÁS ÁLTALÁNOS SZABÁLYAI
 
@@ -1271,7 +1285,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 - b) a vallás fogalma magában foglalja különösen a teista, nem teista és ateista meggyőződéseket, a magán jellegű, illetve nyilvános vallásos szertartásokon – akár egyedül, akár másokkal – való részvételt, illetve az ilyen szertartásokon történő részvételtől való tartózkodást, továbbá más vallásos jellegű tevékenységet vagy véleménynyilvánítást, bármilyen vallásos hiten alapuló, illetve e hit által megkövetelt személyes vagy közösségi magatartásformát;
 - c) a nemzeti hovatartozás fogalma nem korlátozódik az állampolgárságra vagy annak hiányára, hanem magában foglalja különösen az olyan csoporthoz való tartozást is, amelyet annak kulturális, etnikai, illetve nyelvi identitása, közös földrajzi vagy politikai származása, illetve egy másik állam lakosságához fűződő viszonya határoz meg;
 - d) valamely csoport különösen akkor minősül meghatározott társadalmi csoportnak, ha:
-  - da) a csoport tagjai olyan velük született jellemző tulajdonsággal vagy meg nem változtatható közös háttérrel rendelkeznek, vagy olyan közös meggyőződésük, illetve jellemző tulajdonságaik vannak, amelyek olyannyira alapvetőek az önazonosság, illetve a lelkiismeret szabadsága szempontjából, hogy az érintett személyeket nem lehet ezek feladására kényszeríteni, vagy
+  - da) a csoport tagjai olyan velük született jellemző tulajdonsággal vagy meg nem változtatható közös háttérrel rendelkeznek, vagy olyan közös meggyőződésük, illetve jellemző tulajdonságaik vannak, amelyek olyannyira alapvetőek az önazonosság, illetve a lelkiismeret szabadsága szempontjából, hogy az érintett személyeket nem lehet ezek feladására kényszeríteni és
   - db) a csoport az érintett országban egyértelműen elkülöníthető identitással rendelkezik, mivel a csoportot az azt körülvevő társadalom különbözőként kezeli;
 - e) a politikai vélemény fogalma különösen azt foglalja magában, hogy a kérelmező egy olyan ügyben, amely a kérelmező üldözőjével, annak politikájával vagy eljárásával kapcsolatos, meghatározott véleményt vagy meggyőződést képvisel, függetlenül attól, hogy a kérelmező az adott vélemény vagy meggyőződés alapján cselekedett-e.
 
@@ -1433,7 +1447,7 @@ a tranzitzónában nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt el
 
 75/A. § (1) A menekültkénti, oltalmazottkénti és befogadottkénti elismerés feltételei fennállásának felülvizsgálata során a VII. Fejezet és az 57–68. § rendelkezéseit megfelelően kell alkalmazni.
 
-(2) A menekültkénti vagy oltalmazottkénti elismerés felülvizsgálatára irányuló eljárást az eljárás megindításától számított 60 napon belül kell lefolytatni.
+(2) A menekültkénti, oltalmazottkénti vagy befogadottkénti elismerés felülvizsgálatára irányuló eljárást az eljárás megindításától számított 60 napon belül kell lefolytatni.
 
 ### IX. Fejezet — A MENEDÉKESKÉNTI ELISMERÉSRE IRÁNYULÓ ELJÁRÁS
 
@@ -1635,7 +1649,7 @@ meghaladja,
 
 (10) Az elismerését kérő a további jogorvoslattal nem támadható döntés közlését követően a tranzitzónát elhagyja.
 
-(11) Ha az elismerését kérő ismételt kérelmét azt követően nyújtja be, hogy korábbi kérelme tárgyában végleges megszüntető vagy elutasító döntés született, az elismerését kérőt nem illetik meg az 5. § (1) bekezdés a)–c) pontjában foglalt jogosultságok.
+(11) Ha az elismerését kérő ismételt kérelmét azt követően nyújtja be, hogy korábbi kérelme tárgyában végleges megszüntető, elutasító vagy státusz-visszavonó döntés született, az elismerését kérőt nem illetik meg az 5. § (1) bekezdés a)–c) pontjában foglalt jogosultságok.
 
 ### X. Fejezet — ADATKEZELÉS ÉS NYILVÁNTARTÁSOKRA VONATKOZÓ SZABÁLYOK
 
@@ -1659,7 +1673,7 @@ céljából a menekültügyi nyilvántartásban kezeli.
 - d) álneve vagy álnevei;
 - e) születési helye és ideje;
 - f) neme;
-- g) anyja születési családi és utóneve vagy -nevei;
+- g) anyja születési és az előző születési családi és utóneve vagy -nevei;
 - h) jelenlegi és korábbi állampolgársága, állampolgárságai vagy hontalan státusza;
 - i) menekült vagy oltalmazott esetén személyi azonosítója.
 
@@ -1797,7 +1811,8 @@ számított huszonöt évig kezeli.
 - g) a papíralapú anyakönyvnek az elektronikus anyakönyvbe bejegyzendő adatairól;
 - h) az elektronikus és papíralapú anyakönyvi alapiratokból;
 - i) a gondnokoltak nyilvántartásából;
-- j) az egységes szociális nyilvántartásból.
+- j) az egységes szociális nyilvántartásból
+- k) az állampolgársági ügyekben eljáró szervtől.
 
 (2) A menekültügyi hatóság eljárása során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzésére adatot igényelhet:
 
@@ -1813,7 +1828,9 @@ számított huszonöt évig kezeli.
 - j) az egységes szociális nyilvántartásból;
 - k) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől.
 
-86/A. § A menekültügyi hatóság e törvény szerinti eljárása során a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető személyi körözések adatállományban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
+86/A. § (1) A menekültügyi hatóság e törvény szerinti eljárása során a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető személyi körözések adatállományban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
+
+(2) A menekültügyi hatóság e törvény szerinti eljárása során átveheti és kezelheti a közérdekből nyilvános, e törvény alapján kezelhető adatok körébe tartozó személyes adatokat, ide értve a nyilvános külföldi adatforrásból származó adatot is.
 
 87. § (1) Az e fejezetben meghatározott nyilvántartásokból jogszabályban meghatározott feladataik ellátása céljából – törvényben meghatározott adatkörben –
 

@@ -201,7 +201,7 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
 
 (3) A 3. § (1) bekezdését a szolgáltatási kerettörvény szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő lövészet-vezetői tevékenységére is alkalmazni kell.
 
-4/B. § A 3. § szerinti közigazgatási hatósági eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+4/B. §
 
 4/C. § A 3. § (1) bekezdése szerinti közigazagtási hatósági ügyben hozott elsőfokú döntés ellen fellebbezésnek van helye.
 

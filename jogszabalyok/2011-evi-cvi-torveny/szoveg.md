@@ -59,14 +59,24 @@ kerül sor,
 - a) a tanköteles gyermekének mulasztása miatt
   - aa)
   - ab) e szabálysértés elkövetéséért három hónapon belül jogerősen elmarasztalták, vagy
-- b)
+- b) közvetlen lakókörnyezetének rendezetlen állapota miatt
+  - ba) a feladat- és hatáskör szerint érintett hatóság az egészségre vagy a közbiztonságra vonatkozó kockázatot állapított meg, vagy
+  - bb) a jegyző – a ba) alpont szerinti hatósági megállapítás hiányában – a helyi önkormányzati rendeletben előírt kötelezettségek nem teljesítését állapította meg
+
+végleges határozatban,
+
 - c) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó rendelkezések szerint megfelelő munkahelyet nem fogadja el,
 - d) a számára egyszerűsített foglalkoztatás keretében felajánlott munkát nem fogadja el, vagy
 - e) a közfoglalkoztatási jogviszony létesítését megelőző három hónapon belül a közfoglalkoztatáson kívüli egyéb foglalkoztatási jogviszonya munkavállalói felmondással vagy a munkáltató azonnali hatályú felmondásával – ide nem értve a próbaidő alatti azonnali hatályú felmondást – szűnt meg,
 - f) a közfoglalkoztatási jogviszonya a közfoglalkoztató azonnali hatályú felmondásával szűnik meg,
 - g) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó rendelkezések szerinti képzési lehetőséget nem fogadja el.
 
-(4b)
+(4b) A (4a) bekezdés b) pontja szerinti, a közfoglalkoztatásból történő kizárás tárgyában hivatalból folytatott közigazgatási hatósági eljáráshoz
+
+- a) az egészségügyi, közbiztonsági kockázatot megállapító hatóság, vagy
+- b) – az a) pont szerinti hatósági megállapítás hiányában – a jegyző
+
+az állami foglalkoztatási feladatot ellátó járási hivatal (a továbbiakban: járási hivatal) részére öt napon belül adatot szolgáltat.
 
 (4c) A (4a) bekezdés a) pont ab) alpontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a járási hivatal adatot közvetlenül vehet át a szabálysértési nyilvántartásból.
 
@@ -74,13 +84,31 @@ kerül sor,
 
 (4e) Ha a közfoglalkoztatási jogviszony létrehozását követően értesül a járási hivatal a közfoglalkoztatást kizáró okról, a kizárásról szóló döntését közli a közfoglalkoztatóval. A közfoglalkoztató a közfoglalkoztatási jogviszonyt a jogerős döntés alapján azonnali felmondással megszünteti.
 
-(4f)
+(4f) A (4b) bekezdés b) pontja szerinti esetben a járási hivatal megkeresésére nincs szükség, ha
 
-(4g)
+- a) a közfoglalkoztatást
+  - aa) a közfoglalkoztatott lakóhelye szerinti helyi önkormányzat, annak intézménye, vagy
+  - ab) a helyi önkormányzat által alapított gazdálkodó szervezet
+
+valósítja meg, vagy
+
+- b) az önkormányzatnak nincs a (4a) bekezdés b) pont bb) alpontja szerinti hatályos önkormányzati rendelete.
+
+(4g) A (4f) bekezdés a) pontja szerinti közfoglalkoztató megtagadhatja a közfoglalkoztatási jogviszony létesítését, ha az álláskeresővel szemben a (4a) bekezdés b) pontja szerinti kizárási ok fennállásáról van tudomása.
 
 (4h) A (4a) bekezdés d) pontja szerinti kizárási ok esetén a járási hivatal a döntése meghozatala előtt ellenőrzi a rendelkezésére álló – különösen az állami adóhatóság által az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint megküldött – adatokat.
 
 (4i) A járási hivatal a (4a) bekezdés e) pontjában meghatározott feltétel fennállását az Flt. 36/A. §-a szerinti, a munkáltató által kiállított igazolólapból állapítja meg.
+
+(4j) E törvény alkalmazásában
+
+- a) közvetlen lakókörnyezet a lakhatás helyéül szolgáló ingatlan (az azon lévő építmény, kert, udvar), valamint jogszabályban meghatározott, az ingatlanhoz kapcsolódó utcafronti közterület,
+- b) rendezetlen állapotú lakókörnyezet:
+  - ba) az ingatlanon hulladék-felhalmozás vagy egészségre káros anyagok tárolása történik,
+  - bb) az ingatlanon balesetveszélyes építmény található,
+  - bc) az ingatlan elhanyagolt állapota a növényi és állati kártevők, kórokozók elszaporodását elősegíti,
+  - bd) az ingatlanról az állatok közterületre kijutása akadálytalanul történik,
+  - be) az ingatlanhasználó az ingatlannal kapcsolatban a helyi önkormányzati rendeletben előírt kötelezettségeket nem teljesíti.
 
 2. § (1) A közfoglalkoztatási jogviszonyra az Mt. szabályai alkalmazandók, a (2)–(5) bekezdésben meghatározott eltérésekkel.
 
