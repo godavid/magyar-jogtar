@@ -252,7 +252,9 @@ lép.
 
 #### 23. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-89. §
+89. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 4. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az 5. § (1) bekezdése, a 6. § (1) bekezdése és a 7. § (1) bekezdése szerint ajánlatkérőnek minősülő szervezetek a 15. § (1) bekezdés b) pontja szerinti értékhatárt – ahol ilyen értékhatár nem kerül meghatározásra [15. § (4) bekezdés], a 15. § (1) bekezdés a) pontja szerinti értékhatárt – el nem érő értékű, a 8. § (2)–(6) bekezdése szerinti szerződéseik megkötésekor kötelesek az e törvény végrehajtási rendeletében foglalt követelményeknek megfelelően a 2. § (1)–(5) bekezdésében foglalt alapelveket érvényesíteni. Ezekre a beszerzésekre e törvény rendelkezéseit kizárólag annyiban kell alkalmazni, amennyiben e törvény végrehajtási rendelete azt előírja.”
 
 90. §
 
@@ -264,34 +266,42 @@ lép.
 
 94. §
 
-95. §
+95. § A Kbt. 195. §-a a következő (4) bekezdéssel egészül ki:
 
-96. §
+„(4) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek, amelyekben az állam nevében a tulajdonosi (például részvényesi, tagsági) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján a Kormány tagja, központi költségvetési szerv vagy intézménye gyakorolja, a közbeszerzésekért felelős miniszter kérésére kötelesek a közbeszerzéseikkel összefüggő bármely adatot, dokumentumot a miniszter részére öt munkanapon belül megküldeni. Ezen ajánlatkérők kötelesek a közbeszerzési értékhatárt el nem érő értékű, a 4. § (3) bekezdése szerinti beszerzéseikkel kapcsolatos adatokat a Kormány rendeletében meghatározottak szerint a közbeszerzésekért felelős miniszter részére megküldeni. A közbeszerzésekért felelős miniszter jogosult arra, hogy más szerv feladatkörébe tartozó jogsértés gyanúja esetén a hatáskörrel rendelkező szervnek átadja a Kormány rendeletében meghatározottak szerint végzett, a közbeszerzési értékhatárt el nem érő értékű beszerzések ellenőrzése révén rendelkezésére álló bármely adatot.”
 
-97. §
+96. § A Kbt. 197. §-a a következő (19) bekezdéssel egészül ki:
+
+„(19) E törvénynek az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló törvénnyel megállapított 4. § (3) bekezdését a hatálybalépését követően megkötött szerződésekre kell alkalmazni.”
+
+97. § A Kbt. 198. § (1) bekezdése a következő 20. ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza)
+
+„20. az ajánlatkérők közbeszerzési értékhatárt el nem érő, a 4. § (3) bekezdése szerinti beszerzéseinek megvalósítására vonatkozó követelményeket, valamint a 195. § (4) bekezdésében meghatározott ajánlatkérő szervezetek közbeszerzési értékhatárt el nem érő beszerzéseivel kapcsolatos adatoknak, dokumentumoknak a közbeszerzésekért felelős miniszter részére történő megküldésére és ezen ajánlatkérők beszerzéseinek a közbeszerzésekért felelős miniszter általi ellenőrzésére vonatkozó szabályokat;”
 
 98. § A Kbt.
 
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
-- 10.
-- 11.
-- 12.
-- 13.
+- 1. 3. § 40. pontjában az „illetve adatfeldolgozás” szövegrész helyébe az „adatfeldolgozás” szöveg,
+- 2. 4. § (1) bekezdésében az „illetve építési” szövegrész helyébe az „építési” szöveg,
+- 3. 9. § (1) bekezdés j) pontjában az „illetve közszolgáltatások” szövegrész helyébe a „közszolgáltatások” szöveg,
+- 4. 14. § (1) bekezdésében a „kivételek is alkalmazandóak” szövegrész helyébe a „kivételeket is alkalmazni kell” szöveg,
+- 5. 20. § (2) bekezdés g) pontjában a „jelentkezők vagy” szövegrész helyébe a „jelentkezők, vagy” szöveg,
+- 6. 24. § (2) bekezdés b) pontjában és (4) bekezdés b) pontjában a „törvény alkalmazandó” szövegrész helyébe a „törvényt kell alkalmazni” szöveg,
+- 7. 87. § (1) bekezdésében az „eldönthessék, hogy” szövegrész helyébe az „eldönthessék,” szöveg,
+- 8. 95. § (1) bekezdésében az „amelynek” szövegrész helyébe az „aminek” szöveg,
+- 9. 96. § (7) bekezdésében a „megadni és” szövegrész helyébe a „megadni, és” szöveg,
+- 10. 119. § (2) bekezdés g) pontjában a „szerint” szövegrész helyébe az „alapján” szöveg,
+- 11. 124. § (4) bekezdésében az „e dokumentum” szövegrész helyébe az „a dokumentum” szöveg,
+- 12. 125. § (1) bekezdésében az „(1)–(8) és (11)” szövegrész helyébe az „(1)–(8), (11)” szöveg,
+- 13. 138. § (3) bekezdésében a „nyilatkozni vagy” szövegrész helyébe a „nyilatkozni, vagy” szöveg,
 - 14.
 - 15.
 - 16.
 - 17.
-- 18.
-- 19.
-- 20.
+- 18. 195. § (3) bekezdésében a „külön jogszabály” szövegrész helyébe a „jogszabály” szöveg,
+- 19. 197. § (18) bekezdésében a „december 31-ig” szövegrészek helyébe a „december 31-éig” szöveg,
+- 20. 198. § (1) bekezdés 19. pontjában a „valamint a” szövegrész helyébe az „a” szöveg
 
 lép.
 

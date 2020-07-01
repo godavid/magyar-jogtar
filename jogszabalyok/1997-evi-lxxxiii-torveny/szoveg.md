@@ -10,7 +10,7 @@ Az Országgyűlés az Alaptörvényben foglalt elvekből kiindulva, az esélyegy
 
 1. § (1) E törvény hatálya
 
-- a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerint biztosított, továbbá egészségügyi szolgáltatás igénybevételére, illetve baleseti ellátásra jogosult személyekre, valamint szerződés vagy törvény rendelkezése alapján egyes egészségbiztosítási ellátásokra jogosult személyekre,
+- a) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerint biztosított, továbbá egészségügyi szolgáltatás igénybevételére, illetve baleseti ellátásra jogosult személyekre, valamint szerződés vagy törvény rendelkezése alapján egyes egészségbiztosítási ellátásokra jogosult személyekre,
 - b) az e törvény szerinti határon átnyúló egészségügyi ellátást igénybe vevő uniós betegre,
 - c) a Tbj. szerint társadalombiztosítási járulékot fizető személyekre és szervezetekre,
 - d) az egészségbiztosítási ellátások teljesítésében szerződés alapján részt vevő szolgáltatókra,
@@ -24,9 +24,9 @@ terjed ki.
 
 2. § (1) Az egészségbiztosítási ellátások közül az egészségügyi szolgáltatások – e törvény keretei között és az e törvény felhatalmazása alapján kiadott finanszírozási, vizsgálati és terápiás eljárási rendek figyelembevételével, a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvényben foglalt kivételekkel – az egészségi állapot által indokolt mértékben vehetők igénybe.
 
-(2) Az egészségbiztosítási ellátások – az e törvényben, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvényben foglalt kivételekkel – a pénzbeli egészségbiztosítási járulékfizetési kötelezettséggel arányosan vehetők igénybe.
+(2) Az egészségbiztosítási ellátások – az e törvényben, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvényben foglalt kivételekkel – a társadalombiztosítási járulékfizetési kötelezettséggel arányosan vehetők igénybe.
 
-(3) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott engedélyezési eljárásokban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(3)
 
 3. § (1) Az egészségügyi szolgáltatások azonos szakmai tartalommal illetik meg az egészségbiztosítás egészségügyi szolgáltatásaira jogosult személyeket.
 
@@ -36,17 +36,17 @@ terjed ki.
 
 5. § Az egészségbiztosító tájékoztatja a biztosítottat jogairól és kötelezettségeiről, segítséget nyújt igénye érvényesítéséhez.
 
-5/A. § Az utazási költségtérítéssel, a külföldön történő gyógykezeléssel összefüggő eljárásokkal, a méltányosságból igénybe vehető pénzbeli ellátásokkal – ideértve az egyszeri segélyt is – kapcsolatos ügyekben, valamint a Tbj. 13. §-a alapján indult eljárásokban – kivéve az európai egészségbiztosítási kártyával és az alkalmazandó jogszabályok meghatározásával kapcsolatos eljárásokat – az elektronikus kapcsolattartás kizárt.
+5/A. § Az utazási költségtérítéssel, a külföldön történő gyógykezeléssel összefüggő eljárásokkal, a méltányosságból igénybe vehető pénzbeli ellátásokkal – ideértve az egyszeri segélyt is – kapcsolatos ügyekben, valamint a Tbj. 3. §-a alapján indult eljárásokban – kivéve az európai egészségbiztosítási kártyával és az alkalmazandó jogszabályok meghatározásával kapcsolatos eljárásokat – az elektronikus kapcsolattartás kizárt.
 
 ### Fogalommeghatározások
 
 5/B. § E törvény alkalmazásában
 
 - a) biztosított:
-  - aa) az egészségbiztosítás egészségügyi szolgáltatásainak tekintetében a Tbj. 5. §-a szerinti biztosított, valamint a Tbj. 13. §-a és a 16. § (1) és (3) bekezdése szerint egészségügyi szolgáltatásra jogosult személy,
-  - ab) az egészségbiztosítás pénzbeli ellátásai tekintetében a Tbj. 5. §-a szerinti biztosított,
-  - ac) a baleseti táppénz és baleseti járadék tekintetében a Tbj. 5. §-a szerinti biztosított és a Tbj. 15. §-ának (1) bekezdésében meghatározott személy,
-  - ad) a baleseti egészségügyi szolgáltatás tekintetében a Tbj. 5. §-a szerinti biztosított, a Tbj. 15. § (1) és (2) bekezdésében meghatározott személy, valamint az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 7. § (2) bekezdése szerinti foglalkoztatás keretében alkalmazott munkavállaló,
+  - aa) az egészségbiztosítás egészségügyi szolgáltatásainak tekintetében a Tbj. 6. §-a szerinti biztosított, valamint a Tbj. 3. §-a és a 22. § (1) és (3) bekezdése szerint egészségügyi szolgáltatásra jogosult személy,
+  - ab) az egészségbiztosítás pénzbeli ellátásai tekintetében a Tbj. 6. §-a szerinti biztosított,
+  - ac) a baleseti táppénz és baleseti járadék tekintetében a Tbj. 6. §-a szerinti biztosított,
+  - ad) a baleseti egészségügyi szolgáltatás tekintetében a Tbj. 6. §-a szerinti biztosított, a Tbj. 21. §-a szerint baleseti egészségügyi szolgáltatásra jogosult személy, valamint az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 7. § (2) bekezdése szerinti foglalkoztatás keretében alkalmazott munkavállaló,
 - b) egészségügyi szolgáltató: a külön jogszabály alapján egészségügyi szolgáltatás nyújtására jogosult természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet,
 - c) gyógyszertár: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény hatálya alá tartozó gyógyszertár,
 - d) gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. §-ának 1. pontjában meghatározott termék és a különleges táplálkozási igényt kielégítő tápszer,
@@ -84,15 +84,15 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 5/C. § (1) E törvény alkalmazásában
 
-- a) jövedelem: az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének kiszámításánál az e törvényben meghatározott időszakra adóelőleg megállapításához az állami adóhatóságnál bevallott, pénzbeli egészségbiztosítási járulékalapot képező jövedelem;
+- a) jövedelem: az egészségbiztosítás pénzbeli ellátásai és a baleseti táppénz összegének kiszámításánál az e törvényben meghatározott időszakra adóelőleg megállapításához az állami adóhatóságnál bevallott, társadalombiztosítási járulékalapot képező jövedelem;
 - b) szerződés szerinti havi jövedelem:
   - ba) betegszabadságra jogosultak esetén az ellátásra való jogosultság kezdő napjának hónapjára számított távolléti díj, illetve az illetmény egy hónapra járó összege,
   - bb) egészségügyi szabadságra jogosultak esetében az ellátásra való jogosultság kezdő napjának hónapjára számított, egészségügyi szabadság idejére járó távolléti díj,
-  - bc) egyéni és társas vállalkozók esetében a jogosultság kezdő napján érvényes minimálbér másfélszerese,
-  - bd) a Tbj. 5. § (1) bekezdés g) pontja esetében a 30 napot meg nem haladó biztosítási jogviszony esetén az ellátásra való jogosultság kezdő napján érvényes minimálbér, egyéb esetben a jogviszony alapjául szolgáló szerződésben meghatározott díj,
-  - be) mezőgazdasági őstermelő esetében a jogosultság kezdő napján érvényes minimálbér;
+  - bc) egyéni és társas vállalkozók esetében a jogosultság kezdő napján érvényes minimálbér,
+  - bd) a Tbj. 6. § (1) bekezdés f) pontja esetében a 30 napot meg nem haladó biztosítási jogviszony esetén az ellátásra való jogosultság kezdő napján érvényes minimálbér, egyéb esetben a jogviszony alapjául szolgáló szerződésben meghatározott díj,
+  - be) mezőgazdasági őstermelő esetében a jogosultság kezdő napján érvényes minimálbér 92 százaléka,
 - c) az egészségbiztosítás pénzbeli ellátásai: a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a táppénz;
-- d) kereset: a Tbj. 5. §-ában meghatározott jogviszonyban személyes munkavégzésért járó pénzbeli egészségbiztosítási járulékalapot képező jövedelem;
+- d) kereset: a Tbj. 6. §-ában meghatározott jogviszonyban személyes munkavégzésért járó társadalombiztosítási járulékalapot képező jövedelem.
 - e) egyedülálló: az, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van.
 
 (2) Az 5/B. §-ban és az (1) bekezdésben meg nem határozott fogalmak tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ában foglaltakat kell alkalmazni.
@@ -414,8 +414,8 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 (5) A transzplantációs várólistára való felvételre jogosult:
 
-- a) a Tbj. 5. §-a szerinti biztosított,
-- b) a Tbj. 16. § (1) bekezdése alapján egészségügyi szolgáltatásra jogosult személy, ide nem értve a Tbj. 16. § (1) bekezdés p) pontja alapján egészségügyi szolgáltatásra jogosultakat,
+- a) a Tbj. 6. §-a szerinti biztosított,
+- b) a Tbj. alapján egészségügyi szolgáltatásra jogosult személy, ide nem értve a Tbj. alapján egészségügyi szolgáltatás megszerzése érdekében kötött megállapodás alapján jogosultakat,
 - c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egészségbiztosítója az ellátás igénybevételét az uniós rendeletek, illetve kétoldalú egyezmény alapján előzetesen, vagy az egyezményben meghatározottak szerint engedélyezte.
 
 (6) A biztosított jogosult a kezelőorvosánál mindazon vizsgálatok kezdeményezésére és – a kezelőorvos javaslata alapján – elvégeztetésére, amelyek a várakozás sorrendjét befolyásoló egészségi állapotváltozás megállapításához szükségesek.
@@ -721,7 +721,7 @@ igazolja.
 
 (8) A nemzetközi egyezmény vagy az uniós rendeletek hatálya alá tartozó személy az egyezményben vagy az uniós rendeletekben meghatározott egészségügyi szolgáltatásra vonatkozó jogosultságát az egyezményben vagy az uniós rendeletekben meghatározott módon igazolja.
 
-(9) Az egészségügyi szolgáltatás igénybevételére való jogosultság a Tbj.-ben meghatározott belföldi személy részére a biztosítási jogviszonynak, illetve a Tbj. 16. § (1) bekezdés a)–o) és s) pontjában meghatározott jogosultsági feltételnek a megszűnését követően
+(9) Az egészségügyi szolgáltatás igénybevételére való jogosultság a Tbj.-ben meghatározott belföldi személy részére a biztosítási jogviszonynak, illetve a Tbj. 22. § (1) bekezdés a)–o) és r) pontjában meghatározott jogosultsági feltételnek a megszűnését követően
 
 - a) 45 napig marad fenn, ha a jogosultsági feltétel a megszűnést megelőzően megszakítás nélkül legalább 45 napig fennállt,
 - b) ha a jogosultsági feltétel fennállásának az időtartama 45 napnál rövidebb volt, akkor ezen időtartammal hosszabbodik meg,
@@ -1091,7 +1091,7 @@ PÉNZBELI ELLÁTÁSAI
 
 (4) Az (1) bekezdés szerinti ellátásokra való jogosultságot, a folyósítás időtartamát és az ellátás összegét jogviszonyonként kell elbírálni és megállapítani.
 
-39/B. § (1) Ha a pénzbeli ellátásra, baleseti táppénzre való jogosultság megállapítása során az ellátás összege – az Ákr. 50. § (5) bekezdésében meghatározott időtartam figyelmen kívül hagyásával – huszonöt napon belül azért nem állapítható meg, mert nem került sor a biztosított jövedelméről bevallás benyújtására az adóelőleg megállapításához, a rendelkezésre álló adatok alapján kell megállapítani az ellátást.
+39/B. § (1) Ha a pénzbeli ellátásra, baleseti táppénzre való jogosultság megállapítása során az ellátás összege – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 50. § (5) bekezdésében meghatározott időtartam figyelmen kívül hagyásával – huszonöt napon belül azért nem állapítható meg, mert nem került sor a biztosított jövedelméről bevallás benyújtására az adóelőleg megállapításához, a rendelkezésre álló adatok alapján kell megállapítani az ellátást.
 
 (2)
 
@@ -1192,7 +1192,7 @@ a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–h) pon
 - b) a Gyvtv. 84. §-a szerinti gyermekvédelmi gyám és
 - c) a nevelőszülő, függetlenül attól, hogy a nála elhelyezett, gyermekvédelmi gondoskodás alatt álló gyermek tekintetében kirendelték-e gyámként.
 
-(3) Ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszonya mellett egyidejűleg fennálló Tbj. 5. §-a szerinti biztosítási jogviszonnyal rendelkezik és ezen jogviszonyában azon nevelt gyermekére tekintettel válik jogosulttá gyermekgondozási díjra, amelyre a 42/F. § szerinti gyermekgondozási díj került megállapításra, az (1) bekezdés a) pontja alkalmazásakor a nevelőszülőt szülőnek kell tekinteni azzal, hogy az ellátásra való jogosultság kezdőnapját a nevelőszülő valamennyi biztosítási jogviszonya tekintetében a 42/F. § (4) bekezdése szerint kell megállapítani.
+(3) Ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszonya mellett egyidejűleg fennálló Tbj. 6. §-a szerinti biztosítási jogviszonnyal rendelkezik és ezen jogviszonyában azon nevelt gyermekére tekintettel válik jogosulttá gyermekgondozási díjra, amelyre a 42/F. § szerinti gyermekgondozási díj került megállapításra, az (1) bekezdés a) pontja alkalmazásakor a nevelőszülőt szülőnek kell tekinteni azzal, hogy az ellátásra való jogosultság kezdőnapját a nevelőszülő valamennyi biztosítási jogviszonya tekintetében a 42/F. § (4) bekezdése szerint kell megállapítani.
 
 (4) A gyermekgondozási díjra történő jogosultsághoz szükséges előzetes 365 napi biztosítási időbe be kell számítani
 
@@ -1215,7 +1215,7 @@ a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–h) pon
 42/C. § (1) Nem jár a gyermekgondozási díj, ha
 
 - a)
-- b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, az örökbefogadói díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, a jogosult nem ugyanazon gyermekére tekintettel megállapított gyermekek otthongondozási díját, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást, vagy ha a jogosult rendszeres pénzellátásban részesül és a csecsemőgondozási díjra, az örökbefogadói díjra, vagy a gyermekgondozási díjra való jogosultság kezdő napján pénzbeli egészségbiztosítási járulék fizetésére kötelezett;
+- b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, az örökbefogadói díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, a jogosult nem ugyanazon gyermekére tekintettel megállapított gyermekek otthongondozási díját, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást, vagy ha a jogosult rendszeres pénzellátásban részesül és a csecsemőgondozási díjra, az örökbefogadói díjra, vagy a gyermekgondozási díjra való jogosultság kezdő napján társadalombiztosítási járulék fizetésére kötelezett;
 - c) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
 - d) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, mini bölcsőde, munkahelyi bölcsőde, családi bölcsőde, napközbeni gyermekfelügyelet) helyezték el, kivéve ha a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
 - e) a jogosult letartóztatásban van, vagy szabadságvesztést, elzárást tölt;
@@ -1352,7 +1352,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 ### Táppénz
 
-43. § (1) Táppénzre jogosult az, aki a biztosítás fennállása alatt keresőképtelenné válik és a Tbj.-ben meghatározott mértékű pénzbeli egészségbiztosítási járulék fizetésére kötelezett.
+43. § (1) Táppénzre jogosult az, aki a biztosítás fennállása alatt keresőképtelenné válik és a Tbj.-ben meghatározott mértékű társadalombiztosítási járulék fizetésére kötelezett.
 
 (2) Egyidejűleg fennálló több biztosítási jogviszony esetén a keresőképtelenséget és a táppénzre való jogosultságot, azok időtartamát, az ellátás mértékét, illetőleg összegét mindegyik jogviszonyban külön-külön kell megállapítani. E rendelkezés vonatkozik arra az esetre is, ha a több biztosítási jogviszony ugyanannál a foglalkoztatónál áll fenn.
 
@@ -1381,7 +1381,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (4) Kivételesen indokolt esetben – a (3) bekezdésben foglaltaktól eltérően – az orvosszakértői szerv a keresőképtelenséget a vizsgálatra jelentkezés időpontjától legfeljebb hat hónapra visszamenőleg is igazolhatja.
 
-46. § (1) Táppénz a biztosítási jogviszony fennállásának időtartama alatt, a keresőképtelenség tartamára jár, legfeljebb azonban a keresőképtelenség első napját közvetlenül megelőző – 48/A. § (1) bekezdése szerinti – folyamatos biztosítási időszak alatt a Tbj. 5. §-ában meghatározott biztosításban töltött napoknak megfelelő számú napra,
+46. § (1) Táppénz a biztosítási jogviszony fennállásának időtartama alatt, a keresőképtelenség tartamára jár, legfeljebb azonban a keresőképtelenség első napját közvetlenül megelőző – 48/A. § (1) bekezdése szerinti – folyamatos biztosítási időszak alatt a Tbj. 6. §-ában meghatározott biztosításban töltött napoknak megfelelő számú napra,
 
 - a) de legfeljebb egy éven át;
 - b) egyévesnél fiatalabb gyermek szoptatása, illetve otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén a gyermek egyéves koráig;
@@ -1439,8 +1439,8 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (7) A táppénz összege
 
-- a) a táppénz alapjának 60%-a, ha a biztosított a 48/A. § (1) bekezdése szerinti folyamatos biztosítási időszak alatt rendelkezik legalább 730 – a Tbj. 5. §-a szerinti – biztosításban töltött nappal;
-- b) a táppénz alapjának 50%-a, ha a biztosított az a) pontban meghatározottnál kevesebb – a Tbj. 5. §-a szerinti – biztosításban töltött nappal rendelkezik;
+- a) a táppénz alapjának 60%-a, ha a biztosított a 48/A. § (1) bekezdése szerinti folyamatos biztosítási időszak alatt rendelkezik legalább 730 – a Tbj. 6. §-a szerinti – biztosításban töltött nappal;
+- b) a táppénz alapjának 50%-a, ha a biztosított az a) pontban meghatározottnál kevesebb – a Tbj. 6. §-a szerinti – biztosításban töltött nappal rendelkezik;
 - c) a táppénz alapjának 50%-a a fekvőbeteg-gyógyintézeti ellátás tartama alatt, illetve a 44. § d) pontjában meghatározott esetben,
 
 azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad részét.
@@ -1449,7 +1449,7 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 48/A. § (1) A biztosításban töltött idő akkor folyamatos, ha abban 30 napnál hosszabb megszakítás nincs. A 30 napi megszakítás időtartamába nem számít be a táppénz, a baleseti táppénz, a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj – kivéve a 42/E. § alapján megállapított gyermekgondozási díj – és a gyermekgondozást segítő ellátás folyósításának az ideje.
 
-(2) A 48. § (2)–(4) bekezdése szerinti naptári napi átlag megállapításánál 180 napi folyamatos biztosításban töltött időként a Tbj. 5. §-ában meghatározott biztosításban töltött napokat lehet figyelembe venni. E szabály alkalmazásában a biztosítás akkor tekinthető folyamatosnak, ha abban 30 napnál hosszabb megszakítás nincs.
+(2) A 48. § (2)–(4) bekezdése szerinti naptári napi átlag megállapításánál 180 napi folyamatos biztosításban töltött időként a Tbj. 6. §-ában meghatározott biztosításban töltött napokat lehet figyelembe venni. E szabály alkalmazásában a biztosítás akkor tekinthető folyamatosnak, ha abban 30 napnál hosszabb megszakítás nincs.
 
 49. § (1) A gyermeknevelési támogatás, az ápolási díj, a korhatár előtti ellátás, a szolgálati járandóság, a táncművészeti életjáradék vagy az átmeneti bányászjáradék mellett munkát végző biztosítottra a táppénzre vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy
 
@@ -1505,8 +1505,8 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 (6) Az (1) bekezdés szerint megállapított táppénz folyósítása esetén
 
-- a) az egészségbiztosító a Tbj. 19. § (5) bekezdésében meghatározott táppénz-hozzájárulásról szóló határozatot a baleseti táppénz elutasításról és a táppénz megállapításáról szóló egybefoglalt döntés véglegessé válását követő 15 napon belül hozza meg,
-- b) a társadalombiztosítási kifizetőhely a Tbj. 19. § (5) bekezdésében meghatározott táppénz-hozzájárulási kötelezettségét a baleseti táppénz elutasításról és a táppénz megállapításáról szóló egybefoglalt döntés véglegessé válását követő hónapban benyújtott elszámolásában teljesíti.
+- a) az egészségbiztosító a Tbj. 25. § (5) bekezdésében meghatározott táppénz-hozzájárulásról szóló határozatot a baleseti táppénz elutasításról és a táppénz megállapításáról szóló egybefoglalt döntés véglegessé válását követő 15 napon belül hozza meg,
+- b) a társadalombiztosítási kifizetőhely a Tbj. 25. § (5) bekezdésében meghatározott táppénz-hozzájárulási kötelezettségét a baleseti táppénz elutasításról és a táppénz megállapításáról szóló egybefoglalt döntés véglegessé válását követő hónapban benyújtott elszámolásában teljesíti.
 
 (7) Az (1) bekezdés alapján megállapított táppénz folyósítását a keresőképtelenség fennállása alatt meg kell szüntetni, ha a biztosított táppénzre már nem jogosult.
 
@@ -1554,7 +1554,7 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 56. § (1)
 
-(2) Pénzbeli egészségbiztosítási járulék fizetésére nem kötelezett biztosított, illetőleg baleseti ellátásra jogosult baleseti táppénze az öregségi nyugdíj mindenkori legkisebb összege százötven százalékának naptári napi összegével azonos, úti üzemi baleset esetén annak kilencven százalékával egyezik meg.
+(2) Társadalombiztosítási járulék fizetésére nem kötelezett biztosított, illetőleg baleseti ellátásra jogosult baleseti táppénze az öregségi nyugdíj mindenkori legkisebb összege százötven százalékának naptári napi összegével azonos, úti üzemi baleset esetén annak kilencven százalékával egyezik meg.
 
 (3)
 
@@ -1647,7 +1647,7 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 pénzbeli ellátások iránti igény
 
-62. § (1) A csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a táppénz iránti kérelmet a biztosítottnak a Tbj. 4. § a) pontja szerinti foglalkoztatónál kell előterjeszteni.
+62. § (1) A csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a táppénz iránti kérelmet a biztosítottnak a Tbj. 4. § 4. pontja szerinti foglalkoztatónál kell előterjeszteni.
 
 (1a) A vér szerinti apa, valamint a gyermek születésének napján nem biztosított szülő nő a gyermekgondozási díj 42/E. § alapján történő megállapítása iránti kérelmet a lakóhelye szerint illetékes egészségbiztosítóhoz nyújthatja be.
 
@@ -1680,7 +1680,7 @@ folyósítja.
 
 (6) A csecsemőgondozási díjat, örökbefogadói díjat, a gyermekgondozási díjat havonta egyszer utólag a tárgyhónapot követő hónap 10. napjáig, de legkésőbb a bérfizetési napon kell folyósítani.
 
-63. § (1) Aki egyidejűleg több biztosítással járó jogviszonyban kötelezett egészségbiztosítási járulék fizetésére, a táppénz, a baleseti táppénz, a csecsemőgondozási díj iránti kérelmét a 62. §-ban foglaltak szerint, a gyermekgondozási díj, örökbefogadói díj iránti kérelmét az egészségbiztosítónak kell elbírálnia és folyósítania.
+63. § (1) Aki egyidejűleg több biztosítással járó jogviszonyban kötelezett társadalombiztosítási járulék fizetésére, a táppénz, a baleseti táppénz, a csecsemőgondozási díj iránti kérelmét a 62. §-ban foglaltak szerint, a gyermekgondozási díj, örökbefogadói díj iránti kérelmét az egészségbiztosítónak kell elbírálnia és folyósítania.
 
 (2) A kifizetőhellyel nem rendelkező munkáltatóknak az igénybejelentéssel kapcsolatos kötelezettségeit, továbbá a kifizetőhelyeknek a csecsemőgondozási díj, a gyermekgondozási díj, örökbefogadói díj, a táppénz, a baleseti táppénz megállapításával, folyósításával és elszámolásával összefüggő részletes feladatait és eljárási szabályait a Kormány rendeletben állapítja meg.
 
@@ -1734,7 +1734,7 @@ folyósítja.
 
 (7) Az a személy, aki EU-Kártyával vagy az azt helyettesítő nyomtatvánnyal, valamint az uniós rendeletek szerinti egyéb nyomtatvánnyal úgy vett igénybe egészségügyi szolgáltatást valamely EGT tagállamban, hogy a 6–7. §-ok és a 8/A. § alapján nem volt jogosult annak igénybevételére, köteles az egészségügyi szolgáltatás E. Alapot terhelő költségeit megtéríteni.
 
-(8) A Tbj. 39. § (2) bekezdésében foglalt egészségügyi szolgáltatási járulékfizetési kötelezettsége alól az állami adóhatóság eljárása alapján utólagosan mentesülő személy TAJ-száma az egészségügyi szolgáltatásra jogosultak nyilvántartásában érvénytelenítésre kerül.
+(8) A Tbj. 43.§ (1) bekezdésében foglalt egészségügyi szolgáltatási járulékfizetési kötelezettsége alól az állami adóhatóság eljárása alapján utólagosan mentesülő személy TAJ-száma az egészségügyi szolgáltatásra jogosultak nyilvántartásában érvénytelenítésre kerül.
 
 (9) Ha a (8) bekezdés szerinti személy az érvénytelenítést megelőzően úgy vett igénybe egészségügyi szolgáltatást, hogy a 6–7. § és a 8/A. § alapján nem volt jogosult annak igénybevételére, köteles az egészségügyi szolgáltatás E. Alapot terhelő költségeit megtéríteni.
 
@@ -1876,16 +1876,16 @@ kell érteni.
 (5) Az a TAJ számmal rendelkező személy, aki
 
 - a) valamely EGT tagállamban, illetve Svájcban, valamint a Magyarország által kötött nemzetközi egyezmény hatálya alá tartozó államban biztosított, vagy
-- b) a Tbj. 11. § a) pont hatálya alá tartozó magyar állampolgár, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
+- b) a Tbj. 17. § (1) bekezdés a) pontja hatálya alá tartozó magyar állampolgár, köteles a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosítását és annak megszűnését 15 napon belül bejelenteni az egészségbiztosítónak.
 
 (6) Az e törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem vagy késedelmesen teljesítő, annak nem az előírt módon eleget tevő vagy valótlan adatokat közlő
 
 - a) természetes személy 10 ezertől 100 ezer forintig,
-- b) a Tbj. 4. § a) pontjában meghatározott foglalkoztató, és a Tbj. 4. § b) pontjában meghatározott egyéni vállalkozó 10 ezer forinttól 1 millió forintig terjedő összegű, az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető.
+- b) a Tbj. 4. § 4. pontjában meghatározott foglalkoztató, és a Tbj. 4. § 2. pontjában meghatározott egyéni vállalkozó 10 ezer forinttól 1 millió forintig terjedő összegű, az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető.
 
 81. § (1) Az egészségbiztosító szak- és pénzügyi ellenőrzése kiterjed az egészségbiztosítás pénzbeli, illetőleg baleseti ellátásaival összefüggő nyilvántartási és adatszolgáltatási kötelezettség teljesítésére, a társadalombiztosítási kifizetőhelyek hatáskörébe tartozó ellátásoknak és szolgáltatásoknak a jogosultak részére történő megállapítására, folyósítására, továbbá az ezekkel összefüggő ügyviteli feladatok ellátására. Az ehhez szükséges nyilvántartásokat, egészségügyi szolgáltatói jelentéseket, könyvelési és egyéb okmányokat, illetőleg adatokat rendelkezésre kell bocsátani.
 
-(2) Az egészségbiztosító a pénzbeli ellátás és a baleseti táppénz iránti kérelem elbírálása, valamint ellenőrzési eljárása során kérheti annak igazolását, hogy a pénzbeli egészségbiztosítási járulékalapot képező jövedelem bevallására kötelezett ezen kötelezettségének eleget tett. Ha a kérelem elbírálása vagy az ellenőrzés során megállapítást nyer, hogy a bevallásra kötelezett nem teljesítette bevallási kötelezettségét, erről értesíti az állami adóhatóságot.
+(2) Az egészségbiztosító a pénzbeli ellátás és a baleseti táppénz iránti kérelem elbírálása, valamint ellenőrzési eljárása során kérheti annak igazolását, hogy a társadalombiztosítási járulékalapot képező jövedelem bevallására kötelezett ezen kötelezettségének eleget tett. Ha a kérelem elbírálása vagy az ellenőrzés során megállapítást nyer, hogy a bevallásra kötelezett nem teljesítette bevallási kötelezettségét, erről értesíti az állami adóhatóságot.
 
 81/A. § Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcsere körébe tartozó, az egészségbiztosító által e törvény szerint kezelt személyes és különleges adatokat.
 

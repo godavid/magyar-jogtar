@@ -292,7 +292,7 @@ elismeréséről.
 
 (4) A miniszter hivatalból dönt az elismerés felfüggesztéséről vagy visszavonásáról.
 
-(5) A nemzeti minőségrendszer, valamint az önkéntes mezőgazdasági-termék tanúsítási rendszer elismerésére, felfüggesztésére és visszavonására vonatkozó eljárás során a függő hatályú döntésében nem kell rendelkeznie a kérelmezett jog gyakorlásáról, továbbá sommás eljárásnak nincs helye.
+(5) A nemzeti minőségrendszer, valamint az önkéntes mezőgazdasági-termék tanúsítási rendszer elismerésére, felfüggesztésére és visszavonására vonatkozó eljárás során sommás eljárásnak nincs helye.
 
 ### IV. Fejezet — SZAKTANÁCSADÁSI SZOLGÁLTATÁSOK SZABÁLYAI
 

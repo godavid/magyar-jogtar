@@ -74,7 +74,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 (3) A törvény IV. fejezetének hatálya nem terjed ki:
 
-- a) az atomenergiáról szóló 1996. évi CXVI. törvény 1. § (1) bekezdésében az atomenergia alkalmazásával összefüggésben meghatározott tevékenységekre, jogosultságokra és kötelezettségekre,
+- a) anyagokból, keverékekből, nyersanyagokból, készítményekből származó ionizáló sugárzás által okozott veszélyekre,
 - b) a veszélyes anyagoknak a veszélyes anyagokkal foglalkozó üzemen és küszöbérték alatti üzemen kívüli közúti, vasúti, légi vagy vízi szállítására,
 - c) az ásványi anyagok bányákban és kőbányákban – többek között fúrólyukakon át – történő kinyerésére, azaz feltárására, kitermelésére és feldolgozására,
 - d) a hulladéklerakó telepre, ideértve a föld alatti hulladéktárolást is,
@@ -455,7 +455,7 @@ igazolja.
 
 (4) Az iparbiztonsági hatóság a IV. fejezet hatálya alá tartozás megállapítása céljából bármely gazdálkodó szervezetet adatszolgáltatásra kötelezhet és annak telephelyén hatósági ellenőrzést tarthat.
 
-(5) Az iparbiztonsági hatóság által az e jogszabály IV. fejezete alapján lefolytatott közigazgatási eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(5)
 
 26. § (1) Ha az iparbiztonsági hatóság hatáskörébe tartozó eljárásban benyújtott biztonsági jelentés vagy biztonsági elemzés nem felel meg a jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított harminc napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
 

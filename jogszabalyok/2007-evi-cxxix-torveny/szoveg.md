@@ -58,6 +58,7 @@ a termőföld védelméről
 - 20. termőföld eredeti állapotának helyreállítása: az időlegesen, illetve az engedély nélkül más célra hasznosított termőföldnek a más célú hasznosítását közvetlenül megelőző, az ingatlan-nyilvántartásban rögzített művelési ágnak és minőségi osztálynak megfelelő állapotába történő helyreállítása;
 - 21. ültetvény: az ingatlan-nyilvántartásban szőlő, gyümölcsös, továbbá fásított terület művelési ágban nyilvántartott földrészlet;
 - 22. kis teljesítményű erőmű: a villamos energiáról szóló 2007. évi LXXXVI. törvény 4. § (1) bekezdésében meghatározott 0,5 MW-nál kisebb névleges teljesítőképességű, a napenergiát felhasználva villamos energiát termelő erőmű.
+- 23. állandó jellegű növényház: stabil építésű, fém-, fa- vagy műanyag vázú, üveg vagy műanyag borítású, fedett növénytermesztő létesítmény, melyben az évszaktól, illetve az időjárástól függetlenül biztosíthatók az optimális feltételek a növények fejlődéséhez.
 
 ### II. Fejezet — A FÖLDHASZNOSÍTÁS, A FÖLDVÉDELEMÉS A FÖLDMINŐSÍTÉS
 
@@ -178,7 +179,7 @@ a termőföld védelméről
 
 (3) A hivatalból indult, illetve folytatott földvédelmi eljárás, valamint a földvédelmi szakkérdés vizsgálata során a helyszíni szemle, illetve ellenőrzés, és a műszeres vizsgálatok költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek eljárási költségnek minősülnek.
 
-(4) Az ingatlanügyi hatóságnak a földvédelmi eljárásban meghozott, az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésében nem kell rendelkeznie a kérelmezett jog gyakorlásáról.
+(4)
 
 8. § (1) Ha az ingatlanügyi hatóság más hatóságok engedélyezési eljárásaiban földvédelmi szakhatóságként működik közre, a termőföld védelmének érvényesítése érdekében érvényre kell juttatni, hogy az engedélyezési eljárás alá eső tevékenység végzése, létesítmény elhelyezése, jogosultság gyakorlása lehetőség szerint a gyengébb minőségű termőföldeken, a lehető legkisebb mértékű termőföld igénybevételével történjen.
 
@@ -556,7 +557,8 @@ esetében.
 - j) termálvíz-hasznosító létesítményekből kibocsátott használt termálvizek átmeneti tározására és természetközeli tisztítására szolgáló – lehetőség szerint többcélú – állandó jellegű tározók létesítése és bővítése,
 - k) – amennyiben mezőgazdasági vízszolgáltatás céljából veszik igénybe – mezőgazdasági vízellátást szolgáló saját célú vízilétesítmény létesítése és üzemeltetése,
 - l) csapadékvíz összegyűjtésére szolgáló tározó létesítése, üzemeltetése, bővítése,
-- m) kis teljesítményű erőmű építése
+- m) kis teljesítményű erőmű építése,
+- n) állandó jellegű növényház létesítése
 
 céljából engedélyezi.
 
@@ -628,7 +630,7 @@ a földvédelmi járulékot megfizető személy vagy szervezet a járulék össz
 
 23. § (1) A járulék felét kell fizetni, ha a termőföldet engedély alapján és annak megfelelően
 
-- a) mezőgazdasági tevékenység céljára,
+- a) mezőgazdasági tevékenység (ide nem értve az állandó jellegű növényház létesítésével együtt járó mezőgazdasági tevékenységet) céljára,
 - b) haltenyésztésre is alkalmas víztározó létesítésére
 
 hasznosítják.

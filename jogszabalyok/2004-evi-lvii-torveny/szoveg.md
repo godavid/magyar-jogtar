@@ -54,7 +54,7 @@ E döntést az e törvény hatálybalépését követő 30 napon belül írásbe
 
 (7) Az az európai parlamenti képviselő, aki a (6) bekezdésben foglalt nyilatkozatot nem tett, az Európai Parlament 2005/684/EK, Euratom határozatban foglaltak szerinti tiszteletdíjra, nyugdíjra, illetve átmeneti ellátásokra jogosult.
 
-7. § (1) Amennyiben az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, társadalombiztosítási jogállására a munkaviszonyban állókra vonatkozó szabályok az irányadóak azzal, hogy az európai parlamenti képviselők tiszteletdíja társadalombiztosítási járulék alapjául szolgáló jövedelem, és az európai parlamenti képviselői megbízást heti 36 órát meghaladó foglalkozásnak kell tekinteni. Az egészségügyi hozzájárulás fizetésére az arról szóló külön törvényben foglaltakat kell alkalmazni.
+7. § (1) Ha az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, társadalombiztosítási jogállására a munkaviszonyban állókra vonatkozó szabályok az irányadóak azzal, hogy az európai parlamenti képviselők tiszteletdíja társadalombiztosítási járulék és szociális hozzájárulási adó alapjául szolgáló jövedelem, és az európai parlamenti képviselői megbízást heti 36 órát meghaladó foglalkozásnak kell tekinteni.
 
 (2) Amennyiben az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, megbízásának időtartama – ideértve a 14. §-ban meghatározott hat hónapra folyósított ellátás időtartamát is – munkaviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a közszolgálati, hivatásos szolgálati, közalkalmazotti, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani.
 

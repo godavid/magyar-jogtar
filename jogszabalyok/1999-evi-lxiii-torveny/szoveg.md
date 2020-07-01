@@ -154,7 +154,7 @@ haladéktalanul törli.
 
 14. § A felügyelő felvilágosítást kérhet attól, akiről alaposan feltehető, hogy a felügyelői feladat ellátásához érdemi tájékoztatást tud adni.
 
-15. § A felügyelő – az 1. § (4) bekezdés i) pontjában meghatározott feladata kivételével – a jogszabályban meghatározott feladatai teljesítése során vagy egyéb jogszerű intézkedés céljából az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedéseket és kényszerítő eszközöket alkalmazhatja.
+15. § A felügyelő – az 1. § (4) bekezdés i) pontjában meghatározott feladata kivételével – a jogszabályban meghatározott feladatai teljesítése során vagy egyéb jogszerű intézkedés céljából az e törvényben, továbbá az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott intézkedéseket és kényszerítő eszközöket alkalmazhatja.
 
 16. §
 
@@ -194,9 +194,9 @@ haladéktalanul törli.
 
 (2) Az e törvényben szabályozott felügyelői intézkedések miatti jogorvoslatra a közigazgatási hatósági eljárás, illetőleg a szabálysértési eljárás szabályai az irányadók.
 
-(3) Ha a felügyelői intézkedést követően közigazgatási hatósági vagy szabálysértési jogorvoslati eljárás nem indul, az intézkedéssel szemben panasznak van helye. A panasz elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadóak.
+(3) Ha az e törvény szerinti felügyelői intézkedést követően közigazgatási hatósági vagy szabálysértési eljárás nem indul, az intézkedéssel szemben panasznak van helye. A panasz előterjesztésére és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
 
-(4)
+(4) A 15. § szerinti közterület-felügyelői intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
 
 (5)
 
@@ -208,7 +208,7 @@ haladéktalanul törli.
 
 25. §
 
-26. § Akinek a felügyelő intézkedése, annak elmulasztása, a kényszerítő eszköz alkalmazása jogát vagy jogos érdekét sértette, panasszal fordulhat a rendőrséghez. A panasz előterjesztésére, valamint elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
+26. §
 
 26/A. § (1) A felügyelői könnygázszóró palack típusa megegyezik a rendőrségnél rendszeresített típussal.
 

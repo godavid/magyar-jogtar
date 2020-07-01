@@ -76,6 +76,8 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 - j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított nyolc napon belül határozattal visszavonja, és a határozat véglegessé válásakor nyilvántartott pontokat törli;
 - k) jogosult a törvényben meghatározottak szerint a SIS II-ből adatot igényelni.
 
+(1a) A közlekedési igazgatási hatóság és a nyilvántartó a hatáskörébe tartozó okmánykiállításra irányuló eljárás során a személyiadat- és lakcímnyilvántartásból közvetlen hozzáférés útján, az érintett személy azonosítása céljából adatot igényel a személyazonosító igazolvány adatairól, valamint az érintett lakcíméről.
+
 (2) A Kormány által rendeletben kijelölt közlekedési igazgatási hatóság
 
 - a) végzi a járművek előzetes eredetiségvizsgálatát;

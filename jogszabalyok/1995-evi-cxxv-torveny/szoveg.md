@@ -119,7 +119,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 
 (2) A Nemzetbiztonsági Szakszolgálat kormányzati tájékoztató tevékenységet nem folytathat.
 
-(3) A Nemzetbiztonsági Szakszolgálat, az 54. § (1) bekezdésében meghatározott tevékenységet, eszközöket és módszereket saját kezdeményezésre csak az (1) bekezdés a) és f) pontjában meghatározott feladatai ellátása érdekében végezheti, illetve alkalmazhatja.
+(3) A Nemzetbiztonsági Szakszolgálat az (1) bekezdés a) és f) pontjában meghatározott feladatai ellátása érdekében az 54. § (1) bekezdésében meghatározott tevékenységet, eszközöket és módszereket, valamint az (1) bekezdés i) pontjában meghatározott feladatai ellátása érdekében az 54. § (1) bekezdés f), g) és j) pontjában meghatározott tevékenységet saját kezdeményezésre végezheti, illetve alkalmazhatja.
 
 (4) A Nemzetbiztonsági Szakszolgálat az 56. §-ban meghatározott titkos információgyűjtés eszközeit és módszereit – az (1) bekezdés f) pontjában meghatározott feladat ellátása kivételével – saját kezdeményezésre nem alkalmazhatja.
 
@@ -127,7 +127,21 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 
 (6) A titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
 
-(7)
+(7) A Nemzetbiztonsági Szakszolgálat – a 6. § g) pontjában foglaltak és a katonai kibertér műveletek kivételével – információbiztonsággal kapcsolatos feladatkörében
+
+- a) ellátja az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó szervek tekintetében az ott meghatározott hatásköri szabályok szerint a kibertérből érkező fenyegetésekkel és támadásokkal szembeni védelmet,
+- b) a honvédelmi ágazat kivételével irányítja a kibertérből érkező fenyegetésekre történő felkészülést és a kapcsolódó biztonsági feladatokat,
+- c) ellenőrzi – az azon folytatott kommunikáció megismerése nélkül – az elektronikus hírközlési hálózatok forgalmát, észleli a kibertérből érkező fenyegetéseket és támadásokat,
+- d) végrehajtja vagy kezdeményezi a kibertérből érkező támadás megszakításához szükséges intézkedéseket.
+
+(8) A (7) bekezdés d) pontja szerinti intézkedés végrehajtására a Kormány által kijelölt személy erre vonatkozó döntése alapján van lehetőség. A támadás megszakítását követően meg kell vizsgálni a védelem fokozásához szükséges további intézkedések lehetséges körét, illetve az ország védelmével összefüggő további döntések szükségességét.
+
+(9) A (7) bekezdés d) pontja szerinti intézkedésnek
+
+- a) az okozott sérelemmel vagy közvetlen fenyegetéssel arányosnak és szükséges mértékűnek kell lennie, és törekedni kell arra, hogy a támadás megszakításán túli eredményre vagy sérelemre ne vezessen,
+- b) biztosítani kell az összhangot a nemzetbiztonsági, honvédelmi, bűnüldözési és külpolitikai érdekekkel és törekvésekkel.
+
+(10) Külföldről érkező jelentős kibertámadás esetén a foganatosított intézkedésekről és azok okairól tájékoztatni kell a külpolitikáért felelős minisztert a további intézkedések megtétele céljából.
 
 8/A. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ vizsgálja Magyarország biztonsági és bűnügyi helyzetét, amelynek keretében
 
@@ -924,7 +938,7 @@ indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazono
 
 (3) Ha a bűncselekmény elkövetője a megállapodásban foglaltakat teljesíti, vele szemben büntetőeljárás nem indítható, illetve a folyamatban lévő büntetőeljárást meg kell szüntetni.
 
-(4) Az (1) bekezdésben meghatározott jogosultság a Nemzetbiztonsági Szakszolgálatot és a Terrorelhárítási Információs és Bűnügyi Elemző Központot nem illeti meg.
+(4) Az (1) bekezdésben meghatározott jogosultság a Terrorelhárítási Információs és Bűnügyi Elemző Központot, valamint – a 8. § (1) bekezdés i) pontja szerinti feladat kivételével – a Nemzetbiztonsági Szakszolgálatot nem illeti meg.
 
 (5) Ha a megállapodás teljesítésére tekintettel az elkövetővel szemben nem indul büntetőeljárás vagy azt megszüntetik, az állam téríti meg azt a kárt, illetve sérelemdíjat, amelynek megtérítésére az elkövető a polgári jog szerint köteles, amennyiben azt az elkövető nem térítette meg. A kár megtérítése, illetve a sérelemdíj megfizetése érdekében a nemzetbiztonsági szolgálatok a sértettel titoktartási megállapodás megkötését kezdeményezhetik, illetve az ehhez szükséges iratokat elkészíthetik.
 
@@ -938,7 +952,7 @@ indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazono
 - b) a nyilvános vagy a közönség részére nyitva álló hely kivételével a lakásban, egyéb helyiségben, bekerített helyen, illetve a közösségi közlekedési eszköz kivételével járművön történteket titokban technikai eszközzel megfigyelhetik és rögzíthetik, illetve az ehhez szükséges technikai eszközt az alkalmazás helyén elhelyezhetik,
 - c) postai küldeményt vagy beazonosítható személyhez kötött egyéb zárt küldeményt titokban felbonthatnak, annak tartalmát megismerhetik, ellenőrizhetik és rögzíthetik,
 - d) elektronikus hírközlési szolgáltatás keretében elektronikus hírközlő hálózat vagy eszköz útján, illetve információs rendszeren folytatott kommunikáció tartalmát titokban megismerhetik és rögzíthetik,
-- e) információs rendszerben kezelt adatokat titokban megismerhetnek, az észlelteket technikai eszközzel rögzíthetik, illetve az ehhez szükséges elektronikus adatot az információs rendszerben, illetve a szükséges technikai eszközt – a nyilvános vagy a közönség részére nyitva álló hely kivételével – lakásban, egyéb helyiségben, bekerített helyen, illetve – a közösségi közlekedési eszköz kivételével – járműben, továbbá az érintett személy használatában lévő tárgyban elhelyezhetik.
+- e) információs rendszerben kezelt adatokat titokban megismerhetnek, az észlelteket technikai eszközzel rögzíthetik, illetve az ehhez szükséges elektronikus adatot az információs rendszerben, illetve a szükséges technikai eszközt – a nyilvános vagy a közönség részére nyitva álló hely kivételével – lakásban, egyéb helyiségben, bekerített helyen, illetve – a közösségi közlekedési eszköz kivételével – járműben, továbbá az érintett személy használatában lévő tárgyban elhelyezhetik, valamint a kibertérből érkező fenyegetés elhárítása céljából az információs rendszerbe beavatkozhatnak.
 
 57. § (1) Az 56. §-ban meghatározott titkos információgyűjtés engedélyezésére irányuló előterjesztést az Információs Hivatal, az Alkotmányvédelmi Hivatal, a
 
@@ -1065,7 +1079,7 @@ határozza meg.
 - b) ie), il), im), it) és iv) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,
 - c) ib) és id) alpontjában megjelölt személy esetén a miniszterelnök,
 - d) ia), ic), ih) és ii) alpontjában megjelölt személy esetén a tevékenység szerinti irányító miniszter,
-- e) ij) alpontjában megjelölt személy esetén az állam nevében tulajdonosi jogokat gyakorló miniszter,
+- e) ij) és it) alpontjában megjelölt személy esetén az állam nevében tulajdonosi jogokat gyakorló miniszter vagy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 7/A. § (1) bekezdése alapján a tulajdonosi jogok gyakorlására kijelölt személy,
 - f) ik) alpontjában foglalt esetben az állomány szerint illetékes főigazgató,
 - g) iu) alpontjában megjelölt személyek esetén az Országgyűlési Őrség parancsnoka
 
@@ -1333,7 +1347,7 @@ iránt intézkedik.
 - g) foglalkoztatási jogviszony: az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
 - h)
 - i) nemzetbiztonsági ellenőrzés alá eső személy:
-  - ia) a nagykövet és az önálló külképviseletet irányító főkonzul;
+  - ia) a külképviselet-vezető;
   - ib) a miniszter, az államtitkár, a kormánybiztos, a miniszterelnöki biztos és a miniszterelnöki megbízott;
   - ic) a közigazgatási államtitkár, a helyettes államtitkár, a miniszteri biztos;
   - id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és megyei kormányhivatal vezetője és vezetőhelyettese;
@@ -1351,7 +1365,7 @@ iránt intézkedik.
   - ip) a minősített adat védelméről szóló törvényben meghatározott, a minősített adatot kezelő szervvel közreműködő természetes személy, akinek feladata ellátásához „Bizalmas!”, „Titkos!” vagy „Szigorúan titkos!” minősítési szintű minősített adatot szükséges felhasználnia;
   - ir) az e törvény szerinti titkos információgyűjtést engedélyező bíró;
   - is) az 55. §-ban meghatározott kijelölt ügyész;
-  - it)
+  - it) azon alapítvány, közalapítvány vezető tisztségviselője, vezető állású munkavállalója, felügyelőbizottságának tagja, amely felett az alapítói jogokat a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv gyakorolja;
   - iu) az Országgyűlési Őrség személyi állománya;
   - iv) a Nemzeti Emlékezet Bizottsága tagja;
   - iw) a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény (a továbbiakban: Lrtv.) szerinti közigazgatási hatósági eljárásban a hatóságok és a szakhatóságok részéről részt vevő személy, valamint – az Lrtv. szerinti üzemeltető kezdeményezésére – az európai létfontosságú rendszerelemekre vonatkozó, Lrtv. szerinti azonosítási eljárásban az üzemeltető által igénybe vett közreműködő személy;
@@ -1512,7 +1526,7 @@ A védelem alá eső tisztségek:
 - 11. a titkos információgyűjtést engedélyező bírók,
 - 12. a legfőbb ügyész által az 55. § alapján kijelölt ügyész,
 - 13. a Magyar Nemzeti Bank elnöke és alelnökei,
-- 14.
+- 14. a Gazdasági Versenyhivatal elnöke és elnökhelyettesei
 - 15. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese
 
 ### 2. számú melléklet az 1995. évi CXXV. törvényhez

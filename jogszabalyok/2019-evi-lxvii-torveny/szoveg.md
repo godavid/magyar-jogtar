@@ -494,15 +494,35 @@ lép.
 
 92. §
 
-93. §
+93. § Az Eht. a 92/B. §-t követően a következő alcím címmel és 92/C. §-sal egészül ki:
 
-94. §
+„Együttműködés a hivatásos katasztrófavédelmi szervvel
 
-95. §
+92/C. § (1) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató köteles együttműködni a hivatásos katasztrófavédelmi szerv központi szervével a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvényben foglalt, a lakosság riasztásának és veszélyhelyzeti tájékoztatásának céljából.
+
+(2) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató köteles az elektronikus hírközlési szolgáltatáshoz az (1) bekezdésben szereplő feladat végrehajtásához megfelelő műszaki rendszert létesíteni, és ennek elérhetőségét hálózatában az összekapcsolási pontig biztosítani a hivatásos katasztrófavédelmi szerv központi szerve részére.
+
+(3) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató köteles a (2) bekezdésben meghatározott műszaki rendszeren ingyenesen biztosítani a lakosság riasztását és veszélyhelyzeti tájékoztatását.”
+
+94. § Az Eht. a 145. §-t követően a következő alcím címmel és 145/A. §-sal egészül ki:
+
+„Riasztási és veszélyhelyzeti SMS-tájékoztatás
+
+145/A. § (1) A mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltató a lakosság riasztásának és veszélyhelyzeti tájékoztatásának érdekében biztosítja ezen információk célba juttatását SMS útján.
+
+(2) Az (1) bekezdés szerinti információk célba juttatásának költsége a szolgáltatót terheli.”
+
+95. § Az Eht. 182. § (1) bekezdése a következő h) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg:)
+
+„h) a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatók és a hivatásos katasztrófavédelmi szerv központi szerve közötti együttműködés rendjét.”
 
 96. § (1)
 
-(2)
+(2) Az Eht. 187. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A 92/C. §, a 145/A. § és a 182. § (1) bekezdésének h) pontja a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.”
 
 #### 25. A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény módosítása
 

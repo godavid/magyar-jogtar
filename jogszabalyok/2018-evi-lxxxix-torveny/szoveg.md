@@ -64,7 +64,7 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
   - j) szerepel az Országos érettségi vizsgaelnöki névjegyzéken, az Országos szakértői névjegyzéken, illetve az Országos szaktanácsadói névjegyzéken,
 - 2. a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) alapján
   - a) tanulói jogviszonyban áll,
-  - b) felnőttképzési jogviszonyban áll,
+  - b)
   - c) a szakképző intézmény alkalmazottja,
 - 3. a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) alapján
   - a) a központi felsőoktatási felvételi eljárásban felsőoktatási intézménybe jelentkezik,
@@ -73,6 +73,7 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
   - d) felsőoktatási intézményben oktató, kutató, tanári munkakörben dolgozik,
   - e) felsőoktatási intézményben oktatási tevékenység ellátására megbízási jogviszonyban dolgozik,
   - f) részére oktatási igazolvány kerül kibocsátásra,
+- 3a. felnőttképzési jogviszonyban áll,
 - 4. a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásában szerepel.
 
 #### 2. Az oktatási nyilvántartás szakrendszerei
@@ -189,7 +190,7 @@ határozza meg.
 - c) az adóhatóság a (volt) magyar állami ösztöndíjas hallgatónak hazai munkaviszony(ok) létesítésére és időtartamára,
 - d) az anyakönyvi nyilvántartás központi nyilvántartó szervétől a (volt) magyar állami ösztöndíjas hallgató gyermekének születési anyakönyvi kivonatára,
 - e) a családtámogatási ügyben eljáró hatóság a tartós betegség megállapításához szükséges, a fővárosi és megyei kormányhivatalnak vagy jogelődjének a tartós betegségre tekintettel megállapított magasabb összegű családi pótlék megállapításáról szóló határozatára, vagy ennek folyósításáról kiadott igazolására, vagy a tartós betegséget megállapító, a magasabb összegű családi pótlék igénybevételéhez szükséges érvényes és hatályos szakvéleményére, szakhatósági állásfoglalására; a családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § f) pont fb) alpontja szerinti állapotra, illetve a magasabb összegű családi pótlékra jogosultság tartós betegségére tekintettel való igazolására,
-- f) a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóság az egészségi állapot minősítésének eredményéről érvényes és hatályos szakhatósági állásfoglalásra, szakvéleményre, bizottsági állásfoglalásra, határozatra vagy hatósági bizonyítványra; a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 2. § (1) bekezdése szerinti állapot igazolására
+- f) a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóság az egészségi állapot minősítésének eredményéről érvényes és hatályos szakhatósági állásfoglalásra, szakvéleményre, bizottsági állásfoglalásra, határozatra vagy hatósági bizonyítványra; a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 2. § (1) bekezdése szerinti állapot igazolására vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek.
 
 vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek.
 
@@ -244,16 +245,18 @@ továbbítható.
 
 (15) A személyes adatokat A pedagógiai szakszolgálatok által alkalmazott integrált nyomon követő rendszerből (a továbbiakban: INYR) az adatkezelő a pedagógiai szakszolgálati intézmény ellátásának utolsó igénybevételétől számított húsz év elteltével törli a nyilvántartásból.
 
-(15a) A tanulók és a képzésben részt vevő személyek nyilvántartásából a képzési hitelhez kapcsolódóan
+(15a) A képzési hitelhez kapcsolódóan
 
-- a) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan
-  - aa) az 1/A. melléklet II. rész 1. pont a) alpontjában meghatározott adatokból az oktatási azonosító száma és adóazonosító jele,
-  - ab) az 1/A. melléklet II. rész 1. pont c) és d) alpontjában meghatározott adata és
-  - ac) a 2. § a)–j) pontja szerinti adata,
-- b) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont b) alpontjában adatok,
-- c) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont l), m) és p) pontjában adatok
+- a) tanulók és a képzésben részt vevő személyek nyilvántartásából
+  - aa) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont a) alpontjában meghatározott adatokból az oktatási azonosító száma és adóazonosító jele, az 1/A. melléklet II. rész 1. pont d)–g) és i) alpontjában meghatározott adata és a 2. § a)–j) pontja szerinti adata,
+  - ab) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont b) alpontjában meghatározott adatok,
+  - ac) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont l), o) és t) alpontjában meghatározott adatok,
+- b) a képzési és személyi törzsből
+  - ba) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont a), c) és f) alpontjában és 3. pont a), c), d) és e) alpontjában meghatározott adata és a 2. § a)–j) pontja szerinti adata,
+  - bb) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont d) alpontjában meghatározott adatok,
+  - bc) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 3. pont a) és d) alpontjában meghatározott adatok
 
-továbbíthatók.
+továbbíthatóak a Diákhitel Központnak.
 
 (16) A Felsőoktatási alkalmazotti személyi törzsből továbbítható – az érintetten kívül – a fenntartónak a fenntartói jogok gyakorlásához szükséges valamennyi adat; a Magyar Felsőoktatási Akkreditációs Bizottságnak a szakértői tevékenyég ellátásához szükséges valamennyi adat; a felsőoktatási intézménynek az alkalmazottjával kapcsolatos adatok.
 
@@ -295,7 +298,10 @@ továbbíthatók.
 
 8. § (1) Felhatalmazást kap a Kormány, hogy az oktatási nyilvántartás működéséért felelős szervet rendeletben kijelölje.
 
-(2) Felhatalmazást kap a Kormány, hogy a pályakövetési rendszer működésére, az adatszolgáltatás rendjére, továbbá az oktatási nyilvántartás működéséért felelős szervnek a pályakövetési rendszer működtetésével kapcsolatos feladataira vonatkozó részletes szabályokat rendeletben állapítsa meg.
+(2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+- 1. az oktatási azonosító szám igénylésének, kiadásának, felhasználásának és változás-bejelentésének szabályait,
+- 2. a pályakövetési rendszer működésére, az adatszolgáltatás rendjére, továbbá az oktatási nyilvántartás működéséért felelős szervnek a pályakövetési rendszer működtetésével kapcsolatos feladataira vonatkozó részletes szabályokat.
 
 9. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – 2019. január 1-jén lép hatályba.
 

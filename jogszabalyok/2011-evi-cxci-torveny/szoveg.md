@@ -12,18 +12,19 @@ Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Orszá
 
 - 1. egészségi állapot: az egyén fizikai, mentális, szociális jóllétének betegség, illetve sérülés után kialakult vagy veleszületett rendellenesség következtében fennálló tartós vagy végleges kedvezőtlen változásait (a továbbiakban: egészségkárosodás) figyelembe véve meghatározott állapot;
 - 2. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
-- 3. havi átlagjövedelem: a kérelem benyújtásának napját közvetlenül megelőző naptári évben (a továbbiakban: referencia-időszak) elért, pénzbeli egészségbiztosítási járulék alapját képező jövedelem (a továbbiakban: jövedelem) napi átlagának 30-szorosa; ha a jogosult a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel, a kérelem benyújtásának napját közvetlenül megelőző 180 naptári napi jövedelem napi átlagának 30-szorosa; ha a jogosult amiatt nem rendelkezik 180 naptári napi jövedelemmel, mert a vizsgált időszakban vagy ennek egy részében táppénzben, baleseti táppénzben részesült, ha az számára kedvezőbb, a táppénzt, baleseti táppénzt megelőző 180 naptári napi jövedelmet kell figyelembe venni;
+- 3. havi átlagjövedelem: a kérelem benyújtásának napját közvetlenül megelőző naptári évben (a továbbiakban: referencia-időszak) elért, a 2020. július 1-jét megelőző időszakra a pénzbeli egészségbiztosítási járulék, a 2020. július 1-jétől kezdődő időszakra a társadalombiztosítási járulék (a továbbiakban együtt: társadalombiztosítási járulék) alapját képező jövedelem (a továbbiakban: jövedelem) napi átlagának 30-szorosa; ha a jogosult a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel, a kérelem benyújtásának napját közvetlenül megelőző 180 naptári napi jövedelem napi átlagának 30-szorosa; ha a jogosult amiatt nem rendelkezik 180 naptári napi jövedelemmel, mert a vizsgált időszakban vagy ennek egy részében táppénzben, baleseti táppénzben részesült, ha az számára kedvezőbb, a táppénzt, baleseti táppénzt megelőző 180 naptári napi jövedelmet kell figyelembe venni;
 - 4. keresőtevékenység: a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) szerinti kereső tevékenység azzal, hogy
-  - a) az egyéni vállalkozó és társas vállalkozó tevékenysége azon időszakban minősül keresőtevékenységnek, amelyben a biztosítása e jogviszony alapján a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerint fennáll, ide nem értve a biztosítás szünetelésének esetét,
+  - a) az egyéni vállalkozó és társas vállalkozó tevékenysége azon időszakban minősül keresőtevékenységnek, amelyben a biztosítása e jogviszony alapján a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerint fennáll, ide nem értve a biztosítás szünetelésének esetét,
   - b) az uniós rendeletek hatálya alá tartozó személy esetén az EGT-államban, a szociális biztonsági tárgyú nemzetközi egyezmény hatálya alá tartozó személy esetén az egyezményben részes államban – a jogosult nyilatkozata vagy az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – fennálló keresőtevékenység is keresőtevékenységnek minősül;
 - 5. megfelelő munkahely: az Flt. 25. § (2) és (3) bekezdése szerinti munkahely, azzal, hogy álláskereső alatt a rehabilitációs ellátásban részesülő személyt, álláskeresési járadék alatt a rehabilitációs ellátást kell érteni;
-- 6. minimálbér: a Tbj. 4. § s) pont 1. alpontjában meghatározott minimálbér;
+- 6. minimálbér: a Tbj. 4. § 14. pont 14.1. alpontjában meghatározott minimálbér;
 - 7. munkaadó: az Flt. 58. § (5) bekezdés c) pontja szerinti munkaadó;
 - 8. öregségi nyugdíjkorhatár: a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 18. § (1) bekezdése szerinti öregségi nyugdíjkorhatár;
 - 9. rehabilitáció: orvosi, szociális, képzési, foglalkoztatási és egyéb tevékenységek komplex rendszere, amelynek célja a megváltozott munkaképességű személy munkaerő-piaci integrációja, megfelelő munkahelyen történő foglalkoztatásra való felkészítése, továbbá a munkaképességének megfelelő munkahelyen történő elhelyezés biztosítása;
 - 10. rendszeres pénzellátás: a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátások, valamint a szociális biztonsági tárgyú nemzetközi egyezmények, továbbá az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátások, ide nem értve a hadigondozottak és nemzeti gondozottak ellátásait, a nemzeti helytállásért elnevezésű pótlékot, a gyermekek otthongondozási díját, az ápolási díjat, a Tny. szerinti hozzátartozói nyugellátásokat és a gyermekgondozást segítő ellátást.
-- 11. egyéni vállalkozó: a Tbj. 4. § b) pontjában meghatározott személy;
-- 12. társas vállalkozó: a Tbj. 4. § d) pontjában meghatározott személy.
+- 11. egyéni vállalkozó: a Tbj. 4. § 2. pontjában meghatározott személy;
+- 12. társas vállalkozó: a Tbj. 4. § 21. pontjában meghatározott személy;
+- 13. biztosított: a 2020. július 1-jét megelőző időszakra a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2020. július 1-jét megelőzően hatályos 5. §-a, a 2020. július 1-jétől kezdődő időszakra a Tbj. 6. §-a alapján biztosítottnak minősülő személy.
 
 #### 2. A megváltozott munkaképességű személyek ellátásai
 
@@ -34,7 +35,7 @@ Magyarország Alaptörvénye XII. cikkének végrehajtása érdekében az Orszá
   - ab) 10 éven belül legalább 2555 napon át vagy
   - ac) 15 éven belül legalább 3650 napon át
 
-a Tbj. 5. §-a szerinti biztosított volt;
+biztosított volt;
 
 - b) keresőtevékenységet nem végez és
 - c) rendszeres pénzellátásban nem részesül.
@@ -48,7 +49,7 @@ a Tbj. 5. §-a szerinti biztosított volt;
 
 - a) a biztosítás megszűnését követő táppénz, baleseti táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, az örökbefogadói díj, gyermekgondozási díj, álláskeresési támogatás folyósításának az idejét,
 - b) a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai és a kivételes rokkantsági ellátás kivételével a megváltozott munkaképességű személyek ellátása folyósításának idejét.
-- c) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a Tbj. 34. §-a szerint kötött megállapodás alapján szerzett szolgálati időt, amennyiben a megállapodást 2011. december 31-éig megkötötték,
+- c) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2020. július 1-jét megelőzően hatályos 34. §-a szerint kötött megállapodás alapján szerzett szolgálati időt, amennyiben a megállapodást 2011. december 31-éig megkötötték,
 - d) a gyermekek otthongondozási díja és az ápolási díj folyósításának idejét.
 
 3. § (1) A megváltozott munkaképességű személyek ellátásai a rehabilitációs hatóság komplex minősítése keretében megállapított rehabilitációs javaslattól függően:
@@ -83,7 +84,9 @@ a Tbj. 5. §-a szerinti biztosított volt;
 6. § (1) A rehabilitációs ellátás keretében a megváltozott munkaképességű személy
 
 - a) a rehabilitáció sikeres megvalósulása érdekében szükséges szolgáltatásokra (a továbbiakban: rehabilitációs szolgáltatás), valamint
-- b) pénzbeli ellátásra (a továbbiakban: rehabilitációs pénzbeli ellátás) jogosult.
+- b) pénzbeli ellátásra (a továbbiakban: rehabilitációs pénzbeli ellátás)
+
+jogosult.
 
 (2) A rehabilitációs ellátásban részesülő személy a rehabilitációs hatósággal történő együttműködésre köteles.
 
@@ -158,7 +161,7 @@ megszűnik.
 - g) a felülvizsgálat során neki felróható okból nem működik együtt, vagy
 - h) foglalkoztatására a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában került sor.
 
-(2a) A (2) bekezdés b) pontjának alkalmazása során, biztosított egyéni és társas vállalkozó esetén minimálbér alatt a Tbj. 4. § s) pont 2. alpontjában foglaltakat kell érteni.
+(2a) A (2) bekezdés b) pontjának alkalmazása során, biztosított egyéni és társas vállalkozó esetén minimálbér alatt a Tbj. 4. § 14. pont 14.2. alpontjában foglaltakat kell érteni.
 
 (3) A rehabilitációs ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés b) pontja szerinti esetben a megszüntetési ok bekövetkezését követő hónap első napjával, a (2) bekezdés c) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés d)–h) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával kell megszüntetni.
 
@@ -200,7 +203,7 @@ megszűnik.
 - f) az értesítési kötelezettségét neki felróható okból nem teljesíti, vagy
 - g) a felülvizsgálat során neki felróható okból nem működik együtt.
 
-(2a) A (2) bekezdés d) pontjának alkalmazása során, a biztosított egyéni és társas vállalkozó esetén minimálbér alatt a Tbj. 4. § s) pont 2. alpontjában foglaltakat kell érteni.
+(2a) A (2) bekezdés d) pontjának alkalmazása során, a biztosított egyéni és társas vállalkozó esetén minimálbér alatt a Tbj. 4. § 14. pont 14.2. alpontjában foglaltakat kell érteni.
 
 (3) A rokkantsági ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés b) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés c) és e)–g) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával, a (2) bekezdés d) pontja szerinti esetben a megszüntetési ok bekövetkezését követő hónap első napjával kell megszüntetni.
 
@@ -249,7 +252,7 @@ meghatározott összeg 65 százaléka.
 (3) Az állami adóhatóság az ellátás megállapítása céljából a rehabilitációs hatóság megkeresésére közli
 
 - a) a 2009. december 31-ét követő időszakra vonatkozóan a biztosításban töltött napok számát,
-- b) a 2010. december 31-ét követő időszakra vonatkozóan – a havi átlagjövedelem meghatározása érdekében – az adózás rendjéről szóló törvény (a továbbiakban: Art.) szerinti havi adó- és járulékbevallásban bevallott pénzbeli egészségbiztosítási járulék alapot képező havi jövedelmi adatokat.
+- b) a 2010. december 31-ét követő időszakra vonatkozóan – a havi átlagjövedelem meghatározása érdekében – az adózás rendjéről szóló törvény (a továbbiakban: Art.) szerinti havi adó- és járulékbevallásban bevallott társadalombiztosítási járulék alapot képező havi jövedelmi adatokat.
 
 (4) A rehabilitációs hatóság a biztosításban töltött idő és a havi átlagjövedelem számításához szükséges adatok beszerzése céljából – amennyiben az a tényállás tisztázása érdekében szükséges – a foglalkoztatótól, más adatszolgáltatásra kötelezettől, továbbá az egykorú iratokat őrző más személytől vagy szervezettől adatot kérhet.
 
@@ -392,7 +395,9 @@ az öregségi nyugdíjkorhatár betöltéséig hátralevő időtartam a 10 évet
 20/D. § Az Ebtv. 70. § (1) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a rehabilitációs hatóság a követelését
 
 - a) az Ebtv. 66. §-a szerinti visszafizetésre kötelező határozattal vagy megtérítésre kötelező határozattal, továbbá
-- b) az Ebtv. 67. és 68. §-a szerinti megtérítésre kötelező határozattal érvényesíti.
+- b) az Ebtv. 67. és 68. §-a szerinti megtérítésre kötelező határozattal
+
+érvényesíti.
 
 20/E. § (1)
 
@@ -433,7 +438,7 @@ vonatkozó adatokat kezelheti.
 
 (6) Az egészségügyi adatok kezelésére és az adatok védelmére egyebekben az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény rendelkezései az irányadók.
 
-(7) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás Tbj. 42. § (1) bekezdésében meghatározott adatait
+(7) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás Tbj. 60. § (1) bekezdésében meghatározott adatait
 
 - a) a megváltozott munkaképességű személyek ellátása iránti kérelmet elutasító döntés jogerőre emelkedésétől számított 5 évig,
 - b) a megváltozott munkaképességű személyek ellátása megszűnésétől vagy megszüntetésétől számított 10 évig
@@ -663,7 +668,9 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 - h) a foglalkozási rehabilitációs szolgáltatások igénybevétele érdekében a munkaadó számára nyújtható szolgáltatásokat,
 - i) a megváltozott munkaképességű személyek foglalkoztatását elősegítő képzéshez nyújtható támogatásra vonatkozó szabályokat,
 - j) a kivételes rokkantsági ellátásra vonatkozó részletes eljárási szabályokat,
-- k) a foglalkozási rehabilitációs szakértői tevékenység és a rehabilitációs orvosszakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a foglalkozási rehabilitációs szakértői névjegyzék, valamint a rehabilitációs orvosszakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a foglalkozási rehabilitációs szakterületeket, a továbbképzésre vonatkozó szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben állapítsa meg.
+- k) a foglalkozási rehabilitációs szakértői tevékenység és a rehabilitációs orvosszakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a foglalkozási rehabilitációs szakértői névjegyzék, valamint a rehabilitációs orvosszakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a foglalkozási rehabilitációs szakterületeket, a továbbképzésre vonatkozó szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket
+
+rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a Kormány, hogy a rehabilitációs hatóságot, a megváltozott munkaképességű személyek ellátásait folyósító szervet, a rehabilitációs szakértői szervet, az orvosszakértői szervet, a foglalkozási rehabilitációs szakértői névjegyzéket és a rehabilitációs orvosszakértői névjegyzéket vezető szervet, valamint a foglalkozási rehabilitációs szakértők, rehabilitációs orvosszakértők továbbképzésével kapcsolatos feladatokat ellátó szervet rendeletben jelölje ki.
 
@@ -702,7 +709,9 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 - a) a 2011. december 31-éig terjedő időszakra I., II., III. csoportos rokkantsági, baleseti rokkantsági nyugdíjat, rendszeres szociális járadékot, átmeneti járadékot kell megállapítani a 2011. december 31-én hatályos szabályok szerint,
 - b) 2012. január 1-jétől
   - ba) az I–II. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, az öregségi nyugdíjkorhatárt 5 éven belül betöltő III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, az öregségi nyugdíjkorhatárt betöltött, vagy 5 éven belül betöltő rendszeres szociális járadékban, átmeneti járadékban részesülő személy részére az ellátást rokkantsági ellátásként kell folyósítani azzal, hogy az ellátás összege megegyezik az a) pont szerint megállapított – rokkantsági, baleseti rokkantsági nyugdíj esetén a 2012. januári nyugdíjemelés mértékével növelt – ellátás havi összegével,
-  - bb) a ba) alpont alá nem tartozó III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, rendszeres szociális járadékban részesülő személy részére rehabilitációs ellátásként kell folyósítani, azzal, hogy az ellátás összege megegyezik az a) pont szerint megállapított – rokkantsági, baleseti rokkantsági nyugdíj esetén a 2012. januári nyugdíjemelés mértékével növelt – ellátás havi összegével. A b) pont ba) alpontja alkalmazásában az minősül az öregségi nyugdíjkorhatárt 5 éven belül betöltő személynek, aki 2011. december 31-éig az 57. életévét betöltötte.
+  - bb) a ba) alpont alá nem tartozó III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, rendszeres szociális járadékban részesülő személy részére rehabilitációs ellátásként kell folyósítani, azzal, hogy az ellátás összege megegyezik az a) pont szerint megállapított – rokkantsági, baleseti rokkantsági nyugdíj esetén a 2012. januári nyugdíjemelés mértékével növelt – ellátás havi összegével.
+
+A b) pont ba) alpontja alkalmazásában az minősül az öregségi nyugdíjkorhatárt 5 éven belül betöltő személynek, aki 2011. december 31-éig az 57. életévét betöltötte.
 
 (5) Ha kérelmező a (3) bekezdés szerinti nyilatkozatában a kérelmét fenntartja, és 2011. december 31-éig a komplex minősítést nem végezték el, a jogosultsági feltételek fennállása esetén
 
@@ -720,7 +729,9 @@ ha a munkáltató a rehabilitációs hatóság komplex minősítése szerinti me
 (8) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 2011. december 31-én hatályos 25. §-ának alkalmazásával 2011. december 31-éig hozott, a rokkantsági, baleseti rokkantsági nyugdíj állapotjavulás miatt történő csökkentéséről (leszállításáról) szóló határozatot az abban foglalt időponttól kell végrehajtani úgy, hogy amennyiben a határozat alapján
 
 - a) II. csoportos rokkantsági, baleseti rokkantsági nyugdíj, vagy a 2011. december 31-éig az 57. életévét betöltött személynek III. csoportos rokkantsági, baleseti rokkantsági nyugdíj kerülne megállapításra, az ellátást rokkantsági ellátásként kell továbbfolyósítani,
-- b) az a) pont alá nem tartozó III. csoportos rokkantsági, baleseti rokkantsági nyugdíj kerülne megállapításra, az ellátást rehabilitációs ellátásként kell továbbfolyósítani a határozatban megjelölt összegben.
+- b) az a) pont alá nem tartozó III. csoportos rokkantsági, baleseti rokkantsági nyugdíj kerülne megállapításra, az ellátást rehabilitációs ellátásként kell továbbfolyósítani
+
+a határozatban megjelölt összegben.
 
 (9) A megváltozott munkaképességű személy e törvény szerinti ellátásokra való jogosultságát nem érinti az a keresetnövekedés, amellyel foglalkoztatója a munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés 2012. évi elvárt mértékének megfelelően növelte a megváltozott munkaképességű személy keresetét, ha e törvény szerint a megváltozott munkaképességű személy keresőtevékenységet végezhet és közfoglalkoztatásban részt vehet.
 
@@ -768,7 +779,9 @@ részesülő személy ellátását a Kormány által kijelölt szerv 2012. janu�
 
 - a) az életkor,
 - b) a keresőtevékenység, és
-- c) az egészségkárosodás mértéke, azonban a felülvizsgálat időpontja nem lehet későbbi a soros felülvizsgálat időpontjánál.
+- c) az egészségkárosodás mértéke,
+
+azonban a felülvizsgálat időpontja nem lehet későbbi a soros felülvizsgálat időpontjánál.
 
 (7) A felülvizsgálatot követően a megváltozott munkaképességű személy részére az e törvényben meghatározott ellátást – ha a bíróság által elrendelt megismételt eljárás esetén az ítélet másként nem rendelkezik – az erről szóló döntést követő naptól kell megállapítani, rehabilitációs ellátásra való jogosultság esetén az ellátás határozott időtartama ezzel a nappal kezdődik. Ha a megállapított ellátás összege csökken, azt a döntést követő második hónap első napjától kell a csökkentett összegben folyósítani.
 
@@ -822,7 +835,9 @@ kell figyelembe venni.
 38. § (1) A 23–24. § alkalmazásában
 
 - a) a 33. § szerinti felülvizsgálattal érintett személyek esetében a felülvizsgálat alapján hozott jogerős döntést követő harmadik hónap első napjáig, a 38/C. § szerint a komplex minősítés alól mentesülő személyek esetében a rokkantsági ellátás időtartama alatt,
-- b) az a) pont alá nem tartozó személyek esetében a (2) bekezdés szerinti hatósági bizonyítvány kiállítását követő harmadik hónap első napjáig, de legkésőbb 2012. december 31-éig megváltozott munkaképességű személynek kell tekinteni azt a személyt is, aki 2011. december 31-én a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 42. és 42/B. §-a szerint megváltozott munkaképességű munkavállalónak minősült vagy foglalkoztatása alapján a munkáltató 2011. decemberében megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtott költségvetési támogatásban részesült.
+- b) az a) pont alá nem tartozó személyek esetében a (2) bekezdés szerinti hatósági bizonyítvány kiállítását követő harmadik hónap első napjáig, de legkésőbb 2012. december 31-éig
+
+megváltozott munkaképességű személynek kell tekinteni azt a személyt is, aki 2011. december 31-én a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 42. és 42/B. §-a szerint megváltozott munkaképességű munkavállalónak minősült vagy foglalkoztatása alapján a munkáltató 2011. decemberében megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtott költségvetési támogatásban részesült.
 
 (2) Az (1) bekezdés b) pontja szerinti személy komplex minősítését kérelmére a rehabilitációs hatóság elvégzi, és ennek eredményéről hatósági bizonyítványt állít ki.
 
@@ -864,7 +879,7 @@ felülvizsgálati eljárás megindításának időpontjában az öregségi nyugd
 
 (5) Az egyes szociális és gyermekvédelmi tárgyú, valamint a megváltozott munkaképességű személyek ellátásait érintő törvények módosításáról szóló 2016. évi XXVI. törvény által megállapított 20. §-t a 2016. április 30-át követően indult ügyekben kell alkalmazni.
 
-38/G. § (1) Ha a Tbj. 34. § (1) bekezdése alapján a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 2012. január 1-jét megelőzően a rokkantsági nyugdíj megszerzése érdekében kötött megállapodás 2011. november 1-je és 2012. július 25-e között került megszüntetésre, a megállapodást kötő személy – kedvezményezett javára kötött megállapodás esetén a kedvezményezett – (a továbbiakban együtt: igénylő) előzetes biztosítási idejének a 2. § (1) bekezdés a) pontja szerinti megállapításakor be kell számítani
+38/G. § (1) Ha a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2020. július 1-jét megelőzően hatályos 34. § (1) bekezdése alapján a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 2012. január 1-jét megelőzően a rokkantsági nyugdíj megszerzése érdekében kötött megállapodás 2011. november 1-je és 2012. július 25-e között került megszüntetésre, a megállapodást kötő személy – kedvezményezett javára kötött megállapodás esetén a kedvezményezett – (a továbbiakban együtt: igénylő) előzetes biztosítási idejének a 2. § (1) bekezdés a) pontja szerinti megállapításakor be kell számítani
 
 - a) a 2011. november 1-je és 2012. július 25-e között megszüntetett megállapodás alapján szerzett szolgálati időt, és
 - b) a nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 2017. július 1-jéig megkötött megállapodás alapján szerzett szolgálati időt is.

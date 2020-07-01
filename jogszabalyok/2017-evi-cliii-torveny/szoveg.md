@@ -214,7 +214,7 @@ különös elszámolási szabályok alkalmazandóak.
 
 19. § (1) A tartozás és a meghatározott cselekmény végrehajtásához való jog az esedékesség naptári évének az utolsó napjától számított 4 év elteltével évül el. Ha az adóhatóság végrehajtási cselekményt foganatosított, az elévülés 6 hónappal meghosszabbodik.
 
-(2) A bevallás, adatbejelentés, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés késedelmes benyújtása esetén az adótartozás végrehajtásához való jog elévülése a bevallás, adatbejelentés, a Tbj. 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés benyújtásának időpontjával megszakad, és az elévülés a bevallás, adatbejelentés, a Tbj. 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés benyújtását követő napon újból megkezdődik.
+(2) A bevallás, adatbejelentés késedelmes benyújtása esetén az adótartozás végrehajtásához való jog elévülése a bevallás, adatbejelentés benyújtásának időpontjával megszakad, és az elévülés a bevallás, adatbejelentés benyújtását követő napon újból megkezdődik.
 
 (3) Ha az adós ellen felszámolási eljárás indul, a tartozás végrehajtásához való jog elévülése a felszámolás kezdő időpontjával megszakad, és az elévülés a felszámolási eljárás befejezéséről hozott döntés jogerőre emelkedését követő napon újból megkezdődik.
 

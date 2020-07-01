@@ -12,7 +12,12 @@ Az Országgyűlés a gazdasági növekedés feltételeinek javítása és a gazd
 
 (2) Az (1) bekezdésben meghatározott jövedelmeken kívül adófizetési kötelezettség terheli az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíjat és a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíjat.
 
-(3) Adófizetési kötelezettség terheli az Szja tv. szerinti önálló és nem önálló tevékenységből származó jövedelem esetében az Szja tv. szerinti adó (adóelőleg) alap hiányában a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerint biztosítottnak minősülő személy részére juttatott olyan jövedelmet, amely a Tbj. 4. § k) pont 2. alpontja alapján járulékalapot képez.
+(3) Adófizetési kötelezettség terheli az Szja tv. szerinti önálló és nem önálló tevékenységből származó jövedelem esetében az Szja tv. szerinti adó (adóelőleg) alap hiányában a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerint
+
+- a) biztosítottnak minősülő személy részére juttatott olyan jövedelmet, amely a Tbj. 27. § (1) bekezdés b) pontja alapján,
+- b) a Tbj. 30. §-a alapján
+
+járulékalapot képez.
 
 (4) Az (1)–(3) bekezdésen túl adófizetési kötelezettség terheli az Szja tv. szerint külön adózó jövedelmek közül
 
@@ -42,9 +47,11 @@ Magyarországon adóztatható része után.
 
 (9) Adóalapot képez az a jövedelem is, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától.
 
+(10) A Tbj. 6. § (1) bekezdés a) pontja szerinti biztosítási jogviszony esetében az adó alapja megegyezik a társadalombiztosítási járulék alapjával.
+
 #### 2. Az adó mértéke és fizetendő összege
 
-2. § (1) Az adó mértéke az adóalap 17,5 százaléka, az 1. § (4) bekezdésben foglalt esetekben a juttatások adóalapként meghatározott összegének 17,5 százaléka.
+2. § (1) Az adó mértéke az adóalap 15,5 százaléka, az 1. § (4) bekezdésben foglalt esetekben a juttatások adóalapként meghatározott összegének 15,5 százaléka.
 
 (2) Az 1. § (5) bekezdés a)–e) pontja esetében az adót addig kell megfizetni, amíg a természetes személy 1. § (1)–(3) bekezdés és az 1. § (5) bekezdés a)–e) pontja szerinti jövedelme a tárgyévben eléri a minimálbér összegének huszonnégyszeresét (a továbbiakban: adófizetési felső határ).
 
@@ -93,7 +100,7 @@ Magyarországon adóztatható része után.
 alapján létrejött jogviszonyra tekintettel;
 
 - f) a közérdekű nyugdíjas szövetkezetnek az öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja között fennálló jogviszonyára tekintettel;
-- g) a kifizetőnek az Mt. szerinti munkaviszonyban foglalkoztatott saját jogú nyugdíjas személyre tekintettel;
+- g) a kifizetőnek a Tbj. szerint kiegészítő tevékenységet folytató személyre tekintettel;
 - h) a Tbj. szerint külföldinek minősülő személynek az általa megszerzett, járulékalapot nem képező jövedelemre tekintettel;
 - i) az egyházi jogi személynek az egyházi szolgálati viszonyban álló egyházi személyre tekintettel, ha az egyházi szolgálati viszonyban álló egyházi személy saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte.
 
@@ -105,9 +112,9 @@ alapján létrejött jogviszonyra tekintettel;
 - d) a külföldi kifizető által Magyarországon kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében munkaviszonyban foglalkoztatott olyan – bevándorolt vagy letelepedett jogállással nem rendelkező – természetes személy részére kifizetett, juttatott bevétel (ideértve a munkaszerződésben meghatározott alapbért is), aki harmadik állam állampolgára, feltéve, hogy a foglalkoztatás időtartama nem haladja meg a két évet, valamint az említett feltételek szerinti korábbi foglalkoztatásától számítva a foglalkoztatás ismételt megkezdéséig legalább három év már eltelt; e rendelkezés olyan harmadik államból kiküldött személy esetében is alkalmazható, aki a harmadik államban fennálló biztosítását igazolja, függetlenül attól, hogy a kiküldött személy állampolgársága szerinti állammal Magyarországnak szociális biztonsági egyezménye áll fenn, továbbá olyan harmadik államból kiküldött személy esetében is alkalmazható, aki a harmadik államban fennálló biztosítását igazolja és nem tartozik a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá;
 - e) a kifizető által megállapított és folyósított társadalombiztosítási ellátás, valamint az általa folyósított szociális ellátásból a szociális igazgatásról és a szociális ellátásokról szóló törvény szerint nem a kifizetőt terhelő rész;
 - f) táppénz, baleseti táppénz, csecsemőgondozási díj, örökbefogadói díj, gyermeknevelési támogatás, gyermekgondozási díj;
-- g) az olyan személynek juttatott bevétel, akire a Tbj. 11. §-a, 11/B. §-a, és 13. §-a szerint a biztosítási kötelezettség nem terjed ki;
+- g) az olyan személynek juttatott bevétel, akire a Tbj. 3. §-a, 17. §-a, és 18. §-a szerint a biztosítási kötelezettség nem terjed ki;
 - h) az ingatlan bérbeadásából származó jövedelem;
-- i) az a jövedelem, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. 11. §-a, 11/A. §-a, 11/B. §-a vagy 13. §-a alapján nem áll fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától.
+- i) az a jövedelem, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. 3. §-a, 17. §-a, vagy 18. §-a alapján nem áll fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától.
 - j) a magánnyugdíjpénztár és az önkéntes kölcsönös biztosítópénztár által szolgáltatásként kifizetett összeg, a kedvezményezett részére a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 28. § (1) bekezdésének a) pontja alapján fizetett összeg, az önkéntes kölcsönös biztosítópénztár megszűnése esetén a tag részére teljesített adóköteles pénztári kifizetés, valamint a volt pénztártagnak a társadalombiztosítási nyugdíjrendszerbe történő visszalépése miatt visszafizetett magán-nyugdíjpénztári tagdíj-kiegészítés,
 - k) az egyes bányászati dolgozók társadalombiztosítási kedvezményeiről szóló kormányrendelet alapján nyújtott keresetkiegészítés,
 - l) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 51/C. §-ában meghatározott szolgáltatás,
@@ -145,11 +152,11 @@ nem terheli adófizetési kötelezettség.
 
 #### 7. A mezőgazdasági őstermelő által fizetendő adó alapja
 
-7. § (1) A Tbj. 30/A. § (1) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a tárgyévi összevont adóalapba tartozó jövedelme, de legalább a minimálbér vagy, a Tbj. 30/A. § (3) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
+7. § (1) A Tbj, 41 § (1) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a tárgyévi összevont adóalapba tartozó jövedelme, de legalább a minimálbér vagy, a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
 
-(2) A Tbj. 30/A. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja a Tbj. 30/A. § (3) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
+(2) A Tbj, 41. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
 
-(3) A (2) bekezdés szerinti adóalap hiányában a Tbj. 30/A. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja
+(3) A (2) bekezdés szerinti adóalap hiányában a Tbj, 41. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja
 
 - a) a tárgyévi összevont adóalapba tartozó jövedelem,
 - b) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett tárgyévi jövedelmének 75 százaléka,
@@ -157,7 +164,7 @@ nem terheli adófizetési kötelezettség.
 
 csökkentve a tárgyévi Tbj. szerinti járulékalapját képező összeggel.
 
-(4) A Tbj. 30/A. §-a alapján járulékfizetésre nem kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja
+(4) A Tbj. 41. §-a alapján járulékfizetésre nem kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja
 
 - a) a tárgyévi összevont adóalapba tartozó jövedelem,
 - b) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett tárgyévi jövedelmének 75 százaléka,
@@ -214,7 +221,7 @@ harmincad része azokra a napokra, amelyekre az adófizetési kötelezettség fe
 
 (6) Amennyiben az (5) bekezdésben meghatározott körülmények a naptári hónap egészében nem állnak fenn, akkor egy-egy naptári napra az adófizetési kötelezettség kiszámításánál egyéni vállalkozó esetében a 8. § (3) bekezdése szerinti adóalap harmincad részét, társas vállalkozó esetében a 8. § (1) bekezdés szerinti adóalap harmincad részét kell figyelembe venni.
 
-(7) Az (5) bekezdésben az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányokat a Tbj. vhr. 7/B. §-a szerint kell igazolni.
+(7) Az (5) bekezdésben az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányokat a Tbj. 42. § (11) bekezdése szerint kell igazolni.
 
 (8) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának megállapításakor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(5) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen tagja kifizetővel is az adóalap megállapításának különös szabályai hatálya alá tartozó adófizetési kötelezettséget eredményező jogviszonyban áll, vagy egyéni vállalkozóként az adóalap megállapításának különös szabályai hatálya alatt áll, feltéve, hogy a kifizető e napot a taggal fennálló jogviszonya alapján őt terhelő adó, illetve az egyéni vállalkozó e napot a saját maga után fizetendő adó alapjának megállapításkor számításba veszi.
 
@@ -470,7 +477,7 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
   - b) nappali rendszerben felnőttképzési jogviszonnyal rendelkezik,
   - c) nappali rendszerű oktatás keretében a nemzeti felsőoktatásról szóló törvény szerinti nem szünetelő (aktív) hallgatói jogviszonnyal rendelkezik, vagy
   - d) az a)–c) pont szerinti jogviszonya megszűnését követően diákigazolványra jogosult, a diákigazolványra való jogosultsága lejártáig;
-- 5. kiegészítő tevékenységet folytató egyéni, társas vállalkozó: aki vállalkozói tevékenységet saját jogú nyugdíjasként folytat, továbbá az az özvegyi nyugdíjban részesülő személy, aki a reá irányadó öregségi nyugdíjkorhatárt betöltötte.
+- 5. kiegészítő tevékenységet folytató egyéni, társas vállalkozó: aki vállalkozói tevékenységet saját jogú nyugdíjasként folytat és a Tbj. szerint kiegészítő tevékenységet folytató személynek minősül.
 - 6. kifizető: az Art. szerinti kifizető
 - 7. külföldi kifizető: a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel nem rendelkező személy;
 - 8. Külföldi kiküldetés esetén alapbér: az adott munkakörben foglalkoztatott kiküldetését megelőző egy évben a munkavállaló teljesítményétől, ledolgozott munkaidejétől közvetlenül függő, a munkavállaló alapbérén vagy az alkalmazott bérformán alapuló, a munkaszerződés alapján ténylegesen számfejtett és kifizetett munkabér (a statisztikai elszámolások szerinti törzsbér) havi átlagos összege, ennek hiányában a tárgyhavi alapbér;

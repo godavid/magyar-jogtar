@@ -298,7 +298,7 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (6) A növénytermesztési hatóság az (5) bekezdés szerinti mintavétel eredménye alapján a vetőmagtételt nyilvántartásba veszi. A növénytermesztési hatóság a nyilvántartás adatai alapján a fémzároltató részére hatósági bizonyítványt állít ki.
 
-(7) Ha a (2) és (6) bekezdés szerinti eljárásban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény értelmében függő hatályú döntés meghozatalának van helye, a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(7)
 
 (8) A növénytermesztési hatóság az (1)–(6) bekezdés szerinti eljárást az e törvény felhatalmazása alapján kiadott jogszabályban foglaltak szerint átruházhatja a szaporítóanyag-előállítóra. Mintavevői tevékenységet csak az folytathat, aki rendelkezik a növénytermesztési hatóság engedélyével. A növénytermesztési hatóság a mintavevői tevékenység folytatásra engedéllyel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait.
 

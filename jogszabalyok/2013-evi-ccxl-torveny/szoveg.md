@@ -4865,7 +4865,7 @@ terhelik.
 
 (3) A javítóintézet a befogadáskor
 
-- a) a fiatalkorú adatait a gyermekek védelméről szóló törvény rendelkezései szerint nyilvántartásba veszi (a továbbiakban: fiatalkorúak nyilvántartása) és személyi adatlapot állít ki róla,
+- a) a fiatalkorú adatait a gyermekek védelméről szóló törvény rendelkezései szerinti javítóintézeti informatikai rendszerben rögzíti és kezeli,
 - b) a fiatalkorúról arcképmást készít, ami a ki- és belépés ellenőrzése érdekében kiállítandó javítóintézeti azonosító kártyán használható.
 
 (4) A javítóintézeti azonosító kártya igazolja a fiatalkorú személyazonosságát.

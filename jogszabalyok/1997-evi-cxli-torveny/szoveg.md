@@ -1045,7 +1045,7 @@ igényli.
 
 (3) A miniszter a szakmai irányításával összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett adatbázisokhoz.
 
-(4)
+(4) Az agrárpolitikáért, a földügyért, a földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért, az agrár-vidékfejlesztésért, az erdőgazdálkodásért, a környezetvédelemért, a természetvédelemért, az élelmiszerlánc-felügyeletért, az élelmiszeriparért, a vadgazdálkodásért és a halgazdálkodásért felelős miniszter – a szakmai irányításával összefüggő feladatai ellátása érdekében – térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai szerv által kezelt és üzemeltett adatbázisokhoz.
 
 (5)
 
@@ -1192,7 +1192,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (3) A társasházakról szóló 2003. évi CXXXIII. törvény módosításáról szóló 2010. évi CLXXVII. törvény (a továbbiakban: Módtv.) 19. § (1) bekezdésével megállapított 34/A. §-t a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-(4) Ez a törvény nem érinti a hatálybalépése előtt az ingatlan-nyilvántartásba bejegyzett termelőszövetkezeti földhasználati jogot és fennállásáig annak nyilvántartását, a tartós földhasználati jogot, a külföldieket megillető ingatlanhasználati jogot, továbbá a bejegyzett kezelői jogok tekintetében a külön törvénynek azt a rendelkezését, amely szerint az ingatlan-nyilvántartásba bejegyzett kezelői jogon, a továbbiakban vagyonkezelői jogot kell érteni
+(4) Ez a törvény nem érinti a hatálybalépése előtt az ingatlan-nyilvántartásba bejegyzett termelőszövetkezeti földhasználati jogot és fennállásáig annak nyilvántartását, a tartós földhasználati jogot, a külföldieket megillető ingatlanhasználati jogot.
 
 (5) Ez a törvény nem érinti a hatálybalépése előtt az ingatlan-nyilvántartásba közös udvarként, valamint részházként bejegyzett ingatlanok nyilvántartását. Közös udvart, valamint részházat azonban újonnan nem lehet nyilvántartásba venni.
 
@@ -1202,7 +1202,9 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (8) Ahol e törvény csak bejegyzést említ, az alatt a tények feljegyzését is érteni kell.
 
-(9) Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosításáról szóló 2005. évi CXXII. törvény erejénél fogva a tartós földhasználók tulajdonába került ingatlanok tulajdonjogát a tartós földhasználó kérelmére, a Magyar Köztársaság 2007. évi költségvetését megalapozó egyes törvények módosításáról szóló 2006. évi CXXI. törvény erejénél fogva az ingyenes örökhasználók tulajdonába került ingatlanok tulajdonjogát az ingyenes örökhasználó kérelmére kell az ingatlan-nyilvántartásba bejegyezni.
+(9) Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosításáról szóló 2005. évi CXXII. törvény erejénél fogva az ingatlan-nyilvántartásban tartós földhasználóként bejegyzett személyek tulajdonába került ingatlanok tulajdonjogát, a Magyar Köztársaság 2007. évi költségvetését megalapozó egyes törvények módosításáról szóló 2006. évi CXXI. törvény erejénél fogva az ingatlan-nyilvántartásban ingyenes örökhasználóként bejegyzett személyek tulajdonába került ingatlanok tulajdonjogát az ingatlanügyi hatóság legkésőbb 2021. január 1-jéig hivatalból jegyzi be az ingatlan-nyilvántartásba.
+
+(9a) Ha az ingatlanügyi hatóság kétséget kizáróan tudomást szerez a (9) bekezdésben meghatározott jogosultak elhalálozásáról, hivatalból értesíti a jegyzőt a hagyatéki eljárás vagy a póthagyatéki eljárás megindítása céljából.
 
 (10) Az e törvénynek az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló 2012. évi LXXVI. törvénnyel megállapított 37. § (3) és (5) bekezdését az egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabályozottságának megszüntetése érdekében szükséges technikai deregulációjáról szóló 2012. évi LXXVI. törvény hatálybalépésének időpontjában folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -1213,6 +1215,8 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 93. § Az egyes törvényeknek agrár- és környezetügyi tárgyban történő módosításáról szóló 2013. évi CCL. törvény (a továbbiakban: 3. sz. Módtv.) 34. §-ával megállapított 26. § (1a) bekezdésében foglaltakat a 3. sz. Módtv. 34. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 93/A. § E törvénynek az egyes vagyongazdálkodási tárgyú törvények módosításáról, valamint egyes vagyongazdálkodást érintő rendelkezésekről szóló 2019. évi CXIV. törvénnyel (a továbbiakban: 4. sz. Módtv.) megállapított 7. § (3) bekezdésben foglalt rendelkezéseket a 4. sz. Módtv. 11. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+93/B. § E törvénynek a termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvénnyel (a továbbiakban: 2020. évi XL. törvény) megállapított 91. § (9) bekezdését a tartós földhasználó, illetve az ingyenes örökhasználó által a 2020. évi XL. törvény hatálybalépése napjáig benyújtott tulajdonjog bejegyzés iránti kérelme alapján folyamatban lévő eljárásokban is alkalmazni kell.
 
 94. § (1)
 

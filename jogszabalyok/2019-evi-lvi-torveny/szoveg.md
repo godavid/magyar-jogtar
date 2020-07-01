@@ -14,7 +14,7 @@ az állattenyésztés szabályozásához szükséges törvényi szintű rendelke
 
 (2) A tenyésztési program módosítására irányuló eljárásban az ügyintézési határidő 90 nap.
 
-(3) Ha az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény értelmében függő hatályú döntés meghozatalának van helye, a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(3)
 
 3. § Az e törvény végrehajtására kiadott rendeletben meghatározott törzskönyv, tenyésztési főkönyv, valamint az abban szereplő adat alapján kiállított származási igazolás közokirat.
 

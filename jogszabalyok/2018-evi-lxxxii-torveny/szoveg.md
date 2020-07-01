@@ -918,7 +918,7 @@ p) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférh
 
 (4) A szakképzési hozzájárulás alapját csökkenti az (1) bekezdés szerinti foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege, de legfeljebb a kedvezménnyel érintett munkavállalónként havonta a minimálbér négyszerese, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya a (3) bekezdés szerinti adókedvezményt érvényesíti.
 
-(5) A (3)–(4) bekezdés szerinti kedvezmény mindaddig érvényesíthető, amíg az (1) bekezdésben meghatározott személy nem minősül a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény szerint saját jogú nyugdíjasnak.
+(5) A (3)–(4) bekezdés szerinti kedvezmény mindaddig érvényesíthető, amíg az (1) bekezdésben meghatározott személy nem minősül a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerint saját jogú nyugdíjasnak.
 
 (6) Az egyszerűsített foglalkoztatásról szóló törvény alapján létesített munkaviszony szerinti munkabért az adókedvezmény összegének kiszámításánál nem lehet figyelembe venni.
 

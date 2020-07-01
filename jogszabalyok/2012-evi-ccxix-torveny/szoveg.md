@@ -351,7 +351,7 @@ kapcsolatos feladatok ellátása.
 
 29. § A Hegyközségek Nemzeti Tanácsa ülésén tanácskozási joggal részt vesznek a miniszter vagy képviselője, a borászati hatóság, az országos szőlészeti-borászati oktatási, kutatási intézmények, valamint szakmai érdek-képviseleti szervezetek képviselői.
 
-30. §
+#### 30. §
 
 31. § A Hegyközségek Nemzeti Tanácsa ügyintéző szervezetet hoz létre, és arra vonatkozóan szervezeti és működési szabályzatot készít, amelyet az elnökség fogad el.
 
@@ -393,7 +393,7 @@ kapcsolatos feladatok ellátása.
 
 (6) Azt, aki nem hegyközségi tagként vét a hegyközségi, illetve a borvidéki rendtartás szabályai ellen, a hegyközség felszólítja a jogellenes állapot megszüntetésére vagy a hegyközségi, illetve a borvidéki rendtartásnak megfelelő cselekvésre. A felszólítás eredménytelensége esetén a hegyközség a törvényszéktől kérheti a hegyközségi, illetve a borvidéki rendtartásba ütköző cselekményt elkövető személynek a felszólításnak megfelelő kötelezését.
 
-35. §
+#### 35. §
 
 #### 21. A hegyközségi tanács feladatai
 
@@ -514,7 +514,7 @@ jár el.
 (4) E törvény, valamint a szőlőtermesztésről és a borgazdálkodásról szóló törvény alapján a hegybíró hatáskörébe tartozó ügyekben
 
 - a) nincs helye sommás eljárásnak,
-- b) a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+- b)
 
 (5) A hegybíró felügyeleti szerve a Hegyközségek Nemzeti Tanácsának főtitkára.
 
@@ -665,7 +665,7 @@ kell fedezni.
 
 #### 30.
 
-53. §
+#### 53. §
 
 ### IX. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -709,7 +709,7 @@ kell fedezni.
 
 59. § A mezőgazdasági igazgatási szerv ellenőrzi a hegyközségeknek e törvény hatályba lépésétől végzett tevékenységét, és 2013. december 31-ig jelentést készít a miniszternek.
 
-59/A. §
+#### 59/A. §
 
 #### 34/a. A Borrégiós tanácsok megalakítása
 

@@ -267,7 +267,9 @@ a (2) bekezdésben meghatározottak megérkezéséig – de legfeljebb két óra
 
 - a) a) pont aa) alpontjában meghatározott esetben a rendőrség,
 - b) a) pont ab) alpontjában meghatározott esetben a 19. § (2) és (3) bekezdés szerinti jogosultak,
-- c) b) pontjában meghatározott esetben a rendőrség megérkezéséig, de legfeljebb az (1) bekezdésben meghatározott ideig tartható vissza.
+- c) b) pontjában meghatározott esetben a rendőrség
+
+megérkezéséig, de legfeljebb az (1) bekezdésben meghatározott ideig tartható vissza.
 
 (3) A tetten ért személy visszatartása intézkedés végrehajtása érdekében rendészeti feladatokat ellátó személy a 15. § (3) bekezdésben meghatározott kényszerítő eszközt alkalmazhatja.
 
@@ -315,7 +317,9 @@ a (2) bekezdésben meghatározottak megérkezéséig – de legfeljebb két óra
 20. § (1) Az 1. § (1) bekezdés c), d), i), j), k) és l) pontjában meghatározott – kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban álló – személy jogosult a tetten ért személyt
 
 - a) bűncselekmény vagy
-- b) azon szabálysértési elzárással is büntethető szabálysértés esetén, amely tekintetében helyszíni bírságot szabhat ki az eljárás lefolytatása érdekében haladéktalanul előállítani – a (2) bekezdésben meghatározott kivétellel – a helyi rendőri szervhez, vagy a rendőrséggel egyeztetett helyszínen a rendőrség részére átadni.
+- b) azon szabálysértési elzárással is büntethető szabálysértés esetén, amely tekintetében helyszíni bírságot szabhat ki
+
+az eljárás lefolytatása érdekében haladéktalanul előállítani – a (2) bekezdésben meghatározott kivétellel – a helyi rendőri szervhez, vagy a rendőrséggel egyeztetett helyszínen a rendőrség részére átadni.
 
 (2) Az 1. § (1) bekezdés d), i), j), k) és l) pontjában meghatározott – kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban álló – személynek ellenszegülés esetén az előállításhoz a Rendőrségről szóló törvény szerint a rendőrség segítségét kell kérnie.
 
@@ -346,11 +350,13 @@ korlátozhatja.
 
 tarthat magánál.
 
-(2) A település közigazgatási területének belterületnek nem minősülő, elsősorban mezőgazdasági, erdőművelési célra szolgáló részén, szolgálati feladatainak ellátása során nyíltan viselve
+(2) A szolgálati feladatainak ellátása során
 
-- a) a mezőőr, valamint a hegyőr, az állami halőr és a hivatásos halőr – jogszabályban meghatározott közegészségügyi okból, a légiközlekedés biztonsága, valamint az okszerű mezőgazdasági termelés biztosítása érdekében meghatározott állatok riasztása, elejtése, gyérítése, és állományának szabályozása érdekében – sörétes lőfegyvert,
-- b) az erdészeti hatóság rendészeti feladatokat ellátó tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, természetvédelmi őr önvédelmi célból, a hivatásos vadász – nagyvad utánkeresése során a kegyelemlövéshez – maroklőfegyvert,
-- c) a hivatásos vadász – a sérült vagy sebzett nagyvad elejtése érdekében – vadászlőfegyvert
+- a) a település közigazgatási területének belterületnek nem minősülő, elsősorban mezőgazdasági, erdőművelési célra szolgáló részén nyíltan viselve
+  - aa) a mezőőr, valamint a hegyőr, az állami halőr és a hivatásos halőr – jogszabályban meghatározott közegészségügyi okból, a légi közlekedés biztonsága, valamint az okszerű mezőgazdasági termelés biztosítása érdekében meghatározott állatok riasztása, elejtése, gyérítése, és állományának szabályozása érdekében – sörétes lőfegyvert,
+  - ab) az erdészeti hatóság rendészeti feladatokat ellátó tagja, a rendészeti feladatokat ellátó erdészeti szakszemélyzet, valamint a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet önvédelmi célból, a hivatásos vadász – nagyvad utánkeresése során a kegyelemlövéshez – maroklőfegyvert,
+  - ac) a hivatásos vadász – a sérült vagy sebzett nagyvad elejtése érdekében – vadászlőfegyvert,
+- b) a természetvédelmi őr önvédelmi célból, nyíltan viselve szolgálati maroklőfegyvert
 
 tarthat magánál.
 
@@ -380,6 +386,14 @@ tarthat magánál.
 - h) a támadásra használt eszköz leírását, ha támadás miatt történt a kényszerítő eszköz alkalmazása,
 - i) a tanúk természetes személyazonosító adatait és lakcímét, valamint
 - j) az alkalmazást lehetővé tevő valamennyi jogszabályhelyre történő hivatkozást.
+
+(3a) Akinek a rendészeti feladatot ellátó személy, a személy- és vagyonőr jogszabályban meghatározott intézkedése, vagy annak elmulasztása jogát vagy jogos érdekét érintette – a (4) bekezdésben meghatározott kivétellel –, panasszal fordulhat az intézkedést foganatosító munkáltatójához.
+
+(3b) A (3a) bekezdésben meghatározott esetekben a cselekvőképtelen személy helyett törvényes képviselője jár el, korlátozottan cselekvőképes kiskorú vagy cselekvőképességében bármely ügycsoportban korlátozott nagykorú személy helyett törvényes képviselője vagy meghatalmazottja is eljárhat. A panasz meghatalmazott vagy jogi képviselő útján is előterjeszthető. Jogi képviselőként jogvédelemmel foglalkozó egyesület vagy alapítvány, nemzetiségi önkormányzat, jogi oktatást végző egyetem állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója is eljárhat.
+
+(3c) Az intézkedést foganatosító munkáltatójához benyújtott panaszt az intézkedést foganatosító munkáltatója közigazgatási hatósági eljárásban bírálja el.
+
+(3d) A panaszt az intézkedést követő harminc napon belül lehet előterjeszteni, és a beérkezéstől, illetve az áttételtől számított harmincöt napon belül kell elbírálni.
 
 (4) Akinek az e törvény, a személy- és vagyonőr esetében a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti kényszerítő eszköz alkalmazása jogát vagy jogos érdekét sértette
 
@@ -467,7 +481,9 @@ rendelkezések ismeretéből – bizottság előtt – vizsgát tenni.
 - e) a kényszerítő eszközök típusaira, fajtáira és az alkalmazásukra, valamint a kényszerítő eszköz alkalmazását követő jelentéstétel és kivizsgálás rendjére vonatkozó részletes szabályokat,
 - f) a rendészeti feladatokat ellátó személyek ruházati ellátására vonatkozó részletes szabályokat az agrárpolitikáért, az erdőgazdálkodásért, a vadgazdálkodásért, a halgazdálkodásért és a természetvédelemért felelős miniszterrel egyetértésben,
 - g) a segédfelügyelő az önkormányzati természetvédelmi őr, a közterület-felügyelő, a mezőőr, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, az állami halőr és a hivatásos halőr feladatellátásában való közreműködésére vonatkozó részletes szabályokat az agrárpolitikáért, az erdőgazdálkodásért, a vadgazdálkodásért, a halgazdálkodásért és a természetvédelemért felelős miniszterrel egyetértésben,
-- h) a segédfelügyelő az önkormányzati természetvédelmi őr, a közterület-felügyelő, a mezőőr, az rendszeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, az állami halőr és a hivatásos halőr tevékenységéhez kapcsolódó feladatai ellátása érdekében a szükséges rész képzés és vizsgáztatás rendjét az agrárpolitikáért, az erdőgazdálkodásért, a vadgazdálkodásért, a halgazdálkodásért és a természetvédelemért felelős miniszterrel és az oktatásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+- h) a segédfelügyelő az önkormányzati természetvédelmi őr, a közterület-felügyelő, a mezőőr, az rendszeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, az állami halőr és a hivatásos halőr tevékenységéhez kapcsolódó feladatai ellátása érdekében a szükséges rész képzés és vizsgáztatás rendjét az agrárpolitikáért, az erdőgazdálkodásért, a vadgazdálkodásért, a halgazdálkodásért és a természetvédelemért felelős miniszterrel és az oktatásért felelős miniszterrel egyetértésben
+
+rendeletben állapítsa meg.
 
 #### 18. Hatályba léptető rendelkezés
 

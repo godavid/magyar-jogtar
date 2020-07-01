@@ -21,11 +21,13 @@ Az Országgyűlés a környezethez való alkotmányos alapjog maradéktalan bizt
 
 3. § A törvény hatálya alá tartozó és a részarány-földtulajdonosok földjének kiadása, valamint a tagok és alkalmazottak földhöz juttatása céljára szolgáló földalapba kijelölt az a földterület, amelynek – magántulajdonba kerülése esetén – a kisajátítása mellőzhető lenne [4. § (2)–(3) bekezdés], e törvény hatálybalépése után magántulajdonba kerülhet, ha a kisajátítás mellőzésének törvényes feltételei fennállnak, és a tulajdont szerző a földterület fekvése szerint illetékes természetvédelmi hatóság által megállapított korlátozást írásbeli nyilatkozatával tudomásul veszi, illetőleg a hatósági előírások betartására írásbeli kötelezettséget vállal.
 
-4. § (1) A törvény hatálya alá tartozó és törvény alapján már magántulajdonba került földterületeket – a (2) és (3) bekezdésben foglalt kivétellel – 2022. december 31-ig az állam javára – az irányadó jogszabályok szerint – ki kell sajátítani. A kisajátítást a védett természeti területek természetvédelmi kezeléséért felelős szerv köteles kezdeményezni, illetve kérni.
+4. § (1) E törvény hatálya alá tartozó és törvény alapján már magántulajdonba került földterületeket – a (2), (3) és (3a) bekezdésben foglalt kivétellel – 2022. december 31-ig az állam javára ki kell sajátítani. A kisajátítást a védett természeti területek természetvédelmi kezeléséért felelős szerv köteles kezdeményezni vagy kérni.
 
 (2) A természetvédelemért felelős miniszter hozzájárulásával a kisajátítás kérése mellőzhető a tájidegen fafajú, mesterséges vagy rontott erdők, továbbá fokozott védettség alatt nem álló növény- és állatfaj élőhelyéül szolgáló szántó, kert, szőlő és gyümölcsös művelési ágú, továbbá – elhelyezkedésénél fogva – csekélyebb jelentőségű természeti értékkel rendelkező földterületek (pl. szántó közé ékelődött erdőfolt, periférikus, erősen zavart területek) esetén, amelyekre a természetvédelmi hatóság az érintett földterületre egyébként irányadó védelmi szabályoknál szigorúbb – a természeti károk bekövetkezésének megelőzésére alkalmas – korlátozást állapíthat meg.
 
 (3) Mellőzhető a kisajátítás akkor is, ha a kisajátítás kezdeményezésének időpontjában az érintett földterület védettsége már megszűnt, vagy védelmi igénye olyan szintre csökkent, amelyre tekintettel a kisajátítás e törvény hatálybalépésének időpontjában nem lett volna indokolt.
+
+(3a) A kisajátítás kérése mellőzhető akkor is, ha az ingatlan kedvező természeti állapota a védett természeti terület természetvédelmi kezeléséért felelős szerv állásfoglalása alapján, e törvény hatálybalépése óta nem romlott és a védettségi szint az állami tulajdonba vétel mellőzésével is fenntartható.
 
 (4) Ha a védettségi szint biztosítása érdekében e törvény szerint előírt korlátozás az érintett földterület rendeltetésszerű használatát lehetetlenné teszi vagy jelentős mértékben akadályozza, a természetvédelmi hatóság a tulajdonos javára – a korlátozó rendelkezések előírásával egyidejűleg – az alkalmazott korlátozás idejére a korlátozással arányos kártalanítást állapít meg. Ebben az esetben a tulajdonos a kisajátításra e törvényben megszabott határidőn belül a földterület kisajátítását kérheti. Ilyen kérelem esetén az (1) bekezdésben foglaltaknak megfelelően kell eljárni.
 
@@ -48,5 +50,7 @@ Az Országgyűlés a környezethez való alkotmányos alapjog maradéktalan bizt
 9. § (1)
 
 (2) Felhatalmazást kap a természetvédelemért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a 4. § (1) bekezdésében és a 5. § (2) bekezdésében meghatározott időtartamon belül a kisajátítás ütemezését, illetve a kisajátításra kerülő egyes földterületek kisajátításának időpontját rendeletben megállapítsa.
+
+(2a) Felhatalmazást kap a természetvédelemért felelős miniszter, hogy rendeletben határozza meg a 4. § (2), (3) és (3a) bekezdése szerinti földrészleteket.
 
 (3) A törvény hatálya alá tartozó, védelemre tervezett természeti területekről az igazgatóság megkeresésre köteles tájékoztatást adni.

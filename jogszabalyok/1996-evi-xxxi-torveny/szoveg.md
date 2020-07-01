@@ -192,7 +192,7 @@ veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy kever�
 
 (2) Az (1) bekezdés d) pontjában meghatározott tűzvédelmi bírság fizetésére a magánszemélyek, a jogi személyek, és ezek jogi személyiséggel nem rendelkező szervezetei kormányrendeletben meghatározottak szerint kötelezhetők.
 
-11/A. § A tűzvédelmi hatóság által lefolytatott eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+#### 11/A. §
 
 ### Tűzmegelőzési feladatok
 
@@ -337,8 +337,8 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 
 (3) Az (1) bekezdésben felsoroltaknak a tűzvédelem biztosításáról megfelelő szervezettel, tűzvédelmi szakképesítéssel rendelkező személlyel, illetve szolgáltatás igénybevételével kell gondoskodniuk, ha
 
-- a) robbanásveszélyes osztályba tartozó anyagot állítanak elő, dolgoznak fel, tárolnak és az egy telephelyen előállított, feldolgozott, tárolt anyag együttes, egyidejű mennyisége meghaladja az 1000 kg vagy liter mennyiséget,
-- b) tűzveszélyes osztályba tartozó anyagot, terméket tárolnak és az egy telephelyen a szabadtéri és az épületen belüli tárolásra szolgáló összesített alapterület meghaladja az 1000 m2-t, vagy
+- a) fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyagot állítanak elő, dolgoznak fel, tárolnak és az egy telephelyen előállított, feldolgozott, tárolt anyag együttes, egyidejű mennyisége meghaladja az 1000 kg vagy liter mennyiséget,
+- b) mérsékelten tűzveszélyes osztályba tartozó anyagot, terméket tárolnak és az egy telephelyen a szabadtéri és az épületen belüli tárolásra szolgáló összesített alapterület meghaladja az 1000 m2-t, vagy
 - c)
 - d) olyan épületrészt, épületet üzemeltetnek, bérelnek,
   - da) amelyben tömegtartózkodásra szolgáló helyiség található,

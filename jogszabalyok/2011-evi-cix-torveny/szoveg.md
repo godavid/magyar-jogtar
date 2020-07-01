@@ -493,7 +493,7 @@ részesült.
   - db) a művészjáradék megállapítását megalapozó elismerésről történő lemondás vagy visszavonás esetén, vagy a művészjáradék megállapítását kizáró elismerés szerzése esetén e tényről a Titkárságot 15 napon belül írásban értesíti, valamint
   - dc) büntetőjogi felelőssége tudatában kijelenti, hogy a kérelemben foglaltak a valóságnak megfelelnek.
 
-(2) A Titkárság a művészjáradék megállapítása iránti eljárásban hozott függő hatályú döntésében nem rendelkezik arról, hogy a művészjáradék a kérelmezőt megilleti.
+(2)
 
 28/N. § (1) A Titkárság a művészjáradékot az arról szóló határozata kiadását követő hónap első napjától, teljes hónapra állapítja meg, és tárgyhónapra, a tárgyhónap 10. napjáig folyósítja. A művészjáradék visszamenőleg nem állapítható meg.
 

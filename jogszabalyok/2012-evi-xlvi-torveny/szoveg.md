@@ -201,6 +201,10 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (18a) A természetvédelmi hatóság a természetvédelmi törzskönyvek vezetése, továbbá a nemzeti park igazgatóságok a természetvédelmi törzskönyvek adatainak gyűjtése és nyilvántartása érdekében díj-, költség- és térítésmentesen, közvetlenül hozzáférhetnek a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisoknak ezen feladatok ellátásához szükséges adataihoz.
 
+(18b) A Nemzeti Földalap kezeléséért felelős szerv az állami vagyonnyilvántartási és földgazdálkodási feladatai ellátása érdekében, díj-, költség- és térítésmentesen, a feladatellátáshoz szükséges, 3. § (1) bekezdés d)–f) pontjában foglalt, a földmérési és térinformatikai államigazgatási szerv által kezelt adatokhoz közvetlenül hozzáférhet, a honvédelemért felelős miniszter felelősségi körébe tartozó adatokból évente egyszeri adatszolgáltatást kérhet.
+
+(18c) A Nemzeti Földalap kezeléséért felelős szerv az ingatlan-nyilvántartásban az állam tulajdonában lévő területek vonatkozásában a vadászterületek nyilvántartása, azok határai változásának figyelemmel kísérése érdekében – díj-, költség- és térítésmentesen – évente egyszer a 3. § (1) bekezdés d)–f) pontjában foglalt a földmérési és térinformatikai államigazgatási szerv által kezelt adatokhoz közvetlenül hozzáférhet, a honvédelemért felelős miniszter felelősségi körébe tartozó adatokból évente egyszeri adatszolgáltatást kérhet.
+
 (19) A földmérési és térinformatikai államigazgatási szerv a kezelésében lévő és a 3. § (1) bekezdés i) pontjába tartozó adatbázis távérzékelési adatait, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltatja.
 
 (20) A területrendezésért felelős miniszter, a megyei önkormányzat, valamint a települési önkormányzat a területrendezési, valamint a településrendezési feladatainak ellátásához (a területrendezési tervek, valamint a településrendezési eszközök készítéséhez szükséges adatokhoz) díj-, költség- és térítésmentesen hozzáférhetnek a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz, valamint az ország 1:10000 digitális szintvonalrajzához és domborzatmodelljéhez (DDM-5).

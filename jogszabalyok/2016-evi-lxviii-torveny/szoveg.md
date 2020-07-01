@@ -1381,7 +1381,7 @@ forgalmazhat.
 
 74. § (1) Dohánygyártmányt és alkoholterméket csak zárjeggyel ellátva bocsáthat szabadforgalomba forgalmazási céllal az adóraktár engedélyese, importálhat az importáló és lehet belföldön forgalmazni, kivéve
 
-- a) a töltőfolyadékot,
+- a) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott töltőfolyadékot,
 - b) a 3. § (3) bekezdés 1. pont c) alpontja szerinti alkoholterméket,
 - c) az 5,5 térfogatszázaléknál kisebb alkoholtartalmú, legfeljebb 0,33 literes kiszerelésű terméket,
 - d) a 2207 10 00-2207 20 00 KN-kód szerinti alkoholterméket, ha azt
@@ -1397,8 +1397,10 @@ forgalmazhat.
 - g) a 2207 10 00-2208 90 99 KN-kód szerinti, a 3. § (3) bekezdés 1. pont c) alpontja szerinti alkoholtermék előállítására adózottan értékesített alkoholterméket,
 - h) a 2208 20 12-2208 90 99 KN-kód szerinti, 1,2 térfogatszázaléknál nagyobb alkoholtartalmú, az adófizetési kötelezettség alól mentesült terméket,
 - i) a 9. § (1) bekezdés a) és b) pontja szerint értékesített jövedéki terméket, akkor is, ha az utas vagy a repülőgép úti célja tagállam, és
-- j) az új dohánytermék-kategóriákat,
-- k) az étrend-kiegészítőt.
+- j) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott új dohánytermék-kategóriákat,
+- k) az étrend-kiegészítőt,
+- l) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott dohányzást helyettesítő nikotintartalmú terméket,
+- m) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott füst nélküli dohányterméket.
 
 (2) A zárjegyet a Magyar Állam állíttatja elő és az állami adó- és vámhatóság bocsátja megrendelés alapján és
 
@@ -2428,7 +2430,7 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 (9) A 24. § szerinti adatszolgáltatásnak az adatszolgáltatásra kötelezett által 2017. szeptember 30-áig, valamint – abban az esetben, ha az adóraktár engedélyese által nyújtott jövedéki biztosíték mértéke eléri a 2017. június 30-i szintet – 2017. december 31-ig okozott hibája miatt az állami adó- és vámhatóság csak akkor alkalmazhat hátrányos jogkövetkezményt, ha bizonyítható, hogy az adatküldésre kötelezett célja a központi költségvetés bevételének csökkentése vagy a jövedéki biztosítéki szabályok kikerülése volt a hibás adatszolgáltatás által.
 
-(10) E § alkalmazásakor a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény sommás eljárásra és függő hatályú döntésre vonatkozó szabályait nem lehet alkalmazni.
+(10) E § alkalmazásakor a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény sommás eljárásra vonatkozó szabályait nem lehet alkalmazni.
 
 (11) A 2017. július 1-jét megelőző időpontig érvényesíthető jövedéki biztosíték esetén a felajánlott új jövedéki biztosíték nyújtásakor az engedélyes nyújthat a régi Jöt. szerinti biztosítékmaximumot meghaladó jövedéki biztosítékot is.
 

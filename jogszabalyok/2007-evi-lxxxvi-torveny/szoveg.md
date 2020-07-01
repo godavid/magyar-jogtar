@@ -2383,7 +2383,7 @@ kapcsolatos adatok adatokat.
 
 (7) A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére kiadott építési engedély hatályának megszűnésével a hatósági határozattal alapított vezetékjog is megszűnik.
 
-(8) A Hatóságnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésében nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(8)
 
 117/A. § A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére adott engedély engedélyesének helyébe jogutódlás esetén az engedélyes jogutódja lép. A jogutód a Hatóságot a változás bekövetkezésétől számított 30 napon belül a jogerős cégbírósági bejegyző határozat másolatának megküldésével értesíti. Az engedélyes a jogutódlásra vonatkozó szabály szerint értesíti Hatóságot nevének megváltozása esetén is.
 

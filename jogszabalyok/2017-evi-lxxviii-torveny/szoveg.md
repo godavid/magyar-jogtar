@@ -2372,7 +2372,7 @@ eljárásban azzal, hogy az önállóan nem fellebbezhető végzéseket a terül
 
 - a) a kérelem a kormányablaknál nem terjeszthető elő,
 - b) a területi elnökség hatáskörébe tartozó ügyben nincs helye sommás eljárásnak,
-- c) a függő hatályú döntésben a hatóság nem rendelkezik arról, hogy a kérelmezett jog gyakorlása az ügyfelet megilleti, valamint
+- c)
 - d) meghatározott cselekmény végrehajtása tekintetében a végrehajtást foganatosító szerv az elsőfokú határozatot hozó ügyvédi kamara.
 
 (4) Az ügyvédi kamara a kamarai hatósági eljárást akkor is felfüggesztheti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amely más szerv hatáskörébe tartozik, vagy az eljáró ügyvédi kamarának az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.

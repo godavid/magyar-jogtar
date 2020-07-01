@@ -408,7 +408,7 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 - e) megállapítja az irányítása alá tartozó költségvetési szervek pénzmaradványát, előirányzat-maradványát, egyidejűleg meghatározva a kötelezettségvállalással nem terhelt előirányzat-maradvány felhasználásának célját, rendeltetését;
 - f) megállapítja az irányítása alá tartozó költségvetési szervek létszám-előirányzatát (létszámkeretét).
 
-14/B. § (1) Az e törvény alapján lefolytatott eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+14/B. § (1)
 
 (2) Az egészségügyi szolgáltatók működésének engedélyezésére, a működési engedély módosítására és visszavonására irányuló eljárásokban a kérelem a kormányablaknál nem terjeszthető elő.
 

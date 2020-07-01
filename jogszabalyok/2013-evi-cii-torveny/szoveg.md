@@ -904,6 +904,8 @@ tekintetében.
 
 (14) Próbavásárlás esetén az állami halőr az ellenőrzési jogosultságát a próbavásárlás befejezésekor igazolja, ezzel egyidejűleg a forgalmazó képviseletében eljáró személy a termék visszavétele mellett köteles a vételárat visszatéríteni. Ha a próbavásárlással lefolytatott hatósági ellenőrzés során a termék károsodik, részben vagy egészben megsemmisül, a vételár eljárási költségnek minősül.
 
+(15) A hivatásos halőr által alkalmazott intézkedések és kényszerítő eszközök jelentésére és kivizsgálásnak rendjére, a panasz benyújtására és elbírálására az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezéseit kell alkalmazni.
+
 56/A. § (1) A hivatásos halőr a nyilvántartott halgazdálkodási vízterület halállományának és élőhelyének őrzése érdekében az 56. § (7) bekezdés f) pontja szerinti tevékenysége során a kép-, video-, illetve hangrögzítő készüléket a következő feltételek együttes fennállása esetén üzemeltetheti:
 
 - a) a kép-, video-, illetve hangfelvétel rögzítése a jogsértő cselekmények megelőzését vagy bizonyítását szolgálja,

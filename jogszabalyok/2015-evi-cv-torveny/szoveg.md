@@ -183,7 +183,7 @@ más, lakhatást biztosító, tulajdonjoga, haszonélvezeti vagy használati jog
 - 54. Szoc. tv.: a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény,
 - 55. tartozás járuléka: a tartozás tőkeösszegén és kamatán felül követelhető késedelmi kamat, pótlék, díj, költségtérítés és egyéb hasonló jellegű fizetési kötelezettség,
 - 56. társas vállalkozó: a Tbj. 4. § d) pontja szerinti jogviszonyban álló személy,
-- 57. Tbj.: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény,
+- 57. Tbj.: a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény,
 - 58. természetes személyazonosító adatok: a következő adatok együttesen: név, születési név, születési idő, hely (ország, település), anyja születési neve,
 - 59. Tny.: a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény,
 - 60. űrlap: olyan kézzel vagy elektronikusan kitöltendő formanyomtatvány, amely tartalmazza az e törvényben előírt adatokat, jognyilatkozatokat,

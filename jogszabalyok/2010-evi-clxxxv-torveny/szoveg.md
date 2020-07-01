@@ -2713,7 +2713,7 @@ a Biztos hivatalánál panasszal élhet.
 
 (6) Az Smtv. 14. és 16–20. §, az Mttv. 9–11. §, 12. § (3)–(4) bekezdés, 14. § és 23–36. § megsértésével kapcsolatban a hatóság hivatalból a médiatartalom közzétételétől vagy – folyamatos közzététel esetén – első közzétételétől számított egy éven belül indíthatja meg a hatósági eljárást.
 
-(7) A Hatóság eljárásaiban függő hatályú döntés meghozatalának nincs helye.
+(7)
 
 ### A hatáskör és az illetékesség vizsgálata
 
