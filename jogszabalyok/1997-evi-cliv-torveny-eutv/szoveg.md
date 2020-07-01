@@ -3857,7 +3857,7 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 
 244/B. §
 
-244/C. § Az e törvény alapján lefolytatott eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+244/C. §
 
 244/C. §
 

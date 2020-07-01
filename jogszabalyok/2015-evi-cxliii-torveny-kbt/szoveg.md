@@ -89,16 +89,16 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 - 37. szakmai ajánlat: a beszerzés tárgyára, valamint a műszaki leírásban és a szerződéses feltételekben foglalt ajánlatkérői előírásokra tett ajánlat;
 - 38. fejlesztő foglalkoztató: a szociális igazgatásról és a szociális ellátásokról szóló törvény 99/D. § (1) bekezdése szerinti szervezet;
 - 39. támogatás: a közbeszerzésre irányuló szerződés teljesítéséhez pénzeszköz vagy egyéb anyagi előny juttatása az ajánlatkérő részére, ide nem értve az adókedvezményt, a kezességvállalást, és az adózó a társasági adóról és az osztalékadóról szóló törvényben meghatározott célra nyújtott támogatását, valamint az adózó a társasági adóról és az osztalékadóról szóló törvényben meghatározott kedvezményezett célra történő felajánlását;
-- 40. tervpályázat: olyan jogszabályban részletesen szabályozott eljárás, amely lehetővé teszi az ajánlatkérő szerv számára – főként a település- és területrendezés, építészet és építés, illetve adatfeldolgozás területén – olyan tervnek vagy tervrajznak a megszerzését, amelyet díjazásos vagy díjazás nélküli pályáztatás után egy bírálóbizottság választott ki;
+- 40. tervpályázat: olyan jogszabályban részletesen szabályozott eljárás, amely lehetővé teszi az ajánlatkérő szerv számára – főként a település- és területrendezés, építészet és építés, adatfeldolgozás területén – olyan tervnek vagy tervrajznak a megszerzését, amelyet díjazásos vagy díjazás nélküli pályáztatás után egy bírálóbizottság választott ki;
 - 41. védett munkahely: az akkreditált munkáltató általi foglalkoztatás, ha a munkáltató biztosít tranzit- vagy tartós foglalkoztatást, és a munkavállalóinak legalább a 30%-a a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 22. §-a szerinti megváltozott munkaképességű személynek minősül, valamint az olyan munkáltató, amely működésének fő célja hátrányos helyzetű munkavállalók foglalkoztatása.
 
 ### III. Fejezet — A TÖRVÉNY SZEMÉLYI ÉS TÁRGYI HATÁLYA
 
-4. § (1) A 15. § (1) bekezdése szerinti értékhatárokat elérő értékű közbeszerzési szerződés, illetve építési vagy szolgáltatási koncesszió megkötése érdekében az 5–7. §-ban ajánlatkérőként meghatározott szervezetek az e törvény szerinti közbeszerzési vagy koncessziós beszerzési eljárást kötelesek lefolytatni.
+4. § (1) A 15. § (1) bekezdése szerinti értékhatárokat elérő értékű közbeszerzési szerződés, építési vagy szolgáltatási koncesszió megkötése érdekében az 5–7. §-ban ajánlatkérőként meghatározott szervezetek az e törvény szerinti közbeszerzési vagy koncessziós beszerzési eljárást kötelesek lefolytatni.
 
 (2) A közbeszerzési szerződés megkötésére közbeszerzési eljárást, építési vagy szolgáltatási koncesszió megkötésére koncessziós beszerzési eljárást kell lefolytatni.
 
-(3)
+(3) Az 5. § (1) bekezdése, a 6. § (1) bekezdése és a 7. § (1) bekezdése szerint ajánlatkérőnek minősülő szervezetek a 15. § (1) bekezdés b) pontja szerinti értékhatárt – ahol ilyen értékhatár nem kerül meghatározásra [15. § (4) bekezdés], a 15. § (1) bekezdés a) pontja szerinti értékhatárt – el nem érő értékű, a 8. § (2)–(6) bekezdése szerinti szerződéseik megkötésekor kötelesek az e törvény végrehajtási rendeletében foglalt követelményeknek megfelelően a 2. § (1)–(5) bekezdésében foglalt alapelveket érvényesíteni. Ezekre a beszerzésekre e törvény rendelkezéseit kizárólag annyiban kell alkalmazni, amennyiben e törvény végrehajtási rendelete azt előírja.
 
 ### Ajánlatkérő szervezetek
 
@@ -202,7 +202,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 - g) olyan beszerzésre, amelynek kizárólagos rendeltetése, hogy az ajánlatkérő számára lehetővé tegye nyilvános elektronikus hírközlő hálózat rendelkezésre bocsátását vagy hasznosítását, illetve a nyilvánosság irányában egy vagy több elektronikus hírközlési szolgáltatás nyújtását;
 - h) az 5. § (1) bekezdésében meghatározott ajánlatkérő szervezet olyan jogi személlyel kötött szerződésére, amely felett az ajánlatkérő a saját szervezeti egységei felettihez hasonló kontrollt gyakorol, döntő befolyással rendelkezik annak stratégiai céljai meghatározásában és működésével kapcsolatos jelentős döntéseinek meghozatalában, valamint amelyben közvetlen magántőke-részesedés nincsen, és amely éves nettó árbevételének több mint 80%-a a kontrollt gyakorló ajánlatkérővel vagy az ajánlatkérő által e pont szerint kontrollált más jogi személlyel kötött vagy kötendő szerződések teljesítéséből származik;
 - i) az 5. § (1) bekezdésében meghatározott ajánlatkérő szervezet olyan jogi személlyel kötött szerződésére, amely felett az ajánlatkérő más ajánlatkérőkkel közösen a saját szervezeti egységei felettihez hasonló kontrollt gyakorol, az ajánlatkérők közösen döntő befolyással rendelkeznek annak stratégiai céljai meghatározásában és működésével kapcsolatos jelentős döntéseinek meghozatalában, valamint amelyben közvetlen magántőke-részesedés nincsen, és amely éves nettó árbevételének több mint 80%-a a kontrollt gyakorló ajánlatkérővel (ajánlatkérőkkel) vagy az ajánlatkérő által e pont szerint kontrollált más jogi személlyel kötött vagy kötendő szerződések teljesítéséből származik;
-- j) az 5. § (1) bekezdésében meghatározott ajánlatkérő szervezet másik ajánlatkérővel vagy ajánlatkérőkkel kötött szerződésére, amelynek célja közfeladatok teljesítésére, illetve közszolgáltatások nyújtására vagy közös közérdekű célok megvalósítására irányuló együttműködés kialakítása az ajánlatkérők között, ahol az ajánlatkérők együttműködéssel érintett tevékenységből származó éves nettó árbevételének legfeljebb 20%-a származik a nyílt piacról;
+- j) az 5. § (1) bekezdésében meghatározott ajánlatkérő szervezet másik ajánlatkérővel vagy ajánlatkérőkkel kötött szerződésére, amelynek célja közfeladatok teljesítésére, közszolgáltatások nyújtására vagy közös közérdekű célok megvalósítására irányuló együttműködés kialakítása az ajánlatkérők között, ahol az ajánlatkérők együttműködéssel érintett tevékenységből származó éves nettó árbevételének legfeljebb 20%-a származik a nyílt piacról;
 - k) a központi beszerző szerv által közbeszerzési eljárás útján beszerzett áru, szolgáltatás vagy építési beruházás megrendelésére azon szervezetek részéről, amelyek javára a központi beszerző szerv közbeszerzési szerződést kötött, valamint a központi beszerző szervek által nyújtott járulékos közbeszerzési szolgáltatások megrendelése.
 
 (2) Az (1) bekezdés h) pontja alkalmazandó abban az esetben is, ha a közbeszerzési szerződést a kontrollált jogi személy ajánlatkérőként eljárva köti meg a felette kontrollt gyakorló ajánlatkérővel vagy az ajánlatkérő által az (1) bekezdés h) pontja szerint kontrollált más jogi személlyel.
@@ -300,7 +300,7 @@ feltéve, hogy a közös vállalkozást azért hozták létre, hogy az adott tev
 
 ### Koncessziók esetében alkalmazandó további kivételek
 
-14. § (1) E törvényt építési vagy szolgáltatási koncesszió megkötésére a 9. §-ban foglalt eseteken túl nem kell alkalmazni az e §-ban meghatározott esetekben. Az építési vagy szolgáltatási koncesszió közszolgáltató ajánlatkérő általi beszerzésére a 10–13. §-ban foglalt kivételek is alkalmazandóak.
+14. § (1) E törvényt építési vagy szolgáltatási koncesszió megkötésére a 9. §-ban foglalt eseteken túl nem kell alkalmazni az e §-ban meghatározott esetekben. Az építési vagy szolgáltatási koncesszió közszolgáltató ajánlatkérő általi beszerzésére a 10–13. §-ban foglalt kivételeket is alkalmazni kell.
 
 (2) E törvényt – építési vagy szolgáltatási koncesszió esetén – nem kell alkalmazni
 
@@ -406,7 +406,7 @@ feltéve, hogy a közös vállalkozást azért hozták létre, hogy az adott tev
 - d) harmadik személy által a koncesszió teljesítésével kapcsolatban a koncessziós jogosult részére nyújtott támogatás, illetve a részére bármilyen formában biztosított pénzügyi előny;
 - e) a koncesszió részét képező bármilyen eszköz értékesítéséből származó jövedelem;
 - f) a koncesszió teljesítéséhez szükséges, az ajánlatkérő által rendelkezésre bocsátott áru és szolgáltatás értéke;
-- g) a részvételre jelentkezők vagy az ajánlattevők részére fizetendő jutalék vagy egyéb kifizetés.
+- g) a részvételre jelentkezők, vagy az ajánlattevők részére fizetendő jutalék vagy egyéb kifizetés.
 
 (3) Az építési vagy szolgáltatási koncesszió becsült értékének meghatározása során a 19. § (1)–(3) bekezdését megfelelően kell alkalmazni.
 
@@ -475,14 +475,14 @@ Az e bekezdés szerinti választás nem irányulhat e törvény alkalmazásának
 (2) Ha a beszerzés különböző elemei objektíve nem szétválaszthatóak, és szükségszerűen egy szerződés tárgyát képezik, a szerződés megkötésére
 
 - a) ha a szerződés a 9. § (1) bekezdés b) pont ba) alpontja hatálya alá tartozó szerződési elemet tartalmaz, e törvényt – a 9. § (1) bekezdés b) pontjában foglalt felmentés rendelkezésre állása esetén – nem kell alkalmazni;
-- b) ha a szerződés a 9. § (1) bekezdés a) pontja szerinti szerződési elemet tartalmaz – és egyúttal nem áll fenn az a) pont szerinti eset – a védelmi és biztonsági célú beszerzésekről szóló törvény alkalmazandó.
+- b) ha a szerződés a 9. § (1) bekezdés a) pontja szerinti szerződési elemet tartalmaz – és egyúttal nem áll fenn az a) pont szerinti eset – a védelmi és biztonsági célú beszerzésekről szóló törvényt kell alkalmazni.
 
 (3) Ha a beszerzés különböző elemei objektíve szétválaszthatóak, és az ajánlatkérő a beszerzés egyes elemeire külön szerződéseket köt, az egyes szerződések megkötésére az adott szerződés tárgyának megfelelő szabályokat kell alkalmazni.
 
 (4) Ha az ajánlatkérő objektíve szétválasztható elemekből álló beszerzésre egy szerződést köt
 
 - a) ha a szerződés a 9. § (1) bekezdés b) pont ba) alpontja hatálya alá tartozó szerződési elemet tartalmaz, e törvényt – a 9. § (1) bekezdés b) pontjában foglalt felmentés rendelkezésre állása esetén – nem kell alkalmazni, amennyiben a beszerzés egyetlen szerződés kötésével való megvalósítása objektív okból indokolt;
-- b) ha a szerződés a 9. § (1) bekezdés a) pontja szerinti szerződési elemet tartalmaz – és egyúttal nem áll fenn az a) pont szerinti eset – a védelmi és biztonsági célú beszerzésekről szóló törvény alkalmazandó, amennyiben a beszerzés egyetlen szerződés kötésével való megvalósítása objektív okból indokolt.
+- b) ha a szerződés a 9. § (1) bekezdés a) pontja szerinti szerződési elemet tartalmaz – és egyúttal nem áll fenn az a) pont szerinti eset – a védelmi és biztonsági célú beszerzésekről szóló törvényt kell alkalmazni, amennyiben a beszerzés egyetlen szerződés kötésével való megvalósítása objektív okból indokolt.
 
 (5) Az ajánlatkérő egyetlen szerződés megkötésére vonatkozó döntése nem irányulhat e törvény vagy a védelmi és biztonsági célú beszerzésekről szóló törvény alkalmazásának mellőzésére.
 
@@ -1630,7 +1630,7 @@ ha álláspontja szerint egészben vagy részben jogsértő az eljárást megind
 
 (4) A tárgyalásos eljárásra a 83. §-t is alkalmazni kell.
 
-87. § (1) Az ajánlatkérő a közbeszerzési dokumentumokban meghatározhatja, hogy a műszaki leírás és a szerződéses feltételek mely elemei jelentik azokat a minimumkövetelményeket, amelyekről nem fog tárgyalni. A közbeszerzés tárgyának leírását és a szerződéses feltételeket olyan pontossággal kell megadni, hogy a gazdasági szereplők megállapíthassák a beszerzés tárgyát és jellegét, eldönthessék, hogy kívánnak-e részvételi jelentkezést benyújtani, valamint az eljárás ajánlattételi szakaszában egyenlő eséllyel megfelelő első ajánlatot tudjanak tenni.
+87. § (1) Az ajánlatkérő a közbeszerzési dokumentumokban meghatározhatja, hogy a műszaki leírás és a szerződéses feltételek mely elemei jelentik azokat a minimumkövetelményeket, amelyekről nem fog tárgyalni. A közbeszerzés tárgyának leírását és a szerződéses feltételeket olyan pontossággal kell megadni, hogy a gazdasági szereplők megállapíthassák a beszerzés tárgyát és jellegét, eldönthessék, kívánnak-e részvételi jelentkezést benyújtani, valamint az eljárás ajánlattételi szakaszában egyenlő eséllyel megfelelő első ajánlatot tudjanak tenni.
 
 (2) Az ajánlattételi felhívás tartalmára a 84. § (1) bekezdésében foglaltakat alkalmazni kell, azzal, hogy az ajánlattételi határidő alatt az első ajánlat benyújtásának határidejét kell érteni. Az ajánlattételi felhívásnak tartalmaznia kell továbbá a tárgyalás lefolytatásának menetét és az ajánlatkérő által előírt alapvető szabályait, valamint az első tárgyalás időpontját.
 
@@ -1756,7 +1756,7 @@ ha álláspontja szerint egészben vagy részben jogsértő az eljárást megind
 
 ### Innovációs partnerség
 
-95. § (1) Az innovációs partnerség olyan sajátos közbeszerzési eljárás, amelynek célja egy innovatív termék, szolgáltatás vagy építési beruházás kifejlesztése, és az ennek eredményeként létrejövő áruk, szolgáltatások vagy építési beruházások ezt követő beszerzése.
+95. § (1) Az innovációs partnerség olyan sajátos közbeszerzési eljárás, aminek célja egy innovatív termék, szolgáltatás vagy építési beruházás kifejlesztése, és az ennek eredményeként létrejövő áruk, szolgáltatások vagy építési beruházások ezt követő beszerzése.
 
 (2) Az innovációs partnerség két szakaszra tagolódik:
 
@@ -1775,7 +1775,7 @@ ha álláspontja szerint egészben vagy részben jogsértő az eljárást megind
 
 (6) Ha az ajánlatkérő él az ajánlattételre felhívandó részvételre jelentkezők száma korlátozásának lehetőségével, a részvételre jelentkezők kiválasztása során különösen a jelentkezőknek a kutatás és a fejlesztés, valamint az innovatív megoldások kifejlesztése és megvalósítása terén meglévő kapacitásával kapcsolatos kritériumokat kell alkalmaznia.
 
-(7) Az ajánlattevők ajánlatának tartalmaznia kell az ajánlatkérő által meghatározott – a létező megoldásokkal nem megoldható – igények teljesítésére irányuló kutatási és fejlesztési projekt leírását. Az ajánlatkérőnek meg kell határoznia, hogy az ajánlatban az ellenszolgáltatást mely az ajánlattevőknek fizetendő díjelemekre és milyen bontásban kell megadni és az értékelési szempontok között szerepeltetni kell a fejlesztés eredményeként létrejövő árukra, szolgáltatásokra vagy építési beruházásokra előre meghatározott maximális árat is.
+(7) Az ajánlattevők ajánlatának tartalmaznia kell az ajánlatkérő által meghatározott – a létező megoldásokkal nem megoldható – igények teljesítésére irányuló kutatási és fejlesztési projekt leírását. Az ajánlatkérőnek meg kell határoznia, hogy az ajánlatban az ellenszolgáltatást mely az ajánlattevőknek fizetendő díjelemekre és milyen bontásban kell megadni, és az értékelési szempontok között szerepeltetni kell a fejlesztés eredményeként létrejövő árukra, szolgáltatásokra vagy építési beruházásokra előre meghatározott maximális árat is.
 
 (8) Az ajánlatkérő az eljárási szakasz lezárásaként több ajánlattevővel is megköthet partnerségi szerződést. A 37. § (1) bekezdés h) pontja szerinti hirdetményt a partnerségi szerződés megkötéséről kell közzétenni.
 
@@ -2198,7 +2198,7 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 - d) a szerződés időtartamát vagy lehetséges maximális időtartamát;
 - e) a teljesítés helyét;
 - f) a részajánlattétel lehetőségét vagy annak kizárását; ha részajánlat tételére lehetőség van, tájékoztatást arról, hogy egy vagy több, vagy valamennyi részre lehet-e ajánlatot tenni, valamint arról, hogy korlátozva van-e az egy ajánlattevőnek odaítélhető részek száma;
-- g) az ajánlatok értékelési szempontjait a 125. § (2) bekezdése szerint;
+- g) az ajánlatok értékelési szempontjait a 125. § (2) bekezdése alapján;
 - h) az adott eljárásban alkalmazandó kizáró okokat és a megkövetelt igazolási módokat;
 - i) az alkalmassági követelményeket, az alkalmasság megítéléséhez szükséges adatokat és a megkövetelt igazolási módot;
 - j) az ajánlattételi határidőt vagy részvételi határidőt;
@@ -2265,13 +2265,13 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 (3) Ha az előírt alkalmassági követelményeknek az ajánlattevő vagy részvételre jelentkező más szervezet kapacitására támaszkodva felel meg, e szervezetnek az előírt igazolási módokkal azonos módon kell igazolnia az adott alkalmassági feltételnek történő megfelelést. Koncessziós beszerzési eljárásban nem írható elő, hogy a szerződés meghatározott részét személyesen az ajánlattevő teljesítse.
 
-(4) A 62–64. § rendelkezéseit koncessziós beszerzési eljárásban is alkalmazni kell. A 62. § (1) bekezdés i) pontjában az egységes európai közbeszerzési dokumentumban foglalt nyilatkozat alátámasztására szolgáló igazolások be nem nyújtásához kapcsolódó kizáró ok akkor alkalmazandó, ha az ajánlatkérő a koncessziós beszerzési eljárásban is a kizáró okok előzetes igazolására előírja e dokumentum használatát.
+(4) A 62–64. § rendelkezéseit koncessziós beszerzési eljárásban is alkalmazni kell. A 62. § (1) bekezdés i) pontjában az egységes európai közbeszerzési dokumentumban foglalt nyilatkozat alátámasztására szolgáló igazolások be nem nyújtásához kapcsolódó kizáró ok akkor alkalmazandó, ha az ajánlatkérő a koncessziós beszerzési eljárásban is a kizáró okok előzetes igazolására előírja a dokumentum használatát.
 
 (5) Az alvállalkozó vagy az alkalmasság igazolásába bevont szervezet kizáró ok hatálya alá tartozása esetében a 71. § (4) bekezdését alkalmazni kell.
 
 ### Értékelési szempontok
 
-125. § (1) A nyertes ajánlattevő kiválasztására objektív értékelési szempontokat kell alkalmazni. Az értékelési szempontok meghatározására a 76. § (1)–(8) és (11) és (13) bekezdését alkalmazni kell, azzal a különbséggel, hogy az értékelési szempontok keretében értékelt alszempontok esetében elegendő súlyszám helyett azokat csökkenő fontossági sorrendben feltüntetni.
+125. § (1) A nyertes ajánlattevő kiválasztására objektív értékelési szempontokat kell alkalmazni. Az értékelési szempontok meghatározására a 76. § (1)–(8), (11) és (13) bekezdését alkalmazni kell, azzal a különbséggel, hogy az értékelési szempontok keretében értékelt alszempontok esetében elegendő súlyszám helyett azokat csökkenő fontossági sorrendben feltüntetni.
 
 (2) Az eljárást megindító felhívásban az értékelési szempontokat elegendő csökkenő fontossági sorrendben megadni, azok súlyszámát és a 76. § (9) bekezdésében foglalt egyéb információkat, valamint az értékelés során alkalmazott módszer leírását a közbeszerzési dokumentumokban kell meghatározni.
 
@@ -2465,7 +2465,7 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 (2) Az ajánlattevőként szerződő fél a teljesítéshez az alkalmasságának igazolásában részt vett szervezetet a 65. § (7) bekezdése szerint az eljárásban bemutatott kötelezettségvállalásnak megfelelően, valamint a 65. § (9) bekezdésében foglalt esetekben és módon köteles igénybe venni, valamint köteles a teljesítésbe bevonni az alkalmasság igazolásához bemutatott szakembereket. E szervezetek vagy szakemberek bevonása akkor maradhat el, vagy helyettük akkor vonható be más (ideértve az átalakulás, egyesülés, szétválás útján történt jogutódlás eseteit is), ha az ajánlattevő e szervezet vagy szakember nélkül vagy a helyette bevont új szervezettel vagy szakemberrel is megfelel – amennyiben a közbeszerzési eljárásban az adott alkalmassági követelmény tekintetében bemutatott adatok alapján az ajánlatkérő szűkítette az eljárásban részt vevő gazdasági szereplők számát, az eredeti szervezetekkel vagy szakemberrel egyenértékű módon megfelel – azoknak az alkalmassági követelményeknek, amelyeknek az ajánlattevőként szerződő fél a közbeszerzési eljárásban az adott szervezettel vagy szakemberrel együtt felelt meg.
 
-(3) Az ajánlatkérő nem korlátozhatja az ajánlattevő jogosultságát alvállalkozó bevonására, csak akkor, ha az eljárás során a 65. § (10) bekezdése szerinti lehetőséggel élt. A nyertes ajánlattevő a szerződés megkötésének időpontjában, majd – a később bevont alvállalkozók tekintetében – a szerződés teljesítésének időtartama alatt köteles előzetesen az ajánlatkérőnek valamennyi olyan alvállalkozót bejelenteni, amely részt vesz a szerződés teljesítésében, és – ha a megelőző közbeszerzési eljárásban az adott alvállalkozót még nem nevezte meg – a bejelentéssel együtt nyilatkozni vagy az érintett alvállalkozó nyilatkozatát benyújtani arról is, hogy az általa igénybe venni kívánt alvállalkozó nem áll a megelőző közbeszerzési eljárásban előírt kizáró okok hatálya alatt.
+(3) Az ajánlatkérő nem korlátozhatja az ajánlattevő jogosultságát alvállalkozó bevonására, csak akkor, ha az eljárás során a 65. § (10) bekezdése szerinti lehetőséggel élt. A nyertes ajánlattevő a szerződés megkötésének időpontjában, majd – a később bevont alvállalkozók tekintetében – a szerződés teljesítésének időtartama alatt köteles előzetesen az ajánlatkérőnek valamennyi olyan alvállalkozót bejelenteni, amely részt vesz a szerződés teljesítésében, és – ha a megelőző közbeszerzési eljárásban az adott alvállalkozót még nem nevezte meg – a bejelentéssel együtt nyilatkozni, vagy az érintett alvállalkozó nyilatkozatát benyújtani arról is, hogy az általa igénybe venni kívánt alvállalkozó nem áll a megelőző közbeszerzési eljárásban előírt kizáró okok hatálya alatt.
 
 (4) Az eljárás során az ajánlattevő által bemutatott valamely szervezet vagy szakember bevonásától nem lehet eltekinteni olyan esetben, ha az érintett szerződés sajátos tulajdonságait figyelembe véve az adott személy (szervezet) igénybevétele a közbeszerzési eljárásban az ajánlatok értékelésekor meghatározó körülménynek minősült. Ilyen esetben csak a jogutódlás olyan eseteiben változhat a bevont szervezet, ha az új szervezet az értékeléskor figyelembe vett minden releváns körülmény – különös tekintettel a 76. § (3) bekezdés b) pontja szerinti esetben az értékelt személyi állomány – tekintetében az eljárásban bemutatott szervezet jogutódjának tekinthető. Az értékeléskor meghatározó szakember személye csak az ajánlatkérő hozzájárulásával és abban az esetben változhat, ha az értékeléskor figyelembe vett minden releváns körülmény tekintetében az értékelttel legalább egyenértékű szakember kerül bemutatásra.
 
@@ -3461,9 +3461,9 @@ rendelkezik.
 
 (2a) A közbeszerzésekért felelős miniszter jogosult a (2) bekezdésben foglalt közbeszerzési tárgyú, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges szakmai képzéseknek az elismerése céljából a képzéseken előadó oktatók természetes személyazonosító adatait, elérhetőségi adatait, végzettségét, szakmai tapasztalatát érintő adatok kezelésére.
 
-(3) Az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatos részletes szabályokat külön jogszabály tartalmazza.
+(3) Az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatos részletes szabályokat jogszabály tartalmazza.
 
-(4)
+(4) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek, amelyekben az állam nevében a tulajdonosi (például részvényesi, tagsági) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján a Kormány tagja, központi költségvetési szerv vagy intézménye gyakorolja, a közbeszerzésekért felelős miniszter kérésére kötelesek a közbeszerzéseikkel összefüggő bármely adatot, dokumentumot a miniszter részére öt munkanapon belül megküldeni. Ezen ajánlatkérők kötelesek a közbeszerzési értékhatárt el nem érő értékű, a 4. § (3) bekezdése szerinti beszerzéseikkel kapcsolatos adatokat a Kormány rendeletében meghatározottak szerint a közbeszerzésekért felelős miniszter részére megküldeni. A közbeszerzésekért felelős miniszter jogosult arra, hogy más szerv feladatkörébe tartozó jogsértés gyanúja esetén a hatáskörrel rendelkező szervnek átadja a Kormány rendeletében meghatározottak szerint végzett, a közbeszerzési értékhatárt el nem érő értékű beszerzések ellenőrzése révén rendelkezésére álló bármely adatot.
 
 (5)
 
@@ -3529,7 +3529,9 @@ rendelkezik.
 
 (17) A Mód4. tv. hatályba lépéséig az 5. § (5) bekezdése alapján a Magyar Közlönyben egyszerre még közzé nem tett egyedi határozatok szövegét a Kormány a Mód4. tv. hatályba lépését követő év március 31-ig egy tájékoztatóban egyszerre is közzéteszi.
 
-(18) E törvénynek a 2019. december 31-ig hatályos 4. § (3) bekezdését, 195. § (1), (4) és (5) bekezdését a 2019. december 31-ig megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra kell alkalmazni.
+(18) E törvénynek a 2019. december 31-éig hatályos 4. § (3) bekezdését, 195. § (1), (4) és (5) bekezdését a 2019. december 31-éig megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra kell alkalmazni.
+
+(19) E törvénynek az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló törvénnyel megállapított 4. § (3) bekezdését a hatálybalépését követően megkötött szerződésekre kell alkalmazni.
 
 197/A. § Az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvénnyel megállapított
 
@@ -3561,8 +3563,8 @@ indult eljárásban kell alkalmazni.
 - 16. a Közbeszerzési Hatóság által a szerződések teljesítése és módosítása ellenőrzésére lefolytatható hatósági ellenőrzés részletes szabályait, az ajánlatkérők és gazdasági szereplők ellenőrzéshez kapcsolódó kötelezettségeit, amelynek keretében a Közbeszerzési Hatóság az eljárás és a szerződés teljesítéséhez, módosításához kapcsolódó adatok teljes körű megismerésére jogosult és azok átadását kérheti;
 - 17. a védett munkahelyek, a fejlesztő foglalkoztatók, és a hátrányos helyzetű munkavállalókat foglalkoztató szervezetek részére fenntartott közbeszerzések kötelező eseteit;
 - 18. a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes szabályokat;
-- 19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, valamint a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
-- 20.
+- 19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
+- 20. az ajánlatkérők közbeszerzési értékhatárt el nem érő, a 4. § (3) bekezdése szerinti beszerzéseinek megvalósítására vonatkozó követelményeket, valamint a 195. § (4) bekezdésében meghatározott ajánlatkérő szervezetek közbeszerzési értékhatárt el nem érő beszerzéseivel kapcsolatos adatoknak, dokumentumoknak a közbeszerzésekért felelős miniszter részére történő megküldésére és ezen ajánlatkérők beszerzéseinek a közbeszerzésekért felelős miniszter általi ellenőrzésére vonatkozó szabályokat;
 - 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
 - 22. a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
 

@@ -18,7 +18,7 @@ E törvény célja, hogy a biztosítottak és hozzátartozóik részére nyújta
 
 (4) A nyugdíjbiztosítás szervezetéről külön törvény rendelkezik.
 
-2. § (1) A társadalombiztosítási nyugdíj fedezetére, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény (a továbbiakban: Tbj.) rendelkezései szerint járulékot kell fizetni.
+2. § (1) A társadalombiztosítási nyugdíj fedezetére, a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) rendelkezései szerint járulékot kell fizetni.
 
 (2) Az állam a társadalombiztosítási nyugellátások kifizetését akkor is biztosítja, ha a Nyugdíjbiztosítási Alap kiadásai meghaladják a bevételeket. Ha a Nyugdíjbiztosítási Alap tervezett kiadásai meghaladják a bevételeket, a központi költségvetés a különbség összegét előirányzatként biztosítja.
 
@@ -26,7 +26,7 @@ E törvény célja, hogy a biztosítottak és hozzátartozóik részére nyújta
 
 (4) Az, aki szolgálati idejének legalább egy részében a magánnyugdíjrendszer keretében is fizetett tagdíjat, és ennek alapján szolgáltatásra jogosultságot szerzett, a kizárólag társadalombiztosítási nyugellátásra (a továbbiakban: nyugellátás) jogosultakhoz képest eltérő mértékű társadalombiztosítási nyugdíjra jogosult.
 
-(5) Ha a biztosított élt a Tbj.-ben biztosított azon jogával, hogy a társadalombiztosítási nyugdíjrendszerben, valamint a magánnyugdíjrendszerben is részt vesz, és ennek megfelelően a magánnyugdíjrendszerben tagdíjat fizetett, illetőleg azt a foglalkoztató a keresetéből, a jövedelméből levonta, majd ennek összegét a társadalombiztosítási nyugdíjrendszer számára a biztosított döntése alapján átutalták, akkor nyugellátását úgy kell megállapítani, mintha biztosítási idejének teljes tartama alatt kizárólag nyugdíjjárulék fizetésére lett volna kötelezett.
+(5) Ha a biztosított a társadalombiztosítási nyugdíjrendszerben, valamint a magánnyugdíjrendszerben is részt vesz, és ennek megfelelően a magánnyugdíjrendszerben tagdíjat fizetett, illetőleg azt a foglalkoztató a keresetéből, a jövedelméből levonta, majd ennek összegét a társadalombiztosítási nyugdíjrendszer számára a biztosított döntése alapján átutalták, akkor nyugellátását úgy kell megállapítani, mintha biztosítási idejének teljes tartama alatt kizárólag nyugdíjjárulék fizetésére lett volna kötelezett.
 
 (6)
 
@@ -44,7 +44,8 @@ E törvény célja, hogy a biztosítottak és hozzátartozóik részére nyújta
 
 - a) saját jogú nyugellátás és a hozzátartozói nyugellátás: olyan keresettől, jövedelemtől függő rendszeres pénzellátás, amely meghatározott szolgálati idő megszerzése esetén a biztosítottnak (volt biztosítottnak), illetve hozzátartozójának jár;
 - b) öregségi nyugdíj: meghatározott életkor elérése és meghatározott szolgálati idő megszerzése esetén járó nyugellátás;
-- c)–d)
+- c) nyugdíjjárulék: a 2020. július 1-jét megelőzően elért keresetek, jövedelmek tekintetében a nyugdíjjárulék, a 2020. július 1-jétől elért keresetek, jövedelmek tekintetében a társadalombiztosítási járulék és a nyugdíjjárulék;
+- d)
 - e) özvegyi nyugdíj: az elhunyt nyugdíjas, illetve nyugdíjban nem részesülő, de nyugdíjjogosultságot szerzett elhunyt személy házastársának, meghatározott feltételek mellett élettársának, valamint elvált házastársának járó nyugellátás;
 - f) árvaellátás: az elhunyt nyugdíjas, illetve nyugdíjban nem részesülő, de nyugdíjjogosultságot szerzett elhunyt személy gyermekének, örökbefogadott gyermekének, meghatározott feltételek esetén nevelt gyermekének, testvérének, unokájának járó ellátás;
 - g) szülői nyugdíj: az elhunyt biztosított (nyugdíjas) szülőjének, nagyszülőjének, meghatározott feltételek fennállása esetén nevelőszülőjének járó ellátás;
@@ -65,7 +66,7 @@ azzal, hogy az ismeretlen helyen tartózkodó személyt tartásra képtelennek k
 
 5. § E törvény hatálya kiterjed:
 
-- a) a Tbj. szabályai alapján biztosítottnak minősülő személyekre és a foglalkoztatókra, továbbá
+- a) a biztosítottnak minősülő személyekre és a foglalkoztatókra, továbbá
 - b) az e törvényben meghatározott saját jogú és hozzátartozói nyugellátásban részesülő személyekre, valamint
 - c) a nyugdíjfolyósító szervre, a központi nyugdíjbiztosítási szervre, valamint a nyugdíj-megállapítás során és az e törvény szerinti egyéb eljárásokban eljáró szervekre (a továbbiakban együtt: nyugdíjbiztosítási igazgatási szerv).
 - d)
@@ -200,14 +201,14 @@ megállapításra kerülő öregségi nyugdíj esetében
 22. § (1) Az öregségi nyugdíj alapját képező havi átlagkereset összegét az 1988. január 1-jétől a nyugdíj megállapításának kezdő napjáig elért (kifizetett), a kifizetés idején érvényes szabályok szerint nyugdíjjárulék alapjául szolgáló kereset, jövedelem havi átlaga alapján kell meghatározni. Keresetként, jövedelemként kell figyelembe venni:
 
 - a) az 1988. január 1-je és 1996. december 31-e közötti, illetőleg az 1988. január 1-je előtti keresetek, jövedelmek esetén az 1996. december 31. napján érvényes társadalombiztosítási szabályok szerint a főfoglalkozásban elért jövedelmet, az ezen időszak alatt kifizetett év végi részesedést, prémiumot, jutalmat és a keresettel, jövedelemmel azonos időre járó baleseti járadékot,
-- b) 1997. január 1-jétől az 1998. január 1-je előtti rendelkezések szerinti, illetőleg 1998. január 1-jétől a Tbj.-ben meghatározott biztosítással járó jogviszonyból vagy jogviszonyokból származó, nyugdíjjárulék-alapot képező keresetet, jövedelmet és 1997. évben a keresettel, jövedelemmel azonos időre járó baleseti járadékot,
+- b) 1997. január 1-jétől a biztosítással járó jogviszonyból vagy jogviszonyokból származó, nyugdíjjárulék-alapot képező keresetet, jövedelmet és 1997. évben a keresettel, jövedelemmel azonos időre járó baleseti járadékot,
 - c) amennyiben a nyugdíjjárulékot a biztosítási jogviszony keretében meghatározott összeg után kellett fizetni, ezt az összeget,
 - d) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során meghatározott beszámított jövedelmet, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták,
 - e) a felszolgálási díj 81%-át,
-- f) a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló 81%-át,
+- f) a 2020. június 30-áig terjedő időszakra a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló 81%-át,
 - g) azon egyszerűsített közteherviselési hozzájárulás (ekho) alap 50 százalékát, 2008. január 1-jétől 61 százalékát, amely után a magánszemélyt terhelő ekho mértéke 15 százalék,
 - h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díjat és fejlesztési foglalkoztatási díjat,
-- i) a Tbj. 30/A. § (2) bekezdésében meghatározott mezőgazdasági őstermelő esetében az éves bevételének 6 százalékát,
+- i) a Tbj. 41. § (2) bekezdésében meghatározott mezőgazdasági őstermelő esetében az éves bevételének 6 százalékát,
 - j) a főállású kisadózó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.
 
 (2) Az öregségi nyugdíj alapját képező havi átlagkereset meghatározásánál
@@ -225,13 +226,15 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 (3) A Péptv. 2011. január 1-jét megelőzően hatályos 4/A. §-a szerinti prémiumévek programban részt vevő biztosított esetében a nyugdíj alapjául szolgáló havi átlagkereset megállapításánál a részmunkaidőre megállapított, ténylegesen kifizetett kereset mellett a nyugdíjjárulék-, illetve nyugdíjbiztosítási járulékkiegészítés alapjaként számított összeget is figyelembe kell venni. Ha a prémiumévek programba történő belépése és munkaviszonya megszűnése közötti időszakban a biztosított prémiumévek programhoz kapcsolódó, részmunkaidőre szóló munkabérét emelték, akkor a járulékkiegészítés alapjaként számított összeget szintén ezen emelés százalékos arányával megemelten kell figyelembe venni. Többszöri béremelés esetén a prémiumévek programba történő bekerüléskor, illetve annak megszűnésekor érvényes bér közötti százalékos arányt kell alapul venni. A 39. §-ban foglalt rendelkezéseket ebben az esetben nem kell alkalmazni.
 
+(3a) A saját jogú nyugellátás mellett folytatott keresőtevékenységgel szerzett kereset, jövedelem összege az öregségi nyugdíj alapját képező havi átlagkereset kiszámítása során nem vehető figyelembe.
+
 (4) Amennyiben a biztosított az (1) bekezdésben meghatározott időszaknak – vagy ha ennél a szolgálati idő kevesebb, e rövidebb időnek – legalább a felében rendelkezik a nyugdíjszámítás alapjául szolgáló keresettel, jövedelemmel, a havi átlagkeresetet a tényleges – a kifizetés időpontjában érvényes jogszabályok szerint nyugdíjjárulék-alapot képező – kereset, jövedelem alapján kell meghatározni.
 
 (5) Ha a (4) bekezdés szerinti időszakban, az átlagszámítási időnek legalább a fele részére a nyugdíjat igénylőnek nincs keresete, jövedelme, a hiányzó időre eső napokra a keresetet, jövedelmet az 1988. január 1-je előtti legközelebbi időszak keresete, jövedelme alapján kell figyelembe venni. Ha ez sem áll rendelkezésre, keresetként – a nyugellátás megállapításának kezdő napjától folyamatosan visszaszámítva – a hiányzó időre érvényes, külön jogszabályban általánosan meghatározott minimálbér harmincad részét kell figyelembe venni azokra a naptári napokra, amelyekre nyugdíjalapot képező kereset, jövedelem nem volt és a (10) bekezdés alkalmazásánál e naptári napok is osztószámot képeznek.
 
 (6) Az 1988. január 1-jétől elért, (1)–(5) bekezdés szerinti kereseteket, jövedelmeket – ideértve a minimálbér összegét is – naptári évenként csökkenteni kell
 
-- a) a kifizetés időpontjában hatályos jogszabályokban meghatározott járulékmértékek figyelembevételével számított természetbeni és pénzbeli egészségbiztosítási járulék, nyugdíjjárulék, magánnyugdíj-pénztári tagdíj, munkavállalói járulék, vállalkozói járulék, valamint 2010. január 1-jétől egészségbiztosítási és munkaerő-piaci járulék összegével, továbbá
+- a) a kifizetés időpontjában hatályos jogszabályokban meghatározott járulékmértékek figyelembevételével számított természetbeni és pénzbeli egészségbiztosítási járulék, nyugdíjjárulék, magánnyugdíj-pénztári tagdíj, munkavállalói járulék, vállalkozói járulék, valamint egészségbiztosítási és munkaerő-piaci járulék összegével, továbbá
 - b) a személyi jövedelemadónak
   - ba) – 2010. január 1-jét megelőzően és 2012. december 31-ét követően elért keresetek, jövedelmek esetén – a keresetek, jövedelmek a) pont szerinti csökkentése után fennmaradó összegre képzett összegével,
   - bb) – 2010. január 1-je és 2012. december 31-e között elért keresetek, jövedelmek esetén – a keresetek, jövedelmek a) pont szerint csökkentett összege és az ezen összegre számított adóalap-kiegészítés együttes összegére képzett összegével.
@@ -249,18 +252,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 - a) a 372 001 és 421 000 forint közötti átlagkeresetrész 90 százalékát,
 - b) a 421 000 forint feletti átlagkeresetrész 80 százalékát kell az öregségi nyugdíj megállapításánál figyelembe venni.
 
-22/A. § (1) A saját jogú nyugellátás mellett folytatott keresőtevékenység időtartama szolgálati időként nem vehető figyelembe. A saját jogú nyugellátás mellett folytatott keresőtevékenységgel szerzett, nyugdíjjárulék-alapot képező kereset, jövedelem összege az öregségi nyugdíj alapját képező havi átlagkereset kiszámítása során nem vehető figyelembe.
-
-(2) Az öregségi nyugellátásban részesülő személy – ideértve azt a személyt is, akinek nyugellátása szünetel – nyugellátását a saját jogú nyugdíjasként történt foglalkoztatása, illetve egyéni vagy társas vállalkozóként végzett kiegészítő tevékenysége alapján a naptári évben elért, nyugdíjjárulék-alapot képező kereset, jövedelem összege egytizenketted részének 0,5 százalékával – a jövedelem megszerzését követő naptári év január 1-től – növelni kell. A nyugdíjnövelés kiszámítása során az a nyugdíjjárulék-alapot képező kereset, jövedelem vehető figyelembe, amely után az előírt nyugdíjjárulékot megfizették.
-
-(3) A nyugdíjnövelést a nyugdíjbiztosítási igazgatási szerv hivatalból állapítja meg a nyugdíjjárulék-alapot képező kereset, jövedelem megszerzését követő naptári év
-
-- a) szeptember 30-áig, ha kizárólag a Tbj. 5. § (1) bekezdés a) pontja szerinti jogviszonyból származó keresetet, jövedelmet kell figyelembe venni,
-- b) október 31-éig az a) pontban nem említett esetben.
-
-(4) Az öregségi nyugdíj megállapítása esetén a kiszámított nyugellátás összegét meg kell növelni a jogosult részére korábban – azóta megszűnt saját jogú nyugellátás mellett szerzett, nyugdíjjárulék-alapot képező kereset, jövedelem alapján – megállapított nyugdíjnövelésnek a megállapítását követő időközi nyugdíjemelések mértékével megemelt összegével, ideértve a korábbi saját jogú nyugellátás megszűnését követő időközi nyugdíjemeléseket is.
-
-(5) Ha a nyugdíjnövelésre jogosult személy a nyugdíjnövelés megállapítása előtt elhunyt, a hozzátartozói nyugellátásra jogosult személy a nyugdíjnövelés iránti igényét a hozzátartozói nyugellátás megállapítására irányuló eljárásban – erre irányuló kérelemmel – érvényesítheti.
+#### 22/A. §
 
 ### III. Fejezet
 
@@ -308,9 +300,9 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 ### IV. Fejezet — A SZOLGÁLATI IDŐ
 
-37. § (1) A Tbj.-ben biztosítottnak minősülő személy biztosítással járó jogviszonyának 1997. december 31. napját követő időtartama szolgálati időnek számít, ha erre az időszakra az előírt nyugdíjjárulékot a biztosítottól levonták, illetve a 38. § (2) bekezdésének a)–b) pontjában említett személyek esetében megfizették.
+37. § (1) A biztosítottnak minősülő személy biztosítással járó jogviszonyának 1997. december 31. napját követő időtartama szolgálati időnek számít, ha erre az időszakra az előírt nyugdíjjárulékot a biztosítottól levonták, illetve a 38. § (2) bekezdésének a)–c) pontjában említett személyek esetében megfizették.
 
-(2) A Tbj. 5. § (1) bekezdés i) pontjában említett mezőgazdasági őstermelő biztosítási ideje szolgálati időnek számít, ha erre az időszakra nyugdíjjárulékot fizetett, illetőleg az előírt nyugdíjjárulékot megfizette.
+(2) A biztosítottnak minősülő mezőgazdasági őstermelő biztosítási ideje szolgálati időnek számít, ha erre az időszakra nyugdíjjárulékot fizetett, illetőleg az előírt nyugdíjjárulékot megfizette.
 
 (3) Ha a biztosítás ténye, illetőleg a biztosítással járó jogviszony időtartamára vonatkozó adatok a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv (a továbbiakban: társadalombiztosítási igazgatási szervek) nyilvántartásaiból megállapíthatók, azonban a nyugdíjjárulék levonásának ténye – a nyugdíjbiztosítási igazgatási szerv által beszerzett – a 43. § (2) bekezdés a)–b) pontok szerinti okiratok (igazolások) alapján sem állapítható meg, vagy az okiratok (igazolások) hiányában, illetőleg a foglalkoztató megszűnése miatt nem bizonyítható, a nyugdíjjárulék levonását vélelmezni kell.
 
@@ -318,7 +310,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 38. § (1) Szolgálati időként kell továbbá figyelembe venni
 
-- a) a Tbj.-ben meghatározott, nyugellátás szerzése céljából megállapodást kötött személy esetében azt az időszakot, amelyre az előírt nyugdíjjárulékot megfizették,
+- a) a nyugellátás szerzése céljából megállapodást kötött személy esetében azt az időszakot, amelyre az előírt nyugdíjjárulékot megfizették,
 - b) az egyházi jogi személy által kiállított igazolás alapján az egyházi személyként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre 2011. december 31-éig az előírt nyugdíjbiztosítási és nyugdíjjárulékot, 2012. január 1-jétől az előírt nyugdíjjárulékot az egyházi jogi személy megfizette,
 - c) a gyermeknevelési támogatás, a gyermekek otthongondozási díja, az ápolási díj, valamint a gyermekgondozást segítő ellátás, illetve gyermekgondozási segély folyósításának időtartamát, amennyiben az előírt nyugdíjjárulékot megfizették,
 - d) a katonai (polgári) szolgálatban eltöltött időt,
@@ -342,11 +334,11 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 ### Arányosan elismerhető szolgálati idő
 
-39. § (1) Ha a biztosítottnak a Tbj. 5. §-a (1) bekezdésének a)–b), g) pontja és a (2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonya keretében – ide nem értve a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) értelmében teljes munkaidőben, illetőleg az adott munkakörre irányadó, jogszabályban meghatározott munkaidőben, valamint a szakképzési munkaszerződés keretében foglalkoztatottakat – elért nyugdíjjárulék-alapot képező keresete, jövedelme a külön jogszabályban meghatározott minimálbérnél kevesebb, akkor a 20. §-ának alkalmazása során – az 1996. december 31-ét követő időszak tekintetében – a biztosítási időnek csak az arányos időtartama vehető szolgálati időként figyelembe. Ebben az esetben a szolgálati idő és a biztosítási idő aránya azonos a nyugdíjjárulék alapját képező kereset, jövedelem és a mindenkori érvényes minimálbér arányával.
+39. § (1) Ha a biztosítottnak a Tbj. 6. § (1) bekezdés a)–b), g) pontja és a (2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonya keretében – ide nem értve a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) értelmében teljes munkaidőben, illetőleg az adott munkakörre irányadó, jogszabályban meghatározott munkaidőben, valamint a szakképzési munkaszerződés keretében foglalkoztatottakat – elért nyugdíjjárulék-alapot képező keresete, jövedelme a külön jogszabályban meghatározott minimálbérnél kevesebb, akkor a 20. §-ának alkalmazása során – az 1996. december 31-ét követő időszak tekintetében – a biztosítási időnek csak az arányos időtartama vehető szolgálati időként figyelembe. Ebben az esetben a szolgálati idő és a biztosítási idő aránya azonos a nyugdíjjárulék alapját képező kereset, jövedelem és a mindenkori érvényes minimálbér arányával.
 
-(2) Az (1) bekezdés rendelkezéseit a Tbj. 30/A. §-ának (2) bekezdése szerinti mezőgazdasági őstermelő 2007. december 31-ét követően szerzett biztosítási idejének, valamint a főállású kisadózó biztosítási idejének szolgálati időként történő figyelembevétele során is alkalmazni kell.
+(2) Az (1) bekezdés rendelkezéseit a Tbj. 41. § (2) bekezdése szerinti mezőgazdasági őstermelő 2007. december 31-ét követően szerzett biztosítási idejének, valamint a főállású kisadózó biztosítási idejének szolgálati időként történő figyelembevétele során is alkalmazni kell.
 
-40. § Szolgálati időként kell figyelembe venni azt az időt is, amely a Tbj. 5. § (1) bekezdés a) pontja szerinti jogviszony jogellenes megszűnésétől annak helyreállításáig, vagy az utóbbi mellőzése esetén a jogviszony jogellenes megszüntetésének jogerős megállapításáig telt el.
+40. § Szolgálati időként kell figyelembe venni azt az időt is, amely a Tbj. 6. § (1) bekezdés a) pontja szerinti jogviszony jogellenes megszűnésétől annak helyreállításáig, vagy az utóbbi mellőzése esetén a jogviszony jogellenes megszüntetésének jogerős megállapításáig telt el.
 
 ### Szolgálati idő a felsőfokú tanulmányok idejére
 
@@ -374,6 +366,8 @@ a felsőoktatási intézményben nappali képzésben folytatott – legfeljebb a
 - a) a letartóztatás idejét, ha a letartóztatottat jogerősen felmentették, vagy a bíróság jogerős vagy végleges határozatában, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatában a büntetőeljárást megszüntette,
 - b) a szabadságvesztés idejét, ha az elítéltet a bíróság utóbb jogerősen felmentette.
 
+(3) A saját jogú nyugellátás mellett folytatott keresőtevékenység időtartama szolgálati időként nem vehető figyelembe.
+
 ### A szolgálati idő igazolása
 
 43. § (1) A szolgálati időt naptári naponként kell számításba venni és 365 naptári napot kell egy évnek tekinteni. Ugyanazt az időtartamot csak egyszer lehet számításba venni.
@@ -384,7 +378,7 @@ a felsőoktatási intézményben nappali képzésben folytatott – legfeljebb a
 - b) a foglalkoztató eredeti nyilvántartásai alapján kiállított igazolással, vagy
 - c) egyéb hitelt érdemlő módon bizonyítja.
 
-(3) A kereseti, jövedelmi adatokat a nyugdíjbiztosítás nyilvántartása alapján kell számításba venni. A nyugdíjbiztosítási nyilvántartásban nem szereplő keresetre, jövedelemre vonatkozó adatokat a foglalkoztatónak vagy jogutódjának az egykorú munkaügyi, bérszámfejtési, könyvelési nyilvántartásai alapján kiállított írásbeli igazolásával, ennek hiányában más egykorú okirattal – így különösen a Tbj. 47. § (3) bekezdése vagy 50. § (6) bekezdése szerinti foglalkoztatói igazolással, a személyi jövedelemadó megállapításához a foglalkoztató által kiadott igazolással, a kereset, jövedelem kifizetését, elszámolását igazoló bizonylattal, munkakönyvvel, személyijövedelemadó-bevallással – lehet igazolni.
+(3) A kereseti, jövedelmi adatokat a nyugdíjbiztosítás nyilvántartása alapján kell számításba venni. A nyugdíjbiztosítási nyilvántartásban nem szereplő keresetre, jövedelemre vonatkozó adatokat a foglalkoztatónak vagy jogutódjának az egykorú munkaügyi, bérszámfejtési, könyvelési nyilvántartásai alapján kiállított írásbeli igazolásával, ennek hiányában más egykorú okirattal – így különösen a Tbj. 75. § (2) bekezdése vagy 77. § (5) bekezdése szerinti foglalkoztatói igazolással, a személyi jövedelemadó megállapításához a foglalkoztató által kiadott igazolással, a kereset, jövedelem kifizetését, elszámolását igazoló bizonylattal, munkakönyvvel, személyijövedelemadó-bevallással – lehet igazolni.
 
 43/A. § (1) A 43. § (1) bekezdés szerint számított szolgálati időn túl az egészségügyi dolgozók esetében kiegészítő szolgálati időként kell figyelembe venni a külön törvényben meghatározott, a heti 48 órát meghaladó önként vállalt többletmunkavégzésnek – a munkáltató által munkaórában igazolt – 2004. május 1-jét követő, – napi 8 óra alapulvételével átszámított – időtartamát.
 
@@ -726,7 +720,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (3) A nyugdíj-biztosítási igazgatási szerv által nyilvántartott adatokról szóló kivonat vagy hatósági bizonyítvány kiadásának ügyintézési határideje tizenöt nap.
 
-(4) A nyugdíj-biztosítási igazgatási szervek által lefolytatott eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(4)
 
 #### 72/A. §
 
@@ -829,17 +823,9 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (2) A nyugellátás szüneteltetésének időtartama alatt az érintett nyugdíjasnak minősül.
 
-(3) Az újbóli folyósítás során a jogosultat az (1) bekezdés szerinti ellátás szüneteltetést megelőző összegének a 22/A. § szerinti növeléssel, továbbá az időközben végrehajtott emelésekkel – a növelés időpontjának és az egyes emelések esedékességének figyelembevételével – növelt összege illeti meg.
+(3) Az újbóli folyósítás során a jogosultat az (1) bekezdés szerinti ellátás szüneteltetést megelőző összegének az időközi nyugdíjemelések mértékével megemelt összege illeti meg.
 
-83/B. § (1) Ha az öregségi nyugdíjkorhatárt be nem töltött, a 18. § (2a)–(2d) bekezdése alapján megállapított, vagy a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 3. § (2) bekezdés c) pontja alapján továbbfolyósított öregségi teljes nyugdíjban részesülő személy a tárgyévben a Tbj. 5. §-a szerinti biztosítással járó jogviszonyban áll, illetve egyéni vagy társas vállalkozóként kiegészítő tevékenységet folytat, és az általa fizetendő nyugdíjjárulék alapja meghaladja a tárgyév első napján érvényes kötelező legkisebb munkabér havi összegének tizennyolcszorosát (a továbbiakban: éves keretösszeg), az éves keretösszeg elérését követő hónap első napjától az adott tárgyév december 31-éig, de legfeljebb az öregségi nyugdíjkorhatár betöltéséig a nyugdíj folyósítását szüneteltetni kell. Ha a fizetendő nyugdíjjárulék alapja az éves keretösszeget a tárgyév decemberében haladja meg, a nyugellátás szüneteltetésére nem kerül sor, de a tárgyév december havi nyugellátást – a 84. § alkalmazásával – vissza kell fizetni. E § alkalmazása során a fizetendő nyugdíjjárulék alapjába nem számít bele a 83/C. § (1) bekezdése szerinti jogviszonyból származó, a szünetelés időtartama alatt szerzett kereset, jövedelem.
-
-(2) A nyugdíjbiztosítási igazgatási szerv a nyugdíj folyósításának szüneteltetéséről, újbóli folyósításáról, valamint a jogalap nélkül felvett nyugellátás visszafizettetéséről – a nyugellátásban részesülő személynek a 97. § (5) bekezdése szerint tett bejelentése, illetve az állami adóhatóság által közölt éves keretösszegre vonatkozó összesített adatok alapján – hivatalból dönt.
-
-(3) Az e §-ban foglalt rendelkezések nem alkalmazhatók arra a személyre, aki a nyugdíjának folyósítását a 83/A. § alapján teljes naptári évre szünetelteti.
-
-(4) A nyugellátás szüneteltetésének időtartama alatt az érintett nyugdíjasnak minősül. Az ellátás újbóli folyósítása során a 83/A. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
-
-(5)
+#### 83/B. §
 
 83/C. § (1) Az öregségi nyugdíj folyósítását – az öregségi nyugdíj kezdő időpontjától, öregségi nyugdíjasként létesített jogviszony esetén pedig a jogviszony létesítésének hónapját követő hónap első napjától a jogviszony megszűnése hónapjának utolsó napjáig – szüneteltetni kell, ha a nyugdíjas közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, köztisztviselőként vagy közszolgálati ügykezelőként közszolgálati jogviszonyban, bírói szolgálati viszonyban, igazságügyi alkalmazotti szolgálati viszonyban, ügyészségi szolgálati viszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban vagy a Magyar Honvédséggel szerződéses vagy hivatásos szolgálati viszonyban áll.
 
@@ -1042,7 +1028,7 @@ tarthatók nyilván.
 
 szerinti adatok igénylésére jogosultak.
 
-(4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, a nemzetbiztonsági szolgálatok a Tbj. 42. §-ának (4) bekezdése, egyéb szervek pedig a Tbj. 43. §-ának (1) bekezdése szerint jogosultak a nyilvántartásba felvett adatok igénylésére.
+(4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
 (5) A (2) bekezdés szerinti adatok statisztikai célra felhasználtatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
@@ -1070,8 +1056,8 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 96/A. § (1) A társadalombiztosítási egyéni számla természetes személyenként tartalmazza
 
 - a) a biztosított természetes személyazonosító adatait és társadalombiztosítási azonosító jelét,
-- b) a biztosított után a 2012. december 31-ét követő időszakra bevallott nyugdíjjárulék összegére vonatkozó, az állami adóhatóságtól átvett adatokat,
-- c) a Tbj. 34. §-a alapján kötött megállapodás alapján fizetett nyugdíjjárulék összegét, és a megállapodással érintett időtartamot, valamint
+- b) a 2012. december 31-étől 2020. június 30-áig terjedő időszakra a biztosított után bevallott nyugdíjjárulék összegére, a 2020. július 1-jétől kezdődő időszakra a biztosított után bevallott társadalombiztosítási járuléknak a Nyugdíjbiztosítási Alapot nyugdíjjárulékként megillető összegére vonatkozó, az állami adóhatóságtól átvett adatokat,
+- c) a megállapodás alapján fizetett nyugdíjjárulék összegét, és a megállapodással érintett időtartamot, valamint
 - d) a rehabilitációs járadék, rehabilitációs ellátás összegéből levont nyugdíjjárulék összegét, és az ellátás folyósításának időtartamát.
 
 (2) Az (1) bekezdés c) és d) pontja szerinti adatok a tárgyévet követően kerülnek feltüntetésre a társadalombiztosítási egyéni számlán.
@@ -1090,7 +1076,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 - b) a foglalkoztatók adatai,
 - c) az 1987. december 31-ét követő időszakra vonatkozó nyugdíjjárulék-köteles kereset, jövedelem,
 - d) az 1987. december 31-ét követő időszakra vonatkozóan a foglalkoztató által levont, befizetett nyugdíjjárulék, és
-- e) azok a szolgálati időnek minősülő időszakok, amelyek után nem történt járulék-, illetve nyugdíjjárulék-fizetés.
+- e) azok a szolgálati időnek minősülő időszakok, amelyek után nem történt járulékfizetés.
 
 (4) A biztosított, volt biztosított a (3) bekezdés szerinti értesítés vele való közlését követő hatvan napon belül nyilatkozik a nyugdíjbiztosítási igazgatási szervnek azokról az általa ismert, (3) bekezdés a)–e) pontja szerinti adatokról, amelyeket a nyilvántartás nem tartalmaz, vagy amelyek nem egyeznek meg a nyilvántartott adatokkal. A biztosított, volt biztosított az általa közölt adatokat igazoló, rendelkezésére álló okiratokat megküldi a nyugdíjbiztosítási igazgatási szervnek.
 
@@ -1133,7 +1119,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 - a) a nyilvántartásban nem szereplő szolgálati idő, jogosultsági idő elismerését is kéri, vagy
 - b) 1954. december 31-ét követően született, és vele egyeztetési eljárást még nem folytattak le, a hatósági bizonyítvány kiadása iránti eljárást fel kell függeszteni, és hivatalból egyeztetési eljárást kell lefolytatni.
 
-(3) Nem kell egyeztetési eljárást lefolytatni, ha a mezőgazdasági őstermelő a Tbj. 5. § (1) bekezdés i) pontja szerinti feltétel vizsgálatához kéri a hatósági bizonyítvány kiállítását.
+(3) Nem kell egyeztetési eljárást lefolytatni, ha a mezőgazdasági őstermelő a Tbj. biztosítás fennállásának vizsgálatához kéri a hatósági bizonyítvány kiállítását.
 
 ### Adatszolgáltatás és bejelentési kötelezettség
 
@@ -1147,7 +1133,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 
 (7)–(8)
 
-(9) A Tbj. 34. §-ában foglaltak alapján nyugdíj-biztosítási szolgáltatásra irányuló megállapodást kötő igazgatási szerv adatszolgáltatási kötelezettsége nem tartozik az Art. hatálya alá.
+(9) A nyugdíj-biztosítási szolgáltatásra irányuló megállapodást kötő igazgatási szerv adatszolgáltatási kötelezettsége nem tartozik az Art. hatálya alá.
 
 (10) A rehabilitációs ellátásban vagy rehabilitációs járadékban részesülő személyekre vonatkozó tárgyévi nyugdíjbiztosítási adatszolgáltatást az előírt határidőig a nyugdíjfolyósító szerv teljesíti.
 
@@ -1161,7 +1147,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 
 (3) A nyugdíjbiztosítási igazgatási szerv vezetője a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (5) bekezdésével összhangban a nemzetbiztonsági szolgálatok kihelyezett állományának tagját érintő nyugdíjbiztosítási feladatok ellátásával összefüggő adatszolgáltatás rendjét és az azzal összefüggő eljárási szabályokat – a törvényi előírások keretei között – a nemzetbiztonsági szolgálattal külön megállapodásban rögzíti.
 
-99/A. § (1) A Tbj. 44. § (1) bekezdése szerinti nyilvántartásra kötelezett a biztosított, volt biztosított biztosítási jogviszonyával összefüggő, a szolgálati időről vagy a nyugellátás megállapítása során figyelembevételre kerülő keresetről, jövedelemről adatot tartalmazó munkaügyi iratokat a biztosítottra, volt biztosítottra irányadó öregségi nyugdíjkorhatár betöltését követő öt évig köteles megőrizni.
+99/A. § (1) A Tbj. szerinti nyilvántartásra kötelezett a biztosított, volt biztosított biztosítási jogviszonyával összefüggő, a szolgálati időről vagy a nyugellátás megállapítása során figyelembevételre kerülő keresetről, jövedelemről adatot tartalmazó munkaügyi iratokat a biztosítottra, volt biztosítottra irányadó öregségi nyugdíjkorhatár betöltését követő öt évig köteles megőrizni.
 
 (2) A nyilvántartásra kötelezett jogutód nélküli megszűnése esetén köteles bejelenteni az (1) bekezdés szerinti munkaügyi iratok őrzésének helyét a székhelye, telephelye szerint illetékes nyugdíjbiztosítási igazgatási szervnek.
 
@@ -1226,20 +1212,30 @@ rendeletben határozza meg.
 
 102. § E törvény hatálybaléptetéséről a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezik. E törvény rendelkezéseit – az 1998. január 1-je előtti időponttól megállapított nyugellátások emelésére vonatkozó 62. §, továbbá a 38. § (2) bekezdése kivételével – az 1997. december 31-ét követő időponttól megállapításra kerülő ellátásokra kell alkalmazni. A 38. § (2) bekezdése e törvény kihirdetése napján lép hatályba azzal, hogy rendelkezéseit az 1995. december 31-e utáni időponttól megállapításra került (kerülő) ellátásokra is alkalmazni kell.
 
-102/A. § (1) Az öregségi nyugdíj 22/A. § szerinti növelése iránti, 2016. december 31-éig jogerősen le nem zárt ügyekben a kérelmeket a 2016. december 31-én hatályos rendelkezések szerint kell elbírálni.
+102/A. § (1) A saját jogú nyugellátás mellett 2020. július 1-jét megelőzően folytatott, nyugdíjjárulék-köteles keresettel, jövedelemmel járó keresőtevékenységre a 2020. június 30-án hatályos
 
-(2) Ha a saját jogú nyugellátásban részesülő személy 2016. december 31-éig nem kérte a 2016. január 1-jét megelőző időszakban szerzett jövedelem alapján járó nyugdíjnövelést, annak összegét a nyugdíjbiztosítási igazgatási szerv 2017. június 30-áig hivatalból állapítja meg. A nyugdíjnövelést
+- a) 22/A. § (1), (2), (4) és (5) bekezdését, valamint
+- b) 102/A. § (2)–(5) bekezdését
 
-- a) a 2007–2010. évben szerzett jövedelem után e § 2016. december 31-én hatályos szövegében foglaltak szerint,
-- b) a 2011–2015. évben szerzett jövedelem után a 2016. december 31-én hatályos 22/A. §-ban foglaltak szerint
+kell alkalmazni.
 
-kell megállapítani.
+(2) A 2019. évi keresőtevékenységgel szerzett nyugdíjnövelést a nyugdíjbiztosítási igazgatási szerv
 
-(3) A (2) bekezdés szerinti nyugdíjnövelést visszamenőlegesen, attól az időponttól kezdődően kell megállapítani, amelytől kezdődően az a jogosultat a nyugdíjnövelés iránti kérelem legkorábbi benyújtása esetén megillette volna. A nyugdíjnövelést és annak visszamenőlegesen járó összegét a jogosultság megszerzésének időpontját követő időközi nyugdíjemelések mértékével megemelt összegben kell folyósítani.
+- a) 2020. szeptember 30-áig hivatalból állapítja meg, ha kizárólag a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. § (1) bekezdés a) pontja szerinti jogviszonyból származó keresetet, jövedelmet kell figyelembe venni,
+- b) 2020. október 31-éig hivatalból állapítja meg az a) pontban nem említett esetben,
 
-(4) A nyugdíjnövelés összegét a (2) bekezdésben foglaltak szerint akkor is meg kell állapítani, ha az azóta megszűnt saját jogú nyugellátás mellett korábban szerzett nyugdíjnövelés jogosultja nem minősül öregségi nyugdíjasnak. A megállapított nyugdíjnövelést az öregségi nyugdíj folyósításának időpontjától kezdődően kell – a jogosultság megszerzésének időpontját követő időközi nyugdíjemelések mértékével megemelt összegben – folyósítani.
+kivéve, ha a nyugdíjnövelésre jogosult személy a nyugdíjnövelés megállapítása előtt elhunyt.
 
-(5) Ha a 2016. január 1-jét megelőző időszakban nyugdíjnövelésre jogosult személy a nyugdíjnövelés megállapítása előtt elhunyt, a nyugdíjnövelést a hozzátartozói nyugellátás megállapítására irányuló eljárásban kérelemre, a (2) bekezdés a) és b) pontjában foglaltak szerint kell megállapítani.
+(3) A 2020. január–június hónapjaiban végzett keresőtevékenységgel szerzett nyugdíjnövelést a nyugdíjbiztosítási igazgatási szerv
+
+- a) 2021. szeptember 30-áig hivatalból állapítja meg, ha kizárólag a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. § (1) bekezdés a) pontja szerinti jogviszonyból származó keresetet, jövedelmet kell figyelembe venni,
+- b) 2021. október 31-éig hivatalból állapítja meg az a) pontban nem említett esetben,
+
+kivéve, ha a nyugdíjnövelésre jogosult személy a nyugdíjnövelés megállapítása előtt elhunyt.
+
+(4) A szüneteltetett öregségi nyugdíj újbóli folyósítása során a jogosultat – a 83/A. § (3) bekezdésében foglaltakon túl, a növelés időpontjának figyelembevételével – a megállapított nyugdíjnövelés is megilleti.
+
+(5)
 
 (6)
 

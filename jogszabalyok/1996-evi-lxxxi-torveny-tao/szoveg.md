@@ -2664,7 +2664,7 @@ A 8. § (1) bekezdésének d) pontja alkalmazásában nem a vállalkozási tevé
 
 6. az értékkel nyilvántartott tárgyi eszköz selejtezésekor az eszköz könyv szerinti értéke, ha a selejtezés ténye, oka nincs dokumentumokkal megfelelően alátámasztva;
 
-7. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerinti megállapodás alapján fizetett egészségbiztosítási járulék;
+7. a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerinti egészségügyi szolgáltatás biztosítására kötött megállapodás alapján fizetett járulék;
 
 8. az a költség, ráfordítás, amely
 
@@ -2728,7 +2728,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 13. A szövetkezetnél a közösségi alapból a szövetkezet alapszabálya szerinti céloknak megfelelő felhasználás alapján elszámolt költség;
 
-14. A kifizető által viselt képzés (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is) költsége.
+14. a kifizető által viselt olyan oktatás és képzés költsége (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is), amelyet az annak szervezője jogszabályban meghatározott alapfeladata vagy felnőttképzési tevékenysége keretében szervez és az ahhoz kapcsolódóan a képzés szervezője által kiállított és a kifizető rendelkezésére bocsátott nyilatkozat tanúsítja, hogy a jogszabályban előírt adatszolgáltatási kötelezettségét teljesítette;
 
 15. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az adózó által ellenérték nélkül átvállalt kötelezettségnek az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ha az adóévben visszafizetési kötelezettség nélkül adott támogatásra, juttatásra a 22. § (1) bekezdése vagy a 22/C. § (1) bekezdése alapján került sor.
 

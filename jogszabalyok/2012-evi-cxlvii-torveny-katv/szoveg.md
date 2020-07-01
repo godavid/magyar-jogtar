@@ -31,7 +31,7 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
 - 7. elszámolásra kiadott előleg: pénzeszközök átadása természetes személynek abból a célból, hogy a természetes személy az adózó nevében terméket szerezzen be vagy szolgáltatást vegyen igénybe, illetve ezek hiányában szolgáltassa vissza az adózónak az átvett pénzeszközt;
 - 8. főállású kisadózó: a kisadózó, kivéve azt a kisadózót, aki a tárgyhó egészében megfelel az alábbi feltételek bármelyikének:
   - a) legalább heti 36 órás foglalkoztatással járó munkaviszonyban áll, azzal, hogy a heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani,
-  - b) a társadalombiztosítás ellátásairól és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerinti kiegészítő tevékenységet folytatónak minősül,
+  - b) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerinti kiegészítő tevékenységet folytatónak minősül,
   - c) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján külföldön biztosított személynek minősül,
   - d) a kétoldalú szociálpolitikai, szociális biztonsági egyezmény alapján más államban biztosítottnak minősül,
   - e) olyan magánszemély, aki 2011. december 31-én – a társadalombiztosítási nyugellátásról szóló törvény alapján megállapított – I., II., vagy III. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult, és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 32–33. §-a alapján rokkantsági ellátásban vagy rehabilitációs ellátásban részesül,
@@ -206,7 +206,7 @@ igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt k
 
 #### 6. A kisadózót megillető ellátások és a kisadózó jövedelme
 
-10. § (1) A főállású kisadózó e jogállásának időtartama alatt biztosítottnak minősül, a Tbj.-ben és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben meghatározott valamennyi ellátásra jogosultságot szerezhet, ezen ellátások számításának alapja havi 98 100 forint, magasabb összegű tételes adó fizetése esetén 164 000 forint. Az állami adóhatóság a 7. § és a 8. § (11) bekezdése szerinti bejelentések adattartalma alapján adatot szolgáltat az egészség- és nyugdíjbiztosítási szervek felé a főállású kisadózó biztosítotti jogállásának időtartamáról és az ellátások alapjáról.
+10. § (1) A főállású kisadózó e jogállásának időtartama alatt biztosítottnak minősül, a Tbj.-ben és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben meghatározott valamennyi ellátásra jogosultságot szerezhet, ezen ellátások számításának alapja havi 102 ezer forint, magasabb összegű tételes adó fizetése esetén 170 000 forint. Az állami adóhatóság a 7. § és a 8. § (11) bekezdése szerinti bejelentések adattartalma alapján adatot szolgáltat az egészség- és nyugdíjbiztosítási szervek felé a főállású kisadózó biztosítotti jogállásának időtartamáról és az ellátások alapjáról.
 
 (1a) Szünetel a főállású kisadózó biztosítása abban a hónapban, amelyben a főállású kisadózó után az adót a 8. § (9) bekezdés d) pontja alapján nem kell megfizetni, kivéve, ha a főállású kisadózó az adott hónapban a kisadózóként folytatott tevékenységébe tartozó tevékenységet végez, és erre tekintettel megfizeti a 8. § (1) vagy (4a) bekezdés szerinti tételes adót.
 
@@ -357,11 +357,11 @@ növelt összege, de legalább a b) pont szerinti összeg.
 (2) E fejezet alkalmazásában személyi jellegű kifizetésnek minősül
 
 - a) azon személyi jellegű ráfordítás, amely a Tbj. szerint járulékalapot képez az adóévben,
-- b) az a) ponttól eltérően tag esetén a Tbj. 4. § s) pont 2. alpontja szerinti minimálbér 112,5%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra, amelyre a tagnak nem keletkezik a Tbj. 27. § (2) bekezdése szerinti járulékalap utáni járulékfizetési kötelezettsége,
+- b) az a) ponttól eltérően tag esetén a Tbj. 4. § 14. pont 14.2. alpontja szerinti minimálbér 112,5%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra, amelyre a tagnak nem keletkezik a Tbj. 39. §-a szerinti járulékalap utáni járulékfizetési kötelezettsége,
 - c) a Szocho. tv. 1. § (4) bekezdés a) pontja szerinti béren kívüli juttatás,
 - d) a Szocho. tv. 1. § (4) bekezdés b) pontja szerinti béren kívüli juttatásnak nem minősülő egyes meghatározott juttatás.
 
-(2a) A (2) bekezdés alkalmazásában nem minősül személyi jellegű kifizetésnek a kiegészítő tevékenységet folytató egyéni vagy társas vállalkozó járulékalapja, valamint a kedvezményezett foglalkoztatott után érvényesíthető kedvezmény éves összege.
+(2a) A (2) bekezdés alkalmazásában nem minősül személyi jellegű kifizetésnek a kedvezményezett foglalkoztatott után érvényesíthető kedvezmény éves összege.
 
 (2b) A (2) bekezdés alkalmazásában tagnak a Tbj. szerinti társas vállalkozó minősül.
 

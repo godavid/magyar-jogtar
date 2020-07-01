@@ -244,7 +244,7 @@ tagozat,
 
 8. § (1) Az óvoda a gyermek hároméves korától a tankötelezettség kezdetéig nevelő intézmény, amely a gyermeket fokozatosan, de különösen az utolsó évében az iskolai nevelés-oktatásra készíti fel. Az óvoda felveheti azt a gyermeket is, aki a harmadik életévét a felvételétől számított fél éven belül betölti, feltéve, hogy minden, a településen, fővárosi kerületben, vagy ha a felvételi körzet több településen található, az érintett településeken lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező hároméves és annál idősebb gyermek óvodai felvételi kérelme teljesíthető.
 
-(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a harmadik életévét betölti, a nevelési év kezdő napjától legalább napi négy órában óvodai foglalkozáson vesz részt. A szülő – tárgyév május 25. napjáig benyújtott – kérelme alapján a gyermek jogos érdekét szem előtt tartva, annak az évnek az augusztus 31. napjáig, amelyben a gyermek a negyedik életévét betölti, a Kormány rendeletében kijelölt szerv (a továbbiakban: felmentést engedélyező szerv) felmentheti az óvodai foglalkozáson való részvétel alól, ha a gyermek családi körülményei, sajátos helyzete indokolja. Ha az eljárásban szakértőt kell meghallgatni, csak az óvodavezető vagy a védőnő rendelhető ki, és a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a harmadik életévét betölti, a nevelési év kezdő napjától legalább napi négy órában óvodai foglalkozáson vesz részt. A szülő – tárgyév május 25. napjáig benyújtott – kérelme alapján a gyermek jogos érdekét szem előtt tartva, annak az évnek az augusztus 31. napjáig, amelyben a gyermek a negyedik életévét betölti, a Kormány rendeletében kijelölt szerv (a továbbiakban: felmentést engedélyező szerv) felmentheti az óvodai foglalkozáson való részvétel alól, ha a gyermek családi körülményei, sajátos helyzete indokolja. Ha az eljárásban szakértőt kell meghallgatni, csak az óvodavezető vagy a védőnő rendelhető ki.
 
 (2a) A (2) bekezdésben foglalt döntés ellen közigazgatási pert a döntés közlésétől számított tizenöt napon belül lehet megindítani. A felmentést engedélyező szerv döntését a bíróság nem változtathatja meg.
 
@@ -1044,7 +1044,7 @@ továbbítható.
 
 45. § (1) Magyarországon – az e törvényben meghatározottak szerint – minden gyermek köteles az intézményes nevelés-oktatásban részt venni, tankötelezettségét teljesíteni.
 
-(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a hatodik életévét betölti, tankötelessé válik. A tankötelezettség teljesítése a tanév első tanítási napján kezdődik. A szülő kérelmére a felmentést engedélyező szerv döntése alapján a gyermek további egy nevelési évig óvodai nevelésben vehet részt. A szülő kérelmét az iskolakezdés évében január 15-éig nyújthatja be a felmentést engedélyező szervhez. Ha az eljárásban szakértőt kell meghallgatni, akkor csak szakértői bizottság rendelhető ki, és a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról. Ha a szakértői bizottság a szülői kérelem benyújtására nyitva álló határidő előtt a gyermek további egy nevelési évig óvodai nevelésben történő részvételét javasolja, a szülői kérelem benyújtására nincs szükség. Ha a gyermek az iskolába lépéshez szükséges fejlettséget korábban eléri, a felmentést engedélyező szerv a szülő kérelmére engedélyezheti, hogy a gyermek hatéves kora előtt megkezdje tankötelezettségének teljesítését. A bíróság eljárására alkalmazni kell a (6b)–(6f) bekezdésében foglaltakat.
+(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a hatodik életévét betölti, tankötelessé válik. A tankötelezettség teljesítése a tanév első tanítási napján kezdődik. A szülő kérelmére a felmentést engedélyező szerv döntése alapján a gyermek további egy nevelési évig óvodai nevelésben vehet részt. A szülő kérelmét az iskolakezdés évében január 15-éig nyújthatja be a felmentést engedélyező szervhez. Ha az eljárásban szakértőt kell meghallgatni, akkor csak szakértői bizottság rendelhető ki. Ha a szakértői bizottság a szülői kérelem benyújtására nyitva álló határidő előtt a gyermek további egy nevelési évig óvodai nevelésben történő részvételét javasolja, a szülői kérelem benyújtására nincs szükség. Ha a gyermek az iskolába lépéshez szükséges fejlettséget korábban eléri, a felmentést engedélyező szerv a szülő kérelmére engedélyezheti, hogy a gyermek hatéves kora előtt megkezdje tankötelezettségének teljesítését. A bíróság eljárására alkalmazni kell a (6b)–(6f) bekezdésében foglaltakat.
 
 (3) A tankötelezettség annak a tanévnek a végéig tart, amelyben a tanuló a tizenhatodik életévét betölti. A sajátos nevelési igényű tanuló tankötelezettsége meghosszabbítható annak a tanítási évnek a végéig, amelyben a huszonharmadik életévét betölti. A tankötelezettség meghosszabbításáról a szakértői bizottság szakértői véleménye alapján az iskola igazgatója dönt.
 
@@ -1054,7 +1054,7 @@ továbbítható.
 
 (5a) A készségfejlesztő iskola a tanuló javára köteles felelősségbiztosítást kötni, amely kiterjed a tanulói balesetekre és a tanuló által okozott kárra. Az e bekezdésben meghatározottak fedezetét a fenntartó külön előirányzatban köteles biztosítani.
 
-(6) A felmentést engedélyező szerv dönt arról, hogy a tanuló a tankötelezettségének egyéni munkarend keretében tehet eleget. Az eljárás során a felmentést engedélyező szerv megkeresheti a gyámhatóságot, a gyermekjóléti szolgálatot, az iskolaigazgatót, gyermekvédelmi gondoskodásban részesülő tanuló esetén a gyermekvédelmi gyámot. Az eljárásban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(6) A felmentést engedélyező szerv dönt arról, hogy a tanuló a tankötelezettségének egyéni munkarend keretében tehet eleget. Az eljárás során a felmentést engedélyező szerv megkeresheti a gyámhatóságot, a gyermekjóléti szolgálatot, az iskolaigazgatót, gyermekvédelmi gondoskodásban részesülő tanuló esetén a gyermekvédelmi gyámot.
 
 (6a) Ha az egyéni munkarendben tanuló neki felróható okból két alkalommal nem jelenik meg az osztályozó vizsgán, vagy két alkalommal nem teljesíti a tanulmányi követelményeket, az iskola igazgatója értesíti a felmentést engedélyező szervet, és a tanuló a következő félévtől csak iskolába járással teljesítheti a tankötelezettségét.
 
@@ -2603,7 +2603,7 @@ nyújthat be.
 
 (4) A tankönyvvé nyilvánítási eljárásban az ügyintézési határidő három hónap.
 
-(5) A tankönyvvé nyilvánítási eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(5)
 
 93/C. § (1) A tankönyvjegyzéket a hivatal vezeti. A hivatal
 
@@ -2835,11 +2835,11 @@ kapcsolatosan eljáró, felmentést engedélyező szervet rendeletben jelölje k
 
 (3) A kerettanterv jóváhagyásával összefüggő eljárásokban az ügyintézési határidő három hónap. A nevelési-oktatási programok akkreditálásával összefüggő eljárások esetében az ügyintézési határidő négy hónap.
 
-(3a) Az egyházi jogi személyek, a nemzetiségi önkormányzatok és a magánintézmények – a központi költségvetésről szóló törvényben biztosított – fenntartói támogatásával kapcsolatos ügyekben az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható, a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról és az ellenőrzés a fenntartó kérelmére nem indítható meg.
+(3a) Az egyházi jogi személyek, a nemzetiségi önkormányzatok és a magánintézmények – a központi költségvetésről szóló törvényben biztosított – fenntartói támogatásával kapcsolatos ügyekben az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható és az ellenőrzés a fenntartó kérelmére nem indítható meg.
 
 (3b) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos elsőfokú határozat ellen fellebbezésnek van helye.
 
-(3c) A köznevelési intézmény nyilvántartásba vételére vonatkozó eljárásban, a működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban, a kerettanterv jóváhagyásával összefüggő eljárásban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(3c)
 
 (3d)
 

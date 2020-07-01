@@ -2050,7 +2050,7 @@ de legfeljebb az attól számított ésszerű időn belül köteles gondoskodni.
 
 - a) a 89. § szerinti termékértékesítés vagy olyan szolgáltatásnyújtás esetén, amely után az adót a Héa-irányelv 196. cikkének tartalmában megfelelő tagállami szabályozás alapján a szolgáltatást igénybevevő fizeti, a teljesítés hónapját követő hónap 15. napján belüli,
 - b) az a) pont alá nem tartozó, valamint a kezelőszemélyzet nélküli automata berendezés útján teljesített termékértékesítéstől, szolgáltatásnyújtástól eltérő olyan esetekben, ahol az ellenértéket – ideértve az előleget is – készpénzzel vagy készpénz-helyettesítő fizetési eszközzel térítik meg, haladéktalan,
-- c) egyéb, a b) pont alá nem tartozó olyan esetben, amelyben a számla áthárított adót tartalmaz, vagy annak áthárított adót kellene tartalmaznia, 15 napon belüli
+- c) egyéb, a b) pont alá nem tartozó olyan esetben, amelyben a számla áthárított adót tartalmaz, vagy annak áthárított adót kellene tartalmaznia, 8 napon belüli
 
 számlakibocsátási kötelezettséget jelent.
 
@@ -2071,7 +2071,7 @@ számlakibocsátási kötelezettséget jelent.
 
 165. § (1) Mentesül a számlakibocsátási kötelezettség alól az adóalany abban az esetben, ha
 
-- a) termék értékesítése, szolgáltatás nyújtása a 85. § (1) bekezdése és 86. § (1) bekezdése szerint mentes az adó alól, feltéve, hogy gondoskodik olyan, az ügylet teljesítését tanúsító okirat kibocsátásáról, amely a számvitelről szóló törvény (a továbbiakban: Számv. tv.) rendelkezései szerint számviteli bizonylatnak minősül;
+- a) termék értékesítése, szolgáltatás nyújtása a 85. § (1) bekezdés a), b), d), f)–o) pontja és a 86. § (1) bekezdés a)–i), l), m) pontja szerint mentes az adó alól, feltéve, hogy gondoskodik olyan, az ügylet teljesítését tanúsító okirat kibocsátásáról, amely a számvitelről szóló törvény (a továbbiakban: Számv. tv.) rendelkezései szerint számviteli bizonylatnak minősül;
 - b) a termék beszerzője, szolgáltatás igénybevevője az ellenérték adót is tartalmazó összegét legkésőbb a 163. § (1) bekezdésének a) pontjában, illetve a 164. § (1) bekezdésének a) pontjában említett időpontig készpénzzel, készpénz-helyettesítő fizetési eszközzel, pénzhelyettesítő eszközzel vagy többcélú utalvánnyal maradéktalanul megtéríti, és számla kibocsátását az adóalanytól nem kéri;
 - c) a légi személyszállítás nyújtása a 105. § szerint mentes az adó alól, feltéve, hogy gondoskodik olyan, az ügylet teljesítését tanúsító okirat kibocsátásáról, amely a Számv. tv. rendelkezései szerint számviteli bizonylatnak minősül.
 
@@ -2083,6 +2083,8 @@ számlakibocsátási kötelezettséget jelent.
 - b) az a) pont alá nem tartozó személy, szervezet részére történik, és az ellenérték adót is tartalmazó összege eléri vagy meghaladja a 900 000 forintnak megfelelő pénzösszeget.
 
 (4) Az (1) bekezdés c) pontja nem alkalmazható abban az esetben, ha a légi személyszállítás igénybevevője az adóalanytól számla kibocsátását kéri.
+
+(5) Az (1) bekezdés a) pontja nem alkalmazható a 85. § (2) bekezdésében meghatározott egyéb oktatás nyújtása esetén.
 
 165/A. §
 
@@ -2122,7 +2124,7 @@ számlakibocsátási kötelezettséget jelent.
 - d) a termék beszerzőjének, szolgáltatás igénybevevőjének
   - da) adószáma, amely alatt mint adófizetésre kötelezettnek a termék értékesítését, szolgáltatás nyújtását teljesítették, vagy
   - db) adószáma, amely alatt a 89. §-ban meghatározott termékértékesítést részére teljesítették, vagy
-  - dc) adószámának vagy csoportos általános forgalmiadó-alanyiság esetén csoportazonosító számának első nyolc számjegye, amely alatt, mint belföldön nyilvántartásba vett adóalany részére a termékértékesítést, szolgáltatásnyújtást teljesítették, feltéve, hogy a terméket beszerző, szolgáltatást igénybevevő adóalanyra a k) pont szerinti áthárított adó a 100 000 forintot eléri vagy meghaladja és a termék értékesítője, szolgáltatás nyújtója gazdasági céllal belföldön telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön;
+  - dc) adószámának vagy csoportos általános forgalmiadó-alanyiság esetén csoportazonosító számának első nyolc számjegye, amely alatt, mint belföldön nyilvántartásba vett adóalany részére a termékértékesítést, szolgáltatásnyújtást teljesítették, feltéve, hogy a termék értékesítője, szolgáltatás nyújtója gazdasági céllal belföldön telepedett le, gazdasági célú letelepedés hiányában pedig lakóhelye vagy szokásos tartózkodási helye van belföldön;
 - e) a termék értékesítőjének, szolgáltatás nyújtójának, valamint a termék beszerzőjének, szolgáltatás igénybevevőjének neve és címe;
 - f) az értékesített termék megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott vtsz., továbbá mennyisége vagy a nyújtott szolgáltatás megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott TESZOR'15, továbbá mennyisége, feltéve, hogy az természetes mértékegységben kifejezhető;
 - g) a 163. § (1) bekezdés a) és b) pontjában említett időpont, ha az eltér a számla kibocsátásának keltétől;
@@ -3675,6 +3677,12 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 (2) Nyilatkozattétel hiányában úgy kell tekinteni, hogy az adóalany 2020. január 1. napjától e törvénynek a választás hiányában rá irányadó szabályait alkalmazza.
 
+337. § Az adólevonási jog gyakorlására vonatkozó tárgyi feltételt – az egyéb, e törvényben meghatározott feltételek fennállása esetén – teljesíti az olyan 2020. július 1-jét megelőzően, de 2020. június 30-át követő teljesítési időponttal kibocsátott, kiállított, 100 000 forintot el nem érő áthárított adót tartalmazó számla is, amely nem tartalmazza a Versenyképesebb Magyarországért program egyes adóintézkedéseinek megvalósítását szolgáló törvények módosításáról szóló 2019. évi C. törvénnyel módosított 169. § d) pont dc) alpontja szerinti adatot.
+
+338. § (1) E törvény 10. számú melléklete 2020. június 30. napján hatályos 1–4., 12–13. pontjait kell alkalmazni azon számla, számlával egy tekintet alá eső okirat esetén, amely alapján az adóalany 2020. június 30. napját magában foglaló adómegállapítási időszakban gyakorol levonási jogot, veszi figyelembe a módosítás vagy érvénytelenítés hatását.
+
+(2) E törvény 10. számú melléklete 2020. június 30. napján hatályos 5. és 7–8. pontját kell alkalmazni a 2020. július 1. napja előtt kibocsátott számla, számlával egy tekintet alá eső okirat esetén. E törvény 10. számú melléklete 2020. június 30. napján hatályos 6. pontját kell alkalmazni a 2020. július 1. napja előtt kiállított számla, számlával egy tekintet alá eső okirat esetén.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -4221,27 +4229,22 @@ B. pont
 
 #### Összesítő jelentés
 
-- 1. Az adóalany termék beszerzése, szolgáltatás igénybevétele esetén azon számlákról, amelyekben az áthárított adó összege a 100 000 forintot eléri vagy meghaladja, arról az adómegállapítási időszakról teljesítendő bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számla alapján adólevonási jogot gyakorol, számlánként nyilatkozni köteles:
+Számla kiállítása, -kibocsátása
+
+- 1. Az adóalany köteles az állami adó- és vámhatóság részére adatot szolgáltatni egy másik, belföldön nyilvántartásba vett adóalany részére belföldön teljesített termékértékesítéséről – ide nem értve a 89. § szerinti termékértékesítést –, szolgáltatásnyújtásáról kibocsátott vagy kiállított számláról, számlával egy tekintet alá eső okiratról.
+- 2. A nyomdai úton előállított nyomtatvány használatával kibocsátott számla 169. § szerinti, számlával egy tekintet alá eső okirat 170. § szerinti adattartalmáról köteles adatot szolgáltatni az adóalany.
+- 3. Amennyiben a nyomdai úton előállított nyomtatvány használatával kibocsátott számlában vagy számlával egy tekintet alá eső okiratban az áthárított adó összege az 500 000 forintot eléri vagy meghaladja, az adóalany a számla kibocsátását követő naptári napon belül, egyéb esetben a kibocsátást követő négy naptári napon belül köteles adatot szolgáltatni.
+- 4. A számlázási funkcióval rendelkező programmal kiállított számla, számlával egy tekintet alá eső okirat esetében az adóalany külön jogszabályban meghatározott elektronikus módon teljesít adatszolgáltatást a számla, számlával egy tekintet alá eső okirat külön jogszabályban meghatározott adattartalmáról.
+- 5. Amennyiben az adóalany az általa teljesített termékértékesítéshez, szolgáltatáshoz 59. § szerinti előleget kapott, a teljesítésről kibocsátott, kiállított számla, számlával egy tekintet alá eső okirat vonatkozásában az előleg figyelembevételével adódó különbözetről szolgáltat adatot.
+- 6. Az 1–5. pont szerinti adatszolgáltatást az állami adó- és vámhatóság által erre a célra biztosított elektronikus felületen kell teljesíteni. Az elektronikus felület az adóalany egyedi azonosítására szolgáló adatok igénylését követően használható. Az azonosító adatokat az adóalany vagy annak Air. szerinti állandó meghatalmazottja igényli.
+- 7. Az 1–5. pont szerinti adatszolgáltatást az adóalany nevében az a személy is teljesítheti, akit az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 6. pont szerinti elektronikus felületen megjelöl. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja által megjelölt személy által teljesített valamennyi adatszolgáltatás az adóalany nevében tett jognyilatkozatnak minősül.
+- 8. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 6. pont szerinti elektronikus felületen megjelöli azon személyt, akinek az elektronikus felületen szolgáltatott adatokhoz hozzáférési lehetőséget ad. Számla befogadása
+- 9. Az adóalany termék beszerzése, szolgáltatás igénybevétele esetén arról az adómegállapítási időszakról teljesítendő bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számla alapján adólevonási jogot gyakorol, számlánként nyilatkozni köteles:
   - a) a terméket értékesítő, szolgáltatást nyújtó adóalany – ideértve az Eva. hatálya alá tartozó személyt, szervezetet is – adószámának, csoportos adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről,
   - b) a nevére szóló számlában feltüntetett adóalapról és áthárított adó összegről, a számla sorszámáról, valamint
   - c) a számlában a 169. § g) pontja szerint feltüntetett időpontról, ennek hiányában a számla kibocsátásának keltéről.
-- 2.
-- 3. Számla módosítása esetén a számlával egy tekintet alá eső okiratot befogadó adóalany abban a bevallásban, amelyben a módosítás hatását figyelembe veszi, akkor köteles a módosított számlát érintően az 1. pont szerint nyilatkozni, ha a számlában áthárított adó akár a módosítást megelőzően, akár azt követően vagy a módosítást megelőzően és azt követően is eléri vagy meghaladja a 100 000 forintot. Ebben az esetben az adóalany nyilatkozik annak a számlának az 1. pontban meghatározott adatairól, amelyet a módosítás érint, a módosítás számszaki hatásáról az adóalap és áthárított adó tekintetében, valamint a számlát módosító okirat sorszámáról.
-- 4. Számla érvénytelenítése esetén a számlával egy tekintet alá eső okiratot befogadó adóalany, amennyiben az érvénytelenített számlában – ideértve a módosított számlát is – áthárított adó összege elérte vagy meghaladta a 100 000 forintot, abban a bevallásban, amelyben az érvénytelenítés hatását figyelembe veszi, köteles a számlát érintően az 1. pont szerinti adatokról, valamint a számlát érvénytelenítő okirat sorszámáról nyilatkozni.
-- 5. Az adóalany termék értékesítése, szolgáltatás nyújtása esetén azon nyomdai úton előállított nyomtatvány használatával kibocsátott számlákról, amelyekben egy másik, belföldön nyilvántartásba vett adóalanyra áthárított adó összege
-  - a) a 100 000 forintot eléri vagy meghaladja, de az 500 000 forintot nem éri el, a számla kibocsátását követő öt naptári napon belül,
-  - b) az 500 000 forintot eléri vagy meghaladja, a számla kibocsátását követő naptári napon belül számlánként köteles a számla 169. § szerinti tartalmáról adatot szolgáltatni.
-- 6. Az adóalany külön jogszabályban meghatározott elektronikus módon számlánként adatszolgáltatást teljesít az állami adó- és vámhatóság részére azon számlázási funkcióval rendelkező programmal kiállított számlák külön jogszabályban meghatározott adattartalmáról, amelyekben egy másik, belföldön nyilvántartásba vett adóalanyra áthárított adó összege a 100 000 forintot eléri vagy meghaladja. Az adóalany ezen számlákat érintő módosításról vagy érvénytelenítésről is külön jogszabályban meghatározott módon elektronikus adatszolgáltatást teljesít. Szintén külön jogszabályban meghatározott módon kell elektronikus adatszolgáltatást teljesíteni azon módosításokról, amikor a módosítást követően éri el vagy haladja meg a 100 000 forintot a számlában áthárított adó.
-- 7. Számla nyomdai úton előállított nyomtatvány használatával történő módosítása esetén a számlával egy tekintet alá eső okiratot kibocsátó adóalany köteles ezen okirat 170. § szerinti tartalmáról adatot szolgáltatni annak kibocsátását követő
-  - a) öt naptári napon belül, ha a számlában áthárított adó akár a módosítást megelőzően, akár azt követően vagy a módosítást megelőzően és azt követően is eléri vagy meghaladja a 100 000 forintot, de nem éri el az 500 000 forintot,
-  - b) naptári napon belül, ha a számlában áthárított adó akár a módosítást megelőzően, akár azt követően vagy a módosítást megelőzően és azt követően is eléri vagy meghaladja az 500 000 forintot.
-- 8. Számla nyomdai úton előállított nyomtatvány használatával történő érvénytelenítése esetén a számlával egy tekintet alá eső okiratot kibocsátó adóalany köteles ezen okirat 170. § szerinti tartalmáról adatot szolgáltatni annak kibocsátását követő
-  - a) öt naptári napon belül, ha az érvénytelenített számlában áthárított adó elérte vagy meghaladta a 100 000 forintot, de nem érte el az 500 000 forintot,
-  - b) naptári napon belül, ha az érvénytelenített számlában áthárított adó elérte vagy meghaladta az 500 000 forintot.
-- 9. Az 5–8. pont szerinti adatszolgáltatást az állami adó- és vámhatóság által erre a célra biztosított elektronikus felületen kell teljesíteni. Az elektronikus felület az adóalany egyedi azonosítására szolgáló adatok igénylését követően használható. Az azonosító adatokat az adóalany vagy annak Air. szerinti állandó meghatalmazottja igényli.
-- 10. Az 1–4. pont szerinti nyilatkozatra a bevallásra vonatkozó rendelkezéseket kell alkalmazni.
-- 11. A XIII/A. Fejezet szerinti adózási módot választó adóalany által kibocsátott számla esetében az 1–4. pont szerinti nyilatkozatot csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban kell megtenni, amelyben ezen számla alapján az adóalany első alkalommal adólevonási jogot érvényesít.
-- 12. A XIII/A. Fejezet szerinti adózási módot választó adóalany termék beszerzése, szolgáltatás igénybevétele esetén az 1–4. pont szerinti nyilatkozatot ugyanazon számláról csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban teljesíti, amelyben ezen számla alapján első alkalommal adólevonási jogot érvényesít.
-- 13. Az adóalany választása szerint e melléklet szerinti kötelezettségének az 1–8. pontban meghatározott értékhatár figyelembevétele nélkül is eleget tehet.
-- 14. Az 5–8. pont szerinti adatszolgáltatást az adóalany nevében az a személy is teljesítheti, akit az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 9. pont szerinti elektronikus felületen megjelöl. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja által megjelölt személy által teljesített valamennyi adatszolgáltatás az adóalany nevében tett jognyilatkozatnak minősül.
-- 15. Az adóalany vagy annak Air. szerinti állandó meghatalmazottja a 9. pont szerinti elektronikus felületen megjelöli azon személyt, akinek az elektronikus felületen szolgáltatott adatokhoz hozzáférési lehetőséget ad.
+- 10. A 9. pont szerinti számla módosítása vagy érvénytelenítése esetén a számlával egy tekintet alá eső okiratot befogadó adóalany abban a bevallásban, amelyben a módosítás, érvénytelenítés hatását figyelembe veszi, köteles a módosított, érvénytelenített számlát érintően a 9. pont szerint nyilatkozni. Ebben az esetben az adóalany nyilatkozik annak a számlának a 9. pontban meghatározott adatairól, amelyet a módosítás, érvénytelenítés érint, a módosítás számszaki hatásáról az adóalap és áthárított adó tekintetében, valamint a számlát módosító, érvénytelenítő okirat sorszámáról.
+- 11. Amennyiben az adóalany 59. § szerinti előleget fizetett, a teljesítésről kibocsátott, kiállított számla, számlával egy tekintet alá eső okirat vonatkozásában az előleg figyelembevételével adódó különbözetről szolgáltat adatot.
+- 12. A 9–10. pont szerinti nyilatkozatra a bevallásra vonatkozó rendelkezéseket kell alkalmazni.
+- 13. A XIII/A. Fejezet szerinti adózási módot választó adóalany által kibocsátott számla esetében a 9–10. pont szerinti nyilatkozatot csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban kell megtenni, amelyben ezen számla alapján az adóalany első alkalommal adólevonási jogot érvényesít.
+- 14. A XIII/A. Fejezet szerinti adózási módot választó adóalany termék beszerzése, szolgáltatás igénybevétele esetén a 9–10. pont szerinti nyilatkozatot ugyanazon számláról csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban teljesíti, amelyben ezen számla alapján első alkalommal adólevonási jogot érvényesít.

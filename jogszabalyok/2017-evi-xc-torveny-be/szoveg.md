@@ -4629,7 +4629,7 @@ alkalmazhat.
 
 - 1. az adóhatóságtól,
 - 2. a vámhatóságtól,
-- 3. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § r) pontjában meghatározott igazgatási szervtől,
+- 3. a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 4. § 8. pontjában meghatározott igazgatási szervtől,
 - 4. az elektronikus hírközlési szolgáltatótól,
 - 5. a postai szolgáltatótól, illetve a postai közreműködői tevékenységet végző személytől vagy szervezettől,
 - 6. a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak vagy biztosítási titoknak minősülő adatot kezelő szervtől, ilyen adatra vonatkozóan,

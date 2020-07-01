@@ -52,7 +52,7 @@ amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatároz
 
 (6) E törvény hatálya nem terjed ki
 
-- a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.),
+- a) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.),
 - b) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.),
 - c) a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mny.),
 - d) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Eb.),
@@ -134,7 +134,7 @@ ha az e törvényben és más jogszabályokban meghatározott feltételek szerin
 
 (1b) Az (1) bekezdés a) pontjának alkalmazásában elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-(1c) Az (1) bekezdés a) pontjának alkalmazásában befizetési kötelezettségnek minősül a személyi jövedelemadó, az egyszerűsített vállalkozási adó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, járulék, egészségügyi szolgáltatási járulék, nyugdíjjárulék, nyugdíjbiztosítási járulék, magán-nyugdíjpénztári tagdíj és munkavállalói járulék.
+(1c) Az (1) bekezdés a) pontjának alkalmazásában befizetési kötelezettségnek minősül a személyi jövedelemadó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, a társadalombiztosítási járulék, a nyugdíjjárulék és az egészségügyi szolgáltatási járulék.
 
 (2) E törvény 6. §-a és a II - III. Fejezet alkalmazásában hajléktalan a bejelentett lakóhellyel nem rendelkező személy, kivéve azt, akinek bejelentett lakóhelye a hajléktalan szállás.
 
@@ -796,7 +796,7 @@ kell ismét folyósítani.
 
 (3a) Az egészségkárosodási és gyermekfelügyeleti támogatásra a 33. § (1) bekezdés a) pontja alapján jogosult személy esetében a jogosultság egészségi állapotra vonatkozó feltétele mindaddig fennáll, amíg az ellátásra való jogosultságot megalapozó, az egészségi állapot minősítését tartalmazó dokumentumban vagy a szakkérdés vizsgálata során előírt felülvizsgálatot el nem végezték.
 
-(4) Az egészségkárosodási és gyermekfelügyeleti támogatás havi összege a családi jövedelemhatár összegének és a jogosult családja havi összjövedelmének különbözete, de nem haladhatja meg a közfoglalkoztatási bér mindenkori kötelező legkisebb összege személyi jövedelemadóval, munkavállalói, egészségbiztosítási és nyugdíjjárulékkal csökkentett összegének (e § alkalmazásában: nettó közfoglalkoztatási bér) 90%-át azzal, hogy ha az egészségkárosodási és gyermekfelügyeleti támogatásra jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, az egészségkárosodási és gyermekfelügyeleti támogatás összege nem haladhatja meg a nettó közfoglalkoztatási bér 90%-ának és a foglalkoztatást helyettesítő támogatás összegének különbözetét. A családi jövedelemhatár összege megegyezik a család fogyasztási egységeihez tartozó arányszámok összegének és az öregségi nyugdíj mindenkori legkisebb összege 95%-ának szorzatával.
+(4) Az egészségkárosodási és gyermekfelügyeleti támogatás havi összege a családi jövedelemhatár összegének és a jogosult családja havi összjövedelmének különbözete, de nem haladhatja meg a közfoglalkoztatási bér mindenkori kötelező legkisebb összege személyi jövedelemadóval és társadalombiztosítási járulékkal csökkentett összegének (e § alkalmazásában: nettó közfoglalkoztatási bér) 90%-át azzal, hogy ha az egészségkárosodási és gyermekfelügyeleti támogatásra jogosult családja tagjának foglalkoztatást helyettesítő támogatásra való jogosultságot állapítottak meg, az egészségkárosodási és gyermekfelügyeleti támogatás összege nem haladhatja meg a nettó közfoglalkoztatási bér 90%-ának és a foglalkoztatást helyettesítő támogatás összegének különbözetét. A családi jövedelemhatár összege megegyezik a család fogyasztási egységeihez tartozó arányszámok összegének és az öregségi nyugdíj mindenkori legkisebb összege 95%-ának szorzatával.
 
 (5) Ha az egészségkárosodási és gyermekfelügyeleti támogatás összege a (4) bekezdésben foglalt számítás szerint a havi ezer forintot nem éri el, a jogosult részére ezer forint összegű ellátást kell megállapítani.
 
@@ -851,7 +851,7 @@ gondoskodik.
 
 (3) A gyermekek otthongondozási díjának havi összege a más rendszeres pénzellátásban – ide nem értve a 39/B. § (5) bekezdés a) pontja szerinti rendszeres pénzellátásokat, ha a 39/B. § (5) bekezdés b) és c) pontjában meghatározott feltételek fennállnak, továbbá a szülő részére folyósított csecsemőgondozási díjat, gyermekgondozási díjat vagy gyermekgondozást segítő ellátást, ha azt nem a gyermekek otthongondozási díjára jogosító gyermekre tekintettel állapították meg, továbbá a gyermeknevelési támogatást – részesülő jogosult esetén az (1) vagy (2) bekezdés szerinti összegnek és a jogosult részére folyósított más rendszeres pénzellátás havi bruttó összegének a különbözete. Ha a különbözet az ezer forintot nem éri el, a jogosult részére ezer forint összegű ellátást kell megállapítani.
 
-(4) A gyermekek otthongondozási díja folyósításának időtartama szolgálati időre jogosít. A gyermekek otthongondozási díjában részesülő személy – ide nem értve a Tbj. 26. §-a alapján nyugdíjjárulék fizetésére nem kötelezett személyt – az ellátás után nyugdíjjárulék vagy magán-nyugdíjpénztári tagság esetén tagdíj fizetésére kötelezett.
+(4) A gyermekek otthongondozási díja folyósításának időtartama szolgálati időre jogosít. A gyermekek otthongondozási díjában részesülő személy – ide nem értve a Tbj. 37. §-a alapján nyugdíjjárulék fizetésére nem kötelezett személyt – az ellátás után nyugdíjjárulék fizetésére kötelezett.
 
 39/B. § (1) Nem jogosult gyermekek otthongondozási díjára a szülő, ha
 
@@ -1029,7 +1029,7 @@ személy.
 
 (2) Az ápolási díj havi összege a más rendszeres pénzellátásban – ide nem értve a 42. § (4) bekezdés a) pontja szerinti rendszeres pénzellátásokat, ha a 42. § (4) bekezdésében foglalt feltételek fennállnak – részesülő jogosult esetén az (1) bekezdés szerinti összegnek és a jogosult részére folyósított más rendszeres pénzellátás havi bruttó összegének a különbözete. Ha a különbözet az ezer forintot nem éri el, a jogosult részére ezer forint összegű ápolási díjat kell megállapítani.
 
-(3) Az ápolási díj folyósításának időtartama szolgálati időre jogosít. Az ápolási díjban részesülő személy – ide nem értve a Tbj. 26. §-a alapján nyugdíjjárulék fizetésére nem kötelezett személyt – az ellátás után nyugdíjjárulék vagy magán-nyugdíjpénztári tagság esetén tagdíj fizetésére kötelezett.
+(3) Az ápolási díj folyósításának időtartama szolgálati időre jogosít. Az ápolási díjban részesülő személy – ide nem értve a Tbj. 37. §-a alapján nyugdíjjárulék fizetésére nem kötelezett személyt – az ellátás után nyugdíjjárulék fizetésére kötelezett.
 
 (4)
 
@@ -1412,7 +1412,7 @@ ellátott személyek száma, teljesített feladatmutató, illetve betöltött f�
 
 (6) A kincstárnak az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásának ellenőrzését a szociális szolgáltatónál, szociális intézménynél (székhelynél, telephelynél), illetve a fenntartónál lefolytató területi szerve (a továbbiakban: ellenőrző igazgatóság) az ellenőrzésről a jegyzőkönyvet a fenntartóhoz tartozó, általa ellenőrzött valamennyi szociális szolgáltató, szociális intézmény (székhely, telephely), illetve a fenntartó ellenőrzésének lezárását követő húsz napon belül küldi meg a fenntartónak, amely az abban foglaltakra a kézhezvételtől számított húsz napon belül tehet észrevételeket. Ha az ellenőrző igazgatóság a fenntartó észrevételeivel egyetért, a jegyzőkönyvet tíz napon belül módosítja, és megküldi a fenntartó részére. Az ellenőrző igazgatóság a végleges jegyzőkönyvet a fenntartó észrevételeivel és – el nem fogadott észrevételek esetén – az elutasítás indokaival együtt öt napon belül megküldi a kincstárnak az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásának ellenőrzését elrendelő területi szerve részére (a továbbiakban: ellenőrzést elrendelő igazgatóság). Az ellenőrzést elrendelő igazgatóság az ellenőrzés során megállapított többlettámogatásról, visszafizetésről és kamatfizetésről első fokon – a végleges ellenőrzési jegyzőkönyvek elkészítését, illetve, ha más ellenőrző igazgatóság bevonására is sor került, valamennyi végleges jegyzőkönyvnek az ellenőrzést elrendelő igazgatósághoz történő beérkezését követő – hatvan napon belül határoz.
 
-(7) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos ügyekben az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható, a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról és az ellenőrzés a fenntartó kérelmére nem indítható meg.
+(7) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos ügyekben az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható és az ellenőrzés a fenntartó kérelmére nem indítható meg.
 
 (8) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos határozat ellen fellebbezésnek van helye.
 
@@ -3386,6 +3386,8 @@ járul hozzá.
 (2) A családvédelmi akciótervvel összefüggő egyes törvények módosításáról szóló 2019. évi CXXVI. törvénnyel megállapított 68/C. § szerinti idősek otthonának szabályai csak a szolgáltatói nyilvántartásba 2020. január 1-jét követően bejegyzésre kerülő intézmények esetében alkalmazhatóak.
 
 135. § E törvénynek a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvénnyel megállapított 45. § (2a) bekezdését a 2015. február 28-án hatályos 43/B. § alapján 2015. március 1-jét megelőző kezdő időponttal megállapított és 2015. március 1-jétől települési támogatásként nyújtott méltányossági ápolási díjra is alkalmazni kell.
+
+135/A. § A 2020. július 1-jét megelőző időszakra szerzett jövedelem figyelembevétele során a 2020. június 30-án hatályos 4. § (1c) bekezdését kell alkalmazni.
 
 136. § (1) Az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2015. évi CXXXIII. törvénnyel megállapított 37/B. § (1) bekezdésében foglaltakat a közfoglalkoztatásba a hatálybalépést követően bevont egészségkárosodási és gyermekfelügyeleti ellátásban részesülő személyek esetében kell alkalmazni.
 
