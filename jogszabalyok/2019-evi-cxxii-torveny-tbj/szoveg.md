@@ -1205,10 +1205,7 @@ a 25 százalékot.
 
 #### 32. Hatályon kívül helyező rendelkezések
 
-98. § Hatályát veszti
-
-- a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény,
-- b) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet.
+#### 98. §
 
 #### 33. Átmeneti rendelkezések
 
@@ -1245,574 +1242,221 @@ a 25 százalékot.
 
 #### 35. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-107. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 27. §-a a következő (5b) bekezdéssel egészül ki:
+#### 107. §
 
-„(5b) A mezőgazdasági őstermelői igazolvánnyal folytatott tevékenység abban az esetben minősül az (1) bekezdés szerinti jogosultsági időnek, ha annak időtartama alatt a mezőgazdasági őstermelő álláskeresési ellátásban nem részesül.”
+#### 108. §
 
-108. § Az Flt. a következő 59/E. §-sal egészül ki:
-
-„59/E. § A 27. § (1) bekezdése szerinti jogosultsági időbe a 2020. július 1-jét követően szerzett a díjazás ellenében egyéb munkavégzésre irányuló jogviszonyban, mezőgazdasági őstermelői tevékenységben töltött időtartam számítható be.”
-
-109. § Az Flt.
-
-- 1. 26. § (1) bekezdésében az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 19. §-ának (3) bekezdésében meghatározott munkaerő-piaci járulék” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 23. § (1) bekezdés a) pontjában meghatározott társadalombiztosítási járulék” szöveg,
-- 2. 27. § (1) bekezdésében a „töltött, vagy egyéni,” szövegrész helyébe a „megbízási jogviszonyban töltött, mezőgazdasági őstermelői igazolvánnyal tevékenységet folytatott, feltéve, hogy mezőgazdasági őstermelői tevékenysége alatt járulékfizetési kötelezettségének eleget tett, vagy egyéni,” szöveg,
-- 3. 36/B. § (1) bekezdésében a „Tbj. 56/A. §-a” szövegrész helyébe a „Tbj. 87. §-a” szöveg,
-- 4. 36/B. § (1) bekezdésében és 57/A. § (3) bekezdés d) pontjában a „munkaerő-piaci” szövegrész helyébe a „társadalombiztosítási” szöveg,
-- 5. 39/C. § (1) bekezdés a) pontjában az „az egészségbiztosítási- és munkaerőpiaci” szövegrész helyébe az „a társadalombiztosítási” szöveg,
-- 6. 58. § (5) bekezdés s) pontjában a „Tbj. 5. §-a (1) bekezdésének e) pontja szerint biztosított, a Tbj. 4. §-ának b) pontjában” szövegrész helyébe a „Tbj. 6. § (1) bekezdés d) pontja szerint biztosított, a Tbj. 4. § 2. pontjában” szöveg,
-- 7. 58. § (5) bekezdés t) pontjában a „Tbj. 5. §-a (1) bekezdésének f) pontja szerint biztosított, a Tbj. 4. §-ának d) pontjában” szövegrész helyébe a „Tbj. 6. § (1) bekezdés e) pontja szerint biztosított, a Tbj. 4. § 21. pontjában” szöveg,
-- 8. 59/C. § (3) bekezdésében a „Tbj.” szövegrész helyébe az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény” szöveg
-
-lép.
+#### 109. §
 
 #### 36. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-110. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 37. § (4) bekezdés a) pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 58. § (2) bekezdése alapján a Kormány rendeletében meghatározott, társadalombiztosítási feladatokat ellátó szervek” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerinti társadalombiztosítási feladatokat ellátó szervek” szöveg lép.
+#### 110. §
 
 #### 37. A társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló 1992. évi LXXXIV. törvény módosítása
 
-111. § A társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló 1992. évi LXXXIV. törvény
-
-- 1. 4. § (3) bekezdés b) pont 1. alpontjában az „a biztosítotti nyugdíjjárulék” szövegrész helyébe az „a biztosított által fizetett társadalombiztosítási járulékból a Nyugdíjbiztosítási Alapot megillető rész” szöveg;
-- 2. 5. § (3) bekezdés b) pontjában az „a biztosított által fizetett egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék)” szövegrész helyébe az „a biztosított által fizetett társadalombiztosítási járulék Egészségbiztosítási Alapot megillető része” szöveg
-
-lép.
+#### 111. §
 
 #### 38. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-112. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 3. § (6) bekezdés a) pontja helyébe a következő rendelkezés lép:
+#### 112. §
 
-(E törvény hatálya nem terjed ki)
+#### 113. §
 
-„<i>a) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.),”
+#### 114. §
 
-(hatálya alá tartozó ellátásokra.)
+#### 115. §
 
-113. § Az Szt. 4. § (1c) bekezdése helyébe a következő rendelkezés lép:
-
-„(1c) Az (1) bekezdés a) pontjának alkalmazásában befizetési kötelezettségnek minősül a személyi jövedelemadó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, a társadalombiztosítási járulék, a nyugdíjjárulék és az egészségügyi szolgáltatási járulék.”
-
-114. § Az Szt. a következő 135/A. §-sal egészül ki:
-
-„135/A. § A 2020. július 1-jét megelőző időszakra szerzett jövedelem figyelembevétele során a 2020. június 30-án hatályos 4. § (1c) bekezdését kell alkalmazni.”
-
-115. § Az Szt.
-
-- 1. 37. § (4) bekezdésében a „, munkavállalói, egészségbiztosítási és nyugdíjjárulékkal” szövegrész helyébe az „és társadalombiztosítási járulékkal” szöveg,
-- 2. Szt. 39/A. § (4) bekezdésében, 44. § (3) bekezdésében a „26. §-a” szövegrész helyébe a „37. §-a” szöveg
-
-lép.
-
-116. § Hatályát veszti az Szt. 39/A. § (4) bekezdésében, 44. § (3) bekezdésében a „vagy magán-nyugdíjpénztári tagság esetén tagdíj” szövegrész.
+#### 116. §
 
 #### 39. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-117. § A bányászatról szóló 1993. évi XLVIII. törvény 49/C. § (3) bekezdésében a „társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 83/B. §-a” szövegrész helyébe a „korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. §-a” szöveg lép.
+#### 117. §
 
 #### 40. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-118. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 61. § (1) bekezdésében az „egészségbiztosítási és nyugdíjjáruléknak” szövegrész helyébe a „társadalombiztosítási járuléknak” szöveg lép.
+#### 118. §
 
 #### 41. A Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosítása
 
-119. § A Bérgarancia Alapról szóló 1994. évi LXVI. törvény 5. § (2a) bekezdésében az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 56/A. § (3) bekezdése alapján” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 87. § (4) bekezdése alapján” szöveg lép.
+#### 119. §
 
 #### 42. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-120. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.)
+#### 120. §
 
-- a) 3. számú melléklete a 4. melléklet,
-- b) 5. számú melléklete az 5. melléklet,
-- c) 11. számú melléklete a 6. melléklet
-
-szerint módosul.
-
-121. § Az Szja tv.
-
-- 1. 1/B. § (1) bekezdésében az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.)” szöveg,
-- 2. 3. § 15. pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény” szövegrész helyébe a „Tbj.” szöveg,
-- 3. 7. § (1) bekezdés i) pontjában a „törvény rendelkezései” szövegrész helyébe a „Tbj.” szöveg,
-- 4. 7. § (1) bekezdés z) pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény (a továbbiakban: Tbj.) 5. §-ának (1)–(2) bekezdése” szövegrész helyébe az „a Tbj.” szöveg,
-- 5. 29/B. § (6) bekezdésében a „Tbj. 51. §-a vagy 51/A. §-a” szövegrész helyébe a „Tbj. 79. §-a vagy 80. §-a” szöveg,
-- 6. 53. § (2) bekezdésében az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény” szövegrész helyébe az „a Tbj.” szöveg,
-- 7. 1. számú melléklet 1.3 pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben” szövegrész helyébe az „a Tbj.-ben” szöveg
-
-lép.
+#### 121. §
 
 #### 43. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-122. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény
-
-- a) 3. § e) pontjában „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 58. §-ának (2) bekezdése alapján a Kormány rendeletében meghatározott, társadalombiztosítási feladatokat ellátó szervek” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerinti társadalombiztosítási feladatokat ellátó szervek” szöveg,
-- b) 23. § a) pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról szóló 1997. évi LXXX. törvényben” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvényben” szöveg
-
-lép.
+#### 122. §
 
 #### 44. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-123. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 3. számú melléklet A) Nem a vállalkozási tevékenység érdekében felmerülő egyes költségek, ráfordítások rész 7. pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerinti megállapodás alapján fizetett egészségbiztosítási” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerinti egészségügyi szolgáltatás biztosítására kötött megállapodás alapján fizetett” szöveg lép.
+#### 123. §
 
 #### 45. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-124. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 44. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+#### 124. §
 
-[Az (1) bekezdés alkalmazásában]
+#### 125. §
 
-„<i>a) foglalkoztató: a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 4. § 4. pont 4.1. és 4.2. alpontja szerinti személy, szervezet,”
-
-125. § A Gyvt.
-
-- a) 21/B. § (1) bekezdés a) pont ad) alpontjában a „ , munkavállalói, egészségbiztosítási és nyugdíjjárulékkal” szövegrész helyébe az „és társadalombiztosítási járulékkal” szöveg,
-- b) 148. § (10b) bekezdésében a „társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § a) pont 1. és 3. alpontja” szövegrész helyébe a „Tbj. 4. § 4. pont 4.1. és 4.2. alpontja” szöveg
-
-lép.
-
-126. § Hatályát veszti a Gyvt. 66/D. § (15)–(18) bekezdése.
+#### 126. §
 
 #### 46. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-127. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 4. § (1) bekezdése a következő c) ponttal egészül ki:
+#### 127. §
 
-(E törvény alkalmazásában)
+#### 128. §
 
-„c) nyugdíjjárulék: a 2020. július 1-jét megelőzően elért keresetek, jövedelmek tekintetében a nyugdíjjárulék, a 2020. július 1-jétől elért keresetek, jövedelmek tekintetében a társadalombiztosítási járulék és a nyugdíjjárulék;”
+#### 129. §
 
-128. § (1) A Tny. 22. § (1) bekezdés f) pontja helyébe a következő rendelkezések lépnek:
+#### 130. §
 
-[Az öregségi nyugdíj alapját képező havi átlagkereset összegét az 1988. január 1-jétől a nyugdíj megállapításának kezdő napjáig elért (kifizetett), a kifizetés idején érvényes szabályok szerint nyugdíjjárulék alapjául szolgáló kereset, jövedelem havi átlaga alapján kell meghatározni. Keresetként, jövedelemként kell figyelembe venni:]
+#### 131. §
 
-„f) a 2020. június 30-áig terjedő időszakra a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló 81%-át,”
+#### 132. §
 
-(2) A Tny. 22. §-a a következő (3a) bekezdéssel egészül ki:
+#### 133. §
 
-„(3a) A saját jogú nyugellátás mellett folytatott keresőtevékenységgel szerzett kereset, jövedelem összege az öregségi nyugdíj alapját képező havi átlagkereset kiszámítása során nem vehető figyelembe.”
+#### 134. §
 
-129. § A Tny. 42. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A saját jogú nyugellátás mellett folytatott keresőtevékenység időtartama szolgálati időként nem vehető figyelembe.”
-
-130. § A Tny. 83/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az újbóli folyósítás során a jogosultat az (1) bekezdés szerinti ellátás szüneteltetést megelőző összegének az időközi nyugdíjemelések mértékével megemelt összege illeti meg.”
-
-131. § A Tny. 96. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.”
-
-132. § A Tny. 96/A. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A társadalombiztosítási egyéni számla természetes személyenként tartalmazza)
-
-„b) a 2012. december 31-étől 2020. június 30-áig terjedő időszakra a biztosított után bevallott nyugdíjjárulék összegére, a 2020. július 1-jétől kezdődő időszakra a biztosított után bevallott társadalombiztosítási járuléknak a Nyugdíjbiztosítási Alapot nyugdíjjárulékként megillető összegére vonatkozó, az állami adóhatóságtól átvett adatokat,”
-
-133. § A Tny. 102/A. § (1)–(4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A saját jogú nyugellátás mellett 2020. július 1-jét megelőzően folytatott, nyugdíjjárulék-köteles keresettel, jövedelemmel járó keresőtevékenységre a 2020. június 30-án hatályos
-
-<i>a) 22/A. § (1), (2), (4) és (5) bekezdését, valamint
-
-b) 102/A. § (2)–(5) bekezdését
-
-kell alkalmazni.
-
-(2) A 2019. évi keresőtevékenységgel szerzett nyugdíjnövelést a nyugdíjbiztosítási igazgatási szerv
-
-<i>a) 2020. szeptember 30-áig hivatalból állapítja meg, ha kizárólag a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. § (1) bekezdés a) pontja szerinti jogviszonyból származó keresetet, jövedelmet kell figyelembe venni,
-
-b) 2020. október 31-éig hivatalból állapítja meg az <i>a) pontban nem említett esetben,
-
-kivéve, ha a nyugdíjnövelésre jogosult személy a nyugdíjnövelés megállapítása előtt elhunyt.
-
-(3) A 2020. január–június hónapjaiban végzett keresőtevékenységgel szerzett nyugdíjnövelést a nyugdíjbiztosítási igazgatási szerv
-
-<i>a) 2021. szeptember 30-áig hivatalból állapítja meg, ha kizárólag a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. § (1) bekezdés a) pontja szerinti jogviszonyból származó keresetet, jövedelmet kell figyelembe venni,
-
-b) 2021. október 31-éig hivatalból állapítja meg az <i>a) pontban nem említett esetben,
-
-kivéve, ha a nyugdíjnövelésre jogosult személy a nyugdíjnövelés megállapítása előtt elhunyt.
-
-(4) A szüneteltetett öregségi nyugdíj újbóli folyósítása során a jogosultat – a 83/A. § (3) bekezdésében foglaltakon túl, a növelés időpontjának figyelembevételével – a megállapított nyugdíjnövelés is megilleti.”
-
-134. § A Tny.
-
-- 1. 2. § (1) bekezdésében a „társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény” szövegrész helyébe a „társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény” szöveg,
-- 2. 22. § (1) bekezdés b) pontjában az „az 1998. január 1-je előtti rendelkezések szerinti, illetőleg 1998. január 1-jétől a Tbj.-ben meghatározott biztosítással” szövegrész helyébe az „a biztosítással” szöveg,
-- 3. 22. § (1) bekezdés i) pontjában a „30/A. §” szövegrész helyébe a „41. §” szöveg,
-- 4. 37. § (1) bekezdésében a „Tbj.-ben biztosítottnak” szövegrész helyébe a „biztosítottnak” szöveg, az „<i>a)–b)” szövegrész helyébe a „<i>a)–c)” szöveg,
-- 5. 37. § (2) bekezdésében a „Tbj. 5. § (1) bekezdés i) pontjában említett” szövegrész helyébe a „biztosítottnak minősülő” szöveg,
-- 6. 39. § (1) bekezdésében az „5. §-a (1) bekezdésének” szövegrész helyébe a „6. § (1) bekezdés” szöveg,
-- 7. 39. § (2) bekezdésében a „30/A. §-ának” szövegrész helyébe a „41. §” szöveg,
-- 8. 40. §-ában az „5. §” szövegrész helyébe a „6. §” szöveg,
-- 9. 43. § (3) bekezdésében a „47. § (3) bekezdése vagy 50. § (6) bekezdése” szövegrész helyébe a „75. § (2) bekezdése vagy 77. § (5) bekezdése” szöveg,
-- 10. 96/B. § (3) bekezdés e) pontjában a „járulék-, illetve nyugdíjjárulék-fizetés” szövegrész helyébe a „járulékfizetés” szöveg,
-- 11. 96/E. § (3) bekezdésében az „5. § (1) bekezdés i) pontja szerinti feltétel” szövegrész helyébe a „biztosítás fennállásának” szöveg
-
-lép.
-
-135. § Hatályát veszti a Tny.
-
-- 1. 2. § (5) bekezdésében az „élt a Tbj.-ben biztosított azon jogával, hogy” szövegrész,
-- 2. 5. § a) pontjában a „Tbj. szabályai alapján” szövegrész,
-- 3. 22. § (6) bekezdés a) pontjában a „2010. január 1-jétől” szövegrész,
-- 4. 22/A. §-a,
-- 5. 38. § (1) bekezdés a) pontjában a „Tbj.-ben meghatározott,” szövegrész,
-- 6. 83/B. §-a,
-- 7. 96/A. § (1) bekezdés c) pontjában a „Tbj. 34. §-a alapján kötött” szövegrész,
-- 8. 97. § (9) bekezdésében a „Tbj. 34. §-ában foglaltak alapján” szövegrész,
-- 9. 99/A. § (1) bekezdésében a „44. § (1) bekezdése” szövegrész,
-- 10. 102/A. § (5) bekezdése.
+#### 135. §
 
 #### 47. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-136. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 4. § (2) bekezdés k) pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény” szöveg lép.
+#### 136. §
 
 #### 48. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-137. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 5/B. § a) pont helyébe a következő rendelkezés lép:
+#### 137. §
 
-(E törvény alkalmazásában)
+#### 138. §
 
-„a) biztosított:
+#### 139. §
 
-<i>aa) az egészségbiztosítás egészségügyi szolgáltatásainak tekintetében a Tbj. 6. §-a szerinti biztosított, valamint a Tbj. 3. §-a és a 22. § (1) és (3) bekezdése szerint egészségügyi szolgáltatásra jogosult személy,
+#### 140. §
 
-<i>ab) az egészségbiztosítás pénzbeli ellátásai tekintetében a Tbj. 6. §-a szerinti biztosított,
-
-<i>ac) a baleseti táppénz és baleseti járadék tekintetében a Tbj. 6. §-a szerinti biztosított,
-
-<i>ad) a baleseti egészségügyi szolgáltatás tekintetében a Tbj. 6. §-a szerinti biztosított, a Tbj. 21. §-a szerint baleseti egészségügyi szolgáltatásra jogosult személy, valamint az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 7. § (2) bekezdése szerinti foglalkoztatás keretében alkalmazott munkavállaló,”
-
-138. § (1) Az Ebtv. 5/C. § (1) bekezdés b) pont bc)–be) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„bc) egyéni és társas vállalkozók esetében a jogosultság kezdő napján érvényes minimálbér,
-
-bd) a Tbj. 6. § (1) bekezdés f) pontja esetében a 30 napot meg nem haladó biztosítási jogviszony esetén az ellátásra való jogosultság kezdő napján érvényes minimálbér, egyéb esetben a jogviszony alapjául szolgáló szerződésben meghatározott díj,
-
-be) mezőgazdasági őstermelő esetében a jogosultság kezdő napján érvényes minimálbér 92 százaléka,”
-
-(2) Az Ebtv. 5/C. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„d) kereset: a Tbj. 6. §-ában meghatározott jogviszonyban személyes munkavégzésért járó társadalombiztosítási járulékalapot képező jövedelem.”
-
-139. § Az Ebtv. 20. § (5) bekezdés <i>a) és b) pontja helyébe a következő rendelkezés lép:
-
-(A transzplantációs várólistára való felvételre jogosult:)
-
-„<i>a) a Tbj. 6. §-a szerinti biztosított,
-
-b) a Tbj. alapján egészségügyi szolgáltatásra jogosult személy, ide nem értve a Tbj. alapján egészségügyi szolgáltatás megszerzése érdekében kötött megállapodás alapján jogosultakat,”
-
-140. § Az Ebtv. 80. § (6) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az e törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem vagy késedelmesen teljesítő, annak nem az előírt módon eleget tevő vagy valótlan adatokat közlő)
-
-„b) a Tbj. 4. § 4. pontjában meghatározott foglalkoztató, és a Tbj. 4. § 2. pontjában meghatározott egyéni vállalkozó 10 ezer forinttól 1 millió forintig terjedő összegű,”
-
-(az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető. A mulasztási bírságot kiszabó elsőfokú végzés ellen önálló fellebbezésnek van helye.)
-
-141. § Az Ebtv.
-
-- 1. 1. § (1) bekezdés a) pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.)” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.)” szöveg,
-- 2. 2. § (2) bekezdésében a „pénzbeli egészségbiztosítási járulékfizetési” szövegrész helyébe a „társadalombiztosítási járulékfizetési” szöveg,
-- 3. 5/A. §-ában az „a Tbj. 13. §-a alapján” szövegrész helyébe az „a Tbj. 3. §-a alapján” szöveg,
-- 4. 5/C. § (1) bekezdés a) pontjában a „pénzbeli egészségbiztosítási járulékalapot” szövegrész helyébe a „társadalombiztosítási járulékalapot” szöveg,
-- 5. 29. § (9) bekezdésében az „a Tbj. 16. § (1) bekezdés <i>a)–o) és s) pontjában” szövegrész helyébe az „a Tbj. 22. § (1) bekezdés <i>a)–o) és r) pontjában” szöveg,
-- 6. 42/A. § (3) bekezdésében a „Tbj. 5. §-a” szövegrész helyébe a „Tbj. 6. §-a” szöveg,
-- 7. 42/C. § (1) bekezdés b) pontjában a „pénzbeli egészségbiztosítási járulék” szövegrész helyébe a „társadalombiztosítási járulék” szöveg,
-- 8. 43. § (1) bekezdésében a „pénzbeli egészségbiztosítási járulék” szövegrész helyébe a „társadalombiztosítási járulék” szöveg,
-- 9. 46. § (1) bekezdésében és 48/A. § (2) bekezdésében a „Tbj. 5. §-ában” szövegrész helyébe a „Tbj. 6. §-ában” szöveg,
-- 10. 48. § (7) bekezdés <i>a) és b) pontjában az „a Tbj. 5. §-a szerinti” szövegrész helyébe az „a Tbj. 6. §-a szerinti” szöveg,
-- 11. 52/A. § (6) bekezdés <i>a) és b) pontjában a „19. §” szövegrész helyébe a „25. §” szöveg,
-- 12. 56. § (2) bekezdésében a „Pénzbeli egészségbiztosítási járulék” szövegrész helyébe a „Társadalombiztosítási járulék” szöveg,
-- 13. 62. § (1) bekezdésében a „Tbj. 4. § a) pontja szerinti foglalkoztatónál” szövegrész helyébe a „Tbj. 4. § 4. pontja szerinti foglalkoztatónál” szöveg,
-- 14. 63. § (1) bekezdésében az „egészségbiztosítási járulék” szövegrész helyébe a „társadalombiztosítási járulék” szöveg,
-- 15. 66. § (8) bekezdésében a „Tbj. 39. § (2) bekezdésében foglalt egészségügyi szolgáltatási járulékfizetési kötelezettsége” szövegrész helyébe a „Tbj. 43.§ (1) bekezdésében foglalt egészségügyi szolgáltatási járulékfizetési kötelezettsége” szöveg,
-- 16. 80. § (5) bekezdés b) pontjában a „Tbj. 11. § a) pont” szövegrész helyébe a „Tbj. 17. § (1) bekezdés a) pontja” szöveg,
-- 17. 81. § (2) bekezdésében az „a pénzbeli egészségbiztosítási járulékalapot” szövegrész helyébe az „a társadalombiztosítási járulékalapot” szöveg
-
-lép.
+#### 141. §
 
 #### 49. Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény módosítása
 
-142. § Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény 7. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„7. § (1) Ha az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, társadalombiztosítási jogállására a munkaviszonyban állókra vonatkozó szabályok az irányadóak azzal, hogy az európai parlamenti képviselők tiszteletdíja társadalombiztosítási járulék és szociális hozzájárulási adó alapjául szolgáló jövedelem, és az európai parlamenti képviselői megbízást heti 36 órát meghaladó foglalkozásnak kell tekinteni.”
+#### 142. §
 
 #### 50. Az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény módosítása
 
-143. § (1) Az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény (a továbbiakban: Ekho tv.) 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 143. §
 
-„(2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhót fizet. Ettől eltérően, ha a magánszemély az adóév 183 napját meghaladóan a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerint saját jogú nyugdíjas, az ekho mértéke 9,5 százalék. Ha a magánszemély nyugdíjas, e körülményről a kifizetést megelőzően nyilatkozhat.”
+#### 144. §
 
-(2) Az Ekho tv. 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+#### 145. §
 
-„(6) A (3) bekezdés rendelkezésétől eltérően a kifizető nem fizet ekhót a hivatásos sportoló, a nemzetközi sportszövetség munkavállalója, és a saját jogú nyugdíjas részére az e foglalkozása ellenértékeként juttatott bevétel után.”
+#### 146. §
 
-144. § Az Ekho tv. 7. §-a helyébe a következő rendelkezés lép:
+#### 147. §
 
-„7. § A nyugdíjas magánszemély az őt terhelő ekho tartozatlanul megfizetett részét a személyi jövedelemadó bevallásában igényli vissza.”
+#### 148. §
 
-145. § Az Ekho tv. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 15 százalékos mértékkel levont, magánszemélyt terhelő ekhoból az ekhoalap
-
-<i>a) 9,5 százaléka személyi jövedelemadónak,
-
-b) 5,5 százaléka társadalombiztosítási járuléknak
-
-minősül.”
-
-146. § Az Ekho tv. 9. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A 9,5 százalékos mértékkel levont, magánszemélyt terhelő ekho személyi jövedelemadónak minősül.”
-
-147. § Az Ekho tv. 11. §-a helyébe a következő rendelkezés lép:
-
-„11. § Az állami adóhatóság a magánszemélyt terhelő 9,5 százalékos mértékkel levont ekho megfizetett összegét személyi jövedelemadóként tartja nyilván. A magánszemélyt terhelő 15 százalékos mértékkel levont ekho megfizetett összegéből az állami adóhatóság 63,3 százalékot személyi jövedelemadóként tart nyilván, 26 százalékot a Nyugdíjbiztosítási Alapnak, 10,7 százalékot az Egészségbiztosítási Alapnak utal át.”
-
-148. § Az Ekho tv. 12. §-a helyébe a következő rendelkezés lép:
-
-„12. § Az állami költségvetésbe fizetett 15 százalékos mértékű ekho alapján a magánszemély egészségügyi szolgáltatásra, baleseti egészségügyi szolgáltatásra, baleseti járadékra és nyugdíjbiztosítási ellátásra jogosult.”
-
-149. § Az Ekho tv.
-
-- 1. 8. § b) pontjában a „járulékokat” szövegrész helyébe a „járulékot” szöveg,
-- 2. 12/A. §-ában a „Tbj. 14. § (2) bekezdés b) pont” szövegrész helyébe a „Tbj. 5. § (2) bekezdés b) pont” szöveg
-
-lép.
+#### 149. §
 
 #### 51. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-150. § A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 36. § (12) bekezdésében az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 3. § (2) bekezdése” szövegrész helyébe „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 2. § (2) bekezdése” szöveg lép.
+#### 150. §
 
 #### 52. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
-151. § A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 2. § 26. pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § b) pontjának 1–6. alpontjában, valamint c) pontjában” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 4. § 2. pont 2.1–2.6. alpontjában, valamint 21. pontjában” szöveg lép.
+#### 151. §
 
 #### 53. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosítása
 
-152. § Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény
-
-- a) 44. § 53. pont a) alpontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés <i>a), b) és e)–g) pontja” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. § (1) bekezdés <i>a), b) és d)–f) pontja” szöveg,
-- b) 44. § 53. pont b) és c) alpontjában a „Tbj. 5. § (1) bekezdés <i>a), b) és e)–g) pontja” szövegrész helyébe a „Tbj. 6. § (1) bekezdés <i>a), b) és d)–f) pontja” szöveg
-
-lép.
+#### 152. §
 
 #### 54. Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosítása
 
-153. § Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény
-
-- 1. 7. § (1) bekezdésében az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény” szöveg,
-- 2. 8. § (3) bekezdés b) pontjában az „a munkavállalót nyugdíjjárulék (tagdíj), egészségbiztosítási és munkaerő-piaci járulékfizetési” szövegrész helyébe az „a munkavállalót társadalombiztosítási járulékfizetési” szöveg
-
-lép.
+#### 153. §
 
 #### 55. Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény módosítása
 
-154. § Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény 2. § (4) bekezdésében és 4. § (3) bekezdésében az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény” szöveg lép.
+#### 154. §
 
 #### 56. A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény módosítása
 
-155. § A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény (a továbbiakban: Kenyt.) 11. §-a helyébe a következő rendelkezés lép:
+#### 155. §
 
-„11. § (1) Ha a korhatár előtti ellátásban vagy szolgálati járandóságban részesülő személy a tárgyévben biztosítással járó jogviszonyban áll, és az általa fizetendő társadalombiztosítási járulék alapja meghaladja a tárgyév első napján érvényes kötelező legkisebb munkabér havi összegének tizennyolcszorosát (a továbbiakban: éves keretösszeg), az éves keretösszeg elérését követő hónap első napjától az adott tárgyév december 31-éig, de legfeljebb az öregségi nyugdíjkorhatár betöltéséig a korhatár előtti ellátás, illetve a szolgálati járandóság folyósítását szüneteltetni kell. Ha a fizetendő társadalombiztosítási járulék alapja az éves keretösszeget a tárgyév decemberében haladja meg, a folyósítás szüneteltetésére nem kerül sor, de a tárgyév december havi korhatár előtti ellátást, illetve szolgálati járandóságot vissza kell fizetni. Az éves keretösszeg elérésének vizsgálatakor a kifizetett társadalombiztosítási járulékalapot képező keresetet, jövedelmet arra az időszakra kell figyelembe venni, amely időszakra vonatkozóan azt kifizették. E § alkalmazása során a fizetendő társadalombiztosítási járulék alapjába nem számít bele a Tny. 83/C. § (1) bekezdése szerinti jogviszonyból származó, a szünetelés időtartama alatt szerzett kereset, jövedelem.
+#### 156. §
 
-(2) Szolgálati járandóság esetén az éves keretösszeg számítása során figyelmen kívül kell hagyni az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára figyelemmel kifizetett, a kifizető szerv által – a kifizetést követő hónap tizedik napjáig – a nyugdíjfolyósító szerv számára bejelentett összegű juttatásait.
+#### 157. §
 
-(3) A nyugdíjbiztosítási igazgatási szerv a folyósítás szüneteltetéséről, újbóli folyósításáról, valamint a jogalap nélkül felvett korhatár előtti ellátás, illetve szolgálati járandóság visszafizettetéséről – a korhatár előtti ellátásban, illetve szolgálati járandóságban részesülő személynek a Tny. 97. § (5) bekezdése szerint tett bejelentése, illetve az állami adóhatóság által közölt, az éves keretösszegre vonatkozó összesített adatok alapján – hivatalból dönt.
-
-(4) Az újbóli folyósítás során a jogosultat a korhatár előtti ellátás, illetve a szolgálati járandóság szüneteltetést megelőző összegének az időközben végrehajtott emelésekkel megemelt összege illeti meg.
-
-(5) Az e §-ban foglalt rendelkezések nem alkalmazhatók arra a személyre, aki a korhatár előtti ellátásának, illetve szolgálati járandóságának folyósítását a 12. § alapján teljes naptári évre szünetelteti.”
-
-156. § A Kenyt. a következő 11/A. §-sal egészül ki:
-
-„11/A. § A korhatár előtti ellátás és a szolgálati járandóság keresőtevékenység miatti szüneteltetésére – a 11. §-ban meghatározottakon túl – a Tny. 83/C. § (1), (2) és (4) bekezdését is alkalmazni kell azzal, hogy öregségi nyugdíj és nyugellátás alatt korhatár előtti ellátást és szolgálati járandóságot kell érteni.”
-
-157. § A Kenyt. 27. §-a helyébe a következő rendelkezés lép:
-
-„27. § 2020. évben a Tbj.-vel megállapított 11. § (1) bekezdése szerinti éves keretösszegbe be kell számítani a Tny. 2020. június 30-án hatályos 83/B. §-a szerinti szüneteléshez a 2020. január–június hónapokra figyelembe vett keresetet, jövedelmet is.”
-
-158. § A Kenyt.
-
-- a) 1. § a) pont aa) alpontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. §” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. §” szöveg,
-- b) 1. § a) pont <i>ab) és <i>ac) alpontjában az „5. §” szövegrész helyébe a „6. §” szöveg
-
-lép.
+#### 158. §
 
 #### 57. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-159. § A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 1. § (2) bekezdése a következő 13. ponttal egészül ki:
+#### 159. §
 
-(E törvény alkalmazásában:)
+#### 160. §
 
-„13. biztosított: a 2020. július 1-jét megelőző időszakra a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2020. július 1-jét megelőzően hatályos 5. §-a, a 2020. július 1-jétől kezdődő időszakra a Tbj. 6. §-a alapján biztosítottnak minősülő személy.”
-
-160. § Az Mmtv.
-
-- 1. 1. § (2) bekezdés 3. pontjában a „pénzbeli egészségbiztosítási járulék” szövegrész helyébe az „a 2020. július 1-jét megelőző időszakra a pénzbeli egészségbiztosítási járulék, a 2020. július 1-jétől kezdődő időszakra a társadalombiztosítási járulék (a továbbiakban együtt: társadalombiztosítási járulék)” szöveg,
-- 2. 1. § (2) bekezdés 4. pont a) alpontjában a „társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény” szövegrész helyébe a „társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény” szöveg,
-- 3. 1. § (2) bekezdés 6. pontjában a „4. § s) pont 1. alpontjában” szövegrész helyébe a „4. § 14. pont 14.1. alpontjában” szöveg,
-- 4. 1. § (2) bekezdés 11. pontjában a „4. § b) pontjában” szövegrész helyébe a „4. § 2. pontjában” szöveg,
-- 5. 1. § (2) bekezdés 12. pontjában a „4. § d) pontjában” szövegrész helyébe a „4. § 21. pontjában” szöveg,
-- 6. 2. § (3) bekezdés c) pontjában és 38/G. § (1) bekezdésében a „Tbj.” szövegrész helyébe a „társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2020. július 1-jét megelőzően hatályos” szöveg,
-- 7. 10. § (2a) bekezdésében és 13. § (2a) bekezdésében a „4. § s) pont 2. alpontjában” szövegrész helyébe a „4. § 14. pont 14.2. alpontjában” szöveg,
-- 8. 14. § (3) bekezdés b) pontjában a „pénzbeli egészségbiztosítási járulék” szövegrész helyébe a „társadalombiztosítási járulék” szöveg,
-- 9. 21. § (7) bekezdésében a „42. § (1) bekezdésében” szövegrész helyébe a „60. § (1) bekezdésében” szöveg
-
-lép.
-
-161. § Hatályát veszti az Mmtv. 2. § (1) bekezdésében az „a Tbj. 5. §-a szerinti” szövegrész.
+#### 161. §
 
 #### 58. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-162. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 48/A. § b) pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. §-ában” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 6. §-ában” szöveg lép.
+#### 162. §
 
 #### 59. Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény módosítása
 
-163. § Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény 3. § (1) bekezdés a) pontjában a „nyugdíjjárulék-fizetési kötelezettség” szövegrész helyébe az „a 2020. július 1-jét megelőző időszakra nyugdíjjárulék, a 2020. július 1-jétől kezdődő időszakra társadalombiztosítási járulék vagy nyugdíjjárulék (a továbbiakban együtt: nyugdíjjárulék) fizetésének kötelezettsége” szöveg lép.
+#### 163. §
 
 #### 60. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
-164. § (1) A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény (a továbbiakban: Kattv.)
-
-- a) 2. § 8. pont b) alpontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény” szöveg,
-- b) 20. § (2) bekezdés b) pontjában a „Tbj. 4. § s) pont 2. alpontja” szövegrész helyébe a „Tbj. 4. § 14. pont 14.2. alpontja” szöveg, a „Tbj. 27. § (2) bekezdése” szövegrész helyébe a „Tbj. 39. §-a ” szöveg
-
-lép.
-
-(2) Hatályát veszti a Kattv. 20. § (2a) bekezdésében az „a kiegészítő tevékenységet folytató egyéni vagy társas vállalkozó járulékalapja, valamint” szövegrész.
+#### 164. §
 
 #### 61. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-165. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 258. § (1) bekezdésében az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény” szöveg lép.
+#### 165. §
 
 #### 62. A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosítása
 
-166. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 5. § 57. pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény” szöveg lép.
+#### 166. §
 
 #### 63. A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosítása
 
-167. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 2. § 8a. pontjában és 16. § (1) bekezdés h) pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény” szöveg lép.
+#### 167. §
 
 #### 64. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-168. § A büntetőeljárásról szóló 2017. évi XC. törvény 342. § (3) bekezdés 3. pontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § r) pontjában” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 4. § 8. pontjában” szöveg lép.
+#### 168. §
 
 #### 65. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-169. § Az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 7. § 25. pontja helyébe a következő rendelkezés lép:
+#### 169. §
 
-„25. járulék: a társadalombiztosítási járulék, az egészségügyi szolgáltatási járulék, a táppénz-hozzájárulás, továbbá a végrehajtás tekintetében a jogalap nélkül felvett és visszakövetelt társadalombiztosítási és – a társadalombiztosítási szervek által folyósított – egyéb ellátások, valamint a társadalombiztosítás ellátásainak fedezetére előírt más kötelező járulékbefizetések, ideértve a jogosulatlan kifizetőhelyi költségtérítést is,”
+#### 170. §
 
-170. § (1) Az Art. 50. § (2) bekezdés 9–11. pontja helyébe a következő rendelkezés lép:
+#### 171. §
 
-[Az (1)–(1a) bekezdés szerinti bevallás tartalmazza:]
+#### 172. §
 
-„9. a társadalombiztosítási járulék alapját képező jövedelmet, a társadalombiztosítási járulék-köteles jutalom összegét, illetve a levont társadalombiztosítási járulék összegét,
+#### 173. §
 
-10. a társadalombiztosítási járulék levonása, illetve levonás elmaradásának okát,
-
-11. a tárgyhónaptól eltérő biztosítási jogviszony időtartamát, amelyre tekintettel a tárgyhónapban járulékalapot képező jövedelem kifizetésére került sor, illetve az ezen időtartamra vonatkozó levont társadalombiztosítási járulék alapját és összegét,”
-
-(2) Az Art. 50. § (2) bekezdés 32. pontja helyébe a következő rendelkezés lép:
-
-[Az (1)–(1a) bekezdés szerinti bevallás tartalmazza:]
-
-„32. a felszolgálási díjból levont (megfizetett) társadalombiztosítási járulék alapját és összegét,”
-
-171. § Az Art. 75. §-a helyébe a következő rendelkezés lép:
-
-„75. § [Felosztási rendelkezéssel nem rendezett befizetések elszámolása]
-
-Az adóhatóságnál nyilvántartott adótartozással vagy köztartozással rendelkező adózó esetében az elektronikus fizetéseket és elszámolásokat biztosító alrendszer elszámolási számlájára átutalással teljesített, felosztási rendelkezéssel nem rendezett befizetéseket az adóhatóság először a természetes személy jövedelemadó előlegére, a levont jövedelemadóra, vagy a kifizető által a természetes személytől levont járulékra az esedékesség sorrendjében, azonos esedékesség esetén a tartozások arányában számolja el. Az ezt követően fennmaradó összeget először az egyéb, az állami adó- és vámhatóság által nyilvántartott tartozásokra kell elszámolni azok esedékességének sorrendjében, azonos esedékesség esetén a tartozások arányában. Az ezt követően fennmaradó összeget a köztartozás jogosultjainak kell átutalni a köztartozás erejéig, a tartozások arányában. Az ezt követően fennmaradó összegre a túlfizetésre vonatkozó szabályokat kell megfelelően alkalmazni.”
-
-172. § Az Art. 3. melléklete a 7. melléklet szerint módosul.
-
-173. § Az Art.
-
-- 1. 7. § 31. pont i) alpontjában az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 4. § a) pontja” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 4. § 4. pontja” szöveg, a „Tbj. 56/A. §-a” szövegrész helyébe a „Tbj. 87. §-a” szöveg,
-- 2. 7. § 39. pontjában a „Tbj. 56/A. §-a” szövegrész helyébe a „Tbj. 87. §-a” szöveg, a „Tbj. 4. § a) pontja” szövegrész helyébe a „Tbj. 4. § 4. pontja” szöveg,
-- 3. 50. § (1) bekezdés c) pontjában a „Tbj. 56/A. § (4) bekezdése” szövegrész helyébe a „Tbj. 87. § (5) bekezdése” szöveg,
-- 4. 50. § (1a) bekezdésében a „Tbj. 5. § (1) bekezdés e) pontja” szövegrész helyébe a „Tbj. 6. § (1) bekezdés e) pontja” szöveg, a „Tbj. 5. § (1) bekezdés i) pontja” szövegrész helyébe a „Tbj. 6. § (1) bekezdés h) pontja” szöveg,
-- 5. 50. § (2) bekezdés 1. pontjában a „Tbj. 44. § (1) bekezdése” szövegrész helyébe a „Tbj. 66. § (1) bekezdése” szöveg,
-- 6. 50. § (2) bekezdés 25. pontjában a „Tbj. 31. § (5) bekezdése” szövegrész helyébe a „Tbj. 42. § (4) bekezdése” szöveg,
-- 7. 50. § (2) bekezdés 30. pontjában a „Tbj. 31. § (6) bekezdése” szövegrész helyébe a „Tbj. 42. § (8) bekezdése” szöveg,
-- 8. 50. § (4) bekezdésében a „Tbj. 30/A. § (1) és (2) bekezdésében” szövegrész helyébe a „Tbj. 41. § (1) és (2) bekezdésében” szöveg,
-- 9. 131. § (4) bekezdésében a „nyugdíjas státusszal rendelkező vagy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban” szövegrész helyébe a „ , korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban” szöveg,
-- 10. 131. § (4) bekezdésében a „nyugdíjjárulék-alapot” szövegrészek helyébe a „társadalombiztosítási járulék-alapot” szövegek,
-- 11. 131. § (6) bekezdésében a „Tbj. 56/A. § (4) bekezdése” szövegrész helyébe a „Tbj. 87.§ (6) bekezdése” szöveg,
-- 12. 133/A. § (1) bekezdés b) pontjában a „járulékok” szövegrész helyébe a „járulék” szöveg,
-- 13. 198. § (3) bekezdés c) pontjában a „járulékokra” szövegrész helyébe a „járulék” szöveg,
-- 14. 1. melléklet 3. pontjában a „Tbj. 4. § b) pontja” szövegrész helyébe a „Tbj. 4. § 2. pontja” szöveg, a „Tbj. 56/A. §-a” szövegrész helyébe a „Tbj. 87. §-a” szöveg, a „Tbj. 44/B. § (1a) és (1b) bekezdései” szövegrész helyébe a „Tbj. 68. § (2) és (3) bekezdései” szöveg,
-- 15. 1. melléklet 3.3 pontjában a „Tbj. 5. § (1) bekezdés <i>a)–c) és f)–g) pontja, valamint (2) bekezdése” szövegrész helyébe a „Tbj. 6. § (1) bekezdés <i>a)–b) és e)–f) pontja, valamint (2) bekezdése” szöveg,
-- 16. 1. melléklet 11. pontjában a „Tbj. 5. §-ában” szövegrész helyébe a „Tbj. 6. §-ában” szöveg,
-- 17. 1. melléklet 14. pontjában a „Tbj. 5. § (1) bekezdés b) pontja” szövegrész helyébe a „Tbj. 6. § (1) bekezdés b) pontja” szöveg,
-
-lép.
-
-174. § Hatályát veszti az Art.
-
-- a) 50. § (2) bekezdés 12. pont,
-- b) 131. § (3) bekezdése,
-- c) 2. melléklet I. rész B) pont 3.7. alpontja.
+#### 174. §
 
 #### 66. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
 
-175. § Hatályát veszti az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény
-
-- 1. 19. § (2) bekezdésében az „ , a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés” szövegrész,
-- 2. 19. § (2) bekezdésében az „ , a Tbj. 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés” szövegrész,
-- 3. 19. § (2) bekezdésében az „ , a Tbj. 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés” szövegrész.
+#### 175. §
 
 #### 67. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-176. § A szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 176. §
 
-„(3) Adófizetési kötelezettség terheli az Szja tv. szerinti önálló és nem önálló tevékenységből származó jövedelem esetében az Szja tv. szerinti adó (adóelőleg) alap hiányában a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerint
+#### 177. §
 
-<i>a) biztosítottnak minősülő személy részére juttatott olyan jövedelmet, amely a Tbj. 27. § (1) bekezdés b) pontja alapján,
+#### 178. §
 
-b) a Tbj. 30. §-a alapján
+#### 179. §
 
-járulékalapot képez.”
-
-177. § A Szocho tv. 1. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) A Tbj. 6. § (1) bekezdés a) pontja szerinti biztosítási jogviszony esetében az adó alapja megegyezik a társadalombiztosítási járulék alapjával.”
-
-178. § A Szocho tv. 5. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-[Nem keletkezik az 1. § (1)–(3) bekezdése szerint adófizetési kötelezettsége – e tevékenysége, jogállása alapján szerzett jövedelme tekintetében –]
-
-„g) a kifizetőnek a Tbj. szerint kiegészítő tevékenységet folytató személyre tekintettel;”
-
-179. § A Szocho tv. 34. § 5. pontja helyébe a következő rendelkezés lép:
-
-[E törvény alkalmazásában:]
-
-„5. kiegészítő tevékenységet folytató egyéni, társas vállalkozó: aki vállalkozói tevékenységet saját jogú nyugdíjasként folytat és a Tbj. szerint kiegészítő tevékenységet folytató személynek minősül.”
-
-180. § A Szocho tv.
-
-- 1. 5. § (2) bekezdés g) pontjában a „Tbj. 11. §-a, 11/B. §-a, és 13. §-a” szövegrész helyébe a „Tbj. 3. §-a, 17. §-a, és 18. §-a” szöveg,
-- 2. 5. § (2) bekezdés i) pontjában a „Tbj. 11. §-a, 11/A. §-a, 11/B. §-a vagy 13. §-a” szövegrész helyébe a „Tbj. 3. §-a, 17. §-a, vagy 18. §-a” szöveg,
-- 3. 7. § (1) bekezdésében a „Tbj. 30/A. § (1) bekezdése” szövegrész helyébe a „Tbj, 41 § (1) bekezdése” szöveg, a „Tbj. 30/A. § (3) bekezdése” szövegrész helyébe a „Tbj. 41. § (4) bekezdése” szöveg,
-- 4. 7. § (2) bekezdésében a „Tbj. 30/A. § (2) bekezdése” szövegrész helyébe a „Tbj, 41. § (2) bekezdése” szöveg, a „Tbj. 30/A. § (3) bekezdése” szövegrész helyébe a „Tbj. 41. § (4) bekezdése” szöveg,
-- 5. 7. § (3) bekezdésében a „Tbj. 30/A. § (2) bekezdése” szövegrész helyébe a „Tbj, 41. § (2) bekezdése” szöveg,
-- 6. 7. § (4) bekezdésében a „Tbj. 30/A. §-a” szövegrész helyébe a „Tbj. 41. §-a” szöveg,
-- 7. 9. § (7) bekezdésében „Tbj. vhr. 7/B. §-a” szövegrész helyébe a „Tbj. 42. § (11) bekezdése” szöveg
-
-lép.
+#### 180. §
 
 #### 68. Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvény módosítása
 
-181. § Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvény 250. § (5) bekezdésében az „a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény” szövegrész helyébe az „a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény” szöveg lép.
+#### 181. §
 
 ### 1. melléklet a 2019. évi CXXII. törvényhez
 
@@ -1915,48 +1559,8 @@ e) ha az önálló vállalkozó belföldön és a másik államban is önálló 
 
 ### 4. melléklet a 2019. évi CXXII. törvényhez
 
-Az Szja tv. 3. számú melléklet I. Jellemezően előforduló költségek fejezet 8. és 9. pontja helyébe a következő rendelkezések lépnek:
-
-[Költségként elszámolható kiadások különösen a következők:]
-
-„8. a Tbj. rendelkezései szerint nem megállapodás alapján fizetett járulék, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett tagdíj;
-
-9. a Tbj., a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján fizetett járulék, illetve tagdíj;”
-
 ### 5. melléklet a 2019. évi CXXII. törvényhez
-
-Az Szja tv. 5. számú melléklet II. Részletező nyilvántartások fejezet 6. pontja helyébe a következő rendelkezés lép:
-
-„6. Munkabérek, más személyi jellegű kifizetések és a vállalkozói kivét nyilvántartása
-
-A magánszemélynek az alkalmazott, más magánszemély számára kifizetett összegekről, tartozásokról és követelésekről személyenkénti nyilvántartást kell vezetnie. A nyilvántartásnak – az érintett magánszemélyek adóazonosító adatainak feltüntetése mellett – tartalmaznia kell levonások nélkül a részükre különféle jogcímeken elszámolt személyi jövedelemadó-köteles összegeket, a levont személyi jövedelemadó előleget, társadalombiztosítási járulékot, szociális hozzájárulási adót, az egyéb levonásokat, a kifizetett összeget, továbbá a kifizetés keltét, valamint minden olyan adatot, amely a személyi jövedelemadó előleg, illetve – ha erre a magánszemély köteles – év végén a személyi jövedelemadó tényleges összegének a megállapításához szükséges. Az egyéni vállalkozónak az előzőek értelemszerű alkalmazásával kell nyilvántartania a vállalkozói kivéttel kapcsolatos adatokat.”
 
 ### 6. melléklet a 2019. évi CXXII. törvényhez
 
-Az Szja tv. 11. számú melléklet IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiadások fejezet 9–11. pontja helyébe a következő rendelkezések lépnek:
-
-„9. a Tbj. szerint nem megállapodás alapján fizetett saját társadalombiztosítási járulék, a magánnyugdíjról és a magán-nyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett saját tagdíj;
-
-10. a Tbj. szerint megállapodás alapján nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a saját maga javára fizetett összeg, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján a saját maga javára fizetett magán-nyugdíjpénztári tagdíj és annak kiegészítése;
-
-11. a Tbj. szerint megállapodás alapján fizetett egészségügyi szolgáltatás biztosítására kötött megállapodás alapján fizetett járulék;”
-
 ### 7. melléklet a 2019. évi CXXII. törvényhez
-
-Az Art. 3. melléklet I. fejezet Határidők alcím 4. pontja helyébe a következő rendelkezés lép:
-
-„4. Járulékok
-
-4.1. Társadalombiztosítási járulék, nyugdíjjárulék
-
-4.1.1. A munkáltató az általa levont társadalombiztosítási járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,
-
-4.1.2. a kifizető az általa levont járulékot a kifizetés hónapját követő hó tizenkettedik napjáig,
-
-4.1.3. a Tbj. 4. § 2. pontja szerinti egyéni vállalkozó a társadalombiztosítási járulékot havonta a tárgyhónapot követő hónap tizenkettedik napjáig
-
-fizeti meg.
-
-4.2. A Tbj. 43. §-a alapján fizetendő egészségügyi szolgáltatási járulék
-
-A természetes személy a Tbj. 43. § (1) bekezdése alapján előírt járulékfizetési kötelezettségét a tárgyhót követő hónap 12. napjáig vagy az állami adó és vámhatóság által meghatározott időpontig teljesíti.”
