@@ -68,8 +68,8 @@ kezeli, majd ezen adatkezelési időtartam leteltét követően az adatokat a ny
 
 8. § A 9. § (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-9. § (1) Hatályát veszti az Ept. 1–6. §-a és 8–10. §-a.
+9. § (1)
 
-(2) Hatályát veszti az Ept. 6/A. §-a és 1. melléklete.
+(2)
 
-(3)
+(3) Hatályát veszti az Ept.

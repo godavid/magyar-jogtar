@@ -76,13 +76,7 @@ a fiatalkorúak dohányzásának visszaszorításával és a nemdohányzók véd
 
 31. §
 
-32. § A Jöt. 74. § (1) bekezdése a következő l) és m) ponttal egészül ki:
-
-(Dohánygyártmányt és alkoholterméket csak zárjeggyel ellátva bocsáthat szabadforgalomba forgalmazási céllal az adóraktár engedélyese, importálhat az importáló és lehet belföldön forgalmazni, kivéve)
-
-„l) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott dohányzást helyettesítő nikotintartalmú terméket,
-
-m) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott füst nélküli dohányterméket.”
+32. §
 
 33. § (1)
 
@@ -94,12 +88,7 @@ m) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott 
 
 (2)
 
-35. § A Jöt.
-
-- a) 74. § (1) bekezdés a) pontjában a „töltőfolyadékot” szövegrész helyébe a „külföldre történő kiszállítási céllal szabadforgalomba bocsátott töltőfolyadékot”,
-- b) 74. § (1) bekezdés j) pontjában az „az új dohánytermék-kategóriákat” szövegrész helyébe az „a külföldre történő kiszállítási céllal szabadforgalomba bocsátott új dohánytermék-kategóriákat”
-
-szöveg lép.
+35. §
 
 #### 5. Záró rendelkezések
 

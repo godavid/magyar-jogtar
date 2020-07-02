@@ -4,12 +4,7 @@ egyes adózási tárgyú törvényeknek a koronavírus-járvány gazdasági hat�
 
 #### 1. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-1. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény
-
-- a) 29. §-ában a „85 százalékát” szövegrész helyébe a „87 százalékát” szöveg,
-- b) 47. § (5) bekezdésében a „85 százaléka” szövegrész helyébe a „87 százaléka” szöveg
-
-lép.
+1. §
 
 #### 2. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
@@ -19,7 +14,7 @@ lép.
 
 #### 3. Az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény módosítása
 
-4. § Az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény 4. § (3) bekezdésében a „17,5 százalék” szövegrész helyébe a „15,5 százalék” szöveg lép.
+4. §
 
 #### 4. Az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény módosítása
 
@@ -35,7 +30,7 @@ lép.
 
 9. § A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény
 
-- a) 10. § (1) bekezdésében a „98 100 forint” szövegrész helyébe a „102 ezer forint” szöveg, a „164 000 forint” szövegrész helyébe a „170 ezer forint” szöveg,
+- a)
 - b)
 - c)
 
@@ -43,7 +38,7 @@ lép.
 
 #### 6. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-10. § A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 2. § (1) bekezdésében a „17,5 százaléka” szövegrészek helyébe a „15,5 százaléka” szöveg lép.
+10. §
 
 #### 7. Záró rendelkezések
 
