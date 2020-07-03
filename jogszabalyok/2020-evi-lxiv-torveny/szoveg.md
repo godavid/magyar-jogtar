@@ -72,4 +72,4 @@ kezeli, majd ezen adatkezelési időtartam leteltét követően az adatokat a ny
 
 (2)
 
-(3) Hatályát veszti az Ept.
+(3)
