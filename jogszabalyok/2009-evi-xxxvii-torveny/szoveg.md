@@ -254,12 +254,7 @@ a kincstári vagyon részét képezi.
 
 erdőben – a (3) bekezdésben és a 73. § (6) bekezdésben foglalt eset kivételével – tilos a tarvágás.
 
-(3) Az erdészeti hatóság az erdőtervben vagy annak módosítása során lehetővé teheti a tarvágást a (2) bekezdés szerinti erdőben, ha az
-
-- a) termőhelyi vagy erdővédelmi okból, vagy
-- b) a természetes újulat megőrzése – sarj eredetű felújítás esetén megtelepedése – érdekében
-
-indokolt.
+(3)
 
 (4) Az állam 100%-os tulajdonában álló erdőre, valamint erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre vonatkozó természetvédelmi vagy árvízvédelmi indokból jogszabályban vagy határozatban jogszerűen elrendelt korlátozás – e törvény eltérő rendelkezése hiányában – kártalanítási igényt nem keletkeztet.
 
@@ -589,11 +584,11 @@ rendeltetések határozhatók meg.
 
 (2) Az erdészeti hatóság az erdő rendeltetését
 
-- a) országos jelentőségű védett természeti terület esetén a védetté nyilvánító jogszabály alapján,
+- a) védett természeti terület esetén a védetté nyilvánító jogszabály alapján,
 - b) erdészeti génrezervátum, árvízvédelmi, vadaspark és vadaskert rendeltetés esetén a hatáskörrel rendelkező hatóság határozata alapján,
 - c) honvédelmi rendeltetés esetén a honvédelemért felelős miniszter által vezetett minisztériummal kötött vagyonkezelői szerződés alapján,
 - d) határrendészeti rendeltetés esetén a rendészetért felelős miniszter kijelölése alapján,
-- e) Natura 2000 rendeltetés esetén az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló miniszteri rendelet, valamint az erdő elhelyezkedése és természetességi állapota alapján a közösségi jelentőségű és a kiemelt közösségi jelentőségű jelölő erdei élőhelyeken,
+- e) Natura 2000 rendeltetés esetén az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló miniszteri rendelet, valamint az erdő természetességi állapota alapján,
 - f) talajvédelmi rendeltetés esetén az erdő elhelyezkedése alapján
 
 a b)–d) pont esetében a hatáskörrel rendelkező hatóság, illetve miniszter rendeltetést megalapozó változásról szóló tájékoztatását követően állapítja meg.
@@ -616,9 +611,9 @@ a b)–d) pont esetében a hatáskörrel rendelkező hatóság, illetve miniszte
 
 is kezdeményezheti.
 
-(4) Ha az erdő rendeltetésének a megállapítására a (3) bekezdésben foglaltak szerint közérdekből kerül sor, a rendeltetés fennállása alatt az erdőgazdálkodó az ebből eredő kárának és többletköltségének megtérítésére jogosult. A kezdeményező köteles a kár és a többletköltség elemeiről, mértékéről, megfizetésének módjáról az erdőgazdálkodóval megállapodni, és a megállapodást a rendeltetés megállapításának kezdeményezéskor az erdészeti hatóság számára bemutatni.
+(4) Ha az erdő rendeltetésének a megállapítására a (3) bekezdésben foglaltak szerint közérdekből kerül sor, a rendeltetés fennállása alatt az erdőgazdálkodó az ebből eredő kárának és többletköltségének megtérítésére jogosult.
 
-(5) Fokozottan védett természeti területen található erdőnek gazdasági, valamint vadaspark további rendeltetése, honvédelmi elsődleges rendeltetésű erdőnek közjóléti, valamint tanerdő további rendeltetése nem lehet.
+(5) Védett természeti területen található erdőnek gazdasági, valamint vadaspark további rendeltetése, honvédelmi elsődleges rendeltetésű erdőnek közjóléti, valamint tanerdő további rendeltetése nem lehet.
 
 (6) Az erdészeti hatóság törli az erdő érintett rendeltetését
 
@@ -635,7 +630,7 @@ is kezdeményezheti.
 
 (2) A természetvédelmi rendeltetést – a (4)–(6) bekezdésben foglalt kivétellel – az erdő elsődleges rendeltetéseként kell megállapítani.
 
-(3) Kiemelt közösségi jelentőségű, jelölő erdei élőhelynek minősülő, természetes vagy természetszerű erdő természetességi állapotra vonatkozó alapelvárású erdő esetében – védett természeti terület, illetve a (4)–(6) bekezdésben foglalt kivétellel – elsődleges rendeltetésként a Natura 2000 rendeltetést kell megállapítani.
+(3) Közösségi jelentőségű élőhelynek minősülő, természetes vagy természetszerű erdő természetességi állapotra vonatkozó alapelvárású erdő esetében – védett természeti terület, illetve a (4)–(6) bekezdésben foglalt kivétellel – elsődleges rendeltetésként a Natura 2000 rendeltetést kell megállapítani.
 
 (4) Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvényben foglaltak alapján különleges honvédelmi területként kijelölt területen lévő erdő esetében az erdő elsődleges rendeltetéseként – az (5) és (6) bekezdésben foglalt kivétellel – a honvédelemért felelős miniszter kezdeményezésére a honvédelmi rendeltetést kell megállapítani.
 
@@ -661,7 +656,7 @@ is kezdeményezheti.
 - l)
 - m) örökségvédelmi: a történelmi emlékhely területén levő, illetve a kulturális örökség védelmét szolgáló erdő;
 - n) bányászati: a bányák biztonsági övezetében lévő, bányaszakadásos, földomlásos, földcsuszamlásos, veszélyeztetett területen lévő erdő;
-- o) Natura 2000: a Natura 2000 hálózat részeként kijelölt területeken lévő, közösségi jelentőségű vagy kiemelt közösségi jelentőségű, jelölő erdei élőhelynek minősülő, és a 7. § (1) bekezdés a)–b) pontjában foglalt természetességi állapotú erdő;
+- o) Natura 2000: a Natura 2000 hálózat részeként kijelölt területeken lévő erdő;
 - p) különleges védelmi rendeltetések:
   - pa) árvízvédelmi: a folyók nagyvízi medrében elhelyezkedő, az árhullámok biztonságos levezetését biztosító erdő;
   - pb) honvédelmi: a Magyar Honvédség szervezeteinek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvényben (a továbbiakban: Hvt.) meghatározott feladatai ellátására a Hvt. 42. § (1) bekezdésében foglaltak szerint rendelkezésre bocsátott erdő;
@@ -690,42 +685,42 @@ is kezdeményezheti.
 
 ### Az erdő egyes rendeltetéséhez, közérdekű funkciójához kapcsolódó különös erdőgazdálkodási szabályok
 
-27. § (1) Természetvédelmi rendeltetésű, a 7. § (1) bekezdés a) és b) pontja szerinti természetességi állapotú erdőben
+27. § (1) Természetvédelmi rendeltetésű erdőben
 
-- a) az erdészeti hatóság a véghasználatok során a természetvédelmi hatóság kezdeményezésére természetvédelmi célból a véghasználattal érintett terület legfeljebb 5 százalékos mértékéig hagyásfák vagy hagyásfa csoportok végleges vagy meghatározott időszakra szóló – több erdőrészlet véghasználata esetében lehetőség szerint összevont – visszahagyását írhatja elő;
-- b) nevelővágások, bontás jellegű véghasználatok és egészségügyi termelések során, továbbá a hagyásfa csoportok területén – amennyiben az erdővédelmi kockázatot nem eredményez – a természetes úton megjelenő holt faanyagból a fennálló védelmi céltól függő méretű, összetételű és elhelyezkedésű, hektáronként együttesen 5 köbméter mennyiségű álló és fekvő holt faanyagot kell visszahagyni a területen;
+- a) az erdészeti hatóság a véghasználatok során a természetvédelmi hatóság kezdeményezésére természetvédelmi célból hagyásfák vagy hagyásfa csoportok végleges vagy meghatározott időszakra szóló – több erdőrészlet véghasználata esetében lehetőség szerint összevont – visszahagyását írja elő;
+- b) nevelővágások, bontás jellegű véghasználatok és egészségügyi termelések során, továbbá a hagyásfa csoportok területén – amennyiben az erdővédelmi kockázatot nem eredményez – a természetes úton megjelenő holt faanyagból a fennálló védelmi céltól függő méretű, összetételű és elhelyezkedésű álló és fekvő holt faanyagot kell visszahagyni a területen;
 - c) az erdőnevelések tervezése és végrehajtása során fokozott figyelmet kell fordítani az intenzíven terjedő fa- és cserjefajok visszaszorítására, az elegyesség fenntartására, a faállomány szerkezeti változatosságának növelésére, valamint a meglévő idős, böhöncös faegyedek, az őshonos cserjeszint és az erdőszegély megőrzésére.
 
 (2) Természetvédelmi rendeltetésű, a 7. § (1) bekezdés c) pontja szerinti természetességi állapotú erdőben az erdő felújítását és nevelését az erdő természetességi állapotának javítására törekedve kell végrehajtani.
 
-(3) Ha meghatározott erdőgazdálkodási tevékenység védett természeti területen történő végzésére e törvény vagy e törvény végrehajtására kiadott jogszabály természetvédelmi célból korlátozási időszakot határoz meg úgy, hogy a tevékenység korlátozási időszakban történő folytatását nem köti a Tvt. 33. § (4) bekezdése szerinti természetvédelmi hatósági engedélyhez, akkor a tevékenységet a korlátozási időszakban csak természetvédelmi kezelési, növényegészségügyi, vagy erdővédelmi okból, annak megkezdése előtt 15 nappal az erdészeti hatóság részére tett előzetes bejelentést követően lehet végezni.
+(3)
 
-(4) Ha e törvény végrehajtására kiadott rendelet eltérően nem rendelkezik, az erdőgazdálkodás természetvédelmi célú időbeli korlátozására természetvédelmi rendeltetésű, a 7. § (1) bekezdés a)–d) pontjában foglalt természetességi állapotú erdő esetében és április 1-től július 15-ig terjedő időszakban kerülhet sor.
+(4)
 
-28. § (1) Natura 2000 rendeltetésű, a 7. § (1) bekezdés a) és b) pontja szerinti természetességi állapotú erdőben
+28. § (1) Natura 2000 rendeltetésű erdőben
 
-- a) az erdészeti hatóság a véghasználatok során a természetvédelmi hatóság kezdeményezésére természetvédelmi célból a véghasználattal érintett terület legfeljebb 5 százalékos mértékéig hagyásfák vagy hagyásfa csoportok végleges vagy meghatározott időszakra szóló – több erdőrészlet véghasználata esetében lehetőség szerint összevont – visszahagyását írhatja elő;
-- b) nevelővágások, bontás jellegű véghasználatok és egészségügyi termelések során, továbbá a hagyásfa csoportok területén – amennyiben az erdővédelmi kockázatot nem eredményez – a természetes úton megjelenő holt faanyagból a fennálló védelmi céltól függő méretű, összetételű és elhelyezkedésű, hektáronként együttesen 5 köbméter mennyiségű álló és fekvő holt faanyagot kell visszahagyni a területen;
+- a) az erdészeti hatóság a véghasználatok során a természetvédelmi hatóság kezdeményezésére természetvédelmi célból hagyásfák vagy hagyásfa csoportok végleges vagy meghatározott időszakra szóló – több erdőrészlet véghasználata esetében lehetőség szerint összevont – visszahagyását írja elő;
+- b) nevelővágások, bontás jellegű véghasználatok és egészségügyi termelések során, továbbá a hagyásfa csoportok területén – amennyiben az erdővédelmi kockázatot nem eredményez – a holt faanyagból a fennálló védelmi céltól függő méretű, összetételű és elhelyezkedésű álló és fekvő holt faanyagot kell visszahagyni a területen;
 - c) az erdőnevelések tervezése és végrehajtása során fokozott figyelmet kell fordítani az intenzíven terjedő fa- és cserjefajok visszaszorítására, az elegyesség fenntartására, a faállomány szerkezeti változatosságának növelésére, valamint a meglévő idős, böhöncös faegyedek, az őshonos cserjeszint és az erdőszegély megőrzésére.
 
-(2) Ha e törvény végrehajtására kiadott rendelet eltérően nem rendelkezik, az erdőgazdálkodás természetvédelmi célú időbeli korlátozására Natura 2000 területen lévő, a 7. § (1) bekezdés a)–d) pontjában foglalt természetességi állapotú erdő esetében és április 1-től július 15-ig terjedő időszakban kerülhet sor.
+(2)
 
 28/A. § (1) Az erdészeti hatóság a természetvédelmi hatóság kezdeményezésére
 
 - a) természetvédelmi rendeltetésű erdőben a természetvédelmi kezelési tervben foglaltakkal, valamint a védetté nyilvánítás céljával összhangban természetvédelmi célból,
-- b) Natura 2000 rendeltetésű erdőben a kiemelt közösségi jelentőségű jelölő erdei élőhely kedvező természetvédelmi helyzetének fenntartása érdekében,
-- c) Natura 2000 területen kiemelt közösségi jelentőségű jelölő faj kedvező természetvédelmi helyzetének megőrzése érdekében a faj monitorozott adatok alapján megállapított jelentős állományának Adattárban rögzített elhelyezkedésű élőhelyeként szolgáló erdőben, a fakitermelés teljes korlátozására vonatkozóan a faj előfordulásának legfeljebb 50 méter, az erdőgazdálkodási tevékenység időbeli korlátozására vonatkozóan a faj előfordulásának legfeljebb 100 méter sugarú környezetében, valamint
-- d) fokozottan védett faj megőrzése, védelme érdekében a faj bizonyítottan előforduló és populáció kialakítására képes állományának Adattárban rögzített elhelyezkedésű élőhelyeként szolgáló erdőben, a fakitermelés teljes korlátozására vonatkozóan a faj előfordulásának legfeljebb 50 méter, az erdőgazdálkodási tevékenység időbeli korlátozására vonatkozóan a faj előfordulásának legfeljebb 100 méter sugarú környezetében,
+- b) Natura 2000 erdőben a kedvező természetvédelmi helyzetének fenntartása érdekében,
+- c) Natura 2000 területen kedvező természetvédelmi helyzetének megőrzése érdekében valamint
+- d) védett faj megőrzése, védelme érdekében,
 
 az e törvény végrehajtására kiadott jogszabályban foglaltak szerint a 27. §-ban, illetve a 28. §-ban foglaltakat meghaladóan is korlátozhatja, illetve feltételekhez kötheti az erdőgazdálkodást.
 
 (2) A korlátozást megalapozó állapot megszűnése esetén az erdészeti hatóság az (1) bekezdésben foglalt korlátozást visszavonja.
 
-(3) Az erdőgazdálkodás 27. §-ban, 28. §-ban, vagy (1) bekezdésben foglaltakat meghaladó korlátozására az erdőgazdálkodóval való megállapodás alapján kerülhet sor.
+(3)
 
-(4) Helyi jelentőségű védett természeti terület esetében az erdészeti hatóság az érintett település jegyzőjének kezdeményezésére természetvédelmi célból az erdőgazdálkodási tevékenységet csak a természetvédelmi rendeltetés 23. § (3) bekezdésében foglaltak szerinti megállapítását követően korlátozza.
+(4) Helyi jelentőségű védett természeti terület esetében az erdészeti hatóság az érintett település jegyzőjének kezdeményezésére természetvédelmi célból az erdőgazdálkodási tevékenységet korlátozza.
 
-(5) A Natura 2000 rendeltetésű erdőben található jelölő erdei élőhelyek és fajok természetvédelmi helyzetének javítását az állam tájékoztatással, szemléletformálással és támogatással segíti elő.
+(5) A Natura 2000 erdőben található élőhelyek és fajok természetvédelmi helyzetének javítását az állam tájékoztatással, szemléletformálással és támogatással segíti elő.
 
 28/B. § Árvízvédelmi rendeltetésű erdőben az erdő további rendeltetéseivel, valamint a nagyvízi mederkezelési tervben foglalt előírásokkal összhangban, az árvíz és jég megfelelő lefolyásának biztosítása érdekében
 
@@ -994,7 +989,7 @@ folytatott gazdálkodást kell érteni.
 
 (2) Erdőtelepítéshez csak igazolt minőségű és származású szaporítóanyagot szabad felhasználni.
 
-(3) Természetes erdő vagy természetszerű erdő természetességi állapotú erdő, valamint nem erdő művelési ágú, védett természeti terület vagy Natura 2000 területként kijelölt közösségi jelentőségű, jelölő élőhely százméteres körzetében intenzíven terjedő fafajjal erdőt, fásítást, illetve fás szárú növényekből álló, külön jogszabály szerint létesített ültetvényt telepíteni tilos.
+(3) Természetes erdő vagy természetszerű erdő természetességi állapotú erdő, valamint nem erdő művelési ágú, védett természeti terület vagy Natura 2000 százméteres körzetében intenzíven terjedő fafajjal erdőt, fásítást, illetve fás szárú növényekből álló, külön jogszabály szerint létesített ültetvényt telepíteni tilos.
 
 (4) Repülőterek és leszállóhelyek védőövezetében erdőként vagy egyéb fával borított területként fát, illetve faállományt telepíteni csak a repülések biztonságának veszélyeztetése nélkül lehet.
 
