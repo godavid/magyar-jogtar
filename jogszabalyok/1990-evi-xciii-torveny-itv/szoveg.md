@@ -193,7 +193,8 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - f)
 - g) a lakóház építésére alkalmas telektulajdonnak (tulajdoni hányadnak), valamint az ilyen ingatlanra vonatkozó vagyoni értékű jognak az öröklése, ha az örökös az örökölt ingatlanon a hagyaték jogerős átadásától számított 4 éven belül lakóházat épít, és a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Lakóházépítési szándékáról az örökös legkésőbb az illetékfizetési meghagyás véglegessé válásáig nyilatkozhat az állami adóhatóságnál;
 - h) az Európai Gazdasági Térségről szóló megállapodásban részes állam által kibocsátott, hitelviszonyt megtestesítő értékpapír megszerzése;
-- i) az örökhagyó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), valamint túlélő házastársa által megszerzett örökrész.
+- i) az örökhagyó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), valamint túlélő házastársa által megszerzett örökrész;
+- j) az örökhagyó testvére által megszerzett örökrész.
 
 (2a) Az (1) bekezdés g) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -244,6 +245,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - t) az osztalékra vonatkozó követelés elengedése;
 - u) a csődegyezség keretében, valamint a felszámolási eljárásban a követelés elengedése, feltéve, ha a követelés jogosultja nem a csődeljárás, felszámolási eljárás alá vont gazdálkodó szervezet tagja,
 - v) a házastársi vagyonközösség megszüntetéséből származó vagyonszerzés,
+- w) az ajándékozó testvére által megszerzett ajándék;
 - z) összeghatárra tekintet nélkül a természetes személyek bíróságon kívüli vagy bírósági adósságrendezési eljárásában a hitelezők által adós javára elengedett követelés, továbbá az adósságtörlesztési határozatban és a mentesítési határozatban az az összeg, amit nem kell az adósnak a hitelezők számára megfizetnie;
 - zs) az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló törvény rendelkezéseinek végrehajtásával összefüggésben megszűnt kötelezettség.
 
@@ -1579,7 +1581,7 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 (4) A 18. § (2) bekezdés h) pontja szerinti vagyonszerzést csak a 18. § (4) bekezdésében foglalt feltétel teljesülése esetén kell bejelenteni annak, akinek vagyonszerzésével a feltétel teljesült. Az illetékkiszabásra történő bejelentéssel egyidejűleg a vagyonszerző közli a 18. § (4) bekezdésének a)–c) pontjaiban felsorolt személyek közül azoknak az azonosító adatait (név, adóazonosító jel vagy adószám), melyek a vagyonszerzéssel érintett társaságban további vagyoni betétekkel rendelkeznek.
 
-(5) Az (1)–(4) bekezdésben említett bejelentési kötelezettség – a 17. § (1) bekezdés c), k), l), m), p), r), s) pontja alá eső ügylet, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat ingyenes megszerzése, valamint a 26. § (1) bekezdés g), h), o) pontja és a 26. § (1a) bekezdés e) pontja alá eső ügylet kivételével – az illetékmentes vagyonszerzésre is vonatkozik.
+(5) Az (1)–(4) bekezdésben említett bejelentési kötelezettség – a 17. § (1) bekezdés c), k), l), m), p), r), s), w) pontja alá eső ügylet, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat ingyenes megszerzése, valamint a 26. § (1) bekezdés g), h), o) pontja és a 26. § (1a) bekezdés e) pontja alá eső ügylet kivételével – az illetékmentes vagyonszerzésre is vonatkozik.
 
 92. § (1) Az ingatlanügyi hatóság az ingatlan-nyilvántartási bejegyzés végett benyújtott szerződés (okirat) iktatószámmal ellátott és hitelesített másolatát az illetékkiszabáshoz szükséges és rendelkezésre álló egyéb iratokkal együtt az ingatlan-nyilvántartási eljárás befejezését követően haladéktalanul, kísérőjegyzékkel továbbítja az állami adóhatósághoz. Az ingatlanügyi hatóság az ingatlan pénzügyi lízingjére vonatkozó, a futamidő végén tulajdonjog átszállást eredményező szerződéseket a pénzügyi lízingbeadás tényének feljegyzését követően küldi meg az állami adóhatóság részére. A kísérőjegyzék átadása történhet számítógépes adathordozón is.
 
@@ -1704,6 +1706,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 99/U. § Az 57. § (1) bekezdés a) pontjának a törvényszéki végrehajtással összefüggő egyes törvények módosításáról szóló 2019. évi LXXXI. törvénnyel (a továbbiakban: Mód1tv.) megállapított rendelkezését azokban a Mód1tv. hatálybalépése napján folyamatban lévő felszámolási eljárásokban is alkalmazni kell, amelyekben a bíróság az eljárást a Mód1tv. hatálybalépését követően szüntette meg.
 
+99/V. § A 16. § (1) bekezdés j) pontjának és a 17. § (1) bekezdés w) pontjának az illetékekről szóló 1990. évi XCIII. törvény módosításáról szóló 2020. évi LXVI. törvény által megállapított rendelkezéseit a hatálybalépésük napján az állami adóhatóság által véglegesen még el nem bírált illetékügyekben is alkalmazni kell.
+
 ### Felhatalmazás
 
 100. § (1) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendelettel állapítsa meg
@@ -1763,7 +1767,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 (1a) E törvény alkalmazásában
 
 - a) belterületbe vont ingatlan: az olyan ingatlan, amelyet a tulajdonosa, vagyoni értékű jogának jogosítottja tulajdonjogának, vagyoni értékű jogának – ajándékozás útján szerzett ingatlan esetén a megajándékozó (több, egymást követő ajándékozás esetén valamennyi megajándékozó), a 26. § (1) bekezdés g), h), q), t) pontja szerinti ügylet keretében szerzett ingatlan esetén a jogelőd [több, 26. § (1) bekezdés g), h), q) pontja szerinti ügylet esetén valamennyi jogelőd], vagy a kapcsolt vállalkozás [több, 26. § (1) bekezdés t) pontja szerinti ügylet esetén valamennyi kapcsolt vállalkozás] tulajdonjogának, vagyoni értékű jogának – fennállása ideje alatt, de az ingatlan átruházását megelőző 10 éven belül minősítettek belterületté, ide nem értve azt az ingatlant, amelyet az átruházó fél általi megszerzést követő 6. évben vagy azt követően minősítettek belterületté, vagy az átruházó öröklés útján szerzett meg;
-- b) belterületbe vont ingatlannal rendelkező társaság: az olyan gazdálkodó szervezet, amely belterületbe vont ingatlan – közvetett vagy közvetlen – tulajdonosa.
+- b) belterületbe vont ingatlannal rendelkező társaság: az olyan gazdálkodó szervezet, amely belterületbe vont ingatlan – közvetett vagy közvetlen – tulajdonosa;
+- c) testvér: az a személy, akinek legalább az egyik szülője (örökbefogadója) azonos az örökhagyó, megajándékozó szülőjével (örökbefogadójával).
 
 (2) A 2. § (1) bekezdésében megjelölt Magyarországon élő nem magyar állampolgárnak azt kell tekinteni, aki
 
