@@ -689,7 +689,7 @@ címet adományozhat.
 
 (6) A magasabb vezetői és a vezetői megbízás a hatvanötödik életév betöltéséig szólhat. Ha a rektori pályázat kiírása napján a pályázó még nem töltötte be a hatvanötödik életévét, de azt a pályázat kiírásától a megbízás pályázatban kiírt időtartama végéig betölti, akkor vezetői megbízása – a (3) és (4) bekezdésben foglaltaktól eltérően – további egy alkalommal meghosszabbítható.
 
-(7) Az (1)–(6) bekezdésben foglaltakat a munka törvénykönyve hatálya alá tartozó munkáltatónál azzal az eltéréssel kell alkalmazni, hogy a vezetői megbízás alatt vezető állású munkavállalót kell érteni.
+(7)
 
 (8) A főiskolai rektor és az egyetemi rektor megbízásával és felmentésével kapcsolatos eljárásra a 29. § (3) bekezdésben foglaltakat kell alkalmazni, azzal, hogy a főiskolai rektor megbízására, felmentésére a miniszterelnök jogosult.
 
@@ -2914,7 +2914,7 @@ kell érteni.
 
 (4c) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltáshoz kapcsolódóan a jogelőd felsőoktatási intézmény által az állami fenntartó útján a jogutód felsőoktatási intézmény részére átadott pénzeszközt az eredménytartalékkal szemben köteles a könyveibe felvenni.
 
-(5) A fenntartóváltás következtében a felsőoktatási intézmény mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonya a fenntartói jog átszállásának időpontjában megszűnik és – a (7) és (8) bekezdésben meghatározottak szerint – a megszűnését követő nappal munkaviszonnyá alakul. A munkáltató és foglalkoztatott közötti jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (7) bekezdésében foglaltakat, valamint a 37. § (2) bekezdés c) pont rendelkezéseit kell alkalmazni.
+(5) A fenntartóváltás következtében a felsőoktatási intézmény mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonya a fenntartói jog átszállásának napján munkaviszonnyá alakul. A munkáltató és foglalkoztatott közötti jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (7) bekezdésében foglaltakat, valamint a 37. § (2) bekezdés c) pont rendelkezéseit kell alkalmazni.
 
 (6) Az (5) bekezdés szerinti jogállásváltozás folytán létesített munkaviszony első
 
@@ -2926,6 +2926,8 @@ vonatkozó szabályait még alkalmazni kell. Az a) és b) pontban megjelölt id�
 (7) A 37. § szerinti magasabb vezetők és vezetők vezetői megbízása esetén a közalkalmazotti jogviszony a kinevezés szerint alakul át munkaviszonnyá, ezzel egyidejűleg a létrejött munkaszerződés a vezetői megbízás határozott idejére és annak tartalma szerint – a (8) bekezdésben meghatározott eltéréssel – módosul. A vezetői megbízás lejáratát követően a munkaviszony a felek eltérő megállapodása hiányában a korábbi munkaszerződésre módosul vissza azzal, hogy a munka törvénykönyve munkaszerződés módosítására vonatkozó rendelkezéseit alkalmazni kell.
 
 (8) Amennyiben a felsőoktatási intézmény 37. § (1) bekezdés a) pontjában meghatározott, valamint a 94. § (2a) bekezdés alkalmazása esetén a 37. § (1) bekezdés e) pontja szerinti magasabb vezetője vezetői megbízása az (1) bekezdés szerinti fenntartóváltás időpontját megelőző, illetve követő három hónapos időszakon belül járna le és az arra jogosult a magasabb vezetői feladatra újabb személyt nem bízott meg, a 37. § (1) bekezdés a) és e) pontja szerinti magasabb vezető vezetői megbízása az adott magasabb vezetői feladat ellátására kiírt vezetői pályázat eredményes lebonyolításáig, ennek hiányában a vezetői feladat ellátására való megbízásig, de legfeljebb a fenntartóváltás időpontjától számított egyéves időtartamra meghosszabbodik, azzal, hogy ebben az esetben a 37. § (3) és (6) bekezdésében előírt korlátozások nem alkalmazhatók.
+
+(8a) Amennyiben az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény szenátusi tagjainak megbízása az (1) bekezdés szerinti fenntartóváltás időpontját megelőző három hónapos időszakon belül járna le, a szenátusi tagok megbízása az (1) bekezdés szerinti fenntartóváltás időpontját követő szenátusi választás eredményes lebonyolításáig, de legfeljebb a fenntartóváltás időpontját követő 60. napig meghosszabbodik.
 
 (9) Az (1) bekezdés szerinti fenntartóváltás során az Nkt. 84. § (3) bekezdése szerinti tilalmat, az Nkt. 83. § (4)–(6) bekezdésében és 84. § (7) bekezdésében meghatározott eljárási szabályokat nem kell alkalmazni.
 
