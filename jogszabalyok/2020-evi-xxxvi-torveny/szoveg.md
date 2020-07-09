@@ -10,9 +10,9 @@ A regionális szerepet erősíteni tudó, ezen keresztül az innovációt támog
 
 (2) Az Alapítvány alapítása során az állam képviseletében az innovációért és technológiáért felelős miniszter (a továbbiakban: miniszter) jár el.
 
-(3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a miniszter kerüljön kijelölésre.
+(3) Az Alapítvány alapító okiratában rendelkezni kell arról, hogy az alapítói jogok teljes körének gyakorlására a miniszter kerüljön kijelölésre.
 
-(4) Az Alapítvány kuratóriuma elnökét és tagjait a miniszter jelöli ki.
+(4) A miniszter döntése alapján az Alapítvány alapító okiratában az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerülhet kijelölésre.
 
 2. § (1) Az Alapítvány feladata oktatási intézmény, kiemelten a Neumann János Egyetem (a továbbiakban: Egyetem) alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, amelynek érdekében gazdasági tevékenysége keretében az alapító által rendelt, valamint az Alapítványhoz csatlakozók által nyújtott vagyont kezeli.
 
@@ -38,7 +38,7 @@ A regionális szerepet erősíteni tudó, ezen keresztül az innovációt támog
 
 #### 5. Záró rendelkezések
 
-7. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivételekkel – a kihirdetését követő napon lép hatályba.
+7. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) A 6. § 2020. július 31-én lép hatályba.
 
@@ -46,7 +46,7 @@ A regionális szerepet erősíteni tudó, ezen keresztül az innovációt támog
 
 (4) A 9. § és a 10. § 2022. január 1-jén lép hatályba.
 
-8. § A 3. § (1) és (2) bekezdése, a 4. § (2) bekezdése, valamint az 5. § (1) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+8. § A 3. § (1) és (2) bekezdése, a 4. § (2) bekezdése, az 5. § (1) bekezdése, valamint a 6. § (6) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 9. §
 

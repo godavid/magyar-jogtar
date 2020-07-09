@@ -24,24 +24,24 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 
 3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján – a preambulumban meghatározott célok megvalósítása érdekében – az alapító okirat szerint
 
-- a) az 1. melléklet szerinti állami vagyonelemeket, nyilvántartási értéken történő átvezetéssel az Alapítvány bizalmi vagyonkezelésébe, valamint
+- a)
 - b) az Egyetem – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként, az Alapítvány tulajdonába
 
 kell adni.
 
-(2) Az 1. melléklet szerinti vagyonelemek tekintetében az Alapítvány nyilvántartásba vételének hatályával a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket. A miniszter az 1. melléklet szerinti vagyonelemek bizalmi vagyonkezelésbe adásáról az Alapítvány alapító okiratában rendelkezik. Az 1. melléklet szerinti vagyonelemekhez kapcsolódó 2018. év után járó osztalékra vagy annak megfelelő összegre az Alapítvány jogosult.
+(2)
 
-(3) Ha az osztalékfizetés szempontjából figyelembe veendő napon még nem történik meg a részvények bizalmi vagyonkezelésbe adása és átruházása, akkor az 1. melléklet szerinti tulajdoni hányadra jutó osztaléknak megfelelő összeget a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet 2. Az állami vagyonnal kapcsolatos kiadások cím, 3. Az államot korábbi tulajdonosi döntéseihez kapcsolódóan terhelő kiadások alcím, 7. Az államot korábbi tulajdonosi döntéseihez kapcsolódóan terhelő egyéb kiadások jogcímcsoport terhére biztosítja az Alapítvány részére.
+(3)
 
-(4) Az Alapítvány bizalmi vagyonkezelésébe adott 1. melléklet szerinti vagyon elidegenítési és terhelési tilalom alatt áll, biztosítékul nem adható, felszámolási eljárás esetén nem minősül az Alapítvány felszámolás alá vonható vagyonának. Az Alapítvány jogutód nélküli megszűnése vagy megszüntetése esetén ezen vagyonelemek tulajdonjoga az államra száll vissza.
+(4)
 
-(5) Az Alapítvány a részére bizalmi vagyonkezelésbe adott 1. melléklet szerinti részvényekkel kapcsolatos szavazati jogát az MNV Zrt. rendelkezései szerint köteles gyakorolni. Az MNV Zrt. szavazati jog gyakorlásával kapcsolatos rendelkezése hiányában az Alapítvány a részvényesi szavazati jogát nem gyakorolhatja.
+(5)
 
-(6) Ha az Alapítvány részére bizalmi vagyonkezelésbe adott 1. melléklet szerinti részvények kibocsátójának alapszabálya a szavazati jog korlátozásáról rendelkezik és a rendelkezés alapján az állami tulajdonban és az Alapítvány bizalmi vagyonkezelésében lévő részvények egy részvényesi csoportba tartozónak tekintendők, akkor a részvényesi csoport nevében a szavazati jogok gyakorlására az MNV Zrt. jogosult.
+(6)
 
-(7) Az (1) bekezdés szerint alapítói vagyoni juttatásként az Alapítvány tulajdonába adott, valamint az Alapítvány részére bizalmi vagyonkezelésbe adott vagyon tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
+(7) Az (1) bekezdés szerint alapítói vagyoni juttatásként az Alapítvány tulajdonába adott vagyon tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
 
-(8) Az Alapítvány részére bizalmi vagyonkezelésbe adott 1. melléklet szerinti részvényekhez kapcsolódó osztalékhoz való jog az Alapítványt mint kedvezményezettet illeti meg azzal, hogy a bizalmi vagyonkezelés az állam részére ingyenesen történik, ezért kizárólag az osztalék terhére történhet a bizalmi vagyonkezelés keretében felmerülő költségek elszámolása.
+(8)
 
 4. § (1) A Budapest belterület 5063 helyrajzi számú, természetben a Budapest XI. kerület Mányoki út 9. szám alatti állami tulajdonban álló ingatlan tekintetében 2020. január 1. napjával a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket. Az ingatlant az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján – a preambulumban meghatározott célok megvalósítása érdekében, a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – az alapító okirat szerint, alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
 
@@ -57,7 +57,7 @@ kell adni.
 
 (2) Az e törvény szerinti vagyonjuttatás során a 2. mellékletben szereplő védett ingatlanok esetében nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 44. § (1) bekezdés a) pontját, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 25. § (5) bekezdését.
 
-(3) A 2. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az MNV Zrt. köti meg az Egyetemmel.
+(3) A 2. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) köti meg az Egyetemmel.
 
 (4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdésben meghatározott közfeladatok ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
@@ -105,7 +105,7 @@ kell adni.
 | 4. | BUDAPEST | IX.KER. | 37058 | Kivett egyetem |
 | 5. | BUDAPEST | IX.KER. | 37059 | Kivett lakóház, udvar |
 | 6. | BUDAPEST | IX.KER. | 37076 | Kivett beépítetlen terület |
-| 7. | BUDAPEST | IX.KER. | 36950/0/A/45 | kollégium |
+| 7. | BUDAPEST | IX.KER. | 36950/0/A/45 | Kollégium |
 | 8. | BUDAPEST | IX.KER. | 37064/1 | Kivett beépített terület |
 | 9. | BUDAPEST | IX.KER. | 37064/2 | Kivett saját használatú út |
 | 10. | BUDAPEST | IX.KER. | 37064/3 | Kivett saját használatú út |
