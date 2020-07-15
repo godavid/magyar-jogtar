@@ -307,6 +307,13 @@ tart.
 
 (6) Az (1) bekezdés i) pontjában említett tanuló, képzésben részt vevő személy és hallgató a tanulói jogviszony vagy a hallgatói jogviszony kezdetétől a diákigazolványra való jogosultság megszűnéséig jogosult egészségügyi szolgáltatásra, ideértve a tanulói, hallgatói jogviszony szünetelésének időtartamát is.
 
+(7) A (3) bekezdés és a 43. § (1) bekezdés a) pontja alkalmazásában belföldi az a Magyarországon élő magyar állampolgár is, aki
+
+- a) a jogviszony vizsgálat időpontjában társadalombiztosítási, szociális, családtámogatási ellátásban részesül, és
+- b) a jogviszony vizsgálatot megelőző öt éven belül
+  - ba) rendelkezett belföldön legalább tizenkét hónap biztosítási jogviszonnyal, vagy
+  - bb) legalább tizenkét hónapig egészségügyi szolgáltatásra volt jogosult az (1) bekezdés alapján.
+
 ### IV. Fejezet — AZ ELLÁTÁSOK FEDEZETE
 
 #### 7. Járulékfizetésre vonatkozó általános szabályok
@@ -328,7 +335,7 @@ fizet.
 
 (2) A nyugdíjjárulék mértéke 10 százalék.
 
-(3) Az egészségügyi szolgáltatási járulék havi összege 7.710 forint (napi összege 257 forint).
+(3) Az egészségügyi szolgáltatási járulék havi összege 7 710 forint (napi összege 257 forint). A 2020. évet követően az egészségügyi szolgáltatási járulék tárgyévi havi mértéke a tárgyévet megelőző évi egészségügyi szolgáltatási járulék havi mértékének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összege, 100 forintra kerekítve. Az egészségügyi szolgáltatási járulék napi mértéke a havi mérték harmincad része, 10 forintra kerekítve. Az előbbiek szerint megállapított járulék mértékeket a Nemzeti Adó- és Vámhivatal a honlapján a tárgyévet megelőző év október 31-ig közzéteszi.
 
 (4) A központi költségvetés a 22. § (1) bekezdés b) pontjában meghatározott személyek, a gyermekgondozási díjban részesülők, valamint a 22. § (1) bekezdés c)–f), h)–p) és r)–t) pontjában meghatározott személyek után havonta a központi költségvetésről szóló törvényben meghatározott összegű egészségügyi szolgáltatási járulékot fizet.
 
@@ -336,7 +343,7 @@ fizet.
 
 #### 8. A befizetések elszámolása
 
-26. § (1) A befizetett társadalombiztosítási járulékból az állami adóhatóság 54 százalékot nyugdíjjárulék címén a Nyugdíjbiztosítási Alapnak, 37,9 százalékot egészségbiztosítási járulék címén az Egészségbiztosítási Alapnak, 8,1 százalékot munkaerőpiaci járulék címén a Nemzeti Foglalkoztatási Alapnak naponta utal át.
+26. § (1) A befizetett társadalombiztosítási járulékból az állami adóhatóság 54 százalékot nyugdíjjárulék címén a Nyugdíjbiztosítási Alapnak, 37,9 százalékot egészségbiztosítási járulék címén az Egészségbiztosítási Alapnak, 8,1 százalékot munkaerőpiaci járulék címén a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapnak naponta utal át.
 
 (2) Az állami adóhatóság a nyugdíjjárulék címén megfizetett járulékot a Nyugdíjbiztosítási Alapnak naponta utalja át.
 
@@ -347,9 +354,9 @@ fizet.
 27. § (1) Járulékalapot képező jövedelem
 
 - a) az Szja tv. szerint összevont adóalapba tartozó önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a szakképzési munkaszerződés alapján ténylegesen kifizetett pénzbeli juttatás, a felszolgálási díj, az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj,
-- b) az a) ponttól eltérően, ha nemzetközi szerződés alapján Magyarországnak nem áll fenn adóztatási joga,
+- b) az a) ponttól eltérően, ha nemzetközi szerződés alapján Magyarországnak nem áll fenn adóztatási joga, vagy kettős adózást kizáró egyezmény hiányában adóelőleg megállapítási kötelezettség nem keletkezik,
   - ba) az alapbér, de legalább a tárgyévet megelőző év július hónapjára a Központi Statisztikai Hivatal által a teljes munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó átlagkereset, vagy
-  - bb) a tevékenység ellenértékeként a tárgy hónapban megszerezett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem, ha az nem éri el a ba) alpont szerinti összeget.
+  - bb) a tevékenység ellenértékeként a tárgy hónapban megszerzett – munkaviszony esetében a tárgyhónapra elszámolt – jövedelem, ha az nem éri el a ba) alpont szerinti összeget.
 
 (2) A 6. § (1) bekezdés a) pontjában meghatározott esetben a járulékalap havonta legalább a minimálbér 30 százaléka (a továbbiakban: járulékfizetési alsó határ), azzal, hogy ha
 
@@ -406,7 +413,7 @@ együttesen kell figyelembe venni.
 
 34. § (1) Az Szja tv. szerinti családi kedvezmény érvényesítésére jogosult biztosított és – a családi kedvezményt megosztással érvényesítő – biztosított házastársa, élettársa családi járulékkedvezményre jogosult.
 
-(2) A családi járulékkedvezmény csökkenti a biztosított által fizetendő társadalombiztosítási járulék összegét.
+(2) A családi járulékkedvezmény csökkenti a biztosított által fizetendő társadalombiztosítási járulék vagy nyugdíjjárulék összegét.
 
 (3) A családi járulékkedvezmény összege a biztosítottat megillető, az Szja tv. szerinti családi kedvezmény összegéből
 
@@ -415,7 +422,7 @@ együttesen kell figyelembe venni.
 - c) a biztosított és a családi kedvezményt megosztással érvényesítő biztosított házastársa, élettársa által együttesen vagy
 - d) a b) és c) pont szerinti biztosítottak által együttesen
 
-ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 százaléka, de legfeljebb a társadalombiztosítási járulék összege.
+ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 százaléka, de legfeljebb a társadalombiztosítási járulék vagy nyugdíjjárulék összege.
 
 (4) A családi járulékkedvezményt a (3) bekezdés b)–d) pontjában meghatározott személyek döntésük szerint együtt is, de csak egyszeresen érvényesíthetik. A családi járulékkedvezmény együttes igénybevételének feltétele az érintett magánszemélyek – adóbevallásban közösen tett, egymás adóazonosító jelét is feltüntető – nyilatkozata, amely tartalmazza a kedvezmény összegének felosztására vonatkozó döntésüket.
 
@@ -534,7 +541,7 @@ kell figyelembe venni.
 - b) tagi munkavégzés esetén a szociális szövetkezet e tagja után,
 - c) a központi költségvetés a 22. § (1) bekezdés b) pontjában meghatározott – foglalkoztatottnak vagy kiegészítő tevékenységet folytatónak nem minősülő – személyek, a gyermekgondozási díjban részesülők, valamint a 22. § (1) bekezdés a)–f), h)–p) és r)–t) pontjában meghatározott személyek után.
 
-(2) Az (1) bekezdésben meghatározott kötelezettség további feltétele, hogy a természetes személy a bejelentkezését megelőzően megszakítás nélkül legalább egy éve a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel, illetve tartózkodási engedéllyel rendelkező hontalan személy esetén a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerint bejelentett szálláshellyel rendelkezik Magyarország területén. Az egyéves időtartamba beleszámít az a legfeljebb kilencven napos időszak is, amely alatt a belföldi személy nem rendelkezett Magyarország területén bejelentett lakóhellyel. Ha az állami adó- és vámhatóság az egyéves időtartamra vonatkozóan a saját nyilvántartásában nem rendelkezik adattal, a járulékfizetési kötelezettség elbírálása céljából a lakcímre vonatkozó adatok közlése érdekében megkeresi a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet, illetve a szálláshellyel kapcsolatos idegenrendészeti nyilvántartást kezelő szervet.
+(2) Az (1) bekezdésben meghatározott kötelezettség további feltétele, hogy a természetes személy a járulékfizetési kötelezettsége keletkezését, vagy a 71. § (2) bekezdése szerinti bejelentkezését megelőzően megszakítás nélkül legalább egy éve a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel, illetve tartózkodási engedéllyel rendelkező hontalan személy esetén a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerint bejelentett szálláshellyel rendelkezik Magyarország területén. Az egyéves időtartamba beleszámít az a legfeljebb kilencven napos időszak is, amely alatt a belföldi személy nem rendelkezett Magyarország területén bejelentett lakóhellyel. Ha a biztosítottak nyilvántartásáért felelős szerv az egyéves időtartamra vonatkozóan a saját nyilvántartásában nem rendelkezik adattal, a járulékfizetési kötelezettség elbírálása céljából a lakcímre vonatkozó adatok közlése érdekében megkeresi a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet, illetve a szálláshellyel kapcsolatos idegenrendészeti nyilvántartást kezelő szervet. Az e bekezdés szerinti feltétel a 22. § (7) bekezdés szerint belföldinek minősülő személyekre nem vonatkozik.
 
 (3) Ha a biztosítási kötelezettség megállapítására utólag kerül sor, a biztosítási jogviszony fennállásának időtartama alatt az e § alapján előírt járulékot a foglalkoztató által kiállított igazolás benyújtása mellett az állami adó- és vámhatóság törli.
 
@@ -548,17 +555,36 @@ kell figyelembe venni.
 
 (2) Az (1) bekezdés szerint meghatározott fizetési kötelezettség kezdetétől eltérő időpontra a fizetési kötelezettség nem állapítható meg.
 
-(3) Az (1) bekezdés szerinti fizetési kötelezettségről a biztosítási jogviszony megszűnésének, vagy a 22. § (1) bekezdés a)–u) pontja, vagy a 3. §-a szerint fennálló jogosultság megszűnésének bejelentésétől számított 8 napon belül – a biztosítottak nyilvántartásáért felelős szerv folyamatos elektronikus adatátadás útján érkező jelzése alapján – az állami adó- és vámhatóság tájékoztatást küld a fizetésre kötelezettnek. A tájékoztatás tartalmazza az e § szerinti fizetési kötelezettségre, továbbá az Ebtv. szerinti egészségügyi szolgáltatásra való jogosultságra vonatkozó szabályokat.
+(3) Az (1) bekezdés szerinti fizetési kötelezettségről a biztosítási jogviszony megszűnésének, vagy a 22. § (1) bekezdés a)–u) pontja, vagy a 3. §-a szerint fennálló jogosultság megszűnésének bejelentését követően – a biztosítottak nyilvántartásáért felelős szerv folyamatos elektronikus adatátadás útján érkező jelzése alapján – az állami adó- és vámhatóság az adatátadást követő 8 napon belül tájékoztatást küld a fizetésre kötelezett természetes személynek. A tájékoztatás tartalmazza az e § szerinti fizetési kötelezettségre, továbbá az Ebtv. szerinti egészségügyi szolgáltatásra való jogosultságra vonatkozó szabályokat.
+
+(4) Az állami adóhatóság elektronikus visszaigazolását követően a biztosítottak nyilvántartásáért felelős szerv a 43. § (1) bekezdés a) pontja szerinti egészségügyi szolgáltatási járulékfizetésre kötelezettet bejegyzi az egészségügyi szolgáltatásra jogosultak nyilvántartásába.
+
+(5) Ha az egészségügyi szolgáltatási járulék fizetésére kötelezett személy vitatja a fizetési kötelezettség jogalapját, mert az érintett időszakban
+
+- a) a 3. §, a 22. § (1) bekezdés a)–u) pontja alapján egészségügyi szolgáltatásra jogosult, vagy
+- b) a 6. § alapján biztosított
+
+egyeztetést kezdeményezhet.
+
+(6) Az (5) bekezdés a) pontja szerinti esetben az egészségbiztosítási szerv megteszi a 69. § (2) bekezdés szerinti intézkedést és a tényállás tisztázása érdekében a 69. § (4) bekezdése szerinti bizonyítást folytatja le. Az (5) bekezdés b) pontja szerinti esetben az egyeztetési eljárást az állami adó- és vámhatóság folytatja le. Az egyeztetés eredményéről az eljáró szerv a rá irányadó jogszabályok szerint döntést hoz.
+
+(7) Az egészségbiztosítási szerv az állami adó- és vámhatóságot, az állami adó- és vámhatóság az egészségbiztosítási szervet haladéktalanul elektronikus úton tájékoztatja az (5) bekezdés szerinti eljárás kezdeményezésének tényéről és a lefolytatott egyeztetés eredményéről a 73. § (12) bekezdés szerinti adattartalommal.
+
+(8) A (6) bekezdés szerinti eljárások, valamint az ezen eljárásokhoz kapcsolódó jogorvoslati eljárások esetében meghozott határozat véglegessé válásáig nem tekinthető hátraléknak az egészségügyi szolgáltatási járulékból felhalmozott tartozás a 46. § (2) bekezdés alkalmazásakor.
+
+(9) Ha az egészségügyi szolgáltatási járulékfizetési kötelezettség határozattal történő megállapítására utólag kerül sor, a fizetési kötelezettséget a határozat véglegessé válásától számított 15 napon belül kell teljesíteni.
+
+(10) Ha az állami adó- és vámhatóság a biztosítottak nyilvántartásáért felelős szerv adatszolgáltatása alapján utólag ír elő fizetési kötelezettséget, azt az adatszolgáltatást követő 30 napon belül kell teljesíteni. A fizetési határidőről az állami adó- és vámhatóság a (3) bekezdés szerinti tájékoztató levélben értesíti a fizetésre kötelezett természetes személyt.
 
 46. § (1) A 43. § (1) bekezdés a) pontja szerinti egészségügyi szolgáltatási járulék megfizetése alapozza meg az 22. § (1) bekezdés v) pontja szerinti személy egészségügyi szolgáltatásra való jogosultságát.
 
-(2) Ha az egészségügyi szolgáltatási járulékfizetésre kötelezett személy a 43. § (1) bekezdés a) pontja szerinti fizetési kötelezettségét nem teljesíti és az ebből keletkező hátralék összege meghaladja az egészségügyi szolgáltatási járulék havi összegének háromszorosát, a Társadalombiztosítási Azonosító Jel (a továbbiakban: TAJ szám) egészségügyi szolgáltatás igénybevétele vonatkozásában érvénytelen, az egészségügyi szolgáltatás térítésmentesen nem vehető igénybe, kivéve akkor, ha a tartozás az egészségügyi szolgáltatás igénybevétele előtt visszamenőleg kiegyenlítésre kerül. Az állami adó- és vámhatóság az egészségügyi szolgáltatás járulékfizetési kötelezettség nem teljesítéséből keletkező hátralékról szóló adatot átadja a biztosítotti nyilvántartás kezeléséért felelős szerv részére, amely ez alapján a TAJ számot egészségügyi szolgáltatás igénybevétele céljára érvényteleníti.
+(2) Ha az egészségügyi szolgáltatási járulékfizetésre kötelezett személy a 43. § (1) bekezdés a) pontja szerinti fizetési kötelezettségét nem teljesíti és az ebből keletkező hátralék összege meghaladja az egészségügyi szolgáltatási járulék havi összegének hatszorosát, a Társadalombiztosítási Azonosító Jel (a továbbiakban: TAJ szám) egészségügyi szolgáltatás igénybevétele vonatkozásában érvénytelen, az egészségügyi szolgáltatás térítésmentesen nem vehető igénybe. Az állami adó- és vámhatóság az egészségügyi szolgáltatás járulékfizetési kötelezettség nem teljesítéséből keletkező hátralékról szóló adatot átadja a biztosítotti nyilvántartás kezeléséért felelős szerv részére, amely ez alapján a TAJ számot egészségügyi szolgáltatás igénybevétele céljára érvényteleníti. A biztosítottak nyilvántartás kezeléséért felelős szerv a TAJ szám érvényességét az állami adó- és vámhatóságnak a tartozás megfizetéséről vagy a fizetési kedvezmény engedélyezéséről szóló adatszolgáltatását követő naptól állítja vissza. A tartozás utólagos megfizetése nem eredményezi a TAJ szám visszamenőleges érvényességét.
 
-(3) Ha az egészségügyi szolgáltatási járulékfizetésre nem kötelezett személy (így különösen az EGT más tagállamban biztosított személy) egészségügyi szolgáltatási járulék fizetés alapján vesz igénybe egészségügyi szolgáltatást, akkor a természetes személy köteles az egészségügyi szolgáltatás Egészségbiztosítási Alapot terhelő költségeit megtéríteni. A jogalap nélküli egészségügyi szolgáltatási járulék adószámlán előírt összegét az adóhatóság törli, az igénybe vett egészségügyi szolgáltatás értékét – az Egészségbiztosítási Alap kezeléséért felelős szerv azonnali adatszolgáltatása alapján – az egészségügyi szolgáltatási járulék nyilvántartására szolgáló adószámlán kötelezettségként előírja.
+(3) Ha az egészségügyi szolgáltatási járulékfizetésre nem kötelezett személy (így különösen az EGT más tagállamban biztosított személy) egészségügyi szolgáltatási járulék fizetés alapján vesz igénybe egészségügyi szolgáltatást, akkor a természetes személy köteles az egészségügyi szolgáltatás Egészségbiztosítási Alapot terhelő költségeit megtéríteni. Az igénybe vett egészségügyi szolgáltatás Egészségbiztosítási Alapot terhelő költségeinek megfizetésére az egészségbiztosítási szerv kötelezi a természetes személyt a közfinanszírozott szolgáltatótól beérkezett teljesítményjelentés alapján. Ha a kötelezett önként nem téríti meg a költségeket, a követelést az egészségbiztosítási szerv az állami adó- és vámhatóságnak adók módjára behajtandó köztartozásként átadja. A jogalap nélküli egészségügyi szolgáltatási járulék adószámlán előírt kötelezettség összegét az állami adó- és vámhatóság törli. Az egészségügyi szolgáltatási adószámláról a törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került.
 
 47. § (1) A tagi jogviszony szünetelése alatt a szövetkezet nem fizet egészségügyi szolgáltatási járulékot. A szövetkezeti tag közfoglalkoztatási jogviszonyának fennállása alatt a szociális szövetkezetre és tagjára vonatkozó járulékfizetési rendelkezések nem alkalmazhatók.
 
-(2) A szociális szövetkezet az egészségügyi szolgáltatási járulék megfizetése alól a tagi munkavégzési jogviszony létrejöttét követő első évben mentesül, a második évben az egészségügyi szolgáltatási járulék 25 százalékának, harmadik évben 50 százalékának, negyedik évben 75 százalékának, az ötödik évtől 100 százalékának megfizetésére kötelezett. Az egészségügyi szolgáltatási járulék különbözetét a Nemzeti Foglalkoztatási Alap negyedévente megtéríti az Egészségbiztosítási Alap részére.
+(2) A szociális szövetkezet az egészségügyi szolgáltatási járulék megfizetése alól a tagi munkavégzési jogviszony létrejöttét követő első évben mentesül, a második évben az egészségügyi szolgáltatási járulék 25 százalékának, harmadik évben 50 százalékának, negyedik évben 75 százalékának, az ötödik évtől 100 százalékának megfizetésére kötelezett. Az egészségügyi szolgáltatási járulék különbözetét a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap negyedévente megtéríti az Egészségbiztosítási Alap részére.
 
 (3) A (2) bekezdés szerinti kedvezményt ugyanazon személy után egy időben csak egy szociális szövetkezet, továbbá ugyanaz a szociális szövetkezet ugyanazon tagja után csak egy alkalommal veheti igénybe.
 
@@ -707,7 +733,7 @@ kívánja szolgálati időként elismertetni.
 
 (2) Az 55. § szerinti nyilvántartások az (1) bekezdésben meghatározott adatok tekintetében közhiteles hatósági nyilvántartásoknak minősülnek.
 
-(3) Az állami adóhatóság a társadalombiztosítási ellátások jogosulatlan igénybevételének megakadályozása, az ellátások összegének megállapítása érdekében az e törvényben és az Art.-ban meghatározott adatokat a biztosítottak adóazonosító jelének feltüntetésével szolgáltatja. A nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv (a továbbiakban: társadalombiztosítási igazgatási szervek) az átadott nyilvántartás adatait a saját nyilvántartásának adataival a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szabályai szerinti kapcsolati kód alkalmazásával veti egybe. A társadalombiztosítási igazgatási szervek a jogosulatlan ellátások igénybe vevőiről adóazonosító jel feltüntetésével tájékoztatják az állami adóhatóságot.
+(3) Az állami adóhatóság a társadalombiztosítási ellátások jogosulatlan igénybevételének megakadályozása, az ellátások összegének megállapítása érdekében az e törvényben és az Art.-ban meghatározott adatokat a biztosítottak adóazonosító jelének feltüntetésével szolgáltatja. A nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv (a továbbiakban: társadalombiztosítási igazgatási szervek) az átadott nyilvántartás adatait a saját nyilvántartásának adataival a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szabályai szerinti kapcsolati kód alkalmazásával veti egybe. A társadalombiztosítási igazgatási szervek – ide nem értve a biztosítotti nyilvántartás vezetéséért felelős szervet – a jogosulatlan ellátások igénybe vevőiről adóazonosító jel feltüntetésével tájékoztatják az állami adóhatóságot. A biztosítotti nyilvántartásért felelős szerv a jogosulatlan ellátások igénybevevőiről kapcsolati kód feltüntetésével tájékoztatja az állami adó- és vámhatóságot.
 
 (4) A társadalombiztosítási ellátások megállapítása és jogszerű igénybevételének ellenőrzése érdekében az állami adóhatóság az Art.-ban foglaltak szerint adatot szolgáltat a központi nyugdíjbiztosítási szerv, a rehabilitációs hatóság és az egészségbiztosítási szerv részére.
 
@@ -717,7 +743,7 @@ kívánja szolgálati időként elismertetni.
 
 ### VII. Fejezet — AZ ADATSZOLGÁLTATÁSI KÖTELEZETTSÉG TERJEDELME, ADATVÉDELMI RENDELKEZÉSEK
 
-60. § (1) Az igazgatási szervek a nyilvántartási rendszerben az alábbi személyes adatokat tarthatják nyilván és kezelhetik:
+60. § (1) Az igazgatási szervek a nyilvántartási rendszerben az alábbi személyes adatokat tartják nyilván és kezelik:
 
 - a) személyi adatok (név, leánykori név, anyja neve, születési hely, születés éve, hónapja és napja),
 - b) családi állapot, állampolgárság,
@@ -727,7 +753,7 @@ kívánja szolgálati időként elismertetni.
 - f) jövedelemre vonatkozó adatok,
 - g) TAJ szám.
 
-(2) Az igazgatási szerv, valamint a társadalombiztosítási feladatokat ellátó foglalkoztatók és egyéb szervek nem társadalombiztosítási szerv és természetes személy részére adatot csak törvény, illetve törvény felhatalmazása alapján a felhasználás céljának és jogalapjának egyidejű megjelölése mellett jogszabályban meghatározott módon szolgáltathatnak.
+(2) Az igazgatási szerv, valamint a társadalombiztosítási feladatokat ellátó foglalkoztatók és egyéb szervek nem társadalombiztosítási szerv és természetes személy részére adatot csak törvény, illetve törvény felhatalmazása alapján a felhasználás céljának és jogalapjának egyidejű megjelölése mellett jogszabályban meghatározott módon szolgáltatnak.
 
 (3) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok feladataik ellátása érdekében a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
@@ -838,13 +864,13 @@ jelenti be az egészségbiztosítási szervnek.
 
 (3) Az egészségbiztosítási szerv az egészségügyi szolgáltatásra jogosultak nyilvántartásában nem szereplő, de biztosítotti státuszát okirattal hitelesen igazoló természetes személyre vonatkozóan a biztosítotti jogviszony fennállásának az egészségbiztosítási szerv eljárása során történő tisztázását követően az Art. 1. mellékletében foglaltak szerinti bejelentést hivatalból teljesíti az állami adó- és vámhatóság felé.
 
-(4) Az egészségbiztosítási szerv az egészségügyi szolgáltatásra jogosultak nyilvántartásában biztosítottként vagy egyéb jogcímen egészségügyi szolgáltatásra jogosultként nem szereplő személyekről a bejelentési és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából külön megállapodásban foglaltak szerint adatot szolgáltathat az állami adóhatóságnak.
+(4) Az egészségbiztosítási szerv az egészségügyi szolgáltatásra jogosultak nyilvántartásában biztosítottként vagy egyéb jogcímen egészségügyi szolgáltatásra jogosultként nem szereplő személyekről a bejelentési és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából külön megállapodásban foglaltak szerint adatot szolgáltat az állami adóhatóságnak.
 
-(5) Az (1)–(4) bekezdésben meghatározott adatszolgáltatás kiterjedhet az Art. rendelkezései szerint az adóigazolvány kiállításához szükséges természetes azonosító adatokra.
+(5) Az (1)–(4) bekezdésben meghatározott adatszolgáltatás kiterjed az Art. rendelkezései szerint az adóigazolvány kiállításához szükséges természetes azonosító adatokra. A (2)–(3) bekezdés szerinti esetek kivételével az adatszolgáltatás tartalmazza az egészségügyi szolgáltatásra való jogosultság megszűnésének időpontját is, figyelembe véve az Ebtv. 29. § (9) bekezdésében foglalt egészségügyi szolgáltatásra való jogosultság időtartamát is.
 
 (6) Az állami adóhatóság az (1)–(4) bekezdésben, valamint a 69. § (3) bekezdésében meghatározott adatszolgáltatás alapján ellenőrzi a bejelentési és járulékfizetési kötelezettség teljesítését.
 
-(7) Ha az állami adóhatóság tudomást szerez arról, hogy a foglalkoztató megszűnt, azonban a biztosítás megszűnéséről bejelentés nem történt, az egészségügyi szolgáltatásra való jogosultság ellenőrzése céljából a cég nevéről, székhelyéről és a foglalkoztatottak az Art. rendelkezései szerint az adóigazolvány kiállításához szükséges természetes azonosító adatairól tájékoztatja az egészségbiztosítási szervet. Ha az egészségbiztosítási szerv nyilvántartása szerint a természetes személy egészségügyi szolgáltatásra való jogosultsága a foglalkoztató megszűnése miatt már nem áll fenn, az egészségbiztosítási szerv erről tájékoztatja az adóhatóságot.
+(7) Ha az állami adóhatóság tudomást szerez arról, hogy a foglalkoztató megszűnt, azonban a biztosítás megszűnéséről bejelentés nem történt, az egészségügyi szolgáltatásra való jogosultság ellenőrzése céljából a cég nevéről, székhelyéről és a foglalkoztatottak az Art. rendelkezései szerint az adóigazolvány kiállításához szükséges természetes azonosító adatairól tájékoztatja az egészségbiztosítási szervet. Ha az egészségbiztosítási szerv nyilvántartása szerint a természetes személy egészségügyi szolgáltatásra való jogosultsága a foglalkoztató megszűnése miatt már nem áll fenn, akkor az egészségbiztosítási szerv a 45. § (3) bekezdése szerinti adatszolgáltatást teljesít az állami adó- és vámhatóságnak.
 
 (8) Az idegenrendészeti hatóság az állami adóhatóság kérésére a 43. § (1) bekezdésében előírt járulékfizetésre bejelentkező személyek ellenőrzése céljából adatot szolgáltat az állami adóhatóságnak azokról, akik a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározott tartózkodási feltételek teljesítését más EGT-államban fennálló biztosítással (Európai Egészségbiztosítási Kártyával) igazolják. Az adatszolgáltatás az Art. rendelkezései szerint az adóigazolvány kiállításához szükséges természetes azonosító adatokra terjed ki. Az adatszolgáltatás módjáról az állami adóhatóság megállapodást köt az idegenrendészeti hatósággal.
 
@@ -858,9 +884,9 @@ jelenti be az egészségbiztosítási szervnek.
 
 70. § A kisadózó vállalkozások tételes adójának alanya a biztosítási kötelezettségének bejelentését a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben meghatározottak szerint a főállású kisadózói státuszának bejelentésével teljesíti.
 
-71. § (1) A 43. § szerinti egészségügyi szolgáltatási járulékfizetési kötelezettségről a biztosítási jogviszony megszűnésének, a 22. § (1) bekezdés a)–u) pontja, vagy a 3. §-a szerint fennálló jogosultság megszűnésének bejelentésétől számított 8 napon belül az állami adó- és vámhatóság tájékoztatást küld a fizetésre kötelezettnek. A tájékoztatás tartalmazza a 43–46. § szerinti fizetési kötelezettségre, továbbá az Ebtv. szerinti egészségügyi szolgáltatásra való jogosultságra vonatkozó szabályokat. Az állami adó- és vámhatóság a járulékfizetési kötelezettséget az adószámlán előírja, a befizetéseket nyilvántartja, és az e törvényben, vagy más törvényben meghatározott esetben a járulékfizetési kötelezettséget törli.
+71. § (1) A 43. § (1) bekezdés a) pontja szerinti egészségügyi szolgáltatási járulékfizetési kötelezettségről a biztosítási jogviszony megszűnésének, a 22. § (1) bekezdés a)–u) pontja, vagy a 3. §-a szerint fennálló jogosultság megszűnésének bejelentését követően a biztosítottak nyilvántartásáért felelős szerv adatátadásától számított 8 napon belül az állami adó- és vámhatóság tájékoztatást küld a fizetésre kötelezett természetes személynek. A tájékoztatás tartalmazza a 43–46. § szerinti fizetési kötelezettségre, továbbá az Ebtv. szerinti egészségügyi szolgáltatásra való jogosultságra vonatkozó szabályokat. Az állami adó- és vámhatóság az e törvény szerinti járulékfizetési kötelezettséget az adószámlán elkülönítetten előírja, a befizetéseket nyilvántartja, és az e törvényben, vagy más törvényben meghatározott esetben a járulékfizetési kötelezettséget törli.
 
-(2) Ha az adóhatóság bármely okból (így különösen ha a fizetési kötelezettséggel érintett személy nem minősült belföldinek ezt megelőzően, a foglalkoztató nem jelentette be a biztosítási jogviszony végét) az (1) bekezdés szerinti fizetési kötelezettséget nem írta elő, az egészségügyi szolgáltatási járulékfizetésre kötelezett személy a 43. § szerinti fizetési kötelezettségét és annak megszűnését külön eljárás keretében jelenti be az állami adó- és vámhatóságnak. Az állami adó- és vámhatóság a bejelentést követő 8 napon belül a 43. §-ban foglaltak figyelembevételével határozatot hoz. A 43. §-ban foglalt feltételek teljesülése esetén a határozat tartalmazza a biztosítási jogviszony megszűnése, vagy a 22. § (1) bekezdés a)–u) pontja, vagy a 3. §-a szerint fennálló jogosultság megszűnése időpontjától a fizetési kötelezettség előírását. Az állami adó- és vámhatóság a járulékfizetési kötelezettséget az adószámlán előírja, a befizetéseket nyilvántartja és az e törvényben, vagy más törvényben meghatározott esetben a járulékfizetési kötelezettséget törli. Az állami adó- és vámhatóság az adóazonosító jellel nem rendelkező kötelezett személy részére az Art. rendelkezései szerint adóazonosító jelet állapít meg.
+(2) Ha az adóhatóság bármely okból (így különösen ha a fizetési kötelezettséggel érintett személy nem minősült belföldinek ezt megelőzően, vagy a foglalkoztató nem jelentette be a biztosítási jogviszony végét) az (1) bekezdés szerinti fizetési kötelezettséget nem írta elő, az egészségügyi szolgáltatási járulékfizetésre kötelezett személy a 43. § szerinti fizetési kötelezettségét külön eljárás keretében jelenti be – és egyidejűleg nyilatkozik arról, hogy más EGT-államban vagy szociális biztonsági egyezményes államban nem áll fenn biztosítása – az állami adó- és vámhatóságnak. Az állami adó- és vámhatóság a 73. § (13) bekezdés szerinti adatszolgáltatást követő 8 napon belül a 43. §-ban foglaltak figyelembevételével határozatot hoz. A 43. §-ban foglalt feltételek teljesülése esetén a határozat tartalmazza a biztosítási jogviszony megszűnése, vagy a 22. § (1) bekezdés a)–u) pontja, vagy a 3. §-a szerint fennálló jogosultság megszűnése esetén a fizetési kötelezettség előírását és annak kezdő időpontját. Az állami adó- és vámhatóság a járulékfizetési kötelezettséget az adószámlán előírja, a befizetéseket nyilvántartja és az e törvényben, vagy más törvényben meghatározott esetben a járulékfizetési kötelezettséget törli. Az állami adó- és vámhatóság az adóazonosító jellel nem rendelkező kötelezett személy részére az Art. rendelkezései szerint adóazonosító jelet állapít meg.
 
 (3) Az adóhatóság a kötelezett személyt az egészségügyi szolgáltatási járulékfizetési kötelezettsége megszűnéséről hivatalból értesíti, ha e fizetési kötelezettség biztosítással járó olyan jogviszony létesítése miatt szűnik meg, amelyet az állami adó- és vámhatósághoz az Art.-ban foglaltaknak megfelelően bejelentettek. A biztosítási kötelezettséggel járó jogviszony létesítésére tekintettel az adóhatósághoz beérkezett bejelentés figyelembevételével az állami adó- és vámhatóság a megszűnt egészségügyi szolgáltatási járulékfizetési kötelezettségről a bejelentést követően azonnal elektronikus úton adatot szolgáltat az Egészségbiztosítási Alap kezeléséért felelős szerv részére.
 
@@ -875,21 +901,23 @@ jelenti be az egészségbiztosítási szervnek.
 - a) huzamos ideje, életvitelszerűen Magyarország területén kívül tartózkodik, és
 - b) a tartózkodási helye jogszabályai szerinti egészségbiztosítási rendszer hatálya alatt áll.
 
-(8) Ha egészségügyi szolgáltatás igénybevételére került sor a (7) bekezdésben foglalt időszak alatt, az ellátás összegét az adóhatóság – az Egészségbiztosítási Alap kezeléséért felelős szerv azonnali adatszolgáltatása alapján – az egészségügyi szolgáltatási járulék nyilvántartására szolgáló adószámlán kötelezettségként előírja.
+Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került.
+
+(8) Ha egészségügyi szolgáltatás igénybevételére került sor a (7) bekezdésben foglalt időszak alatt, akkor a természetes személy köteles az egészségügyi szolgáltatás Egészségbiztosítási Alapot terhelő költségeit megtéríteni. Az igénybe vett egészségügyi szolgáltatás Egészségbiztosítási Alapot terhelő költségeinek megfizetésére az egészségbiztosítási szerv kötelezi a természetes személyt a közfinanszírozott szolgáltatótól beérkezett teljesítményjelentés alapján. Ha a kötelezett önként nem téríti meg a költségeket, a követelést az egészségbiztosítási szerv az állami adó- és vámhatóságnak adók módjára behajtandó köztartozásként átadja.
 
 (9) Az egészségbiztosítási szerv által vezetett egészségügyi szolgáltatásra jogosultak, biztosítottak nyilvántartásában biztosítottként vagy egyéb jogcímen jogosultként nem szereplő személyek a 68. § vagy a 69. § alapján adóhatóságnak átadott adatait az adóhatóság összeveti
 
 - a) az Art. szerinti havi bevallások biztosítottankénti adataival,
 - b) a 43. § alapján egészségügyi szolgáltatási járulékot fizetőkről vezetett nyilvántartása adataival, és
-- c) az Art. alapján a foglalkoztatókról és az általuk foglalkoztatott biztosított személyekről vezetett nyilvántartás adataival.
+- c) az Art. alapján a foglalkoztatók által az állami adó- és vámhatósághoz bejelentett biztosított személyek adataival.
 
-(10) Ha az állami adó- és vámhatóság azt állapítja meg, hogy a természetes személy egészségbiztosítási szerv által a 68. § vagy a 69. § alapján átadott adatai a (9) bekezdés a)–c) pontjai szerinti egyik nyilvántartásban sem szerepelnek, felszólítja a természetes személyt egészségügyi szolgáltatásra jogosultságának igazolására. Ha a személy a felszólítás kézhezvételétől számított 15 napon belül az adóhatóság előtt hitelt érdemlő módon nem bizonyítja egészségügyi szolgáltatásra jogosultságát, az adóhatóság a természetes személynek a 22. § alapján legutóbb fennállt egészségügyi szolgáltatásra való jogosultsága megszűnését követő első naptól az egészségügyi szolgáltatási járulékfizetési kötelezettségét határozattal előírja, a befizetéseket nyilvántartja.
+(10) Ha az állami adó- és vámhatóság azt állapítja meg, hogy a természetes személy egészségbiztosítási szerv által a 68. § vagy a 69. § alapján átadott adatai a (9) bekezdés a)–c) pontjai szerinti adatok között nem szerepelnek, felszólítja a természetes személyt egészségügyi szolgáltatásra jogosultságának igazolására. Ha a személy a felszólítás kézhezvételétől számított 15 napon belül az adóhatóság előtt hitelt érdemlő módon nem bizonyítja egészségügyi szolgáltatásra jogosultságát, az adóhatóság a természetes személynek a 22. § alapján legutóbb fennállt egészségügyi szolgáltatásra való jogosultsága megszűnését követő első naptól az egészségügyi szolgáltatási járulékfizetési kötelezettségét határozattal előírja, a befizetéseket nyilvántartja.
 
 (11) Az egészségügyi szolgáltatásra való jogosultság igazolására rendelkezésre álló 15 nap a természetes személy kérelmére – indokolt esetben – egy alkalommal további 15 nappal meghosszabbítható.
 
 (12) Ha a (10) bekezdés szerinti felszólítást követően a természetes személy vagy képviselője hitelt érdemlő módon bizonyítja, hogy az egészségügyi szolgáltatásra jogosultság fennáll, vagy a természetes személy elhalálozott, illetve külföldön tartózkodik, és e törvény alapján nem minősül belföldinek, az ezt bizonyító okirat, nyilatkozat másolatát az adóhatóság haladéktalanul továbbítja a természetes személy lakóhelye szerint illetékes egészségbiztosítási szervnek.
 
-(13) Az állami adó- és vámhatóság az egészségügyi szolgáltatási járulék megfizetésére kötelezett természetes személy adatairól a járulékfizetés teljesítését követően azonnal elektronikus úton szolgáltat adatot az Egészségbiztosítási Alap kezeléséért felelős szerv részére.
+(13) Az állami adó- és vámhatóság az egészségügyi szolgáltatási járulék megfizetésére kötelezett természetes személy adatairól a járulékfizetési kötelezettség előírásáról szóló határozat véglegessé válását követően azonnal elektronikus úton szolgáltat adatot az Egészségbiztosítási Alap kezeléséért felelős szerv részére.
 
 (14) A 68. § vagy a 69. § alapján teljesített adatszolgáltatásban az adóhatóságnak átadott azon személyek adatait, akiket az adóhatóság beazonosítani nem tud, mert az egészségbiztosítási szerv által ismert és közölt természetes személyazonosító adatok és lakcím alapján az nem lehetséges, az adóhatóság „nem beazonosítható” jelzéssel visszaküldi az egészségbiztosítási szerv részére.
 
@@ -931,7 +959,17 @@ jelenti be az egészségbiztosítási szervnek.
 
 (11) Az egészségügyi szolgáltatásra való jogosultság megállapítása érdekében a 43. § szerint járulékfizetésre kötelezett személyekre vonatkozó adatok átadásának módjáról a nemzeti adó- és vámhatóság és a NEAK megállapodást köt.
 
-(12) Az egészségbiztosítási szerv a 84. § (2) bekezdés a) pontja és (3) bekezdése szerinti ellenőrzése során a biztosítási jogviszony utólagos megállapításáról vagy törléséről határozatot hoz, ha a járulék utólagos megállapítására elévülés miatt részben vagy egészben már nincs lehetőség.
+(12) Az egészségügyi szolgáltatásra való jogosultság megállapítása érdekében a 43. § szerint járulékfizetésre kötelezett személyekre vonatkozóan a NEAK adatszolgáltatást teljesít az állami adó- és vámhatóságnak a következő adatokról:
+
+- a) a természetes személy családi és utóneve, születési családi és utóneve, születési helye, születési ideje, anyja születési családi és utóneve,
+- b) a nem magyar állampolgárságú természetes személy állampolgársága,
+- c) a természetes személy kapcsolati kódja,
+- d) az egészségügyi szolgáltatási járulékfizetési kötelezettség kezdő, illetve záró napja, valamint
+- e) az egészségügyi szolgáltatási járulékfizetési kötelezettség keletkezésének és megszűnésének jogcíme.
+
+(13) A 71. § (2) bekezdés szerint a természetes személy által teljesített bejelentés esetén a NEAK a (12) bekezdésben meghatározottakon túl arról is adatot szolgáltat, hogy a természetes személy belföldinek minősül és az egészségbiztosítási nyilvántartásban szerepel.
+
+(14) Az egészségbiztosítási szerv a 84. § (2) bekezdés a) pontja és (3) bekezdése szerinti ellenőrzése során a biztosítási jogviszony utólagos megállapításáról vagy törléséről határozatot hoz, ha a járulék utólagos megállapítására elévülés miatt részben vagy egészben már nincs lehetőség.
 
 #### 21. Társadalombiztosítási egyéni nyilvántartás
 
@@ -953,7 +991,7 @@ jelenti be az egészségbiztosítási szervnek.
 
 #### 22. A járulék megállapítása, bevallása, megfizetése
 
-77. § (1) A foglalkoztató a foglalkoztatottnak minősülő biztosítottnak a tárgyhónapban kifizetett (juttatott), járulékalapot képező jövedelem, vagy a 27. § (2) bekezdés szerinti járulékfizetési alsó határ alapján köteles a társadalombiztosítási járulékot megállapítani és a biztosítottat terhelő járulékot levonni. A megállapított tárgyhavi járulékot az Art.-ban meghatározottak szerint kell a tárgyhónapot követő hónap 12-éig bevallani, illetve megfizetni az állami adó- és vámhatóságnak. A megállapított járulékot csökkenteni kell azzal az összeggel, amelyet a foglalkoztató az adott jogviszonnyal összefüggésben a tárgyévre vonatkozó túlfizetés miatt fizetett vissza a biztosítottnak. Ha a tárgyhónapban a 27. § (2) bekezdés szerinti járulékfizetési alsó határ után járulék fizetésére kötelezett biztosított részére a járulékfizetési alsó határt elérő jövedelmet nem fizettek, és a tárgyhónapban elszámolt járulék a járulékfizetési alsó határ után számított járulék összegét nem éri el, a foglalkoztató a járulékfizetési alsó határ utáni járulékot köteles a foglalkoztatottnak minősülő biztosított helyett megelőlegezni, és azt a törvényben előírt határidőn belül befizetni. A 27. § (2) bekezdés szerinti járulékfizetési alsó határ vonatkozásában a 82. § szerinti járulék különbözet szabályait alkalmazni nem lehet.
+77. § (1) A foglalkoztató a foglalkoztatottnak minősülő biztosítottnak a tárgyhónapban kifizetett (juttatott), járulékalapot képező jövedelem, vagy a 27. § (2) bekezdés szerinti járulékfizetési alsó határ alapján köteles a társadalombiztosítási járulékot megállapítani és a biztosítottat terhelő járulékot levonni. A megállapított tárgyhavi járulékot az Art.-ban meghatározottak szerint kell a tárgyhónapot követő hónap 12-éig bevallani, illetve megfizetni az állami adó- és vámhatóságnak. A megállapított járulékot csökkenteni kell azzal az összeggel, amelyet a foglalkoztató az adott jogviszonnyal összefüggésben a tárgyévre vonatkozó túlfizetés miatt fizetett vissza a biztosítottnak. Ha a tárgyhónapban a 27. § (2) bekezdés szerinti járulékfizetési alsó határ után járulék fizetésére kötelezett biztosított részére a járulékfizetési alsó határt elérő jövedelmet nem fizettek, és a tárgyhónapban elszámolt járulék a járulékfizetési alsó határ után számított járulék összegét nem éri el, a foglalkoztató köteles a foglalkoztatottnak minősülő biztosított helyett a járulékalapot képező jövedelem és a járulékfizetési alsó határ közötti különbözet után fizetendő járulékot a törvényben előírt határidőn belül megfizetni. A 27. § (2) bekezdés szerinti járulékfizetési alsó határ vonatkozásában a 82. § szerinti járulék különbözet szabályait alkalmazni nem lehet.
 
 (2) Az egyéni vállalkozó a társadalombiztosítási járulékot az Art.-ban meghatározottak szerint a tárgyhónapot követő hónap 12-éig vallja be, illetve fizeti meg az állami adóhatóságnak.
 
@@ -971,7 +1009,7 @@ jelenti be az egészségbiztosítási szervnek.
 
 #### 23. Az elévülési idő figyelmen kívül hagyására irányuló eljárás
 
-78. § (1) Az Art.-ban meghatározott elévülési idő figyelmen kívül hagyására nyugdíj-megállapítási eljárás során akkor van lehetőség, ha
+78. § (1) Az Art.-ban meghatározott elévülési idő figyelmen kívül hagyására a nyugdíj-megállapító szervek hatáskörébe tartozó ügyekben akkor van lehetőség, ha
 
 - a) a természetes személy a 6. § vagy a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. §-a szerinti biztosításának nem kellett volna fennállnia és ő vagy foglalkoztatója eleget tett társadalombiztosítási kötelezettségének és járulékfizetés történt,
 - b) a természetes személy a 6. § vagy a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 5. §-a szerint biztosított volt, és ő vagy foglalkoztatója járulékmegállapítási, -fizetési kötelezettségének eleget tett, de bevallási kötelezettségét nem vagy hiányosan teljesítette,
@@ -979,27 +1017,31 @@ jelenti be az egészségbiztosítási szervnek.
 
 (2) Az Art.-ban meghatározott elévülési idő figyelmen kívül hagyásával a természetes személynek lehetősége van arra, hogy az (1) bekezdés
 
-- a) a) pontja szerinti esetben a befizetett járulékokat visszaigényelje,
+- a) a) pontja szerinti esetben
+  - aa) ha az a) ponttal érintett biztosítási időszakkal együtt az ellátásra való jogosultsága megállapítható, akkor ezen időszak szolgálati időként történő elismerését kérje,
+  - ab) az aa) pont szerinti esettől eltérően a Nyugdíjbiztosítási Alap javára befizetett járulékokat visszaigényelje,
 - b) b) pontja szerinti esetben a bevallási kötelezettségét utólagosan pótolja,
-- c) c) pontja szerinti esetben biztosítotti bejelentésének és társadalombiztosítási (különösen a járulékfizetési és -bevallási) kötelezettségeinek eleget tegyen.
+- c) c) pontja szerinti esetben biztosítotti bejelentésének és társadalombiztosítási (különösen a járulékfizetési és -bevallási) kötelezettségeinek az állami adó- és vámhatóságnál eleget tegyen.
 
 (3) Az (1) bekezdésben rögzített esetekben az eljárás a nyugdíj megállapításért felelős szervnél vagy az állami adó- és vámhatóságnál kérelemre indul.
 
-(4) Az (1) bekezdés a) pontja szerinti esetben a nyugdíj megállapításért felelős szerv határozatot hoz, amelyben rendelkezik arról, hogy mely időszakot nem lehet figyelembe venni a nyugellátás megállapításához, azért mert erre az időszakra a biztosítási kötelezettségnek nem kellett volna kiterjednie. Ezen időszak vonatkozásában kötelezett a nyugdíj megállapításért felelős szerv a nyugdíjjárulék, a társadalombiztosítási járulék nyugdíjjárulék részének visszafizetésére. Ezt követően a nyugdíj megállapításért felelős szerv a nyilvántartásában szereplő adatok alapján határozattal megállapítja a tartozatlanul megfizetett nyugdíjjárulék összegét, és azt a természetes személy részére kifizeti.
+(4) Az (1) bekezdés a) pontja szerinti esetben a nyugdíj megállapításért felelős szerv megvizsgálja, hogy fennállnak-e az érintett időszak szolgálati időként történő figyelembe vételének a (2) bekezdés a) pont aa) alpontja szerinti feltételei. Ha megállapítható olyan időszak amely időszakot nem lehet szolgálati időként figyelembe venni a nyugellátás megállapításához, a nyugdíj megállapításért felelős szerv a nyilvántartásában szereplő adatok alapján határozattal megállapítja a szolgálati időként figyelembe nem vehető időszakot és az erre tekintettel tartozatlanul megfizetett nyugdíjjárulék összegét, amelyet a Magyar Államkincstár a természetes személy részére kifizeti.
 
-(5) Az (1) bekezdés b) pontja szerinti esetben a 2007. január 1-je utáni időszak tekintetében van mód eljárást indítani. A bevallás utólagos benyújtása a nemzeti adó- és vámhatóságnál teljesíthető.
+(5) Az (1) bekezdés b) pontja szerinti esetben a 2006. december 31-e utáni időszak tekintetében van mód eljárást indítani. A bevallás utólagos benyújtása az állami adó- és vámhatóságnál teljesíthető.
 
 (6) Az eljárás során a nyugdíj megállapításért felelős szerv együttműködik az állami adó- és vámhatósággal, valamint a biztosítottak nyilvántartásáért felelős szervvel.
 
 (7) Az (1) bekezdés szerinti eljárás esetében az Art. késedelmi pótlékra, önellenőrzési pótlékra, adóbírságra, mulasztási bírságra és intézkedésekre vonatkozó szabályait alkalmazni nem lehet.
 
+(8) A nyugdíjmegállapító szerv (4) bekezdés szerinti intézkedése időpontjában az Art. szerinti elévülési időn belüli tartozatlan járulékfizetés rendezésére a fentiek nem alkalmazhatóak.
+
 #### 24. A családi járulékkedvezmény érvényesítése
 
 79. § (1) A foglalkoztató köteles a családi járulékkedvezmény havi összegének megállapítására, ha az Szja tv. szerint adóelőleget megállapító munkáltatónak vagy olyan kifizetőnek minősül, amely a magánszemély részére az összevont adóalapba tartozó rendszeres jövedelmet juttat.
 
-(2) A családi járulékkedvezmény havi összege az Szja tv. szerinti családi kedvezmény adóelőleg-nyilatkozat szerinti havi összege és a tárgyhavi személyi jövedelemadó adóelőleg-alap különbözetének – ha az pozitív – 15 százaléka, de legfeljebb a biztosítottat a tárgyhónapban terhelő társadalombiztosítási járulék összege.
+(2) A családi járulékkedvezmény havi összege az Szja tv. szerinti családi kedvezmény adóelőleg-nyilatkozat szerinti havi összege és a tárgyhavi személyi jövedelemadó adóelőleg-alap különbözetének – ha az pozitív – 15 százaléka, de legfeljebb a biztosítottat a tárgyhónapban terhelő társadalombiztosítási járulék vagy nyugdíjjárulék összege.
 
-(3) A foglalkoztató a családi járulékkedvezmény havi összegét úgy érvényesíti, hogy az annak megfelelő összeget társadalombiztosítási járulékként nem vonja le, és nem fizeti meg az állami adóhatóságnak. A családi járulékkedvezmény havi összegét a foglalkoztató az Art. szerinti havi adó- és járulékbevallásban vallja be.
+(3) A foglalkoztató a családi járulékkedvezmény havi összegét úgy érvényesíti, hogy az annak megfelelő összeget társadalombiztosítási járulékként, vagy nyugdíjjárulékként nem vonja le, és nem fizeti meg az állami adóhatóságnak. A családi járulékkedvezmény havi összegét a foglalkoztató az Art. szerinti havi adó- és járulékbevallásban vallja be.
 
 (4) A biztosított az adóelőleg-nyilatkozatban rendelkezhet arról, hogy nem kéri a családi járulékkedvezmény havi összegének érvényesítését.
 
@@ -1199,9 +1241,9 @@ a 25 százalékot.
 
 97. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – 2020. július 1-jén lép hatályba.
 
-(2) E törvény 104. §-a Nagy-Britannia és Észak-Írország Egyesült Királyságának az Európai Unióból az Európai Unióról szóló szerződés 50. cikk (2) bekezdése szerinti megállapodás hatálybalépése hiányában történő kilépése időpontjában lép hatályba.
+(2)
 
-(3) A 104. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+(3)
 
 #### 32. Hatályon kívül helyező rendelkezések
 
@@ -1218,15 +1260,30 @@ a 25 százalékot.
 
 (2) Ha a 30. § alapján 2020. július 1-jét megelőző időszakra keletkezett járulékalapot képező jövedelem, akkor a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény adott időszakban hatályos rendelékezéseit kell alkalmazni.
 
-101. § A 2020. június 30-a után a 45. § alapján megállapított egészségügyi szolgáltatási járulékfizetési kötelezettség kezdetének időpontja nem lehet korábbi, mint 2020. július 1-je.
+101. § E törvény rendelkezései a 2020. június 30. napjáig az állami adó- és vámhatósághoz érkezett egészségügyi szolgáltatási járulékfizetési kötelezettségre irányuló bejelentésekre, és a 2020. június 30. napján a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 44/A–44/C. §-a alapján folyamatban lévő eljárásokra nem alkalmazhatóak.
 
 102. § A prémium évek programban részt vevő és a különleges foglalkoztatási állományban lévő személyek esetében a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2020. június 30-án hatályos szabályait kell alkalmazni.
 
 103. § A 25. § (4) bekezdése szerinti fizetési kötelezettség mértéke 2020. július 1-jétől 2020. december 31-éig 7710 forint.
 
-#### 104. §
+104. § (1) Az e törvény hatálybalépését megelőző időszakra vonatkozó kötelezettségeket az állami adó- és vámhatóság a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény rendelkezései alapján vezetett számlán tartja nyilván.
 
-105. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2020. június 30-án hatályos 4. § k) pont 2. alpontjában, 4. § p) pontjában, 5. § (1) bekezdés b) pontjában, 8. § h) pontjában, 16/A. §-ában, 25/A. § b) pontjában, 31. § (4) bekezdés b) pontjában, 44/A. § (3) bekezdés a) pontjában foglalt rendelkezéseit kell alkalmazni 2020. augusztus 31-éig a tanulószerződéssel foglalkoztatott tanulókra vonatkozóan.
+(2) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény rendelkezései alapján fennálló egészségügyi szolgáltatási járulék tartozást e törvény 46. § (2) bekezdésének alkalmazásakor nem kell figyelembe venni.
+
+(3) Azon természetes személynek, akinek 2020. június 30-án egészségügyi szolgáltatási járulékfizetési kötelezettsége áll fenn, az állami adó- és vámhatóság 2020. július 1-je után, e kötelezettsége megszűnéséig, az egészségügyi szolgáltatási járulékfizetési kötelezettséget a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény rendelkezései szerinti bejelentés vagy a 2020. július 1-jét megelőzően véglegessé vált határozat alapján írja elő.
+
+(4) A (3) bekezdés szerinti esetben e törvény hatálybalépését követő időszakra a járulékfizetési kötelezettség előírása, a befizetések nyilvántartása, illetve a kötelezettség törlése tekintetében e törvény 71. § (1) bekezdése alapján jár el az állami adó- és vámhatóság.
+
+(5) Ha egészségügyi szolgáltatási járulékfizetési kötelezettség megállapítására utólag, 2020. június 30-át követően kerül sor, és annak kezdő napja 2020. július 1-jét megelőző nap, a fizetési kötelezettség
+
+- a) 2020. július 1-je előtti napjaira a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény rendelkezéseit kell alkalmazni,
+- b) 2020. június 30-át követő napjaira e törvény szabályait kell alkalmazni.
+
+(6) Az állami adó- és vámhatóság a fizetési kötelezettséget az azt megállapító végleges határozat illetve a biztosítottak nyilvántartásáért felelős szerv adatszolgáltatása alapján az (5) bekezdés a) pontja szerinti esetben a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény szerint vezetett adószámlán, az (5) bekezdés b) pontja szerinti esetben e törvény szerint vezetett adószámlán írja elő.
+
+(7) Az e törvény 27. § (2) bekezdés szerinti járulékfizetési alsó határ és a ténylegesen kifizetett járulékalapot képező jövedelem közötti különbözet után fennálló társadalombiztosítási járulékfizetési kötelezettséget a 2020. július és augusztus hónapra vonatkozóan nem kell teljesíteni. Ezekben az esetekben a járulékalapot képező jövedelmet a 27. § (1) bekezdése szerint kell megállapítani.
+
+105. § A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 2019. december 31-én hatályos 4. § k) pont 1. alpontjában, 4. § p) pontjában, 5. § (1) bekezdés b) pontjában, 8. § h) pontjában, 16/A. §-ában, 25/A. § b) pontjában, 31. § (4) bekezdés b) pontjában, 44/A. § (3) bekezdés e) pontjában foglalt rendelkezéseit kell alkalmazni a tanulószerződéssel foglalkoztatott tanulókra vonatkozóan.
 
 #### 34. Az Európai Unió jogának való megfelelés
 

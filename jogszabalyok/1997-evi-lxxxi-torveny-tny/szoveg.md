@@ -44,7 +44,7 @@ E törvény célja, hogy a biztosítottak és hozzátartozóik részére nyújta
 
 - a) saját jogú nyugellátás és a hozzátartozói nyugellátás: olyan keresettől, jövedelemtől függő rendszeres pénzellátás, amely meghatározott szolgálati idő megszerzése esetén a biztosítottnak (volt biztosítottnak), illetve hozzátartozójának jár;
 - b) öregségi nyugdíj: meghatározott életkor elérése és meghatározott szolgálati idő megszerzése esetén járó nyugellátás;
-- c) nyugdíjjárulék: a 2020. július 1-jét megelőzően elért keresetek, jövedelmek tekintetében a nyugdíjjárulék, a 2020. július 1-jétől elért keresetek, jövedelmek tekintetében a társadalombiztosítási járulék és a nyugdíjjárulék;
+- c) nyugdíjjárulék: a 2020. július 1-jét megelőzően elért keresetek, jövedelmek tekintetében a nyugdíjjárulék, a 2020. július 1-jétől elért, társadalombiztosítási járulékköteles keresetek, jövedelmek tekintetében a társadalombiztosítási járulék, a Tbj. szerint nyugdíjjárulék-köteles keresetek, jövedelmek tekintetében a nyugdíjjárulék;
 - d)
 - e) özvegyi nyugdíj: az elhunyt nyugdíjas, illetve nyugdíjban nem részesülő, de nyugdíjjogosultságot szerzett elhunyt személy házastársának, meghatározott feltételek mellett élettársának, valamint elvált házastársának járó nyugellátás;
 - f) árvaellátás: az elhunyt nyugdíjas, illetve nyugdíjban nem részesülő, de nyugdíjjogosultságot szerzett elhunyt személy gyermekének, örökbefogadott gyermekének, meghatározott feltételek esetén nevelt gyermekének, testvérének, unokájának járó ellátás;
@@ -334,7 +334,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 ### Arányosan elismerhető szolgálati idő
 
-39. § (1) Ha a biztosítottnak a Tbj. 6. § (1) bekezdés a)–b), g) pontja és a (2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonya keretében – ide nem értve a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) értelmében teljes munkaidőben, illetőleg az adott munkakörre irányadó, jogszabályban meghatározott munkaidőben, valamint a szakképzési munkaszerződés keretében foglalkoztatottakat – elért nyugdíjjárulék-alapot képező keresete, jövedelme a külön jogszabályban meghatározott minimálbérnél kevesebb, akkor a 20. §-ának alkalmazása során – az 1996. december 31-ét követő időszak tekintetében – a biztosítási időnek csak az arányos időtartama vehető szolgálati időként figyelembe. Ebben az esetben a szolgálati idő és a biztosítási idő aránya azonos a nyugdíjjárulék alapját képező kereset, jövedelem és a mindenkori érvényes minimálbér arányával.
+39. § (1) Ha a biztosítottnak a Tbj. 6. § (1) bekezdés a)–b), f) pontja és a (2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonya keretében – ide nem értve a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) értelmében teljes munkaidőben, illetőleg az adott munkakörre irányadó, jogszabályban meghatározott munkaidőben, valamint a szakképzési munkaszerződés keretében foglalkoztatottakat – elért nyugdíjjárulék-alapot képező keresete, jövedelme a külön jogszabályban meghatározott minimálbérnél kevesebb, akkor a 20. §-ának alkalmazása során – az 1996. december 31-ét követő időszak tekintetében – a biztosítási időnek csak az arányos időtartama vehető szolgálati időként figyelembe. Ebben az esetben a szolgálati idő és a biztosítási idő aránya azonos a nyugdíjjárulék alapját képező kereset, jövedelem és a mindenkori érvényes minimálbér arányával.
 
 (2) Az (1) bekezdés rendelkezéseit a Tbj. 41. § (2) bekezdése szerinti mezőgazdasági őstermelő 2007. december 31-ét követően szerzett biztosítási idejének, valamint a főállású kisadózó biztosítási idejének szolgálati időként történő figyelembevétele során is alkalmazni kell.
 
@@ -1119,7 +1119,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 - a) a nyilvántartásban nem szereplő szolgálati idő, jogosultsági idő elismerését is kéri, vagy
 - b) 1954. december 31-ét követően született, és vele egyeztetési eljárást még nem folytattak le, a hatósági bizonyítvány kiadása iránti eljárást fel kell függeszteni, és hivatalból egyeztetési eljárást kell lefolytatni.
 
-(3) Nem kell egyeztetési eljárást lefolytatni, ha a mezőgazdasági őstermelő a Tbj. biztosítás fennállásának vizsgálatához kéri a hatósági bizonyítvány kiállítását.
+(3) Nem kell egyeztetési eljárást lefolytatni, ha a mezőgazdasági őstermelő a biztosítás fennállásának vizsgálatához kéri a hatósági bizonyítvány kiállítását.
 
 ### Adatszolgáltatás és bejelentési kötelezettség
 

@@ -191,7 +191,7 @@ igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt k
 
 (10) Nem kell megfizetni a kisadózó után az (1), a (2), valamint a (4a) bekezdés szerinti adót azon hónapokra vonatkozóan sem, amelyben a (9) bekezdés a)–c) és e) pontjai szerinti állapot megszűnik akkor, ha ez az állapot legalább 30 napig fennállt. A 30 nap számítása szempontjából figyelmen kívül kell hagyni azt az időszakot, amelyre vonatkozóan a (9) bekezdés szerint a kisadózó után az adót nem kell megfizetni.
 
-(11) A kisadózó vállalkozás a tárgyhónapot követő hónap 12. napjáig köteles bejelenteni az állami adóhatósághoz azt, ha a tárgyhónapra vonatkozóan a (9)–(10) bekezdés szerint a kisadózó után nem keletkezik tételesadó-fizetési kötelezettsége. Nem kell a bejelentést havonta megismételni a (9) bekezdés d) pont szerinti esetben, azzal, hogy az említett esetben az adóhatóság – figyelemmel a (10) bekezdés rendelkezésére is – a kötelezettség módosítását a rendelkezésére álló adatok alapján hivatalból végzi el.
+(11) A kisadózó vállalkozás – ide nem értve a (9) bekezdés d) pont szerinti esetet – a tárgyhónapot követő hónap 12. napjáig köteles bejelenteni az állami adó- és vámhatósághoz azt, ha a tárgyhónapra vonatkozóan a (9) és (10) bekezdés szerint a kisadózó után nem keletkezik tételesadó-fizetési kötelezettsége. A kisadózó egyéni vállalkozónak a (9) bekezdés d) pont szerinti esetben nem kell bejelentést tennie, azzal, hogy a kötelezettség módosítását a rendelkezésre álló adatok alapján az állami adó- és vámhatóság hivatalból végzi el. A kisadózó egyéni vállalkozónak ugyanakkor be kell jelentenie a tárgyhónapot követő hónap 12. napjáig, ha a szünetelés ideje alatt a kisadózóként folytatott tevékenységébe tartozó munkát végez.
 
 #### 5. A kisadózó vállalkozások tételes adójával teljesített közterhek
 
@@ -591,5 +591,11 @@ csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött ta
 32/C. § E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított és az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 2. § 12. pontja és 22. pontja a 2013. január 1-jét követően keletkezett bevételre is alkalmazható.
 
 32/D. § Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel módosított 2. § 22. pontja a 2016. január 1-jét követően keletkezett bevételre is alkalmazható.
+
+32/E. § (1) Ha a magánszemély több jogviszonya alapján bejelentett kisadózó, a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvénnyel megállapított 7. § (1a) bekezdés szerinti feltételnek 2021. január 1-jétől köteles megfelelni. Amennyiben az említett feltétel 2021. január 1-jén nem teljesül, az állami adó- és vámhatóság 2021. január 1-jével – a kisadózó és az érintett kisadózó vállalkozások részére a határozat megküldése mellett – az elsőként bejelentett jogviszony kivételével a többi jogviszony tekintetében törli a magánszemélyt a bejelentett kisadózók köréből.
+
+(2) A 2020. december 31-éig kifizetővel létesített és 2021-ben még fennálló szerződéses jogviszony esetében a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvénnyel megállapított 13. § (2) bekezdés szerinti tájékoztatást az adózó 2021. január 15-éig teljesíti.
+
+(3) A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 34. § (7) bekezdése szerinti mentesség e törvény 8. § (6) bekezdése szerinti értékhatárt nem csökkenti.
 
 #### 33–34. §

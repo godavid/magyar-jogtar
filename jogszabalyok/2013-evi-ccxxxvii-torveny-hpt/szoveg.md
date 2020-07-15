@@ -282,7 +282,7 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
 - 121. veszteségmérséklő tevékenység: a hitelintézet minden olyan – nem üzletszerű – tevékenysége, melynek célja a kockázatvállalással kapcsolatos, már megállapított veszteség csökkentése;
 - 122. vezető állású személy:
   - a) részvénytársasági formában működő bank és szakosított hitelintézet esetén az igazgatóság, a felügyelő bizottság elnöke, tagja és az ügyvezető,
-  - b) szövetkezeti formában működő szövetkezeti hitelintézet esetén az igazgatóság elnöke, a felügyelő bizottság elnöke és az ügyvezető,
+  - b) szövetkezeti hitelintézet esetén az igazgatóság elnöke, a felügyelőbizottság elnöke és az ügyvezető,
   - c) részvénytársasági vagy szövetkezeti formában működő pénzügyi vállalkozás esetén az igazgatóság elnöke, a felügyelő bizottság elnöke és az ügyvezető,
   - d) fióktelep esetén a fióktelep vezetésére a külföldi pénzügyi intézmény által kinevezett személy és annak közvetlen helyettese,
   - e) az alapítványi formában működő pénzügyi vállalkozás esetén a kuratórium tagja, a felügyelő bizottság elnöke, valamint az ügyvezető, valamint
@@ -382,13 +382,13 @@ végezhet.
 - a) betét gyűjtésére, valamint saját tőkéjét meghaladó mértékben – hitelintézet vagy állam által a visszafizetésre vállalt kezesség vagy garancia nélkül – más visszafizetendő pénzeszköz nyilvánosságtól való elfogadására,
 - b) pénzváltási tevékenység végzésére.
 
-(3) A hitelintézet bank, szakosított hitelintézet vagy – részvénytársasági vagy szövetkezeti formában működő – szövetkezeti hitelintézet lehet. A szövetkezeti hitelintézet lehet bank, szakosított hitelintézet és takarék- vagy hitelszövetkezet.
+(3) A hitelintézet bank, szakosított hitelintézet vagy szövetkezeti hitelintézet lehet. A szövetkezeti hitelintézet lehet takarék- vagy hitelszövetkezet.
 
 (4) A bank az a hitelintézet, amely a 3. § (1) bekezdés a), b) és d) pontjában meghatározott tevékenységet üzletszerűen végzi. Kizárólag bank kaphat engedélyt a 3. § (1) bekezdésében foglalt tevékenységek teljes körének végzésére.
 
 (5) A szakosított hitelintézet a rá vonatkozó külön törvényi szabályozásnak megfelelően jogosult tevékenységének végzésére, azzal, hogy nem kaphat engedélyt a 3. § (1) bekezdésében foglalt tevékenységek teljes körének végzésére.
 
-(6) A szövetkezeti formában működő szövetkezeti hitelintézet a 3. § (1) és (2) bekezdésében, valamint a 7. § (3) bekezdésében megjelölt tevékenységet, illetve kiegészítő tevékenységet végezhet.
+(6) Szövetkezeti hitelintézet a 3. § (1) bekezdés a)–j) és l) pontjában és a 3. § (2) bekezdés a)–d) és f) pontjában meghatározott tevékenységet végezhet.
 
 (7) A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben (a továbbiakban: Szhitv.) meghatározott Integrációs Szervezethez csatlakozott pénzügyi intézményekre vonatkozó további, e törvénytől eltérő, illetve az e törvényt kiegészítő szabályokat a Szhitv. állapítja meg.
 
@@ -446,7 +446,7 @@ végez (a továbbiakban együtt: független közvetítő).
 
 #### 8. Szervezeti szabályok
 
-11. § (1) Bank és szakosított hitelintézet részvénytársaságként vagy fióktelepként, szövetkezeti hitelintézet szövetkezetként, illetőleg – banknak vagy szakosított hitelintézetnek minősülő – részvénytársaságként, pénzügyi vállalkozás részvénytársaságként, szövetkezetként, alapítványként vagy fióktelepként működhet.
+11. § (1) Bank és szakosított hitelintézet részvénytársaságként vagy fióktelepként, szövetkezeti hitelintézet szövetkezetként, pénzügyi vállalkozás részvénytársaságként, szövetkezetként, alapítványként vagy fióktelepként működhet.
 
 (2) A pénzügyi intézményre a Ptk. jogi személyekre vonatkozó rendelkezéseit, a fióktelep formájában működő pénzügyi intézményre az Fkt. rendelkezéseit az e törvényben foglalt eltérésekkel szükséges alkalmazni.
 
@@ -463,7 +463,7 @@ végez (a továbbiakban együtt: független közvetítő).
 12. § (1) A (2) bekezdésben meghatározott kivétellel
 
 - a) bank legalább négymilliárd forint,
-- b) szövetkezeti hitelintézet – kizárólag szövetkezeti formában – legalább háromszázmillió forint
+- b) szövetkezeti hitelintézet legalább háromszázmillió forint
 
 induló tőkével alapítható.
 
@@ -2754,7 +2754,7 @@ szerzett.
 (3) A (2) bekezdésben előírt titoktartási kötelezettség nem áll fenn a feladatkörében eljáró
 
 - a) MNB-vel
-- b) OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró integrációs üzleti irányító szervezetével és az ugyanezen törvényben leírt kötelező intézményvédelmi szervezettel,
+- b) OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a hitelintézetek integrációja feladatkörében eljáró integrációs üzleti irányító szervezetével és az ugyanezen törvényben leírt kötelező intézményvédelmi szervezettel,
 - c) nemzetbiztonsági szolgálattal,
 - d) Állami Számvevőszékkel,
 - e) Gazdasági Versenyhivatallal,
@@ -2806,7 +2806,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
-- a) a feladatkörében eljáró MNB-vel, OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró integrációs üzleti irányító szervezetével, kötelező intézményvédelmi szervezettel, valamint az Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+- a) a feladatkörében eljáró MNB-vel, OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a hitelintézetek integrációja feladatkörében eljáró integrációs üzleti irányító szervezetével, kötelező intézményvédelmi szervezettel, valamint az Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
 - d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
@@ -3526,8 +3526,8 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 (2) A Felügyelet a hitelintézethez felügyeleti biztost rendel ki, ha
 
 - a) a hitelintézet szavatoló tőkéje nem éri el a 79. § (2) bekezdésében rögzített tőkekövetelmény nyolcvan százalékát, és a tag vagy a harmadik országbeli hitelintézet nem képes, vagy nem hajlandó a hitelintézet saját tőkéjét, illetve szavatoló tőkéjét a jogszabályban és a Felügyelet határozatában előírt szintre felemelni, vagy
-- b) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását, vagy
-- c) a szövetkezeti hitelintézet vezető tisztségviselője feladatkörének gyakorlása a Szhitv. 11/B. § (2) bekezdés c) pontja alapján az Integrációs Szervezet igazgatósága által felfüggesztésre kerül; illetve amennyiben a szövetkezeti hitelintézet tevékenységi engedélyét a Felügyelet a Szhitv. 19. § (3), (7) vagy (13) bekezdése alapján visszavonja.
+- b) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását
+- c)
 
 195. § (1) Ha a felügyeleti biztos részben veszi át a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testületének jogkörét, a kirendeléséről rendelkező határozatban a Felügyelet meghatározza a pénzügyi intézménynél betöltött szerepét, feladatait és hatáskörét.
 
@@ -3744,8 +3744,8 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (4) A szorzószám
 
-- a) bank, szakosított hitelintézet és szövetkezeti hitelintézet esetén: negyven,
-- b) pénzügyi vállalkozás esetén: négy,
+- a) bank és szakosított hitelintézet esetén: negyven,
+- b) szövetkezeti hitelintézet és pénzügyi vállalkozás esetén: négy,
 - c) a másik EGT-államban székhellyel rendelkező pénzügyi intézmény magyarországi fióktelepe esetén: négy,
 - d) kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás, bankképviselet és a független közvetítő esetén: egy.
 
@@ -3963,7 +3963,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 (1a) Ha az OBA hozzájárul egy hitelintézet szanálásának finanszírozásához, a hozzájárulás összegének erejéig az OBA-nak követelése keletkezik az érintett hitelintézettel szemben, amely követelést az 57. § (1) bekezdés a) pontja szerinti kielégítési csoportba szükséges sorolni.
 
-(1b) Az OBA a 217. § (1) bekezdésében meghatározott esetekben a szövetkezeti hitelintézetek integrációjában részvevő hitelintézettel szembeni követelését az Szhitv.-ben meghatározott egyetemlegesség alapján jogosult érvényesíteni a Szövetkezeti Hitelintézetek Tőkefedezeti Alapjával, az Integrációs Szervezettel, illetve annak tagjaival szemben.
+(1b) Az OBA a 217. § (1) bekezdésében meghatározott esetekben a hitelintézetek integrációjában részvevő hitelintézettel szembeni követelését az Szhitv.-ben meghatározott egyetemlegesség alapján jogosult érvényesíteni az Integrációs Szervezettel, illetve annak tagjaival szemben.
 
 (2) Az OBA-ból a kártalanításra jogosult személy részére történt bármilyen kifizetés esetén az érintett hitelintézet az OBA által kifizetett összeget és a kifizetéshez kapcsolódóan az OBA-nál felmerült költségeket köteles az OBA-nak visszafizetni, megfizetni. E kötelezettség akkor is fennáll, ha a hitelintézet OBA-ban való tagsága megszűnt.
 
@@ -4006,7 +4006,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 - a) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által kijelölt személy;
 - b) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNB tv. 4. § (8) bekezdésében, a másik az MNB tv. 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök vagy e feladatot ellátó vezető,
 - c) a hitelintézetek érdek-képviseleti szervezetei által kijelölt két személy,
-- d) a Szövetkezeti Hitelintézetek Integrációs Szervezetének igazgatósági elnöke által kijelölt személy, továbbá
+- d) az Integrációs Szervezet igazgatósági elnöke által kijelölt személy, továbbá
 - e) az OBA ügyvezetője.
 
 (3) Az igazgatótanácsi tag – az igazgatótanács jóváhagyásával – írásban állandó helyettest nevezhet ki, aki a tag távollétében teljes döntési joggal vesz részt az igazgatótanács ülésein.
