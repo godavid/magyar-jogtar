@@ -271,7 +271,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (6) A miniszteri biztos helyettes államtitkári illetménynek megfelelő összegű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult. A díjazás nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
-(7) A miniszteri biztosra a 33. § (1) bekezdését alkalmazni kell.
+(7)
 
 (8)
 

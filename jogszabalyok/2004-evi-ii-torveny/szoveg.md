@@ -320,7 +320,7 @@ az időpontja.
 
 (4) A támogató a (3) bekezdés d) pontjában meghatározott kizáró feltétel alól legkorábban a beszámolási határidő lejártát követő három év elteltével adhat felmentést. Lejárt, teljesítetlen fizetési kötelezettség esetén ilyen felmentés a kötelezettség teljesítéséig nem adható.
 
-(5) A Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) a (3) bekezdés c) és h) pontjában meghatározott kizáró feltétel alól különös méltánylást érdemlő esetben felmentést adhat, ha a c) pont szerinti kötelezettség esetében az ügyfél annak a Hivatal által meghatározott időpontig eleget tesz, vagy a kötelezettség teljesítése a megrendelésre készülő filmalkotásokra vonatkozó szerződéses kötelezettségekkel ellentétes, és ezt az ügyfél hitelt érdemlően igazolja, valamint a h) pont esetében, ha az eset összes körülményét megvizsgálva az e törvény szerinti közérdek megvalósulása azt indokolja. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
+(5) A Nemzeti Filmiroda (a továbbiakban: Filmiroda) a (3) bekezdés c) és h) pontjában meghatározott kizáró feltétel alól különös méltánylást érdemlő esetben felmentést adhat, ha a c) pont szerinti kötelezettség esetében az ügyfél annak a Filmiroda által meghatározott időpontig eleget tesz, vagy a kötelezettség teljesítése a megrendelésre készülő filmalkotásokra vonatkozó szerződéses kötelezettségekkel ellentétes, és ezt az ügyfél hitelt érdemlően igazolja, valamint a h) pont esetében, ha az eset összes körülményét megvizsgálva az e törvény szerinti közérdek megvalósulása azt indokolja. E bekezdés alkalmazásában különös méltánylást érdemlő esetnek minősül, ha az egyedi ügyben megvalósuló jogsértés súlya aránytalanul kisebb az e törvényben meghatározott célok megvalósulásának társadalmi hasznosságánál.
 
 (6) Közvetlen támogatás kizárólag a támogatott és a támogató közötti szerződéskötést követően nyújtható. Ha a támogatott szerződésszegése folytán a támogatott cél nem valósul meg, a támogatás összegét a támogatott köteles a támogatónak visszafizetni.
 
@@ -362,7 +362,7 @@ az időpontja.
 
 18. § (1) A mozgóképszakmai hatóság ellátja a mozgóképszakma működésével összefüggő közigazgatási feladatokat.
 
-(2) A mozgóképszakmai hatóság a Nemzeti Filmiroda (a továbbiakban: Filmiroda). A Filmiroda a Kormány által rendeletben kijelölt miniszter által vezetett minisztérium (a továbbiakban e §-ban: Kormány által kijelölt szerv) önálló szervezeti egysége, amely az általa ellátott hatósági feladatok tekintetében nem utasítható és hatósági tevékenysége során minden más szervtől független.
+(2) A mozgóképszakmai hatóság a Filmiroda. A Filmiroda a Kormány által rendeletben kijelölt miniszter által vezetett minisztérium (a továbbiakban e §-ban: Kormány által kijelölt szerv) önálló szervezeti egysége, amely az általa ellátott hatósági feladatok tekintetében nem utasítható és hatósági tevékenysége során minden más szervtől független.
 
 (3) A Filmiroda szervezetének és feladatainak részletes szabályait a Kormány által kijelölt szerv Szervezeti és Működési Szabályzata határozza meg.
 
@@ -808,7 +808,7 @@ az időpontja.
 
 26. § (1) A filmalkotások „art” minősítésére a Hatóság által felállított és működtetett Art Bizottság tesz javaslatot.
 
-(2) Az Art Bizottság hat tagját a Nemzeti Filmiroda igazgatójának a javaslatára a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter nevezi ki három évre.
+(2) Az Art Bizottság hat tagját a Filmiroda vezetőjének a javaslatára a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter nevezi ki három évre.
 
 (3) Az Art Bizottság tagjai:
 
@@ -1113,7 +1113,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (9) A közvetett támogatás kifizetését a filmelőállító, illetve a filmgyártó vállalkozás akkor kérheti az NFI-től, ha a Hatóság által a filmalkotás adott gyártási időszaka tekintetében meghozott, a 31/C. § (1) bekezdése szerinti határozata véglegessé vált és támogatási szerződést még nem kötött. A 31/C. § (1) bekezdése szerinti határozat véglegessé válásának időpontjáról a Hatóság nyilvántartást vezet. A letéti számláról történő kifizetés kizárólag a 31/C. § (1) bekezdése szerinti határozat véglegessé válásának sorrendjében történhet.
 
-(10) Az NFI a közvetett támogatás kifizetését – a letéti számláján rendelkezésre álló keretösszeg erejéig – a (9) bekezdés szerinti sorrendben a (9) bekezdés szerint jogosult filmelőállító vagy filmgyártó vállalkozás részére a támogatás kifizetésére irányuló kérelmének benyújtását követő 15 banki napon belül kezdeményezi a kincstárnál. Az NFI a támogatások gyűjtésével és kifizetésével kapcsolatos tevékenységéért a nyújtott támogatás legfeljebb 2,5%-ának megfelelő adminisztrációs díjat jogosult felszámítani a filmelőállítóval vagy a filmgyártó vállalkozással szemben.
+(10) Az NFI a közvetett támogatás kifizetését – a letéti számláján rendelkezésre álló keretösszeg erejéig – a (9) bekezdés szerinti sorrendben a (9) bekezdés szerint jogosult filmelőállító vagy filmgyártó vállalkozás részére a támogatás kifizetésére irányuló kérelem alapján, a közvetett támogatás nyújtására vonatkozó támogatási szerződés megkötését követő 15 banki napon belül kezdeményezi a kincstárnál. Az NFI a támogatások gyűjtésével és kifizetésével kapcsolatos tevékenységéért a nyújtott támogatás legfeljebb 2,5%-ának megfelelő adminisztrációs díjat jogosult felszámítani a filmelőállítóval vagy a filmgyártó vállalkozással szemben.
 
 (11) Az NFI a letéti számlán kezelt pénzösszeg terhére az e törvény szerint közvetlen támogatásban is részesülő filmalkotások közvetett támogatására, legfeljebb a Hatóságnak 31/B. § (1) bekezdése szerinti kérelemre indult hatósági eljárásban hozott határozatában megállapított, a filmelőállító vagy a filmgyártó vállalkozás által az adott filmalkotás tekintetében igénybe vehető közvetett támogatásra való jogosultsága összege mértékéig tartalékot képezhet.
 
@@ -1262,7 +1262,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 (3) A törvény hatálybalépésének időpontjában már terjesztés alatt álló filmalkotásokat az ,,art''-minősítés tekintetében nem kell ismételten, e törvény rendelkezései szerint besorolni, azokra továbbra is a Magyar Mozgókép Közalapítvány által elismert ,,art''-minősítések alkalmazhatók.
 
-(4) 2012. január 1-jével a Kulturális Örökségvédelmi Hivatal (a továbbiakban: KÖH) költségvetésén belül a mozgóképszakmai hatóság működését biztosító költségvetési előirányzatai (pénzügyi kerete), valamint a Nemzeti Filmiroda KÖH által 2007. január 1-jével átvett vagyona, tételes elszámolás keretében átadásra kerül az NMHH részére.
+(4) 2012. január 1-jével a Kulturális Örökségvédelmi Hivatal (a továbbiakban: KÖH) költségvetésén belül a mozgóképszakmai hatóság működését biztosító költségvetési előirányzatai (pénzügyi kerete), valamint a Filmiroda KÖH által 2007. január 1-jével átvett vagyona, tételes elszámolás keretében átadásra kerül az NMHH részére.
 
 (5) A mozgóképszakmai hatósági feladatok körében 2012. január 1-jétől az NMHH a KÖH jogutódja. 2012. január 1-jét megelőzően a mozgóképszakmai feladatok ellátása során keletkezett minden iratot, elektronikusan tárolt adatot át kell adni az NMHH részére, amely azokat tárolja és kezeli.
 
@@ -1279,9 +1279,9 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 36/A. § (1) E törvény a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2012. évi CXCIX. törvénnyel megállapított 14. § (5) bekezdését, 19/A. § (10) bekezdését és 26/B. § (4)–(9) bekezdését a mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2012. évi CXCIX. törvény hatálybalépésekor folyamatban lévő eljárásban is alkalmazni kell.
 
-(2) A mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2012. évi CXCIX. törvénnyel megállapított 32. § (1) bekezdésében meghatározott feladatokat a Hivatal a 2013. évre vonatkozó adatgyűjtési feladatoktól kezdődően látja el.
+(2) A mozgóképről szóló 2004. évi II. törvény módosításáról szóló 2012. évi CXCIX. törvénnyel megállapított 32. § (1) bekezdésében meghatározott feladatokat a Filmiroda a 2013. évre vonatkozó adatgyűjtési feladatoktól kezdődően látja el.
 
-(3) A kizárólag műhelyként nyilvántartott mozgóképszakmai szervezet 2012. december 31-éig kérheti a Hivataltól a 28. § (4) bekezdés szerinti minőségben történő nyilvántartásba vételét. Ha a nyilvántartott mozgóképszakmai szervezet e határidőig nem nyújt be kérelmet, vagy a kérelmét a Hivatal elutasítja, a Hivatal a kizárólag műhelyként nyilvántartott szervezetet törli a nyilvántartásából. Ha a mozgóképszakmai szervezet a műhelyen kívül más minőségében is szerepel a nyilvántartásban, a Hivatal kizárólag a műhely minőségét törli a nyilvántartásból.
+(3) A kizárólag műhelyként nyilvántartott mozgóképszakmai szervezet 2012. december 31-éig kérheti a Filmirodától a 28. § (4) bekezdés szerinti minőségben történő nyilvántartásba vételét. Ha a nyilvántartott mozgóképszakmai szervezet e határidőig nem nyújt be kérelmet, vagy a kérelmét a Filmiroda elutasítja, a Filmiroda a kizárólag műhelyként nyilvántartott szervezetet törli a nyilvántartásából. Ha a mozgóképszakmai szervezet a műhelyen kívül más minőségében is szerepel a nyilvántartásban, a Filmiroda kizárólag a műhely minőségét törli a nyilvántartásból.
 
 36/B. § (1) A Nemzeti Digitális Adattár, a Filmhíradók Online és a Gramofon Online alkalmazásokhoz kapcsolódó vagyoni értékű jogok és kötelezettségek jogosultja és kötelezettje 2013. január 1-jétől az állam.
 
@@ -1301,7 +1301,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 
 36/D. § E törvénynek a fejlesztéspolitikával összefüggő egyes törvények módosításáról szóló 2013. évi CCLI. törvénnyel megállapított 31/F. § (2) bekezdését a magánszemély által 2013. január 1-jét követően megszerzett jövedelmekre kell alkalmazni.
 
-36/E. § (1) A Hivatal a 13. §-ban meghatározott támogatási arányoknak a 31/B. § (5) bekezdés c) pontja és a 31/D. § (5) bekezdése alapján történő ellenőrzése során az ellenőrzéssel érintett filmalkotás támogatásra jogosultságának megállapítására irányuló kérelme Hivatalhoz érkezésének időpontjában hatályban lévő támogatási arányok betartását ellenőrzi.
+36/E. § (1) A Filmiroda a 13. §-ban meghatározott támogatási arányoknak a 31/B. § (5) bekezdés c) pontja és a 31/D. § (5) bekezdése alapján történő ellenőrzése során az ellenőrzéssel érintett filmalkotás támogatásra jogosultságának megállapítására irányuló kérelme Filmirodához érkezésének időpontjában hatályban lévő támogatási arányok betartását ellenőrzi.
 
 (2) E törvénynek a Módtv.-nyel módosított 13. § (3) bekezdését a mozgóképszakmai hatósághoz 2014. március 15-ét követően benyújtott kérelemre induló, a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zrt. (a továbbiakban: MNF) által támogatott filmalkotások támogatására való jogosultság megállapítására irányuló eljárásokban is kell alkalmazni.
 
@@ -1385,14 +1385,14 @@ rendeletben állapítsa meg.
 
 38. § Felhatalmazást kap a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter, hogy rendeletben állapítsa meg
 
-- a) a Filmiroda által e törvény alapján vezetett nyilvántartásba bejegyezhető adatok körét, az adatszolgáltatásra kötelezettek körét, a Filmiroda részére teljesítendő adatszolgáltatás és a nyilvántartásból történő adatszolgáltatás módját,
+- a) – az Ákr. 8. § (3) bekezdésétől eltérő módon – a Filmiroda által e törvény alapján vezetett nyilvántartásba bejegyezhető adatok körét, az adatszolgáltatásra kötelezettek körét, a Filmiroda részére teljesítendő adatszolgáltatás és nyilvántartásból történő adatszolgáltatás módját,
 - b) a Filmiroda által megállapított kategória szerinti jelzés filmalkotáson, mozielőzetesen, azok nyilvános vetítésén, a forgalomba hozott adathordozó csomagolásán, illetve borítóján, továbbá a filmalkotással kapcsolatos közleményben és hirdetésben való feltüntetésének módját,
 - c) a filmalkotások korhatár szerinti megjelölésének feltételeit,
 - d) a közvetett támogatási eljárásban az NFI és más támogató által nyújtott támogatás esetén a támogatások felhasználásának és a filmalkotás pénzügyi elszámolásának ellenőrzése tekintetében az NFI és más támogató által kiállított jegyzőkönyv tartalmának részletes szabályait,
-- e) a nemzetközi egyezményekben meghatározott koprodukciós igazolások, valamint a magyar mozgóképszakma nemzetközi együttműködéséhez szükséges egyéb igazolások kiadásának rendjét,
+- e) – az Ákr. 8. § (3) bekezdésétől eltérő módon – a nemzetközi egyezményekben meghatározott koprodukciós igazolások, valamint a magyar mozgóképszakma nemzetközi együttműködéséhez szükséges egyéb igazolások kiadásának rendjét,
 - f) a Filmiroda által megállapított, e törvény szerinti támogatás igénybevételének alapjául szolgáló filmgyártási költségeket,
 - g) azon eljárások vagy a nem hatósági mozgóképszakmai statisztikai feladatok körét, amelyben kötelező vagy kizárólagos az elektronikus kapcsolattartás,
-- h) az e törvény szerint nyilvántartások elektronikus úton kezelhető adatbázisba rendezésének módját és feltételeit,
+- h) – az Ákr. 8. § (3) bekezdésétől eltérő módon – az e törvény szerint nyilvántartások elektronikus úton kezelhető adatbázisba rendezésének módját és feltételeit,
 - i) a Hatóság e törvény szerinti eljárásaihoz kapcsolódó igazgatási szolgáltatási díj megfizetésének és kezelésének módját és feltételeit, a díjak mértékét és a díjképzés szabályait, valamint a díj nyilvántartásának és visszatérítésének rendjét,
 - j) a mozgóképszakmai statisztikai adatszolgáltatási kötelezettséget, a szolgáltatandó adatok körét, az adatszolgáltatásra kötelezettek körét, az adatszolgáltatás módját és idejét, valamint a mozgóképszakmai statisztikai adatbázisból történő adatszolgáltatás módját,
 - k) a filmalkotás végefőcímében az állam támogatóként való feltüntetésének módját.

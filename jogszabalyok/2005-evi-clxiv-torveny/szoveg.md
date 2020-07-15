@@ -36,7 +36,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 19. piac: olyan épület, épületegyüttes vagy terület, ahol állandó vagy rendszeres jelleggel többen általában napi, esetenként heti rendszerességgel folytatnak kiskereskedelmi tevékenységet;
 - 20. saját előállítású termék: a kereskedő által előállított és kiskereskedelmi forgalomba hozott termék, ide nem értve a kereskedő márkanevével, védjegyével, illetve egyéb megkülönböztető megjelölésével forgalmazott, de nem a kereskedő által előállított terméket;
 - 21. termék: minden birtokba vehető forgalomképes ingó dolog, ide nem értve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőt;
-- 22. szálláshely: szálláshely-szolgáltatás folytatása céljából létesített vagy használt épület, önálló rendeltetési egységet képező épületrész vagy terület;
+- 22. szálláshely: szálláshely-szolgáltatás folytatása céljából létesített vagy használt épület, önálló rendeltetési egységet képező épületrész vagy terület, valamint szálláshely-szolgáltatás folytatása céljából, bérbeadás keretében hasznosított, a víziközlekedésről szóló 2000. évi XLII. törvény 87. § 29a. pontja szerinti nyaralóhajó,
 - 23. szálláshely-szolgáltatás: üzletszerű gazdasági tevékenység keretében rendszerint nem huzamos jellegű, éjszakai ott-tartózkodást, pihenést is magában foglaló tartózkodás céljára szálláshely nyújtása és az ezzel közvetlenül összefüggő szolgáltatások nyújtása;
 - 23a. szeszes ital: minden alkohol tartalmú ital, kivéve a gyógynövények gyógyászati jellegű szeszes kivonatát és az ezek felhasználásával készült terméket, továbbá az 1,2%-nál kevesebb alkoholtartalmú üdítőitalokat;
 - 24. tartós szálláshasználati szolgáltatási tevékenység: üzletszerű gazdasági tevékenység keretében éjszakai ott-tartózkodást, pihenést is magában foglaló tartózkodás céljára szolgáló szállás rendszeres időközönként ismétlődő, meghatározott, nem huzamos időtartamra történő használata jogának (üdülési jog) biztosítása;
@@ -272,6 +272,20 @@ nyilvántartást vezet.
 
 (2) Napi fogyasztási cikk e § alkalmazásában a 2. § 18a. pontjában meghatározott termék, ide nem értve az illatszert, drogériai terméket, háztartási tisztítószert és vegyi árut, valamint a higiéniai papírterméket.
 
+7/B. § (1) A jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) szerinti sör, a népegészségügyi termékadóról szóló 2011. évi CIII. törvény szerinti üdítőital, a természetes ásványvíz értékesítésével összefüggésben nem tehető olyan jognyilatkozat, vagy nem köthető olyan szerződés, amely alapján vendéglátó üzlet – ideértve az alkalmi rendezvényen való értékesítést is – vagy szálláshely (a továbbiakban e § alkalmazásában együttesen: italt árusító vendéglátó üzlet) a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló 205/2011. (X. 7.) Korm. rendelet 1. § 10. pontja szerinti versenytilalmi kötelezettség vállalására köteles.
+
+(2) Az italt árusító vendéglátó üzlet köteles az (1) bekezdés szerinti sör – kivéve csapon értékesített sör –, üdítőital és természetes ásványvíz értékesítése esetén terméktípusonként legalább két különböző gyártó termékeinek értékesítését biztosítani.
+
+(3) Az (1) bekezdéstől eltérően sör csapon történő értékesítése esetén versenytilalmi megállapodás csak abban az esetben köthető, ha az italt árusító vendéglátó üzlet biztosítja legalább egy olyan, a Jöt. szerinti kisüzemi sörfőzde (gyártó) által előállított sör csapon történő folyamatos értékesítését, amely kisüzemi sörfőzde felett kisüzemi sörfőzdének nem minősülő sörgyártó a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény szerinti közvetlen vagy közvetett irányítással nem rendelkezik.
+
+(4) A (3) bekezdés alapján eljáró italt árusító vendéglátó üzlet a kisüzemi sörfőzde által előállított sör csapon történő folyamatos értékesítését oly módon biztosítja, hogy az így értékesítésre kerülő, kisüzemi sörfőzde által előállított sör az italt árusító vendéglátó üzlet által tárgyévben vagy alkalmi rendezvényen, csapon értékesítésre kerülő összes sörmennyiség legalább 20%-át elérje, vagy legalább a kisüzemi sörfőzdének nem minősülő sörgyártó által gyártott sör kereskedelmi, reklámozási vagy egyéb forgalmazási feltételeinél összességében kedvezőbb feltételek biztosításával reálisan elérhesse.
+
+(5) Az (1) bekezdésben meghatározott tilalom nem érinti az olyan szerződést vagy jognyilatkozatot, amely az (1) bekezdésben meghatározott sör, üdítőital vagy természetes ásványvíz gyártójának kiemelt reklámcélú megjelenítését célozza, és e § rendelkezéseit nem sérti.
+
+(6) Az (1)–(5) bekezdésbe ütköző szerződés vagy jognyilatkozat semmis.
+
+(7) Az (1) bekezdésben meghatározott szerződésre vagy jognyilatkozatra a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 13. § (1)–(3) bekezdése, valamint a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló 205/2011. (X. 7.) Korm. rendelet 2–8. §-a nem alkalmazható.
+
 ### Érdek-képviseleti szervezetek közreműködése
 
 8. § (1) A kereskedelmi vállalkozások és a beszállítók, valamint kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytatók képviseletét ellátó egyesület e törvény erejénél fogva ügyfélnek minősül az e törvény megsértése miatt indított azon közigazgatási hatósági eljárásban, ideértve a versenyfelügyeleti eljárást is, amely a kereskedők, a beszállítók vagy a kereskedelmi jellegű turisztikai szolgáltatási tevékenységet végzők széles körét érinti, vagy a vállalkozások működésére jelentős hátrányt okoz.
@@ -285,6 +299,10 @@ nyilvántartást vezet.
 (2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – az 5. § (2) és (4) bekezdésében, az 5/C.–5/E. §-ban, valamint a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
 (3) A 7. § megsértése miatt a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban, a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 21. §-ának megsértése esetén irányadó rendelkezések szerint.
+
+(3a) A 7/B. § megsértése miatt a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban, a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény megsértése esetén irányadó rendelkezések szerint azzal, hogy a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. §-ának vizsgálata során a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló 205/2011. (X. 7.) Korm. rendelet 7. §-át is figyelembe kell venni.
+
+(3b) A (3a) bekezdés szerinti versenyfelügyeleti eljárásban a Gazdasági Versenyhivatal a 7/B. §-t akkor alkalmazza, ha az Európai Unió működéséről szóló szerződés 101. cikke alkalmazásának szükségességét a Szerződés 81. és 82. cikkében meghatározott versenyszabályok végrehajtásáról szóló, 2002. december 16-i 1/2003/EK tanácsi rendelet 3. cikk (1) bekezdése alapján nem állapítja meg.
 
 (4) A tevékenységre vonatkozó jogszabályi és hatósági előírások megsértése esetén – a külön jogszabályban foglaltak szerint – a kereskedelmi hatóság
 
@@ -324,7 +342,9 @@ nyilvántartást vezet.
 
 11/C. § A 7/A. §-t a 2016. január 1-je után megvalósuló gazdasági erőfölénnyel való visszaélések fennállása tekintetében kell alkalmazni.
 
-11/D. §
+11/D. § (1) A Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvény (a továbbiakban: 2020. évi LXXVI. törvény) hatálybalépését megelőzően megkötött, a 7/B. § (1) és (3)–(5) bekezdésébe ütköző szerződések vagy jognyilatkozatok 2021. augusztus 1-jén hatályukat vesztik. A 2020. évi LXXVI. törvény hatálybalépését megelőzően megkötött szerződéseknek, jognyilatkozatoknak a 2020. évi LXXVI. törvény hatálybalépését követő módosítása során a 7/B. §-ban foglaltakat alkalmazni kell.
+
+(2) A 2020. évi LXXVI. törvény hatálybalépésekor a 7/B. § (1) bekezdése szerinti szerződéssel vagy jognyilatkozattal rendelkező italt árusító vendéglátó üzlet a 7/B. § (2) bekezdését 2021. augusztus 1-jétől köteles alkalmazni. A 2020. évi LXXVI. törvény hatálybalépésekor a 7/B. § (1) bekezdése szerinti szerződéssel vagy jognyilatkozattal nem rendelkező italt árusító vendéglátó üzlet a 7/B. § (2) bekezdését 2020. szeptember 1-jétől köteles alkalmazni.
 
 11/E. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 

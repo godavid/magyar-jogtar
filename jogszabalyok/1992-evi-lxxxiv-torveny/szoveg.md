@@ -53,9 +53,9 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
-- a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, munkáltatói nyugdíjbiztosítási járulék;
-- b) 1. a biztosított által fizetett társadalombiztosítási járulékból a Nyugdíjbiztosítási Alapot megillető rész, a kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó személyek esetében, 2. a magánnyugdíjpénztár tagja által fizetett nyugdíjjárulék, 3. 4. a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a gyermeknevelési támogatás, a gyermekek otthongondozási díja, az ápolási díj után fizetett nyugdíjjárulék, 5. 6. az álláskeresési támogatásból fizetett nyugdíjjárulék;
-- c) egyéb járulékok és hozzájárulások, ideértve 1. a szolgálati idő megszerzésére kötött megállapodás alapján befizetett nyugdíjjárulékot, 2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget, 3. 4. 5. 6. 7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
+- a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része;
+- b) a biztosított által fizetett társadalombiztosítási járulékból a Nyugdíjbiztosítási Alapot megillető rész, valamint a megfizetett nyugdíjjárulék;
+- c) egyéb járulékok és hozzájárulások, ideértve 1. az egyszerűsített közteherviselési hozzájárulás Nyugdíjbiztosítási Alapot megillető része, 2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget, 3. 4. 5. 6. 7. a magánnyugdíjpénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget;
 - d) a Nemzeti Adó- és Vámhivatalnál (a továbbiakban: az állami adóhatóság) kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 - e) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 91. §-a szerinti mulasztási bírság;
 - f) a központi támogatások;
@@ -84,9 +84,9 @@ kiadásainak fedezetére szolgál.
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
-- a) a szociális hozzájárulási adónak az Egészségbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, a munkáltatói egészségbiztosítási járulék (ezen belül természetbeni és pénzbeli egészségbiztosítási járulék);
+- a) a szociális hozzájárulási adónak az Egészségbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része;
 - b) a biztosított által fizetett társadalombiztosítási járulék Egészségbiztosítási Alapot megillető része;
-- c) egyéb járulékok és hozzájárulások, ideértve 1. az egészségügyi szolgáltatási járulékot, 2. az egészségbiztosítási ellátásokra kötött megállapodás alapján fizetett járulékot, 3. a munkáltatói táppénz-hozzájárulást, 4. az Efo.tv. 7. §-a alapján a kincstár által az Egészségbiztosítási Alapnak átutalt összeget, 5. 6.
+- c) egyéb járulékok és hozzájárulások, ideértve 1. az egészségügyi szolgáltatási járulékot, 2. az egészségbiztosítási ellátásokra kötött megállapodás alapján fizetett járulékot, 3. a munkáltatói táppénz-hozzájárulást, 4. az Efo.tv. 7. §-a alapján a kincstár által az Egészségbiztosítási Alapnak átutalt összeget, 5. az egyszerűsített közteherviselési hozzájárulás Egészségbiztosítási Alapot megillető része; 6.
 - d) az egészségügyi hozzájárulás;
 - e) az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 - f) a központi támogatások, ideértve az egészségügyi feladatok ellátásával kapcsolatos költségvetési hozzájárulást és törvényben előírt egyéb támogatás összegét;
@@ -270,9 +270,7 @@ kiadásainak fedezetére szolgál.
 
 40. §
 
-41. § Felhatalmazást kap a társadalombiztosítási alapok kezelője, hogy megbízást adjon a Magyar Nemzeti Bank részére a társadalombiztosítási alapok 1993. évre előirányzott hiányát fedező hosszú — legalább 10 éves — lejáratú értékpapír kibocsátására.
-
-Az értékpapír kamatát a központi költségvetés a társadalombiztosítási alapok részére a kamatköltség felmerülésekor megtéríti és a tőketörlesztésre kezességet vállal.
+41. §
 
 ### 1. számú melléklet az 1992. évi LXXXIV. törvényhez
 
@@ -300,22 +298,9 @@ Az értékpapír kamatát a központi költségvetés a társadalombiztosítási
 
 ### 13. számú melléklet az 1992. évi LXXXIV. törvényhez
 
-Az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételekből a Nyugdíjbiztosítási Alap és az Egészségbiztosítási Alap számára a havonta átutalásra kerülő összeg meghatározása az alábbiak szerint történik (előirányzaton eredeti előirányzatot kell érteni):
-
-| A Nyugdíjbiztosítási Alap bevétele |  |
-| --- | --- |
-
-| Az Egészségbiztosítási Alap bevétele |  |
-| --- | --- |
-
-ahol
-
-A: az adóhatóságnál kezelt azon tárgyévi adó, járulék, hozzájárulás, illeték költségvetési bevételi előirányzata, kivéve a társadalombiztosítás pénzügyi alapjai – a képlet E: és Ny: fogalmak szerinti – bevételek előirányzata, amely befizetési kötelezettségek nem teljesítése esetére jogszabály késedelmi pótlék, illetve bírság fizetési kötelezettséget ír elő
-
-E: a tárgyévi szociális hozzájárulási adó Egészségbiztosítási Alapot megillető része, munkáltatói és biztosítotti egészségbiztosítási járulék, egészségügyi hozzájárulás, egészségügyi szolgáltatási járulék bevételi előirányzata, a táppénz-hozzájárulás bevételi előirányzatának harmada, a folyamatos gyógyszerellátást biztosító gyógyszergyártói és forgalmazói befizetések és egyéb gyógyszerforgalmazással kapcsolatos bevételek előirányzata.
-
-Ny: a tárgyévi szociális hozzájárulási adó Nyugdíjbiztosítási Alapot megillető része, nyugdíjbiztosítási járulék és biztosítotti nyugdíjjárulék, a korkedvezmény-biztosítási járulék előirányzata.
-
-P: az adóhatóságnál az adóztatási tevékenységgel összefüggően kezelt késedelmi pótlék bevételi számlára a tárgyhónapban befolyt bevételnek az adózók (kifizetők) által ezen a jogcímen visszaigényelt és az adóhatóság által a tárgyhónapban visszautalt tételekkel csökkentett összege
-
-B: az adóhatóságnál az adóztatási tevékenységgel összefüggően kezelt bírság, mulasztási bírság, önellenőrzési pótlék bevételi számlára a tárgyhónapban befolyt bevételnek az adózók (kifizetők) által ezeken a jogcímeken visszaigényelt és az adóhatóság által a tárgyhónapban visszautalt tételekkel csökkentett összege.
+- 1. Az állami adóhatóságnál kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételekből a Nyugdíjbiztosítási Alap és az Egészségbiztosítási Alap számára a havonta átutalásra kerülő összeg meghatározása az alábbiak szerint történik (előirányzaton eredeti előirányzatot kell érteni): ahol
+- 1.1. A: az adóhatóságnál kezelt azon tárgyévi adó, járulék, hozzájárulás, illeték költségvetési bevételi előirányzata, kivéve a társadalombiztosítás pénzügyi alapjai – a képlet E: és Ny: fogalmak szerinti – bevételek előirányzata, amely befizetési kötelezettségek nem teljesítése esetére jogszabály késedelmi pótlék, illetve bírság fizetési kötelezettséget ír elő.
+- 1.2. E: a tárgyévi szociális hozzájárulási adó Egészségbiztosítási Alapot megillető része, a biztosított által fizetett társadalombiztosítási járulékból az Egészségbiztosítási Alapot megillető rész, a biztosítotti egészségbiztosítási járulék, az egészségügyi hozzájárulás, egészségügyi szolgáltatási járulék bevételi előirányzata, a táppénz-hozzájárulás bevételi előirányzatának harmada, a folyamatos gyógyszerellátást biztosító gyógyszergyártói és forgalmazói befizetések és egyéb gyógyszerforgalmazással kapcsolatos bevételek előirányzata.
+- 1.3. Ny: a tárgyévi szociális hozzájárulási adó Nyugdíjbiztosítási Alapot megillető része, a biztosított által fizetett társadalombiztosítási járulékból a Nyugdíjbiztosítási Alapot megillető rész, a nyugdíjjárulék.
+- 1.4. P: az adóhatóságnál az adóztatási tevékenységgel összefüggően kezelt késedelmi pótlék bevételi számlára a tárgyhónapban befolyt bevételnek az adózók (kifizetők) által ezen a jogcímen visszaigényelt és az adóhatóság által a tárgyhónapban visszautalt tételekkel csökkentett összege.
+- 1.5. B: az adóhatóságnál az adóztatási tevékenységgel összefüggően kezelt bírság, mulasztási bírság, önellenőrzési pótlék bevételi számlára a tárgyhónapban befolyt bevételnek az adózók (kifizetők) által ezeken a jogcímeken visszaigényelt és az adóhatóság által a tárgyhónapban visszautalt tételekkel csökkentett összege.

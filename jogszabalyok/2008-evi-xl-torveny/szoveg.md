@@ -2958,7 +2958,7 @@ tartalmazza.
 
 (13) A Felajánlási rendeletben meghatározott mennyiséget a Felajánlási rendelet hatálybalépését követően át kell adni a szerződő félnek. Ha a Felajánlási rendelet vagy annak módosítása olyan időpontban lép hatályba, amely időpontban a szabályozási időszak már elkezdődött, a Felajánlási rendeletben vagy annak módosításában meghatározott mennyiségbe a Felajánlási rendelet hatálybalépését megelőzően az azonos szabályozási időszakban a szerződő félnek már átadott mennyiséget be kell számítani.
 
-(14) Az (1)–(3) bekezdés szerinti szerződés 2021. szeptember 30-ig meghosszabbodik.
+(14) Az (1)–(3) bekezdés szerinti szerződés 2022. szeptember 30-ig meghosszabbodik.
 
 (14a) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
@@ -3053,11 +3053,11 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 (8) A Felajánlási rendeletben meghatározott földgázmennyiséget a földgáztermelő köteles a (3) bekezdés szerinti szerződésben – a műszaki üzemi terv elvárásait és a bánya-technológiai korlátokat figyelembe véve – meghatározott, földgázmennyiségre vonatkozó rugalmassági szabályok figyelembevételével átadni a szerződő félnek a Felajánlási rendeletben meghatározott hatósági ár alkalmazásával.
 
-(9) A hazai termelésű földgáz termelője köteles a 2015. július 1-jétől 2021. szeptember 30-ig tartó időszakra a szállítóvezeték együttműködő földgázrendszerhez csatlakozó hazai termelő mezők betáplálási vagy összevont betáplálási pontján a hazai termelésű földgáz betáplálása érdekében éves kapacitást lekötni.
+(9) A hazai termelésű földgáz termelője köteles a 2015. július 1-jétől 2022. szeptember 30-ig tartó időszakra a szállítóvezeték együttműködő földgázrendszerhez csatlakozó hazai termelő mezők betáplálási vagy összevont betáplálási pontján a hazai termelésű földgáz betáplálása érdekében éves kapacitást lekötni.
 
 (10) A hazai termelésű földgáz termelője a (9) bekezdés szerinti kapacitást köteles a hazai termelésű földgáz értékesítésére vonatkozó szerződés keretében beszerzési költségen átadni a hazai termelésű földgáz vásárlója számára.
 
-(11) A (3) bekezdés szerinti szerződés 2021. szeptember 30-áig meghosszabbodik.
+(11) A (3) bekezdés szerinti szerződés 2022. szeptember 30-áig meghosszabbodik.
 
 141/J. § (1) Az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő az egyetemes szolgáltatás keretében vételező felhasználók részére történő értékesítés céljából köteles a szerződéssel le nem kötött földgázforrásait – ideértve az egyetemes szolgáltatási célra a 141/I. § szerint vásárolt hazai termelésű földgázforrásait is – a Mód. 7. törvény hatálybalépését követő napon 3 munkanapig tartó ajánlati kötöttség mellett az egyetemes szolgáltatók részére 2015. július 1. és 2016. szeptember 30. közötti időszakra – a Felajánlási rendeletben szabályozott szerződési feltételeken kívül – megkülönböztetésmentes szerződéses feltételekkel vételre felajánlani.
 
@@ -3082,7 +3082,7 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 (9) A volt közüzemi nagykereskedő köteles az e § szerinti felajánlás forrásait biztosító szerződéseit a felajánlást követő 5 munkanapon belül a Hivatal részére megküldeni.
 
-(10) A (3) bekezdés szerinti szerződés 2021. szeptember 30-áig meghosszabbodik.
+(10) A (3) bekezdés szerinti szerződés 2022. szeptember 30-áig meghosszabbodik.
 
 (11) Az egyetemes szolgáltató köteles az egyetemes szolgáltatói engedéllyel nem rendelkező volt közüzemi nagykereskedő által megjelölt ellátási időszakra vonatkozóan megadni a szerződés alapján történő vételezésének tervezett mennyiségeit havi bontásban. A Felajánlási rendelet alapján az egyetemes szolgáltató által a Hivatal részére megadott, a volt közüzemi nagykereskedőtől a szerződés alapján beszerezni tervezett negyedéves mennyiségek legfeljebb 5%-kal térhetnek el az adott negyedév hónapjaira bejelentett mennyiségek összegétől.
 

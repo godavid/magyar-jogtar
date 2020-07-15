@@ -1664,13 +1664,35 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 45/I. § E törvénynek az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel megállapított 4. § (4a) és (4b) bekezdését, valamint a III/A. Fejezetét a 2019. július 1-től kezdődően benyújtott, a 2018. január 1-jével vagy azt követően kezdődő adóévben szerzett jövedelemre vagy vagyonra vonatkozó vitás kérdésekhez kapcsolódó panaszok tekintetében kell alkalmazni. Az érintett tagállamok illetékes hatóságai megállapodhatnak arról, hogy a 4. § (4a) és (4b) bekezdésében, valamint a III/A. Fejezetében foglalt rendelkezéseket a 2019. július 1-jét megelőzően benyújtott, vagy a 2018. január 1-jét megelőzően kezdődő adóévben szerzett jövedelemre vagy vagyonra vonatkozó vitás kérdésekhez kapcsolódó panaszok tekintetében is alkalmazzák.
 
-45/J. § (1) Az adótervezésben közreműködő és az érintett adózó 2020. augusztus 31-ig a 43/Y. § (2) bekezdésében meghatározott és rendelkezésre álló adattartalommal adatot szolgáltat az állami adó- és vámhatóságnak az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukcióról, amely végrehajtásának első lépésére 2018. június 25-e és 2020. július 1-e között került sor.
+45/J. § (1) Az adótervezésben közreműködő és az érintett adózó 2021. február 28-ig a 43/Y. § (2) bekezdésében meghatározott és rendelkezésre álló adattartalommal adatot szolgáltat az állami adó- és vámhatóságnak az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukcióról, amely végrehajtásának első lépésére 2018. június 25-e és 2020. június 30-a között került sor.
 
-(2) Az (1) bekezdésben meghatározott adatszolgáltatási kötelezettség elmulasztása, késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adó- és vámhatóság a 43/Z. §-ban foglaltaknak megfelelően jár el azzal, hogy a mulasztási bírság kiszabása az adózói kimentő igazolás megalapozottsága esetén mellőzhető.
+(2) Az adótervezésben közreműködő 43/U. § (3) bekezdésében meghatározott adatszolgáltatási kötelezettsége esetén, ha az adatszolgáltatási kötelezettség alá tartozó, határokon átnyúló konstrukció 2020. július 1-je és 2020. december 31-e közötti időszakban
 
-(3) Az állami adó- és vámhatóság a 43/Y. § (1) bekezdésében meghatározott adattovábbítási kötelezettségét először 2020. október 31-ig teljesíti.
+- a) válik végrehajtás céljából elérhetővé,
+- b) készül el végrehajtásra, vagy
+- c) a végrehajtásának első lépésére ebben az időszakban kerül sor
 
-(4) Az állami adó- és vámhatóság a 43/Y. § (4) bekezdésében meghatározott kötelezettségét a központi adattár működésének megkezdéséig a CCN-hálózaton keresztül elektronikus úton teljesíti.
+a 30 napos teljesítési határidő számítása 2021. január 1-jétől kezdődik.
+
+(3) Az adótervezésben közreműködő 43/U. § (4) bekezdésében meghatározott adatszolgáltatási kötelezettsége esetén, ha a közvetlenül vagy más személyen keresztül nyújtott támogatás, segítségnyújtás vagy tanácsadás napja 2020. július 1-je és 2020. december 31-e közötti időszakra esik, a 30 napos teljesítési határidő számítása 2021. január 1-jétől kezdődik.
+
+(4) Az adótervezésben közreműködő a piacképes konstrukciókra vonatkozó 43/U. § (5) bekezdésében meghatározott bejelentési kötelezettségét először 2021. április 30-ig teljesíti.
+
+(5) Az adótervezésben közreműködő és az érintett adózó 43/W. § (3) bekezdésében meghatározott adatszolgáltatási kötelezettsége esetén, ha az értesítés kézhezvételére 2020. július 1-je és 2020. december 31-e között kerül sor, a 30 napos teljesítési határidő számítása 2021. január 1-jétől kezdődik.
+
+(6) Az érintett adózó 43/W. § (4) bekezdésében meghatározott adatszolgáltatási kötelezettsége esetén, ha az adatszolgáltatási kötelezettség alá tartozó, határokon átnyúló konstrukció 2020. július 1-je és 2020. december 31-e közötti időszakban
+
+- a) válik végrehajtás céljából elérhetővé,
+- b) készül el végrehajtásra, vagy
+- c) a végrehajtásának első lépésére ebben az időszakban kerül sor
+
+a 30 napos teljesítési határidő számítása 2021. január 1-jétől kezdődik.
+
+(7) Az (1)–(6) bekezdésben meghatározott adatszolgáltatási és bejelentési kötelezettség elmulasztása, késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adó- és vámhatóság a 43/Z. §-ban foglaltaknak megfelelően jár el azzal, hogy a mulasztási bírság kiszabása az adózói kimentő igazolás megalapozottsága esetén mellőzhető.
+
+(8) Az állami adó- és vámhatóság a 43/Y. § (1) bekezdésében meghatározott adattovábbítási kötelezettségét először 2021. április 30-ig teljesíti.
+
+(9) Az állami adó- és vámhatóság a 43/Y. § (4) bekezdésében meghatározott kötelezettségét a központi adattár működésének megkezdéséig a CCN-hálózaton keresztül elektronikus úton teljesíti.
 
 45/K. § A 2018. január 1-jét megelőzően kezdődő adómegállapítási időszakot érintő, a Választottbírósági Egyezmény alapján lefolytatandó kölcsönös egyeztető eljárás megindítására irányuló kérelem esetén a kölcsönös egyeztető eljárás lefolytatásának feltétele, hogy a kérelem vagy bármilyen arra utaló értesítés, amely az eljárás megindításának alapjául szolgál, a kérelmezőtől vagy a másik szerződő állam illetékes hatóságától az adómegállapításhoz való jog vagy az adó-visszatérítés iránti jog elévülési idején belül a magyar illetékes hatósághoz beérkezzen.
 

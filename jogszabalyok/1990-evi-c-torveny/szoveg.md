@@ -48,6 +48,8 @@ Az Országgyűlés a helyi adóztatás kiemelkedő jelentőségét mérlegelve a
 
 (4) Az (1)–(3) bekezdésben meghatározottak szerint adóalany a külföldi magánszemély és szervezet is feltéve, hogy adómentességét nemzetközi szerződés vagy viszonosság nem biztosítja. A viszonosság kérdésében az adópolitikáért felelős miniszter állásfoglalása az irányadó.
 
+(4a) Mentes az állami tulajdont terhelő vagyoni értékű jog jogosítottjaként őt terhelő építményadó és telekadó alól az egyesület és az alapítvány.
+
 (5) E törvény hatálya – a 34. §-ban foglaltak kivételével – nem terjed ki az államra, a helyi önkormányzatra, a nemzetiségi önkormányzatra, a költségvetési szervre, az állam által alapított vagyonkezelő alapítvány fenntartásában álló közhasznú szervezetként működő felsőoktatási intézményre, az egyházi jogi személyre, a Magyar Nemzeti Vagyonkezelő Zrt.-re, a Nemzeti Eszközkezelő Zrt.-re, az Államadósság Kezelő Központ Zrt.-re, a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó büntetés-végrehajtási gazdálkodó szervezetre, valamint a helyi iparűzési adó vonatkozásában a Magyar Nemzeti Bankra, az Országos Betétbiztosítási Alapra, a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben meghatározott Szanálási Alapra, a Befektető-védelmi Alapra és a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény szerinti Kárrendezési Alapra.
 
 (6) Ha e törvény az adóalanyiságot az év első napján fennálló állapothoz köti és az önkormányzat az adót év közben vezeti be, akkor a bevezetés évében az adó alanyának azt kell tekinteni, aki/amely az adót bevezető rendelet hatálybalépésének napján megfelel az adóalanyiság követelményeinek.
@@ -80,7 +82,7 @@ személyi állományába tartozó vagy alkalmazásában álló nem magyar állam
 - b) a vagyoni típusú adók körében az épület, épületrész és telek utáni adót egységesen – tételes összegben vagy a korrigált forgalmi érték alapulvételével – határozhatja meg,
 - c) az általa bevezetett adó mértékeként nem állapíthat meg többet az adómaximumnál,
 - d) ha az adót az 1. § (3) bekezdése alapján a fővárosi önkormányzat vezeti be, akkor az a kerületi önkormányzat, amely az adó fővárosi önkormányzat általi bevezetésébe beleegyezett, az adót az adóévben nem működtetheti,
-- e) a vállalkozó (52. § 26. pont) üzleti célt szolgáló épülete, épületrésze, reklámhordozója utáni építményadó, telke utáni telekadó és a helyi iparűzési adó megállapítása során – ha e törvény eltérően nem rendelkezik – a 6. § d) pontja nem alkalmazható. A helyi iparűzési adó esetén egy adómérték alkalmazható,
+- e) a vállalkozó (52. § 26. pont) üzleti célt szolgáló épülete, épületrésze utáni építményadó, telke utáni telekadó és a helyi iparűzési adó megállapítása során – ha e törvény eltérően nem rendelkezik – a 6. § d) pontja nem alkalmazható. A helyi iparűzési adó esetén egy adómérték alkalmazható,
 - f) a korrigált forgalmi érték alapú építményadóban a lakás, illetve az egyéb építmény esetén egy-egy, a korrigált forgalmi érték alapú telekadóban a lakáshoz tartozó telek, illetve az egyéb telek esetén egy-egy adómérték alkalmazható,
 - g) az adóalap fajtáját, az adó mértékét, a rendeleti adómentességet és adókedvezményt úgy állapíthatja meg, hogy azok összességükben egyaránt megfeleljenek a helyi sajátosságoknak, az önkormányzat gazdálkodási követelményeinek és az adóalanyok széles körét érintően az adóalanyok teherviselő képességének,
 - h) ha az adó mértékét határozott időre állapítja meg, akkor azt az adóalany hátrányára
@@ -129,7 +131,7 @@ Az egyes adók az általános rendelkezések (első rész) figyelembevételével
 
 (4)
 
-11/A. § Adóköteles az önkormányzat illetékességi területén lévő ingatlanon elhelyezett, a településkép védelméről szóló törvény szerinti reklámhordozó.
+#### 11/A. §
 
 ### Az adó alanya
 
@@ -139,7 +141,7 @@ Az egyes adók az általános rendelkezések (első rész) figyelembevételével
 
 (3) Társasház, -garázs és -üdülő esetén a tulajdonosok önálló adóalanyok, a közös használatú helyiségek után az adó alanya az említett közösség.
 
-12/A. § Az adó alanya a 11/A. § szerinti esetben az, aki az év első napján a reklámhordozó Polgári Törvénykönyv szerinti tulajdonosa.
+#### 12/A. §
 
 ### Az adómentesség
 
@@ -187,7 +189,7 @@ adómentesség
 
 (4) Az építmény használatának szünetelése az adókötelezettséget nem érinti.
 
-(5) A 11/A. § szerinti esetben az adókötelezettség a reklámhordozó elhelyezésére vonatkozó hatósági engedély kiadását, engedély hiányában a reklámhordozó ingatlanon való elhelyezését követő év első napján keletkezik. Az adókötelezettség a reklámhordozó lebontása, eltávolítása vagy megsemmisülése, de legkorábban az adókötelezettség keletkezése évének utolsó napjával szűnik meg.
+(5)
 
 ### Az adófelfüggesztés
 
@@ -210,7 +212,7 @@ adómentesség
 - a) az építmény m2-ben számított hasznos alapterülete, vagy
 - b) az építmény korrigált forgalmi értéke.
 
-15/A. § A 11/A. § szerinti esetben az adó alapja a reklámhordozó reklámközzétételre használható, m2-ben – két tizedesjegy pontossággal – számított felülete.
+#### 15/A. §
 
 ### Az adó mértéke
 
@@ -219,7 +221,7 @@ adómentesség
 - a) a 15. § a) pontja szerinti adóalap-megállapításnál 1100 Ft/m2,
 - b) a 15. § b) pontja szerinti adóalap-megállapításnál a korrigált forgalmi érték 3,6%-a.
 
-16/A. § Az adó évi mértékének felső határa a 15/A. § szerinti adóalap esetén 12 000 Ft/m2.
+#### 16/A. §
 
 #### 2. Telekadó
 
@@ -706,7 +708,7 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 (8) A közös őstermelői igazolvánnyal rendelkező adóalanyok az adóévi iparűzési adókötelezettségüket úgy is teljesíthetik, hogy az adószámmal rendelkező adóalany a közös őstermelői tevékenységvégzésből származó teljes iparűzési adóalap alapulvételével állapítja meg, vallja be és fizeti meg az adót. Az adómegállapítás ezen módjának választásáról a közös őstermelői igazolványban feltüntetett valamennyi adóalany az adószámmal rendelkező adóalany adóévi adóbevallásában nyilatkozik. A családi gazdálkodó a családi gazdaság tekintetében az adóévi iparűzési adókötelezettséget a közös őstermelői igazolvánnyal rendelkező adóalanyokra irányadó szabályozás szerint is teljesítheti.
 
-(9) Annak a társasági adóalanynak minősülő, kettős könyvvitelt vezető vállalkozónak (ideértve a külföldi székhelyű vállalkozó magyarországi fióktelepét, továbbá a kettős könyvvitel elveinek megfelelő könyvvezetést alkalmazó más külföldi székhelyű vállalkozót is), amelynek az adóévet megelőző adóévben az éves szinten számított nettó árbevétele a 100 millió forintot meghaladta, az adóévre megfizetett iparűzési adóelőleget az adóévi várható fizetendő adó összegére ki kell egészítenie.
+(9)
 
 41/A. § (1) Az adóalany a jövőben esedékessé váló adójára tekintettel előrehozott adót fizethet.
 
@@ -779,7 +781,7 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 (4)
 
-42/D. § (1) Az adózó az állandó jellegű helyi iparűzési adóról szóló adóbevallási kötelezettségét – ideértve az adóbevallás kijavítását és az önellenőrzéssel való helyesbítést – és az adóelőleg-kiegészítés összegéről szóló bevallási kötelezettségét (e § alkalmazásában a továbbiakban együtt: adóbevallás) az állami adóhatóság által rendszeresített, PM rendelet szerinti bevallási nyomtatványnak megfelelő elektronikus nyomtatványon az állami adóhatósághoz elektronikus úton, az állami adóhatóság hatáskörébe tartozó adókról szóló bevallások benyújtására vonatkozó rendelkezések értelemszerű alkalmazásával is teljesítheti.
+42/D. § (1) Az adózó az állandó jellegű helyi iparűzési adóról szóló adóbevallási kötelezettségét – ideértve az adóbevallás kijavítását és az önellenőrzéssel való helyesbítést – (e § alkalmazásában a továbbiakban együtt: adóbevallás) az állami adóhatóság által rendszeresített, PM rendelet szerinti bevallási nyomtatványnak megfelelő elektronikus nyomtatványon az állami adóhatósághoz elektronikus úton, az állami adóhatóság hatáskörébe tartozó adókról szóló bevallások benyújtására vonatkozó rendelkezések értelemszerű alkalmazásával is teljesítheti.
 
 (2) Az állami adóhatóság a hozzá beérkezett, számszaki hibát, ellentmondást nem tartalmazó adóbevallást – az adóbevallás-benyújtásra kötelezett azonosítását követően, a befogadó nyugta kiadása mellett – az adóalany által a bevallási nyomtatványon megjelölt székhely, telephely(ek) szerinti önkormányzati adóhatóság részére haladéktalanul továbbítja. Az állami adóhatóság bevalláskitöltésre szolgáló számítógépes rendszere a számszaki hibára, ellentmondásra automatikusan felhívja az adóalany figyelmét és tájékoztatja arról, hogy az adóbevallást az önkormányzati adóhatóság részére csak a hiba adózó általi kijavítását követően továbbítja.
 
@@ -897,11 +899,13 @@ elektronikus úton megküldi az állami adóhatóság részére.
 
 51/H. § Az az adóalany, amely e törvény 2019. december 31-én hatályos szabályai alapján alapítványként a 3. § (2)–(3) bekezdése szerinti feltételes adómentesség igénybevételére jogosult, e mentességet 2022. december 31-ig igénybe veheti, ha vállalja, hogy 2023. január 15-ig igazolja, hogy a Civil törvény szerinti közhasznú jogállást szerzett. Ha az adóalany e vállalását nem teljesíti, a 3. § (2)–(3) bekezdése szerinti feltételes mentességre tekintettel meg nem fizetett adót az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben köteles az adóhatóság felhívására megfizetni. A szervezet megszűnése esetén e fizetési kötelezettség az alapítót vagy annak jogutódját terheli.
 
-51/I. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel (a továbbiakban: Eadtv.) megállapított 41. § (9) bekezdést annak a naptári évtől eltérő üzleti évet választó vállalkozónak is alkalmaznia kell a 2019. évben kezdődő adóévében, amelynek ezen adóéve utolsó hónapjának 20. napja az Eadtv. hatálybalépését követő időszakra esik.
+#### 51/I. §
 
 51/J. § (1) 2019. december 31-én az egyszerűsített vállalkozói adó hatálya alá tartozó adóalany a helyi iparűzési adóalapját a 2019. évben kezdődő adóévre a 2019. december 31-én hatályos 39/B. § (1) bekezdése szerint is megállapíthatja.
 
 (2) Nem kell a 41. § (9) bekezdés rendelkezését alkalmaznia a 2019-ben kezdődő adóévben a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 26. § (11) bekezdése szerinti szervezetnek.
+
+51/K. § A Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvénnyel (a továbbiakban: Módtörvény) hatályon kívül helyezett 41. § (9) bekezdését – függetlenül attól, hogy az üzleti év megegyezik-e a naptári évvel – első alkalommal a Módtörvény hatálybalépése napját magában foglaló adóévben nem kell alkalmazni.
 
 ### VII. Fejezet — Értelmező rendelkezések
 

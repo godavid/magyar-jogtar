@@ -8,7 +8,7 @@ Az Országgyűlés a munkavállalók szociális biztonságának elősegítése �
 
 - a) a felszámolás vagy kényszertörlési eljárás alatt álló gazdálkodó szervezetnek a munkavállalóval szemben fennálló kiegyenlíthetetlen bértartozásából,
 - b) a felszámolás alatt álló kölcsönbevevő által a kölcsönbeadó részére a kölcsönzött munkavállaló után meg nem fizetett kölcsönzési díjból,
-- c) a felszámolás alatt álló gazdálkodó szervezetnek az iskolaszövetkezet részére meg nem fizetett szolgáltatási díjból
+- c) a felszámolás alatt álló gazdálkodó szervezetnek az iskolaszövetkezet, közérdekű nyugdíjas szövetkezet (a továbbiakban: nyugdíjas szövetkezet) részére meg nem fizetett szolgáltatási díjból
 
 az e törvény által meghatározott összeg előlegezhető meg.
 
@@ -24,10 +24,10 @@ az e törvény által meghatározott összeg előlegezhető meg.
 - f) kölcsönvevő: az Mt. 214. § (1) bekezdés c) pontjában meghatározott munkáltató;
 - g) felszámolási eljárás: a Cstv. szerinti felszámolási eljárás;
 - h) Bérgarancia biztos: a Ctv. 117/A. § (4) bekezdés szerinti személy;
-- i) díj: az iskolaszövetkezetet terhelő azon díj, illetve egyéb bérjellegű juttatás, amely az iskolaszövetkezeti tagot a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyes közreműködésének időtartamára tekintettel megilleti vagy megillette;
+- i) díj: az iskolaszövetkezetet, nyugdíjas szövetkezetet terhelő azon díj, illetve egyéb bérjellegű juttatás, amely az iskolaszövetkezeti, nyugdíjas szövetkezeti tagot a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyes közreműködésének időtartamára tekintettel megilleti vagy megillette;
 - j) kölcsönzési díj: az az ellenérték, amelynek fejében a kölcsönbeadó a vele kölcsönzés céljából munkaviszonyban álló munkavállalót munkavégzésre a kölcsönvevőnek ideiglenesen átengedi vagy átengedte;
-- k) szolgáltatási díj: az az ellenérték, amelynek fejében az iskolaszövetkezet a szolgáltatását igénybe vevő részére – a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyesen közreműködő tag által történő teljesítés útján – szolgáltatást nyújt vagy nyújtott;
-- l) személyesen közreműködő iskolaszövetkezeti tag: az iskolaszövetkezetnek a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyesen közreműködő tagja.
+- k) szolgáltatási díj: az az ellenérték, amelynek fejében az iskolaszövetkezet, nyugdíjas szövetkezet a szolgáltatását igénybe vevő részére – a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyesen közreműködő tag által történő teljesítés útján – szolgáltatást nyújt vagy nyújtott;
+- l) személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tag: az iskolaszövetkezetnek, nyugdíjas szövetkezetnek a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyesen közreműködő tagja.
 
 (2a) A (2) bekezdés d) pontjában, valamint i)–k) pontjaiban foglaltak alkalmazása szempontjából csak el nem évült követelés vehető figyelembe.
 
@@ -144,46 +144,46 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 (3) Az állami foglalkoztatási szerv külföldi felszámoló által benyújtott támogatási igény esetén köteles meggyőződni arról, hogy a külföldi gazdálkodó szervezet valóban felszámolási eljárás alatt áll és arról, hogy a felszámolási eljárás lefolytatására a kérelmet benyújtó felszámoló jogosult.
 
-11. § (1) A kölcsönbeadó, illetve az iskolaszövetkezet a felszámoló általi nyilvántartásba vételről szóló értesítés kézhezvételétől számított 15 munkanapon belül kérelmet nyújthat be az állami foglalkoztatási szervhez visszatérítendő támogatás iránt, a felszámoló által elismertként nyilvántartásba vett kölcsönzési díjra vagy szolgáltatási díjra vonatkozó követelésével kapcsolatban, ha
+11. § (1) A kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet a felszámoló általi nyilvántartásba vételről szóló értesítés kézhezvételétől számított 15 munkanapon belül kérelmet nyújthat be az állami foglalkoztatási szervhez visszatérítendő támogatás iránt, a felszámoló által elismertként nyilvántartásba vett kölcsönzési díjra vagy szolgáltatási díjra vonatkozó követelésével kapcsolatban, ha
 
 - a) kölcsönzési díj vagy a szolgáltatási díj az esedékesség napján nem került megfizetésre és
 - b) a felszámolási eljárást a kölcsönzési díj vagy a szolgáltatási díj esedékességét követő tizenkettő hónapon belül elrendelték.
 
-(1a) A kölcsönbeadó vagy az iskolaszövetkezet a felszámoló által kiadott teljesítésigazolás kézhezvételétől számított 15 munkanapon belül kérelmet nyújthat be az állami foglalkoztatási szervhez visszatérítendő támogatás iránt, a felszámolás kezdő időpontját követően nyújtott szolgáltatása alapján járó kölcsönzési díjra, illetve szolgáltatási díjra vonatkozó követelésével kapcsolatban, ha a kölcsönzési díj, illetve a szolgáltatási díj az esedékesség napján nem került megfizetésre.
+(1a) A kölcsönbeadó vagy az iskolaszövetkezet, nyugdíjas szövetkezet a felszámoló által kiadott teljesítésigazolás kézhezvételétől számított 15 munkanapon belül kérelmet nyújthat be az állami foglalkoztatási szervhez visszatérítendő támogatás iránt, a felszámolás kezdő időpontját követően nyújtott szolgáltatása alapján járó kölcsönzési díjra, illetve szolgáltatási díjra vonatkozó követelésével kapcsolatban, ha a kölcsönzési díj, illetve a szolgáltatási díj az esedékesség napján nem került megfizetésre.
 
-(1b) A felszámoló az (1) bekezdésben meghatározott nyilvántartásba vétellel, illetve az (1a) bekezdés szerinti teljesítésigazolás kiadásával egyidejűleg köteles a kölcsönbeadónak, illetve az iskolaszövetkezetnek igazolást kiadni, amely kölcsönzött munkavállalónként, illetve átengedett tagonként tartalmazza az elmaradt kölcsönzési díjat, illetve szolgáltatási díjat. A nyilvántartásba vételről szóló értesítés, valamint az (1a) bekezdés szerinti teljesítésigazolás kézhezvételének időpontját a támogatás igénylése során a kölcsönbeadó, illetve az iskolaszövetkezet köteles igazolni. Az (1a) bekezdés szerinti teljesítésigazolás, valamint az e bekezdés szerinti igazolás másolatát mellékelni kell a támogatás iránti kérelemhez.
+(1b) A felszámoló az (1) bekezdésben meghatározott nyilvántartásba vétellel, illetve az (1a) bekezdés szerinti teljesítésigazolás kiadásával egyidejűleg köteles a kölcsönbeadónak, illetve az iskolaszövetkezetnek, nyugdíjas szövetkezetnek igazolást kiadni, amely kölcsönzött munkavállalónként, illetve átengedett tagonként tartalmazza az elmaradt kölcsönzési díjat, illetve szolgáltatási díjat. A nyilvántartásba vételről szóló értesítés, valamint az (1a) bekezdés szerinti teljesítésigazolás kézhezvételének időpontját a támogatás igénylése során a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet köteles igazolni. Az (1a) bekezdés szerinti teljesítésigazolás, valamint az e bekezdés szerinti igazolás másolatát mellékelni kell a támogatás iránti kérelemhez.
 
-(2) A kölcsönbeadó, illetve az iskolaszövetkezet az (1) és (1a) bekezdés szerinti kérelmet a magyarországi szokásos munkavégzési hellyel rendelkező azon munkavállalója tekintetében terjesztheti elő, akire nézve nem áll fenn a 2. § (2) bekezdés b) vagy c) pontja szerinti kizáró ok.
+(2) A kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet az (1) és (1a) bekezdés szerinti kérelmet a magyarországi szokásos munkavégzési hellyel rendelkező azon munkavállalója tekintetében terjesztheti elő, akire nézve nem áll fenn a 2. § (2) bekezdés b) vagy c) pontja szerinti kizáró ok.
 
-(3) A kölcsönbeadó és az iskolaszövetkezet a támogatási igény meghatározása során az (1) és az (1a) bekezdés szerinti kérelemben a kikölcsönzött munkavállaló részére járó munkabér, illetve személyesen közreműködő iskolaszövetkezeti tag részére járó díj összegét – egy felszámolási eljáráson belül jogosultanként legfeljebb a tárgyévet megelőző második évre vonatkozóan a Központi Statisztikai Hivatal által közzétett nemzetgazdasági havi bruttó átlagkereset (a továbbiakban: bruttó átlagkereset) ötszörösét – veheti figyelembe. Ha a kölcsönbeadó és az iskolaszövetkezet a támogatást ugyanazon jogosult tekintetében egy felszámolási eljáráson belül több részletben veszi igénybe, és a felszámolási eljárás egyes naptári éveiben a bruttó átlagkereset mértéke eltérő – a támogatás következő évben történő igénybevétele esetén – a jogosultság szempontjából a magasabb bruttó átlagkereset alapján számított támogatási mértéket kell figyelembe venni.
+(3) A kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet a támogatási igény meghatározása során az (1) és az (1a) bekezdés szerinti kérelemben a kikölcsönzött munkavállaló részére járó munkabér, illetve személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tag részére járó díj összegét – egy felszámolási eljáráson belül jogosultanként legfeljebb a tárgyévet megelőző második évre vonatkozóan a Központi Statisztikai Hivatal által közzétett nemzetgazdasági havi bruttó átlagkereset (a továbbiakban: bruttó átlagkereset) ötszörösét – veheti figyelembe. Ha a kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet a támogatást ugyanazon jogosult tekintetében egy felszámolási eljáráson belül több részletben veszi igénybe, és a felszámolási eljárás egyes naptári éveiben a bruttó átlagkereset mértéke eltérő – a támogatás következő évben történő igénybevétele esetén – a jogosultság szempontjából a magasabb bruttó átlagkereset alapján számított támogatási mértéket kell figyelembe venni.
 
-(4) A kölcsönbeadó és az iskolaszövetkezet a támogatást saját pénzeszközeitől elkülönítetten kezeli, és azt kizárólag a felszámolási eljárás alatt álló kölcsönvevőhöz kikölcsönzött munkavállaló részére járó munkabér, illetve a szolgáltatást igénybe vevőnél személyesen közreműködő iskolaszövetkezeti tag részére járó díj megfizetésére fordíthatja vagy a kifizetett munkabérre, illetve díjra számolhatja el. A kölcsönbeadó, illetve az iskolaszövetkezet – amennyiben ezt a kötelezettségét korábban nem teljesítette – a támogatás beérkezését követő három munkanapon belül gondoskodik
+(4) A kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet a támogatást saját pénzeszközeitől elkülönítetten kezeli, és azt kizárólag a felszámolási eljárás alatt álló kölcsönvevőhöz kikölcsönzött munkavállaló részére járó munkabér, illetve a szolgáltatást igénybe vevőnél személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tag részére járó díj megfizetésére fordíthatja vagy a kifizetett munkabérre, illetve díjra számolhatja el. A kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet – amennyiben ezt a kötelezettségét korábban nem teljesítette – a támogatás beérkezését követő három munkanapon belül gondoskodik
 
 - a) a kölcsönzött munkavállalót, illetve személyesen közreműködő iskolaszövetkezeti tagot terhelő közterhekkel csökkentett összegnek a munkavállaló, illetve személyesen közreműködő iskolaszövetkezeti tag részére történő kifizetéséről,
 - b) a kölcsönzött munkavállalót, illetve személyesen közreműködő iskolaszövetkezeti tagot terhelő közterheknek az illetékes szervek részére történő megfizetéséről,
 - c) a kikölcsönzött munkavállaló részére járó munkabért, illetve a szolgáltatást igénybe vevőnél személyesen közreműködő iskolaszövetkezeti tag részére járó díjat – határozat vagy jogszabály alapján – terhelő levonás teljesítéséről és a jogosult részére történő kifizetéséről.
 
-(5) Ha a támogatásnak a kölcsönbeadó, illetve az iskolaszövetkezet rendelkezésére bocsátásától számítva a következő bér-, illetve díjfizetési napig öt munkanapnál kevesebb van hátra, a kifizetés a következő bér-, illetve díjfizetési napon – ennek hiányában a következő naptári hónap tizedik napján – történik.
+(5) Ha a támogatásnak a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet rendelkezésére bocsátásától számítva a következő bér-, illetve díjfizetési napig öt munkanapnál kevesebb van hátra, a kifizetés a következő bér-, illetve díjfizetési napon – ennek hiányában a következő naptári hónap tizedik napján – történik.
 
-(6) A támogatás felhasználásáról a kölcsönbeadó és az iskolaszövetkezet a támogatás rendelkezésre bocsátásától számított 15 napon belül az állami foglalkoztatási szervnek beszámolót készít.
+(6) A támogatás felhasználásáról a kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet a támogatás rendelkezésre bocsátásától számított 15 napon belül az állami foglalkoztatási szervnek beszámolót készít.
 
 (7) E § alkalmazásában munkabér: a kölcsönbeadót terhelő azon munkabér – ideértve a betegszabadságra járó díjat is –, illetve egyéb bérjellegű juttatás, amely a kölcsönzött munkavállalót a kikölcsönzése időtartamára tekintettel megilleti, illetve megillette.
 
-12. § (1) A felszámoló tájékoztatja a kölcsönbeadót és az iskolaszövetkezetet arról, hogy a kölcsönzési díj, illetve a szolgáltatási díj elmaradása mely kölcsönzött munkavállalót, illetve személyesen közreműködő iskolaszövetkezeti tagot érinti.
+12. § (1) A felszámoló tájékoztatja a kölcsönbeadót és az iskolaszövetkezetet, nyugdíjas szövetkezetet arról, hogy a kölcsönzési díj, illetve a szolgáltatási díj elmaradása mely kölcsönzött munkavállalót, illetve személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tagot érinti.
 
-(2) A kölcsönbeadó és az iskolaszövetkezet az elmaradt kölcsönzési díjról, illetve szolgáltatási díjról és az érintett kölcsönzött munkavállalókról, illetve személyesen közreműködő iskolaszövetkezeti tagokról elkülönített nyilvántartást vezet.
+(2) A kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet az elmaradt kölcsönzési díjról, illetve szolgáltatási díjról és az érintett kölcsönzött munkavállalókról, illetve személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tagokról elkülönített nyilvántartást vezet.
 
-(3) Ha a kölcsönbeadó, illetve az iskolaszövetkezet részére a korábban meg nem fizetett kölcsönzési díj, illetve szolgáltatási díj vagy annak egy része a felszámolási eljárás alatt befolyt bevételekből megtérítésre kerül, a kölcsönbeadó, illetve az iskolaszövetkezet a támogatást, vagy annak a megtérüléssel érintett részét az állami foglalkoztatási szerv részére a megtérítést követő 8 napon belül köteles visszafizetni.
+(3) Ha a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet részére a korábban meg nem fizetett kölcsönzési díj, illetve szolgáltatási díj vagy annak egy része a felszámolási eljárás alatt befolyt bevételekből megtérítésre kerül, a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet a támogatást, vagy annak a megtérüléssel érintett részét az állami foglalkoztatási szerv részére a megtérítést követő 8 napon belül köteles visszafizetni.
 
-(4) Ha a bíróság a támogatás igénybevételének időtartama alatt a kölcsönbeadó, illetve az iskolaszövetkezet felszámolását rendeli el, a kölcsönbeadó, illetve az iskolaszövetkezet felszámolója nem igényelhet a 2. § (1) bekezdése szerinti támogatást azon kölcsönzött munkavállaló munkabérének, illetve személyesen közreműködő iskolaszövetkezeti tag díjának kifizetéséhez, akire vonatkozóan kölcsönzési díj, illetve szolgáltatási díj meg nem fizetése miatt a kölcsönbeadó, illetve az iskolaszövetkezet a 11. § (1)–(1a) bekezdéseiben meghatározott támogatást már igénybe vett.
+(4) Ha a bíróság a támogatás igénybevételének időtartama alatt a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet felszámolását rendeli el, a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet felszámolója nem igényelhet a 2. § (1) bekezdése szerinti támogatást azon kölcsönzött munkavállaló munkabérének, illetve személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tag díjának kifizetéséhez, akire vonatkozóan kölcsönzési díj, illetve szolgáltatási díj meg nem fizetése miatt a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet a 11. § (1)–(1a) bekezdéseiben meghatározott támogatást már igénybe vett.
 
 12/A. § Az e törvényben meghatározott jogok és kötelezettségek tekintetében a Bérgarancia biztost, valamint a kényszertörlési eljárás alatt álló gazdálkodó szervezet munkavállalóját ugyanazok a jogok illetik meg, illetve kötelezettségek terhelik, mint a felszámolót, illetőleg felszámolás alatt álló gazdálkodó szervezet munkavállalóját.
 
-13. § (1) Ha a kölcsönbeadó, illetve az iskolaszövetkezet 11. § szerinti kérelme az e törvényben foglaltaknak megfelel, az állami foglalkoztatási szerv a kölcsönbeadó és az iskolaszövetkezet részére a 11. §-ban meghatározott támogatást megállapítja és a döntés meghozatalától számított 5 napon belül intézkedik annak a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből a kölcsönbeadó és az iskolaszövetkezet pénzforgalmi számlájára történő átutalásáról.
+13. § (1) Ha a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet 11. § szerinti kérelme az e törvényben foglaltaknak megfelel, az állami foglalkoztatási szerv a kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet részére a 11. §-ban meghatározott támogatást megállapítja és a döntés meghozatalától számított 5 napon belül intézkedik annak a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből a kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet pénzforgalmi számlájára történő átutalásáról.
 
 (2) A 11. §-ban meghatározott támogatás nyújtására az 1. § (1) bekezdés b) és c) pontját, (4) és (5) bekezdését, a 2/A. § (3) bekezdését, a 4. §-t, az 5. § (1) bekezdését, valamint a 8. § (1) bekezdését alkalmazni kell.
 
-(3) A 11. § (1) és (1a) bekezdése szerinti kérelmet a kölcsönbeadónak, illetve az iskolaszövetkezetnek a 3. és 4. melléklet szerint kitöltött formanyomtatványon, elektronikus formában kell benyújtania. Az állami foglalkoztatási szerv a nyilatkozatokat elektronikus formában, zárt informatikai rendszerben tárolja.
+(3) A 11. § (1) és (1a) bekezdése szerinti kérelmet a kölcsönbeadónak, illetve az iskolaszövetkezetnek, nyugdíjas szövetkezetnek a 3. és 4. melléklet szerint kitöltött formanyomtatványon, elektronikus formában kell benyújtania. Az állami foglalkoztatási szerv a nyilatkozatokat elektronikus formában, zárt informatikai rendszerben tárolja.
 
 13/A. § (1) Az állami foglalkoztatási szerv az e törvény szerint nyújtandó támogatás kifizetése érdekében a következő adatokat kezeli és tartja nyilván:
 
@@ -191,8 +191,8 @@ az e törvény által meghatározott összeg előlegezhető meg.
 - b) a felszámoló adatai (név, székhely, telefonszám, KSH azonosító szám, adószám),
 - c) a felszámoló biztos adatai (név, cím, telefonszám, email cím),
 - d) külföldi felszámoló esetében – amennyiben rendelkezik ilyennel – a felszámoló képviseletében eljáró cég, illetve személy adatai (név, székhely/cím, telefonszám, KSH azonosító szám, adószám, email cím)
-- e) a munkavállaló, illetve a személyesen közreműködő iskolaszövetkezeti tag adatai [természetes személyazonosító adatok, állampolgárság, lakóhely (tartózkodási hely), társadalombiztosítási azonosító jel, adóazonosító jel, bankszámlaszám, számlatulajdonos neve, számlavezető hitelintézet, munkaviszony vagy feladatteljesítés kezdete, munkakör vagy feladat],
-- f) a kölcsönbeadó vagy az iskolaszövetkezet adatai (név, székhely, KSH azonosító szám, adószám, pénzforgalmi számlaszám, számlavezető hitelintézet, tevékenység megkezdésének időpontja, engedély száma, képviseletre jogosult neve, címe, telefonszáma, email címe),
+- e) a munkavállaló, illetve a személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tag adatai [természetes személyazonosító adatok, állampolgárság, lakóhely (tartózkodási hely), társadalombiztosítási azonosító jel, adóazonosító jel, bankszámlaszám, számlatulajdonos neve, számlavezető hitelintézet, munkaviszony vagy feladatteljesítés kezdete, munkakör vagy feladat],
+- f) a kölcsönbeadó vagy az iskolaszövetkezet, nyugdíjas szövetkezet adatai (név, székhely, KSH azonosító szám, adószám, pénzforgalmi számlaszám, számlavezető hitelintézet, tevékenység megkezdésének időpontja, engedély száma, képviseletre jogosult neve, címe, telefonszáma, email címe),
 - g) a kölcsönvevő vagy a szolgáltatást igénybevevő adatai (név, székhely, KSH azonosító szám, pénzforgalmi számlaszám, számlavezető hitelintézet, felszámolás kezdő időpontja).
 
 (2) Az adatbázisban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
@@ -226,7 +226,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 ,,(2) Ha a felszámolás alatt álló gazdálkodó szervezetnek a Bérgarancia Alap támogatást nyújtott, a visszafizetés akkor válik esedékessé, amikor a támogatás nyújtását követően a 48. § (1) bekezdése alapján a támogatás mértékének (vagy egy részének) megfelelő pénzösszeg befolyik. Amíg a támogatás teljes összegét nem fizették vissza, addig más célra — a bérkifizetésen kívül — a felszámoló kifizetést nem teljesíthet.''
 
-(3)
+(3) E törvénynek a Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosításáról szóló 2020. évi LXXIX. törvénnyel (a továbbiakban: 2020. évi LXXIX. törvény) megállapított rendelkezéseit a 2020. évi LXXIX. törvény hatálybalépésekor folyamatban lévő felszámolási eljárás alatt álló nyugdíjas szövetkezet szolgáltatását igénybevevő gazdálkodó szervezet, továbbá a vele szerződéses kapcsolatban álló nyugdíjas szövetkezet tekintetében is alkalmazni kell, ha a felszámolási eljárásban a Cstv. 52. §-a szerinti zárómérleg elkészítésére a 2020. évi LXXIX. törvény hatálybalépésekor még nem került sor.
 
 ### 1. számú melléklet az 1994. évi LXVI. törvényhez
 
@@ -434,9 +434,9 @@ Kelt: .............................. hely, ............. év................... 
 
 ### 3. melléklet az 1994. évi LXVI. törvényhez
 
-KÉRELEMa Bérgarancia Alapból a munkaerő-kölcsönzés díja/az iskolaszövetkezet részére járó szolgáltatási díj megfizetésének elmaradása miatt igényelhető támogatásról
+KÉRELEMa Bérgarancia Alapból a munkaerő-kölcsönzés díja/az iskolaszövetkezet, nyugdíjas szövetkezet részére járó szolgáltatási díj megfizetésének elmaradása miatt igényelhető támogatásról
 
-I. A kölcsönbeadó/az iskolaszövetkezet adatai:
+I. A kölcsönbeadó/az iskolaszövetkezet, nyugdíjas szövetkezet adatai:
 
 1. Neve:
 
@@ -492,11 +492,11 @@ Nyilatkozom, hogy a kérelemben és az elektronikusan rögzített adatok a való
 
 Kelt: .............................., ....... év ................... hó ..... nap
 
-....................................................................a kölcsönbeadó/az iskolaszövetkezet cégszerű aláírása
+....................................................................a kölcsönbeadó/az iskolaszövetkezet, nyugdíjas szövetkezet cégszerű aláírása
 
 Melléklet:
 
-1. Kölcsönbeadó/iskolaszövetkezet képviseletére jogosult aláírási címpéldánya.
+1. Kölcsönbeadó/iskolaszövetkezet, nyugdíjas szövetkezet képviseletére jogosult aláírási címpéldánya.
 
 2. A felszámoló 11. § (1a) bekezdése szerinti teljesítésigazolás másolata (amennyiben szükséges).
 
@@ -510,11 +510,11 @@ Melléklet:
 
 ### 4. melléklet az 1994. évi LXVI. törvényhez
 
-ADATLAPa Bérgarancia Alapból a munkaerő-kölcsönzés díja/az iskolaszövetkezet részére járó szolgáltatási díj megfizetésének elmaradása miatt igényelhető támogatás számításához
+ADATLAPa Bérgarancia Alapból a munkaerő-kölcsönzés díja/az iskolaszövetkezet, nyugdíjas szövetkezet részére járó szolgáltatási díj megfizetésének elmaradása miatt igényelhető támogatás számításához
 
-(A ........... év ........................ hó .........-i bérfizetési díjfizetési napon – a kölcsönbeadónál/az iskolaszövetkezetnél – fennálló adatok alapján)
+(A ........... év ........................ hó .........-i bérfizetési díjfizetési napon – a kölcsönbeadónál/az iskolaszövetkezetnél, nyugdíjas szövetkezetnél – fennálló adatok alapján)
 
-A) A munkavállalók/az iskolaszövetkezet tagjának adatai:
+A) A munkavállalók/az iskolaszövetkezet, nyugdíjas szövetkezet tagjának adatai:
 
 | Sor- szám | 1. Kölcsönzött munkavállaló/Tag neve | 2. Társadalombiztosítási azonosító jele | 3. A kölcsönzés/szolgáltatás nyújtás időszaka |
 | --- | --- | --- | --- |
@@ -535,4 +535,4 @@ C) Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelt támogat
 
 Kelt: .............................. hely, ....... év ................... hó .... nap
 
-.......................................................................(a kölcsönbeadó/az iskolaszövetkezet cégszerű aláírása)
+.......................................................................(a kölcsönbeadó/az iskolaszövetkezet, nyugdíjas szövetkezet cégszerű aláírása)
