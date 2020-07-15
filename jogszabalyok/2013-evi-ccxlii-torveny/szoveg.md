@@ -8,19 +8,21 @@ Az Országgyűlés a magyar állam, Budapest Főváros Önkormányzata és Budap
 
 (1a) A Városliget megújításához és fejlesztéséhez kapcsolódó beruházások megvalósítása érdekében
 
-- a) a Budapest XIII. kerület, 28056 helyrajzi számú ingatlan 21667/38899 hányada,
-- b)
-- c) a városligeti ingatlanon lévő Magyar Műszaki és Közlekedési Múzeum épülete (a Magyar Műszaki és Közlekedési Múzeum javára bejegyzett vagyonkezelői joghoz kapcsolódó ingatlanrész)
+- a) a Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosításáról szóló 2015. évi XIV. törvény hatálybalépésének napján, e törvény erejénél fogva, ingyenesen a vagyonkezelő vagyonkezelésébe kerül
+  - aa) a Budapest XIII. kerület, 28056 helyrajzi számú ingatlan 21667/38899 hányada, valamint
+  - ab) a városligeti ingatlanon lévő Magyar Műszaki és Közlekedési Múzeum épülete (a Magyar Műszaki és Közlekedési Múzeum javára bejegyzett vagyonkezelői joghoz kapcsolódó ingatlanrész)
 
-a Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosításáról szóló 2015. évi XIV. törvény hatálybalépésének napján, e törvény erejénél fogva, ingyenesen a vagyonkezelő vagyonkezelésébe kerülnek az (1) bekezdésben meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig, a bejegyzett vagyonkezelők vagyonkezelői jogának egyidejű megszűnésével.
+az (1) bekezdésben meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig, a bejegyzett vagyonkezelők vagyonkezelői jogának egyidejű megszűnésével, és
 
-(1b) A Városliget megújításához és fejlesztéséhez kapcsolódó beruházások megvalósítása és a vagyonkezelői feladatok hatékony ellátása érdekében a Budapest XIV. kerület, 29766/4 helyrajzi számú ingatlan az egyes kulturális tárgyú törvények módosításáról szóló 2018. évi CVI. törvény hatálybalépésének napján, e törvény erejénél fogva, ingyenesen a vagyonkezelő vagyonkezelésébe kerül az (1) bekezdésben meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig, a bejegyzett vagyonkezelő vagyonkezelői jogának egyidejű megszűnésével. A Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását, valamint a Magyar Állami Operaház Andrássy úti épülete és a kapcsolódó létesítmények felújítását és korszerűsítését célzó beruházások (a továbbiakban együtt: Opera beruházások) megvalósítása érdekében
+- b) a Budapest XIV. kerület, 29766/4 helyrajzi számú ingatlan az egyes kulturális tárgyú törvények módosításáról szóló 2018. évi CVI. törvény hatálybalépésének napján, e törvény erejénél fogva ingyenesen a vagyonkezelő vagyonkezelésébe kerül az (1) bekezdésben meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig, a bejegyzett vagyonkezelő vagyonkezelői jogának egyidejű megszűnésével.
+
+(1b) A Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását, valamint a Magyar Állami Operaház Andrássy úti épülete és a kapcsolódó létesítmények felújítását és korszerűsítését célzó beruházások (a továbbiakban együtt: Opera beruházások) megvalósítása érdekében
 
 - a) a Budapest X. kerület, 38920/6, 38920/7 és 38920/8 helyrajzi számú, természetben a Kőbányai út 30. szám alatti ingatlanok,
-- b) a Budapest VI. kerület 29209 helyrajzi számú, természetben az Andrássy út 22. szám alatti ingatlanon elhelyezkedő épület és
+- b) a Budapest VI. kerület 29209 helyrajzi számú, természetben az Andrássy út 22. szám alatti ingatlanon elhelyezkedő épület, és
 - c) a Budapest VI. kerület 29082 helyrajzi számú, természetben a Hajós utca 11. szám alatti ingatlanon elhelyezkedő épület
 
-e törvény erejénél fogva, mint közfeladat ellátásához szükséges ingatlan ingyenesen az Opera Vagyonkezelő Korlátolt Felelősségű Társaság (a továbbiakban: projekttársaság) vagyonkezelésébe kerül a Magyar Állami Operaház vagyonkezelői jogának egyidejű megszűnésével.
+e törvény erejénél fogva mint közfeladat ellátásához szükséges ingatlan ingyenesen az Opera Vagyonkezelő Korlátolt Felelősségű Társaság (a továbbiakban: projekttársaság) vagyonkezelésébe kerül a Magyar Állami Operaház vagyonkezelői jogának egyidejű megszűnésével.
 
 (1c) A vagyonkezelői jog az (1b) bekezdés a) pontja szerinti ingatlanok teljes területére, a b) és c) pontja szerinti ingatlanok esetében az épületre és annak alkotórészeire, valamint az épület rendeltetésszerű használatához szükséges, beruházással érintett tartozékaira terjed ki.
 
@@ -28,7 +30,7 @@ e törvény erejénél fogva, mint közfeladat ellátásához szükséges ingatl
 
 (2) A vagyonkezelő vagyonkezelői joga tekintetében a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 11. § (8) bekezdés c) és e) pontja, valamint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 109. § (6) bekezdése nem alkalmazandó.
 
-(3)
+(3) A vagyonkezelőben az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek összességét az állami vagyon felügyeletéért felelős miniszter gyakorolja.
 
 (4) A vagyonkezelő felügyelőbizottsága három, legfeljebb hat természetes személy tagból áll.
 
@@ -41,6 +43,14 @@ e törvény erejénél fogva, mint közfeladat ellátásához szükséges ingatl
 (3a) Az ingatlanügyi hatóság a projekttársaság 1. § (1b) bekezdés szerinti vagyonkezelői jogát a projekttársaság kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlanügyi hatóság eljárása díjmentes, arra a Ptk. 5:167. §-át nem kell alkalmazni.
 
 (4) A vagyonkezelő az állami vagyonról szóló 2007. évi CVI. törvény 27. § (7) bekezdése szerinti visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül.
+
+2/A. § (1) A vagyonkezelő a vagyonkezelésében lévő ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez, amelyekkel összefüggésben e törvény erejénél fogva, saját selejtezési szabályzata alapján jogosult a bontással járó kivitelezési munkák és ahhoz kapcsolódó feladatok elvégzése érdekében a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, hulladékgyűjtő helyen történő elhelyezésére.
+
+(2) A vagyonkezelő által teljesített beruházás, felújítás megvalósításával, új eszköz létrehozásával vagy beszerzésével összefüggésben az ingatlan tulajdonosának, illetve az állam nevében tulajdonosi jogokat gyakorló szervezetnek és a vagyonkezelőnek egymással szemben megtérítési kötelezettsége nem keletkezik. A nemzeti vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek a vagyonkezelő – külön elszámolás nélkül – a tulajdonos, illetve a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásba történő, jogszabályban foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
+
+(3) Nem keletkezik megtérítési kötelezettség a (2) bekezdésben meghatározottakon kívül abban az esetben sem, ha a beruházást, felújítást a vagyonkezelő a vagyonkezelésében nem álló, de közfeladatot ellátó szervezet tulajdonában álló ingatlanon végzi. Ebben az esetben a vagyonkezelő a beruházás, felújítás műszaki átadás-átvételét követően, a munkaterületnek a kivitelező által történő visszaadását követő napon a beruházás során létrejött vagyonelemeket az általa nyilvántartott könyv szerinti értéken, befejezetlen beruházásként átadja a beruházással érintett ingatlan tulajdonosának.
+
+(4) A vagyonkezelő a vagyonkezelésében lévő bármely vagyonelem harmadik személy részére történő hasznosítása során jogosult díjfizetési kötelezettséget előírni. A hasznosítási tevékenységből származó bevétel teljes mértékben a vagyonkezelőt illeti meg azzal, hogy köteles a hasznosításból származó bevételt a vagyonkezelésében lévő vagyonelemek fenntartására fordítani.
 
 3. § (1) A vagyonkezelő vagyonkezelői joga fennállásának időtartama alatt a vagyonkezelő által a városligeti ingatlanon felépített építmény önálló ingatlanként, e törvény erejénél fogva az állam 100%-os tulajdonába kerül.
 
@@ -73,7 +83,7 @@ tekintetében a feladatait az állam nevében és javára eljárva látja el. A 
 
 (5) Az építési tevékenység megvalósítása céljából az építtető által kezdeményezett hatósági eljárásokban a jogszabályban előírt ingatlantulajdonosi hozzájárulás az építtetőn kívüli jogalanytól történő beszerzése nem szükséges.
 
-(6) A (3) bekezdésben megjelölt befejezett beruházások – a számvitelről szóló törvény szerinti – megvalósuláskor a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság nyilvántartásába kerülnek felvételre a vagyonkezelő adatközlése alapján.
+(6) A (3) bekezdés szerinti beruházást – a számvitelről szóló törvény szerinti – megvalósuláskor a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság nyilvántartásába térítésmentesen kell felvenni – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a vagyonkezelő adatközlése alapján.
 
 (6a) A (3) bekezdésben megjelölt beruházások befejezését követően létrejövő új építmények e törvény erejénél fogva mint közfeladat ellátásához szükséges ingatlanok ingyenesen a vagyonkezelő vagyonkezelésébe kerülnek az 1. § (1) bekezdésében meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig. Az ingatlanügyi hatóság a vagyonkezelő vagyonkezelői jogát a vagyonkezelő kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba a beruházás – számvitelről szóló törvény szerinti – megvalósulását követően. Az ingatlanügyi hatóság eljárása díjmentes.
 

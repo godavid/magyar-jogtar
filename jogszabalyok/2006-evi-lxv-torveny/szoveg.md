@@ -79,7 +79,7 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 7. § E törvénynek a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított 1. § (6) bekezdését, 2. § (2), (5)–(6) bekezdését, 2/A. §-át, 4. § (4) bekezdését az 1. módosító törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-8. § E törvény alkalmazásában állami alapító alatt a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 62.§ (3) bekezdésében meghatározott alapítót kell érteni.
+8. § E törvény alkalmazásában állami alapító alatt a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 62. § (3) bekezdésében meghatározott alapítót kell érteni. E törvény állami alapítóra vonatkozó rendelkezései nem alkalmazhatók, ha a Kormány az 1. § (1a) bekezdésében foglaltak szerint hoz létre alapítványt vagy külön törvény rendelkezése alapján csatlakozik az alapítványhoz, ideértve a vagyonkezelő alapítvány alapítását és ahhoz való csatlakozást is.
 
 8/A. § (1) A köztestület önkormányzattal és nyilvántartott tagsággal rendelkező szervezet, amelynek létrehozását törvény rendeli el. A köztestület a tagságához, illetve a tagsága által végzett tevékenységhez kapcsolódó közfeladatot lát el. A köztestület jogi személy.
 

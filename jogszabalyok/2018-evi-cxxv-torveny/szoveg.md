@@ -4040,6 +4040,8 @@ nevezhető ki.
 
 (1) A miniszteri biztos kinevezését megelőzően a javasolt személyről a miniszter tájékoztatja a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárát, aki a javaslattal szemben, a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki miniszteri biztossá. A kifogás tényéről és a kifogásolt személyről a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára a miniszterelnököt a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján tájékoztatja.
 
+(1a) Miniszteri biztossá államtitkár, közigazgatási államtitkár és helyettes államtitkár nem nevezhető ki.
+
 (2) A miniszteri biztos megbízatása meghatározott időre, de legfeljebb két évre szól. A miniszteri biztos e megbízatása visszavonással vagy az őt kinevező miniszter hatáskörgyakorlása megszűnésével is megszűnik.
 
 #### 222. § [A biztosi jogviszonyban álló személyekre vonatkozó közös szabályok]
@@ -4048,7 +4050,7 @@ nevezhető ki.
 
 (2) Ha a biztosi jogviszonyban álló személy kinevezésére vonatkozó normatív határozatban vagy normatív utasításban a megbízatás keletkezésének vagy megszűnésének időpontja naptári napként van meghatározva, a biztosi jogviszonyban álló személy a megjelölt naptári nap kezdetén lép hivatalba, illetve megbízatása a megjelölt naptári nap végén szűnik meg.
 
-(3) Más tisztség, megbízatás, egyéb munkavégzéssel együtt járó tevékenység végzése, illetve jogviszony létrehozása szempontjából a biztosi jogviszony nem minősül munkavégzésre, illetve foglalkoztatásra irányuló jogviszonynak, továbbá nem keletkeztet összeférhetetlenséget.
+(3) Más tisztség, megbízatás, egyéb munkavégzéssel együtt járó tevékenység végzése, illetve jogviszony létrehozása szempontjából a biztosi jogviszony nem minősül munkavégzésre, illetve foglalkoztatásra irányuló jogviszonynak, továbbá – a 221. § (1a) bekezdésben meghatározott kivétellel – nem keletkeztet összeférhetetlenséget.
 
 ## HETEDIK RÉSZ — A KORMÁNYZATI SZOLGÁLATI JOGVISZONYBAN ÁLLÓ VEZETŐK
 
@@ -4068,7 +4070,7 @@ A közigazgatási államtitkár és a helyettes államtitkár kormányzati szolg
 
 #### 225. § [A közigazgatási államtitkár és a helyettes államtitkár összeférhetetlenségére vonatkozó közös szabályok]
 
-(1) A közigazgatási államtitkár és a helyettes államtitkár érdekképviseleti szervezetben tisztséget, szövetkezetben vezető tisztséget nem viselhet, nem lehet továbbá alapítvány kezelőszervezetének tagja.
+(1) A közigazgatási államtitkár és a helyettes államtitkár érdekképviseleti szervezetben tisztséget, szövetkezetben vezető tisztséget nem viselhet.
 
 (2) Nem keletkeztet összeférhetetlenséget, ha a közigazgatási államtitkár, illetve a helyettes államtitkár a Magyar Nemzeti Bank felügyelőbizottságának tagja, a Nemzeti Vagyongazdálkodási Tanács tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke vagy tagja.
 
@@ -4902,7 +4904,9 @@ figyelembe kell venni.
 
 (2) E törvénynek a Módtv.-el módosított 168. §-át a Módtv. hatálybelépését követő igényérvényesítések esetén kell alkalmazni.
 
-#### 298. §
+#### 298. § [Átmeneti rendelkezések a miniszteri biztosi kinevezésre vonatkozó szabályok 2020. évi módosulásához]
+
+E törvénynek a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvénnyel (a továbbiakban: Módtv2.) megállapított 221. § (1a) bekezdését és 222. § (3) bekezdését a Módtv2. hatálybalépését követő kinevezések esetén kell alkalmazni.
 
 #### 299. §
 

@@ -3262,6 +3262,7 @@ rendeletben állapítsa meg.
   - b) a támogatás időtartamának és a támogatás alá eső villamos energia mennyiségének kiszámítási módszereit,
   - c) a támogatás időtartamát és a támogatás alá eső villamos energia mennyiségét az azok kiszámítására vonatkozó módszer alapján egyes technológiákkal megépülő, használt berendezést nem tartalmazó termelőegységek esetében, valamint
   - d) az igénylés részletes szabályait,
+  - e) – a Kormány által kihirdetett veszélyhelyzettel összefüggésben – a villamosenergia-termelés, a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidő meghosszabbított időszakát és a meghosszabbítás feltételeit,
 - 7. a biomassza vagy biogáz felhasználásával történő villamosenergia-termelés fenntartásának ösztönzésére szolgáló prémium típusú támogatás igénylésének részletes szabályait, továbbá mértékének kiszámítási módszereit és biogáz felhasználásával történő villamosenergia-termelésre vonatkozóan annak eredményeit,
 - 8. a demonstrációs projektté minősítés követelményeit és eljárásrendjét.
 - 9. az elosztó által külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait, valamint a külön díjak mértékét.
@@ -3308,7 +3309,7 @@ rendeletben állapítsa meg.
 
 #### 171/A. §
 
-#### 172. §
+172. § A Hivatal a kötelező átvételi jogosultságok, valamint a pályázati eljárás alá nem tartozó, új létesítésű termelőegységekhez kapcsolódó prémium típusú támogatások esetében a villamosenergia-termelés, a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidőit – a Kormány által kihirdetett veszélyhelyzettel összefüggésben – rendeletével meghosszabbíthatja.
 
 #### 173. §
 

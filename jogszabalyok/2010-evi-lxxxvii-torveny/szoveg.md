@@ -26,7 +26,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (2e) E törvény alkalmazásában tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott tanya.
 
-(2f) Nem képezi a Nemzeti Földalap részét a vasúti pályahálózat működtetéséhez szükséges földrészlet, függetlenül attól, hogy az ingatlan-nyilvántartásban milyen művelési ággal, vagy kivett megnevezéssel van nyilvántartva.
+(2f) Nem képezi a Nemzeti Földalap részét az országos és helyi közúthálózat és a vasúti pályahálózat működtetéséhez használt ingatlan, függetlenül attól, hogy az ingatlan-nyilvántartásban milyen művelési ággal vagy kivett megnevezéssel van nyilvántartva.
 
 (3) A Nemzeti Földalap rendeltetése:
 

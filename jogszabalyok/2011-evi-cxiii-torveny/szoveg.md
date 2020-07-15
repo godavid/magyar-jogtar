@@ -71,7 +71,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - e) aki a vele közös háztartásban élő kiskorú gyermekét egyedül tartja el,
 - f) akit országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőjelöltként, polgármesterjelöltként, alpolgármesterként, főpolgármester-jelöltként, főpolgármester-helyettesként, társadalmi megbízatású polgármesterjelöltként és alpolgármesterként, megyei közgyűlés elnökjelöltjeként, megyei közgyűlés alelnökeként, nemzetiségi önkormányzati képviselőjelöltként nyilvántartásba vettek vagy megválasztottak, a jelöltsége vagy mandátuma, megbízatása fennállásáig,
 - g) aki meghagyásban részesült,
-- h) aki honvédelmi szervezet, az Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek hivatásos, szerződéses vagy önkéntes tartalékos állományú tagja, vagy aki a honvédelemért felelős miniszter által vezetett minisztérium kormánytisztviselője,
+- h) aki honvédelmi szervezet, az Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek hivatásos, szerződéses vagy önkéntes tartalékos állományú tagja, vagy aki a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban áll,
 - i) akinek közös háztartásban élő házastársa, élettársa katonai szolgálatot teljesít,
 - j) aki a korábban hatályos szabályok szerint a polgári szolgálat időtartamát már teljesítette,
 - k) aki az 50. életévét betöltötte, annak az évnek december 31-ét követően, amelyben ezt az életkort betölti, kivéve az l) pont hatálya alá tartozó hadköteles személyt,
@@ -188,7 +188,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - f) a szakirányú felsőfokú végzettséggel rendelkező, hivatását gyakorló pap, lelkész, rabbi,
 - g) a 65. életévét betöltött férfi és az 55. életévét betöltött nő.
 
-(3) A honvédelmi munkakötelezettség nem terjed ki a Honvédség tényleges állományú tagjaira, honvédelmi szervezet honvédelmi alkalmazottjaira, közalkalmazottjaira, munkavállalóira, a honvédelemért felelős miniszter által vezetett minisztérium kormánytisztviselőire, a honvédelemért felelős miniszter fenntartói irányítása alatt álló köznevelési intézmény közalkalmazottjaira, a rendvédelmi szervek hivatásos állományú tagjaira és munkavállalóira, rendvédelmi igazgatási alkalmazottaira, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjaira, valamint az Országgyűlési Őrség hivatásos állományú tagjaira, köztisztviselőire és munkavállalóira.
+(3) A honvédelmi munkakötelezettség nem terjed ki a Honvédség tényleges állományú tagjaira, honvédelmi szervezet honvédelmi alkalmazottjaira, közalkalmazottjaira, munkavállalóira, a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban állókra, a honvédelemért felelős miniszter fenntartói irányítása alatt álló köznevelési intézmény közalkalmazottjaira, a rendvédelmi szervek hivatásos állományú tagjaira és munkavállalóira, rendvédelmi igazgatási alkalmazottaira, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjaira, valamint az Országgyűlési Őrség hivatásos állományú tagjaira, köztisztviselőire és munkavállalóira.
 
 #### 10. A gazdasági és anyagi szolgáltatási kötelezettség
 
@@ -1024,11 +1024,11 @@ lehetnek.
 
 (6)
 
-(7) A fegyveres erők jogállására vonatkozó nemzetközi szerződések alkalmazása tekintetében a Honvédség polgári állományának minősül a honvédelmi szervezetnél jogviszonyban álló kormánytisztviselő, honvédelmi alkalmazott, közalkalmazott vagy a munka törvénykönyvének hatálya alá tartozó munkavállaló.
+(7) A fegyveres erők jogállására vonatkozó nemzetközi szerződések alkalmazása tekintetében a Honvédség polgári állományának minősül a honvédelmi szervezetnél kormányzati szolgálati, politikai szolgálati, biztosi, honvédelmi alkalmazotti, közalkalmazotti jogviszonyban vagy munkaviszonyban álló személy.
 
 (8) A Honvédség személyi állományára vonatkozó – a Honvédség védelmi képességének, hadrafoghatóságának biztosításával összefüggő – adatok a keletkezésüktől számított 30 évig honvédelmi és nemzetbiztonsági érdekből nem nyilvánosak. Ezen adatok megismerését a honvédelmi és a nemzetbiztonsági érdek mérlegelésével a Magyar Honvédség parancsnoka engedélyezheti.
 
-40/A. § A közszolgálat halottjává minősített kormánytisztviselővel, kormányzati ügykezelővel vagy a honvédelmi szervezet saját halottjává minősített honvédelmi alkalmazottal, közalkalmazottal szemben a volt munkáltató által nyilvántartott követelést az elhunyt örököse kérelmére a honvédelemért felelős miniszter részben vagy egészben elengedheti. A kérelemben foglaltak mérlegelése során a miniszter az elhunyt életútjának, illetve a kérelmező szociális helyzetének figyelembevételével dönt. A kérelmet a miniszterhez történő felterjesztés céljából az elhunyt volt munkáltatójánál kell előterjeszteni.
+40/A. § A közszolgálat halottjává minősített kormánytisztviselővel vagy a honvédelmi szervezet saját halottjává minősített honvédelmi alkalmazottal, közalkalmazottal szemben a volt munkáltató által nyilvántartott követelést az elhunyt örököse kérelmére a honvédelemért felelős miniszter részben vagy egészben elengedheti. A kérelemben foglaltak mérlegelése során a miniszter az elhunyt életútjának, illetve a kérelmező szociális helyzetének figyelembevételével dönt. A kérelmet a miniszterhez történő felterjesztés céljából az elhunyt volt munkáltatójánál kell előterjeszteni.
 
 40/B. §
 
@@ -1139,7 +1139,7 @@ illeti meg.
 
 #### 29. A Honvédség irányítása és felső szintű vezetése
 
-45. § (1) A honvédelemért felelős miniszter a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdése szerint irányítja a Honvédséget. A honvédelemért felelős miniszter egyes irányítási hatásköreinek a gyakorlására kormányrendelet a honvédelemért felelős miniszter által vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelölheti ki.
+45. § (1) A honvédelemért felelős miniszter a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdése szerint irányítja a Honvédséget. A honvédelemért felelős miniszter egyes irányítási hatásköreinek a gyakorlására kormányrendelet a honvédelemért felelős miniszter által vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, (5) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelölheti ki.
 
 (1a) A honvédelemért felelős miniszter egyes katonai szervezetek vagy azok speciális feladatokat ellátó szervezeti egységei esetében, a katonai szervezetek alapító okiratában meghatározottak szerint
 
@@ -1149,7 +1149,7 @@ illeti meg.
 - d) egyedi utasítás kiadására feladat elvégzésére vagy mulasztás pótlására, és
 - e) jelentéstételre vagy beszámolóra való kötelezésre
 
-az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelöli ki.
+az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, (5) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelöli ki.
 
 (2) A honvédelemért felelős miniszter a Honvédség törvényes működése érdekében gondoskodik a jogszabálysértések megszüntetéséről. E körben
 
@@ -1948,7 +1948,7 @@ rendelheti el.
 - c) a katonai futárszolgálat feladatait,
 - d) a katonai rendészeti tevékenységet, az intézkedések végrehajtásának eljárási szabályait, módját, a kényszerítő eszközök alkalmazásának szabályait, a kényszerítő eszközök alkalmazása kivizsgálásának eljárási szabályait,
 - e) honvédelmi szervezetek jogi képviseletének és jogi képviselete felügyeletének rendjét,
-- f) a honvédségi munkavállalók munkabérének folyósítását, jutalmazását, a honvédelemért felelős miniszter által vezetett minisztériumi kormánytisztviselőknek, kormányzati ügykezelőknek, a honvédségi munkavállalóknak és közeli hozzátartozóiknak nyújtható juttatások, költségtérítések rendszerét és feltételeit, továbbá a nyújtott üdültetés, pihentetés, szociális és a kegyeleti gondoskodás, az étkezési, valamint a lakhatási támogatások és költségtérítések körét, a jogosultság feltételeit és rendjét, továbbá az ideiglenes külföldi kiküldetést teljesítő és a külföldi képzésben részt vevő honvédségi munkavállalók, a honvédelemért felelős miniszter által vezetett minisztériumi kormánytisztviselők és kormányzati ügykezelők részére nyújtható juttatások, költségtérítések megállapításának, kifizetésének és elszámolásának rendjét,
+- f) a honvédségi munkavállalók munkabérének folyósítását, jutalmazását, a honvédelemért felelős miniszter által vezetett minisztériumi kormánytisztviselőknek, a honvédségi munkavállalóknak és közeli hozzátartozóiknak nyújtható juttatások, költségtérítések rendszerét és feltételeit, továbbá a nyújtott üdültetés, pihentetés, szociális és a kegyeleti gondoskodás, az étkezési, valamint a lakhatási támogatások és költségtérítések körét, a jogosultság feltételeit és rendjét, továbbá az ideiglenes külföldi kiküldetést teljesítő és a külföldi képzésben részt vevő honvédségi munkavállalók, a honvédelemért felelős miniszter által vezetett minisztériumi kormánytisztviselők részére nyújtható juttatások, költségtérítések megállapításának, kifizetésének és elszámolásának rendjét,
 - g) a NATO-NYEU központi nyilvántartó, a NATO-NYEU központi rejtjel elosztó hatóság működési rendjét, valamint a nyilvántartó rendszer működéséhez szükséges általános követelményeket és eljárásokat,
 - h) a meg nem térülő károk leírással vagy törléssel történő rendezésének és nyilvántartásának sajátos szabályait, a kártérítési eljárás munkáltatói jogkört gyakorló általi megszüntetésére, a kár leírására és a törlésére vonatkozó munkáltatói jogkörök vezetési szintektől és a kár összegétől függő differenciált módon történő megállapítására vonatkozó szabályokat,
 - i) az egészségügyért felelős miniszterrel egyetértésben a Honvédség munkakörei, beosztásai betöltésével összefüggésben az alkalmassági vizsgálatra, annak elrendelésére, véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,

@@ -10,8 +10,8 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 - 1. állami magasépítési beruházás: a kormányzati magasépítési beruházás, valamint a központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházás;
 - 2. kormányzati magasépítési beruházás: állami vagyoni körbe tartozó ingatlanon, a Kormány irányítása alá tartozó központi költségvetési fejezetek költségvetési forrásaiból megvalósuló magasépítési beruházás;
-- 3. központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházás: helyi önkormányzati vagyoni körbe tartozó ingatlanon, támogatási jogviszony útján biztosított központi költségvetési forrás felhasználásával, a helyi önkormányzat által megvalósításra kerülő magasépítési beruházás;
-- 4. magasépítési beruházás: minden olyan építési beruházás, amely olyan építmény létrehozására, felújítására, bővítésére vagy átalakítására irányul, amelynek a meghatározott rendeltetésétől függően a csatlakozó rendezett terepszint felett egy vagy több építményszintje létesül, és magában foglalja azon sajátos építményfajták körébe tartozó építmények létrehozását, felújítását vagy átalakítását is, amelyek a csatlakozó rendezett terepszint alatt az építmény rendeltetésszerű, biztonságos használatához elengedhetetlenek;
+- 3. központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházás: a helyi önkormányzati vagyoni körbe tartozó ingatlanon, támogatási jogviszony útján biztosított központi költségvetési forrás felhasználásával megvalósuló, helyi önkormányzati vagyont keletkeztető magasépítési beruházás;
+- 4. magasépítési beruházás: minden olyan építési tevékenység keretében végzett építési beruházás, amely olyan építmény létrehozására, felújítására, bővítésére vagy átalakítására irányul, amelynek a meghatározott rendeltetésétől függően a csatlakozó rendezett terepszinthez képest egy vagy több építményszintje létezik, vagy létesül, és magában foglalja azon sajátos építményfajták körébe tartozó építmények létrehozását, felújítását, bővítését, vagy átalakítását is, amelyek a csatlakozó rendezett terepszinten vagy terepszint alatt az építmény rendeltetésszerű, biztonságos használatához elengedhetetlenek;
 - 5. magasépítési beruházás előkészítése: a magasépítési beruházáshoz szükséges tanulmányok, szakvélemények, tervek, dokumentáció elkészítése, engedélyeztetés lefolytatása, a beruházással érintett ingatlanok jogi helyzetének rendezése;
 - 6. magasépítési beruházás megvalósítása: a magasépítési beruházás előkészítési szakaszát követő építési tevékenység és az annak megvalósításához szükséges valamennyi járulékos feladat ellátása.
 
@@ -33,9 +33,12 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 (6) A Beruházási Ügynökség által megvalósított állami magasépítési beruházás közérdekű célú fejlesztésnek minősül.
 
-(7) A Beruházási Ügynökség a megvalósítója azoknak a központi költségvetési forrásból finanszírozott magasépítési beruházásoknak is, amelyek során a magasépítési beruházáshoz szükséges ingatlan megállapodás alapján az állam részére biztosított.
+(7) A Beruházási Ügynökség a megvalósítója azoknak a központi költségvetési forrásból finanszírozott magasépítési beruházásoknak is, amelyek
 
-(8) Az (7) bekezdés szerinti magasépítési beruházásokra a kormányzati magasépítési beruházásokra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a (7) bekezdés szerinti magasépítési beruházás keretében létrejött vagyonelemek – eltérő megállapodás hiányában – az ingatlan tulajdonosát illetik meg térítésmentesen. A magasépítési beruházás műszaki átadás-átvételének a lebonyolítását követően, a munkaterület kivitelező által a Beruházási Ügynökség részére történő visszaadását követő napon a beruházás során létrejött vagyonelemeket a Beruházási Ügynökség az általa nyilvántartott könyv szerinti értéken, befejezetlen beruházásként átadja a beruházással érintett ingatlan tulajdonosának.
+- a) során a magasépítési beruházáshoz szükséges ingatlan megállapodás alapján az állam részére biztosított,
+- b) az állam legalább többségi tulajdonában álló gazdasági társaság tulajdonában álló ingatlanon valósulnak meg, ide nem értve a külön törvényekben meghatározott építtetői tevékenység keretében létrejövő beruházásokat.
+
+(8) A (7) bekezdés szerinti magasépítési beruházásokra a kormányzati magasépítési beruházásokra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a (7) bekezdés szerinti magasépítési beruházás keretében létrejött ingó és ingatlan vagyonelemek – a Kormány egyedi döntésén alapuló eltérő megállapodás hiányában – e törvény erejénél fogva az ingatlan tulajdonosát illetik meg térítésmentesen. A magasépítési beruházás műszaki átadás-átvételének a lebonyolítását követően, a munkaterület kivitelező által a Beruházási Ügynökség részére történő visszaadását követő napon a beruházás során létrejött ingó és ingatlan vagyonelemeket a Beruházási Ügynökség az általa nyilvántartott könyv szerinti értéken, befejezetlen beruházásként átadja a beruházással érintett ingatlan tulajdonosának.
 
 ### III. Fejezet — A KORMÁNYZATI MAGASÉPÍTÉSI BERUHÁZÁSOK
 
@@ -79,13 +82,13 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 (5) A (4) bekezdés szerinti személyi változást a Beruházási Ügynökség bejelenti a hatósági engedélyt kiadó hatóság részére.
 
-7. § A Beruházási Ügynökség a kormányzati magasépítési beruházás megvalósításához szükséges ingatlant az állam nevében eljárva, az állam javára polgári jogi úton megszerezheti. Ennek sikertelensége esetén a kisajátításról szóló törvényben foglalt közérdekű cél fennállása esetén a Beruházási Ügynökség az állam nevében az ingatlan kisajátítását kezdeményezi az állam javára.
+7. § A Beruházási Ügynökség a kormányzati magasépítési beruházás megvalósításához szükséges ingatlan és ingó vagyonelemeket az állam nevében eljárva, az állam javára polgári jogi úton megszerezheti. Ennek sikertelensége esetén a kisajátításról szóló törvényben foglalt közérdekű cél fennállása esetén a Beruházási Ügynökség az állam nevében az ingatlan kisajátítását kezdeményezi az állam javára.
 
 #### 2. A Beruházási Ügynökség tulajdonosi joggyakorlása
 
 8. § (1) Az állam tulajdonába és a Beruházási Ügynökség tulajdonosi joggyakorlása alá kerülnek e törvény erejénél fogva a kormányzati magasépítési beruházásokhoz szükséges, a Beruházási Ügynökség által a 7. § alapján megszerzett ingatlanok, azok tartozékaival és alkotórészeivel együtt.
 
-(2) A Beruházási Ügynökség tulajdonosi joggyakorlásába kell adni a kormányzati magasépítési beruházások megvalósításához szükséges – a Kormány határozatában megjelölt – állami tulajdonú ingatlanokat. Az állami ingatlanok tulajdonosi joggyakorlója – a Beruházási Ügynökség megkeresése alapján – 30 napon belül intézkedik az ingatlanok tulajdonosi joggyakorlásának átadására vonatkozó megállapodás megkötéséről. Az ingatlanok tulajdonosi joggyakorlását ingyenesen, könyv szerinti értéken kell a Beruházási Ügynökség részére átadni. A tulajdonosi joggyakorlás megállapodással történő átadásával az átvett vagyonnal kapcsolatos jogviszonyokba jogutódként a Beruházási Ügynökség lép.
+(2) A Beruházási Ügynökség tulajdonosi joggyakorlásába kell adni a kormányzati magasépítési beruházások megvalósításához szükséges – a Beruházási Ügynökség által az ingatlanok tulajdonosi joggyakorlója részére benyújtott kérelemben megjelölt – állami tulajdonú ingatlanokat. Az állami ingatlanok tulajdonosi joggyakorlója – a Beruházási Ügynökség megkeresése alapján – 30 napon belül intézkedik az ingatlanok tulajdonosi joggyakorlásának átadására vonatkozó megállapodás megkötéséről. Az ingatlanok tulajdonosi joggyakorlását ingyenesen, könyv szerinti értéken kell a Beruházási Ügynökség részére átadni. A tulajdonosi joggyakorlás megállapodással történő átadásával az átvett vagyonnal kapcsolatos jogviszonyokba a korábbi tulajdonosi joggyakorló helyére jogutódként a Beruházási Ügynökség lép.
 
 (3) A Beruházási Ügynökség tulajdonosi joggyakorlásának időtartama alatt a Beruházási Ügynökség által az állam 100%-os tulajdonában álló, a Beruházási Ügynökség tulajdonosi joggyakorlása alatt álló ingatlanon felépített új építmény az állam 100%-os tulajdonába kerül.
 
@@ -103,13 +106,17 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 (3) A Beruházási Ügynökség által az állam nevében előkészítendő vagy megvalósítandó kormányzati magasépítési beruházások esetén a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettségek felső korlátját a Kormány egyedi határozatában állapítja meg. A Beruházási Ügynökség e kötelezettségvállalásai esetén az Áht. 36. § (4)–(4d) bekezdését nem kell alkalmazni.
 
-(4) A (3) bekezdés szerinti kötelezettségvállalási keretet a Kormány beruházás előkészítéséről vagy jóváhagyásáról szóló egyedi határozatában megjelölt teljes kötelezettségvállalási összeg terheli, ideértve az Áht. 36. § (1)–(2) bekezdése szerinti kötelezettségvállalások összegét is.
+(4) A (3) bekezdés szerinti kötelezettségvállalási keretet a Kormány beruházás előkészítéséről vagy jóváhagyásáról szóló egyedi határozatában megjelölt teljes kötelezettségvállalási összeg (e § alkalmazásában a továbbiakban: kötelezettségvállalási felhatalmazás) terheli, ideértve az Áht. 36. § (1)–(2) bekezdése szerinti kötelezettségvállalások összegét is.
+
+(4a) A Beruházási Ügynökség a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 53. § (5) bekezdése szerint lefolytatott eredményes feltételes közbeszerzési eljárás alapján, a kötelezettségvállalási felhatalmazást megelőzően akkor köthet szerződést, ha az ajánlati kötöttség fenntartása a Kbt. rendelkezései alapján nem biztosítható.
+
+(4b) A (4a) bekezdés szerinti szerződés a kötelezettségvállalási felhatalmazáshoz kötött hatálybalépése napjától minősül kötelezettségvállalásnak.
 
 (5) A központi költségvetésről szóló törvény önálló fejezetként tartalmazza a Beruházási Ügynökség állam nevében végzett feladatainak költségvetési bevételeit és költségvetési kiadásait. E fejezet kizárólag központi kezelésű előirányzatokat tartalmaz, a Beruházási Ügynökség az állam nevében vállalt kötelezettségeiből eredő kifizetéseit közvetlenül ezek terhére teljesíti.
 
 (6) Az (5) bekezdés szerinti fejezetben a Kormány egyedi határozatával jóváhagyott kormányzati magasépítési beruházások vagy programszerűen megvalósítandó kormányzati magasépítési beruházások (a továbbiakban e § tekintetében: beruházások) előkészítésének és megvalósításának kiadásait külön előirányzaton kell elszámolni.
 
-(7) Az (5) bekezdés szerinti fejezetben beruházási tartalékot kell képezni a fejezetben kiadási előirányzattal rendelkező beruházások tervezettől eltérő ütemű elszámolásának kezelésére és a jóváhagyott vagy új beruházások kapcsán év közben meghozott kormányzati döntések finanszírozására.
+(7) Az (5) bekezdés szerinti fejezetben beruházási tartalékot kell képezni, amely kizárólag az e fejezetben kiadási előirányzattal rendelkező beruházások tervezettől eltérő ütemű elszámolásának kezelésére, a jóváhagyott vagy új beruházások kapcsán év közben meghozott kormányzati döntések finanszírozására, továbbá a Beruházási Ügynökség által megvalósítandó kormányzati magasépítési beruházásokkal összefüggő tulajdonosi joggyakorlása során felmerülő kiadásokra használható fel.
 
 (8) Az (5) bekezdés szerinti fejezetet irányító szerv a Kormány egyedi határozatával jóváhagyott kormányzati magasépítési beruházás előkészítéséhez vagy megvalósításához kapcsolódó kötelezettségvállalás teljesítéséhez a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
@@ -127,7 +134,7 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 (2) Ha az önkormányzati magasépítési beruházás – amelyhez az államháztartás központi alrendszere központi költségvetési támogatást biztosít – kivitelezési dokumentációjához készült költségvetése alapján haladja meg a kivitelezés becsült értéke az e törvény végrehajtására kiadott rendeletben meghatározott értékhatárt, a Beruházási Ügynökség a támogató és a helyi önkormányzat tájékoztatása alapján haladéktalanul intézkedik az (1) bekezdésben foglaltak érvényesülése érdekében.
 
-(3) A Beruházási Ügynökség a központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházás során az e törvény végrehajtására kiadott rendeletben meghatározott feladatait a beruházással érintett helyi önkormányzat nevében és javára látja el.
+(3) A Beruházási Ügynökség a központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházás során az e törvény végrehajtására kiadott rendeletben meghatározott feladatait a beruházás megvalósítója javára látja el.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

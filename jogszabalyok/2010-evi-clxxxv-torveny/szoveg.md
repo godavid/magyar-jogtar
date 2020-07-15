@@ -3828,6 +3828,8 @@ rendeletben megállapítsa.
 
 217. § E törvénynek a médiaszolgáltatásokkal és a sajtótermékekkel összefüggő egyes törvények módosításáról szóló 2012. évi LXVI. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
 
+217/A. § A Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvénnyel megállapított 4. számú mellékletet a 2020. költségvetési évre akként kell alkalmazni, hogy a közszolgálati hozzájárulásnak a 2020. július 1. napját követő időszakra vonatkozó különbözetét 2020. október 31-ig kell megfizetni az Alap pénzforgalmi számlájára.
+
 218. § A Nemzeti Audiovizuális Archívum (a továbbiakban: NAVA) kezelésének, fenntartásának és működtetésének feladatát 2011. március 31. után a Hatóság látja el. Ezen időpontig gondoskodni kell a NAVA átadásáról a Hatóság részére, ideértve a működéshez kapott költségvetési támogatás időarányos részének átadását is.
 
 218/A. § E törvénynek a helyi és körzeti televíziók digitális átállásának biztosítása érdekében szükséges és egyes hírközléssel összefüggő törvénymódosításokról szóló 2013. évi CXXI. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
@@ -3917,7 +3919,7 @@ A Közszolgálati Testületbe az alábbi Jelölő Szervezetek delegálhatnak tag
 
 ### 4. számú melléklet a 2010. évi CLXXXV. törvényhez
 
-A közszolgálati hozzájárulás mértéke a 2012. évben négymillió magyarországi háztartással, és háztartásonként havonta ezerháromszázötven forinttal számolva összesen 64 800 000 000 azaz hatvannégymilliárd-nyolcszázmillió forint. Ezt az összeget a 2013. évtől kezdődően minden évben indexálni kell legalább a tárgyévet megelőző évi magyarországi fogyasztói árindex mértékével.
+A közszolgálati hozzájárulás mértéke a 2012. évben négymillió magyarországi háztartással, és háztartásonként havonta ezerháromszázötven forinttal számolva összesen 64 800 000 000 azaz hatvannégymilliárd-nyolcszázmillió forint. Ezt az összeget a 2013. évtől kezdődően minden évben indexálni kell legalább a tárgyévet megelőző évi magyarországi fogyasztói árindex mértékével. Az indexálás során figyelembe kell venni a technológiai fejlődésből adódó műszaki szinten tartás költségeit. Erre tekintettel a közszolgálati hozzájárulás 2020. évben 94 540 800 000 forint, mely összeget 2021. évtől kezdődően minden évben indexálni kell legalább a tárgyévet megelőző évi magyarországi fogyasztói árindex mértékével. Az Alap 136. § (3) bekezdéséből a közszolgálati feladatainak ellátására nyújtott finanszírozása nem haladhatja meg a közszolgálati feladatok nettó költségeit. Az Alap közszolgálati feladatainak ellátásához szükséges források összegének meghatározása során figyelembe kell venni valamennyi bevételt, ide értve a közszolgálati és kereskedelmi tevékenységből származó bevételeket egyaránt. E követelmény teljesüléséről, a közszolgálati tartalék mértékéről, pénzügyi ellenőrzés módjáról a tárgyévre vonatkozó költségvetés végrehajtásáról szóló törvénynek kifejezett rendelkezést kell tartalmaznia.
 
 ### 5. számú melléklet a 2010. évi CLXXXV. törvényhez
 

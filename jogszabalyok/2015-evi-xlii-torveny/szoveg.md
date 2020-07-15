@@ -652,7 +652,7 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (2) A hivatásos állomány tagját a feltételek biztosítása mellett, megfelelő határidő kitűzésével kötelezni kell az (1) bekezdés szerinti képzettség megszerzésére. Ha ennek az előírt határidőben önhibájából nem tesz eleget, a szolgálati viszonya a 82. § (1) bekezdés a) pontja alapján a törvény erejénél fogva megszűnik.
 
-48. § Az öregségi nyugdíjban, korhatár előtti ellátásban vagy szolgálati járandóságban részesülő személy hivatásos állományba való visszavételéről, valamint a szolgálati járandóságban részesülő személy szenior állományba vételéről az állományilletékes parancsnok – az öregségi nyugdíjnak, a korhatár előtti ellátásnak vagy a szolgálati járandóságnak a Tny. 83/C. § (1) bekezdése, valamint a Knytv. 11. § (1) bekezdése szerinti szüneteltetése érdekében, az érintett személy nevének és társadalombiztosítási azonosító jelének megküldésével – haladéktalanul értesíti a nyugdíjfolyósító szervet.
+48. § Az öregségi nyugdíjban, korhatár előtti ellátásban vagy szolgálati járandóságban részesülő személy hivatásos állományba való visszavételéről, valamint a szolgálati járandóságban részesülő személy szenior állományba vételéről az állományilletékes parancsnok – az öregségi nyugdíjnak, a korhatár előtti ellátásnak vagy a szolgálati járandóságnak a Tny. 83/C. § (1) bekezdése, valamint a Knytv. 11/A. §-a szerinti szüneteltetése érdekében, az érintett személy nevének és társadalombiztosítási azonosító jelének megküldésével – haladéktalanul értesíti a nyugdíjfolyósító szervet.
 
 #### 31. Próbaidő
 

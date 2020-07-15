@@ -110,11 +110,11 @@ gyakorolja.
 
 (3) Az állami vagyon feletti tulajdonosi joggyakorló köteles a Kormány rendeletében meghatározott adattartalommal és módon adatszolgáltatást nyújtani az MNV Zrt. részére.
 
-18. § (1) Az MNV Zrt. az állam által alapított egyszemélyes részvénytársaság, amelynek részvénye forgalomképtelen. Alapító okiratának elfogadása és módosítása a miniszter hatáskörébe tartozik. Az MNV Zrt. nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet. Megszűnéséről az Országgyűlés törvényben rendelkezhet.
+18. § (1) Az MNV Zrt. az állam által alapított egyszemélyes részvénytársaság, amelynek részvénye forgalomképtelen. Alapszabályának elfogadása és módosítása a miniszter hatáskörébe tartozik. Az MNV Zrt. nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet. Megszűnéséről az Országgyűlés törvényben rendelkezhet.
 
 (2) Az MNV Zrt. alapítására és működésére – ha e törvény eltérően nem rendelkezik – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szabályait kell alkalmazni.
 
-(3) Az MNV Zrt. alapító okiratát és annak módosításait a Magyar Közlönyben közzé kell tenni.
+(3) Az MNV Zrt. alapszabályát és annak módosításait a Magyar Közlönyben közzé kell tenni.
 
 19. § (1) Az MNV Zrt.-ben az állam részvényesi jogait – az e törvényben meghatározott kivételekkel – a miniszter gyakorolja. Az MNV Zrt. működése során a közgyűlés jogai a részvényesi jogok gyakorlóját illetik meg.
 
@@ -160,11 +160,11 @@ gyakorolja.
 
 (6) Az Igazgatóság tagját megillető jogokra és az őt terhelő kötelezettségekre a Ptk. szerinti társasági jogi jogviszonyra vonatkozó rendelkezések az irányadók azzal, hogy az ott nem szabályozott kérdésekben a Ptk.-nak a megbízási szerződésre vonatkozó szabályait kell megfelelően alkalmazni.
 
-(7) Az Igazgatóság tagja csak a jogszabályoknak, az alapító okiratnak, valamint az MNV Zrt. felett részvényesi jogokat gyakorló miniszter határozatainak van alávetve.
+(7) Az Igazgatóság tagja csak a jogszabályoknak, az alapszabálynak, valamint az MNV Zrt. felett részvényesi jogokat gyakorló miniszter határozatainak van alávetve.
 
 (8) A részvényesi jogokat gyakorló miniszter az Igazgatóság részére írásban utasítást adhat, amelyet az végrehajtani köteles, de ez esetben a tagok mentesülnek a (9)–(10) bekezdésben foglalt felelősség alól.
 
-(9) Az Igazgatóság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. Az Igazgatóság tagjai – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal és az MNV Zrt.-vel szemben a jogszabályok, az alapító okirat, illetve a részvényesi jogokat gyakorló miniszter által hozott határozatok, illetve kötelezettségeik felróható megszegésével okozott károkért.
+(9) Az Igazgatóság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. Az Igazgatóság tagjai – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal és az MNV Zrt.-vel szemben a jogszabályok, az alapszabály, illetve a részvényesi jogokat gyakorló miniszter által hozott határozatok, illetve kötelezettségeik felróható megszegésével okozott károkért.
 
 (10) Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
@@ -230,11 +230,11 @@ gyakorolja.
 
 (2) A Felügyelő Bizottság ülésén állandó meghívottként – tanácskozási joggal – részt vesz az Igazgatóság elnöke, vagy az általa kijelölt tag. A Felügyelő Bizottság ülésére továbbá meg kell hívni a miniszter képviselőjét és a vezérigazgatót.
 
-(3) A Felügyelő Bizottság, illetve annak tagja a Felügyelő Bizottság elnöke útján az Igazgatóságtól, illetve az MNV Zrt. vezető állású munkavállalóitól felvilágosítást kérhet, amelyet az MNV Zrt. alapító okiratában meghatározott módon és határidőn belül kell teljesíteni. A Felügyelő Bizottság az MNV Zrt. könyveit és iratait – szükség esetén szakértők bevonásával – megvizsgálhatja.
+(3) A Felügyelő Bizottság, illetve annak tagja a Felügyelő Bizottság elnöke útján az Igazgatóságtól, illetve az MNV Zrt. vezető állású munkavállalóitól felvilágosítást kérhet, amelyet az MNV Zrt. alapszabályában meghatározott módon és határidőn belül kell teljesíteni. A Felügyelő Bizottság az MNV Zrt. könyveit és iratait – szükség esetén szakértők bevonásával – megvizsgálhatja.
 
 (4) Az MNV Zrt. saját vagyonáról a számviteli törvény szerint készített beszámolójának, valamint a külön jogszabályban meghatározott elszámolás szerint a rábízott vagyonról készített beszámolójának jóváhagyásáról a részvényesi jogokat gyakorló miniszter csak a Felügyelő Bizottság írásbeli jelentésének birtokában dönthet.
 
-(5) Ha a Felügyelő Bizottság megítélése szerint az Igazgatóság, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapító okiratba, a részvényesi joggyakorló miniszter határozataiba ütközik, vagy egyébként sérti az állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogokat gyakorló miniszternek.
+(5) Ha a Felügyelő Bizottság megítélése szerint az Igazgatóság, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapszabályba, a részvényesi joggyakorló miniszter határozataiba ütközik, vagy egyébként sérti az állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogokat gyakorló miniszternek.
 
 (6) A Felügyelő Bizottság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal, és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. A tagok – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal és az MNV Zrt.-vel szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
@@ -261,9 +261,11 @@ gyakorolja.
 
 ### Az MNV Zrt. munkaszervezete
 
-20/G. § (1) Az MNV Zrt. munkaszervezetét a hatályos jogszabályok, az MNV Zrt. alapító okirata, a részvényesi jogokat gyakorló miniszter határozatai, valamint az igazgatóság döntéseinek keretei között a vezérigazgató vezeti.
+20/G. § (1) Az MNV Zrt. munkaszervezetét a hatályos jogszabályok, az MNV Zrt. alapszabálya, a részvényesi jogokat gyakorló miniszter határozatai, valamint az igazgatóság döntéseinek keretei között a vezérigazgató vezeti.
 
 (2) Az MNV Zrt.-t törvényes képviselőként a vezérigazgató képviseli harmadik személyekkel szemben.
+
+(2a) Ha a miniszter tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az Áht. 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a miniszter tevékenységének ellátásában az MNV Zrt. közreműködik, az MNV Zrt. e körben végzett tevékenységéhez kapcsolódó jogügyletek tekintetében – a (2) bekezdésben foglaltaktól eltérően – az MNV Zrt.-t a miniszter képviseli harmadik személyekkel szemben.
 
 (3) A vezérigazgató felett az alapvető munkáltatói jogokat (munkaviszony létesítése és megszüntetése, javadalmazás megállapítása) a részvényesi jogokat gyakorló miniszter, az egyéb munkáltatói jogokat az Igazgatóság gyakorolja.
 
@@ -373,7 +375,7 @@ gyakorolja.
 
 (7) A vagyonkezelő – a központi költségvetési szervek kivételével – a vagyonkezelt eszközök értékének megőrzéséről legalább a vagyonkezelt eszközök elszámolt értékcsökkenésének megfelelő mértékben köteles gondoskodni (visszapótlási kötelezettség).
 
-(8) Az alapfeladatként vagy főtevékenységként közfeladatot ellátó vagyonkezelő a visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül azzal, hogy a tulajdonosi joggyakorló és az alapfeladatként vagy főtevékenységként közfeladatot ellátó vagyonkezelő a vagyonkezelési szerződésben ettől eltérően is megállapodhat.
+(8) Az alapfeladatként vagy főtevékenységként közfeladatot ellátó, továbbá a közfeladathoz vagy a lakosság közszolgáltatásokkal való ellátásához szükséges infrastruktúrát biztosító vagyonkezelő a visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül azzal, hogy a tulajdonosi joggyakorló és a vagyonkezelő a vagyonkezelési szerződésben ettől eltérően is megállapodhat.
 
 (9) A visszapótlási kötelezettség módját és mértékét vagy a visszapótlási kötelezettség alóli (8) bekezdés szerinti mentesülés tényét a vagyonkezelési szerződésben kell rögzíteni.
 
@@ -400,6 +402,40 @@ gyakorolja.
 (4)
 
 (5) Amennyiben ajándékozás, végrendeleti örökösnevezés, illetve tulajdonjog átruházására irányuló más hasonló jogügylet kedvezményezettjeként valamely központi költségvetési szervet jelölnek meg, az elfogadott vagyon állami tulajdonba kerül azzal, hogy az MNV Zrt. az adott költségvetési szervvel köt rá – az Nvtv. 11. § (6) bekezdésében meghatározott vagyontárgyak kivételével – nem visszterhes vagyonkezelési szerződést, vagy – ha a hagyaték tárgya gazdasági társaságban fennálló társasági részesedés – az Nvtv. 8. § (7) bekezdése szerinti megbízási szerződést. Ha a későbbiekben az ilyen vagyontárgy értékesítésére kerül sor, annak bevétele a kedvezményezett központi költségvetési szervet illeti meg.
+
+28/A. § (1) Az MNV Zrt. a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezését állami elhelyezési célú ingatlanokban biztosítja. Az MNV Zrt. tulajdonosi joggyakorlása alatt álló állami elhelyezési célú ingatlanok állagának megóvásáról, karbantartásáról, üzemeltetéséről, beruházásainak és felújításainak előkészítéséről, illetve megvalósításáról az MNV Zrt. gondoskodik a központi költségvetés terhére.
+
+(2) Az MNV Zrt. az (1) bekezdés szerinti költségvetési szervek elhelyezése érdekében – egyoldalú nyilatkozatával – állami elhelyezési célú ingatlanhasználati jogviszonyt létesít, amely jogviszony nem minősül az Nvtv. 3. § (1) bekezdés 4. pontja szerinti hasznosításnak. Az MNV Zrt. kijelölő okiratot állít ki, amely alapján az (1) bekezdés szerinti költségvetési szerv köteles a kijelölő okiratban számára megjelölt ingatlant az abban megjelölt határidőben birtokba venni.
+
+(3) A kijelölő okirattal létrejövő állami elhelyezési célú ingatlanhasználati jogviszony keretében a kijelölő okiratban meghatározott (1) bekezdés szerinti költségvetési szerv az állami elhelyezési célú ingatlant díjfizetési kötelezettség nélkül jogosult használni az e törvényben és a végrehajtási rendeletében meghatározottak szerint. A központi költségvetési szerv közfeladat ellátására való tekintettel az állami elhelyezési célú ingatlanhasználati jogviszony nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerinti gazdasági tevékenységnek.
+
+(4) Állami elhelyezési céllal, az (1) bekezdés szerinti költségvetési szervek javára, kizárólag az MNV Zrt. jogosult nem állami tulajdonú, Magyarország területén található ingatlanra vonatkozó használati jogosultságot eredményező megállapodást kötni.
+
+(5) Az állami elhelyezési célú ingatlanok vonatkozásában hasznosítási megállapodást – az e törvény végrehajtási rendeletében meghatározott kivétellel – kizárólag az MNV Zrt. köthet, azzal, hogy a hasznosítás a (2) bekezdés szerint kijelölt használó közfeladat ellátását nem akadályozhatja.
+
+(6) A (2) bekezdés szerinti kijelöléssel érintett állami tulajdonú ingatlanok tekintetében az állami elhelyezési célú ingatlanként történő használatot az ingatlan jogi jellegeként kell bejegyezni az ingatlan-nyilvántartásba. Az MNV Zrt. egyoldalú nyilatkozatát tartalmazó kérelemmel gondoskodik az állami elhelyezési célú ingatlan jogi jelleg ingatlan-nyilvántartási bejegyzésének kezdeményezéséről.
+
+(7) Az állami elhelyezési célú ingatlanhasználati jogviszony megszűnik, ha:
+
+- a) a kijelölő okiratban meghatározott idő lejár;
+- b) az MNV Zrt. a kijelölést részlegesen vagy teljesen visszavonja;
+- c) az (1) bekezdés szerinti költségvetési szerv megszűnik, ide nem értve a központi költségvetési szervek közötti jogutódlást;
+- d) a kijelölés tárgyát képező állami ingatlan az állami tulajdonból kikerül;
+- e) a kijelölés tárgyát képező ingatlan megsemmisül.
+
+(8) Az (1) bekezdés szerinti üzemeltetési feladatok ellátása, továbbá az állami elhelyezési célú ingatlanokon végrehajtandó értéknövelő beruházások, felújítások, állagmegóvási és karbantartási feladatok végrehajtása érdekében – közbeszerzési eljárás lefolytatása nélkül – az MNV Zrt.
+
+- a) központi költségvetési szervet,
+- b) 100%-os tulajdonában álló gazdasági társaságot,
+- c) 100%-os vagy többségi állami tulajdonban álló gazdasági társaságot,
+- d) többségi állami tulajdonban álló gazdasági társaság többségi tulajdonában álló gazdasági társaságot
+
+vonhat be.
+
+(9) E § alkalmazásában állami elhelyezési célú ingatlannak minősül:
+
+- a) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv részére állami elhelyezési célú ingatlanhasználati jogviszony keretében használatba adott, többségében irodai funkciót ellátó, Magyarország területén található, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 11–13. §-a szerinti önálló ingatlan, ahol az ingatlanon fekvő összes építmény valamennyi helyiségét együttesen figyelembe véve megállapítható, hogy azok – hasznos alapterületük összessége alapján számított – többsége irodai rendeltetésű vagy azok tényleges hasznosítása irodai célokat szolgál,
+- b) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv részére állami elhelyezési célú ingatlanhasználati jogviszony keretében használatba adott olyan oktatási, üdültetési vagy egyéb rekreációs célt szolgáló, Magyarország területén található ingatlan, amely nem a költségvetési szerv szakmai alapfeladataként meghatározott tevékenység ellátását biztosítja.
 
 ### Állami tulajdonú gazdasági társaságokés más gazdálkodó szervezetek
 
@@ -886,7 +922,8 @@ lép.
 - e) az állami vagyon értékesítésére vonatkozó szabályokat,
 - f) az állami vagyon feletti tulajdonosi joggyakorló által az MNV Zrt. részére küldendő adatszolgáltatás tartalmát, módját és határidejét.
 - g) a 34. § (2) bekezdés b) pontja szerinti elektronikus árverés szabályait, ezen belül az elektronikus árverési rendszer működtetésének, az árverezők elektronikus nyilvántartása vezetésének, az elektronikus árverés lebonyolításának részletes szabályait, az árverezők elektronikus nyilvántartásában szereplő, az érintett hozzájárulása alapján kezelt személyes adatok körét, az elektronikus árverési rendszer szakmai és informatikai követelményeit, az informatikai rendszer működtetése ellenőrzésének felelősét, a működtetés biztonságosságával, átláthatóságával és ellenőrizhetőségével összefüggő követelményeket, az informatikai rendszer jogszabályi és működésbiztonsági tanúsításának szabályait, az elektronikus árverési rendszerhez felhasználóként (vevőként) történő csatlakozás feltételeit, a rendszer használóira vonatkozó szabályzatok kötelező tartalmát,
-- h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait.
+- h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait,
+- i) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezésére, az állami elhelyezési célú ingatlanhasználati jogviszonyra, valamint az állami elhelyezési célú ingatlanok hasznosítására vonatkozó részletszabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 

@@ -26,6 +26,8 @@ a megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának el
 
 4. § (1) A kulturális örökség helyi védelme érdekében a megyei hatókörű városi múzeumok alapleltárában és jogszabály szerinti külön nyilvántartásában szereplő állami tulajdonú kulturális javak ingyenesen a megyei hatókörű városi múzeumok vagyonkezelésébe kerülnek. A vagyonkezelők vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
 
+(1a) A tatai Kuny Domokos Múzeum vagyonkezelésében lévő antik gipsz szobormásolat-gyűjtemény a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvény hatálybalépésének napján, a törvény erejénél fogva, ingyenesen a Szépművészeti Múzeum vagyonkezelésébe kerül a korábbi vagyonkezelő vagyonkezelői jogának egyidejű megszűnésével. A vagyonkezelői jog tekintetében vagyonkezelési szerződés megkötése nem szükséges.
+
 (2) A kulturális örökség helyi védelme érdekében a megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának ellátását szolgáló állami tulajdonban álló ingatlanok – az 1. § (1) és (2) bekezdése alapján a mellékletben meghatározott ingatlanok kivételével – ingyenesen a fenntartó önkormányzatok vagyonkezelésébe kerülnek.
 
 (3) Az (1) bekezdés alapján kijelölt vagyonkezelők kötelesek a vagyonkezelésükben álló állami vagyon tárgyév december 31-ei állományáról évente egyszer, a tárgyévet követő év május 31-ig adatot szolgáltatni a kultúráért felelős miniszter, valamint az MNV Zrt. részére.
@@ -40,7 +42,7 @@ a megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának el
 
 7. §
 
-8. § Az 1. § (4) bekezdése, a 2. § (1) és (2) bekezdése, a 3. § (1) és (4) bekezdése és a 4. § (1) és (2) bekezdése és a 7. § az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül. A 6. § az Alaptörvény 38. cikk (2) bekezdése alapján sarkalatosnak minősül.
+8. § Az 1. § (4) bekezdése, a 2. § (1) és (2) bekezdése, a 3. § (1) és (4) bekezdése és a 4. § (1)–(2) bekezdése és a 7. § az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül. A 6. § az Alaptörvény 38. cikk (2) bekezdése alapján sarkalatosnak minősül.
 
 9. § Ez a törvény a kihirdetését követő hónap első napján lép hatályba.
 
