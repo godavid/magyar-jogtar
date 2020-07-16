@@ -376,6 +376,48 @@ e célból együttműködik az Európai Unió tagállamaival és szerveivel, az 
 
 (4) Ha a települési önkormányzat képviselő-testülete a saját szervezetén belül közbiztonsági ügyekkel foglalkozó bizottságot hoz létre, a rendőrkapitány, a fővárosi önkormányzat esetében a rendőrfőkapitány, a bizottság munkáját — a titok- és az adatvédelemre vonatkozó rendelkezések figyelembevételével — a feladatai ellátásához szükséges tájékoztatás megadásával köteles elősegíteni.
 
+10/A. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv a nevelési-oktatási intézmények rendjének fenntartását – a nevelési, oktatási intézmény területén tanítási időben – iskolaőrség útján biztosíthatja.
+
+(2) Az iskolaőrséget az érintett nevelési-oktatási intézmény igényeinek megfelelően úgy kell megszervezni, hogy az biztosítsa az adott nevelési-oktatási intézmény pedagógusai, a nevelő és oktató munkát közvetlenül segítő alkalmazottai, illetve oktatói nemzeti köznevelésről szóló törvényben, illetve szakképzésről szóló törvényben meghatározott feladatainak zavartalan ellátását, a sérelmükre elkövetett jogellenes cselekmények megelőzését.
+
+(3) Az iskolaőr a nevelési-oktatási intézmények rendjének fenntartásával össze nem függő kérdésben nem tehet javaslatot, és nem hozhat döntést.
+
+(4) Az iskolaőr az e törvényben meghatározott feladatokat ellátó, kényszerítő eszközzel rendelkező, sajátos jogokkal felruházott személy, aki az általános rendőrségi feladatok ellátására létrehozott szervvel munkaviszonyban áll.
+
+(5) Az iskolaőr a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személynek minősül, az e törvény szerinti intézkedési és kényszerítőeszköz-használati jogosultság kizárólag az őrutasításban szereplő feladatok ellátása során, a nevelési, oktatási intézmény területén illeti meg.
+
+10/B. § Az általános rendőrségi feladatok ellátására létrehozott szerv a nevelési-oktatási intézménnyel együttműködési megállapodást köt, amely tartalmazza különösen
+
+- a) az iskolaőr részére a feladatai ellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket,
+- b) az ellátandó feladatokról nyújtandó tájékoztatás módját és tartalmát,
+- c) a kapcsolattartás módját, az együttműködéssel kapcsolatban eljárásra jogosult rendőri szervet,
+- d) az együttműködést segítő további rendelkezéseket, valamint
+- e) a nevelési-oktatási intézmény elkötelezettségét tartalmazó nyilatkozatot az együttműködési megállapodásban foglaltak betartására vonatkozóan.
+
+10/C. § (1) Az iskolaőr az e törvény szerinti feladatai ellátása során jogosult
+
+- a) a 32. §, valamint a 43. § szerinti intézkedéseket foganatosítani,
+- b) a biztonságot sértő vagy veszélyeztető személyt tevékenysége abbahagyására felszólítani és igazoltatni,
+- c) az intézkedésének tettlegesen ellenszegülő, valamint személy elleni erőszakos vagy közveszélyt okozó büntetendő cselekmény vagy tulajdon elleni szabálysértés elkövetésén tetten ért személyt a rendőr megérkezéséig visszatartani,
+- d) azt a dolgot, amely a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény, vagy a büntetőeljárásról szóló törvény alapján lefoglalható, valamint bizonyítékként felhasználható, a rendőr megérkezéséig ideiglenesen elvenni,
+- e) az önveszélyes állapot, vagy a személyeket vagy az anyagi javakat közvetlenül fenyegető veszélyhelyzet megszüntetése érdekében
+  - ea) megtenni a veszélyhelyzet elhárításához, megszüntetéséhez haladéktalanul szükséges intézkedéseket,
+  - eb) intézkedni az önmagát vagy mást veszélyeztető állapotban lévő személy orvosi vizsgálatára, és közreműködni az egészségügyi intézetbe történő szállítatásában,
+  - ec) intézkedni az öngyilkosság lehetőség szerinti megakadályozására,
+  - ed) a nevelési, oktatási intézmény területét lezárni, és megakadályozni, hogy oda bárki belépjen, vagy onnan távozzék.
+
+(2) Az iskolaőr a biztonságot sértő vagy veszélyeztető tevékenység megszakítása érdekében, az azt elkövető személlyel szemben, illetve tettenérés esetén az arányosság követelményének betartásával:
+
+- a) testi kényszer alkalmazásával cselekvésre vagy cselekvés abbahagyására kényszerítést,
+- b) az (1) bekezdés c) pontja szerint visszatartott személy szökésének, önkárosításának megakadályozására bilincset,
+- c) a támadás megakadályozására vagy az ellenszegülés megtörésére vegyi eszközt és rendőrbotot
+
+alkalmazhat, illetve használhat.
+
+(3) Az intézkedések és a kényszerítő eszközök alkalmazása során a 15–17. §-t, a 19. §-t, a 20. § (2) és (3) bekezdését, a 61. § (1)–(3) bekezdését és a 62. § (1) bekezdését alkalmazni kell azzal, hogy az iskolaőr esetében szolgálati elöljáró alatt a munkáltatót kell érteni.
+
+(4) Az iskolaőr intézkedése, illetve a kényszerítő eszköz alkalmazása elleni jogorvoslatra a IX. Fejezet rendelkezéseit kell alkalmazni.
+
 ### IV. Fejezet — A RENDŐRSÉG MŰKÖDÉSÉNEK ÁLTALÁNOS ELVEI ÉS SZABÁLYAI
 
 ### A rendőri feladatok ellátásának és az utasítás teljesítésének kötelezettsége
@@ -2012,6 +2054,21 @@ részére.
 
 (2) A 91/Q. §-ban foglalt rendelkezések az idegenrendészeti szerv adatkezelésére nem alkalmazhatóak.
 
+### Az iskolaőrség adatkezelése
+
+91/V. § (1) Az iskolaőr az e törvényben meghatározott feladata ellátása során – különösen a tanulóval, a képzésben résztvevő személlyel és az ezen személyek családjával kapcsolatos – személyes adatot kizárólag az e törvényben meghatározott feladata ellátása céljából, az e cél elérése érdekében elengedhetetlenül szükséges mértékig ismerhet meg.
+
+(2) Az iskolaőrt – a (3) bekezdés szerinti kivétellel – harmadik személyekkel szemben titoktartási kötelezettség terheli a tanulóval, a képzésben résztvevő személlyel és ezen személyek családjával kapcsolatos minden olyan tényt, adatot, információt illetően, amelyről a tanulóval vagy képzésben részt vevő személlyel, kiskorú tanuló esetén a kiskorú tanuló törvényes képviselőjével, valamint – a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 4:175. § (2) bekezdése szerinti, a kiskorú tanuló sorsát érintő lényeges kérdésre vonatkozó adat tekintetében – a törvényes képviseleti jogot nem gyakorló szülővel való kapcsolattartás során szerzett tudomást. Az iskolaőr e kötelezettsége a munkaviszony megszűnését követően is határidő nélkül fennmarad.
+
+(3) A titoktartási kötelezettség nem terjed ki a nevelőtestület vagy oktatói testület tagjaival, valamint a gyermekvédelmi jelzőrendszer tagjaival történő, a tanuló fejlődésével összefüggő megbeszélésre.
+
+(4) Az iskolaőr a kiskorú tanuló
+
+- a) törvényes képviselőjével a kiskorú valamennyi személyes adatát, valamint
+- b) törvényes képviseleti jogot nem gyakorló szülőjével a Ptk. 4:175. § (2) bekezdése szerinti, a kiskorú tanuló sorsát érintő lényeges kérdésre vonatkozó adatát – a Ptk. 4:175. § (1) bekezdésében meghatározottak szerint –
+
+közölheti, kivéve, ha a személyes adat közlése a kiskorú testi, értelmi vagy erkölcsi fejlődését súlyosan sértené.
+
 ### IX. Fejezet — JOGORVOSLAT
 
 92. § (1) Akinek a IV–V. Fejezetben – a 46/A–46/C. § kivételével –, valamint a VI. Fejezetben meghatározott kötelezettség megsértése, a rendőri intézkedés, annak elmulasztása, a kényszerítő eszköz alkalmazása (e fejezet alkalmazásában a továbbiakban együtt: intézkedés) alapvető jogát sértette, választása szerint
@@ -2108,7 +2165,7 @@ bírálja el.
 - b) a rendőr képesítési és egyéb alkalmassági követelményeit, valamint az alkalmassági feltételek ellenőrzésének szabályait,
 - c)
 - d)
-- e) a rendőrség szolgálati szabályzatát, ennek részeként a határrendészeti feladatok, a rendőri intézkedések, a kényszerítő eszközök, a lőfegyverhasználat és a csapaterő alkalmazásának részletes eljárási szabályait, a szolgálati lőfegyverek és lőszerek 1. § (2) bekezdés 7a. pontja szerinti külföldre vitelének szabályait és a rendőrséggel együttműködő külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalának engedélyezési szabályait, a rendőrségnek a terrorcselekmények elhárításával, személy- és objektumvédelemmel, a polgári repülés biztonságával összefüggő feladatait, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a rendőri magatartás szabályait, az egyenruha viselésének rendjét,
+- e) a rendőrség szolgálati szabályzatát, ennek részeként a határrendészeti feladatok, a rendőri intézkedések, a kényszerítő eszközök, a lőfegyverhasználat és a csapaterő alkalmazásának részletes eljárási szabályait, a szolgálati lőfegyverek és lőszerek 1. § (2) bekezdés 7a. pontja szerinti külföldre vitelének szabályait és a rendőrséggel együttműködő külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalának engedélyezési szabályait, a rendőrségnek a terrorcselekmények elhárításával, személy- és objektumvédelemmel, a polgári repülés biztonságával összefüggő feladatait, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a rendőri magatartás szabályait, az egyenruha viselésének rendjét, valamint az iskolaőri intézkedések és kényszerítő eszközök alkalmazásának részletes eljárási szabályait, valamint a formaruha viselésének rendjét,
 - f) a rendőrség feladatait a polgárőrséggel és más önvédelmi szervezetekkel történő együttműködésben,
 - g) a rendőrségi adatok kezelésére jogosult szervek feladatait, az adatok kezelésének és feldolgozásának technikai szabályait, valamint a bűnüldözési adatok helyessége, megbízhatósága és felhasználhatósága jelölésének módját,
 - h) a bírói engedélyhez kötött eszközök alkalmazása indítványozásával, engedélyezésével, illetve igénybevételével kapcsolatos szabályokat,

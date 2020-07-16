@@ -509,7 +509,7 @@ véleményét a pályázóról.
 - h) hivatalvesztés fegyelmi büntetést kiszabó jogerős fegyelmi határozattal;
 - i) a bíróságnak vele szemben szabadságvesztést, elzárást, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 - j) a 17. § (5) bekezdésében szabályozott esetben;
-- k) a 31. § (4)–(5) bekezdésében szabályozott esetben;
+- k) a 31. § (5) és (6) bekezdésében szabályozott esetben;
 - l) halálával;
 - m) ha a 11. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn;
 - n) e törvényben előírt eskütételi kötelezettség megszegésével;
@@ -566,6 +566,8 @@ véleményét a pályázóról.
 (2) A rendkívüli lemondás jogát az ennek alapjául szolgáló okról való tudomásszerzéstől számított hat napon belül, legfeljebb azonban az ok bekövetkeztétől számított hat hónapig lehet gyakorolni.
 
 (3) Rendkívüli lemondás esetén a munkáltató az ügyész részére annyi időre járó átlagilletményét köteles kifizetni, amennyi felmentése esetén járna, az ügyészségi szolgálati viszony megszűnésének időpontját pedig az ügyészre irányadó felmentési idő figyelembevételével kell meghatározni.
+
+(4) A rendkívüli lemondást indokolni kell; az indokolásból a rendkívüli lemondás okának világosan ki kell tűnnie. A rendkívüli lemondás okának valóságát és okszerűségét az ügyésznek kell bizonyítania.
 
 41. § (1) Ha a legfőbb ügyész által kinevezett ügyész szolgálati viszonya a 34. § f), i), k), m)–o) pontja alapján szűnik meg, ennek tényét a legfőbb ügyész állapítja meg. A 34. § d) pontjában említett esetben az ügyészt hathavi átlagilletményének megfelelő összeg illeti meg.
 
@@ -969,7 +971,7 @@ illetménynek megfelelő összeg.
 
 71. § (1) Az ügyész cafetéria-juttatásként – választása szerint, az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (3) bekezdésére is figyelemmel – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdés a)–f) pontjaiban, továbbá (3) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig jogosult. A legfőbb ügyész utasításban további választható juttatásokat is meghatározhat, illetve az egyes juttatások választható mértékét magasabban is meghatározhatja.
 
-(2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő ügyész, valamint az ügyész azon időtartam vonatkozásában, amelyre illetményre vagy átlagkeresetre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
+(2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő ügyész, valamint az ügyész azon időtartam vonatkozásában, amelyre illetményre vagy átlagilletményre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot.
 
 (3) Az ügyész írásban vagy elektronikus úton a tárgyév január 15-ig, illetve a jogviszony létesítésekor nyilatkozik arról, hogy a cafetéria-juttatás összegén belül milyen juttatásokra tart igényt. A nyilatkozat ezt követően csak akkor módosítható, ha azt a legfőbb ügyész utasításban lehetővé teszi. A legfőbb ügyész utasításban előírhatja, hogy a helyi utazásra szolgáló bérlet választására vonatkozó nyilatkozatot korábban kell megtenni.
 
@@ -1118,10 +1120,11 @@ nincs helye fegyelmi felelősségre vonásnak.
 - b) megrovás;
 - c) a legfőbb ügyész által adományozott elismerés – ideértve a címet is – visszavonása;
 - d) egy fizetési fokozattal való visszavetés;
-- e) alacsonyabb munkakörbe helyezés, illetve vezetői tisztségből való felmentés;
-- f) hivatalvesztés.
+- e) két fizetési fokozattal való visszavetés;
+- f) alacsonyabb munkakörbe helyezés, illetve vezetői tisztségből való felmentés;
+- g) hivatalvesztés.
 
-(2) Az elismerés visszavonása az (1) bekezdés d)–f) pontjaiban meghatározott fegyelmi büntetésekkel együttesen is kiszabható.
+(2) Az elismerés visszavonása az (1) bekezdés d)–g) pontjában meghatározott fegyelmi büntetésekkel együttesen is kiszabható.
 
 (3) Az alacsonyabb munkakörbe helyezés csak az ügyész képesítésének megfelelő munkakörbe történhet, s az mind határozott, mind pedig határozatlan időre kiszabható. Az alacsonyabb munkakörbe helyezés más – az ügyész szolgálati helyével vagy lakóhelyével azonos helységben lévő – szolgálati helyre is történhet.
 
@@ -1136,13 +1139,13 @@ nincs helye fegyelmi felelősségre vonásnak.
 - e) a fellebbviteli főügyész a vezetése alatt álló fellebbviteli főügyészség a) pontban nem említett ügyészei felett;
 - f) a főügyész a vezetése alatt álló főügyészség a) pontban nem említett ügyészei és a főügyészség alá rendelt járási ügyészségek ügyészei felett.
 
-(2) Az 84. § (1) bekezdésének c)–f) pontjában meghatározott fegyelmi büntetés kiszabására az (1) bekezdés b)–f) pontjában említett esetben is csak a legfőbb ügyész jogosult.
+(2) Az 84. § (1) bekezdés c)–g) pontjában meghatározott fegyelmi büntetés kiszabására az (1) bekezdés b)–f) pontjában említett esetben is csak a legfőbb ügyész jogosult.
 
 (3) A legfőbb ügyész az (1) bekezdés b)–f) pontjában említett esetben hatáskörébe vonhatja a fegyelmi jogkör gyakorlását.
 
 86. § (1) A fegyelmi eljárást a 85. § (1) bekezdésében említett fegyelmi jogkört gyakorló személy rendeli el indokolt írásbeli határozattal. A határozatot a fegyelmi eljárás alá vont ügyésznek kézbesíteni kell. A határozat ellen jogorvoslatnak nincs helye.
 
-(2) A fegyelmi eljárást harminc nap alatt kell lefolytatni. A határidő egy ízben harminc nappal meghosszabbítható.
+(2) A fegyelmi eljárást hatvan nap alatt kell lefolytatni. A fegyelmi jogkör gyakorlója a határidőt a fegyelmi biztos javaslatára egy alkalommal harminc nappal meghosszabbíthatja.
 
 (3) A fegyelmi eljárást fel lehet függeszteni, ha az ügyben büntetőeljárás, illetve szabálysértési eljárás is indult, vagy szakértői vélemény beszerzése miatt szükséges.
 
@@ -1207,7 +1210,7 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 (2) A hivatalvesztést kiszabó fegyelmi határozat a szülési szabadság tartama alatt nem hajtható végre.
 
-96. § (1) Az ügyész a hivatalvesztés fegyelmi büntetésnél három évig, a vezetői tisztségből való felmentés, alacsonyabb munkakörbe helyezés, egy fizetési fokozattal való visszavetés, az elismerés visszavonása fegyelmi büntetésnél két évig, megrovás esetén egy évig a fegyelmi büntetés hatálya alatt áll. Ha az ügyész a büntetés hatályának eltelte előtt jogerősen újabb fegyelmi büntetésben részesül, az új büntetésre előírt határidővel büntetésének hatálya meghosszabbodik. Az ügyész a hatályos fegyelmi büntetéséről köteles számot adni. Ha az ügyészségi szolgálati viszony hivatalvesztés miatt szűnt meg, a volt ügyésszel a büntetés hatályának fennálltáig újabb ügyészségi szolgálati viszony nem létesíthető.
+96. § (1) Az ügyész a hivatalvesztés fegyelmi büntetésnél három évig, a vezetői tisztségből való felmentés, alacsonyabb munkakörbe helyezés, egy fizetési fokozattal való visszavetés, két fizetési fokozattal való visszavetés, az elismerés visszavonása fegyelmi büntetésnél két évig, megrovás esetén egy évig a fegyelmi büntetés hatálya alatt áll. Ha az ügyész a büntetés hatályának eltelte előtt jogerősen újabb fegyelmi büntetésben részesül, az új büntetésre előírt határidővel büntetésének hatálya meghosszabbodik. Az ügyész a hatályos fegyelmi büntetéséről köteles számot adni. Ha az ügyészségi szolgálati viszony hivatalvesztés miatt szűnt meg, a volt ügyésszel a büntetés hatályának fennálltáig újabb ügyészségi szolgálati viszony nem létesíthető.
 
 (2) A fegyelmi büntetés hatálya alatt álló ügyész
 
@@ -1347,7 +1350,7 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 (5) A teljesítményértékelés alapján jutalom fizethető.
 
-(6) A teljesítményértékelés és az értékelés alapján az alügyész és az ügyészségi fogalmazó alapilletménye – a besorolása szerinti fizetési fokozathoz tartozó alsó és felső határ között – módosítható.
+(6) A teljesítményértékelés és a minősítés alapján az alügyész és az ügyészségi fogalmazó alapilletménye – a besorolása szerinti fizetési fokozathoz tartozó alsó és felső határ között – módosítható.
 
 (7) Az alügyész és az ügyészségi fogalmazó a teljesítményértékelés hibás vagy valótlan ténymegállapításának, illetve a személyiségi jogát sértő megállapításának a megsemmisítése iránt – ha azt az értékelő az ismertetéstől számított 15 napon belül nem változtatja meg, az ezt követő 30 napon belül – bírósághoz fordulhat.
 
@@ -1410,7 +1413,7 @@ minősíteni kell, feltéve, hogy az előző minősítés ismertetése óta egy 
 
 (3) Az (1)–(2) bekezdés szerinti előresorolást a naptári év első napjával kell végrehajtani, ennek során a korábbi fizetési fokozatban megszerzett szolgálati időt az új fizetési fokozatban is figyelembe kell venni.
 
-(3a) Ha – mindaddig, amíg az alügyész és az ügyészségi fogalmazó szolgálati ideje nem éri el azt az időt, amely alapján a soron kívüli előresorolása szerinti fizetési fokozatba lépne – a teljesítményértékelés alapján megállapítható, hogy az alügyész és az ügyészségi fogalmazó munkájának színvonala tartósan átlag alattivá válik, illetményét a soron kívüli előresorolása szerinti fizetési fokozathoz tartozó alsó határnak megfelelő összegben kell megállapítani.
+(3a) Ha – mindaddig, amíg az alügyész és az ügyészségi fogalmazó szolgálati ideje nem éri el azt az időt, amely alapján a soron kívüli előresorolása szerinti fizetési fokozatba lépne – a teljesítményértékelés alapján megállapítható, hogy az alügyész és az ügyészségi fogalmazó munkájának színvonala tartósan átlag alattivá válik, alapilletményét a soron kívüli előresorolása szerinti fizetési fokozathoz tartozó alsó határnak megfelelő összegben kell megállapítani.
 
 (3b) A Legfőbb Ügyészségen dolgozó
 
@@ -1592,7 +1595,7 @@ feltéve, hogy az új szolgálati hely, illetve munkakör a tisztviselőre, írn
 
 (3) A tisztviselő ügyészségi szolgálati viszonya az (1) bekezdésben említetteken túl megszűnik, ha a 122. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn.
 
-(4) Az ügyészségi megbízott ügyészségi szolgálati viszonya az (1), (3) bekezdésben említetteken túl megszűnik a bíróságnak vele szemben szándékos bűncselekmény miatt felfüggesztett szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával.
+(4) Az ügyészségi megbízott ügyészségi szolgálati viszonya az (1), (3) bekezdésben említetteken túl megszűnik a bíróságnak vele szemben szándékos bűncselekmény miatt felfüggesztett szabadságvesztést, elzárást, közérdekű munkát kiszabó jogerős ügydöntő határozatával.
 
 (5) A tisztviselő, az írnok és a fizikai alkalmazott esetében a közös megegyezésre, a felmentésre, a lemondásra, a rendkívüli lemondásra, a 17. § kivételével a határozott időre szóló ügyészségi szolgálati viszony megszüntetésére, a végkielégítésre és az ügyészségi szolgálati viszony jogellenes megszüntetésére e törvénynek az ügyészekre vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal az eltéréssel, hogy
 
@@ -1641,7 +1644,7 @@ lehet gyakorolni.
 
 (5) A teljesítményértékelés alapján jutalom fizethető.
 
-(6) A teljesítményértékelés és az értékelés alapján a tisztviselő és az írnok alapilletménye – a besorolása szerinti fizetési fokozathoz tartozó alsó és felső határ között – módosítható.
+(6) A teljesítményértékelés és a minősítés alapján a tisztviselő és az írnok alapilletménye – a besorolása szerinti fizetési fokozathoz tartozó alsó és felső határ között – módosítható.
 
 (7) A tisztviselő és az írnok a teljesítményértékelés hibás vagy valótlan ténymegállapításának, illetve a személyiségi jogát sértő megállapításának a megsemmisítése iránt – ha azt az értékelő az ismertetéstől számított 15 napon belül nem változtatja meg, az ezt követő 30 napon belül – bírósághoz fordulhat.
 
@@ -1667,7 +1670,7 @@ lehet gyakorolni.
 
 (2) A tisztviselő, az írnok és a fizikai alkalmazott belföldi kiküldetésénél az 57. § (1)–(3), (5)–(7) bekezdésében, gépjárművezető belföldi kiküldetésénél az 57. § (1), (5)–(7) bekezdésében foglalt rendelkezést is megfelelően alkalmazni kell.
 
-135. § (1) A tisztviselő, az írnok és a fizikai alkalmazott szolgálati viszonya alapján havonta alapilletményre, továbbá – ha a folyósítás e törvényben meghatározott feltételei fennállnak – beosztási pótlékra és címpótlékra jogosult. A beosztási pótlék és a címpótlék az illetmény része. Az alapilletmény megállapításának alapjául az illetményalap szolgál; az alapilletményt az illetményalap és az egyes fizetési fokozatok szorzószámai alapján kell megállapítani.
+135. § (1) A tisztviselő, az írnok és a fizikai alkalmazott szolgálati viszonya alapján havonta alapilletményre, továbbá – ha a folyósítás e törvényben meghatározott feltételei fennállnak – beosztási pótlékra és címpótlékra jogosult. A beosztási pótlék és a címpótlék az illetmény része. A fizikai alkalmazott kivételével az alapilletmény megállapításának alapjául az illetményalap szolgál; az alapilletményt az illetményalap és az egyes fizetési fokozatok szorzószámai alapján kell megállapítani.
 
 (2) Az alapilletmény összege nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér), illetve a garantált bérminimum összege.
 
@@ -1700,10 +1703,7 @@ lehet gyakorolni.
 
 (3) Szolgálati időként kell figyelembe venni az igazságügyi szolgálati jogviszonyban hasonló jellegű munkakörben eltöltött időt.
 
-(4) Részben vagy egészben szolgálati időként lehet figyelembe venni
-
-- a) a III. fizetési osztályba tartozó tisztviselő esetében a kinevezéséig a szakirányú végzettségének megfelelő munkakörben vagy tevékenységgel eltöltött időt,
-- b) az a) pontban nem említett tisztviselő és az írnok esetében pedig a 154. § (1) és (3) bekezdésében felsorolt jogviszonyokban eltöltött időt.
+(4) Részben vagy egészben szolgálati időként lehet figyelembe venni a 154. § (1), (3) és (4) bekezdésében felsorolt jogviszonyokban és a szakirányú végzettségnek megfelelő tevékenységgel eltöltött időt.
 
 (5) A (3)–(4) bekezdésben foglalt rendelkezések alkalmazásakor a beszámítandó szolgálati időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás a naptári év első napjával történjék. A (4) bekezdés szerinti beszámításnál figyelemmel kell lenni a helyes illetményarányokra is.
 
@@ -1715,7 +1715,7 @@ lehet gyakorolni.
 
 (2) A soron kívüli előresorolást a naptári év első napjával kell végrehajtani, ennek során a korábbi fizetési fokozatban megszerzett szolgálati időt az új fizetési fokozatban is figyelembe kell venni.
 
-(3) Ha – mindaddig, amíg a tisztviselő és az írnok szolgálati ideje nem éri el azt az időt, amely alapján a soron kívüli előresorolása szerinti fizetési fokozatba lépne – a teljesítményértékelés alapján megállapítható, hogy a tisztviselő és az írnok munkájának színvonala tartósan átlag alattivá válik, illetményét a soron kívüli előresorolása szerinti fizetési fokozathoz tartozó alsó határnak megfelelő összegben kell megállapítani.
+(3) Ha – mindaddig, amíg a tisztviselő és az írnok szolgálati ideje nem éri el azt az időt, amely alapján a soron kívüli előresorolása szerinti fizetési fokozatba lépne – a teljesítményértékelés alapján megállapítható, hogy a tisztviselő és az írnok munkájának színvonala tartósan átlag alattivá válik, alapilletményét a soron kívüli előresorolása szerinti fizetési fokozathoz tartozó alsó határnak megfelelő összegben kell megállapítani.
 
 141. § (1) A Legfőbb Ügyészségen és az OKRI-nál dolgozó tisztviselőt és írnokot beosztási pótlék illeti meg.
 
@@ -1772,7 +1772,7 @@ cím adományozható.
 
 - a) az eljárás alá vont ügyészségi alkalmazottat az első meghallgatásakor ki kell oktatni az eljárással kapcsolatos jogaira;
 - b) a 96. § (2) bekezdésében foglaltakon túl a fegyelmi büntetés hatálya alatt álló tisztviselő, írnok magasabb fizetési osztályba nem sorolható és a fegyelmi büntetés hatálya miatt elmaradt magasabb fizetési osztályba történő besorolása a mentesülés vagy mentesítés időpontjában esedékes, az előresorolás időpontját – a fegyelmi büntetés hatálya miatti szünetelés figyelmen kívül hagyásával – az eredeti időponttól számítva kell megállapítani;
-- c) a fizikai alkalmazott esetében az egy fizetési fokozattal visszavetés fegyelmi büntetés helyett legfeljebb kétévi időtartamra alapilletmény csökkentés fegyelmi büntetést kell kiszabni; a csökkentés mértéke az alapilletmény öt százalékáig terjedhet;
+- c) kiemelt munkakörben foglalkoztatott tisztviselő esetében az egy, illetve két fizetési fokozattal visszavetés fegyelmi büntetés helyett a kiemelt munkakörré minősítés visszavonása fegyelmi büntetés szabható ki. Fizikai alkalmazott esetében az egy fizetési fokozattal visszavetés fegyelmi büntetés helyett legfeljebb egyévi, két fizetési fokozattal való visszavetés fegyelmi büntetés helyett legfeljebb kétévi időtartamra alapilletmény-csökkentés fegyelmi büntetést kell kiszabni, a csökkentés mértéke az alapilletmény öt százalékáig terjedhet;
 - d) az alacsonyabb munkakörbe helyezés a fegyelmi büntetés kiszabása előtti munkakörére előírt szintű képesítésnek megfelelő munkakörbe, illetve – ha a kinevezési követelmény alól korábban felmentést kapott – a tényleges képesítésének megfelelő munkakörbe történhet;
 - e) a hivatalvesztés fegyelmi büntetés helyett elbocsátás fegyelmi büntetést kell kiszabni;
 - f) a fegyelmi felelősségre vonásra a munkáltatói jogkör gyakorlója jogosult, ezt a jogát a járási ügyészséget vezető ügyészre átruházhatja;
@@ -1864,7 +1864,7 @@ kell érteni.
 
 155. § (1) E törvény alkalmazásában hozzátartozó: az egyeneságbeli rokon és ennek házastársa, az örökbefogadó, a nevelő- és a mostohaszülő, az örökbefogadott, a nevelt és a mostohagyermek, a testvér és ennek házastársa, a házastárs, a bejegyzett élettárs, az élettárs, valamint a házastárs és bejegyzett élettárs egyeneságbeli rokona és testvére.
 
-(2) Ahol e törvény a „ténylegesen dolgozott”, „ténylegesen működött”, „ténylegesen folytatott”, „ténylegesen szolgálati viszonyban töltött idő” kifejezéseket használja, azon olyan időszakokat kell érteni, amely alatt az ügyészségi alkalmazott, a tisztségre jelölt személy foglalkoztatási jogviszonyában illetményre, teljes vagy részösszegű távolléti díjra vagy átlagilletményre, illetve az említettekkel azonos munkabérre volt jogosult.
+(2) Ahol e törvény a „ténylegesen dolgozott”, „ténylegesen működött”, „ténylegesen folytatott”, „ténylegesen szolgálati viszonyban töltött idő” kifejezéseket használja, azon olyan időszakokat kell érteni, amely alatt az ügyészségi alkalmazott, a tisztségre jelölt személy foglalkoztatási jogviszonyában évi tizenöt munkanapot meghaladó keresőképtelenség vagy egészségügyi szabadság kivételével illetményre, teljes vagy részösszegű távolléti díjra vagy átlagilletményre, illetve az említettekkel azonos munkabérre volt jogosult.
 
 155/A. § (1) Ha az ügyészségi alkalmazottnak átlagilletményt kell fizetni, részére az átlagszámítás alapjául szolgáló időszakra (a továbbiakban: irányadó időszak) kifizetett illetmény, jutalom, valamint rendkívüli munkavégzésért és más munkakörbe tartozó munka elvégzéséért járó díjazás (a továbbiakban e §-ban együtt: javadalmazás) időarányosan számított átlaga jár.
 
@@ -2218,7 +2218,7 @@ V.
 
 – az ügyészségi szolgálati viszonyból származó kártérítési kötelezettsége,
 
-– minősítésének időpontja,
+– minősítésének időpontja, eredménye,
 
 – külföldi ösztöndíja,
 
@@ -2250,15 +2250,21 @@ Az állami készfizető kezességvállalással összefüggő adatok
 
 IX.
 
-– nemzetbiztonsági ellenőrzési kötelezettsége,
+– nemzetbiztonsági ellenőrzési kötelezettsége, esedékessége,
 
-– utolsó nemzetbiztonsági ellenőrzésének időpontja.
+– utolsó nemzetbiztonsági ellenőrzésének időpontja;
 
 X.
 
 – vagyonnyilatkozat-tételi kötelezettsége, esedékessége,
 
 – utolsó vagyonnyilatkozat tételének időpontja.
+
+XI.
+
+– időszakos munkaköri alkalmassági vizsgálatának esedékessége,
+
+– utolsó munkaköri alkalmassági vizsgálatának időpontja és eredménye.
 
 ### 4. melléklet a 2011. évi CLXIV. törvényhez
 
@@ -2336,14 +2342,41 @@ X.
 
 #### A Magyar Honvédség hivatásos állományába is tartozó ügyészségi alkalmazottak részére rendszeresített rendfokozatok
 
-| Rendfokozat | Beosztás megnevezése |
-| --- | --- |
-| Vezérőrnagy | főosztályvezető ügyész |
-| Dandártábornok | főosztályvezető-helyettes ügyész fellebbviteli főügyész főügyész főügyészhelyettes |
-| Ezredes | legfőbb ügyészségi osztályvezető ügyész legfőbb ügyészségi osztályvezető-helyettes ügyész legfőbb ügyészségi ügyész fellebbviteli főügyészhelyettes fellebbviteli főügyészségi osztályvezető ügyész főügyészségi osztályvezető ügyész legfőbb ügyészségi osztályvezető |
-| Alezredes | főügyészségi csoportvezető ügyész fellebbviteli főügyészségi ügyész főügyészségi ügyész legfőbb ügyészségi szakirányú felsőfokú iskolai végzettséggel rendelkező tisztviselő |
-| Őrnagy | alügyész legfőbb ügyészségi csoportvezető legfőbb ügyészségi irodavezető |
-| Százados | ügyészségi fogalmazó legfőbb ügyészségi tisztviselő |
-| Törzszászlós | főügyészségi vezető állású tisztviselő |
-| Zászlós | főügyészségi tisztviselő főügyészségi írnok |
-| Főtörzsőrmester | gépjárművezető |
+|  | A | B |
+| --- | --- | --- |
+| 1. | Rendfokozat | Beosztás megnevezése |
+| 2. | Vezérőrnagy | főosztályvezető ügyész |
+| 3. | Dandártábornok | főosztályvezető-helyettes ügyész |
+| 4. | fellebbviteli főügyész |
+| 5. | főügyész |
+| 6. | főügyészhelyettes |
+| 7. | Ezredes | legfőbb ügyészségi osztályvezető ügyész |
+| 8. | legfőbb ügyészségi osztályvezető-helyettes ügyész |
+| 9. | legfőbb ügyészségi csoportvezető ügyész |
+| 10. | legfőbb ügyészségi ügyész |
+| 11. | fellebbviteli főügyészhelyettes |
+| 12. | fellebbviteli főügyészségi osztályvezető ügyész |
+| 13. | főügyészségi osztályvezető ügyész |
+| 14. | járási vezető ügyész |
+| 15. | legfőbb ügyészségi osztályvezető |
+| 16. | Alezredes | főügyészségi csoportvezető ügyész |
+| 17. | fellebbviteli főügyészségi ügyész |
+| 18. | főügyészségi ügyész |
+| 19. | járási vezetőhelyettes ügyész |
+| 20. | járási ügyészségi csoportvezető ügyész |
+| 21. | járási ügyészségi ügyész |
+| 22. | legfőbb ügyészségi szakirányú felsőfokú iskolai végzettséggel rendelkező tisztviselő |
+| 23. | Őrnagy | alügyész |
+| 24. | legfőbb ügyészségi csoportvezető |
+| 25. | legfőbb ügyészségi irodavezető |
+| 26. | Százados | ügyészségi fogalmazó |
+| 27. | legfőbb ügyészségi nem szakirányú felsőfokú iskolai végzettséggel rendelkező tisztviselő |
+| 28. | Törzszászlós | fellebbviteli főügyészségi vezető állású tisztviselő |
+| 29. | főügyészségi vezető állású tisztviselő |
+| 30. | járási ügyészségi vezető állású tisztviselő |
+| 31. | legfőbb ügyészségi felsőfokú iskolai végzettséggel nem rendelkező tisztviselő |
+| 32. | Zászlós | fellebbviteli főügyészségi tisztviselő |
+| 33. | főügyészségi tisztviselő |
+| 34. | járási ügyészségi tisztviselő |
+| 35. | írnok |
+| 36. | Főtörzsőrmester | gépjárművezető |

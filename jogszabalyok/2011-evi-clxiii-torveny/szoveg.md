@@ -553,7 +553,7 @@ közvetlenül kötődő személyi és tárgyi vonatkozású kiadások.
 
 #### 8. Egyeshatósági eljárásokhoz és intézményekhez kapcsolódó ügyészi feladatok
 
-29. § (1) Az ügyész ellenőrzi a közigazgatási hatóságok, valamint a bíróságon kívüli más jogalkalmazó szervek által hozott egyedi, bíróság által felül nem bírált jogerős, végleges vagy végrehajtható döntések, valamint hatósági intézkedések törvényességét.
+29. § (1) Az ügyész ellenőrzi a közigazgatási hatóságok, valamint – a bíróságok és a választottbíróságok kivételével – a jogvitát elbíráló szervek által hozott egyedi, bíróság által felül nem bírált jogerős, végleges vagy végrehajtható döntések, valamint hatósági intézkedések törvényességét.
 
 (2) Ha törvény másképp nem rendelkezik, az ügyész a közigazgatási hatósági döntés érdemére kiható törvénysértés esetén a jogerőre emelkedéstől, véglegessé válástól vagy a végrehajtás elrendelésétől számított legfeljebb egy éven belül, kötelezettséget megállapító, jogot elvonó vagy korlátozó döntés esetén a végrehajtáshoz való jog elévüléséig, követelés biztosítását vagy dolog zárlatát elrendelő döntéssel szemben mindaddig, amíg ez az állapot fennáll, felhívással él a törvénysértés megszüntetése érdekében.
 
@@ -646,7 +646,7 @@ kezelheti.
 
 (2) Az ügyészség a büntetőjogi tevékenysége során átveheti és kezelheti az ügyészség közérdekvédelmi tevékenysége során kezelt személyes, különleges és bűnügyi személyes adatot, amely a büntető, büntetőeljárási és büntetés-végrehajtási jogszabályok alkalmazása szempontjából jelentős tények megállapításához szükséges.
 
-(3) Az ügyészség a közérdekvédelmi tevékenysége során a bíróságtól, az eljárással érintett szervtől vagy személytől, valamint az egyéb olyan szervtől, személytől, amelyet törvény arra kötelez, hogy az ügyész megkeresésére adatot szolgáltasson, átveheti és kezelheti a tevékenysége ellátásához szükséges személyes, különleges és bűnügyi személyes adatot. Ezen adatokat, valamint a közérdekvédelmi tevékenysége során keletkezett vagy az érintettől származó adatot a bíróság vagy hatóság részére továbbíthatja, ha az szükséges az ügyész által indítható polgári peres és nemperes eljárásokban az eljárás megindításához, az eljárás szempontjából jelentős tények megállapításához, a hatóság nem kizárólag kérelemre megindítható eljárásának megindításához, a hatóság eljárása szempontjából jelentős tények megállapításához vagy az ügyészséghez érkezett kérelem, panasz kivizsgálásához.
+(3) Az ügyészség a közérdekvédelmi tevékenysége során a bíróságtól, az eljárással érintett szervtől vagy személytől, valamint az egyéb olyan szervtől, személytől, amelyet törvény arra kötelez, hogy az ügyész megkeresésére adatot szolgáltasson, átveheti és kezelheti a tevékenysége ellátásához szükséges személyes, különleges és bűnügyi személyes adatot. Ezen adatokat, valamint a közérdekvédelmi tevékenysége során keletkezett vagy az érintettől származó adatot a bíróság vagy hatóság részére továbbíthatja, ha az szükséges az ügyész által indítható polgári peres és nemperes eljárásban, közigazgatási perben, illetve az egyéb közigazgatási bírósági eljárásban az eljárás megindításához, az eljárás szempontjából jelentős tények megállapításához, a hatóság nem kizárólag kérelemre megindítható eljárásának megindításához, a hatóság eljárása szempontjából jelentős tények megállapításához vagy az ügyészséghez érkezett kérelem, panasz kivizsgálásához.
 
 (4) A közérdekvédelmi tevékenysége során keletkező és általa kezelt adatokról az ügyészség az érintettnek tájékoztatást nyújt, kérelemre adathelyesbítést végez.
 

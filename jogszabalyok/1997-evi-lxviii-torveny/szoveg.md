@@ -123,11 +123,11 @@ gyakorolja.
   - aa) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
   - ab) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
   - ac) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
-  - ad) szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
+  - ad) szándékos bűncselekmény miatt kiszabott elzárás, közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított öt évig,
   - ae) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a mentesítés beálltától számított három évig,
   - af) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
   - ag) gondatlan bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított öt évig,
-  - ah) gondatlan bűncselekmény miatt kiszabott közérdekű munka esetén a mentesítés beálltától számított három évig,
+  - ah) gondatlan bűncselekmény miatt kiszabott elzárás vagy közérdekű munka esetén a mentesítés beálltától számított három évig,
 - b) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - c) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 - d) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll.
@@ -910,6 +910,8 @@ nem haladhatja meg.
 (2) Az előmenetelben történő várakozási időt egy vagy két évvel lehet meghosszabbítani.
 
 (3) Az (1) bekezdés b)–c) pontjaiban foglalt fegyelmi büntetések kiszabása esetén a következő fizetési fokozat eléréséhez, illetve az eredeti fizetési fokozatba való visszahelyezéshez szükséges várakozási időt a határozat jogerőre emelkedésének napjától kell számítani.
+
+(3a) Azon igazságügyi alkalmazott esetében, akinek az illetménye az Mt. alapján került megállapításra, az (1) bekezdés b) pontjában foglalt fegyelmi büntetés helyett kétévi időtartamra illetményemelés elmaradása, az (1) bekezdés c) pontjában foglalt fegyelmi büntetés helyett legfeljebb kétévi időtartamra illetménycsökkentés fegyelmi büntetést kell kiszabni. Az illetménycsökkentés mértéke az illetmény öt százalékáig terjedhet.
 
 (4) Kivételesen indokolt esetben az (1) bekezdés b)–d) pontjaiban foglalt fegyelmi büntetések végrehajtása egy év próbaidőre felfüggeszthető. Ha a próbaidő eredményesen eltelt, ezt úgy kell tekinteni, mintha az igazságügyi alkalmazott fegyelmi büntetésben nem részesült volna. Ha a próbaidő alatt az igazságügyi alkalmazott ellen újabb fegyelmi eljárás indult és vele szemben – a hivatalvesztést vagy az elbocsátást kivéve – újabb fegyelmi büntetést szabtak ki, a felfüggesztett fegyelmi büntetést is végre kell hajtani.
 

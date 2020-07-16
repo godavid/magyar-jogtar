@@ -140,7 +140,9 @@ a közjegyzőkről
 
 (2) A közjegyzői önkormányzat működésével felmerülő kiadásokat a közjegyzők által fizetett kamarai hozzájárulás fedezi.
 
-(3) A közjegyző és a közjegyzőhelyettes az önkormányzati tisztségekre választhat és választható.
+(3) A területi kamara elnökének, a területi kamara elnöksége tagjainak, valamint a Magyar Országos Közjegyzői Kamara választmánya tagjainak megválasztása során közjegyző csak közjegyzőre, közjegyzőhelyettes pedig csak közjegyzőhelyettesre szavazhat.
+
+(3a) A közjegyző és a közjegyzőhelyettes – ha törvény eltérően nem rendelkezik – minden más önkormányzati tisztségre a (3) bekezdésben foglalt korlátozás nélkül választhat és választható.
 
 (4) A közjegyzői önkormányzat szerveiben a választójog és a szavazati jog csak személyesen gyakorolható.
 
@@ -1152,7 +1154,7 @@ foglalt kötelezettségek teljesítését.
 
 (2) A fegyelmi tanács 5 tagú, elnöke bíró, 1 tagja bíró, 3 tagja közjegyző.
 
-(3) A fegyelmi tanács munkájának előkészítését, a vizsgálat lefolytatását vizsgálóbiztos végezheti.
+(3) A fegyelmi tanács munkájának előkészítését, a vizsgálat lefolytatását vizsgálóbiztos végzi.
 
 81. § Fegyelmi bíróként vagy vizsgálóbiztosként nem járhat el
 
@@ -1472,6 +1474,8 @@ foglalt kötelezettségek teljesítését.
 
 (5) A segédszemély elsősorban annak a személynek a felkérésére működik közre, akinek a személye miatt a segédszemély alkalmazása szükségessé vált. Segédszemély lehet – a közjegyző engedélye esetén – a közjegyző (közjegyzői iroda) alkalmazottja is.
 
+(6) A közjegyzői okiratra a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:7. § (4) és (5) bekezdését nem kell alkalmazni.
+
 118. § Ha a papíralapú közjegyzői okirat több lapból áll, ezeket zsinórral össze kell fűzni, és a közjegyző bélyegzőjével kell megerősíteni. A közjegyzői okirat mellékleteit, melyek az okirat részét képezik, ugyanígy kell az okirathoz fűzni. Ha a melléklet erre nem alkalmas, azt a közjegyzői okirat ügyszámával ellátva az okirathoz csatolva kell őrizni.
 
 119. § (1) A közjegyzői okirat eredeti példányát az a közjegyző őrzi, aki készítette. A felek az okirat hiteles kiadmányát vagy egyszerű másolatát kapják meg.
@@ -1673,6 +1677,8 @@ kommunikálhat.
 (3) A fordításnak az eredetivel való megegyezését a közjegyző a fordítás végén záradékkal tanúsítja.
 
 139. § (1) A közjegyző névaláírás vagy kézjegy valódiságát akkor tanúsítja, ha a fél az okiratot a közjegyző előtt írja alá, vagy az okiraton levő aláírást a közjegyző előtt a sajátjának ismeri el.
+
+(1a) Az aláírás és kézjegy valódisága tanúsításának a Pp. 325. § (1) bekezdés c) pontja szerinti joghatása kiváltásához a Pp. 325. § (2) bekezdése szerinti eljárás lefolytatása szükséges.
 
 (2) A fél személyazonosságáról a közjegyző a tanúsítvány kiadása előtt meggyőződik.
 
@@ -1980,6 +1986,8 @@ kommunikálhat.
 (5) E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel módosított 69. § (4) bekezdését az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvény hatálybalépését megelőzően megkezdődött szünetelés tekintetében is alkalmazni kell.
 
 (6) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvény hatálybalépését megelőzően készült közjegyzői okiratot a 131. §, illetve 147/A. § alkalmazása során akkor is közokiratnak kell tekinteni, ha az e törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvény hatálybalépését követően hatályos rendelkezéseinek megfelel.
+
+(7) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi XCII. törvénnyel megállapított 79/A. § (1) bekezdés szerinti ügyrendet 2020. augusztus 31-ig el kell fogadni azzal, hogy az ügyrend legkorábban 2020. szeptember 1-jén léphet hatályba. A 79/A. § (4) bekezdése szerinti tájékoztatót első alkalommal a 2022. évben kell elfogadni.
 
 ### Felhatalmazás
 

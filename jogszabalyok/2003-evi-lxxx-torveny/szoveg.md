@@ -473,7 +473,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 59. § A támogatás nyilvántartása a következő adatokat is tartalmazza:
 
 - a) a bíróság megnevezése, a per ügyszáma, a felek neve és a per tárgya,
-- b) a fél helyett előlegezett pártfogó ügyvédi díj összege,
+- b) a fél helyett előlegezett pártfogó ügyvédi díj, illetve ha annak jogszabályban foglalt feltételei fennállnak, a pártfogó ügyvédi díj eljárási előlegének (a továbbiakban: eljárási előleg) összege,
 - c) a visszatérítésre köteles perbeli ellenfél adatai (név, anyja neve, születési időpont, lakóhely; szervezet esetében elnevezés, székhely, nyilvántartást vezető szerv, nyilvántartási szám).
 
 ### Eljárás az Európai Unió tagállamába irányuló jogi segítségnyújtás iránti kérelem előterjesztése esetén
@@ -529,8 +529,9 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 62. § (1) A támogatás engedélyezésének ügyében eljárt jogi segítségnyújtó szolgálat a pártfogó ügyvéd kérelmére
 
 - a) megállapítja a pártfogó ügyvédi díj, illetve a fél helyett az állam által kifizetendő pártfogó ügyvédi díj összegét;
-- b) ha annak külön jogszabályban foglalt feltételei fennállnak, megállapítja a pártfogó ügyvéd részére fizetendő pártfogó ügyvédi díjelőleg összegét;
-- c) ha a pártfogó ügyvédi díj viselésére nem az állam köteles, kötelezi a pártfogó ügyvédi díj viselésére köteles perbeli ellenfelet a díj pártfogó ügyvéd részére történő megfizetésére, levonva belőle a (3) bekezdés szerinti pártfogó ügyvédi díjelőleg összegét.
+- b) ha annak jogszabályban foglalt feltételei fennállnak, a pártfogó ügyvéd részére eljárási előleget állapít meg;
+- c) ha annak jogszabályban foglalt feltételei fennállnak, a pártfogó ügyvéd részére pártfogó ügyvédi díjelőleget állapít meg;
+- d) ha a pártfogó ügyvédi díj viselésére nem az állam köteles, kötelezi a pártfogó ügyvédi díj viselésére köteles perbeli ellenfelet a díj pártfogó ügyvéd részére történő megfizetésére, levonva belőle a (4) bekezdés szerinti pártfogó ügyvédi díjelőleg összegét.
 
 (2) Ha a fél a pártfogó ügyvédi díj visszatérítésére köteles, a jogi segítségnyújtó szolgálat kötelezi az előlegezett pártfogó ügyvédi díj visszatérítésére. A visszatérítésre legfeljebb egyéves határidő biztosítható, e határidőn belül pedig a részletekben történő teljesítés is engedélyezhető.
 
@@ -543,6 +544,14 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 (6) A díj megállapítására irányuló eljárásról a felet és perbeli ellenfelét értesíteni nem kell.
 
 (7) A határozat véglegessé válását vagy jogerőre emelkedését követően a jogi segítségnyújtó szolgálat intézkedik a fél helyett az állam által kifizetendő (előlegezendő) pártfogó ügyvédi díj kifizetése iránt; a díj kifizetése a célelőirányzat terhére történik.
+
+62/A. § (1) A határon átnyúló tartási ügyekben a pártfogó ügyvéd az eljárási előleg megállapítása iránti kérelmét a végrehajtás elrendelését követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazolja, hogy a végrehajtás elrendeléséről szóló tájékoztatást 60 napon belül vette kézhez. Ha a határon átnyúló tartási ügyben a végrehajtás elrendeléséig több pártfogó ügyvéd járt el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására az eljárási előleg megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel terjesztheti elő.
+
+(2) Az eljárási előleg megállapítására irányuló eljárásról a felet értesíteni nem kell.
+
+(3) Az eljárási előleg megállapításáról rendelkező határozat véglegessé válását követően a jogi segítségnyújtó szolgálat intézkedik az eljárási előleg kifizetése iránt; az eljárási előleg kifizetése a célelőirányzat terhére történik.
+
+(4) A jogi segítségnyújtó szolgálat a pártfogó ügyvédi díj visszatérítésére kötelező határozatában az eljárási előleg visszatérítéséről is rendelkezik a pártfogó ügyvédi díj visszafizetésére kötelezett fél terhére.
 
 ### VII. Fejezet — A BÜNTETŐELJÁRÁSOKBAN NYÚJTOTT TÁMOGATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -576,17 +585,17 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 (10) A támogatás nyilvántartása a 34. §-ban foglaltakon túl a következő adatokat is tartalmazza:
 
 - a) a büntetőeljárást folytató bíróság, ügyészség, nyomozó hatóság megnevezése, a büntetőeljárás ügyszáma, a felek neve és a bűncselekmény, amely miatt a büntetőeljárás folyik,
-- b) a fél helyett előlegezett pártfogó ügyvédi díj, illetve a pártfogó ügyvédi díj eljárási előlegének (a továbbiakban: eljárási előleg) összege,
+- b) a fél helyett előlegezett pártfogó ügyvédi díj, illetve az eljárási előleg összege,
 - c) a visszatérítésre köteles terhelt adatai (név, anyja neve, születési hely és idő, lakóhely; szervezet esetében elnevezés, székhely, nyilvántartást vezető szerv, nyilvántartási szám),
 - d) a fél helyett előlegezett és viselt kirendelt védői díj és költség összege.
 
-63/A. § (1) A támogatás engedélyezésének ügyében eljárt jogi segítségnyújtó szolgálat a pártfogó ügyvéd kérelmére, ha annak jogszabályban foglalt feltételei fennállnak, a pártfogó ügyvéd részére eljárási előleget állapít meg.
+63/A. § (1)
 
 (2) A pártfogó ügyvéd az eljárási előleg megállapítása iránti kérelmét a vádemelést követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazolja, hogy a vádemelésről szóló tájékoztatást 60 napon belül vette kézhez. Ha a büntetőeljárásban a vádemelésig több pártfogó ügyvéd járt el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására az eljárási előleg megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel terjesztheti elő.
 
 (3) Az eljárási előleg megállapítására irányuló eljárásról a támogatott felet és a terheltet értesíteni nem kell.
 
-(4) Az eljárási előleg megállapításáról rendelkező határozat véglegessé válását vagy jogerőre emelkedését követően a jogi segítségnyújtó szolgálat intézkedik az eljárási előleg kifizetése iránt; az eljárási előleg kifizetése a célelőirányzat terhére történik.
+(4)
 
 (5) A pártfogó ügyvéd a díjának megállapítása iránti kérelmét a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követő 6 hónapon belül terjesztheti elő, ezt követően pedig akkor, ha igazolja, hogy a pártfogó ügyvédi díj viseléséről szóló határozatot 6 hónapon belül vette kézhez. Ha a büntetőeljárásban több pártfogó ügyvéd járt el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására a díjának megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel terjesztheti elő.
 
@@ -615,7 +624,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (3) A (2) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a jogi segítő kéri – a (2) bekezdés szerinti határidőben értesíti a jogi segítségnyújtó szolgálatot.
 
-66. § (1) A névjegyzékbe felvételre kerül a jogi segítségnyújtó szolgálattal jogi segítői feladatok ellátására szolgáltatási szerződést kezdeményező adatlapot visszaküldő
+66. § (1) A névjegyzékbe felvételre kerül a jogi segítségnyújtó szolgálattal jogi segítői feladatok ellátására szolgáltatási szerződést kezdeményező adatlapot benyújtó
 
 - a) jogvédelemmel foglalkozó egyesület, alapítvány, nemzetiségi önkormányzat, jogi oktatást végző egyetem (a továbbiakban e Fejezetben együtt: jogi segítő szervezet),
 - b) ügyvéd, ügyvédi iroda és a tevékenységét Magyarországon állandó jelleggel végző európai közösségi jogász (a továbbiakban együtt: ügyvéd).
@@ -641,7 +650,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (3) A szolgáltatási szerződés hároméves időtartamra köthető; módosítására akkor van lehetőség, ha a jogi segítő névjegyzékben szerepelő adataiban változás következett be, vagy ha szakterületét kívánja módosítani, illetve a havonta ellátni vállalt ügyek számát emelni.
 
-(4)
+(4) A szolgáltatási szerződés módosítása elektronikus kapcsolattartás útján kezdeményezhető. Az elektronikus úton való kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) rendelkezéseit kell alkalmazni.
 
 (5) A szolgáltatási szerződés tartama alatt elvállalt ügyekben a szerződés megszűnését követően is köteles a jogi segítő – a támogatás hatályának fennálltáig – a szolgáltatási szerződésben foglaltak szerinti jogi szolgáltatást teljesíteni, a jogi segítségnyújtó szolgálat pedig a jogi szolgáltatásért járó díjazást a szerződés szerint megfizetni.
 
@@ -649,7 +658,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 68. § (1) Jogi segítőként a névjegyzékben szereplő ügyvéd és a jogi segítő szervezet megbízásából tevékenykedő ügyvéd olyan jogi szolgáltatások nyújtását végezheti, amely a tevékenységére vonatkozó jogszabályok alapján hatáskörébe tartozik, és e jogszabályok irányadóak a jogi szolgáltatás nyújtásáért fennálló szakmai, etikai, fegyelmi és anyagi felelősségére is.
 
-(2) Pártfogó ügyvédi képviseletet a névjegyzékben szereplő ügyvéd és – a (3) bekezdésben foglalt kivétellel – jogi segítő szervezet láthat el, amennyiben rendelkezik a bíróságokkal való elektronikus kapcsolattartáshoz szükséges technikai feltételekkel. A névjegyzékben szereplő jogi segítő szervezet büntetőeljárásban akkor láthatja el a sértett, a magánvádló, a pótmagánvádló és a magánfél pártfogó ügyvédi képviseletét, ha megfelel a Be. 61. § (3) bekezdés e) pontja szerinti feltételeknek, egyéb személyek pártfogó ügyvédjeként büntetőeljárásban nem járhat el.
+(2) Pártfogó ügyvédi képviseletet a névjegyzékben szereplő ügyvéd és – a (3) bekezdésben foglalt kivétellel – jogi segítő szervezet láthat el. A névjegyzékben szereplő jogi segítő szervezet büntetőeljárásban akkor láthatja el a sértett, a magánvádló, a pótmagánvádló és a magánfél pártfogó ügyvédi képviseletét, ha megfelel a Be. 61. § (3) bekezdés e) pontja szerinti feltételeknek, egyéb személyek pártfogó ügyvédjeként büntetőeljárásban nem járhat el.
 
 (3) Ha az egyetem a jogi segítői tevékenységének folytatására nem rendelkezik ügyvéd megbízottal, jogi segítői tevékenységére e törvény rendelkezései a következő eltérésekkel alkalmazandók:
 
@@ -671,7 +680,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (3) A büntetőügyekben történő jogi segítségnyújtásra kötelezettséget vállaló jogi segítő büntetőügyben lát el pártfogó ügyvédi képviseletet, a 3. § (1) bekezdésének g) pontjában meghatározott szolgáltatást nyújtja, továbbá büntetőügyben rendkívüli jogorvoslati kérelmet készít.
 
-(4) A polgári és közigazgatási ügyekben történő jogi segítségnyújtásra kötelezettséget vállaló jogi segítő polgári és közigazgatási lát el pártfogó ügyvédi képviselet és – a sértettek jogvédelme [3. § (1) bek. g) pontja], valamint büntetőügyekben rendkívüli jogorvoslati kérelmek készítése kivételével – peren kívüli szolgáltatásokat nyújt.
+(4) A polgári és közigazgatási ügyekben történő jogi segítségnyújtásra kötelezettséget vállaló jogi segítő polgári és közigazgatási ügyben lát el pártfogó ügyvédi képviselet és – a sértettek jogvédelme [3. § (1) bek. g) pontja], valamint büntetőügyekben rendkívüli jogorvoslati kérelmek készítése kivételével – peren kívüli szolgáltatásokat nyújt.
 
 (5) A jogi segítő szervezet a (2) bekezdés a) vagy b) pontjában foglalt szakterületen belül megjelölheti, hogy milyen típusú ügyekben, illetve milyen ügyfélkör számára nyújt jogi szolgáltatásokat.
 
@@ -700,13 +709,13 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - b) a jogi segítő a jogi szolgáltatást a 70. § (1) bekezdés b) pontja alapján legalább három alkalommal alaptalanul megtagadta, vagy
 - c) a jogi segítségnyújtó szolgálat hivatalos tudomást szerez arról, hogy a jogi segítő szervezet a jogi szolgáltatást nem a 66. § (2) bekezdése szerint vele szerződött ügyvéd útján nyújtja.
 
-(4) A jogi segítő a szerződést akkor mondhatja fel, ha a névjegyzékbe történő felvétel feltételei megszűntek, vagy ha a jogi segítői névjegyzékbe felvett ügyvéd igazolja, hogy a szolgáltatási szerződésből eredő kötelezettségek teljesítése egyéb ügyvédi tevékenységének végzését lehetetlenné teszi.
+(4) A jogi segítő a szerződést akkor mondhatja fel, ha a névjegyzékbe történő felvétel feltételei megszűntek, vagy ha a jogi segítői névjegyzékbe felvett ügyvéd igazolja, hogy a szolgáltatási szerződésből eredő kötelezettségek teljesítése egyéb ügyvédi tevékenységének végzését lehetetlenné teszi. A jogi segítő a szerződés felmondását tartalmazó nyilatkozatát elektronikus kapcsolattartás útján nyújtja be a jogi segítségnyújtó szolgálatnak. Az elektronikus úton való kapcsolattartásra az E-ügyintézési törvény rendelkezéseit kell alkalmazni.
 
 ### A névjegyzékbe vételi eljárás
 
-71/A. § (1) A névjegyzékbe vétel iránti kérelmet írásban a jogi segítségnyújtó szolgálatnál lehet előterjeszteni.
+71/A. § (1) A névjegyzékbe vétel a jogi segítségnyújtó szolgálatnál, a szolgáltatási szerződés megkötését kezdeményező adatlap elektronikus kapcsolattartás útján való benyújtásával kérhető. Az elektronikus úton való kapcsolattartásra az E-ügyintézési törvény rendelkezéseit kell alkalmazni.
 
-(2) A 66. §-ban foglalt feltételeknek megfelelő kérelmező részére a jogi segítségnyújtó szolgálat harminc napon belül aláírás céljából megküldi a szolgáltatási szerződés megkötését kezdeményező adatlapot. Ha a visszaküldött adatlap valamennyi szükséges adatot tartalmazza, a jogi segítségnyújtó szolgálat annak beérkezését követő tizenöt napon belül felveszi a kérelmezőt a névjegyzékbe. A jogi segítségnyújtó szolgálat a névjegyzékbe vételről a jogi segítőt a névjegyzékbe vétel időpontjának megjelölésével értesíti.
+(2) Ha a 66. §-ban foglalt feltételeknek megfelelő kérelmező által benyújtott szolgáltatási szerződés megkötését kezdeményező adatlap valamennyi szükséges adatot tartalmazza, a jogi segítségnyújtó szolgálat annak beérkezését követő nyolc napon belül felveszi a kérelmezőt a névjegyzékbe. A jogi segítségnyújtó szolgálat a névjegyzékbe vételről a jogi segítőt a névjegyzékbe vétel időpontjának megjelölésével értesíti.
 
 ## IV. RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
