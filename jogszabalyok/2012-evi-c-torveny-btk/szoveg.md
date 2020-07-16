@@ -6117,7 +6117,8 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - l) a hivatásos vadász a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben meghatározott tevékenysége körében,
   - m) a halászati őr a halászatról és a horgászatról szóló törvényben meghatározott tevékenysége körében,
   - n) a közösségi közlekedési eszközt működtető gazdálkodó szervezetnél végrehajtói feladatot ellátó személy e tevékenysége során,
-  - o) az egyetemes postai szolgáltatónál ügyfélkapcsolati feladatot ellátó személy e tevékenysége során;
+  - o) az egyetemes postai szolgáltatónál ügyfélkapcsolati feladatot ellátó személy e tevékenysége során,
+  - p) az iskolaőr a Rendőrségről szóló törvényben meghatározott tevékenysége körében.
 - 13. külföldi hivatalos személy:
   - a) a külföldi államban jogalkotási, igazságszolgáltatási, közigazgatási vagy bűnüldözési feladatot ellátó személy,
   - b) törvényben kihirdetett nemzetközi szerződéssel létrehozott nemzetközi szervezetnél szolgálatot teljesítő személy, akinek a tevékenysége a szervezet rendeltetésszerű működéséhez tartozik,
