@@ -1522,7 +1522,7 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (2) A sportpolitikáért felelős miniszter a járadékot a jogosulttá válás időpontjától kezdődően – a jogosulttá válás és a folyósítás időpontja közötti időtartamra jegybanki alapkamattal növelt értékben – folyósítja.
 
-(3) Élete végéig járadékra jogosult az érmes halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az érmessel annak házastársaként a halála időpontjában és legalább az azt megelőző tíz évben megszakítás nélkül közös háztartásban élt.
+(3) Élete végéig járadékra jogosult az érmes halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az érmessel annak házastársaként a halála időpontjában és legalább az azt megelőző öt évben megszakítás nélkül közös háztartásban élt.
 
 (4) Élete végéig járadékra jogosult az érmes járadékra jogosultságának időpontjától – vagy amennyiben az korábbi időpont, a negyvenötödik életéve betöltését követő hónap 1. napjától – az érmes edzője, az érmes járadékra jogosultságának megállapítására tekintet nélkül.
 
@@ -1557,7 +1557,7 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (2) Az érmes valamennyi, 59. § (1) bekezdése szerinti helyezése után jogosult a helyezés után az (1) bekezdés szerint járó teljes összegre.
 
-(3) Az érmes özvegye az érmes járadéka fele részének megfelelő özvegyi járadékra jogosult.
+(3) Az érmes özvegye az érmes járadéka fele részének megfelelő özvegyi járadékra jogosult. Az érmes özvegye az érmes járadékának teljes összegére jogosult közös kiskorú gyermekük nagykorúvá válásáig.
 
 (4) Az edző járadékát az edzői járadék alapját képező érmesi helyezés alapján kell megállapítani. Az edzői járadék az érmesi helyezés után járó járadék összegével megegyező mértékű. A labdajáték-csapatsportokban az olimpiára felkészítő szövetségi kapitány járadéka megegyező mértékű az irányítása alatt érmet, érmeket szerzett csapat legeredményesebb sportolóját megillető járadék összegével. Egyéni sportágakban a szövetségi kapitány edzői járadéka megegyező mértékű az irányítása alatt érmet, érmeket szerzett legeredményesebb sportolója legjobb helyezése után járó járadék összegével. Ugyanaz a személy nem részesülhet edzőként és szövetségi kapitányként is járadékban.
 
@@ -2172,6 +2172,10 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
 78/M. § (1) E törvénynek a sportról szóló 2004. évi I. törvény olimpiai járadékkal összefüggő módosításáról szóló 2018. évi CVII. törvénnyel (a továbbiakban: Módtv6.) megállapított 60. § (2), (4) és (6) bekezdését a Módtv6. hatálybalépését megelőzően elért helyezés után megállapított jogosultság esetén a Módtv6. hatálybalépését követően esedékessé váló járadék tekintetében is alkalmazni kell azzal, hogy a járadék e bekezdés szerinti megállapítására a jogosult kérelme alapján kerül sor. A Módtv6. hatálybalépésétől az e bekezdés alapján megváltozott összegű járadék folyósításáig terjedő átmeneti időszakra eső esetleges különbözet – jegybanki alapkamattal növelt értékben – a megváltozott összegű járadékkal együtt kerül folyósításra.
 
 (2) A Módtv6. hatálybalépésekor özvegyi járadékra jogosult a Módtv6. hatálybalépését követően az elhunyt érmes valamennyi helyezése után, a 60. § (3) bekezdése és Módtv6.-tal megállapított 60. § (2) bekezdése alapján jogosult járadékra azzal, hogy a járadék e bekezdés szerinti megállapítására irányuló közigazgatási hatósági eljárás megindítására a jogosult kérelme alapján kerül sor. A Módtv6. hatálybalépésétől az e bekezdés alapján megváltozott összegű járadék folyósításáig terjedő átmeneti időszakra eső esetleges különbözet – jegybanki alapkamattal növelt értékben – a megváltozott összegű járadékkal együtt kerül folyósításra.
+
+78/N. § (1) Amennyiben a sportról szóló 2004. évi I. törvény olimpiai járadékkal összefüggő módosításáról szóló 2020. évi XCIV. törvény (a továbbiakban: Módtv7.) hatálybalépésekor az özvegyi járadékra jogosult a Módtv7. hatálybalépését követően a Módtv7.-tel megállapított 60. § (3) bekezdése alapján teljes összegű járadékra jogosult, a járadék e bekezdés szerinti megállapítására irányuló közigazgatási hatósági eljárás megindítására a jogosult kérelme alapján kerül sor. A Módtv7. hatálybalépésétől az e bekezdés alapján megváltozott összegű járadék folyósításáig terjedő átmeneti időszakra eső esetleges különbözet – jegybanki alapkamattal növelt értékben – a megváltozott összegű járadékkal együtt kerül folyósításra.
+
+(2) Amennyiben az érmes özvegye a Módtv7. hatálybalépésekor a Módtv7.-tel megállapított 59. § (3) bekezdése alapján özvegyi járadékra válik jogosulttá, az özvegyi járadék a Módtv7. hatálybalépését követően jár azzal, hogy a járadék e bekezdés szerinti megállapítására a jogosult kérelme alapján kerül sor.
 
 ### Felhatalmazó rendelkezések
 

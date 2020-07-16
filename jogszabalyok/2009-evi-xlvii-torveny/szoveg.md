@@ -885,7 +885,11 @@ miatt megalapozott gyanút közöltek.
   - jb) a 16. § (1) bekezdés c) pont ca), cb) alpontjában, f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
   - jc) a 23. § c), f) és g) pontjában meghatározott adatok;
 - k) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok;
-- l) határ-ellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
+- l) határ-ellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat;
+- m) az iskolaőr tevékenységének ellátását kizáró közbiztonsági feltételek ellenőrzése céljából
+  - ma) a 11. § (1) bekezdés c) pont ca) és cb) alpontjában, e), h), i) pontjában meghatározott adatok,
+  - mb) a 16. § (1) bekezdés c) pont ca) és cb) alpontjában, f), g), i) pontjában meghatározott adatok, valamint
+  - mc) a 23. § c), f) és g) pontjában meghatározott adatok.
 
 (3)
 

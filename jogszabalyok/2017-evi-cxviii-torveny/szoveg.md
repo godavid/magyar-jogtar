@@ -281,7 +281,7 @@ a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, val
 - c) a kapcsolattartást kellő indok nélkül akadályozza vagy
 - d) egyéb módon meghiúsítja a gyermekkel való zavartalan kapcsolattartást.
 
-22/C. § (1) A bíróság a kapcsolattartásra vonatkozó határozat végrehajtásának elrendelése tárgyában szükség esetén meghallgatást tart. A meghallgatásra szabályszerűen megidézetteknek a távolmaradása a meghallgatás megtartását és a végrehajtás elrendelése tárgyában való döntés meghozatalát nem gátolja.
+22/C. § (1) A bíróság a kapcsolattartásra vonatkozó határozat végrehajtásának elrendelése tárgyában szükség esetén meghallgatást tart. A meghallgatásra szabályszerűen megidézetteknek a távolmaradása a meghallgatás megtartását és a végrehajtás elrendelése tárgyában való döntés meghozatalát nem gátolja. A bíróság az általa szükségesnek talált bizonyítást hivatalból is elrendelheti. A kérelem elbírálása során a bíróság soron kívül jár el.
 
 (2) Ha a bíróság megállapítja, hogy a kérelmezett megszegte a kapcsolattartásra vonatkozó határozatban foglaltakat, elrendeli a végrehajtást. A bíróság a végrehajtást elrendelő végzésben a kérelmezettet felhívja, hogy
 
@@ -289,15 +289,15 @@ a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, val
 - b) a kapcsolattartásra jogosultnak fel nem róható okból elmaradt kapcsolattartás pótlását a legközelebbi megfelelő időpontban, de legkésőbb hat hónapon belül biztosítsa, és megjelöli a pótlás végső határidejét vagy
 - c) ha a kapcsolattartásnak egyéb, a kapcsolattartásra jogosultnak fel nem róható akadálya volt, annak elhárulását követően biztosítsa a gyermekkel való zavartalan kapcsolattartást.
 
-(3) A végrehajtást elrendelő végzésben figyelmeztetni kell a kérelmezettet a felhívás nemteljesítésének 22/D. § (2) bekezdése szerinti jogkövetkezményeire.
+(3) A végrehajtást elrendelő végzésben figyelmeztetni kell a kérelmezettet a felhívás önhibából történő nemteljesítésének 22/D. § (2) bekezdése szerinti jogkövetkezményeire.
 
-(4) A bíróság erre irányuló kérelem esetén kötelezi a kérelmezettet a kapcsolattartásra vonatkozó határozatban foglaltak megszegése folytán keletkezett igazolt költségek viselésére.
+(4) A bíróság erre irányuló kérelem esetén a 22/A. § (1) bekezdése szerinti végzésében kötelezi a kérelmezettet a kapcsolattartásra vonatkozó határozatban foglaltak megszegése folytán keletkezett igazolt költségek viselésére. A költségek viselésére kötelezés körében előterjesztett fellebbezésnek halasztó hatálya van.
 
 (5) Ha a kapcsolattartásra vonatkozó határozat végrehajtása elrendelésének feltételei nem állnak fenn, a bíróság a kérelmet elutasítja. A végzés ellen fellebbezésnek van helye.
 
-22/D. § (1) A bíróság a végrehajtást elrendelő végzést azzal a felhívással küldi meg a kérelmezőnek, hogy az önkéntes teljesítésre kitűzött határidő eltelte után annak teljesítéséről vagy elmaradásáról értesítse a bíróságot.
+22/D. § (1) A bíróság a végrehajtást elrendelő végzést azzal a felhívással küldi meg a kérelmezőnek, hogy az önkéntes teljesítésre kitűzött határidő eltelte után 30 napon belül, annak teljesítéséről vagy elmaradásáról értesítse a bíróságot.
 
-(2) A teljesítés elmaradása esetén a bíróság
+(2) A teljesítés önhibából történő elmaradása esetén a bíróság
 
 - a) megkeresi a gyámhatóságot, hogy a család- és gyermekjóléti intézményrendszer bevonásával mozdítsa elő a kérelmezett teljesítését,
 - b) a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 174. § c) pontja szerinti pénzbírságot szabhat ki,
@@ -313,10 +313,10 @@ a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, val
 
 (6) A (2) bekezdés c) pontja szerinti intézkedés elrendelése esetén a bíróság a végzést elektronikus úton haladéktalanul megküldi a Magyar Bírósági Végrehajtói Kar hivatali szervének.
 
-22/E. § (1) Ha a kapcsolattartás a 14. életévét betöltött gyermek akaratnyilvánítása miatt hiúsul meg, a bíróság a kapcsolattartásra vonatkozó határozat végrehajtását felfüggeszti, feltéve, ha
+22/E. § (1) Ha a kapcsolattartás a 14. életévét betöltött gyermek akaratnyilvánítása miatt hiúsul meg, a bíróság a kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárást felfüggeszti, feltéve, ha
 
 - a) a kapcsolattartásra jogosult és kötelezett – kérelemre vagy a bíróság elrendelése alapján – közvetítői eljárást vesz igénybe vagy
-- b) a kapcsolattartásra jogosult vagy kötelezett a kapcsolattartás megváltoztatását, korlátozását vagy megvonását kéri a gyámhatóságtól.
+- b) a kapcsolattartásra jogosult vagy kötelezett a kapcsolattartás megváltoztatását, korlátozását vagy megvonását kéri a bíróságtól vagy a gyámhatóságtól.
 
 (2) Az eljárás felfüggesztésére
 
