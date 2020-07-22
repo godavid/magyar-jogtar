@@ -3683,6 +3683,8 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 (2) E törvény 10. számú melléklete 2020. június 30. napján hatályos 5. és 7–8. pontját kell alkalmazni a 2020. július 1. napja előtt kibocsátott számla, számlával egy tekintet alá eső okirat esetén. E törvény 10. számú melléklete 2020. június 30. napján hatályos 6. pontját kell alkalmazni a 2020. július 1. napja előtt kiállított számla, számlával egy tekintet alá eső okirat esetén.
 
+340. § A 3. számú melléklet I. részében foglalt táblázatnak a rozsdaövezeti akcióterületek létrehozásához szükséges intézkedésekről szóló 2020. évi LXXVII. törvénnyel megállapított 59. sorát azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont a rozsdaövezeti akcióterületek létrehozásához szükséges intézkedésekről szóló 2020. évi LXXVII. törvény hatálybalépésének napjára vagy azt követő időpontra esik.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -3793,6 +3795,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 56. | Emberi fogyasztásra alkalmas hal (ideértve a halbőrt, ikrát, haltejet, halmájat és más belsőségeket is) frissen, hűtve vagy fagyasztva, a cápa kivételével | 0302-ből 0303-ból |
 | 57. | Emberi fogyasztásra alkalmas halfilé és más halhús (aprított is) frissen, hűtve vagy fagyasztva, a cápahús kivételével | 0304-ből |
 | 58. | Házi sertés élelmezési célra alkalmas vágási mellékterméke és belsősége, frissen, hűtve vagy fagyasztva | 0206 30-ból 0206 41-ből 0206 49-ből |
+| 59. | Az épített környezet alakításáról és védelméről szóló törvényben meghatározott rozsdaövezeti akcióterületen található földrészleten létesített többlakásos lakóingatlanban kialakítandó vagy kialakított, 150 négyzetmétert meg nem haladó összes hasznos alapterülettel rendelkező, a 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó lakás értékesítése |  |
 
 #### I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 

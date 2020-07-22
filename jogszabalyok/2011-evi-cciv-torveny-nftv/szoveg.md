@@ -1659,6 +1659,8 @@ irányuló eljárásban.
 
 (5) A törvényesség biztosítása keretében kell ellenőrizni az intézményi dokumentumokban foglaltak megtartását, jogszerűségét, a felsőoktatási intézmény működésének és a döntéshozatalnak a jogszerűségét.
 
+73/A. § A vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény (a továbbiakban: vagyonkezelő alapítványokról szóló törvény) szerinti vagyonkezelő alapítvány a 73. § (1) bekezdése szerinti fenntartói irányítást a vagyonkezelő alapítványokról szóló törvény 2. §-a szerinti tevékenységére tekintettel, a vagyonkezelés céljának megfelelően gyakorolja.
+
 74. § (1) Ellenőrzése eredményeképpen a fenntartó – megfelelő határidő tűzésével – felhívja a felsőoktatási intézmény vezetőjét a jogszabálysértő döntés orvoslására, a szükséges intézkedés meghozatalára.
 
 (2) A fenntartó a szakmai munka eredményességét és az intézmény működésének hatékonyságát a felsőoktatási intézmény által az éves gazdálkodásáról – a számviteli rendelkezések szerint – készített beszámoló alapján értékeli és indokolt esetben – megfelelő határidő tűzésével – intézkedést kezdeményez.

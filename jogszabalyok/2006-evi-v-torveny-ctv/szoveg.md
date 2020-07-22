@@ -32,6 +32,8 @@ valamint a céginformációs szolgálat feladatai
 
 (3) A cégnyilvántartás és a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer adatkezelője a céginformációs szolgálat.
 
+(4) A cégnyilvántartás és a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer a Kormányzati Adatközpont szolgáltatásait kormányrendeletben meghatározottak szerint igénybe vevő szakrendszer.
+
 1/A. § (1) Az e törvényben szabályozott nemperes eljárásokban – a (2) bekezdésben foglaltak kivételével – első fokon önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően bírósági titkár is eljárhat.
 
 (2) Bíró hozza meg a következő határozatokat:
@@ -282,7 +284,7 @@ megismerhetők.
 
 (2a)
 
-(3) A céginformációs szolgálat a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló, valamint a gazdasági, illetve szakmai kamarák részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett kért céginformációt – az (1) bekezdésben nem említett cégadatokra és a (3a) bekezdésben foglaltakra is kiterjedően – ingyenesen bocsátja rendelkezésre. Esetükben – ha törvény eltérően nem rendelkezik – sem az adatszolgáltatás, sem az adattovábbítás nem köthető díjfizetéshez.
+(3) A céginformációs szolgálat a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, az államigazgatási szerv, illetve más költségvetési szerv, továbbá a közjegyző, a bírósági végrehajtó, a felszámoló, valamint a gazdasági, illetve szakmai kamarák részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett kért céginformációt – ideértve a cégkivonatot, a cégmásolatot, a cégbizonyítványt, a névjegyet, az iratjegyzéket, az elektronikus okirati formában nyilvántartott cégiratokat, a közleményeket, a névlistát, illetve a (3a) bekezdésben foglalt céginformációt – ingyenesen bocsátja rendelkezésre. Esetükben – ha törvény eltérően nem rendelkezik – sem az adatszolgáltatás, sem az adattovábbítás nem köthető díjfizetéshez, tekintet nélkül arra, hogy a közfeladatot ellátó személy a céginformációt tanúsítvány használatával vagy a központi kormányzati szolgáltatás busz szerinti adattovábbítás útján kapja meg.
 
 (3a) Ha a közigazgatási szerv előtti, kérelemre induló hatósági eljárásban a kérelem elbírálásához annak hatóság általi megismerése szükséges, a közigazgatási hatóság a közigazgatási hatósági eljárás szabályai szerint, a céginformációs szolgálaton keresztül, elektronikus úton, közvetlen lekérdezéssel szerzi be a cég – közokirati vagy nem közokirati formában rendelkezésre bocsátott – cégkivonatát, valamint a cégjegyzésre jogosult közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját, ha az a cégbejegyzési (változásbejegyzési) eljárásban benyújtásra került és ezt a tényt a cégjegyzék tartalmazza. A közigazgatási szerv hatósági eljárásában a céget ezen iratok csatolására nem kötelezheti. E bekezdésben foglalt rendelkezések nem vonatkoznak arra az esetre, ha a közigazgatási szerv a kérelem tárgyában azonnal dönt.
 
@@ -1945,6 +1947,8 @@ módosuló jogszabályok
 
 127/A. § E törvénynek az egyes cégjogi és társasági jogi tárgyú törvények módosításáról szóló 2010. évi CLXXIX. törvény 5. §-ával megállapított 32. § (1) bekezdését és 36. § (6) bekezdését az azok hatálybalépését követően benyújtott fellebbezések alapján indult eljárásokban kell alkalmazni.
 
+127/B. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a Kormányzati Adatközpontnak a cégnyilvántartás és az 1. § (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer részére nyújtott szolgáltatásait.
+
 128. § (1) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 - a) a cégeljárásra és a cégnyilvántartásra,
@@ -2049,6 +2053,8 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 131/L. § A jogi képviselő 2021. január 1-jétől a cégbejegyzésre (változásbejegyzésre) irányuló kérelmet és minden egyéb beadványt az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon, a Pp. rendelkezéseinek megfelelő alkalmazásával is benyújthatja. E határidőig a cégbejegyzési (változásbejegyzési) eljárás során kizárólag a IV. Fejezet 2. cím szerinti elektronikus kapcsolattartás szabályai alkalmazhatóak.
 
 131/M. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel megállapított 1. számú melléklet III. 4. pontját a folyamatban lévő eljárásokban akkor kell alkalmazni, ha az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 35/A. § alapján az átalakulásról, egyesülésről, szétválásról a cég döntéshozó szerve első ízben 2019. október 1-je után döntött.
+
+131/N. § Az egyes törvények igazgatási, valamint gazdaságélénkítő célú módosításáról, továbbá egyes vagyongazdálkodást érintő rendelkezésekről szóló 2020. évi LXXXI. törvénnyel megállapított 1. § (4) bekezdést a megvalósításhoz szükséges technikai feltételek biztosítását követően kell alkalmazni.
 
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a Ptk.-val és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

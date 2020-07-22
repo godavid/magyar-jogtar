@@ -73,7 +73,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
   - b) e törvény szerinti ajánlatkérők számára áruk beszerzésére, szolgáltatások vagy építési beruházások megrendelésére irányuló szerződések vagy keretmegállapodások megkötése;
 - 27. közszolgáltatói szerződés: olyan közbeszerzési szerződés, amelynek célja az ajánlatkérő e törvény szerinti közszolgáltató tevékenysége előkészítésének, megkezdésének vagy folytatásának biztosítása;
 - 28. meghatározó befolyást képes gyakorolni az a szervezet, amely az alábbi feltételek közül legalább eggyel rendelkezik egy másik szervezet tekintetében:
-  - a) vagyoni hozzájárulása, illetve részvénytársaság esetében a tulajdonában lévő részvények névértéke meghaladja a jegyzett tőke felét,
+  - a) vagyonkezelő alapítvány kivételével vagyoni hozzájárulása, illetve részvénytársaság esetében a tulajdonában lévő részvények névértéke meghaladja a jegyzett tőke felét,
   - b) a tagok szavazatának többségével egyedül rendelkezik, vagy más tagok a befolyással rendelkezővel kötött megállapodás alapján a befolyással rendelkezővel azonos tartalommal szavaznak, vagy a befolyással rendelkezőn keresztül gyakorolják szavazati jogukat, feltéve hogy együtt a szavazatok több mint felével rendelkeznek,
   - c) jogosult arra, hogy a vezető tisztségviselők (döntéshozók, ügyvezetők) vagy a felügyelőbizottság (felügyeleti, ellenőrző szerv, testület) tagjainak többségét megválassza (kijelölje) vagy visszahívja;
 - 29. médiaszolgáltató: az a természetes vagy jogi személy, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását;
@@ -116,11 +116,11 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 - b) olyan építési beruházás, amely kórház, sportlétesítmény, szabadidős és szórakoztató létesítmény, iskola, felsőoktatási épület vagy közigazgatási rendeltetésű épület építési munkáit foglalja magában, vagy
 - c) olyan szolgáltatás megrendelése, amely az a) vagy a b) pont szerinti építési beruházáshoz kapcsolódik.
 
-(3)
+(3) Az európai uniós támogatásból megvalósuló beszerzés vonatkozásában e törvény szabályait alkalmazni köteles az állam által alapított vagyonkezelő alapítvány és az ilyen alapítvány által fenntartott jogi személy akkor is, ha nem tartozik az (1) bekezdés hatálya alá.
 
 (4) E törvény rendelkezését köteles betartani az az (1)–(2) bekezdés hatálya alá nem tartozó szervezet, amely e törvény szerinti közbeszerzési eljárás lefolytatását önként vagy szerződésben vállalja, illetve számára jogszabály közbeszerzési eljárás lefolytatását kötelezővé teszi.
 
-(5)
+(5) E § alkalmazásában az (1) bekezdésben foglalt szervezetek általi finanszírozás arányának meghatározásakor nem kell figyelembe venni a vagyonkezelő alapítvány tulajdonába adott vagyon hasznosításából származó bevételt.
 
 6. § (1) E törvény alkalmazásában – a közszolgáltató tevékenységének biztosítása céljából lefolytatott beszerzése során – közszolgáltató ajánlatkérő az 5. § (1) bekezdésében meghatározott szervezet, amennyiben az alábbiakban meghatározott közszolgáltató tevékenységet folytatja, vagy ilyen tevékenység folytatása céljából hozták létre
 
@@ -3532,6 +3532,8 @@ rendelkezik.
 (18) E törvénynek a 2019. december 31-éig hatályos 4. § (3) bekezdését, 195. § (1), (4) és (5) bekezdését a 2019. december 31-éig megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra kell alkalmazni.
 
 (19) E törvénynek az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló törvénnyel megállapított 4. § (3) bekezdését a hatálybalépését követően megkötött szerződésekre kell alkalmazni.
+
+(20) E törvénynek az egyes törvények igazgatási, valamint gazdaságélénkítő célú módosításáról, továbbá egyes vagyongazdálkodást érintő rendelkezésekről szóló 2020. évi LXXXI. törvénnyel (a továbbiakban: Mód5. tv.) megállapított 3. § 28. pont a) alpontját, 5. § (3) és (5) bekezdését a Mód5. tv. hatálybalépése napján folyamatban lévő eljárásokban, valamint fennálló jogviszonyokra is alkalmazni kell.
 
 197/A. § Az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvénnyel megállapított
 
