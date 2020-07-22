@@ -2,7 +2,7 @@
 
 a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról
 
-Annak érdekében, hogy a központi költségvetési forrásból és európai uniós támogatásból finanszírozott, Budapesten, illetve az agglomerációban nem önkormányzati hatáskörben megvalósuló, állami-kormányzati kiemelt jelentőségű városépítészeti, ingatlan- és közlekedési infrastruktúra fejlesztések előkészítése gyorsabb, hatékonyabb és egységes eljárási rendben, a rendelkezésre álló források hatékonyabb felhasználásával történjék, valamint Magyarország kiemelt nemzetközi sportesemények házigazdája legyen magas színvonalú rendezés mellett,különös figyelemmel Budapestnek a nemzetgazdaságban és általában az ország életében betöltött kiemelkedő szerepére,a Budai Várnegyed, illetve annak részeként a Palotanegyed nemzet történelmében és emlékezetében betöltött kiemelkedő szerepének tudatában, a Budai Palotanegyed minőségi és egységes szempontú megújításának, fenntartható fejlesztésének érdekében, az egyedülálló építészeti, kulturális és történelmi értékek megóvását, valamint méltó bemutatását biztosítva,az Országgyűlés a következő törvényt alkotja:
+Annak érdekében, hogy a központi költségvetési forrásból és európai uniós támogatásból finanszírozott, Budapesten, illetve az agglomerációban nem önkormányzati hatáskörben megvalósuló, állami-kormányzati kiemelt jelentőségű városépítészeti, ingatlan- és közlekedési infrastruktúra fejlesztések előkészítése gyorsabb, hatékonyabb és egységes eljárási rendben, a rendelkezésre álló források hatékonyabb felhasználásával történjék,különös figyelemmel Budapestnek a nemzetgazdaságban és általában az ország életében betöltött kiemelkedő szerepére,a Budai Várnegyed, illetve annak részeként a Palotanegyed nemzet történelmében és emlékezetében betöltött kiemelkedő szerepének tudatában, a Budai Palotanegyed minőségi és egységes szempontú megújításának, fenntartható fejlesztésének érdekében, az egyedülálló építészeti, kulturális és történelmi értékek megóvását, valamint méltó bemutatását biztosítva,az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — A KIEMELT BUDAPESTI FEJLESZTÉSEK ÁLTALÁNOS SZABÁLYAI
 
@@ -13,14 +13,14 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 - 1. agglomeráció: a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény szerinti Budapesti Agglomerációhoz tartozó települések;
 - 2. Budapest Diákváros – Déli Városkapu Fejlesztési Program: a Kormány által rendeletben meghatározott területen megvalósuló, diákotthoni elhelyezést biztosító, szabadidős, közpark, sport, rekreációs és egyéb infrastrukturális és kiegészítő funkciót magában foglaló komplex városfejlesztés, amelynek részét képezik az 1. mellékletben meghatározott létesítményfejlesztési projektek;
 - 3. kiemelt budapesti fejlesztés: az államháztartás központi alrendszeréből, illetve az európai uniós forrásból finanszírozott, központi költségvetési szervek vagy 100%-ban közvetlen vagy közvetett állami tulajdonban álló gazdasági társaságok által Budapesten megvalósítandó azon közterület-, köztér-, illetve magasépítési ingatlanfejlesztések, valamint Budapesten, illetve az agglomerációban megvalósuló azon vonalas közlekedési infrastruktúrafejlesztések, amelyet a Kormány rendeletében kiemelt budapesti fejlesztéssé nyilvánított;
-- 4. kiemelt nemzetközi sportesemény: a Budapesten megvalósuló, kiemelt jelentőségű nemzetközi vagy nemzetközi érdeklődésre számot tartó, esetileg vagy ismétlődő jelleggel, részben vagy egészben központi költségvetési forrásból vagy egyéb állami támogatással lebonyolított sportesemények, különösen az olimpiai sportágak felnőtt Európa- és világbajnokságai, egyéb világversenyek, valamint a nemzetközi sportvilág ernyőszervezeteinek, a Nemzetközi Olimpiai Bizottságnak, a Nemzeti Olimpiai Bizottságok Szövetségének (ANOC), a nemzetközi sportági szakszövetségek közgyűlésének (GAISF), a téli és nyári olimpiai sportágak nemzetközi szövetségeinek (ASOIF, AIOWF), a SportAccord szövetségnek az éves eseményei és jelentős fórumai.
+- 4.
 
 #### 2. A kiemelt budapesti fejlesztésekkel kapcsolatos egyes állami feladatok
 
 2. § (1) A kiemelt budapesti fejlesztésekkel összefüggésben az állam feladata különösen
 
 - a) a kiemelt budapesti fejlesztések előkészítése, ezen belül a kormányzati döntéselőkészítés, a beruházás előkészítése, a tervezési program összeállítása, a terveztetés és az engedélyeztetés,
-- b) Budapest fejlesztésével összefüggésben a kiemelt nemzetközi sportesemények rendezési jogának megszerzésére irányuló pályázattal és szerződéskötéssel összefüggő feladatok ellátása,
+- b)
 - c) Budapest és az agglomeráció fejlesztésével összefüggő, egyéb, a Kormány által meghatározott feladatok ellátása.
 
 (2) A kiemelt budapesti fejlesztések előkészítése során e törvény rendelkezései szerint kell eljárni.
@@ -31,7 +31,7 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 
 (2) A Társaság, illetve a kiemelt budapesti fejlesztések tekintetében építtetőként eljáró személy teljes személyes költség-, illeték- és igazgatási szolgáltatási díjmentességben részesül.
 
-4. § (1) A kiemelt budapesti fejlesztésekkel, a kiemelt nemzetközi sporteseményekkel, valamint a 2030-ig tartó időszakra vonatkozó tízéves Budapest városfejlesztési terv előkészítésével és annak végrehajtásával kapcsolatos feladatok ellátására a Kormány által – rendeletben vagy határozatban – kijelölt személy vagy szerv bármely hatóságtól, közigazgatási szervtől, közműszolgáltató, közműnyilvántartó és energiaszolgáltató társaságtól, az építtetőtől, egyéb állami tulajdonban álló társaságtól, a kiemelt budapesti fejlesztések megvalósításában közreműködő bármely szervezettől, továbbá Budapest Főváros Önkormányzatától, valamint egyéb érintett helyi önkormányzattól (a továbbiakban együtt: érintett szerv) a beruházással, illetve a kiemelt nemzetközi sporteseménnyel összefüggő ügyben tájékoztatást kérhet, illetve az érintett szerv részére intézkedés megtételét javasolhatja.
+4. § (1) A kiemelt budapesti fejlesztésekkel, valamint a 2030-ig tartó időszakra vonatkozó tízéves Budapest városfejlesztési terv előkészítésével és annak végrehajtásával kapcsolatos feladatok ellátására a Kormány által – rendeletben vagy határozatban – kijelölt személy vagy szerv bármely hatóságtól, közigazgatási szervtől, közműszolgáltató, közműnyilvántartó és energiaszolgáltató társaságtól, az építtetőtől, egyéb állami tulajdonban álló társaságtól, a kiemelt budapesti fejlesztések megvalósításában közreműködő bármely szervezettől, továbbá Budapest Főváros Önkormányzatától, valamint egyéb érintett helyi önkormányzattól (a továbbiakban együtt: érintett szerv) a beruházással összefüggő ügyben tájékoztatást kérhet, illetve az érintett szerv részére intézkedés megtételét javasolhatja.
 
 (2) A tájékoztatáskérésre az érintett szerv tizenöt napon belül köteles érdemi választ adni. Ha az érintett szerv az intézkedési javaslattal nem ért egyet, akkor az érintett szerv első számú vezetője – önkormányzat esetén a főpolgármester, illetve a polgármester – részletes indokolással ellátott nyilatkozatban közli álláspontját az intézkedési javaslat kézhezvételétől számított tizenöt napon belül.
 
@@ -224,7 +224,7 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 - a) a kiemelt budapesti fejlesztésnek minősülő beruházások körét és a kiemelt budapesti fejlesztések előkészítése során ellátandó egyes feladatokat,
 - b) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt budapesti fejlesztések előkészítésével és megvalósításuk felügyeletével kapcsolatos feladatait, a Társaság feladataiban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét,
 - c) a Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósításának helyszíneként, illetve szükség szerint közvetlen környezeteként kijelölt ingatlanok körét,
-- d) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt nemzetközi sportesemények rendezési jogának megszerzésével kapcsolatos feladatait,
+- d)
 - e) a 3. § (1) bekezdése szerinti Társaságot,
 - f) a kormánybiztos irányítása alatt álló kiemelt budapesti fejlesztések körét, valamint a beruházásirányítási jog tartalmát,
 - g) a 2. § (1) bekezdés c) pontja szerinti feladatokat.

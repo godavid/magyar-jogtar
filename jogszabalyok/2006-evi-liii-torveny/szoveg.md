@@ -16,6 +16,7 @@ Annak érdekében, hogy az Európai Unió támogatásából finanszírozott proj
 - f) környezetvédelmi, kutatás-fejlesztési, oktatási, valamint egészségügyi és szociális célok megvalósítását elősegítő,
 - g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhez szorosan kapcsolódó, vagy
 - h) nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá a világörökségi területen lévő műemlékek és műemlékegyüttesek fenntartásához, felújításához, fejlesztéséhez szorosan kapcsolódó,
+- i) az épített környezet alakításáról és védelméről szóló törvény szerinti rozsdaövezeti akcióterületen megvalósítandó, valamint a rozsdaövezeti akcióterület fejlesztésének előkészítését szolgáló vagy azt elősegítő,
 
 nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósítására, valamint az azokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra és e törvény szerinti egyéb eljárásokra terjed ki.
 
@@ -395,9 +396,10 @@ cél megvalósítására irányuló beruházást.
 - b) a sajátos telekalakítási követelményeket,
 - c) az egyedi településképi követelményeket,
 - d) az egyedi örökségvédelmi szabályokat,
-- e) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. §-a szerinti környezetvédelmi és fás szárú növények védelmére vonatkozó előírásokat.
+- e) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. §-a szerinti környezetvédelmi és fás szárú növények védelmére vonatkozó előírásokat,
+- f) a felszín alatti vizek és a földtani közeg kármentesítésével összefüggő hatósági eljárások ágazati jogszabályban foglaltaktól eltérő különös eljárási szabályait, a kármentesítés során a tényfeltárás, a beavatkozás és a kármentesítési monitoring egyedi szabályait.
 
-(2) Az (1) bekezdés a) pontja szerinti településrendezési és beépítési szabály, valamint egyedi építési követelmény az Étv. 13. § (1) bekezdésével összefüggő követelményekre, valamint az országos településrendezési és építési követelményektől, az országos tűzvédelmi szabályoktól, valamint a településrendezési eszközökben foglaltaktól való eltérő rendelkezésekre vonatkozhat.
+(2) Az (1) bekezdés a) pontja szerinti településrendezési és beépítési szabály, valamint egyedi építési követelmény az Étv. 13. § (1) bekezdésével összefüggő követelményekre, valamint az országos településrendezési és építési követelményektől, az országos tűzvédelmi szabályoktól, továbbá a változtatási és építési tilalmat elrendelő szabályoktól, valamint a településrendezési eszközökben foglaltaktól való eltérő rendelkezésekre vonatkozhat.
 
 (3) Az (1) bekezdés b) pontja szerinti sajátos telekalakítási követelmény az Étv. 23. §-ában foglaltakkal összefüggésben és összhangban állapítható meg.
 
@@ -406,6 +408,8 @@ cél megvalósítására irányuló beruházást.
 (5) Az (1) bekezdés d) pontja szerinti egyedi örökségvédelmi követelmény – a kulturális örökség védelmére és a világörökségre vonatkozó követelményekkel összhangban – különösen a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 63. § (4) bekezdésében foglaltakra vonatkozhat.
 
 (6) Kiemelten közérdekű beruházás helyszínére és közvetlen környezetére vonatkozó települési önkormányzati településrendezési eszközöket, településképi rendeletet, valamint egyéb önkormányzati rendeletet az (1) bekezdés szerinti kormányrendeletben meghatározott eltérésekkel kell alkalmazni. Amennyiben a településrendezési eszköz, településképi rendelet vagy egyéb önkormányzati rendelet az (1) bekezdés alapján megalkotott kormányrendelettel ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette az (1) bekezdés szerinti kormányrendeletben foglaltakat kell alkalmazni.
+
+(7) Az (1) bekezdés f) pontja szerinti kármentesítési eljárásban az ügyintézési határidő negyvenkét nap.
 
 11/C. § (1) Amennyiben a 11/B. § (1) bekezdés a) pontja szerinti beépítési szabály, építési követelmény meghatározásából a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott módon – egyösszegű, az Étv. 30. § (2) és (3) bekezdése szerinti kártalanítás illeti meg.
 
@@ -472,7 +476,7 @@ vagy mellőzésére vonatkozó szabályokat.
 (4) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a kiemelten közérdekű beruházást, a kiemelten közérdekű beruházás helyszínét és közvetlen környezetét, valamint a kiemelten közérdekű beruházás során építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát,
-- b) a kiemelten közérdekű beruházás megvalósításával összefüggő sajátos településrendezési és beépítési szabályokat, egyedi építési követelményeket, sajátos telekalakítási követelményeket, egyedi településképi követelményeket, egyedi örökségvédelmi szabályokat,
+- b) a kiemelten közérdekű beruházás megvalósításával összefüggő sajátos településrendezési és beépítési szabályokat, egyedi építési követelményeket, sajátos telekalakítási követelményeket, egyedi településképi követelményeket, egyedi örökségvédelmi szabályokat, a fás szárú növények védelmére vonatkozó szabályokat, valamint a felszín alatti vizek és a földtani közeg kármentesítésével összefüggő hatósági eljárások különös eljárási szabályait, a kármentesítés során a tényfeltárás, a beavatkozás és a kármentesítési monitoring egyedi szabályait,
 - c) a 11/D. § (1) bekezdése szerinti különös eljárás szabályokat,
 - d) a kiemelten közérdekű beruházással kapcsolatos, a 11/C. § szerinti kártalanítás részletes szabályait,
 - e) a kiemelten közérdekű beruházáshoz közvetlenül kapcsolódó, közműszakaszt érintő munka elvégezésére és elszámolására a 11/F. §-ban foglaltak alkalmazását.

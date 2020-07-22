@@ -336,6 +336,8 @@ javára történik.
 
 (8) Az (1) bekezdés a)–g) pontjában és a (2) bekezdés c), d) pontjában meghatározott tevékenységi körök mint gyűjtőfogalmak keretein belüli azon tevékenységcsoportok, amelyek az e törvény hatálybalépésekor hatályban lévő egyes ágazati törvénybeli rendelkezések szerint koncessziós pályázat kiírása vagy koncessziós szerződés megkötése nélkül is folytathatók, e törvény hatálybalépését követően is koncessziós pályázat kiírása vagy koncessziós szerződés megkötése nélkül folytathatók. E törvény hatálybalépését követően az (1) bekezdés a)–d), f), g) pontjában, és a (2) bekezdés c), d) pontjában meghatározott tevékenységi körök mint gyűjtőfogalmak keretein belül egyes további tevékenységtípusok folytatatását koncessziós pályázat kiírása vagy koncessziós szerződés nélkül kizárólag e törvény teheti lehetővé. Nem szükséges továbbá koncessziós pályázat kiírása vagy koncessziós szerződés kötése közvetlenül alkalmazandó európai uniós jogi aktus által eltérően szabályozott tevékenységek körében.
 
+(8a) Az (1) bekezdés g) pontjában meghatározott kizárólagos gazdasági tevékenység gyakorlásának joga koncessziós pályázat kiírása vagy koncessziós szerződés nélkül, ágazati törvényben meghatározott módon másnak átengedhető.
+
 (9) Az állam a kizárólagos tulajdonában, valamint a helyi önkormányzat a törzsvagyonában lévő víziközmű-létesítmények létrehozásáról és működtetéséről koncessziós szerződés megkötése nélkül a következő módokon is gondoskodhat:
 
 - a) olyan gazdálkodó szervezetet hoz létre, amelyben kizárólagos részesedéssel rendelkezik – ide nem értve a munkavállalói résztulajdont,

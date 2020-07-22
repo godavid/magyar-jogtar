@@ -20,6 +20,8 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 - b) rászorultsági alapú támogatást biztosít,
 - c) tehetséggondozó programok működését támogatja.
 
+(3) Az (1) bekezdés szerinti gazdasági tevékenység végzése versenykörülmények között, a piaci verseny feltételei mellett történik, a tevékenység végzése kifejezetten nyereségorientált. A vagyonkezelés kockázatát a vagyonkezelő alapítvány vállalja. A vagyonkezelő alapítvány az (1) bekezdésben foglalt tevékenységen túl gazdasági tevékenységet – a gazdasági társaságoktól eltérően – nem folytathat.
+
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
 3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján – a preambulumban meghatározott célok megvalósítása érdekében – az alapító okirat szerint

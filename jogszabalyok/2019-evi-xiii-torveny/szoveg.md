@@ -28,7 +28,7 @@ a vagyonkezelő alapítványokról
 
 (3) Az alapítvány nyilvántartásba vétele iránti kérelem benyújtását megelőzően a tőkeminimumnak megfelelő vagyont az alapítvány rendelkezésére kell bocsátani.
 
-(4) Ha az alapítói jogok gyakorlása az alapítvány ügyvezető szervét (a továbbiakban: kuratórium) illeti meg, és az alapító az alapítvány javára rendelt vagyonnak a tőkeminimumon felüli, az alapítvány rendelkezésére még nem bocsátott részét az erre megszabott határidőben nem teljesíti, az alapítvány jogosult e vagyonrész teljesítését követelni.
+(4) Ha az alapítói jogok gyakorlása az alapítvány ügyvezető szervét (a továbbiakban: kuratórium) vagy az alapítványi vagyonellenőrt illeti meg, és az alapító az alapítvány javára rendelt vagyonnak a tőkeminimumon felüli, az alapítvány rendelkezésére még nem bocsátott részét az erre megszabott határidőben nem teljesíti, az alapítvány jogosult e vagyonrész teljesítését követelni.
 
 (5) Ha az alapító az alapítói jogok gyakorlását a maga részére fenntartotta és a (4) bekezdés szerinti kötelezettségét a kuratórium erre irányuló írásbeli felszólítása ellenére sem teljesíti, ennek megtörténtéig az alapítói jogok gyakorlására a kuratórium jogosult.
 
@@ -46,25 +46,25 @@ a vagyonkezelő alapítványokról
 
 #### 3. Az alapítói jogok gyakorlása
 
-5. § (1) A vagyonkezelő alapítvány alapítója az alapító okiratban az alapítói jogok gyakorlására az alapítvány kuratóriumát is kijelölheti, vagy ha alapítói jogait az alapító okiratban fenntartotta vagy abban arról nem rendelkezett, e jogait az alapítványra átruházhatja.
+5. § (1) A vagyonkezelő alapítvány alapítója az alapító okiratban az alapítói jogok gyakorlására az alapítvány kuratóriumát, a nem közérdekű vagyonkezelő alapítvány alapítója pedig a kuratórium helyett a 7. § szerinti alapítványi vagyonellenőrt is kijelölheti, vagy ha alapítói jogait az alapító okiratban fenntartotta vagy abban arról nem rendelkezett, e jogait az alapítványra átruházhatja. Az alapító az alapító okiratban úgy is rendelkezhet, hogy alapítói jogai a halála, jogutód nélküli megszűnése vagy az alapító okiratban meghatározott feltétel bekövetkezése esetén az alapítványra szállnak.
 
-(2) A kuratórium az alapítói jogokat egyes ügyekben az e törvényben meghatározott módon gyakorolja.
+(2) A kuratórium vagy az alapítványi vagyonellenőr az alapítói jogokat egyes ügyekben az e törvényben meghatározott módon gyakorolja.
 
-(3) Ha az alapítói jogokat a kuratórium gyakorolja, az alapító okirat eltérő rendelkezése hiányában az alapítvány kuratóriumi és felügyelőbizottsági tagjainak, illetve elnökének kijelöléséről – e tisztségek bármely okból bekövetkező megüresedése esetén – a kuratórium a felügyelőbizottsággal együttesen határoz akként, hogy a döntéshez a megüresedő tisztség által érintett testületi szerv tagjai többségének szavazata is szükséges. Az alapító okirat az e kérdésben való döntéshozatalhoz további minősített többséget is előírhat.
+(3) Ha az alapítói jogokat a kuratórium gyakorolja, az alapító okirat eltérő rendelkezése hiányában az alapítvány kuratóriumi és felügyelőbizottsági tagjainak, illetve elnökének kijelöléséről – e tisztségek bármely okból bekövetkező megüresedése esetén – a kuratórium a felügyelőbizottsággal együttesen határoz akként, hogy a döntéshez a megüresedő tisztség által érintett testületi szerv tagjai többségének szavazata is szükséges. Az alapító okirat az e kérdésben való döntéshozatalhoz további minősített többséget is előírhat. Ha az alapítói jogokat az alapítványi vagyonellenőr gyakorolja, az alapító okirat eltérő rendelkezése hiányában az alapítvány kuratóriumi és felügyelőbizottsági tagjainak, illetve elnökének kijelöléséről – e tisztségek bármely okból bekövetkező megüresedése esetén – a kuratórium és a felügyelőbizottság véleményének kikérését követően az alapítványi vagyonellenőr dönt.
 
 (4) A vagyonkezelő alapítvány kuratóriumi és felügyelőbizottsági tagjainak, illetve elnökének visszahívásáról a kijelölésükkel azonos módon hozható döntés azzal, hogy a visszahívás joga az alapító okiratban feltételekhez köthető, illetve korlátozható.
 
 #### 4. A vagyonkezelő alapítvány szervezete
 
-6. § (1) A vagyonkezelő alapítvány ügyvezetését legalább öt természetes személyből álló kuratórium látja el.
+6. § (1) A közérdekű vagyonkezelő alapítvány ügyvezetését legalább öt természetes személyből álló kuratórium látja el.
 
-(2) Vagyonkezelő alapítvány esetén felügyelőbizottság kijelölése és annak működése, továbbá állandó könyvvizsgáló megbízása kötelező. A felügyelőbizottság legalább három természetes személyből áll, a felügyelőbizottság elnökét – az alapító okirat eltérő rendelkezése hiányában – a tagok maguk közül választják.
+(2) Vagyonkezelő alapítvány esetén felügyelőbizottság kijelölése és annak működése, továbbá állandó könyvvizsgáló megbízása kötelező. A felügyelőbizottság legalább három természetes személyből áll, a felügyelőbizottság elnökét – az alapító okirat eltérő rendelkezése hiányában – a tagok maguk közül választják. Nem közérdekű vagyonkezelő alapítvány alapító okirata rendelkezhet úgy, hogy az alapítványnál felügyelőbizottság nem működik; ebben az esetben a felügyelőbizottság feladat- és hatáskörét az alapítványi vagyonellenőr gyakorolja.
 
 (3) Az alapító okirat a kuratórium és a felügyelőbizottság elnökére és tagjaira vonatkozóan képesítési, végzettségi és egyéb szakmai követelményeket állapíthat meg.
 
 #### 5. A vagyonkezelő alapítvány vagyongazdálkodásának külső ellenőrzése
 
-7. § (1) Ha vagyonkezelő alapítvány esetén az alapító az alapítói jogok gyakorlására a kuratóriumot jelölte ki, illetve e jogait az alapítványra ruházta át, az alapító az alapító okiratban egy személyt köteles kijelölni abból a célból is, hogy e jogok gyakorlását és az alapítvány – alapító okiratban meghatározott céljainak megfelelő – vagyongazdálkodását az alapítvány ellenőrző szervétől függetlenül figyelemmel kísérje (a továbbiakban: alapítványi vagyonellenőr).
+7. § (1) Ha vagyonkezelő alapítvány esetén az alapító az alapítói jogok gyakorlására a kuratóriumot jelölte ki, illetve e jogait az alapítványra ruházta át, az alapító az alapító okiratban alapítványi vagyonellenőrt is köteles kijelölni abból a célból, hogy e jogok gyakorlását és az alapítvány – alapító okiratban meghatározott céljainak megfelelő – vagyongazdálkodását az alapítvány ellenőrző szervétől függetlenül figyelemmel kísérje. Ha nem közérdekű vagyonkezelő alapítvány alapítója a kuratórium helyett az alapítványi vagyonellenőrt jelölte ki az alapítói jogok gyakorlására, felügyelőbizottság kijelölése kötelező.
 
 (2) Az alapító az alapító okiratban az alapítványi vagyonellenőr kijelölésére feljogosíthatja a vagyonkezelő alapítványt is, ebben az esetben az alapítványi vagyonellenőr kijelölésének, illetve megbízásának ügyében a kuratórium és a felügyelőbizottság együttesen határoz, a kijelöléshez, illetve a megbízáshoz azonban a nyilvántartó bíróság jóváhagyása szükséges. A vagyonellenőrnek a megbízás elfogadására és a (3) bekezdésben foglalt követelményekre vonatkozó nyilatkozatát a nyilvántartó bírósághoz a vagyonellenőrt kijelölő személynek kell benyújtani.
 
@@ -107,6 +107,10 @@ a vagyonkezelő alapítványokról
 10. § (1) Az alapító az alapító okiratban meghatározhatja az alapítvány javára rendelt vagyonnak azt a mértékét, amely alá a vagyonkezelő alapítvány vagyona nem csökkenhet, ez a tőkeminimumnál kevesebb nem lehet. Meghatározás hiányában a tőkeminimumot kell ilyennek tekinteni.
 
 (2) Ha a vagyonkezelő alapítvány vagyona az alapító okiratban az (1) bekezdés szerinti mérték alá csökken, a kedvezményezetteknek járó juttatás kifizetését arányosan csökkenteni kell, vagy azt mindaddig vissza kell tartani, amíg az alapítvány vagyona az (1) bekezdés szerinti mértéket el nem éri.
+
+10/A. § (1) Azon közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére, amelynek az állam az alapítója vagy amelyhez az állam csatlakozott, az alapító okiratában meghatározott célok megvalósításának elősegítése érdekében pénzbeli vagyoni juttatás teljesíthető. E juttatásra az államháztartásról szóló 2011. évi CXCV. törvény támogatásokra vonatkozó VI. fejezetét nem kell alkalmazni.
+
+(2) Az (1) bekezdés szerinti vagyoni juttatás teljes körű felhasználásáig a közérdekű vagyonkezelő alapítvány bemutatja e pénzbeli vagyoni juttatás felhasználását, aminek a számviteli törvény szerinti éves beszámolójában tesz eleget.
 
 #### 8. A vagyonkezelő alapítvány megszűnése
 

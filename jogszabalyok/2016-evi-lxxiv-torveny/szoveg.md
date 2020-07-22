@@ -275,7 +275,7 @@ szabályokat.
 
 (2) E törvénynek a Módtv. által megállapított rendelkezéseit a Módtv. és a végrehajtására kiadott kormányrendelet hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(3) A Módtv. hatálybalépését megelőzően elhelyezett olyan reklámhordozó, amely nem felel meg e törvény – Módtv. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet, továbbá a 2. § (2a) bekezdés szerinti jogszabályok és településképi rendelet rendelkezéseinek, legfeljebb 2020. december 31. napjáig használható reklám közzététele céljából.
+(3) A Módtv. hatálybalépését megelőzően elhelyezett olyan reklámhordozó, amely nem felel meg e törvény – Módtv. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet, továbbá a 2. § (2a) bekezdés szerinti jogszabályok és településképi rendelet rendelkezéseinek, legfeljebb 2023. december 31. napjáig használható reklám közzététele céljából.
 
 (4) A (3) bekezdés szerinti reklámhordozó használatára vonatkozó, határozott időre szóló szerződés időbeli hatálya nem hosszabbítható meg, és az érintett reklámhordozó használatára új szerződés nem köthető, kivéve, ha a reklámhordozót a 2. § (2a) bekezdés szerinti jogszabályok továbbá e törvény és a végrehajtására kiadott rendeletek követelményei szerint, településképi bejelentési eljárás alapján átalakították.
 
@@ -289,7 +289,7 @@ szabályokat.
 
 15/B. § (1) E törvénynek a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel (a továbbiakban: Módtv.2.) megállapított rendelkezéseit a Módtv.2. hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(2) 2020. december 31. napján megszűnik valamennyi, a Módtv.2. hatálybalépését megelőzően létrejött olyan, határozatlan vagy 2020. december 31. napjánál hosszabb ideig tartó, határozott időtartamra kötött, közterület reklámcélú hasznosítására és annak ellenőrzésére irányuló, valamely helyi önkormányzattal kötött reklám rendszergazdai szerződés, amely nem felel meg e törvény – Módtv. és Módtv.2. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet és településképi rendelet rendelkezéseinek. A szerződés megszűnésével megszűnik valamennyi, az ilyen szerződésen alapuló reklámhordozó igénybevételére vonatkozó jogosultság.
+(2) 2023. december 31. napján megszűnik valamennyi, a Módtv.2. hatálybalépését megelőzően létrejött olyan, határozatlan vagy 2023. december 31. napjánál hosszabb ideig tartó, határozott időtartamra kötött, közterület reklámcélú hasznosítására és annak ellenőrzésére irányuló, valamely helyi önkormányzattal kötött reklám rendszergazdai szerződés, amely nem felel meg e törvény – Módtv. és Módtv.2. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet és településképi rendelet rendelkezéseinek. A szerződés megszűnésével megszűnik valamennyi, az ilyen szerződésen alapuló reklámhordozó igénybevételére vonatkozó jogosultság.
 
 (3) A (2) bekezdés szerinti, határozott időre szóló reklám rendszergazdai szerződés időbeli hatálya nem hosszabbítható meg, és az érintett rendszergazdai tevékenységre új szerződés nem köthető.
 
@@ -306,9 +306,13 @@ szabályokat.
 
 (2) A Módtv.2.-vel megállapított 11/B. § (2) bekezdése a Módtv.2. hatálybalépését megelőzően jogszerűen és jóhiszeműen szerzett jogokat és kötelezettségeket nem érinti. A Módtv.2. hatálybalépése előtt létrejött szerződések időtartamának a Módtv.2. hatálybalépését követően történő meghosszabbítása új jogviszony létesítésének minősül, melyre e törvény Módtv 2.-vel megállapított 11/B. § (2) bekezdése megfelelően irányadó.
 
+16/B. § E törvénynek az egyes törvények igazgatási, valamint gazdaságélénkítő célú módosításáról, továbbá egyes vagyongazdálkodást érintő rendelkezésekről szóló 2020. évi LXXXI. törvénnyel (a továbbiakban: Módtv.3.) megállapított rendelkezéseit a Módtv.3. hatálybalépésekor folyamatban lévő eljárásokban, valamint a hatálybalépésekor fennálló jogviszonyokra is alkalmazni kell.
+
 17. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-18. § Az állam, a helyi önkormányzat, költségvetési szerv és e szervezetek együtt, vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezetek kizárólag olyan reklámhordozón helyezhetnek vagy helyeztethetnek el reklámot, amely megfelel az e törvény – Módtv. által megállapított – és a végrehajtására kiadott jogszabályok rendelkezéseinek.
+18. § (1) Az állam, a helyi önkormányzat, költségvetési szerv és e szervezetek együtt, vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezetek – a (2) bekezdésben meghatározott kivétellel – kizárólag olyan reklámhordozón helyezhetnek vagy helyeztethetnek el reklámot, amely megfelel az e törvény – Módtv. által megállapított – és a végrehajtására kiadott jogszabályok rendelkezéseinek.
+
+(2) Az (1) bekezdésben meghatározott szervezetek által elhelyezett vagy elhelyeztetett reklám esetében az e törvényben, valamint a végrehajtására kiadott jogszabályokban meghatározott, a reklám, a reklámhordozó méretére, a reklámhordozót tartó berendezésre, valamint az elhelyezés technológiájára vonatkozó szabályoktól 2023. december 31-ig el lehet térni.
 
 ### 1. melléklet a 2016. évi LXXIV. törvényhez
 
