@@ -596,7 +596,15 @@ szabható ki.
 
 ### A nemzetközi sportszövetség
 
-30/A. § (1) A nemzetközi sportszövetség olyan sportszövetség, amely sportágában nemzetközi szinten az e törvényben, valamint jogszabályban meghatározott sportszakmai feladatokat lát el, valamint amelyet a Nemzetközi Olimpiai Bizottság sportágának hivatalos nemzetközi szövetségeként ismer el, vagy amely sportszövetség ilyen elismerésre vonatkozóan a 30/C. § (2) bekezdésében meghatározott szándéknyilatkozattal rendelkezik. A nemzetközi sportszövetség jogi személy. A nemzetközi sportszövetség a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül.
+30/A. § (1) A nemzetközi sportszövetség olyan sportszövetség, amely sportágában nemzetközi szinten az e törvényben, valamint jogszabályban meghatározott sportszakmai feladatokat lát el, és amely
+
+- a) a Nemzetközi Olimpiai Bizottság által sportágának hivatalos nemzetközi szövetségeként elismert sportszövetség,
+- b) a GAISF tagjának minősül,
+- c) GAISF megfigyelői státusszal rendelkezik,
+- d) a 30/C. § (2) bekezdésében meghatározott szándéknyilatkozattal rendelkezik, vagy
+- e) az a)–d) pont szerinti sportszövetség kontinentális sportszövetsége.
+
+(1a) A nemzetközi sportszövetség jogi személy. A nemzetközi sportszövetség a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül.
 
 (2) A nemzetközi sportszövetség feladat- és hatáskörében különösen:
 
@@ -631,7 +639,11 @@ szabható ki.
 - a) nemzetközi sportszövetség alapításával az egyesület alapítására vonatkozó szabályok szerint, az e törvényben meghatározott eltérésekkel (a továbbiakban: eredeti alapítás), vagy
 - b) más állam joga alapján nyilvántartásba vett és jogszerűen működő nemzetközi sportszövetség (a továbbiakban: külföldi szövetség) székhelyének Magyarországra történő áthelyezésével (a továbbiakban: jogutódlásos alapítás).
 
-(2) Eredeti alapítás esetén a miniszteri támogató nyilatkozat kiadása iránti kérelemhez mellékelni kell a Nemzetközi Olimpiai Bizottság szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a nemzetközi sportszövetséget sportágának hivatalos nemzetközi szövetségeként külön nyilatkozatban (a továbbiakban: elismerő nyilatkozat) el fogja ismerni.
+(2) Eredeti alapítás esetén a miniszteri támogató nyilatkozat kiadása iránti kérelemhez mellékelni kell
+
+- a) a Nemzetközi Olimpiai Bizottság szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a nemzetközi sportszövetséget sportágának hivatalos nemzetközi szövetségeként külön nyilatkozatban el fogja ismerni, vagy
+- b) a GAISF szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetséget tagjaként fogja elismerni, vagy
+- c) a GAISF szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség megfigyelői státusszal fog rendelkezni [az a)–c) pontban foglaltak a továbbiakban együtt: elismerő nyilatkozat].
 
 (3) Amennyiben a miniszteri támogató nyilatkozat kiadására a (2) bekezdés szerinti szándéknyilatkozat alapján került sor, a nemzetközi sportszövetség köteles az elismerő nyilatkozatot a nyilvántartásba vételtől számított 180 napon belül a sportpolitikáért felelős miniszter részére megküldeni. Amennyiben a határidő eredménytelenül telik el, a sportpolitikáért felelős miniszter köteles erről a körülményről a bíróságot haladéktalanul tájékoztatni. A bíróság a tájékoztatás átvételét követően elrendeli a nemzetközi sportszövetség nyilvántartásból való törlését.
 
@@ -1293,7 +1305,7 @@ kezeli.
 - a) meghatározza a szervezett formában történő sporttevékenység gyakorlásának jogszabályi feltételeit,
 - b) gondoskodik a mindennapos testnevelés feltételeinek megteremtéséről a köznevelésben és a szakképzésben, továbbá közreműködik ezek biztosításában a felsőoktatási intézményekben és a felsőoktatási kollégiumokban,
 - c) elősegíti az egészséges életmód és a szabadidősport gyakorlása feltételeinek megteremtését,
-- d) az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, valamint az állami sportcélú támogatásokról szóló kormányrendeletben meghatározottak szerint – elsősorban a sportfejlesztési programokon alapuló támogatás előtérbe helyezésével, pályázati úton történő források rendelkezésre bocsátásával – részt vesz a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, az egyetemi-főiskolai sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok finanszírozásában,
+- d) az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, az állami sportcélú támogatásokról szóló kormányrendeletben, valamint a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben meghatározottak szerint – elsősorban a sportfejlesztési programokon alapuló támogatás előtérbe helyezésével, pályázati úton történő források rendelkezésre bocsátásával – részt vesz a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, az egyetemi-főiskolai sport, a szabadidősport és a fogyatékosok sportja, továbbá a kiemelt nemzetközi sport- és sportdiplomáciai események, valamint a helyi önkormányzatok által ellátott sportfeladatok finanszírozásában,
 - e) az esélyegyenlőség jegyében támogatja a gyermek- és ifjúsági sportot, a nők és a családok sportját, a hátrányos helyzetű társadalmi csoportok, valamint a fogyatékosok sportját,
 - f) korlátozza a sport önveszélyeztető, káros megnyilvánulását és ellenőrzi a doppingtilalom betartását,
 - g) ösztönzi a sportpiac kialakulását és működését,
@@ -1315,18 +1327,20 @@ kezeli.
 
 (3) A Kormány:
 
-- a) a költségvetésről szóló törvénnyel összhangban – figyelemmel a környezet- és természetvédelem érdekeire, valamint az egészségügyi és az esélyegyenlőséget biztosító egyéb követelményekre – meghatározza a sport állami támogatásának, az állami támogatás felhasználásának és ellenőrzésének alapvető célkitűzéseit, rendszerét, módszereit, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait,
+- a) a költségvetésről szóló törvénnyel összhangban – figyelemmel a környezet- és természetvédelem érdekeire, valamint az egészségügyi és az esélyegyenlőséget biztosító egyéb követelményekre – meghatározza a sport állami támogatásának, az állami támogatás felhasználásának és ellenőrzésének alapvető célkitűzéseit, rendszerét, módszereit, a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter által vezetett minisztérium fejezethez tartozó, a kiemelt hazai rendezésű sportesemények rendezésének támogatására szolgáló előirányzatból nyújtott támogatások felhasználásának és elosztásának részletes szabályait,
 - b) részt vesz a sporttal kapcsolatos nemzetközi együttműködésben, ideértve a sporttal kapcsolatos feladatokat ellátó nemzetközi szervezetek munkájában való részvételt,
 - c) előkészíti és megköti a sporttal kapcsolatos, a hatáskörébe tartozó nemzetközi szerződéseket,
-- d) a megrendezésre való pályázást, jelentkezést vagy azzal azonos egyéb kötelezettségvállalást megelőzően, pénzügyi és a nemzetközi sportszervezetek (jogtulajdonosok) által megkívánt más garanciát vállal a kiemelt nemzetközi sportrendezvények (különösen olimpia, paralimpia, siketlimpia és speciális világjátékok, világbajnokság, Európa-bajnokság, világkupa, olimpiai vagy paralimpiai kvalifikációs verseny) és sportdiplomáciai események magyarországi megrendezéséhez,
+- d) a megrendezésre való pályázást, jelentkezést vagy azzal azonos egyéb kötelezettségvállalást megelőzően, pénzügyi és a jogtulajdonosok, illetve nemzetközi sportszervezetek által megkívánt más garanciát vállal a nemzetközi sportrendezvények és sportdiplomáciai események – ideértve különösen a kiemelt nemzetközi sport- és sportdiplomáciai eseményeket – magyarországi megrendezéséhez,
 - e) a sportkultúra fenntartásával és fejlesztésével kapcsolatos feladatok ellátása során támogatja a határon túli magyar sportkapcsolatok fejlesztését.
+
+(4) A kiemelt nemzetközi sport- és sportdiplomáciai eseményekkel kapcsolatos garanciát az állam, illetve a Kormány nevében a Kormány ezirányú jóváhagyó döntését követően a kiemelt nemzetközi sport- és sportdiplomáciai események rendezésért felelős miniszter írja alá és adja ki. Ha a kiemelt nemzetközi sport- és sportdiplomáciai eseményre vonatkozó rendezési szerződésben az állam vagy a Kormány részvétele kötelező vagy indokolt, a rendezési szerződés és az azzal kapcsolatos ügyek tekintetében az államot, illetve a Kormányt a kiemelt nemzetközi sport- és sportdiplomáciai események rendezésért felelős miniszter képviseli.
 
 51. § (1) A sport irányításával, szabályozásával és ellenőrzésével összefüggő, e törvényben és külön jogszabályokban meghatározott feladatok ellátásáról a sportpolitikáért felelős miniszter gondoskodik.
 
 (2) A sportpolitikáért felelős miniszter:
 
 - a) a sportszövetségek által elkészített sportágfejlesztési tervek alapján előkészíti a sporttal kapcsolatos kormányzati döntéseket,
-- b) ellátja a sportcélú központi állami pénzeszközök tervezésével, elosztásával kapcsolatos, e törvényben és az államháztartás működésére, valamint az állami sportcélú támogatásra vonatkozó jogszabályokban meghatározott feladatokat, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről,
+- b) ellátja a sportcélú központi állami pénzeszközök tervezésével, elosztásával kapcsolatos, e törvényben és az államháztartás működésére, valamint az állami sportcélú támogatásra vonatkozó jogszabályokban meghatározott feladatokat, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről, ideértve különösen azt is, hogy ellátja a kiemelt nemzetközi sport- és sportdiplomáciai eseménynek nem minősülő sportesemények rendezésének támogatására vonatkozó jogszabályokban meghatározott feladatokat, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről.
 - c) gondoskodik a sporttal kapcsolatos kormányzati döntések végrehajtásáról,
 - d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
 - e) együttműködik az Országos Területfejlesztési Érdekegyeztető Fórummal, az érintett megyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal,
@@ -1366,6 +1380,8 @@ támogatására és e programokban elősegíti az esélyegyenlőséget, tovább�
 - p) az államháztartásért felelős miniszter véleményének kikérésével javaslatot tesz a Kormány részére a látvány-csapatsportok támogatására nyújtható támogatási keretösszegnek a látvány-csapatsportágak közötti felosztása arányának megállapítására.
 
 (2a) A sportversenyek tiltott befolyásolása elleni nemzeti platform összetételét és működésének rendjét a Kormány állapítja meg.
+
+(2b) A kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter ellátja a kiemelt nemzetközi sport- és sportdiplomáciai események rendezésének támogatásra vonatkozó jogszabályokban meghatározott feladatokat, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről.
 
 (3) A (2 ) bekezdés g) pontja alapján végzett közigazgatási hatósági és szolgáltatási feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
@@ -1442,19 +1458,21 @@ támogatására és e programokban elősegíti az esélyegyenlőséget, tovább�
 - b) a sportszervezetek, sportszövetségek, helyi önkormányzatok és a sportköztestületek által összeállított, a szakmai feladatok ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját tartalmazó támogatási kérelem benyújtását és annak elbírálását követően, szerződés alapján, vagy
 - c) a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a szakképző intézményben folytatott sport, a egyetemi-főiskolai sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok támogatására kiírásra kerülő pályázat útján, szerződés alapján vehető igénybe. Az a)–c) pont szerint biztosított állami sportcélú támogatásokhoz való hozzáférés, a támogatások felhasználásának, elszámolásának és ellenőrzésének részletes szabályaira az e törvényben foglaltakon túl az államháztartás működési rendjéről szóló jogszabályokat és a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának szabályairól szóló kormányrendeletben foglaltakat kell alkalmazni.
 
+(1a) Az állam a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséhez az e törvényben, a költségvetési törvényben és más, a sport állami támogatásáról rendelkező jogszabályban meghatározottak szerint pénzügyi támogatást nyújthat. A biztosított támogatásokhoz való hozzáférés, a támogatások felhasználásának, elszámolásának és ellenőrzésének részletes szabályaira az e törvényben, az államháztartás működési rendjéről szóló jogszabályokban, és a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter által vezetett minisztérium fejezethez tartozó, a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben foglaltakat kell alkalmazni.
+
 (2) A sorsolásos szerencsejátékok játékadójának tizenkét százalékát, a bukmékeri rendszerű fogadások játékadójának ötven százalékát, a távszerencsejáték játékadóját, valamint a sportfogadás (TOTÓ) játékadóját a központi költségvetésről szóló törvényben meghatározottak szerint, a sport – a bukmékeri rendszerű fogadások, a sportfogadás (TOTÓ) és a távszerencsejáték játékadója tekintetében a Magyar Labdarúgó Szövetség útján a labdarúgás – támogatására kell felhasználni.
 
-(3) Az állami sportcélú támogatás nyújtása, a támogatás feltételeinek ellenőrzése, a támogatás megállapítása, folyósítása és a támogatással való elszámolás ellenőrzése érdekében a sportpolitikáért felelős miniszter kezeli a támogatást igénylő, illetve támogatott természetes személy, továbbá a támogatást igénylő, illetve támogatott szervezet képviseletében eljáró természetes személy vagy kapcsolattartó természetes személy
+(3) Az állami sportcélú támogatás nyújtása, a támogatás feltételeinek ellenőrzése, a támogatás megállapítása, folyósítása és a támogatással való elszámolás ellenőrzése érdekében az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, az állami sportcélú támogatásokról szóló kormányrendeletben, valamint a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben meghatározottak szerint a sportpolitikáért felelős miniszter, vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter hatáskörébe utalt feladatok tekintetében a sportpolitikáért felelős miniszter, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter kezeli a támogatást igénylő, illetve támogatott természetes személy, továbbá a támogatást igénylő, illetve támogatott szervezet képviseletében eljáró természetes személy vagy kapcsolattartó természetes személy
 
 - a) természetes személyazonosító adatait,
-- b) lakóhelyének, tartózkodási helyének, telefonszámának és elektronikus levelezési címének adatát,
+- b) lakóhelyének, tartózkodási helyének, telefonszámának és elektronikus levelezési címének adatait,
 - c) egyéb, az e törvényben és a végrehajtására kiadott, továbbá az államháztartás működésére vonatkozó jogszabályokban meghatározott feltételeknek való megfelelést igazoló személyes adatait.
 
-(4) A (3) bekezdés szerinti esetben a sportpolitikáért felelős miniszter a támogatást igénylő, illetve támogatott természetes személy adóazonosító jelét és társadalombiztosítási azonosító jelét is kezeli.
+(4) A (3) bekezdés szerinti esetben az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, az állami sportcélú támogatásokról szóló kormányrendeletben, valamint a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben meghatározottak szerint a sportpolitikáért felelős miniszter vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter hatáskörébe utalt feladatok tekintetében a sportpolitikáért felelős miniszter, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter a támogatást igénylő, illetve támogatott természetes személy adóazonosító jelét és társadalombiztosítási azonosító jelét is kezeli.
 
-(5) A sportpolitikáért felelős miniszter a (3) és (4) bekezdés szerinti személyes adatokat támogatás nyújtása esetén a támogatás utolsó részletének folyósítását követő tíz évig, vagy – ha az későbbi – a pénzbeli juttatásra vonatkozóan benyújtott keresetet elbíráló peres eljárásban hozott határozat jogerőre emelkedésének napjáig kezelheti.
+(5) Az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, az állami sportcélú támogatásokról szóló kormányrendeletben, valamint a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben meghatározottak szerint a sportpolitikáért felelős miniszter, vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter hatáskörébe utalt feladatok tekintetében a sportpolitikáért felelős miniszter, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter a (3) és (4) bekezdés szerinti személyes adatokat támogatás nyújtása esetén a támogatás utolsó részletének folyósítását követő tíz évig, vagy – ha az későbbi – a pénzbeli juttatásra vonatkozóan benyújtott keresetet elbíráló peres eljárásban hozott határozat jogerőre emelkedésének napjáig kezelheti.
 
-(6) A sportpolitikáért felelős miniszter a (3) és (4) bekezdés szerinti személyes adatokat a támogatási kérelem beérkezését követő év december 31. napjáig kezeli, ha a támogatási kérelem alapján nem kerül sor támogatás nyújtására.
+(6) Az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, az állami sportcélú támogatásokról szóló kormányrendeletben, valamint a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben meghatározottak szerint a sportpolitikáért felelős miniszter vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter hatáskörébe utalt feladatok tekintetében a sportpolitikáért felelős miniszter, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter a (3) és (4) bekezdés szerinti személyes adatokat a támogatási kérelem beérkezését követő év december 31. napjáig kezeli, ha a támogatási kérelem alapján nem kerül sor támogatás nyújtására.
 
 57. § (1) Állami támogatás csak annak részére nyújtható, akinek:
 
@@ -1474,7 +1492,7 @@ támogatására és e programokban elősegíti az esélyegyenlőséget, tovább�
 - h) az a sportszövetség, amely nem rendelkezik a sportágára vonatkozóan stratégiai fejlesztési koncepcióval,
 - i) az a szervezet, amely a sportpolitikáért felelős miniszter által a látvány-csapatsport támogatását biztosító szabályokról szóló kormányrendeletben meghatározottak szerinti támogatásból kizárás hatálya alatt áll,
 - j) az a sportszövetség, amelyik az (5) bekezdés szerinti kötelezettségét határidőre nem teljesíti,
-- k) az a szakszövetség, valamint országos sportági szövetség, amelyik nem igazolja, hogy rendelkezik a 23. § (1) bekezdésében meghatározott, e törvény, valamint a felhatalmazása alapján kiadott jogszabályok rendelkezéseivel összhangban álló szabályzatokkal.
+- k) a kiemelt nemzetközi sport- és sportdiplomáciai események kivételével az a szakszövetség, valamint országos sportági szövetség, amelyik nem igazolja, hogy rendelkezik a 23. § (1) bekezdésében meghatározott, e törvény, valamint a felhatalmazása alapján kiadott jogszabályok rendelkezéseivel összhangban álló szabályzatokkal.
 
 (3) A támogatást nyújtó a támogatási szerződéstől köteles elállni, ha a támogatott szervezet:
 
@@ -1483,7 +1501,7 @@ támogatására és e programokban elősegíti az esélyegyenlőséget, tovább�
 - c) köztartozása a szerződés megkötése óta lejárt és arra fizetési halasztást sem kapott,
 - d) a támogatást nem a szerződésben megjelölt célra használta fel.
 
-(4) A sportpolitikáért felelős minisztérium írásbeli megkeresésére, annak kézhezvételétől számított harminc napon belül az állami adóhatóság tájékoztatást köteles nyújtani a sportszervezetek, illetve a sportszövetségek köztartozásairól.
+(4) Az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, az állami sportcélú támogatásokról szóló kormányrendeletben, valamint a kiemelt nemzetközi sport- és sportdiplomáciai eseményekről és az azokhoz kapcsolódó költségvetési támogatásokról szóló kormányrendeletben meghatározottak szerint a sportpolitikáért felelős miniszter vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter hatáskörébe utalt feladatok tekintetében a sportpolitikáért felelős miniszter által vezetett minisztérium vagy a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter által vezetett minisztérium írásbeli megkeresésére, annak kézhezvételétől számított harminc napon belül az állami adóhatóság tájékoztatást köteles nyújtani a sportszervezetek, illetve a sportszövetségek köztartozásairól. Az adótitok igénylésére – az adózás rendjéről szóló 2017. évi CL. törvény 131. § (14) bekezdés i) pontjával összhangban – az állami sportcélú támogatás nyújtása, a támogatás feltételeinek ellenőrzése, a támogatás megállapítása, folyósítása és a támogatással való elszámolás ellenőrzése céljából kerülhet sor.
 
 (5) A sportszövetség a sportköztestület – sportpolitikáért felelős miniszter által meghatározott időpontban tett – felhívására elkészíti és megküldi a sportköztestület részére a működésével összefüggő, valamint szakmai feladatai ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját. A sportköztestület a sportszövetség által megküldött szakmai tervek és finanszírozási koncepciók figyelembevételével az államháztartásért felelős miniszter által meghatározott, a sportpolitikáért felelős miniszter által a sportköztestület részére megadott határidőben javaslatot tesz a miniszter részére a sportszövetség állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletben meghatározottak szerinti támogatásáról.
 
@@ -2204,7 +2222,9 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
   - bn) a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait,
   - bo) a regisztrált szabadidő-sportoló részére nyújtható támogatások és kedvezmények formáját, mértékét, igénybevételének feltételeit és módját,
   - bp) a sportakadémiai minősítés megszerzésének feltételeit és eljárásrendjét, a sportakadémia működésére, valamint az általa biztosítandó feltételekre és szolgáltatásokra vonatkozó szempontrendszert, alapvető követelményeket és az azoknak való megfelelés ellenőrzésének rendjét,
-  - bq) a 30/B. § (2) bekezdése szerinti miniszteri támogató nyilatkozat kiadására irányuló eljárás részletes szabályait, a kérelem formai követelményeit és a benyújtás módját.
+  - bq) a 30/B. § (2) bekezdése szerinti miniszteri támogató nyilatkozat kiadására irányuló eljárás részletes szabályait, a kérelem formai követelményeit és a benyújtás módját,
+  - br) a kiemelt nemzetközi sport- és sportdiplomáciai események körét és részletes szabályait,
+  - bs) a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter által vezetett minisztérium fejezet kiemelt nemzetközi sport- és sportdiplomáciai események rendezésének támogatására szolgáló előirányzatából nyújtott támogatások felhasználásának, elosztásának és ellenőrzésének részletes szabályait.
 
 (2) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 

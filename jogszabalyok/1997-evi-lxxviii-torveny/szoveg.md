@@ -81,6 +81,9 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - 42. Építésügyi műszaki irányelv: jogszabály vagy európai vagy nemzeti szabvány által nem vagy nem teljeskörűen szabályozott területen, ismételt vagy folyamatos alkalmazás céljára, széles körű szakmai összefogással és állami felügyelet mellett létrehozott, magyar nyelven kiadott, mindenki számára hozzáférhető építésügyi műszaki előírás.
 - 43. Barnamezős terület: olyan földrészlet vagy földrészletek összessége – ide nem értve a mező- és erdőgazdasági területeket –, amely elsősorban ipari, kereskedelmi, közlekedési vagy honvédelmi célú felhasználást követően felhagyottá, alulhasznosítottá vagy leromlott állapotúvá vált, jellemzően környezetszennyezéssel terhelt, ugyanakkor környezeti és műszaki beavatkozással értéknövelt, fejleszthető területté alakítható.
 - 44. vasúti telekalakítás: a vasúti közlekedésről szóló törvényben meghatározott eljárás.
+- 45. Rozsdaövezeti akcióterület: az e törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt, közlekedési, közmű- és intézményi infrastruktúrával ellátott vagy fenntartható módon ellátható, lakó- és más rendeltetés kialakítására alkalmas, jellemzően barnamezős területeket is magában foglaló terület, függetlenül attól, hogy a barnamezős területek 8. § (7) bekezdése szerinti lehatárolása megtörtént-e.
+- 46. Azonnali rozsdaövezeti akcióterület: olyan rozsdaövezeti akcióterület, amelyen a megvalósítani kívánt építési beruházások megindításához szükséges előkészítő munkák elvégzése nem szükséges, illetve azok folyamatban vannak vagy rövid időn belül elvégezhetőek, és amely tekintetében engedélyezett vagy előkészítés alatt álló építési beruházás megvalósítását tervezik a tulajdonosok, építtetők, és a kapcsolódó kedvezmények bevezetése gyors építkezéskezdést eredményezhet.
+- 47. Közép- és hosszú távú rozsdaövezeti akcióterület: olyan rozsdaövezeti akcióterület, amely tekintetében összetett előkészítő munkák, adott esetben környezeti kármentesítés, bontás, közműrendezés és infrastruktúra-fejlesztés, tulajdonrendezés, telekalakítás és településrendezési feladatok elvégzése szükséges, és amely fejlesztési célú területként való rendelkezésre állása kormányzati koordinációt, jelentős anyagi ráfordítást és többéves előkészítő időszakot igényel.
 
 ### Általános követelmények
 
@@ -116,6 +119,12 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 - a) a szabályozás, valamint a hatósági ügyek kapcsán az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter,
 - b) az építőipar fejlődésének elősegítése és támogatása érdekében az építésgazdaságért felelős miniszter útján gyakorolja.
+
+(5) A rozsdaövezeti akcióterület, az azonnali rozsdaövezeti akcióterület, valamint a közép- és hosszú távú rozsdaövezeti akcióterület lehatárolását a Kormány – a települési önkormányzat, a fővárosban az illetékes kerületi önkormányzat véleményének kikérésével – rendeletben állapítja meg.
+
+4/A. § (1) Kiemelten fontos közérdekű cél az egészséges lakó- és munkakörülmények javítása, a környezet- és a természetvédelem szempontjainak figyelembevétele, az infrastrukturális erőforrások optimális kihasználása, a rozsdaövezeti akcióterületek alkalmassá tétele a lakhatási feltételek biztosítására és városszövetbe integrálása, a munkahelyek megőrzése és új munkahelyek teremtése érdekében.
+
+(2) Az (1) bekezdésben rögzített célok megvalósítása érdekében a rozsdaövezeti akcióterületen megvalósítani kívánt beruházások megvalósítására a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 11/B–11/G. §-ában foglalt, a kiemelten közérdekű beruházások megvalósítására vonatkozó rendelkezéseket kell alkalmazni.
 
 5. § (1) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter a központi szakmai irányítási, összehangolási és ellenőrzési feladatkörében:
 
@@ -1701,6 +1710,8 @@ rendeletben állapítsa meg.
 - a) az 54. § (5b) bekezdése szerinti állami ünnep megszervezőjét,
 - b) az 54. § (5d) bekezdés a) pontja szerinti értesítésre, az 54. § (5d) bekezdés b) pontja szerinti nyilatkozat megadására és az 54. § (5e) bekezdése szerinti tájékoztatás megtételére vonatkozó részletes szabályokat,
 - c) az 54. § (5g) bekezdése szerinti eljárási szabályokat és az eljáró hatóságot.
+
+(1g) Felhatalmazást kap a Kormány, hogy a rozsdaövezeti akcióterület és azon belül az azonnali rozsdaövezeti akcióterület, illetve a közép- és hosszú távú rozsdaövezeti akcióterület lehatárolását rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter arra, hogy
 
