@@ -20,7 +20,7 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 ### A koncessziós pályázat
 
-4. § (1) A koncessziós szerződés megkötésére – a szerződésnek a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. § (3) bekezdése szerinti meghosszabbítását, valamint a 10/C. §, továbbá a 10/D. § szerinti megkötését kivéve – az állam vagy az önkormányzat pályázatot köteles kiírni. A pályázat – kivéve, ha a (2) vagy a (3) bekezdésben meghatározott feltétel a pályázat zárkörű kiírását teszi szükségessé – nyilvános.
+4. § (1) A koncessziós szerződés megkötésére – a szerződésnek a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. § (3) bekezdése szerinti meghosszabbítását, valamint a 10/C. § (1) bekezdés b) pontja, továbbá a 10/D. § szerinti megkötését kivéve – az állam vagy az önkormányzat pályázatot köteles kiírni. A pályázat – kivéve, ha a (2) vagy a (3) bekezdésben meghatározott feltétel a pályázat zárkörű kiírását teszi szükségessé – nyilvános.
 
 (2) Ha a honvédelmi vagy nemzetbiztonsági érdek a pályázat zárkörű kiírását teszi szükségessé, a zártkörű pályázat kiírását szükségessé tevő honvédelmi, illetve nemzetbiztonsági érdekekről az illetékes miniszter az Országgyűlés illetékes bizottságai véleményének meghallgatása után dönt.
 
@@ -103,19 +103,45 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 ### A megbízható szerencsejáték-szervezővel megköthető koncessziós szerződésre irányadó különös szabályok
 
-10/C. § (1) Az ágazati törvényben meghatározott megbízható szerencsejáték-szervezővel koncessziós szerződés az e §-ban meghatározottak szerint is köthető.
+10/C. § (1) Szerencsejáték szervezésére irányuló koncessziós szerződés megkötésére
 
-(2) Az ágazati miniszter mellőzheti a nyilvános koncessziós pályázat kiírását, ha a koncessziós szerződés megkötésére megbízható szerencsejáték-szervezővel is sor kerülhet.
+- a) koncessziós pályázat kiírása és lebonyolítása alapján, vagy
+- b) koncessziós pályázat kiírása nélkül, a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) szerinti megbízható szerencsejáték-szervezők között az e §-ban meghatározottak szerint kiírt ajánlattételi eljárás keretében
 
-(3) A szerencsejáték szervezésére irányuló tevékenység végzésére a megbízható szerencsejáték-szervező ajánlatot tesz. Az ajánlattevő ajánlatában megjelöli az üzemeltetni kívánt – a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvényben (a továbbiakban: Szjtv.) meghatározott – egységek település szerinti helyszínét és vállalja, hogy egységenként a mindenkori központi költségvetésről szóló törvényben meghatározott koncessziós díj összege legalább kétszeresének megfelelő összegű éves koncessziós díjat fizet.
+kerülhet sor.
 
-(3a)
+(2) Az ágazati miniszter a szerencsejáték szervezésére irányuló tevékenység koncessziós szerződés alapján történő végzésére irányuló koncessziós pályázat kiírását megelőzően a megbízható szerencsejáték-szervezőt 30 napos határidővel ajánlattételre hívja fel. Az ajánlattételi felhívás tartalmára az Szjtv. 4. § (4) és (5) bekezdését megfelelően alkalmazni kell.
 
-(4) Az ágazati miniszter az ajánlat elfogadásáról a megbízható szerencsejáték-szervező írásbeli ajánlatának átvételét követő 30 napon belül dönt. Az ajánlat elfogadása esetén 30 napon belül megköti a koncessziós szerződést az ajánlattevővel.
+(3) A megbízható szerencsejáték-szervező ajánlattevő ajánlatában megjelöli az üzemeltetni kívánt – az Szjtv.-ben meghatározott – egység település szerinti helyszínét és vállalja, hogy egységenként legalább az ajánlattételi felhívásban meghatározott összegű éves koncessziós díjat fizet.
 
-(5) Az e § szerint megkötött koncessziós szerződés alapján a koncesszió jogosultja legfeljebb öt egységet üzemeltethet.
+(4) Ha a megbízható szerencsejáték-szervező ajánlata nem felel meg az e törvényben, az Szjtv.-ben, valamint az ajánlattételi felhívásban meghatározott követelményeknek, az ágazati miniszter egy alkalommal, 30 napos határidővel hiánypótlásra szólítja fel a megbízható szerencsejáték-szervezőt, amelynek időtartama a (6) bekezdés szerinti döntés meghozatalának határidejébe nem számít bele.
 
-(6) A koncessziós szerződésre és a koncesszió jogosultjára egyebekben e törvény és az Szjtv. rendelkezései irányadóak.
+(5) Ha
+
+- a) az ajánlattételi felhívásban megjelölt határidőig nem érkezett be megbízható szerencsejáték-szervezőtől ajánlat, vagy
+- b) a hiánypótlásra felhívott megbízható szerencsejáték-szervező a hiánypótlásnak nem tett eleget, vagy az ajánlat a (4) bekezdés szerinti hiánypótlást követően sem felel meg az e törvényben, az Szjtv.-ben, valamint az ajánlattételi felhívásban meghatározott követelményeknek,
+
+az ágazati miniszter köteles koncessziós pályázatot kiírni.
+
+(6) Ha a megbízható szerencsejáték-szervező ajánlata megfelel az e törvényben, az Szjtv.-ben, valamint az ajánlattételi felhívásban meghatározott követelményeknek, az ágazati miniszter az ajánlat elfogadásáról a megbízható szerencsejáték-szervező írásbeli ajánlatának átvételét követő 30 napon belül dönt. Több érvényes ajánlat esetén az ágazati miniszter azzal a megbízható szerencsejáték-szervezővel köti meg a koncessziós szerződést, aki a legmagasabb összegű koncessziós díj megfizetését vállalja. Több azonos összegű koncessziós díjfizetésre vonatkozó érvényes ajánlat esetében az ágazati miniszter a korábban érvényes ajánlatot tevő megbízható szerencsejáték-szervezővel köti meg a koncessziós szerződést.
+
+Ha az ajánlattételi eljárás során nem a korábbi koncesszió jogosultja tette a legmagasabb összegű érvényes ajánlatot, de vállalja, hogy az ajánlattételi eljárásban tett legmagasabb összegű érvényes ajánlatnál is magasabb összegű éves koncessziós díjat fizet, abban az esetben az ágazati miniszter a volt jogosulttal köti meg a koncessziós szerződést.
+
+(7) Az ajánlattételi felhívásban megjelölt határidőn belül beérkezett ajánlatokról az ágazati miniszter emlékeztetőt készít. Az emlékeztető tartalmára a 9/A. §-t megfelelően alkalmazni kell.
+
+(8) Az e § szerinti ajánlattételi felhívás alapján lefolytatott eljárás eredményéről vagy eredménytelenségéről az ágazati miniszter legalább két országos napilapban vagy a kormányzati honlapon hirdetményt tesz közzé. Eredményes eljárás esetén a hirdetménynek tartalmaznia kell
+
+- a) a megbízható szerencsejáték-szervező megnevezését,
+- b) a koncessziós szerződéssel érintett egységek számát és földrajzi-közigazgatási egységét, és
+- c) a megbízható szerencsejáték-szervező által fizetendő koncessziós díj összegét.
+
+(9) Az e § szerint lefolytatott ajánlattételi eljárás esetén az ágazati miniszter a nyertes ajánlattevővel a (6) bekezdés szerinti döntés meghozatalát követő 30 napon belül köti meg a koncessziós szerződést.
+
+(10) Az e § szerint megkötött koncessziós szerződés alapján a koncesszió jogosultja legfeljebb hét egységet üzemeltethet.
+
+(11) A koncessziós szerződésre és a koncesszió jogosultjára egyebekben e törvény és az Szjtv. rendelkezései irányadóak.
+
+(12) Az (1)–(11) bekezdésben foglaltakat a lóversenyfogadás és – a lóversenyfogadás kivételével – a bukmékeri rendszerű fogadás szervezésére irányuló koncessziós szerződésnek az Szjtv. szerinti megbízható szerencsejáték-szervezővel nyilvános pályázat kiírása nélkül történő megkötésére irányuló ajánlattételi eljárásra és koncessziós szerződésre megfelelően alkalmazni kell.
 
 ### A megbízható dohánykereskedővel a dohánykiskereskedelem-ellátási tevékenység elvégzése céljából megköthető koncessziós szerződésre irányadó különös szabályok
 
@@ -141,7 +167,7 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 ### A koncessziós szerződés
 
-11. § Ha a koncessziós szerződés megkötésére nem a 10/C. §-ban vagy a 10/D. §-ban foglaltak szerint kerül sor, az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv csak azzal a pályázóval köthet szerződést, aki a pályázatot megnyerte. A pályázat nyertese az, aki összességében az állam, illetőleg az önkormányzat számára a kiírásnak megfelelő legkedvezőbb ajánlatot tette.
+11. § Ha a koncessziós szerződés megkötésére nem a 10/C. § (1) bekezdés b) pontjában vagy a 10/D. §-ban foglaltak szerint kerül sor, az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv csak azzal a pályázóval köthet szerződést, aki a pályázatot megnyerte. A pályázat nyertese az, aki összességében az állam, illetőleg az önkormányzat számára a kiírásnak megfelelő legkedvezőbb ajánlatot tette.
 
 11/A. § Ha e törvény 4. § (3) bekezdése alapján lefolytatott pályázat eredményes, a koncessziós szerződés megkötésével egyidejűleg a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdésében foglalt feltételeknek megfelelő szerződés megszűnik.
 
@@ -161,7 +187,7 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 14. § (1) Az állam, illetve az önkormányzat a jogosultnak a koncessziós díjjal vagy más módon ellentételezett vagyoni értékű pozícióját (kizárólagosság), annak beleegyezése nélkül a koncessziós szerződés időtartama alatt a szerződésben meghatározott földrajzi-közigazgatási egységen belül számára hátrányos módon csak abban az esetben változtathatja meg, ha erre vonatkozóan a felek a koncessziós szerződésben megállapodtak.
 
-(2) Az állam, illetve az önkormányzat a 10/C. §-a alapján megkötött koncessziós szerződés esetében a jogosult vagyoni értékű pozícióját annak beleegyezése nélkül a koncessziós szerződés időtartama alatt a szerződésben meghatározott földrajzi-közigazgatási egységen belül számára hátrányos módon csak akkor változtathatja meg, ha erre vonatkozóan a felek a koncessziós szerződésben megállapodtak.
+(2) Az állam, illetve az önkormányzat a 10/C. § (1) bekezdés b) pontja alapján megkötött koncessziós szerződés esetében a jogosult vagyoni értékű pozícióját annak beleegyezése nélkül a koncessziós szerződés időtartama alatt a szerződésben meghatározott földrajzi-közigazgatási egységen belül számára hátrányos módon csak akkor változtathatja meg, ha erre vonatkozóan a felek a koncessziós szerződésben megállapodtak.
 
 15. § (1) Abban az esetben, ha a koncesszió-köteles tevékenység kizárólagos állami tulajdonhoz vagy az önkormányzati törzsvagyonhoz tartozó vagyontárgyhoz kapcsolódik, a koncessziós szerződés megkötése e vagyontárgy tulajdonjogában változást nem eredményez. Az ágazati törvény a bányászati koncessziós szerződés alapján kitermelt természeti kincs feletti tulajdonjog vonatkozásában ettől eltérő rendelkezést állapíthat meg.
 
