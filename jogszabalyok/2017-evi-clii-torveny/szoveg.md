@@ -444,6 +444,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
   - el) az egyes árukra vagy országokra vonatkozó behozatali és kiviteli engedélyezésre, felügyeletre kijelölt hatóságot,
   - em) az egészségügyi államigazgatási szervet,
   - en) a klímavédelemért felelős hatóságot,
+  - eo) az atomenergia-felügyeleti szervet,
 - f) az agrárpolitikáért felelős minisztert az agrárrendtartással és a piacvédelmi elemzéssel összefüggő feladatok ellátása céljából,
 - g) a minisztert, ha a tájékoztatás jogszabályban meghatározott feladata ellátásához szükséges,
 - h) az egészségügyért felelős minisztert, illetve a külpolitikáért felelős minisztert ellenőrzési feladatai ellátása céljából,

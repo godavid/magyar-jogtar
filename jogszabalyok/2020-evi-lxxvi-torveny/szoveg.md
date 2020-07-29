@@ -18,37 +18,195 @@ Magyarország 2021. évi központi költségvetésének megalapozásáról
 
 #### 3. A koncesszióról szóló 1991. évi XVI. törvény módosítása
 
-6. §
+6. § A koncesszióról szóló 1991. évi XVI. törvény 10/C. §-a helyébe a következő rendelkezés lép:
 
-7. §
+„10/C. § (1) Szerencsejáték szervezésére irányuló koncessziós szerződés megkötésére
+
+a) koncessziós pályázat kiírása és lebonyolítása alapján, vagy
+
+b) koncessziós pályázat kiírása nélkül, a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) szerinti megbízható szerencsejáték-szervezők között az e §-ban meghatározottak szerint kiírt ajánlattételi eljárás keretében
+
+kerülhet sor.
+
+(2) Az ágazati miniszter a szerencsejáték szervezésére irányuló tevékenység koncessziós szerződés alapján történő végzésére irányuló koncessziós pályázat kiírását megelőzően a megbízható szerencsejáték-szervezőt 30 napos határidővel ajánlattételre hívja fel. Az ajánlattételi felhívás tartalmára az Szjtv. 4. § (4) és (5) bekezdését megfelelően alkalmazni kell.
+
+(3) A megbízható szerencsejáték-szervező ajánlattevő ajánlatában megjelöli az üzemeltetni kívánt – az Szjtv.-ben meghatározott – egység település szerinti helyszínét és vállalja, hogy egységenként legalább az ajánlattételi felhívásban meghatározott összegű éves koncessziós díjat fizet.
+
+(4) Ha a megbízható szerencsejáték-szervező ajánlata nem felel meg az e törvényben, az Szjtv.-ben, valamint az ajánlattételi felhívásban meghatározott követelményeknek, az ágazati miniszter egy alkalommal, 30 napos határidővel hiánypótlásra szólítja fel a megbízható szerencsejáték-szervezőt, amelynek időtartama a (6) bekezdés szerinti döntés meghozatalának határidejébe nem számít bele.
+
+(5) Ha
+
+a) az ajánlattételi felhívásban megjelölt határidőig nem érkezett be megbízható szerencsejáték-szervezőtől ajánlat, vagy
+
+b) a hiánypótlásra felhívott megbízható szerencsejáték-szervező a hiánypótlásnak nem tett eleget, vagy az ajánlat a (4) bekezdés szerinti hiánypótlást követően sem felel meg az e törvényben, az Szjtv.-ben, valamint az ajánlattételi felhívásban meghatározott követelményeknek,
+
+az ágazati miniszter köteles koncessziós pályázatot kiírni.
+
+(6) Ha a megbízható szerencsejáték-szervező ajánlata megfelel az e törvényben, az Szjtv.-ben, valamint az ajánlattételi felhívásban meghatározott követelményeknek, az ágazati miniszter az ajánlat elfogadásáról a megbízható szerencsejáték-szervező írásbeli ajánlatának átvételét követő 30 napon belül dönt. Több érvényes ajánlat esetén az ágazati miniszter azzal a megbízható szerencsejáték-szervezővel köti meg a koncessziós szerződést, aki a legmagasabb összegű koncessziós díj megfizetését vállalja. Több azonos összegű koncessziós díjfizetésre vonatkozó érvényes ajánlat esetében az ágazati miniszter a korábban érvényes ajánlatot tevő megbízható szerencsejáték-szervezővel köti meg a koncessziós szerződést.
+
+Ha az ajánlattételi eljárás során nem a korábbi koncesszió jogosultja tette a legmagasabb összegű érvényes ajánlatot, de vállalja, hogy az ajánlattételi eljárásban tett legmagasabb összegű érvényes ajánlatnál is magasabb összegű éves koncessziós díjat fizet, abban az esetben az ágazati miniszter a volt jogosulttal köti meg a koncessziós szerződést.
+
+(7) Az ajánlattételi felhívásban megjelölt határidőn belül beérkezett ajánlatokról az ágazati miniszter emlékeztetőt készít. Az emlékeztető tartalmára a 9/A. §-t megfelelően alkalmazni kell.
+
+(8) Az e § szerinti ajánlattételi felhívás alapján lefolytatott eljárás eredményéről vagy eredménytelenségéről az ágazati miniszter legalább két országos napilapban vagy a kormányzati honlapon hirdetményt tesz közzé. Eredményes eljárás esetén a hirdetménynek tartalmaznia kell
+
+a) a megbízható szerencsejáték-szervező megnevezését,
+
+b) a koncessziós szerződéssel érintett egységek számát és földrajzi-közigazgatási egységét, és
+
+c) a megbízható szerencsejáték-szervező által fizetendő koncessziós díj összegét.
+
+(9) Az e § szerint lefolytatott ajánlattételi eljárás esetén az ágazati miniszter a nyertes ajánlattevővel a (6) bekezdés szerinti döntés meghozatalát követő 30 napon belül köti meg a koncessziós szerződést.
+
+(10) Az e § szerint megkötött koncessziós szerződés alapján a koncesszió jogosultja legfeljebb hét egységet üzemeltethet.
+
+(11) A koncessziós szerződésre és a koncesszió jogosultjára egyebekben e törvény és az Szjtv. rendelkezései irányadóak.
+
+(12) Az (1)–(11) bekezdésben foglaltakat a lóversenyfogadás és – a lóversenyfogadás kivételével – a bukmékeri rendszerű fogadás szervezésére irányuló koncessziós szerződésnek az Szjtv. szerinti megbízható szerencsejáték-szervezővel nyilvános pályázat kiírása nélkül történő megkötésére irányuló ajánlattételi eljárásra és koncessziós szerződésre megfelelően alkalmazni kell.”
+
+7. § A koncesszióról szóló 1991. évi XVI. törvény
+
+- 1. 4. § (1) bekezdésében a „10/C. §” szövegrész helyébe a „10/C. § (1) bekezdés b) pontja” szöveg,
+- 2. 11. §-ában a „10/C. §-ban” szövegrész helyébe a „10/C. § (1) bekezdés b) pontjában” szöveg, és
+- 3. 14. § (2) bekezdésében a „10/C. §-a” szövegrész helyébe a „10/C. § (1) bekezdés b) pontja” szöveg
+
+lép.
 
 #### 4. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-8. §
+8. § (1) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 2. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-9. §
+(Nem adható meg az engedély, ha)
 
-10. §
+„b) a kérelmező, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény hatálya alá tartozó szerencsejáték szervezése esetén a kérelmezőnek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti tényleges tulajdonosa (a továbbiakban: tényleges tulajdonos), illetve vezető tisztségviselője vagy a szavazatok legalább 25%-ával rendelkező tagja a székhelye vagy lakóhelye szerinti állam joga vagy a magyar jog alapján büntetett előéletű,
 
-11. §
+ba) a 2013. június 30-ig hatályban volt Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti közélet tisztasága elleni (1978. évi IV. törvény XV. Fejezet VIII. cím), közbizalom elleni (1978. évi IV. törvény XVI. Fejezet III. cím), gazdasági (1978. évi IV. törvény XVII. Fejezet), vagyon elleni (1978. évi IV. törvény XVIII. fejezet) bűncselekményt, tiltott szerencsejáték szervezésének bűncselekményét,
 
-12. §
+bb) korrupciós [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. Fejezet], közbizalom elleni (Btk. XXXIII. Fejezet), vagyon elleni erőszakos (Btk. XXXV. Fejezet), vagyon elleni (Btk. XXXVI. Fejezet), szellemi tulajdonjog elleni (Btk. XXXVII. Fejezet), a pénz- és bélyegforgalom biztonsága elleni (Btk. XXXVIII. Fejezet), a költségvetést károsító (Btk. XXXIX. Fejezet), a pénzmosás (Btk. XL. Fejezet), a gazdálkodás rendjét sértő (Btk. XLI. Fejezet), a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő (Btk. XLII. Fejezet), a tiltott adatszerzés és az információs rendszer elleni (Btk. XLIII. Fejezet) bűncselekményt, tiltott szerencsejáték szervezésének bűncselekményét
 
-13. §
+követte el és ezért a kérelem benyújtását megelőző 3 éven belül jogerősen elítélték,”
 
-14. §
+(2) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 2. § (4) bekezdés d) pontja helyébe a következő rendelkezés lép:
 
-15. §
+(Nem adható meg az engedély, ha)
 
-16. §
+„d) a kérelmező, illetve vezető tisztségviselője, vagy a szavazatok legalább 25%-ával rendelkező tagja a kérelem benyújtását megelőző 5 éven belül a székhelye, vagy lakóhelye szerinti állam joga alapján tiltott szerencsejáték-szervező tevékenységet folytatott, vagy a kérelmező vezető tisztségviselője, vagy a szavazatok legalább 25%-ával rendelkező tagja olyan gazdálkodó szervezetben volt vezető tisztségviselő, vagy a szavazatok legalább 25%-ával rendelkező tag, amely a vezető tisztségviselői vagy tagsági jogviszonyának fennállása alatt, a kérelem benyújtását megelőző 5 éven belül tiltott szerencsejáték-szervező tevékenységet folytatott, és a tiltott szerencsejáték-szervező tevékenység folytatását jogerős bírósági ítélet állapította meg,”
 
-17. §
+(3) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 2. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-18. §
+„(5) A szerencsejáték-felügyeleti hatóság az engedély iránti kérelmet elutasítja, ha a kérelmezőnek, illetve vezető tisztségviselőjének, vagy a szavazatok legalább 25%-ával rendelkező tagjának a székhelye, vagy lakóhelye szerinti államban 10 millió forintot meghaladó 30 napon túli köztartozása vagy adótartozása van.”
 
-19. §
+9. § (1) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 4. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
 
-20. §
+„(3a) Ha a hatályos koncessziós szerződés eredeti időtartamának fele eltelt, a szerencsejáték-szervezés állami felügyeletéért felelős miniszter kiemelt nemzetgazdasági érdekből – így különösen az állami bevételek hosszú távú biztosítása érdekében – a koncessziós szerződés alapján végzett szerencsejáték szervezésére irányuló tevékenységre vonatkozóan a Ktv. 10/C. § (1) bekezdés b) pontja szerinti ajánlattételi eljárást folytat le, illetve koncessziós pályázatot ír ki a koncessziós szerződés eredeti időtartamának elteltét követő időszakra. Ilyen esetben a hatályos koncessziós szerződés eredeti időtartama a (3) bekezdés szerint nem hosszabbítható meg.
+
+(3b) A (3a) bekezdés szerinti kiemelt nemzetgazdasági érdek fennállásáról a Kormány rendelettel dönt.”
+
+(2) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A koncessziós szerződést a szerencsejáték-szervezés állami felügyeletéért felelős miniszter a Ktv. 10/C. § (1) bekezdés b) pontja alapján az e törvény szerinti megbízható szerencsejáték-szervezővel nyilvános pályázat kiírása nélkül, a Ktv. 10/C. § szerinti ajánlattételi eljárás keretében, a Ktv. 10/C. § (2)–(4), (6), (9) és (12) bekezdésében foglaltak szerint is megkötheti.”
+
+10. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 7/B. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A szerencsejáték-szervező tevékenység megkezdésekor a szervezőnek személyi megfelelősége megállapítása és hatósági bizonyítvány kiállítása iránt a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kérelmet kell benyújtania. A szervezőnek kérelméhez csatolnia kell a személyi megfelelőség igazolásához szükséges, jogszabályban meghatározott okiratokat és adatokat, valamint a létesítő okiratot. A szerencsejáték-felügyeleti hatóság a személyi feltételek vizsgálatát követően a szervező személyi megfelelőségét az annak igazolásául szolgáló legkésőbb kiállított okirat keltezésétől számított három évig állapítja meg, valamint hatósági bizonyítványt állít ki, amely a kiállítás napjától három évig érvényes.”
+
+11. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 16. §-a helyébe a következő rendelkezés lép:
+
+„16. § (1) A tombolajáték olyan nem folyamatosan szervezett sorsolásos játék, amelynél a sorsjegyet kizárólag a rendezvény helyszínén jelen lévők között árusítják, a sorsolást a rendezvény helyszínén és annak ideje alatt tartják meg és
+
+a) a kibocsátott sorsjegyek száma (az árusítani tervezett sorsjegyek összessége) az 5 ezer darabot vagy összértéke a 2 millió forintot nem haladja meg és
+
+b) a nyeremények fogyasztói áron számított összértéke a kibocsátott sorsjegyek összes értékének 80%-át meghaladja.
+
+(2) Tombolajáték a szerencsejáték-felügyeleti hatóság engedélye nélkül szervezhető, azonban a tombolajáték szervezését a szerencsejáték-szervező legalább 10 nappal a tombolajáték meghirdetése előtt bejelenti a szerencsejáték-felügyeleti hatósághoz. A szerencsejáték-felügyeleti hatóság a tombola lebonyolítását ellenőrizheti.
+
+(3) A sorsolás alatt át nem vett nyereményeket a rendezvény helyszínén és ideje alatt ismételten ki kell sorsolni mindaddig, amíg azokat a jelenlévő nyertes át nem veszi. A sorsolási eseményről közjegyzői okiratot kell kiállítani, vagy a szerencsejáték-szervező a sorsolást az általa kijelölt, a sorsolás lebonyolításáért felelős, legalább háromtagú sorsolási bizottság részvételével bonyolítja le, amely a sorsolás lebonyolításáról jegyzőkönyvet vesz fel.
+
+(4) Egy bejelentés alapján kizárólag egy tombolajáték bonyolítható le. Tilos készpénz-nyeremény tombolajáték keretében történő sorsolása.
+
+(5) Tombolajáték hírközlő eszköz és rendszer útján nem szervezhető.
+
+(6) Tombolajáték bejelentési és végelszámolási kötelezettség nélkül szervezhető bölcsődei ellátást biztosító intézmény és nevelési-oktatási intézmény rendezvényén, ha az eladott sorsjegyek összértékét teljes egészében és igazoltan a játékosok részére előzetesen meghirdetett célra fordítják.
+
+(7) A (6) bekezdés szerint lebonyolított tombolajátékra az (1) bekezdés b) pontját és a (2) bekezdést nem kell alkalmazni azzal, hogy a szerencsejáték-felügyeleti hatóság a tombola lebonyolítását ellenőrizheti.”
+
+12. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 21. §-a helyébe a következő rendelkezés lép:
+
+„21. § Sorsjáték az a rendezvény, amelynek keretében a sorsjáték szervezője ellenérték fejében folyamatos számozással megjelölt vagy az esetleges nyeremény összegét megjelölő sorsjegyet bocsát ki, és kötelezettséget vállal arra, hogy az előre meghatározott helyen és időben nyilvánosan megtartott sorsoláson, vagy a sorsjegy megvásárlásával egy időben a véletlenszerűen kihúzott számot vagy nyereményösszeget megjelölő sorsjegy birtokosát meghatározott vagyoni értéket képviselő nyereményhez juttatja.”
+
+13. § (1) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 28/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A 24/A. § (2) bekezdését és a 29/H. § (2)–(3b) bekezdését a fogadásszervezőre is alkalmazni kell.”
+
+(2) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 28/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Bukmékeri rendszerű fogadás esetén a koncessziós díj mértéke évente legalább 200 millió forint. A kiadott koncessziók száma egyidejűleg legfeljebb 2 lehet.”
+
+14. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 29/C. §-a helyébe a következő rendelkezés lép:
+
+„29/C. § Távszerencsejáték a fogadás, ha azt kizárólag hírközlő eszköz és rendszer útján szervezik. A fogadási esemény fogalmára a 28/A. § (1) bekezdésében foglalt rendelkezéseket kell alkalmazni.”
+
+15. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 37. § 30. pontja helyébe a következő rendelkezés lép:
+
+„30. Megbízható szerencsejáték-szervező: a 3. § (1) bekezdés a) pontja és (1a) bekezdése szerinti szerencsejáték-szervező, továbbá az a szerencsejáték-szervező, aki a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
+
+a) valamennyi, az állami adóhatóság által nyilvántartott, 10 000 000 Ft-ot meghaladó közteherre vonatkozó bevallási és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
+
+b) egyik bankszámláján sem volt 10 000 000 Ft-ot meghaladó azonnali beszedési megbízás az adóhatóság részéről, illetve működése során az állami adóhatóság nem indított ellene 10 000 000 Ft-ot meghaladó érték tekintetében végrehajtási eljárást,
+
+c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt a szerencsejáték-felügyeleti hatóság esetenként ötmillió forint összeget meghaladó bírsággal sújtotta volna,
+
+d) legalább 5 éven keresztül folytatott a szerencsejáték-felügyeleti hatóság engedélyével a koncessziós szerződés alapján gyakorolni kívánt tevékenység szerinti szerencsejáték szervezésére irányuló tevékenységet Magyarországon,
+
+e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.”
+
+16. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. §-a a következő (1c) és (1d) bekezdéssel egészül ki:
+
+„(1c) Felhatalmazást kap a Kormány, hogy a személyi megfelelőség megállapítására és meghosszabbítására vonatkozó részletes eljárási szabályokat rendeletben állapítsa meg.
+
+(1d) Felhatalmazást kap a Kormány, hogy a 4. § (3a) bekezdés szerinti ajánlattételi eljárás, illetve koncessziós pályázat kiírását rendelettel kiemelt nemzetgazdasági érdeknek minősítse.”
+
+17. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 40/A. §-a a következő (3)–(6) bekezdéssel egészül ki:
+
+„(3) Az e törvény alapján a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvény (a továbbiakban: Módtv.3.) hatálybalépését megelőzően megkötött koncessziós szerződések, valamint kiadott engedélyek hatályosságát a Módtv.3. hatálybalépése nem érinti.
+
+(4) Nem veszti hatályát a szerencsejáték-szervező tevékenység folytatására jogosító, a Módtv.3. hatálybalépését megelőzően kiadott engedély (a továbbiakban: korábbi engedély), ha az engedélyes a koncesszió megszűnése előtt a szerencsejáték-felügyeleti hatóságnál igazolja, hogy a Módtv.3. hatálybalépését megelőzően létrejött koncessziós szerződés szerinti koncesszió jogosultja (a továbbiakban: korábbi koncesszió jogosult) az engedély szerinti tevékenységre vonatkozóan
+
+a) a szerencsejáték szervezésére irányuló koncessziós szerződés megkötésére irányuló koncessziós pályázati kiírás alapján pályázatot nyújtott be, vagy
+
+b) a koncessziós szerződés Ktv. 10/C. § (1) bekezdés b) pontja alapján az e törvény szerinti megbízható szerencsejáték-szervezővel nyilvános pályázat kiírása nélkül történő megkötésére irányuló ajánlattételi felhívás alapján ajánlatot tett.
+
+(5) Ha a (4) bekezdés szerinti koncessziós pályázati vagy ajánlattételi eljárás eredményeként a korábbi engedély szerinti tevékenységre vonatkozóan a korábbi koncesszió jogosulttal jön létre koncessziós szerződés, az engedélyes a koncessziós szerződés hatálybalépését követő hat hónapon belül köteles a szerencsejáték szervezésének engedélyezése iránti kérelmet benyújtani a szerencsejáték-felügyeleti hatósághoz. A kérelem benyújtásának elmulasztása esetén a korábbi engedély a koncessziós szerződés hatálybalépését követő hatodik hónap utolsó napján hatályát veszti.
+
+(6) Ha a (4) bekezdés szerinti koncessziós pályázati vagy ajánlattételi eljárás eredményeként a korábbi engedély szerinti tevékenységre vonatkozóan nem a korábbi koncesszió jogosulttal jön létre koncessziós szerződés, a korábbi engedély a koncessziós szerződés hatálybalépésével egyidejűleg hatályát veszti, melynek időpontját a szerencsejáték-felügyeleti hatóság állapítja meg a szerencsejáték-szervezés állami felügyeletéért felelős miniszter tájékoztatása alapján.”
+
+18. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 40/F. §-a helyébe a következő rendelkezés lép:
+
+„40/F. § E törvény 2. § (4) és (8) bekezdése, 7/A. § (7) és (8) bekezdése, 7/B. § (3)–(6) bekezdése és 7/C. § (1) és (2) bekezdése a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelv 47. cikk (2) bekezdésének való megfelelést szolgálja.”
+
+19. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény
+
+- 1. 1. § (7a) bekezdésében az „a felelős játékszervezés részletes szabályairól szóló kormányrendelet, valamint az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló miniszteri rendelet” szövegrész helyébe az „az e törvény végrehajtására kiadott jogszabály” szöveg,
+- 2. 2. § (8) bekezdésében az „évente” szövegrész helyébe a „háromévente” szöveg,
+- 3. 5. § (2) bekezdésében az „e törvény különös rendelkezéseiben” szövegrész helyébe az „a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben” szöveg,
+- 4. 7/B. § (3), (4), és (6) bekezdésében, valamint a 7/C. § (1) bekezdésben az „a Vhr.-ben” szövegrész helyébe a „jogszabályban” szöveg,
+- 5. 12. § (3) bekezdés b) pontjában az „a felelős játékszervezés részletes szabályairól szóló kormányrendelet, továbbá az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló rendelet” szövegrész helyébe az „az e törvény végrehajtására kiadott jogszabály” szöveg,
+- 6. 20. § a) pontjában a „(21. §)” szövegrész helyébe a „(16. § és 21. §)” szöveg,
+- 7. 27. § (13) bekezdésében az „és Zala megyében együtt legfeljebb három” szövegrész helyébe a „és Zala megyében együtt legfeljebb négy” szöveg, és
+- 8. 29/L. § (3) bekezdésében az „az Szjtv. 27. § (5) és (6) bekezdése szerinti” szövegrész helyébe a „megfizetendő” szöveg
+
+lép.
+
+20. § (1) Hatályát veszti a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény
+
+- 1. 7/A. § (2) bekezdése, és
+- 2. 27. § (5)–(7) bekezdése.
+
+(2) Hatályát veszti a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény
+
+- 1. 29. § (1) bekezdésében az „A koncesszió időtartama legfeljebb 20 év.” szöveg,
+- 2. 29. § (2) bekezdésében az „A koncessziós díjat a 27. § (6) bekezdésében foglaltaknak megfelelően évente valorizálni kell.” szöveg, és
+- 3. 29/L. § (2) bekezdésében a „27. § (7) bekezdése szerinti” szöveg.
 
 #### 5. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
