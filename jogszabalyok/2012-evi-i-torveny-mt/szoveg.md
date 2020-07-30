@@ -3136,27 +3136,44 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 
 - a) a leghosszabb munkaidő vagy a legrövidebb pihenőidő mértéke,
 - b) a fizetett éves szabadság legalacsonyabb mértéke,
-- c) a legalacsonyabb munkabér összege,
+- c) a munkavégzés helyén általánosan irányadó díjazás összege,
 - d) a munkaerő-kölcsönzésnek a 214–222. §-ban meghatározott feltételei,
 - e) a munkavédelmi feltételek,
 - f) a várandós vagy kisgyermekes nő, valamint a fiatal munkavállaló munkavállalási és foglalkoztatási feltételei, továbbá
-- g) az egyenlő bánásmód követelménye
+- g) az egyenlő bánásmód követelménye,
+- h) a munkavállalónak a munkáltató által biztosított szállás feltételei,
+- i) Magyarország területén ideiglenesen foglalkoztatott munkavállaló kiküldetésekor felmerülő vagy Magyarország területén történő tartózkodás során, a szokásos munkavégzés helyétől eltérő munkahelyre küldés esetén az utazással, ellátással és szállással kapcsolatos költségekre fizetett juttatások vagy költségtérítés mértéke
 
 tekintetében a magyar jog szabályait kell alkalmazni, ideértve a munkaviszonyra kiterjesztett hatályú kollektív szerződésben foglalt rendelkezéseiket is.
 
 (2) Az (1) bekezdést alkalmazni kell abban az esetben is, ha a foglalkoztatásra a külföldi munkáltató vagy olyan munkáltató magyarországi telephelyén kerül sor, amely azonos cégcsoportba tartozik a külföldi munkáltatóval.
 
-(3) Az (1) bekezdés c) pontjának alkalmazásában a legalacsonyabb munkabér fogalmán a 136–153. §-okban meghatározott díjazást kell érteni. Nem kell a legalacsonyabb munkabérbe beszámítani az önkéntes kölcsönös biztosító pénztárba teljesítendő befizetést, valamint a munkavállalónak nyújtott olyan díjazást, amely nem képezi a személyi jövedelemadó alapját.
+(3) Az (1) bekezdés c) pontjának alkalmazásában a munkavégzés helyén általánosan irányadó díjazás fogalmán a 136–153. §-ban meghatározott díjazást kell érteni. Nem kell a díjazásba beszámítani a kiegészítő foglalkoztatói nyugdíjrendszerekbe történő befizetést, valamint a munkavállalónak nyújtott olyan díjazást, amely nem képezi a személyi jövedelemadó alapját.
 
-(4) Az épületek építésére, javítására, fenntartására, átalakítására vagy elbontására vonatkozó építőmunkát, így különösen földkiemelést, földmunkát, tényleges építőmunkát, előre gyártott elemek össze- és szétszerelését, felszerelést vagy berendezést, átalakításokat, felújítást, javítást, szétszerelést, elbontást, karbantartást, fenntartást, festési és takarítási munkát végző munkáltatók esetében az e tevékenység keretében foglalkoztatott munkavállalóra – az (1) bekezdésben meghatározott feltételek tekintetében – az ágazatra vagy alágazatra kiterjedő hatályú kollektív szerződés rendelkezéseit kell alkalmazni.
+(4) Az (1) bekezdésben meghatározott feltételek tekintetében az ágazatra vagy alágazatra kiterjedő hatályú kollektív szerződés rendelkezéseit kell alkalmazni.
 
-(5) Az (1)–(4) bekezdés rendelkezéseit nem kell alkalmazni, ha az (1) bekezdésben meghatározott feltételek tekintetében a munkaviszonyra egyébként irányadó jog a munkavállalóra kedvezőbb.
+(5) Ha az (1) bekezdés szerinti kiküldetés időtartama meghaladja a tizenkét hónapot, a munkaviszonyra e törvény rendelkezéseit – a (7) bekezdésben foglaltak kivételével – megfelelően alkalmazni kell.
+
+(6) Az (5) bekezdés szerinti időtartam további hat hónappal meghosszabbodik a külföldi munkáltató munkaügyi hatóság részére benyújtott, indokolással ellátott bejelentése esetén.
+
+(7) A tizenkét hónapot meghaladó kiküldetés esetén
+
+- a) a VII. fejezet,
+- b) a X. fejezet,
+- c) a 228. §, valamint
+- d) a kiegészítő foglalkoztatói nyugdíjrendszerekre vonatkozó rendelkezések
+
+nem alkalmazhatóak.
+
+(8) Ha a külföldi munkáltató a munkavállalót Magyarország területén adott munkahelyen végzett feladatot ellátó másik munkavállalóval helyettesíti (felváltó kiküldetés), a kiküldetés időtartama a felváltó kiküldetésben érintett munkavállalók összesített kiküldetési időtartamával egyezik meg. Az adott munkahelyen végzett feladat meghatározásához a nyújtandó szolgáltatás jellegét, az elvégzendő feladatot és a munkavégzés helyét kell figyelembe venni.
+
+(9) Az (1)–(4) bekezdés rendelkezéseit nem kell alkalmazni, ha az (1) bekezdésben meghatározott feltételek tekintetében a munkaviszonyra egyébként irányadó jog a munkavállalóra kedvezőbb.
 
 296. § (1) A 295. § rendelkezéseit nem kell alkalmazni a kereskedelmi hajózási tevékenységet folytató munkáltató tengerjáró hajón foglalkoztatott személyzete tekintetében.
 
 (2) A szerződés alapján az áru első összeszerelését vagy beszerelését végző, a szolgáltató által kiküldött munkavállalóra, a fizetett éves szabadság legalacsonyabb mértéke és a legalacsonyabb munkabér összege tekintetében nem kell alkalmazni a 295. § (1) bekezdés b)–c) pontban foglalt rendelkezéseket, ha a magyarországi munkavégzés időtartama nem haladja meg a nyolc napot, kivéve, ha a 295. § (4) bekezdésében meghatározott tevékenység végzésére kerül sor.
 
-297. § (1) A szolgáltatás nyújtására irányuló szerződés megkötését megelőzően a jogosult köteles írásban tájékoztatni a külföldi munkáltatót a 295. §-ban foglaltak alapján irányadó munkafeltételekről. A tájékoztatás elmulasztása esetén a jogosult készfizető kezesként felel a munkavállaló 295. §-ban meghatározott követeléseiért.
+297. § (1) A szolgáltatás nyújtására irányuló szerződés megkötését megelőzően a jogosult köteles írásban tájékoztatni a külföldi munkáltatót a 295. §-ban foglaltak alapján irányadó munkafeltételekről. Amennyiben a 215. § (1) bekezdés a) pont szerinti kölcsönbeadó a munkavállalót munkaerő-kölcsönzés keretében Magyarország területén munkavégzésre ideiglenesen átengedi, a kölcsönvevő köteles tájékoztatni a kölcsönbeadót a munkafeltételek és a díjazás tekintetében alkalmazandó foglalkoztatási feltételekről. A tájékoztatás elmulasztása esetén a jogosult készfizető kezesként felel a munkavállaló 295. §-ban meghatározott követeléseiért.
 
 (2) Ha a jogosult tudott vagy kellő gondosság mellett tudnia kellett arról, hogy a külföldi munkáltató munkabér és járulékfizetési kötelezettségének a munkavállaló foglalkoztatása során nem tett eleget, a külföldi munkáltatóval egyetemlegesen felel a külföldi munkáltatót terhelő munkabér és járulékai megfizetéséért.
 
@@ -3214,6 +3231,7 @@ a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak 
 - m) az Európai Parlament és Tanács 2008/104/EK irányelve (2008. november 19.) a munkaerő-kölcsönzés egyes szabályairól,
 - n) az Európai Parlament és Tanács 2014/67/EU irányelve (2014. május 15.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról,
 - o) az Európai Parlament és a Tanács 2015/1794/EU irányelve (2015. október 6.) a 2008/94/EK, a 2009/38/EK és a 2002/14/EK európai parlamenti és tanácsi irányelvnek, valamint a 98/59/EK és a 2001/23/EK tanácsi irányelvnek a tengerészek tekintetében történő módosításáról,
-- p) az Európai Parlament és a Tanács 2014/59/EU irányelve (2014. május 15.) a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU, 2012/30/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról.
+- p) az Európai Parlament és a Tanács 2014/59/EU irányelve (2014. május 15.) a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU, 2012/30/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról,
+- q) az Európai Parlament és a Tanács (EU) 2018/957 irányelve (2018. június 28.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról.
 
 300. § A 10–11. §, valamint a 11/A. § a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. árpilis 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.
