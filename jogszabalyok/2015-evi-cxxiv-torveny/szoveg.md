@@ -71,9 +71,9 @@ elektronikus úton köteles benyújtani az akkreditáló szervhez.
 
 (2a) Adatvédelmi tanúsító szervezet akkreditálási eljárásában és az akkreditált státusz területének bővítési eljárásában az értékelési szakasz során az általános adatvédelmi rendelet 43. cikk (2) bekezdés a) és e) pontjában meghatározott követelményeknek való megfelelés és 43. cikk (3) bekezdése szerint meghatározott szempontok mint szakkérdések tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóságot szakhatóságként kell bevonni.
 
-(3) Az akkreditáló szerv az akkreditálási eljárás és a felügyeleti vizsgálat döntéshozatali szakaszában a nemzeti akkreditálás rendszerébe tartozó szakterületeken szakértőként az akkreditáló bizottságot rendeli ki.
+(3) Az akkreditáló szerv az akkreditálási eljárás és a felügyeleti vizsgálati eljárás, valamint az akkreditált státusz területének bővítési eljárása döntéshozatali szakaszában a nemzeti akkreditálás rendszerébe tartozó szakterületeken szakértőként opponenst, szükség esetén opponenseket rendel ki.
 
-(4) Az értékelő csoport tagja nem lehet olyan személy, aki az akkreditáló bizottság tagja.
+(4) Opponens nem lehet olyan személy, aki ugyanazon eljárásban az értékelő csoport tagjaként járt el.
 
 (5) Az értékelési szakasz ügyintézési határideje száz nap.
 
@@ -207,14 +207,14 @@ bekövetkezett változás.
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-- a) az akkreditálási eljárásnak, a felügyeleti vizsgálat eljárásának, a külföldi akkreditált státusz elismerésére vonatkozó eljárásnak és az akkreditált státusz alapjául szolgáló körülményekben bekövetkezett változás bejelentésének részletes szabályait és az értékelő csoport, az akkreditáló bizottság összetételére, eljárására, díjazására vonatkozó szabályokat, valamint
+- a) az akkreditálási eljárásnak, a felügyeleti vizsgálat eljárásának, a külföldi akkreditált státusz elismerésére vonatkozó eljárásnak és az akkreditált státusz alapjául szolgáló körülményekben bekövetkezett változás bejelentésének részletes szabályait és az értékelő csoport összetételére, eljárására, díjazására vonatkozó szabályokat, továbbá az opponens eljárására, díjazására vonatkozó szabályokat, valamint
 - b) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezetek akkreditálása személyi, szervezeti feltételeit, a hitelesítő szervezet részére előírt biztosítéktartási kötelezettség részletes szabályait
 
 rendeletben határozza meg.
 
 (3) Felhatalmazást kap az iparügyekért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
 
-- a) az akkreditálási eljárásért, az akkreditált státusz területének bővítési eljárásáért, a kérelemre indult felügyeleti vizsgálati eljárásért, továbbá a külföldi akkreditált státusz elismerési eljárásáért fizetendő és
+- a) az akkreditálási eljárásért, az akkreditált státusz területének bővítési eljárásáért, a kérelemre indult felügyeleti vizsgálati eljárásért, az akkreditálási okirat kiállításáért, továbbá a külföldi akkreditált státusz elismerési eljárásáért fizetendő
 - b) a Nemzeti Adatvédelmi és Információszabadság Hatóságnak az adatvédelmi tanúsító szervezet akkreditálási eljárásában, az akkreditált státusz területének bővítési eljárásában és a kérelemre indult felügyeleti vizsgálati eljárásban szakhatóságként való eljárásáért fizetendő
 
 igazgatási szolgáltatási díj mértékét, a díjak beszedésével, megosztásával, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat – a b) pontban meghatározottak tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke véleményének kikérésével – rendeletben állapítsa meg.

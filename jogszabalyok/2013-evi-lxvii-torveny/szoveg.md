@@ -454,7 +454,7 @@ jogosult kezelni.
 
 - a) rendeletben állapítsa meg a törvény hatálya alá tartozó, díjfizetési kötelezettséggel érintett utakat és díjköteles elemi útszakaszokat, valamint a 6. § (2a) bekezdése szerinti útdíjköteles elemi útszakaszok körét, továbbá az ezen útdíjköteles elemi útszakaszokon az úthasználati jogosultság keletkezésének és fennállásának különös szabályait;
 - b) rendeletben állapítsa meg a Kormány által megállapított egyes díjkategóriákba tartozó gépjárművek díjszedési környezetvédelmi besorolását;
-- c) az adópolitikáért felelős miniszterrel egyetértésben rendeletben – a Kormány által rendeletben megállapított díjpolitikai alapelvek alapján – meghatározza az útdíjköteles elemi útszakaszok használatáért fizetendő útdíj – beleértve az infrastruktúra díjat és a külsőköltség-díjat – mértékét;
+- c) rendeletben állapítsa meg az államháztartásért felelős miniszterrel egyetértésben – a Kormány által rendeletben megállapított díjpolitikai alapelvek alapján – az útdíjköteles elemi útszakaszok használatáért fizetendő útdíj – beleértve az infrastruktúra díjat és a külsőköltség-díjat – alapmértékét,
 - d) rendeletben állapítsa meg a felügyeleti szerv nyilvántartás vezetésével kapcsolatos jogaira és kötelezettségeire, valamint a nyilvántartás vezetésére vonatkozó eljárási szabályokat;
 - e) rendeletben jelölje ki a tanúsító szervet,
 - f) rendeletben határozza meg az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők-, és a viszonteladók részére fizetendő átalány-költségtérítés mértékét és számításának módját.

@@ -87,7 +87,7 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 - g) a jogszabályban, kollektív szerződésben vagy a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződésben megállapított munkabér mértékére, valamint a munkabér védelmére vonatkozó rendelkezések,
 - h) a foglalkoztatásra irányuló jogviszony megszűnésével összefüggő – a munkavállalót megillető – igazolások kiállítására és kiadására, valamint a munkaviszony megszűnéséhez, megszüntetéséhez kapcsolódó elszámolás megtörténtére vonatkozó jogszabályok rendelkezéseinek,
 - i) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésére, illetve a harmadik országbeli és a szabad mozgás és tartózkodás jogával rendelkező állampolgárok foglalkoztatására vonatkozó jogszabályok,
-- j)
+- j) a külföldi munkáltató által szolgáltatások nyújtása keretében Magyarországra küldött munkavállaló munkaviszonyára az Mt. 295–297. §-a szerint alkalmazandó szabályok,
 - k) a munkaerő-kölcsönzésre vonatkozó, valamint a munkaerő-kölcsönzési tevékenység végzésére jogosító jogszabályok,
 - l)
 - m)
@@ -104,6 +104,8 @@ Mindezek érdekében – különös tekintettel a jogszabályi feltételeknek me
 (1b) Az (1a) bekezdés szerinti adatok kezelése során a munkaügyi hatóság a 8/D. §-ban foglaltak szerint jár el.
 
 (2) A munkaügyi hatóság hatásköre az (1) bekezdés g) pontja tekintetében az 1. § (1) bekezdés e) pontja szerinti munkabérre, illetve az Mt. 136. §-ában és 137. §-ában, 138. § (4)–(6) bekezdésében, 139–145. §-ában, 146. § (1)–(3) bekezdésében, 147. §-ában, 153–165. §-ában foglalt rendelkezések megtartásának ellenőrzésére terjed ki.
+
+(2a) A munkaügyi hatóság hatásköre az (1) bekezdés j) pontja tekintetében nem terjed ki az Mt. 295. § (1) bekezdés e), g) és i) pontjára.
 
 (3) A munkaerő-kölcsönzés esetében a munkaügyi hatóság hatásköre – az Mt. 215–218. §-a tekintetében – kiterjed a kölcsönbeadóra és a kölcsönvevőre. Az iskolaszövetkezet tanuló, hallgató tagjának az Sztv. 10/B. §-a alapján történő feladatteljesítése tekintetében a munkaügyi hatóság hatásköre kiterjed az iskolaszövetkezetre és az Sztv. 10/B. § (4)–(8) bekezdésében foglaltakra. Az Sztv. 10/C. §-a tekintetében a munkaügyi hatóság hatásköre kiterjed az iskolaszövetkezetre és a szolgáltatás fogadójára. A közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagjának az Sztv. 29. §-a alapján történő feladatteljesítése tekintetében a munkaügyi hatóság hatásköre kiterjed a közérdekű nyugdíjas szövetkezetre és az Sztv. 29. § (4)–(7) bekezdésében foglaltakra. Az Sztv. 30. §-a tekintetében a munkaügyi hatóság hatásköre kiterjed a nyugdíjas szövetkezetre és a szolgáltatás fogadójára.
 
@@ -298,6 +300,10 @@ megfelelő összeg terheli a foglalkoztatót.
 
 (2) Az (1) bekezdés szerinti bírság mértéke harmincezer forint. A bírság ismételten is kiszabható.
 
+(3) Ha a foglalkoztató a 3. § (1) bekezdés j) pontjában foglalt rendelkezéseket megsérti, a munkaügyi hatóság a szabálytalanság megszüntetésére kötelezi és a (2) bekezdés szerinti közigazgatási bírságot szab ki. A fizetési kötelezettség a foglalkoztatót annyi esetben terheli, ahány foglalkoztatott tekintetében a jogsértést megállapították. A bírság ismételten is kiszabható.
+
+(4) A foglalkoztatóval szemben a megállapított jogsértés miatt a (3) bekezdés szerinti jogkövetkezmény nem alkalmazható, ha a 8/B. § (5) bekezdés szerinti tájékoztatás a foglalkoztatásnak a jogsértést érintő feltételeit nem vagy hiányosan tartalmazza.
+
 8. § (1)
 
 (2) Ha a harmadik országbeli állampolgár foglalkoztatására érvényes tartózkodási engedély vagy kereső tevékenység folytatására jogosító engedély hiányában került sor, és az ellenőrzés megállapítja annak valószínűségét, hogy
@@ -357,6 +363,8 @@ végleges közigazgatási határozattal megállapította.
 (5) A 2. § (1) bekezdése szerinti munkaügyi hatóság magyar és angol nyelvű, korlátozásmentesen és ingyenesen, a fogyatékossággal élők számára is hozzáférhető módon tájékoztató honlapot működtet a határokon átnyúló szolgáltatásnyújtást végző munkáltatók és az általuk kiküldött munkavállalók jogaival és kötelezettségeivel összefüggő lényeges információkhoz való hozzáférés biztosítása érdekében.
 
 (6) Az (5) bekezdés szerinti honlap biztosítja a szolgáltatási tevékenységgel összefüggő hatósági nyilvántartások nyilvános adataihoz való hozzáférést, magyar és angol nyelven, valamint a fogyatékossággal élők számára is hozzáférhető módon naprakész tájékoztatást nyújt az ilyen nyilvántartásokból való adatigénylés feltételeiről.
+
+(7) Ha az (1) bekezdés szerinti együttműködés keretében megkereső hatóságként a 2. § (2) bekezdés szerinti munkaügyi hatóság jár el, és eljárása során a fogadó tagállam hatóságai vagy szervei részéről az információnyújtás folyamatos késedelmét észleli, a megfelelő intézkedések megtétele érdekében kezdeményezi az Európai Bizottság megkeresését.
 
 8/C. § (1) A munkaügyi hatóság a foglalkoztatók munkaügyi kapcsolatai rendezettségével kapcsolatos adatoknak más szervek eljárásában történő felhasználása céljából hatósági nyilvántartást vezet, amely tartalmazza azoknak a foglalkoztatóknak az adatait, amelyekre vonatkozóan a munkaügyi ellenőrzés során végleges hatósági határozat vagy – közigazgatási per esetén – jogerős és végrehajtható bírósági határozat jogsértést állapított meg. A nyilvántartás tartalmazza
 
@@ -538,7 +546,8 @@ részletes szabályait.
 - o) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv,
 - p) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelv;
 - q) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-ei 2014/66/EU európai parlamenti és tanácsi irányelv,
-- r) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlamenti és tanácsi irányelv.
+- r) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlamenti és tanácsi irányelv,
+- s) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról szóló 2018. június 28-i (EU) 2018/957 európai parlamenti és tanácsi irányelv.
 
 11. § (1)
 
