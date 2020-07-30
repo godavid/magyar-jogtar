@@ -214,7 +214,7 @@ válik hatályossá.
 
 (13) Ha az a közlekedési infrastruktúra-beruházás miatt szükséges, az országos településrendezési és építési követelményekről szóló jogszabály 2012. augusztus 6-án vagy azt megelőzően hatályos településrendezési követelményeinek megfelelően kidolgozott településrendezési eszközök 2021. december 31-ig módosíthatók.
 
-(14) Ha az építtető a (2) bekezdés szerinti kérelem előterjesztését az építési engedélyezési eljárásban igazolja, az építési engedélyt a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági nyilatkozatának hiányában vagy a hozzájárulás elutasítása esetén is ki kell adni. Az építési engedély akkor válik hatályossá és az építési tevékenység akkor kezdhető meg, amikor a településrendezési eszköz olyan módosítása lép hatályba, amellyel a kiadott engedély összhangban van.
+(14) Ha az építtető a (2) bekezdés szerinti kérelem előterjesztését az építési engedélyezési eljárásban igazolja, az építési engedélyt a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági állásfoglalásának hiányában vagy a hozzájárulás elutasítása esetén is ki kell adni. Ha nem került kiadásra a 6/D. § (3) bekezdése szerinti rendelet, akkor az építési engedély akkor válik hatályossá és az építési tevékenység akkor kezdhető meg, amikor a településrendezési eszköz olyan módosítása lép hatályba, amellyel a kiadott engedély összhangban van.
 
 6/I. § (1) A környezeti hatásvizsgálati eljárás során a kérelmet és mellékleteit elektronikus adathordozón is be kell nyújtania a kérelmezőnek, amelyet az érdemi döntésre jogosult hatóság elektronikus adathordozón vagy elektronikus úton is a szakhatóságok rendelkezésére bocsát.
 
@@ -256,31 +256,30 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 6/L. § (1) Az országos településrendezési és építési követelményekről szóló kormányrendeletben megjelölt gazdasági terület kivételével nem nyilvánítható beépítésre szánt területté a 6/D. § (3) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsáv.
 
-(2) Az (1) bekezdés szerinti korlátozás a közút vagy vasút építésére kiadott végleges építési engedély időbeli hatályával együtt szűnik meg, kivéve ha az érintett önkormányzatok a településrendezési eszközeikben átvezették a közút vagy vasút építésének tényét és területigényét, ebben az esetben a módosított településrendezési eszköz hatálybalépésével egyidejűleg megszűnik a korlátozás.
+(2)
 
-(3) A 6/D. § (3) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon a területsáv védettségének időtartamán belül tilos a terepviszonyokat megváltoztató munkát végezni. Ez a tilalom a megjelölt időtartamon belül az ingatlan vagy egy része állami tulajdonként való birtokba vételéig áll fenn.
+(3)
 
-(4) A 6/D. § (3) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon a területsáv védettségének időtartamán belül
+(4) Az ingatlannak állami tulajdonként az építtető általi birtokbavételéig a 6/D. § (3) bekezdésében megjelölt rendelet vagy a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17. § (1) bekezdés a) és b) pontja szerinti nyomvonalon – a területsáv védettségének időtartamán belül – a közlekedési hatóság előzetes engedélyével
 
-- a) más hatóság hatáskörébe tartozó építési vagy egyéb sajátos építményfajtákra vonatkozó végleges engedély alapján végezhető tevékenység csak akkor kezdhető meg, illetve folytatható,
-- b) a földrészlet művelési ágát és minőségi osztályát csak akkor lehet megváltoztatni,
+- a) kezdhető meg és folytatható építési, bontási, tereprendezési és egyéb értéknövekedést eredményező építési tevékenység,
+- b) változtatható meg a földrészlet művelési ága és minőségi osztálya.
 
-ha azt előzetesen a közlekedési hatóság engedélyezte.
+(5)
 
-(5) A (4) bekezdésben foglalt korlátozás a megjelölt időtartamon belül csak a 6/D. § (3) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávban levő ingatlannak állami tulajdonként, az építtető általi birtokbavételéig áll fenn.
+(6) A (4) bekezdés szerinti engedélyt a közlekedési hatóság akkor adja meg – egyidejűleg a közlekedési infrastruktúra beruházás építtetőjét is tájékoztatva –, ha
 
-(6) A (4) bekezdés szerinti engedélyt a közlekedési hatóság megadja, ha
+- a) a tevékenység az állékonyságot, életet, egészséget, közbiztonságot veszélyeztető károk megelőzését, vagy a károk elhárítását szolgálja,
+- b) a tevékenység értéknövekedést nem eredményez vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy a közút építtetőjével kötendő adásvételi szerződés esetére vagy bármilyen egyéb jognyilatkozattal – véglegesen lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről vagy
+- c) a tevékenység az állami fejlesztési célokat nem akadályozza vagy nem okoz aránytalan költséget az állami fejlesztési célok megvalósítása során.
 
-- a) a tevékenység bontási munka, vagy az állékonyságot, életet, egészséget, köz- és vagyonbiztonságot veszélyeztető károk megelőzését, illetve a károk elhárítását szolgálja, továbbá
-- b) a tevékenység értéknövekedést nem eredményez vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy a közútépíttetővel kötendő adásvételi szerződés esetén – lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről.
+(7) A közlekedési hatóság az engedély kiadása iránti kérelem benyújtásától számított öt napon belül tizenöt napos határidő tűzésével hívja fel a közlekedési infrastruktúra beruházás építtetőjét a (6) bekezdés c) pontjában meghatározott tartalmú nyilatkozat megtételére. Amennyiben a közlekedési infrastruktúra beruházás építtetője határidőn belül nem nyilatkozik, a közlekedési hatóság a (6) bekezdés c) pontja szerinti tartalom alapján kérelmezett engedély kiadását megtagadja.
 
-(7) Ha a nyomvonal felszín alatti vonalvezetéssel tervezett, a nyomvonal felszín alatti szakaszán a tengelytől számított 50 méteren belül a (4) bekezdés szerinti engedély a (6) bekezdésben foglaltak szerint adható ki. Az (1) bekezdés szerint védett terület fennmaradó részén a közlekedési hatóság az építtető hozzájárulásával megadhatja a (4) bekezdés szerinti engedélyt, ha a tevékenység értéknövekedést nem eredményez, vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy a közútépíttetővel kötendő adásvételi szerződés esetén – lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről.
+(8) A (4) bekezdés szerinti használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően végleges döntéssel engedélyezett építési munkákra.
 
-(8) A (3)–(4) bekezdés szerinti tilalom, illetve használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően végleges döntéssel engedélyezett építési munkákra.
+(9) A (4) bekezdés szerinti használati korlátozással bekövetkező akadályoztatás (az ingatlannak közút céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás időtartamára, jellegére, az akadályoztatást megelőző, tulajdonos (haszonélvező) általi tényleges használat mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan közút céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
 
-(9) A (3) és (4) bekezdés szerinti használati korlátozással bekövetkező akadályoztatás (az ingatlannak közút céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás időtartamára, jellegére, az akadályoztatást megelőző, tulajdonos (haszonélvező) általi tényleges használat mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan közút céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
-
-(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére a fővárosi vagy a megyei kormányhivatal állapítja meg. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni. Amennyiben az ingatlan megvásárlására, kisajátítására az egyszeri kártalanítás megállapítását és kifizetését követően sor kerül, úgy a vételár, kártalanítási összeg meghatározása során az ingatlan – (3) bekezdés szerinti tilalom és (4) bekezdés szerinti használati korlátozás figyelmen kívül hagyásával megállapított – forgalmi értékéből az egyszeri kártalanítás összegét le kell vonni.
+(10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére a fővárosi vagy a megyei kormányhivatal állapítja meg. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni. Amennyiben az ingatlan megvásárlására, kisajátítására az egyszeri kártalanítás megállapítását és kifizetését követően sor kerül, úgy a vételár, kártalanítási összeg meghatározása során az ingatlan – a (4) bekezdés szerinti használati korlátozás figyelmen kívül hagyásával megállapított – forgalmi értékéből az egyszeri kártalanítás összegét le kell vonni.
 
 6/M. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán az építtető az előkészítés fázisában köteles az egységes elektronikus közműnyilvántartás adatszolgáltatását igénybe venni, a kiváltásra vagy kiépítésre kerülő közművek terveit elkészíttetni.
 
