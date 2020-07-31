@@ -309,7 +309,7 @@ Az alapító az intézkedés tervezett végrehajtása éve májusának utolsó m
 
 (8) A szakképzési centrum – a szakképzésért felelős miniszter engedélyével – ágazati képzőközpontban, illetve tudásközpontban részesedést szerezhet.
 
-#### 27. § [A Kormány más tagja, illetve az állami felsőoktatási intézmény fenntartói joggyakorlása alá tartozó szakképző intézmény]
+#### 27. § [A Kormány más tagja, illetve az állami és nem állami felsőoktatási intézmény fenntartói joggyakorlása alá tartozó szakképző intézmény]
 
 (1) Az állam képviseletében eljárva szakképző intézményt
 
@@ -322,6 +322,8 @@ alapíthat és gyakorolhatja a fenntartót megillető jogokat. Az a) pont szerin
 (2) A Kormány rendeletben az állami szakképző intézmény állam nevében történő alapítására és a fenntartói irányítási hatáskörök gyakorlására az (1) bekezdésben meghatározott miniszter mellett más tagját is kijelölheti. A Kormány rendeletben a szakképzésért felelős miniszter mellett más tagja által alapított szakképző intézmény szakképzési centrum részeként történő működését írhatja elő.
 
 (3) Állami felsőoktatási intézmény szakképző intézmény fenntartói jogait a szakképzésért felelős miniszter hozzájárulásával gyakorolhatja. Ha a szakképző intézmény állami felsőoktatási intézmény fenntartói joggyakorlásába tartozik, a szakképző intézmény a felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egységeként működik.
+
+(4) A szakképző intézmény fenntartói jogát a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.) 84. § (3) bekezdésében foglalt megállapodást kötött nem állami felsőoktatási intézmény gyakorolhatja.
 
 #### 28. § [A fenntartói megállapodás]
 
@@ -886,7 +888,7 @@ biztosítanak a munkavállaló részére. E rendelkezések alkalmazásában munk
 
 létrehozott nonprofit gazdasági társaság ágazati képzőközpontként működhet.
 
-(2) A szakirányú oktatás és a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.) szerinti duális képzés egy képzőközpontban történő megvalósítása céljából a felsőoktatási intézmény és a szakképzési centrum együttesen legalább ötvenegy százalékos tulajdoni hányadával létrehozott nonprofit gazdasági társaság tudásközpontként működhet.
+(2) A szakirányú oktatás és az Nftv. szerinti duális képzés egy képzőközpontban történő megvalósítása céljából a felsőoktatási intézmény és a szakképzési centrum együttesen legalább ötvenegy százalékos tulajdoni hányadával létrehozott nonprofit gazdasági társaság tudásközpontként működhet.
 
 (3) Önállóan vagy más gazdálkodó szerv megbízása alapján szakirányú oktatás folytatása céljából a saját tanműhellyel rendelkező, a Kkvtv. szerinti mikro-, kis- és középvállalkozásnál nagyobb gazdálkodó szervezet, ha utolsó éves nettó árbevételének legalább kilencven százaléka vállalkozási tevékenységből származik, saját szervezetén belül vállalati képzőközpontot működtethet.
 
