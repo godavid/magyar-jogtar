@@ -2392,7 +2392,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 8.4. | GYŐR Liszt Ferenc u. 13. | megyeháza |
 | 8.5. | GYŐR Széchenyi tér 5. | Apátúr-ház |
 | 8.6. | MIHÁLYI Korona u. 1. | Dőry-kastély együttese |
-| 8.7. | MOSONMAGYARÓVÁR Pozsonyi út 88. | vár és erődrendszer |
+| 8.7. |  |  |
 | 8.8. | NAGYCENK, Széchenyi-kastély műemléki együttese |  |
 | Kiscenki út 3. | Széchenyi Emlékmúzeum |
 | Kiscenki út 3. | virágház (kastélyszálló) |
@@ -2404,7 +2404,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 8.10. | SOPRON Fő tér 6. | Fabricius-ház |
 | 8.11. | SOPRON Fő tér 7. | Tábornokház |
 | 8.12. | SOPRON Fő tér 8. | Storno-ház |
-| 8.13. | SOPRON Templom u. 2–4. | Esterházy-palota |
+| 8.13. |  |  |
 | 8.14. | SOPRON Új u. 11. | zsinagóga |
 | 8.15. | SOPRON Új u. 22–24. | zsinagóga |
 | 8.16. | SOPRONHORPÁCS | Széchenyi-kastély együttese |
@@ -2568,7 +2568,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 18.4. | CSESZNEK Vár u. | várrom |
 | 18.5. | CSOPAK Kisfaludy u. 28. | vízimalom |
 | 18.6. | DABRONC Ötvös-puszta | Szegedy-kastély és kúria együttese |
-| 18.7. | DEVECSER Petőfi tér 5. | Esterházy-várkastély |
+| 18.7. |  |  |
 | 18.8. | DOBA | Erdődy-kastély együttese |
 | 18.9. | DOBA | Somló vár romjai |
 | 18.10. | DÖBRÖNTE Szarvaskő | Szarvaskő vár romjai |
