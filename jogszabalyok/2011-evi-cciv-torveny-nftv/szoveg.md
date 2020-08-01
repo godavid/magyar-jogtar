@@ -64,7 +64,7 @@ alapíthat.
 
 (4) Az állam nevében a fenntartói jogokat – ha törvény másként nem rendelkezik – az oktatásért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter a fenntartói jogot megállapodással a tudománypolitika koordinációjáért felelős miniszterre ruházhatja.
 
-5. § (1) A felsőoktatási intézmény jogi személy.
+5. § (1) A felsőoktatási intézmény, valamint a felsőoktatási intézmény 94. § (2c) bekezdésben meghatározott szervezeti egysége jogi személy.
 
 (2) A munka törvénykönyvét, valamint – az állami felsőoktatási intézmény tekintetében – a közalkalmazottak jogállásáról szóló törvényt e törvényben meghatározott eltérésekkel kell alkalmazni.
 
@@ -2152,6 +2152,8 @@ eltérő rendelkezéseket állapíthat meg,
 
 (2b) A magán felsőoktatási intézmény alapító okirata úgy is rendelkezhet, hogy – a felsőoktatási intézménynek a kutatás és a tanítás tartalmával és módszereivel kapcsolatban az Alaptörvényben biztosított önállóságát nem sértve – az intézményi munkaszervezet vezetésére, valamint a fenntartó által meghatározott feladatok ellátására elnöki tisztség hozható létre. Az elnök a feladatai teljesítéséhez szükséges mértékben egyetértési jogot gyakorol a rektori hatáskörök tekintetében, és részt vesz az intézmény képviseletében. Egyebekben feladatai teljesítése körében a rektorral és a kancellárral – illetve ahol kancellár nem került megbízásra, a gazdasági vezetővel – együttműködik. Az elnök véleményezi a rektorjelöltre vonatkozó személyi javaslatot és ellátja az e törvényben, az alapító okiratban, valamint a szervezeti és működési szabályzatban foglalt feladatokat, azzal, hogy feladatköre az oktatási-kutatási tevékenység vezetéséhez – különösen a 12. § (1) bekezdésében, a 13. § (7) bekezdés a) pont ab)–ac) alpontban, és b)–c) pontban, a 16. § (4) bekezdésében, a 29. § (2) és (3) bekezdésében, a 31. § (6)–(7) bekezdésben, az 52. § (8) bekezdésében, az 59. § (1) bekezdés f) pontjában, a 69. § (1) és (2) bekezdésében, a 72. § (2) bekezdésében, a 75. § (1) bekezdésében – a rektor számára biztosított hatáskörök gyakorlására nem terjedhet ki. Ha a magán felsőoktatási intézményben elnöki tisztség kerül létrehozásra, azt a rektor is betöltheti. Ugyanazon személy egyidejűleg elnöki és kancellári – ennek hiányában gazdasági vezetői – megbízást nem láthat el.
 
+(2c) A magán felsőoktatási intézmény szervezeti egységét – ide nem értve a 14. § (3) bekezdés szerinti, törvény alapján jogi személyiségű szervezeti egységként működtetett köznevelési intézményt, szakképző intézményt – a magán felsőoktatási intézmény alapító okirata jogi személlyé nyilváníthatja. A szervezeti egység jogi személyiségét az alapító okirat, illetve annak módosításának az oktatási hivatal általi bejegyzésével szerzi meg.
+
 (3) A magán felsőoktatási intézmények – feltéve, hogy a Kormány a támogatásra megállapodásban vállalt kötelezettséget – a megállapodásban foglalt feltételek mellett jogosultak a 84. § (2) bekezdés a)–b), valamint e) és g) pontjában meghatározott támogatásokra. Az e bekezdésben foglaltakat az országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében is alkalmazni kell.
 
 (4) A magán felsőoktatási intézmény a 2. § (1) és (3) bekezdésében meghatározott feladatok szerinti tevékenységet folytathat, ennek megvalósítása érdekében – e törvényben és a Kormány által meghatározottak szerint – gazdálkodik (a továbbiakban: magán felsőoktatási intézmény gazdálkodási rendje).
@@ -2787,6 +2789,10 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 114/L. § A Budapesti Corvinus Egyetem a 2019/2020. tanév őszi félévében jogosult a 46. § (1) bekezdés a) pontja szerinti képzés meghirdetésére, a 2019/2020. tanév tavaszi félévében első évfolyamon kezdődő és azt követően meghirdetett képzéseit – a 117/C. § (11) bekezdés szerinti megállapodás hiányában – önköltséges képzésként folytatja.
 
+114/M. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2020. évi XXXIII. törvénnyel megállapított 53. § (3) bekezdését első alkalommal a 2022. évi felvételi eljárásban doktori képzésben komplex vizsga letételével hallgatói jogviszonyt létesítő hallgatókra kell alkalmazni.
+
+(2) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2020. évi XXXIII. törvénnyel megállapított 94. § (2c) bekezdésére tekintettel 2020. szeptember 1-jéig szükséges módosítani a magán felsőoktatási intézmény alapító okiratát, valamint szervezeti és működési szabályzatát.
+
 #### 70. Szervezeti, foglalkoztatási rendelkezések
 
 115. § (1) E törvénynek a felsőoktatási intézmények működéséhez kapcsolódó eljárási szabályait a 2012. szeptember 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
@@ -2874,6 +2880,8 @@ megnevezéssel működik.
 (29) 2020. július 31. napján a Szent István Egyetem Ybl Miklós Építéstudományi Kara a Szent István Egyetem szervezetéből kiválik és az Óbudai Egyetem szervezetébe olvad be.
 
 (30) 2020. július 31. napján a Budapesti Gazdasági Egyetem Gazdálkodási Kara (Gazdálkodási Kar Zalaegerszeg) a Budapesti Gazdasági Egyetem szervezetéből kiválik és a Pannon Egyetem szervezetébe olvad be.
+
+(31) 2020. augusztus 1. napjával a Kaposvári Egyetem és a Szent István Egyetem összeolvadásával a Szent István Egyetem jön létre.
 
 116. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3) bekezdésében foglalt feltételeket az 1. mellékletben meghatározott egyetemeknek 2017. szeptember 1-jéig kell teljesíteniük.
 
@@ -3011,82 +3019,80 @@ vonatkozó szabályait még alkalmazni kell. Az a) és b) pontban megjelölt id�
 
 #### Magyarország államilag elismert felsőoktatási intézményei
 
-|  | A |  | B |  | C |
-| --- | --- | --- | --- | --- | --- |
-| 1. | I. EGYETEMEK |  |  |  |  |
-| 2. |  |  | I/A. Állami egyetemek |  |  |
-| 3. |  |  |  |  | Állatorvostudományi Egyetem, Budapest |
-| 4. |  |  |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
-| 5. |  |  |  |  | Debreceni Egyetem, Debrecen |
-| 6. |  |  |  |  | Eötvös Loránd Tudományegyetem, Budapest |
-| 7. |  |  |  |  | Kaposvári Egyetem, Kaposvár |
-| 8. |  |  |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
-| 9. |  |  |  |  | Magyar Képzőművészeti Egyetem, Budapest |
-| 10. |  |  |  |  | Magyar Táncművészeti Egyetem, Budapest |
-| 11. |  |  |  |  | Miskolci Egyetem, Miskolc |
-| 12. |  |  |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
-| 13. |  |  |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
-| 14. |  |  |  |  | Óbudai Egyetem, Budapest |
-| 15. |  |  |  |  | Pannon Egyetem, Veszprém |
-| 16. |  |  |  |  | Pécsi Tudományegyetem, Pécs |
-| 17. |  |  |  |  | Semmelweis Egyetem, Budapest |
-| 18. |  |  |  |  | Soproni Egyetem, Sopron |
-| 19. |  |  |  |  | Szegedi Tudományegyetem, Szeged |
-| 20. |  |  |  |  | Szent István Egyetem, Gödöllő |
-| 21. |  |  |  |  | Széchenyi István Egyetem, Győr |
-| 22. |  |  |  |  | Színház- és Filmművészeti Egyetem, Budapest |
-| 23. |  |  |  |  | Testnevelési Egyetem, Budapest |
-| 24. |  |  | I/B. Nem állami egyetemek |  |  |
-| 25. |  |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |  |
-| 26. |  |  |  | Budapesti Corvinus Egyetem, Budapest |  |
-| 27. |  |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |  |
-| 28. |  |  |  | Evangélikus Hittudományi Egyetem, Budapest |  |
-| 29. |  |  |  | Károli Gáspár Református Egyetem, Budapest |  |
-| 30. |  |  |  | Közép-európai Egyetem, Budapest |  |
-| 31. |  |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |  |
-| 32. |  |  |  | Pázmány Péter Katolikus Egyetem, Budapest |  |
-| 33. | II. ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |  |  |
-| 34. |  | II/A. Állami alkalmazott tudományok egyetemei |  |  |  |
-| 35. |  |  |  | Budapesti Gazdasági Egyetem, Budapest |  |
-| 36. |  |  |  | Dunaújvárosi Egyetem, Dunaújváros |  |
-| 37. |  |  |  | Eszterházy Károly Egyetem, Eger |  |
-| 38. |  |  |  | Nyíregyházi Egyetem, Nyíregyháza |  |
-| 39. |  |  |  | Neumann János Egyetem, Kecskemét |  |
-| 40. |  | II/B. Nem állami alkalmazott tudományok egyetemei |  |  |  |
-| 41. |  |  |  | Budapesti Metropolitan Egyetem, Budapest |  |
-| 42. |  |  |  | Edutus Egyetem, Tatabánya |  |
-| 43. |  |  |  | Kodolányi János Egyetem, Orosháza |  |
-| 44. |  |  |  | Milton Friedman Egyetem, Budapest |  |
-| 45. | III. FŐISKOLÁK |  |  |  |  |
-| 46. |  | III/A. Állami főiskolák |  |  |  |
-| 47. |  |  |  | Eötvös József Főiskola, Baja |  |
-| 48. |  | III/B. Nem állami főiskolák |  |  |  |
-| 49. |  |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |  |
-| 50. |  |  |  | Adventista Teológiai Főiskola, Pécel |  |
-| 51. |  |  |  | Apor Vilmos Katolikus Főiskola, Vác |  |
-| 52. |  |  |  | Baptista Teológiai Akadémia, Budapest |  |
-| 53. |  |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |  |
-| 54. |  |  |  | Brenner János Hittudományi Főiskola, Győr |  |
-| 55. |  |  |  | Budapest Kortárstánc Főiskola, Budapest |  |
-| 56. |  |  |  | Egri Hittudományi Főiskola, Eger |  |
-| 57. |  |  |  | Esztergomi Hittudományi Főiskola, Esztergom |  |
-| 58. |  |  |  | Gábor Dénes Főiskola, Budapest |  |
-| 59. |  |  |  | Gál Ferenc Főiskola, Szeged |  |
-| 60. |  |  |  | Golgota Teológiai Főiskola, Vajta |  |
-| 61. |  |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |  |
-| 62. |  |  |  | Pápai Református Teológiai Akadémia, Pápa |  |
-| 63. |  |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |  |
-| 64. |  |  |  | Pünkösdi Teológiai Főiskola, Budapest |  |
-| 65. |  |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |  |
-| 66. |  |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |  |
-| 67. |  |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |  |
-| 68. |  |  |  | Szent Atanáz Görögkatolikus Hittudományi Főiskola, Nyíregyháza |  |
-| 69. |  |  |  | Szent Bernát Hittudományi Főiskola, Zirc |  |
-| 70. |  |  |  | Szent Pál Akadémia, Budapest |  |
-| 71. |  |  |  | Tomori Pál Főiskola, Budapest |  |
-| 72. |  |  |  | Veszprémi Érseki Hittudományi Főiskola, Veszprém |  |
-| 73. |  |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |  |
-| 74. |  |  |  | Wesley János Lelkészképző Főiskola, Budapest |  |
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1. | I. EGYETEMEK |  |  |
+| 2. |  | I/A. Állami egyetemek |  |
+| 3. |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
+| 4. |  |  | Debreceni Egyetem, Debrecen |
+| 5. |  |  | Eötvös Loránd Tudományegyetem, Budapest |
+| 6. |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
+| 7. |  |  | Magyar Képzőművészeti Egyetem, Budapest |
+| 8. |  |  | Magyar Táncművészeti Egyetem, Budapest |
+| 9. |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
+| 10. |  |  | Óbudai Egyetem, Budapest |
+| 11. |  |  | Pannon Egyetem, Veszprém |
+| 12. |  |  | Pécsi Tudományegyetem, Pécs |
+| 13. |  |  | Semmelweis Egyetem, Budapest |
+| 14. |  |  | Szegedi Tudományegyetem, Szeged |
+| 15. |  |  | Szent István Egyetem, Gödöllő |
+| 16. |  |  | Színház- és Filmművészeti Egyetem, Budapest |
+| 17. |  |  | Testnevelési Egyetem, Budapest |
+| 18. |  | I/B. Nem állami egyetemek |  |
+| 19. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
+| 20. |  |  | Állatorvostudományi Egyetem, Budapest |
+| 21. |  |  | Budapesti Corvinus Egyetem, Budapest |
+| 22. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
+| 23. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
+| 24. |  |  | Károli Gáspár Református Egyetem, Budapest |
+| 25. |  |  | Közép-európai Egyetem, Budapest |
+| 26. |  |  | Miskolci Egyetem, Miskolc |
+| 27. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
+| 28. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
+| 29. |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
+| 30. |  |  | Soproni Egyetem, Sopron |
+| 31. |  |  | Széchenyi István Egyetem, Győr |
+| 32. | II. ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
+| 33. |  | II/A. Állami alkalmazott tudományok egyetemei |  |
+| 34. |  |  | Budapesti Gazdasági Egyetem, Budapest |
+| 35. |  |  | Dunaújvárosi Egyetem, Dunaújváros |
+| 36. |  |  | Eszterházy Károly Egyetem, Eger |
+| 37. |  |  | Nyíregyházi Egyetem, Nyíregyháza |
+| 38. |  | II/B. Nem állami alkalmazott tudományok egyetemei |  |
+| 39. |  |  | Budapesti Metropolitan Egyetem, Budapest |
+| 40. |  |  | Edutus Egyetem, Tatabánya |
+| 41. |  |  | Gál Ferenc Egyetem, Szeged |
+| 42. |  |  | Kodolányi János Egyetem, Orosháza |
+| 43. |  |  | Milton Friedman Egyetem, Budapest |
+| 44. |  |  | Neumann János Egyetem, Kecskemét |
+| 45. | III. FŐISKOLÁK |  |  |
+| 46. |  | III/A. Állami főiskolák |  |
+| 47. |  |  | Eötvös József Főiskola, Baja |
+| 48. |  | III/B. Nem állami főiskolák |  |
+| 49. |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
+| 50. |  |  | Adventista Teológiai Főiskola, Pécel |
+| 51. |  |  | Apor Vilmos Katolikus Főiskola, Vác |
+| 52. |  |  | Baptista Teológiai Akadémia, Budapest |
+| 53. |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
+| 54. |  |  | Brenner János Hittudományi Főiskola, Győr |
+| 55. |  |  | Budapest Kortárstánc Főiskola, Budapest |
+| 56. |  |  | Egri Hittudományi Főiskola, Eger |
+| 57. |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
+| 58. |  |  | Gábor Dénes Főiskola, Budapest |
+| 59. |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
+| 60. |  |  | Pápai Református Teológiai Akadémia, Pápa |
+| 61. |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
+| 62. |  |  | Pünkösdi Teológiai Főiskola, Budapest |
+| 63. |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
+| 64. |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |
+| 65. |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |
+| 66. |  |  | Szent Atanáz Görögkatolikus Hittudományi Főiskola, Nyíregyháza |
+| 67. |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
+| 68. |  |  | Szent Pál Akadémia, Budapest |
+| 69. |  |  | Tomori Pál Főiskola, Budapest |
+| 70. |  |  | Veszprémi Érseki Hittudományi Főiskola, Veszprém |
+| 71. |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
+| 72. |  |  | Wesley János Lelkészképző Főiskola, Budapest |
 
 ### 2. melléklet a 2011. évi CCIV. törvényhez
 

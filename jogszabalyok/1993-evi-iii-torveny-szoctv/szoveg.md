@@ -1356,7 +1356,7 @@ a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogsza
 
 (2b) A központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságnak nem feltétele a befogadás
 
-- a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott vagy általa a 91. § (3) bekezdése alapján más fenntartónak átadott szociális szolgáltatók és szociális intézmények esetén,
+- a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott vagy általa a szociál- és nyugdíjpolitikáért felelős miniszter előzetes hozzájárulásával más fenntartónak átadott szociális szolgáltatók és szociális intézmények esetén,
 - b) családsegítés és gyermekjóléti szolgáltatás esetén,
 - c) a 131/A. § alapján támogatott szociális szolgáltatások esetén,
 - d)
