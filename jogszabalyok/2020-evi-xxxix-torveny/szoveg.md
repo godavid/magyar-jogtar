@@ -24,13 +24,33 @@ A Miskolci Egyetem képzési területeinek, ezen keresztül az innovációt tám
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
-3. §
+3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján, a preambulumban meghatározott célok megvalósítása érdekében, az alapító okirat szerint az Egyetem – nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
+
+(2) Az (1) bekezdés alapján ingyenesen juttatott vagyonelem tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
+
+(3) Az Alapítvány további vagyonának biztosításáról a Kormány gondoskodik.
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
-4. §
+4. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben felsorolt egyes állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
 
-5. §
+(2) Az e törvény szerinti vagyonjuttatás során az 1. mellékletben szereplő Natura 2000 területként nyilvántartott ingatlan esetében nem kell alkalmazni az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 25. § (5) bekezdését.
+
+(3) Az 1. mellékletben foglalt táblázat 23. sorában meghatározott ingatlan ingyenes átruházása tekintetében az Nvtv. 6. § (1) bekezdését nem kell alkalmazni.
+
+(4) Az 1. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg az Egyetemmel.
+
+(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdésben meghatározott közfeladatok ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
+
+(6) Az (5) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(7) Az 1. mellékletben meghatározott ingatlanok tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
+5. § (1) A 4. § alapján ingyenesen tulajdonba adott ingatlanok tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
+
+(2) Az Egyetem a tulajdonába adott ingatlanokat – a 4. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlanokat értékesíti, akkor az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az alaptevékenységét szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+(3) A 4. § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
 #### 4. Záró rendelkezések
 
@@ -47,3 +67,41 @@ A Miskolci Egyetem képzési területeinek, ezen keresztül az innovációt tám
 9. §
 
 ### 1. melléklet a 2020. évi XXXIX. törvényhez
+
+#### Az Egyetem részére átadásra kerülő állami tulajdonú ingatlanok
+
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1. | TELEPÜLÉS | HELYRAJZI SZÁM | MEGNEVEZÉS |
+| 2. | Bükkszentkereszt | 073 | kivett oktatási központ |
+| 3. | Mályi | 727 | kivett beépítetlen terület |
+| 4. | Mályi | 728 | kivett üdülőépület, udvar |
+| 5. | Miskolc | 1802 | kivett udvar és középiskola |
+| 6. | Miskolc | 40591/1 | kivett út |
+| 7. | Miskolc | 40591/3 | kivett út |
+| 8. | Miskolc | 40591/4 | kivett egyetem |
+| 9. | Miskolc | 40592/3 | kivett egyetem |
+| 10. | Miskolc | 40592/4 | kivett egyetem |
+| 11. | Miskolc | 40592/6 | kivett sporttelep |
+| 12. | Miskolc | 40592/7 | kivett udvar, egyéb épület és út |
+| 13. | Miskolc | 40592/8 | kivett beépítetlen terület |
+| 14. | Miskolc | 40592/10 | kivett egyetem |
+| 15. | Miskolc | 40592/11 | kivett egyetem |
+| 16. | Miskolc | 40593/2 | kivett saját használatú út |
+| 17. | Miskolc | 40593/4 | kivett árok |
+| 18. | Miskolc | 40593/6 | kivett saját használatú út |
+| 19. | Miskolc | 40593/7 | kivett irodaház, udvar |
+| 20. | Miskolc | 40593/9 | kivett saját használatú út |
+| 21. | Miskolc | 40593/10 | kivett árok |
+| 22. | Miskolc | 40593/16 | kivett irodaház, udvar |
+| 23. | Miskolc | 40593/17 | kivett közpark |
+| 24. | Miskolc | 40593/19 | kivett üzem |
+| 25. | Miskolc | 40597/3 | kivett beépítetlen terület |
+| 26. | Miskolc | 40597/7 | kivett árok |
+| 27. | Miskolc | 40597/12 | kivett beépítetlen terület |
+| 28. | Miskolc | 40597/13 | kivett sporttelep |
+| 29. | Miskolc | 40597/14 | kivett sporttelep |
+| 30. | Miskolc | 40597/15 | kivett sporttelep |
+| 31. | Miskolc | 40597/16 | kivett saját használatú út |
+| 32. | Miskolc | 40597/19 | kivett sporttelep |
+| 33. | Siófok | 7017 | kivett üdülőépület, egyéb épület, udvar |

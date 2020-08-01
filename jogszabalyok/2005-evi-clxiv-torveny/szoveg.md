@@ -56,7 +56,9 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 35. diszkont: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400 négyzetméternél nagyobb bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet, amely nem rendelkezik friss hús, húskészítmény és tejtermékek kimérésére szolgáló pulttal;
 - 36. fogyasztó: a fogyasztóvédelemről szóló törvény szerinti fogyasztó;
 - 37. utazó: az utazásszervezői, -közvetítői, valamint az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység vonatkozásában, minden olyan személy, akinek szándékában áll utazási szolgáltatásra, vagy azok összeállítására vonatkozó szerződés megkötése, vagy ilyen szerződés alapján utazásra jogosult;
-- 38. utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység: olyan tevékenység, amelynek keretében az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló kormányrendeletben meghatározott utazási szolgáltatást kínál, értékesít.
+- 38. utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység: olyan tevékenység, amelynek keretében az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló kormányrendeletben meghatározott utazási szolgáltatást kínál, értékesít;
+- 39. magánszálláshely: az a nem kizárólag szálláshely-szolgáltatás folytatása céljából, magánszemély vagy egyéni vállalkozó által hasznosított lakás vagy üdülő, illetve azok egy lehatárolt részének és hozzátartozó területének hasznosítása, ahol a szobák száma legfeljebb nyolc, és az ágyak száma legfeljebb tizenhat,
+- 40. egyéb szálláshely: nem kizárólag szálláshely-szolgáltatás folytatása céljából létesített épületben, de szálláshely-szolgáltatási céllal és nem magánszemély vagy nem egyéni vállalkozó által hasznosított, önálló rendeltetési egységet képező épületrész, ahol az egy szobában található ágyak külön-külön is hasznosításra kerülhetnek, illetve a szobák száma legfeljebb huszonöt, és az ágyak száma legfeljebb száz.
 
 ### A kereskedelmi tevékenységek folytatásának általános feltételei
 
@@ -195,7 +197,15 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 - b) amelynek vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző egy éven belül a lovas szolgáltató tevékenységével összefüggésben az állat-egészségügyi és az állattartási körülményekre vonatkozó jogszabályi rendelkezések megsértése miatt végleges hatósági határozatban eltiltottak a lovas szolgáltató tevékenység végzésétől,
 - c) amely által munkavállalóként vagy foglalkoztatásra irányuló egyéb jogviszony alapján foglalkoztatott legalább egy személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó rendelkezik a külön jogszabályban meghatározott szakképesítéssel.
 
-6/D. § Szálláshely-szolgáltatás csak a kereskedelmi hatóság részére történő a szálláshely-üzemeltetési bejelentést követően folytatható.
+6/D. § (1) Szálláshely-szolgáltatás csak a kereskedelmi hatóság részére történő szálláshely-üzemeltetési bejelentést követően folytatható.
+
+(2) A szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit – ide nem értve a magánszálláshelyen és az egyéb szálláshelyen az egy naptári éven belül szálláshely-szolgáltatás céljára felhasználható napok számát –, a szálláshely-üzemeltetési bejelentés rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szálláshely-szolgáltató tájékoztatási és adatszolgáltatási kötelezettségeit, az adatszolgáltatás rendjét, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket a Kormány rendeletben állapítja meg.
+
+(3) A települési (Budapesten a kerületi) önkormányzat képviselő-testülete, a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése (a továbbiakban együtt: önkormányzat) rendeletben állapíthatja meg a magánszálláshelyen és az egyéb szálláshelyen az egy naptári éven belül szálláshely-szolgáltatás céljára felhasználható napok számát.
+
+(4) Ha az önkormányzat a (3) bekezdés alapján a magánszálláshelyen és az egyéb szálláshelyen az egy naptári éven belül szálláshely-szolgáltatás céljára felhasználható napok számát nem határozta meg, abban az esetben e tevékenység időbeli megkötés nélkül végezhető.
+
+(5) Az önkormányzat a (3) bekezdés szerinti rendeletében az abban foglaltak megsértése esetére közigazgatási bírságot és tevékenység végzésétől történő eltiltást állapíthat meg.
 
 6/E. § (1) Aki tartós szálláshasználati szolgáltatási tevékenységet kíván folytatni, köteles az erre irányuló szándékát a kereskedelmi hatóságnak bejelenteni.
 
@@ -357,7 +367,7 @@ nyilvántartást vezet.
 - c) a vásárlók könyve hitelesítésének rendjét,
 - d) a vásár- és piactartás részletes szabályait, a bevásárlóközpont, a vásár és a piac üzemeltetésének részletes feltételeit, valamint a bevásárlóközpont és a helyi termelői piac bejelentésének, illetve a vásár- és a piacüzemeltetési engedély kiadásának részletes szabályait, valamint a kereskedelmet kiszolgáló szolgáltató tevékenységet végzők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - e) a tartós szálláshasználati szolgáltatási tevékenység folytatásának részletes feltételeit, a tartós szálláshasználati szolgáltatási tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban, illetve hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit, a szálláshely-üzemeltetési bejelentésnek rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szálláshely-szolgáltató tájékoztatási és adatszolgáltatási kötelezettségeit, az adatszolgáltatás rendjét, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit – ide nem értve a magánszálláshelyen és az egyéb szálláshelyen az egy naptári éven belül szálláshely-szolgáltatás céljára felhasználható napok számát –, a szálláshely-üzemeltetési bejelentés rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szálláshely-szolgáltató tájékoztatási és adatszolgáltatási kötelezettségeit, az adatszolgáltatás rendjét, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - g) az utazásszervezői és utazásközvetítői tevékenységre vonatkozó bejelentés rendjét és feltételeit, az utazásszervezői és utazásközvetítői tevékenység végzésének feltételeit, valamint az utazásszervezők és az utazásközvetítők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, valamint a kötelező biztosításra vonatkozó részletszabályokat,
 - h) a kereskedelmi hatóság vagy hatóságok kijelölését,
 - i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének részletes szabályait,
@@ -395,6 +405,13 @@ rendeletben állapítsa meg.
 rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy az üzletek éjszakai (22 és 6 óra közötti) nyitvatartási rendjét, a felügyeleti díjra vonatkozó részletszabályokat, a befolyt összeg felhasználásáról szóló elszámolás módját, valamint a 2. § 31. pontjában foglaltak ellenőrzését rendeletben szabályozza.
+
+(5a) Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy
+
+- a) a magánszálláshely és az egyéb szálláshely esetében a magánszálláshelyen és az egyéb szálláshelyen az egy naptári éven belül szálláshely-szolgáltatás céljára felhasználható napok számát,
+- b) az a) pont alapján meghatározott előírások be nem tartásának esetén alkalmazandó közigazgatási bírságra és tevékenység végzésétől történő eltiltásra vonatkozó szabályokat
+
+rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a vendéglátásért felelős miniszter, hogy – a kereskedelemért felelős miniszterrel egyetértésben – rendeletben szabályozza a vendéglátás szakmai feltételeit.
 

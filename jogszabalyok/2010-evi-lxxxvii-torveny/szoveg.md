@@ -381,7 +381,8 @@ követő napon.
 
 - a) költségvetési szervvel,
 - b) többségi állami tulajdoni részesedéssel működő olyan gazdálkodó szervezettel, amely alapító okiratában vagy külön jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja hasznosítani a földrészletet, vagy
-- c) olyan gazdálkodó szervezettel, amely jogszabályban rögzített állami feladat ellátásához kívánja hasznosítani a földrészletet.
+- c) olyan gazdálkodó szervezettel, amely jogszabályban rögzített állami feladat ellátásához kívánja hasznosítani a földrészletet,
+- d) olyan közérdekű vagyonkezelő alapítvánnyal, amelynek elsődleges feladata felsőoktatási intézmény alapítói, fenntartói jogainak gyakorlása, valamint működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása.
 
 (2) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelését csak költségvetési szerv vagy 100%-os állami tulajdonban álló gazdálkodó szervezet végezheti.
 

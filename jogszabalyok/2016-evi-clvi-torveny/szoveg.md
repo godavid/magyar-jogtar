@@ -186,6 +186,8 @@ díjmentesen igényelheti.
 
 (6) A Nemzeti Turisztikai Adatszolgáltató Központban történő regisztráció, valamint az adatszolgáltatás részletes szabályait a Vhr. tartalmazza.
 
+(7) A települési (Budapesten a kerületi) önkormányzat, továbbá a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat a kereskedelemről szóló 2005. évi CLXIV. törvény 6/D. § (3) bekezdése szerinti rendeletéről a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét a hivatalos honlapján közzétett formában és adattartalommal a rendelet kihirdetését követő 5 napon belül tájékoztatja.
+
 9/D. § (1) A Nemzeti Turisztikai Adatszolgáltató Központ a 9/B. § (1) bekezdés b) pontja szerinti adatokat – a hivatalos statisztikáról szóló törvénnyel összhangban – statisztikai célra, egyedi azonosításra alkalmas módon, térítésmentesen továbbítja a Központi Statisztikai Hivatal (a továbbiakban: KSH) részére a KSH által erre a célra üzemeltetett elektronikus rendszeren keresztül.
 
 (2) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője az (1) bekezdés szerinti adattovábbítás céljából együttműködési megállapodást köt a KSH-val.
