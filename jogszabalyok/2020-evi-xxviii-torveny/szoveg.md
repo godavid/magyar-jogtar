@@ -104,12 +104,9 @@ foglaltakat kell alkalmazni azzal, hogy ahol e rendelkezések a 4. § (1) bekezd
 
 12. § A 3. § (1) bekezdése, a 3. § (3) bekezdés b) pontja, a 10. § (1) bekezdése, a 10. § (3) bekezdés a) pontja, a 14. § és az 1. melléklet az Alaptörvény P) cikk (2) bekezdése, valamint 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-13. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 58/A. § (2b) bekezdés a) pontjában a „91. § (3) bekezdése alapján” szövegrész helyébe a „szociál- és nyugdíjpolitikáért felelős miniszter előzetes hozzájárulásával” szöveg lép.
+#### 13. §
 
-14. § Hatályát veszti az Nvtv. 2. melléklet III. pont
-
-- a) 8. alpontjában foglalt táblázat 8.13. sora,
-- b) 18. alpontjában foglalt táblázat 18.7. sora.
+#### 14. §
 
 ### 1. melléklet a 2020. évi XXVIII. törvényhez
 

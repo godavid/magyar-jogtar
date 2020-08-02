@@ -17,7 +17,7 @@ a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításár�
 4. § Hatályát veszti a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet
 
 - a)
-- b) III. pont 8. alpontjában foglalt táblázat 8.7. sora.
+- b)
 
 #### 4. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
@@ -39,17 +39,15 @@ a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításár�
 
 #### 6. A Marek József Alapítványról, a Marek József Alapítvány és az Állatorvostudományi Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXIV. törvény módosítása
 
-12. § A Marek József Alapítványról, a Marek József Alapítvány és az Állatorvostudományi Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXIV. törvény (a továbbiakban: 2020. évi XXXIV. törvény) 1. melléklete a 3. melléklet szerinti szöveggel kiegészülve lép hatályba.
+12. §
 
-13. § Nem lép hatályba a 2020. évi XXXIV. törvény 1. mellékletében foglalt táblázat 7. sora.
+13. §
 
 #### 7. A Neumann János Egyetemért Alapítványról, a Neumann János Egyetemért Alapítvány és a Neumann János Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVI. törvény módosítása
 
 14. §
 
-15. § A 2020. évi XXXVI. törvény 4. § (2) bekezdése a következő szöveggel lép hatályba:
-
-„(2) Az 1. mellékletben foglalt táblázat 19., 21., 41., 43. és 49–50. sorában meghatározott ingatlanok ingyenes átruházása tekintetében az Nvtv. 6. § (1) bekezdését nem kell alkalmazni.”
+15. §
 
 16. §
 
@@ -65,7 +63,7 @@ a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításár�
 
 #### 9. A Széchenyi István Egyetemért Alapítványról, a Széchenyi István Egyetemért Alapítvány és a Széchenyi István Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVIII. törvény módosítása
 
-21. § Nem lép hatályba a Széchenyi István Egyetemért Alapítványról, a Széchenyi István Egyetemért Alapítvány és a Széchenyi István Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVIII. törvény 1. mellékletében foglalt táblázat 59. sora.
+21. §
 
 #### 10. Záró rendelkezések
 
@@ -90,10 +88,3 @@ a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításár�
 ### 2. melléklet a 2020. évi LXXV. törvényhez
 
 ### 3. melléklet a 2020. évi LXXV. törvényhez
-
-A 2020. évi XXXIV. törvény 1. mellékletében foglalt táblázat a következő 9. sorral kiegészülve lép hatályba:
-
-|  | (A | B | C | D | E |
-| --- | --- | --- | --- | --- | --- |
-| 1. | TELEPÜLÉS | KERÜLET | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS) |
-| „9. | Budapest | XIV. KERÜLET | 32429 | 239/1546 | kivett egyetem” |

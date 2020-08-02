@@ -1286,7 +1286,7 @@ E megállapodás 3. és 4. cikkében, valamint I. mellékletében említett egy�
 
 4. A Svájci Államszövetség (az Európai Közösség és a Svájci Államszövetség között a légi közlekedésről létrejött megállapodás alapján).”
 
-4. § Az Országgyűlés jóváhagyja a Megállapodásnak az e törvény hatálybalépésétől kezdődően történő ideiglenes alkalmazását.
+4. §
 
 5. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
 

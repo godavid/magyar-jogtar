@@ -1486,7 +1486,7 @@ F.1: A Tanács 2000. november 27-i 2000/79/EK irányelve az Európai Légitársa
 
 ”
 
-4. § Az Országgyűlés jóváhagyja a Megállapodásnak az e törvény hatálybalépésétől kezdődő ideiglenes alkalmazását.
+4. §
 
 5. § (1) Ez a törvény a kihirdetését követő napon lép hatályba.
 
