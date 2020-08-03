@@ -1018,7 +1018,7 @@ A MEGÁLLAPODÁS 3. ÉS 4. CIKKÉBEN, VALAMINT I. MELLÉKLETÉBEN EMLÍTETTEGYÉ
 
 (2) E törvény 2. §-a és 3. §-a a Megállapodás 29. cikkének 2. bekezdésében meghatározott időpontban lép hatályba.
 
-(3) E törvény 4. §-a a Megállapodás 29. cikkének 1. bekezdésében meghatározott időpontban hatályát veszti.
+(3)
 
 (4) A Megállapodás hatálybalépésének naptári napját, valamint a (2)–(3) bekezdésében meghatározott időpont naptári napját a külpolitikáért felelős miniszter azok ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
