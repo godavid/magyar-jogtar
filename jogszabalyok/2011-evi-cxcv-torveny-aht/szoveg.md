@@ -1422,7 +1422,7 @@ vizsgálatára terjed ki.
 - e) az MNV Zrt.,
 - f) a Diákhitel Központ Zrt.,
 - g) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság,
-- h) a Nemzeti Eszközkezelő Zrt.,
+- h) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító,
 - i) az Országgyűlés által, a Kormány által és a megyei önkormányzat által alapított közalapítványok,
 - j) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
 - k) a Nemzeti Üdülési Szolgálat és

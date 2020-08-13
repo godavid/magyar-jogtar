@@ -329,6 +329,8 @@ fizet.
 
 (2) A foglalkoztató a táppénzkiadásokhoz hozzájárul.
 
+(3) A foglalkoztató köteles a 27. § (2) bekezdés szerinti járulékfizetési alsó határ és a ténylegesen kifizetett járulékalapot képező jövedelem közötti különbözet után fennálló társadalombiztosítási járulékfizetési kötelezettséget teljesíteni. A különbözet utáni társadalombiztosítási járulékfizetési kötelezettség előzőek szerinti teljesítését úgy kell tekinteni az ellátások számítási szabályainak alkalmazása során, mintha azt a biztosított személy teljesítette volna.
+
 24. § A járulékokat havonta a járulékalapot képező jövedelem kifizetésekor irányadó járulékmértékek szerint kell megfizetni. A járulékokat a biztosítási kötelezettséggel járó jogviszony megszűnését követően kifizetett (kiosztott) járulékalapot képező jövedelem után is meg kell fizetni.
 
 25. § (1) A társadalombiztosítási járulék mértéke 18,5 százalék.
@@ -899,7 +901,7 @@ jelenti be az egészségbiztosítási szervnek.
 (7) Az állami adó- és vámhatóság kérelemre, visszamenőleges hatállyal törli a külföldön élő kötelezett személy 43. § szerinti járulékfizetési kötelezettségét, ha a magánszemély hitelt érdemlően igazolja (különösen a tartózkodást, illetve az egészségbiztosítási jogviszonyt igazoló okirattal), hogy
 
 - a) huzamos ideje, életvitelszerűen Magyarország területén kívül tartózkodik, és
-- b) a tartózkodási helye jogszabályai szerinti egészségbiztosítási rendszer hatálya alatt áll.
+- b) a tartózkodási helye jogszabályai szerinti egészségbiztosítási rendszer hatálya alatt áll. Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került.
 
 Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került.
 

@@ -3507,7 +3507,7 @@ b) a befektetési eszköz hozama, kivéve az osztalékból származó jövedelme
 
 a) a Magyar Állam által a hiteladós vagy – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezett lakása megvásárlásával összefüggésben törvény rendelkezése alapján elengedett, megszűnt kötelezettség, valamint az előbbi ügyletben keletkezett, a magánszemélyt megillető, ingatlan értékesítéséből származó jövedelem;
 
-b) az a) pontban említett hiteladósnak vagy zálogkötelezettnek (illetve vele közös háztartásban élő hozzátartozójának) lakás bérletéhez helyi önkormányzat vagy a Nemzeti Eszközkezelő Zrt. által megállapított kedvezményes bérleti díj formájában juttatott bevétel;
+b) az a) pontban említett hiteladósnak vagy zálogkötelezettnek (illetve vele közös háztartásban élő hozzátartozójának) lakás bérletéhez helyi önkormányzat vagy a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító által megállapított kedvezményes bérleti díj formájában juttatott bevétel;
 
 c) az a) pontban említett hiteladósnak vagy zálogkötelezettnek – mint volt tulajdonosnak – törvény alapján a lakás visszavásárlására biztosított vételi opciós jog formájában juttatott bevétel;
 
