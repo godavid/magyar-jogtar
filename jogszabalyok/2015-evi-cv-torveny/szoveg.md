@@ -248,7 +248,7 @@ részt vett, és a megállapodás megkötésére, illetve a bírósági adóssá
 - k) ha az adósnak, adóstársnak, egyéb kötelezettnek büntetőeljárásban meghozott határozat (ide nem értve a jogerős határozattal megítélt polgári jogi igényt) alapján fennálló pénzbüntetés, bűnügyi költség tartozása van vagy vagyonelkobzást rendeltek el vele szemben, vagy a vagyonára a büntetőeljárásban zár alá vételt rendeltek el,
 - l) szabálysértési eljárásban vagy közigazgatási eljárásban kiszabott, járulékaival együtt számított, 500 000 forintot meghaladó összegű bírságtartozása van,
 - m) közjogi jogviszonyból eredő, lejárt esedékességű tartozása van – a (2) bekezdésben foglalt kivételekkel –,
-- n) az adós vagy a zálogkötelezett lakóingatlana a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény értelmében a Nemzeti Eszközkezelő Zrt. (a továbbiakban: NET) részére megvásárlásra felajánlásra került, kivéve, ha a NET a lakóingatlan megvásárlását elutasítja,
+- n)
 
 (2) Az (1) bekezdés l) és m) pontja szerinti közjogi jogviszonyból eredő követelésbe nem tartozik bele, ha
 
@@ -1895,7 +1895,7 @@ van helye.
   - m) adós, adóstárs egyéb kötelezett esetében hozzájárulás az eljárásban részt vevő felek által az adós tartozásainak és követeléseinek megalapozására vonatkozó okiratok, nyilatkozatok megismeréséhez
 - 3. A kérelemhez csatolandó nyilatkozatok:
   - a) a korábbi fizetési könnyítésekre vonatkozó adatok (hitelezőnkénti bontásban) aa) tartozás-elengedés mértéke ab) ügyleti kamat mérséklésének mértéke ac) késedelmi kamat, késedelmi pótlék, késedelemmel összefüggő díjak elengedésének mértéke ad) részletfizetési kedvezmény ae) fizetési halasztás af) az ad) és ae) pontban nem említett futamidő-meghosszabbítás
-  - b) kezdeményezte-e a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény értelmében a lakóingatlana NET általi megvásárlását ba) ha igen, akkor valamennyi érintett pénzügyi intézmény hozzájárult-e lakóingatlan tulajdonjogának átruházásához, továbbá bb) a NET a lakóingatlant megvásárlását elutasította-e vagy van-e erre szándéknyilatkozat
+  - b)
   - c) ha az adós valamely vagyontárgya más személy vagy szervezet tartozásának dologi biztosítékául szolgál, vagy ha az adós más személy részére kezességet vállalt vagy annak tartozását átvállalta, más személy pénzügyi kötelezettségvállalását tartalmazó szerződésébe lépett be kötelezettként, továbbá ha az adós valamely vagyoni eleme más személynél van letétbe helyezve vagy használatba adva, az ezzel összefüggő okiratok másolata
   - d) adós egyedül élő
   - e) adós másokkal közös háztartásban él ea) adóstárssal eb) közeli hozzátartozókkal, élettárssal ec) más személyekkel ed) együtt élő személyek életkora ee) együtt élő személyek eltartásra jogosultak-e ef) együtt élő személyeknek van-e az öregségi nyugdíj legkisebb összegét meghaladó mértékű rendszeres bevételük eg) együtt élő személyek között van-e fogyatékkal élő, súlyosan vagy tartósan beteg eh) házastársi vagyonközösség fennáll-e

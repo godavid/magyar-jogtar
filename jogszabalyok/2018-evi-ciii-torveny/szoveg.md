@@ -2,25 +2,39 @@
 
 a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról
 
-Az Országgyűlés a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtési és lakhatási problémáinak hosszú távú megoldása érdekében, összhangban Magyarország gazdasági lehetőségeivel, a következő törvényt alkotja:
+Az Országgyűlés a 2011-ben indított programban részt vevő természetes személyek otthonteremtési és lakhatási problémáinak hosszú távú megoldása érdekében, összhangban Magyarország gazdasági lehetőségeivel, a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
 1. § E törvény alkalmazásában
 
-- a) fizetési kötelezettségeinek eleget tevő bérlő: az a természetes személy, akinek a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény (a továbbiakban: NET tv.) 22. § (1) bekezdésének a) vagy c) pontja alapján létrejött, határozatlan idejű lakásbérleti jogviszonya áll fenn a Nemzeti Eszközkezelő Zártkörűen működő Részvénytársasággal (a továbbiakban: Nemzeti Eszközkezelő);
-- b) ideiglenes elhelyezést biztosító ingatlan: olyan üres tartalék ingatlan, amely a NET tv. vagy az e törvény szerinti bérlő átmeneti elhelyezését biztosítja arra az időtartamra, amíg a bérlő az általa lakott ingatlant olyan műszaki ok vagy hiba fennállása miatt nem tudja használni, amelynek elhárítására a NET tv., e törvény, a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Lakástörvény) vagy a lakásbérleti szerződés alapján a bérbeadó vagy a bérlő lenne köteles;
-- c) lakóingatlan: NET tv. 1. § h) pontja szerinti olyan lakóingatlan, amely tekintetében a Nemzeti Eszközkezelő és a NET tv. 1. § d) pontja szerinti hiteladóssal vagy a NET tv. 1. § m) pontja szerinti zálogkötelezettel a NET tv. szerint lakásbérleti szerződést kötött;
-- d) tartalék ingatlan: a NET tv. 1. § n) pont na) és nb) alpontja szerinti ingatlan;
-- e) joghatás kiváltására alkalmas nyilatkozat: olyan nyilatkozat, amely megfelel az e törvényben, az e törvény végrehajtására kiadott rendeletben és a Nemzeti Eszközkezelő által az e törvény szerinti tulajdonszerzési lehetőségekről és a bérleti jogviszony fenntartásának és fennmaradásának feltételeiről szóló tájékoztató levélben, valamint az ahhoz csatolt nyilatkozat-mintában meghatározott formai és tartalmi követelményeknek.
+- a) fizetési kötelezettségeinek eleget tevő bérlő: az a természetes személy, akinek a 2011. évben indított otthonteremtési program keretében kötött, határozatlan idejű lakásbérleti jogviszonya áll fenn a 22/A. § (2) bekezdése szerint kijelölt lebonyolító szervezettel (a továbbiakban: Lebonyolító),
+- b) háztartás: az egy lakóingatlanban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége,
+- c) ideiglenes elhelyezést biztosító ingatlan: olyan üres tartalék ingatlan, amely az e törvény szerinti bérlő átmeneti elhelyezését biztosítja arra az időtartamra, amíg a bérlő az általa lakott ingatlant olyan műszaki ok vagy hiba fennállása miatt nem tudja használni, amelynek elhárítására e törvény, a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Lakástörvény) vagy a lakásbérleti szerződés alapján a bérbeadó vagy a bérlő lenne köteles,
+- d) joghatás kiváltására alkalmas nyilatkozat: olyan nyilatkozat, amely megfelel az e törvényben, az e törvény végrehajtására kiadott rendeletben és a Lebonyolító által az e törvény szerinti tulajdonszerzési lehetőségekről és a bérleti jogviszony fenntartásának és fennmaradásának feltételeiről szóló tájékoztató levélben, valamint az ahhoz csatolt nyilatkozatmintában meghatározott formai és tartalmi követelményeknek,
+- e) lakóingatlan: a lakás céljára létesített, és egy vagy több helyrajzi számon nyilvántartott, vagy közös tulajdonban álló, de önállóan forgalomképes, műszakilag összetartozó olyan ingatlan, amely az ingatlan-nyilvántartásban
+  - ea) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel és egyéb építményekkel,
+  - eb) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport az azonos helyrajzi szám alatt hozzá tartozó földrészlettel,
 
-### II. Fejezet — A NEMZETI ESZKÖZKEZELŐ FELADATAI A NEMZETI ESZKÖZKEZELŐ PROGRAMBAN RÉSZT VEVŐ TERMÉSZETES SZEMÉLYEK OTTHONTEREMTÉSÉNEK ÉRDEKÉBEN
+és amely tekintetében a Lebonyolító lakásbérleti szerződést kötött,
 
-#### 1. A Nemzeti Eszközkezelő feladatai
+- f) lakhatási célú ingatlan: az állam által épített és az állam tulajdonába tartozó olyan ingatlan, amely a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosítását szolgálja,
+- g) tartalék ingatlan: a Lebonyolító vagyonkezelésében lévő
+  - ga) lakhatásra alkalmas olyan ingatlan, amely nem minősül lakóingatlannak és lakhatási célú ingatlannak,
+  - gb) olyan lakóingatlan, amelyre a bérleti jogviszony megszűnt,
+- h) természetes személy:
+  - ha) a magyar állampolgár és az a személy, akit törvény alapján a magyar állampolgár jogai illetnek meg,
+  - hb) a szabad mozgás és tartózkodás jogával rendelkező személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát – a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint – Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint Magyarországon bejelentett lakóhellyel rendelkezik,
+  - hc) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján bevándorolt vagy letelepedett jogállással rendelkezik,
+  - hd) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján ilyen jogállásúnak ismerték el.
 
-2. § (1) A Nemzeti Eszközkezelő
+### II. Fejezet — A LEBONYOLÍTÓ FELADATAI A PROGRAMBAN RÉSZT VEVŐ TERMÉSZETES SZEMÉLYEK OTTHONTEREMTÉSÉNEK ÉRDEKÉBEN
 
-- a) a lakóingatlan, a NET tv. szerinti lakhatási célú ingatlan és a tartalék ingatlan felett vagyonkezelői jogot gyakorol,
+#### 1. A Lebonyolító feladatai
+
+2. § (1) A Lebonyolító
+
+- a) a lakóingatlan, a lakhatási célú ingatlan és a tartalék ingatlan felett vagyonkezelői jogot gyakorol,
 - b) gondoskodik a lakóingatlan és a tartalék ingatlan tekintetében a fizetési kötelezettségeinek eleget tevő bérlő e törvény szerinti tulajdonszerzéséhez szükséges feladatokról, ideértve különösen
   - ba) a tulajdonváltozás ingatlan-nyilvántartási bejegyzése iránti eljárást;
   - bb) az e törvény szerinti jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom ingatlan-nyilvántartási bejegyzése iránti eljárást;
@@ -31,25 +45,34 @@ Az Országgyűlés a Nemzeti Eszközkezelő Programban részt vevő természetes
 - e) az állami feladatok ellátása során az állami vagyont használó természetes személyek részére az állami tulajdon használatához szükséges szolgáltatásokat nyújt,
 - f) gondoskodik a megüresedett lakóingatlan és tartalék ingatlan tekintetében a VI. Fejezet szerinti eljárás lefolytatásáról,
 - g) az e törvény végrehajtási rendeletében meghatározottak szerint gondoskodik az ideiglenes elhelyezést biztosító ingatlan rendelkezésre állásáról, valamint szükség esetén a bérlő ideiglenes elhelyezést biztosító ingatlanban történő elhelyezéséről,
-- h) gondoskodik a VII. Fejezet szerinti ingatlanokat érintő tulajdonváltozás ingatlan-nyilvántartási bejegyzése iránti eljárás lefolytatása érdekében szükséges intézkedésekről.
+- h) gondoskodik a VI. és VII. Fejezet szerinti ingatlanokat érintő tulajdonváltozás ingatlan-nyilvántartási bejegyzése iránti eljárás lefolytatása érdekében szükséges intézkedésekről.
 
-(2) A Nemzeti Eszközkezelő a lakóingatlant és a tartalék ingatlant az e törvényben foglalt szabályok szerint az állam nevében eljárva e törvényben meghatározott személyek részére elidegenítheti.
+(2) A Lebonyolító a lakóingatlant és a tartalék ingatlant az e törvényben foglalt szabályok szerint az állam nevében eljárva e törvényben meghatározott személyek részére elidegenítheti.
 
-(3) A Nemzeti Eszközkezelő az e törvény végrehajtására kiadott rendeletben meghatározott időpontig a fizetési kötelezettségeinek eleget tevő bérlőt tájékoztatja az e törvény szerinti tulajdonszerzési lehetőségekről és a bérleti jogviszony fenntartásának és fennmaradásának feltételeiről. A Nemzeti Eszközkezelő a bérlőtársakat egy levélben tájékoztatja. A tájékoztató levél részletes tartalmát és kézbesítésének szabályait az e törvény végrehajtására kiadott rendelet határozza meg.
+(3) A Lebonyolító az e törvény végrehajtására kiadott rendeletben meghatározott időpontig a fizetési kötelezettségeinek eleget tevő bérlőt tájékoztatja az e törvény szerinti tulajdonszerzési lehetőségekről és a bérleti jogviszony fenntartásának és fennmaradásának feltételeiről. A Lebonyolító a bérlőtársakat egy levélben tájékoztatja. A tájékoztató levél részletes tartalmát és kézbesítésének szabályait az e törvény végrehajtására kiadott rendelet határozza meg.
 
-(4) Ha a fizetési kötelezettségeinek eleget tevő bérlő részéről a (3) bekezdés szerinti tájékoztató levélre nem érkezik nyilatkozat 2019. december 1. napjáig a Nemzeti Eszközkezelőhöz, a Nemzeti Eszközkezelő az e törvény végrehajtására kiadott rendeletben meghatározott időpontig a fizetési kötelezettségeinek eleget tevő bérlőt ismételten tájékoztatja az e törvény szerinti tulajdonszerzési lehetőségekről és a bérleti jogviszony fenntartásának és fennmaradásának feltételeiről. A Nemzeti Eszközkezelő a bérlőtársakat egy levélben tájékoztatja. A tájékoztató levél részletes tartalmát és kézbesítésének szabályait az e törvény végrehajtására kiadott rendelet határozza meg.
+(4) Ha a fizetési kötelezettségeinek eleget tevő bérlő részéről a (3) bekezdés szerinti tájékoztató levélre nem érkezik nyilatkozat 2019. december 1. napjáig a Lebonyolítóhoz, a Lebonyolító az e törvény végrehajtására kiadott rendeletben meghatározott időpontig a fizetési kötelezettségeinek eleget tevő bérlőt ismételten tájékoztatja az e törvény szerinti tulajdonszerzési lehetőségekről és a bérleti jogviszony fenntartásának és fennmaradásának feltételeiről. A Lebonyolító a bérlőtársakat egy levélben tájékoztatja. A tájékoztató levél részletes tartalmát és kézbesítésének szabályait az e törvény végrehajtására kiadott rendelet határozza meg.
 
-(5) Ha a fizetési kötelezettségeinek eleget tevő bérlő e törvény szerinti tulajdonszerzési lehetőségekről vagy a bérleti jogviszony fenntartásáról szóló joghatás kiváltására alkalmas nyilatkozata 2020. március 31. napjáig nem érkezik meg a Nemzeti Eszközkezelőhöz, a bérlő meglévő lakásbérleti jogviszonya fennmarad, és a Nemzeti Eszközkezelő gondoskodik az e törvény végrehajtására kiadott rendeletben foglaltaknak megfelelő, emelt lakásbérleti díj mértékét tartalmazó értesítés megküldéséről. E bekezdés a 6. § (10)–(14) bekezdései szerinti tulajdonszerzés tekintetében nem alkalmazandó.
+(5) Ha a fizetési kötelezettségeinek eleget tevő bérlő e törvény szerinti tulajdonszerzési lehetőségekről vagy a bérleti jogviszony fenntartásáról szóló joghatás kiváltására alkalmas nyilatkozata 2020. március 31. napjáig nem érkezik meg a Lebonyolítóhoz, a bérlő meglévő lakásbérleti jogviszonya fennmarad, és a Lebonyolító gondoskodik az e törvény végrehajtására kiadott rendeletben foglaltaknak megfelelő, emelt lakásbérleti díj mértékét tartalmazó értesítés megküldéséről. E bekezdés a 6. § (10)–(14) bekezdései szerinti tulajdonszerzés tekintetében nem alkalmazandó.
 
-3. § (1) A Nemzeti Eszközkezelő a 2. § (1) bekezdésben meghatározott feladatai ellátása során a NET tv.-ben meghatározottak szerint közreműködőt vehet igénybe.
+(6) A Lebonyolító
 
-(2) A Lakástörvény 10. § (1) bekezdése szerint a Nemzeti Eszközkezelőt mint bérbeadót terhelő, e törvénnyel összefüggésben felmerült kötelezettségek teljesítésével kapcsolatos feladatokra a NET tv. rendelkezéseit kell alkalmazni.
+- a) működésére a gazdasági társaságokra vonatkozó jogszabályokat,
+- b) az állami vagyonnal való gazdálkodására az állami vagyonról szóló törvényt
+
+az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+3. § A Lebonyolító az e törvényben, valamint a Lakástörvény 10. § (1) bekezdésében meghatározott feladatait jogszabályban kijelölt költségvetési szerv, 100%-os állami tulajdonban vagy 100%-os önkormányzati tulajdonban álló gazdasági társaság, vagy ezek 100%-os tulajdonában álló gazdasági társaság kizárólagos jog alapján való bevonása útján látja el.
 
 #### 2. A vagyonkezelésre vonatkozó egyéb szabályok
 
-4. § (1) A Nemzeti Eszközkezelő a vagyonkezelése során az állami vagyont a lakóingatlan és a tartalék ingatlan tekintetében a IV. Fejezet és a NET tv. szerinti lakásbérleti szerződés alapján bérbeadással hasznosíthatja.
+4. § (1) A Lebonyolító a vagyonkezelése során az állami vagyont a lakóingatlan és a tartalék ingatlan tekintetében a IV. Fejezet szerinti lakásbérleti szerződés alapján bérbeadással hasznosíthatja.
 
-(2) A Nemzeti Eszközkezelő a megüresedett lakóingatlant és tartalék ingatlant – ide nem értve az ideiglenes elhelyezést biztosító ingatlant – (e bekezdés tekintetében a továbbiakban: ingatlan) a vagyonkezelési szerződés módosítása mellett a VI. Fejezetben foglalt célok megvalósítása érdekében – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) részére átadja. Az ingatlan MNV Zrt.-nek történő átadása esetében a vagyonkezelési szerződés e bekezdés szerinti módosítása miatti részleges megszűnésével az ingatlan tekintetében a Nemzeti Eszközkezelőt 2. § (1) bekezdés a) pontja szerinti törvényi kijelölés alapján megillető vagyonkezelői jog megszűnik.
+(2) Megüresedett lakóingatlanok vonatkozásában az ingatlanügyi hatóság a Lebonyolító nyilatkozata és kérelme alapján törli az ingatlan-nyilvántartásba bejegyzett visszavásárlási jogot az 5/A. § (1) bekezdése alapján.
+
+(3) A Lebonyolítót a Nemzeti Eszközkezelő Program végrehajtásával összefüggésben vagyonkezelésébe került állami tulajdonú ingatlanok után vagyonkezelési díjfizetési kötelezettség és visszapótlási kötelezettség nem terheli. A Lebonyolító a Nemzeti Eszközkezelő Program végrehajtásával összefüggésben vagyonkezelésébe került eszközök számviteli jogszabályok szerinti értékcsökkenését a költségek és ráfordítások helyett a vagyonkezelt eszközökkel kapcsolatos hosszú lejáratú kötelezettségekkel szemben számolja el.
+
+(4) A Lebonyolító a lakóingatlant az e törvényben foglalt szabályok szerint az állam nevében eljárva a visszavásárlásra jogosult részére – visszavásárlási joga gyakorlása során – elidegenítheti.
 
 ### III. Fejezet — A FIZETÉSI KÖTELEZETTSÉGEINEK ELEGET TEVŐ BÉRLŐ OTTHONTEREMTÉSÉNEK LEHETŐSÉGEI
 
@@ -57,19 +80,27 @@ Az Országgyűlés a Nemzeti Eszközkezelő Programban részt vevő természetes
 
 5. § (1) A fizetési kötelezettségeinek eleget tevő bérlő az általa bérelt lakóingatlant vagy tartalék ingatlant e törvény és végrehajtási rendeletében foglalt rendelkezések alapján kamatmentesen megvásárolhatja. A vételárba a lakásbérleti jogviszony fennállása során – e törvény végrehajtási rendeletében meghatározott időpontig – megfizetett lakbér beszámításra kerül.
 
-(2) Ha a fizetési kötelezettségeinek eleget tevő bérlő e fejezet szabályai alapján a lakóingatlant vagy a tartalék ingatlant megvásárolja, a NET tv. 10. §-a szerinti visszavásárlási joga e törvény erejénél fogva megszűnik.
+(2) Ha a fizetési kötelezettségeinek eleget tevő bérlő vagy annak a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója e fejezet szabályai alapján a lakóingatlant vagy a tartalék ingatlant megvásárolja, a lakóingatlan vagy tartalék ingatlan valamennyi bérlője javára bejegyzett visszavásárlási jog e törvény erejénél fogva megszűnik.
 
 (3) A lakóingatlan és a tartalék ingatlan (1) bekezdés szerinti adásvétele során természetbeni birtokba adásra nem kerül sor.
 
-(4) A tulajdonjog keletkezését követően a lakóingatlan vagy a tartalék ingatlan tekintetében az ingatlan állapotával összefüggésben a vevő sem az állammal, sem a Nemzeti Eszközkezelővel szemben semmilyen igényt nem jogosult támasztani.
+(4) A tulajdonjog keletkezését követően a lakóingatlan vagy a tartalék ingatlan tekintetében az ingatlan állapotával összefüggésben a vevő sem az állammal, sem a Lebonyolítóval szemben semmilyen igényt nem jogosult támasztani.
 
-(5) A tulajdonváltozás költségei a Nemzeti Eszközkezelőt terhelik.
+(5) A tulajdonváltozás költségei a Lebonyolítót terhelik.
 
-(6) Az e törvény szerinti tulajdonszerzésre vonatkozó, az illetékekről szóló 1990. évi XCIII. törvény 91. § (1) bekezdésében meghatározott bejelentési kötelezettség teljesítése során a vagyonszerző képviseletében a Nemzeti Eszközkezelő Zrt. jár el. A bejelentési kötelezettség teljesítése céljából a Nemzeti Eszközkezelő Zrt. a vagyonszerző természetes személyazonosító adatainak megadásával a vagyonszerző adóazonosító jelére vonatkozóan adatot igényelhet az állami adó- és vámhatóságtól. Az állami adó- és vámhatóság az adatigényléstől számított nyolc napon belül megküldi a vagyonszerző adóazonosító jelét a Nemzeti Eszközkezelő Zrt. részére.
+(6) Az e törvény szerinti tulajdonszerzésre vonatkozó, az illetékekről szóló 1990. évi XCIII. törvény 91. § (1) bekezdésében meghatározott bejelentési kötelezettség teljesítése során a vagyonszerző képviseletében a Lebonyolító jár el. A bejelentési kötelezettség teljesítése céljából a Lebonyolító a vagyonszerző természetes személyazonosító adatainak megadásával a vagyonszerző adóazonosító jelére vonatkozóan adatot igényelhet az állami adó- és vámhatóságtól. Az állami adó- és vámhatóság az adatigényléstől számított nyolc napon belül megküldi a vagyonszerző adóazonosító jelét a Lebonyolító részére.
+
+5/A. § (1) A lakóingatlan bérlője javára bejegyzett visszavásárlási jog megszűnik, ha a lakóingatlanra vonatkozó bérleti jog megszűnik.
+
+(2) A visszavásárlási vételár a Lebonyolító által a lakóingatlanért fizetett vételárnak a Lebonyolító és az eladó között megkötött adásvételi szerződés keltétől a visszavásárlási jog gyakorlásáig terjedő időszakra számított jegybanki alapkamattal, a Lebonyolító által az ingatlanra fordított értéknövelő beruházások értékével, valamint a Lebonyolító által a bérlő helyett megfizetett kötelezettség összegével növelt összege.
+
+(3) A visszavásárlási jog akkor gyakorolható, ha a bérlő bérleti díj vagy a bérleti jogviszonyból származó egyéb tartozását rendezte, kivéve, ha a bérleti jogviszonyból származó egyéb tartozás összege a (2) bekezdés alapján a visszavásárlási ár megállapítása során érvényesítésre kerül.
+
+(4) Ha a visszavásárlási jog jogosultja a visszavásárlási jogát gyakorolja, a lakóingatlanért általa fizetett visszavásárlási vételárból a központi költségvetést illeti meg a Lebonyolító által a lakóingatlan megvásárlásakor kifizetett vételár.
 
 #### 4. A lakóingatlan és a tartalék ingatlan egy összegben történő megvásárlásának feltételei
 
-6. § (1) A fizetési kötelezettségeinek eleget tevő bérlő és a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója (a továbbiakban e § tekintetében: Vevő) a 2. § (3) bekezdése szerinti tájékoztató levél kézhezvételét követő 60 napon, a 2. § (4) bekezdés szerinti tájékoztató kézhezvételét követő 30 napon belül a Nemzeti Eszközkezelő részére megküldött, teljes bizonyító erejű magánokirat formájában nyilatkozhat arról, hogy a bérlő által bérelt lakóingatlant vagy tartalék ingatlant e törvény végrehajtási rendeletében meghatározottak szerint kiszámított vételáron, egy összegben megvásárolja. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a Vevő a határidő utolsó napján a Nemzeti Eszközkezelő székhelyén átadta vagy postára adta. A Nemzeti Eszközkezelő abban az esetben köt adásvételi szerződést a Vevővel, ha az e bekezdés szerinti joghatás kiváltására alkalmas nyilatkozat legkésőbb a 2. § (5) bekezdése szerinti időpontig megérkezett a Nemzeti Eszközkezelőhöz.
+6. § (1) A fizetési kötelezettségeinek eleget tevő bérlő és a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója (a továbbiakban e § tekintetében: Vevő) a 2. § (3) bekezdése szerinti tájékoztató levél kézhezvételét követő 60 napon, a 2. § (4) bekezdés szerinti tájékoztató kézhezvételét követő 30 napon belül a Lebonyolító részére megküldött, teljes bizonyító erejű magánokirat formájában nyilatkozhat arról, hogy a bérlő által bérelt lakóingatlant vagy tartalék ingatlant e törvény végrehajtási rendeletében meghatározottak szerint kiszámított vételáron, egy összegben megvásárolja. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a Vevő a határidő utolsó napján a Lebonyolító székhelyén átadta vagy postára adta. A Lebonyolító abban az esetben köt adásvételi szerződést a Vevővel, ha az e bekezdés szerinti joghatás kiváltására alkalmas nyilatkozat legkésőbb a 2. § (5) bekezdése szerinti időpontig megérkezett a Lebonyolítóhoz.
 
 (2) Az (1) bekezdés szerinti vásárlási lehetőséggel a fizetési kötelezettségeiknek eleget tevő bérlőtársak csak az egybehangzó vagy közös, teljes bizonyító erejű magánokiratba foglalt nyilatkozatuk alapján élhetnek.
 
@@ -77,19 +108,19 @@ Az Országgyűlés a Nemzeti Eszközkezelő Programban részt vevő természetes
 
 (4) A Vevő az e törvény végrehajtási rendeletében meghatározottak szerint további vételár-kedvezményt vehet igénybe.
 
-(5) A Vevő a lakóingatlan vagy tartalék ingatlan e § szerinti megvásárlása érdekében a Nemzeti Eszközkezelővel kötendő adásvételi szerződést legkésőbb e törvény végrehajtására kiadott rendeletben meghatározott időpontig aláírja.
+(5) A Vevő a lakóingatlan vagy tartalék ingatlan e § szerinti megvásárlása érdekében a Lebonyolítóval kötendő adásvételi szerződést legkésőbb e törvény végrehajtására kiadott rendeletben meghatározott időpontig aláírja.
 
-(6) Ha a (2) vagy (3) bekezdés szerinti nyilatkozat nem terjed ki a tulajdonosok tulajdoni hányadának mértékére, a nyilatkozattételre jogosultak legkésőbb az (5) bekezdés szerinti adásvételi szerződés megkötéséig tájékoztatják a Nemzeti Eszközkezelőt a tulajdoni hányadok mértékéről.
+(6) Ha a (2) vagy (3) bekezdés szerinti nyilatkozat nem terjed ki a tulajdonosok tulajdoni hányadának mértékére, a nyilatkozattételre jogosultak legkésőbb az (5) bekezdés szerinti adásvételi szerződés megkötéséig tájékoztatják a Lebonyolítót a tulajdoni hányadok mértékéről.
 
 (7) Az (5) bekezdés szerinti adásvételi szerződés megkötéséig, de legkésőbb a (8) bekezdésben meghatározott időpontig a fizetési kötelezettségeinek eleget tevő bérlő lakásbérleti szerződése változatlan feltételekkel fennmarad.
 
 (8) Az adásvételi szerződés vevői aláírásának bármely okból történő meghiúsulása esetén a fizetési kötelezettségeinek eleget tevő bérlőnek e törvény erejénél fogva 2020. április 1-jén a lakóingatlan vagy a tartalék ingatlan tekintetében e törvény végrehajtási rendeletében foglaltak szerinti kiszámított vételáron a lakóingatlanon vagy a tartalék ingatlanon – bérlőtársak esetén egymásközti egyenlő arányban – tulajdonjoga keletkezik, amely vételárat a Vevő a végrehajtási rendeletben meghatározottak szerint megállapított időpontokban és több részletben fizeti meg. A Vevő e bekezdés szerinti tulajdonszerzésére a 7. §-ban foglaltakat kell megfelelően alkalmazni.
 
-(9) Ha a Vevő a vételárat az adásvételi szerződésben meghatározott határidőben nem teljesíti, és a Vevő a Nemzeti Eszközkezelő által a teljesítésre biztosított megfelelő póthatáridőt is elmulasztja, a Nemzeti Eszközkezelő jogosult elállni az adásvételi szerződéstől.
+(9) Ha a Vevő a vételárat az adásvételi szerződésben meghatározott határidőben nem teljesíti, és a Vevő a Lebonyolító által a teljesítésre biztosított megfelelő póthatáridőt is elmulasztja, a Lebonyolító jogosult elállni az adásvételi szerződéstől.
 
-(10) A Nemzeti Eszközkezelő az adásvételi szerződéstől történő elállást követő 15 napon belül tájékoztatja a lakóingatlan vagy a tartalék ingatlan 6. § (1) bekezdése szerint nyilatkozattételre felhívott bérlőjét a (11) bekezdés szerinti részletvétellel történő tulajdonszerzési lehetőségről. A Nemzeti Eszközkezelő a bérlőtársakat egy levélben tájékoztatja. A tájékoztató levél részletes tartalmát és kézbesítésének szabályait az e törvény végrehajtására kiadott rendelet határozza meg.
+(10) A Lebonyolító az adásvételi szerződéstől történő elállást követő 15 napon belül tájékoztatja a lakóingatlan vagy a tartalék ingatlan 6. § (1) bekezdése szerint nyilatkozattételre felhívott bérlőjét a (11) bekezdés szerinti részletvétellel történő tulajdonszerzési lehetőségről. A Lebonyolító a bérlőtársakat egy levélben tájékoztatja. A tájékoztató levél részletes tartalmát és kézbesítésének szabályait az e törvény végrehajtására kiadott rendelet határozza meg.
 
-(11) Ha a bérlő a (10) bekezdés szerinti tájékoztató levél kézhezvételét követő 60 napon belül a Nemzeti Eszközkezelő részére megküldött, teljes bizonyító erejű magánokirat formájában részletvételre irányuló nyilatkozatot tesz, a bérlőnek az általa korábban bérelt ingatlanon a joghatás kiváltására alkalmas nyilatkozat Nemzeti Eszközkezelőhöz történő megérkezését követő második hónap első napján tulajdonjoga keletkezik. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a Nemzeti Eszközkezelő székhelyén átadta vagy postára adta.
+(11) Ha a bérlő a (10) bekezdés szerinti tájékoztató levél kézhezvételét követő 60 napon belül a Lebonyolító részére megküldött, teljes bizonyító erejű magánokirat formájában részletvételre irányuló nyilatkozatot tesz, a bérlőnek az általa korábban bérelt ingatlanon a joghatás kiváltására alkalmas nyilatkozat Lebonyolítóhoz történő megérkezését követő második hónap első napján tulajdonjoga keletkezik. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a Lebonyolító székhelyén átadta vagy postára adta.
 
 (12) A (11) bekezdés szerinti lehetőséggel az ingatlan 6. § (1) bekezdése szerint nyilatkozattételre felhívott bérlői csak az egybehangzó vagy közös, teljes bizonyító erejű magánokiratban foglalt nyilatkozatuk alapján élhetnek.
 
@@ -99,13 +130,13 @@ Az Országgyűlés a Nemzeti Eszközkezelő Programban részt vevő természetes
 
 #### 5. A lakóingatlan és a tartalék ingatlan részletvétellel történő megvásárlásának feltételei
 
-7. § (1) A fizetési kötelezettségeinek eleget tevő bérlő a 2. § (3) bekezdése szerinti tájékoztatás kézhezvételét követő 60 napon, a 2. § (4) bekezdés szerinti tájékoztató kézhezvételét követő 30 napon belül a Nemzeti Eszközkezelő részére megküldött, teljes bizonyító erejű magánokirat formájában nyilatkozhat arról, hogy az általa bérelt lakóingatlant vagy tartalék ingatlant e törvény végrehajtási rendeletében meghatározottak szerint részletvétellel megvásárolja. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a Nemzeti Eszközkezelő székhelyén átadta vagy postára adta.
+7. § (1) A fizetési kötelezettségeinek eleget tevő bérlő a 2. § (3) bekezdése szerinti tájékoztatás kézhezvételét követő 60 napon, a 2. § (4) bekezdés szerinti tájékoztató kézhezvételét követő 30 napon belül a Lebonyolító részére megküldött, teljes bizonyító erejű magánokirat formájában nyilatkozhat arról, hogy az általa bérelt lakóingatlant vagy tartalék ingatlant e törvény végrehajtási rendeletében meghatározottak szerint részletvétellel megvásárolja. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a Lebonyolító székhelyén átadta vagy postára adta.
 
 (2) Az (1) bekezdés szerinti részletvételre irányuló nyilatkozatot tevő fizetési kötelezettségeinek eleget tevő bérlőnek (a 7. és a 13. § tekintetében a továbbiakban: Részletvevő), amennyiben a joghatás kiváltására alkalmas nyilatkozat
 
-- a) 2019. szeptember 20. napjáig megérkezett a Nemzeti Eszközkezelőhöz, 2019. október 1-jén,
-- b) 2019. szeptember 21. és 2019. december 31. között érkezik meg a Nemzeti Eszközkezelőhöz, 2020. január 1-jén,
-- c) 2020. január 1. és 2020. február 28. között érkezik meg a Nemzeti Eszközkezelőhöz, 2020. március 1. napján,
+- a) 2019. szeptember 20. napjáig megérkezett a Lebonyolítóhoz, 2019. október 1-jén,
+- b) 2019. szeptember 21. és 2019. december 31. között érkezik meg a Lebonyolítóhoz, 2020. január 1-jén,
+- c) 2020. január 1. és 2020. február 28. között érkezik meg a Lebonyolítóhoz, 2020. március 1. napján,
 
 a lakóingatlan vagy a tartalék ingatlan tekintetében e törvény erejénél fogva e törvény végrehajtási rendeletében foglaltak szerint kiszámított vételáron tulajdonjoga keletkezik, amely vételárat a Részletvevő a végrehajtási rendeletben meghatározottak szerint megállapított időpontokban és több részletben fizeti meg.
 
@@ -115,9 +146,9 @@ a lakóingatlan vagy a tartalék ingatlan tekintetében e törvény erejénél f
 
 (5) A vételárrészlet a részletvevő által fizetett lakbér mértékével megegyező összeg az e törvény végrehajtására kiadott rendeletben foglalt eltérésekkel.
 
-(6) Az ingatlanügyi hatóság az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) és (2) bekezdésétől eltérően az (1) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a Nemzeti Eszközkezelőnek a tulajdonjogot keletkeztető jogszabályhelyet, helyrajzi számot, a tulajdonosnak az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 32. §-ában meghatározott személyes adatait, a tulajdoni hányadot és a magyar állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzése iránti kérelmet tartalmazó okirata alapján jegyzi be.
+(6) Az ingatlanügyi hatóság az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) és (2) bekezdésétől eltérően az (1) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a Lebonyolítónak a tulajdonjogot keletkeztető jogszabályhelyet, helyrajzi számot, a tulajdonosnak az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 32. §-ában meghatározott személyes adatait, a tulajdoni hányadot és a magyar állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzése iránti kérelmet tartalmazó okirata alapján jegyzi be.
 
-(7) A Nemzeti Eszközkezelő megküldi az ingatlanügyi hatóságnak a (6) bekezdés szerinti bejegyzés alapjául szolgáló okiratot.
+(7) A Lebonyolító megküldi az ingatlanügyi hatóságnak a (6) bekezdés szerinti bejegyzés alapjául szolgáló okiratot.
 
 (8) A részletvétel részletes szabályait az e törvény alapján kiadott végrehajtási rendelet tartalmazza.
 
@@ -125,37 +156,37 @@ a lakóingatlan vagy a tartalék ingatlan tekintetében e törvény erejénél f
 
 #### 6. A lakásbérleti szerződés feltételei
 
-8. § (1) A fizetési kötelezettségeinek eleget tevő bérlő (a 8–13. §, valamint a 19–20. § tekintetében a továbbiakban: bérlő) a 2. § (3) bekezdés szerinti tájékoztató levél kézhezvételét követő 60 napon, a 2. § (4) bekezdésben meghatározott tájékoztató levél kézhezvételét követő 30 napon belül a Nemzeti Eszközkezelő részére megküldött, teljes bizonyító erejű magánokirat formájában tett nyilatkozatával a NET tv. 22. § (1) bekezdés a) vagy c) pontja alapján létrejött lakásbérleti jogviszonyát e törvény és végrehajtási rendelete rendelkezései figyelembevételével fenntarthatja. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a Nemzeti Eszközkezelő székhelyén átadta vagy postára adta. A bérlő akkor tarthatja fenn bérleti jogviszonyát, ha az e bekezdés szerinti joghatás kiváltására alkalmas nyilatkozat legkésőbb a 2. § (5) bekezdése szerinti időpontig megérkezett a Nemzeti Eszközkezelőhöz.
+8. § (1) A fizetési kötelezettségeinek eleget tevő bérlő (a 8–13. §, valamint a 19–20. § tekintetében a továbbiakban: bérlő) a 2. § (3) bekezdés szerinti tájékoztató levél kézhezvételét követő 60 napon, a 2. § (4) bekezdésben meghatározott tájékoztató levél kézhezvételét követő 30 napon belül a Lebonyolító részére megküldött, teljes bizonyító erejű magánokirat formájában tett nyilatkozatával a lakásbérleti jogviszonyát e törvény és végrehajtási rendelete rendelkezései figyelembevételével fenntarthatja. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a Lebonyolító székhelyén átadta vagy postára adta. A bérlő akkor tarthatja fenn bérleti jogviszonyát, ha az e bekezdés szerinti joghatás kiváltására alkalmas nyilatkozat legkésőbb a 2. § (5) bekezdése szerinti időpontig megérkezett a Lebonyolítóhoz.
 
 (2) Az (1) bekezdés szerinti lehetőséggel a fizetési kötelezettségeiknek eleget tevő bérlőtársak az egybehangzó vagy közös, teljes bizonyító erejű magánokiratban foglalt nyilatkozatukkal élhetnek. Ha a bérlőtársak közül csak egy bérlőtárs nyilatkozik a lakásbérlet fenntartására vonatkozóan, és a többi bérlőtárs nem nyilatkozik, abban az esetben a nyilatkozatot tevő bérlőtárs nyilatkozata az irányadó.
 
-(3) Ha a fizetési kötelezettségeinek eleget tevő bérlő a 2. § (3)–(4) bekezdései szerinti tájékoztató levél alapján a 2. § (5) bekezdése szerinti időpontig nem él nyilatkozattételi lehetőségével sem a tulajdonszerzésre, sem a lakásbérleti jogviszony fenntartására irányulóan, akkor a meglévő lakásbérleti jogviszonya fennmarad, és a Nemzeti Eszközkezelő gondoskodik az e törvény végrehajtására kiadott rendeletben foglaltaknak megfelelő, emelt lakásbérleti díj mértékét tartalmazó értesítés megküldéséről.
+(3) Ha a fizetési kötelezettségeinek eleget tevő bérlő a 2. § (3)–(4) bekezdései szerinti tájékoztató levél alapján a 2. § (5) bekezdése szerinti időpontig nem él nyilatkozattételi lehetőségével sem a tulajdonszerzésre, sem a lakásbérleti jogviszony fenntartására irányulóan, akkor a meglévő lakásbérleti jogviszonya fennmarad, és a Lebonyolító gondoskodik az e törvény végrehajtására kiadott rendeletben foglaltaknak megfelelő, emelt lakásbérleti díj mértékét tartalmazó értesítés megküldéséről.
 
-(4) A lakásbérleti jogviszony (1) bekezdés szerinti fenntartása és (3) bekezdés szerinti fennmaradása esetén a fizetési kötelezettségeinek eleget tevő bérlő az ingatlan-nyilvántartásba bejegyzett visszavásárlási jogát a NET tv. rendelkezései szerint gyakorolhatja.
+(4) A lakásbérleti jogviszony (1) bekezdés szerinti fenntartása és (3) bekezdés szerinti fennmaradása esetén a fizetési kötelezettségeinek eleget tevő bérlő az ingatlan-nyilvántartásba bejegyzett visszavásárlási jogát gyakorolhatja.
 
 (5) A lakbér mértékét és a lakásbérleti jogviszony részletes szabályait az e törvény végrehajtására kiadott rendelet határozza meg.
 
-9. § A lakásbérleti szerződés alapján a bérlő köteles a megállapított lakbért a Nemzeti Eszközkezelő részére havi rendszerességgel megfizetni.
+9. § A lakásbérleti szerződés alapján a bérlő köteles a megállapított lakbért a Lebonyolító részére havi rendszerességgel megfizetni.
 
 10. § A lakásbérleti szerződés létrejöttére, tartalmára és megszűnésére a Lakástörvény szabályait a következő eltérésekkel kell alkalmazni:
 
-- a) a bérlő az ingatlanba a lakásbérleti szerződés e törvény szerinti módosítását követően csak a házastársát vagy élettársát, saját, illetve házastársa vagy élettársa nevelésében álló, családi pótlékra jogosító gyermeket, továbbá a családi pótlék összegének számítása szempontjából figyelembe vett gyermeket fogadhatja be, a Nemzeti Eszközkezelő előzetes írásbeli hozzájárulásával,
+- a) a bérlő az ingatlanba a lakásbérleti szerződés e törvény szerinti módosítását követően csak a házastársát vagy élettársát, saját, illetve házastársa vagy élettársa nevelésében álló, családi pótlékra jogosító gyermeket, továbbá a családi pótlék összegének számítása szempontjából figyelembe vett gyermeket fogadhatja be, a Lebonyolító előzetes írásbeli hozzájárulásával,
 - b) a lakóingatlanra és a tartalék ingatlanra bérlőtársi jogviszonyt létesíteni nem lehet,
 - c) a lakásbérleti szerződés megszűnése után a volt bérlő és az ingatlanban visszamaradó más személyek elhelyezésre nem tarthatnak igényt,
 - d) a bérlő halála esetén a bérlővel annak életében együtt lakó házastársa vagy élettársa, a bérlő, illetve házastársa vagy élettársa családi pótlékra jogosító gyermeke, illetve a bérlővel még életében együtt lakó gyermeke a lakásbérleti jogot folytathatja,
-- e) a Nemzeti Eszközkezelő a lakásbérleti szerződésben kikötheti a bérlő ingatlanban történő életvitelszerű bentlakásának kötelezettségét,
+- e) a Lebonyolító a lakásbérleti szerződésben kikötheti a bérlő ingatlanban történő életvitelszerű bentlakásának kötelezettségét,
 - f) a lakóingatlannal és a tartalék ingatlannal összefüggésben felmerülő, a Lakástörvény 13. § (1) bekezdésében meghatározott költségek a bérlőt terhelik,
 - g) a bérlőt terhelik a lakóingatlan vagy a tartalék ingatlan használatával kapcsolatos közüzemi költségek, valamint társasházi lakás esetében a közös költség fizetése,
 - h) a bérbeadó jogosult a lakásbérleti szerződést felmondani, ha a bérlő felszólítás ellenére sem fizeti meg a lakbért, a lakóingatlannal és a tartalék ingatlannal kapcsolatos közüzemi díjakat vagy társasházi lakás esetében a közös költséget,
 - i) a bérbeadó a lakóingatlan és a tartalék ingatlan állapotát és rendeltetésszerű használatát évente legalább egy alkalommal ellenőrzi, amit a bérlő tűrni köteles,
-- j) a lakásbérleti szerződésben a bérlő hozzájárul ahhoz, hogy a Nemzeti Eszközkezelő a közüzemi szolgáltatótól a bérlő közüzemi díjhátralékának mértékéről vagy annak hiányáról adatszolgáltatást kérjen,
+- j) a lakásbérleti szerződésben a bérlő hozzájárul ahhoz, hogy a Lebonyolító a közüzemi szolgáltatótól a bérlő közüzemi díjhátralékának mértékéről vagy annak hiányáról adatszolgáltatást kérjen,
 - k) bérlőtársi jogviszony esetén, ha a bérbeadó a lakásbérleti szerződést olyan okból mondja fel, amely felmondási ok valamennyi bérlőtárssal szemben fennáll, a felmondást elég, ha a bérbeadó az egyik bérlőtárssal közli.
 
-11. § A Nemzeti Eszközkezelő kötelezheti a bérlőt a lakásbérleti szerződésben előre fizetésre alkalmas fogyasztásmérő felszerelésének kérelmezésére a közüzemi szolgáltatótól, abban az esetben, ha törvény alapján a bérlőt ezért külön díjfizetési kötelezettség nem terheli.
+11. § A Lebonyolító kötelezheti a bérlőt a lakásbérleti szerződésben előre fizetésre alkalmas fogyasztásmérő felszerelésének kérelmezésére a közüzemi szolgáltatótól, abban az esetben, ha törvény alapján a bérlőt ezért külön díjfizetési kötelezettség nem terheli.
 
 #### 7. A lakásbérleti szerződés felmondása
 
-12. § (1) A Nemzeti Eszközkezelő a lakásbérleti szerződést felmondhatja, ha a bérlő vagy a háztartás más tagja a NET tv. szerinti, az állam tulajdonszerzésére irányuló adásvételi szerződés megkötése érdekében hamisított vagy valótlan tartalmú iratokkal, nyilatkozatokkal a Nemzeti Eszközkezelőt megtévesztette.
+12. § (1) A Lebonyolító a lakásbérleti szerződést felmondhatja, ha a bérlő vagy a háztartás más tagja a NET tv. szerinti, az állam tulajdonszerzésére irányuló adásvételi szerződés megkötése érdekében hamisított vagy valótlan tartalmú iratokkal, nyilatkozatokkal a Lebonyolítót megtévesztette.
 
 (2) Ha a lakásbérleti jogviszony megszűnik, az üresen maradt lakóingatlanra és tartalék ingatlanra a VI. Fejezet szerinti eljárást kell alkalmazni.
 
@@ -163,50 +194,52 @@ a lakóingatlan vagy a tartalék ingatlan tekintetében e törvény erejénél f
 
 13. § (1) Annak a bérlőnek, akinek
 
-- a) a NET tv. végrehajtási rendeletében és a lakásbérleti szerződésében foglaltak alapján 2019. január 1-jét követően a határozott idejű lakásbérleti szerződése határozatlan idejűvé alakul át, az átalakulás napját követő 90. napon, de legkorábban 2019. október 1-jén,
-- b) az e törvény végrehajtási rendeletében és a lakásbérleti szerződésében foglaltak alapján 2019. december 31-ét követően a határozott idejű lakásbérleti szerződése határozatlan idejűvé alakul át, a joghatás kiváltására alkalmas nyilatkozat Nemzeti Eszközkezelőhöz történő megérkezését követő második hónap első napján
+- a) a e törvény végrehajtási rendeletében és a lakásbérleti szerződésében foglaltak alapján 2019. január 1-jét követően a határozott idejű lakásbérleti szerződése határozatlan idejűvé alakul át, az átalakulás napját követő 90. napon, de legkorábban 2019. október 1-jén,
+- b) az e törvény végrehajtási rendeletében és a lakásbérleti szerződésében foglaltak alapján 2019. december 31-ét követően a határozott idejű lakásbérleti szerződése határozatlan idejűvé alakul át, a joghatás kiváltására alkalmas nyilatkozat Lebonyolítóhoz történő megérkezését követő második hónap első napján
 
-e törvény végrehajtási rendeletében foglaltak szerinti kiszámított vételáron az általa bérelt ingatlanon tulajdonjoga keletkezik, ha a bérlő a (4) bekezdésben foglalt, határidőn belül részletvételre irányuló nyilatkozatot tesz. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a Nemzeti Eszközkezelő székhelyén átadta vagy postára adta.
+e törvény végrehajtási rendeletében foglaltak szerinti kiszámított vételáron az általa bérelt ingatlanon tulajdonjoga keletkezik, ha a bérlő a (4) bekezdésben foglalt, határidőn belül részletvételre irányuló nyilatkozatot tesz. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a Lebonyolító székhelyén átadta vagy postára adta.
 
 (2) A vételárat a Részletvevő az e törvény végrehajtási rendeletében meghatározottak szerint megállapított időpontokban és több részletben fizeti meg.
 
-(3) A Nemzeti Eszközkezelő az (1) bekezdés szerinti bérlőt a határozott idejű lakásbérleti szerződésnek határozatlan idejűvé történő átalakulását követő 15 napon belül tájékoztatja a tulajdonszerzési lehetőségről és a bérleti jogviszony fenntartásának és fennmaradásának feltételeiről. A Nemzeti Eszközkezelő a bérlőtársakat egy levélben tájékoztatja. A tájékoztató levél részletes tartalmát és kézbesítésének szabályait az e törvény végrehajtására kiadott rendelet határozza meg.
+(3) A Lebonyolító az (1) bekezdés szerinti bérlőt a határozott idejű lakásbérleti szerződésnek határozatlan idejűvé történő átalakulását követő 15 napon belül tájékoztatja a tulajdonszerzési lehetőségről és a bérleti jogviszony fenntartásának és fennmaradásának feltételeiről. A Lebonyolító a bérlőtársakat egy levélben tájékoztatja. A tájékoztató levél részletes tartalmát és kézbesítésének szabályait az e törvény végrehajtására kiadott rendelet határozza meg.
 
-(4) Az (1) bekezdés szerinti bérlő a (3) bekezdés szerinti tájékoztató levél kézhezvételét követő 60 napon belül a Nemzeti Eszközkezelő részére megküldött, teljes bizonyító erejű magánokirat formájában tett nyilatkozata alapján a NET tv. 22. § (1) bekezdés a) vagy c) pontja alapján létrejött lakásbérleti jogviszonyát e törvény és végrehajtási rendelete rendelkezései figyelembevételével fenntarthatja. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a Nemzeti Eszközkezelő székhelyén átadta vagy postára adta.
+(4) Az (1) bekezdés szerinti bérlő a (3) bekezdés szerinti tájékoztató levél kézhezvételét követő 60 napon belül a Lebonyolító részére megküldött, teljes bizonyító erejű magánokirat formájában tett nyilatkozata alapján a lakásbérleti jogviszonyát e törvény és végrehajtási rendelete rendelkezései figyelembevételével fenntarthatja. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a Lebonyolító székhelyén átadta vagy postára adta.
 
 (5) Az (1) és (4) bekezdés szerinti lehetőséggel a bérlőtársak csak az egybehangzó vagy közös, teljes bizonyító erejű magánokiratban foglalt nyilatkozatuk alapján élhetnek.
 
-(6) Ha a fizetési kötelezettségeinek eleget tevő bérlő a (3) bekezdés szerinti tájékoztató levél alapján nem tesz joghatás kiváltására alkalmas nyilatkozatot sem a tulajdonszerzésre, sem a lakásbérleti jogviszony fenntartására irányulóan, akkor a bérlő meglévő lakásbérleti jogviszonya fennmarad, és a Nemzeti Eszközkezelő gondoskodik az e törvény végrehajtására kiadott rendeletben foglaltaknak megfelelő, emelt lakásbérleti díj mértékét tartalmazó értesítés megküldéséről.
+(6) Ha a fizetési kötelezettségeinek eleget tevő bérlő a (3) bekezdés szerinti tájékoztató levél alapján nem tesz joghatás kiváltására alkalmas nyilatkozatot sem a tulajdonszerzésre, sem a lakásbérleti jogviszony fenntartására irányulóan, akkor a bérlő meglévő lakásbérleti jogviszonya fennmarad, és a Lebonyolító gondoskodik az e törvény végrehajtására kiadott rendeletben foglaltaknak megfelelő, emelt lakásbérleti díj mértékét tartalmazó értesítés megküldéséről.
 
 (7) Az (1) bekezdés szerinti bérlő e § szerinti tulajdonszerzésére a 7. §-ban foglaltakat kell megfelelően alkalmazni.
 
 (8) A (4) bekezdés szerint fenntartott vagy fennmaradó lakásbérleti jogviszonyra a IV. Fejezet rendelkezéseit kell alkalmazni.
 
-### VI. Fejezet — A MEGÜRESEDETT LAKÓINGATLANRA ÉS TARTALÉK INGATLANRA VONATKOZÓ SZABÁLYOK
+### VI. Fejezet — A MEGÜRESEDETT INGATLANRA VONATKOZÓ SZABÁLYOK
 
-14. § A megüresedett lakóingatlan és tartalék ingatlan (a továbbiakban együtt: megüresedett ingatlan) hasznosításáról, értékesítéséről, illetve az e fejezet szerinti tulajdonváltozáshoz kapcsolódó feladatokról az MNV Zrt. gondoskodik.
+14. § A megüresedett ingatlan e fejezet szerinti tulajdonváltozásához kapcsolódó feladatokról a Lebonyolító gondoskodik.
 
-15. § Az MNV Zrt. a megüresedett ingatlant – elsősorban az egészségügyi ágazat szükségleteinek megoldása érdekében – szolgálati lakásként történő hasznosítás céljából az egészségügyért felelős miniszter által vezetett minisztérium vagy valamely, az egészségügyért felelős miniszter által felügyelt, illetve irányítása alatt álló költségvetési szerv vagyonkezelésébe adja.
+15. § (1) A Lebonyolító a megüresedett ingatlant az állami vagyonról szóló törvény szerint, az e törvényben és az e törvény végrehajtására kiadott kormányrendeletben foglalt eltérésekkel – az MNV Zrt. által működtetett elektronikus aukciós rendszer útján –, versenyeztetéssel értékesíti.
 
-16. § Ha a megüresedett ingatlan a 15. § szerinti cél megvalósítása érdekében nem szükséges, az MNV Zrt. a megüresedett ingatlant az állami vagyonról szóló törvény szerint versenyeztetés útján értékesíti.
+(2) A megüresedett ingatlan vevőjének az ingatlan tulajdonjogának megszerzése napján tulajdonjoga keletkezik a megüresedett ingatlanban található azon ingóságokon, amelyek birtoklásával a korábbi tulajdonos a tulajdonról való lemondás szándékával felhagyott.
 
-17. § (1) Ha az MNV Zrt. megállapítja, hogy az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 47/M. § (3) és (4) bekezdése szerint az árverés eredménytelen, e törvény erejénél fogva az árverés eredménytelenségének MNV Zrt. általi megállapítása napján a megüresedett ingatlanon a megüresedett ingatlan fekvése szerint illetékes helyi önkormányzatnak ingyenesen tulajdonjoga keletkezik.
+(3) Az MNV Zrt. a Lebonyolító részére az elektronikus árverésen történő értékesítést ingyenesen teszi lehetővé.
 
-(2) Az ingatlanügyi hatóság az ingatlannyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) bekezdésétől eltérően az (1) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában az MNV Zrt.-nek a tulajdonjogot keletkeztető jogszabályhelyet, helyrajzi számot, a tulajdonszerző helyi önkormányzat adatait, tulajdoni hányadot tartalmazó okirata alapján jegyzi be.
+16. § (1) Ha az értékesítést célzó második árverés is eredménytelen, a második árverés eredménytelenségéről a Lebonyolító által a megüresedett ingatlan fekvése szerint illetékes helyi önkormányzatnak küldött értesítés kézhezvételét követő harmadik hónap első napján, a megüresedett ingatlan fekvése szerint illetékes helyi önkormányzatnak e törvény erejénél fogva ingyenesen tulajdonjoga keletkezik a megüresedett ingatlanon, és az ingatlanban található azon ingóságokon, amelyek birtoklásával a korábbi tulajdonos a tulajdonról való lemondás szándékával felhagyott.
 
-(3) E § szerinti tulajdonváltozás esetében a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (4) és (5) bekezdését nem kell alkalmazni.
+(2) Az ingatlanügyi hatóság az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) bekezdésétől eltérően az (1) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a Lebonyolítónak a tulajdonjogot keletkeztető jogszabályhelyet, helyrajzi számot, a tulajdonszerző helyi önkormányzat adatait és tulajdoni hányadot tartalmazó okirata alapján jegyzi be.
 
-(4) E § szerinti tulajdonváltozás következtében felmerülő általános forgalmi adó fizetési kötelezettséget az állam viseli.
+(3) Az e § szerinti tulajdonváltozás következtében felmerülő általánosforgalmiadó-fizetési kötelezettséget az állam viseli.
 
-18. § A megüresedett ingatlanokkal kapcsolatos eljárás részletes szabályait az e törvény végrehajtására kiadott rendelet állapítja meg.
+17. § A megüresedett ingatlanokkal kapcsolatos eljárás részletes szabályait a Kormány e törvény végrehajtására kiadott rendelete állapítja meg.
+
+18. § A 16. § szerinti tulajdonváltozás esetében a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (4) és (5) bekezdését nem kell alkalmazni.
 
 ### VII. Fejezet — A SZOCIÁLIS CSALÁDIHÁZ-ÉPÍTÉSI PROGRAM KERETÉBEN FELÉPÜLT LAKHATÁSI CÉLÚ INGATLANOK ÖNKORMÁNYZATI TULAJDONBA ADÁSA
 
 19. § (1) E törvény erejénél fogva e törvény hatálybalépésének napján az Ócsán megvalósuló Szociális Családiház-építési Program keretében felépült, az 1. mellékletben felsorolt lakhatási célú ingatlanokon, valamint az ingatlanokon lévő víziközmű vagyonelemeken Ócsa Város Önkormányzatának (a továbbiakban: Önkormányzat) a fennálló lakásbérleti jogviszonyokkal terhelten, a fennálló lakásbérleti jogviszonyokból eredő jogosultságok és kötelezettségek átszállásával ingyenesen tulajdonjoga keletkezik.
 
-(2) Az Önkormányzat az (1) bekezdés szerinti ingatlanok önkormányzati tulajdonba kerülését követő két éven belül a bérlő számára a Nemzeti Eszközkezelő által kötött lakásbérleti szerződésben meghatározottaknál hátrányosabb feltételeket nem határozhat meg.
+(2) Az Önkormányzat az (1) bekezdés szerinti ingatlanok önkormányzati tulajdonba kerülését követő két éven belül a bérlő számára a Lebonyolító által kötött lakásbérleti szerződésben meghatározottaknál hátrányosabb feltételeket nem határozhat meg.
 
-(3) Az ingatlanügyi hatóság az ingatlannyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) bekezdésétől eltérően az (1) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a Nemzeti Eszközkezelőnek a tulajdonjogot keletkeztető jogszabályhelyet, helyrajzi számot, a tulajdonszerző helyi önkormányzat adatait, tulajdoni hányadot tartalmazó okirata alapján jegyzi be.
+(3) Az ingatlanügyi hatóság az ingatlannyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) bekezdésétől eltérően az (1) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a Lebonyolítónak a tulajdonjogot keletkeztető jogszabályhelyet, helyrajzi számot, a tulajdonszerző helyi önkormányzat adatait, tulajdoni hányadot tartalmazó okirata alapján jegyzi be.
 
 (4) Az e § szerinti tulajdonváltozás esetében az Nvtv. 13. § (4) és (5) bekezdéseit nem kell alkalmazni.
 
@@ -218,15 +251,20 @@ e törvény végrehajtási rendeletében foglaltak szerinti kiszámított vétel
 
 #### 8. Felhatalmazó rendelkezések
 
-20. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+20. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a 2. § (3)–(4) bekezdés, a 6. § (10) bekezdés és a 13. § (3) bekezdés szerinti tájékoztató levél részletes tartalmát, megküldésének határidejét, valamint az érintettek tájékoztatásának egyéb módját;
-- b) a lakóingatlan és a tartalék ingatlan egy összegben történő megvásárlásának alapját képező vételár meghatározásának módját és a vételár kedvezményeket, valamint azok mértékét, továbbá az egy összegben történő megvásárlásra irányuló adásvételi szerződés megkötésének legkésőbbi időpontját;
-- c) a részletvétel részletes szabályait, különösen a vételár meghatározásának módját, a részletek összege és megfizetési határideje meghatározásának módját, valamint a fizetési kötelezettség elmulasztásának következményeit;
-- d) az e törvény szerinti lakásbérleti szerződés részletes feltételeit és szabályait, különösen a lakásbérleti szerződés bérbeadó általi felmondására vonatkozó részletes, a lakásbérleti jogviszonyból eredő követelések számlázásával kapcsolatos szabályokat, valamint a 2. § (5), 8. § (3) bekezdés és a 13. § (6) bekezdése szerinti nyilatkozattétel hiányában történő lakásbérleti jogviszony fennmaradásának feltételeit;
-- e) a Nemzeti Eszközkezelő és a bérlő között létrejött lakásbérleti szerződésben meghatározandó lakbér mértékét,
-- f) az MNV Zrt. vagyonkezelésében lévő megüresedett ingatlanokkal kapcsolatos eljárás részletes szabályait,
-- g) a tartalék ingatlan ideiglenes elhelyezést biztosító ingatlanként történő felhasználásának szabályait.
+- a) a 2. § (3)–(4) bekezdése, a 6. § (10) bekezdése és a 13. § (3) bekezdése szerinti tájékoztató levél részletes tartalmát, megküldésének határidejét, valamint az érintettek tájékoztatásának egyéb módját,
+- b) a lakóingatlan és a tartalék ingatlan egy összegben történő megvásárlásának alapját képező vételár meghatározásának módját és a vételárkedvezményeket, valamint azok mértékét, továbbá az egy összegben történő megvásárlásra irányuló adásvételi szerződés megkötésének legkésőbbi időpontját,
+- c) a részletvétel részletes szabályait, különösen a vételár meghatározásának módját, a részletek összege és megfizetési határideje meghatározásának módját, valamint a fizetési kötelezettség elmulasztásának következményeit,
+- d) az e törvény szerinti lakásbérleti szerződés részletes feltételeit és szabályait, különösen a lakásbérleti szerződés bérbeadó általi felmondására vonatkozó részletes, a bérlő szociális helyzetét is figyelembe vevő feltételeket és szabályokat, ideértve a lakásbérleti jogviszonyból eredő követelések számlázásával kapcsolatos szabályokat is, valamint a 2. § (5) bekezdése, 8. § (3) bekezdése és a 13. § (6) bekezdése szerinti nyilatkozattétel hiányában történő lakásbérleti jogviszony fennmaradásának feltételeit,
+- e) a Lebonyolító és a bérlő között létrejött lakásbérleti szerződésben meghatározandó lakbér mértékét,
+- f) a megüresedett ingatlanokkal kapcsolatos eljárás részletes szabályait,
+- g) a tartalék ingatlan ideiglenes elhelyezést biztosító ingatlanként történő felhasználásának szabályait,
+- h) a Lebonyolító 4. § (2) bekezdésben megjelölt feladatainak ellátását kizárólagos jog alapján végző költségvetési szervek és gazdasági társaságok körét, valamint e feladatok ellátásával összefüggő kötelezettségeiket,
+- i) a Lebonyolító és a bérlő között létrejött lakásbérleti szerződésben a bérlő szociális helyzetére tekintettel érvényesíthető lakbér mértékét,
+- j) a tartalék ingatlan tekintetében fennálló lakásbérleti jogviszony feltételeit, különös tekintettel a lakbér mértékére, a lakásbérleti szerződés időtartamára, a bérlő kötelezettségeire.
+
+(2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a Lebonyolítót.
 
 20/A. § Felhatalmazást kap az Önkormányzat, hogy rendeletben állapítsa meg a 19. § (1) bekezdés szerinti ingatlanokra vonatkozó lakásbérleti díjat.
 
@@ -236,11 +274,11 @@ e törvény végrehajtási rendeletében foglaltak szerinti kiszámított vétel
 
 #### 10. Átmeneti rendelkezések
 
-22. § (1) A 2019. január 1-jét megelőzően, a Kormány rendeletében a Nemzeti Eszközkezelő által megvásárolható lakóingatlanokra vonatkozóan benyújtott azon jogszabályi feltételeknek megfelelő szándéknyilatkozatok esetében, amelyek alapján 2019. január 1-ig a Nemzeti Eszközkezelő a hiteladós vagy zálogkötelezett lakóingatlanára vonatkozóan adásvételi szerződést nem kötött, a Nemzeti Eszközkezelő e törvény hatálybalépését követő 30 napon belül tájékoztatja a hiteladóst vagy zálogkötelezettet, hogy e törvény alapján kizárólag egy összegben történő megvásárlás vagy részletvétel útján történő tulajdonszerzésre van lehetősége, új lakásbérleti jogviszony létesítésére nem kerülhet sor. Amennyiben a hiteladós vagy zálogkötelezett fenntartja a szándéknyilatkozatát a lakóingatlan Nemzeti Eszközkezelő által megvásárlására vonatkozóan, abban az esetben a NET tv. 18/A. §-át nem kell alkalmazni, és az e törvény szerinti egy összegben történő megvásárlás vagy részletvétel szabályait megfelelően alkalmazni kell. Ha a Nemzeti Eszközkezelő általi ingatlanvásárlásra vonatkozó adásvételi szerződés kelte 2019. október 1. és 2019. december 31. közötti napra esik, a hiteladós vagy zálogkötelezett részletvételre irányuló nyilatkozata szerinti tulajdonjog 2020. január 1-jén keletkezik.
+22. § (1)
 
-(2) A hiteladós vagy zálogkötelezett az (1) bekezdés szerinti tájékoztatás kézhezvételét követő 60 napon belül a Nemzeti Eszközkezelő részére megküldött, teljes bizonyító erejű magánokirat formájában nyilatkozhat arról, hogy fenntartja-e a szándéknyilatkozatát a lakóingatlan Nemzeti Eszközkezelő által történő megvásárlására vonatkozóan. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a nyilatkozatot tevő a határidő utolsó napján a Nemzeti Eszközkezelő székhelyén átadta vagy postára adta. A Nemzeti Eszközkezelő abban az esetben köti meg a NET tv. szerinti adásvételi szerződést és jár el a hiteladós vagy zálogkötelezett (1) bekezdés szerinti tulajdonszerzése tekintetében, ha az e §-ban meghatározott, joghatás kiváltására alkalmas nyilatkozat legkésőbb 2019. szeptember 20. napjáig megérkezett a Nemzeti Eszközkezelőhöz.
+(2)
 
-(3) A Nemzeti Eszközkezelő 2019. augusztus 1-től 2019. október 1-ig terjedő időszakban a vagyonkezelésében lévő ingatlanokon fennálló lakásbérleti szerződések esetében nem él a 10. § h) pontja és a NET tv. 23. § h) pontja szerinti felmondás jogával.
+(3)
 
 (4) E törvénynek a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításával összefüggő törvények módosításáról szóló 2019. évi LXXXIV. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésekor
 
@@ -249,11 +287,15 @@ e törvény végrehajtási rendeletében foglaltak szerinti kiszámított vétel
 
 is alkalmazni kell.
 
-(5) A Nemzeti Eszközkezelő a 7. § (6) bekezdése szerinti bejegyzés alapjául szolgáló okiratot a tulajdonjog keletkezésének napjától, de legkorábban a Módtv. hatálybalépésétől számított 60 napon belül nyújtja be az ingatlanügyi hatósághoz.
+(5) A Lebonyolító a 7. § (6) bekezdése szerinti bejegyzés alapjául szolgáló okiratot a tulajdonjog keletkezésének napjától, de legkorábban a Módtv. hatálybalépésétől számított 60 napon belül nyújtja be az ingatlanügyi hatósághoz.
+
+22/A. § (1) Ha a Kormány a Lebonyolító feladataira másik, állami tulajdonban lévő gazdasági társaságot jelöl ki, a korábbi, lebonyolítói feladatokat ellátó gazdasági társaságot a kijelölésről szóló kormányrendelet kihirdetését követő harmadik hónap utolsó napjával a cégbíróság a tulajdonosi joggyakorló kérelmére törli a cégjegyzékből.
+
+(2) Az (1) bekezdés szerinti esetben a korábbi, lebonyolítói feladatokat ellátó gazdasági társaság jogai, kötelezettségei, valamint az e törvényben, és a végrehajtására kiadott kormányrendeletben előírt lebonyolítói feladatai a megszűnésének időpontjától a Kormány által, az (1) bekezdés szerint kijelölt lebonyolító szervezetre szállnak. A jogok és kötelezettségek átszállása nem minősül a jogviszonyok módosításának, a korábbi, lebonyolítói feladatokat ellátó gazdasági társaság munkavállalóinak az (1) bekezdés szerint kijelölt lebonyolító szervezetnél történő továbbfoglalkoztatása munkáltatói jogutódlásnak minősül.
 
 #### 11. Sarkalatossági záradék
 
-23. § E törvény 17. § (3) bekezdése és 19. § (4) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+23. § E törvény 18. §-a és 19. § (4) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 #### 12. Módosító rendelkezések
 

@@ -171,7 +171,7 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni,
 
 (3) Ha a hitelező a lakáshitel-szerződésből eredő követelést olyan személyre vagy szervezetre engedményezi, akinek a tevékenységének ellenőrzése nem tartozik a Magyar Nemzeti Banknak (a továbbiakban: MNB) hatáskörébe, az e követelést biztosító zálogjoggal terhelt, kényszerértékesítésre kijelölt fedezeti ingatlan a kijelölést követő valamennyi negyedévben beleszámítandó az adott megyében, fővárosban kényszerértékesítésre kijelölt fedezeti ingatlanok számába.
 
-8. § (1) A hitelező minden tárgynegyedév első napján megyei, fővárosi szinten megállapítja az összes fedezeti ingatlanának a számát, és a 7. §-ban foglaltak szerint kijelöli azokat, amelyek tekintetében kényszerértékesítést kezdeményez. Nem lehet kényszerértékesítésre kijelölni azt a fedezeti ingatlant, amely tulajdonjogának a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény szerinti átruházásához a hitelező hozzájárult, és erről szóló elvi hozzájáruló nyilatkozatát a Nemzet Eszközkezelőnek megküldte.
+8. § (1) A hitelező minden tárgynegyedév első napján megyei, fővárosi szinten megállapítja az összes fedezeti ingatlanának a számát, és a 7. §-ban foglaltak szerint kijelöli azokat, amelyek tekintetében kényszerértékesítést kezdeményez.
 
 (2) A kényszerértékesítésre kijelölt fedezeti ingatlan kényszerértékesítését a hitelezőnek a tárgynegyedév végéig kezdeményeznie kell, kivéve, ha a hitelező pénzügyi intézmény a lakáshitel fedezetéül szolgáló lakóingatlan tulajdonjogának – a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény szerinti – átruházásához hozzájárult.
 

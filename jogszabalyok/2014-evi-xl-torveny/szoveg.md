@@ -112,13 +112,9 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (3) A fogyasztó 2015. március 1. napja és március 31. napja között kérheti a pénzügyi intézményt, hogy a részére készítsen elszámolást. A fogyasztó az elszámolást 10 000 forintos díj ellenében kérheti. Ha az elszámolás eredményeként az állapítható meg, hogy a fogyasztó javára a pénzügyi intézménynek fizetési kötelezettsége áll fenn, a pénzügyi intézménynek a 10 000 forintos díjat a fogyasztó részére vissza kell térítenie. Ha a fogyasztó a végtörlesztés érdekében forint alapú fogyasztói kölcsönszerződést kötött, nem kell megfizetnie a 10 000 forintos díjat, feltéve hogy a forint alapú fogyasztói kölcsönszerződést az elszámolásra köteles pénzügyi intézménnyel vagy más pénzügyi intézménnyel kötötte, és a fogyasztó igazolja, hogy a forint alapú fogyasztói kölcsönszerződés megkötésére a végtörlesztés érdekében került sor.
 
-#### 7. Az elszámolás eltérő szabályai a Nemzeti Eszközkezelőnek vételre felajánlott lakóingatlanokkal érintett fogyasztói kölcsönszerződés esetén
+#### 7.
 
-11. § (1) Ha a Nemzeti Eszközkezelő a fogyasztó által felajánlott lakóingatlant a pénzügyi intézmény elszámolási kötelezettségének e törvény szerinti teljesítése előtt megvásárolta, a pénzügyi intézménynek nem kell a fogyasztóval elszámolnia.
-
-(2) Ha a Nemzeti Eszközkezelő a fogyasztó által felajánlott lakóingatlant megvásárolta, a fogyasztónak a vételárfelosztási tervben érintett hitelezője 2015. december 31. napjáig kérheti a Nemzeti Eszközkezelőt, hogy – kérelmének továbbítása mellett – hívja fel a pénzügyi intézményt az elszámolás elkészítésére, és annak a Nemzeti Eszközkezelő részére való megküldésére.
-
-(3) Ha a pénzügyi intézmény javára az elszámolás bejelentését megelőzően kifizetett vételár – az elszámolás eredményére és a Nemzeti Eszközkezelő által ennek alapján módosított vételárfelosztási tervre tekintettel – az őt megillető vételárrész összegét meghaladja, a különbözet összegét a pénzügyi intézmény köteles a Nemzeti Eszközkezelőnek – a felhívásában meghatározott, de legalább 30 napos határidőn belül – visszatéríteni. A visszatérített összegnek a vételárfelosztási terv alapján arra soron következő jogosultaknak történő kifizetéséről a Nemzeti Eszközkezelő gondoskodik.
+#### 11. §
 
 #### 8. Az elszámolás eltérő szabályai az árfolyamgáttal érintett fogyasztói kölcsönszerződés esetén
 
@@ -142,7 +138,7 @@ a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire von
 
 (3) A pénzügyi intézménynek a 10. § (3) bekezdésben meghatározott esetben 2015. november 30-áig kell megküldenie az elszámolást a fogyasztónak.
 
-(4) A pénzügyi intézménynek a 11. § (2) bekezdésben meghatározott esetben 2016. február 28. napjáig kell az elszámolást a Nemzeti Eszközkezelőnek megküldenie.
+(4)
 
 (5) E § alkalmazásában a polgári peres eljárás befejezésének időpontja a bíróság eljárást befejező határozata jogerőre emelkedésének napja, ha felülvizsgálati kérelem előterjesztésére került sor, a felülvizsgálati eljárás során hozott, eljárást befejező határozat közlésének napja.
 

@@ -20,7 +20,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (2b) E törvény alkalmazásában a hasznosítás fogalmán a Nemzeti Földalapba tartozó földrészletnek – a közös tulajdonban álló földrészlet esetében az állam tulajdoni hányadának, illetve az ennek megfelelő területnek – a 3. §-ban meghatározott tulajdonosi jogok gyakorlója által e törvényben meghatározott módon, jogcímen történő átadását, átengedését kell érteni.
 
-(2c) Az (1) bekezdéstől eltérően nem képezi a Nemzeti Földalap részét a Nemzeti Eszközkezelő Zrt. által az állam javára megvásárolt ingatlan.
+(2c)
 
 (2d) E törvény alkalmazásában föld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező- és erdőgazdasági hasznosítású föld.
 
