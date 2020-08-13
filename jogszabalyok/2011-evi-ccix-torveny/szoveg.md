@@ -995,7 +995,7 @@ alapul.
 
 (8) A feltárt tényállás összes körülményére tekintettel a kormányhivatal kötelezés kibocsátása vagy a kötelezési eljárás lefolytatásának mellőzése helyett az ingatlan tulajdonosával hatósági szerződésben is megállapodhat a bekötés megvalósításáról.
 
-(9) Az állam mint tulajdonos az (1) és (2) bekezdés szerinti kötelezettségek, továbbá a felhasználó díjtartozása vonatkozásában felmerülő mögöttes felelősség alól mentesül a Nemzeti Eszközkezelő Zrt. által a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján megvásárolt lakóingatlanok esetében.
+(9) Az állam mint tulajdonos az (1) és (2) bekezdés szerinti kötelezettségek, továbbá a felhasználó díjtartozása vonatkozásában felmerülő mögöttes felelősség alól mentesül a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító vagyonkezelésében lévő lakóingatlanok esetében.
 
 (10) A vízgazdálkodási hatósági jogkörgyakorlója az (1) bekezdésben meghatározott feltétel fennállása a (4)–(8) bekezdésben meghatározott esetkörön kívül kötelezi a tulajdonost az ingatlan beköttetésére és ezzel a víziközmű-szolgáltatás igénybevételére, ha a saját célú vízellátó létesítménye, saját célú szennyvízkezelő létesítménye, egyedi szennyvízkezelő berendezése vagy az egyedi zárt szennyvíztárolója közegészségügyi, környezetvédelmi vagy vízgazdálkodási szempontból káros.
 
