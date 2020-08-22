@@ -43,7 +43,9 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 - u) határon átnyúló fogyasztói jogvita: adásvételi vagy szolgáltatási szerződés kapcsán felmerülő olyan jogvita, amely esetében az érintett fogyasztó lakóhelye vagy tartózkodási helye Magyarországon található, és a vállalkozás székhelye, telephelye, letelepedési helye ettől eltérő európai uniós tagállamban van, vagy az érintett fogyasztó lakóhelye vagy tartózkodási helye más európai uniós tagállamban található, és a vállalkozás székhelye Magyarországon van,
 - v) szexuális termék: olyan birtokba vehető forgalomképes dolog, amelynek elsődleges célja a szexuális ingerkeltés, különösen amely nemi aktust vagy egyéb szexuális cselekményt nyíltan ábrázol, illetve emberi testet, testrészt szexuális ingerkeltésre alkalmas módon vagy szexuális ingerkeltés céljából ábrázol, ideértve a – rendeltetése szerint – szexuális ingerkeltésre szolgáló, nemi aktus vagy egyéb szexuális cselekmény során alkalmazható eszközt is, a fogamzásgátlás céljából alkalmazható eszköz kivételével,
 - w) dohánytermék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott fogalom,
-- x) online felület: a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 3. cikk 15. pontjában meghatározott fogalom.
+- x) online felület: a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 3. cikk 15. pontjában meghatározott fogalom,
+- y) ellátási lánc: az e törvény hatálya alá tartozó azon folyamatok összessége, amelyek szereplői közvetlen vagy közvetett hatással vannak a fogyasztóknak értékesítésre szánt termék előállítására, tárolására, forgalomba hozatalára és felhasználására,
+- z) gazdálkodó szervezet: a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 7. § (1) bekezdés 6. pontjában meghatározott szervezet, ide nem értve azt a szervezetet, amelyet a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank felügyel.
 
 ### II. Fejezet
 
@@ -580,7 +582,7 @@ foglalt személyes adatait.
 
 (7) A bíróság ítélete kizárólag a kötelezést tartalmazó határozat, illetve az ajánlás hatályon kívül helyezésére vonatkozhat.
 
-(8) A bíróság eljárására egyebekben a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) I–XXX. fejezetének rendelkezései irányadók.
+(8) A bíróság eljárására egyebekben a Pp. I–XXX. fejezetének rendelkezései irányadók.
 
 35. § (1) A határozat, illetve az ajánlás részére történt kézbesítésétől számított tizenöt napon belül a fél kérheti a tanácstól, hogy a határozatban, illetve az ajánlásban előforduló bármely névcserét, névelírást, szám- vagy számítási hibát vagy más hasonló elírást javítson ki, vagy a kötelezést tartalmazó határozat, illetve az ajánlás meghatározott része tekintetében adjon értelmezést.
 
@@ -820,6 +822,8 @@ foglalt személyes adatait.
 
 vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
+(4) A fogyasztóvédelmi hatóság az (1)–(3) bekezdésben foglaltakat az ellátási láncban szereplő gazdálkodó szervezetek vonatkozásában is ellenőrzi és eljár azok megsértése esetén.
+
 45/B. § A fogyasztóvédelmi hatóság ellenőrzi a fogyasztói szerződés megkötésénél alkalmazott vagy e célból nyilvánosan megismerhetővé tett általános szerződési feltételeket abban a tekintetben, hogy azok nem tartalmaznak-e a jóhiszeműség és tisztesség követelményébe ütközően a szerződéses jogokat és kötelezettségeket egyoldalúan és indokolatlanul a fogyasztó hátrányára megállapító feltételt.
 
 46. § (1)
@@ -928,7 +932,21 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (6) Szolgáltatás próbavásárlása esetén a szolgáltatás díja eljárási költség, amelyet a jogsértésért felelős vállalkozás visel, ha a szolgáltatás az előírt követelményeknek nem felel meg.
 
-47/B. §
+47/B. § (1) A fogyasztóvédelmi hatóság az ellátási láncban szereplő gazdálkodó szervezet ellenőrzése során jogosult
+
+- a) az értékesítésre szánt áru tárolására vagy gyártására szolgáló helyiségbe, valamint létesítménybe, így különösen raktárba belépni;
+- b) az eljárásához szükséges vizsgálatok elvégzése céljából térítésmentesen mintát venni.
+
+(2) A fogyasztóvédelmi hatóság a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető helyzet, továbbá a fogyasztók széles körének jelentős vagyoni hátránnyal fenyegető veszélyeztetése fennállása esetén – az ügyész előzetes jóváhagyásával – az ellenőrzést a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is lefolytathatja.
+
+(3) A fogyasztóvédelmi hatóság a (2) bekezdés szerinti ellenőrzés során:
+
+- a) az ellenőrzést az érintett kíméletével, a korlátozással nem érintett alapvető jogait tiszteletben tartva hajtja végre,
+- b) figyelemmel van arra, hogy az az érintetten kívül más személyt csak a legszükségesebb mértékben érintsen,
+- c) az ellenőrzést lehetőleg a napnak a nyolcadik és tizennyolcadik órája között hajtja végre,
+- d) biztosítja, hogy az ellenőrzés során ne kerüljenek nyilvánosságra az érintett magánéletének az eljárással össze nem függő körülményei, illetve a személyes adatai,
+- e) kerüli a szükségtelen károkozást,
+- f) hatósági tanú közreműködését kéri.”
 
 47/B. §
 
