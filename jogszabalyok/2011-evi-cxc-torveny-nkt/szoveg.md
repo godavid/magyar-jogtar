@@ -457,21 +457,15 @@ szükséges.
 - g) tanulótájékoztató, -tanácsadó szolgálat,
 - h) a lemorzsolódással veszélyeztetett tanulók támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszer működtetése.
 
-(3) A pedagógiai-szakmai szolgáltatás országosan egységes szakmai irányítás mellett
+(3) A pedagógiai-szakmai szolgáltatás országosan egységes szakmai irányítás mellett az állami köznevelési közfeladat-ellátás keretében, a 2. § (3) bekezdés b) pontjában meghatározott, nevelési-oktatási intézményt fenntartó személy által fenntartott pedagógiai intézetben, továbbá az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott módon nyújtható. Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: hivatal) biztosítja.
 
-- a) az állami köznevelési közfeladat-ellátás keretében,
-- b) a 2. § (3) bekezdés b) pontjában meghatározott, nevelési-oktatási intézményt fenntartó személy által fenntartott pedagógiai intézetben, továbbá
-- c) jogszabályban meghatározott feltételek esetén az abban meghatározott eljárási rendben az oktatásért felelős miniszter engedélyével nem köznevelési intézményfenntartóként, illetve nem köznevelési intézményként működő költségvetési szerv által
+(4)
 
-nyújtható.
+(5)
 
-(4) A pedagógiai-szakmai szolgáltatások az oktatásért felelős miniszter szakmai irányítása mellett láthatók el. Az oktatásért felelős miniszter által kijelölt intézmény szervezi a nemzetiségi óvodai nevelést, iskolai nevelés-oktatást, kollégiumi nevelést segítő pedagógiai-szakmai szolgáltatásokat, továbbá azokat, amelyek helyi szinten nem szervezhetők meg hatékonyan vagy az ágazati irányítás feladatait segítik.
+(5a)
 
-(5) Az állami köznevelési közfeladat-ellátás keretében a pedagógiai-szakmai szolgáltatásokat a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: hivatal) biztosítja. Az állami fenntartású nevelési-oktatási intézmény, pedagógiai szakszolgálati intézmény a pedagógiai-szakmai szolgáltatásokat a hivataltól veszi igénybe. A nem állami fenntartású nevelési-oktatási intézmény a pedagógiai-szakmai szolgáltatásokat a hivataltól veheti igénybe a hivatal költségvetésében erre a célra szolgáló keret erejéig. A hivatal a pedagógiai-szakmai szolgáltatások ellátásába bevonhat egyes tankerületi központ által fenntartott köznevelési intézményeket, a (3) bekezdés c) pontjában meghatározott jogi személyeket, továbbá pedagógusképzést folytató felsőoktatási intézményt.
-
-(5a) Az egyházi és magán köznevelési intézmény a pedagógiai-szakmai szolgáltatást térítésmentesen veheti igénybe olyan pedagógiai-szakmai szolgáltatást nyújtó köznevelési intézménytől, amelynek fenntartója az oktatásért felelős miniszterrel e célból köznevelési szerződést kötött.
-
-(6) A pedagógiai-szakmai szolgáltatás ellátásának részletes szabályait, a térítésmentesen nyújtott pedagógiai-szakmai szolgáltatások ellátásának szintjét az oktatásért felelős miniszter rendeletben állapítja meg.
+(6)
 
 #### 18. A többcélú köznevelési intézmény
 
@@ -1208,7 +1202,7 @@ továbbítható.
 
 (9) A gyógypedagógiai nevelésben, oktatásban részt vevő nevelési-oktatási intézményben
 
-- a) a c) és d) pontban, valamint a 3. mellékletben foglalt kivétellel a sajátos nevelési igény típusának megfelelő gyógypedagógus, konduktor foglalkoztatása kell, ha
+- a) a c) és d) pontban, valamint az e törvény felhatalmazása alapján kiadott kormányrendeletben foglalt kivétellel a sajátos nevelési igény típusának megfelelő gyógypedagógus, konduktor foglalkoztatása kell, ha
   - aa) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja a sajátos nevelési igényből eredő hátrány csökkentése,
   - ab) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja az egészségügyi és pedagógiai célú habilitáció, rehabilitáció, valamint
   - ac) az értelmi fogyatékos gyermek, tanuló óvodai nevelése, iskolai nevelés-oktatása a külön e célra létrehozott gyógypedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban történik,
@@ -1958,7 +1952,7 @@ foglalkoztatott tekintetében is.
 
 (3) Gyakorló nevelési-oktatási intézményben, gyakorló pedagógiai szakszolgálati intézményben vezetőpedagógusi megbízást az kaphat, akinek pedagógus-munkakör betöltéséhez szükséges felsőfokú iskolai végzettsége és szakképzettsége, továbbá pedagógus-szakvizsgája vagy a munkakör ellátásához szükséges végzettséghez és szakképzettséghez kapcsolódó szakterületen szerzett tudományos fokozata vagy doktori cselekmény alapján szerzett doktori címe, valamint a nevelő-oktató munkában, pedagógiai szakszolgálatban eltöltött legalább ötéves szakmai gyakorlata van.
 
-(4) A nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatottak végzettségi és szakképzettségi követelményeit a 3. melléklet, a pedagógiai szakszolgálat intézményeiben pedagógus-munkakörben, továbbá a pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai szakértő és pedagógiai előadó munkakörben foglalkoztatottak végzettségi és szakképzettségi követelményeit külön jogszabály állapítja meg. Az óraadó tanárok végzettsége és szakképzettsége tekintetében a 3. mellékletben foglaltakat megfelelően alkalmazni kell.
+(4)
 
 66/A. § (1) A 66. § (1) bekezdés b) pontja szerinti feltétellel összefüggésben az alkalmazással vagy megbízási jogviszonnyal érintett személyre – ha a jogviszonyával összefüggésben törvény eltérően nem rendelkezik – a (2) és (3) bekezdést kell alkalmazni.
 
@@ -1974,7 +1968,7 @@ foglalkoztatott tekintetében is.
 
 (2) Nem lehet a köznevelési intézmény vezetője a köznevelési intézmény fenntartója, továbbá a köznevelési intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező köztisztviselő, közalkalmazott. Ha a köznevelési intézmény fenntartója a nemzetiségi önkormányzat vagy az óvoda fenntartója a települési önkormányzat, ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló képviselő-testület tagjaira. Az egyházi és magánintézmények esetében ez a korlátozás nem vonatkozik a fenntartói jogot gyakorló testület tagjaira.
 
-(3) Ha a nevelési-oktatási intézményben az óvodai nevelés, iskolai nevelés és oktatás kizárólag nemzetiségi nyelven folyik, vagy a tanulók több mint fele kétnyelvű nemzetiségi iskolai nevelésben-oktatásban vesz részt, intézményvezetői megbízást az kaphat, aki a 3. mellékletben meghatározottak szerint a nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban pedagógus-munkakört tölthet be. Azonos feltételek esetén előnyben kell részesíteni azt, aki a nemzetiséghez tartozik.
+(3) Ha a nevelési-oktatási intézményben az óvodai nevelés, iskolai nevelés és oktatás kizárólag nemzetiségi nyelven folyik, vagy a tanulók több mint fele kétnyelvű nemzetiségi iskolai nevelésben-oktatásban vesz részt, intézményvezetői megbízást az kaphat, aki az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint a nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban pedagógus-munkakört tölthet be. Azonos feltételek esetén előnyben kell részesíteni azt, aki a nemzetiséghez tartozik.
 
 (4)
 
@@ -2336,7 +2330,7 @@ figyelembe veszi.
 
 (6a)
 
-(6b) Az országos érettségi vizsgaelnöki névjegyzékbe az vehető fel, aki mesterfokozattal, a 3. melléklet szerint középiskolában pedagógus-munkakör betöltéséhez szükséges szakképzettséggel, valamint 10 év középiskolai pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben szerzett gyakorlattal rendelkezik, továbbá részt vett a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben vagy továbbképzésben.
+(6b) Az országos érettségi vizsgaelnöki névjegyzékbe az vehető fel, aki mesterfokozattal, az e törvény felhatalmazása alapján kiadott kormányrendelet szerint középiskolában pedagógus-munkakör betöltéséhez szükséges szakképzettséggel, valamint 10 év középiskolai pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben szerzett gyakorlattal rendelkezik, továbbá részt vett a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben vagy továbbképzésben.
 
 (7) A (6) bekezdés szerinti névjegyzékbe nyilvános pályázat útján lehet felvételt nyerni. A pályázati felhívást az oktatásért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni. A (6) bekezdés szerinti névjegyzékbe való felvétel öt évre szól.
 
@@ -2989,117 +2983,9 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 
 (29) E törvénynek az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvénnyel megállapított 96. § (3) bekezdésében meghatározott ügyintézési határidőt az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-98. § (1) Egyéb foglalkozást a nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatott alkalmazott tarthat.
+#### 98. §
 
-(2) Középiskolában a művészetek műveltségi terület tantárgyait és a technika-gyakorlati foglalkozás tantárgyakat főiskolai végzettséggel és a tantárgynak megfelelő tanári szakképzettséggel rendelkező pedagógus is taníthatja.
-
-(3) Az óvodapedagógus-munkakör betölthető konduktor-óvodapedagógusi, a tanítói munkakör pedig felsőfokú végzettséggel és konduktor-tanítói szakképzettséggel is. Egyéb foglalkozás tartására alkalmazható az is, aki konduktor-tanítói végzettséggel és szakképzettséggel rendelkezik.
-
-(4) Az emelt szintű oktatás kivételével az iskolai nevelés-oktatás ötödik évfolyamán az adott tantárgy oktatására és pedagógus-munkakör betöltésére jogosít a szakkollégium elvégzését igazoló tanítói végzettség és szakképzettség.
-
-(5) Idegen nyelv, nemzetiségi nyelv oktatására – minden iskolatípus bármely évfolyamán – alkalmazható az is, aki főiskolai szintű nyelvtanári vagy idegen nyelv- és irodalom szakos tanári felsőfokú végzettséggel és szakképzettséggel rendelkezik.
-
-(6) Az iskolai nevelés-oktatás ötödik-nyolcadik évfolyamán az etika tantárgy tanítására az alkalmazható, aki a tantárgynak megfelelő szakos tanári végzettséggel és szakképzettséggel rendelkezik, vagy az iskolai nevelés oktatás ötödik-nyolcadik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább hatvan órás pedagógus továbbképzés vagy szakirányú továbbképzés keretében elsajátította az etika oktatásához szükséges elméleti és módszertani ismereteket.
-
-(7) Iskolai, kollégiumi könyvtárostanárnak vagy könyvtárostanítónak alkalmazható az is, aki a 3. mellékletében foglaltak szerint az iskolában, kollégiumban pedagógus-munkakör betöltésére jogosító tanítói vagy tanári végzettséggel és szakképzettséggel, továbbá iskolarendszeren kívüli oktatásban szerzett emelt szintű könyvtárosi szakképesítéssel rendelkezik.
-
-(8) Az alkalmazáskor és a vezetői megbízáskor
-
-- a) a végzettség szintjének megfelelő tanári szakképzettségnek kell elfogadni a képzés szakirányának megfelelő felsőfokú végzettséget tanúsító oklevéllel igazolt szakképzettséget, ha a felsőfokú iskolai tanulmányok keretében el kellett sajátítani a tantárgy oktatásának módszertanát; a feltételek meglétéről az oklevelet kiállító felsőoktatási intézmény igazolása vagy a leckekönyv alapján a munkáltató dönt;
-- b) főiskolai szintű iskolai végzettségnek és pedagógus szakképzettségnek kell elfogadni az óvónőképző intézetben, tanítóképző intézetben, szaktanár képzőben, az állami zenekonzervatóriumban szerzett pedagógus szakképzettséget;
-- c) pedagógus-munkakör betöltésére jogosító oklevélnek kell elfogadni a pedagógia szakos előadói, a nevelőtanári, konduktori, konduktor-óvodapedagógusi és konduktor-tanítói, valamint a konduktor (tanító) és a konduktor (óvodapedagógus) szakképzettséget tanúsító felsőfokú iskolai oklevelet;
-- d) egyetemi végzettségnek és szakképzettségnek kell elfogadni a Magyar Testnevelési Főiskola által az 1975. évi 16. törvényerejű rendelet hatálybalépése előtt kiadott testnevelő-tanári szakképzettséget.
-
-(9)
-
-(10) Ha nincs a képzés szakirányának megfelelő hazai felsőfokú képzés, határozatlan időre alkalmazható, továbbá köznevelési szakértői tevékenységet végezhet
-
-- a) szakgimnáziumban
-  - aa) kerettantervben az adott gyakorlati tantárgyra vonatkozó eltérő rendelkezés hiányában, aki érettségi végzettséggel és mestervizsgával,
-  - ab) népzenész- és a szórakoztatózenész-képzésben az, aki szakirányú emelt szintű szakképesítéssel,
-  - ac) népi kézműves képzésben az, aki népi játék és kismesterségek oktatója szakképesítéssel,
-- b) alapfokú művészeti iskola
-  - ba) elektroakusztikus képzésében az, aki zeneművészeti ágban szerzett pedagógus-szakképzettséggel és emelt szintű szórakoztatózenész (billentyűs) szakképesítéssel,
-  - bb) környezet-, kézműves kultúra tanszakán, továbbá textil és bőrműves tanszakán az, aki népi játék és kismesterségek oktatója szakképesítéssel
-
-rendelkezik.
-
-(11) Aki az oktatásért felelős miniszter által kiállított igazolás alapján a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi megállapodás keretében idegen nyelven folytatott nevelési, oktatási tevékenység ellátására anyanyelvi tanárként érkezik Magyarországra, mentesül a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvényben szabályozott elismerési eljárás alól. Az elismerési eljárás alóli mentesítés az oktatásért felelős miniszter által kiállított igazolásban megjelölt időtartamra, összesen maximum öt tanévre szól. Az e bekezdés szerinti anyanyelvi tanárral létesített óraadói megbízási jogviszonyra nem kell alkalmazni a 4. § 21. pontban az óraszámra vonatkozóan meghatározott korlátozást.
-
-(12) Az anyanyelvi tanárt küldő állam, vagy az államközi megállapodás alapján nevesített közvetítő szervezet köteles igazolást kiállítani arról, hogy az anyanyelvi tanár a küldő országban, az alap- és középfokú oktatásban pedagógus-munkakör betöltésére jogosító felsőfokú oklevéllel rendelkezik.
-
-(13) Ha a pedagógus-munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, a nemzetiségi óvodai nevelésben, a nemzetiségi iskolai nevelésben-oktatásban legfeljebb három évre szóló határozott időre foglalkoztatható az is, aki – a hivatal igazolása alapján – olyan külföldi oklevéllel rendelkezik, amellyel az adott államban pedagógus munkakört betölthet és tanulmányait az adott nemzetiség nyelvén folytatta.
-
-(14) Ha a tantárgy vagy a tantárgyi modul vonatkozásában nincs megfelelő hazai felsőfokú képzés, vagy megfelelő végzettségű és szakképzettségű pedagógussal nem tudják ellátni a feladatot, az iskolában az adott tantárgy, tantárgyi modul tanítására határozatlan időre alkalmazható, valamint az adott tantárgy, tantárgyi modul vonatkozásában az érettségin vizsgáztató tanár lehet az is, aki a Nemzeti alaptantervben az adott pedagógiai szakaszban az érintett műveltségi terület, több műveltségi terület vagy tantárgyi tartalom összevonásával kialakított komplex tantárgy vagy tantárgyi modul esetében az adott komplex tantárgyba, tantárgyi modulba bevont bármely műveltségi terület, tantárgy tanítására feljogosító szakos tanári végzettséggel és szakképzettséggel rendelkezik, valamint
-
-- a) a tantárgynak, tantárgyi modulnak megfelelő szakirányú továbbképzésben szerzett szakképzettséggel rendelkezik, vagy
-- b) az a) pontban meghatározott szakirányú továbbképzés hiányában legalább százhúsz órás pedagógus-továbbképzés keretében elsajátította az adott tantárgy, tantárgyi modul oktatásához szükséges elméleti és módszertani ismereteket.
-
-(15)
-
-(16) Ha az iskola megfelelő végzettségű és szakképzettségű pedagógussal nem tudja megszervezni a 27. § (11) bekezdés szerinti mindennapos testnevelést, akkor a testnevelés tantárgy tanítására határozott időre, legfeljebb a 2024/2025. tanév kezdetéig alkalmazható, aki testnevelő-edzői szakképzettséggel vagy felsőfokú végzettséggel és sportoktatói vagy sportedzői szakképesítéssel rendelkezik.
-
-(17) Az általános iskola 5–8. évfolyamán és az alapfokú művészeti iskolában a drámapedagógia tantárgyat tanítói és drámapedagógus szakirányú szakképzettséggel rendelkező pedagógus is taníthatja.
-
-(18)
-
-99. § (1)
-
-(2)
-
-(3) Ha nincs a képzés szakirányának megfelelő hazai felsőfokú pedagógusképzés vagy megfelelő végzettségű és szakképzettségű pedagógussal nem tudják ellátni a feladatot, a nemzetiségi óvodai nevelésben, iskolai nevelés-oktatásban, kollégiumi nevelésben pedagógus-munkakört tölthet be, továbbá vezetői megbízást kaphat az is, aki az e törvény 3. mellékletében foglaltak vagy az átmeneti, továbbá a kivételi szabályok szerint pedagógus-munkakört tölthet be az óvodában, iskolában, kollégiumban, valamint az adott nyelvből legalább középfokú „komplex” típusú államilag elismert nyelvvizsga bizonyítvánnyal vagy azzal egyenértékű okirattal rendelkezik.
-
-(4)
-
-(5) A nemzetiségi nyelv oktatására a bolgár, a cigány (romani vagy beás), a görög, a lengyel, az örmény, a ruszin, az ukrán nyelv oktatása esetében alkalmazható az is, aki pedagógus szakképzettséggel és az adott nyelvből felsőfokú „komplex” típusú államilag elismert nyelvvizsga bizonyítvánnyal vagy azzal egyenértékű okirattal rendelkezik.
-
-(6) Az e törvényben foglaltaktól eltérően pedagógus-munkakörben továbbra is foglalkoztatható és újonnan alkalmazható
-
-- a) technika-gyakorlati foglalkozás tantárgy oktatására, aki a tantárgynak megfelelő felsőfokú végzettséggel vagy felsőfokú szakoktatói vagy műszaki oktatói vagy mérnök tanár végzettséggel és szakképzettséggel,
-- b) óvodapedagógus-munkakörben, aki óvónői szakközépiskolában szerzett érettségi-képesítő bizonyítvánnyal rendelkezik, abban az esetben, ha a bizonyítvány, oklevél megszerzése óta 1996. szeptember 1. napjáig az adott pedagógus-munkakörben legalább hét év szakmai gyakorlatot szerzett.
-
-(7) Az e törvényben foglaltaktól eltérően pedagógus-munkakörben továbbra is foglalkoztatható
-
-- a) gyógypedagógus-munkakörben, aki óvónői, tanítói, tanári oklevéllel,
-- b) kollégiumban, aki felsőfokú végzettséggel és szakképzettséggel rendelkezik, abban az esetben, ha a bizonyítvány, oklevél megszerzése óta 1996. szeptember 1. napjáig az adott pedagógus-munkakörben legalább hét év szakmai gyakorlatot szerzett.
-
-(8)
-
-(9) Az e törvényben foglaltaktól eltérően pedagógus-munkakörben továbbra is foglalkoztatható és újonnan alkalmazható, aki a felsőoktatásról szóló 2005. évi CXXXIX. törvény vagy a felsőoktatásról szóló 1993. évi LXXX. törvény alapján vagy az azt megelőző felsőoktatási képzési rendszerben szerzett, az e törvény 3. mellékletében az adott pedagógus-munkakör betöltéséhez előírt szakképzettségnek megfeleltethető vagy a szakiránynak megfelelő felsőfokú végzettséggel és pedagógus szakképzettséggel rendelkezik.
-
-(10) Ha a pedagógus szakképzettsége e törvényben meghatározott képesítésnek a megváltozott előírások miatt nem felel meg, és e törvény hatálybalépésekor a pedagógusnak
-
-- a) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél kevesebb ideje van, legfeljebb a nyugdíjkorhatár eléréséig változatlan munkakörben tovább foglalkoztatható;
-- b) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél több ideje van, e törvény hatálybalépésének napjától számított öt év után csak akkor foglalkoztatható tovább pedagógus-munkakörben, ha tanulmányait a felsőfokú pedagógus-szakképzettséget nyújtó oktatásban megkezdte.
-
-(11)
-
-(12)
-
-(13) Ha a munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, óvodapszichológusként, iskolapszichológusként ötéves határozott időre alkalmazható az is, aki pszichológus végzettséggel és szakképzettséggel rendelkezik, de nem rendelkezik a szükséges pedagógus vagy szakpszichológus szakképzettséggel vagy szakiránnyal, feltéve, hogy öt éven belül vállalja a munkakör betöltéséhez szükséges szakképzettség, szakvizsga megszerzését.
-
-(14) Ha a pedagógus-munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, akkor legfeljebb egy alkalommal a gyakornoki idő lejártáig gyakornokként alkalmazható az is, aki a nyelvvizsga letétele kivételével a pedagógus-munkakör betöltéséhez előírt végzettséget és szakképzettséget igazoló oklevél kiadásának feltételeit teljesítette. Ebben az esetben a minősítő vizsga letételének feltétele az előírt nyelvvizsga-bizonyítvány megszerzése. Amennyiben a gyakornok az előírt határidőig a nyelvvizsga-bizonyítványt nem szerzi meg, közalkalmazotti jogviszonya, munkaviszonya e törvény erejénél fogva megszűnik. Az e bekezdés alapján foglalkoztatott személyt az általa betöltött pedagógus-munkakörhöz előírt, megszerzendő végzettsége és szakképzettsége alapján kell besorolni.
-
-(15)
-
-(16) Ha a pedagógus-munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, akkor a megfelelő pedagógus-szakképzettség megszerzéséig, de legfeljebb egy alkalommal, vagy több egymást követő jogviszony esetén mindösszesen öt évig határozott időre foglalkoztatható az is, aki
-
-- a) a tantárgynak megfelelő szakmai tanár felsőfokú végzettségi szinttel és szakképzettséggel,
-- b) felsőfokú végzettségi szinttel és a tantárgynak megfelelő, felsőoktatásban természettudomány képzési területen szerzett szakképzettséggel,
-- c) alapfokú művészeti iskolában felsőoktatásban művészet képzési terület szakján szerzett művészeti tárgynak megfelelő felsőfokú végzettségi szinttel és előadóművész-szakképzettséggel
-
-rendelkezik, feltéve, hogy vállalja a megfelelő tanári szakképzettség megszerzését.
-
-(17) A tánc és dráma tantárgyat 9–12. évfolyamon taníthatja az is, aki magyar nyelv és irodalom szakos tanári szakképzettséggel rendelkezik, valamint elsajátította a tantárgy oktatásához szükséges elméleti és módszertani ismereteket a 98. § (14) bekezdés szerinti továbbképzésben vagy a tantárgy szakirányának megfelelő felsőfokú végzettséggel és szakképzettséggel is rendelkezik.
-
-(18) Alapfokú művészeti iskolában zeneművészeti ágban az azonos tanszakhoz tartozó tantárgyakat taníthatja az is, aki bármely, az adott tanszakhoz tartozó tantárgy tanításához megfelelő felsőfokú végzettségi szinttel és szakképzettséggel rendelkezik, és vállalja, hogy a 98. § (14) bekezdés szerint elsajátítja a tantárgy tanításának módszertanát. E bekezdésben foglaltak szerint legfeljebb egy alkalommal, vagy több egymást követő jogviszony esetén mindösszesen öt évig határozott időre foglalkoztatható az is, aki vállalja a megfelelő tanári szakképzettség megszerzését.
-
-(19) Alapfokú művészeti iskolában szín- és bábművészeti ágban pedagógus munkakörben foglalkoztatható az is, aki
-
-- a) bármely pedagógus-szakképzettséggel és szakirányú továbbképzésben szerzett drámapedagógus-szakképzettséggel,
-- b) bábszínész-szakképzettséggel
-
-rendelkezik.
+#### 99. §
 
 99/A. § A 78. § (2a) bekezdésében meghatározott feladat végrehajtásában a jogszabályban történő kijelölés esetén az oktatási központ részt vehet. Az e kijelölés alapján eljáró oktatási központ a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
 
@@ -3178,46 +3064,6 @@ rendelkezik.
 | 7 | úszómester | tanuszodával rendelkező óvodában | 1 |
 
 ### 3. melléklet a 2011. évi CXC. törvényhez
-
-A nevelési-oktatási intézményekben pedagógus-munkakörben alkalmazottak végzettségi
-
-és szakképzettségi követelményei
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1 | A nevelő-oktató munka pedagógiai szakaszai/ Nevelési-oktatási intézmények | Pedagógus-munkakör | Az alkalmazáshoz szükséges szakképzettség |
-| 2 | Óvodai nevelés | óvodapedagógus | óvodapedagógus |
-| 3 | Alsó tagozat | tanító | tanító |
-| 4 | 5–6. évfolyam | tanár | a tantárgynak megfelelő szakos tanár, tantárgynak megfelelő műveltségi területet végzett tanító |
-| 5 | 7–8. évfolyam | tanár | a tantárgynak megfelelő szakos tanár |
-| 6 | 9–12. évfolyam gimnáziumban | gimnáziumi tanár | egyetemi szintű vagy – az általános iskolai tanár kivételével – mesterfokozatú –, a tantárgynak megfelelő szakos tanár |
-| 7 | Szakgimnázium (pedagógiai, közművelődési) | szakmai tantárgyat oktató tanár | a szakmai tantárgynak megfelelő szakos felsőfokú szakképzettség |
-| 8 | Szakgimnázium (művészeti) | művészeti szakmai tantárgyat oktató tanár | a művészeti tárgynak megfelelő szakos felsőfokú szakképzettség |
-| 9 | Alapfokú művészeti iskola zeneművészeti ág | szakmai tantárgyat tanító tanár | a művészeti tárgynak megfelelő szakirányú tanár, művészeti tárgynak megfelelő művész, előadóművész |
-| 10 | Alapfokú művészeti iskola (szín- és bábművészeti, képző- és iparművészeti, táncművészeti ág) | szakmai tantárgyat tanító tanár | a tanszaknak megfelelő szakirányú felsőfokú végzettség, a tanszaknak megfelelő tanár vagy művész szakképzettség |
-| 11 | Kollégium | kollégiumi nevelőtanár | kollégiumi nevelőtanár, gyógypedagógus, konduktor, szociálpedagógus, játék- és szabadidő-szervező tanár, tanulási és pályatanácsadó tanár, tehetségfejlesztő tanár, hittanár-nevelő tanár, pedagógia szakos tanár és pedagógia szakos nevelő, a nevelő-oktató munka pedagógiai szakaszának megfelelően tanító, tanár |
-| 12 | Az alsó tagozaton az emelt szintű oktatásban a művészetek, idegen nyelv, nemzetiségi nyelv és irodalom tantárgyak esetében | tanár | a tantárgynak megfelelő szakos tanár |
-| 13 | könyvtárostanár (tanító) | könyvtárpedagógia-tanár, informatikus könyvtáros és tanító vagy tanár vagy szociálpedagógus |
-| 14 | óvodapszichológus/ iskolapszichológus | pszichológus és óvodapedagógus vagy gyógypedagógus vagy konduktor vagy tanító vagy tanár, pszichológus tanácsadás és iskolapszichológia szakirányon, pedagógiai szakpszichológus óvoda- és iskola-szakpszichológus óvoda- és iskolapszichológus tanácsadó szakpszichológus |
-| 15 | fejlesztő pedagógus | óvodapedagógus, tanító, tanár, szociálpedagógus, konduktor, a továbbiakban meg nem nevezett gyógypedagógus, pedagógia szakos előadó, pedagógia szakos nevelőtanár és a beilleszkedési, tanulási, magatartási nehézségekkel küzdő gyermekek, tanulók szűrésére, csoportos és egyéni foglalkoztatására jogosító szakirányú továbbképzésben szerzett szakképzettség, oligofrénpedagógia szakos gyógypedagógiai tanár, gyógypedagógus, tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakos gyógypedagógiai tanár vagy terapeuta, gyógypedagógus, tanulásban akadályozottak pedagógiája vagy logopédia vagy pszichopedagógia szakirányon |
-| 16 | szociálpedagógus | szociálpedagógus |
-| 17 | konduktor | konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító), konduktor(óvodapedagógus), speciális pedagógia szakos tanár és szakpedagógus vagy konduktortanár és konduktor vagy konduktor-tanító vagy konduktor-óvodapedagógus vagy konduktor(tanító), vagy konduktor(óvodapedagógus) |
-| 18 | logopédus | logopédia szakos gyógypedagógiai tanár vagy terapeuta, gyógypedagógus logopédia szakirányon, speciális pedagógia szakos tanár és szakpedagógus vagy okleveles gyógypedagógus vagy gyógypedagógia-tanár és gyógypedagógus, logopédia szakos gyógypedagógiai tanár vagy terapeuta vagy gyógypedagógus logopédia szakirányon |
-| 19 | gyógypedagógus | a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta, speciális pedagógia szakos tanár és szakpedagógus vagy okleveles gyógypedagógus vagy gyógypedagógia-tanár és a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta |
-| 20 | Nemzetiségi óvodai nevelés | nemzetiségi óvodapedagógus | nemzetiségi óvodapedagógus |
-| 21 | Nemzetiségi iskolai nevelés-oktatás az alsó tagozaton | nemzetiségi tanító | nemzetiségi tanító |
-| 22 | Nemzetiségi iskolai nevelés-oktatás az 5–12. évfolyamon | közismereti tantárgyat nemzetiségi nyelven oktató tanár | tantárgynak megfelelő szakos tanár és a nevelés-oktatás nyelvének tanítására jogosító tanító vagy tanár vagy nyelvtanár szakképzettség vagy az adott nyelvből legalább középfokú „komplex” típusú államilag elismert nyelvvizsga, Magyarországon honosított oklevél alapján az adott évfolyamon az adott tantárgy tanításához előírt, a tanítás nyelvének megfelelő pedagógusvégzettség és szakképzettség |
-| 23 | Nemzetiségi iskolai nevelés-oktatás | nemzetiségi nyelvtanár | nemzetiségi nyelvtanár, nyelvtanár |
-| 24 | Minden iskolatípusban és minden évfolyamon | idegennyelvtanár | nyelvtanár, nemzetiségi nyelvtanár |
-| 25 | Minden iskolatípusban és minden évfolyamon | testnevelő | testnevelő tanár |
-| 26 | Minden iskolatípusban és minden évfolyamon | ének-zene tanár | ének-zene szakos tanár |
-| 27 | Két tanítási nyelvű iskolai nevelés-oktatás | tanító, tanár | az adott évfolyamon az adott tantárgy tanításához előírt szakképzettség (tanító, tanár) és az iskolai nevelés-oktatás nyelvének tanítására jogosító tanító, tanár, nyelvtanár-szakképzettség vagy az adott tantárgy nem magyar nyelven történő oktatásához szükséges nyelvi ismeretek alapképzésben, mesterképzésben, szakirányú továbbképzésben történő elsajátításának igazolása, vagy a Közös Európai Referenciakeret szerinti legalább C1 szintű (felsőfokú) nyelvtudás igazolása az adott idegen nyelvből, Magyarországon honosított oklevél alapján az adott évfolyamon az adott tantárgy tanításához előírt, a tanítás nyelvének megfelelő pedagógusvégzettség és szakképzettség |
-| 28 | együttnevelést segítő pedagógus | az e mellékletben a gyógypedagógus és a konduktor munkakörre meghatározott végzettség és szakképzettség |
-| 29 | Készségfejlesztő iskolai nevelésoktatás gyakorlati évfolyamon | tanár a szakmai elméleti oktatásban | gyógypedagógus vagy a képzés szakirányának megfelelő szakos tanár |
-| 30 | Készségfejlesztő iskolai nevelés-oktatás gyakorlati évfolyamon | szakmai tanár, szakoktató, gyakorlati oktató | gyógypedagógus, vagy a képzés szakirányának megfelelő szakos tanár, a képzés szakirányának megfelelő szakoktató, a képzés szakirányának megfelelő felsőfokú végzettség, érettségi végzettség és a szakiránynak megfelelő államilag elismert legalább középszintű szakképesítés, továbbá legalább öt év, az adott szakiránynak megfelelő szakmai gyakorlat |
-| 31 | Szakiskolai nevelés-oktatás | szakmai elméleti tantárgyat oktató tanár | a szakmai tárgynak megfelelő szakos felsőfokú végzettség és szakképzettség |
-| 32 | Szakiskolai nevelés-oktatás | szakmai tanár, szakoktató, gyakorlati oktató | a szakmai képzés szakirányának megfelelő szakos tanár, a szakmai képzés szakirányának megfelelő szakoktató, a szakmai képzés szakirányának megfelelő felsőfokú végzettség, érettségi végzettség és a szakiránynak megfelelő államilag elismert legalább középszintű szakképesítés, továbbá legalább öt év, az adott szakiránynak megfelelő szakmai gyakorlat |
-| 33 | Szakiskolai nevelés-oktatás, nem értelmi fogyatékos tanulók esetében | közismereti tantárgyat oktató tanár | a tantárgynak megfelelő szakos tanár |
 
 ### 4. melléklet a 2011. évi CXC. törvényhez
 
