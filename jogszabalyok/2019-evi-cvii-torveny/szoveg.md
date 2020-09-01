@@ -1025,7 +1025,10 @@ Ha törvény rendelkezése folytán a munkáltató egésze vagy egy része (szer
 - j) bíróság, illetve hatóság eljárásában való személyes részvételhez szükséges időtartamra,
 - k) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára,
 - l) e törvényben, e törvény végrehajtására kiadott jogszabályban, valamint a közszolgálati szabályzatban meghatározott időtartamra, továbbá
-- m) a munkáltató engedélye alapján.
+- m) a munkáltató engedélye alapján,
+- n) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.
+
+(12) A (11) bekezdés n) pontja szerinti esetben a köztisztviselőt a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a köztisztviselő legalább öt munkanappal korábban tájékoztatja a munkáltatót.
 
 #### 48. § [A köztisztviselő képzése, továbbképzése]
 
@@ -1393,7 +1396,7 @@ megfelelő mértékű szabadidő jár.
 - b) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság első hat hónapja,
 - c) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizetés nélküli szabadság idejének tartama,
 - d) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartama,
-- e) a 47. § (11) bekezdés a), b), h) és k) pontjában meghatározott esetek, valamint
+- e) a 47. § (11) bekezdés a), b), h), k) és n) pontjában meghatározott esetek, valamint
 - f) minden olyan munkában nem töltött idő, amelyre a köztisztviselő illetményre jogosult.
 
 (3) A 69. § (1) bekezdése szerinti különleges jogállású szerv köztisztviselője az (1) bekezdés szerinti alapszabadságán felül az általa betöltött álláshely besorolásától függően évente:
@@ -1629,7 +1632,7 @@ időtartamát.
 (3) A köztisztviselőt illetmény illeti meg
 
 - a) a szabadság időtartamára,
-- b) a 47. § (11) bekezdés c)–g) és j) pontjában meghatározott esetekben,
+- b) a 47. § (11) bekezdés c)–g), j) és n) pontjában meghatározott esetekben,
 - c) ha e törvény munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő,
 - d) a munkaszüneti nap miatt kiesett időre.
 

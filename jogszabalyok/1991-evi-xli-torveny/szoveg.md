@@ -547,7 +547,7 @@ a közjegyzőkről
 
 - a) a közjegyzői állás megüresedett, illetve betöltetlen, vagy
 - b) a közjegyzőnek nincs állandó helyettese – ideértve azt az esetet is, ha az állandó helyettesítése megszűnt – és
-  - ba) a közjegyzőt hivatalából felfüggesztették,
+  - ba) a közjegyzőt a hivatalából felfüggesztették, vagy a felfüggesztés a törvény erejénél fogva bekövetkezett és erről a területi elnökség a közjegyző kérelme, vagy az országos elnök tájékoztatása alapján tudomást szerzett,
   - bb) a közjegyző szolgálata szünetel, vagy
   - bc) a közjegyző megszakítás nélkül 5 munkanapot meghaladóan az irodájától távol van.
 
@@ -1150,27 +1150,61 @@ foglalt kötelezettségek teljesítését.
 
 79. § A fegyelmi bíróság tagjai és a vizsgálóbiztosok működésük megkezdése előtt a törvényszék elnöke előtt a 21. § (2) bekezdés szerint esküt tesznek. Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során az esküt tevő személyétől függően: fegyelmi bíró, vizsgálóbiztos.
 
+79/A. § (1) A fegyelmi bíróság ügyrendje tartalmazza az eljáró tanácsok összetételének – ideértve a közjegyző tagok kijelölésének –, a vizsgálóbiztosok beosztásának, továbbá az ügyelosztásnak a részletes szabályait, valamint az ügyviteli szabályokat.
+
+(2) A fegyelmi bíróság ügyrendjét a fegyelmi bíróság maga állapítja meg. Az elsőfokú fegyelmi bíróság ügyrendjét a törvényszék elnöke és az országos elnök, a másodfokú fegyelmi bíróság ügyrendjét a Kúria elnöke és az országos elnök hagyja jóvá.
+
+(3) Az elsőfokú fegyelmi bíróság ügyrendjét a törvényszék és az országos kamara honlapján, a másodfokú fegyelmi bíróság ügyrendjét a Kúria és az országos kamara honlapján közzé kell tenni.
+
+(4) A fegyelmi bíróság minden év február 15-éig írásban tájékoztatja az országos elnököt, valamint az elsőfokú fegyelmi bíróság esetén a törvényszék, másodfokú fegyelmi bíróság esetén a Kúria elnökét arról, hogy előző évi működése megfelelt-e az ügyrendjében foglaltaknak. A tájékoztató tartalmazza az előző évben a fegyelmi bírósághoz érkezett, illetve ott befejezett, valamint folyamatban maradt ügyek számát, a fegyelmi bíróság által kiszabott büntetéseket, továbbá a fegyelmi bírósághoz érkezett kizárási kérelmek számát és jellegét.
+
+(5) A fegyelmi bíróság éves tájékoztatóját az országos elnök az elsőfokú fegyelmi bíróság vonatkozásában a törvényszék elnökével, a másodfokú fegyelmi bíróság vonatkozásában a Kúria elnökével a tárgyévet követő év március 31-ig közösen vitatja meg és hagyja jóvá.
+
+(6) Az elsőfokú fegyelmi bíróság jóváhagyott tájékoztatóját a törvényszék és az országos kamara honlapján, a másodfokú fegyelmi bíróság jóváhagyott tájékoztatóját a Kúria és az országos kamara honlapján közzé kell tenni.
+
 80. § (1) A eljárás alá vont személyek fegyelmi ügyeiben elsőfokon a törvényszéknek, másodfokon a Kúriának a közjegyzői fegyelmi tanácsa (a továbbiakban: fegyelmi tanács) jár el.
 
-(2) A fegyelmi tanács 5 tagú, elnöke bíró, 1 tagja bíró, 3 tagja közjegyző.
+(2) A fegyelmi tanács 5 tagú, elnöke bíró, 1 tagja bíró, 3 tagja közjegyző. A fegyelmi tanács az elnökét a bíró tagok közül szótöbbséggel választja.
+
+(2a) A fegyelmi bíróság 2-2 tanácsban működik, amelynek bíró tagjai állandóak. A fegyelmi tanács 2 bíró tagját a fegyelmi bíróság elnöke jelöli ki. A fegyelmi bíróság elnöke a fegyelmi tanácsoknak nem tagja.
+
+(2b) A fegyelmi tanács közjegyző tagjait a fegyelmi bíróság elnöke esetileg jelöli ki. A fegyelmi tanács közjegyző tagja az lehet, aki az eljárás alá vont személy székhelyétől eltérő székhelyen, illetve eltérő működési körzetben működik és megjelenésében nincs akadályozva.
 
 (3) A fegyelmi tanács munkájának előkészítését, a vizsgálat lefolytatását vizsgálóbiztos végzi.
 
-81. § Fegyelmi bíróként vagy vizsgálóbiztosként nem járhat el
+81. § Fegyelmi bíróként vagy vizsgálóbiztosként nem járhat el:
 
-- a) a közjegyző, ha fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll,, ha pedig az említett eljárás során a közjegyzőt elmarasztalják, fegyelmi bírói vagy vizsgálóbiztosi tisztsége megszűnik,
-- b) az a közjegyző, akire nézve a 4. §-ban vagy a 43. § (3) bekezdésében meghatározott kizáró ok áll fenn,
-- c) az a közjegyző, akinek tanúkénti meghallgatása szükségessé válhat,
-- d) az eljárás alá vont személy képviselője,
+- a) aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll, ha pedig az említett eljárás során elmarasztalják, fegyelmi eljárásban viselt tisztsége megszűnik,
+- b) akire nézve a 4. §-ban meghatározott kizáró ok áll fenn,
+- c) az a közjegyző, akire nézve a 43. § (3) bekezdésében meghatározott kizáró ok áll fenn,
+- d) az a közjegyző, akinek tanúkénti meghallgatása szükségessé válhat,
 - e) a vizsgálóbiztos fegyelmi bíróként,
 - f) a fegyelmi bíró vizsgálóbiztosként,
-- g) aki a 69/A. § szerinti vizsgálat lefolytatásában részt vett.
+- g) aki a 69/A. § vagy a 69/B. § szerinti vizsgálat lefolytatásában részt vett.
 
-82. § (1) Ha olyan körülmény merül fel, amely a vizsgálóbiztosnak, a fegyelmi bíróság elnökének, illetőleg a fegyelmi tanács elnökének vagy tagjának elfogulatlanságát kétségessé teszi, a fegyelmi eljárás alá vont személy elfogultsági kifogást terjeszthet elő. Ezenkívül joga van a fegyelmi tanács egy tagját az ok megjelölése nélkül kifogásolni.
+82. § (1) A vizsgálóbiztos a fegyelmi bíróság elnökének haladéktalanul bejelenti, ha vele szemben kizárási ok áll fenn. A bejelentést követően – vagy ha a vizsgálóbiztos kizárási kérelem előterjesztése esetén a saját mellőzéséhez hozzájárult – a fegyelmi bíróság elnöke másik vizsgálóbiztost jelöl ki.
 
-(2) Az elfogultságról a fegyelmi tanács határoz.
+(2) Ha a vizsgálóbiztos ellen az eljárás alá vont személy kizárási kérelmet terjeszt elő, és a vizsgálóbiztos a saját mellőzéséhez nem járult hozzá, a kizárási kérelemről a fegyelmi tanács dönt. Ha a vizsgálóbiztossal szemben kizárási ok áll fenn, a fegyelmi bíróság elnöke másik vizsgálóbiztost jelöl ki, a kizárási kérelem elutasítása esetén a vizsgálatot a beosztás szerinti vizsgálóbiztos folytatja le. Ha a fegyelmi bírósághoz kinevezett mindkét vizsgálóbiztossal szemben kizárási ok áll fenn, a Kúria elnöke más törvényszék mellett működő vizsgálóbiztost jelöl ki a vizsgálat lefolytatására.
 
-(3) Ha a fegyelmi bíróság elfogultság vagy kizáró ok miatt határozatképtelenné válik, a Kúria jelöli ki az eljáró fegyelmi tanácsot.
+(3) A fegyelmi tanács elnöke vagy bíró tagja a fegyelmi bíróság elnökének haladéktalanul bejelenti, ha vele szemben kizárási ok áll fenn. A bejelentést követően – vagy ha az érintett személy kizárási kérelem előterjesztése esetén a saját mellőzéséhez hozzájárult – a fegyelmi bíróság elnöke az eljárás lefolytatására másik fegyelmi tanácsot jelöl ki.
+
+(4) Ha a fegyelmi tanács elnöke vagy bíró tagja ellen az eljárás alá vont személy kizárási kérelmet terjeszt elő, és az érintett személy a saját mellőzéséhez nem járult hozzá, a kizárási kérelemről a másik fegyelmi tanács dönt. Ha a fegyelmi tanács elnökével vagy bíró tagjával szemben kizárási ok áll fenn, a fegyelmi bíróság elnöke a másik fegyelmi tanácsot jelöli ki, a kizárási kérelem elutasítása esetén a fegyelmi eljárást a fegyelmi bíróság kizárási kérelemmel érintett fegyelmi tanácsa folytatja le. Ha a fegyelmi bírósághoz kinevezett mindkét tanács elnökével vagy bíró tagjával szemben kizárási ok áll fenn, a fegyelmi eljárás lefolytatására a Kúria elnöke másik fegyelmi bíróságot jelöl ki.
+
+(5) A fegyelmi bíróság közjegyző tagja a fegyelmi bíróság elnökének haladéktalanul bejelenti, ha vele szemben kizárási ok áll fenn. A bejelentést követően – vagy ha az érintett közjegyző tag kizárási kérelem előterjesztése esetén a saját mellőzéséhez hozzájárult – a fegyelmi bíróság elnöke másik közjegyző tagot jelöl ki.
+
+(6) Ha a fegyelmi bíróság közjegyző tagja ellen az eljárás alá vont személy kizárási kérelmet terjeszt elő, és az érintett közjegyző tag a saját mellőzéséhez nem járult hozzá, a kizárási kérelemről a másik fegyelmi tanács dönt. Ha a fegyelmi bíróság közjegyző tagjával szemben kizárási ok áll fenn, a fegyelmi bíróság elnöke másik közjegyző tagot jelöl ki, a kizárási kérelem elutasítása esetén a fegyelmi eljárást az érintett fegyelmi tanács az eredeti összetételben folytatja le.
+
+(7) A fegyelmi bíróság elnöke a Kúria elnökének haladéktalanul bejelenti, ha vele szemben kizárási ok áll fenn. A bejelentést követően – vagy ha a fegyelmi bíróság elnöke kizárási kérelem előterjesztése esetén a saját mellőzéséhez hozzájárult – a Kúria elnöke másik fegyelmi bíróságot jelöl ki.
+
+(8) Ha a fegyelmi bíróság elnöke ellen az eljárás alá vont személy kizárási kérelmet terjeszt elő, és a fegyelmi bíróság elnöke a saját mellőzéséhez nem járult hozzá, a kizárási kérelemről a Kúria elnöke dönt. Ha a fegyelmi bíróság elnökével szemben kizárási ok áll fenn, a Kúria elnöke másik fegyelmi bíróságot jelöl ki.
+
+(9) Ha a Kúria mellett működő fegyelmi bíróság elnökével szemben áll fenn kizárási ok, akkor a Kúria ügyelosztás szerint soron következő fegyelmi tanácsa az ügyrend alapján soron következő közjegyző tagok közreműködésével jár el.
+
+82/A. § (1) A fegyelmi bíróság azon tagja, aki a személyére vonatkozó kizárási okot maga jelentette be, vagy aki ellen kizárási kérelmet terjesztettek elő, bejelentése, illetve a kizárási kérelem elintézéséig nem járhat el.
+
+(2) A kizárás kérdésében az eljáró bíróság soron kívül határoz.
+
+(3) A kizárás kérdésében hozott döntéssel szemben önálló jogorvoslatnak nincs helye, az a fegyelmi határozat elleni fellebbezésben támadható.
 
 83. § (1) A fegyelmi ügyben az igazságszolgáltatási érdeket a miniszter, a szolgálati érdeket a vizsgálóbiztos képviseli.
 
@@ -1197,6 +1231,8 @@ foglalt kötelezettségek teljesítését.
 (5) A 69/B. § (3) bekezdése alapján megindított fegyelmi eljárásban a tanács elnöke – a fegyelmi vizsgálat elrendelését mellőzve – 30 napon belülre tárgyalást tűz ki.
 
 87. § A fegyelmi eljárást a nyilvánosság kizárásával kell lefolytatni.
+
+87/A. § A fegyelmi eljárás lefolytatása során az E-ügyintézési törvény rendelkezéseit alkalmazni kell.
 
 ### Fegyelmi vizsgálat
 
@@ -1241,7 +1277,7 @@ foglalt kötelezettségek teljesítését.
 
 95. § A fegyelmi tanács a tényállást az általa lefolytatott bizonyításai eljárás során felmerült bizonyítékok egybevetése alapján állapítja meg. Határozatát befolyástól mentesen, a bizonyítékok szabad mérlegeléséből nyert meggyőződése alapján hozza meg.
 
-96. § (1) A tanácskozás és a szavazás zárt ülésen történik.
+96. § (1) A tanácskozás és a szavazás zárt ülésen, valamennyi tag személyes jelenlétében történik.
 
 (2) A fegyelmi tanács a határozatait szótöbbséggel hozza.
 
@@ -1309,16 +1345,19 @@ foglalt kötelezettségek teljesítését.
 
 ### Felfüggesztés
 
-104. § (1) Az elsőfokú fegyelmi bíróság ideiglenes intézkedésként az eljárás alá vont személyt – ideértve e § alkalmazásában azt a közjegyzőt, közjegyzőhelyettest és közjegyzőjelöltet is, akivel szemben nem indult, illetve nem indul fegyelmi eljárás – a szolgálatából
+104. § (1) A közjegyző, a közjegyzőhelyettes vagy a közjegyzőjelölt szolgálatból történő felfüggesztése a törvény erejénél fogva következik be, ha
+
+- a) közvádra üldözendő, 3 évnél súlyosabb szabadságvesztés büntetéssel fenyegetett, szándékos bűncselekmény miatt büntetőeljárás hatálya alatt áll,
+- b) letartóztatását, előzetes kényszergyógykezelését vagy olyan bűnügyi felügyeletét rendelték el a büntetőeljárás során, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, illetve lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, vagy
+- c) gondnokság alá helyezés iránti peres eljárásban a keresetlevelet vele közölték, amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésként állapítja meg. Az országos elnök határozatában megállapítja a szolgálatból történő felfüggesztés kezdő időpontját.
+
+(1a) Az elsőfokú fegyelmi bíróság ideiglenes intézkedésként az eljárás alá vont személyt a szolgálatából
 
 - a) felfüggeszti, ha
-  - aa) az eljárás alá vont személy közvádra üldözendő, 3 évnél súlyosabb szabadságvesztés büntetéssel fenyegetett, szándékos bűncselekmény miatt büntetőeljárás hatálya alatt áll,
-  - ab) a büntetőeljárás során az eljárás alá vont letartóztatását, előzetes kényszergyógykezelését vagy olyan bűnügyi felügyeletét rendelték el, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, illetve lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el,
-  - ac) az eljárás alá vont személy ellen gondnokság alá helyezés iránt eljárás indult,
-  - ad) az eljárás alá vont személlyel szemben érdemtelenségi eljárás indult,
-  - ae) az eljárás alá vont személlyel szemben alkalmatlansági eljárás indult;
+  - aa) az eljárás alá vont személlyel szemben érdemtelenségi eljárás indult,
+  - ab) az eljárás alá vont személlyel szemben alkalmatlansági eljárás indult,
 - b) felfüggesztheti, ha
-  - ba) az eljárás alá vont személy az a) pont aa) alpontba nem tartozó bűncselekmények miatt büntetőeljárás – kivéve a magánvádas és a pótmagánvádas eljárást – hatálya alatt áll,
+  - ba) az eljárás alá vont személy az (1) bekezdés a) pontja alá nem tartozó bűncselekmény miatt büntetőeljárás – kivéve a magánvádas és a pótmagánvádas eljárást – hatálya alatt áll,
   - bb) a fegyelmi eljárás tárgyát képező kötelezettségszegés súlya és jellege a szolgálattól való távoltartást indokolja.
 
 (2) A büntetőügyben eljáró nyomozó hatóság, illetve ügyészség a közjegyző, a közjegyzőhelyettes és a közjegyzőjelölt
@@ -1328,31 +1367,39 @@ foglalt kötelezettségek teljesítését.
 
 értesíti az országos elnököt.
 
-(3) Az országos elnök – a (2) bekezdésben foglalt értesítés kivételével – a tudomására jutott információ ellenőrzése érdekében adatot igényelhet a bűnügyi nyilvántartási rendszerből arra vonatkozóan, hogy a közjegyző, közjegyzőhelyettes, közjegyzőjelölt büntetőeljárás, illetve az (1) bekezdés a) pont ab) alpontjában meghatározott kényszerintézkedés hatálya alatt áll-e. Az országos elnök az így megismert személyes adatot a fegyelmi eljárás, illetve az ideiglenes intézkedés kezdeményezése céljából, fegyelmi eljárás elrendelése esetén a fegyelmi eljárás jogerős befejezéséig, ellenkező esetben a fegyelmi eljárást, illetve az ideiglenes intézkedést kezdeményező indítványról történő jogerős döntésig kezeli.
+(2a) Ha a közjegyzővel, közjegyzőhelyettessel, közjegyzőjelölttel szemben gondnokság alá helyezés iránti peres eljárás indul, akkor a gondnoksági perben eljáró bíróság a keresetlevélnek az alperes részére történő közléséről értesíti az országos elnököt.
 
-(4) Az (1) bekezdés a) pont aa)–ab) alpontjában meghatározott esetekben a büntetőügyben eljáró hatóság értesítését követően vagy a (3) bekezdés szerinti adatigénylés eredménye alapján az országos elnök indítványozza a fegyelmi bíróságnál a fegyelmi eljárás elrendelésével egyidejűleg vagy fegyelmi eljárás elrendelése nélkül az eljárás alá vont személy szolgálatból történő felfüggesztését. Az ideiglenes intézkedés fegyelmi eljárás hiányában is elrendelhető.
+(3) Az országos elnök – a (2) és a (2a) bekezdésben foglalt értesítés kivételével – a tudomására jutott információ ellenőrzése érdekében adatot igényelhet a bíróságtól, illetve a bűnügyi nyilvántartási rendszerből arra vonatkozóan, hogy a közjegyző, közjegyzőhelyettes, közjegyzőjelölt büntetőeljárás, illetve az (1) bekezdés b) pontjában meghatározott kényszerintézkedés, továbbá gondnokság alá helyezés iránt indított eljárás hatálya alatt áll-e. Az országos elnök az így megismert személyes adatot a szolgálatból történő felfüggesztés fennállása feltételeinek megállapítása céljából, az ideiglenes intézkedés jogerős megszüntetéséig kezeli.
 
-(5) A szolgálatból történő felfüggesztés elrendelésére – a (4) bekezdésben foglaltak kivételével – a vizsgálóbiztos és a miniszter a fegyelmi eljárás megindításától kezdve bármikor, a területi elnökség és az országos elnökség pedig a fegyelmi feljelentésben tehet indítványt. Az ideiglenes intézkedés a fegyelmi eljárás során bármikor elrendelhető, akkor is, ha a fegyelmi bíróság a fegyelmi eljárást felfüggesztette.
+(4)
+
+(5) A szolgálatból történő felfüggesztés elrendelésére a vizsgálóbiztos és a miniszter a fegyelmi eljárás megindításától kezdve bármikor, a területi elnökség és az országos elnökség pedig a fegyelmi feljelentésben tehet indítványt. Az ideiglenes intézkedés a fegyelmi eljárás során bármikor elrendelhető, akkor is, ha a fegyelmi bíróság a fegyelmi eljárást felfüggesztette.
 
 (6) A fegyelmi bíróság az indítvány alapján 8 napon belül dönt a felfüggesztés tárgyában.
 
-(7) Az ideiglenes intézkedést a fegyelmi bíróság megszünteti
+(7) Az ideiglenes intézkedést az országos elnök, illetve a fegyelmi bíróság megszünteti
 
-- a) ha az ügyben fegyelmi eljárás nem indult, a büntetőeljárás esetén a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követően a határozat fegyelmi bírósághoz történt megérkezését követő 15 napon belül,
-- b) a gondnokság alá helyezés iránti eljárás jogerős lezárását követően a határozat fegyelmi bírósághoz történt megérkezését követő 15 napon belül, vagy
+- a) büntetőeljárás esetén annak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követően a határozatnak az országos elnökhöz történt megérkezését követő 15 napon belül,
+- b) gondnokság alá helyezés iránti eljárás jogerős lezárását követően a határozat országos elnökhöz történt megérkezését követő 15 napon belül,
 - c) a fegyelmi eljárás jogerős lezárásával egyidejűleg.
 
 (8) Az elsőfokú fegyelmi bíróságnak a szolgálatból történő felfüggesztés tárgyában hozott határozata ellen a kézbesítéstől számított 15 napon belül az eljárás alá vont személy, a vizsgálóbiztos, az országos elnök és a miniszter képviselője fellebbezhet a másodfokú fegyelmi tanácshoz; a fellebbezésnek nincs halasztó hatálya.
 
 (9) A szolgálatból történő felfüggesztésről hozott határozatot a fegyelmi bíróság haladéktalanul megküldi a területi elnökségnek és az országos kamarának az annak végrehajtásához szükséges intézkedések megtétele végett.
 
+(9a) Az országos elnök a felfüggesztés tárgyában a tudomásszerzéstől számított 8 napon belül határoz, határozatát az eljárás alá vont személy és a miniszter részére haladéktalanul megküldi. Az országos elnök határozata ellen fellebbezésnek nincs helye, az eljárás alá vont személy és a miniszter azt közigazgatási perben támadhatja meg. A keresetlevél benyújtásának halasztó hatálya nincs. Az országos elnök a határozatot a területi elnökségnek a végrehajtáshoz szükséges intézkedések megtétele végett haladéktalanul megküldi.
+
 (10) A szolgálatból történő felfüggesztés alatt az eljárás alá vont személy közjegyzői tevékenységet nem végezhet, közjegyzővel, illetve közjegyzői irodával munkaviszonyt nem létesíthet, de ez idő alatt egyéb munkaviszonyt, szolgálati viszonyt, munkavégzési kötelezettséggel járó egyéb jogviszonyt létesíthet, illetve személyes közreműködéssel és korlátlan anyagi felelősséggel járó vállalkozási tevékenységet folytathat.
 
-(11) Ha a szolgálatból történő felfüggesztéssel érintett eljárás alá vont személy közjegyző,
+(10a) Az (1) bekezdés a)–c) pontjában foglalt feltételek bekövetkezéséről az érintett közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt a tudomásszerzést követően haladéktalanul köteles tájékoztatni az országos elnököt. A közjegyző, a közjegyzőhelyettes vagy a közjegyzőjelölt a felfüggesztés feltételének bekövetkezéséről való tudomásszerzéstől a szolgálatból történő felfüggesztés (10) bekezdés szerinti szabályai szerint nem jogosult a tevékenységét folytatni. A felfüggesztés kezdő időpontját követően a felfüggesztés megszüntetéséig közokiratot nem készíthet, és valamennyi eljárási cselekménye hatálytalan. A felfüggesztés kezdő időpontjának a felfüggesztés feltételének bekövetkezéséről való tudomásszerzést kell tekinteni.
 
-- a) a felfüggesztésének ideje alatt a tartós helyettes kirendeléséig, továbbá a tartós helyettes kirendelését követően a 36. § (3) bekezdésben foglalt eset kivételével, az e jogviszonyával összefüggésben alkalmazásában állók nem végezhetnek közjegyzői, közjegyzőhelyettesi, közjegyzőjelölti, közjegyzői irodai ügyintézői, illetve ügyintézői tevékenységet;
+(10b) A (10a) bekezdésben foglaltak esetén a közjegyző köteles tartós helyettes kirendelését kérni a területi elnökségnél. Az országos elnök a tartós helyettes kirendelésének szükségességéről haladéktalanul tájékoztatja a területi elnökséget.
+
+(11) Ha a szolgálatból történő felfüggesztéssel érintett eljárás alá vont személy közjegyző
+
+- a) a felfüggesztésének kezdő időpontjától a tartós helyettes kirendeléséig, továbbá a tartós helyettes kirendelését követően a 36. § (3) bekezdésben foglalt eset kivételével, az e jogviszonyával összefüggésben alkalmazásában állók nem végezhetnek közjegyzői, közjegyzőhelyettesi, közjegyzőjelölti, közjegyzői irodai ügyintézői, illetve ügyintézői tevékenységet;
 - b) az ügyiratait és hivatali bélyegzőit 8 napon belül köteles átadni a területi kamarának, illetve – ha a 166. § (1) bekezdésében meghatározott feltételek az adott ügyirat tekintetében fennállnak – a közjegyzői levéltárnak;
-- c) a felfüggesztésének tényét az országos kamara a honlapján közzéteszi.
+- c) a felfüggesztésének tényét és kezdő időpontját az országos kamara a honlapján közzéteszi.
 
 ### A büntetőeljárással kapcsolatos rendelkezések
 
@@ -1988,6 +2035,8 @@ kommunikálhat.
 (6) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvény hatálybalépését megelőzően készült közjegyzői okiratot a 131. §, illetve 147/A. § alkalmazása során akkor is közokiratnak kell tekinteni, ha az e törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvény hatálybalépését követően hatályos rendelkezéseinek megfelel.
 
 (7) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi XCII. törvénnyel megállapított 79/A. § (1) bekezdés szerinti ügyrendet 2020. augusztus 31-ig el kell fogadni azzal, hogy az ügyrend legkorábban 2020. szeptember 1-jén léphet hatályba. A 79/A. § (4) bekezdése szerinti tájékoztatót első alkalommal a 2022. évben kell elfogadni.
+
+(8) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi XCII. törvénnyel megállapított 79/A. §-t, 80. § (2)–(2b) bekezdést a 2020. szeptember 1. után megindult fegyelmi eljárásokra kell alkalmazni.
 
 ### Felhatalmazás
 

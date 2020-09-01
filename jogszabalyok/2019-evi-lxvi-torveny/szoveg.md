@@ -440,7 +440,13 @@ Magyarország 2020. évi központi költségvetésének megalapozásáról
 
 164. § (1)
 
-(2)
+(2) A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 10. §-a következő i) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy a)
+
+„i) tárhelyszolgáltató és a szálláshely-szolgáltató közötti adatfeldolgozási jogviszony tartalmát”
+
+(rendeletben határozza meg.)
 
 #### 50. A bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló 2017. évi XLIII. törvény módosítása
 

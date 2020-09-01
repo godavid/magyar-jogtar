@@ -1598,7 +1598,10 @@ A kormánytisztviselőre vonatkozó hivatásetikai alapelvek különösen az elk
 - j) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára,
 - k) az e törvényben, e törvény végrehajtására kiadott jogszabályban, valamint a közszolgálati szabályzatban meghatározott időtartamra,
 - l) a munkáltatói jogkör gyakorlójának engedélye alapján, továbbá
-- m) a tényleges önkéntes tartalékos katonai szolgálatteljesítés időtartamára.
+- m) a tényleges önkéntes tartalékos katonai szolgálatteljesítés időtartamára,
+- n) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.
+
+(3) A (2) bekezdés n) pontja szerinti esetben a kormánytisztviselőt a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a kormánytisztviselő legalább öt munkanappal korábban tájékoztatja a munkáltatói jogkör gyakorlóját.
 
 #### 94. § [Az utasítás végrehajtásának megtagadása]
 
@@ -2361,7 +2364,7 @@ megfelelő mértékű szabadidő jár.
 - b) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság első hat hónapja,
 - c) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizetés nélküli szabadság idejének tartama,
 - d) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartama,
-- e) a 93. § (2) bekezdés a), b), h) és j) pontjában meghatározott esetek, valamint
+- e) a 93. § (2) bekezdés a), b), h), j) és n) pontjában meghatározott esetek, valamint
 - f) minden olyan munkában nem töltött idő, amelyre a kormánytisztviselő illetményre jogosult.
 
 (3) A minisztérium kormánytisztviselője az (1) bekezdés szerinti alapszabadságán felül az általa betöltött álláshely besorolásától függően évente:
@@ -2547,7 +2550,7 @@ időtartamát.
 (3) A kormánytisztviselőt illetmény illeti meg
 
 - a) a szabadság időtartamára,
-- b) a 93. § (2) bekezdés c)–g) és i) pontjában meghatározott esetekben,
+- b) a 93. § (2) bekezdés c)–g), i) és n) pontjában meghatározott esetekben,
 - c) ha e törvény munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő,
 - d) a munkaszüneti nap miatt kiesett időre.
 

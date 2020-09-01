@@ -16,7 +16,11 @@ Az Országgyűlés figyelembe véve, hogy a hallássérült, valamint a siketvak
 - d) speciális kommunikációs rendszer: a hallássérült, illetve siketvak személyek által használt, e törvény mellékletében felsorolt kommunikációs eszköz,
 - e) közszolgáltatási tevékenység: a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenység, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az alapvető jogok biztosa, az ügyészség, a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység, valamint a társadalombiztosítás által finanszírozott egészségügyi szolgáltatás,
 - f) bilingvális oktatási módszer: olyan oktatási módszer, amely a beszélt magyar nyelv mellett a magyar jelnyelvet is alkalmazza az oktatás során,
-- g) auditív-verbális oktatási módszer: a hallássérült személyek meglévő hallásképességének kihasználását előtérbe helyező olyan oktatási módszer, amely a magyar nyelvet alkalmazza az oktatás során.
+- g) auditív-verbális oktatási módszer: a hallássérült személyek meglévő hallásképességének kihasználását előtérbe helyező olyan oktatási módszer, amely a magyar nyelvet alkalmazza az oktatás során,
+- h) jelnyelvi tolmács: olyan személy, aki biztosítja az információ akadálymentes átadását siket, nagyothalló, siketvak és halló személyek között, a magyar jelnyelvről magyar nyelvre és magyar nyelvről magyar jelnyelvre tolmácsol, fordít, jelnyelvi szöveget írásba foglal, írótolmácsolási munkát végez, orális tolmácsolást végez, illetve a Mellékletben meghatározott speciális kommunikációs rendszerek felhasználásával egyéb vizuális és taktilis kommunikációs formák között tolmácsol, fordít,
+- i) siket jelnyelvi tolmács: olyan anyanyelvi jelnyelvhasználó személy, aki biztosítja az információ akadálymentes átadását siket, nagyothalló és siketvak személyek között, jelnyelvek, illetve jelnyelvi kódok között tolmácsol, fordít, egyéb vizuális és taktilis kommunikációs formákról, valamint azokra tolmácsol és fordít, jelnyelvi szöveget írásba foglal, írott magyar nyelvi szöveget jelnyelvre adaptál, szükség esetén halló jelnyelvi tolmácsokkal együttműködésben dolgozik,
+- j) anyanyelvi jelnyelvhasználó: az a személy, aki természetes módon, felnőtt kora előtti nyelvi szocializációja során, siket családban vagy siket közösségben sajátította el a magyar jelnyelvet, gondolatait magyar jelnyelven képes a legkönnyebben, legárnyaltabban kifejezni és legalább C1 szintű magyar jelnyelvi tudással rendelkezik,
+- k) jelnyelvi tolmácsszolgáltatás: a jelnyelvi tolmács vagy a siket jelnyelvi tolmács által nyújtott kommunikációs akadálymentesítési szolgáltatás.
 
 3. § (1) Magyarország a magyar jelnyelvet önálló, természetes nyelvnek ismeri el.
 
@@ -34,7 +38,7 @@ Az Országgyűlés figyelembe véve, hogy a hallássérült, valamint a siketvak
 (2) A térítésmentes jelnyelvi tolmácsszolgáltatás
 
 - a) az (1) bekezdés a) és b) pontjában meghatározott esetben az ellátást megállapító határozat,
-- b) az (1) bekezdés c) és d) pontjában meghatározott esetben szakorvosi igazolás, illetve szakorvos által kiadott audiogram
+- b) az (1) bekezdés c)–e) pontjában meghatározott esetben szakorvosi igazolás, illetve szakorvos által kiadott audiogram
 
 bemutatásával vehető igénybe.
 
@@ -44,7 +48,7 @@ bemutatásával vehető igénybe.
 
 - a) a tanulói jogviszonnyal összefüggésben a gimnáziumban, szakképző intézményben, illetve szakiskolában tanulói jogviszonyban álló személy részére tanévenként 120 óra,
 - b) a hallgatói jogviszonnyal összefüggésben a felsőoktatási hallgatói jogviszonyban álló személy részére szemeszterenként 60 óra,
-- c) a képzéssel összefüggésben a felnőttképzésben részt vevő személy részére képzésenként a képzés óraszáma 20 százalékának megfelelő mértékű térítésmentes jelnyelvi tolmácsszolgáltatást biztosít.
+- c) a felnőttképzési jogviszonnyal összefüggésben a szakmai oktatásban vagy a felnőttképzésről szóló törvény szerinti képzésben felnőttképzési jogviszonyban részt vevő személy részére képzésenként a képzés óraszáma 20 százalékának megfelelő mértékű térítésmentes jelnyelvi tolmácsszolgáltatást biztosít.
 
 6. § (1) A fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a szociál- és nyugdíjpolitikáért felelős miniszter szakmai felügyelete alatt álló szervezet a térítésmentes jelnyelvi tolmácsszolgáltatást az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás tekintetében ellenőrzi, továbbá az ellenőrzés céljából nyilvántartást vezet a térítésmentes jelnyelvi tolmácsszolgáltatásról. A szervezet a nyilvántartásban szereplő személyes adatok adatkezelője és adatfeldolgozója.
 
@@ -128,6 +132,45 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 (10)
 
+### Jelnyelvoktatói Névjegyzék
+
+8/A. § (1) A 12. § (3)–(3b) bekezdése szerinti jelnyelvoktatói tevékenységet az folytathat, aki büntetlen előéletű, az oktatói tevékenység tekintetében nem áll foglalkozástól eltiltás hatálya alatt, továbbá megfelel az e törvényben meghatározott feltételeknek.
+
+(2) Aki az (1) bekezdés szerinti tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Jelnyelvoktatói Névjegyzéket vezető hatóságnak bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
+
+(3) A bejelentéshez mellékelni kell a képesítési feltételek teljesítésének igazolását.
+
+(4) A Jelnyelvoktatói Névjegyzék tartalmazza a jelnyelvoktató
+
+- a) természetes személyazonosító adatait,
+- b) értesítési címét,
+- c) hozzájárulása esetén egyéb elérhetőségét (telefonszám, e-mail-cím),
+- d) szakképzettségének, szakképesítésének megnevezését, az erről kiállított oklevél, bizonyítvány számát, a kiállítás helyét és időpontját, a kiállító intézmény megnevezését és
+- e) Névjegyzékbe történő felvételének időpontját.
+
+(5) A Jelnyelvoktatói Névjegyzék a (4) bekezdés e) pontjában foglalt adat tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(6) A Jelnyelvoktatói Névjegyzékben szereplő adatokból a Jelnyelvoktatói Névjegyzéket vezető hatóság a honlapján közzéteszi a jelnyelvoktató
+
+- a) nevét,
+- b) értesítési címét,
+- c) egyéb elérhetőségét, ha hozzájárult annak közzétételéhez és
+- d) szakképzettségének, szakképesítésének megnevezését.
+
+(7) Törölni kell a Jelnyelvoktatói Névjegyzékből annak a jelnyelvoktatónak az adatait, aki
+
+- a) a törlést kéri,
+- b) a büntetlen előéletre vonatkozó feltételnek már nem felel meg vagy
+- c) az oktatói tevékenység tekintetében tevékenység gyakorlásától eltiltás hatálya alatt áll.
+
+(8) A Névjegyzékből törölt jelnyelvoktatók adatait a Jelnyelvoktatói Névjegyzéket vezető hatóság elkülönítetten kezeli.
+
+(9) A Jelnyelvoktatói Névjegyzéket vezető hatóság a büntetlen előéletre vagy az oktatói tevékenység tekintetében a foglalkozás gyakorlásától eltiltásra vonatkozó kizáró ok fennállását bármikor ellenőrizheti. Felhívására a Jelnyelvoktatói Névjegyzékbe bejelentkező vagy az abban szereplő jelnyelvoktató hatósági bizonyítvánnyal igazolja, hogy vele szemben nem áll fenn a kizáró ok.
+
+(10) A hatósági bizonyítványban foglalt adatokat a Jelnyelvoktatói Névjegyzéket vezető hatóság az ellenőrzés lefolytatásáig, vagy ha az ellenőrzés alapján a jelnyelvoktató adatainak a Jelnyelvoktatói Névjegyzékből való törlésére kerül sor, a törlési eljárás végleges döntéssel történő befejezéséig kezelheti.
+
+(11) A Jelnyelvoktatói Névjegyzéket vezető hatóság az adatokat a Jelnyelvoktatói Névjegyzékből való törlést követő 5 évig kezeli, ezt követően az adatokat törli. A Jelnyelvoktatói Névjegyzékből való törlést követően a Jelnyelvoktatói Névjegyzéket vezető hatóság – adatigénylésre – a bíróságnak, az ügyészségnek és a nyomozó hatóságnak szolgáltat adatot.
+
 ### Titoktartási kötelezettség
 
 9. § (1) A jelnyelvi tolmácsot a tevékenységével összefüggésben tudomására jutott adatok, tények, információk vonatkozásában titoktartási kötelezettség terheli, e kötelezettsége tevékenységének megszűnése után is megmarad.
@@ -140,7 +183,7 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 (2) A jelnyelvi tolmácsszolgálatok működését az állam – a külön jogszabályban meghatározott pályázati rend szerint kiválasztott – fenntartókkal kötött finanszírozási szerződések útján támogatja.
 
-(3) Közszolgáltatási tevékenység esetén a jelnyelvi tolmácsolás költségét a tevékenységet végző, illetve a szolgáltatást nyújtó szerv, szervezet vagy intézmény viseli.
+(3) Közszolgáltatási tevékenység esetén a jelnyelvi tolmácsolás költségét – a társadalombiztosítás terhére finanszírozott egészségügyi szolgáltatás kivételével – a tevékenységet végző, illetve a szolgáltatást nyújtó szerv, szervezet vagy intézmény viseli.
 
 (4) A nemzeti köznevelésről szóló törvény, a szakképzésről szóló törvény, a nemzeti felsőoktatásról szóló törvény és a felnőttképzésről szóló törvény alapján megszervezett szóbeli vizsgák során a jelnyelvi tolmácsolás költségét a vizsgát szervező intézmény viseli.
 
@@ -157,7 +200,17 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 gyermek, tanuló számára, amennyiben a szülő (gyám) ezt írásban kezdeményezi az intézmény vezetőjénél. A magyar jelnyelv elsajátításának megszervezésére és finanszírozására a Kormány rendeletében meghatározottak szerint kerül sor.
 
-(3) A magyar jelnyelv oktatását kizárólag jelnyelv szakos pedagógus végezheti.
+(3) A magyar jelnyelvet – a (3a) bekezdésben foglalt kivétellel – a köznevelési intézményben, illetve a szakképző intézményben olyan anyanyelvi jelnyelvhasználó, pedagógus-szakképzettséggel rendelkező személy oktathatja, aki a Jelnyelvoktatói Névjegyzékben szerepel és
+
+- a) rendelkezik a Siketek és Nagyothallók Országos Szövetsége által 2018. szeptember 28-át követően kiállított jelnyelvoktatói tanúsítvánnyal vagy
+- b) jelnyelvi lingvisztika és didaktika szakirányú továbbképzésben jelnyelvoktatói oklevelet szerzett.
+
+(3a) A magyar jelnyelvet a gyógypedagógiai intézményben olyan anyanyelvi jelnyelvhasználó személy oktathatja, aki a Jelnyelvoktatói Névjegyzékben szerepel és
+
+- a) rendelkezik a Siketek és Nagyothallók Országos Szövetsége által 2018. szeptember 28-át követően kiállított jelnyelvoktatói tanúsítvánnyal vagy
+- b) jelnyelvi lingvisztika és didaktika szakirányú továbbképzésben jelnyelvoktatói oklevelet szerzett.
+
+(3b) A (3) bekezdés alkalmazása során a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus-szakképzettséggel rendelkező személyt, a (3a) bekezdés alkalmazása során a pedagógus, illetve a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus-szakképzettséggel rendelkező személyt előnyben kell részesíteni.
 
 (4) A speciális kommunikációs rendszerek oktatását látássérültek pedagógiája vagy hallássérültek pedagógiája szakos gyógypedagógus végezheti.
 
@@ -332,7 +385,7 @@ szövegrész lép.
 
 (6) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a Névjegyzéket vezető hatóság kijelölésére vonatkozó rendelkezéseket,
+- a) a Névjegyzéket és a Jelnyelvoktatói Névjegyzéket vezető hatóság kijelölésére vonatkozó rendelkezéseket,
 - b) a jelnyelv oktatásának megszervezésére és finanszírozására vonatkozó,
 - c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékének személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a Névjegyzék vezetésére, a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékén szereplő jelnyelvi tolmácsok kötelező továbbképzésére, szakmai gyakorlatára, valamint azok bejelentésére, igazolására és ellenőrzésére vonatkozó
 

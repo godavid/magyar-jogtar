@@ -1793,11 +1793,11 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 62. § (1) A gyermekvédelmi szakszolgáltatás feladata – a gyermek külön jogszabály szerinti titkos vagy nyílt örökbefogadásának előkészítése, a nevelésbe vett gyermek örökbefogadhatóvá nyilvánításának és örökbefogadásának előkészítése, nyílt örökbefogadás esetében a vér szerinti szülő és az örökbe fogadni szándékozó személy kapcsolatfelvételének előkészítése érdekében –
 
 - a) a 141/E. § (1) bekezdése szerinti örökbefogadási alrendszerbe a gyámhatóság határozata alapján örökbefogadhatónak nyilvánított, illetve a más okból örökbefogadható ideiglenes hatállyal elhelyezett vagy nevelésbe vett gyermek, valamint a szülő, az egészségügyi szolgáltatást nyújtó szerv vagy személy, a gyermekjóléti szolgálat, a gyermekjóléti központ, családvédelemmel foglalkozó más szerv bejelentése alapján az örökbefogadható gyermek rögzítése,
-- b) az örökbe fogadni szándékozó személy tájékoztatása az örökbefogadás feltételeiről, így különösen az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról,
+- b) az örökbe fogadni szándékozó személy tájékoztatása az örökbefogadás feltételeiről, így különösen az örökbefogadás előtti tanácsadásról és az ingyenesen igénybe vehető felkészítő tanfolyamról,
 - c) az örökbe fogadni szándékozó körülményeinek, egészségügyi és lélektani alkalmasságának vizsgálata az örökbefogadást szabályozó jogszabályokban rögzített szakmai követelmények figyelembevételével és az örökbe fogadni szándékozó személynek – a gyámhatóság határozata alapján – a 141/E. § (1) bekezdése szerinti örökbefogadási alrendszerbe való rögzítése,
 - d)
 
-(2)
+(2) A gyermekvédelmi szakszolgáltatás az (1) bekezdés b) pontja szerinti tájékoztatás során felhívja az örökbe fogadni szándékozó személy figyelmét arra, hogy körülményei tekintetében köteles a valóságnak megfelelő információkat szolgáltatni, amelynek elmaradását értékelni kell az alkalmasságára vonatkozó vélemény kialakításánál, illetve az a már megállapított alkalmassága felülvizsgálatát eredményezi.
 
 (3) A gyermekvédelmi szakszolgáltatás a külön jogszabályban meghatározott feltételek mellett
 
@@ -2400,6 +2400,8 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
 (5) A szolgáltatást engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, a szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a minisztérium hivatalos lapjában és a minisztérium honlapján történő közhírré tételéről.
 
+(6) A miniszter az (1) bekezdés szerinti működési engedéllyel rendelkező szervezet feladatainak ellátásához egyedi támogatást nyújt.
+
 ### A szolgáltatást igénybe vevővel kötött megállapodás
 
 69/D. § (1) A szolgáltató az örökbefogadást elősegítő magánszervezetek tevékenységéről és működésük engedélyezéséről szóló kormányrendeletben meghatározott tartalmú írásbeli megállapodást köt a szolgáltatás nyújtására
@@ -2462,6 +2464,8 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 (4) Ha a működést engedélyező szerv a közhasznú szervezet által nyújtott utánkövetés során az örökbe fogadott gyermek vagy az örökbe fogadó szülő súlyos jog- vagy érdeksérelmét észleli, az örökbefogadás utánkövetésére irányuló szolgáltatás végzését legfeljebb 60 napra felfüggeszti vagy a működési engedélyt visszavonja.
 
 (5) A működést engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, az örökbefogadás utánkövetésére irányuló szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a minisztérium hivatalos lapjában és a minisztérium honlapján történő közhírré tételéről.
+
+(6) A miniszter az (1) bekezdés szerinti működési engedéllyel rendelkező szervezet feladatainak ellátásához egyedi támogatást nyújt.
 
 ### IX. Fejezet
 
@@ -2806,7 +2810,12 @@ korlátozhatja a gyermek személyes szabadságát.
 
 (4) A megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye tartalmazza a gyermek állapotának megfelelő ellátási formára, az egyéni elhelyezési tervre és a gyermek gondozására, nevelésére, fejlesztésére, esetleges terápiájára vonatkozó javaslatot, annak indokolásával együtt.
 
-(5) A megyei, fővárosi gyermekvédelmi szakértői bizottság a gyermek örökbefogadásának előkészítése céljából a területi gyermekvédelmi szakszolgálat megkeresésétől számított 30 napon belül összefoglaló véleményt készít a gyermek egészségi és személyiségállapotáról, az életkorához viszonyított értelmi, érzelmi és mozgásfejlettségi szintjéről.
+(5) A megyei, fővárosi gyermekvédelmi szakértői bizottság a gyermek örökbefogadásának előkészítése céljából
+
+- a) a gyámhatóságnak az örökbefogadhatóvá nyilvánítás iránti eljárás megindításáról szóló értesítésének kézhezvételétől,
+- b) az a) ponton kívüli okból örökbefogadható gyermek esetében a területi gyermekvédelmi szakszolgálat megkeresésétől
+
+számított 30 napon belül összefoglaló véleményt készít a gyermek egészségi és személyiségállapotáról, az életkorához viszonyított értelmi, érzelmi és mozgásfejlettségi szintjéről.
 
 (6) A megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményének felülvizsgálatát, valamint szükség szerinti új szakmai vélemény készítését a gyámhatóság megkeresése alapján az országos gyermekvédelmi szakértői bizottság végzi.
 

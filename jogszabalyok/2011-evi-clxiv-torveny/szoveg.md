@@ -1889,7 +1889,7 @@ kell érteni.
 155/B. § (1) Az ügyészségi alkalmazottat illetménye illeti meg a következő távollétek idejére is:
 
 - a) a szabadság időtartama alatt,
-- b) a munka törvénykönyvéről szóló 2012. évi I. törvény 55. § (1) bekezdés c)–g) pontjában meghatározott esetben,
+- b) a munka törvénykönyvéről szóló 2012. évi I. törvény 55. § (1) bekezdés c)–g) és j) pontjában meghatározott esetben,
 - c) az állampolgári kötelezettség teljesítésének időtartamára,
 - d) ha törvény munkavégzés nélkül illetmény fizetését, annak mértéke meghatározása nélkül írja elő,
 - e) a munkaszüneti nap miatt kiesett időre,

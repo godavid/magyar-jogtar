@@ -219,7 +219,8 @@ díjmentesen igényelheti.
 - d) a 3. § (5) bekezdése szerinti feladatok ellátásának részletszabályait, a 4. § (3) bekezdése szerinti ingatlanokat, vagyonelemeket és az ott megjelölt ingatlanok vagy vagyonelemek tekintetében vagyonkezelési szerződés megkötésére feljogosított beruházót vagy fenntartót,
 - e) szálláshely-szolgáltató által alkalmazandó szálláshelykezelő szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
 - f) Nemzeti Turisztikai Adatszolgáltató Központ 9/B. § (1) bekezdés a) és b) pontja szerinti adatai körét, a regisztrációval és az adatszolgáltatási kötelezettséggel kapcsolatos részletes szabályokat, az adatszolgáltatással kapcsolatban az üzemeltető és a szálláshely-szolgáltató által használt SZEÜSZ-öket,
-- g) Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét, valamint a 12. § szerinti időpontokat
+- g) Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét, valamint a 12. § szerinti időpontokat,
+- i) tárhelyszolgáltató és a szálláshely-szolgáltató közötti adatfeldolgozási jogviszony tartalmát
 
 rendeletben határozza meg.
 

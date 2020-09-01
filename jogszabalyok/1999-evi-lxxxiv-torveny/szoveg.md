@@ -34,7 +34,9 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - 16. Útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet, valamint a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett elektronikus nyilvántartás.
 - 17. Informatikai platform: számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást nyújtó olyan informatikai rendszer, amely alkalmas a közúti közlekedési nyilvántartásból közvetlen hozzáféréssel, továbbá más törvényben megjelölt nyilvántartásokból egységes felületen történő adatszolgáltatások lebonyolítására.
 - 18. Járműéletút-adatszolgáltatás: a nyilvántartó által az e célra szolgáló informatikai platformon keresztül, több nyilvántartás adatainak felhasználásával elektronikus úton nyújtott szolgáltatás.
-- 19. Ideiglenes rendszámtáblák nyilvántartása: a Magyarországon ideiglenesen forgalomba helyezett vagy ideiglenesen forgalomban tartott járművekhez kiadott, a „CD”, az „E”, az „M”, a „P”, a „V” a „Z” és az „SP” betűjelű ideiglenes rendszámtáblának és az ideiglenes rendszámtábla jogosultjának, továbbá az e nyilvántartásba történő bejegyzés vagy törlés alapjául szolgáló és a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott, az ideiglenes rendszámtábla kiadásához szükséges csatolandó és bemutatandó okiratok elektronikus másolatának az elektronikus nyilvántartása.
+- 19. Ideiglenes rendszámtáblák inyilvántartása: a Magyarországon ideiglenesen forgalomba helyezett vagy ideiglenesen forgalomban tartott járművekhez kiadott, a „CD”, az „E”, az „M”, a „P”, a „V” a „Z” és az „SP” betűjelű ideiglenes rendszámtáblának és az ideiglenes rendszámtábla jogosultjának, továbbá az e nyilvántartásba történő bejegyzés vagy törlés alapjául szolgáló és a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott, az ideiglenes rendszámtábla kiadásához szükséges csatolandó és bemutatandó okiratok elektronikus másolatának az elektronikus nyilvántartása.
+- 20. Járművezető: az a személy, akinek a vezetési jogosultságára, a vezetői engedélyére vagy a vezetési jogosultsága szünetelésére vonatkozóan szerepel adat az engedély-nyilvántartásban.
+- 21. Járművezető-jelölt: az a vezetői engedéllyel vagy vezetési jogosultsággal még nem rendelkező személy, akinek a vezetői engedélye kiállításához szükséges adatok szerepelnek az engedély-nyilvántartásban.
 
 ### II. Fejezet — A KÖZÚTI KÖZLEKEDÉSI NYILVÁNTARTÁS SZERVEZETE ÉS AZ ADATSZOLGÁLTATÁSI HATÁSKÖRÖK
 
@@ -45,7 +47,10 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - a) engedélyezi az adatigénylő részére a közvetlen hozzáféréssel történő adatszolgáltatást:
 - b) kezeli a nyilvántartás adatállományát és biztosítja a nyilvántartásban kezelt adatok helyességét, a feltárt adathibák megszüntetése érdekében – az érintett szerv útján vagy saját hatáskörben – intézkedik a nyilvántartás adatainak javítására;
 - c) a nyilvántartásból a törvényben meghatározott feltételek fennállása esetében adatszolgáltatást teljesít;
-- d)–g)
+- d) kezeli a nyilvántartáshoz közvetlen hozzáféréssel rendelkező felhasználók jogosultsági nyilvántartását.
+- e)
+- f)
+- g)
 
 (1a) A nyilvántartó az (1) bekezdés b) pontjában foglalt feladat- és hatáskörben eljárva, a gyártmány-típus-alvázszám összefüggések helyességének biztosítása érdekében azok előzetes ellenőrzését végzi.
 
@@ -125,7 +130,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 
 8. § (1) Az engedély-nyilvántartás tartalmazza
 
-- a) a járművezető,
+- a) a járművezető vagy járművezető-jelölt,
   - aa) természetes személyazonosító adatát,
   - ab) lakcímét,
   - ac) arcfényképét (arcképmását),
@@ -135,6 +140,8 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
   - ag) állampolgárságát,
   - ah) közúti közlekedési előéleti pontrendszer adatait,
   - ai) „Gépjármű-vezetői képesítési igazolvány” sorszámára, kategóriájára, kiadásának dátumára és érvényességi idejére vonatkozó adatokat,
+  - aj) vezetési jogosultságának szünetelésére vonatkozó adatokat,
+  - ak) kényszergyógykezelését elrendelő bíróság megnevezésére és ügyszámára, valamint a kényszergyógykezelés elrendelésének és megszűnésének vagy megszüntetésének időpontjára vonatkozó adatokat.
 - b) az engedély
   - ba) típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatokat,
   - bb) elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására és megkerülésére vonatkozó adatokat,
@@ -316,7 +323,9 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - h) a vizsgaközpont elektronikusan
   - ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
   - hb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól,
-  - hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről.
+  - hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről,
+- i) a gondnokoltak nyilvántartásának adatkezelője elektronikus úton a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 3. § (1) bekezdés a) pont aa)–ae) alpontjában, valamint b)–e) pontjában meghatározott adatokról, a cselekvőképesség, valamint a közlekedésbiztonsági alkalmasság fennállásának ellenőrzése céljából,
+- j) a bűnügyi nyilvántartó szerv elektronikus úton a 8. § (1) bekezdés a) pont ak) alpontjában meghatározott adatokról.
 
 14/A. § A közlekedési igazgatási hatóságot értesíti
 
@@ -328,7 +337,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 15. § (1) A nyilvántartó kezeli:
 
-- a) a 8. §-ban megjelölt adatokat – a (3) bekezdésben foglalt kivétellel – az engedély érvényessége megszűnésétől, visszavonásától vagy a járművezető elhalálozásától számított tíz évig;
+- a) a 8. §-ban megjelölt adatokat – a (3) bekezdésben foglalt kivétellel – az engedély érvényessége megszűnésétől, visszavonásától, a járművezető elhalálozásától vagy járművezető-jelölt nyilvántartásba vételétől számított tíz évig;
 - b) a 9. § (1) bekezdésében, valamint a 9. § (2) bekezdés a)–e) és g) pontjában meghatározott adatokat a jármű forgalomból történő végleges kivonásától számított tíz évig; a 9. § (2) bekezdés f) pontja szerinti adatokat a törvényben meghatározott időtartamig;
 - c) a 9. § (1) bekezdés a) és b) pontjában, (1c) bekezdésében és a 9. § (2) bekezdés a), d) és e) pontjában megjelölt adatokat a nyilvántartásba vételt követő tíz évig;
 - d) a 8/A. §-ban megjelölt adatokat a parkolási igazolványra való jogosultság megszűnésétől számított öt évig;
@@ -338,7 +347,14 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 (2) Az okmánytár iratait a nyilvántartó az (1) bekezdésben megjelölt határidőt követő öt évig kezeli.
 
-(3) A nyilvántartó a 8. § (1) bekezdés a) pont ah) alpontjában meghatározott személyes adatnak minősülő adatokat törvényben előírt ideig, a 8. § (2) bekezdése szerinti adatokat a jogszabályban meghatározott időtartamig kezeli.
+(3) A nyilvántartó
+
+- a) a 8. § (1) bekezdés a) pont ah) alpontjában meghatározott személyes adatnak minősülő adatokat törvényben előírt ideig,
+- b) a 8. § (1) bekezdés a) pont aj) alpontjában meghatározott adatokat a vezetési jogosultság szünetelésének lejártát, illetve a járművezető vagy a járművezető-jelölt elhalálozása miatti megszűnését követő öt évig,
+- c) a 8. § (1) bekezdés a) pont ak) alpontjában meghatározott adatokat a kényszergyógykezelés megszűnésétől vagy a megszüntetését elrendelő végzés jogerőre emelkedésétől számított három évig,
+- d) a 8. § (2) bekezdése szerinti adatokat jogszabályban meghatározott időtartamig
+
+kezeli.
 
 (4) A nyilvántartó a 8/A. § adatait a parkolási igazolványra való jogosultság megszűnésétől számított öt évig kezeli.
 
@@ -611,6 +627,38 @@ továbbítására jogosult.
 
 - a) ha az adatok további felhasználása – az átadás céljára tekintettel – nem vagy már nem szükséges,
 - b) az átadó tagállam nemzeti jogában az adatok megőrzése tekintetében megállapított maximális időtartam lejáratát követően, ha az átadó szerv a nyilvántartó szervet az adatkezelés maximális időtartamáról az adatok átadásakor tájékoztatta.
+
+32/B. § (1) A nyilvántartó a nyilvántartásban kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala, törlése, sérülése, vagy megsemmisülése elleni védelem, illetve az adatkezelés jogszerűségének ellenőrzése céljából
+
+- a) az elektronikus információs rendszer igénybevételével a nyilvántartás számára adatközlésre kötelezett szervekről,
+- b) a nyilvántartásban adatkezelést végző szervekről, illetve abból közvetlen adatátvételre, vagy adatigénylésre jogosult szervekről, és
+- c) a közvetlen adatátvételre vagy adatigénylésre jogosult szervek nevében hozzáférésre felhatalmazott felhasználókról jogosultsági nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza az ott meghatározott szervek
+
+- a) megnevezését;
+- b) székhelyét, levelezési címét;
+- c) e-mail-címét, telefonszámát; valamint
+- d) nevében hozzáférésre felhatalmazott személy
+  - da) családi és utónevét,
+  - db) születési családi nevét és utónevét,
+  - dc) anyja nevét,
+  - dd) születési helyét, idejét,
+  - de) szervezeti egységét,
+  - df) hozzáférési jogosultságának típusát, terjedelmét és jogalapját,
+  - dg) hozzáférési jogosultsága keletkezésének és törlésének tényét, időpontját,
+  - dh) felhasználónevét,
+  - di) hivatali kapcsolattartásra használható e-mail-címét.
+
+(3) Az adatközlésre kötelezett, a nyilvántartásban adatkezelést végző, illetve abból közvetlen adatátvételre vagy adatigénylésre jogosult személy hozzáférési jogosultsága határozott idejű, amelynek időtartama legfeljebb két év. A hozzáférési jogosultság – a meghatározott időtartam lejártával – a jogosultságot kérő szerv kérelme alapján kerül megújításra.
+
+(4) A közvetlen hozzáférési jogosultsággal rendelkezők jogosultsági nyilvántartásában kezelt személyes adatokat a felhasználó utolsó jogosultságának törlésétől számított tíz évig kell megőrizni.
+
+(5) A közvetlen hozzáférési jogosultsággal rendelkező szervek a felhasználóiknak az (1) bekezdés szerinti nyilvántartásba történő felvételét az adatkezelő szervnél közvetlen hozzáférési jogosultság iránti kérelem benyújtásával kezdeményezik. A közvetlen hozzáférési jogosultság iránti kérelem tartalmazza a (2) bekezdés a)–c) pontjában, valamint d) pont da)–df) és di) alpontjában meghatározott adatokat, valamint a szerv nevében hozzáférésre felhatalmazott személy azonosítóját. Az adatkezelő szerv a kérelem alapján a személyiadat- és lakcímnyilvántartásban történő azonosítás céljából az adatszolgáltatás igénybevételéhez, e cél megvalósulásához szükséges ideig kezeli az érintett kérelemben megadott személyi azonosítóját, amelyet kizárólag a személyiadat- és lakcímnyilvántartást vezető szerv részére jogosult továbbítani. A (2) bekezdésben meghatározott adatokban bekövetkezett változásokról a közvetlen hozzáférési jogosultsággal rendelkező szervek az adatváltozást követő három munkanapon belül elektronikus úton értesítik az adatkezelő szervet.
+
+(6) Az adatkezelés jogszerűségének ellenőrzése céljából az (1) bekezdés szerinti nyilvántartásban kezelt adatok teljes körét az adatkezelő szervtől az adatkezelő szerv szakmai felügyeletét ellátó miniszter, a Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint a hozzáférési jogosultságot kérő szerv jogosult igényelni.
+
+(7) Az adatkezelés jogszerűségének ellenőrzése céljából a nyilvántartó az adatkezelési műveleteket naplózza és ehhez kapcsolódóan kezeli az adatkezelésre jogosultak (2) bekezdés d) pont da)–dd) alpontja szerinti adatait.
 
 ### V. Fejezet — VEGYES RENDELKEZÉSEK
 

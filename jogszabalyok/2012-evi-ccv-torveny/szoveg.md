@@ -1848,11 +1848,14 @@ valósul-e meg.
 - h) a véradás miatt távol töltött teljes időtartamra, legalább 4 órára,
 - i) a legalább 14 napig tartó tartós igénybevétel után, esetenként legfeljebb 5 munkanapra,
 - j) az alapkiképzés befejezését közvetlenül követő 5 munkanapra, és
-- k) az önkéntes, vagy a létesítményi tűzoltói szolgálat ellátásának időtartamára.
+- k) az önkéntes, vagy a létesítményi tűzoltói szolgálat ellátásának időtartamára,
+- l) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.
 
 (2) Az (1) bekezdésen túl mentesül az állomány tagja a szolgálatteljesítési kötelezettség alól, ha jogszabály ezt előírja, vagy a munkáltatói jogkört gyakorló írásban engedélyezi. A szolgálatteljesítési kötelezettség alóli mentesülés igénybevételének rendjét miniszteri rendelet határozza meg.
 
 (3) Az (1) bekezdés c) pontja szerinti esetben a szolgálatteljesítés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy az állomány tagja előző évről megmaradt szabadságát, a túlszolgálat ellentételezését biztosító pihenőidőt és az éves szabadságának 112. § (1) bekezdésében foglaltak szerinti időarányos részét már kiadta. Ebben az esetben a munkáltatói jogkört gyakorló az általa meghatározott szabadság kezdő napját a 112. § (1) bekezdésétől eltérően a szabadság kezdete előtt 15 napon belül is közölheti.
+
+(4) Az (1) bekezdés l) pontja szerinti esetben az állomány tagját a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről az állomány tagja legalább öt munkanappal korábban tájékoztatja a munkáltatói jogkört gyakorlót.
 
 #### 64. Az alap- és a pótszabadság
 

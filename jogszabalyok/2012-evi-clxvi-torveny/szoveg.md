@@ -64,6 +64,8 @@ dönthet.
 
 (8) Amennyiben az üzemeltető a (2) bekezdésben előírt kötelezettségének nem tesz eleget, az ágazati kijelölő hatóság figyelmeztetést tartalmazó döntésében, határidő megállapításával felhívja az üzemeltetőt az azonosítási jelentés benyújtására.
 
+(8a) Az azonosítási jelentés benyújtásának elmulasztása esetén kormányrendeletben meghatározott mértékű bírság kiszabásának van helye.
+
 (9) A honvédelmi rendszerek és létesítmények ágazati kijelölő hatósága az 1. mellékletben meghatározott, nem honvédelmi ágazatba tartozó rendszerelemet honvédelmi érdekből, kormányrendeletben meghatározott honvédelmi kritériumok alapján, horizontális kritériumok vizsgálata nélkül nemzeti létfontosságú rendszerelemmé (a továbbiakban: ágazaton kívüli honvédelmi rendszerelem) kijelölheti.
 
 (10) Ágazaton kívüli honvédelmi rendszerelem kijelölésére irányuló eljárásban a szakhatósági megkeresés mellőzhető, amennyiben a honvédelmi ágazati kijelölő hatóság által kijelölni kívánt rendszerelem már kijelölt létfontosságú rendszerelem.
@@ -256,11 +258,16 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 
 kezeli.
 
-9. § Ha az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője nem tesz eleget az e törvényben, az e törvényben foglalt felhatalmazás alapján kiadott más jogszabályokban vagy az ágazati kijelölő hatóság határozatában foglalt előírásoknak, az ágazati kijelölő hatóság határozatban
+9. § (1) Ha az üzemeltető nem tesz eleget e törvényben, az e törvényben foglalt felhatalmazás alapján kiadott kormányrendeletben vagy az ágazati kijelölő hatóság határozatában foglalt előírásoknak, az ágazati kijelölő hatóság határozatban
 
 - a) felszólítja az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetőjét a kötelezettségei betartására,
-- b) kötelezi az üzemeltetői biztonsági terv módosítására vagy új üzemeltetői biztonsági terv készítésére,
-- c) kormányrendeletben meghatározott mértékű bírságot szabhat ki.
+- b) kötelezi azonosítási jelentés elkészítésére és az ágazati kijelölő hatóság részére történő benyújtására,
+- c) kötelezi az üzemeltetői biztonsági terv módosítására vagy új üzemeltetői biztonsági terv készítésére, vagy
+- d) kormányrendeletben meghatározott mértékű bírságot szabhat ki.
+
+(2) Ha az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője nem tesz eleget az e törvényben, e törvényben foglalt felhatalmazás alapján kiadott más jogszabályokban foglalt előírásoknak, az ellenőrzést koordináló szerv a koordinált ellenőrzés során tapasztalt hiányosságokra figyelemmel kormányrendeletben meghatározottak szerint helyszíni bírságot szabhat ki.
+
+(3) A (2) bekezdésben meghatározott helyszíni bírság különös méltánylást érdemlő esetben mellőzhető. A helyszíni bírság nem mellőzhető, amennyiben a tapasztalt hiányosság ismétlődő, kirívó súlyú, vagy a fentieken túl olyan jellegű, amely közvetlenül veszélyezteti a kijelölt létfontosságú rendszerelem üzemfolytonos működését.
 
 9/A. § A kijelölt létfontosságú rendszerelemeket érintő karbantartások, javítások és rendkívüli események kezelésében, elhárításában közreműködő szervezetek, illetve további résztevők kötelesek biztosítani, hogy a rendszerelem működése a lehető legrövidebb ideig legyen korlátozott.
 
@@ -338,7 +345,7 @@ meghatározható.
 - b) állapítsa meg az azonosítási vizsgálat, a kijelölési eljárás és a hatósági ellenőrzés általános és az ágazatokra vonatkozó különös szabályait, állapítsa meg a kijelölés visszavonására vonatkozó eljárási szabályokat,
 - c) állapítsa meg az azonosítási vizsgálatban, a kijelölési eljárásban, a hatósági ellenőrzésben, a kijelölés visszavonására vonatkozó eljárásban részt vevő hatóságok közötti együttműködés szabályait,
 - d) állapítsa meg az ágazati és a horizontális kritériumokat,
-- e) határozza meg a 9. § és a 12.§ szerint kiszabható közigazgatási bírság mértékét, a közigazgatási bírság kiszabására vonatkozó eljárás rendjét,
+- e) határozza meg a 2. § és a 9. § szerint kiszabható helyszíni és közigazgatási bírság mértékét, a helyszíni és közigazgatási bírság kiszabására vonatkozó eljárás rendjét,
 - f) jelölje ki a nyilvántartó hatóságot, állapítsa meg a nyilvántartás vezetésére, a nyilvántartásba veendő adatok szolgáltatására és a nyilvántartásból történő adatigénylés rendjére vonatkozó részletes eljárási szabályokat,
 - g) állapítsa meg a biztonsági összekötő személy képesítési követelményeit,
 - h) állapítsa meg az üzemeltetői biztonsági terv lehetséges ágazati tartalmi és formai követelményeit,

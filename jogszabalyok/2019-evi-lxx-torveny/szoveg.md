@@ -56,7 +56,9 @@ a közneveléssel összefüggő egyes törvények módosításáról és a nemze
 
 (5)
 
-18. §
+18. § Az Nkt. 46. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A köznevelés nappali rendszerű iskolai oktatásában az állam biztosítja, hogy a tanuló számára a tankönyvek térítésmentesen álljanak rendelkezésre.”
 
 19. §
 
@@ -110,7 +112,7 @@ a közneveléssel összefüggő egyes törvények módosításáról és a nemze
 
 (3)
 
-(4)
+(4) Hatályát veszti az Nkt. 93/F. § (1) bekezdés b) pontja, (3)–(5) bekezdése.
 
 #### 6. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 

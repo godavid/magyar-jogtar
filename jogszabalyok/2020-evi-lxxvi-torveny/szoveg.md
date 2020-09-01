@@ -216,7 +216,7 @@ Magyarország 2021. évi központi költségvetésének megalapozásáról
 
 81. § Az államháztartásról szóló 2011. évi CXCV. törvény
 
-- 1.
+- 1. 1. § 14. pont g) alpontjában az „a szakképzési centrum részére” szövegrész helyébe az „a szakképzésről szóló törvény szerinti, nem nappali rendszerben folyó ingyenes képzés finanszírozása céljából az állami szakképző intézmény, vagy szakképzési centrum részére” szöveg,
 - 2.
 - 3.
 - 4.
@@ -364,9 +364,14 @@ lép.
 
 #### 39. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény és kapcsolódó törvények módosításáról szóló 2018. évi XCVII. törvény módosítása
 
-119. §
+119. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény és kapcsolódó törvények módosításáról szóló 2018. évi XCVII. törvény 12. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-120. §
+„(3) A 8. §, a 2. alcím és a 3. alcím 2021. január 1-jén lép hatályba.”
+
+120. § Nem lép hatályba a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény és kapcsolódó törvények módosításáról szóló 2018. évi XCVII. törvény
+
+- 1. 4. § (2) bekezdése, és
+- 2. 5. § (3) bekezdése.
 
 #### 40. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
@@ -390,7 +395,7 @@ lép.
 
 #### 43. A fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény módosítása
 
-128. §
+128. § Nem lép hatályba a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érdekében egyes törvények módosításáról szóló 2019. évi CX. törvény 93. §-a.
 
 #### 44. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
