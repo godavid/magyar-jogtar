@@ -585,10 +585,13 @@ foglaltaktól nem térhet el.
 - g) általános iskolai tanulmányok folytatása, továbbá a felek megállapodása szerinti képzés, továbbképzés esetén, a képzésben való részvételhez szükséges időre,
 - h) önkéntes vagy létesítményi tűzoltói szolgálat ellátása tartamára,
 - i) bíróság vagy hatóság felhívására, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
-- j) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára, továbbá
-- k) munkaviszonyra vonatkozó szabályban meghatározott tartamra.
+- j) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra,
+- k) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára, továbbá
+- l) munkaviszonyra vonatkozó szabályban meghatározott tartamra.
 
 (2) A munkáltató, ha a munkavállaló által elkövetett kötelezettségszegés körülményeinek kivizsgálása miatt indokolt, a vizsgálat lefolytatásához szükséges, de legfeljebb harminc napos időtartamra mentesítheti a munkavállalót rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól.
+
+(3) Az (1) bekezdés j) pontja szerinti esetben a munkavállalót a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a munkavállaló legalább öt munkanappal korábban tájékoztatja a munkáltatót.
 
 #### 33. Jogkövetkezmények a munkavállaló vétkes kötelezettségszegésért
 
@@ -1356,7 +1359,7 @@ rendelhető el.
 - d) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság (128. §) első hat hónapjának,
 - e) a keresőképtelenség,
 - f) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó,
-- g) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés b)–k) pontban meghatározott
+- g) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés b)–l) pontban meghatározott
 
 tartama.
 
@@ -1686,7 +1689,7 @@ havi átalányt állapíthatnak meg.
 (3) A munkavállalót távolléti díj illeti meg
 
 - a) a szabadság tartamára,
-- b) az 55. § (1) bekezdés c)–g) pontban és 55. § (2) bekezdésben meghatározott esetben,
+- b) az 55. § (1) bekezdés c)–g) és j) pontjában, valamint az 55. § (2) bekezdésében meghatározott esetben,
 - c) az 55. § (1) bekezdés i) pontban meghatározott esetben, ha tanúként hallgatják meg,
 - d) óra- vagy teljesítménybérezés esetén a napi munkaidőre, ha az általános munkarend szerinti munkanapra eső munkaszüneti nap miatt csökken a teljesítendő munkaidő,
 - e) ha munkaviszonyra vonatkozó szabály, munkavégzés nélkül munkabér fizetését annak mértéke meghatározása nélkül írja elő.
@@ -2233,7 +2236,7 @@ meghatározott szabályaitól nem térhet el.
 
 (2) A vezető munkaszerződése
 
-- a) az 55. § (1) bekezdés b), c) és e) pontjában,
+- a) az 55. § (1) bekezdés b), c), e) és j) pontjában,
 - b) a 65. § (3) bekezdés a), b) és e) pontjában,
 - c) a 113. § (3) bekezdésében, valamint
 - d) a 127. §-ban és a 128. §-ban

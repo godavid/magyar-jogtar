@@ -30,7 +30,7 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
   - d) kitüntetéshez kapcsolódóan nyújtott pénzjutalmakat,
   - e) a fogyatékos és a súlyos mozgáskorlátozott személyeknek ezen élethelyzetére tekintettel nyújtott pénzbeli ellátásokat,
   - f) a szociális igazgatásról és szociális ellátásokról szóló törvény, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti pénzbeli és természetbeni szociális és gyermekvédelmi ellátásokat,
-  - g) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerinti foglalkoztatást elősegítő képzési támogatásokat, álláskeresési ellátásokat, bérgarancia támogatásokat, a foglalkoztatási támogatásokra vonatkozó rendeletekben meghatározott magánszemélyek részére nyújtható támogatásokat, valamint a szakképzési centrum részére nyújtott támogatásokat,
+  - g) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerinti foglalkoztatást elősegítő képzési támogatásokat, álláskeresési ellátásokat, bérgarancia támogatásokat, a foglalkoztatási támogatásokra vonatkozó rendeletekben meghatározott magánszemélyek részére nyújtható támogatásokat, valamint a szakképzésről szóló törvény szerinti, nem nappali rendszerben folyó ingyenes képzés finanszírozása céljából az állami szakképző intézmény, vagy szakképzési centrum részére nyújtott támogatásokat,
   - h) a jogszabály alapján nyújtott családtámogatásokat, korhatár alatti ellátásokat, jövedelempótló és jövedelemkiegészítő szociális támogatásokat, az apákat megillető pótszabadsággal összefüggő költségek megtérítését, az energiafelhasználási támogatásokat,
   - i) a helyi önkormányzatok általános működésének és ágazati feladatainak támogatásait,
   - j) a közfoglalkoztatási támogatásokat,

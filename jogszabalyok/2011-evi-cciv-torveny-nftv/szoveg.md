@@ -3036,22 +3036,22 @@ vonatkozó szabályait még alkalmazni kell. Az a) és b) pontban megjelölt id�
 | 13. |  |  | Semmelweis Egyetem, Budapest |
 | 14. |  |  | Szegedi Tudományegyetem, Szeged |
 | 15. |  |  | Szent István Egyetem, Gödöllő |
-| 16. |  |  | Színház- és Filmművészeti Egyetem, Budapest |
-| 17. |  |  | Testnevelési Egyetem, Budapest |
-| 18. |  | I/B. Nem állami egyetemek |  |
-| 19. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
-| 20. |  |  | Állatorvostudományi Egyetem, Budapest |
-| 21. |  |  | Budapesti Corvinus Egyetem, Budapest |
-| 22. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
-| 23. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
-| 24. |  |  | Károli Gáspár Református Egyetem, Budapest |
-| 25. |  |  | Közép-európai Egyetem, Budapest |
-| 26. |  |  | Miskolci Egyetem, Miskolc |
-| 27. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
-| 28. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
-| 29. |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
-| 30. |  |  | Soproni Egyetem, Sopron |
-| 31. |  |  | Széchenyi István Egyetem, Győr |
+| 16. |  |  | Testnevelési Egyetem, Budapest |
+| 17. |  | I/B. Nem állami egyetemek |  |
+| 18. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
+| 19. |  |  | Állatorvostudományi Egyetem, Budapest |
+| 20. |  |  | Budapesti Corvinus Egyetem, Budapest |
+| 21. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
+| 22. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
+| 23. |  |  | Károli Gáspár Református Egyetem, Budapest |
+| 24. |  |  | Közép-európai Egyetem, Budapest |
+| 25. |  |  | Miskolci Egyetem, Miskolc |
+| 26. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
+| 27. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
+| 28. |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
+| 29. |  |  | Soproni Egyetem, Sopron |
+| 30. |  |  | Széchenyi István Egyetem, Győr |
+| 31. |  |  | Színház- és Filmművészeti Egyetem, Budapest |
 | 32. | II. ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
 | 33. |  | II/A. Állami alkalmazott tudományok egyetemei |  |
 | 34. |  |  | Budapesti Gazdasági Egyetem, Budapest |
