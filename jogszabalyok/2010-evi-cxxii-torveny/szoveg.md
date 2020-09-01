@@ -1342,7 +1342,7 @@ illetményének megfelelő összeg.
 - j) hozzátartozó halálakor 2 munkanap,
 - k) kötelező orvosi vizsgálat időtartama,
 - l) a véradáshoz szükséges időtartam, legalább négy óra,
-- m)
+- m) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanap,
 - n) a 32/Z. § (1) bekezdése szerinti továbbképzésben, valamint a 33. §-ban foglaltak szerint a képzésben való részvételhez szükséges idő,
 - o) bíróság vagy hatóság felhívására vagy az eljárásban való személyes részvételhez szükséges időtartam,
 - p) ha e törvény, illetve a Kttv. vagy a Hszt. munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő, annak időtartama,
@@ -1353,6 +1353,8 @@ illetményének megfelelő összeg.
 (3) Az (1)–(2) bekezdésben foglaltakon túl szabadságra jogosító időnek minősül továbbá a szoptató anya részére biztosított következő időtartam: a szoptatás első 6 hónapjában naponta kétszer 1 óra, ezt követően a kilencedik hónap végéig naponta 1 óra, ikrek esetében pedig az óraszám – az előzőek figyelembevételével – az ikrek számához igazodik.
 
 (4) A (3) bekezdés pénzügyőr esetében nem alkalmazható arra az időszakra, amire a Hszt. 148. § (1) bekezdés a) pontja szerinti egészségügyi szabadságot vesz igénybe.
+
+(5) A (2) bekezdés m) pontja szerinti esetben a kormánytisztviselőt, a pénzügyőrt, az ügykezelőt a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a kormánytisztviselő, a pénzügyőr, az ügykezelő legalább öt munkanappal korábban tájékoztatja a munkáltatót.
 
 ### Alap- és pótszabadság
 

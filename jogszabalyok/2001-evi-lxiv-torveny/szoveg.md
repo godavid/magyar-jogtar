@@ -53,7 +53,7 @@ a következő törvényt alkotja:
 
 (4) A kulturális örökség védett elemeinek megóvását a jogszabályban kijelölt örökségvédelmi szerv jogszabályban meghatározottak szerint szakértői szolgáltatásokkal segíti elő.
 
-(5) Valamennyi védett műemléki értékkel kapcsolatos építésügyi és építésfelügyeleti hatósági eljárásban a (3) bekezdés szerinti örökségvédelmi tanácsadó testület jogszabályban foglaltak szerinti igénybevétele és támogató véleménye esetén a hatóság a határozatát a kérelem beérkezésétől számított nyolc napon belül hozza meg.
+(5) Műemlékkel kapcsolatos építésügyi és építésfelügyeleti hatósági eljárásban – törvény vagy kormányrendelet szerinti igénybevétel esetén – a (3) bekezdés szerinti tanácsadó testületként a központi építészeti-műszaki tervtanács jár el, amelynek véleményét az építésügyi és építésfelügyeleti hatóság érdemben vizsgálja az eljárása, döntése meghozatala során. A műemlékkel kapcsolatos eljárásban a központi építészeti-műszaki tervtanács tagja a Magyar Művészeti Akadémia által delegált tag is.
 
 ### Értelmező rendelkezések
 
@@ -62,6 +62,7 @@ a következő törvényt alkotja:
 - 1. Beruházó: beruházási, fejlesztési, bontási, helyreállítási vagy felújítási tevékenység engedélyezését kérelmező vagy azt végző természetes vagy jogi személy, illetve gazdasági társaság vagy annak megbízottja vagy felhatalmazottja, akinek érdekében az elvégzendő földmunka vagy a nyilvántartott régészeti lelőhely bolygatása szükségessé vált.
 - 2. Elfedés: a feltárásra nem kerülő régészeti lelőhely, lelőhelyrész fizikai védelmét jogszabályban meghatározott módon biztosító műszaki megoldások régészeti megfigyelés mellett történő megvalósítása, amelyek visszabonthatóak, az esetleges későbbi, teljes felületű feltárás lehetőségét nem csökkentik vagy akadályozzák.
 - 3. Előzetes régészeti dokumentáció: valamely terület régészeti érintettségének tisztázására, a régészeti örökség elemeire vonatkozó ismeretek (különösen a lelőhely jellegének, korának, kiterjedésének és intenzitásának) megszerzésére és pontosítására szolgáló, valamint az ebből következően elvégzendő régészeti feladatellátás formájának, idő- és költségvonzatainak meghatározásához hozzájáruló, az ismert adatok és források feldolgozásával, a lelőhely állapotában maradandó változással nem járó műszeres lelőhely-, illetve leletfelderítés, terepbejárás és próbafeltárás alkalmazásával készült dokumentum.
+- 3a. Értékmeghatározó szakértői vizsgálat: a műemléki szakértő által elkészített építéstörténeti tudományos dokumentáció és műemléki értékleltár alapján a műemlék értékhordozó elemeinek, alkotórészeinek, tartozékainak és beépített berendezési tárgyainak részletes meghatározása.
 - 4. Fenntartható használat: a védett kulturális örökség olyan módon történő használata – ideértve a kármegelőző és kárcsökkentő tevékenységeket is –, amely nem haladja meg a szakmailag indokolt mértéket és nem vezet az örökség elemeinek állapotromlásához, így biztosítva fennmaradásukat a jelen és jövő nemzedékek számára.
 - 4a. Földmunka: a földfelszíntől számított 30 centimétert meghaladó, kézi vagy gépi erővel végzett beavatkozás, beleértve a tereprendezést, depó, feltöltés, töltés kialakítását.
 - 5. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
@@ -74,9 +75,9 @@ a következő törvényt alkotja:
 - 12. Kulturális örökség elemeinek kutatása: a kulturális örökség elemeire vonatkozó, annak pótolhatatlan forrásértékét feltáró, tudományos módszereket alkalmazó, roncsolásmentes vagy roncsolásos beavatkozással járó eljárás.
 - 13. Megelőző feltárás: írásbeli szerződés alapján, tudományos módszerrel végzett régészeti feladatellátás (régészeti megfigyelés, próbafeltárás, teljes felületű feltárás), amely a földmunkával járó beavatkozások, fejlesztések, beruházások által érintett, nyilvántartott régészeti lelőhelyek feltárására irányul.
 - 14. Mentő feltárás: régészeti emlék vagy lelet régészeti feltáráson kívüli, váratlan előkerülése során alkalmazandó, a közvetlenül érintett elemek szakszerű megmentésére irányuló azonnali beavatkozás.
-- 15. Műemlék: olyan nyilvántartott műemléki érték, amelyet miniszteri döntéssel, határozattal vagy e törvény alapján miniszteri rendelettel védetté nyilvánítottak.
+- 15. Műemlék: olyan közhiteles nyilvántartásban nyilvántartott műemléki érték, amelyet miniszteri döntéssel, határozattal vagy e törvény alapján miniszteri rendelettel védetté nyilvánítottak.
 - 16. Műemlékfenntartás: a műemlék rendeltetésszerű és biztonságos, méltó (eszmei értékével összhangban álló) használatához, illetve védett értékei megőrzéséhez szükséges üzemeltetés és ennek során a jókarbantartás teljesítése, állagmegóvási beavatkozások elvégzése, valamint a műemléki helyreállítás.
-- 17. Műemléki érték: minden olyan építmény, történeti kert, történeti temetkezési hely, vagy sajátos terület, valamint ezek maradványa, továbbá azok rendeltetésszerűen összetartozó együttese, rendszere, amely hazánk múltja és a magyar nemzet vagy más közösség hovatartozás-tudata szempontjából országos jelentőségű történeti, művészeti, tudományos és műszaki emlék alkotórészeivel, tartozékaival és beépített berendezési tárgyaival együtt.
+- 17. Műemléki érték: minden olyan építmény, történeti kert, történeti temetkezési hely, vagy műemléki terület, valamint ezek maradványa, továbbá azok rendeltetésszerűen összetartozó együttese, rendszere, amely hazánk múltja és a magyar nemzet vagy más közösség hovatartozás-tudata szempontjából országos jelentőségű történeti, művészeti, tudományos és műszaki emlék alkotórészeivel, tartozékaival és beépített berendezési tárgyaival együtt, vagy egyes nevesített értéke vonatkozásában.
 - 18. Műemléki helyreállítás: a jókarbantartási vagy az állagmegóvási feladatokon túlmenő, a műemlék egészét vagy részét érintő felújítás, részleges vagy teljes visszaállítást célzó építési tevékenység vagy restaurálás.
 - 19. Műszeres lelőhely- és leletfelderítés: a légi felvételezés, a föld és víz alatti építmények és tárgyak vagy azok maradványainak, lenyomatainak geofizikai úton történő felmérése, a fémkereső műszerrel (detektorral) végzett lelettérképezés vagy -gyűjtés, geodéziai felmérés, és minden egyéb műszerrel folytatott olyan tevékenység, amely régészeti lelőhelyek vagy leletek felderítésére irányul.
 - 20. Nagyberuházás: az alábbi, földmunkával járó beavatkozás, fejlesztés, beruházás:
@@ -86,7 +87,9 @@ a következő törvényt alkotja:
   - d) a védmű-, töltés- és a 2500 hektár alapterületet meghaladó árapasztó- vagy árapasztó tározó-építés, vagy
   - e) azon közérdekű célú beruházás, amelynek megvalósítása érdekében a kisajátításról szóló törvény szerint kisajátítást végeztek.
 - 21. Nemzeti emlékhely: a nemzet történelmében meghatározó jelentőséggel bíró helyszín, amely a magyar nemzet, illetve a magyar és az ország területén élő nemzetiségek összetartozását erősítő és identitásképző jellegénél fogva a nemzet önképében kiemelkedő fontossággal bír, továbbá amely országos jelentőségű állami megemlékezés színhelye lehet, és amelyet az Országgyűlés törvénnyel nemzeti emlékhellyé nyilvánít.
-- 22. Nyilvántartott műemléki érték: a közhiteles nyilvántartásba vett, e törvény alapján általános védelem alatt álló műemléki érték.
+- 21a. Nemzeti emlékpont: olyan, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben meghatározó jelentőséggel bíró helyszín, amelyet a kultúráért felelős miniszter rendeletében nemzeti emlékponttá nyilvánít.
+- 21b. Nevesített műemléki érték: értékmeghatározó szakértői vizsgálat alapján megállapított és közhiteles nyilvántartásban szereplő érték, amely a védetté nyilvánítást megalapozza; a nevesítés a műemléki érték egészére vagy annak egyes elemeire – ideértve alkotórészére, tartozékára, beépített berendezési tárgyaira – terjed ki.
+- 22.
 - 23. Nyilvántartott régészeti lelőhely: a közhiteles nyilvántartásba vett, e törvény alapján általános védelem alatt álló régészeti lelőhely.
 - 24. Örökségvédelmi felügyelet: a 46. § hatálya alá nem tartozó kulturális örökségi elemek megóvásának, fejlesztésének, fenntartható használatának hatósági felügyeleti eszközökkel, továbbá hatósági eszközökön kívüli, elsősorban tanácsadással és feladatellátással történő elősegítése.
 - 25. Örökségvédelmi többletköltség: a kulturális örökség védett elemein végzett kutatási, restaurálási vagy helyreállítási munkák olyan – az értéknövekedéssel csökkentett – költségei, amelyeket a hatóság írt elő vagy rendelt el, valamint amit a tulajdonos kezdeményezésére a hatóság annak elismer, és amelyek a védettség hiányában a fenntartással kapcsolatban egyébként nem merültek volna fel.
@@ -110,16 +113,16 @@ a következő törvényt alkotja:
 - 42. Tervásatás: tudományos célból végzett, tudományos szempontok alapján előre tervezett régészeti feltárás.
 - 43. Történelmi emlékhely: a nemzet vagy valamely velünk élő nemzetiség történelmében meghatározó jelentőséggel bíró helyszín, amelyet a Kormány rendelettel történelmi emlékhellyé nyilvánít.
 - 44. Történeti városmag: a mai városok területén található, az eredeti, történelmi városszerkezetet tükröző, a régészeti örökség elemeit nagy mélységben és több rétegben megőrző, a település több évezredes múltját és folyamatosságát mutató jól lehatárolható, nagyobb összefüggő terület.
-- 44a. Védett műemléki érték jókarbantartása: tervszerű megelőző vagy hosszabb időszakonként, rendszeresen visszatérő jelleggel végzett, a jó műszaki állapot megőrzését elősegítő, vagy a kármegelőzésre, hibaelhárításra irányuló vagy rendeltetésszerű és biztonságos napi használatot, működést biztosító építési-szerelési munka, valamint az üzembiztonság megtartására irányuló rendtartási, tisztítási, javítási tevékenység.
-- 44b. Védett műemléki érték állagmegóvása: rossz műszaki állapotban lévő védett műemléki érték, annak önálló rendeltetési egysége további kármegelőzése, kárelhárítása érdekében végzett építési tevékenység.
+- 44a. Műemlék jókarbantartása: tervszerű megelőző vagy hosszabb időszakonként, rendszeresen visszatérő jelleggel végzett, a jó műszaki állapot megőrzését elősegítő, vagy a kármegelőzésre, hibaelhárításra irányuló vagy rendeltetésszerű és biztonságos napi használatot, működést biztosító építési-szerelési munka, valamint az üzembiztonság megtartására irányuló rendtartási, tisztítási, javítási tevékenység.
+- 44b. Műemlék állagmegóvása: rossz műszaki állapotban lévő műemlék, annak önálló rendeltetési egysége további kármegelőzése, kárelhárítása érdekében végzett építési tevékenység.
 - 45. Védetté nyilvánított régészeti lelőhely: miniszteri döntéssel, határozattal vagy e törvény alapján miniszteri rendelettel védetté nyilvánított kiemelkedő történeti és kulturális jelentőségű, nyilvántartott régészeti lelőhely.
 - 46. Védett örökségi elem: az e törvény erejénél fogva általános védelem alatt álló, illetve miniszteri rendelettel vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem.
 
 ## II. RÉSZ
 
-### 1. Fejezet — A RÉGÉSZETI ÖRÖKSÉG VÉDELME
+### 1. Fejezet — A KULTURÁLIS ÖRÖKSÉG VÉDELME
 
-### ÁLTALÁNOS RENDELKEZÉSEK
+### RÉGÉSZETI ÖRÖKSÉG VÉDELME
 
 7/A. § A régészeti örökség védelme kiterjed a régészeti örökség felkutatására, értékelésére, számbavételére, nyilvántartására, megőrzésére, a régészeti lelőhelyek védetté nyilvánítására.
 
@@ -519,33 +522,23 @@ elvégzéséről, és e feladatokra vonatkozó szerződést a beruházóval a 22
 28. § A műemlékvédelem feladata:
 
 - a) a műemléki értékek felkutatása, tudományos kutatása, értékelése és számba vétele, dokumentálása, nyilvántartása, védetté nyilvánítása és a védendő sajátos területek meghatározása,
-- b) a védett műemléki értékek, valamint a műemlékek, a műemlékvédelem sajátos tárgyai környezetének megőrzése, fenntartása, helyreállítása, védelme, valamint eszmei értékükkel összhangban álló hasznosításuk biztosítása,
-- c) a védett műemléki értékek fenntartása és az értékvédelmet szolgáló fejlesztése összhangjának megteremtése,
+- b) a műemlékek, a műemlékvédelem sajátos tárgyai környezetének megőrzése, fenntartása, helyreállítása, védelme, valamint eszmei értékükkel összhangban álló hasznosításuk biztosítása,
+- c) a műemlékek fenntartása és az értékvédelmet szolgáló fejlesztése összhangjának megteremtése,
 - d) tudományos alapkutatások és oktatás, szakirányú szakképzés, ismeretterjesztés.
 
 ### A MŰEMLÉKI ÉRTÉKEK VÉDELME
 
 ### Általános védelem
 
-28/A. § (1) A nyilvántartott műemléki értékek e törvény erejénél fogva általános védelem alatt állnak.
-
-(2) A műemléki érték nyilvántartásba vétele a hatóságnál kezdeményezhető, a kezdeményezésről a hatóság jogszabályban foglaltak szerint dönt.
-
-(2a)
-
-(3) A nyilvántartásba vételről szóló döntést a hatóság azonnal végrehajthatóvá nyilvánítja, ha a műemléki értéket megsemmisülés vagy értékeinek eltűnése fenyegeti.
-
-(4) A nyilvántartott műemléki érték védelmének részletes szabályait jogszabályban kell meghatározni.
+#### 28/A. §
 
 ### VÉDETTÉ NYILVÁNÍTÁS
 
-### A nyilvántartott műemléki értékek műemlékké nyilvánítása
+### A műemléki értékek műemlékké, műemléki területté nyilvánítása
 
-29. § (1) Műemlékké a nyilvántartásba vett műemléki érték nyilvánítható. A nyilvántartott műemléki érték műemlékké nyilvánítása hivatalból indul vagy a hatóságnál jogszabályban meghatározott módon kezdeményezhető.
+29. § (1) Műemléki védetté nyilvánítási eljárás építmény, történeti kert, történeti temetkezési hely, műemléki terület, valamint ezek maradványa vagy ezek rendeltetésszerűen összetartozó egysége vonatkozásában indítható, amennyiben ezek országos jelentőségű műemléki értéke feltételezhető. A műemléki érték műemlékké vagy műemléki területté nyilvánítása hivatalból indul vagy a hatóságnál – e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott módon – kezdeményezhető.
 
-(2) A műemlékké nyilvánítás tudományos előkészítését a hatóság folytatja le.
-
-(3)–(4)
+(2) A műemlékké vagy műemléki területté nyilvánítás, a műemléki kategóriába sorolás vagy annak felülvizsgálata, a nevesített műemléki érték meghatározása és a műemléki védettség megszüntetése tudományos előkészítését a hatóság az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint folytatja le.
 
 #### 30. §
 
@@ -553,8 +546,8 @@ elvégzéséről, és e feladatokra vonatkozó szerződést a beruházóval a 22
 
 31. § (1) A hatóság:
 
-- a) a nyilvántartott műemléki értéket a védetté nyilvánítás előkészítésének megindításával egyidejűleg, vagy
-- b) ha a nyilvántartott műemléki értéket megsemmisülés vagy értékeinek eltűnése fenyegeti,
+- a) a műemléki értéket a védetté nyilvánítás előkészítésének megindításával egyidejűleg, vagy
+- b) ha a műemléki értéket megsemmisülés vagy értékeinek eltűnése fenyegeti,
 
 soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapján legfeljebb egyéves időtartamra ideiglenes védelem alá helyezheti, és a határozatot azonnal végrehajthatóvá nyilváníthatja.
 
@@ -570,18 +563,30 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 ### A műemléki védettség létrejötte
 
-32. § A nyilvántartott műemléki értékeket a miniszter rendeletben nyilvánítja műemlékké, aminek tartalmaznia kell:
+32. § A műemléki értékeket a miniszter rendeletben nyilvánítja műemlékké vagy műemléki területté, amelynek tartalmaznia kell:
 
 - a) a védetté nyilvánítás tényét,
-- b) a védetté nyilvánított műemléki érték meghatározását, a védelem célját,
-- c) a védelem fajtáját (műemlék, műemléki terület),
-- d) az egyedileg védett ingatlanra (ingatlanrészre) vonatkozó, elővásárlási joggal kapcsolatos rendelkezést, ha a védetté nyilvánítást megalapozó érték kiemelkedő jelentősége indokolja,
-- e) a műemléknek kormányrendeletben meghatározott szempontjai szerinti kategóriába sorolását,
-- f) a műemlék ingatlan (ingatlanrész) és a műemléki terület meghatározását, az azonosításához szükséges helyrajzi adatokkal.
+- b) a védetté nyilvánított műemléki érték meghatározását és a védelem célját,
+- c) a védelem fajtáját (műemlék vagy műemléki terület),
+- d) a műemlék kategóriába sorolását (kiemelten védett műemlék vagy védett műemlék),
+- e) védett műemlék esetén az érintett ingatlanra vagy ingatlanrészre vonatkozó, állami elővásárlási joggal kapcsolatos rendelkezést, ha azt a műemléki érték jellege alapján a miniszter indokoltnak tartja,
+- f) kiemelten védett műemlék esetében a kiemelten védett műemlék, valamint műemléki környezete helyrajzi számú meghatározását, védett műemlék és műemléki terület esetében a védelem szerinti ingatlan helyrajzi számú meghatározását vagy a földrajzi azonosítókkal lehatárolt ingatlanrészt, valamint a kijelölt műemléki környezet helyrajzi számú meghatározását.
 
-32/A. § A hatóság évente legalább egyszer javaslatot tesz a nyilvántartott műemléki értékek műemlékké nyilvánítására.
+32/A. § A hatóság évente legalább egyszer javaslatot tesz a műemléki értékek műemlékké nyilvánítására.
 
-32/B. § A műemléki védettség a védett műemléki érték értékleltárba vett, műemléki értéket megalapozó, hiteles alkotórészeire, tartozékaira, valamint beépített berendezési tárgyaira is kiterjed.
+32/B. § (1) A műemléki védettség
+
+- a) a kiemelten védett műemlék esetében e törvény erejénél fogva a műemléki érték egészére, a védettséget megalapozó hiteles alkotórészére, tartozékára, beépített berendezési tárgyaira, továbbá a műemlék fekvése szerinti ingatlanra,
+- b) a védett műemlék esetében az értékmeghatározó szakértői vizsgálat alapján a hatóság által megállapított nevesített műemléki értékre, valamint az ennek fekvése szerinti ingatlanra vagy ingatlanrészre,
+- c) a műemléki terület esetében e törvény erejénél fogva a védettséget megalapozó műemléki érték egészére
+
+terjed ki.
+
+(2) Kiemelten védett műemlék esetében a védett műemlék értékeinek részletes leírását a műemléki értékleltár és a közhiteles nyilvántartás tartalmazza.
+
+(3) A védett műemlék és műemléki terület esetében a nevesített műemléki értéket a műemléki értékleltárba fel kell venni és azt a közhiteles nyilvántartásnak is tartalmaznia kell. Nevesített műemléki érték lehet a műemlék fekvése szerinti ingatlan vagy ingatlanrész is.
+
+(4) A műemlék jogszabályban meghatározott környezete műemléki környezetnek minősül.
 
 33. § Egyes jelentős történeti és kulturális értékű, illetve veszélyeztetett helyzetű műemlékek és műemlékegyüttesek fokozott védelmét biztosítani kell.
 
@@ -589,7 +594,7 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 ### A védettség megszüntetése
 
-35. § (1) A védettség megszüntetésére akkor kerülhet sor, ha a védett műemléki érték
+35. § (1) A védettség megszüntetésére akkor kerülhet sor, ha a műemlék, műemléki terület
 
 - a) megsemmisült,
 - b) a védelem alapját képező értékeit helyreállíthatatlanul elvesztette,
@@ -599,13 +604,13 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 (2) A műemléki védettség megszüntetésére irányuló eljárásra a műemlékké nyilvánításra vonatkozó rendelkezéseket kell alkalmazni.
 
-(3) Nyilvántartott műemléki értéket az (1) bekezdés a), b) és e) pontja szerinti esetekben a nyilvántartásból jogszabályban meghatározott módon törölni kell.
+(3) Ha a védettség megszüntetésére az (1) bekezdés c) vagy d) pontja alapján került sor, a miniszter a védettség megszüntetését kimondó rendelet kihirdetésével egyidejűleg kezdeményezi a műemlék fekvése szerinti települési (fővárosban a fővárosi vagy a fővárosi kerületi) önkormányzatnál a korábbi műemlék helyi egyedi védelmének megállapítását.
 
-(4) Az (1) bekezdés c) és d) pontja szerinti esetekben az általános védelem értékvizsgálat elvégzését követően tartható fenn.
+(4) A települési önkormányzat köteles érdemben vizsgálni a miniszter (3) bekezdés szerinti kezdeményezését.
 
 ### A műemlékek kategóriába sorolása
 
-35/A. § (1) A nyilvántartott műemléki értéket a műemlékké nyilvánítás során I. vagy II. örökségvédelmi kategóriába kell sorolni. A kategóriába sorolás szempontjait és a kategóriából eredő joghatásokat kormányrendelet határozza meg.
+35/A. § (1) A műemléki értéket a műemlékké nyilvánítás során kiemelten védett műemlék vagy védett műemlék kategóriába kell sorolni. A kategóriából eredő joghatásokat a 32/B. § és az e törvény felhatalmazása alapján kiadott kormányrendelet határozza meg.
 
 (2) Műemlék kategóriába sorolása jogszabályban meghatározottak szerint módosítható.
 
@@ -615,7 +620,7 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 36. § (1) A történeti kert történeti vagy művészeti értékkel bíró, önállóan vagy más műemléki értékhez kapcsolódóan, illetve a történeti településszerkezet részeként megjelenő kertépítészeti alkotás, zöldfelület vagy park.
 
-(2) A kiemelkedő jelentőségű történeti kert általános védelemben részesíthető, műemlékké nyilvánítható.
+(2) A kiemelkedő jelentőségű történeti kert műemlékké nyilvánítható.
 
 (3) A történeti kertet lehetőleg eredeti rendeltetésének megfelelően, teljes eredeti területére kiterjedően kell védelem alá helyezni.
 
@@ -642,7 +647,7 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 39. § (1) Műemléki jelentőségű területként kell védeni a település azon részét, amelynek jellegzetes szerkezete, beépítésének módja, összképe, a tájjal való kapcsolata, terei és utcaképei, építményeinek együttese összefüggő rendszert alkotva történelmi jelentőségű és ezért műemléki védelemre érdemes.
 
-(2) A műemlék jogszabályban meghatározott környezete műemléki környezetnek minősül.
+(2)
 
 (3)
 
@@ -654,11 +659,11 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 ### A védett műemléki értékek fenntartása
 
-41. § (1) A védett műemléki érték fenntartásáról, jókarbantartásáról annak tulajdonosa (tulajdonosi jogok gyakorlója), vagyonkezelője, használója, vagy az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonába adásáról szóló 1991. évi XXXIII. törvényben (a továbbiakban: Tv.) meghatározott ingyenes használója (a továbbiakban együtt: tulajdonos) az Étv.-ben meghatározottak, valamint e törvény szerint köteles gondoskodni.
+41. § (1) A műemlék fenntartásáról, jókarbantartásáról annak tulajdonosa (tulajdonosi jogok gyakorlója), vagyonkezelője, használója, vagy az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonába adásáról szóló 1991. évi XXXIII. törvényben (a továbbiakban: Tv.) meghatározott ingyenes használója (a továbbiakban együtt: tulajdonos) az Étv.-ben meghatározottak, valamint e törvény szerint köteles gondoskodni.
 
-(2) A védett műemléki értéket épségben, jellegük megváltoztatása nélkül kell fenntartani. A nyilvántartott műemléki érték, műemlék esetében a fenntartási, jókarbantartási kötelezettség a rendeltetésszerű és biztonságos használathoz szükséges műszaki állapot fenntartásán túlmenően kiterjed az azok sajátos értékeit képező építészeti, képző- és iparművészeti, valamint kertépítészeti alkotórészeire és tartozékaira, felszerelési tárgyaira.
+(2) A műemléket épségben, jellegük megváltoztatása nélkül kell fenntartani. A műemlék esetében a fenntartási, jókarbantartási kötelezettség a rendeltetésszerű és biztonságos használathoz szükséges műszaki állapot fenntartásán túlmenően kiterjed az azok sajátos értékeit képező építészeti, képző- és iparművészeti, valamint kertépítészeti alkotórészeire és tartozékaira, felszerelési tárgyaira.
 
-(3) Ha a védettség csak az ingatlan meghatározott részét érinti, akkor a tulajdonos kötelezettségét – a nyilvántartott műemléki értéket vagy műemléket magában foglaló ingatlannak a védettség hatálya alá nem tartozó részei tekintetében – az általános építésügyi szabályok megfelelő alkalmazásával kell gyakorolni.
+(3) Ha a védettség csak az ingatlan meghatározott részét érinti, akkor a tulajdonos kötelezettségét – a műemléket magában foglaló ingatlannak a védettség hatálya alá nem tartozó részei tekintetében – az általános építésügyi szabályok megfelelő alkalmazásával kell gyakorolni.
 
 42. § (1) Ha a műemlék tulajdonosának személye, lakóhelye, tartózkodási helye ismeretlen, a műemlék állagmegóvásáról vagy jókarbantartásáról – a tulajdonos költségére – a hatóság gondoskodik.
 
@@ -666,21 +671,21 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 ### A védett műemléki értékek méltó használata és helyreállítása
 
-43. § (1) A védett műemléki értéket a műemléki értékéhez, jellegéhez, történelmi jelentőségéhez méltóan, a védett értékek veszélyeztetését kizáró módon kell használni, illetve hasznosítani.
+43. § (1) A műemléket a műemléki értékéhez, jellegéhez, történelmi jelentőségéhez méltóan, a védett értékek veszélyeztetését kizáró módon kell használni, illetve hasznosítani.
 
 (2) A nemzetgazdasági szempontból kiemelt nemzeti vagyon körébe tartozó műemlék hasznosítása során az egyetemes vagy a nemzeti kultúrához kapcsolódó, közcélú rendeltetést előnyben kell részesíteni.
 
 (3) A műemlékek használata és funkcióváltása során a műemléki értékeket nem veszélyeztető fenntartható használatnak és gazdasági fenntarthatóságnak van helye.
 
-(4) A nyilvántartott műemléki érték használata során a műemléki értéket nem veszélyeztető fenntartható használatra kell törekedni.
+(4)
 
 (5) A műemlékek helyreállítása és használata során törekedni kell a történetileg összetartozó ingatlanokat, ingatlanrészeket egyesítő megoldásokra, továbbá a korábban – az eredeti műemléki érték csorbításával – eltávolított, fellelhető és azonosítható alkotórészek, tartozékok és berendezési tárgyak visszahelyezésére.
 
-(5a) Védett műemléki érték korszerűsítése – különösen az energiahatékonyságra vonatkozó minimumkövetelmények betartása, az energia-megtakarítási célú felújítás – nem okozhatja a műemléki védelem alapját képező értékeinek helyreállíthatatlan sérülését, elvesztését.
+(5a) Műemlék korszerűsítése – különösen az energiahatékonyságra vonatkozó minimumkövetelmények betartása, az energia-megtakarítási célú felújítás – nem okozhatja a műemléki védelem alapját képező értékeinek helyreállíthatatlan sérülését, elvesztését.
 
-(5b) A védett műemléki érték egésze nem bontható le.
+(5b) A műemlék egésze nem bontható le.
 
-(5c) A védett műemléki érték részlegesen akkor bontható le, ha
+(5c) A műemlék részlegesen akkor bontható le, ha
 
 - a) egyes részeinek, illetve szerkezeti elemeinek megmentése céljából szükséges,
 - b) helyreállításával kapcsolatban korábbi és jelentős építési korszak maradványának bemutatását, vagy a hiteles állapotát eltorzító idegen részek eltávolítását, illetve a műszaki állagbiztosítás vagy életveszély-elhárítás érdekében szükséges elkerülhetetlen beavatkozásokat célozza, vagy
@@ -701,7 +706,7 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 - c) az állami tulajdonban álló műemlék vagyonkezelőjének kijelöléséhez vagy annak megváltoztatásához,
 - d) vagyonkezelő hiányában az állami tulajdonban álló műemlék hasznosítására irányuló bármely jogügylethez.
 
-(2) Az (1) bekezdés szerinti előzetes jóváhagyás a jogügylet érvényességi kelléke.
+(2) Az (1) bekezdés szerinti jóváhagyás a jogügylet érvényességi kelléke.
 
 (3) A miniszter jóváhagyását megtagadhatja, ha az (1) bekezdésben meghatározott jogügylet a védettséget megalapozó értéket veszélyezteti, vagy az a védett érték egységes tulajdonosi szerkezetének kialakítását, egységes hasznosítását nem szolgálja.
 
@@ -872,9 +877,9 @@ kulturális javakat.
 
 ### Általános rendelkezések
 
-61/B. § (1) E fejezet hatálya kiterjed a történelmi emlékhelyekre, a nemzeti emlékhelyekre és a kiemelt nemzeti emlékhelyekre, az ezekkel kapcsolatos tevékenységekre, a feladatellátásban közreműködő szervezetekre, személyekre, valamint az emlékhellyé nyilvánítással érintett ingatlanok tulajdonosaira, vagyonkezelőire, használóira.
+61/B. § (1) E fejezet hatálya kiterjed a nemzeti emlékpontokra, a történelmi emlékhelyekre, a nemzeti emlékhelyekre és a kiemelt nemzeti emlékhelyekre, az ezekkel kapcsolatos tevékenységekre, a feladatellátásban közreműködő szervezetekre, személyekre, valamint az emlékhellyé nyilvánítással érintett ingatlanok tulajdonosaira, vagyonkezelőire, használóira.
 
-(2) A történelmi emlékhelyek, a nemzeti emlékhelyek és a kiemelt nemzeti emlékhelyek (a továbbiakban együtt: emlékhely) e törvény szerinti szabályozása az azokon e törvény vagy más jogszabályok alapján fennálló védettséget nem érinti.
+(2) A nemzeti emlékpontok, a történelmi emlékhelyek, a nemzeti emlékhelyek és a kiemelt nemzeti emlékhelyek (a továbbiakban együtt: emlékhely) e törvény szerinti szabályozása az azokon e törvény vagy más jogszabályok alapján fennálló védettséget nem érinti.
 
 (3) A nemzeti emlékhelyek védelme és hozzáférhetővé tétele közérdek, amelynek megvalósításában közreműködnek az állami és az önkormányzati szervek, valamint a vallási közösségek, az egyházi jogi személyek, a civil és egyéb szervezetek, illetve a természetes személyek. A védelem kiterjed a nemzeti emlékhely és a kiemelt nemzeti emlékhely méltóságának megőrzésére és a méltó megemlékezés feltételeinek biztosítására, az emlékhely történelmileg hiteles, egységes arculatának és műemléki megjelenésének fenntartására és biztosítására, továbbá az ezek érdekében végzett fejlesztés, beruházás megvalósításának elősegítésére.
 
@@ -898,7 +903,9 @@ kulturális javakat.
 - f) a Bizottság javaslatára, a Bizottság felügyeletét ellátó miniszterrel egyetértésben kezdeményezi egyes helyszínek történelmi emlékhellyé nyilvánítását; valamint
 - g) a Nemzeti Örökség Intézete (a továbbiakban: NÖRI) bevonásával, a Bizottság felügyeletét ellátó miniszterrel egyetértésben évente jelentést készít a Kormány részére és négyévente tájékoztatja az Országgyűlés illetékes bizottságát az emlékhelyek állapotáról.
 
-(2) A Bizottság ellátja a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos – e törvény szerinti – véleményező és javaslattevő feladatokat.
+(1a) A kultúráért felelős miniszter a Bizottság javaslatára rendeletben dönt egyes helyszínek nemzeti emlékponttá nyilvánításáról.
+
+(2) A Bizottság ellátja a nemzeti emlékpontokkal, a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos – e törvény szerinti – véleményező és javaslattevő feladatokat.
 
 (3) A NÖRI emlékhelyekkel összefüggő feladatai különösen az alábbiak:
 
@@ -920,6 +927,10 @@ kulturális javakat.
 (2) A történelmi emlékhelyeket egységes arculatú – magyar és angol, valamint, ha az emlékhely valamely velünk élő nemzetiséghez kapcsolódik, nemzetiségi nyelvű – ismertető táblával kell megjelölni.
 
 (3) A történelmi emlékhely jellegre történő utalást az ingatlan-nyilvántartásban tényként fel kell jegyezni.
+
+(4) Nemzeti emlékponttá az az épített környezet vagy természeti helyszín nyilvánítható, ahol egy, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben a nemzet emlékezetére méltó esemény valósult meg.
+
+(5) A nemzeti emlékpontokat egységes arculatú – magyar és angol nyelvű – ismertető táblával kell megjelölni.
 
 61/G. § (1) Nemzeti emlékhellyé az a helyszín nyilvánítható, amely megfelel a 61/F. § (1) bekezdésében meghatározott feltételeknek és
 
@@ -1077,7 +1088,7 @@ kötelezi a tevékenységet végzőt.
 
 (2) A hatóság a tervezett tevékenység vagy beavatkozás elvégzéséhez nem járulhat hozzá, ha a tervezett beavatkozás a védett kulturális örökségi elemet veszélyezteti.
 
-63. § (1) A védett műemléki értéken végzett építési tevékenységek esetén az építésügyi és építésfelügyeleti hatóság jogszabályban meghatározott esetekben és módon építésügyi hatósági engedélyezési és kötelezési eljárást folytat le, ellenőrzést végez.
+63. § (1) A műemléken végzett építési tevékenységek esetén az építésügyi és építésfelügyeleti hatóság jogszabályban meghatározott esetekben és módon építésügyi hatósági engedélyezési és kötelezési eljárást folytat le, ellenőrzést végez.
 
 (2)
 
@@ -1129,9 +1140,9 @@ biztosító védelmet, továbbá az ezeket elősegítő közérdekű szempontok 
 
 67. § (1) A védett kulturális örökségi elemmel összefüggő tevékenységek vonatkozásában a hatóság:
 
-- a) az örökségvédelem szabályainak megsértése esetén a nyilvántartott műemléki értékek, műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését, a méltatlan használat megszüntetését,
-- b) nyilvántartott műemléki értékek, műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység folytatásától eltiltani,
-- c) elrendelheti a védett műemléki értékek állagmegóvására vagy jókarbantartására vonatkozó kötelezettség teljesítését,
+- a) az örökségvédelem szabályainak megsértése esetén a műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését, a méltatlan használat megszüntetését,
+- b) műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység folytatásától eltiltani,
+- c) elrendelheti a műemlékek állagmegóvására vagy jókarbantartására vonatkozó kötelezettség teljesítését,
 - d) a 61/K. § (6) bekezdése szerinti esetben és körben elrendelheti – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását,
 - e) amennyiben a nyilvántartott műemléki érték, műemlék jelenkori állapota – a védett vagy a védettséget megalapozó korábbi és jelentős építési korszak szerinti állapotától eltérően – szomszédos ingatlan kiemelt közérdekű beruházás részeként megvalósuló, jogszabályban meghatározott módon és feltételek szerint való beépítését vagy beépítését követő használatát akadályozza, elrendelheti épület, építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását a 43. § (5) és (5c) bekezdésében meghatározott célok érdekében és korlátok között. A hatóság a döntést azonnal végrehajthatóvá nyilváníthatja, ha kiemelten közérdekű beruházásnak a szomszédos ingatlanon való megvalósításával összefüggésben kerül sor a felújítás, illetve átalakítás elrendelésére, és a végrehajtás késedelme a kiemelten közérdekű beruházás megvalósítását akadályozza vagy késlelteti.
 
@@ -1191,7 +1202,7 @@ iránt.
 - a) a régészeti lelőhelyek,
 - b) a régészeti feltárási engedélyek és a feltárási dokumentációk,
 - c) a védetté nyilvánított régészeti lelőhelyek,
-- d) a nyilvántartott műemléki értékek, a műemlékek, a műemléki jelentőségű területek, a műemléki környezetek és a történeti tájak,
+- d) a műemlékek, a műemléki jelentőségű területek, a műemléki környezetek és a történeti tájak,
 - e) a világörökségi és a világörökségi várományos helyszínek és területek
 
 központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban meghatározottakkal összefüggő adatokat.
@@ -1240,7 +1251,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 - c) a cselekmény elkövetésének az idejét és helyét;
 - d) az eljáró szerv nevét és ügyszámát.
 
-74. § (1) A 11. § szerinti nyilvántartott régészeti lelőhely, a 28/A. § (1) bekezdése szerinti nyilvántartott műemléki érték, a 15. §-ban meghatározott védett régészeti lelőhellyé, régészeti védőövezetté és a 29. § (1) bekezdése szerinti műemlékké nyilvánítás tényét, a műemléki jelentőségű területet, a műemléki környezetet és a történeti tájat, mint jogi jelleget az ingatlan-nyilvántartásban fel kell jegyezni.
+74. § (1) A 11. § szerinti nyilvántartott régészeti lelőhely, a 15. §-ban meghatározott védett régészeti lelőhellyé, régészeti védőövezetté és a 29. § (1) bekezdése szerinti műemlékké nyilvánítás tényét, a műemléki jelentőségű területet, a műemléki környezetet és a történeti tájat, mint jogi jelleget az ingatlan-nyilvántartásban fel kell jegyezni.
 
 (2) Az (1) bekezdésben meghatározott jogi jelleg feljegyzése iránt az ezt megállapító végleges döntésével a hatóság megkeresi az ingatlanügyi hatóságot.
 
@@ -1332,10 +1343,17 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 - b) a 61/I. § (4) bekezdése szerinti tevékenységet a kiemelt nemzeti emlékhely és annak településkép-védelmi környezete területén a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül vagy az előzetes hozzájárulásban meghatározottaktól eltérő módon végzi,
 - c) a védetté nyilvánított vagy e törvény erejénél fogva védelem alatt álló kulturális örökség elemeit jogellenesen megsemmisíti vagy megrongálja, valamint
 - d) a védett kulturális örökségi elemet kötelezettségének elmulasztásával veszélyezteti,
-- e) régészeti feltárást feltárási jogosultság vagy műemléki területen szakértői tevékenységet szakértői jogosultság nélkül végez,
-- f) nyilvántartott régészeti lelőhelyen a hatóság engedélye vagy nyilatkozata nélkül beruházást valósít meg.
+- e) régészeti feltárást feltárási jogosultság vagy műemléki területen szakértői tevékenységet szakértői jogosultság nélkül végez, vagy szakértői jogosultsággal rendelkező személy – a kirendelt igazságügyi szakértő szakvéleménye szerint – szakszerűtlen, illetve szándékosan vagy súlyos gondatlanságból valótlan tartalmú szakvéleményt, dokumentációt készít,
+- f) nyilvántartott régészeti lelőhelyen a hatóság engedélye vagy nyilatkozata nélkül beruházást valósít meg,
+- g) kulturális javakon az e törvényben vagy más jogszabályban tiltott tevékenységet végez,
+- h) az e törvényben vagy más jogszabályban engedélyhez kötött tevékenységet a kulturális javakon engedély nélkül vagy attól eltérő módon végzi.
 
-(2) Bírsággal sújtható az, aki a jogszabály által előírt bejelentési kötelezettségének nem tesz eleget.
+(2) Bírsággal sújtható az, aki a jogszabály által előírt
+
+- a) bejelentési kötelezettségének, vagy
+- b) árverési hirdetményben a védettség tényéről szóló tájékoztatási kötelezettségének
+
+nem tesz eleget.
 
 (3) A bírságot a hatóság szabja ki.
 
@@ -1376,10 +1394,10 @@ iránt.
 
 86. § (1) A kulturális örökség védetté nyilvánított elemeire a Magyar Államot a 37–40. § kivételével elővásárlási jog illeti meg
 
-- a) ingatlanok esetében akkor, ha ezt a védetté nyilvánító, illetőleg a védettséget módosító rendelet kimondja. Amennyiben a műemlékekre több elővásárlási jog áll fenn, első helyen az államot, második helyen az ingatlant kezelő (vagy ingyenesen használó) önkormányzatot, harmadik helyen az ingatlan fekvése szerinti települési önkormányzatot illeti meg az elővásárlási jog;
+- a) kiemelten védett műemlék ingatlan esetében e törvény erejénél fogva, védett műemlék ingatlan esetében akkor, ha ezt a védetté nyilvánító vagy a védettséget módosító rendelet kimondja;
 - b) védetté nyilvánított kulturális javak ellenérték mellett történő tulajdonátruházása esetében.
 
-(1a) Az államot megillető elővásárlási jog a nyilvántartott műemléki értéken nem állhat fenn.
+(1a) Ha a műemlékre több elővásárlási jog áll fenn, első helyen az államot, második helyen az ingatlan vagyonkezelését ellátó (vagy azt ingyenesen használó) önkormányzatot, harmadik helyen az ingatlan fekvése szerinti települési önkormányzatot illeti meg az elővásárlási jog.
 
 (2) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a hatóság megkeresi az ingatlanügyi hatóságot.
 
@@ -1410,17 +1428,30 @@ gyakorolja.
 
 91. § E törvény nem érinti a kulturális örökség elemeinek a korábbi jogszabályok alapján megállapított védettségét.
 
-92. § (1) A fennálló egyedi védettségű műemlékek kategóriába sorolását a 35/A. §-nak megfelelően jogszabályban meghatározottak szerint kell végezni.
+#### 92. §
 
-(2) A III. kategóriába sorolt műemlékek 2016. január 1-jétől nyilvántartott műemléki értéknek minősülnek, a műemléki környezetük és az államot megillető elővásárlási jog megszűnik.
+92/A. § (1) A 2020. augusztus 31-én I. kategóriába sorolt műemlékek e törvény erejénél fogva 2020. szeptember 1-jével kiemelten védett műemlékké, a II. kategóriába sorolt műemlékek, valamint a nyilvántartott műemléki értékek e törvény erejénél fogva védett műemlékké válnak.
 
-(3) A (2) bekezdés alapján nyilvántartott műemléki értékké minősülő műemlékek esetében a 28/A. § (2) bekezdését nem kell alkalmazni.
+(2) A 2020. szeptember 1-jével védett műemlék kategóriába került műemlékeket
 
-(4)
+- a) a 29. § (2) bekezdése alapján, vagy
+- b) a hatósággal előzetesen egyeztetett, a műemlék tulajdonosa megbízásából a 75/A. §-a szerinti szakértő által
 
-(5) A 2015. január 1-jét megelőzően védetté nyilvánított műemlékek esetében az I. örökségvédelmi bírságkategóriába tartozó műemlékek I. kategóriába sorolt műemléknek, míg a II. örökségvédelmi bírságkategóriába tartozó műemlékek II. kategóriába sorolt műemléknek minősülnek.
+elkészített értékmeghatározó szakértői vizsgálat hatóság által történő kiértékelését követően a védettséget kimondó rendelet módosításáig vagy a műemléki védelem megszüntetéséig a 2020. augusztus 31-én fennálló jogi védelem illeti meg.
 
-#### 92/A. §
+(3) A (2) bekezdés szerinti értékmeghatározó szakértői vizsgálatnak a hatóság által kiértékelt és elfogadott eredménye alapján a 2020. szeptember 1-jén védett műemlékké nyilvánított műemlék
+
+- a) kiemelten védett műemlékként nyilvántartásba vehető,
+- b) védett műemlékként nyilvántartásba vehető, megjelölve a védelem alapját képező nevesített műemléki értékeket, vagy
+- c) védettségének megszüntetését a hatóság kezdeményezheti.
+
+(4) A 2020. szeptember 1-jével kiemelten védett műemlék kategóriába került műemlékek esetében indokolt esetben van lehetőség a (2) bekezdés szerinti értékmeghatározó szakértői vizsgálatra azzal, hogy annak eredménye alapján a műemlék kiemelten védett kategóriában marad, vagy a műemlék vonatkozásában a (3) bekezdés b) pontját alkalmazzák.
+
+(5) Az 1945-ben vagy azt követően tervezett és megépült műemléki értékek tekintetében az értékmeghatározó szakértői vizsgálatot úgy kell elkészíteni, hogy azt a hatóság 2021. augusztus 31-ig ki tudja értékelni.
+
+(6) Ha a műemléki védettség megszüntetésével egyidejűleg értékvizsgálati dokumentáció alapján került sor a nyilvántartott műemléki érték jelleg megállapítására, értékmeghatározó szakértői vizsgálat nélkül alkalmazhatók a (3) bekezdés b) pontjában foglaltak.
+
+(7) A védett műemlékek vonatkozásában az elővásárlási jog akkor áll fenn, ha azt a védetté nyilvánító vagy a védettséget módosító rendelet kimondja, vagy az elővásárlási jog a 86. § (4) bekezdése alapján áll fenn. A 2020. augusztus 31-én nyilvántartott műemléki érték kategóriába tartozó ingatlanok vonatkozásában az államot elővásárlási jog nem illeti meg.
 
 92/B. § E törvénynek az egyes kulturális tárgyú törvények módosításáról szóló 2013. évi CCXVII. törvénnyel (a továbbiakban: Módtv.) megállapított 61/I–61/K. §-át a Módtv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -1488,7 +1519,8 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 - 21. állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység megelőzésének és az ellenőrzésnek a rendjét, a kiemelt nemzeti emlékhely területére vonatkozó közterület-használat szabályait és díjait;
 - 22. állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – a 61/L. § szerinti közigazgatási bírság, helyszíni bírság megállapításának és megfizetése módjának részletszabályait;
 - 23. szabályozza a nemzeti emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti emlékhely szellemével összhangban álló – használati rendjét, valamint meghatározza a nemzeti emlékhely fenntartható használatát elősegítő támogatási szerződés megkötésével kapcsolatos részletszabályokat;
-- 24. szabályozza a hadtörténeti örökség terepkutatásával és védetté nyilvánításával kapcsolatos részletszabályokat.
+- 24. szabályozza a hadtörténeti örökség terepkutatásával és védetté nyilvánításával kapcsolatos részletszabályokat;
+- 25. szabályozza a nevesített műemléki értékek meghatározását szolgáló értékmeghatározó szakértői vizsgálat részletes tartalmi elemeit, valamint a dokumentáció elkészítésének és kiértékelésének rendjét.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével –
 
@@ -1524,7 +1556,9 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 
 (6) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza:
 
-- a)–c)
+- a) a nemzeti emlékpontként meghatározott helyszínek körét,
+- b)
+- c)
 - d) a könyvtárakban levő muzeális dokumentumok kezelésével és nyilvántartásával kapcsolatos külön szabályokat,
 - e)–f)
 - g) a miniszterrel egyetértésben az elsődleges leletfeldolgozásra, a leletanyag végleges befogadására vonatkozó szabályokat,
@@ -1539,6 +1573,8 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 (2) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv rendelkezéseinek történő megfelelést szolgáló rendelkezéseket állapít meg.
 
 (3) A 19. § (4) bekezdése, 20. § (4) bekezdése, 23/G. §-a tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+(4) Ez a törvény a kulturális javak bejuttatásáról és behozataláról szóló, 2019. április 17-i (EU) 2019/880 európai parlamenti és tanácsi rendelet 11. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 95. §
 

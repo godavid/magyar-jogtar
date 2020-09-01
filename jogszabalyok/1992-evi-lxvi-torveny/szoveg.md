@@ -605,11 +605,18 @@ van lehetőség.
 
 26. § (1) A Magyarország területén élő, e törvény hatálya alá tartozó polgár [4. § (1) bekezdés] köteles beköltözés vagy kiköltözés után három munkanapon belül lakóhelyének, illetve tartózkodási helyének címét nyilvántartásba vétel céljából bejelenteni (a továbbiakban együtt: lakcímbejelentés).
 
-(1a) A lakcímbejelentési eljárás során a polgár a tároló elemmel ellátott személyazonosító igazolványát a lakcímadatok tároló elemen történő rögzítése céljából köteles a lakcímbejelentési eljárást lefolytató hatóságnak átadni, a tároló elemmel ellátott személyazonosító igazolvány hiánya a lakcímbejelentési eljárás lefolytatásának nem akadálya. A lakcímbejelentési eljárást lefolytató hatóság a lakcímadatot a polgár tároló elemmel rendelkező személyazonosító igazolványán a lakcímadat nyilvántartásba vételével egyidejűleg rögzíti, ezt követően a tároló elemmel ellátott személyazonosító igazolványt a polgár részére haladéktalanul visszaadja.
+(1a) A lakcímbejelentési eljárás során a polgár a tároló elemmel ellátott személyazonosító igazolványát a lakcímadatok tároló elemen történő rögzítése céljából köteles a lakcímbejelentési eljárást lefolytató hatóságnak átadni, kivéve, ha a lakcímbejelentési eljárást elektronikus kapcsolattartás útján kezdeményezte. A tároló elemmel ellátott személyazonosító igazolvány hiánya a lakcímbejelentési eljárás lefolytatásának nem akadálya. A lakcímbejelentési eljárást lefolytató hatóság – az elektronikus kapcsolattartás útján kezdeményezett lakcímbejelentési eljárás kivételével – a lakcímadatot a polgár tároló elemmel rendelkező személyazonosító igazolványán a lakcímadat nyilvántartásba vételével egyidejűleg rögzíti, ezt követően a tároló elemmel ellátott személyazonosító igazolványt a polgár részére haladéktalanul visszaadja.
 
-(1b) Ha a polgár a lakcímbejelentési eljárás időpontjában eltulajdonítás, elvesztés vagy megsemmisülés miatt érvényes tároló elemmel ellátott személyazonosító igazolvánnyal nem rendelkezik, az egyéb okból érvénytelen, vagy a lakcímadat rögzítésének átmeneti jellegű műszaki vagy technikai akadálya áll fenn, a lakcímadatot az új tároló elemmel ellátott személyazonosító igazolvány kiadását követően a személyiadat- és lakcímnyilvántartási kapcsolat rendelkezésre állásakor hivatalból kell rögzíteni.
+(1b) Ha a polgár a lakcímbejelentési eljárást elektronikus kapcsolattartás útján indította meg, vagy ha a lakcímbejelentési eljárás időpontjában
 
-(2) A lakcímbejelentés bármely járási hivatalnál teljesíthető. Az értesítési cím bejelentése bármely járási hivatalnál, kijelölt kormányhivatalnál és a nyilvántartást kezelő központi szervnél teljesíthető. A lakcímbejelentés – jogszabályban meghatározott kivétellel – személyes megjelenéssel teljesíthető. Az értesítési cím elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelenthető.
+- a) a polgár érvényes személyazonosító igazolványa helyett személyazonosságát a személyazonosság igazolására alkalmas más hatósági igazolvánnyal igazolja, vagy
+- b) a lakcímadat rögzítésének átmeneti jellegű műszaki vagy technikai akadálya áll fenn,
+
+a lakcímadatot jogszabályban meghatározott eljárásban utólagosan, a polgár kérelmére kell rögzíteni.
+
+(1c) Ha a polgár a lakcímbejelentési eljárás időpontjában érvényes személyazonosító igazolvánnyal nem rendelkezik, a lakcímadatot az új tároló elemmel ellátott személyazonosító igazolvány kiállítása során hivatalból kell rögzíteni.
+
+(2) A lakcímbejelentés bármely járási hivatalnál teljesíthető. Az értesítési cím bejelentése bármely járási hivatalnál, kijelölt kormányhivatalnál és a nyilvántartást kezelő szervnél teljesíthető. Az értesítési cím bejelentése, valamint – jogszabályban meghatározott esetekben – a lakcímbejelentés elektronikus azonosítást követően elektronikus kapcsolattartás útján is teljesíthető.
 
 (2a) Ha a 4. § (2c) bekezdése szerinti polgár Magyarország területén kíván életvitelszerűen élni, első lakóhely bejelentését a nyilatkozat megtételével vagy a magyar állampolgárság igazolása iránti kérelem benyújtásával egyidejűleg az állampolgársági ügyekben eljáró szervnél köteles teljesíteni.
 
@@ -626,7 +633,7 @@ van lehetőség.
 - a) személyesen, vagy
 - b) elektronikus azonosítást követően elektronikus kapcsolattartás útján kell bejelentenie (a továbbiakban: külföldi letelepedési nyilatkozat).
 
-(3a) A magyarországi letelepedés szándékával külföldről hazatérő magyar állampolgár a nyilvántartásba vételhez szükséges adatainak bejelentését – jogszabályban meghatározott kivétellel – személyes megjelenéssel teljesíti.
+(3a) A magyarországi letelepedés szándékával külföldről hazatérő magyar állampolgár a nyilvántartásba vételhez szükséges adatainak bejelentését személyes megjelenéssel, vagy jogszabályban meghatározott esetekben elektronikus azonosítást követően elektronikus kapcsolattartás útján teljesíti.
 
 (4) A lakcímbejelentéshez – jogszabályban meghatározott kivétellel – a szállásadó hozzájárulása szükséges.
 
@@ -640,7 +647,7 @@ van lehetőség.
 
 (7)
 
-(8) A külföldön élő magyar állampolgár magyarországi tartózkodási helyét bármely járási hivatalnál bejelentheti.
+(8) A külföldön élő magyar állampolgár magyarországi tartózkodási helyét bármely járási hivatalnál bejelentheti. A külföldön élő magyar állampolgár magyarországi tartózkodási helyét jogszabályban meghatározott esetben elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelentheti.
 
 (9) A külföldön élő magyar állampolgár nyilvántartási ügyében az ügyintézési határidő 30 nap.
 

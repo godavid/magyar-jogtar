@@ -1327,7 +1327,10 @@ alakul át.
 - i) bíróság, hatóság, Közszolgálati Döntőbizottság vagy etikai eljárás lefolytatása során az MKK felhívására vagy az eljárásban való személyes részvételhez szükséges időtartamra,
 - j) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára, továbbá
 - k) e törvényben, e törvény végrehajtására kiadott jogszabályban, valamint a közszolgálati szabályzatban meghatározott időtartamra,
-- l) a munkáltató engedélye alapján.
+- l) a munkáltató engedélye alapján,
+- m) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.
+
+79/A. § A 79. § m) pontja szerinti esetben a kormánytisztviselőt a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a kormánytisztviselő legalább öt munkanappal korábban tájékoztatja a munkáltatót.
 
 ### Kormánytisztviselő képzése, továbbképzése
 
@@ -1664,7 +1667,7 @@ megfelelő mértékű szabadidő jár.
 - c) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság [111. §, 113. § (1) bekezdése] első hat hónapjának,
 - d) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizetés nélküli szabadság,
 - e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartamára,
-- f) a 79. § a), b), h) és j) pontjaiban meghatározott esetekben, valamint
+- f) a 79. § a), b), h), j) és m) pontjaiban meghatározott esetekben, valamint
 - g) minden olyan munkában nem töltött időre, amelyre a kormánytisztviselő illetményre jogosult [144. § (3) bekezdése].
 
 ### Alap- és pótszabadság
@@ -2214,7 +2217,7 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 (3) A kormánytisztviselőt illetmény illeti meg
 
 - a) a szabadság,
-- b) 79. § c)–g) és i) pontjaiban meghatározott esetekben,
+- b) 79. § c)–g), i) és m) pontjában meghatározott esetekben,
 - c) ha e törvény munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő
 - d) a munkaszüneti nap miatt kiesett időre.
 
