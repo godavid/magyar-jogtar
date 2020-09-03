@@ -33,21 +33,53 @@ a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes tö
 
 #### 2. A részvényesek azonosítása
 
-3. §
+3. § (1) A társaság jogosult a részvényesei azonosítására. A társaság vagy a társaság által megjelölt harmadik fél kérésére a közvetítő – a 2007/36/EK európai parlamenti és tanácsi irányelvnek a részvényesek azonosítására, az információk továbbítására és a részvényesi jogok gyakorlásának megkönnyítésére vonatkozó rendelkezések tekintetében történő végrehajtására vonatkozó minimumkövetelmények megállapításáról szóló, 2018. szeptember 3-i 2018/1212/EU bizottsági végrehajtási rendeletben (a továbbiakban: 2018/1212/EU rendelet) előírt tartalommal és formában – közli a társasággal a részvényes adatait.
 
-4. §
+(2) Több közvetítőből álló közvetítői lánc (a továbbiakban: közvetítői lánc) esetén a közvetítő a társaság kérésére közli a társasággal az (1) bekezdésben meghatározott információkon túl a közvetítői láncban következő közvetítő nevét, székhelyét és elektronikus elérhetőségét.
+
+(3) Közvetítői lánc esetén a közvetítő a közvetítői láncban az őt követő közvetítőnek továbbítja a társaság vagy a társaság által megjelölt harmadik fél megkeresését. Erre irányuló kérés esetén továbbá közli a (2) bekezdésben meghatározott, a következő közvetítőre vonatkozó információt a társasággal vagy a társaság által megjelölt harmadik féllel. A részvényes személyazonosságára vonatkozó információt bármely, a közvetítői láncban az információ birtokában lévő közvetítő közvetlenül közli a társasággal vagy a társaság által megjelölt harmadik féllel.
+
+(4) A társaság felhívására a közvetítő köteles nyilatkozni arról, hogy a szavazati jog gyakorlására a részvényes utasítása alapján vagy annak hiányában, saját döntése alapján kerül sor.
+
+(5) A társaság a részvényesek azonosításához szükséges információk összegyűjtésére és a közvetítőkkel való kapcsolattartásra közvetítőnek (a továbbiakban: megbízott) megbízást adhat. A megbízott megkeresése alapján a közvetítők ezen alcímben meghatározott kötelezettségeiket a megbízott felé teljesítik, azonban a közvetítő kérésére a megbízott igazolja a megbízás fennállását.
+
+4. § (1) A természetes személy részvényes a 3. § (1) bekezdésben meghatározott személyes adatait a társaság ezen alcím alapján abból a célból kezeli és dolgozza fel, hogy azonosítani tudja a meglévő részvényeseit annak érdekében, hogy a részvényesi jogok gyakorlása és a részvényesi szerepvállalás biztosítása körében közvetlenül kommunikálhasson velük, valamint, hogy az alapszabály szerinti szavazati jogok gyakorlásának korlátozására vonatkozó rendelkezéseket érvényesítse.
+
+(2) Ha törvény vagy az Európai Unió közvetlenül alkalmazandó jogi aktusa eltérően nem rendelkezik, a közvetítők és a társaság a természetes személy részvényes személyes adatait e törvényben meghatározott célból legfeljebb tizenkét hónapig jogosultak tárolni azt követően, hogy tudomást szereztek arról, hogy az érintett személy már nem részvényese a társaságnak.
+
+(3) A társaság jogosult a közvetítőtől kapott tájékoztatás helyesbítését kérni, ha a részvényes személyazonosságára vonatkozó információ hiányos vagy pontatlan.
+
+(4) A közvetítő ezen alcímben foglalt kötelezettségének teljesítése nem minősül a részvényes személyazonosságára vonatkozó információk nyilvánosságra hozatalának, és nem tekinthető a részvényessel fennálló szerződésben, jogszabályban, hatósági határozatban előírt nyilvánosságra hozatali korlátozás megsértésének.
 
 #### 3. Részvényes tájékoztatása a társasági eseményekről, a közgyűlésen lezajlott elektronikus szavazás visszaigazolása
 
-5. §
+5. § (1) A társaság – a 2018/1212/EU rendeletben előírt tartalommal és formában – köteles a közvetítő részére azokat az információkat átadni, amelyek a részvényesi jogok gyakorlásához szükségesek. Ha ezen információk a társaság honlapján elérhetőek, akkor erről a tényről és arról kell a közvetítőt értesíteni, hogy a honlapon hol találhatóak az információk.
 
-6. §
+(2) Az (1) bekezdés szerinti kötelezettség nem vonatkozik arra az esetre, amikor a részvényes a társaságtól közvetlenül kapja meg a tájékoztatást.
 
-7. §
+(3) A közvetítő az (1) bekezdés szerinti módon a tudomására jutott információkat megküldi a részvényesnek vagy a részvényes által megjelölt személynek.
+
+(4) A közvetítő tájékoztatja a társaságot a részvényes által rendelkezésre bocsátott, a részvényesi jogok gyakorlásával kapcsolatos információkról.
+
+(5) Az e §-ban foglalt kötelezettség fennáll akkor is, ha közvetítői láncon keresztül kell az információt eljuttatni a címzettnek.
+
+(6) A társaság az (1) bekezdés szerinti kötelezettségének eleget tehet úgy is, hogy a részvényesi jogok gyakorlásához szükséges információkat a központi értéktár részére juttatja el. Ebben az esetben a központi értéktár köteles az információkat az érintett közvetítőknek a 2018/1212/EU rendeletben előírt tartalommal és formában továbbítani.
+
+6. § A közvetítő a 3–5. §-ban meghatározott, a részvényesek azonosítása során, valamint a társasági eseményekkel összefüggő kommunikáció során előírt kötelezettségének haladéktalanul, de legkésőbb a 2018/1212/EU rendeletben meghatározott határidőn belül köteles eleget tenni.
+
+7. § (1) Ha a Ptk. 3:281. § (3) bekezdése alapján a konferencia-közgyűlésen elektronikus hírközlő eszközök igénybevételével történő szavazásról – a 2018/1212/EU rendeletben előírt tartalommal és formában – a közvetítő a társaságtól kap visszaigazolást, azt köteles a részvényesnek haladéktalanul továbbítani. E rendelkezést kell alkalmazni akkor is, ha közvetítői láncon keresztül kell a tájékoztatást a részvényesnek eljuttatni.
+
+(2) A Ptk. 3:273. § (5) bekezdése szerinti esetben a részvényes a kérelmét a közgyűlés napját követő harminc napon belül nyújthatja be, és a visszaigazolást a társaság a részvényes kérelme érkezésétől számított tizenöt napon belül köteles közölni. A közvetítővel való közlés esetén az (1) bekezdésben foglaltakat kell alkalmazni.
+
+(3) Ha a társaság az (1) bekezdésben, illetve a (2) bekezdésben meghatározott visszaigazolási kötelezettségének nem tesz eleget, a részvényes a közgyűlés által hozott határozat bírósági felülvizsgálata iránt akkor is jogosult pert indítani, ha a határozat meghozatalához szavazatával hozzájárult.
 
 #### 4. A közvetítő szolgáltatásának költségei, a harmadik országbeli közvetítők
 
-8. §
+8. § (1) A közvetítő köteles a 3–7. §-ban meghatározott szolgáltatásokra, továbbá a részvényesek azonosítását szolgáló szolgáltatásra alkalmazandó költségeket szolgáltatásonkénti bontásban nyilvánosságra hozni.
+
+(2) A költségeknek megkülönböztetéstől mentesnek és a szolgáltatások nyújtása során felmerülő konkrét költségekkel arányosaknak kell lenniük. A határokon átnyúló szolgáltatások után felszámolt költségek csak szolgáltatás teljesítése során ténylegesen felmerült többletköltségek mértékével haladhatják meg a belföldi szolgáltatás költségeit.
+
+(3) A 3–7. §-okban és az (1) és (2) bekezdésben foglaltak arra a közvetítőre is kiterjednek, amely a szolgáltatás nyújtásakor sem létesítő okirat szerinti székhellyel, sem központi ügyintézési hellyel nem rendelkezik az Európai Unió területén.
 
 ### III. Fejezet — AZ INTÉZMÉNYI BEFEKTETŐK, AZ ESZKÖZKEZELŐK ÉS A RÉSZVÉNYESI KÉPVISELETI TANÁCSADÓK ÁTLÁTHATÓSÁGA
 
@@ -260,7 +292,7 @@ a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes tö
 
 #### 12. Átmeneti rendelkezések
 
-29. § (1)
+29. § (1) E törvény 2. és 3. alcímét 2020. szeptember 3-át követő részvényesi azonosításra, társasági eseményről való részvényesi tájékoztatásra, közgyűlési szavazásra kell alkalmazni.
 
 (2) E törvény 5. és 6. alcímét e törvény hatálybalépését követően induló üzleti évtől kell alkalmazni.
 
@@ -268,7 +300,7 @@ a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes tö
 
 (4) A 19. § (2) bekezdés b) pontja szerinti kötelezettségének a nyilvánosan működő részvénytársaság az e törvény alapján elfogadott javadalmazási politika alkalmazásának első öt üzleti évében úgy tesz eleget, hogy csak a már az e törvény alapján elfogadott javadalmazási politikákra vonatkozóan alkalmazza a rendelkezést.
 
-(5)
+(5) A Ptk. e törvénnyel megállapított 3:273. § (5) bekezdését és a 3:281. § (3) bekezdését az 2020. szeptember 3-át követő időpontra összehívott közgyűlésre kell alkalmazni.
 
 (6) A Ptk. e törvénnyel megállapított 3:268. § (2)–(4) bekezdéseit és 3:279. § (2) bekezdését először az e rendelkezések hatálybalépését követő első javadalmazási politikára és az ennek alapján készült első javadalmazási jelentésre kell alkalmazni.
 
@@ -284,7 +316,7 @@ a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes tö
 
 31. § (1) Az 1–27. §, a 90. §, a 115. §, a 123–126. § a 2007/36/EK irányelvnek a hosszú távú részvényesi szerepvállalás ösztönzése tekintetében történő módosításáról szóló, 2017. május 17-i (EU) 2017/828 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(2)
+(2) A 3–8. § a 2007/36/EK európai parlamenti és tanácsi irányelvnek a részvényesek azonosítására, az információk továbbítására és a részvényesi jogok gyakorlásának megkönnyítésére vonatkozó rendelkezések tekintetében történő végrehajtására vonatkozó minimumkövetelmények megállapításáról szóló, 2018. szeptember 3-i (EU) 2018/1212 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (3) A 32. §, a 34. §, a 36–38. § az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló, 2014. október 22-i 2014/94/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
@@ -486,7 +518,9 @@ lép.
 
 #### 23. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
-90. §
+90. § A tőkepiacról szóló 2001. évi CXX. törvény 149. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Dematerializált értékpapír esetén a kibocsátó kérelme vagy a Felügyelet határozata alapján tulajdonosi megfeleltetésre kerülhet sor. A Felügyelet tulajdonosi megfeleltetésről akkor határozhat, ha ez feladatai ellátása érdekében szükséges. A tulajdonosi megfeleltetést a központi értéktár által meghatározott eljárási rend szerint, a kibocsátó kérelmében vagy a Felügyelet határozatában megjelölt időpontban hatályos adatokra nézve kell végrehajtani. A tulajdonosi megfeleltetést nyilvánosan működő részvénytársaság számára külön jogszabályban biztosított részvényesi azonosításra vonatkozó előírások sérelme nélkül kell végrehajtani.”
 
 #### 24. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
@@ -553,7 +587,11 @@ lép.
 
 #### 29. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-115. §
+115. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 120. §-a a következő w) ponttal egészül ki:
+
+(Nem jelenti az értékpapírtitok sérelmét)
+
+„w) a nyilvánosan működő részvénytársaság számára külön jogszabályban biztosított részvényesi azonosítás érdekében az értékpapírszámla-vezető részéről a nyilvánosan működő részvénytársaság részére nyújtott adatszolgáltatás.”
 
 #### 30. A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló2008. évi XLVII. törvény módosítása
 
@@ -579,11 +617,15 @@ lép.
 
 123. §
 
-124. §
+124. § A Ptk. 3:273. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A részvényes kérelmére a részvényesnek vagy az általa megjelölt személynek az igazgatóság köteles visszaigazolni, hogy a részvényes szavazatát a közgyűlésen szabályszerűen rögzítették és azt beszámították, kivéve, ha a szükséges tájékoztatás a részvényes rendelkezésére áll.”
 
 125. §
 
-126. §
+126. § A Ptk. 3:281. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Ha a konferencia-közgyűlésen elektronikus hírközlő eszközök igénybevételével történő szavazásra kerül sor, biztosítani kell, hogy az elektronikus hírközlő eszközzel szavazó részvényes elektronikus visszaigazolást kapjon a szavazat leadásáról.”
 
 127. §
 

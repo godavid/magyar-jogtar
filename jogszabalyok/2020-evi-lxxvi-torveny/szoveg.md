@@ -307,7 +307,7 @@ lép.
 
 99. §
 
-100. § Hatályát veszti a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 10. § i) pontja.
+100. §
 
 #### 37. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
