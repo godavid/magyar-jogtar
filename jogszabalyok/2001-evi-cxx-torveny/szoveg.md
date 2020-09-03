@@ -1382,7 +1382,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 ### Tulajdonosi megfeleltetés
 
-149. § (1) Dematerializált értékpapír esetén a kibocsátó kérelme vagy a Felügyelet határozata alapján tulajdonosi megfeleltetésre kerülhet sor. A Felügyelet tulajdonosi megfeleltetésről akkor határozhat, ha ez feladatai ellátása érdekében szükséges. A tulajdonosi megfeleltetést a központi értéktár által meghatározott eljárási rend szerint, a kibocsátó kérelmében vagy a Felügyelet határozatában megjelölt időpontban hatályos adatokra nézve kell végrehajtani.
+149. § (1) Dematerializált értékpapír esetén a kibocsátó kérelme vagy a Felügyelet határozata alapján tulajdonosi megfeleltetésre kerülhet sor. A Felügyelet tulajdonosi megfeleltetésről akkor határozhat, ha ez feladatai ellátása érdekében szükséges. A tulajdonosi megfeleltetést a központi értéktár által meghatározott eljárási rend szerint, a kibocsátó kérelmében vagy a Felügyelet határozatában megjelölt időpontban hatályos adatokra nézve kell végrehajtani. A tulajdonosi megfeleltetést nyilvánosan működő részvénytársaság számára külön jogszabályban biztosított részvényesi azonosításra vonatkozó előírások sérelme nélkül kell végrehajtani.
 
 (2) A tulajdonosi megfeleltetés esetén az értékpapírszámla-vezető átadja a központi értéktárnak azoknak az értékpapírszámla-tulajdonosoknak az azonosító adatait és értékpapírjaik darabszámát, akik a tulajdonosi megfeleltetést elrendelő felügyeleti határozatban vagy a tulajdonosi megfeleltetésre vonatkozó kibocsátói kérelemben meghatározott időpontban, az ott meghatározott dematerializált értékpapírral rendelkeznek.
 

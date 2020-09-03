@@ -2863,7 +2863,8 @@ részére,
 - s) a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás,
 - t) a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás,
 - u) a befektetési vállalkozás ügyfele által nyilvánosságra hozott állítással összefüggésben a befektetési vállalkozás részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés,
-- v) a hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás Hpt. 164/B. § szerinti kölcsönös adatátadása.
+- v) a hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás Hpt. 164/B. § szerinti kölcsönös adatátadása,
+- w) a nyilvánosan működő részvénytársaság számára külön jogszabályban biztosított részvényesi azonosítás érdekében az értékpapírszámla-vezető részéről a nyilvánosan működő részvénytársaság részére nyújtott adatszolgáltatás.
 
 120/A. § (1) A Hpt. 164/B. §-a alapján átvett adatokat a befektetési vállalkozás tevékenységi köre ellátásával összefüggésben a szolgáltatásai nyújtásához szükséges mértékben megismerheti, és az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelheti, ha az ügyfél az adattovábbítást a (2) bekezdés szerint nem korlátozta vagy tiltotta meg.
 
