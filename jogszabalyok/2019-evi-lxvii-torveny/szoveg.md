@@ -518,9 +518,7 @@ lép.
 
 #### 23. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
-90. § A tőkepiacról szóló 2001. évi CXX. törvény 149. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Dematerializált értékpapír esetén a kibocsátó kérelme vagy a Felügyelet határozata alapján tulajdonosi megfeleltetésre kerülhet sor. A Felügyelet tulajdonosi megfeleltetésről akkor határozhat, ha ez feladatai ellátása érdekében szükséges. A tulajdonosi megfeleltetést a központi értéktár által meghatározott eljárási rend szerint, a kibocsátó kérelmében vagy a Felügyelet határozatában megjelölt időpontban hatályos adatokra nézve kell végrehajtani. A tulajdonosi megfeleltetést nyilvánosan működő részvénytársaság számára külön jogszabályban biztosított részvényesi azonosításra vonatkozó előírások sérelme nélkül kell végrehajtani.”
+90. §
 
 #### 24. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
@@ -587,11 +585,7 @@ lép.
 
 #### 29. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-115. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 120. §-a a következő w) ponttal egészül ki:
-
-(Nem jelenti az értékpapírtitok sérelmét)
-
-„w) a nyilvánosan működő részvénytársaság számára külön jogszabályban biztosított részvényesi azonosítás érdekében az értékpapírszámla-vezető részéről a nyilvánosan működő részvénytársaság részére nyújtott adatszolgáltatás.”
+115. §
 
 #### 30. A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló2008. évi XLVII. törvény módosítása
 
@@ -617,15 +611,11 @@ lép.
 
 123. §
 
-124. § A Ptk. 3:273. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A részvényes kérelmére a részvényesnek vagy az általa megjelölt személynek az igazgatóság köteles visszaigazolni, hogy a részvényes szavazatát a közgyűlésen szabályszerűen rögzítették és azt beszámították, kivéve, ha a szükséges tájékoztatás a részvényes rendelkezésére áll.”
+124. §
 
 125. §
 
-126. § A Ptk. 3:281. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Ha a konferencia-közgyűlésen elektronikus hírközlő eszközök igénybevételével történő szavazásra kerül sor, biztosítani kell, hogy az elektronikus hírközlő eszközzel szavazó részvényes elektronikus visszaigazolást kapjon a szavazat leadásáról.”
+126. §
 
 127. §
 
