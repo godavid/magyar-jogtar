@@ -8953,6 +8953,8 @@ eléri, kivéve az ügydöntő határozat kihirdetése után elrendelt vagy fenn
 
 (6) A személyi szabadságot érintő bírói engedélyes kényszerintézkedésről szóló határozatot és az ügydöntő határozatot a fiatalkorú gondozását ellátó nagykorú személlyel is közölni kell.
 
+693/A. § Ha a bíróság a fiatalkorú vádlottat szándékos bűncselekmény elkövetésében bűnösnek mondja ki vagy szabálysértés elkövetéséért a felelősségét megállapítja, akkor a bűnügyi költség viselésére a fiatalkorú vádlott gondozását a cselekmény elkövetésének idején ellátó nagykorú személyt is kötelezheti.
+
 ### A külön eljárásokra és különleges eljárásokra vonatkozó eltérő szabályok
 
 694. § (1) A büntetővégzés meghozatalára irányuló eljárásban a törvényes képviselő a fiatalkorú hozzájárulása nélkül is indítványozhatja a tárgyalás tartását.

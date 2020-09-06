@@ -198,7 +198,9 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
   - ab) a gyermek (személy) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma nem haladta meg az ötöt; vagy
 - b) a (2) bekezdésben meghatározott esetek valamelyike következett be.
 
-16. §
+### A bűncselekmény elkövetéséért elítélt gyermekre (személyre) tekintettel folyósított iskoláztatási támogatás szüneteltetésével összefüggő rendelkezések
+
+16. § Ha a tanköteles, vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben vagy szakképző intézményben tanulmányokat folytató gyermeket (személyt) a bíróság szándékos bűncselekmény elkövetése miatt jogerősen bűnösnek mondta ki, de büntetésként rá szabadságvesztést nem szabott ki, a gyermekre (személyre) tekintettel megállapított iskoláztatási támogatást a családtámogatási ügyben eljáró hatóság – az ítéletet hozó bíróság központi családtámogatási szervnek megküldött tájékoztatása alapján, a szüneteltetés elrendelése hónapjától számított 12 naptári hónapon át – szünetelteti.
 
 17. §
 
