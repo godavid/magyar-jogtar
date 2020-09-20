@@ -496,17 +496,17 @@ figyelemfelhívás.
 
 39. § (1) Az audiovizuális médiaszolgáltatás médiaszolgáltatójának törekednie kell arra, hogy műsorszámait folyamatosan és fokozatosan egyre akadálymentesebben hozzáférhetővé tegye a fogyatékkal élő személyek számára.
 
-(2) Az országos audiovizuális médiaszolgáltató köteles biztosítani, hogy – a televíziós vásárlási műsorablak, reklám és a műsorelőzetesek kivételével – valamennyi műsorszáma magyar nyelvű felirattal – például teletext szolgáltatáson keresztül – vagy jelnyelvi tolmácsolással is elérhető legyen.
+(2) Az országos audiovizuális médiaszolgáltató – amennyiben előző naptári évi átlagos közönségaránya az 1%-ot meghaladja – köteles biztosítani, hogy – a televíziós vásárlási műsorablak, reklám és a műsorelőzetesek kivételével – valamennyi műsorszáma magyar nyelvű felirattal – például teletext szolgáltatáson keresztül – vagy jelnyelvi tolmácsolással is elérhető legyen.
 
-(2a) A közszolgálati, illetve – legnagyobb éves átlagos közönségaránnyal rendelkező médiaszolgáltatása vonatkozásában – a JBE audiovizuális médiaszolgáltató köteles biztosítani, hogy a 18 óra 30 perc és 21 óra 30 perc közötti idősávban a hazai gyártású műsorait a látássérült nézők számára – például hangalámondás vagy hangos feliratozás útján – hozzáférhetővé tegye.
+(2a) A legnagyobb éves átlagos közönségaránnyal rendelkező médiaszolgáltatása vonatkozásában a közszolgálati, illetve a JBE audiovizuális médiaszolgáltató köteles biztosítani, hogy a 18 óra 30 perc és 21 óra 30 perc közötti idősávban a hazai gyártású filmalkotásokat a látássérült nézők számára hozzáférhetővé tegye.
 
 (3) A (2) bekezdésben meghatározott kötelezettség nem vonatkozik az eredeti nyelven elérhetővé tett műsorszámokra, ide nem értve a 99. § (2) bekezdése alapján közzétett műsorszámokat.
 
-(4) Az (1) bekezdésben meghatározott kötelezettség 2012. évben legalább hatórányi, 2013. évben legalább nyolcórányi, 2014. évben legalább tízórányi napi műsoridő vonatkozásában terheli a kötelezetteket.
+(4) A hallássérültek tekintetében meghatározott kötelezettség 2012. évben legalább hatórányi, 2013. évben legalább nyolcórányi, 2014. évtől legalább tízórányi napi műsoridő vonatkozásában terheli a kötelezetteket.
 
-(5) A feliratozással, illetve jelnyelvi tolmácsolással megkezdett műsorszámot – a műsorszám egységét nem sértve –, valamint műsorszámok egymással dramaturgiailag összekapcsolódó sorozatát a médiaszolgáltató köteles annak teljes időtartama alatt feliratozni, illetve jelnyelvi tolmácsolással ellátni.
+(5) A feliratozással, illetve jelnyelvi tolmácsolással, továbbá a látássérült nézők számára akadálymentesítéssel hozzáférhetővé tett műsorszámot – a műsorszám egységét nem sértve –, valamint a műsorszámok egymással dramaturgiailag összekapcsolódó sorozatát a médiaszolgáltató köteles annak teljes időtartama alatt feliratozni, illetve jelnyelvi tolmácsolással, valamint a látássérült nézők számára is akadálymentesítéssel ellátni.
 
-(6) A feliratozott műsorszámok előtt a médiaszolgáltatásban jelezni kell, hogy az érintett műsorszám az említett formában is elérhető a médiaszolgáltatáshoz kapcsolódó teletext szolgáltatáson. A műsorszámok szövege feliratozott változatának pontosnak kell lennie, és a képernyő történéseivel szinkronban kell állnia, az a műsorszámban elhangzottak rövidített összefoglalóját abban az esetben tartalmazhatja, amennyiben a felirat – terjedelmére tekintettel – az elhangzottak követését nem tenné lehetővé.
+(6) A feliratozott műsorszámok előtt a médiaszolgáltatásban jelezni kell, hogy az érintett műsorszám az említett formában is elérhető a médiaszolgáltatáshoz kapcsolódó teletext szolgáltatáson. A műsorszámok szövege feliratozott változatának pontosnak kell lennie, és a képernyő történéseivel szinkronban kell állnia, az a műsorszámban elhangzottak rövidített összefoglalóját abban az esetben tartalmazhatja, amennyiben a felirat – terjedelmére tekintettel – az elhangzottak követését nem tenné lehetővé. A feliratozott vagy jelnyelvi tolmácsolással, illetve látássérült nézők számára akadálymentesítéssel ellátott műsorszámok előtt a médiaszolgáltatásban piktogram alkalmazásával és hangalámondással jelezni kell, hogy az érintett műsorszám az említett formában is elérhető.
 
 (7) A feliratozásnak a nem felvételről közzétett műsorszámok esetében ésszerűen elvárható módon pontosnak és a képernyő történéseivel szinkronban állónak kell lennie.
 
@@ -3841,6 +3841,10 @@ rendeletben megállapítsa.
 218/C. § (1) A 20. § (2a) bekezdése szerinti jelentést első alkalommal 2021. december 19-ig kell elkészíteni.
 
 (2) A 39. § (9) bekezdése szerinti jelentést első alkalommal 2022. december 19-ig kell elkészíteni.
+
+(3) A 39. § (9) bekezdése szerinti tájékoztatást első alkalommal 2022. szeptember 19. napjáig kell megtenni.
+
+(4) A 39. § (2) és (2a) bekezdésében meghatározott kötelezettség teljesítésének elérése folyamatosan és fokozatosan terheli a kötelezetteket. E kötelezettségeket teljes körűen legkésőbb 2022. szeptember 19. napjától kell teljesíteni.
 
 ### V. Fejezet
 
