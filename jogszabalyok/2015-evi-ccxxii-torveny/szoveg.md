@@ -221,7 +221,7 @@ teljesítheti.
 
 (2) A gazdálkodó szervezet az elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségének megváltozását a változás bekövetkezését megelőzően, a változás időpontjának megjelölésével bejelenti a rendelkezési nyilvántartásba.
 
-(3)
+(3) A gazdálkodó szervezet – ha működéséhez jogszabály által rendszeresített nyilvántartásba vétele kötelező – a Kormány rendeletében meghatározottak szerint, a Kormány rendeletében megjelölt, a gazdálkodó szervezet nyilvántartásba vételéért felelős szerv útján kezdeményezheti, hogy a jogszabály által rendszeresített nyilvántartásba vételi eljárással egyidejűleg kerüljön sor a Kormány rendeletében meghatározott, a hivatalos elérhetőséget biztosító szolgáltatás regisztrációjára.
 
 (4) A hivatalos elérhetőségre kézbesített küldemény kézbesítettnek minősül,
 

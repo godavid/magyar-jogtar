@@ -338,7 +338,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 11. § (1) A szolgáltató – a tevékenységére irányadó jogszabályi előírásoknak megfelelően – köteles az üzleti kapcsolatot folyamatosan figyelemmel kísérni – ideértve az üzleti kapcsolat fennállása folyamán teljesített ügyletek elemzését is – annak megállapítása érdekében, hogy az adott ügylet összhangban áll-e a szolgáltatónak az ügyfélről a jogszabályok alapján rendelkezésére álló adataival és ez alapján szükség van-e az ügyféllel szemben pénzmosás megelőzésével kapcsolatos intézkedések végrehajtására.
 
-(2) A szolgáltató – kockázatérzékenységi megközelítés alapján – az üzleti kapcsolat (1) bekezdésben meghatározott folyamatos figyelemmel kísérését a 65. §-ban meghatározott belső szabályzatban meghatározott megerősített eljárásban hajthatja végre.
+(2) A szolgáltató a folyamatos figyelemmel kísérés során ellenőrzi, hogy az ügyfél kockázati szintje a rendelkezésre álló adatoknak megfelelően lett-e rögzítve. A szolgáltató a kockázati szint változásának megállapítása esetén haladéktalanul lefolytatja az ügyfél tényleges kockázati szintjének megfelelő még végrehajtásra nem került ügyfél-átvilágítási intézkedéseket és a teljesített ügyletek elemzését a kockázati szinthez igazítja.
 
 (3) A szolgáltató – kockázatérzékenységi megközelítés alapján – köteles különös figyelmet fordítani valamennyi
 
