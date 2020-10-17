@@ -29,21 +29,14 @@ hagyja jóvá.
 
 hagyja jóvá.
 
-4. § (1) Az Országgyűlés az Mttv. 137/F. § (13) bekezdése alapján a 4. melléklet szerint fogadja el a Televíziós Film Mecenatúra (a továbbiakban: Mecenatúra) 2020. évi működési költségvetését.
-
-(2) Az Országgyűlés a Mecenatúra 2020. évi működési költségvetésének
-
-- a) kiadási főösszegét 3 500,0 millió Ft-ban, azaz hárommilliárd-ötszázmillió forintban,
-- b) bevételi főösszegét 3 500,0 millió Ft-ban, azaz hárommilliárd-ötszázmillió forintban
-
-hagyja jóvá.
+4. §
 
 5. § (1) Az Országgyűlés az Mttv. 134. § (2) bekezdésében és a 136. § (15) bekezdésében foglaltaknak megfelelően, az 5. melléklet szerint fogadja el a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: MTVA) 2020. évi költségvetését.
 
 (2) Az Országgyűlés az MTVA 2020. évi költségvetésének
 
-- a) kiadási főösszegét 93 364,1 millió Ft-ban, azaz kilencvenhárommilliárd-háromszázhatvannégymillió-egyszázezer forintban,
-- b) bevételi főösszegét 93 364,1 millió Ft-ban, azaz kilencvenhárommilliárd-háromszázhatvannégymillió-egyszázezer forintban
+- a) kiadási főösszegét 103 126,3 millió Ft-ban, azaz egyszázhárommilliárd-egyszázhuszonhatmillió-háromszázezer forintban,
+- b) bevételi főösszegét 103 126,3 millió Ft-ban, azaz egyszázhárommilliárd-egyszázhuszonhatmillió-háromszázezer forintban
 
 hagyja jóvá.
 
@@ -133,63 +126,43 @@ hagyja jóvá.
 
 ### 4. melléklet a 2019. évi XCV. törvényhez
 
-- 1. A Mecenatúra 2020. évi költségvetésének kiadási előirányzatai (adatok millió Ft-ban)
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-|  | Előirányzat száma | Előirányzat neve | Előirányzat összege |
-|  | 1. | Személyi juttatások | 150,0 |
-|  | 2. | Munkaadókat terhelő járulékok és szociális hozzájárulási adó | 30,0 |
-|  | 3. | Dologi kiadások | 162,1 |
-|  | 4. | Egyéb működési célú kiadások | 3 150,0 |
-|  | 5. | Beruházások | 7,9 |
-|  | Költségvetési kiadások összesen |  | 3 500,0 |
-
-- 2. A Mecenatúra 2020. évi költségvetésének bevételi előirányzatai (adatok millió Ft-ban)
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-|  | Előirányzat száma | Előirányzat neve | Előirányzat összege |
-|  | 1. | Működési célú támogatások államháztartáson belülről | 3 500,0 |
-|  | Költségvetési bevételek összesen |  | 3 500,0 |
-
 ### 5. melléklet a 2019. évi XCV. törvényhez
 
 - 1. Az MTVA 2020. évi kiadási előirányzatai (adatok millió Ft-ban)
 
-|  | A | B | C |
-| --- | --- | --- | --- |
-|  | Előirányzat száma | Előirányzat neve | Előirányzat összege |
-|  | 1. | Továbbutalandó közszolgálati hozzájárulás | 2 712,5 |
-|  | 1.1. | Médiatanács | 197,8 |
-|  | 1.2. | Médiatanács hivatali szervezete | 2 282,3 |
-|  | 1.3. | Közszolgálati Közalapítvány | 232,4 |
-|  | 2. | Magyar Média Mecenatúra támogatás | 1 310,0 |
-|  | 3. | Duna Médiaszolgáltató Nonprofit Zrt. | 1 700,0 |
-|  | 4. | MTVA médiaszolgáltatás-támogatási és vagyonkezelési tevékenységének kiadásai | 77 306,3 |
-|  | 4.1. | Személyi juttatások és járulékok | 17 954,1 |
-|  | 4.2. | Dologi kiadások | 54 102,5 |
-|  | 4.3. | Beruházások, felújítások | 5 249,7 |
-|  | 5. | Magyar Rádió Művészeti Együttesei Nonprofit Kft. támogatása | 871,4 |
-|  | 6. | MTVA Digitalizációs Műhely Kft. | 298,1 |
-|  | 7. | Közszolgálati Médiaakadémia Alapítvány | 184,1 |
-|  | 8. | A Médiatanácsot terhelő, a médiaszolgáltatók által be nem fizetett általános forgalmi adó | 22,1 |
-|  | 9. | Szerzői jogdíj (must carry) | 266,1 |
-|  | 10. | Az Mttv. 134. § (5) bekezdése szerinti befizetések felhasználása | 8 400,0 |
-|  | 11. | MTVA kamatfizetési kötelezettsége, egyéb pénzügyi ráfordítások | 293,5 |
-|  | Költségvetési kiadások összesen |  | 93 364,1 |
-|  | Kiadások összesen |  | 93 364,1 |
+| A | B | C |
+| --- | --- | --- |
+| Előirányzat száma | Előirányzat neve | Előirányzat összege |
+| 1. | Továbbutalandó közszolgálati hozzájárulás | 2 712,5 |
+| 1.1. | Médiatanács | 197,8 |
+| 1.2. | Médiatanács hivatali szervezete | 2 282,3 |
+| 1.3. | Közszolgálati Közalapítvány | 232,4 |
+| 2. | Magyar Média Mecenatúra támogatás | 1 310,0 |
+| 3. | Duna Médiaszolgáltató Nonprofit Zrt. | 1 700,0 |
+| 4. | MTVA médiaszolgáltatás-támogatási és vagyonkezelési tevékenységének kiadásai | 87 068,5 |
+| 4.1. | Személyi juttatások és járulékok | 17 954,1 |
+| 4.2. | Dologi kiadások | 63 864,7 |
+| 4.3. | Beruházások, felújítások | 5 249,7 |
+| 5. | Magyar Rádió Művészeti Együttesei Nonprofit Kft. támogatása | 871,4 |
+| 6. | MTVA Digitalizációs Műhely Kft. | 298,1 |
+| 7. | Közszolgálati Médiaakadémia Alapítvány | 184,1 |
+| 8. | A Médiatanácsot terhelő, a médiaszolgáltatók által be nem fizetett általános forgalmi adó | 22,1 |
+| 9. | Szerzői jogdíj (must carry) | 266,1 |
+| 10. | Az Mttv. 134. § (5) bekezdése szerinti befizetések felhasználása | 8 400,0 |
+| 11. | MTVA kamatfizetési kötelezettsége, egyéb pénzügyi ráfordítások | 293,5 |
+| Költségvetési kiadások összesen |  | 103 126,3 |
+| Kiadások összesen |  | 103 126,3 |
 
 - 2. Az MTVA 2020. évi bevételi előirányzatai (adatok millió Ft-ban)
 
-|  | A | B | C |
-| --- | --- | --- | --- |
-|  | Előirányzat száma | Előirányzat neve | Előirányzat összege |
-|  | 1. | Közszolgálati hozzájárulás | 75 016,4 |
-|  | 2. | Médiaszolgáltatási díj | 1 570,0 |
-|  | 3. | Pályázati díjak (támogatási, frekvencia) | 20,0 |
-|  | 4. | Médiaszolgáltatási szerződésszegési kötbér, bírság, óvadék | 10,0 |
-|  | 5. | Az Mttv. 134. § (5) bekezdése szerinti befizetések | 8 400,0 |
-|  | Költségvetési bevételek összesen |  | 85 016,4 |
-|  | 6. | Kereskedelmi, vagyongazdálkodási és egyéb bevételek | 8 347,7 |
-|  | Bevételek összesen |  | 93 364,1 |
+| A | B | C |
+| --- | --- | --- |
+| Előirányzat száma | Előirányzat neve | Előirányzat összege |
+| 1. | Közszolgálati hozzájárulás | 84 778,6 |
+| 2. | Médiaszolgáltatási díj | 1 570,0 |
+| 3. | Pályázati díjak (támogatási, frekvencia) | 20,0 |
+| 4. | Médiaszolgáltatási szerződésszegési kötbér, bírság, óvadék | 10,0 |
+| 5. | Az Mttv. 134. § (5) bekezdése szerinti befizetések | 8 400,0 |
+| Költségvetési bevételek összesen |  | 94 778,6 |
+| 6. | Kereskedelmi, vagyongazdálkodási és egyéb bevételek | 8 347,7 |
+| Bevételek összesen |  | 103 126,3 |
