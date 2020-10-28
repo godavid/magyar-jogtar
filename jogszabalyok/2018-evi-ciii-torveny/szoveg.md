@@ -181,6 +181,7 @@ a lakóingatlan vagy a tartalék ingatlan tekintetében e törvény erejénél f
 - i) a bérbeadó a lakóingatlan és a tartalék ingatlan állapotát és rendeltetésszerű használatát évente legalább egy alkalommal ellenőrzi, amit a bérlő tűrni köteles,
 - j) a lakásbérleti szerződésben a bérlő hozzájárul ahhoz, hogy a Lebonyolító a közüzemi szolgáltatótól a bérlő közüzemi díjhátralékának mértékéről vagy annak hiányáról adatszolgáltatást kérjen,
 - k) bérlőtársi jogviszony esetén, ha a bérbeadó a lakásbérleti szerződést olyan okból mondja fel, amely felmondási ok valamennyi bérlőtárssal szemben fennáll, a felmondást elég, ha a bérbeadó az egyik bérlőtárssal közli.
+- l) az egészségügyről szóló 1997. évi CLIV. törvény 228. § (1) bekezdése alapján bevezetett járványügyi készültség esetén az i) pontban említett ellenőrzés az adott naptári évben nem kötelező.
 
 11. § A Lebonyolító kötelezheti a bérlőt a lakásbérleti szerződésben előre fizetésre alkalmas fogyasztásmérő felszerelésének kérelmezésére a közüzemi szolgáltatótól, abban az esetben, ha törvény alapján a bérlőt ezért külön díjfizetési kötelezettség nem terheli.
 

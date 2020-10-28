@@ -194,13 +194,15 @@ végezheti.
 
 (3) Koncessziós díj összegéről, megfizetésének módjáról, illetőleg az ellentételezésről a koncessziós szerződésben kell rendelkezni.
 
-6. § (1) A koncesszióköteles tevékenység folytatására a koncessziós szerződést aláírónak e törvény különös rendelkezéseiben meghatározott olyan gazdasági társaságot kell alapítania, amelyben a társaság megalakulásakor és tevékenysége alatt is a részvények, üzletrészek, illetőleg a szavazatok többségével rendelkezik és kötelezettséget kell vállalnia arra, hogy a koncessziós szerződésben meghatározott követelményeket a gazdasági társaságban tulajdonosként érvényesíteni fogja.
+6. § (1) A koncesszióköteles tevékenység folytatására a koncessziós szerződést aláírónak e törvény különös rendelkezéseiben meghatározott olyan gazdasági társaságot kell alapítania vagy működtetnie, amelyben a társaság megalakulásakor és tevékenysége alatt is a részvények, üzletrészek, illetőleg a szavazatok többségével rendelkezik és kötelezettséget kell vállalnia arra, hogy a koncessziós szerződésben meghatározott követelményeket a gazdasági társaságban tulajdonosként érvényesíteni fogja.
 
 (2) A koncessziós díjat a koncessziós szerződés aláírója vagy az (1) bekezdés szerinti koncessziós társaság, illetve a koncesszióba adó hozzájárulásával harmadik fél teljesíti. A koncessziós társaság a koncessziós díj 35. § (3) bekezdés szerinti levonására a koncessziós díjnak a koncessziós társaság, a koncessziós szerződés aláírója, illetve a harmadik fél általi teljesítése esetén is jogosult.
 
 (3) A szerencsejátékokkal kapcsolatos koncessziós eljárásra – az e törvényben foglalt eltérésekkel – a Ktv. rendelkezéseit kell alkalmazni.
 
 (4) Ha a megbízható szerencsejáték szervezővel megkötött koncessziós szerződést aláíró által az (1) bekezdés és a Ktv. 20. § (1) bekezdése szerint megalapított koncessziós társaság tagja olyan koncessziós társaság, amely koncesszió-köteles tevékenység folytatására jogosultként koncesszió-köteles tevékenységet folytat, a Ktv. 26. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy esetében a későbbi koncessziós szerződésben meghatározott időtartam lejártakor kell a végelszámolást lefolytatni.
+
+(4a) Ha a koncesszióba vevő a koncesszió-köteles tevékenységet olyan koncessziós társaság útján kívánja végezni, amely a koncessziós szerződés aláírásának időpontjában koncessziós társaságként koncesszió-köteles tevékenységet folytat, a Ktv. 26. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy ezen koncessziós társaság esetében a végelszámolást a későbbi koncessziós szerződésben meghatározott időtartam lejártakor kell lefolytatni.
 
 (5) Az 1. § (3) bekezdés c) pontja szerinti tevékenység tekintetében a megbízható szerencsejáték szervező által megalapított koncessziós társaságra a Ktv. 22. §-át nem kell alkalmazni.
 
@@ -1251,7 +1253,7 @@ fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megf
 - 13. Folyamatosan szervezett szerencsejáték: olyan a törvény különös rendelkezéseiben meghatározott szerencsejáték, amelyre a szerencsejáték szervező engedélye meghatározott időszakon belül többszöri alkalommal történő szerencsejáték szervezést tesz lehetővé.
 - 14. Tiltott szerencsejáték: az e törvény szerint engedélyköteles szerencsejáték, amelyet a szerencsejáték-felügyeleti hatóság engedélye nélkül szerveznek.
 - 15. Szerencsejáték-szervező:
-  - a) az 1. § (3) bekezdésében meghatározott tevékenységet folytató koncessziós társaság, az állami játékszervező, a 100%-ban az állami játékszervező tulajdonában lévő gazdasági társaság és az állam többségi részesedésével működő gazdálkodó szervezet, a liberalizált tevékenység gyakorlására létrehozott gazdasági társaság, valamint
+  - a) az 1. § (3) bekezdésében meghatározott tevékenység folytatására jogosult gazdasági társaság, illetve annak koncessziós társasága, az állami játékszervező, a 100%-ban az állami játékszervező tulajdonában lévő gazdasági társaság és az állam többségi részesedésével működő gazdálkodó szervezet, a liberalizált tevékenység gyakorlására létrehozott gazdasági társaság, valamint
   - b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott tevékenységet folytató szervezet vagy személy.
 - 16. Fogadási ajánlat: a fogadásszervező nyilvánosságra hozott ajánlata, amely tartalmazza a meghatározott fogadási esemény lefogadható bekövetkezését, kimeneteleit, valamint a totalizatőri rendszerű fogadás esetén a nyereményre fordítandó összeg meghatározásának módját, a bukmékeri rendszerű fogadás esetén pedig a nyereményszorzót.
 - 17. hírközlő eszköz és rendszer: bármely olyan eszköz és rendszer, amelynek alkalmazásával a játékos a törvény hatálya alá tartozó játékokban részvételi jogosultságot keletkeztető nyilatkozatot vagy cselekményt tehet. Ilyen különösen a címzett vagy címzés nélküli nyomtatvány, a szabványlevél, a sajtótermékben közzétett hirdetés megrendelőlapja, a katalógus, a telefon, az automata hívókészülék, a rádió, a videotelefon, a videotex (mikroszámítógép-képernyővel) billentyűzettel vagy érintőképernyővel, az Internet, az elektronikus levél (e-mail), a távmásoló (telefax) és televízió.
