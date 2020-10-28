@@ -58,6 +58,8 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 - f) a koncesszióba adott tevékenység árképzési szabályait, ideértve az ár, díj meghatározásának és változtatásának elveit és módszereit,
 - g) egyéb, a pályázat kiírója által szükségesnek tartott információkat.
 
+(4) Az állam nevében lefolytatandó koncessziós szerződés megkötésére irányuló eljárás során a pályázati kiírásban, ajánlattételi felhívásban előírható, hogy a koncessziós pályázatot, ajánlatot benyújtó jogi személynek a pályázathoz, ajánlathoz teljes bizonyító erejű magánokiratban vagy közokiratban csatolnia kell a jogi személy döntéshozó szervének határozatát arról, hogy a koncessziós pályázaton, ajánlattételi eljárásban való részvételhez a tagok, vagy alapítók összességének pályázati kiírásban, ajánlattételi felhívásban meghatározott mértékű minősített többsége hozzájárult. Az önkormányzat nevében lefolytatandó koncessziós eljárásokban a minősített többségre vonatkozó követelmény nem írható elő.
+
 9. § A pályázatok benyújtására nyitva álló időtartam nem lehet kevesebb hatvan napnál. Az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv a beérkezett pályázatokat – ha az ágazati törvény ennél rövidebb határidőt nem állapít meg – a pályázatok benyújtására előírt időtartam lejártát követő kilencven napon belül köteles elbírálni.
 
 9/A. § (1) A pályázatok elbírálásáról a döntést hozónak emlékeztetőt kell készítenie. Az emlékeztetőnek az alábbi – a pályázat elbírálása szempontjából lényeges – körülményeket kell tartalmaznia:
