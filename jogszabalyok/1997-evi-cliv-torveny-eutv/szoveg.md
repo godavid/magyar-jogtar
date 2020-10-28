@@ -3561,7 +3561,11 @@ megítéléséhez szükséges.
 
 (2) Egészségügyi válsághelyzet idején az egészségügyi ellátórendszerre, az egészségügyi szolgáltatás szakmai követelményeire, valamint az egészségügyi dolgozók jogaira és kötelezettségeire előírt rendelkezéseket az e fejezetben, továbbá az egészségügyi válsághelyzet idején alkalmazandó jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
-(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendelésére az egészségügyi államigazgatási szerv rendelkezése alapján az egészségügyi szolgáltató vezetője, ez utóbbi hiányában az egészségügyi államigazgatási szerv jogosult. Több megye érintettsége esetén a kirendeléseket az országos tisztifőorvos koordinálja.
+(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó – ide nem értve a szakképzésről szóló 2019. évi LXXX. törvény 83. §-ában meghatározott szakképzési munkaszerződéssel foglalkoztatott tanulót és képzésben részt vevő személyt – más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendeléséről az egészségügyi államigazgatási szerv, több megye érintettsége esetén az Operatív Törzs dönt.
+
+(3a) Az Operatív Törzs (3) bekezdés szerinti döntése elleni közigazgatási perben nincs helye azonnali jogvédelemnek.
+
+(3b) A bíróság az Operatív Törzs (3) bekezdés szerinti döntését helyben hagyja, vagy az ítélet meghozatalának időpontjára tekintettel hatályon kívül helyezi.
 
 (4) Ha az egészségügyi válsághelyzet több megyét érint, a Kormány határozhat arról, hogy a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók a (3) bekezdés szerinti eljárásban kirendelhetők.
 
@@ -3870,6 +3874,40 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 244/G. § Ahol e törvény csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-jét megelőzően nyílt meg.
 
 244/H. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+244/I. § (1) Az EESZT működtetője a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény, illetve a szakképző intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából napi rendszerességgel, az intézkedés megtételéig – de legfeljebb 48 óráig – az érintettek Társadalombiztosítási Azonosító Jelének összevetése útján – a (2) bekezdés szerinti módon – megismerhetővé teszi
+
+- a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti, a Kormány által a miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: köznevelési szerv), valamint
+- b) a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) szerinti szakképzési államigazgatási szerv (a továbbiakban: szakképzési szerv) számára az adat megismerhetővé tételének napján SARS-CoV-2 vírussal fertőzött személyeknek a SARS-CoV-2 vírussal való fertőzöttségének tényére vonatkozó adatát.
+
+(2) A Társadalombiztosítási Azonosító Jeleket olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek fertőzöttsége ténye megismerhetőségét teszi lehetővé a köznevelési szerv, illetve a szakképzési szerv számára, akikre vonatkozóan
+
+- a) a köznevelési szerv az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 4. § (1) bekezdés a) pontja szerinti köznevelés információs rendszerében,
+- b) a szakképzési szerv az Szkt. 111. §-a szerinti szakképzés információs rendszerében Társadalombiztosítási Azonosító Jelet kezel.
+
+244/J. § (1) Az Nkt. 57. § (6) bekezdése szerinti, valamint az Szkt. 128. § (9) bekezdése szerinti rendszernek (a továbbiakban együtt: Rendszer) a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele céljából alkalmasnak kell lennie arra, hogy a szülő vagy a törvényes képviselő a tanulóval közös háztartásban élő személyek Társadalombiztosítási Azonosító Jelét, telefonszámát és elektronikus levelezési címét – az érintett önkéntes, tájékoztatáson alapuló, az elszámoltathatóság alapelvét figyelembe vevő módon megtett hozzájárulása alapján – rögzíthesse.
+
+(2) Az EESZT működtetője a SARS-CoV-2 vírus terjedésének megállítása érdekében napi rendszerességgel, a (4) bekezdés szerinti intézkedés megtételéig – de legfeljebb 48 óráig – az érintettek Társadalombiztosítási Azonosító Jelének összevetése útján – a (3) bekezdés szerinti módon – megismerhetővé teszi a Rendszer üzemeltetője számára az adat megismerhetővé tételének napján SARS-CoV-2 vírussal fertőzött személyeknek a SARS-CoV-2 vírussal való fertőzöttségének tényére vonatkozó adatát.
+
+(3) A Társadalombiztosítási Azonosító Jeleket olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek fertőzöttsége ténye megismerhetőségét teszi lehetővé a Rendszer üzemeltetője számára, akikre vonatkozóan a szülő vagy törvényes képviselő az (1) bekezdés szerint a tanulóval közös háztartásban élő személyek Társadalombiztosítási Azonosító Jelét a Rendszerben rögzítette.
+
+(4) A Rendszer üzemeltetője az (1) bekezdés szerint rögzített adatokat – ha a (2) bekezdés szerinti összevetés alapján az érintett tekintetében a SARS-CoV-2 vírussal való fertőzöttség tényére vonatkozó adat kimutatható –
+
+- a) a járványügyi intézkedések megtétele céljából továbbítja a járványügyi szerv részére,
+- b) a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény vagy a szakképző intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából megismerhetővé teszi a köznevelési, illetve a szakképzési szerv számára, azzal, hogy az adatkezelés során olyan titkosítási módszert kell alkalmazni, hogy az adatkezelésre előírt feltételek teljesüljenek.
+
+244/K. § (1) Járványügyi készültség esetén a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény, illetve a szakképző intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából a köznevelési intézmény, valamint a szakképző intézmény a köznevelési szerv, valamint a szakképzési szerv számára – az e szervek által az e célra létrehozott felület alkalmazásával – átadja azon, a köznevelési intézménnyel, illetve a szakképző intézménnyel
+
+- a) a munka törvénykönyvéről szóló 2012. évi I. törvény (az e § alkalmazásában a továbbiakban: Mt.) szerinti munkaviszonyban álló, vagy
+- b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (az e § alkalmazásában a továbbiakban: Kjt.) szerinti közalkalmazotti jogviszonyban álló személyek Társadalombiztosítási Azonosító Jelét, akik a munkakörükbe tartozó – így a köznevelési intézmény esetében különösen az Nkt. szerinti gazdasági, ügyviteli, műszaki, kisegítő és más – feladatokat a köznevelési intézmény, illetve a szakképző intézmény területén látják el.
+
+(2) Az EESZT működtetője az (1) bekezdés szerinti célból napi rendszerességgel, az intézkedés megtételéig – de legfeljebb 48 óráig – az érintettek Társadalombiztosítási Azonosító Jelének összevetése útján – a (3) bekezdés szerinti módon – megismerhetővé teszi a köznevelési szerv, valamint a szakképzési szerv számára az adat megismerhetővé tételének napján SARS-CoV-2 vírussal fertőzött személyeknek a SARS-CoV-2 vírussal való fertőzöttségének tényére vonatkozó adatát.
+
+(3) A Társadalombiztosítási Azonosító Jeleket olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek fertőzöttsége ténye megismerhetőségét teszi lehetővé a köznevelési szerv, illetve a szakképzési szerv számára, akikre vonatkozóan Társadalombiztosítási Azonosító Jelet a köznevelési intézmény, valamint a szakképzési intézmény a köznevelési szerv, illetve a szakképzési szerv számára az (1) bekezdés szerinti módon és célból átadott.
+
+(4) A köznevelési szerv, valamint a szakképzési szerv az (1) bekezdés szerint átadott adatokat – az (5) bekezdés szerinti kivétellel – a járványügyi készültség megszűnéséig kezeli.
+
+(5) Az (1) bekezdés szerint átvett adatot haladéktalanul törölni kell akkor, ha a köznevelési intézmény, illetve a szakképző intézmény a köznevelési szervet, illetve a szakképzési szervet arról értesíti, hogy az érintett már nem áll vele az Mt. szerinti munkaviszonyban vagy Kjt. szerinti közalkalmazotti jogviszonyban, illetve, ha az érintett a munkakörét a továbbiakban már nem a köznevelési intézmény vagy a szakképző intézmény területén látja el.
 
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 

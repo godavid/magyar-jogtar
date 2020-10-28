@@ -120,6 +120,8 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (4) A bérbeadó a rendeltetésszerű használatot, valamint a szerződésben foglalt kötelezettségek teljesítését évente legalább egyszer vagy a szerződésben meghatározottak szerint évente több alkalommal – a bérlő szükségtelen háborítása nélkül – ellenőrzi. A bérlő arra alkalmas időben a lakásba történő bejutást biztosítani, és az ellenőrzést tűrni köteles; ez a rendelkezés megfelelően irányadó a rendkívüli káresemény, illetőleg a veszélyhelyzet fennállása miatt a lakáson belül szükséges hibaelhárítás elvégzésének biztosítása esetén.
 
+(4a) Az egészségügyről szóló 1997. évi CLIV. törvény 228. § (1) bekezdése alapján bevezetett járványügyi készültség esetén a (4) bekezdésben említett ellenőrzés az adott naptári évben nem kötelező.
+
 (5) Önkormányzati lakás esetén a (4) bekezdésben említett ellenőrzés egy naptári éven belül történő lefolytatásának gyakoriságát önkormányzati rendeletben kell meghatározni.
 
 13. § (1) A lakás burkolatainak, ajtóinak, ablakainak és a lakás berendezéseinek karbantartásával, felújításával, illetőleg azok pótlásával, cseréjével kapcsolatos költségek viselésére a bérbeadó és a bérlő megállapodása az irányadó; megállapodás hiányában a karbantartással és felújítással kapcsolatos költségek a bérlőt, a pótlással és cserével kapcsolatos költségek a bérbeadót terhelik.
