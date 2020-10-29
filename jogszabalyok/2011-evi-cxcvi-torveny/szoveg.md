@@ -2194,7 +2194,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 1.5. |  | Döbrentei tér 9. | Rudas fürdő |
 | 1.6. |  | Kapisztrán tér 2., 3., 4. | Nándor-laktanya |
 | 1.7. |  | Kapisztrán tér 6. | a Mária-Magdolna templom tornyának és falainak maradványai |
-| 1.8. |  | Táncsics Mihály u. 1. | lakóház |
+| 1.8. |  |  |  |
 | 1.9. |  | Táncsics Mihály u. 9. | József-kaszárnya, az Erdélyi-bástya és Kammerhof |
 | II. kerület |  |  |  |
 | 1.10. | Budakeszi út 91–95. |  | budaszentlőrinci pálos kolostor és templom romjai |
@@ -2203,7 +2203,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 1.13. | Hűvösvölgyi út 78., Fekete István u. 1–3. |  | Mátyás király nyéki vadászkastélyának romjai |
 | 1.14. | Mecset u. 14. |  | Gül Baba türbéje |
 | 1.15. | Szajkó u. 14–16., Fekete István u. 11. |  | Nyék középkori templomának romjai |
-| 1.16. | Pesthidegkút, Templom u. 12–14. |  | Klebelsberg-kastély együttese |
+| 1.16. |  |  |  |
 | III. kerület |  |  |  |
 | 1.17. | Aquincum, Szentendrei út 139. |  | római polgárváros romegyüttese |
 | 1.18. | Fő tér 1. |  | Zichy-kastély együttese |
@@ -2627,7 +2627,7 @@ IV. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tarta
 | 1. | 1146 Budapest, Istvánmezei út 3–5. Budapest, Ifjúság útja–Stefánia út–Thököly út–Dózsa György út–Kerepesi út által határolt és a Dózsa György és a Kerepesi út által határolt területrésznek e két út kereszteződésétől a) a Dózsa György útnak a Jobbágy utca és a Verseny utca közötti szakasza meghosszabbításának a Kerepesi úttal alkotott metszéspontja, és b) az a) pont szerinti metszésponttól a Kerepesi útra állított merőleges vonal és a Dózsa György út metszéspontja által meghatározott egyenessel lezárt területtel kiegészített területe | Budapesti Olimpiai Központ – Puskás Ferenc Stadion és Létesítményei |
 | --- | --- | --- |
 | 2. | 2890 Tata, Baji út 21. | Északnyugat-magyarországi Általános Olimpiai Központ – Tatai Edzőtábor |
-| 3. | 8253 Révfülöp, Halász u. 51–53. | Révfülöpi Vitorláskikötő |
+| 3. |  |  |
 | 4. |  | Nemzeti Úszó és Vízilabda Olimpiai Központ – Nemzeti Sportuszodák és Létesítményei |
 | 4.a) | 1138 Budapest, Margitsziget, 23801 és 23800/7 hrsz. | Hajós Alfréd Nemzeti Sportuszoda |
 | 4.b) | 1023 Budapest, Árpád fejedelem útja 8. | Császár–Komjádi Sportuszoda |

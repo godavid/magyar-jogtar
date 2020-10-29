@@ -108,9 +108,13 @@ a vagyonkezelő alapítványokról
 
 (2) Ha a vagyonkezelő alapítvány vagyona az alapító okiratban az (1) bekezdés szerinti mérték alá csökken, a kedvezményezetteknek járó juttatás kifizetését arányosan csökkenteni kell, vagy azt mindaddig vissza kell tartani, amíg az alapítvány vagyona az (1) bekezdés szerinti mértéket el nem éri.
 
-10/A. § (1) Azon közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére, amelynek az állam az alapítója vagy amelyhez az állam csatlakozott, az alapító okiratában meghatározott célok megvalósításának elősegítése érdekében pénzbeli vagyoni juttatás teljesíthető. E juttatásra az államháztartásról szóló 2011. évi CXCV. törvény támogatásokra vonatkozó VI. fejezetét nem kell alkalmazni.
+10/A. § (1) A vagyonkezelő alapítvány részére teljesíthető pénzbeli vagyoni juttatás. A közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére az alapító okiratában meghatározott célok megvalósításának elősegítése érdekében teljesített pénzbeli vagyoni juttatás nem minősül külön törvény szerinti támogatásnak, az alapító okiratában meghatározott célok elérése érdekében pályázati eljárásban részt vehet és pályázati támogatásban részesülhet.
 
 (2) Az (1) bekezdés szerinti vagyoni juttatás teljes körű felhasználásáig a közérdekű vagyonkezelő alapítvány bemutatja e pénzbeli vagyoni juttatás felhasználását, aminek a számviteli törvény szerinti éves beszámolójában tesz eleget.
+
+10/B. § (1) A vagyonkezelő alapítvány részére teljesíthető természetbeni – különösen ingatlan – vagyoni juttatás is. A közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére az alapító okiratában meghatározott célok megvalósításának elősegítése érdekében teljesített természetbeni vagyoni juttatás nem minősül külön törvény szerinti támogatásnak, az alapító okiratában meghatározott célok elérése érdekében pályázati eljárásban részt vehet és pályázati támogatásban részesülhet.
+
+(2) Amennyiben az (1) bekezdés szerint juttatott vagyont a közérdekű vagyonkezelő alapítvány elidegeníti, úgy a juttatott vagyon tekintetében az államot – más jogosultakat megelőzően – törvény eltérő rendelkezése hiányában elővásárlási jog illeti meg.
 
 #### 8. A vagyonkezelő alapítvány megszűnése
 
