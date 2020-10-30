@@ -120,17 +120,9 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 11. § A 2. § (1) és (2) bekezdése, (4)–(7) bekezdése, a 3. § (5) bekezdése, az 5. § (1) és (2) bekezdése, a 6. § (1), (2) és (5) bekezdése, a 8. § (1) és (2) bekezdése, a 9. § (1) bekezdése és a 13. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-12. § (1) A Vatv. 10/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+12. §
 
-„(1) A vagyonkezelő alapítvány részére teljesíthető pénzbeli vagyoni juttatás. A közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére az alapító okiratában meghatározott célok megvalósításának elősegítése érdekében teljesített pénzbeli vagyoni juttatás nem minősül külön törvény szerinti támogatásnak, az alapító okiratában meghatározott célok elérése érdekében pályázati eljárásban részt vehet és pályázati támogatásban részesülhet.”
-
-(2) A Vatv. 7. alcíme a következő 10/B. §-sal egészül ki:
-
-„10/B. § (1) A vagyonkezelő alapítvány részére teljesíthető természetbeni – különösen ingatlan – vagyoni juttatás is. A közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére az alapító okiratában meghatározott célok megvalósításának elősegítése érdekében teljesített természetbeni vagyoni juttatás nem minősül külön törvény szerinti támogatásnak, az alapító okiratában meghatározott célok elérése érdekében pályázati eljárásban részt vehet és pályázati támogatásban részesülhet.
-
-(2) Amennyiben az (1) bekezdés szerint juttatott vagyont a közérdekű vagyonkezelő alapítvány elidegeníti, úgy a juttatott vagyon tekintetében az államot – más jogosultakat megelőzően – törvény eltérő rendelkezése hiányában elővásárlási jog illeti meg.”
-
-13. § Hatályát veszti az Nvtv. 2. melléklet III. pont 1. alpontjában foglalt táblázat 1.8. és 1.16. sora, valamint IV. pontjában foglalt táblázat 3. sora.
+13. §
 
 ### 1. melléklet a 2020. évi CVI. törvényhez
 

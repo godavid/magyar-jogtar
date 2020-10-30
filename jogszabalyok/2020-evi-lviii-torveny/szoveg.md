@@ -28,7 +28,7 @@ Az Országgyűlés annak érdekében, hogy a Kormány a COVID-19 fertőzés okoz
 
 6. § Ha a helyi önkormányzat, az önkormányzatok társulása, illetve a nemzetiségi önkormányzat (e § alkalmazásában a továbbiakban együtt: önkormányzat) e törvény hatálybalépéséig nem rendelkezik a 2019. költségvetési évre vonatkozó elfogadott és hatályos zárszámadási rendelettel, akkor a zárszámadási rendeletet úgy kell az önkormányzatnak elfogadnia, hogy az legkésőbb az e törvény hatálybalépését követő 30. napon hatályba lépjen.
 
-7. § Az e törvény hatálybalépéséig létrejött, a központi költségvetés terhére nyújtott költségvetési támogatásból megvalósuló programokkal, projektekkel összefüggő támogatási jogviszonyokban meghatározott támogatott tevékenység időtartama e törvény hatálybalépését követő 180. napig meghosszabbodik.
+7. § Az e törvény hatálybalépéséig létrejött, a központi költségvetés terhére nyújtott költségvetési támogatásból megvalósuló programokkal, projektekkel összefüggő támogatási jogviszonyokban meghatározott támogatott tevékenység időtartama az eredeti felhasználási határidőtől számított 180 nappal, de legalább e törvény hatálybalépését követő 180. napig meghosszabbodik.
 
 8. § (1) 2020. március 11-től e törvény hatálybalépéséig létrejött támogatási jogviszonyok esetében
 
@@ -101,7 +101,7 @@ Az Országgyűlés annak érdekében, hogy a Kormány a COVID-19 fertőzés okoz
 
 #### 7. Hitelintézet elővigyázatossági tőkefeltöltése
 
-20. § A koronavírus-világjárvány hitelintézetet érintő hátrányos hatásainak megelőzése, enyhítése, illetve elhárítása érdekében legfeljebb 2020. december 31-éig a Magyar Állam az ebben az alcímben foglalt feltételeknek megfelelő, magyarországi székhelyű hitelintézetnek a 21. §-ban meghatározott tőkeelem-vásárlással támogatást nyújthat.
+20. § A koronavírus-világjárvány hitelintézetet érintő hátrányos hatásainak megelőzése, enyhítése, illetve elhárítása érdekében legfeljebb 2021. június 30-ig a Magyar Állam az ebben az alcímben foglalt feltételeknek megfelelő, magyarországi székhelyű hitelintézetnek a 21. §-ban meghatározott tőkeelem-vásárlással támogatást nyújthat.
 
 21. § (1) A Magyar Állam a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény 17. § (2) bekezdés d) pont dc) alpontja szerint tőkeelem-vásárlás keretében a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet 71. cikkében meghatározott járulékos tőkeelem feltételeit teljesítő kötvényt vásárol (a továbbiakban: támogatás nyújtása) a támogatásban részesülő kötvényt kibocsátó hitelintézettől. A kötvény kibocsátáskori futamideje legfeljebb 7 év lehet.
 
@@ -203,7 +203,16 @@ az összege.
 
 #### 11. Bérleti szerződésekre vonatkozó átmeneti szabályok
 
-31. § A turisztikai, a vendéglátóipari, a szórakoztatóipari, a szerencsejáték, a filmipari, az előadóművész, a rendezvényszervező és a sportszolgáltatást nyújtó ágazatok tekintetében a nem lakás céljára szolgáló helyiségre vonatkozó bérleti szerződéseket a bérbeadó 2020. június 30-áig felmondással nem szüntetheti meg.
+31. § (1) A turisztikai, a vendéglátóipari, a szórakoztatóipari, a szerencsejáték, a filmipari, az előadóművész, a rendezvényszervező és a sportszolgáltatást nyújtó ágazatok tekintetében
+
+- a) az állam,
+- b) a többségi állami tulajdonú gazdasági társaság,
+- c) a helyi önkormányzat,
+- d) a helyi önkormányzat többségi tulajdonában lévő gazdasági társaság
+
+tulajdonában lévő nem lakás céljára szolgáló helyiségre vonatkozó bérleti szerződéseket a bérbeadó 2021. június 30-ig felmondással nem szüntetheti meg.
+
+(2) Az (1) bekezdés rendelkezéseit az e törvény hatálybalépése napján vagy azt megelőzően kötött, (1) bekezdés szerinti helyiségek tekintetében fennálló bérleti szerződésre is alkalmazni kell.
 
 32. § (1) A veszélyhelyzet fennállása alatt lejáró, az állam vagy helyi önkormányzat tulajdonában lévő lakásra kötött lakásbérleti szerződés, valamint az állami vagy önkormányzati tulajdonú helyiségekre vonatkozó bérleti szerződés új pályázat kiírása nélkül a bérlő egyoldalú, a veszélyhelyzet fennállása alatt – de legkésőbb a szerződés lejártának utolsó napján – megtett írásbeli nyilatkozata alapján a veszélyhelyzet megszűnését követő 90. napig meghosszabbodik.
 
@@ -539,6 +548,8 @@ tevékenységet folytat (a továbbiakban: mentesített tevékenységet folytató
 
 (2) A munkakör ellátásának vagy az álláshely betöltésének feltételeként a munkáltatói jogkör gyakorlója által előírt egyéb vizsga, képzési, továbbképzési, illetve a képesítési feltétel megszerzésére meghatározott határidőbe – ideértve a tanulmányi szerződésben vállalt ilyen kötelezettségeket is –, a veszélyhelyzet időtartama nem számít bele.
 
+(3) Az (1) és (2) bekezdésben foglalt képzési és vizsgakötelezettséget a veszélyhelyzet utolsó napjától számított 180 napon belül kell teljesíteni.
+
 #### 28. A rendvédelmi feladatokat ellátó szerv hivatásos állományának tagjára vonatkozó átmeneti jogállási szabályok
 
 61. § (1) A rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja esetében 2020. június 30-ig – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 82. § (1) bekezdés g) pontjától eltérően – a kifogástalan életvitel ellenőrzésével kapcsolatos tudomásul vétel visszavonása nem eredményezi a hivatásos szolgálati jogviszony törvény erejénél fogva történő megszűnését.
@@ -860,6 +871,21 @@ távmonitoring eszközökkel és egyéb infokommunikációs technológiák rév�
 
 (16) A kereskedelemről szóló 2005. évi CLXIV. törvény 6/F. § (2) bekezdés d) pontja szerinti vagyoni biztosítéknak fedezetet kell nyújtania az e § alapján kiadott utalványok értékének megtérítésére az utazásszervezői tevékenységet végző fizetésképtelensége esetében.
 
+87/A. § (1) Ha a Kormány rendelete 2020. augusztus 31. napját követően a 472/2017. Korm. rendelet 21. § (3) és (4) bekezdése szerinti felmondás esetében a 472/2017. Korm. rendelet 21. § (5) bekezdésének eltérő alkalmazásával utalvány kibocsátását írja elő arra az esetre, ha a szerződés felmondására a koronavírus világjárványra tekintettel került sor, az utazásszervező az általa kibocsátott utalványokról – az utalványok jogszerű felhasználásának, illetve az utalványtulajdonosok igényérvényesítésének elősegítése céljából – nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
+
+- a) az utalvány értékét és érvényessége idejét,
+- b) az utalvány tulajdonosának
+  - ba) – természetes személy tulajdonos esetében – azonosításához feltétlenül szükséges mértéket meg nem haladó természetes személyazonosító adatait, vagy
+  - bb) – jogi személy tulajdonos esetében – megnevezését és cégjegyzékszámát.
+
+(3) Ha a Kormány rendelete az utalvány átruházását lehetővé teszi, az utazásszervező a tulajdonos kérelmére az utalvány tulajdonosa személyében bekövetkezett változást – a tulajdonosváltozásnak a Kormány rendeletében meghatározott rendben való igazolását követően – köteles az (1) bekezdés szerinti nyilvántartásban átvezetni azzal, hogy a korábbi tulajdonosra vonatkozó adatokat a nyilvántartásból egyúttal haladéktalanul törölni kell.
+
+(4) Az (1) bekezdés szerinti nyilvántartásban rögzített adatokat kizárólag az érintett ismerheti meg, abból – törvény eltérő rendelkezése hiányában – adat nem továbbítható.
+
+(5) Az utazásszervező az (1) bekezdés szerinti nyilvántartásban rögzített adatokat az utalvány felhasználásáig, legfeljebb azonban a kibocsátott utalvány érvényességi idejének lejártáig kezeli.
+
 #### 40. A választási eljárással kapcsolatos átmeneti szabályok
 
 88. § (1) A helyi önkormányzat vagy a nemzetiségi önkormányzat képviselő-testülete feloszlásának kimondása esetén e döntés hatálya a veszélyhelyzet megszűnését követő napon áll be.
@@ -1075,7 +1101,7 @@ akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak f
 
 120. § (1) A köztestület testületi szerveinek a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint, a veszélyhelyzet megszűnését követő 60 napon belüli időpontra kiírt ülése a kiíráskor hatályos rendelkezéseknek megfelelően is megtartható. Az írásbeli egyeztetés és döntéshozatal a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint is történhet. Az ülésezésre és a döntéshozatalra a köztestület elnöke által meghatározott és a köztestület honlapján az érintettek számára hozzáférhetővé tett szabályokat a veszélyhelyzet megszűnését követő 60 napig lehet alkalmazni.
 
-(2) Ha a köztestület testületi szervének ülése az érintett létszám miatt az ülés tervezett megtartása idején hatályos járványügyi korlátozások miatt előreláthatóan teljes létszámban nem tartható meg, a köztestület testületi szervének ülése különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz vagy más elektronikus eszköz útján is megtartható. Ha az elektronikus hírközlő eszköz vagy más elektronikus eszköz útján való tanácskozás és döntéshozatal szabályaira nincs elfogadott eljárásrend, az ülésezésre és a döntéshozatalra a köztestület elnöke által meghatározott és a köztestület honlapján az érintettek számára hozzáférhetővé tett szabályokat kell alkalmazni.
+(2) A köztestület testületi szervének ülése különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz vagy más elektronikus eszköz útján is megtartható. Ha az elektronikus hírközlő eszköz vagy más elektronikus eszköz útján való tanácskozás és döntéshozatal szabályaira nincs elfogadott eljárásrend, az ülésezésre és a döntéshozatalra a köztestület elnöke által meghatározott és a köztestület honlapján az érintettek számára hozzáférhetővé tett szabályokat kell alkalmazni. E bekezdés alkalmazható akkor is, ha a köztestület testületi szervének ülésén egyes tagok személyesen megjelennek.
 
 (3) Többszintű köztestületi szervezet esetén az (1) és (2) bekezdésben meghatározott szabályozási jogkört az országos elnök gyakorolhatja, és a szabályokat a köztestület országos honlapján kell az érintettek számára hozzáférhetővé tenni.
 
@@ -1265,15 +1291,15 @@ akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak f
 
 157. § (1) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) rendelkezéseit az ebben a §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) Azoknál az eljárásoknál, amelyek a veszélyhelyzetben alkalmazandó jogszabályi rendezések alkalmazásával felfüggesztésre kerültek, a felfüggesztés 2020. október 31-ig – külön végzés meghozatala nélkül – fennmarad.
+(2) Azoknál az eljárásoknál, amelyek a veszélyhelyzetben alkalmazandó jogszabályi rendezések alkalmazásával felfüggesztésre kerültek, a felfüggesztés 2021. június 30-ig – külön végzés meghozatala nélkül – fennmarad.
 
-(3) A cégbíróság a törvényességi felügyeleti eljárásban a cég megszűntnek nyilvánításáról 2020. október 31-ig nem határozhat.
+(3) A cégbíróság a törvényességi felügyeleti eljárásban a cég megszűntnek nyilvánításáról 2021. június 30-ig nem határozhat.
 
-(4) Ha az állami adó- és vámhatóság a cég adószámának jogerős törlése miatt a cég megszűntnek nyilvánítására irányuló eljárást kezdeményez, a Ctv. 91. § (1) bekezdése szerinti eljárás 2020. október 31-ig – külön végzés meghozatala nélkül – felfüggesztésre kerül.
+(4) Ha az állami adó- és vámhatóság a cég adószámának jogerős törlése miatt a cég megszűntnek nyilvánítására irányuló eljárást kezdeményez, a Ctv. 91. § (1) bekezdése szerinti eljárás 2021. június 30-ig – külön végzés meghozatala nélkül – felfüggesztésre kerül.
 
 (5) Ha a cég a veszélyhelyzetben alkalmazandó jogszabályi rendezések alapján felfüggesztett kényszertörlési eljárásban a felfüggesztés ideje alatt a cégbíróság felé igazolja, hogy a kényszertörlésre okot adó törvénysértést kiküszöbölve a törvényes állapotot, illetve törvényes működését helyreállította, a cégbíróság a Ctv. 116. § (4) bekezdésétől eltérően a kényszertörlési eljárást megszünteti.
 
-(6) A Ctv. 116. § (1) bekezdés b) pontja szerinti okból a kényszertörlési eljárás megindítása nem rendelhető el, és a cég 2020. október 31-ig benyújthatja a cég törlése iránti kérelmét.
+(6) A Ctv. 116. § (1) bekezdés b) pontja szerinti okból a kényszertörlési eljárás megindítása nem rendelhető el, és a cég 2021. június 30-ig benyújthatja a cég törlése iránti kérelmét.
 
 (7) E § nem érinti a Ctv. 116. § (1) bekezdés d) pontja miatt indult vagy e törvény hatálybalépése után induló kényszertörlési eljárásokat.
 
@@ -1551,7 +1577,7 @@ szerinti szabálysértések miatt indított eljárásokat a szabálysértésekr�
 
 #### 76. A büntetőeljárásról szóló 2017. évi XC. törvény rendelkezéseinek alkalmazására vonatkozó átmeneti szabályok
 
-188. § A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) rendelkezéseit 2020. december 31. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
+188. § A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) rendelkezéseit 2021. június 30. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
 189. § Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -1742,13 +1768,13 @@ kapcsolatban, akkor az eljárási cselekmény nem folytatható.
 
 213. § A bíróság a Be. C. Fejezetében meghatározott egyéb feltételek fennállása esetén – a terhelt beismerésétől függetlenül – a fiatalkorúval szemben bármely bűncselekmény esetén hozhat büntetővégzést.
 
-214. § (1) Az ügyészség a terheltet a bűncselekmény elkövetésétől számított három hónapon belül bíróság elé állíthatja, ha a Be. 723. §-ában meghatározott feltételek fennállnak, kivéve, ha a Be. 723. §-ában meghatározott határidő a veszélyhelyzet kihirdetését megelőzően járt le.
+214. § (1) Az ügyészség a terheltet a bűncselekmény elkövetésétől számított három hónapon belül bíróság elé állíthatja, ha a Be. 723. §-ában meghatározott feltételek fennállnak.
 
-(2) Az ügyészség a terheltet a gyanúsítottként történő kihallgatásától számított három hónapon belül bíróság elé állíthatja, ha a Be. 724. §-ában meghatározott feltételek fennállnak, kivéve, ha a Be. 724. §-ában meghatározott határidő a veszélyhelyzet kihirdetését megelőzően járt le.
+(2)
 
-(3) A vád előterjesztése után a bíróság az ügyiratokat az ügyészségnek a Be. 728. § (4) bekezdés c) és d) pontjában meghatározott okokból, valamint akkor küldheti vissza, ha az (1) bekezdésben vagy a (2) bekezdésben meghatározott határidő a bíróság elé állításig eltelt.
+(3) A vád előterjesztése után a bíróság az ügyiratokat az ügyészségnek a Be. 728. § (4) bekezdés c) és d) pontjában meghatározott okokból, valamint akkor küldheti vissza, ha az (1) bekezdésben meghatározott határidő a bíróság elé állításig eltelt.
 
-(4) Az elsőfokú bíróság ítélete és ügydöntő végzése elleni fellebbezést a másodfokú bíróság az ügy érkezését követő három hónapon belül bírálja el.
+(4)
 
 215. § (1) A bíróság a büntetővégzést az ügy érkezését követő három hónapon belül hozza meg.
 
@@ -1758,7 +1784,7 @@ kapcsolatban, akkor az eljárási cselekmény nem folytatható.
 
 216. § A Be. CII. Fejezete szerinti eljárásban tárgyalás nem tartható, ha a terhelt tárgyaláson történő megjelenése járványügyi intézkedés vagy egészségügyi válsághelyzettel összefüggő egyéb rendelkezés miatt Magyarország határának vagy a járványügyi helyzettel összefüggésben a külföldi tartózkodási helye szerinti állam határának átlépésére vonatkozó szabályok miatt nem lehetséges.
 
-217. § (1) Az ügyészség a Be. CVII. Fejezete szerinti eljárásban a terheltet a bűncselekmény elkövetésétől vagy a gyanúsítottként történő kihallgatásától számított egy hónapon belül állítja bíróság elé.
+217. § (1) Az ügyészség a Be. CVII. Fejezete szerinti eljárásban a terheltet a bűncselekmény elkövetésétől számított egy hónapon belül állítja bíróság elé.
 
 (2) A bíróság a Be. CVII. Fejezete szerinti eljárásban a büntetővégzést az ügyiratoknak a bírósághoz érkezését követő egy hónapon belül hozza meg.
 
@@ -1776,7 +1802,7 @@ kapcsolatban, akkor az eljárási cselekmény nem folytatható.
 
 #### 77. A távoltartás egészségügyi válsághelyzet idején alkalmazandó eltérő szabályai
 
-220. § (1) A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény (a továbbiakban: 2009. évi LXXII. törvény), valamint a Be. távoltartásra és bűnügyi felügyeletre vonatkozó rendelkezéseit 2020. december 31-éig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
+220. § (1) A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény (a továbbiakban: 2009. évi LXXII. törvény), valamint a Be. távoltartásra és bűnügyi felügyeletre vonatkozó rendelkezéseit 2021. június 30. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -1828,7 +1854,7 @@ járványügyi intézkedéssel érintettségét.
 
 #### 78. A büntető és szabálysértési ügyekben alkalmazható közvetítői tevékenység eltérő szabályai
 
-225. § (1) A büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény (a továbbiakban: Bktv.) rendelkezéseit 2020. december 31. napjáig az e törvényben foglalt eltérésekkel kell alkalmazni.
+225. § (1) A büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény (a továbbiakban: Bktv.) rendelkezéseit 2021. június 30. napjáig az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -1897,7 +1923,7 @@ történik.
 
 #### 79. A megelőző pártfogás során a pártfogó felügyelő eljárására vonatkozó eltérő szabályok
 
-235. § (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény rendelkezéseit 2020. december 31. napjáig az e törvényben meghatározott eltérésekkel kell alkalmazni.
+235. § (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény rendelkezéseit 2021. június 30. napjáig az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A pártfogó felügyelő a megelőző pártfogás elrendelése iránti eljárásban a környezettanulmány elkészítése és a megelőző pártfogás végrehajtása során feladatát az együttműködésre köteles személyekkel történő írásbeli, kép- és hangkapcsolatot vagy hangkapcsolatot biztosító elektronikus kapcsolattartás útján is elláthatja, ha a személyes kapcsolattartás
 
@@ -1910,7 +1936,7 @@ történik.
 
 #### 80. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény rendelkezéseinek eltérő alkalmazása
 
-236. § (1) A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) rendelkezéseit 2020. december 31. napjáig az e törvényben meghatározott eltérésekkel kell alkalmazni.
+236. § (1) A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) rendelkezéseit 2021. június 30. napjáig az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (2) Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -2019,7 +2045,7 @@ korlátozhatja.
 
 #### 81. A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény rendelkezéseinek eltérő alkalmazása
 
-246. § (1) A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény (a továbbiakban: Nbjt.) rendelkezéseit 2020. december 31. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
+246. § (1) A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény (a továbbiakban: Nbjt.) rendelkezéseit 2021. június 30. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -2037,7 +2063,7 @@ korlátozhatja.
 
 (4) Ha a terhelt ideiglenes kiadatási bűnügyi felügyelet hatálya alatt áll és az átadása végrehajtható, az átadás végrehajtása érdekében a terhelt őrizete rendelhető el.
 
-249. § (1) Ha a bíróság a kiadatás feltételeinek fennállását megállapította és a kiadott személy átadása a 248. § (1) bekezdése alapján nem hajtható végre, a bíróság az ideiglenes kiadatási bűnügyi felügyelet, illetve a kiadatási letartóztatás indokoltságát a kiadatás feltételeinek fennállásának megállapítását követően legfeljebb háromhavonta az ügyiratok alapján hivatalból felülvizsgálja.
+249. § (1) Ha a bíróság a kiadatás feltételeinek fennállását megállapította és a kiadott személy átadása a 248. § (1) bekezdése alapján nem hajtható végre, a bíróság az ideiglenes kiadatási bűnügyi felügyelet, a kiadatási bűnügyi felügyelet, illetve a kiadatási letartóztatás indokoltságát a kiadatás feltételeinek fennállásának megállapítását követően legfeljebb háromhavonta az ügyiratok alapján hivatalból felülvizsgálja.
 
 (2) A bíróság a kényszerintézkedés indokoltságának felülvizsgálata során a miniszter útján megkeresi a megkereső külföldi államot annak érdekében, hogy
 
@@ -2094,7 +2120,7 @@ korlátozhatja.
 
 #### 82. Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény rendelkezéseinek eltérő alkalmazása
 
-257. § (1) Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény rendelkezéseit 2020. december 31. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
+257. § (1) Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény rendelkezéseit 2021. június 30. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -2235,7 +2261,7 @@ tekintetében.
   - b) az Európai Unión, az Európai Gazdasági Térségen, valamint a Svájci Államszövetségen kívüli állam állampolgára vagy ilyen államban bejegyzett jogi személy vagy egyéb szervezet;
 - 3. stratégiai társaság: olyan magyarországi székhelyű korlátolt felelősségű társaság, zártkörűen működő részvénytársaság, vagy nyilvánosan működő részvénytársaság, amely a Kormány rendeletében meghatározott főtevékenységként vagy további tevékenységi körként végzett tevékenysége az energia-, a közlekedés, a kommunikáció ágazatba, valamint az Unióba irányuló közvetlen külföldi befektetések átvilágítási keretének létrehozásáról szóló, 2019. március 19-i (EU) 2019/452 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés a)–e) pontja szerinti – ide nem értve a pénzügyi infrastruktúrát – stratégiai jelentőségű ágazatba tartozik.
 
-277. § (1) Stratégiai társaság esetén – ha a szerződés megkötése, az egyoldalú jognyilatkozat megtétele vagy a társaság határozata (a továbbiakban együtt: jogügylet) a (2)–(4) bekezdésben foglaltakat eredményezi – a belgazdaságért felelős miniszterhez (ezen alcím alkalmazásában a továbbiakban: miniszter) tett bejelentés és a bejelentés tudomásulvétele szükséges 2020. december 31-ig az alábbi jogügyletekkel összefüggésben:
+277. § (1) Stratégiai társaság esetén – ha a szerződés megkötése, az egyoldalú jognyilatkozat megtétele vagy a társaság határozata (a továbbiakban együtt: jogügylet) a (2)–(4) bekezdésben foglaltakat eredményezi – a belgazdaságért felelős miniszterhez (ezen alcím alkalmazásában a továbbiakban: miniszter) tett bejelentés szükséges a 2021. június 30-ig létrejött jogügyletekkel összefüggésben:
 
 - a) stratégiai társaságban fennálló tulajdoni részesedés részben, vagy egészben, bármilyen tulajdonjog átruházási jogcímen – ideértve az apportálást is –, ingyenesen vagy visszterhesen történő átruházása,
 - b) stratégiai társaságban történő tőkeemelés,
@@ -2256,6 +2282,8 @@ tekintetében.
 (4) A miniszterhez tett bejelentés és a bejelentés tudomásulvétele szükséges a 276. § 3. pontjában megjelölt ágazatokba tartozó tevékenység folytatásához nélkülözhetetlen infrastruktúrák, berendezések és eszközök átruházása, használati vagy működtetési jogának átengedése vagy ilyen vagyontárgyak biztosítékba adása (a továbbiakban együtt: üzemeltetési jog) esetén is, ha az üzemeltetési jogot külföldi befektető vagy olyan jogi személy vagy szervezet szerzi meg, amelyben a külföldi befektető közvetlenül vagy közvetetten a Polgári Törvénykönyvről szóló törvény szerint meghatározó befolyással rendelkezik.
 
 (5) Ezen alcím rendelkezései nem alkalmazhatók, ha a külföldi székhelyű jogi személy vagy egyéb szervezet tekintetében létrejött (1) bekezdés szerint jogügylet a külföldi székhelyű jogi személy vagy egyéb szervezet stratégiai társaságnak minősülő magyarországi székhelyű leányvállalata tekintetében eredményezi a (2)–(4) bekezdésében foglaltakat.
+
+(6) Ezen alcím rendelkezései nem alkalmazhatóak, ha a külföldi székhelyű jogi személy vagy egyéb szervezet tekintetében létrejött (1) bekezdés szerinti jogügylet a számvitelről szóló 2000. évi C. törvény szerinti kapcsolt vállalkozások tekintetében jön létre.
 
 278. § (1) A miniszter az e § szerinti eljárást magyar nyelvű, vagy magyar nyelvű hiteles fordítású bejelentés alapján folytatja le. A bejelentési kötelezettség megsértése esetén az eljárás lefolytatásának utólagos bejelentés alapján vagy hivatalból is helye van.
 
