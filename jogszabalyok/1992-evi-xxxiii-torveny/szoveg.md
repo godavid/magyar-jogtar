@@ -1053,7 +1053,7 @@ alapszabadság illeti meg.
 
 63. § (1) A közalkalmazott fizetési osztályát (besorolását) – a 61. § (1) bekezdésében foglaltak figyelembevételével – az ellátandó munkakör betöltésére előírt annak a legmagasabb iskolai végzettségnek, illetve szakképesítésnek, szakképzettségnek, doktori címnek, tudományos fokozatnak alapján kell meghatározni, amellyel a közalkalmazott rendelkezik.
 
-(2) A művészeti területen foglalkoztatottak esetében az „F” fizetési osztály helyett a „G” fizetési osztályba, a „H” fizetési osztály helyett az „I” fizetési osztályba kell besorolni azt a közalkalmazottat, aki a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény vagy a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja-díjjal vagy a kultúráért felelős miniszter által jogszabály alapján adományozható művészeti díjjal rendelkezik. E rendelkezést kell alkalmazni a korábban hatályos jogszabályok alapján Kossuth-díjban vagy állami díjban, illetve a jelenleg hatályos jogszabályokban szereplőkkel azonos elnevezésű művészeti díjban vagy kitüntető címben részesült, művészeti területen foglalkoztatott közalkalmazottak besorolásánál is.
+(2)
 
 (3) Nem érinti a 61. § (1) bekezdése szerinti besorolást, ha a munkakör ellátásához az iskolai végzettségen, illetve szakképesítésen, szakképzettségen, doktori címen, tudományos fokozaton, valamint akadémiai tagságon túl egyéb más képesítés is szükséges.
 
@@ -1347,7 +1347,7 @@ magasabb fizetési fokozatba kell besorolni.
 - c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő közalkalmazottak kiválasztására, valamint többletmunkájukhoz és képzési többletterhükhöz kapcsolódó anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat,
 - d) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, az Eötvös Loránd Kutatási Hálózat központi költségvetési szervei,, a művészeti, a közművelődési és a közgyűjteményi, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
+(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, az Eötvös Loránd Kutatási Hálózat központi költségvetési szervei, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen, illetve művészeti, közművelődési vagy közgyűjteményi tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
 
 - a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 - b) azt a munkakört, amelyben nem kötelező pályázat kiírása a közalkalmazotti jogviszony létesítéséhez,
@@ -1407,18 +1407,7 @@ magasabb fizetési fokozatba kell besorolni.
   - ee) a teljes munkaidőből kötelezően a munkahelyen töltendő idő tartamát, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
   - ef) a tudományos kutatói közalkalmazotti jogviszony létesítésénél a magyar állampolgársággal rendelkezés alóli felmentésnek, a szabad mozgás és tartózkodás jogával rendelkezés alóli felmentésnek a feltételeit, illetve bevándorolt vagy letelepedett státusz feltétele alóli mentesítésnek a feltételét;
   - eg)
-- f) a művészeti, a közművelődési és a közgyűjteményi intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
-  - fa) a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
-  - fb) a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
-  - fc) a vezető állású munkavállalóval betöltendő vezetői munkaköröket,
-  - fd) a gyakornoki idő kikötése alól mentes munkaköröket,
-  - fe) a gyakornoki követelmények ágazati szakmai tartalmát,
-  - ff) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
-  - fg) munkakörönként a napi munkaidőből a kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
-  - fh) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
-  - fi)
-  - fj) az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
-  - fk) azt a magasabb vezető és vezető beosztást, amelynek a betöltéséhez a munkakör ellátásához szükséges magyar nyelvtudás előírható;
+- f)
 - g) a testnevelési és sportintézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében munkakörönként a napi munkaidőből a kötelezően a munkahelyen töltendő időt.
 
 (3a)

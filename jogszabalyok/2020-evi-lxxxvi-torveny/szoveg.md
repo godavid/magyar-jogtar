@@ -64,123 +64,19 @@ lép.
 
 21. §
 
-22. § A Vtv. 10. §-a helyébe a következő rendelkezés lép:
-
-„10. § (1) E törvény alapján műszaki hatósági engedély (a továbbiakban: műszaki engedély) szükséges
-
-a) jogszabály eltérő rendelkezése hiányában a vasúti pálya és tartozékai – ideértve a trolibusz felsővezetékét is –
-
-aa) tekintetében feltétfüzet alkalmazásához,
-
-ab) engedélyezési feltételeinek előzetes vizsgálatához (elvi építési engedély),
-
-ac) építéséhez,
-
-ad) átalakításához, korszerűsítéséhez,
-
-ae) használatbavételéhez,
-
-af) ideiglenes használatbavételéhez,
-
-ag) fennmaradásához,
-
-ah) megszüntetéséhez, bontásához,
-
-ai) üzemszünetéhez,
-
-aj) tekintetében az építési engedélyben foglaltaktól való eltéréshez;
-
-b) jogszabály eltérő rendelkezése hiányában a vasúti jármű
-
-ba) forgalomba hozatalához,
-
-bb) típusának engedélyezéséhez,
-
-bc) elvi előzetes típusa engedélyezéséhez,
-
-bd) előzetes típusa engedélyezéséhez,
-
-be) üzembe helyezéséhez,
-
-bf) átalakításához,
-
-bg) honosításához,
-
-bh) különleges menete engedélyezéséhez;
-
-c) a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok, nyomástartó edények forgalomba hozatalához és üzemben tartásához, valamint átalakításához;
-
-d) a vasúti járművekre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények vizsgálatát végző személyek és szervezetek tevékenységéhez;
-
-e) a vasúti járművek, vasúti járművek közlekedésbiztonsági berendezései – a futómű, a fék, a kocsiszekrény és a vonatbefolyásoló berendezés – javítását, karbantartását és időszakos vizsgálatát végző személyek és szervezetek tevékenységéhez.
-
-(2) A műszaki engedélyt a közlekedési hatóság – az a)–b) pontok esetén e törvény felhatalmazása alapján kiadott kormányrendeletben, a c)–e) pontok esetén e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feltételek szerint – adja ki.”
+22. §
 
 23. §
 
-24. § A Vtv. 31. § (1d) bekezdése helyébe a következő rendelkezés lép és a § a következő (1e) bekezdéssel egészül ki:
-
-„(1d) Ha az (1a) bekezdésben meghatározott szervezetek részéről az (1a)–(1c) bekezdésekben meghatározott kockázatelemzés elvégzése vagy kockázatkezelési intézkedés végrehajtása szükséges, ezeket a kijelölő hatóság engedélyével rendelkező kockázatértékelő szervezet értékeli. A kockázatkezelési intézkedés csak a kockázatértékelő szervezet jóváhagyása után hajtható végre.
-
-(1e) A vasúti járműveknek a vállalkozó vasúti társaságok közötti cseréje esetén minden érintett megosztja a többi érintettel a működés biztonsága szempontjából lényeges információkat, így különösen az érintett jármű állapotára és üzemi előzményeire, a nyomonkövethetőség céljából a karbantartási nyilvántartás egyes elemeire, a rakodási műveletek nyomonkövethetőségére és a fuvarlevelekre vonatkozóan.”
+24. §
 
 25. §
 
-26. § A Vtv. 36/I. §-át megelőző alcím címe helyébe a következő cím lép:
+26. §
 
-„A VASÚTI JÁRMŰVEK FORGALOMBA HOZATALA, ÜZEMBE HELYEZÉSE, JAVÍTÁSA, IDŐSZAKOS VIZSGÁLATA ÉS A KARBANTARTÁSÉRT FELELŐS SZERVEZET”
+27. §
 
-27. § A Vtv. 36/I. §-a a következő (1h) bekezdéssel egészül ki:
-
-„(1h) A vasúti járművek forgalomba hozatala, üzembe helyezése engedélyezéséről, időszakos és rendkívüli vizsgálatáról, hatósági járműnyilvántartásáról szóló kormányrendeletben meghatározott vasúti járművek üzembe helyezését a közlekedési hatóság engedélyezi.”
-
-28. § (1) A Vtv. 80. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A közlekedési hatóság feladat- és hatáskörébe tartozik:
-
-a) a műszaki engedély kiadása,
-
-b) ha a vállalkozó vasúti társaság szolgáltatási területe Magyarország területére korlátozódik, és a vállalkozó vasúti társaság a közlekedési hatóság eljárását kérelmezte, az egységes biztonsági tanúsítvány, valamint a vasútbiztonsági engedély kiállítása, meghosszabbítása, módosítása, visszavonása, valamint az abban foglalt feltételek teljesítésének ellenőrzése és felügyelete,
-
-c) a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzésére és vizsgáztatására vonatkozó rendelkezések munkavállalók, vállalkozó vasúti társaságok, pályahálózat-működtetők, oktatók, vizsgabiztosok és képzőszervek által történő betartásának rendszeres ellenőrzése, a képzési tevékenység folytatására irányuló bejelentések nyilvántartásba vétele, az alapképzés és az időszakos oktatás rendszeres ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak rendszeres ellenőrzése, hogy a vasúti közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
-
-d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a vasúti forgalom lebonyolításának, valamint a vasúti közlekedéssel összefüggő tevékenységek ellenőrzése és felügyelete abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben és a hálózati, a forgalmi és a biztonsági szabályzatokban foglaltaknak, továbbá a járművek vagy járműtípusok az alapvető követelményeknek való megfelelőségének ellenőrzése és felügyelete,
-
-e) a vasúti járművek és a vasúti járműre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények hatósági jelzésének kiadása,
-
-f) a vasúti járművek, valamint a vasúti pályák nyilvántartásának vezetése,
-
-g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti szabályok érvényesítése és érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, a nem jogszabályban kihirdetett nemzeti szabályok kiadását megelőző vizsgálata,
-
-h) a (2) bekezdés szerinti éves jelentés elkészítése,
-
-i) az egységes biztonsági tanúsítvány megszerzéséhez szükséges tudnivalókról ingyenesen hozzáférhető útmutató készítése,
-
-j) együttműködés és információcsere a más EGT-államokban működő vasútbiztonsági hatóságokkal döntéshozatali kritériumaik uniós szintű harmonizálása érdekében, elsősorban az Ügynökség által létrehozott hálózaton belül,
-
-k) az utazó vasúti munkavállalók jogaira és kötelezettségeire vonatkozó rendelkezések betartásának ellenőrzése és felügyelete, amely nem érinti a munkaügyi hatóságnak a rá irányadó jogszabályban foglalt ellenőrzési hatáskörét,
-
-l) a vasúti járművezetői engedélyek kiállítása, megújítása, nyilvántartása, másolatok készítése, az engedélyek felfüggesztése és visszavonása, valamint a kiállító vasúti társaság értesítése a tanúsítványok felfüggesztésének kéréséről, továbbá a tanúsítvánnyal kapcsolatos munkáltatói döntés felülvizsgálata,
-
-m) az egészségi alkalmasság megállapítása, valamint a vizsgáló szervezet 36/B. § szerinti tevékenységének ellenőrzése,
-
-n) a képzést és vizsgáztatást, valamint az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának vezetése,
-
-o) a hálózati forgalmi és a biztonsági szabályzatok jóváhagyása,
-
-p) együttműködés az Ügynökséggel a forgalombahozatali járműengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 21. cikke (5) bekezdésének megfelelően, vagy jármű-típusengedélyeknek az (EU) 2016/797 európai parlamenti és tanácsi irányelv 24. cikkének megfelelően történő kiállításában, megújításában, módosításában és visszavonásában, az (EU) 2016/798 európai parlamenti és tanácsi irányelv 10. cikk (5) bekezdése szerinti egységes biztonsági tanúsítványok kiállításában, megújításában, módosításában és visszavonásában, az ÁME-k kidolgozásában és felülvizsgálatában, valamint az Ügynökségnek a vasútbiztonság uniós szintű fejlesztésének nyomon követésével kapcsolatos munkájában,
-
-q) a transzeurópai hagyományos és nagysebességű vasúti rendszerekre vonatkozó, a kölcsönös átjárhatóságot lehetővé tevő átjárhatósági műszaki előírásokkal összefüggő hatósági engedélyezési, ellenőrzési és felügyeleti feladatok ellátása,
-
-r) a vasúti járművek forgalomba hozatalára vonatkozó nemzeti szabályozás mint nemzeti referenciadokumentum (a továbbiakban: nemzeti referenciadokumentum) jóváhagyása, valamint a nemzeti referenciadokumentum módosításának a jóváhagyása,
-
-s) a vasúti járművek karbantartásáért felelős szervezetek tanúsítása,
-
-t) a vasúti járművezetők munkaidejére, vezetési idejére és pihenőidejére vonatkozó szabályok betartásának vasúti közlekedésbiztonsági szempontból történő ellenőrzése és felügyelete,
-
-u) a vasúti műszaki bizottság bevonásával az éves biztonsági tervek kidolgozása és közzététele,
-
-v) mindazon feladatok ellátása, amelyeket törvény vagy kormányrendelet a feladatkörébe utal.”
+28. § (1)
 
 (2)
 
@@ -198,30 +94,28 @@ v) mindazon feladatok ellátása, amelyeket törvény vagy kormányrendelet a fe
 
 33. §
 
-34. § A Vtv.
+34. §
 
-- 1. 2. § 2. pont 2.19. alpontjában a „forgalombahozatali járműengedéllyel” szövegrész helyébe a „forgalombahozatali járműengedéllyel vagy üzembehelyezési engedéllyel” szöveg,
-- 2. 31. § (8) bekezdésében a „pályahálózat-működtető” szövegrész helyébe a „vasúti társaság” szöveg,
-- 3. 36/I. § (3) bekezdésében a „forgalomba hozatal” szövegrész helyébe a „forgalomba hozatal, valamint az üzembe helyezés” szöveg,
-- 4. 36/I. § (4) bekezdésében az „A forgalomba hozatal” szövegrész helyébe az „A forgalomba hozatal, az üzembe helyezés” szöveg,
-- 5. 36/I. § (4) bekezdésében az „A karbantartó szervezetet” szövegrész helyébe „A karbantartásért felelős szervezetet” szöveg,
-- 6. 36/I. § (5) bekezdés a) pontjában a „típusengedéllyel vagy forgalombahozatali járműengedéllyel” szövegrész helyébe a „típusengedéllyel, forgalombahozatali járműengedéllyel vagy üzembehelyezési engedéllyel” szöveg,
-- 7. 68. § (4) bekezdésében a „Vasútegészségügyi Szolgáltató Közhasznú Társaság,” szövegrész helyébe a „Vasútegészségügyi Nonprofit Közhasznú Korlátolt Felelősségű Társaság,” szövegrész, az „a Honvédkórház-Állami Egészségügyi Központon” szövegrész helyébe az „a Magyar Honvédség Egészségügyi Központ” szöveg,
-- 8. 80/E. § (3) bekezdésében a „műszaki engedélyezési eljárással” szövegrész helyébe a „műszaki engedélyezési eljárással, az egységes biztonsági tanúsítvánnyal kapcsolatos eljárásokkal” szöveg,
-- 9. 80/E. § (3a) bekezdésében az „egységes biztonsági tanúsítvánnyal, jármű forgalomba hozatali engedélyezési” szövegrész helyébe az „az egységes biztonsági tanúsítvány, a vasúti jármű forgalombahozatali, valamint a helyhez kötött berendezések használatbavételi engedélyezési” szöveg,
+- 1.
+- 2.
+- 3.
+- 4.
+- 5.
+- 6.
+- 7.
+- 8.
+- 9.
 - 10.
-- 11. 87/I. § (2) bekezdésében az „A járműveknek” szövegrész helyébe az „A forgalombahozatali járműengedélyezéssel érintett vasúti járműveknek” szöveg,
+- 11.
 - 12.
 - 13.
 
-lép.
+35. §
 
-35. § Hatályát veszti a Vtv.
-
-- a) 2. § 6.5. alpontja,
-- b) 36/G. §-át követő „A VASÚTI FORGALOM LEBONYOLÍTÁSA” alcím címe,
-- c) 36/H. §-a,
-- d) 46. § (5) bekezdése,
+- a)
+- b)
+- c)
+- d)
 - e)
 - f)
 - g)
@@ -232,7 +126,7 @@ lép.
 
 #### 8. A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény módosítása
 
-36. § A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény 2. § j) pontjában a „más vasúti baleset” szövegrész helyébe a „más, ugyanilyen következményekkel járó vasúti baleset” szöveg lép.
+36. §
 
 #### 9. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
