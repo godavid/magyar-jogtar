@@ -1106,6 +1106,8 @@ a büntetés-végrehajtási bírói eljárásban segítőként vehet részt, a m
 - a) a meghallgatás időpontjáról a bv. intézetet és az ügyészséget, a védőt, ha a pártfogó felügyelő meghallgatása szükséges, a büntetés-végrehajtási pártfogó felügyelőt, továbbá, ha az elítélt fiatalkorú, a törvényes képviselőjét értesíti,
 - b) ha az elítélt szabadlábon van, az elítéltet a meghallgatásra idézi.
 
+(2a) A Btk. 69. § (2) bekezdés a) és c) pontjában meghatározott esetben a büntetés-végrehajtási bíró pártfogó felügyelői vélemény beszerzését rendeli el.
+
 (3) Ha a büntetés-végrehajtási bíró azt észleli, hogy az elítéltet a feltételes szabadság kedvezményéből a Btk. 38. § (4) bekezdésében, illetve a Btk. 45. § (7) bekezdésében foglaltak miatt az ügydöntő határozat meghozatalakor ki kellett volna zárni, a Be. 671. § 4. pontja szerinti eljárás lefolytatása érdekében az alapügyben eljárt elsőfokú bíróságot keresi meg, és az elsőfokú bíróság határozatának megküldéséig az eljárást felfüggeszti. Ha a büntetés-végrehajtási bíró megállapítja, hogy a Btk. 38. § (2) bekezdésében meghatározott minimális időtartam a szabadságvesztésből még nem telt el, a feltételes szabadságra bocsátást mellőzi.
 
 (4) Ha a feltételes szabadságra bocsátásról való döntéshez a szükséges adatok hiányoznak, de rövid időn belül beszerezhetők, a büntetés-végrehajtási bíró a feltételes szabadságra bocsátás mellőzése helyett a meghallgatást elnapolja, és a meghallgatásra új határnapot tűz ki.
@@ -3119,6 +3121,12 @@ vizsgálja.
 
 (2) Ha az elítélt által a Btk. 92–92/B. §-a szerinti beszámításra figyelemmel indokolt, a feltételes szabadságra bocsátás tárgyában a bv. intézet soron kívül, egyébként a feltételes szabadságra bocsátás lehetséges időpontja előtt három hónappal tesz előterjesztést a büntetés-végrehajtási bírónak. Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de annak esedékességéig az elítélt súlyos fegyelmi vétséget követett el, a bv. intézet erről haladéktalanul értesíti.
 
+(2a) Ha a feltételes szabadságra bocsátásról való rendelkezésnek a Btk. 38. § (6) bekezdése alapján van helye, az előterjesztéshez csatolni kell
+
+- a) az elítélt számára meghatározott egyéniesített fogvatartási programtervet és az egyéni gondozási tervről szóló összefoglaló jelentést,
+- b) az elítélt mentális állapotára vonatkozó szakorvosi és pszichológusi véleményt, amennyiben a bíróság az elkövető korlátozott beszámítási képességét állapította meg az ügydöntő határozatban,
+- c) az elítélt kiskorú gyermekével kapcsolatosan beszerzett gyámhatósági véleményt.
+
 (3) A büntetés-végrehajtási bíró a határozott ideig tartó szabadságvesztésből feltételes szabadságra bocsátott elítélt pártfogó felügyeletét (Btk. 69. §) rendelheti el, és az elítélt számára a Btk. 71. § (2)–(3) bekezdése alapján külön magatartási szabályokat írhat elő.
 
 (4) A büntetés-végrehajtási bíró az életfogytig tartó szabadságvesztésből feltételes szabadságra bocsátott elítélt számára a Btk. 71. § (2)–(3) bekezdése alapján külön magatartási szabályokat írhat elő.
@@ -4492,6 +4500,8 @@ kezdődik.
 (4) A magatartási szabályok megtartását a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő ellenőrzi, abban a rendőrség a 310. § (4) bekezdése szerint vagy a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő megkeresésére közreműködik.
 
 (4a) Ha a pártfogolt magatartásáról a személyes kapcsolattartás keretében szerzett tapasztalatok alapján az állapítható meg, hogy a pártfogó felügyelet eredményes végrehajtása így is biztosítható, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő a pártfogolt kapcsolattartási kötelezettsége teljesítésének módját telefon vagy egyéb elektronikus kapcsolattartás útján is meghatározhatja. A pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő a pártfogolt magatartásának megváltozására figyelemmel az intézkedést visszavonhatja.
+
+(4b) A pártfogó felügyelet eredményes végrehajtása érdekében a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő a külön magatartási szabály megtartásának ellenőrzése során a sértettől vagy a külön magatartási szabállyal érintett más személytől felvilágosítást kérhet.
 
 (5) Ha a pártfogó felügyelet eredményes végrehajtása érdekében a külön magatartási szabály módosítása vagy mellőzése indokoltnak tűnik, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő az ellenőrzési tapasztalatai, vagy a rendőrség kezdeményezése vagy a pártfogolt kérelme alapján a külön magatartási szabály megváltoztatására a büntetés-végrehajtási bírónak javaslatot tesz.
 
