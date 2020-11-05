@@ -374,6 +374,24 @@ részének, de legkevesebb három hónapnak a kitöltését követő nap.
 - b) az erőszakos többszörös visszaeső,
 - c) aki a bűncselekményt bűnszervezetben követte el,
 - d) akit olyan szándékos bűncselekmény miatt ítéltek szabadságvesztésre, amelyet korábbi, határozott ideig tartó végrehajtandó szabadságvesztésre ítélése után, a végrehajtás befejezése vagy a végrehajthatóság megszűnése előtt követett el.
+- e) akit tettesként ítéltek végrehajtandó szabadságvesztésre az alábbi bűncselekmények miatt:
+  - ea) népirtás, emberiesség elleni bűncselekmény, apartheid, ha a halált szándékosan okozva követik el [142. § (1) bekezdés a) pont, 143. § (1) bekezdés a) pont, 144. § (1) bekezdés a) pont],
+  - eb) emberölés [160. § (1) és (2) bekezdés],
+  - ec) emberrablás [190. § (4) bekezdés],
+  - ed) fogolyzendülés, terrorcselekmény, jármű hatalomba kerítése és zendülés súlyosabban minősülő esetei, ha a halált szándékosan okozva követik el [284. § (4) bekezdés, 314. § (1) bekezdés, 320. § (2) bekezdés, 442. § (4) bekezdés], vagy
+  - ee) elöljáró vagy szolgálati közeg elleni erőszak [445. § (5) bekezdés a) pont].
+
+(5) Nem bocsátható feltételes szabadságra az sem, akit
+
+- a) a (4) bekezdés e) pontjában meghatározott bűncselekmény elkövetése esetén
+  - aa) előkészület miatt,
+  - ab) részesként, vagy
+  - ac) korlátlan enyhítés alkalmazásával, vagy
+- b) a hozzátartozója sérelmére elkövetett, nyolcévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett személy elleni erőszakos bűncselekmény miatt ítéltek végrehajtandó szabadságvesztésre.
+
+(6) A bíróság az ügydöntő határozatban az (5) bekezdésben meghatározott elkövető feltételes szabadságra bocsáthatóságáról rendelkezhet, ha az elkövetés körülményeire, az elkövető személyében rejlő társadalomra veszélyesség fokára vagy egyéb büntetéskiszabási körülményekre figyelemmel, a társadalom védelme és annak megelőzése, hogy az elkövető újabb bűncselekményt kövessen el, pártfogó felügyelet elrendelésével és külön magatartási szabály meghatározásával elérhető.
+
+(7) Az (5) bekezdés b) pontja alkalmazásában hozzátartozó alatt az elkövető gyermekének szülőjét, volt házastársát, volt élettársát, gondnokát, gondokoltját, gyámját vagy gyámoltját is érteni kell.
 
 39. § (1) Határozott ideig tartó szabadságvesztés esetén a feltételes szabadság tartama azonos a szabadságvesztés hátralevő részével, de legalább egy év. A 38. § (3) bekezdés alkalmazása esetén a bíróság az ügydöntő határozatában rendelkezhet úgy, hogy a feltételes szabadság tartama legalább egy, legfeljebb három évvel meghosszabbodik.
 
@@ -697,6 +715,10 @@ ha annak eredményes elteltéhez az elkövető rendszeres figyelemmel kísérés
 
 - a) akit életfogytig tartó szabadságvesztésből feltételes szabadságra bocsátottak,
 - b) az a visszaeső, akit feltételes szabadságra bocsátottak, vagy akivel szemben a szabadságvesztés végrehajtását felfüggesztették.
+- c) az a 38. § (5) bekezdése szerinti elkövető, akit a 38. § (6) bekezdése alkalmazásával bocsátottak feltételes szabadságra, vagy
+- d) a szabadságvesztés felfüggesztésének próbaidejére az, akit a hozzátartozója sérelmére elkövetett személy elleni erőszakos bűncselekmény miatt ítéltek szabadságvesztésre.
+
+(3) A (2) bekezdés d) pontja alkalmazásában hozzátartozó alatt az elkövető gyermekének szülőjét, volt házastársát, volt élettársát, gondnokát, gondokoltját, gyámját vagy gyámoltját is érteni kell.
 
 70. § (1) A pártfogó felügyelet tartama azonos
 
@@ -720,7 +742,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 (2) A bíróság, illetve feltételes ügyészi felfüggesztés esetén az ügyészség a határozatában a pártfogó felügyelet céljának elősegítése érdekében külön magatartási szabályként kötelezettségeket és tilalmakat írhat elő. A bíróság, illetve az ügyészség elrendelheti, hogy a pártfogolt
 
 - a) a bűncselekmény elkövetésében részt vett, meghatározott személlyel ne tartson kapcsolatot,
-- b) a bűncselekmény sértettjétől, illetve annak lakásától, munkahelyétől, vagy attól a nevelési-oktatási intézménytől, ahová a sértett jár, továbbá a sértett által rendszeresen látogatott helytől tartsa távol magát,
+- b) a bűncselekmény sértettjétől, valamint a sértettre tekintettel annak hozzátartozójától vagy más személytől (e § alkalmazásában a továbbiakban együtt: érintett személy), az érintett személy lakásától vagy életvitelszerű tartózkodására szolgáló más ingatlantól – ideértve a gyermekjóléti és gyermekvédelmi intézményeket is –, munkahelyétől, az érintett személy által rendszeresen látogatott intézményektől vagy egyéb helytől, különösen nevelési, nevelési-oktatási vagy gyógykezelés céljából látogatott egészségügyi intézménytől, vallásgyakorlása során látogatott épülettől tartsa távol magát,
 - c) meghatározott jellegű nyilvános helyeket és nyilvános rendezvényeket, valamint gyűléseket, meghatározott közterületeket ne látogasson,
 - d) nyilvános helyen ne fogyasszon szeszes italt,
 - e) meghatározott helyen és időközönként, meghatározott szervnél vagy személynél jelentkezzen,
@@ -730,6 +752,12 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 - i) vegyen részt a pártfogó felügyelő által szervezett csoportos foglalkozáson vagy a pártfogó felügyelői szolgálat közösségi foglalkoztatójának programja szerinti más foglalkozáson.
 
 (3) A bíróság, illetve az ügyészség a (2) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedése esélyeinek növelésére.
+
+(4) A 69. § (2) bekezdés c) és d) pontja szerinti elkövetővel szemben a (2) bekezdés b) pontja szerinti külön magatartási szabályt a sértett vagy a sértettre tekintettel annak hozzátartozója védelme érdekében el kell rendelni. A 69. § (2) bekezdés c) pontja szerinti esetben a bíróság e szabály megtartásának ellenőrzésére – kivéve, ha alkalmazásának műszaki feltételei nem adottak – a kötelezett mozgását nyomon követő technikai eszköz alkalmazását rendeli el.
+
+(5) A bíróság a (4) bekezdés alkalmazásától a 69. § (2) bekezdés d) pontja szerinti elkövetővel szemben az elkövetés körülményeire, az elkövető személyében rejlő társadalomra veszélyesség fokára, az elkövető és a bűncselekmény sértettje, illetve más, a bűncselekménnyel összefüggésben veszélyeztetett személy közötti kapcsolatra vagy egyéb büntetéskiszabási körülményre figyelemmel eltérhet.
+
+(6) A (2) bekezdés b) pontja szerinti távoltartás elrendelése nem zárja ki, hogy az elkövető – ha kapcsolattartásra jogosult – a kiskorú gyermekével felügyelt kapcsolattartás keretében kapcsolatot tartson.
 
 ### Az elkobzás
 
@@ -1146,6 +1174,8 @@ jogára.
 
 (4) A büntethetőség elévülése határidejének számításánál és a visszaesőkre vonatkozó rendelkezések szempontjából a (2)–(3) bekezdésben meghatározott időtartamok az irányadóak.
 
+(5) Fiatalkorúval szemben a 38. § (4) bekezdés e) pontja és (5) bekezdése alapján a feltételes szabadságra bocsátás lehetősége akkor zárható ki, ha a bűncselekmény elkövetésekor a tizenhatodik életévét betöltötte, és tízévi vagy azt meghaladó tartamú szabadságvesztésre ítélik.
+
 110. § (1) A szabadságvesztés végrehajtási fokozata fiatalkorúak börtöne, ha
 
 - a) a fiatalkorút bűntett miatt kétévi vagy ennél hosszabb tartamú szabadságvesztésre ítélik,
@@ -1220,6 +1250,8 @@ kell átváltoztatni.
 alatt pártfogó felügyelet alatt áll.
 
 (2) Fiatalkorúval szemben a jóvátételi munkavégzés előírása mellett pártfogó felügyeletet is el kell rendelni.
+
+(3) Fiatalkorúval szemben a 71. § (4) bekezdése nem alkalmazható.
 
 ### A javítóintézeti nevelés
 

@@ -3143,9 +3143,14 @@ van helye.
 
 200. § (1) A bíróság annak a pszichiátriai betegnek a kötelező intézeti gyógykezelését rendeli el, aki veszélyeztető magatartást tanúsít, de sürgősségi gyógykezelése nem indokolt.
 
-(2) A kötelező gyógykezelés elrendelésére irányuló eljárást az annak szükségességét megállapító pszichiátriai gondozóintézet szakorvosa, büntetőeljárás során elrendelt kényszergyógykezelés megszűnése esetén, amennyiben a beteg további intézeti gyógykezelése szükséges – az elbocsátás esedékessége napjának megjelölésével – a kényszergyógykezelést végző szerv főigazgató főorvosa a bíróság értesítésével kezdeményezi és javaslatot tesz a gyógykezelést végző pszichiátriai intézetre.
+(2) A kötelező gyógykezelés elrendelésére irányuló eljárást az annak szükségességét megállapító pszichiátriai gondozóintézet szakorvosa, büntetőeljárás során elrendelt kényszergyógykezelés megszűnése, valamint kóros elmeállapotú elítélt szabadítása esetén, amennyiben a beteg további intézeti gyógykezelése szükséges – az elbocsátás esedékessége napjának megjelölésével – a kényszergyógykezelést végző szerv főigazgató főorvosa a bíróság értesítésével kezdeményezi és javaslatot tesz a gyógykezelést végző pszichiátriai intézetre.
 
-(2a) A kötelező gyógykezelés elrendelésére irányuló eljárást az ügyész kezdeményezi a büntetőeljárást követően, ha a büntetendő cselekmény elkövetőjénél a kényszergyógykezelés egyéb törvényi feltételei fennállnak, azonban az elkövető büntethetősége esetén egyévi szabadságvesztésnél nem súlyosabb büntetést kellene kiszabni.
+(2a) A kötelező gyógykezelés elrendelésére irányuló eljárást az ügyész kezdeményezi a büntetőeljárást követően, ha
+
+- a) a büntetendő cselekmény elkövetőjénél a kényszergyógykezelés egyéb törvényi feltételei fennállnak, azonban az elkövető büntethetősége esetén egyévi szabadságvesztésnél nem súlyosabb büntetést kellene kiszabni,
+- b) a személy elleni erőszakos vagy közveszélyt okozó bűncselekmény miatt elítélt terhelt az elkövetéskor korlátozott beszámítási képességű volt.
+
+(2b) Ha a (2a) bekezdés b) pontja esetében az elítélt szabadságvesztést tölt, az ügyész a kezdeményezésben megjelöli a szabadulás esedékességének napját.
 
 (3) A bíróság az értesítés kézhezvételétől számított 15 napon belül határoz a kötelező intézeti gyógykezelés elrendeléséről.
 
