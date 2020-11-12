@@ -93,7 +93,23 @@ kitöltésével és beküldésével magyar vagy angol nyelven mutathatja be a ka
 
 (2) A karanténkötelezett a rendőrség ellenőrzését köteles elősegíteni, és ha a helyszíni ellenőrzés másként nem hajtható végre, a rendőrt köteles a karanténlakásba beengedni.
 
-#### 8. §
+8. § (1) A karanténlakás helye szerint illetékes rendőrkapitányság
+
+- a) a 3. § (1) és (2) bekezdése szerinti közlekedési, utazási és jelölés-elhelyezési szabályok,
+- b) a 3. § (3) bekezdése szerinti karanténszoftver alkalmazási szabályok,
+- c) az 5. § (1) bekezdése szerinti, karanténlakás elhagyására vonatkozó szabályok,
+- d) a 6. § (3) bekezdése szerinti közlekedési, utazási szabályok, illetve
+- e) a 7. § (2) bekezdése szerinti ellenőrzést elősegítő, illetve karanténlakásba történő bejutási szabály
+
+megsértése esetén a szabályszegést elkövető személyre 5 000 forinttól 150 000 forintig terjedő bírságot szab ki.
+
+(2) Az (1) bekezdés szerinti bírság azonos napon több egymást követő ellenőrzés alkalmával megállapított újabb jogsértések esetén ismételten kiszabható. Az azonos napon elkövetett jogsértések miatt kiszabható bírság legfeljebb 600 000 forint lehet.
+
+(3) A kiszabott bírság megfizetése a rendőrség hivatalos honlapján közzétett számlaszámra történő befizetéssel történik.
+
+(4) A bírságot a (3) bekezdés szerint a bírságot kiszabó határozat véglegessé válását követő 15 napon belül kell megfizetni.
+
+(5) A bírságot kiszabó határozat ellen nincs helye fellebbezésnek.
 
 #### 3. A hatóság által előírt karanténkötelezettség
 
@@ -146,7 +162,17 @@ tartalmazza.
 
 #### 4. Záró rendelkezések
 
-#### 15. §
+15. § (1) Nem minősül bűncselekménynek
+
+- a) a 3. § (1) és (2) bekezdése szerinti közlekedési, utazási és jelölés-elhelyezési szabályok,
+- b) a 3. § (3) bekezdése szerinti karanténszoftver alkalmazási szabályok,
+- c) az 5. § (1) bekezdése szerinti, karanténlakás elhagyására vonatkozó szabályok,
+- d) a 6. § (3) bekezdése szerinti közlekedési, utazási szabályok, illetve
+- e) a 7. § (2) bekezdése szerinti ellenőrzést elősegítő, illetve karanténlakásba történő bejutási szabály
+
+megsértése.
+
+(2) Az (1) bekezdésben meghatározottakon túl nem minősül bűncselekménynek a 9. § alkalmazásával megállapított karanténlakás elhagyására vonatkozó szabályok, valamint ellenőrzést elősegítő, illetve karanténlakásba történő bejutási szabályok megsértése.
 
 16. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -168,7 +194,15 @@ tartalmazza.
 
 #### 22. §
 
-#### 23. §
+23. § (1) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabstv.) 99. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A helyszíni bírság összege
+
+a) a védelmi intézkedés megszegése szabálysértés (239/A. §) esetén megegyezik a 11. § (1) bekezdése szerinti pénzbírság összegével,
+
+b) közérdekű üzem működésének megzavarása szabálysértés (177/A. §) esetén – ha azt az egészségügyről szóló 1997. évi CLIV. törvény 228. § (1) bekezdése alapján bevezetett járványügyi készültség ideje alatt követik el – ötezer forinttól százötvenezer forintig terjedhet.”
+
+(2) A Szabstv. 99. § (2) bekezdésében az „összege ötezer” szövegrész helyébe az „összege – a (2a) bekezdés kivételével – ötezer” szöveg lép.
 
 #### 24. §
 
@@ -182,7 +216,15 @@ tartalmazza.
 
 (5)
 
-(6)
+(6) A Vmtv. 187. §-a a következő (5)–(8) bekezdéssel egészül ki:
+
+„(5) Az (1) bekezdésben meghatározott szabálysértés miatt a helyszíni bírságot az elkövető távollétében is ki lehet szabni.
+
+(6) Az (5) bekezdés szerinti helyszíni bírság kiszabása esetén a karanténszabályok megtartását ellenőrző rendőr a hatósági házi karantén helyeként megjelölt lakáshoz, ahhoz tartozó bekerített helyhez, egészségügyi intézménynek nem minősülő helyhez tartozó levélszekrényben a helyszíni bírság kiszabásáról tájékoztatást helyez el, majd a helyszíni bírságoláshoz használt nyomtatvány másodlati példányát a csekkszelvénnyel együtt a nyilvántartásban szereplő lakcímre megküldi.
+
+(7) Ha a helyszíni bírságolt személy a helyszíni bírság kiszabását nem veszi tudomásul, vagy a megküldött csekkszelvényen vagy banki átutalással a helyszíni bírságot 30 napon belül nem fizeti meg, a szabálysértési eljárást az egyébként irányadó rendelkezések szerint kell lefolytatni.
+
+(8) Ha a helyszíni bírságot kiszabó szerv vagy személy a helyszíni bírság tudomásul vételének, illetve a bírság befizetésének hiányában szabálysértési feljelentést tesz, az ezt követően befizetett helyszíni bírságot vissza kell téríteni. A visszatérítésről a helyszíni bírságot kiszabó szerv vagy személy gondoskodik.”
 
 (7)
 

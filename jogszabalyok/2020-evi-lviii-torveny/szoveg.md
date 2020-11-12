@@ -1575,6 +1575,14 @@ szerinti szabálysértések miatt indított eljárásokat a szabálysértésekr�
 - a) a kiszabható pénzbírság legalacsonyabb összege háromezer forint, legmagasabb összege háromszázezer forint, továbbá
 - b) – pénzbírság kiszabása helyett – figyelmeztetés is alkalmazható, amelyet a rendőrség a Szabs. tv. 100/A. §-ától eltérően helyszíni intézkedés hiányában is alkalmazhat, valamint írásban és rövid úton is közölhet.
 
+(5) Az (1) bekezdésben meghatározott szabálysértés miatt a helyszíni bírságot az elkövető távollétében is ki lehet szabni.
+
+(6) Az (5) bekezdés szerinti helyszíni bírság kiszabása esetén a karanténszabályok megtartását ellenőrző rendőr a hatósági házi karantén helyeként megjelölt lakáshoz, ahhoz tartozó bekerített helyhez, egészségügyi intézménynek nem minősülő helyhez tartozó levélszekrényben a helyszíni bírság kiszabásáról tájékoztatást helyez el, majd a helyszíni bírságoláshoz használt nyomtatvány másodlati példányát a csekkszelvénnyel együtt a nyilvántartásban szereplő lakcímre megküldi.
+
+(7) Ha a helyszíni bírságolt személy a helyszíni bírság kiszabását nem veszi tudomásul, vagy a megküldött csekkszelvényen vagy banki átutalással a helyszíni bírságot 30 napon belül nem fizeti meg, a szabálysértési eljárást az egyébként irányadó rendelkezések szerint kell lefolytatni.
+
+(8) Ha a helyszíni bírságot kiszabó szerv vagy személy a helyszíni bírság tudomásul vételének, illetve a bírság befizetésének hiányában szabálysértési feljelentést tesz, az ezt követően befizetett helyszíni bírságot vissza kell téríteni. A visszatérítésről a helyszíni bírságot kiszabó szerv vagy személy gondoskodik.
+
 #### 76. A büntetőeljárásról szóló 2017. évi XC. törvény rendelkezéseinek alkalmazására vonatkozó átmeneti szabályok
 
 188. § A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) rendelkezéseit 2021. június 30. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
