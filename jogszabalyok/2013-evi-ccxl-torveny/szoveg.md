@@ -810,7 +810,7 @@ szabadságvesztés végrehajthatósága.
 
 (7) A döntéshez szükséges adatokat tartalmazó ügyiratokat és egyéb iratokat, valamint a kegyelmi kérelmet, illetve a kegyelmi kezdeményezést a tanács elnöke az adatok, iratok beszerzését követő nyolc napon belül az igazságügyért felelős miniszterhez felterjeszti.
 
-(8) Ha a kegyelmi eljárás során egészségügyi okra hivatkoznak, az igazságügyért felelős miniszter az előterjesztés előkészítése során – a büntetés végrehajtásának megkezdésére halasztó hatállyal – elrendelheti az elítéltnek a Büntetés-végrehajtás Központi Kórházában (a továbbiakban: Központi Kórház) vagy az IMEI-ben történő szakorvosi vizsgálatát.
+(8) Ha a kegyelmi eljárás során egészségügyi okra hivatkoznak, az igazságügyért felelős miniszter az előterjesztés előkészítése során – a büntetés végrehajtásának megkezdésére halasztó hatállyal – elrendelheti az elítéltnek a Büntetés-végrehajtás Egészségügyi Központban (a továbbiakban: BVEK) vagy az IMEI-ben történő szakorvosi vizsgálatát.
 
 (9) A büntetés vagy az intézkedés elengedése vagy mérséklése iránti kérelem vagy előterjesztés esetén az igazságügyért felelős miniszter elrendelheti a büntetés vagy javítóintézeti nevelés végrehajtásának a köztársasági elnök döntéséig történő elhalasztását vagy félbeszakítását.
 
@@ -1493,7 +1493,7 @@ tegyen újabb előterjesztést.
 
 (3) Az (1) és (2) bekezdésben foglaltakat kell alkalmazni az elítélt adatainak kezelésére akkor is, ha
 
-- a) az igazságügyért felelős miniszter a kegyelmi eljárás során elrendeli az elítéltnek a Központi Kórházban történő szakorvosi vizsgálatát, vagy
+- a) az igazságügyért felelős miniszter a kegyelmi eljárás során elrendeli az elítéltnek a BVEK-ban történő szakorvosi vizsgálatát, vagy
 - b) a szabadlábon lévő elítélt feltételes szabadságra bocsátása a Btk. 92–92/B. §-a alapján beszámított időre figyelemmel esedékes, de a letartóztatást nem a bv. intézetben töltötte.
 
 77. § (1) Az igazságügyért felelős miniszter a kegyelmi eljárások lefolytatása során, illetve a nemzetközi bűnügyi jogsegély keretében lefolytatott eljárások során, a 76. § (2) bekezdésében meghatározott adatok közül a kegyelem iránti előterjesztéshez, továbbá a jogsegélykérelem elintézéséhez és a bűnügyi jogsegélyről szóló jogszabályokban meghatározott vagy nemzetközi egyezményből eredő egyéb feladatai teljesítéséhez szükséges személyes adatokat ismerheti meg és kezelheti.
@@ -1725,7 +1725,7 @@ alapján fogadja be.
 - a) a befogadást követően, vagy
 - b) a 92. § (2) bekezdésében meghatározott kivizsgálást követően a kijelölt bv. intézetben
 
-a befogadó részlegen kell elhelyezni, ahol legfeljebb tizenöt napig tartózkodhat. A befogadó részlegen való elhelyezés időtartamába nem számít be az IMEI-ben, a Központi Kórházban vagy a más bv. intézetben megőrzésen töltött idő.
+a befogadó részlegen kell elhelyezni, ahol legfeljebb tizenöt napig tartózkodhat. A befogadó részlegen való elhelyezés időtartamába nem számít be az IMEI-ben, a BVEK-ban vagy a más bv. intézetben megőrzésen töltött idő.
 
 (3) A bv. intézeti befogadást követően a kockázatértékelési összefoglaló jelentés alapján a befogadó részleg vezetője az elítélt együttműködésével kialakítja és rögzíti az egyéniesített fogvatartási programtervet, majd a BFB az elítélt személyes meghallgatását követő nyolc napon belül dönt az elítélt rezsimbe sorolásáról és a bv. intézetben működő reintegrációs programokon való részvételéről.
 
@@ -2651,7 +2651,7 @@ korlátozható.
 
 159. § Az elítélt a beavatkozás elvégzéséhez való beleegyezését bármikor visszavonhatja. A beleegyezés alapos ok nélküli visszavonása esetén azonban kötelezhető az ennek következtében felmerült és indokolt költségek megtérítésére.
 
-160. § A büntetések és intézkedések végrehajtása során az elítélt egészségi állapotának megfelelő gyógyító-megelőző ellátását elsősorban a fogva tartó bv. intézet, illetve a Központi Kórház, annak a Szegedi Fegyház és Börtönben működő Krónikus Utókezelő Részlege, valamint az IMEI biztosítja, és az elítélt ezt az ellátást köteles igénybe venni.
+160. § A büntetések és intézkedések végrehajtása során az elítélt egészségi állapotának megfelelő gyógyító-megelőző ellátását elsősorban a fogva tartó bv. intézet, illetve a BVEK, annak a Szegedi Fegyház és Börtönben működő Krónikus Utókezelő Részlege, valamint az IMEI biztosítja, és az elítélt ezt az ellátást köteles igénybe venni.
 
 161. § Ha az elítélt megfelelő egészségügyi ellátása a büntetés-végrehajtási szervezet keretein belül nem lehetséges, a bv. orvos vagy a bv. egészségügyi szerv gondoskodik arról, hogy az elítélt egészségügyi intézményben részesüljön a megfelelő és kötelező ellátásban.
 
@@ -5892,7 +5892,7 @@ között.
 
 (3) Ha az ügyészség vagy a bíróság az előzetes kényszergyógykezelést megszünteti, a beteget – megfelelő igazolással ellátva – azon a napon kell elbocsátani, amelyen a kényszerintézkedés megszüntetéséről szóló értesítőlap az IMEI-be megérkezik.
 
-(4) Ha az előzetes kényszergyógykezelés megszüntetésekor a terhelt letartóztatását rendelték el, szabadságvesztésre, elzárásra ítélték, haladéktalanul intézkedni kell a bv. intézetbe történő átszállítása iránt. Ha a beteg fekvőbeteg-gyógyintézeti ápolásra szorul, úgy az IMEI megfelelő osztályán kell gyógykezelését folytatni, vagy a Központi Kórház megfelelő osztályára kell átszállítani. Részletes kórrajz-kivonatát a büntetés-végrehajtási egészségügyi anyagához csatolni kell.
+(4) Ha az előzetes kényszergyógykezelés megszüntetésekor a terhelt letartóztatását rendelték el, szabadságvesztésre, elzárásra ítélték, haladéktalanul intézkedni kell a bv. intézetbe történő átszállítása iránt. Ha a beteg fekvőbeteg-gyógyintézeti ápolásra szorul, úgy az IMEI megfelelő osztályán kell gyógykezelését folytatni, vagy a BVEK megfelelő osztályára kell átszállítani. Részletes kórrajz-kivonatát a büntetés-végrehajtási egészségügyi anyagához csatolni kell.
 
 (5) A (2) és (3) bekezdés eseteiben sem bocsátható el az előzetes kényszergyógykezelt és haladéktalanul intézkedni kell a bv. intézetbe történő átszállítása iránt, ha
 
