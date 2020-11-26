@@ -1076,7 +1076,7 @@ lehet elejteni, illetve elfogni.
 
 - 1. az e törvényben meghatározott tiltott módon történő vadászat;
 - 2. az e törvényben meghatározott tiltott eszközzel való vadászat;
-- 3. a nagyvad terelővadászatán a 45 centiméternél magasabb marmagasságú kutyával folytatott vadászat;
+- 3. a nagyvad terelővadászatán a 45 centiméternél magasabb marmagasságú kutyával folytatott vadászat. Ez alól kivételt képeznek a származási igazolással igazoltan erdélyi kopónak minősülő hajtóebek;
 - 4. az azonosító jel használata során a használatra vonatkozó rendelkezések be nem tartásával folytatott vadászat;
 - 5. az e törvény előírásainak meg nem felelő vadászíj, illetve nyílvessző használata;
 - 6. a gímszarvasra, dámszarvasra, muflonra, őzre, valamint – a sörétes vadászlőfegyverből kilőhető golyóval történő vadászat kivételével – a vaddisznóra történő vadászat esetén a sörétes vadászlőfegyver használata;
