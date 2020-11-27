@@ -101,7 +101,7 @@ jogosult személy;
   - a) az adófelfüggesztési eljárás keretében végzett szállítás nem az 53. § (3) bekezdése szerint fejeződik be, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
   - b) az adófelfüggesztési eljárás keretében végzett szállítás során a fuvarszervezési okból megvalósuló szállítójármű-váltás az 54. § (8) bekezdés rendelkezéseinek megsértésével történik,
   - c) a szabadforgalomba bocsátott jövedéki termék tagállamok közötti kereskedelmi célú és csomagküldő kereskedelem keretében végzett szállítása során a szállítmány egésze vagy annak egy része nem érkezik meg a címzetthez, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
-  - d) az adófelfüggesztési eljárás keretében az adóraktárban tárolt jövedéki termék mennyiségében hiány mutatkozik, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék és a 24. § (2) bekezdés e) pontja szerint bejelentett hiány kivételével,
+  - d) az adófelfüggesztési eljárás keretében az adóraktárban tárolt jövedéki termék mennyiségében hiány mutatkozik, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék, a 17. § (1) bekezdés a)–b) és d) pontja szerinti készletfelvétel során az állami adó- és vámhatóság jelenlétében és ellenőrzése mellett megállapított hiány és a 24. § (2) bekezdés e) pontja szerint bejelentett hiány kivételével,
   - e) az adózatlan jövedéki terméket adóraktáron kívül birtokolják,
   - f) a jövedéki terméket a 19. § megsértésével állítják elő,
   - g) a jövedéki terméket harmadik országból a vámjogszabályok megsértésével hozzák be belföldre;
@@ -109,7 +109,7 @@ jogosult személy;
   - a) a baleset vagy – a lopás esetét kivéve – elháríthatatlan ok miatt megsemmisült vagy jövedéki termékként használhatatlanná vált jövedéki termék,
   - b) a termék tulajdonságaiból adódó, elismert mennyiségű hiány;
 - 46. uniós számítógépes rendszer: a jövedéki termékek szállításának és felügyeletének számítógépesítéséről szóló, 2003. július 16-ai 1152/2003/EK európai parlamenti és tanácsi határozattal létrehozott, az Európai Bizottság és a tagállamok illetékes hatóságai által működtetett számítógépes rendszer;
-- 47. üzemanyag: a benzin, az üzemanyag célú gázolaj, – a 0 adómérték alá tartozó és az egyéb motorikus célú termék kivételével – LPG, a biodízel, a bioüzemanyag, az üzemanyag célú földgáz és az E85;
+- 47. üzemanyag: – az 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű, nem közúti járművek üzemanyagaként kínált, értékesített vagy felhasznált 2710 12 41 KN-kód szerinti termék kivételével – a benzin, az üzemanyag célú gázolaj, – a 0 adómérték alá tartozó és az egyéb motorikus célú termék kivételével – LPG, a biodízel, a bioüzemanyag, az üzemanyag célú földgáz és az E85;
 - 48. üzemi motorikusgáztöltő-állomás: a mérésügyi szerv által hitelesített kútoszloppal és a hatáskörrel rendelkező hatóság által engedélyezett tárolótartállyal ellátott, az LPG kizárólag nem közúti járművekben, üzemen belüli felhasználás céljából történő kiszolgálását végző felhasználói hely;
 - 49. üzemi motorikusgáztöltő-állomás üzemeltetője: az üzemi motorikusgáztöltő-állomás üzemeltetője, valamint az üzemi motorikusgáztöltő-állomás üzemeltetőjével egy telephelyen működő, annak e termék tárolására szolgáló tartályát szerződés alapján használó személy;
 - 50. üzemszünet: olyan,
@@ -327,8 +327,9 @@ használnak fel;
 - e) az adóraktári engedély hatályvesztését, visszavonását követően a jövedéki termék – az adófelfüggesztési eljárás keretében végzett szállítás kivételével – elhagyja az adóraktár területét, vagy az adóraktári engedély hatályvesztését, visszavonását követő 30. nap, ha a jövedéki termék az adóraktár területét korábban nem hagyta el,
 - f) az adóraktári engedély felszámolási eljárás miatti hatályvesztése esetén a jövedéki termék elhagyja az adóraktár területét, kivéve ha a jövedéki terméket adófelfüggesztési eljárás keretében feladják,
 - g) az adóraktári engedély végelszámolási eljárás miatti hatályvesztése esetén a jövedéki termék – az adófelfüggesztési eljárás keretében végzett szállítás kivételével – elhagyja az adóraktár területét, vagy a végelszámolás kezdő időpontjától számított 180. nap, ha a jövedéki termék az adóraktár területét korábban nem hagyta el,
-- h) a 3. § (1) bekezdés 44. pont a)–b) és d)–g) alpontja szerinti szabálytalanság az állami adó- és vámhatóság tudomására jut, illetve
+- h) a 3. § (1) bekezdés 44. pont a)–b) és d)–g) alpontja szerinti szabálytalanság az állami adó- és vámhatóság tudomására jut,
 - i) a 24. § (2) bekezdés e) pontja szerinti bejelentés megtörténik.
+- j) az állami adó- és vámhatóság a 17. § (1) bekezdés a)–b) és d) pontja szerinti készletfelvétel során a hiányt megállapítja.
 
 (3) Az adófizetési kötelezettség keletkezésének időpontja
 
@@ -366,6 +367,7 @@ használnak fel;
   - od) a 3. § (1) bekezdés 44. pont f) alpontjában meghatározott szabálytalanság esetében a jövedéki termék előállítóját és minden olyan személyt, aki a szabálytalan előállításban részt vesz,
   - oe) a 3. § (1) bekezdés 44. pont g) alpontjában meghatározott szabálytalanság esetében a szabálytalan importálásban résztvevő személyt,
 - p) 7. § (2) bekezdés i) pontja szerinti esetben a bejelentőt
+- q) 7. § (2) bekezdés j) pontja szerinti esetben a bejelentőt
 
 terheli.
 
@@ -403,7 +405,7 @@ terheli.
 - a) a benyújtott bizonyítékok alapján bírálja el, hogy milyen mennyiség minősül a 3. § (1) bekezdés 45. pont a) alpontja szerint teljesen megsemmisültnek vagy helyrehozhatatlanul károsodottnak,
 - b) legfeljebb a végrehajtási rendeletben, csendes és habzóbor esetében az agrárpolitikáért felelős miniszter rendeletében meghatározott mértéket ismeri el a 3. § (1) bekezdés 45. pont b) alpontja szerinti hiányként.
 
-(4a) Az állami adó- és vámhatóság kérelemre és hivatalból előírhatja a (4) bekezdés b) pontjában meghatározott mértéktől eltérő mértékű elismert mennyiségű hiány alkalmazását, amennyiben azt a műszaki-technológiai feltételek indokolják, a helyszíni mérés adatai, az állami adó- és vámhatóság által szükségesnek tartott esetben az állami adó- és vámhatóság jelenlétében elvégzett próbagyártás, valamint szakértői vélemény alátámasztja.
+(4a) Az állami adó- és vámhatóság kérelemre és hivatalból előírhatja a (4) bekezdés b) pontjában meghatározottól eltérő elismert mennyiségű hiány alkalmazását, ha azt a tevékenység jellege vagy a műszaki-technológiai feltételek indokolják, a helyszíni mérés adatai, az állami adó- és vámhatóság által szükségesnek tartott esetben az állami adó- és vámhatóság jelenlétében elvégzett próbagyártás, valamint szükség esetén szakértői vélemény alátámasztja.
 
 (5) Az állami adó- és vámhatóság a (4) bekezdés a) pontja szerinti döntéséről, ha a jövedéki termék feladója nem belföldi személy, kérésre tájékoztatja a jövedéki termék feladóját és a feladás helye szerinti tagállam illetékes hatóságát.
 
@@ -568,7 +570,7 @@ a tényleges készletet.
 
 (4) A készletfelvétellel megállapított tényleges készlet és a nyilvántartás szerinti készlet különbözetével az elszámolási időszak zárókészletét módosítani kell.
 
-(5) Az (1) bekezdés a) pontja szerinti készletfelvétel a tárgyév utolsó napját és az üzleti év mérlegfordulónapját megelőző vagy követő 15 napon belül tartható meg, ilyen esetben a tárgyév utolsó napjának vagy az üzleti év mérlegfordulónapjának készletét az akkortól a készletfelvétel tényleges napjáig történt nyilvántartás szerinti készletváltozások figyelembevételével, számítással kell meghatározni.
+(5) Az (1) bekezdés a) pontja szerinti készletfelvétel a tárgyév utolsó napját és az üzleti év mérlegfordulónapját megelőző vagy követő 15 napon belül tartható meg, az (1) bekezdés d) pontja szerinti készletfelvétel a tárgyidőszak utolsó napját megelőző vagy követő 3 napon belül tartható meg. Ilyen esetben a tárgyév utolsó napjának vagy az üzleti év mérlegfordulónapjának készletét az akkortól a készletfelvétel tényleges napjáig történt nyilvántartás szerinti készletváltozások figyelembevételével, számítással kell meghatározni.
 
 #### 13. Jövedéki biztosíték
 
@@ -800,7 +802,7 @@ csökken.
 
 (3) Az (1) bekezdéstől eltérően a nyújtandó jövedéki biztosíték összege, ha a jövedéki engedélyes kereskedő a tevékenyégét kizárólag
 
-- a) 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű benzin vagy gázolaj adalékával folytatja, 1 millió forint,
+- a) 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű benzin vagy gázolaj adalékával vagy 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű nem közúti járművek üzemanyagaként kínált, értékesített vagy felhasznált 2710 12 41 KN-kód szerinti termékkel folytatja, 1 millió forint,
 - b) kisüzemi sörfőzdében előállított sörrel folytatja, 500 ezer forint,
 - c) alkoholtermékkel folytatja, és az ugyanazon engedélyes által üzemeltetett adóraktárban
   - ca) évi legfeljebb 20 hektoliter tisztaszesz-tartalmú alkoholterméket állít elő, 2 millió forint,
@@ -836,7 +838,14 @@ rendelkezik vagy azt bérel.
 
 (6) Az állami adó- és vámhatóság a jövedéki engedélyt – az általános szabályokon kívül – abban az esetben is visszavonja, ha a 67. § (2) vagy (5) bekezdését a jövedéki engedélyes kereskedő ismételten megsérti.
 
-30. § A 28. § és a 29 §-ban meghatározott kötelezettségek teljesítése alól az állami adó- és vámhatóságtól felmentést kérhet az a személy, aki igazolja, hogy kenőolaj importálását vagy másik tagállamból behozatalát kizárólag saját felhasználás céljából végzi.
+30. § (1) A 28. és 29. §-ban meghatározott kötelezettségek teljesítése alól az állami adó- és vámhatóságtól felmentést kérhet az a személy, aki igazolja, hogy
+
+- a) kizárólag saját felhasználás céljából végzi kenőolaj vagy
+- b) kizárólag laboratóriumi vagy egészségügyi kínálás, értékesítés vagy felhasználás céljából végzi 2 liter vagy 2 kilogramm vagy annál kisebb kiszerelésű, 2710 19 62 KN-kód szerinti fűtőolaj
+
+importálását vagy másik tagállamból behozatalát.
+
+(2) Az (1) bekezdés szerinti felmentést kapott engedélyesre a 17. § (1) bekezdés a) pontja szerinti rendelkezés nem alkalmazandó.
 
 #### 22. Felhasználói engedély
 
@@ -989,13 +998,9 @@ felhasználásához.
 
 (8) A 34. § (2) bekezdésétől eltérően a nyilvántartásba vett adatok változását a regisztrációra kötelezett a változás bekövetkezésétől számított 5 napon belül jelenti be az állami adó- és vámhatósághoz.
 
-#### 29. Kereskedelmi jármű nyilvántartásba vett üzembentartója, bérlője
+#### 29.
 
-40. § (1) A 113. § (5) bekezdése szerinti adó-visszaigénylést érvényesítő, a gépjármű vagy nyerges járműszerelvény üzembentartójának vagy – bérelt jármű esetében – bérlőjének állami adó- és vámhatósági nyilvántartásba vétele szükséges.
-
-(2) A nyilvántartásba vétel iránti kérelmet az adó-visszaigénylési jogosultság első alkalommal történő érvényesítése előtt kell az állami adó- és vámhatósághoz benyújtani.
-
-(3) A belföldön székhellyel, telephellyel vagy fiókteleppel nem rendelkező személy esetében e § a másik tagállamban vagy az Európai Szabadkereskedelmi Társulás tagállamában regisztrált és ott kiadott nemzetközi fuvarozási engedéllyel rendelkező személyre alkalmazható.
+#### 40. §
 
 #### 30. Üzemi motorikusgáz-töltő állomás üzemeltetője
 
@@ -1011,7 +1016,7 @@ felhasználásához.
 
 ### V. Fejezet — BEJELENTÉSEK
 
-43. § A magánszemély a 133. § (1) bekezdés a) pontja alapján előállított jövedéki termékről előállításonként, az előállítás tervezett megkezdési időpontjának megjelölésével, az azt megelőző 3. napig bejelentést tesz az állami adó- és vámhatósághoz.
+#### 43. §
 
 44. § (1) A tudományos és oktatási célra használt nem üveg desztillálóberendezés birtoklását a megszerzést követő 10 napon belül be kell jelenteni az állami adó- és vámhatósághoz.
 
@@ -1020,7 +1025,7 @@ felhasználásához.
 - a) előállítását előállításonként, az előállítás megkezdésének tervezett időpontját megelőző 3. napig be kell jelenteni az állami adó- és vámhatósághoz és
 - b) tudományos és oktatási célú felhasználásáról vagy megsemmisítéséről a jogszerű felhasználás megállapítására alkalmas jegyzőkönyvet kell felvenni.
 
-45. § Energiatermék kinyerését eredményező rekultivációs tevékenység megkezdését legkésőbb az azt megelőző 3 nappal, a tevékenység tervezett befejezésének időpont megjelölésével kell az állami adó- és vámhatósághoz bejelenteni.
+#### 45. §
 
 46. § (1) A légiutas-ellátási tevékenységet végző személy a tervezett tevékenységét legkésőbb a tevékenység megkezdését megelőző 3 nappal bejelenti az állami adó- és vámhatósághoz.
 
@@ -1440,7 +1445,7 @@ követően bocsátja a bérfőzető rendelkezésre.
 
 #### 48. Zárjegy felhelyezése, pótlása
 
-76. § (1) A zárjegyet a legkisebb fogyasztói csomagolási egységre oly módon kell felhelyezni, hogy az sérülésmentesen ne legyen eltávolítható és – cigaretta, szivar és szivarka kivételével – a csomagolás kinyitásakor eltépődjön, valamint az azon feltüntetett szöveg, adat – a végrehajtási rendeletben meghatározott eltéréssel – teljes terjedelmében látható legyen.
+76. § (1) A zárjegyet a legkisebb fogyasztói csomagolási egységre oly módon kell felhelyezni, hogy az sérülésmentesen ne legyen eltávolítható és – a dohánygyártmányok kivételével – a csomagolás kinyitásakor eltépődjön, valamint az azon feltüntetett szöveg, adat – a végrehajtási rendeletben meghatározott eltéréssel – teljes terjedelmében látható legyen.
 
 (2) A zárjegyköteles jövedéki termékre felragasztott zárjegy a végrehajtási rendeletben meghatározott információkat tartalmazza.
 
@@ -1475,7 +1480,9 @@ követően bocsátja a bérfőzető rendelkezésre.
 
 követő munkanapon adatszolgáltatást teljesít az állami adó- és vámhatóság részére.
 
-(3) A zárjegyigénylőnek az átvett és tagállamba kiszállított zárjegyet az átvételtől számított három, a harmadik országba kiszállított zárjegyet pedig az átvételtől számított hat hónapon belül fel kell helyeznie a zárjegyköteles jövedéki termékre vagy vissza kell hoznia belföldre. Ha a zárjegy vagy a zárjeggyel ellátott zárjegyköteles jövedéki termék ezen időszakon belül nem kerül vissza belföldre, a zárjegyet zárjegyhiányként kell a nyilvántartásban feltüntetni.
+(3) A zárjegyigénylő az átvett és külföldre kiszállított zárjegyet az átvételtől számított hat hónapon belül felhelyezi a zárjegyköteles jövedéki termékre vagy visszahozza belföldre. Ha a zárjegy vagy a zárjeggyel ellátott zárjegyköteles jövedéki termék ezen időszakon belül nem kerül vissza belföldre, a zárjegyet zárjegyhiányként kell a nyilvántartásban feltüntetni.
+
+(4) A zárjegyigénylő jogosult a (3) bekezdés szerint visszaszállított és az állami adó- és vámhatóság részére bemutatott, fel nem használt és sértetlen zárjegyeket ismételten külföldre kiszállítani.
 
 #### 51. Adómegállapítás, adóbevallás
 
@@ -1543,7 +1550,7 @@ igényelheti.
 
 (2) Az (1) bekezdéstől eltérően papíralapon is intézhető
 
-- a) a magánszemély 43. § szerinti bejelentési kötelezettsége,
+- a)
 - b) a magánfőző által teljesítendő bejelentési kötelezettség, valamint a párlat adójegy igénylése és rendelkezésre bocsátása,
 - c) a külföldi személy jövedéki ügye,
 - d) a hivatalból magánszeméllyel szemben indított és lefolytatott jövedéki ügy, kivéve, ha a választásra jogosult elektronikus ügyintézést kér és egyúttal megadja az elektronikus ügyintézéshez szükséges elektronikus elérhetőségét,
@@ -1633,7 +1640,7 @@ kezeli.
 
 (2) Az (1) bekezdés szerinti nyilvántartás az engedélyes vagy a nyilvántartásba vett nevére, engedélyszámára vagy nyilvántartási számára, az engedélyben vagy nyilvántartásban szereplő jövedéki termék, berendezés vagy tevékenység megnevezésére, az engedély kiadása vagy a nyilvántartásba vétel időpontjára, valamint az engedély hatályosságára vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül. Az állami adó- és vámhatóság ezen adatokat az ellenőrzés érdekében, az engedély hatályvesztését vagy a nyilvántartásból történő törlést követő 5 évig kezeli.
 
-(3) Az állami adó- és vámhatóság a hatályos engedélyek vagy a gazdálkodókról vezetett nyilvántartások azon adatait, amelyek tekintetében az (1) bekezdés szerinti nyilvántartás közhiteles, a honlapján – kivéve a 40. § és a 42. § szerint nyilvántartásba vett személyek adatait – közzéteszi annak érdekében, hogy az engedéllyel rendelkező vagy nyilvántartásba vett személlyel gazdasági kapcsolatba lépő más személy tájékozódhasson üzletfele tevékenységének jogszerűségéről.
+(3) Az állami adó- és vámhatóság a hatályos engedélyek vagy a gazdálkodókról vezetett nyilvántartások azon adatait, amelyek tekintetében az (1) bekezdés szerinti nyilvántartás közhiteles, a honlapján – kivéve a 42. § szerint nyilvántartásba vett személyek adatait – közzéteszi annak érdekében, hogy az engedéllyel rendelkező vagy nyilvántartásba vett személlyel gazdasági kapcsolatba lépő más személy tájékozódhasson üzletfele tevékenységének jogszerűségéről.
 
 #### 62. Állami támogatási szabályok
 
@@ -1672,6 +1679,8 @@ kezeli.
 96. § (1) Az e törvényben és a végrehajtási rendeletben meghatározott kötelezettségek teljesítésének és a jogosultságok jogszabályi feltételei megvalósulásának – ellenőrzéssel lezárt időszakot nem eredményező – hatósági ellenőrzésekor az Air. és az Art. ellenőrzési szabályait ezen alcímben meghatározott eltérésekkel kell alkalmazni.
 
 (2) Az (1) bekezdés szerinti helyszíni ellenőrzéshez az Air. szerinti általános megbízólevélnek az állami adó- és vámhatóság tagjának intézkedésre jogosító szolgálati igazolványa minősül.
+
+(2a) Ha az ellenőrzés alá vont személy ismeretlen, az ellenőrzés az erről szóló előzetes értesítés, megbízólevél kézbesítésének, átadásának, bemutatásának hiányában is megindítható és a jegyzőkönyv átadása, kézbesítése nélkül befejezhető. Ha az ellenőrzés során az ellenőrzés alá vont személy ismertté válik, az állami adó- és vámhatóság a megbízólevelet haladéktalanul kézbesíti vagy átadja részére.
 
 (3) A jövedéki termék szállításának helyszíni ellenőrzésekor jogsértés hiányának megállapítása esetén csak abban az esetben kell jegyzőkönyvet kiállítani, ha azt az ellenőrzött személy kéri. Az állami adó- és vámhatóság az ellenőrzés tényét jegyzőkönyv készítésének hiányában a szállítási okmányon rögzíti.
 
@@ -1734,6 +1743,8 @@ alapulvételével kell meghatározni.
 (5) Ha a jövedéki engedélyes kereskedelmi tevékenységet folytató kereskedő kétséget kizáróan adózott termékeket forgalmaz, de nem rendelkezik jövedéki engedéllyel, a kivetendő jövedéki bírság alapja a kereskedő termékköre szerinti jövedéki engedélyhez e törvényben előírt jövedéki biztosíték összegének és azon napok számának szorzata, amely alatt a kereskedő a jövedéki bírság kivetéséig engedély nélkül folytatta tevékenységét. A jövedéki bírság mértéke a bírságalapnak és a jövedéki bírság kivetése időpontjában érvényes jegybanki alapkamat kétszerese 365-öd részének a szorzata, de legalább 500 ezer forint.
 
 (6) A (2), (5), (8) és (9) bekezdés alá nem tartozó kötelezettségszegések esetén a magánszemély 300 ezer forintig, a gazdálkodó szervezet és a jövedéki termékkel gazdasági tevékenységet folytató egyéni vállalkozó 750 ezer forintig terjedő jövedéki bírsággal sújtható.
+
+(6a) A kötelezettség késedelmes teljesítése esetén nincs helye jövedéki bírság megállapításának, ha az adózó a kötelezettség teljesítése mellett késedelmét annak igazolásával menti ki, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható.
 
 (7) A (2), az (5) és a (6) bekezdés szerinti jövedéki bírságra az Art.-nak a megbízható és a kockázatos adózói minősítésnek az adóbírság és a mulasztási bírság felső határát módosító és az ezek kiszabásával kapcsolatos szabályait alkalmazni kell.
 
@@ -2472,7 +2483,9 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 (30) A 74. § rendelkezéseitől eltérően a füst nélküli dohánytermék és a dohányzást helyettesítő nikotintartalmú termék 2020. július 1. napjáig zárjegy nélkül bocsátható szabadforgalomba és forgalmazható belföldön azzal, hogy a 2020. június 30-ig szabadforgalomba bocsátott és 2020. augusztus 31-ig az Fdvtv.-ben meghatározott dohánytermék-kiskereskedelmi és az Fdvtv. 1. § (3) bekezdésében meghatározott kiskereskedelmi értékesítés helyére kiszállított zárjegy nélküli füst nélküli dohánytermék és dohányzást helyettesítő nikotintartalmú termék korlátozás nélkül értékesíthető a 145. § (5) bekezdése szerinti áron.
 
-151. § A 2017. július 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
+(31) Az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel módosított 3. § (1) bekezdés 44. pont d) alpont, 7. § (2) bekezdés j) pont, 8. § (1) bekezdés q) pont, 9. § (4a) bekezdés, 17. § (5) bekezdés, 30. § (2) bekezdés, 78. § (3)–(4) bekezdés, 96. § (2a) bekezdés, 100. § (6a) bekezdés szerinti rendelkezéseket az e rendelkezés hatálybalépésekor folyamatban lévő adóigazgatási eljárásban is alkalmazni kell.
+
+151. § A 2021. január 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 
 #### 102. Az Európai Unió jogának való megfelelés
 

@@ -47,7 +47,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 - a) hitelintézetnél az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,2 százalék;
 - b)
 - c) egyéb pénzügyi szervezet esetén:
-  - ca) pénzügyi vállalkozásnál a (4) bekezdés 3. pont a) pontjában meghatározott összeg 6,5 százaléka,
+  - ca) pénzügyi vállalkozásnál 6,5 százalék,
   - cb)
   - cc) tőzsdénél 5,6 százalék,
   - cd) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél 5,6 százalék,
