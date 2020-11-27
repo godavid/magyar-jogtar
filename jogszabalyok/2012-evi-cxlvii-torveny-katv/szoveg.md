@@ -126,7 +126,7 @@ igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt k
 - a) a bejelentés hónapjának utolsó napjával, ha az adóalany bejelenti, hogy adókötelezettségeit a jövőben nem e törvény szabályai szerint teljesíti;
 - b)
 - c) a kisadózó egyéni vállalkozói jogállásának megszűnése napjával;
-- d) a kisadózó vállalkozásnak minősülő egyéni cég, betéti társaság vagy közkereseti társaság jogutód nélküli megszűnésének napjával;
+- d) a kisadózó vállalkozásnak minősülő egyéni cég, betéti társaság, közkereseti társaság, ügyvédi iroda jogutód nélküli megszűnésének napjával;
 - e) a gazdasági társaság, az ügyvédi iroda bejelentett kisadózó tagjának halálát követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és 90 napon belül más kisadózó nem kerül bejelentésre;
 - f) a gazdasági társaság, az ügyvédi iroda bejelentett kisadózó tagjának a gazdasági társaságból, az ügyvédi irodából való kilépését követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és a kisadózó tag kilépését követő napig más kisadózó nem kerül bejelentésre;
 - g) a tagsági jogviszony keletkezésének napjával, ha a betéti társaság vagy közkereseti társaság kisadózó vállalkozásnak nem magánszemély tagja lesz;

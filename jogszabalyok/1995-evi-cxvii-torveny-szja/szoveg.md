@@ -3135,7 +3135,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.10. a menedékjogról szóló törvény végrehajtásról szóló kormányrendeletben felsorolt támogatások: az étkezési hozzájárulás, a higiénés hozzájárulás, a szabad felhasználású költőpénz, az oktatási, nevelési költségek megtérítése, a beiskolázási támogatás, a letelepedéshez nyújtott egyszeri támogatás, a rendszeres létfenntartási támogatás, lakhatási támogatás, lakáscélú támogatás és az integrációs támogatás.
 
-1.11. a honvédek jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, kiegészítő rokkantsági támogatás és kiegészítő hozzátartozói támogatás, valamint a honvédelmi alkalmazottak jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása.
+1.11. a honvédek jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, kiegészítő rokkantsági támogatás és kiegészítő hozzátartozói támogatás, a honvédelmi alkalmazottak jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott árvák kiegészítő támogatása és kiegészítő hozzátartozói támogatás;
 
 1.12. a köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerinti özvegyi ellátás.
 
@@ -3143,7 +3143,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 2.1. a lakáscélú támogatás, ha az
 
-2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, az említett kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló kormányrendelet, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet és az otthonteremtési kamattámogatásról szóló kormányrendelet szerinti támogatás,
+2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, az említett kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló kormányrendelet, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet, az otthonteremtési kamattámogatásról szóló kormányrendelet, valamint a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet szerinti támogatás,
 
 2.1.2. a lakáscélra nyújtott hitel törvény vagy törvény felhatalmazása alapján kiadott más jogszabály alapján elengedett része,
 
@@ -3319,7 +3319,7 @@ d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályáz
 
 4.21. a magánszemély által külön jogszabály szerint felszolgálási díj címen megszerzett bevétel, valamint a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló.
 
-4.22. a Rezidens Támogatási Program keretében folyósított ösztöndíj,
+4.22. a Rezidens Támogatási Program keretében folyósított ösztöndíj, továbbá az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló kormányrendelet, valamint az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló kormányrendelet alapján az első szakképesítés megszerzésére irányuló képzésben történő részvétel során a támogatott jelöltnek a szakképzéssel kapcsolatos kiadások, dologi költségek megtérítésére az adott évre vonatkozó költségvetési törvényben meghatározott mértékű, utólagosan folyósított támogatás;
 
 4.23. a Kormány által alapított közigazgatási ösztöndíjprogram keretében folyósított ösztöndíj;
 
@@ -3579,7 +3579,7 @@ b)
 
 7.42. a babaváró támogatásról szóló kormányrendelet szerinti kamattámogatás és gyermekvállalási támogatás.
 
-7.43. a 2020-ban megrendezésre kerülő labdarúgó Európa-bajnoksággal összefüggésben az Európai Labdarúgó-szövetséggel (UEFA), az UEFA tulajdonában álló gazdasági társasággal, a rendező vagy részt vevő nemzeti sportszövetséggel munkaviszonyban vagy egyéb munkaviszony jellegű szerződéses jogviszonyban álló magánszemély (különösen: UEFA-tisztségviselők, versenybírók, sportolók, önkéntesek, sportszervezetek képviselői) részére adott juttatás (különösen: napidíj, bónusz, felmerült költségek megtérítése, pénzdíjak, átadott formaruhák, természetben biztosított ellátás, valamint a versenyekhez kapcsolódóan adott promóciós jellegű juttatások);
+7.43. az UEFA EURO 2020 és az U21-es labdarúgó Európa-bajnokság (UEFA European Under-21 Championship) rendezvénnyel összefüggésben az Európai Labdarúgó-szövetséggel (UEFA), az UEFA tulajdonában álló gazdasági társasággal, a rendező vagy részt vevő nemzeti sportszövetséggel munkaviszonyban vagy egyéb munkaviszony jellegű szerződéses jogviszonyban álló magánszemély (különösen: UEFA-tisztségviselők, versenybírók, sportolók, önkéntesek, sportszervezetek képviselői) részére adott juttatás (különösen: napidíj, bónusz, felmerült költségek megtérítése, pénzdíjak, átadott formaruhák, természetben biztosított ellátás, valamint a versenyekhez kapcsolódóan adott promóciós jellegű juttatások);
 
 7.44. a sportról szóló törvény szerint Magyarországon nyilvántartásba vett nemzetközi sportszövetség által
 
@@ -3707,9 +3707,9 @@ az adóévben legfeljebb – az a) és b) pont szerinti juttatási körben kül�
 
 8.37. kifizető, külföldi székhelyű jogi személy, egyéb szervezet által biztosított személygépkocsi magáncélú használata, továbbá azzal összefüggésben úthasználatra jogosító bérlet, jegy juttatása.
 
-8.38.
+8.38. a Hősi Halottak és a katonai szolgálattal összefüggő betegségben, balesetben elhunytak árvái részére a honvédelemért felelős miniszter és a Magyar Honvédség parancsnoka által adományozott ajándék, továbbá a rendvédelmi feladatokat ellátó szerv hivatásos állományából elhunyt hősi halottak, szolgálat halottjai, valamint a hivatásos szolgálattal összefüggő betegségben, balesetben elhunytak árvái részére a rendvédelmi feladatokat ellátó szervet irányító miniszter és a rendvédelmi feladatokat ellátó szerv vezetője által adományozott ajándék;
 
-8. 39. a kifizető által biztosított védőoltás.
+8.39. a kifizető által biztosított védőoltás, járványügyi szűrővizsgálat – a juttatás időpontjától függetlenül;
 
 8.40. a közfoglalkoztatási rendszerben a közfoglalkoztatottnak a külön törvényben meghatározott természetbeni ellátások.
 
@@ -3979,7 +3979,7 @@ amennyiben az a szerződés alapján a magánszemélyt terheli.
 
 8. A 6. pontban foglaltaktól eltérően a mezőgazdasági őstermelő az útnyilvántartás vezetése helyett havi 500 kilométer utat számolhat el saját tulajdonú személygépkocsi üzleti célú használata címén a költségek 3. pont szerinti figyelembevételével, függetlenül az üzemeltetett személygépkocsik számától. Ezt az elszámolási módszert is csak a teljes adóévre – illetőleg az adóéven belül a tevékenység teljes időtartamára – lehet alkalmazni.
 
-9. A magánszemély a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával a közlekedési igazgatási hatóság által kiadott törzskönyvvel, a törzskönyv visszavonása esetén a közlekedési igazgatási hatóság által kiadott igazolással igazolja.
+9. A magánszemély a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával a közlekedési igazgatási hatóság által kiadott törzskönyvvel, a törzskönyv visszavonása esetén a közlekedési igazgatási hatóság által kiadott igazolással igazolja. Zárt végű lízingbe vett vagy részletre vétellel megszerzett gépjármű esetében a tulajdonjog az ügyletre vonatkozó lízingszerződéssel, kölcsönszerződéssel igazolható.
 
 10.
 
@@ -4715,7 +4715,7 @@ amennyiben az a szerződés alapján az egyéni vállalkozót terheli.
 
 11. A 9. pontban foglaltaktól eltérően, az egyéni vállalkozó az útnyilvántartás vezetése helyett havi 500 kilométer utat számolhat el átalányban a személygépkocsi használata címén a költségek 6. pont szerinti figyelembevételével, függetlenül az üzemeltetett személygépkocsik számától. Ezt az elszámolási módszert is csak a teljes adóévre – illetőleg az adóéven belül az egyéni vállalkozói tevékenység teljes időtartamára – lehet alkalmazni.
 
-12. Az egyéni vállalkozó a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával, a közlekedési igazgatási hatóság által kiadott törzskönyvvel, a törzskönyv visszavonása esetén a közlekedési igazgatási hatóság által kiadott igazolással igazolja.
+12. Az egyéni vállalkozó a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával, a közlekedési igazgatási hatóság által kiadott törzskönyvvel, a törzskönyv visszavonása esetén a közlekedési igazgatási hatóság által kiadott igazolással igazolja. Zárt végű lízingbe vett vagy részletre vétellel megszerzett gépjármű esetében a tulajdonjog az ügyletre vonatkozó lízingszerződéssel, kölcsönszerződéssel igazolható.
 
 13.
 

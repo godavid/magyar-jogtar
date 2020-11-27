@@ -3137,7 +3137,7 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 
 (4) A nyilvántartásban szereplő adótanácsadók, adószakértők és okleveles adószakértők kötelesek a már megszerzett ismereteket naprakészen tartani, fejleszteni, a változásokból eredő követelményekkel összhangba hozni. Ennek érdekében kötelesek szakmai továbbképzésen részt venni.
 
-(5) A határon átnyúló szolgáltatásnyújtás esetén a (3) és (4) bekezdést nem kell alkalmazni.
+(5) A határon átnyúló szolgáltatásnyújtás esetén a (3) és (4) bekezdést, valamint a 251. § (1) bekezdés d) pontját nem kell alkalmazni.
 
 #### 250. § [Tevékenység végzése határon átnyúló szolgáltatás keretében]
 
@@ -3155,7 +3155,8 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 
 - a) büntetlen előéletű,
 - b) nem áll gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, és
-- c) rendelkezik az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, szakképzettséggel és gyakorlattal, valamint megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
+- c) rendelkezik az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, szakképzettséggel és gyakorlattal, valamint megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek, valamint
+- d) igazolja, hogy a 248. § (1) bekezdése szerinti bejelentést megelőző 12 hónapban az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott továbbképzési kötelezettségét megfelelően teljesítette.
 
 (2) A bejelentési és nyilvántartásba vételi eljárásra a Szolg. törvény 21–25. §-át és 27–28. §-át az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban foglaltak figyelembevételével kell alkalmazni.
 
@@ -3163,8 +3164,8 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 
 (1) A nyilvántartásba vételt végző szervezet az adótanácsadói, adószakértői, vagy okleveles adószakértői tevékenység folytatását megtiltja annak a természetes személynek,
 
-- a) aki az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott továbbképzési kötelezettségének nem tett eleget,
-- b) aki az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott továbbképzés teljesítéséről szóló bejelentési kötelezettségének a megadott határidőig nem tett eleget,
+- a) aki az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott továbbképzési kötelezettségének nem tett eleget, és ezen mulasztását nem tudja kimenteni,
+- b)
 - c) aki a bejelentés és a nyilvántartással kapcsolatos adatszolgáltatás során valótlan adatot közölt,
 - d) aki a nyilvántartásban szereplő adataiban bekövetkezett változásokat a nyilvántartásba vételt végző szervezet felszólítását követően sem jelentette be,
 - e) akit bíróság bűncselekmény elkövetése miatt jogerősen elítélt és a büntetett előélethez fűződő hátrányok alól nem mentesült,
@@ -3199,7 +3200,7 @@ A bejelentéssel és a nyilvántartásba vétellel, az abból való törléssel,
 - e) a szakképesítés megnevezése, a szakképesítést igazoló oklevél száma, a kiállító intézmény neve, a kiállítás kelte,
 - f) adószakértők esetében az egyetemi vagy főiskolai végzettség megnevezése, az egyetemi vagy főiskolai végzettséget igazoló oklevél száma, a kiállító intézmény neve, a kiállítás kelte,
 - g) adószakértők esetében a tevékenység végzéséhez szükséges – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott – a szakképesítés megszerzését követően, a 248. § szerinti bejelentést megelőzően adótanácsadás vagy pénzügyi tanácsadás területén megszerzett szakmai gyakorlat megszerzésének helye, időtartama, valamint annak a munkakörnek vagy tevékenységnek a megnevezése, amelyben a szakmai gyakorlatot jellemzően megszerezték,
-- h) szakmai továbbképzési kötelezettség teljesítése, és annak bejelentése.
+- h) szakmai továbbképzési kötelezettség teljesítése.
 
 (2) A nyilvántartás tartalmazhatja a bejelentő önkéntes adatszolgáltatása alapján a nyilvántartásba vett bejelentő személy
 
@@ -3222,6 +3223,8 @@ A bejelentéssel és a nyilvántartásba vétellel, az abból való törléssel,
 - b) természetes személyazonosító adatait,
 - c) teljesített továbbképzéseinek azonosító adatait és kreditpontértékét,
 - d) teljesített továbbképzéseiről kiállított igazolás sorszámát.
+
+(6b) A (6a) bekezdés szerinti szervezet a résztvevők továbbképzési kötelezettsége teljesítésének igazolásához szükséges adatokat a (6a) bekezdés a)–c) pontja szerinti adattartalommal megküldi a nyilvántartásba vételt végző szervezetnek a (7) bekezdés szerinti kormányrendeletben meghatározott módon.
 
 (7) Az adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a bejelentés alapján történő nyilvántartásba vétel és a nyilvántartásból való törlés feltételeit, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a szakmai továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek kreditpont-minősítési eljárásának, továbbá a határon átnyúló adótanácsadói, adószakértői és okleveles adószakértői tevékenység végzéséhez szükséges bejelentési eljárás, a határon átnyúló adótanácsadói, adószakértői és okleveles adószakértői tevékenységet folytató személyek nyilvántartásba vételének és a nyilvántartásból való törlésének részletes szabályait, a nyilvántartás vezetésének szabályait a Kormány rendeletben állapítja meg azzal, hogy az eljárások során méltányossági eljárásnak nincs helye.
 
@@ -3567,6 +3570,10 @@ E törvénynek az egyes adótörvények és más kapcsolódó törvények uniós
 (4) A (3) bekezdés szerinti kamatkülönbözet iránti kérelem alapján az adóhatóság 2016. december 31-ig benyújtott kérelemre hozott határozatának saját hatáskörű módosításával az elévülésre tekintet nélkül megállapítja a kamatkülönbözetet.
 
 (5) A 2016. december 31-ig benyújtott kérelem alapján hozott határozatban megállapított kamat, illetve a (3) bekezdés szerinti kamatkülönbözet után az adózót megillető kamat összegét az adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény 37. § (6) bekezdésének alkalmazásával állapítja meg.
+
+#### 274/I. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvényhez]
+
+A közúti közlekedési nyilvántartási szerv, az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvény (a továbbiakban: Módtv.6.) hatálybalépése napján fennálló állapotnak megfelelő adatokkal a Módtv.6. hatálybalépésétől számított 20 napon belül a 87. § (1) bekezdésében foglalt adattartalommal adatszolgáltatást teljesít az állami adó- és vámhatóságnak.
 
 #### 275. § [Az Európai Unió jogának való megfelelés]
 

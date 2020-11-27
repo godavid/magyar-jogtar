@@ -105,9 +105,11 @@ csoportos adóalanyiságot hozhatnak létre.
   - cb) az (1) bekezdésben említett jogállás fennállásának igazolását;
   - cc) kötelezettségvállalást a (7) bekezdés teljesítésére.
 
+(3a) A csoportos adóalanyiság létrehozására irányuló kérelemben megjelölhető, hogy mely időponttal kérik a csoportos adóalanyiság létrehozását. A csoportos adóalanyiság a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság (3) bekezdés szerinti engedélye véglegessé válásának napjával jön létre.
+
 (4) A csoportos adóalanyiságban részt vevő valamennyi tag a csoportos adóalanyiság időszakában együttesen minősül – ha törvény másként nem rendelkezik – egy adóalanynak. Az adóalanyisághoz fűződő jogok és kötelezettségek gyakorlásával összefüggő bírósági és más hatósági eljárásjogi cselekmények alanya a csoportos adóalanyiságban részt vevő tagok által kijelölt képviselő.
 
-(5) Az a tag, aki (amely) a csoportos adóalanyiságot megelőzően belföldön nyilvántartásba vett adóalanyként működött, a (3) bekezdésben említett állami adóhatósági engedély véglegessé válásának napját megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
+(5) Az a tag, aki (amely) a csoportos adóalanyiságot megelőzően belföldön nyilvántartásba vett adóalanyként működött, a csoportos adóalanyiság létrejöttét megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
 
 (6) A csoportos adóalanyiságban részt vevő bármely tag – mind a csoportos adóalanyiság időszakában, mind azt követően – egyetemlegesen felelős a csoportos adóalanyiságban részt vevő valamennyi többi taggal együtt a csoportos adóalanyiságban részt vevő tagnak
 
@@ -126,9 +128,13 @@ csoportos adóalanyiságot hozhatnak létre.
 
 meghatározott feltételek teljesítését.
 
-(9) Az a kívül maradó, illetőleg az a csatlakozó új adóalany, aki (amely) tagként csatlakozik a csoportos adóalanyisághoz, a (8) bekezdésben említett állami adóhatósági engedély véglegessé válásának napját megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
+(8a) A csoportos adóalanyisághoz történő csatlakozás iránti kérelmében a kívül maradó, illetve a csatlakozó új adóalany megjelölheti, hogy mely időponttal kéri a csatlakozását. A csoportos adóalanyisághoz történő csatlakozás a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság (8) bekezdés szerinti engedélye véglegessé válásának napjával jön létre.
+
+(9) Az a kívül maradó, illetőleg az a csatlakozó új adóalany, aki (amely) tagként csatlakozik a csoportos adóalanyisághoz, a csoportos adóalanyisághoz történő csatlakozást megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
 
 (10) A csoportos adóalanyiságban részt vevő tag dönthet úgy is, hogy a csoportos adóalanyiságból kiválni szándékozik. A csoportos adóalanyiságból történő kiválás az állami adóhatóság engedélyével jön létre, a kiválni szándékozó tag erre irányuló kifejezett írásos kérelmére. A kérelemnek tartalmaznia kell még a csoportos adóalanyiságban részt vevő valamennyi többi tagnak a közös, kifejezett és egybehangzó beleegyező nyilatkozatát a tag kiválásáról. A kérelemnek tartalmaznia kell továbbá a kiválni szándékozó tag kötelezettségvállalását arra, hogy a kiválás véglegessé válásának napjától kívül maradó adóalanyként teljesíti a (3) bekezdés cc) alpontjában meghatározott feltételt.
+
+(10a) A csoportos adóalanyiságból történő kiválás iránti kérelmében a kiválni szándékozó tag megjelölheti, hogy mely időponttal kéri a kiválását. A csoportos adóalanyiságból történő kiválás a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság (10) bekezdés szerinti engedélye véglegessé válásának napjával jön létre.
 
 (11) A csoportos adóalanyiság az állami adóhatósági engedély visszavonásával szűnik meg. Az engedélyt az állami adóhatóság visszavonja, ha
 
@@ -142,11 +148,35 @@ meghatározott feltételek teljesítését.
   - fb) csatlakozni kíván csatlakozó új tagként, de azt az állami adóhatóság a (8) bekezdés értelmében nem engedélyezi;
 - g) a csoportos adóalanyiságban részt vevő valamennyi tag jogutód nélkül megszűnik.
 
-(12) A (11) bekezdésben említett állami adóhatósági engedély visszavonásának véglegessé válásának napjával, mint fordulónappal a csoportos adóalanyiságban részt vevő valamennyi tag együttesen köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg, kivéve azt az esetet, ha a csoportos adóalanyiságban részt vevő valamennyi tag jogutód nélkül szűnik meg.
+(11a) A csoportos adóalanyiság megszüntetésére irányuló kérelemben megjelölhető, hogy mely időponttal kérik a csoportos adóalanyiság megszüntetését. A csoportos adóalanyiság a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság engedélye visszavonásának véglegessé válása napjával szűnik meg. A csoportos adóalanyiság a (11) bekezdés b)–g) pontjában meghatározott esetben az állami adó- és vámhatóság engedélye visszavonásának véglegessé válása napjával szűnik meg.
+
+(12) A csoportos adóalanyiság megszűnését megelőző nappal, mint fordulónappal a csoportos adóalanyiságban részt vevő valamennyi tag együttesen köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg, kivéve azt az esetet, ha a csoportos adóalanyiságban részt vevő valamennyi tag jogutód nélkül szűnik meg.
 
 8/A. § (1) A 8. § alkalmazásában nem kell együttesen kapcsolt vállalkozásoknak tekinteni azokat az adóalanyokat, akik (amelyek) kizárólag azért minősülnek kapcsolt vállalkozásnak, mert a Magyar Állam vagy helyi önkormányzat a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megfelelő alkalmazásával harmadik személyként közvetlenül vagy közvetve többségi befolyással rendelkezik bennük.
 
 (2) A 8. § alkalmazásában nem lehet együttesen kapcsolt vállalkozásnak tekinteni a helyi önkormányzatot és azt a vállalkozást, amelyben a helyi önkormányzat a Ptk. megfelelő alkalmazásával közvetlenül vagy közvetve többségi befolyással rendelkezik.
+
+8/B. § (1) A 8. § szerinti különböző csoportos adóalanyiságban részt vevő tagok egymással együttesen kapcsolttá válása esetén úgy kell tekinteni, hogy a kapcsolttá válást megelőzően engedélyezett csoportos adóalanyiságok tekintetében teljesülnek a 8. §-ban meghatározott feltételek, a következő feltételek együttes fennállása esetén
+
+- a) a kapcsolttá válást követő 30 napon belül
+  - aa) a csoportos adóalanyiságokban részt vevő valamennyi tag közösen és egybehangzóan írásban nyilatkozik az állami adó- és vámhatóság részére, hogy az engedélyezett csoportos adóalanyiságok közül melyik az az egy csoportos adóalanyiság, amelyet fenn kívánnak tartani, és amelynek fenntartásához hozzájárulnak (a továbbiakban: fennmaradó csoportos adóalanyiság), és
+  - ab) a kívül maradó adóalany írásban nyilatkozik, hogy hozzájárul a fennmaradó csoportos adóalanyiság fenntartásához,
+- b) a fennmaradó csoportos adóalanyisághoz történő 8. § (8) bekezdése szerinti csatlakozási kérelem benyújtása, valamint a kívül maradó adóalany 8. § (3) bekezdése szerinti hozzájáruló nyilatkozatának megtétele a kapcsolttá válás időpontját magában foglaló hónapot követő nyolcadik hónap végéig maradéktalanul megtörténik valamennyi 8. § (1) bekezdése szerinti személy, szervezet részéről.
+
+(2) Az (1) bekezdésben foglaltak esetén
+
+- a) a 8. § (3) bekezdésétől eltérően nem képezi akadályát a fennmaradó csoportos adóalanyisághoz történő csatlakozás kérelmezésének, ha a kérelmező az (1) bekezdés szerinti kapcsolttá válást megelőzően engedélyezett, de megszüntetni szándékozott csoportos adóalanyiság tagja,
+- b) a 8. § (7) bekezdése alkalmazásában kívül maradó adóalanynak kell tekinteni egymáshoz képest az (1) bekezdés szerinti különböző csoportos adóalanyiságokat is azzal, hogy amennyiben a kívül maradó adóalany csoportos adóalanyiság, úgy a kívül maradó adóalany egyetemleges felelőssége alatt a csoportos adóalanyiságban részt vevő tagok egyetemleges felelősségét kell érteni.
+
+(3) A csoportos adóalanyiság megszüntetésére irányuló kérelemben nem jelölhető meg az (1) bekezdés b) pontjában meghatározott időtartam végét követő időpont.
+
+(4) A megszüntetni szándékozott csoportos adóalanyiságban részt vevő és a fennmaradó csoportos adóalanyisághoz csatlakozni szándékozó tag csatlakozási kérelmében megjelölheti, hogy mely időponttal kéri a csatlakozását. A csatlakozási kérelemben nem jelölhető meg a megszüntetni szándékozott csoportos adóalanyiság megszüntetésére irányuló kérelemben megjelölt időpontnál korábbi időpont.
+
+(5) A (4) bekezdés szerinti esetben a csoportos adóalanyisághoz történő csatlakozás a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság engedélye véglegessé válásának napjával jön létre, feltéve, hogy ebben az időpontban a kérelmező már nem tagja más csoportos adóalanyiságnak.
+
+(6) Az (1) bekezdés b) pontjában foglalt határidőt bármelyik megszüntetni szándékozott csoportos adóalanyiság indokolt kérelmére az állami adó- és vámhatóság legfeljebb egyszer, további nyolc hónappal meghosszabbíthatja.
+
+(7) A (6) bekezdés szerinti kérelem elbírálása során az összes körülményt mérlegelni kell, különösen a 8. § (3) bekezdés b) pont bc) alpontja szerinti nyilvántartási rendszer kialakításához szükséges idő hosszát a fennmaradó csoportos adóalanysághoz csatlakozni kívánó személyek, szervezetek számától, méretétől, tevékenysége jellegétől függően.
 
 ### Termék értékesítése
 
@@ -351,7 +381,7 @@ az üzletágat megszerző adóalany a 88. § szerinti adófizetési kötelezetts
 
 (3) A (2) bekezdés a) pontjában említett felső értékhatárba a Közösség azon tagállamaiban megtérített vagy megtérítendő ellenérték számít, amelyekben a termék a küldeménykénti feladásakor vagy a fuvarozás megkezdésekor volt.
 
-(4) Az (1) bekezdés d) pontjának alkalmazhatósága megszűnik, és nem alkalmazható az olyan termék Közösségen belüli beszerzésére sem, amelynek – adó nélkül számított – ellenértékével a beszerző először meghaladja a (2) bekezdés a) pontjában említett felső értékhatárt.
+(4) Az (1) bekezdés d) pontjának alkalmazhatósága megszűnik, és nem alkalmazható az olyan termék Közösségen belüli beszerzésére sem, amelynek–adó nélkül számított–ellenértékével a beszerző először meghaladja a (2) bekezdés a) pontja szerinti felső értékhatárt. Az értékhatár meghaladását az adóalany az adóigazgatási eljárás részletszabályairól szóló kormányrendelet (a továbbiakban: Adóig. vhr.) változásbejelentésre vonatkozó rendelkezései szerint az állami adó- és vámhatóságnak bejelenti.
 
 (5) Az (1) bekezdés d) pontjában említett beszerző az állami adóhatóságnak tett előzetes bejelentése alapján dönthet úgy is, hogy nem az (1) bekezdést, hanem a 19. § a) pontját – az ott meghatározottak szerint – alkalmazza.
 
@@ -429,7 +459,7 @@ az üzletágat megszerző adóalany a 88. § szerinti adófizetési kötelezetts
 
 (2) Az (1) bekezdés b) pontjában említett felső értékhatár Magyarország esetében 35 000 eurónak megfelelő pénzösszeg.
 
-(3) Az (1) bekezdés alkalmazhatósága megszűnik, és nem alkalmazható arra a termékértékesítésre sem, amelynek – adó nélkül számított – ellenértékével az adóalany először meghaladja az (1) bekezdés b) pontjában említett felső értékhatárt.
+(3) Az (1) bekezdés alkalmazhatósága megszűnik, és nem alkalmazható arra a termékértékesítésre sem, amelynek – adó nélkül számított – ellenértékével az adóalany először meghaladja az (1) bekezdés b) pontja szerinti felső értékhatárt. Az értékhatár meghaladását az adóalany az Adóig. vhr. változásbejelentésre vonatkozó rendelkezései szerint az állami adó- és vámhatóságnak bejelenti.
 
 (4) Az adóalany az (1) bekezdésben említett esetben arra a termékértékesítésére, amelynél a termék a küldeménykénti feladásakor vagy a fuvarozás megkezdésekor belföldön van, az állami adóhatóságnak tett előzetes bejelentése alapján dönthet úgy is, hogy nem az (1) bekezdést, hanem a 29. §-t – az ott meghatározottak szerint – alkalmazza.
 
@@ -551,7 +581,7 @@ napot meg nem haladó használatát jelenti.
 - b) a szolgáltatásokat olyan nem adóalany részére nyújtja, aki (amely) a Közösségnek az a) pontban meghatározottaktól eltérő tagállamában telepedett le gazdasági céllal, gazdasági célú letelepedés hiányában rendelkezik ott lakóhellyel vagy szokásos tartózkodási hellyel,
 - c) az adott naptári évben, valamint – feltéve, hogy ilyen szolgáltatást nyújtott – az adott naptári évet megelőző naptári évben a b) pontban meghatározott szolgáltatások ellenértékének – adó nélkül számított és éves szinten göngyölített – összege nem haladja meg a 10 000 eurónak megfelelő pénzösszeget.
 
-(4) A (3) bekezdés alkalmazhatósága megszűnik és nem alkalmazható az olyan szolgáltatásnyújtásra sem, amelynek – adó nélkül számított ellenértékével – a szolgáltatást nyújtó először meghaladja a (3) bekezdés c) pontjában említett felső értékhatárt.
+(4) A (3) bekezdés alkalmazhatósága megszűnik és nem alkalmazható az olyan szolgáltatásnyújtásra sem, amelynek – adó nélkül számított ellenértékével – a szolgáltatást nyújtó először meghaladja a (3) bekezdés c) pontja szerinti felső értékhatárt. Az értékhatár meghaladását az adóalany az Adóig. vhr. változásbejelentésre vonatkozó rendelkezései szerint az állami adó- és vámhatóságnak bejelenti.
 
 (5) A (3) bekezdésben említett feltételeknek megfelelő azon adóalany, aki (amely) belföldön telepedett le gazdasági céllal, gazdasági célú letelepedés hiányában belföldön van lakóhelye vagy szokásos tartózkodási helye, az állami adó- és vámhatóságnak tett előzetes bejelentése alapján dönthet úgy is, hogy nem a (3) bekezdést, hanem az (1) bekezdést alkalmazza.
 
@@ -1056,7 +1086,7 @@ nem minősül közszolgáltatónak.
 - b) bemutatni azt a nyilvántartási rendszert, amely mind a maga, mind az együttműködő közösség tagjai részéről eleget tesz a (3) bekezdésnek; valamint
 - c) nyilatkozni mind a maga nevében, mind az együttműködő közösség tagjai nevében és képviseletében arról, hogy teljesítik az együttműködő közösség időszakában az (1), (3) és (4) bekezdést.
 
-(9) A (8) bekezdésben meghatározott kötelezettségek teljesítésére – ideértve az együttműködő közösség megszüntetését is – az az adóigazgatási eljárás részletszabályairól szóló kormányrendelet (a továbbiakban: Adóig. vhr.) változásbejelentésre vonatkozó rendelkezéseit kell alkalmazni.
+(9) A (8) bekezdésben meghatározott kötelezettségek teljesítésére – ideértve az együttműködő közösség megszüntetését is – az az Adóig. vhr. változásbejelentésre vonatkozó rendelkezéseit kell alkalmazni.
 
 ### Adó alóli mentesség a tevékenység egyéb sajátos jellegére tekintettel
 
@@ -1724,7 +1754,11 @@ terjedő tartamban az adóalany adólevonási jogát – az adólevonási jog gy
 
 ### Adólevonási jog elenyészése
 
-137. § Ha az állami adó- és vámhatóság az adóalany adószámát törli, az adóalany adólevonási joga az adószám törlését elrendelő határozat véglegessé válásának napjával elenyészik.
+137. § (1) Ha az állami adó- és vámhatóság az adóalany adószámát törli, az adóalany adólevonási joga az adószám törlését elrendelő határozat véglegessé válásának napjával elenyészik.
+
+(2) Nem áll be az (1) bekezdés szerinti joghatás, ha az adóalany kérelemére az adószámának törlését követően az állami adó- és vámhatóság az adószámot ismételten megállapítja.
+
+(3) Ha az állami adó- és vámhatóság az adószámot a (2) bekezdés szerint ismételten megállapítja, az adóalany adólevonási jogát az Art. szerinti elévülési időre figyelemmel önellenőrzés útján érvényesítheti.
 
 ### VIII. Fejezet — ADÓFIZETÉSRE KÖTELEZETT
 
@@ -2278,6 +2312,8 @@ számlakibocsátási kötelezettséget jelent.
 
 - a) jogutódlással történik, és a jogelőd záróbevallásában bevallott összegre nem teljesül az (1) bekezdés b) pontja, a záróbevallásban bevallott összeggel való rendelkezés joga a jogutódra, illetőleg – több jogutód esetében – a felek által kijelölt jogutódra száll át, aki (amely) azt a rá vonatkozó rendelkezések szerint gyakorolhatja;
 - b) jogutód nélkül történik, a belföldön nyilvántartásba vett adóalany a különbözet visszaigénylését akkor is kérelmezheti, ha a záróbevallásában bevallott összegre nem teljesül az (1) bekezdés b) pontja.
+
+(7) Ha az adóalany megszűnésekor vagy annak közvetlen következményeként a jogutód belföldön nyilvántartásba nem vett adóalany, a (6) bekezdés alkalmazásában úgy kell tekinteni, hogy az adóalany jogutód nélkül szűnt meg.
 
 ## MÁSODIK RÉSZ — KÜLÖNÖS RENDELKEZÉSEK
 
@@ -3685,6 +3721,10 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 340. § A 3. számú melléklet I. részében foglalt táblázatnak a rozsdaövezeti akcióterületek létrehozásához szükséges intézkedésekről szóló 2020. évi LXXVII. törvénnyel megállapított 59. sorát azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont a rozsdaövezeti akcióterületek létrehozásához szükséges intézkedésekről szóló 2020. évi LXXVII. törvény hatálybalépésének napjára vagy azt követő időpontra esik.
 
+341. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel (a továbbiakban: Mód11 törvény) megállapított 137. § (2)–(3) bekezdését alkalmazni kell abban az esetben is, ha az adószámot az állami adó- és vámhatóság a Mód11 törvény hatálybelépését megelőzően, az adó megállapításához való jog elévülési idején belül állapította meg ismételten.
+
+(2) Az egyéb feltételek fennállása esetén a belföldön nyilvántartásba vett, személygépkocsi értékesítésével foglalkozó viszonteladó a 2021. január 1. napjával kezdődő időszakra vonatkozóan abban az esetben is dönthet úgy, hogy tevékenységének egészére e törvény XVI. Fejezet 2. alfejezetének rendelkezéseit alkalmazza, ha a 225. § (1) bekezdés c) pontjában rögzített időtartam még nem telt el, feltéve, hogy e döntéséről az állami adó- és vámhatóságnak 2020. december 31-ig nyilatkozik.
+
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
 #### A Közösség területe és tagállamai
@@ -3762,7 +3802,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 23. | Házi sertés egészben vagy félben, frissen vagy hűtve | 0203 1110 |
 | 24. | Házi sertés egészben vagy félben, fagyasztva | 0203 2110 |
 | 25. | Fajtatiszta tenyész szarvasmarha | 0102 21 10 0102 21 30 0102 21 90 |
-| 26. | Más, élő háziasított szarvasmarha | 0102 29 05-ből 0102 29 10-ből 0102 29 21-ből 0102 29 29-ből 0201 29 41-ből 0102 29 49-ből 0102 29 51-ből 0102 29 59-ből 0102 29 61-ből 0102 29 69-ből 0102 29 91-ből 0102 29 99-ből |
+| 26. | Más, élő háziasított szarvasmarha | 0102 29 05-ből 0102 29 10-ből 0102 29 21-ből 0102 29 29-ből 0102 29 41-ből 0102 29 49-ből 0102 29 51-ből 0102 29 59-ből 0102 29 61-ből 0102 29 69-ből 0102 29 91-ből 0102 29 99-ből |
 | 27. | Fajtatiszta tenyészjuh | 0104 10 10 |
 | 28. | Más, élő háziasított juh | 0104 10 30-ból 0104 10 80-ból |
 | 29. | Fajtatiszta tenyészkecske | 0104 20 10 |
