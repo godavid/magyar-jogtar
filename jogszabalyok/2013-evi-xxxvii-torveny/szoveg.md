@@ -107,12 +107,18 @@ A formanyomtatványban olyan személy neve és címe is megjelölhető, aki a me
 
 (4b) A (4a) bekezdés 1–4. pontjában meg nem határozott fogalmak jelentése a III/A. Fejezet alkalmazásában, amennyiben a szövegösszefüggésből más nem következik, megegyezik azzal a jelentéssel, amely a vitás kérdést eredményező vagy a későbbiekben ahhoz vezető intézkedésről szóló első értesítés közlésének időpontjában hatályos, vonatkozó megállapodásban vagy egyezményben az adott időpontban szerepel. Amennyiben az említett megállapodásban vagy egyezményben nem szerepel egy adott fogalom meghatározása, a meg nem határozott fogalom jelentése megegyezik Magyarországnak az említett megállapodás vagy egyezmény hatálya alá tartozó adók tekintetében alkalmazandó jogszabályai szerinti, az adott időpontban érvényes jelentéssel azzal, hogy az alkalmazandó adójogszabályai szerinti jelentés elsőbbséget élvez a fogalomnak egyéb jogszabályban szereplő jelentésével szemben.
 
-(4c) A IV/A. Fejezet alkalmazásában:
+(4c) A IV. Fejezet alkalmazásában:
 
-- 1. adóegyezmények szerinti kölcsönös egyeztető eljárás: a jövedelem és adott esetben a vagyon kettős adóztatásának elkerülésére vonatkozó nemzetközi egyezmények (továbbiakban: adóegyezmények) értelmezéséből és alkalmazásából eredő vitás kérdés rendezésére irányuló eljárás;
+- 1. vitás kérdés: a Választottbírósági Egyezmény alkalmazásából eredő vitatott ügy;
+- 2. érintett személy: az a személy, aki vagy amely a Választottbírósági Egyezményben részes valamely államban belföldi adóügyi illetőségű és adóztatására a vitás kérdés közvetlen hatással van;
+- 3. érintett állam: vitás kérdésben érintett állam.
+
+(4d) A IV/A. Fejezet alkalmazásában:
+
+- 1. adóegyezmények szerinti kölcsönös egyeztető eljárás: a jövedelem és adott esetben a vagyon kettős adóztatásának elkerülésére vonatkozó nemzetközi egyezmények (a továbbiakban: adóegyezmények) értelmezéséből és alkalmazásából eredő vitás kérdés rendezésére irányuló eljárás;
 - 2. vitás kérdés: az adóegyezmények értelmezéséből és alkalmazásából eredő vitákhoz vezető ügy;
 - 3. érintett személy: a vitás kérdésben alkalmazandó adóegyezmény alapján magyar belföldi illetőségű személy – a természetes személyt is ideértve –, akinek vagy amelynek adóztatására a vitás kérdés közvetlen hatással van;
-- 4. érintett államok: vitás kérdésben érintett államok.
+- 4. érintett állam: vitás kérdésben érintett állam.
 
 (5) Az V/A. fejezet alkalmazásában:
 
@@ -1167,26 +1173,27 @@ vonatkozó szabályoktól.
 
 ### IV. Fejezet — A VÁLASZTOTTBÍRÓSÁGI EGYEZMÉNY ALKALMAZÁSÁHOZ KAPCSOLÓDÓ RENDELKEZÉSEK
 
-42. § (1) Az illetékes hatóság az adózó kölcsönös egyeztetési eljárás iránti kérelmének beérkezésétől számított egy hónapon belül értesíti az adózót, valamint az ügyben érintett szerződő államok illetékes hatóságait a kérelem benyújtásáról. Az illetékes hatóságok értesítéséhez a kölcsönös egyeztetési eljárás iránti kérelem másolatát is csatolni kell.
+42. § (1) E fejezet rendelkezéseit – a Választottbírósági Egyezmény eltérő rendelkezése hiányában – az érintett személy választása alapján a Választottbírósági Egyezmény szerinti eljárásokra kell alkalmazni. A Választottbírósági Egyezmény szerinti eljárásban az állami adó- és vámhatóság (a továbbiakban: illetékes hatóság) jár el.
 
-(2) Ha a kölcsönös egyeztetési eljárás iránti kérelem elutasításának nincs helye és a kérelem egyoldalúan nem teljesíthető, az illetékes hatóság kölcsönös egyeztetési eljárást kezdeményez az ügyben érintett szerződő államok illetékes hatóságainak értesítésével. Az értesítésben utalni kell a Választottbírósági Egyezmény 6. cikk (1) bekezdésében, illetve 7. cikk (1) bekezdésében meghatározott határidő kezdő időpontjára, e határidő betartására és az értesítéshez mellékelni kell a kölcsönös egyeztetési eljárás iránti kérelem másolatát. Az illetékes hatóságok értesítésével egyidejűleg a kérelmezőt is értesíteni kell a kölcsönös egyeztetési eljárás megindításáról.
+(2) Vitás kérdés rendezésére irányuló kérelmet (a továbbiakban: panasz) terjeszthet elő a magyar illetékes hatóság részére a magyar belföldi adóügyi illetőségű érintett személy, illetve a külföldi illetékes hatóság a külföldi adóügyi illetőségű érintett személy kérelme alapján.
 
-(3) A Választottbírósági Egyezmény 6. cikk (1) bekezdésében hivatkozott, kölcsönös egyeztetési eljárás iránti kérelemben meg kell jelölni
+(3) A panasz benyújtására a 42/B. § (3)–(5) bekezdésben foglalt rendelkezéseket kell alkalmazni, azzal az eltéréssel, hogy az illetékes hatóságnak az érintett személy, illetve a külföldi illetékes hatóság részére történő visszaigazolás, tájékoztatás megküldésére egy hónapos határidő az irányadó.
 
-- a) a kérelmező és a kérelemmel érintett személyek azonosító adatait (elnevezés, székhely, adóazonosító szám),
-- b) az adóügy tényállásának lényeges elemeit (így különösen a kérelmező és a kérelemmel érintett személyek jogviszonyának leírását, az adómegállapítási időszakot, a kettős adóztatást eredményező adóhatósági döntés, intézkedés azonosításához szükséges adatokat),
-- c) az adóüggyel kapcsolatban a kérelmező vagy a kérelemmel érintett személyek által kezdeményezett közigazgatási jogorvoslati, illetve polgári peres eljárások adatait, és
-- d) a kérelem előterjesztésének indokát.
+(4) A panasz tartalmára, a hiánypótlásra, valamint az információk védelmére a 42/C. § (1) bekezdés a)–d) és f)–h) pontjában, valamint a 42/C. § (2)–(3) bekezdésben foglalt rendelkezéseket kell alkalmazni, azzal az eltéréssel, hogy az illetékes hatóság részére a hiánypótlás kérésére nyitva álló határidő a panasz kézhezvételétől számított két hónap.
 
-(4) A (3) bekezdés b) pontja szerinti adatok megjelölése helyett az adózó kérelméhez csatolhatja a döntésről vagy intézkedésről szóló irat másolatát.
+(5) A panasz visszavonására a 42/D. §-ban foglalt rendelkezéseket kell alkalmazni.
 
-(5) Ha a kérelem a (3) bekezdésben foglaltakat csak részben tartalmazza, az illetékes hatóság a kérelem beérkezésétől számított két hónapon belül megfelelő határidő tűzésével hiánypótlásra hívja fel a kérelmezőt.
+(6) A panasz elfogadására, visszautasítására, valamint a panasz visszautasításával összefüggő jogorvoslati eljárásra a 42/E. §-ban és a 42/F. §-ban foglalt rendelkezéseket kell alkalmazni.
 
-(6) A Választottbírósági Egyezmény 7. cikk (1) bekezdése szerint a kölcsönös egyeztetés iránti kérelem abban az időpontban minősül benyújtottnak és a kétéves időszak kezdőnapja az a nap, amikor a kérelem tartalma a (3) bekezdésben foglaltaknak – további hiánypótlásra felhívás nélkül – megfelel.
+(7) A panasz egyoldalú rendezésére a 42/G. §-ban foglalt rendelkezéseket kell alkalmazni.
 
-(7) A Választottbírósági Egyezménnyel kapcsolatos együttműködés során a magyar illetékes hatóság, valamint jogszabályi vagy egyéb kijelölés alapján az illetékes hatóság feladatait ellátó hatóság által közölt, továbbított vagy szerzett információ adótitoknak minősül.
+(8) Amennyiben a magyar illetékes hatóság és a többi érintett állam illetékes hatósága is elfogadja a panaszt, akkor a vitás kérdést kölcsönös egyeztető eljárás útján rendezheti a magyar illetékes hatóság és a többi érintett állam illetékes hatósága.
 
-(8) Ha a Választottbírósági Egyezmény 6. vagy 7. cikke szerinti eljárás alapján a határozat (végzés) megváltoztatása vagy megsemmisítése, illetve ezzel azonos hatású intézkedés várható, az állami adóhatóság az adós kérelmére, a felettes szerve rendelkezésére vagy az illetékes hatóság értesítése alapján a határozat (végzés) végrehajtását felfüggeszti.
+(9) A Választottbírósági Egyezmény 7. cikk (1) bekezdése szerinti kétéves időszak kezdőnapja az a nap, amikor a panasz tartalma a (4) bekezdésben előírt tartalomnak további hiánypótlás nélkül megfelel. A kölcsönös egyeztető eljárás lefolytatására és a kölcsönös megállapodás végrehajtására a 42/H. § (2)–(9) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+
+(10) A nemzeti eljárásokkal való kölcsönhatások és az azoktól való eltérések tekintetében 42/I. §-ban foglalt rendelkezéseket kell alkalmazni.
+
+(11) A Választottbírósági Egyezmény szerinti választottbírósági eljárást lezáró döntés végrehajtására a 41/V. §-ban foglalt rendelkezéseket kell alkalmazni.
 
 ### IV/A. Fejezet — AZ ADÓEGYEZMÉNYEK SZERINTI VITARENDEZÉSI ELJÁRÁS EGYES SZABÁLYAI
 
@@ -1700,6 +1707,8 @@ a 30 napos teljesítési határidő számítása 2021. január 1-jétől kezdőd
 
 (2) A 2018. január 1-jét megelőzően kezdődő adómegállapítási időszakot érintő, a kölcsönös egyeztető eljárás megindítására irányuló kérelem vagy panasz esetén – ha a nemzetközi szerződés másként nem rendelkezik – a kölcsönös egyeztető eljárás lefolytatásának feltétele, hogy a kérelem, a panasz vagy bármilyen arra utaló értesítés, amely az eljárás megindításának alapjául szolgál, a kérelmezőtől, az érintett személytől vagy a másik szerződő állam illetékes hatóságától az adómegállapításhoz való jog vagy az adó-visszatérítés iránti jog elévülési idején belül a magyar illetékes hatósághoz beérkezzen.
 
+45/M. § E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 4. § (4c) bekezdését, valamint 42. §-át a folyamatban lévő eljárásokban a hatálybalépést követően megkezdett eljárási cselekményekre is alkalmazni kell.
+
 #### 17. Az Európai Unió jogának való megfelelés
 
 46. § (1) A 4. § (1)–(3) bekezdés és a II. Fejezet az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló, 2011. február 15-i 2011/16/EU tanácsi irányelvnek való megfelelést szolgálja.
@@ -1717,6 +1726,8 @@ a 30 napos teljesítési határidő számítása 2021. január 1-jétől kezdőd
 (7) A 4. § (4a) és (4b) bekezdése és a III/A. Fejezet az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való megfelelést szolgálja.
 
 (8) A 4. § (9) bekezdése, az V/F. Fejezet, a 45/J. §, valamint a 4. melléklet az adózás területén való közigazgatási együttműködésről szóló, 2011. február 15-i 2011/16/EU tanácsi irányelvnek az adatszolgáltatási kötelezettség alá tartozó, határokon átnyúló konstrukciókkal kapcsolatosan az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló, 2018. május 25-i 2018/822/EU tanácsi irányelvnek való megfelelést szolgálja.
+
+(9) A 45/J. § (1)–(6), valamint (8) bekezdése a 2011/16/EU tanácsi irányelvnek az adózás területén az információk benyújtására és cseréjére vonatkozó egyes határidőknek a Covid19-világjárvány miatti sürgetően szükséges halasztása kezelésének érdekében történő módosításáról szóló, 2020. június 24-i (EU) 2020/876 tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 18. Módosító rendelkezések
 
