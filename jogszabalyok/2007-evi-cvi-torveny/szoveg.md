@@ -98,17 +98,18 @@ gyakorolja.
 17. § (1) Az MNV Zrt.:
 
 - a) előkészíti, illetve végrehajtja az Országgyűlés, a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
-- b) nyilvántartást vezet a tulajdonosi joggyakorlása – ideértve a törvény vagy miniszteri rendelet alapján átadott tulajdonosi joggyakorlást is – alá tartozó állami vagyonról, annak alapján adatszolgáltatást nyújt,
+- b) a tulajdonosi joggyakorlása alá tartozó állami vagyonra vonatkozó nyilvántartás mellett nyilvántartja az egyéb tulajdonosi joggyakorlókra – ideértve a törvénnyel vagy miniszteri rendelettel kijelölt tulajdonosi joggyakorlókat is – rábízott állami vagyont is (a továbbiakban együtt: egységes állami vagyonnyilvántartás), valamint gondoskodik az egységes állami vagyonnyilvántartás vezetéséhez létrehozott informatikai rendszer (a továbbiakban: adatszolgáltatási keretrendszer) és a 22/C. § (2) bekezdése szerinti Országleltár működtetéséről;
 - c) a tulajdonosi joggyakorlása alá tartozó állami vagyont közvetlenül vagy polgári jogi szerződések útján hasznosítja,
 - d) a tulajdonosi ellenőrzési szabályzatában meghatározott rendszerességgel ellenőrzi a vele szerződéses jogviszonyban lévő személyek, szervezetek vagy más használók állami vagyonnal való gazdálkodását, megállapításairól az MNV Zrt. Felügyelő Bizottságát, az ellenőrzött szervet, szükség esetén a minisztert és az Állami Számvevőszéket tájékoztatja,
 - e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli az államot,
 - f) ellenőrzi az értékesítési szerződésekben foglalt kötelezettségek teljesítését.
 - g) elektronikus árverési rendszert működtet, vezeti az árverezők elektronikus nyilvántartását és elektronikus árverési hirdetmény közzététele útján elektronikus árverési eljárást bonyolít le,
 - h) az állami feladatok ellátása során a költségvetési szervek, illetve az egyéb, az állami vagyont használó természetes személyek, jogi személyek és jogi személyiséggel nem rendelkező szervezetek részére a működésükhöz szükséges állami tulajdon használatához szükséges szolgáltatásokat (üzemeltetés, beszerzés) nyújt.
+- i) elektronikus bérleti licit rendszert működtet, vezeti az elektronikus bérleti licitben résztvevők elektronikus nyilvántartását, elektronikus bérleti hirdetmény közzététele útján, a tulajdonosi joggyakorlása alatt álló állami ingatlanok tekintetében elektronikus bérleti licit eljárást bonyolít le, valamint gondoskodik az e célra létrehozott informatikai rendszernek az e törvény végrehajtási rendeletében meghatározottak szerinti működtetéséről.
 
 (2) Az MNV Zrt. jogszabályokban meghatározott feladatai állami feladatnak minősülnek.
 
-(3) Az állami vagyon feletti tulajdonosi joggyakorló köteles a Kormány rendeletében meghatározott adattartalommal és módon adatszolgáltatást nyújtani az MNV Zrt. részére.
+(3) Az állami vagyon feletti tulajdonosi jogokat gyakorlók – a nemzetbiztonsági szolgálatok kivételével – az e törvényben és végrehajtási rendeletében meghatározott módon adatot szolgáltatnak az egységes állami vagyonnyilvántartás vezetése érdekében az MNV Zrt. részére a rájuk bízott állami vagyonról készített mérlegről, valamint a mérleg soraival megegyező, vagyonelemenkénti tételes adatokról (a továbbiakban: tulajdonosi joggyakorlói adatszolgáltatás). A nemzetbiztonsági szolgálatok az e törvény végrehajtási rendeletében meghatározottak szerint teljesítik adatszolgáltatási kötelezettségüket.
 
 18. § (1) Az MNV Zrt. az állam által alapított egyszemélyes részvénytársaság, amelynek részvénye forgalomképtelen. Alapszabályának elfogadása és módosítása a miniszter hatáskörébe tartozik. Az MNV Zrt. nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet. Megszűnéséről az Országgyűlés törvényben rendelkezhet.
 
@@ -295,9 +296,67 @@ gyakorolja.
 
 (2) Az MNV Zrt. saját vagyonával való gazdálkodása körében a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény. 3. § (1) bekezdése szerinti adósságot keletkeztető ügyletet nem köthet, kezességet, garanciát nem vállalhat.
 
+### Az egységes állami vagyonnyilvántartás vezetéséhez és az Országleltár működtetéséhez kapcsolódó feladatok
+
+22/B. § (1) Az MNV Zrt. által vezetett egységes állami vagyonnyilvántartás célja az állami vagyonnal való gazdálkodás átláthatóságának, valamint az állami vagyonnal való gazdálkodási tevékenység támogatásának biztosítása. Az egységes állami vagyonnyilvántartás biztosítja az állami vagyon értékének megállapítását, valamint az állami vagyon változásainak folyamatos nyomon követését. Az egységes állami vagyonnyilvántartás tartalmaz valamennyi állami tulajdonú vagyonelemet, a tulajdonosi joggyakorló személyétől függetlenül.
+
+(2) Az MNV Zrt. az egységes állami vagyonnyilvántartás vezetése érdekében – e törvény végrehajtási rendeletében meghatározott módon – jegyzéket vezet a tulajdonosi joggyakorlói adatszolgáltatásra kötelezett tulajdonosi joggyakorlókról (a továbbiakban: tulajdonosi joggyakorlók jegyzéke).
+
+(3) A tulajdonosi joggyakorlói adatszolgáltatásra kötelezett tulajdonosi joggyakorlók az e törvényben és végrehajtási rendeletében meghatározott módon
+
+- a) regisztrálnak a tulajdonosi joggyakorlók jegyzékébe a tulajdonosi joggyakorlói kijelölést követő 30 napon belül,
+- b) teljesítik a tulajdonosi joggyakorlói adatszolgáltatást a meghatározott adatszolgáltatási időszakban,
+- c) elvégzik az MNV Zrt. által a tulajdonosi joggyakorlói adatszolgáltatásban feltárt hibák, hiányosságok javítását és
+- d) szerepeltetik a tulajdonosi joggyakorlói adatszolgáltatásukban az MNV Zrt. által a vagyonelemek nyilvántartására rendszeresített Országleltár-azonosítókat.
+
+(4) Az MNV Zrt. a tulajdonosi joggyakorlók jegyzékében a tulajdonosi joggyakorlók következő adatait kezeli:
+
+- a) a tulajdonosi joggyakorló neve,
+- b) a tulajdonosi joggyakorló szervezet rövid neve,
+- c) a tulajdonosi joggyakorló székhelye,
+- d) a tulajdonosi joggyakorló szervezet adószáma,
+- e) a tulajdonosi joggyakorló telefonszáma,
+- f) a tulajdonosi joggyakorló értesítési e-mail-címe,
+- g) a tulajdonosi joggyakorló tulajdonosi joggyakorlói kijelölésének kezdete,
+- h) a tulajdonosi joggyakorló szervezet képviselőjének és kapcsolattartójának
+  - ha) neve,
+  - hb) szervezeti egysége,
+  - hc) szervezeti beosztása,
+  - hd) telefonszáma és értesítési e-mail-címe.
+
+(5) Az MNV Zrt. a tulajdonosi joggyakorló, valamint képviselőjének és kapcsolattartójának személyes adatait a tulajdonosi joggyakorlók jegyzékében – a (6) bekezdésben meghatározott kivétellel – addig kezeli amíg
+
+- a) az adott tulajdonosi joggyakorló tulajdonosi joggyakorlói kijelölése fennáll vagy
+- b) a természetes személy az adott tulajdonosi joggyakorló képviselője vagy kapcsolattartója.
+
+(6) Az MNV Zrt. a tulajdonosi joggyakorló képviselőjének és kapcsolattartójának a (4) bekezdés h) pontjában meghatározott adatait archiválja és addig őrzi, ameddig
+
+- a) a tulajdonosi joggyakorló által teljesített tulajdonosi joggyakorlói adatszolgáltatás helyességének ellenőrzéséhez, vagy
+- b) a tulajdonosi joggyakorló és az MNV Zrt. által kötött szerződésben foglalt kötelezettségek érvényesítéséhez
+
+szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adatszolgáltatást teljesítő képviselő vagy kapcsolattartó személyének megállapíthatósága.
+
+(7) Az MNV Zrt. a tulajdonosi joggyakorlók jegyzékében a tulajdonosi joggyakorló képviselője és kapcsolattartója személyes adatait a tulajdonosi joggyakorló képviselőjének vagy kapcsolattartójának halála esetén további 5 évig – a későbbi ellenőrzés céljából – kezelheti.
+
+(8) A tulajdonosi joggyakorlók jegyzékének vezetése során biztosítani kell az abban szereplő adatok megőrzését és biztonságos kezelését, a nem nyilvános adatok védelmét, a titokvédelemmel összefüggő kötelezettségek teljesítését. A tulajdonosi joggyakorlók jegyzékének vezetése során megismert adatok az e törvényben foglaltak szerint kezelhetőek.
+
+22/C. § (1) Az egységes állami vagyonnyilvántartás teljessége, egységessége, pontossága és az adatellenőrzések biztosítása érdekében a tulajdonosi joggyakorlók az MNV Zrt.-vel együttműködnek és az adatszolgáltatást az adatszolgáltatási keretrendszer használatával teljesítik.
+
+(2) Az Országleltár az állam nevében tulajdonosi jogokat gyakorló szervezetek tulajdonosi joggyakorlása alatt álló ingatlanok, társasági részesedések és egyéb ingó vagyonelemek tekintetében – kormányrendeletben meghatározott kivételekkel – az egységes állami vagyonnyilvántartás adatait – egy adott időpontra vonatkoztatva, egységes szerkezetben, mennyiségben és értékben – teszi hozzáférhetővé, amely adatok az Országleltár honlapján keresztül bárki számára ingyenesen elérhetőek.
+
+(3) Az MNV Zrt. a (2) bekezdésben meghatározott adatokon túl az Országleltár honlapján közzéteszi azon tulajdonosi joggyakorlók listáját, amelyek a tulajdonosi joggyakorlói adatszolgáltatási kötelezettségüknek az adatszolgáltatási keretrendszerben nem tettek eleget a jogszabályban meghatározott határnapig. Ha a tulajdonosi joggyakorló az adatszolgáltatási kötelezettségének utólag eleget tesz, az MNV Zrt. – az érintett tulajdonosi joggyakorló törlésével – haladéktalanul intézkedik a közzétett lista aktualizálásáról.
+
+(4) A tulajdonosi joggyakorló a tulajdonosi joggyakorlói adatszolgáltatás teljesítése érdekében köteles az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét az MNV Zrt.-vel – a tulajdonosi joggyakorlói kijelölést követő 30 napon belül – közölni. A tulajdonosi joggyakorló a tárhelyet vagy az elektronikus elérhetőséget érintő változásokról azok bekövetkezését követő öt napon belül tájékoztatja az MNV Zrt.-t.
+
+(5) Ha valamely tulajdonosi joggyakorló megszűnésére vagy tulajdonosi joggyakorlói kijelölésének megszüntetésére a tárgyévi adatszolgáltatási határnapot megelőzően kerül sor, az érintett tulajdonosi joggyakorló – az MNV Zrt. által meghatározott módon – az e törvény végrehajtására kiadott rendeletben meghatározott határidőben teljesíti a tulajdonosi joggyakorlói adatszolgáltatást.
+
 ### IV. Fejezet — AZ ÁLLAMI VAGYONNAL VALÓ GAZDÁLKODÁS
 
-23. § (1) Az állami vagyonnal a tulajdonosi joggyakorló maga gazdálkodik, vagy szerződés – így különösen bérlet, haszonbérlet, megbízás – alapján hasznosításra átengedi, illetőleg vagyonkezelésbe, haszonélvezetbe adja.
+23. § (1) Az állami vagyonnal a tulajdonosi joggyakorló
+
+- a) maga gazdálkodik,
+- b) szerződés – így különösen bérlet, haszonbérlet, megbízás – alapján hasznosításra átengedi, vagy vagyonkezelésbe, haszonélvezetbe adja,
+- c) egyoldalú nyilatkozatával – a 28/A. § (2) bekezdése szerinti állami elhelyezési célú ingatlanhasználati jogviszony keretében – központi költségvetési szerv használatába adja.
 
 (2) Az állami vagyon hasznosítására kötött szerződések elsődleges célja az állami vagyon hatékony működtetése, állagának védelme, értékének megőrzése, illetve gyarapítása, az állami és közfeladatok ellátásának elősegítése.
 
@@ -322,6 +381,15 @@ gyakorolja.
 (5) Az (1)–(4) bekezdésben foglaltak irányadóak akkor is, ha központi költségvetési szerv vagy állami tulajdonú gazdasági társaság a használat, vagy a tulajdonosi joggyakorlóval kötött szerződés alapján őt megillető más jog gyakorlását – amennyiben erre a tulajdonosi joggyakorlóval kötött szerződése lehetőséget ad – bérleti vagy más visszterhes szerződés alapján harmadik személynek átengedi.
 
 (6) Amennyiben az állami vagyon használatára irányuló valamely szerződés vételi jogot is biztosít a használati jog jogosultja számára, akkor a használati jog átengedése az állami vagyon értékesítésére vonatkozó szabályok szerint történhet.
+
+24/A. § (1) Az MNV Zrt. az általa közvetlenül hasznosított állami ingatlanok bérbeadására irányuló versenyeztetési eljárást az ingatlanokra vonatkozóan elektronikus licitálási lehetőséget biztosító elektronikus bérleti licit rendszeren is lebonyolíthatja.
+
+(2) Az (1) bekezdés szerinti elektronikus bérleti licit rendszeren lefolytatott elektronikus bérleti licit eljárás eredményeként megkötött szerződés nyilvános versenyeztetés útján kötött szerződésnek minősül.
+
+(3) Az elektronikus bérleti licit eljárásban kizárólag olyan természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet vehet részt, aki szerepel az MNV Zrt. által – a 17. § (1) bekezdés i) pontja szerint – vezetett elektronikus nyilvántartásban és nem áll az e törvény végrehajtási rendeletében meghatározott kizárás hatálya alatt. Az elektronikus nyilvántartásba bármely természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet vagy ezek képviselője kérheti a felvételét, aki
+
+- a) megfelel az Nvtv. 3. § (1) bekezdés 1. pontja szerinti feltételeknek, és
+- b) a bérleti licit rendszer használatának feltételeit rögzítő felhasználási szabályzatban és az adatkezelési szabályzatban foglaltakat elfogadta.
 
 25. § (1) Állami vagyon hasznosítására irányuló szerződés nem köthető azzal, aki
 
@@ -409,7 +477,7 @@ gyakorolja.
 
 (3) A kijelölő okirattal létrejövő állami elhelyezési célú ingatlanhasználati jogviszony keretében a kijelölő okiratban meghatározott (1) bekezdés szerinti költségvetési szerv az állami elhelyezési célú ingatlant díjfizetési kötelezettség nélkül jogosult használni az e törvényben és a végrehajtási rendeletében meghatározottak szerint. A központi költségvetési szerv közfeladat ellátására való tekintettel az állami elhelyezési célú ingatlanhasználati jogviszony nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerinti gazdasági tevékenységnek.
 
-(4) Állami elhelyezési céllal, az (1) bekezdés szerinti költségvetési szervek javára, kizárólag az MNV Zrt. jogosult nem állami tulajdonú, Magyarország területén található ingatlanra vonatkozó használati jogosultságot eredményező megállapodást kötni.
+(4) Állami elhelyezési céllal az (1) bekezdés szerinti költségvetési szervek javára, – az e törvény végrehajtási rendeletében meghatározott kivétellel – kizárólag az MNV Zrt. jogosult nem állami tulajdonú, Magyarország területén található ingatlanra vonatkozó használati jogosultságot eredményező megállapodást kötni.
 
 (5) Az állami elhelyezési célú ingatlanok vonatkozásában hasznosítási megállapodást – az e törvény végrehajtási rendeletében meghatározott kivétellel – kizárólag az MNV Zrt. köthet, azzal, hogy a hasznosítás a (2) bekezdés szerint kijelölt használó közfeladat ellátását nem akadályozhatja.
 
@@ -431,6 +499,8 @@ gyakorolja.
 - d) többségi állami tulajdonban álló gazdasági társaság többségi tulajdonában álló gazdasági társaságot
 
 vonhat be.
+
+(8a) Az állami elhelyezési célú ingatlanokat érintő (8) bekezdés szerinti feladatok ellátásába bevont személyek vagy szervezetek jogosultak bontással járó munkálatok elvégzésére és az MNV Zrt. mindenkor hatályos selejtezési szabályzata alapján selejtezésre, a vissznyereményi anyag felújítás, beruházás során történő felhasználására, beépítésére. A (8) bekezdés szerint bevont szervezet a selejtezés műszaki és gazdasági megalapozottságáért, alátámasztottságáért teljes és kizárólagos felelősséggel tartozik, továbbá köteles a selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére.
 
 (9) E § alkalmazásában állami elhelyezési célú ingatlannak minősül:
 
@@ -474,6 +544,10 @@ vonhat be.
 ### Az elidegenítés általános szabályai
 
 33. § (1) Állami vagyon tulajdonjogának átruházására, ideértve a vagyon gazdasági társaság részére nem pénzbeli szolgáltatásként történő nyújtását is – ha törvény eltérően nem rendelkezik – kizárólag az a tulajdonosi joggyakorló jogosult. Az értékesítés lebonyolítására az a tulajdonosi joggyakorló – a közbeszerzésekről szóló jogszabályi rendelkezéseknek megfelelően – harmadik személynek megbízást adhat.
+
+(1a) Az állami elhelyezési célú ingatlanokat érintő 28/A. § (8) bekezdése szerinti feladatok ellátásába bevont személyek vagy szervezetek az MNV Zrt.-vel kötött megbízási szerződés alapján, az állam nevében jogosultak az állami ingatlanokon végzett üzemeltetési feladatokkal, értéknövelő beruházásokkal, felújításokkal, állagmegóvási és karbantartási feladatokkal összefüggésben keletkezett, hulladéknak nem minősülő vissznyeremény anyagok értékesítésére. Ha a 28/A. § (8) bekezdése szerinti feladatok ellátásába központi költségvetési szerv kerül bevonásra, akkor a vissznyeremény anyagok értékesítéséből származó nettó bevétel a központi költségvetési szervet illeti meg azzal, hogy az értékesítésből származó bevételt kizárólag a 28/A. § (8) bekezdése szerint az MNV Zrt.-vel kötött megbízási szerződésben meghatározott feladat ellátására fordíthatja az államháztartási jogszabályoknak megfelelően.
+
+(1b) Az állami vagyon változásával kapcsolatos nyilvántartási kötelezettségeinek a 28/A. § (8) bekezdése szerinti feladatok ellátásába bevont központi költségvetési szerv az MNV Zrt.-vel kötött megállapodásban foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
 
 (2) Központi költségvetési szerv vagyonkezelő a működéséhez már nem szükséges, az Nvtv. 11. § (6) bekezdése szerinti immateriális jószágokat, tárgyi eszközöket, készleteket – amennyiben azok egyedi, könyv szerinti bruttó értéke az éves költségvetési törvényben meghatározott értékhatárt nem haladja meg – kizárólag a tulajdonosi joggyakorlóval kötött megbízási szerződés alapján, az állam nevében és javára értékesítheti a 34–35. § alkalmazásával. Az értékesítésből származó bevétel a vagyonkezelő központi költségvetési szervet illeti meg.
 
@@ -909,6 +983,10 @@ lép.
 
 (2) Az (1) bekezdés szerinti vagyonelemek tulajdonba adását a miniszter és az MNV Zrt. átadás-átvételi jegyzőkönyv felvételével hajtja végre. Az átadás-átvételi jegyzőkönyv tartalmazza az MNV Zrt. működéséhez szükséges, számviteli törvény szerinti immateriális javak, tárgyi eszközök, készletek pontos meghatározását. Az átadás során az államot a miniszter képviseli.
 
+69/D. § (1) A 22/B. § (3) bekezdés a) pontja szerinti kötelezettségének a tulajdonosi joggyakorló az egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról, valamint az állami vagyonról szóló 2007. évi CVI. törvény módosításáról szóló 2020. évi CXXII. törvény hatálybalépését követő 30 napon belül tesz eleget.
+
+(2) A 22/C. § (4) bekezdése szerinti kötelezettségének a tulajdonosi joggyakorló az egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról, valamint az állami vagyonról szóló 2007. évi CVI. törvény módosításáról szóló 2020. évi CXXII. törvény hatálybalépését követő 30 napon belül tesz eleget.
+
 70. § (1) E törvény alkalmazásában közeli hozzátartozónak a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek minősülnek.
 
 (2) E törvény alkalmazásában gazdálkodó szervezet a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
@@ -920,10 +998,11 @@ lép.
 - c) a vagyonkezelésre és a vagyonkezelési szerződésre, valamint az állami vagyon hasznosítására vonatkozó más szerződésekre vonatkozó részletes szabályokat,
 - d) a 17. § d) pontja szerinti tulajdonosi ellenőrzés részletes szabályait,
 - e) az állami vagyon értékesítésére vonatkozó szabályokat,
-- f) az állami vagyon feletti tulajdonosi joggyakorló által az MNV Zrt. részére küldendő adatszolgáltatás tartalmát, módját és határidejét.
+- f) a tulajdonosi joggyakorlói adatszolgáltatás tartalmát, módját és határidejét, az adatszolgáltatási keretrendszerrel, az Országleltár-azonosítóval és a tulajdonosi joggyakorlók jegyzékének vezetésével kapcsolatos szabályokat, a tulajdonosi joggyakorlói adatszolgáltatás ellenőrzésének, valamint az ellenőrzés során feltárt hiányosságok kijavításának szabályait, az adatszolgáltatási keretrendszer használóira vonatkozó szabályzat kötelező tartalmát, az egységes állami vagyonnyilvántartás azon adatait, amelyek közzétételére az Országleltár honlapján nem kerül sor,
 - g) a 34. § (2) bekezdés b) pontja szerinti elektronikus árverés szabályait, ezen belül az elektronikus árverési rendszer működtetésének, az árverezők elektronikus nyilvántartása vezetésének, az elektronikus árverés lebonyolításának részletes szabályait, az árverezők elektronikus nyilvántartásában szereplő, az érintett hozzájárulása alapján kezelt személyes adatok körét, az elektronikus árverési rendszer szakmai és informatikai követelményeit, az informatikai rendszer működtetése ellenőrzésének felelősét, a működtetés biztonságosságával, átláthatóságával és ellenőrizhetőségével összefüggő követelményeket, az informatikai rendszer jogszabályi és működésbiztonsági tanúsításának szabályait, az elektronikus árverési rendszerhez felhasználóként (vevőként) történő csatlakozás feltételeit, a rendszer használóira vonatkozó szabályzatok kötelező tartalmát,
 - h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait,
 - i) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezésére, az állami elhelyezési célú ingatlanhasználati jogviszonyra, valamint az állami elhelyezési célú ingatlanok hasznosítására vonatkozó részletszabályokat.
+- j) a 24/A. § (1) bekezdése szerinti elektronikus bérleti licit rendszeren keresztül folytatott elektronikus bérleti licit szabályait, ezen belül a bérleti licit rendszer működtetésének szabályait, az elektronikus bérleti licitben résztvevők elektronikus nyilvántartása vezetésének szabályait, a bérleti licit rendszeren keresztül történő elektronikus bérleti licit eljárás lebonyolításának szabályait, az elektronikus bérleti licitben résztvevők elektronikus nyilvántartásában szereplő, az érintett hozzájárulása alapján kezelt személyes adatok körét, az elektronikus bérleti licit rendszer szakmai követelményeit, a működtetés biztonságosságával, átláthatóságával és ellenőrizhetőségével összefüggő követelményeket, az elektronikus bérleti licit rendszerhez felhasználóként történő csatlakozás feltételeit és a bérleti licit rendszer használóira vonatkozó szabályzatok kötelező tartalmát.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
