@@ -1175,6 +1175,8 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (7) A Felügyelet a pénzmosás és a terrorizmus finanszírozása elleni küzdelem elősegítése céljából jogosult viszonossági alapon harmadik ország vele azonos hatáskörrel rendelkező felügyeletet ellátó szervével együttműködési megállapodást kötni. A szakmai titok védelme érdekében az együttműködési megállapodásoknak tartalmazniuk kell legalább az (1)–(5) bekezdésben meghatározottakkal egyenértékű adatvédelmi rendelkezéseket. Az együttműködési megállapodások alapján megszerzett információk kizárólag az e törvényben meghatározott célokból használhatók fel.
 
+(8) A Felügyelet a (6) bekezdésben meghatározott nemzetközi információcsere és együttműködés keretében tudomására jutott információkat a (7) bekezdés szerinti együttműködés során kizárólag az információkat átadó felügyeletet ellátó szerv hozzájárulásával és kizárólag abból a célból jogosult felfedni, amelyhez az információkat átadó felügyeletet ellátó szerv hozzájárulását adta.
+
 #### 19. Az ügyvédekre, a kamarai jogtanácsosokra és a közjegyzőkre vonatkozó eltérő rendelkezések
 
 73. § (1) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség az ügyvédet – a (3) bekezdésben foglalt kivétellel – akkor terheli, ha az Üttv. 3. § (1) bekezdés i) pontja szerinti tevékenységet végez, vagy ha pénz és értéktárgy letéti kezelését végzi, illetve a következő jogügyletek előkészítésével és végrehajtásával összefüggésben végez az Üttv. 2. § (1) bekezdésében meghatározott ügyvédi tevékenységet:

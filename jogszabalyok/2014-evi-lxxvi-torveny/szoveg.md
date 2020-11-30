@@ -755,6 +755,23 @@ felett;
 
 vonatkozó szabályait még alkalmazni kell. Az a) és b) pontban megjelölt időszak elteltét követően az Mt. vonatkozó rendelkezései alkalmazandóak.
 
+47/A. § (1) A kutatóhely mint munkáltató által foglalkoztatott közalkalmazott közalkalmazotti jogviszonya e törvény erejénél fogva 2020. december 31-én megszűnik és a megszűnését követő nappal a kutatóhellyel létesített munkaviszony jön létre (a továbbiakban: jogállásváltozás). A jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 25/A. §-ának rendelkezéseit kell alkalmazni. Nem jogosult végkielégítésre a jogállásváltozásra tekintettel az, akinek közalkalmazotti jogviszonya megszűnését követően a munkáltatóval munkaviszonya jön létre. A jogállásváltozás a megkezdett próbaidő mértékét nem érinti.
+
+(2) A jogállásváltozással érintett munkavállalók kutatóhelynél megállapított munkabére a jogállásváltozást követően nem lehet kevesebb annál, mint amekkora összegre az érintett illetményként – ideértve az alapilletményt, alapilletmény-eltérítést, az illetménykiegészítést, idegennyelv-tudási pótlékot, képzettségi pótlékot, címpótlékot, vezetők esetében vezetői pótlékot – a kinevezési okirata alapján 2020. december 31-én jogosult volt. A munkabér megállapításánál figyelembe kell venni a 2020. december 31-éig megvalósult – a Kjt. által kötelezően előírt – átsorolást, a más munkakörbe történő helyezéshez kapcsolódó illetményváltozást, továbbá a szakmai cím visszavonásával vagy adományozásával összefüggő illetménymódosulást.
+
+(3) A magasabb vezetők és vezetők vezetői megbízása esetén a munkaszerződés a közalkalmazotti jogviszony megszűnése időpontjában fennálló kinevezés tartalma szerint jön létre.
+
+(4) Ha a munkáltató az (1) bekezdés szerinti jogállásváltozás esetén az időarányos szabadságot 2020. december 31. napjáig nem adta ki, azt meg kell váltani.
+
+(5) Az (1) bekezdés szerinti jogállásváltozás folytán létesített munkaviszony első
+
+- a) évében a Kjt.-nek a munkáltatói felmentésre,
+- b) öt évében a Kjt.-nek a jubileumi jutalomra
+
+vonatkozó szabályait kell alkalmazni.
+
+(6) A munkáltató és a foglalkoztatott közötti egyéb megállapodást a jogállásváltozás nem érinti.
+
 #### 17. Módosító rendelkezések
 
 48. § Ha az SZTNH az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
