@@ -410,6 +410,14 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (10) Ha a Rendszer bármely okból egy napon legalább négy órán keresztül az adatszolgáltató által nem elérhető (üzemzavar, üzemszünet), ez a nap az adatszolgáltatási határidőbe nem számít bele. A KSH a honlapján közzéteszi azokat a napokat, amelyek a határidőbe nem számítanak bele.
 
+27/B. § (1) A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv a KSH részére napi gyakorisággal elektronikus úton, kapcsolati kód alkalmazásával megküldi az elektronikus azonosítási szolgáltatás igénybevétele érdekében regisztráló vagy regisztrációjukat megszüntető személyek természetes személyazonosító adatait és egyedi azonosítóját, a regisztráció és a regisztráció megszüntetésének időpontját, továbbá – ha a természetes személy a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
+
+(2) A Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyszolgáltatás kijelölt szolgáltatója a KSH természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi a KSH részére a természetes személy kapcsolati kódját és tárhely-azonosítóját.
+
+(3) Az (1) és (2) bekezdés szerinti adatszolgáltatás adatait a KSH a természetes személy adatszolgáltatóval való, hivatalos statisztikai célú kapcsolattartásra használhatja fel.
+
+(4) Az (1) és (2) bekezdés szerinti adatszolgáltatás adatait a KSH az adatszolgáltató adatszolgáltatói körből való törléséig kezeli.
+
 #### 13. Adminisztratív adatforrások, adatátvételek adminisztratív nyilvántartásokból
 
 28. § (1) Az adminisztratív adatforrások adattartalma – a jelen törvényben foglaltak figyelembevétekével – hivatalos statisztikai célra korlátozás nélkül felhasználható.
@@ -703,6 +711,8 @@ egyidejűleg történik a (3)–(4) bekezdésben meghatározottak szerint.
 50. § A Hivatalos Statisztikai Szolgálatnak e törvény hatálybalépésének napját megelőző napon tagjainak akkreditálását a KSH kezdeményezi, és azt a Hivatalos Statisztikai Szolgálat tagjaival egyeztetett ütemterv alapján legkésőbb 2018. december 31-ig elvégzi. Amennyiben a Hivatalos Statisztikai Szolgálat tagja az akkreditáció feltételeinek nem felel meg, úgy a tagság megszüntetésének van helye az 5. § (4) bekezdésében foglaltak figyelembevételével.
 
 51. § A KSH – e törvény hatálybalépése előtt kinevezett – elnökének és elnökhelyettesének megbízatása a jelen törvény hatálybalépésével egyidejűleg a 13. § (1), illetve (2) bekezdése szerinti kinevezéssé alakul át.
+
+51/A. § A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv 2020. december 15-ig a 2020. december 1-jei állapotnak megfelelően megküldi a KSH részére valamennyi aktív regisztrációval rendelkező személy természetes személyazonosító adatait, egyedi azonosítóját, regisztrációja időpontját, továbbá – amennyiben a természetes személy a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
 
 #### 25. Az Európai Unió jogának való megfelelés
 

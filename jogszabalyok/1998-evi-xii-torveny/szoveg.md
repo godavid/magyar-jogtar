@@ -328,6 +328,8 @@ ha a kérelmező a 32/A. § (1) bekezdés a) pontja alapján a második biometri
 
 (10) Ha a kérelmező a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti kérelem előterjesztésekor a személyazonossága igazolására útlevelet mutat be, és az útlevél tároló eleme tartalmaz második biometrikus adatot, a második biometrikus adatot az eljáró hatóság személyazonosítás céljából összeveti a polgár ujjnyomatával, kizárólag abból a célból, hogy a személyazonosság igazolására bemutatott útlevél és a polgár közötti kapcsolat kétséget kizáróan megállapítható legyen. Az eljáró hatóság az összevetés elvégzéséig kezelheti a második biometrikus adatot.
 
+(11) Az elektronikus ügyintézési pont útján felvett kérelem esetében az elkészült okmány átvétele kizárólag a kérelmező által személyesen történhet. Ennek során a személyazonosítást jogszabályban meghatározott automatizált ujjnyomat-összevetéssel is el kell végezni. Az eljáró hatóság az összevetés elvégzéséig kezeli a második biometrikus adatot.
+
 21/C. § Ha az útlevélhatóság határozatának meghozatala az ügyfél magyar állampolgárságának megállapításától mint előkérdés előzetes elbírálásától függ, a közreműködő hatóság vagy az általános hatáskörű útlevélhatóság az eljárást felfüggeszti.
 
 22. § (1)
@@ -450,7 +452,7 @@ ha a kérelmező a 32/A. § (1) bekezdés a) pontja alapján a második biometri
 - a) a polgárok személyi adatainak és lakcímének nyilvántartásából,
 - b) az adatkezelő szervtől a 24. § (1) bekezdése alapján kezelt adatokból, kivéve a 24. § (1) bekezdés g) pontjában meghatározott adatokat, valamint
 - c) közvetlenül vagy az adatkezelő szerv útján a bűnügyi nyilvántartásból, a rendőrség központi személy-, tárgy- és gépjármű-körözési nyilvántartó rendszeréből és a büntetés-végrehajtás központi nyilvántartásából, az állampolgársági ügyekben eljáró szervtől és az idegenrendészeti vagy menekültügyi hatóságtól,
-- d) közvetlenül vagy az adatkezelő szerv útján a vezetői engedély tekintetében a közúti közlekedési nyilvántartás engedély-nyilvántartásából a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá a 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.
+- d) közvetlenül vagy az adatkezelő szerv útján a vezetői engedély tekintetében a közúti közlekedési nyilvántartás engedély-nyilvántartásából térítésmentesen a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokra vonatkozóan.
 
 (1a) Az útlevélhatóság – saját, illetve közreműködői feladatellátása céljából is – a kérelmező anyakönyvi adatainak beszerzése érdekében elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel jogosult adatokat átvenni az elektronikus anyakönyvből.
 
@@ -520,6 +522,8 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 (3) Az útlevélhatóság, valamint az adatkezelő szerv az általa nyilvántartott adatot statisztikai célra felhasználhatja, abból ilyen célra – a (3a) bekezdésben foglalt kivétellel – személyazonosító adat nélkül adatot szolgáltathat.
 
 (3a) Az útlevélhatóság, valamint a központi adatkezelő szerv az általa nyilvántartott adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadja és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
+(3b) Az adatkezelő szerv az általa nyilvántartott adatok közül a természetes személyazonosító adatokat és a kapcsolattartási adatot a Központi Statisztikai Hivatal részére az Stt. által meghatározott feladatok végrehajtása érdekében történő kapcsolatfelvétel céljából térítésmentesen átadja. A Központi Statisztikai Hivatal az átvett adatokat a statisztikai adatelőállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a Központi Statisztikai Hivatal törli.
 
 (4) Az e törvény alapján kezelt személyes adatok külföldi adatkezelő részére – ideértve a nemzetközi szervezeteket is – nemzetközi szerződés alapján továbbíthatók, feltéve, ha az adatkezelés feltételei a külföldi adatkezelőnél minden egyes adatra nézve azonosan teljesülnek.
 

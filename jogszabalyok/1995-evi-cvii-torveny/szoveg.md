@@ -90,7 +90,7 @@ a büntetés-végrehajtási szervezetről
 
 7. § A bv. szervek anyagi-technikai ellátására, a személyi állomány oktatására, továbbképzésére, egyes szociális és egészségügyi feladatok ellátására büntetés-végrehajtási intézmény (a továbbiakban: intézmény) alapítható.
 
-8. § Az intézetet (intézményt) a parancsnok, főigazgató főorvos, igazgató (a továbbiakban: parancsnok) vezeti, aki
+8. § Az intézetet (intézményt) a parancsnok, főigazgató főorvos, főigazgató, igazgató (a továbbiakban együtt: parancsnok) vezeti, aki
 
 - a) felelős az intézet (intézmény) feladatainak a törvényes végrehajtásáért, annak rendjéért és biztonságáért;
 - b) gyakorolja a büntetések és az intézkedések végrehajtásáról szóló jogszabályokban meghatározott jogait, ellátja az ebből eredő kötelezettségeit;
@@ -393,10 +393,12 @@ alkalmazható.
 
 - a) családi és utónevére,
 - b) lakcímére (székhelyére),
-- c) telefonszámára,
-- d) kapcsolattartói minőségére, és
+- c) telefonszámára, ha az a kapcsolattartás módja miatt indokolt,
+- d) kapcsolattartói minőségére,
 - e) születési helyére és idejére,
 - f) anyja születési nevére.
+- g) elektronikus levelezési címére, a telekommunikációs kapcsolattartás időpontjáról való értesítés érdekében, ha az a kapcsolattartás módja miatt indokolt, és
+- h) telekommunikációs alkalmazásban regisztrált azonosító nevére, ha az a kapcsolattartás módja miatt indokolt.
 
 (2) A bv. szervezet nyilvántartja a hivatalos minőségben kapcsolatot tartó személy
 
@@ -404,8 +406,16 @@ alkalmazható.
 - b) születési helyét és idejét vagy hivatása gyakorlására való jogosultságot igazoló igazolványa vagy szolgálati igazolványa számát,
 - c) lakcímét vagy székhelyét,
 - d) telefonszámát,
-- e) kapcsolattartói minőségét, és
+- e) kapcsolattartói minőségét,
 - f) a hivatalos kapcsolatot megalapozó, azt igazoló okmány megnevezését és számát.
+- g) elektronikus levelezési címét a telekommunikációs kapcsolattartás időpontjáról való értesítés érdekében, ha az a kapcsolattartás módja miatt indokolt, és
+- h) telekommunikációs alkalmazásban regisztrált azonosító nevét, ha az a kapcsolattartás módja miatt indokolt.
+
+(3) A bv. szervezet az (1) bekezdés g) és h) pontja szerinti, valamint a (2) bekezdés g) és h) pontja szerinti adatokat kizárólag a bv. szerv által nyújtott elektronikus kapcsolattartási forma igénybevétele esetén tartja nyilván.
+
+(4) A telekommunikációs eszköz útján biztosított elektronikus kapcsolattartás során a kapcsolattartó személy és a hivatalos minőségben kapcsolattartó személy személyazonosság igazolására alkalmas okmányának felmutatásával azonosítja magát. A hivatalos minőségben kapcsolattartó személynek a hivatása gyakorlására való jogosultságot igazoló igazolványát, továbbá – ha annak ellenőrzésére még nem került sor – az első alkalommal történő kapcsolatfelvétel esetén a hivatalos kapcsolattartást megalapozó okiratot is fel kell mutatnia.
+
+(5) A (4) bekezdés szerinti azonosítás során, ha a személyazonosság igazolására alkalmas okmányon szereplő adatok a kapcsolattartói nyilvántartásban szereplő adatokkal nem egyeznek, illetve az arcképmás vizuális összevetése alapján az azonosság tekintetében kétség merül fel, vagy a kapcsolattartásra jelentkező személy a bv. szerv felhívása ellenére nem mutatja fel a (4) bekezdésben meghatározott igazolványt vagy okiratot, a kapcsolattartásra nem kerülhet sor.
 
 28/B. § (1) A bíróság vagy az ügyészség értesítése alapján a fogva tartó bv. szerv nyilvántartja a sértettnek, illetve a büntetőeljárásról szóló 2017. évi XC. törvény 52. §-a alapján a sértett jogait gyakorló személynek a sértettet érintő bűncselekménnyel összefüggésben a fogvatartott szabadulásáról vagy szökéséről történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
 

@@ -120,7 +120,7 @@ terjed ki.
 
 (2a) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(2b) A rendőrség az (1) bekezdés szerinti nyilvántartás adatai alapján a magánnyomozói tevékenység folytatására jogosult adatairól, kérelmére, hatósági bizonyítványt állít ki automatikus döntéshozatal keretében.
+(2b)
 
 (3) A rendőrség az adatokat a működési engedély vagy az igazolvány visszavonásáig tartja nyilván. Az 5. § (4) bekezdés b) pontjában és az 5/A. § (5) bekezdés b) pontjában foglaltak ellenőrzése céljából a rendőrség a felügyeleti bírsággal sújtott vállalkozások adatait a felügyeleti bírság kiszabását követő két évig tartja nyilván, ha a kiszabott bírságot a bírsággal sújtott vállalkozás a határozat véglegessé válásától számított két éven belül nem fizeti meg.
 
