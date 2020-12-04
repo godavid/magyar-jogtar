@@ -530,7 +530,7 @@ jelöli ki.
 
 #### 33. Áttétel
 
-45. § Ha a szabálysértési hatóságnak vagy a bíróságnak az ügyben nincs hatásköre vagy illetékessége, az ügyet – a szabálysértési hatóság határozattal, a bíróság végzéssel – haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz vagy bírósághoz. A 23. § (1) bekezdés b) és d) pontja esetén a döntésre hatáskörrel és illetékességgel rendelkező bírósághoz történő áttételre a tényállás tisztázását követően kerülhet sor. Az áttételt elrendelő döntés ellen jogorvoslatnak helye nincs.
+45. § Ha a szabálysértési hatóságnak vagy a bíróságnak az ügyben nincs hatásköre vagy illetékessége, az ügyet – a szabálysértési hatóság határozattal, a bíróság végzéssel – haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz vagy bírósághoz. A 23. § (1) bekezdés b), d) és f) pontja esetén a döntésre hatáskörrel és illetékességgel rendelkező bírósághoz történő áttételre a tényállás tisztázását követően kerülhet sor. Az áttételt elrendelő döntés ellen jogorvoslatnak helye nincs.
 
 ### VIII. Fejezet — KIZÁRÁS
 
@@ -1782,13 +1782,21 @@ téríti meg.
 
 (8) A bíróság rendelkezik a szabálysértési költség viseléséről és – ha annak e törvényben meghatározott feltételei fennállnak – az eljárás alá vont személyt a szabálysértéssel okozott kár megtérítésére kötelezi.
 
+(9) A bíróság a tárgyaláson hozott végzését – a jogorvoslati jogról történő lemondás esetét kivéve – a kihirdetését követő 3 munkanapon belül írásba foglalja. A kihirdetéskor a fellebbezésre jogosultat tájékoztatni kell
+
+- a) az írásba foglalás határidejéről,
+- b) a fellebbezés bejelentésének határidejéről,
+- c) arról, hogy az írásba foglalást követően a végzés a bíróságon megismerhető, illetve azt a bíróság az eljárás alá vont személy indítványára, az általa megjelölt elektronikus levelezési címre is továbbítja,
+- d) arról, hogy a bíróság az írásba foglalt végzést a fellebbezésre jogosult részére kézbesíti, azonban a kézbesítés a fellebbezés határidejét nem érinti, valamint
+- e) arról, hogy a fellebbezés bejelentésének határideje alatt a fellebbezés okát, célját és indokait módosíthatja vagy kiegészítheti.
+
 121. § (1) A bíróság tárgyaláson hozott végzésével szemben az eljárás alá vont személy és a képviselője, valamint a bírósági tárgyaláson jelenlévő előkészítő eljárást lefolytató szerv, az okozott kár megtérítésére kötelezés esetén, kizárólag e rendelkezéssel szemben a sértett is, a végzés közlésétől számított nyolc napon belül halasztó hatályú fellebbezést nyújthat be.
 
 (2) A fellebbezésben elő kell adni annak okát és célját. Az ok téves megjelölése vagy hiánya miatt a fellebbezés elbírálását nem lehet megtagadni.
 
 (3) Az elkésett vagy nem a jogosult által előterjesztett fellebbezést a végzést hozó bíróság elutasítja.
 
-(4) A bíróság az iratokat a fellebbezés beérkezését követő öt napon belül megküldi az illetékes törvényszéknek.
+(4) A bíróság az iratokat a fellebbezés benyújtására előírt határidő leteltét követő öt napon belül megküldi az illetékes törvényszéknek.
 
 122. § (1) A törvényszék a fellebbezést annak kézhezvételétől számított harminc napon belül tanácsülésen bírálja el. Ennek során az eljárás alá vont személy terhére – az előkészítő eljárást lefolytató szerv által az eljárás alá vont személy terhére bejelentett fellebbezés hiányában – nem szabhat ki, illetve nem alkalmazhat a megfellebbezett végzésben kiszabott büntetésnél, illetve alkalmazott intézkedésnél súlyosabbat.
 
@@ -2353,7 +2361,7 @@ vehető nyilvántartásba.
 
 (1a) A méltányossági kérelem benyújtására vonatkozó meghatalmazás iránti nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett meghatalmazás tényét a méltányossági kérelem benyújtásával egyidejűleg be kell jelenteni a bíróságnak, illetve szabálysértési hatóságnak.
 
-(2) A kérelmet a pénzbírságot kiszabó határozat, illetve végzés jogerőre emelkedésétől számított harminc napon belül, egyéb jogkövetkezmény esetén a végrehajtás megkezdéséig lehet előterjeszteni. Méltányossági kérelmet egy alkalommal lehet előterjeszteni.
+(2) A kérelmet a határozat, illetve a végzés jogerőre emelkedésétől számított harminc napon belül lehet előterjeszteni. Méltányossági kérelmet egy alkalommal lehet előterjeszteni.
 
 (3) A méltányossági kérelem elbírálása – a bíróság által kiszabott büntetés kivételével – a szabálysértési szabályozásért felelős miniszter hatáskörébe tartozik.
 
