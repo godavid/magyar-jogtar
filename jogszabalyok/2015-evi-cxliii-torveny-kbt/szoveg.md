@@ -2048,7 +2048,7 @@ ajánlattevőt kell ajánlattételre felhívnia.
 - f) a hideg élelmiszer és főzési alapanyag, friss, illetve feldolgozott zöldség és gyümölcs, tej és tejtermék, gabonafélék, kenyér és pékáru, méz, tojás, kertészeti növény beszerzésére;
 - g) olyan szolgáltatás megrendelése esetében, amely az ajánlatkérő alaptevékenysége ellátásához szükséges irodalmi (szakirodalmi, tudományos) mű létrehozására, tanácsadói vagy személyi tolmácsolási tevékenység végzésére irányul;
 - h) felelős akkreditált közbeszerzési szaktanácsadói tevékenység igénybevételére;
-- i) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 5., 7. és 9. pontja, valamint szükség- vagy veszélyhelyzet esetén az állatok járványos megbetegedése, a súlyos ipari vagy közlekedési baleset okozta kár, vízkár, illetve vízminőségi kár közvetlen megelőzése, elhárítása, védekezési készültség vagy az azt közvetlenül követő helyreállítás érdekében történő beszerzésre;
+- i) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 5., 7. és 9. pontja, valamint veszélyhelyzet vagy egészségügyi válsághelyzet esetén humánjárvány vagy az állatok járványos megbetegedésének megelőzése vagy elhárítása, a súlyos ipari vagy közlekedési baleset okozta kár, vízkár, illetve vízminőségi kár közvetlen megelőzése, elhárítása, védekezési készültség vagy az azt közvetlenül követő helyreállítás érdekében történő beszerzésre;
 - j) fogvatartottak kötelező foglalkoztatása keretében előállított áruk vagy teljesített szolgáltatások, illetve építési beruházás beszerzésére;
 - k) közfoglalkoztató által közfoglalkoztatási jogviszony keretében előállított áruk, teljesített szolgáltatások, illetve építési beruházások beszerzésére;
 - l) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzforgalmi szolgáltatás igénybevételére;
@@ -2845,6 +2845,14 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 (4) A tárgyalás nyilvános. A Közbeszerzési Döntőbizottság hivatalból vagy a fél indokolt kérelmére az egész tárgyalásról vagy annak egy részéről a nyilvánosságot kizárja, ha az minősített adat védelmében, üzleti titok vagy törvényben meghatározott más titok megőrzése érdekében indokolt. A Döntőbizottság a tárgyalásnak a tanúmeghallgatással érintett részéről a nyilvánosságot különösen indokolt esetben akkor is kizárhatja, ha a tanú adatainak zártan kezelését rendelte el és a zárt tárgyaláson történő meghallgatása a tanú, illetve hozzátartozója életének, testi épségének a megóvása érdekében szükséges. A Döntőbizottság – kivéve, ha a zárt tárgyalásra törvény kötelező rendelkezése alapján került sor – a nyilvánosság kizárásáról indokolt végzést hoz.
 
 (5) A Közbeszerzési Döntőbizottság a tárgyalásról készült jegyzőkönyvet a tárgyalástól számított öt napon belül megküldi az ügyfeleknek.
+
+161/A. § (1) A tárgyalás elektronikus hírközlő hálózat útján is megtartható. A Közbeszerzési Döntőbizottság, amennyiben a tárgyalást elektronikus hírközlő hálózat útján tartja meg, erre irányuló végzésében közli az elektronikus hírközlő hálózathoz való hozzáféréshez szükséges technikai adatokat.
+
+(2) Az elektronikus hírközlő hálózat útján történő meghallgatás esetén a tárgyalás nyilvánosságára vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a nyilvánosságot a tárgyalás kitűzött helyszínén kell biztosítani. A Közbeszerzési Döntőbizottság az elektronikus hírközlő hálózat útján meghallgatottak személyazonosságát a személyazonosság igazolására alkalmas, elektronikus úton bemutatott hatósági igazolvány alapján állapítja meg.
+
+(3) Az elektronikus hírközlő hálózat útján tartott tárgyalás esetén is lehetővé kell tenni a 161. § (4) bekezdése alkalmazásával a nyilvánosság egész tárgyalásról vagy annak egy részéről történő kizárását, illetve zárt tárgyalás tartását.
+
+(4) Az elektronikus hírközlő hálózat útján történő tárgyalás esetén a tárgyalásról készült jegyzőkönyvnek ki kell terjednie az elektronikus hírközlő hálózat útján történő meghallgatás lefolytatása körülményeinek rögzítésére is.
 
 162. § (1) Az ügyfél az eljárás megindításától számított tizedik napig, a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosításával vagy teljesítésével kapcsolatos jogorvoslati eljárásban az eljárás megindításától számított harmincadik napig, a Közbeszerzési Hatóság képviseletében eljáró személy az eljárás során bármikor, betekinthet a közbeszerzési eljárás, valamint a jogorvoslati eljárás során keletkezett iratokba, és azokról másolatot, feljegyzést készíthet.
 
