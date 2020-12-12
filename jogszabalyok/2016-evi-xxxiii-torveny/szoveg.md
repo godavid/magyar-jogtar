@@ -2,19 +2,19 @@
 
 az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról
 
-Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társadalmi és gazdaságpolitikai célok megvalósítása, az európai uniós források felhasználásával megvalósuló egyes projektek objektív, átlátható és a piaci szereplők érdekeitől független értékelése céljából a következő törvényt alkotja:
+Az Országgyűlés az Európai Unió által megfogalmazott társadalmi és gazdaságpolitikai célok megvalósítása, az európai uniós források felhasználásával megvalósuló egyes projektek objektív, átlátható és a piaci szereplők érdekeitől független értékelése céljából a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
 #### 1. A törvény alkalmazási köre
 
-1. § (1) Az Európai Unió programozási időszakához kapcsolódó támogatási kérelmek tartalmi értékelése közfeladat, amelyet az állami projektértékelői jogviszonyban állók látnak el.
+1. § (1) Az Európai Unió pénzügyi alapjaihoz kapcsolódó támogatási kérelmek tartalmi értékelése közfeladat, amelyet az állami projektértékelői jogviszonyban állók látnak el.
 
 (2) Állami projektértékelői jogviszony létesíthető azzal, aki
 
-- a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és megyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként vagy köztisztviselőként,
-- b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, valamint állami felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
-- c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként vagy közalkalmazottként vagy
+- a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és megyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként, köztisztviselőként vagy munkavállalóként,
+- b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, köztisztviselőként vagy munkavállalóként, valamint állami vagy vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
+- c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként, közalkalmazottként vagy munkavállalóként vagy
 - d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként
 
 [az a)–d) pont továbbiakban együtt: állami alkalmazott] foglalkoztatott és projektértékelési feladatok ellátására sikeres pályázóként kiválasztásra került.
@@ -40,12 +40,13 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 2. § E törvény alkalmazásában
 
-- 1. alapjogviszony: fennálló kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszony, állami felsőoktatási intézményben fennálló munkaviszony, valamint többségi állami befolyás alatt álló gazdasági társasággal fennálló munkaviszony;
+- 1. alapjogviszony: az 1. § (2) bekezdése szerinti, fennálló kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszony, munkaviszony;
 - 2. állami projektértékelői jogviszony: közfeladat ellátása céljából létrehozott, munkavégzésre irányuló különös jogviszony, amelyben az érintett alapjogviszonnyal rendelkezik, és amelyre a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit nem kell alkalmazni;
-- 3. értékelő: olyan állami projektértékelői jogviszonyban álló állami alkalmazott, aki a keretszerződés megkötését követően szaktudása alapján végzi a támogatási kérelmek tartalmi értékelését;
+- 3. értékelő: olyan állami projektértékelői jogviszonyban álló állami alkalmazott, aki keretszerződés alapján, annak megkötését követően szaktudása alapján végzi a támogatási kérelmek tartalmi értékelését;
 - 4. központi államigazgatási szerv: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (2) bekezdés a)–c) pontjában meghatározott szerv, a Kormány kivételével;
+- 4a. munkáltató: a miniszter által vezetett minisztérium (a továbbiakban: minisztérium);
 - 5. programozási időszak: az Európai Unió által meghatározott hétéves tervezési periódus;
-- 6. szakértői névsor: a miniszter által vezetett minisztériumban (a továbbiakban: minisztérium) nyilvántartott névjegyzék.
+- 6. szakértői névsor: a minisztériumban nyilvántartott állami projektértékelői névjegyzék.
 
 ### II. Fejezet — AZ ÁLLAMI PROJEKTÉRTÉKELŐI JOGVISZONY TARTALMA
 
@@ -74,15 +75,17 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 (4) A miniszter gondoskodik arról, hogy a pályázati eljárás során megfelelt és kiválasztott személyt a szakértői névsorba bejegyezzék.
 
-(5) Az értékelőre az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény rendelkezéseit megfelelően alkalmazni kell.
+(5) Az értékelőre az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény és a nemzetbiztonsági szolgálatokról szóló törvény nemzetbiztonsági ellenőrzésre vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (6) A pályázat tartalmával, benyújtásával és elbírálásának rendjével kapcsolatos részletes szabályokat a Kormány rendeletben állapítja meg.
 
 (7) A pályázói adatlaphoz mellékelni kell a pályázó alapjogviszonya fennállásáról szóló munkáltatói igazolást és a Kormány rendeletében meghatározott nyilatkozatokat.
 
+(8) Ha az értékelő nem teljesíti a keretszerződésében vállalt kötelezettségeit, különös tekintettel a vagyonnyilatkozat-tételi kötelezettségre és a nemzetbiztonsági ellenőrzésnek való alávetésre, vele új állami projektértékelői jogviszony nem létesíthető.
+
 5. § (1) Nem keletkeztet összeférhetetlenséget az értékelő alapjogviszonya.
 
-(2) Ha az alapjogviszony az Mt. szerinti munkaviszony és az értékelő az 1. § (2) bekezdés b) vagy d) pontja szerint foglalkoztatott vezető állású munkavállalónak minősül – az Mt. 211. § (1) bekezdésétől eltérően –, projektértékelői jogviszonyt létesíthet.
+(2) Ha az alapjogviszony az Mt. szerinti munkaviszony és az értékelő az 1. § (2) bekezdés a)–d) pontja szerint foglalkoztatott vezető állású munkavállalónak minősül – az Mt. 211. § (1) bekezdésétől eltérően –, projektértékelői jogviszonyt létesíthet.
 
 6. § (1) Ha jogszabály kizárja, az értékelő nem vehet részt a támogatási kérelem elbírálásában.
 
@@ -114,6 +117,7 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 - e) a pályázó által választott szakértői tématerülettel kapcsolatos szakmai tapasztalatának időtartamát,
 - f) az állami projektértékelői jogviszony létesítéséhez szükséges nyilatkozatok meglétének igazolását,
 - g) a projektértékelői azonosítót (a minisztérium által működtetett informatikai rendszer által generált adat).
+- h) a pályázó nyilatkozatát arról, hogy Ügyfélkapu regisztrációval vagy ezzel egyenértékű, elektronikus aláírási lehetőséget is biztosító szolgáltatáshoz való hozzáféréssel rendelkezik-e.
 
 6/B. § Az állami projektértékelői jogviszony létesítéséhez szükséges nyilatkozatok tartalmazzák a pályázó
 
@@ -154,7 +158,9 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 #### 4. A projektértékelői keretszerződés
 
-7. § (1) A miniszter az értékelővel – legfeljebb a programozási időszak leteltéig szóló határozott időre – a támogatási kérelmek tartalmi értékelésére keretszerződést köt. Keretszerződés csak írásban köthető.
+7. § (1) A miniszter az értékelővel a támogatási kérelmek tartalmi értékelésére keretszerződést köt. Keretszerződés csak írásban köthető.
+
+(1a) A munkáltató az értékelővel a keretszerződést elektronikusan köti meg és módosítja, amelyhez az értékelőnek Ügyfélkapu elektronikus azonosítási szolgáltatással vagy ezzel egyenértékű, elektronikus aláírási lehetőséget is biztosító szolgáltatással kell rendelkeznie.
 
 (2) A keretszerződés olyan különös munkaszerződés, amely tartalmazza
 
@@ -175,7 +181,7 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 (4) A miniszter a díjazás általános alapelveit normatív utasításban meghatározhatja.
 
-(5) A miniszter az 1. § (3) és (8) bekezdésében, a 7. § (1) bekezdésében, valamint az (1) bekezdésben meghatározott hatáskörét normatív utasításban átruházhatja.
+(5) A miniszter az 1. § (3) és (8) bekezdésében, a 4. § (2) és (4) bekezdésében, a 7. § (1) bekezdésében, a 10/A. § (1) bekezdésében, valamint az (1) bekezdésben meghatározott hatáskörét normatív utasításban átruházhatja.
 
 (6) A feladatellátásból eredő kötelezettsége megszegésével okozott kárért az értékelő az alapjogviszonya szerinti kártérítési felelősséggel tartozik.
 
@@ -185,7 +191,7 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 9. § (1) A keretszerződés és a jogviszony megszűnik
 
-- a) a programozási időszak lejártával,
+- a)
 - b) az értékelő halálával,
 - c) az értékelő alapjogviszonyának megszűnésével,
 - d) ha az értékelő a pályázati feltételeknek már nem felel meg.
@@ -194,10 +200,13 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 - a) a felek közös megegyezésével,
 - b) azonnali hatályú felmondással.
+- c) felmondással.
 
 (3) A (2) bekezdés a) pontja szerinti esetben a felek kétoldalú írásbeli nyilatkozata a jogviszonyt a jövőre nézve szünteti meg.
 
-(4) A (2) bekezdés b) pontja szerinti esetben bármelyik fél másikhoz intézett írásbeli jognyilatkozata a jogviszonyt a jövőre nézve szünteti meg, amelyet indokolni kell.
+(4) A (2) bekezdés b) és c) pontja szerinti esetben bármelyik fél másikhoz intézett írásbeli jognyilatkozata a jogviszonyt a jövőre nézve szünteti meg, amelyet indokolni kell.
+
+(4a) A (2) bekezdés c) pontja szerinti esetben a felmondási idő legalább harminc nap. A felmondási idő nem terjedhet túl azon az időponton, amikor az állami projektértékelői jogviszony a 9. § (1) bekezdése szerint felmondás nélkül is megszűnt volna.
 
 (5) A munkáltató részéről a jogviszony a (2) bekezdés b) pontja szerinti esetben különösen akkor szüntethető meg, ha az értékelő
 
@@ -205,10 +214,17 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 - b) egy naptári éven belül neki felróható okból határidőt mulasztott,
 - c) megszegte a keretszerződésben megállapított feltételeket,
 - d) vonatkozásában lefolytatott ellenőrzés során összeférhetetlenség kerül megállapításra.
+- e) vonatkozásában a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapított meg.
+
+(5a) Az (1) bekezdés c) pontja alapján a jogviszony nem szűnik meg, ha az értékelő alapjogviszonyának megszűnésétől számított harminc napon belül újabb alapjogviszonyt létesít. Nem szűnik meg továbbá a jogviszony az alapjogviszony nyugvása alatt sem, ha a nyugvás kezdő időpontját követő harminc napon belül az értékelő új beosztási okiratát a fogadó szerv kiállítja. Ezekben az esetekben az értékelő állami projektértékelői jogviszonya folyamatosnak tekintendő.
+
+(5b) Az értékelő jogviszonyának megszűnésekor folyamatban lévő értékelési feladatait befejezheti abban az esetben is, ha a feladat elvégzésére vonatkozó időszak a keretszerződés érvényességén kívül esik. Ezen esetek nem tekinthetők jogviszony hiányában történő állami projektértékelői tevékenységnek sem a díjfizetés, sem az elszámolás szempontjából.
+
+(5c) Ha az értékelő alapjogviszony hiányában értékelési feladatot vállalt vagy állami projektértékelői jogviszonya az (5) bekezdés e) pontja miatt azonnali hatállyal felmondásra került, vele új állami projektértékelői jogviszony nem létesíthető.
 
 (6) Az értékelő – az (1) bekezdés b) pontja szerinti esetben annak törvényes örököse – az (1) és (2) bekezdésben felsorolt esetekben a jogviszonya megszűnésekor köteles a munkáltatóval elszámolni.
 
-(7) A jogviszony megszűnésével egyidejűleg az értékelő adatait a szakértői névsorból törölni kell.
+(7) A jogviszony megszűnésével egyidejűleg az értékelő nevét a szakértői névsorból törölni kell.
 
 (8) Az alapjogviszony szerinti munkáltató köteles az (1) bekezdés b)–d) pontja szerinti feltételek bekövetkezéséről a munkáltatót tájékoztatni.
 
@@ -216,14 +232,14 @@ Az Országgyűlés a 2014–2020 programozási időszakra megfogalmazott társad
 
 10. § (1) A munkáltató
 
-- a) a 3. § (2) bekezdés a) pontjában foglalt feltételnek való megfelelés ellenőrzése,
+- a) a 3. § (2) bekezdésében foglalt feltételnek való megfelelés ellenőrzése,
 - b) az európai uniós források felhasználásával megvalósuló egyes projektek objektív és a piaci szereplők érdekeitől független értékelésének ellenőrzése,
 - c) az állami projektértékelői jogviszonnyal összefüggő munkáltatói intézkedések és jognyilatkozatok előkészítésének és meghozatalának biztosítása, valamint
 - d) az állami projektértékelői jogviszonnyal összefüggő jogok gyakorlásának és kötelezettségek teljesítésének biztosítása
 
 céljából kezeli az értékelőként jogviszonyt létesíteni szándékozó személy és az állami projektértékelő személyes adatait, valamint a 4. § (3) bekezdése szerinti nyilatkozatát, és azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-(2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – 2027. december 31-ig kezeli.
+(2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – legfeljebb az érintett operatív programra irányadó dokumentum-megőrzési kötelezettség leteltéig kezeli.
 
 (3) A munkáltató a pályázó, illetve értékelő
 
@@ -277,6 +293,8 @@ másolati vagy elektronikus formában ellenőrzés céljából írásban, az ell
 13. § A 8. § (1) bekezdésében meghatározott feladat elrendelésekor az értékelő feladatellátási kötelezettsége az e törvény hatálybalépésekor már folyamatban lévő projektek értékelésére is kiterjedhet.
 
 14. § E törvénynek a Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvénnyel (a továbbiakban: 2019. évi LXVI. törvény) megállapított 1. § (8) bekezdését azokra a felhívásokra lehet alkalmazni, amelyek esetén a felhívásban megállapított valamely elbírálási szakaszra benyújtott támogatási kérelmek tartalmi értékelése a 2019. évi LXVI. törvény hatálybalépésekor még nem kezdődött meg.
+
+14/A. § Ha az értékelő az e törvénynek az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény módosításáról szóló 2020. évi CXXXVIII. törvénnyel (a továbbiakban: Módtv.) megállapított 7. § (1a) bekezdése szerinti Ügyfélkapu elektronikus azonosítási szolgáltatással vagy ezzel egyenértékű, elektronikus aláírási lehetőséget is biztosító szolgáltatással a Módtv. hatálybalépésekor nem rendelkezik, köteles az annak igénybevételéhez szükséges regisztrációt legkésőbb 2021. február 1. napjáig elvégezni.
 
 #### 9. Módosító rendelkezések
 
