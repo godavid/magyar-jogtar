@@ -176,9 +176,9 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 12. § (1) A 10. §-ban megjelölt hatóságok a tisztességtelen kereskedelmi gyakorlat tilalmának megsértésével kapcsolatos feladataik hatékony ellátása érdekében együttműködnek egymással. Az együttműködés különösen a hatóságok jogalkalmazási gyakorlatának kölcsönös megismerését, az anyagi és eljárásjogi szabályok egységes alkalmazását, a hatásköri összeütközések elkerülését, az esetleges hatásköri viták hatékony rendezésének megkönnyítését szolgálja.
 
-(2) Az együttműködést szolgáló adatok és információk átadásának, így különösen a 20. § (3) bekezdésében, illetve a 23. § (3) bekezdésében, a 25. § (3) bekezdésében és a 26. § (2) bekezdésében előírt értesítés megtételének módját a hatóságok együttműködésük keretében állapítják meg.
+(2)
 
-(3) Az együttműködés részletes szabályaira vonatkozóan a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal és a Felügyelet együttműködési megállapodást kötnek, amelyet évente felülvizsgálnak, és honlapjukon a nyilvánosság számára hozzáférhetővé tesznek.
+(3)
 
 ### Az eljárás közös szabályai
 
@@ -214,7 +214,7 @@ rendelkezéseit kell alkalmazni.
 
 (2) A fogyasztóvédelmi hatóság hatáskörének vizsgálata keretében a hatóság felhívására a vállalkozás köteles nyilatkozni arról, hogy az adott kereskedelmi gyakorlattal összefüggésben milyen kommunikációs eszközök kerültek alkalmazásra.
 
-(3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti eljárás megindításáról a fogyasztóvédelmi hatóság az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a Gazdasági Versenyhivatalt.
+(3)
 
 21. § (1) E törvény rendelkezései az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
@@ -228,7 +228,7 @@ rendelkezéseit kell alkalmazni.
 
 (2) A Felügyelet hatáskörének vizsgálata keretében a Felügyelet felhívására a vállalkozás köteles nyilatkozni arról, hogy az adott kereskedelmi gyakorlattal összefüggésben milyen kommunikációs eszközök kerültek alkalmazásra.
 
-(3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti hatósági eljárás megindításáról, illetve ha bármely ellenőrzése során a tisztességtelen kereskedelmi gyakorlat tilalmának megsértését észleli, a Felügyelet az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a Gazdasági Versenyhivatalt.
+(3)
 
 24. § Az MNBtv. 49/D. § (1) bekezdés b) pontjának és (2) bekezdésének alkalmazásával a 16. § szerinti intézkedés is elrendelhető.
 
@@ -238,11 +238,11 @@ rendelkezéseit kell alkalmazni.
 
 (2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott bejelentéssel kapcsolatos eljárásban a vizsgáló a bejelentés beérkezését követő naptól számított harminc napon belül hozza meg a Tpvt. 43/H. § (7) bekezdése szerinti végzést.
 
-(3) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti bejelentésről a Gazdasági Versenyhivatal az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a fogyasztóvédelmi hatóságot vagy – a 10. § (2) bekezdése szerinti kereskedelmi gyakorlat esetén – Felügyeletet.
+(3)
 
 26. § (1) A vizsgáló végzéssel vizsgálatot rendel el a Gazdasági Versenyhivatal hatáskörébe tartozó, valószínűsíthetően a tisztességtelen kereskedelmi gyakorlat tilalmát sértő magatartás észlelése esetén.
 
-(2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatti vizsgálat elrendeléséről a Gazdasági Versenyhivatal az ügy érdemi azonosíthatóságához szükséges adatok – így különösen az érintett vállalkozás azonosításához szükséges adatok, az eljárást kezdeményező személyének azonosításához szükséges, általa megadott adatok – és az eljárás tárgyát képező tényállás ismertetésével értesíti a fogyasztóvédelmi hatóságot vagy – a 10. § (2) bekezdése szerinti kereskedelmi gyakorlat esetén – Felügyeletet.
+(2)
 
 26/A. § (1) A tényállás tisztázása érdekében a Gazdasági Versenyhivatal próbaügyletet köthet.
 
