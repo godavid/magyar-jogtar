@@ -1152,7 +1152,9 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 - c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 38. § (6) és (8) bekezdése, a 39. § (2) és (3) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
 - d) az Európai Parlament és a Tanács 2013. május 21-i 2013/11/EU irányelve a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) [2. § j), k), o), p), s) pontja, 17/A. § (1) és (1a) bekezdése, 18. § (1), (6) és (7) bekezdése, 29. § (4), (5a), (5b), (8), (11) és (12) bekezdése, 36/A. § (1) és (2) bekezdése, 37/A. § (3)–(9) bekezdése, 45/A. § (1) bekezdés e) pontja, 47/C. § (5) bekezdés e) pontja];
 - e) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről (a 18–37/A. §).
-- f) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról[a 2. § i) pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése]. g–h)
+- f) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról[a 2. § i) pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése].
+- g) a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i (EU) 2019/944 európai parlamenti és tanácsi irányelv [a 37/B. § (1)–(2) bekezdése],
+- h) a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelv [47. § (5) bekezdése, 47/C. § (1b) bekezdése].
 
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság feladatkörében és eljárásában:
 
@@ -1184,7 +1186,7 @@ A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a terü
   - e) a szavatossággal, illetve jótállással kapcsolatos minőségi kifogások intézése, a fogyasztót megillető jogok,
   - f) a tisztességes szerződési feltételek kialakítása,
   - g) a speciális értékesítési formákra (távollévők között kötött szerződésekre, üzlethelyiségen kívül kötött szerződésekre) vonatkozó szabályok,
-  - h) a megyei (fővárosi) kereskedelmi és iparkamara mellett működő békéltető testület eljárásának szabályai, valamint
+  - h) a megyei (fővárosi) kereskedelmi és iparkamara által működtetett békéltető testület eljárásának szabályai, valamint
   - i) a fogyasztói érdekek képviseletét ellátó egyesületek szerepe.
 - 1.1.2. Szabadon választható szakirányok:
 - 1.1.2.1. Elektronikus hírközlés szakirány:
