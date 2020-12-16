@@ -351,8 +351,10 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (2) A Balaton Fejlesztési Tanács tagjai:
 
-- a) a 15. § (3) bekezdése szerinti tagok, valamint
-- b) a területfejlesztés stratégiai tervezéséért felelős miniszter képviselője.
+- a) a 15. § (3) bekezdése szerinti tagok,
+- b) a területfejlesztés stratégiai tervezéséért felelős miniszter képviselője,
+- c) a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter képviselője, valamint
+- d) a területrendezésért felelős miniszter képviselője.
 
 (3) A Tokaj Borvidék Fejlesztési Tanács tagjai:
 
@@ -360,17 +362,20 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - b) a területfejlesztés stratégiai tervezéséért felelős miniszter képviselője,
 - c) az általános politikai koordinációért felelős miniszter képviselője,
 - d) a gazdaságfejlesztésért felelős miniszter képviselője,
-- e) a Tokaji Borvidék Hegyközségi Tanácsa elnöke, valamint
-- f) a borvidék többségi állami tulajdonú borászatának képviselője.
+- e) a Tokaji Borvidék Hegyközségi Tanácsa elnöke,
+- f) a borvidék többségi állami tulajdonú borászatának képviselője, valamint
+- g) a területrendezésért felelős miniszter képviselője.
 
 (4) A Közép-Duna Menti Fejlesztési Tanács tagjai:
 
 - a) a 15. § (3) bekezdése szerinti tagok,
 - b) a területfejlesztés stratégiai tervezéséért felelős miniszter képviselője,
-- c) a gazdaságfejlesztésért felelős miniszter képviselője, valamint
-- d) a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter képviselője.
+- c) a gazdaságfejlesztésért felelős miniszter képviselője,
+- d) a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter képviselője,
+- e) a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter képviselője, valamint
+- f) a területrendezésért felelős miniszter képviselője.
 
-(5) A Közép-Duna Menti Fejlesztési Tanácsba egy miniszter egy tagot delegál akkor is, ha több felelősségi kör alapján jogosult delegálásra.
+(5) A Közép-Duna Menti Fejlesztési Tanácsba a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter kettő tagot, míg más miniszter egy tagot delegál akkor is, ha több felelősségi kör alapján jogosult delegálásra.
 
 (6) Az (1) bekezdésben meghatározott kiemelt térségi fejlesztési tanácsok ülésein állandó meghívottként az európai uniós források felhasználásáért felelős miniszter képviselője részt vesz. A kormányzati hatáskörbe tartozó napirendi pont tárgyalására az illetékes központi kormányzati igazgatási szerv képviselőjét meg kell hívni.
 
@@ -381,7 +386,9 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - c) irányítják a térség területfejlesztési programjának végrehajtását,
 - d) döntenek a hatáskörükbe utalt fejlesztési források felhasználásáról.
 
-(8) A kiemelt térségi fejlesztési tanácsok működtetésére a 15. § (4) bekezdés a) pontját, a 15. § (5) és (6) bekezdését és a 16. §-t kell alkalmazni azzal az eltéréssel, hogy a kiemelt térségi fejlesztési tanácsok működtetéséhez a központi költségvetés támogatást nyújt.
+(8) A kiemelt térségi fejlesztési tanácsok működtetésére – a (9) bekezdésben meghatározott kivétellel – a 15. § (4) bekezdés a) pontját, a 15. § (5) és (6) bekezdését és a 16. §-t kell alkalmazni azzal az eltéréssel, hogy a kiemelt térségi fejlesztési tanácsok működtetéséhez a központi költségvetés támogatást nyújt.
+
+(9) A Balaton Fejlesztési Tanácsban a 15. § (6) bekezdésétől eltérően az elnöki feladatokat a két elnök mint társelnök látja el, azzal, hogy az egyik elnököt a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter jelöli ki, a másik elnököt a tanács a tagjai közül választja. A társelnökök a Balaton Fejlesztési Tanács üléseit együttesen hívják össze. Elnöki teendőiket azonos jogkörrel – a társelnök tevékenységére is figyelemmel – egymással együttműködve látják el.
 
 ### A területi államigazgatási szervek feladatai
 
