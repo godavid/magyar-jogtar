@@ -1318,7 +1318,7 @@ folytatja le.
 
 (4)
 
-(5) A bírság kivetésének részletes szabályait a miniszter a rendészetért, valamint az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
+(5)
 
 (5a) A 66/A. § (1) bekezdés alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
 
@@ -1558,7 +1558,8 @@ folytatja le.
 - d) a 61. § (5) bekezdésben meghatározott költségátalány tekintetében a tényleges költségek és a terv költségek közötti lényeges eltérés esetére vonatkozó elszámolási szabályokat,
 - e) az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, komponens és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának általános szabályait,
 - f) a polgári célú légiközlekedési szakszemélyzet tagjainak körét, akiknek képzéséhez a légiközlekedési hatóság engedélye szükséges, továbbá a képzési engedély tartalmára vonatkozó általános szabályokat.
-- g)–h)
+- g) a légiközlekedési bírság mértékének, megállapítása szempontrendszerének és a bírság megfizetése módjának részletes szabályait,
+- h)
 - i) a bérbeadott légijármű üzemben tartásával kapcsolatos általános szabályokat,
 - j) a nemzetközi repülőtérré nyilvánítás szabályait,
 - k) a polgári légijármű, valamint a légiközlekedéssel kapcsolatos eszköz típusalkalmassági tanúsítvány felfüggesztésének és visszavonásának részletes szabályait,
@@ -1671,7 +1672,7 @@ rendeletben állapítsa meg.
 - p)
 - q) a rendészetért felelős miniszter, hogy a miniszterrel egyetértésben a szakszolgálati engedély, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány rendőr által történő helyszíni elvételének a szabályait,
 - r) a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben az állami célú légiközlekedés tekintetében a nyilvános repülőrendezvény szabályait,
-- s) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben – a légiközlekedés védelme tekintetében a rendészetért felelős miniszter egyetértésével is – és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a légiközlekedési bírság kivetésének a részletes szabályait,
+- s)
 - t) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a zajvédelmi díj megállapításának a részletes szabályait és a beszedett díj összegének felhasználási rendjét, valamint
 - u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légterében és repülőterein történő repülések végrehajtásának és a légiforgalmi szolgálatok ellátásának és eljárásainak a részletes szabályait
 - v) a honvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a katonai légügyi hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat

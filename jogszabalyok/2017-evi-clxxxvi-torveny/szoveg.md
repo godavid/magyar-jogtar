@@ -254,7 +254,7 @@ Ha az automatikus döntéshozatali eljárásban és a sommás eljárásban hozot
 
 (4) Az 1. § (3) bekezdése, a 8. § (1) bekezdése, a 20. § (2) bekezdése, a 21. § és a 27–29. § 2019. január 1-jén lép hatályba.
 
-(5) A 32. § (1)–(4) bekezdése 2021. január 1-jén lép hatályba.
+(5) A 32. § (1)–(4) bekezdése 2023. január 1-jén lép hatályba.
 
 80. § E törvény
 

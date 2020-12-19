@@ -371,6 +371,10 @@ kell érteni.
 
 11/F. § E törvény 9/A. § (3) bekezdése alapján indult ellenőrzési eljárások 2018. december 31-én e törvény erejénél fogva megszűnnek.
 
+11/G. § (1) A 6/G. § a)–c) pontja szerinti nyilvántartások adattartalmát képező adatokat a kereskedelmi hatóság 2020. december 31-ig az önkormányzati ASP rendszeren keresztül közvetlen adatkapcsolat útján továbbítja az Országos Kereskedelmi Nyilvántartási Rendszer részére.
+
+(2) Az (1) bekezdés szerinti közvetlen adatkapcsolat útján történő adattovábbítást akadályozó körülmény fennállása esetén a kereskedelmi hatóság az adatok továbbítását az önkormányzati ASP rendszer ipar- és kereskedelmi szakrendszerének üzemeltetési és rendszertámogatási feladatait ellátó szerv közreműködésével is teljesítheti.
+
 12. § (1) Felhatalmazást kap a Kormány, hogy
 
 - a) a kereskedelmi tevékenység folytatásának részletes feltételeit, e tevékenységek bejelentésének, valamint a kereskedők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,

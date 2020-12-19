@@ -1410,7 +1410,13 @@ gyakorolja.
 
 (4) Az 1998. január 1-je előtt hatályos jogszabályok alapján műemlék, műemlék jellegű, városképi jelentőségű kategóriában védett ingatlanok tekintetében első helyen az államot, második helyen a feladatot ellátó helyi önkormányzatot, ennek hiányában az ingatlan fekvése szerinti települési önkormányzatot – fővárosban lévő ingatlan esetén a fővárosi és kerületi önkormányzatot megegyezésük szerint – elővásárlási jog illeti meg. A jogi személyiséggel rendelkező vallási közösség működését biztosító, illetve hitéleti, oktatási, nevelési, egészségügyi, szociális, gyermek- és ifjúságvédelmi, továbbá kulturális célú, egyházi használatban lévő műemlék épület esetében a települési önkormányzat helyett második helyen a használót illeti e jog.
 
-#### 87. §
+87. § (1) A kiemelt nemzeti emlékhely részét képező közterülettel szomszédos ingatlanok tekintetében a Magyar Államot – más jogosultakat megelőzően – elővásárlási jog illeti meg.
+
+(2) Az (1) bekezdésben meghatározott elővásárlási jog kiterjed a kiemelt nemzeti emlékhely részét képező közterülettel közös határvonallal rendelkező – közterületnek nem minősülő – földrészletre, az azon fekvő építményre, társasház esetén valamennyi albetétre.
+
+(3) Az (1) bekezdésben meghatározott elővásárlási jogot a kormányrendeletben kijelölt örökségvédelmi szerv gyakorolja.
+
+(4) A (3) bekezdés szerint kijelölt szerv az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében megkeresi az ingatlanügyi hatóságot.
 
 #### 88. §
 
@@ -1530,6 +1536,7 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 - d) a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében a közterületen és a közterületről látható magánterületen elhelyezhető reklámok megengedett méreteit, a reklámközzététel megengedett technológiáit, módszereit, eszközeit, a reklámhordozók általános formai követelményeit, valamint
 - e) a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében található ingatlan e törvényben, illetve az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott követelmények szerinti helyreállítását, felújítását és átalakítását szolgáló támogatási és ösztönző rendszer részletes szabályait, a támogatás feltételrendszerét és módját,
 - f) a Kiemelt Nemzeti Emlékhely Bizottságnak a nemzeti jelképek kiemelt nemzeti emlékhelyen történő használatával kapcsolatos egyes feladatait.
+- g) a kiemelt nemzeti emlékhely részét képező közterülettel szomszédos ingatlanra vonatkozó elővásárlási jog gyakorlására jogosult szervet.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 

@@ -741,7 +741,7 @@ kezeli.
 
 (2) A folyami információs szolgáltatások alkalmazása során rögzített adatok forrását bármilyen felhasználás esetében fel kell tüntetni.
 
-48/C. § (1) Abból a célból, hogy ellenőrizhetővé váljon, hogy az EGT-állam lobogója alatt közlekedő úszólétesítmények csak egy európai hajóazonosító számot használnak, a hajózási hatóság a Bizottság elektronikus hajóadatbázisába a következő adatokat rögzíti:
+48/C. § (1) Abból a célból, hogy ellenőrizhetővé váljon, hogy az EGT-állam lobogója alatt közlekedő vízi járművek – kivéve a kompok – és úszómunkagépek csak egy európai hajóazonosító számot használnak, a hajózási hatóság a Bizottság elektronikus hajóadatbázisába a következő adatokat rögzíti:
 
 - 1. a hajózási hatóság által kibocsátott egységes európai hajóazonosító szám;
 - 2. a 13/2001. (IV. 10.) KöViM rendelet 2. melléklet 1.02. cikk 1. és 2. pontjában meghatározott hajó
@@ -750,13 +750,13 @@ kezeli.
   - c) legnagyobb hossza (m), beleértve a kormányberendezést, a propulziós művet, a gépészeti és egyéb szerkezeteket,
   - d) szélessége (a hajótest legnagyobb szélessége a külhéj külső éléig mérve, beleértve az összes állandó szerkezeteket méterben),
   - e) merülése (T) (a hajótest legalsó pontja – a gerinc és a rögzített szerelvények figyelembevétele nélkül – és a legnagyobb merülési vonal között mért függőleges távolság méterben);
-- 3. annak az okmánynak a megnevezése, amelyben az egységes európai hajóazonosító szám és a 2. pontban lévő adatok szerepelnek (közösségi bizonyítvány);
+- 3. annak az okmánynak a megnevezése, amelyben az egységes európai hajóazonosító szám és a 2. pontban lévő adatok szerepelnek (uniós bizonyítvány);
 - 4. áruszállító hajók esetén, azok hordképessége;
 - 5. nem áruszállító hajók esetén a hajó vízbe merült térfogata (m3);
 - 6. tulajdonos neve;
 - 7. az okmányt kiállító hatóság;
-- 8. a közösségi belvízi hajóbizonyítvány száma;
-- 9. a közösségi bizonyítvány érvényességének lejárata;
+- 8. az uniós belvízi hajóbizonyítvány száma;
+- 9. az uniós bizonyítvány érvényességének lejárata;
 - 10. az adatbázis összeállítója;
 - 11. a nemzeti azonosítószám;
 - 12. a hajó – a folyami információs szolgáltatások szakmai és működtetési szabályairól szóló 45/2011. (VIII. 25.) NFM rendelet 2. § 1. pontja szerinti – AIS-készülékben rögzített típusa;
@@ -770,14 +770,7 @@ kezeli.
 - 17. a hajófedélzeti kommunikációs berendezés egyedi azonosító kódja, az ATIS-kód;
 - 18. az egyéb bizonyítványok típusa, száma, kiállító hatósága és lejárati időpontja.
 
-(2) Az adatokat az EGT-államok egységes európai hajóazonosító számot kiadó hatóságai
-
-- a) a biztonságos víziközlekedés,
-- b) a hajóazonosító szám bejegyzése,
-- c) hajóokmányok kiállítása, érvényességi idejének megállapítása, pótlása, ellenőrzése, adatainak módosítása, továbbá az
-- d) üzemképesség vizsgálatára irányuló szemlék lefolytatása
-
-érdekében kezelhetik.
+(2)
 
 (3)
 
@@ -1274,12 +1267,12 @@ vonatkozó rendelkezések megsértőit a hajózási hatóság bírság megfizet�
 - l) az e törvény szerinti szakértői tevékenység folytatása részletes feltételeinek, a szakértői tevékenység bejelentése és a szakértők nyilvántartása személyes adatot nem tartalmazó adattartalmának, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályoknak, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek
 - m) a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
 - n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak,
-- o) a hajózási bírság mértékének és kivetése szabályainak,
+- o) a bírság mértékének, megállapítása szempontrendszerének és a bírság megfizetési módja részletszabályainak,
 - p) a kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítése, használatbavétele, üzemben tartása és megszüntetése részletes szabályainak,
 - q) egyes hajózási hatósági eljárások részletes szabályainak,
 - r) a vizsgaközpont kijelölésének,
 - s) a vizsgaközpont tevékenysége tekintetében a felügyeleti szervének, a felügyeleti szerv feladat- és hatáskörének, illetékességének, továbbá működési rendjének és eljárásának,
-- t) a vizsgaközpont felügyeleti szerve által kiszabható bírság kiszabása részletszabályainak
+- t) a vizsgaközpont felügyeleti szerve által kiszabható bírság mértékének, megállapítása szempontrendszerének és a bírság megfizetése részletszabályainak
 
 rendeletben történő megállapítására.
 
@@ -1365,6 +1358,11 @@ rendeletben történő megállapítására.
 - m) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelv,
 - n) az Európai Hajózási Szövetség (EBU), az Európai Hajósok Szervezete (ESO) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) által kötött, a munkaidő-szervezés egyes szempontjainak a belvízi hajózási ágazaton belüli szabályozásáról szóló európai megállapodás végrehajtásáról szóló, 2014. december 19-i 2014/112/EU tanácsi irányelv, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt.
 
-91. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+91. § Ez a törvény
+
+- a) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet és
+- b) az európai hajóadatbázisról szóló, 2020. január 20-i (EU) 2020/474 felhatalmazáson alapuló bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 92–93. §
