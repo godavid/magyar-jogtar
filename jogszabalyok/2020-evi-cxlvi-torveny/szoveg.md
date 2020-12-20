@@ -26,11 +26,7 @@ az Országos Kereskedelmi Nyilvántartási Rendszer működéséhez szükséges 
 
 9. §
 
-10. § A Kertv. a következő 11/G. §-sal egészül ki:
-
-„11/G. § (1) A 6/G. § a)–c) pontja szerinti nyilvántartások adattartalmát képező adatokat a kereskedelmi hatóság 2020. december 31-ig az önkormányzati ASP rendszeren keresztül közvetlen adatkapcsolat útján továbbítja az Országos Kereskedelmi Nyilvántartási Rendszer részére.
-
-(2) Az (1) bekezdés szerinti közvetlen adatkapcsolat útján történő adattovábbítást akadályozó körülmény fennállása esetén a kereskedelmi hatóság az adatok továbbítását az önkormányzati ASP rendszer ipar- és kereskedelmi szakrendszerének üzemeltetési és rendszertámogatási feladatait ellátó szerv közreműködésével is teljesítheti.”
+10. §
 
 #### 4. A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény módosítása
 
@@ -40,9 +36,7 @@ az Országos Kereskedelmi Nyilvántartási Rendszer működéséhez szükséges 
 
 #### 5. A közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljárások egyszerűsítésével összefüggő törvények módosításáról szóló 2017. évi CLXXXVI. törvény módosítása
 
-13. § A közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljárások egyszerűsítésével összefüggő törvények módosításáról szóló 2017. évi CLXXXVI. törvény (a továbbiakban: Büromódtv.) 79. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A 32. § (1)–(4) bekezdése 2023. január 1-jén lép hatályba.”
+13. §
 
 14. §
 

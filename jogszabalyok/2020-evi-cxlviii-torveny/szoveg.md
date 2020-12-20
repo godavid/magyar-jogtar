@@ -34,21 +34,9 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 10. §
 
-11. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény III. Része a következő 87. §-sal egészül ki:
+11. §
 
-„87. § (1) A kiemelt nemzeti emlékhely részét képező közterülettel szomszédos ingatlanok tekintetében a Magyar Államot – más jogosultakat megelőzően – elővásárlási jog illeti meg.
-
-(2) Az (1) bekezdésben meghatározott elővásárlási jog kiterjed a kiemelt nemzeti emlékhely részét képező közterülettel közös határvonallal rendelkező – közterületnek nem minősülő – földrészletre, az azon fekvő építményre, társasház esetén valamennyi albetétre.
-
-(3) Az (1) bekezdésben meghatározott elővásárlási jogot a kormányrendeletben kijelölt örökségvédelmi szerv gyakorolja.
-
-(4) A (3) bekezdés szerint kijelölt szerv az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében megkeresi az ingatlanügyi hatóságot.”
-
-12. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1a) bekezdése a következő g) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével –)
-
-„g) a kiemelt nemzeti emlékhely részét képező közterülettel szomszédos ingatlanra vonatkozó elővásárlási jog gyakorlására jogosult szervet.”
+12. §
 
 #### 7. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény módosítása
 
@@ -64,13 +52,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 #### 9. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
-17. § Az állami vagyonról szóló 2007. évi CVI. törvény 66. §-a a következő (3)–(5) bekezdéssel egészül ki:
-
-„(3) Amennyiben az állam valamely vagyonelemet ellenérték fejében szerez meg és a vagyonelem létrehozásához, értéknövelő felújításához, fejlesztéséhez – annak állam általi megszerzését megelőzően – központi költségvetési forrás került felhasználásra, akkor a vagyonelem vételárának megállapításakor a vételárat csökkenteni kell a felhasznált központi költségvetési forrás összegével akként, hogy a vételár meghatározásának alapjául szolgáló becsült forgalmi értékből értéknövelő beruházás, felújítás esetén az értékelés fordulónapján fennálló könyv szerinti értékére jutó felhasznált központi költségvetési forrás összegét le kell vonni.
-
-(4) Társasági részesedés állam által történő megszerzése esetén, ha a gazdasági társaság, amelyben a részesedés fennáll – a társasági részesedés állam általi megszerzését megelőzően – központi költségvetésből származó fejlesztési támogatásban részesült, akkor a társasági részesedés vételárát csökkenteni kell a felhasznált központi költségvetési forrás összegével akként, hogy a vételár meghatározásának alapjául szolgáló becsült forgalmi értékből a gazdasági társaság értékelésének fordulónapján a számviteli nyilvántartásában szereplő központi költségvetésből származó fejlesztési támogatás elhatárolt összegét le kell vonni.
-
-(5) A vételár megállapítására vonatkozó (3) bekezdés szerinti rendelkezést az Nvtv. 14. § (2) bekezdésében foglaltak szerinti elővásárlási jog gyakorlása során is alkalmazni kell.”
+17. §
 
 #### 10. A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény módosítása
 
@@ -359,9 +341,7 @@ lép.
 
 #### 26. Az egyes vagyonkezelő alapítványokról és az azoknak történő vagyonjuttatásról szóló 2020. évi CVI. törvény módosítása
 
-109. § Az egyes vagyonkezelő alapítványokról és az azoknak történő vagyonjuttatásról szóló 2020. évi CVI. törvény 1. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A Millenáris Alapítvány közfeladatnak minősülő feladata a Millenáris Parkban a nemzeti és a nemzetközi együttműködést jelképező, Európa társadalmi, kulturális és életmódbeli értékein, a tudományos-technikai fejlesztésen és az információs társadalom eredményein alapuló, jövőt bemutató tudományos, kulturális és oktatási központ és innovatív, családbarát, interaktív közösségi tér megteremtésének és működési feltételeinek a biztosítása. Ezen cél maradéktalan megvalósítása érdekében a Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Millenáris Tudományos Kulturális Nonprofit Kft.) valamennyi egy évet meghaladó időtartamú, határozott időre szóló bérleti jogviszonya e törvény erejénél fogva e törvény hatálybalépésének napjával megszűnik, a bérlők azonnali és teljes kártalanítása mellett. A kártalanítás mértéke megegyezik a határozott idejű bérleti jogviszonyból még hátralévő évek és a Millenáris Tudományos Kulturális Nonprofit Kft.-vel szerződéses jogviszonyban álló fél e törvény hatálybalépését megelőző három üzleti évének adózott eredménye átlagának szorzatával.”
+109. §
 
 #### 27. Záró rendelkezések
 
