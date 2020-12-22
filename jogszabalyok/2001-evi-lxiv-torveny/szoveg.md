@@ -1673,3 +1673,4 @@ II. Nemzeti emlékhely
 |  | 17. | Győri Káptalandomb | Győri Bazilika épülete cím: 9021 Győr, Káptalandomb 12. Püspökvár épülete cím: 9021 Győr, Káptalandomb 1. Szent László Látogatóközpont épülete cím: 9021 Győr, Káptalandomb 13. Győri Egyházmegyei Kincstár és Könyvtár épülete cím: 9021 Győr Gutenberg tér 2. Hittudományi Főiskola épülete cím: 9021 Győr, Káptalandomb 7. Hotel Konferencia épülete cím: 9021 Győr, Apor Vilmos püspök tere 3. |
 |  | 18. | Mátraverebély-Szentkút Nemzeti Kegyhely | cím: 3077 Mátraverebély-Szentkút 14. |
 |  | 19. | Máriapócs Nemzeti Kegyhely | cím: 4326 Máriapócs, Kossuth tér 25. |
+|  | 20. | A rákosmezei Királydomb | Budapest X. kerület, 42717 helyrajzi számon nyilvántartott ingatlan |
