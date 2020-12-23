@@ -826,6 +826,8 @@ diplomáciai rangot adományozhat.
 
 53. § A 26. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a (2) bekezdés a) pontja szerinti szabályokat az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg rendeletben, illetve a (2) bekezdés b) pontja szerinti felülvizsgálatot az európai uniós ügyek koordinációjáért felelős miniszter végzi el.
 
+53/A. § Az EU ÁK-n az informatikai rendszer üzemeltetésével, a biztonsági, biztonságtechnikai és titkos ügykezelési tevékenységgel kapcsolatos feladatokat ellátó, a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló kormánytisztviselők az EU ÁK-ra kihelyezett kormánytisztviselőkre vonatkozó szabályok szerint megállapított devizailletményre jogosultak.
+
 #### 19. Sajátos munkajogi szabályok
 
 54. § (1) A 29. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK esetében a COREPER II., a COREPER I. és a PSC nagykövetek munkarendje kötetlen.

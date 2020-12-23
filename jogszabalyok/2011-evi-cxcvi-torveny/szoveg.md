@@ -55,7 +55,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 - 18. üzleti vagyon: a nemzeti vagyon azon része, amely nem tartozik az állami vagyon esetén a kincstári vagyonba, az önkormányzati vagyon esetén a törzsvagyonba;
 - 19. vagyonkezelő:
   - a) az állam tulajdonában álló nemzeti vagyon tekintetében: aa) költségvetési szerv, ab) helyi önkormányzat, nemzetiségi önkormányzat, valamint ezek társulásai, ac) az ab) alpontban felsoroltak fenntartása vagy irányítása alá tartozó intézmény, ad) köztestület, ae) az állam, az aa)–ac) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, af) az ae) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet, ag) országos törzshálózati vasúti pályát működtető többségi állami tulajdonú gazdasági társaság, ah) a törvény által kijelölt egyedileg meghatározott jogi személy.
-  - b) a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében: ba) nemzetiségi önkormányzat, helyi vagy nemzetiségi önkormányzati társulás, valamint ezek fenntartása vagy irányítása alá tartozó intézmény, bb) költségvetési szerv, bc) köztestület, bd) az állam, a helyi önkormányzat, a ba) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
+  - b) a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében: ba) állam, helyi önkormányzat, nemzetiségi önkormányzat, helyi vagy nemzetiségi önkormányzati társulás, valamint ezek fenntartása vagy irányítása alá tartozó intézmény, bb) költségvetési szerv, bc) köztestület, bd) a ba) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
   - c) az egyházi jogi személy a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
 - 20. összetett vízilétesítmény: olyan vízilétesítmény, mely más létesítményeket, vizeket is magába foglal; az összetett vízilétesítmény része a létesítmények, vizek között lévő földterület is.
 
@@ -2288,35 +2288,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | Kossuth u. 15. | Harruckern-Wenckheim-Almássy-kastély együttese |
 | Várfürdő út 2. | lovarda |
 | 4.3. | KONDOROS | Geist-kastély együttese |
-| 4.4. | MEZŐHEGYES, az Állami Ménesbirtokhoz tartozó műemlékek együttese |  |
-| Csekonits park | víztorony és szivattyúház |
-| Hild János utca | központi magtár |
-| Kossuth u. 41-43. | sütöde, szárazmalom, lakóház, ipari épület |
-| Kozma F. u. 6. | üzemi konyha, csikóscsárda |
-| Kozma F. u. 14. | kettős tiszti lak |
-| Kozma F. u. 28. | déli nagy diadalív |
-| Kozma F. u. 28. | déli reprezentatív kaszárnya |
-| Kozma F. u. 30. | ménesparancsnoki épület |
-| Kozma F. u. 32. | Északi reprezentatív kaszárnya |
-| Kozma F. u. 32. | Északi nagy diadalív |
-| Kozma F. u. | fedeles lovarda |
-| Kozma F. u. | központi istálló |
-| Kozma F. u. | harangláb a Hotel Nonius előtt |
-| Posta u. 1. | vadászvendéglő |
-| 18-as major, Ómezőhegyes | gabonaüzemi zabsilótorony |
-| 18-as major, Ómezőhegyes | 1. és 2. számú csikóslak |
-| 18-as major, Ómezőhegyes | sertéstelepi zabsilótorony |
-| 21-es major, Kamarás | harangláb |
-| 21-es major, Kamarás | magtár |
-| 23-as major, Fűperegpuszta | zabsilótorony |
-| 39-es major, Árkospuszta | zabsilótorony és harangláb |
-| 48-as major, Külsőpereg-puszta | csikóslak |
-| 56-os major | zabsilótorony |
-| 57-es major, Peregpuszta | elevátor-magtár |
-| 57-es major, Peregpuszta | komlószárító |
-| 57-es major, Peregpuszta | harangláb |
-| 66-os major, Csatókamarás | zabsilótorony |
-| 79-es major, Komlósfecskés-puszta | zabsilótorony |
+| 4.4. |  |  |
 | 4.5. | SZABADKÍGYÓS, Kastély u. | Wenckheim-kastély együttese |
 | 4.6. | SZARVAS Szabadság u. 2. | Bolza-kastély együttese |
 | 4.7. | SZARVAS Anna-liget | Csáky-kastély együttese |
@@ -2441,7 +2413,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | Május 1. tér 15. | kastély együttese |
 | Rákóczi Ferenc u. 26. | uradalmi istálló |
 | 11.2. | DÖMÖS Felsőfalu dűlő | prépostsági romok |
-| 11.3. | ESZTERGOM Szent István tér 1. | vár, a királyi, majd érseki palota maradványainak együttese |
+| 11.3. |  |  |
 | 11.4. | ESZTERGOM Pilisszentlélek | pálos kolostorrom |
 | 11.5. | KISBÉR | Batthyány–Wenckheim-kastély műemléki együttese |
 | Batthyány tér 6. | kastély együttese |

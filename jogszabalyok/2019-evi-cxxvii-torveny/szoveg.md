@@ -796,7 +796,7 @@ az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésé
 
 (4) A 2. és 3. alcím, 7. alcím, 12. alcím, a 15. §, a 17. § b) pontja, a 24. §, 26. § a) és d) pontja, a 27. §, 30. § b) pontja, 26. és 27. alcím, 30. alcím, a 33–38. alcím, a 47. §, a 48. § (3) bekezdése, a 49. §, az 57–78. §, a 81–87. §, a 89. § (1) bekezdés 2. és 3. pontja, 89. § (2) bekezdés 1. és 2. pontja, a 90. §, 92–104. §, a 109–118. §, a 120. § (1) bekezdése, a 121–126. §, a 132. § (2) bekezdés, a 138. §, a 139. § (2) bekezdés, a 141. § és 142. §, a 146. § (1) bekezdés b) és f) pontja, a 147. § (1) és (3) bekezdése, 150. § (1) bekezdése, a 160. § (1) bekezdése és a (2) bekezdés b) pontja, az 53. alcím, az 55. alcím, az 57. alcím, a 60. alcím, 177. § a), b) és e)–f) pontja, a 182–195. §, a 197. §, a 204–207. §, a 209. § és 210. §, 222–235. §, a 238. § 2–14. és 16–18. pontja, 239. § c), e) és f) pontja, a 73. alcím, 3. melléklet 2020. április 1. napján lép hatályba.
 
-(5) A 48. § (2) és (4) bekezdése, a 2. és 4. melléklet 2021. január 1-jén lép hatályba.
+(5) A 48. § (2) és (4) bekezdése, a 2. és 4. melléklet 2022. január 1-jén lép hatályba.
 
 (6) A 179. § (4) bekezdése 2023. július 1-jén lép hatályba.
 

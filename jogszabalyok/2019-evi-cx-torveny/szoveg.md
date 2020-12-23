@@ -811,7 +811,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 (8) A 9. § (3) és (4) bekezdése; a 93. § 2020. szeptember 1-jén lép hatályba.
 
-(9) A 4. § (2) bekezdése; a 9. § (2) bekezdése; a 12. § (2) bekezdése; a 21. §; a 28. § (7) bekezdése; a 29. § (1) bekezdése; a 31. § (2)–(3) bekezdése; a 32. § (2) bekezdése; a 34. § (2) bekezdése; a 40. § (3)–(4) bekezdése; a 42. § (1) bekezdése; a 47. § (2) bekezdése; a 63. § (2) bekezdése; a 65. § (1) bekezdése; a 69. § (4)–(5) bekezdése; a 76. § (7)–(8) bekezdése; a 81. § (1) bekezdése; a 84. § (1)–(2) bekezdése; a 87. §; a 96. § 2021. január 1-jén lép hatályba.
+(9) A 4. § (2) bekezdése; a 9. § (2) bekezdése; a 12. § (2) bekezdése; a 21. §; a 28. § (7) bekezdése; a 29. § (1) bekezdése; a 31. § (2) és (3) bekezdése; a 32. § (2) bekezdése; a 34. § (2) bekezdése; a 40. § (3) és (4) bekezdése; a 42. § (1) bekezdése; a 47. § (2) bekezdése; a 63. § (2) bekezdése; a 65. § (1) bekezdése; a 69. § (4) és (5) bekezdése; a 76. § (7) és (8) bekezdése; a 81. § (1) bekezdése; a 84. § (1) és (2) bekezdése; a 87. §; a 96. § 2023. január 1-jén lép hatályba.
 
 101. § (1) Ha az ügyben e törvény hatálybalépésével a fellebbezés kizárttá válik, törvény vagy kormányrendelet eltérő rendelkezése hiányában a folyamatban lévő fellebbezési eljárást a fellebbezést kizáró rendelkezés hatálybalépését megelőzően hatáskörrel rendelkező szerv folytatja le.
 

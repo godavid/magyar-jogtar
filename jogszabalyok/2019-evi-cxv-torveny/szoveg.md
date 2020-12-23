@@ -10,11 +10,13 @@ egyes törvények jogharmonizációs célú módosításáról
 
 7. §
 
-#### 3.
+#### 3. A gépjárműadóról szóló 1991. évi LXXXII. törvény módosítása
 
 8. §
 
-9. §
+9. § (1)
+
+(2)
 
 10. §
 
@@ -24,7 +26,7 @@ egyes törvények jogharmonizációs célú módosításáról
 
 12–14. §
 
-#### 5.
+#### 5. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
 15. §
 
@@ -34,7 +36,7 @@ egyes törvények jogharmonizációs célú módosításáról
 
 17–20. §
 
-#### 7.
+#### 7. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
 21. §
 
@@ -170,7 +172,7 @@ egyes törvények jogharmonizációs célú módosításáról
 
 56. §
 
-#### 12.
+#### 12. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
 57. §
 
@@ -192,7 +194,7 @@ egyes törvények jogharmonizációs célú módosításáról
 
 69. §
 
-#### 16.
+#### 16. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
 70. §
 
@@ -204,7 +206,7 @@ egyes törvények jogharmonizációs célú módosításáról
 
 (3) A 61. § és a 62. § 2020. július 1-jén lép hatályba.
 
-(4) A 3. alcím, az 5. alcím, a 7. alcím, a 12. alcím és a 16. alcím 2022. február 1-jén lép hatályba.
+(4) A 8. §, a 9. § (1) és (2) bekezdése, a 10. és 11. §, a 15. és 16. §, a 21. és 22. §, az 57. § és a 70. § 2022. július 1-jén lép hatályba.
 
 72. § Az 58. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 

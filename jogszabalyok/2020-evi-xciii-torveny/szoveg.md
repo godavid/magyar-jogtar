@@ -35,7 +35,7 @@ A közép-európai régió egyes műemléki vagy műemléki védelemben nem rés
 
 (7) Az Alapítvány jogutód nélküli megszűnése vagy megszüntetése esetén az 1. melléklet szerinti vagyonelem tulajdonjoga az államra száll vissza.
 
-(8) Az Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik.
+(8) Az Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik. Az Alapítvány 1. § (3) bekezdésében meghatározott közérdekű tevékenysége, közfeladata ellátása érdekében az Alapítvány részére a külgazdasági ügyekért felelős miniszter által vezetett minisztérium fejezetéhez tartozó fejezeti kezelési előirányzatai terhére adomány juttatható, kötelezettség teljesíthető.
 
 (9) Az (1) bekezdés szerinti vagyonjuttatást úgy kell tekinteni, hogy az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésben és 18. § (1) bekezdésben meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
@@ -52,5 +52,5 @@ A közép-európai régió egyes műemléki vagy műemléki védelemben nem rés
 |  | A | B |
 | --- | --- | --- |
 | 1. | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés megjelölése |
-| 2. | MANEVI Zártkörű Részvénytársaság | 100 db törzsrészvény |
-| 3. | Comitatus-Energia Beruházási Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság | 8700 db törzsrészvény |
+| 2. | MANEVI Zártkörű Részvénytársaság | 102 db törzsrészvény |
+| 3. | Comitatus-Energia Beruházási Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság | 10.700 db törzsrészvény |
