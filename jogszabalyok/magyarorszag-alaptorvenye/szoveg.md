@@ -150,7 +150,7 @@ Magyarország hivatalos pénzneme a forint.
 
 #### L) cikk
 
-(1) Magyarország védi a házasság intézményét mint férfi és nő között, önkéntes elhatározás alapján létrejött életközösséget, valamint a családot mint a nemzet fennmaradásának alapját. A családi kapcsolat alapja a házasság, illetve a szülő-gyermek viszony.
+(1) Magyarország védi a házasság intézményét mint egy férfi és egy nő között, önkéntes elhatározás alapján létrejött életközösséget, valamint a családot mint a nemzet fennmaradásának alapját. A családi kapcsolat alapja a házasság, illetve a szülő-gyermek viszony. Az anya nő, az apa férfi.
 
 (2) Magyarország támogatja a gyermekvállalást.
 
@@ -400,7 +400,7 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 #### XVI. cikk
 
-(1) Minden gyermeknek joga van a megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges védelemhez és gondoskodáshoz.
+(1) Minden gyermeknek joga van a megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges védelemhez és gondoskodáshoz. Magyarország védi a gyermekek születési nemének megfelelő önazonossághoz való jogát, és biztosítja a hazánk alkotmányos önazonosságán és keresztény kultúráján alapuló értékrend szerinti nevelést.
 
 (2) A szülőknek joguk van megválasztani a gyermeküknek adandó nevelést.
 
@@ -1228,11 +1228,15 @@ l) törvényben meghatározott további feladat- és hatásköröket gyakorol.
 
 (5) Az állam és a helyi önkormányzatok tulajdonában álló gazdálkodó szervezetek törvényben meghatározott módon, önállóan és felelősen gazdálkodnak a törvényesség, a célszerűség és az eredményesség követelményei szerint.
 
+(6) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány létrehozásáról, működéséről, megszüntetéséről, valamint közfeladata ellátásáról sarkalatos törvény rendelkezik.
+
 #### 39. cikk
 
 (1) A központi költségvetésből csak olyan szervezet részére nyújtható támogatás, vagy teljesíthető szerződés alapján kifizetés, amelynek tulajdonosi szerkezete, felépítése, valamint a támogatás felhasználására irányuló tevékenysége átlátható.
 
 (2) A közpénzekkel gazdálkodó minden szervezet köteles a nyilvánosság előtt elszámolni a közpénzekre vonatkozó gazdálkodásával. A közpénzeket és a nemzeti vagyont az átláthatóság és a közélet tisztaságának elve szerint kell kezelni. A közpénzekre és a nemzeti vagyonra vonatkozó adatok közérdekű adatok.
+
+(3) Közpénz az állam bevétele, kiadása és követelése.
 
 #### 40. cikk
 
@@ -1314,7 +1318,7 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 
 (2) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával dönt – a (3) bekezdésben meghatározott esetek kivételével – a Magyar Honvédség külföldi vagy magyarországi alkalmazásáról, külföldi állomásozásáról, valamint a külföldi fegyveres erők magyarországi vagy Magyarország területéről kiinduló alkalmazásáról, magyarországi állomásozásáról.
 
-(3) A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők (2) bekezdés szerinti, az Európai Unió vagy az Észak-atlanti Szerződés Szervezete döntésén alapuló alkalmazásáról, valamint más csapatmozgásáról.
+(3) A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők (2) bekezdés szerinti, az Európai Unió, az Észak-atlanti Szerződés Szervezete vagy az Országgyűlés által törvényben megerősített nemzetközi védelmi és biztonsági együttműködési szervezet döntésén alapuló alkalmazásáról, valamint más csapatmozgásáról.
 
 (4) A Kormány – a köztársasági elnök egyidejű tájékoztatása mellett – haladéktalanul beszámol az Országgyűlésnek a (3) bekezdés alapján, valamint a Magyar Honvédség békefenntartásban való részvételének vagy külföldi hadműveleti területen végzett humanitárius tevékenységének engedélyezése tárgyában hozott döntéséről.
 
