@@ -72,25 +72,7 @@ egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongaz
 
 #### 8. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-21. § (1) Az Nvtv. 3. § (1) bekezdés 19. pont b) pont ba) alpontja helyébe a következő rendelkezés lép:
-
-[E törvény alkalmazásában
-
-vagyonkezelő:
-
-a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében:]
-
-„ba) állam, helyi önkormányzat, nemzetiségi önkormányzat, helyi vagy nemzetiségi önkormányzati társulás, valamint ezek fenntartása vagy irányítása alá tartozó intézmény,”
-
-(2) Az Nvtv. 3. § (1) bekezdés 19. pont b) pont bd) alpontja helyébe a következő rendelkezés lép:
-
-[E törvény alkalmazásában
-
-vagyonkezelő:
-
-a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében:]
-
-„bd) a ba) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet,”
+21. §
 
 22. §
 
@@ -112,17 +94,15 @@ szöveg lép.
 27. § Hatályát veszti az Nvtv. 2. melléklet III. pont
 
 - a)
-- b) 4. alpontjában foglalt táblázat 4.4. sora,
-- c) 11. alpontjában foglalt táblázat 11.3. sora,
+- b)
+- c)
 - d)
 
 #### 9. A Közép-európai Épített Örökség Megőrző Alapítványról és a Közép-európai Épített Örökség Megőrző Alapítvány részére történő vagyonjuttatásról szóló 2020. évi XCIII. törvény módosításáról
 
-28. § A Közép-európai Épített Örökség Megőrző Alapítványról és a Közép-európai Épített Örökség Megőrző Alapítvány részére történő vagyonjuttatásról szóló 2020. évi XCIII. törvény (a továbbiakban: 2020. évi XCIII. törvény) 2. § (8) bekezdése helyébe a következő rendelkezés lép:
+28. §
 
-„(8) Az Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik. Az Alapítvány 1. § (3) bekezdésében meghatározott közérdekű tevékenysége, közfeladata ellátása érdekében az Alapítvány részére a külgazdasági ügyekért felelős miniszter által vezetett minisztérium fejezetéhez tartozó fejezeti kezelési előirányzatai terhére adomány juttatható, kötelezettség teljesíthető.”
-
-29. § A 2020. évi XCIII. törvény 1. melléklete helyébe az 5. melléklet lép.
+29. §
 
 ### 1. melléklet a 2020. évi CLXXII. törvényhez
 
@@ -133,15 +113,3 @@ szöveg lép.
 ### 4. melléklet a 2020. évi CLXXII. törvényhez
 
 ### 5. melléklet a 2020. évi CLXXII. törvényhez
-
-„1. melléklet a 2020. évi XCIII. törvényhez
-
-Az Alapítvány részére történő vagyonjuttatás
-
-|  | A | B |
-| --- | --- | --- |
-| 1. | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés megjelölése |
-| 2. | MANEVI Zártkörű Részvénytársaság | 102 db törzsrészvény |
-| 3. | Comitatus-Energia Beruházási Kereskedelmi és Szolgáltató Zártkörűen Működő Részvénytársaság | 10.700 db törzsrészvény |
-
-”
