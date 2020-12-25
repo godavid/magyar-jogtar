@@ -109,7 +109,7 @@ kiskereskedelmi értékesítésére.
 
 (2) Ha a dohánykiskereskedelem-ellátási feladatokat az állam nem maga látja el, úgy e tevékenység ellátására a Ktv. rendelkezéseinek megfelelően koncessziós szerződést köt. A dohánykiskereskedelem-ellátási feladatokra vonatkozó koncessziós szerződést nyilvános pályázat eredményeként, vagy a Ktv. 10/D. §-a alapján kell megkötni úgy, hogy a dohánykiskereskedelem-ellátás az egész ország területén biztosított legyen. Koncessziós szerződés a nyilvános pályázat nyertesével, vagy olyan személlyel köthető, amelyik megbízható dohánykereskedőnek, illetve e személy legalább többségi tulajdonában álló gazdasági társaságnak minősül, és amelyik a Jöt.-ben meghatározott jövedéki engedéllyel rendelkezik.
 
-5. § Az állam nevében a dohánytermék-kiskereskedelem átengedéséről szóló pályázat kiírására, elbírálására, továbbá a koncessziós szerződés megkötésére a miniszter jogosult.
+5. § Az állam nevében a dohánytermék-kiskereskedelem átengedéséről szóló pályázat kiírására, elbírálására, továbbá a koncessziós szerződés megkötésére a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv jogosult.
 
 ### 2. CÍM — A nyilvános pályázat
 
@@ -151,9 +151,9 @@ kiskereskedelmi értékesítésére.
 
 (8) A pályázat kiírója előírhatja, hogy a pályázatokat elektronikus úton kell benyújtani.
 
-8. § (1) A miniszter, illetve a miniszter által megbízott és a nevében eljáró természetes személy a pályázat nyertesével köti meg a koncessziós szerződést a pályázat eredményének kihirdetését követő 30 napon belül.
+8. § (1) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv, illetve az általa megbízott és a nevében eljáró természetes személy a pályázat nyertesével köti meg a koncessziós szerződést a pályázat eredményének kihirdetését követő 30 napon belül.
 
-(2) A koncessziós szerződésben a Ktv. 13. § (2) bekezdésében meghatározottakon túl a koncessziós díj ellentételezéséről is rendelkezni kell.
+(2) A koncessziós szerződésben a Ktv. 13. § (2) bekezdésében meghatározottakon túl a koncessziós díj ellentételezéséről, valamint a koncessziós szerződés teljesítési feltételeinek (körülményeinek) jelentős megváltozásával, továbbá a koncessziós szerződés nemteljesítésével vagy megszűnésével összefüggésben fizetendő átalány-kártérítésről (kártalanításról) is rendelkezni kell.
 
 (3) Egy személlyel egy időpontban legfeljebb öt megkötött koncessziós szerződés lehet hatályban. Azoknál az egy közigazgatási egységet képező településeknél, ahol egynél több dohánytermék-kiskereskedelmi jogosultság kerül kiadásra, egy személy nem birtokolhatja az összes dohánytermék-kiskereskedelmi jogosultság több mint kétharmadát.
 
@@ -180,27 +180,29 @@ kiskereskedelmi értékesítésére.
 
 (5) Ha egy dohánytermék-kiskereskedelmi jogosultság gyakorlása – legalább két, 24 hónapon belül meghirdetett pályázati kiírást követően – az utolsó pályázati kiírás eredményhirdetését követő 90. napon belül sem folyik, az utolsó pályázat eredményhirdetését követő 36 hónap elteltéig nem kötelező új pályázatot kiírni.
 
-(6) A (3)–(5) bekezdéstől eltérően a miniszter is meghatározhatja az új pályázat kiírásának legkorábbi napját akkor, ha a részvénytársaság tájékoztatása alapján az adott településen a dohánytermék-kiskereskedelmi jogosultság gyakorlására nyilvánvalóan nincs érdeklődő. A részvénytársaság az érdeklődés felméréséről legalább évente – a település önkormányzata vagy jegyzője részére – megküldött megkeresés útján, valamint a honlapján folyamatosan fenntartott felhívással gondoskodik.
+(6) A (3)–(5) bekezdéstől eltérően a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv is meghatározhatja az új pályázat kiírásának legkorábbi napját akkor, ha a részvénytársaság tájékoztatása alapján az adott településen a dohánytermék-kiskereskedelmi jogosultság gyakorlására nyilvánvalóan nincs érdeklődő. A részvénytársaság az érdeklődés felméréséről legalább évente – a település önkormányzata vagy jegyzője részére – megküldött megkeresés útján, valamint a honlapján folyamatosan fenntartott felhívással gondoskodik.
 
 ### 3. CÍM — A dohánykiskereskedelem-ellátási koncesszió nyilvános pályázata
 
 10/A. § (1) A dohánykiskereskedelem-ellátási jogosultság átengedésére vonatkozó nyilvános pályázatra a Ktv.-ben előírt szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A nyilvános pályázatot a miniszter írja ki.
+(2) A nyilvános pályázatot a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv írja ki.
 
-(3) A nyilvános pályázati felhívást legalább két országos napilapban, vagy a miniszter által vezetett minisztérium honlapján kell meghirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább 10 nappal megelőzően.
+(3) A nyilvános pályázati felhívást legalább két országos napilapban, vagy a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által vezetett minisztérium honlapján kell meghirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább 10 nappal megelőzően.
 
 (4) A pályázatok benyújtására nyitva álló időtartam nem lehet kevesebb húsz napnál.
 
-(5) A miniszter a beérkezett pályázatokat a pályázatok benyújtására előírt időtartam lejártát követő 30 napon belül köteles elbírálni.
+(5) A kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a beérkezett pályázatokat a pályázatok benyújtására előírt időtartam lejártát követő 30 napon belül köteles elbírálni.
 
-(6) A miniszter, illetve a miniszter által megbízott és a nevében eljáró természetes személy a pályázat nyertesével köti meg a koncessziós szerződést a pályázat eredményének kihirdetését követő 15 napon belül.
+(6) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv, illetve az általa megbízott és a nevében eljáró természetes személy a pályázat nyertesével köti meg a koncessziós szerződést a pályázat eredményének kihirdetését követő 15 napon belül.
 
-(7) A pályázatok elbírálásáról a miniszter a koncessziós szerződés megkötésétől számított 60 napon belül emlékeztetőt készít. Az emlékeztetőnek az alábbi lényeges körülményeket kell tartalmaznia:
+(7) A pályázatok elbírálásáról a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a koncessziós szerződés megkötésétől számított 60 napon belül emlékeztetőt készít. Az emlékeztetőnek az alábbi lényeges körülményeket kell tartalmaznia:
 
 - a) a beérkezett pályázatok adatainak összefoglalását;
 - b) a legkedvezőbb pályázat elfogadásának részletes indokait;
 - c) a kikötött biztosítékok megfelelőségének értékelését.
+
+(8) A koncessziós szerződésben a Ktv.-ben meghatározottakon túl a koncessziós szerződés teljesítési feltételeinek (körülményeinek) jelentős megváltozásával, továbbá a koncessziós szerződés nemteljesítésével vagy megszűnésével összefüggésben fizetendő átalány-kártérítésről (kártalanításról) is rendelkezni kell.
 
 ### 4. CÍM — A koncessziós szerződés alapján keletkező bevételek
 
@@ -388,7 +390,7 @@ fogadhatja el.
 
 (5) A (2)–(4) bekezdés rendelkezéseibe ütköző jogügylet semmis.
 
-(6) A (2)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell akkor is, ha a dohánytermék-nagykereskedő, vagy más személy az általa gyártott, vagy forgalmazott, az 1. § (1) bekezdés d)–f), valamint h) pontjában felsorolt termék(ek), vagy termékcsoport(ok) kedvezőbb (így különösen nagyobb felületen, vagy kiemeléssel történő) megjelenítését kívánja a dohányboltban.
+(6) A (2)–(5) bekezdésben foglaltakat megfelelően alkalmazni kell akkor is, ha a dohánytermék-nagykereskedő, vagy más személy az általa gyártott, vagy forgalmazott, az 1. § (1) bekezdés d)–h) pontjában felsorolt termék(ek), vagy termékcsoport(ok) kedvezőbb (így különösen nagyobb felületen, vagy kiemeléssel történő) megjelenítését kívánja a dohányboltban.
 
 15/E. § (1) A dohánytermék-nagykereskedő a dohánytermék értékesítéséhez kapcsolódóan e törvényben meghatározott mértékű kiskereskedelmi árrést köteles biztosítani.
 
@@ -408,7 +410,7 @@ fogadhatja el.
 
 15/F. § A dohánytermék-kiskereskedő köteles a készletéről, illetve annak forgalmáról külön jogszabály szerint nyilvántartást vezetni, illetve elektronikus úton adatot szolgáltatni.
 
-15/G. § Az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–f) és h) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére jogszabály – az 1. § (2) bekezdésére figyelemmel – a 15/C. és 15/D. §-ban foglaltaktól eltérő szabályokat állapíthat meg.
+15/G. § Az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–h) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére jogszabály – az 1. § (2) bekezdésére figyelemmel – a 15/C. és 15/D. §-ban foglaltaktól eltérő szabályokat állapíthat meg.
 
 ### 6. CÍM — A fiatalkorúak különös védelme
 
@@ -516,7 +518,7 @@ fogadhatja el.
 
 (2) A Módtv.-vel megállapított 6. § (2) bekezdésében foglaltakat a Módtv. hatálybalépését követően indult pályázati eljárásokban kell alkalmazni. Ha egy településen a gyakorolható dohánytermék-kiskereskedelmi jogosultságok száma e törvény rendelkezései értelmében csökkent, a korábban átengedett jogosultságok tovább gyakorolhatók azzal, hogy bármelyik dohánytermék-kiskereskedelmi jogosultság gyakorlásának megszűnését követően e településen nem lehet új pályázatot kiírni addig, amíg az a Módtv.-vel megállapított 6. § (2) bekezdésében foglaltaknak meg nem felel.
 
-(3) A Módtv.-vel megállapított 6. § (2) bekezdés b) pontjában foglaltaktól eltérően, ha a településen legalább két jogosultságot már gyakorolnak és ameddig ezt a forgalmi adatok indokolják, a miniszter dönthet úgy, hogy a településen nem ír ki pályázatot valamennyi jogosultság átengedésére.
+(3) A Módtv.-vel megállapított 6. § (2) bekezdés b) pontjában foglaltaktól eltérően, ha a településen legalább két jogosultságot már gyakorolnak és ameddig ezt a forgalmi adatok indokolják, a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv dönthet úgy, hogy a településen nem ír ki pályázatot valamennyi jogosultság átengedésére.
 
 (4) A Módtv.-vel megállapított 11. § (2) bekezdés b) pontjában foglaltakat a Módtv. hatálybalépését követően indult pályázati eljárások alapján megkötött koncessziós szerződések esetén kell alkalmazni.
 
@@ -544,7 +546,7 @@ fogadhatja el.
 
 - a) az e törvényben nem szabályozott, a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételeket, valamint az engedélyezési eljárásra vonatkozó további szabályokat,
 - b) a dohánytermék-kiskereskedők által a nyilvántartások vezetésére és a dohányboltban forgalmazott egyes jövedéki termékekre vonatkozó adatszolgáltatási kötelezettség teljesítésére irányadó részletes szabályokat,
-- c) az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–f) és h) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére vonatkozó különös szabályokat,
+- c) az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–h) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére vonatkozó különös szabályokat,
 - d) a dohánygyártmányok árának bejelentésére és az állami adó- és vámhatóság honlapján történő közzétételére, valamint az ezekkel összefüggő eljárási szabályokra vonatkozó részletes rendelkezéseket,
 - e) a koncessziós szerződés módosítására vonatkozó eljárási szabályokat a dohányboltok nyitvatartási ideje tekintetében
 
@@ -562,6 +564,19 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 24/F. § (1) A dohánytermék-kiskereskedelmi tevékenység folytatására megkötött koncessziós szerződésben meghatározott, a szerződést biztosító átalány-kártalanításra hivatkozással igényt érvényesíteni a szerződésszegésről való tudomásszerzést követő 6 hónapon belül, de legkésőbb a szerződésszegés bekövetkezésétől számított egy éves határidőn belül lehet.
 
 (2) Az (1) bekezdés szerinti határidő számításának kezdő időpontja kétség esetén az érintett koncessziós szerződés létrejöttének napja.
+
+24/G. § (1) E törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási és pénzügyi tárgyú törvények módosításáról szóló 2020. évi CLXXIII. törvénnyel (a továbbiakban: Módtv.4.) megállapított 10/A. § (8) bekezdését a Módtv.4. hatálybalépésekor hatályos, a dohánykiskereskedelem-ellátási jogosultság átengedésére vonatkozó koncessziós szerződésre is alkalmazni kell.
+
+(2) A miniszter a Módtv.4. hatálybalépését követő 60 napon belül gondoskodik az e § rendelkezéseinek megfelelő szerződés-módosítás előkészítéséről és előterjesztéséről, illetve – a feltételekben való megállapodást követően – annak aláírásáról.
+
+(3) A (2) bekezdés szerinti szerződés-módosítás feltételeinek meghatározása során a következőknek kell érvényt szerezni:
+
+- a) az (1) bekezdésben meghatározott koncessziós szerződés jogosultja akkor támaszthat követelést átalány-kártérítés (kártalanítás) jogcímén, ha e törvény rendelkezéseinek, vagy bármely, a koncessziós szerződésre kötelezően alkalmazandó jogszabálynak vagy jogi tartalmú szabályozásnak megváltozása (érvényre jutása) következtében, vagy a magyar állam szerződésszegése okán a koncessziós szerződés változatlan feltételekkel történő teljesítése a koncesszió jogosultja számára aránytalanul terhessé vagy lehetetlenné vált, vagy gazdasági hátrányt, kárt vagy jogi érdeksérelmet okozna, továbbá, ha az előbbiek bármelyikére tekintettel a koncessziós szerződés bármely módon megszűnt;
+- b) a magyar állam akkor támaszthat követelést átalány-kártérítés jogcímén, ha a jogosult a teljesítést jogos ok nélkül megtagadja vagy olyan súlyos szerződésszegést követ el, amely a koncessziós szerződés fenntartását lehetetlenné teszi;
+- c) az alkalmazandó átalány-kártérítés (kártalanítás) mértéke nem lehet kisebb, mint a jogosult által az általány-kártérítés (kártalanítás) követelésére okot adó körülmény bekövetkezését megelőző évben megfizetett éves koncessziós díj és a koncessziós szerződésben rögzített határozott időből hátralévő évek számának szorzata azzal, hogy a törtévet egy egészként kell figyelembe venni és a szorzó nem lehet kevesebb 3-nál;
+- d) a felek az a)–c) pontban meghatározottakat nem érintő egyéb feltételekben is megállapodhatnak, így különösen arról, hogy a felek bármelyike mely további esetekben jogosult átalány-kártérítés (kártalanítás) jogcímén igényt támasztani. Az átalány-kártérítés (kártalanítás) követelése nem érinti a felek bármelyikének azon jogát, hogy a jogszabályokban meghatározott bármely további jogával éljen, így különösen az átalány-kártérítés (kártalanítás) összegén felüli kárigényt támasszon és bizonyítson.
+
+(4) Amennyiben a (2) bekezdésben meghatározott határidőben a szerződés-módosítás írásbeli formában nem jön létre, úgy a jogosult a (3) bekezdés a) és c) pontjában számára biztosított jogokra – a magyar állammal szemben – a szerződés-módosítás nélkül is hivatkozhat, továbbá kezdeményezheti a szerződés-módosítás létrehozását bírósági úton.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

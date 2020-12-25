@@ -54,7 +54,15 @@ annak egyedi természeti, táji, kulturális karakterét megőrizve, környezeti
 
 céljából 100%-ban állami tulajdonban álló nonprofit gazdasági társaságok létesítését rendeli el.
 
-(1a) Az (1) bekezdés szerinti feladatokat a Magyar Turisztikai Ügynökség Zrt. vagy a tulajdonosi joggyakorlása alatt, 100%-ban állami tulajdonban álló, egyéb gazdasági társaságok is elláthatják.
+(1a) Az (1) bekezdés szerinti feladatokat elláthatja
+
+- a) a Magyar Turisztikai Ügynökség Zrt. vagy
+- b) olyan 100%-ban állami tulajdonú gazdasági társaság, amely
+  - ba) a Magyar Turisztikai Ügynökség Zrt.
+  - bb) a turizmusért felelős miniszter vagy
+  - bc) a kulturális örökség védelméért felelős miniszter
+
+tulajdonosi joggyakorlása alatt áll.
 
 (2) Az (1) bekezdés szerinti gazdasági társaságokban az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek gyakorlóját az állami vagyon felügyeletéért felelős miniszter rendeletben jelöli ki.
 

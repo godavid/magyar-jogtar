@@ -99,6 +99,23 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 
 (8) Országos jelentőségű vasútvonalat működtető független pályahálózat-működtető esetében a 67/P. § (3) bekezdésében foglalt feladatokat a Vasúti Pályakapacitás-elosztó Szervezet (a továbbiakban: VPSZ) látja el a díjbeszedés kivételével, amelyet a független pályahálózat-működtető is elláthat.
 
+(9) Koncessziós pályázatot
+
+- a) az állam kizárólagos tulajdonát képező, országos jelentőségű vasútvonal – illetve azok egyes szakaszai – és a műtárgyaik fejlesztésére, illetve működtetésére kormányrendeletben kijelölt központi kormányzati igazgatási szerv vagy miniszter;
+- b) az önkormányzat törzsvagyonának részét képező és használatában lévő vasúti pályák fejlesztésére, illetve működtetésére az önkormányzat képviselő-testülete írja ki.
+
+(10) A pályázati kiírásnak – a koncesszióról szóló 1991. évi XVI. törvény 8. §-ában foglaltakon túlmenően – tartalmaznia kell:
+
+- a) a koncessziós társaság alaptőkéjének a létesítéshez vagy fejlesztéshez szükséges tőkéhez viszonyított legkisebb mértékét;
+- b) a koncessziós tevékenység környezetvédelmi követelményeit;
+- c) a pályázaton való részvétel feltételeit (pl. részvételi díj, biztosíték, a pályázó gazdálkodási, pénzügyi helyzetéről nyújtott tájékoztatás).
+
+(11) A pályázat nyertesének a koncessziós társaságot részvénytársaságként kell megalapítania, amely jogosult a koncesszió tárgyához tartozó kiszolgáló létesítmények, műszaki létesítmények, továbbá pihenőhelyek, egészségügyi és sportlétesítmények, vendéglátó létesítmények és szálláshelyek, kereskedelmi létesítmények, valamint parkolási célú épületek és építmények építésére és/vagy üzemeltetésére is.
+
+(12) A koncessziós társaság a koncesszió időtartama alatt, a koncessziós szerződés alapján, az általa létesített vagy fejlesztett, felújított, karbantartott és üzemeltetett vasúti pályahálózat használóitól nyílt hozzáférésű vasúti pályahálózat esetén hálózat-hozzáférési díjat szed, nem nyílt hozzáférésű pályahálózat esetén a vasúti pályahálózat használatáért díjat szedhet.
+
+(13) A koncessziós szerződés egy alkalommal – eredeti időtartamának legfeljebb felével – külön pályázat kiírása nélkül meghosszabbítható.
+
 ### A vasúti pályahálózat fejlesztési stratégia
 
 3/C. § (1) A vasúti pályahálózat fejlesztési stratégia (a továbbiakban: fejlesztési stratégia) kizárólag az országos jelentőségű vasútvonalakra terjed ki.
@@ -278,6 +295,8 @@ a működési engedélyt hivatalból felfüggeszti.
 (9) A pályahálózat-működtető – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. § (6) bekezdésének figyelembevételével – kiszervezheti egyes feladatait másik szervezethez, amennyiben az nem vállalkozó vasúti társaság, nem irányít vállalkozó vasúti társaságot, illetve azt nem ellenőrzi vállalkozó vasúti társaság, feltéve, hogy nem áll fenn összeférhetetlenség és nem sérül az üzleti szempontból érzékeny információk titkossága.
 
 (10) Amennyiben a pályahálózat-működtető a (9) bekezdés szerint kiszervezi egyes feladatait, a kiszervezett feladatok vonatkozásában is megtartja az e feladatok ellátása feletti felügyeleti jogkört, és a végső felelősség is a pályahálózat-működtetőt terheli a kiszervezett feladatok ellátásáért.
+
+(11) A nemzeti vagyonról szóló törvény rendelkezésével összhangban pályahálózat-működtetőnek minősül minden 3/B. § (9) bekezdése szerinti koncessziós pályázatot elnyert jogi személy is. Ezen jogi személyek tekintetében az (1)–(3) bekezdésben rögzített korlátozások nem alkalmazhatóak.
 
 11/A. § (1) A pályahálózat-működtető felügyelőbizottságának és igazgatóságának tagjai, illetve a nekik közvetlenül alárendelt vezetők a pályahálózat-működtető alapvető feladatainak ellátása során megkülönböztetéstől mentes módon és pártatlanul kötelesek eljárni. Ennek biztosítása érdekében – az (1a) bekezdésben meghatározott kivétellel – ugyanazon személyek nem lehetnek egyidejűleg:
 
