@@ -116,8 +116,10 @@ alapvető jogai és kötelezettségei
 
 (4) A koncessziós pályázatot
 
-- a) az állam kizárólagos tulajdonát képező, az országos közúthálózatba tartozó autópályák, autóutak — illetőleg azok egyes szakaszai — és a műtárgyaik működtetésére a miniszter az állami vagyon felügyeletéért felelős miniszter egyetértésével;
-- b) az önkormányzat törzsvagyonának részét képező közutak és a műtárgyaik működtetésére az önkormányzat képviselő-testülete írja ki.
+- a) az állam kizárólagos tulajdonát képező, az országos közúthálózatba tartozó autópályák, autóutak – illetve azok egyes szakaszai – és a műtárgyaik működtetésére, felújítására, karbantartására, fejlesztésére a kormányrendeletben kijelölt miniszter, vagy központi kormányzati igazgatási szerv;
+- b) az önkormányzat törzsvagyonának részét képező közutak és a műtárgyaik működtetésére, felújítására, karbantartására, fejlesztésére az önkormányzat képviselő-testülete
+
+írja ki.
 
 (5) A pályázati kiírásnak — a koncesszióról szóló 1991. évi XVI. törvény 8. §-ában foglaltakon túlmenően — tartalmaznia kell:
 
