@@ -627,6 +627,8 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 23. § (1) Belföldi személyszállítási közszolgáltatás végzésére – a közforgalmú kötöttpályás közlekedést helyettesítő autóbuszjáratokkal végzett és a kabotázs személyszállítási szolgáltatás, valamint az e törvényben meghatározott kivételekkel – a közlekedési szolgáltató kizárólag közszolgáltatási szerződés keretében bízható meg.
 
+(1a) A koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) szerinti eljárások vonatkozásában e törvényt azzal az eltéréssel kell alkalmazni, hogy a Ktv. 5. § (1) bekezdése szerinti feladatok tekintetében az ellátásért felelősnek a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt minisztert vagy központi kormányzati igazgatási szervet kell tekinteni.
+
 (2) A szolgáltatási koncesszióra irányuló közszolgáltatási szerződést – az 1370/2007/EK rendelet 5. cikke alapján közvetlenül odaítélhető közszolgáltatási szerződések kivételével – az e törvény pályázatra vonatkozó szabályai szerint kell megkötni.
 
 (2a) Az országos, a regionális és az elővárosi vasúti személyszállítási közszolgáltatásra vonatkozó közszolgáltatási szerződés az egyéb kötöttpályás szállítást kivéve az 1370/2007/EK rendelet 5. cikk (6) bekezdése alapján 2023. december 24-ig pályázati eljárás mellőzésével is megköthető.

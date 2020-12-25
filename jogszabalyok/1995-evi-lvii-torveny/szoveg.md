@@ -221,10 +221,10 @@ adottságok.
 
 11. § (1) A koncessziós pályázatot
 
-- a) az állami tulajdon működtetésére a vízgazdálkodásért felelős miniszter;
+- a) az állami tulajdon működtetésére a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv;
 - b) a helyi önkormányzati tulajdon működtetésére a képviselő-testület írja ki.
 
-(2) A pályázati kiírásnak tartalmaznia kell, hogy az a vízi közüzemi tevékenységekre [13. § (1) bekezdés] együttesen vagy külön-külön vonatkozik.
+(2) A pályázati kiírásnak tartalmaznia kell, hogy az a vízi közüzemi tevékenységekre együttesen vagy külön-külön vonatkozik.
 
 (3) A koncessziós pályázatot akkor lehet kiírni, ha a koncessziós szerződés alapján végzendő tevékenység összhangban van a jóváhagyott terület- és településfejlesztési, -rendezési tervekkel, a környezet és a természet védelmével, valamint a vízbázisvédelmi előírásokkal.
 

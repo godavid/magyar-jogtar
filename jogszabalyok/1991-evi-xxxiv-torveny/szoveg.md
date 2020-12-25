@@ -158,23 +158,35 @@ végezheti.
 
 (1b) Online kaszinójáték szervezésére kizárólag a Magyarország területén található játékkaszinó üzemeltetésére szóló koncesszió jogosultja jogosult, amely az online kaszinójáték szervezését a kaszinójáték szervezésére létrehozott koncessziós társaság útján végezheti.
 
-(2) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter képviseli a Magyar Államot a szerencsejáték-szervezéssel kapcsolatos pályázati és pályázat nélküli ajánlattételi eljárásban, valamint a koncessziós szerződések megkötése és végrehajtása során.
+(2) A Magyar Állam képviseletét
+
+- a) a szerencsejáték-szervezéssel kapcsolatos pályázati és pályázat nélküli ajánlattételi eljárásban, valamint a koncessziós szerződések megkötése során a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv,
+- b) a koncessziós szerződések végrehajtása, teljesítése, ellenőrzése során a szerencsejáték-szervezés állami felügyeletéért felelős miniszter
+
+látja el.
 
 (2a) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter ellátja a szerencsejáték-szervezés felügyeletét és a szerencsejáték-felügyeleti hatóság irányítását.
 
 (2b) A szerencsejáték-szervezéshez kapcsolódó nemzetközi szerződés esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, az egyéb, szerencsejáték-szervezéshez kapcsolódó két- vagy többoldalú szerződés esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter vagy a szerencsejáték-felügyeleti hatóság vezetője jár el a szerződés előkészítése, megkötése, módosítása, megszüntetése során és felel a szerződésből eredő kötelezettségek teljesítéséért.
 
-(2c) Az állami adóhatóság megkeresésre tájékoztatja a szerencsejáték-szervezés állami felügyeletéért felelős minisztert a (2) bekezdés szerinti hatásköréhez kapcsolódóan a megbízható szervezői minőség 37. § 30. pont a)–c) alpontja szerinti ellenőrzéséhez szükséges adó-, illetve vámtitkot képező adatról vagy információról.
+(2c) Az állami adóhatóság megkeresésre tájékoztatja
+
+- a) a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt minisztert vagy központi kormányzati igazgatási szervet a (2) bekezdés a) pontja szerinti,
+- b) a szerencsejáték-szervezés állami felügyeletéért felelős minisztert a (2) bekezdés b) pontja szerinti
+
+hatásköréhez kapcsolódóan a megbízható szervezői minőség 37. § 30. pont a)–b) alpontja szerinti ellenőrzéséhez szükséges adó-, illetve vámtitkot képező adatról vagy információról.
+
+(2d) A szerencsejáték-felügyeleti hatóság megkeresésre tájékoztatja a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt minisztert vagy központi kormányzati igazgatási szervet a (2) bekezdés a) pontja szerinti hatásköréhez kapcsolódóan a megbízható szervezői minőség 37. § 30. pont c)–e) alpontja szerinti ellenőrzéshez szükséges adatról vagy információról.
 
 (3) A számsorsjáték és – a lóversenyfogadás, a távszerencsejáték és a bukmékeri rendszerű fogadás kivételével – a fogadás szervezésére kizárólag az állami játékszervező jogosult.
 
-4. § (1) A koncessziós szerződés megkötésére a Ktv. 5. § (1) bekezdése szerinti nyilvános pályázatot a szerencsejáték-szervezés állami felügyeletéért felelős miniszter írja ki. A koncessziós pályázat kiírásához – országos pályázat kivételével – az érintett települési önkormányzat képviselő-testületének, Budapesten a fővárosi önkormányzat közgyűlésnek egyetértése is szükséges. Országos pályázattal elnyert koncessziós jog tekintetében a szerencsejáték-felügyeleti hatóság az engedélyt azokra a településekre adja ki, amelyek önkormányzatának képviselő-testülete – Budapesten a fővárosi önkormányzat közgyűlése is – hozzájárult a tevékenység területén történő gyakorlásához.
+4. § (1) A koncessziós szerződés megkötésére a Ktv. 5. § (1) bekezdése szerinti nyilvános pályázatot a kormányrendeletben kijelölt központi kormányzati igazgatási szerv vagy miniszter írja ki. A koncessziós pályázat kiírásához – országos pályázat kivételével – az érintett települési önkormányzat képviselő-testületének, Budapesten a Fővárosi Közgyűlés egyetértése is szükséges. Országos pályázattal elnyert koncessziós jog tekintetében a szerencsejáték-felügyeleti hatóság az engedélyt azokra a településekre adja ki, amelyek önkormányzatának képviselő-testülete – Budapesten a Fővárosi Önkormányzat Közgyűlése is – hozzájárult a tevékenység területén történő gyakorlásához.
 
 (2) A pályázat eredményeit ugyanazokban az országos napilapokban közzé kell tenni, amelyekben a pályázati kiírás megjelenik.
 
-(3) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter külön pályázat kiírása nélkül a koncessziós szerződést egy alkalommal — eredeti időtartamának legfeljebb felével — meghosszabbíthatja.
+(3) A Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv külön pályázat kiírása nélkül a koncessziós szerződést egy alkalommal — eredeti időtartamának legfeljebb felével — meghosszabbíthatja.
 
-(3a) Ha a hatályos koncessziós szerződés eredeti időtartamának fele eltelt, a szerencsejáték-szervezés állami felügyeletéért felelős miniszter kiemelt nemzetgazdasági érdekből – így különösen az állami bevételek hosszú távú biztosítása érdekében – a koncessziós szerződés alapján végzett szerencsejáték szervezésére irányuló tevékenységre vonatkozóan a Ktv. 10/C. § (1) bekezdés b) pontja szerinti ajánlattételi eljárást folytat le, illetve koncessziós pályázatot ír ki a koncessziós szerződés eredeti időtartamának elteltét követő időszakra. Ilyen esetben a hatályos koncessziós szerződés eredeti időtartama a (3) bekezdés szerint nem hosszabbítható meg.
+(3a) Ha a hatályos koncessziós szerződés eredeti időtartamának fele eltelt, a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv kiemelt nemzetgazdasági érdekből – így különösen az állami bevételek hosszú távú biztosítása érdekében – a koncessziós szerződés alapján végzett szerencsejáték szervezésére irányuló tevékenységre vonatkozóan a Ktv. 10/C. § (1) bekezdés b) pontja szerinti ajánlattételi eljárást folytat le, illetve koncessziós pályázatot ír ki a koncessziós szerződés eredeti időtartamának elteltét követő időszakra. Ilyen esetben a hatályos koncessziós szerződés eredeti időtartama a (3) bekezdés szerint nem hosszabbítható meg.
 
 (3b) A (3a) bekezdés szerinti kiemelt nemzetgazdasági érdek fennállásáról a Kormány rendelettel dönt.
 
@@ -186,9 +198,9 @@ végezheti.
 
 (5) A pályázati kiírásnak szükség esetén tartalmaznia kell a szerencsejáték szervező tevékenységre alapított gazdasági társaságra vonatkozó különös előírásokat (pl. a kibocsátott részvények, illetőleg üzletrészek korlátozott forgalomképességét).
 
-(6) A koncessziós szerződést a szerencsejáték-szervezés állami felügyeletéért felelős miniszter a Ktv. 10/C. § (1) bekezdés b) pontja alapján az e törvény szerinti megbízható szerencsejáték-szervezővel nyilvános pályázat kiírása nélkül, a Ktv. 10/C. § szerinti ajánlattételi eljárás keretében, a Ktv. 10/C. § (2)–(4), (6), (9) és (12) bekezdésében foglaltak szerint is megkötheti.
+(6) A koncessziós szerződést a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a Ktv. 10/C. § (1) bekezdés b) pontja alapján az e törvény szerinti megbízható szerencsejáték-szervezővel nyilvános pályázat kiírása nélkül, a Ktv. 10/C. § szerinti ajánlattételi eljárás keretében, a Ktv. 10/C. § (2)–(4), (6), (9) és (12) bekezdésében foglaltak szerint is megkötheti.
 
-5. § (1) A Ktv. 5. § (1) bekezdése szerinti nyilvános pályázat kiírása esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter a pályázat nyertesével kötheti meg a koncessziós szerződést.
+5. § (1) A Ktv. 5. § (1) bekezdése szerinti nyilvános pályázat kiírása esetén a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a pályázat nyertesével kötheti meg a koncessziós szerződést.
 
 (2) Koncessziós szerződés a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott határozott időtartamra köthető.
 
@@ -595,7 +607,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (11) A játékkaszinót 18 éven aluliak nem látogathatják.
 
-(12) Az Országos Területfejlesztési Koncepcióban meghatározott egyes tervezési-statisztikai régiókban a szerencsejáték-szervezés állami felügyeletéért felelős miniszter egyidejűleg egy koncesszióba vevőnek, az állam többségi részesedésével működő gazdálkodó szervezetnek vagy az állami játékszervező kizárólagos tulajdonában lévő gazdasági társaságnak engedheti át az I. kategóriába sorolt játékkaszinó működtetésének jogát.
+(12) Az Országos Területfejlesztési Koncepcióban meghatározott egyes tervezési-statisztikai régiókban a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv egyidejűleg egy koncesszióba vevőnek, az állam többségi részesedésével működő gazdálkodó szervezetnek vagy az állami játékszervező kizárólagos tulajdonában lévő gazdasági társaságnak engedheti át az I. kategóriába sorolt játékkaszinó működtetésének jogát.
 
 (13) 500 000 lakosonként legfeljebb egy játékkaszinó üzemeltethető azzal, hogy a fővárosban és Pest megyében együtt legfeljebb öt, Baranya, Fejér, Győr-Moson-Sopron, Komárom-Esztergom, Somogy, Tolna, Vas, Veszprém és Zala megyében együtt legfeljebb négy és Bács-Kiskun, Békés, Borsod-Abaúj-Zemplén, Csongrád-Csanád, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok, Nógrád és Szabolcs-Szatmár-Bereg megyében együtt legfeljebb három játékkaszinó üzemeltethető.
 
@@ -1350,7 +1362,7 @@ kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (5) Ha a (4) bekezdés szerinti koncessziós pályázati vagy ajánlattételi eljárás eredményeként a korábbi engedély szerinti tevékenységre vonatkozóan a korábbi koncesszió jogosulttal jön létre koncessziós szerződés, az engedélyes a koncessziós szerződés hatálybalépését követő hat hónapon belül köteles a szerencsejáték szervezésének engedélyezése iránti kérelmet benyújtani a szerencsejáték-felügyeleti hatósághoz. A kérelem benyújtásának elmulasztása esetén a korábbi engedély a koncessziós szerződés hatálybalépését követő hatodik hónap utolsó napján hatályát veszti.
 
-(6) Ha a (4) bekezdés szerinti koncessziós pályázati vagy ajánlattételi eljárás eredményeként a korábbi engedély szerinti tevékenységre vonatkozóan nem a korábbi koncesszió jogosulttal jön létre koncessziós szerződés, a korábbi engedély a koncessziós szerződés hatálybalépésével egyidejűleg hatályát veszti, melynek időpontját a szerencsejáték-felügyeleti hatóság állapítja meg a szerencsejáték-szervezés állami felügyeletéért felelős miniszter tájékoztatása alapján.
+(6) Ha a (4) bekezdés szerinti koncessziós pályázati vagy ajánlattételi eljárás eredményeként a korábbi engedély szerinti tevékenységre vonatkozóan nem a korábbi koncesszió jogosulttal jön létre koncessziós szerződés, a korábbi engedély a koncessziós szerződés hatálybalépésével egyidejűleg hatályát veszti, melynek időpontját a szerencsejáték-felügyeleti hatóság állapítja meg a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv tájékoztatása alapján.
 
 40/B. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Módtv.2.) 295. §-ával megállapított 1. § (3) bekezdés c) pontját, 6. § (4) és (5) bekezdését, valamint 37. § 30. pontját a Módtv.2. hatályba lépését követően indult eljárásokban kell alkalmazni.
 
@@ -1358,7 +1370,9 @@ kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 40/D. § A szerencsejáték-felügyeleti hatóság és az állami adó- és vámhatóság közötti adatátadás kiépítéséig, de legkésőbb 2018. június 30-ig a szerencsejáték-felügyeleti hatóság a hatósági feladatellátáshoz szükséges mértékig használhatja az állami adó- és vámhatóság informatikai rendszereit és hozzáférhet az informatikai rendszerekben tárolt azon adatokhoz (ideértve az adó- és vámtitkot is), amelyek törvényben meghatározott feladatai ellátáshoz szükségesek.
 
-40/E. § A 40/D. §-ban meghatározott átmeneti időszakot követően az állami adó- és vámhatóság megkeresésre tájékoztatja a szerencsejáték-felügyeleti hatóságot az adó- és vámtitkot képező adatról vagy információról, ha az a szerencsejáték-felügyeleti hatóság hatósági feladatának ellátásához szükséges.
+40/E. § (1) A 40/D. §-ban meghatározott átmeneti időszakot követően az állami adó- és vámhatóság megkeresésre tájékoztatja a szerencsejáték-felügyeleti hatóságot az adó- és vámtitkot képező adatról vagy információról, ha az a szerencsejáték-felügyeleti hatóság hatósági feladatának ellátásához szükséges.
+
+(2) E törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási és pénzügyi tárgyú törvények módosításáról szóló 2020. évi CLXXIII. törvénnyel (a továbbiakban: Módtv4.) módosított 3. § (2) és (2c) bekezdését, 4. § (1) bekezdését, valamint a Módtv4.-gyel megállapított 3. § (2d) bekezdését az e rendelkezések hatálybalépésekor folyamatban levő koncessziós pályázati és ajánlattételi eljárásokban is alkalmazni kell.
 
 ### Az Európai Unió jogának való megfelelés
 

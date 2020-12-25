@@ -217,7 +217,7 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (4) Az (1)–(3) bekezdésben meghatározott feladatokat a közigazgatási területén lévő felhasználási helyekre és az azokat közvetlenül ellátó víziközműre nézve az (5) bekezdésben foglalt eltéréssel a települési önkormányzat, a fővárosban a fővárosi önkormányzat (a továbbiakban együttesen: települési önkormányzat) látja el.
 
-(5) Az (1)–(3) bekezdésben meghatározott feladatokat az állam látja el azon felhasználási helyek vonatkozásában, amelyek ellátása közvetlenül a nemzeti vagyonról szóló törvényben nevesített kizárólagos állami tulajdonnak minősülő regionális víziközmű-rendszerekről történik.
+(5) Az (1)–(3) bekezdésben meghatározott feladatokat az állam látja el azon felhasználási helyek vonatkozásában, amelyek ellátása közvetlenül a nemzeti vagyonról szóló törvényben nevesített kizárólagos állami tulajdonnak minősülő regionális víziközmű-rendszerekről, vagy a kizárólagos állami tulajdonban lévő víziközmű-rendszerekről történik.
 
 (6) Az adott közigazgatási terület vagy víziközmű-rendszer felett ellátásért felelősi jogokat és kötelezettségeket gyakorló személyéről a Hivatal kérelemre hatósági bizonyítványt állít ki.
 
@@ -461,6 +461,8 @@ díjmentesen biztosítja az e törvény végrehajtására kiadott kormányrendel
 #### 7. A víziközmű-üzemeltetési jogviszony általános szabályai
 
 15. § (1) A víziközmű-üzemeltetési jogviszony létesítésére, tartalmára, módosítására, megszüntetésére nézve, a nemzeti vagyonról szóló törvény, a közbeszerzésekről szóló törvény és a koncesszióról szóló törvény rendelkezései szerinti elvek mentén, az e törvényben foglalt speciális szabályokat kell alkalmazni.
+
+(1a) A koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) szerinti eljárások vonatkozásában e törvényt azzal az eltéréssel kell alkalmazni, hogy a Ktv. 5. § (1) bekezdése szerinti feladatok tekintetében az ellátásért felelősnek a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt minisztert vagy központi kormányzati igazgatási szervet kell tekinteni.
 
 (2) Adott víziközmű-szolgáltatási ágazati tevékenység végzéséhez szükséges víziközmű-üzemeltetési jogviszony az ellátásért felelős és a víziközmű-szolgáltató között létrejött, Hivatal által a működési engedélyben jóváhagyott:
 
@@ -1582,6 +1584,16 @@ rendeletben állapítsa meg.
 87/C. § A nemzeti versenyképesség növeléséhez szükséges egyes törvénymódosításokról szóló 2017. évi CXXXVII. törvénnyel módosított 55/H. §-t a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 87/C. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+87/E. § (1) Az e törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási és pénzügyi tárgyú törvények módosításáról szóló 2020. évi CLXXIII. törvény 32. §-ával módosított 5/F. § (5) bekezdése szerinti, kizárólagos állami tulajdonban lévő víziközmű-rendszerekhez kapcsolódó állami ellátásért felelősség 2021. január 1-jén jön létre. A 2021. január 1-jén létrejövő állami ellátásért felelősség esetében az állam mint ellátásért felelős 2021. március 31-ig új üzemeltetési jogviszony létesítéséről gondoskodik azon víziközmű-rendszerek esetében, amelyekre vonatkozóan az üzemeltetési jogviszony korábban a víziközmű-szolgáltató és a korábbi ellátásért felelős önkormányzat között jött létre. Az új üzemeltetési jogviszony létrehozását követően a víziközmű-szolgáltató a 22. § (1) bekezdése szerint jár el.
+
+(2) Az (1) bekezdés szerinti esetben a korábbi ellátásért felelős és a víziközmű-szolgáltató között fennálló üzemeltetési jogviszony 2020. december 31-én megszűnik.
+
+(3) A Hivatal 2021. január 1-jétől az (1) bekezdés szerinti új üzemeltetési jogviszony létesítéséig közérdekű üzemeltetőt jelöl ki.
+
+(4) A (2) bekezdés szerinti korábbi ellátásért felelős 2021. január 31-ig átadja az új ellátásért felelős részére a 61. § (1) bekezdése szerinti adatokat, valamint minden egyéb olyan adatot, amely az érintett víziközmű-rendszerhez kapcsolódóan az ellátásért felelős kötelezettségeinek teljesítéséhez szükséges. A 18. § szerinti víziközmű-fejlesztésre fel nem használt források tulajdonjoga a (2) bekezdés szerinti korábbi ellátásért felelőstől nyilvántartási értéken történő átvezetéssel, térítésmentesen 2021. január 1-jén az államra száll. A fejlesztési források átadás-átvételéről az érintett önkormányzat és az állam képviseletében eljáró szervezet 2021. március 31-ig írásban megállapodik. A térítésmentes vagyonátruházás az általános forgalmi adó szempontjából közcélú adománynak minősül.
+
+(5) Az (1) bekezdés szerint létrejött üzemeltetési szerződés alapján kérelmezett működési engedélyezési eljárás, illetve a Hivatal által jóváhagyott gördülő fejlesztési terv módosításának jóváhagyására vonatkozó eljárás igazgatási szolgáltatási díjfizetési kötelezettséget nem von maga után.
 
 #### 26. Az Európai Unió jogának való megfelelés
 

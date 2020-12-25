@@ -101,6 +101,8 @@ rendeletben határozza meg.
 - b) az Áht. 111. § (13) bekezdésének a folyószámlahitellel terhelt fizetési számlákra vonatkozó rendelkezéseit a gazdasági társaság állami tulajdonba kerülésének napján folyószámlahitellel terhelt fizetési számlákra kell alkalmazni,
 - c) az Áht. 111. § (14) bekezdése alapján fennálló folyószámlahitel igénybevételének biztosíthatóságára vonatkozó rendelkezéseket a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény hatálybalépésének napjától kell alkalmazni.
 
+13/A. § A 13. §-ban foglaltaktól eltérően a Közbeszerzési és Ellátási Főigazgatóság gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét az Egészségügyi Szolgáltató Zártkörűen Működő Részvénytársaság felett.
+
 14. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) A 17–19. §, a 23. § a) és b) pontja, a 28. §, a 30. §, a 31. § (2) bekezdése, 33. § b) és d) pontja 2012. július 1-jén lép hatályba.

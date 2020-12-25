@@ -153,7 +153,7 @@ tartozása van, vagy
 
 ## II. RÉSZ — A KONCESSZIÓ
 
-8. § A miniszter belföldi vagy külföldi természetes személlyel vagy átlátható szervezettel kötött koncessziós szerződéssel meghatározott időre átengedheti:
+8. § A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv belföldi vagy külföldi természetes személlyel vagy átlátható szervezettel kötött koncessziós szerződéssel meghatározott időre átengedheti:
 
 - a) zárt területen
   - aa) az ásványi nyersanyagok kutatását, feltárását, kitermelését,
@@ -165,7 +165,7 @@ tartozása van, vagy
 
 9. § (1) Koncessziós pályázatra kijelölhető területként azt a bányafelügyelet által zárt területként kijelölt területet lehet figyelembe venni, amelyen az adott ásványi nyersanyag előfordulása vagy a geotermikus energia kinyerése valószínűsíthető.
 
-(2) A miniszter az érzékenységi és terhelhetőségi vizsgálat eredményének figyelembevételével, a koncessziós pályázati kiírásban azt a zárt területet hirdeti meg, amelyen az ásványi nyersanyag bányászata vagy a geotermikus energia kinyerése energetikai célra kedvezőnek ígérkezik.
+(2) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az érzékenységi és terhelhetőségi vizsgálat eredményének figyelembevételével, a koncessziós pályázati kiírásban azt a zárt területet hirdeti meg, amelyen az ásványi nyersanyag bányászata vagy a geotermikus energia kinyerése energetikai célra kedvezőnek ígérkezik.
 
 (3) Ivóvíz-, ásvány-, gyógy- és hévízcélú hasznosításra már igénybevett vízadók, víztestek zárt területként nem jelölhetők ki.
 
@@ -173,7 +173,7 @@ tartozása van, vagy
 
 ### A koncessziós pályázat
 
-10. § (1) A koncessziós szerződések megkötésére a miniszter nyilvános pályázatot ír ki.
+10. § (1) A koncessziós szerződések megkötésére a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv nyilvános pályázatot ír ki.
 
 (2) A pályázati kiírásnak a koncesszióról szóló 1991. évi XVI. törvény 8. §-ában foglaltakra is figyelemmel, tartalmaznia kell:
 
@@ -189,17 +189,17 @@ tartozása van, vagy
 
 11. § (1) Azokat a pályázatokat kell elbírálni, amelyek a pályázati feltételeknek megfelelnek.
 
-(2) A pályázatok értékelésére a miniszter minősítő bizottságot hoz létre. A minősítő bizottság javaslata alapján a koncesszió megadásáról a miniszter dönt. A pályázat eredményét nyilvánosságra kell hozni és arról valamennyi pályázót értesíteni kell.
+(2) A pályázatok értékeléséről a koncesszióról szóló 1991. évi XVI. törvény 5. § (2) bekezdésében meghatározott bizottság dönt. A bizottság javaslata alapján a koncesszió megadásáról a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv dönt. A pályázat eredményét nyilvánosságra kell hozni és arról valamennyi pályázót értesíteni kell.
 
 ### A koncessziós szerződés
 
-12. § (1) A pályázat nyertesével a miniszter koncessziós szerződést köt. A koncessziós szerződés legfeljebb 35 évi időtartamra köthető, amely egy alkalommal, legfeljebb a koncessziós szerződés időtartamának felével, meghosszabbítható.
+12. § (1) A pályázat nyertesével a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv koncessziós szerződést köt. A koncessziós szerződés legfeljebb 35 évi időtartamra köthető, amely egy alkalommal, legfeljebb a koncessziós szerződés időtartamának felével, meghosszabbítható.
 
 (1a) A koncessziós szerződés meghosszabbítását annak lejárata előtt legalább 6 hónappal korábban kell kezdeményezni. A határidő elmulasztása esetén a szerződést meghosszabbítani nem lehet.
 
-(2) A koncessziós szerződésben meg kell állapodni a kutatási munkaprogram tartalmában és a teljesítésére szolgáló biztosítékokban. A bányafelügyelet által jóváhagyott kutatási műszaki üzemi tervnek tartalmaznia kell a koncessziós szerződéssel megállapított munkaprogramban vállalt feladatokat. A szerződésben a miniszter kikötheti a munkaprogram befejezéséhez szükséges költségek megtérítését arra az esetre, ha a koncesszió jogosultja az elfogadott munkaprogramban vállalt kötelezettségét nem teljesíti.
+(2) A koncessziós szerződésben meg kell állapodni a kutatási munkaprogram tartalmában és a teljesítésére szolgáló biztosítékokban. A bányafelügyelet által jóváhagyott kutatási műszaki üzemi tervnek tartalmaznia kell a koncessziós szerződéssel megállapított munkaprogramban vállalt feladatokat. A szerződésben a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv kikötheti a munkaprogram befejezéséhez szükséges költségek megtérítését arra az esetre, ha a koncesszió jogosultja az elfogadott munkaprogramban vállalt kötelezettségét nem teljesíti.
 
-(3) Ha a koncessziós szerződés megszűnését követően a koncessziós területen kitermelhető ásványi nyersanyag marad vissza, a koncessziós szerződés megszűnését követő 3 hónapon belül a miniszter új koncessziós pályázatot ír ki. Ilyen pályázat esetén az érzékenységi és terhelhetőségi vizsgálatot nem kell lefolytatni. A legkedvezőbb ajánlat feltételeinek vállalása esetén a koncesszió a volt jogosultat illeti meg.
+(3) Ha a koncessziós szerződés megszűnését követően a koncessziós területen kitermelhető ásványi nyersanyag marad vissza, a koncessziós szerződés megszűnését követő 3 hónapon belül a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv új koncessziós pályázatot ír ki. Ilyen pályázat esetén az érzékenységi és terhelhetőségi vizsgálatot nem kell lefolytatni. A legkedvezőbb ajánlat feltételeinek vállalása esetén a koncesszió a volt jogosultat illeti meg.
 
 (4) Ha a koncessziós szerződés eltérően nem rendelkezik, a koncessziós szerződés alapján megépített külszíni létesítmények az üzembe helyezés időpontjával a bányavállalkozó tulajdonába kerülnek. Ha a koncessziós szerződés megszűnésekor a létesítmények tovább nem üzemeltethetők, a bányavállalkozó köteles azokat elbontani és a területet helyreállítani.
 
@@ -209,7 +209,7 @@ tartozása van, vagy
 
 (2) A koncessziós díj összegéről, megfizetésének módjáról vagy az (1) bekezdés szerinti ellentételezésről, annak teljesítése módjáról a koncessziós szerződésben kell megállapodni.
 
-(3) A koncessziós díj pályázati kiírásra kerülő legkisebb összegét a miniszter a 20. § (8) bekezdésében foglaltak figyelembevételével állapítja meg, amelynél magasabb összegre a pályázó ajánlatot tehet.
+(3) A koncessziós díj pályázati kiírásra kerülő legkisebb összegét a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a 20. § (8) bekezdésében foglaltak figyelembevételével állapítja meg, amelynél magasabb összegre a pályázó ajánlatot tehet.
 
 ### A koncessziós társaság
 
@@ -239,9 +239,9 @@ tartozása van, vagy
 
 ### A koncesszió átruházása
 
-18. § (1) A bányászati koncessziós tevékenység gyakorlásának joga szerződéssel másra átruházható. A jog átruházásához a miniszter hozzájárulása szükséges. A hozzájárulás iránti kérelmet a jogosult koncessziós társaság és a jog átvevője együttesen nyújtja be a miniszterhez.
+18. § (1) A bányászati koncessziós tevékenység gyakorlásának joga szerződéssel másra átruházható. A jog átruházásához a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv hozzájárulása szükséges. A hozzájárulás iránti kérelmet a jogosult koncessziós társaság és a jog átvevője együttesen nyújtja be a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszterhez vagy központi kormányzati igazgatási szervhez.
 
-(2) A miniszter a hozzájárulást abban az esetben adhatja meg, ha az átvevő átvállalta az átruházót – a koncessziós szerződés és jogszabály alapján – terhelő kötelezettségek teljesítését és megfelel a koncessziós tevékenység gyakorlására meghatározott feltételeknek.
+(2) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a hozzájárulást abban az esetben adhatja meg, ha az átvevő átvállalta az átruházót – a koncessziós szerződés és jogszabály alapján – terhelő kötelezettségek teljesítését és megfelel a koncessziós tevékenység gyakorlására meghatározott feltételeknek.
 
 (3) Az (1) bekezdés szerinti átruházás esetén koncessziós pályázatot nem kell kiírni.
 
@@ -331,7 +331,7 @@ f) a vízjogi engedély alapján gyógyászati (balneológiai) célra hasznosít
 
 (7) A bányajáradék mértéke geotermikus energia esetében a kitermelt geotermikus energia értékének 2%-a.
 
-(8) A bányajáradék mértékét koncessziós szerződés (12. §) alapján gyakorolt bányászati tevékenység esetén a miniszter
+(8) A bányajáradék mértékét koncessziós szerződés (12. §) alapján gyakorolt bányászati tevékenység esetén a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv
 
 a) az ásványi nyersanyag fajták,
 
@@ -367,7 +367,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 ### A kutatás engedélyezése
 
-22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag vagy geotermikus energia kutatására a miniszter a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási engedélyt ad.
+22. § (1) Zárt területen koncesszió keretében meghatározott ásványi nyersanyag vagy geotermikus energia kutatására a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a koncessziós szerződésben kutatási jogot adományoz. Nyílt területen meghatározott ásványi nyersanyag kutatására a bányafelügyelet kutatási engedélyt ad.
 
 (2) Az adományozott kutatási jog vagy a kutatási engedély a kutatási területen a bányavállalkozónak kizárólagos jogot ad az ásványinyersanyag-, illetve geotermikusenergia-kutatási műszaki üzemi terv benyújtására, a jóváhagyás kezdeményezésére és az ásványi nyersanyag, illetve geotermikus energia jóváhagyott kutatási műszaki üzemi terv alapján végzett kutatására és elfogadott kutatási zárójelentés alapján a bányatelek megállapításának, a geotermikus védőidom kijelölésének kezdeményezésére.
 
@@ -383,7 +383,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (8) Az (1) bekezdésben foglaltak alapján adományozott vagy engedélyezett kutatási jog megszűnik, ha a jogosult a kutatási jogot adományozó koncessziós szerződés hatálybalépésétől, illetve a kutatást engedélyező határozat véglegessé válásától számított 6 hónapon belül a kutatási műszaki üzemi terv jóváhagyását a bányafelügyeletnél nem kérelmezi, vagy a műszaki üzemi terv jóváhagyása iránti kérelmet a bányafelügyelet véglegessé vált határozatában elutasította..
 
-(9) Ha a bányavállalkozó a munkaprogramban vagy a jóváhagyott műszaki üzemi tervben meghatározott kutatási feladatainak időarányos részét neki felróható okból nem hajtotta végre, a kutatási engedélyt a bányafelügyelet visszavonja vagy a miniszternél kezdeményezi a koncessziós szerződésbe foglalt jogkövetkezmények alkalmazását.
+(9) Ha a bányavállalkozó a munkaprogramban vagy a jóváhagyott műszaki üzemi tervben meghatározott kutatási feladatainak időarányos részét neki felróható okból nem hajtotta végre, a kutatási engedélyt a bányafelügyelet visszavonja vagy a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszternél vagy központi kormányzati igazgatási szervnél kezdeményezi a koncessziós szerződésbe foglalt jogkövetkezmények alkalmazását.
 
 (10) Ha a kutatási jogadomány vagy a kutatási engedély olyan, részben vagy egészben fedő vagy magában foglaló földtani szerkezetre vonatkozik, amelyre más bányavállalkozó bányászati jogát már megállapították, a kutatási jogadomány vagy a kutatási engedély jogosítottja köteles tevékenységét a már bányászati joggal rendelkező bányavállalkozóval összehangolni, és az erre vonatkozó megállapodást közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba foglalni. A megállapodás létrejöttéhez a bányafelügyelet – e törvény végrehajtására kiadott jogszabályban meghatározott szempontok alapján történő – jóváhagyása szükséges. A felek a megállapodástól a bányafelügyelet hozzájárulásával állhatnak el, azt a bányafelügyelet hozzájárulásával bonthatják fel, szüntethetik meg, mondhatják fel vagy módosíthatják.
 
@@ -401,7 +401,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 ### A szénhidrogén-kutatás, -feltárás és -kitermelés engedélyezésének sajátos szabályai
 
-22/A. § (1) A miniszter a 9. §-ban foglaltak alapján kijelöli azokat a zárt területeket, amelyeken a szénhidrogének kutatásának, feltárásának és kitermelésének koncesszió keretében történő engedélyezése a területeknek két országos terjesztésű napilapban és az Európai Unió Hivatalos Lapjában történt közzétételét (hirdetmény) követő 90 nap elteltével, a benyújtott pályázatok egyidejű elbírálásával kezdődik meg.
+22/A. § (1) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a 9. §-ban foglaltak alapján kijelöli azokat a zárt területeket, amelyeken a szénhidrogének kutatásának, feltárásának és kitermelésének koncesszió keretében történő engedélyezése a területeknek két országos terjesztésű napilapban és az Európai Unió Hivatalos Lapjában történt közzétételét (hirdetmény) követő 90 nap elteltével, a benyújtott pályázatok egyidejű elbírálásával kezdődik meg.
 
 (2)
 
@@ -415,7 +415,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (8) A szénhidrogénekre vonatkozó kutatás engedélyezése iránti kérelemhez mellékelni kell a kutatási munkaprogramot és annak költségvetését. A kutatási jog adományozásának vagy a kutatási engedély megadásának feltétele kutatási blokkonként 200 millió forint, de – az egy vállalkozó jogosultságában álló kutatási területek számától és nagyságától, illetve az összes kutatási költségtől függetlenül – egyidejűleg legfeljebb 1 milliárd forint pénzügyi biztosíték nyújtása. A pénzügyi biztosíték összege a költségvetésben megosztható a kutatási munkaprogram végrehajtásával kapcsolatos feladatok, valamint a várható bányakárok, tájrendezési és környezetmegóvási kötelezettségek fedezetére. Pénzügyi biztosíték az Európai Gazdasági Térség valamely tagállamában székhellyel rendelkező hitelintézettel kötött garanciaszerződés lehet. Olyan hitelintézettel kötött garanciaszerződés, amelynek székhelye nem az Európai Gazdasági Térség valamely tagállamában van, csak akkor fogadható el, ha azt az Európai Gazdasági Térség valamely tagállamában székhellyel rendelkező hitelintézet felülgarantálja.
 
-(9) Pénzügyi biztosítékként visszavonhatatlan vagy a bányafelügyelet jóváhagyásához kötött visszavonható garanciaszerződés fogadható el. A bányafelügyelet a pénzügyi biztosíték visszavonását akkor hagyja jóvá, ha a bányavállalkozó a kutatási munkaprogramját teljesítette, vagy a kutatási területet visszaadta és a kutatással összefüggésben keletkezett bányakártalanítási, illetve tájrendezési, környezetmegóvási kötelezettsége nem maradt fenn. A pénzügyi biztosíték visszavonása – a költségvetésben szereplő (8) bekezdés szerinti megosztásnak megfelelően – a végrehajtott kutatási és kártalanítási kötelezettségekkel arányosan, részösszegekre is engedélyezhető. Abban az esetben, ha a bányafelügyelet a 22. § (9) bekezdése alapján a kutatási engedélyt visszavonja, vagy koncessziós szerződés esetén a miniszter, a bányafelügyelet kezdeményezése alapján, a szerződésszegés jogkövetkezményeit alkalmazza, a pénzügyi biztosítékot a kötelezettségszegés mértékéig érvényesíteni kell a központi költségvetés javára. A pénzügyi biztosíték igénybevételéről a bányafelügyelet a (8) bekezdésben foglaltak figyelembevételével dönt.
+(9) Pénzügyi biztosítékként visszavonhatatlan vagy a bányafelügyelet jóváhagyásához kötött visszavonható garanciaszerződés fogadható el. A bányafelügyelet a pénzügyi biztosíték visszavonását akkor hagyja jóvá, ha a bányavállalkozó a kutatási munkaprogramját teljesítette, vagy a kutatási területet visszaadta és a kutatással összefüggésben keletkezett bányakártalanítási, illetve tájrendezési, környezetmegóvási kötelezettsége nem maradt fenn. A pénzügyi biztosíték visszavonása – a költségvetésben szereplő (8) bekezdés szerinti megosztásnak megfelelően – a végrehajtott kutatási és kártalanítási kötelezettségekkel arányosan, részösszegekre is engedélyezhető. Abban az esetben, ha a bányafelügyelet a 22. § (9) bekezdése alapján a kutatási engedélyt visszavonja, vagy koncessziós szerződés esetén a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv, a bányafelügyelet kezdeményezése alapján, a szerződésszegés jogkövetkezményeit alkalmazza, a pénzügyi biztosítékot a kötelezettségszegés mértékéig érvényesíteni kell a központi költségvetés javára. A pénzügyi biztosíték igénybevételéről a bányafelügyelet a (8) bekezdésben foglaltak figyelembevételével dönt.
 
 (10) Szénhidrogének esetében a kutatás engedélyezésére, a kutatás műszaki üzemi tervének jóváhagyására, illetőleg a bányászati jog átruházására irányuló eljárásban az e törvényben és a külön jogszabályban megállapított általános követelményeken túl a bányafelügyeletnek vizsgálnia kell
 
@@ -1321,7 +1321,7 @@ aki a tevékenységére, továbbá a hites bányamérő tekintetében a bányat�
 
 (5)–(6)
 
-(7) A bányafelügyelet készíti elő a miniszter ásványvagyon-gazdálkodással, valamint a koncessziós szerződésekkel kapcsolatos döntéseit, továbbá előkészíti a 34. § (2) bekezdésében foglalt bányászati, valamint gázipari biztonsági szabályzatokat, és ellenőrzi azok végrehajtását.
+(7) A bányafelügyelet készíti elő a koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv ásványvagyon-gazdálkodással, valamint a koncessziós szerződésekkel kapcsolatos döntéseit, továbbá előkészíti a 34. § (2) bekezdésében foglalt bányászati, valamint gázipari biztonsági szabályzatokat, és ellenőrzi azok végrehajtását.
 
 (8)
 
@@ -1724,7 +1724,7 @@ bányahatósági felügyelete
 
 - 1. a földtani kutatásra,
 - 2. e törvény hatálya alá tartozó, hatósági engedély vagy koncessziós szerződés alapján végezhető tevékenységekre,
-- 3. a koncessziós pályázatok értékelését végző minősítő bizottság létrehozására és összetételére,
+- 3. a koncessziós pályázatok értékelését végző, a koncesszióról szóló 1991. évi XVI. törvény 30/A. § c) pontja szerinti bizottság létrehozására és összetételére,
 - 4. a bányajáradékra, annak befizetésére, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítésre, illetve díjfizetésre,
 - 5. a kutatás engedélyezésére és a kutatási munkaprogram alapvető tartalmi követelményeire, a kutatási jogadományhoz, illetve a kutatási engedélyhez tartozó pénzügyi biztosítékra, valamint a kutatási terület kialakítására és mértékére, valamint kutatási jogadománnyal vagy kutatási engedéllyel érintett olyan részben vagy egészben fedő vagy magában foglaló földtani szerkezetek esetében, amelyekre más bányavállalkozó bányászati jogát már megállapították, a kötendő megállapodás hatósági jóváhagyásának feltételeire vagy a megállapodás hiányában az együttműködés szükségességének és tartalmának megállapítására,
 - 6. a biztonsági övezetre és a védőpillérre,
@@ -1783,7 +1783,7 @@ bányahatósági felügyelete
 - l) a hites bányamérői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények,
 - m) a bányászati hulladékok kezelésére vonatkozó részletes szabályok,
 - n) a szén-dioxid-szállítóvezetékek biztonsági követelményeit és a szén-dioxid szállítóvezetékek biztonsági szabályzatára vonatkozó rendelkezések,
-- o) a koncessziós pályázat kiírásával, elbírálásával, lebonyolításával, és a koncessziós pályázaton való részvétel díjával kapcsolatos eljárási és a minősítő bizottság működésére vonatkozó részletes szabályok
+- o) a koncessziós pályázat kiírásával, elbírálásával, lebonyolításával, és a koncessziós pályázaton való részvétel díjával kapcsolatos eljárási részletes szabályok
 - p) a bányaüzemi felelős műszaki vezetői tevékenység folytatásának részletes feltételei, az e tevékenységre jogosító eljárás rendje, a nyilvántartás személyes adatot nem tartalmazó adattartalma, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályok, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények
 - q) a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavarok és súlyos balesetek körének, az arról szóló jelentéstételi kötelezettségnek és vizsgálati rendjének
 

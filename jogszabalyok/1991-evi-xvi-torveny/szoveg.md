@@ -26,15 +26,21 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (3) Ha a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdésében foglalt feltételeknek megfelelő szerződés alapján a tulajdonszerzésre még nem került sor, az önkormányzat a törzsvagyon részét képező tereken, parkokon és egyéb közterületeken létesített építmény tekintetében köteles zártkörű pályázatot kiírni. Zártkörű pályázat esetén érdekeltnek kell tekinteni a hatályos építésügyi hatósági engedély engedélyesét.
 
-5. § (1) Az állam nevében a pályázat kiírására, elbírálására és a koncessziós szerződés megkötésére – az állami vagyon felügyeletéért felelős miniszter egyetértésével – a tevékenység tárgya szerint illetékes ágazati miniszter jogosult.
+5. § (1) Az állam nevében pályázat kiírására, elbírálására, ajánlattételi felhívásra, ajánlattételi eljárás, valamint a 10/A. § szerinti eljárás lefolytatására és a koncessziós szerződés megkötésére a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv jogosult.
 
-(2) Abban az esetben, ha a pályázati kiírás olyan tevékenység gyakorlására vonatkozó jogosultság átengedésére irányul, mely az önkormányzat törvényben előírt kötelezettségének teljesítésére közvetlenül hatással van, a pályázat kiírásához az érintett önkormányzat egyetértése szükséges. Ha a pályázat kiírása az önkormányzatot egyébként megillető jogok gyakorlását, illetve egyéb feladat teljesítését érinti, a pályázati kiírás közzététele előtt az érdekelt önkormányzat véleményét ki kell kérni.
+(2) Az e törvény szerinti koncessziós pályázatok, ajánlattételi eljárások és a 10/A. § szerinti eljárások elbírálására bíráló bizottság kerül létrehozásra. A bíráló bizottság javaslatot készít a koncessziós pályázat odaítéléséről, az ajánlat elfogadásáról szóló döntésről, az értékesítésre vonatkozó döntésről, valamint a koncessziós szerződés megkötéséről.
+
+(3) A koncessziós tevékenység, illetve a 10/A. § szerinti eljárás tárgya szerint illetékes ágazati miniszter a kormányrendeletben kijelölt miniszternek vagy központi kormányzati igazgatási szervnek a koncessziós pályázati és ajánlattételi eljárás előkészítése, a pályázat kiírása és az ajánlattételi felhívás kiadása, a pályázati és az ajánlattételi eljárás lefolytatása, a 10/A. § szerinti eljárás előkészítése és lefolytatása, valamint a koncessziós szerződés megkötése érdekében kiadott megkeresésére a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv részére adatszolgáltatást teljesít.
+
+(4) A koncessziós szerződés megkötését követően a koncessziós tevékenység tárgya szerint illetékes ágazati miniszter gyakorolja a koncessziós szerződés alapján az államot megillető valamennyi jogot és kötelezettséget, így különösen a szerződés teljesítésével, végrehajtásával és ellenőrzésével kapcsolatos jogokat és kötelezettségeket. A koncessziós tevékenység tárgya szerint illetékes ágazati miniszter állam nevében szerződő félként való eljárásához, így a koncessziós szerződés alapján az államot megillető valamennyi jog és kötelezettség gyakorlásához a koncesszió jogosultjának hozzájárulása nem szükséges.
+
+(5) Ha a pályázati kiírás olyan tevékenység gyakorlására vonatkozó jogosultság átengedésére irányul, amely az önkormányzat törvényben előírt kötelezettségének teljesítésére közvetlenül hatással van vagy a pályázat kiírása az önkormányzatot egyébként megillető jogok gyakorlását, illetve egyéb feladat teljesítését érinti, a pályázati kiírás közzététele előtt az érdekelt önkormányzat véleményét ki kell kérni. Az érdekelt önkormányzat a véleményének kiadására a felkéréstől számított 15 munkanapon belül van lehetősége.
 
 6. § Az önkormányzat nevében a pályázat kiírására és annak elbírálására a képviselőtestület jogosult. E hatáskörét nem ruházhatja át. A koncessziós szerződés aláírására az önkormányzat nevében a polgármester jogosult.
 
 7. § Az 5—6. §-ban meghatározott személy, illetőleg szerv az 1. § (1) bekezdés szerinti tevékenység (a továbbiakban: koncesszió-köteles tevékenység) gyakorlásával összefüggésben szükséges hatósági engedély megadásának feltételeit az illetékes államigazgatási szervvel a pályázat kiírása előtt egyeztetni köteles.
 
-7/A. § A csővezetékes termékszállításra és -tárolásra, az országos közutak és műtárgyaik, a csatornák, valamint a regionális közműrendszerek, továbbá az önkormányzati törzsvagyon részét képező helyi közutak, műtárgyaik és a helyi közművek működtetésére irányuló koncesszióköteles tevékenységek gyakorlására vonatkozó jogosultság – koncessziós szerződéssel történő – átengedésére irányuló pályázat kiírása előtt ki kell kérni az illetékes gazdasági kamara véleményét is.
+7/A. § A csővezetékes termékszállításra és -tárolásra, az országos közutak és műtárgyaik, a csatornák, valamint a regionális közműrendszerek, továbbá az önkormányzati törzsvagyon részét képező helyi közutak, műtárgyaik és a helyi közművek működtetésére irányuló koncesszióköteles tevékenységek gyakorlására vonatkozó jogosultság – koncessziós szerződéssel történő – átengedésére irányuló pályázat kiírása előtt ki kell kérni Magyar Kereskedelmi és Iparkamara véleményét is. A Magyar Kereskedelmi és Iparkamarának a vélemény kiadására a felkéréstől számított 15 munkanapon belül van lehetősége.
 
 8. § (1) A nyilvános pályázati felhívást legalább két országos napilapban, illetőleg az önkormányzati pályázatot a helyi napilapban is meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább harminc nappal megelőzően. Zártkörű pályázat esetén az érdekelteket egyidejűleg, közvetlenül kell a pályázatra felhívni.
 
@@ -77,21 +83,27 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (4) A nyilvános pályázatok elbírálásáról készített emlékeztetőben foglaltak közérdekű adatnak minősülnek. Az ilyen emlékeztetőt bárki megtekintheti, arról – a költségek megfizetése mellett – másolatot kérhet.
 
+9/B. § (1) Az 5. § (1) bekezdés szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a pályázati vagy ajánlattételi felhívást a pályázatok és ajánlatok benyújtására nyitva álló időtartam lejártáig bármikor indokolás nélkül visszavonhatja.
+
+(2) Az 5. § (1) bekezdés szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a pályázati eljárást és az ajánlattételi eljárást a pályázatok, illetve ajánlatok benyújtására nyitva álló időtartam lejártát követően a koncessziós szerződés megkötéséig bármikor indokolás nélkül eredménytelenné nyilváníthatja és az eljárást megszüntetheti.
+
+(3) A koncessziós felhívásban az (1) és (2) bekezdés szerinti körülményre a pályázó vagy ajánlattevő figyelmét fel kell hívni.
+
+(4) Ha az 5. § (1) bekezdés szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az (1) vagy (2) bekezdés szerint a koncessziós felhívást visszavonja vagy a pályázati eljárást és ajánlattételi eljárást eredménytelenné nyilvánítja és az adott koncessziós eljárás részvételidíj-köteles, a pályázó vagy az ajánlattevő által megfizetett részvételi díjat – ha ágazati jogszabály eltérően nem rendelkezik, az eljárás (2) bekezdés szerinti megszüntetését követő 15 napon belül – vissza kell fizetni.
+
 10. § Az ágazati törvény a pályázat lebonyolításának módjára vonatkozóan további szabályokat állapíthat meg.
 
 ### Koncesszióköteles tevékenységet végző állami vagy önkormányzati tulajdonban álló gazdálkodó szervezet magántulajdonos részére történő értékesítése esetén irányadó szabályok
 
-10/A. § (1) Ha a koncesszióköteles tevékenységet végző a nemzeti vagyonról szóló törvényben meghatározott gazdálkodó szervezetben fennálló társasági részesedését úgy értékesíti magántulajdonos részére, hogy annak következtében a gazdálkodó szervezet már nem felel meg a nemzeti vagyonról szóló törvény előírásainak, és a nemzeti vagyonról szóló törvény alapján a tevékenységre koncessziós szerződést kell kötni, legkésőbb az értékesítési eljárás megindításával egyidejűleg koncessziós pályázatot kell lefolytatni a koncesszióköteles tevékenység átengedésére. A koncessziós eljárásra az e §-ban foglalt eltérésekkel, e törvényben foglalt rendelkezéseket kell alkalmazni.
+10/A. § (1) Ha a koncesszióköteles tevékenységet végző nemzeti vagyonról szóló törvényben meghatározott gazdálkodó szervezetben fennálló társasági részesedése magántulajdonos részére történő értékesítésére úgy kerül sor, hogy annak következtében a gazdálkodó szervezet már nem felel meg a nemzeti vagyonról szóló törvény előírásainak és a nemzeti vagyonról szóló törvény alapján a tevékenységre koncessziós szerződést kell kötni, a koncesszióköteles tevékenység átengedésére együttes, egyidejű értékesítési eljárást és koncessziós pályázatot kell lefolytatni külön kormányrendeletben és az e törvényben meghatározott szabályok alapján.
 
-(2) Az (1) bekezdés szerinti esetben a pályázati kiírásnak a 8. § (2) bekezdésében meghatározottakon túl tartalmaznia kell, hogy a pályázónak az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt eljárásban ajánlatot kell benyújtania.
+(2) Az (1) bekezdés szerinti esetben a pályázati kiírásnak a 8. § (2) bekezdésében meghatározottakon túl tartalmaznia kell azt, hogy a pályázónak az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére is ajánlatot kell benyújtania.
 
-(3) A pályázatok elbírálására a 9. §-ban előírt határidő az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt eljárás lefolytatásához szükséges időtartammal meghosszabbodik.
+(3) A pályázatok elbírálására a 9. §-ban előírt határidő legfeljebb 60 nappal meghosszabbítható.
 
-(4) A koncessziós pályázatok elbírálása során a pályázat elbírálására jogosult csak azt vizsgálhatja, hogy a benyújtott pályázatok megfelelnek-e a törvényben és a kiírásban meghatározott feltételeknek, ugyanakkor nyertest nem hirdethet.
+(4) Az együttes, egyidejű értékesítési eljárás és pályázati eljárás eredménye tekintetében a koncessziós pályázat kiírója kizárólag egyetlen nyertest hirdethet. Az együttes, egyidejű értékesítési eljárás és pályázati eljárás nyertese az, aki a koncessziós és az értékesítési eljárás feltételeinek megfelel, és egyben az állam vagy az önkormányzat számára összességében a legkedvezőbb ajánlatot tette.
 
-(5) A koncessziós pályázat, valamint az (1) bekezdés szerinti gazdálkodó szervezet értékesítésére kiírt eljárás eredménye tekintetében a koncessziós pályázat kiírója – a az értékesítési eljárás kiírójával egyetértésben – kizárólag egyetlen nyertest hirdethet. A koncessziós pályázat és az értékesítési eljárás nyertese az, aki a koncessziós és a az értékesítési eljárás feltételeinek megfelel, és egyben az állam vagy az önkormányzat számára összességében a legkedvezőbb ajánlatot tette.
-
-(6) A nyertes személy az ágazati törvényben meghatározott koncessziós időszak végéig gyakorolhatja a jogszabályokban biztosított jogait oly módon, hogy az értékesítési eljárás során megszerzett társaság minősül koncessziós társaságnak. A társaságra a 26. § rendelkezéseit nem kell alkalmazni.
+(5) A nyertes személy az ágazati törvényben meghatározott koncessziós időszak végéig gyakorolhatja a jogszabályokban biztosított jogait oly módon, hogy az együttes, egyidejű eljárás során részben vagy egészben megszerzett gazdálkodó szervezet minősül koncessziós társaságnak. A társaságra a 26. § rendelkezéseit nem kell alkalmazni.
 
 ### Dohánytermék-kiskereskedelmi koncessziós pályázatra irányadó különös szabályok
 
@@ -101,7 +113,7 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (3) E törvény 9. §-ától eltérően a pályázati kiírás a dohánytermék-kiskereskedelmi koncessziós pályázatok benyújtására 60 napnál rövidebb, de legalább 20 napot elérő határidőt határozhat meg.
 
-(4) Az ágazati törvény alapján megkötött koncessziós szerződésben a felek e törvény 16. §-ában foglaltaktól, továbbá – abban az esetben, ha a koncesszió jogosultja e tevékenységét nem gazdasági társaság útján gyakorolja – e törvény 17. §-ában, valamint 20. §-ában foglaltaktól eltérhetnek.
+(4) Az ágazati törvény alapján megkötött koncessziós szerződésben a felek – abban az esetben, ha a koncesszió jogosultja e tevékenységét nem gazdasági társaság útján gyakorolja – e törvény 17. §-ában, valamint 20. §-ában foglaltaktól eltérhetnek.
 
 ### A megbízható szerencsejáték-szervezővel megköthető koncessziós szerződésre irányadó különös szabályok
 
@@ -112,32 +124,30 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 kerülhet sor.
 
-(2) Az ágazati miniszter a szerencsejáték szervezésére irányuló tevékenység koncessziós szerződés alapján történő végzésére irányuló koncessziós pályázat kiírását megelőzően a megbízható szerencsejáték-szervezőt 30 napos határidővel ajánlattételre hívja fel. Az ajánlattételi felhívás tartalmára az Szjtv. 4. § (4) és (5) bekezdését megfelelően alkalmazni kell.
+(2) Az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a szerencsejáték szervezésére irányuló tevékenység koncessziós szerződés alapján történő végzésére irányuló koncessziós pályázat kiírását megelőzően a megbízható szerencsejáték-szervezőt 30 napos határidővel ajánlattételre hívja fel. Az ajánlattételi felhívás tartalmára az Szjtv. 4. § (4) és (5) bekezdését megfelelően alkalmazni kell.
 
 (3) A megbízható szerencsejáték-szervező ajánlattevő ajánlatában megjelöli az üzemeltetni kívánt – az Szjtv.-ben meghatározott – egység település szerinti helyszínét és vállalja, hogy egységenként legalább az ajánlattételi felhívásban meghatározott összegű éves koncessziós díjat fizet.
 
-(4) Ha a megbízható szerencsejáték-szervező ajánlata nem felel meg az e törvényben, az Szjtv.-ben, valamint az ajánlattételi felhívásban meghatározott követelményeknek, az ágazati miniszter egy alkalommal, 30 napos határidővel hiánypótlásra szólítja fel a megbízható szerencsejáték-szervezőt, amelynek időtartama a (6) bekezdés szerinti döntés meghozatalának határidejébe nem számít bele.
+(4) Ha a megbízható szerencsejáték-szervező ajánlata nem felel meg az e törvényben, az Szjtv.-ben, valamint az ajánlattételi felhívásban meghatározott követelményeknek, az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv egy alkalommal, 30 napos határidővel hiánypótlásra szólítja fel a megbízható szerencsejáték-szervezőt, amelynek időtartama a (6) bekezdés szerinti döntés meghozatalának határidejébe nem számít bele.
 
 (5) Ha
 
 - a) az ajánlattételi felhívásban megjelölt határidőig nem érkezett be megbízható szerencsejáték-szervezőtől ajánlat, vagy
 - b) a hiánypótlásra felhívott megbízható szerencsejáték-szervező a hiánypótlásnak nem tett eleget, vagy az ajánlat a (4) bekezdés szerinti hiánypótlást követően sem felel meg az e törvényben, az Szjtv.-ben, valamint az ajánlattételi felhívásban meghatározott követelményeknek,
 
-az ágazati miniszter köteles koncessziós pályázatot kiírni.
+az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv köteles koncessziós pályázatot kiírni.
 
-(6) Ha a megbízható szerencsejáték-szervező ajánlata megfelel az e törvényben, az Szjtv.-ben, valamint az ajánlattételi felhívásban meghatározott követelményeknek, az ágazati miniszter az ajánlat elfogadásáról a megbízható szerencsejáték-szervező írásbeli ajánlatának átvételét követő 30 napon belül dönt. Több érvényes ajánlat esetén az ágazati miniszter azzal a megbízható szerencsejáték-szervezővel köti meg a koncessziós szerződést, aki a legmagasabb összegű koncessziós díj megfizetését vállalja. Több azonos összegű koncessziós díjfizetésre vonatkozó érvényes ajánlat esetében az ágazati miniszter a korábban érvényes ajánlatot tevő megbízható szerencsejáték-szervezővel köti meg a koncessziós szerződést.
+(6) Ha a megbízható szerencsejáték-szervező ajánlata megfelel az e törvényben, az Szjtv.-ben, valamint az ajánlattételi felhívásban meghatározott követelményeknek, az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az ajánlat elfogadásáról a megbízható szerencsejáték-szervező írásbeli ajánlatának átvételét követő 30 napon belül dönt. Több érvényes ajánlat esetén az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv azzal a megbízható szerencsejáték-szervezővel köti meg a koncessziós szerződést, aki a legmagasabb összegű koncessziós díj megfizetését vállalja. Több azonos összegű koncessziós díjfizetésre vonatkozó érvényes ajánlat esetében az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a korábban érvényes ajánlatot tevő megbízható szerencsejáték-szervezővel köti meg a koncessziós szerződést. Ha az ajánlattételi eljárás során nem a korábbi koncesszió jogosultja tette a legmagasabb összegű érvényes ajánlatot, de vállalja, hogy az ajánlattételi eljárásban tett legmagasabb összegű érvényes ajánlatnál is magasabb összegű éves koncessziós díjat fizet, abban az esetben az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a volt jogosulttal köti meg a koncessziós szerződést.
 
-Ha az ajánlattételi eljárás során nem a korábbi koncesszió jogosultja tette a legmagasabb összegű érvényes ajánlatot, de vállalja, hogy az ajánlattételi eljárásban tett legmagasabb összegű érvényes ajánlatnál is magasabb összegű éves koncessziós díjat fizet, abban az esetben az ágazati miniszter a volt jogosulttal köti meg a koncessziós szerződést.
+(7) Az ajánlattételi felhívásban megjelölt határidőn belül beérkezett ajánlatokról az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv emlékeztetőt készít. Az emlékeztető tartalmára a 9/A. §-t megfelelően alkalmazni kell.
 
-(7) Az ajánlattételi felhívásban megjelölt határidőn belül beérkezett ajánlatokról az ágazati miniszter emlékeztetőt készít. Az emlékeztető tartalmára a 9/A. §-t megfelelően alkalmazni kell.
-
-(8) Az e § szerinti ajánlattételi felhívás alapján lefolytatott eljárás eredményéről vagy eredménytelenségéről az ágazati miniszter legalább két országos napilapban vagy a kormányzati honlapon hirdetményt tesz közzé. Eredményes eljárás esetén a hirdetménynek tartalmaznia kell
+(8) Az e § szerinti ajánlattételi felhívás alapján lefolytatott eljárás eredményéről vagy eredménytelenségéről az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv legalább két országos napilapban vagy a kormányzati honlapon hirdetményt tesz közzé. Eredményes eljárás esetén a hirdetménynek tartalmaznia kell
 
 - a) a megbízható szerencsejáték-szervező megnevezését,
 - b) a koncessziós szerződéssel érintett egységek számát és földrajzi-közigazgatási egységét, és
 - c) a megbízható szerencsejáték-szervező által fizetendő koncessziós díj összegét.
 
-(9) Az e § szerint lefolytatott ajánlattételi eljárás esetén az ágazati miniszter a nyertes ajánlattevővel a (6) bekezdés szerinti döntés meghozatalát követő 30 napon belül köti meg a koncessziós szerződést.
+(9) Az e § szerint lefolytatott ajánlattételi eljárás esetén az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv a nyertes ajánlattevővel a (6) bekezdés szerinti döntés meghozatalát követő 30 napon belül köti meg a koncessziós szerződést.
 
 (10) Az e § szerint megkötött koncessziós szerződés alapján a koncesszió jogosultja legfeljebb hét egységet üzemeltethet.
 
@@ -149,11 +159,11 @@ Ha az ajánlattételi eljárás során nem a korábbi koncesszió jogosultja tet
 
 10/D. § (1) Az ágazati törvényben meghatározott megbízható dohánykereskedővel, vagy e személy legalább többségi tulajdonában álló gazdasági társasággal az ágazati törvényben meghatározott dohánykiskereskedelem-ellátási tevékenység elvégzése céljából koncessziós szerződés az e §-ban meghatározottak szerint is köthető.
 
-(2) Az ágazati miniszter mellőzheti a nyilvános koncessziós pályázat kiírását, ha a koncessziós szerződés megkötésére megbízható dohánykereskedővel, vagy e személy legalább többségi tulajdonában álló gazdasági társasággal is sor kerülhet.
+(2) Az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv mellőzheti a nyilvános koncessziós pályázat kiírását, ha a koncessziós szerződés megkötésére megbízható dohánykereskedővel, vagy e személy legalább többségi tulajdonában álló gazdasági társasággal is sor kerülhet.
 
 (3) A dohánykiskereskedelem-ellátási tevékenység végzésére a megbízható dohánykereskedő ajánlatot tesz. Az ajánlattevő ajánlatában megjelöli azt a területet (megyékre lebontva), ahol a dohánykiskereskedelem-ellátási tevékenységet folytatni kívánja, bemutatja a rendelkezésére álló eszközállományt és vállalja, hogy egységenként (megyénként) jogszabályban meghatározott – ennek hiányában az általa megajánlott – koncessziós díjat fizet.
 
-(4) Az ágazati miniszter az ajánlat elfogadásáról a megbízható dohánykereskedő írásbeli ajánlatának átvételét követő 30 napon belül dönt. Az ajánlat elfogadása esetén 30 napon belül megköti a koncessziós szerződést az ajánlattevővel vagy az ajánlattevő legalább többségi tulajdonában álló (e célból alapított) gazdasági társasággal.
+(4) Az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az ajánlat elfogadásáról a megbízható dohánykereskedő írásbeli ajánlatának átvételét követő 30 napon belül dönt. Az ajánlat elfogadása esetén 30 napon belül megköti a koncessziós szerződést az ajánlattevővel vagy az ajánlattevő legalább többségi tulajdonában álló (e célból alapított) gazdasági társasággal.
 
 (5) Az a gazdasági társaság, amellyel e § rendelkezései szerint a dohánykiskereskedelem-ellátási tevékenység elvégzése céljából koncessziós szerződést kötöttek, e törvény alkalmazásában koncessziós társaságnak minősül.
 
@@ -177,11 +187,13 @@ Ha az ajánlattételi eljárás során nem a korábbi koncesszió jogosultja tet
 
 (2)
 
-(3) A koncessziós szerződést a kikötött időpont előtt csak a 17. § (2) bekezdésben, a 20. § (1) bekezdésben és a 21. § (3) bekezdésben meghatározott esetben, valamint a szerződésben előre rögzített feltételek bekövetkezésekor lehet felmondani.
+(3) A koncessziós szerződést a kikötött időpont előtt csak a 14/A. § (1) bekezdés a) pontjában, a 17. § (2) bekezdésében, a 20. § (1) bekezdésében és a 21. § (3) bekezdésében meghatározott esetben, valamint a szerződésben előre rögzített feltételek bekövetkezésekor lehet felmondani.
 
 (4)
 
 13. § (1) A koncesszió-köteles tevékenység gyakorlásának átengedéséről a felek visszterhes szerződésben rendelkezhetnek.
+
+(1a) A koncessziós szerződésnek rendelkeznie kell a 14/A. § (1) bekezdés a) pontja szerinti felmondási idő terjedelméről, valamint a 14/A. § (1) bekezdés c) pontja szerinti kompenzáció alapját képező gazdasági hátrányról, a kompenzáció összege megállapításának és számításának módjáról, valamint a kompenzáció iránti igény érvényesítésének részletes szabályairól.
 
 (2) Ha az ágazati törvény ellenszolgáltatásként koncessziós díj fizetését írja elő, úgy annak csak legkisebb összegét határozhatja meg. A koncessziós díj megfizetésének módjáról és mértékéről a koncessziós szerződésben kell rendelkezni.
 
@@ -191,13 +203,19 @@ Ha az ajánlattételi eljárás során nem a korábbi koncesszió jogosultja tet
 
 (2) Az állam, illetve az önkormányzat a 10/C. § (1) bekezdés b) pontja alapján megkötött koncessziós szerződés esetében a jogosult vagyoni értékű pozícióját annak beleegyezése nélkül a koncessziós szerződés időtartama alatt a szerződésben meghatározott földrajzi-közigazgatási egységen belül számára hátrányos módon csak akkor változtathatja meg, ha erre vonatkozóan a felek a koncessziós szerződésben megállapodtak.
 
+14/A. § (1) Ha a koncessziós szerződés megkötését követően e törvény rendelkezéseinek, valamint az ágazati koncessziós szabályozás megváltozása következtében a koncessziós szerződés változatlan feltételek melletti teljesítése a koncesszió jogosultjának gazdasági hátrányt vagy jogi érdeksérelmet okozna, és e törvény rendelkezéseinek, valamint az ágazati koncessziós szabályozás megváltozásának lehetősége a koncessziós szerződés megkötésének időpontjában a koncesszió jogosultja számára nem volt előrelátható, úgy a koncesszió jogosultja választása szerint
+
+- a) a koncessziós szerződést legalább három hónapos vagy azt meghaladó felmondási idő mellett felmondhatja,
+- b) a koncessziós szerződés bírósági módosítása útján a koncessziós díj arányos csökkentését kérheti, vagy
+- c) az elszenvedett gazdasági hátránnyal vagy jogi érdeksérelemmel arányos egyösszegű vagy részletekben teljesítendő pénzbeli kompenzációra tarthat igényt.
+
+(2) Az (1) bekezdés alkalmazásában ágazati koncessziós szabályozásnak minősül az állam és az Európai Unió által alkotott valamennyi jogszabály és jogi tartalmú szabályozás, így különösen a koncessziós díjra, koncessziós szerződés keretében átengedett tevékenységre vonatkozó közterhekkel kapcsolatos és más jogi szabályozás, kötelezést tartalmazó szakmai előírás, szabvány, szabályzat és belső szabályozás, továbbá nemzetközi szerződés és megállapodás, amely koncessziós szerződés alapján átengedett koncesszióköteles tevékenységre vonatkozik.
+
 15. § (1) Abban az esetben, ha a koncesszió-köteles tevékenység kizárólagos állami tulajdonhoz vagy az önkormányzati törzsvagyonhoz tartozó vagyontárgyhoz kapcsolódik, a koncessziós szerződés megkötése e vagyontárgy tulajdonjogában változást nem eredményez. Az ágazati törvény a bányászati koncessziós szerződés alapján kitermelt természeti kincs feletti tulajdonjog vonatkozásában ettől eltérő rendelkezést állapíthat meg.
 
 (2) A koncesszió-köteles tevékenységgel összefüggésben létrejött kizárólagos állami tulajdonnak vagy önkormányzati törzsvagyonnak minősülő vagyontárgy az üzembehelyezés időpontjával kerül az állam, illetőleg az önkormányzat tulajdonába a koncessziós szerződésben rögzített feltételek szerint.
 
-16. § (1) A koncessziós szerződésből eredő jogviták elbírálására — ha nemzetközi szerződés vagy a (2) bekezdésben meghatározott esetben a koncessziós szerződés másként nem rendelkezik — az általános hatáskörrel és illetékességgel rendelkező bíróság jogosult.
-
-(2) A devizajogszabályok szerint külföldinek minősülővel kötött koncessziós szerződésből eredő jogviták elbírálása során — a felek ilyen megállapodása esetén — nemzetközi választottbíróság is eljárhat.
+16. § A koncessziós szerződésből eredő jogviták elbírálása során – a felek ilyen megállapodása esetén, nemzetközi szerződés eltérő rendelkezése vagy Magyarország nemzetközi szerződésből eredő eltérő kötelezettsége hiányában – magyar és külföldi választottbíróság is eljárhat, egyébként a koncessziós szerződésből eredő jogviták elbírálására az általános hatáskörrel és illetékességgel rendelkező bíróság jogosult.
 
 17. § (1) A koncesszió-köteles tevékenység folytatására kiírt pályázat nyertesének a koncessziós szerződésben kötelezettséget kell vállalnia arra vonatkozólag, hogy a pályázati kiírás alapján a koncessziós szerződésben rögzített követelményeket az általa alapított gazdasági társaság alapító okiratában érvényesíteni fogja.
 
@@ -213,7 +231,7 @@ Ha az ajánlattételi eljárás során nem a korábbi koncesszió jogosultja tet
 
 ### A koncessziós társaság
 
-20. § (1) A koncesszió-köteles tevékenység folytatására — ha ágazati törvény eltérően nem rendelkezik — a koncessziós szerződést aláírónak az aláírástól számított kilencven napon belül saját részvételével belföldi székhelyű gazdasági társaságot (a továbbiakban: koncessziós társaság) kell alapítania. A határidő elmulasztása esetén az állam, illetve az önkormányzat a koncessziós szerződést felmondhatja.
+20. § (1) A koncesszió-köteles tevékenység folytatására — ha ágazati törvény eltérően nem rendelkezik — a koncessziós szerződést aláírónak a koncessziós szerződés koncessziós időszak kezdőidőpontját meghatározó rendelkezésének hatályba lépésétől számított kilencven napon belül saját részvételével belföldi székhelyű gazdasági társaságot (a továbbiakban: koncessziós társaság) kell alapítania. A határidő elmulasztása esetén az állam, illetve az önkormányzat a koncessziós szerződést felmondhatja.
 
 (2) Ha ágazati törvény a koncessziós szerződés létrejöttéhez az Országgyűlés jóváhagyását írja elő, úgy az (1) bekezdésben előírt határidő a jóváhagyás napján kezdődik.
 
@@ -221,7 +239,7 @@ Ha az ajánlattételi eljárás során nem a korábbi koncesszió jogosultja tet
 
 (2) A hatósági engedély visszavonása, illetőleg az illetékes államigazgatási szervnek a jogellenes állapot megszüntetéséig a koncesszió-köteles tevékenység folytatását megtiltó határozata a koncessziós szerződést nem teszi érvénytelenné.
 
-(3) Ha a koncessziós társaság a koncessziós szerződés megkötésétől, illetőleg a hatósági engedély visszavonásáról rendelkező, valamint a tevékenység gyakorlását megtiltó határozat közlésétől számított hat hónapon belül nem válik a tevékenység gyakorlására jogosulttá, az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv a koncessziós szerződést felmondhatja.
+(3) Ha a koncessziós társaság a koncessziós szerződés koncessziós időszak kezdőidőpontját meghatározó rendelkezésének hatályba lépésétől, illetőleg a hatósági engedély visszavonásáról rendelkező, valamint a tevékenység gyakorlását megtiltó határozat közlésétől számított hat hónapon belül nem válik a tevékenység gyakorlására jogosulttá, az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv a koncessziós szerződést felmondhatja.
 
 22. § A koncessziós társaság a koncesszió-köteles tevékenységen kívül kizárólag azzal szervesen összefüggő — az ágazati törvényben, illetőleg az önkormányzat döntésében meghatározott — tevékenységek gyakorlására jogosult.
 
@@ -247,9 +265,9 @@ Ha az ajánlattételi eljárás során nem a korábbi koncesszió jogosultja tet
 
 29. § (1) E törvény a kihirdetése napján lép hatályba.
 
-(2)
+(2) E törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási és pénzügyi tárgyú törvények módosításáról szóló 2020. évi CLXXIII. törvénnyel (a továbbiakban: Módtv-1.) módosított 5. §-át, 7/A. §-át, 10/A. §-át, 10/C. § (2), (4)–(9) bekezdését, 10/D. § (2) és (4) bekezdését, 20. § (1) bekezdését, 21. § (3) bekezdését, valamint a Módtv-1.-el megállapított 9/B. §-át és 30/A. §-át az e rendelkezések hatálybalépésekor folyamatban lévő koncessziós pályázati és ajánlattételi eljárásokra is alkalmazni kell.
 
-(3)
+(3) E törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási tárgyú törvények módosításáról szóló 2020. évi CLXXII. törvénnyel (a továbbiakban: Módtv-2.) módosított 10/B. §-át, 12. § (3) bekezdését, valamint a Módtv-2.-el megállapított 13. § (1a) bekezdését, 14/A. §-át, 16. §-át az e rendelkezések hatálybalépésekor folyamatban lévő koncessziós pályázati és ajánlattételi eljárásokra is alkalmazni kell.
 
 (4)
 
@@ -259,4 +277,14 @@ Ha az ajánlattételi eljárás során nem a korábbi koncesszió jogosultja tet
 
 30. § Felhatalmazást kap a Kormány, hogy a megbízható dohánykereskedővel vagy e személy legalább többségi tulajdonában álló gazdasági társasággal az ágazati törvényben meghatározott dohánykiskereskedelem-ellátási tevékenység elvégzése céljából megkötött koncessziós szerződés alapján fizetendő koncessziós díj legkisebb mértékét és fizetési ütemezését rendeletben meghatározza.
 
-31. § E törvény 11/A. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+30/A. § Felhatalmazást kap a Kormány, hogy
+
+- a) központi kormányzati igazgatási szerv vagy miniszter kijelölésére vonatkozó részletes szabályokat,
+- b) az 5. § (3) bekezdése szerinti adatszolgáltatásra vonatkozó megkeresés és a megkeresés teljesítésének részletes szabályait,
+- c) az e törvény szerinti koncessziós eljárások és a 10/A. § szerinti eljárások értékelését végző bíráló bizottság létrehozására és összetételére, valamint jogállására és működésére vonatkozó részletes szabályokat,
+- d) a koncessziós szerződés megkötését követően a koncessziós szerződés alapján az államot megillető jogok és kötelezettségek koncesszió tárgya szerint illetékes ágazati miniszter általi gyakorlása – így különösen a koncessziós szerződés végrehajtása, teljesítése és ellenőrzése – szabályait és
+- e) a 10/A. § szerinti együttes, egyidejű értékesítési eljárás és koncessziós pályázati eljárás szabályait
+
+rendeletben állapítsa meg.
+
+31. § E törvény 11/A. §-a, 14/A. §-a, valamint 16. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.

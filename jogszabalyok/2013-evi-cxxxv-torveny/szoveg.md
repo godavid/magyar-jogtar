@@ -66,7 +66,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 - c) a hitelintézetek integrációjának professzionalizálása, modernizálása, versenyképessé szervezése,
 - d) a hitelintézetek integrációja kockázatkezelésének javítása,
 - e) a hitelintézetek integrációja integrált működésének és az ehhez szükséges infrastruktúrának a biztosítása,
-- f) az a)–e) pontban foglaltak megvalósítása érdekében a működési szabályzatok egységesítése,
+- f) az a)–e) pontban foglalt célok megvalósítása érdekében a működési szabályzatok egységességének biztosítása,
 - g) a hitelintézetek integrációja intézményvédelmének biztosítása,
 - h) a hitelintézetekre vonatkozó nemzetközi és európai követelményeknek, jogszabályoknak, szabványoknak, illetve szokványoknak történő megfelelés biztosítása.
 
@@ -95,7 +95,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 (2) Az Integrációs Szervezet közgyűlése azt veheti fel az Integrációs Szervezet tagjai közé, aki
 
 - a) előzetes kötelezettségvállaló nyilatkozatot tett az integrációs üzleti irányító szervezet felé legalább egy darab, az Integrációs Szervezet igazgatósága által meghatározott névértékű, fajtájú és sorozatú, az integrációs üzleti irányító szervezet által kibocsátott részvény átvételére,
-- b) az Integrációs Szervezet igazgatósága által előzetesen elfogadott mintának megfelelő alapszabályt vagy alapító okiratot fogadott el,
+- b) az Integrációs Szervezet igazgatósága által elfogadott mintának megfelelő alapszabályt vagy alapító okiratot fogadott el,
 - c) az Integrációs Szervezet által előírt formában nyilatkozott csatlakozási szándékáról az Integrációs Szervezet felé,
 - d) tagként történő felvételével az integrációs üzleti irányító szervezet igazgatósága előzetesen egyetértett, és a Felügyelet előzetes hozzájárulását adta a tagfelvételhez, valamint
 - e) az Integrációs Szervezet tagfelvételi szabályzatának megfelel.
@@ -150,11 +150,11 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (3) A közgyűlés – a (7)–(10) bekezdésben meghatározottak figyelembevételével – a határozatait a jelen lévő tagok szavazatainak többségével hozza meg. A közgyűlésen az Integrációs Szervezet minden tagjának egy szavazata van.
 
-(4) Az Integrációs Szervezet közgyűlésén az igazgatósági tagok és a felügyelőbizottsági tagok többsége a Holding Szövetkezet által jelölt személyek közül, az Integrációs Szervezet tagjai többségének az egyetértő szavazatával választható meg.
+(4) Az Integrációs Szervezet közgyűlésén az igazgatósági tagok és a felügyelőbizottsági tagok az Integrációs Szervezet tagjai többségének az egyetértő szavazatával választhatóak meg és hívhatóak vissza.
 
-(5) A Holding Szövetkezet azt a személyt jelölheti az Integrációs Szervezet igazgatósági vagy felügyelőbizottsági tagjának, akit a Holding Szövetkezet közgyűlésén a tagok többsége vagy küldöttgyűlésén a Holding Szövetkezet küldöttjeinek többsége jelölt személyként megválasztott.
+(5)
 
-(6) A (4) bekezdés szerint megválasztott tagok visszahívásához az Integrációs Szervezet tagjai többségének az egyetértő szavazata szükséges.
+(6)
 
 (7) Az 1/A. § g) pontjában meghatározott integrációs célok megvalósulása és a Szövetkezeti Hitelintézetek Integrációs Alapja által az Integrációs Szervezet rendelkezésére bocsátott vagyon felhasználásának folyamatos figyelemmel kísérése érdekében az Integrációs Szervezet közgyűlésen tanácskozási joggal részt vesz a nemzeti pénzügyi szolgáltatásokért felelős miniszter vagy az általa kijelölt személy.
 
@@ -292,7 +292,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 - k) az integrált hitelintézetet terhelő, a jogszabályban meghatározott vagy jogszabályon alapuló Felügyelet irányába történő adatszolgáltatási és bejelentési kötelezettség Integrációs Szervezet közreműködésével történő teljesítésének eseteiről és részletes szabályairól,
 - l) a tagdíj megfizetésének rendjéről;
 - m) az egyetemlegességet érintő eljárások kezeléséről és az erre vonatkozó tájékoztatási kötelezettségről, valamint
-- n) minden olyan kérdésben, amelyben szabályzat alkotására e törvény vagy az Integrációs Szervezet alapszabálya felhatalmazza.
+- n) minden olyan tárgykörben, amelyben szabályzat alkotására e törvény vagy az Integrációs Szervezet alapszabálya felhatalmazza.
 
 (1a)
 
@@ -332,9 +332,9 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (9) Az Integrációs Szervezetnek és tagjának, valamint az Integrációs Szervezet tagjainak egymás közötti jogvitáira a választottbírósági eljárás keretében történő vitarendezés kizárt.
 
-(10)
+(10) Az Integrációs Szervezet igazgatóságának – illetve a 9. § (4) bekezdés szerinti átruházott hatáskörben eljáró ügyvezetésnek – a 3. § (4) bekezdése, a 4. § (4a) bekezdése, a 9. § (2) bekezdés e), g) és h) pontja, a 15. § (2), (3) és (11) bekezdése, a 17/E. § (6) és (7) bekezdése, a 17/S. § (1) és (10) bekezdése, valamint a 17/T. § (1) bekezdése szerinti döntéséhez az Integrációs Szervezet közgyűlésének jóváhagyása szükséges.
 
-(11)
+(11) Az Integrációs Szervezet közgyűlése felhívhatja az igazgatóságot, illetve a 9. § (4) bekezdés szerinti átruházott hatáskörben eljáró ügyvezetést az e törvényben meghatározott hatáskörébe tartozó szükséges intézkedések megtételére és döntések meghozatalára.
 
 (12)
 
@@ -611,7 +611,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
   - ac) a Felügyelet előzetes hozzájárulását követően a pénzügyi intézmény által végzett pénzügyi szolgáltatásokra, a pénzügyi intézmény által vállalt kockázatokra tekintettel az (1) bekezdésben írtnál magasabb, az Európai Parlament és a Tanács 575/2013/EU rendeletének 92. cikkében meghatározott tőkekövetelmények értékét elérő vagy meghaladó egyedi tőkekövetelményt határozhat meg;
 - b) korlátozhatja, illetőleg megtilthatja az integrált hitelintézet számára
   - ba) a tulajdonosok és az integrált hitelintézet közötti ügyleteket,
-  - bb) a Felügyelet előzetes hozzájárulását követően a betétek és más visszafizetendő források kifizetését,
+  - bb)
   - bc) a kötelezettségek vállalását;
 - c) meghatározhatja az integrált hitelintézet által kiköthető kamat legnagyobb mértékét;
 - d) kötelezheti az integrált hitelintézet igazgatóságát a legfőbb szerv összehívására, továbbá meghatározott napirendi pontok megtárgyalására és meghatározott döntések meghozatalának szükségességére hívhatja fel az igazgatóság és a legfőbb szerv figyelmét, illetve
@@ -641,7 +641,7 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 (7) Ha a (6) bekezdésben felsorolt intézkedések megtörténtek, a tulajdonosok az integrált hitelintézettel szemben beszámítással nem élhetnek.
 
-(8) A (6) bekezdésben felsorolt korlátozásokat az integrált hitelintézet igazgatósága megszüntetheti, amennyiben a tulajdonosok az intézkedések megtételére szolgáló okot az integrált hitelintézet igazgatóságának és az Integrációs Szervezet igazgatóságának egybehangzó álláspontja szerint megszüntették, vagy az integrált hitelintézet felszámolását a bíróság el nem rendeli.
+(8) A (6) bekezdésben meghatározott intézkedéseket az integrált hitelintézet igazgatósága megszüntetheti, ha a tulajdonosok az intézkedések meghozatalának alapjául szolgáló okot az integrált hitelintézet igazgatóságának és az Integrációs Szervezet igazgatóságának egybehangzó álláspontja szerint megszüntették vagy az integrált hitelintézet felszámolását a bíróság el nem rendeli.
 
 (9) Az Integrációs Szervezet az e §-ban meghatározott intézkedéseket – szükség szerint – külön-külön vagy együttesen és ismételten illetve más intézkedésekkel együtt is alkalmazhatja.
 
@@ -679,7 +679,7 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 (5)
 
-(6) Az Integrációs Szervezet a hitelintézetek integrációja céljainak és különösen a hatékony, prudens és biztonságos működés, valamint az alapszabályában meghatározott más célok megvalósítása érdekében hatáskörrel rendelkezik az integrációs üzleti irányító szervezettel előzetesen egyeztetett mintaalapszabály meghatározására és módosítására.
+(6) Az Integrációs Szervezet a hitelintézetek integrációja céljainak és a hatékony, prudens és biztonságos működésnek, valamint az alapszabályában meghatározott más céloknak a megvalósítása érdekében jogosult az integrációs üzleti irányító szervezettel előzetesen egyeztetett mintaalapszabály meghatározására és módosítására.
 
 (7) Az integrált hitelintézet alapszabálya az Integrációs Szervezet igazgatóságának előzetes jóváhagyása esetén fogadható el, módosítható, illetve, ha az Integrációs Szervezet igazgatósága új mintaalapszabályt ad ki, az integrált hitelintézet alapszabályát köteles az Integrációs Szervezet igazgatósága által meghatározott határidőn belül a mintaalapszabálynak megfelelően módosítani.
 
@@ -972,11 +972,11 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 20/E. § (1) Az Integrációs Szervezet, illetve az integrációs üzleti irányító szervezet által az e törvénynek a szövetkezeti hitelintézetek integrációjával összefüggő egyes törvények módosításáról szóló 2017. évi LXII. törvény (a továbbiakban: Mód. tv.) hatálybalépését megelőzően hatályos rendelkezései alapján kiadott intézkedés, szabályzat vagy utasítás alkalmazhatóságát nem érintik az e törvény – Mód. tv.-vel megállapított – rendelkezései, mindaddig, míg az adott tárgykörben az arra jogosult szervezet – eltérő tartalmú – intézkedést, szabályzatot vagy utasítást nem ad ki.
 
-(2) Az e törvény rendelkezéseinek megfelelő csoportszintű helyreállítási terv jóváhagyásáról a Mód. tv. hatálybalépését követő 30 napon belül köteles az Integrációs Szervezet igazgatósága dönteni.
+(2)
 
 (3)
 
-(4) E törvénynek a – Mód. tv.-vel megállapított – 1. § (5a) bekezdését a Mód. tv. hatálybalépésekor még le nem zárult eljárásokra is alkalmazni kell.
+(4)
 
 #### 20/F. §
 
@@ -990,7 +990,7 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 (3) E törvénynek – a 2. Mód. tv.-vel megállapított – 17/T. §-át a folyamatban lévő átalakításokra is alkalmazni kell.
 
-(4) Ha a 2. Mód. tv. hatálybalépését követően az Integrációs Szervezet igazgatósági tagjának vagy felügyelőbizottsági tagjának a megbízatása megszűnik, az új tag a Holding Szövetkezet által – a 6. § (5) bekezdésének alkalmazásával – jelölt személyek közül, az Integrációs Szervezet integrált hitelintézeti tagjai többségének és a Holding Szövetkezetnek az egyetértő szavazatával választható meg mindaddig, amíg az Integrációs Szervezet igazgatóságának vagy felügyelőbizottságának ily módon megválasztott tagjainak a száma el nem éri az e törvényben előírt arányt.
+(4)
 
 (5) Az MFB Zrt. Integrációs Szervezetből történő kilépéséig az e törvény 2. Mód. tv. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni az MFB Zrt. Integrációs Szervezetben fennálló tagsági jogviszonyára. Az Integrációs Szervezet közgyűlésén az Integrációs Szervezet tagjait megillető szavazatokra a 6. § (3) bekezdés 2. Mód. tv hatálybalépését megelőző napon hatályos rendelkezése irányadó az MFB Zrt. Integrációs Szervezetből történő kilépéséig.
 
