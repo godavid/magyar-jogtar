@@ -102,7 +102,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 7. belső módszer: az 575/2013/EU rendeletben belső minősítésen alapuló módszerként meghatározott fogalom;
 - 8. betét: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti betétszerződés vagy a takarékbetétről szóló 1989. évi 2. törvényerejű rendelet szerinti takarékbetét-szerződés alapján fennálló tartozás, ideértve a hitelintézetnél a fizetésiszámla-szerződés alapján fennálló pozitív számlaegyenleget is;
 - 9. betét és más, a nyilvánosságtól származó visszafizetendő pénzeszköz gyűjtése: pénzeszközök egyedileg előre meg nem határozott személyektől történő gyűjtése oly módon, hogy azzal a betétgyűjtő tulajdonosként rendelkezhet, de köteles azt – kamattal, más előny biztosításával vagy anélkül – visszafizetni;
-- 10. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik;
+- 10. csoport: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 11. csoportfinanszírozás: anyavállalatnak leányvállalatokkal vagy ez utóbbiak egymás közötti, likviditási vagy allokációs célú közösen végrehajtott pénzügyi művelete;
 - 11a. digitális tartalom: olyan áru vagy szolgáltatás, amelyet digitális formában állítanak elő és nyújtanak, illetve értékesítenek, és amelynek használata, igénybevétele meghatározott technikai eszközre korlátozódik és semmilyen formában nem jár fizikai áruk vagy szolgáltatások használatával, igénybevételével;
 - 12. dotációs tőke: a fióktelep létesítéséhez és működéséhez a létesítő által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke;
@@ -131,12 +131,10 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 29. forgatható utalvány: minden olyan, az utalványkibocsátóval szembeni pénzkövetelést megtestesítő bankjegynek, 55. pont szerinti készpénz-helyettesítő fizetési eszköznek és értékpapírnak nem minősülő, átruházható és többször felhasználható, papír alapú fizetési eszköz, amely áruk vagy szolgáltatások ellenértékének a kiegyenlítésére szolgál;
 - 30. forgatható utalvány kibocsátására irányuló tevékenység: pénzeszköz ellenében a forgatható utalványnak az utalványkibocsátó által közvetlenül vagy utalványforgalmazó útján az utalványbirtokos rendelkezésére bocsátása;
 - 31. főiroda: az a hely, ahol a pénzügyi intézmény, illetve a közvetítő főtevékenységét végzi, és ahol a központi döntéshozatal történik;
-- 32. globálisan rendszerszinten jelentős hitelintézet: olyan rendszerszinten jelentős hitelintézet, amelynek fizetésképtelenné válása vagy nem prudens működése globális szintű rendszerkockázathoz vezethet és amelynek nincs
-  - a) EU-szintű hitelintézeti anyavállalata,
-  - b) EU-szintű pénzügyi holding társaság anyavállalata,
-  - c) EU-szintű vegyes pénzügyi holding társaság anyavállalata;
+- 32. globálisan rendszerszinten jelentős hitelintézet: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 33. globálisan rendszerszinten jelentős hitelintézetekre vonatkozó tőkepuffer-követelmény: a rendszerszintű kockázatokat hordozó, globálisan tevékenykedő intézmények csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény;
 - 34. harmadik ország: az az ország, amely nem EGT-állam;
+- 34a. harmadik országbeli csoport: olyan csoport, amelynek anyavállalata harmadik országban letelepedett;
 - 35. harmadik országbeli hitelintézet: az a hitelintézet, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik olyan tevékenységek végzésére, amelyek megfeleltethetők a 3. § (1) bekezdés a), b), d), e) vagy f) pontjában foglaltaknak, és amelynek székhelye harmadik országban van;
 - 36. harmadik országbeli pénzügyi intézmény: a harmadik országbeli hitelintézet és a harmadik országbeli pénzügyi vállalkozás;
 - 37. harmadik országbeli pénzügyi vállalkozás: az a pénzügyi vállalkozás, amely a székhely állam szerinti jogszabályi rendelkezéseknek megfelelően engedéllyel rendelkezik egy vagy több olyan tevékenység végzésére, amelyek megfeleltethetők a 3. § (1) bekezdés b)–c) és g)–l) pontjában, valamint a (2) bekezdés a)–d) pontjában foglaltaknak, és amelynek székhelye harmadik országban van;
@@ -209,6 +207,8 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 81. mérlegfőösszeg: a számviteli jogszabályok által ilyenként meghatározott összeg;
 - 82. modellkockázat: a belső modellek téves kidolgozása, megvalósítása vagy használata miatti téves eredménynek a döntés során való felhasználásából fakadó potenciális veszteség;
 - 83. működési kockázat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+- 83a. nemek szempontjából semleges javadalmazási politika: a férfiak és a nők egyenlő vagy egyenlő értékű munkáért járó egyenlő díjazásának elvén alapuló javadalmazási politika;
+- 83b. nem EU-beli globálisan rendszerszinten jelentős intézmény: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 84. nem kötelező nyugdíjjuttatás: a hitelintézet által a vezető állású személynek, munkavállalónak nem kötelező alapon nyújtott, emelt nyugdíjjuttatás a munkavállaló teljesítményjavadalmazásának részeként, amely nem foglalja magában a munkavállalónak a vállalati nyugdíjrendszer feltételei alapján nyújtott felhalmozott juttatást;
 - 84a. pénz: a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott pénz;
 - 85. pénzfeldolgozási tevékenység: bankjegyek és pénzérmék tételes megszámlálása, valódiság és forgalomképesség szempontjából történő ellenőrzése, továbbá az újra forgalomba hozható bankjegykötegek és pénzérmetételek kialakítása;
@@ -250,6 +250,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 - 98. rendszerszinten jelentős intézmény: EU-szintű hitelintézeti anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat, EU-szintű vegyes pénzügyi holding társaság anyavállalat és azok a pénzügyi intézmények, amelyek fizetésképtelenné válása vagy szabálytalan működése rendszerkockázatot eredményez;
 - 99. részesedési viszony: egy személy és egy vállalkozás között létrejött olyan – ellenőrző befolyásnak nem minősülő – kapcsolat, amelynek alapján a személy – közvetlenül vagy közvetett módon – a szavazati jogok vagy a tulajdoni hányad legalább húsz százalékát birtokolja. A szavazati jogok figyelembevételénél az Szmt. vonatkozó előírásai szerint kell eljárni, függetlenül attól, hogy a személy az Szmt. hatálya alá tartozik-e;
 - 100. szabályozott piac: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+- 100a. szanálási hatóság: szanálási intézkedéseknek megfelelő intézkedés alkalmazására feljogosított hatóság;
 - 101. szavatoló tőke: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 101a. számlainformációs szolgáltatás: olyan online szolgáltatás, amely összesített információk nyújtására szolgál egy vagy több olyan fizetési számláról, amelyet a pénzforgalmi szolgáltatást igénybe vevő egy másik pénzforgalmi szolgáltatónál vagy több pénzforgalmi szolgáltatónál nyitott;
 - 102. széfszolgáltatás: az ügyféllel kötött megállapodás alapján, az ügyfél számára – állandóan őrzött – helyiségben széf rendelkezésre bocsátása, melybe értékeit az ügyfél maga helyezi el és veszi ki;
@@ -265,6 +266,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkock
 - 111. teljes kockázati kitettség: az 575/2013/EU rendeletben ekként alkalmazott fogalom;
 - 111a. tényleges tulajdonos: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben (a továbbiakban: Pmt.) ekként meghatározott fogalom;
 - 112. tőkeáttétel: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+- 112a. tőkeáttételi mutató pufferkövetelmény: az 575/2013/EU rendelet 92. cikk (1a) bekezdésében meghatározott pufferkövetelmény;
 - 113. tőkefenntartási pufferkövetelmény: a hitelintézet veszteségviselő képességének növelése érdekében kötelezően fenntartandó szavatolótőke-követelmény;
 - 114. túlzott tőkeáttétel kockázata: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 - 115. ügyvezető: a vállalkozás irányítási jogkörrel rendelkező vezető testülete által megválasztott, a vállalkozással munkaviszonyban álló elnöke, a vállalkozás vezetésére kinevezett, a vállalkozással munkaviszonyban álló első számú vezető, valamint e vezető valamennyi helyettese;
@@ -344,6 +346,12 @@ feltéve, hogy az egyszeri fizetési művelet összege nem haladja meg a tizenö
 
 (6) Nem minősül pénzügyi lízingnek az anyavállalat és a leányvállalata közötti lízing, ide nem értve a pénzügyi intézmény által kötött ilyen ügyletet.
 
+(7) Az e törvényben vagy az 575/2013/EU rendeletben megállapított követelmények vagy felügyeleti hatáskörök összevont vagy szubkonszolidált alapon, e törvénnyel és az 575/2013/EU rendelettel összhangban történő alkalmazásának biztosítása érdekében a „hitelintézet”, a „tagállami anyavállalat”, az „EU-szintű anyavállalat” és az „anyavállalat” fogalmába bele kell érteni a következőket is:
+
+- a) azok a pénzügyi holding társaságok és vegyes pénzügyi holding társaságok, amelyek a 15/A. §-nak megfelelően megkapták a Felügyelettől a külön jóváhagyást,
+- b) EU-szintű pénzügyi holding társaság anyavállalat, EU-szintű vegyes pénzügyi holding társaság anyavállalat, tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat által ellenőrzött, a 15/A. § (2) bekezdés c) pontjának megfelelően kijelölt hitelintézet, amely esetében a 15/A. § (2) bekezdése szerint az anyavállalatra nem vonatkozik a külön jóváhagyás követelménye, és
+- c) a 192/A. § d) pontja értelmében kijelölt pénzügyi holding társaság, vegyes pénzügyi holding társaság vagy hitelintézet.
+
 #### 4. A pénzügyi intézmény
 
 7. § (1) Pénzügyi intézmény a hitelintézet és a pénzügyi vállalkozás.
@@ -368,6 +376,7 @@ feltéve, hogy az egyszeri fizetési művelet összege nem haladja meg a tizenö
 - n) a 3. § (1) bekezdés j) pontján kívüli pénzletét kezeléshez kapcsolódó szolgáltatást
 - o) elektronikuspénz-értékesítői tevékenységet,
 - p) hitelintézet esetén a vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását
+- q) az általa üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást
 
 végezhet.
 
@@ -560,6 +569,21 @@ induló tőkével alapítható.
 
 (5) Kizárólag csoportfinanszírozást végző pénzügyi vállalkozásként történő működés megkezdésére vonatkozó engedély iránti kérelmet pénzügyi intézménynek nem minősülő vállalkozás az alapítása után is benyújthat azzal, hogy az engedély megadásának nem feltétele a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozat.
 
+15/A. § (1) A Felügyelet külön jóváhagyása szükséges ahhoz, hogy
+
+- a) a tagállami pénzügyi holding társaság, a tagállami vegyes pénzügyi holding társaság, az EU-szintű pénzügyi holding társaság, az EU-szintű vegyes pénzügyi holding társaság anyavállalat legyen felelős a csoport összevont alapú megfeleléséért, valamint
+- b) a pénzügyi holding társaság és a vegyes pénzügyi holding társaság legyen felelős a csoport, szubkonszolidált alapon való megfeleléséért az e törvényben és az 575/2013/EU rendeletben foglalt követelményeknek megfelelően.
+
+(2) Nem szükséges a Felügyelet (1) bekezdés szerinti külön jóváhagyása, ha
+
+- a) a pénzügyi holding társaság fő tevékenysége tulajdoni részesedés szerzése leányvállalatban, illetve a vegyes pénzügyi holding társaság pénzügyi intézményt, befektetési vállalkozást érintő fő tevékenysége tulajdoni részesedés szerzése leányvállalatban,
+- b) a pénzügyi holding társaságot vagy a vegyes pénzügyi holding társaságot nem jelölték ki szanálás alá vonható szervezetnek,
+- c) valamely hitelintézet leányvállalatát jelölték ki felelősként azért, hogy biztosítsa a prudenciális követelmények összevont alapon történő csoportszintű megfelelését, és felruházták minden eszközzel és hatáskörrel ahhoz, hogy ezen követelményeket eredményesen tudja teljesíteni,
+- d) a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság nem hoz olyan irányítási, működési vagy pénzügyi döntést, amely a csoport egészét vagy annak olyan leányvállalatát érinti, amely pénzügyi intézménynek, befektetési vállalkozásnak minősül, és
+- e) nincs semmilyen akadálya a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot tartalmazó csoport összevont alapú felügyeletének.
+
+(3) A (2) bekezdés esetén a pénzügyi holding társaság és a vegyes tevékenységű holding társaság a Felügyelet rendelkezésére bocsátja azon információkat, amelyek ahhoz szükségesek, hogy a Felügyelet nyomon tudja követni a csoport szervezeti felépítését, valamint e § és a 31/A. § teljesülését. A Felügyelet megosztja ezeket az információkat a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság székhelye szerinti EGT-állam illetékes hatóságával.
+
 16. § A Felügyelet az e törvényben meghatározott engedélyt határozott időre, feltételhez kötötten, valamint korlátozott tevékenységi körrel, területi korlátozással, a pénzügyi szolgáltatási tevékenységen belül pedig üzletági vagy termékkorlátozással is megadhatja.
 
 17. § (1) A betétállomány és más visszafizetendő pénzeszköz, valamint pénzforgalmi szolgáltatási keretszerződés-állomány – az átadó és az átvevő hitelintézet közötti megállapodás alapján – a Felügyelet engedélyével átruházható. Az állományátruházás során a Ptk. szerződésátruházásra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy az állományátruházás esetén a szerződés biztosítékai nem szűnnek meg, továbbá az állományátruházáshoz nem szükséges a szerződésben maradó fél jognyilatkozata. A Felügyelet engedélye nem helyettesíti a Gazdasági Versenyhivatalnak a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény szerinti engedélyét.
@@ -646,7 +670,7 @@ induló tőkével alapítható.
 
 (3) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
-(4) Ha az alapítók között befolyásoló részesedést szerezni kívánó külföldi székhelyű pénzügyi intézmény, biztosítóintézet vagy befektetési társaság van, az (1)–(2) bekezdésben foglaltakon kívül az engedély iránti kérelemhez benyújtja a székhely szerinti ország illetékes felügyeleti hatóságának igazolását, vagy nyilatkozatát arról, hogy a vállalkozás a prudens tevékenység végzésére vonatkozó szabályokat betartva működik.
+(4) Ha az alapítók között befolyásoló részesedést szerezni kívánó külföldi székhelyű pénzügyi intézmény, biztosító vagy befektetési vállalkozás van, az (1)–(2) bekezdésben foglaltakon kívül az engedély iránti kérelemhez benyújtja a székhely szerinti ország illetékes felügyeleti hatóságának igazolását, vagy nyilatkozatát arról, hogy a vállalkozás a prudens tevékenység végzésére vonatkozó szabályokat betartva működik.
 
 (5) A pénzügyi holding társaság az engedély iránti kérelméhez mellékeli
 
@@ -655,6 +679,16 @@ induló tőkével alapítható.
 - c) nyilatkozatot arra vonatkozóan, hogy a tevékenységét mikor kívánja megkezdeni,
 - d) nyilatkozatát arról, hogy a jogszabályban meghatározott vagy jogszabályon alapuló adatszolgáltatások teljesítésére felkészült, valamint az adatszolgáltatáshoz szükséges számítógépes programok tesztfuttatásait,
 - e) nyilatkozatot arról, hogy a holdinghoz tartozó pénzügyi intézmény a felügyelete érdekében szükséges adatot, tényt, információt, megoldást a Felügyelet rendelkezésére bocsátja.
+
+(5a) A pénzügyi holding társaság, vegyes pénzügyi holding társaság működésének 15/A. § szerinti jóváhagyásához a kérelmező mellékeli
+
+- a) a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot magába foglaló csoport szervezeti felépítését, feltüntetve a leányvállalatokat, anyavállalatokat, valamint a csoportba tartozó összes szervezet által folytatott tevékenységek típusát és helyét,
+- b) a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot ténylegesen irányító legalább két személy kinevezéséről, megválasztásáról szóló igazolást,
+- c) a (2) bekezdésben foglaltakat, ha a pénzügyi holding társaság, vegyes pénzügyi holding társaság hitelintézet leányvállalattal rendelkezik,
+- d) a csoport belső szervezeti felépítését és a feladatok csoporton belüli megosztását, és
+- e) minden olyan információt, amely a 15/A. §-ban és 31/A. §-ban meghatározott értékeléshez szükséges.
+
+(5b) Ha a pénzügyi holding társaság vagy vegyes pénzügyi holding társaság 15/A. § szerinti jóváhagyására a befolyásoló részesedése megszerzésének engedélyezésével egyidejűleg kerül sor, a Felügyelet egyeztet a csoporthoz tartozó vállalkozások illetékes felügyeleti hatóságaival. Ha a befolyásoló részesedés megszerzését a Felügyelet engedélyezi, a befolyásoló részesedés megszerzésének engedélyezésére vonatkozó értékelését húsz munkanapot meghaladó időtartamra felfüggeszti, mindaddig, amíg a 173/A. §-ban meghatározott eljárás le nem zárul.
 
 (6) Alapítási engedély alapján a hitelintézet a banküzem létesítésével kapcsolatos tevékenységet végezhet.
 
@@ -702,7 +736,7 @@ induló tőkével alapítható.
 - j) valamely, a hitelintézetek közötti fizetési rendszerhez való közvetlen csatlakozásról szóló nyilatkozatot és a csatlakozást biztosító informatikai rendszer könyvvizsgálói igazolását, vagy a közvetve történő csatlakozás elfogadásáról adott nyilatkozatot,
 - k) a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásról szóló nyilatkozatot,
 - l) a hitelintézet likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó, a hitelintézet igazgatósága által elfogadott eljárás rendjét és – ha a hitelintézetre nem terjed ki az összevont alapú felügyelet – a 114. §-ban meghatározott egyedi helyreállítási tervét,
-- m) a szervezeti felépítését, az irányítási, döntési és ellenőrzési rendjét és a szervezeti és működési szabályzatát, ha ezeket az alapító okirat részletesen nem tartalmazza,
+- m) a szervezeti felépítését, amelyben szerepeltetni kell a csoporton belüli anyavállalatot, pénzügyi holding társaságot és vegyes pénzügyi holding társaságot is, az irányítási, döntési és ellenőrzési rendjét, a vállalatirányítási rendszer és a kockázatkezelési eljárások és mechanizmusok leírását és a szervezeti és működési szabályzatát, ha ezeket az alapító okirat részletesen nem tartalmazza,
 - n) szövetkezeti hitelintézet esetében a Szhitv.-ben meghatározott Integrációs Szervezethez benyújtott, csatlakozásról szóló nyilatkozatot,
 - o) harmadik országbeli hitelintézet fióktelepe esetén, ha az a Felügyelet e törvény szerinti engedélye alapján nem csatlakozik az OBA-hoz,
   - oa) az ügyfelek – biztosított betéti formákról történő – magyar nyelvű tájékoztatására vonatkozó kötelezettségvállalását,
@@ -822,10 +856,28 @@ induló tőkével alapítható.
 - a) esetében az (1) bekezdésben említett valamely elutasítási ok fennáll,
 - b) a szükséges személyi és tárgyi feltételekkel nem rendelkezik,
 - c) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a prudens működésre vonatkozó jogszabályi előírásoknak.
+- d) vállalatirányítási rendszerre, kockázatkezelési eljárásra és mechanizmusra vonatkozó leírása alapján azok nem alkalmasak a hatékony és eredményes kockázatkezelésre.
 
 #### 17. A hitelintézet alapítási engedélye érvényességének határideje
 
 31. § A hitelintézet alapítását engedélyező határozat érvényét veszti, ha a tevékenységi engedély iránti kérelmet a határozat kézhezvételétől számított hat hónapon belül a hitelintézet nem nyújtja be a Felügyelethez. A határidő elmulasztása miatt igazolásnak helye nincs.
+
+#### 17/A. Pénzügyi holding társaság, vegyes pénzügyi holding társaság jóváhagyása
+
+31/A. § (1) A Felügyelet a pénzügyi holding társaságnak és a vegyes pénzügyi holding társaságnak a 15/A. § szerinti külön jóváhagyást kizárólag akkor adja meg, ha
+
+- a) a csoporton belüli belső szabályok és feladatmegosztás alkalmas annak biztosítására, hogy a csoport összevont vagy szubkonszolidált alapon megfeleljen az e törvényben és az 575/2013/EU rendeletben foglalt követelményeknek, így különösen biztosított
+  - aa) a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság valamennyi leányvállalata közötti koordináció, szükség esetén a feladatoknak a leányvállalatok közötti megfelelő megosztásával,
+  - ab) a csoporton belüli konfliktusok megelőzése és kezelése, és
+  - ac) a pénzügyi holding társaság vagy vegyes pénzügyi holding társaság által meghatározott csoportszintű előírások végrehajtása az egész csoportban,
+- b) a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot tartalmazó csoport szervezeti felépítése nem hátráltatja, illetve egyéb módon nem akadályozza a leány- vagy anyavállalatok egyedi, összevont vagy adott esetben szubkonszolidált alapon teljesítendő kötelezettségeinek hatékony felügyeletét,
+- c) teljesülnek a befolyásoló részesedés megszerzésének engedélyezési feltételei.
+
+(2) Az (1) bekezdés b) pontjának alkalmazásában különösen az alábbiakat kell figyelembe venni:
+
+- a) azt, hogy a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság milyen helyet foglal el a többszintű csoporton belül,
+- b) a tulajdonosi struktúrát, és
+- c) a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság csoporton belül betöltött szerepét.
 
 #### 18. Az engedély visszavonása és visszaadása
 
@@ -835,7 +887,7 @@ induló tőkével alapítható.
 - b) a pénzügyi intézmény – törvény által – tiltott tevékenységet folytat,
 - c) az alapítási engedély tekintetében valamennyi pénzügyi intézmény, ezen kívül a hitelintézet a tevékenységi engedély tekintetében a kézhezvételétől számított tizenkét hónapon belül a tevékenységét nem kezdi meg,
 - d) a pénzügyi intézmény hat hónapon keresztül nem folytat pénzügyi szolgáltatási tevékenységet,
-- e) a pénzügyi intézmény már nem felel meg e törvény vagy – a prudens működésre vonatkozó – más jogszabályban foglalt rendelkezéseknek,
+- e) a pénzügyi intézmény már nem felel meg e törvény vagy a prudens működésre vonatkozó más jogszabályban, az 575/2013/EU rendelet harmadik, negyedik vagy hatodik részében – ide nem értve a 92a. és 92b. cikket – foglalt rendelkezéseknek,
 - f) a pénzügyi intézmény több alkalommal súlyosan megsértette a számvitelre, a független és megbízható irányításra, illetve ellenőrzésre vonatkozó, továbbá az e törvényben, valamint a prudens működésre vonatkozó más jogszabályokban, illetve a Felügyelet határozataiban foglalt előírásokat,
 - g) olyan körülmény áll fenn, amely miatt a pénzügyi intézmény működése súlyosan veszélyezteti vagy sérti az ügyfelek érdekeit, akadályozhatja a pénzforgalmat, illetve a pénz- és tőkepiac megfelelő működését,
 - h) a fióktelep engedélyezéséhez kapcsolódó feltételek valamelyike már nem teljesül, vagy
@@ -853,6 +905,7 @@ induló tőkével alapítható.
 
 - a) esetében fennáll a veszélye annak, hogy nem tud eleget tenni kötelezettségeinek,
 - b) a nem vitatott tartozását az esedékességét követő öt napon belül nem egyenlítette ki, és vagyona (eszközei) az ismert hitelezők követelésének kielégítésére sem nyújtana fedezetet.
+- c) esetében teljesülnek a Szantv. 17. § (1) bekezdés a) és b) pontjában meghatározott feltételek, de a szanálási feladatkörében eljáró MNB megítélése szerint a hitelintézet szanálását közérdek nem indokolja.
 
 (2) A Felügyelet visszavonja a hitelintézet tevékenységi engedélyét, ha
 
@@ -1169,7 +1222,10 @@ azzal, hogy ha a követelések kielégítésére nincs elegendő fedezet, az egy
 
 pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügyletet tartalmazó, hitelviszonyt megtestesítő instrumentumoknak.
 
-(2) Hitelintézet felszámolása esetén az 575/2013/EU rendeletben meghatározott alárendelt kölcsöntőkéből eredő tartozást a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően szükséges kielégíteni.
+(2) Pénzügyi intézmény, vegyes pénzügyi holding társaság és vegyes tevékenységű holding társaság felszámolása esetén
+
+- a) ha egy instrumentumot csak részben ismernek el szavatoló tőke elemként, akkor a teljes instrumentum szavatoló tőkéből származó követelésnek tekintendő,
+- b) az 575/2013/EU rendeletben meghatározott járulékos tőkeelemből eredő tartozást a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően szükséges kielégíteni.
 
 (3) A felszámolás során tartott egyezségi tárgyaláson az állam és az OBA képviselője – az általuk biztosított betétek tekintetében és értékében – hitelezőként vesznek részt, jogosultak megtenni az egyezség létrejöttéhez szükséges engedményeket.
 
@@ -1467,8 +1523,8 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 (2) A hitelintézet – a mindenkori fizetőképesség (szolvencia) fenntartása és a kötelezettségek teljesíthetősége érdekében – az általa végzett tevékenység kockázatának fedezetét mindenkor biztosító megfelelő nagyságú szavatoló tőkével rendelkezik, amely legalább
 
 - a) az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelmény,
-- b) a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény, valamint
-- c) összegének értéke azzal, hogy az összeg nem lehet kevesebb az engedélyezés feltételeként előírt legkisebb jegyzett tőke értékénél.
+- b) a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény
+- c) összegének értéke azzal, hogy az összeg nem lehet kevesebb az engedélyezés feltételeként előírt legkisebb induló tőke értékénél.
 
 (3) A hitelintézet a forrásgyűjtését és eszközkihelyezését likviditása folyamatos fenntartása mellett végzi.
 
@@ -1480,7 +1536,7 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 
 #### 36. Saját tőke
 
-80. § (1) A pénzügyi intézmény saját tőkéjének összege nem lehet kevesebb az e törvényben az engedélyezés feltételeként előírt legkisebb jegyzett tőke összegénél.
+80. § (1) A pénzügyi intézmény saját tőkéjének összege nem lehet kevesebb az e törvényben az engedélyezés feltételeként előírt legkisebb induló tőke összegénél.
 
 (2) Ha a pénzügyi intézmény saját tőkéjének összege az (1) bekezdésben előírt legalacsonyabb szint alá csökken, a saját tőke feltöltésére a Felügyelet legfeljebb tizennyolc hónapra meghatározott időt biztosíthat.
 
@@ -1530,11 +1586,35 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 
 85/A. § A pénzügyi intézménynek a kölcsön, illetve kezesség és bankgarancia, valamint egyéb bankári kötelezettség fedezetéül szolgáló termőföld hitelbiztosítéki értékét a termőföld hitelbiztosítéki értéke meghatározásának módszertani elveiről szóló miniszteri rendeletben meghatározott szabályoknak megfelelően kell megállapítania.
 
+#### 40/A. Tőke ajánlás
+
+85/B. § (1) A Felügyelet tőke ajánlást állapít meg a hitelintézetnek.
+
+(2) A tőke ajánlásban meghatározott szavatoló tőke összege az 575/2013/EU rendelet Harmadik, Negyedik és Hetedik Része, az (EU) 2017/2402 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2402 rendelet] 2. fejezete, a felügyeleti felülvizsgálat és értékelés alapján megállapítandó többlettőke-követelményre vonatkozó rendelkezések, a kombinált pufferkövetelményre vonatkozó rendelkezések vagy – adott esetben – az 575/2013/EU rendelet 92. cikk (1a) bekezdése értelmében előírt szavatoló tőke összeget meghaladó azon szavatoló tőke összeg, amely szükséges a felügyeleti felülvizsgálat és értékelés, valamint a stressz teszt forgatókönyvek alapján megfelelőnek tartott teljes szavatoló tőke összegének eléréséhez.
+
+(3) A tőke ajánlást hitelintézet-specifikusan kell meghatározni. Az ajánlásban meghatározott tőkemennyiség csak akkor fedezheti a felügyeleti felülvizsgálat és értékelés alapján előírt többlettőke-követelmény által már fedezett kockázatot, ha a kockázat olyan elemére vonatkozik, amelyet az előírt többlettőke-követelmény összege nem fedez.
+
+(4) A túlzott tőkeáttételi kockázattól eltérő kockázat kezelése céljából megállapított tőke ajánlásnak való megfelelés érdekében felhasznált szavatoló tőke nem használható fel
+
+- a) az 575/2013/EU rendelet 92. cikk (1) bekezdés a), b) és c) pontjában meghatározott tőke követelménynek,
+- b) a felügyeleti felülvizsgálat és értékelés alapján megállapított, a túlzott tőkeáttételi kockázattól eltérő kockázat kezelése céljából előírt tőkekövetelménynek, valamint
+- c) a kombinált pufferkövetelménynek
+
+való megfelelés céljára.
+
+(5) A túlzott tőkeáttételi kockázat kezelése céljából megállapított tőke ajánlásnak való megfelelés érdekében felhasznált szavatoló tőke nem használható fel
+
+- a) az 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontjában meghatározott tőke követelménynek,
+- b) a felügyeleti felülvizsgálat és értékelés alapján megállapított, a túlzott tőkeáttételi kockázat kezelése céljából előírt tőkekövetelménynek, valamint
+- c) az 575/2013/EU rendelet 92. cikk (1a) bekezdése szerinti tőkeáttételi mutató puffer-követelménynek
+
+való megfelelés céljára.
+
 #### 41. Tőkefenntartási puffer
 
-86. § (1) A hitelintézet az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelményen felül tőkefenntartási puffert képez.
+86. § (1) A hitelintézet az 575/2013/EU rendelet 92. cikk (1) bekezdés a), b) és c) pontjában meghatározott minimum tőkekövetelményen felül tőkefenntartási puffert képez.
 
-(2) A hitelintézet a tőkefenntartási puffert elsődleges alapvető tőkéből – az 575/2013/EU rendelet 1. rész II. címében meghatározottak szerint – egyedi és összevont alapon képzi, amelynek értéke a teljes kockázati kitettségérték 2,5 százaléka.
+(2) A hitelintézet a tőkefenntartási puffert elsődleges alapvető tőkéből – az 575/2013/EU rendelet Első Rész II. címében meghatározottak szerint – egyedi és összevont alapon képzi, amelynek értéke a teljes kockázati kitettségérték 2,5 százaléka.
 
 (3) A tőkefenntartási puffer nem használható fel a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény teljesítésére.
 
@@ -1561,7 +1641,7 @@ kapcsolódik.
 - a) 0 százalék vagy
 - b) 0,25 százalék valamely egész számértékkel szorzott többszöröse lehet.
 
-(7) A (6) bekezdéstől eltérve, a hitelintintézet számára a makroprudenciális feladatkörében eljáró MNB 2,5 százalékot meghaladó anticiklikus tőkepufferrátát is meghatározhat, ha a gazdaságban jelentős a hitel-betét arány vagy a hitel-GDP arány kedvezőtlen folyamatain túlmenően a makrogazdasági környezet jelentős kedvezőtlen tendenciát mutat.
+(7) A (6) bekezdéstől eltérve, a hitelintézet számára a makroprudenciális feladatkörében eljáró MNB 2,5 százalékot meghaladó anticiklikus tőkepufferrátát is meghatározhat, ha a gazdaságban jelentős a hitel-betét arány vagy a hitel-GDP arány kedvezőtlen folyamatain túlmenően a makrogazdasági környezet jelentős kedvezőtlen tendenciát mutat.
 
 88. § (1) Ha a hitelintézet EGT-államban végzett tevékenységének helye szerinti EGT-állam erre kijelölt hatósága az anticiklikus tőkepufferráta mértékét legfeljebb 2,5 százalék mértékben határozza meg, akkor a hitelintézet az intézményspecifikus anticiklikus tőkepuffer meghatározása során az adott EGT-államban lévő féllel szembeni kitettsége tekintetében az adott EGT-állam erre kijelölt hatósága által megállapított anticiklikus tőkepufferrátát alkalmazza.
 
@@ -1590,6 +1670,11 @@ mértékű anticiklikus tőkepufferáta alkalmazására az adott EGT-államban v
 - d) a csoport összetettsége,
 - e) a csoport határon átnyúló tevékenysége, ideértve az EGT-államban és harmadik országban nyújtott szolgáltatását is.
 
+(2a) A globálisan rendszerszinten jelentős hitelintézetek kiegészítő meghatározása során a makroprudenciális feladatkörében eljáró MNB a következő szempontokat azonos arányban veszi figyelembe és kiegészítő pontszám meghatározásával számszerűen fejezi ki:
+
+- a) a (2) bekezdés a)–d) pontjában meghatározott szempontokat és
+- b) a csoport határon átnyúló tevékenységét, ide nem értve a hitelintézeteknek és bizonyos befektetési vállalkozásoknak az Egységes Szanálási Mechanizmus keretében történő szanálására vonatkozó egységes szabályok és egységes eljárás kialakításáról, valamint az Egységes Szanálási Alap létrehozásáról és az 1093/2010/EU rendelet módosításáról szóló, 2014. július 15-i 806/2014/EU európai parlamenti és tanácsi rendelet 4. cikke szerinti egységes felügyeleti mechanizmusban részt vevő tagállamok közötti viszonylatot.
+
 (3) A makroprudenciális feladatkörében eljáró MNB meghatározza, és évente felülvizsgálja a Magyarországon székhellyel rendelkező, egyéb rendszerszinten jelentős hitelintézetek körét egyedi, szubkonszolidált vagy összevont alapon, és a Felügyelet folyamatosan figyelemmel kíséri azok működését.
 
 (4) Az egyéb rendszerszinten jelentős hitelintézetek meghatározása során a makroprudenciális feladatkörében eljáró MNB legalább a következő szempontok valamelyikét veszi figyelembe:
@@ -1601,101 +1686,99 @@ mértékű anticiklikus tőkepufferáta alkalmazására az adott EGT-államban v
 
 (5) A globálisan és egyéb rendszerszinten jelentős hitelintézetek meghatározásának módszertanára vonatkozó adatok nem nyilvánosak.
 
-(6) Ha a makroprudenciális feladatkörében eljáró MNB az (1) bekezdés alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős hitelintézetekre vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt 1 hónappal tájékoztatnia kell az érintett tagállamok illetékes és kijelölt hatóságait a következőkről:
+(6) Ha a makroprudenciális feladatkörében eljáró MNB az (1) bekezdés alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős hitelintézetekre vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt egy hónappal, az Európai Bizottság engedélyéhez kötött határozat esetén a határozat nyilvánosságra hozatala előtt három hónappal tájékoztatnia kell az Európai Rendszerkockázati Testületet
 
-- a) indokolás arról, hogy várhatóan miért fogja a tőkepuffer hatékonyan és arányosan csökkenteni az egyéb rendszerszinten jelentős hitelintézetek rendszerszintű kockázatát,
-- b) a tőkepuffer belső piacra gyakorolt várható hatása,
-- c) az egyéb rendszerszinten jelentős hitelintézetekre vonatkozó tőkepufferráta mértéke.
+- a) arról, hogy várhatóan miért fogja a tőkepuffer hatékonyan és arányosan csökkenteni az egyéb rendszerszinten jelentős hitelintézetek rendszerszintű kockázatát,
+- b) a tőkepuffer belső piacra gyakorolt várható hatásáról, és
+- c) az egyéb rendszerszinten jelentős hitelintézetekre vonatkozó tőkepufferráta mértékéről.
 
 (7) A globálisan rendszerszinten jelentős hitelintézet összevont alapon globálisan rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffert tart fenn az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelményen, a tőkefenntartási pufferen, az intézményspecifikus anticiklikus tőkepufferen és a felügyeleti felülvizsgálat keretében előírt többlettőke-követelményen felül.
 
 (8) A hitelintézet a (7) bekezdésben meghatározott tőkepuffert elsődleges alapvető tőkéből képzi, amelynek összege a globálisan rendszerszinten jelentős hitelintézet (9) bekezdésben meghatározott alkategórába való besorolásától függően kerül meghatározásra.
 
-(9) A globálisan rendszerszinten jelentős hitelintézeteket a makroprudenciális feladatkörében eljáró MNB legalább öt alkategóriába sorolja. Az alkategóriák közötti határértékek egyértelműen meghatározottak. A legalacsonyabb alkategóriába a rendszerszinten legkevésbé jelentős hitelintézetet kell sorolni azzal, hogy alkategóriánként azonos mértékben növekedik a rendszerszintű jelentőség mértéke. A makroprudenciális feladatkörében eljáró MNB évente felülvizsgálja a hitelintézetek alkategóriákba való besorolását.
+(9) A globálisan rendszerszinten jelentős hitelintézeteket a makroprudenciális feladatkörében eljáró MNB a (2) bekezdés alkalmazásával legalább öt alkategóriába sorolja. Az alkategóriák közötti határértékek egyértelműen meghatározottak. A legalacsonyabb alkategóriába a rendszerszinten legkevésbé jelentős hitelintézetet kell sorolni azzal, hogy alkategóriánként azonos mértékben növekedik a rendszerszintű jelentőség mértéke. A makroprudenciális feladatkörében eljáró MNB évente felülvizsgálja a hitelintézetek alkategóriákba való besorolását.
 
-(10) A legalacsonyabb alkategóriába tartozó hitelintézet az 575/2013/EU rendelet 92. cikke szerinti teljes kockázati kitettségérték 1 százalékának megfelelő, globálisan rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffert képez. Az egyes alkategóriákba sorolt hitelintézetekre vonatkozó tőkepufferráta a negyedik alkategóriáig bezárólag 0,5 százalékponttal növekszik azzal, hogy a legmagasabb alkategóriába tartozó hitelintézetre 3,5 százalékos tőkepufferráta vonatkozik.
+(10) A legalacsonyabb alkategóriába tartozó hitelintézet az 575/2013/EU rendelet 92. cikke szerinti teljes kockázati kitettségérték 1 százalékának megfelelő, globálisan rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffert képez. Az egyes alkategóriákba sorolt hitelintézetekre vonatkozó tőkepufferráta – az ötödik, valamint minden további, annál magasabb alkategória kivételével – 0,5 százalékponttal növekszik.
 
 (11) A makroprudenciális feladatkörében eljáró MNB a hatékony felügyelet sérelme nélkül
 
-- a) egy adott globálisan rendszerszinten jelentős hitelintézetet alacsonyabb alkategóriából magasabb alkategóriába sorolhat, és
-- b) a hitelintézetet, amely nem érte el a legalacsonyabb alkategóriára vonatkozó határértéket, valamely alkategóriába sorolhatja és ezáltal globálisan rendszerszinten jelentős hitelintézetnek minősítheti.
+- a) egy adott globálisan rendszerszinten jelentős hitelintézetet alacsonyabb alkategóriából magasabb alkategóriába sorolhat,
+- b) a hitelintézetet, amely nem érte el a legalacsonyabb alkategóriára vonatkozó határértéket, valamely alkategóriába sorolhatja és ezáltal globálisan rendszerszinten jelentős hitelintézetnek minősítheti, és
+- c) egy adott globálisan rendszerszinten jelentős hitelintézetet a (2a) bekezdés szerinti kiegészítő meghatározás alapján magasabb alkategóriából alacsonyabb alkategóriába sorolhat.
 
 90. § (1) Az MNB tv. alapján meghatározott, egyéb rendszerszinten jelentős hitelintézet egyedi, szubkonszolidált vagy összevont alapon egyéb rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffert tart fenn az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelményen, a tőkefenntartási pufferen, az anticiklikus tőkepufferen és a felügyeleti felülvizsgálat keretében előírt többlettőke-követelményen felül.
 
 (2) Az (1) bekezdésben meghatározott tőkepuffer összegét elsődleges alapvető tőkéből kell képezni, amelynek mértékét a makroprudenciális feladatkörében eljáró MNB a (3) bekezdésben meghatározottakkal összhangban határozza meg.
 
-(3) Az (1) bekezdés szerinti tőkepuffer-követelmény az 575/2013/EU rendelet 92. cikkében meghatározott teljes kockázati kitettségérték legfeljebb 2 százaléka azzal, hogy
+(3) Az (1) bekezdés szerinti tőkepuffer-követelmény – a (4) bekezdésben meghatározott eltéréssel – az 575/2013/EU rendelet 92. cikkében meghatározott teljes kockázati kitettségérték legfeljebb 3 százaléka azzal, hogy
 
 - a) a tőkepuffer nem járhat aránytalan mértékű negatív hatással az EGT-államban vagy az EGT-államok összességében a pénzügyi közvetítőrendszer egészére vagy részére nézve, és
 - b) a makroprudenciális feladatkörében eljáró MNB legalább évente felülvizsgálja a tőkepufferráta mértékét.
 
+(4) Az Európai Bizottság engedélyével a makroprudenciális feladatkörében eljáró MNB az egyéb rendszerszinten jelentős hitelintézet számára egyedi, szubkonszolidált vagy összevont alapon az 575/2013/EU rendelet 92. cikkében meghatározott teljes kockázati kitettségérték 3 százalékánál nagyobb tőkepuffer tartását is előírhatja.
+
 91. § Ha valamely egyéb rendszerszinten jelentős hitelintézet egy globálisan rendszerszinten jelentős hitelintézet leányvállalata vagy egy olyan egyéb rendszerszinten jelentős hitelintézet leányvállalata, amelyre összevont alapon alkalmazandó az egyéb rendszerszinten jelentős hitelintézetekre vonatkozó tőkepuffer-követelmény, akkor az egyéb rendszerszinten jelentős hitelintézetre egyedi vagy szubkonszolidált alapon alkalmazandó tőkepuffer-követelmény szintje nem haladhatja meg
 
-- a) az 575/2013/EU rendelet 92. cikkében meghatározott teljes kockázati kitettségérték 1 százaléka vagy
-- b) a globálisan vagy egyéb rendszerszinten jelentős hitelintézetre összevont alapon alkalmazandó, egyéb rendszerszinten jelentős hitelintézetre vonatkozó vagy globálisan rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffer-követelmény
+- a) a csoportra összevont alapon alkalmazandó, a globálisan rendszerszinten jelentős hitelintézetre vagy az egyéb rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffer-követelmény mértéke közül a magasabb mérték és az 575/2013/EU rendelet 92. cikkében meghatározott teljes kockázati kitettségérték 1 százalékának összege, vagy
+- b) az 575/2013/EU rendelet 92. cikkében meghatározott teljes kockázati kitettségérték 3 százaléka, vagy az Európai Bizottság 90. § (4) bekezdésével összhangban engedélyezett, a csoportra összevont alapon alkalmazandó mérték
 
-közül a magasabb értéket.
+közül az alacsonyabb értéket.
 
 #### 44. Rendszerkockázati tőkepuffer
 
-92. § (1) A makroprudenciális feladatkörében eljáró MNB határozata alapján a hitelintézet egyedi, szubkonszolidált vagy összevont alapon rendszerkockázati tőkepuffert képez a (6) bekezdésben foglalt eltéréssel
+92. § (1) A makroprudenciális feladatkörében eljáró MNB határozata alapján a hitelintézet egyedi, szubkonszolidált vagy összevont alapon a 4. mellékletben meghatározott számítási mód alapján rendszerkockázati tőkepuffert képez az összes kitettségére vagy a kitettségei (2) bekezdésben meghatározott valamely alcsoportjaira.
 
-- a) a Magyarországon lévő féllel szembeni kitettségeire,
-- b) az EGT-államban lévő féllel szembeni kitettségeire, és
-- c) a harmadik országban lévő féllel szembeni kitettségeire.
+(2) A rendszerkockázati tőkepuffer vonatkozhat
 
-(2) Ha a makroprudenciális feladatkörében eljáró MNB az MNB tv. 35/A. § (1) bekezdése alapján rendszerkockázati tőkepufferrátát határoz meg, akkor
+- a) a Magyarországon lévő féllel szemben fennálló összes kitettségre;
+- b) a Magyarországon lévő féllel szemben fennálló
+  - ba) természetes személyekkel szembeni, lakóingatlannal fedezett összes kitettségre,
+  - bb) üzleti ingatlanra bejegyzett zálogjoggal fedezett, jogi személyekkel szembeni összes kitettségre,
+  - bc) a bb) alpont kivételével a jogi személyekkel szembeni összes kitettségre,
+  - bd) a ba) alpont kivételével a természetes személyekkel szembeni összes kitettségre;
+- c) a más EGT-államban lévő féllel szemben fennálló összes kitettségre;
+- d) más EGT-államban lévő féllel szemben fennálló b) pont szerint azonosított ágazati kitettségre a másik EGT-államban megállapított rendszerkockázati pufferráta elismerése céljából;
+- e) a harmadik országban lévő féllel szemben fennálló kitettségre;
+- f) a b) pontban azonosított bármely kitettség kategória alcsoportjaira.
 
-- a) a rendszerkockázati tőkepuffer nem járhat aránytalan mértékű negatív hatással az EGT-államban vagy az EGT egészében a pénzügyi közvetítőrendszer egészére vagy részére nézve, és
-- b) az MNB legalább kétévente felülvizsgálja a tőkepufferráta mértékét.
+(3) Ha a makroprudenciális feladatkörében eljáró MNB rendszerkockázati tőkepufferrátát határoz meg, akkor
 
-(3) A hitelintézet a rendszerkockázati tőkepuffert elsődleges alapvető tőkéből képzi az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelményen, a tőkefenntartási pufferen, az intézményspecifikus anticiklikus tőkepufferen és a felügyeleti felülvizsgálat keretében előírt többlettőke-követelményen felül.
+- a) a rendszerkockázati tőkepuffer nem járhat aránytalan mértékű negatív hatással az EGT-államban vagy az EGT egészében a pénzügyi közvetítőrendszer egészére vagy részére nézve, akadályt képezve vagy teremtve ezáltal a belső piac megfelelő működése szempontjából,
+- b) legalább kétévente felülvizsgálja a tőkepufferráta mértékét, és
+- c) a rendszerkockázati tőkepuffer nem alkalmazható az anticiklikus tőkepuffer, valamint a globálisan és egyéb rendszerszinten jelentős hitelintézetekre vonatkozó tőkepuffer által figyelembe vett kockázatra.
 
-(4) A rendszerkockázati tőkepufferráta mértékét a makroprudenciális feladatkörében eljáró MNB határozza meg az (5) bekezdésben meghatározottak szerint.
+(4) A hitelintézet a rendszerkockázati tőkepuffert elsődleges alapvető tőkéből képzi az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelményen, a tőkefenntartási pufferen, az intézményspecifikus anticiklikus tőkepufferen és a felügyeleti felülvizsgálat keretében előírt többlettőke-követelményen felül.
 
-(5) A rendszerkockázati tőkepufferráta mértéke legalább 1 százalék azzal, hogy ez a százalékérték a növekvő érték meghatározásakor 0,5 százalékponttal vagy annak valamely egész számértékkel szorzott többszörösével növekedhet.
+(5) A rendszerkockázati tőkepufferráta mértékét a makroprudenciális feladatkörében eljáró MNB határozza meg a (6) bekezdésben meghatározottak szerint.
 
-(6) Az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozó hitelintézet számára a makroprudenciális feladatkörében eljáró MNB határozatban előírhatja, hogy egyedi és összevont alapon is képezzen rendszerkockázati tőkepuffert.
+(6) A rendszerkockázati tőkepufferráta mértékét 0,5 százalékpontos lépésközökkel kell megállapítani. A hitelintézetek és a kitettségek különböző alcsoportjaira vonatkozóan különböző követelmények állapíthatóak meg.
+
+(7) Az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozó hitelintézet számára a makroprudenciális feladatkörében eljáró MNB határozatban előírhatja, hogy egyedi és összevont alapon is képezzen rendszerkockázati tőkepuffert.
 
 #### 45. Tőkepufferekre vonatkozó közös szabályok
 
-93. § (1) A kombinált pufferkövetelmény a tőkefenntartási puffer és
+93. § A kombinált pufferkövetelmény a tőkefenntartási puffer és
 
 - a) az intézményspecifikus anticiklikus tőkepuffer-követelménynek,
 - b) a globálisan rendszerszinten jelentős hitelintézetekre vonatkozó tőkepuffer-követelménynek,
 - c) az egyéb rendszerszinten jelentős hitelintézetekre vonatkozó tőkepuffer-követelménynek, és
 - d) a rendszerkockázati tőkepuffer-követelménynek
 
-a (2), (3), (4), (5), (6) vagy (7) bekezdés szerinti kombinált összegzés eredménye.
+a (2), (3), (4) vagy (5) bekezdés szerinti kombinált összegzés eredménye.
 
-(2) Ha a hitelintézetre összevont alapon előírásra kerül a globálisan rendszerszinten jelentős hitelintézetre és az egyéb rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffer-követelmény is, akkor a kettő közül a magasabb értéket alkalmazza.
+(2) Ha a csoportra összevont alapon előírásra kerül a globálisan rendszerszinten jelentős hitelintézetre és az egyéb rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffer-követelmény is, akkor a csoport a kettő közül a magasabb értéket alkalmazza.
 
-(3) Ha a hitelintézetre összevont alapon előírásra kerül a globálisan rendszerszinten jelentős hitelintézetre és az egyéb rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffer-követelmény, valamint a rendszerkockázati tőkepuffer-követelmény is, akkor a három közül a legmagasabbat alkalmazza.
+(3) Ha a hitelintézetre rendszerkockázati tőkepuffer-követelmény kerül előírásra ez a tőkepuffer-követelmény hozzáadódik a globálisan rendszerszinten jelentős hitelintézetre és az egyéb rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffer-követelményhez.
 
-(4) Ha a hitelintézetre egyedi vagy szubkonszolidált alapon előírásra kerül az egyéb rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffer-követelmény és a rendszerkockázati tőkepuffer-követelmény, akkor a kettő közül a magasabbat alkalmazza.
+(4) Ha a hitelintézetre a 92. § szerinti rendszerkockázati tőkepuffer-követelmény és globálisan rendszerszinten jelentős hitelintézetre vonatkozó vagy egyéb rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffer követelmény kerül előírásra és együttes mértékük meghaladja az 575/2013/EU rendelet 92. cikkében meghatározott teljes kockázati kitettségérték 5 százalékát, akkor a makroprudenciális feladatkörében eljáró MNB határozata az Európai Bizottság engedélyéhez kötött.
 
-(5) A (3) és a (4) bekezdéstől eltérően, ha a rendszerkockázati tőkepuffer-követelmény nem alkalmazandó a Magyarországon kívüli féllel szembeni kitettségre, akkor a kombinált pufferkövetelmény a rendszerkockázati tőkepuffer-követelménynek, valamint a globálisan rendszerszinten jelentős hitelintézetre vagy az egyéb rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffer-követelményének összege.
+(5) A hitelintézet a kombinált pufferkövetelmény teljesítése céljából tartott elsődleges alapvető tőkét nem használhatja fel az 575/2013/EU rendelet 92. cikk (1) bekezdés a), b) és c) pontjában meghatározott tőkekövetelményre, a 186. § szerinti túlzott tőkeáttétel kockázatától eltérő kockázatok kezelését célzó kiegészítő követelményre, a 85/B. § szerinti tőke ajánlásnak való megfelelésre, az 575/2013/EU rendelet 92a. cikk és 92b. cikk teljesítésére, a Szantv. 67. §-ában és 68. §-ában foglalt kockázatalapú követelmények teljesítésére, továbbá a kombinált pufferkövetelmény valamely elemének teljesítése céljából tartott elsődleges alapvető tőkét a kombinált pufferkövetelmény bármely más elemének teljesítésére.
 
-(6) Ha a hitelintézet egy olyan összevont alapú felügyelet alá tartozik, amelyhez egy globálisan rendszerszinten vagy egyéb rendszerszinten jelentős hitelintézet tartozik, akkor a hitelintézet egyedi kombinált pufferkövetelménye nem lehet alacsonyabb, mint
-
-- a) a tőkefenntartási pufferkövetelmény,
-- b) az intézményspecifikus anticiklikus tőkepuffer-követelmény és
-- c) a globálisan rendszerszinten jelentős és az egyéb rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffer-követelmény vagy a rendszerkockázati tőkepuffer-követelmény közül a magasabb tőkepuffer-követelmény
-
-összege.
-
-(7) Az (5) bekezdésben meghatározott esetben, ha a hitelintézet egy olyan összevont alapú felügyelet alá tartozik, amelyhez valamely globálisan vagy egyéb rendszerszinten jelentős hitelintézet tartozik, akkor a hitelintézet egyedi kombinált pufferkövetelménye nem lehet alacsonyabb, mint
-
-- a) a tőkefenntartási pufferkövetelmény,
-- b) az intézményspecifikus anticiklikus tőkepuffer-követelmény,
-- c) a globálisan rendszerszinten jelentős és az egyéb rendszerszinten jelentős hitelintézetre vonatkozó tőkepuffer-követelmény és
-- d) a rendszerkockázati tőkepuffer-követelmény
-
-összege.
-
-(8) A tőkepufferekre vonatkozó rendelkezéseket a központi szervhez tartósan kapcsolt hitelintézet a központi szervével együttesen teljesíti.
+(6) A tőkepufferekre vonatkozó rendelkezéseket a központi szervhez tartósan kapcsolt hitelintézet a központi szervével együttesen teljesíti.
 
 94. § (1) Ha a hitelintézet nem teljesíti a 93. § (1) bekezdésben meghatározott kombinált pufferkövetelményt, akkor a hitelintézet korlátozza az elsődleges alapvető tőkéhez kapcsolódó kifizetéseit.
+
+(1a) A 93. § (1) bekezdésében meghatározott kombinált pufferköveteményt teljesítő hitelintézet az elsődleges alapvető tőkéhez kapcsolódóan nem hajthat végre olyan mértékű kifizetést, amelynek eredményeképpen az elsődleges alapvető tőkéje olyan alacsony szintre csökkenne, hogy nem teljesítené már a kombinált pufferkövetelmény mértékét.
 
 (2) A hitelintézet akkor korlátozza a kifizetéseit, ha a kifizetés a hitelintézet
 
@@ -1707,7 +1790,7 @@ a csökkenését eredményezné azzal, hogy a kifizetés felfüggesztése vagy t
 (3) Ha a hitelintézet nem tesz eleget a kombinált pufferkövetelménynek, akkor a hitelintézet
 
 - a) korlátozza a kifizetést az elsődleges alapvető tőkéből és a kiegészítő alapvető tőkéből,
-- b) nem keletkeztethet a teljesítményjavadalmazásra vagy a nem kötelező nyugdíjjuttatásra vonatkozó kötelezettséget, és
+- b) nem keletkeztethet a teljesítményjavadalmazásra vagy a nem kötelező nyugdíjjuttatásra vonatkozó kötelezettséget, vagy
 - c) nem teljesíthet kifizetést a teljesítményjavadalmazásra vonatkozóan, ha a kötelezettség keletkeztetésére a kombinált pufferkövetelmény nem teljesítésével egyidőben került sor.
 
 (4) A (3) bekezdés a) pontja szerinti, elsődleges alapvető tőkéből való kifizetés magában foglalja:
@@ -1722,7 +1805,9 @@ a csökkenését eredményezné azzal, hogy a kifizetés felfüggesztése vagy t
 
 (6) A maximálisan kifizethető összeg a (7) bekezdés alapján meghatározott évközi és évvégi nyereség összegének és a 4. mellékletben meghatározott tényezőnek a szorzataként számítható ki, amelyet a hitelintézet csökkent a (3) bekezdésben meghatározott intézkedések értékével.
 
-(7) A maximálisan kifizethető összeg meghatározásához a hitelintézet meghatározza az elsődleges alapvető tőkeként nem kimutatott évközi és évvégi nyereség összegét, amely a kifizetésre vonatkozó legutolsó határozat vagy a (3) bekezdésben meghatározott intézkedések óta keletkezett, és amely a nyereség visszatartása miatt fizetendő adó mértékével csökkentett nyereség összegével egyezik meg.
+(7) A maximálisan kifizethető összeg meghatározásához a hitelintézet meghatározza az elsődleges alapvető tőkeként nem kimutatott évközi és év végi nyereség összegét, amelyet csökkent az esetlegesen felosztott nyereséggel, illetve a (3) bekezdésben meghatározott intézkedésekből eredő kifizetésekkel, és kivonja belőle a nyereség visszatartása miatt fizetendő adót.
+
+(8) E fejezet vonatkozásában a hitelintézet akkor nem teljesíti a kombinált pufferkövetelményt, ha nem rendelkezik megfelelő összegű és minőségű szavatoló tőkével ahhoz, hogy egyidejűleg eleget tegyen a kombinált pufferkövetelménynek és az 575/2013/EU rendelet 92. cikk (1) bekezdés a)–c) pontja szerinti követelménynek, valamint a 186. § szerinti túlzott tőkeáttétel kockázatától eltérő kockázatok kezelését célzó kiegészítő követelménynek.
 
 95. § (1) A kombinált pufferkövetelményeket nem teljesítő hitelintézet tájékoztatja a Felügyeletet
 
@@ -1764,13 +1849,67 @@ vonatkozó információkat.
 - a) a meghatározott határidőn belül a hitelintézet szavatoló tőkéjének meghatározott szintre emelését írja elő,
 - b) a 94. §-ban meghatározottnál szigorúbb kifizetési korlátozást rendel el.
 
+96/A. § (1) Ha a hitelintézet nem teljesíti a tőkeáttételi mutató pufferkövetelményt, akkor a hitelintézet korlátozza az elsődleges alapvető tőkéhez kapcsolódó kifizetéseit.
+
+(2) A tőkeáttételi mutató pufferköveteményt teljesítő hitelintézet az elsődleges alapvető tőkéhez kapcsolódóan nem hajthat végre olyan mértékű kifizetést, amelynek eredményeképpen az elsődleges alapvető tőkéje olyan alacsony szintre csökkenne, hogy nem teljesítené már a kombinált pufferkövetelmény mértékét.
+
+(3) A hitelintézet akkor korlátozza a kifizetéseit, ha a kifizetés a hitelintézet
+
+- a) elsődleges alapvető tőkéjének vagy
+- b) nyereségének
+
+a csökkenését eredményezné azzal, hogy a kifizetés felfüggesztése vagy törlése nem eredményezheti a hitelintézet nemteljesítését vagy olyan esemény bekövetkezését, amely miatt felszámolás indítható a hitelintézet ellen.
+
+(4) Ha a hitelintézet nem tesz eleget a tőkeáttételi mutató pufferkövetelménynek, akkor a hitelintézet
+
+- a) korlátozza a kifizetést az elsődleges alapvető tőkéből és a kiegészítő alapvető tőkéből,
+- b) nem keletkeztethet a teljesítményjavadalmazásra vagy a nem kötelező nyugdíjjuttatásra vonatkozó kötelezettséget, vagy
+- c) nem teljesíthet kifizetést a teljesítményjavadalmazásra vonatkozóan, ha a kötelezettség keletkeztetésére a tőkeáttételi mutató pufferkövetelmény nem teljesítésével egyidőben került sor.
+
+(5) A (4) bekezdés a) pontja szerinti, elsődleges alapvető tőkéből való kifizetés magában foglalja:
+
+- a) az osztalék készpénzben való kifizetését,
+- b) a teljesen vagy részlegesen fizető bónuszrészvények szerződésben rögzített értékének kifizetését,
+- c) az 575/2013/EU rendelet 26. cikk (1) bekezdés a) pontja szerinti tőkeinstrumentumok kifizetését, visszaváltását vagy visszavásárlását, vagy ezen tőkeinstrumentumhoz kapcsolódóan befizetett összegek visszafizetését,
+- d) az intézmény saját részvényeinek visszaváltását – ideértve a szövetkezeti vagyoni hozzájárulást is – vagy visszavásárlását, valamint
+- e) az 575/2013/EU rendelet 26. cikk (1) bekezdés b)–e) pontja szerinti tételekből történő kifizetést.
+
+(6) A tőkeáttételi mutató pufferkövetelményeket nem teljesítő hitelintézet kiszámítja azt a maximálisan kifizethető összeget, amelyet meghaladóan nem teljesíthet kifizetést addig, amíg elsődleges alapvető tőkéje el nem éri a tőkeáttételi mutató pufferkövetelményekkel megnövelt minimális szintjét.
+
+(7) A maximálisan kifizethető összeg a (8) bekezdés alapján meghatározott évközi és évvégi nyereség összegének és a 4. mellékletben meghatározott tényezőnek a szorzataként számítható ki, amelyet a hitelintézet csökkent a (4) bekezdésben meghatározott intézkedések értékével.
+
+(8) A maximálisan kifizethető összeg meghatározásához a hitelintézet meghatározza az elsődleges alapvető tőkeként nem kimutatott évközi és évvégi nyereség összegét, amelyet csökkent az esetlegesen felosztott nyereséggel, illetve a (4) bekezdésben meghatározott intézkedésekből eredő kifizetésekkel, és kivonja belőle a nyereség visszatartása miatt fizetendő adót.
+
+(9) E fejezet vonatkozásában a hitelintézet akkor nem teljesíti a tőkeáttételi mutató pufferkövetelményt, ha nem rendelkezik megfelelő összegű és minőségű szavatoló tőkével ahhoz, hogy egyidejűleg eleget tegyen a tőkeáttételi mutató pufferkövetelménynek, az 575/2013/EU rendelet 92. cikk (1) bekezdés d) pont és (1a) bekezdés szerinti követelménynek, valamint a 186. § szerinti túlzott tőkeáttétel kockázatától eltérő kockázatok kezelését célzó kiegészítő követelménynek.
+
+96/B. § (1) A tőkeáttételi mutató pufferkövetelményeket nem teljesítő hitelintézet tájékoztatja a Felügyeletet
+
+- a) az általa kiszámított maximálisan kifizethető összegről,
+- b) a kifizethető nyereség kifizetésének szándékáról, és
+- c) a 94. § (3) bekezdése szerinti korlátozásról.
+
+(2) A hitelintézet az (1) bekezdésben meghatározott tájékoztatás keretében a Felügyelet rendelkezésére bocsátja a szükséges információkat:
+
+- a) a szavatoló tőke összegéről, az elsődleges alapvető tőke, a kiegészítő alapvető tőke és a járulékos tőke szerinti bontásban,
+- b) az évközi és év végi nyereség összegéről,
+- c) a maximálisan kifizethető összegről, és
+- d) a kifizethető nyereség összegéről, amelyet a következők kifizetésére használ fel:
+  - da) osztalékfizetés,
+  - db) részvény-visszavásárlás,
+  - dc) kiegészítő alapvető tőkeelemhez kapcsolódó kifizetés, vagy
+  - dd) teljesítményjavadalmazás vagy nem kötelező nyugdíjjuttatás kifizetésére vonatkozó fizetési kötelezettség keletkeztetése, vagy ezekre vonatkozó olyan kifizetés teljesítése, amely a tőkeáttételi mutató pufferkövetelmény nem teljesítésével egyidőben keletkezett.
+
+(3) A hitelintézet a maximálisan kifizethető összeg és a kifizethető nyereség meghatározása érdekében pontos és megbízható rendszerrel rendelkezik. A hitelintézet képes arra, hogy a pontosságot a Felügyelet kérésére igazolja.
+
 #### 46. A tőkemegfelelés belső értékelési eljárása
 
 97. § (1) A hitelintézet megbízható, hatékony és átfogó stratégiával és folyamatokkal rendelkezik annak érdekében, hogy a jelenlegi és jövőben felmerülő kockázatainak fedezetéhez szükséges nagyságú és összetételű szavatoló tőkéjét meghatározza és folyamatosan fenntartsa.
 
 (2) A hitelintézet legalább évente felülvizsgálja az (1) bekezdés szerinti stratégiáját és eljárását annak érdekében, hogy azok összhangban legyenek a tevékenysége jellegével, nagyságrendjével és összetettségével.
 
-(3) A magyarországi székhelyű tagállami hitelintézet anyavállalat, tagállami pénzügyi holding társaság és vegyes pénzügyi holding társaság anyavállalat az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU rendelet vonatkozásában összevont alapon felel meg.
+(2a) Az (1) bekezdés szerinti stratégiáknak és eljárásoknak megfelelően a hitelintézet a tőkemegfelelés belső értékelési eljárása alapján a szükséges nagyságú és összetételű szavatoló tőkéjét olyan megfelelő szinten határozza meg, amely elegendő az összes olyan kockázat fedezésére amelynek ki van téve, és biztosítja, hogy a szavatoló tőkéje képes legyen fedezni a stressz-forgatókönyvekből eredő potenciális veszteségeket, többek között a felügyeleti felülvizsgálat és értékelés elősegítése érdekében végzett felügyeleti stressz-teszt alapján azonosítottakat.
+
+(3) A magyarországi székhelyű tagállami hitelintézet anyavállalat az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU rendelet vonatkozásában összevont alapon felel meg.
 
 (4) Ha egy hitelintézet ellenőrző befolyás alatt áll vagy egy vállalkozás ezen hitelintézetben részesedési viszonnyal rendelkezik és a hitelintézet maga vagy a hitelintézet pénzügyi holding társaság anyavállalata vagy vegyes pénzügyi holding társaság anyavállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik egy harmadik országban székhellyel rendelkező hitelintézetben, pénzügyi vállalkozásban, befektetési vállalkozásban, befektetési alapkezelőben vagy járulékos vállalkozásban, akkor a hitelintézet az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU rendeletben meghatározott vállalkozások vonatkozásában összevont alapon felel meg.
 
@@ -1867,6 +2006,28 @@ ha azt az egyéb befektetésektől elkülönítve tartja nyilván, és elkülön
 - d) a fióktelep engedély nélküli tevékenységet végez, vagy
 - e) a fióktelep vagy a fióktelepet létesítő harmadik országbeli hitelintézet fizetőképessége veszélybe kerül.
 
+#### 51/B. Közbenső EU-szintű anyavállalat
+
+105/B. § (1) Ugyanazon harmadik országbeli csoporthoz tartozó EGT-államban letelepedett kettő vagy több hitelintézetnek, befektetési vállalkozásnak EGT-államban letelepedett egyetlen közbenső EU-szintű anyavállalattal kell rendelkeznie.
+
+(2) A Felügyelet a másik EGT-állam illetékes felügyeleti hatóságával közösen engedélyezheti, hogy az ugyanazon harmadik országbeli csoporthoz tartozó EGT-államban letelepedett kettő vagy több hitelintézet, befektetési vállalkozás két közbenső EU-szintű anyavállalattal rendelkezzen, ha az egyetlen közbenső EU-szintű anyavállalat létrehozása
+
+- a) nem lenne összeegyeztethető a tevékenységek különválasztását előíró kötelező előírással, amelyet azon harmadik ország szabályai vagy felügyeleti hatóságai írnak elő, ahol a harmadik országbeli csoport legfelső szintű anyavállalatának székhelye van, vagy
+- b) a közbenső EU-szintű anyavállalat illetékes szanálási hatósága által elvégzett értékelés szerint kevésbé hatékony szanálást tenne lehetővé, mint két közbenső EU-szintű anyavállalat.
+
+(3) A közbenső EU-szintű anyavállalat – a (4) bekezdésben meghatározott kivétellel – hitelintézet, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság lehet.
+
+(4) Ha a harmadik országbeli csoportban nincs EGT-államban letelepedett hitelintézet vagy a (2) bekezdés a) pontja szerinti kötelező előírás teljesítése érdekében a befektetési szolgáltatással, kiegészítő szolgáltatással összefüggésben egy másik közbenső EU-szintű anyavállalatot kell létrehozni, a közbenső EU-szintű anyavállalat vagy a második közbenső EU-szintű anyavállalat befektetési vállalkozás is lehet.
+
+(5) Nem kell közbenső EU-szintű anyavállalattal rendelkezni, ha a harmadik országbeli csoport EGT-állambeli eszközeinek összértéke kevesebb, mint 40 milliárd euró.
+
+(6) Az (5) bekezdés alkalmazásában a harmadik országbeli csoport EGT-állambeli eszközeinek összértékét
+
+- a) a harmadik országbeli csoporthoz tartozó minden EGT-államban székhellyel rendelkező hitelintézet, befektetési vállalkozás eszközeinek összértéke az összevont mérlege alapján, illetve az egyéni mérlegük alapján, ha a hitelintézet, befektetési vállalkozás mérlegét nem konszolidálják, és
+- b) a harmadik országbeli csoport minden EGT-államban letelepedett fióktelepe eszközeinek összértéke
+
+összegeként kell meghatározni.
+
 #### 52. Belső hitel
 
 106. § (1) Hitelintézet, ide nem értve a hitelszövetkezetet
@@ -1912,7 +2073,7 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 - c) a szervezeten belüli összeférhetetlenséget ellenőrzi, megelőzi és kiküszöböli,
 - d) a felmerülő kockázatok azonosítására, mérésére, kezelésére, nyomon követésére és jelentésére szolgáló hatékony eljárásokat alkalmaz,
 - e) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat alkalmaz,
-- f) a hitelintézet a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 117–121. §-okban meghatározott elveknek megfelelő javadalmazási politikát és gyakorlatot valósít meg,
+- f) a hitelintézet a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 117–121. §-okban meghatározott elveknek megfelelő, nemek szempontjából semleges javadalmazási politikát és gyakorlatot valósít meg,
 - g) elősegíti a szervezet zavartalan és eredményes működését, az intézménnyel szembeni bizalom fenntartását, a tulajdonosok és az ügyfelek intézménnyel összefüggő gazdasági érdekeinek és társadalmi céljainak védelmét.
 
 (2) A hitelintézet az (1) bekezdés d) és e) pontjában rögzítettek, ezáltal a belső kontroll funkciók teljesítése érdekében belső eljárásrendjében egyértelműen rögzíti a belső kontroll funkciók ellátásáért felelős szervezeti egységet vagy egységeket.
@@ -1942,11 +2103,21 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 - b) az ügyféllel, a kapcsolatban álló ügyfelek csoportjával, a partnerrel (ideértve a központi szerződő felet is), az ugyanazon gazdasági ágazatbeli, régióbeli vagy ugyanazon tevékenységet folytató partnerekkel, ügyfelekkel szembeni kitettségekből, a hitelkockázat-mérséklés alkalmazásából származó kockázati koncentráció kezelésére,
 - c) a piaci kockázatok valamennyi lényeges forrásának és hatásának mérésére és kezelésére, és a rövid pozíció hosszú pozíciót megelőző esedékességéből fakadó likviditási hiány kockázatának kezelésére,
 - d) a nem kereskedési tevékenységet érintő, esetleges kamatváltozásokból származó kockázatok értékelésére, mérésére és kezelésére,
-- e) működési kockázatok – ideértve a modellkockázatot is – mérésére, kezelésére, valamint vészhelyzeti és üzletmenet-folytonossági tervvel a folyamatos működés fenntartása, továbbá a súlyos üzletviteli fennakadásokból következő esetleges veszteségek mérséklése érdekében,
+- e) működési kockázatok – ideértve a modellkockázatot és a kiszervezésből eredő kockázatot is – mérésére, kezelésére, valamint vészhelyzeti és üzletmenet-folytonossági tervvel a folyamatos működés fenntartása, továbbá a súlyos üzletviteli fennakadásokból következő esetleges veszteségek mérséklése érdekében,
 - f) az egyes üzletágakhoz, devizanemekhez és a csoporthoz tartozó jogi személyekhez igazítva a likviditási kockázata megfelelő – akár egy napon belüli – időtávokon történő azonosítására, mérésére, kezelésére és nyomon követésére, ideértve a likviditási költség-, nyereség- és kockázat-allokációs eljárásokat is,
 - g) azon értékpapírosítási ügyletekből eredő kockázatok értékelésére és kezelésére, amelyeknél a hitelintézet befektetőként, kezdeményezőként vagy szponzorként lép fel, ideértve a hírnévkockázatot – így különösen a bonyolult struktúrákból vagy termékekből eredő hírnévkockázatot – is, annak biztosítására, hogy az ügylet gazdasági tartalma teljes mértékben tükröződjön a kockázatok értékelésére és kezelésére vonatkozó döntésekben,
 - h) a túlzott tőkeáttételi kockázat azonosítására, kezelésére és ellenőrzésére, különösen annak érdekében, hogy a hitelintézet elővigyázatosan kezelje a várt vagy realizált veszteségek miatti szavatolótőke-csökkenés okán bekövetkező tőkeáttétel növekedés kockázatát, és ezáltal ellenálljon a különböző stressz helyzetekben jelentkező túlzott tőkeáttétel kockázatának, valamint
 - i) a hitel- és pénzkölcsönnyújtási tevékenység jóváhagyási, módosítási, megújítási, refinanszírozási és monitoringozási folyamataira.
+
+(5a) Az (5) bekezdés d) pontjában foglaltak teljesítése érdekében a hitelintézet
+
+- a) belső rendszereket működtet, illetve sztenderd módszert vagy egyszerűsített sztenderd módszert használ a tőke gazdasági értékére és a nem kereskedési tevékenységből származó nettó kamatbevételre egyaránt kiható esetleges kamatlábváltozásokból származó kockázatok azonosítására, értékelésére, kezelésére és mérséklésére, és
+- b) rendszereket működtet a hitelkockázati feláraknak a tőke gazdasági értékére és a nem kereskedési tevékenységből származó nettó kamatbevételre egyaránt kiható esetleges változásból származó kockázatok értékelésére és nyomon követésére.
+
+(5b) A Felügyelet döntése alapján
+
+- a) a hitelintézet az (5a) bekezdés a) pontjában foglaltak teljesítése érdekében a sztenderd módszert alkalmazza, ha a Felügyelet megítélése szerint a belső rendszer nem alkalmas a kockázatok értékelésére,
+- b) az 575/2013/EU rendeletben meghatározott kis méretű és nem összetett intézmény a sztenderd módszert alkalmazza, ha a Felügyelet megítélése szerint az egyszerűsített sztenderd módszer nem alkalmas a nem kereskedési tevékenységből származó kamatlábkockázat értékelésére.
 
 (6) Az (5) bekezdés f) pontjában foglaltak teljesítése érdekében:
 
@@ -2039,7 +2210,9 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 (2) A hitelintézet megfelelő humán és pénzügyi erőforrást biztosít az irányítási jogkörrel rendelkező vezető testület tagjainak képzésére.
 
-(3) A vezető testület a hitelintézet tevékenységeinek – ideértve a fő kockázatokat is – a megértéséhez megfelelő kollektív tudással, készségekkel és tapasztalattal rendelkezik.
+(3) A vezető testület a hitelintézet tevékenységeinek – ideértve a fő kockázatokat is – a megértéséhez megfelelő kollektív tudással, készségekkel és tapasztalattal rendelkezik. A vezető testület általános összetétele biztosítja a tapasztalatok megfelelően széles skáláját.
+
+(4) A vezető testület minden egyes tagja tisztességesen, befolyástól mentesen és függetlenül jár el annak érdekében, hogy szükség esetén az ügyvezetés döntéseit ténylegesen értékeljék és kifogásolják, valamint hatékonyan ellenőrizzék és felügyeljék a döntéshozatalt. A független eljárást önmagában az nem zárja ki, hogy a vezető testület tagja kapcsolt társaság vagy kapcsolt szervezet tagja.
 
 114. § (1) Minden olyan hitelintézet,
 
@@ -2120,16 +2293,19 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 117. § (1) A hitelintézet az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenységgel és az alkalmazott üzleti modell jellegével, nagyságrendjével, összetettségével és kockázataival arányos, valamint megfelelő módon és mértékben belső szabályzatában meghatározott javadalmazási politikával rendelkezik.
 
-(2) A javadalmazási politika hatálya kiterjed a hitelintézet
+(2) A javadalmazási politika hatálya a hitelintézet azon munkavállalókat magukba foglaló munkavállalói kategóriáira terjed ki, akiknek a szakmai tevékenysége lényeges hatást gyakorol a hitelintézet kockázati profiljára.
 
-- a) vezető állású személyeire,
-- b) belső szabályzatában meghatározott kockázatvállalási és ellenőrzési funkciót betöltő munkavállalóira – ideértve a belső kontroll feladatkört ellátó munkavállalókat is –,
-- c) a) vagy b) pontba tartozó személyeivel azonos javadalmazási kategóriába tartozó munkavállalóira, akinek a tevékenysége lényeges hatást gyakorol a hitelintézet kockázati profiljára, valamint
-- d) azon munkavállalóira, akiknek a tevékenysége lényeges hatást gyakorol a hitelintézet kockázati profiljára.
+(2a) A (2) bekezdés alkalmazásában azon munkavállalói kategóriákba, akiknek a szakmai tevékenysége lényeges hatást gyakorol a hitelintézet kockázati profiljára, legalább a következők tartoznak:
 
-(3) A javadalmazási politika összhangban áll a hatékony és eredményes kockázatkezeléssel, elősegíti annak alkalmazását, és nem ösztönözhet a hitelintézet kockázatvállalási limitjeit meghaladó kockázatok vállalására. A javadalmazási politika a hitelintézet üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel is összhangban áll, valamint az érdekkonfliktus elkerülését célzó intézkedéseket tartalmaz.
+- a) a vezető állású személyek,
+- b) az ellenőrzési feladatokért és a lényeges szervezeti egységekért vezetői felelősséggel tartozó munkavállalók,
+- c) a megelőző évben jelentős mértékű javadalmazásra jogosult munkavállalók, ha teljesülnek a következő feltételek:
+  - ca) a munkavállaló javadalmazása legalább százötvenmillió forint és legalább a vezető állású személyek részére juttatott átlagos javadalmazás és
+  - cb) a munkavállaló a szakmai tevékenységét valamelyik lényeges szervezeti egységben végzi, és a tevékenysége olyan jellegű, amely jelentős hatást gyakorol az érintett szervezeti egység kockázati profiljára.
 
-(4) A hitelintézet a javadalmazási politikára vonatkozó szabályokat összevont alapon minden olyan vállalkozás tekintetében alkalmazza, amelyekre az összevont alapú felügyelet a hitelintézettel együttesen kiterjed.
+(3) A javadalmazási politika összhangban áll a hatékony és eredményes kockázatkezeléssel, elősegíti annak alkalmazását, és nem ösztönözhet a hitelintézet kockázatvállalási limitjeit meghaladó kockázatok vállalására. A javadalmazási politika nemek szempontjából semleges javadalmazási politika. A javadalmazási politika a hitelintézet üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel is összhangban áll, valamint az érdekkonfliktus elkerülését célzó intézkedéseket tartalmaz.
+
+(4) A hitelintézet a javadalmazási politikára vonatkozó szabályokat összevont alapon minden olyan vállalkozás tekintetében alkalmazza, amelyekre az összevont alapú felügyelet a hitelintézettel együttesen kiterjed azzal, hogy nem kell összevont alapon alkalmazni e §-t és a 118. §-t, ha az Európai Unióban székhellyel rendelkező vagy harmadik országbeli leányvállalatra egyedi javadalmazási követelmények vonatkoznak. A hitelintézet egyedi alapon alkalmazza az e §-ban és a 118. §-ban foglaltakat a leányvállalatok munkavállalóira, ha azok befektetési alapkezelő vagy befektetési vállalkozás munkavállalói, és olyan szakmai tevékenység ellátására kapnak megbízást, amely közvetlen és érdemi hatást gyakorol a csoporton belüli intézmények kockázati profiljára vagy üzleti tevékenységére.
 
 (5) A javadalmazási politika elveit a felügyeleti jogkörrel rendelkező vezető testület fogadja el és vizsgálja felül, az irányítási jogkörrel rendelkező vezető testület felel annak végrehajtásáért, amelyet legalább évente a hitelintézet belső ellenőrzése is ellenőriz.
 
@@ -2174,14 +2350,14 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 (11) A teljesítményjavadalmazás legalább 50 százaléka a következő elemekből, vagy azok egyensúlyban lévő kombinációjából áll:
 
-- a) az érintett hitelintézet részvényeiből vagy tulajdoni részesedéseiből az érintett hitelintézet jogi formájától függően és abból eredő sajátosságainak figyelembevételével, illetve a szabályozott piacra be nem vezetett hitelintézet esetében részvényhez kötött eszközökből vagy azokkal egyenértékű nem készpénz alapú eszközökből, és
+- a) az érintett hitelintézet jogi formájától függően részvényekből vagy tulajdoni részesedésekből, illetve részvényhez kötött eszközökből vagy azokkal egyenértékű nem készpénz alapú eszközökből, és
 - b) olyan teljesítményjavadalmazás céljára felhasználható kiegészítő alapvető tőkéből, járulékos tőkéből vagy egyéb instrumentumokból, amelyek
   - ba) elsődleges alapvető tőkeelemmé konvertálhatóak át, vagy
   - bb) leírhatóak az említett tőkeelemekből, és
 
 amelyek folyamatosan tükrözik a hitelintézet kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik.
 
-(12) A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább hatvan százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően legalább három-ötéves időszak alatt elosztva kell kifizetni. A halasztási időszak hosszát az üzleti ciklusnak, az üzlet jellegének, kockázatainak és az érintett munkavállaló tevékenységeinek megfelelően kell megállapítani.
+(12) A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább 60 százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően legalább négy-ötéves időszak alatt elosztva kell kifizetni. A halasztási időszak nem lehet rövidebb öt évnél az olyan hitelintézet vezető állású személye esetében, amely hitelintézet méreténél, belső szervezeténél, valamint tevékenysége jellegénél, nagyságrendjénél és összetettségénél fogva jelentős. A halasztási időszak hosszát az üzleti ciklusnak, az üzlet jellegének, kockázatainak és az érintett munkavállaló tevékenységeinek megfelelően kell megállapítani. A halasztási szabályok szerint fizetendő javadalmazás legfeljebb időarányosan illetheti meg a munkavállalót.
 
 (12a) A teljesítményjavadalmazást csökkenteni kell, ha a hitelintézet pénzügyi teljesítménye jelentősen visszaesik vagy negatív, figyelembe véve az aktuális javadalmazást és a csökkentési vagy visszakövetelési szabályokat.
 
@@ -2200,10 +2376,17 @@ amelyek folyamatosan tükrözik a hitelintézet kitettségeinek minőségét azz
 
 (2) Az előző munkaviszony alapján fennálló, szerződésből következő teljes javadalmazás átvállalásával vagy az előző teljes javadalmazásból következő kompenzáció révén adott újabb teljes javadalmazás összhangban áll a hitelintézet hosszú távú érdekeivel, ideértve a visszatartási, a halasztási, a teljesítmény- és a visszakövetelési megállapodásokat is.
 
-(3) Ha a hitelintézet a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, az összhangban áll a hitelintézet üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel. Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár és a vezető állású személy, munkavállaló
+(3) Ha a hitelintézet a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, az összhangban áll a hitelintézet üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel.
+
+(4) Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár és a vezető állású személy, munkavállaló
 
 - a) a nyugdíjazása előtt távozik a hitelintézettől, akkor a hitelintézetnek a 118. § (11) bekezdésében meghatározott eszközök formájában öt évig vissza kell tartania a nem kötelező nyugdíjjuttatásokat,
 - b) eléri a nyugdíjazását, akkor a hitelintézet a munkaviszony megszűnése után ötéves visszatartási időszak figyelembevételével fizetheti ki ezen juttatásokat a 118. § (11) bekezdésében meghatározott eszközök formájában.
+
+(5) A 118. § (11) és (12) bekezdése, valamint a (4) bekezdés nem alkalmazandó
+
+- a) az olyan hitelintézetre, amely nem minősül az 575/2013/EU rendelet 4. cikk (1) bekezdés 146. pontjában meghatározott nagy méretű hitelintézetnek, és az egyedi alapon számított, előző négy év végi mérlegfőösszegének átlaga nem haladja meg az ezerötszáz-milliárd forintot,
+- b) arra a munkavállalóra, akinek az éves teljesítményjavadalmazása nem haladja meg a tizenhétmillió-ötszázezer forintot, és a teljesítményjavadalmazás a munkavállaló teljes éves javadalmazásának legfeljebb az egyharmada.
 
 120. § (1) A hitelintézet ellenőrzési feladatokat végző munkavállalói – ideértve a belső kontroll feladatkört ellátó munkavállalókat is – javadalmazása független az általuk felügyelt szervezeti egységek teljesítményétől, az a feladatkörükhöz kapcsolódó célkitűzések elérésén alapul.
 
@@ -2525,6 +2708,8 @@ együttesen jogosult.
 
 (5) Az (1) bekezdés szerinti korlátozást nem kell alkalmazni, ha a kockázatvállalást megalapozó döntés olyan összevont felügyelet alá tartozó vállalkozásra vonatkozik, amely összevont alapú felügyelet kiterjed arra a pénzügyi intézményre is, amelynél a döntésben résztvevő vezető állású személy vagy az üzleti döntésre felhatalmazott alkalmazott tölt be vezető állást.
 
+(6) A hitelintézet pontosan dokumentálja és kérésre a Felügyelet rendelkezésére bocsátja a vezető testülete tagjának, a vezető testülete tagja közeli hozzátartozójának befolyásoló részesedése alatt álló vállalkozásnak nyújtott hiteleket és az olyan vállalkozásnak nyújtott hiteleket, amelyben a vezető testülete tagja, a vezető testülete tagjának közeli hozzátartozója a Ptk. szerinti vezető tisztségviselő.
+
 145. § (1) A mérlegfőösszeg tekintetében legalább 5 százalékos piaci részesedéssel rendelkező hitelintézetnél a következő tisztségeket lehet együttesen betölteni:
 
 - a) egy ügyvezetői tisztség és vezető testületben betöltött, kettő nem ügyvezetői tisztség vagy
@@ -2685,7 +2870,7 @@ vizsgálata, és
   - ca) szakirányú felsőfokú iskolai végzettséggel és legalább négyéves, hitelintézetnél szerzett vezetői gyakorlattal,
   - cb) szakirányú felsőfokú iskolai végzettséggel és legalább ötéves, a Felügyeletnél, az OBA-nál vagy önkéntes betétbiztosítási, intézményvédelmi alapnál, a Pénzügyi Szervezetek Állami Felügyeleténél vagy annak jogelődjénél, továbbá ezeknek megfelelő külföldi intézménynél szerzett vezetői gyakorlattal,
   - cc) szakirányú felsőfokú végzettséggel és vállalkozásnál vagy a közigazgatásban szerzett legalább hatéves szakirányú vezetői gyakorlattal, vagy
-  - cd) nem szakirányú felsőfokú iskolai végzettséggel, de azonos típusú vagy hasonló méretű pénzügyi intézménynél, befektetési társaságnál szerzett legalább hatéves szakirányú vezetői gyakorlattal.
+  - cd) nem szakirányú felsőfokú iskolai végzettséggel, de azonos típusú vagy hasonló méretű pénzügyi intézménynél, befektetési vállalkozásnál szerzett legalább hatéves szakirányú vezetői gyakorlattal.
 
 (2) Az (1) bekezdés b) pontja szerinti kérelem tartalmazza a kinevezni tervezett vagy megválasztani kívánt személy szakmai önéletrajzát, valamint az (1) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát, valamint az érintett személynek a 137. § (6) bekezdésében meghatározott büntetőeljárásra vonatkozó nyilatkozatát.
 
@@ -2781,6 +2966,23 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 (7) Nem jelenti az üzleti titok sérelmét a Felügyelet MNB tv. 57. § (1) bekezdés c) pontjában, illetve 140. § (2) bekezdésében foglalt adattovábbítása.
 
+(7a) Nem jelenti az üzleti titok sérelmét a Felügyelet által a pénzügyi intézményekről egyedi azonosításra alkalmas adatok megosztása
+
+- a) az uniós pénzügyi szektort értékelő program keretében végzett értékelések céljából a Nemzetközi Valutaalap és a Világbank részére,
+- b) a mennyiségi hatásvizsgálatok céljából a Nemzetközi Fizetések Bankja részére,
+- c) a felügyeleti tevékenységei céljából a Pénzügyi Stabilitási Tanács (Financial Stability Board) részére
+
+e szervek írásbeli megkeresése alapján, ha teljesülnek a (7b) bekezdésben meghatározott feltételek.
+
+(7b) A (7a) bekezdésben meghatározott adatszolgáltatás legalább az alábbi feltételek teljesülése esetén teljesíthető:
+
+- a) a kérés indokolt annak fényében, hogy a megkereső nemzetközi szervezet a jogszabályban foglalt hatáskörével összhangban milyen konkrét feladatokat lát el,
+- b) az írásbeli megkeresésben pontosan szerepel a szükséges információk jellege, köre és formája, valamint a továbbítás vagy – az érintett pénzügyi intézmény hozzájárulása esetén – a nyilvánosságra hozatal módja,
+- c) a megkereső nemzetközi szervezet konkrét feladatainak elvégzéséhez feltétlenül szükség van a kért információkra, és azok köre nem terjed túl azon, ami a megkereső nemzetközi szervezet jogszabályban előírt feladatainak elvégzéséhez szükséges,
+- d) az információt kizárólag az adott feladat elvégzésében közvetlenül részt vevő személyeknek továbbítják, illetve velük közlik,
+- e) az információhoz hozzáférő személyekre legalább az e törvényben előírt szakmai titoktartásra vonatkozó követelményekkel egyenértékű kötelezettség vonatkozik, és
+- f) az információ megosztása a Felügyelet székhelyén történik.
+
 (8) Nem jelenti az üzleti titok sérelmét, ha a pénzügyi intézmény a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvényből (a továbbiakban: FATCA-törvény) fakadó kötelezettségek teljesítése érdekében az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatási kötelezettséget teljesíti az adóhatóság felé.
 
 (8a) Nem jelenti az üzleti titok sérelmét, ha a pénzügyi intézmény az Aktv. 43/H. §-a szerinti adatszolgáltatási kötelezettséget teljesíti az adóhatóság felé.
@@ -2819,7 +3021,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 - k) a pénzügyi közvetítőrendszer stabilitásáról szóló törvény szerinti feladatkörében eljáró államháztartásért felelős miniszterrel, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel és az Európai Unió működéséről szóló szerződés 107. cikk hatálya alá tartozó állami támogatások – az Európai Unió működéséről szóló szerződésben szereplő mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáért felelős miniszterrel,
 - l) a lakáscélú támogatások igénybevételének és felhasználásának jogszerűsége céljából feladatkörében ellenőrzést végző lakáscélú állami támogatások ügyében eljáró szervvel, kincstárral, lakásgazdálkodásért és lakáspolitikáért felelős miniszterrel, valamint pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel, továbbá a jogalap nélkül felvett fogyatékossági támogatás összegének megtérülése érdekében eljáró lakáscélú állami támogatások ügyében eljáró szervvel,
 - m) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
-- n) a Magyar Könyvvizsgálói Kamara által a pénzügyi intézménynél működő vagy volt könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával,
+- n) a Magyar Könyvvizsgálói Kamara által a pénzügyi intézménynél jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó könyvvizsgálója vagy korábbi könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával, valamint az ügyvédi kamara által az ügyvéd által kezelt letétek kezelésére vonatkozó szabályok megtartásának hatósági ellenőrzése során, illetve az ügyvéd ellen indult előzetes vizsgálat, ügyvédi kamarai hatósági eljárás és fegyelmi eljárás keretében az ügyvédi kamarával,
 - o) a feladatkörében eljáró kormányzati ellenőrzési szervvel,
 - p) az eltűnt vagy az elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs hatálya alatt álló személyek felkutatását, továbbá az ismeretlen személy vagy holttest azonosítását végző rendőri szervvel,
 - q) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal,
@@ -2910,7 +3112,7 @@ részére,
 - v) a központi szerződő fél, valamint a központi értéktári tevékenység végzésének érdekében szükséges, a központi értéktár és a központi szerződő fél közötti adattovábbítás,
 - w) ha a pénzügyi intézmény a Ptk. 6:418. §-ában meghatározott kötelezettségét teljesíti,
 - x) a szanálási feladatkörében eljáró MNB által a Szantv. szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás,
-- y) az elhalálozott által felvett és még vissza nem fizetett kölcsönhöz és le nem járt pénzügyi lízinghez kapcsolódóan a fennálló tartozás összegéről, a lejárt tartozás összegéről, az esedékes havi törlesztőrészletről, azon számlaszámról, amelyre a törlesztőrészletet fizetni kell (hitelszámla száma), valamint a hátralévő futamidőről az örökhagyó közeli hozzátartozója részére – annak írásbeli kérelmére – történő adatszolgáltatás a hagyatéki eljárás jogerős lezárásáról történő tudomásszerzés napjáig,
+- y) az elhalálozott által felvett és még vissza nem fizetett kölcsönhöz és le nem járt pénzügyi lízinghez kapcsolódóan a fennálló tartozás összegéről és összetételéről, az ezt alátámasztó adatokról – így különösen az elhalálozás napjáig teljesített befizetéseket tartalmazó, a tartozásra vonatkozó számszaki kimutatásról –, az esedékes havi törlesztőrészletről, azon számlaszámról, amelyre a törlesztőrészletet fizetni kell (hitelszámla száma), valamint a hátralévő futamidőről az örökhagyó közeli hozzátartozója részére – annak írásbeli kérelmére – történő adatszolgáltatás a hagyatéki eljárás jogerős lezárásáról történő tudomásszerzés napjáig,
 - z) a Felügyelet MNB tv. 57. § (1) bekezdés c) pontjában, illetve 140. § (2) bekezdésében foglalt adattovábbítása,
 - zs) a 164/B. § szerinti kölcsönös adatátadás, valamint az ezen alapuló adatkezelés.
 
@@ -2999,7 +3201,7 @@ kapcsolatos tevékenységet végeznek, és az adatkezelés e tevékenységekhez 
 
 168. § A pénzügyi intézmény és magyarországi fióktelepe, a kiegészítő pénzügyi szolgáltatást végző egyéb jogi személy, valamint a független közvetítő – ide nem értve a 69. § (7) bekezdésében meghatározott tevékenységet végző független közvetítőt – jogszabályban meghatározott tartalommal, módon és formában, rendszeres időközönként adatszolgáltatást teljesít a Felügyeletnek.
 
-169. § A pénzügyi intézmény számára a Felügyelet – határozott időre – az általa meghatározott tartalommal és rendszerességgel történő olyan (rendkívüli) adatszolgáltatási kötelezettséget írhat elő, amelyet
+169. § (1) A pénzügyi intézmény számára a Felügyelet – határozott időre – az általa meghatározott tartalommal és rendszerességgel történő olyan rendkívüli adatszolgáltatási kötelezettséget írhat elő, amelyet
 
 - a) a likviditás,
 - b) a szolvencia,
@@ -3010,6 +3212,10 @@ kapcsolatos tevékenységet végeznek, és az adatkezelés e tevékenységekhez 
 
 rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása érdekében szükségesnek tart.
 
+(2) Az (1) bekezdés szerinti rendkívüli adatszolgáltatásnak az információkérés célja szempontjából arányosnak kell lennie, és nem eredményezhet kétszeres adatszolgáltatást. Az adatszolgáltatás akkor tekintendő kétszeresnek, ha ugyanazt vagy lényegében ugyanazt az információt korábban már más módon benyújtották a Felügyeletnek vagy azt a Felügyelet elő tudja állítani.
+
+(3) A Felügyelet a pénzügyi intézmény számára nem írhat elő rendkívüli adatszolgáltatást, ha az információt korábban más formátumban vagy részletességgel megkapta és ez az eltérő formátum vagy részletezettség nem akadályozza meg abban, hogy az egyébként szolgáltatandó kiegészítő információn alapulóval megegyező minőségű és megbízható információt állítson elő.
+
 170. § A hitelintézet bejelenti öt munkanapon belül a Felügyeletnek, ha anyavállalata vegyes tevékenységű holding társaság vagy vegyes pénzügyi holding társaság lett vagy ezen viszony módosul, illetve megszűnik.
 
 171. § A Felügyelet a pénzügyi intézménytől, valamint pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személytől közbenső beszámoló, meghatározott formájú és tagolású kimutatás, könyvvizsgálati jelentés bemutatását kérheti, továbbá a pénzügyi intézménytől, annak szerveitől valamennyi üzleti ügyéről felvilágosítást kérhet.
@@ -3018,13 +3224,13 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 
 172. § (1) A Felügyelet látja el a Magyarországon bejegyzett hitelintézet összevont alapú felügyeletét.
 
-(2) Ha valamely hitelintézet anyavállalata befektetési vállalkozás, illetve a befektetési vállalkozás részesedési viszonnyal rendelkezik hitelintézetben és a hitelintézet nem tartozik az (1) bekezdésben meghatározott összevont alapú felügyelet alá, akkor a Bszt. összevont alapú felügyeletre vonatkozó szabályai alkalmazandóak.
+(2) Ha valamely befektetési vállalkozás részesedési viszonnyal rendelkezik hitelintézetben és a hitelintézet nem tartozik az (1) bekezdésben meghatározott összevont alapú felügyelet alá, akkor a Bszt. összevont alapú felügyeletre vonatkozó szabályai alkalmazandóak.
 
 (3) A Felügyelet nem vizsgálja a pénzügyi holding társaság, a külföldi hitelintézet, pénzügyi holding társaság és vegyes tevékenységű holding társaság prudens működését egyedi alapon.
 
 (4) Ha a Felügyelet dokumentumok vagy helyszíni ellenőrzés alapján szoros kapcsolatot állapít meg, összevont alapú felügyelet alá tartozónak minősíthet valamely magyarországi bejegyzésű hitelintézetet, és meghatározhatja, hogy valamely vállalkozásra az összevont alapú felügyelet kiterjed.
 
-(5) Az olyan hitelintézet, pénzügyi vállalkozás, befektetési vállalkozás és járulékos vállalkozás, amelyben az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik – ha jogszabály másként nem rendelkezik -, az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság részére az összevont alapú felügyelet érdekében szükséges minden adatot és információt átad. Ezen egyedi adatot és információt az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság elkülönítetten – az adatvédelmi előírások betartásával – kezeli.
+(5) Az olyan hitelintézet, pénzügyi vállalkozás, befektetési vállalkozás és járulékos vállalkozás, amelyben az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik – ha jogszabály másként nem rendelkezik –, az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság részére az összevont alapú felügyelet érdekében szükséges minden adatot és információt átad. Az olyan leányvállalat esetében, amely nem tartozik e törvény hatálya alá, az anyavállalat biztosítja, hogy a leányvállalat egyedi alapon eleget tegyen az e törvényben foglalt feltételeknek. Ezen egyedi adatot és információt az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság elkülönítetten – az adatvédelmi előírások betartásával – kezeli.
 
 (6) Az olyan hitelintézettől, pénzügyi vállalkozástól, befektetési vállalkozástól és járulékos vállalkozástól, amelyben az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, a Felügyelet közvetlenül is kérhet az összevont alapú felügyelet érdekében szükségessé váló adatot és információt.
 
@@ -3046,29 +3252,28 @@ rendszeres figyelemmel kíséréséhez, ellenőrzési feladatainak ellátása é
 
 173. § (1) Egy EU-szintű hitelintézeti anyavállalat és annak leányvállalatai vagy egy EU-szintű pénzügyi holding társaság anyavállalat és annak leányvállalatai vagy egy EU-szintű vegyes pénzügyi holding társaság anyavállalat és annak leányvállalatai
 
-- a) a belső tőkemegfelelés értékelési folyamat,
-- b) a likviditási kockázat,
-- c) a felügyeleti felülvizsgálat,
-- d) a 79. § (2) bekezdése szerinti többlettőke-követelmény vagy
-- e) az intézményspecifikus likviditási követelmények teljesítése
+- a) tőkemegfelelés belső értékelési eljárása és a felügyeleti felülvizsgálata és értékelése érdekében, hogy a csoport szavatoló tőkéje összevont alapon megfelel-e a pénzügyi helyzetének és a kockázati profiljának, valamint a többlettőke-követelmény egyedi és összevont alapon történő meghatározása,
+- b) a likviditási kockázat kezelése, ideértve a vállalat-irányítási rendszer és a kockázatkezelés likviditási kockázatra vonatkozó követelménye, valamint az egyedi likviditási követelmények meghatározása, és
+- c) a tőke ajánlása
 
-tekintetében a Felügyelet és az EU-szintű hitelintézeti anyavállalatnak vagy az EU-szintű pénzügyi holding társaság anyavállalatnak, vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalatnak székhelye szerinti EGT-állam illetékes felügyeleti hatóságai együttesen járnak el (a továbbiakban: többoldalú eljárás).
+tekintetében a Felügyelet és az EU-szintű hitelintézeti anyavállalat vagy az EU-szintű pénzügyi holding társaság anyavállalat, vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat székhelye szerinti EGT-állam illetékes felügyeleti hatóságai együttesen járnak el (a továbbiakban: többoldalú eljárás).
 
 (2) Ha a Felügyelet látja el az EU-szintű hitelintézeti anyavállalat, az EU-szintű pénzügyi holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalati hitelintézet felügyeletét, akkor az (1) bekezdésben meghatározott eljárás megkezdésekor a Felügyelet
 
 - a) haladéktalanul továbbítja a szükséges információkat és dokumentumokat azon EGT-állam illetékes felügyeleti hatóságai részére, amelyben székhellyel rendelkező vállalkozásokra kiterjed az EU-szintű hitelintézeti anyavállalatnak, az EU-szintű pénzügyi holding társaság anyavállalatnak vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalatnak az összevont alapú felügyelete, és
-- b) ezzel egyidejűleg tájékoztatja az a) pontban meghatározott EGT-állam illetékes felügyeleti hatóságait a határozat-tervezetre vonatkozó vélemény, elemzés és fenntartás MNB részére történő megküldésének határidejéről.
+- b) ezzel egyidejűleg tájékoztatja az a) pontban meghatározott EGT-állam illetékes felügyeleti hatóságait a határozat-tervezetre vonatkozó vélemény, elemzés és fenntartás Felügyelet részére történő megküldésének határidejéről.
 
 (3) A Felügyelet a többoldalú eljárás keretében csak valamennyi, az eljárásban részt vevő EGT-állam illetékes felügyeleti hatósága egyetértésével hozhat érvényes határozatot (a továbbiakban: többoldalú eljárás keretében hozott határozat), amely határozat meghozatalának határideje
 
-- a) az (1) bekezdés a), c) és d) pontja tekintetében a hiánytalan kérelem beérkezését követően a Felügyelet által elkészített összevont alapú kockázatértékelési jelentésnek (amely kiterjed arra is, hogy a csoport szavatoló tőkéje összevont alapon megfelel-e a csoport pénzügyi helyzetének és kockázati jellemzőinek) az eljárásban résztvevő illetékes felügyeleti hatóságok részére történő továbbításától számított négy hónap,
-- b) az (1) bekezdés b) és e) pontja tekintetében a hiánytalan kérelem beérkezését követően a Felügyelet által elkészített összevont alapú likviditási kockázat-elemzési jelentésnek (amely kiterjed a likviditási felügyelethez kapcsolódó jelentős problémák kezelésére szolgáló intézkedésekre, ideértve a kockázatkezeléssel vagy az intézményspecifikus likviditási követelmények szükségességével kapcsolatos intézkedéseket is) az eljárásban résztvevő felügyeleti hatóságok részére történő továbbításától számított egy hónap.
+- a) az (1) bekezdés a) pontja tekintetében a hiánytalan kérelem beérkezését követően a Felügyelet által elkészített összevont alapú kockázatértékelési jelentésnek (amely kiterjed arra is, hogy a csoport szavatoló tőkéje összevont alapon megfelel-e a csoport pénzügyi helyzetének és kockázati jellemzőinek) az eljárásban résztvevő illetékes felügyeleti hatóságok részére történő továbbításától számított négy hónap,
+- b) az (1) bekezdés b) pontja tekintetében a hiánytalan kérelem beérkezését követően a Felügyelet által elkészített összevont alapú likviditási kockázat-elemzési jelentésnek (amely kiterjed a likviditási felügyelethez kapcsolódó jelentős problémák kezelésére szolgáló intézkedésekre, ideértve a kockázatkezeléssel vagy a hitelintézet-specifikus likviditási követelmények szükségességével kapcsolatos intézkedéseket is) az eljárásban résztvevő felügyeleti hatóságok részére történő továbbításától számított négy hónap, illetve
+- c) az (1) bekezdés c) pontja tekintetében a hiánytalan kérelem beérkezését követően a Felügyelet által a tőke ajánlásban megállapítottaknak megfelelően a csoport kockázatértékeléséről elkészített jelentésnek az eljárásban résztvevő felügyeleti hatóságok részére történő továbbításától számított négy hónap.
 
 (4) Ha az eljárásban résztvevő EGT-állam illetékes felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor a (3) bekezdésben rögzített határidőn belül az eljárásban résztvevő bármelyik EGT-állam illetékes felügyeleti hatósága kérésére a Felügyelet az EBH-val a többoldalú eljárás eredménytelensége vonatkozásában egyeztetést köteles folytatni vagy saját kezdeményezésére egyeztetést folytathat.
 
 (5) Ha az eljárásban részt vevő EGT-állam felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a Felügyelet a többoldalú eljárás lezárultát követő tíz munkanapon belül, az eljárásban részt vevő valamennyi EGT-állam illetékes felügyeleti hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
 
-(6) Ha a Felügyelet a (4) bekezdés szerinti egyeztetést folytat az EBH-val, akkor a (3) bekezdéstől eltérően az eljárás határideje az EBH-nak az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdése szerinti határozatnak a Felügyelet részére történő átadását követő tíz munkanap múlva jár le.
+(6) Ha a Felügyelet a (4) bekezdés szerinti egyeztetést folytat az EBH-val, akkor a (3) bekezdéstől eltérően az eljárás határideje az EBH-nak az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1093/2010/EU rendelet) 19. cikk (3) bekezdése szerinti határozatnak a Felügyelet részére történő átadását követő tíz munkanap múlva jár le.
 
 (7) A Felügyelet a (6) bekezdés szerinti egyeztetést követően az EBH határozatát a határozatának meghozatalakor figyelembe veszi. Ha a Felügyelet a határozatában jelentősen eltér az EBH határozatától, akkor a határozatában az eltérést indokolja.
 
@@ -3081,9 +3286,32 @@ tekintetében a Felügyelet és az EU-szintű hitelintézeti anyavállalatnak va
 (11) A Felügyelet a (3) bekezdés szerinti határozat megváltoztatásának szükségességét
 
 - a) legalább évente egyszer vagy
-- b) az összevont alapú felügyelet alá tartozó anyavállalat, leányvállalat illetékes felügyeleti hatósága az (1) bekezdés d) vagy e) pontja vonatkozásában írásban, indokolással ellátott kérelmére
+- b) az összevont alapú felügyelet alá tartozó anyavállalat, leányvállalat illetékes felügyeleti hatósága a többlettőke-követelmény, a tőke ajánlás, valamint az egyedi likviditási kockázat meghatározása vonatkozásában írásban, indokolással ellátott kérelmére
 
 megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illetékes felügyeleti hatóság.
+
+173/A. § (1) A Felügyelet a pénzügyi holding társaság, vegyes pénzügyi holding társaság 15/A. § szerinti külön jóváhagyása, jóváhagyás alóli mentesítése, valamint a jóváhagyás feltételeit már nem teljesítő pénzügyi holding társasággal, vegyes pénzügyi holding társasággal szemben alkalmazott intézkedések, kivételes intézkedések tekintetében együttműködik a másik EGT-állam illetékes felügyeleti hatóságával, ha
+
+- a) a pénzügyi holding társaság, vegyes pénzügyi holding társaság másik EGT-államban van letelepedve és a csoport összevont alapú felügyeletét a Felügyelet látja el, vagy
+- b) a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot tartalmazó csoport összevont alapú felügyeletét másik EGT-állam illetékes felügyeleti hatósága látja el.
+
+(2) Ha a Felügyelet látja el a másik EGT-államban letelepedett pénzügyi holding társaságot, vegyes pénzügyi holding társaságot tartalmazó csoport összevont alapú felügyeletét, akkor a másik EGT-állam illetékes felügyeleti hatósága részére értékelést készít az (1) bekezdésben meghatározott döntések tekintetében.
+
+(3) A Felügyelet minden tőle telhetőt megtesz annak érdekében, hogy a másik EGT-állam illetékes felügyeleti hatóságával a döntéshez kapcsolódó értékelés kézhezvételétől számított két hónapon belül többoldalú eljárás keretében határozatot hozzanak.
+
+(4) A többoldalú eljárás keretében hozott határozatot a csoport összevont alapú felügyeletét ellátó illetékes felügyeleti hatóság közli a pénzügyi holding társasággal vagy a vegyes pénzügyi holding társasággal.
+
+(5) Ha az eljárásban résztvevő EGT-állam illetékes felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor az ügyet az 1093/2010/EU rendelet 19. cikkével összhangban az EBH elé kell terjeszteni és az EBH határozatával összhangban álló együttes határozatot kell hozni.
+
+(6) A (3) bekezdésben meghatározott két hónapos időtartam végét vagy az együttes határozat meghozatalát követően az ügy már nem terjeszthető az EBH elé.
+
+(7) Ha a vegyes pénzügyi holding társaságot tartalmazó csoport összevont alapú hatósága vagy a vegyes pénzügyi holding társaság illetékes felügyeleti hatósága nem azonos a pénzügyi konglomerátum kiegészítő felügyelete ellátásáért felelős koordinátorral, az (1) bekezdésben meghatározott döntéshez a koordinátor jóváhagyása is szükséges.
+
+(8) Ha a többoldalú eljárás keretében hozott határozathoz a koordinátor jóváhagyása is szükséges és a többoldalú eljárás egyetértés hiányában eredménytelen, akkor az ügyet az érintett európai felügyeleti hatósághoz – az EBH-hoz vagy az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatósághoz – kell utalni.
+
+(9) A pénzügyi holding társaság, vegyes pénzügyi holding társaság külön jóváhagyás iránti kérelme elutasítása esetén, a csoport összevont alapú felügyeletét ellátó illetékes felügyeleti hatóság az engedély iránti kérelem kézhezvételét követő négy hónapon belül, vagy amennyiben a kérelem hiányos, a határozathoz szükséges összes információ kézhezvételétől számított négy hónapon belül az elutasításról és annak indokairól tájékoztatja a kérelmezőt.
+
+(10) A pénzügyi holding társaság, vegyes pénzügyi holding társaság külön jóváhagyás iránti kérelméről hat hónapon belül dönteni kell. Az engedélyezés elutasítása esetén – amennyiben erre szükség van – a 192/A. §-ban meghatározott kivételes intézkedések alkalmazhatóak.
 
 #### 75. Összevont alapú felügyeleti ellenőrzés
 
@@ -3095,24 +3323,24 @@ megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illet�
 
 (4) Az (1) és (2) bekezdés szerinti ellenőrzést a Felügyelet harmadik ország felügyeleti hatóságának kérésére is végezhet, valamint a viszonosság mérlegelése alapján vagy érvényben lévő felügyeleti megállapodás esetén hozzájárulhat, hogy az ellenőrzésben a hozzájárulást kérő felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő résztvegyen.
 
-(5) Ha a hitelintézet anyavállalata harmadik országbeli hitelintézet, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság, akkor az összevont alapú felügyelet ellátása érdekében a Felügyelet megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2013/36/EU irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak. A Felügyelet a vizsgálat során egyeztet az EBH-val. Az egyeztetést követően a Felügyelet dönt a jogrend megfelelőségéről.
+(5) Ha a hitelintézet anyavállalata harmadik országbeli hitelintézet, akkor az összevont alapú felügyelet ellátása érdekében a Felügyelet megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2013/36/EU irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak. A Felügyelet a vizsgálat során egyeztet az EBH-val. Az egyeztetést követően a Felügyelet dönt a jogrend megfelelőségéről.
 
 (6) Ha a harmadik ország jogrendje nem felel meg az Európai Parlament és a Tanács 2013/36/EU irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak, akkor a Felügyelet látja el az összevont alapú felügyeleti feladatokat, és ennek érdekében minden lehetséges intézkedést megtesz.
 
 (7) A (6) bekezdésben meghatározott esetben a Felügyelet egyeztet a harmadik országbeli hitelintézet, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság székhelye szerinti illetékes felügyeleti hatóságával.
 
-175. § (1) Ha a hitelintézet tagállami anyavállalat vagy EU-szintű anyavállalat, akkor az összevont alapú felügyeletet a hitelintézetet engedélyező EGT-állam illetékes felügyeleti hatósága látja el.
+175. § (1) Ha a magyarországi székhelyű hitelintézet tagállami hitelintézet anyavállalat vagy EU-szintű hitelintézet anyavállalat, akkor az összevont alapú felügyeletet a Felügyelet látja el.
 
-(2) Ha a hitelintézet anyavállalata tagállami pénzügyi holding társaság anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat, vagy tagállami vegyes pénzügyi holding társaság anyavállalat, vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat, akkor az összevont alapú felügyeletet a hitelintézetet engedélyező EGT-állam illetékes felügyeleti hatósága látja el. Ha a Felügyelet látja el az összevont alapú felügyeletet, akkor a pénzügyi holding társaság anyavállalatot és a vegyes pénzügyi holding társaság anyavállalatot bejelenti az Európai Bizottságnak, valamint tájékoztatja a többi EGT-állam illetékes felügyeleti hatóságát.
+(2) Ha a magyarországi székhelyű hitelintézet anyavállalata tagállami pénzügyi holding társaság anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat, vagy tagállami vegyes pénzügyi holding társaság anyavállalat, vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat, akkor az összevont alapú felügyeletet a Felügyelet látja el. Ha a Felügyelet látja el az összevont alapú felügyeletet, akkor a pénzügyi holding társaság anyavállalatot és a vegyes pénzügyi holding társaság anyavállalatot bejelenti az Európai Bizottságnak, valamint tájékoztatja a többi EGT-állam illetékes felügyeleti hatóságát.
 
-(3) Ha egy magyarországi székhelyű hitelintézet és egy más EGT-állam hitelintézete ugyanazon tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat, EU-szintű pénzügyi holding társaság vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalata – a (4) bekezdésben foglalt kivétellel –, az összevont alapú felügyeletet azon EGT-állam illetékes felügyeleti hatósága látja el, amelyben a pénzügyi holding társaságot vagy vegyes pénzügyi holding társaságot bejegyezték.
+(3) Ha egy magyarországi székhelyű hitelintézet és egy más EGT-állam hitelintézete ugyanazon tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat, EU-szintű pénzügyi holding társaság vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalata, az összevont alapú felügyeletet a Felügyelet látja el, ha
 
-(4) Ha egy magyarországi székhelyű hitelintézet és egy más EGT-állam hitelintézete
+- a) a magyarországi székhellyel rendelkező hitelintézet a csoportban az egyetlen hitelintézet,
+- b) a magyarországi székhellyel rendelkező hitelintézet a legnagyobb mérlegfőösszeggel rendelkező hitelintézet a csoportban.
 
-- a) ugyanazon pénzügyi holding társaság vagy vegyes pénzügyi holding társaság leányvállalata, de egyikük székhelye sem abban a EGT-államban található, amelyben a pénzügyi holding társaság vagy vegyes pénzügyi holding társaság székhelye, vagy
-- b) több olyan pénzügyi holding társaság leányvállalata, amelyeknek a székhelye különböző EGT-államban található, és ezen EGT-államok mindegyikében engedélyeztek hitelintézeti leányvállalatot,
+(4) Ha egy csoport esetében az 575/2013/EU rendelet 18. cikk (3) vagy (6) bekezdése alapján történik a konszolidáció és a legnagyobb mérlegfőösszegű hitelintézet magyarországi székhelyű, akkor a Felügyelet látja el az összevont alapú felügyeletet.
 
-az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező hitelintézet felügyeletét ellátó hatóság feladatát képezi.
+(4a) Ha a csoportban több azonos tagállamban székhellyel rendelkező hitelintézet is van, akkor a Felügyelet abban az esetben látja el az összevont alapú felügyeleti feladatot, ha a magyarországi székhelyű hitelintézet mérlegfőösszegének az összege a legmagasabb az egy tagállamban lévő hitelintézetek mérlegfőösszegeinek az összegei közül.
 
 (5) A (2)–(4) bekezdésben meghatározottaktól a felügyeleti hatóságok eltérhetnek, de ebben az esetben a megállapodás előtt a tagállami pénzügyi holding társaság anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat, tagállami vegyes pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat véleményét is ki kell kérni.
 
@@ -3149,6 +3377,12 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 
 (8) A Felügyelet sürgős esetben vagy ha az egyeztetés veszélyeztetheti a határozat végrehajtásának hatékonyságát, dönthet úgy, hogy a (7) bekezdésben foglalt egyeztetést nem folytatja le. Ebben az esetben a döntést követően haladéktalanul tájékoztatja a többi érintett EGT-állam illetékes felügyeleti hatóságát.
 
+(9) Ha a Felügyelet látja el a 175. § (5) bekezdése szerinti megállapodás alapján az összevont alapú felügyeleti feladatot, de a pénzügyi holding társaság vagy a vegyes tevékenységű holding társaság anyavállalat esetében nem a Felügyelet az illetékes felügyeleti hatóság, akkor a Felügyeletnek a pénzügyi holdingtársaság, illetve a vegyes tevékenységű holding társaság anyavállalat felügyeleti hatóságával is meg kell kötnie az (1) bekezdés szerinti együttműködési megállapodást.
+
+(10) Ha egy vegyes pénzügyi holding társaság anyavállalati csoport összevont alapú felügyeletét a Felügyelet látja el, de ezen csoport mint pénzügyi konglomerátum koordinátora nem a Felügyelet, akkor a Felügyelet együttműködik a pénzügyi konglomerátum koordinátorával, amely együttműködés hatékonysága érdekében írásos formában jelenítik meg az együttműködés módját, lépéseit és céljait.
+
+(11) A harmadik országbeli hitelintézet fióktelepének felügyelete során a Felügyelet együttműködik az ilyen hitelintézet más fióktelepeit, valamint a hitelintézet által vezetett csoporthoz tartozó hitelintézeteket felügyelő illetékes hatóságokkal annak érdekében, hogy együttesen biztosítsák ezen harmadik országbeli csoport Európai Unióban folytatott valamennyi tevékenységének átfogó felügyeletét annak érdekében, hogy megakadályozzák az e törvény és az 575/2013/EU rendelet értelmében a harmadik országbeli csoportokra vonatkozóan előírt követelmények megkerülését, valamint az Európai Unió pénzügyi stabilitására gyakorolt bármely káros hatást.
+
 #### 76. Felügyeleti felülvizsgálat és értékelés
 
 177. § (1) A Felügyelet felülvizsgálja és értékeli azokat a szabályzatokat, stratégiákat, eljárásokat és módszereket, amelyeket a hitelintézet az e törvény, továbbá a prudens működésre vonatkozó szabályok és az 575/2013/EU rendelet betartása érdekében hoz.
@@ -3159,9 +3393,8 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 
 (4) A Felügyelet a felülvizsgálati és értékelési eljárás során értékeli:
 
-- a) azon kockázatokat, amelyeknek a hitelintézet ki van vagy ki lehet téve,
-- b) a hitelintézet pénzügyi közvetítőrendszerre gyakorolt rendszerszintű kockázatát, és
-- c) azon kockázatokat, amelyeket a stressz-teszt során a hitelintézet tevékenységének jellegét, nagyságrendjét és összetettségét figyelembe véve feltártak.
+- a) azon kockázatokat, amelyeknek a hitelintézet ki van vagy ki lehet téve, és
+- b) azon kockázatokat, amelyeket a stressz-teszt során a hitelintézet tevékenységének jellegét, nagyságrendjét és összetettségét figyelembe véve feltártak.
 
 (5) A felülvizsgálatnak és értékelésnek a hitel-, piaci és működési kockázatokon kívül ki kell terjednie:
 
@@ -3175,7 +3408,7 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 - h) egy olyan mérési vizsgálatra, amelynek keretében a Felügyelet megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére,
 - i) arra, hogy a hitelintézet által értékpapírosított eszközökre vonatkozó szavatoló tőke mértéke megfelel-e az ügylet gazdasági tartalma által indokolt mértéknek, ideértve az átadott kockázat mértékét is,
 - j) a hitelintézet üzleti modelljére,
-- k) a rendszerszintű kockázatra,
+- k)
 - l) a hitelintézet túlzott tőkeáttételi kockázatnak való kitettségére, és annak kezelése céljából működtetett rendszerek, stratégiák, eljárások és mechanizmusok megfelelőségére, valamint
 - m) a hitelintézet vállalatirányítási rendszereire, vállalati kultúrájára és értékeire, az irányító és ellenőrző testületek feladatai ellátására irányuló képességeire.
 
@@ -3189,9 +3422,15 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 
 (10) A Felügyelet a felügyeleti felülvizsgálat és értékelés keretében ellenőrzi, hogy a hitelintézet nyújtott-e burkolt támogatást értékpapírosításhoz. Ha a hitelintézet egynél többször nyújtott már az 575/2013/EU rendelet 248. cikke szerinti burkolt támogatást, és ezzel nem ér el jelentős kockázat-transzferálást, akkor a Felügyeletnek meg kell tennie a 185. § szerinti intézkedéseket.
 
-(11) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a Felügyelet a hitelintézet mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer elvégzi.
+(11) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a Felügyelet a hitelintézet mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer elvégzi. A Felügyelet az arányosság elvét a honlapján közzétett feltételeknek megfelelően alkalmazza.
 
-(12) Ha a Felügyelet a felügyeleti felülvizsgálat és értékelés során azt állapítja meg, hogy a hitelintézet az (5) bekezdés h) pontja szerinti kamatlábváltozás figyelembevételével számított üzleti értéke (eszköz-, idegen forrás- és mérlegen kívüli pozíciói várható nettó pénzáramlásának jelenértéke) a szavatoló tőke több mint húsz százalékával csökkenne a kamatlábváltozás figyelembevétele nélkül számított üzleti értékéhez viszonyítva a kamatláb hirtelen és nem várt, 200 bázispontos vagy az EBH által meghatározott egyéb változás eredményeként, akkor a Felügyelet a 185–186. §-okban foglalt intézkedést alkalmaz.
+(11a) A Felügyelet – az EBH-nak történő bejelentés mellett – egységesítheti a felügyeleti felülvizsgálat és értékelés alkalmazására vonatkozó módszertanokat, hogy figyelembe vegye – különösen az üzleti modellek hasonlósága vagy a kitettségek hasonló földrajzi helye alapján – a hasonló kockázati profillal rendelkező hitelintézeteket. Az egységesített módszertanok a felügyeleti felülvizsgálat és értékelés alapján előírt többlettőke hitelintézet specifikus jellegét nem érintve kockázatorientált referenciaértékeket és számszerű mutatókat is tartalmazhatnak, valamint lehetővé kell tenniük azon egyedi kockázatok megfelelő mérlegelését, amelyeknek az egyes hitelintézetek ki lehetnek téve.
+
+(12) A Felügyelet a 185. és 186. §-ban foglalt intézkedéseket alkalmazhatja, ha a hitelintézet nem megfelelően kezeli a nem kereskedési könyvi tevékenységből fakadó kamatlábkockázatot és túlzott mértékben kitett a nem kereskedési könyvi tevékenységből származó kamatlábkockázatnak, így különösen
+
+- a) a hitelintézet tőkéjének a 108. § (5a) bekezdés a) pontja szerinti gazdasági értéke a kamatlábnak a hat felügyeleti sokkforgatókönyv bármelyike általi hirtelen és váratlan változása következtében legalább az alapvető tőke 15 százalékának megfelelő mértékben csökken,
+- b) a hitelintézet 108. § (5a) bekezdés a) pontja szerinti nettó kamatbevétele a kamatlábra alkalmazott két felügyeleti sokkforgatókönyv bármelyike általi hirtelen és váratlan változásának következtében jelentősen csökken,
+- c) egyéb olyan esetekben, amikor a Felügyelet a nem kereskedési tevékenységből fakadó kamatlábkockázatot jelentősnek ítéli.
 
 (13) Az (5) bekezdés m) pontja szerinti felügyeleti felülvizsgálat és értékelés keretében a hitelintézet a Felügyelet rendelkezésére bocsátja legalább
 
@@ -3221,9 +3460,8 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 
 178. § (1) A Felügyelet évente felügyeleti vizsgálati programot fogad el az általa felügyelt, Magyarországon bejegyzett azon hitelintézetek esetében, amelyek
 
-- a) szolvenciáját veszélyeztető kockázatok azonosítására kerül sor az elvégzett stressz-tesztek eredményei vagy a felügyeleti felülvizsgálat és értékelési eljárás eredményei alapján,
-- b) megsértik az e törvény, a prudens működésre vonatkozó szabályok és az 575/2013/EU rendelet rendelkezéseit, vagy
-- c) a pénzügyi rendszer alapján rendszerszinten jelentősek.
+- a) szolvenciáját veszélyeztető kockázatok azonosítására kerül sor az elvégzett stressz-tesztek eredményei vagy a felügyeleti felülvizsgálat és értékelési eljárás eredményei alapján, vagy
+- b) megsértik az e törvény, a prudens működésre vonatkozó szabályok és az 575/2013/EU rendelet rendelkezéseit.
 
 (2) A felügyeleti vizsgálati program magában foglalja legalább a következőket:
 
@@ -3266,19 +3504,13 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 - a) visszavonja a belső modell alkalmazására vonatkozó engedélyt, vagy
 - b) megfelelő intézkedést hoz a belső modell azonnali kiigazításának biztosítása érdekében.
 
-180. § (1) A Felügyelet hasonló vagy azonos felügyeleti felülvizsgálati és értékelési eljárást alkalmazhat azon hitelintézetek esetében, amelyek
-
-- a) hasonló kockázati profillal rendelkeznek, ideértve a hasonló üzleti modelleket vagy a hasonló földrajzi hely szerinti kitettségeket is, vagy
-- b) hasonló kockázatokat jelentenek a pénzügyi közvetítőrendszer számára.
-
-(2) Az (1) bekezdés szerinti hitelintézetek különösen a rendszerszintű kockázat értékelése alapján határozhatóak meg.
+#### 180. §
 
 181. § Az egyedi likviditási követelmények meghatározása során a Felügyelet a felügyeleti felülvizsgálati és értékelési eljárás eredményeit felhasználva figyelembe veszi
 
 - a) a hitelintézet üzleti modelljét,
-- b) a 108. § (5) bekezdés f) pontjában meghatározott rendszereket, eljárásokat és mechanizmusokat,
-- c) a felügyeleti felülvizsgálat és értékelés eredményét, valamint
-- d) a Magyarországot fenyegető rendszerszintű likviditási kockázatot.
+- b) a 108. § (5) bekezdés f) pontjában meghatározott rendszereket, eljárásokat és mechanizmusokat, és
+- c) a felügyeleti felülvizsgálat és értékelés eredményét.
 
 #### 77. Csoportszintű felügyeleti felülvizsgálat
 
@@ -3311,6 +3543,8 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 - i) nem tesz eleget tartalékképzési kötelezettségének,
 - j) nem teljesíti Pmt.-ben előírt kötelezettségét,
 - k) a hitelintézet nem tesz eleget a 228. § (6) bekezdésében foglalt kötelezettségének.
+- l) a 31/A. §-t megsértve nem rendelkezik a felügyeleti engedéllyel,
+- m) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat nem teljesíti az 575/2013/EU rendelet harmadik, negyedik vagy hetedik részében meghatározott követelményeket, vagy a 169. § (2) és (3) bekezdése vagy a 181. § alapján előírt követelményeknek összevont alapon vagy szubkonszolidált alapon történő teljesítéséhez szükséges lépéseket.
 
 (2) A Felügyelet e törvény, a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működésére vonatkozó jogszabályok, tevékenységre vonatkozó jogszabályok előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – megteszi a szükséges intézkedést, ha a pénzügyi intézmény, a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy
 
@@ -3361,6 +3595,8 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 
 (9) A kivételes intézkedésről szóló határozat meghozatala előtt a Felügyelet nem köteles egyeztetni a másik EGT-állam illetékes felügyeleti hatóságával, ha az egyeztetéshez szükséges időtartam veszélyezteti a határozat végrehajthatóságát. Ebben az esetben a határozat meghozataláról a Felügyelet a másik EGT-állam illetékes felügyeleti hatóságát haladéktalanul tájékoztatja.
 
+(10) Ha a pénzügyi holding társaság, vegyes pénzügyi holding társaság már nem teljesíti a jóváhagyás 31/A. §-ban meghatározott feltételeit, akkor a Felügyelet minden szükséges intézkedést, kivételes intézkedést meghoz annak érdekében, hogy biztosítani lehessen vagy helyre lehessen állítani az összevont alapú felügyelet folyamatosságát és integritását, valamint az e törvényben és az 575/2013/EU rendeletben megállapított követelményeknek való összevont alapon történő megfelelést. A vegyes pénzügyi holding társasággal szembeni intézkedés meghatározásakor figyelembe kell venni különösen azt, hogy az intézkedés milyen hatást gyakorol az érintett pénzügyi konglomerátumra.
+
 #### 79. Intézkedések
 
 185. § (1) Az előírások megsértése vagy hiányosság megállapítása esetén – ha azok a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazhatja:
@@ -3398,7 +3634,7 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
   - ce) a hitel- vagy kölcsönszerződésekben foglalt határidők meghosszabbítását (prolongálását),
   - cf) az egyes pénzügyi szolgáltatási tevékenységek vagy kiegészítő pénzügyi szolgáltatási tevékenységek végzését,
   - cg) fiókok megnyitását, új pénzügyi szolgáltatások megkezdését, valamint egy pénzügyi szolgáltatáson belül új tevékenység (új üzletág) megkezdését;
-- d) a teljesítményjavadalmazás nettó bevétel százalékában történő meghatározására kötelezheti a hitelintézetet, ha a teljesítményjavadalmazás nincs összhangban a prudenciális követelményekkel;
+- d) a teljesítményjavadalmazás nettó bevétel százalékában történő meghatározására kötelezheti a hitelintézetet, ha a teljesítményjavadalmazás nincs összhangban a prudenciális követelmények teljesítésével;
 - e) kötelezheti a hitelintézetet a 114. § szerinti helyreállítási terv életbe léptetésére, az abban foglalt lépések alkalmazására, vagy – ha a Felügyelet által alkalmazandó intézkedést kiváltó esemény eltér a helyreállítási tervben foglalt feltételezéstől – a helyreállítási terv harminc napon belül történő felülvizsgálatára és a módosított helyreállítási tervben foglalt lépések megtételére.
 
 (3)
@@ -3412,23 +3648,59 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 - c) irányítási rendszerének felülvizsgálatára,
 - d) forrásbevonási stratégiájának a fő üzletágak, kritikus funkciók ellenálló képessége növelése érdekében történő felülvizsgálatára.
 
-186. § (1) A Felügyelet a hitelintézet számára többlettőke-követelményt írhat elő, ha
+186. § (1) A Felügyelet a hitelintézet számára abban az esetben ír elő többlettőke-követelményt, ha a felügyeleti felülvizsgálat és értékelés alapján az adott hitelintézet vonatkozásában a következő helyzetek valamelyikének fennállását állapította meg:
 
-- a) a hitelintézet nem teljesíti a belső tőkemegfelelési eljárásra, a helyreállítási tervre vagy a nagykockázat vállalására vonatkozó követelményeket,
-- b) a hitelintézet tőkekövetelménye nem fedez egyes kockázatokat,
-- c) a már alkalmazott intézkedések előreláthatóan nem javítanak kellő mértékben a hitelintézet rendszerein, eljárásain vagy stratégiáin,
-- d) a hitelintézet által alkalmazott módszerre vonatkozó követelmények nem teljesítése nem megfelelő tőkekövetelményt eredményez,
-- e) a hitelintézet valószínűsíthetően alulbecsli a kockázatait,
-- f) a hitelintézet tájékoztatja a Felügyeletet, hogy a stressz-teszt eredményei jelentősen meghaladják a korrelációkereskedési portfólióra vonatkozó tőkekövetelményüket.
+- a) a hitelintézet olyan kockázatoknak vagy kockázati elemeknek van kitéve, amelyeket az 575/2013/EU rendelet harmadik, negyedik és hetedik részében, valamint az (EU) 2017/2402 rendelet 2. fejezetében meghatározott tőkekövetelmények nem megfelelően fedeznek,
+- b) a hitelintézet nem teljesíti a tőkemegfelelés belső értékelési eljárására, a vállalatirányításra, a helyreállítási tervre vonatkozó követelményeket vagy az 575/2013/EU rendelet 393. cikkében meghatározott követelményeket és más felügyeleti intézkedés nem lenne elégséges annak biztosításához, hogy e követelmények megfelelő időn belül teljesüljenek,
+- c) a 177. § (8) bekezdésével összhangban a kereskedési könyvbeli pozíciók vagy portfóliók vonatkozásában a hitelintézet által tett értékelési módosítások nem elegendőek ahhoz, hogy lehetővé tegyék a hitelintézet számára pozícióinak rövid időn belüli, jelentős veszteség nélküli értékesítését vagy fedezését normális piaci körülményeket feltételezve,
+- d) a 179. § (4)–(6) bekezdése alapján elvégzett értékelés során, hogy az engedélyezett módszer alkalmazásához szükséges követelmények nem teljesítése várhatóan nem megfelelő szavatoló tőke követelményeket eredményez,
+- e) a hitelintézet ismételten nem biztosítja vagy nem tartja fenn a tőke ajánlásban megállapított követelményt,
+- f) egyéb hitelintézet-specifikus helyzet, amely érdemi felügyeleti aggályokat idézhet elő.
 
-(2) A többlettőke-követelmény mértékének meghatározásakor a Felügyelet figyelembe veszi:
+(2) A Felügyelet csak azért írhat elő többlettőke-követelményt, hogy fedezze a hitelintézet tevékenységéből eredő kockázatokat, ideértve azokat, amelyek egyes gazdasági és piaci fejlemények által az adott hitelintézet kockázati profiljára gyakorolt hatást tükrözik.
 
-- a) a hitelintézet belső tőkemegfelelés értékelési folyamatának menyiségi és minőségi szempontjait,
-- b) a hitelintézet irányítási és kockázatkezelési rendszerének megfelelőségét,
-- c) a hitelintézetnél végrehajtott felügyeleti felülvizsgálat eredményét, és
-- d) a hitelintézet rendszerszintű kockázatát.
+(3) Az (1) bekezdés a) pontjának alkalmazásában a kockázatokat vagy kockázati elemeket csak akkor kell az 575/2013/EU rendelet Harmadik, Negyedik és Hetedik Részében, valamint az (EU) 2017/2402 rendelet 2. fejezetében meghatározott szavatoló tőke követelmények által nem fedezettnek vagy nem elegendő mértékben fedezettnek tekinteni, ha a hitelintézet által elvégzett tőkemegfelelés belső értékelési eljárásának felügyeleti felülvizsgálata és értékelése figyelembevételével a Felügyelet által megfelelőnek ítélt szavatoló tőke összegére, típusára és feloszlására vonatkozó követelmények szigorúbbak, mint a hitelintézetre az 575/2013/EU rendelet Harmadik, Negyedik és Hetedik Részében, valamint az (EU) 2017/2402 rendelet 2. fejezetében meghatározott tőke követelmény.
 
-(3) A hitelintézet számára előírt többlettőke-követelmény nem lehet magasabb, mint a 79. § (2) bekezdés a) pontja szerinti tőkekövetelmény másfélszerese.
+(4) A (3) bekezdés alkalmazásában a Felügyelet az egyes hitelintézetek kockázati profilját figyelembe véve mérlegeli, hogy a hitelintézet mely kockázatoknak van kitéve, ideértve a következőket:
+
+- a) hitelintézet-specifikus kockázatok vagy olyan kockázati elemek, amelyeket az 575/2013/EU rendelet Harmadik, Negyedik és Hetedik Részében, valamint az (EU) 2017/2402 rendelet 2. fejezetében megállapított szavatoló tőke követelményekben kifejezetten nem kell figyelembe venni vagy e követelmények nem kifejezetten vonatkoznak rájuk,
+- b) hitelintézet-specifikus kockázatok vagy olyan kockázati elemek, amelyeket valószínűsíthetően alábecsülhetnek annak ellenére, hogy a hitelintézet megfelel az 575/2013/EU rendelet Harmadik, Negyedik és Hetedik Részében, valamint az (EU) 2017/2402 rendelet 2. fejezetében megállapított követelményeknek.
+
+(5) Ha a kockázatokra vagy kockázati elemekre átmeneti rendelkezések alkalmazandók, akkor nem tekintendők olyan kockázatoknak vagy kockázati elemeknek, amelyek valószínűsíthetően alábecsülhetnek annak ellenére, hogy a hitelintézet megfelel az 575/2013/EU rendelet Harmadik, Negyedik és Hetedik Részében, valamint az (EU) 2017/2402 rendelet 2. fejezetében megállapított követelményeknek.
+
+(6) A (3) bekezdés alkalmazásában a megfelelőnek ítélt szavatoló tőkének minden olyan, a (4) bekezdésben megállapított értékelés értelmében lényegesként azonosított kockázatot vagy kockázati elemet fedeznie kell, amelyet az 575/2013/EU rendelet Harmadik, Negyedik és Hetedik Részében, valamint az (EU) 2017/2402 rendelet 2. fejezetében meghatározott szavatoló tőke követelmények nem vagy nem elégséges mértékben fedeznek.
+
+(7) A nem kereskedési könyvben nyilvántartott kitettség kamatkockázata legalább a 177. § (12) bekezdésében meghatározott esetben lényegesnek tekinthető, kivéve, ha a felügyeleti felülvizsgálat és értékelés alapján a Felügyelet azt állapítja meg, hogy a hitelintézet megfelelően kezeli a nem kereskedési könyvben nyilvántartott kitettség kamatkockázatát és nincs túlzott mértékben kitéve ezen kamatkockázatnak.
+
+(8) Ha további szavatoló tőkére van szükség az 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem kielégítően fedezett,
+
+- a) túlzott tőkeáttételi kockázattól eltérő kockázat kezelésére, akkor a Felügyelet az (1) bekezdés a) pontja alapján előírt többlettőke-követelmény mértékét a (3)–(7) bekezdés alkalmazása alapján megfelelőnek ítélt szavatoló tőke és az 575/2013/EU rendelet Harmadik és Negyedik Részében, valamint az (EU) 2017/2402 rendelet 2. fejezetében,
+- b) túlzott tőkeáttételi kockázat kezelésére, akkor a Felügyelet az (1) bekezdés a) pontja alapján előírt többlettőke-követelmény mértékét a (3)–(7) bekezdés alkalmazása alapján megfelelőnek ítélt szavatoló tőke és az 575/2013/EU rendelet Harmadik és Hetedik Részében
+
+megállapított tőke követelmények különbségeként határozza meg.
+
+(9) A Felügyelet által előírt többlettőke-követelmény
+
+- a) legalább háromnegyedének alapvető tőkével kell eleget tenni,
+- b) a) pont szerinti alapvető tőkéjének legalább háromnegyedének elsődleges alapvető tőkéből kell állnia.
+
+(10) Ha a Felügyelet szükségesnek tartja, akkor az adott hitelintézet konkrét helyzetének figyelembevételével kötelezheti a hitelintézetet, hogy a többlettőke-követelményt a (9) bekezdésben meghatározott aránynál nagyobb arányban teljesítse alapvető tőkével vagy elsődleges alapvető tőkével.
+
+(11) A Felügyelet által a túlzott tőkeáttételi kockázattól eltérő kockázatok kezelése céljából előírt többlettőke-követelménynek való megfelelés céljára felhasznált szavatoló tőke nem használható fel a következőknek való megfelelés céljára:
+
+- a) az 575/2013/EU rendelet 92. cikk (1) bekezdés a), b) és c) pontjában meghatározott szavatoló tőke követelmény,
+- b) a kombinált pufferkövetelmény és
+- c) a tőke ajánlás teljesítésére, amennyiben az ajánlás a túlzott tőkeáttételi kockázattól eltérő kockázat kezelésére vonatkozik.
+
+(12) A Felügyelet által az 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja által nem kielégítően fedezett túlzott tőkeáttételi kockázat céljából előírt többlettőke-követelménynek való megfelelés céljára felhasznált szavatoló tőke nem használható fel a következőknek való megfelelés céljára:
+
+- a) az 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontjában meghatározott szavatoló tőke követelmény,
+- b) az 575/2013/EU rendelet 92. cikk (1a) bekezdése szerinti tőkeáttételi mutató puffer-követelmény, és
+- c) a tőke ajánlás teljesítésére, amennyiben az ajánlás a túlzott tőkeáttételi kockázat kezelésére vonatkozik.
+
+(13) A Felügyelet a többlettőke-követelmény előírására vonatkozó határozatában részletes indokolást ad, ismertetve legalább az e §-ban meghatározottak teljes körű értékelését. Az (1) bekezdés e) pontjának megállapítása esetén az indokolásban a Felügyelet nyilatkozik arról, hogy a tőke ajánlásban megállapítottak teljesítése a továbbiakban miért nem tekinthető elegendőnek.
+
+(14) A Felügyelet a többlettőke-követelmény előírásáról, valamint a tőke ajánlás meghatározásáról értesíti a szanálási hatóságot.
 
 187. § (1) Ha a Felügyelet rendkívüli intézkedési terv elfogadását is szükségesnek tartja, annak kidolgozására legfeljebb harmincnapos határidőt engedélyezhet.
 
@@ -3514,6 +3786,16 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 192. § A Felügyelet a hatáskörébe tartozó pénzügyi intézmények tulajdonosainak szavazati jogát meghatározott időre, de legfeljebb egy évre a 189. § (1) bekezdésében felsorolt intézkedések mellett felfüggesztheti, ha a tag tevékenysége, illetve a pénzügyi intézményre gyakorolt befolyása a rendelkezésre álló tények alapján veszélyezteti a pénzügyi intézmény megbízható, biztonságos működését; ilyen esetben a határozatképesség megállapításánál a korlátozással érintett szavazatokat figyelmen kívül hagyja.
 
+192/A. § A 184. § (10) bekezdése szerinti esetben a Felügyelet a következő kivételes intézkedéseket is alkalmazhatja:
+
+- a) a pénzügyi holding társaság vagy a vegyes pénzügyi holding társaság által birtokolt tagsági részesedéshez kapcsolódó szavazati jogok felfüggesztése,
+- b) a 185–198. §-ban foglalt intézkedések és kivételes intézkedések a pénzügyi holding társasággal, a vegyes pénzügyi holding társasággal vagy a vezető testület tagjaival és a vezetőkkel szemben,
+- c) a pénzügyi holding társaság, vegyes pénzügyi holding társaság által birtokolt tagsági részesedéseknek a pénzügyi holding társaság, vegyes pénzügyi holding társaság tulajdonosai részére történő átruházásra kötelezés,
+- d) a csoporton belüli másik pénzügyi holding társaság, vegyes pénzügyi holding társaság vagy hitelintézet ideiglenes kijelölése arra, hogy felelősséget vállaljon az e törvényben és az 575/2013/EU rendeletben megállapított követelményeknek való összevont alapon történő megfeleléséért,
+- e) a tagsági részesedéshez kapcsolódó osztalék- vagy kamatkifizetés korlátozása vagy megtiltása,
+- f) a pénzügyi holding társaság, vegyes pénzügyi holding társaság által birtokolt tagsági részesedések egészének vagy egy részének átruházására történő kötelezés, vagy
+- g) a pénzügyi holding társaság, vegyes pénzügyi holding társaság kötelezése arra, hogy haladéktalanul nyújtson be tervet arra vonatkozóan, hogy hogyan fogja mihamarabb ismét biztosítani a megfelelést.
+
 193. § A Felügyelet a 185. §-ban, valamint a 189–192. §-ban meghatározott intézkedéseket vagy kivételes intézkedéseket – szükség szerint – külön-külön vagy együttesen és ismételten is alkalmazhatja.
 
 194. § (1) A Felügyelet felügyeleti biztost rendelhet ki, különösen akkor, ha
@@ -3587,7 +3869,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 (5) Ha a másik EGT-állam illetékes felügyeleti hatósága a (4) bekezdés szerinti tájékoztatást követő egy hónapon belül nem teszi meg a szükséges intézkedéseket, vagy a másik EGT-állam illetékes felügyeleti hatósága által megtett lépések ellenére változatlanul fennáll a szabályellenes helyzet, valamint az ügyfelek érdekeinek veszélyeztetése, a Felügyelet
 
 - a) a szabályellenes helyzet megszüntetése érdekében a másik EGT-állam illetékes felügyeleti hatóságának tájékoztatását követően közvetlenül is intézkedhet, amelyről az intézkedés megtételét követően haladéktalanul tájékoztatja az EBH-t,
-- b) az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikke alapján az EBH-hoz fordulhat.
+- b) az 1093/2010/EU rendelet 19. cikke alapján az EBH-hoz fordulhat.
 
 #### 82. A Felügyelet adatkezelése
 
@@ -3947,6 +4229,8 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 (1c) Ha az OBA nem bocsátja rendelkezésre a kártalanítást a betétesek részére hét munkanapon belül, a természetes személy betétes írásban kérelmet nyújthat be az OBA-hoz a betét sürgős kifizetése érdekében. Az OBA a hitelintézet által a 228. § (8) bekezdésében meghatározottak szerint rendelkezésre bocsátott betétnyilvántartásban szereplő betétes részére a betétnyilvántartásban szereplő betét alapján a sürgős kifizetésre vonatkozó kérelem benyújtásától számított öt munkanapon belül részkifizetést teljesít, amely nem haladhatja meg a mindenkori öregségi nyugdíjminimum négyszeresét. A sürgős kifizetés keretében teljesített kártalanítás összege a teljes kártalanítás összegét csökkenti.
 
+(1d) Az (1) bekezdés szerinti határidő lejártát követő naptól számított 5 éves jogvesztő határidőn túl a kártalanítás kifizetését a kártalanításra jogosult személy nem követelheti az OBA-tól.
+
 (2) Az OBA legalább két országos napilapban, valamint honlapján közzéteszi a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az OBA által közzétett információkat a kártalanítással érintett hitelintézet a honlapján is közzéteszi.
 
 (3) A betétet gyűjtő hitelintézet a névre szóló betét esetén köteles a betétes nevén kívül – a 2. mellékletben felsoroltak közül az OBA előírásai szerint – két további azonosító adatot nyilvántartani, a kártalanításra való jogosultság egyértelmű megállapítása érdekében.
@@ -4040,7 +4324,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 (2) Az igazgatótanács feladatainak végrehajtása során igénybe veheti a Felügyelet szolgáltatásait.
 
-(3) Az igazgatótanács az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 4. cikk (2) bekezdése szerinti hatáskörrel rendelkező hatóság.
+(3) Az igazgatótanács az 1093/2010/EU rendelet 4. cikk (2) bekezdése szerinti hatáskörrel rendelkező hatóság.
 
 225. § (1) Az igazgatótanács nevezi ki, és menti fel az ügyvezetőt, valamint gyakorolja felette a munkáltatói jogokat. Az igazgatótanács e jogkörét – a kinevezés és felmentés kivételével – az igazgatótanács elnökére átruházhatja.
 
@@ -4464,7 +4748,7 @@ rendelkezhet.
 
 (4) Ha a Felügyelet látja el az EU-szintű hitelintézeti anyavállalat felügyeletét és az eljárásban részt vevő EGT-államok illetékes felügyeleti hatóságainak egyetértése hiányában négy hónapon belül nem hozható többoldalú eljárás keretében határozat, a kérelemről a Felügyelet dönt. A határozat indokolásában a Felügyelet kitér az eljárásban részt vevő EGT-államok illetékes felügyeleti hatóságainak véleményére és fenntartásaira is.
 
-(5) A Felügyelet elhalasztja a határozat meghozatalát és megvárja az EBH döntését, ha a négy hónapos időszak alatt az ügyet az eljárásban részt vevő valamely EGT-állam illetékes felügyeleti hatósága az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikkével összhangban az EBH elé utalja. A négy hónapos időszak leteltét vagy a többoldalú eljárás keretében hozott határozatot követően az ügy már nem utalható az EBH elé.
+(5) A Felügyelet elhalasztja a határozat meghozatalát és megvárja az EBH döntését, ha a négy hónapos időszak alatt az ügyet az eljárásban részt vevő valamely EGT-állam illetékes felügyeleti hatósága az 1093/2010/EU rendelet 19. cikkével összhangban az EBH elé utalja. A négy hónapos időszak leteltét vagy a többoldalú eljárás keretében hozott határozatot követően az ügy már nem utalható az EBH elé.
 
 (6) Az EU-szintű hitelintézeti anyavállalat székhelye szerinti EGT-állam illetékes felügyeleti hatósága döntését követően a megállapodás tervezetét a részes félként szereplő tagok tulajdonosainak kétharmados szótöbbséggel is jóvá kell hagynia azzal, hogy a megállapodás kizárólag a csoport azon tagjait kötelezi, akiknél a tulajdonosok jóváhagyásukat megadták, illetve azt nem vonták vissza.
 
@@ -4733,7 +5017,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 285. § (1) Elektronikus pénzt kibocsátó hitelintézet a tevékenység végzése során alkalmazza az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 66. §-át.
 
-(2) Az (1) bekezdés szerinti tevékenységre irányuló szerződést nem szükséges írásban megkötni abban az esetben, ha a kibocsátandó elektronikus pénz összege a Pmt. 24/A. § (1) bekezdése szerinti összeghatároknak megfelel.
+(2) Az (1) bekezdés szerinti tevékenységre irányuló szerződést nem szükséges írásban megkötni abban az esetben, ha a kibocsátandó elektronikus pénz összege a Pmt. 24/C. § (1) bekezdése szerinti összeghatároknak megfelel.
 
 #### 124. Bankszünnap
 
@@ -4763,6 +5047,8 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 (5) A pénzügyi intézmény és a független közvetítő fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót kijelöli, és a Felügyeletnek 15 napon belül a felelős személyét, illetve annak változását írásban bejelenti.
 
+(6) A panaszkezelés magyar nyelven történik, kivéve, ha a pénzügyi intézmény és az ügyfél eltérő nyelvben állapodtak meg.
+
 #### 126/A. A FATCA-törvény alapján fennálló kötelezettségek
 
 288/A. § A FATCA-törvény szerinti, e törvény hatálya alá tartozó Jelentő Magyar Pénzügyi Intézmény (a továbbiakban ezen alcím tekintetében: intézmény) az általa kezelt, FATCA-törvény szerinti Pénzügyi Számla (a továbbiakban: pénzügyi számla) vonatkozásában elvégzi a FATCA-törvény szerinti Számlatulajdonos és Jogalany (a továbbiakban együtt: számlatulajdonos) FATCA-törvényben foglalt Megállapodás I. számú Melléklete szerinti illetőségének megállapítására irányuló vizsgálatot (a továbbiakban: illetőségvizsgálat).
@@ -4790,9 +5076,9 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 #### 127. Vegyes rendelkezések
 
-289. § (1) Az 575/2013/EU rendelet 458. cikk (2) bekezdés d) pont i)–iv) és vii) alpont alkalmazásában kijelölt hatóság a pénz-, tőke és biztosítási piac szabályozásáért felelős miniszter.
+289. § (1) Az 575/2013/EU rendelet 458. cikk (2) bekezdés d) pont i), ii) és v)–vii) alpont alkalmazásában kijelölt hatóság a pénz-, tőke és biztosítási piac szabályozásáért felelős miniszter.
 
-(2) Az 575/2013/EU rendelet 458. cikk (2) bekezdés d) pont v) és vi) alpont alkalmazásában kijelölt hatóság az MNB.
+(2) Az 575/2013/EU rendelet 458. cikk (2) bekezdés d) pont iii) és iv) alpont alkalmazásában kijelölt hatóság az MNB.
 
 289/A. § (1) A 6. § (4) bekezdés k) pont ka) vagy kb) alpontjában meghatározott specifikus készpénz-helyettesítő fizetési eszköz kibocsátója bejelenti a Felügyeletnek, ha az általa kibocsátott specifikus készpénz-helyettesítő fizetési eszközökkel teljesített fizetési műveletek összértéke a megelőző tizenkét hónapban meghaladta a 300 millió forintot.
 
@@ -4813,7 +5099,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 - e) a független közvetítők, valamint a jelzáloghitel közvetítői tevékenységet végző függő közvetítők felelősségbiztosítási szerződéseinek tartalmi követelményeire,
 - f) a közvetítői díj meghatározásának és kifizetésének módjára, időbeli ütemezésére,
 - g) a 2012. április 1-je előtt hatályos 1996. évi CXII. törvény 210/A. §-ában meghatározott szerződésekben előírt kamat a pénzügyi intézmény általi, az ügyfél számára kedvezőtlen egyoldalú módosításának eseteire, feltételeire és módjára,
-- h) a javadalmazási politikának az érintett hitelintézet mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására
+- h)
 - i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára,
 - j) a pénzügyi intézmények és a független közvetítők panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára,
 - k) a szociális számlához való jogosultságra, díjra és jellemzőire
@@ -4994,6 +5280,10 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 
 (6) Az egyes pénzügyi tárgyú törvényeknek a betétbiztosítást, valamint a pénzügyi közvetítőrendszert érintő módosításáról szóló 2014. évi CIV. törvény 87. § (2) bekezdésében megállapított 272. § (3) bekezdésében foglaltaknak a 2015. július 3-án már fennálló betétszerződés, betét elhelyezését lehetővé tevő szerződés vagy keretszerződés esetén a hitelintézet a 275. § (6) bekezdésben meghatározott, 2015. július 3-át követő első éves tájékoztatási kötelezettsége teljesítésével tesz eleget azzal, hogy ebben az esetben nem szükséges, hogy a betétes a 6. melléklet szerinti tájékoztatás megtörténtét aláírásával igazolja.
 
+(6a) A 217. § (1d) bekezdéstől eltérően azon kártalanítási esetekben, amelyeknél a kártalanítás kezdő időpontja 2020. december 28-át megelőző időpont, a 2020. december 28-át követő 5 éves jogvesztő határidőn túl a kártalanítás kifizetését a betétes nem követelheti az OBA-tól.
+
+(6b) Az OBA a honlapján is közzéteszi a (6a) bekezdésben foglaltakat.
+
 (7) A jelzáloghitel közvetítői tevékenységet 2016. március 21-én
 
 - a) a Felügyelet felé történő bejelentéssel végző közvetítő ezen tevékenységét a Felügyelet engedélye nélkül 2017. március 21-ig folytathatja,
@@ -5008,6 +5298,10 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 304/F. § (1) Az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított 159. § (10) bekezdését, 164. § zs) pontját és 164/B. §-t az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvény hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
 
 (2) A 164/B. § (4) bekezdésében foglalt nyilatkozattételi lehetőségről a hitelintézet és az ellenőrző befolyása alatt működő pénzügyi intézmény, valamint a 164/B. § (5) bekezdésében meghatározott tevékenységet folytató, a hitelintézet ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, biztosítónak, ABAK-nak és ÁÉKBV-alapkezelőnek nem minősülő vállalkozás az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvény hatálybalépésekor fennálló szerződéssel rendelkező ügyfeleit legkésőbb harminc nappal a 164/B. § szerinti adattovábbítást megelőzően írásban értesíti. A fennálló szerződéssel rendelkező ügyfelek tájékoztatását követően az általuk működtetett honlapon a figyelem felkeltésére alkalmas módon erre vonatkozó tájékoztatást tesznek közzé. A 164/B. § szerinti adatátadás a honlapon történő közzétételtől számított harmincadik nap után kezdődhet meg.
+
+304/G. § (1) Ha a 2019. június 27-én már működő pénzügyi holding társaságnak, vegyes pénzügyi holding társaságnak a 15/A. § szerinti külön jóváhagyást kell kérnie a Felügyelettől, akkor a jóváhagyást a pénzügyi holding társaságnak, vegyes pénzügyi holding társaságnak legkésőbb 2021. június 28-ig kell kérelmeznie azzal, hogy a határidő elmulasztása esetén a Felügyelet a pénzügyi holding társasággal, vegyes pénzügyi holding társasággal szemben a 192/A. §-ban foglalt kivételes intézkedéseket is alkalmazhatja.
+
+(2) Ha az ugyanazon harmadik országbeli csoporthoz tartozó EGT-államban letelepedett kettő vagy több hitelintézet, befektetési vállalkozás eszközeinek összértéke 2019. június 27-én legalább 40 milliárd euró volt, a harmadik országbeli csoportnak legkésőbb 2023. december 30-tól kell rendelkeznie közbenső EU-szintű anyavállalattal.
 
 #### 131. Az Európai Unió jogának való megfelelés
 
@@ -5063,26 +5357,59 @@ E törvény alkalmazásában a közvetett tulajdon számításának szabályai:
 
 ### 4. melléklet a 2013. évi CCXXXVII. törvényhez
 
+A rendszerkockázati tőkepuffer kiszámítása
+
+A rendszerkockázati tőkepuffert a következőképpen kell kiszámítani:
+
+ahol:
+
+BSR = a rendszerkockázati tőkepuffer,
+
+rT = a hitelintézet teljes kockázati kitettség értékére vonatkozó tőkepuffer mértéke,
+
+ET = a hitelintézetre vonatkozó, az 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően számított teljes kockázati kitettség érték,
+
+i = a kitettségnek a 92. § (2) bekezdés szerinti alcsoportját jelölő indexszám,
+
+ri = az i kitettség-alcsoport kockázati kitettség értékére vonatkozó tőkepuffer-mérték,
+
+Ei = a hitelintézet i kitettség-alcsoportjára vonatkozó, az 575/2013/EU rendelet 92. cikk (3) bekezdésének megfelelően számított kockázati kitettség érték.
+
 Kifizetési szorzótényező
 
 A 94. § (6) bekezdése szerinti szorzó tényezőt a következőképpen kell meghatározni:
 
-a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
+a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
 
-b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
+b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
 
-c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
+c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
 
-d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
+d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
 
 A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát a következőképpen kell kiszámítani:
 
-3K86080_0
+ahol:
 
-|  |
-| --- |
+Qn= az érintett kvartilis sorszáma
 
-„Q n” az érintett kvartilis sorszáma.
+Tőkeáttételi mutató pufferkövetelmény esetében alkalmazandó tényező
+
+A 96/A. § (6) bekezdése szerinti szorzó tényezőt a következőképpen kell meghatározni:
+
+a) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
+
+b) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
+
+c) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
+
+d) ha a hitelintézet által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében és a 186. §-ban meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
+
+A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát a következőképpen kell kiszámítani:
+
+ahol:
+
+Qn= az érintett kvartilis sorszáma
 
 ### 5. melléklet a 2013. évi CCXXXVII. törvényhez
 
@@ -5095,7 +5422,7 @@ A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát
   - d) a rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2015. május 20-i európai parlamenti és tanácsi (EU) 2015/849 irányelvnek,
   - e) a 185. § (1) bekezdés f) pontjában a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelvnek,
   - f) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2010. november 24-i 2010/78/EU európai parlamenti és tanácsi irányelvnek,
-  - g) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelvnek,
+  - g) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelvnek,
   - h) a betétbiztosítási rendszerekről szóló 2014. április 16-i 2014/49/EU európai parlamenti és tanácsi irányelvnek,
   - i) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek,
   - j) a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvnek,
@@ -5104,7 +5431,9 @@ A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát
   - m) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelvnek,
   - n) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 - 2. Ez a törvény a 185. § (1) bekezdésében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet 9. cikk (6)–(7) bekezdés végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában.
-- 3. Ez a törvény a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+- 3. Ez a törvény
+  - a) a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek és
+  - b) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 6. melléklet a 2013. évi CCXXXVII. törvényhez
 

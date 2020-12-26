@@ -2382,7 +2382,7 @@ A részvénytársaság olyan gazdasági társaság, amely előre meghatározott 
 
 (1) A részvények forgalomba hozatala zártkörűen vagy nyilvánosan történhet.
 
-(2) Zártkörűen működő részvénytársaság részvényei – a részvénytársaság működési formájának megváltoztatásához kapcsolódó forgalomba hozatalt kivéve – nyilvánosan nem hozhatók forgalomba.
+(2) A zártkörűen működő részvénytársaság részvényei – a részvénytársaság működési formájának megváltoztatásához kapcsolódó forgalomba hozatalt kivéve – olyan módon hozhatók forgalomba, ami a tőkepiacról szóló szabályok szerinti tájékoztató, minimum tájékoztató készítési kötelezettséget nem von maga után és nem jelent tőzsdei bevezetést sem.
 
 #### 3:219. § [A részvényátruházás korlátozása]
 
@@ -3693,7 +3693,7 @@ Semmis az alapszabály olyan rendelkezése, amely e cím rendelkezéseitől a ki
 
 (3) A szövetkezet korlátolt felelősségű társasággá vagy részvénytársasággá alakulhat át.
 
-(4) A szövetkezet átalakulásával létrejövő részvénytársaság zártkörűen alapítható.
+(4) A szövetkezet átalakulásával létrejövő részvénytársaság zártkörűen alapítható azzal, hogy a részvények felajánlása kizárólag az átalakuló szövetkezet tagjai, illetve üzletrész tulajdonosai részére lehetséges. A részvények átalakulás során történő, nyilvános ajánlattételnek minősülő felajánlása nem jelenti a zártkörűen működő részvénytársaság részvényeinek forgalomba hozatalára vonatkozó e törvény szerinti korlátozás sérelmét.
 
 ### XXI. CÍM — A SZÖVETKEZET MEGSZŰNÉSE
 
