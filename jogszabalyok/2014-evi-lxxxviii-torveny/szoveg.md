@@ -405,6 +405,8 @@ előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3) Pótlólagos befizetést olyan mértékben lehet előírni, amilyen mértékben az év folyamán a tagdíjak növelésére vagy a szolgáltatások leszállítására került sor.
 
+25/A. § A tárgyévi nyereségnek az alapszabályban meghatározott része az alapszabályban meghatározott módon és mértékben visszajuttatható a tagoknak abban az esetben, ha a visszajuttatást követően a szavatoló tőke összege meghaladja a minimális szavatolótőke-szükséglet kétszeresét vagy – amennyiben magasabb – a minimális biztonsági tőke kétszeresét.
+
 26. § (1) A Felügyelet a kölcsönös biztosító egyesület biztonságos működése érdekében vagy annak helyreállítása céljából, a biztosítási kötelezettségeknek való megfelelés szempontjaival összhangban legfeljebb kilencven százalékos viszontbiztosításba-adási kötelezettséget írhat elő.
 
 (2) A kölcsönös biztosító egyesület az általa vállalt kockázatot nem adhatja teljes egészében viszontbiztosításba.
@@ -1851,6 +1853,7 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 - s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló miniszteri rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval,
 - t) a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében az agrárkár-megállapító szervvel, a mezőgazdasági igazgatási szervvel, az agrárkár-enyhítési szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel,
 - u) a felszámoló szervezeteket nyilvántartó hatósággal,
+- v) a Gfbt. szerinti e-kárbejelentő felületen megadott adatoknak a kárbejelentő alkalmazás működtetése, a biztosítási eseményhez kapcsolódó, szükséges információk begyűjtése és a biztosítók részére kárrendezés céljából történő továbbítása tekintetében a MABISZ-szal
 
 szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy adatkéréssel, illetve írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a p)–s) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
 
@@ -4764,8 +4767,8 @@ formájában végezhet.
 
 (6) A többes ügynök köteles tevékenységének felelősségbiztosítására mindenkor legalább
 
-- a) biztosítási eseményenkénti 1 250 000 euró, és évente együttesen legalább 1 850 000 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
-- b) 1 850 000 euró vagyoni biztosítékkal
+- a) biztosítási eseményenkénti 1 300 380 euró, és évente együttesen legalább 1 924 560 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
+- b) 1 924 560 euró vagyoni biztosítékkal
 
 rendelkezni.
 
@@ -4894,8 +4897,8 @@ formájában végezhet.
 
 403. § (1) Az alkusz köteles tevékenységének felelősségbiztosítására mindenkor legalább
 
-- a) biztosítási eseményenkénti 1 250 000 euró, és évente együttesen legalább 1 850 000 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
-- b) 1 850 000 euró vagyoni biztosítékkal
+- a) biztosítási eseményenkénti 1 300 380 euró, és évente együttesen legalább 1 924 560 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
+- b) 1 924 560 euró vagyoni biztosítékkal
 
 rendelkezni.
 
@@ -5825,11 +5828,18 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 
 való megfelelést szolgálja.
 
-453/A. § Ez a törvény az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+453/A. § Ez a törvény
+
+- 1. az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet,
+- 2. az (EU) 2016/97 európai parlamenti és tanácsi irányelvnek a biztosítási és viszontbiztosítási közvetítők szakmai felelősségbiztosítására és pénzügyi teljesítőképességére vonatkozó, euróban megállapított alapösszegeket kiigazító szabályozástechnikai standardok tekintetében történő módosításáról szóló, 2019. május 13-i (EU) 2019/1935 felhatalmazáson alapuló bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 197. Módosító és hatályon kívül helyező rendelkezések
 
-#### 454–455. §
+#### 454. §
+
+#### 455. §
 
 456. § (1)
 
@@ -5839,7 +5849,13 @@ való megfelelést szolgálja.
 
 (5)–(8)
 
-#### 457–460. §
+#### 457. §
+
+#### 458. §
+
+#### 459. §
+
+#### 460. §
 
 461. § (1)–(4)
 
@@ -5847,7 +5863,13 @@ való megfelelést szolgálja.
 
 (6)
 
-#### 462–465. §
+#### 462. §
+
+#### 463. §
+
+#### 464. §
+
+#### 465. §
 
 466. § (1)–(2)
 

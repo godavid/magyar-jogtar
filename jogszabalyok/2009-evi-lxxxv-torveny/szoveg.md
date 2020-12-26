@@ -298,7 +298,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 (5)
 
-20. § (1) A számlatulajdonos szervezet jogi formáját szabályozó jogszabályban a szervezet képviseletére jogszabály erejénél fogva jogosultként meghatározott személy (e § alkalmazásában a továbbiakban: szervezetet képviselő) – a pénzforgalmi szolgáltató által rendszeresített módon – írásban vagy egyéb jogszabály által azonosított elektronikus úton jelenti be (e § alkalmazásában a továbbiakban: bejelentés) a fizetési számla felett rendelkezni jogosultat. A pénzforgalmi szolgáltató nem vizsgálja, hogy a számlatulajdonos, illetve a szervezetet képviselő által a fizetési számla feletti rendelkezésre bejelentett személy az egyéb jogszabályokban előírt feltételeknek megfelel-e.
+20. § (1) A számlatulajdonos szervezet jogi formáját szabályozó jogszabályban a szervezet képviseletére jogszabály erejénél fogva jogosultként meghatározott személy (e § alkalmazásában a továbbiakban: szervezetet képviselő) – a pénzforgalmi szolgáltató által rendszeresített módon – írásban jelenti be (e § alkalmazásában a továbbiakban: bejelentés) a fizetési számla felett rendelkezni jogosultat. A pénzforgalmi szolgáltató nem vizsgálja, hogy a számlatulajdonos, illetve a szervezetet képviselő által a fizetési számla feletti rendelkezésre bejelentett személy az egyéb jogszabályokban előírt feltételeknek megfelel-e.
 
 (2) A szervezetet képviselő bejelentési, illetve rendelkezési jogosultságát abban az esetben gyakorolhatja, ha a megválasztását (kinevezését), valamint aláírását – a szervezet jogi formájára vonatkozó sajátosságok figyelembevételével – hitelt érdemlő módon (pl. illetékes cégbíróság által érkeztetett bejegyzési vagy változásbejegyzési kérelemmel és aláírási címpéldánnyal) igazolja. A pénzforgalmi szolgáltató nem felel a változásbejegyzési kérelem utóbb történő elutasítása esetén a számlatulajdonosnál bekövetkező károkért. Ha a szervezetet képviselő megbízatása megszűnik, az általa bejelentett aláírók rendelkezési joga mindaddig érvényes, amíg az új vagy más szervezetet képviselő másként nem rendelkezik.
 
@@ -705,7 +705,7 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 (2a) Ha a kedvezményezett vagy annak pénzforgalmi szolgáltatója nem fogadja el az erős ügyfél-hitelesítést, meg kell térítenie a fizető fél pénzforgalmi szolgáltatójának okozott kárt.
 
-(3) A pénzforgalmi szolgáltató mentesül az (1), (2) és (4) bekezdés szerinti felelőssége alól, ha bizonyítja, hogy a jóvá nem hagyott fizetési művelettel összefüggésben keletkezett kárt a fizető fél csalárd módon eljárva okozta, vagy a kárt a 40. § (1) és (2) bekezdésében meghatározott kötelezettségeinek szándékos vagy súlyosan gondatlan megszegésével okozta.
+(3) A pénzforgalmi szolgáltató mentesül az (1), (2) és (4) bekezdés szerinti felelőssége alól, ha bizonyítja, hogy a jóvá nem hagyott fizetési művelettel összefüggésben keletkezett kárt a fizető fél csalárd módon eljárva okozta, vagy a kárt a 40. § (1) és (2) bekezdésében meghatározott kötelezettségeinek szándékos vagy súlyosan gondatlan megszegésével okozta, így különösen ha a készpénz-helyettesítő fizetési eszköz használatához szükséges személyes hitelesítési adatait arra nem jogosult harmadik fél részére átadja vagy megismerhetővé teszi.
 
 (4) A 40. § (2) bekezdése szerinti bejelentést követően a pénzforgalmi szolgáltató viseli a kárt az olyan jóvá nem hagyott fizetési műveletek vonatkozásában, amelyek a fizető fél birtokából kikerült vagy ellopott készpénz-helyettesítő fizetési eszközzel történtek, vagy a készpénz-helyettesítő fizetési eszköz jogosulatlan használatából erednek.
 

@@ -56,39 +56,19 @@ egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongaz
 
 #### 7. A koncesszióról szóló 1991. évi XVI. törvény módosítása
 
-14. § A koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) 12. § (3) bekezdése helyébe a következő rendelkezés lép:
+14. §
 
-„(3) A koncessziós szerződést a kikötött időpont előtt csak a 14/A. § (1) bekezdés a) pontjában, a 17. § (2) bekezdésében, a 20. § (1) bekezdésében és a 21. § (3) bekezdésében meghatározott esetben, valamint a szerződésben előre rögzített feltételek bekövetkezésekor lehet felmondani.”
+15. §
 
-15. § A Ktv. 13. §-a a következő (1a) bekezdéssel egészül ki:
+16. §
 
-„(1a) A koncessziós szerződésnek rendelkeznie kell a 14/A. § (1) bekezdés a) pontja szerinti felmondási idő terjedelméről, valamint a 14/A. § (1) bekezdés c) pontja szerinti kompenzáció alapját képező gazdasági hátrányról, a kompenzáció összege megállapításának és számításának módjáról, valamint a kompenzáció iránti igény érvényesítésének részletes szabályairól.”
+17. §
 
-16. § A Ktv. a következő 14/A. §-sal egészül ki:
+18. §
 
-„14/A. § (1) Ha a koncessziós szerződés megkötését követően e törvény rendelkezéseinek, valamint az ágazati koncessziós szabályozás megváltozása következtében a koncessziós szerződés változatlan feltételek melletti teljesítése a koncesszió jogosultjának gazdasági hátrányt vagy jogi érdeksérelmet okozna, és e törvény rendelkezéseinek, valamint az ágazati koncessziós szabályozás megváltozásának lehetősége a koncessziós szerződés megkötésének időpontjában a koncesszió jogosultja számára nem volt előrelátható, úgy a koncesszió jogosultja választása szerint
+19. §
 
-a) a koncessziós szerződést legalább három hónapos vagy azt meghaladó felmondási idő mellett felmondhatja,
-
-b) a koncessziós szerződés bírósági módosítása útján a koncessziós díj arányos csökkentését kérheti, vagy
-
-c) az elszenvedett gazdasági hátránnyal vagy jogi érdeksérelemmel arányos egyösszegű vagy részletekben teljesítendő pénzbeli kompenzációra tarthat igényt.
-
-(2) Az (1) bekezdés alkalmazásában ágazati koncessziós szabályozásnak minősül az állam és az Európai Unió által alkotott valamennyi jogszabály és jogi tartalmú szabályozás, így különösen a koncessziós díjra, koncessziós szerződés keretében átengedett tevékenységre vonatkozó közterhekkel kapcsolatos és más jogi szabályozás, kötelezést tartalmazó szakmai előírás, szabvány, szabályzat és belső szabályozás, továbbá nemzetközi szerződés és megállapodás, amely koncessziós szerződés alapján átengedett koncesszióköteles tevékenységre vonatkozik.”
-
-17. § A Ktv. 16. §-a helyébe a következő rendelkezés lép:
-
-„16. § A koncessziós szerződésből eredő jogviták elbírálása során – a felek ilyen megállapodása esetén, nemzetközi szerződés eltérő rendelkezése vagy Magyarország nemzetközi szerződésből eredő eltérő kötelezettsége hiányában – magyar és külföldi választottbíróság is eljárhat, egyébként a koncessziós szerződésből eredő jogviták elbírálására az általános hatáskörrel és illetékességgel rendelkező bíróság jogosult.”
-
-18. § A Ktv. 29. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) E törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási tárgyú törvények módosításáról szóló 2020. évi CLXXII. törvénnyel (a továbbiakban: Módtv-2.) módosított 10/B. §-át, 12. § (3) bekezdését, valamint a Módtv-2.-el megállapított 13. § (1a) bekezdését, 14/A. §-át, 16. §-át az e rendelkezések hatálybalépésekor folyamatban lévő koncessziós pályázati és ajánlattételi eljárásokra is alkalmazni kell.”
-
-19. § A Ktv. 31. §-a helyébe a következő rendelkezés lép:
-
-„31. § E törvény 11/A. §-a, 14/A. §-a, valamint 16. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.”
-
-20. § Hatályát veszti a Ktv. 10/B. § (4) bekezdésében az „e törvény 16. §-ában foglaltaktól, továbbá” szövegrész.
+20. §
 
 #### 8. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
@@ -98,21 +78,7 @@ c) az elszenvedett gazdasági hátránnyal vagy jogi érdeksérelemmel arányos 
 
 23. §
 
-24. § (1) Az Nvtv. 12. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-[(1) Az állam kizárólagos gazdasági tevékenységei a következők:]
-
-„i) az országos közutak és műtárgyaik, állam kizárólagos tulajdonát képező, országos jelentőségű vasútvonal, valamint azt magába foglaló pályahálózat létrehozása és működtetése,”
-
-(2) Az Nvtv. 12. § (2) bekezdése a következő g) ponttal egészül ki:
-
-[(2) A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:]
-
-„g) az önkormányzat törzsvagyonának részét képező és használatában lévő vasúti pályák fejlesztése, működtetése.”
-
-(3) Az Nvtv. 12. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az országos törzshálózati vasúti pályát és tartozékát magában foglaló pályahálózat vagy olyan vasúti pályahálózat működtetését, amelynek országos törzshálózati vasúti pálya vagy annak tartozéka a része, kizárólag az állam vagy az a gazdasági társaság végezheti, amelynek egyedüli tagja vagy részvényese az állam, vagy amely az állam közvetlen vagy közvetett többségi tulajdonában áll. E szabály alól kivételt képez, ha az állam és a helyi önkormányzat a kizárólagos gazdasági tevékenysége gyakorlásának időleges jogát törvényben szabályozott módon, koncesszió útján engedi át.”
+24. §
 
 25. §
 
@@ -120,8 +86,8 @@ c) az elszenvedett gazdasági hátránnyal vagy jogi érdeksérelemmel arányos 
 
 - a)
 - b)
-- c) 12. § (3) bekezdésében az „a (2) bekezdés a)–b), d)–e) pontja” szövegrész helyébe az „a (2) bekezdés a)–b), d)–g) pontja”,
-- d) 12. § (11) bekezdésében az „a (2) bekezdés f) pontjában” szövegrész helyébe az „a (2) bekezdés f)–g) pontjában”
+- c)
+- d)
 
 szöveg lép.
 

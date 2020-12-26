@@ -803,7 +803,7 @@ köteles megfelelni.
 
 (4) Az (1)–(3) bekezdésen kívül a 25. §-ban foglaltak is alkalmazandóak, ha a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény másik EGT-államban kíván pénzforgalmi szolgáltatási tevékenységéhez vagy elektronikuspénz-kibocsátási tevékenységéhez megbízási szerződés keretében pénzforgalmi közvetítőt igénybe venni.
 
-(4a) Ha a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény főirodája másik EGT-államban található és a pénzforgalmi szolgáltatási tevékenysége Magyarország területén történő végzéséhez pénzforgalmi közvetítőt kíván igénybe venni, akkor Magyarország területén központi kapcsolattartó pontot köteles kijelölni.
+(4a) Ha a pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény főirodája másik EGT-államban található és a pénzforgalmi szolgáltatási tevékenysége Magyarország területén történő végzéséhez pénzforgalmi közvetítőt kíván igénybe venni, akkor Magyarország területén központi kapcsolattartó pontot köteles kijelölni, amennyiben megfelel az (EU) 2015/2366 európai parlamenti és tanácsi irányelvnek a pénzforgalmi szolgáltatásokra vonatkozó központi kapcsolattartó pontok kijelölési kritériumait, illetve a központi kapcsolattartó pontok feladatait meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2019. március 14-i (EU) 2020/1423 bizottsági rendelet 1. cikkének.
 
 (4b) A Felügyelet a pénzforgalmi közvetítő nyilvántartásba vételéről a bejelentés hiánytalan kézhezvételét követő kettő hónapon belül dönt.
 
@@ -912,7 +912,7 @@ szemben.
 - k) a pénzügyi közvetítőrendszer stabilitásáról szóló törvény szerinti feladatkörében eljáró államháztartásért felelős miniszterrel, a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel és az Európai Unió működéséről szóló szerződés 107. cikke hatálya alá tartozó állami támogatások – az Európai Unió működéséről szóló szerződésben szereplő mezőgazdasági termékek előállításához és kereskedelméhez nyújtott támogatások és az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások, valamint jogszabályban más miniszter feladatkörébe utalt támogatások kivételével – versenyszempontú ellenőrzésének hazai koordinálásáért felelős miniszterrel,
 - l) a lakáscélú támogatások igénybevételének és felhasználásának jogszerűsége céljából feladatkörében ellenőrzést végző, továbbá a jogalap nélkül felvett fogyatékossági támogatás összegének megtérülése érdekében eljáró kincstárral,
 - m) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
-- n) a Magyar Könyvvizsgálói Kamara által a pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél működő vagy volt könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával,
+- n) a Magyar Könyvvizsgálói Kamara által a pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó könyvvizsgálója vagy korábbi könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával, valamint az ügyvédi kamara által az ügyvéd által kezelt letétek kezelésére vonatkozó szabályok megtartásának hatósági ellenőrzése során, illetve az ügyvéd ellen indult előzetes vizsgálat, ügyvédi kamarai hatósági eljárás és fegyelmi eljárás keretében az ügyvédi kamarával,
 - o) a feladatkörében eljáró kormányzati ellenőrzési szervvel, valamint
 - p) az eltűnt vagy az elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs hatálya alatt álló személyek felkutatását, továbbá az ismeretlen személy vagy holttest azonosítását végző rendőri szervvel,
 - q) a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatával összefüggő feladatkörében eljáró, szociális hatáskört gyakorló szervvel
@@ -1085,6 +1085,8 @@ legkésőbb a naptári évet követő hónap végéig nyilvánosan közzéteszi 
 (4) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó a panasz kivizsgálásáért a fogyasztóval szemben külön díjat nem számíthat fel.
 
 (5) A pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és az utalványkibocsátó a fogyasztóvédelmi ügyekben fogyasztóvédelmi ügyekért felelős kapcsolattartót jelöl ki, és a Felügyeletnek tizenöt napon belül a felelős személyét, és annak változását írásban bejelenti.
+
+(6) A panaszkezelés magyar nyelven történik, kivéve, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó és az ügyfél eltérő nyelvben állapodtak meg.
 
 #### 15. A pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény és az utalványkibocsátó felügyelete
 

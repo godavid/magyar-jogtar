@@ -113,7 +113,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 46. értékpapírszámla: a dematerializált értékpapírról és a hozzá kapcsolódó jogokról az értékpapír-tulajdonos javára vezetett nyilvántartás,
 - 47.
 - 48. felügyeleti hatóság: a külföldi befektetési vállalkozás, árutőzsdei szolgáltató, pénzügyi intézmény, befektetési alapkezelő, szabályozott piac, tőzsde, központi értéktár, elszámolóház, központi szerződő fél tevékenységi felügyeletét ellátó külföldi szervezet,
-- 49.
+- 49. fogadó tagállam: az V. Fejezet alkalmazásában az a – 140. pont b) alpontjában meghatározott székhely szerinti tagállamtól eltérő – tagállam, amelynek szabályozott piacára az értékpapírt bevezették,
 - 50. forgalomba hozatal: az értékpapír tulajdonjogának első ízben történő keletkeztetésére irányuló eljárás,
 - 51. forgalmazó: az értékpapír forgalomba hozatalában közreműködő befektetési vállalkozás, hitelintézet,
 - 52. főiroda: az a hely, ahol a vállalkozás üzleti tevékenységével kapcsolatos központi döntéshozatal történik,
@@ -399,7 +399,7 @@ együtt kell alkalmazni.
 
 14. § Az értékpapír forgalomba hozatala zártkörűnek minősül (a továbbiakban: zártkörű forgalomba hozatal), ha az értékpapír forgalomba hozatala nem nyilvános forgalomba hozatallal történik.
 
-15. § (1) Értékpapír multilaterális kereskedési rendszerbe történő regisztrációja, illetve a vételi és eladási árak közzététele önmagában nem tekintendő értékpapírra vonatkozó nyilvános-ajánlattételnek, így nem minősül nyilvános forgalomba hozatalnak.
+15. § (1) Értékpapír multilaterális kereskedési rendszerbe történő regisztrációja, illetve a vételi és eladási árak közzététele önmagában nem tekintendő értékpapírra vonatkozó nyilvános-ajánlattételnek. A regisztrációt követően a multilaterális kereskedési rendszerbe bevezetett értékpapír nyilvánosan forgalomba hozott értékpapírnak minősül.
 
 (2) Értékpapír multilaterális kereskedési rendszerbe történő – nyilvános forgalomba hozatalnak nem minősülő – regisztrációja esetén a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységet végző piacműködtető vagy befektetési vállalkozás meghatározza a kibocsátó által az értékpapír multilaterális kereskedési rendszerbe való első bevezetésekor benyújtandó információs dokumentum tartalmát és vizsgálatának szabályait.
 
@@ -717,6 +717,8 @@ formájában teljesíti.
 (5a) Az (5) bekezdésben meghatározott nyelven kell közzétenni a legalább ötvenezer euró névértékű értékpapírokra – hitelviszonyt megtestesítő értékpapírok esetében a kibocsátás napján legalább ötvenezer euró vagy annak megfelelő névértékű értékpapírokra – vonatkozó szabályozott információkat, amennyiben az értékpapírral szabályozott piacon kereskednek és a bevezetésre 2010. december 31. előtt került sor.
 
 (6) Ha a szabályozott információk tartalmával kapcsolatban bíróság vagy választottbíróság előtt keresetindításra kerül sor, a fordítás költségeinek viselésére az adott tagállam jogszabályai alapján kerül sor.
+
+58/A. § Ha az értékpapírt a kibocsátó hozzájárulása nélkül vezették be a szabályozott piacra, az 56. § (1) és (2) bekezdés, valamint az 58. § (1)–(5) bekezdés szerinti kötelezettségek azt a személyt terhelik, aki a kibocsátó hozzájárulása nélkül kérte a bevezetést.
 
 ### A tájékoztatási kötelezettség megszüntetése
 
@@ -1208,7 +1210,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 ### Befolyásszerzés önkéntes vételi ajánlat útján
 
-79. § (1) Vételi ajánlat útján történő befolyásszerzésre akkor is sor kerülhet, ha a vételi ajánlat tétele nem kötelező (a továbbiakban: önkéntes vételi ajánlat). Önkéntes vételi ajánlat útján történő befolyásszerzésre a kötelező vételi ajánlat útján történő befolyásszerzés szabályai irányadóak azzal az eltéréssel, hogy a 71. §-ban az ajánlattétel kötelező legkisebb mértékére vonatkozó, valamint a 73/A. § (4) és (5) bekezdésében meghatározott szabályt nem kell alkalmazni, illetve ellenajánlat nem tehető. Az ajánlattevő, az ajánlattevő befolyásoló részesedése alatt álló vállalkozás, valamint a vele összehangoltan eljáró személyek, illetve bármelyikük megbízásából harmadik személy újabb önkéntes vételi ajánlatot az önkéntes vételi ajánlat lezárásától számított hat hónapon belül nem tehet.
+79. § (1) Vételi ajánlat útján történő befolyásszerzésre akkor is sor kerülhet, ha a vételi ajánlat tétele nem kötelező (a továbbiakban: önkéntes vételi ajánlat). Önkéntes vételi ajánlat útján történő befolyásszerzésre a kötelező vételi ajánlat útján történő befolyásszerzés szabályai irányadóak azzal az eltéréssel, hogy a 71. §-ban az ajánlattétel kötelező legkisebb mértékére vonatkozó, valamint a 73/A. § (4) és (5) bekezdésében meghatározott szabályt nem kell alkalmazni, illetve ellenajánlat nem tehető. Az ajánlattevő, az ajánlattevő minősített befolyása alatt álló vállalkozás, valamint a vele összehangoltan eljáró személyek, illetve bármelyikük megbízásából harmadik személy újabb önkéntes vételi ajánlatot az önkéntes vételi ajánlat lezárásától számított hat hónapon belül nem tehet.
 
 (2) Ha az elfogadó nyilatkozatokban felajánlott részvények száma a vételi ajánlatban meghatározott mértéket meghaladja, a részvények átruházására kizárólag a részvények névértékének arányában kerülhet sor.
 
@@ -2335,7 +2337,7 @@ tevékenység.
 (8) A (7) bekezdés alkalmazásában egy ügyvezetői tisztségnek minősül
 
 - a) az ugyanazon csoporton belül betöltött ügyvezetői vagy vezető testületben betöltött, nem ügyvezetői tisztség,
-- b) együttesen azon ügyvezetői és vezető testületben betöltött nem ügyvezetői tisztség, amelyet olyan vállalkozásnál töltenek be, amelyben a (7) bekezdésben meghatározott piacműködtető befolyásoló részesedéssel rendelkezik.
+- b) együttesen azon ügyvezetői és vezető testületben betöltött nem ügyvezetői tisztség, amelyet olyan vállalkozásnál töltenek be, amelyben a (7) bekezdésben meghatározott piacműködtető minősített befolyással rendelkezik.
 
 (9) A (7) bekezdésben meghatározott korlátozás nem terjed ki az olyan szervezetben betöltött ügyvezetői tisztségre, amely nem folytat üzleti jellegű tevékenységet.
 
@@ -2484,6 +2486,8 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 316/B. § (1) A tőzsde a részvények, letéti igazolások, tőzsdei kereskedésben részt vevő alapok, certifikátok és más, hasonló pénzügyi eszközök vonatkozásában árlépésköz-rendszereket fogad el.
 
 (2) Az (1) bekezdésben említett árlépésköz-rendszer tükrözi a pénzügyi eszköz likviditási profilját a különböző piacokon, valamint az eladási és vételi ajánlatok átlagos különbségét (bid-ask spread), figyelembe véve az észszerűen stabil árak lehetővé tételét, a különbség további szűkülésének indokolatlan korlátozása nélkül azzal, hogy az egyes pénzügyi eszközök sajátosságainak megfelelően határozandó meg.
+
+(3) Az árlépésköz-rendszer alkalmazása nem jelenti akadályát annak, hogy a tőzsde a szokásos piaci nagyságrendet meghaladó megbízásokat a vételi és eladási árak közötti középértéken párosítsa.
 
 ### Az üzleti órák összehangolása
 
@@ -2816,6 +2820,8 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 (3) A Felügyelet engedélyét követően a központi értéktár az üzletszabályzatát és szabályzatait a saját honlapján közzéteszi.
 
+(4) Nem szükséges a Felügyelet engedélye a szolgáltatást igénybe vevők részére felszámított díjakra vonatkozó szabályzathoz. A szabályzatot a központi értéktár a saját honlapján közzéteszi.
+
 ### Központi értéktári tevékenység végzésére vonatkozó speciális szabályok
 
 338. § (1) Központi értéktár az ügylet teljesítésének biztosítása érdekében, a szabályzatában óvadék elhelyezését írhatja elő. Központi értéktár szabályzatában rögzített módon, az óvadéki jogosult kedvezményezettségével történő zárolás a Ptk. 5:95. § szerinti alapításnak minősül.
@@ -2850,7 +2856,9 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 ### Központi szerződő fél tevékenységhez szükséges szabályzatok
 
-340. § Központi szerződő fél tevékenységek a Felügyelet által jóváhagyott – a jogszabályoknak való megfelelés érdekében elfogadott – üzletszabályzat és szabályzatok alapján végezhetők.
+340. § (1) Központi szerződő fél tevékenységek a Felügyelet által jóváhagyott – a jogszabályoknak való megfelelés érdekében elfogadott – üzletszabályzat és szabályzatok alapján végezhetők.
+
+(2) Nem szükséges a Felügyelet engedélye a szolgáltatást igénybe vevők részére felszámított díjakra vonatkozó szabályzathoz.
 
 ### Központi értéktárra és központi szerződő félre vonatkozó közös rendelkezések
 
@@ -4203,7 +4211,7 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 11.
 - 12. Az Európai Parlament és a Tanács 2004. december 15-i 2004/109/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról és a 2001/34/EK irányelv módosításáról.
 - 13. Az Európai Parlament és a Tanács 2006. május 17-i 2006/43/EK irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról, a 78/660/EGK és a 83/349/EGK tanácsi irányelv módosításáról, valamint a 84/253/EGK tanácsi irányelv hatályon kívül helyezéséről.
-- 14.
+- 14. Az Európai Parlament és a Tanács 2019. november 27-i (EU) 2019/2034 irányelve a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról.
 - 15.
 - 16. A 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet.
 - 17. A Bizottság 2007. március 8-i 2007/14/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról.

@@ -181,7 +181,7 @@ használnak,
 - 31a. harmadik országbeli vállalkozás: olyan vállalkozás, amely befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetnek, befektetési vállalkozásnak minősülne, ha központi ügyviteli helye vagy létesítő okirat szerinti székhelye valamely EGT-államban lenne,
 - 32. induló tőke: az alapításkori jegyzett tőke, a tőketartalék és az eredménytartalék összege,
 - 33. jegyzési garanciavállalás: az értékpapír saját számlára történő lejegyzésére, illetve megvásárlására vonatkozó kötelezettségvállalás vagy a jegyzés vagy eladás meghiúsulásának elkerülése érdekében szerződésben vállalt mennyiségű értékpapír lejegyzésére, illetőleg megvásárlására vonatkozó kötelezettségvállalás,
-- 33a. jó üzleti hírnév: a befektetési vállalkozás vezető állású személyeinek, befolyásoló részesedéssel rendelkező tagjainak a befektetési vállalkozás irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte,
+- 33a. jó üzleti hírnév: a befektetési vállalkozás vezető állású személyeinek, minősített befolyással rendelkező tagjainak a befektetési vállalkozás irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte,
 - 34. kereskedési szándékkal tartott pozíció: a rövid távú újraértékesítés szándékával vagy a vételi és eladási árak közötti tényleges vagy várható különbözetből, valamint egyéb ár- vagy kamatlábváltozásokból származó rövid távú haszonszerzés szándékával tartott pozíció, amelybe beletartoznak mind a saját számlás, mind az ügyfelek által adott megbízások végrehajtásából és az árjegyzésből származó pozíciók,
 - 34a. kereskedési helyszín: bármely szabályozott piac, multilaterális kereskedési rendszer vagy szervezett kereskedési rendszer,
 - 34b. keresztértékesítés gyakorlata (cross-selling): egy befektetési szolgáltatás felajánlása egy másik szolgáltatással vagy termékkel együtt, egy csomag részeként vagy ugyanazon megállapodás vagy csomag feltételeként,
@@ -373,7 +373,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése globális sz
 
 8. § (1) Befektetési szolgáltatási tevékenység és kiegészítő szolgáltatás – az (1a)–(4) bekezdésben foglaltak figyelembevételével – a Felügyelet engedélyével végezhető, illetve nyújtható.
 
-(1a) Piacműködtető az 5. § (1) bekezdés h), illetve i) pontjában foglalt befektetési szolgáltatási tevékenységet a Felügyelet részére történő bejelentést követő 30 nap elteltével végezheti, azzal, hogy bejelentésben igazolja, hogy megfelel az engedélyezésre, a vezető testületre, a befolyásoló részesedésre, az induló tőke ellátottságra, a szervezeti követelményekre, a jogsértések jelentésére, az algoritmikus kereskedésre, a multilaterális kereskedési rendszerre és a szervezett kereskedési rendszerre e törvényben előírt követelményeknek.
+(1a) Piacműködtető az 5. § (1) bekezdés h), illetve i) pontjában foglalt befektetési szolgáltatási tevékenységet a Felügyelet részére történő bejelentést követő 30 nap elteltével végezheti, azzal, hogy bejelentésben igazolja, hogy megfelel az engedélyezésre, a vezető testületre, a minősített befolyásra, az induló tőke ellátottságra, a szervezeti követelményekre, a jogsértések jelentésére, az algoritmikus kereskedésre, a multilaterális kereskedési rendszerre és a szervezett kereskedési rendszerre e törvényben előírt követelményeknek.
 
 (2) A harmadik országban székhellyel rendelkező vállalkozás fióktelepe befektetési szolgáltatási tevékenységet akkor végezhet, illetve kiegészítő szolgáltatást akkor nyújthat lakossági és a 49. § szerinti szakmai ügyfelek részére, ha rendelkezik a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatóságának az adott tevékenység végzésére jogosító engedélyével, és a 29/A. §-ban meghatározott feltételek teljesülnek. A harmadik országban székhellyel rendelkező vállalkozás által Magyarország területén végezhető befektetési szolgáltatási tevékenysége és kiegészítő szolgáltatás nyújtása során figyelembe kell venni a 600/2014/EU rendelet VIII. címében foglalt rendelkezéseket is.
 
@@ -399,6 +399,17 @@ folytathat.
 - a) a villamos energiáról szóló 2007. évi LXXXVI. törvény 46. § (1) bekezdése szerinti olyan villamosenergia-kereskedőre, amely kizárólag a 6. § e)–g), valamint j) és k) pontjában meghatározott pénzügyi eszköz tekintetében végez az 5. § szerinti befektetési szolgáltatási tevékenységet vagy kiegészítő szolgáltatást,
 - b) a földgázellátásról szóló 2008. évi XL. törvény 28. § (1) bekezdése szerinti földgázkereskedőre, amely kizárólag a 6. § e)–g), valamint j) és k) pontjában meghatározott pénzügyi eszköz tekintetében végez az 5. § szerinti befektetési szolgáltatási tevékenységet vagy kiegészítő szolgáltatást,
 - c) az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 1. § (1) bekezdés a) pontjában meghatározott kibocsátási egységek és a légiközlekedési kibocsátási egységek kereskedelmében részt vevő azon befektetési vállalkozásra, amely kizárólag a 6. § l) pontjában meghatározott pénzügyi eszköz vagy az arra vonatkozó – a 6. §-ban meghatározott – származtatott pénzügyi eszköz tekintetében végez az 5. § szerinti befektetési szolgáltatási tevékenységet vagy kiegészítő szolgáltatást.
+
+8/A. § (1) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 1. pont b) alpontjában foglaltakat teljesítő befektetési vállalkozás a hitelintézetekre előírt tevékenységi (működési) engedély iránti kérelmet nyújt be azon a napon, amikor a következő események bármelyike bekövetkezik:
+
+- a) az eszközei havi összértékének 12 egymást követő hónapra számított átlaga legalább harmincmilliárd euró, vagy
+- b) eszközei havi összértékének 12 egymást követő hónapra számított átlaga legfeljebb harmincmilliárd euró, de olyan csoport tagja, amelynél a csoporthoz tartozó valamennyi vállalkozás egyedi szinten harmincmilliárd eurónál kisebb összértékű eszközzel rendelkezik és befektetési szolgáltatásként sajátszámlás kereskedést vagy pénzügyi eszköz elhelyezését az eszköz (értékpapír vagy egyéb pénzügyi eszköz) vételére vonatkozó kötelezettségvállalással (jegyzési garanciavállalást) végez, a vállalkozások konszolidált eszközeinek összértéke legalább ötmilliárd euró, és ezen összegek mindkét esetben a megelőző 12 egymást követő hónap átlagában kerültek kiszámításra.
+
+(2) Az (1) bekezdés szerinti tevékenységi (működési) engedélyezéskor a Hpt.-ben foglaltak alkalmazandóak azzal, hogy a Felügyelet biztosítja, hogy az eljárás a lehető legegyszerűbb legyen, figyelembe véve a meglévő engedélyekből származó információkat.
+
+(3) Az (1) bekezdés szerinti befektetési vállalkozás prudens működésére, valamint annak felügyelésére a Hpt. VI. és IX. Fejezete alkalmazandó.
+
+(4) A Felügyelet visszavonja a befektetési vállalkozás hitelintézetekre előírt tevékenységi (működési) engedélyét, ha ezen engedélyét kizárólag az 575/2013/EU rendelet 4. cikk (1) bekezdés 1. pont b) alpontja szerinti tevékenységek végzésére használja, és eszközei összértékének öt egymást követő évre számított átlaga az 575/2013/EU rendelet 4. cikk (1) bekezdés 1. pont b) alpontjában meghatározott küszöbértékek alatt van.
 
 9. § (1) Árutőzsdei szolgáltató a rendszeres gazdasági tevékenység keretében a (2) bekezdésben meghatározott eszközökre vonatkozóan
 
@@ -707,7 +718,7 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 
 ### VI. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁS ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK SZEMÉLYI FELTÉTELEI
 
-22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább kettő, három év szakirányú szakmai gyakorlattal rendelkező természetes személy, munkaviszony keretében köteles ellátni. A magánszemély – a (6) bekezdésben foglaltak figyelembevételével – igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább kettő fő, három év szakirányú szakmai gyakorlattal rendelkező természetes személy munkaviszony keretében köteles ellátni.
 
 (1a) Befektetési vállalkozásnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
 
@@ -723,7 +734,7 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 
 (4) Az a hitelintézet, amely befektetési szolgáltatási tevékenységet végez, a befektetési szolgáltatási tevékenység irányítására olyan személyt köteles kinevezni, aki legalább három év szakirányú szakmai gyakorlattal rendelkezik, és aki – a (6) bekezdésben foglaltak figyelembevételével – igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
-(5) Az (1), az (1a), a (4) bekezdés, a 23. §, a 37. § (2a) bekezdése és (4) bekezdés d) pontja, valamint a 116. § (1) bekezdés a) pontja szempontjából az alábbi bűncselekményeket kell figyelembe venni:
+(5) Az (1a), a (4) bekezdés, a 23. §, a 37. § (2a) bekezdése és (4) bekezdés d) pontja, valamint a 116. § (1) bekezdés a) pontja szempontjából az alábbi bűncselekményeket kell figyelembe venni:
 
 - a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), a hamis tanúzás (1978. évi IV. törvény 238. §), a hamis tanúzásra felhívás (1978. évi IV. törvény 242. §), a mentő körülmény elhallgatása (1978. évi IV. törvény 243. §), a bűnpártolás (1978. évi IV. törvény 244. §), a 1978. évi IV. törvény XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (1978. évi IV. törvény 261. §), a nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), a légi jármű, vasúti, a vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel 1978. évi IV. törvény 263. §), a visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), a bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), a visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), az önbíráskodás (1978. évi IV. törvény 273. §), a 1978. évi IV. törvény XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a 1978. évi IV. törvény XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények,
 - b) az atomenergia alkalmazásával visszaélés (Btk. 252. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése (Btk. 271. §), a hamis tanúzás (Btk. 272. §), a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása (Btk. 281. §), a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények.
@@ -1210,7 +1221,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 (6) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja, ha a kérelmező, a befolyással rendelkező az (1)–(5) bekezdésekben meghatározott feltételeknek nem felel meg.
 
-(6a) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja, ha a kérelmező minősített befolyás szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok alapján pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.
+(6a) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja, ha a kérelmező minősített befolyás szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok alapján pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt minősített befolyás szerzése növelheti ennek kockázatát.
 
 (6b) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja akkor is, ha valamely harmadik országnak a kérelmezővel szoros kapcsolatban álló egy vagy több természetes vagy jogi személyre irányadó jogszabályai vagy közigazgatási rendelkezései, vagy azok érvényesítésének nehézségei akadályozzák a Felügyelet felügyeleti funkcióinak hatékony ellátását.
 
@@ -2591,7 +2602,7 @@ rendelkezhet.
 
 (4) Ha a Felügyelet látja el az EGT-állambeli befektetési vállalkozás anyavállalat felügyeletét és az eljárásban részt vevő EGT-államok hatáskörrel rendelkező felügyeleti hatóságainak egyetértése hiányában négy hónapon belül nem hozható többoldalú eljárás keretében határozat, a kérelemről a Felügyelet dönt. A határozat indokolásában a Felügyelet kitér az eljárásban részt vevő EGT-államok hatáskörrel rendelkező felügyeleti hatóságainak véleményére és fenntartásaira is.
 
-(5) A Felügyelet elhalasztja a határozat meghozatalát és megvárja az EBH döntését, ha a négy hónapos időszak alatt az ügyet az eljárásban részt vevő valamely EGT-állam hatáskörrel rendelkező felügyeleti hatósága az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikkével összhangban az EBH elé utalja. A négy hónapos időszak leteltét vagy a többoldalú eljárás keretében hozott határozatot követően az ügy már nem utalható az EBH elé.
+(5) A Felügyelet elhalasztja a határozat meghozatalát és megvárja az EBH döntését, ha a négy hónapos időszak alatt az ügyet az eljárásban részt vevő valamely EGT-állam hatáskörrel rendelkező felügyeleti hatósága az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1093/2010/EU rendelet) 19. cikkével összhangban az EBH elé utalja. A négy hónapos időszak leteltét vagy a többoldalú eljárás keretében hozott határozatot követően az ügy már nem utalható az EBH elé.
 
 (6) Az EGT-állambeli befektetési vállalkozás anyavállalat székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatósága döntését követően a megállapodás tervezetét a részes félként szereplő tagok tulajdonosainak kétharmados szótöbbséggel is jóvá kell hagynia azzal, hogy a megállapodás kizárólag a csoport azon tagjait kötelezi, akiknél a tulajdonosok jóváhagyásukat megadták, illetve azt nem vonták vissza.
 
@@ -2761,6 +2772,17 @@ szemben.
 
 (10) Nem jelenti az üzleti titok sérelmét a Felügyelet által történő, az MNB tv. 57. § (1) bekezdés c) pontjában, illetve 140. § (2) bekezdésében foglalt adattovábbítás.
 
+(11) Nem jelenti az üzleti titok sérelmét a feladatkörében eljáró Felügyelet által történő, összefoglaló vagy összesített formában történő adatátadás, feltéve, hogy ezen adatok alapján konkrét befektetési vállalkozás vagy személy nem azonosítható.
+
+(12) A Felügyelet felügyeleti feladatainak ellátása, valamint információcsere céljából nemzetközi együttműködés keretében együttműködési megállapodást köthet az alábbi feladatokat ellátó külföldi hatóságokkal és szervekkel, feltéve, hogy azok megfelelő, a magyar szabályozással legalább egyenértékű jogi védelmet garantálnak a részükre nyújtott adatok kezeléséhez:
+
+- a) befektetési vállalkozások felszámolása és csődeljárása, valamint más fizetésképtelenségi eljárások;
+- b) befektetési vállalkozások felszámolásában és csődeljárásában, illetve hasonló eljárásokban érintett szervezetek felügyelete;
+- c) pénzügyi vállalkozások vagy kártalanítási rendszereket működtető intézmények jogszabály által előírt könyvvizsgálata;
+- d) pénzügyi vállalkozások beszámolóinak jogszabály által előírt könyvvizsgálatával megbízott személyek felügyelete;
+- e) a kibocsátási egységek piacán tevékenykedő személyek felügyelete annak érdekében, hogy átfogó képet lehessen alkotni a pénzügyi piacokról és az azonnali ügyletek piacáról; és
+- f) a mezőgazdasági áru alapú származtatott termékek piacán tevékenykedő személyek felügyelete annak érdekében, hogy átfogó képet lehessen alkotni a pénzügyi piacokról és az azonnali ügyletek piacáról.
+
 118. § (1) A befektetési vállalkozás, az árutőzsdei szolgáltató, illetőleg a befektetési vállalkozás és az árutőzsdei szolgáltató vezető állású személye és alkalmazottja, valamint bármely más személy, aki valamilyen módon birtokába jutott, az értékpapírtitkot köteles időbeli korlátozás nélkül megőrizni.
 
 (2) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az értékpapírtitkot harmadik személynek – az ügyfél egyidejű tájékoztatása mellett – csak akkor adja ki, ha
@@ -2784,6 +2806,7 @@ szemben.
 - k) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 - l) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 - m) a csődeljárásról és a felszámolási eljárásról szóló törvényben meghatározott felszámoló szervezetek nyilvántartásával és hatósági ellenőrzésével összefüggő feladatai során eljáró, a felszámoló szervezeteket nyilvántartó hatósággal
+- n) a Magyar Könyvvizsgálói Kamara által a befektetési vállalkozásnál vagy az árutőzsdei szolgáltatónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó könyvvizsgálója vagy korábbi könyvvizsgálója ellen indított fegyelmi eljárás keretében a Magyar Könyvvizsgálói Kamarával, valamint az ügyvédi kamara által az ügyvéd által kezelt letétek kezelésére vonatkozó szabályok megtartásának hatósági ellenőrzése során, illetve az ügyvéd ellen indult előzetes vizsgálat, ügyvédi kamarai hatósági eljárás és fegyelmi eljárás keretében az ügyvédi kamarával
 
 szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsdei szolgáltatóhoz intézett adatkérése vagy írásbeli megkeresése esetén.
 
@@ -3848,11 +3871,11 @@ kezelheti.
 
 161/D. § (1) A Felügyelet az összevont alapú felügyeleti feladatok ellátása érdekében más EGT-állam hatáskörrel rendelkező felügyeleti hatóságával szorosan együttműködik.
 
-(2) A Felügyelet az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának átadhatja.
+(2) A Felügyelet az összevont alapú felügyeleti feladatok ellátásához szükséges jelentéseket, adatokat és információkat más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának és szanálási hatóságának átadhatja.
 
 (3) Összevont alapú felügyeleti ellenőrzést a Felügyelet más EGT-állam hatáskörrel rendelkező felügyeleti hatóságának kérésére is végezhet, valamint hozzájárulhat, hogy az ellenőrzésben a hozzájárulást kérő hatáskörrel rendelkező felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő részt vegyen.
 
-(4) Ha a Felügyelet az összevont alapú felügyeletet ellátó felügyeleti hatóság, akkor a (6)–(7) bekezdésben rögzítetteken kívül az EGT-állam hatáskörrel rendelkező felügyeleti hatóságokkal történő együttműködése kiterjed a felügyeleti tevékenységek tervezésére és összehangolására
+(4) Ha a Felügyelet az összevont alapú felügyeletet ellátó felügyeleti hatóság, akkor az (1)–(2) és a (6)–(7) bekezdésben rögzítetteken kívül az EGT-állam hatáskörrel rendelkező felügyeleti hatóságokkal történő együttműködése kiterjed a felügyeleti tevékenységek tervezésére és összehangolására
 
 - a) a rendes működés során, ideértve a vállalatirányítási rendszerre és a kockázatkezelési követelményre vonatkozó rendelkezések teljesítésének ellenőrzését, a befektetési vállalkozások belső tőkemegfelelési folyamatának értékelését, a felügyeleti felülvizsgálatot, a nyilvánosságra hozatali követelmények teljesítésének ellenőrzését, valamint a befektetési vállalkozással szemben alkalmazott intézkedéseket,
 - b) szükség esetén az illetékes központi bankok bevonásával a válsághelyzetekre való felkészülés és a válsághelyzetek során, ideértve a befektetési vállalkozások működésében és a pénzügyi piacokon zajló kedvezőtlen folyamatokat is.
@@ -4024,7 +4047,7 @@ kezelheti.
 - i) a befektetési vállalkozás, az árutőzsdei szolgáltató és a multilaterális kereskedési rendszer működtetője befektetési szolgáltatási tevékenység végzésére, kiegészítő szolgáltatás nyújtására, illetőleg árutőzsdei szolgáltató tevékenységének végzésére jogosító engedélyét visszavonhatja,
 - j) a befektetési vállalkozást és az árutőzsdei szolgáltatót szerződéses kötelezettségeinek más szolgáltató részére történő átadására kötelezheti,
 - k) a befektetési vállalkozáshoz és az árutőzsdei szolgáltatóhoz felügyeleti biztost rendelhet ki,
-- l) bírságot szabhat ki az MNBtv. 76. § (5) és (6) bekezdése figyelembevételével,
+- l) bírságot szabhat ki az MNBtv. 76. § (5), (6) és (25) bekezdése figyelembevételével,
 - m) más hatáskörrel rendelkező hatóságnál eljárást kezdeményezhet,
 - n) a befektetési szolgáltató, illetőleg az árutőzsdei szolgáltató által vezetett számlák feletti rendelkezési jogot meghatározott időre felfüggesztheti,
 - o) megtilthatja, korlátozhatja vagy feltételhez kötheti a befektetési vállalkozás és az árutőzsdei szolgáltató
@@ -4272,7 +4295,7 @@ tekintetében a Felügyelet és az EU-szintű anyavállalatnak vagy az EU-szint�
 
 (4) Ha az eljárásban részt vevő EGT-állam hatáskörrel rendelkező felügyeleti hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a Felügyelet a többoldalú eljárás lezárultát követő tíz munkanapon belül, az eljárásban részt vevő valamennyi EGT-állam hatáskörrel rendelkező felügyeleti hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
 
-(5) Ha a Felügyelet a (3) bekezdés szerinti egyeztetést folytat az Európai Bankhatósággal (a továbbiakban: EBH), akkor a (2) bekezdéstől eltérően a határozat meghozatalának határideje az EBH-nak az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdése szerinti határozatnak a Felügyelet részére történő átadását követő tíz munkanap múlva jár le.
+(5) Ha a Felügyelet a (3) bekezdés szerinti egyeztetést folytat az Európai Bankhatósággal (a továbbiakban: EBH), akkor a (2) bekezdéstől eltérően a határozat meghozatalának határideje az EBH-nak az 1093/2010/EU rendelet 19. cikk (3) bekezdése szerinti határozatnak a Felügyelet részére történő átadását követő tíz munkanap múlva jár le.
 
 (6) A Felügyelet az (5) bekezdés szerinti egyeztetést követően az EBH határozatát a határozatának meghozatalakor figyelembe veszi. Ha a Felügyelet a határozatában jelentősen eltér az EBH határozatától, akkor a határozatában az eltérést indokolja.
 
@@ -4375,7 +4398,7 @@ vonatkozó részletes szabályokat.
 - f) 480. cikk (3) bekezdésének megfelelően a kisebbségi részesedések, a kiegészítő alapvető tőkébe beszámítható tőkeelemek, illetve a járulékos tőkébe beszámítható tőkeelemek összevont alapú szavatolótőkében való figyelembevételi lehetőségére vonatkozó arányokat,
 - g) 481. cikk (5) bekezdésének megfelelően az elsődleges alapvető tőkeelemekre, az alapvető tőkeelemekre, a járulékos tőkeelemekre és a szavatolótőke-elemekre a 2013. december 31-ig hatályos jogszabályok által előírt, de az 575/2013/EU rendeletben nem szereplő szűrők és levonások átmeneti alkalmazására vonatkozó százalékos arányokat,
 - h) 486. cikk (6) bekezdésének megfelelően az elsődleges alapvető tőkében, a kiegészítő alapvető tőkében, valamint a járulékos tőkében a 2013. december 31-ig hatályos jogszabályok alapján figyelembevehető, de az 575/2013/EU rendeletben foglalt követelményeknek meg nem felelő tételek átmeneti figyelembevételére vonatkozó százalékos arányokat,
-- i) 89. cikk (3) bekezdésének megfelelően azt, hogy a befektetési vállalkozásnak a pénzügyi ágazaton kívüli befolyásoló részesedés vonatkozásában az 575/2013/EU rendelet 89. cikk (3) bekezdés a) vagy b) pontjában meghatározott követelményeknek kell megfelelniük,
+- i) 89. cikk (3) bekezdésének megfelelően azt, hogy a befektetési vállalkozásnak a pénzügyi ágazaton kívüli minősített befolyás vonatkozásában az 575/2013/EU rendelet 89. cikk (3) bekezdés a) vagy b) pontjában meghatározott követelményeknek kell megfelelniük,
 - j) 178. cikk (1) bekezdés b) pontjának megfelelően azon időtartamot, amelyen túl az ügyfél nemteljesítését megtörténtnek kell tekinteni,
 - k) 178. cikk (2) bekezdés d) pontjának megfelelően azt a határértéket, amely alapján a hitelkötelezettség-teljesítési késedelem jelentősnek minősül,
 - l) 327. cikk (2) bekezdésének megfelelően az átváltható értékpapír és az annak alapjául szolgáló eszköz kiegyenlítő pozíciója közötti nettósítás alkalmazhatóságának feltételéül szolgáló módszert,
@@ -4512,6 +4535,8 @@ foglalt követelményeknek.
 (3) A Felügyelet az (1) bekezdés szerinti, általa megadott – C6. származtatott energiaügyletre vonatkozó – mentesítésről értesíti az Európai Értékpapír-piaci Hatóságot.
 
 182/E. § A jelölő bizottság tagjaira vonatkozó, a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdasági stabilitást érintő egyes jogszabályok módosításáról szóló 2019. évi CXVIII. törvénnyel megállapított rendelkezéseket a befektetési vállalkozásnak legkésőbb 2020. május 31-től kell alkalmazni.
+
+182/F. § Ha az 575/2013/EU rendelet 4. cikk (1) bekezdés 1. pont b) alpontjában foglaltakat, valamint a 8/A. §-ban meghatározott feltételeket teljesítő befektetési vállalkozás 2019. december 24-én már befektetési vállalkozásként történő működésre engedéllyel rendelkezett, akkor legkésőbb 2020. december 27-ig köteles a hitelintézetekre előírt tevékenységi (működési) engedély iránti kérelmet benyújtani.
 
 ### Jogharmonizációs záradék
 

@@ -31,6 +31,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 - 4. biztosított: a gépjármű biztosítással rendelkező üzemben tartója és a gépjárművet vezető személy;
 - 5. díjtarifa: miniszteri rendeletben meghatározott gépjármű-kategóriánként és – a flotta kivételével – bonus-malus osztályonként a biztosító által megállapított alapdíjak és a díj meghatározásánál alkalmazható valamennyi korrekciós tényező összessége;
 - 6. egyedi szerződés: adott üzemben tartó által, egy meghatározott gépjárműre kötött, e törvénynek megfelelő biztosítási szerződés;
+- 6a. e-kárbejelentő: a MABISZ által üzemeltetett, a kötelező gépjármű felelősségbiztosítási káresemények bejelentésére szolgáló online formában működtetett informatikai megoldás;
 - 7. fedezetlenségi díj: az adott gépjármű vonatkozásában az üzemben tartó biztosítási kötelezettségének – a szünetelés időtartamának, kivételével – díjfizetés hiányában kockázatviselés nélküli időtartamára (fedezetlenség időtartama) a Kártalanítási Számla kezelőjét megillető, általa meghatározott díjtarifa alapján utólagosan megállapított díj;
 - 8. forgalmi engedély: az állandó vagy ideiglenes forgalmi engedély, az ideiglenes forgalomban tartási engedély, valamint a lassú jármű és a négykerekű segédmotoros kerékpár (quad) igazolólapja; 8/A. gazdasági totálkár: a káresemény következtében károsult gépjármű megjavíttatása gazdaságilag nem indokolható, mivel annak javítási, valamint a kár elhárításával kapcsolatos egyéb költségei, illetve a javítást követően esetlegesen fennmaradó értékcsökkenés összege a gépjármű károsodás időpontjában fennálló forgalmi értékének maradványértékkel (roncsértékkel) csökkentett összegét meghaladja.
 - 9. gépjárműflotta: egy adott biztosítónál ugyanazon – jogi személy, egyéni vállalkozó, egyéni cég – szerződő üzemben tartó által biztosított gépjárművek együttesen kezelt csoportja, ha ezen gépjárművek darabszáma a biztosítási időszak kezdőnapján eléri az ötöt;
@@ -393,7 +394,7 @@ indokolás nélkül felmondhatja.
 
 (3) A biztosítóval szemben támasztott követeléseket a károsult választása szerint a kárképviselővel szemben is érvényesítheti a biztosítóra kiterjedő joghatállyal.
 
-29. § (1) A biztosítási esemény bekövetkeztekor a baleset részesei a helyszínen kötelesek átadni egymásnak a személy, a gépjármű és a biztosítási szerződés azonosításához szükséges – a 46. § (2) bekezdésének a), b) és d) pontjaiban meghatározott – adatokat, valamint a baleset lényeges körülményeire vonatkozó információkat. Az így átadott adatok az e törvényben meghatározott feladatainak ellátása céljából kizárólag a biztosítóhoz, a Nemzeti Irodához, a Kártalanítási Számla kezelőjéhez, a Kártalanítási Szervezethez, a levelezőhöz, a kárrendezési megbízotthoz, a kárképviselőhöz, az egészségbiztosítási szervhez, a nyugdíjbiztosítási szervhez továbbíthatók és a Bit. biztosítási titokra vonatkozó szabályai szerint kezelendők.
+29. § (1) A biztosítási esemény bekövetkeztekor a baleset részesei a helyszínen kötelesek átadni egymásnak a személy, a gépjármű és a biztosítási szerződés azonosításához szükséges – a 46. § (2) bekezdésének a), b) és d) pontjaiban meghatározott – adatokat, valamint a baleset lényeges körülményeire vonatkozó információkat. Az így átadott adatok az e törvényben meghatározott feladatainak ellátása céljából kizárólag a biztosítóhoz, a Nemzeti Irodához, a Kártalanítási Számla kezelőjéhez, a Kártalanítási Szervezethez, a MABISZ mint az e-kárbejelentő működtetője részére, a levelezőhöz, a kárrendezési megbízotthoz, a kárképviselőhöz, az egészségbiztosítási szervhez, a nyugdíjbiztosítási szervhez továbbíthatók és a Bit. biztosítási titokra vonatkozó szabályai szerint kezelendők.
 
 (2) A károsult a káreseményt – annak bekövetkeztétől, illetve a tudomásszerzéstől számított – 30 napon belül köteles bejelenteni a biztosítónak. A határidő elmulasztása esetén – kivéve, ha a károsult bizonyítja, hogy az önhibáján kívül történt – a késedelmes teljesítés jogkövetkezményei a káresemény bekövetkezése és a káresemény bejelentése közötti időszakra a biztosítóval, a kárrendezési megbízottal, a levelezővel, a Kártalanítási Számla kezelőjével, a kárképviselővel és a Nemzeti Irodával szemben nem alkalmazhatók.
 
@@ -707,7 +708,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 
 ### Kártörténeti nyilvántartás
 
-51. § (1) Az e törvény szerinti biztosítók a szerződéskötésre kötelezettek veszélyközössége terheinek megfelelő elosztása érdekében, a szerződések díjának kockázatarányos megállapítása érdekében a kártörténeti adatok felhasználása, a kárrendezéssel kapcsolatos feladatok ellátása, továbbá a kártörténeti igazolások kiadása céljából kártörténeti nyilvántartást (a továbbiakban: kárnyilvántartás) hoznak létre.
+51. § (1) Az e törvény szerinti biztosítók a szerződéskötésre kötelezettek veszélyközössége terheinek megfelelő elosztása érdekében, a szerződések díjának kockázatarányos megállapítása érdekében a kártörténeti adatok felhasználása, a kárrendezéssel kapcsolatos feladatok ellátása, a kártörténeti igazolások kiadása, továbbá a 10. § (1) bekezdésében foglaltak ellenőrizhetősége céljából kártörténeti nyilvántartást (a továbbiakban: kárnyilvántartás) hoznak létre.
 
 (2) A kárnyilvántartással kapcsolatos feladatokat a kárnyilvántartó szerv látja el.
 
@@ -751,6 +752,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 - i) a (4) bekezdésben foglalt adatok tekintetében – közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a közlekedési igazgatási hatóság;
 - j) a (4a) bekezdésben foglalt adatokat – a károk kezelése és rendezése céljából – a károkozó gépjármű üzemben tartójának biztosítója, a Kártalanítási Számla kezelője;
 - k) a (4) bekezdés b)–c) és f) pontjában, továbbá a (4a) bekezdésben meghatározott adatokat elektronikus úton – a Kknyt. járműéletút-adatszolgáltatás céljából – a Kknyt.-ben meghatározott központi közúti közlekedési nyilvántartó szerv
+- l) a (4) bekezdésben meghatározott adatokat az e-kárbejelentő rendszer működtetése céljából a MABISZ
 
 részére.
 
@@ -811,7 +813,7 @@ késedelem nélkül megkapja.
 
 ### IV. Fejezet — A MABISZ ÁLTAL A KÖTELEZŐ GÉPJÁRMŰ-FELELŐSSÉGBIZTOSÍTÁS RENDSZERÉBEN ELLÁTOTT FELADATOKRA VONATKOZÓ SZABÁLYOK
 
-56. § (1) A MABISZ látja el a Nemzeti Iroda – ezen belül a Kártalanítási Szervezet, az Információs Központ és a kárnyilvántató szerv – feladatait, a Kártalanítási Számla kezelését, továbbá a Kártalanítási Alap kezelését.
+56. § (1) A MABISZ látja el a Nemzeti Iroda – ezen belül a Kártalanítási Szervezet, az Információs Központ és a kárnyilvántartó szerv – feladatait, a Kártalanítási Számla kezelését, a Kártalanítási Alap kezelését, valamint az e-kárbejelentő működtetésével kapcsolatos feladatokat.
 
 (2) A MABISZ az (1) bekezdésben meghatározott feladatait – az e körbe nem tartozó tevékenységeitől – elkülönített módon láthatja el, amely célból elkülönített szervezeti egységet (a továbbiakban: elkülönített szervezeti egység) hozhat létre.
 
@@ -1008,6 +1010,8 @@ vizsgálatára terjed ki.
 (2) Az elkülönített szervezeti egység adatkezelésére – az e törvényben foglalt rendelkezéseken túl – megfelelően alkalmazni kell a Bit. 141. § (1) és (2) bekezdésében maghatározott rendelkezéseket azzal, hogy ahol a Bit. biztosítót említ, azon az elkülönített szervezeti egységét kell érteni.
 
 (3) Az elkülönített szervezeti egység a személyes adatokat az adott személlyel kapcsolatos e törvényben maghatározott feladatainak ellátása során, továbbá azon időtartam alatt kezelheti, ameddig e feladatával kapcsolatban igény érvényesíthető.
+
+(4) A MABISZ, mint az e-kárbejelentő működtetője, az e feladata ellátása során megismert személyes adatot addig az időpontig kezelheti, ameddig a kárbejelentéssel kapcsolatban igény érvényesíthető.
 
 57/D. § (1) Az elkülönített szervezeti egység biztosítja, hogy a magatartására, tevékenységére vagy mulasztására vonatkozó panaszát a károsult szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
