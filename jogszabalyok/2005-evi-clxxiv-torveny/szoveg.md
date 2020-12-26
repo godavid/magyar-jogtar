@@ -28,7 +28,7 @@ A magyar nemzet jövője, a hátrányos helyzetűek esélyeinek növelése irán
 - 7. számlavezető:
   - a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott hitelintézet, valamint a tőkepiacról szóló törvényben meghatározott befektetési szolgáltató, amely a kincstárral Start-számla vezetés vállalására szerződést kötött, valamint a kincstár;
   - b) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény és a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosításáról szóló 2012. évi XCVII. törvény hatálybalépését követően nyitott számla esetében a kincstár;
-- 8. belföldi szülő: a gyermeknek családi pótlékra jogosult szülője vagy családi pótlékra jogosult más törvényes képviselője,
+- 8. belföldi szülő: a gyermeknek családi pótlékra jogosult szülője vagy családi pótlékra jogosult más törvényes képviselője, vagy a nevelésbe vett gyermek törvényes képviseletét ellátó gyermekvédelmi gyám;
 - 8a. külföldi szülő: külföldi gyermek szülője vagy más törvényes képviselője; (a 8. és a 8a. pont a továbbiakban együtt: szülő)
 - 9. utalási összeg: a kiutaló által a gyermek javára a Start-számlát vezető számlevezetőhöz e törvény alapján utalt összeg;
 - 10. hozzátartozó: a gyermek a Polgári Törvénykönyv szerinti – szülőnek nem minősülő – hozzátartozója és az egyenes ágbeli rokon testvére.
