@@ -1561,6 +1561,7 @@ a támogatás adóévében megfizetni.
 - c) ha az adózó nehéz helyzetben lévő társaság, bíróság által jogerősen elrendelt felszámolás vagy kényszertörlési eljárás alatt áll, vagy végelszámolását bejelentette a bírósághoz;
 - d) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz, felújításhoz;
 - e) ha az adózóval szemben teljesítetlen visszafizetési felszólítás van érvényben olyan európai bizottsági határozat eredményeként, amely valamely támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánított.
+- f) ha a beruházás, a felújítás tárgya a 4. § 31/c. pontja szerinti személygépkocsi, kivéve a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű olyan gépjárművet, amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén teherszállításra bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor.
 
 (9) Az adózónak külön nyilvántartást kell vezetnie, amely tartalmazza a beruházás, felújítás keretében üzembe helyezett, nyilvántartásba vett, az elszámolható költség részét képező, továbbá a kötelező üzemeltetési időszak alatt az állományból kikerült, illetve a szinten tartást szolgáló valamennyi eszköz
 
@@ -2103,6 +2104,8 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 (93) E törvénynek az egyes adózási tárgyú törvényeknek a koronavírus-járvány gazdasági hatásainak mérséklése érdekében szükséges módosításáról szóló 2020. évi XLVI. törvénnyel módosított 7. § (1) bekezdés f) pontját első alkalommal a 2020-ban kezdődő adóévre kell alkalmazni.
 
 (94) E törvénynek a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvénnyel megállapított 22/C. § (4c) bekezdése első alkalommal a 2020. április 16. napján folyamatban lévő, jóváhagyott sportfejlesztési programokkal összefüggésben alkalmazandó.
+
+(95) Az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 22/E. § (8) bekezdés f) pontját első alkalommal ezen rendelkezés hatálybalépését követően megkezdett, energiahatékonysági célokat szolgáló beruházások, felújítások tekintetében kell alkalmazni.
 
 (96) E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 8. § (5e) bekezdését a 2020-ban kezdődő adóévében az adózó választása szerint alkalmazza.
 

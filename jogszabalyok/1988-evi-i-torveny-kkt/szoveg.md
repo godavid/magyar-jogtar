@@ -625,7 +625,7 @@ vonatkozóan a megismert személyes adatokat a közlekedési hatóság az enged�
 - b) a meghatározott okmány meglétéhez kötött saját számlás áru- és személyszállításra,
 - c) a közúti szállítás szociális előírásaira, a vezetési időre, a szünetre, illetve a megszakításra és a pihenőidőre,
 - d) a közúti közlekedésben használt menetíró készülék és tachográf-korong, valamint a digitális tachográfokhoz szükséges kártyák használatára,
-- e) a veszélyes áruk szállítására, a szállítóra (fuvarozóra), a közúti járműre és annak személyzetére, az áru feladójára, átmeneti tárolójára, a csomagolóra, a berakóra, a töltőre, a címzettre és a veszélyes áru szállítási biztonsági tanácsadó kinevezésére és képesítésére,
+- e) a veszélyes áruk szállítására, a szállítóra (fuvarozóra), a közúti járműre és annak személyzetére, az áru feladójára, átmeneti tárolójára, a csomagolóra, a berakóra, a töltőre, a címzettre és a veszélyesáru-szállítási biztonsági tanácsadóra,
 - f) a gyorsan romló élelmiszerek és élő állatok közúti szállítására,
 - g) a bérelt járművekkel végzett közúti áruszállításra,
 - h) a közúti járművek közúti közlekedésben való részvételéhez előírt műszaki, biztonsági és környezetvédelmi tulajdonságokra, a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére, a rakomány rögzítésére, továbbá az ömlesztett áruk szállítására,
@@ -644,18 +644,21 @@ vonatkozóan a megismert személyes adatokat a közlekedési hatóság az enged�
 - m) az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra,
 - n) a (7)–(7a) bekezdésben meghatározott, valamint a 44. § (4) bekezdés szerinti, a jármű továbbközlekedésének megtiltására irányuló, hatósági intézkedésre,
 - o) a Nemzeti Tengelysúlymérő Rendszer keretében végzett mérés eredménye befolyásolásának tilalmára
+- p) a közúti közlekedési ellenőrzés lefolytatására, annak során hozott hatósági intézkedésekre
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (2) A bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság, a munkaügyi hatóság és a közterület-felügyelet (a továbbiakban együtt: eljáró hatóság) jogosult.
 
-(2a) A rendőrség, a katasztrófavédelmi hatóság, a közlekedési hatóság – kivéve a közlekedési hatóságként eljáró fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal – és a vámhatóság közigazgatási hatósági eljárásban hozott határozata ellen fellebbezésnek van helye.
+(2a) A 20. § (1) bekezdés p) pontja szerinti bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság jogosult.
+
+(2b) A rendőrség, a katasztrófavédelmi hatóság, a közlekedési hatóság – kivéve a közlekedési hatóságként eljáró fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal – és a vámhatóság közigazgatási hatósági eljárásban hozott határozata ellen fellebbezésnek van helye.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(4) Az (1) bekezdés a)–j), l), n) és o) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 10 000 forinttól 800 000 forintig, a k) és m) pontokban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+(4) Az (1) bekezdés a)–j), l), n)–p) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 10 000 forinttól 800 000 forintig, a k) és m) pontokban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
-(4a) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés a), b), k) vagy m) pontjában, illetve a (11) bekezdés c) pontja szerinti ellenőrzés során az (1) bekezdés a)–b) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
+(4a) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés a), b), k), m) vagy p) pontjában, illetve a (11) bekezdés c) pontja szerinti ellenőrzés során az (1) bekezdés a)–b) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
 
 (4b) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés kg) pontjában meghatározott szabályszegést elkövető személye a helyszínen nem válik ismertté és a szabályszegést a külön jogszabályban meghatározott technikai eszközzel nem rögzítették, a (4) bekezdésben meghatározott bírságot a gépjármű forgalmi rendszáma alapján megállapított üzemben tartóval szemben kell kiszabni. Ilyenkor az üzemben tartó címére kell a kiszabott összeget tartalmazó csekkszelvényt megküldeni.
 
