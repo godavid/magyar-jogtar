@@ -36,17 +36,11 @@ egyes adótörvények módosításáról
 
 #### 11. §
 
-12. § A Tao. törvény 22/E. § (8) bekezdése a következő f) ponttal egészül ki:
-
-(Nem vehető igénybe adókedvezmény,)
-
-„f) ha a beruházás, a felújítás tárgya a 4. § 31/c. pontja szerinti személygépkocsi, kivéve a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű olyan gépjárművet, amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén teherszállításra bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor.”
+#### 12. §
 
 #### 13. §
 
-14. § (1) A Tao. törvény 29/A. §-a a következő (95) bekezdéssel egészül ki:
-
-„(95) Az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 22/E. § (8) bekezdés f) pontját első alkalommal ezen rendelkezés hatálybalépését követően megkezdett, energiahatékonysági célokat szolgáló beruházások, felújítások tekintetében kell alkalmazni.”
+14. § (1)
 
 (2)
 
@@ -362,19 +356,11 @@ lép.
 
 #### 119. §
 
-120. § Az Aktv. 43/V. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 120. §
 
-„(3) Ha adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukcióban több adótervezésben közreműködő érintett, az adatszolgáltatási kötelezettség valamennyi adótervezésben közreműködőt terheli. Ebben az esetben a konstrukcióval kapcsolatosan elsőként adatot szolgáltató adótervezésben közreműködő közli valamennyi általa ismert adatszolgáltatással érintett adótervezésben közreműködővel a konstrukció adóhatóság által képzett tagállami hivatkozási számát. Az adótervezésben közreműködő mentesül az adatszolgáltatási kötelezettség alól, ha bizonyítja, hogy az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukcióról egy másik adótervezésben közreműködő Magyarországon vagy egy másik tagállamban már teljesítette adatszolgáltatási kötelezettségét.”
+#### 121. §
 
-121. § Az Aktv. 43/W. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az adótervezésben közreműködő mentesül a 43/U. § (1) bekezdésében meghatározott adatszolgáltatási kötelezettség alól, ha e kötelezettség teljesítése a tevékenységét szabályozó jogszabályban rögzített titoktartási kötelezettség megsértését eredményezné. Ebben az esetben az adótervezésben közreműködő haladéktalanul értesíti a többi adótervezésben közreműködőt, illetve ilyen közreműködő hiányában az érintett adózót az adatszolgáltatási kötelezettség fennállásáról, továbbá, ha azzal rendelkezik, az adatszolgáltatási kötelezettség alá tartozó határokon átnyúló konstrukció tagállami hivatkozási számáról.”
-
-122. § Az Aktv. 43/Y. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-[(2) Az (1) bekezdés szerinti információk a következők:]
-
-„a) az adótervezésben közreműködő és az érintett adózó azonosító adatai (név, cím, természetes személyek esetén születési idő és hely, adóügyi illetőség, adóazonosító szám, ennek hiányában azzal egyenértékű azonosító, ha ilyennel rendelkezik), valamint az érintett adózónak a konstrukcióban szereplő kapcsolt vállalkozása,”
+#### 122. §
 
 #### 123. §
 

@@ -4,31 +4,15 @@ egyes közlekedési tárgyú törvények módosításáról
 
 #### 1. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-1. § A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 20. § (1) bekezdése a következő p) ponttal egészül ki:
+1. §
 
-(Az e törvényben, valamint külön jogszabályban és közösségi jogi aktusban)
-
-„p) a közúti közlekedési ellenőrzés lefolytatására, annak során hozott hatósági intézkedésekre”
-
-(vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.)
-
-2. § A Kkt. 20. § (2a) bekezdése helyébe a következő rendelkezés lép, és a § a következő (2b) bekezdéssel egészül ki:
-
-„(2a) A 20. § (1) bekezdés p) pontja szerinti bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság jogosult.
-
-(2b) A rendőrség, a katasztrófavédelmi hatóság, a közlekedési hatóság – kivéve a közlekedési hatóságként eljáró fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal – és a vámhatóság közigazgatási hatósági eljárásban hozott határozata ellen fellebbezésnek van helye.”
+2. §
 
 3. §
 
 4. §
 
-5. § A Kkt.
-
-- a) 20. § (1) bekezdés e) pontjában az „a veszélyes áru szállítási biztonsági tanácsadó kinevezésére és képesítésére” szövegrész helyébe az „a veszélyesáru-szállítási biztonsági tanácsadóra” szöveg,
-- b) 20. § (4) bekezdésében az „(1) bekezdés a)–j), l), n) és o) pontjában” szövegrész helyébe az „(1) bekezdés a)–j), l), n)–p) pontjában” szöveg,
-- c) 20. § (4a) bekezdésében az „(1) bekezdés a), b), k) vagy m) pontjában” szövegrész helyébe az „(1) bekezdés a), b), k), m) vagy p) pontjában” szöveg
-
-lép.
+5. §
 
 #### 2. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
