@@ -50,7 +50,9 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 2. § A megújuló energiaforrásokból előállított energiának a közlekedés valamennyi formájában felhasznált részaránya (a továbbiakban: tagállami célszám) a közlekedési célra felhasznált végső energiafogyasztás legalább 10%-a, amelyet 2020-ban kell teljesíteni.
 
-2/A. §
+#### 2/A. A közigazgatási szankciókra vonatkozó közös szabályok
+
+2/A. § E törvény hatálya alá tartozó hatósági eljárásokban a figyelmeztetés alkalmazása kizárt.
 
 #### 3. A folyékony bio-energiahordozók, bioüzemanyagok és a köztes termékek fenntarthatósági követelményei
 
@@ -64,14 +66,9 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 (5) A bírság kiszabása során figyelembe kell venni annak a biomasszának, köztes terméknek, bioüzemanyagnak vagy folyékony bio-energiahordozónak a mennyiségét, amelyre vonatkozóan a (3) és (4) bekezdés szerinti kötelezettségnek nem tettek eleget.
 
-(6) A mezőgazdasági igazgatási szerv vagy az állami adó- és vámhatóság dönt a bírság kiszabásáról. Ennek keretében mérlegeli különösen:
+(6) Közigazgatási szankció a jogsértő magatartásnak a szankció alkalmazására jogosult hatóság tudomására jutásától számított egy éven belül alkalmazható.
 
-- a) a jogsértéssel okozott hátrányt, illetve a jogsértéssel elért előny mértékét,
-- b) a jogsértéssel okozott hátrány visszafordíthatóságát,
-- c) a jogsértő állapot időtartamát,
-- d) a jogsértő magatartás ismétlődését és gyakoriságát,
-- e) a jogsértést elkövető eljárást segítő, együttműködő magatartását, valamint
-- f) a jogsértést elkövető gazdasági súlyát.
+(7) Nem alkalmazható közigazgatási szankció, ha a jogsértés elkövetésétől számított öt év eltelt.
 
 4. § (1) A biomassza, köztes termék, bioüzemanyag és folyékony bio-energiahordozó fenntartható előállításának minősítésére vonatkozó követelmények teljesítésének ellenőrzése során, továbbá e törvény hatálya alá tartozó kérelemre induló eljárásban a mezőgazdasági igazgatási szerv a nyilvánvaló hibát kijavíthatja.
 

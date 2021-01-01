@@ -54,9 +54,9 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 - f)
 - g) a Honvédség központi hadköteles nyilvántartásának vezetése,
 - h) a Honvédség központi toborzó és érdekvédelmi nyilvántartásának vezetése,
-- i) nyilvántartás vezetése a meghagyásba bevont szervekről és a meghagyásra kijelölt munkakörökről békeidőszakban is, valamint a hadkötelezettség fennállása idején a meghagyásban részesült hadkötelesekről,
+- i) nyilvántartás vezetése a meghagyásba bevont szervekről és a meghagyásra kijelölt munkakörökről, valamint a meghagyásban részesült potenciális hadkötelesekről, kiképzett tartalékosokról és hadkötelesekről,
 - j) a veszteség-nyilvántartás vezetése és a nemzetközi egyezmények szerinti tájékoztatás végrehajtása, és
-- k) a honvédelmi szervezetek és a honvédelemért felelős miniszter közvetlen irányítása és fenntartói irányítása alá tartozó szervezetek személyi állománya részére szolgálati-, munkáltatói, kormánytisztviselői, közalkalmazotti-, honvédelmi alkalmazotti-, katonai nyugdíjas-, honvédségi nyugdíjas-, hatósági- és ellenőri-, katonai rendész, a belföldi katonai futár-, a hadkötelezettség bevezetését követően a katonai igazolványok kiadása, továbbá a katonák személyi igazoló jeggyel és az 1949. augusztus 12-én kötött Genfi Egyezmények hatálya alá tartozó személyazonossági igazolvánnyal történő ellátása.
+- k) a honvédelmi szervezetek és a honvédségi szakképző intézmény személyi állománya részére szolgálati, munkáltatói, katonai nyugdíjas-, honvédségi nyugdíjas-, hatósági és ellenőri, katonai rendész, a belföldi katonai futár-igazolványok kiadása, a hadkötelezettség bevezetését követően a katonai igazolványok kiadása, továbbá a katonák személyi igazoló jeggyel és az 1949. augusztus 12-én kötött Genfi Egyezmények hatálya alá tartozó személyazonossági igazolvánnyal történő ellátása.
 
 4. § A hadkiegészítő és toborzó központok ellátják az alábbi katonai igazgatási feladatokat:
 
@@ -333,6 +333,19 @@ kezeli tovább.
 - b) a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai,
 - c) a Magyar Honvédség parancsnoka.
 
+#### 6/A. Az ideiglenes igazolás kiadásával kapcsolatos adatkezelés
+
+13/B. § (1) A honvédelmi szervezet és a honvédségi szakképző intézmény személyügyi szerve, valamint a katonai igazgatás területi szervei ideiglenes igazolást adnak ki a szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a nyugállományú katona, a honvédségi nyugdíjas jogosultság és a rendfokozat ideiglenes igazolására. A honvédelmi szervezet és a honvédségi szakképző intézmény személyügyi szerve, valamint a katonai igazgatás területi szervei az ideiglenes igazolás kiadása céljából a 22. melléklet szerinti adatokat a kiállítást követő 5 évig kezeli.
+
+(2) Az ideiglenes igazolás tartalmazza:
+
+- a) a 22. melléklet szerinti adatokat,
+- b) a kiállítás idejét,
+- c) az igazolás érvényességének időtartamát,
+- d) a kiállító szerv bélyegzőlenyomatát,
+- e) a kiadványozó nevét, beosztását és
+- f) a kiállító szervezet megnevezését.
+
 #### 7. A fegyelmi szakterület nyilvántartásai és a fegyelmi információs rendszer
 
 14. § (1) A fegyelmi szakterület által vezetett nyilvántartásokban kell kezelni a Honvédség személyi állománya 3. melléklet szerinti adatait. A fegyelmi szakterület által kezelt nyilvántartások az alábbiak:
@@ -352,6 +365,8 @@ kezeli tovább.
 
 - a) a fegyelmi eljárás a szolgálati viszonyt vagy rendfokozatot érintő szankcióval zárult, a fegyelmi nyilvántartásban szereplő adatok az érintett személyre irányadó – az eljárás befejezésekor hatályos jogszabályok alapján megállapított – öregségi nyugdíj korhatárig
 - b) a fegyelmi eljárásban elbírálható katonai vétség esetén pénzbüntetés kerül kiszabásra, úgy a fegyelmi nyilvántartásban szereplő adatok a szolgálati viszony megszűnése vagy megszüntetése esetén a pénzbüntetés megfizetéséig kezelhetők.
+
+(4) A fegyelmi nyilvántartásból a katonai rendészeti intézkedés nyomán kiszabott fenyítésre vonatkozó adatot a katonai rendészeti intézkedések fegyelmi helyzetre gyakorolt hatásának nyomon követése céljából az adatot kezelő honvédelmi szervezet továbbítja a katonai rendészeti feladatokat ellátó honvédségi szervezet részére.
 
 14/B. § (1) A szabálysértési nyilvántartásban történő adatkezelés célja a szabálysértés esetén fennálló felelősség megállapítása érdekében kezdeményezett eljárás lefolytathatóságának, a szabálysértési eljárás során történő döntés-előkészítésnek és határozathozatalnak biztosítása, a kiszabott fenyítések és azok hatályának naprakész megállapíthatósága, továbbá a szolgálati viszony, a honvéd tisztjelölti és a honvéd altiszt-jelölti szolgálati viszony létesítési akadály megállapíthatóságának biztosítása.
 
@@ -523,45 +538,67 @@ részére.
 
 #### 13. Beléptetéssel kapcsolatos nyilvántartások
 
-21. § (1) A honvédelmi szervezet elhelyezésére szolgáló objektumba (a továbbiakban: objektum), valamint objektumon belül a belépési jogosultsághoz kötött területre történő be- és kilépés ellenőrzése, a belépő személyek azonosítása, belépési jogosultságaik nyilvántartása, az élet- és vagyonbiztonság, valamint honvédelmi és nemzetbiztonsági érdek, továbbá a minősített adatok védelme céljából a beléptetésért felelős honvédelmi szervezet a (2) bekezdés szerinti belépőknek az adatait elektronikus beléptetési rendszerben vagy egyéb módon kezeli. Ha az adatokat a beléptetési rendszer üzemeltetőjeként nem az adatkezelő szervezethez tartozó állomány rögzíti, úgy e tevékenység során adatfeldolgozónak minősül. A beléptetési adatok feldolgozásának feltételeit szerződés tartalmazza.
+21. § (1) A honvédelmi szervezet elhelyezésére szolgáló objektumba (a továbbiakban: objektum), valamint objektumon belül a belépési jogosultsághoz kötött területre történő be- és kilépés ellenőrzése, a belépő személyek azonosítása, belépési jogosultságaik nyilvántartása, az élet- és vagyonbiztonság, valamint honvédelmi és nemzetbiztonsági érdek, továbbá a minősített adatok védelme céljából a beléptetésért felelős honvédelmi szervezetek a (2) bekezdés szerinti belépőknek az adatait elektronikus beléptetési rendszerben vagy egyéb módon kezelik.
 
-(2) A beléptetés során a következő adatok kezelhetők:
+(2) Az (1) bekezdés szerinti beléptetésért felelős honvédelmi szervezet kezeli
 
-- a) a Honvédség személyi állományának tagja családi és utóneve, rendfokozata, – állandó belépési engedély esetén – arcképmása és a belépési engedély száma, valamint a honvédelmi szervezet megnevezése,
-- b) a Honvédség személyi állományába nem tartozó személy családi és utóneve – állandó belépési engedély esetén – arcképmása és a belépési engedély száma, valamint az általa képviselt szervezet, szerv, gazdasági társaság megnevezése,
-- c) a szolgálati, a honvédelmi szervezet állományába tartozó kormánytisztviselő kormánytisztviselői, a honvédelmi szervezet állományába tartozó közalkalmazott közalkalmazotti, a honvédelmi szervezet állományába tartozó honvédelmi alkalmazott honvédelmi alkalmazotti igazolvány száma vagy a személyazonosító igazolvány okmányazonosítója, külföldi személy esetén útlevelének száma,
-- d) az adott objektumban való be- és kilépés időpontja, gépjárművel történő behajtás esetén a gépjármű forgalmi rendszáma és a be- és kihajtás időpontja.
+- a) a belépő személy
+  - aa) – a Honvédség személyi állományának tagja esetén – családi és utónevét, rendfokozatát, – állandó belépési engedély esetén – arcképmását, a belépési engedélyének számát, valamint a honvédelmi szervezet megnevezését,
+  - ab) – a Honvédség személyi állományába nem tartozó személy esetén – családi és utónevét – állandó belépési engedély esetén – arcképmását, a belépési engedély számát, valamint az általa képviselt szervezet, szerv, gazdasági társaság megnevezését,
+  - ac) szolgálati igazolványának, a honvédelmi szervezet állományába tartozó kormánytisztviselő esetén a kormánytisztviselői igazolványának, a honvédelmi szervezet állományába tartozó közalkalmazott esetén a közalkalmazotti igazolványának, a honvédelmi szervezet állományába tartozó honvédelmi alkalmazott esetén a honvédelmi alkalmazotti igazolványának számát vagy a személyazonosító igazolványának okmányazonosítóját, külföldi személy esetén útlevelének vagy Nemzetközi Katonai Tartózkodási Igazolványának okmányazonosítóját,
+  - ad) adott objektumba való be- és kilépésének időpontját, valamint
+- b) az adott objektumba gépjárművel történő behajtás esetén a gépjármű forgalmi rendszámát, valamint az azzal történő be- és kihajtás időpontját.
 
-(3) Az adatokat a beléptetésért felelős honvédelmi szervezet a keletkezésüktől számított 15 évig kezeli.
+(3) Az adatokat a beléptetésért felelős honvédelmi szervezetek a keletkezésüktől számított 15 évig kezelik.
 
-(4) A beléptető rendszerben rögzített adat továbbítható
+(4) A beléptető rendszerben rögzített adat – az a) és c) pont vonatkozásában az erre irányuló írásos megkeresés alapján – továbbítható
 
-- a) a honvédelmi szervezet elhelyezésére szolgáló objektumban elkövetett bűncselekmény, szabálysértés, fegyelmi vétség miatt indult eljárásban bizonyítékként történő felhasználás, az érintett jogainak gyakorlása céljából az eljárást lefolytató szervnek,
+- a) a honvédelmi szervezet elhelyezésére szolgáló objektumban elkövetett bűncselekmény, szabálysértés, fegyelmi vétség miatt indult eljárásban hivatalos célból történő felhasználás, valamint az érintett jogainak gyakorlása céljából az eljárást lefolytató szervnek,
 - b) a nemzetbiztonsági érdek védelme céljából a KNBSZ-nek,
-- c) a szolgálatteljesítési idő valóságtartalmának megállapítása céljából a miniszter, a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai, valamint a Magyar Honvédség parancsnoka, továbbá – közvetlen alárendeltjei vonatkozásában – a szolgálati elöljáró vagy a hivatali felettes részére,
-- d) az adott objektumba vagy annak beléptető ponttal elzárt területére történő beléptetésért felelős miniszter által vezetett minisztériumi szervezeti egység, honvédelmi szervezet, vagy annak szervezeti egység vezetője részére az adott belépési ponthoz tartozó, belépési joggal rendelkező személyekről, a belépési engedélyek indokoltságának felülvizsgálata céljából. Ha egy objektumban vagy azon belül beléptető ponttal elzárt területre a belépést több honvédelmi szervezet is engedélyezheti, különösen közös elhelyezésben levő honvédelmi szervezetek esetén, úgy a belépési engedélyek indokoltságának felülvizsgálatához az adott honvédelmi szervezet személyi állománya, valamint azon személyek adatai továbbíthatók, akik nem a beléptetésért felelős honvédelmi szervezet állományába tartoznak, de a belépésük engedélyezését az adott honvédelmi szervezet vezetője jogosult elbírálni, és
-- e) a hatósági jogkört gyakorló szerv részére a hatósági feladatainak ellátásával összefüggésben, ha az érintett objektum, helyiség vonatkozásában a vizsgált időszak mozgásadataira feltétlenül szükség van.
+- c) a szolgálatteljesítési idő ellenőrizhetősége céljából a miniszter, a miniszter által vezetett minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a Magyar Honvédség parancsnoka, továbbá – közvetlen alárendeltjei vonatkozásában – a szolgálati elöljáró vagy a hivatali felettes részére.
 
-21/A. § (1) Az állandó belépési engedélyek kiadására jogosult honvédelmi szervezet az állandó belépési engedélyek kiadása és az érintett azonosítása céljából kezeli az érintett:
+21/A. § (1) Az állandó belépési engedélyek kiadására jogosult honvédelmi szervezet, valamint a honvédségi szakképző intézmény az állandó belépési engedélyek engedélyezése, kiadása és az érintett azonosítása céljából kezeli
 
-- a) családi és utónevét, születési nevét, – honvéd esetén – rendfokozatát, jogviszonyát, valamint a honvédelmi szervezet megnevezését,
-- b) születési helyét és idejét, külföldi személy esetén állampolgárságát,
-- c) a szolgálati, a honvédelmi szervezet állományába tartozó kormánytisztviselő kormánytisztviselői, a honvédelmi szervezet állományába tartozó közalkalmazott közalkalmazotti, a honvédelmi szervezet állományába tartozó honvédelmi alkalmazott honvédelmi alkalmazotti igazolvány számát vagy a személyazonosító igazolvány okmányazonosítóját, külföldi személy esetén útlevelének számát,
-- d) elektronikus belépési engedély esetén arcképmását és a belépési engedély számát,
-- e) a belépésére használt jármű rendszámát és típusát,
-- f) a Honvédség személyi állományába nem tartozó személy esetén az általa képviselt szervezet, szerv, gazdasági társaság megnevezését.
+- a) az érintett
+  - aa) családi és utónevét, születési nevét, – honvéd esetén – rendfokozatát, jogviszonyát, valamint a honvédelmi szervezet megnevezését,
+  - ab) születési helyét és idejét, – nem magyar állampolgár esetén – állampolgárságát,
+  - ac) a szolgálati igazolványának, a honvédelmi szervezet állományába tartozó kormánytisztviselő esetén a kormánytisztviselői igazolványának, a honvédelmi szervezet állományába tartozó közalkalmazott esetén a közalkalmazotti igazolványának, a honvédelmi szervezet állományába tartozó honvédelmi alkalmazott esetén a honvédelmi alkalmazotti igazolványának számát vagy a személyazonosító igazolványának okmányazonosítóját, külföldi személy esetén útlevelének vagy Nemzetközi Katonai Tartózkodási Igazolványának okmányazonosítóját,
+  - ad) – elektronikus belépési engedély esetén – arcképmását és a belépési engedély számát,
+- b) – amennyiben az engedélyező nem azonos az állandó belépési engedélyek kiadására jogosult honvédelmi szervezettel – a belépés engedélyezésének tényét,
+- c) – gépjárművel történő behajtás esetén – a belépésére használt jármű rendszámát és típusát,
+- d) – a Honvédség személyi állományába nem tartozó személy esetén – az általa képviselt szervezet, szerv, gazdasági társaság megnevezését.
 
-(2) Az ideiglenes belépési engedélyek kiadására jogosult honvédelmi szervezet az ideiglenes belépési engedélyek kiadása és az érintett azonosítása céljából kezeli az érintett:
+(2) Az ideiglenes belépési engedélyek kiadására jogosult honvédelmi szervezet, valamint a honvédségi szakképző intézmény az ideiglenes belépési engedélyek engedélyezése, kiadása és az érintett azonosítása céljából kezeli
 
-- a) családi és utónevét, születési nevét, – honvéd esetén – rendfokozatát, jogviszonyát, valamint a honvédelmi szervezet megnevezését,
-- b) születési helyét és idejét, külföldi személy esetén állampolgárságát,
-- c) a szolgálati, a honvédelmi szervezet állományába tartozó kormánytisztviselő kormánytisztviselői, a honvédelmi szervezet állományába tartozó közalkalmazott közalkalmazotti, a honvédelmi szervezet állományába tartozó honvédelmi alkalmazott honvédelmi alkalmazotti igazolvány számát vagy a személyazonosító igazolvány okmányazonosítóját, külföldi személy esetén útlevelének számát és a belépési engedély számát,
-- d) lakcímét,
-- e) az adott objektumban való tartózkodás célját és időtartamát, a Honvédség személyi állományába nem tartozó személy esetén az általa képviselt szervezet, szerv, gazdasági társaság megnevezését,
-- f) a belépésére használt jármű rendszámát és típusát,
-- g) a kísérő és a vendég fogadására jogosult személy nevét, rendfokozatát és szervezeti egységét, a kíséréssel megvalósuló alkalmi vendégbeléptetés esetén.
+- a) az érintett
+  - aa) családi és utónevét, születési nevét, – honvéd esetén – rendfokozatát, jogviszonyát, valamint a honvédelmi szervezet megnevezését,
+  - ab) születési helyét és idejét, – nem magyar állampolgár esetén – állampolgárságát,
+  - ac) szolgálati igazolványának, a honvédelmi szervezet állományába tartozó kormánytisztviselő esetén a kormánytisztviselői igazolványának, a honvédelmi szervezet állományába tartozó közalkalmazott esetén a közalkalmazotti igazolványának, a honvédelmi szervezet állományába tartozó honvédelmi alkalmazott esetén a honvédelmi alkalmazotti igazolványának számát vagy a személyazonosító igazolványának okmányazonosítóját, külföldi személy esetén útlevelének vagy Nemzetközi Katonai Tartózkodási Igazolványának okmányazonosítóját és a belépési engedély számát,
+  - ad) lakcímét,
+- b) az adott objektumban való tartózkodás célját és időtartamát, a Honvédség személyi állományába nem tartozó személy esetén az általa képviselt szervezet, szerv, gazdasági társaság megnevezését,
+- c) – amennyiben az engedélyező nem azonos az ideiglenes belépési engedélyek kiadására jogosult honvédelmi szervezettel – a belépés engedélyezésének tényét,
+- d) – gépjárművel történő behajtás esetén – a belépésére használt jármű rendszámát és típusát,
+- e) – kíséréssel megvalósuló alkalmi vendégbeléptetés esetén – a kísérő és a vendég fogadására jogosult személy nevét, rendfokozatát és szervezeti egységét.
 
-(3) Az adatkezelés az érintett belépési jogosultságának fennállását követő 8 évig tart.
+(3) Az (1) és (2) bekezdésben meghatározott adatokat az állandó és az ideiglenes belépési engedélyek kiadására jogosult honvédelmi szervezet, valamint a honvédségi szakképző intézmény az érintett belépési jogosultsága fennállásának megszűnését követő 8 évig kezeli.
+
+(4) Az (1) és (2) bekezdésben rögzített adat továbbítható – az (1) bekezdés a) pont ad) alpontja szerinti arcképmás és az (1) bekezdés b) pontja, a (2) bekezdés a) pont ad) alpontja, valamint a (2) bekezdés c) és e) pontja szerinti adat kivételével – az adott objektumba vagy annak beléptető ponttal elzárt területére történő beléptetésért felelős honvédelmi szervezet vagy annak szervezeti egysége (a továbbiakban együtt: engedélyező honvédelmi szervezet) vezetőjének részére, az adott belépési ponthoz tartozó, belépési joggal rendelkező személyekről, a belépés engedélyezése, illetve az engedélyek indokoltságának felülvizsgálata céljából. Ha egy objektumban vagy azon belül beléptető ponttal elzárt területre a belépést több honvédelmi szervezet is engedélyezheti, – különösen közös elhelyezésben levő honvédelmi szervezetek esetén – úgy a belépés engedélyezéséhez és a belépési engedélyek indokoltságának felülvizsgálatához az adott honvédelmi szervezet személyi állománya, valamint azon személyek adatai továbbíthatók, akik nem a beléptetésért felelős honvédelmi szervezet állományába tartoznak, de a belépésük engedélyezését az adott honvédelmi szervezet vezetője jogosult elbírálni.
+
+(5) A (4) bekezdésen túlmenően továbbítható az (1) és (2) bekezdésben rögzített adat
+
+- a) – az (1) bekezdés a) pont ad) alpontja szerinti arcképmás és az (1) bekezdés b) pontja, valamint a (2) bekezdés a) pont ad), c) és e) pontja szerint adat kivételével – az engedélyező honvédelmi szervezet vezetője részére az adott belépési ponthoz tartozó, belépési joggal nem rendelkező személyekről, a belépés engedélyezése céljából, valamint
+- b) a nemzetbiztonsági érdek védelme céljából a KNBSZ-nek.
+
+(6) Az (1) és (2) bekezdésben meghatározott személyes adatokat az érintett honvédelmi szervezete, munkáltatója továbbítja az állandó vagy ideiglenes belépési engedélyek engedélyezése, kiadása és az érintett azonosítása céljából az állandó vagy az ideiglenes belépési engedélyek kiadására jogosult honvédelmi szervezet részére.
+
+(7) Az engedélyező honvédelmi szervezet, amennyiben nem azonos az engedélyezett belépési engedély kiadására jogosult honvédelmi szervezettel, úgy az állandó belépési engedély iránti kérelem engedélyezési eljárása során az (1) bekezdésben meghatározott és a (4) és (5) bekezdés szerinti, ideiglenes belépési engedély iránti kérelem engedélyezési eljárása során a (2) bekezdésben meghatározott és a (4) és (5) bekezdés szerinti személyes adatait kezeli az érintettnek a belépési engedély iránti kérelem elbírálása céljából.
+
+(8) A (7) bekezdés szerinti adatokat az engedélyező honvédelmi szervezet az adat keletkezésétől számított 1 évig kezeli.
+
+(9) A (7) bekezdésben meghatározott adatokat tartalmazó engedély továbbítható
+
+- a) a belépési engedély kiadására jogosult honvédelmi szervezetnek, és
+- b) a nemzetbiztonsági érdek védelme céljából a KNBSZ-nek.
 
 #### 13/A. Zártkörű rendezvényekkel kapcsolatos nyilvántartások
 
@@ -733,30 +770,47 @@ továbbíthatók.
 
 #### 13/F. Kiképzési nyilvántartás
 
-24/I. § (1) Kiképzési nyilvántartásban kell kezelni, a kiképzés értékelése céljából a kiképzésben érintett kiképzéssel összefüggő (3) bekezdésben meghatározott adatait.
+24/I. § (1) Kiképzési nyilvántartásban kell kezelni a kiképzés, a fizikai állapotfelmérés és a Honvéd Testalkati Program végrehajtása, értékelése céljából a kiképzésben érintett kiképzéssel összefüggő (3) bekezdésben, valamint a fizikai állapotfelmérés és a Honvéd Testalkati Program (4) bekezdésben meghatározott adatait.
 
-(2) A kiképzési nyilvántartást a honvédelmi szervezet kezeli.
+(2) A kiképzési nyilvántartást a honvédelmi szervezet, valamint a Magyar Honvédség kiképzési szakfeladatokat irányító és ellenőrző szerve kezeli.
 
-(3) A honvédelmi szervezet a következő adatokat kezeli:
+(3) A honvédelmi szervezetek a következő kiképzéssel összefüggő adatokat kezelik:
 
 - a) családi és utónév,
 - b) anyja születési neve,
 - c) rendfokozat,
 - d) szolgálati beosztás,
-- e) születési idő
-- f) a kiképzés tárgyát képező technikai eszköz típusa,
-- g) a végrehajtott kiképzési feladat megnevezése és a végrehajtás eredménye.
+- e) születési hely, idő,
+- f) a kiképzési rendezvény megnevezése, tárgya és értékelése.
 
-(4) A kiképzési nyilvántartásban kezelt adatokat megismerheti
+(4) A honvédelmi szervezetek a következő fizikai állapotfelméréssel és a Honvéd Testalkati Programmal összefüggő adatokat kezelik:
+
+- a) családi és utónév,
+- b) anyja születési neve,
+- c) születési év, hónap, nap,
+- d) rendfokozat,
+- e) az érintett honvédelmi szervezetének megnevezése,
+- f) szolgálati beosztás,
+- g) nem,
+- h) állománykategória,
+- i) miniszteri rendeletben meghatározott életkor és korcsoport,
+- j) a Honvéd Testalkati Követelményhez, illetve a Honvéd Testalkati Programhoz tartozó, miniszteri rendeletben meghatározott testalkati adatok,
+- k) a fizikai állapotfelmérés végrehajtásának ideje,
+- l) a végrehajtott felmérési számok megnevezése és a végrehajtás eredménye,
+- m) a végrehajtott felmérés összpontszáma és értékelése.
+
+(5) A kiképzési nyilvántartásban kezelt adatokat a hatáskörébe tartozó feladatainak ellátása céljából megismerheti
 
 - a) az érintett szervezetszerű parancsnoka, szolgálati elöljárója, vezénylő zászlósa,
 - b) az érintett kiképzéséért felelős személy,
 - c) a kiképzés végrehajtásáért felelős személy,
 - d) a kiképzés ellenőrzésére felhatalmazott személy,
-- e) a honvédségi szervezet személyügyi szerve,
-- f) belső ellenőrzési tevékenységet végző személy.
+- e) a honvédelmi szervezet személyügyi szerve,
+- f) belső ellenőrzési tevékenységet végző személy,
+- g) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve és
+- h) a Honvédség központi személyügyi szerve.
 
-(5) A kiképzési nyilvántartásban kezelt adatok személyhez kötötten a katonai szolgálat felső korhatárának betöltéséig kezelhetők.
+(6) A kiképzési nyilvántartásban kezelt adatokat személyhez kötötten a kiképzési nyilvántartást vezető (2) bekezdés szerinti szerv a katonai szolgálat felső korhatárának betöltéséig kezeli.
 
 #### 13/G. Lakhatási támogatások nyilvántartása
 
@@ -808,7 +862,7 @@ továbbíthatók.
 
 #### 13/J. Katonai rendészeti szolgálattal összefüggő adatkezelések
 
-24/M. § (1) A katonai rendészeti feladatokat ellátó honvédségi szervezet jogszabályban meghatározott feladatainak ellátása céljából kezeli az érintett következő adatait:
+24/M. § (1) A katonai rendészeti feladatokat ellátó honvédségi szervezet jogszabályban meghatározott feladatainak ellátása, az elkövetett bűncselekmény, szabálysértés vagy fegyelmi vétség miatt indítható büntető-, szabálysértési vagy fegyelmi eljárás lefolytatásához szükséges bizonyíték biztosítása, vagy a rendészeti intézkedés jogszerűségének vizsgálata, illetve az érintett személy jogai gyakorlásának elősegítése, valamint a katonai rendészeti intézkedések fegyelmi helyzetre gyakorolt hatásának nyomon követése céljából kezeli a katonai rendész intézkedésével érintett személy következő adatait:
 
 - a) családi és utónév, honvéd esetében állománycsoport, rendfokozat,
 - b) születési hely, idő,
@@ -816,13 +870,29 @@ továbbíthatók.
 - d) szolgálati igazolvány száma, személyazonosító igazolvány okmányazonosítója, vezetői engedély száma, kibocsátásának dátuma, vezetői engedély kategóriája, kategória érvényessége,
 - e) lakcím,
 - f) telefonszám,
-- g) honvédelmi szervezet megnevezése, szolgálati helye.
+- g) honvédelmi szervezet megnevezése, szolgálati helye,
+- h) a katonai rendészeti intézkedés nyomán kiszabott fenyítés,
+- i) az (5) bekezdés alapján készített képfelvétel, hangfelvétel, kép- és hangfelvétel (a továbbiakban együtt: felvétel).
 
-(2) A vezetési képességre hátrányosan ható szer befolyásának ellenőrzése esetén az (1) bekezdésben meghatározott adatokon túl az ellenőrzés eredménye is kezelhető.
+(2) A katonai rendészeti feladatokat ellátó honvédségi szervezet a vezetési képességre hátrányosan ható szer befolyásának ellenőrzése esetén az (1) bekezdésben meghatározott adatokon túl az ellenőrzés eredményére vonatkozó adatot is kezeli.
 
-(3) Az (1)–(2) bekezdésben meghatározott adatok a katonai rendészeti feladat végrehajtását követő egy évig kezelhetők.
+(3) A katonai rendészeti feladatokat ellátó honvédségi szervezet az (1) és (2) bekezdésben meghatározott adatokat a katonai rendészeti feladat végrehajtását követő egy évig kezeli.
 
-(4) A Honvédség személyi állományába tartozó érintett esetén az (1)–(2) bekezdés szerinti adatok az érintett beosztása vagy vezénylés helye szerinti állományilletékes katonai szervezet részére továbbíthatók további eljárás lefolytatása céljából.
+(4) A Honvédség személyi állományába tartozó érintett esetén az (1) és (2) bekezdés szerinti adatok az érintett beosztása vagy vezénylés helye szerinti állományilletékes jogköröket gyakorló honvédelmi szervezet vezetője részére továbbíthatók büntető- vagy szabálysértési eljárás megindítása, illetve fegyelmi eljárás lefolytatása céljából.
+
+(5) A katonai rendészeti feladatokat ellátó honvédségi szervezet a katonai rendészeti intézkedéssel, illetve feladattal összefüggésben az intézkedéssel érintett személyről, a környezetéről, illetve az intézkedés szempontjából lényeges körülményről, tárgyról felvételt készít.
+
+(6) A felvételen szereplő személyek tájékoztatását elősegítő módon figyelemfelhívó jelzést, ismertetést kell elhelyezni a képfelvevők elhelyezéséről, az e § által meghatározott adatkezelés lényeges elemeiről.
+
+(7) A fegyelmi, a szabálysértési vagy a büntetőeljárás megindításához és lefolytatásához szükséges adatok és információk biztosítása céljából – ha ilyen cselekmény elkövetésére utaló adat vagy információ a (3) bekezdés szerinti időtartamon belül merül fel – a katonai rendészeti feladatokat ellátó honvédségi szervezet az (5) bekezdés alapján rögzített adatok kezelésének határidejét legfeljebb harminc nappal meghosszabbíthatja. Ha ezen időtartamon belül nem indul olyan fegyelmi, szabálysértési vagy büntetőeljárás, amelyben a felvételek felhasználhatók, az adatokat haladéktalanul törölni kell.
+
+(8) A (3) bekezdésben meghatározott határidőn belül a rögzített felvételből a jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági feladatainak ellátása céljából a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, nemzetközi jogsegély keretében külföldi hatóság, valamint jogainak gyakorlása érdekében az érintett igényelhet adatot.
+
+(9) A katonai rendészeti feladatokat ellátó honvédségi szervezet a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
+
+(10) Az, akinek jogát vagy jogos érdekét a felvétel rögzítése érinti, a (8) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott egyéb cél érdekében kérheti, hogy az adatkezelő az adatot az eljáró bíróság vagy más hatóság megkereséséig ne törölje. A kérelem benyújtására a (3) bekezdésben meghatározott időtartamon belül van lehetőség.
+
+(11) Bíróság vagy más hatóság megkeresésére a rögzített felvételt haladéktalanul meg kell küldeni. Amennyiben az ilyen adattovábbításra a (3) bekezdésben meghatározott határidőn túl kerülne sor, úgy az adatot az adattovábbításig, de legfeljebb a (3) bekezdésben meghatározott határidőt követő 30 napig nem lehet törölni.
 
 #### 13/K. Katonai rehabilitációs nyilvántartás
 
@@ -850,34 +920,34 @@ továbbíthatók.
 
 #### 13/M. A regenerálódási és rekreációs szolgáltatásokkal kapcsolatos nyilvántartás
 
-24/P. § (1) A regenerálódási és rekreációs szolgáltatásokkal (e fejezet alkalmazásában a továbbiakban: rekreációs szolgáltatások) kapcsolatos nyilvántartásban (e fejezet alkalmazásában a továbbiakban: rekreációs nyilvántartás) a rekreációs szolgáltatások igénybevételének rendjét szabályozó, a hatályos jogszabályban meghatározott, a rekreációs szolgáltatásokat ténylegesen igénybe vevő, vagy igénybe venni szándékozó
+24/P. § (1) A rekreációs, regenerálódási, különleges regenerálódási, kondicionális-kiképzési, külföldi üdültetéssel és külföldiek üdültetésével, valamint a katonai kiképzéssel és oktatással kapcsolatos szolgáltatások (e fejezet alkalmazásában a továbbiakban együtt: rekreációs szolgáltatások) nyilvántartásában (e fejezet alkalmazásában a továbbiakban: rekreációs nyilvántartás) a rekreációs szolgáltatások igénybevételének rendjét szabályozó, a jogszabályban meghatározott, a rekreációs szolgáltatásokat ténylegesen igénybe vevő, vagy igénybe venni szándékozó személy 21. melléklet szerinti adatait a szolgáltatást nyújtó, a rekreációs szolgáltatásokkal kapcsolatos koordinációs, valamint orvosszakmai, illetve adminisztratív feladatok végrehajtására kijelölt honvédelmi szervezetek kezelik.
 
-- a) igényjogosult és családtagjai,
-- b) igényjogosult nem igényjogosult hozzátartozója,
-- c) igényjogosulti körbe nem tartozó személy,
-- d) a Honvédelmi Minisztériummal együttműködési megállapodást kötött honvédségi érdekvédelmi és civil szervezetek tagjai,
-- e) a honvédelem érdekében tevékenykedő, a d) pont hatálya alá nem tartozó civil szervezetek tisztségviselői, jelenlegi és volt tagjai,
-- f) határozott időtartamú szerződés alapján a Honvéd Kemping területén tárolt lakókocsi, lakóautó tulajdonosának, üzembentartójának
-
-a 21. melléklet szerinti adatait a rekreációs szolgáltatásokkal kapcsolatos koordinációs, illetve adminisztratív feladatok végrehajtása kijelölt honvédelmi szervezetek kezelik.
-
-(2) A rekreációs nyilvántartás a 21. melléklet a) és b) pontjában, c) pont cb)–cd) alpontjában, valamint f) pont fc) alpontjában felsorolt adatokat a HM KGIR személyügyi szakterület nyilvántartásából, az f) pont fa) alpontjában felsorolt adatot a HM KGIR pénzügyi szakterület nyilvántartásából veszi át és tartja nyilván a rekreációs nyilvántartás elektronikus rendszerében.
-
-(3) A rekreációs nyilvántartásban történő adatkezelés célja:
+(2) A koordinációs, orvosszakmai, illetve adminisztratív feladatok végrehajtására kijelölt honvédelmi szervezetek adatkezelésének célja:
 
 - a) a rekreációs szolgáltatásokat igénybe venni szándékozó igénylők nyilvántartásba vétele,
 - b) az igénylő igényjogosultságának megállapítása, ellenőrzése,
-- c) az igénylő családtagja családtagi, illetve nem igényjogosult hozzátartozói minőségének megállapítása, ellenőrzése,
-- d) igények visszaigazolása, beutaló kiállítása,
-- e) speciális elhelyezési és étkezési igények kielégítése,
-- f) százalékos mértékű kedvezményes térítési díj megfizetésének megállapítása,
-- g) harmadik és további gyermek utáni térítési díj elengedésének megállapítása,
-- h) igénybe nem vett szolgáltatás teljes vagy csökkentett összegben történő megfizetésének, illetve visszafizetésének elbírálása,
-- i) visszamondott férőhelyek feltöltése a pótigények alapján, a megüresedett férőhelyek függvényében,
-- j) a rekreációs szolgáltatások igénybevételének nyilvántartása, és
-- k) határozott időtartamú szerződés megkötése lakókocsi, lakóautó Honvéd Kemping területén történő tárolásához.
+- c) az igénylő családtagja családtagi, illetve nem igényjogosult hozzátartozói minőségének megállapítása, ellenőrzése.
 
-(4) A rekreációs nyilvántartásban szereplő adatok 3 hónapig, ettől eltérően a 21. melléklet a) pont aa)–ae) alpontjában foglalt adatok 3 évig, a könyvviteli elszámolást közvetlenül alátámasztó számviteli bizonylatok adatai kiállításukat követő 8 évig kezelhetőek.
+(3) Az MH szolgáltatásokat koordináló szervezet adatkezelésének célja:
+
+- a) a rekreációs szolgáltatásokat igénybe venni szándékozó igénylők nyilvántartásba vétele belföldi és külföldi üdülés esetén,
+- b) az igénylő igényjogosultságát bizonyító igazolások ellenőrzése belföldi és külföldi üdülés esetén,
+- c) az adatok feldolgozása és rögzítése az MH szálláshely-nyilvántartó programban,
+- d) igények visszaigazolása, beutaló kiállítása belföldi és külföldi üdülés esetén,
+- e) százalékos mértékű kedvezményes térítési díj megfizetésének megállapítása belföldi üdülés esetén az állományilletékes pénzügyi referatúra adatlapon történő igazolása alapján,
+- f) harmadik és további gyermek utáni térítési díj megállapítása, belföldi üdülés esetén a visszamondott férőhelyek feltöltése a pótigények alapján, a megüresedett férőhelyek függvényében belföldi és külföldi üdülés esetén.
+
+(4) Az MH regenerálódást segítő és rekreációt végző és az MH regenerálódást és kiképzést végző szervezet adatkezelésének célja:
+
+- a) igények visszaigazolása, beutaló, számla kiállítása,
+- b) speciális elhelyezési és étkezési igények kielégítése,
+- c) százalékos mértékű kedvezményes térítési díj megfizetésének megállapítása az állományilletékes pénzügyi referatúra adatlapon történő igazolása alapján,
+- d) harmadik és további gyermek utáni térítési díj megállapítása,
+- e) igénybe nem vett szolgáltatás teljes vagy csökkentett összegben történő megfizetésének, illetve visszafizetésének elbírálása,
+- f) a rekreációs szolgáltatások igénybevételének nyilvántartása,
+- g) az MH regenerálódást segítő és rekreációt végző esetében határozott időtartamú szerződés megkötése lakókocsi, lakóautó Honvéd Kemping területén történő tárolásához.
+
+(5) A 21. mellékletben foglalt adatokat az adatkezelő a könyvviteli elszámolást követő 8. év december 31-éig kezeli.
 
 #### 13/N. Logisztikai nyilvántartás
 
@@ -898,34 +968,42 @@ a 21. melléklet szerinti adatait a rekreációs szolgáltatásokkal kapcsolatos
 
 ### III/A. Fejezet — A HONVÉDELMI CÉLBÓL RÖGZÍTETT BIOMETRIKUS ADATOK NYILVÁNTARTÁSA
 
-24/R. § (1) A Honvédség erői mint adatfeldolgozók és a KNBSZ mint adatkezelő a Hvt.-ben meghatározott feladatok és külföldi művelet végrehajtása során ujj- vagy tenyérnyomatot, DNS-mintát, íriszképet, arcképet, kézérhálózatot, hangmintát, egyéni írásképet és egyéni mozgásképet mint biometrikus adatokat kezelnek.
+24/R. § (1) A Honvédség kijelölt erői és a KNBSZ mint közös adatkezelők – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 39. §-ától eltérően – a Hvt.-ben meghatározott feladatok, így különösen külföldi művelet végrehajtása során ujj- vagy tenyérnyomatot, DNS-mintát, íriszképet, arcképet, kézérhálózatot, hangmintát, egyéni írásképet és egyéni mozgásképet mint biometrikus adatot, illetve az érintett természetes személyazonosító adatait kezelik a biometrikus adatok nyilvántartásában (a továbbiakban: biometrikus nyilvántartás).
 
-(2) Az (1) bekezdés szerinti adatkezelés célja
+(2) A biometrikus nyilvántartásban szereplő adatok kezelésének célja
 
 - a) a honvédelmi, nemzetbiztonsági és rendészeti feladat hatékony végrehajtásának támogatása,
 - b) a Honvédség külföldi katonai szerepvállalásaihoz kötődő műveleti biztonsági feladatok ellátása,
 - c) a műveletekben részt vevő állomány és a további műveletek biztonságának szavatolása,
 - d) a műveletekkel összefüggő fenyegetések feltérképezése,
-- e) a nemzetbiztonságot veszélyeztető terrorszervezetek, terrorcselekmények és a terrorizmus finanszírozásának felderítése,
-- f) a b)–e) pontokkal összefüggő szövetségesi együttműködés támogatása, vagy
-- g) Magyarország honvédelmi és nemzetbiztonsági érdekeinek előmozdítása.
+- e) a b)–d) pontban foglaltakkal összefüggő szövetségi és nemzetközi együttműködés támogatása,
+- f) Magyarország honvédelmi és nemzetbiztonsági érdekeinek előmozdítása, vagy
+- g) a nemzetbiztonságot veszélyeztető személyek és a hozzájuk köthető hálózatok, terrorszervezetek, terrorcselekmények, helyszínek, események, tárgyak és a terrorizmus finanszírozásának felderítése és beazonosítása.
 
-(3) Az (1) bekezdés szerinti adatkezelés feltétele, hogy az adatkezelés olyan helyen valósuljon meg, amely kockázatot vagy fenyegetést jelent a (2) bekezdés szerint elérni kívánt cél tekintetében.
+(3) Az (1) bekezdés szerinti adatkezelés feltétele, hogy az adatkezelés olyan helyen valósuljon meg, amely kockázatot vagy fenyegetést jelent a (2) bekezdés szerint elérni kívánt célok tekintetében.
 
-(4) Az (1) bekezdés szerinti adatkezelés a műveleti területen megjelenő, a Honvédség kijelölt erőit támogató, azzal szembenálló, vagy azzal kapcsolatba kerülő civil személyek, valamint a szembenálló katonai erők tagjai esetében végezhető.
+(4) Az (1) bekezdés szerinti biometrikus nyilvántartásban a közös adatkezelők a Hvt. 80. § 22. pontja szerinti műveleti területen megjelenő, a Honvédség személyi állományába tartozó, illetve kijelölt erőit támogató, azzal szembenálló, vagy azzal kapcsolatba kerülő személyek, valamint a szembenálló katonai erők tagjainak adatait kezelik.
 
-24/S. § (1) A 24/R. § (2) bekezdésében meghatározott célból kezelt, 24/R. § (1) bekezdésében meghatározott biometrikus adatokhoz ellenőrzési, felügyeleti feladataik gyakorlása és vizsgálatok lefolytatása céljából elektronikus úton hozzáférhet és az annak alapjául szolgáló iratokba betekinthet a KNBSZ főigazgatója és helyettesei, valamint a KNBSZ biometrikus adatok kezelésében részt vevő személyi állománya.
+24/S. § (1) A biometrikus nyilvántartásba a 24/R. § (2) bekezdése szerinti célok megvalósítása érdekében, a szövetségi és nemzetközi katonai vagy nemzetbiztonsági célú együttműködés keretében biometrikus adat, illetve természetes személyazonosító adat vehető át, illetve abból – ha fennállnak az adattovábbítás Infotv. vagy a minősített adat védelméről szóló 2009. évi CLV. törvény szerinti feltételei – a KNBSZ főigazgatója engedélyével a 24/R. § (1) bekezdése szerinti nyílt és minősített adatok továbbíthatók
 
-(2) A minisztert, a Magyar Honvédség parancsnokát és helyetteseit a 24/R. § (1) bekezdésében meghatározott biometrikus adatok kezeléséről a KNBSZ főigazgatója tájékoztatja.
+- a) olyan külföldi államnak vagy nemzetközi szervezetnek, amellyel Magyarország bűnügyi vagy védelmi együttműködési tárgyú nemzetközi szerződésen alapuló együttműködést folytat,
+- b) Magyarország nemzetbiztonsági és bűnüldözési érdekeire figyelemmel a hatáskörrel rendelkező igazságszolgáltatási, rendőri és idegenrendészeti szerveknek, valamint a polgári nemzetbiztonsági szolgálatoknak.
 
-(3) A 24/R. § (1) bekezdése szerinti adatok nemzetközi katonai vagy nemzetbiztonsági célú együttműködés keretében – ha fennállnak az adattovábbítás Infotv. szerinti feltételei – továbbíthatók
+(2) A Honvédség kijelölt erői és a KNBSZ a 24/R. § (4) bekezdése szerinti érintettek adatait tartalmazó – az (1) bekezdés a) és b) pontjában meghatározott címzettek részére az (1) bekezdés szerint történő – adattovábbításokról – az adattovábbítás tényének, időpontjának, címzettjének és az adattovábbítással érintett személyes adatok körének rögzítésével – az utólagos módosítás lehetőségét kizáró elkülönült, automatizált adattovábbítási nyilvántartást (elektronikus napló) vezet. A nyilvántartásokból az egyes adattovábbításokra vonatkozó adatok az adattovábbítástól számított öt év elteltével törölhetők.
 
-- a) olyan külföldi államnak vagy nemzetközi szervezetnek, amellyel Magyarország minősített adatok védelme tárgyában nemzetközi szerződést kötött, és
-- b) Magyarország nemzetbiztonsági és rendészeti érdekeire figyelemmel a hatáskörrel rendelkező rendőri és idegenrendészeti szerveknek és polgári nemzetbiztonsági szolgálatoknak.
+24/T. § (1) A 24/R. § (1) bekezdése szerinti adatok a biometrikus nyilvántartásban
 
-24/T. § (1) A 24/R. § (1) bekezdése szerinti adatkezelő a 24/R. § (1) bekezdése szerinti adatokat a rögzítéstől számított ötven évig köteles megőrizni.
+- a) a Honvédség kijelölt erőinek állományába tartozók és e kijelölt erőket támogató személyek adatai tekintetében öt évig,
+- b) a 24/R. § (4) bekezdésében meghatározott további érintettek tekintetében ötven évig
 
-(2) Az (1) bekezdéstől eltérően az adatkezelő törli a rögzítést követően elhunyt személy adatait, ha azok megőrzéséhez további biztonsági érdek nem fűződik.
+kezelhetők.
+
+(2) Az (1) bekezdéstől eltérően a biometrikus nyilvántartásból az elhalálozás tényére vonatkozó hitelt érdemlő információk birtokában az elhunyt személy adatai – ha azok megőrzéséhez további biztonsági érdek nem fűződik – törlésre kerülnek.
+
+(3) Az (1) bekezdéstől eltérően a biometrikus nyilvántartásból törlésre kerülnek azon adatok, amelyek
+
+- a) bármely okból jogellenesen kerültek rögzítésre, vagy
+- b) kezelése – a (2) bekezdésben meghatározott kivételi kört ide nem értve – szükségtelen.
 
 ### IV. Fejezet — A HADKÖTELES ÁLLOMÁNY NYILVÁNTARTÁSA
 
@@ -951,19 +1029,17 @@ a 21. melléklet szerinti adatait a rekreációs szolgáltatásokkal kapcsolatos
 
 (7) A hadköteles nyilvántartásban szereplő adatok az e törvényben meghatározott kivételekkel harmadik személynek vagy más szervnek nem adhatók át.
 
-27. § (1) Azon kiképzett tartalékosok adatait, akiknek a Honvédséggel fennálló hivatásos, szerződéses, önkéntes tartalékos, hallgatói, honvéd tisztjelölti vagy altisztjelölti szolgálati viszonya 2011. január 1-jét követően szűnt meg, valamint életkoruk nem érte el a katonai szolgálat felső korhatárát és a szolgálati viszony megszűnésekor katonai szolgálatra alkalmas minősítéssel rendelkeztek, a Honvédség katonai szervezetei hadi beosztásába történő előzetes tervezése, valamint az önkéntes tartalékos állomány toborzása céljából a Honvédség katonai igazgatási és központi adatfeldolgozó szerve alárendeltségébe tartozó, az érintettek lakóhelye szerint illetékes hadkiegészítő és toborzó központ már békeidőszakban is kezeli.
+27. § (1) Azon kiképzett tartalékosok adatait, akiknek az életkora nem érte el a katonai szolgálat felső korhatárát és a szolgálati viszony megszűnésekor, a honvédelmi szervezetnél katonai alapkiképzés, felkészítés, vagy annak valamely moduljának teljesítésekor katonai szolgálatra alkalmas minősítéssel rendelkeztek, – a Honvédség katonai szervezetei hadi beosztásába történő előzetes tervezése, valamint az önkéntes tartalékos állomány toborzása céljából – a Honvédség katonai igazgatási és központi adatfeldolgozó szerve alárendeltségébe tartozó, az érintettek lakóhelye szerint illetékes hadkiegészítő és toborzó központ már békeidőszakban is kezeli.
 
 (2) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadi beosztásba betervezett kiképzett tartalékosok 4. melléklet a) pont aa)–ae) alpontja, f) pont fb) alpontja és q) pont qa)–qf) alpontja szerinti adatait a tervezett beosztás megjelölésével, a hadi beosztások feltöltésének tervezése céljából békeidőszakban továbbítja a katonai szervezet részére.
 
-(3) A hadkiegészítő és toborzó központ és a katonai szervezet az (1) és (2) bekezdés szerinti adatkezelésre
+(3) A hadkiegészítő és toborzó központ és a katonai szervezet az (1) és a (2) bekezdés szerinti adatkezelésre
 
-- a) a kiképzett tartalékosnak az utolsó önként vállalt szolgálati viszonya, illetve a katonai szolgálatként elismert hallgatói jogviszonya megszűnését, valamint a honvédelmi szervezetnél teljesített kiképzése, felkészítése befejezését követő 10. év december 31-ig, de legfeljebb a katonai szolgálat felső korhatárának eléréséig,
-- b) a hivatásos, szerződéses, önkéntes tartalékos szolgálati viszony létesítéséig, vagy
+- a) a kiképzett tartalékosnak az utolsó önként vállalt szolgálati viszonya, illetve a katonai szolgálatként elismert hallgatói, honvéd tisztjelölti vagy altisztjelölti jogviszonya megszűnését, vagy a honvédelmi szervezetnél katonai alapkiképzés, felkészítés, vagy annak valamely moduljának teljesítését követő 10. év december 31-ig, de legfeljebb a katonai szolgálat felső korhatárának eléréséig,
+- b) a hivatásos, szerződéses, önkéntes tartalékos, hallgatói, honvéd tisztjelölti vagy altisztjelölti szolgálati viszony létesítéséig, vagy
 - c) jogszabály alapján a katonai szolgálat teljesítése alóli mentesítésig
 
 jogosult.
-
-(4) A katonai szervezet a (2) bekezdés szerinti adatkezelésre – a (3) bekezdésben meghatározottak figyelembevételével – legfeljebb a tervezett hadi beosztás megszűnéséig jogosult.
 
 28. § (1) A hadkötelezettség fennállása idején a hadkötelesek adatait
 
@@ -989,7 +1065,7 @@ kezeli.
   - ba) a hivatásos, szerződéses, önkéntes tartalékos, hallgatói, honvéd tisztjelölti vagy altisztjelölti állományba felvettekről, a szolgálatot teljesítőkről, valamint azokról, akiknek a szolgálati viszonya, jogviszonya megszűnt,
   - bb) azon hadkötelesekről, akik hadkötelezettség alapján szolgálatot teljesítenek, továbbá azokról, akiknek a hadkötelezettség alapján teljesített katonai szolgálati viszonya megszűnt, valamint
   - bc) a honvédelmi alkalmazotti, közalkalmazotti állományba felvettekről, munkavállalói jogviszonyt létesítőkről, a honvédelmi alkalmazotti, közalkalmazotti, munkavállalói jogviszonnyal rendelkezőkről, valamint azokról, akiknek a jogviszonya, munkaviszonya megszűnt;
-- c) a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség a hivatásos állományába felvettekről, az állományukban hivatásos szolgálatot teljesítőkről, valamint azokról, akiknek a szolgálati viszonya megszűnt a 4. melléklet a) pont aa)–ae) alpontjában, q) pont qa)–qf) alpontjában, valamint s) pontjában meghatározott adataikra vonatkozóan;
+- c) a rendvédelmi szervek és az Országgyűlési Őrség a hivatásos állományába, a Nemzeti Adó- és Vámhivatal a pénzügyőri állományába felvettekről, az állományukban hivatásos szolgálatot teljesítőkről, illetve a Nemzeti Adó- és Vámhivatal a pénzügyőri státuszú foglalkoztatottairól, valamint azokról, akiknek a szolgálati viszonya megszűnt a 4. melléklet a) pont aa)–ae) alpontjában, q) pont qa)–qf) alpontjában, valamint s) pontjában meghatározott adataikra vonatkozóan;
 - d) a rehabilitációs szakértői szerv a legalább 40%-ot elérő össz-szervezeti egészségkárosodásáról, annak érvényességi idejéről;
 - e) a szabadságelvonással járó büntetés, intézkedés, büntetőjogi, illetve szabálysértési elzárás, illetve szabadságvesztés büntetésüket töltő személyek esetén a szabadságvesztés megkezdésnek idejéről, szabadulásának várható idejéről, szabadulásának időpontjáról, valamint a szabadságelvonással járó büntetés, intézkedés, büntetőjogi, illetve szabálysértési elzárás megkezdésének és befejezésének várható idejéről, befejezésének időpontjáról a Büntetés-végrehajtás Országos Parancsnokságának illetékes szerve;
 - f) a gondnokoltak nyilvántartását vezető hatóság, a cselekvőképességét kizáró vagy korlátozó gondnokság alá helyezéséről, a felülvizsgálat idejéről, megszűnéséről, megszüntetéséről;
@@ -1115,12 +1191,12 @@ a 4. mellékletben foglalt, általa kezelt adatokról.
 
 (5) Az (1) bekezdés szerinti nyilvántartásba történő betekintést, az abból történő adatszolgáltatást a behívás tervezésével és végrehajtásával kapcsolatos feladataik végrehajtása céljából a honvédségi szervezetek részére a Honvédség katonai igazgatási és központi adatfeldolgozó szervének vezetője engedélyezhet.
 
-(6) A jogszabály alapján meghagyásba bevont szervezet a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére szolgáltatja
+(6) A jogszabály alapján meghagyásba bevont szervezet a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére szolgáltatja a 9. mellékletben meghatározott adatokat, valamint a meghagyásban érintett hadköteles 4. melléklet a) pont aa)–ae) alpontjában meghatározott adatait
 
-- a) békeidőszakban évente január 31-éig a 9. mellékletben meghatározott adatokat,
-- b) a hadkötelezettség bevezetését követő 5 napon belül a 9. mellékletben meghatározott adatokat, valamint a meghagyásban érintett hadköteles 4. melléklet a) pont aa)–ae) alpontjában meghatározott adatait.
+- a) békeidőszakban évente január 31-éig,
+- b) a hadkötelezettség bevezetését követő 5 napon belül.
 
-(7) Ha a (2) bekezdés szerinti adatszolgáltatást érintő adatokban változás történik, teljes adatszolgáltatást kell teljesíteni a változást követő 8 napon belül.
+(7) Ha a (2) bekezdés szerinti adatszolgáltatást érintő adatokban változás történik, a változásról adatszolgáltatást kell teljesíteni a változást követő 8 napon belül.
 
 #### 18. Az adatszolgáltatás költsége, azonosító adatai
 
@@ -1235,10 +1311,10 @@ részére az erre vonatkozó írásbeli kérelem alapján.
 
 41. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve
 
-- a) a honvédek szolgálati viszonya fennállásának igazolására szolgáló szolgálati igazolványának, valamint
-- b) a Honvédség személyi állományába tartozást igazoló kormánytisztviselői, közalkalmazotti, honvédelmi alkalmazotti és munkavállalói igazolvány (a továbbiakban együtt: munkáltatói igazolvány)
+- a) a honvédek szolgálati viszonya fennállásának igazolására szolgáló szolgálati igazolványa, valamint
+- b) a Honvédség személyi állományába tartozást igazoló kormánytisztviselői, közalkalmazotti, honvédelmi alkalmazotti igazolvány (a továbbiakban együtt: munkáltatói igazolvány)
 
-kiadása érdekében a 10. melléklet szerinti adatokat kezeli a Honvédséggel fennálló szolgálati, kormányzati szolgálati, politikai szolgálati, biztosi, közalkalmazotti, honvédelmi alkalmazotti jogviszony, illetve munkaviszony létrejöttétől a jogviszony megszűnését vagy megszüntetését követő 5 évig.
+kiadása érdekében a 10. melléklet szerinti adatokat kezeli a Honvédséggel fennálló szolgálati, kormányzati szolgálati, politikai szolgálati – ide nem értve a szakmai és politikai felsővezető kormányzati szolgálati, politikai szolgálati jogviszonyát –, biztosi, közalkalmazotti, honvédelmi alkalmazotti jogviszony létrejöttétől a jogviszony megszűnését vagy megszüntetését követő 5 évig.
 
 (2) A szolgálati igazolvány és munkáltatói igazolvány (e § alkalmazásában a továbbiakban együtt: igazolvány) tartalmazza
 
@@ -1425,13 +1501,13 @@ kiadása érdekében a 10. melléklet szerinti adatokat kezeli a Honvédséggel 
 
 #### 29. Adatszolgáltatás a honvédelmi ágazatban használt igazolványokkal kapcsolatos nyilvántartásokból
 
-46. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve – erre vonatkozó írásbeli kérelemre – az e fejezetben meghatározott nyilvántartásokból adatot szolgáltat a honvédségi szervezetek részére az igazolványok igénylésével, biztosításával kapcsolatos feladataik végrehajtása céljából a Honvédség központi személyügyi szervének vezetője engedélyével.
-
-(2) Az (1) bekezdésben foglalt adatszolgáltatások további feltétele, hogy az adatszolgáltatást kérő szerv igazolja az általa kért adatok tekintetében az adatkezelés célját és adatkezelési jogosultságát.
+46. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve – erre vonatkozó írásbeli kérelemre – az e fejezetben meghatározott nyilvántartásokból – a Honvédség központi személyügyi szervének vezetője engedélyével – adatot szolgáltat a honvédelmi szervezetek, valamint a honvédségi szakképző intézmény részére az igazolványok igénylésével, biztosításával kapcsolatos feladataik végrehajtása céljából.
 
 #### 29/A. A honvédelmi ágazatban használt igazolványok közös rendelkezései
 
-46/A. § A Honvédség katonai igazgatási és központi adatfeldolgozó szerve által, az e fejezetben deklarált honvédelmi ágazatban használt igazolványokkal kapcsolatban vezetett nyilvántartások más nyilvántartásokkal – ha e törvény az adatkezelés céljának és az adatok körének pontos meghatározásával másként nem rendelkezik – nem kapcsolhatóak össze.
+46/A. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve által, az e fejezetben meghatározott, a honvédelmi ágazatban használt igazolványokkal kapcsolatban vezetett nyilvántartások más nyilvántartásokkal – ha e törvény az adatkezelés céljának és az adatok körének pontos meghatározásával másként nem rendelkezik – nem kapcsolhatók össze.
+
+(2) A honvédelmi ágazatban használt azonosító okmányok kiadásával és kezelésével kapcsolatos eljárási szabályokat a honvédelemért felelős miniszter normatív utasításban szabályozza.
 
 ### VIII. Fejezet — A GAZDASÁGI ÉS ANYAGI SZOLGÁLTATÁSI KÖTELEZETTSÉGGEL KAPCSOLATOS NYILVÁNTARTÁS ÉS ADATSZOLGÁLTATÁS
 
@@ -2057,7 +2133,7 @@ f) a szolgálat tervezését és teljesítését befolyásoló adatai:
 
 fa) katonai szolgálatra való alkalmasságát érintő betegsége,
 
-fb) megállapított katonai szolgálatra való alkalmassági minősítése, fokozata, típusa, korlátozások, megállapítás dátuma, megállapításának, felülvizsgálatának dátuma,
+fb) megállapított katonai szolgálatra való alkalmassági minősítése, fokozata, típusa, korlátozások, megállapítás dátuma, megállapító, megállapításának, felülvizsgálatának dátuma.
 
 fc) szomatometriai adatai,
 
@@ -2093,7 +2169,11 @@ fla) a fegyver nélküli katonai szolgálatteljesítésre vonatkozó kérelem be
 
 flb) a kérelemmel kapcsolatos döntés (engedélyezés, elutasítás),
 
-flc) a katonai szolgálatra való egészségi alkalmasság elbírálásával összefüggő orvosi, szakorvosi vizsgálat és gyógykezelés ténye, meghatározott időpontja, időtartama,
+flc)
+
+fm) a katonai szolgálatra való egészségi alkalmasság elbírálásával összefüggő orvosi, szakorvosi vizsgálat és gyógykezelés ténye, meghatározott időpontja, időtartama,
+
+fn) katonai szolgálat teljesítésének törvény alapján történő önként vállalása,
 
 g) össz-szervezeti egészségkárosodás mértéke, megállapításának és felülvizsgálatának dátuma,
 
@@ -2148,6 +2228,8 @@ v) országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőj
 w) vércsoportja és Rh-faktora,
 
 x) gondnokság alá helyezett személy gondnokává hatóság által történő kijelölés, annak időpontja, valamint a gondnokság megszűnése és időpontja.
+
+y) személyazonosító igazolvány okmányazonosítója, érvényességi ideje, útlevél száma, érvényességi ideje.
 
 ### 5. melléklet a 2013. évi XCVII. törvényhez
 
@@ -2357,61 +2439,153 @@ f) személyi azonosító.
 
 ### 9. melléklet a 2013. évi XCVII. törvényhez
 
-A meghagyásba bevont szerv adatszolgáltatásában megküldendő adatok
+A meghagyásba bevont szerv adatszolgáltatása alapján kezelhető adatok
 
-a) jogszabályban kijelölt szerv esetén a
+1. Jogszabályban kijelölt szerv esetén:
 
-aa) szervezet megnevezése,
+1.1. a szervezet megnevezése,
 
-ab) meghagyási kategória,
+1.2. a meghagyási kategória,
 
-ac) meghagyási alkategória,
+1.3. a meghagyási alkategória,
 
-ad) szervezet címe,
+1.4. a szervezet címe,
 
-ae) felelős (kapcsolattartó) személy:
+1.5. a szervezet székhelye,
 
-aea) neve,
+1.6. a felelős (kapcsolattartó) személy:
 
-aeb) telefonszáma,
+1.6.1. neve,
 
-aec) e-mail címe,
+1.6.2. telefonszáma,
 
-af) honvédelmi feladat ellátására kijelölő jogszabály,
+1.6.3. e-mail címe,
 
-ag) meghagyásra kijelölt munkakörök, és azok mennyisége munkakörönként,
+1.7. a központi hivatallá nyilvánítást tartalmazó jogszabály (központi hivatal esetén),
 
-aga) a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
+1.8. a honvédelmi feladat ellátására kijelölő jogszabály (18. alkategória esetén),
 
-agb) a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök mennyisége munkakörönként,
+1.9. a bírósági határozat száma a nyilvántartásba vételről (19. kategória esetén),
 
-b) egyedileg kijelölt egyéni vállalkozó esetén
+1.10. a meghagyásra kijelölt munkakörök, álláshelyek (a továbbiakban együtt: munkakör) és azok mennyisége munkakörönként:
 
-ba) a meghagyási kategória,
+1.10.1. a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
 
-bb) a kijelölő határozat száma,
+1.10.2. a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök mennyisége munkakörökként.
 
-bc) az egyéni vállalkozó neve, címe, adószáma, telefonszáma, e-mail címe,
+2. A meghagyásra tervezett személyek adatai:
 
-bd) ha a felelős személy nem az egyéni vállalkozó, a felelős (kapcsolattartó) személy neve, telefonszáma, e-mail címe,
+2.1. születési családi név,
 
-be) a meghagyásra kijelölt munkakörök.
+2.2. születési 1. utónév,
 
-c) egyedileg kijelölt szervezet esetén:
+2.3. születési 2. utónév,
 
-ca) a meghagyási kategória,
+2.4. házassági családi név,
 
-cb) a kijelölő határozat száma,
+2.5. házassági 1. utónév,
 
-cc) a szervezet megnevezése, székhelye, kijelölt telephelye vagy fióktelepe, adószáma,
+2.6. házassági 2. utónév,
 
-cd) a felelős (kapcsolattartó) személy neve, telefonszáma, e-mail címe,
+2.7. anyja születési családi neve,
 
-ce) a meghagyásra kijelölt munkakörök, és azok mennyisége munkakörönként,
+2.8. anyja születési 1. utóneve,
 
-cea) a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
+2.9. anyja születési 2. utóneve,
 
-ceb) a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök mennyisége munkakörönként,
+2.10. születési idő,
+
+2.11. születési hely,
+
+2.12. munkakör.
+
+3. Egyedileg kijelölt egyéni vállalkozó esetén:
+
+3.1. a meghagyási kategória,
+
+3.2. a kijelölő határozat száma, kiállítója,
+
+3.3. az egyéni vállalkozó neve, címe, adószáma, telefonszáma, e-mail címe,
+
+3.4. ha a felelős személy nem az egyéni vállalkozó, a felelős (kapcsolattartó) személy neve,
+
+telefonszáma, e-mail címe.
+
+4. A meghagyásra kijelölt munkakörök, és azok mennyisége munkakörönként:
+
+4.1. a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
+
+4.2. a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök
+
+mennyisége munkakörökként.
+
+5. A meghagyásra tervezett személyek adatai:
+
+5.1. születési családi név,
+
+5.2. születési 1. utónév,
+
+5.3. születési 2. utónév,
+
+5.4. házassági családi név,
+
+5.5. házassági 1. utónév,
+
+5.6. házassági 2. utónév,
+
+5.7. anyja születési családi neve,
+
+5.8. anyja születési 1. utóneve,
+
+5.9. anyja születési 2. utóneve,
+
+5.10. születési idő,
+
+5.11. születési hely,
+
+5.12. munkakör.
+
+6. Egyedileg kijelölt szervezet esetén:
+
+6.1. a meghagyási kategória,
+
+6.2. a kijelölő határozat száma, kiállítója,
+
+6.3. a szervezet megnevezése, székhelye, kijelölt telephelye vagy fióktelepe, adószáma,
+
+6.4. a felelős (kapcsolattartó) személy neve, telefonszáma, e-mail címe,
+
+6.5. a meghagyásra kijelölt munkakörök, és azok mennyisége munkakörönként:
+
+6.5.1. a meghagyásba kijelölt munkakörök közül a meghagyásra tervezett munkakörök mennyisége munkakörönként,
+
+6.5.2. a meghagyásra kijelölt munkakörök közül a meghagyásra nem tervezett munkakörök mennyisége munkakörökként,
+
+7. A meghagyásra tervezett személyek adatai:
+
+7.1. születési családi név,
+
+7.2. születési 1. utónév,
+
+7.3. születési 2. utónév,
+
+7.4. házassági családi név,
+
+7.5. házassági 1. utónév,
+
+7.6. házassági 2. utónév,
+
+7.7. anyja születési családi neve,
+
+7.8. anyja születési 1. utóneve,
+
+7.9. anyja születési 2. utóneve,
+
+7.10. születési idő,
+
+7.11. születési hely,
+
+7.12. munkakör.
 
 ### 10. melléklet a 2013. évi XCVII. törvényhez
 
@@ -3024,88 +3198,182 @@ nb) rendfokozata,
 
 ### 21. melléklet a 2013. évi XCVII. törvényhez
 
-A regenerálódási és rekreációs szolgáltatásokkal kapcsolatos nyilvántartásban kezelhető adatok:
+A regenerálódási és rekreációs szolgáltatásokkal kapcsolatos nyilvántartásban kezelhető adatok
 
-a) az igénylő adatai
+1. A 24/P. § (2) bekezdése alkalmazásában:
 
-aa) családi és utóneve;
+1.1. az igénylő adatai:
 
-ab) születési neve;
+1.1.1. családi és utóneve,
 
-ac) anyja születési neve;
+1.1.2. születési neve,
 
-ad) születési év, hónap, nap;
+1.1.3. anyja születési neve,
 
-ae) adóazonosító jele;
+1.1.4. születési hely, év, hónap, nap,
 
-af) állománycsoportja, rendfokozata;
+1.1.5. adóazonosító szám,
 
-ag) szolgálati, munkahelye;
+1.1.6. rendfokozata,
 
-ah) lakcíme;
+1.1.7. szolgálati, munkahelye,
 
-ai) személyazonosításra alkalmas igazolvány okmányazonosítója, érvényességi ideje;
+1.1.8. lakcíme, tartózkodási hely, e-mail cím, telefonszám,
 
-aj) családi állapota (különösen a házassági anyakönyvi kivonat, élettársi nyilatkozat adatai);
+1.1.9. személyazonosításra alkalmas igazolvány okmányazonosítója,
 
-b) az igénylő családtagjának, nem igényjogosult hozzátartozójának adatai
+1.1.10. családi állapota (különösen a házassági anyakönyvi kivonat, élettársi nyilatkozat adatai),
 
-ba) családi és utóneve;
+1.2. az igénylő családtagjának, nem igényjogosult hozzátartozójának adatai:
 
-bb) születési neve;
+1.2.1. családi és utóneve,
 
-bc) anyja születési neve;
+1.2.2. születési neve,
 
-bd) születési év, hónap, nap;
+1.2.3. anyja születési neve,
 
-be) adóazonosító jele;
+1.2.4. születési év, hónap, nap,
 
-bf) állománycsoportja, rendfokozata;
+1.2.5. adóazonosító szám,
 
-bg) szolgálati, munkahelye;
+1.2.6. rendfokozata,
 
-bh) lakcíme;
+1.2.7. szolgálati, munkahelye,
 
-bi) rokonsági foka;
+1.2.8. lakcíme,
 
-bj) személyazonosításra alkalmas igazolvány okmányazonosítója, érvényességi ideje;
+1.2.9. rokonsági foka,
 
-c) szolgálatteljesítésre vonatkozó adatok
+1.2.10. személyazonosításra alkalmas igazolvány okmányazonosítója,
 
-ca) honvédségi azonosító okmány száma, érvényességi ideje (különösen a honvédségi szolgálati igazolvány, a kormánytisztviselői igazolvány, a közalkalmazotti igazolvány, a katonai nyugdíjas igazolvány, az ideiglenes szolgálati igazolvány, valamint a hatósági és ellenőri igazolvány adatai);
+1.3. egészségi állapotra vonatkozó adatok:
 
-cb) betöltött beosztás megnevezése;
+1.3.1. az igénylő vagy családtagjának betegsége,
 
-cc) műveleti területről történő hazatérés időpontja;
+1.3.2. családtag halála (különösen orvosi igazolás, ambuláns lap, kórházi zárójelentés, halotti anyakönyvi kivonat adatai).
 
-cd) műveleti területen teljesített szolgálat időtartama;
+2. A 24/P. § (3) bekezdése alkalmazásában:
 
-d) családtag, nem igényjogosult hozzátartozó minőség megállapításához, ellenőrzéséhez szükséges adatok;
+2.1. az igénylő adatai:
 
-da) családtagok, nem igényjogosult hozzátartozók adatai (különösen a születési anyakönyvi kivonat, nevelőszülői foglalkoztatási jogviszony létesítéséről szóló okirat, örökbefogadásról szóló okirat adatai);
+2.1.1. családi és utóneve,
 
-db) tanulói vagy hallgatói jogviszony igazolására szolgáló adatok (különösen iskolalátogatási igazolás, tanulói, hallgatói jogviszony igazolás, diákigazolvány adatai);
+2.1.2. születési neve,
 
-e) egészségi állapotra vonatkozó adatok
+2.1.3. anyja születési neve,
 
-ea) fertőző betegség;
+2.1.4. születési hely, év, hónap, nap,
 
-eb) igénylő vagy családtagjának betegsége, családtag halála (különösen orvosi igazolás, ambuláns lap, kórházi zárójelentés, halotti anyakönyvi kivonat adatai);
+2.1.5. adóazonosító szám,
 
-ec) állandóan szedett gyógyszerek, gyógyszerérzékenység;
+2.1.6. rendfokozata,
 
-ed) mozgáskorlátozottság;
+2.1.7. szolgálati, munkahelye,
 
-ee) speciális étkezési igény (különösen cukorbetegségre, ételallergiára vonatkozó adatok);
+2.1.8. lakcíme, tartózkodási hely, e-mail cím, telefonszám,
 
-f) térítésidíj-kedvezmények megállapításához szükséges adatok
+2.1.9. családi állapota (különösen a házassági anyakönyvi kivonat, élettársi nyilatkozat adatai),
 
-fa) térítési kód;
+2.2. az igénylő családtagjának, nem igényjogosult hozzátartozójának adatai:
 
-fb) tanulói vagy hallgatói jogviszony igazolására szolgáló adatok (különösen iskolalátogatási igazolás, tanulói, hallgatói jogviszony igazolás, diákigazolvány adatai);
+2.2.1. családi és utóneve;
 
-fc) gyermekek, eltartottak száma (különösen a születési anyakönyvi kivonat adatai);
+2.2.2. születési neve;
 
-g) lakókocsi, lakóautó, illetve tulajdonosának, üzemben tartójának azonosító adatai (különösen a forgalmi engedély adatai);
+2.2.3. anyja születési neve;
 
-h) honvédségi érdekvédelmi és civil szervezettel, illetve a honvédelem érdekében tevékenykedő, de honvédségi érdekvédelmi és civil szervezetnek nem minősülő civil szervezettel fennálló, vagy fennállt tagsági viszonyra, tisztségviselésre vonatkozó adatok.
+2.2.4. születési év, hónap, nap;
+
+2.2.5. adóazonosító jele;
+
+2.2.6. rendfokozata;
+
+2.2.7. szolgálati-, munkahelye;
+
+2.2.8. lakcíme;
+
+2.2.9. rokonsági foka;
+
+2.3. egészségi állapotra vonatkozó adatok:
+
+2.3.1. igénylő vagy családtagjának betegsége,
+
+2.3.2. családtag halála (különösen orvosi igazolás, ambuláns lap, kórházi zárójelentés, halotti anyakönyvi kivonat adatai).
+
+3. A 24/P. § (4) bekezdése alkalmazásában:
+
+3.1. az igénylő adatai:
+
+3.1.1. családi és utóneve,
+
+3.1.2. születési neve,
+
+3.1.3. anyja születési neve,
+
+3.1.4. születési hely, év, hónap, nap,
+
+3.1.5. adóazonosító jele,
+
+3.1.6. rendfokozata,
+
+3.1.7. szolgálati-, munkahelye,
+
+3.1.8. lakcíme, tartózkodási hely, e-mail cím, telefonszám,
+
+3.1.9. személyazonosításra alkalmas igazolvány okmányazonosítója,
+
+3.1.10. családi állapota (különösen a házassági anyakönyvi kivonat, élettársi nyilatkozat adatai),
+
+3.2. az igénylő családtagjának, nem igényjogosult hozzátartozójának adatai:
+
+3.2.1. családi és utóneve,
+
+3.2.2. születési neve,
+
+3.2.3. anyja születési neve,
+
+3.2.4. születési év, hónap, nap,
+
+3.2.5. adóazonosító jele,
+
+3.2.6. rendfokozata,
+
+3.2.7. szolgálati-, munkahelye,
+
+3.2.8. lakcíme,
+
+3.2.9. rokonsági foka,
+
+3.2.10. személyazonosításra alkalmas igazolvány okmányazonosítója,
+
+3.3. egészségi állapotra vonatkozó adatok:
+
+3.3.1. igénylő vagy családtagjának betegsége,
+
+3.3.2. családtag halála (különösen orvosi igazolás, ambuláns lap, kórházi zárójelentés, halotti anyakönyvi kivonat adatai),
+
+3.3.3. mozgáskorlátozottság,
+
+3.3.4. speciális étkezési igény (különösen cukorbetegségre, ételallergiára vonatkozó adatok),
+
+3.4. térítésidíj-kedvezmények megállapításához szükséges adatok:
+
+3.4.1. térítési kód,
+
+3.5. lakókocsi, lakóautó, illetve tulajdonosának, üzemben tartójának azonosító adatai (különösen a forgalmi engedély adatai).
+
+### 22. melléklet a 2013. évi XCVII. törvényhez
+
+Az ideiglenes igazolás adatköre
+
+a) családi és utónév,
+
+b) születési idő,
+
+c) születési hely,
+
+d) anyja neve,
+
+e) jogviszony megnevezése, katona esetében a rendfokozat,
+
+f) a nyugállomány tagja és a szolgálati járandóságra jogosult esetében egyenruha-viseléssel összefüggő rendelkezés.

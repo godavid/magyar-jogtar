@@ -898,7 +898,7 @@ kapcsolatos szabályokat.
 
 (3) Az engedéllyel szemben támasztott tartalmi követelményeket és az engedély megszerzésének és hatályának részletes szabályait a miniszter rendeletben állapítja meg.
 
-(4) A járművezetőnek – amennyiben nem a vasúti járművezetői engedélyről és tanúsítványról szóló miniszteri rendelet szerinti meghatalmazott útján jár el – az engedély iránti kérelmet személyesen kell előterjesztenie.
+(4) A járművezető – vagy a vasúti járművezetői engedélyről és tanúsítványról szóló miniszteri rendelet szerinti képviselője – az engedély kiállítása, megújítása, meghosszabbítása és módosítása iránti kérelmet elektronikus úton terjeszti elő.
 
 (5) Ha a közlekedési hatóság azt állapítja meg, hogy a járművezető nem teljesíti az (1) bekezdésben meghatározott valamely feltételt, az engedélyt felfüggeszti, és erről értesíti a Bizottságot. A felfüggesztésről szóló határozat azonnal végrehajtható.
 
@@ -1893,16 +1893,15 @@ biztosítható.
 79/D. § (1) A vasúti igazgatási szerv a jogvitás ügyben hozott határozatában
 
 - a) elutasítja az alaptalan kérelmet és dönt az eljárással kapcsolatos költségek viseléséről vagy
-- b) megállapítja a jogsértés megtörténtét, és
+- b) a jogsértés megtörténtének megállapítása mellett, a vasúti piacfelügyeleti bírság mértékére és alkalmazására vonatkozó részletes szabályokról szóló rendeletben foglaltak szerint bírságot szabhat ki, és
   - ba) a jogsértőt kötelezi az eljárással kapcsolatban felmerült költségek viselésére,
   - bb) kötelezi a jogsértés okozóját a jogszabálynak megfelelő magatartás tanúsítására,
   - bc) módosítja a Hálózati Üzletszabályzat jogszabályba ütköző rendelkezését,
   - bd) a 79/B. § (1) bekezdés e) pontja szerinti jogvita esetén elrendelheti a Díjképzési Módszertan módosítását, és a módosított Díjképzési Módszertan alapján új Díjszámítási Dokumentum készítését, valamint annak megfelelő díjszabási rendszer Hálózati Üzletszabályzatban való meghirdetését,
   - be) a 79/B. § (1) bekezdés f) pontja szerinti jogvita esetén elrendelheti új Díjszámítási Dokumentum készítését, valamint annak megfelelő díjszabási rendszer Hálózati Üzletszabályzatban való meghirdetését,
-  - bf) a pályahálózat-működtető részére fizetendő (elszámolandó) díjakkal kapcsolatos jogvita esetén megtiltja a jogszerűtlen ellenérték további alkalmazását, egyidejűleg megállapítja a jogszerű ellenértéket és kötelezheti a vasúti társaságot a jogszerű ellenérték alkalmazására,
-  - bg) a vasúti piacfelügyeleti bírság mértékére és alkalmazására vonatkozó részletes szabályokról szóló rendeletben foglaltak szerint bírságot szab ki.
+  - bf) a pályahálózat-működtető részére fizetendő (elszámolandó) díjakkal kapcsolatos jogvita esetén megtiltja a jogszerűtlen ellenérték további alkalmazását, egyidejűleg megállapítja a jogszerű ellenértéket és kötelezheti a vasúti társaságot a jogszerű ellenérték alkalmazására.
 
-(2) A vasúti igazgatási szerv az (1) bekezdésben meghatározott jogkövetkezmények közül egyidejűleg többet is alkalmazhat.
+(2) A vasúti igazgatási szerv az (1) bekezdés b) pontjában meghatározott jogkövetkezmények közül egyidejűleg többet is alkalmazhat.
 
 (3) Ha a vasúti igazgatási szerv az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt a hatáskörrel rendelkező hatóságnak, így különösen a Gazdasági Versenyhivatalnak (a továbbiakban: versenyhatóság) jelezni.
 
@@ -2096,7 +2095,7 @@ során.
 - a) az üzemben tartót a vizsgálat vagy a javítás elvégzésére illetve az üzemben tartót az engedélyben előírt üzemeltetési feltételek betartására kötelezi és
 - b) az üzemben tartóval szemben bírságot szab ki.
 
-(2) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság a vasúti pálya üzemének megszüntetését, a vizsgált jármű forgalomból való kivonását, vagy a vasúti személyzet munkavégzésének felfüggesztését rendeli el.
+(2) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság a vasúti pálya üzemének megszüntetését, a vizsgált jármű forgalomból való kivonását, vagy a vasúti személyzet munkavégzésének felfüggesztését vagy a vasúti társaság tevékenység végzésétől történő eltiltását rendeli el, valamint bírságot szab ki.
 
 (3) A közlekedési hatóság a vasúti pályának, a vasúti járműnek vagy a vasúti járműre szerelt nyomástartó edénynek engedély nélküli vagy az engedélyben foglaltaktól eltérő létesítése, gyártása, átalakítása, bontása, illetve használata, üzemeltetése esetén
 
@@ -2159,7 +2158,7 @@ felfüggesztheti, megtilthatja vagy visszavonhatja,
 - d) a korábbi jogsértő magatartást, valamint
 - e) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő magatartást, illetőleg a jogsértő állapot megszüntetésére tett, a közlekedési hatóság eljárását megelőző, attól független tevékenységet.
 
-(15) Az e § szerinti bírság (a továbbiakban: vasúti bírság) a cselekmény elkövetésétől számított három éven belül szabható ki. Folyamatos cselekmény, illetve jogsértő állapot fenntartása esetén e határidő a cselekmény befejezésekor, illetve az állapot megszüntetésekor kezdődik. A vasúti bírság ismételten is kiszabható.
+(15) Az e § szerinti közigazgatási bírság ismételten is kiszabható.
 
 (16) Az e törvényben vagy a végrehajtására kiadott rendeletben meghatározott adatszolgáltatási kötelezettség elmulasztása esetén a közlekedési hatóság bírságot szab ki.
 
@@ -2185,6 +2184,8 @@ terjedhet jogsértésenként.
 (2) A veszélyes áruk vasúti szállítására vonatkozó jogszabályi előírások megsértőivel szemben bírság szabható ki. Az e § alapján indított bírságolási eljárást a hivatásos katasztrófavédelmi szerv folytatja le.
 
 (3) Ha a hivatásos katasztrófavédelmi szerv az ellenőrzés során jogszabálysértést állapít meg, a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk vasúti és belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályairól szóló kormányrendeletben foglaltak szerinti intézkedést és 1 000 000 forintig terjedő bírságot alkalmaz a jogsértővel szemben. A veszélyes áru vasúti szállítása esetében a jogsértő lehet a feladó, a csomagoló, a berakó, a kirakó, az átrakó, a töltő, a tároló, a fuvarozó (szállító), az üzembentartó, a karbantartásért felelős szervezet (ECM), a szállításban érintett vállalkozás vezetője, a biztonsági tanácsadó, a vasúti pályahálózat működtetését végző vasúti társaság, a vonatszemélyzet, a szabálytalanságért felelős egyéb személy.
+
+(3a) Nem alkalmazható közigazgatási szankcióként figyelmeztetés, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározott I., II. vagy III. kockázati kategóriába tartozó cselekmény vagy mulasztás.
 
 (4) Az e § alapján tett jogszerű intézkedésből eredő kárért a jogszabálysértővel szemben a hivatásos katasztrófavédelmi szerv felelősséggel nem tartozik.
 
@@ -2224,6 +2225,7 @@ terjedhet jogsértésenként.
 - d) a műszaki engedélyek kiadásának, valamint a 80. § (5) bekezdésében meghatározott éves jelentés alapjául szolgáló adatokat,
 - e) a képzést és vizsgáztatást, illetve az egészségi alkalmasság vizsgálatát és véleményezését végző személyek természetes személyazonosító adatait,
 - f) a vasúti járművekre szerelt, vasútüzemi célt szolgáló nyomástartó edények és kazánok minősítését, valamint hatósági műszaki vizsgálatát végző személyek természetes személyazonosító adatait
+- g) a nemzeti vasúti járműnyilvántartásban a vasúti jármű tulajdonosának adatait, amennyiben a jármű tulajdonosa természetes személy, akkor a tulajdonos természetes személyazonosító adatait
 
 kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képesítéseket – ezek hitelességének utólagos igazolása céljából – nyilvántartani.
 
@@ -2235,6 +2237,7 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 
 - a) az (1) bekezdés a) és b) pontjában meghatározott esetben az érintett természetes személy a közlekedési hatósági vizsgához kötött, vagy külön jogszabályban meghatározott munkakört betölti,
 - b) az (1) bekezdés c) pontjában meghatározott esetben az érintett természetes személy a vasúti társaság ügyvezetését, valamint a vasúti közlekedési tevékenység szakmai irányítását ellátja.
+- c) az (1) bekezdés g) pontjában meghatározott esetben a vasúti jármű nyilvántartásból való törlését követő 10 éves megőrzési idő le nem telik.
 
 (5) A közlekedési hatóság mint adatkezelő szerv biztosítja az adatok védelmét a véletlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.
 
@@ -2247,6 +2250,74 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 (9) A vasúti vizsgaközpont a 36. § (7) bekezdésben meghatározott feladatának ellátása érdekében jogosult az alapvizsgára és időszakos vizsgára jelentkező személyek természetes személyazonosító adatainak, valamint vizsgaeredményeinek kezelésére. Ezen adatkezelésre a (4)–(7) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
 (10) A közlekedési hatóság vezetője a minősített adat védelméről szóló törvény tekintetében minősítésre jogosultnak minősül.
+
+82/A. § (1) A közlekedési hatóság az ellenőrzési tevékenységének támogatása céljából, a hatósági engedélyek közhitelességének biztosításához fűződő egyéni és közérdek érvényesítése érdekében a 80. § (1) bekezdés c), l) és n) pontjában, 82. § (1) bekezdés a)–c) és f) pontjában meghatározott, valamint a 82. § (1) bekezdés d) pontjában meghatározottak közül a 10. § (1) bekezdés d) és e) pontjában foglalt személyekre és szervezetekre vonatkozó, elektronikus vasúti személyi és szervezeti nyilvántartást vezet.
+
+(2) A nyilvántartás
+
+- a) a vasúti járművezető
+  - aa) 80/B. § (1) bekezdésében meghatározott adatait,
+  - ab) arcfényképét,
+  - ac) aláírásmintáját,
+  - ad) az alapvető oktatásra és vizsgára, egészségi alkalmasságra és általános szakmai készségekre vonatkozó adatait,
+  - ae) állampolgárságát,
+  - af) – amennyiben rendelkezésre áll – a munkáltató által a munkavállaló azonosítására kijelölt hivatkozási számát,
+  - ag) vasúti járművezetői engedélyének okmányazonosító jelére, kiadására, hatályára, módosítására, megújítására, meghosszabbítására felfüggesztésére, visszavonására, bevonására, elvesztésére, ellopására, megsemmisülésére vonatkozó adatokat,
+  - ah) vasúti járművezetői engedélyének használatára vonatkozóan előírt egészségügyi korlátozásokat, egyéb hatósági feljegyzéseket;
+- b) a képzést és vizsgáztatást végző személy és az egészségi alkalmasság vizsgálatát és véleményezését végző személy
+  - ba) 80/B. § (1) bekezdésében meghatározott adatait,
+  - bb) vizsgaeredményeire, alkalmassági minősítésére, képesítésére vonatkozó adatokat,
+  - bc) a képzésre, vizsgáztatásra, egészségi alkalmasság vizsgálatára és véleményezésére vonatkozó jogosultság kezdetének és megszűnésének időpontját;
+- c) a közlekedési hatósági vizsgához kötött vasúti munkakört betöltő, valamint a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésének és vizsgáztatásának, a vasúti vizsgaközpont és képzőszervezetek működésének, a képzési engedély kiadásának, továbbá a vasúti járművezetői gyakorlat szabályairól szóló miniszteri rendeletben meghatározott munkakört betöltő vasúti munkavállaló
+  - ca) 82. § (1) bekezdés a) pontjában meghatározott adatait,
+  - cb) munkakörének megjelölését,
+  - cc) vizsgaeredményeire, alkalmassági minősítésére, képesítésére vonatkozó adatokat, valamint
+  - cd) annak a vasúti társaságnak az azonosító adatait, amelynél a személy a munkakört betölti;
+- d) a vasúti közlekedési tevékenység végzésével összefüggésben a vasúti társaság ügyvezetését, valamint a vasúti közlekedési tevékenység szakmai irányítását ellátó személy
+  - da) 82. § (1) bekezdés c) pontjában meghatározott adatait,
+  - db) büntetett előéletére vonatkozó adatokat,
+  - dc) vasúti társaságban betöltött tisztségére vonatkozó adatokat, valamint
+  - dd) annak a vasúti társaságnak az azonosító adatait, amelynek ügyvezetését, vagy a közlekedési tevékenységének szakmai irányítását a személy ellátja;
+- e) a vasúti járművekre szerelt, vasútüzemi célt szolgáló nyomástartó edények és kazánok minősítését, valamint hatósági műszaki vizsgálatát végző, valamint a vasúti járművek, vasúti járművek közlekedésbiztonsági berendezései javítását, karbantartását és időszakos vizsgálatát végző természetes személy
+  - ea) természetes személyazonosító adatait,
+  - eb) vizsgaeredményeire, alkalmassági minősítésére, képesítésére vonatkozó adatokat,
+  - ec) műszaki engedélyének tárgyát, azonosítóját, hatályának kezdetét és végét;
+- f) a műszaki engedéllyel rendelkező vagy bejelentést tevő szervezet
+  - fa) cégnevét vagy hivatalos nevét, székhelyét, telephelyét, – amennyiben van – cégjegyzékszámát,
+  - fb) műszaki engedélyének vagy bejelentésének tárgyát, hatályának kezdetét és végét, a műszaki engedély azonosítóját tartalmazza.
+
+(3) A nyilvántartás adatforrása
+
+- a) a természetes személyazonosító adatok, lakcím, valamint az érintett elhalálozásának helye és ideje tekintetében a személyiadat- és lakcímnyilvántartást kezelő szerv,
+- b) a vizsgaeredményekre vonatkozó adatok tekintetében a képző szerv,
+- c) egészségi alkalmasságra vonatkozó adatok tekintetében a Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság,
+- d) a munkavállaló munkakörével kapcsolatos adatok tekintetében a munkáltató,
+- e) egyéb adatok tekintetében az eljáró hatóság.
+
+(4) A nyilvántartó szerv
+
+- a) a (2) bekezdés a), e) és f) pontjában foglalt adatokat az engedély hatályának megszűnésétől számított 10 évig,
+- b) a (2) bekezdés b) pontjában foglalt adatokat a képzésre és vizsgáztatásra, valamint az egészségi alkalmasság vizsgálatára és véleményezésére való jogosultság megszűnését követő 5 évig,
+- c) a (2) bekezdés c) és d) pontjaiban foglalt adatokat a 82. § (4) bekezdésben foglalt időpontig kezeli.
+
+(5) A nyilvántartás a (2) bekezdés a) pont ag) és ah) alpontjában, a b) pont bb) és bc) alpontjában, a c) pont cb) és cc) alpontjában, a d) pont dc) és dd) alpontjában, az e) pont eb) és ec) alpontjában, valamint az f) pont fb) alpontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(6) A közlekedési hatóság az elektronikus vasúti személyi és szervezeti nyilvántartás vezetése céljából az érintett természetes személyazonosító adatait, lakcímadatait, valamint elhalálozásának helyét és idejét igényelheti a személyiadat- és lakcímnyilvántartást kezelő szervtől.
+
+82/B. § (1) A közlekedési hatóság
+
+- a) a 80. § (1) bekezdésében foglalt, elektronikusan intézhető hatásköreinek ellátására,
+- b) ellenőrzési feladatainak támogatására, valamint
+- c) a 81. §-ban meghatározott felelősségek megállapítása, és a jogkövetkezmények alkalmazása érdekében elektronikus információs rendszert működtet.
+
+(2) Az e törvényben, valamint e törvény felhatalmazása alapján kiadott jogszabályban meghatározott adatszolgáltatásokat azok kötelezettjei elektronikusan, az (1) bekezdés szerinti elektronikus információs rendszer útján kötelesek teljesíteni.
+
+(3) Az (1) bekezdés szerinti elektronikus információs rendszer üzembe helyezése érdekében az e törvényben, valamint e törvény felhatalmazása alapján kiadott jogszabályban meghatározott, adatszolgáltatásra kötelezett szervezetek a közlekedési hatóság felhívására, az abban meghatározott módon kötelesek az adatszolgáltatási kötelezettség alá eső adatállományaikat elektronikus úton a közlekedési hatóság részére átadni.
+
+(4) A személyiadat- és lakcímnyilvántartást kezelő szerv
+
+- a) a közlekedési hatóság adatkérése alapján, az adatok ellenőrzése céljából, a személy nyilvántartásba vételekor értesíti a közlekedési hatóságot a személy természetes személyazonosító adatairól, lakcímadatairól, elhalálozásának helyéről és idejéről;
+- b) a nyilvántartási adatok időszerűségének biztosítása érdekében rendszeres adatátadást teljesít a nyilvántartásban szereplő személy természetes személyazonosító adatairól, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
 
 83. § A közforgalmú vasúti járművek típusengedélyezési eljárása során a közlekedési hatóság részére átadott műszaki adatok – ide nem értve a vasúti járművek üzembehelyezése engedélyezéséről, időszakos vizsgálatáról és hatósági nyilvántartásáról szóló rendeletben meghatározott nemzeti vasúti jármű nyilvántartásban szereplő adatokat – megismerése iránti igényt nemzetbiztonsági érdekből, illetve a bűncselekmények megelőzése érdekében az adat keletkezésétől számított legfeljebb 30 évig, de legfeljebb az érintett közforgalmú vasúti jármű üzemidejének végéig el kell utasítani, ha az adat megismerése Magyarország nemzetbiztonsági érdekeit vagy a bűncselekmények megelőzéséhez fűződő érdekeit veszélyezteti. Az igény teljesíthetőségéről – Magyarország nemzetbiztonsági érdekeit vagy a bűncselekmények megelőzéséhez fűződő érdekeit mérlegelve – az adatkezelő a terrorizmus elleni küzdelemért és a bűncselekmények megelőzéséért felelős miniszter véleményének kikérésével dönt.
 
@@ -2371,9 +2442,9 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 
 84/I. § (1) A vasúti igazgatási szerv feladat- és hatáskörébe tartozik:
 
-- a) a 84/C. § (1)–(3) és (5)–(7) bekezdése, valamint 84/D. § (1)–(4) és (8) bekezdése szerinti bejelentések vizsgálata, hiánypótlásra felszólítás, a jogszabályszerű bejelentésre vonatkozó követelményeket nem teljesítő személy vagy szervezet tevékenységének felfüggesztése, végső soron a tevékenységtől való eltiltás,
+- a) a 84/C. § (1)–(3) és (5)–(7) bekezdése, valamint 84/D. § (1)–(4) és (8) bekezdése szerinti bejelentések vizsgálata, hiánypótlásra felszólítás, a jogszabályszerű bejelentésre vonatkozó követelményeket nem teljesítő személy vagy szervezet tevékenységének megtiltása,
 - b) a 84/C. § (1) bekezdésében felsorolt személyekről és szervezetekről nyilvántartás vezetése,
-- c) a 84/C. § (1) bekezdése szerinti különleges kötöttpályás tevékenységet végző személyek és szervezetek felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos, a kötelező baleseti kárfedezeti képességének biztosításának kormányrendeletben meghatározott részletes szabályoknak való folyamatos megfelelés ellenőrzése, a feltételek nem teljesítése esetén az érintett tevékenység felfüggesztése, megtiltása,
+- c) a 84/C. § (1) bekezdése szerinti különleges kötöttpályás tevékenységet végző személyek és szervezetek felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos, a kötelező baleseti kárfedezeti képességének biztosításának kormányrendeletben meghatározott részletes szabályoknak való folyamatos megfelelés ellenőrzése, a feltételek nem teljesítése esetén az érintett tevékenység megtiltása,
 
 (2) A különleges kötöttpályás közlekedési tevékenységet végző személy vagy szervezet a vasúti igazgatási szerv feladatai ellátásához szükséges adatokat, iratokat átadja, a vasúti igazgatási szerv által tisztességes módon meghatározott, ésszerű határidőn belül.
 
@@ -2411,7 +2482,7 @@ kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képes
 
 (4) A közlekedési hatóság ellenőrzése során a jármű vezetője vagy kezelője a járművet köteles megállítani, személyazonosságát és járművezetési jogosultságát igazolni, a jármű és tartozékai, az okmányok ellenőrzésével kapcsolatos felhívásnak eleget tenni. Az ellenőrzés során a járműhöz és tartozékaihoz, valamint a rakományhoz tartozó okmányokat a közlekedési hatóság részére be kell mutatni.
 
-(5) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság a különleges kötöttpályás közlekedési rendszer üzemének felfüggesztése mellett az üzemeltetőt a vizsgálat vagy a javítás elvégzésére kötelezi, a vizsgált jármű forgalomból való kivonását vagy a személyzet munkavégzésének felfüggesztését rendeli el és bírságot szabhat ki.
+(5) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság a különleges kötöttpályás közlekedési rendszer üzemének felfüggesztése mellett az üzemeltetőt a vizsgálat vagy a javítás elvégzésére kötelezi, a vizsgált jármű forgalomból való kivonását rendeli el vagy a személyzetet a munkavégzésétől eltiltja, továbbá bírságot szab ki és bírságot szabhat ki.
 
 (6) A közlekedési hatóság a különleges kötöttpályás közlekedési rendszer üzemeltetőjével szemben a kötöttpálya engedély nélküli vagy az engedélyben foglaltaktól eltérő létesítése, gyártása, átalakítása, bontása, illetve használata esetén
 

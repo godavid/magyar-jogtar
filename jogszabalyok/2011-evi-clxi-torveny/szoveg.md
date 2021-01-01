@@ -38,7 +38,7 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 
 10. § (1) A törvényes bíróhoz való jog érvényesítése érdekében az ügyelosztási rendet úgy kell összeállítani, hogy abból előzetesen megállapítható legyen, hogy az adott ügyben mely tanács jár el, ideértve azt is, hogy a tanács, illetve a tanács tagjának akadályoztatása esetén ki jár el helyette. Az ügyelosztási rend tartalmazza, hogy az adott bíróságon milyen összetételű és számú tanácsok működnek, a bírák, a tanácsok – ideértve a kirendeléssel foglalkoztatott bírákat is – és a törvényben meghatározott ügyben az egyesbíró hatáskörében eljáró bírósági titkárok melyik ügycsoportba tartozó ügyeket intézik, akadályoztatásuk esetén ki jár el helyettük, az ügyek elosztására melyik bírósági vezető jogosult, továbbá, hogy az ügyek elosztása milyen módon történik. Ha a járásbíróság szervezeti egységeként törvénykezési hely működik, az ügyelosztási rend tartalmazza, hogy a járásbírósági székhely és a törvénykezési hely között az ügyek elosztása milyen módon történik. Az ügyelosztási rend a tárgyalási tevékenységet folytató bírósági vezetők által tárgyalt ügyek körét és az ezekre vonatkozó elosztási módot is magában foglalja.
 
-(2) A Kúria ügyelosztási rendjében meg kell jelölni azt is, hogy az önkormányzati tanács, a jogegységi panasz tanács tagjaként mely bírák járnak el, továbbá azt, hogy az egyes bírák melyik szakágú jogegységi tanácsban járhatnak el.
+(2) A Kúria elnöke egy vagy több szakágat érintően, az érintett kollégium véleményét kikérve dönthet úgy, hogy a 24. § (1) bekezdésében megjelölt egyes eljárásokban kizárólag öttagú tanácsok járnak el. Ezt a Kúria ügyelosztási rendjében meg kell jelölni. A Kúria ügyelosztási rendjében meg kell jelölni azt is, hogy az önkormányzati tanács, a jogegységi panasz tanács tagjaként mely bírák járnak el, továbbá azt, hogy az egyes bírák melyik szakágú jogegységi tanácsban járhatnak el.
 
 (3) Az ügyelosztási rend kialakítása és felülvizsgálata során figyelemmel kell lenni különösen
 
@@ -229,7 +229,7 @@ indítványozza.
 
 (2) Ha a jogegységi eljárásban hozandó döntés több szakágú jogegységi tanács ügykörét érinti, a jogegységi tanács elnöke a jogegységi tanácsot az érintett szakágban eljáró bírák közül arányosan jelöli ki. E jogegységi tanács az elnökből és további 6 tagból áll, elnöke a Kúria elnöke vagy elnökhelyettese.
 
-(3) A jogegységi indítvány előterjesztője – a (4) bekezdésben foglalt kivétellel – nem lehet a jogegységi tanács elnöke. A 32. § (1) bekezdés b) pontja szerinti esetben a jogegységi tanács tagjait úgy kell kiválasztani, hogy abban nem lehetnek többségben annak a tanácsnak a tagjai, amely jogkérdésben el kíván térni a Kúria közzétett határozatától, illetve annak a tanácsnak a tagjai, amely a közzétett határozatot hozta.
+(3) A jogegységi indítvány előterjesztője – a (4) bekezdésben foglalt kivétellel – nem lehet a jogegységi tanács elnöke. A 32. § (1) bekezdés b) pontja szerinti esetben a jogegységi tanács tagjait úgy kell kiválasztani, hogy abban nem lehetnek többségben annak a tanácsnak a tagjai, amely jogkérdésben el kíván térni a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától, illetve annak a tanácsnak a tagjai, amely a közzétett határozatot hozta.
 
 (4) A jogegységi tanács a Kúria teljes kollégiuma, ha a jogegységi eljárás célja
 
@@ -272,23 +272,28 @@ indítványozza.
 
 #### 12/A. A jogegységi panasz elbírálása
 
-41/A. § A jogegységi panaszt a jogegységi panasz tanács bírálja el. A jogegységi panasz tanácsot a Kúria elnöke vagy elnökhelyettese vezeti. A jogegységi panasz tanács az elnökből és további 8 tagból áll, a tagokat az elnök a Kúria kollégiumaiból jelöli ki úgy, hogy minden kollégiumból legalább 1-1 tagot ki kell jelölni.
+41/A. § (1) A jogegységi panaszt a jogegységi panasz tanács bírálja el. A jogegységi panasz tanácsot a Kúria elnöke vagy elnökhelyettese vezeti. A jogegységi panasz tanács az elnökből és további legalább 8 tagból áll, a tagokat az elnök a Kúria kollégiumaiból jelöli ki úgy, hogy minden kollégiumból legalább 1-1 tagot ki kell jelölni.
 
-41/B. § (1) Jogegységi panasznak van helye a Kúriának
+(2) A jogegységi panasz tanács
 
-- a) a felülvizsgálati kérelem vagy indítvány (a továbbiakban együtt: felülvizsgálati kérelem) vagy a közigazgatási perrendtartásról szóló törvény alapján fellebbezés alaptalansága esetén a megtámadott határozatot hatályában fenntartó határozata,
-- b) a felülvizsgálatot a polgári perrendtartásról szóló törvény alapján megtagadó határozata,
-- c) a felülvizsgálati kérelem befogadását a közigazgatási perrendtartásról szóló törvény alapján megtagadó határozata
+- a) a jogegységi panasz érdemében határozattal,
+- b) a jogegységi panasz eljárás során felmerült minden más kérdésben végzéssel
 
-ellen, feltéve hogy a felülvizsgálati kérelemben a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkoztak.
+határoz.
+
+(3) A jogegységi panasz tanács a határozatát zárt tanácskozás után szavazással, tartózkodó szavazat nélkül, egyszerű szótöbbséggel hozza meg. A jogegységi panasz tanács tagja a többségi határozattól eltérő álláspontját a határozat indokolásához csatolhatja.
+
+(4) A jogegységi panasz tanács elnöke vezeti a tanácsot és szervezi annak munkáját. Ennek keretében minden olyan intézkedést megtehet és minden olyan végzést meghozhat, amit a jogegységi panasz alapjául szolgáló eljárás szabályai nem utalnak kifejezetten a tanács hatáskörébe.
+
+41/B. § (1) Jogegységi panasznak van helye – a pervezetésre vonatkozó végzés kivételével – a Kúriának az eljárási törvény alapján további fellebbezéssel, felülvizsgálati kérelemmel vagy felülvizsgálati indítvánnyal (a továbbiakban ebben az alcímben együtt: felülvizsgálati kérelem) nem támadható határozata ellen, ha a felülvizsgálati kérelemben a Kúria 2012. január 1. után hozott és a Bírósági Határozatok Gyűjteményében közzétett határozatától (a továbbiakban ezen alcímben: a Kúria közzétett határozata) jogkérdésben való eltérésre már hivatkoztak, és a Kúria az eltéréssel okozott jogsértést határozatában nem orvosolta.
 
 (2) Jogegységi panasznak van helye akkor is, ha a Kúria ítélkező tanácsa jogkérdésben – jogegységi eljárás kezdeményezése nélkül – úgy tér el a Kúria közzétett határozatától, hogy az adott eltérésre az alsóbbfokú bíróságok határozatában nem került sor.
 
 (3) A jogegységi panasz elbírálásából ki van zárva az alapjául szolgáló eljárás szabályai szerint kizárt bíró, valamint az a bíró, aki a jogegységi panasszal támadott határozat meghozatalát megelőző eljárásban részt vett.
 
-(4) A jogegységi panaszt az (1) és (2) bekezdés szerinti határozat közlésétől számított 30 napon belül a Kúriánál terjesztheti elő az, aki az eljárási törvények alapján felülvizsgálati kérelem – vagy a közigazgatási perrendtartásról szóló törvény alapján fellebbezés – előterjesztésére jogosult. A jogegységi panasz iránti eljárásban végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelemnek van helye, az annak alapjául szolgáló eljárás szabályai szerint. A végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelmet a jogegységi panaszban kell előterjeszteni. A Kúriának a jogegységi panasz alapjául szolgáló eljárás során eljáró tanácsa a panaszt az iratokkal együtt haladéktalanul a jogegységi panasz tanács elé terjeszti.
+41/C. § (1) A jogegységi panaszt a 41/B. § (1) és (2) bekezdése szerinti határozat közlésétől számított 30 napon belül a Kúriánál terjesztheti elő az, aki az eljárási törvények alapján felülvizsgálati kérelem előterjesztésére jogosult. A jogegységi panasz iránti eljárásban végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelemnek van helye, az annak alapjául szolgáló eljárás szabályai szerint. A végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelmet a jogegységi panaszban kell előterjeszteni. A Kúriának a jogegységi panasz alapjául szolgáló eljárás során eljáró tanácsa a panaszt az iratokkal együtt haladéktalanul a jogegységi panasz tanács elé terjeszti.
 
-(5) A jogegységi panasz eljárás lefolytatása során – az ezen alcímben foglalt eltérésekkel – megfelelően alkalmazni kell a polgári perrendtartásról szóló törvénynek
+(2) A jogegységi panasz eljárás lefolytatása során – az ezen alcímben foglalt eltérésekkel – megfelelően alkalmazni kell a polgári perrendtartásról szóló törvénynek
 
 - a) a beadványokra,
 - b) az idézés tartalmára és módjára,
@@ -296,47 +301,69 @@ ellen, feltéve hogy a felülvizsgálati kérelemben a Kúria közzétett határ
 - d) a kézbesítési kifogásra,
 - e) a határidő számítására,
 - f) az ítélkezési szünetre,
-- g) – a jegyzőkönyv képet és hangot egyidejűleg rögzítő folyamatos felvétel útján történő készítésére vonatkozó szabályok kivételével – az eljárás anyagának rögzítésére
+- g) – a jegyzőkönyv képet és hangot egyidejűleg rögzítő folyamatos felvétel útján történő készítésére vonatkozó szabályok kivételével – az eljárás anyagának rögzítésére,
+- h) a költségkedvezményekre,
+- i) a meg nem fizetett illeték és az állam által előlegezett költség viselésére,
+- j) az Európai Unió Bírósága, az Alkotmánybíróság és a Kúria eljárásának kezdeményezésére,
+- k) a perbeli jogutódlásra
 
 vonatkozó szabályait.
 
-(6) A jogegységi panaszban – a beadványra vonatkozó általános szabályokon túl – meg kell jelölni:
+(3) A jogegységi panaszban – a beadványra vonatkozó általános szabályokon túl – meg kell jelölni:
 
 - a) azt a határozatot, amellyel szemben a fél a panaszt előterjeszti,
 - b) azt a közzétett kúriai határozatot, amelytől jogkérdésben való eltérést állít a fél.
 
-(7) A jogegységi panasz eljárásban a polgári perrendtartásról szóló törvény szerinti jogi képviselet kötelező.
+(4) A jogegységi panasz eljárásban a polgári perrendtartásról szóló törvény szerinti jogi képviselet kötelező.
 
-(8) A jogegységi panasz tanács a jogegységi panasz befogadhatósága körében a Kúriához érkezésétől számított 30 napon belül megvizsgálja, hogy az megfelel-e a törvényi feltételeknek. Ha a jogegységi panasz a végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelmet tartalmaz, azt 30 napon belül a jogegységi panasz alapjául szolgáló eljárás szabályai szerint kell elbírálni.
+(5) A jogegységi panasz tanács a jogegységi panasz befogadhatósága körében a Kúriához érkezésétől számított 30 napon belül megvizsgálja, hogy az megfelel-e a törvényi feltételeknek. Ha a jogegységi panasz a végrehajtás felfüggesztése vagy azonnali jogvédelem iránti kérelmet tartalmaz, azt 30 napon belül a jogegységi panasz alapjául szolgáló eljárás szabályai szerint kell elbírálni.
 
-(9) A jogegységi panasz tanács – hiánypótlási felhívás kiadását mellőzve – a jogegységi panaszt visszautasítja, ha
+(6) A jogegységi panasz tanács – hiánypótlási felhívás kiadását mellőzve – a jogegységi panaszt visszautasítja, ha
 
 - a) azt nem az arra jogosult nyújtotta be,
 - b) azt jogi képviselő közreműködése nélkül nyújtották be,
 - c) az eljárási illetéket nem vagy hiányosan fizették meg,
 - d) az elkésett,
-- e) az az (1) bekezdés alapján kerül előterjesztésre, de a felülvizsgálati kérelemben vagy a közigazgatási perrendtartásról szóló törvény szerinti fellebbezésben az előterjesztő nem hivatkozott a Kúria közzétett határozatától jogkérdésben való eltérésre, vagy
-- f) az nem tartalmazza a (6) bekezdésben foglaltakat, és a megfelelő kiegészítés a (4) bekezdésben meghatározott határidőn belül nem történt meg.
+- e) az a 41/B. § (1) bekezdése alapján került előterjesztésre, de a felülvizsgálati kérelemben az előterjesztő nem hivatkozott a Kúria közzétett határozatától jogkérdésben való eltérésre,
+- f) azt nem 2012. január 1. után hozott és a Bírósági Határozatok Gyűjteményében közzétett kúriai határozattól való eltérésre hivatkozással nyújtották be,
+- g) azt 2020. július 1-jét megelőzően hozott kúrai határozattal szemben nyújtották be, vagy
+- h) az nem tartalmazza a (3) bekezdésben foglaltakat, és a megfelelő kiegészítés az (1) bekezdésben meghatározott határidőn belül nem történt meg.
 
-(10) A jogegységi panasz tanács a befogadott jogegységi panaszt az előterjesztő kivételével közli az annak alapjául szolgáló eljárásban az eljárási törvények alapján felülvizsgálati kérelem – vagy a közigazgatási perrendtartásról szóló törvény alapján fellebbezés – előterjesztésére jogosultakkal, akik a közléstől számított 30 napon belül nyilatkozatot tehetnek.
+(7) A jogegységi panasz tanács a befogadott jogegységi panaszt az előterjesztő kivételével közli az annak alapjául szolgáló eljárásban az eljárási törvények alapján felülvizsgálati kérelem előterjesztésére jogosultakkal, akik a közléstől számított 30 napon belül nyilatkozatot tehetnek.
 
-(11) Ha a jogegységi panasz tanács indokoltnak tartja tárgyalás tartását, arra a panasz előterjesztőjét és a (10) bekezdésben meghatározott személyeket a polgári perrendtartásról szóló törvény szabályai szerint idézi.
+(8) Ha a jogegységi panasz tanács indokoltnak tartja tárgyalás tartását, arra a panasz előterjesztőjét és a (7) bekezdésben meghatározott személyeket a polgári perrendtartásról szóló törvény szabályai szerint idézi.
 
-41/C. § (1) Ha a jogegységi panasz tanács megállapítja a Kúria közzétett határozatától jogkérdésben való eltérést, dönt a bíróságokra kötelező értelmezésről és határozatában
+(9) A jogegységi panasz tanács a jogegységi panasz eljárást felfüggeszti, ha
+
+- a) az Európai Unió Bírósága előzetes döntéshozatali eljárásának,
+- b) az Alkotmánybíróságnak a jogszabály, jogszabályi rendelkezés, közjogi szervezetszabályozó eszköz vagy jogegységi határozat alaptörvény-ellenességének megállapítására, továbbá nemzetközi szerződésbe ütközésének megállapítására irányuló eljárásának,
+- c) a Kúriának az önkormányzati rendelet jogszabályba ütközésének vizsgálatára irányuló eljárásának
+
+kezdeményezéséről határoz.
+
+(10) A jogegységi panasz tanács az eljárást – annak bármely szakaszában – hivatalból megszünteti, ha
+
+- a) a (6) bekezdés alapján a jogegységi panasz visszautasításának lett volna helye,
+- b) a panasz előterjesztője meghal vagy megszűnik, feltéve, hogy a jogviszony természete a jogutódlást kizárja,
+- c) a panasz előterjesztője a panaszt visszavonta,
+- d) a panasz előterjesztője a megszűnt jogi képviseletének pótlásáról felhívás ellenére a tanács elnöke által megállapított határidő alatt nem gondoskodik, vagy
+- e) a panasszal támadott határozatot, illetve azt a határozatot, amelytől jogkérdésben való eltérésre hivatkozik a panasz előterjesztője, az Alkotmánybíróság megsemmisíti vagy a panasz előterjesztése egyébként okafogyottá vált.
+
+41/D. § (1) Ha a jogegységi panasz tanács megállapítja a Kúria közzétett határozatától jogkérdésben való eltérést, dönt a bíróságokra kötelező értelmezésről és határozatában
 
 - a) a panasszal támadott határozatot hatályában fenntartja, ha az eltérés indokolt volt;
 - b) megállapítja az eltéréssel okozott jogsértést, de a panasszal támadott határozatot hatályában fenntartja, ha
   - ba) a panaszt olyan ügyben nyújtották be, amelyben törvény a bíróság eljárására legfeljebb ötnapos határidőt állapít meg,
   - bb) más törvény így rendelkezik;
-- c) a panasszal támadott határozatot hatályon kívül helyezi, és a jogegységi panasz alapjául szolgáló határozatot hozó bíróságot új eljárásra és új határozat hozatalára utasítja, ha az eltérés nem volt indokolt.
+- c) a panasszal támadott határozatot egészben vagy részben hatályon kívül helyezi, és a Kúriát új eljárásra és új határozat hozatalára utasítja, ha az eltérés nem volt indokolt.
 
-(2) Ha jogegységi panasz tárgya a 41/B. § (1) bekezdés b) vagy c) pontjában meghatározott határozat és a jogegységi panasz tanács a jogkérdésben való eltérést megállapítja, a panasszal támadott határozatot hatályon kívül helyezi és a bíróságot a felülvizsgálati eljárás lefolytatására utasítja.
+(2) Ha jogegységi panasz tárgya felülvizsgálatot vagy felülvizsgálati kérelem befogadását megtagadó határozat és a jogegységi panasz tanács a jogkérdésben való nem indokolt eltérést megállapítja, a panasszal támadott határozatot hatályon kívül helyezi és a bíróságot a felülvizsgálati eljárás lefolytatására utasítja.
 
-(3) Ha a jogegységi panasz tanács megállapítja, hogy a Kúria közzétett határozatától jogkérdésben nem történt eltérés, a jogegységi panaszt elutasítja. A határozat indokolásának elegendő csak erre a körülményre utalnia, az alkalmazott jogszabályok feltüntetése mellett.
+(3) Ha a jogegységi panasz tanács megállapítja, hogy a Kúria közzétett határozatától jogkérdésben nem történt eltérés, a jogegységi panaszt elutasítja. A határozat indokolásának elegendő csak erre a körülményre utalnia, az alkalmazott jogszabályok feltüntetése mellett, azzal, hogy az indokolásból ki kell derülnie, hogy az adott jogkérdés vonatkozásában a korábban közzétett és a megtámadott határozat között miért nem volt eltérés.
 
 (4) Ha a jogegységi panasz tanács megállapítja a Kúria közzétett határozatától jogkérdésben való eltérést, a panasz elbírálásával összefüggésben felmerült költséget az állam viseli.
 
-(5) Az (1) bekezdés a) és b) pontja alapján hozott határozat jogegységi határozat hatályú, azt a jogegységi határozatok közzétételére vonatkozó szabályok szerint a Magyar Közlönyben közzé kell tenni.
+(5) Az (1) bekezdés alapján hozott határozat jogegységi határozat hatályú, azt a jogegységi határozatok közzétételére vonatkozó szabályok szerint a Magyar Közlönyben közzé kell tenni.
 
 (6) Az (1) bekezdés c) pontja, valamint a (2) bekezdés alapján megismételt eljárásban a Kúria soron kívül jár el.
 
@@ -360,7 +387,7 @@ vonatkozó szabályait.
 
 45. § (1) A Kúrián az Alaptörvény 25. cikk (2) bekezdés c) és d) pontjában, valamint a 32. cikk (4) és (5) bekezdésében foglalt ügyek elbírálására önkormányzati tanács működik.
 
-(2) Az önkormányzati tanács három bíró tagból áll.
+(2) Az önkormányzati tanács öt bíró tagból áll.
 
 (3)
 
@@ -524,7 +551,7 @@ vonatkozó szabályait.
 - c) a bírót első kinevezésekor – a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározott esetben – beosztja az elnyert pályázat szerinti bíróságra,
 - d) beosztja a katonai bírót a katonai tanácsba, valamint a Magyar Honvédségnél fennálló hivatásos szolgálati viszonyának megszűnésekor más bírói munkakörbe,
 - e) kijelöli – a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint – a büntetőeljárásról szóló 2017. évi XC. törvény 680. § (4) bekezdésében meghatározott ügyekben ítélkező bírákat és a bírósági közvetítői tevékenységet végző bírákat, valamint a törvényszék elnökének javaslatára a törvényszéken közigazgatási és munkaügyi ügyekben eljáró bírákat, továbbá dönt a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint a kijelölés megszüntetéséről,
-- f) beoszthatja a bírót a Kúriára, az OBH-ba, az igazságügyért felelős miniszter által vezetett minisztériumba, továbbá a közigazgatási jogvitában eljáró bírót a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározott szervhez (a továbbiakban: érintett szerv), illetve dönt a beosztás megszüntetéséről és a bírónak ismét tényleges bírói álláshelyre történő beosztásáról,
+- f) beoszthatja a bírót a Kúriára, az OBH-ba, továbbá a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározott szervhez (a továbbiakban: érintett szerv), illetve dönt a beosztás megszüntetéséről és a bírónak ismét tényleges bírói álláshelyre történő beosztásáról,
 - g) dönt a bíró áthelyezéséről,
 - h) dönt a bíró más szolgálati helyre történő kirendeléséről, ha a kirendelés nem a törvényszék és az illetékességi területén működő járásbíróság között vagy a törvényszék illetékességi területén működő járásbíróságok között történik,
 - i) dönt a bíró tekintetében a tartós külszolgálat ellátásáról,
@@ -699,7 +726,7 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 
 (3) A törvényszéken a küldötteket úgy kell megválasztani, hogy azok közül legalább egy járásbírósági bíró legyen.
 
-(4) A Kúriára, az OBH-ba, az igazságügyért felelős miniszter által vezetett minisztériumba, valamint az érintett szervhez beosztott bírák a beosztásukat közvetlenül megelőző szolgálati helyük szerinti bíróság összbírói értekezletén választanak.
+(4) A Kúriára, az OBH-ba, valamint az érintett szervhez beosztott bírák a beosztásukat közvetlenül megelőző szolgálati helyük szerinti bíróság összbírói értekezletén választanak.
 
 95. § (1) A küldöttek személyére bármely bíró javaslatot tehet.
 
@@ -947,7 +974,9 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 
 (4) A Kúria főtitkára ellátja a Kúria működésével, az elnöki döntések előkészítésével és végrehajtásával kapcsolatos szervezési, ellenőrzési, koordinációs, valamint a szervezeti és működési szabályzat szerint hatáskörébe utalt igazgatási, továbbá a 117. § (3) bekezdésében meghatározott feladatokat.
 
-(5) A Kúria főtitkár-helyettese a Kúria főtitkárát akadályoztatása esetén – ideértve azt az esetet is, ha a tisztség nincs betöltve – teljes jogkörrel helyettesíti, és ellátja a Kúria szervezeti és működési szabályzata szerint hatáskörébe utalt igazgatási feladatokat.
+(5) A Kúria főtitkár-helyettese a Kúria főtitkárát akadályoztatása esetén – a (6) bekezdésben foglaltak kivételével ideértve azt az esetet is, ha a tisztség nincs betöltve – teljes jogkörrel helyettesíti, és ellátja a Kúria szervezeti és működési szabályzata szerint hatáskörébe utalt igazgatási feladatokat.
+
+(6) Ha a Kúria főtitkárának és főtitkár-helyettesének vezetői megbízatása egyidőben szűnik meg, az új főtitkár és főtitkár-helyettes kinevezéséig a feladataikat a Kúria elnökhelyettesei közül a Kúria elnöke által ezzel megbízott elnökhelyettes látja el.
 
 #### 34. A bíróság elnöke
 
@@ -1034,9 +1063,11 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 
 #### 39. A bírósági vezetők kinevezése
 
-127. § (1) Bírósági vezetői tisztséget [118. § (1) és (1a) bekezdés] csak határozatlan időre kinevezett bíró tölthet be; a bírósági vezetői kinevezés – a (2) bekezdésben foglalt kivétellel – 6 évre szól.
+127. § (1) Bírósági vezetői tisztséget [118. § (1) és (1a) bekezdés] csak határozatlan időre kinevezett bíró tölthet be; a bírósági vezetői kinevezés – a (2) és (2a) bekezdésben foglalt kivétellel – 6 évre szól.
 
 (2) A tanácselnököt határozatlan időre kell kinevezni.
+
+(2a) A Kúria főtitkárának és főtitkár-helyettesének kinevezése az őt kinevező Kúria elnökének megbízatási idejére szól. Ha a Kúria elnökének megbízatása a megbízatási időtartam letelte előtt szűnik meg, a Kúria főtitkárának és főtitkár-helyettesének megbízatása is megszűnik.
 
 (3) A bíróság elnöke és az elnökhelyettes ugyanazon bírósági vezetői tisztségre – a (4) bekezdésben foglalt kivétellel – legfeljebb két alkalommal nevezhető ki.
 
@@ -1057,6 +1088,8 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 130. § (1) A bírósági vezetői állást pályázat útján kell betölteni, ha e törvény vagy a bírák jogállásáról és javadalmazásáról szóló törvény eltérően nem rendelkezik.
 
 (2) A pályázatot a Kúria elnökhelyettesi állására a Kúria elnöke, a többi vezetői állásra a kinevezésre jogosult írja ki. A pályázatnak a vezetői tisztség elnyeréséhez szükséges valamennyi feltételt tartalmaznia kell.
+
+(2a) A Kúria elnöke a Kúria megválasztott elnökével egyeztetve a megbízatási ideje lejártát legalább 20, de legfeljebb 30 nappal megelőzően kiírja a Kúria főtitkári és főtitkár-helyettesi vezetői tisztségre vonatkozó pályázatot. A Kúria megválasztott elnöke a pályázatokat hivatalba lépését követően haladéktalanul elbírálja. Ha a Kúria elnökének megbízatása a megbízatási időtartam letelte előtt szűnik meg, a pályázatot a Kúria megválasztott elnöke hivatalba lépését követően haladéktalanul kiírja.
 
 (3) A benyújtott pályázatnak – tanácselnöki pályázat kivételével – tartalmaznia kell a pályaművet, amely a pályázónak a megpályázott tisztségtől függően a bíróság, a kollégium, illetve a csoport működésével kapcsolatos hosszú távú terveiről, és azok megvalósításának ütemezéséről szól. A pályázatnak tartalmaznia kell a hozzájárulást ahhoz, hogy a kinevezésre jogosult a pályázó bírói értékelésének és vezetői vizsgálatának iratait beszerezze és kezelje.
 
@@ -1286,7 +1319,11 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 #### 51. A közzéteendő határozatok köre és a közzététel eljárási szabályai
 
-163. § (1) A Kúria a jogegységi határozatot, az általa az ügy érdemében hozott határozatot, az ítélőtábla az általa az ügy érdemében hozott határozatot, a törvényszék – ha a felülvizsgált közigazgatási határozatot egyfokú eljárásban hozták, és a bíróság határozata ellen nincs helye rendes jogorvoslatnak – az általa a közigazgatási perben az ügy érdemében hozott határozatot a Bírósági Határozatok Gyűjteményében digitális formában közzéteszi.
+163. § (1) A Kúria a jogegységi határozatot, a jogegységi panasz eljárásban, valamint a jogorvoslat a törvényesség érdekében folytatott eljárásban hozott határozatát, az általa az ügy érdemében hozott és a hatályon kívül helyező határozatot, az ítélőtábla az általa az ügy érdemében hozott határozatot, a törvényszék – ha a felülvizsgált közigazgatási határozatot egyfokú eljárásban hozták, és a bíróság határozata ellen nincs helye rendes jogorvoslatnak – az általa a közigazgatási perben az ügy érdemében hozott határozatot a Bírósági Határozatok Gyűjteményében digitális formában közzéteszi.
+
+(1a) A Kúria a Bírósági Határozatok Gyűjteményében közzéteszi az (1) bekezdésben nem említett, az általa a felülvizsgálati kérelmet érdemben elbíráló határozatát is.
+
+(1b) A Kúria által közzétett határozat mellett fel kell tüntetni a határozat elvi tartalmát, ennek hiányában rövid tartalmát, és az alkalmazott jogszabályokat.
 
 (2) A Bírósági Határozatok Gyűjteményében
 
@@ -1346,7 +1383,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 168. § A bírósági épület rendjének biztosítása a bíróság elnökének feladata. A bíróság elnöke – a járásbíróság esetében a törvényszék elnöke – e körben megállapítja a bírósági épület használatának rendjét, meghatározza a közönség és az ügyfélforgalom számára nyitva álló épületrészeket, valamint megalkotja az ezekről szóló szabályzatot, amelyet az érintett bíróság – járásbíróság esetén a törvényszék – honlapján közzé kell tenni. A szabályzatot a bíróság elnöke az OBH elnöke által meghatározott követelményeknek megfelelően készíti el.
 
-169. § A bíróság épületébe, kivéve, ha eljárási cselekmény lefolytatásához az szükséges, lőfegyverrel, lőszerrel, robbanóanyaggal, robbantószerrel, illetve a közbiztonságra különösen veszélyes vagy rendbontásra alkalmas eszközzel – a rendőrség, a büntetés-végrehajtási testület vagy más, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományú, valamint a Magyar Honvédség hivatásos és szerződéses állományú, szolgálati feladatot ellátó tagjain kívül – senki nem léphet be. Ennek ellenőrzésére a bíróság elnöke, valamint az általa az épület rendjének biztosításával megbízott szervezet vagy személy (a továbbiakban együtt: rendfenntartást végző személy) jogosult.
+169. § A bíróság épületébe, kivéve, ha eljárási cselekmény lefolytatásához az szükséges, lőfegyverrel, lőszerrel, robbanóanyaggal, robbantószerrel, illetve a közbiztonságra különösen veszélyes vagy rendbontásra alkalmas eszközzel – a rendőrség, a büntetés-végrehajtási testület vagy más, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományú, valamint a Magyar Honvédség hivatásos és szerződéses állományú, szolgálati feladatot ellátó tagjain, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő, szolgálati feladatot ellátó foglalkoztatottain kívül – senki nem léphet be. Ennek ellenőrzésére a bíróság elnöke, valamint az általa az épület rendjének biztosításával megbízott szervezet vagy személy (a továbbiakban együtt: rendfenntartást végző személy) jogosult.
 
 #### 54. Az épület rendjéért felelős személyek feladatai
 
@@ -1416,7 +1453,7 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 és a köztársasági elnök intézkedéseinek ellenjegyzésére vonatkozó rendelkezés
 
-175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, III. Fejezete, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 197–197/B. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (6) és (8) bekezdése alapján sarkalatosnak minősül.
+175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, 7–12. alcíme, 41/A. és 41/B. §-a, 13. alcíme, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 197–197/B. §-a, 197/D. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (6) és (8) bekezdése alapján sarkalatosnak minősül.
 
 176. § A köztársasági elnöknek az e törvényben meghatározott tevékenysége során hozott döntéséhez és intézkedéséhez ellenjegyzés nem szükséges.
 
@@ -1548,7 +1585,15 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 (4) Az (1) bekezdésben megjelölt bírósági vezetői megbízatás betöltésére e törvény hatálybalépését követően pályázat nem írható ki, e feladatok ellátására megbízás csak 2020. március 31. napjáig adható.
 
-(5) Jogegységi panasz eljárásnak a 2020. július 1-jén és az azt követően meghozott jogerős ítélet vagy az ügy érdemében hozott jogerős végzés ellen van helye.
+(5) Jogegységi panasz eljárásnak a Kúria 2020. július 1-jén és az azt követően meghozott, a 41/B. §-ban meghatározott határozata ellen van helye. A 41/B. §-ban meghatározott feltételek teljesülése esetén a jogegységi panasz eljárásnak az ügyben alkalmazott és alkalmazandó eljárási törvénytől függetlenül helye van, ha a felülvizsgálati kérelemmel támadott határozatot a bíróság 2020. április 1-jét és a Kúria a határozatát 2020. július 1-jét követően hozta.
+
+197/C. § (1) A 163. §-nak az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel beiktatott (1b) bekezdését a 2021. január 1. napját követően hozott határozatok esetében kell alkalmazni.
+
+(2) A 2012. január 1. napja és 2020. december 31. napja között hozott, a Bírósági Határozatok Gyűjteményében közzétett határozatok mellett a 163. §-nak az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel beiktatott (1b) bekezdésében foglaltak szerint a határozat elvi tartalmát, ennek hiányában rövid tartalmát, és az alkalmazott jogszabályokat 2023. december 31. napjáig kell feltüntetni.
+
+197/D. § (1) A 41/B. §-nak az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel módosított (1) bekezdésében foglaltakat a 2021. január 1. napján és az azt követően benyújtott jogegységi panasz kérelmekre kell alkalmazni.
+
+(2) A Kúria főtitkárára vonatkozóan az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel megállapított rendelkezéseket az e rendelkezések hatálybalépését követően első alkalommal azzal az eltéréssel kell alkalmazni, hogy a főtitkári tisztségre történő pályázat kiírása és a pályázat elbírálása közötti időben a főtitkári tisztséget a Kúria elnöke megbízással töltheti be.
 
 ### XVI. Fejezet — MÓDOSULÓ JOGSZABÁLYOK
 

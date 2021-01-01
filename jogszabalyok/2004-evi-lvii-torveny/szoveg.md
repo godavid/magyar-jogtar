@@ -44,7 +44,7 @@ Magyarország csatlakozása az Európai Unióhoz megköveteli, hogy az Országgy
 
 (3) A munkavégzési kötelezettséggel járó szövetkezeti tagsági viszonyban álló európai parlamenti képviselőkre az (1)–(2) bekezdés rendelkezéseit kell megfelelően alkalmazni.
 
-(4) Ha az európai parlamenti képviselő a megválasztása előtt ügyész, igazságügyi alkalmazott, közigazgatási szerv köztisztviselője, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény szerinti fegyveres szerv hivatásos állományú tagja, vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja volt, az európai parlamenti képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
+(4) Ha az európai parlamenti képviselő a megválasztása előtt ügyész, igazságügyi alkalmazott, közigazgatási szerv köztisztviselője, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény szerinti fegyveres szerv hivatásos állományú tagja, vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, a Nemzeti Adó- és Vámhivatal foglalkoztatottja volt, az európai parlamenti képviselői megbízatásának megszűnésétől számított harminc napon belül benyújtott írásbeli kérelmére őt képzettségének, végzettségének megfelelő munkakörbe kell helyezni.
 
 (5)
 
@@ -56,7 +56,7 @@ E döntést az e törvény hatálybalépését követő 30 napon belül írásbe
 
 7. § (1) Ha az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, társadalombiztosítási jogállására a munkaviszonyban állókra vonatkozó szabályok az irányadóak azzal, hogy az európai parlamenti képviselők tiszteletdíja társadalombiztosítási járulék és szociális hozzájárulási adó alapjául szolgáló jövedelem, és az európai parlamenti képviselői megbízást heti 36 órát meghaladó foglalkozásnak kell tekinteni.
 
-(2) Amennyiben az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, megbízásának időtartama – ideértve a 14. §-ban meghatározott hat hónapra folyósított ellátás időtartamát is – munkaviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a közszolgálati, hivatásos szolgálati, közalkalmazotti, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani.
+(2) Amennyiben az európai parlamenti képviselő a 6. § (6) bekezdése szerinti nyilatkozatot tett, megbízásának időtartama – ideértve a 14. §-ban meghatározott hat hónapra folyósított ellátás időtartamát is – munkaviszonyban töltött időnek, illetőleg nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a közszolgálati, hivatásos szolgálati, közalkalmazotti, adó- és vámhatósági szolgálati, valamint bírósági és ügyészségi jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani.
 
 (3)
 
@@ -66,7 +66,7 @@ E döntést az e törvény hatálybalépését követő 30 napon belül írásbe
 
 (6) A (2) bekezdésben meghatározott munkaviszony és az (5) bekezdésben meghatározott vezetői gyakorlat időtartamát az európai parlamenti képviselői mandátum megszűnésekor az Országgyűlés Hivatala által kiadott igazolás alapján kell beszámítani.
 
-7/A. § Amennyiben az európai parlamenti képviselő nem tett a 6. § (6) bekezdése szerinti nyilatkozatot, megbízatásának időtartamát munkaviszonyban, közszolgálati, hivatásos szolgálati, közalkalmazotti, bírósági, ügyészségi jogviszonyban töltött időként kell beszámítani.
+7/A. § Amennyiben az európai parlamenti képviselő nem tett a 6. § (6) bekezdése szerinti nyilatkozatot, megbízatásának időtartamát munkaviszonyban, közszolgálati, hivatásos szolgálati, közalkalmazotti, adó- és vámhatósági szolgálati, bírósági, ügyészségi jogviszonyban töltött időként kell beszámítani.
 
 A 2009. évtől kezdődő két európai parlamenti ciklus időtartama alatti képviselői megbízás időtartamát a nemzeti rendszerben, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 37. §-ának (1) bekezdése alkalmazásában nyugdíjra jogosító szolgálati időnek kell tekinteni, ha a képviselő a képviselői megbízatásának időtartamára eső tiszteletdíja után a nyugdíjjárulékot megfizette. Ebben az esetben a nyugdíjbiztosítási járulék összegét a központi költségvetés a Nyugdíjbiztosítási Alap részére megfizeti. Magánnyugdíjpénztári tagok esetén a nyugdíjjárulék, valamint a magánnyugdíjpénztári tagdíj megfizetésére a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény rendelkezései az irányadók.
 

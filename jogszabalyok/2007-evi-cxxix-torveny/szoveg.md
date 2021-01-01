@@ -209,7 +209,7 @@ a termőföld védelméről
 - b) a termőföld belterületbe vonásának engedélyezése;
 - c) az Evt. hatálya alá nem tartozó üzem-, majorfásítás, valamint az út, vasút és egyéb műszaki létesítmény tartozékát képező fásítás igénybevétele.
 
-(2) Nem minősül a termőföld más célú hasznosításának, ha az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 89/A. §-ában foglaltak alapján a tulajdonos a zártkerti ingatlana művelési ágának zártkerti művelés alól kivett területként történő átvezetését kérelmezi az ingatlanügyi hatóságnál.
+(2)
 
 (3) A termőföld más célú hasznosítása időleges vagy végleges lehet. A termőföld belterületbe vonása, valamint a termőföldnek a 15/B. §-ában meghatározott célból történő igénybevétele végleges más célú hasznosításnak minősül.
 
@@ -217,7 +217,7 @@ a termőföld védelméről
 
 (2) A termőföld más célú hasznosítása mentes az ingatlanügyi hatóság engedélye alól, ha a termőföldet
 
-- a) a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény hatálya alá tartozó, a részarány-földkiadási eljárás során, továbbá a részarány-földkiadási eljárás eredményeként keletkezett osztatlan közös tulajdonok megszüntetése során keletkező új földrészletek megközelítését szolgáló utak kialakítása,
+- a) a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény hatálya alá tartozó, a részarány-földkiadási eljárás során, továbbá a részarány-földkiadási eljárás eredményeként keletkezett osztatlan közös tulajdonok megszüntetése, valamint a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerinti megosztás során keletkező új földrészletek megközelítését szolgáló utak kialakítása,
 - b) mezőgazdasági célú tereprendezés, valamint a meliorációs tervekben előirányzott munkálat,
 - c) erdő telepítése,
 - d) a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 26. § (4) bekezdésében, az államhatárról szóló 2007. évi LXXXIX. törvény (a továbbiakban: Áhtv.) 5. § (1) bekezdésében meghatározott használati jog gyakorlása, vagy az Áhtv. 15/A. §-ában meghatározott tranzitzóna kialakítása, vagy
@@ -500,7 +500,7 @@ esetében.
 
 (1d) Az utólagos hozzájárulás megadására csak akkor kerülhet sor, ha rendelkezésre áll a 16. § (9) bekezdése szerinti tulajdonosi, haszonélvezet fennállása esetén a haszonélvezői hozzájáruló nyilatkozat. Ennek hiányában az ingatlanügyi hatóság az (1c) bekezdés a) pontjában foglaltakról rendelkezik.
 
-(1e) Az (1) bekezdésben és az (1c) bekezdés a) pontjában meghatározott határozatban elő kell írni, hogy az eredeti állapot helyreállítását a talajvédelmi hatóság által jóváhagyott, az 50. § (2) bekezdés d) pontjában foglalt talajvédelmi terv szerint kell végrehajtani.
+(1e) Az (1) bekezdésben és az (1c) bekezdés a) pontjában meghatározott határozatban elő kell írni, hogy az eredeti állapot helyreállítását az 50. § (2) bekezdés d) pontjában foglalt talajvédelmi terv szerint kell végrehajtani.
 
 (2)–(3)
 
@@ -686,6 +686,12 @@ szóló határozatban kell rendelkezni.
 25. § (1) A bírság mértékét e törvény 2. melléklete tartalmazza.
 
 (2) A bírságot az azt kiszabó határozat véglegessé válásától számított 30 napon belül kell megfizetni.
+
+25/A. § Kizárt a figyelmeztetés alkalmazása
+
+- a) a 24. § (1) bekezdés a) pont aa) és ab) alpontjában meghatározott esetekben, ha az időszerű mezőgazdasági munkák már nem pótolhatóak;
+- b) a 24. § (1) bekezdés b) pont bc) és bd) alpontjában, valamint c) pontjában meghatározott esetben, ha az újrahasznosítás már megvalósult a mulasztásnak az ingatlanügyi hatóság tudomására jutásának időpontjában;
+- c) a 24. § (1) bekezdés b) pont bb) és be) alpontjában, e) pont ea) alpontjában, valamint f) pontjában meghatározott esetben.
 
 ### A földvédelmi járulékra és földvédelmi bírságra vonatkozó közös szabályok
 

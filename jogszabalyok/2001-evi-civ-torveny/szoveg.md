@@ -105,7 +105,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 ### A jogi személy érdekében eljáró ügyvéd
 
-9. § (1) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a jogi személy érdekében meghatalmazás vagy kirendelés alapján ügyvéd vagy meghatalmazás alapján kamarai jogtanácsos (a továbbiakban együtt: jogi személy érdekében eljáró ügyvéd) jár el.
+9. § (1) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a jogi személy érdekében meghatalmazás vagy kirendelés alapján ügyvéd vagy meghatalmazás alapján kamarai jogtanácsos, európai közösségi jogász, alkalmazott ügyvéd vagy alkalmazott európai közösségi jogász (a továbbiakban együtt: jogi személy érdekében eljáró ügyvéd) jár el.
 
 (2) Ha a jogi személy nem hatalmaz meg jogi személy érdekében eljáró ügyvédet, akkor a bíróság, az ügyészség, vagy a nyomozó hatóság rendel ki jogi személy érdekében eljáró ügyvédet. Ebben az esetben a jogi személy érdekében eljáró ügyvéd kijelölése az eljáró bíróság, ügyészség vagy nyomozó hatóság székhelye szerint illetékes területi ügyvédi kamara feladata.
 
@@ -140,6 +140,8 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 (4) A (2) bekezdés alapján történő zár alá vételt a bíróság a felszámolási eljárás engedélyezéséről szóló határozatban is elrendelheti. Az ügyészség a határozat meghozatala előtt indítványozza a zár alá vételnek a (2) bekezdés alapján történő elrendelését, ha a felszámolási eljárás folytatásához az engedélyt megadja.
 
 (5) Ha a felszámoló kérelmére a büntetőügyben eljáró bíróság vagy a vádirat benyújtása előtt az ügyészség a zár alá vétel tárgyának értékesítését engedélyezi, az erről szóló határozatban a zár alá vételt arra az összegre korlátozza, ami a jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság végrehajtását fedezni fogja. A zár alá vétel tárgya helyébe a bíróság, illetve az ügyészség által meghatározott összeg lép. A határozatot meg kell küldeni a zár alá vételt foganatosító állami adó- és vámhatóságnak és a felszámolónak.
+
+(6) Az (1) és (2) bekezdés alapján elrendelt zár alá vétel esetén – kivéve, ha a jogi személlyel szemben felszámolást rendeltek el – a zár alá vétel megváltására a Be. 329. § (1)–(6) bekezdését kell alkalmazni azzal, hogy a zár alá vétel megváltását a jogi személy indítványozhatja.
 
 ### A nyomozás
 

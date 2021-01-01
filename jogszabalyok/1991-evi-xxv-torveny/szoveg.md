@@ -31,7 +31,7 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 3. § (1) A kár mértékét átalányértékben kell meghatározni. Az egyes vagyonelemek átalányértékét a 3. számú melléklet tartalmazza.
 
-(2) Termőföld esetén a kár mértékét a 13. §-ban meghatározottak szerint kell megállapítani.
+(2)
 
 (3) Az (1) és (2) bekezdésben szabályozott átalányérték magában foglalja az ingóságok értékét is.
 
@@ -135,37 +135,17 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 ### A termőföldre vonatkozó sajátos szabályok
 
-13. § (1) Termőföld esetén a kár mértékét a termőföld kataszteri tiszta jövedelme (a továbbiakban: AK érték) alapján kell megállapítani úgy, hogy egy AK érték ezer forintnak felel meg. Erdők esetében az AK érték négyszeres szorzatát kell alapul venni.
+#### 13. §
 
-(2) Ha a volt tulajdonos a termőföldjéért csereföldet kapott, a kár mértékét a különbözetként mutatkozó AK érték alapján kell meghatározni.
+#### 14. §
 
-(3) Amennyiben a földrészlet AK adata a korábbi okiratból nem állapítható meg, akkor az AK értéket a föld fekvése szerinti község (város) kataszteri tiszta jövedelmi adatainak 1982—1985. évi lezárása során megállapított átlagos AK adatok alapulvételével kell kiszámolni.
+#### 15. §
 
-(4) Ha az eredeti földet, vagy annak egy részét művelés alól kivett területként vagy halastóként tartották nyilván, a kár mértékét a föld fekvése szerinti község (város) legalacsonyabb minőségű szántó művelési ágra meghatározott AK értéke alapján kell megállapítani.
+#### 16. §
 
-14. § Ha a volt tulajdonos a termőföldjéért bármilyen térítésben (például megváltási árban) részesült, úgy annak összegét a kárpótlás 4. §-a alapján kiszámított mértékéből le kell vonni.
+#### 17. §
 
-15. § (1) A kárpótlás termőföldben történő biztosítása érdekében a szövetkezet vagy jogutódja (a továbbiakban: szövetkezet) a 12. § (4) bekezdésében említett értesítés kézhezvételétől számított 30 napon belül a 16—18. §-okban foglalt rendelkezéseknek megfelelően kijelöli azt az e törvény kihirdetése napján a tulajdonában vagy használatában álló termőföldterületet, amelyet a 2. számú mellékletben felsorolt jogszabályok alapján szerzett meg. Amennyiben a szövetkezet a kijelölési kötelezettségének nem tesz eleget, akkor az e törvény alapján megszerzett, s a tulajdonában vagy használatában lévő termőföld mennyiség teljes egészében kijelöltnek tekintendő.
-
-(2) Az (1) bekezdés alapján kijelölt termőföldterületre a kárpótlásra jogosultakat vételi jog illeti meg.
-
-16. § A szövetkezetnek legalább a 12. § (4) bekezdésében említett értesítésben meghatározott AK értékű termőföldterületet kell kijelölnie úgy, hogy a kijelölt földmennyiség átlagos AK értékének meg kell egyeznie a szövetkezet egyéb földterületének átlagos AK értékével.
-
-17. § (1) A kijelölés során a szövetkezetben a szövetkezeti tagok és alkalmazottak, állami gazdaságnál az alkalmazottak földtulajdonhoz juttatása céljából földalapot kell képezni. A földalap nagyságát úgy kell meghatározni, hogy átlagosan szövetkezeti tagonként 30 AK, szövetkezeti és állami gazdasági alkalmazottak esetében 20 AK értékű termőföld jusson személyenként. Az így számított földalap AK értéke nem haladhatja meg a szövetkezet tulajdonában, illetőleg az állami gazdaság kezelésében lévő termőföld AK értékének 50%-át.
-
-(2) Az (1) bekezdésben említett földalap számításánál szövetkezeti tagként, illetve alkalmazottként, továbbá állami gazdasági alkalmazottként az vehető figyelembe, aki 1991. január 1-jén és azóta is a szövetkezet vagy állami gazdaság tagja, illetve alkalmazottja, és az (1) bekezdésben meghatározottnál kisebb mezőgazdasági földtulajdonnal rendelkezik.
-
-18. § (1) A kiadásra kerülő termőföldet a védett természeti területen kívül kell kijelölni.
-
-(2) Ha a védett természeti területen kívül rendelkezésre álló terület a kijelöléshez nem elegendő — a nemzeti park, a nemzetközi egyezmények hatálya alá tartozó és a fokozottan védett területek kivételével —, a szövetkezet tulajdonában lévő szántó, kert, gyümölcsös, szőlő és erdő művelési ágba tartozó védett természeti terület is kijelölhető.
-
-(3) A védett természeti területből történő kijelölés esetén a természetvédelmi hatóság hozzájárulását be kell szerezni.
-
-(4) Amennyiben a kárpótlás során védett természeti terület kerül kiadásra vagy a terület hasznosítására más korlátozás áll fenn, erről az árverésen (21. §) résztvevőket írásban tájékoztatni kell.
-
-(5) E rendelkezéseket kell alkalmazni védelemre tervezett területek esetében is.
-
-(6) Nem lehet kijelölni a műemlékileg védett, eredetileg nem mezőgazdasági rendeltetésű épülethez, építményhez tartozó, illetve körülötte lévő eredetileg nem termőföld rendeltetésű földterületet.
+#### 18. §
 
 #### 19. §
 

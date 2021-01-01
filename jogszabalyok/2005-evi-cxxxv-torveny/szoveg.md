@@ -36,7 +36,9 @@ miatt került sor.
 
 (3) E törvény VI. fejezete szerinti támogatási eljárás igénybevételére jogosult az a Magyarországon szokásos tartózkodási hellyel rendelkező személy, aki az Európai Unió más tagállamában vált szándékos, személy elleni erőszakos bűncselekmény áldozatává.
 
-3. § E törvény hatálya nem terjed ki a büntetőeljárás terheltjére és a szabálysértési eljárás alá vont személyre.
+3. § E törvény hatálya nem terjed ki a büntetőeljárás terheltjére, a bűncselekmény elkövetésével megalapozottan gyanúsítható személyre és a szabálysértési eljárás alá vont személyre.
+
+3/A. § A 24. § (1) bekezdése szerinti érdekérvényesítés elősegítése szolgáltatás tekintetében – az állam, az állami hatásköröket gyakorló közjogi szerv és a közjogi nemzetközi szervezet kivételével – áldozatnak minősül az információs rendszer felhasználásával elkövetett csalás, a készpénz-helyettesítő fizetési eszköz hamisítása és a készpénz-helyettesítő fizetési eszközzel visszaélés bűncselekmények következtében kárt elszenvedett jogi személyiséggel rendelkező jogalany is.
 
 ### II. Fejezet — SZOLGÁLTATÁSOK
 
@@ -79,43 +81,28 @@ nyújt a sérelem rendezéséhez.
 - b) korábbi támogatás iránti ügyében valótlan adatot szolgáltatott, az ezt megállapító határozat véglegessé válásától vagy jogerőre emelkedésétől számított 2 évig,
 - c) a támogatás iránti ügyében akadályozza az ellenőrzésre irányuló vizsgálat elvégzését,
 - d) a korábbi támogatás iránti ügyében megakadályozta az ellenőrzésre irányuló vizsgálatot, az ezt megállapító határozat véglegessé válásától vagy jogerőre emelkedéséről számított 2 évig,
-- e) a korábban igénybe vett, e törvény szerinti, pénzben nyújtott támogatást, illetve a jogi segítségnyújtás díját – bár arra köteles lett volna – nem térítette vissza az államnak.
+- e) a korábban igénybe vett, e törvény szerinti, pénzben nyújtott támogatást – bár arra köteles lett volna – nem térítette vissza az államnak.
 
 ### III. Fejezet — A KÁRENYHÍTÉS
 
 ### A kárenyhítés igénybevételére jogosult áldozat
 
-6. § (1) Kárenyhítésre az a rászoruló áldozat jogosult,
+6. § (1) Kárenyhítésre az az áldozat jogosult,
 
 - a) akinek sérelmére szándékos, személy elleni erőszakos bűncselekményt követtek el, s ennek következményeként testi épsége, egészsége súlyosan károsodott,
 - b) aki az a) pontban meghatározott bűncselekmény következtében károsodott vagy meghalt sértettnek az elkövetés időpontjában egy háztartásban élő egyenes ági rokona, örökbefogadója vagy nevelőszülője, örökbefogadott vagy nevelt gyermeke, házastársa, élettársa,
 - c) akinek eltartására az a) pontban meghatározott bűncselekmény következtében károsodott vagy meghalt sértett jogszabály, végrehajtható bírósági, illetőleg hatósági határozat vagy érvényes szerződés alapján köteles vagy köteles volt,
 - d) aki a szándékos, személy elleni erőszakos bűncselekmény következtében meghalt sértett eltemettetéséről gondoskodott.
 
-(2) Rászorulónak tekintendő az áldozat, ha havi nettó jövedelme – közös háztartásban élők esetén az egy főre eső jövedelem – nem haladja meg az alapösszeg kétszeresét (a továbbiakban: rászoruló).
+(2)
 
-(3) Jövedelmi helyzetére tekintet nélkül rászorulónak tekintendő az az áldozat, aki
-
-- a) aktív korúak ellátására jogosult, vagy időskorúak járadékában részesül,
-- b) adósságkezelési szolgáltatás, lakásfenntartási támogatás jogosultja,
-- c) a családjában olyan gyermeket gondoz, akinek rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították,
-- d) számára egészségügyi szolgáltatás igénybevétele céljából a szociális rászorultságot megállapították,
-- e) gyermekek otthongondozási díjában vagy ápolási díjban, közgyógyellátásban, rokkantsági járadékban részesül,
-- f) fogyatékossági támogatásra, vakok személyi járadékára vagy magasabb összegű családi pótlékra jogosult,
-- g) átmeneti szállást vagy éjjeli menedékhelyet igénybe vevő hajléktalan személy,
-- h) családok, gyermekek átmeneti otthonát igénybe vevő személy,
-- i) Magyarország területén menekültügyi eljárás alatt álló személy,
-- j) terrorcselekmény áldozatává vált.
+(3)
 
 ### A kárenyhítés formái és mértéke
 
 7. § (1) A kárenyhítést egy összegben vagy havi járadékként kell fizetni.
 
-(2) Egyösszegű kárenyhítésként az áldozat a bűncselekmény miatt bekövetkezett vagyoni kárának teljes vagy részbeni megtérítését igényelheti. Az egyösszegű kárenyhítés mértéke:
-
-- a) az alapösszeg ötszörösét meg nem haladó kár 100 százaléka,
-- b) az alapösszeg ötszöröse és tízszerese közötti kár esetén az alapösszeg 5-szöröse, és az alapösszeg ötszöröse feletti rész 75 százaléka,
-- c) az alapösszeg tízszeresét meghaladó kár esetén az alapösszeg 8,75-szöröse, és az alapösszeg tízszerese feletti rész 50 százaléka, de legfeljebb az alapösszeg tizenötszöröse.
+(2) Egyösszegű kárenyhítésként az áldozat a bűncselekmény miatt bekövetkezett vagyoni kárának teljes vagy részbeni megtérítését igényelheti. Az egyösszegű kárenyhítés mértéke legfeljebb az alapösszeg tizenötszöröse.
 
 (3) A sértett bűncselekmény miatt bekövetkezett keresőképtelensége esetén – ha a keresőképtelenség várhatóan a 6 hónapot meghaladja – az áldozat járadék formájú kárenyhítésként a rendszeres jövedelmében bekövetkezett csökkenés részbeni enyhítését igényelheti. A járadék havi mértéke:
 
@@ -227,7 +214,7 @@ nyújt a sérelem rendezéséhez.
 - c) a kezelést végző orvos az orvosi titokról,
 - d) a bíróság, az ügyészség és a nyomozó hatóság a büntetőeljárás állásáról,
 - e) a szabálysértési hatóság, illetve a bíróság a szabálysértési eljárás állásáról,
-- f) az erre hatáskörrel rendelkező hatóság a 6. § (3) bekezdésében megjelölt jogosultságokról tájékoztatja az áldozatsegítő szolgálatot.
+- f) tájékoztatja az áldozatsegítő szolgálatot.
 
 (2) Az (1) bekezdés körében a támogatás feltételeinek vizsgálata alatt
 
@@ -257,7 +244,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 (3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező végleges vagy jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott „bűncselekmények áldozatainak kárenyhítése” elnevezésű célelőirányzat (a továbbiakban: célelőirányzat) javára megfizetni.
 
-(4) Az áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére kérelemre, indokolt esetben egy alkalommal legfeljebb hat hónap halasztást vagy részletfizetést engedélyezhet.
+(4) Az áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére kérelemre, indokolt esetben egy alkalommal legfeljebb tizenkét hónap halasztást vagy részletfizetést engedélyezhet.
 
 (4a)
 
@@ -308,9 +295,9 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 (2) Az eljárás irataiba a 16. § (4) és (5) bekezdésében megjelölt személyek és hatóságok is betekinthetnek.
 
-(3) Az áldozatsegítő szolgálat eljárásában írásbelinek nem minősíthető elektronikus úton nem tart kapcsolatot az ügyféllel.
+(3)
 
-(4) Az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.
+(4)
 
 ### V. Fejezet — A SZOLGÁLTATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -320,7 +307,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 22. § (1)
 
-(2) Azonnali pénzügyi segély iránti kérelmet a bűncselekmény, illetve a tulajdon elleni szabálysértés elkövetését követő öt napon belül lehet előterjeszteni.
+(2) Azonnali pénzügyi segély iránti kérelmet a bűncselekmény, illetve a tulajdon elleni szabálysértés elkövetését követő nyolc napon belül lehet előterjeszteni.
 
 ### Elintézési határidő
 
@@ -338,7 +325,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 - d) az áldozatsegítésben részt vevő állami, önkormányzati, civil szervezetek és a vallási közösségek elérhetőségéről,
 - e) a bűncselekmény, illetve tulajdon elleni szabálysértés típusára figyelemmel az ismételt áldozattá válás elkerülésének lehetőségeiről.
 
-(2) Ha az áldozatsegítő szolgálat más hatóságtól, szervtől vagy szervezettől, illetve az áldozatsegítő szolgálathoz benyújtott támogatás iránti kérelemből természetes személy áldozattá válásáról szerez tudomást, soron kívül (az áldozat szükségleteire vonatkozóan a rendelkezésére álló adatok alapján, azokhoz igazodóan) írásban tájékoztatja az ügyfelet arról, hogy támogatás jogosultja lehet és jogosultsága esetén a támogatások iránt kérelmet terjeszthet elő.
+(2) Ha az áldozatsegítő szolgálat – ide nem értve a 43/A. § (3) bekezdésében foglaltakat – más hatóságtól, szervtől vagy szervezettől, illetve az áldozatsegítő szolgálathoz benyújtott támogatás iránti kérelemből természetes személy áldozattá válásáról szerez tudomást, soron kívül, az áldozat szükségleteire vonatkozóan a rendelkezésére álló adatok alapján, azokhoz igazodóan írásban tájékoztatja az ügyfelet arról, hogy támogatás jogosultja lehet és jogosultsága esetén a támogatások iránt kérelmet terjeszthet elő.
 
 (3) Ha az áldozatsegítő szolgálat megállapítja, hogy a hozzá forduló harmadik országbeli állampolgár emberkereskedelem áldozata, – az (1) bekezdésében foglaltakon túl – tájékoztatja arról is, hogy
 
@@ -399,7 +386,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 28. § (1) Ha az áldozat nem rendelkezik a 11. § (1) bekezdésében meghatározott igazolással, azonban a 10. § (5) bekezdésében meghatározott egyéb iratok valamelyikét az áldozatsegítő szolgálathoz benyújtott kérelméhez csatolja, és abból a hatósági bizonyítvány kiállításának feltételei megállapíthatóak, az áldozati státusz igazolása ez alapján is kiállítható.
 
-(2) Ha a körülmények alapján bebizonyosodik, hogy a rászoruló áldozat sérelmének rendezéséhez a jogi segítségnyújtásról szóló 2003. évi LXXX. törvényben (a továbbiakban: Jst.) meghatározott jogi segítségnyújtásra van szükség, az áldozatsegítő szolgálat igazolja az ügyfél áldozati státuszát, és ezen igazolást, valamint – ha rendelkezésre áll – a kérelmet továbbítja a jogi segítségnyújtó szolgálatnak, amely a döntéséről és a megtett intézkedésekről haladéktalanul értesíti az áldozatsegítő szolgálatot. A jogi segítségnyújtásra az áldozat a Jst.-ben meghatározott feltételek esetén jogosult.
+(2) Ha a körülmények alapján bebizonyosodik, hogy az áldozat sérelmének rendezéséhez a jogi segítségnyújtásról szóló 2003. évi LXXX. törvényben (a továbbiakban: Jst.) meghatározott jogi segítségnyújtásra van szükség, az áldozatsegítő szolgálat igazolja az ügyfél áldozati státuszát, és ezen igazolást, valamint – ha rendelkezésre áll – a kérelmet továbbítja a jogi segítségnyújtó szolgálatnak, amely a döntéséről és a megtett intézkedésekről haladéktalanul értesíti az áldozatsegítő szolgálatot. A jogi segítségnyújtásra az áldozat a Jst.-ben meghatározott feltételek esetén jogosult.
 
 (3)
 
@@ -415,15 +402,15 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 ### Az igényérvényesítés határideje
 
-30. § (1) A kárenyhítési kérelmet – a (2)–(4) bekezdésben, illetve a 45. § (2) bekezdésében foglalt kivételekkel – a bűncselekmény elkövetését követő 3 hónapon belül lehet benyújtani.
+30. § (1) A kárenyhítési kérelmet – a (2)–(4) bekezdésben, illetve a 45. § (2) bekezdésében foglalt kivételekkel – a bűncselekmény elkövetését követő egy éven belül lehet benyújtani.
 
-(2) Ha a kérelem előterjesztése elháríthatatlan akadályba ütközik, a kérelmet az akadály megszűnését követő 3 hónapon belül lehet előterjeszteni.
+(2) Ha a kérelem előterjesztése elháríthatatlan akadályba ütközik, a kérelmet az akadály megszűnését követő egy éven belül lehet előterjeszteni.
 
-(3) Ha egy korábban államigazgatási eljárásban vizsgált cselekményről később derül ki, hogy az bűncselekmény, a kérelmet a büntetőeljárás megindítását követő 3 hónapon belül lehet előterjeszteni.
+(3) Ha egy korábban államigazgatási eljárásban vizsgált cselekményről később derül ki, hogy az bűncselekmény, a kérelmet a büntetőeljárás megindítását követő egy éven belül lehet előterjeszteni.
 
-(4) Ha a bűncselekmény elkövetését követően később derül ki, hogy az áldozat testi épségének, egészségének súlyos károsodása és a bűncselekmény között ok-okozati összefüggés áll fenn, illetve ha a bűncselekmény megváltoztatott minősítése alapján szándékos, személy elleni erőszakos a bűncselekmény, a kérelmet az ok-okozati összefüggés tudomásra jutásától, illetve a minősítés megváltoztatásától számított 3 hónapon belül lehet előterjeszteni.
+(4) Ha a bűncselekmény elkövetését követően később derül ki, hogy az áldozat testi épségének, egészségének súlyos károsodása és a bűncselekmény között ok-okozati összefüggés áll fenn, illetve ha a bűncselekmény megváltoztatott minősítése alapján szándékos, személy elleni erőszakos a bűncselekmény, a kérelmet az ok-okozati összefüggés tudomásra jutásától, illetve a minősítés megváltoztatásától számított egy éven belül lehet előterjeszteni.
 
-(5) A (2)–(4) bekezdések esetén a kérelem a bűncselekmény elkövetését követő 5 év elteltével nem nyújtható be. Ha az áldozat a (2)–(4) bekezdések alapján kéri a kárenyhítést, ennek okát megfelelően igazolnia kell.
+(5) Ha az áldozat a (2)–(4) bekezdés alapján kéri a kárenyhítést, ennek okát megfelelően igazolnia kell.
 
 ### Tájékoztatás
 
@@ -433,7 +420,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 32. § (1) A kárenyhítés iránti kérelemben – a 10. §-ban foglaltakon túl – meg kell jelölni
 
-- a) a rászorultság megállapításához szükséges adatokat [jövedelemre vonatkozó adatok, az áldozattal egy háztartásban élő személyek száma és a jövedelmükre vonatkozó adatok, vagy a 6. § (3) bekezdése szerinti adatok],
+- a)
 - b) az igényelt kárenyhítés formáját,
 - c) egyösszegű kárenyhítés esetén az igényelt összeg nagyságát, járadék jellegű kárenyhítés esetén az igényelt járadék havi összegét és a folyósítás időtartamát,
 - d) azt, hogy az áldozat rendelkezik-e olyan biztosítással, amelyből kárának részbeni vagy teljes megtérülése várható,
@@ -443,10 +430,10 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 (2) A kérelemhez az alábbi dokumentumokat kell csatolni:
 
-- a) a jövedelmi helyzetére tekintet nélkül rászorulónak tekintendő kérelmező kivételével a jövedelemre vonatkozó igazolást,
+- a)
 - b) a testi épség, egészség súlyos károsodását igazoló szakértői véleményt vagy orvosi dokumentumokat.
 
-(3) Egyösszegű kárenyhítés iránti igény esetén a (2) bekezdésben meghatározott dokumentumokon túl csatolni kell a kár mértékét igazoló iratokat (pl. számla, nyugta vagy más bizonylat) is.
+(3) Egyösszegű kárenyhítés iránti igény esetén a (2) bekezdésben meghatározott dokumentumokon túl csatolni kell a kár mértékét igazoló iratokat (pl. számla, nyugta, előzetes árajánlat vagy egyéb dokumentum) is.
 
 (4) Járadék iránti igény esetén a (2) bekezdésben meghatározott dokumentumokon túl csatolni kell a keresőképtelenséget igazoló és annak várható időtartamát valószínűsítő szakértői véleményt vagy orvosi igazolást is.
 
@@ -476,7 +463,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 37. § (1) A döntő hatóság az érdemi döntés meghozatala során megvizsgálja
 
 - a) az áldozat kárának vagy jövedelemcsökkenésének mértékét,
-- b) az áldozat rászorultságát és a kárenyhítésre való jogosultságát,
+- b) az áldozat kárenyhítésre való jogosultságát,
 - c) a kárenyhítésre okot adó bűncselekmény és a bekövetkezett kár, jövedelemcsökkenés közötti ok-okozati összefüggést.
 
 (2) Egyösszegű kárenyhítés iránti kérelem elbírálása esetén, az (1) bekezdés szerinti eljárást követően a döntő hatóság megállapítja a kár mértékét, és ennek alapján meghatározza a kárenyhítés összegét, vagy a kérelmet elutasítja.
@@ -527,6 +514,26 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 (3) Az áldozatsegítő szolgálat a 24. § (3) bekezdése szerinti tájékoztatás megtörténtét követően – a büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság egyidejű értesítése mellett – haladéktalanul kezdeményezi az idegenrendészeti hatóságnál a harmadik országbeli állampolgár ideiglenes tartózkodásra jogosító igazolással történő ellátását.
 
+### Az áldozatok közvetlen elérése
+
+43/A. § (1) Az általános nyomozó hatóság a nyomozása során ismertté vált olyan sértettet, valamint a nála tett feljelentés alapján ismertté vált olyan feljelentőt, akinek a sérelmére a Btk. szerinti szándékos, személy elleni erőszakos bűncselekményt követtek el, a személyének és elérhetőségének ismertté válását követően lehetőség szerint azonnal, de legkésőbb két napon belül tájékoztatja
+
+- a) az áldozatsegítő szolgálatokról,
+- b) arról, hogy támogatásra lehet jogosult, és
+- c) arról, hogy hozzájárulása esetén a 10. § (3) bekezdés a) és b) pontjában, valamint a 11. § (1) bekezdés c) pontjában meghatározott adatait, valamint az általa megadott elérhetőségeit a közvetlen kapcsolatfelvétel céljából továbbítja az áldozatsegítő szolgálat részére.
+
+(2) Az (1) bekezdésben foglaltak alkalmazásával kell eljárni a 6. § (1) bekezdés b)–d) pontjában meghatározott, az általános nyomozó hatóság előtt ismertté vált személyek tekintetében is, ha a sértett az (1) bekezdésben megjelölt bűncselekmény következtében meghalt.
+
+(3) A tájékoztatás megtörténtét, valamint az érintett hozzájárulását, vagy a hozzájárulás megtagadását írásba kell foglalni. Írásbeli tájékoztatás esetén, ha az érintett a hozzájárulás tekintetében nem tesz nyilatkozatot, úgy azt a hozzájárulás megtagadásának kell tekinteni.
+
+(4) Az érintett hozzájárulása esetén az általános nyomozó hatóság a hozzájárulást követően lehetőség szerint azonnal, de legfeljebb két napon belül az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott információátadási szolgáltatás útján az érintett (1) bekezdés c) pontjában meghatározott adatait továbbítja az áldozatsegítő szolgálat részére.
+
+(5) A büntetőeljárásról szóló törvény szerinti zárt adatkezelés esetén az általános nyomozó hatóság az érintett zártan kezelt adatait a (4) bekezdésben foglaltaktól eltérően papíralapon továbbítja az áldozatsegítő szolgálat részére.
+
+43/B. § (1) Az áldozatsegítő szolgálat a 43/A. § (4) bekezdésében meghatározott adatok megérkezését követő két munkanapon belül intézkedik az érintettel történő kapcsolatfelvétel iránt, és tájékoztatást nyújt számára a 24. § (1) bekezdésében foglaltak szerint.
+
+(2) A kapcsolatfelvétel írásban, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton, vagy személyesen, írásbelinek nem minősülő elektronikus úton is történhet. A kapcsolatfelvétel módjai közül lehetőség szerint azt kell választani, amelyet az érintett a hozzájárulásában elsődlegesnek jelölt.
+
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 ### Hatálybalépés
@@ -574,6 +581,8 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 (5) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (6) Ez a törvény a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i EU 2017/541 európai parlamenti és tanácsi irányelv 24. és 26. cikkének való megfelelést szolgálja.
+
+(7) Ez a törvény a készpénz-helyettesítő fizetési eszközzel elkövetett csalás és a készpénz-helyettesítő fizetési eszközök hamisítása elleni küzdelemről, valamint a 2001/413/IB tanácsi kerethatározat felváltásáról szóló, 2019. április 17-i (EU) 2019/713 európai parlamenti és tanácsi irányelv 16. cikkének való megfelelést szolgálja.
 
 48. § (1)–(6)
 

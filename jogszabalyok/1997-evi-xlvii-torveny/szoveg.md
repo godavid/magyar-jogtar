@@ -53,7 +53,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - c) statisztikai vizsgálat,
 - d) hatásvizsgálati célú anonimizálás és tudományos kutatás,
 - e) az egészségügyi adatot kezelő szerv vagy személy hatósági vagy törvényességi ellenőrzését, szakmai vagy törvényességi felügyeletét végző szervezetek munkájának elősegítése, ha az ellenőrzés célja más módon nem érhető el, valamint az egészségügyi ellátásokat finanszírozó szervezetek feladatainak ellátása,
-- f) a társadalombiztosítási, illetve szociális ellátások megállapítása, amennyiben az az egészségi állapot alapján történik, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi egészségkárosodási ellátás megállapítása,
+- f) a társadalombiztosítási, illetve szociális ellátások megállapítása, amennyiben az az egészségi állapot alapján történik, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi egészségkárosodási ellátás megállapítása, továbbá a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási ellátás megállapítása,
 - g) az egészségügyi ellátásokra jogosultak részére a kötelező egészségbiztosítás terhére igénybe vehető szolgáltatások rendelésének és nyújtásának, valamint a gazdaságos gyógyszer-, gyógyászati segédeszköz- és gyógyászati ellátás rendelési szabályai betartásának a vizsgálata, továbbá a külön jogszabály szerinti szerződés alapján a jogosultak részére nyújtott ellátások finanszírozása, illetve az ártámogatás elszámolása, valamint a társadalombiztosítási ellátások megállapítása, kifizetése és a kifizetett ellátások visszafizetése, megtérítése érdekében,
 - h) bűnüldözés, továbbá a rendőrségről szóló 1994. évi XXXIV. törvényben meghatározott feladatok ellátására kapott felhatalmazás körében bűnmegelőzés,
 - i) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása, az abban kapott felhatalmazás körében,
@@ -62,7 +62,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - l) ügyészségi eljárás,
 - m) bírósági eljárás,
 - n) az érintettnek nem egészségügyi intézményben történő elhelyezése, gondozása,
-- o) a munkavégzésre való alkalmasság megállapítása függetlenül attól, hogy ezen tevékenység munkaviszony, közalkalmazotti, kormányzati szolgálati, politikai szolgálati, biztosi vagy közszolgálati jogviszony, hivatásos szolgálati viszony vagy egyéb jogviszony keretében történik,
+- o) a munkavégzésre való alkalmasság megállapítása függetlenül attól, hogy ezen tevékenység munkaviszony, közalkalmazotti, kormányzati szolgálati, politikai szolgálati, adó- és vámhatósági szolgálati, biztosi vagy közszolgálati jogviszony, hivatásos szolgálati viszony vagy egyéb jogviszony keretében történik,
 - p) köznevelés, szakképzés, illetve felsőoktatás céljából az oktatásra, illetve képzésre való alkalmasság megállapítása,
 - q) a katonai szolgálatra, illetve a személyes honvédelmi kötelezettség teljesítésére való alkalmasság megállapítása,
 - r) munkanélküli ellátás, foglalkoztatás elősegítése, valamint az ezzel összefüggő ellenőrzés,
@@ -476,6 +476,8 @@ tartalmazza.
 
 22/E. § (1) Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, a szociális feladatkörében eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal), továbbá az igazságügyi szakértő részére az egészségbiztosítási szerv abban az esetben továbbít a (3) bekezdésben meghatározott egészségügyi és személyazonosító adatokat, amennyiben arra az érintettnek járó társadalombiztosítási vagy szociális ellátásra, kedvezményre való jogosultsága egészségi állapota alapján történő megállapításához, illetve ellenőrzéséhez szükséges tevékenységének, szakértői tevékenységének ellátása céljából van szükség. Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, a járási hivatal, az igazságügyi szakértő az egészségbiztosítási szervnél rendelkezésre nem álló, a (3) bekezdés szerinti adatok továbbítása érdekében megkeresheti a kezelőorvost. A megkeresésére és a kezelőorvos adatátadási kötelezettségére a 23. § (1) és (2) bekezdésében foglaltakat értelemszerűen alkalmazni kell.
 
+(1a) Az orvosszakértői, rehabilitációs szerv, rehabilitációs hatóság jogosult az EESZT útján hozzáférni a 4. § (2) bekezdés f) pontja szerinti célból szükséges egészségügyi adatokhoz.
+
 (2) Az egészségügyi és személyazonosító adatokat kizárólag az orvosszakértői, rehabilitációs, illetve szociális szakértői szervnek, rehabilitációs hatóságnak, járási hivatalnak a szakértői tevékenység elvégzésével, a szakkérdés elbírálásával megbízott dolgozója kezelheti.
 
 (3) Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, a járási hivatal, az igazságügyi szakértő a 4. § (2) bekezdésének f) pontjában vagy a tevékenységére vonatkozó törvényben meghatározott célból kezelheti
@@ -717,7 +719,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 ### Központi eseménykatalógus
 
-35/F. § (1) A 35/B. § (1) bekezdés a) pontja szerinti csatlakozott adatkezelő a 4. § (1) bekezdés a)–c) pontjában foglalt célból történő hozzáférhetővé tétel érdekében az EESZT útján a működtető rendelkezésére bocsátja az általa kezelt érintettel kapcsolatos alábbi adatokat:
+35/F. § (1) A 35/B. § (1) bekezdés a) pontja szerinti csatlakozott adatkezelő a 4. § (1) bekezdés a)–c) pontjában vagy a 4. § (2) bekezdés f) pontjában foglalt célból történő hozzáférhetővé tétel érdekében az EESZT útján a működtető rendelkezésére bocsátja az általa kezelt érintettel kapcsolatos alábbi adatokat:
 
 - a) az érintett TAJ száma vagy ennek hiányában más azonosítója, születési ideje, neme, állampolgársága az EESZT útján továbbított vény és beutaló esetében a vényben és beutalóban foglalt egyéb személyazonosító adatok, az érintett EESZT-ben képzett azonosítója,
 - b) az ellátási esemény megjelölése, típusa, időpontja és időtartama, valamint miniszteri rendeletben meghatározott egyéb adatai és dokumentumai, valamint
@@ -768,7 +770,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 ### Egészségügyi profil
 
-35/J. § (1) Az érintett kezelőorvosa, ennek hiányában háziorvosa az érintett vércsoportjára vonatkozóan pedig az állami vérellátó szolgálat is, a 4. § (1) bekezdés a)–c) pontjában foglalt célból történő, az arra jogosult személyek részére történő hozzáférhetővé tétel érdekében az EESZT útján rögzíti az általa kezelt érintettel kapcsolatban az e törvény szerinti személyazonosító adatok közül az érintett TAJ számát, vagy ennek hiányában más azonosítóját, születési idejét, nemét, továbbá az érintett egészségi állapotával, kórelőzményével, egyes beavatkozásaival kapcsolatos egészségügyi adatokat (a továbbiakban: egészségügyi profil).
+35/J. § (1) Az érintett kezelőorvosa, ennek hiányában háziorvosa az érintett vércsoportjára vonatkozóan pedig az állami vérellátó szolgálat is, a 4. § (1) bekezdés a)–c) pontjában vagy a 4. § (2) bekezdés f) pontjában foglalt célból történő, az arra jogosult személyek részére történő hozzáférhetővé tétel érdekében az EESZT útján rögzíti az általa kezelt érintettel kapcsolatban az e törvény szerinti személyazonosító adatok közül az érintett TAJ számát, vagy ennek hiányában más azonosítóját, születési idejét, nemét, továbbá az érintett egészségi állapotával, kórelőzményével, egyes beavatkozásaival kapcsolatos egészségügyi adatokat (a továbbiakban: egészségügyi profil).
 
 (2) Az egészségügyi profilban rögzített adatokat az érintett halála után 5 évvel helyreállíthatatlanul törölni kell.
 
@@ -780,7 +782,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 ### Egészségügyi dokumentáció nyilvántartása az EESZT-n belül
 
-35/K. § (1) A csatlakozott adatkezelő köteles az EESZT útján a működtető részére a miniszter által rendeletben meghatározott tartalmi és formai követelményeknek megfelelő módon – az egészségügyi dokumentáció megismerésére jogosultaknak a 4. § (1) bekezdés a)–d) pontjában meghatározott célból az érintett dokumentumokhoz az EESZT útján való hozzáférés érdekében – megküldeni az egészségügyi ellátás során keletkezett alábbi dokumentumokat:
+35/K. § (1) A csatlakozott adatkezelő köteles az EESZT útján a működtető részére a miniszter által rendeletben meghatározott tartalmi és formai követelményeknek megfelelő módon – az egészségügyi dokumentáció megismerésére jogosultaknak a 4. § (1) bekezdés a)–d) pontjában vagy a 4. § (2) bekezdés f) pontjában meghatározott célból az érintett dokumentumokhoz az EESZT útján való hozzáférés érdekében – megküldeni az egészségügyi ellátás során keletkezett alábbi dokumentumokat:
 
 - 1. a fekvőbeteg-szakellátásban kiállított zárójelentés,
 - 2. a járóbeteg-szakellátásban kiállított ambuláns lap,
@@ -791,7 +793,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 (2) A csatlakozott adatkezelő az (1) bekezdés szerinti kötelezettségét úgy is teljesítheti, hogy miniszteri rendeletben meghatározott módon az EESZT rendelkezésére bocsátja az egészségügyi dokumentációnak az egészségügyi szolgáltató rendszerében található elérési útját, ha a műszaki követelményeknek való megfelelést a miniszter rendeletében meghatározottak szerint tanúsítás igazolja.
 
-(3) Az (1) bekezdés szerint megküldött dokumentumokról a működtető – annak érdekében, hogy az egészségügyi dokumentáció megismerésére jogosultak a 4. § (1) bekezdés a)–d) pontjában meghatározott célból az érintett dokumentumokhoz az EESZT útján hozzáférhessenek – az EESZT útján nyilvántartást vezet, amely tartalmazza
+(3) Az (1) bekezdés szerint megküldött dokumentumokról a működtető – annak érdekében, hogy az egészségügyi dokumentáció megismerésére jogosultak a 4. § (1) bekezdés a)–d) pontjában vagy a 4. § (2) bekezdés f) pontjában meghatározott célból az érintett dokumentumokhoz az EESZT útján hozzáférhessenek – az EESZT útján nyilvántartást vezet, amely tartalmazza
 
 - a) az érintett TAJ számát vagy ennek hiányában más azonosítóját, születési idejét, nemét,
 - b) az egészségügyi dokumentum előállítójának azonosításához szükséges adatokat,

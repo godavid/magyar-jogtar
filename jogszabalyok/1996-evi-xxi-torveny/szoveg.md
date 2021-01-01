@@ -168,7 +168,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - e)
 - f) gondoskodik a területfejlesztéssel kapcsolatos információs rendszerről, az adatszolgáltatás rendjéről;
 - g) kezeli a területfejlesztési célok megvalósítását közvetlenül szolgáló fejezeti kezelésű előirányzatot és koordinálja a területfejlesztési célok megvalósítását közvetetten szolgáló fejezeti kezelésű előirányzatok felhasználását;
-- h) a megyei önkormányzatok, a fővárosi önkormányzat a megyei jogú városok önkormányzatának egyetértésével, valamint a fővárosi kerületi önkormányzatok többségének egyetértésével kidolgozza a területi szempontú fejlesztéseket tartalmazó operatív programokat, gondoskodik megvalósításukról, érvényesülésük érdekében nyomon követi és értékeli azok végrehajtását;
+- h) a megyei önkormányzatok, a fővárosi önkormányzat és a megyei jogú városok önkormányzatainak bevonásával kidolgozza a területi szempontú fejlesztéseket tartalmazó operatív programokat, gondoskodik megvalósításukról, érvényesülésük érdekében nyomon követi és értékeli azok végrehajtását;
 - i) javaslatot tesz a kedvezményezett járások besorolásának feltételrendszerére és besorolására, a településfejlesztésért felelős miniszter közreműködésével;
 - j) összehangolja a közigazgatási szervek területfejlesztéssel kapcsolatos tevékenységét, szakmai irányítást gyakorol a területfejlesztés intézményrendszere felett;
 - k) javaslatot tesz a szabad vállalkozási zónák kijelölésére, működésük szabályozására;
@@ -194,7 +194,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 11. § (1) A megyei önkormányzat és a fővárosi önkormányzat területfejlesztési feladatai:
 
 - a) a területfejlesztési tervezéssel összefüggő feladatok ellátása keretében:
-  - aa) az országos fejlesztési és területfejlesztési koncepcióval összhangban – a megyei jogú városok önkormányzatának egyetértésével, valamint a fővárosi kerületi önkormányzatok többségének egyetértésével – kidolgozza és határozattal elfogadja a megyei és a fővárosi területfejlesztési koncepciót, illetve – a megyei és a fővárosi területfejlesztési koncepció és a megyei területrendezési terv figyelembevételével – a megyei és a fővárosi területfejlesztési programot, a területfejlesztés stratégiai tervezéséért felelős miniszter állásfoglalásának beszerzését követően,
+  - aa) az országos fejlesztési és területfejlesztési koncepcióval összhangban – a megyei jogú városok önkormányzatainak, valamint a fővárosi kerületi önkormányzatok bevonásával – kidolgozza és határozattal elfogadja a megyei és a fővárosi területfejlesztési koncepciót, illetve – a megyei és a fővárosi területfejlesztési koncepció és a megyei területrendezési terv figyelembevételével – a megyei és a fővárosi területfejlesztési programot, a területfejlesztés stratégiai tervezéséért felelős miniszter állásfoglalásának beszerzését követően,
   - ab) részt vesz az országos fejlesztési és területfejlesztési koncepció, valamint az operatív programnak kidolgozásában, a megyei jogú városok önkormányzata és a fővárosi kerületi önkormányzatok kötelező bevonásával észrevételeik figyelembevétel,
   - ac) előzetesen véleményezi az országos, valamint a megyét vagy a fővárost érintő ágazati fejlesztési koncepciókat és programokat a megyei jogú városok önkormányzata és fővárosi kerületi önkormányzatok kötelező bevonásával, észrevételeik figyelembevételével,
   - ad) előzetesen véleményezi a térségi területfejlesztési koncepciókat és programokat,

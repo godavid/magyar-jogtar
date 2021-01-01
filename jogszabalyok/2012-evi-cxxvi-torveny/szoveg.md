@@ -11,7 +11,7 @@ Az Országgyűlés az agrár- és élelmiszergazdaság, valamint a vidékfejlesz
 2. § E törvény alkalmazásában
 
 - a) gazda: Magyarország területén lakóhellyel, tartózkodási hellyel, székhellyel vagy telephellyel rendelkező
-  - aa) őstermelő,
+  - aa) mezőgazdasági őstermelő (a továbbiakban: őstermelő),
   - ab) az agrárgazdasági tevékenységet folytató egyéni vállalkozó, továbbá
   - ac) az aa) és ab) pont szerinti feltételek hiányában a földművesként nyilvántartott személy;
 - b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel, kereskedelmi képvi-selettel vagy fiókteleppel rendelkező
@@ -60,7 +60,7 @@ a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekez
 
 5. § (1) Kamarai tagság e törvény alapján:
 
-- a) őstermelő esetében az őstermelői igazolvány kiállításával;
+- a) mezőgazdasági őstermelőként történő nyilvántartásba vétellel
 - b) egyéni vállalkozó esetén bármely agrárgazdasági tevékenység végzésére jogosító nyilvántartásba vételről szóló igazolás kiadásával;
 - c) a 2. § b) pont ba) alpont szerint újonnan alapított gazdálkodó szervezet esetén a szervezet bírósági bejegyzésével, működő jogalany főtevékenységének agrárgazdasági tevékenységre történő kiterjesztése esetén az agrárgazdasági tevékenység folytatásának kezdőnapjával;
 - d) a 2. § b) pont bb) alpont szerinti gazdálkodó szervezet esetén az agrárgazdasági tevékenység folytatása és az élelmiszerlánc-felügyeleti információs rendszerben történő nyilvántartásba vétel együttes fennállásának napján;
@@ -69,13 +69,13 @@ a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekez
 
 keletkezik.
 
-(2) Közös őstermelői igazolvány kiváltása esetén a kamara tagjaként azt a gazdát kell nyilvántartásba venni, akinek a nevére a közös őstermelői igazolványt kiállították.
+(2) Őstermelők családi gazdaságában tag – az (1) bekezdés a) pontjától eltérően – csak akkor válik a kamara tagjává, ha az őstermelők családi gazdaságának képviselőjeként van bejegyezve.
 
-(3) Azon őstermelő, aki tárgyévben hatályos, de nem érvényesített őstermelői igazolvánnyal rendelkezik, a tárgyév negyedik hónapjától agrárkamarai tagságából származó jogait kizárólag az őstermelői igazolvány érvényesítését követően gyakorolhatja.
+(3)
 
-(4) Az azonos időpontban az (1) bekezdés a) és b) pontjának is megfelelő gazda esetében egy agrárkamarai tagsági jogviszony keletkezik. E rendelkezést megfelelően alkalmazni kell arra az esetre is, ha a gazda azonos tárgyéven belül szünteti meg egyéni vállalkozói tevékenységét, de őstermelői igazolványt vált ki, adja vissza őstermelői igazolványát és egyéni vállalkozói tevékenység végzését jelenti be, vagy egyéni vállalkozását egyéni céggé alakítja át.
+(4) Az azonos időpontban az (1) bekezdés a) és b) pontjának is megfelelő gazda esetében egy agrárkamarai tagsági jogviszony keletkezik. E rendelkezést megfelelően alkalmazni kell arra az esetre is, ha a gazda azonos tárgyéven belül szünteti meg egyéni vállalkozói tevékenységét, de őstermelőként nyilvántartásba veszik, őstermelői jogviszonyát megszünteti és egyéni vállalkozói tevékenység végzését jelenti be, vagy egyéni vállalkozását egyéni céggé alakítja át.
 
-(5) Az egyéni vállalkozói tevékenység szüneteltelése alatt az agrárkamarai tagsági jogviszony is szünetel, kivéve, ha a kamarai tagsági viszony az őstermelői igazolvány hatálya miatt egyébként fennáll.
+(5) Az egyéni vállalkozói tevékenység szüneteltelése alatt az agrárkamarai tagsági jogviszony is szünetel, kivéve, ha a kamarai tagsági viszony a mezőgazdasági őstermelőként történő nyilvántartás miatt egyébként fennáll.
 
 (6) Ha az (1) bekezdés c) és d) pontja hatálya alá tartozó gazdálkodó szervezet az agrárgazdasági tevékenység körébe tartozó tevékenységét a cégbejegyzést megelőzően megkezdi, a cégbejegyzés kérelmezésével egyidejűleg köteles az agrárkamaránál bejelentkezni. Ebben az esetben az agrárkamara ideiglenesen nyilvántartásba veszi az érintett gazdálkodó szervezetet, amelyet az agrárkamarai tag jogai illetnek meg és kötelezettségei terhelnek.
 
@@ -115,8 +115,8 @@ az alapszabályban meghatározottak szerint önkéntesen vállal kamarai tagság
 
 - a) az őstermelő:
   - aa) meghal,
-  - ab) az őstermelői igazolványát visszaadja, visszavonják,
-  - ac) az őstermelői igazolvány hatályának lejártát követő negyedik hónap utolsó napján;
+  - ab) az őstermelői nyilvántartásból törlésre kerül,
+  - ac)
 - b) az egyéni vállalkozó:
   - ba) meghal,
   - bb) az agrárgazdasági tevékenység körébe tartozó összes tevékenységét megszünteti,
@@ -128,7 +128,7 @@ az alapszabályban meghatározottak szerint önkéntesen vállal kamarai tagság
   - dc) a 2. § b) pont bb) alpontja szerinti esetben az élelmiszerlánc-felügyeleti információs rendszerből kivezetésre kerül, illetve valamennyi agrárgazdasági tevékenység folytatását megszünteti,
   - dd) a db) és a dc) alpont hatálya alá nem tartozó gazdálkodó szervezet a mezőgazdasági termelőszervezetekről vezetett nyilvántartásból való törléssel.
 
-(2) Amennyiben az (1) bekezdés a) pont ac) alpontja szerinti őstermelő a tárgyévet követő negyedik hónap lejártát követően nem vált ki őstermelői igazolványt, és a tárgyévet követően más jogcímen sem lesz az agrárkamara tagja, mentesül a tárgyévet követő négy hónap kamarai tagság alapján fizetendő tagdíj megfizetése, valamint bevallási és adatszolgáltatási kötelezettség teljesítése alól.
+(2)
 
 (3) Az agrárkamarai tagsági viszony megszűnésével – a (4) és (5) bekezdésben foglaltakra is figyelemmel – az agrárkamara a volt agrárkamarai tagot törli a tag jegyzékből.
 
@@ -159,8 +159,8 @@ nyilvántartást vezet.
   - ag) az adóazonosító jelét, adószámát,
   - ah) az egyéni vállalkozói nyilvántartási számát, székhelyét, telephelyét, fióktelepét, egyéni vállalkozói tevékenység szüneteltetésének kezdetét és végét,
   - ai) az őstermelői igazolványa számát, annak hatályossági és érvényességi időtartamát, valamint a biztosítási jogviszonyára vonatkozó adatát;
-  - aj) a családi gazdálkodói nyilvántartási számát,
-  - ak) a közös őstermelői igazolványban szereplő családtagjainak aa), ab), ac), ae), af) ag), al), ar) alpontok szerinti adatait,
+  - aj) az őstermelők családi gazdaságának alapításáról szóló szerződés számát,
+  - ak) az őstermelők családi gazdaságában szereplő tagok aa), ab), ac), ae), af), ag), al), ar) alpontok szerinti adatait,
   - al) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
   - am) az agrárkamarai nyilvántartási számát,
   - an) az általa folytatott agrárgazdasági tevékenységek körét,
@@ -184,6 +184,7 @@ nyilvántartást vezet.
   - bl) az élelmiszerlánc-felügyeleti szerv által az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott FELIR-azonosítót,
   - bm) az értesítési címét,
   - bn) a kamarai igazolvány számát, érvényességének kezdetét és végét;
+  - bo) a családi mezőgazdasági társasági minősítést.
 - c) természetes személy pártoló, önkéntes, tiszteletbeli tag a) pontban rögzített adatait;
 - d) nem természetes személy pártoló, önkéntes, tiszteletbeli tag b) pont ba)–bn) alpontokban rögzített adatait;
 - e) a kamarai tag önkéntes adatszolgáltatása alapján nyújtott adatait;
@@ -377,6 +378,8 @@ használhatja fel.
 
 (3) Az 5. § (4) bekezdése szerinti esetben a tagdíjfizetés alapja a tag őstermelői és egyéni vállalkozói tevékenységéből származó nettó árbevételeinek egybeszámított összege.
 
+(4) Őstermelők családi gazdaságának képviselője esetében a tagdíjfizetés alapja a képviselt őstermelők családi gazdasága tagjainak mezőgazdasági őstermelői tevékenységből származó nettó árbevételeik egybeszámított összege. Az egybeszámítás módját, idejét, egyéb részletszabályait az agrárkamara alapszabályában kell meghatározni.
+
 ### IV. Fejezet — AZ AGRÁRKAMARA FELADATAI
 
 12. § (1) Az agrárkamara szolgáltatási és igazgatási jellegű közfeladatokat lát el.
@@ -399,7 +402,9 @@ használhatja fel.
 
 13/A. § (1) Az agrárkamarát az ügyfél jogállása illeti meg azon közigazgatási hatósági ügyekben és az azokhoz kapcsolódó jogorvoslati eljárásokban, amelyekben nem közigazgatási hatóságként jogszabály által meghatározott feladatot lát el.
 
-(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 103. §-a alapján a helyi földbizottság feladatkörében eljáró agrárkamarát a helyi földbizottság állásfoglalása ellen előterjesztett kifogás elbírálására irányuló eljárásban – ideértve a jogorvoslati eljárásokat is – az ügyfél jogállása, továbbá a kifogás elbírálásáról szóló döntés elleni közigazgatási per vonatkozásában keresetindítási jog illeti meg.
+(2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény alapján a helyi földbizottság feladatkörében eljáró agrárkamarát a helyi földbizottság állásfoglalása ellen előterjesztett kifogás elbírálására irányuló eljárásban – ideértve a jogorvoslati eljárásokat is – az ügyfél jogállása, továbbá a kifogás elbírálásáról szóló döntés elleni közigazgatási per vonatkozásában keresetindítási jog illeti meg.
+
+(3) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti helyi földbizottság feladatkörében az agrárkamarának a szerződéssel érintett föld fekvése szerinti területi szerve alatt az agrárkamara föld fekvése szerinti megyei elnökségét kell érteni.
 
 #### 1. Az agrárkamara igazgatási jellegű közfeladatai
 
@@ -448,13 +453,13 @@ használhatja fel.
 
 (7) Az agrárkamara külön jogszabályban meghatározott egyes igazgatási feladatait a falugazdász hálózat útján látja el.
 
-(8) Az őstermelők nyilvántartásba vételével, az igazolvány kiállításával, érvényesítésével és visszaadásával kapcsolatos hatósági feladatokat – kormányrendeletben meghatározottak szerint – az agrárkamara látja el. Az agrárkamara jogosult ezen feladatával összefüggésben tudomására jutott adatok kezelésére, valamint azoknak a tagjegyzékbe, illetve a gazdaságszerkezeti nyilvántartásba történő átvételére és ezen nyilvántartásokban való kezelésére, továbbá az őstermelői igazolvány iránti kérelem előállításához a jogszabályban meghatározott őstermelői nyilvántartásban szereplő ügyféladatok és az ügyfélhez kapcsolódó igazolványadatok lekérdezésére. Az őstermelői igazolvány visszavonásáról – az agrárkamara egyidejű értesítése mellett – a Kormány által rendeletben meghatározott szerv határoz.
+(8) A mezőgazdasági őstermelők és őstermelők családi gazdasága, valamint családi mezőgazdasági társaságok nyilvántartásával kapcsolatos hatósági feladatokat az agrárkamara látja el. Az agrárkamara jogosult ezen feladatával összefüggésben tudomására jutott adatok kezelésére, valamint azoknak a tagjegyzékbe, illetve a gazdaságszerkezeti nyilvántartásba történő átvételére és ezen nyilvántartásokban való kezelésére, továbbá az őstermelői nyilvántartásba vétel iránti kérelem előállításához a jogszabályban meghatározott őstermelői nyilvántartásban szereplő ügyféladatok és az ügyfélhez kapcsolódó igazolványadatok lekérdezésére.
 
 #### 14/A. §
 
 15. § A tagok széles körét érintő jogszabályok, szabályozási koncepciók tárgyában az agrárpolitikáért, valamint az agrár-, vidékfejlesztésért felelős miniszter és az agrárkamara elnöke szükség szerint, de legalább évente kétszer szakmai konzultációt tart.
 
-15/A. § Az őstermelői igazolvány kiállítása és érvényesítése – kivéve az elveszett, megsemmisült, vagy megrongálódott igazolvány pótlását – tárgyi díj- és illetékmentes eljárás.
+#### 15/A. §
 
 15/B. § Az agrárkamara ellátja:
 
@@ -473,9 +478,9 @@ használhatja fel.
 - a) a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 17. § (1) bekezdésében, 21. §-ában, 22. § (2) bekezdésében foglalt feladatokat, valamint
 - b) a települési önkormányzat által létesített mezei őrszolgálat és a hegyközség által létrehozott hegyőrség megalakításához, fenntartásához és működéséhez nyújtandó állami hozzájárulás iránti kérelem elbírálásával összefüggő feladatokat.
 
-(2) Az agrárkamara ellátja a családi gazdaságok nyilvántartásba vételével összefüggő feladatokat és a családi gazdaságokról szóló nyilvántartásban rögzíti az adatokat.
+(2)
 
-(3) Az agrárkamara a (2) bekezdésben meghatározott feladata ellátása során biztosítja, hogy a nyilvántartásba vétel során a nyilvántartásba veendő személytől vagy szervtől független és pártatlan személy járjon el.
+(3)
 
 #### 2. Az agrárkamara szolgáltatási közfeladatai
 
@@ -532,9 +537,9 @@ használhatja fel.
 - a) az agrárkamara nevét és székhelyét;
 - b) az agrárkamara szervezetére, szerveinek működésére és tisztségviselőire vonatkozó főbb szabályokat;
 - c) az agrárkamara, illetve helyi és egyéb szervek, szervezeti egységek létesítése esetén azok feladatkörét, az agrárkamara más szervezeteihez való kapcsolódásának és működésének rendjét;
-- d) más gazdasági-, szakmai kamarákkal, hegyközségekkel és az országos gazdasági érdek-képviseleti szervezetekkel való együttműködés módját és részletes szabályait;
+- d)
 - e) az e törvényben meghatározottakon túl a tagok jogait és kötelezettségeit;
-- f) a választási névjegyzék és a tagjegyzék vezetésének részletes szabályait,
+- f)
 - g) a kamarai tagdíj mértékét, valamint a tagdíj fizetésének módját, feltételeit,
 - h)
 - i) a küldöttgyűlésébe történő delegálás részletes szabályait;
@@ -565,7 +570,7 @@ használhatja fel.
 - e) a választott tisztségviselők díjazásának jóváhagyása;
 - f) az Agrárkamarai Választottbíróság választottbíráinak megválasztása;
 - g) az éves saját bevételt meghaladó kölcsön felvételéről való döntéshozatal;
-- h) az agrárkamara éves költségvetésének meghatározásáról, az éves beszámoló és mérleg elfogadásáról való döntéshozatal;
+- h) az agrárkamara éves költségvetésének meghatározásáról, az elfogadott éves költségvetés módosításának szabályairól, az éves beszámoló és mérleg elfogadásáról való döntéshozatal;
 - i) a kamarai tagdíj mértékéről és megfizetésének módjáról való döntéshozatal;
 - j) az agrárkamara elnökének, alelnökeinek, az elnökség, valamint az ellenőrző és az etikai bizottság tagjainak megválasztása és visszahívása;
 - k) az országos, valamint a megyei küldöttgyűlési küldöttek választása rendjének a megállapítása.
@@ -580,9 +585,29 @@ használhatja fel.
 
 (3) Az országos küldöttgyűlés akkor határozatképes, ha a küldöttek több mint a fele jelen van. Ha az országos küldöttgyűlés nem volt határozatképes, az emiatt megismételt és eltérő napon tartott országos küldöttgyűlés az eredeti napirenden szereplő ügyekben a jelenlevő küldöttek számától függetlenül határozatképes.
 
-(4) Az országos küldöttgyűlés határozatait szótöbbséggel hozza. A 19. § (2) bekezdésének a)–c) pontjában meghatározott ügyekben való döntéshez a küldöttek legalább kétharmados többséggel hozott határozata szükséges. Az alapszabály valamely döntés meghozatala vonatkozásában nagyobb arányú többségi döntés feltételét is előírhatja.
+(4) Az országos küldöttgyűlés határozatait szótöbbséggel hozza. A 19. § (2) bekezdésének a)–c) pontjában meghatározott ügyekben való döntéshez a jelenlevő küldöttek legalább kétharmados többséggel hozott határozata szükséges. Az alapszabály valamely döntés meghozatala vonatkozásában nagyobb arányú többségi döntés feltételét is előírhatja.
 
 (5) Az országos küldöttgyűlés összehívására, lefolytatására, határozatainak meghozatalára vonatkozó részletes szabályokat az agrárkamara alapszabálya és más önkormányzati szabályzata állapítja meg.
+
+(6) Országos küldöttet az országos küldöttgyűlés ülésén másik küldött teljes jogkörrel helyettesíthet az alapszabályban meghatározottak szerint azzal, hogy egy országos küldöttgyűlésen országos küldött csak egy országos küldöttet helyettesíthet.
+
+20/A. § (1) Az alapszabály az országos küldöttgyűlés határozathozatalát ülés tartása nélkül is lehetővé teheti. Az ilyen határozathozatalt az elnök a határozat tervezetének az országos küldöttgyűlés tagjai részére az alapszabályban meghatározottak szerint történő megküldésével kezdeményezi.
+
+(2) Az országos küldöttgyűlés tagjai számára a tervezet kézhezvételétől számított legalább öt napot kell biztosítani a határozat tervezet áttanulmányozására, és ezen határidő elteltét követően legalább nyolcnapos határidőt kell biztosítani arra, hogy szavazatukat megküldjék az alapszabályban meghatározottak szerint az elnök részére.
+
+(3) Az ülés tartása nélküli döntéshozatal során e törvénynek a határozatképességre és szavazásra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a határozathozatali eljárás akkor eredményes, ha legalább annyi szavazatot megküldenek az alapszabályban meghatározottak szerint az elnök részére, amennyi országos küldöttgyűlési tag jelenléte a határozatképességéhez szükséges lenne ülés tartása esetén.
+
+(4) Ha az országos küldöttgyűlési tagok egyötöde kívánja az országos küldöttgyűlés összehívását, és ezen igényüket a határozat tervezet áttanulmányozására biztosított időszak alatt az alapszabályban meghatározottak szerint az elnök részére bejelentik, az országos küldöttgyűlés ülését az elnöknek össze kell hívnia.
+
+(5) A szavazásra megállapított határidő utolsó napját követő három napon belül – ha valamennyi országos küldöttgyűlési tag szavazata ezt megelőzően érkezik meg, akkor az utolsó szavazat beérkezésének napjától számított három napon belül – az elnök megállapítja a szavazás eredményét, és azt legkésőbb három napon belül közli az országos küldöttgyűlési tagokkal. A határozathozatal napja a szavazási határidő utolsó napja, ha valamennyi szavazat korábban beérkezik, akkor az utolsó szavazat beérkezésének napja.
+
+20/B. § (1) Az alapszabály lehetővé teheti, hogy az országos küldöttgyűlés az országos küldöttgyűlés tagjainak személyes megjelenés helyett elektronikus hírközlő eszköz igénybevételével kerüljön megtartásra. Az alapszabály az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját úgy határozza meg, hogy az országos küldöttgyűlés tagjai azonosítása és az országos küldöttgyűlési tagok közötti kölcsönös és korlátozásmentes kommunikáció biztosított legyen.
+
+(2) Az országos küldöttgyűlési tag az országos küldöttgyűlési ülésén jogait személyes részvétel helyett elektronikus hírközlő eszközök igénybevételével akkor gyakorolhatja, ha ezt az alapszabály lehetővé teszi. Az alapszabály az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját úgy határozza meg, hogy az országos küldöttgyűlési tag azonosítása és az országos küldöttgyűlési tagok közötti kölcsönös és korlátozásmentes kommunikáció biztosított legyen.
+
+(3) Az elektronikus hírközlő eszköz alkalmazásával tartott országos küldöttgyűlésen elhangzottakat és meghozott határozatokat úgy kell rögzíteni, hogy azok utóbb is ellenőrizhetőek legyenek.
+
+20/C. § A megyei (fővárosi) küldöttgyűlésre a 20/A. és 20/B. §-ban foglaltakat kell alkalmazni.
 
 ### Az agrárkamara megyei szervezete
 
@@ -672,7 +697,7 @@ használhatja fel.
 
 (4) A főigazgatót az elnök irányítja.
 
-(5) A főigazgató az agrárkamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat – a (6) és (7) bekezdésben foglalt eset kivételével – önállóan gyakorolja.
+(5) A főigazgató az agrárkamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat – a (6), a (7) és a (9) bekezdésben foglalt eset kivételével – önállóan gyakorolja.
 
 (6) A főigazgató megyei (fővárosi) ügyintéző szervezeti egységének vezetője felett a munkáltatói jogokat a főigazgató gyakorolja, azzal, hogy a munkaviszony létesítéséről, megszüntetéséről csak az agrárkamara adott megyei szervezete elnökével történt előzetes egyeztetés alapján dönthet.
 
@@ -684,9 +709,11 @@ használhatja fel.
 
 (10) Az agrárkamara hatáskörébe utalt közigazgatási ügyekben az agrárkamara szervezeti és működési szabályzatában meghatározottak szerint a főigazgató a közigazgatási szerv vezetőjeként jár el. Ezekben az ügyekben ügyintézőként csak az járhat el, aki a kormányzati igazgatásról szóló törvény szerint kormánytisztviselőnek kinevezhető.
 
-27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, – e törvény eltérő rendelkezése hiányában – első fokon az agrárkamara megyei ügyintéző szervezete jár el. A megyei ügyintéző szervezet döntése ellen fellebbezésnek van helye, amelynek elbírálására az agrárkamara országos ügyintéző szervezete jogosult.
+(11) Az agrárkamara ügyintéző szervezete országos és megyei ügyintéző szervezetekből áll. Az agrárkamara ügyintéző szervezetének szervezeti és működési szabályzatát a főigazgató javaslata alapján az alapszabályban rögzítettek szerint az elnök állapítja meg.
 
-28. § Az agrárkamara országos, megyei ügyfélszolgálati rendszert működtet. Az agrárkamara az ügyfélszolgálaton keresztül teljesíti a 14. és 16. §-ban előírt igazgatási és szolgáltatási jellegű feladatait. Az ügyfélszolgálat működési területének kijelölését, működési rendjét az elnökség által elfogadott szervezeti és működési szabályzat tartalmazza, melyet a főigazgató köteles előterjeszteni.
+27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, – jogszabály eltérő rendelkezése hiányában – első fokon az agrárkamara megyei ügyintéző szervezete jár el. A megyei ügyintéző szervezet döntése ellen fellebbezésnek van helye, amelynek elbírálására az agrárkamara országos ügyintéző szervezete jogosult.
+
+#### 28. §
 
 ### Az agrárkamara tisztségviselőire vonatkozó közös rendelkezések
 
@@ -817,7 +844,7 @@ használhatja fel.
 
 (3) Az agrárkamara csak olyan gazdasági társaságnak lehet tagja, illetve olyan társaságban szerezhet részesedést, amelyben felelőssége vagyoni hozzájárulásának mértékét nem haladja meg.
 
-(4) Az agrárkamara (2) bekezdés szerinti gazdasági társasága az agrárkamara gazdasági tevékenységet is igénylő közfeladatainak ellátása során a közfeladatai ellátását veszélyeztető mértékű kölcsönt nem vehet fel, váltót, illetve más hitelviszonyt megtestesítő értékpapírt nem bocsáthat ki, az államháztartás alrendszereitől kapott támogatást kölcsön fedezetéül, illetve kölcsön törlesztésére nem használhatja fel, továbbá ideiglenesen felszabaduló szabad pénzeszközeit csak állami garanciavállalás mellett kibocsátott értékpapírba fektetheti.
+(4) Az agrárkamara (2) bekezdés szerinti gazdasági társasága az agrárkamara gazdasági tevékenységet is igénylő közfeladatainak ellátása során a közfeladatai ellátását veszélyeztető mértékű kölcsönt nem vehet fel, váltót, vagy más hitelviszonyt megtestesítő értékpapírt nem bocsáthat ki, továbbá ideiglenesen felszabaduló szabad pénzeszközeit csak állami garanciavállalás mellett kibocsátott értékpapírba fektetheti.
 
 ### IX. Fejezet — TÖRVÉNYESSÉGI ELLENŐRZÉS ÉS JOGORVOSLAT
 

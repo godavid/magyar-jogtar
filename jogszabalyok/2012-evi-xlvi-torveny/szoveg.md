@@ -249,6 +249,8 @@ díj-, költség- és térítésmentesen hozzáférhet.
 
 (33) Az öntözési igazgatási szerv az öntözési célú beruházásokhoz szükséges térképmásolatokhoz díj-, költség- és térítésmentesen hozzáférhet.
 
+(34) A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvényben meghatározott osztatlan közös tulajdon megszüntetésére irányuló eljárás lefolytatásához szükséges, a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz az ingatlanok megosztása céljából létrehozott és a Nemzeti Földalap kezeléséért felelős szerv által üzemeltetett informatikai program számára a hozzáférést díj-, költség- és térítésmentesen kell biztosítani.
+
 #### 6. Az ország térképellátása
 
 7. § (1) Az állam az ország térképellátását az állami alapadatok, térképi adatbázisok készítésével, fenntartásával, korszerűsítésével, tárolásával és szolgáltatásával biztosítja.
@@ -389,9 +391,9 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (2) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmát érintő változásokat, az (5) bekezdésben foglaltak kivételével, a földrészlet tulajdonosa, illetve a tulajdonosi jogok gyakorlója (a továbbiakban: kötelezett), a változás bekövetkeztétől számított harminc napon belül, az ingatlan-nyilvántartási jogszabályok előírásainak megfelelően köteles bejelenteni az ingatlanügyi hatóságnak. Közös tulajdon esetén, a bejelentési kötelezettség elmulasztásából eredő felelősség a tulajdonostársakat egyetemlegesen terheli.
 
-(3) Ha az ingatlanügyi hatóság bejelentésre vagy hivatalból a (2) bekezdés hatálya alá tartozó olyan változást észlel, amelyet az arra kötelezett nem jelentett be, – határidő tűzésével – harminc napon belül felszólítja a kötelezettet a változás átvezetésére alkalmas munkarészek, valamint az átvezetéshez szükséges okiratok és egyéb hatósági engedélyek, igazolások benyújtására.
+(3) Ha az ingatlanügyi hatóság bejelentésre vagy hivatalból a (2) bekezdés hatálya alá tartozó olyan változást észlel, amelyet az arra kötelezett nem jelentett be, – határidő tűzésével – harminc napon belül kötelezi a kötelezettet a változás átvezetésére alkalmas munkarészek, valamint az átvezetéshez szükséges okiratok és egyéb hatósági engedélyek, igazolások benyújtására.
 
-(4) Amennyiben a kötelezett az előírt határidő lejártáig a felszólításnak nem tesz eleget, az ingatlanügyi hatóság a kötelezett költségére intézkedik a változás beméréséről és az ingatlan-nyilvántartási jogszabályokban meghatározottak szerinti átvezetéséről.
+(4) Amennyiben a kötelezett az előírt határidő lejártáig a kötelezésnek nem tesz eleget, az ingatlanügyi hatóság a kötelezett költségére intézkedik a változás beméréséről és az ingatlan-nyilvántartási jogszabályokban meghatározottak szerinti átvezetéséről.
 
 (5) A földrészlet határvonalának változását elrendelő, megállapító vagy engedélyező közigazgatási, illetve bírósági határozatokat – az ingatlanügyi hatóság által a helyrajzi számozás és a területszámítás helyessége szempontjából vizsgált, érvényes záradékkal rendelkező – az állami ingatlan-nyilvántartási térképi adatbázis tartalmi és pontossági előírásainak megfelelő változási vázrajz alapján kell meghozni.
 
@@ -566,6 +568,8 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 - g) a felmérési, térképezési és területszámítási hibák kiigazítására irányuló munkák,
 - h) jogok ingatlan-nyilvántartási bejegyzéséhez, valamint tények feljegyzéséhez szükséges földmérési munkák, valamint
 - i) a földrendező és földkiadó bizottságokról szóló törvény szerinti közös tulajdon megszüntetésével kapcsolatos földmérési munkák.
+
+(1a) Nem minősül az (1) bekezdés szerinti egységes ingatlan-nyilvántartás tartalmának változását eredményező földmérési munkának a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény alapján készülő térképvázlat és területkimutatás előállítására irányuló tevékenység.
 
 (2) Ingatlan-nyilvántartási célú földmérési tevékenységnek minősül az (1) bekezdésben foglaltakon kívül a földrészlethatárok kitűzésével és a földrészleten belüli használati megosztással kapcsolatos munka.
 
@@ -748,6 +752,8 @@ végzi.
 
 (11) A földmérési és térképészeti állami alapadat-adatbázisok jogosulatlan adatfelhasználásáért az adatot felhasználó kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
 
+(12) A (9) és (11) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetés szankció alkalmazásának nincs helye.
+
 29. § (1) Ingatlanrendező földmérő minősítést igénylő személy a földmérési és térinformatikai államigazgatási szerv részére hatósági bizonyítvánnyal igazolja, hogy a 28. § (7) bekezdés c) pontjában meghatározott kizáró ok vele szemben nem áll fenn.
 
 (2) A földmérési és térinformatikai államigazgatási szerv az engedélyhez kötött tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a tevékenységet végző személlyel szemben nem áll fenn a 28. § (7) bekezdés b)–c) pontjában meghatározott kizáró ok. A hatósági ellenőrzést folytató földmérési és térinformatikai államigazgatási szerv – kizárólag e célból – adatot igényelhet a bűnügyi nyilvántartó szervtől.
@@ -821,7 +827,7 @@ végzi.
 
 (2) Az állami átvételt követően az állami alapadatok és adatbázisok az állam tulajdonát képezik, azok előállításával és szolgáltatásával kapcsolatban az adattal rendelkezni jogosult – ha e törvény másként nem rendelkezik – további térítésre nem tarthat igényt.
 
-(3) Az állami földmérési és térképészeti adatbázisok, adatok, termékek, munkarészek továbbfelhasználására, illetve azokról további másolatok készítésére, értéknövelt termékek előállítására a tulajdonosi jogok gyakorlójával kötött megállapodás alapján kerülhet sor. A továbbértékesítés céljából történő másolásért vagy bármilyen célú felhasználásért a tulajdonosi jogok gyakorlóját szerződésben meghatározott díj illeti meg.
+(3) Az állami földmérési és térképészeti adatbázisok, adatok, termékek, munkarészek továbbfelhasználására, illetve azokról további másolatok készítésére, értéknövelt termékek előállítására a tulajdonosi jogok gyakorlója által kiadott engedély alapján kerülhet sor. A továbbértékesítés céljából történő másolásért vagy bármilyen célú felhasználásért az adatot szolgáltató ingatlanügyi hatóságot, illetve a honvédelemért felelős miniszter által rendeletben kijelölt szervezetet szerződésben meghatározott díj illeti meg.
 
 (4) A törvény alkalmazásában másolásnak minősül a térképek, adatbázisok, valamint a földmérési, távérzékelési és térképészeti állami alapadatok digitális átalakítása is.
 
@@ -847,7 +853,7 @@ végzi.
 
 (3)
 
-(4) A Nemzeti Kataszteri Program megvalósítására létrehozott szervezet állami tulajdonban álló társasági részesedése feletti tulajdonos jogokat gyakorló miniszter szakmai kérdésekben az agrárpolitikáért felelős miniszter egyetértésével jár el.
+(4)
 
 #### 27. Az ágazati igazgatás feladatai
 

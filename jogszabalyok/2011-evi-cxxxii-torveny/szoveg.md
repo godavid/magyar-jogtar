@@ -111,6 +111,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 - c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
 - d) közszolgálati tisztviselő, kormánytisztviselő,
 - e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott
+- f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel
 
 tölthet be.
 
@@ -130,7 +131,7 @@ tölthet be.
 
 (3) A (2) bekezdés szerinti felróhatóság szempontjából a hivatásos szolgálati viszony megszüntetésekor kiadott szolgálati viszonyra vonatkozó igazolás az irányadó.
 
-16/A. § A honvédségi szervezet, illetve a rendvédelmi szerv állományába tartozó és az Egyetemen megbízási szerződéssel foglalkoztatott óraadó oktatókat az Egyetem katonai, rendészeti, valamint nemzetbiztonsági alap- és mesterképzési szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.
+16/A. § A honvédségi szervezet, rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal állományába tartozó és az Egyetemen megbízási szerződéssel foglalkoztatott óraadó oktatókat az Egyetem katonai, rendészeti, valamint nemzetbiztonsági alap- és mesterképzési szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.
 
 16/B. § (1) A közalkalmazotti jogviszonyt – a közalkalmazottak jogállásáról szóló törvényben meghatározottakon túl – felmentéssel megszüntetheti az Egyetem, ha
 
@@ -218,7 +219,7 @@ gyakorolhatja.
 21/A. § (1) A költségviselés formája szerint az Egyetem képzésében részt vevő lehet
 
 - a) közszolgálati ösztöndíjas hallgató,
-- b) önköltség fizetésére nem kötelezett hallgató, aki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos, illetve a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos vagy szerződéses jogviszonyban (a továbbiakban együtt: hivatásos vagy szerződéses jogviszony) vagy tisztjelölti jogviszonyban áll,
+- b) önköltség fizetésére nem kötelezett hallgató, aki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos, a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos vagy szerződéses jogviszonyban, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban együtt: hivatásos vagy szerződéses jogviszony) vagy tisztjelölti jogviszonyban áll,
 - c) önköltséges hallgató, vagy
 - d) a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 2. § f) pontjában meghatározott ösztöndíjas hallgató (a továbbiakban: rendészeti ösztöndíjas hallgató).
 
@@ -277,7 +278,7 @@ kezeli.
 - i) végzettség, szakképzettség, szakképesítés, képesítés, szaktanfolyami vizsga, közigazgatási vizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség megléte vagy megkezdése, továbbá
 - j) a pályaalkalmassági vizsgálatok részeként pályaalkalmassági orientációs beszélgetésen való megfelelés.
 
-24. § A honvédtiszti alapképzésre és a rendészeti képzés nappali munkarendben történő alapképzésére az a 18. életévét betöltött, de a felvétel évében 25. életévét be nem töltött – a rendvédelmi szervek hivatásos állományú tagjai esetében 30 évesnél nem idősebb –, cselekvőképes, magyar állampolgársággal rendelkező személy vehető fel, aki a jelentkezők egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelel. További feltétel, hogy a hallgató hozzájárul a honvédtiszti alapképzés tekintetében a nemzetbiztonsági alkalmasságának ellenőrzéséhez, rendészeti képzés nappali munkarendben történő alapképzés tekintetében a kifogástalan életvitel ellenőrzéshez, és vállalja a tisztjelölti szolgálati viszony létesítését és fenntartását az alapképzés idejére.
+24. § A honvédtiszti alapképzésre és a rendészeti képzés nappali munkarendben történő alapképzésére az a 18. életévét betöltött, de a felvétel évében 25. életévét be nem töltött – a rendvédelmi szervek hivatásos állományú tagjai és a pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban állók esetében 30 évesnél nem idősebb –, cselekvőképes, magyar állampolgársággal rendelkező személy vehető fel, aki a jelentkezők egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelel. További feltétel, hogy a hallgató hozzájárul a honvédtiszti alapképzés tekintetében a nemzetbiztonsági alkalmasságának ellenőrzéséhez, rendészeti képzés nappali munkarendben történő alapképzés tekintetében a kifogástalan életvitel ellenőrzéshez, és vállalja a tisztjelölti szolgálati viszony létesítését és fenntartását az alapképzés idejére.
 
 25. § A honvédtiszti alap- és mesterképzésben részt vevő hallgató hallgatói jogviszonya különleges jogrendben, valamint a katasztrófák megelőzése érdekében elrendelt közreműködés idején szünetelhet. A hallgatói jogviszony ettől eltérő szüneteltetését a Magyar Honvédség személyügyi szervének vezetője engedélyezheti.
 
@@ -317,7 +318,7 @@ kezeli.
 - f) különleges jogrendben, valamint a katasztrófák megelőzése érdekében elrendelt közreműködés idején egyéb rendészeti feladat ellátására, valamint
 - g) a rendészetért felelős miniszter által elrendelt feladatokat ellátni.
 
-(3) A rendészeti képzés nappali munkarendben tanuló hivatásos állományú hallgatóját a (2) bekezdés c), f) és g) pontjaiban, ösztöndíjas hallgatóját a (2) bekezdés f) pontban rögzített feladatok végrehajtásáért külön jogszabályban meghatározott térítés illeti meg, amelyet az adott rendvédelmi szerv költségvetésében kell biztosítani. Az érintett hallgató számára a térítést az adott rendvédelmi szerv folyósítja.
+(3) A rendészeti képzés nappali munkarendben tanuló hivatásos állományú, valamint pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban álló hallgatóját a (2) bekezdés c), f) és g) pontjában, ösztöndíjas hallgatóját a (2) bekezdés f) pontjában rögzített feladatok végrehajtásáért jogszabályban meghatározott térítés illeti meg, amelyet az adott rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal költségvetésében kell biztosítani. Az érintett hallgató számára a térítést az adott rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal folyósítja.
 
 (4) A szakmai gyakorlat teljesítése során a hallgató állományviszonyának megfelelően jogosult, illetve köteles a szerv szolgálati feladatainak végrehajtásában közreműködni, bármely cselekménynél jelen lenni, intézkedésben részt venni, részfeladatokat felügyelet mellett végrehajtani.
 
@@ -325,7 +326,7 @@ kezeli.
 
 31. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató, valamint a doktori képzésben részt vevő hivatásos vagy szerződéses állományú hallgató külföldi tanulmányokat a Magyar Honvédség parancsnokának engedélyével folytathat. A honvédtiszti alap- és mesterképzésben részt vevő hallgató esetében vendéghallgatói és további (párhuzamos) hallgatói jogviszony létesítéséhez, valamint a további szakképesítés, illetve szakképzettség megszerzéséhez szükséges tanulmányok folytatásához a Magyar Honvédség személyügyi szerve vezetőjének előzetes engedélye szükséges.
 
-(2) A rendészeti felsőoktatási alap-, mester- és doktori képzésben részt vevő hivatásos állományú hallgató külföldi tanulmányokat, résztanulmányokat az adott rendvédelmi szerv országos parancsnokának előzetes engedélyével folytathat. Vendéghallgatói jogviszonyt, illetve további (párhuzamos) hallgatói jogviszonyt az adott rendvédelmi szerv országos parancsnokának előzetes engedélyével létesíthet.
+(2) A rendészeti felsőoktatási alap-, mester- és doktori képzésben részt vevő hivatásos állományú, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban álló hallgató külföldi tanulmányokat, résztanulmányokat az adott rendvédelmi szerv országos parancsnokának, illetve a Nemzeti Adó- és Vámhivatal vezetőjének előzetes engedélyével folytathat. Vendéghallgatói jogviszonyt, illetve további (párhuzamos) hallgatói jogviszonyt az adott rendvédelmi szerv országos parancsnokának, illetve a Nemzeti Adó- és Vámhivatal vezetőjének előzetes engedélyével létesíthet.
 
 (3) Az (1) és (2) bekezdésben foglalt engedély megtagadását indokolni kell.
 
@@ -339,7 +340,8 @@ kezeli.
 - b) a hallgató – ide nem értve a honvéd tisztjelöltet – körülményeiben olyan változás állt be, amelynek következtében már nem felel meg a felvételkor támasztott alkalmassági követelményeknek,
 - c) a hallgató a tanulmányi kötelezettségét a tanulmányi és vizsgaszabályzatban megengedett mértéket meghaladóan önhibájából nem teljesítette,
 - d) a honvéd tisztjelölti jogviszonyra figyelemmel létesített hallgatói jogviszony esetén a honvéd tisztjelölti jogviszony megszűnt, vagy
-- e) a hivatásos jogviszony alapján létesített hallgatói jogviszony esetén a hivatásos jogviszony megszűnt.
+- e) a hivatásos jogviszony alapján létesített hallgatói jogviszony esetén a hivatásos jogviszony megszűnt,
+- f) adó- és vámhatósági szolgálati jogviszony alapján létesített hallgatói jogviszony esetén a szolgálati jogviszony megszűnt.
 
 (3) Az Egyetem az elbocsátást köteles megindokolni. Az indokolásból az elbocsátás okának világosan ki kell tűnnie, továbbá szükség esetén az Egyetemnek kell bizonyítania, hogy az elbocsátás indoka valós és okszerű.
 

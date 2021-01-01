@@ -70,125 +70,39 @@ a bejelentés alapján visszanyerik tagságukat. A bejelentést a szövetkezet v
 
 ### A termőföldre vonatkozó sajátos szabályok
 
-13. § (1) Vételi jog illeti meg — a helyileg kialakult áron —
+13. §
 
-- a) a szövetkezeti szakcsoport tagját a legalább öt éve használatában álló földre;
-- b) a haszonbérlőt a legalább öt éve használatában álló földre, valamint
-- c) a volt szövetkezeti tagot a megváltott földjére, ha azt a megváltás óta megszakítás nélkül használja,
+14. §
 
-amennyiben tulajdonszerzési szándékát a szövetkezet felhívásától számított egy hónapon belül bejelenti. A szövetkezet az így megszerzett kárpótlási jegyeket a Kpt. 7. § (1) bekezdésében foglaltak szerint felhasználhatja.
+15. §
 
-(2) Az (1) bekezdésben meghatározott vételi jog a (3) bekezdés a) és d) pontjában meghatározott földalapok terhére nem gyakorolható.
-
-(3) A mezőgazdasági szövetkezet a közös használatában álló, továbbá a bármilyen címen tulajdonába került földekből — helyrajzi szám szerint meghatározva — elkülöníti.
-
-- a) a tagok, a velük azonos jogállású személyek és a kívülállók (a továbbiakban együtt: részarány-földtulajdonos) tulajdonában levő földet,
-- b) a tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. év XXV. törvény (a továbbiakban: Kpt.) 17. §-ában meghatározott földalapot,
-- c) a Magyar Állam tulajdonában lévő földeket,
-- d) a Kpt, 15—16. és 18—20 §-aiban meghatározott földet az ott megjelölt árverés céljára.
-
-(4) A mezőgazdasági szövetkezet a kárpótlásra jogosulttal megállapodhat abban, hogy ha a jogosult a szövetkezet tulajdonába került termőföldek után az őt megillető kárpótlási jegyét a szövetkezetnek átadja, a szövetkezet a jogosult részére a kárpótlási jegy kiállítása alapjául szolgáló aranykorona (a továbbiakban: AK) értékben termőföldet ad részarány-tulajdonba.
-
-(5) A (4) bekezdésben említett megállapodás csak a Kpt. 20—23. §-ában meghatározott árverés lefolytatása után fennmaradó földterületre vonatkozóan köthető meg.
-
-14. § (1) A 13. § (3) bekezdésének a) és d) pontjaiban meghatározott földeket úgy kell kijelölni, hogy azok azon a településen, illetőleg elsősorban a település azon részén legyenek kijelölve, ahol azok a tulajdonosoktól a szövetkezet közös használatába kerültek.
-
-(2) A 13. § (3) bekezdésének a) pontjában meghatározott földeket úgy kell kijelölni, hogy:
-
-- a) e földek kataszteri jövedelme (a továbbiakban: AK értéke) feleljen meg a részarány-földtulajdonosokat az ingatlannyilvántartás szerint megillető összesített AK értéknek;
-- b) e földeken, valamint a szövetkezet közös használatában álló földeken belül az azonos művelési ágú, illetve a művelés alól kivett területek mennyisége arányaiban feleljen meg egymásnak;
-- c) e földek egy hektárra vonatkozó összesített átlagos AK értéke, legfeljebb tízszázalékos eltéréssel, feleljen meg a részarány-földtulajdonosok tulajdonaként nyilvántartott földek egy hektárra számított átlagos AK értékének.
-
-(3) Ha a tulajdonosnak az e törvény és a Kpt. alapján többféle jogcímen és földalapból keletkezett részerány-tulajdona van, a részarány-tulajdonokat az ingatlanügyi hatóság a tulajdonos kezdeményezésére – az ingatlannyilvántartás szabályainak figyelembevételével – összevonja.
-
-15. § (1) A 13. § (3) bekezdésének a), b) és d) pontjában meghatározott földeket a 14. §-ban meghatározottakon túlmenően úgy kell kijelölni, hogy
-
-- a) az egyes földalapokon, illetőleg a szövetkezet által ki nem jelölt földeken belül az azonos művelési ágú területek mennyisége arányaiban feleljen meg egymásnak;
-- b) az erdő és a legelő művelési águ termőföld lehetőleg egy tagban maradjon;
-- c) a talajvédelmi feladatot ellátó, a meliorációs és öntözési létesítményekkel berendezett terület működőképessége illetőleg a talajvédelmi követelményeknek megfelelő földhasznosítás továbbra is biztosítható legyen;
-- d) az a földterület, amelyen gazdasági központ, gazdasági épület áll, az okszerű gazdálkodás követelményei szerint hasznosítható legyen;
-- e) a Kpt.-ben meghatározott árverezők részére belterülethez csatlakozó vagy ahhoz közel eső termőföldek is rendelkezésre álljanak;
-- f) ha a szövetkezet termőföldje több települést érint, a kijelölt termőföldekből az érintett települések az AK érték arányában részesedjenek;
-- g) az AK értékben ki nem fejezett értéknövekedést tartalmazó termőföldek a kijelölt földterületek között arányosan jelenjenek meg;
-- h) a Kpt. 17. §-ában meghatározott földalap [13. § b) pont] képzése során a szövetkezet tulajdonába polgári jogcímen került földet is figyelembe kell venni;
-- i) a — lakott tanyákhoz tartozó termőföldek kivételével, melyek kijelöléséhez a természetvédelmi hatóság hozzájárulása szükséges — nemzeti park, nemzetközi egyezmény hatálya alá tartozó és a fokozottan védett terület, továbbá — szántó, gyümölcsös, kert, szőlő művelési ágba tartozó termőföldek kivételével, amelynek kijelöléséhez a természetvédelmi hatóság hozzájárulása szükséges — egyéb védett természeti terület ne kerüljön bele.
-
-(2) A Kpt.-ben meghatározott árverésre nem jelölhető ki az a föld, amely a kijelölés időpontjában is személyi használatban vagy tartós földhasználatban van.
-
-(3) Az (1) bekezdés i) pontjában meghatározott rendelkezést kell alkalmazni védelemre tervezett területek esetében is. Védelemre tervezett területeken a nyilvántartásba vett és a védetté nyilvánítást előkészítő eljárás alá vont területeket kell érteni.
-
-(4)
-
-(5) A földalapokba ki nem jelölhető védett és védelemre tervezett természeti területeket a szövetkezet közös használatában álló, a Magyar Állam tulajdonában álló földekre kell elkülöníteni. E területeken a szövetkezet közös használati joga megszűnik, e területeket a védett természeti területek természetvédelmi kezeléséért felelős szerv kezelésébe kell adni.
-
-16. § A mezőgazdasági szövetkezet közös használatában levő utak — a közutak kivételével — a helyi önkormányzat tulajdonába kerülnek.
+16. §
 
 17. §
 
-18. § A Magyar Állam tulajdonaként a földeket (földrészleteket) úgy kell elkülöníteni, hogy azok összesített AK értéke feleljen meg az ingatlannyilvántartás szerint a Magyar Államot megillető AK értéknek, és ezek elsősorban azon a településen, illetőleg a településnek azon a részén legyenek kijelölve, ahol eredetileg voltak.
+18. §
 
 19. §
 
-20. § (1) A termőföldeknek a különböző tulajdonú földalapok (13. §) céljára történő elkülönítésével kapcsolatban az e törvényben meghatározott feltételek megvalósulásának ellenőrzése céljából az érdekeltek helyi érdekegyeztető fórumot (a továbbiakban: fórum) alakítanak.
+20. §
 
-(2) A fórum a településen földdel rendelkező szövetkezetenként, illetőleg a szövetkezet működése által érintett településenként alakítható meg. Megalakítását az igénybejelentők vagy a szövetkezet legkésőbb 1992. február 29-ig a helyi (a fővárosban a kerületi) önkormányzatnál kezdeményezhetik, amely a fórumot a bejelentéstől számított tizenöt napon belül köteles megalakítani.
+21. §
 
-(3) A fórum munkájában a helyi önkormányzat(ok) megbízottja(i), a kárpótlási igényt bejelentők közül a képviselő-testület által megválasztott 3—11 személy, a szövetkezet megbízottja és a részarány-földtulajdonosok képviselője vesz részt. A fórumban a nem helyben lakók képviseletét is biztosítani kell.
+22. §
 
-(4) A fórum ügyrendjét maga állapítja meg, működési feltételeit a megalakító önkormányzat biztosítja a központi költségvetés terhére.
+23. §
 
-21. § (1) A szövetkezet a 13. § szerinti földalapok elkülönítésének tervezetét a Kpt. 15. §-a (1) bekezdésében meghatározott kötelezettségének megfelelően — az értesítéstől számított harminc napon belül — köteles a fórumnak véleményezésre megküldeni, amely nyolc napon belül tehet észrevételt a tervezetre.
+24. §
 
-(2) A szövetkezet az (1) bekezdés szerinti tervezet elkészítése során összeállítja a kijelölt földrészletek (táblák) jegyzékét és azokat az ingatlanügyi hatóság által előzetes rendelkezésre bocsátott 1:10 000 méretarányú átnézeti térképen ábrázolja.
+25. §
 
-(3) Ha a szövetkezet nem ért egyet a fórum észrevételével, a felek az észrevétel közlésétől számított nyolc napon belül megkísérlik az egyezség létrehozását. A megkötött egyezséget meg kell küldeni jóváhagyás végett a kárpótlási hatósághoz.
+25/A. §
 
-(4) Ha a (3) bekezdésben említett egyezség nem jött létre, a szövetkezet az egyezségkötésre nyitva álló határidő utolsó napjától számított nyolc napon belül a tervezetet és az észrevételeket a kárpótlási hatóságnak megküldi.
+25/B. §
 
-(5) A kárpótlási hatóság az észrevételek alapján a (4) bekezdés szerinti dokumentumok benyújtásától számított tizenöt napon belül határozatot hoz, amelyben
+26. §
 
-- a) helybenhagyja a szövetkezet által készített tervezetet, vagy
-- b) megállapítja, hogy a tervezet sérti a Kpt. és e törvény földkijelölésre vonatkozó szabályait, és megfelelő határidő kitűzésével a szövetkezetet a törvénysértés megszüntetésére kötelezi.
-
-(6)
-
-(7)
-
-(8) Ha a szövetkezet a végleges határozatban foglaltaknak az előírt határidőn belül nem tesz eleget, a kijelölést a határozat alapján a szövetkezet költségére az ingatlanügyi hatóság végzi el.
-
-22. § Ha a szövetkezet közös használatában lévő földek AK értéke kisajátítás, nem értékarányos földcsere, művelési ág változás vagy más ok miatt kevesebb mint a részarány-földtulajdonosot az ingatlannyilvántartás szerint megillető AK érték, ez utóbbi AK értéket és a tulajdonként kimutatott területnagyságot a tényleges állapotnak megfelelően tulajdonosonként arányosan csökkenteni, és erről az ingatlanügyi hatóságot értesíteni kell. A részarány-földtulajdonost — legfeljebb 2000 Ft/AK érték alapulvételével, a szövetkezet választása szerint készpénzben vagy szövetkezeti üzletrész formájában — kártalanítani kell.
-
-23. § (1) A szövetkezet a földkijelölés egyeztetett (megállapított) tervezetét a kárpótlási hatóságnak, továbbá az ingatlanügyi hatóságnak haladéktalanul megküldi.
-
-(2) Az ingatlanügyi hatóság a részére megküldött térkép és táblakijelölés alapján — a központi költségvetés célelőirányzatából — gondoskodik az árverésre kijelölt táblák földmérési és földminősítési szempontú előkészítéséről. Ennek során a helyszínen ellenőrzi a kijelölt táblák adatainak az ingatlannyilvántartás adataival való megegyezését, és érvényesíti a földminőségben és a művelési ágban bekövetkezett — a gazdálkodó szerv által be nem jelentett — változásokat.
-
-24. § A szövetkezet közös használatából kikerült erdőben és legelőn — ha jogszabály másként nem rendelkezik — osztatlan közös gazdálkodást kell folytatni.
-
-25. § (1) A Kpt. szerinti, árverésre való kijelöléssel nem érintett valamennyi földet a tagok, a Kpt. 17. §-ában meghatározott mértékű földet pedig a tagok és az alkalmazottak tulajdonába kell adni, kivéve, ha a jogosult e jogáról lemond. A tulajdonba adásra a vagyonnevesítés szabályait kell megfelelően alkalmazni.
-
-(2) A közgyűlés úgy határozhat, hogy az (1) bekezdésben meghatározott földekből a 8. §-ban felsorolt személyek részére is juttat tulajdoni részarányt.
-
-(3) A Kpt. szerinti árverés lebonyolítása után megmaradó szövetkezeti tulajdonú földet a vagyonnevesítés szabályainak megfelelő alkalmazásával a tagok tulajdonába kell adni.
-
-(4)
-
-(5) Az (1) bekezdés második fordulata és a (3) bekezdés szerinti vagyonnevesítésre – ha az még nem történt meg – csak a részarány-tulajdon rendezésénél mutatkozó AK hiány megszüntetése után kerülhet sor.
-
-(6) Ha a szövetkezet (jogutódja) az (1) és a (3) bekezdésben foglaltaknak a földkiadás befejezését követő 60 napon belül nem tesz eleget, a maradvány termőföldek e törvény erejénél fogva a Magyar Állam tulajdonába és a Nemzeti Földalapba kerülnek.
-
-(7) Aki a vagyonnevesítés szabályai szerint jogosultságát hitelt érdemlően igazolja a Nemzeti Földalap földkészletéből termőföldet igényelhet, vagy pénzbeni kártalanításra tarthat igényt 4000 Ft/AK értéken.
-
-25/A. § (1) Ha a részarány-földkiadási eljárás lezárását követően a jogutód nélkül megszűnt, illetve felszámolás, végelszámolás alatt álló szövetkezet javára bejegyzett szövetkezeti földhasználati jog alatt álló földrészlet (a továbbiakban: maradványterület) szerepel az ingatlan-nyilvántartásban, a maradványterületet a mezőgazdasági igazgatási szerv határozattal a Magyar Állam tulajdonába adja. A maradványterület a Nemzeti Földalapba kerül.
-
-(2) Az (1) bekezdésben foglalt részarány-földkiadási eljárás akkor tekinthető lezártnak, ha a szövetkezet valamennyi termelőszövetkezeti különlapján nyilvántartott részarány-tulajdon kiadásra került és a termelőszövetkezeti különlapokat az ingatlanügyi hatóság megszüntette. A termelőszövetkezeti különlapok megszüntetését követően az ingatlanügyi hatóság 60 napon belül elkészíti a szövetkezet záró aranykorona-mérlegét, és helyrajzi számok szerint összesíti a maradványterületeket. Az ingatlanügyi hatóság a záró aranykorona-mérleget és az összesített maradványterületek adatait (helyrajzi szám, terület, aranykorona érték) közli a mezőgazdasági igazgatási szervvel.
-
-(3) A mezőgazdasági igazgatási szerv a záró aranykorona-mérleg és az összesített maradványterületek adatainak közlését követő 30 napon belül hozza meg az (1) bekezdés szerinti határozatot.
-
-25/B. § Azokban az esetekben, amikor a földalapok elkülönítéséről, illetve kijelöléséről szóló határozat az egyes kárpótlással összefüggő törvények módosításáról szóló 2016. évi CII. törvény (a továbbiakban: Tv.) hatálybalépése napján vagy azt követően vált végrehajthatóvá, a határozat alapján elkülönített, illetve kijelölt kárpótlási földalap tekintetében a kárpótlási árverés a Tv. hatálybalépése napját megelőző napon hatályos szabályok szerint tartható meg.
-
-26. § A 25. § szerinti változást az ingatlannyilvántartásban a tulajdonos részarány-tulajdonaként kell feltüntetni.
-
-27. § A részarány-földtulajdonos kérésére az ingatlannyilvántartásban feltüntetett tulajdoni részarányoknak és AK értékenek megfelelő nagyságú és értékű földet részére ki kell adni.A föld önálló ingatlanná alakításának költsége és a tulajdonjog ingatlan-nyilvántartási bejegyzésének illetéke — ha törvény másként nem rendelkezik — a tulajdonost terheli.
+27. §
 
 ### II. Fejezet — A SZERVEZETI VÁLTOZÁSOK ÁTMENETI SZABÁLYAI
 

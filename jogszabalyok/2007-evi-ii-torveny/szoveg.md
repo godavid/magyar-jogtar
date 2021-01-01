@@ -1718,7 +1718,9 @@ származó jövedelemmel rendelkezik.
 - e) a vízum vagy tartózkodási engedély száma és
 - f) a beutazás időpontja, helye.
 
-(2) A kereskedelmi szálláshelyen vagy jogi személy által fenntartott egyéb szálláshelyen megszálló harmadik országbeli állampolgár (1) bekezdésben meghatározott adatairól a szállásadó az előírt formanyomtatvány szerinti nyilvántartást (vendégkönyvet) vezet.
+(2) A kereskedelmi szálláshelyen vagy jogi személy által fenntartott egyéb szálláshelyen megszálló harmadik országbeli állampolgár a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény (a továbbiakban: Turizmus tv.) 6/B. alcímében meghatározott adatait a szállásadó a harmadik országbeli állampolgár szálláshelyre történő bejelentkezésekor a Turizmus tv.-ben meghatározott módon a Kormány által kijelölt tárhelyszolgáltató tárhelyén rögzíti.
+
+(3) A (2) bekezdés szerint rögzített adatokat az idegenrendészeti hatóság a tárhelyszolgáltató útján a szálláshely-szolgáltatótól, informatikai alkalmazás útján veszi át és azokról a tartózkodás jogszerűségének nyomon követése érdekében nyilvántartást vezet.
 
 ### A születés bejelentése
 
@@ -2672,7 +2674,7 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 - f) anyja születési családi és utóneve (utónevei);
 - g) állampolgárság (állampolgárságok) vagy hontalan státusz.
 
-94/A. § A 95. § (1) bekezdésében, a 96. § (1) bekezdésében, a 97. § (1) bekezdésében, a 98. § (1) bekezdésében, a 99. § (1) bekezdésében, a 99/A. § (1) bekezdésében, a 100. § (1) bekezdésében, a 101. § (1) bekezdésében, a 102. § (1) és (2) bekezdésében, a 103. § (1) bekezdésében és a 104. § (1) bekezdésében meghatározott nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+94/A. § A 95. § (1) bekezdésében, a 96. § (1) bekezdésében, a 97. § (1) bekezdésében, a 98. § (1) bekezdésében, a 99. § (1) bekezdésében, a 99/A. § (1) bekezdésében, a 100. § (1) bekezdésében, a 101. §-ban, a 102. § (1) és (2) bekezdésében, a 103. § (1) bekezdésében és a 104. § (1) bekezdésében meghatározott nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 ### Idegenrendészeti résznyilvántartások
 
@@ -2799,13 +2801,7 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 
 (2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott adatokat az okmány megtalálásáig, ennek hiányában az adatbeviteltől számított legfeljebb 10 évig kezeli.
 
-101. § (1) Az idegenrendészeti hatóság a harmadik országbeli állampolgár szálláshelyének, lakóhelyének bejelentésével összefüggő következő adatait kezeli:
-
-- a) a természetes személyazonosító adatok;
-- b) a bejelentkezés, kijelentkezés időpontja;
-- c) a szálláshely címe, lakcím.
-
-(2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott adatokat a szálláshely, lakóhely bejelentésétől, illetve a vendégkönyv leadásától számított öt évig kezeli.
+101. § Az idegenrendészeti hatóság a harmadik országbeli állampolgár szálláshelyének, lakóhelyének bejelentésével összefüggő, a 73. § (1) és (2) bekezdésében szereplő adatokat a bejelentéstől számított öt évig kezeli.
 
 102. § (1) Az idegenrendészeti hatóság a Magyarország vagy az Európai Unió tagállamai területének elhagyására kötelezett, a kijelölt helyen tartózkodásra kötelezett, az idegenrendészeti kiutasítás, a menekültügyi hatóság által elrendelt kiutasítás, a bírói kiutasítás, a beutazási és tartózkodási tilalom, a kiutasítást előkészítő őrizet, valamint az idegenrendészeti őrizet hatálya alatt álló harmadik országbeli állampolgár következő adatait kezeli:
 
@@ -3291,3 +3287,5 @@ való megfelelést szolgálja.
 - o) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2018. november 14-i (EU) 2018/1806 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(3) E törvény a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló (EU) 2018/1806 rendeletnek az Egyesült Királyság Unióból való kilépése tekintetében történő módosításáról szóló, 2019. április 10-i (EU) 2019/592 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

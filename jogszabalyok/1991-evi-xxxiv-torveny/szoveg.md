@@ -138,7 +138,7 @@ követte el és ezért a kérelem benyújtását megelőző 3 éven belül joger
 
 (7) Nem folytatható belföldön, külföldön vagy nemzetközi együttműködés keretében szervezett szerencsejátékban történő részvételre Magyarországon értékesítési, szervező, közvetítő tevékenység, ha a szerencsejáték szervezésére a szerencsejáték-felügyeleti hatóság nem adott engedélyt.
 
-(7a) Szerencsejátékot népszerűsítő reklám kizárólag a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5. § (1) bekezdésének és 21. §-ának megfelelően tehető közzé Magyarországon. A külön jogszabályban meghatározott hatóság az e rendelkezések megsértésével közzétett szerencsejáték tárgyú reklám (a továbbiakban: tiltott reklám) esetén a reklámozót, a reklámszolgáltatót, a reklám közzétevőjét és a reklámban szereplő személyt egyetemlegesen a tiltott reklámmal elért vagyoni előny tízszeresének megfelelő, de legalább 10 millió forint összegű bírsággal sújthatja. Ha nem állapítható meg a reklámozó, a reklámszolgáltató vagy a reklámban szereplő személy, a külön jogszabályban meghatározott hatóság a bírságot a reklám közzétevőjével szemben állapítja meg.
+(7a) Szerencsejátékot népszerűsítő reklám kizárólag a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5. § (1) bekezdésének és 21. §-ának megfelelően tehető közzé Magyarországon. A külön jogszabályban meghatározott hatóság az e rendelkezések megsértésével közzétett szerencsejáték tárgyú reklám (a továbbiakban: tiltott reklám) esetén a reklámozót, a reklámszolgáltatót, a reklám közzétevőjét és a reklámban szereplő személyt egyetemlegesen a tiltott reklámmal elért vagyoni előny tízszeresének megfelelő, de legalább 10 millió forint összegű közigazgatási bírsággal sújthatja. Ha nem állapítható meg a reklámozó, a reklámszolgáltató vagy a reklámban szereplő személy, a külön jogszabályban meghatározott hatóság a közigazgatási bírságot a reklám közzétevőjével szemben állapítja meg.
 
 (8) A szerencsejáték-szervező a (4) bekezdés b) és d) pontjaiban és az (5) bekezdésben meghatározott személyi megfelelőségének folyamatosan fenn kell állnia, ennek érdekében azt a szervező háromévente igazolni köteles, a szerencsejáték-felügyeleti hatóság pedig a személyi megfelelőség meglétét köteles ellenőrizni. A személyi megfelelőség meghosszabbítására irányuló kérelmet a személyi megfelelőség érvényességéig kell benyújtani a szerencsejáték-felügyeleti hatósághoz, a határidőben benyújtott kérelem esetén annak végleges döntéssel történő elbírálásáig a szerencsejáték-felügyeleti hatóság vélelmezi a személyi megfelelőség fennállását.
 
@@ -302,7 +302,7 @@ hatásköréhez kapcsolódóan a megbízható szervezői minőség 37. § 30. po
 
 (3) A szerencsejáték szervező tevékenység körébe tartozó, az engedély kiadásánál figyelembe vett tény vagy körülmény változásáról a szerencsejáték-felügyeleti hatóságot harminc 30 belül köteles értesíteni.
 
-10. § (1) A szerencsejáték-felügyeleti hatóság a szerencsejátékból származó nyeremények, játékosokat megillető egyéb kifizetések, illetve szerencsejáték ügyben kiszabott bírság fedezetének biztosítása céljából biztosítékot írhat elő. A biztosíték letételének, vagy a (2) bekezdésben foglaltak elmulasztása az engedély visszavonásával jár.
+10. § (1) A szerencsejáték-felügyeleti hatóság a szerencsejátékból származó nyeremények, játékosokat megillető egyéb kifizetések, illetve szerencsejáték ügyben kiszabott közigazgatási bírság fedezetének biztosítása céljából biztosítékot írhat elő. A biztosíték letételének, vagy a (2) bekezdésben foglaltak elmulasztása az engedély visszavonásával jár.
 
 (2) A biztosíték igénybevétele esetén a szerencsejáték szervező köteles annak pótlásáról 8 napon belül gondoskodni.
 
@@ -340,27 +340,29 @@ hatásköréhez kapcsolódóan a megbízható szervezői minőség 37. § 30. po
 
 (11) A szerencsejáték-felügyeleti hatóság a nemzetközi együttműködésben szervezett szerencsejáték esetén az át nem vett nyeremények felhasználását a valamennyi részt vevő szerencsejáték-szervező által közösen kialakított és elfogadott játékszabályok szerint engedélyezi, ennek során a (7b)–(10) bekezdésben foglaltaktól eltérő játékszabályok is engedélyezhetők. Ha az át nem vett nyeremények felhasználását minden részt vevő szerencsejáték-szervező szabadon alakíthatja ki, a szerencsejáték-felügyeleti hatóság az engedélyt a (7b)–(10) bekezdés alkalmazásával adja ki.
 
-12. § (1) A szerencsejáték-felügyeleti hatóság a szerencsejáték-szervezőt, illetve az e törvény hatálya alá tartozó tevékenységet folytató bármely szervezetet vagy személyt, valamint a szervezetek vezetőjét vagy vezető tisztségviselőjét a (2)–(3) bekezdésekben foglaltak szerinti bírság megfizetésére kötelezi.
+12. § (1) A szerencsejáték-felügyeleti hatóság a szerencsejáték-szervezővel, illetve az e törvény hatálya alá tartozó tevékenységet folytató bármely szervezettel vagy személlyel, valamint a szervezetek vezetőjével vagy vezető tisztségviselőjével szemben a (2)–(3) bekezdésekben foglaltak szerinti közigazgatási bírságot szabhat ki.
 
-(2) A bírság összege a 6. § (1) bekezdésében foglalt szabályok megszegése esetén
+(2) A közigazgatási bírság összege a 6. § (1) bekezdésében foglalt szabályok megszegése esetén
 
 - a) a fogadást szervezővel szemben 200 ezer forinttól 4 millió forintig,
 - b) a játékkaszinó üzemeltetőjével szemben 1 millió forinttól 10 millió forintig terjedhet.
 
-(3) A bírság
+(3) A közigazgatási bírság
 
 - a) 50 ezer forinttól 500 ezer forintig terjedhet az 1. § (8) bekezdésébe, 9. § (3) bekezdésébe, a 16. § (2) bekezdésébe, a 17. § (1) bekezdésébe, a 18. § (1) bekezdésébe, az ajándéksorsolást szervezővel szemben a 23. §-ba és a 36. § (3) bekezdésébe, 36/C–E. §-ba,
 - b) 100 ezer forinttól 10 millió forintig terjedhet az 1. § (5a)–(6d) bekezdésébe, a 9. § (2) bekezdésébe, a 11. § (7a)–(10) bekezdésébe, a 17. § (4) bekezdésébe, a 26. § (4) bekezdésébe, a 26/B. § (5) bekezdésébe, a 27. § (9) és (11) bekezdéseibe, a 29/A. § (3) bekezdésébe, 29/B. § (2), (5)–(8) bekezdéseibe, valamint az e törvény végrehajtására kiadott jogszabály rendelkezéseibe,
 - c) 200 ezer forinttól 3 millió forintig terjedhet az 1. § (7a) bekezdésébe, a 9. § (1) bekezdésébe, az ellenőrzési díj meg nem fizetése esetén a 11. § (1) bekezdésébe, a 13. § (1) bekezdésének b)–d) pontjaiba, a 18. § (2) bekezdésébe, a 19. § (1) bekezdésébe, a 28. § (1)–(2) bekezdéseibe, 29/B. § (9) bekezdésébe, a 30. § (4) bekezdésébe és a 30/B. §-ba,
 - d) 500 ezer forinttól 100 millió forintig terjedhet az 1. § (4)–(5) bekezdésébe, a 2. § (2) és (7) bekezdéseibe, a 26. § (3) bekezdésébe, 29/B. § (3) bekezdésébe, 29/C–V. §-ba és a 30. § (3) bekezdésébe ütköző tevékenység vagy mulasztás esetén.
 
-(4) Ha a szerencsejáték-felügyeleti hatóság megállapítja, hogy az e törvény hatálya alá tartozó tevékenységet folytató szervezet vagy személy a (2) és (3) bekezdésben foglalt előírásokat megsértette, kivételes esetben és figyelemmel a tényállás összes körülményére – a bírság kiszabása mellett vagy a bírság kiszabásának mellőzésével – kötelezheti a jogsértőt a jogsértés abbahagyására, illetve elrendelheti a jogsértő állapot megszüntetését.
+(4) Ha a szerencsejáték-felügyeleti hatóság megállapítja, hogy az e törvény hatálya alá tartozó tevékenységet folytató szervezet vagy személy a (2) és (3) bekezdésben foglalt előírásokat megsértette, közigazgatási szankció alkalmazása mellett kötelezheti a jogsértőt a jogsértés abbahagyására, illetve elrendelheti a jogsértő állapot megszüntetését.
 
-(5) Nem lehet bírságot kiszabni a mulasztásnak vagy a kötelezettségszegésnek a szerencsejáték-felügyeleti hatóság tudomására jutásától számított hat hónapon, illetve az elkövetéstől, illetve az új eljárás elrendelése esetén az új eljárás lefolytatását elrendelő ítélet jogerőre emelkedésétől számított két éven túl.
+(4a) Kizárt a figyelmeztetés szankció alkalmazása engedély nélküli szerencsejáték-szervezés esetén. A szerencsejáték-felügyeleti hatóság a tényállás összes körülményére figyelemmel a (3) bekezdés d) pontjában meghatározott bírság alsó mértékénél alacsonyabb összegű közigazgatási bírság kiszabásáról, vagy annak mellőzéséről is dönthet.
 
-(6) A bírság kiszabásánál figyelembe kell venni a mulasztás vagy a kötelezettségszegés súlyát, és azt, hogy a jogsértővel szemben a szerencsejáték-felügyeleti hatóság a jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt végleges döntésével szabott-e ki bírságot.
+(5) Nem lehet közigazgatási bírságot kiszabni a mulasztásnak vagy a kötelezettségszegésnek a szerencsejáték-felügyeleti hatóság tudomására jutásától számított hat hónapon, illetve az elkövetéstől, illetve az új eljárás elrendelése esetén az új eljárás lefolytatását elrendelő ítélet jogerőre emelkedésétől számított két éven túl.
 
-(7) A bírság együttesen, illetve a 13. § (1)–(3) bekezdéseiben foglalt intézkedés mellett is kiszabható. Több bírság együttes kiszabása esetén a bírságok együttes összege meghaladhatja a (3) bekezdés pontjaiban meghatározott egyes bírságösszegek felső határát.
+(6) A közigazgatási bírság kiszabásánál figyelembe kell venni a mulasztás vagy a kötelezettségszegés súlyát, és azt, hogy a jogsértővel szemben a szerencsejáték-felügyeleti hatóság a jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt végleges döntésével szabott-e ki közigazgatási bírságot.
+
+(7) A közigazgatási bírság együttesen, illetve a 13. § (1)–(3) bekezdéseiben foglalt intézkedés vagy közigazgatási szankció mellett is kiszabható. Több közigazgatási bírság együttes kiszabása esetén a bírságok együttes összege meghaladhatja a (3) bekezdés pontjaiban meghatározott egyes bírságösszegek felső határát.
 
 13. § (1) A szerencsejáték-szervező engedélyét a szerencsejáték-felügyeleti hatóság legfeljebb 3 éves időtartamra vagy az akadályok elhárulásáig felfüggesztheti, ha a szerencsejáték-szervező
 
@@ -381,7 +383,7 @@ hatásköréhez kapcsolódóan a megbízható szervezői minőség 37. § 30. po
 
 (2a) Az eltiltás pénznyerő automaták és kártyaterem üzemeltetése esetén meghatározott játékkaszinóban, illetve kártyateremben folytatott szerencsejáték-szervezői tevékenységre vonatkozóan is alkalmazható.
 
-(3) A szerencsejáték-felügyeleti hatóság a játékkaszinó és kártyaterem működtetőjével, valamint a fogadás, távszerencsejáték és online kaszinójáték szervezőjével, vagy előbbiek vezető tisztségviselőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az e §-ban meghatározott intézkedéseket alkalmazhatja.
+(3) A szerencsejáték-felügyeleti hatóság a játékkaszinó és kártyaterem működtetőjével, valamint a fogadás, távszerencsejáték és online kaszinójáték szervezőjével, vagy előbbiek vezető tisztségviselőjével szemben a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt rendelkezések megsértése esetén a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az e §-ban meghatározott intézkedéseket, valamint közigazgatási szankciókat alkalmazhatja.
 
 (4) Ha a szerencsejáték szervező a működését az engedély megadásától számított hat hónapon belül nem kezdi meg, továbbá ha azt engedély nélkül szünetelteti, az engedély visszavonható.
 
@@ -1076,7 +1078,7 @@ alkalmazni kell azzal az eltéréssel, hogy ahol a törvény adóhatóságot eml
 
 (3d) Az ellenőrzés során az ellenőrzött köteles felszólításra ruházatát kiüríteni és a birtokában lévő tárgyakat az ellenőröknek átadni.
 
-(3e) Ha a helyszíni ellenőrzés zavartalan lefolytatása másképpen nem biztosítható, a szerencsejáték-felügyeleti hatóság a rendőrségről szóló törvény szerinti rendőri intézkedés megtételét kezdeményezheti, vagy a NAV hivatásos állományú, jelen lévő tagja útján az eljárás zavartalan lefolytatását biztosíthatja a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések alkalmazásával.
+(3e) Ha a helyszíni ellenőrzés zavartalan lefolytatása másképpen nem biztosítható, a szerencsejáték-felügyeleti hatóság a rendőrségről szóló törvény szerinti rendőri intézkedés megtételét kezdeményezheti, vagy a NAV pénzügyőri munkakört betöltő, jelen lévő foglalkoztatottja útján az eljárás zavartalan lefolytatását biztosíthatja a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések alkalmazásával.
 
 (3f) A helyszíni ellenőrzés esetében az ellenőrzési jogosultságot a szerencsejáték-felügyeleti hatóság alkalmazottja a szerencsejáték-felügyeleti hatóság által kiállított arcképes igazolvánnyal és a szerencsejáték-felügyeleti hatóság vezetője által kiállított, az e törvény hatálya alá tartozó játékok ellenőrzésére jogosultságot biztosító megbízólevéllel köteles igazolni. A helyszíni ellenőrzést legalább két ellenőr együttesen végzi.
 
@@ -1189,7 +1191,7 @@ fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megf
 
 (2) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
 
-(3) A szerencsejáték-felügyeleti hatóság 1 millió forinttól 5 millió forintig terjedő bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely a 36/G. § és e § szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
+(3) A szerencsejáték-felügyeleti hatóság 1 millió forinttól 5 millió forintig terjedő közigazgatási bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely a 36/G. § és e § szerinti kötelezettségének nem tesz eleget. A közigazgatási bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
 
 36/I. § (1) Az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség az elrendelést követő 365 nap elteltével megszűnik.
 
@@ -1235,7 +1237,7 @@ fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megf
 
 (3) A kérelem elbírálása és a feltételek meghatározása során figyelembe kell venni a fizetési nehézség kialakulásának okait és körülményeit.
 
-(4) Nem engedélyezhető fizetési könnyítés, ha a kérelmezővel szemben a szerencsejáték-felügyeleti hatóság a fizetési könnyítési kérelemmel érintett jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt véglegesen bírságot szabott ki.
+(4) Nem engedélyezhető fizetési könnyítés, ha a kérelmezővel szemben a szerencsejáték-felügyeleti hatóság a fizetési könnyítési kérelemmel érintett jogsértést megelőző 2 éven belül – sorsolásos játék és fogadás esetén azonos értékesítőhelyhez, fogadóirodához köthetően – hasonló jogsértés miatt véglegesen közigazgatási bírságot szabott ki.
 
 (5) Magánszemély vagy egyéni vállalkozó esetében a fizetési könnyítés a (2) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha a kérelmező igazolja vagy valószínűsíti, hogy a bírság azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel súlyos megterhelést jelent.
 
@@ -1284,7 +1286,7 @@ fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megf
 - 30. Megbízható szerencsejáték-szervező: a 3. § (1) bekezdés a) pontja és (1a) bekezdése szerinti szerencsejáték-szervező, továbbá az a szerencsejáték-szervező, aki a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
   - a) valamennyi, az állami adóhatóság által nyilvántartott, 10 000 000 Ft-ot meghaladó közteherre vonatkozó bevallási és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
   - b) egyik bankszámláján sem volt 10 000 000 Ft-ot meghaladó azonnali beszedési megbízás az adóhatóság részéről, illetve működése során az állami adóhatóság nem indított ellene 10 000 000 Ft-ot meghaladó érték tekintetében végrehajtási eljárást,
-  - c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt a szerencsejáték-felügyeleti hatóság esetenként ötmillió forint összeget meghaladó bírsággal sújtotta volna,
+  - c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt a szerencsejáték-felügyeleti hatóság esetenként ötmillió forint összeget meghaladó közigazgatási bírsággal sújtotta volna,
   - d) legalább 5 éven keresztül folytatott a szerencsejáték-felügyeleti hatóság engedélyével a koncessziós szerződés alapján gyakorolni kívánt tevékenység szerinti szerencsejáték szervezésére irányuló tevékenységet Magyarországon,
   - e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.
 - 31.

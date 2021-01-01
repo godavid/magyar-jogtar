@@ -89,6 +89,8 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél, a befolyásszerzőnél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben, valamint a Hivatal egyéb határozatában foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
 
+(2a) Bírság kiszabása esetén a Hatóság – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túl – mérlegeli a jogsértő állapot megszüntetése érdekében tett, a Hivatal eljárását megelőző, attól független tevékenységet.
+
 (3) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult a (2) bekezdésben meghatározottaktól eseti és rendszeres információt kérni, jogszabályban vagy hatósági döntésben előírt kötelezettségével, engedélyhez kötött tevékenységével vagy a távhőszolgáltatási támogatással kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is.
 
 (4) Közigazgatási perben nincs helye a keresetlevél halasztó hatálya elrendelésének, ha a Hivatal határozatában a távhőszolgáltatási támogatás igénybevételének jogszerűsége, engedélyes kijelölése vagy engedélyének visszavonása tárgyában döntött.
@@ -832,4 +834,7 @@ megállapodásokat.
 
 61/C. § E törvénynek az energetikai tárgyú törvények, valamint egyes klímapolitikai és adózási tárgyú törvények módosításáról szóló 2018. évi XCIX. törvénnyel megállapított 5. §-át első alkalommal a 2019. évi felügyeleti díjbevallás során – a 2018. évi árbevételre vonatkozóan – kell alkalmazni.
 
-62. § Ez a törvény az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikkének való megfelelést szolgálja.
+62. § Ez a törvény
+
+- a) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikkének, továbbá
+- b) az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelv 1. cikk 6., 8., 10. pontjának és a Melléklet 3. pontjának való megfelelést szolgálja.

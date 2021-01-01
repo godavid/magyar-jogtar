@@ -64,7 +64,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 ### Bejelentés
 
-6. § (1) A veszélyes anyagokat és a veszélyes keverékeket – a (2) bekezdésben foglaltak kivételével – Magyarország területén gyártó, forgalmazó az azokkal kapcsolatos gyártási, forgalomba hozatali tevékenység megkezdésével egyidejűleg, az egészségügyért felelős miniszter 34. § (4) bekezdés a) pontjában foglalt felhatalmazás alapján kiadott rendeletében foglaltak szerint, a biztonsági adatlap, vagy a biztonsági adatlap és a címketerv csatolásával köteles elektronikus úton bejelenteni az egészségügyi államigazgatási szervnek, ha a veszélyes anyag az 5. § (3) bekezdése szerinti magyarországi jegyzékben, illetve a veszélyes keverék a terméknyilvántartásban még nem szerepel. A bejelentő köteles az általa bejelentett veszélyes anyag és keverék biztonsági adatlapjának változását és a forgalmazás megszüntetését is elektronikus úton jelenteni.
+6. § (1) A veszélyes anyagokat és a veszélyes keverékeket – a (2) bekezdésben foglaltak kivételével – Magyarország területén gyártó, forgalmazó az azokkal kapcsolatos gyártási, forgalomba hozatali tevékenység megkezdésével egyidejűleg, az egészségügyért felelős miniszter 34. § (4) bekezdés a) pontjában foglalt felhatalmazás alapján kiadott rendeletében foglaltak szerint, a biztonsági adatlap, vagy a biztonsági adatlap és a címketerv csatolásával köteles elektronikus úton bejelenteni az egészségügyi államigazgatási szervnek, ha a veszélyes anyag magyarországi jegyzékben, illetve a veszélyes keverék a terméknyilvántartásban még nem szerepel. A bejelentő köteles az általa bejelentett veszélyes anyag és keverék biztonsági adatlapjának változását és a forgalmazás megszüntetését is elektronikus úton jelenteni.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően nem kell bejelenteni a kizárólag ellenőrzött körülmények között végzett kutatási és fejlesztési célra, kísérleti gyártásra és nem termelőüzemi méretű kipróbálásra gyártott, illetőleg forgalmazott veszélyes anyagokat vagy veszélyes keverékeket. A magyarországi gyártó, illetőleg forgalmazó a rendelkezésre álló, a veszélyesség meghatározása, a tevékenységet végző egészségének biztonsága szempontjából lényeges adatokat és információkat ebben az esetben is köteles a tevékenységet végző rendelkezésére bocsátani. Minden olyan magyarországi gyártónak vagy forgalmazónak, aki (amely) a bejelentés mellőzésével élni kíván, az egészségügyi államigazgatási szerv által hozzáférhető írásbeli nyilvántartást kell vezetnie a gyártott, illetőleg forgalomba hozott veszélyes anyagról vagy veszélyes keverékről, a feliratozási és mennyiségi adatokról. A magyarországi gyártót, illetve forgalmazót a bejelentés mellőzésének lehetősége a gyártástól, illetőleg a forgalomba hozataltól vagy ezek megkezdésétől számított egy évig illeti meg, amely az egészségügyi államigazgatási szerv engedélyével egy évig meghosszabbítható, ha a magyarországi gyártó, illetve forgalmazó a meghosszabbítás szükségességét indokolja.
 
@@ -159,7 +159,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (5) A veszélyes anyaggal, és a veszélyes keverékkel tevékenységet végző a kockázat kezelése, csökkentése érdekében intézkedéseket dolgoz ki. Ez a kötelezettség nem érinti az Mvt.-ben, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvényben, valamint a REACH-ben foglalt egyéb követelmények teljesítését.
 
-(6) Az (1)–(2), valamint az (4)–(5) bekezdésben foglalt rendelkezéseket nem kell alkalmazni a magáncéllal, nem foglalkozás körében végzett tevékenység megkezdését megelőzően.
+(6) Az (1)–(2), valamint az (5) bekezdésben foglalt rendelkezéseket nem kell alkalmazni a magáncéllal, nem foglalkozás körében végzett tevékenység megkezdését megelőzően.
 
 ### VI. Fejezet — A KOCKÁZAT KEZELÉSE
 
@@ -296,9 +296,9 @@ végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 
 (8) Az (1) bekezdés e) és f) pontjában említett rendelkezések a fogyasztóvédelemről szóló 1997. évi CLV. törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
-33. § (1) Az egészségügyi államigazgatási szerv a REACH-ben, a CLP-ben, az e törvényben, valamint a végrehajtásáról rendelkező jogszabályokban foglalt, a veszélyes anyagokkal, illetve a veszélyes keverékekkel végzett tevékenységre vonatkozó rendelkezések megsértése esetén 20 millió forintig terjedő kémiai terhelési bírságot szabhat ki.
+33. § (1) Az egészségügyi államigazgatási szerv az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban foglalt követelmények megsértése esetén, valamint az e törvényben, továbbá az e törvény végrehajtására kiadott jogszabályokban foglalt, a veszélyes anyagokkal, illetve a veszélyes keverékekkel végzett tevékenységre vonatkozó rendelkezések megsértése esetén 20 millió forintig terjedő kémiai terhelési bírságot szabhat ki.
 
-(2) Az (1) bekezdés szerinti bírság konkrét összegét az eset összes körülményeire – így különösen az emberi egészség, illetőleg a környezet sérelmének, illetve a veszélyeztetésének mértékére, a jogsértő magatartás időtartamára, esetleges ismételt tanúsítására, valamint a hatékonyság, az arányosság és a visszatartó hatás elvére – tekintettel kell meghatározni.
+(2) Az (1) bekezdés szerinti bírság konkrét összegét – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túlmenően – az emberi egészség, a környezet sérelmének, illetve a veszélyeztetésének mértékére, valamint a hatékonyság, az arányosság és a visszatartó hatás elvére tekintettel kell meghatározni.
 
 (3) A bírságot az egészségügyi államigazgatási szervnek a kincstárnál vezetett számlájára kell befizetni.
 

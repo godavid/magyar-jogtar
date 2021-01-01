@@ -431,7 +431,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 21/F. § Amennyiben természetes vagy jogi személyek, valamint jogi személyiség nélküli szervezetek megállapodás keretében géntechnológiával módosított növényfajtáktól mentes övezetet hoznak létre, a termesztési hatóság az övezetben gazdálkodók kérelmére és önkéntes adatszolgáltatása alapján az övezetnek a kérelemben megjelölt adatait és a kérelmező gazdálkodók adatait a honlapján, valamint a kormányzati portálon közzéteszi.
 
-### IV. Fejezet — HATÓSÁGI ELLENŐRZÉS ÉS INTÉZKEDÉSEK
+### IV. Fejezet — HATÓSÁGI ELLENŐRZÉS ÉS JOGKÖVETKEZMÉNYEK
 
 22. § (1) A géntechnológiai tevékenységgel kapcsolatos jogszabályokban és az engedélyben foglaltak betartását az ellenőrzésre jogosult hatóság a tevékenység helyszínén ellenőrzi. Az ellenőrzésre jogosult hatóság a helyszíni ellenőrzés során a tevékenységet felfüggeszti a géntechnológiai hatóság n25. § (1) bekezdése szerinti döntéséig, ha
 
@@ -439,13 +439,12 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 - b) nem engedélyezett géntechnológiai tevékenységet észlel,
 - c) az engedélyezett tevékenység kockázatának növekedésére vonatkozóan bármilyen új ismeret jut a tudomására, különösen, ha az az emberi egészségre vagy a környezetre jelentett kockázat mértékével függ össze.
 
-(2) Az ellenőrzésre jogosult hatóság az (1) bekezdésben foglaltakon túlmenően az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a következő intézkedéseket hozhatja:
+(2) Az ellenőrzésre jogosult hatóság a 21/D. § (4) bekezdésben, illetve e §-ban foglaltakon túl az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a következő jogkövetkezményeket alkalmazhatja a jogsértővel szemben:
 
-- a) az engedéllyel nem rendelkező, termesztési tilalom vagy védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezet, illetve az abból előállított termék előállítását, tárolását, szállítását, felhasználását, forgalomba hozatalát, behozatalát, kivitelét megtilthatja;
+- a) az előírásoknak meg nem felelő géntechnológiával módosított szervezet, illetve az abból előállított termék előállítását, tárolását, szállítását, felhasználását, forgalomba hozatalát, behozatalát, kivitelét megtilthatja;
 - b) elrendelheti az engedéllyel nem rendelkező, termesztési tilalom vagy védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezet, illetve az abból előállított termék forgalomból való kivonását, megsemmisítését;
-- c) az engedéllyel nem rendelkező, termesztési tilalom vagy védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezetből álló vagy ezt tartalmazó növényfajta vonatkozásában termelési, betakarítási tilalmat rendelhet el,
-- d) elrendelheti az engedéllyel nem rendelkező géntechnológiával módosított állat vizsgálatát, elkülönítését vagy leölését;
-- e) a határállomásokon végzett ellenőrzése során elrendelheti az e törvény végrehajtására kiadott jogszabály szerinti, illetve az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglalt intézkedéseket.
+- c) az engedéllyel nem rendelkező, termesztési tilalom vagy védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezetből álló vagy ezt tartalmazó növényállomány vonatkozásában termelési, betakarítási tilalmat rendelhet el;
+- d) elrendelheti az engedéllyel nem rendelkező géntechnológiával módosított állat leölését.
 
 (3) Az ellenőrzésre jogosult hatóság géntechnológiai bírság megfizetését írja elő
 
@@ -457,7 +456,9 @@ esetén.
 
 (3a) A hatóság a bírság mértékének megállapítása során köteles mérlegelni a jogellenes magatartás súlyát, következményeinek a környezetre és az emberi egészségre való veszélyességét, továbbá első ízben történő vagy ismételt megállapítását, illetve véletlenszerű bekövetkezését. Ismételt alkalommal történő jogszabálysértés alatt a korábbi jogszabálysértés megállapításától számított 5 éven belül elkövetett újabb jogszabálysértést kell érteni. A bírság mértékét és kiszabásának részletes szabályait az e törvény végrehajtására kiadott jogszabály állapítja meg.
 
-(4) Az ellenőrzésre jogosult hatóság a jogsértés esetén alkalmazott intézkedésről a határozat megküldésével értesíti a géntechnológiai hatóságot a határozat meghozatalától számított 3 napon belül és javaslatot tesz a géntechnológiai tevékenységre vonatkozó, nemzeti hatáskörben megadott engedély feltételhez kötésére, módosítására, felfüggesztésére vagy visszavonására, illetve uniós hatáskörbe tartozó engedély esetén az engedély módosításának vagy visszavonásának kezdeményezésére.
+(3b) A (3) bekezdésben foglaltak megsértése esetén a figyelmeztetés alkalmazása kizárt.
+
+(4) Az ellenőrzésre jogosult hatóság a jogsértés esetén alkalmazott jogkövetkezményről a határozat megküldésével értesíti a géntechnológiai hatóságot a határozat meghozatalától számított 3 napon belül és javaslatot tesz a géntechnológiai tevékenységre vonatkozó, nemzeti hatáskörben megadott engedély feltételhez kötésére, módosítására, felfüggesztésére vagy visszavonására, illetve uniós hatáskörbe tartozó engedély esetén az engedély módosításának vagy visszavonásának kezdeményezésére.
 
 (5) Az ellenőrzéssel összefüggésben felmerült vizsgálatok költségei jogszabálysértés megállapítása esetén a jogszabálysértőt terhelik.
 
@@ -485,11 +486,11 @@ esetén.
 
 24/A. § Ha a géntechnológiai tevékenység végzésére jogosító engedélyt kérelmező vagy a hasznosító a kérelemben meghatározott géntechnológiával módosított szervezettel, illetve az engedélyezett tevékenységgel kapcsolatban fontos új adatokhoz jut vagy a tevékenységet olyan módon kívánja megváltoztatni, amely az ezzel járó kockázatokat jelentősen megnöveli, az emberi egészség és a környezet védelmét biztosító intézkedések megtétele mellett erről a géntechnológiai hatóságot haladéktalanul tájékoztatnia kell. A kérelmezőnek az engedély iránti kérelemmel benyújtott dokumentációt felül kell vizsgálnia és a kérelmet módosítania kell vagy vissza kell vonnia. A hasznosítónak az engedély iránti kérelemmel benyújtott dokumentációt felül kell vizsgálnia és az engedély módosítására vagy visszavonására irányuló kérelmet kell benyújtania. A géntechnológiai hatóság a hasznosító tájékoztatását követően a 25. § (1) bekezdése szerint jár el.
 
-25. § (1) A géntechnológiai hatóság az ellenőrzésre jogosult hatóság 22. § (1) bekezdése szerinti értesítése, vagy a 22. § (1) bekezdésében foglaltak észlelése esetén az engedély feltételhez kötéséről, módosításáról, felfüggesztéséről vagy visszavonásáról való döntésig az emberi egészséget vagy a környezetet veszélyeztető esetekben a tevékenység folytatását korlátozhatja vagy megtilthatja. A géntechnológiai hatóság az intézkedésről és annak okairól az intézkedés megtétele után haladéktalanul tájékoztatja a Géntechnológiai Bizottságot.
+25. § (1) A géntechnológiai hatóság az ellenőrzésre jogosult hatóság 22. § (1) bekezdése szerinti értesítése, vagy a 22. § (1) bekezdésében foglaltak észlelése esetén az engedély feltételhez kötéséről, módosításáról, felfüggesztéséről vagy visszavonásáról való döntésig az emberi egészséget vagy a környezetet veszélyeztető esetekben a tevékenység folytatását korlátozhatja vagy megtilthatja. A géntechnológiai hatóság az alkalmazott jogkövetkezményről és annak okairól a jogkövetkezmény alkalmazása után haladéktalanul tájékoztatja a Géntechnológiai Bizottságot.
 
-(2) A Géntechnológiai Bizottság az (1) bekezdésben meghatározott intézkedés fenntartásáról az intézkedésről való tájékoztatás kézhezvételétől számított harminc napon belül véleményt alkot, és véleményét a géntechnológiai hatóságnak megküldi. A géntechnológiai hatóság a Géntechnológiai Bizottság véleményét figyelembe véve dönt az intézkedés fenntartásáról.
+(2) A Géntechnológiai Bizottság az (1) bekezdésben meghatározott jogkövetkezmény fenntartásáról a jogkövetkezmény alkalmazásáról való tájékoztatás kézhezvételétől számított harminc napon belül véleményt alkot, és véleményét a géntechnológiai hatóságnak megküldi. A géntechnológiai hatóság a Géntechnológiai Bizottság véleményét figyelembe véve dönt a jogkövetkezmény fenntartásáról.
 
-(3) A tevékenység folytatásának megtiltása esetén, a Géntechnológiai Bizottságnak az intézkedés fenntartását indokoltnak tartó véleménye kézhezvétele után a géntechnológiai hatóság a géntechnológiával módosított szervezetek azonnali megsemmisítését rendeli el. A megsemmisítést a géntechnológiai hatóság által kijelölt helyen kell elvégezni, és azt az ellenőrzésre jogosult hatóság ellenőrzi.
+(3) A tevékenység folytatásának megtiltása esetén, a Géntechnológiai Bizottságnak a jogkövetkezmény fenntartását indokoltnak tartó véleménye kézhezvétele után a géntechnológiai hatóság a géntechnológiával módosított szervezetek azonnali megsemmisítését rendeli el. A megsemmisítést a géntechnológiai hatóság által kijelölt helyen kell elvégezni, és azt az ellenőrzésre jogosult hatóság ellenőrzi.
 
 (4) A (2) bekezdésben meghatározott határidő a Géntechnológiai Bizottság által a döntéshez szükségesnek tartott vizsgálat elvégzésének határidejével meghosszabbodik.
 
@@ -515,7 +516,7 @@ esetén.
 
 ### A törvényben meghatározott hatósági feladatokpénzügyi fedezete
 
-29. § (1) Az engedélyek kiadása, valamint a 21–25. §-ban és a 36–37. §-ban meghatározott intézkedések megtétele és a hatósági eljárások lefolytatása állami feladat, amelyek költségeit központi költségvetési forrásból kell fedezni.
+29. § (1) Az engedélyek kiadása, valamint a 21–25. §-ban és a 36–37. §-ban meghatározott intézkedések megtétele, illetve szankciók alkalmazása és a hatósági eljárások lefolytatása állami feladat, amelyek költségeit központi költségvetési forrásból kell fedezni.
 
 (2) A 19–20. §-ban meghatározott nyilvántartási rendszer létrehozását, működtetését és az adatszolgáltatás biztosítását részben a központi költségvetésből kell fedezni.
 

@@ -313,11 +313,13 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 - e) aki saját maga, gazdálkodó szervezet esetében, akinek vezető tisztségviselője rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel és megfelel az abban meghatározott feltételeknek,
 - f) aki vagy gazdálkodó szervezet esetében, amelynek vezető tisztségviselője a temetkezési szolgáltatásokat engedélyező hatóság 31. §-a szerinti nyilvántartásában nem szerepel.
 
-(3) A (2) bekezdésben meghatározott követelményeket – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvényben (a továbbiakban: Bnytv.) meghatározottakra figyelemmel –
+(3) A (2) bekezdésben meghatározott követelményeket, a 33. § (1) bekezdés a) pontban meghatározottak kivételével – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvényben meghatározottakra figyelemmel –
 
 - a) egyéni vállalkozás esetén az egyéni vállalkozónak,
 - b) a gazdasági társaság vezető tisztségviselőjének,
-- c) az egyéni cég tagjának kell igazolnia.
+- c) az egyéni cég tagjának
+
+kell igazolnia.
 
 (4)
 
@@ -351,7 +353,7 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 - a) a bankszámlát vezető pénzintézetnél lekötött és elkülönítetten kezelt pénzbeli betét;
 - b) ilyen összeg erejéig vállalt bankgarancia vagy felelősségbiztosítás.
 
-(3) Ha a gazdasági társaság vagy az egyéni vállalkozó az (1) bekezdés a) pontjában meghatározott adatokat nem igazolja, és nem szerepel a köztartozásmentes adózói adatbázisban, a temetkezési szolgáltatásokat engedélyező hatóság – a pénzügyi teljesítőképesség igazolása céljából – megkeresi az (1) bekezdés a) pontjában szereplő adatokról nyilvántartást vezető hatóságot. A megkeresett hatóság az adatszolgáltatása körében arról ad tájékoztatást, hogy az alapítónak van-e meg nem fizetett, lejárt köztartozása.
+(3) A temetkezési szolgáltatásokat engedélyező hatóság – a pénzügyi teljesítőképesség igazolása céljából – megkeresi az (1) bekezdés a) pontjában szereplő adatokról nyilvántartást vezető hatóságot. A megkeresett hatóság az adatszolgáltatása körében arról ad tájékoztatást, hogy a gazdasági társaságnak vagy egyéni vállalkozónak van-e meg nem fizetett, lejárt köztartozása.
 
 (4) Ha a temetkezési szolgáltatónak meg nem fizetett köztartozása van, az (1) bekezdés a) pontjában szereplő adatokról nyilvántartást vezető hatóság értesíti erről a tényről a temetkezési szolgáltatásokat engedélyező hatóságot.
 

@@ -914,6 +914,8 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 (7) A Rendelet 8. cikke szerinti minőségellenőrnek rendelkeznie kell a 49. § szerinti megfelelő minősítéssel, ha közérdeklődésre számot tartó gazdálkodónál végez belső minőségellenőrzést.
 
+67/B. § A közérdeklődésre számot tartó gazdálkodó jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgáló, illetve könyvvizsgáló cég, a közérdeklődésre számot tartó gazdálkodó jogszabályi kötelezettségen alapuló könyvvizsgálata során keletkezett könyvvizsgálati dokumentációt köteles elektronikusan archiválni és megőrizni.
+
 ### V. Fejezet — A HARMADIK ORSZÁGBELI KÖNYVVIZSGÁLÓRA ÉS A HARMADIK ORSZÁGBELI KÖNYVVIZSGÁLÓ GAZDÁLKODÓRA VONATKOZÓ SZABÁLYOK
 
 ### Jegyzékbe vétel
@@ -1372,8 +1374,8 @@ szerezte.
 (2) A küldöttgyűlés szavazati joggal rendelkező tagjai:
 
 - a) a kamara területi szervezeteinek elnökei,
-- b) a kamara területi szervezetéhez tartozó, a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók közül területi szervezetenként választott 1-1 küldött, ha a területi szervezethez tartozó könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók létszáma nem több 50 főnél,
-- c) a kamara területi szervezetéhez tartozó, a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók közül területi szervezetenként választott 1-1 küldött, valamint 50 tagonként választott további 1-1 küldött, ha a területi szervezethez tartozó könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók létszáma meghaladja az 50 főt,
+- b) a kamara területi szervezetéhez tartozó, a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók közül területi szervezetenként választott 1-1 küldött, ha a területi szervezethez tartozó könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók létszáma nem több 25 főnél,
+- c) a kamara területi szervezetéhez tartozó, a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók közül területi szervezetenként választott 1-1 küldött, valamint 25 tagonként választott további 1-1 küldött, ha a területi szervezethez tartozó könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgálók létszáma meghaladja a 25 főt,
 - d) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását szüneteltető kamarai tag könyvvizsgálók közül választott 10 küldött.
 
 (3) A küldötteket a kamara területi szervezetei legalább 3, legfeljebb 5 évre választják.
@@ -1492,13 +1494,13 @@ szerezte.
 
 (2) A kamarai tag könyvvizsgálónak – a 124. § (2) bekezdésében foglalt kivétellel – egyidejűleg legfeljebb egy kamarai tisztségviselői jogviszonya állhat fenn.
 
-(3) A 119. § a)–f) pontja szerinti tisztségviselővé a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető, 70 év alatti kamarai tag könyvvizsgáló választható.
+(3) A 119. § a)–f) pontja szerinti tisztségviselővé a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet nem szüneteltető kamarai tag könyvvizsgáló választható.
 
 (4) A 119. § e) pontja szerinti tisztségviselővé a területi szervezet illetékességi területéhez tartozó kamarai tag könyvvizsgáló választható. A tisztségviselőt a területi szervezet taggyűlése választja, titkos szavazással.
 
 (5) A kamara tisztségviselői nem lehetnek egymásnak közeli hozzátartozói. Az alapszabály az összeférhetetlenség további eseteit is meghatározhatja.
 
-(6) A kamarai tag könyvvizsgáló legfeljebb két alkalommal töltheti be ugyanazt a tisztséget.
+(6)
 
 121. § (1) A kamara tisztségviselőjének megbízatása megszűnik, ha
 
@@ -2457,7 +2459,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 202. § (1) A kamara köteles összhangba hozni szervezetét, működését, szabályzatait e törvény előírásaival, olyan módon, hogy azok 2008. január 1-jétől megfeleljenek az e törvényben foglaltaknak. Ennek során e törvénynek a kamara szervezetére, tisztségviselőire, működésére vonatkozó, 107–158. §-ban foglalt előírásait 2008. január 1-jét megelőzően is alkalmazni kell azzal, hogy a kamara területi szervezeteinek a kamara 2007. július 1-jén hatályos alapszabályában meghatározott helyi szervezetei minősülnek. A kamara e törvénynek való megfelelés érdekében megalkotott új alapszabályát és önkormányzati szabályzatait az újonnan megválasztott testületek fogadják el azzal, hogy azok 2008. január 1-jén lépnek hatályba.
 
-(2) A 120. § (6) bekezdésének alkalmazásakor az e törvény előírásai alapján betöltött tisztségeket kell figyelembe venni azzal, hogy a kamara 2007. július 1-jén hivatalban lévő tisztségviselői megbízatásuk megszűnése után legfeljebb egy alkalommal tölthetik be ugyanazt a tisztséget.
+(2)
 
 (3) Az e törvényben szabályozott módon létre kell hozni a Könyvvizsgálói Közfelügyeleti Bizottságot, hogy az 2008. január 1-jétől elláthassa az e törvényben meghatározott feladatait.
 
@@ -2523,7 +2525,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 208/E. § A 2013. december 31-én könyvvizsgáló cégként bejegyzett egyéni vállalkozó az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 2. § 14. pontjának, valamint a 34. § (1) bekezdésének 2014. december 31-ig köteles megfelelni. A kamara 2014. december 31-ei hatállyal hivatalból törli a könyvvizsgáló cégek nyilvántartásából az egyéni vállalkozókat. A kamara egyéni vállalkozóknak a könyvvizsgálói cégek nyilvántartásából való törlésére irányuló eljárása díjmentes.
 
-208/F. § A 120. § (6) bekezdése szerinti korlátozás szempontjából annak hatálybalépése előtt betöltött tisztségeket is figyelembe kell venni. A korlátozást a 120. § (6) bekezdés hatálybalépését követő választásokra kell alkalmazni.
+208/F. §
 
 208/G. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 111. § f) pontját a hatálybalépését követően megkötött szerződésekre, illetve kinevezésekre kell alkalmazni.
 

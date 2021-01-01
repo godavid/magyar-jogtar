@@ -193,7 +193,7 @@ az örökhagyó haláláról értesül.
 
 (3a) Ha a bejelentő a joghatóság megállapításához nem szolgáltat elegendő adatot, úgy a szükséges adatok beszerzéséről a jegyzőnek hivatalból kell gondoskodnia. Az eljárás megszüntetésének ebből az okból nincs helye.
 
-(4) A jegyző az eljárás megindulását követő nyolc napon belül megkezdi a leltározást.
+(4) A jegyző az eljárás megindulását követő 8 napon belül megkezdi a leltározást. A belföldön kiállított halottvizsgálati bizonyítvány alapján indult eljárásban a jegyző a leltározást a halottvizsgálati bizonyítvány elektronikus beérkezésétől számított 5 napon belül kezdi meg.
 
 ### A hagyaték leltározása
 
@@ -244,7 +244,7 @@ vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
 (4) A tanú meghallgatására vonatkozó szabályok azzal az eltéréssel alkalmazandók, hogy a vallomás megtagadása kizárólag akkor lehetséges, ha a tanú vallomásával saját magát vagy hozzátartozóját bűncselekmény elkövetésével vádolná.
 
-23. § (1) A leltárt 30 napon belül el kell készíteni. E határidőt attól a naptól kell számítani, amikor a jegyző a kötelező leltározás alá eső vagyontárgyról vagy a leltár felvételét kötelezővé tevő tényről, körülményről okiratból tudomást szerzett. A (4) bekezdésben meghatározott kivételen kívül e határidő meghosszabbítása, valamint a leltár elkészítésének felfüggesztése vagy szünetelése nem lehetséges.
+23. § (1) A leltárt 30 napon belül el kell készíteni. E határidőt attól a naptól kell számítani, amikor a jegyző a kötelező leltározás alá eső vagyontárgyról vagy a leltár felvételét kötelezővé tevő tényről, körülményről okiratból tudomást szerzett. Belföldön kiállított halottvizsgálati bizonyítvány alapján indult eljárásban a leltárt legkésőbb a halottvizsgálati bizonyítvány elektronikus beérkezésének napjától számított 35. napig kell elkészíteni. A (4) bekezdésben meghatározott kivétellel a leltár elkészítésére meghatározott határidő meghosszabbítása, valamint a leltár elkészítésének felfüggesztése vagy szünetelése nem lehetséges.
 
 (2) A leltár mellékletét képező papíralapú okiratokat a Pp.-ben meghatározottak szerinti elektronikus kézbesítésen felül postai úton kell továbbítani, ha az okirat végintézkedést tartalmaz vagy papíralapú bemutatása, megtekintése egyéb, az eljárás kimenetelét befolyásoló okból szükséges, különösen akkor, ha a papíralapú okirat valódisága vitás. A papíralapú megküldést a közjegyző hivatalból és az öröklésben érdekelt indítványára is elrendelheti.
 

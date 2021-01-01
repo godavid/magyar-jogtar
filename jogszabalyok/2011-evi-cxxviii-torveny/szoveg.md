@@ -64,7 +64,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - 31. Veszélyes tevékenység: olyan, veszélyes anyagok jelenlétében végzett tevékenység, amely ellenőrizhetetlenné válása esetén tömeges méretekben veszélyeztetheti, illetve károsíthatja az emberi egészséget, a környezetet, az élet- és vagyonbiztonságot.
 - 31a. Veszélyes anyagok jelenléte: veszélyes anyagok tényleges vagy várható jelenléte a veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben, valamint azoknak az anyagoknak a jelenléte, amelyekről reálisan feltételezhető, hogy akkor keletkezhetnek, amikor a folyamatok – beleértve a tároló tevékenységet is – az üzemen belül bármely létesítményből kikerülnek az ellenőrzés alól, amennyiben e veszélyes anyagok mennyisége eléri vagy meghaladja az e törvény végrehajtását szolgáló kormányrendeletben meghatározott alsó küszöbérték negyedét.
 - 32. Veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes anyagokkal foglalkozó üzem környezetében a hatóság által kijelölt, az egyéni sérülés kockázatához igazodó terület.
-- 33. Védendő adat: az üzemeltető által meghatározott üzleti titok és az üzem külső támadás elleni biztonságára vonatkozó lényeges adat.
+- 33. Védendő adat: a veszélyes anyagokkal foglalkozó üzem biztonságával kapcsolatos lényeges adat, amelyet az üzemeltető vagy az iparbiztonsági hatóság védendővé nyilvánít, továbbá az üzemeltető által meghatározott üzleti titok.
 
 #### 3. A törvény hatálya
 
@@ -451,6 +451,8 @@ igazolja.
 
 (2) Amennyiben a biztonsági jelentés vagy biztonsági elemzés védendő adatot tartalmaz, az üzemeltető egyidejűleg a nyilvánosságra hozható, védendő adatot nem tartalmazó biztonsági jelentést vagy biztonsági elemzést is köteles az iparbiztonsági hatóság részére benyújtani.
 
+(2a) Ha a biztonsági jelentés vagy biztonsági elemzés valamely adatát az iparbiztonsági hatóság nyilvánítja védendő adattá, a védendő adatokat közli az üzemeltetővel, és egyben felhívja az üzemeltetőt a nyilvánosságra hozható, védendő adatot nem tartalmazó biztonsági jelentés vagy biztonsági elemzés elkészítésére és benyújtására.
+
 (3) Az iparbiztonsági hatóság által az e jogszabály IV. fejezete alapján lefolytatott közigazgatási eljárásokért igazgatási szolgáltatási díjat kell fizetni.
 
 (4) Az iparbiztonsági hatóság a IV. fejezet hatálya alá tartozás megállapítása céljából bármely gazdálkodó szervezetet adatszolgáltatásra kötelezhet és annak telephelyén hatósági ellenőrzést tarthat.
@@ -550,6 +552,17 @@ esetén.
 (8) A bírság megfizetése nem mentesít a büntetőjogi, illetve a polgári jogi felelősség, valamint az elmulasztott kötelezettség teljesítése alól.
 
 (9) A katasztrófavédelmi bírság a központi költségvetés központosított bevételét képezi.
+
+(10) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az alábbi közigazgatási szabályszegések miatt indult közigazgatási hatósági eljárásokban:
+
+- a) engedélyköteles tevékenység engedély nélküli végzése, folytatása,
+- b) üzemazonosítási kötelezettség elmulasztása,
+- c) biztonsági jelentésben, biztonsági elemzésben, belső védelmi tervben, súlyos káresemény elhárítási tervben valótlan adatok feltüntetése,
+- d) a hatósági döntésben foglalt műszaki, technológiai, beruházási, karbantartási előírás elmulasztása,
+- e) veszélyes anyagokkal kapcsolatos üzemzavar, súlyos baleset azonnali bejelentésének elmulasztása,
+- f) veszélyes anyagokkal kapcsolatos üzemzavarról, súlyos balesetről szóló adatszolgáltatási kötelezettség elmulasztása,
+- g) veszélyes anyagokkal kapcsolatos súlyos balesettel kapcsolatos védekezési, elhárítási és helyreállító intézkedések elmulasztása,
+- h) belső védelmi terv gyakorlat végrehajtásának elmulasztása.
 
 36. § Az iparbiztonsági hatóság a veszélyes anyagokkal kapcsolatos súlyos balesetek és üzemzavarok megelőzése, kivizsgálása, valamint a jogszabályban, illetve hatósági határozatban foglalt kötelezettségek teljesülése érdekében az e törvény végrehajtását szolgáló kormányrendeletben meghatározott gyakorisággal hatósági ellenőrzést tart.
 
@@ -780,7 +793,7 @@ kapcsolatos feladatokat. Az oktatásért felelős miniszter, illetve a szakképz
 - c) az szakmai felsővezető, a vezetői megbízású, valamint feladatköre szerint katasztrófavédelmi feladatot ellátó kormánytisztviselő, köztisztviselő és közalkalmazott,
 - d) a jegyző,
 - e) a bíró, az ügyész, a közjegyző, a bírósági végrehajtó,
-- f) a Magyar Honvédség tényleges és tartalékos állományú, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, e szervek alkalmazottja,
+- f) a Magyar Honvédség tényleges és tartalékos állományú, a rendvédelmi szervek hivatásos állományú tagja, e szervek alkalmazottja, a Nemzeti Adó- és Vámhivatal foglalkoztatottja,
 - g) az egészségügyi államigazgatási szerv kormánytisztviselője,
 - h) a kórházi, a járóbeteg- és alapellátást végző orvos és szakképzett szakdolgozó,
 - i) az állami mentőszolgálat dolgozója, betegszállító szervezet dolgozója,

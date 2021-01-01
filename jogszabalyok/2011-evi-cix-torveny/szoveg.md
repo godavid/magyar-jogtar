@@ -81,7 +81,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 #### 3. Az MMA tagjainak választása
 
-6. § Az MMA tagjait – a 7. § (2) bekezdésében és a 8/A. § (1) bekezdésében meghatározott kivétellel – a közgyűlés választja közvetlen és titkos szavazás útján.
+6. § Az MMA tagjait – a 8/A. § (1) bekezdésében meghatározott kivétellel – a közgyűlés választja közvetlen és titkos szavazás útján.
 
 7. § (1) Rendes taggá választható a magyar művészeti életben kimagasló szellemi vagy alkotói teljesítményt felmutató művész. Kimagasló szellemi vagy alkotói teljesítménynek minősül az adott művészeti ágban való széles körű társadalmi ismertség, illetve elismertség, így különösen
 
@@ -92,7 +92,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (1b) Rendes taggá a levelező tag választható, legkorábban a levelező taggá választása napját követő két év elteltével.
 
-(2) A 30. § szerint regisztrált személyek az MMA rendes tagjai.
+(2)
 
 (3) Az MMA rendes tagjainak száma nem lehet több 250 főnél.
 
@@ -106,10 +106,14 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (8) A közgyűlés az elé terjesztett jelöltek rendes taggá választásáról – közvetlen és titkos szavazással – a jelölést követő első közgyűlés egyszerű többségi, listás szavazással dönt.
 
-8. § (1) A közgyűlés – a 7. § (4)–(8) bekezdésében meghatározott eljárás megfelelő alkalmazásával – levelező tagokat választhat. Levelező taggá
+8. § (1) A közgyűlés – a 7. § (4)–(8) bekezdésében meghatározott eljárás alkalmazásával – levelező tagokat választhat. Levelező taggá választható
 
-- a) a nem akadémikus tag, vagy
-- b) az a személy választható, aki DLA-fokozattal vagy az Alapszabályban meghatározott hazai művészeti szakmai elismeréssel rendelkezik.
+- a) a nem akadémikus tag vagy
+- b) az a személy, aki
+  - ba) a nemzeti felsőoktatásról szóló törvény szerinti vagy külföldi képzésben szerzett és honosított vagy elismert DLA-fokozattal vagy
+  - bb) az Alapszabályban meghatározott hazai művészeti szakmai elismeréssel
+
+rendelkezik.
 
 (2) A levelező tag a 13. § (2) bekezdés és a 20. § (3) bekezdés szerint gyakorolja köztestületi jogait.
 
@@ -117,7 +121,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 8/A. § (1) Nem akadémikus tagként felvételét kérheti az MMA-ba
 
-- a) a DLA fokozattal,
+- a) a nemzeti felsőoktatásról szóló törvény szerinti vagy külföldi képzésben szerzett és honosított vagy elismert DLA-fokozattal,
 - b) az Alapszabályban meghatározott hazai művészeti szakmai elismeréssel vagy
 - c) külföldi művészeti szakmai elismeréssel
 
@@ -133,7 +137,7 @@ rendelkező személy.
 
 (2) A közgyűlési képviselők száma nem lehet több 50 főnél.
 
-(3) A közgyűlési képviselő mandátuma két évre szól. Ha a közgyűlési képviselő mandátuma a két év eltelte előtt megszűnik, akkor a helyére új közgyűlési képviselő az előző közgyűlési képviselő eredeti mandátumából hátralévő időre választható. A közgyűlési képviselő egy alkalommal választható újra. A közgyűlési képviselő újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni a közgyűlési képviselő azon mandátumát, amely az előző közgyűlési képviselő eredeti mandátumából hátralévő időre szólt.
+(3) A közgyűlési képviselő mandátuma két évre szól. Ha a közgyűlési képviselő mandátuma a két év eltelte előtt megszűnik, akkor a helyére az Alapszabály szerint lép új közgyűlési képviselő, akinek megbízatása az előző közgyűlési képviselő eredeti mandátumából hátralévő időre szól. A közgyűlési képviselő egy alkalommal választható újra. A közgyűlési képviselő újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni a közgyűlési képviselő azon mandátumát, amely az előző közgyűlési képviselő eredeti mandátumából hátralévő időre szólt.
 
 9. § Az elnökség ajánlására az MMA tiszteletbeli tagjává kimagasló munkájáért hazai vagy nemzetközi szinten elismert közéleti személyiség választható.
 
@@ -156,20 +160,20 @@ rendelkező személy.
 14. § Az MMA közgyűlése
 
 - a) jóváhagyja az MMA Alapszabályát és szükség szerint módosítja azt;
-- b) jóváhagyja az 5. § (1) és (2) bekezdése szerinti beszámolót és tájékoztatókat;
+- b) jóváhagyja a köztestület munkájáról és a magyar művészeti élet általános helyzetéről az Országgyűlés számára készített elnöki beszámoló koncepcióját;
 - c) a nem akadémikus tag kivételével dönt a tagok megválasztásról, valamint a tagozatok vezetői kivételével megválasztja és visszahívja az MMA tisztségviselőit;
-- d) az államháztartásról szóló törvény és a költségvetési törvény keretei között jóváhagyja az MMA költségvetési és a költségvetés végrehajtására vonatkozó javaslatát;
+- d) az államháztartásról szóló törvény és a költségvetési törvény keretei között jóváhagyja az MMA következő évi költségvetésének irányelveit és az előző évi költségvetés végrehajtásáról szóló beszámolóját;
 - e) véleményt nyilvánít a művészeti élet, a művészet alapvető fontosságú kérdéseiben;
 - f) dönt költségvetési szerv alapításáról, átalakításáról, megszüntetéséről;
 - g) egyes közfeladatok ellátása érdekében az MMA tagjaiból munkacsoportot hozhat létre;
-- h) határoz az 5/A. § (2) bekezdése szerinti stratégiai együttműködési megállapodás megkötéséről;
+- h)
 - i) a vonatkozó jogszabályi rendelkezéseknek megfelelően határoz az MMA vagyona
   - ia) átruházásáról, megterheléséről, ha a vagyonelem forgalmi értéke meghaladja a 25 millió forintot, továbbá – értékhatártól függetlenül – átruházásának és megterhelésének elveiről, valamint
   - ib) használatba adásának, egyéb módon történő hasznosításának elveiről;
 - j) dönt zártkörűen működő részvénytársaság vagy korlátolt felelősségű társaság alapítása, ilyen gazdasági társaságokban részesedés szerzése elveiről;
 - k) dönt – az i) pont ia) alpontjában foglalt eltéréssel – az MMA általi kötelezettségvállalásról (a továbbiakban: egyéb kötelezettségvállalás), ha annak értéke meghaladja az 500 millió forintot;
 - l) elfogadja az i) és j) pont szerinti elvekre is figyelemmel megállapított vagyongazdálkodási szabályzatot;
-- m) jóváhagyja a felügyelő testület ügyrendjét;
+- m)
 - n) dönt mindarról, amit jogszabály vagy az Alapszabály a hatáskörébe utal.
 
 15. § (1) Az MMA szükség szerint, de legalább évente egyszer közgyűlést tart.
@@ -197,7 +201,7 @@ rendelkező személy.
 - a) az elnök,
 - b) a két alelnök,
 - c) a főtitkár,
-- d) négy, a közgyűlés által – a közgyűlés időpontjában legalább két éve megválasztott akadémikusok közül – három évre elnökségi taggá választott akadémikus, valamint
+- d) négy, a közgyűlés által három évre elnökségi taggá választott akadémikus, valamint
 - e) a 25. § szerinti esetben a tiszteletbeli elnök.
 
 (3a) Ha a (3) bekezdés d) pontjában meghatározott elnökségi tag megbízása a három év eltelte előtt megszűnik, akkor a helyére új elnökségi tag az előző elnökségi tag eredeti mandátumából hátralévő időre választható. Az elnökségi tag újraválasztására legfeljebb egy alkalommal kerülhet sor. Az újraválaszthatóság korlátozása szempontjából nem kell figyelembe venni a (3) bekezdés d) pontja szerinti elnökségi tag azon mandátumát, amely az előző elnökségi tag eredeti mandátumából hátralévő időre szólt.
@@ -208,8 +212,8 @@ rendelkező személy.
 
 - a) irányítja az MMA működését;
 - b) előkészíti az MMA éves programtervét és felügyeli annak végrehajtását;
-- c) megtárgyalja az 5. § (1) és (2) bekezdéseiben rögzített beszámolót és tájékoztatókat;
-- d) megtárgyalja az MMA éves költségvetését és költségvetési beszámolóját;
+- c) elfogadja a köztestület éves munkájáról a Kormány részére készített elnöki tájékoztatót és a közgyűlés által jóváhagyott koncepció alapján készült, az Országgyűlésnek szóló elnöki beszámolót;
+- d) megtárgyalja az MMA következő évi költségvetésének irányelveit és az előző évi költségvetés végrehajtásáról szóló beszámolót, továbbá elfogadja az MMA éves költségvetését;
 - e) gondoskodik a közgyűlés döntéseinek végrehajtásáról;
 - f) tájékoztatja a felügyelő testületet a közgyűlés és saját döntéseiről, valamint azok végrehajtásáról;
 - g) a 14. § i) és j) pontja szerint meghatározott elvek szerint dönt
@@ -218,9 +222,11 @@ rendelkező személy.
   - gc) zártkörűen működő részvénytársaság vagy korlátolt felelősségű társaság alapításáról, ilyen gazdasági társaságokban részesedés szerzéséről;
   - gd) a közbeszerzési szabályzat elfogadásáról,
 - h) dönt az MMA általi egyéb kötelezettségvállalásról, amennyiben annak értéke meghaladja a 150 millió forintot és a döntés nem tartozik a közgyűlés kizárólagos hatáskörébe;
-- i) javaslatot tesz az 5/A. § (2) bekezdése szerinti stratégiai együttműködési megállapodás megkötésére;
+- i) dönt az 5/A. § (2) bekezdése szerinti stratégiai együttműködési megállapodás megkötéséről;
 - j) vezeti a nem akadémikus tagok központi köztestületi nyilvántartását; továbbá
-- k) ellátja mindazokat a feladatokat, amelyeket a közgyűlés vagy az Alapszabály a hatáskörébe utal.
+- k) a költségvetési szerv alapítása, átalakítása, megszüntetése, valamint alapító okiratának és megszüntető okiratának kiadása kivételével gyakorolja az MMA által alapított költségvetési szerv fölött azokat a jogokat, amelyeket az államháztartásról szóló törvény a költségvetési szerv irányításának jogaiként meghatároz, e jogainak gyakorlását az Alapszabályban – részben vagy egészben – az MMA elnökére ruházhatja;
+- l) jóváhagyja a felügyelő testület ügyrendjét;
+- m) ellátja mindazokat a feladatokat, amelyeket a közgyűlés vagy az Alapszabály a hatáskörébe utal.
 
 (6) Az elnökség szükség szerint, de évente legalább tíz alkalommal ülésezik. Az Alapszabály rendelkezhet az elnökség gyakoribb összehívásáról, valamint meghatározhatja az elnökség kötelező összehívásának eseteit.
 
@@ -232,7 +238,7 @@ rendelkező személy.
 
 #### 7. A felügyelő testület
 
-18. § (1) A köztestületi vagyonkezelés és a köztestület gazdálkodásának törvényességét, a vagyonkezelés és gazdálkodás során e törvény céljainak érvényesülését öttagú felügyelő testület ellenőrzi. A felügyelő testület tagja büntetlen előéletű, az országgyűlési képviselők választásán választható magyar állampolgár lehet. A felügyelő testület egy tagját a Kormány, egy tagját az Országgyűlés kulturális ügyekért felelős bizottsága nevezi ki és hívja vissza, további három tagját – a választás időpontjában legalább két éve megválasztott akadémikusok közül – a közgyűlés, és a közgyűlés hívja vissza. A felügyelő testület tagjai a felügyelő testület megbízatásának idejére maguk közül elnököt választanak. A felügyelő testület tagjainak megbízatása öt évre szól.
+18. § (1) A köztestületi vagyonkezelés és a köztestület gazdálkodásának törvényességét, a vagyonkezelés és gazdálkodás során e törvény céljainak érvényesülését öttagú felügyelő testület ellenőrzi. A felügyelő testület tagja büntetlen előéletű, az országgyűlési képviselők választásán választható magyar állampolgár lehet. A felügyelő testület egy tagját a Kormány, egy tagját az Országgyűlés kulturális ügyekért felelős bizottsága nevezi ki és hívja vissza, további három tagját – az akadémikusok közül – a közgyűlés, és a közgyűlés hívja vissza. A felügyelő testület tagjai a felügyelő testület megbízatásának idejére maguk közül elnököt választanak. A felügyelő testület tagjainak megbízatása öt évre szól.
 
 (1a) Ha a felügyelő testületi tag mandátuma a megbízástól számított öt éven belül megszűnik, helyére új felügyelő testületi tag az előző felügyelő testületi tag eredeti mandátumából hátralévő időre delegálható vagy választható. A felügyelő testület tagja legfeljebb egy alkalommal delegálható, vagy választható újra. A felügyelő testületi tag újradelegálhatósága, újraválaszthatósága korlátozása szempontjából nem kell figyelembe venni a felügyelő testületi tag azon mandátumát, amely az előző felügyelő testületi tag eredeti mandátumából hátralévő időre szólt.
 
@@ -242,7 +248,7 @@ rendelkező személy.
 
 (4) A felügyelő testület feladatkörében eljárva, azzal összefüggésben az MMA irataiba betekinthet, az MMA tagjától, tisztségviselőjétől felvilágosítást kérhet.
 
-(5) A felügyelő testület testületként jár el. A felügyelő testület az ügyrendjét maga állapítja meg, azt a közgyűlés hagyja jóvá. Az ügyrendben rendelkezni kell különösen a testület ülésének összehívásáról, levezetéséről, a testület határozatképességének, a szavazás módjának szabályairól.
+(5) A felügyelő testület testületként jár el. A felügyelő testület az ügyrendjét maga állapítja meg, azt az elnökség hagyja jóvá. Az ügyrendben rendelkezni kell különösen a testület ülésének összehívásáról, levezetéséről, a testület határozatképességének, a szavazás módjának szabályairól.
 
 (6) Ha a felügyelő testület a feladatai ellátása során jogszabályt, az Alapszabályt, az MMA valamely testületének döntését vagy egyébként az MMA érdekeit sértő körülményt észlel, tapasztal, az arra jogosult számára intézkedési javaslatot tesz, illetve jogosult – jogszabály vagy az Alapszabály megsértése esetén köteles – a napirend megjelölésével a közgyűlés összehívására.
 
@@ -266,7 +272,7 @@ rendelkező személy.
 
 (3a) A közgyűlési képviselő annak a tagozatnak a munkájában vehet részt, amely tagozatban közgyűlési képviselővé választották. A közgyűlési képviselő a tagjelölés és a tagok köztestületi jogainak gyakorlásával összefüggő tagozati döntések során szavazati joggal nem rendelkezik.
 
-(4) A tagozat működését az Alapszabály és a tagozat ügyrendje által meghatározott jogkörrel a tagozatvezető irányítja, és képviseli a tagozatot. A tagozatvezetőt a tagozaton belül szavazati joggal rendelkező – a tagozatvezetőt választó ülés időpontjában legalább két éve megválasztott – akadémikusok közül a tagozat négy évre választja titkos szavazás útján, az Alapszabályban meghatározott módon. Ha a tagozatvezető mandátuma a négy év eltelte előtt megszűnik, akkor a helyére új tagozatvezető az előző tagozatvezető eredeti mandátumából hátralévő időre választható. A tagozatvezető legfeljebb egy alkalommal választható újra. A tagozatvezető újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni a tagozatvezető azon mandátumát, amely az előző tagozatvezető mandátumából hátralévő időre szólt.
+(4) A tagozat működését az Alapszabály és a tagozat ügyrendje által meghatározott jogkörrel a tagozatvezető irányítja, és képviseli a tagozatot. A tagozatvezetőt a tagozaton belül szavazati joggal rendelkező akadémikusok közül a tagozat négy évre választja titkos szavazás útján, az Alapszabályban meghatározott módon. Ha a tagozatvezető mandátuma a négy év eltelte előtt megszűnik, akkor a helyére új tagozatvezető az előző tagozatvezető eredeti mandátumából hátralévő időre választható. A tagozatvezető legfeljebb egy alkalommal választható újra. A tagozatvezető újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni a tagozatvezető azon mandátumát, amely az előző tagozatvezető mandátumából hátralévő időre szólt.
 
 (5) A tagozatra vonatkozó egyéb szabályokat az Alapszabály tartalmazza.
 
@@ -276,7 +282,7 @@ rendelkező személy.
 
 21. § Az MMA tisztségviselői az elnökség tagjai, továbbá a tagozatok vezetői.
 
-22. § (1) Az MMA elnökét a közgyűlés választja a magyar állampolgárságú, a közgyűlés időpontjában legalább két éve megválasztott akadémikusok közül, az Alapszabályban meghatározott módon. Az elnök megbízatása három évre szól, kivéve, ha az előző elnök mandátuma a három év eltelte előtt megszűnik, amely esetben a helyére új elnök az előző elnök eredeti megbízása lejártáig hátralévő időre választható. Az elnököt tisztségében a köztársasági elnök megerősíti. A köztársasági elnök döntéséhez ellenjegyzés nem szükséges. Az elnök legfeljebb egy alkalommal választható újra. Az elnök újraválaszthatósága korlátozásánál nem kell figyelembe venni azt az elnöki ciklust, amely az előző elnök mandátumából hátralévő időre szólt.
+22. § (1) Az MMA elnökét a közgyűlés választja a magyar állampolgárságú akadémikusok közül, az Alapszabályban meghatározott módon. Az elnök megbízatása három évre szól, kivéve, ha az előző elnök mandátuma a három év eltelte előtt megszűnik, amely esetben a helyére új elnök az előző elnök eredeti megbízása lejártáig hátralévő időre választható. Az elnököt tisztségében a köztársasági elnök megerősíti. A köztársasági elnök döntéséhez ellenjegyzés nem szükséges. Az elnök legfeljebb egy alkalommal választható újra. Az elnök újraválaszthatósága korlátozásánál nem kell figyelembe venni azt az elnöki ciklust, amely az előző elnök mandátumából hátralévő időre szólt.
 
 (2) Az MMA tevékenységét a közgyűlés határozatainak megfelelően és az Alapszabályban meghatározott módon az elnök irányítja és gyakorolja a tulajdonosi jogokat a jelen törvény és egyéb jogszabályok alapján. Az MMA-t az elnök képviseli. Az elnök ellátja az MMA költségvetési fejezetét irányító szerv vezetőjének feladatait.
 
@@ -284,7 +290,7 @@ rendelkező személy.
 
 (3) Az elnököt – akadályoztatása esetén – a főtitkár helyettesíti.
 
-23. § Az elnököt feladatai ellátásában – a határon túli magyar ügyekben és a nemzetközi ügyekben – két alelnök segíti. Az alelnököt a közgyűlés három évre, a közgyűlés időpontjában legalább két éve megválasztott akadémikusok közül választja. Ha az alelnök mandátuma a megbízástól számított három éven belül megszűnik, helyére új alelnök az előző alelnök eredeti mandátumából hátralévő időre választható. Az alelnök legfeljebb egy alkalommal újraválasztható. Az alelnök újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni az alelnök azon mandátumát, amely az előző alelnök eredeti mandátumából hátralévő időre szólt.
+23. § Az elnököt feladatai ellátásában – a határon túli magyar ügyekben és a nemzetközi ügyekben – két alelnök segíti. Az alelnököt a közgyűlés három évre, az akadémikusok közül választja. Ha az alelnök mandátuma a megbízástól számított három éven belül megszűnik, helyére új alelnök az előző alelnök eredeti mandátumából hátralévő időre választható. Az alelnök legfeljebb egy alkalommal újraválasztható. Az alelnök újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni az alelnök azon mandátumát, amely az előző alelnök eredeti mandátumából hátralévő időre szólt.
 
 24. § (1) A főtitkárt – öt évre – a közgyűlés választja az Alapszabályban meghatározott módon. A főtitkár legfeljebb egy alkalommal újraválasztható.
 
@@ -296,7 +302,7 @@ rendelkező személy.
 
 (2) A főtitkárhelyettes illetménye a főtitkár illetményének 90%-a, a főtitkárhelyettest – illetményén túl – helyettes államtitkári juttatás illeti meg és minden naptári évben 20 munkanap vezetői pótszabadságot jogosult igénybe venni.
 
-25. § (1) A közgyűlés – az elnökség ajánlására – tiszteletbeli elnöki címet adományozhat az MMA – a közgyűlés időpontjában legalább két éve megválasztott – rendes tagja számára.
+25. § (1) A közgyűlés – az elnökség ajánlására – tiszteletbeli elnöki címet adományozhat az MMA rendes tagja számára.
 
 (2) A tiszteletbeli elnök az elnökség tagja és az elnökség ülésein szavazati joggal rendelkezik.
 
@@ -442,7 +448,7 @@ az MMA Titkársága látja el.
 
 28/I. § (1) Az MMA Titkársága a díjazottakról nyilvántartást vezet, amely tartalmazza
 
-- a) a díjazott nevét, születési helyét és időpontját,
+- a) a díjazott nevét, születési helyét és időpontját, továbbá állandó lakcímét és tartózkodási helyét,
 - b) a díj adományozásának időpontját és rövid indokolását,
 - c) az egyéb művészeti elismerés adományozásának időpontját,
 - d) a díj visszavonása esetén a visszavonás időpontját, valamint
@@ -458,13 +464,13 @@ az MMA Titkársága látja el.
 
 ### III/B. Fejezet — MŰVÉSZJÁRADÉK
 
-28/L. § (1) Az MMA a kiemelkedő művészeti teljesítmények és művészi életút iránti tisztelete kifejezéseképpen rendszeres díjazást (a továbbiakban: művészjáradék) nyújt azon, 65. életévét betöltött személynek, aki
+28/L. § (1) Az MMA a kiemelkedő művészeti teljesítmények és művészi életút iránti tisztelete kifejezéseképpen rendszeres díjazást (a továbbiakban: művészjáradék) nyújt azon, 65. életévét betöltött személynek, aki – természetes személyként –
 
 - a) Kossuth-díjban, a Magyarország Kiváló Művésze, a Magyar Köztársaság Kiváló Művésze, a Magyar Népköztársaság Kiváló Művésze, a Magyarország Érdemes Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Népköztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja, a Magyarország Babérkoszorúja és a Népművészet Mestere díjak valamelyikében,
-- b) a Népművészet Ifjú Mestere és a Táncsics Mihály-díj kivételével a kultúráért felelős miniszter feladatkörében adományozható
-  - ba) művészeti díjban – a Balassa Péter-díjat beleértve –,
+- b) a Népművészet Ifjú Mestere és a Táncsics Mihály-díj kivételével a kultúráért felelős miniszter által jogszabályban alapított díjként, a feladatkörében adományozható
+  - ba) művészeti díjban,
   - bb) művészet-igazgatási területen végzett vagy művészetelméleti tevékenységre tekintettel adományozott művészet- és közművelődés-igazgatási, művészetelméleti és közművelődés-elméleti díjban,
-- c) Ybl Miklós-díjban, természetes személy részére adományozott Pro Architectura díjban, vagy
+- c) Ybl Miklós-díjban, Pro Architectura díjban, Mőcsényi Mihály-díjban, vagy
 - d) a közgyűlés által adományozott, a Magyar Művészeti Akadémia Életműdíja, a Magyar Művészeti Akadémia Nagydíja, a Magyar Művészeti Akadémia Művészeti Írói Díja, és a Magyar Művészeti Akadémia Kováts Flórián Emlékérme díjak valamelyikében
 
 részesült.
@@ -476,28 +482,28 @@ részesült.
 - c) a Magyar Állami Operaház Mesterművésze címben részesített személy,
 - d) a Magyar Mozgókép Mestere cím birtokosa,
 - e) az akadémikus,
-- f) a kultúráért felelős miniszter által adományozott művészeti életpálya elismerésre tekintettel a művészjáradék kérelmezése időpontjában járadékban részesülő személy [az a)–f) pontban meghatározottak a továbbiakban együtt: a művészjáradék megállapítását kizáró elismerés], valamint
+- f) a kultúráért felelős miniszter által adományozott művészeti életpálya elismeréshez kapcsolódóan járadékban részesülő személy az e járadékban való részesítése időtartama alatt [az a)–f) pontban meghatározottak a továbbiakban együtt: a művészjáradék megállapítását kizáró elismerés], valamint
 - g) aki a művészjáradék megállapítását megalapozó elismerésről lemondott, vagy akitől a művészjáradék megállapítását megalapozó elismerést visszavonták.
 
 (3) Aki több művészeti elismerésben, vagy több alkalommal azonos elismerésben részesült, csak az egyik elismerése alapján részesülhet művészjáradékban.
 
 (4) A művészjáradék havi mértéke az öregségi teljes nyugdíj jogszabályban meghatározott legkisebb összegének 425%-a. A művészjáradék élethosszig tartó juttatás.
 
-28/M. § (1) A művészjáradék iránti kérelmet írásban kell előterjeszteni a Titkárságon
+28/M. § (1) A művészjáradék iránti kérelmet írásban kell előterjeszteni az MMA Titkárságán mint az eljáró közigazgatási hatóságnál
 
-- a) a kérelmező természetes személyazonosító adatai, állampolgársága, állandó lakcíme és tartózkodási helye, folyószámláját vezető pénzintézet neve feltüntetésével, a kérelmező Titkársággal való kapcsolattartását szolgáló telefonszáma megjelölésével,
+- a) a kérelmező természetes személyazonosító adatai, állampolgársága, állandó lakcíme és tartózkodási helye, folyószámláját vezető pénzintézet neve és folyószámlaszáma, valamint az MMA Titkárságával való kapcsolattartását szolgáló telefonszáma feltüntetésével,
 - b) azon művészeti elismerés megnevezésével, amelyre tekintettel a kérelmező a művészjáradékot igényli, továbbá azon időpont meghatározásával, amikor a kérelmező az elismerésben részesült,
 - c) a 28/L. § (1) bekezdés a)–c) pontja esetében a művészeti elismerésről szóló okirat hiteles másolatának vagy a kérelmező megkeresésére az elismerés adományozója vagy annak jogutódja által kiállított, a művészeti elismerés tényéről szóló igazolás csatolása mellett, valamint
 - d) a kérelmező arról szóló nyilatkozatának megtételével, miszerint
   - da) a művészjáradék megállapítását kizáró elismeréssel nem rendelkezik,
-  - db) a művészjáradék megállapítását megalapozó elismerésről történő lemondás vagy visszavonás esetén, vagy a művészjáradék megállapítását kizáró elismerés szerzése esetén e tényről a Titkárságot 15 napon belül írásban értesíti, valamint
+  - db) a művészjáradék megállapítását megalapozó elismerésről történő lemondás vagy visszavonás esetén, vagy a művészjáradék megállapítását kizáró elismerés szerzése esetén e tényről az MMA Titkárságát 15 napon belül írásban értesíti, valamint
   - dc) büntetőjogi felelőssége tudatában kijelenti, hogy a kérelemben foglaltak a valóságnak megfelelnek.
 
-(2)
+(2) Ha a kérelmező a 28/L. § (1) bekezdés b) pont bb) alpontjára alapítja művészjáradék iránti kérelmét, és az (1) bekezdés c) pontja szerinti dokumentumok egyike sem tartalmazza az adományozás indokát, akkor a kérelmező a művészjáradék iránti kérelmében nyilatkozik arról, hogy mely tevékenysége elismeréseképpen részesült a díjban.
 
-28/N. § (1) A Titkárság a művészjáradékot az arról szóló határozata kiadását követő hónap első napjától, teljes hónapra állapítja meg, és tárgyhónapra, a tárgyhónap 10. napjáig folyósítja. A művészjáradék visszamenőleg nem állapítható meg.
+28/N. § (1) Az MMA Titkársága a művészjáradékot az arról szóló határozata kiadását követő hónap első napjától, teljes hónapra állapítja meg, és tárgyhónapra, a tárgyhónap 10. napjáig folyósítja. A művészjáradék visszamenőleg nem állapítható meg.
 
-(2) A művészjáradékra jogosult köteles a Titkárságnak 15 napon belül bejelenteni minden olyan tényt, adatot, amely az ellátásra való jogosultságát érinti, így különösen, ha a művészjáradék megállapítását kizáró elismerést szerzett.
+(2) A művészjáradékra jogosult köteles az MMA Titkárságának 15 napon belül bejelenteni minden olyan tényt, adatot, amely az ellátásra való jogosultságát érinti, így különösen, ha a művészjáradék megállapítását kizáró elismerést szerzett.
 
 (3) A művészjáradék folyósítása megszűnik a művészjáradékban részesülő személy
 
@@ -507,9 +513,9 @@ részesült.
 - d) művészjáradék megállapítását megalapozó elismerésének visszavonása esetén a visszavonást követő hónap első napjától,
 - e) halála esetén, az elhalálozást követő hónap első napjától.
 
-(4) Aki a művészjáradékot jogalap nélkül vette fel, köteles azt a Titkárság írásbeli felszólítására, a jogalap nélkül felvett ellátás folyósításától számított 60 napon belül visszafizetni.
+(4) Aki a művészjáradékot jogalap nélkül vette fel, köteles azt az MMA Titkársága írásbeli felszólítására, a jogalap nélkül felvett ellátás folyósításától számított 60 napon belül visszafizetni.
 
-(5) A művészjáradék jogalap nélküli felvétele miatt a Titkárság által követelt tartozást – a művészjáradékot jogalap nélkül felvett személy kérelmére – az MMA kivételes méltánylást érdemlő esetben, a jogalap nélkül felvett művészjáradék felvételének összes körülményére tekintettel, méltányosságból mérsékelheti vagy elengedheti.
+(5) A művészjáradék jogalap nélküli felvétele miatt az MMA Titkársága által követelt tartozást – a művészjáradékot jogalap nélkül felvett személy kérelmére – az MMA kivételes méltánylást érdemlő esetben, a jogalap nélkül felvett művészjáradék felvételének összes körülményére tekintettel, méltányosságból mérsékelheti vagy elengedheti.
 
 28/O. § A művészjáradék fedezetét az MMA költségvetésében kell megtervezni.
 
@@ -542,6 +548,10 @@ részesült.
 30/A. § (1) A bíróság hivatalból, 2018. január 1-jei hatállyal törli nyilvántartásából az MMA közhasznú jogállására vonatkozó adatot.
 
 (2) A Módtv.-nyel megállapított 28/L. § (1) bekezdése szerinti művészjáradék legkorábban 2018. március 1-jétől állapítható meg.
+
+30/C. § (1) A felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXLVIII. törvénnyel (a továbbiakban: Módtv2.) módosított 28/L. § (1) bekezdését, valamint a Módtv2.-vel megállapított 28/M. § (2) bekezdését a Módtv2. hatálybalépését követően indult művészjáradék megállapítása iránti ügyekben és a megismételt eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény módosításáról szóló 2014. évi X. törvénnyel, a Módtv.-vel, valamint a Módtv2.-vel végrehajtott módosításai nem érintik az e törvények hatálybalépését megelőzően, a mindenkor hatályos törvény rendelkezéseinek megfelelően rendes vagy levelező tagságot szerzett személyek tagsági jogviszonyának fennállását.
 
 #### 12. Módosuló rendelkezések
 

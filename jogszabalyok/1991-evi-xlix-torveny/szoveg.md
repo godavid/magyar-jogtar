@@ -1002,6 +1002,8 @@ kötelezettségeit.
 
 (5a) A felszámolók névjegyzékét vezető szerv nem szabhat ki bírságot, ha a jogsértő magatartásnak a felszámolók névjegyzékét vezető szerv tudomására jutásától számítva egy év már eltelt.
 
+(5b) Az (5) bekezdés szerinti eljárásokban bírság helyett figyelmeztetés nem alkalmazható.
+
 (6) A felszámolók névjegyzékét vezető szerv a felszámoló szervezetet törli a névjegyzékből
 
 - a) az e törvény által törlési okként nevesített esetekben,
@@ -1160,9 +1162,9 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 
 (11) A felszámolási eljárás jogerős lezárásáról hozott határozat Cégközlönyben való közzétételét követően bármely hitelező keresettel kérheti a 6. § szerint illetékes bíróságtól, hogy az (1) bekezdés szerinti perben jogerősen megállapított felelősség alapján, az okozott vagyoni hátrány mértékéig kötelezze az adós volt vezetőjét a felszámolási eljárásban nyilvántartásba vett, de ott meg nem térült követelésének kifizetésére.
 
-(12) Ha a felszámolási eljárás jogerős lezárásáig az (1) bekezdés szerinti megállapítási perben még nincs jogerős határozat, a 90 napos jogvesztő határidő kezdő napja a bírósági határozat jogerőre emelkedésének napját követő nap.
+(12)
 
-(13) Ha több hitelező terjeszt elő a (11) bekezdés, illetve a (12) bekezdés szerinti marasztalási keresetet, a bíróság a pereket egyesíti, és a hitelezők pernyertessége esetén a hitelezői követelések arányos kielégítéséről rendelkezik oly módon, hogy az 57. § szerinti kielégítési sorrendre vonatkozó szabályokat nem kell alkalmazni, és a (9) bekezdés szerinti biztosítékot is e bekezdésnek megfelelően kell a hitelezők követelésére felosztani.
+(13) Ha több hitelező terjeszt elő a (11) bekezdés szerinti marasztalási keresetet, a bíróság a pereket egyesíti, és a hitelezők pernyertessége esetén a hitelezői követelések arányos kielégítéséről rendelkezik oly módon, hogy az 57. § szerinti kielégítési sorrendre vonatkozó szabályokat nem kell alkalmazni, és a (9) bekezdés szerinti biztosítékot is e bekezdésnek megfelelően kell a hitelezők követelésére felosztani.
 
 (14) A Ptk. 3:86. § (2) bekezdésében, 3:118. §-ában, 3:347. § (3) bekezdésében, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben a vezető tisztségviselők polgári jogi felelősségének megállapítására és velük szemben a szerződésen kívüli kártérítési igény érvényesítésére az e §-ban foglaltak alapján kerülhet sor, ha a jogi személy jogutód nélküli megszüntetésére felszámolási eljárásban kerül sor.
 
@@ -1638,7 +1640,7 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
   - ad) ha a felszámolás kezdő időpontját megelőzően esedékessé vált munkabért és egyéb bérjellegű juttatásokat a felszámoló a felszámolás kezdő időpontja után fizette ki, az ezeket terhelő adó- és járulékfizetési kötelezettséget is;
 - b) a felszámolás kezdő időpontja után az adós gazdasági tevékenységének ésszerű befejezésével, továbbá vagyonának megőrzésével kapcsolatos költségek, ideértve a környezeti károsodások és terhek rendezésének, az engedély nélkül más célra hasznosított termőföld eredeti állapotba történő helyreállításának, valamint a termőföldvédelmi követelmények betartásának a költségeit is, továbbá a 27/A. § (13) bekezdése szerint létesített polgári jogi jogviszonnyal összefüggésben felmerült kiadásokat, valamint az adósnak azokat a tartozásait, adó-, járulék- és egyéb közteherfizetési, kártérítési, kártalanítási kötelezettségeit, amelyek a felszámolási eljárás kezdő időpontja utáni gazdasági tevékenységből keletkeztek, kivéve a nyereségből fizetendő adókat;
 - c) a vagyon értékesítésével és a követelések érvényesítésével kapcsolatos igazolt költségek;
-- d) az adóst terhelő, a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből kapott támogatás;
+- d) az adóst terhelő, a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap bérgarancia alaprészéből kapott támogatás;
 - e) a felszámolással kapcsolatos bírósági és hatósági eljárások során felmerült, a gazdálkodó szervezetet terhelő költségek;
 - f) az adós iratanyagának rendezésével, elhelyezésével és őrzésével kapcsolatos költségek;
 - g) a felszámoló – 49/D. § (1) bekezdés alapján nem érvényesített – díja [60. § (4) bek.], amely tartalmazza a felszámoló által nem a 27/A. § (13) bekezdésében meghatározottak szerint létesített polgári jogi jogviszonnyal összefüggésben felmerült kiadásokat is;
@@ -1806,9 +1808,11 @@ hirdetheti ki.
 
 (5) Az állami felszámoló az e törvényben meghatározott tevékenységen kívül más gazdasági tevékenységet nem végezhet, kivéve a kizárólagos vagy többségi állami részesedéssel működő gazdálkodó szervezeteknél végzett üzletviteli és egyéb tanácsadást, szerkezetátalakítási és adósságrendezési tervek készítését, jogszabályban meghatározott tanácsadói, szakértői tevékenységet, továbbá az említett gazdálkodó szervezetek tekintetében – a Ctv. 99. §-ában foglalt feltételek érvényesülése mellett – a Ctv. szerinti végelszámolói, vagyonrendezői tevékenységet, valamint a helyi önkormányzatok tekintetében a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény szerinti pénzügyi gondnoki tevékenységet.
 
-(6) A (2) bekezdés szerinti állami felszámolót, továbbá azt a felszámolót, amelyet külön törvények pénzügyi szervezetek felszámolására vagy végelszámolására kijelölnek, nem kell felvenni a felszámolói névjegyzékbe, de a felszámolónak, a felszámolóbiztosnak, továbbá a 27/C. §-ban meghatározott személyeknek az ott meghatározott adatait és azok változását a felszámolók névjegyzékét vezető közigazgatási szerv nyilvántartja. A nyilvántartás közhiteles hatósági nyilvántartás. Az állami felszámolónak az e törvényben és végrehajtási rendeleteiben meghatározott tevékenységére vonatkozóan a felszámolók névjegyzékét vezető közigazgatási szerv hatósági ellenőrzést végez, súlyos vagy ismétlődő jogszabálysértés vagy mulasztás esetén az állami felszámolónál kezdeményezi a felszámolóbiztos vagy az állami felszámoló foglalkoztatottjai, vezető tisztségviselői felelősségre vonását, felmentését, továbbá a felszámolóbiztost 400 000 forintig terjedő közigazgatási bírsággal sújthatja. A bírság kiszabása során a hatóság figyelembe veszi a mulasztás vagy jogszabálysértés jellegét, súlyosságát, egyszeri vagy ismétlődő jellegét.
+(6) A (2) bekezdés szerinti állami felszámolót, továbbá azt a felszámolót, amelyet külön törvények pénzügyi szervezetek felszámolására vagy végelszámolására kijelölnek, nem kell felvenni a felszámolói névjegyzékbe, de a felszámolónak, a felszámolóbiztosnak, továbbá a 27/C. §-ban meghatározott személyeknek az ott meghatározott adatait és azok változását a felszámolók névjegyzékét vezető közigazgatási szerv nyilvántartja. A nyilvántartás közhiteles hatósági nyilvántartás. Az állami felszámolónak az e törvényben és végrehajtási rendeleteiben meghatározott tevékenységére vonatkozóan a felszámolók névjegyzékét vezető közigazgatási szerv hatósági ellenőrzést végez, súlyos vagy ismétlődő jogszabálysértés vagy mulasztás esetén az állami felszámolónál kezdeményezi a felszámolóbiztos vagy az állami felszámoló foglalkoztatottjai, vezető tisztségviselői felelősségre vonását, felmentését, továbbá a felszámolóbiztost 400 000 forintig terjedő közigazgatási bírsággal sújthatja.
 
 (6a) A (6) bekezdésben meghatározott állami felszámolókra, vezető tisztségviselőikre és foglalkoztatottjaikra – ideértve az általuk kinevezett felszámolóbiztosokat is – az e törvényben és a felszámolók névjegyzékéről szóló kormányrendeletben meghatározott követelmények irányadók.
+
+(6b) A (6) bekezdés szerinti eljárásokban bírság helyett figyelmeztetés nem alkalmazható.
 
 (7) A 66. § (2) bekezdés szerinti felszámoló felmentésének nincs helye, de a bíróság az állami felszámolót vagy a felszámolóbiztost az e törvényben meghatározott kötelezettségeinek megszegése vagy elmulasztása esetén pénzbírsággal sújthatja, melynek összege legfeljebb 900 000 forint lehet. A bírság kiszabása során a bíróság figyelembe veszi a mulasztás vagy jogszabálysértés jellegét, súlyosságát, egyszeri vagy ismétlődő jellegét, a hitelezők érdekeinek veszélyeztetését vagy sérelmét.
 
@@ -2071,6 +2075,8 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 (3) A 2020. évi LXXIII. törvénnyel módosított 33/A. § (11) bekezdést akkor kell alkalmazni, ha a felszámolási eljárás jogerős lezárásáról hozott határozat Cégközlönyben való közzétételére a 2020. évi LXXIII. törvény hatálybalépését követően kerül sor.
 
 (4) A 2020. évi LXXIII. törvénnyel módosított 40. § (1) és (5) bekezdést azokban a perekben kell alkalmazni, amelyekben a kereseti kérelmet a 2020. évi LXXIII. törvény hatálybalépését követően nyújtották be.
+
+(5) A 33/A. §-nak az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel hatályon kívül helyezett (12) bekezdését akkor kell alkalmazni, ha a felszámolási eljárás jogerős lezárásáról hozott határozat Cégközlönyben való közzétételére még 2020. augusztus 1-jét megelőzően került sor, és a 33/A. § (1) bekezdése szerinti megállapítási perben 2020. augusztus 1-jén még nem volt jogerős bírósági határozat.
 
 84. § (1) Ha a felszámoló vagy annak tagja nem felel meg a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvénnyel módosított 27/A. § (2) bekezdés szerinti átlátható és megismerhető tulajdonosi szerkezeti feltételeknek, a felszámolónak 2012. szeptember 1-jéig kell igazolnia a feltételek teljesítését a felszámolók névjegyzékét vezető szervnek.
 

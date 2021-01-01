@@ -49,7 +49,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 - a) a Magyar Posta Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter),
 - b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, a miniszter az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint,
 - c) a HM ArmCom Kommunikációtechnikai Zártkörűen Működő Részvénytársaság, a HM Arzenál Elektromechanikai Zártkörűen Működő Részvénytársaság, a HM CURRUS Gödöllői Harcjárműtechnikai Zártkörűen Működő Részvénytársaság, a HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság felett a miniszter
-- d)
+- d) a víziközmű-szolgáltató társaságok állami tulajdonú társasági részesedése felett a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
 
 gyakorolja.
 
@@ -570,13 +570,13 @@ lehet végezni.
 - b) nyilvános vagy zárkörű értékesítésre történő felajánlással, vagy
 - c) szabályozott piacon történő értékesítésre adott megbízással.
 
-(4) Törvény eltérő rendelkezése hiányában az e törvény hatálya alá tartozó állami ingatlan értékesítésére – kivéve a 35. § (2) bekezdés szerinti versenyeztetés mellőzésével történő értékesítést – kizárólag az MNV Zrt. által működtetett elektronikus árverési rendszer útján kerülhet sor. Az MNV Zrt. az Nvtv. 7/A. § (1) bekezdése szerinti tulajdonosi joggyakorlók részére az elektronikus árverésen történő értékesítést ingyenesen bonyolítja le.
+(4) Törvény eltérő rendelkezése hiányában az e törvény hatálya alá tartozó, Magyarország határa által körbezárt területen lévő állami ingatlan értékesítésére – kivéve a 35. § (2) bekezdése szerinti versenyeztetés mellőzésével történő értékesítést – kizárólag az MNV Zrt. által működtetett elektronikus árverési rendszer útján kerülhet sor. Az MNV Zrt. az Nvtv. 7/A. § (1) bekezdése szerinti tulajdonosi joggyakorlók részére az elektronikus árverésen történő értékesítést ingyenesen bonyolítja le.
 
 35. § (1) Az értékesítést végzőnek a vagyon tulajdonjogának átruházását – ha törvény vagy annak felhatalmazása alapján kiadott kormányrendelet kivételt nem tesz – versenyeztetéssel kell megkísérelnie.
 
 (2) Mellőzni lehet a versenyeztetést:
 
-- a) az állam tulajdonában lévő társasági részesedés vagy ingatlan cseréje esetén,
+- a) az állam tulajdonában lévő társasági részesedés, ingatlan vagy ingóság cseréje esetén,
 - b) állami vagyon gazdasági társaság részére, nem pénzbeli vagyoni hozzájárulásként történő rendelkezésre bocsátásakor,
 - c) nyilvános vételi ajánlat keretében történő eladási jog gyakorlása esetén,
 - d) kisebbségi állami befolyás alatt álló részvénytársaság részvényeinek értékesítése esetén, ha a befolyásszerző sikeres nyilvános vagy önkéntes vételi ajánlatának lezárását követően vételi jogát gyakorolja,
@@ -592,6 +592,7 @@ lehet végezni.
 - n) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről,
 - o) az országos közút melletti pihenő- és várakozóhelyeken 2011. december 31-ig megépült felépítményekre vonatkozó osztott tulajdon létesítése és földhasználati jog alapítása során lefolytatott értékesítési eljárás során,
 - p) zálogtárgy tulajdonjogának zálogjogosult által történő megszerzése esetén.
+- q) a 37. § (2) és (3) bekezdése alapján történő értékesítések esetén.
 
 (2a) Az állam tulajdonában álló pénzügyi eszköznek pénzügyi eszközre történő cseréje esetén a az Nvtv. 13. § (1) bekezdése szerinti versenyeztetési kötelezettségre vonatkozó rendelkezést nem kell alkalmazni.
 
@@ -619,7 +620,7 @@ lehet végezni.
 - a) nemzetközi szerződésben vállalt, vagy nemzetközi szervezetben viselt tagságból eredő segítségnyújtási vagy más kötelezettség teljesítése érdekében,
 - b) belföldi vagy külföldi katasztrófák és súlyos szerencsétlenségek megelőzése, következményeinek elhárítása vagy enyhítése érdekében,
 - c) helyi önkormányzat javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése érdekében,
-- d)
+- d) kormányhatározatban kapott felhatalmazás alapján a Kormány tagja által kötött nemzetközi megállapodásban foglalt együttműködési feladatok végrehajtása érdekében, amennyiben az érintett állami vagyon egyedi, könyv szerinti bruttó értéke a 25,0 millió forintot nem haladja meg.
 - e) külön törvény szerinti közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,
 - f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyott egyezség keretében állami vagyonba tartozó dolog tulajdonjogáról való lemondás esetén,
 - g) egyház, egyházi jogi személy hitéleti feladatai elősegítése vagy az általa végzett állami – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi, kulturális – feladatok ellátásának elősegítése érdekében.
@@ -643,7 +644,12 @@ lehet végezni.
 
 37. § (1) Az állami tulajdonban lévő védett természeti területek és értékek, műemlékingatlanok, műkincsek, valamint történeti (régészeti) emlékek és földterületek tulajdonjogának bármely jogcímen történő átruházására csak e védett vagyonra vonatkozó külön törvényben meghatározott esetekben és módon kerülhet sor.
 
-(2)
+(2) Az MNV Zrt. tulajdonosi joggyakorlása alá tartozó, művelés alól kivett védett természeti terület értékesítésére akkor van lehetőség, ha
+
+- a) az adott ingatlan közvetlenül határos azzal a magántulajdonban álló területtel, amelynek tulajdonosa a vételi ajánlatot benyújtotta az MNV Zrt. részére és
+- b) a védett természeti területek természetvédelmi kezeléséért felelős szerv az adott ingatlan tekintetében megállapította, hogy az ingatlan védettségi szintjének fenntartása annak állami tulajdonból való kikerülése esetén is biztosítható, és meghatározta ennek feltételeit.
+
+(3) Osztatlan közös tulajdonban álló védett természeti terület esetében az MNV Zrt. tulajdonosi joggyakorlása alá tartozó tulajdoni hányad értékesítésére akkor van lehetőség, ha a földrészlet tekintetében az állam kisebbségi tulajdonostársnak minősül és olyan tulajdonostárstól érkezik a vételi ajánlat, aki az ajánlata megtételekor legalább 3 éve tulajdoni hányaddal rendelkezik.
 
 ### Állami tulajdonú gazdasági társaságok elidegenítésének speciális szabályai
 

@@ -62,7 +62,7 @@ dönthet.
 - b) kötelezi az üzemeltetőt, hogy biztonsági összekötő személyt bízzon meg vagy foglalkoztasson, és a biztonsági összekötő személy adatait a kijelölő határozat véglegessé válásától számított 60 napon belül nyilvántartó hatóság részére küldje meg, valamint
 - c) az üzemeltető részére előírhat a létfontosságú rendszerelem védelmével összefüggő, a rendszerelem egyedi sajátosságaihoz, környezetéhez, a rendszerelem által potenciálisan előidézhető veszély mértékéhez igazodó feltételeket.
 
-(8) Amennyiben az üzemeltető a (2) bekezdésben előírt kötelezettségének nem tesz eleget, az ágazati kijelölő hatóság figyelmeztetést tartalmazó döntésében, határidő megállapításával felhívja az üzemeltetőt az azonosítási jelentés benyújtására.
+(8) Amennyiben az üzemeltető a (2) bekezdésben előírt kötelezettségének nem tesz eleget, az ágazati kijelölő hatóság – határidő megállapításával – kötelezi az üzemeltetőt az azonosítási jelentés benyújtására.
 
 (8a) Az azonosítási jelentés benyújtásának elmulasztása esetén kormányrendeletben meghatározott mértékű bírság kiszabásának van helye.
 
@@ -258,12 +258,10 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 
 kezeli.
 
-9. § (1) Ha az üzemeltető nem tesz eleget e törvényben, az e törvényben foglalt felhatalmazás alapján kiadott kormányrendeletben vagy az ágazati kijelölő hatóság határozatában foglalt előírásoknak, az ágazati kijelölő hatóság határozatban
+9. § (1) Ha az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője nem tesz eleget az e törvényben, az e törvényben foglalt felhatalmazás alapján kiadott más jogszabályokban vagy az ágazati kijelölő hatóság határozatában foglalt előírásoknak,
 
-- a) felszólítja az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetőjét a kötelezettségei betartására,
-- b) kötelezi azonosítási jelentés elkészítésére és az ágazati kijelölő hatóság részére történő benyújtására,
-- c) kötelezi az üzemeltetői biztonsági terv módosítására vagy új üzemeltetői biztonsági terv készítésére, vagy
-- d) kormányrendeletben meghatározott mértékű bírságot szabhat ki.
+- a) az ágazati kijelölő hatóság kötelezi az üzemeltetői biztonsági terv soron kívüli módosítására vagy új üzemeltetői biztonsági terv készítésére, vagy
+- b) bírságot szab ki.
 
 (2) Ha az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője nem tesz eleget az e törvényben, e törvényben foglalt felhatalmazás alapján kiadott más jogszabályokban foglalt előírásoknak, az ellenőrzést koordináló szerv a koordinált ellenőrzés során tapasztalt hiányosságokra figyelemmel kormányrendeletben meghatározottak szerint helyszíni bírságot szabhat ki.
 

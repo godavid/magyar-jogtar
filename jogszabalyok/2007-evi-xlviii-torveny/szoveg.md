@@ -81,6 +81,10 @@ megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fiz
 
 (3) Ha a kiszabott bírság helyszínen történő megfizetéséhez pénzváltási kiegészítő pénzügyi szolgáltatás igénybevétele válik szükségessé, a vámhatóság a pénzváltási szolgáltatás helyszínére kíséri az eljárás alá vont személyt.
 
+(4) E § alapján kiszabott bírság összege meghaladhatja a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvényben meghatározott, a bírság összegére vonatkozó felső határt.
+
+(5) E § alapján indult eljárásokban bírság helyett figyelmeztetés szankció nem alkalmazható.
+
 5/B. § (1) A bírság megfizetésére kötelezett személy (a továbbiakban: kötelezett személy) a bírság mérséklése érdekében, a bírságot tartalmazó határozat kézhezvételétől számított 15 napon belül méltányossági kérelemmel élhet. A kérelmet a bírságot kiszabó vámhatóságnál kell benyújtani.
 
 (2) A kérelemben ismertetni kell minden olyan tényt, adatot, okiratot, amely a be nem jelentett készpénz eredetét hitelt érdemlően igazolja. Hitelt érdemlő igazolásnak számít különösen

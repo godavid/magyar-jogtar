@@ -169,8 +169,8 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (4) Ha a Hivatal a hatósági ellenőrzés során megállapítja, hogy az ügyfél a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette,
 
-- a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a Hivatal felhívja az ügyfél figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi annak megszüntetésére,
-- b) ha az a) pont szerinti felhívásban meghatározott határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a Hivatal hivatalból megindítja a hatáskörébe tartozó eljárást, ideértve a hatáskörébe tartozó eljárási cselekmények megtételét és a jogkövetkezmény megállapítását is.
+- a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a Hivatal tájékoztatja az ügyfelet a jogszabálysértés tényéről, és határidő tűzésével kötelezi annak megszüntetésére,
+- b) ha az a) pont szerinti kötelezésben meghatározott határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a Hivatal hivatalból megindítja a hatáskörébe tartozó eljárást, ideértve a hatáskörébe tartozó eljárási cselekmények megtételét és a jogkövetkezmény megállapítását is.
 
 5/D. § (1) A Hivatal részére a felügyeleti tevékenységéért a víziközmű-szolgáltató felügyeleti díjat fizet, amelynek éves mértéke a tárgyév január 1-jén hatályos működési engedélyben meghatározott felhasználói egyenérték és százötven forint szorzata.
 
@@ -244,7 +244,7 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (2) Ha a víziközmű idegen ingatlanon fekszik, a vízgazdálkodásról szóló törvényben meghatározott vízvezetési szolgalmi jog gyakorlása – a víziközmű üzemeltetési tevékenységéhez indokolt mértékben – a víziközmű-szolgáltatót megilleti. A víziközmű-szolgáltató viselni köteles a joggyakorlás következtében felmerülő terheket.
 
-(3) Az állami tulajdonú víziközmű felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
+(3) Az állami tulajdonú víziközmű felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság gyakorolja.
 
 (3a) A víziközművek vagyonbiztosításáról annak vagyonkezelője, ennek hiányában a tulajdonosa köteles gondoskodni. A vagyonbiztosítás díja vagyonkezelés esetén a vagyonkezelőt, vagyonkezelés hiányában a tulajdonost terheli. A tulajdonos az őt terhelő vagyonbiztosítási díjat a víziközmű-rendszer üzemeltetésbe adásából származó bevételei terhére is finanszírozhatja.
 
@@ -741,44 +741,53 @@ alapul.
 
 #### 39. §
 
-40. § Víziközmű-szolgáltatás engedély nélküli végzése esetében, ide nem értve a 31/A. § (1) bekezdése szerinti ideiglenes szolgáltatást, a Hivatal a tevékenység végzőjét azonnali hatállyal eltiltja a tevékenység folytatásától, továbbá a tevékenység végzőjével szemben a 40/B. § (3) bekezdésében foglalt jogkövetkezményeket megfelelően alkalmazhatja.
+40. § (1) A Hivatal hatósági eljárásaiban a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvényben (a továbbiakban: Szankciótv.) foglaltakon túlmenően az alábbi jogkövetkezményeket alkalmazhatja közigazgatási szabályszegés megállapítása esetén:
 
-40/A. § (1) A Hivatal a bírságot a rendelkezésére álló adatok figyelembevételével, a 41. § szerint, a 2. mellékletben meghatározott mértékben állapítja meg.
+- a) jogellenes magatartás megszüntetésére kötelezés,
+- b) tevékenység elvégzésére, intézkedés megtételére kötelezés,
+- c) közérdekű tevékenység során okszerűen felmerült költségek megtérítésére kötelezés,
+- d) jogszerű víziközmű-szolgáltatási díj alkalmazására kötelezés,
+- e) jogsértő víziközmű-szolgáltatási díj alkalmazásából eredő többletbevétel visszatérítésére kötelezés,
+- f) a Hivatal által kiadott hatósági engedély módosítása,
+- g) a Hivatal által kiadott hatósági engedély visszavonása.
 
-(2) A Hivatal víziközmű-védelmi bírságot vagy víziközmű-felügyeleti bírságot szabhat ki.
+(2) Víziközmű-szolgáltatás engedély nélküli végzése esetében, ide nem értve a 31/A. § (1) bekezdése szerinti ideiglenes szolgáltatást, a Hivatal – az (1) bekezdésben foglaltakon túlmenően – elrendelheti a tevékenységtől végzésétől történő eltiltást, továbbá a jogsértővel szemben a 40/B. § (3) bekezdésében foglalt jogkövetkezményeket alkalmazhatja.
 
-(3) A bírság a kötelezettség ismételt megszegése, a jogellenes állapot megszüntetésének elmulasztása vagy fenntartása esetén ismételten is kiszabható.
+(3) A kormányhivatal a Szankciótv.-ben foglalt jogkövetkezményeken túl az ingatlantulajdonost kötelezheti vízmérési hely kiépítésére, illetve a víziközmű-hálózatba bekötésre is.
 
-(4) A bírságot legkésőbb a határozat véglegessé válását követő 15. napon kell megfizetni.
+40/A. § (1) A Hivatal víziközmű-felügyeleti bírságot szabhat ki a rendelkezésére álló adatok figyelembevételével.
 
-(5) Ha a jogellenes állapot elháríthatatlan külső ok miatt alakult ki, és a helyzet orvoslása érdekében az arra kötelezett minden tőle elvárható intézkedést haladéktalanul megtett, a Hivatal bírságot nem alkalmaz.
+(2) A víziközmű-felügyeleti bírság a kötelezettség ismételt megszegése, a jogellenes állapot megszüntetésének elmulasztása vagy fenntartása esetén ismételten is kiszabható.
 
-40/B. § (1) Víziközmű-védelmi bírság szabható ki, ha
+(3) A víziközmű-felügyeleti bírságot legkésőbb a határozat véglegessé válását követő 15. napon kell megfizetni.
+
+(4) Ha a jogellenes állapot elháríthatatlan külső ok miatt alakult ki, és a helyzet orvoslása érdekében az arra kötelezett minden tőle elvárható intézkedést haladéktalanul megtett, a Hivatal víziközmű-felügyeleti bírságot nem alkalmaz.
+
+40/B. § (1) Víziközmű-felügyeleti bírság szabható ki, ha
 
 - a) az ellátásért felelős
   - aa) az üzemeltetési szerződés megkötésére irányuló pályázatot a Hivatal jóváhagyása nélkül írta ki,
-  - ab) megszegi az e törvényben vagy a felhatalmazása alapján kiadott jogszabályokban és a Hivatal határozatában foglalt ellátásért felelősre vonatkozó előírásokat és ez az ellátásbiztonságot veszélyezteti;
-  - ac) közös ellátásért felelősséggel érintett víziközmű-rendszer esetén az 5/G. § (1) bekezdése szerinti írásbeli megállapodásnak az érintett ellátásért felelősökkel történő megkötését akadályozza vagy elmulasztja,
+  - ab) megszegi az e törvényben vagy a felhatalmazása alapján kiadott jogszabályokban és a Hivatal határozatában foglalt ellátásért felelősre vonatkozó előírásokat,
+  - ac) közös ellátásért felelősséggel érintett víziközmű-rendszer esetén az 5/G. § (1) bekezdése szerinti írásbeli megállapodásnak az érintett ellátásért felelősökkel történő megkötését akadályozza vagy elmulasztja;
 - b) a víziközmű-szolgáltató
   - ba) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét a Hivatal által kiadott véglegessé vált víziközmű-szolgáltatói vagy működési engedély nélkül folytatja, ide nem értve a 31/A. § (1) bekezdésében szabályozott ideiglenes szolgáltatást,
   - bb) a kiszervezésre vonatkozó jogszabályi vagy a Hivatal határozatában foglalt előírást megsérti,
   - bc) a 42. §-ban meghatározott cégjogi változást a Hivatal hozzájárulása nélkül kérelmez,
   - bd) a tevékenységét a beszerzési szabályzat, üzletszabályzat Hivatal általi jóváhagyása nélkül folytatja;
+  - be) megszegi az e törvényben, a felhatalmazása alapján kiadott jogszabályokban vagy a Hivatal határozataiban foglalt, víziközmű-szolgáltatóra vonatkozó előírásokat;
+  - bf) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét – a vízügyi hatóság hatáskörébe nem tartozó esetkörben – neki felróható módon nem a jogszabályi vagy hatósági előírásoknak megfelelően folytatja,
+  - bg) a víziközmű üzemeltetése körében a rábízott víziközmű-vagyon fenntartható működését veszélyezteti,
+  - bh) keresztfinanszírozást alkalmaz,
+  - bi) jogszabálysértő díjat vagy árat alkalmaz,
+  - bj) a Hivatal az 5/E. § (7) bekezdésben meghatározott hatáskörében eljárva megállapítja, hogy a víziközmű-szolgáltató jogsértést követett el,
 - c) az ellátásért felelős vagy a víziközmű-szolgáltató
   - ca) a 11. § (2) bekezdésében meghatározott határidőt elmulasztotta,
   - cb) a Hivatal által jóváhagyott felújítási és pótlási tervrészben, vagy a beruházási tervrészben foglalt feladatokat nem vagy csak részben hajtja végre,
-  - cc) Hivatal által jóváhagyott felújítási és pótlási tervrész, vagy a beruházási tervrész maradéktalan végrehajtását megelőzően a gördülő fejlesztési tervben nem szereplő felújítási és pótlási, valamint beruházási tevékenységet végez.
+  - cc) Hivatal által jóváhagyott felújítási és pótlási tervrész, vagy a beruházási tervrész maradéktalan végrehajtását megelőzően a gördülő fejlesztési tervben nem szereplő felújítási és pótlási, valamint beruházási tevékenységet végez,
+  - cd) a Hivatal részére rosszhiszeműen, valótlan adatot közölt,
+  - ce) a 18. § (5) bekezdésében meghatározott határidőt elmulasztotta.
 
-(2) Víziközmű-felügyeleti bírság szabható ki, ha a víziközmű-szolgáltató:
-
-- a) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét – a vízügyi hatóság hatáskörébe nem tartozó esetkörben – neki felróható módon nem a jogszabályi vagy hatósági előírásoknak megfelelően folytatja,
-- b) a víziközmű üzemeltetése körében a rábízott víziközmű-vagyon fenntartható működését veszélyezteti,
-- c) keresztfinanszírozást alkalmaz,
-- d) jogszabálysértő díjat vagy árat alkalmaz,
-- e) felelősségét a Hivatal az 5/A. §-ban és az 5/E. § (7) bekezdésben meghatározott hatáskörében eljárva állapítja meg,
-- f) a Hivatal részére rosszhiszeműen, valótlan adatot közölt.
-
-(3) Víziközmű-felügyeleti bírság szabható ki azzal a gazdálkodó szervezettel szemben is, amely víziközmű-szolgáltatási tevékenységet a Hivatal engedélye nélkül végzi.
+(2) Víziközmű-felügyeleti bírság szabható ki azzal a gazdálkodó szervezettel szemben is, amely víziközmű-szolgáltatási tevékenységet a Hivatal engedélye nélkül végez.
 
 41. § (1) A jogkövetkezmények alkalmazásakor a Hivatal mérlegeli a jogsértés körülményeit, különös tekintettel
 
@@ -944,9 +953,9 @@ alapul.
 
 (7) A Hivatal a mintaprojekttel összefüggésben a projekttársaságnak a jogszabályokban és a Hivatal határozataiban foglalt kötelezettségeinek megszegése esetén
 
-- a) a jogkövetkezményekre való utalás mellett írásban felszólítja a projekttársaságot kötelezettségei betartására,
+- a) a jogkövetkezményekre való utalás mellett írásban tájékoztatja a projekttársaságot jogszabálysértés tényéről,
 - b) ismételten is kiszabható bírsággal sújthatja a projekttársaságot, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is, vagy
-- c) azonnali hatállyal eltilthatja a projekttársaságot az adott tevékenység folytatásától.
+- c) eltilthatja a projekttársaságot az adott tevékenység folytatásától.
 
 53. § (1) Adott felhasználási hely tekintetében a közszolgáltatási szerződés megszűnik, ha
 
@@ -1055,11 +1064,40 @@ alapul.
 
 55/J. § (1) Ha a víziközmű-szolgáltató az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték létesítésére irányuló a bekötéssel összefüggő terveket kivitelezésre alkalmatlannak minősítette, új terv benyújtását, vagy a tervek olyan kiegészítését írta elő, amellyel az igénybejelentő nem ért egyet, az igénybejelentő a műszaki biztonsági hatóságtól kérheti az alkalmassági nyilatkozat kiadását. A kivitelezésre való alkalmasság megállapítására indított eljárásra az e törvény végrehajtására kiadott kormányrendelet rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az alkalmassági nyilatkozat kiadására irányuló kérelmet a kérelem beérkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.
 
+(1a) A víziközmű-szolgáltató a bekötéssel összefüggő tervek kivitelezésre alkalmasságával kapcsolatos nyilatkozatát az igénybejelentést követő 15 napon belül adja ki. Ha a víziközmű-szolgáltató e határidő lejártát követő napig nem nyilatkozik, az alkalmassággal kapcsolatos nyilatkozat megadottnak tekintendő és a csatlakozás a benyújtott, a bekötéssel összefüggő tervek alapján kivitelezhető.
+
+(1b) A víziközmű-szolgáltató – az igénybejelentő egyidejű tájékoztatása mellett – az (1a) bekezdés szerinti kivitelezés megtiltását kérelmezheti a műszaki biztonsági hatóságnál, ha a terv kivitelezésre alkalmatlan. A műszaki biztonsági hatóság a kérelem alapján dönt
+
+- a) a tervek kivitelezésre alkalmassága tárgyában, illetve
+- b) szükség szerint meghatározza azokat a műszaki biztonsági feltételeket, amelyek teljesülése esetén a terv kivitelezésre alkalmassága biztosítható.
+
+(1c) Az (1b) bekezdés szerinti eljárás az (1a) bekezdésben foglalt joghatás beálltától számított 20 napon belül kezdeményezhető. A határidő jogvesztő. A műszaki biztonsági hatóság az ügyben 20 napon belül dönt.
+
 (2) Amennyiben az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték létesítésével kapcsolatban az igénybejelentő nem a víziközmű-szolgáltatót, hanem a kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartásában szereplő személyt bízza meg, az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték átvételéről és üzembe helyezéséről a víziközmű-szolgáltató köteles gondoskodni, feltéve, hogy az – a víziközmű-szolgáltató által elfogadott vagy a műszaki biztonsági hatóság által alkalmassá nyilvánított – kiviteli tervnek megfelelően készült el.
 
 (3) A víziközmű-szolgáltató az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezéséről a kivitelezés befejezésének a víziközmű-szolgáltatóhoz történt bejelentésétől számított 8 munkanapon belül köteles nyilatkozni, továbbá köteles az ivóvíz-bekötővezetéket vagy szennyvíz-bekötővezetéket üzembe helyezni. Amennyiben a víziközmű-szolgáltató a 8 munkanapos határidőn belül nem nyilatkozik és az ehhez szükséges műszaki feltételek adottak, úgy az üzembe helyezés nem tagadható meg, a víziközmű-szolgáltató köteles az ivóvíz-bekötővezetéket vagy szennyvíz-bekötővezetéket azonnal üzembe helyezni.
 
 (4) Ha a víziközmű-szolgáltató határidőn belüli nyilatkozatával az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezését megtagadja, vagy a műszaki feltételek a víziközmű-szolgáltató szerint egyébként nem adottak, az igénybejelentő a műszaki biztonsági hatóságtól kérheti az üzembe helyezés elrendelését. A műszaki biztonsági hatóság eljárására az e törvény végrehajtására kiadott kormányrendelet rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az üzembe helyezés elrendelésére irányuló kérelmet a kérelem beérkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.
+
+55/K. § (1) Az 55/H. § alapján díjmentes csatlakozásra jogosult igénybejelentőnek a víziközmű-szolgáltató megtéríti az ivóvízvezeték vagy szennyvízvezeték bekötésével összefüggésben felmerült, igazolt költségeit, ha
+
+- a) az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték létesítésére irányuló tervek alapján a csatlakozás kivitelezése e törvény alapján megkezdhető,
+- b) az igénybejelentő a bekötés kivitelezését befejezi, és azt
+  - ba) a víziközmű-szolgáltatónak az 55/J. § (1a) bekezdése szerinti, a bekötéssel összefüggő tervek kivitelezésre alkalmasságáról szóló nyilatkozata kézhezvételétől,
+  - bb) nyilatkozat hiányában a terv benyújtásától számított 15 napos határidő lejártától,
+  - bc) az 55/J. § (1b) bekezdés alapján folytatott eljárásban meghozott, a tervek kivitelezésre alkalmasságát megállapító döntés véglegessé válásától, vagy
+  - bd) az 55/J. § (1) bekezdés szerinti döntés véglegessé válásától
+
+számított százhúsz napon belül bejelenti, és
+
+- c) az 55/J. § (4) bekezdés szerinti olyan közigazgatási hatósági eljárásra kerül sor, amely az üzembe helyezés elrendelésével zárul.
+
+(2) Ha a költségek (1) bekezdés szerinti megtérítésére a megtérítési igény bejelentését követő 15 napon belül nem került sor, a fizetésre kötelezés tárgyában a műszaki biztonsági hatóság kérelemre dönt. A kérelem az (1) bekezdés c) pontja szerinti eljárás keretében is előterjeszthető.
+
+(3) A (2) bekezdés szerinti eljárás igazgatási szolgáltatási díja huszonkétezer forint. A hatóság a díj megfizetésére az eljárást lezáró döntésében
+
+- a) a víziközmű-szolgáltatót kötelezi, ha a kérelmező kérelmének részben vagy egészben helyt ad,
+- b) a kérelmezőt kötelezi, ha a kérelmet elutasítja.
 
 #### 18. A víziközmű-szolgáltatás szüneteltetése a közműves ivóvízellátás,
 
@@ -1090,7 +1128,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - a) a lakossági felhasználó fizetési kötelezettségével 60 napot meghaladó késedelembe esett vagy az 52. § (2a) bekezdése szerinti elszámolási módot választó elkülönített vízhasználó hitelesítéssel nem rendelkező mellékvízmérőt működtet, valamint ha az e törvény és a végrehajtására kiadott kormányrendeletben meghatározott módon nem teszi lehetővé a mellékvízmérő leolvasását,
 - b)
 - c) a víziközmű-szolgáltató a felhasználót az (1) bekezdésben meghatározott következmények kilátásba helyezésével fizetési kötelezettsége teljesítésére a (4) bekezdésben foglaltak szerint legalább kétszer írásban felszólította, és a második felszólításban a szociálisan rászoruló felhasználó figyelmét felhívta az e törvény és a végrehajtására kiadott kormányrendelet alapján őt megillető kedvezményekre, valamint
-- d) a felhasználási hely fekvése szerint illetékes népegészségügyi szervet a (4) bekezdésben foglaltak szerint értesítette.
+- d) a felhasználási hely fekvése szerint illetékes népegészségügyi szervet a (4) bekezdésben foglaltak szerint értesítette az (1) bekezdés c) és e) pontja esetében történő intézkedések megtételéről.
 
 (3a) Ha a víziközmű-szolgáltató és a lakossági felhasználó az (1) bekezdés d) pontjában foglaltak alkalmazásában állapodott meg, de az előrefizetős mérő alkalmazásában történt megállapodást követően az előrefizetős mérő a felhasználói díjfizetés hiánya miatt lezár, akkor az (1) bekezdés a)–c) pontjaiban foglaltak alkalmazhatóak.
 
@@ -1374,13 +1412,14 @@ kiállított számla érvénytelen.
 
 #### 22. Díjfelügyelet
 
-73. § A víziközmű-szolgáltatás díjára, valamint a 72/A. § szerint megállapított díjakra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. A rendelkezések megsértése esetében a Hivatal határozattal
+73. § (1) A víziközmű-szolgáltatás díjára, valamint a 72/A. § szerint megállapított díjakra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. A rendelkezések megsértése esetében a Hivatal
 
-- a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a víziközmű-szolgáltatót a jogszerű ellenérték alkalmazására,
+- a) intézkedésként megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a víziközmű-szolgáltatót a jogszerű mértékű díj alkalmazására,
 - b) kötelezi a víziközmű-szolgáltatót a rendelkezések megsértésével elért többletbevétel és az azzal érintett naptári félévet megelőző utolsó napon érvényes jegybanki alapkamat kétszeres összegének megfelelő kamatnak
   - ba) a sérelmet szenvedett fél részére történő visszatérítésére, vagy
-  - bb) ha a sérelmet szenvedett fél személye nem állapítható meg, az általa ellátott valamennyi felhasználó részére történő visszatérítésére, és
-- c) bírságot szabhat ki.
+  - bb) ha a sérelmet szenvedett fél személye nem állapítható meg, az általa az érintett víziközmű-rendszerről közvetlenül ellátott valamennyi azonos típusú felhasználó részére történő visszatérítésére.
+
+(2) A Hivatal az (1) bekezdésben foglaltak mellett közigazgatási bírságot szabhat ki.
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1394,7 +1433,7 @@ kiállított számla érvénytelen.
 - 4. a víziközmű-szolgáltatói engedély kérelem, az üzemeltetési szerződések és a működési engedély kérelem kötelező tartalmi elemeit, benyújtásuk formai követelményeit;
 - 5. a közérdekű üzemeltető kijelölésére, jogaira és kötelezettségeire vonatkozó részletes szabályokat, valamint a víziközmű-szolgáltatás biztosításához szükséges szerződésekre vonatkozó részletes rendelkezéseket;
 - 6. a Hivatal hatáskörébe tartozó hatósági tevékenység részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyes tevékenység folytatásának, valamint az engedély kiadásának, módosításának és visszavonásának feltételeit, továbbá a víziközmű-szolgáltató jogait és kötelezettségeit;
-- 7.
+- 7. a víziközmű-felügyeleti bírság mértékét, megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait;
 - 8.
 - 9. a víziközmű-szolgáltató kötelezettségei teljesítésével kapcsolatos áruk és szolgáltatások körét, a beszerzésre, a kiválasztásra és a megbízásra vonatkozó feltételeket és eljárásokat;
 - 10. a víziközmű-szolgáltató és a felhasználó közötti jogviszony részletes szabályait, a közszolgáltatási szerződés minimális tartalmi követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elkülönített vízhasználóra vonatkozó részletes szabályokat;
@@ -1414,7 +1453,7 @@ kiállított számla érvénytelen.
 - 24. a közhiteles víziközmű-térképi nyilvántartást vezető hatóságot, a hatóság hatáskörére és illetékességére vonatkozó részletes szabályokat, továbbá közhiteles hatósági nyilvántartás tartalmát, az abba történő bejegyzés, valamint az onnan való törlés során alkalmazható bizonyítási eszközök körét;
 - 25. a víziközmű-üzemeltetési tevékenységek kiszervezésére vonatkozó részletes szabályokat
 - 26. a kivitelezői jogosultsággal rendelkező vízszerelők nyilvántartására vonatkozó részletes szabályokat, valamint a nyilvántartást vezető műszaki biztonsági hatóságot,
-- 27. a bekötéssel összefüggő tervek kivitelezésre való alkalmasságának megállapítása iránt a műszaki-biztonsági hatóság előtt indított eljárás szabályait, valamint az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezésének víziközmű-szolgáltató általi megtagadása esetén a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait, továbbá a jelen pontban megjelölt tevékenységeket végző műszaki biztonsági hatóságot
+- 27. a bekötéssel összefüggő tervek kivitelezésre való alkalmasságának megállapítása iránt a műszaki-biztonsági hatóság előtt indított eljárás szabályait, valamint az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezésének víziközmű-szolgáltató általi megtagadása esetén a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása, továbbá az 55/K. § (2) bekezdése szerinti eljárás anyagi és eljárási szabályait, továbbá a jelen pontban megjelölt tevékenységeket végző műszaki biztonsági hatóságot
 - 28. az IKVA Adatbázist üzemeltető szervezetet, valamint az IKVA Adatbázis működésének részletes szabályait, az adatszolgáltatás rendjét, a Hivatal és az IKVA adatbázist üzemeltető szervezet közötti együttműködés kereteit, az adatok IKVA Adatbázisban történő felhasználásának részletes szabályait
 
 rendeletben állapítsa meg.
@@ -1430,6 +1469,8 @@ rendeletben állapítsa meg.
 - 8. szabályozza a gördülő fejlesztési terv részét képező felújítási és pótlási terv, valamint beruházási terv részletes tartalmi és formai követelményeit;
 - 9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat;
 - 10. állapítsa meg a víziközmű-szolgáltató által a felhasználók igénye alapján külön díj ellenében végzendő szolgáltatások körét és annak díjait, a felhasználók számára külön díj felszámítása nélkül biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
+
+(2a) Felhatalmazást kap az iparügyekért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza a műszaki biztonsági hatóság részére a kérelemre indult eljárásért fizetendő igazgatási szolgáltatási díj mértékét – ide nem értve az 55/K. § (3) bekezdés szerinti díj mértékét –, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy rendeletben szabályozza a Hivatal eljárásában történő szakhatósági közreműködésért a szakhatóság részére fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.
 
@@ -1482,7 +1523,7 @@ rendeletben állapítsa meg.
 
 (3) A 31/B. § (3) bekezdése szerinti, az átmeneti díj visszamenőleges érvényesítésének kezdő időpontja nem lehet korábbi, mint a víziközmű-szolgáltatással összefüggő egyes törvények módosításáról szóló 2015. évi CXIX. törvény hatálybalépésének napja.
 
-78. § (1) A 2012. július 15-én meglévő üzemeltetési szerződés tekintetében a vagyonértékelést 2019. december 31-ig kell elvégezni.
+78. § (1) A 2012. július 15-én meglévő üzemeltetési szerződés tekintetében a vagyonértékelést 2022. december 31. napjáig kell elvégezni.
 
 (2) A 2012. július 15-én folyamatban lévő pályázati eljárások esetében a vagyonértékelést az üzemeltetési szerződés megkötését megelőzően kell elvégeztetni.
 
@@ -1585,6 +1626,8 @@ rendeletben állapítsa meg.
 
 87/C. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
+87/D. § Az MNV Zrt. állami tulajdonú víziközmű feletti tulajdonosi joggyakorlással kapcsolatos feladatai tekintetében az MNV Zrt. jogutódja 2021. január 1-jétől a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság.
+
 87/E. § (1) Az e törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási és pénzügyi tárgyú törvények módosításáról szóló 2020. évi CLXXIII. törvény 32. §-ával módosított 5/F. § (5) bekezdése szerinti, kizárólagos állami tulajdonban lévő víziközmű-rendszerekhez kapcsolódó állami ellátásért felelősség 2021. január 1-jén jön létre. A 2021. január 1-jén létrejövő állami ellátásért felelősség esetében az állam mint ellátásért felelős 2021. március 31-ig új üzemeltetési jogviszony létesítéséről gondoskodik azon víziközmű-rendszerek esetében, amelyekre vonatkozóan az üzemeltetési jogviszony korábban a víziközmű-szolgáltató és a korábbi ellátásért felelős önkormányzat között jött létre. Az új üzemeltetési jogviszony létrehozását követően a víziközmű-szolgáltató a 22. § (1) bekezdése szerint jár el.
 
 (2) Az (1) bekezdés szerinti esetben a korábbi ellátásért felelős és a víziközmű-szolgáltató között fennálló üzemeltetési jogviszony 2020. december 31-én megszűnik.
@@ -1652,39 +1695,3 @@ rendeletben állapítsa meg.
 - 3. E melléklet alkalmazásában lakossági szolgáltatási díj a lakossági felhasználó, a természetes személy elkülönített vízhasználó és ingatlanhasználó által a víziközmű-szolgáltatás igénybevételéért a víziközmű-szolgáltató részére fizetendő díj, amennyiben az elkülönített vízhasználó, ingatlanhasználó a szolgáltatást nem jövedelemszerző gazdasági tevékenysége körében veszi igénybe.
 
 ### 2. melléklet a 2011. évi CCIX. törvényhez
-
-#### A kiszabható bírságok összege
-
-I.
-
-1. A kiszabható bírság összege:
-
-a) a 40/B. § (1) bekezdés a) pont aa) és ac) alpontja esetében az állam esetében 25 millió forint, települési önkormányzat esetében a helyi önkormányzat pénzforgalmi teljesítési adatairól adott tárgyévet két évvel megelőző évi beszámolójában szereplő – az általa irányított költségvetési szervekkel összevontan számítandó – költségvetési kiadások és költségvetési bevételek közül a kisebb összegének 0,5%-a, de legfeljebb 25 millió forint,
-
-b) a 40/B. § (1) bekezdés a) pont ab) alpontja esetében legfeljebb 25 millió forint,,
-
-c) a 40/B. § (1) bekezdés b) pont bb)–bd) alpontja esetében legfeljebb 25 millió forint,
-
-d) a 40/B. § (1) bekezdés c) pont ca) alpontja esetében legfeljebb 1 millió forint, cb) és cc) alpontja esetében legfeljebb 10 millió forint.
-
-2. A kiszabható bírság összege a 40/B. § (2) bekezdés c) pont esetében a víziközmű-szolgáltató árbevételének 1%-a, de legfeljebb 50 millió forint.
-
-3. A kiszabható bírság összege a 40/B. § (3) bekezdése esetében a gazdálkodó szervezet árbevételének 1%-a, de legfeljebb 100 millió forint.
-
-4. Árbevétel alatt a víziközmű-szolgáltató határozathozatalt megelőző utolsó lezárt üzleti évének a számvitelről szóló törvény szerinti teljes értékesítés nettó árbevételének a másodlagos és különdíjas szolgáltatás árbevételével csökkentett értékét kell érteni.
-
-5. A 2. és 3. pont szerinti esetekben előző üzleti évi adat hiányában a Hivatal legfeljebb 25 millió forintos bírságot alkalmaz.
-
-II.
-
-1. A kiszabható bírság összege a 40/B. § (1) bekezdés b) pont ba) alpontja, valamint (2) bekezdés a), b), d) és f) pontja esetében az alábbi képlettel számított összeg, de legalább 1 millió forint.
-
-B = (FE × 10000)
-
-ahol:
-
-B = a kiszabható bírság összege (Ft)
-
-FE = a jogellenes magatartással érintett víziközmű-rendszer felhasználói egyenértéke.
-
-2. Az 1. pont szerinti esetekben a kiszabható bírság felső határa legfeljebb 100 millió forint.

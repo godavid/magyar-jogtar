@@ -160,7 +160,7 @@ a közjegyzőkről
 
 (3) Egy székhelyre több közjegyzőt is ki lehet nevezni.
 
-(4)
+(4) A közjegyző kinevezésére a területi kamara elnökségének kinevezési javaslata alapján, betöltetlen közjegyzői álláshelyre kerülhet sor.
 
 17. § (1) Közjegyzővé – a (3) bekezdésben foglalt kivétellel – az nevezhető ki, aki
 
@@ -176,7 +176,7 @@ a közjegyzőkről
 
 (2) Az (1) bekezdés e) pontjában említett gyakorlatnak megfelel a legalább 3 éves
 
-- a) bírói, ügyészi, ügyvédi, kamarai jogtanácsosi vagy közjegyzői működés,
+- a) bírói, bírósági titkári, ügyészi, alügyészi, ügyvédi, kamarai jogtanácsosi vagy közjegyzői működés,
 - b) a jogi szakvizsga megszerzését követően a kormányzati igazgatásról szóló törvény szerinti központi kormányzati igazgatási szervnél, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 2. §-a szerinti szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben szerzett kormánytisztviselői, illetve köztisztviselői gyakorlat, vagy
 - c) a jogi szakvizsga megszerzését követően szerzett alkotmánybírói, nemzetközi szervezetnél vagy az Európai Unió valamely szervénél ítélkezési vagy az igazságszolgáltatással összefüggő tevékenységből eredő gyakorlat.
 
@@ -196,7 +196,7 @@ a közjegyzőkről
 - g) aki életmódja vagy magatartása miatt a közjegyzői hivatás gyakorlásához szükséges közbizalomra érdemtelen,
 - h) akivel szemben a 7. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti.
 
-(4) Az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét a pályázatot meghirdető területi kamara elnöksége a pályázat elbírálása keretében vizsgálja.
+(4)
 
 (5) A pályaalkalmassági vizsgálat egészségi, fizikai és pszichikai vizsgálatból áll. A vizsgálatot a bíró pályaalkalmassági vizsgálatára irányadó – jogszabályban meghatározott – rendelkezések szerint kell elvégezni.
 
@@ -213,15 +213,45 @@ a közjegyzőkről
 
 (2) Az (1) bekezdés b) pontjában meghatározott adatigénylés kizárólag azon adatra irányulhat, hogy a közjegyzői kinevezésre pályázó személy tekintetében a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény fennáll-e.
 
-18. § (1) A közjegyzői állást pályázat útján kell betölteni.
+18. § (1) A közjegyzői álláshelyet – a 20. §-ban foglalt kivétellel – pályázat útján kell betölteni.
 
-(2) Annak a területi kamarának az elnöksége, amelynek területén a megüresedett közjegyzői állás van, a pályázatot meghirdeti, és a pályázók közül javaslatot tesz a kinevezésre.
+(2) A területi kamara elnöksége a közjegyzői szolgálat megszűnése miatt megüresedő vagy megüresedett közjegyzői állásról
 
-(3) Ha a közjegyzői szolgálat előreláthatólag azért szűnik meg, mert a közjegyző betölti azt a kort, amikor a törvény alapján a közjegyzői szolgálata megszűnik, a megüresedő közjegyzői állásra a pályázatot legkésőbb a szolgálat megszűnésének várható időpontját fél évvel megelőzően kell meghirdetni.
+- a) ha a közjegyzői szolgálat előreláthatólag azért szűnik meg, mert a közjegyző betölti azt a kort, amikor a törvény alapján a közjegyzői szolgálata megszűnik, legkésőbb a szolgálat megszűnésének várható időpontját hat hónappal megelőzően; vagy
+- b) ha a közjegyzői szolgálat a közjegyző halála miatt szűnik meg, a halál tényének a területi elnökség tudomására jutásától számított 8 napon belül
 
-(4) Ha a közjegyző a közjegyzői szolgálata megszűnését megelőzően lemondását a területi kamarának is megküldi, a kamara a megüresedő közjegyzői állásra a szolgálat megszűnésének várható időpontját megelőzően pályázatot hirdet. Ha a pályázat kiírását követően a meghirdetett közjegyzői állás mégsem üresedik meg, a pályázatot úgy kell tekinteni, mint amit visszavontak.
+tájékoztatja a minisztert. A közjegyzői álláshelyre a pályázatot a miniszter a tájékoztatás kézhezvételét követő 45 napon belül, hirdetmény közzététele útján írja ki.
 
-(5) A közjegyző kinevezésére a (3) és (4) bekezdésben foglalt esetben csak a közjegyzői szolgálat megszűnését követően kerülhet sor.
+(3) A közjegyzői álláshelyre a pályázatot a miniszter
+
+- a) a közjegyző lemondása esetén a felmentésről szóló határozat véglegessé válását;
+- b) a közjegyzői szolgálat megszűnése esetén az ennek megállapításáról szóló határozat véglegessé válását;
+- c) a fegyelmi bíróság hivatalvesztést, érdemtelenséget vagy alkalmatlanságot megállapító jogerős határozatának kézhezvételét;
+- d) a pályázati eljárás eredménytelenné vagy érvénytelenné nyilvánítását;
+- e) a közjegyzői álláshely kérelemre történő áthelyezés miatti megüresedését;
+- f) újonnan létrehozott álláshely esetén az álláshelyet létrehozó jogszabály kihirdetését; valamint
+- g) a területi kamara elnökségének a (2) bekezdésben foglalt tájékoztatása hiányában az álláshely megüresedéséről való tudomásszerzést
+
+követő 45 napon belül, hirdetmény közzététele útján írja ki.
+
+(4) A területi kamara a honlapján a közjegyzői álláshely megüresedéséről
+
+- a) (2) bekezdés szerinti körülmény bekövetkezése esetén, vagy
+- b) a miniszternek a (3) bekezdés szerint körülmény bekövetkezéséről való tájékoztatása alapján
+
+tájékoztatást tesz közzé. A tájékoztatás közzétételétől számított 8 napon belül a 20. § (2b) bekezdése szerinti áthelyezési kérelem előterjesztésének van helye.
+
+(5) Nincs helye pályázat kiírásának, ha a miniszter a közjegyzői álláshelyet a közjegyzői áthelyezési kérelme alapján töltötte be.
+
+(6) A pályázat kiírásának határideje az áthelyezési kérelem elbírálásának idejéig nyugszik.
+
+18/A. § (1) Ha a pályázat kiírását követően a meghirdetett közjegyzői álláshely mégsem üresedik meg, a pályázatot visszavontnak kell tekinteni.
+
+(2) A pályázati eljárást a miniszter eredménytelenné nyilvánítja, ha a benyújtásra rendelkezésre álló határidőben nem érkezett érvényes pályázat.
+
+(3) Érvényes a pályázat, ha a pályázó valamennyi, e törvény által előírt feltétel fennállását jogszabályban meghatározottak szerint igazolja.
+
+(4) A pályázati eljárást a miniszter érvénytelenné nyilvánítja, ha megállapítja, hogy a pályázati eljárás során az eljárási szabályok megsértésére került sor.
 
 19. § Olyan közjegyzői székhely esetén, ahol jelentős számban élnek nemzetiséghez tartozók, a nemzetiség nyelvét ismerő pályázót előnyben kell részesíteni.
 
@@ -230,6 +260,26 @@ a közjegyzőkről
 (2) Az érintett egy vagy több területi kamara elnökségének javaslatára a miniszter a közjegyzőket – beleegyezésükkel – pályázat kiírása nélkül kölcsönösen áthelyezheti. Nincs helye kölcsönös áthelyezésnek a közjegyző kinevezését követő 3 éven belül és azon időpontot megelőző 5 éven belül, amikor a közjegyző betölti azt a kort, amikor a törvény alapján a közjegyzői szolgálat megszűnik.
 
 (2a) Az érintett területi kamara elnökségének javaslatára a miniszter a közjegyzőt – beleegyezésével – a területi kamara illetékességi területén megüresedett vagy újonnan létrehozott közjegyzői székhelyre (álláshelyre) az érintett közjegyző által addig betöltött székhely (álláshely) egyidejű megszüntetésével, pályázat kiírása nélkül helyezheti át.
+
+(2b) A miniszter a közjegyzőt kérelmére megüresedett, megüresedő vagy újonnan létrehozott közjegyzői székhelyre (álláshelyre) pályázat kiírása nélkül áthelyezheti. Az áthelyezési kérelmet a betölteni kívánt székhely (álláshely) szerint illetékes területi kamara elnöksége útján kell a miniszterhez elektronikus úton benyújtani.
+
+(2c) A (2b) bekezdés szerint nincs helye áthelyezésnek a közjegyző kinevezését követő 3 éven belül és azon időpontot megelőző 5 éven belül, amikor a közjegyző betölti azt a kort, amikor a törvény alapján a közjegyzői szolgálata megszűnik.
+
+(2d) A területi kamara a kérelmet a benyújtástól számított 8 napon belül véleményével együtt, elektronikus úton küldi meg a miniszternek. A területi kamara a véleményét
+
+- a) az utolsó irodavizsgálat eredménye,
+- b) az áthelyezési kérelem benyújtását megelőző két évben a közjegyzővel szemben felmerült alapos panaszok száma,
+- c) a közjegyző továbbképzési kötelezettségének teljesítése, valamint
+- d) a kamarában végzett tevékenysége,
+
+alapján alakítja ki.
+
+(2e) A miniszter az áthelyezési kérelemről
+
+- a) a közjegyző szolgálati ideje, valamint
+- b) a területi kamara véleményében foglaltak
+
+alapján, a kérelem kézhezvételétől számított 30 napon belül dönt.
 
 (3) Ha a közjegyzői álláshelyet a miniszter – a 18. §-ban foglaltak szerint – más székhelyre kinevezett közjegyző személyével tölti be, a közjegyzőt e székhelyre helyezi át.
 
@@ -269,7 +319,9 @@ a közjegyzőkről
 - b) a közjegyzői szolgálat megszűnését megállapító határozatban megjelölt napon, ha e napig a közjegyzői szolgálat megszűnését megállapító határozat nem válik véglegessé, akkor a határozat véglegessé válásának,
 - c) a közjegyzői fegyelmi bíróság hivatalvesztést, a közjegyző alkalmatlanságát vagy érdemtelenségét megállapító határozata jogerőre emelkedésének,
 - d) a társadalombiztosítási nyugellátásról szóló törvényben meghatározott öregségi nyugdíjra jogosító legmagasabb öregségi nyugdíjkorhatár, de legalább a 65. életév közjegyző általi betöltésének, vagy
-- e) a közjegyző halálának napján.
+- e) a közjegyző halálának
+
+napján.
 
 (2) A miniszter a közjegyzőt felmenti, ha a közjegyző a szolgálatáról a miniszterhez intézett írásbeli nyilatkozatában lemondott.
 
@@ -295,12 +347,16 @@ a közjegyzőkről
 (3) A területi kamara elnöksége, valamint a miniszter a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény vizsgálata céljából kezeli
 
 - a) a közjegyzői kinevezésre pályázó személy,
-- b) a közjegyző azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által e célból kiállított hatósági bizonyítvány tartalmaz.
+- b) a közjegyző
+
+azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által e célból kiállított hatósági bizonyítvány tartalmaz.
 
 (4) Az (1) és (2) bekezdés, valamint a 17/A. § (1) bekezdés b) pontja alapján megismert személyes adatokat a területi kamara elnöksége, valamint a miniszter
 
 - a) a közjegyzői pályázat elbírálásáig,
-- b) a közjegyzői kinevezés esetén a hatósági ellenőrzés időtartamára vagy a közjegyzői szolgálat megszűnésének megállapítására irányuló eljárásban az eljárás véglegessé válásáig kezeli.
+- b) a közjegyzői kinevezés esetén a hatósági ellenőrzés időtartamára vagy a közjegyzői szolgálat megszűnésének megállapítására irányuló eljárásban az eljárás véglegessé válásáig
+
+kezeli.
 
 23. § (1) Ha a területi kamara elnöksége a 22. § (3) bekezdés a)–d) pontjában foglalt, a közjegyzői szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a miniszternek haladéktalanul bejelenteni.
 
@@ -455,7 +511,9 @@ a közjegyzőkről
 (9) A (6)–(8) bekezdés alapján megismert személyes adatokat a területi kamara elnöksége
 
 - a) a közjegyzői irodai tagság engedélyezése iránti eljárás jogerős befejezéséig,
-- b) a közjegyzői irodai tagság engedélyezése esetén a hatósági ellenőrzés időtartamára vagy a közjegyzői irodai tagsági engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+- b) a közjegyzői irodai tagság engedélyezése esetén a hatósági ellenőrzés időtartamára vagy a közjegyzői irodai tagsági engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+
+kezeli.
 
 31/C. § (1) Közjegyzői irodaként a cégjegyzékbe bejegyzett iroda működhet. A közjegyzői iroda az előtársaságra vonatkozó szabályok alapján nem kezdheti meg működését.
 
@@ -635,7 +693,7 @@ a közjegyzőkről
 
 37/C. § (1) A területi kamara elnöksége a felek kérelmére, hatósági eljárás keretében dönt az állandó helyettesítési megállapodás és a tartós helyettesítési megállapodás jóváhagyásáról.
 
-(2) Ha a megállapodás a jogszabályoknak és az országos kamara iránymutatásainak megfelel, a területi kamara elnöksége a megállapodást jóváhagyja, ellenkező esetében a jóváhagyást megtagadja. A jóváhagyó határozattal szemben fellebbezésnek nincs helye.
+(2) Ha a megállapodás a jogszabályoknak és az országos kamara szabályzatainak megfelel, a területi kamara elnöksége a megállapodást jóváhagyja, ellenkező esetében a jóváhagyást megtagadja. A jóváhagyó határozattal szemben fellebbezésnek nincs helye.
 
 37/D. § (1) Tartós helyettesítés esetén a területi kamara elnöksége által jóváhagyott megállapodás hiányában az e §-ban foglalt rendelkezéseket kell alkalmazni.
 
@@ -675,7 +733,7 @@ illetékességi területén.
 - b) meghatározza a kamarai hozzájárulást,
 - c) meghatározza a területi kamara éves költségvetését, ellenőrzi és elfogadja a költségvetési beszámolót,
 - d) jelentést, javaslatot készít, véleményt nyilvánít a Magyar Országos Közjegyzői Kamara számára a közjegyzők helyzetéről, szervezetéről és az őket érintő jogszabályok tervezetéről,
-- e) megállapítja a területi kamara szervezeti és működési szabályzatát, és azt 30 napon belül bemutatja a miniszternek,
+- e) megállapítja a területi kamara szervezeti és működési szabályzatát,
 - f) szociális és jótékonysági alapokat hozhat létre.
 
 42. § (1) A területi kamara a szükséghez képest, de évente legalább egyszer tart ülést.
@@ -729,13 +787,13 @@ illetékességi területén.
 
 - a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben,
 - b) az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint
-- c) az a) és b) pont szerinti törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott iránymutatásban
+- c) az a) és b) pont szerinti törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott szabályzatban
 
 foglalt kötelezettségek teljesítését.
 
 (2) Ha az ellenőrzés eredményeként a területi elnökség azt állapítja meg, hogy a közjegyző, közjegyzőhelyettes, illetve közjegyzőjelölt az (1) bekezdés szerinti kötelezettségeket megsértette, a területi elnökség
 
-- a) határozatban felhívja a közjegyzőt, közjegyzőhelyettest, illetve közjegyzőjelöltet a jogszabályoknak és iránymutatásnak megfelelő eljárásra, az elmulasztott intézkedések megtételére,
+- a) határozatban felhívja a közjegyzőt, közjegyzőhelyettest, illetve közjegyzőjelöltet a jogszabályoknak és szabályzatnak megfelelő eljárásra, az elmulasztott intézkedések megtételére,
 - b) fegyelmi vétség elkövetésének alapos gyanúja esetén feljelentést tesz a fegyelmi bíróság elnökénél.
 
 (3) A területi elnökség (2) bekezdés a) pontja szerinti határozata elleni fellebbezést a Magyar Országos Közjegyzői Kamara bírálja el.
@@ -815,7 +873,7 @@ foglalt kötelezettségek teljesítését.
 - e) a hivatás gyakorlására érdemtelenné vagy alkalmatlanná nyilvánították,
 - f) a névjegyzékbe történő bejegyzés időpontjától számított 30 napon belül az összeférhetetlenséget nem szüntette meg, illetőleg ha a bejegyzést követően vele kapcsolatban összeférhetetlenségi ok keletkezett,
 - g) a területi elnökség megállapítja, hogy a névjegyzékbe való felvétel jogszabályi feltételei – a 17. §-a (3) bekezdésének f) és g) pontja kivételével – már a bejegyzéskor sem álltak fenn,
-- h) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara iránymutatásának,
+- h) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara szabályzatának,
 - i) cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alá kerül.
 
 (6a) A területi elnökség a közjegyzői irodai ügyintézőt törli a közjegyzői irodai ügyintézők nyilvántartásából, ha
@@ -824,7 +882,7 @@ foglalt kötelezettségek teljesítését.
 - b) a 27/B. § b) pontja szerinti feltételnek már nem felel meg,
 - c) a 29. § (4) bekezdése szerinti összeférhetetlenségi okot nem szünteti meg,
 - d) a területi elnökség megállapítja, hogy a nyilvántartásba való felvétel jogszabályi feltételei már a bejegyzéskor sem álltak fenn, vagy
-- e) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara iránymutatásának,
+- e) a közjegyző működésének vizsgálata során a területi elnökség megállapítja, hogy foglalkoztatása nem felel meg a jogszabályoknak vagy az országos kamara szabályzatának,
 - f) cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alá kerül.
 
 (7) A közjegyző, a közjegyzőjelölt és a közjegyzőhelyettes az (5) bekezdés a)–g) pontjaiban írt körülményeket köteles haladéktalanul bejelenteni a területi elnökségnek.
@@ -922,19 +980,42 @@ foglalt kötelezettségek teljesítését.
 
 (4) A közjegyzői állások számának és székhelyének felülvizsgálata érdekében az országos kamara minden év március 31-ig megküldi a miniszter részére az egyes közjegyzői álláshelyekre vonatkozó részletes ügyforgalmi adatokat.
 
-55. § Az országos kamara iránymutatást ad ki különösen:
+55. § (1) Az országos kamara szabályzatban rendelkezik
 
-- a) a közjegyzők, közjegyzőhelyettesek és közjegyzőjelöltek magatartási szabályairól,
-- b) a közjegyzői önkormányzatok működéséről,
-- c) a közjegyzői közös irodák működésének feltételeiről,
-- d) a közjegyzői nyilvántartásokról,
-- e) a statisztikai adatszolgáltatásról,
-- f) a közjegyzői díjszabás alkalmazásáról,
-- g) a közjegyző őrzésében levő pénz, értéktárgy és értékpapír kezeléséről és nyilvántartásáról,
-- h) a közjegyzők működésének vizsgálatáról,
-- i) a közjegyzőjelöltek és közjegyzőhelyettesek szakmai képzéséről, foglalkoztatásáról és anyagi ösztönzéséről,
-- j) a közjegyzőkkel, közjegyzőhelyettesekkel és közjegyzőjelöltekkel szemben támasztott követelményrendszerről, továbbképzésükről,
-- k) a közjegyző hivatali elektronikus aláírása hitelesítése céljából kibocsátott tanúsítvány közjegyző általi alkalmazásának rendjéről, valamint kibocsátásának és bevonásának részletes eljárási szabályairól.
+- 1. a közjegyzők, közjegyzőhelyettesek és közjegyzőjelöltek magatartási szabályairól,
+- 2. a közjegyzők és a közjegyzőhelyettesek eskütételéről,
+- 3. a közjegyzőjelöltek és közjegyzőhelyettesek szakmai képzéséről, foglalkoztatásáról és anyagi ösztönzéséről,
+- 4. a közjegyzőkkel, közjegyzőhelyettesekkel és közjegyzőjelöltekkel szemben támasztott követelményrendszerről, továbbképzésükről,
+- 5. a közjegyzői közös irodák működésének feltételeiről,
+- 6. a közjegyzői önkormányzatok működéséről,
+- 7. a közjegyzői nyilvántartások vezetésével összefüggő eljárási szabályokról,
+- 8. a közjegyzők működésének vizsgálatáról,
+- 9. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítéséről, felügyeleti eljárásrendről, kockázatértékelésről és útmutatóról, valamint az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeiről, auditálásának módjáról és az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtásáról,
+- 10. a közjegyzői díjszabás alkalmazásáról,
+- 11. a közjegyző őrzésében levő pénz, értéktárgy és értékpapír kezeléséről és nyilvántartásáról,
+- 12. a közjegyzői pénzletétről,
+- 13. a közjegyző hivatali elektronikus aláírása hitelesítése céljából kibocsátott tanúsítvány közjegyző általi alkalmazásának rendjéről, valamint kibocsátásának és bevonásának részletes eljárási szabályairól,
+- 14. a közjegyző hivatali bélyegzőjéről és a hivatali elektronikus aláírásáról, az elektronikus hiteles kiadmányról,
+- 15. a nyelvi jogosítvány kiadásának rendjéről,
+- 16. az országos kamara által adományozható ösztöndíjról,
+- 17. a közjegyzői szervezetben adományozható szakmai elismerésekről,
+- 18. a nyugalmazott közjegyzők támogatásáról,
+- 19. az országos kamarát megillető költségtérítések elszámolásáról,
+- 20. az új székhelyre történő kinevezés és áthelyezés esetén felmerülő egyes kérdésekről,
+- 21. a közjegyzői székhely (álláshely) megszüntetése és az illetékességi terület változása esetén alkalmazandó kérdésekről,
+- 22. a közjegyzői okirat végrehajtásának elrendelése iránti eljárásban a közjegyző illetékességéről,
+- 23. a személyes adatoknak a közjegyzői eljárásokkal összefüggő kezelésére vonatkozó szabályokról,
+- 24. a közjegyzői eljárásokban az elektronikus ügyintézés egyes kérdéseiről,
+- 25. a közjegyzői okiratszerkesztésre vonatkozó egyes formai követelményekről, és
+- 26. minden olyan kérdésről, amelyre jogszabály vagy a szervezeti és működési szabályzata feljogosítja.
+
+(2) Az országos kamara szervezeti és működési szabályzatot készít, amelyben rögzíti saját szervezetét, működési és gazdálkodási rendjét, a területi kamarákkal és a területi elnökségekkel összefüggő jogait, valamint kapcsolattartásuk rendjét.
+
+(3) A területi és az országos kamara szervezeti és működési szabályzata, valamint az (1) bekezdés 1., 6., 9., 10., 11., 20., 21. és 23. pontjában felsorolt szabályzatok kiemelt szabályzatok.
+
+(4) Az országos kamara szabályzata a területi kamarákra, a területi kamara tagjaira, és a területi kamara által a kamarai nyilvántartásba vett személyekre kötelező.
+
+(5) Az országos és területi kamarák szervezeti és működési szabályzatait és az országos kamara kiemelt szabályzatait a miniszter jóváhagyásának kézhezvételétől számított 15 napon belül, a nem kiemelt szabályzatokat azok hatálybalépésével egyidejűleg az országos kamara honlapján kell közzétenni.
 
 56. § Az országos kamara szervei:
 
@@ -984,25 +1065,37 @@ foglalt kötelezettségek teljesítését.
 
 (3) A számvizsgálók a megállapításaikról tájékoztatják a választmányt.
 
-65. § (1) Az országos kamara szervezeti és működési szabályzatot készít, amelyben rögzíti saját szervezetét, működési rendjét és gazdálkodását, a területi kamarákkal és a területi elnökségekkel összefüggő jogait, valamint kapcsolattartásuk rendjét.
+65. § (1) A miniszter a kamarai szabályzatok törvényességéről
 
-(2) Az országos kamara köteles az iránymutatását, továbbá a szervezeti és működési szabályzatát a meghozatalától számított 30 napon belül bemutatni a miniszternek.
+- a) a kiemelt szabályzatok előzetes, valamint
+- b) a nem kiemelt szabályzatok utólagos
 
-66. § (1) Ha az iránymutatás, illetőleg a szervezeti és működési szabályzat, továbbá az önkormányzati szerv határozata jogszabályba ütközik, a miniszter — határidő kitűzésével — felhívja az önkormányzati szervet a jogszabálysértés megszüntetésére.
+ellenőrzésével gondoskodik.
 
-(2) Az önkormányzati szerv a felhívásban foglaltakat köteles megvizsgálni, és a megadott határidőn belül annak megfelelően az iránymutatást, a szervezeti és működési szabályzatot, továbbá a határozatot módosítani vagy egyet nem értéséről a minisztert tájékoztatni.
+(2) A területi és az országos kamara a kiemelt szabályzatát annak elfogadásától számított tizenöt napon belül megküldi a miniszternek. A kiemelt szabályzat, illetve módosítása akkor érvényes, ha annak törvényességét a miniszter megállapítja.
 
-(3)
+(3) A kiemelt szabályzat törvényességét a miniszter az országos és a területi kamara szervezeti és működési szabályzata esetén harminc, más kiemelt szabályzat esetén tizenöt napon belül megvizsgálja. Ha a kiemelt szabályzat nem ütközik jogszabályba, illetve a területi kamara szervezeti és működési szabályzata nem ütközik az országos kamara szabályzatába, a miniszter azt jóváhagyja, és jóváhagyását a vizsgálat befejezését követően haladéktalanul, elektronikus úton megküldi az országos, illetve területi kamarának.
 
-(4)
+(4) Az országos kamara nem kiemelt szabályzatát annak elfogadásától számított nyolc napon belül megküldi a miniszternek. A miniszter a nem kiemelt szabályzat törvényességét annak kézhezvételét követő hatvan napon belül ellenőrzi.
 
-(5)
+66. § (1) Ha a kiemelt szabályzat jogszabályba, illetve a területi kamara szervezeti és működési szabályzata az országos kamara szabályzatába ütközik, a miniszter a szabályzat jóváhagyásának megtagadását és annak indokait a vizsgálat befejezését követően haladéktalanul, elektronikus úton közli a kamarával, amely
 
-(6)
+- a) a kiemelt szabályzat kifogásolt rendelkezését harminc napon belül módosítja, vagy
+- b) a közléstől számított öt napon belül észrevételt tehet.
 
-(7)
+(2) Ha az (1) bekezdés b) pontja szerinti esetben a miniszter és a kamara nem ért egyet, a kamara az erről való tájékoztatástól számított harminc napon belül a közigazgatási ügyben eljáró bírósághoz fordulhat annak érdekében, hogy állapítsa meg a kiemelt szabályzat érvényességét. A bíróság a közigazgatási perrendtartás szabályainak megfelelő alkalmazásával soron kívül dönt.
 
-(8)
+(3) Ha a nem kiemelt szabályzat jogszabályba, szervezeti és működési szabályzatba, vagy egyéb szabályzatba ütközik, a miniszter haladéktalanul, határidő tűzésével felhívja az országos kamarát a nem kiemelt szabályzat módosítására. A nem kiemelt szabályzat érvényességét a miniszter utólagos ellenőrzése nem érinti.
+
+(4) Ha a miniszter azt állapítja meg, hogy a kamara jogszabályban, illetve szervezeti és működési szabályzatban foglalt kötelezettségét elmulasztotta, és a mulasztás a kamara működését veszélyezteti, legalább öt-, legfeljebb tizenöt napos határidő tűzésével felhívja a kamarát az elmulasztott intézkedés megtételére.
+
+(5) A kamara a felhívásban megadott határidőn belül az elmulasztott intézkedést megteszi, illetve az elmulasztott döntést meghozza, vagy egyet nem értéséről a minisztert a felhívás közlésétől számított tizenöt napon belül tájékoztatja.
+
+(6) Ha a mulasztás az (5) bekezdés szerinti eljárást követően is fennáll, a miniszter a kamara tájékoztatásától számított harminc napon belül a közigazgatási ügyben eljáró bírósághoz fordul.
+
+(7) Ha a bíróság a mulasztás tényét megállapítja, megfelelő határidő tűzésével kötelezi a területi kamara elnökségét, az országos kamara mulasztása esetén az országos kamarát az elmulasztott intézkedés megtételére. Az ítéletben megállapított határidő elmulasztása esetén indított, a teljesítés kikényszerítésére irányuló eljárásban a bíróság intézkedésként teljesítési bírság kiszabása mellett csak felügyelőbiztost rendelhet ki.
+
+(8) A felügyelőbiztos a mulasztó kamarai szerv helyett és nevében – a szabályzat megalkotásának kivételével – jogosult megtenni minden, a kamara és annak szervei feladat- és hatáskörébe tartozó szükséges intézkedést a mulasztás orvoslása érdekében.
 
 (9)
 
@@ -1036,7 +1129,7 @@ foglalt kötelezettségek teljesítését.
 
 (4) A területi elnökség a vizsgálat eredményét határozattal állapítja meg.
 
-(5) Ha a vizsgálat eredményeként a területi elnökség a határozatban azt állapítja meg, hogy a közjegyző megszegte a jogszabályban vagy a kamarai iránymutatásban szereplő kötelezettségeit
+(5) Ha a vizsgálat eredményeként a területi elnökség a határozatban azt állapítja meg, hogy a közjegyző megszegte a jogszabályban vagy a kamarai szabályzatban szereplő kötelezettségeit
 
 - a) felhívja a közjegyzőt a jogszabályoknak megfelelő eljárásra, az elmulasztott intézkedések megtételére,
 - b) fegyelmi vétség elkövetésének alapos gyanúja esetén feljelentést tesz a fegyelmi bíróság elnökénél.
@@ -1056,7 +1149,7 @@ foglalt kötelezettségek teljesítését.
 70. § Fegyelmi vétséget követ el az a közjegyző, az a közjegyzőhelyettes vagy az a közjegyzőjelölt (e fejezetben a továbbiakban együtt: eljárás alá vont személy),
 
 - a) aki e törvényben vagy más jogszabályban meghatározott kötelességét vétkesen megszegi, vagy elmulasztja, illetve
-- b) akinek vétkes magatartása a Magyar Országos Közjegyzői Kamara iránymutatásába ütközik – annak súlyára való tekintettel –, vagy egyébként alkalmas a közjegyzői kar tekintélyének csorbítására.
+- b) akinek vétkes magatartása a Magyar Országos Közjegyzői Kamara szabályzatába ütközik – annak súlyára való tekintettel –, vagy egyébként alkalmas a közjegyzői kar tekintélyének csorbítására.
 
 71. § Ha az eljárás alá vont személy vétkessége enyhébb fokú, és a kötelességszegés nem jár, vagy csekély mértékben jár következménnyel, a fegyelmi eljárás lefolytatása és a fegyelmi büntetés kiszabása mellőzhető, de a felmerült költségek viselésére kötelezhető.
 
@@ -1094,17 +1187,17 @@ foglalt kötelezettségek teljesítését.
 74/A. § (1) A 48/A. § (2) bekezdés b) pontja alapján megindított fegyelmi eljárásban a fegyelmi vétséget elkövető közjegyzővel, közjegyzőhelyettessel és közjegyzőjelölttel szemben kiszabható fegyelmi büntetések a következők:
 
 - a) figyelmeztetés,
-- b) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott iránymutatásban foglalt kötelezettségek megsértése esetén kötelezés a jogsértés megszüntetésére és az annak megismétlésétől való tartózkodásra,
-- c) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott iránymutatásban foglalt kötelezettségek megsértése esetén legfeljebb 400 000 000 Ft-ig terjedő pénzbírság.
+- b) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott szabályzatban foglalt kötelezettségek megsértése esetén kötelezés a jogsértés megszüntetésére és az annak megismétlésétől való tartózkodásra,
+- c) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott szabályzatban foglalt kötelezettségek megsértése esetén legfeljebb 400 000 000 Ft-ig terjedő pénzbírság.
 
 (2) Az (1) bekezdés szerinti fegyelmi büntetés kiszabásánál figyelemmel kell lenni
 
 - a) a jogsértés súlyosságára,
 - b) a jogsértésért felelős személy felelősségének mértékére,
-- c) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott iránymutatásban foglalt kötelezettségek megsértése esetén a felelős személy által a területi elnökséggel szemben tanúsított együttműködésre,
+- c) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott szabályzatban foglalt kötelezettségek megsértése esetén a felelős személy által a területi elnökséggel szemben tanúsított együttműködésre,
 - d) a jogsértés időtartamára, ismétlődésére vagy gyakoriságára.
 
-(3) A jogerős vagy a jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánított fegyelmi határozatot a területi elnökség – a közjegyzővel, közjegyzőhelyettessel, illetve közjegyzőjelölttel történő közléssel egyidejűleg – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott iránymutatásban foglalt kötelezettségek megsértése esetén köteles közzétenni a honlapján oly módon, hogy abból legalább a szabály megsértésének vagy a hiányosságnak a jellegére, illetve a jogsértő személyére vonatkozó adatok, információk megismerhetőek legyenek.
+(3) A jogerős vagy a jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánított fegyelmi határozatot a területi elnökség – a közjegyzővel, közjegyzőhelyettessel, illetve közjegyzőjelölttel történő közléssel egyidejűleg – a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben, valamint az e törvények végrehajtására a Magyar Országos Közjegyzői Kamara által elfogadott szabályzatban foglalt kötelezettségek megsértése esetén köteles közzétenni a honlapján oly módon, hogy abból legalább a szabály megsértésének vagy a hiányosságnak a jellegére, illetve a jogsértő személyére vonatkozó adatok, információk megismerhetőek legyenek.
 
 (4) A (3) bekezdésben foglalt közzétételi kötelezettség teljesítését a területi elnökség az azt alátámasztó okok fennállásáig elhalaszthatja, ha
 
@@ -1349,7 +1442,9 @@ foglalt kötelezettségek teljesítését.
 
 - a) közvádra üldözendő, 3 évnél súlyosabb szabadságvesztés büntetéssel fenyegetett, szándékos bűncselekmény miatt büntetőeljárás hatálya alatt áll,
 - b) letartóztatását, előzetes kényszergyógykezelését vagy olyan bűnügyi felügyeletét rendelték el a büntetőeljárás során, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, illetve lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, vagy
-- c) gondnokság alá helyezés iránti peres eljárásban a keresetlevelet vele közölték, amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésként állapítja meg. Az országos elnök határozatában megállapítja a szolgálatból történő felfüggesztés kezdő időpontját.
+- c) gondnokság alá helyezés iránti peres eljárásban a keresetlevelet vele közölték,
+
+amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésként állapítja meg. Az országos elnök határozatában megállapítja a szolgálatból történő felfüggesztés kezdő időpontját.
 
 (1a) Az elsőfokú fegyelmi bíróság ideiglenes intézkedésként az eljárás alá vont személyt a szolgálatából
 
@@ -2038,6 +2133,14 @@ kommunikálhat.
 
 (8) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi XCII. törvénnyel megállapított 79/A. §-t, 80. § (2)–(2b) bekezdést a 2020. szeptember 1. után megindult fegyelmi eljárásokra kell alkalmazni.
 
+(9) E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel megállapított 18. §-a szerinti, a pályázat kiírására vonatkozó hatáskörének gyakorlása érdekében a területi kamara elnöksége 2021. január 31-ig tájékoztatja a minisztert az illetékességi területén lévő betöltetlen közjegyzői álláshelyekről.
+
+(10) E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel megállapított 55. §-a szerinti szabályzatokat az országos kamara 2021. június 30-ig alkotja meg. A 2020. december 31-én hatályos iránymutatások a helyükbe lépő szabályzatok hatálybalépésével, de legkésőbb 2021. augusztus 31-én hatályukat vesztik. E törvény szabályzatra vonatkozó rendelkezéseit az iránymutatásra – annak hatályvesztéséig – alkalmazni kell.
+
+(11) Ha a 178. § (2) bekezdése hatálya alá tartozó közjegyző a tevékenységét egyénileg folytatja, a szolgálata megszűnéséig a tevékenysége egyénileg történő folytatását illetően e törvény 2021. december 31-én hatályos rendelkezései szerint jogosult a közjegyzői tevékenység folytatására.
+
+(12) Ha a közjegyzői iroda megalapítására 2021. december 31-ig azért nem került sor, mert a közjegyző fegyelmi büntetés vagy intézkedés hatálya alatt állt, vagy más ok miatt tartósan helyettesítették, a tevékenységét egyénileg folytató közjegyzőnek a tartós helyettesítés megszűnését követő 30 napon belül kell kérelmeznie az alapítási engedély megadását. A közjegyzői iroda megalapításáig a tevékenysége egyénileg történő folytatását illetően a közjegyző e törvény 2021. december 31-én hatályos rendelkezései szerint jogosult a közjegyzői tevékenység folytatására.
+
 ### Felhatalmazás
 
 183. § Felhatalmazást kap a miniszter, hogy — a 12. § (3) bekezdésében foglaltakon túl — rendelettel állapítsa meg:
@@ -2062,7 +2165,7 @@ kommunikálhat.
 - c) a közjegyzői irodai tagság létesítésének engedélyezése iránti eljárás részletes szabályait,
 - d) a közjegyzőhelyettes, a közjegyzőjelölt és a közjegyzői irodai ügyintéző további munkaviszonyának létesítésével kapcsolatos eljárás részletes szabályait.
 
-184. § (1) A 48/A. § és 74/A. § a pénzügyi rendszerek pénzmosás vagy terrorizmus-finanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelv 58–60. cikkeinek való megfelelést szolgálja.
+184. § (1) A 48/A. §, az 55. § (1) bekezdés 9. pontja és a 74/A. § a pénzügyi rendszerek pénzmosás vagy terrorizmus-finanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelv 58–60. cikkeinek való megfelelést szolgálja.
 
 (2) A 141. § (3) bekezdése az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló 2016. július 6-i (EU) 2016/1191 európai parlamenti és tanácsi rendelet 7–12. cikkének való megfelelést szolgálja.
 

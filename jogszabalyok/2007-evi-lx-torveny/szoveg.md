@@ -12,25 +12,25 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 - 1. Keretegyezmény: az 1995. évi LXXXII. törvénnyel kihirdetett ENSZ Éghajlatváltozási Keretegyezmény;
 - 2. Jegyzőkönyv: a 2007. évi IV. törvénnyel kihirdetett Kiotói Jegyzőkönyv;
-- 3. részes fél: a Keretegyezmény I. mellékletében felsorolt azon részes állam, amely a Jegyzőkönyvet megerősítette;
+- 3.
 - 4. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluortartalmú üvegházhatású gázok, a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6) és a nitrogén-trifluorid (NF3);
 - 5. széndioxid-egyenérték: egy tonna szén-dioxid vagy azzal megegyező globális éghajlat-módosító potenciálnak (GWP) megfelelő mennyiségű üvegházhatású gáz;
 - 6. nyelő: azon létesítmény, valamint maga a biomassza, amely valamilyen üvegházhatású gázt, aeroszol részecskét vagy azok képződését előidéző anyagot képes megkötni a légkörből;
-- 7. nemzetközi rugalmassági mechanizmusok: a részes felek által a Jegyzőkönyvben vállalt üvegházhatású gáz kibocsátás csökkentés elérését szolgáló kiegészítő eszközök, így különösen a nemzetközi együttműködéssel megvalósuló projekttevékenységek, és a nemzetközi kibocsátás-kereskedelem;
-- 8. nemzetközi együttműködéssel megvalósuló projekttevékenységek: az együttes végrehajtás és a tiszta fejlesztési mechanizmus;
-- 9. együttes végrehajtás: olyan nemzetközi együttműködéssel megvalósuló projekttevékenység, amelynek során az egyik részes fél (befektető ország) beruházása, egy másik részes fél (fogadó ország) területén, a Keretegyezménynek, illetve a Jegyzőkönyv alapján hozott határozatoknak megfelelően jóváhagyott üvegházhatású gáz kibocsátásának csökkenését vagy nyelők általi eltávolításának növelését eredményezi;
-- 10. tiszta fejlesztési mechanizmus: olyan nemzetközi együttműködéssel megvalósuló projekttevékenység, amelynek során a részes fél (befektető ország) beruházása, egy, a Keretegyezmény I. mellékletében nem szereplő részes fél (fogadó ország) területén, a Keretegyezménynek, illetve a Jegyzőkönyv alapján hozott határozatoknak megfelelően jóváhagyott üvegházhatású gáz kibocsátásának csökkenését vagy nyelők általi eltávolításának növelését eredményezi;
+- 7.
+- 8.
+- 9.
+- 10.
 - 11. nemzetközi kibocsátás-kereskedelem: a kiotói egységek átruházása a Keretegyezménynek, illetve a Jegyzőkönyv alapján hozott határozatoknak megfelelően;
-- 12. kibocsátható mennyiség: az üvegházhatású gázok emberi tevékenységből származó, összesített kibocsátás mennyisége, szén-dioxid egyenértékben kifejezve egy meghatározott kötelezettségvállalási időszakra, a Jegyzőkönyv, illetve az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendelet (a továbbiakban: 601/2012/EU bizottsági rendelet) vonatkozó rendelkezéseinek megfelelően;
+- 12. kibocsátható mennyiség: az üvegházhatású gázok emberi tevékenységből származó, összesített kibocsátás mennyisége, szén-dioxid egyenértékben kifejezve egy meghatározott kötelezettségvállalási időszakra, a Jegyzőkönyv, illetve az üvegházhatású gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről, valamint a 601/2012/EU bizottsági rendelet módosításáról szóló, 2018. december 19-i (EU) 2018/2066 bizottsági végrehajtási rendelet vonatkozó rendelkezéseinek megfelelően;
 - 13. kiotói egység: a kibocsátható mennyiségi egység (AAU), a kibocsátás-csökkentési egység (ERU), az igazolt kibocsátás-csökkentési egység (CER) és az eltávolítási egység (RMU);
 - 14. kibocsátható mennyiségi egység (AAU): a kibocsátható mennyiség alapján megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid-egyenérték kibocsátására jogosít fel;
 - 15. kibocsátás-csökkentési egység (ERU): az együttes végrehajtás eredményeként megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid-egyenérték kibocsátására jogosít fel;
 - 16. kötelezettségvállalási időszak: a Jegyzőkönyv 3. cikk (1) bekezdése alapján meghatározott időszak;
 - 17. igazolt kibocsátás-csökkentési egység (CER): a tiszta fejlesztési mechanizmus eredményeként megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid egyenérték kibocsátására jogosít fel;
 - 18. eltávolítási egység (RMU): az első kötelezettségvállalási időszakban (2008–2012) az üvegházhatású gázoknak a légkörből nyelő által történő eltávolítása esetében megállapított és kiadott vagyoni értékű jog, amely egy szén-dioxid-egyenérték kibocsátására jogosít fel;
-- 19. forgalmi jegyzék: a 389/2013/EU bizottsági rendelet 2. fejezet 4. cikke szerinti forgalmi jegyzék;
-- 20. akkreditált független hitelesítő: a Kiotói Jegyzőkönyvben részes felek találkozójául szolgáló Felek Konferenciája első ülésszakán elfogadott, a Kiotói Jegyzőkönyv 6. cikkének végrehajtásáról szóló 9/CMP.1 határozatban (a továbbiakban: együttes végrehajtás határozat) felállított, az Együttes Végrehajtás Felügyeleti Bizottság által az együttes végrehajtás határozat rendelkezéseinek megfelelően akkreditált független hitelesítő;
-- 21. más EGT-államban feljogosított hitelesítő: az együttes végrehajtásban résztvevő, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén az együttes végrehajtással kapcsolatos hitelesítői tevékenység végzésére az adott EGT-állam által feljogosított független hitelesítő;
+- 19. forgalmi jegyzék: az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet szerinti forgalmi jegyzék;
+- 20.
+- 21.
 - 22. kibocsátási jogosultság: a kiotói egység, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti ÜHG-egység és ESD-egység;
 - 23. alkalmazkodás: olyan átfogó intézkedések összessége, amelynek célja az éghajlatváltozás káros hatásainak megelőzése, csökkentése, terjedésének korlátozása, a környezeti egyensúly helyreállítása, valamint az éghajlatváltozásból eredő előnyös hatások kiaknázása;
 - 24. kitettség: olyan állapotleírás, amely azt mutatja meg, hogy a vizsgált földrajzi területre a földrajzi adottságaiból eredően milyen mértékben gyakorol hatást az egyes éghajlati tényezők változása, valamint a veszélyforrások.
@@ -54,6 +54,17 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (5) A téradatot létrehozó, kezelő, rendszeresen frissítő és a téradat birtokában lévő, valamint a téradattal kapcsolatos állami vagy önkormányzati, továbbá jogszabályban meghatározott közfeladatot ellátó, illetve közszolgáltatást nyújtó szerv vagy személy, valamint ezek ellenőrzése alatt álló természetes vagy jogi személy – a döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztosításáról szóló törvény rendelkezéseire figyelemmel – a nemzeti alkalmazkodási térinformatikai rendszer működéséhez és a területi és ágazati éghajlati sérülékenység vizsgálatok elvégzéséhez szükséges adatokat az e törvény végrehajtására kiadott jogszabályban meghatározott eljárási rendben a miniszter számára díj- és költségtérítés megállapítása nélkül biztosítja.
 
+### Az éghajlatváltozás hatásaihoz való alkalmazkodás
+
+3/A. § (1) Az alkalmazkodás keretében az alábbi intézkedéseket kell végrehajtani a következő sorrendet betartva:
+
+- a) az éghajlatváltozással járó hátrányos jelenségek megelőzése,
+- b) az elkerülhetetlen jelenségekkel szembeni védekezés,
+- c) a bekövetkezett környezetkárosodás elhárítása,
+- d) a bekövetkezett környezetkárosodás esetén kármentesítés, valamint az eredeti állapot vagy ahhoz közeli állapot helyreállítása.
+
+(2) Az (1) bekezdésben foglalt feladatokat a miniszter az állami intézményrendszeren keresztül, különösen a környezetvédelmi, a természetvédelmi, a vízügyi, a katasztrófavédelmi, az egészségügyi és a területfejlesztési intézmények közreműködésével látja el.
+
 ### Az üvegházhatású gázok kibocsátásának nyilvántartása, adatszolgáltatás
 
 4. § (1) A környezetvédelemért felelős miniszter egyetértésben a miniszterrel, valamint az erdőgazdálkodásért felelős miniszterrel az üvegházhatású gázok emberi tevékenységből származó hazai kibocsátásának, illetve a nyelők általi eltávolításának figyelemmel kísérésére, adatok gyűjtésére, nyilvántartására évenként leltárt (a továbbiakban: Nemzeti Kibocsátási Leltár) készít, az adatok feldolgozására, elemzésére, valamint előrejelzések készítésére a nemzetközi kötelezettségvállalásoknak megfelelően nyilvántartási rendszert (a továbbiakban: Nemzeti Nyilvántartási Rendszer) létesít és működtet. A Nemzeti Kibocsátási Leltár a Nemzeti Nyilvántartási Rendszer részét képezi.
@@ -62,7 +73,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (3) Az ország üvegházhatású gáz kibocsátásának pontosabb előrejelzése érdekében az üvegházhatású gázokat jelentős mennyiségben kibocsátó, illetve nyelő, a külön jogszabályban meghatározott tevékenységek megkezdése előtt a beruházó a tevékenység létrejöttéhez kapcsolódó és a tevékenység következtében létrejövő teljes üvegházhatású gáz kibocsátásra vonatkozó előrejelzést köteles készíteni és erről a Nemzeti Nyilvántartási Rendszert üzemeltető intézményt írásban tájékoztatni.
 
-(4) Az állami meteorológiai szolgálat e törvény végrehajtására kiadott jogszabályban meghatározott mértékű bírság megfizetésére kötelezheti a (2) bekezdésben meghatározott adatszolgáltatásra kötelezett szervezetet, amennyiben az a (2) bekezdésben meghatározott kötelezettségének részben vagy egészben nem tesz eleget. A bírság összegét az állami meteorológiai szolgálat az eset összes körülményére – így különösen a jogsértés súlyára, céljára, időtartamára, a jogsértő magatartás ismételt tanúsítására – tekintettel határozza meg.
+(4) Az állami meteorológiai szolgálat e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírságot szab ki a (2) bekezdésben meghatározott adatszolgáltatásra kötelezett szervezettel szemben, amennyiben az a (2) bekezdésben meghatározott kötelezettségének részben vagy egészben nem tesz eleget. A bírság kiszabására irányuló eljárásban figyelmeztetés szankció alkalmazásának nincs helye.
 
 (5) A (2) bekezdésben meghatározott, a nemzetközi adatszolgáltatás teljesítéséhez szükséges adatokat abban az esetben is kötelező a Nemzeti Nyilvántartási Rendszer rendelkezésére bocsátani, amennyiben azok a hivatalos statisztikát szabályozó törvény vonatkozó rendelkezései szerint egyedi adatnak minősülnek.
 
@@ -76,19 +87,19 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (4) A forgalmi jegyzékben számlával rendelkezők az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény végrehajtásának egyes szabályairól szóló kormányrendeletben meghatározott számlavezetési díjat kötelesek fizetni.
 
-(5) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő olyan személy lehet, aki büntetlen előéletű és nem áll a közügyektől eltiltás hatálya alatt. E tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a klímavédelemért felelős hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott megkeresése alapján – továbbítja. Az adatkezelés a 389/2013/EU bizottsági rendelet szerint történik.
+(5) A számlanyitást kérelmező köteles legalább két meghatalmazott képviselőt megnevezni. A meghatalmazott képviselő olyan személy lehet, aki büntetlen előéletű és nem áll a közügyektől eltiltás hatálya alatt. E tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a klímavédelemért felelős hatóság részére – annak a számlanyitási kérelem vizsgálata céljából benyújtott megkeresése alapján – továbbítja. Az adatkezelés az (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet szerint történik.
 
 ### Az üvegházhatású gázokkal kapcsolatos adatok nyilvánossága
 
-6. § Az üvegházhatású gázok kibocsátásával, illetve nyelőkkel történő eltávolításával kapcsolatos adatok, így különösen az Éghajlatváltozási Stratégiára, az Éghajlatváltozási Programra, a Nemzeti Nyilvántartási Rendszerre, a nemzetközi rugalmassági mechanizmusokra vonatkozó adatok környezeti információnak minősülnek.
+6. § Az üvegházhatású gázok kibocsátásával, illetve nyelőkkel történő eltávolításával kapcsolatos adatok, így különösen az Éghajlatváltozási Stratégiára, az Éghajlatváltozási Programra, a Nemzeti Nyilvántartási Rendszerre vonatkozó adatok környezeti információnak minősülnek.
 
 ### Nemzeti jelentéstétel
 
-7. § Az üvegházhatású gázok kibocsátásával, illetve nyelőkkel történő eltávolításával, valamint az éghajlatváltozással kapcsolatos egyéb információra vonatkozó jelentéstételt a miniszter teljesíti az 525/2013/EU európai parlamenti és tanácsi rendelet és az üvegházhatású gázok kibocsátásának a 2020-ig terjedő időszakra szóló közösségi kötelezettségvállalásoknak megfelelő szintre történő csökkentésére irányuló tagállami törekvésekről szóló, 2009. április 23-i 2009/406/EK európai parlamenti és tanácsi határozat rendelkezéseinek, valamint a nemzetközi kötelezettségeknek megfelelően.
+7. § Az üvegházhatású gázok kibocsátásával, illetve nyelőkkel történő eltávolításával, valamint az éghajlatváltozással kapcsolatos egyéb információra vonatkozó jelentéstételt a miniszter teljesíti az (EU) 2018/1999 európai parlamenti és tanácsi rendelet és (EU) 2018/842 európai parlamenti és tanácsi rendelet rendelkezéseinek, valamint a nemzetközi kötelezettségeknek megfelelően.
 
 ### A kiotói egységek létrejötte és megszűnése
 
-8. § (1) A Jegyzőkönyv alapján keletkező kiotói egységek a kincstári vagyonba tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
+8. § (1) A Jegyzőkönyv alapján keletkező, a nemzeti számlákon lévő kiotói egységek a kincstári vagyonba tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
 
 (2) A kiotói egység a forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. Az iparügyekért felelős miniszter az adott elszámolási időszak végén – a jegyzékkezelő útján – gondoskodik az adott kötelezettségvállalási időszakra vonatkozóan kibocsátott a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
 
@@ -256,6 +267,10 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (1l) Hatósági ellenőrzés lefolytatása iránti kérelem előterjesztésének nincs helye.
 
+(1m) Nem alkalmazható közigazgatási szankció, ha a jogsértő magatartásnak a klímavédelemért felelős hatóság tudomására jutásától számított egy év eltelt, illetve ha az elkövetéstől számított öt év eltelt.
+
+(1n) Ha a termék vagy berendezés az e törvényben, európai uniós jogi aktusokban vagy jogszabályokban foglalt követelményeknek nem felel meg, vagy az azokban foglalt tilalomba ütközik, a klímavédelemért felelős hatóság a jogosult a terméket vagy berendezést elkobozni, és annak megsemmisítését elrendelni. Az elkobzással és megsemmisítéssel kapcsolatban felmerült valamennyi költség a jogsértés elkövetőjét terheli.
+
 (2) Az (1) bekezdésben meghatározott célra az F-Gáz ügyfélazonosító alatt az adatbázisban kezelt adatok:
 
 - a) természetes személy esetében:
@@ -324,11 +339,17 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (2)–(3)
 
-(4) A klímavédelmi bírság összegét a klímavédelemért felelős hatóság az eset összes körülményeire – így különösen a jogsértés súlyára, időtartamára, a mulasztás körülményeire, a kötelezettségszegés időtartamára és ismétlődésére, a jogsértő magatartás konkrét veszélyességére vagy károsító hatására, a jogsértéssel szerzett előnyre, továbbá a termékekben és berendezésekben használt fluortartalmú üvegházhatású gázok mennyiségére és annak a klímavédelemmel összefüggésben kitűzött célok megvalósítására való veszélyességére – tekintettel határozza meg.
+(4) A klímavédelmi bírság mértékének meghatározásakor a klímavédelemért felelős hatóság a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett figyelembe veszi különösen a jogsértő magatartás konkrét veszélyességét vagy károsító hatását, továbbá a termékekben és berendezésekben használt fluortartalmú üvegházhatású gázok mennyiségét és annak a klímavédelemmel összefüggésben kitűzött célok megvalósítására való veszélyességét.
 
-(5) Ha a jogsértés a tevékenység vagy mulasztás súlyára, az elkövetés vagy kötelezettségszegés következményeire tekintettel annyira csekély, hogy bírság alkalmazása szükségtelen, a klímavédelemért felelős hatóság mérlegelési jogkörben eljárva dönthet a klímavédelmi bírság kiszabásának mellőzéséről, egyidejűleg figyelmeztetve a jogsértőt az ismételt jogsértés jogkövetkezményeire.
+(5)
 
-(6) A klímavédelemért felelős hatóság – figyelemmel az eset összes körülményére – méltányosságból, ha a klímavédelmi bírság célja csökkentett összeggel is elérhető, az e törvény végrehajtására kiadott kormányrendeletben meghatározott bírság mértékénél alacsonyabb összegű klímavédelmi bírság kiszabásáról is dönthet, egyidejűleg figyelmeztetve a jogsértőt az ismételt jogsértés jogkövetkezményeire.
+(6) A klímavédelemért felelős hatóság – figyelemmel az eset összes körülményére, mérlegelve különösen a jogsértéssel érintett fluortartalmú üvegházhatású gázok mennyiségét – méltányosságból, a jogsértés tényének megállapítása mellett az e törvény végrehajtására kiadott kormányrendeletben meghatározott bírság mértékénél alacsonyabb összegű klímavédelmi bírság kiszabásáról vagy annak mellőzéséről is dönthet.
+
+(6a) Az e törvény hatálya alá tartozó hatósági eljárásban figyelmeztetés szankció alkalmazásának nincs helye, kivéve
+
+- a) az 517/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (4) bekezdésében rögzített, fluortartalmú üvegházhatású gázt tartalmazó tűzvédelmi berendezés szivárgásvizsgálatára vonatkozó követelmény nem vagy nem megfelelő teljesülése,
+- b) az 517/2014/EU európai parlamenti és tanácsi rendelet 5. cikkében és az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerinti szivárgásészlelő rendszer beszerelési kötelezettség megszegése, illetve a már beszerelt szivárgásészlelő rendszerre vonatkozó kötelezettség teljesítésének elmulasztása,
+- c) az 517/2014/EU európai parlamenti és tanácsi rendelet 11. cikk (5) bekezdésében és az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerinti, telepítési tanúsítvány hiányában értékesített berendezések esetét kivéve, a telepítési tanúsítvánnyal kapcsolatos más kötelezettség megszegése esetén.
 
 (7) Ismételt jogsértés esetén az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint kell a klímavédelmi bírság összegét megállapítani.
 
@@ -356,48 +377,23 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 10/J. § A klímavédelemért felelős hatóság döntése elleni perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
-### Részvétel nemzetközi rugalmassági mechanizmusokban és klímapolitikai célkitűzések végrehajtásában
+### Részvétel nemzetközi klímapolitikai célkitűzések végrehajtásában
 
-11. § (1) Magyarország területén megvalósítandó együttes végrehajtásban jogi személyek a nemzetközi kötelezettségvállalásokkal összhangban, külön jogszabályban meghatározottak szerint a miniszter jóváhagyása alapján vehetnek részt.
+11. §
 
-(2) Magyarország területén a nemzetközi kötelezettségvállalásoknak, és a külön jogszabályban meghatározott feltételeknek megfelelően megvalósított együttes végrehajtás teljesítése után a miniszter kibocsátás-csökkentési egységeket állapít meg és ad át az együttes végrehajtásban résztvevő befektető országnak, illetve a befektető ország meghatalmazásával rendelkező szervezetnek.
+12. §
 
-12. § Magyarország területén kívül megvalósítandó együttes végrehajtásban vagy tiszta fejlesztési mechanizmusban magyarországi székhellyel rendelkező jogi személyek a nemzetközi kötelezettségvállalásokkal összhangban, külön jogszabályban meghatározott feltételek teljesítése esetén a miniszter jóváhagyása alapján vehetnek részt.
+13. §
 
-13. § (1) Magyarország területén megvalósítandó együttes végrehajtásban részt vevő jogi személyek a miniszteri jóváhagyás kézhezvételétől számított 30 napon belül egyszeri felügyeleti díjat kötelesek fizetni. A miniszter a felügyeleti díjat a Nemzeti Nyilvántartási Rendszer működtetésével kapcsolatos tevékenységének fedezetére fordítja.
+13/A. §
 
-(2) A felügyeleti díj mértékét az adott évre vonatkozó költségvetési törvény határozza meg.
+13/B. §
 
-13/A. § Az együttes végrehajtási projekt tervdokumentumát és a projekt megvalósításáról és működtetéséről készített éves jelentést a kibocsátáscsökkentési tevékenység végrehajtója a Kormány rendeletében meghatározott módon, együttes végrehajtás hitelesítővel hitelesítteti.
+13/C. §
 
-13/B. § (1) Együttes végrehajtás hitelesítőként a klímavédelemért felelős hatóság engedélyével rendelkező szervezet, akkreditált független hitelesítő vagy más EGT-államban feljogosított hitelesítő vehető igénybe.
+13/D. §
 
-(2) Együttes végrehajtás-hitelesítői tevékenység folytatását a klímavédelemért felelős hatóság annak a szervezetnek engedélyezi, amely
-
-- a) munkavállalóként vagy egyéb foglalkoztatásra irányuló jogviszony keretében legalább három, a (3) bekezdés szerinti feltételeknek megfelelő személyt foglalkoztat, és
-- b) rendelkezik a külön jogszabályban meghatározott biztosítékkal, és megfelel az ott meghatározott egyéb feltételeknek.
-
-(3) Az együttes végrehajtás-hitelesítő szervezet hitelesítő tevékenységét csak legalább három olyan személy útján folytathatja, aki büntetlen előéletű, nem áll az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek (a továbbiakban: együttes végrehajtás-hitelesítő szakértő).
-
-(4) A (2) bekezdés szerinti engedély iránti kérelemnek tartalmaznia kell az együttes végrehajtás-hitelesítő által foglalkoztatott legalább három együttes végrehajtás-hitelesítő szakértő nevét, levelezési címét, telefonszámát, elektronikus levelezési címét. A bűnügyi nyilvántartó szerv a klímavédelemért felelős hatóság részére – annak az együttes végrehajtás-hitelesítői tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítja az (5) bekezdésben meghatározott adatokat.
-
-(5) A klímavédelemért felelős hatóság az együttes végrehajtás-hitelesítői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az együttes végrehajtás-hitelesítő szakértők büntetlen előéletűek-e, és nem állnak-e az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a klímavédelemért felelős hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az együttes végrehajtás-hitelesítő szakértők büntetlen előéletűek-e, valamint, hogy az együttes végrehajtás-hitelesítő szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt állnak-e.
-
-(6) A (4) és (5) bekezdés alapján megismert személyes adatokat a klímavédelemért felelős hatóság
-
-- a) az együttes végrehajtás-hitelesítői tevékenység engedélyezése iránti eljárás végleges döntéssel történő lezárásáig,
-- b) az együttes végrehajtás-hitelesítői tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás végleges döntéssel történő lezárásáig kezeli.
-
-13/C. § (1) Együttes végrehajtás-hitelesítői tevékenység folytatását a klímavédelemért felelős hatóság annak az akkreditált független hitelesítőnek engedélyezi, amely
-
-- a) a hitelesítői tevékenység végzésére az Együttes Végrehajtás Felügyeleti Bizottság akkreditációja folytán jogosult,
-- b) rendelkezik a külön jogszabályban meghatározott biztosítékkal, és megfelel az ott meghatározott egyéb feltételeknek.
-
-(2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező, más EGT-államban feljogosított hitelesítő a határon átnyúló szolgáltatásnyújtás keretében külön engedély nélkül folytathatja tevékenységét, köteles azonban az együttes végrehajtás hitelesítői tevékenység folytatására irányuló szándékát a klímavédelemért felelős hatóságnak bejelenteni.
-
-13/D. § A klímavédelemért felelős hatóság a 13/B. § és a 13/C. § (1) bekezdése szerinti együttes végrehajtás hitelesítői tevékenységre engedéllyel rendelkezőkről, illetve együttes végrehajtás hitelesítői tevékenységre jogosult, a 13/C. § (2) bekezdése szerinti bejelentést tevőkről – a hitelesítői tevékenység végzésére való jogosultság igazolása céljából – nyilvántartást vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottakon túl, a 13/B. § szerinti esetben tartalmazza az együttes végrehajtás hitelesítő szervezet által foglalkoztatott együttes végrehajtás hitelesítő szakértők nevét, levelezési címét, telefonszámát, faxszámát és elektronikus levelezési címét. A nyilvántartásból kizárólag a hitelesítői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat. A klímavédelemért felelős hatóság nyilvántartásban szereplő adatokat a tevékenység megszűnése vagy megszüntetése napján törli.
-
-13/E. § A klímavédelemért felelős hatóság 13/B. §–13/C. § szerinti engedélyezési eljárásáért és a 13/C. § szerinti bejelentésért igazgatási szolgáltatási díjat kell fizetni.
+13/E. §
 
 13/F. § (1) A miniszter a Keretegyezményből fakadó nemzetközi kötelezettségvállalásokkal összefüggésben ellátja a nemzetközi klímavédelmi erőfeszítéseket támogató multi- és bilaterális szervezetekben a hazai képviseletet és koordinálja a részvételt. Ennek keretében a külpolitikáért felelős miniszter egyetértésével, az államháztartásért felelős miniszter tájékoztatásával egyidejűleg a Zöld Klíma Alap (GCF) döntéshozó testülete esetében kijelöli a szervezethez akkreditált nemzeti képviselőt.
 
@@ -417,7 +413,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (2) E törvény 4. §-ának (4) bekezdése és a 13. §-a 2008. január 1. napján lép hatályba.
 
-(3) Az e törvény hatálybalépését megelőzően a környezetvédelemért felelős miniszter által jóváhagyott együttes végrehajtási projekttevékenységek e törvény szerint jóváhagyottnak minősülnek.
+(3)
 
 (4)
 
@@ -425,13 +421,13 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 - a) az Éghajlatváltozási Stratégia felülvizsgálatához szükséges nemzeti alkalmazkodási térinformatikai rendszer működésének részletes szabályait, különös tekintettel az abban kezelt adatok körére, az adatszolgáltatás rendjére, az adatok nemzeti alkalmazkodási térinformatikai rendszer keretében történő felhasználásának részletes szabályaira;
 - b) a kibocsátási jogosultságokkal és az abból származó bevételekkel való gazdálkodás, valamint az árveréssel, a versenyeztetés mellőzésével vagy közvetetten történő értékesítési eljárás részletes szabályait;
-- c) a nemzetközi együttműködéssel megvalósuló projekttevékenységek és a nemzetközi kibocsátás-kereskedelemben való részvétel szabályait, illetve díjait;
+- c)
 - d) a forgalmi jegyzék működésének szabályait;
 - e) a forgalmi jegyzékhez kapcsolódó számlavezetési díj mértékét és fizetésének szabályait;
 - f) a nemzetközi jelentések tartalmának és elkészítésének módját;
 - g) az üvegházhatású gázok kibocsátására vonatkozó nyilvántartási rendszer működésének, valamint a nyilvántartási rendszerrel kapcsolatos adatszolgáltatásnak a rendjét, a nyilvántartási rendszerhez szükséges adatok körét a személyes adatok kivételével;
 - h) a nyilvántartási rendszerrel kapcsolatos adatszolgáltatási, illetve előrejelzési kötelezettség megszegése esetén fizetendő bírság összegét;
-- i) az Európai Közösség kibocsátási egységkereskedelmi rendszerében részt vevő személyek tekintetében a nemzetközi kibocsátás-kereskedelemben való részvételi szabályokat;
+- i)
 - j) az üvegházhatású gázok jelentős mértékű kibocsátásával, illetve elnyelés általi eltávolításával járó, a tevékenység megkezdése előtt a kibocsátás, illetve elnyelés előrejelzésre kötelezett tevékenységek körét;
 - k) a fluortartalmú üvegházhatású gázokat tartalmazó vagy azzal működtetett termékek, berendezések és létesítményekkel kapcsolatos tevékenységek végzéséhez szükséges képzési, képesítési és vizsgáztatási rendszer, valamint az ezzel kapcsolatos felelősségi rendszerek részletes szabályait;
 - l) a fluortartalmú üvegházhatású gázokkal végzett tevékenység esetében a vállalkozások, üzemeltetők és tulajdonosok regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségének, valamint az ezzel kapcsolatos felelősségi rendszereknek a részletes szabályait;
@@ -439,22 +435,22 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 - n) a fluortartalmú üvegházhatású gázokat tartalmazó termékek és berendezések szivárgásvizsgálatára, visszanyerésére, újrahasznosítására és regenerálására vonatkozó szabályokat, valamint ezen tevékenységek végzése esetében a regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségek, valamint az ezzel kapcsolatos felelősségi rendszerek részletes szabályait;
 - o) a klímavédelmi bírság mértékét;
 - p) a klímavédelemért felelős hatóság kijelölését;
-- q) az együttes végrehajtás-hitelesítői tevékenység folytatásának feltételeit, a tevékenység engedélyezésének és más EGT-államban feljogosított hitelesítő 13/D. § szerinti nyilvántartás vezetésének részletes szabályait, annak adattartalmát, , továbbá az együttes végrehajtás hitelesítői tevékenységre előírt kötelezettségek megszegése esetén alkalmazandó jogkövetkezményeket;
+- q)
 - r) a fluortartalmú üvegházhatású gázok 517/2014/EU európai parlamenti és tanácsi rendeletben nem szabályozott felhasználási céljából a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végző vállalkozások részére az e tevékenység végzésére jogosító engedélyezési eljárás részletes szabályait;
 - s) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügyfélazonosítóval rendelkező ügyfelek általi igénybevételének és vezetésének részletes szabályait;
 - t) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző vállalkozások képesítési rendszerének, a képesítések nyilvántartásának, az igazolás kiadásának, az ahhoz fűződő formai és tartalmi követelmények meghatározásának részletes szabályait,
-- u) az együttes végrehajtási projektek támogatásának eljárásrendjére, jóváhagyására, hitelesítésére, valamint nyomon követésére szolgáló adatszolgáltatási és jelentési rendre vonatkozó szabályokat, az e körben alkalmazható jogkövetkezményeket.
+- u)
 
 (6) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 
-- a) a Magyarország területén megvalósuló együttes végrehajtási projekttevékenységek vonatkozásában a felügyeleti díj megfizetésének részletes szabályait;
+- a)
 - b) a klímavédelmi felügyeleti díj megfizetésének részletes szabályait;
 - c) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző természetes személyek képzésére, képesítésére és vizsgáztatására, a szerzett tudás elismerésére, a vizsgáztatás és képesítés rendjére vonatkozó részletes szabályokat;
 - d) a fluortartalmú üvegházhatású gázokkal összefüggő tevékenységet végzők képzéséért, vizsgáztatásáért és a képesítést igazoló okirat kiállításáért fizetendő díj mértékét és a díj megfizetésének részletes szabályait
 
 rendeletben állapítsa meg.
 
-(7) Felhatalmazást kap a miniszter, hogy az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+(7)
 
 (8)
 
@@ -480,35 +476,33 @@ rendeletben állapítsa meg.
 
 „(13) A 108. § (1) bekezdés h) pontjában meghatározott vagyonelemek az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló törvényben meghatározott nemzetközi rugalmassági mechanizmusok keretében átruházhatók.”
 
-16. § (1) A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végző vállalkozások a 10/C. § (2) és (3) bekezdésében meghatározott regisztrációs kötelezettségüknek 2015. március 31-ig kötelesek eleget tenni. E kötelezettség megsértése esetén a klímavédelemért felelős hatóság nem alkalmazhatja a 10/H. § szerinti rendelkezéseket, ha a kötelezett 2015. június 1-jéig eleget tesz a 10/C. § (2) és (3) bekezdésében foglaltaknak.
+16. §
 
-(2) 2015. január 31. napjáig az ózonréteget lebontó anyagokkal és egyes fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységekről szóló kormányrendelet szerinti nyilvántartási, regisztrációs és jelentések kezelésével kapcsolatos feladatok elvégzésére kijelölt szervezeteknek a rendelkezésükre álló adatokat, adatbázist, valamint a környezetvédelemért felelős miniszternek az Országos Környezetvédelmi Információs Rendszerben a fluortartalmú üvegházhatású gázokkal kapcsolatban rendelkezésre álló valamennyi adatot át kell adni a miniszter részére.
-
-(3) Az egyes fluortartalmú üvegházhatású gázokról szóló, 2006. május 17-i 842/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 842/2006/EK rendelet) szerint a vállalkozások számára előírt jelentéstételi kötelezettséget a 2014. évre vonatkozóan a 842/2006/EK rendeletben előírtak szerint kell teljesíteni az Európai Bizottság és a klímavédelemért felelős hatóság részére.
-
-(4) Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény és az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény jogharmonizációs célú módosításáról szóló 2014. évi LXXXIX. törvény hatálybalépése előtt a 10. § (2) bekezdése szerint értékesítés céljából megkötött szerződések módosítása a miniszter kizárólagos hatáskörébe tartozik.
-
-16/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+16/A. §
 
 ### Az Európai Unió jogának való megfelelés
 
 17. § (1) E törvény – a végrehajtására kiadott jogszabályokkal együtt –
 
 - a) az üvegházhatást okozó gázok kibocsátási egységei közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai parlamenti és tanácsi irányelvnek,
-- b) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK irányelvnek a Kiotói Jegyzőkönyv projektmechanizmusára tekintettel történő módosításáról szóló, 2004. október 27-i 2004/101/EK európai parlamenti és tanácsi irányelvnek és
-- c) a 2003/87/EK irányelvnek az üvegházhatású gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének továbbfejlesztése és kiterjesztése tekintetében történő módosításáról szóló, 2009. április 23-i 2009/29/EK európai parlamenti és tanácsi irányelvnek
-- f) a 2003/87/EK irányelvnek a hatály légiközlekedési tevékenységekre vonatkozó jelenlegi korlátozásainak fenntartása és egy piaci alapú globális intézkedés 2021-től történő bevezetésének előkészítése céljából történő módosításáról szóló, 2017. december 13-i 2017/2392/EU európai parlamenti és tanácsi rendelet,
-- g) a földhasználathoz, a földhasználat-változtatáshoz és az erdőgazdálkodáshoz kapcsolódó üvegházhatásúgáz-kibocsátásnak és -elnyelésnek a 2030-ig tartó időszakra vonatkozó éghajlat- és energiapolitikai keretbe történő beillesztéséről, valamint az 525/2013/EU rendelet és az 529/2013/EU határozat módosításáról szóló, 2018. május 30-i 2018/841/EU európai parlamenti és tanácsi rendelet,
-- h) a Párizsi Megállapodásban vállalt kötelezettségek teljesítése érdekében a tagállamok által 2021-től 2030-ig kötelezően teljesítendő, az éghajlat-politikai fellépéshez hozzájáruló éves üvegházhatásúgázkibocsátás-csökkentések meghatározásáról, valamint az 525/2013/EU rendelet módosításáról szóló, 2018. május 30-i 2018/842/EU európai parlamenti és tanácsi rendelet
+- b)
+- c)
+- f)
+- g)
+- h)
 
 való megfelelést szolgálja.
 
 (2) E törvény – a végrehajtására kiadott jogszabályokkal együtt –
 
-- a) a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet, és
-- b) az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információk nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet
+- a) a 2003/87/EK európai parlamenti és tanácsi irányelvnek az uniós kibocsátásiegység-forgalmi jegyzék működése tekintetében történő kiegészítéséről szóló, 2019. március 12-i, (EU) 2019/1122 felhatalmazáson alapuló bizottsági rendelet,
+- b) az (EU) 2019/1122 felhatalmazáson alapuló rendeletnek az (EU) 2018/842 európai parlamenti és tanácsi rendelet alapján, az uniós kibocsátásiegység-forgalmi jegyzék működése tekintetében történő módosításáról szóló, 2019. március 13-i (EU) 2019/1124 felhatalmazáson alapuló bizottsági rendelet
 - c) a fluortartalmú üvegházhatású gázokról és a 842/2006/EK rendelet hatályon kívül helyezéséről szóló, 2014. április 16-i 517/2014/EU európai parlamenti és tanácsi rendelet,
-- d) az 517/2014/EU európai parlamenti és tanácsi rendelet alapján a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések, valamint a hűtőkamionok és -pótkocsik fluortartalmú üvegházhatású gázokat tartalmazó hűtőegységei tekintetében a természetes személyek képesítésére, valamint a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések tekintetében a vállalatok képesítésére vonatkozó minimumkövetelmények és kölcsönös elismerési feltételek meghatározásáról, 2015. november 17-ei 2015/2067 bizottsági végrehajtási rendelet,
+- d) az 517/2014/EU európai parlamenti és tanácsi rendelet alapján a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések, valamint a hűtőkamionok és -pótkocsik fluortartalmú üvegházhatású gázokat tartalmazó hűtőegységei tekintetében a természetes személyek képesítésére, valamint a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések tekintetében a vállalatok képesítésére vonatkozó minimumkövetelmények és kölcsönös elismerési feltételek meghatározásáról szóló, 2015. november 17-ei (EU) 2015/2067 bizottsági végrehajtási rendelet,
 - e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
+- f) a 2003/87/EK irányelvnek a hatály légiközlekedési tevékenységekre vonatkozó jelenlegi korlátozásainak fenntartása és egy piaci alapú globális intézkedés 2021-től történő bevezetésének előkészítése céljából történő módosításáról szóló, 2017. december 13-i (EU) 2017/2392 európai parlamenti és tanácsi rendelet,
+- g) a földhasználathoz, a földhasználat-változtatáshoz és az erdőgazdálkodáshoz kapcsolódó üvegházhatásúgáz-kibocsátásnak és -elnyelésnek a 2030-ig tartó időszakra vonatkozó éghajlat- és energiapolitikai keretbe történő beillesztéséről, valamint az 525/2013/EU rendelet és az 529/2013/EU határozat módosításáról szóló, 2018. május 30-i (EU) 2018/841 európai parlamenti és tanácsi rendelet,
+- h) a Párizsi Megállapodásban vállalt kötelezettségek teljesítése érdekében a tagállamok által 2021-től 2030-ig kötelezően teljesítendő, az éghajlat-politikai fellépéshez hozzájáruló éves üvegházhatásúgázkibocsátás-csökkentések meghatározásáról, valamint az 525/2013/EU rendelet módosításáról szóló, 2018. május 30-i (EU) 2018/842 európai parlamenti és tanácsi rendelet,
+- i) az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK a 2009/73/EK, a 2010/31/EU, a 2012/27/EU és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1999 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

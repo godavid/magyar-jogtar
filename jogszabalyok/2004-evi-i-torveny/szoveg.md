@@ -1610,7 +1610,7 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (7) A sportpolitikáért felelős miniszter törli a járadékra jogosultnak az 59. § (10) bekezdése alapján megismert személyes adatait, ha a jogosulttal szemben folytatott büntetőeljárást a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével befejezte, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatot hozott, és a jogosult nem vált érdemtelenné. A járadék továbbfolyósításáról szóló döntésben a felfüggesztésre okot adó körülmény megszűnését kell feltüntetni.
 
-(8) A sportpolitikáért felelős miniszter a jogosulttal szemben az 59. § (7), (8) és (10) bekezdése szerinti bejelentési kötelezettség elmulasztása miatt eljárási bírságot szabhat ki.
+(8) A sportpolitikáért felelős miniszter a jogosulttal szemben az 59. § (7), (8) és (10) bekezdése szerinti bejelentési kötelezettség elmulasztása miatt közigazgatási bírságot szabhat ki.
 
 (11) Az olimpiai járadékra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
@@ -1747,7 +1747,7 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (10) Az ellenérdekű szurkolói csoportok közterületi összecsapásának megakadályozása érdekében a rendőrség – amennyiben azt a biztonság fenntartása érdekében szükségesnek ítéli – a szervezetten vagy szervezetlenül érkező szurkolói csoportokat a közterület egy bizonyos részének elkerülésével, illetve meghatározott útvonalon a sportlétesítménybe kísérheti.
 
-(11) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvénnyel összefüggésben, a jogszabályban meghatározott biztonsági előírások megsértése esetén a sportrendezvény helye szerint illetékes megyei rendőr-főkapitányság a jogsértés súlyától, az okozott kár mértékétől, a közbiztonságra való veszélyesség fokától, valamint a jogsértés ismétlődésétől függően kétszázezertől kétmillió forintig terjedő összegű közigazgatási bírságot szabhat ki a szervezővel, valamint a rendezővel szemben. A közigazgatási bírság ismételt kiszabása vagy meg nem fizetése esetén a rendőrség határozattal korlátozza a sportrendezvényen a nézőszámot, vagy megtiltja a nézők részvételével történő megrendezést.
+(11) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvénnyel összefüggésben, a jogszabályban meghatározott biztonsági előírások megsértése esetén a sportrendezvény helye szerint illetékes megyei rendőr-főkapitányság a jogsértés súlyától, az okozott kár mértékétől, a közbiztonságra való veszélyesség fokától, valamint a jogsértés ismétlődésétől függően közigazgatási bírságot szabhat ki a szervezővel, valamint a rendezővel szemben. A közigazgatási bírság ismételt kiszabása vagy meg nem fizetése esetén a rendőrség határozattal korlátozza a sportrendezvényen a nézőszámot, vagy megtiltja a nézők részvételével történő megrendezést.
 
 68/A. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott sportrendezvények biztonsági kockázat szerinti minősítését, valamint fokozott biztonsági kockázatú sportrendezvény esetén beléptető rendszer alkalmazásának kötelezettségét – a sportrendezvény szervezőjével folytatott előzetes egyeztetést követően – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) az általa működtetett Minősítő Bizottság javaslata alapján határozza meg. A Minősítő Bizottság az ORFK, a katasztrófavédelem, az Országos Mentőszolgálat, az Országos Bírósági Hivatal elnöke, a Legfőbb Ügyészség, a sportpolitikáért felelős miniszter, valamint a sportágak országos sportági szakszövetségei által delegált szakértőkből áll. A Minősítő Bizottság működésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
@@ -2268,16 +2268,20 @@ kapcsolatos részletes szabályokat a sportpolitikáért felelős miniszter egye
 | 8. | Budapest, 38293/78 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
 | 9. | Budapest, 74333/1 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
 | 10. | Budapest, 74232 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
-| 11. | Budapest, 38852/6 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
-| 12. | Budapest, 38821/4 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
-| 12a. | Budapest, 4465 (14000/68063 tulajdoni hányad arányában) | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
-| 13. | Budapest, 26085/1123 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
-| 14. | Budapest, 76561/221 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
-| 15. | Budapest, 29834/8 (7953/10944 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
-| 16. | Budapest, 29834/12 | Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
-| 17. | Budapest, 29834/15 (81751/83751 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
-| 18. | Budapest, 27913/1 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 19. | Budapest, 27999 (48065/57386 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 20. | Budapest, 27950/6 (12884/16684 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 21. | Budapest, 23796/29 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 22. | Budapest, 38826 | Magyar Lovassport Szövetség |
+| 11. | Budapest, 74327/1 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
+| 12. | Budapest, 74324 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
+| 13. | Budapest, 38852/6 | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
+| 14. | Budapest, 38821/4 | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
+| 15. | Budapest, 4465 (14000/68063 tulajdoni hányad arányában) | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
+| 16. | Budapest, 38820/3 | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
+| 17. | Budapest, 38831 | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
+| 18. | Budapest, 26085/1123 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
+| 19. | Budapest, 76561/221 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
+| 20. | Budapest, 29834/8 (7953/10944 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
+| 21. | Budapest, 29834/12 | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
+| 22. | Budapest, 29834/15 (2000/83751 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
+| 23. | Budapest, 27913/1 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 24. | Budapest, 27999 (48065/57386 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 25. | Budapest, 27950/6 (12884/16684 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 26. | Budapest, 23796/29 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 27. | Budapest, 38826 | Magyar Lovassport Szövetség” |

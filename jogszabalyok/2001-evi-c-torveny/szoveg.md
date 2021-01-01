@@ -24,7 +24,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 2. § (1) A külföldi oktatási intézményben szerzett bizonyítvány vagy oklevél elismerésével senki sem szerezhet több jogot, mint amennyi a bizonyítvány vagy az oklevél alapján abban az államban megilleti, amelyben azt szerezte.
 
-(2) Ha e törvény másként nem rendelkezik, az elismerés és a honosítás a külföldi oktatási intézmény jogállása, a bizonyítvány vagy az oklevél jogi hatálya, a tanulmányi idő, valamint a tanulmányi és a vizsgakövetelmények alapján történik.
+(2) Ha e törvény másként nem rendelkezik, az elismerés és a honosítás a külföldi oktatási intézmény jogállása, a bizonyítvány vagy az oklevél jogi hatálya, a képzés külső minőségbiztosítása, a tanulmányi idő, valamint a tanulmányi és a vizsgakövetelmények alapján történik.
 
 (3)
 
@@ -210,6 +210,8 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 - a) azt olyan külföldi oktatási intézmény állította ki, amely a külföldi állam joga alapján tudományos fokozat kiállítására jogosult, és
 - b) a tudományos fokozat megszerzésének követelményei megfelelnek vagy kiegészítő feltételek előírásával megfeleltethetők a „Doctor of Philosophy” vagy a „Doctor of Liberal Arts” fokozat megszerzéséhez a jogszabályok és az eljáró hatóság doktori szabályzata által előírt követelményeknek.
+
+(1a) Az eljáró hatóság a (2) bekezdésben foglaltak vizsgálata nélkül folytatja le a honosítási eljárást, ha a tudományos fokozatot kiállító külföldi oktatási intézményt az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő és az Európai Felsőoktatási Minőségbiztosítási Regiszterbe (European Quality Assurance Register for Higher Education) bejegyzett szervezet akkreditálta.
 
 (2) Ha a kérelmező képzése és a megfelelő hazai képesítéshez vezető képzés között alapvető különbség van, az eljáró hatóság a külföldi tudományos fokozat honosítását feltételekhez (doktori szigorlat, a doktori értekezés megvédése stb.) kötheti.
 
@@ -819,6 +821,8 @@ kezeli.
 (5) Ha az európai szakmai kártya birtokosa kéri a belső piaci információs rendszerben tárolt adatainak törlését, az eljáró hatóság vagy az előzetes ellenőrzést végző hatóság az európai szakmai kártya létrehozására irányuló korábbi döntését írásba foglalja.
 
 (6) Az európai szakmai kártyát létrehozó eljáró hatóság harmadik személyek részére tanúsítja annak hitelességét és érvényességét.
+
+(7) Az európai szakmai kártyát létrehozó eljáró hatóság az európai szakmai kártya birtokosát – annak kérésére – tájékoztatja a belső piaci információs rendszerben tárolt adatairól.
 
 ### XI/B. Fejezet — A SZAKMÁK ÚJ SZABÁLYOZÁSÁNAK ELFOGADÁSÁT MEGELŐZŐ ARÁNYOSSÁGI ÉRTÉKELÉS SZABÁLYAI
 

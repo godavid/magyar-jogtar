@@ -569,12 +569,12 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - a) elrendelheti a jogsértő állapot megszüntetését, vagy
 - b) megtilthatja a jogsértő magatartás további folytatását, vagy
 - c) elrendelheti, illetve kezdeményezheti az emberi életet, egészséget, testi épséget veszélyeztető vagy az (EU) 2016/161 rendeletben rögzített követelményeknek nem megfelelő gyógyszer vagy annak gyártási tétele forgalomból történő kivonását, vagy
-- d) határidővel felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatását felfüggesztheti, vagy
+- d) a figyelmeztetést tartalmazó döntésében, megfelelő határidő megállapításával felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatását felfüggesztheti, vagy
 - e) ismételt vagy súlyos közegészségügyi veszélyt rejtő jogsértés esetén a tevékenység folytatására vonatkozó engedélyt visszavonhatja vagy bejelentéshez kötött tevékenység esetén a tevékenység végzőjét a nyilvántartásból törli.
 
-(4) A gyógyszerészeti államigazgatási szerv bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható. Az eljárás során nem kell alkalmazni a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény rendelkezéseit.
+(4) A gyógyszerészeti államigazgatási szerv közigazgatási bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható.
 
-(5) A gyógyszerellátással kapcsolatos e törvény szerinti kötelezettség megszegése esetén a bírság összegét a betegek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására vagy az eset más a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni azzal, hogy a bírság összege százezer forinttól ötszáz millió forintig terjedhet.
+(5) A gyógyszerellátással kapcsolatos e törvény szerinti kötelezettség megszegése esetén a bírság összegét a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény (a továbbiakban: Szankció tv.) 10. § (1) bekezdése szerinti körülményekre, illetve a betegek érdekei sérelmének körére, súlyára tekintettel kell meghatározni azzal, hogy a bírság összege százezer forinttól ötszáz millió forintig terjedhet. A Szankció tv. 10. § (1) bekezdés g) pontja szerinti körülmény e törvény alkalmazásában a jogsértést elkövető javára kizárólag abban az esetben vehető figyelembe, ha az elkövetett jogsértés a betegek biztonságát vagy az ellátási érdeket nem érintette.
 
 (6) A 18. § (2) bekezdésének végrehajtásával kapcsolatban az egészségügyi dolgozók további kötelezettségeit jogszabály tartalmazza.
 
@@ -608,6 +608,11 @@ véglegessé vált határozatát a (10) bekezdésben meghatározott tartalommal 
 
 (12) A gyógyszerészeti államigazgatási szerv a hatósági ellenőrzés és az ellenőrzési eljárás során a (3) bekezdés a)–d) pontjában foglaltakat ideiglenes intézkedésként is meghozhatja.
 
+(13) A gyógyszerészeti államigazgatási szerv e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban foglalt hatáskörébe tartozó ügyekben nem alkalmazható közigazgatási szankció, ha
+
+- a) a jogsértő magatartásnak a szankció alkalmazására jogosult hatóság tudomására jutásától számított 2 év eltelt, vagy
+- b) az elkövetéstől számított öt év eltelt.
+
 ### Elektronikus adat ideiglenes hozzáférhetetlenné tétele
 
 20/A. § (1) A gyógyszerészeti államigazgatási szerv határozatával elrendeli az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak (ezen alcím alkalmazásában a továbbiakban: elektronikus adat), amelynek hozzáférhetővé tétele vagy közzététele hamis vagy nem engedélyezett gyógyszer elérhetővé tételével összefügg.
@@ -618,7 +623,7 @@ véglegessé vált határozatát a (10) bekezdésben meghatározott tartalommal 
 
 (4) A gyógyszerészeti államigazgatási szerv 100 ezer forinttól 1 millió forintig terjedő bírsággal sújthatja azt a szolgáltatót, amely a (3) bekezdés szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
 
-(5) A bírság összegét a jogsértés súlyára, a jogsértő magatartás ismételt tanúsítására és a jogsértéssel okozott kár mértékére vagy az eset más, a kötelezettségszegés súlyát érintő lényeges körülményeire tekintettel kell meghatározni. A bírságot az azt kiszabó gyógyszerészeti államigazgatási szerv számlájára kell befizetni.
+(5) A bírságot az azt kiszabó gyógyszerészeti államigazgatási szerv számlájára kell befizetni.
 
 (6) Az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség az elrendelést követő 90 nap elteltével megszűnik.
 
@@ -1248,7 +1253,7 @@ Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdete
 | 4. | 2C-I | 2,5-dimethoxy-4-iodophenethylamine 4-iodo-2,5-dimethoxyphenethylazan |
 | 5. | 2C-T-2 | 2,5-dimethoxy-4-ethylthiophenethylamine 4-ethylsulfanyl-2,5-dimethoxy-phenethylazan |
 | 6. | 2C-T-7 | 2,5-dimetoxi-4(n)-propil-tio-fenetil-amin 2,5-dimethoxy-4-(propylsulfanyl)-phenethylazan |
-| 7. | DOC | 2,5-dimetoxi-4-klór-amfetamin 1-(4-chloro-2,5-dimethoxyphenyl)propan-2-ylazan |
+| 7. |  |  |
 | 8. |  |  |
 | 9. | FLEA | N-hidroxi-N-metil-3,4 metilén-dioxi-amfetamin vagy N-hidroxi-3,4-metilén-dioxi-metamfetamin N-[1-(1,3-benzodioxol-5-yl)propan-2-yl]-N-methylhydroxylamin |
 | 10. | JWH-018 | naphthalen-1-yl(1-pentyl-1H-indol-3-yl)methanone |
@@ -1311,7 +1316,7 @@ Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdete
 | 66. | AH-7921 | 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid |
 | 67. | 25I-NBOMe | 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin |
 | 68. |  |  |
-| 69. | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4- fluorobenzyl)-1H-indazole- 3-carboxamide |
+| 69. |  |  |
 | 70. | 5F-AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5- fluoropentyl)-1H-indazole- 3-carboxamide |
 | 71. |  |  |
 | 72. | á-PVT, alpha-PVT, alpha-pyrrolidinopentiothiophenone | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
@@ -1319,7 +1324,7 @@ Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdete
 | 74. | MTP, methcathinone thiophen analog | 2-(methylamino)-1-(thiophen-2-yl)propan-1-one |
 | 75. | N-ethylnorketamine | 2-(2-chlorophenyl)-2-(ethylamino)cyclohexanone |
 | 76. | AM-1248 azepane isomer | adamant-1-yl[1-(1-methylazepan-3-yl)-1H-indol-3-yl] methanone |
-| 77. | ADB-FUBINACA | N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide |
+| 77. |  |  |
 | 78. | MT-45 | 1-ciklohexil-4-(1,2-difenil-etil)piperazin |
 | 79. | 4-benzylpiperidine | 4-(phenylmethyl)piperidine |
 | 80. | 3,4-dichloromethylphenidate/ 3,4-CTMP | methyl-2-(3,4-dichlorophenyl)-2-[piperidin-2-yl]acetate |
@@ -1334,10 +1339,10 @@ Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdete
 | 89. | MTTA; MTA; Mephtetramine | 2-[(Methylamino)methyl]-3,4-dihydronaphthalen-1(2H)-one |
 | 90. | Nitracaine | 3-(Diethylamino)-2,2-dimethylpropyl 4-nitrobenzoate |
 | 91. | EG-018 | (naphthalen-1-yl) (9-pentyl-9H-carbazol-3-yl)-methanone” |
-| 92. | ciklopropil-fentanil | N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid |
-| 93. | metoxiacetil-fentanil | 2-metoxi-N-fenil-N-[1-(2-feniletil)piperidin-4-yl]acetamid |
-| 94. | ADB-CHMINACA | N-(1-amino-3,3-demetil-1-oxobután-2-il)–1-(ciklohexil-metil)–1H-indazol-3-karboxamid |
-| 95. | CUMYL-4CN-BINACA | 1-(4-ciano-butil)–N-(2-fenilpropán-2-il)–1H-indazol-3-karboxamid |
+| 92. |  |  |
+| 93. |  |  |
+| 94. |  |  |
+| 95. |  |  |
 
 − és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 

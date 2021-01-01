@@ -227,8 +227,9 @@ a következő törvényt alkotja:
 - d) a régészeti gyűjtőkörrel rendelkező területi múzeum,
 - e) a régészet szakon mesterképzés folytatására jogosult felsőoktatási intézmény,
 - f) a Bölcsészettudományi Kutatóközpont,
-- g) a jogszabályban kijelölt örökségvédelmi szerv, valamint
-- h) a régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló kormányrendelet szerint régészeti területen szakértői tevékenység végzésére jogosult szakértő kizárólag az örökségvédelmi hatástanulmányok készítéséhez végzett terepbejárás és műszeres lelőhely- és leletfelderítés esetén.
+- g) a jogszabályban kijelölt örökségvédelmi szerv,
+- h) a Magyarságkutató Intézet, valamint
+- i) a régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló kormányrendelet szerint régészeti területen szakértői tevékenység végzésére jogosult szakértő kizárólag az örökségvédelmi hatástanulmányok készítéséhez végzett terepbejárás és műszeres lelőhely- és leletfelderítés esetén.
 
 (4a)
 
@@ -1141,7 +1142,7 @@ biztosító védelmet, továbbá az ezeket elősegítő közérdekű szempontok 
 67. § (1) A védett kulturális örökségi elemmel összefüggő tevékenységek vonatkozásában a hatóság:
 
 - a) az örökségvédelem szabályainak megsértése esetén a műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését, a méltatlan használat megszüntetését,
-- b) műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység folytatásától eltiltani,
+- b) műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység abbahagyására kötelezni,
 - c) elrendelheti a műemlékek állagmegóvására vagy jókarbantartására vonatkozó kötelezettség teljesítését,
 - d) a 61/K. § (6) bekezdése szerinti esetben és körben elrendelheti – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását,
 - e) amennyiben a nyilvántartott műemléki érték, műemlék jelenkori állapota – a védett vagy a védettséget megalapozó korábbi és jelentős építési korszak szerinti állapotától eltérően – szomszédos ingatlan kiemelt közérdekű beruházás részeként megvalósuló, jogszabályban meghatározott módon és feltételek szerint való beépítését vagy beépítését követő használatát akadályozza, elrendelheti épület, építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását a 43. § (5) és (5c) bekezdésében meghatározott célok érdekében és korlátok között. A hatóság a döntést azonnal végrehajthatóvá nyilváníthatja, ha kiemelten közérdekű beruházásnak a szomszédos ingatlanon való megvalósításával összefüggésben kerül sor a felújítás, illetve átalakítás elrendelésére, és a végrehajtás késedelme a kiemelten közérdekű beruházás megvalósítását akadályozza vagy késlelteti.
@@ -1164,6 +1165,8 @@ kötelezheti.
 
 - a) településkép-védelmi bírság kiszabásáról intézkedik, valamint
 - b) a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet.
+
+(3b) Az (1) bekezdés a)–c) pontjában meghatározott kötelezettségek megszegése esetén közigazgatási szankcióként figyelmeztetés nem alkalmazható.
 
 (4) A végleges és végrehajtható határozatban megállapított (3) bekezdés a) pontja és a (3a) bekezdés b) pontja szerinti követelés biztosítékául a Magyar Államot a védett kulturális örökségi elemen jelzálogjog, valamint annak fennállásáig terhelési tilalom illeti meg.
 
@@ -1348,6 +1351,10 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 - g) kulturális javakon az e törvényben vagy más jogszabályban tiltott tevékenységet végez,
 - h) az e törvényben vagy más jogszabályban engedélyhez kötött tevékenységet a kulturális javakon engedély nélkül vagy attól eltérő módon végzi.
 
+(1a) Az (1) bekezdés a)–c) és e)–h) pontjában meghatározott szabályszegések miatt közigazgatási szankcióként figyelmeztetés nem alkalmazható.
+
+(1b) Az (1) bekezdés b) pontjában meghatározott tevékenység folytatásától történő eltiltás időtartama – a közigazgatási szabályszegések szankcióiról szóló törvényben foglaltaktól eltérően – a döntés véglegessé válásától számított 5 évnél hosszabb időre nem szólhat.
+
 (2) Bírsággal sújtható az, aki a jogszabály által előírt
 
 - a) bejelentési kötelezettségének, vagy
@@ -1357,10 +1364,7 @@ nem tesz eleget.
 
 (3) A bírságot a hatóság szabja ki.
 
-(4) A bírság összegének megállapításánál mérlegelni kell:
-
-- a) a kulturális örökség elemének történeti, eszmei jelentőségét és egyediségét,
-- b) az okozott kár jogszabályban meghatározottak szerint megállapítható vagy becsült nagyságát.
+(4) A bírság összegének megállapításánál a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott mérlegelési szempontok mellett a hatóság figyelembe veszi a kulturális örökség elemének történeti, eszmei jelentőségét és egyediségét is.
 
 83. § A bírság kiszabásának nincs helye,
 

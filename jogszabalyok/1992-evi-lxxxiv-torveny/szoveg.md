@@ -47,7 +47,7 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 
 ### A Nyugdíjbiztosítási Alap
 
-4. § (1) A Nyugdíjbiztosítási Alap az öregségi nyugdíj – ideértve a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdése alapján megállapított öregségi nyugdíjat is –, a hozzátartozói nyugellátás, a törvényben meghatározott méltányossági kifizetések, a nyugdíjprémium, valamint a társadalombiztosítási nyugellátás összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyéb egyszeri juttatás fedezetére szolgál.
+4. § (1) A Nyugdíjbiztosítási Alap az öregségi nyugdíj – ideértve a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdése alapján megállapított öregségi nyugdíjat is –, a hozzátartozói nyugellátás, a törvényben meghatározott méltányossági kifizetések, a nyugdíjprémium, a tizenharmadik havi nyugdíj, valamint a társadalombiztosítási nyugellátás összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyéb egyszeri juttatás fedezetére szolgál.
 
 (2) A Nyugdíjbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával, megállapításával és az adatszolgáltatással, továbbá a központi nyugdíjbiztosítási szerv és a nyugdíjfolyósító szerv hatáskörébe tartozó feladatokkal összefüggésben közvetlenül felmerült kamatkiadásokra, bankköltségre, postaköltségre – ideértve a bérmentesítő gép alkalmazásával kapcsolatos költségeket is – az ügyfelekkel való kapcsolattartás nyomtatott dokumentumainak előállítási költségére, a kapcsolattartás elektronikus és digitális eszközeinek – ideértve a kapcsolódó szolgáltatásokat – fenntartási költségére, az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeire, valamint a törvényben meghatározott egyéb kiadásra használható fel, ideértve az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás során a Nyugdíjbiztosítási Alapot terhelő összeg fedezetét.
 
@@ -75,7 +75,7 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 5. § (1) Az Egészségbiztosítási Alap
 
 - a)
-- b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, az örökbefogadói díjat, terhességi-gyermekágyi segélyt, a táppénzt, a betegséggel kapcsolatos segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, a rokkantsági és rehabilitációs ellátásokat, valamint az egészségbiztosítás egyes pénzbeli ellátásainak összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyszeri juttatást,
+- b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, az örökbefogadói díjat, terhességi-gyermekágyi segélyt, a táppénzt, a betegséggel kapcsolatos segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, a rokkantsági és rehabilitációs ellátásokat, valamint az egészségbiztosítás egyes pénzbeli ellátásainak összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyszeri juttatást és tizenharmadik havi ellátást,
 - c) a természetben nyújtott ellátások, ideértve a gyógyító-megelőző ellátásokat, a gyógyfürdő és egyéb gyógyászati ellátást, az anyatej-ellátást, a gyógyszer és a gyógyászati segédeszköz támogatást, az utazási költségtérítést, továbbá a nemzetközi egyezményekből eredő és külföldön történő ellátásokat,
 
 kiadásainak fedezetére szolgál.

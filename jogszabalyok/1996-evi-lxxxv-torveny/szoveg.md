@@ -61,7 +61,8 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 - o) a vízügyi igazgatási szerv az állami tulajdonban álló vízkészletek vagy vízilétesítmények vagyonkezelése tárgyában,
 - p) lakás építéséhez, vásárlásához vagy bővítéséhez igénybe vehető vissza nem térítendő állami támogatás igényléséhez az igénylő megbízásából tárgyévben ugyanazon ingatlan tulajdonilap-másolatára vonatkozóan egy alkalommal a hitelintézet,
 - q) a vízügyi hatóság és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében,
-- r) ügyfél öntözési beruházáshoz kapcsolódóan
+- r) ügyfél öntözési beruházáshoz kapcsolódóan,
+- s) az ügyfél jogi képviselője a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvényben meghatározott, osztatlan közös tulajdon megszüntetésére irányuló eljáráshoz
 
 kéri.
 
@@ -77,7 +78,11 @@ kéri.
 
 (7) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a részadat-szolgáltatás során átadott adatok felhasználására jogszerűtlenül, nem a törvényben vagy kormányrendeletben meghatározott céllal került sor, vagy azok harmadik személy részére továbbításra kerültek, az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi.
 
+(8) A (6) és (7) bekezdésben meghatározott jogsértések esetén a figyelmeztetés alkalmazása kizárt.
+
 31/A. § Papír alapú tulajdonilap-másolat szolgáltatás esetén a közigazgatási hatósági eljárásban a személyes költségmentesség megállapításáról szóló kormányrendelet szerinti személyes költségmentesség kizárólag abban az esetben engedélyezhető, ha a kérelmező az ingatlan-nyilvántartásban bejegyzett jogosultként, kötelezettként szerepel vagy írásban igazolja, hogy a kiállított másolat joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
+
+31/B. § Tárgyánál fogva díjmentes a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvényben meghatározott osztatlan közös tulajdon megszüntetésére irányuló eljáráshoz közvetlenül elektronikusan szerkeszthető formában szolgáltatott, a változással érintett ingatlan tulajdonosi adatokkal kiegészített földkönyve.
 
 32. § (1) A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a tulajdonilap-másolat kiállítása iránti kérelmet elutasító döntés az ügyfél hátrányára jogszabálysértőnek bizonyult.
 

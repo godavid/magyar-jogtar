@@ -10,7 +10,7 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 
 2. § E törvény alkalmazásában
 
-- a) közszolgálatban álló személy: 1. a rendvédelmi szerv, továbbá a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, 2. a Magyar Honvédség hivatásos és szerződéses állományú katonája és a honvédelmi alkalmazott, 3. aki közalkalmazotti jogviszonyban áll, 3a. aki rendvédelmi igazgatási szolgálati jogviszonyban áll, 4. aki közszolgálati jogviszonyban, kormányzati szolgálati, állami szolgálati jogviszonyban áll, 5. aki ügyészségi szolgálati viszonyban áll, 6. az igazságügyi alkalmazott, valamint 7. a Magyar Nemzeti Bank Monetáris Tanácsának tagjai kivételével a Magyar Nemzeti Bank alkalmazottja (a továbbiakban: a Magyar Nemzeti Bank alkalmazottai);
+- a) közszolgálatban álló személy: 1. a rendvédelmi szerv hivatásos állományú tagja, 2. a Magyar Honvédség hivatásos és szerződéses állományú katonája és a honvédelmi alkalmazott, 3. aki közalkalmazotti jogviszonyban áll, 3a. aki rendvédelmi igazgatási szolgálati jogviszonyban áll, 4. aki közszolgálati jogviszonyban, kormányzati szolgálati, állami szolgálati jogviszonyban áll, 4a. aki adó- és vámhatósági szolgálati jogviszonyban áll, 5. aki ügyészségi szolgálati viszonyban áll, 6. az igazságügyi alkalmazott, valamint 7. a Magyar Nemzeti Bank Monetáris Tanácsának tagjai kivételével a Magyar Nemzeti Bank alkalmazottja (a továbbiakban: a Magyar Nemzeti Bank alkalmazottai);
 - b) hozzátartozó: a házastárs, az élettárs, valamint a közös háztartásban élő szülő, gyermek, a házastárs gyermeke, ideértve az örökbefogadott és a nevelt gyermeket is.
 
 ### A vagyonnyilatkozat-tételre kötelezett
@@ -32,7 +32,8 @@ egyes vagyonnyilatkozat-tételi kötelezettségekről
 - e) jogszabály alapján nemzetbiztonsági ellenőrzés alá eső köztisztviselői vagy kormánytisztviselői munkakört tölt be,
 - f) ügyész vagy
 - g) közjegyző,
-- h) bírósági végrehajtó.
+- h) bírósági végrehajtó,
+- i) a Nemzeti Adó- és Vámhivatal vezetői, illetve jogszabály alapján nemzetbiztonsági ellenőrzés alá eső munkakört betöltő foglalkoztatottja.
 
 (3) Az (1) bekezdésben foglaltaktól függetlenül vagyonnyilatkozat tételére kötelezett
 
@@ -115,7 +116,7 @@ fel kell tüntetni.
 
 ### A vagyonnyilatkozat-tételi kötelezettség megszegésének jogkövetkezményei
 
-9. § (1) Annak, aki vagyonnyilatkozat-tételi kötelezettségének a teljesítését megtagadja, a vagyonnyilatkozat-tételi kötelezettséget megalapozó megbízatását vagy jogviszonyát – az arra vonatkozó, külön jogszabályban meghatározott megszüntetési okoktól függetlenül – meg kell szüntetni, és a jogviszony megszűnésétől számított három évig közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyt nem létesíthet, valamint az e törvény szerinti vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakört, feladatkört, tevékenységet vagy beosztást nem láthat el.
+9. § (1) Annak, aki vagyonnyilatkozat-tételi kötelezettségének a teljesítését megtagadja, a vagyonnyilatkozat-tételi kötelezettséget megalapozó megbízatását vagy jogviszonyát – az arra vonatkozó, külön jogszabályban meghatározott megszüntetési okoktól függetlenül – meg kell szüntetni, és a jogviszony megszűnésétől számított három évig közszolgálati, kormányzati szolgálati, állami szolgálati, adó- és vámhatósági szolgálati jogviszonyt nem létesíthet, valamint az e törvény szerinti vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakört, feladatkört, tevékenységet vagy beosztást nem láthat el.
 
 (2) Ha a vagyonnyilatkozat-tételi kötelezettség teljesítését a kizárólag a 3. § (3) bekezdése szerint arra kötelezett tagadja meg, a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszonya vagy megbízatása e törvény erejénél fogva szűnik meg. Erről az őrzésért felelős a megtagadás bekövetkezésétől számított három munkanapon belül értesíti a kötelezettet.
 

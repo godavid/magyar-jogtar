@@ -21,7 +21,7 @@ a védelmére.
 
 (3) Az alapvető jogok biztosa tevékenysége során – különösen hivatalból indított eljárások lefolytatásával – megkülönböztetett figyelmet fordít a 2007. évi XCII. törvénnyel kihirdetett, a fogyatékossággal élő személyek jogairól szóló egyezmény végrehajtásának segítésére, védelmére és ellenőrzésére.
 
-2. § (1) Az alapvető jogok biztosa áttekinti és elemzi az alapvető jogok magyarországi helyzetét, és az alapvető jogokkal összefüggő, Magyarországon történt jogsértésekről statisztikai kimutatást készít. Az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv, a Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint az oktatási jogok biztosa az alapvető jogok biztosának megkeresése alapján a statisztikai kimutatáshoz személyes adatokat nem tartalmazó összesített adatokat szolgáltat.
+2. § (1) Az alapvető jogok biztosa áttekinti és elemzi az alapvető jogok magyarországi helyzetét, és az alapvető jogokkal összefüggő, Magyarországon történt jogsértésekről statisztikai kimutatást készít. A Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint az oktatási jogok biztosa az alapvető jogok biztosának megkeresése alapján a statisztikai kimutatáshoz személyes adatokat nem tartalmazó összesített adatokat szolgáltat.
 
 (2) Az alapvető jogok biztosa véleményezi a feladat- és hatáskörét érintő jogszabályok tervezetét, a hosszú távú fejlesztési, területrendezési és a jövő nemzedékek életminőségét egyébként közvetlenül érintő terveket és koncepciókat, valamint javaslatot tehet az alapvető jogokat érintő jogszabályok módosítására, megalkotására, illetve nemzetközi szerződés kötelező hatályának elismerésére.
 
@@ -34,6 +34,8 @@ a védelmére.
 (6) Az alapvető jogok biztosa ellátja a 2011. évi CXLIII. törvénnyel kihirdetett, a kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni egyezmény fakultatív jegyzőkönyve 3. cikke szerinti nemzeti megelőző mechanizmus feladatait.
 
 (7) Az alapvető jogok biztosa az alapvető jogok tiszteletben tartása és hatékonyabb védelme érdekében javaslatot tehet az országos rendőrfőkapitánynak, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatójának, a terrorizmust elhárító szerv főigazgatójának, illetve az idegenrendészeti szerv főigazgatójának utasítás kiadására, módosítására vagy hatályon kívül helyezésére.
+
+(8) Az alapvető jogok biztosa ellátja az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvényben (a továbbiakban: Ebktv.) meghatározott feladatokat.
 
 3. § (1) Az alapvető jogok biztosának a jövő nemzedékek érdekeinek védelmét ellátó helyettese figyelemmel kíséri a jövő nemzedékek érdekeinek érvényesülését, és
 
@@ -77,7 +79,7 @@ a védelmére.
 
 (4) Az Országgyűlés az alapvető jogok biztosának a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettesét azok közül a harmincötödik életévüket betöltött jogászok közül választja meg, akik kiemelkedő elméleti tudással vagy legalább tízéves szakmai gyakorlattal rendelkeznek, és a Magyarországon élő nemzetiségek jogait érintő eljárások lefolytatásában, felügyeletében vagy tudományos elméletében jelentős tapasztalatokkal rendelkeznek.
 
-(5) Nem lehet az alapvető jogok biztosa vagy helyettese az, aki a választásra irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, nemzetiségi szószóló, európai parlamenti képviselő, köztársasági elnök, a Kormány tagja, államtitkár, önkormányzati képviselő, polgármester, alpolgármester, nemzetiségi önkormányzat tagja, jegyző, a Magyar Honvédség hivatásos állományú tagja, a rendvédelmi szervek és rendvédelmi feladatot ellátó szervek hivatásos állományú tagja, párt tisztségviselője vagy alkalmazottja volt.
+(5) Nem lehet az alapvető jogok biztosa vagy helyettese az, aki a választásra irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, nemzetiségi szószóló, európai parlamenti képviselő, köztársasági elnök, a Kormány tagja, államtitkár, önkormányzati képviselő, polgármester, alpolgármester, nemzetiségi önkormányzat tagja, jegyző, a Magyar Honvédség hivatásos állományú tagja, a rendvédelmi szervek és rendvédelmi feladatot ellátó szervek hivatásos állományú tagja, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja, párt tisztségviselője vagy alkalmazottja volt.
 
 6. § (1) A köztársasági elnök az alapvető jogok biztosának a személyére az alapvető jogok biztosa megbízatási idejének a lejártát megelőző kilencven napon belül, de legkésőbb a megbízatási idő lejártát megelőző negyvenötödik napon tesz javaslatot.
 
@@ -547,6 +549,26 @@ tevékenységét.
 
 (2) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, az idegenrendészeti szerv főigazgatója, valamint az intézkedést foganatosító szerv vezetője döntéseinek megküldésével tájékoztatja az alapvető jogok biztosát azokban az ügyekben, amelyekben az alapvető jogok biztosa jelentést készített, illetve utasítás kiadására, módosítására vagy hatályon kívül helyezésére vonatkozó javaslatot tett.
 
+### III/C. Fejezet — AZ EBKTV. SZERINTI ELJÁRÁSOK
+
+39/M. § (1) Az alapvető jogok biztosa az Ebktv.-ben meghatározott feladatainak ellátása során közigazgatási hatósági eljárás keretében jár el.
+
+(2) Ha a beadvány alapján e törvény és az Ebktv. szerinti eljárás egyaránt megindítható, a beadványtevő nyilatkozata szerinti eljárást kell megindítani. Ha a beadványtevő nyilatkozata alapján az Ebktv. szerinti eljárás megindítását kéri, a beadványt az Ebktv. szerinti kérelemnek kell tekinteni.
+
+(3) Ha a beadványtevő nem nyilatkozik, vagy mindkét eljárás megindítását kéri, az alapvető jogok biztosának – a (4) bekezdésben foglalt kivétellel – az Ebktv. szerinti eljárást kell megindítania és erről a beadványtevőt 10 napon belül tájékoztatnia kell, a beadványt az Ebktv. szerinti kérelemnek kell tekinteni.
+
+(4) Ha a Magyarországon élő nemzetiségek jogainak érvényesülésével összefüggő ügyben a beadványtevő nem nyilatkozik, vagy mindkét eljárás megindítását kéri, az alapvető jogok biztosa a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettesének a javaslata alapján dönt, hogy az e törvény szerinti vagy az Ebktv. szerinti eljárást indokolt megindítani.
+
+(5) Az (1) bekezdés szerinti eljárásban hozott közigazgatási döntést az alapvető jogok biztosa e törvény alapján nem vizsgálhatja.
+
+(6) Az e törvény alapján folytatott eljárás nem zárja ki, hogy annak lezárását követően ugyanabban az ügyben az alapvető jogok biztosa kérelemre vagy hivatalból az Ebktv.-ben meghatározottak szerint eljárjon.
+
+(7) Az Ebktv.-ben az alapvető jogok biztosa számára meghatározott feladatok ellátását a Hivatal erre kijelölt elkülönült szervezeti egysége végzi.
+
+(8) A (7) bekezdés szerinti elkülönült szervezeti egység a Magyarországon élő nemzetiségek jogainak érvényesülésével összefüggő ügyekben az alapvető jogok biztosának a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettesével, a rendőri intézkedéssel, annak elmulasztásával, kényszerítő eszköz alkalmazásával és rendőrségi panaszokkal összefüggő ügyekben a 41. § (3a) bekezdése szerinti elkülönült szervezeti egység vezetőjével együttműködik.
+
+(9) Az alapvető jogok biztosa az Ebktv.-ben meghatározott feladatai ellátása során személyesen és erre felhatalmazott munkatársai útján is eljárhat.
+
 ### IV. Fejezet — AZ ALAPVETŐ JOGOK BIZTOSÁNAK ÉVES BESZÁMOLÓJA
 
 40. § (1) Az alapvető jogok biztosa az éves beszámolót a tárgyévet követő év március 31-ig terjeszti az Országgyűlés elé.
@@ -565,39 +587,53 @@ tevékenységét.
 
 41. § (1) Az alapvető jogok biztosának a feladatával kapcsolatos ügyvitel és előkészítés teendőit a Hivatal látja el.
 
-(2) A Hivatalt az alapvető jogok biztosa irányítja, és a főtitkár vezeti. A Hivatalban foglalkoztatott köztisztviselőkre és munkavállalókra nézve a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) rendelkezéseit kell megfelelően alkalmazni.
+(2) A Hivatalt az alapvető jogok biztosa irányítja és vezeti. A Hivatalban foglalkoztatott köztisztviselőkre és munkavállalókra nézve a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) rendelkezéseit kell megfelelően alkalmazni.
 
 (2a) A Hivatal álláshelyeire a Küt. 5. § (2) bekezdése nem alkalmazható.
 
 (3) A Hivatal Szervezeti és Működési Szabályzatát az alapvető jogok biztosa normatív utasításban állapítja meg.
 
-(3a) A rendőri intézkedéssel, annak elmulasztásával, kényszerítő eszköz alkalmazásával összefüggő beadványok és a rendőrségi panaszok vizsgálatát a Hivatal önálló szervezeti egysége végzi.
+(3a) A rendőri intézkedéssel, annak elmulasztásával, kényszerítő eszköz alkalmazásával összefüggő beadványok és a rendőrségi panaszok vizsgálatát a Hivatal elkülönült szervezeti egysége végzi.
 
-(4) A Hivatal a központi költségvetés szerkezetében önálló fejezet, a fejezetet irányító szerv vezetőjének jogosítványait a főtitkár gyakorolja.
+(4) A Hivatal a központi költségvetés szerkezetében önálló fejezet, a fejezetet irányító szerv vezetőjének jogosítványait az alapvető jogok biztosa gyakorolja.
 
 (5) Az alapvető jogok biztosa a kiadmányozási jogot a Szervezeti és Működési Szabályzatban a helyettesekre, intézkedést nem tartalmazó irat esetén a főtitkárra vagy a Hivatal vezetői álláshelyen foglalkoztatott köztisztviselőjére átruházhatja.
 
 42. § (1) A főtitkár felett a munkáltatói jogokat az alapvető jogok biztosa gyakorolja.
 
+(1a) A főtitkár az alapvető jogok biztosa vezetése alatt a Hivatal Szervezeti és Működési Szabályzatában meghatározott feladatokat látja el.
+
 (2) A főtitkár a Kit. szerinti közigazgatási államtitkári illetménysáv felső határának megfelelő összegű illetményre és közigazgatási államtitkári juttatásokra jogosult, valamint minden naptári évben húsz munkanap vezetői pótszabadságot jogosult igénybe venni.
 
 (2a) A főtitkár munkáját főtitkárhelyettes segíti. A főtitkárhelyettes a Kit. szerinti helyettes államtitkári illetménysáv felső határának megfelelő összegű illetményre és helyettes államtitkári juttatásokra jogosult, valamint minden naptári évben tizenöt munkanap vezetői pótszabadságot jogosult igénybe venni.
 
-(2b) A 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője felett a munkáltatói jogokat az alapvető jogok biztosa gyakorolja.
+(2b) A 41. § (3a) bekezdése szerinti elkülönült szervezeti egység vezetője felett a munkáltatói jogokat az alapvető jogok biztosa gyakorolja.
 
-(2c) A 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg. Ezenfelül helyettes államtitkári juttatásokra jogosult, valamint minden naptári évben tizenöt munkanap vezetői pótszabadságot jogosult igénybe venni.
+(2c) A 41. § (3a) bekezdése szerinti elkülönült szervezeti egység vezetője a Kit. 1. melléklet I. pontjában foglalt Illetménytábla szerinti helyettes államtitkári illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója állapítja meg. Ezenfelül helyettes államtitkári juttatásokra jogosult, valamint minden naptári évben tizenöt munkanap vezetői pótszabadságot jogosult igénybe venni.
 
-(2d) Tevékenysége során a 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője a „rendészeti igazgató” címet viseli.
+(2d) Tevékenysége során a 41. § (3a) bekezdése szerinti elkülönült szervezeti egység vezetője a „rendészeti igazgató” címet viseli.
 
-(3) A Hivatalban foglalkoztatott köztisztviselőt az alapvető jogok biztosa nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja.
+(2e) A 39/M. § (7) bekezdése szerinti elkülönült szervezeti egység vezetője felett a munkáltatói jogokat az alapvető jogok biztosa gyakorolja.
 
-(3a) A (4) bekezdés szerint foglalkoztatott köztisztviselőt az alapvető jogok biztosának helyettese nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja.
+(2f) A 39/M. § (7) bekezdése szerinti elkülönült szervezeti egység vezetője a Kit. szerinti közigazgatási államtitkári illetménysáv felső határának megfelelő összegű illetményre és közigazgatási államtitkári juttatásokra jogosult, valamint minden naptári évben húsz munkanap vezetői pótszabadságot jogosult igénybe venni.
 
-(3b) A 41. § (3a) bekezdése szerinti önálló szervezeti egységnél foglalkoztatott köztisztviselőt – az alapvető jogok biztosának egyetértésével – a 41. § (3a) bekezdése szerinti önálló szervezeti egység vezetője nevezi ki és menti fel, a munkáltatói jogokat egyebekben felette a főtitkár gyakorolja.
+(2g) Tevékenysége során a 39/M. § (7) bekezdése szerinti elkülönült szervezeti egység vezetője az „egyenlő bánásmódért felelős főigazgató” címet viseli.
 
-(3c) A Hivatalban foglalkoztatott munkavállalóra a (3) bekezdésben, a (4) bekezdés szerint foglalkoztatott munkavállalóra a (3a) bekezdésben, a 41. § (3a) bekezdése szerinti önálló szervezeti egységnél foglalkoztatott munkavállalóra a (3b) bekezdésben foglaltakat kell alkalmazni azzal, hogy kinevezés alatt a munkaszerződés megkötését, felmentés alatt a munkaviszony megszüntetését kell érteni.
+(2h) A 39/M. § (7) bekezdése szerinti elkülönült szervezeti egység vezetőjének munkáját főigazgató-helyettes segíti. A főigazgató-helyettes a Kit. szerinti helyettes államtitkári illetménysáv felső határának megfelelő összegű illetményre és helyettes államtitkári juttatásokra jogosult, valamint minden naptári évben tizenöt munkanap vezetői pótszabadságot jogosult igénybe venni.
 
-(3d) A Hivatal törekszik a nők, az etnikai, kisebbségi és hátrányos helyzetű csoportok megjelenítésére a Hivatal személyi állományában.
+(3) A Hivatalban foglalkoztatott köztisztviselő felett – a (3a)–(3c) bekezdésben foglalt kinevezési és felmentési jog kivételével – az alapvető jogok biztosa gyakorolja a munkáltatói jogokat.
+
+(3a) A (4) bekezdés szerint foglalkoztatott köztisztviselőt az alapvető jogok biztosának helyettese nevezi ki és menti fel.
+
+(3b) A 41. § (3a) bekezdése szerinti elkülönült szervezeti egységnél foglalkoztatott köztisztviselőt – az alapvető jogok biztosának egyetértésével – a 41. § (3a) bekezdése szerinti elkülönült szervezeti egység vezetője nevezi ki és menti fel.
+
+(3c) A 39/M. § (7) bekezdése szerinti elkülönült szervezeti egységnél foglalkoztatott köztisztviselőt – az alapvető jogok biztosának egyetértésével – a 39/M. § (7) bekezdése szerinti elkülönült szervezeti egység vezetője nevezi ki és menti fel.
+
+(3d) A Hivatalban foglalkoztatott munkavállalóra a (3) bekezdésben, a (4) bekezdés szerint foglalkoztatott munkavállalóra a (3a) bekezdésben, a 41. § (3a) bekezdése szerinti elkülönült szervezeti egységnél foglalkoztatott munkavállalóra a (3b) bekezdésben, a 39/M. § (7) bekezdése szerinti elkülönült szervezeti egységnél foglalkoztatott munkavállalóra a (3c) bekezdésben foglaltakat kell alkalmazni azzal, hogy kinevezés alatt a munkaszerződés megkötését, felmentés alatt a munkaviszony megszüntetését kell érteni.
+
+(3e) A biztoshelyettes, a 41. § (3a) bekezdése szerinti elkülönült szervezeti egység vezetője és a 39/M. § (7) bekezdése szerinti elkülönült szervezeti egység vezetője akadályoztatása esetén, vagy ha e tisztség, illetve álláshely nincs betöltve, a (3a)–(3c) bekezdés szerinti kinevezési és felmentési jogot, valamint a (3d) bekezdés szerinti munkáltatói jogot az alapvető jogok biztosa gyakorolja.
+
+(3f) A Hivatal törekszik a nők, az etnikai, kisebbségi és hátrányos helyzetű csoportok megjelenítésére a Hivatal személyi állományában.
 
 (4) A Szervezeti és Működési Szabályzatban meg kell határozni azon köztisztviselők és munkavállalók létszámkeretét, akik az alapvető jogok biztosa helyettesének irányítása alá tartoznak.
 
@@ -632,7 +668,7 @@ tevékenységét.
 
 (4) A Hivatal az Országgyűlési Biztos Hivatalának jogutódja.
 
-(5) E törvény hatálybalépésétől az Országgyűlési Biztos Hivatala vezetője tisztségének elnevezése főtitkár.
+(5)
 
 (6)
 
@@ -642,9 +678,28 @@ tevékenységét.
 
 45/C. § A Független Rendészeti Panasztestület 2020. február 27-én megszűnik, feladat- és hatáskörét az alapvető jogok biztosa látja el.
 
+45/D. § (1) Az Egyenlő Bánásmód Hatóság az Alapvető Jogok Biztosa Hivatalába való beolvadással 2021. január 1-jén megszűnik, általános jogutódja az alapvető jogok biztosa. Az Egyenlő Bánásmód Hatóság köztisztviselői és munkavállalói esetében alkalmazni kell a Küt. munkáltató személyében bekövetkező jogutódlásra vonatkozó szabályait.
+
+(2) Az Egyenlő Bánásmód Hatóság által kezelt adatok kezelésére az alapvető jogok biztosa jogosult.
+
+(3) Az Ebktv. hatálya alá tartozó hatósági ügyekben, a 2021. január 1-jén folyamatban lévő eljárásokat 2021. január 31-éig fel kell függeszteni.
+
+(4) Az Ebktv. alapján hozott döntések ellen indított, 2021. január 1-jén folyamatban lévő közigazgatási pereket 2021. január 31-éig fel kell függeszteni.
+
 #### 16. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
 46. § A 2. § (3) bekezdése az Alaptörvény 24. cikk (2) bekezdés g) pontja alapján sarkalatosnak minősül.
+
+#### 16/A. Az Európai Unió jogának való megfelelés
+
+46/A. § Ez a törvény
+
+- a) az önálló vállalkozói tevékenységet folytató férfiak és nők közötti egyenlő bánásmód elvének alkalmazásáról és a 86/613/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. július 7-i 2010/41/EU európai parlamenti és tanácsi irányelvnek,
+- b) a személyek közötti, faji vagy etnikai származásra való tekintet nélküli egyenlő bánásmód elvének alkalmazásáról szóló, 2000. június 29-i 2000/43/EK tanácsi irányelvnek,
+- c) a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról szóló, 2004. december 13-i 2004/113/EK tanácsi irányelvnek, és
+- d) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK tanácsi irányelvnek
+
+való megfelelést szolgálja.
 
 #### 17. Módosító rendelkezések
 

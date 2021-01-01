@@ -146,7 +146,7 @@ terjed ki.
   - bb) a kormányrendeletben adott felhatalmazás hatályát vesztette, és a tárgykör szabályozására új felhatalmazó rendelkezést nem alkottak, vagy
   - bc) a tárgykör szabályozására alkotott új felhatalmazó rendelkezés kormányrendelet kiadására ad felhatalmazást.
 
-(4) A Kormány rendeletével hatályon kívül helyezheti az olyan kormányrendeletet vagy annak rendelkezését, amely módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása.
+(4) A Kormány rendeletével hatályon kívül helyezheti az olyan kormányrendeletet vagy annak rendelkezését, amely módosítására vagy hatályon kívül helyezésére már nincs felhatalmazása a felhatalmazás hatályvesztése, vagy a tárgykör szabályozására alkotott olyan új felhatalmazó rendelkezés miatt, amely a Kormány tagjának rendelete kiadására ad felhatalmazást.
 
 (5) A Kormány tagja rendeletével hatályon kívül helyezheti a feladatkörébe tartozó azon miniszteri rendeletet, miniszterelnöki rendeletet vagy azok rendelkezését, amelyet felhatalmazás nélkül alkottak meg, vagy amely módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása.
 
@@ -375,11 +375,11 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 (4) A Magyar Közlöny közzétett számai a kormányzati portálról nem távolíthatóak el, azok archiválására az elektronikus archiválásról szóló jogszabály rendelkezéseit kell alkalmazni.
 
-(5) A Magyar Közlöny felelős szerkesztője a Magyar Közlöny oldalhű másolatát papíron megküldi a köztársasági elnöknek, az Országgyűlés elnökének, az Alkotmánybíróság elnökének, a Kúria elnökének, az Országos Széchényi Könyvtárnak és az Országgyűlési Könyvtárnak.
+(5) A Magyar Közlöny az igazságügyért felelős miniszter rendeletében meghatározottak szerint terjeszthető. Az igazságügyért felelős miniszter rendeletében meghatározottak szerint kérelemre a Magyar Közlönyről vagy annak egy részéről papíralapú, illetve digitális oldalhű másolat készíthető, a másolat készítését az igazságügyért felelős miniszter rendelete igazgatási szolgáltatási díj megfizetéséhez kötheti.
 
-(6) A Magyar Közlöny oldalhű másolata papíron, illetve digitális adathordozón is terjeszthető.
+(6)
 
-(7) A Kormány által rendeletben kijelölt szerv kérelemre, igazgatási szolgáltatási díj ellenében a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolatot készít.
+(7)
 
 #### 12. A jogszabályok kihirdetése és a közjogi szervezetszabályozó eszközök közzététele
 
@@ -471,7 +471,7 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 - a) az előzetes bejelentési eljárás rendjét,
 - b) az Európai Unió jogának való megfelelés érdekében szükséges jogszabály-előkészítési feladatok teljesítésének részletes szabályait, valamint
 - c) a Nemzeti Jogszabálytár tartalmát és működtetésének részletes szabályait,
-- d) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolat készítésére jogosult szervet.
+- d)
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a jogszabályszerkesztés részletes szabályait.
 
@@ -479,17 +479,17 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
-- a) a Magyar Közlöny kiadásának,
+- a) a Magyar Közlöny kiadásának, terjesztésének, valamint a Magyar Közlönyről vagy annak egy részéről papíralapú, illetve digitális oldalhű másolat készítésének,
 - b) a kihirdetés során a jogszabályok, a közzététel során a közjogi szervezetszabályozó eszközök és egyes más jogi aktusok megjelölésének,
 - c) a jogszabály tervezetéhez tartozó indokolások közzétételének
 
 részletes szabályait.
 
-(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
+(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
-- a) az előfizetők 28/C. § (4) bekezdése szerinti számát,
-- b) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolat készítésének igazgatási szolgáltatási díját, és
-- c) a 28/B. § (1) bekezdés b) és c) pontja szerinti közlemények és hirdetmények közzétételéért fizetendő közzétételi díj mértékét.
+- a) rendeletben határozza meg az előfizetők 28/C. § (4) bekezdése szerinti számát,
+- b) az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozhassa meg a Magyar Közlönyről vagy annak egy részéről papíralapú, illetve digitális oldalhű másolat készítésének igazgatási szolgáltatási díját, és
+- c) rendeletben határozza meg a 28/B. § (1) bekezdés b) és c) pontja szerinti közlemények és hirdetmények közzétételéért fizetendő közzétételi díj mértékét.
 
 31. § (1) Felhatalmazást kap a Kormány, hogy rendeletben hatályon kívül helyezze
 
@@ -497,7 +497,9 @@ részletes szabályait.
   - aa) a törvényben adott felhatalmazás hatályát vesztette, és a tárgykör szabályozására új felhatalmazó rendelkezést nem alkottak,
   - ab) a kormányrendeletben adott felhatalmazás hatályát vesztette, és a tárgykör szabályozására új felhatalmazó rendelkezést nem alkottak, vagy
   - ac) a tárgykör szabályozására alkotott új felhatalmazó rendelkezés kormányrendelet kiadására ad felhatalmazást,
-- b) azt a kormányrendeletet vagy annak rendelkezését, amely módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása.
+- b) azt a kormányrendeletet vagy annak rendelkezését, amely módosítására vagy hatályon kívül helyezésére már nincs felhatalmazása
+  - ba) a felhatalmazás hatályvesztése miatt, vagy
+  - bb) a tárgykör szabályozására alkotott olyan új felhatalmazó rendelkezés miatt, amely a Kormány tagja rendeletének kiadására ad felhatalmazást.
 
 (2) Felhatalmazást kap a Kormány tagja, hogy rendeletével hatályon kívül helyezze a feladatkörébe tartozó azon miniszteri, illetve miniszterelnöki rendeletet vagy annak rendelkezését,
 

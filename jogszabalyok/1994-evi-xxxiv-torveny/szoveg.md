@@ -163,36 +163,37 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 7. § (1) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv kizárólagos hatáskörrel ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
 
-- a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
+- a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben, valamint a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 - b) elvégzi
-  - ba) a közszolgálati tisztviselőkről szóló törvény, valamint a kormányzati igazgatásról szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők, továbbá az (1c) bekezdésben meghatározott szervezetnél meghatározott feladatkört ellátó munkavállalók,
-  - bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai – ideértve a vezényléssel az ezen rendvédelmi feladatokat ellátó szerveken kívül szolgálatot teljesítő hivatásos állományt is –, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
-  - bc) a bb) alpontban meghatározott szervek kormánytisztviselői, köztisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, az idegenrendészeti szerv és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
-  - bd) a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok, továbbá a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, rendvédelmi igazgatási alkalmazottai,
-  - be) a Kormány által a kormányzati igazgatásról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai felsővezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek (a ba)–be) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
+  - ba) az (1c) bekezdésben foglalt kivétellel a Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szerv, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottjának,
+  - bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók,
+  - bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és munkavállalói
+
+[a ba)–bc) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát.
+
 - c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését.
 
-(1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
+(1a) Az (1) bekezdés b) pont ba) alpontja alkalmazásában foglalkoztatott
 
-- a) állampolgársági eljárással, idegenrendészeti eljárással, szabálysértési eljárással, koncessziós eljárással, kisajátítási eljárással, építésügyi hatósági eljárással, munkavédelmi hatósági eljárással, munkaügyi ellenőrzéssel, ingatlan-nyilvántartási hatósági eljárással összefüggő ügyben,
-- b) közbeszerzési eljárás során,
-- c) feladatai ellátása során költségvetési vagy egyéb pénzeszközök felett, továbbá az állami vagyonnal való gazdálkodás, valamint elkülönített állami pénzalapok, fejezeti kezelésű előirányzatok tekintetében,
-- d) egyedi állami támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
-- e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során,
-- f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, hatósági erkölcsi bizonyítvány kiállításával, valamint egyéni vállalkozói tevékenység nyilvántartásba vételével és törlésével összefüggő ügyekben,
-- g) a jármű műszaki megvizsgálásával, illetve környezetvédelmi felülvizsgálatával összefüggő ügyekben.
+- a) a kormányzati szolgálati jogviszonyban,
+- b) a közalkalmazotti jogviszonyban,
+- c) az igazságügyi szolgálati jogviszonyban,
+- d) a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszonyban,
+- e) a rendvédelmi igazgatási szolgálati jogviszonyban,
+- f) az adó- és vámhatósági szolgálati jogviszonyban,
+- g) a rendvédelmi feladatokat ellátó szervnél fennálló tisztjelölti szolgálati jogviszonyban, illetve a Nemzet Adó- és Vámhivatalnál fennálló tisztjelölti jogviszonyban,
+- h) az egészségügyi szolgálati jogviszonyban, és
+- i) a munkaviszonyban
 
-(1b) Az (1) bekezdés b) pont bc) alpontja alkalmazásában a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet munkavállalójának kell tekinteni annak a kizárólagos állami tulajdonban lévő gazdasági társaságnak a munkavállalóját is, amely gazdasági társaság tekintetében a tulajdonosi jogokat a hivatásos katasztrófavédelmi szerv vagy a büntetés-végrehajtási szervezet gyakorolja.
+foglalkoztatott.
 
-(1c) Megbízhatósági vizsgálat alá vonható – az (1) bekezdés b) pont bc) alpontjában meghatározott szervek munkavállalóin túl –
+(1b) Az (1) bekezdés b) pontja alkalmazásában a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet munkavállalójának kell tekinteni annak a kizárólagos állami tulajdonban lévő gazdasági társaságnak a munkavállalóját is, amely gazdasági társaság tekintetében a tulajdonosi jogokat a hivatásos katasztrófavédelmi szerv vagy a büntetés-végrehajtási szervezet gyakorolja.
 
-- a) a közbeszerzésekről szóló törvény szerinti
-  - aa) fekvőbeteg-szakellátást nyújtó intézmények, illetve speciális finanszírozású gyógyszerek és orvostechnikai eszközök beszerzései vonatkozásában központi beszerző szervként eljáró, valamint
-  - ab) általános hatáskörrel központi beszerző szervként eljáró
+(1c) Az (1) bekezdés b) pont ba) alpontjától eltérően nem tartozik a védett állomány körébe
 
-szervezetnek a közbeszerzési eljárás során döntés előkészítésére, döntésre vagy ellenőrzésre jogosult munkavállalója,
-
-- b) a közlekedési hatóság által engedélyezett tanúsító szervezettel munkaviszonyban álló műszaki vizsgabiztos.
+- a) az Információs Hivatal foglalkoztatottja,
+- b) a honvédelmi szervezetek foglalkoztatottja azzal a kivétellel, hogy az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató egészségügyi szolgálati jogviszonyban álló foglalkoztatottja, továbbá
+- c) a Kormány rendeletében a feladat- és tevekénységi kör mérlegelése alapján a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített szerv foglalkoztatottja.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 
@@ -231,10 +232,10 @@ szervezetnek a közbeszerzési eljárás során döntés előkészítésére, d�
 
 (2) A megbízhatósági vizsgálatot a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv tagja a következők szerint végezheti:
 
-- a) polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértést, valótlan bejelentés szabálysértést, vámszabálysértést, vámszabálysértés elkövetőjének segítése szabálysértést, vámorgazdaság szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, víziközlekedési szabályok megsértése szabálysértést, köztisztasági szabálysértést, tiltott határátlépés szabálysértést, határrendészeti szabálysértést, valamint olyan szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
+- a) polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértést, valótlan bejelentés szabálysértést, vámszabálysértést, vámszabálysértés elkövetőjének segítése szabálysértést, vámorgazdaság szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, víziközlekedési szabályok megsértése szabálysértést, köztisztasági szabálysértést, tiltott határátlépés szabálysértést, határrendészeti szabálysértést, gyógyszerrendészeti szabálysértést, segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértést, valamint olyan szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
 - b) nem követhet el
   - ba) az 1978. évi IV. törvény X. fejezetében, XI. fejezetében, XII. fejezetében – a magánlaksértés (1978. évi IV. törvény 176. §) kivételével –, XIII. fejezetében, XIV. fejezetében, XV. fejezetében – a hivatali visszaélés (1978. évi IV. törvény 225. §), a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), valamint a III. címben és a VII. címben foglaltak kivételével –, XVI. fejezetében – a III. címben foglaltak kivételével –, XVII. fejezetében – az áru hamis megjelölése (1978. évi IV. törvény 296. §), valamint a III. címben foglaltak kivételével –, XVIII. fejezetében – a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (1978. évi IV. törvény 329/A. §) kivételével –, XIX. fejezetében és XX. fejezetében meghatározott bűncselekményt,
-  - bb) a Btk.-ban meghatározott bűncselekményt, a személyes adattal visszaélés (Btk. 219. §), a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése [Btk. 271. § (1) bekezdés], a hivatali visszaélés (Btk. 305. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,
+  - bb) a Btk.-ban meghatározott bűncselekményt, a teljesítményfokozó szerrel visszaélés (Btk. 185. §), a gyógyszerhamisítás (Btk. 185/A. §), a személyes adattal visszaélés (Btk. 219. §), a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése [Btk. 271. § (1) bekezdés], a hivatali visszaélés (Btk. 305. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,
 - c) elkövetheti a jövedéki adóról szóló törvény szerinti szabálytalanságot, illetve megsértheti a jövedéki adóról szóló törvény szerinti kötelezettséget,
 - d) elkövetheti a környezetvédelmi termékdíj-kötelezettségi szabályok megsértését, a fémkereskedő fémkereskedelmi tevékenységével, fémkereskedelmi engedélyköteles anyagok más személy általi értékesítésével, szállításával, fuvarozásával, raktározásával, tárolásával, hasznosításával összefüggő szabályok megsértését, az elektronikus közúti áruforgalom ellenőrző rendszerbe a közúti fuvarozáshoz kapcsolódó bejelentési kötelezettséghez kötődő szabályok megsértését, költségvetési vagy egyéb pénzeszközök, állami támogatások felhasználásával összefüggésben adózási bejelentési, bevallási, megfizetési kötelezettségek, számviteli renddel kapcsolatos kötelezettségek megsértését.
 
@@ -1206,8 +1207,9 @@ alkalmazhatja.
 - e) személyvédelmi és létesítménybiztosítási feladatai ellátása során,
 - f) az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény vagy nemzetközi szerződés alapján folytatott együttműködés keretében,
 - g) bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében,
-- h) fedett nyomozó, illetve a valódi céljának leplezésével működő szervezet (a továbbiakban: fedőintézmény) védelme érdekében, valamint
-- i) a rendőrséggel titkosan együttműködő személy védelme, bevonása és ellenőrzése érdekében
+- h) fedett nyomozó, illetve a valódi céljának leplezésével működő szervezet (a továbbiakban: fedőintézmény) védelme érdekében,
+- i) a rendőrséggel titkosan együttműködő személy bevonása, ellenőrzése, védelme, valamint az általa rendelkezésre bocsátott információk ellenőrzése érdekében, valamint
+- j) a büntetőeljárásról szóló törvény alapján titkosan együttműködő személy bevonása, ellenőrzése, védelme, valamint az általa rendelkezésre bocsátott információk ellenőrzése érdekében
 
 az e törvényben meghatározott szabályok alapján folytathat titkos információgyűjtést.
 
@@ -1243,19 +1245,22 @@ akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, h
 
 szolgáló információ várható.
 
-(10) A rendőrséggel titkosan együttműködő személy védelme, bevonása és ellenőrzése érdekében akkor folytatható titkos információgyűjtés, ha az attól várt információk
+(10) A rendőrséggel titkosan együttműködő személy bevonása, védelme, ellenőrzése, valamint az általa rendelkezésre bocsátott információk ellenőrzése érdekében akkor folytatható titkos információgyűjtés, ha az attól várt információk
 
-- a) a rendőrséggel titkosan együttműködő személy lelepleződésének megelőzése, vagy az ellene irányuló személy elleni erőszakos bűncselekmény megelőzése érdekében,
-- b) az együttműködés lehetősége, az együttműködés fenntartása, illetve a titkos együttműködési megállapodás megkötésének kérdésében való döntéshez, vagy
-- c) a rendőrséggel titkosan együttműködő személyre vonatkozó információ ellenőrzése érdekében
+- a) a rendőrséggel titkosan együttműködő személy lelepleződésének megelőzése, vagy az ellene, illetve rá tekintettel a hozzátartozója ellen irányuló személy elleni erőszakos bűncselekmény megelőzése érdekében,
+- b) az együttműködés lehetősége, az együttműködés fenntartása, illetve a titkos együttműködési megállapodás megkötésének kérdésében való döntéshez,
+- c) a rendőrséggel titkosan együttműködő személyre vonatkozó információ ellenőrzése érdekében, vagy
+- d) a rendőrséggel titkosan együttműködő személy által rendelkezésre bocsátott információk ellenőrzése céljából
 
 szükségesek.
+
+(11) A büntetőeljárásról szóló törvény alapján titkosan együttműködő személy bevonása, ellenőrzése, védelme, valamint az általa rendelkezésre bocsátott információk ellenőrzése érdekében akkor folytatható titkos információgyűjtés, ha az együttműködés lehetősége, az együttműködés fenntartása, illetve a titkos együttműködési megállapodás megkötésének kérdésében való döntéshez, a titkosan együttműködő személy vagy rá tekintettel a hozzátartozója ellen irányuló személy elleni erőszakos bűncselekmény megelőzése érdekében szükséges, illetve ha az információ valóságtartalma iránt kétség merül fel.
 
 65/A. § (1) A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a megbízhatósági vizsgálat során bírói engedélyhez kötött eszközt nem alkalmazhat.
 
 (2) A büntetőeljárásról szóló törvény alapján a tanú személyazonossága vagy elérhetőségének megállapítása érdekében elrendelt körözés végrehajtása során bírói engedélyhez kötött eszköz nem alkalmazható.
 
-(3) A rendőrséggel titkosan együttműködő személy védelme, bevonása és ellenőrzése céljából bírói engedélyhez kötött eszköz nem alkalmazható.
+(3) A rendőrséggel titkosan együttműködő személy, valamint a büntetőeljárásról szóló törvény alapján titkosan együttműködő személy bevonása, ellenőrzése, védelme, valamint az általa rendelkezésre bocsátott információk ellenőrzése céljából bírói engedélyhez kötött eszköz nem alkalmazható.
 
 ### Bírói engedélyhez nem kötött eszközök
 
@@ -1267,7 +1272,7 @@ szükségesek.
 - d) valamely személyt – ha életének, testi épségének megóvása érdekében szükséges – rendőrrel helyettesítheti; illetve
 - e) elektronikus hírközlési eszközön vagy információs rendszeren folytatott kommunikáció tényének a megállapításához, az elektronikus hírközlési eszköz vagy információs rendszer azonosításához, illetve hollétének megállapításához szükséges adatokat megszerezheti.
 
-(1a) A rendőrség a titkosan együttműködő személy által rendelkezésre bocsátott információkat – hozzájárulásával – műszeres ellenőrzéssel vizsgálhatja. A tizennyolcadik életévét be nem töltött titkosan együttműködő személy által szolgáltatott információ műszeres ellenőrzéssel nem vizsgálható.
+(1a) A rendőrség az e törvény, valamint a büntetőeljárásról szóló törvény alapján igénybe vett titkosan együttműködő személy által rendelkezésre bocsátott információkat – hozzájárulásával – műszeres ellenőrzéssel vizsgálhatja. A tizennyolcadik életévét be nem töltött titkosan együttműködő személy által szolgáltatott információ műszeres ellenőrzéssel nem vizsgálható.
 
 (2) A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a megbízhatósági vizsgálat folytatása során a védett állomány tagját foglalkoztató szerv hivatali helyiségében, gépjárművében és a megbízhatósági vizsgálat helyszínén történteket, illetve a mesterséges élethelyzetben résztvevő, valamint a megbízhatósági vizsgálat alá vont személy tevékenységét és előadását titokban technikai eszközzel megfigyelheti és rögzítheti, illetve az ehhez szükséges technikai eszközt a felsorolt helyeken elhelyezheti.
 
@@ -1740,7 +1745,7 @@ adatok köre
 - c) a szándékos bűncselekmény megalapozott gyanúja miatt kihallgatott személy adatait, személyleírását, fényképét, különös ismertetőjegyeit, hangmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől számított húsz évig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig – vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésről való hivatalos rendőrségi tudomásszerzés időpontjától számított húsz évig, ennek hiányában az adatok bűnüldözési adatállományba történt bekerülésétől számított harminc évig;
 - d) a rendőrségen fogvatartott, a Be. szerinti személyi szabadságot érintő bírói engedélyes kényszerintézkedés hatálya alatt állók a bűncselekmény büntethetőségének elévüléséig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig – vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésről való hivatalos rendőrségi tudomásszerzés időpontjáig, ennek hiányában az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított harminc évig;
 - e) súlyos bűncselekmény esetén, vagy ha a bűncselekmény
-  - ea) élet, testi épség, emberi szabadság és vagyon elleni erőszakos bűntett, illetve az emberkereskedelem és az embercsempészés három évig terjedő szabadságvesztéssel büntetendő alakzata,
+  - ea) élet, testi épség, emberi szabadság és vagyon elleni erőszakos bűntett, illetve az embercsempészés három évig terjedő szabadságvesztéssel büntetendő alakzata,
   - eb) nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény három évig terjedő szabadságvesztéssel büntetendő alakzata,
   - ec) gyermekkorú személy sérelmére elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűntett,
   - ed) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
@@ -2145,7 +2150,7 @@ bírálja el.
 - e) meghatározza a személyes javak rendőri intézkedés keretében történő igénybevételével és a kártalanítással kapcsolatos eljárás szabályait,
 - f) meghatározza a rendőrség ellenérték fejében végezhető szolgáltató tevékenységének körét,
 - g) meghatározza a megelőző-védelemmel, személybiztosítással és objektumvédelemmel kapcsolatos szabályokat,
-- h) kijelölje a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet, a terrorizmust elhárító szervet, valamint meghatározza a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv hatáskörének, továbbá feladataik ellátásának a részletes szabályait,
+- h) kijelölje a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet, a terrorizmust elhárító szervet, valamint meghatározza a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv hatáskörének, továbbá feladataik ellátásának a részletes szabályait, továbbá meghatározza a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített, a Kormány vagy a Kormány tagjának irányítása, felügyelete alá tartozó szervek körét,
 - i) meghatározza a határterülethez tartozó településeket, valamint a nemzetközi forgalom számára megnyitott repülőtér, vasútállomás és kikötő (kikötőhely) határterületnek minősülő területeit,
 - j) állapítsa meg a határátkelőhely területére nem határátlépés céljából történő belépés és tartózkodás rendjét,
 - k) állapítsa meg a kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat,

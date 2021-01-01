@@ -25,7 +25,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 (4) Autonóm államigazgatási szerv
 
 - a) a Közbeszerzési Hatóság,
-- b) az Egyenlő Bánásmód Hatóság,
+- b)
 - c) a Gazdasági Versenyhivatal,
 - d) a Nemzeti Adatvédelmi és Információszabadság Hatóság, és
 - e) a Nemzeti Választási Iroda.
@@ -80,6 +80,7 @@ meghatározott hatáskörök együttesét kell érteni.
 - e) a szervnél vezető beosztással rendelkező, a honvédek jogállásáról szóló törvény szerinti jogviszonyban álló személyre, illetve
 - f) a miniszterelnök közvetlen irányítása alatt álló és kormányrendeletben a központi államigazgatási szervnél irányítási jogkörrel felruházott kormánybiztosra,
 - g) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 29. § (3) bekezdése szerinti személyre
+- h) a szervnél a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti vezetői munkakört betöltő személyre
 
 átruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
 

@@ -33,7 +33,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 (3) A pénzügyi támogatás (a továbbiakban: támogatás) a felszámolás vagy kényszertörlési eljárás kezdő időpontja előtt megszűnt munkaviszonyból származó bértartozások fedezetéül is szolgál.
 
-(4) A támogatás forrásául a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. §-a (3) bekezdésének d) pontja alapján a Nemzeti Foglalkoztatási Alap bérgarancia alaprésze szolgál.
+(4) A támogatás forrásául a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. §-a (3) bekezdésének d) pontja alapján a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap (a továbbiakban: Alap) bérgarancia alaprésze szolgál.
 
 (5) Az (1) bekezdés b) és c) pontjában foglaltakkal kapcsolatos támogatásra az e törvényben foglaltakat a 11–13. §-ban meghatározott eltérésekkel kell alkalmazni.
 
@@ -72,7 +72,26 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 (3) Az (1) bekezdésben foglaltaktól eltérően, ha a gazdálkodó szervezettel fennálló munkaviszony a felszámolás kezdetét követően jött létre, a támogatást az állami foglalkoztatási szerv vezetője mérlegelési jogkörben állapítja meg. Döntése meghozatalakor a (2) bekezdésben megjelölt szempontokat, valamint – különös tekintettel a Cstv. 27/A. § (13) bekezdésére – a munkavállaló által ellátandó feladatok figyelembevételével a foglalkoztatás indokoltságát mérlegeli.
 
-3. § A támogatás iránti kérelmet a felszámolónak vagy meghatalmazottjának az állami foglalkoztatási szervhez az 1. és 2. melléklet szerint, értelemszerűen kitöltött formanyomtatványon, valamennyi előírt mellékletet becsatolva, elektronikus formában kell benyújtania. Az állami foglalkoztatási szerv a nyilatkozatokat elektronikus formában, annak megváltoztathatatlanságát biztosító zárt informatikai rendszerben tárolja.
+3. § (1) A támogatás iránti kérelmet az állami foglalkoztatási szervhez a felszámoló vagy meghatalmazottja a foglalkoztatáspolitikáért felelős miniszter hivatalos honlapján közzétettek szerint, elektronikus formában nyújtja be. Az állami foglalkoztatási szerv a nyilatkozatokat elektronikus formában, annak megváltoztathatatlanságát biztosító zárt informatikai rendszerben tárolja.
+
+(2) Az (1) bekezdés szerinti kérelem tartalmazza:
+
+- a) a gazdálkodó szervezet azonosító adatait,
+- b) a gazdasági tevékenység megkezdésének időpontját,
+- c) a gazdálkodó szervezet felszámolási vagy kényszertörlési eljárásának kezdő időpontját,
+- d) a kérelem alapjaként szereplő bérkifizetési napot, valamint a munkavállaló összes elmaradt bruttó munkabérének összegét,
+- e) a bérfizetés napján és az azt követően – a kérelem benyújtásáig – a gazdálkodó szervezet rendelkezésére álló saját forrás összegét,
+- f) az igényelt támogatásnak a rendelkezésre álló saját forrás figyelembevételével megállapított összegét,
+- g) külföldi gazdálkodó szervezet esetén
+  - ga) a felszámolást elrendelő hatóság nevét és címét,
+  - gb) a felszámolási eljárás lefolytatásának országában a bérgarancia támogatás lefolytatására hatáskörrel és illetékességgel rendelkező hatóság nevét és címét,
+  - gc) amennyiben rendelkezik ilyennel, a felszámoló képviseletében Magyarországon eljáró cég vagy személy azonosító adatait és elérhetőségeit,
+- h) a felszámoló azonosító adatait és elérhetőségeit,
+- i) a Bérgarancia biztos azonosító adatait és elérhetőségeit,
+- j) a kérelmező nyilatkozatait,
+- k) a munkavállaló nevét, születési nevét, anyja nevét, születési helyét és idejét, társadalombiztosítási azonosító jelét, adóazonosító jelét, lakcímét, munkaviszonyának kezdetét, bankszámlaszámát, számlavezető bank nevét, számlatulajdonos nevét;
+- l) a munkavállaló elmaradt bérére vonatkozó adatokat
+- m) a munkavállaló elmaradt bérének a Gazdaságvédelmi Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összegére vonatkozó adatokat.
 
 4. § (1) Az általános közigazgatási rendtartásról szóló törvény szabályait az e törvényben meghatározott hatósági ügyben az e §-ban, valamint a 4/A–4/C. §-ban foglalt szabályok figyelembevételével kell alkalmazni.
 
@@ -99,7 +118,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 5. § (1) A támogatás kamatmentes.
 
-(2) A támogatás megállapítása esetén az állami foglalkoztatási szerv a döntés meghozatalától számított 5 napon belül intézkedik a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből
+(2) A támogatás megállapítása esetén az állami foglalkoztatási szerv a döntés meghozatalától számított 5 napon belül intézkedik az Alap bérgarancia alaprészéből
 
 - a) a 7. § (1) és (2) bekezdése szerint meghatározott bértartozás – a munkavállalót terhelő közterhekkel csökkentett – összegének a munkavállaló részére történő kifizetéséről,
 - b) a munkavállalót terhelő közterheknek az állami adó- és vámhatóság – a felszámolás alatt álló gazdálkodó szervezet nevében a gazdálkodó szervezet adószámának feltüntetésével – részére történő megfizetéséről, valamint
@@ -111,7 +130,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 6. § (1) Az 5. §-ban foglaltak nem érintik a felszámolás alatt álló gazdálkodó szervezetnek mint foglalkoztatónak, illetve a felszámolónak a társadalombiztosításról, valamint az adózás rendjéről szóló jogszabályban meghatározott, a társadalombiztosítási szervvel, az állami adó- és vámhatósággal szemben fennálló kötelezettségeit – így különösen a munkavállalót megillető munkabérrel és annak közterheivel összefüggő bevallási és adatszolgáltatási kötelezettségeket –, valamint a foglalkoztatottal szemben fennálló kötelezettségeit, és az annak elmulasztásából eredő felelősségét.
 
-(2) A felszámoló köteles az állami foglalkoztatási szerv részére az 5. § (2) és (2a) bekezdésében meghatározott átutalás teljesítéséhez szükséges adatokat az 1. és 2. mellékletben foglaltak szerint rendelkezésre bocsátani. Az átutalás elmulasztásáért, késedelmes vagy nem megfelelő teljesítéséért a munkavállalóval szemben a felszámolót terheli felelősség, ha annak oka a felszámoló mulasztása vagy nem a jogszabálynak megfelelő adatszolgáltatása.
+(2) A felszámoló köteles az állami foglalkoztatási szerv részére az 5. § (2) és (2a) bekezdésében meghatározott átutalás teljesítéséhez szükséges adatokat a 3. § szerintrendelkezésre bocsátani. Az átutalás elmulasztásáért, késedelmes vagy nem megfelelő teljesítéséért a munkavállalóval szemben a felszámolót terheli felelősség, ha annak oka a felszámoló mulasztása vagy nem a jogszabálynak megfelelő adatszolgáltatása.
 
 7. § (1) A felszámoló a támogatási igény meghatározása során a támogatásra jogosult gazdálkodó szervezetnek a jogosultakkal szemben, a bérfizetési napon fennálló bértartozását, de egy felszámolási eljáráson belül jogosultanként legfeljebb a tárgyévet megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének (a továbbiakban: bruttó átlagkereset) ötszörösét veheti figyelembe. Ha a gazdálkodó szervezet a támogatást ugyanazon jogosult tekintetében egy felszámolási eljáráson belül több részletben veszi igénybe, és a felszámolási eljárás egyes naptári éveiben a bruttó átlagkereset mértéke eltérő, – a támogatás következő évben történő igénybevétele esetén – a jogosultság szempontjából a magasabb bruttó átlagkereset alapján számított támogatási mértéket kell figyelembe venni.
 
@@ -120,9 +139,9 @@ az e törvény által meghatározott összeg előlegezhető meg.
 - a) ha a felszámolási eljárás kezdetétől egy év eltelt,
 - b) azon jogosultak esetében, akikre vonatkozóan az addig igénybe vett összeg kimerítette az (1) bekezdésben meghatározott ötszörös mértéket, jogosultanként további, legfeljebb kettő havi bruttó átlagkeresetnek megfelelő támogatást igényelhet a felszámoló, ha annak e törvényben meghatározott egyéb feltételei fennállnak.
 
-(3) A Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből – a (4) bekezdésben foglalt kivétellel – legfeljebb olyan mértékű támogatás igényelhető, amennyivel a gazdálkodó szervezetnek a munkavállalóval szemben a bérfizetés napján fennálló bértartozása meghaladja a gazdálkodó szervezetnél a bérfizetés napjáig és azt követően – a kérelem benyújtásáig – keletkezett forrás együttes összegét.
+(3) Az Alap bérgarancia alaprészéből – a (4) bekezdésben foglalt kivétellel – legfeljebb olyan mértékű támogatás igényelhető, amennyivel a gazdálkodó szervezetnek a munkavállalóval szemben a bérfizetés napján fennálló bértartozása meghaladja a gazdálkodó szervezetnél a bérfizetés napjáig és azt követően – a kérelem benyújtásáig – keletkezett forrás együttes összegét.
 
-(4) Azon munkavállalókkal szembeni bértartozást, akiknek a munkaviszonya az Mt. 63. § (1) bekezdés b) pontja alapján a munkáltató jogutód nélküli megszűnése miatt szűnik meg, továbbá azt a bértartozást, amely a gazdálkodó szervezet jogutód nélküli megszűnésének időpontjában válik esedékessé, a felszámoló köteles rendelkezésre álló fedezet hiányában – a munkavállaló külön igénybejelentése nélkül – a felszámolási zárómérleg elkészítését megelőzően a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből megigényelni. A bértartozás kifizetésére az 5. §-ban foglaltakat megfelelően alkalmazni kell.
+(4) Azon munkavállalókkal szembeni bértartozást, akiknek a munkaviszonya az Mt. 63. § (1) bekezdés b) pontja alapján a munkáltató jogutód nélküli megszűnése miatt szűnik meg, továbbá azt a bértartozást, amely a gazdálkodó szervezet jogutód nélküli megszűnésének időpontjában válik esedékessé, a felszámoló köteles rendelkezésre álló fedezet hiányában – a munkavállaló külön igénybejelentése nélkül – a felszámolási zárómérleg elkészítését megelőzően az Alap bérgarancia alaprészéből megigényelni. A bértartozás kifizetésére az 5. §-ban foglaltakat megfelelően alkalmazni kell.
 
 8. § (1) A jogosulatlanul igénybe vett vagy nem jogszerűen felhasznált támogatást a támogatás iránti kérelem benyújtásának időpontjában hatályos jegybanki alapkamat kétszeresével növelt összegben kell visszafizetni. Ilyennek kell tekinteni, ha az állami foglalkoztatási szerv az 5. § (2) bekezdésében meghatározott kifizetést – a felszámoló valóságnak nem megfelelő adatszolgáltatása miatt – olyan munkavállaló részére is teljesíti, akinek nem állt fenn bértartozása vagy a munkavállaló fennálló bértartozásánál nagyobb mértékű támogatási összeg került kifizetésre.
 
@@ -153,6 +172,23 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 (1b) A felszámoló az (1) bekezdésben meghatározott nyilvántartásba vétellel, illetve az (1a) bekezdés szerinti teljesítésigazolás kiadásával egyidejűleg köteles a kölcsönbeadónak, illetve az iskolaszövetkezetnek, nyugdíjas szövetkezetnek igazolást kiadni, amely kölcsönzött munkavállalónként, illetve átengedett tagonként tartalmazza az elmaradt kölcsönzési díjat, illetve szolgáltatási díjat. A nyilvántartásba vételről szóló értesítés, valamint az (1a) bekezdés szerinti teljesítésigazolás kézhezvételének időpontját a támogatás igénylése során a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet köteles igazolni. Az (1a) bekezdés szerinti teljesítésigazolás, valamint az e bekezdés szerinti igazolás másolatát mellékelni kell a támogatás iránti kérelemhez.
 
+(1c) A támogatás iránti kérelmet az állami foglalkoztatási szervhez a kölcsönbeadó vagy az iskolaszövetkezet, nyugdíjas szövetkezet a foglalkoztatáspolitikáért felelős miniszter hivatalos honlapján közzétettek szerint, elektronikus formában nyújtja be. Az állami foglalkoztatási szerv a nyilatkozatokat elektronikus formában, annak megváltoztathatatlanságát biztosító zárt informatikai rendszerben tárolja.
+
+(1d) Az (1c) bekezdés szerinti kérelem tartalmazza:
+
+- a) a kölcsönbeadó, az iskolaszövetkezet vagy a nyugdíjas szövetkezet azonosító adatait,
+- b) a gazdasági tevékenység megkezdésének időpontját, és a tevékenység megkezdéséről szóló engedély számát,
+- c) a kölcsönbeadó, az iskolaszövetkezet vagy a nyugdíjas szövetkezet pénzforgalmi számlaszámát, a számlavezető pénzforgalmi szolgáltató megnevezését, címét,
+- d) a kérelem alapjaként szereplő legkorábbi tartozás vonatkozásában a bérkifizetés vagy a díjfizetés napját,
+- e) a bérfizetési vagy díjfizetési napon és az azt követően – a kérelem benyújtásáig – a megjelölt munkavállalók vagy tagok munkabérére vagy díjára fordított saját forrás összegét,
+- f) az igényelt támogatás összegét,
+- g) a követelés felszámoló általi hitelezői nyilvántartásba vételéről szóló értesítés kézhezvételének napját,
+- h) a felszámolási eljárás kezdete után folytatott kölcsönzés esetén a felszámoló által kiállított teljesítésigazolás kézhezvételének napját,
+- i) a kölcsönvevő vagy a szolgáltatás igénybe vevőjének azonosító adatait, az utolsó ismert pénzforgalmi számlaszámát, a számlavezető pénzforgalmi szolgáltató utolsó ismert megnevezését, címét, valamint a felszámolás kezdő időpontját,
+- j) a kölcsönvevő vagy a szolgáltatást igénybevevő felszámolójának azonosító adatait és elérhetőségeit,
+- k) a munkavállaló, az iskolaszövetkezet vagy a nyugdíjas szövetkezet tagjának nevét, születési nevét, anyja nevét, születési helyét és idejét, társadalombiztosítási azonosító jelét, adóazonosító jelét, lakcímét, a kölcsönzés vagy a szolgáltatás nyújtás időszakát, munkakörét vagy feladatát,
+- l) az elmaradt kölcsönzési díjra vagy szolgáltatási díjra vonatkozó adatokat, a támogatásnak a Gazdaságvédelmi Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összegét.
+
 (2) A kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet az (1) és (1a) bekezdés szerinti kérelmet a magyarországi szokásos munkavégzési hellyel rendelkező azon munkavállalója tekintetében terjesztheti elő, akire nézve nem áll fenn a 2. § (2) bekezdés b) vagy c) pontja szerinti kizáró ok.
 
 (3) A kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet a támogatási igény meghatározása során az (1) és az (1a) bekezdés szerinti kérelemben a kikölcsönzött munkavállaló részére járó munkabér, illetve személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tag részére járó díj összegét – egy felszámolási eljáráson belül jogosultanként legfeljebb a tárgyévet megelőző második évre vonatkozóan a Központi Statisztikai Hivatal által közzétett nemzetgazdasági havi bruttó átlagkereset (a továbbiakban: bruttó átlagkereset) ötszörösét – veheti figyelembe. Ha a kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet a támogatást ugyanazon jogosult tekintetében egy felszámolási eljáráson belül több részletben veszi igénybe, és a felszámolási eljárás egyes naptári éveiben a bruttó átlagkereset mértéke eltérő – a támogatás következő évben történő igénybevétele esetén – a jogosultság szempontjából a magasabb bruttó átlagkereset alapján számított támogatási mértéket kell figyelembe venni.
@@ -179,21 +215,13 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 12/A. § Az e törvényben meghatározott jogok és kötelezettségek tekintetében a Bérgarancia biztost, valamint a kényszertörlési eljárás alatt álló gazdálkodó szervezet munkavállalóját ugyanazok a jogok illetik meg, illetve kötelezettségek terhelik, mint a felszámolót, illetőleg felszámolás alatt álló gazdálkodó szervezet munkavállalóját.
 
-13. § (1) Ha a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet 11. § szerinti kérelme az e törvényben foglaltaknak megfelel, az állami foglalkoztatási szerv a kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet részére a 11. §-ban meghatározott támogatást megállapítja és a döntés meghozatalától számított 5 napon belül intézkedik annak a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből a kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet pénzforgalmi számlájára történő átutalásáról.
+13. § (1) Ha a kölcsönbeadó, illetve az iskolaszövetkezet, nyugdíjas szövetkezet 11. § szerinti kérelme az e törvényben foglaltaknak megfelel, az állami foglalkoztatási szerv a kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet részére a 11. §-ban meghatározott támogatást megállapítja és a döntés meghozatalától számított 5 napon belül intézkedik annak az Alap bérgarancia alaprészéből a kölcsönbeadó és az iskolaszövetkezet, nyugdíjas szövetkezet pénzforgalmi számlájára történő átutalásáról.
 
 (2) A 11. §-ban meghatározott támogatás nyújtására az 1. § (1) bekezdés b) és c) pontját, (4) és (5) bekezdését, a 2/A. § (3) bekezdését, a 4. §-t, az 5. § (1) bekezdését, valamint a 8. § (1) bekezdését alkalmazni kell.
 
-(3) A 11. § (1) és (1a) bekezdése szerinti kérelmet a kölcsönbeadónak, illetve az iskolaszövetkezetnek, nyugdíjas szövetkezetnek a 3. és 4. melléklet szerint kitöltött formanyomtatványon, elektronikus formában kell benyújtania. Az állami foglalkoztatási szerv a nyilatkozatokat elektronikus formában, zárt informatikai rendszerben tárolja.
+(3)
 
-13/A. § (1) Az állami foglalkoztatási szerv az e törvény szerint nyújtandó támogatás kifizetése érdekében a következő adatokat kezeli és tartja nyilván:
-
-- a) a gazdálkodó szervezet adatai (név, székhely, telephely, fióktelep, adóazonosító jel/adószám, KSH azonosító szám, a tevékenység megkezdésének időpontja, a felszámolás kezdő időpontja),
-- b) a felszámoló adatai (név, székhely, telefonszám, KSH azonosító szám, adószám),
-- c) a felszámoló biztos adatai (név, cím, telefonszám, email cím),
-- d) külföldi felszámoló esetében – amennyiben rendelkezik ilyennel – a felszámoló képviseletében eljáró cég, illetve személy adatai (név, székhely/cím, telefonszám, KSH azonosító szám, adószám, email cím)
-- e) a munkavállaló, illetve a személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tag adatai [természetes személyazonosító adatok, állampolgárság, lakóhely (tartózkodási hely), társadalombiztosítási azonosító jel, adóazonosító jel, bankszámlaszám, számlatulajdonos neve, számlavezető hitelintézet, munkaviszony vagy feladatteljesítés kezdete, munkakör vagy feladat],
-- f) a kölcsönbeadó vagy az iskolaszövetkezet, nyugdíjas szövetkezet adatai (név, székhely, KSH azonosító szám, adószám, pénzforgalmi számlaszám, számlavezető hitelintézet, tevékenység megkezdésének időpontja, engedély száma, képviseletre jogosult neve, címe, telefonszáma, email címe),
-- g) a kölcsönvevő vagy a szolgáltatást igénybevevő adatai (név, székhely, KSH azonosító szám, pénzforgalmi számlaszám, számlavezető hitelintézet, felszámolás kezdő időpontja).
+13/A. § (1) Az állami foglalkoztatási szerv az e törvény szerint nyújtandó támogatás kifizetése érdekében a 3. § (2) bekezdésében és a 11. § (1d) bekezdésében foglalt adatokat a foglalkoztatáspolitikáért felelős miniszter hivatalos honlapján közzétetteknek megfelelően kezeli és tartja nyilván.
 
 (2) Az adatbázisban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
@@ -218,7 +246,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 15. § (1) E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény és a Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosításáról szóló 2012. évi CXCVII. törvénnyel (a továbbiakban: 2012. évi CXCVII. törvény) megállapított rendelkezéseit a 2012. évi CXCVII. törvény hatálybalépésekor folyamatban lévő felszámolási eljárás alatt álló kölcsönvevő és iskolaszövetkezet szolgáltatását igénybevevő gazdálkodó szervezet, továbbá a vele szerződéses kapcsolatban álló kölcsönbeadó, illetve iskolaszövetkezet tekintetében is alkalmazni kell, ha a felszámolási eljárásban a Cstv. 52. §-a szerinti zárómérleg elkészítésére a 2012. évi CXCVII. törvény hatálybalépésekor még nem került sor.
 
-(1a) E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 3. §-át, valamint 13. § (3) bekezdését az elektronikus kapcsolattartás tekintetében 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni azzal, hogy fővárosi és megyei kormányhivatal helyett állami foglalkoztatási szervet kell érteni.
+(1a) E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 3. §-át, az elektronikus kapcsolattartás tekintetében 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni azzal, hogy fővárosi és megyei kormányhivatal helyett állami foglalkoztatási szervet kell érteni.
 
 (1b) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2018. évi XCIV. törvénnyel (a továbbiakban: 2018. évi XCIV. tv.) megállapított 4. § (3) bekezdését és 5. § (2) bekezdését a 2018. évi XCIV. tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -230,309 +258,8 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 ### 1. számú melléklet az 1994. évi LXVI. törvényhez
 
-KÉRELEM
-
-a Bérgarancia Alapból igényelhető támogatásról
-
-I. A gazdálkodó szervezet adatai:
-
-1. Neve:
-
-2. KSH azonosító száma:
-
-3. Adószáma/adóazonosító jele:
-
-4. Székhelye:
-
-5. Telephelye, fióktelepe:
-
-6. A tevékenység megkezdésének időpontja: .............. év ……. hó ................. nap
-
-7. A felszámolás kezdő időpontja: .............. év …….. hó ................. nap
-
-8. A kérelem alapjaként szereplő bérkifizetési nap: ........... év…… hó ................. nap
-
-9. A 8. pont szerinti napra a törvény 2. melléklete B) táblázat Összesen sor 2. oszlopában szereplő – összeg: …………….Ft
-
-10. A bérfizetés napján és az azt követően – a kérelem benyújtásáig – rendelkezésre álló saját forrás összege: ................. Ft
-
-11. Az igényelt támogatás (a rendelkezésre álló saját forrás figyelembevételével megállapított) összege: ................. Ft
-
-12. Külföldi gazdálkodó szervezet esetén a felszámolást elrendelő hatóság neve és címe:
-
-……………………………………………………………………………………………………………
-
-13. Külföldi gazdálkodó szervezet esetén a felszámolási eljárás lefolytatásának országában a bérgarancia támogatás lefolytatására hatáskörrel és illetékességgel rendelkező hatóság neve és címe:
-
-………………………………………………………………………………………………..
-
-II. A felszámoló adatai:
-
-1. Neve, címe, telefonszáma:…………………………………………….
-
-A felszámoló megbízottjának neve, címe, telefonszáma, email-címe: ………………..
-
-2. KSH azonosító száma: ………………………………………………………..
-
-3. Adószáma:……………………………………………………………………..
-
-4. Székhelye:………………………………………………………………………
-
-5. Külföldi gazdálkodó szervezet felszámolása esetén – amennyiben rendelkezik ilyennel - a felszámoló képviseletében Magyarországon eljáró cég, illetve személy neve, székhelye/címe, telefonszáma, email-címe:…………………………………………………
-
-III. Nyilatkozat:
-
-1. A kérelem a törvény □ 7. §-a (1) bekezdésén vagy □ (2) bekezdésén alapul.
-
-2. Ha a kérelem a 7. § (2) bekezdésén alapul, akkor nyilatkozom, hogy
-
-a) a kérelemmel érintett munkabértartozás állásidőre járó díjazást
-
-□ nem tartalmaz, □ tartalmaz
-
-b) a támogatás megállapítása e kérelem benyújtását követő hat hónap alatt – ismételt kérelem esetén az első, 7. § (2) bekezdése alapján benyújtott kérelemben meghatározott határidőig – várhatóan elősegíti a felszámolási eljárás lezárását, illetve a felszámolás alatt álló szervezet eszközeinek értékesítését, munkaerő-állománya új munkáltatónál történő továbbfoglalkoztatását (reorganizációt):
-
-□ Igen, □ Nem,
-
-mert:……………………………………….
-
-c) az érintett munkavállalók vonatkozásában a 7. § (1) bekezdésében meghatározott támogatási keret felhasználása □ megtörtént, □ nem történt meg.
-
-3. Ha a munkavállaló foglalkoztatására a felszámolási eljárás megindulását követően került sor, akkor nyilatkozom, hogy
-
-a) a kérelemmel érintett munkabértartozás állásidőre járó díjazást
-
-□ nem tartalmaz, □ tartalmaz.
-
-b) a támogatás megállapítása e kérelem benyújtását követő hat hónap alatt – ismételt kérelem esetén az első, 7. § (2) bekezdése alapján benyújtott kérelemben meghatározott határidőig – várhatóan elősegíti a felszámolási eljárás lezárását, illetve a felszámolás alatt álló szervezet eszközeinek értékesítését, munkaerő-állománya új munkáltatónál történő továbbfoglalkoztatását (reorganizációt):
-
-□ Igen, □ Nem,
-
-mert:……………………………………………………………
-
-c) az érintett munkavállaló foglalkoztatása – különös tekintettel a munkavállaló által ellátandó feladatok természetére - az alábbi indokok miatt vált szükségessé:
-
-| Munkavállaló neve | Munkavállaló TAJ száma | Munkavállaló munkaköre | A foglalkoztatás indoka |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-d) az érintett munkavállalók vonatkozásában a 7. § (1) bekezdésében meghatározott támogatási keret felhasználása □ megtörtént, □ nem történt meg.
-
-4. Nyilatkozom, hogy a kérelemben és az elektronikusan rögzített adatok a valóságnak megfelelnek.
-
-IV. A kérelem mellékletei:
-
-1. A felszámolási eljárás megindításának közzétételéről szóló jogerős végzés másolata.
-
-2. A képviseletre jogosult felszámoló aláírási címpéldánya.
-
-3. A követelés jogalapját és mértékét igazoló munkaszerződés, bírósági határozat, fizetési meghagyás.
-
-4. A III. 2. b) pontban tett nyilatkozat alátámasztására szolgáló mellékletek (amennyiben szükséges).
-
-5. A III. 3. b) és c) pontban tett nyilatkozat alátámasztására szolgáló mellékletek (amennyiben szükséges).
-
-6. A II. 5. pontban megjelölt képviseleti jogosultság igazolása (amennyiben szükséges).
-
-7. Külföldi gazdálkodó cég felszámolása esetén a támogatással érintett munkavállalók munkaszerződése magyar nyelven vagy ezek magyar nyelvű fordítása (amennyiben szükséges).
-
-8. Forinttól eltérő pénznemben meghatározott bér esetében az átváltásról készült kimutatás (amennyiben szükséges).
-
-Kelt: .............................., ....... év ................... hó ..... nap
-
-...............................................................
-
-(a felszámoló cégszerű aláírása)
-
-Megjegyzés: az I. pont 8. sorába a 2. melléklet címében szerepeltetett dátumot kell beírni.
-
 ### 2. számú melléklet az 1994. évi LXVI. törvényhez
-
-ADATLAP
-
-a Bérgarancia Alapból igényelhető támogatás számításához
-
-(A........... év........................ hó.........-i bérfizetési napon – a gazdálkodó szervezetnél – fennálló adatok alapján)
-
-1. A támogatási igénnyel érintett munkavállaló(k) megfelel(nek)-e az alábbi szempontok valamelyikének:
-
-a) A gazdálkodó szervezet legalább többségi befolyással rendelkező tagja (részvényese),
-
-b) A gazdálkodó szervezet vezető tisztségviselője,
-
-c) Az Mt. 208. § (1) bekezdése szerinti vezető állású munkavállaló,
-
-d) Az előző pontokban [a) - c)] említett személyek közeli hozzátartozója {Ptk. 8:1. § (1) bekezdés 1. pont}, élettársa,
-
-e) Az adós ingyenes szerződései alapján kedvezményezett személy
-
-igen □ nem □ részben □
-
-Ha igen/részben a válasz, akkor azon személyek felsorolása a szempont megjelölésével:
-
-|  | Az érintett munkavállalónak az Adatlap A) táblázatában megjelölt sorszáma | Munkavállaló neve | Szempont megjelölése |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-A) Munkavállaló azonosító adatai:
-
-| 1. Sorszám | 2. Neve | 3. Születési neve | 4. Anyja neve | 5. Születési helye | 6. Születési ideje | 7. Társadalom- biztosítási azonosító jele | 8. Adóazonosító jele | 9. Bankszámlaszáma |  |  | 10. Lakcíme | 11. A munkaviszony kezdete |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.1 Számlatulajdonos neve | 9.2 Számlavezető bank | 9.3 Számlaszám |
-| 1. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 6. |  |  |  |  |  |  |  |  |  |  |  |  |
-
-B) Munkavállaló elmaradt bérére vonatkozó adatok (a munkavállaló bruttó bérének összegén a bér- és végkielégítés-tartozás együttes összegét kell érteni):
-
-| 1. Sor- szám | 2. Munkavállaló bruttó bére (Ft) | 3. A munkavállaló bruttó bérét terhelő személyi jövedelemadó összege (Ft) | 4. A munkavállaló bruttó bérét terhelő nyugdíj-járulék összege (Ft) | 5. A munkavállaló bruttó bérét terhelő természetbeni egészségbiztosítási járulék összege (Ft) | 6. A munkavállaló bruttó bérét terhelő pénzbeli egészségbiztosítási járulék összege (Ft) | 7. A munkavállaló bruttó bérét terhelő munkaerő piaci járulék összege (Ft) | 8. A munkavállaló bruttó bérét terhelő egyszerűsített közteherviselési hozzájárulás összege (Ft) | 9. Munkavállaló bruttó bérét terhelő letiltások |  |  |  | 10. Munkavállaló nettó bére (Ft) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9.1 Kedvezményezett neve | 9.2 Kedvezményezett bankszámla- száma | 9.3 Letiltás jogcíme | 9.4. Letiltás összege |
-| 1. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5. |  |  |  |  |  |  |  |  |  |  |  |  |
-| 6. |  |  |  |  |  |  |  |  |  |  |  |  |
-| Összesen |  | - | - | - | - | - | -. | - | - | - | - | - |
-
-C) Munkavállaló elmaradt bérének a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összegére vonatkozó adatok:
-
-| 1.Sor- szám | 2.A munkavállalóután az adottfelszámolási eljárásbankorábban kapotttámogatás összege (Ft) |  | 3. A törvény2. számú mellékleteB) táblázatának2. oszlopábanmegjelölt tartozás Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összege (Ft) | 4. A Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelt támogatás összegéből a törvény 2. számú melléklete B) táblázatára tekintettel fizetendő |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.1 személyijövedelem-adóösszege (Ft) | 4.2 nyugdíj-járulékösszege (Ft) | 4.3 természetbeni egészség- biztosításijárulékösszege (Ft) | 4.4 pénzbeliegészség-biztosításijárulékösszege (Ft) | 4.5 munkaerő-piaci járulékösszege (Ft) | 4.6 egyszerűsített közteherviselési hozzájárulás összege (Ft) | 4.7 letiltásokra vonatkozó adatok |  |  |  | 4.8 Munkavállalónettó bére(Ft) |
-| 2.1a törvény 7. §(1) be-kezdése alapján | 2.2a törvény7. §(2) be-kezdésealapján | 4.7.1 Kedvez-ményezettneve | 4.7.2 Kedvez-ményezettbankszámla-száma | 4.7.3 Letiltásjogcíme | 4.7.4 Letiltásösszege (Ft) |
-| 1. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 6. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 7. |  |  |  | - | - | - | - | - | - | - | - | - | - | - |
-| Ösz-sze-sen: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-Megjegyzés:
-
-– a törvény 7. §-a (1) bekezdése alapján benyújtott kérelem esetén a törvény 2. melléklet C) táblázatának 2.1. és 3. oszlopában feltüntetett összeg együttesen, munkavállalónként nem haladhatja meg a tárgyévet megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének ötszörösét,
-
-– a törvény 7. §-a (2) bekezdése alapján benyújtott kérelem esetén a törvény 2. melléklet C) táblázatának 2.2. és 3. oszlopában feltüntetett összeg együttesen, munkavállalónként nem haladhatja meg a tárgyévet megelőző második év – Központi Statisztikai Hivatal által közzétett – nemzetgazdasági havi bruttó átlagkeresetének kétszeresét,
-
-– a C) táblázat 3. oszlop „Összesen” sorának adata szerepelhet az 1. melléklet 11. sorában.
-
-Oldalszám összesen: ......................
-
-Kelt: .............................. hely, ............. év................... hó........... nap.........
-
-.................................................................(a felszámoló cégszerű aláírása)
 
 ### 3. melléklet az 1994. évi LXVI. törvényhez
 
-KÉRELEMa Bérgarancia Alapból a munkaerő-kölcsönzés díja/az iskolaszövetkezet, nyugdíjas szövetkezet részére járó szolgáltatási díj megfizetésének elmaradása miatt igényelhető támogatásról
-
-I. A kölcsönbeadó/az iskolaszövetkezet, nyugdíjas szövetkezet adatai:
-
-1. Neve:
-
-2. Képviselőjének neve, címe:
-
-3. KSH azonosító száma:
-
-4. Adószáma:
-
-5. Székhelye:
-
-6. A tevékenység megkezdésének időpontja: ........... év ......................... hó ........... nap
-
-7. Engedély száma:
-
-8. Pénzforgalmi számlaszáma:
-
-9. A számlavezető pénzforgalmi szolgáltató megnevezése, címe:
-
-10. A kérelem alapjaként szereplő legkorábbi tartozás vonatkozásában a bérkifizetési/díjfizetési nap: ........... év…… hó ................. nap
-
-11. A 10. pontban megjelölt bérfizetési/díjfizetési napon és az azt követően – a kérelem benyújtásáig – a törvény 4. mellékletében megjelölt munkavállalók/tagok munkabérére/díjára fordított saját forrás összege: ................................... Ft
-
-12. Az igényelt támogatás összege: .................................. Ft
-
-13. A követelés felszámoló általi hitelezői nyilvántartásba vételről szóló értesítés kézhezvételének napja: ….. év …..hó…. nap
-
-14. A felszámolási eljárás kezdete után folytatott kölcsönzés esetén a felszámoló által kiállított teljesítésigazolás kézhezvételének napja: ……. év….hó…..nap
-
-II. A kölcsönvevő/a szolgáltatás igénybe vevőjének adatai:
-
-1. Neve:
-
-2. KSH azonosító száma:
-
-3. Székhelye:
-
-4. Pénzforgalmi számlaszáma (az utolsó ismert):
-
-5. A számlavezető pénzforgalmi szolgáltató megnevezése, címe (az utolsó ismert):
-
-6. A felszámolás kezdő időpontja: ........................ év........................ hó .................... nap
-
-III. A kölcsönvevő/a szolgáltatást igénybevevő felszámolójának adatai:
-
-1. Neve, címe, telefonszáma:
-
-A felszámoló megbízottjának neve, címe, telefonszáma:
-
-2. Székhelye:
-
-Nyilatkozom, hogy a kérelemben és az elektronikusan rögzített adatok a valóságnak megfelelnek.
-
-Kelt: .............................., ....... év ................... hó ..... nap
-
-....................................................................a kölcsönbeadó/az iskolaszövetkezet, nyugdíjas szövetkezet cégszerű aláírása
-
-Melléklet:
-
-1. Kölcsönbeadó/iskolaszövetkezet, nyugdíjas szövetkezet képviseletére jogosult aláírási címpéldánya.
-
-2. A felszámoló 11. § (1a) bekezdése szerinti teljesítésigazolás másolata (amennyiben szükséges).
-
-3. A felszámoló 11. § (1b) bekezdése szerinti igazolás másolata.
-
-4. A hitelezői nyilvántartásba vételről szóló értesítés kézhezvétele időpontjának igazolása (amennyiben szükséges).
-
-5. A teljesítésigazolás kézhezvételének igazolása. (amennyiben szükséges)
-
-6. A követelés jogalapját és mértékét igazoló munkaszerződés/tagsági megállapodás, bírósági határozat, fizetési meghagyás.
-
 ### 4. melléklet az 1994. évi LXVI. törvényhez
-
-ADATLAPa Bérgarancia Alapból a munkaerő-kölcsönzés díja/az iskolaszövetkezet, nyugdíjas szövetkezet részére járó szolgáltatási díj megfizetésének elmaradása miatt igényelhető támogatás számításához
-
-(A ........... év ........................ hó .........-i bérfizetési díjfizetési napon – a kölcsönbeadónál/az iskolaszövetkezetnél, nyugdíjas szövetkezetnél – fennálló adatok alapján)
-
-A) A munkavállalók/az iskolaszövetkezet, nyugdíjas szövetkezet tagjának adatai:
-
-| Sor- szám | 1. Kölcsönzött munkavállaló/Tag neve | 2. Társadalombiztosítási azonosító jele | 3. A kölcsönzés/szolgáltatás nyújtás időszaka |
-| --- | --- | --- | --- |
-| 1. |  |  |  |
-| 2. |  |  |  |
-| 3. |  |  |  |
-
-B) Az elmaradt kölcsönzési díjra/szolgáltatási díjra vonatkozó adatok (Valamennyi az A) pontban feltüntetett munkavállaló/tag vonatkozásában külön táblázat kitöltése szükséges. A táblázat sorait a munkavállaló/tag kölcsönzési díjának/szolgáltatási díjának esedékességéhez igazodva kell kitölteni.)
-
-| A kölcsönzött munkavállaló/tag sorszáma és neve: |  |  |
-| --- | --- | --- |
-| 1. Az elmaradt kölcsönzési díj/szolgáltatási díj esedékességének napja | 2. A kölcsönzési díjnak/szolgáltatási díjnak a bértartozás/díjtartozás fedezésére szolgáló összege (Ft) | 3. A támogatásnak a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összege (Ft) |
-|  |  |  |
-|  |  |  |
-| Összesen: |  |  |
-
-C) Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből igényelt támogatás összege (A B) táblázatok 3. oszlopa összesen sorának összesítése): ………………… Ft
-
-Kelt: .............................. hely, ....... év ................... hó .... nap
-
-.......................................................................(a kölcsönbeadó/az iskolaszövetkezet, nyugdíjas szövetkezet cégszerű aláírása)

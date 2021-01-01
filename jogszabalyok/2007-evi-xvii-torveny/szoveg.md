@@ -418,12 +418,10 @@ külön rendelkezések
 
 (7) Amennyiben az ügyfél az intézkedésben való részvételre irányuló kérelme, pályázata összeállítása céljából tanácsadói szolgáltatást vesz igénybe, a tanácsadást végző titoktartási kötelezettségére a külön jogszabályban, a közvetlenül alkalmazandó közösségi jogi aktusban, valamint az ügyféllel kötött megállapodásban foglaltakat kell alkalmazni.
 
-25. § (1) A nem nyilvános támogatási adat az adatkezelő szerven kívüli más szerv által csak alapos okkal használható fel. A nem nyilvános támogatási adatot alapos okkal használják fel, ha:
+25. § (1) A nem nyilvános támogatási adat az adatkezelő szerven kívüli más szerv vagy személy által csak alapos okkal használható fel. A nem nyilvános támogatási adatot alapos okkal használják fel, ha:
 
 - a) az a támogatás ellenőrzését, vagy
-- b) a (2)–(4) bekezdésben megjelölt szervek tájékoztatását szolgálja, továbbá
-- c) azt törvény előírja vagy megengedi, illetve
-- d) a felhasználáshoz az érintett ügyfél hozzájárul.
+- b) a (2)–(4) bekezdésben megjelölt szervek tájékoztatását szolgálja.
 
 (2) Az egyes intézkedésekben való részvétellel összefüggő adatot az adatkezelő szerv és a hivatalos statisztikai szolgálathoz tartozó szervek statisztikai célra felhasználhatják, ha a titoktartási kötelezettség megtartását a feldolgozás során biztosítják és – amennyiben a statisztikáról szóló törvény másként nem rendelkezik – azt a későbbi egyedi azonosításra alkalmatlanná teszik.
 
@@ -504,7 +502,7 @@ külön rendelkezések
 - 27. a Magyar Energetikai és Közműszabályozási Hivatal által a víziközmű-szolgáltatókról vezetett nyilvántartásból,
 - 28. a rendezett munkaügyi kapcsolati adatokat tartalmazó adatbázisokból,
 - 29. az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter által működtetett az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerből,
-- 30. a családi gazdálkodókról vezetett nyilvántartásból,
+- 30. a őstermelők családi gazdaságáról vezetett nyilvántartásból,
 - 31. az Országos Állattenyésztési Adatbázisból,
 - 32. a Nemzeti Génbank Adatbázisból,
 - 33. a köznevelés információs rendszerből,
@@ -592,7 +590,7 @@ külön rendelkezések
 - c) külföldi természetes személy vagy külföldi nem természetes személy esetén az a) és b) pontban foglalt adatok mellett a magyar adóazonosító számát és az illetékessége szerinti állam hatósága által megállapított adóazonosító számát,
 - d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét) is a pénzügyi következményekkel járó intézkedésben részt vevő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező természetes személy vagy nem természetes személy esetében.
 
-(3a) Az ügyfélnek elektronikus úton történő támogatási kérelem benyújtása esetén a kérelem benyújtásakor kérelemre nyilvántartásba vett ügyfélnek kell lennie.
+(3a) Az ügyfélnek elektronikus úton történő kérelem benyújtása esetén a kérelem benyújtásakor kérelemre nyilvántartásba vett ügyfélnek kell lennie.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél-nyilvántartás vezetése keretében
 
@@ -630,7 +628,7 @@ külön rendelkezések
 
 (1a) A meghatalmazás általános jelleggel vagy egyes intézkedésekre szólhat. A meghatalmazás kiterjed az eljárással kapcsolatos minden nyilatkozatra és cselekményre, ideértve a biztosítási intézkedést és a végrehajtási eljárást.
 
-(1b) Az eseti meghatalmazást nem kell nyomtatványon bejelenteni, de legalább teljes bizonyító erejű, a polgári perrendtartásról szóló törvény szerinti magánokiratba kell foglalni, és annak eredeti példányát az adott eljárási cselekménnyel egyidejűleg kell a mezőgazdasági és vidékfejlesztési támogatási szerv részére benyújtani.
+(1b) Az eseti meghatalmazást nem kell nyomtatványon bejelenteni, de legalább teljes bizonyító erejű, a polgári perrendtartásról szóló törvény szerinti magánokiratba kell foglalni, és az adott eljárási cselekménnyel egyidejűleg kell a mezőgazdasági és vidékfejlesztési támogatási szerv részére benyújtani.
 
 (2) Az ügyfél a meghatalmazás visszavonását, felmondását a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon haladéktalanul köteles bejelenteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. A képviseleti jog megszűnését a meghatalmazott is bejelentheti.
 
@@ -695,6 +693,8 @@ eljárhat.
 
 31. § (1) Jogszabály eltérő rendelkezése hiányában az e törvény hatálya alá tartozó intézkedések országos földterület-azonosítási rendszere a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR). A MePAR közhiteles hatósági nyilvántartásnak minősül. A MePAR adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot – ideértve a tárolt adatok karbantartását is – az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
 
+(1a) A MePAR működtetése, programszerű megújítása, valamint a távérzékeléses ellenőrzéssel kapcsolatos feladatok ellátása közfeladatnak minősül és azt a Nemzeti Földügyi Központ végzi.
+
 (2) A MePAR blokkhatár fedvényhez és annak részeként a blokkazonosítóhoz, a Natura 2000 Területek, Nitrátérzékeny Területek, Magas Természeti Értékű Területek és Érzékeny Természeti Területek tematikus fedvényekhez, továbbá a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet
 
 - a) a vízgazdálkodásról szóló törvényben meghatározott VIZEK rendszer kormányrendeletben kijelölt üzemeltetője a VIZEK rendszer üzemeltetési feladataival összefüggő feladatai ellátása és a VIZEK rendszerben való vagyonkezelői hozzájárulások biztosítása érdekében,
@@ -714,6 +714,8 @@ eljárhat.
 - b) a területfejlesztési és területrendezési feladatainak ellátása érdekében a Mezőgazdasági Parcella Azonosító Rendszernek a területfejlesztési és területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, valamint a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz
 
 térítésmentesen hozzáférhet.
+
+(8) A MePAR kapcsán történő változásvezetésre irányuló bejelentés esetében a döntésre vonatkozó 55. és 55/A. §-t nem kell alkalmazni, és a bejegyzés a MePAR szerinti nyilvántartásban történő átvezetés napjától számítva hatályos.
 
 ### Intervenciós raktárregiszter
 
@@ -796,7 +798,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (2) Az iratokat az előzetes értesítés alapján lefolytatott helyszíni ellenőrzés kezdő időpontjára, egyéb esetben az erre vonatkozó felhívást követő munkanap kezdetén a mezőgazdasági és vidékfejlesztési támogatási szerv rendelkezésére kell bocsátani.
 
-(3) Az iratokat az ügyfélnek a nyilvántartás módjától függetlenül – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a támogatás esedékessége naptári évének utolsó napjától számított tíz évig kell megőriznie.
+(3) Az iratokat az ügyfélnek a nyilvántartás módjától függetlenül – közvetlenül alkalmazandó közösségi jogi aktus eltérő rendelkezése hiányában – a támogatási döntés véglegessé válása naptári évének utolsó napjától számított legalább tíz évig kell megőriznie.
 
 (4) Az irat megőrzésére kötelezett jogi személynek, illetve egyéb szervezetnek minősülő ügyfél megszűnése esetén az iratokat a (3) bekezdésben foglalt időpontig köteles megőrizni:
 
@@ -832,7 +834,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (2) A (3) bekezdésben foglalt esetek kivételével a kérelmet elektronikus úton kell benyújtani.
 
-(3) Ha az e törvény végrehajtására kiadott rendelet vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a mezőgazdasági és vidékfejlesztési támogatási szerv irányába kérelmet benyújtani és adatszolgáltatási kötelezettséget teljesíteni személyesen, telefax útján vagy postai úton is lehet a rendeletben vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-azonosító megállapítása iránti kérelem és az ügyfélnyilvántartási adatok módosítása iránti kérelem személyesen, postai úton és a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített elektronikus nyomtatványon, elektronikus úton is benyújtható.
+(3) Ha az e törvény végrehajtására kiadott rendelet vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a mezőgazdasági és vidékfejlesztési támogatási szerv irányába kérelmet benyújtani és adatszolgáltatási kötelezettséget teljesíteni személyesen, telefax útján vagy postai úton is lehet a rendeletben vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-nyilvántartási rendszerbe történő nyilvántartásba vétel iránti kérelem és az ügyfélnyilvántartási adatok módosítása iránti kérelem személyesen, postai úton és a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített elektronikus nyomtatványon, elektronikus úton is benyújtható.
 
 (4) Jogszabály eltérő rendelkezése hiányában vagy a miniszternek az általa vezetett minisztérium honlapján közzétett közleményében meghatározott, a kérelem benyújtására megállapított határidőt megtartottnak kell tekinteni, ha a kérelem a határidő leteltét követően érkezett meg, de a kérelmet legkésőbb a határidő utolsó napján postára adták, illetve az elektronikus úton benyújtásra kerülő kérelmek esetében az automatikus értesítés legkésőbb a határidő utolsó napjának dátumával történő beérkezést igazolja.
 
@@ -1037,7 +1039,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 (7) A (4) bekezdés alkalmazásában jogszerű földhasználónak minősül a következő sorrend szerint az az ügyfél, aki vagy amely – amennyiben az egyes támogatási jogcímekre vonatkozó jogszabályok másként nem rendelkeznek e dátumról – a kérelem benyújtására nyitva álló határidő utolsó napjára vonatkozóan, az általa igényelt terület vonatkozásában
 
 - a) a földhasználati nyilvántartásba földhasználóként bejegyzett,
-- b) a családi gazdaságokról vezetett nyilvántartásba családi gazdálkodóként bejegyzett vagy családi gazdaság alapításáról szóló megállapodással rendelkezik és abban családi gazdálkodóként szerepel,
+- b) a mezőgazdasági őstermelők családi gazdaságáról vezetett nyilvántartásban őstermelők családi gazdaságának tagjaként bejegyzett vagy az őstermelők családi gazdaságának alapításáról szóló szerződésben tagként szerepel,
 - c) haszonbérleti, felesbérleti, részesművelési, szívességi földhasználati, rekreációs célú földhasználati vagy alhaszonbérleti szerződés, továbbá – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 70. §-a vagy 76. §-a szerinti – használatmegosztásról szóló vagy többlethasználati megállapodás, a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 18. § (5) bekezdése szerinti megbízási szerződés (ideértve nemzeti park igazgatóság által kötött szerződést is), a Nemzeti Földalap kezeléséért felelős szervvel kötött mintagazdasági földhasználati szerződés alapján jogosult, valamint az, akit a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 65. §-a szerint a föld kényszerhasznosítójaként jelöltek ki, a bíróság ideiglenes intézkedése alapján földhasználó, továbbá honvédelmi rendeltetésű terület, vagy honvédelmi célra feleslegessé nyilvánított terület esetében annak használatára szerződés alapján jogosult,
 - d) az ingatlan-nyilvántartásba vagyonkezelőként, haszonélvezőként vagy a Ptk. 5:159. §-a szerinti használat jogának jogosultjaként bejegyzett, valamint a vagyonkezelőként bejegyzett költségvetési szerv költségvetési szervnek minősülő jogutódja,
 - e) az ingatlan-nyilvántartásba tulajdonosként vagy szövetkezeti földhasználat jogosultjaként bejegyzett,
@@ -1060,7 +1062,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (4) Az intézkedésben való részvételre jogosult ügyfél halála esetén a mezőgazdasági és vidékfejlesztési támogatási szerv a hagyatékátadó végzésben vagy öröklési bizonyítványban meghatározottak szerint dönt az egyes intézkedésekhez kapcsolódó vagyoni értékű támogatási jogosultságokról. Amennyiben a vagyoni értékű támogatási jogosultságot nem tartalmazza a hagyatékátadó végzés, úgy a mezőgazdasági és vidékfejlesztési támogatási szerv az örökösök együttes teljes bizonyító erejű magánokiratba foglalt nyilatkozata alapján hoz döntést.
 
-(5) A jogutód, illetve a haszonélvezeti jog jogosultja a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló követelését az örökhagyó halálát, illetve a jogelőd megszűnését követő három éven belül érvényesítheti az intézkedés jellegének megfelelő tartalmú okirattal igazolva, hogy jogosult a támogatás összegére, illetve a vagyoni értékű támogatási jogosultság igénybevételére. Amennyiben a hagyatékátadó végzésben nem szerepel a folyamatban lévő eljárás, úgy az örökösöket nyilatkozattételre kell felszólítani, hogy belépnek-e az eljárásba. Az örökhagyó halálát, illetve jogelőd megszűnését követő három éven belül léphet a folyamatban lévő eljárásba a jogutód.
+(5) A jogutód, illetve a haszonélvezeti jog jogosultja a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló követelését az örökhagyó halálát, illetve a jogelőd megszűnését követő három éven belül érvényesítheti az intézkedés jellegének megfelelő tartalmú okirattal igazolva, valamint az e törvényben meghatározott egyéb kötelezettség teljesítésével, hogy jogosult a támogatás összegére, illetve a vagyoni értékű támogatási jogosultság igénybevételére. Amennyiben a hagyatékátadó végzésben nem szerepel a folyamatban lévő eljárás, úgy az örökösöket nyilatkozattételre kell felszólítani, hogy belépnek-e az eljárásba. A jogutód a nyilatkozattételre felszólító végzésben meghatározott határidőn belül, de legkésőbb az örökhagyó halálát, illetve jogelőd megszűnését követő három éven belül léphet a folyamatban lévő eljárásba.
 
 (6) Az EMVA-ból és az EHA-ból finanszírozott intézkedések esetén, jogszabály eltérő rendelkezése hiányában, a természetes személyek közötti eljárásbeli jogutódlás a támogatási döntés véglegessé válása előtt nem lehetséges.
 
@@ -1252,7 +1254,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 ### A döntés közlése
 
-55/A. § A döntést az ügyféllel, illetve a képviselővel írásban kell közölni.
+55/A. § (1) A döntést az ügyféllel, illetve a képviselővel írásban, kötelező elektronikus kérelembenyújtás esetén – amennyiben jogszabály másként nem rendelkezik – elektronikus úton kell közölni.
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a döntést írásbeli kapcsolattartás esetén hivatalos iratként vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus úton kézbesíti.
 

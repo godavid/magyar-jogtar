@@ -63,7 +63,7 @@ esetében, ha a szolgáltatás után a fenntartó a központi költségvetésrő
 
 (2) A 4. § (2) és (3) bekezdésében meghatározott tájékoztatási kötelezettség az (1) bekezdés szerinti díjat alkalmazó víziközmű-szolgáltatót vagy közvetített víziközmű-szolgáltatást nyújtó szervezetet egyaránt terheli.
 
-5. § Az egyetemes szolgáltató, a távhőszolgáltató, a víziközmű-szolgáltató, valamint a hulladékgazdálkodási közszolgáltató (a továbbiakban: szolgáltató) – a törvény hatálybalépése után, első alkalommal 30 napon belül, ezt követően – a tárgyhónapot követő hónap 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az e törvényben foglalt előírások teljesülését.
+5. § Az egyetemes szolgáltató, a távhőszolgáltató, a víziközmű-szolgáltató, valamint a hulladékgazdálkodási közszolgáltató (a továbbiakban: szolgáltató) a tárgyévet követő év január 15. napjáig köteles írásban igazolni a fogyasztóvédelmi hatóságnak az e törvényben foglalt előírások teljesülését.
 
 6. § Az 5. §-ban meghatározott kötelezettség a víziközmű-szolgáltatót, a hulladékgazdálkodási közszolgáltatót, valamint – a közvetítésével nyújtott és az általa kiszámlázott ivóvíz-szolgáltatás esetében – a távhőszolgáltatót, a 2013. július 1-jét követő időszakban teljesített szolgáltatás vonatkozásában terheli.
 
