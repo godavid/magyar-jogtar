@@ -343,7 +343,7 @@ pénzbírságot vagy helyszíni bírságot kell kiszabni.
 - h) a büntethetőséget kizáró vagy korlátozó okokra,
 - i) a magánindítványra,
 - j) a folytatólagosság fogalmára, valamint
-- k) a Büntető Törvénykönyvről szóló törvény (a továbbiakban: Btk.) 370. § szerinti Lopás, Btk. 371. § szerinti Rongálás, Btk. 372. § szerinti Sikkasztás, Btk. 373. § szerinti Csalás, Btk. 376. § szerinti Hűtlen kezelés, Btk. 378. § szerinti Jogtalan elsajátítás és a Btk. 379. § szerinti Orgazdaság tényállásoknak megfelelő szabálysértési tényállásokra
+- k) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 370. § szerinti lopás, a Btk. 371. § szerinti rongálás, a Btk. 372. § szerinti sikkasztás, a Btk. 373. § szerinti csalás, a Btk. 376. § szerinti hűtlen kezelés és a Btk. 378. § szerinti jogtalan elsajátítás tényállásoknak megfelelő szabálysértési tényállásokra
 
 a Btk. által – az a)–d) és h)–j) pont esetén az általános részben, az e)–g) pont esetén a záró részben, valamint a k) pont esetén a különös részi tényállásokban – meghatározottakat a szabálysértések tekintetében is alkalmazni kell.
 
@@ -2788,6 +2788,8 @@ kell közölni.
 
 166. § (1) Aki másnak a lakásába, egyéb helyiségébe, vagy ezekhez tartozó bekerített helyre az ott lakónak vagy azzal rendelkezőnek akarata ellenére, vagy megtévesztéssel bemegy, vagy ott bennmarad, úgyszintén aki mást akadályoz abban, hogy a lakásába, egyéb helyiségébe vagy ezekhez tartozó bekerített helyre bemenjen, szabálysértést követ el.
 
+(1a) Aki pilóta nélküli légijármű jogosulatlan használata során más lakásáról, egyéb helyiségéről, vagy ezekhez tartozó bekerített helyről jogosulatlanul hang- vagy képfelvételt készít, szabálysértést követ el.
+
 (2) Magánlaksértés miatt szabálysértési eljárásnak csak magánindítványra van helye.
 
 #### 122. Önkényes beköltözés
@@ -2814,7 +2816,7 @@ szabálysértést követ el.
 
 (2) Aki nyilvános rendezvényen
 
-- a) lőfegyvert vagy robbanóanyagot, illetve az élet kioltására vagy testi sértés okozására alkalmas eszközt tartva magánál jelenik meg,
+- a) működőképes lőfegyvert vagy robbanóanyagot, illetve az élet kioltására vagy testi sértés okozására alkalmas eszközt tartva magánál jelenik meg,
 - b) a rendező szerv, illetve a rendőrség biztonságra vonatkozó felhívásának, rendelkezésének nem tesz eleget,
 
 szabálysértést követ el.
@@ -2873,11 +2875,13 @@ szabálysértést követ el.
 
 177. § (1) Aki
 
-- a) ötvenezer forintot meg nem haladó értékre lopást, sikkasztást, jogtalan elsajátítást, orgazdaságot,
+- a) ötvenezer forintot meg nem haladó értékre lopást, sikkasztást, jogtalan elsajátítást,
 - b) ötvenezer forintot meg nem haladó kárt okozva csalást, szándékos rongálást,
 - c) ötvenezer forintot meg nem haladó vagyoni hátrányt okozva hűtlen kezelést
 
 követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabálysértést követ el.
+
+(1a) Aki lopásból, sikkasztásból, csalásból, hűtlen kezelésből, rablásból, kifosztásból, zsarolásból vagy jogtalan elsajátításból származó dolgot vagyoni haszonszerzés végett ötvenezer forintot meg nem haladó értékben megszerez, elrejt vagy elidegenítésében közreműködik, szabálysértést követ el.
 
 (2) Aki idegen, nem gépi meghajtású járművet mástól azért vesz el, hogy jogtalanul használja, szabálysértést követ el.
 
@@ -2889,7 +2893,7 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 (5) Az (1) és (2) bekezdésben meghatározott szabálysértés miatt szabálysértési eljárásnak csak magánindítványra van helye, ha a sértett az elkövető hozzátartozója.
 
-(6) Az elkövetési érték, kár, illetve okozott vagyoni hátrány összegének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdés a)–c) pontjában meghatározott ugyanolyan cselekményt több alkalommal, legfeljebb egy éven belül követte el és ezeket együttesen bírálják el. Nincs helye érték-egybefoglalásnak, ha az üzletszerű elkövetés megállapítható.
+(6) Az elkövetési érték, kár, illetve okozott vagyoni hátrány összegének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdés a)–c) pontjában, valamint az (1a) bekezdésben meghatározott ugyanolyan cselekményt több alkalommal, legfeljebb egy éven belül követte el, és ezeket együttesen bírálják el. Nincs helye érték-egybefoglalásnak, ha az üzletszerű elkövetés megállapítható.
 
 #### 132/A. Közérdekű üzem működésének megzavarása
 
@@ -3009,8 +3013,10 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 183. § (1) Aki
 
-- a) a lőfegyver vagy lőszer gyártására, tartására, kereskedelmére, javítására vagy használatára és szállítására vonatkozó szabályokat megszegi,
-- b) lőfegyverdarabot vagy lőszerelemet engedély nélkül készít, megszerez, tart vagy forgalomba hoz, szabálysértést követ el.
+- a) a tűzfegyver kategóriájának, illetve alkategóriájának a megváltozását eredményező átalakításra, a lőfegyver bejelentésére, a lőfegyver vagy a lőszer gyártására, tartására, kereskedelmére, javítására, használatára vagy szállítására, illetve a lőfegyver, lőfegyverdarab megsemmisítésére vonatkozó szabályokat megszegi,
+- b) lőfegyverdarabot vagy lőszerelemet engedély nélkül készít, megszerez, tart vagy forgalomba hoz, illetve központi gyújtású félautomata tűzfegyverhez való, 20 lőszert meghaladó befogadóképességű töltőszerkezetet vagy hosszú tűzfegyverhez való, 10 lőszert meghaladó befogadóképességű töltőszerkezetet engedély nélkül megszerez,
+
+szabálysértést követ el.
 
 (1a) Aki
 
@@ -3021,7 +3027,7 @@ szabálysértést követ el.
 
 (2) Aki
 
-- a) a légfegyver, a gáz- és riasztófegyver, a muzeális fegyver, a színházi fegyver, a festéklövő fegyver, illetve a hatástalanított lőfegyver, a flóberttöltény, a gáztöltény, a riasztótöltény, illetve a vaktöltény gyártására, forgalmazására, javítására, megszerzésére, birtoklására, viselésére, tartására vagy használatára vonatkozó szabályokat megszegi,
+- a) a légfegyver, a gáz- és riasztófegyver, a muzeális fegyver, a festéklövő fegyver, a hatástalanított lőfegyver, a flóberttöltény, a gáztöltény, a riasztótöltény, illetve a vaktöltény gyártására, forgalmazására, javítására, megszerzésére, birtoklására, viselésére, tartására vagy használatára, illetve a hatástalanított tűzfegyver behozatalára vagy kivitelére vonatkozó szabályokat megszegi,
 - b) a lőtér üzemeltetésére vonatkozó rendelkezéseket megszegi,
 
 szabálysértést követ el.
@@ -3251,7 +3257,7 @@ szabálysértést követ el.
 
 199/B. § (1) Aki csekély mennyiséget meg nem haladó új pszichoaktív anyagot megszerez vagy tart, szabálysértést követ el.
 
-(2) E § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a 2 gramm mennyiséget nem haladja meg. A só formában előforduló vegyületek esetén tiszta hatóanyag-tartalom alatt a bázis formában megadott hatóanyag-tartalmat kell érteni.
+(2) E § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a Btk.-ban meghatározott, az adott vegyületcsoportra vagy anyagra irányadó csekély mennyiséget nem haladja meg. Só formában előforduló vegyületek esetén tiszta hatóanyag-tartalom alatt a bázis formában megadott hatóanyag-tartalmat kell érteni.
 
 (3)
 
@@ -3393,7 +3399,7 @@ szabálysértést követ el.
 
 #### 163. Vámszabálysértés
 
-209. § (1) Aki nem uniós árut a vámellenőrzés alól elvon, vagy a vámtartozás, az egyéb terhek, illetve a biztosíték megállapítása vagy beszedése szempontjából lényeges körülmények tekintetében valótlan nyilatkozatot tesz, feltéve, hogy a vagyoni hátrány a százezer forintot nem haladja meg, úgyszintén, aki e cselekmények bármelyikét megkísérli, szabálysértést követ el.
+209. § (1) Aki nem uniós árut a vámellenőrzés alól elvon, vagy a vámtartozás, az egyéb terhek, illetve a biztosíték megállapítása vagy beszedése szempontjából lényeges körülmények tekintetében valótlan nyilatkozatot tesz, feltéve, hogy a vagyoni hátrány az ötszázezer forintot nem haladja meg, úgyszintén, aki e cselekmények bármelyikét megkísérli, szabálysértést követ el.
 
 (2) Aki az (1) bekezdésben meghatározott cselekményt a vagyoni hátrány mértékére tekintet nélkül gondatlanul követi el, szabálysértést követ el.
 
@@ -3476,7 +3482,7 @@ szerinti utánzat, illetve euro-érmékhez hasonló érem és zseton.
 - d) szabálysértés, vagy
 - e) közigazgatási hatósági eljárás hatálya alá tartozó szabályszegés
 
-helyszínén a rendőr vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának helyszín biztosítására vonatkozó jogszerű intézkedésének, illetve a helyszín elhagyására vagy az ott tartózkodásra vonatkozó jogszerű utasításának nem tesz eleget, szabálysértést követ el.
+helyszínén a rendőr vagy a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottjának helyszín biztosítására vonatkozó jogszerű intézkedésének, illetve a helyszín elhagyására vagy az ott tartózkodásra vonatkozó jogszerű utasításának nem tesz eleget, szabálysértést követ el.
 
 (2) Aki a Rendőrségről szóló törvényben meghatározott személyvédelmi és létesítménybiztosítási intézkedés helyszínén a helyszín elhagyására vagy az ott tartózkodásra vonatkozó jogszerű rendőri utasításának nem tesz eleget, szabálysértést követ el.
 
@@ -3607,9 +3613,11 @@ ha ezzel a légi közlekedés biztonságát nem veszélyezteti, szabálysértés
 
 (4) Az (1)–(3) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
 
-#### 183.
+#### 183. Pilóta nélküli légijárművel végzett jogosulatlan tevékenység
 
-#### 229. §
+229. § (1) Aki lakott terület felett pilóta nélküli légijárművet jogosulatlanul használ, szabálysértést követ el.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője is szabhat ki helyszíni bírságot.
 
 #### 184. Szmogriadó szabályainak mozgó légszennyező forrásokkal való megsértése
 
@@ -3907,7 +3915,7 @@ részletes szabályait rendeletben szabályozza.
 
 (5) A (4) bekezdésben meghatározott cselekmény miatt 2012. április 15. napján folyamatban lévő büntetőeljárás megszüntetésével egyidejűleg az ügyet a szabálysértési eljárás lefolytatása céljából az előkészítő eljárást lefolytató szervhez vagy – ha a cselekmény miatt szabálysértési elzárás büntetés nem szabható ki – a szabálysértési hatósághoz kell áttenni. Ilyen esetben az előkészítő eljárást lefolytató szerv, illetve a szabálysértési hatóság, valamint a bíróság felhasználhatja mindazokat a bizonyítékokat, amelyeket a nyomozó hatóság, az ügyészség vagy a büntető ügyben eljárt bíróság a büntetőeljárás során szerzett be.
 
-(5a) E törvény szerint – a 2. § (5) bekezdése figyelmen kívül hagyásával – szabálysértésként kell elbírálni azokat a 2013. július 1-je előtt elkövetett cselekményeket, amelyek a Büntető Törvénykönyvről szóló 2012. évi C. törvény alapján 2013. július 1-jét követően már nem bűncselekménynek, hanem szabálysértésnek minősülnek, az ezek miatt folytatott büntetőeljárás megszüntetésével egyidejűleg az ügyet a szabálysértési eljárás lefolytatása céljából az előkészítő eljárást lefolytató szervhez vagy a szabálysértési hatósághoz áttették, és a szabálysértési eljárás megszüntetésére 2014. január 1-je előtt nem került sor.
+(5a) E törvény szerint – a 2. § (5) bekezdése figyelmen kívül hagyásával – szabálysértésként kell elbírálni azokat a 2013. július 1-je előtt elkövetett cselekményeket, amelyek a Btk. alapján 2013. július 1-jét követően már nem bűncselekménynek, hanem szabálysértésnek minősülnek, az ezek miatt folytatott büntetőeljárás megszüntetésével egyidejűleg az ügyet a szabálysértési eljárás lefolytatása céljából az előkészítő eljárást lefolytató szervhez vagy a szabálysértési hatósághoz áttették, és a szabálysértési eljárás megszüntetésére 2014. január 1-je előtt nem került sor.
 
 (6) A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 65. §-ával megállapított a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 99. § (3a) bekezdés, 99/A. §, 141. § (13) bekezdés, valamint 153. § (4) bekezdés rendelkezéseit a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény hatálybalépése előtt kiszabott helyszíni bírságok vonatkozásában is alkalmazni kell.
 

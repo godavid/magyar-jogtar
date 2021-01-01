@@ -1487,7 +1487,9 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (4) E cím szerinti eljárásban a fogalmazó vagy a bírósági ügyintéző önállóan jár el.
 
-#### 92–93. §
+#### 92. §
+
+#### 93. §
 
 ### VIII. Fejezet — A VÉGELSZÁMOLÁS
 
@@ -2050,7 +2052,7 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 (2) Az e § szerinti adatigénylésre automatikusan, az erre a célra létrehozott elektronikus rendszer útján kerül sor. Az informatikai rendszer – a természetes személy cégjegyzékből való törlésének időpontjáig – tárolja a természetes személyek nyilvántartása által szolgáltatott, a cégjegyzék adattartalmát meghaladó természetes személyazonosító adatokat és a kapcsolati kódot.
 
-131/L. § A jogi képviselő 2021. január 1-jétől a cégbejegyzésre (változásbejegyzésre) irányuló kérelmet és minden egyéb beadványt az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon, a Pp. rendelkezéseinek megfelelő alkalmazásával is benyújthatja. E határidőig a cégbejegyzési (változásbejegyzési) eljárás során kizárólag a IV. Fejezet 2. cím szerinti elektronikus kapcsolattartás szabályai alkalmazhatóak.
+131/L. § A jogi képviselő 2023. január 1-jétől a cégbejegyzésre (változásbejegyzésre) irányuló kérelmet és minden egyéb beadványt az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon, a Pp. rendelkezéseinek megfelelő alkalmazásával is benyújthatja. E határidőig a cégbejegyzési (változásbejegyzési) eljárás során kizárólag a IV. Fejezet 2. cím szerinti elektronikus kapcsolattartás szabályai alkalmazhatóak.
 
 131/M. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel megállapított 1. számú melléklet III. 4. pontját a folyamatban lévő eljárásokban akkor kell alkalmazni, ha az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 35/A. § alapján az átalakulásról, egyesülésről, szétválásról a cég döntéshozó szerve első ízben 2019. október 1-je után döntött.
 
@@ -2078,7 +2080,9 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 - e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet;
 - f) a Bizottság 2015/884 végrehajtási rendelete (2015. június 8.) a nyilvántartások összekapcsolására szolgáló 2009/101/EK európai parlamenti és tanácsi irányelvvel létrehozott rendszer céljából szükséges műszaki leírások és eljárások megállapításáról.
 
-#### 133–134. §
+#### 133. §
+
+#### 134. §
 
 135. § (1)
 
@@ -2524,7 +2528,13 @@ e) a végelszámolásnak a cég megszűnése nélküli befejezésekor a legfőbb
 
 ### 3. számú melléklet a 2006. évi V. törvényhez
 
-### 4–7. számú melléklet a 2006. évi V. törvényhez
+### 4. számú melléklet a 2006. évi V. törvényhez
+
+### 5. számú melléklet a 2006. évi V. törvényhez
+
+### 6. számú melléklet a 2006. évi V. törvényhez
+
+### 7. számú melléklet a 2006. évi V. törvényhez
 
 ### 8. számú melléklet a 2006. évi V. törvényhez
 

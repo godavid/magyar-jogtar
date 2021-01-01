@@ -27,7 +27,7 @@ után.
 3. § E törvény rendelkezéseit
 
 - a) az egyszerűsített vállalkozói adóról szóló törvény (a továbbiakban: Eva.) hatálya alá tartozó személyekre, szervezetekre, valamint
-- b) a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) hatálya alá tartozó, zárjeggyel ellátott dohánygyártmányokra
+- b) a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) hatálya alá tartozó dohánygyártmányokra
 
 abban az esetben kell alkalmazni, ha arról az a) pontban említett esetben az Eva., a b) pontban említett esetben pedig a Jöt. kifejezetten rendelkezik.
 
@@ -607,7 +607,9 @@ napot meg nem haladó használatát jelenti.
 
 (5)
 
-47–48. §
+47. §
+
+48. §
 
 49. § A 37. és 44. §-tól eltérően közlekedési eszközök – ideértve a vasúti kocsikat is – bérbeadása esetében a teljesítés helye
 
@@ -871,13 +873,13 @@ megállapodásban előre rögzített, vagy az annak alapján számított árenge
 (7) Különös tekintettel a rendeltetésszerű joggyakorlás elvére, az adó alapja utólag csökkenthető a behajthatatlan követelésként elszámolt ellenérték egészének vagy részének adót nem tartalmazó összegével a következő feltételek együttes teljesülése esetén:
 
 - a) az adóalany és a termék beszerzője, szolgáltatás igénybevevője független felek,
-- b) az adóalany a termék beszerzőjét, szolgáltatás igénybevevőjét a (8) bekezdésben meghatározottak szerint előzetesen írásban értesíti, kivéve, ha a termék beszerzője, szolgáltatás igénybevevője jogutód nélkül megszűnt,
+- b) az adóalany a termék adóalany beszerzőjét, szolgáltatás adóalany igénybevevőjét a (8) bekezdésben meghatározottak szerint előzetesen írásban értesíti, kivéve, ha a termék beszerzője, szolgáltatás igénybevevője jogutód nélkül megszűnt,
 - c) az adóalany nem áll csőd-, felszámolási, vagy kényszertörlési eljárás hatálya alatt a behajthatatlan követeléssel érintett bevallás benyújtásának időpontjában,
 - d) a termék beszerzője, szolgáltatás igénybevevője nem áll csőd-, felszámolási, vagy kényszertörlési eljárás hatálya alatt a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában,
 - e) a termék beszerzője, szolgáltatás igénybevevője nem szerepel a nagy összegű adóhiánnyal vagy a nagy összegű adótartozással rendelkezők adóhatóság holnapjáról lekérdezhető adatbázisában a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában és az azt megelőző egy évben,
 - f) a termék beszerzőjének, szolgáltatás igénybevevőjének adószáma a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában nincs törölve,
 - g) az állami adó- és vámhatóság a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjáig nem adott tájékoztatást az adóalany részére a terméket beszerző, szolgáltatást igénybevevő adókötelezettsége teljesítésének megkerüléséről,
-- h) a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás ellenértéke megtérítésének esedékessége óta legalább egy év eltelt, és
+- h) a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás ellenértéke megtérítésének esedékessége óta legalább egy év eltelt, kivéve, ha a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítésre, szolgáltatásnyújtásra vonatkozó polgári jogi igényekre alkalmazandó elévülési idő nem haladja meg az egy évet,
 - i) a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás ellenértéke más módon nem térült vagy térül meg.
 
 (8) Az előzetes írásbeli értesítésnek legalább a következő adatokat kell tartalmaznia:
@@ -887,9 +889,11 @@ megállapodásban előre rögzített, vagy az annak alapján számított árenge
 - c) a behajthatatlan követelés összege (ellenérték vagy részellenérték, valamint az arra jutó adó összege szerinti bontásban), és
 - d) nyilatkozat arról, hogy a c) pont szerint megjelölt ellenérték adót nem tartalmazó összegével az adóalany az adó alapját utólag csökkenti.
 
-(9) Az adóalany köteles a bevallással egyidejűleg az erre a célra rendszeresített nyomtatványon az adóhatóság részére nyilatkozni a behajthatatlan követelésként történő elszámolás okáról, azon számla sorszámáról, amely az adóalap-csökkentéssel érintett termékértékesítést, szolgáltatásnyújtást tartalmazza, az adóalap-csökkentés összegéről, a termékbeszerző, szolgáltatás igénybevevő nevéről, adószámáról, valamint a (7) bekezdés i) pontjában foglalt feltétel teljesüléséről.
+(9) Az adóalany köteles a bevallással egyidejűleg az erre a célra rendszeresített nyomtatványon az adóhatóság részére nyilatkozni a behajthatatlan követelésként történő elszámolás okáról, azon számla sorszámáról, amely az adóalap-csökkentéssel érintett termékértékesítést, szolgáltatásnyújtást tartalmazza, az adóalap-csökkentés összegéről, az adóalany termékbeszerző, szolgáltatás igénybevevő nevéről és adószámáról, valamint a (7) bekezdés i) pontjában foglalt feltétel teljesüléséről.
 
-(10) Amennyiben az adóalap (7) bekezdés szerinti csökkentését követően a termék értékesítője, szolgáltatás nyújtója részére a behajthatatlan követelésként elszámolt ellenérték egészét vagy annak egy részét megtérítik, a megtérített ellenérték vagy részellenérték adóval csökkentett összegének erejéig az adóalap utólagos csökkentése nem alkalmazható. Az adóalany köteles a bevallással egyidejűleg az erre a célra rendszeresített nyomtatványon az adóhatóság részére nyilatkozni a megtérített ellenérték vagy részellenérték adóval csökkentett összegéről és a termékbeszerző, szolgáltatás igénybevevő nevéről, adószámáról.
+(10) Amennyiben az adóalap (7) bekezdés szerinti csökkentését követően a termék értékesítője, szolgáltatás nyújtója részére a behajthatatlan követelésként elszámolt ellenérték egészét vagy annak egy részét megtérítik, a megtérített ellenérték vagy részellenérték adóval csökkentett összegének erejéig az adóalap utólagos csökkentése nem alkalmazható. Az adóalany köteles a bevallással egyidejűleg az erre a célra rendszeresített nyomtatványon az adóhatóság részére nyilatkozni a megtérített ellenérték vagy részellenérték adóval csökkentett összegéről, valamint az adóalany termékbeszerző, szolgáltatás igénybevevő nevéről és adószámáról.
+
+(11) Amennyiben a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés beszerzője, szolgáltatásnyújtás igénybevevője nem minősül adóalanynak, az adóalap csökkentése során a (7) és (9)–(10) bekezdést, ha e törvény másképpen nem rendelkezik, megfelelően alkalmazni kell.
 
 78. § (1) A 77. § (1)–(3) bekezdése alkalmazásának feltétele, hogy a kötelezett az ügylet teljesítését tanúsító számla
 
@@ -1121,7 +1125,7 @@ nem minősül közszolgáltatónak.
 
 - a) az értékesítést megelőzően a terméket kizárólag a 85. § (1) bekezdése vagy a 86. § (1) bekezdése szerint adómentes termékértékesítéshez és szolgáltatásnyújtáshoz használták, egyéb módon hasznosították, és a termékhez adólevonási jog nem kapcsolódott;
 - b) az értékesítést megelőzően a termékhez kapcsolódó előzetesen felszámított adó a 124. és 125. § szerint nem vonható le;
-- c) az értékesítést megelőzően a termékhez előzetesen felszámított adó kapcsolódott volna, az a 124. § (1) bekezdés d) pontja szerint nem lenne levonható.
+- c) az értékesítést megelőzően a termékhez előzetesen felszámított adó kapcsolódott volna, az a 124. § (1) bekezdés d) pontja szerint – a 125. § (1) bekezdés a) pontban foglaltakra is figyelemmel – nem lenne levonható.
 
 ### Adókötelessé tétel
 
@@ -1500,7 +1504,7 @@ adókötelessé teszi.
 - a) a 98–109. §-ok bármelyike szerint mentes az adó alól;
 - b) teljesítési helye a Közösség területén kívül van.
 
-(2) Az (1) bekezdés nem alkalmazható az utas [206. § (1) bekezdésének c) pontja] nevében és javára eljáró közvetítő közvetítői szolgáltatásának nyújtására abban az esetben, ha olyan szolgáltatást közvetít, amely a Közösség valamely más tagállamában teljesül.
+(2) Az (1) bekezdés nem alkalmazható az utas nevében és javára eljáró közvetítő közvetítői szolgáltatásának nyújtására abban az esetben, ha olyan szolgáltatást közvetít, amely a Közösség valamely más tagállamában teljesül.
 
 ### Adó alóli mentesség a termék nemzetközi forgalmához kapcsolódó egyes tevékenységek esetében
 
@@ -2591,12 +2595,10 @@ tünteti fel.
 
 - a) utazásszervezési szolgáltatás: adóalany által – saját nevében – utasnak nyújtott olyan, jellegadó tartalma alapján egészben vagy meghatározó részben turisztikai szolgáltatás, amelynek teljesítéséhez saját nevében, de az utas javára megrendelten, más adóalany vagy adóalanyok (e fejezet alkalmazásában a továbbiakban együtt: más adóalany) által teljesített szolgáltatásnyújtás, termékértékesítés (így különösen: személyszállítás, szálláshely-szolgáltatás, ellátás és idegenvezetés) szükséges;
 - b) utazásszervező: az utazásszervezési szolgáltatást nyújtó adóalany;
-- c) utas: az utazásszervezőnek tett nyilatkozata alapján az az ügyfél, aki (amely) a szolgáltatást
-  - ca) nem adóalanyként vagy nem adóalanyi minőségében, illetőleg
-  - cb) egyéb, a ca) alpont alá nem tartozó esetekben pedig a saját nevében és javára veszi igénybe;
+- c)
 - d)
 
-(2) Az utazásszervező köteles ügyfelét a teljesítést megelőzően nyilatkozattételre felhívni, és annak keretében nyilatkoztatni arról, hogy a szolgáltatást utasként vagy nem utasként kívánja igénybe venni.
+(2)
 
 (3) Az egyéb feltételek teljesülésének sérelme nélkül szintén utazásszervezési szolgáltatás az is,
 
@@ -2947,7 +2949,11 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 
 (4) A (3) bekezdésben meghatározott nyilatkozattételi kötelezettség teljesítésének módjára is a 249. § (2)–(4) bekezdéseit kell megfelelően alkalmazni.
 
-251/A. § (1) Az adó-visszatéríttetési kérelem az adóvisszatérítési időszakban keletkezett előzetesen felszámított adót tartalmazhatja.
+251/A. § (1) Az adó-visszatérítési kérelem
+
+- a) az adó-visszatérítési időszakban kibocsátott számlában foglalt előzetesen felszámított adót tartalmazhatja, feltéve, hogy az előzetesen felszámított adó a számla kibocsátása előtt vagy a számla kibocsátásakor keletkezett, továbbá
+- b) az adó-visszatérítési időszakban keletkezett előzetesen felszámított adót tartalmazhatja, feltéve, hogy azon termékértékesítésről, szolgáltatásnyújtásról, amely után az előzetesen felszámított adó keletkezett, a számlát az adófizetési kötelezettség keletkezése előtt kibocsátották, és
+- c) az adó-visszatérítési időszakban keletkezett, termékimportot terhelő előzetesen felszámított adót tartalmazhatja.
 
 (2) Az (1) bekezdésen kívül az adó-visszatéríttetési kérelem azt az előzetesen felszámított adót is tartalmazhatja, amely az adóvisszatérítési időszakot megelőzően keletkezett, de amelynek érvényesítésére korábban nem nyújtottak be adó-visszatéríttetési kérelmet, ha az előzetesen felszámított adó az adott naptári évben keletkezett.
 
@@ -3215,6 +3221,20 @@ közösségi adószám birtokában végezhet.
 
 (4) A kérelemről az állami adóhatóság a kérelem beérkezésétől számított 6 hónapon belül dönt. Az állami adóhatóság az adó visszatérítését akkor engedélyezi, ha a visszatérítés alapjául szolgáló adó a költségvetés felé megfizetésre került.
 
+257/K. § (1) Az adóalany az adósemlegesség elvére tekintettel kérelmezheti az általa megállapított fizetendő adó összegének visszatérítését a következő feltételek együttes teljesülése esetén:
+
+- a) a termékértékesítés, szolgáltatásnyújtás adót is tartalmazó ellenértékének a megszerzése neki fel nem róható okból, részben vagy egészben ellehetetlenült,
+- b) az ellenérték meg nem szerzett része más módon nem térült vagy térül meg,
+- c) a fizetendő adó utólag nem csökkenthető az ellenérték meg nem szerzett részére tekintettel,
+- d) a visszatérítés alapjául szolgáló adót a költségvetés felé megfizették,
+- e) a visszatérítés alapjául szolgáló adó tekintetében a terméket beszerző, szolgáltatást igénybe vevő adóalanyt adólevonási jog illette volna meg (ideértve a XVIII. Fejezet szerinti adó-visszatéríttetési jogot is), azonban azt nem érvényesítette, és az adólevonási jog érvényesítésének lehetősége ellehetetlenült.
+
+(2) Az adóalany a kérelmet az állami adóhatósághoz írásban terjeszti elő, legkésőbb 6 hónappal az adómegállapításhoz való jog elévülését megelőzően. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Az adóalany e kérelem előterjesztésére a folyamatban lévő adóhatósági ellenőrzés során is jogosult.
+
+(3) A kérelemben az adóalany bemutatja az (1) bekezdés szerinti feltételeknek való megfelelést.
+
+(4) A kérelemről az állami adóhatóság a kérelem beérkezésétől számított 6 hónapon belül dönt.
+
 ### XXI. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
 258. § (1) A Közösség tagállamaiban az e törvényben használt „adó” kifejezés jelentését a 9. számú melléklet tartalmazza.
@@ -3248,6 +3268,7 @@ közösségi adószám birtokában végezhet.
   - b) a követelést a hitelező a csődeljárás, a felszámolási eljárás, az önkormányzatok adósságrendezési eljárása során egyezségi megállapodás keretében elengedte,
   - c) a követelésre a felszámoló által adott írásbeli igazolás (nyilatkozat) szerint nincs fedezet, feltéve, hogy a felszámolás kezdő időpontja óta legalább 2 év telt el,
   - d) a követelésre a felszámolás, az adósságrendezési eljárás befejezésekor vagyonfelosztási javaslat szerinti értékben átvett eszköz nem nyújt fedezetet;
+  - e) a természetes személyek adósságrendezési eljárása során a bíróság az adóst a fennmaradó adósságai megfizetése alól mentesítő döntést hoz;
 - 4. bérbeadás, -vétel: a bérleti szerződésen alapuló jogviszony mellett minden olyan egyéb jogviszony is, amelynek tartama alatt a jogosult az ellenérték egészét vagy túlnyomó részét a termék időleges használatáért téríti vagy téríteni köteles a kötelezettnek;
 - 5. elektronikus számla: az e törvényben előírt adatokat tartalmazó számla, amelyet elektronikus formában bocsátottak ki és fogadtak be.
 - 6. ellenérték: bármilyen vagyoni előny, ideértve a meglévő követelés mérséklésére elismert vagyoni értéket is, de ide nem értve a kártérítést; 6/A. eredet hitelessége: a terméket értékesítő, a szolgáltatást nyújtó vagy a számlát kibocsátó azonosságának biztosítása.
@@ -3684,10 +3705,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 326. § Ha az utazásszervező 2019. év vonatkozásában él e törvény 212/A. § (1) bekezdése szerinti választási jogával, köteles e törvény 206. § (1) bekezdés d) pontja szerinti önálló pozíciószámot legkésőbb a 2019. december 31-ét magában foglaló adó-megállapítási időszakban lezárni.
 
-327. § E törvény 2019. december 31-én hatályos 3. számú melléklet I. rész 50–51. pontja szerinti lakóingatlan-értékesítés általános forgalmi adó mértékére a 2019. december 31-én hatályos rendelkezéseket kell alkalmazni akkor is, ha a 84. § szerint megállapított időpont a 2020. január 1. napjával kezdődő és 2023. december 31. napjával záruló időszakra esik, feltéve, hogy
-
-- a) építési engedélyhez kötött építési munka esetén a lakóingatlan építésére 2018. november 1. napján van végleges építési engedély, vagy
-- b) az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentéshez kötött építési tevékenységet legkésőbb 2018. november 1. napján bejelentették.
+327. §
 
 328. § (1) A 2020. január 1-jét megelőzően, belföldön fenntartott vevői készlet céljára továbbított termékekre a 2019. december 31-én hatályos 22. § (3)–(5) bekezdés, 144. §, 183. §, 259. § 26. a) pontját kell alkalmazni, azzal, hogy az ilyen, 2020. december 31-én még a vevői készletben lévő termékre 2020. december 31-én beáll a 22. § (1) bekezdése szerinti joghatás.
 
@@ -3704,6 +3722,8 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 (3) E törvénynek a Mód10 törvénnyel megállapított 89. § (1a) bekezdését arra a termékértékesítésre kell először alkalmazni, amelynek teljesítési időpontja 2019. december 31-ét követi.
 
 332. § E törvénynek a Mód10 törvénnyel megállapított 77. § (7)–(10) bekezdése, 259. § 3/A. pontja, valamint a Mód10 törvénnyel módosított 153/D. §-a azokban az esetekben is alkalmazható, amikor a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontja 2020. január 1. napját megelőzi, de 2015. december 31. napját követő időpontra esik.
+
+333. § E törvény 2020. december 31-én hatályos 206. § (1) bekezdés c) pontját és 206. § (2) bekezdését kell alkalmazni, ha az utazásszervezőnek fizetett előleg jóváírása, kézhezvétele, előlegfizetés hiányában pedig az utazásszervezési szolgáltatás teljesítése 2021. január 1-jét megelőző időpontra esik.
 
 334. § A 3. számú melléklet II. részének az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2020. január 1-jére vagy azt követő időpontra esik.
 
@@ -3724,6 +3744,12 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 341. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel (a továbbiakban: Mód11 törvény) megállapított 137. § (2)–(3) bekezdését alkalmazni kell abban az esetben is, ha az adószámot az állami adó- és vámhatóság a Mód11 törvény hatálybelépését megelőzően, az adó megállapításához való jog elévülési idején belül állapította meg ismételten.
 
 (2) Az egyéb feltételek fennállása esetén a belföldön nyilvántartásba vett, személygépkocsi értékesítésével foglalkozó viszonteladó a 2021. január 1. napjával kezdődő időszakra vonatkozóan abban az esetben is dönthet úgy, hogy tevékenységének egészére e törvény XVI. Fejezet 2. alfejezetének rendelkezéseit alkalmazza, ha a 225. § (1) bekezdés c) pontjában rögzített időtartam még nem telt el, feltéve, hogy e döntéséről az állami adó- és vámhatóságnak 2020. december 31-ig nyilatkozik.
+
+(3) E törvénynek a Mód11 törvénnyel módosított 87. § c) pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2021. január 1-jére vagy azt követő időpontra esik.
+
+342. § E törvénynek a Mód11 törvénnyel megállapított 77. § (11) bekezdése, valamint a Mód11 törvénnyel módosított 77. § (7) bekezdése és 259. § 3/A. pontja azokban az esetekben is alkalmazható, amikor a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontja 2021. január 1. napját megelőzi, de 2015. december 31. napját követő időpontra esik.
+
+347. § A 3. számú melléklet I. részében foglalt táblázatnak az egyes törvényeknek az otthonteremtési akcióterv bevezetése érdekében szükséges módosításáról szóló 2020. évi CXXXIII. törvénnyel megállapított 50. és 51. sorát azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2021. január 1-jére vagy azt követő időpontra esik.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -3826,8 +3852,8 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 47. | Háziasított kecskehús, fagyasztva, egész vagy fél | 0204 50 51-ből |
 | 48. | Háziasított kecskehús, fagyasztva, rövid elülső negyed | 0204 50 53-ból |
 | 49. | Házi sertéshús frissen, hűtve vagy fagyasztva | 0203-ból (kivéve: 0203 1110, 0203 2110) |
-| 50. |  |  |
-| 51. |  |  |
+| 50. | A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan, többlakásos lakóingatlanban kialakítandó vagy kialakított lakás, amelynek összes hasznos alapterülete nem haladja meg a 150 négyzetmétert (kivéve az 59. pont szerinti lakást) |  |
+| 51. | A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan egylakásos lakóingatlan, amelynek összes hasznos alapterülete nem haladja meg a 300 négyzetmétert” |  |
 | 52. | A 0105 vtsz. alá tartozó baromfi élelmezési célra alkalmas húsa, vágási mellékterméke és belsősége frissen, hűtve vagy fagyasztva | 0207 |
 | 53. | Madártojás héjában, frissen | 0407-ből |
 | 54. | Tej (kivéve az anyatejet) | 040110-ből 0401 20-ból |

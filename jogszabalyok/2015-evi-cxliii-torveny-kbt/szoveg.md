@@ -98,7 +98,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 
 (2) A közbeszerzési szerződés megkötésére közbeszerzési eljárást, építési vagy szolgáltatási koncesszió megkötésére koncessziós beszerzési eljárást kell lefolytatni.
 
-(3) Az 5. § (1) bekezdése, a 6. § (1) bekezdése és a 7. § (1) bekezdése szerint ajánlatkérőnek minősülő szervezetek a 15. § (1) bekezdés b) pontja szerinti értékhatárt – ahol ilyen értékhatár nem kerül meghatározásra [15. § (4) bekezdés], a 15. § (1) bekezdés a) pontja szerinti értékhatárt – el nem érő értékű, a 8. § (2)–(6) bekezdése szerinti szerződéseik megkötésekor kötelesek az e törvény végrehajtási rendeletében foglalt követelményeknek megfelelően a 2. § (1)–(5) bekezdésében foglalt alapelveket érvényesíteni. Ezekre a beszerzésekre e törvény rendelkezéseit kizárólag annyiban kell alkalmazni, amennyiben e törvény végrehajtási rendelete azt előírja.
+(3)
 
 ### Ajánlatkérő szervezetek
 
@@ -229,7 +229,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
   - dd) tagállami hatósági hatáskör gyakorlását megtestesítő szolgáltatások;
 - e) értékpapírok vagy a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott egyéb pénzügyi eszközök kibocsátásával, eladásával, vételével vagy átruházásával kapcsolatos, a CPV-ben a 66100000-1 CPV kód alá tartozó (a 66110000-4 CPV kódtól a 66190000-8 CPV kódig megjelölt) pénzügyi szolgáltatások, jegybanki szolgáltatások, valamint az Európai Pénzügyi Stabilitási Eszköz és az Európai Stabilitási Mechanizmus keretében végzett műveletek;
 - f) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitel- és kölcsönszerződések;
-- g) munkaviszony, közszolgálati, kormányzati szolgálati, vagy közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, az állami projektértékelői jogviszony, ügyészségi szolgálati jogviszony, bírói szolgálati jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya;
+- g) munkaviszony, közszolgálati, kormányzati szolgálati, vagy közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, adó- és vámhatósági szolgálati jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, az állami projektértékelői jogviszony, ügyészségi szolgálati jogviszony, bírói szolgálati jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya;
 - h) nonprofit szervezetek vagy egyesületek által nyújtott, az állampolgárok védelmét szolgáló 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9, 85143000-3 CPV kódok által meghatározott polgári védelmi és veszélymegelőzési szolgáltatás, kivéve a betegszállítási mentőszolgáltatás;
 - i) vasúti vagy földalatti közösségi személyszállítási szolgáltatások;
 - j) a 79341400-0, a 92111230-3 és a 92111240-6 CPV kódok által meghatározott politikai kampányszolgáltatás, amelyet valamely politikai párt választási kampánnyal összefüggésben rendel meg;
@@ -424,7 +424,7 @@ feltéve, hogy a közös vállalkozást azért hozták létre, hogy az adott tev
 
 (5) A – főként a település- és területrendezés, építészet és építés, illetve adatfeldolgozás területén alkalmazható – tervpályázati eljárásra vonatkozó részletes szabályokat külön jogszabály határozza meg.
 
-(6)
+(6) A 3. melléklet szerinti, közétkeztetés tárgyú közbeszerzésekre e törvényt a kormányrendeletben meghatározott sajátos rendelkezéseket figyelembe véve kell alkalmazni.
 
 ### Vegyes beszerzések
 
@@ -513,7 +513,7 @@ ha közreműködése az eljárásban a verseny tisztaságának sérelmét eredm�
 - e) a legfőbb ügyész,
 - f) az Alkotmánybíróság elnöke,
 - g) az Állami Számvevőszék elnöke,
-- h) a Közbeszerzési Hatóság, az Egyenlő Bánásmód Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
+- h) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
 - i) a Magyar Nemzeti Bank elnöke
 - j)
 - k)
@@ -1106,7 +1106,7 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
   - ac) az 1978. évi IV. törvény szerinti költségvetési csalás, európai közösségek pénzügyi érdekeinek megsértése, illetve a Btk. szerinti költségvetési csalás;
   - ad) az 1978. évi IV. törvény, illetve a Btk. szerinti terrorcselekmény, valamint ehhez kapcsolódó felbujtás, bűnsegély vagy kísérlet;
   - ae) az 1978. évi IV. törvény, illetve a Btk. szerinti pénzmosás, valamint a Btk. szerinti terrorizmus finanszírozása;
-  - af) az 1978. évi IV. törvény, illetve a Btk. szerinti emberkereskedelem, valamint a Btk. szerinti kényszermunka;
+  - af) az 1978. évi IV. törvény, illetve a Btk. szerinti emberkereskedelem és kényszermunka, valamint az emberkereskedelem áldozatainak kizsákmányolása elleni fellépés érdekében szükséges egyes törvények módosításáról szóló 2020. évi V. törvény hatálybalépéséig hatályban volt Btk. szerinti kényszermunka;
   - ag) az 1978. évi IV. törvény, illetve a Btk. szerinti versenyt korlátozó megállapodás közbeszerzési és koncessziós eljárásban;
   - ah) a gazdasági szereplő személyes joga szerinti, az a)–g) pontokban felsoroltakhoz hasonló bűncselekmény;
 - b) egy évnél régebben lejárt adó-, vámfizetési vagy társadalombiztosítási járulékfizetési kötelezettségének nem tett eleget, kivéve, ha tartozását és az esetleges kamatot és bírságot az ajánlat vagy részvételi jelentkezés benyújtásának időpontjáig megfizette vagy ezek megfizetésére halasztást kapott;
@@ -2057,12 +2057,12 @@ ajánlattevőt kell ajánlattételre felhívnia.
 - o) az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. §-ában és 114. § (3) bekezdésében meghatározott keret terhére történő beszerzések vonatkozásában;
 - p) olyan szolgáltatás megrendelése esetében, amely a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény 1. §-a alapján létrehozott alapítvány alapító okiratában meghatározott tudományos, ismeretterjesztő, kutatási vagy oktatási tevékenység végzésére irányul, vagy azt közvetlenül segíti;
 - q) a külképviselet számára történő beszerzés esetén;
-- r) az épített környezet alakításáról és védelméről szóló törvény szerinti épületre vonatkozó építészeti-műszaki tervezési szolgáltatás, belsőépítészeti tervezési szolgáltatás, településtervezési vagy tájrendezési tervezési szolgáltatás megrendelésére – az ezekhez kapcsolódó szakági tervezési tevékenységekre kizárólag akkor, ha annak megrendelésére építészeti, belsőépítészeti, településtervezési vagy tájrendezési tervezéssel együttesen, ugyanazon tervezett építési beruházás tekintetében kerül sor;
+- r) az épített környezet alakításáról és védelméről szóló törvény szerinti épületre vonatkozó építészeti-műszaki tervezési szolgáltatás, belsőépítészeti tervezési szolgáltatás, településtervezési vagy tájrendezési tervezési szolgáltatás megrendelésére – az ezekhez kapcsolódó szakági és az épület rendeltetésszerű használatához szükséges tervezési tevékenységekre kizárólag akkor, ha annak megrendelésére építészeti, belsőépítészeti, településtervezési vagy tájrendezési tervezéssel együttesen, ugyanazon tervezett építési beruházás tekintetében kerül sor;
 - s) a 71241000-9, 71242000-6, 71244000-0, 71246000-4, 71247000-1 CPV kódok által meghatározott szolgáltatásokra, feltéve, hogy a szolgáltatás megrendelésére az r) pontban meghatározott tervezési szolgáltatással együttesen, ugyanazon építési beruházás tekintetében kerül sor;
 - t) a védett munkahelyen, megváltozott munkaképességű személyek által előállított áruk, vagy teljesített szolgáltatások beszerzésére;
 - u) mezőgazdasági termelő, kutató tevékenység során felhasználásra kerülő 24400000-8-tól 24457000-2-ig tartó CPV kódok által meghatározott termésnövelő anyagok és engedélyezett növényvédő szerek beszerzésére;
-- v) a kutatás-fejlesztési és innovációs célú támogatásból megvalósuló beszerzésekre a 24000000-4-tól 24327500-7-ig és 24500000-9-tól 24965000-6-ig tartó CPV kódok által meghatározott áruk vonatkozásában;
-- x) olyan beszerzés esetén, ahol a szerződésben foglalt feladatot az 5. § (1) bekezdése vagy a 7. § (2) bekezdése szerinti ajánlatkérő vagy az említett ajánlatkérők társulása jogszabályban vagy hatósági határozatban – az EUMSZ-szel összhangban – meghatározott kizárólagos jog alapján teljesíti;
+- v) kutatás-fejlesztési vagy innovációs tevékenység végzéséhez közvetlenül kapcsolódó, speciálisan az ilyen tevékenység megvalósítását szolgáló áruk és szolgáltatások beszerzésére;
+- x) olyan beszerzés esetén, ahol a szerződésben foglalt feladatot az 5. § (1) bekezdése vagy a 7. § (1)–(2) bekezdése szerinti ajánlatkérő vagy az említett ajánlatkérők társulása vagy a 6. § (1)–(2) bekezdésében meghatározott tevékenységet végző más jogi személy jogszabályban vagy hatósági határozatban – az EUMSZ-szel összhangban – meghatározott kizárólagos jog alapján teljesíti;
 - y) az éves nettó 10 millió forintot meg nem haladó árbevételű start szövetkezet által előállított áruk, teljesített szolgáltatások, illetve építési beruházások beszerzésére;
 - z) a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény, valamint Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény alapján a Köztársasági Elnöki Hivatal által ellátott feladatok megvalósítása érdekében történő beszerzés esetén.
 
@@ -2627,7 +2627,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 - a) az ügyfélszervezettel munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban áll, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja;
 - b) az ügyfélszervezetben tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezik;
 - c) olyan szervezettel áll munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja, vagy abban tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezik, amely az ügyfélszervezettel rendszeres üzleti kapcsolatban áll;
-- d) olyan szervezettel áll közszolgálati, kormányzati szolgálati jogviszonyban, amely az ügyfélszervezet felügyelő szervezete vagy az ügyfélszervezet által felügyelt szervezet, illetve amely az ügyfélszervezet részére támogatást vagy kizárólagos jogot biztosít.
+- d) olyan szervezettel áll közszolgálati, kormányzati szolgálati vagy adó- és vámhatósági szolgálati jogviszonyban, amely az ügyfélszervezet felügyelő szervezete vagy az ügyfélszervezet által felügyelt szervezet, illetve amely az ügyfélszervezet részére támogatást vagy kizárólagos jogot biztosít.
 
 (3) A közbeszerzési biztos a Közbeszerzési Döntőbizottság elnökének haladéktalanul, de legkésőbb az ok felmerülésétől számított három napon belül köteles bejelenteni, ha vele szemben e §-ban vagy az Ákr. 22. §, illetve 23. § (1) bekezdésében meghatározott kizárási ok áll fenn. A közbeszerzési biztos a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik.
 
@@ -3463,7 +3463,7 @@ rendelkezik.
 
 ### A közbeszerzésekért felelős miniszter egyéb feladatai
 
-195. § (1) A Kormány rendelete lehetőséget adhat arra, hogy jogszabályban meghatározott, a Kormány felügyelete alá tartozó szerv és a Kormány közvetlenül vagy közvetetten meghatározó befolyása alá tartozó gazdasági társaság, valamint a vagyonkezelésükben lévő vagy általuk alapított alapítványok esetében a közbeszerzési eljárásokat, építési vagy szolgáltatási koncessziós beszerzési eljárásokat, az ezek alapján kötött szerződések módosítását, valamint e szervezetek nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötését és módosítását a Kormány rendeletében meghatározott szerv jogszabályban meghatározott esetekben és módon engedélyezze, valamint ellenőrizze.
+195. § (1) A Kormány az általa rendeletben meghatározott, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek, az állam 100%-os tulajdonában lévő gazdasági társaság, vagy ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság esetében a közbeszerzési gyakorlat alakítását szolgáló, e törvénnyel összhangban álló követelményeket határozhat meg.
 
 (2) A közbeszerzésekért felelős miniszter hagyja jóvá a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítását, valamint irányítja, felügyeli és ellenőrzi a közbeszerzési tárgyú képzéseket.
 
@@ -3471,7 +3471,7 @@ rendelkezik.
 
 (3) Az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatos részletes szabályokat jogszabály tartalmazza.
 
-(4) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek, amelyekben az állam nevében a tulajdonosi (például részvényesi, tagsági) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján a Kormány tagja, központi költségvetési szerv vagy intézménye gyakorolja, a közbeszerzésekért felelős miniszter kérésére kötelesek a közbeszerzéseikkel összefüggő bármely adatot, dokumentumot a miniszter részére öt munkanapon belül megküldeni. Ezen ajánlatkérők kötelesek a közbeszerzési értékhatárt el nem érő értékű, a 4. § (3) bekezdése szerinti beszerzéseikkel kapcsolatos adatokat a Kormány rendeletében meghatározottak szerint a közbeszerzésekért felelős miniszter részére megküldeni. A közbeszerzésekért felelős miniszter jogosult arra, hogy más szerv feladatkörébe tartozó jogsértés gyanúja esetén a hatáskörrel rendelkező szervnek átadja a Kormány rendeletében meghatározottak szerint végzett, a közbeszerzési értékhatárt el nem érő értékű beszerzések ellenőrzése révén rendelkezésére álló bármely adatot.
+(4)
 
 (5)
 
@@ -3568,15 +3568,16 @@ indult eljárásban kell alkalmazni.
 - 11. a gyógyszerek, fertőtlenítőszerek és az orvostechnikai eszközök közbeszerzésének – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait;
 - 12. a 9. § (1) bekezdés b) pontjában meghatározott beszerzések Országgyűlés illetékes bizottsága általi mentesítésének kezdeményezésére vonatkozó feltételeket és eljárást, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményeket;
 - 13. a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
-- 14. a 195. § (1) bekezdés szerinti szerveket, az ellenőrzést, engedélyezést végző szerveket, valamint az ellenőrzés és engedélyezés eseteit és módját;
+- 14. a 195. § (1) bekezdés szerinti szerveket és az e szervezetek közbeszerzéseinél a közbeszerzések előkészítésére, a közbeszerzési eljárás feltételeire vagy a szerződés tartalmára vonatkozó követelményeket;
 - 15. a részben vagy egészben nem hazai költségvetési forrásból megvalósuló, uniós értékhatárokat elérő vagy meghaladó értékű árubeszerzés, szolgáltatás és szolgáltatási koncesszió, továbbá a háromszázmillió forintot elérő vagy meghaladó értékű építési beruházás és építési koncesszió esetén a lefolytatott közbeszerzési eljárás ellenőrzésére, valamint az e közbeszerzési eljárások eredményeképpen létrejött szerződés módosításának engedélyezésére vonatkozó részletes szabályokat;
 - 16. a Közbeszerzési Hatóság által a szerződések teljesítése és módosítása ellenőrzésére lefolytatható hatósági ellenőrzés részletes szabályait, az ajánlatkérők és gazdasági szereplők ellenőrzéshez kapcsolódó kötelezettségeit, amelynek keretében a Közbeszerzési Hatóság az eljárás és a szerződés teljesítéséhez, módosításához kapcsolódó adatok teljes körű megismerésére jogosult és azok átadását kérheti;
 - 17. a védett munkahelyek, a fejlesztő foglalkoztatók, és a hátrányos helyzetű munkavállalókat foglalkoztató szervezetek részére fenntartott közbeszerzések kötelező eseteit;
 - 18. a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes szabályokat;
 - 19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
-- 20. az ajánlatkérők közbeszerzési értékhatárt el nem érő, a 4. § (3) bekezdése szerinti beszerzéseinek megvalósítására vonatkozó követelményeket, valamint a 195. § (4) bekezdésében meghatározott ajánlatkérő szervezetek közbeszerzési értékhatárt el nem érő beszerzéseivel kapcsolatos adatoknak, dokumentumoknak a közbeszerzésekért felelős miniszter részére történő megküldésére és ezen ajánlatkérők beszerzéseinek a közbeszerzésekért felelős miniszter általi ellenőrzésére vonatkozó szabályokat;
+- 20.
 - 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
 - 22. a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
+- 23. a közétkeztetés tárgyú közbeszerzések – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait.
 
 (2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 

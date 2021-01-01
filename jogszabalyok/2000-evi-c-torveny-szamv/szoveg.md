@@ -1624,8 +1624,8 @@ ha az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez kapcsolód
 - a) a 41. § (1)–(2) és (4) bekezdése szerint képzett céltartalék összegének felhasználását (csökkenését, megszűnését);
 - b) a költségek (a ráfordítások) ellentételezésére – visszafizetési kötelezettség nélkül – az adóhatóságtól, jogszabály által meghatározott szervezettől megkapott, illetve az üzleti évhez kapcsolódóan a mérlegkészítés időpontjáig – a vonatkozó jogszabályi előírásoknak megfelelően – igényelt (járó) támogatás, juttatás összegét;
 - c)
-- d) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) – forgóeszközök között kimutatott – követelésnek az engedményes által elismert értékét a követelés átruházásakor;
-- e) az immateriális jószág, a tárgyi eszköz értékesítéséből (ide értve azt is, ha az immateriális jószág, a tárgyi eszköz a mérlegben, a könyvekben nincs kimutatva), továbbá az immateriális jószág, a tárgyi eszköz 72. § (4) bekezdésének a) és c) pontja szerinti jogcímen történő átadásából származó bevételt az értékesítéskor, az átadáskor;
+- d) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) – forgóeszközök között kimutatott – követelés engedményes által elismert értékének és könyv szerinti értékének a különbözetét, amennyiben az elismert érték meghaladja a könyv szerinti értéket, a követelés átruházásakor;
+- e) az immateriális jószág, a tárgyi eszköz értékesítése esetén (ideértve azt is, ha az immateriális jószág, a tárgyi eszköz a mérlegben, a könyvekben nincs kimutatva), továbbá az immateriális jószág, a tárgyi eszköz 72. § (4) bekezdés a) és c) pontja szerinti jogcímen történő átadása esetén az értékesítésből, az átadásból származó bevétel és a könyv szerinti érték különbözetét, amennyiben a bevétel meghaladja a könyv szerinti értéket, az értékesítéskor, az átadáskor;
 - f) a biztosító által fizetett, illetve a mérlegkészítés időpontjáig elfogadott, visszaigazolt – tárgyévi, illetve a tárgyévet megelőző üzleti évi káreseményhez kapcsolódó – összeget;
 - g) a követelés eredeti jogosultjánál – ha a követelésre korábban értékvesztést számolt el – a követelés könyv szerinti értékét meghaladóan realizált összeget;
 - h) a nyereség jellegű kerekítési különbözetet;
@@ -1710,10 +1710,10 @@ ha az a tárgyévhez vagy a tárgyévet megelőző üzleti év(ek)hez kapcsolód
 
 - a) a 41. § (1)–(2) és (4) bekezdése szerint az üzleti évben képzett céltartalék összegét, a képzett céltartalékot növelő összeget;
 - b) a forgóeszközök között kimutatott – vásárolt követelésnek nem minősülő – követelésnek behajthatatlan követelésként az üzleti évben leírt összegét;
-- c) az immateriális jószág, a tárgyi eszköz közvetlen értékesítésekor azok könyv szerinti értékét;
+- c) az immateriális jószág, a tárgyi eszköz értékesítése esetén (ideértve azt is, ha az immateriális jószág, a tárgyi eszköz a mérlegben, a könyvekben nincs kimutatva), továbbá az immateriális jószág, a tárgyi eszköz 72. § (4) bekezdés a) és c) pontja szerinti jogcímen történő átadása esetén az értékesítésből, az átadásból származó bevétel és a könyv szerinti érték különbözetét, amennyiben a könyv szerinti érték meghaladja a bevételt, az értékesítéskor, az átadáskor;
 - d)
 - e) a hiányzó, illetve a tárgyévben megsemmisült, az állományból kivezetett vásárolt és saját termelésű készlet könyv szerinti értékét;
-- f) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) – forgóeszközök között kimutatott – követelésnek a könyv szerinti értékét a követelés átruházásakor.
+- f) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) – forgóeszközök között kimutatott – követelés engedményes által elismert értékének és könyv szerinti értékének a különbözetét, amennyiben a könyv szerinti érték meghaladja az elismert értéket, a követelés átruházásakor.
 
 (4) Az egyéb ráfordítások között elkülönítetten kell kimutatni:
 
@@ -1803,7 +1803,7 @@ függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszem�
 - k) ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken történő értékelést, a nem kamatfedezeti célú, egyéb piaci érték (valós érték) fedezeti ügyletek fordulónapi valós értéke vagy belső értéke alapján a 32. § (5) bekezdés c) pontja szerinti elhatárolás összegét, és az előző időszakokban így kimutatott elhatárolás megszüntetését, valamint a nem kamatfedezeti célú, egyéb cash-flow fedezeti célú ügyletek esetén a 32. § (5) bekezdés e) pontja szerinti elhatárolás összegét és annak megszüntetését;
 - l) a kiírt opcióért kapott opciós díjat;
 - m) a forgóeszközök között kimutatott vásárolt követelés könyv szerinti értékét meghaladó összegben befolyt pénzbevétel összegét;
-- n) a vásárolt követelés értékesítésekor az eladási ár és a könyv szerinti érték közötti – nyereségjellegű – különbözetet;
+- n) a forgóeszközök között kimutatott vásárolt követelés értékesítésekor az eladási ár és a könyv szerinti érték közötti – nyereségjellegű – különbözetet;
 - o) a szerződésben meghatározott fizetési határidőn (esedékességen) belül történt pénzügyi rendezés esetén kapott – a szerződésben meghatározott, a pénzügyileg rendezendő ellenérték 3%-át meg nem haladó, nem számlázott – engedmény összegét;
 - p) közös tevékenység, közös üzemeltetés esetén a közös költségeknek (ráfordításoknak) a közös tevékenységben, a közös üzemeltetésben részt vevőkre – a tárgyévvel kapcsolatosan – átterhelt összegét, illetve a közös tevékenységből, közös üzemeltetésből származó nyereség – tárgyévvel kapcsolatosan – átvett (járó) összegét;
 - r) egyesülésnél a működés költségeinek – tárgyévvel kapcsolatosan – az egyesülés tagjaira átterhelt összegét,
@@ -1860,7 +1860,7 @@ függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszem�
 - j) ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken történő értékelést és az ügylet zárása a mérleg fordulónapjáig megtörtént, a kamat swap ügyletek kivételével a származékos ügyletek zárása időpontjában érvényes piaci árfolyam és kötési (határidős) árfolyam közötti – veszteségjellegű – különbözet teljes összegét, beleértve a származékos leszállítási ügylet keretében beszerzett eszközök bekerülés (beszerzés) napján valós értékre történő – 47. § (12) bekezdése szerinti – átértékelése miatt keletkező veszteségjellegű – különbözet összegét is, valamint az ügylethez kapcsolódóan a 32. § (5) bekezdés a) pontja vagy a 44. § (5) bekezdés a) pontja szerint kimutatott elhatárolás megszüntetését;
 - k) ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken történő értékelést, a kamat swap ügyletek kivételével a származékos ügyletek fordulónapi valós értéke vagy belső értéke alapján a 44. § (5) bekezdés c) pontja szerinti elhatárolás összegét, és az előző időszakokban így kimutatott elhatárolás megszüntetését, valamint a nem kamatfedezeti célú, egyéb cash-flow fedezeti célú ügyletek esetén a 44. § (5) bekezdés e) pontja szerinti elhatárolás összegét és annak megszüntetését;
 - l) a vásárolt eladási opcióért fizetett opciós díjat, a lejáratkor le nem hívott vételi opcióért fizetett opciós díjat, és a forgatási célú értékpapír beszerzéséhez kapcsolódóan felmerült, lehívott vételi opció opciós díját, ha ez utóbbit a vállalkozó a 61. § (2) bekezdése szerint a beszerzési értékben nem veszi figyelembe;
-- m) a térítés nélkül átadott, elengedett, behajthatatlannak minősített, a forgóeszközök között kimutatott vásárolt követelés, valamint a hiányzó, megsemmisült, a forgóeszközök között kimutatott értékpapír könyv szerinti értékét, továbbá a vásárolt követelés könyv szerinti értékének azon részét, amelyre a befolyt összeg nem nyújt fedezetet;
+- m) a térítés nélkül átadott, elengedett, behajthatatlannak minősített, a forgóeszközök között kimutatott vásárolt követelés, valamint a hiányzó, megsemmisült, a forgóeszközök között kimutatott értékpapír könyv szerinti értékét, továbbá a forgóeszközök között kimutatott vásárolt követelés könyv szerinti értékének azon részét, amelyre a befolyt összeg nem nyújt fedezetet;
 - n) a forgóeszközök között kimutatott vásárolt követelés értékesítésekor az eladási ár és a könyv szerinti érték közötti – veszteségjellegű – különbözetet;
 - o) a szerződésben meghatározott fizetési határidőn (esedékességen) belül történt pénzügyi rendezés esetén adott – a szerződésben meghatározott, a pénzügyileg rendezendő ellenérték 3%-át meg nem haladó, nem számlázott – engedmény összegét;
 - p) közös tevékenység, közös üzemeltetés esetén a közös költségeknek (ráfordításoknak) a közös tevékenységben, a közös üzemeltetésben részt vevők által – a tárgyévvel kapcsolatosan – megtérített, megtérítendő összegét, illetve a közös tevékenységből, közös üzemeltetésből származó nyereség – tárgyévvel kapcsolatosan – átadott (fizetendő) összegét;
@@ -1997,7 +1997,7 @@ a jelentősebb összegeit, azok időbeli alakulását.
 
 91. § A kiegészítő mellékletben meg kell adni:
 
-- a) a tárgyévben foglalkoztatott munkavállalók átlagos statisztikai létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit állománycsoportonként, valamint a bérjárulékokat jogcímenként megbontva;
+- a) a tárgyévben foglalkoztatott munkavállalók átlagos létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit állománycsoportonként, valamint a bérjárulékokat jogcímenként megbontva;
 - b) részvénytársaságnál a kibocsátott részvények számát és névértékét részvény-típusonként (fajtánként) csoportosítva (ezen belül külön feltüntetve a tárgyévben kibocsátottakat), a kibocsátott átváltoztatható és átváltozó kötvények számát és névértékét, továbbá az opciós utalvány, opció, illetve hasonló értékpapír vagy jog meglétét, jelezve azok számát és a hozzájuk kapcsolódó jogokat;
 - c) azokat az összegeket, amelyek az értékelés következtében a társasági adó megállapításánál módosító tételt jelentenek; ha a tétel átmeneti jellegű, a jövőbeni hatást is be kell mutatni;
 - d) azon egyéb bevételek és egyéb ráfordítások, illetve pénzügyi műveletek bevételei és ráfordításai tételeinek társasági adóra gyakorolt számszerűsített hatását, amelyek jelentős összegűek;
@@ -2140,7 +2140,7 @@ a jelentősebb összegeit, azok időbeli alakulását.
 
 (3a) A (2) és (3) bekezdés alkalmazása során összevont, arab számmal jelölt tételek összegét, azok tartalmát külön-külön be kell mutatni a kiegészítő mellékletben, amennyiben azok jelentősnek minősülnek.
 
-(4) Az egyszerűsített éves beszámoló kiegészítő mellékletének a 88. § (4), (4a) és (5) bekezdése, a 89. § (4) bekezdés b) pontja, 89. § (6) bekezdése, a 90. § (2) bekezdése, a 90. § (3) bekezdés a)–c) pontja, a 90. § (7) bekezdése és a 90. § (9) bekezdés a)–e), és g) pontja szerinti adatokat kell tartalmaznia. A 91. § a) pont szerinti adatokból csak a tárgyévben foglalkoztatott munkavállalók átlagos statisztikai létszámát kell bemutatni.
+(4) Az egyszerűsített éves beszámoló kiegészítő mellékletének a 88. § (4), (4a) és (5) bekezdése, a 89. § (4) bekezdés b) pontja, 89. § (6) bekezdése, a 90. § (2) bekezdése, a 90. § (3) bekezdés a)–c) pontja, a 90. § (7) bekezdése és a 90. § (9) bekezdés a)–e), és g) pontja szerinti adatokat kell tartalmaznia. A 91. § a) pont szerinti adatokból csak a tárgyévben foglalkoztatott munkavállalók átlagos létszámát kell bemutatni.
 
 (4a) Ha az egyszerűsített éves beszámolót készítő vállalkozó él az 57. § (3) bekezdése szerinti lehetőséggel, akkor a kiegészítő mellékletben be kell mutatnia az 58. § (1) bekezdése és az 59. § (1) bekezdése szerinti adatokat.
 
@@ -2558,7 +2558,7 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 - a) az összevont (konszolidált) éves beszámolót készítő fölérendelt anyavállalat nevét és székhelyét; valamint
 - b) utalást arra vonatkozóan, ha az összevont (konszolidált) éves beszámoló készítési kötelezettség alól az (1) bekezdés szerint mentesítették.
 
-(4) Az (1)–(2) bekezdés alkalmazása esetén a mentesített anyavállalat éves beszámolójának kiegészítő mellékletében a mentesített anyavállalat és kapcsolt vállalkozásai befektetett eszközeinek, tárgyévi bevételeinek és adózott eredményének, saját tőkéjének, valamint foglalkoztatottjai átlagos állományi létszámának adatait vállalkozásonként külön-külön be kell mutatni.
+(4) Az (1)–(2) bekezdés alkalmazása esetén a mentesített anyavállalat éves beszámolójának kiegészítő mellékletében a mentesített anyavállalat és kapcsolt vállalkozásai befektetett eszközeinek, tárgyévi bevételeinek és adózott eredményének, saját tőkéjének, valamint foglalkoztatott munkavállalói átlagos létszámának adatait vállalkozásonként külön-külön be kell mutatni.
 
 (5) Nem alkalmazható az (1)–(2) bekezdés szerinti mentesítés arra az anyavállalatra, amelynek kibocsátott – a 3. § (6) bekezdésének 2–3. pontjai szerinti – értékpapírjai tőzsdei kereskedelme engedélyezett, vagy az engedélyezést már kérelmezték.
 
@@ -2811,7 +2811,7 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 - a) az összevont (konszolidált) mérlegben kimutatott azon kötelezettségek teljes összegét, amelyek futamideje öt évnél hosszabb, valamint az összevont (konszolidált) mérlegben kimutatott azon kötelezettségek teljes összegét, amelyek a konszolidálásba bevont vállalkozások részéről zálogjoggal vagy hasonló jogokkal biztosítottak, feltüntetve a biztosítékok fajtáját és formáját;
 - b) azoknak a pénzügyi kötelezettségeknek a teljes összegét, amelyek a pénzügyi helyzet értékelése szempontjából jelentőséggel bírnak, de nem jelennek meg az összevont (konszolidált) mérlegben. Ezek közül külön ki kell emelni a konszolidálásba teljeskörűen be nem vont leányvállalatokkal szembeni kötelezettségek összegét;
-- c) az összevont (konszolidált) éves beszámolóba bevont vállalkozások tárgyévben foglalkoztatott munkavállalóinak átlagos statisztikai létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit, mindegyiket állománycsoportonkénti bontásban;
+- c) az összevont (konszolidált) éves beszámolóba bevont vállalkozások tárgyévben foglalkoztatott munkavállalóinak átlagos létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit, mindegyiket állománycsoportonkénti bontásban;
 - d) az anyavállalatnál az igazgatóság, az ügyvezetés (üzletvezetés), a felügyelő bizottság tagjainak tevékenységükért az üzleti év után járó járandóság összegét, ideértve a bérköltséget, a személyi jellegű egyéb kifizetéseket, a gazdasági társaság által átvállalt és így helyettük fizetett összegeket is, csoportonként összevontan, beleértve a leányvállalatoknál végzett tevékenység utáni járandóságokat is;
 - e) az anyavállalat igazgatósága, ügyvezetése (üzletvezetése), felügyelő bizottsága tagjainak az anyavállalat, illetve a leányvállalatai által folyósított kölcsönök és előlegek időpontját, nagyságát, lejáratát, megadva a kamat mértékét, a lényeges feltételeket, a tárgyévben visszafizetett összegeket, továbbá ezen személyek nevében vállalt garanciális kötelezettségeket;
 - f) az értékesítés árbevételének fontosabb tevékenységek (a konszolidálásba bevont vállalkozásokra jellemző termékek, terméktípusok), továbbá az exportárbevételnek az Európai Unió, valamint más, az Európai Unión kívüli országok szerinti, illetve ezen belül földrajzilag meghatározott piacok szerinti megbontását, amennyiben ebből a konszolidálásba bevont vállalkozásoknak jelentősebb hátránya nem származik. Ez utóbbi esetben itt erre utalni kell;
@@ -3331,7 +3331,7 @@ kezeli.
 
 (2) Az anyavállalat a jóváhagyásra jogosult testület által elfogadott összevont (konszolidált) éves beszámolót a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt az összevont (konszolidált) éves beszámoló mérlegfordulónapját követő hatodik hónap utolsó napjáig köteles letétbe helyezni ugyanolyan formában és tartalommal (szövegezésben), mint amelynek alapján a könyvvizsgáló az összevont (konszolidált) éves beszámolót felülvizsgálta.
 
-(3)
+(3) Az a vállalkozó, amelynek értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák, az éves beszámoló és az összevont (konszolidált) éves beszámoló (1) és (2) bekezdés szerinti letétbe helyezési kötelezettségének az adott üzleti év mérlegfordulónapját követő negyedik hónap utolsó napjáig köteles eleget tenni.
 
 (4) A letétbe helyezett éves beszámoló, egyszerűsített éves beszámoló, egyszerűsített beszámoló, összevont (konszolidált) éves beszámoló adatai, kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt nyilvánosak, azokról bárki tájékoztatást kaphat, és másolatot készíthet.
 
@@ -3890,6 +3890,10 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 (79) E törvénynek a Versenyképesebb Magyarországért program egyes adóintézkedéseinek megvalósítását szolgáló törvények módosításáról szóló 2019. évi C. törvénnyel megállapított 37. § (1) bekezdés g) pontját, 38. § (11) bekezdését, 80. § (2) bekezdését, 114/B. § (4) bekezdés e) pontját, 139. § (2) bekezdés e) pontját először a 2020. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 
 (80) E törvénynek a Versenyképesebb Magyarországért program egyes adóintézkedéseinek megvalósítását szolgáló törvények módosításáról szóló 2019. évi C. törvénnyel megállapított 37. § (1) bekezdés g) pontját, 38. § (11) bekezdését, 114/B. § (4) bekezdés e) pontját, 139. § (2) bekezdés e) pontját a 2019. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(81) E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 77. § (3) bekezdés d) és e) pontját, 81. § (3) bekezdés c) és f) pontját, 84. § (7) bekezdés n) pontját, 85. § (3) bekezdés m) pontját, 91. § a) pontját, 96. § (4) bekezdését, 116. § (4) bekezdését, 133. § (4) bekezdés c) pontját, 153. § (3) bekezdését először a 2021. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(82) E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 77. § (3) bekezdés d) és e) pontját, 81. § (3) bekezdés c) és f) pontját, 84. § (7) bekezdés n) pontját, 85. § (3) bekezdés m) pontját, 91. § a) pontját, 96. § (4) bekezdését, 116. § (4) bekezdését, 133. § (4) bekezdés c) pontját, 153. § (3) bekezdését a 2020. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
 
 ### Felhatalmazás
 

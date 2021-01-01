@@ -265,7 +265,7 @@ történő jogtalan behatolás, vagy
 - b) a bűncselekményt bűnszervezetben követte el,
 - c) bűncselekménye halált okozott,
 - d) a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt, illetve próbára bocsátás vagy feltételes ügyészi felfüggesztés tartama alatt követte el, vagy
-- e) korábban szándékos bűncselekménye miatt közvetítői eljárásban vett részt, és ennek eredményeként vele szemben az (1) vagy (2) bekezdést alkalmazták, feltéve, hogy a határozat véglegessé válásától az újabb szándékos bűncselekmény elkövetéséig két év még nem telt el.
+- e) korábban szándékos bűncselekménye miatt közvetítői eljárásban vett részt, és ennek eredményeként vele szemben az (1) vagy (2) bekezdést alkalmazták, feltéve, hogy a további jogorvoslattal nem támadható határozat keltétől az újabb szándékos bűncselekmény elkövetéséig két év még nem telt el.
 
 ### VI. Fejezet — A BÜNTETŐJOGI FELELŐSSÉGRE VONÁS EGYÉB AKADÁLYAI
 
@@ -312,7 +312,7 @@ hiánya.
 
 (3) A büntetések – az (5) és (6) bekezdésben foglalt kivételekkel – egymás mellett is kiszabhatóak.
 
-(4) Ha a bűncselekmény büntetési tételének felső határa háromévi szabadságvesztésnél nem súlyosabb, szabadságvesztés helyett elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás, illetve e büntetések közül több is kiszabható.
+(4) Ha a bűncselekmény büntetési tételének alsó határa nem éri el az egy év szabadságvesztést, szabadságvesztés helyett elzárás, közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás, illetve e büntetések közül több is kiszabható.
 
 (5) Ha a bűncselekményt e törvény elzárással rendeli büntetni, e büntetés helyett vagy mellett közérdekű munka, pénzbüntetés, foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás vagy kiutasítás, illetve e büntetések közül több is kiszabható.
 
@@ -485,7 +485,7 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 (2) A közérdekű munkát az elítélt, ha törvény eltérően nem rendelkezik, hetente legalább egy napon – a heti pihenőnapon vagy a szabadidejében –, díjazás nélkül végzi.
 
-(3) A bíróság az ügydöntő határozatában a közérdekű munka jellegéről rendelkezik.
+(3)
 
 (4) A közérdekű munkára ítélt köteles a számára meghatározott munkát elvégezni. Az elkövető olyan munka végzésére kötelezhető, amelyet – figyelemmel egészségi állapotára és képzettségére – előreláthatóan képes elvégezni.
 
@@ -586,7 +586,7 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 59. § (1) Azt a nem magyar állampolgár elkövetőt, akinek az országban tartózkodása nem kívánatos, Magyarország területéről ki kell utasítani. A kiutasított köteles az ország területét elhagyni, és a kiutasítás tartama alatt nem térhet vissza.
 
-(2) Nem utasítható ki az, aki menedékjogot élvez.
+(2) Nem utasítható ki az, aki számára Magyarország menedékjogot biztosít.
 
 (3) A szabad mozgás és tartózkodás jogával, valamint Magyarország területén letelepedettként vagy bevándoroltként tartózkodási joggal rendelkező személlyel szemben kiutasításnak csak olyan bűncselekmény elkövetése miatt lehet helye, amely ötévi vagy azt meghaladó tartamú szabadságvesztéssel büntetendő.
 
@@ -601,7 +601,7 @@ csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén
 
 (2) A határozott ideig tartó kiutasítás legrövidebb tartama egy év, leghosszabb tartama tíz év.
 
-(2a) A határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), valamint a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §) esetén kiszabott végrehajtandó szabadságvesztés mellett, valamint a 85. § (1a) bekezdésben meghatározott esetben a kiutasítás nem mellőzhető. Amennyiben a kiutasítás határozott ideig tart, annak tartama a kiszabott szabadságvesztés tartamának kétszerese, de legalább két év. A kiutasítás tartamát években, hónapokban és napokban is meg lehet állapítani.
+(2a) A határzár tiltott átlépése (352/A. §), a határzár megrongálása (352/B. §), a határzárral kapcsolatos építési munka akadályozása (352/C. §), valamint az embercsempészés (353. §) esetén kiszabott szabadságvesztés mellett a kiutasítás – az 59. § (2) és (4) bekezdése szerinti esetek kivételével – nem mellőzhető. Határozott tartamú kiutasítás esetén annak tartama a kiszabott szabadságvesztés tartamának kétszerese, de legalább két év. A kiutasítás tartamát években, hónapokban és napokban is meg lehet állapítani. E bekezdés alkalmazása esetén az 50. § (2) bekezdése alkalmazásának nincs helye.
 
 (3) Végleges hatállyal az utasítható ki, akit tízévi vagy azt meghaladó tartamú szabadságvesztésre ítélnek, és – figyelemmel a bűncselekmény kiemelkedő súlyára, az elkövetés jellegére, és az elkövető kapcsolataira – az országban tartózkodása a közbiztonságot jelentősen veszélyeztetné. A szabad mozgás és tartózkodás jogával rendelkező személy végleges hatállyal nem utasítható ki.
 
@@ -831,7 +831,7 @@ ideje alatt szerzett.
 - g) a vesztegetés, a vesztegetés elfogadása, a hivatali vesztegetés, a hivatali vesztegetés elfogadása (290–294. §),
 - h) a terrorcselekmény [314. §, 315. § (1)–(2) bekezdés, 316. § és 316/A. §], a terrorizmus finanszírozása [318. § és 318/A. §],
 - i) a bűnszervezetben részvétel [321. § (1) bekezdés],
-- j) az embercsempészés (353. §)
+- j) az embercsempészés (353. §), a jogellenes tartózkodás elősegítése (354. §),
 - k) a zsarolás (367. §),
 - l) a különösen nagy vagy különösen jelentős értékre, bűnszervezetben elkövetett sikkasztás [372. § (5) bekezdés a) pontja és (6) bekezdése], a különösen nagy vagy különösen jelentős kárt okozó, bűnszervezetben elkövetett csalás [373. § (5) bekezdés a) pontja és (6) bekezdése], a különösen nagy vagy különösen jelentős vagyoni hátrányt okozó, bűnszervezetben elkövetett gazdasági csalás [374. § (5) bekezdés a) pontja és (6) bekezdése], a különösen nagy vagy különösen jelentős vagyoni hátrányt okozó, bűnszervezetben elkövetett hűtlen kezelés [376. § (5) bekezdés a) pontja és (6) bekezdése],
 - m) az információs rendszer felhasználásával elkövetett csalás [375. § (1)–(5) bekezdés],
@@ -1020,7 +1020,7 @@ az (1) bekezdésben meghatározott bűnügyi felügyeletben töltött idő felel
 
 ### A már végrehajtott büntetés vagy intézkedés beszámítására vonatkozó szabályok
 
-92/B. § (1) Ha a perújítás, a felülvizsgálat, a törvényesség érdekében bejelentett jogorvoslat, vagy a megismételt eljárás eredményeként hozott ítélet az alapügyben hozott határozatot megváltoztatatja, az alapügyben kiszabott és végrehajtott büntetést vagy intézkedést be kell számítani. Ha a büntetés vagy az intézkedés neme eltér, a beszámításra a (2) bekezdésben foglaltak az irányadók.
+92/B. § (1) Ha a perújítás, a felülvizsgálat, a törvényesség érdekében bejelentett jogorvoslat, vagy a megismételt eljárás eredményeként hozott ítélet az alapügyben hozott határozatot megváltoztatja, az alapügyben kiszabott és végrehajtott büntetést vagy intézkedést be kell számítani. Ha a büntetés vagy az intézkedés neme eltér, a beszámításra a (2) bekezdésben foglaltak az irányadók.
 
 (2) A beszámításnál
 
@@ -1294,7 +1294,7 @@ szabadságvesztést.
 
 ### A büntetés kiszabása egyezség esetén
 
-124/A. § (1) Ha az egyezség jóváhagyására olyan a bűncselekmény elkövetésekor tizenhatodik életévét be nem töltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke
+124/A. § (1) Ha az egyezség jóváhagyására olyan, a bűncselekmény elkövetésekor tizenhatodik életévét be nem töltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke
 
 - a) életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény elkövetése esetén a nyolc évet,
 - b) öt évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a három évet,
@@ -1303,7 +1303,7 @@ szabadságvesztést.
 
 nem haladhatja meg.
 
-(2) Ha az egyezség jóváhagyására olyan a bűncselekmény elkövetésekor tizenhatodik életévét betöltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke
+(2) Ha az egyezség jóváhagyására olyan, a bűncselekmény elkövetésekor tizenhatodik életévét betöltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke
 
 - a) életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény elkövetése esetén a tíz évet,
 - b) a tíz évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a nyolc évet,
@@ -1769,7 +1769,7 @@ okoz.
 
 (3) Ha az elkövető a közvetlen veszélyt szándékosan idézi elő, bűntett miatt az (1) bekezdésben meghatározott esetben három évig, a (2) bekezdésben meghatározott esetben – az ott tett megkülönböztetés szerint – egy évtől öt évig, két évtől nyolc évig, illetve öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
 
-(4) E § alkalmazásában foglalkozási szabály a lőfegyver, a robbantószer és a robbanóanyag használatára és kezelésére vonatkozó szabály is.
+(4) E § alkalmazásában foglalkozási szabály a működőképes lőfegyver, a robbantószer és a robbanóanyag használatára és kezelésére vonatkozó szabály is.
 
 ### Segítségnyújtás elmulasztása
 
@@ -2051,7 +2051,9 @@ kell érteni.
 
 követik el.
 
-(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+(2a) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt jelentős mennyiségű új pszichoaktív anyagra követik el.
+
+(3) Az (1)–(2a) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
 
 (4) Aki csekély mennyiségű új pszichoaktív anyagot kínál vagy átad,
 
@@ -2060,7 +2062,7 @@ követik el.
 
 terjedő szabadságvesztéssel büntetendő.
 
-(5) Aki az (1) vagy a (2) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(5) Aki az (1)–(2a) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 184/A. § (1) Az a tizennyolcadik életévét betöltött személy, aki
 
@@ -2075,7 +2077,8 @@ bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel bünteten
 (2) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt
 
 - a) bűnszövetségben,
-- b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva
+- b) hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva,
+- c) jelentős mennyiségű új pszichoaktív anyagra
 
 követik el.
 
@@ -2100,9 +2103,13 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 követik el.
 
-(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+(2a) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt jelentős mennyiségű új pszichoaktív anyagra követik el.
 
-(4) Aki az (1)–(2) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(2b) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt különösen jelentős mennyiségű új pszichoaktív anyagra követik el.
+
+(3) Az (1)–(2b) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+
+(4) Aki az (1)–(2b) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (5) Ha a bűncselekményt csekély mennyiségű új pszichoaktív anyagra követik el, a büntetés
 
@@ -2130,9 +2137,13 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 követik el.
 
-(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+(2a) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt jelentős mennyiségű új pszichoaktív anyagra követik el.
 
-(4) Aki az (1)–(2) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(2b) A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha a bűncselekményt különösen jelentős mennyiségű új pszichoaktív anyagra követik el.
+
+(3) Az (1)–(2b) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
+
+(4) Aki az (1)–(2b) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (5) Ha a bűncselekményt csekély mennyiségű új pszichoaktív anyagra követik el, a büntetés
 
@@ -2141,9 +2152,7 @@ követik el.
 
 terjedő szabadságvesztés.
 
-184/D. § (1) A 184–184/C. § alkalmazásában új pszichoaktív anyagon az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott fogalmat kell érteni.
-
-(2) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a 2 gramm mennyiséget nem haladja meg. A só formában előforduló vegyületek esetén tiszta hatóanyag-tartalom alatt a bázis formában megadott hatóanyag-tartalmat kell érteni.
+#### 184/D. §
 
 ### Teljesítményfokozó szerrel visszaélés
 
@@ -3297,9 +3306,19 @@ minősítésű adatra követik el a bűncselekményt.
 
 ### A nemzeti adatvagyon körébe tartozó állami nyilvántartás elleni bűncselekmény
 
-267. § (1) Aki a nemzeti adatvagyon körébe tartozó állami nyilvántartásban kezelt adatot az adatkezelő részére hozzáférhetetlenné teszi, ha más bűncselekmény nem valósul meg, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+267. § (1) Aki
 
-(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekmény jelentős érdeksérelmet okoz.
+- a) a nemzeti adatvagyon körébe tartozó állami nyilvántartásban kezelt adatot az adatkezelő részére hozzáférhetetlenné teszi, vagy
+- b) a nemzeti adatvagyon körébe tartozó állami nyilvántartás működését jogosulatlanul vagy jogosultsága kereteit megsértve akadályozza,
+
+ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha
+
+- a) a bűncselekmény jelentős érdeksérelmet okoz, vagy
+- b) a bűncselekményt haszonszerzés végett követik el.
+
+(3) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekmény következtében a nemzeti adatvagyon körébe tartozó állami nyilvántartásban kezelt valamennyi adat az adatkezelő részére tartósan hozzáférhetetlenné válik.
 
 ### XXVI. Fejezet — AZ IGAZSÁGSZOLGÁLTATÁS ELLENI BŰNCSELEKMÉNYEK
 
@@ -3461,6 +3480,8 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (3a) A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a reintegrációs őrizet tartama alatt a számára kijelölt lakást és az ahhoz tartozó bekerített helyet vagy a számára meghatározott napirend szerinti tartózkodási helyet a reintegrációs őrizet szabályainak megszegésével abból a célból hagyja el, hogy a szabadságvesztés végrehajtása alól kivonja magát.
 
+(3b) Ha az eljárás alá vont személy a szabálysértési őrizet vagy a szabálysértési elzárás végrehajtása során a hatóság őrizetéből megszökik, vétség miatt elzárással büntetendő.
+
 (4) Korlátlanul enyhíthető a fogolyszökés elkövetőjének büntetése, ha – mielőtt tartózkodási helye a hatóság tudomására jutna – önként feladja magát.
 
 ### Fogolyzendülés
@@ -3538,9 +3559,11 @@ terjedő szabadságvesztés, ha a vesztegetést bűnszövetségben vagy üzletsz
 
 (5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.
 
+(6) Aki egészségügyi szolgáltatás nyújtásával összefüggésben egészségügyi dolgozónak, egészségügyben dolgozónak vagy ezekre tekintettel másnak az egészségügyről szóló törvényben meghatározottak szerint jogtalan előnyt ad vagy ígér, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
 ### Vesztegetés elfogadása
 
-291. § (1) Aki gazdálkodó szervezet részére vagy érdekében végzett tevékenységével kapcsolatban jogtalan előnyt kér, avagy a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+291. § (1) Aki gazdálkodó szervezet részére vagy érdekében végzett tevékenységével kapcsolatban jogtalan előnyt kér, avagy a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személy által kért vagy harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Ha az elkövető
 
@@ -3559,7 +3582,9 @@ terjedő szabadságvesztés.
 
 (4) Az (1)–(3) bekezdés szerint büntetendő az a külföldi gazdálkodó szervezet részére vagy érdekében tevékenységet végző személy, aki az ott meghatározott bűncselekményt követi el.
 
-(5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja.
+(5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben és a (3) bekezdés a) pontjában meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja.
+
+(6) E § alkalmazásában az egészségügyi szolgáltatással összefüggésben jogtalan előnynek minősül az egészségügyről szóló törvényben meghatározottak szerinti jogtalan előny.
 
 #### 292. §
 
@@ -3579,7 +3604,7 @@ terjedő szabadságvesztés.
 
 ### Hivatali vesztegetés elfogadása
 
-294. § (1) Az a hivatalos személy, aki a működésével kapcsolatban jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+294. § (1) Az a hivatalos személy, aki a működésével kapcsolatban jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személy által kért vagy harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt vezető beosztású hivatalos személy követi el.
 
@@ -3605,7 +3630,7 @@ terjedő szabadságvesztés.
 
 ### Vesztegetés elfogadása bírósági vagy hatósági eljárásban
 
-296. § (1) Aki azért, hogy a bírósági, választottbírósági vagy hatósági eljárásban törvényes jogait ne gyakorolja, vagy kötelezettségeit ne teljesítse, jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+296. § (1) Aki azért, hogy a bírósági, választottbírósági vagy hatósági eljárásban törvényes jogait ne gyakorolja, vagy kötelezettségeit ne teljesítse, jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személy által kért vagy harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Az (1) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt törvénnyel kihirdetett nemzetközi szerződéssel vagy az Egyesült Nemzetek Biztonsági Tanácsa kötelező határozatával létrehozott nemzetközi büntető bíróság, illetve az Európai Unió Bírósága előtt folyamatban lévő eljárás során vagy azzal kapcsolatban követi el.
 
@@ -3632,13 +3657,15 @@ előnyt ad vagy ígér, bűntett miatt három évig terjedő szabadságvesztéss
 
 ### Befolyással üzérkedés
 
-299. § (1) Aki arra hivatkozással, hogy hivatalos személyt befolyásol, a maga vagy más számára jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+299. § (1) Aki arra hivatkozással, hogy hivatalos személyt befolyásol, a maga vagy más számára jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személy által kért vagy harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az elkövető
 
 - a) azt állítja vagy azt a látszatot kelti, hogy hivatalos személyt veszteget,
 - b) hivatalos személynek adja ki magát, vagy
 - c) a bűncselekményt üzletszerűen követi el.
+
+(2a) A (2) bekezdés szerint büntetendő, aki magát hivatalos személynek kiadva e színlelt működésével kapcsolatban jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja.
 
 (3) Aki az (1) bekezdésében meghatározott bűncselekményt gazdálkodó szervezet részére vagy érdekében tevékenységet végző személlyel kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
@@ -3817,7 +3844,7 @@ a (4) bekezdésben meghatározott személy elleni erőszakos, közveszélyt okoz
 (2) Az (1) bekezdés szerint büntetendő, aki
 
 - a) az (1) bekezdés a) pontjában meghatározott célból jelentős anyagi javakat kerít hatalmába, és azok sértetlenül hagyását vagy visszaadását állami szervhez vagy nemzetközi szervezethez intézett követelés teljesítésétől teszi függővé, vagy
-- b) terrorista csoportot szervez.
+- b) terrorista csoportot szervez vagy irányít.
 
 (3) Korlátlanul enyhíthető annak a büntetése, aki
 
@@ -3836,7 +3863,7 @@ ha ezzel közreműködik a bűncselekmény következményeinek megakadályozás�
 - f) a jármű hatalomba kerítése [320. § (1)–(2) bekezdés], a közveszély okozása [322. § (1)–(3) bekezdés], a közérdekű üzem működésének megzavarása [323. § (1)–(3) bekezdés], a robbanóanyaggal vagy robbantószerrel visszaélés [324. § (1)–(2) bekezdés], a lőfegyverrel vagy lőszerrel visszaélés [325. § (1)–(3) bekezdés],
 - g) a nemzetközi szerződés által tiltott fegyverrel visszaélés [326. § (1)–(5) bekezdés], a haditechnikai termékkel vagy szolgáltatással visszaélés [329. § (1)–(3) bekezdés], a kettős felhasználású termékkel visszaélés [330. § (1)–(2) bekezdés],
 - h) a rablás [365. § (1)–(4) bekezdés] és a rongálás [371. § (1)–(6) bekezdés],
-- i) az információs rendszer vagy adat megsértése [423. § (1)–(4) bekezdés].
+- i) az információs rendszer felhasználásával elkövetett csalás [375. § (2)–(4) bekezdés], az információs rendszer vagy adat megsértése [423. § (1)–(4) bekezdés].
 
 315. § (1) Aki a 314. § (1) vagy (2) bekezdésében meghatározott bűntett elkövetésére felhív, ajánlkozik, vállalkozik, a közös elkövetésben megállapodik, vagy az elkövetés elősegítése céljából az ehhez szükséges vagy ezt könnyítő feltételeket biztosítja, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
@@ -3995,10 +4022,10 @@ bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel bünteten
 
 325. § (1) Aki
 
-- a) lőfegyvert engedély nélkül megszerez vagy tart,
+- a) működőképes lőfegyvert engedély nélkül megszerez vagy tart,
 - b) lőfegyvert engedély nélkül készít vagy forgalomba hoz,
-- c) lőfegyvert engedély nélkül vagy az engedély kereteit túllépve az ország területére behoz, onnan kivisz, vagy azon átszállít,
-- d) a lőfegyver készítésére, megszerzésére, tartására vagy kereskedelmére vonatkozó engedély kereteit túllépi,
+- c) működőképes lőfegyvert engedély nélkül vagy az engedély kereteit túllépve az ország területére behoz, onnan kivisz, vagy azon átszállít,
+- d) a lőfegyver készítésére, kereskedelmére, illetve a működőképes lőfegyver megszerzésére, tartására vonatkozó engedély kereteit túllépi,
 - e) engedéllyel tartott lőfegyverét engedéllyel nem rendelkezőnek átadja,
 
 bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
@@ -4090,7 +4117,7 @@ követik el.
 - b) pénzeszközök zárolásán a 267/2012/EU rendelet 1. cikk k) pontjában meghatározottakat,
 - c) gazdasági forráson a 267/2012/EU rendelet 1. cikk h) pontjában meghatározott eszközöket,
 - d) gazdasági források zárolásán a 267/2012/EU rendelet 1. cikk j) pontjában meghatározott eszközöket,
-- e) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható árun egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló 2005. június 27-i 1236/2005/EK tanácsi rendelet (e fejezet alkalmazásában a továbbiakban: 1236/2005/EK rendelet) II. mellékletében meghatározott árut
+- e) a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható árun egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet (e fejezet alkalmazásában a továbbiakban: (EU) 2019/125 európai parlamenti és tanácsi rendelet) II. mellékletében meghatározott árut
 
 kell érteni.
 
@@ -4122,8 +4149,8 @@ bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel bünteten
 (5) E § alkalmazásában
 
 - a) engedélyen a Nemzetközi Importigazolást, valamint az ezeket helyettesítő okmányokat is érteni kell,
-- b) haditechnikai terméken az 1236/2005/EK rendelet III. mellékletében meghatározott árut is érteni kell,
-- c) tiltott haditechnikai termék: az 1236/2005/EK rendelet II. mellékletében meghatározott áru.
+- b) haditechnikai terméken az (EU) 2019/125 európai parlamenti és tanácsi rendelet III. mellékletében meghatározott árut is érteni kell,
+- c) tiltott haditechnikai termék: az (EU) 2019/125 európai parlamenti és tanácsi rendelet II. mellékletében meghatározott áru.
 
 ### Kettős felhasználású termékkel visszaélés
 
@@ -4976,52 +5003,7 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés két évig terjedő szabadságvesztés, ha a jogtalan elsajátítást védett kulturális javak körébe tartozó tárgyra vagy régészeti leletre követik el.
 
-### Orgazdaság
-
-379. § (1) Aki
-
-- a) költségvetési csalásból származó vámellenőrzés alól elvont nem közösségi árut,
-- b) jövedéki adózás alól elvont terméket, vagy
-- c) lopásból, sikkasztásból, csalásból, hűtlen kezelésből, rablásból, kifosztásból, zsarolásból, jogtalan elsajátításból vagy orgazdaságból származó dolgot
-
-vagyoni haszon végett megszerez, elrejt, vagy elidegenítésében közreműködik, orgazdaságot követ el.
-
-(2) A büntetés vétség miatt két évig terjedő szabadságvesztés, ha az orgazdaságot
-
-- a) kisebb értékre vagy
-- b) szabálysértési értékre üzletszerűen
-
-követik el.
-
-(3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az orgazdaságot
-
-- a) nagyobb értékre,
-- b) védett kulturális javak körébe tartozó tárgyra, műemlékre, régészeti lelőhelyre vagy régészeti leletre,
-- c) kisebb értékű nemesfémre vagy
-- d) kisebb értékre üzletszerűen
-
-követik el.
-
-(4) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az orgazdaságot
-
-- a) jelentős értékre vagy
-- b) nagyobb értékre üzletszerűen
-
-követik el.
-
-(5) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az orgazdaságot
-
-- a) különösen nagy értékre vagy
-- b) jelentős értékre üzletszerűen
-
-követik el.
-
-(6) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha az orgazdaságot
-
-- a) különösen jelentős értékre vagy
-- b) különösen nagy értékre üzletszerűen
-
-követik el.
+#### 379. §
 
 ### Jármű önkényes elvétele
 
@@ -5048,7 +5030,7 @@ követik el.
 
 ### Magánindítvány
 
-382. § Lopás, rongálás, sikkasztás, csalás, információs rendszer felhasználásával elkövetett csalás, hűtlen kezelés, jogtalan elsajátítás, orgazdaság, illetve jármű önkényes elvétele miatt az elkövető csak magánindítványra büntethető, ha a sértett a hozzátartozója. Ez a rendelkezés nem alkalmazható, ha az elkövető egyben a sértett gyámja vagy gondnoka.
+382. § Lopás, rongálás, sikkasztás, csalás, információs rendszer felhasználásával elkövetett csalás, hűtlen kezelés, jogtalan elsajátítás, illetve jármű önkényes elvétele miatt az elkövető csak magánindítványra büntethető, ha a sértett a hozzátartozója. Ez a rendelkezés nem alkalmazható, ha az elkövető egyben a sértett gyámja vagy gondnoka.
 
 ### Értelmező rendelkezések
 
@@ -5257,7 +5239,7 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 - a) egy vagy több olyan készpénz-helyettesítő fizetési eszközt, amely nem vagy nem kizárólag a sajátja, vagy amelynek a használatára nem vagy nem kizárólagosan jogosult, mástól, annak beleegyezése nélkül, jogtalanul elvesz vagy megszerez,
 - b) hamis vagy meghamisított, az a) pontban meghatározott módon elvett vagy megszerzett készpénz-helyettesítő fizetési eszközt, vagy az elektronikus készpénz-helyettesítő fizetési eszközön tárolt adatokat vagy az ahhoz kapcsolódó biztonsági elemeket átad, megszerez, az ország területére behoz, onnan kivisz, vagy azon átszállít,
 
-vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a készpénz-helyettesítő fizetési eszközzel visszaélést bűnszövetségben vagy üzletszerűen követik el.
 
@@ -5265,9 +5247,9 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 ### Készpénz-helyettesítő fizetési eszköz hamisításának elősegítése
 
-394. § (1) Aki készpénz-helyettesítő fizetési eszköz hamisításához vagy a készpénzhelyesítő fizetési eszközön lévő adat technikai eszközzel való rögzítéséhez szükséges anyagot, eszközt, berendezést vagy számítástechnikai programot készít, megszerez, tart, átad, forgalomba hoz, az ország területére behoz, onnan kivisz, vagy azon átszállít, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+394. § (1) Aki készpénz-helyettesítő fizetési eszköz hamisításához vagy a készpénzhelyesítő fizetési eszközön lévő adat technikai eszközzel való rögzítéséhez szükséges anyagot, eszközt, berendezést vagy számítástechnikai programot készít, megszerez, tart, átad, forgalomba hoz, az ország területére behoz, onnan kivisz, vagy azon átszállít, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés két évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt bűnszövetségben vagy üzletszerűen követik el.
+(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt bűnszövetségben vagy üzletszerűen követik el.
 
 ### XXXIX. Fejezet — A KÖLTSÉGVETÉST KÁROSÍTÓ BŰNCSELEKMÉNYEK
 
@@ -5283,17 +5265,16 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 - a) költségvetésbe történő befizetési kötelezettség vagy költségvetésből származó pénzeszközök vonatkozásában mást tévedésbe ejt, tévedésben tart, valótlan tartalmú nyilatkozatot tesz, vagy a valós tényt elhallgatja,
 - b) költségvetésbe történő befizetési kötelezettséggel kapcsolatos kedvezményt jogtalanul vesz igénybe, vagy
-- c) költségvetésből származó pénzeszközöket a jóváhagyott céltól eltérően használ fel, és ezzel egy vagy több költségvetésnek vagyoni hátrányt okoz, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+- c) költségvetésből származó pénzeszközöket a jóváhagyott céltól eltérően használ fel,
 
-(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha
+és ezzel egy vagy több költségvetésnek vagyoni hátrányt okoz, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-- a) a költségvetési csalás nagyobb vagyoni hátrányt okoz, illetve
-- b) az (1) bekezdésben meghatározott költségvetési csalást bűnszövetségben vagy üzletszerűen követik el.
+(2)
 
 (3) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha
 
 - a) a költségvetési csalás jelentős vagyoni hátrányt okoz, vagy
-- b) a nagyobb vagyoni hátrányt okozó költségvetési csalást bűnszövetségben vagy üzletszerűen követik el.
+- b) az (1) bekezdésben meghatározott költségvetési csalást bűnszövetségben vagy üzletszerűen követik el.
 
 (4) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha
 
@@ -5355,53 +5336,57 @@ meghaladja.
 
 ### Pénzmosás
 
-399. § (1) Aki más által elkövetett büntetendő cselekményből származó
+399. § (1) Aki a büntetendő cselekményből származó vagyon eredetét, a vagyonon fennálló jogot, a vagyon helyét, ezek változását elfedi vagy elleplezi, pénzmosást követ el.
 
-- a) dolgot átalakítja, átruházza, vagy a dologgal összefüggésben bármilyen pénzügyi tevékenységet végez, vagy pénzügyi szolgáltatást vesz igénybe abból a célból, hogy
-  - aa) az ilyen dolog eredetét eltitkolja, elleplezze, vagy
-  - ab) a más által elkövetett büntetendő cselekmény elkövetőjével szemben folytatott büntetőeljárást meghiúsítsa,
-- b) dolog eredetét, az ilyen dolgon fennálló jogot vagy az e jogban bekövetkezett változásokat, az ilyen dolog helyének változását vagy azt a helyet, ahol az ilyen dolog található, eltitkolja, vagy elleplezi,
+(2) Pénzmosást követ el az is, aki a büntetendő cselekményből származó vagyon eredetének, a vagyonon fennálló jognak, a vagyon helyének, ezek változásának elfedése vagy elleplezése céljából a vagyont mástól átveszi, elrejti, átalakítja, átruházza, elidegenítésében közreműködik, felhasználja, azzal összefüggésben pénzügyi tevékenységet végez, pénzügyi szolgáltatást vesz igénybe, vagy arról rendelkezik.
 
-bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+(3) Pénzmosást követ el az is, aki a büntetendő cselekményből származó vagyon mástól való átvételével, elrejtésével, átalakításával, átruházásával, elidegenítésében való közreműködéssel, felhasználásával, az azzal összefüggésben végzett pénzügyi tevékenységgel, pénzügyi szolgáltatás igénybevételével, vagy az arról való rendelkezéssel
 
-(2) Az (1) bekezdés szerint büntetendő, aki a más által elkövetett büntetendő cselekményből származó dolgot
+- a) közreműködik a mással szembeni vagyonelkobzás, illetve vagyonvisszaszerzés meghiúsításában, vagy
+- b) a mással szembeni vagyonelkobzás, illetve vagyonvisszaszerzés meghiúsítására törekszik.
 
-- a) magának vagy harmadik személynek megszerzi,
-- b) megőrzi, kezeli, használja vagy felhasználja, azon vagy az ellenértékén más anyagi javakat szerez,
+(4) Pénzmosást követ el az is, aki a más által elkövetett büntetendő cselekményből származó vagyont
 
-ha a dolog eredetét az elkövetés időpontjában ismerte.
+- a) megszerzi, felette rendelkezési jogosultságot szerez, vagy
+- b) megőrzi, elrejti, kezeli, használja, felhasználja, átalakítja, átruházza, elidegenítésében közreműködik.
 
-(3) Az (1) bekezdés szerint büntetendő, aki büntetendő cselekményének elkövetéséből származó dolgot ezen eredetének leplezése, titkolása céljából
+(5) A büntetés bűntett miatt öt évig terjedő szabadságvesztés, ha a pénzmosást jelentős értéket meg nem haladó értékre követik el.
 
-- a) gazdasági tevékenység gyakorlása során felhasználja,
-- b) a dologgal összefüggésben bármilyen pénzügyi tevékenységet végez, vagy pénzügyi szolgáltatást vesz igénybe.
+(6) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a pénzmosást
 
-(4) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az (1)–(3) bekezdésben meghatározott pénzmosást
-
-- a) üzletszerűen,
-- b) különösen nagy vagy azt meghaladó értékre,
-- c) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként,
-- d) hivatalos személyként vagy
-- e) ügyvédként
+- a) különösen nagy értékre, vagy
+- b) jelentős értékre
+  - ba) üzletszerűen,
+  - bb) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott szolgáltatóként, annak tisztségviselőjeként vagy alkalmazottjaként a szolgáltató tevékenységével összefüggésben, vagy
+  - bc) hivatalos személyként
 
 követik el.
 
-(5) Aki az (1)–(4) bekezdésben meghatározott pénzmosás elkövetésében megállapodik, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(7) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a pénzmosást
 
-400. § (1) Aki a más által elkövetett büntetendő cselekményből származó
+- a) különösen jelentős értékre, vagy
+- b) különösen nagy értékre
+  - ba) üzletszerűen,
+  - bb) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott szolgáltatóként, annak tisztségviselőjeként vagy alkalmazottjaként a szolgáltató tevékenységével összefüggésben, vagy
+  - bc) hivatalos személyként
 
-- a) dolgot gazdasági tevékenység gyakorlása során felhasználja,
-- b) dologgal összefüggésben bármilyen pénzügyi tevékenységet végez, vagy pénzügyi szolgáltatást vesz igénybe, és gondatlanságból nem tud a dolog ezen eredetéről, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+követik el.
 
-(2) A büntetés három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt
+(8) Aki pénzmosásra irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+(9) Nem büntethető a felbujtó vagy a bűnsegéd, ha a (3) vagy a (4) bekezdésben meghatározott bűncselekményt az általa elkövetetett büntetendő cselekményből származó vagyonra követi el.
+
+400. § (1) Aki a más által elkövetett büntetendő cselekményből származó vagyont elrejti, átalakítja, átruházza, elidegenítésében közreműködik, felhasználja, azzal összefüggésben pénzügyi tevékenységet végez, pénzügyi szolgáltatást vesz igénybe vagy arról rendelkezik, és gondatlanságból nem tud a vagyon eredetéről, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés vétség miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt
 
 - a) különösen nagy vagy azt meghaladó értékre,
-- b) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként, illetve
+- b) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott szolgáltatóként, annak tisztségviselőjeként vagy alkalmazottjaként a szolgáltató tevékenységével összefüggésben, vagy
 - c) hivatalos személyként
 
 követik el.
 
-(3) Nem büntethető az (1)–(2) bekezdésben meghatározott pénzmosás miatt, aki a hatóságnál önként feljelentést tesz, és az elkövetés körülményeit feltárja, feltéve, hogy a bűncselekményt még nem vagy csak részben fedezték fel.
+(3) Nem büntethető az (1) és (2) bekezdésben meghatározott pénzmosás miatt, aki a hatóságnál önként feljelentést tesz, és az elkövetés körülményeit feltárja, feltéve, hogy a bűncselekményt még nem vagy csak részben fedezték fel.
 
 ### A pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása
 
@@ -5409,7 +5394,7 @@ követik el.
 
 ### Értelmező rendelkezés
 
-402. § (1) A 399–400. § alkalmazásában dolgon a vagyoni jogosultságot megtestesítő olyan okiratot, dematerializált értékpapírt is érteni kell, amely a benne tanúsított vagyoni érték vagy jogosultság feletti rendelkezést önmagában, illetve dematerializált formában kibocsátott értékpapír esetén az értékpapírszámla jogosultjának biztosítja.
+402. § (1)
 
 (2) A 399–400. § alkalmazásában pénzügyi tevékenységen, illetve pénzügyi szolgáltatás igénybevételén a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási vagy befektetési szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealapkezelési, tőzsdei, központi értéktári vagy központi szerződő fél, vagy biztosítási, viszontbiztosítási vagy független biztosításközvetítői, illetve önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy foglalkoztatói nyugdíj-szolgáltatási tevékenységet, illetve annak igénybevételét kell érteni.
 
@@ -5707,6 +5692,12 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 - d) jelentős érdeksérelmet okozva
 
 követik el.
+
+422/A. § (1) Aki pilóta nélküli légi jármű jogosulatlan használatával más lakását, egyéb helyiségét, vagy ezekhez tartozó bekerített helyet megfigyeli és az ott történteket rögzíti, ha más bűncselekmény nem valósul meg, vétség miatt elzárással büntetendő.
+
+(2) Egy évig terjedő szabadságvesztéssel büntetendő, ha más bűncselekmény nem valósul meg, aki az (1) bekezdésben meghatározott megfigyelés során készített hang- vagy képfelvételt a nagy nyilvánosság számára hozzáférhetővé teszi.
+
+(3) Az (1)–(2) bekezdésben meghatározott bűncselekmény csak magánindítványra büntethető.
 
 ### Információs rendszer vagy adat megsértése
 
@@ -6116,7 +6107,7 @@ kivonja magát, bűntett miatt öt évtől tizenöt évig terjedő szabadságves
 - 3. csoportosan követik el a bűncselekményt, ha az elkövetésben legalább három személy vesz részt;
 - 4. erőszakos magatartásnak minősül a más személyre gyakorolt támadó jellegű fizikai ráhatás is, abban az esetben is, ha az nem alkalmas testi sérülés okozására;
 - 5. fegyveresen követi el a bűncselekményt, aki
-  - a) lőfegyvert,
+  - a) működőképes lőfegyvert,
   - b) robbanóanyagot,
   - c) robbantószert,
   - d) robbanóanyag vagy robbantószer felhasználására szolgáló készüléket
@@ -6152,19 +6143,21 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - c) a polgárőr a polgárőrségről és a polgárőri tevékenység szabályairól szóló törvényben meghatározott tevékenységének ellátása során,
   - d) az egyházi személy és a vallási egyesület vallásos szertartást hivatásszerűen végző tagja,
   - e) a bírósági vagy más hatósági eljárásban a védő, a jogi képviselő, a szakértő, és a hivatalos személynek nem minősülő kézbesítési végrehajtó,
-  - f) az egészségügyi dolgozó és az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló más személy az egészségügyről szóló törvényben meghatározott esetekben,
+  - f) az egészségügyi dolgozó, az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszonyban álló más személy és a betegjogi képviselő az egészségügyről szóló törvényben meghatározott esetekben,
   - g) az állami mentőszolgálat, valamint a mentésre feljogosított más szervezet tagja a mentéssel és betegszállítással összefüggésben,
   - h) az önkormányzati és a létesítményi tűzoltóság, valamint az önkéntes tűzoltó egyesület tagja a tűzoltási és műszaki mentési feladatainak ellátása során,
   - i) a nemzeti köznevelésről szóló törvényben meghatározott esetben a pedagógus, valamint a nevelő és oktató munkát közvetlenül segítő alkalmazott, a szakképzésről szóló törvényben meghatározott esetben az oktató, továbbá a nemzeti felsőoktatásról szóló törvényben meghatározott esetben a felsőoktatási intézmény oktatója, tanára és tudományos kutatója,
   - j) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben, valamint a szociális igazgatásról és a szociális ellátásokról szóló törvényben meghatározott munkakörben foglalkoztatott személy e tevékenységének gyakorlása során,
   - k) az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet tagja az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott tevékenysége körében,
   - l) a hivatásos vadász a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben meghatározott tevékenysége körében,
-  - m) a halászati őr a halászatról és a horgászatról szóló törvényben meghatározott tevékenysége körében,
+  - m) a halőr a halgazdálkodásról és a hal védelméről szóló törvényben meghatározott tevékenysége körében,
   - n) a közösségi közlekedési eszközt működtető gazdálkodó szervezetnél végrehajtói feladatot ellátó személy e tevékenysége során,
   - o) az egyetemes postai szolgáltatónál ügyfélkapcsolati feladatot ellátó személy e tevékenysége során,
-  - p) az iskolaőr a Rendőrségről szóló törvényben meghatározott tevékenysége körében.
+  - p) az iskolaőr a Rendőrségről szóló törvényben meghatározott tevékenysége körében,
+  - q) a fegyveres biztonsági őr a szolgálatának teljesítése során,
+  - r) az országos és a helyi közutakon, az állam vagy a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozás biztosítását célzó parkolási közszolgáltatást a közúti közlekedésről szóló törvény szerint ellátó szervezetnél a parkolóhelyek rendeltetésszerű működtetését és a parkolóhelyek rendeltetésszerű használatának ellenőrzését végző személy e tevékenysége során.
 - 13. külföldi hivatalos személy:
-  - a) a külföldi államban jogalkotási, igazságszolgáltatási, közigazgatási vagy bűnüldözési feladatot ellátó személy,
+  - a) a külföldi államban jogalkotási, igazságszolgáltatási, közigazgatási vagy bűnüldözési feladatot ellátó személy, illetve külföldi államban közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, ideértve a köztestületben vagy az állami vagy önkormányzati vállalkozásban ilyen feladatot ellátó vagy szolgálatot teljesítő személyt is,
   - b) törvényben kihirdetett nemzetközi szerződéssel létrehozott nemzetközi szervezetnél szolgálatot teljesítő személy, akinek a tevékenysége a szervezet rendeltetésszerű működéséhez tartozik,
   - c) törvényben kihirdetett nemzetközi szerződéssel létrehozott nemzetközi szervezet közgyűlésébe, testületébe megválasztott személy, ideértve a külföldön megválasztott európai parlamenti képviselőt is,
   - d) a Magyarország területén, illetve állampolgárai felett joghatósággal rendelkező nemzetközi bíróság tagja, a nemzetközi bíróságnál szolgálatot teljesítő személy, akinek a tevékenysége a bíróság rendeltetésszerű működéséhez tartozik;
@@ -6205,7 +6198,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - b) a hadikövet elleni erőszak (148. §), a védett személyek elleni erőszak [149. § (1)–(2) és (4) bekezdés], az egyéb háborús bűntett (158. §),
   - c) az emberölés [160. § (1)–(3) és (5) bekezdés], az erős felindulásban elkövetett emberölés (161. §), a testi sértés [164. § (3)–(6) és (8) bekezdés],
   - d) az emberrablás [190. § (1)–(4) bekezdés], az emberkereskedelem és kényszermunka [192. § (1)–(6) bekezdés], a személyi szabadság megsértése (194. §), a kényszerítés (195. §),
-  - e) a szexuális kényszerítés (196. §), a szexuális erőszak [197. § (1)–(4) bekezdés],
+  - e) a szexuális kényszerítés (196. §), a szexuális erőszak [197. § (1)–(4a) bekezdés], kapcsolati erőszak (212/A. §),
   - f) a lelkiismeret és vallásszabadság megsértése (215. §), a közösség tagja elleni erőszak [216. § (2)–(3) bekezdés], az egyesülési és a gyülekezési szabadság megsértése [217. § (1) bekezdés];
   - g) az alkotmányos rend erőszakos megváltoztatása [254. § (1) bekezdés], a lázadás [256. § (1)–(2) bekezdés],
   - h) a bántalmazás hivatalos eljárásban [301. § (1)–(2) bekezdés], a bántalmazás közfeladatot ellátó személy eljárásában [302. § (1)–(2) bekezdés], a kényszervallatás [303. § (1)–(2) bekezdés], a jogellenes fogvatartás (304. §),
@@ -6222,6 +6215,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - b) többszörös visszaeső az, akit a szándékos bűncselekmény elkövetését megelőzően visszaesőként végrehajtandó szabadságvesztésre ítéltek, és az utolsó büntetés kitöltésétől vagy végrehajthatósága megszűnésétől a szabadságvesztéssel fenyegetett újabb bűncselekmény elkövetéséig három év még nem telt el;
   - c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el;
 - 32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló mentességet élvez.
+- 33. új pszichoaktív anyag: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott anyag.
 
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 
@@ -6293,6 +6287,23 @@ mértékét meghaladja.
 - b) jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának száznegyvenszeres mértékét meghaladja,
 - c) különösen jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának ezernégyszázszoros mértékét meghaladja.
 
+(5) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma
+
+- a) az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló 55/2014. (XII. 30.) EMMI rendelet [a továbbiakban: 55/2014. (XII. 30.) EMMI rendelet] 1. mellékletében szereplő jegyzék 1. pontja szerinti vegyületcsoport esetében a 0,5 gramm,
+- b) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 2. pontja szerinti vegyületcsoport esetében az 1,5 gramm,
+- c) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 3. pontja szerinti vegyületcsoport esetében a 2 gramm,
+- d) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 4. pontja szerinti vegyületcsoport esetében az 1 gramm,
+- e) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 4a. pontja szerinti vegyületcsoport esetében a 0,1 gramm,
+- f) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 5. pontja szerinti anyagok esetében a 2 gramm
+
+mennyiséget nem haladja meg.
+
+(6) A 184–184/C. § alkalmazásában az új pszichoaktív anyag jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a csekély mennyiség felső határának húszszoros mértékét meghaladja.
+
+(7) A 184/B. és 184/C. § alkalmazásában az új pszichoaktív anyag különösen jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a csekély mennyiség felső határának kétszázszoros mértékét meghaladja.
+
+(8) Só formában előforduló vegyületek esetén tiszta hatóanyag-tartalom alatt a bázis formában megadott hatóanyag-tartalmat kell érteni.
+
 ### Egyes bűncselekmények értékhatára és szabálysértési alakzata
 
 462. § (1) Nem valósul meg bűncselekmény, ha
@@ -6305,21 +6316,22 @@ okozva követik el.
 (2) Nem bűncselekmény, hanem szabálysértés valósul meg, ha
 
 - a) a rongálást és a csalást ötvenezer forintot meg nem haladó kárt okozva,
-- b) a lopást, a sikkasztást, a jogtalan elsajátítást és az orgazdaságot ötvenezer forintot meg nem haladó értékre,
+- b) a lopást, a sikkasztást és a jogtalan elsajátítást ötvenezer forintot meg nem haladó értékre,
 - c) a hűtlen kezelést ötvenezer forintot meg nem haladó vagyoni hátrányt okozva,
 - d) a szerzői vagy szerzői joghoz kapcsolódó jogok megsértését százezer forintot meg nem haladó
   - da) üreshordozói díjra, illetve reprográfiai díjra nézve,
   - db) vagyoni hátrányt okozva,
 - e) az iparjogvédelmi jogok megsértését százezer forintot meg nem haladó vagyoni hátrányt okozva,
-- f) a rossz minőségű termék forgalomba hozatalát vagy a versenytárs utánzását százezer forintot meg nem haladó értékre
+- f) a rossz minőségű termék forgalomba hozatalát vagy a versenytárs utánzását százezer forintot meg nem haladó értékre,
+- g) a pénzmosást ötvenezer forintot meg nem haladó értékre, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 177. § (1a) bekezdésében meghatározottak szerint
 
 követik el.
 
-(3) Nem valósul meg bűncselekmény, illetve vámszabálysértés valósul meg, ha a költségvetési csalással okozott vagyoni hátrány a százezer forintot nem haladja meg.
+(3) Nem valósul meg bűncselekmény, illetve vámszabálysértés valósul meg, ha a költségvetési csalással okozott vagyoni hátrány az ötszázezer forintot nem haladja meg.
 
 (4) Bűncselekmény valósul meg, ha az ugyanazon elkövető által, egy éven belül elkövetett és együttesen elbírált
 
-- a) ugyanolyan tulajdon elleni szabálysértés esetén a dolog értéke, az okozott kár, illetve az okozott vagyoni hátrány a (2) bekezdés a)–c) pontjában meghatározott összeget,
+- a) ugyanolyan tulajdon elleni szabálysértés esetén a dolog értéke, az okozott kár, illetve az okozott vagyoni hátrány a (2) bekezdés a)–c) vagy g) pontjában meghatározott összeget,
 - b) szerzői vagy szerzői joghoz kapcsolódó jogok megsértése esetén az üreshordozó díj, illetve a reprográfiai díj a (2) bekezdés d) pontjában meghatározott összeget,
 - c) iparjogvédelmi jogok megsértése esetén a vagyoni hátrány a (2) bekezdés e) pontjában meghatározott összeget,
 - d) rossz minőségű termék forgalomba hozatala vagy a versenytárs utánzása esetén a termék, illetve áru értéke a (2) bekezdés f) pontjában meghatározott összeget,
@@ -6351,7 +6363,9 @@ követik el.
 - f) 375. §-a és XLIII. Fejezete az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló, 2013. augusztus 12-i 2013/40/EU európai parlamenti és tanácsi irányelvnek,
 - g) 389. §-a az euró bevezetésével kapcsolatos pénzhamisítás elleni, büntetőjogi és egyéb szankciókkal megvalósuló védelem megerősítésről szóló, 2000. május 29-i 2000/383/IB tanácsi kerethatározat 3–6. cikkének,
 - h) 392–394. §-a a nem készpénzes fizetőeszközökkel összefüggő csalás és hamisítás elleni küzdelemről szóló, 2001. május 28-i 2001/413/IB tanácsi kerethatározat 2., 4. és 6. cikkének,
-- i) 399–400. §-a a pénzügyi rendszereknek a pénzmosás, valamint terrorizmus finanszírozása céljára való felhasználásának megelőzéséről szóló, 2005. október 26-i 2005/60/EK európai parlamenti és tanácsi irányelvnek
+- i) 399–402. §-a
+  - ia) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelvnek,
+  - ib) a pénzmosás ellen büntetőjogi eszközökkel folytatott küzdelemről szóló, 2018. október 23-i (EU) 2018/1673 európai parlamenti és tanácsi irányelvnek,
 - j) 410–411. §-a és 414. §-a a piaci visszaélések büntetőjogi szankcióiról (piaci visszaélésekről) szóló 2014. április 16-i 2014/57/EU európai parlamenti és tanácsi irányelvnek,
 - k) 72–76. §-a a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek,
 - l) 219. §-a a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelvnek,
@@ -6365,11 +6379,11 @@ való megfelelést szolgálja.
 - a) 182–183. §-a
   - aa) a kábítószer-prekurzorokról szóló, 2004. február 11-i 273/2004/EK európai parlamenti és tanácsi rendelet, és
   - ab) a kábítószer-prekurzoroknak a Közösség és harmadik országok közötti kereskedelme nyomon követésére vonatkozó szabályok megállapításáról szóló, 2004. december 22-i 111/2005/EK tanácsi rendelet,
-- b) 327. §-a 1. az Egyesült Nemzetek Biztonsági Tanácsának 661/1990 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó iraki követelések kielégítésének tilalmáról szóló, 1992. december 7-i 3541/92/EGK tanácsi rendelet 5. cikkének, 2. az Egyesült Nemzetek Biztonsági Tanácsának 883/1993 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó követelések kielégítésének tilalmáról szóló, 1993. november 29-i 3275/93/EK tanácsi rendelet 5. cikkének, 3. az Egyesült Nemzetek Biztonsági Tanácsának a 917/1994, 841/1993, 873/1993, 875/1993 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó követelések a haiti hatóságok által történő kielégítésének tilalmáról szóló, 1994. május 30-i 1264/94/EK tanácsi rendelet 5. cikkének, 4. az Egyesült Nemzetek Biztonsági Tanácsának 757/1992 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó követelések kielégítésének tilalmáról szóló, 1994. július 11-i 1733/94/EK tanácsi rendelet 5. cikkének, 5. Milosevic úr és a környezetéhez tartozó személyek pénzkészletei befagyasztásának fenntartásáról és az 1294/1999/EK rendeletnek, a 607/2000/EK rendeletnek, valamint a 926/98/EK rendelet 2. cikkének hatályon kívül helyezéséről szóló, 2000. november 10-i 2488/2000/EK tanácsi rendelet 8. cikkének, 6. a terrorizmus leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedésekről szóló, 2001. december 17-i 2580/2001/EK tanácsi rendelet 9. cikkének, 7. az Oszáma bin Ládennel, az Al-Qaida hálózattal és a Tálibánnal összeköttetésben álló egyes személyekkel és szervezetekkel szemben meghatározott szigorító intézkedések bevezetéséről, valamint az egyes termékek és szolgáltatások Afganisztánba történő kivitelének tilalmáról, a repülési tilalom megerősítéséről és az afganisztáni Tálibánt illető pénzkészletek és egyéb pénzügyi források befagyasztásáról szóló, 2002. május 27-i 467/2001/EK tanácsi rendelet hatályon kívül helyezéséről szóló 881/2002/EK tanácsi rendelet 10. cikkének, 8. az Irakkal fennálló gazdasági és pénzügyi kapcsolatok egyes korlátozásairól és a 2465/96/EK rendelet hatályon kívül helyezéséről szóló, 2003. július 7-i 1210/2003/EK tanácsi rendelet 15. cikkének, 9. a Kongói Demokratikus Köztársasággal szembeni egyes korlátozó intézkedésekről szóló, 2003. szeptember 29-i 1727/2003/EK tanácsi rendelet 6. cikkének, 10. egyes, Libériával szembeni korlátozó intézkedésekről és az 1030/2003/EK rendelet hatályon kívül helyezéséről szóló, 2004. február 10-i 234/2004/EK tanácsi rendelet 11. cikkének, 11. az egyes, Zimbabwéval szembeni korlátozó intézkedésekről szóló, 2004. február 19-i 314/2004/EK tanácsi rendelet 12. cikkének, 12. a Burma/Myanmar tekintetében a korlátozó intézkedések megújításáról és az 1081/2000/EK rendelet hatályon kívül helyezéséről szóló, 2004. április 26-i 798/2004/EK tanácsi rendelet 13. cikkének, 13. a Libériával kapcsolatos további korlátozó intézkedésekről szóló, 2004. április 29-i 872/2004/EK tanácsi rendelet 12. cikkének, 14. a volt Jugoszláviában elkövetett humanitárius bűncselekményeket vizsgáló nemzetközi törvényszék (ICTY) megbízatása hatékony végrehajtásának támogatására irányuló egyes korlátozó intézkedések bevezetéséről szóló, 2004. október 11-i 1763/2004/EK tanácsi rendelet 11. cikkének, 15. az Elefántcsontpartnak nyújtott, katonai tevékenységekkel kapcsolatos segítségre vonatkozó korlátozások bevezetéséről szóló, 2005. január 31-i 174/2005/EK tanácsi rendelet 8. cikkének, 16. az elefántcsontparti helyzet tekintetében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedések bevezetéséről szóló, 2005. április 12-i 560/2005/EK tanácsi rendelet 12. cikkének, 17. egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2005. június 27-i 1236/2005/EK tanácsi rendelet – II. mellékletében meghatározott áruk tekintetében – 17. cikkének, 18. a Kongói Demokratikus Köztársaság tekintetében a fegyverembargót megsértő személyekkel szemben meghatározott, egyedi korlátozó intézkedések bevezetéséről szóló, 2005. július 18-i 1183/2005/EK tanácsi rendelet 10. cikkének, 19. a szudáni Darfur térségében zajló konfliktusban a békefolyamatot akadályozó és a nemzetközi jogot sértő cselekményt elkövető egyes személyekkel szemben meghatározott, egyedi korlátozó intézkedések bevezetéséről szóló, 2005. július 18-i 1184/2005/EK tanácsi rendelet 10. cikkének, 20. a Rafiq Hariri libanoni miniszterelnök meggyilkolásában való részvétellel gyanúsított egyes személyekkel szembeni egyedi korlátozó intézkedések bevezetéséről szóló, 2006. február 21-i 305/2006/EK tanácsi rendelet 9. cikkének, 21. a Lukasenko elnökkel és egyes fehérorosz tisztviselőkkel szembeni korlátozó intézkedésekről szóló, 2006. május 18-i 765/2006/EK tanácsi rendelet 9. cikkének, 22. a Burmával/Mianmarral szembeni korlátozó intézkedések megújításáról és a 798/2004/EK rendelet hatályon kívül helyezéséről szóló, 2006. május 29-i 817/2006/EK tanácsi rendelet 13. cikkének, 23. a Koreai Népi Demokratikus Köztársasággal szembeni korlátozó intézkedésekről szóló, 2007. március 29-i 329/2007/EK tanácsi rendelet 14. cikkének, 24. a szomáliai helyzet tekintetében egyes természetes vagy jogi személyekkel, szervezetekkel vagy testületekkel szemben hozott különleges korlátozó intézkedések bevezetéséről szóló, 2010. április 26-i 356/2010/EU tanácsi rendelet 15. cikkének, 25. az Eritreával szembeni egyes korlátozó intézkedésekről szóló, 2010. július 26-i 667/2010/EU tanácsi rendelet 14. cikkének, 26. az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló 2012. március 23-i 267/2012/EU tanácsi rendelet 47. cikkének, 27. a tunéziai helyzetre tekintettel egyes személyekkel, szervezetekkel és szervekkel szemben hozott korlátozó intézkedésekről szóló, 2011. február 4-i 101/2011/EU tanácsi rendelet 13. cikkének, 28. a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet 17. cikkének, 29. az egyiptomi helyzet tekintetében egyes személyekkel, szervezetekkel és szervekkel szemben hozott korlátozó intézkedésekről szóló, 2011. március 21-i 270/2011/EU tanácsi rendelet 13. cikkének, 30. a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. május 9-i 442/2011/EU tanácsi rendelet 15. cikkének,
+- b) 327. §-a 1. az Egyesült Nemzetek Biztonsági Tanácsának 661/1990 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó iraki követelések kielégítésének tilalmáról szóló, 1992. december 7-i 3541/92/EGK tanácsi rendelet 5. cikkének, 2. az Egyesült Nemzetek Biztonsági Tanácsának 883/1993 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó követelések kielégítésének tilalmáról szóló, 1993. november 29-i 3275/93/EK tanácsi rendelet 5. cikkének, 3. az Egyesült Nemzetek Biztonsági Tanácsának a 917/1994, 841/1993, 873/1993, 875/1993 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó követelések a haiti hatóságok által történő kielégítésének tilalmáról szóló, 1994. május 30-i 1264/94/EK tanácsi rendelet 5. cikkének, 4. az Egyesült Nemzetek Biztonsági Tanácsának 757/1992 számú határozata és a kapcsolódó határozatok által a teljesítés tekintetében érintett szerződésekhez és ügyletekhez kapcsolódó követelések kielégítésének tilalmáról szóló, 1994. július 11-i 1733/94/EK tanácsi rendelet 5. cikkének, 5. Milosevic úr és a környezetéhez tartozó személyek pénzkészletei befagyasztásának fenntartásáról és az 1294/1999/EK rendeletnek, a 607/2000/EK rendeletnek, valamint a 926/98/EK rendelet 2. cikkének hatályon kívül helyezéséről szóló, 2000. november 10-i 2488/2000/EK tanácsi rendelet 8. cikkének, 6. a terrorizmus leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedésekről szóló, 2001. december 17-i 2580/2001/EK tanácsi rendelet 9. cikkének, 7. az Oszáma bin Ládennel, az Al-Qaida hálózattal és a Tálibánnal összeköttetésben álló egyes személyekkel és szervezetekkel szemben meghatározott szigorító intézkedések bevezetéséről, valamint az egyes termékek és szolgáltatások Afganisztánba történő kivitelének tilalmáról, a repülési tilalom megerősítéséről és az afganisztáni Tálibánt illető pénzkészletek és egyéb pénzügyi források befagyasztásáról szóló, 2002. május 27-i 467/2001/EK tanácsi rendelet hatályon kívül helyezéséről szóló 881/2002/EK tanácsi rendelet 10. cikkének, 8. az Irakkal fennálló gazdasági és pénzügyi kapcsolatok egyes korlátozásairól és a 2465/96/EK rendelet hatályon kívül helyezéséről szóló, 2003. július 7-i 1210/2003/EK tanácsi rendelet 15. cikkének, 9. a Kongói Demokratikus Köztársasággal szembeni egyes korlátozó intézkedésekről szóló, 2003. szeptember 29-i 1727/2003/EK tanácsi rendelet 6. cikkének, 10. egyes, Libériával szembeni korlátozó intézkedésekről és az 1030/2003/EK rendelet hatályon kívül helyezéséről szóló, 2004. február 10-i 234/2004/EK tanácsi rendelet 11. cikkének, 11. az egyes, Zimbabwéval szembeni korlátozó intézkedésekről szóló, 2004. február 19-i 314/2004/EK tanácsi rendelet 12. cikkének, 12. a Burma/Myanmar tekintetében a korlátozó intézkedések megújításáról és az 1081/2000/EK rendelet hatályon kívül helyezéséről szóló, 2004. április 26-i 798/2004/EK tanácsi rendelet 13. cikkének, 13. a Libériával kapcsolatos további korlátozó intézkedésekről szóló, 2004. április 29-i 872/2004/EK tanácsi rendelet 12. cikkének, 14. a volt Jugoszláviában elkövetett humanitárius bűncselekményeket vizsgáló nemzetközi törvényszék (ICTY) megbízatása hatékony végrehajtásának támogatására irányuló egyes korlátozó intézkedések bevezetéséről szóló, 2004. október 11-i 1763/2004/EK tanácsi rendelet 11. cikkének, 15. az Elefántcsontpartnak nyújtott, katonai tevékenységekkel kapcsolatos segítségre vonatkozó korlátozások bevezetéséről szóló, 2005. január 31-i 174/2005/EK tanácsi rendelet 8. cikkének, 16. az elefántcsontparti helyzet tekintetében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedések bevezetéséről szóló, 2005. április 12-i 560/2005/EK tanácsi rendelet 12. cikkének, 17. egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet – II. mellékletében meghatározott áruk tekintetében – 33. cikkének, 18. a Kongói Demokratikus Köztársaság tekintetében a fegyverembargót megsértő személyekkel szemben meghatározott, egyedi korlátozó intézkedések bevezetéséről szóló, 2005. július 18-i 1183/2005/EK tanácsi rendelet 10. cikkének, 19. a szudáni Darfur térségében zajló konfliktusban a békefolyamatot akadályozó és a nemzetközi jogot sértő cselekményt elkövető egyes személyekkel szemben meghatározott, egyedi korlátozó intézkedések bevezetéséről szóló, 2005. július 18-i 1184/2005/EK tanácsi rendelet 10. cikkének, 20. a Rafiq Hariri libanoni miniszterelnök meggyilkolásában való részvétellel gyanúsított egyes személyekkel szembeni egyedi korlátozó intézkedések bevezetéséről szóló, 2006. február 21-i 305/2006/EK tanácsi rendelet 9. cikkének, 21. a Lukasenko elnökkel és egyes fehérorosz tisztviselőkkel szembeni korlátozó intézkedésekről szóló, 2006. május 18-i 765/2006/EK tanácsi rendelet 9. cikkének, 22. a Burmával/Mianmarral szembeni korlátozó intézkedések megújításáról és a 798/2004/EK rendelet hatályon kívül helyezéséről szóló, 2006. május 29-i 817/2006/EK tanácsi rendelet 13. cikkének, 23. a Koreai Népi Demokratikus Köztársasággal szembeni korlátozó intézkedésekről szóló, 2007. március 29-i 329/2007/EK tanácsi rendelet 14. cikkének, 24. a szomáliai helyzet tekintetében egyes természetes vagy jogi személyekkel, szervezetekkel vagy testületekkel szemben hozott különleges korlátozó intézkedések bevezetéséről szóló, 2010. április 26-i 356/2010/EU tanácsi rendelet 15. cikkének, 25. az Eritreával szembeni egyes korlátozó intézkedésekről szóló, 2010. július 26-i 667/2010/EU tanácsi rendelet 14. cikkének, 26. az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló 2012. március 23-i 267/2012/EU tanácsi rendelet 47. cikkének, 27. a tunéziai helyzetre tekintettel egyes személyekkel, szervezetekkel és szervekkel szemben hozott korlátozó intézkedésekről szóló, 2011. február 4-i 101/2011/EU tanácsi rendelet 13. cikkének, 28. a líbiai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. március 2-i 204/2011/EU tanácsi rendelet 17. cikkének, 29. az egyiptomi helyzet tekintetében egyes személyekkel, szervezetekkel és szervekkel szemben hozott korlátozó intézkedésekről szóló, 2011. március 21-i 270/2011/EU tanácsi rendelet 13. cikkének, 30. a szíriai helyzetre tekintettel korlátozó intézkedések meghozataláról szóló, 2011. május 9-i 442/2011/EU tanácsi rendelet 15. cikkének, 31. a nicaraguai helyzetre tekintettel hozott korlátozó intézkedésekről szóló, 2019. október 14-i (EU) 2019/1716 tanácsi rendelet 15. cikkének
 - c) 329–330. §-a
-  - ca) egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2005. június 27-i 1236/2005/EK tanácsi rendelet – III. mellékletében meghatározott áruk tekintetében – 17. cikkének,
+  - ca) egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet – III. mellékletében meghatározott áruk tekintetében – 33. cikkének,
   - cb) a kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i 428/2009/EK tanácsi rendelet 24. cikkének,
-- d) 219. §-a a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.
+- d) 219. §-a a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet)
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

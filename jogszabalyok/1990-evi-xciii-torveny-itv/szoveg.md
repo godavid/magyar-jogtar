@@ -217,9 +217,9 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 (5) Az (1) bekezdés c) pontja szerinti mentesség alkalmazása során az örökös által megszerzett lakástulajdon vagy lakáshoz kapcsolódó vagyoni értékű jog (a továbbiakban e bekezdés alkalmazásában: lakás) után megállapított illetékalapot kell csökkenteni. Amennyiben az örökös által megszerzett lakás tiszta értéke a 20 millió forintot nem éri el, a 20 millió forintból a lakás tiszta értékének levonásával fennmaradó összeg erejéig az általános mértékű öröklési illeték alá eső vagyontárgyak mentesülnek az illeték alól.
 
-(6) Termőföld tulajdonjogának, vagyoni értékű jogának öröklése esetén az egyébként járó öröklési illeték felét, ha pedig az örökös az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély, akkor egynegyedét kell megfizetni. Ez utóbbi kedvezményre való jogosultságról a vagyonszerzőnek a fizetési meghagyás véglegessé válásáig kell nyilatkoznia.
+(6) Termőföld tulajdonjogának, vagyoni értékű jogának öröklése esetén az egyébként járó öröklési illeték felét, ha pedig az örökös az erre a célra létesített nyilvántartásban az őstermelők családi gazdasága tagjaként bejegyzett magánszemély, akkor egynegyedét kell megfizetni. Ez utóbbi kedvezményre való jogosultságról a vagyonszerzőnek a fizetési meghagyás véglegessé válásáig kell nyilatkoznia.
 
-(7) Azt az örököst, aki a hagyatékból ráeső termőföldet (tulajdoni hányadot) az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemély örököstársának ellenszolgáltatás fejében átengedi, az átengedett termőföld (tulajdoni hányad) után öröklési illeték nem terheli.
+(7) Azt az örököst, aki a hagyatékból ráeső termőföldet (tulajdoni hányadot) az erre a célra létesített nyilvántartásban az őstermelők családi gazdasága tagjaként bejegyzett magánszemély örököstársának ellenszolgáltatás fejében átengedi, az átengedett termőföld (tulajdoni hányad) után öröklési illeték nem terheli.
 
 17. § (1) Mentes az ajándékozási illeték alól:
 
@@ -230,7 +230,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - e) a lakosság ellátását szolgáló közüzemi létesítmény és az ehhez tartozó földrészlet kezelői jogának az üzemeltető által történő ingyenes megszerzése;
 - f) az állami tulajdonban levő természetvédelmi terület kezelői jogának a természetvédelmi kezelő által történő megszerzése;
 - g) a lakástakarékpénztárakról szóló törvény szerinti lakás-előtakarékossági szerződés alapján történő vagyonszerzés;
-- h) termőföld megszerzése ajándékozással az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatása feltételeként, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés;
+- h) termőföld megszerzése ajándékozással az egyéni vállalkozónak, mezőgazdasági őstermelőnek, az őstermelők családi gazdasága tagjának minősülő földműves gazdaságátadási támogatása feltételeként, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés;
 - i) közhasznú szervezetnek közhasznú tevékenység céljára juttatott ajándék;
 - j) jogszabályi kötelezettségen alapuló ingyenes eszközátadás;
 - k) a munkáltató által a munkavállaló számára adott olyan ingyenes juttatás, amely mentes a személyi jövedelemadó alól;
@@ -239,7 +239,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - n) a 18. § (2) bekezdése alapján a visszterhes vagyonátruházási illeték tárgyát nem képező ingó vagyontárgyaknak térítésmentes eszközátruházás keretében történő, gazdálkodó szervezet általi megszerzése, illetve a követelés gazdálkodó szervezetek közötti ajándékozás – ideértve a követelés-elengedést és a tartozásátvállalást is – útján történő megszerzése;
 - o) a magánszeméllyel szemben fennálló, pénzügyi intézmény által elengedett követelés, ha a követelés elengedése – a pénzügyi intézmény által az adósnak kiadott igazolás szerint – az azonos helyzetben levők egyenlő elbánásának elve alapján történik, azzal, hogy a rendelkezés nem alkalmazható, ha az elengedés nem a személyi jövedelemadóról szóló törvény szerinti független felek között valósul meg;
 - p) az ajándékozó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), illetve házastársa által megszerzett ajándék;
-- q) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves gazdaságátadási támogatásának igénybevétele érdekében a Polgári Törvénykönyv szerinti közeli hozzátartozóval megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó (mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) ajándékozása, illetve vagyoni értékű jog ingyenes átengedése;
+- q) az egyéni vállalkozónak, mezőgazdasági őstermelőnek, az őstermelők családi gazdasága tagjának minősülő földműves gazdaságátadási támogatásának igénybevétele érdekében a Polgári Törvénykönyv szerinti közeli hozzátartozóval megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó (mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) ajándékozása, illetve vagyoni értékű jog ingyenes átengedése;
 - r) a Magyar Állam által a hiteladós lakása megvásárlásával összefüggésben, a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény rendelkezése alapján elengedett követelés,
 - s) lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből, illetve deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelés, ha az a törvényben rögzített árfolyamon végtörlesztő magánszeméllyel szemben végérvényesen megszűnik;
 - t) az osztalékra vonatkozó követelés elengedése;
@@ -380,7 +380,7 @@ szerzett.
 
 ### Lakástulajdon és a hozzá kapcsolódó jogok visszterhes vagyonátruházási illetéke
 
-21. § (1) Ha a lakástulajdon szerzője a vásárláshoz vissza nem térítendő, lakáscélú állami támogatásban részesül, ennek összegét a lakástulajdon forgalmi értékből le kell vonni.
+21. § (1)
 
 (2) Magánszemély vagyonszerző esetén az illeték alapja
 
@@ -506,7 +506,7 @@ megszerzése;
 
 - d) az állami tulajdonban lévő természetvédelmi terület kezelői jogának a természetvédelmi kezelő által történő megszerzése;
 - e) állami vagyon vagyonkezelői jogának megszerzése;
-- f) a vállalkozó által értékesítés céljára újonnan épített, építtetett – ideértve az ingatlan-nyilvántartásban nem lakóház vagy lakás megnevezéssel nyilvántartott és ténylegesen sem lakás céljára használt épület átalakításával, továbbá a lakóépület bővítésével (pl. tetőtér-beépítéssel) létesített – 15 millió forintot meg nem haladó forgalmi értékű új lakás tulajdonjogának, ilyen lakás tulajdoni hányadának megvásárlása. Amennyiben az új lakás forgalmi értéke vagy a 21. § (1) bekezdés szerinti csökkentett értéke nem haladja meg a 30 millió forintot és a vagyonszerző másik lakástulajdon eladását nem igazolja, akkor a megállapított illetékből nem kell megfizetni azt az összeget, amely akkor járna, ha a lakás forgalmi értéke 15 millió forint lenne. Ilyen lakás tulajdoni hányada esetén a kedvezmény a 15 millió forintnak a szerzett tulajdoni hányaddal arányos részére illeti meg a vagyonszerzőt,
+- f) a vállalkozó által értékesítés céljára újonnan épített, építtetett – ideértve az ingatlan-nyilvántartásban nem lakóház vagy lakás megnevezéssel nyilvántartott és ténylegesen sem lakás céljára használt épület átalakításával, továbbá a lakóépület bővítésével (pl. tetőtér-beépítéssel) létesített – 15 millió forintot meg nem haladó forgalmi értékű új lakás tulajdonjogának, ilyen lakás tulajdoni hányadának megvásárlása. Amennyiben az új lakás forgalmi értéke nem haladja meg a 30 millió forintot és a vagyonszerző másik lakástulajdon eladását nem igazolja, akkor a megállapított illetékből nem kell megfizetni azt az összeget, amely akkor járna, ha a lakás forgalmi értéke 15 millió forint lenne. Ilyen lakás tulajdoni hányada esetén a kedvezmény a 15 millió forintnak a szerzett tulajdoni hányaddal arányos részére illeti meg a vagyonszerzőt,
 - g) a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett átalakulás keretében történő vagyonszerzés;
 - h) a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett részesedéscsere keretében történő vagyonszerzés;
 - i) – a (16) bekezdésben foglaltakra figyelemmel – a sportcélú ingatlan tulajdonjogának, vagyoni értékű jogának megszerzése, ha a vagyonszerző vállalja, hogy az ingatlant a szerzéstől számított 15 évig nem idegeníti el és sport célra használja vagy hasznosítja. A feltételek vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás véglegessé válásáig kell nyilatkoznia az állami adóhatóságnál. Az illetékmentesség a sportcélú ingatlannal egybeépült vagy azzal együtt nyilvántartott, sportcélú ingatlannak nem minősülő ingatlanrész forgalmi értékére eső illetékalaprész tekintetében nem alkalmazható. E pont alkalmazásában sportcélú használatnak vagy hasznosításnak minősül, ha a vagyonszerző az ingatlant versenyrendszerben szervezett verseny, mérkőzés, illetve sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány vagy sportszövetség által szervezett edzés megtartására, vagy szabadidősport esemény, diák-, főiskolai-egyetemi sport esemény megtartására használja vagy ilyen eseményekre hasznosítja.
@@ -526,7 +526,7 @@ megszerzése;
   - qc) az átruházó társaság legalább két üzletággal rendelkezik, melyek az átruházást megelőző két teljes, 12 hónapos adóévben önálló üzletágként működtek,
   - qd) az átvevő társaság vállalja, hogy az átruházás évét követő 2. naptári év végéig nem veszi igénybe a 23/A. § szerinti kedvezményes illetékmértéket.
 - r) – a (16) bekezdésben foglaltakra figyelemmel – az építésügyi szabályok és a településrendezési terv alapján sportcélú ingatlan létrehozására alkalmas beépítetlen földrészlet tulajdonjogának, vagyoni értékű jogának sporttevékenységet, annak szervezését, valamint a sporttevékenység feltételeinek megteremtését végző sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány vagy sportszövetség általi megszerzése, ha a vagyonszerző az ingatlanon a szerződés illetékkiszabásra történő bemutatásától számított 4 éven belül sportcélú ingatlant hoz létre és vállalja, hogy az így létrehozott sportcélú ingatlant az üzembe helyezéstől számított 15 évig nem idegeníti el és sport célra használja vagy hasznosítja. Amennyiben a vagyonszerző a fizetési meghagyás véglegessé válásáig nyilatkozik arról, hogy a megszerzett földrészleten a sportcélú ingatlan létrehozásán kívül más épületet, építményt is létrehozni, építeni kíván, az adóhatóság a kiszabott illetékből kizárólag a sportcélú ingatlannal beépíteni kívánt földrészlet után arányosan járó illetéket függeszti fel.
-- s) az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves által gazdaságátadási támogatás igénybevétele érdekében a Polgári Törvénykönyv szerinti közeli hozzátartozóval megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó – ide értve a gépjárművet és a pótkocsit is – tulajdonának, illetve vagyoni értékű jognak a megszerzése;
+- s) az egyéni vállalkozónak, mezőgazdasági őstermelőnek, az őstermelők családi gazdasága tagjának minősülő földműves által gazdaságátadási támogatás igénybevétele érdekében a Polgári Törvénykönyv szerinti közeli hozzátartozóval megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó – ide értve a gépjárművet és a pótkocsit is – tulajdonának, illetve vagyoni értékű jognak a megszerzése;
 - t) ingatlannak, valamint a belföldi ingatlanvagyonnal rendelkező társaságban fennálló vagyoni betétnek a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pont a)–e) alpontja szerinti kapcsolt vállalkozások közötti átruházása. Ingatlan átruházása esetén az illetékmentesség akkor alkalmazható, ha az illetékkötelezettség keletkezése időpontjában a vagyonszerző főtevékenysége saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése vagy saját tulajdonú ingatlan adásvétele;
 - u) a magánszemély lakásvásárlása, ha az eladó az 5. § (1) bekezdésének o) pontja szerinti Lebonyolító;
 - v) az egyéni cég egyszemélyes korlátolt felelősségű társasággá való átalakulása keretében történő vagyonszerzés;
@@ -547,6 +547,7 @@ származik.
 - c) a lakástulajdon megszerzése, ha azt a vagyonszerző a lakásvásárlásról szóló adásvételi szerződésben határozott időre, de legalább 5 évre a vételár 7 százalékát meg nem haladó éves bérleti díj ellenében bérbe adja a lakás korábbi magánszemély tulajdonosának, feltéve, hogy a bérlő vagy annak magánszemély örököse számára a vagyonszerző a lakásvásárlásról szóló adásvételi szerződés hatályának beálltától számított 5 éven belül gyakorolható visszavásárlási jogot létesít, legfeljebb a bérbeadó által fizetett vételár 105 százalékának megfelelő vételáron;
 - d) az ingatlan forgalmi értékéből az épület forgalmi értékének megfelelő rész, ha a telek tulajdonosával kötött megállapodásból és az építés költségeit, körülményeit tanúsító egyéb okiratokból egyértelműen kitűnik, hogy az épületet a vagyonszerző hozta létre;
 - e) a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés.
+- f) lakás tulajdonjogának, lakás tulajdoni hányadának az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet1.) 2020. október 1-jén hatályos 1. § a) pontja, vagy a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet2.) 2020. október 1-jén hatályos 1. § (2) bekezdése szerinti családi otthonteremtési kedvezmény (a továbbiakban együtt: családi otthonteremtési kedvezmény) felhasználásával történő megvásárlása.
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -562,6 +563,15 @@ származik.
 (2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős vagy végleges használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
 
 (2f) Ha a magánszemély vagyonszerző a természetes személyek adósságrendezéséről szóló törvény rendelkezései szerint bíróságon kívüli vagy bírósági adósságrendezést kezdeményezett, és az említett eljárások időszaka alatt a lakóház építésére alkalmas telektulajdont értékesítik, akkor a 87. § (2) bekezdése nem alkalmazható, továbbá – ha a telektulajdont megszerző vevő nyilatkozik arról, hogy a megszerzett telek után az (1) bekezdés a) pontja szerinti mentességet igénybe kívánja venni vagy a telektulajdont megszerzőnek a telekre elővásárlási joga van – az említett eljárások alá vont magánszemélynek a (2a) bekezdés szerint felfüggesztett illetéket nem kell megfizetni.
+
+(2g) Ha az (1a) bekezdés f) pontja szerinti illetékmentességre a vagyonszerző kizárólag a Korm. rendelet1. 2020. október 1-jén hatályos 6. alcíme vagy a Korm. rendelet2. 2020. október 1-jén hatályos 8. alcíme szerinti megelőlegezett családi otthonteremtési kedvezmény igénybevétele alapján vált jogosulttá, és
+
+- a) a gyermekvállalás az arra vonatkozó határidő lejártáig nem teljesült, vagy
+- b) a családi otthonteremtési kedvezményt a gyermekvállalás teljesítése nélkül a határidő lejártát megelőzően bármely okból visszafizette,
+
+az állami adóhatóság az erről való tudomásszerzést követően – az (1a) bekezdés f) pontjában foglaltak alkalmazását mellőzve – a lakás illetékkötelezettség keletkezésekor fennálló forgalmi értéke és az ekkor hatályos illetékmérték alapulvételével kiszabja a visszterhes vagyonátruházási illetéket.
+
+(2h) Nem kell a (2g) bekezdést alkalmazni, ha a gyermekvállalás teljesítése a családi otthonteremtési kedvezményben részesülő egészségi állapotára tekintettel hiúsult meg.
 
 (3) Ha az (1) bekezdés j) pontjában említett csereingatlan a kisajátítottnál értékesebb, vagy ha a megszerzett ingatlan forgalmi értéke a kártalanítási összeget, illetőleg ennek a vevőre eső arányos részét meghaladja, az illetékmentesség a többletre nem terjed ki.
 
@@ -661,7 +671,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 ### Az illeték tárgya
 
-28. § (1) A közigazgatási hatósági eljárásért e törvényben megállapított illetéket kell fizetni.
+28. § (1) Az 1. melléklet szerinti közigazgatási hatósági eljárásért, valamint – a 2. melléklet szerinti eljárások kivételével – a közigazgatási hatósági jogorvoslati eljárásért közigazgatási hatósági eljárási illetéket kell fizetni.
 
 (2) Az illetékkötelezettség akkor is fennáll, ha a hatóság
 
@@ -675,7 +685,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 ### Az illeték mértéke
 
-29. § (1) Az első fokú közigazgatási hatósági eljárásért – ha e törvény melléklete másként nem rendelkezik – 3000 forint illetéket kell fizetni (általános tételű eljárási illeték).
+29. § (1) Az általános tételű eljárási illeték mértéke 3000 forint.
 
 (2) Az első fokú közigazgatási határozat elleni fellebbezés illetéke – ha e törvény másként nem rendelkezik, és a fellebbezés tárgyának értéke pénzben megállapítható – a fellebbezéssel érintett vagy vitatott összeg minden megkezdett 10 000 forintja után 400 forint, de legalább 5000 forint, legfeljebb 500 000 forint. Ha a fellebbezés tárgyának értéke pénzben nem állapítható meg, a fellebbezés illetéke 5000 forint. A gazdálkodó szervezet – ide nem értve az egyéni vállalkozót – által az adóhatóságnál, illetve a vámhatóságnál kezdeményezett fizetési könnyítésre, adómérséklésre irányuló fellebbezés illetéke a fellebbezéssel érintett vagy vitatott összeg minden megkezdett 10 000 forintja után 400 forint, de legalább 15 000 forint, legfeljebb 500 000 forint, ha a fellebbezés tárgyának értéke pénzben nem állapítható meg, a fellebbezés illetéke 15 000 forint.
 
@@ -689,9 +699,9 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (7)
 
-(8) A gazdálkodó szervezet – ide nem értve az egyéni vállalkozót – által az adóhatóságnál, illetve a vámhatóságnál kezdeményezett fizetési könnyítésre, adómérséklésre irányuló eljárás illetéke 10 000 forint. Mentes az illeték alól az adózás rendjéről szóló törvény szerinti megbízható adózó által az állami adóhatóságnál kezdeményezett automatikus részletfizetésre irányuló eljárás.
+(8)
 
-(9) A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény szerinti ellenőrzött bejelentés illetéke az engedélyezés illetékének 50%-a.
+(9)
 
 ### Az eljárási illeték alapja
 
@@ -703,7 +713,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 ### Az illeték fizetésére kötelezettek
 
-31. § (1) A közigazgatási hatósági eljárási illetéket az eljárás kezdeményezésekor az köteles megfizetni, aki az eljárás megindítását kéri. Az egyes közigazgatási hatósági eljárások külön illetéke tekintetében e törvény melléklete eltérően rendelkezhet.
+31. § (1) A közigazgatási hatósági eljárási illetéket az eljárás kezdeményezésekor az köteles megfizetni, aki az eljárás megindítását kéri.
 
 (2) Ha több ügyfél ügyében indul egy közigazgatási hatósági eljárás, az ennek megindítását kérő ügyfelek egyetemlegesen felelősek az illeték megfizetéséért. Megszűnik az egyetemlegesség, ha a közigazgatási hatóság mindegyik ügyfélre nézve külön döntést hoz.
 
@@ -717,7 +727,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (7)
 
-(8) A szakhatósági eljárásért fizetendő illetéket – az alapeljárás illetékével (igazgatási szolgáltatási díjával) egyidejűleg – annak kell megfizetnie, akinek érdekében az eljárás indul. Az előzetes szakhatósági eljárásért fizetendő illetéket vagy igazgatási szolgáltatási díjat a szakhatósági eljárás kezdeményezésekor kell megfizetni.
+(8)
 
 ### A jogorvoslati eljárás illetékének visszatérítése
 
@@ -731,89 +741,9 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 33. § (1) Nem kötelezhető illeték fizetésére az, akit az államigazgatási hatóság külön jogszabály alapján költségmentességben részesített.
 
-(2) Egyes alkotmányos jogok érvényesítése, illetőleg kötelezettségek teljesítése, valamint a társadalmi igazságosság előmozdítása érdekében a mellékletben és a külön jogszabályokban meghatározott illetékmentes eljárásokon felül tárgyuknál fogva illetékmentes eljárások:
+(2)
 
-- 1. a választással, valamint a népszavazással kapcsolatos törvényekből folyó jogok érvényesítésével, kötelezettségek teljesítésével kapcsolatos eljárás;
-- 2. az önálló bírósági végrehajtónak az általa lefolytatott bírósági végrehajtási eljárással összefüggésben kezdeményezett eljárása;
-- 3. a közérdekű bejelentés, javaslat és a panasz elbírálására irányuló eljárás;
-- 4. a születéssel, a házasságkötéssel, az örökbefogadással, tartással, gondozással és a halálesettel kapcsolatos, továbbá a nemzetiségek anyakönyvi adatainak első ízben történő kijavításával kapcsolatos eljárás, kivéve
-  - a) a magyar állampolgár, illetőleg Magyarországon lakó hontalan külföldön történő házasságkötéséhez szükséges irat;
-  - b) a nem magyar állampolgár Magyarországon történő házasságkötéséhez szükséges irat, továbbá
-  - c)
-  - d)
-- 5. az anyakönyvi kivonat kiállítása; 5/A. a házassági név megváltoztatására irányuló eljárás;
-- 6. a gyámhatóság előtt kezdeményezett minden eljárás és az ilyen eljáráshoz szükséges irat;
-- 7. az állami gondoskodás körén kívüli nevelőotthoni térítési díj megállapításához szükséges bizonyítvány;
-- 8. a holtnak nyilvánításra, illetőleg halál tényének megállapítására irányuló bírósági eljárás céljára szükséges irat;
-- 9. a házasságon kívül született gyermek családi jogállásának bírósági rendezéséhez szükséges irat;
-- 10. a bölcsődei, óvodai elhelyezéssel kapcsolatos eljárás és az ilyen eljáráshoz szükséges irat;
-- 11. a tankötelezettséggel, valamint a középfokú és felsőoktatási intézménybe való felvétellel, a tanulmányokat folytatónak a tanulmányokkal, a tandíjjal, vizsgadíjjal és a tanulóotthoni, kollégiumi, diákotthoni, napközi otthoni elhelyezésükkel kapcsolatos eljárás, továbbá az iskolai és tanfolyami bizonyítvány, kivéve a bizonyítvány másolatát, másodlatát;
-- 12. az ösztöndíj adományozásával, a külföldön folytatott iskolai tanulmányok beszámításával, a külföldi oktatási intézményben szerzett bizonyítvány, oklevél, illetőleg tudományos fokozat honosításával, a külföldi oktatási intézményben szerzett bizonyítvány, oklevél elismerésével, valamint a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény hatálya alá tartozó, a határon átnyúló szolgáltatás bejelentésével kapcsolatos eljárás;
-- 13. A ,,Magyar igazolvány'' és a ,,Magyar hozzátartozói igazolvány'' kiadásával, cseréjével, pótlásával, visszavonásával és nyilvántartásával kapcsolatos eljárás, továbbá az igazolvány-nyilvántartásból teljesített adatszolgáltatás;
-- 14. a munkaviszony, szövetkezeti tagsági viszony létesítéséhez, igazolásához szükséges irat ;
-- 15. foglalkoztatáspolitika körébe tartozó juttatások (munkanélküli segély, járadék, átképzési támogatás stb.) , a korhatár előtti ellátás, a szolgálati járandóság, a táncművészeti életjáradék és az átmeneti bányászjáradék igénybevételével, nyugdíjazással, nyugdíjfolyósítással kapcsolatos eljárások és az eljáráshoz szükséges iratok;
-- 16. a kitüntetés adományozásával, viselésének engedélyezésével kapcsolatos eljárás;
-- 17. az állampolgárok számára kötelezően elrendelt általános és egyéni betegség megelőzést szolgáló, továbbá hatósági eljárásokhoz kapcsolódó orvosi vizsgálatokról kiállított igazolások, orvosi bizonyítványok;
-- 18. a szociálpolitikai feladatot ellátó szervnél vagy ilyen intézetnél, intézménynél szociális ügyben kezdeményezett minden eljárás;
-- 19. az áldozatsegítő támogatások engedélyezésére irányuló eljárás;
-- 20. széles körben fenyegető veszély elhárítása céljából a tulajdonos vagy kezelő, használó helyett viselt költség megtérítésére irányuló eljárás;
-- 21. az ellenőrzés, hitelesítés vagy hozzájárulás céljából — jogszabály rendelkezése alapján — iratra vezetett hivatalos záradék;
-- 22. a költségmentesség engedélyezése iránti eljárás, valamint a költségmentesség feltételei fennállásának igazolásához kiállított irat;
-- 23. az adó-, jövedéki- és járulékügyben, valamint a vámigazgatási ügyben kezdeményezett elsőfokú eljárás – ideértve a kizárólag ezen ügyek lefolytatása érdekében indított egyéb eljárásokat is –, kivéve az adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárást;
-- 24. a kárpótlási eljárás, a részaránytulajdonnal kapcsolatos eljárás és az ilyen eljárásokhoz szükséges irat, a kisajátítási eljárás, a kisajátítási járulékos költségek megtérítésére irányuló eljárás, valamint a kisajátítási kérelem benyújtására kötelezés iránti eljárás;
-- 25. a járványügyi intézkedésként kezdeményezett állategészségügyi eljárás;
-- 26. közigazgatási hatóságnál nyilvántartott adatokban bekövetkezett változások jogszabályi előíráson alapuló, kötelező bejelentése;
-- 27. a külkereskedelmi áruforgalomban áru kivitelének, átvitelének engedélyezésére irányuló eljárás;
-- 28. a jogi segítségnyújtás engedélyezésére irányuló eljárás;
-- 29. a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény, valamint az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény hatálya alá tartozó szervek és személyek intézkedésével, vagy kényszerítő eszköz alkalmazásával szemben benyújtott panasz és fellebbezés,
-- 30. az adóhatóság által az adózó adószámlájának egyenlegéről készített értesítés tárgyában hozott határozat elleni jogorvoslati eljárás,
-- 31. az egyenlő bánásmód követelményének megsértésével, továbbá a személyes adatok védelméhez fűződő jog megsértésével kapcsolatban indított eljárás,
-- 32. őstermelői igazolvány cseréje, ha arra az őstermelői igazolványban szereplő helységnév, utcanév, illetve házszám állami vagy önkormányzati döntés alapján történő változása, illetve az őstermelő lakóhelyének más megye illetékességi területéhez való csatolása miatt kerül sor,
-- 33. a külön törvényben meghatározott hozzátartozók közötti erőszak miatt az ideiglenes megelőző távoltartó határozat elrendelésére irányuló eljárás,
-- 34. a pénzügyi közvetítőrendszer felügyeletét ellátó szerv fogyasztóvédelmi eljárása;
-- 35. a fogyasztóvédelmi hatóság fogyasztóvédelmi eljárása;
-- 36. az európai területi társulásban történő részvétel jóváhagyására irányuló eljárás;
-- 37. a külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, köznevelési, szakképző, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás;
-- 38. az egészségügyben működő szakmai kamarai tagsági viszony első létesítésére irányuló eljárás;
-- 39. a hadkötelezettséggel és a honvédelmi kötelezettségekkel kapcsolatos államigazgatási eljárás, valamint az azokkal kapcsolatos hatósági igazolás céljára kiállított közokirat;
-- 40. a megváltozott munkaképességű személyek ellátásai megállapítására irányuló eljárás;
-- 41. a személyi adat- és lakcímnyilvántartásban a lakcím érvénytelenné nyilvánítására irányuló eljárás;
-- 42. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi;
-- 43. az építésügyi hatóság által a használatbavétel tudomásulvételről kiállított hatósági bizonyítvány;
-- 44. a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a települési önkormányzat jegyzője vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) által a szociális rászorultság fennállásáról kiállított igazolás, valamint a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás;
-- 45. a mezőgazdasági termelő székhelye vagy lakóhelye és a művelése alatt álló termőföld, tanya vagy használatában lévő telephely között, termény szállítása esetén, az útdíj köteles elemi útszakaszra vonatkozó, díjmentes viszonylati jegy váltására jogosító hatósági bizonyítvány kiállítására irányuló eljárás;
-- 46. a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásába (a továbbiakban: szolgáltatói nyilvántartás) való felvétel, az adatmódosítás, a szolgáltatói nyilvántartásból való törlés, a szolgáltatói nyilvántartással kapcsolatos bejelentések, a szolgáltatói nyilvántartás adatairól hatósági bizonyítvány kiállítása és a szolgáltatói nyilvántartásból teljesített egyéb adatszolgáltatás;
-- 47. a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti, a mező- és erdőgazdasági hasznosítású föld tulajdonjoga megszerzésének, valamint a földhasználati szerződésnek a mezőgazdasági igazgatási szerv általi hatósági jóváhagyására irányuló eljárás, továbbá a földhasználati nyilvántartási eljárás;
-- 48. kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése, továbbá az okmány gyártáshibája, valamint a tároló elem hibás adattartalma vagy nem megfelelő működése miatt kezdeményezett közigazgatási hatósági eljárás;
-- 49. a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente négy alkalommal;
-- 50. a vállalkozói igazolvánnyal és az üzlet működési engedélyével kapcsolatos eljárás;
-- 51. évente egy alkalommal az állandó személyazonosító igazolvány és a lakcímet igazoló hatósági igazolvány kiadására irányuló eljárás;
-- 52. a családi állapot változásból eredő névváltozás miatt indult eljárás;
-- 53. az eltulajdonított okmányok pótlására irányuló eljárás;
-- 54. a mozgásában korlátozott személy parkolási igazolványával kapcsolatos eljárás;
-- 55. az oktatási igazolvány kiállítása;
-- 56. a mezőgazdasági és erdészeti gépkezelői jogosítvány kiállítása;
-- 57. a népművészeti és népi iparművészeti igazolvánnyal kapcsolatos eljárás;
-- 58. jelnyelvi tolmács névjegyzékbe vételével kapcsolatos eljárás;
-- 59. a közérdekű önkéntes tevékenységről szóló törvény alapján a fogadó szervek bejelentésére és nyilvántartásba vételére irányuló eljárás, a nyilvántartásba vett adatok változásának bejelentésére irányuló eljárás és a közérdekű önkénteseket foglalkoztató szervezetek nyilvántartásából való törlésére irányuló eljárás;
-- 60. a lakáscélú állami támogatás igénylésével kapcsolatos hatósági eljárások;
-- 61. a köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerinti özvegyi ellátással kapcsolatos eljárás;
-- 62. hatósági bizonyítvány kiállítása az egyéni vállalkozók nyilvántartásában szereplő adatokról;
-- 63. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 27/A. § (1) bekezdése és 27/D. § (1) bekezdése szerinti nyilatkozat megtételével kapcsolatos eljárás;
-- 64. Magyarország területén kívül élő magyar állampolgár kérelemre történő személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartásba vételére irányuló eljárás;
-- 65. az értesítési cím bejelentésével kapcsolatos eljárás;
-- 66. az igazságügyi szakértői névjegyzékbe vétel és a szakterület kiterjesztése iránti eljárás;
-- 67. a termőföld birtokösszevonási célú telekcsoport-újraosztására és telekegyesítésére irányuló telekalakítási eljárás;
-- 68. a családi név korrekciójára irányuló eljárás;
-- 69. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti belső szabályzat jóváhagyására irányuló eljárás;
-- 70. társasház esetén a közösség ügyintézését ellátó közös képviselő vagy az intézőbizottság elnöke adatainak bejegyzésére, törlésére, megváltozására, valamint a közgyűlés által elfogadott számviteli szabályok szerinti beszámoló benyújtására és helyesbítésére irányuló eljárás;
-- 71. az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott támogatás megállapítására irányuló hatósági eljárás;
-- 72. a fiatalok „B” kategóriás közúti járművezetői engedélyének megszerzéséhez nyújtott támogatás megállapítására irányuló hatósági eljárás;
-- 73. az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i 2016/1191/EU európai parlamenti és tanácsi rendelet szerinti többnyelvű formanyomtatvány kiállítása;
-- 74. a babaváró támogatás igénylésével kapcsolatos hatósági eljárások,
-- 75. a nagycsaládosok személygépkocsi-szerzési támogatás megállapítására irányuló hatósági eljárások.
-
-(3) A 18. életévét be nem töltött személy mentesül a 29. § (1) bekezdés szerinti illeték megfizetése alól.
+(3)
 
 ### Az államigazgatási eljárási illeték fizetésének módja
 
@@ -831,7 +761,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (2) Nem tárgya a bírósági eljárási illetéknek az olyan bírósági eljárási cselekmény (szolgáltatás), amelyért a 67. §-ban említett módon megállapított díjat kell fizetni.
 
-(3) A bíróság, valamint büntetőügyben az ügyészség és a nyomozó hatóság által készített másolat illetékére — ha e törvény másként nem rendelkezik — a melléklet IV. címében foglaltak az irányadók.
+(3)
 
 ### Az illeték fizetésére kötelezettek
 
@@ -1172,8 +1102,8 @@ esetében.
 62. § (1) A felet – ideértve a beavatkozót és az érdekeltet is – illetékfeljegyzési jog illeti meg, a jogegységi panasz eljárás kivételével:
 
 - a) a munkaügyi vagy közszolgálati jogviszonnyal kapcsolatos perben, ha az a munkavállaló vagy az állam nevében foglalkoztatott személy szándékos vagy súlyos gondatlan károkozásával, valamint a vezető állású munkavállaló kártérítési felelősségével kapcsolatban indult; továbbá a végkielégítés iránti per a törvény alapján járó összegen felüli részében, ha az a minimálbér hússzorosát meghaladja;
-- b) a személy életében, testi épségében vagy egészségében okozott, illetve a vagyonában bekövetkezett olyan kár megtérítése iránti igény esetén, amikor a személy élete, testi épsége vagy egészsége is veszélyeztetve volt;
-- c) a bűncselekményből – ide nem értve a személy életében, testi épségében vagy egészségében okozott kárt –, valamint a szabálysértésből származó kár megtérítése iránti igény esetén;
+- b) a személy életében, testi épségében vagy egészségében okozott, illetve a vagyonában bekövetkezett olyan kár megtérítése vagy sérelemdíj megfizetése iránti igény esetén, amikor a személy élete, testi épsége vagy egészsége is veszélyeztetve volt;
+- c) a bűncselekményből – ide nem értve a személy életében, testi épségében vagy egészségében okozott kárt vagy ezekkel összefüggésben felmerült sérelemdíj megfizetését –, valamint a szabálysértésből származó kár megtérítése, illetve az azzal összefüggésben felmerült sérelemdíj megfizetése iránti igény esetén;
 - d) a házassági perben, kivéve a házassági bontópert, valamint a házassági perben érvényesített vagyonjogi igényt;
 - e) a névviselési jog megszüntetése iránti perben;
 - f) a személyek polgári jogi védelmével kapcsolatos perben;
@@ -1215,7 +1145,7 @@ esetében.
 
 ### VII. Fejezet — AZ IGAZGATÁSI ÉS BÍRÓSÁGI SZOLGÁLTATÁSOK DÍJA
 
-67. § (1) Egyes közigazgatási hatósági eljárásokért, illetőleg egyes intézmények igazgatási jellegű szolgáltatásának igénybevételéért, továbbá egyes bírósági eljárási cselekményekért (szolgáltatásokért) – a (2) bekezdésben meghatározottak kivételével – díjat kell fizetni.
+67. § (1) Egyes közigazgatási hatósági eljárásokért, illetőleg egyes intézmények igazgatási jellegű szolgáltatásának igénybevételéért, továbbá egyes bírósági eljárási cselekményekért (szolgáltatásokért) – a (2) bekezdésben és a 2. mellékletben meghatározottak kivételével – díjat kell fizetni.
 
 (2) A fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok mentesülnek az (1) bekezdésben meghatározott díjfizetési kötelezettség alól a fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok által lefolytatott hatósági eljárásokban.
 
@@ -1299,7 +1229,7 @@ esetében.
   - ba) az eljárás kezdeményezését megelőzően vagy
   - bb) az eljáró hatóság felhívására
 
-kell megfizetni a (2)–(4), a (4a), a (7) és (8), valamint a (11) bekezdésben foglaltak kivételével.
+kell megfizetni a (2)–(4), a (4a), a (7) és (8) bekezdésben foglaltak kivételével.
 
 (2) A fővárosi és megyei kormányhivatalnál, járási (fővárosi kerületi) hivatalnál és a kormányablaknál nem elektronikus úton kezdeményezett közigazgatási hatósági eljárás illetékét – ha jogszabály másként nem rendelkezik –
 
@@ -1308,7 +1238,7 @@ kell megfizetni a (2)–(4), a (4a), a (7) és (8), valamint a (11) bekezdésben
   - ba) elektronikus fizetési és elszámolási rendszeren keresztül,
   - bb) bankkártyával vagy
   - bc) házipénztárba készpénzzel, vagy
-- c) az eljárás megindítását megelőzően átutalással, az átutalás közlemény rovatában a kormányablakokról szóló kormányrendeletben meghatározott adatok feltüntetésével
+- c) az eljárás megindítását megelőzően átutalással, az átutalás közlemény rovatában a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben meghatározott adatok feltüntetésével
 
 kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt számla javára azzal, hogy a házipénztárba fizetett illetéket készpénz-átutalási megbízással a járási hivatal és a kormányablak naponta fizeti meg az említett számla javára.
 
@@ -1339,7 +1269,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 (10) A (9) bekezdés a) pontjában említett esetben az iratokat a külpolitikáért felelős miniszter azzal küldi meg a külképviseleti szervnek, hogy az illetéket az irat kézbesítése előtt szedje be. Az így beszedett összeget a konzuli ügyszámra hivatkozással a Konzuli Információs Rendszerben vagy a konzuli alnaplóban kell elszámolni.
 
-(11) Törvény, kormányrendelet vagy az adópolitikáért felelős miniszter egyetértésével kiadott miniszteri rendelet előírhatja, hogy a szakhatósági eljárás – ide nem értve az előzetes szakhatósági eljárást – illetékét az alapeljárást lefolytató szervnél az alapeljárásért fizetendő illeték vagy igazgatási szolgáltatási díj megfizetésének módjával azonos módon kell megfizetni. Az alapeljárást lefolytató hatóság a szakhatósági eljárásért így megfizetett illeték összegének jogszabályban megjelölt bankszámlán való jóváírását követő munkanapon, készpénzben való fizetés esetén a készpénz átvételének napján átutalja a Magyar Államkincstár által vezetett illeték-bevételi számlára.
+(11)
 
 (12) Ha az ügyfél az eljárás megindítása nélkül a (2) bekezdés a) pontja vagy a (4) bekezdés szerinti módon fizetett illetéket, akkor a készpénzátutalási megbízás feladóvevényével az állami adóhatóságnál kérheti az illeték visszatérítését. Az állami adóhatóság a kincstár megkeresésével ellenőrzi a visszatérítési igényt, melynek eredményeként az illetéket visszatéríti vagy határozatot hoz a visszatérítés megtagadásáról.
 
@@ -1407,7 +1337,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 76. § (1) Gépjármű, pótkocsi tulajdonjoga, illetve gépjárműre, pótkocsira vonatkozó vagyoni értékű jog megszerzése esetén a vagyonszerzési illetéket a gépjármű, pótkocsi átírását megelőzően az járási hivatalnál beszerzett készpénz-átutalási megbízás útján, illetve – amennyiben erre lehetőség van – a járási hivatalban bankkártyával kell az adópolitikáért felelős miniszter rendeletében megjelölt számla javára vagy készpénzzel a járási hivatal házipénztárába megfizetni. A 89. §-ban foglaltak kivételével az ilyen jog szerzését tanúsító okiratot – a 26. § (1) bekezdésének l) pontja szerinti mentesség igénybevétele esetén az erről szóló állami adóhatósági határozat bemutatásával – annak keltétől számított 15 napon belül a bekövetkezett jogváltozás átvezetésére illetékes járási hivatalnál kell bemutatni.
 
-(2) A házipénztárba befizetett illetékről az ügyfél számára számviteli bizonylatot kell kiállítani és a befizetett illetékről nyilvántartást kell vezetni, amelynek tartalmaznia kell a vagyonszerző nevét, lakóhelyét (székhelyét), adóazonosító számát és az illeték összegét. A nyilvántartás alapján a járási hivatal készpénzátutalási megbízással naponta fizeti meg az illetéket az illetékes állami adóhatóság illetékbeszedési számlája javára. A járási hivatal a bankkártyával megfizetett, valamint a házipénztárba befizetett illetékről hetente kimutatást készít a vagyonszerző nevének, lakóhelyének (székhelyét), adóazonosító számának és a befizetett összeg feltüntetésével és azt a tárgyhetet követő hét 5. napjáig az illetékes állami adóhatósághoz eljuttatja.
+(2) A házipénztárba befizetett illetékről az ügyfél számára számviteli bizonylatot kell kiállítani és a befizetett illetékről nyilvántartást kell vezetni, amelynek tartalmaznia kell a vagyonszerző nevét, lakóhelyét (székhelyét), adóazonosító számát és az illeték összegét. A nyilvántartás alapján a járási hivatal készpénzátutalási megbízással naponta fizeti meg az illetéket az illetékes állami adóhatóság illetékbeszedési számlája javára.
 
 (3) Az (1) bekezdésben meghatározott járási hivatali közreműködéstől függetlenül a gépjármű- és pótkocsiszerzések tekintetében is az állami adóhatóság az elsőfokú illetékhatóság. Ha a fizetendő illetékkel kapcsolatos vita vagy más körülmény ezt indokolja, az állami adóhatóság határozattal (78. §) állapítja meg a vagyonszerzési illetéket. A vagyonszerzés késedelmes bejelentését, továbbá a bejelentés elmulasztását terhelő mulasztási bírságot az állami adóhatóság határozattal szabja ki.
 
@@ -1512,6 +1442,8 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
   - bb) a pénzügyi lízingszerződésen alapuló tulajdonjog-bejegyzés iránti kérelem elutasításáról szóló döntés véglegessé válása
 
 naptári évének utolsó napjától számított 5 év elteltével évül el.
+
+(4) Az illeték megállapításához való jog a 26. § (2g) bekezdése szerinti esetben annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amely évben a vagyonszerző a családi otthonteremtési kedvezményt – saját elhatározásából – visszafizette vagy a hatóság annak visszafizetését rendelte el.
 
 ### Jogkövetkezmények
 
@@ -1625,7 +1557,7 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 (5) E törvény nem érinti azokat a jogszabályokat, amelyek illetékmentességet állapítanak meg.
 
-(6) Ahol valamely jogszabály közigazgatási hatósági eljárásért állapít meg illetékkötelezettséget, a továbbiakban e törvényben meghatározott általános tételű eljárási illetéket kell fizetni.
+(6)
 
 (7) A 67. § rendelkezései nem érintik az e törvény hatálybalépése előtt kiadott díjrendelkezéseket.
 
@@ -1707,6 +1639,13 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 99/U. § Az 57. § (1) bekezdés a) pontjának a törvényszéki végrehajtással összefüggő egyes törvények módosításáról szóló 2019. évi LXXXI. törvénnyel (a továbbiakban: Mód1tv.) megállapított rendelkezését azokban a Mód1tv. hatálybalépése napján folyamatban lévő felszámolási eljárásokban is alkalmazni kell, amelyekben a bíróság az eljárást a Mód1tv. hatálybalépését követően szüntette meg.
 
 99/V. § A 16. § (1) bekezdés j) pontjának és a 17. § (1) bekezdés w) pontjának az illetékekről szóló 1990. évi XCIII. törvény módosításáról szóló 2020. évi LXVI. törvény által megállapított rendelkezéseit a hatálybalépésük napján az állami adóhatóság által véglegesen még el nem bírált illetékügyekben is alkalmazni kell.
+
+99/W. § Az egyes törvényeknek az otthonteremtési akcióterv bevezetése érdekében szükséges módosításáról szóló 2020. évi CXXXIII. törvénnyel
+
+- a) megállapított 26. § (1a) bekezdés f) pontját a 2020. december 31-ét követően,
+- b) hatályon kívül helyezett 21. § (1) bekezdését és 26. § (1) bekezdés f) pontjának szövegrészét – a hatályvesztésüket követően is – a 2021. január 1-jét megelőzően
+
+megkötött adásvételi szerződés alapján történő vagyonszerzésre kell alkalmazni.
 
 ### Felhatalmazás
 
@@ -1813,350 +1752,170 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (5)
 
-(5a) A 33. § (2) bekezdés 31. pontja a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) 57. cikk (3) bekezdése végrehajtásához szükséges rendelkezést állapít meg és a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelv 46. cikk (3) bekezdésének való megfelelést szolgálja.
+(5a) A 2. melléklet XIII. pont 5. és 6. alpontja a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) 57. cikk (3) bekezdése végrehajtásához szükséges rendelkezést állapít meg és a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelv 46. cikk (3) bekezdésének való megfelelést szolgálja.
 
 (6) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013. 12.24., 1.o.) hatálya alá tartozó támogatást tartalmaz.
 
 (7) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal való összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187, 2014.6.26.) hatálya alá tartozó támogatást tartalmaz.
 
-(8) A 33. § (2) bekezdés 73. pontja az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i 2016/1191/EU európai parlamenti és tanácsi rendelet 11. cikkének való megfelelést szolgálja.
-
-### Melléklet
-
-I. A szabálysértési eljárás illetéke
-
-1. A becsületsértés és magánlaksértés miatt indult szabálysértési eljárás illetéke 3000 forint, az ilyen eljárásban hozott büntetést vagy intézkedést alkalmazó határozat elleni kifogás, valamint az eljárást megszüntető határozat elleni panasz illetéke 3500 forint.
-
-2. Az 1. pontban nem említett szabálysértési eljárás illetékmentes, kivéve a részletfizetési kedvezmény, halasztás engedélyezésére irányuló eljárást, amelyre a törvény 29. §-ában foglaltak az irányadóak.
-
-II. Az állampolgársággal kapcsolatos eljárás illetéke
-
-1. A magyar állampolgársági bizonyítvány kiállítására irányuló eljárás illetéke 3000 forint.
-
-2.
-
-3.
-
-4. Illetékmentes a honosítás, visszahonosítás, a magyar állampolgárság nyilatkozattal történő visszaszerzésére, valamint a magyar állampolgárságról történő lemondásra irányuló eljárás.
-
-III. Jogszabályról és joggyakorlatról kiállított bizonyítvány illetéke
-
-1. Az igazságügyért felelős miniszter által külföldi használatra az ország területén hatályban levő vagy hatályban volt jogszabályról kiállított bizonyítvány illetéke annyiszor 2000 forint, ahány jogszabályszakaszról (§-ról) a bizonyítványt kiállították.
-
-2. A joggyakorlatról kiállított 1. pontban említett bizonyítvány illetéke 5000 forint.
-
-IV. A másolat és kivonat illetéke
-
-1. Az államigazgatási eljárásban készített hitelesített vagy hitelesítetlen másolat, illetőleg kivonat illetéke – ha e Melléklet kivételt nem tesz – oldalanként magyar nyelvű másolat esetében 100 forint, idegen nyelvű másolat esetében 300 forint. A nem hitelesített fénymásolat illetéke oldalanként 100 forint.
-
-2. Illetékmentes az adóbevallás másolata.
-
-3.
-
-4. Illetékmentes az a hitelesített vagy nem hitelesített másolat, amely illetékmentes eljáráshoz szükséges.
-
-5. A már egyszer hitelesített másolatra, kivonatra vezetett olyan záradék, amely azt bizonyítja, hogy az eredeti iraton változás nem történt, vagy azt kiegészítik, 1000 forint illeték alá esik.
-
-6. Büntetőügy ügyiratáról, büntetés-végrehajtási ügyben, büntetés vagy intézkedés végrehajtása, illetve kényszerintézkedés foganatosítása során keletkezett iratról készített hitelesített vagy hitelesítetlen másolat vagy kivonat illetéke oldalanként 100 forint. Elektronikus formában rendelkezésre álló ügyirat másolatának a bíróság, ügyészség, nyomozó hatóság által biztosított optikai adathordozón történő továbbítása esetén a továbbítás illetéke optikai adathordozónként 500 forint. Elektronikus formában rendelkezésre álló ügyirat másolatának a bíróság, ügyészség, nyomozó hatóság által biztosított, optikai adathordozótól eltérő tartós adathordozón történő továbbítása esetén a továbbítás illetéke tartós adathordozónként 2000 forint.
-
-V. A fordítás illetéke
-
-1. Az eljáró hatóság által készített fordítás illetéke oldalanként 1000 forint.
-
-2. Illetékmentes: a tárgyánál fogva illetékmentes eljáráshoz (Tv. 33. §) szükséges irat fordítása.
-
-VI. A hitelesítés illetéke
-
-1. Az eljáró hatóság által végzett hitelesítés illetéke, ha jogszabály kivételt nem tesz:
-
-a) másolat, kivonat vagy fordítás után oldalanként 100 forint;
-
-b) iraton levő aláírás után aláírásonként 500 forint.
-
-2. Külföldi használatra szánt iraton levő aláírásnak bármely hatóság, bíróság vezetője általi hitelesítése (közbenső felülhitelesítése) esetében minden aláírás után 2000 forint; az ilyen hitelesítésnek miniszter általi felülhitelesítése 5000 forint.
-
-3. E cím rendelkezései nem vonatkoznak a külföldi felhasználásra szánt okiratoknak
-
-a) a Konzuli Szolgálat,
-
-b) a Magyar Országos Közjegyzői Kamara
-
-általi felülhitelesítésére.
-
-4. Az Országos Fordító- és Fordításhitelesítő Iroda Zrt. által végzett hitelesítés illetéke oldalanként 300 forint. Ezt az illetéket kell fizetni a másodlat, a másolat és fénymásolat hitelesítéséért is.
-
-5. Illetékmentes
-
-a) a 91–92. §-ban említett irat hitelesítése,
-
-b) a 4. pontban szereplő hitelesítés, ha az olyan okiratra vonatkozik, amelyet a magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdésében vagy 5. §-ában meghatározott kérelemhez kell csatolni.
-
-VII. A levéltár által készített másolat illetéke
-
-1. A levéltár által készített hitelesített másolatért, továbbá az ügyfél által készített másolatnak és fénymásolatnak a levéltár által történő hitelesítéséért – ideértve az állami vagy az egyházi jogi személy által vezetett anyakönyvi másodpéldányokból anyakönyvi kivonat kiállítását – oldalanként 200, de legalább 2000 forint illetéket kell fizetni.
-
-2. A levéltárban őrzött irat alapján kiállított, tényt, körülményt igazoló irat kiadása iránt indított eljárásban az általános tételű eljárási illetéket (29. §) kell fizetni.
-
-3. A külföldi célra kért másolatot illeték fizetése nélkül kell kiállítani. Egyebekben e Tv. 73. §-ának a külföldi célra kért irat illetékfizetési módjára vonatkozó szabályai szerint kell eljárni.
-
-VIII. Az iskolai, tanfolyami bizonyítványmásolat, másodlat illetéke
-
-Iskolai bizonyítvány – ideértve a felsőfokú oktatási intézmény által kiállított oklevelet is –, továbbá a tanfolyami bizonyítvány másolatának, másodlatának kiállításáért 2000 forint illetéket kell fizetni.
-
-IX. Egyes okmányok kiadásával kapcsolatos eljárások illetéke
-
-I. Az úti okmányok kiadásával kapcsolatos eljárás illetéke
-
-1. A magánútlevél, a szolgálati és hajós szolgálati útlevél kiadásának illetéke 7500 forint, ha a magánútlevél érvényességi ideje 10 év, 14 000 forint. A kérelem benyújtásának időpontjában 18. életévét be nem töltött személy magánútlevelének, az 1 évi érvényességgel kiállított magánútlevél, szolgálati és hajós szolgálati útlevél, valamint a menekültként elismert személyek kétnyelvű úti okmánya kiadásának illetéke 2500 forint.
-
-1a. A kérelem benyújtásának időpontjában
-
-a) három vagy több kiskorú gyermeket háztartásában nevelő törvényes képviselő esetén a kiskorú gyermek magánútlevele kiadásának illetéke 500 forint;
-
-b) két kiskorú gyermeket háztartásában nevelő törvényes képviselő esetén a kiskorú gyermek magánútlevele kiadásának illetéke 1250 forint.
-
-2. A második magánútlevél kiadásának illetéke az 1. pontban meghatározott mértékek kétszerese.
-
-3. A magánútlevél, valamint a második magánútlevél soron kívüli kiállításáért az 1–2. pontban meghatározott mértékű illetéket, valamint jogszabályban meghatározott igazgatási szolgáltatási pótdíjat kell fizetni.
-
-4. A magánútlevél, valamint a második magánútlevél sürgősségi kiállításáért az 1–2. pontban meghatározott mértékű illetéket, valamint jogszabályban meghatározott igazgatási szolgáltatási pótdíjat kell fizetni.
-
-5. A magánútlevél, valamint a második magánútlevél azonnali kiállításáért az 1–2. pontban meghatározott mértékű illetéket, valamint jogszabályban meghatározott igazgatási szolgáltatási pótdíjat kell fizetni.
-
-6. A határátlépési engedély kiadásának illetéke 1500 forint.
-
-7. Illetékmentes
-
-a) a diplomata-útlevél,
-
-b) a külügyi szolgálati útlevél,
-
-c) a határátlépési igazolvány,
-
-d)
-
-e) a 65. életévét betöltött személy magánútlevele.
-
-8. Az elveszett, megsemmisült, továbbá – a 7. pont d) alpontjában meghatározott eset kivételével – a megrongálódott és utazásra alkalmatlanná vált úti okmány helyett kiállított új úti okmány kiadásának illetéke az 1–2., valamint 6. pontban meghatározott illeték kétszerese.
-
-9. Az elveszett, megsemmisült, továbbá – a 7. pont d) alpontjában meghatározott eset kivételével – a megrongálódott és utazásra alkalmatlanná vált magánútlevél és második magánútlevél helyett soron kívüli, sürgősségi, illetve azonnali eljárás keretében kiállított új úti okmány kiadásáért az 1–2. pontban meghatározott illeték kétszeresének megfelelő illetéket és jogszabályban meghatározott mértékű igazgatási szolgáltatási pótdíjat kell fizetni.
-
-10.
-
-11. Az útlevél kiállítására irányuló hatósági eljárásban benyújtott fellebbezés illetéke 5000 forint.
-
-II.
-
-III. A gépjárművezetői engedély, a forgalmi engedély és a törzskönyv kiadásával kapcsolatos eljárás illetéke
-
-1. A gépjárművezetői engedély kiadására irányuló eljárás illetéke 4000 forint. Az öregségi nyugdíjkorhatárt betöltött kérelmező esetében, valamint ha az egészségügyi hatóság előírása alapján a vezetői engedély érvényessége 1 év vagy annál rövidebb, a vezetői engedély kiadásának illetéke 1500 forint.
-
-2. A forgalmi engedély kiadásával kapcsolatos eljárás illetéke 6000 forint. Az ideiglenes forgalmi engedély kiadására irányuló eljárás illetéke 2500 forint.
-
-3. A törzskönyv kiadására irányuló eljárás illetéke 6000 forint.
-
-4. A gépjárművezetői engedély kiadása első alkalommal illetékmentes.
-
-IV. Egyéb rendelkezések
-
-1. Az I–III. pontokban meghatározott okmányok egy eljárásban történő igénylése esetén is az eljárási illetéket az igényelt okmányonként külön-külön kell megfizetni.
-
-2. Illetékmentes:
-
-a)
-
-b) a személyi azonosító képzése – ideértve a személyi azonosító megváltozását eredményező adatváltozást is – miatt kiállított hatósági igazolvány;
-
-c) az érintett polgár adatainak a polgárok személyi adatainak és lakcímének nyilvántartásából való törlésére irányuló eljárás;
-
-d) a forgalmi engedély cseréjére irányuló eljárás, amennyiben arra a helység, az utca, egyéb helymeghatározó adat nevének vagy számának megváltozása miatt kerül sor.
-
-X. Anyakönyvi és névváltoztatási eljárás
-
-1.
-
-2. A születési név megváltoztatására irányuló kérelem illetéke 10 000 forint. Az egy családhoz tartozó nagykorúak közös kérelme esetében az illetéket minden nagykorúnak külön-külön kell megfizetni.
-
-3. Az anyakönyvi eljárásról szóló jogszabályokban meghatározott eljárásban megváltoztatott név ismételt megváltoztatására irányuló kérelem illetéke 50 000 forint.
-
-4.
-
-5. Nem magyar állampolgár Magyarországon történő házasságkötéséhez szükséges olyan igazolás alóli felmentésért, amely tanúsítja, hogy a házasságkötésnek a személyes joga szerint nincs akadálya, 5000 forint illetéket kell fizetni.
-
-6.
-
-XI. A külön jogszabály szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő hatósági eljárások illetéke
-
-A külön jogszabály szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő hatósági eljárások esetén az eljárásra egyébként irányadó illetékmérték kétszeresét kell fizetni.
-
-XII.
-
-XIII. Egyes környezet- és természetvédelmi,valamint vízügyi hatósági eljárási illetékek
-
-1. Az alapeljárás illetéke
-
-Ha jogszabály a kérelemre induló környezet- és természetvédelmi, valamint vízügyi közigazgatási hatósági eljárásokra igazgatási szolgáltatási díjat nem állapít meg, az alapeljárás illetéke 5000 forint.
-
-2. A fellebbezés illetéke
-
-a) e törvény eltérő rendelkezése hiányában az első fokú határozat ellen benyújtott fellebbezés illetéke az alapeljárás illetékének kétszerese;
-
-b) vízgazdálkodási bírságot (1995. évi LVII. tv. 29. § (3) bekezdés) megállapító határozat esetén a bírságösszeg 10%-a, de legalább 20 000 forint;
-
-c) vízkészletjárulékot, valamint ezzel összefüggő késedelmi pótlékot, mulasztási bírságot, adóbírságot megállapító határozat esetén a vitatott összeg 6%-a, de legalább 20 000 forint;
-
-d) hivatalból indult vagy folytatott vízgazdálkodási ügyben kötelezettséget megállapító egyéb – az a)–c) pontokban nem érintett – eljárásokban hozott határozat esetén a fellebbezés illetéke 15 000 forint.
-
-XIV. A felszámolói névjegyzékbe vétel illetéke
-
-A felszámolói névjegyzékbe vétel illetéke 8 000 Ft.
-
-XV. Az építésügyi és az építésfelügyeleti hatósági eljárás illetéke
-
-I. Az építésügyi hatóságnál indított
-
-1. építési (továbbépítési) engedélyezési eljárás alapilletéke 5 000 forint, melyen felül az illeték
-
-a) új – más önálló rendeltetési egységet nem tartalmazó – egylakásos lakóépület építése esetén 20 000 forint,
-
-b) új – más önálló rendeltetési egységet is tartalmazó – épület építése esetén lakásonként 10 000 forint, egyéb önálló rendeltetési egység esetén
-
-ba) önálló rendeltetési egységenként 250 m2 hasznos alapterületig 20 000 forint,
-
-bb) a 250 m2-nél nagyobb hasznos alapterületű önálló rendeltetési egységenként 100 000 forint,
-
-c) műtárgy építése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 10 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 1000 forint,
-
-d) meglévő építmény bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén az építési tevékenységgel érintett
-
-da) hasznos alapterület minden megkezdett 100 m2-ként 10 000 forint, vagy
-
-db) az érintett felület minden megkezdett 200m2-ként 10 000 forint,
-
-e) egyéb építési tevékenység esetén 50 m2-ként 10 000 forint,
-
-f) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény IV. fejezete szerinti veszélyes anyagokkal foglalkozó üzemhez vagy veszélyes létesítményhez tartozó építmény építése, bővítése, átalakítása, felújítása, helyreállítása, korszerűsítése esetén, ha mérete jellemzően alapterületben kifejezhető, akkor minden megkezdett 100 m2-ként 50 000 forint, ha jellemzően hosszban kifejezhető, akkor folyóméterenként 30 000 forint, de legfeljebb 3 000 000 forint,
-
-g) ha az építményben felvonó, mozgólépcső és mozgójárda is létesül, az építési engedélyezés az a)–f) pontokban foglaltakon felül 15 000 forint,
-
-2. módosított építési engedélyezés esetén a módosítással érintett építményrész tekintetében az illeték az 1. pontban foglaltakkal megegyező mértékű,
-
-3. összevont eljárás esetén az alapilleték 10 000 forint, melyen felül
-
-a) az elvi keretengedélyezési szakasz illetéke 20 000 forint,
-
-b) az építési engedélyezési szakasz illetéke alapilleték nélkül az 1. pontban foglaltakkal megegyező mértékű,
-
-4. összevont telepítési eljárás esetén az alapilleték 50 000 forint, melyen felül
-
-a) az integrált hatásvizsgálati szakaszba bevont hatósági eljárásonként 20 000 forint,
-
-b) az építési engedélyezési szakasz illetéke alapilleték nélkül az 1. pontban foglaltakkal megegyező mértékű,
-
-5. az integrált eljárásért az eljárásba bevont társhatóságonként 20 000 forint, a közreműködő építésügyi hatóságnak az eljárásért az 1. pontban foglaltakon felül 50 000 forint,
-
-6. az építményekkel kapcsolatos országos szakmai követelmények jogszabályban meghatározott előírásaitól eltérő műszaki megoldás engedélyezése esetén 20 000 forint,
-
-7. a bontási engedélyezési eljárás esetén a bontandó építmény hasznos alapterülete 100 m2-ként 10 000 forint, vagy folyóméterenként 1000, vagy darabonként 10 000 forint,
-
-8. a fennmaradási engedélyezési eljárás (engedély nélkül végzett bontás tudomásulvétele) esetén az illeték az 1. pont, a 3–5. pont vagy a 7. pont szerint megállapított illeték másfélszerese,
-
-9. a használatbavételi engedélyezés esetében az illeték az 1–5. pontban megállapított illetékkel megegyező mértékű,
-
-10. a használatbavétel tudomásul vétele 10 000 forint,
-
-11.
-
-12. az építésügyi hatósági intézkedés kezdeményezése 15 000 forint,
-
-13. az 1–12. pont alá nem eső építésügyi hatósági eljárás 10 000 forint.
-
-II.
-
-III.
-
-IV. Illetékmentes és igazgatási szolgáltatási díjmentes
-
-a) a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő bontási, építési, módosított építési és használatbavételi engedélyezési eljárás, valamint az eljárásban közreműködő szakhatóságok eljárása,
-
-b) az engedély alapján épített, legfeljebb 300 m2 összes hasznos alapterületű új lakóépület használatbavételi engedélyezési, a használatbavétel tudomásulvételi eljárása, valamint az engedélyezési eljárásban közreműködő szakhatóság eljárása.
-
-V. Ha az építésügyi vagy az építésfelügyeleti hatósághoz egyszerre többféle eljárás lefolytatása iránti kérelem kerül beadásra és azok a külön jogszabály szerint összevonhatóak, vagy egy kérelemmel is benyújthatóak, az illetéket az összevonásra kerülő eljárásonként kell megfizetni.
-
-VI. Az építésügyi hatóságnál indított eljárás illetéke antennák, antennatartó szerkezetek, csatlakozó műtárgyak esetén, az eljárás tárgyát képező távközlési építmény legnagyobb lineáris méretét figyelembe véve, megkezdett méterenként 50 000 forint.
-
-XVI.
-
-XVII.
-
-XVIII. A külkereskedelemmel kapcsolatos eljárások illetéke
-
-1. A felügyeleti okmány kiállítása illetékmentes.
-
-2. A kereskedelmi forgalomban áruk, szolgáltatások és anyagi értéket képviselő jogok behozatalának engedélyezését kezdeményező eljárás illetéke 15 000 forint, a kiadott engedély módosítása iránti eljárás illetéke 10 000 forint. Az engedélyező hatóság előtt indított minden további eljárásért 7000 forint illetéket kell fizetni. A fellebbezési eljárás illetéke az elsőfokú eljárás illetékének kétszerese.
-
-3. Az e törvény szerint teljes személyes illetékmentességben részesülő szerv megbízása alapján indított a 2. pontban említett eljárás illetékmentes. Az illetékmentességet a mentesség jogcímének megjelölésével és a megbízási szerződéssel kell igazolni.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-XIX.A külön jogszabályban meghatározott eljárásokhoz szükséges adó- és értékbizonyítvány kiállítása iránti eljárás illetéke
-
-Az adó- és értékbizonyítvány kiállítása iránti eljárás 4000 forint illeték alá esik.
-
-Ha egy beadványban több ingatlanra vonatkozó adó- és értékbizonyítványt kérnek, az illetéket ezek számától függően, külön-külön kell megfizetni.
-
-XX. Külföldiek ingatlanszerzéséhez szükséges engedély illetéke
-
-Ingatlan tulajdonjogának a külön jogszabály szerinti külföldi jogi vagy természetes személy általi megszerzéséhez szükséges engedély iránt kezdeményezett eljárásért – ingatlanonként – 50 000 forint illetéket kell fizetni. Azon külföldi természetes személy, aki a szabad mozgás és tartózkodás jogával rendelkező, illetve letelepedett jogállású személy, és a magyar állampolgárság megszerzését kezdeményezte, lakástulajdonának megszerzéséhez szükséges engedély iránti eljárásért 10 000 forint illetéket köteles megfizetni.
-
-XXI. A hatósági bizonyítvány kiállítása iránti eljárás illetéke
-
-1. A felszámolói névjegyzékben vezetett adatokról kiállított hatósági bizonyítvány illetéke 5000 Ft.
-
-2.
-
-3.
-
-4. Az adózás rendjéről szóló törvényben meghatározott adóhatósági igazolások illetékmentesek.
-
-XXII. A vízgazdálkodással kapcsolatos helyi önkormányzati hatósági eljárások illetéke
-
-1. Kérelemre indult eljárások illetéke
-
-a)
-
-b) szennyvíz-előtisztító berendezés létesítésének, átalakításának, illetve használatbavételének engedélyezése esetén 10 000 forint.
-
-2. A fellebbezés illetéke:
-
-a) az alapeljárás illetékének kétszerese;
-
-b) első fokon hivatalból indult, vagy folytatott eljárásban hozott határozat elleni fellebbezés esetén 10 000 forint.
-
-XXIII. A haditechnikai termékek gyártása és a haditechnikai szolgáltatások nyújtása engedélyezésének illetéke
-
-1. A haditechnikai termékek gyártása és a haditechnikai szolgáltatások nyújtása engedélyezésének kérelemre indult eljárási illetéke 25 000 forint.
-
-2.
-
-XXIV. A településrendezéssel kapcsolatoskártalanítási eljárás illetéke
-
-A településrendezéssel kapcsolatos kártalanítási eljárás illetéke a követelt kárösszeg 2%-a, de legalább 5000 Ft és legfeljebb 500 000 Ft.
-
-Természetes személyek adósságrendezési eljárásában az adósságrendezési nyilvántartásba történő bejegyzés törlésére irányuló kérelem illetéke
-
-XXV. Természetes személyek adósságrendezési eljárásában az adósságrendezési nyilvántartásba történő bejegyzések törlésére irányuló kérelem illetéke 10 000 forint.
+(8) A 2. melléklet IX. pont 22. alpontja az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i 2016/1191/EU európai parlamenti és tanácsi rendelet 11. cikkének való megfelelést szolgálja.
+
+### 1. melléklet
+
+#### Egyes okmányok, igazolások, hatósági bizonyítványok kiállításával kapcsolatos eljárások illetéke, igazgatási szolgáltatási pótdíja
+
+#### I. Az úti okmányok kiállításával kapcsolatos eljárás illetéke
+
+|  | Eljárás | Illeték, igazgatási szolgáltatási pótdíj |
+| --- | --- | --- |
+| I. Úti okmányok kiállításával kapcsolatos eljárások |  |  |
+| 1. | a magánútlevél, a szolgálati és a hajós szolgálati útlevél kiállítása | 7 500 Ft |
+| 2. | a magánútlevél kiállítása, ha érvényességi ideje 10 év | 14 000 Ft |
+| 3. | a) a kérelem benyújtásának időpontjában 18. életévét be nem töltött személy magánútlevelének, b) az 1 évi érvényességgel kiállított magánútlevél, szolgálati és hajós szolgálati útlevél, c) a menekültként elismert személyek kétnyelvű úti okmányának kiállítása | 2 500 Ft |
+| 4. | a kérelem benyújtásának időpontjában három vagy több kiskorú gyermeket háztartásában nevelő törvényes képviselő esetén a kiskorú gyermek magánútlevelének kiállítása | 500 Ft |
+| 5. | a kérelem benyújtásának időpontjában két kiskorú gyermeket háztartásában nevelő törvényes képviselő esetén a kiskorú gyermek magánútlevelének kiállítása | 1 250 Ft |
+| II. Úti okmányok kiállításával kapcsolatos különleges eljárások |  |  |
+| 1. | a második magánútlevél kiállítása | 15 000 Ft |
+| 2. | a második magánútlevél kiállítása, ha a) a kérelem benyújtásakor a magánszemély a 18. életévét még nem töltötte be b) az okmány érvényességi ideje 1 év | 5 000 Ft |
+| 3. | a magánútlevél, valamint a második magánútlevél a) soron kívüli, b) sürgősségi, c) azonnali kiállítása | az I/1–2. pontban meghatározott mértékű illeték és a külön jogszabályban meghatározott igazgatási szolgáltatási pótdíj |
+| 4. | a pótolt úti okmány kiállítása | 5 500 Ft |
+| 5. | a pótolt úti okmány kiállítása, ha az úti okmány érvényességi ideje 10 év | 8 500 Ft |
+| 6. | a pótolt úti okmány kiállítása, ha a) a kérelem benyújtásakor a magánszemély a 18. életévét még nem töltötte be, b) az okmány érvényességi ideje 1 év | 2 500 Ft |
+| 7. | a pótolt úti okmány kiállítása, ha a kérelem benyújtásának időpontjában két kiskorú gyermeket háztartásában nevelő törvényes képviselő kéri a kiskorú gyermek magánútlevelének pótlását | 1 000 Ft |
+| 8. | a pótolt úti okmány kiállítása, ha a kérelem benyújtásának időpontjában három vagy több kiskorú gyermeket háztartásában nevelő törvényes képviselő kéri a kiskorú gyermek magánútlevelének pótlását | 400 Ft |
+| 9. | a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi és azonnali pótlása | a II/4–8. pontban meghatározott mértékű illeték és a külön jogszabályban meghatározott igazgatási szolgáltatási pótdíj |
+
+#### II. A gépjárművezetői engedély, a forgalmi engedély és a törzskönyv kiállításával kapcsolatos eljárás illetéke
+
+|  | Eljárás | Illeték |
+| --- | --- | --- |
+| 1. | a gépjárművezetői engedély kiállítására irányuló eljárás | 4 000 Ft |
+| 2. | a gépjárművezetői engedély kiállítására irányuló eljárás a) az öregségi nyugdíjkorhatárt betöltött kérelmező esetében, b) ha az egészségügyi hatóság előírása alapján a vezetői engedély érvényessége 1 év vagy annál rövidebb | 1 500 Ft |
+| 3. | a forgalmi engedély kiállításával kapcsolatos eljárás | 6 000 Ft |
+| 4. | az ideiglenes forgalmi engedély kiállítására irányuló eljárás | 2 500 Ft |
+| 5. | a törzskönyv kiállítására irányuló eljárás | 6 000 Ft |
+
+#### III. Az adó- és értékbizonyítvány kiállításával kapcsolatos eljárás illetéke
+
+|  | Eljárás | Illeték |
+| --- | --- | --- |
+| 1. | az adó- és értékbizonyítvány kiállítása iránti eljárás, ingatlanonként | 4 000 Ft |
+
+### 2. melléklet
+
+#### KÖZTEHERFIZETÉSI KÖTELEZETTSÉG ALÁ NEM ESŐ ELJÁRÁSOK ÉS IGAZGATÁSI JELLEGŰ SZOLGÁLTATÁSOK
+
+|  | Eljárás |
+| --- | --- |
+| I. A családjogi jogviszonnyal kapcsolatos eljárások közül |  |
+| 1. | a) a születéssel, b) a házasságkötéssel, c) az örökbefogadással, d) tartással, e) gondozással, f) a halálesettel, g) nemzetiségek anyakönyvi adatainak első ízben történő kijavításával kapcsolatos eljárás, kivéve a magyar állampolgár, illetve Magyarországon lakó hontalan külföldön történő házasságkötéséhez szükséges irat és a nem magyar állampolgár Magyarországon történő házasságkötéséhez szükséges irat kiállítása |
+| 2. | az anyakönyvi kivonat kiállítása |
+| 3. | a házassági név megváltoztatására irányuló eljárás |
+| 4. | a családi állapot változásából eredő névváltozás miatt indult eljárás |
+| 5. | a családi név korrekciójára irányuló eljárás |
+| 6. | a gyámhatóság előtt kezdeményezett eljárás és az ilyen eljáráshoz szükséges irat |
+| 7. | a házasságon kívül született gyermek családi jogállásának bírósági rendezéséhez szükséges irat kiállítása |
+| 8. | az állami gondoskodás körén kívüli nevelőotthoni térítési díj megállapításához szükséges bizonyítvány kiállítása |
+| 9. | a holtnak nyilvánításra, illetve a halál tényének megállapítására irányuló bírósági eljárás céljára szükséges irat kiállítása |
+| II. Az oktatásügyi eljárások közül |  |
+| 1. | a) a bölcsődei, b) óvodai elhelyezéssel kapcsolatos eljárás és az ilyen eljáráshoz szükséges irat kiállítása |
+| 2. | a) a tankötelezettséggel, b) a középfokú és felsőoktatási intézménybe való felvétellel, c) a tanulmányokat folytatónak a tanulmányokkal, a tandíjjal, vizsgadíjjal és a tanulóotthoni, kollégiumi, diákotthoni, napközi otthoni elhelyezésével kapcsolatos eljárás, d) az iskolai és tanfolyami bizonyítvány kiállítása, kivéve a bizonyítvány másolatát, másodlatát |
+| 3. | a) az ösztöndíj adományozásával, b) a külföldön folytatott iskolai tanulmányok beszámításával, c) a külföldi oktatási intézményben szerzett bizonyítvány, oklevél, illetve tudományos fokozat honosításával, d) a külföldi oktatási intézményben szerzett bizonyítvány, oklevél elismerésével, valamint a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény hatálya alá tartozó, a határon átnyúló szolgáltatás bejelentésével kapcsolatos eljárás |
+| 4. | az oktatási igazolvány kiállítása |
+| III. A munkaviszonnyal, szolgálati viszonnyal, foglalkoztatáspolitikával, nyugdíjazással összefüggő eljárások közül |  |
+| 1. | a) munkaviszony, b) szövetkezeti tagsági viszony létesítéséhez, igazolásához szükséges irat kiállítása |
+| 2. | a) a foglalkoztatáspolitika körébe tartozó juttatások (álláskeresési járadék, nyugdíj előtti álláskeresési segély, keresetpótló juttatás stb.), b) a korhatár előtti ellátás, a szolgálati járandóság, c) a táncművészeti életjáradék, d) az átmeneti bányászjáradék igénybevételével kapcsolatos eljárások, e) a nyugdíjazással, nyugdíjfolyósítással kapcsolatos eljárások és az eljáráshoz szükséges iratok kiállítása |
+| 3. | a kitüntetés adományozásával, viselésének engedélyezésével kapcsolatos eljárás |
+| 4. | a megváltozott munkaképességű személyek ellátásai megállapítására irányuló eljárás |
+| 5. | a köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerinti özvegyi ellátással kapcsolatos eljárás |
+| IV. A mezőgazdasági ágazattal kapcsolatos eljárások közül |  |
+| 1. | a mezőgazdasági termelő székhelye vagy lakóhelye és a művelése alatt álló termőföld, tanya vagy használatában lévő telephely között, termény szállítása esetén, az útdíj-köteles elemi útszakaszra vonatkozó, díjmentes viszonylati jegy váltására jogosító hatósági bizonyítvány kiállítására irányuló eljárás |
+| 2. | a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti, a mező- és erdőgazdasági hasznosítású föld tulajdonjoga megszerzésének, valamint a földhasználati szerződésnek a mezőgazdasági igazgatási szerv általi hatósági jóváhagyására irányuló eljárás, továbbá a földhasználati nyilvántartási eljárás |
+| 3. | a termőföld birtokösszevonási célú telekcsoport-újraosztására és telekegyesítésére irányuló telekalakítási eljárás |
+| 4. | a mezőgazdasági és erdészeti gépkezelői jogosítvány kiállítása |
+| 5. | az őstermelők és őstermelők családi gazdasága, valamint családi mezőgazdasági társaságok nyilvántartásával kapcsolatos hatósági eljárás |
+| 6. | a mezőgazdasági, vidékfejlesztési szaktanácsadók nyilvántartásba vételével kapcsolatos eljárás |
+| V. Az egészségügyi, szociális ügyekkel összefüggő eljárások közül |  |
+| 1. | az állampolgárok számára kötelezően elrendelt általános és egyéni betegség megelőzést szolgáló, továbbá hatósági eljárásokhoz kapcsolódó orvosi vizsgálatokról kiállított igazolások, orvosi bizonyítványok kiállítása |
+| 2. | a járványügyi intézkedésként kezdeményezett állategészségügyi eljárás |
+| 3. | a szociálpolitikai feladatot ellátó szervnél vagy ilyen intézetnél, intézménynél szociális ügyben kezdeményezett eljárás |
+| 4. | az áldozatsegítő támogatások engedélyezésére irányuló eljárás |
+| 5. | az egészségügyben működő szakmai kamarai tagsági viszony első létesítésére irányuló eljárás |
+| 6. | a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a) a települési önkormányzat jegyzője vagy b) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala által a szociális rászorultság fennállásáról kiállított igazolás, valamint a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás kiállítása |
+| 7. | a) a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásába (a továbbiakban: szolgáltatói nyilvántartás) való felvétel, b) az adatmódosítás, c) a szolgáltatói nyilvántartásból való törlés, d) a szolgáltatói nyilvántartással kapcsolatos bejelentések, e) a szolgáltatói nyilvántartás adatairól hatósági bizonyítvány kiállítása és f) a szolgáltatói nyilvántartásból teljesített egyéb adatszolgáltatás |
+| 8. | a jelnyelvi tolmács névjegyzékbe vételével kapcsolatos eljárás |
+| 9. | a közérdekű önkéntes tevékenységről szóló törvény alapján a) a fogadó szervek bejelentésére és nyilvántartásba vételére irányuló eljárás, b) a nyilvántartásba vett adatok változásának bejelentésére irányuló eljárás és c) a közérdekű önkénteseket foglalkoztató szervezetek nyilvántartásából való törlésére irányuló eljárás |
+| 10. | a lakáscélú állami támogatás igénylésével kapcsolatos hatósági eljárások |
+| 11. | az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott támogatás megállapítására irányuló hatósági eljárás |
+| 12. | a fiatalok „B” kategóriás közúti járművezetői engedélyének megszerzéséhez nyújtott támogatás megállapítására irányuló hatósági eljárás |
+| 13. | a babaváró támogatás igénylésével kapcsolatos hatósági eljárások |
+| 14. | a nagycsaládosok személygépkocsi-szerzési támogatásának megállapítására irányuló hatósági eljárások |
+| VI. Az adóügyi eljárások közül |  |
+| 1. | az adóhatóság által az adózó adószámlájának egyenlegéről készített értesítés tárgyában hozott határozat elleni jogorvoslati eljárás |
+| 2. | az adóhatósági igazolások kiállítása |
+| 3. | a megbízható adózó részére történő automatikus fizetési könnyítés engedélyezése |
+| VII. A kárpótlással, kisajátítással kapcsolatos eljárások közül |  |
+| 1. | a) a kárpótlási eljárás, b) a részaránytulajdonnal kapcsolatos eljárás, c) a kárpótlási eljáráshoz és a részaránytulajdonnal kapcsolatos eljáráshoz szükséges irat kiállítása, d) a kisajátítási eljárás, e) a kisajátítási járulékos költségek megtérítésére irányuló eljárás, valamint f) a kisajátítási kérelem benyújtására kötelezés iránti eljárás |
+| VIII. A fogyasztóvédelmi eljárások közül |  |
+| 1. | a pénzügyi közvetítőrendszer felügyeletét ellátó szerv fogyasztóvédelmi eljárása |
+| 2. | a fogyasztóvédelmi hatóság fogyasztóvédelmi eljárása |
+| IX. Az adatnyilvántartással, okmányokkal összefüggő eljárások közül |  |
+| 1. | a közigazgatási hatóságnál nyilvántartott adatokban bekövetkezett változások jogszabályi előíráson alapuló, kötelező bejelentése |
+| 2. | a személyi adat- és lakcímnyilvántartásban a lakcím érvénytelenné nyilvánítására irányuló eljárás |
+| 3. | a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi |
+| 4. | a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 27/A. § (1) bekezdése és 27/D. § (1) bekezdése szerinti nyilatkozat megtételével kapcsolatos eljárás |
+| 5. | az érintett polgár adatainak a polgárok személyi adatainak és lakcímének nyilvántartásából való törlésére irányuló eljárás |
+| 6. | az értesítési cím bejelentésével kapcsolatos eljárás |
+| 7. | évente egy alkalommal az állandó személyazonosító igazolvány és a lakcímet igazoló hatósági igazolvány kiállítására irányuló eljárás |
+| 8. | a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente négy alkalommal |
+| 9. | a vállalkozói igazolvánnyal és az üzlet működési engedélyével kapcsolatos eljárás |
+| 10. | hatósági bizonyítvány kiállítása az egyéni vállalkozók nyilvántartásában szereplő adatokról |
+| 11. | az eltulajdonított okmányok pótlására irányuló eljárás |
+| 12. | a mozgásában korlátozott személy parkolási igazolványával kapcsolatos eljárás |
+| 13. | a népművészeti és népi iparművészeti igazolvánnyal kapcsolatos eljárás |
+| 14. | a) a „Magyar igazolvány” b) a „Magyar hozzátartozói igazolvány” kiállításával, cseréjével, pótlásával, visszavonásával és nyilvántartásával kapcsolatos eljárás, továbbá az igazolvány-nyilvántartásból teljesített adatszolgáltatás |
+| 15. | a Magyarország területén kívül élő magyar állampolgár kérelemre történő személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartásba vételére irányuló eljárás |
+| 16. | a) a diplomata-útlevél, b) a külügyi szolgálati útlevél, c) az ideiglenes magánútlevél, d) a határátlépési igazolvány, e) a 65. életévét betöltött személy magánútlevelének, második magánútlevelének kiállítása |
+| 17. | a gépjárművezetői engedély kiállítása első alkalommal |
+| 18. | a forgalmi engedély cseréjére irányuló eljárás, amennyiben az a helység, az utca, egyéb helymeghatározó adat nevének vagy számának megváltozása vagy kizárólag jogszabályváltozás miatt szükséges |
+| 19. | a) a kizárólag a hatóság jogszabálysértő, hibás vagy elmulasztott bejegyzése, döntése, b) az okmány gyártáshibája, valamint a tároló elem hibás adattartalma vagy nem megfelelő működése miatt kezdeményezett hatósági eljárás |
+| 20. | a személyi azonosító képzése – ideértve a személyi azonosító megváltozását eredményező adatváltozást is – miatt kiállított hatósági igazolvány |
+| 21. | társasház esetén a) a közösség ügyintézését ellátó közös képviselő vagy az intézőbizottság elnöke adatainak bejegyzésére, törlésére, megváltozására, b) a közgyűlés által elfogadott számviteli szabályok szerinti beszámoló benyújtására és helyesbítésére irányuló eljárás |
+| 22. | az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i 2016/1191/EU európai parlamenti és tanácsi rendelet szerinti többnyelvű formanyomtatvány kiállítása |
+| X. A másolat, fordítás, hitelesítés közül |  |
+| 1. | az adóbevallás másolatának kiállítása |
+| 2. | a) a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, valamint az írásban tett feljelentés megtételét igazoló irat másolatának, b) a sértett részére a kihallgatásáról, valamint a sértett lakóhelyén, tartózkodási helyén, továbbá a bűncselekmény, szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának egyszeri kiállítása |
+| 3. | a hitelesített vagy nem hitelesített másolat kiállítása, amely az 1. mellékletben és az e mellékletben említett eljáráshoz szükséges |
+| 4. | az 1. mellékletben és az e mellékletben említett eljáráshoz szükséges irat fordítása |
+| 5. | a vagyonszerzési illeték tárgyát képező vagyonszerzés bejelentéséhez szükséges irat hitelesítése |
+| 6. | az ellenőrzés, hitelesítés vagy hozzájárulás céljából – jogszabály rendelkezése alapján – iratra vezetett hivatalos záradékolás |
+| XI. Az építésügyi eljárások közül |  |
+| 1. | az építésügyi hatóság által a használatbavétel tudomásulvételéről kiállított hatósági bizonyítvány kiadása |
+| 2. | a Kormány által rendeletben kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával összefüggő a) bontási, b) építési, c) módosított építési, d) használatbavételi engedélyezési eljárás, valamint e) az eljárásban közreműködő szakhatóságok eljárása |
+| 3. | az engedély alapján épített, legfeljebb 300 m2 összes hasznos alapterületű új lakóépület a) használatbavételi engedélyezési, b) használatbavétel tudomásulvételi, c) engedélyezési eljárásában közreműködő szakhatóság eljárása. |
+| XII. A külkereskedelmi eljárások közül |  |
+| 1. | a külkereskedelmi áruforgalomban áru kivitelének, átvitelének engedélyezésére irányuló eljárás |
+| 2. | a felügyeleti okmány kiállítása |
+| XIII. Egyéb |  |
+| 1. | A költségmentesség engedélyezése iránti eljárás |
+| 2. | A költségmentesség feltételei fennállásának igazolásához szükséges irat kiállítása |
+| 3. | A jogi segítségnyújtás engedélyezésére irányuló eljárás |
+| 4. | A közérdekű bejelentés, javaslat és a panasz elbírálására irányuló eljárás |
+| 5. | Az egyenlő bánásmód követelményének megsértésével kapcsolatban indított eljárás |
+| 6. | A személyes adatok védelméhez fűződő jog megsértésével kapcsolatban indított eljárás |
+| 7. | A külön törvényben meghatározott hozzátartozók közötti erőszak miatt az ideiglenes megelőző távoltartó határozat elrendelésére irányuló eljárás |
+| 8. | A választással, valamint a népszavazással kapcsolatos törvényekből folyó jogok érvényesítésével, kötelezettségek teljesítésével kapcsolatos eljárás |
+| 9. | Az önálló bírósági végrehajtónak az általa lefolytatott bírósági végrehajtási eljárással összefüggésben kezdeményezett eljárása |
+| 10. | A széles körben fenyegető veszély elhárítása céljából a) a tulajdonos, b) a kezelő, c) a használó helyett viselt költség megtérítésére irányuló eljárás |
+| 11. | A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervek és személyek intézkedésével, vagy kényszerítő eszköz alkalmazásával, továbbá a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti pénzügyőri intézkedéssel vagy kényszerítő eszköz alkalmazásával szemben benyújtott panasz és fellebbezés |
+| 12. | Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény hatálya alá tartozó szervek és személyek intézkedésével, vagy kényszerítő eszköz alkalmazásával szemben benyújtott panasz és fellebbezés |
+| 13. | Az európai területi társulásban történő részvétel jóváhagyására irányuló eljárás |
+| 14. | A külön törvényben meghatározott szociális, gyermekjóléti, gyermekvédelmi, közoktatási, felsőoktatási, kulturális közfeladatot ellátó intézmény fenntartója által a központi költségvetésből igénybevett normatív állami hozzájárulások és támogatások megállapítására irányuló eljárás |
+| 15. | A hadkötelezettséggel és a honvédelmi kötelezettségekkel kapcsolatos államigazgatási eljárás, valamint az azokkal kapcsolatos hatósági igazolás céljára történő közokirat kiállítása |
+| 16. | A közműpótló talajvízkút létesítésének, átalakításának, megszüntetésének engedélyezése |
+| 17. | Az öntözési berendezések vagy az öntözőtelepek engedélyezési eljárása, ha az a vízhasználat engedélyezése keretében történik |
+| 18. | A felszín alatti vízkivételt biztosító vízilétesítmények engedélyezési és bejelentési eljárása |
+| 19. | Az igazságügyi szakértői névjegyzékbe vétel és a szakterület kiterjesztése iránti eljárás |
+| 20. | A honosítás, visszahonosítás, a magyar állampolgárság nyilatkozattal történő visszaszerzésére, valamint a magyar állampolgárságról történő lemondásra irányuló eljárás |
+| 21. | A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti belső szabályzat jóváhagyására irányuló eljárás |
+| 22. | A 18. életévét be nem töltött személy által kezdeményezett eljárás |

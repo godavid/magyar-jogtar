@@ -249,6 +249,10 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 37. § A Ptk. 4:172. §-a szerinti, illetve 4:177. §-a szerinti szabályokat a közvetítői eljárás kötelező igénybevételének elrendelésére vonatkozóan a Ptk. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
+### [A Ptk. 4:181. § (4) bekezdéséhez]
+
+37/A. § A Ptk.-nak az egyes gyermekvédelmi és szociális tárgyú törvények módosításáról szóló 2020. évi CXLVII. törvénnyel módosított 4:181. § (4) bekezdését az azt módosító rendelkezés hatálybalépését követően indult ügyekben kell alkalmazni abban az esetben, ha a kapcsolattartást a bíróság 2021. január 1. napját követően szabályozta.
+
 ### [A Ptk. 4:186. § (2) bekezdéséhez]
 
 38. § A gyámhatóság gyámrendelés iránti intézkedéséig fennmarad a szülő szülői felügyeleti joga, ha az a Ptk. 4:186. § (2) bekezdése értelmében szünetelne. A gyámhatóság a gyermek számára a Ptk. hatálybalépésétől számított hat hónapon belül gyámot rendel.

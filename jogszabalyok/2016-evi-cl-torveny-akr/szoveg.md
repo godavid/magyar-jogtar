@@ -157,7 +157,7 @@ az eljáró hatóság gondoskodik ügygondnok kirendeléséről.
 
 (3) Ha az ügyfél lakóhelye ismeretlen vagy nem rendelkezik magyarországi lakóhellyel vagy értesítési címmel (a továbbiakban együtt: lakcím), a (2) bekezdésre alapított illetékességet az ügyfél utolsó ismert hazai lakcíme alapján kell megállapítani.
 
-(4) Ha az (1)–(3) bekezdésben foglaltakra figyelemmel nem állapítható meg az illetékes hatóság – ha jogszabály másként nem rendelkezik –, az eljárásra az adott ügyfajtában a fővárosban eljárásra jogosult hatóság jár el, több azonos hatáskörű fővárosi hatóság esetén pedig az illetékességi vita szabályait kell megfelelően alkalmazni.
+(4) Ha az (1)–(3) bekezdésben foglaltakra figyelemmel nem állapítható meg az illetékes hatóság – ha jogszabály másként nem rendelkezik –, az adott ügyfajtában a fővárosban eljárásra jogosult hatóság jár el, több azonos hatáskörű fővárosi hatóság esetén pedig az illetékességi vita szabályait kell megfelelően alkalmazni.
 
 (5) Az ügyben illetékes hatóságok közül az jár el, amelynél az eljárás előbb indult meg (a továbbiakban: megelőzés).
 
@@ -242,7 +242,7 @@ Az ügy elintézésében nem vehet részt az a személy, akitől nem várható e
 
 (3) Ha az ügyfél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, vagy ugyanabban az eljárásban ugyanazon ügyintéző ellen ismételten alaptalan bejelentést tesz, őt a kizárást megtagadó végzésben eljárási bírsággal lehet sújtani.
 
-(4) Ha a kizárási ok a hatósággal szemben merül fel, az ügyben – jogszabály eltérő rendelkezése hiányában – a felügyeleti szerv vezetője által kijelölt másik azonos hatáskörű hatóság jár el.
+(4) Ha a kizárási ok a hatósággal szemben merül fel, a kizárási okot a hatóság a felügyeleti szerv számára bejelenti. A felügyeleti szerv dönt a hatóság kizárásáról, egyúttal – jogszabály eltérő rendelkezése hiányában – rendelkezik az ügyben eljáró másik, az eljárásból kizárt hatósággal azonos hatáskörű hatóság kijelöléséről.
 
 (5) Ha
 
@@ -430,6 +430,8 @@ Ha az automatikus döntéshozatali eljárásban és a sommás eljárásban hozot
 - c) – szükség esetén – szakhatóságot keres meg, rendelkezik a tényállás tisztázásához szükséges előre látható eljárási cselekményekről, hiánypótlásra hív fel.
 
 (2) A hatóság teljes eljárásra történő áttérés esetén – amennyiben annak feltételei fennállnak – elektronikus úton tájékoztatja az ügyfelet a teljes eljárás ügyintézési határidejéről, a határidő túllépésének jogkövetkezményeiről és arról, hogy a hatóság a továbbiakban a teljes eljárás szabályai szerint jár el.
+
+(3) Amennyiben az ügyben van ellenérdekű ügyfél, a hatóság őt az Eüsztv. szerinti ügyintézési rendelkezése szerint, ennek hiányában elektronikus úton, amennyiben erre nincsen mód, akkor egyéb kapcsolattartási módon tájékoztatja az ügy tárgyáról, az eljárás megindításának napjáról, az iratokba való betekintés és a nyilatkozattétel lehetőségéről, kérelemre indult eljárásban a kérelmező ügyfél nevéről.
 
 #### 20. Hiánypótlás
 
@@ -647,7 +649,7 @@ eljárási bírsággal sújtható.
 
 (2) Ha az idézett személy az idézésre nem jelent meg, és távolmaradását nem mentette ki, a rendőrség útján elővezettethető. Az elővezetés foganatosításához az ügyésznek a hatóság vezetője által kért előzetes hozzájárulása szükséges.
 
-(3) Ha a hatóságnak tudomása van arról, hogy az elővezetni kívánt személy a Magyar Honvédség tényleges állományú vagy a rendvédelmi szervek hivatásos állományú tagja, az elővezetés céljából az állományilletékes parancsnokot keresi meg.
+(3) Ha a hatóságnak tudomása van arról, hogy az elővezetni kívánt személy a Magyar Honvédség tényleges állományú vagy a rendvédelmi szervek hivatásos állományú tagja, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja, az elővezetés céljából az állományilletékes parancsnokot, illetve a Nemzeti Adó- és Vámhivatal foglalkoztatottjának munkáltatóját keresi meg.
 
 (4) Ha az idézett személy igazolja a távolmaradásának vagy eltávozásának menthető indokát, a hatóság visszavonja az eljárási bírságot megállapító és az elővezetést elrendelő végzést.
 
@@ -1350,7 +1352,7 @@ hozta.
 
 - a) ha az elsőfokú döntést – a központi hivatal kivételével – központi államigazgatási szerv vezetője hozta,
 - b) ha a képviselő-testület önkormányzati hatósági ügyben hozott döntést,
-- c) a másodfokú hatóság által hozott önállóan fellebbezhető végzés esetén,
+- c) a másodfokú hatóság által hozott önálló jogorvoslattal támadható végzés esetén,
 - d) ha nincs kijelölt másodfokú hatóság,
 - e) nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított ügyben,
 - f) ha a hatósági szerződés alapján végrehajtást rendeltek el.
@@ -1393,7 +1395,7 @@ hozta.
 
 #### 120. § [A döntés módosítása vagy visszavonása]
 
-(1) Ha a hatóság megállapítja, hogy a másodfokú hatóság, a felügyeleti szerv vagy a közigazgatási bíróság által el nem bírált döntése jogszabályt sért, a döntését annak közlésétől számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja.
+(1) Ha a hatóság megállapítja, hogy a másodfokú hatóság, a felügyeleti szerv vagy a közigazgatási bíróság által el nem bírált döntése jogszabályt sért, a döntését annak közlésétől – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 5/A. §-ába ütköző esetben a büntetőügyben hozott határozat közlésétől – számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja.
 
 (2) Törvény vagy kormányrendelet eltérő rendelkezése hiányában a döntést a hatósági igazolványba és bizonyítványba felvett téves bejegyzés kivételével nem lehet módosítani vagy visszavonni, ha az jóhiszeműen szerzett és gyakorolt jogot sértene.
 
@@ -1406,7 +1408,7 @@ hozta.
 - a) megteszi a szükséges intézkedést a jogszabálysértő mulasztás felszámolására, illetve
 - b) gyakorolja a (2) bekezdésben szabályozott felügyeleti jogkört.
 
-(2) Ha a hatóság döntése jogszabályt sért, a felügyeleti szerv legfeljebb egy ízben azt megváltoztatja vagy megsemmisíti, és szükség esetén a döntést hozó hatóságot új eljárásra utasítja.
+(2) Ha a hatóság döntése jogszabályt sért, a felügyeleti szerv legfeljebb egy ízben – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 5/A. §-ába ütköző esetben a büntetőügyben hozott határozat közlésétől számított egy éven belül, a (3) bekezdésben meghatározott időtartamon túl is – azt megváltoztatja vagy megsemmisíti, és szükség esetén a döntést hozó hatóságot új eljárásra utasítja.
 
 (3) A hatóság döntése nem változtatható meg és nem semmisíthető meg, ha
 

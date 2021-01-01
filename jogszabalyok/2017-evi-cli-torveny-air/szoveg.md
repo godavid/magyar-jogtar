@@ -131,12 +131,12 @@ lehet tenni.
 (1) Az adózó
 
 - a) az adó feltételes megállapítására irányuló eljárásban,
-- b) a feltételes adómegállapítás alkalmazhatóságának megállapítására irányuló eljárásban és
+- b) a feltételes adómegállapítás alkalmazhatóságának megállapítására irányuló eljárásban, és
 - c) a szokásos piaci ár megállapítására irányuló eljárásban
 
-kizárólag ügyvéd, kamarai jogtanácsos, adótanácsadó, adószakértő, okleveles adószakértő vagy könyvvizsgáló képviseletével járhat el.
+kizárólag kamarai jogtanácsos, ügyvéd, nyilvántartásba vett adószakértő, nyilvántartásba vett okleveles adószakértő, nyilvántartásba vett adótanácsadó, könyvvizsgáló képviseletével járhat el.
 
-(2) Az (1) bekezdés szerinti képviselet a saját ügyben nem kötelező, ha a természetes személy vagy a jogi személy, egyéb szervezet vezető tisztségviselője jogi szakvizsgával vagy okleveles könyvvizsgálói szakképesítéssel rendelkezik vagy nyilvántartásba vett adótanácsadónak, adószakértőnek, okleveles adószakértőnek vagy könyvvizsgálónak minősül. A jogi szakvizsga megszerzését, az okleveles könyvvizsgálói szakképesítés meglétét, és azt, hogy a természetes személyt vagy a jogi személy, egyéb szervezet vezető tisztségviselőjét az adótanácsadói, adószakértő vagy az okleveles adószakértői nyilvántartásba bejegyezték, az (1) bekezdésben meghatározott hatósági eljárások megindítására irányuló kérelemmel egyidejűleg kell igazolni.
+(2) Az (1) bekezdés szerinti képviselet a saját ügyben nem kötelező, ha a természetes személy vagy a jogi személy, egyéb szervezet törvényes vagy szervezeti képviselője vagy foglalkoztatottja jogi szakvizsgával vagy okleveles könyvvizsgálói szakképesítéssel rendelkezik vagy nyilvántartásba vett adószakértőnek, nyilvántartásba vett okleveles adószakértőnek, nyilvántartásba vett adótanácsadónak, vagy könyvvizsgálónak minősül. A jogi szakvizsga megszerzését, az okleveles könyvvizsgálói szakképesítés meglétét, és azt, hogy a természetes személyt vagy a jogi személy, egyéb szervezet törvényes vagy szervezeti képviselőjét vagy foglalkoztatottját az adószakértői vagy az okleveles adószakértői, adótanácsadói nyilvántartásba bejegyezték, az (1) bekezdésben meghatározott hatósági eljárások megindítására irányuló kérelemmel egyidejűleg kell igazolni.
 
 #### 17. § [Állandó meghatalmazás alapján eljárni jogosultak]
 
@@ -511,7 +511,7 @@ Az adóhatóság a kérelmet nyolc napon belül végzéssel visszautasítja, ha
 - h) az adózó a kérelmére indult eljárásban a képviselő visszautasítása esetén az adóhatóság felhívása ellenére nem gondoskodik a képviselet ellátásra alkalmas személy meghatalmazásáról vagy nem jár el személyesen, kivéve, ha az eljárás hivatalból is megindítható, és az adóhatóság az eljárást hivatalból folytatja,
 - i) az eljárásért igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni, és a kérelmező a fizetési kötelezettségének a felhívás ellenére nem tesz eleget és költségmentességben sem részesül,
 - j) a 26. §-ban, valamint a 126. § (7) bekezdésében szabályozott eljárás során az arra okot adó feltétel bekövetkezik, vagy
-- k) ha a hivatalból indult eljárásban a tényállás a határozat meghozatalához szükséges mértékben nem volt tisztázható, és további eljárási cselekményektől sem várható eredmény.
+- k) a hivatalból indult eljárásban a tényállás a határozat meghozatalához szükséges mértékben nem volt tisztázható, és további eljárási cselekményektől sem várható eredmény.
 
 (2) Az (1) bekezdés f) pontja szerinti esetben az adóhatóság szükség esetén a döntést visszavonja, és erről szóló döntését a korábban eljárt vagy kijelölt adóhatósággal is közli.
 
@@ -811,7 +811,7 @@ tolmácsot kell alkalmazni.
 
 (1) Az adóhatóság az e törvényben meghatározott esetekben hatósági tanút vehet igénybe. A hatósági tanú az eljárási cselekmény során történt eseményeket és az általa tapasztalt tényeket igazolja. Hatósági tanúként való közreműködésre senki nem kötelezhető.
 
-(2) Nem lehet hatósági tanú az adózó, az adózó hozzátartozója vagy képviselője, az eljáró adóhatósággal közszolgálati, kormányzati szolgálati vagy hivatásos szolgálati jogviszonyban, munkaviszonyban vagy egyéb munkavégzésre irányuló jogviszonyban álló személy és az eljárási képességgel nem rendelkező személy.
+(2) Nem lehet hatósági tanú az adózó, az adózó hozzátartozója vagy képviselője, az eljáró adóhatósággal adó- és vámhatósági szolgálati jogviszonyban, közszolgálati jogviszonyban, munkaviszonyban vagy egyéb munkavégzésre irányuló jogviszonyban álló személy és az eljárási képességgel nem rendelkező személy.
 
 (3) Az eljárási cselekmény előtt a hatósági tanút a jogairól és kötelességeiről fel kell világosítani. A hatósági tanú a tanú költségeinek megtérítésére vonatkozó szabályok szerint jogosult költségtérítésre.
 
@@ -888,7 +888,7 @@ Az adóhatóság az adóügy érdemében határozattal, az eljárás során eld�
 
 #### 77. § [Saját kézbesítő útján történő kézbesítés]
 
-(1) Az adóhatósági irat a postai kézbesítés mellőzésével saját – az adóhatósággal közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, munkaviszonyban vagy egyéb szolgálati jogviszonyban álló – kézbesítő útján is kézbesíthető. A saját kézbesítő útján történő kézbesítés esetén az adóhatósági iratot az veheti át, aki a postai úton történő kézbesítés esetén átvételre jogosult.
+(1) Az adóhatósági irat a postai kézbesítés mellőzésével saját – az adóhatósággal adó- és vámhatósági szolgálati jogviszonyban, közszolgálati jogviszonyban, munkaviszonyban vagy egyéb szolgálati jogviszonyban álló – kézbesítő útján is kézbesíthető. A saját kézbesítő útján történő kézbesítés esetén az adóhatósági iratot az veheti át, aki a postai úton történő kézbesítés esetén átvételre jogosult.
 
 (2) Az adóhatósági iratot a saját kézbesítő útján történő kézbesítés megkísérlésének napján akkor is kézbesítettnek kell tekinteni, ha az adózó vagy az irat átvételére jogosult személy az átvételt megtagadta.
 
@@ -898,8 +898,9 @@ A közlést hirdetmény útján kell teljesíteni, ha
 
 - a) az adózó elektronikus kapcsolattartásra szolgáló elérhetősége, lakcíme, székhelye ismeretlen, vagy a postai küldemény azzal a megjegyzéssel érkezik vissza, hogy a címzett ismeretlen helyre költözött, és a személyiadat- és lakcímnyilvántartást vezető hatóság vagy más állami szerv megkeresése nem járt eredménnyel,
 - b) a jogutód nem ismert,
-- c) az adózó nem jelölt meg kézbesítési meghatalmazottat, vagy
-- d) azt törvény vagy kormányrendelet előírja.
+- c) az adózó nem jelölt meg kézbesítési meghatalmazottat,
+- d) a kézbesítés egyéb elháríthatatlan akadályba ütközik, vagy annak megkísérlése már előre is eredménytelennek mutatkozik, vagy
+- e) azt törvény vagy kormányrendelet előírja.
 
 #### 78. § [Kézbesítés több adózó, meghatalmazott esetén]
 
@@ -916,7 +917,7 @@ A közlést hirdetmény útján kell teljesíteni, ha
 - a) a kézbesítés megkísérlésének napján – a b) pontban meghatározott kivétellel – kézbesítettnek kell tekinteni, ha a küldemény az adóhatósághoz a kézbesítés eredménytelensége miatt érkezik vissza, vagy
 - b) a postai kézbesítés második megkísérlését követő ötödik munkanapon kell kézbesítettnek tekinteni, ha az adóhatósági iratot a posta a rá vonatkozó szabályoknak megfelelően „nem kereste” jelzéssel küldte vissza az adóhatóságnak.
 
-(3) Elektronikus kapcsolattartás esetén a kézbesítésre az Eüsztv. 14. § (4) bekezdését és 15. § (1)–(4) bekezdését kell alkalmazni.
+(3) Elektronikus kapcsolattartás esetén a kézbesítésre az Eüsztv. 14. § (4) bekezdését és 15. § (1)–(6) bekezdését kell alkalmazni.
 
 (4) Az adóhatósági irat – a meghatalmazott képviselő mellett – a meghatalmazott képviselővel rendelkező adózó részére is kézbesíthető. Ilyen esetben az iratot az adózó, valamint a meghatalmazott részére ugyanazon a napon kell postára adni, illetve az irat kézbesítéséhez biztonságos kézbesítési szolgáltatást is igénybe lehet venni. E bekezdés nem alkalmazható az adóhatóság saját kézbesítője útján történő kézbesítésre.
 
@@ -1169,7 +1170,7 @@ Adóellenőrzéssel lezárt bevallási időszak tekintetében az adó, költség
 
 (3) Ha az adóhatóság a vizsgálat megállapításait más adózónál végzett kapcsolódó vizsgálat eredményével vagy ennek során beszerzett adatokkal, bizonyítékokkal támasztja alá, az erről szóló jegyzőkönyvnek, határozatnak, illetve a kapcsolódó vizsgálat során feltárt adatoknak, bizonyítékoknak az adózót érintő részét az adózóval részletesen ismertetni kell.
 
-(4) Az adózó, ha megítélése szerint az ellenőrzés határidejének túllépése az adóhatóságnak felróható okból történik, a határidő lejártát követően kifogással fordulhat a felettes szervhez. A felettes szerv az adózó észrevételeinek figyelembevételével végzésben dönt a kifogás elutasításáról, az eljárási határidő meghosszabbításáról, vagy az eljáró adóhatóságot az ellenőrzés lezárására utasítja.
+(4) Az adózó, ha megítélése szerint az ellenőrzés határidejét az adóhatóság túllépte, az általa számított határidő lejártát követően kifogással fordulhat a felettes szervhez. A felettes szerv az adózó észrevételeinek figyelembevételével végzésben dönt a kifogás elutasításáról, az eljárási határidő meghosszabbításáról, vagy az eljáró adóhatóságot az ellenőrzés lezárására utasítja. Az eljárási határidő meghosszabbítására kizárólag akkor van lehetőség, ha az ellenőrzési határidő még nem járt le. Az ellenőrzési határidő meghosszabbításakor figyelemmel kell lenni a 94. § (3)–(4) bekezdésében és a 95. §-ban foglaltakra.
 
 (5) Ha a természetes személy adózó jogainak gyakorlásában akadályozott – a jogkövetési vizsgálat kivételével – egy alkalommal kérheti az akadály megszűnéséig, de legfeljebb hatvan napig az ellenőrzés megkezdésének vagy az ellenőrzési cselekményeknek az elhalasztását.
 
@@ -1469,6 +1470,8 @@ Ha törvény eltérően nem rendelkezik, a fellebbezésnek a döntés végrehajt
 
 (2) Felügyeleti intézkedés iránti kérelem egy alkalommal, a döntés véglegessé válásától számított egy éven belül nyújtható be. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Az elkésett kérelmet a felettes adóhatóság visszautasítja. Nincs helye felügyeleti intézkedés iránti kérelemnek, ha az adózó feltételes adóbírság kedvezményt vett igénybe.
 
+(2a) A felügyeleti intézkedés iránti kérelem benyújtása esetén alkalmazni kell a 124. § (3)–(4) és (6) bekezdését.
+
 (3) Az adópolitikáért felelős miniszter, illetve az állami adó- és vámhatóságot irányító miniszter abban az esetben jár el, ha a felettes adóhatóság az ügyben már döntést hozott.
 
 (4) A felettes adóhatóság, az adópolitikáért felelős miniszter, illetve az állami adó- és vámhatóságot irányító miniszter nem tehet felügyeleti intézkedést, ha az adóhatóság döntését, illetve döntésrészét közigazgatási bíróság már elbírálta.
@@ -1543,7 +1546,7 @@ Ha az ügyész az ügyészségről szóló törvény alapján felhívással él,
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni
 
 - a) a bíróság jogerős ügydöntő határozatában megállapított költségvetési csalás, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, illetve az adókötelezettség teljesítésével összefüggésben elkövetett csalás esetén,
-- b) a bíróság által elrendelt új eljárás esetén,
+- b) a felettes szerv által a felülellenőrzési eljárásban, illetve a bíróság által elrendelt új eljárás esetén,
 - c) ha az ellenőrzést az adópolitikáért felelős miniszter vagy az Állami Számvevőszék elnöke – önkormányzati adóhatóság hatáskörébe tartozó adó esetében az önkormányzati képviselő-testület határozata – rendelte el,
 - d) ha az ismételt ellenőrzés eredménye ellátási jogosultságot teremt,
 - e) ha az adóhatóság olyan, az adó megállapítását befolyásoló új tényről, adatról, bizonyítékról szerez tudomást, amely a korábbi ellenőrzéskor nem volt ismert, és az ellenőrzés lefolytatására az állami adó- és vámhatóság vezetője, az önkormányzati adóhatóság hatáskörébe tartozó adó esetén az önkormányzati adóhatóság döntései elleni fellebbezések elbírálására jogosult hatóság vezetője utasítást ad.
@@ -1623,6 +1626,12 @@ E törvénynek az egyes adótörvények és más kapcsolódó törvények módos
 (2) A Módtv.2.-vel megállapított 82–84. §-t a 2019. január 1-jét követően elrendelt biztosítási intézkedések és ideiglenes biztosítási intézkedések tekintetében kell alkalmazni.
 
 (3) A Módtv.2.-vel megállapított 87. § (1) bekezdés a) pont ad) alpontját és (1a)–(1b) bekezdését a 2019-ben és azt követően kezdődő üzleti évek tekintetében kell alkalmazni.
+
+#### 139/C. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvényhez]
+
+(1) Az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvény (a továbbiakban: Módtv.3.) által megállapított 77/A. §-t a 2021. január 1-jén folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) A Módtv.3. által megállapított 128. § (2a) bekezdését és 133. § (2) bekezdés b) pontját a 2021. január 1-jén vagy azt követően indult és a megismételt eljárásokban kell alkalmazni.
 
 #### 57. Az Európai Unió jogának való megfelelés
 

@@ -98,7 +98,15 @@ vonatkozó szabályokat kell alkalmazni.
 
 (5)
 
-#### 6/A. §
+### A tizenharmadik havi nyugdíj
+
+6/A. § (1) Tizenharmadik havi nyugdíjra az jogosult, aki a tárgyévet megelőző év legalább egy napjára, valamint a tárgyév januárjára társadalombiztosítási nyugellátásban vagy a 6. § (4) bekezdése szerinti ellátásban részesül.
+
+(2) Ha a jogosult több társadalombiztosítási nyugellátásban vagy a 6. § (4) bekezdése szerinti ellátásban részesül, a tizenharmadik havi nyugdíjra való jogosultságot ellátásonként kell vizsgálni.
+
+(3) A tizenharmadik havi nyugdíj összege megegyezik a tárgyév január hónapjára a jogosultat megillető, a tárgyévet megelőző év legalább egy napjára is folyósított, tizenharmadik havi nyugdíjra jogosító társadalombiztosítási nyugellátások és a 6. § (4) bekezdése szerinti ellátások együttes összegével.
+
+(4) A tizenharmadik havi nyugdíjat a nyugdíjfolyósító szerv a tárgyév első negyedévében, hivatalból, külön határozat meghozatala nélkül folyósítja.
 
 ### II. Fejezet — AZ ÖREGSÉGI NYUGDÍJ
 
@@ -218,7 +226,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 - c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermekek otthongondozási díja, ápolási díj) összegét,
 - d) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) 3–5. §-a szerinti prémiumévek program, illetve különleges foglalkoztatási állomány keretében járó juttatás összegét,
 - e) a rehabilitációs ellátás összegét,
-- f) a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés vagy a honvédelmi egészségkárosodási járadék összegét,
+- f) a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés vagy a honvédelmi egészségkárosodási járadék, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítés, egészségkárosodási járadék összegét,
 - g) a rehabilitációs járadék összegét, valamint
 - h) az a)–f) pont szerinti ellátások folyósításának időtartama alatt szerzett, biztosítással járó jogviszonyból származó jövedelmet, keresetet
 
@@ -321,7 +329,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 - i) az Rjtv. szerinti rehabilitációs járadék folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 - j) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során elismert szolgálati időt, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták,
 - k) a szociális szövetkezeti tag tagi munkavégzésének időtartamát, ha az előírt nyugdíjjárulékot megfizették,
-- l) a rendvédelmi egészségkárosodási járadék vagy a honvédelmi egészségkárosodási járadék folyósításának időtartamát.
+- l) a rendvédelmi egészségkárosodási járadék a honvédelmi egészségkárosodási járadék vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadék folyósításának időtartamát.
 
 (2) Szolgálati időként nem lehet figyelembe venni
 
@@ -336,7 +344,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 39. § (1) Ha a biztosítottnak a Tbj. 6. § (1) bekezdés a)–b), f) pontja és a (2) bekezdése szerinti biztosítási kötelezettséggel járó jogviszonya keretében – ide nem értve a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) értelmében teljes munkaidőben, illetőleg az adott munkakörre irányadó, jogszabályban meghatározott munkaidőben, valamint a szakképzési munkaszerződés keretében foglalkoztatottakat – elért nyugdíjjárulék-alapot képező keresete, jövedelme a külön jogszabályban meghatározott minimálbérnél kevesebb, akkor a 20. §-ának alkalmazása során – az 1996. december 31-ét követő időszak tekintetében – a biztosítási időnek csak az arányos időtartama vehető szolgálati időként figyelembe. Ebben az esetben a szolgálati idő és a biztosítási idő aránya azonos a nyugdíjjárulék alapját képező kereset, jövedelem és a mindenkori érvényes minimálbér arányával.
 
-(2) Az (1) bekezdés rendelkezéseit a Tbj. 41. § (2) bekezdése szerinti mezőgazdasági őstermelő 2007. december 31-ét követően szerzett biztosítási idejének, valamint a főállású kisadózó biztosítási idejének szolgálati időként történő figyelembevétele során is alkalmazni kell.
+(2) Az (1) bekezdés rendelkezéseit a mezőgazdasági őstermelő 2007. december 31-ét követően szerzett biztosítási idejének, valamint a főállású kisadózó biztosítási idejének szolgálati időként történő figyelembevétele során is alkalmazni kell.
 
 40. § Szolgálati időként kell figyelembe venni azt az időt is, amely a Tbj. 6. § (1) bekezdés a) pontja szerinti jogviszony jogellenes megszűnésétől annak helyreállításáig, vagy az utóbbi mellőzése esetén a jogviszony jogellenes megszüntetésének jogerős megállapításáig telt el.
 
@@ -827,7 +835,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 #### 83/B. §
 
-83/C. § (1) Az öregségi nyugdíj folyósítását – az öregségi nyugdíj kezdő időpontjától, öregségi nyugdíjasként létesített jogviszony esetén pedig a jogviszony létesítésének hónapját követő hónap első napjától a jogviszony megszűnése hónapjának utolsó napjáig – szüneteltetni kell, ha a nyugdíjas közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, köztisztviselőként vagy közszolgálati ügykezelőként közszolgálati jogviszonyban, bírói szolgálati viszonyban, igazságügyi alkalmazotti szolgálati viszonyban, ügyészségi szolgálati viszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban vagy a Magyar Honvédséggel szerződéses vagy hivatásos szolgálati viszonyban áll.
+83/C. § (1) Az öregségi nyugdíj folyósítását – az öregségi nyugdíj kezdő időpontjától, öregségi nyugdíjasként létesített jogviszony esetén pedig a jogviszony létesítésének hónapját követő hónap első napjától a jogviszony megszűnése hónapjának utolsó napjáig – szüneteltetni kell, ha a nyugdíjas közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, köztisztviselőként vagy közszolgálati ügykezelőként közszolgálati jogviszonyban, bírói szolgálati viszonyban, igazságügyi alkalmazotti szolgálati viszonyban, ügyészségi szolgálati viszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban vagy a Magyar Honvédséggel szerződéses vagy hivatásos szolgálati viszonyban áll.
 
 (2) A nyugdíjbiztosítási igazgatási szerv az öregségi nyugdíj folyósításának szüneteltetéséről és a jogalap nélkül felvett öregségi nyugdíj visszafizettetéséről – a nyugellátásban részesülő személynek a 97. § (5) bekezdése szerint tett bejelentése, illetve az állami adóhatóság által közölt adatok alapján – hivatalból dönt.
 
@@ -1013,20 +1021,21 @@ tarthatók nyilván.
 
 (2b) A nyugdíjbiztosítási igazgatási szervek a 883/2004/EK európai parlamenti és tanácsi rendelet 76. cikke szerinti együttműködés keretében az EGT-állam által nyújtott ellátások megállapítása, illetve folyósítása céljából, az ahhoz szükséges ideig kezelik a részükre megküldött, a (2) bekezdésben nem említett adatokat.
 
-(3) A 96. § (2) bekezdése alapján nyilvántartásba vett adatokból
+(3) A (2) bekezdés alapján nyilvántartásba vett adatokból
 
-- a) az állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében az a) pont szerinti adatok, valamint a d) pontból a munkahelyre vonatkozó,
-- b) az állami adóhatóság, az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adó-végrehajtási eljárás lefolytatása érdekében, a támogatás megállapítása és ellenőrzése érdekében az a)–d) pontjai, az e) pontból a rokkantság fokára vonatkozó, valamint az f) pont,
-- c) a munkaügyi és szociális igazgatás szervei, az állami foglalkoztatási szerv az ellátás megállapítása, folyósítása és ellenőrzése, illetve munkaügyi ellenőrzés céljából a (2) bekezdés a)–f) pontjai, a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatás megállapítása céljából a (2) bekezdés a)–d) és f) pontjai,
-- d) az egészségügyi ellátást nyújtó szervek (személyek) az egészségügyi szolgáltatói feladataik ellátása érdekében az a)–e) pontjai,
-- e) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai és a cégbíróságok külön törvényben meghatározottak,
-- f) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a), d) és f) pontja,
-- g) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából az a)–e) pontjai,
-- h) az állami szakképzési és felnőttképzési szerv a pályakövetési rendszer működtetése céljából a d) pont,
-- i) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók, valamint a volt honvédelmi alkalmazottak árvái esetében a (2) bekezdés a), c), valamint a g)–h) pont,
-- j) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (1) bekezdés c) pontjában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a nyugdíjfolyósító szerv által kibocsátott utazási utalványban részesülő személyekre vonatkozóan a (2) bekezdés a) és h) pontja
+- a) az állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében a (2) bekezdés a) és d) pontja,
+- b) az állami adóhatóság, valamint az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adóvégrehajtási eljárás lefolytatása érdekében, továbbá a támogatás megállapítása és ellenőrzése érdekében a (2) bekezdés a)–d) pontja szerinti adatok, a (2) bekezdés e) pontjából a rokkantság fokára vonatkozó adatok, valamint a (2) bekezdés f) pontja,
+- c) az egészségügyi ellátást nyújtó szerv vagy személy az egészségügyi szolgáltatói feladatai ellátása érdekében a (2) bekezdés a)–e) pontja,
+- d) a cégbíróság törvény,
+- e) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a), d) és f) pontja,
+- f) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók, valamint a volt honvédelmi alkalmazottak árvái esetében a (2) bekezdés a), c), g) és h) pontja,
+- g) a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatás megállapítása céljából a (2) bekezdés a)–d) és f) pontja,
+- h) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából a (2) bekezdés a)–e) pontja,
+- i) az oktatási nyilvántartás működéséért felelős szerv a pályakövetési rendszer működtetése céljából a (2) bekezdés d) pontja,
+- j) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 35/A. §-ában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a nyugdíjfolyósító szerv által kibocsátott utazási utalványban részesülő személyekre vonatkozóan a (2) bekezdés a) és h) pontja
+- k) a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjáradékkal kapcsolatos ügyekben eljáró szerv a művészjáradék folyósítása és a jogosultság ellenőrzése érdekében a (2) bekezdés a), c) és h) pontja
 
-szerinti adatok igénylésére jogosultak.
+szerinti adatok igénylésére jogosult.
 
 (4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
@@ -1173,7 +1182,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 - h) az igény érvényesítésével, az igény elbírálásával, a megállapító és a folyósító szervek közötti adatszolgáltatással kapcsolatos eljárást, továbbá a rögzített öregségi nyugdíj megállapítására vonatkozó részletes szabályokat,
 - i) a visszafizetési és megtérítési kötelezettség teljesítésével, elmulasztásával, továbbá a követelés érvényesítésével, valamint a mérséklés, elengedés, fizetési halasztás, részletfizetés engedélyezésével kapcsolatos eljárási rendelkezéseket,
 - j) a nyugdíjbiztosításon belüli jogorvoslat rendjét,
-- k)
+- k) a tizenharmadik havi nyugdíj megállapítására és folyósítására vonatkozó részletes szabályokat,
 - l) az adatszolgáltatásra és bejelentési kötelezettségre vonatkozó eljárási rendelkezéseket,
 - m)
 - n) a kivételes nyugellátás megállapításának, továbbá a kivételes nyugdíjemelés és az egyszeri segély engedélyezésének részletes szabályait,
@@ -1276,7 +1285,11 @@ szolgálati viszonya az öregségi nyugdíj megállapítását követően helyre
 
 102/J. § A 18. § (2) bekezdés c) pontja, (2a) bekezdés b) pontja, a 83/C. § és a 102/I. § a bírák jogállásáról és javadalmazásáról szóló törvény alapján rendelkezési állományba helyezett bíróra, valamint a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény alapján rendelkezési állományba helyezett ügyészre nem alkalmazható az egyes igazságügyi jogviszonyokban alkalmazandó felső korhatárral kapcsolatos törvénymódosításokról szóló 2013. évi XX. törvény hatálybalépésétől 2022. december 31-ig.
 
-#### 102/K. §
+102/K. § A tizenharmadik havi nyugdíj összege a 6/A. § (3) bekezdésében foglaltaktól eltérően
+
+- a) a 2021. évben a 6/A. § (3) bekezdése szerinti összeg 25%-a,
+- b) a 2022. évben a 6/A. § (3) bekezdése szerinti összeg 50%-a,
+- c) a 2023. évben a 6/A. § (3) bekezdése szerinti összeg 75%-a.
 
 102/L. § (1) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 38. § (1) bekezdés k) pontját a 2015. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 

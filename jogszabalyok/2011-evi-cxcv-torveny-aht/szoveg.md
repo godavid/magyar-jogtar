@@ -190,7 +190,7 @@ látja el.
 
 (2) A fejezetet irányító szervnek címzett hatásköröket a fejezetet irányító szerv vezetője gyakorolja.
 
-(3) A központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai előirányzata esetében jogszabály a fejezetet irányító szerv (1) bekezdésben meghatározott feladatai ellátására – a tervezéssel, az előirányzatok módosításával, átcsoportosításával és az éves költségvetési beszámoló jóváhagyásával kapcsolatos feladatok kivételével – kezelő szervet jelölhet ki. Ha e törvény központi kezelésű előirányzat, fejezeti kezelésű előirányzat vagy elkülönített állami pénzalapok előirányzata kezelő szervéről rendelkezik, azon – kezelő szerv kijelölése hiányában – a fejezetet irányító szervet kell érteni.
+(3) A központi kezelésű előirányzat, a fejezeti kezelésű előirányzat – ideértve a XLVII. Gazdaságvédelmi Alap fejezet gazdaságvédelmet szolgáló fejezeti kezelésű előirányzatait is –, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai előirányzata esetében jogszabály a fejezetet irányító szerv (1) bekezdésben meghatározott feladatai – a tervezés, az előirányzatok módosítása, átcsoportosítása és az éves költségvetési beszámoló jóváhagyása kivételével – részbeni vagy teljes körű ellátására kezelő szervet jelölhet ki. Ha e törvény központi kezelésű előirányzat, fejezeti kezelésű előirányzat vagy elkülönített állami pénzalapok előirányzata kezelő szervéről rendelkezik, azon – kezelő szerv kijelölése hiányában – a fejezetet irányító szervet kell érteni.
 
 6/C. § (1) A helyi önkormányzat bevételeit és kiadásait a helyi önkormányzat költségvetése tartalmazza. A helyi önkormányzat bevételeivel és kiadásaival kapcsolatban a tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatok ellátásáról az önkormányzati hivatal gondoskodik.
 
@@ -423,11 +423,11 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 
 (3) Az (1) és (2) bekezdés szerinti esetekben a kincstár törzskönyvi nyilvántartás vezetésével kapcsolatos eljárása során az ügyintézési határidő tíz nap. Ha a kincstár hiánypótlási felhívást bocsát ki, annak teljesítésére legfeljebb ötnapos határidőt állapíthat meg. A kincstár eljárására egyebekben az e törvényben foglaltakat kell alkalmazni.
 
-11/F. § (1) A feladat átvétele miatt bekövetkező jogállásváltozás (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás) esetén, ha a munkavállaló a közalkalmazottak jogállásáról szóló törvény, a közszolgálati tisztviselőkről szóló törvény, a honvédek jogállásáról szóló törvény, a kormányzati igazgatásról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (ezen alcím alkalmazásában a továbbiakban: jogállási törvény) hatálya alá tartozó átvevő költségvetési szervhez kerül, a munkaviszonya – a (3)–(4), (6) és a (10) bekezdésben foglalt kivétellel – a feladat átvételének időpontjában (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás időpontja) közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
+11/F. § (1) A feladat átvétele miatt bekövetkező jogállásváltozás (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás) esetén, ha a munkavállaló a közalkalmazottak jogállásáról szóló törvény, a közszolgálati tisztviselőkről szóló törvény, a honvédek jogállásáról szóló törvény, a kormányzati igazgatásról szóló törvény, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (ezen alcím alkalmazásában a továbbiakban: jogállási törvény) hatálya alá tartozó átvevő költségvetési szervhez kerül, a munkaviszonya – a (3)–(4), (6) és a (10) bekezdésben foglalt kivétellel – a feladat átvételének időpontjában (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás időpontja) közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, adó- és vámhatósági szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
 
 (2) Az (1) bekezdés szerinti jogállásváltozásról az érintetteket az átvevő költségvetési szerv a jogállásváltozás időpontját megelőző tizenöt napon belül tájékoztatja. Ha eddig a határidőig az átvevő költségvetési szerv még nincs nyilvántartásba véve, abban az esetben az átvételi felelős tájékoztatja az érintetteket.
 
-(3) Az (1) bekezdésben foglaltaktól eltérően nem alakul át a munkaviszony, ha az átvevő költségvetési szerv a jogállási törvény rendelkezései alapján nem létesíthet közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, kormányzati szolgálati, politikai szolgálati, biztosi, hivatásos szolgálati vagy szerződéses szolgálati jogviszonyt az átadással érintett munkavállalóval, ebben az esetben a munkaviszony e törvény erejénél fogva a jogállásváltozás időpontját követő harmincadik napon megszűnik.
+(3) Az (1) bekezdésben foglaltaktól eltérően nem alakul át a munkaviszony, ha az átvevő költségvetési szerv a jogállási törvény rendelkezései alapján nem létesíthet közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, kormányzati szolgálati, politikai szolgálati, biztosi, adó- és vámhatósági szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonyt az átadással érintett munkavállalóval, ebben az esetben a munkaviszony e törvény erejénél fogva a jogállásváltozás időpontját követő harmincadik napon megszűnik.
 
 (4) A (3) bekezdésben foglaltakat kell megfelelően alkalmazni, ha a munkavállalóval szemben a jogállási törvény alapján összeférhetetlenség áll fenn, kivéve, ha az összeférhetetlenséget kiváltó ok megszüntethető, és ennek érdekében a munkavállaló legfeljebb az (5) bekezdésben foglalt időpontig intézkedik, és ezt igazolja.
 
@@ -435,9 +435,9 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 
 (6) A munkavállaló a kinevezési okmány átvételét követő tizenöt napon belül aláírja a kinevezési okmányt, vagy nyilatkozik arról, hogy továbbfoglalkoztatásához nem járul hozzá, ebben az esetben munkaviszonya jogállásváltozás nélkül a jogállásváltozás időpontját követő harmincadik napon megszűnik. E rendelkezést megfelelően alkalmazni kell akkor is, ha a munkavállaló a kinevezési okmány átvételét követő tizenöt napon belül nem tesz nyilatkozatot vagy nem írja alá a kinevezési okiratot.
 
-(7) Határozatlan időtartamú munkaviszony határozatlan időtartamú közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Részmunkaidőben történő foglalkoztatás esetén a jogviszony részmunkaidős közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
+(7) Határozatlan időtartamú munkaviszony határozatlan időtartamú közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, adó- és vámhatósági szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, adó- és vámhatósági szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Részmunkaidőben történő foglalkoztatás esetén a jogviszony részmunkaidős közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, adó- és vámhatósági szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
 
-(8) A munkavállaló munkaviszonyát a jogállásváltozást követően a rá irányadó jogállási törvény szerint közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, hivatásos szolgálati vagy szerződéses szolgálati jogviszonyban töltött időként kell elismerni.
+(8) A munkavállaló munkaviszonyát a jogállásváltozást követően a rá irányadó jogállási törvény szerint közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, adó- és vámhatósági szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonyban töltött időként kell elismerni.
 
 (9) A munkaviszonyban álló vezető jogviszonyának átalakulását követően – a jogállási törvény figyelembevételével – kell a vezetői álláshelyet vagy munkakör szintjét és megnevezését megállapítani.
 
@@ -480,7 +480,7 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 (4) A központi költségvetésről szóló törvény az (1) és (2) bekezdésben foglaltakon, valamint törvény által előírt önálló fejezeteken kívül fejezetként tartalmazza
 
 - a) a Nemzeti Földalapba sorolt vagyon,
-- b) a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) rábízott vagyoni körébe tartozó vagyon,
+- b) az állami vagyon felügyeletéért felelős miniszter és a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) rábízott vagyoni körébe tartozó vagyon,
 - c) az államháztartás központi alrendszere adóssága kezelésének, és
 - d) az állam más fejezetbe nem sorolható közvetlen
 
@@ -637,7 +637,7 @@ szerinti bontásban,
 
 #### 19. A költségvetés elfogadását követő feladatok
 
-28. § (1) A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok költségvetési kiadási előirányzatai felhasználásának szabályait a fejezetet irányító szerv vezetője az államháztartásért felelős miniszter egyetértésével kiadott rendeletben, a központi költségvetés uniós fejlesztések fejezetébe sorolt fejezeti kezelésű előirányzatok felhasználási szabályait a Kormány rendeletben állapítja meg. Jogalkotási jog hiányában a fejezetet irányító szerv vezetője – az államháztartásért felelős miniszter egyetértésével – szabályzatot ad ki.
+28. § (1) A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok költségvetési kiadási előirányzatai felhasználásának szabályait a fejezetet irányító szerv vezetője az államháztartásért felelős miniszter egyetértésével kiadott rendeletben, a központi költségvetés uniós fejlesztések fejezetébe sorolt központi kezelésű és fejezeti kezelésű előirányzatok felhasználási szabályait a Kormány rendeletben állapítja meg. Jogalkotási jog hiányában a fejezetet irányító szerv vezetője – az államháztartásért felelős miniszter egyetértésével – szabályzatot ad ki.
 
 (2) Az (1) bekezdés szerinti rendeletben, belső szabályzatban a felhasználást – a költségvetési évre tekintet nélkül – mindaddig szabályozni kell, amíg annak eredeti vagy módosított kiadási előirányzatai terhére kifizetés teljesíthető.
 
@@ -715,7 +715,7 @@ az állam nevében, a tulajdonosi joggyakorlóval kötött megbízási szerződ�
 - a) az európai uniós források felhasználásával kapcsolatos költségvetési kiadás,
 - b) jogszabály által alanyi jogon összegszerűen megállapított, továbbá magánszemélyeket jogszabályban meghatározott feltételek alapján megillető támogatásokkal kapcsolatos költségvetési kiadás,
 - c) az állammal szemben folyamatban lévő peres ügyekkel és az állam által fizetendő kártérítésekkel, kártalanításokkal, továbbá sérelemdíjakkal kapcsolatos költségvetési kiadás,
-- d) a Kormány által egyedi határozatban biztosított beruházás-ösztönzési célú költségvetési kiadás, valamint a nagyvállalati beruházási támogatásokkal kapcsolatos költségvetési kiadás,
+- d)
 - e) az állami kezességekkel, állami garanciákkal, állami viszontgaranciákkal, kiállítási garanciákkal és viszontgaranciákkal kapcsolatos költségvetési kiadás,
 - f) devizában teljesítendő költségvetési kiadás, az árfolyamváltozás hatásának mértékéig, és
 - g) adósságszolgálattal kapcsolatos kiadás,
@@ -730,13 +730,12 @@ az állam nevében, a tulajdonosi joggyakorlóval kötött megbízási szerződ�
 (3) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában a fejezetet irányító szerv az általa irányított fejezetbe sorolt
 
 - a) költségvetési szervek kiadási előirányzatai terhére előirányzat-átcsoportosítást hajthat végre, ha a költségvetési szerv kiadási előirányzatain megtakarítás keletkezik vagy az átcsoportosítás a közfeladatok változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével kapcsolatban szükséges,
-- b) fejezeti kezelésű előirányzatok és elkülönített állami pénzalapok kiadási előirányzatai terhére előirányzat-átcsoportosítást hajthat végre, ha
+- b) – a Gazdaságvédelmi Alap fejezeti kezelésű előirányzatai kivételével – fejezeti kezelésű előirányzatok, és elkülönített állami pénzalapok kiadási előirányzatai terhére előirányzat-átcsoportosítást hajthat végre, ha
   - ba) azokon megtakarítás keletkezik,
   - bb) az előirányzat-átcsoportosítás a közfeladatok változásával kapcsolatban szükséges,
   - bc) a fejezeti általános tartalék fejezeten belüli előirányzat-átcsoportosítása előre nem valószínűsíthető és nem tervezhető költségvetési kiadás teljesítéséhez szükséges,
-  - bd) az az államháztartás központi alrendszerébe tartozó költségvetési szerv részére költségvetési támogatás biztosításával kapcsolatban szükséges,
-  - be) az európai uniós források felhasználásához kapcsolódik vagy
-  - bf) elkülönített állami pénzalap és fejezeti kezelésű előirányzat javára feladatátadással kapcsolatban szükséges.
+  - bd) az az államháztartás központi alrendszerébe tartozó költségvetési szerv részére költségvetési támogatás biztosításával kapcsolatban szükséges, vagy
+  - be) elkülönített állami pénzalap és fejezeti kezelésű előirányzat javára feladatátadással kapcsolatban szükséges.
 
 (3a) Az ugyanazon középirányító szerv irányítása alá tartozó költségvetési szervek közötti, a (3) bekezdés a) pontja szerinti előirányzat-átcsoportosításról a középirányító szerv jogosult rendelkezni a fejezetet irányító szerv egyidejű tájékoztatása mellett.
 
@@ -747,7 +746,11 @@ az állam nevében, a tulajdonosi joggyakorlóval kötött megbízási szerződ�
 
 kerülhet sor.
 
-(5) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a (3) bekezdés b) pont ba) és bb) alpontja szerinti, a Kormány irányítása alá tartozó fejezeten belüli előirányzat-átcsoportosításhoz. A Kormány irányítása alá tartozó fejezetek közötti, a (3) bekezdés a) pontja, valamint a (3) bekezdés b) pont ba) és bb) alpontja szerinti előirányzat-átcsoportosítás az államháztartásért felelős miniszter egyidejű tájékoztatása mellett történik.
+(4a) A (3) bekezdés szerinti előirányzat-átcsoportosítás – a közfeladatok változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével, valamint a költségvetési szervek részére biztosított, a Kormány rendeletében meghatározott mérték szerinti költségvetési támogatásokkal kapcsolatos előirányzat-átcsoportosítás kivételével – nem irányulhat a személyi juttatások költségvetési kiadási előirányzatai növelésére.
+
+(4b) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a Kormány irányítása alá tartozó fejezeten belüli, (3) bekezdés szerinti előirányzat-átcsoportosításhoz, ha az a központi költségvetés előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatai terhére történik.
+
+(5) A (3) bekezdés b) pont ba) és bb) alpontja szerinti, a Kormány irányítása alá tartozó fejezeten belüli előirányzat-átcsoportosítás, és a fejezetek közötti, (3) bekezdés a) pontja, valamint a (3) bekezdés b) pont ba) és bb) alpontja szerinti előirányzat-átcsoportosítás az államháztartásért felelős miniszter egyidejű tájékoztatása mellett történik.
 
 (6) A kincstár a központi költségvetésről szóló törvény szerinti szerkezetben és bontásban havonta közzéteszi a honlapján az államháztartás központi alrendszerébe tartozó költségvetési szervek, továbbá a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok és társadalombiztosítás pénzügyi alapjai eredeti előirányzatait, módosított előirányzatait, valamint teljesítési adatait.
 
@@ -786,7 +789,7 @@ kerülhet sor.
   - ba) a személyi juttatások, a munkaadókat terhelő járulékok és szociális hozzájárulási adó, a dologi kiadások és az ellátottak pénzbeli juttatásainak kiadási előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának mértékéig,
   - bb) az egyéb működési célú kiadások és a felhalmozási kiadások előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának ötven százalékáig vállalható.
 
-(4a) Ha a következő évre szóló központi költségvetési törvény kihirdetésre kerül, a (4) bekezdés b) pontját a fejezeti kezelésű előirányzatok, valamint a 14. § (4) bekezdés a) és b) pontja szerinti fejezet központi kezelésű előirányzatai esetében azzal az eltéréssel kell alkalmazni, hogy a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettség
+(4a) Ha a következő évre szóló központi költségvetési törvény kihirdetésre kerül, a (4) bekezdés b) pontját a fejezeti kezelésű előirányzatok, központi kezelésű uniós előirányzatok, valamint a 14. § (4) bekezdés a) és b) pontja szerinti fejezet központi kezelésű előirányzatai esetében azzal az eltéréssel kell alkalmazni, hogy a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettség
 
 - a) alapja a következő évre szóló központi költségvetési törvény kihirdetett szövegében megállapított kiadási előirányzat összege,
 - b) a tárgyévet követő évre vonatkozó mértéke a következő évre megállapított kiadási előirányzat mértékének legfeljebb száz százaléka.
@@ -899,11 +902,11 @@ kerülhet sor.
 
 #### 31. Az állami vagyonnal való gazdálkodás sajátos államháztartási szabályai
 
-45. § (1) Az állam nevében hitelt, kölcsönt – a törvényben vagy miniszteri rendeletben kijelölt tulajdonosi joggyakorló, valamint az Nvt. 8. § (7) bekezdése szerinti meghatalmazott esetén annak kezdeményezésére – az MNV Zrt., az MFB Zrt. tulajdonosi joggyakorlása alá tartozó gazdasági társaságok esetében az MFB Zrt. nyújthat. Ilyen kölcsön az állam többségi befolyása alatt álló gazdasági társaság részére nyújtható.
+45. § (1) Az állam nevében hitelt, kölcsönt – a kijelölt tulajdonosi joggyakorló, valamint az Nvt. 8. § (7) bekezdése szerinti meghatalmazott esetén annak kezdeményezésére – az MNV Zrt. nyújthat. Ilyen kölcsön az állam többségi befolyása alatt álló gazdasági társaság részére nyújtható.
 
 (1a) Az (1) bekezdés szerinti hitel, kölcsön nyújtásához, átütemezéséhez az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyása szükséges.
 
-(2) Az állam tulajdonában álló gazdasági társaságnak az állam nevében tőkeemelést, pótbefizetést és támogatást – a szakmai feladatok ellátásához nyújtott támogatás kivételével – az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyásával lehet nyújtani. A jóváhagyásról az államháztartásért felelős miniszter és az állami támogatások versenyszempontú ellenőrzéséért felelős szerv írásos véleményének ismeretében kell dönteni.
+(2) Az állam tulajdonában álló gazdasági társaságnak az állam nevében tőkeemelést, pótbefizetést és a 49/B. § (2) bekezdése szerinti tulajdonosi támogatást az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyásával lehet nyújtani. A jóváhagyásról az államháztartásért felelős miniszter és az állami támogatások versenyszempontú ellenőrzéséért felelős szerv írásos véleményének ismeretében kell dönteni.
 
 (2a) A (2) bekezdés szerinti, pénzben teljesített tőkeemelést, pótbefizetést, támogatást
 
@@ -919,6 +922,8 @@ teljesíthet.
 (4) Ha az államháztartás központi alrendszerébe tartozó költségvetési szerv jogszabály, vagy az MNV Zrt.-vel kötött szerződés alapján használt állami vagyon használatát, vagy az őt megillető más jog gyakorlását visszterhes szerződés alapján harmadik személynek átengedi, az ebből származó költségvetési bevétel – törvény eltérő rendelkezése hiányában – a költségvetési szervet illeti meg.
 
 (5) A 6. § (7) bekezdés b) pont bc) alpontja alapján nyújtott tulajdonosi kölcsön vissza nem térülő tőkeösszegét költségvetési kiadásként kell elszámolni a visszafizetés elmaradásának – így különösen a kölcsön, követelés elengedésének, beszámításának vagy tőkévé alakításának – időpontjában.
+
+(6) Az állam nevében kijelölt tulajdonosi joggyakorlói feladatot ellátó és az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény alapján Beruházási Ügynökségként kijelölt gazdasági társaság a működéséhez biztosított központi költségvetési forrás felhasználásáról a tulajdonosi joggyakorlója felé elszámol, a fel nem használt vagy nem rendeltetésszerűen felhasznált forrás visszafizetése mellett.
 
 (7) Ha az állam befektetési alap vagy kockázati tőkealap létrehozatala útján valósítja meg feladatát, az alapok létrehozatala és azokban tőkeemelés az állam nevében, tulajdonosi ügyletként hajtható végre. Az állam nevében létrehozott befektetési alapból vagy kockázati tőkealapból származó bevétel az állam tulajdonosi bevétele. Befektetési alapot vagy kockázati tőkealapot a Vtv. 17. § (1) bekezdés e) pontjától eltérően a befektetés céljának vagy jellegének szakmai kapcsolódása alapján feladat- és hatáskörrel rendelkező költségvetési szerv is létrehozhat. Az így létrejött állami vagyon feletti tulajdonosi joggyakorlás tekintetében a Vtv. rendelkezéseit kell alkalmazni.
 
@@ -1006,11 +1011,17 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 - c) a családtámogatásokra, és
 - d) a természetes személyeknek a méltánylást igénylő élethelyzetükre figyelemmel, továbbá jövedelmük pótlása, illetve kiegészítése érdekében rászorultsági alapon nyújtott egyéb szociális pénzbeli, természetbeni és személyes jellegű ellátásokra.
 
+(3) Az (1) bekezdés e) pontja alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány vagyonellenőre.
+
 49. § A fejezetet irányító szerv a költségvetési támogatásokkal kapcsolatos feladatok ellátásával lebonyolító szervet, az európai uniós forrásból nyújtott költségvetési támogatásokkal kapcsolatos feladatok ellátására közreműködő szervezetet is megbízhat, ha azt jogszabály lehetővé teszi.
 
 49/A. § (1) A támogatási szerződés alapján létrejött támogatási jogviszonyra az e törvényben meghatározott feltételeket – ha e törvényből más nem következik – a közigazgatási hatósági határozattal, hatósági szerződéssel vagy támogatói okirattal létrejött támogatási jogviszonyra is alkalmazni kell.
 
 (2) E Fejezetet nem kell alkalmazni – az országgyűlési képviselők választása kampányköltségeinek támogatásai kivételével – az 1. § 14. pont a)–d) alpontja szerinti támogatásokra.
+
+49/B. § (1) A központi költségvetés terhére támogatási jogviszony keretében finanszírozott, állami vagyon növekedését eredményező beruházást, felújítást gazdasági társaság a saját nevében, az állam javára végzi azzal, hogy a megvalósult beruházás, felújítás az állam tulajdonába kerül. E támogatási jogviszonyra a költségvetési támogatás szabályait kell alkalmazni.
+
+(2) Állami tulajdonú gazdasági társaság tevékenységének és működésének támogatása ágazati támogatási jogviszony keretében az általa ellátott feladat ágazati szakmai tartalmának és eredmény-követelményeinek meghatározásával finanszírozható. Ágazati szakmai tartalom előírásának hiányában állami tulajdonú gazdasági társaság számára támogatás a 19. § (3) bekezdése szerinti tulajdonosi ügyletként nyújtható.
 
 49/C. § Az államháztartás központi alrendszerén kívüli szervezet tulajdonába kerülő befektetési alap vagy kockázati tőkealap létrehozása, azokban végrehajtandó tőkeemelés érdekében fejezeti kezelésű előirányzat terhére is nyújtható támogatás.
 
@@ -1070,6 +1081,8 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 
 (5) A támogatási szerződés módosítása a fejezeti kezelésű előirányzat terhére, valamint a 14. § (3) bekezdése szerinti fejezet terhére felhalmozási célra nyújtott, kiegészítő költségvetési támogatásból – kivéve a helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatásaiból – megvalósuló támogatott tevékenység eredeti céljának a megváltoztatására irányulhat, ha az eredeti és a módosított cél a támogató – ideértve a támogatást biztosító előirányzat felett fejezetet irányító szervi jogállással nem bíró kezelő szervet, a fejezetet irányító szerv előzetes engedélyével – feladatkörébe tartozó szakmai, ágazati feladatok megvalósítását szolgálja.
 
+(6) A támogatási szerződésben rögzített támogatási cél módosításának részletszabályait a Kormány rendeletben állapítja meg.
+
 #### 37.
 
 54. § (1) A támogató vagy a támogató nevében eljáró szervezet a költségvetési támogatás felhasználását
@@ -1087,7 +1100,11 @@ szerint ellenőrzi.
 
 #### 38.
 
-#### 54/A–54/C. §
+#### 54/A. §
+
+#### 54/B. §
+
+#### 54/C. §
 
 #### 39.
 
@@ -1250,16 +1267,13 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 
 65. § (1) A kormányzati ellenőrzési szerv ellenőrzése során az ellenőrzött szerv, szervezet vagy más – az ellenőrzés lefolytatásához szükséges adatok, tények, információk birtokában lévő – személy, szervezet vezetője, alkalmazottja a jogszabályokban meghatározottak szerint adatszolgáltatásra és együttműködésre köteles.
 
-(2) Az ellenőrzéshez kapcsolódó adatszolgáltatási, együttműködési vagy az ellenőrzés végrehajtását elősegítő kötelezettség megszegése esetén
-
-- a) az érintett személy eljárási bírsággal sújtható, amennyiben a kötelezettségszegés felróható módon történt,
-- b)
+(2)
 
 (3) Az eljárási bírságot a kormányzati ellenőrzési szerv vezetője határozatban szabja ki. A bírságolással kapcsolatos eljárásra az Ákr. rendelkezéseit az e törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
 
 (4)
 
-(5) A keresetlevelet a bírsággal sújtott személynek a határozat közlésétől számított tizenöt napon belül kell benyújtania.
+(5) Az ellenőrzéshez kapcsolódó adatszolgáltatási, együttműködési vagy az ellenőrzés végrehajtását elősegítő kötelezettség megszegése miatt kiszabott eljárási bírságról szóló döntéssel szemben a keresetlevelet a közléstől számított tizenöt napon belül lehet benyújtani.
 
 (6) A helyszíni ellenőrzés lefolytatásának akadályozása esetén az ellenőrzött vagy az ellenőrzés kapcsán adatszolgáltatásra kötelezett szerv adatszolgáltatási vagy együttműködési kötelezettségének érvényesítéséhez a kormányzati ellenőrzési szerv a rendőrség közreműködését veheti igénybe.
 
@@ -1290,7 +1304,7 @@ céljából.
 - b) a kedvezményezetteknél, és
 - c) a költségvetési támogatásokkal összefüggésben megvalósított beszerzésekre, az ezekre kötött szerződések teljesítésének vizsgálatára, ebben a vonatkozásban azon szerződő felekre is, amelyek a szerződés teljesítéséért felelősek, vagy abban közreműködnek.
 
-68/A. § Az európai támogatásokat auditáló szerv által végzett ellenőrzésre a 63. § (2) és (4) bekezdését, 64. § (1) és (2) bekezdését, 65. § (1) bekezdését, (2) bekezdés a) pontját és (3)–(5) bekezdését alkalmazni kell.
+68/A. § Az európai támogatásokat auditáló szerv által végzett ellenőrzésre a 63. § (2) és (4) bekezdését, 64. § (1) és (2) bekezdését, 65. § (1)–(5) bekezdését alkalmazni kell.
 
 #### 45/A. A kincstári ellenőrzés
 
@@ -1354,7 +1368,18 @@ vizsgálatára terjed ki.
 
 (6) Az (5) bekezdésben meghatározott adatok közül a belső ellenőr nyilvántartási száma, neve és választása alapján az (5) bekezdés c)–f) pontjában meghatározott adatainak egyike nyilvános, ezen adatokról bárki tájékoztatást kaphat. A nyilvántartásba vételt végző szervezet a nyilvántartásban szereplő belső ellenőr nyilvános adatait honlapján nyilvánosságra hozza, és biztosítja, hogy a nyilvános adatokról a nyilvántartásba vételt végző szervezettől bárki tájékoztatást kaphasson.
 
-(7) A tevékenység gyakorlásától el kell tiltani és törölni kell a nyilvántartásból, aki a (4) bekezdésben, az (5) bekezdés szerinti nyilvántartásba vétel szabályait meghatározó jogszabályban foglaltakat vagy a kötelező továbbképzési kötelezettségre vonatkozó feltételeket nem teljesíti. A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő tíz évig megőrzi.
+(7) A nyilvántartásba vételt végző szervezet a nyilvántartásba vétel szabályait meghatározó jogszabályban foglaltakat vagy a kötelező továbbképzési kötelezettségre vonatkozó feltételeket nem teljesítő személyt törli a nyilvántartásból, illetve a tevékenység gyakorlásától eltiltja. A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő tíz évig megőrzi.
+
+(7a) A (7) bekezdés szerinti tevékenység végzésétől történő eltiltás – e törvény felhatalmazása alapján kiadott rendeletben foglaltak szerint – legfeljebb három évre szólhat.
+
+(7b) Az a természetes személy, aki
+
+- a) a cselekvőképességet korlátozó vagy kizáró gondnokság hatálya alatt áll,
+- b) a belső ellenőrzési tevékenység folytatásának részletes feltételeinek nem felel meg,
+- c) a büntetett előélethez fűződő hátrányok alól nem mentesült vagy
+- d) a belső ellenőrzés körébe tartozó tevékenység vonatkozásában a foglalkozástól való eltiltás alól nem mentesült,
+
+nem végezhet a (7) bekezdés szerinti tevékenységet.
 
 (8) A belső ellenőri tevékenység bejelentésére a nyilvántartásba bejegyzett adatok módosítására és törlésére irányuló eljárásért az államháztartásért felelős miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
@@ -1370,7 +1395,9 @@ vizsgálatára terjed ki.
 
 #### 49.
 
-#### 72–73. §
+#### 72. §
+
+#### 73. §
 
 #### 74. §
 
@@ -1518,13 +1545,13 @@ vizsgálatára terjed ki.
 
 83/A. § (1) A belföldi gépjárművek után beszedett adónak (a továbbiakban: gépjárműadó) a települési önkormányzat által a központi költségvetés részére történő befizetését a kincstár ellenőrzi. A kincstár ellenőrzéséhez a települési önkormányzat a Kormány rendeletében meghatározott adatszolgáltatást teljesít.
 
-(1a) Az (1) bekezdés szerinti adatszolgáltatási kötelezettség elmulasztása vagy késedelmes teljesítése esetén az önkormányzati hivatal a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a kincstár határozatban szab ki.
+(1a) Az (1) bekezdés szerinti adatszolgáltatási kötelezettség elmulasztása vagy késedelmes teljesítése esetén a kincstár közigazgatási bírságot szab ki.
 
 (2) Ha a kincstár az (1) bekezdés szerinti ellenőrzés során megállapítja, hogy a települési önkormányzat a gépjárműadóval kapcsolatos fizetési kötelezettségét a Kormány rendeletében meghatározottak szerint nem teljesítette, hivatalból megindított eljárás keretében kötelezi a települési önkormányzatot a különbözet és az ehhez kapcsolódó kamat megfizetésére.
 
-(3) A kincstár (1a) és (2) bekezdés szerinti határozata ellen indított közigazgatási perben az 57. § (6) és (7) bekezdését kell alkalmazni. A kincstár (1a) és (2) bekezdés szerinti határozatában foglaltak részletekben történő teljesítése a 60/A. § (3) és (4) bekezdése szerint kérhető és engedélyezhető.
+(3) A kincstár (1a) és (2) bekezdés szerinti döntése ellen indított közigazgatási perben az 57. § (6) és (7) bekezdését kell alkalmazni. A kincstár (1a) és (2) bekezdés szerinti döntésében foglaltak részletekben történő teljesítése a 60/A. § (3) és (4) bekezdése szerint kérhető és engedélyezhető.
 
-(4) Az engedélyezett részletekben történő teljesítés kivételével, ha a települési önkormányzat, illetve az önkormányzati hivatal a kincstár (1a) és (2) bekezdés szerinti határozatában foglaltaknak a határozat közlését követő tizenöt napon belül nem tesz eleget, a meg nem fizetett összeg és a bírság együttes összegének erejéig a kincstár – a határozat elleni közigazgatási perre tekintet nélkül – beszedési megbízást nyújt be a települési önkormányzat fizetési számlájával szemben. A beszedési megbízás visszavonására a 60/B. §-t kell alkalmazni.
+(4) Az engedélyezett részletekben történő teljesítés kivételével, ha a települési önkormányzat, illetve az önkormányzati hivatal a kincstár (1a) és (2) bekezdés szerinti döntésében foglaltaknak a döntés közlését követő tizenöt napon belül nem tesz eleget, a meg nem fizetett összeg és a bírság együttes összegének erejéig a kincstár – a döntés elleni közigazgatási perre tekintet nélkül – beszedési megbízást nyújt be a települési önkormányzat fizetési számlájával szemben. A beszedési megbízás visszavonására a 60/B. §-t kell alkalmazni.
 
 #### 57. Számlavezetés az államháztartás önkormányzati alrendszerében
 
@@ -1554,7 +1581,7 @@ vizsgálatára terjed ki.
 
 (5) Az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv esetén az irányító szerv jogosult dönteni a költségvetési szerv maradványának elvonandó és felhasználható összegéről.
 
-(6) Az előirányzat-módosítási kötelezettség nélkül túlteljesíthető európai uniós forrásból – kivéve az Európai Mezőgazdasági és Garancia Alapot – finanszírozott költségvetési támogatások nyújtására szolgáló fejezeti kezelésű előirányzatok év végéig fel nem használt összege a költségvetési év utolsó napján törlésre kerül, ezen előirányzatok így költségvetési maradvánnyal nem rendelkeznek.
+(6)
 
 #### 60. A beszámolás általános szabályai
 
@@ -1767,6 +1794,8 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 (1a) A bejegyzésre, törlésre, vagy változás-bejelentésre irányuló kérelem benyújtására vonatkozó kötelezettségnek az (1) bekezdés szerinti bírságot előíró határozat közlésétől számított 8 napon belül történő teljesítése esetén a kiszabott bírság korlátlanul mérsékelhető.
 
+(1b) Az (1) bekezdés szerinti bírság esetében kizárt a közigazgatási szabályszegések szankcióiról szóló törvény szerinti figyelmeztetés alkalmazása.
+
 (2) A kincstár jogosult az államháztartás központi alrendszerébe tartozó költségvetési szerv, a törvény által az államháztartás központi alrendszerébe sorolt köztestület, valamint az államháztartás központi alrendszerébe tartozó jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy fizetési számláját a bírság összegével megterhelni.
 
 #### 69. Kincstári adatkezelés
@@ -1788,6 +1817,11 @@ kezelésére.
 (3) Ha a központi költségvetésről szóló törvény alapján a szociális, gyermekjóléti és gyermekvédelmi közfeladatot ellátó intézmény nem állami fenntartója részére olyan támogatás nyújtására kerül sor, amelynek alapján munkabér, illetmény, tiszteletdíj, költségtérítés vagy egyéb pénzbeli juttatás kifizetése történik, annak kifizetése és ellenőrzése céljából a kincstár jogosult annak az érintettnek az (1) bekezdésében meghatározott adatait a (2) bekezdésben meghatározott időtartamban kezelni, akire tekintettel a nem állami intézmény fenntartójának a költségvetési támogatás kifizetésre kerül.
 
 (4) A kincstár a törzskönyvi nyilvántartás vezetése során jogosult a törzskönyvi jogi személy vezetőjének elektronikus azonosítása és képviseleti jogosultságának igazolása céljából a Korm. rendeletben meghatározott adatokon túl az adóazonosító jelének nyilvántartására és kezelésére. A kincstár a törzskönyvi jogi személy vezetőjének adóazonosító jelét harmadik személy részére, jogszabályi felhatalmazás kivételével, nem teszi megismerhetővé.
+
+(5) A kincstár a Kormány rendeletében meghatározott rendben adatot szolgáltat a Kormányzati Személyügyi Döntéstámogató Rendszer részére
+
+- a) a Kormányzati Személyügyi Döntéstámogató Rendszerbe feltöltendő foglalkoztatottak létszám-, kereseti- és illetményadatairól egyedi azonosító alkalmazásával, valamint
+- b) a költségvetési szervekről és a költségvetési körben gazdálkodó szervekről szóló közhiteles hatósági törzskönyvi nyilvántartásból.
 
 106/B. § A kincstár a belföldi gépjárművek után beszedett adó központi költségvetés részére történő befizetésének a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.
 
@@ -1861,6 +1895,8 @@ a kincstár határozatban a Kormány rendeletében meghatározott mértékű bí
 
 kell kiszabni.
 
+(3b) A (3) bekezdés szerinti bírság esetében kizárt a közigazgatási szabályszegések szankcióiról szóló törvény szerinti figyelmeztetés alkalmazása.
+
 (4) A (3) bekezdés a) pontjának alkalmazásában lényegesnek minősül az adatszolgáltatás szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – közvetlenül és hátrányosan – befolyásolja az adatszolgáltatásban közölt adatokat felhasználók döntéseit.
 
 (5) Ha a bírság kiszabására okot adó körülmény az irányító szerv érdekkörében merül fel, a bírságot az irányító szervvel szemben kell kiszabni. Az adatszolgáltatásnak a határozat közlésétől számított 15 napon belül történő teljesítése esetén a (3) bekezdés a) és b) pontja alapján kiszabott bírság korlátlanul mérsékelhető. A kincstár e § szerinti határozatát 15 napon belül lehet megtámadni. A bíróság határozata ellen perorvoslatnak nincs helye.
@@ -1926,7 +1962,7 @@ részletes szabályait,
 - 32.
 - 33. az államháztartási könyvvezetési és beszámolókészítési kötelezettség részletes szabályait,
 - 34. az államháztartási összesítések konszolidációs rendjét
-- 35. a központosított illetményszámfejtés szabályait,
+- 35. a központosított illetményszámfejtés szabályait, valamint a központosított illetményszámfejtés körét érintő statisztikai és egyéb adatszolgáltatás rendjét,
 - 36. a letéti pénzkezeléshez kapcsolódóan a letéti számla megnyitásának, a letéti számlán lévő pénzeszközzel való pénzügyi műveletek végzésének és a letéti számla vezetésének szabályait,
 - 37. a helyi önkormányzatok vis maior támogatása igénylésének, döntési rendszerének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
 - 38. a gépjárműadóval kapcsolatos átutalás, adatszolgáltatás, ellenőrzés és kamatfizetés részletes szabályait, valamint az eljárások során kiróható bírság mértékét és kiszabásának elveit,

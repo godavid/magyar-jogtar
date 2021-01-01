@@ -171,7 +171,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (6) Az írásbeli panaszt a vállalkozás – ha az Európai Unió közvetlenül alkalmazandó jogi aktusa eltérően nem rendelkezik – a beérkezését követően harminc napon belül köteles írásban érdemben megválaszolni és intézkedni annak közlése iránt. Ennél rövidebb határidőt jogszabály, hosszabb határidőt törvény állapíthat meg. A panaszt elutasító álláspontját a vállalkozás indokolni köteles.
 
-(7) A vállalkozás a panaszról felvett jegyzőkönyvet és a válasz másolati példányát öt évig köteles megőrizni, és azt az ellenőrző hatóságoknak kérésükre bemutatni.
+(7) A vállalkozás a panaszról felvett jegyzőkönyvet és a válasz másolati példányát három évig köteles megőrizni, és azt az ellenőrző hatóságoknak kérésükre bemutatni.
 
 (8) A panasz elutasítása esetén a vállalkozás köteles a fogyasztót írásban tájékoztatni arról, hogy panaszával – annak jellege szerint – mely hatóság vagy békéltető testület eljárását kezdeményezheti. A tájékoztatásnak tartalmaznia kell továbbá az illetékes hatóság, illetve a fogyasztó lakóhelye vagy tartózkodási helye szerinti békéltető testület székhelyét, telefonos és internetes elérhetőségét, valamint levelezési címét. A tájékoztatásnak arra is ki kell terjednie, hogy a vállalkozás a fogyasztói jogvita rendezése érdekében igénybe veszi-e a békéltető testületi eljárást.
 
@@ -247,7 +247,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (6) A fogyasztóvédelmi referensi tevékenység megbízási szerződés keretében is ellátható.
 
-(6a) A fogyasztóvédelmi referens köteles tájékoztatni a fogyasztóvédelmi hatóságot a foglalkoztatásával kapcsolatos adatokról (név, a képesítési bizonyítvány kiállításának dátuma és sorszáma, a foglalkoztatás kezdő időpontja), valamint az adatokban beállt változásról, 8 napon belül.
+(6a)
 
 (7)
 
@@ -506,9 +506,15 @@ foglalt személyes adatait.
 
 (12) A (11) bekezdésben meghatározott együttműködési kötelezettségét megsértő vállalkozásról a békéltető testület értesíti a székhelye szerint illetékes fogyasztóvédelmi hatóságot.
 
-29/A. § (1) A békéltető testület eljárása során az iratokat a feleknek postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó rendelkezések szerint kell kézbesíteni.
+29/A. § (1) A békéltető testület eljárása során az iratokat a természetes személynek, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) szerint gazdálkodó szervezetnek nem minősülő fogyasztónak – a (2) és (3) bekezdésben foglalt kivétellel – postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó rendelkezések szerint kell kézbesíteni.
 
-(2) A postai szolgáltató útján megküldött iratokat a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni, ha a címzett az átvételt megtagadta. Ha az irat a békéltető testülethez „nem kereste” jelzéssel érkezett vissza, az iratot a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+(2) Elektronikus kapcsolattartásra kötelezett gazdálkodó szervezetek, és az E-ügyintézési törvény szerinti elektronikus ügyintézésre köteles, a 2. § a) pontja szerint fogyasztónak minősülő szervezetek részére az iratokat az E-ügyintézési törvényben meghatározott elektronikus úton kell kézbesíteni.
+
+(3) Az elektronikus kapcsolattartásra nem kötelezett természetes személyt, valamint az E-ügyintézési törvény szerint gazdálkodó szervezetnek nem minősülő fogyasztót megilleti az elektronikus kapcsolattartás választásának joga. Erre irányuló kérelmét az eljárás során bármikor előterjesztheti.
+
+(4) A postai szolgáltató útján megküldött iratokat a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni, ha a címzett az átvételt megtagadta. Ha az irat a békéltető testülethez „nem kereste” jelzéssel érkezett vissza, az iratot a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+
+(5) Az elektronikus úton megküldött iratokat a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni, ha a címzett az átvételt megtagadta. Ha a békéltető testületnek a hivatalos elérhetőséget biztosító szolgáltató azt igazolja vissza, hogy az iratot a címzett kétszeri értesítése ellenére nem vette át, a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon azt kézbesítettnek kell tekinteni.
 
 29/B. § A felek meghatalmazott útján is eljárhatnak. Meghatalmazott lehet bármely természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet.
 
@@ -845,24 +851,13 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (5) A fogyasztóvédelmi hatóság közszolgáltatással kapcsolatos eljárásában az ügyintézési határidő 60 nap.
 
-(6) A fogyasztóvédelmi hatóság megvizsgálhatja a felhívás alkalmazásának lehetőségét
+(6)
 
-- a) a 14. § (1) bekezdésében és a 14. § (5) bekezdésében szabályozott esetben a termék eladási ára és egységára vonatkozásában,
-- b) a kereskedelemről szóló 2005. évi CLXIV. törvény 5. § (4) bekezdésének első mondata és 6. § (2) bekezdés b) pontja esetében,
+(6a)
 
-(6a) Az a) és b) pontban foglalt esetek kivételével a fogyasztóvédelmi hatóság nem vizsgálhatja a felhívás alkalmazásának a lehetőségét, kivéve, ha a hatósági ellenőrzés alá vont ügyfél a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint kis- és középvállalkozásnak minősül.
+(6b)
 
-(6b) Ha a hatóság a hatósági ellenőrzés eredményeként megállapítja, hogy az ügyfél a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette,
-
-- a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a hatóság felhívja az ügyfél figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi annak megszüntetésére,
-- b) ha az a) pont szerinti határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a hatóság új eljárásban megállapítja a hatáskörébe tartozó egyéb jogkövetkezményt,
-- c) ha az a) és a b) pont azért nem alkalmazható, mert a hatóság az adott jogszabálysértés tekintetében nem rendelkezik hatáskörrel vagy illetékességgel, a hatóság a jegyzőkönyv vagy feljegyzés jogszabálysértésre vonatkozó információkat tartalmazó részének megküldésével kezdeményezi a hatáskörrel rendelkező hatóság eljárását, illetve fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez.
-
-(6c) Nem alkalmazható a (6b) bekezdés a) pontja, ha
-
-- a) a jogszabályban vagy hatósági döntésben foglalt előírások megsértése kizárólag újabb hatósági eljárás lefolytatásával orvosolható,
-- b) a hatóság ugyanazon ügyféllel szemben a (6b) bekezdés a) pontja szerinti felhívás eredménytelensége miatt két éven belül véglegessé vált döntésben egyéb jogkövetkezményt állapított meg,
-- c) a hatóság ugyanazon ügyféllel szemben ugyanazon jogszabályi vagy hatósági határozatban megállapított rendelkezés megsértése miatt két éven belül a (6b) bekezdés a) pontja alapján járt el.
+(6c)
 
 46/A. § A fogyasztó fogyasztóvédelmi hatóság részére benyújtott kérelmének – az Ákr. 36. §-ában előírtakon túl – tartalmaznia kell
 
@@ -876,7 +871,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 - b) megtilthatja a jogsértő magatartás folytatását,
 - c) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezheti a vállalkozást,
 - d) a jogszerű állapot helyreállításáig feltételhez kötheti, vagy megtilthatja az áru forgalmazását, illetve értékesítését,
-- e)
+- e) a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározottak szerinti dolgot jogosult elkobozni, és azt a jogsértést elkövető vállalkozás költségére megsemmisíteni,
 - f)
 - g) a jogszerű állapot helyreállításáig terjedő időtartamra elrendelheti a jogsértéssel érintett üzlet ideiglenes bezárását, ha az a fogyasztók életének, testi épségének, egészségének védelme vagy a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében szükséges,
 - h) a 16/A. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a jogsértés megállapításától számított legfeljebb egy évig megtilthatja az alkoholtartalmú ital, a dohánytermék, illetve a szexuális termék forgalmazását, e rendelkezések ismételt megsértése esetén pedig elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc nap időtartamra történő ideiglenes bezárását,
@@ -976,13 +971,13 @@ terjedhet.
 
 (4) Ha a vállalkozás a beszámolóban az adatokat devizában adja meg, a forintra történő átszámításkor a Magyar Nemzeti Bank által megállapított, a vállalkozás üzleti évének lezárásakor – újonnan alapított vállalkozás esetén a tárgyévet megelőző év utolsó napján – érvényes hivatalos devizaárfolyamot kell alkalmazni.
 
-(5) A fogyasztóvédelmi hatóság – ha a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény eltérően nem rendelkezik – minden esetben bírságot szab ki, ha
+(5) A fogyasztóvédelmi hatóság bírságot szab ki, ha
 
-- a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító véglegessé vált határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
-- b) a jogsértés a fogyasztók széles körét érinti,
-- c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor, továbbá
-- d) a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezés megsértésére a fogyasztóknak koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó fogyasztóval szemben került sor,
-- e) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét.
+- a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító véglegessé vált határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon a telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
+- b) a jogsértés a fogyasztók széles körét érinti, vagy
+- c) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét.
+
+(6) Az (5) bekezdésben foglaltak esetén közigazgatási szankcióként figyelmeztetés alkalmazásának nincs helye.
 
 48. § (1)–(2)
 
@@ -1127,7 +1122,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (2) Felhatalmazást kap a Kormány, hogy a polgári célú pirotechnikai termékek forgalmazására alkalmazandó követelményeket, biztonságossági előírásokat, címkézésre vonatkozó külön előírásokat, az egyes termékek megfelelőség-értékelésének módját, valamint a megfelelőségi tanúsítványokat kiadó szervezetek körét vagy az ilyen szervezetek köre meghatározásának szabályait rendelettel meghatározza.
 
-56. § Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy a békéltető testületi tagsági feladat ellátására vonatkozó pályázat szabályairól, a pályázatok előzetes értékeléséről, a békéltető testületi tagok díjazásáról szóló részletes szabályokat és az online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén az eljárásra kijelölt kamarák által működtetett békéltető testületek kijelölését rendeletben állapítsa meg.
+56. § Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy a békéltető testületi tagsági feladat ellátására vonatkozó pályázat szabályairól, a pályázatok előzetes értékeléséről, a békéltető testületi tagok számának növeléséről, a békéltető testületi tagok díjazásáról szóló részletes szabályokat és az online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén az eljárásra kijelölt kamarák által működtetett békéltető testületek kijelölését rendeletben állapítsa meg.
 
 56/A. § (1)
 

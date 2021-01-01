@@ -397,8 +397,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
   - ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szakképző intézmény vezetője, foglalkoztatottja vagy a szakképző intézmény tekintetében fenntartói irányítási hatáskört gyakorló szerv vezetője, foglalkoztatottja, felsőoktatási intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
   - ac) az állam által alapított vagy tulajdoni részesedésével működő gazdálkodó szervezet felügyelőbizottságának vagy ügyvezetésének tagja;
 - b) központi államigazgatási szerv vezetője, köztisztviselője;
-- c) kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
-- d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, az Országgyűlési Őrség vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja;
+- c) kormánytisztviselő olyan államigazgatási szervnél, illetve a Nemzeti Adó- és Vámhivatal azon szervének tisztviselője, amelynek illetékességi területén az adott önkormányzat működik;
+- d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, az Országgyűlési Őrség hivatásos állományú tagja, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja;
 - e) jegyző (főjegyző), aljegyző, továbbá ugyanazon önkormányzat polgármesteri hivatalának vagy közös önkormányzati hivatalának köztisztviselője, alkalmazottja;
 - f) más települési önkormányzatnál képviselő;
 - g) más települési önkormányzatnál polgármester, alpolgármester;
@@ -428,7 +428,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 38. § (1) Méltatlanság miatt a képviselő-testület határozatával megszünteti annak az önkormányzati képviselőnek a megbízatását,
 
 - a)
-- b) akit szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítéltek;
+- b) akit megbízatásának ideje alatt – a mentesítésre tekintet nélkül – szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítélnek;
 - c)
 - d) akinek az állammal, önkormányzattal szemben – a lehetséges jogorvoslati eljárások kimerítését követően – köztartozása áll fenn, és azt az erről szóló értesítés kézhezvételétől számított hatvan napon belül – részletfizetés vagy fizetési halasztás esetén az ezt engedélyező határozat rendelkezéseinek megfelelően – nem rendezi;
 - e) akinek a gazdasági társaságokról szóló törvény rendelkezései alapján a felszámolás során ki nem elégített követelésekért a bíróság jogerősen megállapította a felelősségét és a bírósági határozat szerinti helytállási kötelezettségét nem teljesítette;
@@ -1558,7 +1558,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (5) Ha a (3) bekezdés szerinti felülvizsgálattal érintett szerződésnek a (4) bekezdés b) pontja szerinti módosítása nem lehetséges, a szerződésnek az ASP rendszerhez történő csatlakozás időpontjára történő felmondásából adódó, az önkormányzatot terhelő, jogerős bírósági döntésben megítélt összeg erejéig az állam az önkormányzatot utólag kártalanítja.
 
-146/C. § A 2016. december 31-én hatályos 71. § (4) és (5) bekezdés szerinti polgármesteri illetmény és a tiszteletdíj, és a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2016. évi CLXXXV. törvénnyel módosított 71. § (4) bekezdés szerinti polgármesteri illetmény és a 71. § (5) bekezdése szerinti tiszteletdíj összegének különbözetét az állam a központi költségvetésből – a települési önkormányzat egy lakosra jutó adóerő-képességének figyelembevételével – a Magyarország központi költségvetéséről szóló törvényben meghatározott mértékben a helyi önkormányzatok számára évente megtéríti.
+146/C. § A 71. § (4) és (5) bekezdés szerinti polgármesteri illetmény és a tiszteletdíj összegéhez az állam a központi költségvetésből – a települési önkormányzat egy lakosra jutó adóerő-képességének figyelembevételével – a Magyarország központi költségvetéséről szóló törvényben meghatározott mértékben a helyi önkormányzatok számára támogatást biztosít.
 
 #### 146/D. §
 

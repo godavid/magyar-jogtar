@@ -5566,7 +5566,7 @@ A gyámhatóság, kérelemre vagy a gyermek érdekében hivatalból, a szülői 
 
 (3) A kapcsolattartásra vonatkozó határozatban rendelkezni kell a kapcsolattartás gyakoriságáról, időtartamáról, folyamatos vagy időszakos voltáról, arról, hogy felügyelt kapcsolattartásra kerül-e sor, továbbá a gyermek átadásának és visszaadásának helyéről, idejéről és módjáról, a kapcsolattartás elmaradására vonatkozó értesítési kötelezettségről és az elmaradt kapcsolattartás pótlásáról.
 
-(4) Ha a kapcsolattartás kérdésében a bíróság döntött, a kapcsolattartás megváltoztatását a határozat jogerőre emelkedésétől számított két éven belül a bíróságtól lehet kérni.
+(4) Ha a kapcsolattartás kérdésében a bíróság döntött, a kapcsolattartás megváltoztatását is a bíróságtól lehet kérni.
 
 #### 4:182. § [Tájékoztatási kötelezettség; az elmaradt kapcsolattartás pótlása]
 

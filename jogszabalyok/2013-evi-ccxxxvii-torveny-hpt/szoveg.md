@@ -302,7 +302,7 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
   - b) a rendelkezési jogosultságának keletkezési időpontjától függetlenül azt a személyt, aki a betétes rendelkezése alapján rendelkezik a betét fölött a kártalanításnak a 217. § (1) bekezdésében meghatározott kezdő időpontját megelőző napon, de egyébként nem betétes;
 - 4. költségvetési mérlegfőösszeg: a helyi önkormányzat pénzforgalmi teljesítési adatairól adott éves beszámolójában szereplő költségvetési kiadások és költségvetési bevételek összege közül a kisebb összeg; azzal, hogy a helyi önkormányzatra az általa irányított költségvetési szervekkel összevontan számítandó a költségvetési mérlegfőösszeg;
 - 5. közös betét: olyan betét, amelynél több betétes van (több személy nevére szól);
-- 6. névre szóló betét: az a betét, amelynél a betétes a betétszerződés, a takarékbetét-szerződés vagy a bankszámlaszerződésben feltüntetett azonosító adatok alapján egyértelműen azonosítható;
+- 6. névre szóló betét: az a betét, amelynek tulajdonosát a Pmt.-nek megfelelően azonosították;
 - 7. rendelkezésre jogosult személy: a betétes és az a személy, aki a betétes rendelkezése alapján korlátozással vagy anélkül rendelkezhet a betét fölött.
 
 (3) Nem minősül visszafizetendő pénzeszköz nyilvánosságtól történő gyűjtésének
@@ -4215,7 +4215,7 @@ az OBA-ban tagsággal rendelkező hitelintézetnél helyeztek el.
 - b)
 - c) a felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzése közzétételének
 
-időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és tizenöt munkanapon belül a betétesek rendelkezésére bocsátja a kártalanítást.
+időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és tíz munkanapon belül a betétesek rendelkezésére bocsátja a kártalanítást.
 
 (1a) A kártalanítás (1) bekezdésben meghatározott kifizetéséhez a betétesnek nem kell kérelmet benyújtania.
 
@@ -4233,7 +4233,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 (2) Az OBA legalább két országos napilapban, valamint honlapján közzéteszi a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az OBA által közzétett információkat a kártalanítással érintett hitelintézet a honlapján is közzéteszi.
 
-(3) A betétet gyűjtő hitelintézet a névre szóló betét esetén köteles a betétes nevén kívül – a 2. mellékletben felsoroltak közül az OBA előírásai szerint – két további azonosító adatot nyilvántartani, a kártalanításra való jogosultság egyértelmű megállapítása érdekében.
+(3) A betétet gyűjtő hitelintézet a névre szóló betét esetén a betétesnek a Pmt. szerinti azonosító adatait a kártalanításra való jogosultság egyértelmű megállapítása érdekében nyilvántartja.
 
 (4) A kifizetések teljesítése hitelintézetnek adott megbízás, a kártalanítási összeg hitelintézethez a betétes részére történő átutalása, fizetési számláról a Posta Elszámoló Központot működtető intézményen keresztül történő készpénzkifizetés, közvetlen kifizetés vagy készpénz-helyettesítő fizetési eszköz útján az elhelyezés országának törvényes fizetőeszközében történik.
 
@@ -4365,7 +4365,7 @@ vonatkozásában információt ad.
 
 (5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az OBA kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását – a Felügyelet a helyszínen ellenőrzi. Az OBA ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.
 
-(6) A tagintézet köteles a betétekre és a betétesekre vonatkozó – a 2. melléklet szerinti – azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából, az OBA által kérteknek megfelelően az OBA kérésére három munkanapon belül átadhatóak legyenek.
+(6) A tagintézet köteles a betétekre és a betétesekre vonatkozó azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából, az OBA által kérteknek megfelelően az OBA kérésére három munkanapon belül átadhatóak legyenek.
 
 (7) Az OBA a tagintézetek által megküldött adatállományok alapján legalább háromévente, indokolt esetben gyakrabban teszteli kifizető rendszerének működését. A tesztelés érdekében a tagintézetek által megküldött adatokat az OBA kizárólag a teszteléshez használja fel, a tesztelést követően törli az adatokat.
 

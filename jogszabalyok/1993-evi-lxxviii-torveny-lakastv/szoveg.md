@@ -22,7 +22,11 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (3) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez az engedélyt az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal nemzetközi szerződés vagy viszonosság fennállása alapján adja meg. A nemzetközi szerződésről, illetve a viszonosság fennállásáról a külpolitikáért felelős miniszter nyilatkozatát be kell szerezni.
 
-(4) Ingatlan tulajdonjogának külföldi jogi személy vagy külföldi természetes személy általi megszerzéséhez szükséges engedély iránti eljárásban az ügyfél nem jogosult az ügyei intézése során ügyintézési cselekményeit elektronikus úton végezni, nyilatkozatait elektronikus úton megtenni.
+(4)
+
+1/B. § (1) Ingatlan tulajdonjogának külföldi jogi vagy természetes személy általi megszerzéséhez szükséges engedély iránt kezdeményezett eljárásért – ingatlanonként – 50 000 forint igazgatási szolgáltatási díjat kell fizetni. Azon külföldi természetes személy, aki a szabad mozgás és tartózkodás jogával rendelkező, illetve letelepedett jogállású személy, és a magyar állampolgárság megszerzését kezdeményezte, lakástulajdonának megszerzéséhez szükséges engedély iránti eljárásért 10 000 forint igazgatási szolgáltatási díjat köteles megfizetni.
+
+(2) Az (1) bekezdés szerinti igazgatási szolgáltatási díjat az eljáró hatóság által megjelölt számlára kell megfizetni. Az igazgatási szolgáltatási díj nem minősül a központi költségvetés központosított bevételének, az az eljáró hatóság bevételét képezi.
 
 ### A LAKÁSBÉRLET SZABÁLYAI
 
@@ -553,7 +557,7 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 - a) az ingatlanok (beépíthető telek, illetőleg lakóépülettel vagy nem lakás céljára szolgáló épülettel beépített ingatlan) adásvételének és cseréjének közvetítésével,
 - b) a lakások és a nem lakás céljára szolgáló helyiségek, telkek bérlete és tulajdona cseréjének közvetítésével,
 - c) a feladatok ellátása érdekében az ingatlanok felkutatásával és azok forgalmi értékbecslésével, valamint
-- d) az ügyletek lebonyolításához szükséges dokumentációk és okiratok beszerzésével és előkészítésével
+- d) az ügyletek lebonyolításához szükséges dokumentációk és okiratok beszerzésével és előkészítésével – ide nem értve az okiratok megszerkesztését és azok ellenjegyzését –
 
 összefüggő feladatokat látja el.
 
@@ -570,7 +574,7 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 összefüggő feladatokat látja el.
 
-64/C. § (1) Üzletszerű ingatlanközvetítői, vagy üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet az végezhet, aki rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel és megfelel az e törvényben vagy a felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek, továbbá az üzletszerű ingatlanközvetítői, vagy üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatására irányuló szándékát az ingatlanvállalkozás-felügyeleti hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentette.
+64/C. § (1) Üzletszerű ingatlanközvetítői, vagy üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet az végezhet, aki rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakképesítéssel és megfelel az e törvényben vagy a felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek, továbbá az üzletszerű ingatlanközvetítői, vagy üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatására irányuló szándékát az ingatlanvállalkozás-felügyeleti hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentette.
 
 (2) Nem végezhet ingatlanközvetítői vagy ingatlanvagyon-értékelő és -közvetítői tevékenységet az, aki
 
@@ -578,42 +582,43 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 - b) az ilyen tevékenységtől eltiltó jogerős bírói ítélet hatálya alatt áll, vagy
 - c) gazdasági társaság vezető tisztségviselője nem lehet.
 
-(3) Az ingatlanközvetítői vagy ingatlanvagyon-értékelő és -közvetítői tevékenység bejelentése tartalmazza a bejelentő természetes személyazonosító adatait, lakcímét, értesítési címét, a szakképzettségét tanúsító bizonyítvány (oklevél) számát, és ahhoz csatolni kell a szakképesítést tanúsító bizonyítványt.
+(3) Az ingatlanközvetítői vagy ingatlanvagyon-értékelő és -közvetítői tevékenység bejelentése tartalmazza a bejelentő természetes személyazonosító adatait, lakcímét, értesítési címét, a szakképesítését tanúsító bizonyítvány (oklevél) számát, és ahhoz csatolni kell a szakképesítést tanúsító bizonyítványt.
 
-(4) Az üzletszerű ingatlanközvetítői, vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet – a bejelentést követően – olyan gazdálkodó szervezet folytathatja, amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – az üzletszerű ingatlanközvetítői, vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatására irányuló szándékát az ingatlanvállalkozás-felügyeleti hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentette, valamint az ilyen tevékenységével összefüggésben keletkezett, jogerősen megállapított köztartozásának eleget tett, továbbá megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
+(4) Az üzletszerű ingatlanközvetítői, vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet – a bejelentést követően – olyan gazdálkodó szervezet folytathatja,
+
+- a) amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – a 64/D. § (1) bekezdése szerinti, természetes személyekről vezetett nyilvántartásban szerepel,
+- b) amely az ilyen tevékenységével összefüggésben keletkezett, jogerősen megállapított köztartozásának eleget tett,
+- c) amelynek vezető tisztségviselője, tagja, illetve a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény szerinti tényleges tulajdonosa az üzleti jó hírnevét igazolja, és
+- d) amely megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
 
 (5) Ingatlanközvetítői tevékenység végzésére és a hozzá kapcsolódó ügyleti okiratok elkészítésére – a forgalmi értékbecslés és az ingatlanvagyon-értékelés kivételével – az ügyvéd és a kamarai jogtanácsos az (1) bekezdésben említett szakképesítés nélkül is jogosult.
 
-64/D. § (1) Az ingatlanvállalkozás-felügyeleti hatóság által az üzletszerű ingatlanközvetítői vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet végző természetes személyekről és gazdálkodó szervezetekről vezetett nyilvántartásba való bejegyzésre és törlésre irányuló eljárás során okirati bizonyításnak van helye.
+64/D. § (1) Az ingatlanvállalkozás-felügyeleti hatóság az üzletszerű ingatlanközvetítői vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet végző természetes személyekről és gazdálkodó szervezetekről az átláthatóság, valamint a jogszabályoknak megfelelő működés biztosítása érdekében nyilvántartást vezet. A hatóság a nyilvántartási kötelezettségét az Országos Kereskedelmi Nyilvántartási Rendszerbe történő bejegyzéssel teljesíti. A nyilvános adatok megismerését az ingatlanvállalkozás-felügyeleti hatóság ingyenesen, bárki számára nyilvánosan hozzáférhető úton biztosítja. A nyilvántartás – a (2) bekezdés a)–g) pontja és k)–l) pontja szerinti adatok kivételével – közhiteles.
 
-(1a) Az (1) bekezdés szerinti nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza:
+(2) Az (1) bekezdés szerinti nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza:
 
-- a) a szolgáltatási tevékenységet végző természetes személy munkáltatójának megnevezését és székhelyét,
-- b) a szolgáltatási tevékenység során használt nyelv megjelölését,
-- c) a természetes személy szolgáltatási tevékenység gyakorlására jogosító szakképesítésének az Országos Képzési Jegyzékben szereplő azonosító számát, a bizonyítvány számát, a kiállító intézmény megjelölését, a kiadás helyét és időpontját,
-- d) a szolgáltató gazdálkodó szervezet cégjegyzékszámát, egyéni vállalkozó esetén nyilvántartási számát,
-- e) a szolgáltató gazdálkodó szervezet képviseletére jogosult személy – egyéni vállalkozó esetén saját – nevét és lakóhelyét,
-- f) szolgáltató gazdálkodó szervezet esetén a szolgáltatási tevékenység végzésére igazolással rendelkező személyesen közreműködő tag vagy alkalmazott nevét,
-- g) a nyilvántartásba vétel időpontját,
-- h) nyilvántartási számát.
+- a) a szolgáltatási tevékenységet végző természetes személy munkáltatójának megnevezését,
+- b) a szolgáltatási tevékenységet végző természetes személy születési nevét, születési helyét és születési idejét, anyja születési nevét,
+- c) a szolgáltatási tevékenység során használt nyelv megjelölését,
+- d) a természetes személy szolgáltatási tevékenység gyakorlására jogosító szakképesítésének az azonosító számát és a bizonyítvány számát,
+- e) a szolgáltató gazdálkodó szervezet cégjegyzékszámát, – amennyiben rendelkezésre áll – rövidített nevét, egyéni vállalkozó esetén nyilvántartási számát,
+- f) a szolgáltató gazdálkodó szervezet képviseletére jogosult személy – egyéni vállalkozó esetén saját – nevét és lakóhelyét,
+- g) szolgáltató gazdálkodó szervezet esetén a szolgáltatási tevékenységet végző, a) pont szerinti személyesen közreműködő tag vagy alkalmazott nevét,
+- h) a nyilvántartásba vétel időpontját,
+- i) a szolgáltató nyilvántartási számát,
+- j) a nyilvántartásba vevő hatóság megnevezését,
+- k) a szolgáltatási tevékenység szüneteltetésének tényét, valamint kezdő és záró időpontját,
+- l) – ha a szolgáltató bejelenti – az elektronikus, telefonos, postai, illetve egyéb elérhetőségét.
 
-(1b) Az (1) bekezdés szerinti nyilvántartásban szereplő adatok – az (1a) bekezdés c) pontjában foglaltak kivételével – nyilvánosak.
+(3) Az (1) bekezdés szerinti nyilvántartásban szereplő adatok – a (2) bekezdés b) és d) pontjában foglalt kivétellel – nyilvánosak.
 
-(1c) Az ingatlanvállalkozás-felügyeleti hatóság az (1) bekezdés szerinti nyilvántartásban szereplő adatokat a nyilvántartásból való törlésig kezeli.
+(4) Az ingatlanvállalkozás-felügyeleti hatóság az (1) bekezdés szerinti nyilvántartásban szereplő adatokat a nyilvántartásból való törlésig kezeli. Szolgáltatási tevékenységtől eltiltás hatálya alatt álló szolgáltató adatai az eltiltás hatályának lejártáig kezelhetőek abban az esetben is, ha a szolgáltató a nyilvántartásból való törlését kéri.
 
-(2) A nyilvántartásba vett természetes személy, egyéni vállalkozó neve, értesítési címe, szakmai tevékenységének megnevezése és a nyilvántartásba vétel száma nyilvános, amelyről bárki tájékoztatást kérhet. A nyilvántartásban szereplő minden további adatról a bíróság részére tájékoztatást lehet adni; a más – kívülálló – harmadik személy részére történő tájékoztatás megadásához az érintett természetes személy írásbeli hozzájárulása szükséges.
+(5) A nyilvántartásban szereplő személy köteles a (2) bekezdésben foglalt adatok megváltozásáról az eljáró hatóságot a változástól számított tíz napon belül értesíteni.
 
-(3) A nyilvántartásból törölni kell azt a természetes személyt, egyéni vállalkozót:
+(6) Ha a nyilvántartás adataiban történő változás alapján indokolt a szolgáltatási tevékenységet végző természetes személy, illetve a szolgáltató gazdálkodó szervezet szolgáltatási tevékenység végzésére való jogosultságának felülvizsgálata, akkor az ingatlanvállalkozás-felügyeleti hatóság hivatalból eljárást indít, és szükség esetén intézkedik a változás nyilvántartáson történő átvezetéséről.
 
-- a) aki meghalt vagy a törlését kéri,
-- b) aki büntetett előéletű,
-- c) aki az ilyen tevékenységtől eltiltó jogerős bírói ítélet hatálya alatt áll.
-
-(4) A nyilvántartásban szereplő személy köteles az (1) bekezdésben foglalt adatok megváltozásáról az eljáró hatóságot a változástól számított tíz napon belül tájékoztatni.
-
-(5)
-
-(6)
+(7) A pénzügyi információs egységként működő hatóság, valamint a lakásgazdálkodásért és lakáspolitikáért felelős miniszter törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.
 
 ## ÖTÖDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -963,6 +968,8 @@ rendelkezik.
 (2) Ha a Módtv. hatálybalépését követően 90 napnál kevesebb van hátra a határozott időtartamú lakásbérleti szerződésből, akkor az a lakásbérleti szerződésben foglalt időpontban szűnik meg.
 
 96. § E törvény 11/A. §-a az épületek energiahatékonyságáról szóló 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelv 12. cikk (2) és (4) bekezdésének való megfelelést szolgálja.
+
+97. § A 64/C. § (4) bekezdés c) pontja a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelv 47. cikk (3) bekezdésének való megfelelést szolgálja.
 
 ### 1. számú melléklet az 1993. évi LXXVIII. törvényhez
 
