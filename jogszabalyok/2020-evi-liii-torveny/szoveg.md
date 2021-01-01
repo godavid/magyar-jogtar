@@ -68,9 +68,19 @@ az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI
 
 31. §
 
-32. §
+32. § A Máoktv. 7. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-33. §
+(A területi közgyűlés kizárólagos hatáskörébe tartozik:)
+
+„a) a területi tisztségviselők, az országos elsőfokú etikai bizottság tagjának és póttagjának, a felügyelőbizottság és az oktatási bizottság, valamint egyéb állandó bizottság tagjainak a megválasztása,”
+
+33. § (1) A Máoktv. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A területi közgyűlés az országos elsőfokú etikai bizottság egy tagját és egy póttagját titkos szavazással négy évre választja meg.”
+
+(2) A Máoktv. 9. § (5) bekezdése helyébe a következő rendelkezdés lép:
+
+„(5) A felügyelőbizottság és az oktatási bizottság elnöke tisztségviselőként látja el feladatait.”
 
 34. §
 
@@ -84,7 +94,17 @@ az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI
 
 39. §
 
-40. §
+40. § (1) A Máoktv. 25. § (3) bekezdése helyébe a következő rendelkezés lép, és a Máoktv. 25. §-a a következő (3a) és (3b) bekezdéssel egészül ki:
+
+„(3) Elsőfokú etikai bizottságként az országos elsőfokú etikai bizottság jár el. Az országos elsőfokú etikai bizottság az elsőfokú etikai eljárás lefolytatására legalább három főből álló eseti etikai bizottságot (a továbbiakban: eseti etikai bizottság) hoz létre.
+
+(3a) Az országos elsőfokú etikai bizottság elnöke az országos elsőfokú etikai bizottság tagjai közül határozattal jelöli ki az eseti etikai bizottság tagjait és elnökét. Az etikai ügy tárgyalására létrehozott eseti etikai bizottságba ki kell jelölni az etikai eljárás alá vont kamarai tag szervezeti tagsága szerinti területi szervezet közgyűlése által megválasztott országos elsőfokú etikai bizottsági tagot, annak akadályoztatása esetén a megválasztott póttagot.
+
+(3b) Fellebbezés esetén másodfokon az országos másodfokú etikai bizottság jár el.”
+
+(2) A Máoktv. 25. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Akivel szemben a (4) és (5) bekezdésben meghatározott kizárási ok áll fenn, köteles azt bejelenteni. Kizárási okot az eljárás alá vont és az etikai eljárást kezdeményező kamarai tag is az eljárás bármely szakaszában bejelenthet. A kizárási okot az eljáró országos elsőfokú etikai bizottság elnökének, az országos első- és a másodfokú etikai bizottság elnökével szembeni kizárási okot a Kamara elnökének kell bejelenteni, aki határoz az eljárásból való kizárás tárgyában, és kijelöli az etikai eljárásban részt vevő póttagot.”
 
 41. §
 
@@ -106,24 +126,24 @@ az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI
 
 50. § A Máoktv.
 
-- 1.
-- 2.
-- 3.
+- 1. 10. § (1) bekezdés d) pontjában, valamint (2) bekezdés c) pontjában az „országos etikai” szövegrész helyébe az „országos első- és másodfokú etikai”,
+- 2. 11. § (2) bekezdés b) pontjában, 13. § (1) bekezdésében, valamint 17. § (2) bekezdés b) pont bb) alpontjában az „országos etikai” szövegrész helyébe az „országos másodfokú etikai”,
+- 3. 15. § (5) bekezdésében az „etikai, az országos etikai” szövegrész helyébe az „országos első- és másodfokú etikai”,
 - 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
-- 10.
-- 11.
-- 12.
+- 5. 25. § (2) bekezdésében az „etikai bizottság és az országos etikai” szövegrész helyébe az „országos első- és másodfokú etikai”,
+- 6. 25. § (4) bekezdésében az „Etikai bizottság és országos etikai” szövegrész helyébe az „Az országos első- és másodfokú etikai”,
+- 7. 26. § (2) bekezdésében az „etikai bizottság” szövegrész helyébe az „országos elsőfokú etikai bizottság”,
+- 8. 26. § (4) bekezdésében az „etikai bizottság” szövegrészek helyébe az „eseti etikai bizottság”,
+- 9. 26. § (5) bekezdésében az „etikai bizottság” szövegrész helyébe az „országos elsőfokú etikai bizottság”,
+- 10. 27. § (5) bekezdésében az „a területi etikai bizottság vagy az országos etikai” szövegrész helyébe az „az országos első- vagy másodfokú etikai”,
+- 11. 28. § (3) bekezdésében, valamint 30. § (1) bekezdésében és (2) bekezdés nyitó szövegrészében az „országos etikai” szövegrész helyébe az „országos másodfokú etikai”,
+- 12. 30. § (1) bekezdésében az „eljáró etikai” szövegrész helyébe az „eljáró elsőfokú etikai”
 
 szöveg lép.
 
 51. § Hatályát veszti a Máoktv.
 
-- a)
+- a) 17. § (2) bekezdés a) pont ab) alpontja,
 - b)
 - c)
 - d)

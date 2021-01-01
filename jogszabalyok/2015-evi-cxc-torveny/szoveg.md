@@ -1429,6 +1429,7 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 11. Bermuda
 - 11a. Brazília
 - 12. Brit Virgin-szigetek
+- 12a. Brunei
 - 13. Bulgária
 - 14. Chile
 - 15. Ciprus
@@ -1438,12 +1439,14 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 19. Csehország
 - 20. Dánia
 - 21. Dél-Afrika
-- 21a. Egyesült Arab Emírségek
+- 21a. Dominikai Közösség
+- 21b. Ecuador
+- 21c. Egyesült Arab Emírségek
 - 22. Egyesült Királyság
 - 23. Észtország
 - 24. Feröer-szigetek
 - 25. Finnország
-- 26. Franciaország és annak következő tengerentúli területei: – Francia Guyana, – Guadeloupe, – Martinique, – Mayotte, – Réunion és – Saint-Barthélemy
+- 26. Franciaország és annak következő tengerentúli területei: – Francia Guyana, – Guadeloupe, – Martinique, – Mayotte, – Réunion, – Saint-Barthélemy és – Új-Kaledónia
 - 27. Ghána
 - 28. Gibraltár
 - 29. Görögország
@@ -1490,9 +1493,10 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 56. Niue
 - 57. Norvégia
 - 58. Olaszország
-- 58a. Orosz Föderáció
-- 58b. Pakisztán
-- 58c. Panama
+- 58a. Omán
+- 58b. Orosz Föderáció
+- 58c. Pakisztán
+- 58d. Panama
 - 59. Portugália
 - 60. Románia
 - 60a. Saint Kitts és Nevis
@@ -1513,3 +1517,4 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 72. Turks és Caicos-szigetek
 - 72a. Uruguay
 - 73. Új-Zéland
+- 74. Vanuatu

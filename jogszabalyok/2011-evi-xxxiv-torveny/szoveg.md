@@ -6,7 +6,14 @@ Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó 
 
 #### 1. Általános rendelkezések
 
-1. § (1) E törvényben foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erőkre, a Magyarország területén felállított nemzetközi katonai parancsnokságokra és azok állományának tagjaira, továbbá – a rájuk vonatkozó rendelkezések tekintetében – az állomány tagjainak Magyarország területén tartózkodó hozzátartozóira és az USA-vállalkozókra.
+1. § (1) Az e törvényben foglaltakat kell alkalmazni
+
+- a) a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erőkre és azok állományának tagjaira,
+- b) a Magyarország területén felállított nemzetközi katonai parancsnokságokra és azok állományának tagjaira,
+- c) a rájuk vonatkozó rendelkezések tekintetében
+  - ca) a nem Magyarországon települt, de Magyarországon szolgálati céllal ideiglenesen működő nemzetközi katonai parancsnokságokra,
+  - cb) az a) és b) pont szerinti állomány tagjainak Magyarország területén tartózkodó hozzátartozóira,
+  - cc) az USA-vállalkozókra.
 
 (2) Nem alkalmazandó e törvény valamely állam Magyarország területére akkreditált diplomáciai képviseletéhez tartozó katonai állomány tagjára, ideértve a katonai attaséhivatalok tagjait is.
 
@@ -18,7 +25,7 @@ Az Országgyűlés a Magyarország területén szolgálati céllal tartózkodó 
 
 2. § (1) E törvény alkalmazásában
 
-- a) külföldi fegyveres erő: valamely külföldi állam haderejét alkotó szárazföldi, haditengerészeti és légierő, továbbá a haderő szervezetéhez kapcsolódó rendfenntartó erők összessége;
+- a) külföldi fegyveres erő: külföldi állam haderejét alkotó erők, vagy ezek egyes alakulatai, kontingensei, illetve szervezeti elemei;
 - b) külföldi fegyveres erő állományának tagja: az a) pontban foglalt fegyveres erő katonai személyi állományának és a fegyveres erő alkalmazásában álló polgári személyzet tagja;
 - c) nemzetközi katonai parancsnokság: az Észak-atlanti Szerződés alapján felállított nemzetközi katonai parancsnokságok jogállásáról, Párizsban, 1952. augusztus 28-án készült Jegyzőkönyv (a továbbiakban: Párizsi Jegyzőkönyv) I. cikk b), c) pontjának vagy XIV. cikkének hatálya alá tartozó, vagy az Egyesült Nemzetek Szervezete, az Európai Unió döntése alapján, vagy nemzetközi szerződésben nemzetközi katonai parancsnokság jogállással felállított nemzetközi katonai szervezet;
 - d) védelmi együttműködésről szóló magyar–amerikai megállapodás: a 2019. évi LI. törvénnyel kihirdetett, 2019. április 4-én aláírt, Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya közötti, a védelmi együttműködésről szóló megállapodás;
@@ -208,6 +215,14 @@ részére.
 
 8. § Amennyiben nemzetközi szerződés eltérően nem rendelkezik, valamely állam Magyarország területén szolgálati céllal tartózkodó fegyveres erejét és annak katonai és polgári állománya tagjait megillető egyes jogosultságok és őket terhelő egyes kötelezettségek tekintetében a jelen alcímben foglaltakat kell alkalmazni.
 
+8/A. § (1) Ha nemzetközi szerződés vagy nemzetközi megállapodás eltérően nem rendelkezik, nemzetközi katonai parancsnokság Magyarországon jogi személynek tekintendő, amely tényt az 5. § (4) bekezdése szerint kiállított igazolás igazol.
+
+(2) Ha nemzetközi szerződés vagy nemzetközi megállapodás eltérően nem rendelkezik, nemzetközi katonai parancsnokságnak nem minősülő nemzetközi katonai szervezet Magyarországon nem tekintendő jogi személynek.
+
+(3) Ha nemzetközi szerződés vagy nemzetközi megállapodás eltérően nem rendelkezik, a külföldi fegyveres erők gépjárművei, légijárművei, hajói és más veszélyes üzemnek minősülő eszközei tekintetében a külföldi fegyveres erőt felelősségbiztosítás nélkül is önbiztosítottnak kell tekinteni.
+
+(4) Az (1) és a (2) bekezdés nem érinti az adott szervezet nemzetközi jogi jogképességét.
+
 9. § (1) A külföldi fegyveres erő Magyarország területén, magyar hajón vagy magyar légi járművön szolgálati céllal tartózkodó, valamint a Magyarország területén felállított és Magyarország által nemzetközi szervezetként el nem ismert nemzetközi katonai parancsnokság állományának tagjai és azoknak a Magyarország területén, magyar hajón vagy magyar légi járművön tartózkodó hozzátartozói Magyarország joghatósága alá tartoznak.
 
 (2) A Magyarország területén szolgálati célból tartózkodó külföldi fegyveres erő állományának tagja büntetőjogi vagy fegyelmi felelősségre vonása érdekében más állam katonai vagy egyéb bírósága nem hozható létre.
@@ -218,24 +233,25 @@ részére.
 
 11. § (1) A Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyarország területén felállított nemzetközi katonai parancsnokság állománya tagjának a szolgálati célú tartózkodásából eredően a küldő állama fegyveres erejénél, a Magyar Honvédségnél vagy a nemzetközi katonai parancsnokságnál történő munkavégzéséhez nincs szükség munkavállalási engedélyre.
 
-(2) A kizárólag Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erő, valamint a Magyarország területén felállított nemzetközi katonai parancsnokság külföldi állománya tagjának egészségügyi ellátását végző, a külföldi fegyveres erő vagy a nemzetközi katonai parancsnokság állományába tartozó személy e tevékenységének végzése erejéig mentesül az egészségügyi tevékenység végzéséhez jogszabályban előírt engedélyezési feltételek teljesítése alól.
+(2) A Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erő, valamint nemzetközi katonai szervezet vagy parancsnokság nem magyar állampolgárságú vagy Magyarországon állandó tartózkodási hellyel nem rendelkező katonai és polgári állomány tagja mentesül foglalkozása tekintetében a Magyarországon jogszabályban előírt engedélyezési feltételek teljesítése alól, amennyiben tevékenysége – ha külön megállapodás eltérően nem rendelkezik – nem terjed túl a külföldi fegyveres erők és a nemzetközi katonai parancsnokság szolgálati tevékenységén, illetve személyeket vagy állatokat érintő, egészségügyi ellátás végzésére irányuló foglalkozás esetén nem terjed túl a külföldi fegyveres erők és a nemzetközi katonai szervezet vagy parancsnokság személyi állománya és azok hozzátartozói, illetve szolgálati állatai körén.
 
 12. §
 
 #### 5. A külföldi fegyveres erők, a Magyarország területén felállított nemzetközi katonai parancsnokságok és azok állományának egyes mentességeihez kapcsolódó rendelkezések
 
-13. § (1) Az e §-ban foglaltak alapján mentesül a regisztrációs adó megfizetése alól
+13. § (1) Mentesül a regisztrációs adó megfizetése alól
 
-- a) a Magyar Honvédség kivételével az Észak-atlanti Szerződés tagállamai és a Békepartnerségben részt vevő államok fegyveres erőinek Magyarország területén tervezetten legalább három hónapig szolgálati céllal tartózkodó katonai és polgári állománya a NATO SOFA XI. cikk 6. bekezdése vagy az Észak-atlanti Szerződés részes államai és a Békepartnerség más részt vevő államai közötti, fegyveres erőik jogállásáról szóló Megállapodás alapján saját, illetve hozzátartozóik használatára ideiglenesen behozott gépjárműve forgalomba helyezése tekintetében, figyelemmel a NATO SOFA X. cikk 1. bekezdésére,
-- b) a Magyar Köztársaság Kormánya és az Egyesült Államok Kormánya közötti, az Egyesült Államok Fegyveres Erőinek a Magyar Köztársaság területén történő tevékenységéről szóló Megállapodás 3. cikk 2. bekezdésében meghatározott személyi állomány tulajdonában álló gépjármű forgalomba helyezése esetén,
-- c) a Párizsi Jegyzőkönyv I. cikk b) vagy c) pontjának vagy XIV. cikkének hatálya alá tartozó, vagy az Egyesült Nemzetek Szervezete, az Európai Unió döntése alapján vagy nemzetközi szerződésben felállított nemzetközi katonai parancsnoksághoz tartozó, nem magyar állampolgárságú katonai és polgári állomány tagja által saját vagy hozzátartozói használata céljából ideiglenesen behozott gépjárművek forgalomba helyezése esetén,
-- d) a Párizsi Jegyzőkönyv I. cikk b) vagy c) pontjának vagy XIV. cikkének hatálya alá tartozó, vagy az Egyesült Nemzetek Szervezete, az Európai Unió döntése alapján vagy nemzetközi szerződésben felállított nemzetközi katonai parancsnokság a saját tulajdonában álló gépjármű forgalomba helyezése esetén.
+- a) a Magyar Honvédség kivételével az Észak-atlanti Szerződés tagállamai és a Békepartnerségben részt vevő államok fegyveres erőinek Magyarország területén tervezetten legalább három hónapig szolgálati céllal tartózkodó, Magyarországon állandó tartózkodási hellyel nem rendelkező katonai és polgári állománya saját vagy hozzátartozói használatára vásárolt vagy ideiglenesen behozott gépjárműve forgalomba helyezése tekintetében,
+- b) a védelmi együttműködésről szóló magyar-amerikai megállapodás IX. cikk 1. bekezdésében meghatározott személyi állomány tulajdonában álló gépjármű forgalomba helyezése esetén,
+- c) a nemzetközi katonai szervezet vagy parancsnokság Magyarország területén tervezetten legalább három hónapig szolgálati céllal tartózkodó, Magyarországon állandó tartózkodási hellyel nem rendelkező katonai és polgári állománya saját vagy hozzátartozói használatára vásárolt vagy ideiglenesen behozott gépjárműve forgalomba helyezése tekintetében,
+- d) a nemzetközi katonai szervezet vagy parancsnokság az üzemeltetésében álló hivatali gépjármű forgalomba helyezése esetén,
+- e) a Magyar Honvédség kivételével az Észak-atlanti Szerződés tagállamai és a Békepartnerségben részt vevő államok fegyveres erőinek Magyarország területén szolgálati céllal tartózkodó katonai alakulatai az üzemeltetésükben álló hivatali gépjármű forgalomba helyezése esetén.
 
 (2) Az (1) bekezdés a) és c) pontja alkalmazása tekintetében a gépjármű tulajdonosa a gépjármű forgalomba helyezéséhez kapcsolódó adóigazgatási eljárás során – a jogosultságát igazoló okmányok bemutatása mellett – a vámhatóság előtt nyilatkozik a behozatal ideiglenességéről, a használat céljáról, és a gépjárművet használó személynek a 4. § (2) bekezdés h) pontjában, illetve a 4. § (5) bekezdés g) pontjában meghatározott adatairól. Az eljáró vámhatóság a regisztrációs adóról szóló törvény alapján határozatban állapítja meg az (1) bekezdés szerinti adómentesség fennálltát vagy annak hiányát.
 
 (3) Amennyiben az (1) bekezdés a)–c) pontjában foglaltak alapján forgalomba helyezett gépjárművet a forgalmi engedély jogosultja a magyar gépjármű forgalomban tartva elidegeníti, köteles a regisztrációs adót a gépjármű elidegenítését megelőzően megfizetni.
 
-(4) Az (1) bekezdés a) és c) pontja alkalmazásában az ott meghatározott állomány tagja folyamatos szolgálati célú tartózkodásának ideje alatt saját vagy hozzátartozói használata céljából személyenként egy személygépkocsit és egy motorkerékpárt helyezhet regisztrációsadó-mentesen forgalomba.
+(4)
 
 (5) Amennyiben az (1) bekezdés a) és c) pontjában meghatározott állomány ismételten, a korábbi szolgálati célú tartózkodásának idejével nem folytatólagosan, az (1) bekezdés a) és c) pontjának megfelelően szolgálati céllal tartózkodik Magyarország területén, a regisztrációsadó-mentességre jogosító időtartam újrakezdődik.
 

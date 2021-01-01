@@ -54,7 +54,9 @@ Az Országgyűlés az elektronikus ügyintézés széles körű elterjedése, az
 - 20. érvényesítési adat: az eIDAS Rendelet 3. cikk 40. pontja szerinti adat;
 - 21. érvényességi lánc: az elektronikus dokumentum vagy annak lenyomata és azon egymáshoz rendelhető információk (így különösen azon tanúsítványok, a tanúsítványokkal kapcsolatos információk, az aláírás vagy bélyegző létrehozásához használt adatok, a tanúsítvány aktuális állapotára, visszavonására vonatkozó információk, valamint a tanúsítványt kibocsátó szolgáltató érvényességi adatára és annak visszavonására vonatkozó információk) sorozata, amelyek segítségével megállapítható, hogy az elektronikus dokumentumon elhelyezett fokozott biztonságú vagy minősített elektronikus aláírás, bélyegző vagy időbélyegző, az aláírás, bélyegző vagy időbélyegző elhelyezésének időpontjában érvényes volt;
 - 22. fokozott biztonságú elektronikus aláírás: az eIDAS Rendelet 3. cikkének 11. pontja szerinti aláírás;
-- 23. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott, belföldi székhellyel rendelkező gazdálkodó szervezet, azzal az eltéréssel, hogy e törvény alkalmazásában nem minősül gazdálkodó szervezetnek az adószámmal nem rendelkező egyesület, alapítvány.
+- 23. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott, belföldi székhellyel rendelkező gazdálkodó szervezet, azzal az eltéréssel, hogy e törvény alkalmazásában
+  - a) nem minősül gazdálkodó szervezetnek az adószámmal nem rendelkező egyesület, alapítvány,
+  - b) valamennyi ügy tekintetében gazdálkodó szervezetnek minősül az adószámmal rendelkező alapítvány, egyesület;
 - 24. hitelesítési rend: olyan bizalmi szolgáltatási rend, amely bizalmi szolgáltatás keretében kibocsátott tanúsítványra vonatkozik;
 - 25. információátadás: információk együttműködő szervek közötti átadása és átvétele;
 - 26. információátadási szolgáltatás: olyan szolgáltatás, amelynek keretében egy együttműködő szerv egyszerű vagy automatikus információátadás útján adatokat vagy iratokat ad át egy másik együttműködő szervnek;
@@ -261,7 +263,7 @@ közokirat.
 
 (2) A gazdálkodó szervezet az elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségének megváltozását a változás bekövetkezését megelőzően, a változás időpontjának megjelölésével bejelenti a rendelkezési nyilvántartásba.
 
-(3) A gazdálkodó szervezet – ha működéséhez jogszabály által rendszeresített nyilvántartásba vétele kötelező – a Kormány rendeletében meghatározottak szerint, a Kormány rendeletében megjelölt, a gazdálkodó szervezet nyilvántartásba vételéért felelős szerv útján kezdeményezheti, hogy a jogszabály által rendszeresített nyilvántartásba vételi eljárással egyidejűleg kerüljön sor a Kormány rendeletében meghatározott, a hivatalos elérhetőséget biztosító szolgáltatás regisztrációjára.
+(3)
 
 (4) A hivatalos elérhetőségre kézbesített küldemény kézbesítettnek minősül,
 

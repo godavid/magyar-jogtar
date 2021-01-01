@@ -10,7 +10,9 @@ a választottbíráskodásról
 
 (2) Ha nemzetközi szerződés eltérően nem rendelkezik, a 9. §-t, a 10. §-t, a 26–28. §-t, a 40. §-t, az 53. §-t és az 54. §-t alkalmazni kell magyarországi székhelyű állandó választottbíróság eljárása esetén akkor is, ha a választottbíráskodás helye Magyarországon kívül van.
 
-(3) Nincs helye választottbírósági eljárásnak fogyasztói szerződésből eredő jogvita esetén, valamint a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) Hetedik Részében szabályozott különleges eljárásokban és a közigazgatási perrendtartásról szóló 2017. évi I. törvény hatálya alá tartozó eljárásokban elintézendő ügyekben.
+(3) Nincs helye választottbírósági eljárásnak – a (4) bekezdésben foglalt kivétellel – fogyasztói szerződésből eredő jogvita esetén, valamint a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) Hetedik Részében szabályozott különleges eljárásokban és a közigazgatási perrendtartásról szóló 2017. évi I. törvény hatálya alá tartozó eljárásokban elintézendő ügyekben.
+
+(4) Bizalmi vagyonkezelési szerződéssel összefüggő bármely jogviszony vonatkozásában helye van választottbírósági kikötésnek.
 
 #### 2. A szabályozás jellege
 
@@ -510,7 +512,9 @@ bármely fél a 7. § (2) bekezdésében meghatározott bírósághoz fordulhat,
 
 (7) Az elnökség legalább négy tagja kezdeményezheti a tisztségére méltatlanná vált elnökségi tag visszahívását. A delegáló szervezet harminc napon belül dönt a visszahívás iránti indítványról. A delegáló szervezet az elnökségi tag visszahívása esetén, azzal egyidejűleg az elnökségbe új tagot delegál.
 
-(8) Az elnökség tagja nem járhat el választottbíróként és szakértőként a Kereskedelmi Választottbíróság hatáskörébe tartozó eljárásban, kivéve azokat az ügyeket, amelyekben a választottbírókénti kijelölését az elnökségi tagi megbízatása keletkezése előtt elfogadta, illetve amelyekben az elnökségi tagi megbízatása keletkezése előtt szakvéleményt adott. Az elnökség tagja nem járhat el jogi képviselőként a Kereskedelmi Választottbíróság hatáskörébe tartozó eljárásban.
+(8) Az elnökség tagja – a (8a) bekezdés szerinti kivétellel – nem járhat el választottbíróként, szakértőként, valamint jogi képviselőként a Kereskedelmi Választottbíróság hatáskörébe tartozó eljárásban.
+
+(8a) Az elnökség tagja akkor járhat el választottbíróként a Kereskedelmi Választottbíróság hatáskörébe tartozó eljárásban, ha a választottbírókénti kijelölését az elnökségi tagi megbízatása keletkezése előtt elfogadta vagy ha megbízatása keletkezése után a felek jelölik választottbírónak. A felek által történő jelölés esetén az elnökség tagja a felek által megválasztott választottbírák részéről a választottbírósági tanács elnökévé is jelölhető. A Kereskedelmi Választottbíróság elnöksége nem jelölhet ki elnökségi tagot eljáró választottbírónak vagy a választottbírósági tanács elnökének. Az elnökség tagja abban az eljárásban járhat el szakértőként, amelyben az elnökségi tagi megbízatása keletkezése előtt szakvéleményt adott.
 
 (9) A Kereskedelmi Választottbíróságot az elnök és az általános helyetteseként eljáró alelnök képviseli.
 

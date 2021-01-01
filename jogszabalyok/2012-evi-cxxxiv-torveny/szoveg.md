@@ -105,6 +105,8 @@ kiskereskedelmi értékesítésére.
 
 (3) A részvénytársaság e törvényben meghatározott tevékenységével összefüggő költségeihez a miniszter a központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatást nyújt.
 
+(4) A részvénytársaságnak a (2) bekezdésben és a 10/C. §-ban meghatározott feladatai közfeladatnak minősülnek.
+
 4/A. § (1) Ha a dohánykiskereskedelem-ellátási feladatokat az állam maga látja el, úgy a miniszter e feladatok ellátására 100%-os állami tulajdonban lévő zártkörűen működő részvénytársaságot alapít.
 
 (2) Ha a dohánykiskereskedelem-ellátási feladatokat az állam nem maga látja el, úgy e tevékenység ellátására a Ktv. rendelkezéseinek megfelelően koncessziós szerződést köt. A dohánykiskereskedelem-ellátási feladatokra vonatkozó koncessziós szerződést nyilvános pályázat eredményeként, vagy a Ktv. 10/D. §-a alapján kell megkötni úgy, hogy a dohánykiskereskedelem-ellátás az egész ország területén biztosított legyen. Koncessziós szerződés a nyilvános pályázat nyertesével, vagy olyan személlyel köthető, amelyik megbízható dohánykereskedőnek, illetve e személy legalább többségi tulajdonában álló gazdasági társaságnak minősül, és amelyik a Jöt.-ben meghatározott jövedéki engedéllyel rendelkezik.
@@ -211,6 +213,10 @@ kiskereskedelmi értékesítésére.
 (2) A miniszter a beszedett koncessziós díjak nettó összegét a kincstár által – a koncessziós díjak központi kezelésű előirányzatként történő elszámolása céljából – vezetett fizetési számlára, a koncessziós díjat terhelő általános forgalmi adót pedig az állami adóhatóságnak utalja át a tárgyhónapot követő hónap huszadik napjáig. A miniszter által vezetett minisztérium költségvetésében a beszedett koncessziós díjat és a kapcsolódó általános forgalmi adót bevételként, azoknak e bekezdés szerinti átutalását kiadásként nem lehet elszámolni.
 
 (3) A koncessziós szerződés alapján a koncessziós díjon felül keletkező egyéb bevételek (így különösen a késedelmi pótlék, kártérítés, kötbér) a miniszter által vezetett minisztérium bevételei, amelyeket a miniszter a feladatellátáshoz kapcsolódó tevékenységek indokolt költségeire fordít.
+
+(4) A miniszter a részvénytársaság közfeladatainak ellátásához szükséges forrást közszolgáltatási szerződés útján biztosítja úgy, hogy a koncessziós díjból származó bevétel legalább 60 százalékának megfelelő összeget a részvénytársaság működési költségeinek fedezésére kell fordítani. Az egyéb feladatokhoz szükséges forrásokat az éves központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatási szerződés keretében kell biztosítani.
+
+(5) Az állam jogosult azon személytől éves díjra (a továbbiakban: jogosultsági díj), akit a 10. § (1) bekezdése alapján a dohánytermékek kiskereskedelmére vonatkozó jogosultság gyakorlására – a részvénytársaság útján – külön feljogosít. A jogosultsági díj mértéke a tevékenység folytatására külön feljogosított személy által forgalmazott dohánytermékek kiskereskedelmi eladási árának 1%-a, de legfeljebb az adott településen egyébként irányadó koncessziós díj összege. A jogosultsági díjat a tevékenység folytatására külön feljogosított személy által külön jogszabály alapján szolgáltatandó forgalmi adatok alapján kell megállapítani, amelyet a tevékenység folytatására feljogosított személy a tárgyévet követő negyedév végéig, a jogviszony évközi megszűnése esetén a megszűnést követő negyedév végéig köteles az állam részére – a részvénytársaság felhívására – megfizetni. A jogosultsági díjra egyebekben a koncessziós díjra vonatkozó jogszabályi rendelkezéseket is megfelelően alkalmazni kell.
 
 ### 5. CÍM — A részvénytársaság közreműködése az egészségvédelmet érintő feladatokban
 
@@ -537,6 +543,8 @@ fogadhatja el.
 (11) A 15/E. § (8) bekezdésének, valamint – ezzel összefüggésben – a dohánykiskereskedelem-ellátási tevékenység végzése céljából megkötött koncessziós szerződés alapján fizetendő koncessziós díj legkisebb mértékéről szóló jogszabályoknak a Módtv.3. hatályba lépését követő alkalmazása során a dohányterméknek a Módtv.3-mal megállapított fogalmát kell figyelembe venni.
 
 (12) E törvénynek a Módtv.3.-mal megállapított 23. §-át a Módtv.3. hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(13) E törvénynek a Módtv.3.-mal megállapított 10/B. § (5) bekezdése alapján előírt fizetési kötelezettséget első alkalommal 2022. március 31-ig, a jogviszony 2021. évközi megszűnése esetén a megszűnést követő negyedév végéig kell a részvénytársaság felhívására teljesíteni.
 
 24/B. § (1)
 

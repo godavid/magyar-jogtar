@@ -4,13 +4,25 @@ a fogyasztóvédelemmel összefüggő egyes törvények módosításáról
 
 #### 1. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-1. §
+1. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 29/A. §-a helyébe a következő rendelkezés lép:
+
+„29/A. § (1) A békéltető testület eljárása során az iratokat a természetes személynek, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) szerint gazdálkodó szervezetnek nem minősülő fogyasztónak – a (2) és (3) bekezdésben foglalt kivétellel – postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó rendelkezések szerint kell kézbesíteni.
+
+(2) Elektronikus kapcsolattartásra kötelezett gazdálkodó szervezetek, és az E-ügyintézési törvény szerinti elektronikus ügyintézésre köteles, a 2. § a) pontja szerint fogyasztónak minősülő szervezetek részére az iratokat az E-ügyintézési törvényben meghatározott elektronikus úton kell kézbesíteni.
+
+(3) Az elektronikus kapcsolattartásra nem kötelezett természetes személyt, valamint az E-ügyintézési törvény szerint gazdálkodó szervezetnek nem minősülő fogyasztót megilleti az elektronikus kapcsolattartás választásának joga. Erre irányuló kérelmét az eljárás során bármikor előterjesztheti.
+
+(4) A postai szolgáltató útján megküldött iratokat a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni, ha a címzett az átvételt megtagadta. Ha az irat a békéltető testülethez „nem kereste” jelzéssel érkezett vissza, az iratot a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+
+(5) Az elektronikus úton megküldött iratokat a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni, ha a címzett az átvételt megtagadta. Ha a békéltető testületnek a hivatalos elérhetőséget biztosító szolgáltató azt igazolja vissza, hogy az iratot a címzett kétszeri értesítése ellenére nem vette át, a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon azt kézbesítettnek kell tekinteni.”
 
 2. §
 
 3. §
 
-4. §
+4. § Az Fgytv. 56 §-a helyébe a következő rendelkezés lép:
+
+„56. § Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy a békéltető testületi tagsági feladat ellátására vonatkozó pályázat szabályairól, a pályázatok előzetes értékeléséről, a békéltető testületi tagok számának növeléséről, a békéltető testületi tagok díjazásáról szóló részletes szabályokat és az online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén az eljárásra kijelölt kamarák által működtetett békéltető testületek kijelölését rendeletben állapítsa meg.”
 
 5. §
 
@@ -38,9 +50,15 @@ a fogyasztóvédelemmel összefüggő egyes törvények módosításáról
 
 #### 4. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
-15. §
+15. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.) 24. § (1) bekezdés n) pontja helyébe a következő rendelkezés lép és az (1) bekezdés a következő o) ponttal egészül ki:
 
-16. §
+[Nem esik a 23. § (1) bekezdés c) pont szerinti tilalom alá:]
+
+„n) az m) pont alá nem eső jogi személy vezető tisztségviselője feladatának ellátása, valamint
+
+o) a békéltető testületi tevékenység.”
+
+16. § Hatályát veszti az Üttv. 24. § (1) bekezdés m) pontjában a „valamint” szövegrész.
 
 #### 5. Záró rendelkezések
 

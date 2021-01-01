@@ -863,7 +863,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (6) A Budapesti és Pest Megyei Mérnöki Kamara az (5) bekezdésben foglalt ellenőrzésen kívül bármely más energetikai tanúsítványt is ellenőrizhet.
 
-(7) A Budapesti és Pest Megyei Mérnöki Kamara a jogszabályi rendelkezések megsértésével kiállított energetikai tanúsítvány kiállítójával szemben figyelmeztetéssel élhet, vagy kormányrendeletben meghatározott bírságot szabhat ki.
+(7) A Budapesti és Pest Megyei Mérnöki Kamara a jogszabályi rendelkezések megsértésével kiállított energetikai tanúsítvány kiállítójával szemben figyelmeztetéssel élhet vagy bírságot szab ki.
 
 38/D. § (1) Jogi személy vagy jogi személyiséggel nem rendelkező szervezet kormányrendeletben meghatározott feltételek mellett vállalhatja és folytathatja a 16. §, a 32. §, a 38/A. § és a 38/C. § szerinti tevékenységet.
 
@@ -987,10 +987,9 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
   - bd) folytatásához előírt kivitelezési dokumentáció(rész) meglétét,
 - c)
 - d) a szabálytalan építési tevékenység feltárása érdekében a Nyilvántartás igénybevételével építésrendészeti ellenőrzést és eljárást folytat le,
-- e) az ellenőrzései alapján szankciót állapít meg, ennek keretében
+- e) az ellenőrzés alapján saját hatáskörben közigazgatási szankciót állapít meg, ennek keretében
   - ea) építésfelügyeleti intézkedést tesz,
-  - eb) építésfelügyeleti bírságot szab ki,
-  - ec) megkeresi az intézkedésre hatáskörrel rendelkező hatóságot,
+  - eb) építésfelügyeleti bírságot szab ki.
 - f)
 
 (3) Az építésfelügyeleti hatóság jogszabályban meghatározott módon
@@ -998,17 +997,17 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 - a)
 - b) a (2) bekezdés b) pont ba), bc), bd) alpontja, és a (2) bekezdés e) pontja szerinti feladatkörében az építőipari kivitelezési tevékenység folytatását
   - ba) megtilthatja és építésfelügyeleti bírságot szabhat ki, ha ellenőrzése során azt állapítja meg, hogy az építőipari kivitelezési tevékenység szakszerűségére, az építési napló vezetésére vagy a kivitelezési tevékenység folytatásához szükséges kivitelezési dokumentációra vonatkozó szabályokat súlyosan megsértették,
-  - bb) megtiltja és a szabálytalan állapot megszüntetését elrendeli, továbbá építésfelügyeleti bírságot szabhat ki, ha az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és az egészséget vagy a közbiztonságot közvetlenül veszélyezteti,
+  - bb) megtiltja és a szabálytalan állapot megszüntetésére kötelez, továbbá építésfelügyeleti bírságot szabhat ki, ha az építőipari kivitelezési tevékenység végzése az állékonyságot, az életet és az egészséget vagy a közbiztonságot közvetlenül veszélyezteti,
   - bc) építési napló hiányában építési napló hiányában megtiltja, ha annak vezetése az e törvény végrehajtására kiadott kormányrendelet alapján kötelező,
 - c) a (2) bekezdés b) pont bb) alpontja és a (2) bekezdés e) pontja szerinti feladatkörében hatósági eljárást folytat le, építésfelügyeleti bírságot szabhat ki, vagy a szükséges intézkedések megtétele érdekében megkeresi az eljárásra hatáskörrel rendelkező hatóságot vagy szervet, ha az ellenőrzése során azt állapítja meg, hogy a résztvevők nem rendelkeznek az előírt jogosultsággal, nem megfelelő a jogosultságuk, nem rendelkeznek az előírt regisztrációval vagy nem a regisztrációjuknak megfelelő tevékenységet végeznek,
 - d)
 - e) a (2) bekezdés d) pontja szerinti feladatkörében az ellenőrzésen tapasztaltak eredményeképpen
   - ea) az építőipari kivitelezési tevékenység folytatását megtilthatja,
-  - eb) a szabálytalan állapot megszüntetése érdekében bontást, átalakítást rendel el, vagy a fennmaradási engedélyezés feltételeinek fennállása esetén megkeresi az eljárás lefolytatására hatáskörrel rendelkező építésügyi hatóságot.
+  - eb) a szabálytalan állapot megszüntetése érdekében intézkedésként bontást, átalakítást rendel el, vagy a fennmaradási engedélyezés feltételeinek fennállása esetén megkeresi az eljárás lefolytatására hatáskörrel rendelkező építésügyi hatóságot.
 
 (4) Az építésfelügyeleti hatóság a hatósági ellenőrzést a megindításától számított 60 napon belül lefolytatja. Szabálytalanság észlelése esetén haladéktalanul megindítja a (2) bekezdés szerinti intézkedések megtételére irányuló eljárást. Ezen intézkedéseknek
 
-- a) a (2) bekezdés a) és b) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
+- a) a (2) bekezdés b) pontja esetében a szabálytalan tevékenységtől számított öt éven belül,
 - b) a (2) bekezdés d)–e) pontja esetében a szabálytalan tevékenységtől számított tíz éven belül
 
 van helyük.
@@ -1021,7 +1020,7 @@ van helyük.
 
 47. § (1) Jogszabályban meghatározott esetekben és módon az építésügyi hatóság elrendelheti a telek bekerítését, az engedély nélküli építményhasználat megszüntetését.
 
-(2) Az építésügyi hatóságnak külön kormányrendeletben foglaltak szerint el kell rendelnie:
+(2) Az építésügyi hatóság külön kormányrendeletben foglaltak szerint kötelezésként elrendeli:
 
 - a) az építmény, építményrész részleges vagy teljes átalakítását, – amennyiben ez nem lehetséges, vagy ha az építtető ezt nem vállalja – a lebontását vagy az újraépítését, ha a kivitelezés az állékonyságot, az életet és egészséget, a közbiztonságot veszélyeztető módon történik,
 - b) az építmény, építményrész állékonyságát, az életet, egészséget, a közbiztonságot veszélyeztető állapot és használat megszüntetését,
@@ -1083,7 +1082,7 @@ végzik.
 
 (1a) Az (1) bekezdés szerint kiadott fennmaradási engedély nem mentesít a 33/A. § (6) és (7) bekezdése rendelkezéseinek alkalmazása alól.
 
-(2) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg az építésügyi hatóság elrendeli:
+(2) Ha az építményt, építményrészt jogszerűtlenül vagy szakszerűtlenül valósították meg az építésügyi hatóság kötelezésként elrendeli:
 
 - a) a szabályossá tétel érdekében szükséges munkálatok elvégzését, vagy
 - b) – ha az építmény fennmaradása az (1) bekezdés alapján nem engedélyezhető – a lebontását.
@@ -1113,7 +1112,7 @@ végzik.
 
 (4) Nem szabható ki bírság az olyan végleges és végrehajtható építési, illetve bontási engedély alapján elvégzett építési tevékenységgel összefüggésben, amelynek az alapját képező határozatot utóbb az építésügyi hatóság a saját hatáskörében vagy az ügyészségről szóló törvény szerinti ügyészi felhívás folytán visszavonta, vagy amelyet a bíróság hatályon kívül helyezett, illetve az Alkotmánybíróság határozata alapján az építésügyi hatóság felügyeleti szerve megváltoztatta vagy megsemmisítette kivéve, ha az építtető a visszavonásra (megváltoztatásra, megsemmisítésre, hatályon kívül helyezésre) alapot adó ok tekintetében rosszhiszeműen járt el.
 
-(5) Veszélyes állapotú építmények, épületszerkezetek jogszerűtlen építési tevékenységgel történő veszélyelhárítása vagy részleges elbontása esetén kiadott fennmaradási engedéllyel vagy bontás tudomásulvételével egyidejűleg az építésügyi hatóság a veszély elhárításához szükséges mértékű építési tevékenységre építésügyi bírságot nem szab ki.
+(5) Veszélyes állapotú építmények, épületszerkezetek jogszerűtlen építési tevékenységgel történő veszélyelhárítása vagy részleges elbontása esetén kiadott fennmaradási engedéllyel vagy bontás tudomásulvételével egyidejűleg az építésügyi hatóság a veszély elhárításához szükséges mértékű építési tevékenységre közigazgatási szankciót nem alkalmaz.
 
 50. § (1) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter által vezetett minisztérium költségvetési fejezetében az épített környezet alakításának és védelmének pénzügyi eszközökkel történő támogatására külön előirányzat szolgál.
 
@@ -1141,13 +1140,13 @@ végzik.
 
 (4) Az építésügyi és építésfelügyeleti hatóság által elrendelt munkálatok költségei – ha jogszabály eltérően nem rendelkezik – a kötelezettet terhelik.
 
-52. § (1) Az építésügyi és az építésfelügyeleti hatóság az építési folyamat résztvevőivel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
+52. § (1) Az építésügyi és az építésfelügyeleti hatóság az építési folyamat résztvevőivel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a közigazgatási szabályszegések szankcióiról szóló törvény rendelkezései figyelembevételével a következő jogkövetkezményeket alkalmazza:
 
 - a) figyelmeztetés,
 - b) hatósági kötelezés a szabálytalanság megszüntetésére,
 - c) a tevékenység megkezdésének, folytatásának megtiltása vagy leállítása,
 - d) bírság megállapítása,
-- e) a névjegyzéket vezető kamaránál eljárás kezdeményezése.
+- e) intézkedésként a névjegyzéket vezető kamaránál eljárás kezdeményezése.
 
 (2) Ha e törvény másként nem rendelkezik, a névjegyzéket vezető kamara a névjegyzékben szereplő szakmagyakorlóval, valamint a vállalkozó kivitelezővel szemben – az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben, a 48. § szerinti szabálytalanságok esetén – a következő jogkövetkezményeket alkalmazza:
 
@@ -1189,6 +1188,13 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 (6) A szabálytalanságot megállapító hatóság a felelőssel szemben köteles eljárást lefolytatni vagy kezdeményezni az eljárás lefolytatására hatáskörrel rendelkező illetékes hatóságnál vagy névjegyzéket vezető kamaránál. A megkeresett hatóság, névjegyzéket vezető szerv a felelőssel szemben köteles az eljárást lefolytatni.
 
 (7) Az építésügyi szabályok megsértése miatt a természetes személlyel, jogi személy esetén szakmagyakorlási jogosultsággal rendelkező tagjával vagy alkalmazottjával szemben alkalmazott büntetést – jogszabályban meghatározottak szerint – a Nyilvántartás bírság és szankció adatállományában kell rögzíteni.
+
+(8) A közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott figyelmeztetés
+
+- a) építésügyi hatósági eljárásban, valamint
+- b) az építésfelügyeleti hatósági eljárásban az állékonyságot, az életet vagy egészséget veszélyeztető állapot előidézése esetén
+
+nem alkalmazható.
 
 53. § Az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítése, a döntés meghozatala, végrehajtása, az állami főépítészi, valamint az önkormányzati főépítészi feladatok ellátása jogszabályban meghatározott szakirányú felsőfokú végzettséghez, valamint egyéb – jogszabályban meghatározott – feltételekhez kötött tevékenység.
 
@@ -1425,7 +1431,7 @@ kérelmező személy,
   - dc)
   - dd) az energetikai tanúsítói tevékenység folytatására bejelentést tevő személy.
 
-Az a) és b) pontokban meghatározott eljárások igazgatási szolgáltatási díja harmincezer forint.
+Az a) és b) pontokban meghatározott eljárásokban, valamint az arra tekintettel indult kamarai eljárásokban hozott döntésekkel szemben benyújtott fellebbezések igazgatási szolgáltatási díja harmincezer forint.
 
 (4) Az (1) és (2) bekezdés szerinti nyilvántartást elektronikus úton kell vezetni, az adatokat elektronikusan kell tárolni és feldolgozni. A nyilvántartásnak alkalmasnak kell lennie a bekövetkezett változások folyamatos követésére és a nyilvántartásból történő elektronikus adatszolgáltatásra.
 
@@ -1526,7 +1532,7 @@ tartalmazza.
 
 (10) Az 58. § szerinti nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
-59/A. § A nemzeti tervvagyonnak a nemzeti vagyonról szóló törvény szerint az állam tulajdonába tartozó része vonatkozásában a tulajdonosi jogokat az állam 100%-os tulajdonában álló Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság gyakorolja.
+59/A. § A nemzeti tervvagyonnak a nemzeti vagyonról szóló törvény szerint az állam tulajdonába tartozó része és az annak kezeléséhez szükséges eszközök vonatkozásában a tulajdonosi jogokat az állam 100%-os tulajdonában álló Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság gyakorolja. A nemzeti tervvagyonba tartozó építészeti-műszaki dokumentációk összessége közgyűjteménynek minősül.
 
 59/B. § (1) Az építtető és a tervező közös nyilatkozatban az építészeti szerzői jogi nyilvántartás részére átadja az építészeti-műszaki dokumentációhoz, valamint az az alapján megépült építményhez fűződő szerzői vagyoni jogok tulajdonosának vagy tulajdonosainak a következő adatait:
 

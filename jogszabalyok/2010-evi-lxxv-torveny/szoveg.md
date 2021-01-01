@@ -41,7 +41,7 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 - 5. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár,
 - 6. tagállam: az Európai Unió tagállama, valamint az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez,
 - 7. idénymunka: az Mt. 90. § c) pontjában meghatározott feltételeknek megfelelő munka. Mezőgazdasági idénymunka esetén az év adott időszakához vagy időpontjához kötődőnek kell tekinteni az olyan munkavégzést is, amely az előállított növény vagy állat biológiai sajátossága miatt végezhető el kizárólag abban az időszakban vagy időpontban.
-- 8. filmipari statiszta: az a természetes személy, aki a 3711 FEOR számmal azonosított foglalkozásúnak minősül, feltéve, hogy tevékenysége a mozgóképről szóló 2004. évi II. törvényben meghatározott filmalkotás elkészítésében való kisegítő (pótolható) jellegű részvételre irányul és e tevékenységből származó napi nettó jövedelme nem haladja meg az e törvényben meghatározott mértéket.
+- 8. filmipari statiszta: az a természetes személy, aki a 3711 FEOR számmal azonosított foglalkozásúnak minősül, feltéve, hogy tevékenysége a szerzői jogról szóló 1999. évi LXXVI. törvény 64. § (1) bekezdés szerinti filmalkotás elkészítésében való kisegítő (pótolható) jellegű részvételre irányul és e tevékenységből származó napi nettó jövedelme nem haladja meg az e törvényben meghatározott mértéket.
 
 ### Az egyszerűsített foglalkoztatás céljára létrehozott munkaviszony
 
@@ -55,7 +55,7 @@ létesít egymással több ízben munkaviszonyt, akkor ezen munkaviszonyok együ
 
 (1a) Az egyszerűsített foglalkoztatás céljára létesített munkaviszony alapján alapbérként, illetve teljesítménybérként – a meghatározott feltételeknek megfelelően – legalább a kötelező legkisebb munkabér 85%-a, garantált bérminimum esetén 87%-a jár.
 
-(2) A filmipari statiszta alkalmi munkából származó napi nettó jövedelme nem haladhatja meg a 12 000 forintot.
+(2) A filmipari statiszta alkalmi munkából származó napi nettó jövedelme nem haladhatja meg a 18 000 forintot.
 
 (3)
 
@@ -165,7 +165,7 @@ van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezett
 
 13. § (1) A munkáltató a közteher-fizetési kötelezettséget a tárgyhót követő hó 12-éig, az állami adóhatóság által erre a célra meghatározott beszedési számla javára teljesíti.
 
-(2) Az adóhatóság a 8. § (1) bekezdése alapján fizetett közteher összegéből 91,8%-ot a Nyugdíjbiztosítási Alapnak, 1,4%-ot az Egészségbiztosítási Alapnak és 6,8%-ot a Nemzeti Foglalkoztatási Alapnak utal át.
+(2) Az adóhatóság a 8. § (1) bekezdése alapján fizetett közteher összegéből 91,8%-ot a Nyugdíjbiztosítási Alapnak, 1,4%-ot az Egészségbiztosítási Alapnak és 6,8%-ot a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapnak utal át.
 
 (3) A (2) bekezdésben meghatározott átutalást naponta, ettől eltérően a magánnyugdíjpénztárnak történő átutalás esetén a bevallás feldolgozását követően haladéktalanul kell teljesíteni.
 
@@ -205,7 +205,7 @@ rendeletben szabályozza.
 
 19. § Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosításáról szóló 2017. évi CLXI. törvénnyel megállapított 9. § (2) bekezdését a 2017. évben megszerzett jövedelem személyijövedelemadó-kötelezettségének megállapítása során is alkalmazni kell.
 
-#### 20. §
+20. § E törvénynek az egyes törvényeknek a mozgóképipar versenyképességének növelésével összefüggő módosításáról szóló 2020. évi CLXXVIII. törvénnyel megállapított 2. § 8. pontja, 4. § (2) bekezdése és 8. § (2) bekezdése szerinti rendelkezések a 2020. december 31-ét követően megszerezett bevétel adókötelezettségére alkalmazhatóak első alkalommal.
 
 #### 21. §
 

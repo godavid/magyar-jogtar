@@ -73,7 +73,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 - f) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
-- g) akit bíróként, ügyészként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként vagy rendvédelmi alkalmazottjaként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+- g) akit bíróként, ügyészként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként vagy rendvédelmi alkalmazottjaként, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 - h) akinek a részére öregségi nyugdíjat, korhatár előtti ellátást vagy olyan más pénzbeli ellátást folyósítanak, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani,
 - i) aki betöltötte a 90. § ha) alpontjában meghatározott életkort.
 
@@ -176,7 +176,7 @@ meghatározott esetben.
 
 - a) a szakmai értékelés tekintetében
   - aa) a bírósági fogalmazói és bírósági titkári joggyakorlati idő, illetve a bírói szolgálati idő szakmai értékelésének eredménye,
-  - ab) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az OBH-ban eltöltött bírói, bírósági titkári joggyakorlati idő, valamint a központi igazgatási feladatokban történő közreműködés OBH elnöke általi értékelése, a jogegységi határozatok előkészítésével és a joggyakorlat elemzéssel kapcsolatos átfogó ismeretek megszerzése érdekében a Kúrián beosztott bíróként, bírósági titkárként eltöltött joggyakorlati idő Kúria elnöke általi értékekése, továbbá a jogszabályok előkészítésére vonatkozó átfogó ismeretek megszerzése érdekében az igazságügyért felelős miniszter által vezetett minisztériumban eltöltött bírói, bírósági titkári joggyakorlati idő miniszter általi értékelése,
+  - ab) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az OBH-ban eltöltött bírói, bírósági titkári joggyakorlati idő, valamint a központi igazgatási feladatokban történő közreműködés OBH elnöke általi értékelése, a jogegységi határozatok előkészítésével és a joggyakorlat elemzéssel kapcsolatos átfogó ismeretek megszerzése érdekében a Kúrián beosztott bíróként, bírósági titkárként eltöltött joggyakorlati idő Kúria elnöke általi értékelése, továbbá az érintett szerv alaptevékenységébe tartozó közjogi jellegű feladat- és hatáskör ellátása érdekében a 27/A. §-ban meghatározott érintett szervnél eltöltött bírói, bírósági titkári joggyakorlati idő szerv vezetője általi értékelése,
   - ac) nem bírósági joggyakorlattal rendelkező pályázó esetén a korábbi munkáltató értékelése,
 - b) a jogi szakvizsga letételét követő gyakorlati vagy szolgálati idő tartama,
 - c) a pályaalkalmassági vizsgálat eredménye,
@@ -341,11 +341,11 @@ bírói tanácsa a pályázókat meghallgatja, és a pályázatokat az elért po
 
 27. § (1) Az OBH elnöke osztja be – a bíróság elnökének javaslatára – a katonai bírót a katonai tanácsba, valamint a Magyar Honvédségnél fennálló hivatásos szolgálati viszonyának megszűnésekor – a 97. § (3) bekezdése alapján – más bírói munkakörbe.
 
-(2) A bírót az OBH elnöke az OBH-ba, a Kúria elnökének javaslatára a Kúriára, vagy az igazságügyért felelős miniszterrel egyetértésben az igazságügyért felelős miniszter által vezetett minisztériumba (a továbbiakban: minisztérium) is beoszthatja.
+(2) A bírót az OBH elnöke az OBH-ba, a Kúria elnökének javaslatára a Kúriára is beoszthatja.
 
 (3) Az (1) és (2) bekezdésben meghatározott esetekben a bíró beosztásához a bíró hozzájárulása szükséges.
 
-27/A. § (1) Az OBH elnöke a közigazgatási ügyekben eljáró bírót
+27/A. § (1) Az OBH elnöke a bírót
 
 - a) az Alkotmánybíróság Hivatalába,
 - b) az Alapvető Jogok Biztosának Hivatalába,
@@ -356,7 +356,7 @@ bírói tanácsa a pályázókat meghallgatja, és a pályázatokat az elért po
 
 beoszthatja.
 
-(2) Az (1) bekezdés szerinti szervhez (a továbbiakban: érintett szerv) történő beosztást a közigazgatási ügyekben eljáró bíró kérelmére az érintett szerv vezetője – az ügyészség esetén a legfőbb ügyész – kezdeményezheti. A beosztáshoz a bíró felett munkáltatói jogkört gyakorló bíróság elnökének egyetértése szükséges.
+(2) Az (1) bekezdés szerinti szervhez (a továbbiakban: érintett szerv) történő beosztást a bíró kérelmére az érintett szerv vezetője – az ügyészség esetén a legfőbb ügyész – kezdeményezheti. A beosztáshoz a bíró felett munkáltatói jogkört gyakorló bíróság elnökének egyetértése szükséges.
 
 28. § (1) A bíró – hozzájárulásával – az OBH elnökének döntése alapján tartós külszolgálatot láthat el. A tartós külszolgálatot ellátó bíró megtartja bírói tisztségét, de ítélkezési tevékenységet kizárólag a külszolgálat keretében végezhet; a külszolgálat befejezését követően a tényleges bírói munkakörbe történő beosztására pedig az 58. § (3) és (4) bekezdését kell alkalmazni.
 
@@ -476,7 +476,7 @@ elnökének véleményét.
 
 (2) A bíró nem lehet országgyűlési, európai parlamenti vagy önkormányzati képviselő, nemzetiségi szószóló, polgármester, vagy a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti politikai felsővezető, közigazgatási államtitkár és helyettes államtitkár.
 
-(3) Az OBH-ba, a minisztériumba, valamint az ügyészség kivételével az érintett szervhez beosztott bíró a vezetői tisztségek közül kizárólag főosztályvezetői, főosztályvezető-helyettesi vagy osztályvezetői munkakört tölthet be, illetve álláshelyen foglalkoztatható.
+(3) Az OBH-ba, a Kúriára, valamint az ügyészség kivételével az érintett szervhez beosztott bíró a vezetői tisztségek közül kizárólag főosztályvezetői, főosztályvezető-helyettesi vagy osztályvezetői munkakört tölthet be, illetve álláshelyen foglalkoztatható.
 
 40. § (1) A bíró a tisztsége ellátásán kívül csak tudományos, oktatói, edzői, versenybírói, játékvezetői, művészi, szerzői jogi védelemben részesülő, lektori és szerkesztői, valamint műszaki alkotó munkát végezhet kereső tevékenységként és nevelőszülői foglalkoztatási jogviszonyban állhat, de ezzel nem veszélyeztetheti függetlenségét, pártatlanságát és nem keltheti ennek látszatát, valamint nem akadályozhatja hivatali kötelezettségei teljesítését.
 
@@ -529,7 +529,7 @@ elnökének véleményét.
   - bc) törvényszék elnöke, elnökhelyettese,
   - bd) az OBH elnökhelyettese,
   - be) az OBH-ban az OBH elnöke által szabályzatban meghatározott szervezeti egység főosztályvezetője,
-  - bf) a minisztériumban vagy az érintett szervnél nemzetbiztonsági ellenőrzéshez kötött tisztséget tölt be, vagy ilyen munkakört lát el,
+  - bf) az érintett szervnél nemzetbiztonsági ellenőrzéshez kötött tisztséget tölt be, vagy ilyen munkakört lát el,
 - c) a bíró, akinek a feladata az OBH-ban vagy a bíróságon
   - ca) honvédelmi, polgári védelmi feladatok ellátása,
   - cb) a minősített adat védelméről szóló törvény végrehajtásának, a fizikai és elektronikus információs rendszer működtetésének és biztonságának felügyelete (biztonsági vezető),
@@ -670,38 +670,38 @@ történő rendelkezésre állás.
 
 (2) A bíró a megszüntetés közlését követően további 30 napig köteles feladatait ellátni, amitől a felek közös megegyezéssel eltérhetnek.
 
-#### 29. A minisztériumba beosztott bíró jogállása
+#### 29.
 
-60. § (1) A bírót a minisztériumba a jogszabályok előkészítésében történő részvétel, kegyelmi ügyek intézése vagy egyéb igazságügyi munkatapasztalatot igénylő feladat ellátása céljából lehet beosztani.
+#### 60. §
 
-(2) A minisztériumba beosztott bíró megtartja bírói tisztségét, de nem ítélkezhet. Javadalmazására a bíróra vonatkozó szabályokat kell alkalmazni.
+#### 61. §
 
-(3) Határozott időre kinevezett bíró a minisztériumba nem osztható be.
+#### 62. §
 
-(4) A minisztériumba beosztott bíró felett a munkáltatói jogkört az igazságügyért felelős miniszter gyakorolja.
+#### 29/A. Az érintett szervhez beosztott bíró jogállása
 
-61. § (1) A bíró köteles a vezetői intézkedéseket, utasításokat teljesíteni, érvényesülésüket elősegíteni.
-
-(2) A minisztériumba beosztott bíró jogállására – a 45. § kivételével – a 35–55. § rendelkezéseit megfelelően alkalmazni kell.
-
-62. § (1) Az OBH elnöke a bíró minisztériumi beosztását megszünteti:
-
-- a) a bíró kérelmére,
-- b) az igazságügyért felelős miniszter indítványára.
-
-(2) A bíró a megszüntetés közlését követően további 30 napig köteles feladatait ellátni, ettől a felek közös megegyezéssel eltérhetnek.
-
-(3) A minisztériumi beosztás megszűnését követően a bíró tényleges bírói álláshelyre beosztására az 58. § (3) és (4) bekezdésében írt rendelkezéseket kell alkalmazni.
-
-#### 29/A. Az érintett szervhez beosztott közigazgatási ügyekben eljáró bíró jogállása
-
-62/A. § (1) A közigazgatási ügyekben eljáró bíró az érintett szerv alaptevékenységébe tartozó közigazgatási vagy egyéb közjogi jellegű feladat- és hatáskör ellátására osztható be. A beosztás célja, hogy a bíró az érintett szerv tevékenységében való részvétellel szakmai gyakorlatot és ismereteket szerezzen, valamint az érintett szerv tevékenységét közigazgatási bírói tapasztalatával támogassa.
+62/A. § (1) A bíró az érintett szerv alaptevékenységébe tartozó közjogi jellegű feladat- és hatáskör ellátására osztható be. A beosztás célja, hogy a bíró az érintett szerv tevékenységében való részvétellel szakmai gyakorlatot és ismereteket szerezzen, valamint az érintett szerv tevékenységét bírói tapasztalatával támogassa.
 
 (2) A beosztás határozott vagy határozatlan időre történhet. Határozott időre kinevezett bíró legfeljebb egy évre osztható be.
 
-(3) A beosztás nem érinti a bíró bírói tisztségét és kijelölését, de beosztásának időtartama alatt ítélkező tevékenységet nem folytathat.
+(3) A beosztott bíró megtartja bírói tisztségét, a beosztás nem érinti a kijelölését sem, de beosztásának időtartama alatt ítélkező tevékenységet nem folytathat. Javadalmazására a bíróra vonatkozó szabályokat kell alkalmazni.
 
-(4) Az érintett szervhez beosztott bíró felett az érintett szerv vezetője gyakorolja a munkáltatói jogkört. Az érintett szervhez beosztott bíró jogállására egyebekben a minisztériumba beosztott bíró jogállására, valamint a beosztás megszűnésére vonatkozó rendelkezéseit kell megfelelően alkalmazni, azzal, hogy az igazságügyért felelős miniszteren az érintett szerv vezetőjét kell érteni.
+(4) Az érintett szervhez beosztott bíró felett az érintett szerv vezetője gyakorolja a munkáltatói jogkört.
+
+62/B. § (1) A bíró köteles a vezetői intézkedéseket, utasításokat teljesíteni, érvényesülésüket elősegíteni.
+
+(2) A beosztott bíró jogállására – a 45. § kivételével – a 35–55. § rendelkezéseit megfelelően alkalmazni kell.
+
+62/C. § (1) Az OBH elnöke a bíró érintett szervhez történő beosztását megszünteti:
+
+- a) a bíró kérelmére,
+- b) az érintett szerv vezetőjének indítványára.
+
+(2) A bíró a megszüntetés közlését követően további 30 napig köteles feladatait ellátni, ettől a felek közös megegyezéssel eltérhetnek.
+
+(3) Az érintett szervhez történő beosztás megszűnését követően a bíró tényleges bírói álláshelyre beosztására az 58. § (3) és (4) bekezdésében írt rendelkezéseket kell alkalmazni.
+
+(4) Az érintett szervhez beosztott bíró a beosztása megszűnését követő két évig nem vehet részt olyan ügy elintézésben, amelyben az érintett szerv félként szerepel.
 
 #### 30. A Kúriára beosztott bíró jogállása
 
@@ -744,7 +744,7 @@ történő rendelkezésre állás.
 - b) a bíró azt maga kéri,
 - c) valamely általa tárgyalt per – anélkül, hogy a perben eljáró bíró személyében változás történt volna – két éven túl van folyamatban, és a per iratainak vizsgálata alapján megállapítható, hogy a per ésszerű időn belüli befejezését késleltető, a bíró önhibájából bekövetkezett mulasztás történt.
 
-69/A. § Az OBH elnökének kinevezési jogkörébe tartozó vezető, továbbá a Kúria elnökének kinevezési jogkörébe tartozó határozott időre kinevezett vezető és a Kúria elnökhelyettese, valamint az OBH bíró elnökhelyettese a kinevezésének tartama alatt, az OBH-ba, a minisztériumba és a Kúriára beosztott bíró a beosztásának tartama alatt mentesül a rendszeres bírói értékelés alól.
+69/A. § Az OBH elnökének kinevezési jogkörébe tartozó vezető, továbbá a Kúria elnökének kinevezési jogkörébe tartozó határozott időre kinevezett vezető és a Kúria elnökhelyettese, valamint az OBH bíró elnökhelyettese a kinevezésének tartama alatt, az OBH-ba, az érintett szervhez és a Kúriára beosztott bíró a beosztásának tartama alatt mentesül a rendszeres bírói értékelés alól.
 
 #### 34. Az értékelést megalapozó vizsgálat elrendelése
 
@@ -766,9 +766,9 @@ történő rendelkezésre állás.
 
 (4) Az OBH-ba beosztott bíró hivatali tevékenységét az OBH elnöke értékeli az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szabályai szerint.
 
-(5) A minisztériumba beosztott bíró hivatali munkáját az igazságügyért felelős miniszter a kormánytisztviselőkre irányadó szabályok szerint értékeli.
+(5)
 
-(6) Az érintett szervhez beosztott közigazgatási ügyekben eljáró bíró hivatali munkáját a beosztás szerinti szerv vezetője a beosztás szerinti szervnél szolgálatot teljesítő alkalmazottakra irányadó szabályok szerint értékeli.
+(6) Az érintett szervhez beosztott bíró hivatali munkáját a beosztás szerinti szerv vezetője a beosztás szerinti szervnél szolgálatot teljesítő alkalmazottakra irányadó szabályok szerint értékeli.
 
 72. § (1) Járásbírósági bíró értékelése esetén a járásbíróság elnökét a vizsgálatot végző meghallgathatja.
 
@@ -1222,9 +1222,9 @@ nincs helye fegyelmi felelősségre vonásnak.
 
 (3) Új eljárás kezdeményezésének a jogerős határozat meghozatalát követő 3 éven belül van helye.
 
-#### 52. A Kúriára, az OBH-ba, a minisztériumba és az érintett szervhez beosztott bíróra vonatkozó sajátos rendelkezések
+#### 52. A Kúriára, az OBH-ba és az érintett szervhez beosztott bíróra vonatkozó sajátos rendelkezések
 
-130. § A Kúriára, az OBH-ba, a minisztériumba, valamint az érintett szervhez beosztott bíró tekintetében a 105–129. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a Kúriára beosztott bíró ellen a Kúria elnöke, a minisztériumba beosztott bíró ellen az igazságügyért felelős miniszter, az érintett szervhez beosztott bíró ellen – az OBH elnökének útján – az érintett szerv vezetője, az OBH-ba beosztott bíró ellen az OBH elnöke kezdeményezheti a fegyelmi eljárás megindítását.
+130. § A Kúriára, az OBH-ba, valamint az érintett szervhez beosztott bíró tekintetében a 105–129. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a Kúriára beosztott bíró ellen a Kúria elnöke, az érintett szervhez beosztott bíró ellen – az OBH elnökének útján – az érintett szerv vezetője, az OBH-ba beosztott bíró ellen az OBH elnöke kezdeményezheti a fegyelmi eljárás megindítását.
 
 ### IX. Fejezet — A KÁRTÉRÍTÉSI FELELŐSSÉG
 
@@ -1358,7 +1358,7 @@ kezdődik.
 
 (3) A bírák központi személyi nyilvántartásának feladatait az OBH látja el.
 
-(3a) A minisztériumba beosztott bíró adatait a minisztériumban, az érintett szervhez beosztott bíró adatait az érintett szervnél kell nyilvántartani.
+(3a) Az érintett szervhez beosztott bíró adatait az érintett szervnél kell nyilvántartani.
 
 (3b) A bíró személyi adatlapját a törvényszéken, az ítélőtáblán vagy a Kúrián is nyilván kell tartani.
 
@@ -1421,6 +1421,12 @@ lehet adatot továbbítani.
 
 158. § A Kúria elnökhelyettesének juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek a miniszter részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
 
+#### 58/A. A Kúria főtitkárának és főtitkár-helyettesének juttatásai
+
+158/A. § (1) A Kúria főtitkárának juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
+
+(2) A Kúria főtitkár-helyettesének juttatásaira az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendeletnek a helyettes államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.
+
 #### 59. Az OBH elnökének illetménye és juttatásai
 
 159. § Az OBH elnökének havi illetménye a bírói illetményalap 7-szerese.
@@ -1441,9 +1447,9 @@ lehet adatot továbbítani.
 
 165. § Ha a Kúria elnöke és helyettese, valamint az OBH elnöke és helyettese megbízatása megszűnt, jogosult az e megbízatására utaló elnevezést használni, kivéve ha e megbízatása a tisztségtől való megfosztás miatt, vagy a 90. § c), e) vagy i) pontja alapján szűnt meg.
 
-166. § (1) A Kúria elnökét és helyettesét, , továbbá az OBH elnökét és helyettesét megillető juttatások igénybevételével kapcsolatban felmerült költség – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetét terheli.
+166. § (1) A Kúria elnökét és helyettesét, a Kúria főtitkárát és főtitkár-helyettesét, továbbá az OBH elnökét és helyettesét megillető juttatások igénybevételével kapcsolatban felmerült költség – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény bíróságokra vonatkozó költségvetési fejezetét terheli.
 
-(2) A Kúria elnöke és helyettese, , továbbá az OBH elnöke és helyettese köteles a részére járó juttatások igénybevételéhez szükséges adatokat – ideértve az adatok megváltozását is – haladéktalanul közölni az érintett szervvel. A jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított 15 napon belül kell visszafizetni.
+(2) A Kúria elnöke és helyettese, a Kúria főtitkára és főtitkár-helyettese, továbbá az OBH elnöke és helyettese köteles a részére járó juttatások igénybevételéhez szükséges adatokat – ideértve az adatok megváltozását is – haladéktalanul közölni az érintett szervvel. A jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított 15 napon belül kell visszafizetni.
 
 #### 62. A javadalmazás általános szabálya
 
@@ -1589,7 +1595,7 @@ százaléka.
 
 (2) A jubileumi jutalom 25 év szolgálati idő után a bíró 2 havi, 30 év után a 3 havi, 35 év után négyhavi, 40 év után az 5 havi illetménye.
 
-(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti szolgálati jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a nemzetiségi szószólóként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, politikai felsővezetőként, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a közszolgálati jogviszonyban, a közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban stb.) eltöltött időt is figyelembe kell venni.
+(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti szolgálati jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a nemzetiségi szószólóként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, politikai felsővezetőként, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a közszolgálati jogviszonyban, a közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban stb.) eltöltött időt is figyelembe kell venni.
 
 (4) A (3) bekezdésben foglaltakon kívül jubileumi jutalomra jogosító időnek számít az ügyvédi tevékenység, valamint a közjegyzői és a bírósági végrehajtói szolgálat időtartama is, kivéve az ügyvédi tevékenység, illetve a közjegyzői, valamint a bírósági végrehajtói szolgálat szünetelésének idejét.
 
@@ -1724,13 +1730,13 @@ végzi.
 
 194. § A bíró részére a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénnyel alapított kitüntetés, illetve a törvényben kapott felhatalmazás alapján alapított kitüntető cím, díj, oklevél, plakett vagy más elismerés adományozható.
 
-#### 70. A Kúriára, az OBH-ba, a minisztériumba és az egyéb szervhez beosztott bíróra vonatkozó eltérő rendelkezések
+#### 70. A Kúriára, az OBH-ba és az érintett szervhez beosztott bíróra vonatkozó eltérő rendelkezések
 
-195. § (1) A Kúriára, az OBH-ba, a minisztériumba és az érintett szervhez beosztott bíróra a 167–194. §-ban foglalt rendelkezéseket a (2)–(6) bekezdés szerinti eltéréssel kell alkalmazni.
+195. § (1) A Kúriára, az OBH-ba és az érintett szervhez beosztott bíróra a 167–194. §-ban foglalt rendelkezéseket a (2)–(6) bekezdés szerinti eltéréssel kell alkalmazni.
 
 (2) A bíró a beosztási pótlékára a korábbi beosztásának megfelelően jogosult. Ha a bíró korábban helyi bíróságon, illetve járásbíróságon működött, részére a törvényszéki bírákra vonatkozó mértékű beosztási pótlékot kell megállapítani, és a Kúrián, az OBH-ban és a minisztériumban, valamint az érintett szervnél beosztott bíróként eltöltött szolgálati idő tartamát törvényszéken eltöltött időnek kell tekinteni.
 
-(3) Az OBH-ban, a minisztériumban, valamint az érintett szervnél főosztályvezetői, főosztályvezető-helyettesi, illetve osztályvezetői munkakört betöltő vagy álláshelyen foglalkoztatott bírák vezetői pótléka a (4) bekezdésben meghatározott kivétellel
+(3) Az OBH-ban, a Kúrián, valamint az érintett szervnél főosztályvezetői, főosztályvezető-helyettesi, illetve osztályvezetői munkakört betöltő vagy álláshelyen foglalkoztatott bírák vezetői pótléka a (4) bekezdésben meghatározott kivétellel
 
 - a) a főosztályvezetők esetén az ítélőtábla kollégiumvezetőjére,
 - b) a főosztályvezető-helyettesek esetén a törvényszék elnökhelyettesére,
@@ -1740,9 +1746,9 @@ irányadó összeggel azonos.
 
 (4) Az ügyészségen vezetői tisztséget betöltő beosztott bíró vezetői pótléka az általa betöltött vezetői munkakörre a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény alapján irányadó vezetői pótlékkal azonos.
 
-(5) Az OBH-ba, a Kúriára, a minisztériumba és az érintett szervhez beosztott bíró a (2) bekezdés szerint járó beosztási pótlékon felül a bírói illetményalap összegének 30 százalékára jogosult.
+(5) Az OBH-ba, a Kúriára és az érintett szervhez beosztott bíró a (2) bekezdés szerint járó beosztási pótlékon felül a bírói illetményalap összegének 30 százalékára jogosult.
 
-(6) A beosztott bíró soron kívüli előresorolására és részére magasabb bírói cím adományozására – a minisztériumba beosztott bíró esetén az igazságügyért felelős miniszternek, az érintett szervhez beosztott bíró esetén az érintett szerv vezetőjének kezdeményezésére az OBH elnökének, az OBH-ba beosztott bíró esetén az OBH elnökének, valamint a Kúriára beosztott bíró esetén a Kúria elnökének javaslatára – az OBT jogosult.
+(6) A beosztott bíró soron kívüli előresorolására és részére magasabb bírói cím adományozására – az érintett szervhez beosztott bíró esetén az érintett szerv vezetőjének kezdeményezésére az OBH elnökének, az OBH-ba beosztott bíró esetén az OBH elnökének, valamint a Kúriára beosztott bíró esetén a Kúria elnökének javaslatára – az OBT jogosult.
 
 (7) A bírót ügyeleti és készenléti díj nem illeti meg, túlmunkájáért a kormánytisztviselőkre vonatkozó szabályok szerint szabadidő-átalány állapítható meg.
 
@@ -1838,9 +1844,9 @@ irányadó összeggel azonos.
 
 210. § A Kúria elnökének és az OBH elnökének vagyonnyilatkozata – az azonosító adatok kivételével – nyilvános. A vagyonnyilatkozat nyilvánosságra hozataláról az Országgyűlés elnöke gondoskodik. A hozzátartozói vagyonnyilatkozat nem nyilvános.
 
-#### 76. A Kúriára, az OBH-ba, a minisztériumba és az egyéb szervhez beosztott bíró vagyonnyilatkozata
+#### 76. A Kúriára, az OBH-ba és az érintett szervhez beosztott bíró vagyonnyilatkozata
 
-211. § A 197–207. § rendelkezéseit kell alkalmazni a Kúriára, az OBH-ba, a minisztériumba és az érintett szervhez beosztott bíróra is, azzal, hogy a munkáltatói jogkör gyakorlója a Kúria elnöke, az OBH elnöke, az igazságügyért felelős miniszter, illetve az érintett szerv vezetője.
+211. § A 197–207. § rendelkezéseit kell alkalmazni a Kúriára, az OBH-ba és az érintett szervhez beosztott bíróra is, azzal, hogy a munkáltatói jogkör gyakorlója a Kúria elnöke, az OBH elnöke, illetve az érintett szerv vezetője.
 
 ### XIV. Fejezet — AZ ÜLNÖK JOGÁLLÁSA ÉS JAVADALMAZÁSA
 
@@ -1949,7 +1955,7 @@ a bíróság elnöke az ülnököt megválasztó képviselő-testületnél kezde
 
 #### 79. Az ülnök javadalmazása
 
-221. § (1) A munkaviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, vagy foglalkoztatásra irányuló más jogviszonyban (szövetkezetnél munkaviszony jellegű jogviszonyban stb.) álló ülnököt ülnöki működésének időtartamára a távolléti díja illeti meg.
+221. § (1) A munkaviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, vagy foglalkoztatásra irányuló más jogviszonyban (szövetkezetnél munkaviszony jellegű jogviszonyban stb.) álló ülnököt ülnöki működésének időtartamára a távolléti díja illeti meg.
 
 (2) Ha valamely jogszabályban biztosított juttatáshoz való jogosultság, illetve annak mértéke meghatározott munkateljesítménytől vagy a munkában eltöltött napok számától függ, az ülnöki működés időtartamát munkában töltött időként kell számításba venni.
 
@@ -2141,6 +2147,8 @@ kerülhet sor.
 
 232/Q. § A 2020. április 1-jét megelőzően a közigazgatási és munkaügyi bírósághoz megválasztott ülnök 2020. április 1-jétől az ülnöki feladatait annál a törvényszéknél látja el, amelynek illetékességi területéhez a közigazgatási és munkaügyi bíróság tartozott. A közigazgatási és munkaügyi bíróság megszűnése egyebekben nem érinti az ülnök jogállását.
 
+232/R. § Az érintett szervhez történő beosztásra vonatkozó szabályoknak az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel módosított rendelkezései az igazságügyért felelős minisztériumba beosztott bíró jogállását nem érintik, 2021. január 1-jétől az igazságügyért felelős minisztériumba beosztott bíró beosztása a beosztásról szóló határozatban foglaltak szerint az érintett szervhez történő beosztásnak tekintendő.
+
 233. § E törvény
 
 - a) az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló, 1996. június 3-i 96/34/EK tanácsi irányelvnek,
@@ -2161,7 +2169,7 @@ való megfelelést szolgálja.
 
 (4)
 
-237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/Q. §-a, továbbá 236. §-a az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/R. §-a, továbbá 236. §-a az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Bjt.
 

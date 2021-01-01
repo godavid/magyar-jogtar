@@ -147,7 +147,7 @@ valamint intézkedni annak megsemmisítéséről.
 
 (5)
 
-10/A. § Az ökológiai termelésre utaló kifejezéssel csak olyan élelmiszer vagy takarmány hozható forgalomba, amely rendelkezik a termelési módszereknek az ökológiai termelésről és az ökológiai termékek címkézéséről és a 2092/91/EGK rendelet hatályon kívül helyezéséről szóló, 2007. június 28-i 834/2007/EK tanácsi rendelet (a továbbiakban: Öko EK rendelet) szerinti tanúsítvánnyal, és megfelel az e törvényben, az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott feltételeknek.
+10/A. § Az ökológiai termelésre utaló kifejezéssel csak olyan élelmiszer vagy takarmány hozható forgalomba, amely rendelkezik az ökológiai termelésről és az ökológiai termékek jelöléséről, valamint a 834/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. május 30-i 2018/848/EU rendelet (a továbbiakban: Öko EK rendelet) szerinti tanúsítvánnyal, és megfelel az e törvényben, az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott feltételeknek.
 
 11. § Takarmány csak akkor hozható forgalomba, ha csomagolóeszközén, címkéjén, illetve ömlesztve vagy tartályban való szállítás esetén a kísérő okmányon, jól láthatóan, olvashatóan és eltávolíthatatlanul – a Magyarországon forgalomba hozatalra kerülő takarmányok esetén magyar nyelven is – feltüntetésre kerülnek az e törvény végrehajtására kiadott jogszabályban meghatározott információk az ott meghatározottak szerint (a továbbiakban: takarmányjelölési előírások).
 
@@ -283,7 +283,7 @@ gazdasági előny vagy haszonszerzés céljából.
 
 az e törvény végrehajtására kiadott jogszabály szerint, írásbeli szerződés alapján lehet végezni.
 
-(2) Az (1) bekezdésben meghatározott írásbeli szerződés megkötése alól kivételt képez, ha az (1) bekezdésben meghatározott tevékenységet közeli hozzátartozó vagy annak családi gazdasága részére, személyes munkavégzés keretében végzik.
+(2) Az (1) bekezdésben meghatározott írásbeli szerződés megkötése alól kivételt képez, ha az (1) bekezdésben meghatározott tevékenységet közeli hozzátartozó vagy annak őstermelők családi gazdasága részére, személyes munkavégzés keretében végzik.
 
 (3) Az (1) bekezdés a) pontja szerinti növényvédelmi szolgáltatás nyújtására irányuló szerződés megkötésének tényét, a szerződés adattartalmát, a szerződés módosítását és megszűnését, valamint az (1) bekezdés b) pontja szerinti növényvédelmi munka és szakirányítás végzése esetén a növényorvosra és a szakirányítással érintett földterületre vonatkozó adatokat az e törvény végrehajtására kiadott jogszabályban foglaltak szerint elektronikus úton be kell jelenteni az élelmiszerlánc-felügyeleti szervnek.
 
@@ -836,7 +836,7 @@ esetén.
 engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fogyasztási, felhasználási adatait is;
 
 - i) az Élelmiszerlánc Adatközpontot, beleértve a lakosság hiteles tájékoztatását támogató tartalomszolgáltató rendszer adatait, valamint az élelmiszerlánc-felügyelet alá tartozó termékekre, szolgáltatásokra és tevékenységekre vonatkozó követelmények és védjegyek tudástárát;
-- j) a családi gazdaságokra, valamint a mezőgazdasági őstermelőkre vonatkozó nyilvántartásban szereplő adatokat;
+- j) a őstermelők családi gazdaságaira, valamint a mezőgazdasági őstermelőkre vonatkozó nyilvántartásban szereplő adatokat;
 - k)
 - l) a talaj, növény, növénytermesztés nyilvántartási, ellenőrzési és engedélyezési rendszerét;
 - m) a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos nyilvántartási, ellenőrzési, valamint kockázatelemzést megalapozó adatait;
@@ -1092,6 +1092,8 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 (9) A zár alá vett dolgot az élelmiszerlánc-felügyeleti szerv a zár alá vétel megszüntetésekor 8 napon belül annak köteles kiadni, akivel szemben a zár alá vételt elrendelte.
 
 (10) A hatóság a hatósági ellenőrzésről készített feljegyzés vagy jegyzőkönyv egy példányát az ügyfélnek a helyszínen átadja, vagy azt az ügyfél részére az ellenőrzés befejezésétől számított tíz napon belül megküldi.
+
+44/A. § Az élelmiszerlánc-felügyeleti hatóság az e törvény szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
 
 ### A költségek viselése
 
@@ -1379,13 +1381,13 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
 
 ### A jogkövetkezményekre vonatkozó általános rendelkezések
 
-56. § (1) Az élelmiszerlánc-felügyeleti szerv e törvényben és az e törvény végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén intézkedést hozhat, bírságot szabhat ki vagy figyelmeztetésben részesíti az eljárás alá vont jogi személyt, jogi személyiséggel nem rendelkező szervezetet vagy természetes személyt (e fejezetben a továbbiakban együtt: eljárás alá vont személy).
+56. § (1) Az élelmiszerlánc-felügyeleti szerv e törvényben és az e törvény végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén közigazgatási szankciót alkalmazhat, helyszíni bírságot szabhat ki, illetve intézkedést hozhat az eljárás alá vont jogi személlyel, jogi személyiséggel nem rendelkező szervezettel vagy természetes személlyel (e fejezetben a továbbiakban együtt: eljárás alá vont személy) szemben.
 
 (2) Az (1) bekezdés szerinti jogkövetkezmény alkalmazásának nincs helye, ha a cselekménynek az élelmiszerlánc-felügyeleti szerv tudomására jutásától számított egy év, illetve a cselekmény elkövetésétől számított három év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
 
-### Intézkedések
+### Intézkedések, szankciók
 
-57. § Az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a következő intézkedéseket hozhatja:
+57. § Az élelmiszerlánc-felügyeleti szerv az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a következő jogkövetkezményeket alkalmazhatja:
 
 - a) tevékenység végzését legfeljebb egy évre, teljesen vagy részlegesen felfüggesztheti, korlátozhatja, a működést legfeljebb három évre megtilthatja, az újbóli működést feltételhez kötheti;
 - b) vállalkozás, létesítmény működési engedélyét feltételhez kötheti, módosíthatja, felfüggesztheti, visszavonhatja, illetve kezdeményezheti annak visszavonását;
@@ -1395,7 +1397,7 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
 - f) termék előállítását, tárolását, szállítását, felhasználását, forgalomba hozatalát, behozatalát, kivitelét, illetékességi területén való átszállítását feltételhez kötheti, korlátozhatja, felfüggesztheti, megtilthatja;
 - g) elrendelheti termék, eszköz, anyag vagy más tárgy zár alá vételét, lefoglalását, forgalomból való kivonását, visszahívását, megsemmisítését, ártalmatlanítását;
 - h) állat vizsgálatát, forgalmi korlátozását, elkülönítését, kötelező gyógykezelését, védőoltását vagy leölését elrendelheti;
-- i) elismert hagyományos különleges termék előállítását, forgalomba hozatalát megtilthatja vagy feltételhez kötheti;
+- i) elismert hagyományos különleges termék előállítását, forgalomba hozatalát megtilthatja vagy feltételhez kötheti, a megjelölés, elnevezés használatát megtilthatja;
 - j) élelmiszerrel, illetve takarmánnyal érintkezésbe kerülő anyagok, gépek, eszközök, az élelmiszerláncban felhasznált fertőtlenítőszerek használatát megtilthatja, az engedélyező hatóság egyidejű értesítése mellett ingatlant adott állapotában élelmiszer-, takarmányvállalkozási tevékenység végzésére alkalmatlannak nyilváníthat, ingatlan élelmiszer-, takarmányvállalkozási tevékenység végzésére történő használatát az ingatlan adott állapotában legfeljebb egy évre vagy véglegesen megtilthatja;
 - k) szállítóeszköz engedélyét visszavonhatja, használatát megtilthatja;
 - l) élelmiszert emberi fogyasztásra alkalmatlannak minősíthet;
@@ -1415,6 +1417,10 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
   - xb) tanúsítási, illetve ellenőrző tevékenységét vagy annak jogsértéssel érintett részét legfeljebb hatvan napra felfüggesztheti,
   - xc) elismerését, kijelölését visszavonhatja;
 - y) elrendelheti az (EU) 2017/625 európai parlamenti és tanácsi rendelet 138. cikk (2) bekezdésében foglalt intézkedéseket.
+
+57/A. § Az 57. § v)–x) pontjában meghatározott jogkövetkezmények alkalmazásakor – kötelezés kivételével – figyelmeztetés alkalmazásának helye nincs.
+
+57/B. § Ha a mezőgazdasági igazgatási szerv a kábítószer előállítására alkalmas növényekkel kapcsolatos előírások megszegése miatt megállapítja a jogsértés elkövetését, közigazgatási szankcióként elrendeli a növényállománynak, illetve a termésnek a termesztő költségén történő megsemmisítését.
 
 58. § Ha az élelmiszer- vagy takarmányjogi előírások megsértése esetén az élelmiszerlánc-felügyeleti szerv egy adott élelmiszer vagy takarmány forgalomba hozatalát megtiltja, a jogsértésért felelős élelmiszer- vagy takarmány-vállalkozás köteles az érintett élelmiszer vagy takarmány vonatkozásában az e törvény végrehajtására kiadott jogszabályokban meghatározottak szerint eljárni, és eljárásáról, valamint a megtett intézkedésekről az élelmiszerlánc-felügyeleti szervet részletesen tájékoztatni. Amennyiben a hatóság az adott élelmiszer vagy takarmány vonatkozó előírásoknak való megfelelésének biztosítása szempontjából az élelmiszer- vagy takarmány-vállalkozás eljárását nem kielégítőnek ítéli meg, az élelmiszer- vagy takarmány-vállalkozás költségére haladéktalanul megteszi a szükséges intézkedéseket.
 
@@ -1454,19 +1460,18 @@ elérhetővé tételével összefügg.
 
 (4) Az (1) bekezdés szerinti nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti nettó árbevétel alapján kell meghatározni. Ha a vállalkozás működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a vállalkozásnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező, újonnan alapított vállalkozás esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a vállalkozás által a hatóság felhívására közölt, az Szt.-nek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
 
-(5) A bírság mértékét az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre, a 60. § (1) bekezdésének a)–c), g), i)–l), n)–p), q) pontjában, valamint a 63. § (1) bekezdésének b) és d) pontjában foglalt tényállások kivételével az eljárás alá vont személy gazdasági súlyára – tekintettel kell meghatározni.
+(5) A bírság mértékét az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára – tekintettel kell meghatározni.
 
-(6) Amennyiben a jogsértő állapot megszüntetése érdekében a törvény szerint alkalmazható legalacsonyabb összegű bírság kiszabása is szükségtelen, bírságolás helyett az élelmiszerlánc-felügyeleti szerv figyelmeztetésben részesítheti az eljárás alá vont személyt.
+(6)
 
-(7) A (6) bekezdés nem alkalmazható
+(7) Figyelmeztetés nem alkalmazható:
 
-- a) a 60. § (1) bekezdésének a)–i) pontjában meghatározott tényállások,
-- b) a 61. § (1) bekezdésének a)–c) pontjában meghatározott tényállások,
-- c) a 62. § (1) bekezdésének a)–d) pontjában meghatározott tényállások,
+- a) a 60. § (1) bekezdés a)–i) pontjában meghatározott tényállások,
+- b) a 61. § (1) bekezdés a)–c) pontjában meghatározott tényállások,
+- c) a 62. § (1) bekezdés a)–e) pontjában meghatározott tényállások,
 - d) a 63. § (1) bekezdés a) pont aa)–al) alpontjában meghatározott tényállások,
-- e) három éven belül ismételten megállapított azonos jogsértés
-
-esetén.
+- e) három éven belül ismételten megállapított azonos jogsértés,
+- f) a 14/A. § (1) és (4) bekezdésének megsértése esetén.
 
 (8) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de nem haladhatja meg az adott jogsértés esetén kiszabható bírság legmagasabb mértékét.
 
@@ -1989,7 +1994,7 @@ E törvény alkalmazásában:
 - 50. növényvédő szer: 1107/2009/EK rendelet 2. cikk 1. bekezdése szerinti fogalom;
 - 51. növényvédőszer-hatóanyag: 1107/2009/EK rendelet 2. cikk 2. bekezdése szerinti fogalom;
 - 52. nyomon követhetőség: a 178/2002/EK rendelet 3. cikkének 15. pontja szerinti fogalom;
-- 53. ökológiai termelés: az Öko EK rendelet 2. cikkének a) pontjában meghatározott fogalom szerinti tevékenység;
+- 53. ökológiai termelés: az Öko EK rendelet 3. cikkének a) 1. pontjában meghatározott fogalom szerinti tevékenység;
 - 54. rendkívüli élelmiszerlánc-esemény: a lakosság széles körét érintő, az emberek életét, egészségét veszélyeztető élelmiszer-biztonsági jogsértés megállapítása vagy gyanúja annak kizárásáig, továbbá a nagy nemzetgazdasági kárral fenyegető vagy közegészségügyileg veszélyes állatbetegségek megállapítása vagy gyanúja annak kizárásáig, növényi károsítók okozta járvány, valamint a gazdasági haszonállat-állomány széles körét érintő, az állatok egészségét veszélyeztető takarmánybiztonsági jogsértés megállapítása vagy gyanúja annak kizárásáig;
 - 55. takarmány: a 178/2002/EK rendelet 3. cikkének 4. pontja szerinti fogalom;
 - 56. takarmány-adalékanyag: a takarmányhigiénia követelményeinek meghatározásáról szóló, az Európai Parlament és a Tanács 2005. január 12-i 183/2005/EK rendelete (a továbbiakban: 183/2005/EK rendelet) I. fejezet 3. cikkének c) pontja szerinti fogalom;

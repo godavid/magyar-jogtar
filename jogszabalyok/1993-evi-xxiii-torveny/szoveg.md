@@ -106,7 +106,7 @@ a Nemzeti Kulturális Alapról
 
 8. § (1) Az Alapból természetes és jogi személyek, társasházak, egyéni cégek, valamint egyéni vállalkozók igényelhetnek támogatást.
 
-(2) Az Alap kezelője a pályázat nyerteseivel szerződést köt.
+(2) Az Alap kezelője a pályázat nyertese részére támogatói okiratot ad ki, vagy vele támogatási szerződést köt (a továbbiakban együtt: szerződés).
 
 9. § (1) Az Alap terhére a támogatás visszatérítendő és részben vagy egészben vissza nem térítendő formában nyújtható.
 
@@ -116,9 +116,9 @@ a Nemzeti Kulturális Alapról
 
 (4) Az Alapból támogatás kizárólag az Alap kezelőjénél rendszeresített pályázati adatlap kitöltésével igényelhető.
 
-(5) Az Alapból a támogatás folyósítása – a program jellegére, valamint a támogatási összeg nagyságára tekintettel – a támogatási szerződésben meghatározott ütemezésben történik.
+(5) Az Alapból a támogatás folyósítása – a program jellegére, valamint a támogatási összeg nagyságára tekintettel – a szerződésben meghatározott ütemezésben történik.
 
-(6) Költségvetési szervek esetén az Alapból származó támogatás és azok év végi kötelezettségvállalással terhelt maradványa nem vonható el és évek között átcsoportosítható, valamint a támogatási szerződésben meghatározott elszámolási határidőig felhasználható.
+(6) Költségvetési szervek esetén az Alapból származó támogatás és azok év végi kötelezettségvállalással terhelt maradványa nem vonható el és évek között átcsoportosítható, valamint a szerződésben meghatározott elszámolási határidőig felhasználható.
 
 (7)
 
@@ -146,6 +146,8 @@ rendeletben állapítsa meg.
 (3) A Módtv.-nyel megállapított 7. § (2) bekezdésében foglaltakat a 2012. évben folyamatban levő pályázatokkal kapcsolatban is alkalmazni kell.
 
 10/B. § (1) Az e törvénynek a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény és a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosításáról szóló 2015. évi CCVII. törvénnyel (a továbbiakban: Módtv.) megállapított 2. § (3) bekezdésében, 2. § (4) bekezdésében és 2. § (4a) bekezdésében meghatározott kollégiumi struktúrát 2016. január 1-ig kell létrehozni.
+
+(2) E törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási és pénzügyi tárgyú törvények módosításáról szóló 2020. évi CLXXIII. törvénnyel megállapított 8. § (2) bekezdésében foglaltakat az e rendelkezés hatálybalépésekor folyamatban levő támogatási igények esetén is alkalmazni kell, amennyiben támogatási szerződés megkötésére még nem került sor.
 
 10/C. § (1) A Nemzeti Kulturális Alap Igazgatósága 2016. december 31-én, az Emberi Erőforrás Támogatáskezelőbe való beolvadással megszűnik.
 

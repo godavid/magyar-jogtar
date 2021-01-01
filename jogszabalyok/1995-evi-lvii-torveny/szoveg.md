@@ -531,7 +531,7 @@ vízhasználat.
 
 (2) Az (1) bekezdés szerinti
 
-- a) vízhasználó az, aki vízjogi engedély alapján vízhasználatot gyakorol vagy vízjogi engedélyben vízkészletet köt le,
+- a) vízhasználó az, aki vízjogi engedély, továbbá a 28/A. § (1a) bekezdésében foglaltak alapján vízhasználatot gyakorol vagy vízjogi engedélyben vízkészletet köt le,
 - b) üzemi vízfogyasztó az, aki ivóvizet szolgáltató közműről a saját gazdasági célú vízhasználatához településenként évi 10 000 m3-nél nagyobb vízmennyiséget használ fel.
 
 (3) A vízjogi engedéllyel rendelkező vízhasználó a vízkészletjárulék mértékének kiszámítását, bevallását és befizetését elektronikusan teljesítheti.
@@ -582,6 +582,8 @@ alapján kell kiszámítania.
 (5) Az üzemi fogyasztó köteles fizetési kötelezettségét annak keletkezésétől számított 15 napon belül az illetékes vízügyi hatóságnak az e célra készített nyomtatványon bejelenteni (bejelentkezés).
 
 (6) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a vízjogi engedély véglegessé válásával, üzemi fogyasztónál – figyelemmel a 15/B. § (4) bekezdésében foglaltakra – a 10 000 m3-t meghaladó vízmennyiség felhasználásának megkezdésével keletkezik.
+
+(6a) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a 28/A. § (1a) bekezdésében foglalt esetben a bejelentés az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény szerinti öntözési igazgatási szerv (a továbbiakban: öntözési igazgatási szerv) általi jóváhagyás közlésével keletkezik.
 
 (7) Azt, hogy a vízkészletjárulék az államháztartás mely szervezete javára számolható fel, továbbá annak mértékét külön jogszabály állapítja meg.
 
@@ -855,6 +857,15 @@ kezdeményezi a terület tulajdonjogának az állam javára történő megszerz�
 - b) a vízilétesítmény használatbavételéhez és üzemeltetéséhez, a vízhasználathoz (vízjogi üzemeltetési engedély) és
 - c) a vízilétesítmény megszüntetéséhez (megszüntetési engedély).
 
+(1a) Előzetes bejelentést követő jóváhagyás után létesíthető mezőgazdasági öntözési célú kút, ha a következő feltételek együttesen teljesülnek:
+
+- a) a kutat a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet szerint kijelölt, kijelölés alatt álló, illetve előzetesen lehatárolt belső, külső és hidrogeológiai védőidom, védőterület, valamint karszt- vagy rétegvízkészlet igénybevétele nélkül, továbbá a hatósági nyilvántartásban szereplő talaj vagy talajvíz szennyezéssel nem érintett területen létesítik,
+- b) a kút talpmélysége az 50 métert nem haladja meg és az első vízzáró réteget nem éri el,
+- c) a kúthoz kapcsolódó öntözőrendszer kizárólag a létesítő, üzemeltető művelése alatt álló területek öntözését szolgálja,
+- d) a kutat a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet szerint a hatósági nyilvántartásba a létesítő előzetesen bejelentette, továbbá a bejelentés jóváhagyását követően a létesítés során a víz mennyiségének mérését biztosító digitális kútvízmérővel felszerelte.
+
+(1b) A hatósági nyilvántartásba történő előzetes bejelentést követően a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott időtartamon belül az öntözési igazgatási szerv – a vízbázis állapotára és a tervezett kútnak a vízbázisra gyakorolt hatására tekintettel a felszín alatti vizek védelme érdekében – az előzetes bejelentésben foglaltak alapján a létesítést jóváhagyja, megtiltja, vagy megállapítja, hogy a létesítés csak véglegessé vált vízjogi létesítési engedély birtokában kezdhető meg.
+
 (2) Elvi vízjogi engedély kérhető a vízjogi engedélyezési kötelezettség alá tartozó vízhasználat, vízimunka és vízilétesítmény műszaki tervezéséhez.
 
 (3) A szénhidrogén-kitermelési céllal mélyített, de arra alkalmatlan kutak termálvíz-kitermelési célú hasznosítására a vízügyi hatóság ad engedélyt.
@@ -912,7 +923,7 @@ csak írásban terjeszthető elő.
 - a) a kivitelező kétséget kizáróan bizonyítja, hogy a jogellenes létesítésért való felelősség nem őt terheli, vagy
 - b) a kivitelező személye nem ismert.
 
-(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő vagy üzemeltető, aki az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény (a továbbiakban: Vgtv.mód3.) hatálybalépését megelőzően engedély nélkül vagy engedélytől eltérően létesített vagy üzemeltet felszín alatti vízkivételt biztosító vízilétesítményt, ha a vízjogi fennmaradási engedélyezési eljárást 2023. december 31-ig kérelmezi.
+(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő vagy üzemeltető, aki – a 45/N. § (3) bekezdésben meghatározott kivétellel – engedély nélkül vagy engedélytől eltérően létesített vagy üzemeltetett az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény (a továbbiakban: Vgtv.mód3.) hatálybalépését megelőzően felszín alatti vízkivételt biztosító vízilétesítményt, ha a vízjogi fennmaradási engedélyezés iránti kérelmét 2023. december 31-ig előterjeszti.
 
 (8) Nem szabható ki vízgazdálkodási bírság
 
@@ -949,7 +960,9 @@ indokolja.
 
 32. § Ha a vizek mennyiségi védelme, a vizek kártételeinek elhárítása, a károk megelőzése vagy a jogszerűen gyakorolt vízhasználat azt egyébként szükségessé teszi, a vízügyi hatóság a vízhasználót, vagy azt, aki a vízviszonyokba jogellenesen beavatkozott, a káros, illetve a károsodás veszélyével fenyegető állapot megszüntetésére, a szükséges vízimunka elvégzésére vagy meghatározott módon történő gyakorlására kötelezheti.
 
-32/A. § (1) Aki a 29. § (4) bekezdésében foglaltakon túl jogszabályban, hatósági határozatban vagy közvetlenül alkalmazandó közösségi jogi aktusban szereplő vízgazdálkodási előírást megszeg, ideértve a vízgazdálkodási adatszolgáltatási, nyilvántartás-vezetési kötelezettséget is, a jogsértő magatartás súlyához igazodó, legfeljebb 1 000 000 forint összegű vízgazdálkodási bírságot köteles fizetni. A természetes személyre kiszabott bírság összege nem haladhatja meg a 300 000 forintot.
+32/A. § (1) Aki a 29. § (4) bekezdésében foglaltakon túl jogszabályban, hatósági határozatban vagy közvetlenül alkalmazandó közösségi jogi aktusban szereplő vízgazdálkodási előírást megszeg, a jogsértő magatartás súlyához igazodó, legfeljebb 1 000 000 forint összegű vízgazdálkodási bírságot köteles fizetni. A természetes személyre kiszabott bírság összege nem haladhatja meg a 300 000 forintot.
+
+(1a) Az (1) bekezdésben meghatározott szabályszegések miatt – a vízgazdálkodási adatszolgáltatási vagy nyilvántartás-vezetési kötelezettség megszegésének kivételével – közigazgatási szankcióként figyelmeztetés nem alkalmazható.
 
 (2) A behajtott vízgazdálkodási bírság a központi költségvetés bevétele.
 
@@ -1361,6 +1374,8 @@ vonatkozó szabályokat, továbbá kijelölje a továbbképzési rendszer műkö
 - a) a VIZEK rendszer működésének részletszabályait, valamint a rendszer részét képező előszűrő felület és adatgyűjtő felület részletes működési rendjét és az ennek keretében megvalósuló információátadás körét,
 - b) a VIZEK rendszer üzemeltetőjét és a rendszerhez csatlakozó szerveket.
 
+(7d) Felhatalmazást kap a Kormány, hogy a mezőgazdasági öntözési célú kutak létesítésével, valamint az engedély nélkül, vagy az engedélytől eltérően létesített mezőgazdasági öntözési célú kutak fennmaradásával, továbbá a mezőgazdasági öntözési célú kutak üzemeltetésével kapcsolatos sajátos feltételeket és eljárási szabályokat rendeletben határozza meg.
+
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 
 - a) a vízgazdálkodás általános szakmai követelményeinek, képesítési előírásainak, a vízrajzi feladatoknak és a vízkészletekbe történő beavatkozás szabályainak;
@@ -1480,6 +1495,18 @@ való megfelelést szolgálja.
 
 45/M. § E törvénynek a Vgtv.mód3.-mal megállapított 29. § (7) bekezdését a Vgtv.mód3. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
+45/N. § (1) E törvénynek a vízgazdálkodásról szóló 1995. évi LVII. törvény módosításáról szóló 2020. évi CLXXV. törvénnyel (a továbbiakban: Vgtv.mód4.) megállapított 28/A. § (1a) bekezdését kell alkalmazni – a (2) bekezdésben meghatározott feltétellel – azokra a mezőgazdasági öntözési célú kutakra, amelyek a következő feltételeket együttesen teljesítik:
+
+- a) a kutat a Vgtv.mód4. hatálybalépése előtt, a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet szerint kijelölt, kijelölés alatt álló, illetve előzetesen lehatárolt belső, külső és hidrogeológiai védőidom, védőterület, valamint karszt- vagy rétegvízkészlet igénybevétele nélkül, továbbá hatósági nyilvántartásban szereplő talaj vagy talajvíz szennyezéssel nem érintett területen, a létesítésekor hatályos jogszabály előírása ellenére engedély nélkül vagy engedélytől eltérően létesítették,
+- b) a kút talpmélysége az 50 métert nem haladja meg, és az első vízzáró réteget nem éri el, és
+- c) a kúthoz kapcsolódó öntözőrendszer kizárólag a létesítő, üzemeltető művelése alatt álló területek öntözését szolgálja.
+
+(2) Az (1) bekezdés szerinti mezőgazdasági öntözési célú kutat a létesítő vagy üzemeltető a Nemzeti Földügyi Központhoz 2023. december 31-ig a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet szerinti adatlapon bejelenti és kútvízmérő órával felszereli. Az (1) bekezdés szerinti rendelkezés akkor alkalmazható, ha az (1) bekezdés szerinti mezőgazdasági öntözési célú kútra vonatkozó bejelentést a kézhezvételétől számított hatvan napon belül a Nemzeti Földügyi Központ írásban visszaigazolta.
+
+(3) Mentesül a 29. § (4) bekezdése szerinti vízgazdálkodási bírság megfizetése alól az (1) bekezdés szerinti mezőgazdasági öntözési célú kút üzemeltetője, ha a kút bejelentése a (2) bekezdés szerint megtörtént.
+
+(4) Az üzemeltető felelős azért, hogy a felszín alatti vizet – az e törvényben foglaltak figyelembevételével – csak olyan mértékben vegye igénybe, hogy a vízkivétel és a vízutánpótlódás egyensúlya minőségi károsodás nélkül megmaradjon, és teljesüljenek a vizek jó állapotára vonatkozó célkitűzések elérését biztosító követelmények. A vízügyi hatóság, valamint a felszín alatti vizek vagyonkezelője e kötelezettség betartását ellenőrizheti. Ha az üzemeltető vízhasználata veszélyezteti más engedélyezett vízhasználatok biztosítását vagy károsítja a felszín alatti vízkészleteket, a vízügyi hatóság hivatalból, vagy a felszín alatti vizek vagyonkezelőjének kezdeményezésére az üzemeltetőt a szükséges mértékben megelőző, valamint kárelhárító intézkedések megtételére kötelezi.
+
 ### 1. számú melléklet az 1995. évi LVII. törvényhez
 
 #### Fogalommeghatározások
@@ -1530,7 +1557,7 @@ E törvény alkalmazásában
 - 34. vízkárelhárítási célú tározó:
   - a) árvízi tározó: aa) záportározó: vízfolyáson vagy vízfolyás mentén kiépített, kizárólag az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló, időszakosan vizet tartó tározó, ab) árvízcsúcs-csökkentő tározó: vízfolyáson vagy vízfolyás mentén kiépített, az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló olyan állandóan vagy időszakosan vizet tartó tározó, amelynél a maximális tározási térfogat legalább 50%-a árvízvisszatartásra szabadon áll, ac) szükségtározó: vízfolyások mentén, árhullámok részleges visszatartására kijelölt, ideiglenes vízvisszatartást szolgáló, be- és kivezetési helyekkel ellátott terület, ad) vésztározó: vízfolyások mentén, az árhullámok részleges visszatartására és a nagyobb károk megelőzésére töltségmegbontással – rendkívüli védekezési készültség vagy veszélyhelyzet esetén – igénybe vehető terület,
   - b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határokkal, illetve töltésekkel körülvett terület.
-- 35.
+- 35. mezőgazdasági öntözési célú kút: olyan felszín alatti vízkivételt biztosító vízilétesítmény, amely kizárólag mezőgazdasági művelés alatt álló terület mezőgazdasági vízszolgáltatását biztosítja;
 - 36.
 - 37. nem közművel összegyűjtött háztartási szennyvíz: olyan háztartási szennyvíz, amelyet a keletkezés helyéről vagy átmeneti tárolóból – közcsatornára való bekötés vagy a helyben történő tisztítás és befogadóba vezetés lehetőségének hiányában – gépjárművel szállítanak el ártalmatlanítás céljából;
 - 38. begyűjtés: a nem közművel összegyűjtött háztartási szennyvíznek az ingatlan tulajdonosától, vagyonkezelőjétől, birtokosától vagy használójától történő átvétele, elszállítása és ártalmatlanítás céljából történő átadása.

@@ -109,7 +109,7 @@ a büntetés-végrehajtási szervezetről
 
 (2) A miniszter által rendeletben meghatározott, a fogvatartottak kötelező foglalkoztatása keretében előállított termékek és szolgáltatások tekintetében – kormányrendeletben foglaltak szerint – a büntetés-végrehajtási szervezetet a Magyar Honvédség, a kormányrendeletben meghatározott központi államigazgatási szerv, az autonóm államigazgatási szerv, a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 2. §-ában meghatározott szerv, az egészségügyért felelős miniszter irányítása alatt álló, az egészségügy területén működő országos intézet, az állam tulajdonába, illetve fenntartásába tartozó fekvőbeteg-szakellátás vagy fekvőbeteg- és hozzá kapcsolódó járóbeteg-szakellátást végző egészségügyi szolgáltató, tankerületi központok, valamint a szociál- és nyugdíjpolitikáért felelős miniszter irányítása és felügyelete alá tartozó szociális intézmény részére is ellátási kötelezettség terheli.
 
-(3) A büntetés-végrehajtási szervezetet nem terheli a (2) bekezdésben meghatározott ellátási kötelezettség a Magyar Honvédség tekintetében, ha a honvédelemért felelős miniszter rendelkezése alapján a Magyar Honvédség egyéb beszerzési eljárást folytat le.
+(3) A büntetés-végrehajtási szervezetet nem terheli a (2) bekezdésben meghatározott ellátási kötelezettség a honvédelmi szervezet tekintetében, ha a honvédelemért felelős miniszter rendelkezése alapján a honvédelmi szervezet egyéb beszerzési eljárást folytat le.
 
 (4) Az autonóm államigazgatási szervek, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 2. §-ában meghatározott szervek tekintetében a büntetés-végrehajtási szervezetet a (2) bekezdésben meghatározott ellátási kötelezettség kizárólag ez irányú igénybejelentés esetén terheli.
 
@@ -389,10 +389,10 @@ alkalmazható.
 
 (3) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-28/A. § (1) § A bv. szervezet a büntetés-végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás alkalmából történő megállapítása, valamint a fogvatartott más személyekkel fenntartott kapcsolattartási jogának biztosítása céljából – a kapcsolattartóként megjelölt személy hozzájárulásával – nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel a fogvatartott kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
+28/A. § (1) § A bv. szervezet a büntetés-végrehajtás rendjének és biztonságának megőrzése érdekében és a kapcsolattartó személyazonosságának a látogatás alkalmából történő megállapítása, valamint a fogvatartott más személyekkel fenntartott kapcsolattartási jogának biztosítása céljából nyilvántartja mindazoknak a személyeknek a személyes adatait, akikkel a fogvatartott kapcsolatot tart fenn (a továbbiakban: kapcsolattartó). A kapcsolattartók nyilvántartása kiterjed a kapcsolattartó
 
 - a) családi és utónevére,
-- b) lakcímére (székhelyére),
+- b) lakcímére vagy értesítési címére,
 - c) telefonszámára, ha az a kapcsolattartás módja miatt indokolt,
 - d) kapcsolattartói minőségére,
 - e) születési helyére és idejére,
@@ -422,7 +422,7 @@ alkalmazható.
 (2) Az (1) bekezdés alapján a következő személyes adatokat kell nyilvántartani:
 
 - a) a kérelmező családi és utónevét, és
-- b) a kérelmező által megadott lakcímet.
+- b) a kérelmező által megadott lakcímet vagy értesítési címet.
 
 29. § (1) Az adatkezelő szerv – a 28/B. § (2) bekezdésében meghatározott adatok kivételével – az általa kezelt adatokat továbbítja, valamint az iratokról teljes körű tájékoztatást ad
 

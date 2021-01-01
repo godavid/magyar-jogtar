@@ -84,6 +84,7 @@ megismerése nem korlátozható.
   - c) beszerzési eljárások előkészítése és lefolytatása az érintett ajánlatkérő nevében és javára,
 - 28. jegyzék: az e törvény szerinti biztonsági beszerzési eljárásokban kötelezően érvényesítendő biztonsági követelményeknek megfelelő gazdasági szereplőknek az Alkotmányvédelmi Hivatal (a továbbiakban: AH) által vezetett listája,
 - 29. katonai célú építési beruházás: a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, illetve e minisztérium, továbbá az e minisztérium közvetlen alárendeltségébe tartozó szervezetek, a honvédelemért felelős miniszter irányítása alatt álló központi hivatalok, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézmény, a Katonai Nemzetbiztonsági Szolgálat, valamint a Magyar Honvédség katonai szervezetei használatában lévő épületen, építményen, építményrészen, építményegyüttesen és ingatlanon – ideértve az ingatlanokhoz közvetlenül tartozó nyomvonal jellegű építményeket is –, valamint Magyarország területének a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló 562/2006/EK rendelet 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított, az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdésében meghatározott szélességű sávjában, az ott megjelölt célok megvalósítása érdekében megvalósuló építési beruházás, amelynek megvalósítása egészben hazai költségvetési forrásból történik,
+- 29a. katonai célú építészeti-műszaki tervezési szolgáltatás: a 4. § (2) bekezdése értelmében katonai célt szolgál a hazai költségvetési forrásból megvalósuló, a 2. melléklet 18. pontjához kapcsolódó olyan építészeti-műszaki tervezési szolgáltatás, amely az épített környezet alakításáról és védelméről szóló törvény felhatalmazása alapján kiadott jogszabály szerinti, a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építmény, építményrész, építményegyüttes megépítéséhez, bővítéséhez, felújításához, átalakításához, helyreállításához, korszerűsítéséhez, lebontásához, elmozdításához, rendeltetésének megváltoztatásához szükséges építészeti-műszaki dokumentáció elkészítésére, annak ellenőrzésére, továbbá tervezői művezetésre irányul;
 - 30. keretmegállapodás: egy vagy több ajánlatkérő és egy vagy több ajánlattevő között létrejött olyan megállapodás, amelynek célja, hogy rögzítse egy adott időszakban beszerzésekre irányuló, egymással meghatározott módon kötendő szerződések lényeges feltételeit, különösen az ellenszolgáltatás mértékét, és ha lehetséges, az előirányzott mennyiséget,
 - 31. kérelmi elem: a Közbeszerzési Döntőbizottsághoz benyújtott jogorvoslati kérelemnek az az elkülöníthető része, amely tartalmazza a jogsértőnek vélt kérelmezetti eljárási cselekményt, magatartást, döntést vagy mulasztást a megsértett jogszabályi rendelkezések megjelölésével, valamint a Közbeszerzési Döntőbizottság döntésére irányuló indítványt és annak indokait, azzal, hogy a kérelmező részvételi jelentkezésének vagy ajánlatának érvénytelenségét megállapító ajánlatkérői döntés vitatása egy kérelmi elemet képez, kivéve, ha valamely érvénytelenségi okhoz egyéb jogkövetkezmény is fűződik,
 - 32. kiemelt alvállalkozó: az az alvállalkozó, aki a teljesítése során „Korlátozott terjesztésű” adatot vagy annál magasabb minősítésű adatot kezel,
@@ -172,7 +173,7 @@ megismerése nem korlátozható.
 - 9. az ajánlatkérő egy másik állammal vagy a másik állam kormányzati szervével, a 4. §-ban meghatározott áru beszerzésére, szolgáltatás megrendelésére, vagy építési beruházás megvalósítására irányuló szerződésének megkötésére,
 - 10. választottbírósági és békéltetői tevékenység beszerzésére,
 - 11. pénzügyi szolgáltatások megrendelésére, a biztosítási szolgáltatások kivételével,
-- 12. munkaszerződésre, közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya létrehozására,
+- 12. munkaszerződésre, közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya létrehozására,
 - 13. az olyan kutatási és fejlesztési szolgáltatás megrendelésre, amelyek haszna nem kizárólag az ajánlatkérőnél jelentkezik a szolgáltatásnak a saját tevékenységében való felhasználása során, feltéve, hogy a kapott szolgáltatás ellenértékét teljes mértékben az ajánlatkérő fizeti meg,
 - 14. a NATO Biztonsági Beruházási Program vagy egyéb közös finanszírozású, a NATO által támogatott program keretében megvalósuló beszerzésekre,
 - 15. az ajánlatkérő olyan jogi személlyel kötött szerződésére, amely felett az ajánlatkérő a saját szervezeti egységei felettihez hasonló irányítást gyakorol, döntő befolyással rendelkezik annak stratégiai céljai meghatározásában és működésével kapcsolatos jelentős döntéseinek meghozatalában, valamint amelyben közvetlen magántőke részesedés nincsen, és amely éves nettó árbevételének több mint 80%-a az irányítást gyakorló ajánlatkérővel, vagy az ajánlatkérő által e pont szerint irányított más jogi személlyel kötött vagy kötendő szerződések teljesítéséből származik,
@@ -208,6 +209,10 @@ megismerése nem korlátozható.
 
 (5) Az ajánlatkérő nevében az eljárást lezáró döntést meghozó személy és annak a Ptk. szerinti hozzátartozója nem lehet a bírálóbizottság tagja. Testületi döntéshozatal esetén a döntéshozó kizárólag tanácskozási joggal rendelkező személyt delegálhat a bírálóbizottságba. Testületi döntéshozatal esetében név szerinti szavazást kell alkalmazni.
 
+8/A. § (1) Az ajánlatkérő köteles fogadni és feldolgozni az olyan elektronikus számlákat, amelyek megfelelnek az EN 16931-1:2017 számú európai szabványnak és az Európai Bizottság által e szabványhoz az Európai Unió Hivatalos Lapjában közzétett szintaxislistának.
+
+(2) Az (1) bekezdést nem kell alkalmazni a szerződések teljesítésének eredményeképp kiállított elektronikus számlákra, ha a beszerzés és a szerződés teljesítése során a minősített adatok védelme szükséges vagy – jogszabály, közjogi szervezetszabályozó eszköz vagy közigazgatási jog által szabályozott egyedi döntés szerint – különleges biztonsági intézkedések szükségesek és Magyarország alapvető biztonsági, nemzetbiztonsági érdekei más módon nem garantálhatóak.
+
 #### 8. Összeférhetetlenség
 
 9. § (1) Az ajánlatkérő köteles minden szükséges intézkedést megtenni annak érdekében, hogy elkerülje az összeférhetetlenséget és a verseny tisztaságának sérelmét eredményező helyzetek kialakulását.
@@ -226,7 +231,7 @@ megismerése nem korlátozható.
 - f) a legfőbb ügyész,
 - g) az Alkotmánybíróság elnöke,
 - h) az Állami Számvevőszék elnöke,
-- i) a Közbeszerzési Hatóság, az Egyenlő Bánásmód Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
+- i) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
 - j) a Magyar Nemzeti Bank elnöke
 
 tulajdonában, vagy az a)–j) pont szerinti személlyel közös háztartásban élő, a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója tulajdonában álló szervezet.
@@ -270,6 +275,14 @@ tulajdonában, vagy az a)–j) pont szerinti személlyel közös háztartásban 
 12. § (1) Több ajánlatkérő megállapodhat egyes konkrét beszerzések közös megvalósításáról.
 
 (2) Ha az (1) bekezdés szerinti megállapodásban érintett beszerzési eljárást egyetlen ajánlatkérő önállóan folytatja le, ez az ajánlatkérő annak minden szakaszában, az eljárást megindító felhívás közzétételétől a szerződés vagy szerződések teljesítésének befejezéséig kizárólagos felelősséggel tartozik az e törvény szerinti kötelezettségek teljesítéséért.
+
+12/A. § (1) Az ajánlatkérő más ajánlatkérőt is meghatalmazhat azzal, hogy a nevében beszerzési eljárást folytasson le. Ez azonban nem eredményezheti a meghatalmazást adó ajánlatkérőre e törvény alapján alkalmazandó szabályok megkerülését.
+
+(2) Több ajánlatkérő közösen is megvalósíthat egy beszerzést olyan módon, hogy egy maguk közül kiválasztott ajánlatkérőt meghatalmaznak a beszerzési eljárás lefolytatásával.
+
+(3) Az (1) és (2) bekezdés szerinti esetben az eljárást megindító felhívásban fel kell tüntetni, hogy az ajánlatkérő más ajánlatkérő nevében folytatja le a beszerzési eljárást.
+
+(4) Az (1) és (2) bekezdés szerinti esetben, ha a beszerzési eljárás lebonyolítására teljes egészében minden érintett ajánlatkérő nevében, közösen kerül sor, akkor az ajánlatkérők együttesen felelősek e törvény szerinti kötelezettségeik teljesítéséért. Ha a beszerzési eljárás lebonyolítására nem teljes egészében minden érintett ajánlatkérő nevében kerül sor, akkor az ajánlatkérők a beszerzési eljárásnak csak a közösen végzett részei tekintetében tartoznak együttes felelősséggel. Minden ajánlatkérő kizárólagosan felelős e törvény szerinti kötelezettségei teljesítéséért a beszerzési eljárás azon részei tekintetében, amelyeket a saját nevében végez.
 
 13. § (1) Az ajánlatkérő az Európai Unió más tagállamából származó ajánlatkérővel közösen is megvalósíthat beszerzést vagy köthet keretmegállapodást.
 
@@ -679,7 +692,7 @@ meghatározva a központosított beszerzés személyi feltételeit és tárgyát
   - c) az 1978. évi IV. törvény szerinti költségvetési csalás, európai közösségek pénzügyi érdekeinek megsértése vagy a Btk. szerinti költségvetési csalás,
   - d) az 1978. évi IV. törvény vagy a Btk. szerinti terrorcselekmény, valamint az ehhez kapcsolódó felbujtás, bűnsegély vagy kísérlet,
   - e) az 1978. évi IV. törvény vagy a Btk. szerinti pénzmosás, valamint a Btk. szerinti terrorizmus finanszírozása,
-  - f) az 1978. évi IV. törvény vagy a Btk. szerinti emberkereskedelem, valamint a Btk. szerinti kényszermunka;
+  - f) az 1978. évi IV. törvény vagy a Btk. szerinti emberkereskedelem és kényszermunka, valamint az emberkereskedelem áldozatainak kizsákmányolása elleni fellépés érdekében szükséges egyes törvények módosításáról szóló 2020. évi V. törvény hatálybalépéséig hatályban volt Btk. szerinti kényszermunka;
   - g) az 1978. évi IV. törvény vagy a Btk. szerinti versenyt korlátozó megállapodás, beszerzési közbeszerzési és koncessziós eljárásban,
   - h) az 1978. évi IV. törvény XV. fejezet III. Címe szerinti bűncselekmények, vagy a Btk. szerinti minősített adattal visszaélés, továbbá
   - i) a gazdasági szereplő személyes joga szerinti, az a)–h) alpontban felsoroltakhoz hasonló bűncselekmény;
@@ -2078,7 +2091,7 @@ nem vehető jegyzékre.
 - a) az ügyfélszervezettel munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban áll, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja,
 - b) az ügyfélszervezetben tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezik,
 - c) olyan szervezettel áll munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja, vagy abban tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezik, amely az ügyfélszervezettel rendszeres üzleti kapcsolatban áll, vagy
-- d) olyan szervezettel áll közszolgálati jogviszonyban, amely az ügyfélszervezet felügyelő szervezete vagy az ügyfélszervezet által felügyelt szervezet, illetve amely az ügyfélszervezet részére támogatást vagy kizárólagos jogot biztosít.
+- d) olyan szervezettel áll közszolgálati jogviszonyban vagy adó- és vámhatósági szolgálati jogviszonyban, amely az ügyfélszervezet felügyelő szervezete vagy az ügyfélszervezet által felügyelt szervezet, illetve amely az ügyfélszervezet részére támogatást vagy kizárólagos jogot biztosít.
 
 (3) A közbeszerzési biztos a Közbeszerzési Döntőbizottság elnökének haladéktalanul, de legkésőbb az ok felmerülésétől számított három napon belül köteles bejelenteni, ha vele szemben az (1) vagy (2) bekezdésben, vagy az Ákr. 22. § vagy 23. § (1) bekezdésében meghatározott kizárási ok áll fenn. A közbeszerzési biztos a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik.
 

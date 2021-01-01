@@ -442,7 +442,7 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 - b) a honvéd altiszt-jelölttel,
 - c) a legénységi állomány azon tagjával, aki a honvédelmi szervezet által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt-képzést eredményesen befejezte, vagy
 - d) a szerződéses szolgálati viszonyban, önkéntes tartalékos szolgálati viszonyban, honvédelmi szervezetnél kormányzati szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, közalkalmazotti jogviszonyban vagy munkaviszonyban álló személlyel,
-- e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományából áthelyezésre kerülő személlyel,
+- e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományából, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak állományából áthelyezésre kerülő személlyel,
 - f) a polgári életből a 35. § (1) bekezdése szerinti állományba vétellel tiszti vagy altiszti állományba kerülő személlyel.
 
 (2) Az (1) bekezdés szerinti korlátozást nem kell alkalmazni akkor, ha törvény a szolgálati viszony létesítését és fenntartását a hivatásos állományba vételhez köti.
@@ -509,7 +509,7 @@ időtartamra vállalja a szolgálatot.
 (1a) Ha a szolgálati viszony
 
 - a) ismételt szolgálatijogviszony létesítéssel,
-- b) a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszonyból, honvédelmi alkalmazotti jogviszonyból, közszolgálati, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból vagy igazságügyi alkalmazotti szolgálati jogviszonyból történő áthelyezéssel,
+- b) a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszonyból, honvédelmi alkalmazotti jogviszonyból, közszolgálati, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból vagy igazságügyi alkalmazotti szolgálati jogviszonyból, illetve a Nemzeti Adó- és Vámhivatal tisztviselői státuszú foglalkoztatottjainak állományából történő áthelyezéssel,
 - c) a 69. § (5) bekezdése alapján vagy
 - d) az önkéntes tartalékos katona szerződéses vagy hivatásos állományba vételével
 
@@ -518,7 +518,7 @@ jön létre, legfeljebb 6 hónap próbaidő köthető ki.
 (2) Nem köthető ki próbaidő
 
 - a) a szerződéses állomány tagjának az 59. § (1) bekezdés e) pontja szerinti hivatásos állományba vételekor,
-- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos szolgálati jogviszonyból történő áthelyezéskor,
+- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos szolgálati jogviszonyból, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak állományából történő áthelyezéskor,
 - c) egyéb, e törvényben meghatározott esetekben.
 
 (3) A próbaidő nem hosszabbítható meg.
@@ -662,8 +662,8 @@ szolgálati beosztásából indokolás nélkül rendelkezési állományba áthe
 - o) az állomány azon tagja, akivel szemben méltatlansági eljárást rendeltek el, annak befejezéséig, ha a méltatlansági eljárás felfüggesztésre kerül és az állomány tagja nem tölt be szolgálati beosztást,
 - p) az állomány azon tagja, akinek a szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, szolgálati viszonyban történő továbbfoglalkoztatásra tervezett, megfelelő szolgálati beosztásba helyezéséig, de legfeljebb 1 évig,
 - q) az állomány azon tagja, aki az egészségügyi felsőfokú szakirányú szakképzési rendszerben szakorvos-jelöltként vesz részt, az előírt képzési idő tartamára,
-- r) a hivatásos tiszti állomány legalább főhadnagy és a hivatásos altiszti állomány legalább törzsőrmester rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy akivel szemben az e) pont szerinti ok megszűnt és továbbfoglalkoztatására nincs lehetőség, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati, a közszolgálati, honvédelmi alkalmazotti, a közalkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezéséig, illetve a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti kormányzati szolgálati jogviszony létesítéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
-- s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi vagy pszichikai okból katonai szolgálatra alkalmatlan, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati, a közszolgálati, honvédelmi alkalmazotti, a közalkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezéséig, illetve a Kit. szerinti kormányzati szolgálati jogviszony létesítéséig, de legfeljebb a 47. § (1) vagy (1a) bekezdésében meghatározott időtartamra,
+- r) a hivatásos tiszti állomány legalább főhadnagy és a hivatásos altiszti állomány legalább törzsőrmester rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy akivel szemben az e) pont szerinti ok megszűnt és továbbfoglalkoztatására nincs lehetőség, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati, a közszolgálati, honvédelmi alkalmazotti, a közalkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyba vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyba (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) történő áthelyezéséig, illetve a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti kormányzati szolgálati jogviszony létesítéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
+- s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi vagy pszichikai okból katonai szolgálatra alkalmatlan, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati, a közszolgálati, honvédelmi alkalmazotti, a közalkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyba, adó- és vámhatósági szolgálati jogviszonyba történő áthelyezéséig, illetve a Kit. szerinti kormányzati szolgálati jogviszony létesítéséig, de legfeljebb a 47. § (1) vagy (1a) bekezdésében meghatározott időtartamra,
 - t) a hivatásos állomány azon tagja, aki legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik, a szolgálat felső korhatárának elérése előtt 5 évvel, de legfeljebb a szolgálat felső korhatáráig (a továbbiakban: nyugdíj előtti rendelkezési állomány),
 - u) a 43. § (2a) bekezdése szerinti esetben az állomány érintett tagja megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig,
 - v) a hivatásos állomány azon tagja, aki a KNBSZ-nél szolgálati beosztásra tervezett és a beosztás betöltése érdekében tanulmányokat folytat, az állományba vétel napjától a képzési idő tartamára, de legfeljebb egy évig, azzal, hogy e rendelkezési állomány tartama alatt a próbaidő szabályait kell alkalmazni.
@@ -699,7 +699,7 @@ szolgálati beosztásából indokolás nélkül rendelkezési állományba áthe
 
 tart.
 
-(1a) A hivatásos állomány 46. § (1) bekezdés s) pontja alapján rendelkezési állományba helyezett tagjának kérelmére a rendelkezési állomány (1) bekezdés szerinti időtartama a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati, közszolgálati, a közalkalmazotti vagy a honvédelmi alkalmazotti jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezéséig, de legfeljebb további 1 évvel meghosszabbítható. A hivatásos állomány tagja a meghosszabbítás időtartama alatt havonta a rendelkezési állományba helyezését megelőző napon érvényes illetménye felére jogosult.
+(1a) A hivatásos állomány 46. § (1) bekezdés s) pontja alapján rendelkezési állományba helyezett tagjának kérelmére a rendelkezési állomány (1) bekezdés szerinti időtartama a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati, közszolgálati, a közalkalmazotti vagy a honvédelmi alkalmazotti jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba, adó- és vámhatósági szolgálati jogviszonyba történő áthelyezéséig, de legfeljebb további 1 évvel meghosszabbítható. A hivatásos állomány tagja a meghosszabbítás időtartama alatt havonta a rendelkezési állományba helyezését megelőző napon érvényes illetménye felére jogosult.
 
 (2) A hivatásos állomány tagjának szolgálati viszonya
 
@@ -903,7 +903,7 @@ feltéve, hogy a szolgálati beosztás ellátásához miniszteri rendeletben el�
 
 - a) közös megegyezéssel,
 - b) felmentéssel,
-- c) áthelyezéssel közalkalmazotti, honvédelmi alkalmazotti, közszolgálati, vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszonyba,
+- c) áthelyezéssel közalkalmazotti, honvédelmi alkalmazotti, közszolgálati, vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszonyba, vagy adó- és vámhatósági szolgálati jogviszonyba,
 - d) azonnali hatállyal a próbaidő alatt, vagy
 - e) lemondással vagy egyoldalú szerződésbontással.
 
@@ -1627,7 +1627,7 @@ az állomány tagját mentesíti a szolgálatteljesítési kötelezettsége aló
 
 tényleges szolgálati viszonyban töltött időnek kell elismerni.
 
-(2a) A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, a honvédelmi alkalmazotti, rendvédelmi szerveknél hivatásos szolgálati, a rendvédelmi igazgatási szolgálati, az állami szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából ezek mellett a munkaviszonyban eltöltött időt is be kell számítani.
+(2a) A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, a honvédelmi alkalmazotti, rendvédelmi szerveknél hivatásos szolgálati, a rendvédelmi igazgatási szolgálati, az állami szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából ezek mellett a munkaviszonyban eltöltött időt is be kell számítani.
 
 (2b) A végkielégítés szempontjából a honvédelmi szervezet állományában a katonai szolgálati viszony létesítését közvetlenül megelőző, nem katonai szolgálati viszonyban eltöltött időket is figyelembe kell venni, kivéve, ha a korábbi jogviszony alapján a végkielégítés kifizetésre került.
 
@@ -1635,7 +1635,7 @@ tényleges szolgálati viszonyban töltött időnek kell elismerni.
 
 (4) 1998. január 1-jét megelőzően az illetmény nélküli szabadság 30 napot meghaladó tartama a társadalombiztosítási szabályok szerint számít jogszerző időnek.
 
-(5) A honvédelmi szolgálati díjra való jogosultság szempontjából szolgálati viszonyban töltött időként kizárólag a hivatásos, a szerződéses, a 216. § (3) és (4) bekezdése alapján önkéntes tartalékos katonai szolgálati viszonyban, továbbá a rendvédelmi szerveknél hivatásos szolgálati jogviszonyban töltött tényleges, beszámítás és szorzószámok nélkül számított szolgálati időt, valamint a szolgálaton kívüli állomány időtartamát kell figyelembe venni.
+(5) A honvédelmi szolgálati díjra való jogosultság szempontjából szolgálati viszonyban töltött időként kizárólag a hivatásos, a szerződéses, a 216. § (3) és (4) bekezdése alapján önkéntes tartalékos katonai szolgálati viszonyban, továbbá a rendvédelmi szerveknél hivatásos szolgálati jogviszonyban, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban töltött tényleges, beszámítás és szorzószámok nélkül számított szolgálati időt, valamint a szolgálaton kívüli állomány időtartamát kell figyelembe venni.
 
 (6) Ha a szerződéses állomány tagja hivatásos szolgálati viszonyt létesít, az addig szerződéses szolgálati viszonyban eltöltött ideje – a (8) bekezdésben meghatározottakra figyelemmel – hivatásos szolgálati viszonyban töltött időnek számít.
 
@@ -3188,7 +3188,7 @@ különbözetének megtérítése iránti igényt.
 
 (2) Meg kell szüntetni a hivatásos állomány tagjának vezénylését, ha nem felel meg a nemzetbiztonsági ellenőrzésnek, valamint az ehhez szükséges biztonsági, illetve hozzájáruló nyilatkozatot határidőben nem tette meg.
 
-(3) A fedőbeosztásban foglalkoztatott hivatásos állományú katonákra a fedőbeosztásuk alatt fennálló jogviszonyuk megszűnése esetén a 76. § rendelkezéseit alkalmazni kell, ha a megszűnést követő naptári napon áthelyezésre kerülnek közszolgálati, honvédelmi alkalmazotti vagy közalkalmazotti jogviszonyba, rendvédelmi igazgatási szolgálati viszonyba, vagy a Kit. szerinti kormányzati szolgálati jogviszonyt létesítenek.
+(3) A fedőbeosztásban foglalkoztatott hivatásos állományú katonákra a fedőbeosztásuk alatt fennálló jogviszonyuk megszűnése esetén a 76. § rendelkezéseit alkalmazni kell, ha a megszűnést követő naptári napon áthelyezésre kerülnek közszolgálati, honvédelmi alkalmazotti vagy közalkalmazotti jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba, adó- és vámhatósági szolgálati jogviszonyba, vagy a Kit. szerinti kormányzati szolgálati jogviszonyt létesítenek.
 
 #### 110. A VIII. és a IX. Fejezethez kapcsolódó rendelkezések
 

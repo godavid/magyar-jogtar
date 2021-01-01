@@ -257,7 +257,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 - b) a szolgáltató nevét, valamint lakcímét, szervezet esetén székhelyét,
 - c) a bejelentett szolgáltatási tevékenység megjelölését,
 - d) a bejelentés előterjesztésének napját, valamint
-- e) azt, hogy a bejelentés határozatlan időre szól, vagy – a 22. § (4) bekezdése szerinti esetben – azt az időtartamot, amelyre a bejelentés szól.
+- e) azt, hogy a bejelentés határozatlan időre szól, vagy azt az időtartamot, amelyre a bejelentés szól.
 
 24. § (1) A szolgáltató a bejelentést követően a bejelentésben foglalt adatokban bekövetkezett változást haladéktalanul köteles bejelenteni a szolgáltatás felügyeletét ellátó hatóságnak.
 
@@ -301,8 +301,9 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
 - a) a 22. § (1) bekezdés a)–c) pontjában és (2) bekezdésében meghatározott adatokat,
-- b) határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységre vonatkozó bejelentés esetén a 22. § (3) bekezdésében foglalt adatokat és azt az időtartamot, amelyre a bejelentés szól, továbbá
-- c) az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó külön jogszabályban meghatározott egyéb adatokat.
+- b) határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységre vonatkozó bejelentés esetén a 22. § (3) bekezdésében foglalt adatokat,
+- c) azt az időtartamot, amelyre a bejelentés szól, továbbá
+- d) az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó jogszabályban meghatározott egyéb adatokat.
 
 (3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a) és b) pontjában meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 

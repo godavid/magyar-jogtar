@@ -14,16 +14,18 @@ A magyar külpolitika elsődleges feladata kedvező külső feltételek megterem
 - b) a III. fejezetben meghatározott eltérésekkel Magyarország Európai Unió melletti Állandó Képviseletére, továbbá az oda kihelyezett kormánytisztviselőkre,
 - c) a 4. § és 9. § tekintetében a külképviselet által foglalkoztatott munkavállalókra, valamint
 - d) a 4. § és 9/A. § tekintetében a külképviselet által foglalkoztatott házastársra,
-- e) a 13. § (6) bekezdése tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban nem álló, a 13. § (1) bekezdése szerinti ranggal rendelkező személyekre, a 10. § (1) bekezdése, illetve az 58. § (13) bekezdése tekintetében a kihelyező szervnél foglalkoztatott kormánytisztviselőre, munkavállalóra, valamint a 10. § (1) bekezdése szerinti kihelyező szervnél foglalkoztatott munkavállalókra,
-- f) a 35/C. § tekintetében a 10. § (1) bekezdés szerinti pályázat benyújtására jogosult kormánytisztviselőre, és munkavállalóra,
+- e) a 13. § (6) bekezdése tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban nem álló, a 13. § (1) bekezdése szerinti ranggal rendelkező személyekre, a 10. § (1) bekezdése, illetve az 58. § (13) bekezdése tekintetében a kihelyező szervnél kormányzati szolgálati, politikai szolgálati és munkaviszonyban álló foglalkoztatottakra, valamint a 10. § (1) bekezdése szerinti kihelyező szervnél foglalkoztatott munkavállalókra,
+- f) a 35/C. § tekintetében a 10. § (1) bekezdése szerinti pályázat benyújtására jogosult kormányzati szolgálati, politikai szolgálati és munkaviszonyban álló foglalkoztatottakra,
 - g) az 58/C. § tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló kormánytisztviselőkre,
 - h) az 58. § (14) bekezdése a külügyi szakmai ösztöndíjas jogviszonyban álló személyekre
+- i) az 57/B. § tekintetében a vendégoktatói ösztöndíjprogramban részt vevő személyekre,
+- j) az 58/G. § tekintetében a kirendeléssel érintett, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: kormányzati igazgatásról szóló törvény) 2. § (2) bekezdés c) pontja szerinti, a külpolitikáért felelős miniszter által vezetett kihelyező szervvel jogviszonyban álló kormánytisztviselőkre
 
 terjed ki.
 
 (2) E törvényt a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselőkre akkor kell alkalmazni, ha jogszabály másként nem rendelkezik.
 
-(3) Az e törvényben nem szabályozott kérdésekben a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: kormányzati igazgatásról szóló törvény) rendelkezéseit kell megfelelően alkalmazni.
+(3) Az e törvényben nem szabályozott kérdésekben a kormányzati igazgatásról szóló törvény rendelkezéseit kell alkalmazni.
 
 #### 2. Értelmező rendelkezések
 
@@ -34,7 +36,7 @@ terjed ki.
 - 3. biztonsági szolgálat: – a Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK) kihelyezettek kivételével – a kihelyezett munkaköri leírásában meghatározott olyan szolgálat, amely a külképviselet személyzete és a személyzet családtagjai életének, testi épségének és egészségének védelmét, a külképviselet működőképességének fenntartását, valamint a külképviselet vagyonának megóvását, biztonságának védelmét biztosítja;
 - 4. diplomata: az a diplomáciai rangot viselő kormánytisztviselő, aki a külpolitikáért felelős miniszter vagy az európai uniós ügyek koordinációjáért felelős miniszter feladat- és hatáskörébe tartozó feladatokat belföldön a kihelyező szervnél vagy Magyarország külképviseletén végzi;
 - 5. ENSZ-szorzó: az Egyesült Nemzetek Szervezete Nemzetközi Közszolgálat Bizottsága által közzétett arányszám, amely – a helyi fizetőeszköz és az USD közötti átváltási arányok változását és az infláció mértékét is alapul véve – a megélhetés költségeit hasonlítja össze egy adott állomáshely és New York tekintetében;
-- 5a. életvitelszerű tartózkodás: a kihelyezett és hozzátartozója megszakítás nélkül, életvitelszerűen tartózkodik az állomáshelyen, ha a tartós külszolgálat megkezdését követően az állomáshelyen lakóhelyéül szolgáló ingatlanban szervezi az életét továbbá, ha az életvitelhez szükséges tevékenységeket jellemzően az állomáshelyen folytatja, valamint a közüzemi szolgáltatásokat személyesen az állomáshelyen veszi igénybe;
+- 5a. életvitelszerű tartózkodás: a kihelyezett és hozzátartozója megszakítás nélkül, életvitelszerűen tartózkodik az állomáshelyen, ha a tartós külszolgálat megkezdését követően az állomáshelyen lakóhelyéül szolgáló ingatlanban szervezi az életét továbbá, ha az életvitelhez szükséges tevékenységeket jellemzően az állomáshelyen folytatja, és a közüzemi szolgáltatásokat személyesen az állomáshelyen veszi igénybe;
 - 6. élhetőség: az állomáshelyre vonatkozó, különösen éghajlati, biztonsági, légszennyezettségi, egészségügyi, terrorfenyegetettségi, infrastrukturális szempontok összessége;
 - 7. hivatali érdek: a külpolitikáért felelős miniszter vagy az európai uniós ügyek koordinációjáért felelős miniszter, valamint a szakmai irányítást ellátó kormányzati igazgatási szerv vezetőjének feladat- és hatásköréről szóló jogszabályban megállapított feladatok végrehajtásával, továbbá a külképviseleti hálózat valamint az egyes külképviseletek működésével irányításával és fenntartásával, a külszolgálati szakmai lojalitás érvényesítésével, valamint a külképviseleti biztonság fenntartásával és kockázati kitettségének csökkentésére irányuló kapcsolatos érdek;
 - 8. hozzátartozó: a kihelyező okiratban szereplő, a kihelyezett írásbeli nyilatkozata alapján a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálaton, az állomáshelyen tartózkodó házastársa, közjegyző által vezetett Élettársi Nyilatkozatok Elektronikus Nyilvántartásába vett élettársa vagy bejegyzett élettársa (a továbbiakban együtt: házastárs), valamint kiskorú vagy középiskolai tanulmányokat folytató nagykorú gyermeke, örökbe fogadott, mostoha- és nevelt gyermeke (a továbbiakban együtt: gyermeke);
@@ -48,6 +50,7 @@ terjed ki.
 - 15. külképviselet által foglalkoztatott munkavállaló: a fogadó államban állandó lakóhellyel rendelkező és a fogadó államban munkavállalásra jogosult, a külképviselet által munkaszerződéssel foglalkoztatott természetes személy, akinek elsődleges feladata a külképviselet funkcionális működésében való közreműködés;
 - 16. külképviselet által foglalkoztatott házastárs: a kihelyezett házastársa, akit a külképviselet munkaszerződéssel, magyar jog alapján foglalkoztat, és akinek elsődleges feladata a külképviselet adminisztratív-technikai feladatainak ellátásában való közreműködés;
 - 17. szakdiplomata: az a diplomata, akit kormányzati igazgatási szerv egy ágazati szakmai feladat külképviseleten történő ellátására a kihelyező szervnél tartós külszolgálati kihelyezésre jelöl és határozott időre helyez át, vagy a hivatásos szolgálati jogviszonyra vonatkozó szabályok szerint – kormányzati szolgálati jogviszonyban történő foglalkoztatásra – vezényel a kihelyező szervhez, vagy a 36. § (4) bekezdés b) pontjában foglaltak szerint közvetlenül a kihelyező szerv nevezi ki a külszolgálata, illetve az azt megelőző felkészülés idejére szóló határozott időre;
+- 17a. szakkonzul: konzuli feladatokat ellátó szakdiplomata;
 - 18. tartós külszolgálat: a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat, illetve e feladat támogatásának ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt – által a kihelyező vezető döntése alapján külképviseleten teljesített, határozott időre szóló speciális közszolgálat, amely a közigazgatás általános munkafeltételeitől eltérő, a diplomáciai tevékenység nemzetközi gyakorlatának és normáinak megfelelő körülmények és feltételek közt végzett tevékenységre irányul, és amelynek időtartama 90 napnál hosszabb;
 - 19. válsághelyzet: az állomáshelyet is magában foglaló földrajzi térségben bekövetkező közvetlen életveszélyt okozó természeti vagy ipari katasztrófa, súlyos járvány, terrorfenyegetettség, fegyveres zavargás, polgárháború vagy háború, illetve ezek közvetlen veszélye.
 
@@ -145,13 +148,20 @@ működhet.
 
 (3) A pályáztatással összefüggő részletes szabályokat a külpolitikáért felelős miniszter rendeletben határozza meg.
 
-11. § (1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja. Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos, az intézetekben tartós külszolgálatot teljesítő diplomata, valamint az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a szakminiszter bevonásával történik.
+11. § (1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja. Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos, az intézetekben tartós külszolgálatot teljesítő diplomata, valamint az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a feladat- és hatáskörében érintett miniszter bevonásával történik.
 
 (2) A tartós külszolgálati kihelyezés előtt álló és kihelyezésre kerülő kormánytisztviselő (a továbbiakban: felkészülő) tartós külszolgálati felkészítésének időtartama – a kihelyező vezető döntése alapján, ide nem értve a 10. § (2) bekezdése szerinti kijelölés esetét – legalább egy, legfeljebb hat hónapig tarthat.
 
 (2a) A szakdiplomata a felkészülés (2) bekezdés szerinti időtartamának eredménytelen eltelte, kihelyezésének visszavonása, illetve külszolgálati kirendelésének, vezénylésének megszüntetése esetén visszahelyezésre kerül a küldő szervhez.
 
 (3) A (2) bekezdés szerinti felkészülés idejére a kihelyező vezető a kormánytisztviselőt kinevezésének módosításával a kihelyező szerv tartós külszolgálati felkészülést támogató szervezeti egységébe, külföldi felkészülési állományba a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre helyezheti. Ha a külföldi felkészülési állományba helyezett felkészülő a (2) bekezdés szerinti hat hónapos határidő lejártát követően nem kerül tartós külszolgálatra kihelyezésre, jogviszonyára a 21. § (3) bekezdésében foglaltakat kell alkalmazni. A tartós külszolgálati felkészülés ideje alatt a felkészülőt a kihelyező szerv az e törvényben foglalt eltérésekkel a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyban kormánytisztviselőként foglalkoztathatja.
+
+(3a) A (3) bekezdés alapján tartós külszolgálati kihelyezést megelőző felkészülés céljából a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre helyezett kormánytisztviselő kormányzati szolgálati jogviszonya
+
+- a) a tartós külszolgálati munkakör betöltésére szóló pályázati döntés vagy kijelölési döntés kihelyező vezető általi visszavonása, vagy
+- b) ha a kormánytisztviselő a tartós külszolgálati munkakör betöltését nem vállalja, a kihelyező vezetőnek címzett ez irányú nyilatkozata
+
+napjával e törvény erejénél fogva a kihelyező szervnél megszűnik, azzal, hogy a kormánytisztviselő a kormányzati igazgatásról szóló törvény szerinti besorolási illetménye helyett a (4) bekezdés szerinti illetmény alapulvételével jogosult a kormányzati igazgatásról szóló törvény szerinti végkielégítésre, illetve felmentési időre.
 
 (4) A (2) bekezdés szerinti felkészülés ideje alatt a felkészülő kormányzati igazgatásról szóló törvény szerinti illetménye helyett havonta
 
@@ -185,7 +195,7 @@ pótszabadságra jogosult.
 
 (6) A diplomata irányítását a külképviselet-vezető útján – a szakdiplomata tekintetében a szakminiszter feladat- és hatáskörébe tartozó kérdésben a szakminiszterrel egyeztetve – a kihelyező szerv vezetője végzi.
 
-(7) A diplomata, valamint az adminisztratív és technikai személyzet (1) bekezdés szerinti felkészítésének és szakmai irányításának, valamint a szakdiplomata és a feladat- és hatáskörében érintett miniszter, illetve a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal vezetője (a továbbiakban együtt: szakminiszter) által vezetett tárca vagy hivatal (a továbbiakban együtt: szaktárca) közötti kapcsolattartás részletes szabályait a Kormány rendeletben szabályozza.
+(7) A diplomata, valamint az adminisztratív és technikai személyzet (1) bekezdés szerinti felkészítésének és szakmai irányításának, valamint a szakdiplomata és a szakdiplomata jelölésére jogosult, feladat- és hatáskörében érintett miniszter, illetve a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal vezetője (a továbbiakban együtt: szakminiszter) által vezetett központi kormányzati igazgatási szerv (a továbbiakban együtt: szaktárca) közötti kapcsolattartás részletes szabályait a Kormány rendeletben szabályozza.
 
 #### 6. Rangadományozás, ranghasználat
 
@@ -247,10 +257,10 @@ hivatásos konzuli rangot adományozhat a tartós külszolgálat időtartamára.
 16. § (1) Tartós külszolgálat ellátására az a kormánytisztviselő helyezhető ki, aki
 
 - a) Magyarországon állandó lakóhellyel rendelkezik és életvitelszerűen Magyarországon él,
-- b) a tartós külszolgálat során ellátott munkakörhöz jogszabályban, továbbá a kihelyező szerv vezetője által előírt iskolai végzettséggel, szakképzettséggel, szakképesítéssel, illetve a kihelyező vezető által előírt szakmai gyakorlattal rendelkezik,
-- c) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által elvégzett orvosi vizsgálat eredménye alapján a kijelölt állomáshelyen tartós külszolgálatra alkalmas,
-- d) a kihelyező szerv által előírt, a tartós külszolgálat során ellátandó munkakörének megfelelő szintű, az adott külképviselet vonatkozásában releváns idegennyelv-ismerettel, valamint – diplomata munkakörök vonatkozásában – a 14. § (2) bekezdés c) pontja szerinti nyelvvizsgával rendelkezik,
-- e) a kihelyező szerv vezetője által jogszabályban előírt szakmai vizsgakövetelményeknek – ideértve a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök ellátására kihelyezésre kerülő kormánytisztviselők esetében az európai uniós szakmai vizsgakövetelményeket is – eleget tett,
+- b) a tartós külszolgálat során ellátott munkakör betöltéséhez jogszabályban, továbbá a kihelyező szerv vezetője által előírt iskolai végzettséggel, szakképzettséggel, szakképesítéssel, illetve a kihelyező vezető által előírt szakmai gyakorlattal rendelkezik,
+- c) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által elvégzett orvosi vizsgálat eredménye alapján a kijelölt állomáshelyen – elsődleges munkaköri feladataira figyelemmel – tartós külszolgálatra alkalmas,
+- d) jogszabály vagy a kihelyező vezető által előírt, a tartós külszolgálat során ellátandó munkakörének megfelelő szintű, az adott külképviselet vonatkozásában releváns idegennyelv-ismerettel, valamint – diplomata munkakörök vonatkozásában – a 14. § (2) bekezdés c) pontja szerinti nyelvvizsgával rendelkezik,
+- e) jogszabály vagy a kihelyező szerv vezetője által előírt képzési, továbbképzési és szakmai vizsgakövetelményeknek – ideértve a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök ellátására kihelyezésre kerülő kormánytisztviselők esetében az európai uniós szakmai vizsgakövetelményeket is – eleget tett,
 - f) érvényes és kockázatmentes nemzetbiztonsági szakvéleménnyel rendelkezik,
 - g) nem állampolgára a fogadó államnak, valamint
 - h) egyéb módon nem biztosított házastársa részére – amennyiben a kihelyezett családi állapota indokolja – a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerinti, nyugellátásra jogosító szolgálatiidő- és nyugdíjalapot képező jövedelem szerzését célzó megállapodás megkötésére kötelezettséget vállal.
@@ -281,7 +291,7 @@ ideiglenesen – legfeljebb 90 napos időtartamra – hazarendelheti (a további
 
 (5) Ha az ideiglenes hazarendelésre a (2) bekezdés b) pontja alapján került sor, a munkaköri alkalmassági vizsgálat eredményéről, valamint a hazai gyógykezelés – tartós külszolgálat folytatása vagy megszüntetése szempontjából lényeges – körülményeiről a kihelyezett a kihelyező vezetőt a hazaérkezéstől számított 60 napon belül tájékoztatja.
 
-(6) Ha a tartós külszolgálatot a kihelyező vezető a (3) bekezdés alapján megszünteti, a kihelyezett az állomáshelyen folytatott életvitelének megszüntetéséről, így különösen lakhatására vonatkozó szerződéses viszonyok rendezéséről és ingóságainak hazaszállításáról a kihelyező szerv saját költségére gondoskodik.
+(6) Ha a tartós külszolgálatot a kihelyező vezető a (3) bekezdés alapján megszünteti, a kihelyezett az állomáshelyen folytatott életvitelének megszüntetéséről, így különösen lakhatására vonatkozó szerződéses viszonyok rendezéséről és ingóságainak hazaszállításáról a kihelyező szerv saját költségére gondoskodhat.
 
 19. § (1) A kihelyezett a kihelyező vezető döntése alapján – hivatali érdekből, a döntés közlésétől számított 30 napon belül közölt egyetértésével – más külképviseletre helyezhető át. Az áthelyezésre vonatkozó döntés meghozatala során a kihelyező vezető mérlegeli és figyelembe veszi a kihelyezett szakmai kompetenciáit, az általa ellátott munkakör jellegét és külképviseletének körülményeit. A kihelyezett hivatali érdekből történő áthelyezése esetén a tartós külszolgálatot folyamatosnak kell tekinteni.
 
@@ -289,42 +299,39 @@ ideiglenesen – legfeljebb 90 napos időtartamra – hazarendelheti (a további
 
 (3) A tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs a fogadó államban, illetve harmadik országban ideiglenes kiküldetést (a továbbiakban: ideiglenes kiküldetés) teljesíthet, amelyért napidíjra nem jogosult. A külszolgálat alatt teljesített ideiglenes külföldi kiküldetés részletes szabályait a külpolitikáért felelős miniszter rendeletben határozza meg.
 
-20. § (1) A tartós külszolgálat
+20. § (1) A tartós külszolgálat megszűnik
 
 - a) a kihelyező okiratban megállapított naptári évben, a kihelyező vezető által a naptári évben írásban adott tájékoztatás szerinti napon,
 - b) a kihelyező okiratban meghatározott feltétel bekövetkeztével,
 - c) a kormányzati szolgálati jogviszony megszűnésével vagy 90 napot meghaladó szünetelésével,
-- d) a 33. § (3) bekezdésében meghatározott esetben, valamint
-- e) a kihelyezett halálával
-
-szűnik meg.
+- d) a 33. § (3) bekezdésében meghatározott esetben, illetve
+- e) a kihelyezett halálával.
 
 (2) A kihelyező vezető lehetőség szerint a kihelyezés (1) bekezdés a) pontja szerinti megszűnésének pontos dátumáról legkésőbb az azt megelőző két hónappal tájékoztatja a kihelyezettet.
 
-(3) A tartós külszolgálat
+(3) A tartós külszolgálat megszüntethető
 
 - a) a kihelyezett és a kihelyező szerv közös megegyezésével,
 - b) a kihelyezés visszavonásával,
 - c) a kihelyezett kérelmére,
 - d) nemzetközi jogi ok fennállása esetén,
-- e) a 18. § (3) bekezdése szerinti esetben, valamint
-- f) a 32. § (1) bekezdése szerinti esetben,
-
-szüntethető meg.
+- e) a 18. § (3) bekezdése szerinti esetben, illetve
+- f) a 32. § (1) bekezdése szerinti esetben.
 
 (4) A (3) bekezdés d) pontjában foglalt nemzetközi jogi ok fennállása tekintetében a külpolitikáért felelős miniszter dönt.
 
-(5) A tartós külszolgálatot a kihelyezés visszavonásával a kihelyező vezető megszünteti, ha a kihelyezett
+(5) A tartós külszolgálatot a (3) bekezdés b) pontja alapján a kihelyezés visszavonásával a kihelyező vezető megszünteti,
 
-- a) a 16. § (1) bekezdésében meghatározott feltételeknek már nem felel meg, vagy
-- b) az illetékes foglalkozás-egészségügyi szolgálat által végzett kötelező időszaki, illetve a kihelyező vezető által elrendelt soron kívüli orvosi vizsgálaton – neki felróhatóan – nem jelenik meg,
-- c) a (7) bekezdésében foglaltak alapján ezt kéri.
+- a) ha a kihelyezett a 16. § (1) bekezdésében meghatározott feltételeknek már nem felel meg,
+- b) ha a kihelyezett az illetékes foglalkozás-egészségügyi szolgálat által végzett kötelező időszaki, illetve a kihelyező vezető által elrendelt soron kívüli orvosi vizsgálaton – neki felróhatóan – nem jelenik meg,
+- c) ha a kihelyezett a (7) bekezdésben foglaltak alapján ezt kéri, vagy
+- d) azonnali hatályú végleges hazarendeléssel.
 
 (6) Ha a tartós külszolgálatra kihelyezés visszavonására vonatkozó döntés közlésétől számított öt munkanapon belül a kormánytisztviselő írásban úgy nyilatkozik, hogy nem kíván a megváltoztatott feltételek szerint munkát végezni, a nyilatkozatát a kormányzati szolgálati jogviszonyról történő lemondásnak kell tekinteni azzal, hogy a lemondási idő tartamára a munkavégzés alól mentesíteni kell. A lemondási időre járó illetmény összegének, valamint az egyéb kifizetések összegének meghatározása szempontjából 11. § (4) bekezdése szerinti illetményt kell figyelembe venni.
 
 (7) A kihelyezett írásban kérheti a kihelyezés megszüntetését és a külképviseletről történő hazarendelését. Az erre vonatkozó kérelmet a kihelyező vezető annak kézhezvételétől számított 30 napon belül elbírálja és a kihelyezett hazarendelését elrendeli.
 
-(8) A kihelyezett tartós külszolgálatát a kihelyező vezető rendkívüli esetben, hivatali érdekből, azonnali hatályú hazarendeléssel is visszavonhatja.
+(8) A kihelyező vezető a kihelyezett tartós külszolgálatát azonnali hatályú végleges hazarendeléssel – indokolás nélkül, mérlegelési jogkörében eljárva – visszavonhatja és megszüntetheti.
 
 21. § (1) A tartós külszolgálat megszűnését vagy megszüntetését közvetlenül követően a kihelyező vezető – a szakdiplomata kivételével – a határozatlan időre kinevezett kormánytisztviselőt a kormányzati igazgatásról szóló törvény 89. § (1) bekezdése alapján kinevezésének egyoldalú módosításával iskolai végzettsége, szakképzettsége vagy szakképesítése figyelembevételével a kihelyező szervnek a kormányzati igazgatásról szóló törvény 55. § (1) bekezdése vagy 56. § (1)–(2) bekezdése szerinti álláshelyére helyezheti, ha a kihelyező szerv rendelkezik a kormánytisztviselő által betölthető álláshellyel. Az álláshelyre történő helyezés során a kihelyező vezető a kormányzati igazgatásról szóló törvény 89. § (1) bekezdése alapján jogosult a kormánytisztviselő határozatlan időtartamú kormányzati szolgálati jogviszonyának egyoldalú módosítására is. A kormánytisztviselőt a kinevezés módosításának vele való közlésétől számított öt munkanapon belül írásban benyújtott kérelmére a kormányzati igazgatásról szóló törvény 89. § (5) bekezdésének alkalmazásával, a (2) bekezdés szerinti illetménye alapulvételével fel kell menteni.
 
@@ -336,13 +343,15 @@ szüntethető meg.
 
 (4)
 
-(5) A kormánytisztviselő a kihelyező szerv vagy a kihelyező szerv irányítása vagy felügyelete alá tartozó központi államigazgatási szerv állományába is helyezhető annak vezetője egyetértésével a kormányzati igazgatásról szóló törvény 89. § (6) bekezdése alapján úgy, hogy a fogadó kormányzati igazgatási szerv a kormánytisztviselő új beosztási okiratát a külszolgálat megszűnését követő napi hatállyal állítja ki.
+(5) A kormánytisztviselő a kihelyező vezető döntése alapján a kihelyező szerv vagy a kihelyező szerv vezetőjének irányítása vagy felügyelete alá tartozó központi kormányzati igazgatási szerv állományába is helyezhető – a központi kormányzati igazgatási szerv vezetője egyetértésével – a kormányzati igazgatásról szóló törvény 89. § (6) bekezdése alapján úgy, hogy a fogadó kormányzati igazgatási szerv a kormánytisztviselő új beosztási okiratát a külszolgálat megszűnését követő napi hatállyal állítja ki. Ebben az esetben a kormányzati igazgatásról szóló törvény kinevezésmódosításra vonatkozó rendelkezéseit kell alkalmazni.
 
 (6) A (2) bekezdés szerinti esetben a kormányzati igazgatásról szóló törvény kinevezés-módosításra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 (7) A belföldi felkészülési állományba helyezett kormánytisztviselő jogviszonyára a 11. § (5b)–(5f) bekezdésében foglaltakat kell alkalmazni.
 
 (8) Az egy tartós külszolgálat időtartamára kinevezett kormánytisztviselő a berendelést követően, amennyiben legkésőbb a berendelés időpontjáig a várandósságát a kihelyező vezetőnek írásban bejelentette, a bejelentésnek a kihelyező vezetővel való közlésétől a gyermeke megszületéséig az (1) és (2) bekezdésben foglaltak alkalmazásával belföldi felkészülő állományba helyezhető azzal, hogy a kihelyező szervvel fennálló határozott időtartamú jogviszonya a gyermeke megszületésének időpontjával – a törvény erejénél fogva – megszűnik.
+
+(9) A tartós külszolgálat céljából határozott időre áthelyezett vagy tartós külszolgálatra a kihelyező szervhez kirendelt kormánytisztviselő – a külszolgálat megszűnését vagy megszüntetését követően beosztási okiratának az áthelyező vagy kirendelő munkáltató kormányzati igazgatási szerv egyoldalú módosításával – visszahelyezésre kerül az áthelyező vagy kirendelő kormányzati igazgatási szervhez.
 
 #### 8. A kihelyező, a kihelyezést módosító, az áthelyező és az értesítő okirat
 
@@ -351,7 +360,7 @@ szüntethető meg.
 (2) A kihelyezésre és a más külföldi állomáshelyre történő áthelyezésre vonatkozó okiratnak tartalmaznia kell a tartós külszolgálattal kapcsolatos minden lényeges adatot, így különösen a kihelyezett
 
 - a) 1. melléklet szerinti rangját, munkakörét, munkaköri szorzóját,
-- b) állomáshelyét,
+- b) állomáshelyét vagy állomáshelyhez tartozó nem önálló képviseletét,
 - c) deviza-alapilletmény összegét, a deviza-illetménypótlékát,
 - d) átalány-költségtérítésének összegét,
 - e) költségtérítés-kiegészítésre jogosító személyek nevét, családi jogállását,
@@ -378,6 +387,9 @@ szüntethető meg.
 - b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezdésében meghatározott deviza-illetménypótlékra, illetve költségtérítés-kiegészítésre válik jogosulttá,
 - c) rangemelésben részesül,
 - d) személyi adatai módosulnak.
+- e) a kihelyező vezető egyoldalú döntése alapján, hivatali érdekből más állomáshelyre vagy más tartós külszolgálati munkakörbe kerül áthelyezésre.
+
+(8) A (7) bekezdés e) pontja szerinti egyoldalú kihelyező okirat módosítás esetén a hivatali érdeket a 2. § 7. pontjára figyelemmel kell megállapítani.
 
 #### 9. Járandóságok
 
@@ -511,7 +523,7 @@ illeti meg.
 
 (18) Ha a kihelyezett végleges berendelés esetén az állomáshelyet a berendelést megelőzően bármilyen távolléti jogcímen elhagyta, azaz az állomáshelyen történő életvitelszerű tartózkodása megszűnt, akkor költségtérítés nem jár részére.
 
-(19) Ha a kihelyezési okiraton szereplő hozzátartozók az állomáshelyet a tartós külszolgálat befejező időpontja előtt elhagyták, akkor a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig számfejthető. Amennyiben a kihelyezett az állomáshelyet szabadság miatt a hozzátartozókkal együtt hagyja el, de a hozzátartozók nem térnek vissza az állomáshelyre, és az állomáshelyen történő életvitelszerű tartózkodás részükről befejeződött, a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig jár.
+(19) Ha a kihelyezési okiraton szereplő hozzátartozók az állomáshelyet a tartós külszolgálat befejező időpontja előtt elhagyták, a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig számfejthető. Ha a hozzátartozók a kihelyezett ideiglenes berendelése alatt hagyták el az állomáshelyet és a végleges berendelés előtt az állomáshelyre nem térnek vissza, a kihelyezett a végleges berendelésének napjáig jogosult a hozzátartozók utáni járandóságra. Amennyiben a kihelyezett az állomáshelyet szabadság miatt a hozzátartozókkal együtt hagyja el, de a hozzátartozók nem térnek vissza az állomáshelyre, és az állomáshelyen történő életvitelszerű tartózkodás részükről befejeződött, a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig jár.
 
 26. § (1) A kihelyezettet megillető díjazás kifizetése a kihelyezett által választott, legfeljebb két – euró, USA-dollár vagy forint fogadására alkalmas – fizetési számlára történő utalással, a kihelyezett által meghatározott arányban megosztva történik.
 
@@ -540,12 +552,12 @@ illeti meg.
 
 (3) A válsághelyzetben a kihelyező vezető dönt a (2) bekezdésben meghatározott személyek hazaszállításáról. Az ebből eredő, előre nem tervezett többletköltségeket a kihelyező szerv viseli.
 
-29. § (1) E törvény 1. mellékletében meghatározott
+29. § (1) Az 1. mellékletben meghatározott
 
 - a) vezetői munkakörben,
 - b) diplomata munkakörben,
-- c) regionális rendszergazda munkakörben,
-- d) gazdasági vezető munkakörben,
+- c) gazdasági vezető munkakörben,
+- d) területi informatikai vezető munkakörben és
 - e) gazdasági felelősi munkakörben
 
 foglalkoztatott kihelyezett munkarendje kötetlen, a munkarend kötetlen jellegét azonban nem érinti, ha a kihelyezett a munkaköri feladatok egy részét sajátos jellegüknél fogva és a külképviselet-vezető utasításainak figyelembevételével meghatározott időpontban vagy időszakban teljesítheti.
@@ -644,7 +656,7 @@ illeti meg.
 
 (3) A kihelyezett tartós külszolgálata a keresőképtelensége kezdetét követő 180. napot követő napon megszűnik, a külszolgálat időtartamára létesített határozott idejű kormányzati szolgálati jogviszonya azonban keresőképtelensége fennállásáig, de legfeljebb 365 napig továbbra is fennáll.
 
-(4) A kihelyezettet beteg gyermekének ápolása miatti keresőképtelenségének időtartamára – legfeljebb 90 napig – az (2) bekezdésben meghatározott mértékű devizailletmény illeti meg.
+(4) A kihelyezettet vagy a külképviselet által foglalkoztatott házastársat beteg gyermekének ápolása miatti keresőképtelenségének időtartamára – legfeljebb 90 napig – a (2) bekezdésben meghatározott mértékű devizailletmény vagy munkabér illeti meg.
 
 (5) A kihelyezett halála esetén a halál bekövetkeztéig járó díjazásán felül a kihelyezettel az állomáshelyen tartózkodó házastársa, vagy házastárs hiányában az állomáshelyen kint tartózkodó gyermek felügyeletére ideiglenesen kijelölt gyám a kihelyezett további egyhavi díjazásának megfelelő segélyre jogosult.
 
@@ -680,6 +692,8 @@ illeti meg.
 36. § (1) A szakdiplomatára a diplomatára vonatkozó rendelkezéseket az e szakaszban foglalt eltérésekkel kell alkalmazni.
 
 (2) Szakdiplomata-álláshely létesítése érdekében a külpolitikáért felelős miniszter a szakminiszterrel történő egyeztetést követően együttes előterjesztést nyújt be (a továbbiakban: előterjesztés) a Kormánynak. A Kormánynak benyújtandó előterjesztésre vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+
+(2a) A külképviseleteken szakkonzul láthat el konzuli tisztviselői feladatokat.
 
 (3) A szakdiplomata-álláshelyre vonatkozó pályázatot a szakminiszter hirdeti meg és bírálja el. A szakdiplomata személyére a pályázat eredménye vagy kivételesen, kijelölés alapján a szakminiszter tesz javaslatot a kihelyező vezetőnek. Kihelyezésre akkor kerülhet sor, ha a szakminiszter személyi javaslatával a kihelyező vezető egyetért. A szakdiplomata-álláshely betöltésére jelöltnek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését a szakminisztérium vezetője kezdeményezheti.
 
@@ -725,9 +739,11 @@ illeti meg.
 
 (2) Az EU ÁK az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium jogi személyiséggel rendelkező szervezeti egységeként működik, költségvetése az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címet képez. Az EU ÁK költségvetésének tervezésével, az előirányzatok átcsoportosításával és a beszámoló jóváhagyásával kapcsolatos feladatokat az európai uniós ügyek koordinációjáért felelős miniszter látja el.
 
-(3) Az 5. §-tól eltérően az EU ÁK irányítását – beleértve az EU ÁK funkcionális működtetését is – az európai uniós ügyek koordinációjáért felelős miniszter látja el.
+(3) Az 5. §-tól eltérően az EU ÁK irányítását az európai uniós ügyek koordinációjáért felelős miniszter látja el.
 
-(4) Az EU ÁK szervezetére és működésére vonatkozó szabályokat a külképviselet-vezető javaslatára az európai uniós ügyek koordinációjáért felelős miniszter utasításban állapítja meg.
+(4) Az EU ÁK funkcionális működtetéséről az európai uniós ügyek koordinációjáért felelős miniszter gondoskodik azzal, hogy az informatikai rendszer üzemeltetésével, a biztonsági, biztonságtechnikai és titkos ügykezelési tevékenységgel kapcsolatos feladatok ellátását a külpolitikáért felelős miniszter útján biztosítja.
+
+(5) Az EU ÁK szervezetére és működésére vonatkozó szabályokat a külképviselet-vezető javaslatára az európai uniós ügyek koordinációjáért felelős miniszter normatív utasításban adja ki.
 
 #### 13. A külképviselet vezetőjének feladatai, helyettesítésének rendje
 
@@ -879,6 +895,16 @@ megismerése Magyarország külpolitikai, külgazdasági érdekeinek illetéktel
 
 dönt.
 
+### VI. Fejezet — A VENDÉGOKTATÓI ÖSZTÖNDÍJPROGRAM
+
+57/B. § (1) A magyar nyelv és kultúra külföldi felsőoktatási intézményekben történő oktatásának és megismertetésének, valamint a külföldi hungarológiai oktatás és kutatás hatékonyabb támogatásának biztosítására vendégoktatói ösztöndíjprogram működik.
+
+(2) A vendégoktatói ösztöndíjprogram keretében a vendégoktató az általa végzett tevékenység támogatására a Kormány rendeletében meghatározott és az ösztöndíjszerződésben foglalt feltételek szerint ösztöndíjra és költségtérítésre jogosult.
+
+(3) Az ösztöndíj nem önálló tevékenységből származó jövedelemnek és a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerinti járulékalapot képező jövedelemnek minősül.
+
+(4) A vendégoktató a kötelező egészségbiztosítás ellátásairól szóló törvény és annak végrehajtására kiadott jogszabályok külföldön történő gyógykezelésre vonatkozó szabályai szerint jogosult az állomáshelyen egészségügyi ellátás igénybevételére.
+
 ### ZÁRÓ RENDELKEZÉSEK
 
 #### 20. Hatályba léptető és átmeneti rendelkezések
@@ -907,17 +933,19 @@ dönt.
 
 (10a)
 
-(11) A 2017. költségvetési évre vonatkozó deviza-illetményalap, lakhatási és vegyes költségtérítés-alap, valamint óvodáztatási és iskoláztatási költségtérítés-alap összegeit e törvény tartalmazza. A 2017. költségvetési évre vonatkozó
-
-- a) deviza-illetményalap 425 000 forint,
-- b) lakhatási és vegyes költségtérítés-alap 300 000 forint,
-- c) óvodáztatási és iskoláztatási költségtérítés-alap 150 000 forint.
+(11)
 
 (12) A tartós külszolgálat idejére szóló határozott időre kinevezett kormánytisztviselő kormányzati szolgálati jogviszonya a tartós külszolgálati munkakör betöltésére szóló pályázati döntés, vagy a kijelölésnek a kihelyező vezető részéről történő visszavonásával, a tartós külszolgálati felkészülés, illetve a tartós külszolgálati kihelyezés megszűnésével vagy megszüntetésével, együttesen, mint a határozott idejű kinevezésre vonatkozó bontó feltétel bekövetkezte miatt a határozott idejű kinevezésnek a lejártával, a törvény erejénél fogva megszűnik.
 
 (13) A kormányzati igazgatásról szóló törvény szerinti célhoz köthető feladat végrehajtásában a kormányzati igazgatásról szóló törvényben, valamint annak végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a 10. § (1) bekezdés szerinti szervnél foglalkoztatott munkavállaló is részt vehet, és a kormánytisztviselőkkel azonos feltételek szerint a célhoz köthető feladat eredményes végrehajtásáért céljuttatásra jogosult.
 
-(14) A Magyar Diplomáciai Akadémiában folytatott képzés támogatására, valamint a diplomata képzés rendszerében történő tanulmányok támogatására, illetve a külügyi és külgazdasági szakmai ismeretek ágazati szintű fejlesztésére és elsajátítására a külpolitikáért felelős miniszter által működtetett külügyi szakmai ösztöndíjprogram (a továbbiakban: ösztöndíjprogram) működik. Az ösztöndíjprogram keretében az ösztöndíjas a külügyi szakmai ösztöndíjas jogviszonya keretében az általa végzett tevékenység támogatására a külpolitikáért felelős miniszter rendeletében meghatározott és az ösztöndíjszerződésben foglalt feltételek szerint ösztöndíjra és költségtérítésre jogosult. Az ösztöndíj nem önálló tevékenységből származó jövedelemnek és a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerinti járulékalapot képező jövedelemnek minősül. Az ösztöndíjprogram keretében az ösztöndíjas jogiszonyára a kormányzati igazgatásról szóló törvény 88. §-a szabályait megfelelően kell alkalmazni.
+(14) A Magyar Diplomáciai Akadémiában folytatott képzés támogatására, valamint a diplomata képzés rendszerében történő tanulmányok támogatására, illetve a külügyi és külgazdasági szakmai ismeretek ágazati szintű fejlesztésére és elsajátítására a külpolitikáért felelős miniszter által működtetett külügyi szakmai ösztöndíjprogram (a továbbiakban: ösztöndíjprogram) működik. Az ösztöndíjprogram keretében az ösztöndíjas a külügyi szakmai ösztöndíjas jogviszonya keretében az általa végzett tevékenység támogatására a külpolitikáért felelős miniszter rendeletében meghatározott és az ösztöndíjszerződésben foglalt feltételek szerint ösztöndíjra és költségtérítésre jogosult. Az ösztöndíj nem önálló tevékenységből származó jövedelemnek és a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerinti járulékalapot képező jövedelemnek minősül. Az ösztöndíjprogram keretében az ösztöndíjas jogiszonyára a kormányzati igazgatásról szóló törvény 88. §-a szabályait megfelelően kell alkalmazni.
+
+(15) A foglalkoztatott jogviszonya a kormányzati igazgatásról szóló törvény szerinti felmentési okokon kívül azonnali hatállyal felmentéssel megszüntethető az e törvény szerinti hivatali érdek megsértése esetén.
+
+(16) A (15) bekezdés szerinti megszüntetés esetén felmentési idő a foglalkoztatottat nem illeti meg. A felmentésre egyebekben a kormányzati igazgatásról szóló törvény rendelkezései alkalmazandók.
+
+(17) A külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, a 10. § (1) bekezdése szerinti pályázat benyújtására jogosult foglalkoztatott jogviszonyának közös megegyezéssel történő megszüntetése esetén a felek legfeljebb a foglalkoztatottat a megállapodás megkötésének időpontjában a jogviszonyának felmentéssel, illetve felmondással történő megszüntetés esetén őt megillető végkielégítés összegével megegyező összegű egyszeri kifizetésben állapodhatnak meg.
 
 58/A. § (1) E törvénynek az egyes törvények külügyi igazgatási tárgyú módosításáról szóló 2018. évi LXXVII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépését megelőzően létrejött jogviszonyokra is alkalmazni kell.
 
@@ -940,14 +968,17 @@ azon kormánytisztviselő, aki felett a kormányzati igazgatásról szóló tör
 - a) az e törvény hatálya alá tartozó másik kihelyező szervnél történő tartós külszolgálati kihelyezés érdekében történő külszolgálati kirendelés esetén,
 - b) a kormányzati igazgatásról szóló törvény 103. §-a szerinti vagy ezzel egyenértékű tevékenység esetén,
 - c) – a kormányzati igazgatásról szóló törvény 104. § (8) bekezdésében foglaltaktól eltérően – állam- vagy kormányközi nemzetközi szervezetnél, illetve nemzetközi vagy regionális szervezetnél vagy az Európai Unió szerveinél külügyi, külpolitikai, nemzetközi vagy egyéb diplomáciai tevékenység megkezdése érdekében történő átmeneti jogviszony létesítése esetén,
-- d) a kormányzati igazgatásról szóló törvény a 131. § (1) bekezdés b) pontja szerinti esetben, vagy
-- e) a minisztériummal jogviszonyban álló házas- vagy élettársa a)–c) pont szerinti tevékenysége miatt a kormánytisztviselőnek a munkáltató által engedélyezett munkavégzési és rendelkezésre állási kötelezettség alóli mentesülése esetén,
+- d) a kormányzati igazgatásról szóló törvény a 131. § (1) bekezdés b) pontja szerinti, vagy házas- vagy élettársa által ellátott a)–c) pont szerinti tevékenysége miatt kért fizetés nélküli szabadság esetében,
+- e) a minisztériummal jogviszonyban álló házas- vagy élettársa a)–c) pont szerinti tevékenysége miatt a kormánytisztviselőnek a munkáltató által engedélyezett munkavégzési és rendelkezésre állási kötelezettség alóli mentesülése esetén, vagy
+- f) a külföldön folytatott tanulmányok vagy ösztöndíjprogramban való részvétel céljából a munkáltató által engedélyezett munkavégzési és rendelkezésre állási kötelezettség alóli mentesülés, illetve fizetés nélküli szabadság esetén
 
-annak időtartamára a kihelyező vezető a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre, külföldi felkészülési állományba helyezi. Az e bekezdés szerint külföldi felkészülési állományba helyezett kormánytisztviselő jogviszonyára a 11. § rendelkezéseit kell alkalmazni, azzal, hogy a kormányzati igazgatásról szóló törvény helyett az a)–c) pont szerinti kormánytisztviselő esetében a 11. § (4) bekezdés c) pontja szerinti illetményt, a d) pont szerinti kormánytisztviselők esetében a 11. § (4) bekezdés b) pontja szerinti illetményt kell alapul venni az illetmény számításánál. Az a)–c) pont szerinti kormánytisztviselő – jogszabály eltérő rendelkezésének hiányában – a kormányzati igazgatásról szóló törvény, illetve e törvény szerinti illetményre akkor jogosult, amennyiben a másik szervnél, illetve további jogviszonya után illetményre, díjazásra vagy bárminemű egyéb juttatásra nem jogosult, illetve, ha napidíjra nem jogosult nemzeti szakértőként kerül kiküldésre. A d) és e) pont szerinti kormánytisztviselő a fizetés nélküli szabadság időtartama alatt a kormányzati igazgatásról szóló törvény, illetve e törvény szerinti illetményre vagy egyéb juttatásra nem jogosult.
+annak időtartamára a kihelyező vezető a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre, külföldi felkészülési állományba helyezi. Az e bekezdés szerint külföldi felkészülési állományba helyezett kormánytisztviselő jogviszonyára a 11. § rendelkezéseit kell alkalmazni, azzal, hogy a kormányzati igazgatásról szóló törvény helyett az a)–c) pont szerinti kormánytisztviselő esetében a 11. § (4) bekezdés c) pontja szerinti illetményt, a d)–f) pont szerinti kormánytisztviselők esetében a 11. § (4) bekezdés b) pontja szerinti illetményt kell alapul venni az illetmény számításánál. Az a)–c) pont szerinti kormánytisztviselő – jogszabály eltérő rendelkezésének hiányában – a kormányzati igazgatásról szóló törvény, illetve e törvény szerinti illetményre akkor jogosult, amennyiben a másik szervnél, illetve további jogviszonya után illetményre, díjazásra vagy bárminemű egyéb juttatásra nem jogosult, illetve, ha napidíjra nem jogosult nemzeti szakértőként kerül kiküldésre. A d)–f) pont szerinti kormánytisztviselő a fizetés nélküli szabadság időtartama alatt a kormányzati igazgatásról szóló törvény, illetve e törvény szerinti illetményre vagy egyéb juttatásra nem jogosult.
 
-(4) A (3) bekezdése szerint a kormánytisztviselő jogviszonyára a (3) bekezdése szerinti időtartam megszűnését vagy megszüntetését követően – a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre, belföldi felkészülési állományba történő áthelyezésével – a 21. § rendelkezéseit kell alkalmazni, azzal, hogy a kormányzati igazgatásról szóló törvény helyett a (3) bekezdés a)–c) pontja szerinti kormánytisztviselők a 11. § (4) bekezdés c) pontja szerinti illetményre, a (3) bekezdés d) pont szerinti kormánytisztviselők a 11. § (4) bekezdés b) pontja szerinti illetményre jogosultak.
+(4) A (3) bekezdés szerint a kormánytisztviselő jogviszonyára a (3) bekezdés szerinti időtartam megszűnését vagy megszüntetését követően – a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre, belföldi felkészülési állományba történő áthelyezésével – a 21. § rendelkezéseit kell alkalmazni, azzal, hogy a kormányzati igazgatásról szóló törvény helyett a (3) bekezdés a)–c) pontja szerinti kormánytisztviselők a 11. § (4) bekezdés c) pontja szerinti illetményre, a (3) bekezdés d) és f) pontja szerinti kormánytisztviselők a 11. § (4) bekezdés b) pontja szerinti illetményre jogosultak.
 
 (5) A 2018. december 31. napján a kormányzati igazgatásról szóló törvény 289. § (4) bekezdés hatálya alá tartozó, a (3) bekezdés d) pontja szerint a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre, felkészülési állományba helyezett kormánytisztviselők esetén a kormányzati igazgatásról szóló törvény 289. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a távollét vége alatt a (3) bekezdés d) pontja szerinti távollét vége értendő.
+
+(6) A kormányzati igazgatásról szóló törvény 288. § (1) bekezdésének hatálya alá tartozó, a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyen foglalkoztatott kormánytisztviselők esetén a kormányzati igazgatásról szóló törvény 288. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a határozott idejű áthelyezés, illetve a kirendelés megszűnésekor vagy megszüntetésekor a kormánytisztviselő minden esetben – a felek megállapodásától függetlenül – az áthelyező vagy küldő kormányzati igazgatási szervnél kerül továbbfoglalkoztatásra.
 
 58/D. § Ha a 11. § (3) bekezdése szerinti külföldi felkészülési állományba, valamint a 21. § (2) bekezdése szerinti belföldi felkészülési állományba kinevezett kormánytisztviselő számára a keresőképtelenségére tekintettel járó pénzbeli egészségbiztosítási ellátások folyósítása 2019. január 1-jét megelőzően megkezdődött, akkor az ellátás továbbfolyósításánál továbbra is az Ebtv. vonatkozó rendelkezései az irányadóak.
 
@@ -955,14 +986,31 @@ annak időtartamára a kihelyező vezető a kormányzati igazgatásról szóló 
 
 58/F. § E törvénynek a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosításáról szóló 2020. évi LIV. törvénnyel (a továbbiakban: Módtv4.) megállapított rendelkezéseit a Módtv4. hatálybalépését megelőzően létrejött jogviszonyokra is alkalmazni kell.
 
+58/G. § (1) A kormányzati igazgatásról szóló törvény 81. § (1) bekezdésére tekintettel a kormányzati igazgatásról szóló törvény 2. § (2) bekezdés c) pontja szerinti, a külpolitikáért felelős miniszter által vezetett kihelyező szervvel (e § alkalmazásában a továbbiakban: minisztérium) kormányzati jogviszonyban álló kormánytisztviselő a minisztérium hivatali szervezete vezetőjének döntése alapján – az érintett költségvetési szerv vezetőjének egyetértésével, vagy javaslatára, és a kormánytisztviselő egyetértésével – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 1. § a) pontja szerinti költségvetési szervhez vagy a külpolitikáért felelős miniszter irányítása vagy felügyelete alá tartozó költségvetési szervhez (e § alkalmazásában a továbbiakban együtt: fogadó szerv) külpolitikai, külügyi igazgatási vagy külügyi biztonsági érdekből határozott időre kirendelhető (e § alkalmazásában a továbbiakban együtt: kirendelés).
+
+(2) A kirendelés a kormánytisztviselő jogviszonyának a minisztériumnál történő fennállását nem érinti. A kirendelés a minisztérium hivatali szervezete vezetőjének egyoldalú döntésével, vagy a fogadó szerv kezdeményezésére – indoklás nélkül – megszüntethető. A kirendelés esetén a kormánytisztviselőre az 58/C. § (3) bekezdés c) pontja szerinti esetre irányadó szabályok alkalmazandóak. A kirendelés időtartama alatt a kormánytisztviselő a minisztériumnál betöltött álláshelyén a munkavégzési és rendelkezésre állási kötelezettség alól mentesül és a kormányzati igazgatásról szóló törvény szerinti tartós távollévőnek minősül.
+
+(3) A kirendelés időtartama nem haladhatja meg a két évet. A kirendelés – a fogadó szerv egyetértésével vagy javaslatára – a minisztérium hivatali szervezete vezetőjének döntése alapján és az érintett kormánytisztviselő egyetértésével egy alkalommal, legfeljebb két évvel meghosszabbítható. A kirendelés lejártát követően a kormánytisztviselőt a minisztérium az 58/C. § (4) bekezdésében foglaltak szerint köteles továbbfoglalkoztatni.
+
+(4) A kirendelt kormánytisztviselőt a fogadó szerv – amennyiben az nem tartozik a kormányzati igazgatásról szóló törvény hatálya alá – a rá irányadó jogállási törvény szerinti határozott idejű jogviszonyban, vagy határozott idejű munkaviszonyban köteles foglalkoztatni, azzal, hogy a kormánytisztviselő fogadó szervnél megállapított illetménye nem lehet kevesebb a kormánytisztviselőt az 58/C. § (4) bekezdése alapján megillető illetménynél. Ha a fogadó szerv a kormányzati igazgatásról szóló törvény hatálya alá tartozik, az e §-ban foglalt eltérésekkel a kormányzati igazgatásról szóló törvény szerint köteles a kormánytisztviselőt foglalkoztatni. A fogadó szervhez kirendelt kormánytisztviselő kirendelés ideje alatt a fogadó szervnél fennálló jogviszonya alapján biztosított illetménye és a kapcsolódó egyéb járandóságok a fogadó szerv költségvetését terhelik. A kirendelt kormánytisztviselő a kirendelés ideje alatt a kormányzati igazgatásról szóló törvény szerinti szolgálati elismerésre jogosult az e törvényben foglalt eltérésekkel, azzal, hogy a szolgálati elismerést a kirendelés megszűnését vagy megszüntetését követő tizenöt napon belül kell a részére kifizetni.
+
+(5) A kirendelt kormánytisztviselő a kirendelés ideje alatt a fogadó szerv vezetőjének, illetve a fogadó szerv munkáltatói jogkör gyakorlójának rendelkezései szerint teljesíti közszolgálatát. A fogadó szervhez kirendelt kormánytisztviselő munkavégzésére és tevékenységére, munkarendjére, teljesítményértékelésére, minősítésére, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértés jogkövetkezményeire, a fogadó szervnél rendszeresített címek és egyéb elismerések elnyerésére és viselésére – a (6) bekezdés kivételével – a fogadó szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok irányadóak.
+
+(6) A kirendelés időtartama alatt a kirendelt kormányzati szolgálati jogviszonya vonatkozásában a kormányzati igazgatásról szóló törvény 280. § (1) bekezdés 2. pontja szerinti alapvető munkáltatói jogokat a kihelyező vezető gyakorolja.
+
+58/H. § (1) E törvénynek a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosításáról, valamint a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvény hatályon kívül helyezéséről szóló 2020. évi CLXXVII. törvénnyel megállapított rendelkezéseit a 2021. január 1-jét megelőzően létrejött jogviszonyokra is alkalmazni kell.
+
+(2) E törvénynek a 2020. december 31-én hatályos rendelkezései szerinti tartós külszolgálat megszűnésével vagy megszüntetésével kapcsolatban közszolgálati panasz 2021. március 31-ig nyújtható be.
+
 #### 21. Felhatalmazó rendelkezések
 
 59. § (1) Felhatalmazást kap a Kormány, hogy
 
 - a) a szakdiplomata-álláshely létesítésére vonatkozó, Kormánynak benyújtandó előterjesztés, a szakdiplomata felkészítése és szakmai irányítása, továbbá a szakdiplomata és a szaktárca közötti kapcsolattartás,
 - b) a tartós külszolgálathoz kapcsolódó felkészítés, valamint
-- c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának és nyilvántartásának, valamint a költségvetési támogatásoknak az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
+- c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, igazgatásának és nyilvántartásának, valamint a költségvetési támogatásoknak, valamint a külképviseletek tekintetében az érvényesítésnek, a pénzügyi ellenjegyzésnek, továbbá az utalványozásnak az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
 - d) az egységes külképviseleti rendszer adminisztratív-technikai működésével és fenntartásával kapcsolatos feladatok ellátásának
+- e) a vendégoktatói ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -986,7 +1034,7 @@ részletes szabályait rendeletben állapítsa meg.
 - p) a külügyi szakmai vizsga,
 - q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági és pszichológiai alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének
 - r) az ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének,
-- s) az ágazati működésre vonatkozó szakpolitikai tudományos kutatások eredményeinek társadalmi és gazdasági hasznosítását elősegítő képzések
+- s)
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -1010,6 +1058,10 @@ részletes szabályait rendeletben állapítsa meg.
 (3a) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az európai uniós szakmai vizsga részletes szabályait rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – a közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselőkre vonatkozó, e törvénytől eltérő szabályokat rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a 38. § (4) bekezdése szerinti, a külpolitikáért felelős miniszter által ellátandó feladatok végrehajtásának részletes szabályait, továbbá a feladatellátásra vonatkozó sajátos munkajogi szabályokat – az európai uniós ügyek koordinációjáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.
+
+(6) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – az 57/B. § (4) bekezdése szerinti egészségügyi ellátás igénybevételének részletes szabályait rendeletben állapítsa meg.
 
 60. § (1) E törvény alapján az EU ÁK funkcionális működtetésével kapcsolatos, az európai uniós ügyek koordinációjáért felelős miniszterhez kerülő feladat- és hatáskörök tekintetében 2016. augusztus 1-jével a Miniszterelnökség a Külgazdasági és Külügyminisztérium jogutódja.
 
@@ -1051,6 +1103,7 @@ b) a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről sz
 | Külképviselet-vezető a 3. § (1) bekezdés b) és d) pont szerinti külképviseleten |  | 4,6 |
 | Első beosztott diplomata, első beosztott konzul |  | 4,2 |
 | Külföldi magyar kulturális intézetet vezető kulturális tanácsos, vezető konzul |  | 4,0 |
+| Regionális gazdasági igazgató |  | 3,8 |
 | Diplomata munkakörök | Beosztott diplomata | rendkívüli követ és meghatalmazott miniszter | 4,0 |
 | I. osztályú tanácsos | 3,9 |
 | II. osztályú tanácsos | 3,8 |
@@ -1059,16 +1112,10 @@ b) a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről sz
 | III. osztályú titkár | 3,5 |
 | attasé | 3,4 |
 | segédattasé | 3,3 |
-| Adminisztratív munkakörök | Gazdasági vezető | I. osztályú titkár | 3,7 |
-| II. osztályú titkár | 3,6 |
-| III. osztályú titkár | 3,5 |
-| attasé | 3,4 |
-| segédattasé | 3,3 |
-| Regionális rendszergazda | attasé | 3,4 |
-| segédattasé | 3,3 |
-| Gazdasági felelős |  | 3,0 |
-| Rendszergazda, külképviselet-vezetői titkárnő, gazdasági ügyintéző |  | 2,8 |
-| Titkárnő (titkársági referens), konzuli ügyintéző, kommunikációs munkatárs |  | 2,6 |
+| Adminisztratív munkakörök | Gazdasági vezető, területi informatikai vezető |  | 3,5 |
+| Gazdasági felelős, rendszergazda |  | 3,0 |
+| Külképviselet-vezetői titkársági referens, gazdasági ügyintéző |  | 2,8 |
+| Titkársági referens, konzuli ügyintéző |  | 2,6 |
 | Technikai munkakörök | Nagyköveti gépkocsivezető |  | 2,4 |
 | Gépkocsivezető, szakács, gondnok |  | 2,2 |
 | Hivatalsegéd, takarító |  | 2,0 |

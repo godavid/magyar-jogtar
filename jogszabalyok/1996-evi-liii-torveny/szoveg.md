@@ -462,7 +462,7 @@ található.
 
 (2) Védett természeti területen vagy annak meghatározott részén a közlekedést és a tartózkodást, az (1) bekezdésben foglalt kivétellel – ha a védelem érdekei szükségessé teszik – a természetvédelmi hatóság korlátozhatja, illetve megtilthatja.
 
-(3) Védett természeti terület károsítása, veszélyeztetése vagy jogellenes zavarása esetén a természetvédelmi hatóság köteles az ilyen magatartás tanúsítóját a tevékenység folytatásától eltiltani.
+(3) Védett természeti terület károsítása, veszélyeztetése vagy jogellenes zavarása esetén a természetvédelmi hatóság köteles az ilyen magatartás tanúsítóját a tevékenység végzésétől eltiltani.
 
 (4) Védett természeti területen a hatáskörrel rendelkező hatóság – szükség esetén a természetvédelmi hatóság kezdeményezésére – építési, telekalakítási tilalmat, illetőleg egyéb, jogszabályban meghatározott használati korlátozást köteles elrendelni.
 
@@ -578,7 +578,7 @@ engedélyezésekor.
 
 (2) Elhullott, elejtett védett állat egyedét a megtalálónak – ha e törvény másként nem rendelkezik – az igazgatósághoz be kell jelentenie.
 
-(3) Védett állat- és növényfaj egyedének károsítása, veszélyeztetése vagy jogellenes zavarása esetén a természetvédelmi hatóság köteles az ilyen magatartás tanúsítóját a tevékenység folytatásától eltiltani. Amennyiben a védett egyedet károsító, veszélyeztető, zavaró tevékenységet más hatóság engedélye alapján végzik, a hatóság a természetvédelmi hatóság megkeresésére az engedélyezési eljárást ismételten lefolytatja. Az eljáró hatóság – amennyiben az nem a természetvédelmi hatóság – a tevékenység folytatását az eljárás végleges befejezéséig felfüggeszti.
+(3) Védett állat- és növényfaj egyedének károsítása, veszélyeztetése vagy jogellenes zavarása esetén a természetvédelmi hatóság köteles az ilyen magatartás tanúsítóját a tevékenység végzésétől eltiltani. Amennyiben a védett egyedet károsító, veszélyeztető, zavaró tevékenységet más hatóság engedélye alapján végzik, a hatóság a természetvédelmi hatóság megkeresésére az engedélyezési eljárást ismételten lefolytatja. Az eljáró hatóság – amennyiben az nem a természetvédelmi hatóság – a tevékenység folytatását az eljárás végleges befejezéséig felfüggeszti.
 
 (4) Rendszeresen hasznosított védett állatfaj állományának hosszú távú fenntartható hasznosítása érdekében a miniszter meghatározza az adott faj állománya hasznosításával kapcsolatos szabályokat.
 
@@ -971,6 +971,8 @@ a kárviselésre vonatkozó szabályok
 
 (2) Az előzetes szakhatósági állásfoglalás 30 napig használható fel.
 
+(3) A természetvédelmi hatóság az e törvény szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
+
 76/B. § (1) A végrehajtást foganatosító szerv a természetvédelmi hatóság, ha a döntésében meghatározott cselekmény végrehajtásának foganatosításához rendelkezik a végrehajtáshoz szükséges feltételekkel.
 
 (2) Ha a természetvédelmi hatóság által az (1) bekezdés szerint foganatosított végrehajtás nem vezetett eredményre, a természetvédelmi hatóság a végrehajtás foganatosítása érdekében megkeresi az állami adó- és vámhatóságot.
@@ -997,11 +999,11 @@ a kárviselésre vonatkozó szabályok
 
 (4) A természetvédelmi hatóság a jogellenesen szerzett, illetve birtokban tartott védett, továbbá az Európai Közösségben természetvédelmi szempontból jelentős természeti értéket – ha az nem áll állami tulajdonban – zár alá veszi és elkobozza. Ha a természeti érték állami tulajdonban áll, akkor azt a természetvédelmi hatóság zár alá veszi és az állam tulajdonosi jogait gyakorló szerv döntéséig az igazgatóság gondoskodik a megőrzéséről.
 
-(4a) A (4) bekezdés hatálya alá nem tartozó, a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok hatálya alá tartozó természeti érték zár alá vételére és elkobzására a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló kormányrendelet szabályait kell alkalmazni.
+(4a) A (4) bekezdés hatálya alá nem tartozó, a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok hatálya alá tartozó, jogellenes cselekménnyel érintett természeti érték – a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló kormányrendelet szerint – visszatartható, lefoglalható, zár alá vehető vagy elkobozható.
 
 (4b) A (4) és (4a) bekezdés hatálya kiterjed az ott meghatározott fajok bármely hibridjére is.
 
-(4c) Az e törvény szerinti elkobzás esetén a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény 4. § (2) bekezdése nem alkalmazható.
+(4c) Az e törvény szerinti elkobzás esetén a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 14. § (2) bekezdése nem alkalmazható.
 
 (5) Az elkobzott védett természeti értékek csak a miniszter által meghatározottak szerint használhatók fel.
 
@@ -1084,6 +1086,15 @@ természetvédelmi bírságot köteles fizetni.
 
 (5) A természetvédelmi bírság nem mentesít a büntetőjogi, a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, továbbá a helyreállításra vonatkozó kötelezettség teljesítése alól.
 
+(5a) Kizárt a figyelmeztetés alkalmazása, ha
+
+- a) védett természeti terület, Natura 2000 terület vagy védett természeti érték, barlang vagy az Európai Közösségben természetvédelmi szempontból jelentős faj egyedének károsítása, veszélyeztetése, elpusztítása következett be,
+- b) a tevékenység vagy a mulasztás által okozott körülmény védett élő szervezet, életközösség élőhelyét, illetve élettevékenységét jelentős mértékben zavarja,
+- c) a természetvédelmi hatósági engedélyköteles tevékenységet, vagy – a természetvédelmi hatóság szakhatósági közreműködési kötelezettségéhez, vagy a természetvédelmi szakkérdés vizsgálati kötelezettséghez kötött – más hatósági engedély-köteles tevékenységet engedély nélkül vagy az engedély természetvédelmi előírásaitól eltérően végezték, továbbá ha a természet védelmét szolgáló jogszabályi előírást érintő bejelentést, ellenőrzött bejelentést anélkül, vagy a tevékenység megkezdésére való jogosultság megnyílását megelőzően végezték, vagy
+- d) a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok előírásainak megszegésére kerül sor.
+
+(5b) A természetvédelmi hatóság, valamint a természetvédelmi őr a természetvédelmi bírság helyszíni bírságként történő kiszabására jogosult.
+
 (6) A természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat, valamint a bírság mértékét és megállapításának módját a Kormány állapítja meg.
 
 ### Idegenhonos inváziós fajokkal kapcsolatos bírság
@@ -1095,6 +1106,12 @@ természetvédelmi bírságot köteles fizetni.
 (3) Az inváziós bírság megfizetése nem mentesít az egyéb közigazgatási bírság megfizetése, valamint a tevékenység korlátozására, felfüggesztésére, megtiltására, továbbá a helyreállításra vonatkozó kötelezettség teljesítése alól.
 
 (4) Az inváziós bírság kiszabására a 10. § (4) bekezdése szerinti hatóság jogosult.
+
+(5) Az (1) bekezdés szerinti közigazgatási szabálysértés esetén a figyelmeztetés alkalmazása kizárt.
+
+(6) A 10. § (4) bekezdése szerinti hatóság jogosult az inváziós bírság helyszíni bírságként történő kiszabására.
+
+(7) Az inváziós bírsággal kapcsolatos elévülésre a 80. § (3) bekezdés rendelkezését kell alkalmazni.
 
 ### Polgári jogi felelősség
 
@@ -1142,7 +1159,7 @@ természetvédelmi bírságot köteles fizetni.
 - 8. a szolgáltatási megállapodás kivételével a természetvédelmi kártalanítás részletes szabályait;
 - 9. a természeti érték állagára, állapotára veszélyt jelentő tevékenységek, továbbá a védett területre, Natura 2000 területre veszélyes anyagok körét, valamint a biztosíték formáját és mértékét, felhasználásának feltételeit, elszámolásának és nyilvántartásának szabályait, továbbá a biztosítás szabályait;
 - 10. az egyes külön jogszabályokban meghatározott fajoknak és élőhelyeiknek, költő- és pihenőhelyeinek, természetes élőhelyeknek, védett természeti területeknek és védett természeti értékeknek a veszélyeztetése, károsodása esetén a károsodás mértéke megállapításának szempontjait, valamint a környezetkárosodás megelőzésének és helyreállításának rendjét;
-- 11. a természetvédelmi bírság mértékét és megállapításának módját;
+- 11. a természetvédelmi bírság mértékét és megállapításának módját, valamint a bírság megfizetésének részletszabályait;
 - 12. a természetvédelmi hatóság vagy hatóságok, illetve a védett természeti területek természetvédelmi kezeléséért felelős szerv vagy szervek kijelölését;
 - 13. a természetvédelmi eljárások során vizsgálandó szakkérdéseket és más hatósági eljárásban vizsgálandó természetvédelmi szakkérdéseket;
 - 14. az idegenhonos inváziós fajok egyedének az országba történő behozatalával, átszállításával, kivitelével, tartásával, szaporításával, termesztésbe, tenyésztésbe vonásával, keresztezésével, természetbe kijuttatásával, forgalomba hozatalával, értékesítésével, felhasználásával, kiirtásával, kezelésével, a vészhelyzeti intézkedésekkel, a korai észlelés és az invázió kezdeti szakaszában szükséges gyors kiirtással, a velük kapcsolatos felügyeleti és monitorozó rendszer felállításával és működtetésével, a bekerülési és terjedési útvonalaikra vonatkozó cselekvési tervek készítésével, elfogadásával és végrehajtásával, valamint a sérült ökológiai rendszerek helyreállításával kapcsolatos szabályokat;

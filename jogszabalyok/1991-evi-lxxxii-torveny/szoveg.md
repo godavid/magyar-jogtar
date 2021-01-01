@@ -69,7 +69,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### Az adó alapja
 
-6. § (1) Az adó alapja személyszállító gépjármű – ide nem értve az autóbuszt – hatósági nyilvántartásban feltüntetett teljesítménye, kilowattban kifejezve. Ha a hatósági nyilvántartásban a személyszállító gépjármű teljesítménye csak lóerőben van feltüntetve, akkor a lóerőben kifejezett teljesítményt 1,36-tal kell osztani, s az eredményt a kerekítés általános szabályai szerint egész számra kell kerekíteni. Ha a hatósági nyilvántartás a személyszállító gépjármű teljesítményét nem tartalmazza, akkor az adóhatóság a személyszállító gépjármű azonosító adataival megkeresi az illetékes közlekedési hatóságot a személyszállító gépjármű teljesítménye közlése végett. Ez esetben ezt az adatot kell a személyszállító gépjármű adóalapjának tekinteni.
+6. § (1) Az adó alapja személyszállító gépjármű – ide nem értve az autóbuszt – hatósági nyilvántartásban feltüntetett teljesítménye, kilowattban kifejezve. Ha a hatósági nyilvántartásban a személyszállító gépjármű teljesítménye csak lóerőben van feltüntetve, akkor a lóerőben kifejezett teljesítményt 1,36-tal kell osztani, s az eredményt a kerekítés általános szabályai szerint egész számra kell kerekíteni. Ha a hatósági nyilvántartás a személyszállító gépjármű teljesítményét nem tartalmazza, akkor az állami adó- és vámhatóság a személyszállító gépjármű azonosító adataival megkeresi az illetékes közlekedési hatóságot a személyszállító gépjármű teljesítménye közlése végett. Ez esetben ezt az adatot kell a személyszállító gépjármű adóalapjának tekinteni.
 
 (2) Az adó alapja az autóbusz, a lakókocsi, a lakópótkocsi hatósági nyilvántartásban feltüntetett saját tömege.
 
@@ -79,7 +79,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### Az adó mértéke
 
-7. § (1) Az adó mértéke a 6. § (1) bekezdése szerinti adóalap után a gépjármű
+7. § (1) Az adó mértéke a 6. § (1) bekezdése szerint megállapított adóalap után a gépjármű
 
 – gyártási évében és az azt követő 3 naptári évben 345 Ft/kilowatt,
 
@@ -110,21 +110,17 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 (5) Az adókedvezmény mértéke 30–60 járat teljesítése esetén a tehergépjármű után adóévre – az (1)–(2) bekezdés alapján megállapított – fizetendő adó 10%-a, 60 járat felett 20%-a. 2004. január 1-jétől az adókedvezmény mértéke 40 járat feletti teljesítés esetén a tehergépjármű után adóévre – az (1)–(2) bekezdés alapján megállapított – fizetendő adó 10%-a.
 
-(6) Az adóalany a kombinált áruszállítás után járó adókedvezmény iránti – fuvarokmánnyal igazolt – kérelmét az adóév július 1. napjától nyújthatja be a gépjármű adóztatására illetékes adóhatósághoz.
+(6) Az adóalany a kombinált áruszállítás után járó adókedvezmény iránti – fuvarokmánnyal igazolt – kérelmét az adóév július 1. napjától nyújthatja be az állami adó- és vámhatósághoz.
 
 (7) Az (5) bekezdés szerinti adókedvezmény csak azon tehergépjármű után jár, amely a kombinált szállítási útvonal vasúti vagy/és vízi szakaszát is igénybe vette.
 
 ### Az adó megállapítása és kezelése
 
-9. § (1) Gépjárműadóügyben az önkormányzati adóhatóság jár el első fokon. Az adóztatási feladatokat – a (3) bekezdésben foglalt kivétellel – az adóalany hatósági nyilvántartás címadat rovatába bejegyzett lakcíme, székhelye vagy telephelye szerint illetékes települési, a fővárosban a kerületi önkormányzati, a Margitsziget tekintetében pedig a Budapest XIII. kerületi önkormányzati adóhatóság (a továbbiakban együtt: adóhatóság) látja el. Ha a nyilvántartásban a lakcím, a székhely vagy a telephely megváltozik, az adóztatási feladatok ellátására a változást követő év első napjától az új lakcím, székhely vagy telephely szerint illetékes adóhatóság jogosult. Gépjármű tulajdonátruházása esetén, ha a tulajdonváltozással érintett felek egyike sem tesz eleget a külön jogszabály által meghatározott bejelentési kötelezettségének, akkor a tulajdonváltozás bejelentése évének utolsó napjáig a 2. § (1) bekezdése szerinti tulajdonos nyilvántartásba bejegyzett lakcíme, székhelye vagy telephelye szerinti önkormányzati adóhatóság az illetékes a tulajdonváltozással érintett gépjármű adóztatására.
+9. § (1) A gépjárműadóval kapcsolatos adóhatósági feladatokat az állami adó- és vámhatóság látja el.
 
-(2) Az (1) bekezdésben foglalt változások esetén a változást követő év első napjától esedékes adót kell az új cím szerint illetékes adóhatóságnál megfizetni.
+(2) Amennyiben az adóalany adótartozása az egy évi adótételt meghaladja, és a közúti közlekedési nyilvántartásban újabb, a 2. § (1) bekezdése szerinti adóalany nem szerepel, az állami adó- és vámhatóság kezdeményezheti a gépjárműnek a forgalomból való kivonását.
 
-(3) Az adóztatási feladatokat az ,,E'' és ,,P'' betűjelű ideiglenes rendszámtáblával ellátott gépjármű esetében a gépjárműre kiadott ideiglenes forgalomban tartási engedélyben, illetve ideiglenes forgalmi engedélyben megjelölt lakóhely, székhely (ideértve a fióktelepet is) szerint illetékes adóhatóság látja el.
-
-(4) Amennyiben az adóalany adótartozása az egy évi adótételt meghaladja, és a közúti közlekedési nyilvántartásban újabb adóalanyt [2. § (1) bek.] a közlekedési igazgatási hatóság nem tüntetett fel, az adóhatóság kezdeményezheti a gépjárműnek a forgalomból való kivonását.
-
-9/A. § Az önkormányzati adóhatóságnak nem kell határozatot hoznia, ha az adóalany az adóévben – az 5. § valamely rendelkezése alapján – mentes az adó alól. Az önkormányzati adóhatóság az adóévi adómentesség tényét a nyilvántartásában rögzíti.
+9/A. § Az állami adó- és vámhatóságnak nem kell határozatot hoznia, ha az adóalany az adóévben – az 5. § valamely rendelkezése alapján – mentes az adó alól. Az állami adó- és vámhatóság az adóévi adómentesség tényét a nyilvántartásában rögzíti.
 
 #### III.
 
@@ -251,7 +247,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### Az adó mértéke
 
-17/E. § Az adó havi mértéke személygépkocsinként, a személygépkocsi kW-ban kifejezett teljesítménye és környezetvédelmi osztály-jelzése alapján a következő:
+17/E. § Az adó havi mértéke személygépkocsinként, a személygépkocsi kilowattban kifejezett teljesítménye és környezetvédelmi osztály-jelzése alapján a következő:
 
 | gépjármű hajtómotorjának teljesítménye (kW) | Környezetvédelmi osztály-jelzés |  |  |
 | --- | --- | --- | --- |
@@ -263,13 +259,13 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### A kétszeres adóztatás kizárása
 
-17/F. § A negyedévre fizetendő adóból levonható a személygépkocsi után az adóalany terhére az önkormányzati adóhatóság által megállapított gépjárműadó. Levonásra a negyedév azon hónapjaira jutó gépjárműadó esetén van lehetőség, amelyben a személygépkocsi utáni cégautóadó- és gépjárműadó-kötelezettség egyaránt fennállt, feltéve, hogy az adóalany a gépjárműadó fizetési kötelezettségének határidőben eleget tett.
+17/F. § A negyedévre fizetendő adóból levonható a személygépkocsi után az adóalany terhére megállapított gépjárműadó. Levonásra a negyedév azon hónapjaira jutó gépjárműadó esetén van lehetőség, amelyben a személygépkocsi utáni cégautóadó- és gépjárműadó-kötelezettség egyaránt fennállt, feltéve, hogy az adóalany a gépjárműadó fizetési kötelezettségének határidőben eleget tett.
 
 ### Az adó megállapítása, bevallása, megfizetése, az eljáró hatóság
 
 17/G. § (1) Az adót az adó alanya önadózással állapítja meg.
 
-(2) Az adózó adómegállapítási, adóbevallási és adófizetési kötelezettségét – a (3) bekezdésben foglalt kivétellel – negyedévenként, a negyedévet követő hónap 20. napjáig teljesíti. A bevallást az állami adóhatósághoz, az általa rendszeresített nyomtatványon kell benyújtani.
+(2) Az adózó adómegállapítási, adóbevallási és adófizetési kötelezettségét – a (3) bekezdésben foglalt kivétellel – negyedévenként, a negyedévet követő hónap 20. napjáig teljesíti. A bevallást az állami adó- és vámhatósághoz, az általa rendszeresített nyomtatványon kell benyújtani.
 
 (3) Az öröklés útján megszerzett személygépkocsi után az adómegállapítási, adóbevallási és adófizetési kötelezettséget a hagyatékátadó végzés jogerőre emelkedésének negyedévét követő hónap 20. napjáig kell teljesíteni. A 17/D. § szerint mentes személygépkocsi adóját nem kell megállapítani, arról nem kell bevallást adni.
 
@@ -289,7 +285,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - 6. autóbusz: személyszállítás céljára készült, elektromos felsővezetékhez nem kötött gépjármű, amelyben a vezető ülésével együtt kilencnél több állandó ülőhely van,
 - 7. motorkerékpár: olyan gépjármű, amelynek két vagy három kereke van és a tervezési legnagyobb sebessége 45 km/óránál nagyobb, továbbá olyan négykerekű gépjármű, amelynek saját tömege legfeljebb 550 kg és motorteljesítménye nem haladja meg a 15 kilowattot,
 - 8. külföldön nyilvántartott az a gépjármű, amelynek forgalmi engedélyét és hatósági jelzését (rendszámát) nem magyar hatóság adta ki, kizárólag külföldön nyilvántartott gépjárművekből álló gépjárműszerelvény esetén az adó megállapítása a vontató honossága szerint történik, feltéve, ha nemzetközi egyezmény e kérdésben másként nem rendelkezik,
-- 9. környezetkímélő gépkocsi az a gépjármű, amely a KöHÉM rendelet 2015. július 1-jén hatályos 2. § (6) bekezdése szerint környezetkímélő gépkocsinak minősül,
+- 9. környezetkímélő gépkocsi az a gépjármű, amely a KöHÉM rendelet 2015. július 1-jén hatályos 2. § (6) bekezdése szerint környezetkímélő gépkocsinak minősül, valamint a környezetkímélő motorkerékpár,
 - 10. költségvetési szerv az állam, a helyi önkormányzat, a nemzetiségi önkormányzat és az államháztartásról szóló 2011. évi CXCV. törvény szerinti szerv,
 - 11. helyi és a helyközi tömegközlekedés lebonyolítását szolgálja a gépjármű (autóbusz), amellyel a vállalkozó kizárólag menetrendszerinti személyszállítást díjfizetés ellenében bárki által igénybe vehető módon végzi,
 - 12. súlyos mozgáskorlátozott vagy egyéb fogyatékossággal élő az a személy, aki a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet 2016. április 1-jén hatályos 2. § a) pontja szerint súlyos mozgáskorlátozottnak vagy 2. § h) pontja szerint egyéb fogyatékossággal élőnek minősül, és ezt a tényt az ott meghatározott szakvélemény, szakhatósági állásfoglalás, igazolás, hatósági határozat másolatával igazolja,
@@ -299,7 +295,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - 16. mezőgazdasági vontató: mezőgazdasági munka végzésére készült, de pótkocsi vontatására is alkalmas, rakfelület nélküli olyan jármű, amelyet beépített erőgép hajt, és sík úton önerejéből 25 km/óra sebességnél gyorsabban haladni képes,
 - 17. külföldön nyilvántartott gépjármű és pótkocsi üzembentartója azon személyek egyike, akinek a nevére a forgalmi engedélyt kiállították; vagy akit a jogi személy vagy más személyi egyesülés nevére kiállított forgalmi engedélyben a jogi személy vagy a személyi egyesülés mellett feltüntettek; vagy aki a járművet Magyarország területén használja; vagy aki azt az ország területéről kilépteti,
 - 18. gépjármű forgalomból való kivonásának minősül a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet szerinti forgalomból való kivonás,
-- 19. légrugós vagy azzal egyenértékű rugózási rendszerű gépjármű, pótkocsi: az a jármű, amelyik a Tanács 96/53/EK Irányelvének II. Melléklete szerinti légrugós vagy azzal egyenértékű rugózási rendszerrel rendelkezik. Amennyiben az önkormányzati adóhatóság az adómegállapítása során e tényt nem vette figyelembe, akkor az adóalany ezt a közlekedési hatóság által kiadott hatósági bizonyítvánnyal, az igazságügyi gépjármű-közlekedési műszaki szakértő szakvéleményével vagy „útkímélő tengely” bejegyzést tartalmazó forgalmi engedély bemutatásával igazolhatja,
+- 19. légrugós vagy azzal egyenértékű rugózási rendszerű gépjármű, pótkocsi: az a jármű, amelyik a Tanács 96/53/EK Irányelvének II. Melléklete szerinti légrugós vagy azzal egyenértékű rugózási rendszerrel rendelkezik. Amennyiben az állami adó- és vámhatóság az adómegállapítása során e tényt nem vette figyelembe, akkor az adóalany ezt a közlekedési hatóság által kiadott hatósági bizonyítvánnyal, az igazságügyi gépjármű-közlekedési műszaki szakértő szakvéleményével vagy „útkímélő tengely” bejegyzést tartalmazó forgalmi engedély bemutatásával igazolhatja,
 - 20. terhelhetőség (raksúly): a tehergépjármű esetében a hatósági nyilvántartásban feltüntetett megengedett legnagyobb össztömeg (összsúly) és a saját tömeg (önsúly) különbözete,
 - 21. kombinált árufuvarozás a tehergépjármű, (nyerges) pótkocsi, (vontató egységes vagy anélküli), csereszekrény vagy konténer (20 lábas vagy ennél nagyobb) az útvonal kezdő vagy záró szakaszát közúton, a másik légvonalban 100 kilométert meghaladó szakaszát pedig vasúton, belvízi járaton teszi meg,
 - 22. katasztrófa: elemi csapás, ipari szerencsétlenség vagy háborús esemény, amelynek során és következtében jelentős számú emberi élet kerül közvetlen veszélybe,
@@ -310,7 +306,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - 27. nyergesvontató: olyan vontató, amely a rajta levő nyeregszerkezet útján a vontatott félpótkocsi tömegének jelentős részét átveszi,
 - 28. hybrid meghajtású az a jármű, amely elektromos és hagyományos belső égésű motorral van ellátva.
 - 29. környezetvédelmi osztályjelzés: a KöHÉM rendelet 2014. augusztus 15-én hatályos 5. számú melléklet II. alpontja szerinti környezetvédelmi osztályjelzés. Ha a KöHÉM rendelet szerinti osztályjelzés nem ismert, akkor azt a személygépkocsi, tehergépjármű, autóbusz légszennyezési, zajkibocsátási adatait, környezetvédelmi osztályát meghatározó jellemzőjét (hajtómotorjának környezetvédelmi besorolása, a személygépkocsi meghajtása) hitelt érdemlően bizonyító iratai (pl.: forgalmi engedély, típusbizonyítvány, hatósági okirat, szakértői szakvélemény) alapján – a KöHÉM rendelet 5. számú melléklete II. alpontjára figyelemmel – kell megállapítani. Ha ez nem lehetséges, akkor a személygépkocsi osztályjelzése: „6”. Ha a személygépkocsi, tehergépjármű, autóbusz osztályjelzése a KöHÉM rendelet 2014. augusztus 15-ét követő módosítása miatt „16”-nál nagyobb szám, akkor azt úgy kell tekinteni, hogy a környezetvédelmi osztályjelzés „16” ,
-- 30.
+- 30. környezetkímélő motorkerékpár: az a tisztán elektromos motorkerékpár, amelynek a hajtáslánca legalább egy elektromos energiatároló eszközt, elektromos áram átalakító egységet, és olyan elektromos gépet tartalmaz, amely a motorkerékpár meghajtására szolgáló tárolt elektromos energiát mechanikai energiává alakítja és a motorkerékpár meghajtásához más erőforrással nem rendelkezik,
 - 31. pénzügyi lízing: a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerinti pénzügyi lízing.
 
 ### Átmeneti és vegyes rendelkezések
@@ -326,6 +322,21 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 19/A. § A Gjt. 2010. június 30-án hatályos 17/F. §-ában meghatározott feltételekkel és mértékben levonható a 2010. II. negyedévi cégautóadóból a nagy teljesítményű személygépkocsik adója.
 
 19/B. § E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 17/A. § (2) bekezdését, 17/B. § (1) bekezdését, 17/C. § (1)–(3) és (5) bekezdését és 18. § 30. pontját azon egy éven túli időszakra vagy határozatlan időre bérbe adott személygépkocsira kell alkalmazni, amely esetén a személygépkocsi bérletére vonatkozó szerződés 2013. június 30-át követően lép hatályba.
+
+19/C. § (1) Az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 9. § (1) bekezdést a 2020. december 31-ét követő időszakra eső gépjárműadó-kötelezettségre kell alkalmazni.
+
+(2) A 2021. január 1-jét megelőző időszakra eső gépjárműadó-kötelezettséggel összefüggő adóhatósági feladatokat a 2020. december 31-én hatályos 9. § alapján illetékes és az adózás rendjéről szóló 2017. évi CL. törvény 2020. december 31-én hatályos 141. § (2) bekezdése alapján hatáskörrel rendelkező önkormányzati adóhatóság látja el.
+
+(3) A 2020. december 31-ig terjedő időszakra eső gépjármű-adófizetési kötelezettség elmulasztása esetén az önkormányzati adóhatóság a 2020. december 31-én hatályos 9. § (4) bekezdés alapján eljárhat.
+
+(4) Ha a 2021. január 1-jét megelőző időszakra az önkormányzati adóhatóság, az önkormányzati adóhatóság felettes szerve vagy a bíróság a megfizetett adó visszatérítését rendeli el, akkor az önkormányzat a visszatérített gépjárműadó azon részét, amely a központi költségvetést illette meg, a központi költségvetésből a kincstár útján igényelheti vissza.
+
+(5) Az önkormányzati adóhatóság 2021. január 15-ig a helyi önkormányzatok feladatellátását támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást nyújtó, az állam által biztosított, elektronikus információs rendszeren keresztül adatot szolgáltat az állami adó- és vámhatóság számára az állami adó- és vámhatóság által meghatározott módon a nála 2020. december 31-én nyilvántartott,
+
+- a) 2020. december 31-én hatályos 5. § d), e), f), j) és k) pontja szerint adómentes gépjármű forgalmi rendszámáról és a gépjármű üzembentartójának, tulajdonosának azonosító adatairól, valamint a mentesség jogcíméről, továbbá – ha azok ismertek – a mentesség kezdő napjáról és megszűnésének napjáról,
+- b) annak a gépjárműnek a forgalmi rendszámáról, üzembentartójának, tulajdonosának azonosító adatairól, amelynek adófizetési kötelezettsége a 4. § (4) bekezdése alapján 2021. január 1-jén szünetel, továbbá az adófizetési kötelezettség szünetelésének kezdő napjáról.
+
+(6) Az (5) bekezdés szerinti adatszolgáltatás során a helyi önkormányzatok feladatellátását támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást nyújtó, az állam által biztosított, elektronikus információs rendszert működtető, valamint alkalmazásüzemeltetési és rendszertámogatási feladatait ellátó szerv kizárólag az adatszolgáltatással kapcsolatos technikai feladatokat – ideértve az adatok összesítését és az azokhoz való hozzáférés biztosítását – láthat el.
 
 ### Hatálybaléptető rendelkezések
 

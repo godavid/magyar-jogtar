@@ -442,7 +442,7 @@ teszi szükségessé.
 
 (5) Az állatotthonok létesítésére vonatkozó részletes szabályokat külön jogszabály állapítja meg.
 
-### VIII. Fejezet — AZ ÁLLATVÉDELMI FELADATOK PÉNZÜGYI FEDEZETE, AZ EBNYILVÁNTARTÁS, AZ EBRENDÉSZETI HOZZÁJÁRULÁS, AZ ÁLLATVÉDELMI BÍRSÁG
+### VIII. Fejezet — AZ ÁLLATVÉDELMI FELADATOK PÉNZÜGYI FEDEZETE, AZ EBNYILVÁNTARTÁS, AZ EBRENDÉSZETI HOZZÁJÁRULÁS
 
 42. § (1) Az e törvény szerinti állami feladatok ellátásának, valamint az önkormányzati feladatok támogatásának állami pénzügyi forrásai:
 
@@ -528,11 +528,43 @@ eb után.
 
 (8) A határidőre meg nem fizetett ebrendészeti hozzájárulás adók módjára behajtandó köztartozás.
 
+### VIII/A. Fejezet — INTÉZKEDÉSEK ÉS KÖZIGAZGATÁSI SZANKCIÓK
+
+42/D. § (1) A közigazgatási szankció kiszabása mellett, az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint az állatvédelmi hatóság
+
+- a) az ebtartót az eb közterületen való vezetésekor szigorúbb szabályok betartására kötelezheti,
+- b) az ebtartót az eb tartási körülményeinek megváltoztatására és szigorúbb tartási feltételek kialakítására kötelezheti,
+- c) az ebtartót az ebek viselkedésének megítélésében jártas szakértővel egyeztetett képzés elvégzésére kötelezheti,
+- d) elrendelheti az eb ivartalanítását,
+- e) az ebet veszélyesnek minősítheti,
+- f) elrendelheti az eb életének kioltását a 24/C. § szerinti esetekben,
+- g) működési engedélyt módosíthatja, visszavonhatja,
+- h) létesítményt vagy annak egy részét bezárathatja,
+- i) tartási engedélyt visszavonhatja,
+- j) az állatjóléti felelőst új képzés elvégzésére kötelezheti.
+
+(2) Ha az eb ismételten nyolc napon túl gyógyuló, vagy annál súlyosabb sérülést okozott embernek, a sérülés keletkezésének vizsgálata során az állatvédelmi hatóság az (1) bekezdés szerinti intézkedéssel élhet.
+
+(3) E § rendelkezései nem alkalmazhatóak
+
+- a) a Magyar Honvédségben, rendvédelmi szervben, nemzetbiztonsági szolgálatban, közfeladatot ellátó őrszolgálatban szolgáló ebek jogszerű alkalmazása esetén,
+- b) a magántulajdon védelmére irányuló hivatásos őrző-védő feladatot ellátó ebek jogszerű alkalmazására,
+- c) a vadászat során a vadnak sérülést okozó vadászebekkel összefüggésben.
+
+42/E. § (1) Az állatvédelmi hatóság, valamint természetvédelmi oltalom alatt álló, illetve a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló 1996. december 9-i 338/97/EK tanácsi rendelet hatálya alá tartozó, továbbá veszélyes állat esetében a természetvédelmi hatóság az állattartást legfeljebb egy évig megtilthatja.
+
+(2) Ha az állattartó a madarak kötelező zárt gyűrűs jelölésére vonatkozó rendelkezéseket megsérti, a természetvédelmi hatóság a madarat elkobozza.
+
+(3) Az (1) bekezdésben meghatározott szankció mellett a hatóság
+
+- a) az állattartót az állat megfelelő és biztonságos elhelyezése, valamint szökésének megakadályozása érdekében meghatározott építési munka elvégzésére kötelezheti,
+- b) az állatvédelmi és az állattartási szabályok megsértése esetén az állattartót meghatározott cselekmény végzésére, tűrésére vagy abbahagyására kötelezheti az állatok védelme érdekében.
+
 43. § (1) Aki tevékenységével vagy mulasztásával az állatok védelmére, kíméletére vonatkozó jogszabály vagy hatósági határozat előírását megsérti vagy annak nem tesz eleget, magatartásának súlyához, ismétlődéséhez, és különösen az állatnak okozott sérelem jellegéhez, időtartamához igazodó mértékű állatvédelmi bírságot köteles fizetni.
 
 (2) Az állatvédelmi bírságot az állatvédelmi hatóság szabja ki.
 
-(3) Az állatvédelmi bírság kiszabására az állatvédelmi hatóságnak az (1) bekezdésben meghatározott magatartásról történt tudomásszerzését követő egy éven túl nincs lehetősége. Az elkövetéstől számított öt éven túl nem szabható ki bírság, kivéve, ha a magatartás jogszerűtlen állapot fenntartásával valósul meg. Ebben az esetben az elévülés mindaddig nem kezdődik meg, amíg a jogszerűtlen állapot fennáll.
+(3)
 
 (4) A bírság megfizetése nem mentesít más jogkövetkezmények alól.
 

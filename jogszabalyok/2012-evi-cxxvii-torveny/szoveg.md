@@ -146,7 +146,7 @@ során.
 
 (2) A területi közgyűlés kizárólagos hatáskörébe tartozik:
 
-- a) a területi tisztségviselők, az etikai bizottság, a felügyelőbizottság és az oktatási bizottság, valamint egyéb állandó bizottság tagjainak a megválasztása,
+- a) a területi tisztségviselők, az országos elsőfokú etikai bizottság tagjának és póttagjának, a felügyelőbizottság és az oktatási bizottság, valamint egyéb állandó bizottság tagjainak a megválasztása,
 - b) a területi szervezet vezetősége (a továbbiakban: vezetőség) és a felügyelőbizottság éves beszámolójának az elfogadása,
 - c) a területi szervezet éves költségvetésének, valamint a költségvetés végrehajtásáról szóló beszámolónak az elfogadása,
 - d) minden olyan ügy, amelyet e törvény vagy az Alapszabály a közgyűlés hatáskörébe utal.
@@ -166,7 +166,7 @@ során.
 
 (3) A vezetőség az új vezetőség megválasztásáig látja el a feladatait. E rendelkezést megfelelően alkalmazni kell a 9. § (1), (2) és (4) bekezdésében szereplő szervek esetében.
 
-9. § (1) A területi közgyűlés az Alapszabályban meghatározott számú, legalább három tagból álló etikai bizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
+9. § (1) A területi közgyűlés az országos elsőfokú etikai bizottság egy tagját és egy póttagját titkos szavazással négy évre választja meg.
 
 (2) A területi közgyűlés az Alapszabályban meghatározott számú, legalább három tagból álló felügyelőbizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
 
@@ -174,7 +174,7 @@ során.
 
 (4) A területi közgyűlés az Alapszabályban meghatározott számú, legalább három tagból álló oktatási bizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
 
-(5) Az etikai bizottság, a felügyelőbizottság és az oktatási bizottság elnöke tisztségviselőként látja el feladatait.
+(5) A felügyelőbizottság és az oktatási bizottság elnöke tisztségviselőként látja el feladatait.
 
 (6) Az Alapszabály rendelkezhet a területi szervezeten belül egyéb szervek megalakításáról.
 
@@ -185,7 +185,7 @@ során.
 - a) az országos küldöttközgyűlésből (a továbbiakban: küldöttközgyűlés),
 - b) az országos elnökségből (a továbbiakban: elnökség),
 - c) az országos felügyelőbizottságból,
-- d) az országos etikai bizottságból,
+- d) az országos első- és másodfokú etikai bizottságból,
 - e) az országos oktatási bizottságból,
 - f) az Alapszabályban meghatározott egyéb állandó és eseti bizottságokból [b)–f) pont a továbbiakban együtt: országos ügyintéző szervek]
 
@@ -195,7 +195,7 @@ során.
 
 - a) a (3) bekezdésben meghatározott személyek,
 - b) az országos felügyelőbizottság elnöke,
-- c) az országos etikai bizottság elnöke,
+- c) az országos első- és másodfokú etikai bizottság elnöke,
 - d) az országos oktatási bizottság elnöke,
 - e) az Alapszabály szerint választott egyéb állandó bizottság elnöke.
 
@@ -213,7 +213,7 @@ során.
 (2) A küldöttközgyűlés kizárólagos hatáskörébe tartozik:
 
 - a) az Alapszabály, a szakmai irányelvek, a kamarai szabályzatok, valamint az etikai szabályzat megalkotása és módosítása,
-- b) az országos tisztségviselők, az országos etikai bizottság, az országos felügyelőbizottság és az országos oktatási bizottság, valamint egyéb országos állandó bizottság tagjainak a megválasztása,
+- b) az országos tisztségviselők, az országos másodfokú etikai bizottság, az országos felügyelőbizottság és az országos oktatási bizottság, valamint egyéb országos állandó bizottság tagjainak a megválasztása,
 - c) az elnökség és az országos felügyelőbizottság éves beszámolójának az elfogadása,
 - d) a Kamara éves költségvetésének, ennek részeként a kamarai tagsági díjnak, a tagsági díjból származó bevétel – a területi szervezet és az országos szervezet közötti – megosztása arányának, valamint a költségvetés végrehajtásáról szóló beszámolónak az elfogadása,
 - e) minden olyan ügy, amelyet e törvény vagy az Alapszabály a küldöttközgyűlés hatáskörébe utal.
@@ -244,7 +244,7 @@ során.
 
 (6) Az elnökség az új elnökség megválasztásáig látja el feladatait. E rendelkezést megfelelően kell alkalmazni a 13. §-ban szereplő szervek esetében.
 
-13. § (1) A küldöttközgyűlés az Alapszabályban meghatározott számú, legalább öt tagból álló országos etikai bizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
+13. § (1) A küldöttközgyűlés az Alapszabályban meghatározott számú, legalább öt tagból álló országos másodfokú etikai bizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
 
 (2) A küldöttközgyűlés az Alapszabályban meghatározott számú, legalább három tagból álló országos felügyelőbizottságot hoz létre, amelynek tagjait és elnökét titkos szavazással négy évre választja meg.
 
@@ -267,7 +267,7 @@ során.
 
 (4) A tisztségviselő azonos kamarai szervezeten belül egyidejűleg egy kamarai tisztséget tölthet be. A területi szervezet elnöke nem lehet egyidejűleg az országos szervezet elnöke, alelnöke vagy főtitkára.
 
-(5) A vezetőségnek, az elnökségnek, az etikai, az országos etikai, a felügyelő, az országos felügyelő, az oktatási, valamint az országos oktatási bizottságnak a tagjai nem lehetnek egymásnak a Polgári Törvénykönyv szerinti közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
+(5) A vezetőségnek, az elnökségnek, az országos első- és másodfokú etikai, a felügyelő, az országos felügyelő, az oktatási, valamint az országos oktatási bizottságnak a tagjai nem lehetnek egymásnak a Polgári Törvénykönyv szerinti közeli hozzátartozói és munkakörükben egymás alá- és fölérendeltjei.
 
 (6) A (2), (4) és (5) bekezdésben megjelölt összeférhetetlenségi ok fennállásáról az érintett a megválasztása előtt köteles nyilatkozni. Nyilatkozatában egyúttal vállalja, hogy megválasztása esetén harminc napon belül az összeférhetetlenségi okot megszünteti. Amennyiben az összeférhetetlenség a választást követően merül fel, az érintett az attól számított tizenöt napon belül köteles az összeférhetetlenséget megszüntetni. Az összeférhetetlenség megszüntetéséről az érintett a választására jogosult testületet haladéktalanul tájékoztatja.
 
@@ -292,11 +292,11 @@ során.
 
 - a) a területi szervezet esetén
   - aa) a megválasztására jogosult testület tagjainak legalább fele,
-  - ab) az etikai bizottság,
+  - ab)
   - ac) a felügyelőbizottság,
 - b) az országos szervezet esetén
   - ba) a megválasztására jogosult testület tagjainak legalább fele,
-  - bb) az országos etikai bizottság,
+  - bb) az országos másodfokú etikai bizottság,
   - bc) az országos felügyelőbizottság
 
 kezdeményezheti írásban, indokolással ellátva a megválasztásra jogosult testületnél vagy szervnél.
@@ -433,11 +433,15 @@ kezeli.
 
 25. § (1) Etikai vétséget követ el az a kamarai tag, aki a Kamara szakmai irányelveit, a Kamara etikai szabályzatában foglalt állatorvos-etikai szabályokat, az Alapszabályban és a Kamara más szabályzataiban foglalt kötelezettségeket, valamint a választott kamarai tisztségből eredő kötelezettségeket vétkes módon megszegi, vagy egyéb olyan vétkes magatartást tanúsít, amely az állatorvosi kar tekintélyét csorbítja.
 
-(2) Az etikai bizottság és az országos etikai bizottság a kifogásolt állatorvosi szolgáltatás szakmai tartalmát – különösen a szakmailag helyes diagnózist vagy helyes gyógykezelést – nem vizsgálja.
+(2) Az országos első- és másodfokú etikai bizottság a kifogásolt állatorvosi szolgáltatás szakmai tartalmát – különösen a szakmailag helyes diagnózist vagy helyes gyógykezelést – nem vizsgálja.
 
-(3) Elsőfokú etikai bizottságként a területi szervezet etikai bizottsága jár el. Fellebbezés esetén másodfokon az országos etikai bizottság jár el. Az etikai bizottság és az országos etikai bizottság elnöke és tagjai az etikai eljárás intézése során függetlenek, kizárólag a törvénynek vannak alárendelve és döntéseikkel kapcsolatban nem befolyásolhatók.
+(3) Elsőfokú etikai bizottságként az országos elsőfokú etikai bizottság jár el. Az országos elsőfokú etikai bizottság az elsőfokú etikai eljárás lefolytatására legalább három főből álló eseti etikai bizottságot (a továbbiakban: eseti etikai bizottság) hoz létre.
 
-(4) Etikai bizottság és országos etikai bizottság elnökeként és tagjaként az első- és másodfokú etikai eljárásban nem vehet részt az,
+(3a) Az országos elsőfokú etikai bizottság elnöke az országos elsőfokú etikai bizottság tagjai közül határozattal jelöli ki az eseti etikai bizottság tagjait és elnökét. Az etikai ügy tárgyalására létrehozott eseti etikai bizottságba ki kell jelölni az etikai eljárás alá vont kamarai tag szervezeti tagsága szerinti területi szervezet közgyűlése által megválasztott országos elsőfokú etikai bizottsági tagot, annak akadályoztatása esetén a megválasztott póttagot.
+
+(3b) Fellebbezés esetén másodfokon az országos másodfokú etikai bizottság jár el.
+
+(4) Az országos első- és másodfokú etikai bizottság elnökeként és tagjaként az első- és másodfokú etikai eljárásban nem vehet részt az,
 
 - a) aki ellen etikai eljárás folyik,
 - b) aki az a) pont alá eső személy Polgári Törvénykönyv szerinti közeli hozzátartozója, korábbi házastársa, korábbi bejegyzett élettársa, képviselője, ezen ügyben eljárt korábbi képviselője,
@@ -445,19 +449,19 @@ kezeli.
 
 (5) A másodfokú etikai eljárásban nem vehet részt az sem, aki az elsőfokú etikai eljárásban, illetve az elsőfokú eljárást lezáró határozat (a továbbiakban: elsőfokú határozat) meghozatalában részt vett.
 
-(6) Akivel szemben a (4) és (5) bekezdésben meghatározott kizárási ok áll fenn, köteles azt bejelenteni. Kizárási okot az eljárás alá vont és az etikai eljárást kezdeményező kamarai tag is az eljárás bármely szakaszában bejelenthet. A kizárási okot az eljáró etikai bizottság elnökének, az elnökkel szembeni kizárási okot az országos etikai bizottság elnökének, az országos etikai bizottság elnökével szembeni kizárási okot a Kamara elnökének kell bejelenteni, aki határoz az eljárásból való kizárás tárgyában, és kijelöli az etikai eljárásban részt vevő póttagot.
+(6) Akivel szemben a (4) és (5) bekezdésben meghatározott kizárási ok áll fenn, köteles azt bejelenteni. Kizárási okot az eljárás alá vont és az etikai eljárást kezdeményező kamarai tag is az eljárás bármely szakaszában bejelenthet. A kizárási okot az eljáró országos elsőfokú etikai bizottság elnökének, az országos első- és a másodfokú etikai bizottság elnökével szembeni kizárási okot a Kamara elnökének kell bejelenteni, aki határoz az eljárásból való kizárás tárgyában, és kijelöli az etikai eljárásban részt vevő póttagot.
 
 (7) A póttaggal szemben sem állhat fenn a (4) és (5) bekezdésben meghatározott kizárási ok. Tisztségviselő és országos, illetve területi ügyintéző szerv nem tisztségviselő tagja nem lehet póttag.
 
 26. § (1) Etikai vétség elkövetésének alapos gyanúja esetén vagy ha azt maga a kamarai tag kéri, etikai eljárást kell lefolytatni.
 
-(2) Az etikai eljárás megindítását bárki kezdeményezheti. Az etikai bizottság hivatalból megindítja az etikai eljárást, ha etikai vétség elkövetéséről szerez tudomást.
+(2) Az etikai eljárás megindítását bárki kezdeményezheti. Az országos elsőfokú etikai bizottság hivatalból megindítja az etikai eljárást, ha etikai vétség elkövetéséről szerez tudomást.
 
 (3)
 
-(4) Az etikai eljárást a megindításától számított harminc napon belül le kell folytatni. Az eljáró etikai bizottság egyszer legfeljebb harminc nappal meghosszabbíthatja az etikai eljárást, ha a bizonyítási eljárás lefolytatása ezt indokolttá teszi. Az etikai eljárás megindítását az eljáró etikai bizottság haladéktalanul közli az eljárás alá vont kamarai taggal.
+(4) Az etikai eljárást a megindításától számított harminc napon belül le kell folytatni. Az eljáró eseti etikai bizottság egyszer legfeljebb harminc nappal meghosszabbíthatja az etikai eljárást, ha a bizonyítási eljárás lefolytatása ezt indokolttá teszi. Az etikai eljárás megindítását az eljáró eseti etikai bizottság haladéktalanul közli az eljárás alá vont kamarai taggal.
 
-(5) Az etikai bizottság nem indíthatja meg az etikai eljárást az etikai vétség tudomására jutásától számított kilencven napon túl, valamint akkor sem, ha a vétség elkövetése óta már három év eltelt.
+(5) Az országos elsőfokú etikai bizottság nem indíthatja meg az etikai eljárást az etikai vétség tudomására jutásától számított kilencven napon túl, valamint akkor sem, ha a vétség elkövetése óta már három év eltelt.
 
 27. § (1) Ha az etikai vétségnek is minősülő ügyben az etikai eljárás megindítása előtt büntető- vagy szabálysértési eljárás indult, a kilencvennapos határidő a szabálysértési eljárásban hozott jogerős határozat, illetve a büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának a területi szervezettel történt közlésétől, a hároméves határidő pedig a szabálysértési eljárás jogerős befejezésétől, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától számít.
 
@@ -472,7 +476,7 @@ kezeli.
 - c) az etikai eljárás alá vont kamarai tag etikai eljárás tárgyává tett cselekményét már jogerősen elbírálták,
 - d) az etikai eljárás alá vont kamarai tag tagsági jogviszonya megszűnik.
 
-(5) Állat-egészségügyi szolgáltató tevékenységet folytató gazdasági társaság, szövetkezet vagy más szervezet a területi etikai bizottság vagy az országos etikai bizottság írásbeli felkérésére köteles megnevezni azt a kamarai tagot, aki etikai felelősséget visel a társaság vagy szervezet állat-egészségügyi szolgáltató tevékenységével közvetlenül összefüggő egyéb tevékenységéért, különösen hirdetések, céges és tájékoztató táblák tartalmáért és elhelyezéséért.
+(5) Állat-egészségügyi szolgáltató tevékenységet folytató gazdasági társaság, szövetkezet vagy más szervezet az országos első- vagy másodfokú etikai bizottság írásbeli felkérésére köteles megnevezni azt a kamarai tagot, aki etikai felelősséget visel a társaság vagy szervezet állat-egészségügyi szolgáltató tevékenységével közvetlenül összefüggő egyéb tevékenységéért, különösen hirdetések, céges és tájékoztató táblák tartalmáért és elhelyezéséért.
 
 28. § (1) Az etikai eljárás alá vont kamarai tag
 
@@ -486,7 +490,7 @@ kezeli.
 
 (2) Az etikai eljárás alá vont kamarai tag képviselője jogosult az (1) bekezdés b)–f) pontjában foglaltak megtételére.
 
-(3) Az elsőfokú etikai eljárásban a tényállás megállapításához szükséges tények és körülmények vizsgálata és tisztázása érdekében tárgyalás tartása kötelező. A másodfokú eljárásban az országos etikai bizottság tárgyalást tart, ha azt az elsőfokú eljárásban nem ismert tények és körülmények vizsgálata vagy már az elsőfokú eljárásban ismert tények és körülmények további vizsgálata szükségessé teszi.
+(3) Az elsőfokú etikai eljárásban a tényállás megállapításához szükséges tények és körülmények vizsgálata és tisztázása érdekében tárgyalás tartása kötelező. A másodfokú eljárásban az országos másodfokú etikai bizottság tárgyalást tart, ha azt az elsőfokú eljárásban nem ismert tények és körülmények vizsgálata vagy már az elsőfokú eljárásban ismert tények és körülmények további vizsgálata szükségessé teszi.
 
 (4) Az eljárás alá vont kamarai tagot az eljáró etikai bizottság a tárgyalásra megidézi. Az idézés tartalmazza az etikai eljárás tárgyává tett cselekmény megnevezését, a tárgyalás helyét, idejét és a távolmaradás jogkövetkezményeire való figyelmeztetést.
 
@@ -510,9 +514,9 @@ kezeli.
 
 (4) Az indokolással ellátott eljárást lezáró határozatot annak meghozatalától számított tizenöt napon belül kézbesíteni kell az eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos részére.
 
-30. § (1) Az elsőfokú határozat ellen az etikai eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos az elsőfokú határozat közlésétől számított tizenöt napon belül fellebbezést nyújthat be az eljáró etikai bizottságnál, amely a másodfokú eljárás lefolytatása érdekében az ügy összes rendelkezésre álló iratát megküldi az országos etikai bizottságnak.
+30. § (1) Az elsőfokú határozat ellen az etikai eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos az elsőfokú határozat közlésétől számított tizenöt napon belül fellebbezést nyújthat be az eljáró elsőfokú etikai bizottságnál, amely a másodfokú eljárás lefolytatása érdekében az ügy összes rendelkezésre álló iratát megküldi az országos másodfokú etikai bizottságnak.
 
-(2) Az országos etikai bizottság az elsőfokú etikai bizottság határozatát
+(2) Az országos másodfokú etikai bizottság az elsőfokú etikai bizottság határozatát
 
 - a) helybenhagyja és a fellebbezést elutasítja, ha a rendelkezésre álló iratok alapján a tényállást tisztázottnak és az elsőfokú etikai bizottság határozatát helyénvalónak ítéli meg,
 - b) megváltoztatja, ha az iratok alapján a tényállást tisztázottnak találja, de az arra alapozott állásfoglalást tévesnek ítéli meg,

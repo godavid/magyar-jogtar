@@ -151,7 +151,7 @@ a következő törvényt alkotja:
 
 10/A. § (1) A Nemzeti Tudománypolitikai Tanács (a továbbiakban: NTT) az NKFI Alap működésének szakmai felügyeletében közreműködő és a Kormány kutatás-fejlesztési és innovációs tevékenységét támogató véleményező testület.
 
-(2) Az NTT 11 tagból áll. Az NTT elnöke a tudománypolitika koordinációjáért felelős miniszter. Az NTT tagjait és társelnökét a miniszterelnök kéri fel és nevezi ki. Az NTT tagjaira, társelnökére az elnök tesz javaslatot a hazai állami, gazdasági és tudományos szféra meghatározó szereplői közül a következők szerint: három tagot a gazdasági szféra, három tagot a tudományos szféra és három tagot az állami szféra szereplői közül kell kinevezni.
+(2) Az NTT 12 tagból áll. Az NTT elnöke a tudománypolitika koordinációjáért felelős miniszter. Az NTT társelnökét és további tagjait – az elnök javaslatára – a miniszterelnök kéri fel, nevezi ki és vonja vissza kinevezésüket. A kinevezés három évre szól és több alkalommal meghosszabbítható. A kinevezett tagokat a hazai állami, gazdasági és tudományos szféra meghatározó szereplői közül kell kiválasztani a következők szerint: három tagot a gazdasági szféra, négy tagot a tudományos szféra és három tagot az állami szféra szereplői közül, egy tagot pedig az Eötvös Loránd Kutatási Hálózat (a továbbiakban: ELKH) tagjai közül kell kinevezni.
 
 10/B. § Az NTT
 
@@ -588,7 +588,7 @@ használható fel.
 
 #### 13/A. Az Eötvös Loránd Kutatási Hálózat szervezete
 
-42/A. § Az Eötvös Loránd Kutatási Hálózat (a továbbiakban: ELKH) az ELKH Titkárságából, valamint az általa központi költségvetési szervként vagy gazdasági társaságként működtetett kutatóközpontokból, kutatóintézetekből és kutatócsoportokból (a továbbiakban együtt: kutatóhelyek) áll.
+42/A. § Az ELKH az ELKH Titkárságából, valamint az általa központi költségvetési szervként vagy gazdasági társaságként működtetett kutatóközpontokból, kutatóintézetekből és kutatócsoportokból (a továbbiakban együtt: kutatóhelyek) áll.
 
 #### 13/B. Az Eötvös Loránd Kutatási Hálózat Titkársága
 
@@ -603,6 +603,8 @@ használható fel.
 (5) A (3) bekezdés szerinti közfeladat ellátásához szükséges működés feltételeit az ELKH Titkárság – és a 46. § (1) bekezdésben meghatározott vagyonelemek erejéig a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény (a továbbiakban: MTA tv.) 3. § (1a) bekezdésben meghatározott feladata keretei között az MTA – biztosítja.
 
 (6) A Kormány ELKH-val és az ELKH Titkársággal kapcsolatos feladata a kutatás-fejlesztés és innováció közfinanszírozású támogatásához való hozzáférés elősegítése, a rendelkezésre álló többletforrások, az egységes szerkezetű finanszírozás hatékony felhasználási feltételeinek a biztosítása.
+
+(7) Az ELKH Titkárság feladatkörében véleményt nyilvánít a közfeladatához kapcsolódó kormányzati stratégiai tervdokumentumokról és véleményezési jogot gyakorol a közfeladatát érintő jogszabályok megalkotása és módosítása során.
 
 #### 13/C. Az ELKH Titkárság szervezete
 
@@ -626,6 +628,7 @@ használható fel.
 - 12. jóváhagyja az ELKH Titkárság és a kutatóhelyek előző évről szóló éves költségvetési beszámolóját;
 - 13. megvitatja az Országgyűlés és a Kormány számára készülő elnöki beszámolók koncepcióját;
 - 14. az Alaptörvény X. cikk (2) bekezdését nem sértve véleményt nyilvánít a hazai tudomány és a társadalom koncepcionális kérdéseiről;
+- 14a. a kiemelkedő tudományos eredményeket elérő kutatók részére az ELKH Titkárság forrásaiból tudományos ösztöndíjat, díjakat, címeket alapíthat, díjkitűzést tehet, amelynek feltételeit és részletes rendjét szabályzatban állapítja meg;
 - 15. ellátja az alapító okirat által hatáskörébe utalt feladatokat.
 
 (4) Az Irányító Testület legalább negyedévente ülésezik, működésének részletes szabályait a szervezeti és működési szabályzat keretei között ügyrendjében állapítja meg azzal, hogy az Irányító Testület szavazásra jogosult tagjai többségének támogató szavazata szükséges a (3) bekezdés 2., 3., 5., és 10. pontja szerinti döntésekhez.
@@ -672,6 +675,8 @@ felett;
 
 (2) A kutatóhelyek az alapító okiratukban foglaltaknak megfelelően ellátják közfeladataikat és egyéb tevékenységet is végezhetnek. Tevékenységüket az elnyert pályázataik és megkötött szerződéseik, továbbá az alapító okiratuk keretei között maguk határozzák meg. A kutatóhelyek közfeladataikat nem veszélyeztető módon vállalkozási tevékenység végzésére jogosultak.
 
+(2a) A kutatóhálózathoz tartozó központi költségvetési szervek vállalkozási tevékenységet is folytathatnak. Ha a tevékenység eredményét közfeladataik ellátására vagy azokat segítő beruházásokra a tárgyévet követő két éven belül felhasználják, ezt az összeget az Áht. 46. § (3) bekezdése szerinti befizetési kötelezettség nem terheli.
+
 (3) A kutatóhelyek a szakterületükön részt vesznek szakmai állásfoglalás és vélemény kidolgozásában, gondoskodnak kutatóik szakmai fejlődéséről és szakmai utánpótlás biztosításáról, továbbá a felsőoktatási intézményekkel kötött megállapodások szerint közreműködnek az oktatásban, kutatásban és doktori képzésekben.
 
 (4) A kutatóközpont, vagy kutatóintézet érintett szervezeti egysége legfőbb testületi döntéshozó szerve tagjai támogatásával, vagy ennek hiányában a szervezeti egység vezetőjének indokolt javaslatával az Irányító Testületnél kezdeményezheti a szervezeti egység szervezeti átalakítását, kiválását és másik kutatóközponthoz, vagy kutatóintézethez, felsőoktatási intézményhez való csatlakozását, illetve a kiválást követő önálló működtetését.
@@ -698,9 +703,9 @@ felett;
 
 (3) Az ELKH Titkárságán foglalkoztatottak jogviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni.
 
-(4) Kutatóhelyeknél foglalkoztatottak jogviszonyára a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), valamint az Mt. rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni. A Kjt. határozott idejű jogviszony létesítésére vonatkozó rendelkezését azzal az eltéréssel kell alkalmazni, hogy a 2. mellékletben foglalt központi költségvetési szerv közfeladatának ellátása során azonos foglalkoztatottra vonatkozóan egy alkalommal legfeljebb három év határozott időtartamra tudományos kutatói közalkalmazotti jogviszonyt létesíthet a Kjt. 21. § (2) bekezdésében felsorolt kivételi eseteken túlmenően. A Kjt.-ben meghatározott, a büntetlen előéletre és a foglalkoztatástól eltiltás hiányára vonatkozó feltételt nem kell igazolni, ha a kizáró ok hiányát a 2. mellékletben foglalt köztestületi vagy központi költségvetési szervvel létesített korábbi megbízási vagy foglalkoztatási jogviszonyára tekintettel a foglalkoztatni kívánt személy már igazolta, és a korábbi jogviszony megszűnése óta legfeljebb hat hónap telt el.
+(4) A kutatóhelyeknél foglalkoztatottak jogviszonyára az Mt. rendelkezéseit kell alkalmazni.
 
-(5) Az ELKH szervezetében foglalkoztatottak számára keresetkiegészítés állapítható meg.
+(5)
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -713,7 +718,7 @@ felett;
 - c) a hazai közfinanszírozású támogatással megvalósuló kutatás-fejlesztési és innovációs projektek nyilvántartásával kapcsolatos részletes rendelkezéseket,
 - d) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációját, valamint a kutatási megállapodásra vonatkozó követelményeket,
 - e) az egyes tevékenységek kutatás-fejlesztési szempontú minősítése iránti eljárás részletes szabályait,
-- f) a Nemzeti Tudománypolitikai Tanács működésének részletes szabályait,
+- f)
 - g) a kutatóhely költségvetési szervnél vendégkutatóként történő foglalkoztatás további szabályait.
 
 (2) Felhatalmazást kap az SZTNH felügyeletét ellátó miniszter, hogy – az adópolitikáért felelős miniszter egyetértésével és az SZTNH elnöke véleményének kikérésével – rendeletben állapítsa meg a kutatás-fejlesztési tevékenység minősítése iránti eljárásban fizetendő igazgatási szolgáltatási díjak mértékét, valamint az igazgatási szolgáltatási díjak kezelésére, felhasználására, nyilvántartására, visszafizetésére, továbbá a megfizetésük módjára vonatkozó részletes szabályokat.
@@ -728,17 +733,11 @@ felett;
 
 #### 16. Átmeneti rendelkezések
 
-45. § (1) A 2. mellékletben felsorolt köztestületi költségvetési szervek központi költségvetési szervként működnek tovább az ELKH Titkárság irányítása és alapítói joggyakorlása mellett.
+#### 45. §
 
-(2) A működési forma és az irányító szerv személyének, valamint az intézmények címrendi besorolásának változása a kutatóhelyek jogalanyiságát nem érinti, a 2. melléklet szerinti központi költségvetési szervek az ott felsorolt köztestületi költségvetési szervek valamennyi jogát és kötelezettségét folytatólagosan gyakorolják. A működési forma jelen bekezdés szerinti változása nem minősül az Áht. 11. § (2) bekezdése szerinti átalakulásnak, valamint arra az Áht. 11. § (5)–(6) bekezdései nem alkalmazhatók.
+46. § (1) Eltérő megállapodás hiányában a kutatóintézeti hálózat, kutatóintézetek működtetését szolgáló, a Magyar Tudományos Akadémia tulajdonában a kutatóhelyek használatában lévő vagyonelemeknek ingyenes használatba bocsátását – a 42/B. § (5) bekezdésének megfelelően – az MTA biztosítja. Az ingyenes használat körébe tartozó vagyonelem, ingatlan használója azt rendeltetésének megfelelően köteles használni, üzemeltetni, karbantartani, gondoskodni az állagmegóvásról, köteles az állagmegóváson túl jelentkező rekonstrukciós, fejlesztési költségeket, közterheket, költségeket, díjakat viselni, valamint gondoskodni a vagyonvédelemről.
 
-(3) A (2) bekezdés szerinti működési formaváltás a köztestületi költségvetési szervvel szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással szerződésszegési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
-
-(4) A (2) bekezdés szerinti működési formaváltás a köztestületi költségvetési szerv mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonyát nem érinti, a köztestületi költségvetési szervekre irányadó foglalkoztatási szabályok a 2. mellékletben foglalt központi költségvetési szervekre nézve is kötelezően alkalmazandók.
-
-46. § (1) Eltérő megállapodás hiányában a 2. melléklet szerinti központi költségvetési szervek elhelyezését, valamint a kutatóintézeti hálózat működtetését szolgáló, a Magyar Tudományos Akadémia tulajdonában és ezen kutatóhelyek használatában lévő vagyonelemeknek ingyenes használatba bocsátását – a 42/B. § (5) bekezdésének megfelelően – az MTA biztosítja. Az ingyenes használat körébe tartozó vagyonelem, ingatlan használója azt rendeltetésének megfelelően köteles használni, üzemeltetni, karbantartani, gondoskodni az állagmegóvásról, köteles az állagmegóváson túl jelentkező rekonstrukciós, fejlesztési költségeket, közterheket, költségeket, díjakat viselni, gondoskodni a vagyonvédelemről.
-
-(2) Eltérő megállapodás hiányában a 2. mellékletben felsorolt kutatóhelyek üzemeltetési feladatait a Magyar Tudományos Akadémia Létesítménygazdálkodási Központ a kutatóhelyek irányítószerv váltását követően is 2021. december 31-ig folytatólagosan biztosítja.
+(2) Eltérő megállapodás hiányában a kutatóintézetek üzemeltetési feladatait a Magyar Tudományos Akadémia Létesítménygazdálkodási Központ 2021. december 31-ig folytatólagosan biztosítja.
 
 (3) A központi költségvetési szervek (1) bekezdés szerinti elhelyezése, valamint a hivatkozott vagyonelemek (1) bekezdés szerinti rendelkezésre bocsátása nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerinti szolgáltatásnyújtásnak.
 
@@ -786,11 +785,11 @@ vonatkozó szabályait kell alkalmazni.
 
 50. § (1) Az Országgyűlés 2019. augusztus 1. napjával központi költségvetési szervként létrehozza az ELKH Titkárságot. Az ELKH Titkárság Alapító Okiratát az Országgyűlés elnöke adja ki, a törzskönyvi nyilvántartásba vételt a Magyar Államkincstár 30 napon belül elvégzi.
 
-(2) A 42/A. §-ban, a 42/E. §-ban, a 42/F. §-ban, a 42/H. §-ban, és a 42/I. §-ban foglaltakat 2019. szeptember 1. napjától kell alkalmazni.
+(2)
 
-(3) A 42/C. § (2) bekezdése szerinti javaslattételre, illetve a 42/D. § (1) bekezdése szerinti közös javaslatra tekintettel történő kinevezés megtörténtéig a miniszterelnök által az Irányító Testület elnöki feladataival átmeneti jelleggel megbízott személy gyakorolja az Irányító Testület és annak elnökének hatáskörét.
+(3)
 
-(4) A főtitkár és a főtitkárhelyettes 42/C. § (3) bekezdés 1. pontja szerinti megválasztásáig az Irányító Testület által megbízott személy az ügyviteli feladatok tekintetében átmeneti jelleggel gyakorolja a főtitkár és a főtitkárhelyettes hatáskörét.
+(4)
 
 #### 18. Hatályon kívül helyező rendelkezések
 
@@ -817,25 +816,3 @@ vonatkozó szabályait kell alkalmazni.
 - 15. ha jogszabály vagy jogszabály felhatalmazása alapján jogosult döntése szerint a fenti adatok közül bármelyik nem hozható nyilvánosságra, akkor a korlátozó dokumentum azonosítója, a korlátozás jogcíme, a nyilvánosság korlátozásának időpontja, valamint a nyilvánosságra nem hozható adatok.
 
 ### 2. melléklet a 2014. évi LXXVI. törvényhez
-
-#### A 45. § (1) és (2) bekezdés szerinti működési formaváltással érintett köztestületi költségvetési szervek és a működési forma megváltozását követően működő központi költségvetési szervek
-
-|  | A | B |
-| --- | --- | --- |
-| 1. | Köztestületi költségvetési szervek | Központi költségvetési szervek |
-| 2. | MTA Agrártudományi Kutatóközpont | Agrártudományi Kutatóközpont |
-| 3. | MTA Atommagkutató Intézet | Atommagkutató Intézet |
-| 4. | MTA Bölcsészettudományi Kutatóközpont | Bölcsészettudományi Kutatóközpont |
-| 5. | MTA Csillagászati és Földtudományi Kutatóközpont | Csillagászati és Földtudományi Kutatóközpont |
-| 6. | MTA Energiatudományi Kutatóközpont | Energiatudományi Kutatóközpont |
-| 7. | MTA Kísérleti Orvostudományi Kutatóintézet | Kísérleti Orvostudományi Kutatóintézet |
-| 8. | MTA Közgazdaság- és Regionális Tudományi Kutatóközpont | Közgazdaság- és Regionális Tudományi Kutatóközpont |
-| 9. | MTA Nyelvtudományi Intézet | Nyelvtudományi Intézet |
-| 10. | MTA Ökológiai Kutatóközpont | Ökológiai Kutatóközpont |
-| 11. | MTA Rényi Alfréd Matematikai Kutatóintézet | Rényi Alfréd Matematikai Kutatóintézet |
-| 12. | MTA Számítástechnikai és Automatizálási Kutatóintézet | Számítástechnikai és Automatizálási Kutatóintézet |
-| 13. | MTA Szegedi Biológiai Kutatóközpont | Szegedi Biológiai Kutatóközpont |
-| 14. | MTA Társadalomtudományi Kutatóközpont | Társadalomtudományi Kutatóközpont |
-| 15. | MTA Természettudományi Kutatóközpont | Természettudományi Kutatóközpont |
-| 16. | MTA Wigner Fizikai Kutatóközpont | Wigner Fizikai Kutatóközpont |
-| 17. | MTA Támogatott Kutatócsoportok Irodája | Támogatott Kutatócsoportok Irodája |

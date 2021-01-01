@@ -208,7 +208,7 @@ hívja össze.
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 - f) aki büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádas eljárást – hatálya alatt áll,
-- g) akit ügyészként, bíróként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, vagy rendvédelmi alkalmazottjaként igazságügyi alkalmazottként, alügyészként és fogalmazóként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+- g) akit ügyészként, bíróként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, vagy rendvédelmi alkalmazottjaként, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottként igazságügyi alkalmazottként, alügyészként és fogalmazóként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 - h) aki külön törvényben szabályozott vagyonnyilatkozat-tételi kötelezettségét megszegte.
 
 (4a) Nem nevezhető ki ügyésznek az a személy,
@@ -1432,7 +1432,14 @@ megfelelő beosztási pótlék illeti meg.
 
 #### 118. §
 
-119. § Az alügyészre és az ügyészségi fogalmazóra a 69. § és a 72–76. § rendelkezéseit is megfelelően alkalmazni kell. A 70. §-t azzal az eltéréssel kell alkalmazni, hogy a jubileumi jutalomra jogosító idő számításának kezdő időpontját a kinevezési okiratban fel kell tüntetni.
+119. § Az alügyészre és az ügyészségi fogalmazóra a 69. § és a 72–76. § rendelkezéseit is megfelelően alkalmazni kell. A 70. §-t azzal az eltéréssel kell alkalmazni, hogy a jubileumi jutalomra jogosító idő számításának kezdő időpontját a kinevezési okiratban fel kell tüntetni. A 73. §-t azzal az eltéréssel kell alkalmazni, hogy az alügyész és az ügyészségi fogalmazó részére cafetéria juttatás is biztosítható.
+
+119/A. § (1) Az ügyészség éves költségvetésében biztosított előirányzatoktól függően a nyugállományú alügyész és ügyészségi fogalmazó részére szociális és temetési segély, az alügyész és ügyészségi fogalmazó közeli hozzátartozója és a nyugállományú alügyész és ügyészségi fogalmazó közeli hozzátartozója részére temetési segély adható.
+
+(2) E § alkalmazásában
+
+- a) közeli hozzátartozó: a Polgári Törvénykönyv szerinti közeli hozzátartozó,
+- b) nyugállományú alügyész és ügyészségi fogalmazó: a nyugállományba vonulását közvetlenül megelőzően az ügyészségnél szolgálati jogviszonyban állt alügyész és ügyészségi fogalmazó.
 
 120. § (1) Az alügyészt és az ügyészségi fogalmazót évi huszonöt munkanap alapszabadságból és a (2) bekezdés szerinti pótszabadságból álló rendes szabadság illeti meg.
 
@@ -1474,7 +1481,7 @@ lehet gyakorolni.
 
 (10) Az alügyész és az ügyészségi fogalmazó végkielégítésre e törvénynek az ügyészekre vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal az eltéréssel, hogy
 
-- a) ha az alügyész és az ügyészségi fogalmazó ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, a Kttv. 1. és 2. §-ában, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
+- a) ha az alügyész és az ügyészségi fogalmazó ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, adó- és vámhatósági szolgálati jogviszonyt, a Kttv. 1. és 2. §-ában, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
   - aa) ezt a tényt korábbi munkáltatójának haladéktalanul írásban bejelenti, és
   - ab) vállalja, hogy a végkielégítés összegének az új jogviszony létesítéséig a tíz hónapból hátralévő idővel arányos mértékét visszafizeti;
 - b) a végkielégítés mértéke tízhavi illetménynek megfelelő összeg, ha az ügyészségi szolgálati viszony ideje legalább huszonöt év,
@@ -1603,7 +1610,7 @@ feltéve, hogy az új szolgálati hely, illetve munkakör a tisztviselőre, írn
 - b) a határozott időre létesített ügyészségi szolgálati viszony felmentéssel a 36. § (1)–(4) bekezdésében meghatározott feltételek hiányában is megszüntethető, ha a munkáltató a határozott időből még hátralévő időre jutó, de legfeljebb egyévi átlagilletményét a tisztviselőnek, írnoknak, fizikai alkalmazottnak előre megfizeti;
 - c) a tisztviselő, írnok, fizikai alkalmazott ügyészségi szolgálati viszonyát felmentéssel kell megszüntetni a 128/A. § (2) bekezdésében meghatározott kérelmére;
 - d) a tisztviselő, az írnok és a fizikai alkalmazott lemondási ideje két hónap;
-- e) ha a tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, a Kttv. 1. és 2. §-ában, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
+- e) ha a tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, adó- és vámhatósági szolgálati jogviszonyt, a Kttv. 1. és 2. §-ában, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
   - ea) ezt a tényt korábbi munkáltatójának haladéktalanul írásban bejelenti, és
   - eb) vállalja, hogy a végkielégítés összegének az új jogviszony létesítéséig a tíz hónapból hátralévő idővel arányos mértékét visszafizeti;
 - f) a végkielégítés mértéke tízhavi illetménynek megfelelő összeg, ha a tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonyának ideje legalább huszonöt év,
@@ -1732,7 +1739,12 @@ lehet gyakorolni.
 
 (3) A munkáltatói jogkör gyakorlója a vezetői tisztséget betöltő tisztviselő illetményének a megállapítása során a 136. § (2) bekezdésében meghatározott szempontok mellett figyelembe veszi a szolgálati hely szintjét, nagyságát, valamint a beosztottak létszámát.
 
-#### 144. §
+144. § (1) Az ügyészség éves költségvetésében biztosított előirányzatoktól függően a nyugállományú tisztviselő, írnok és fizikai alkalmazott részére szociális és temetési segély, a tisztviselő, írnok és fizikai alkalmazott közeli hozzátartozója és a nyugállományú tisztviselő, írnok és fizikai alkalmazott közeli hozzátartozója részére temetési segély adható.
+
+(2) E § alkalmazásában
+
+- a) közeli hozzátartozó: a Polgári Törvénykönyv szerinti közeli hozzátartozó,
+- b) nyugállományú tisztviselő, írnok és fizikai alkalmazott: a nyugállományba vonulását közvetlenül megelőzően az ügyészségnél szolgálati jogviszonyban állt tisztviselő, írnok és fizikai alkalmazott.
 
 145. § (1) Kiváló munkavégzés esetén és ügyészségi szolgálati viszonyban eltöltött legalább tíz év után
 
@@ -1793,7 +1805,7 @@ cím adományozható.
 - d) a 26. §-t,
 - e) a kinevezési feltételeknek megfelelő, illetve az ügyészségi szolgálati viszony fennállása alatt a jogviszony megszűnését eredményező körülmények igazolására a 49. §-t,
 - f) az 55. §-t,
-- g) a 69. §-t, a 72–76. §-t, továbbá a 70. §-t azzal az eltéréssel, hogy a tisztviselő, az írnok és a fizikai alkalmazott kinevezési okiratának tartalmaznia kell a jubileumi jutalomra jogosító idő számításának kezdő időpontját,
+- g) a 69. §-t, a 72–76. §-t, továbbá a 70. §-t azzal az eltéréssel, hogy a tisztviselő, az írnok és a fizikai alkalmazott kinevezési okiratának tartalmaznia kell a jubileumi jutalomra jogosító idő számításának kezdő időpontját, a 73. §-t azzal az eltéréssel kell alkalmazni, hogy tisztviselő, az írnok és a fizikai alkalmazott részére cafetéria juttatás is biztosítható,
 - h) a 80. §-t,
 - i) a 105–108. §-t.
 
@@ -1854,7 +1866,7 @@ kell érteni.
 
 (2) A végkielégítés összegének megállapításakor – az (1) bekezdésben említetten kívül – ügyészségi szolgálati viszonyban töltött időnek kell tekinteni a bírói szolgálati viszonyban, az igazságügyi szolgálati jogviszonyban megszakítás nélkül eltöltött időt.
 
-(3) A jubileumi jutalomra jogosító idők számítása során és a fizikai alkalmazott alapszabadságának megállapításakor az ügyészségi szolgálati viszonyban töltött idő számításánál – az (1) bekezdésben említetten kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá más foglalkoztatási jogviszonyban (szolgálati viszonyban, munkaviszonyban), valamint 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban töltött időt is figyelembe kell venni.
+(3) A jubileumi jutalomra jogosító idők számítása során és a fizikai alkalmazott alapszabadságának megállapításakor az ügyészségi szolgálati viszonyban töltött idő számításánál – az (1) bekezdésben említetten kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá más foglalkoztatási jogviszonyban (szolgálati viszonyban, munkaviszonyban), valamint 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban töltött időt is figyelembe kell venni.
 
 (4) A jubileumi jutalomra jogosító idők számítása során ügyészségi szolgálati viszonyban töltött időnek tekintendő az (1) és (3) bekezdésben írtakon túl az ügyvédi tevékenység és a közjegyzői szolgálat tartama, ide nem értve a jogviszony szünetelését.
 

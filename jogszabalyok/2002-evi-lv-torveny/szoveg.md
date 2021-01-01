@@ -149,6 +149,8 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 (3) A természetes személy és a jogi személy csak akkor kérheti a névjegyzékből való törlést, ha folyamatban lévő közvetítői eljárásban nem vesz részt.
 
+(4) Az (1) bekezdés c) pontja és a (2) bekezdés d) pontja esetében figyelmeztetés közigazgatási szankció nem alkalmazható.
+
 12. § (1) A természetes személy és a jogi személy a névjegyzékből hivatalból való törlésről szóló határozat kézhezvételét követő 8 napon belül köteles a folyamatban lévő közvetítői eljárást megszüntetni és a felekkel elszámolni.
 
 (2) A miniszter a névjegyzékből való törlésről szóló határozatban a természetes személy közvetítői igazolványát visszavonja, aki azt köteles a határozat közlésétől számított nyolc napon belül átadni.
@@ -213,9 +215,9 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 (2) Ha a vizsgálat során kötelezettségszegés megállapítására nem került sor, a miniszter az eljárást megszünteti.
 
-(3) Ha a vizsgálat során megállapítást nyer, hogy a közvetítő e törvényben meghatározott vagy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényből következő kötelezettségeit megszegte, vagy azoknak nem tett eleget, a miniszter figyelmezteti a közvetítőt a törvényi rendelkezések betartására.
+(3) Ha a vizsgálat során megállapítást nyer, hogy a közvetítő e törvényben meghatározott vagy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényből következő kötelezettségeit megszegte, vagy azoknak nem tett eleget, a miniszter kötelezi a közvetítőt a törvényi rendelkezések betartására.
 
-(4) Ha a közvetítő e törvényben meghatározott vagy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényből következő kötelezettségeit ismételten vagy súlyosan megszegi, vagy azoknak a figyelmeztetés ellenére nem tesz eleget, a miniszter a közvetítőt törli a névjegyzékből.
+(4) Ha a közvetítő e törvényben meghatározott vagy a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényből következő kötelezettségeit ismételten vagy súlyosan megszegi, vagy azoknak a kötelezés ellenére nem tesz eleget, a miniszter a közvetítőt törli a névjegyzékből.
 
 (5) Ha a közvetítő jogszabály által nem szabályozott vitarendezésben működik közre, kötelezettségeire e törvényben foglaltak megfelelően irányadók, és vele szemben a vizsgálat lefolytatható.
 

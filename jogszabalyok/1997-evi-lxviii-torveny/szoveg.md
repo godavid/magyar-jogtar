@@ -14,11 +14,13 @@ igazságügyi alkalmazottainak szolgálati jogviszonyára (a továbbiakban: szol
 
 (2) Az (1) bekezdés a)–c) pontjában megjelölt igazságügyi szerv (a továbbiakban: igazságügyi szerv) által fenntartott bölcsődék és óvodák dolgozói a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartoznak.
 
-(3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
+(3) A katonai tanácsokkal rendelkező bíróságokon igazságügyi alkalmazottként hivatásos szolgálati viszonyban álló katonák, az OBH-nál – honvédelmi és polgári védelmi feladatok ellátására – a Magyar Honvédség, illetve a rendvédelmi szervek hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
 (4) E törvény hatálya alá tartozó igazságügyi szakértő, valamint szakértőjelölt szolgálati viszonyára az igazságügyi szakértőkről szóló 2016. évi XXIX. törvénynek és az igazságügyi szakértőkről szóló jogszabályoknak a rendelkezéseit, a végrehajtási ügyintéző szolgálati viszonyára a bírósági végrehajtásról szóló 1994. évi LIII. törvénynek a rendelkezéseit is alkalmazni kell.
 
 (5) Az igazságügyi alkalmazottak szolgálati viszonyára más jogszabály rendelkezéseit akkor kell alkalmazni, ha azt e törvény elrendeli.
+
+(6) E törvény rendelkezéseit – az e törvényben meghatározott esetben és körben – a nyugalmazott igazságügyi alkalmazottakra, valamint az igazságügyi alkalmazottak és a nyugalmazott igazságügyi alkalmazottak közeli hozzátartozóira is alkalmazni kell.
 
 2. § (1) A szolgálati jogviszony alanya egyrészről az igazságügyi szerv, másrészről az igazságügyi alkalmazott.
 
@@ -359,7 +361,7 @@ lehet gyakorolni.
 
 (3) Nem jár végkielégítés, ha az igazságügyi alkalmazott legkésőbb a jogviszony megszűnésének időpontjában nyugdíjasnak minősül.
 
-27/A. § Ha az igazságügyi alkalmazott szolgálati viszonya megszüntetésekor végkielégítésben részesült, a szolgálati viszony megszűnésétől számított tíz hónapon belül újabb igazságügyi alkalmazotti szolgálati viszonyt, ügyészségi szolgálati viszonyt, hivatásos szolgálati jogviszonyt, kormányzati szolgálati jogviszonyt vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 1. és 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
+27/A. § Ha az igazságügyi alkalmazott szolgálati viszonya megszüntetésekor végkielégítésben részesült, a szolgálati viszony megszűnésétől számított tíz hónapon belül újabb igazságügyi alkalmazotti szolgálati viszonyt, ügyészségi szolgálati viszonyt, hivatásos szolgálati jogviszonyt, adó- és vámhatósági szolgálati jogviszonyt, kormányzati szolgálati jogviszonyt vagy a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 1. és 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
 
 - a) ezt a tényt korábbi munkáltatójának haladéktalanul írásban bejelenti, és
 - b) vállalja, hogy a végkielégítés összegének az új jogviszony létesítéséig a tíz hónapból hátralévő idővel arányos mértékét visszafizeti.
@@ -1171,8 +1173,8 @@ okozta.
 (4) Részben vagy egészben igazságügyi szolgálati időként lehet figyelembe venni
 
 - a) bírósági titkárnál a kinevezése előtt jogi képesítéshez kötött munkakörben a jogi szakvizsga letételének napjától számított időt,
-- b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, közalkalmazotti, hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
-- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, közalkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét.
+- b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, közalkalmazotti, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
+- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, közalkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét.
 
 (5) A (4) bekezdés alkalmazásakor a beszámítandó időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás az adott év első napjával történjék. A beszámításnál figyelemmel kell lenni a helyes bérarányok fenntartására.
 
@@ -1281,7 +1283,7 @@ okozta.
 
 (4) Ha a szolgálati viszony az igazságügyi alkalmazott halála miatt szűnik meg, a jubileumi jutalmat – a (3) bekezdés alkalmazásával – az örökösének kell kifizetni.
 
-(5) A jubileumi jutalomra való jogosultság szempontjából a szolgálati viszony idejébe be kell számítani a közszolgálati jogviszonyban, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a hivatásos szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a közalkalmazotti jogviszonyban és a munkaviszonyban töltött időt.
+(5) A jubileumi jutalomra való jogosultság szempontjából a szolgálati viszony idejébe be kell számítani a közszolgálati jogviszonyban, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a hivatásos szolgálati jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a közalkalmazotti jogviszonyban és a munkaviszonyban töltött időt.
 
 (6) Ha az igazságügyi alkalmazott bármely korábbi foglalkoztatási jogviszonyában jubileumi jutalomban részesült, az ugyanazon fokozat szerinti jubileumi jutalom ismételten nem illeti meg.
 
@@ -1297,7 +1299,7 @@ okozta.
 - d) szociális, és temetési segély, családalapítási támogatás,
 - e)–f)
 - g) tanulmányi ösztöndíj, képzési, továbbképzési és nyelvtanulási támogatás,
-- h)
+- h) cafetéria-juttatás,
 - i) illetményelőleg.
 
 (2) Ha az igazságügyi alkalmazottat szolgálati érdekből más településen működő igazságügyi szervhez helyezik át, a költözködéssel járó indokolt költségeket meg kell téríteni.
@@ -1356,6 +1358,10 @@ okozta.
 (9) Az a naptári negyedév – az (5) bekezdés szerinti naptári negyedév(ek) hiányában az a naptári hónap –, amelyben az igazságügyi alkalmazottnak kifizetett javadalmazáshoz osztószám nem tartozik, az irányadó időszak meghatározásánál nem vehető figyelembe.
 
 (10) Ha e törvény a fizetési kötelezettség megállapításánál havi átlagilletmény alkalmazását írja elő, akkor egy havi átlagilletményen az igazságügyi alkalmazott egy napi átlagilletményének a huszonkétszerese értendő. Munkaidőkeret alkalmazása esetén a havi átlagilletmény kiszámításánál a (8) bekezdésben foglaltak szerint meghatározott egy órára járó átlagilletmény összege szorzandó 174–gyel, részmunkaidő esetén ennek időarányos részével.
+
+121/C. § Az igazságügyi szerv költségvetésében biztosított előirányzatoktól függően a nyugalmazott igazságügyi alkalmazott részére szociális és temetési segély, az igazságügyi alkalmazott és a nyugalmazott igazságügyi alkalmazott közeli hozzátartozója részére temetési segély adható.
+
+121/D. § A 121. § és a 121/C. § szerinti egyéb juttatások részletes szabályait a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban álló igazságügyi alkalmazottak és közeli hozzátartozóik, valamint a bíróságokkal, illetve az OBH-val szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak és közeli hozzátartozóik tekintetében az OBH elnöke szabályzatban, az 1. § (1) bekezdés c) pontjában meghatározott igazságügyi alkalmazottak és közeli hozzátartozóik, valamint az egyéb igazságügyi szervnél szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak és közeli hozzátartozóik tekintetében a miniszter az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
 ### Az érdemek elismerése
 
@@ -1489,7 +1495,12 @@ rendeletben állapítsa meg.
   - ag) a nem szakirányú felsőfokú iskolai végzettséggel és a szakirányú felsőfokú szakképesítéssel is rendelkező igazságügyi alkalmazott III. fizetési osztályba történő besorolásának a részletes szabályait, valamint
 - b) az egészségügyért felelős miniszterrel egyetértésben, rendeletben határozza meg a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét.
 
-136. § E törvény alkalmazásában közeli hozzátartozón és hozzátartozón a Polgári Törvénykönyv szerinti közeli hozzátartozót és hozzátartozót kell érteni.
+(5) Felhatalmazást kap a miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben az egyéb igazságügyi szervnél szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak tekintetében rendeletben határozza meg a szociális és temetési segély, az egyéb igazságügyi szervnél szolgálati jogviszonyban állt nyugalmazott igazságügyi alkalmazottak közeli hozzátartozói esetében a temetési segély juttatásának részletes szabályait.
+
+136. § E törvény alkalmazásában
+
+- a) közeli hozzátartozó és hozzátartozó: a Polgári Törvénykönyv szerinti közeli hozzátartozó és hozzátartozó,
+- b) nyugalmazott igazságügyi alkalmazott: a nyugállományba vonulását közvetlenül megelőzően az igazságügyi szervnél vagy jogelődjénél szolgálati jogviszonyban állt személy.
 
 137. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

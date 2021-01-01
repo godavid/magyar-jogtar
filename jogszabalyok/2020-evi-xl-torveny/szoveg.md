@@ -97,17 +97,17 @@ sarkalatosnak minősül.
 
 #### 3. A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény módosítása
 
-13. §
+13. § Hatályát veszti a tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény 3. § (2) bekezdése, továbbá 13–18. §-a.
 
 #### 4. A szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény módosítása
 
-14. §
+14. § Hatályát veszti a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 13–16. §-a, 18. §-a és 20–27. §-a.
 
 #### 5. A földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény módosítása
 
 15. § (1)
 
-(2)
+(2) Hatályát veszti az Fkbt. 1–8. §-a, 9/A–12. §-a, 12/B. §-a, 12/C. §-a, 14. és 15. §-a.
 
 #### 6. A védett természeti területek védettségi szintjének helyreállításáról szóló 1995. évi XCIII. törvény módosítása
 

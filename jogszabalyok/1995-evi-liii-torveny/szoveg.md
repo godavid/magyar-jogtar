@@ -527,7 +527,7 @@ képviselői.
 (4) A települési önkormányzat képviselő-testületének hatáskörébe tartozik:
 
 - a) a füstködriadó terv,
-- b) a háztartási tevékenységgel okozott légszennyezésre vonatkozó egyes sajátos, valamint az avar és kerti hulladék égetésére vonatkozó szabályok rendelettel történő megállapítása,
+- b)
 - c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével kapcsolatos eljárásban való közreműködés,
 - d) területek zajvédelmi szempontból fokozottan védetté nyilvánítása,
 - e) csendes övezet kijelölése, valamint
@@ -1251,7 +1251,9 @@ meghatározott esetben.
 
 (2) A határozat hivatalból a jóhiszeműen szerzett és gyakorolt jogok sérelmével is módosítható vagy visszavonható, illetve a szakhatóság az eljárt hatóságnál a kiadott határozat módosítását vagy visszavonását kezdeményezheti, ha a közérdek érvényre juttatása érdekében azt környezetvédelmi, természetvédelmi, vízgazdálkodási, illetve közegészségügyi vagy talajvédelmi szempontok szükségessé teszik.
 
-(3) Az e törvény hatálya alá tartozó közigazgatási hatósági eljárásokban a meghatározott cselekmény végrehajtását a végrehajtást elrendelő hatóság foganatosítja.
+(3) Az e törvény hatálya alá tartozó közigazgatási hatósági eljárásokban a meghatározott cselekmény végrehajtását a végrehajtást elrendelő hatóság foganatosítja, ha a döntésében meghatározott cselekmény végrehajtásának foganatosításához rendelkezik a végrehajtáshoz szükséges feltételekkel.
+
+(4) Ha a végrehajtást elrendelő hatóság által a (3) bekezdés szerint foganatosított végrehajtás nem vezetett eredményre, a végrehajtást elrendelő hatóság a végrehajtás foganatosítása érdekében megkeresi az állami adó- és vámhatóságot.
 
 91/E. § Szennyezőanyag-elhelyezés, bevezetés, vagy ezzel járó tevékenység engedélyezése során, ha a tevékenységet nem a vízvédelemi hatóság engedélyezi, a vízvédelmi hatóságot az eljárásba szakhatóságként be kell vonni.
 
@@ -1468,6 +1470,12 @@ A KÖRNYEZETVÉDELEMBEN
 - b) arra a követelés összegét meghaladó vagyoni hátrány megakadályozása érdekében vagy kiemelt nemzetgazdasági érdekből kerül sor.
 
 107. § A környezetvédelmi bírság nem mentesít a büntetőjogi, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, illetőleg a megfelelő védekezés kialakítására, a természetes vagy korábbi környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
+
+107/A. § A vízvédelmi hatósági hatáskörben kiszabott bírság helyett figyelmeztetés, mint közigazgatási szankció nem alkalmazható.
+
+### Eltiltás
+
+107/B. § Környezetvédelmi hatósági ügyekben a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott eltiltásként a tevékenység korlátozása, felfüggesztése, megtiltása, a határozat szankciós visszavonása, valamint a nyilvántartásból való törlés a szabályszerű tevékenység visszaállítása érdekében szükséges kötelezettségek teljesítéséig terjedő időtartamra rendelhető el.
 
 ### Környezetvédelmi megbízott
 

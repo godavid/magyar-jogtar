@@ -1069,7 +1069,11 @@ belső ellenőrző és információs rendszerek működéséről.
 - b) határidő tűzésével kötelezi a szolgáltatót a jogsértés megszüntetésére;
 - c) kötelezi a szolgáltatót a belső szabályzat felügyeletet ellátó szerv által meghatározott határidőn belüli és meghatározott szempontok szerinti átdolgozására, valamint a felügyeletet ellátó szervnek történő bemutatására;
 - d) az 1. § (1) bekezdés a)–e), g), i) és m) pontjában meghatározott szolgáltató esetében – törvényben meghatározott korlátok mellett – a felügyeletet ellátó szerv visszavonja vagy a jogsértés megszüntetéséig felfüggeszti a kiadott egyes tevékenységi vagy működéshez szükséges engedélyt;
-- e) az 1. § (1) bekezdés j), k) és p)–r) pontjában meghatározott szolgáltató esetében a felügyeletet ellátó szerv törli a nyilvántartásból a szolgáltatót, az 1. § (1) bekezdés f) és h) pontjában meghatározott szolgáltató esetében kezdeményezi a nyilvántartást vezető szervnél a szolgáltató nyilvántartásból történő törlését;
+- e) a felügyeletet ellátó szerv
+  - ea) az 1. § (1) bekezdés j) és r) pontjában meghatározott szolgáltató esetében törli a nyilvántartásból a szolgáltatót, vagy a tevékenység végzésétől legalább egy, de legfeljebb tizenkét hónapra eltiltja,
+  - eb) az 1. § (1) bekezdés k), p) és q) pontjában meghatározott szolgáltató esetében törli a nyilvántartásból a szolgáltatót,
+  - ec) az 1. § (1) bekezdés f) pontjában meghatározott szolgáltató esetében kezdeményezi a nyilvántartást vezető szervnél a szolgáltató nyilvántartásból történő törlését, vagy a tevékenység végzésétől való eltiltását legalább egy, de legfeljebb tizenkét hónapra,
+  - ed) az 1. § (1) bekezdés h) pontjában meghatározott szolgáltató esetében kezdeményezi a nyilvántartást vezető szervnél a szolgáltató nyilvántartásból történő törlését;
 - f) kezdeményezi a szolgáltató vezetője vagy a jogsértésért felelős foglalkoztatottja, segítő családtagja felelősségének megállapítását;
 - g) kezdeményezi a szolgáltató vezetője vezetői jogkörének a jogsértés megszüntetéséig történő felfüggesztését vagy visszavonását;
 - h) az a)–g) és i)–l) pontban felsorolt intézkedések mellett vagy önállóan
@@ -1247,9 +1251,9 @@ a Magyar Ügyvédi Kamara egységes szabályzatot készít, amely az egyéni üg
 
 (2)
 
-(3) Az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a közjegyzők részére a Magyar Országos Közjegyzői Kamara iránymutatást készít, amely a közjegyzők tekintetében a 65. §-ban meghatározott belső szabályzatnak minősül.
+(3) Az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a közjegyzők részére a Magyar Országos Közjegyzői Kamara szabályzatot készít, amely a közjegyzők tekintetében a 65. §-ban meghatározott belső szabályzatnak minősül.
 
-(4) Az (1) bekezdésben meghatározott szabályzatot a Magyar Ügyvédi Kamara, a (3) bekezdésben meghatározott iránymutatást a Magyar Országos Közjegyzői Kamara köteles e törvény módosításait követően, illetve a 27. § szerinti kockázatértékelés változása esetén felülvizsgálni és szükség esetén módosítani.
+(4) Az (1) bekezdésben meghatározott szabályzatot a Magyar Ügyvédi Kamara, a (3) bekezdésben meghatározott szabályzatot a Magyar Országos Közjegyzői Kamara köteles e törvény módosításait követően, illetve a 27. § szerinti kockázatértékelés változása esetén felülvizsgálni és szükség esetén módosítani.
 
 76/A. § A Magyar Könyvvizsgálói Kamara, a területi közjegyzői kamarák adatszolgáltatása alapján a Magyar Országos Közjegyzői Kamara, és a területi ügyvédi kamarák adatszolgáltatása alapján a Magyar Ügyvédi Kamara a tárgyévet követő év június 30. napjáig, anonim módon éves jelentést tesznek közzé, amely információkat tartalmaz:
 

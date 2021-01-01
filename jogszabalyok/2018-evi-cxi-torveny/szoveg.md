@@ -66,7 +66,9 @@ egyes agrárszabályozási tárgyú törvények módosításáról
 
 24. §
 
-25. §
+25. § Az Éltv. 10/A. §-a helyébe a következő rendelkezés lép:
+
+„10/A. § Az ökológiai termelésre utaló kifejezéssel csak olyan élelmiszer vagy takarmány hozható forgalomba, amely rendelkezik az ökológiai termelésről és az ökológiai termékek jelöléséről, valamint a 834/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. május 30-i 2018/848/EU rendelet (a továbbiakban: Öko EK rendelet) szerinti tanúsítvánnyal, és megfelel az e törvényben, az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott feltételeknek.”
 
 26. §
 
@@ -323,5 +325,8 @@ egyes agrárszabályozási tárgyú törvények módosításáról
 - 5.
 - 6.
 - 7.
-- 8.
+- 8. Az Éltv. Mellékletének 53. pontja helyébe a következő rendelkezés lép:
+
+„53. ökológiai termelés: az Öko EK rendelet 3. cikkének a) 1. pontjában meghatározott fogalom szerinti tevékenység;”
+
 - 9.

@@ -30,7 +30,8 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - p) környezetvédelem;
 - q) sportinfrastruktúra fejlesztése;
 - r) az Országgyűlés munkáját segítő hivatali szervezet elhelyezése;
-- s) kulturális infrastruktúra fejlesztése.
+- s) kulturális infrastruktúra fejlesztése;
+- t) optimális birtokszerkezet kialakítása céljából.
 
 3. § (1) Kisajátításnak akkor van helye, ha
 
@@ -41,7 +42,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 
 (2) Az adásvételi vagy csereszerződés megkötését meghiúsultnak kell tekinteni, ha
 
-- a) a kisajátítást kérőnek – a kisajátítási kérelem benyújtását megelőző 1 éven belül megtett – ajánlatára a tulajdonos vagy más kártalanításra jogosult a kézhezvételtől számított harminc napon belül nem tesz a tulajdonjog ingatlan-nyilvántartási átvezetésére is alkalmas elfogadó nyilatkozatot;
+- a) a kisajátítást kérőnek – a kisajátítási kérelem benyújtását megelőző 1 éven belül megtett – ajánlatára a tulajdonos vagy más kártalanításra jogosult a kézhezvételtől számított harminc napon belül nem tesz a tulajdonjog ingatlan-nyilvántartási átvezetésére is alkalmas elfogadó nyilatkozatot vagy írásban úgy nyilatkozik, hogy nem fogadja el az ajánlatot;
 - b) a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen, illetve az ingatlan tulajdonjogával összefüggésben per van folyamatban és azt az ingatlan-nyilvántartásba feljegyezték, feljegyzés alatt áll, illetve más módon igazolták; vagy
 - c) a tulajdonos vagy más kártalanításra jogosult lakóhelye, tartózkodási helye, székhelye ismeretlen, vagy a kisajátítást kérő ajánlatának közlése részükre egyéb körülményeik folytán rendkívüli nehézséggel vagy számottevő késedelemmel járna; önmagában a tulajdonosok vagy más kártalanításra jogosultak nagy száma nem minősül ilyen egyéb körülménynek.
 
@@ -104,7 +105,8 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
   - nb) a sportlétesítmény létesítése olimpia vagy valamely sportágban Európa-bajnokság vagy világbajnokság megrendezése céljából történik,
   - nc) az egyedileg meghatározott sport- és szabadidő infrastruktúrafejlesztés megvalósításáról külön törvény rendelkezik;
 - o) a 2. § r) pontja szerinti célból az Országgyűlés Hivatalának lakóingatlannak nem minősülő ingatlanban történő elhelyezése érdekében;
-- p) kulturális infrastruktúra fejlesztése keretében a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti muzeális intézmény, könyvtár, közművelődési intézmény vagy közösségi színtér létesítése céljából.
+- p) kulturális infrastruktúra fejlesztése keretében a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti muzeális intézmény, könyvtár, közművelődési intézmény vagy közösségi színtér létesítése céljából;
+- q) optimális birtokszerkezet kialakítása céljából, ha a Nemzeti Földalap kezeléséért felelős szerv – a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerint – kezdeményezi.
 
 (2) Nem kell alkalmazni
 
@@ -416,6 +418,10 @@ szóló végzését ajánlott küldeménnyel, és egyidejűleg a kisajátítási
 (4) Ha a kérdések és észrevételek olyan időben érkeznek meg, hogy azok szakértő általi megismerése még a tárgyalás előtt lehetségesnek mutatkozik, a beérkezett kérdéseket és észrevételeket a kisajátítási hatóság továbbítja a szakértő részére.
 
 (5) Mellőzhető a tárgyalás kitűzése, ha a rendelkezésre álló adatok alapján a kisajátítási hatóság arra a következtetésre jut, hogy a kisajátítás jogalapja nem áll fenn.
+
+(5a) Mellőzhető – az ügyfelek ellenkező kérelmének hiányában – a tárgyalás kitűzése akkor is, ha a megállapítani tervezett kártalanítási összeg egyik kártalanításra jogosult esetében sem éri el a tízezer forintot. Ebben az esetben azon kérelmeket és nyilatkozatokat, melyek megtételének határidejét e törvény a tárgyalás időpontjához kapcsoltan határozza meg, a kisajátítási hatóság által meghatározott időpontig kell megtenni.
+
+(5b) Az ügyfél az (5a) bekezdés szerinti tárgyalás tartása iránti kérelmét a szakértői vélemény részére történt megküldésétől számított 8 napon belül terjesztheti elő. Ebben az esetben a (2) bekezdésben meghatározott tárgyalási időköz a tárgyalás tartása iránti kérelem beérkezését követő naptól számítandó.
 
 (6) Nincs szükség tárgyalás kitűzésére, illetőleg a kitűzött tárgyalás megtartására, ha a kisajátítást kérő csatolja a kisajátítási kártalanítás tárgyában kötött egyezségről szóló okiratot, és az egyezséget a kisajátítási hatóság jogszerűnek tartja.
 

@@ -203,7 +203,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 #### 10. Piacfelügyeleti ellenőrzés és az annak során alkalmazható jogkövetkezmények
 
-15. § (1) Piacfelügyeleti eljárása keretében a piacfelügyeleti hatóság felhívására a gazdasági szereplő és felhasználó köteles hitelt érdemlően igazolni azt, hogy kitől szerezte be a terméket, és azt mely gazdasági szereplőnek értékesítette tovább. A piacfelügyeleti hatóság jogosult bármely termék biztonságosságát, egészségre gyakorolt hatását, megfelelőségét és dokumentációját ellenőrizni, továbbá jogosult a helyszínen méréssel ellenőrizni a termék megfelelőségét vagy laboratóriumi vizsgálat, megfelelőségértékelő szervezet általi vizsgálat vagy a hatóság mérése céljából ingyenes mintát és ellenmintát venni. A súlyos veszélyt jelentő terméket a piacfelügyeleti hatóság a jogszabályban meghatározottak szerint jogosult lefoglalni, és azt a jogsértést elkövető gazdasági szereplő költségére megsemmisíteni.
+15. § (1) Piacfelügyeleti eljárása keretében a piacfelügyeleti hatóság felhívására a gazdasági szereplő és felhasználó köteles hitelt érdemlően igazolni azt, hogy kitől szerezte be a terméket, és azt mely gazdasági szereplőnek értékesítette tovább. A piacfelügyeleti hatóság jogosult bármely termék biztonságosságát, egészségre gyakorolt hatását, megfelelőségét és dokumentációját ellenőrizni, továbbá jogosult a helyszínen méréssel ellenőrizni a termék megfelelőségét vagy laboratóriumi vizsgálat, megfelelőségértékelő szervezet általi vizsgálat vagy a hatóság mérése céljából ingyenes mintát és ellenmintát venni. A súlyos kockázatot jelentő terméket a piacfelügyeleti hatóság jogosult elkobozni, és azt a jogsértést elkövető gazdasági szereplő költségére megsemmisíteni.
 
 (2) Ha a piacfelügyeleti hatóság a piacfelügyeleti ellenőrzés során megállapítja, hogy a termék nem felel meg e törvényben, európai uniós jogi aktusokban vagy jogszabályokban foglalt követelményeknek, jogosult:
 
@@ -229,7 +229,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 - a) 500 millió forintig,
 - b) ha a jogsértés a fogyasztók vagy felhasználók életét, testi épségét, egészségét sérti vagy veszélyezteti, 2 milliárd forintig terjedhet.
 
-(3) A (2) bekezdés b) pontjában meghatározott esetben a piacfelügyeleti hatóság minden esetben bírságot szab ki, ha a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény eltérően nem rendelkezik.
+(3)
 
 (4) Ha a laboratóriumi vizsgálat, a megfelelőségértékelő szervezet általi vizsgálat vagy hatóság mérése céljából mintavételezett termék nem megfelelőnek bizonyul, akkor a vizsgálat költségeit a gyártó, az importőr vagy az a forgalmazó, amelynél a terméket vizsgálat alá vonták, köteles megfizetni.
 
@@ -278,13 +278,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 kötelességét megszegi, azt a Kormány által rendeletben kijelölt műszaki-biztonsági hatóság közigazgatási bírsággal sújtja.
 
-(2) Az (1) bekezdésben meghatározott esetben a műszaki-biztonsági hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében mérlegeli különösen:
-
-- a) a jogsértéssel okozott hátrányt (ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket) és a jogsértéssel elért előny mértékét,
-- b) a jogsértéssel okozott hátrány visszafordíthatóságát,
-- c) a jogsértéssel érintettek körének nagyságát,
-- d) a jogsértő állapot időtartamát,
-- e) a jogsértő magatartás ismétlődését és gyakoriságát.
+(2)
 
 #### 11. Korlátozó intézkedésekre vonatkozó különös előírások
 

@@ -245,7 +245,11 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 91. § (1)
 
-(2)
+(2) A Hpt. 6. § (2) bekezdés 6. pontja helyébe a következő rendelkezés lép:
+
+(A X. Fejezet alkalmazásában)
+
+„6. névre szóló betét: az a betét, amelynek tulajdonosát a Pmt.-nek megfelelően azonosították;”
 
 92. §
 
@@ -271,7 +275,9 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 
 103. §
 
-104. §
+104. § A Hpt. 217. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A betétet gyűjtő hitelintézet a névre szóló betét esetén a betétesnek a Pmt. szerinti azonosító adatait a kártalanításra való jogosultság egyértelmű megállapítása érdekében nyilvántartja.”
 
 105. §
 
@@ -294,7 +300,7 @@ a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdas�
 - a)
 - b)
 - c)
-- d)
+- d) 228. § (6) bekezdésében az „– a 2. melléklet szerinti –” szövegrész,
 - e)
 
 #### 14. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása

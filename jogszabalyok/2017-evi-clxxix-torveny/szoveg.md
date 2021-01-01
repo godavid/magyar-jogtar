@@ -6,98 +6,19 @@ a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, vala
 
 #### 1. Tárgyi hatály
 
-1. § (1) E fejezet hatálya az általános közigazgatási rendtartásról szóló törvény hatálya alá tartozó közigazgatási hatósági eljárás során megállapított jogszabálysértések (a továbbiakban: közigazgatási szabályszegés) esetén a közigazgatási hatósági ügyben érdemi döntéssel kiszabható jogkövetkezményekre (a továbbiakban: közigazgatási szankciók) terjed ki.
-
-(2) Közigazgatási szankció
-
-- a) a figyelmeztetés,
-- b) a közigazgatási bírság,
-- c) az elkobzás és
-- d) a jogszabályban meghatározott, egyéb szankció.
+1. §
 
 #### 2. Figyelmeztetés
 
-2. § (1) Ha a hatóság a hatósági ellenőrzés befejezéseként megállapítja, hogy az ügyfél a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette,
-
-- a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a hatóság figyelmeztetést tartalmazó döntésben felhívja az ügyfél figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi annak megszüntetésére,
-- b) ha az a) pont szerinti felhívásban meghatározott határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a hatóság hivatalbóli eljárásban egyéb szankciót alkalmaz, vagy
-- c) ha az a) és a b) pont azért nem alkalmazható, mert a hatóság az adott jogszabálysértés tekintetében nem rendelkezik hatáskörrel vagy illetékességgel, a hatóság a jegyzőkönyv vagy feljegyzés jogszabálysértésre vonatkozó információkat tartalmazó részének megküldésével kezdeményezi a hatáskörrel rendelkező hatóság eljárását, illetve fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez.
-
-(2) Nem alkalmazható az (1) bekezdés a) pontja, ha
-
-- a) a jogszabályban vagy hatósági döntésben foglalt előírások megsértése kizárólag újabb hatósági eljárás lefolytatásával orvosolható,
-- b) azt jogszabály – a jogszabálysértés és a jogkövetkezmény alkalmazását megalapozó jogszabályi rendelkezés tételes megjelölésével – azért zárja ki, mert a jogszabálysértés, a hatósági döntés megsértése vagy az (1) bekezdés a) pontja szerinti határidő biztosítása az életet, a testi épséget, a nemzetbiztonságot, a honvédelmi érdeket, a vagyonbiztonságot, a közlekedés biztonságát, a környezet vagy a természet állapotának fenntarthatóságát, közteherviselési kötelezettség teljesítését, az Európai Unió pénzügyi érdekeit, vagy harmadik személy alapvető jogát közvetlenül veszélyezteti vagy veszélyeztetné,
-- c) a hatóság ugyanazon ügyféllel szemben az (1) bekezdés a) pontja szerinti felhívás eredménytelensége miatt két éven belül véglegesen jogkövetkezményt állapított meg,
-- d) a hatóság ugyanazon ügyféllel szemben ugyanazon jogszabályi vagy hatósági határozatban megállapított rendelkezés megsértése miatt két éven belül az (1) bekezdés a) pontja alapján járt el,
-- e) az adott ügyben autonóm államigazgatási szerv vagy önálló szabályozó szerv jár el,
-- f) az államháztartás javára teljesítendő, törvényben meghatározott, illetve a Közösségek költségvetésével megosztásra kerülő kötelező befizetésekkel és a központi költségvetés, valamint az elkülönített állami pénzalap terhére jogszabály alapján juttatott támogatással összefüggő eljárásokra vonatkozó jogszabályi rendelkezést sértik meg,
-- g) az adatszolgáltatási vagy bejelentési kötelezettséget előíró jogszabályi rendelkezés megsértését a termékek és a szolgáltatások forgalmazására, illetve értékesítésére, valamint az ezekkel összefüggő kereskedelmi gyakorlatokra vonatkozó követelmények ellenőrzésével, illetve a piacszabályozással kapcsolatos eljárásokban, ideértve a gyógyszerek, gyógyászati segédeszközök és egészségügyi technológiák társadalombiztosítási támogatásával kapcsolatos eljárást is, a pénz- és tőkepiaci, a biztosítási, az önkéntes kölcsönös biztosító pénztári és a magánnyugdíjpénztári tevékenység felügyeletével kapcsolatos eljárásban állapítják meg,
-- h) az ügyfél a közhiteles hatósági nyilvántartásba való, jogszabály által előírt bejelentési kötelezettségének nem tesz eleget.
-
-(3) A (2) bekezdéstől eltérően, ha a hatósági ellenőrzés az ügyfél kérelmére indult, az (1) bekezdés a) pontja a (2) bekezdés a), valamint e)–h) pontjában foglalt esetben is alkalmazható.
-
-(4) A hatóság az (1) és (2) bekezdésben foglaltak ellenőrzése céljából nyilvántartást vezet, amely tartalmazza
-
-- a) az ügyfél nevét,
-- b) a természetes személy ügyfél születési nevét, anyja nevét, születési helyét és idejét,
-- c) a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél cégjegyzékszámát vagy nyilvántartási számát,
-- d) a jogszabály vagy hatósági döntésben foglalt rendelkezés megsértése miatti felhívást a jogszabályi rendelkezés vagy hatósági döntésben foglalt rendelkezés, valamint felhívás közlése időpontjának a megjelölésével, és
-- e) a felhívás eredménytelensége tényét, valamint az emiatt megállapított egyéb szankciót tartalmazó döntés véglegessé válásának a napját.
-
-(5) A hatóság a (4) bekezdésben meghatározott adatokat azok keletkezésétől számított két évig kezeli.
-
-(6) Az (1) bekezdés c) pontja alapján megkeresett szerv a megkeresést érdemben – közigazgatási hatóság esetén az (1) bekezdés alkalmazásával – megvizsgálja, és saját intézkedéséről vagy az ilyen intézkedés mellőzésének okáról a megkereső hatóságot harminc napon belül tájékoztatja.
+2. §
 
 #### 3. Közigazgatási bírság
 
-3. § (1) Ha jogszabály bírság kiszabását teszi lehetővé – ide nem értve az eljárási bírságot -, a hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – jogszabály eltérő rendelkezése hiányában – mérlegeli különösen:
-
-- a) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket, illetve a jogsértéssel elért előny mértékét,
-- b) a jogsértéssel okozott hátrány visszafordíthatóságát,
-- c) a jogsértéssel érintettek körének nagyságát,
-- d) a jogsértő állapot időtartamát,
-- e) a jogsértő magatartás ismétlődését és gyakoriságát,
-- f) a jogsértést elkövető eljárást segítő, együttműködő magatartását, valamint
-- g) a jogsértést elkövető gazdasági súlyát.
-
-(2) A helyi önkormányzat képviselő-testületének rendelete alapján megállapítható közigazgatási bírság felső határa – a jogsértő személyétől függően – természetes személyek esetén kétszázezer forint, jogi személyek és jogi személyiséggel nem rendelkező szervezetek esetén kétmillió forint lehet. A közigazgatási bírság felső határát az önkormányzati rendeletben a jogsértés jellegével arányban kell megállapítani.
-
-(3) Ha jogszabály eltérően nem rendelkezik, nem indítható a jogsértés megállapítására és bírság kiszabására eljárás, ha a jogsértő magatartásnak a bírság kiszabására jogosult hatóság tudomására jutásától számított egy év, vagy az elkövetéstől számított öt év eltelt. Az ötéves határidő kezdő napja
-
-- a) az a nap, amikor a jogsértő magatartás megvalósul,
-- b) jogellenes állapot fenntartása esetén az a nap, amikor ez az állapot megszűnik.
-
-(4) Ha jogszabály eltérően nem rendelkezik, a (3) bekezdés szerinti egyéves határidő a hatóság számára újrakezdődik
-
-- a) a 2. § (1) bekezdés a) pontja szerinti döntés véglegessé válásának a napján,
-- b) ha a közigazgatási ügyekben eljáró bíróság a hatóságot új eljárás lefolytatására kötelezi.
-
-(5) Ha törvény vagy önkormányzati rendelet lehetővé teszi, azoknál a közigazgatási szabályszegéseknél, amelyek esetében közigazgatási bírság kiszabásának van helye, – a 2. §-ban foglalt előírások keretei között – a hatóság helyszíni bírságot szabhat ki, ha a helyszíni intézkedés alkalmával az ügyfél a jogsértést teljes mértékben elismeri.
-
-(6) A helyszíni bírság kiszabását megelőzően az ügyfelet tájékoztatni kell a (7)–(9) bekezdésben foglalt körülményekről, valamint szükség esetén a hatóság által megállapítható bizonyítékok köréről, továbbá a helyszíni bírság meg nem fizetése esetén alkalmazandó jogkövetkezményekről.
-
-(7) A jogsértés teljes mértékben való elismerésével az ügyfél lemond a helyszíni bírsággal szemben őt megillető jogorvoslati jogról.
-
-(8) Az ügyfél elismerése esetén a helyszíni bírság kiszabásáról szóló döntést a hatóság a helyszínen közli az ügyféllel. A döntés indokolásában elegendő az ügyfélnek a jogsértés elismeréséről szóló írásbeli nyilatkozatát rögzíteni az ügyfél aláírásával együtt.
-
-(9) Ha az ügyfél a jogsértést nem ismeri el, a hatóság köteles hivatalból megindítani a hatáskörébe tartozó eljárást és erről az ügyfelet a helyszínen értesíti a rendelkezésre álló adatok közlésével.
+3. §
 
 #### 4. Elkobzás
 
-4. § (1) Ha törvény lehetővé teszi, a hatóság elkobozza azt a dolgot,
-
-- a) amelyet a jogsértés elkövetéséhez eszközül használtak vagy arra szántak,
-- b) amelynek birtoklása jogszabályba ütközik, vagy amely veszélyezteti a közbiztonságot,
-- c) amely jogsértés elkövetése útján jött létre,
-- d) amelyre a jogsértést elkövették, vagy amelyet a jogsértés befejezését követően e dolog elszállítása céljából használtak,
-- e) amelyet a jogsértő a jogsértés elkövetéséért a tulajdonostól vagy annak hozzájárulásával mástól kapott.
-
-(2) Ha törvény eltérően nem rendelkezik, az (1) bekezdés a) és d) pontja esetében
-
-- a) az elkobzást nem lehet elrendelni, ha a dolog nem a jogsértő tulajdona, kivéve, ha a tulajdonos a jogsértésről előzetesen tudott és a dolog ilyen célú használatába beleegyezett,
-- b) az elkobzás kivételesen mellőzhető, ha az a jogsértőre vagy a dolog tulajdonosára a jogsértés súlyával arányban nem álló, méltánytalan hátrányt jelentene.
-
-(3) Ha törvény eltérően nem rendelkezik, az elkobzott dolog tulajdonjoga az államra száll.
+4. §
 
 ### II. Fejezet — A KÖZIGAZGATÁSI ELJÁRÁSJOG REFORMJÁVAL ÖSSZEFÜGGŐ EGYES TÖRVÉNYEK MÓDOSÍTÁSÁRÓL
 
@@ -334,11 +255,11 @@ d) a közigazgatási cselekmény megváltoztatásának nincs helye.”
 
 (3) A 16. § és a 24. § 2019. január 1-jén lép hatályba.
 
-(4) Felhatalmazást kapnak a feladatkörrel rendelkező miniszterek, hogy rendeletben határozzák meg azon jogszabályi rendelkezések körét, amelyek megsértése esetén a 2. § (2) bekezdés b) pontja alkalmazásának van helye.
+(4)
 
-(5) Az 1–4. §-t a 2018. január 1-jét követően indult és a megismételt eljárásokban kell alkalmazni azzal, hogy a 2. § (2) bekezdés b) pontjában meghatározott eltérő jogszabályi rendelkezések vonatkozásában a (7) bekezdés b)–j) pontjában meghatározott miniszteri rendeleteket kell megfelelően alkalmazni.
+(5)
 
-(6) 2018. január 1-jét megelőzően elkövetett közigazgatási szabályszegés esetén olyan közigazgatási szankció alkalmazható, amely ezen időpontot megelőzően is alkalmazható volt.
+(6)
 
 (7) 2021. január 1. napján hatályát veszti
 

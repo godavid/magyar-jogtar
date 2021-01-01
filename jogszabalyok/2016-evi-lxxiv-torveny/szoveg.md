@@ -96,6 +96,7 @@ jogszabályban meghatározott módon biztosítja.
 - b) az önkormányzat polgármestere (főpolgármester) az építésügyi engedélyezési eljárást megelőzően véleményt adhat a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez (a továbbiakban: településképi véleményezési eljárás),
 - c) az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást folytathat le az Étv. 57/F. § hatálya alá nem tartozó, az építésügyi hatósági engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek sem minősülő építési tevékenységek, valamint az Étv. 57/F. § hatálya alá nem tartozó rendeltetésmódosítások tekintetében, továbbá településképi bejelentési eljárást folytat le a reklámok és reklámhordozók elhelyezése tekintetében,
 - d) az önkormányzat polgármestere (főpolgármester) településképi kötelezést adhat ki és bírságot szabhat ki, ide nem értve a reklámhordozók és reklámok jogellenes elhelyezésével kapcsolatos, valamint a településképi bírságot.
+- e) az önkormányzat polgármestere (főpolgármestere) a kötelezésben foglaltak nem teljesítése esetén – a településkép-védelmi bírság ismételt kiszabása helyett – a kötelezést tartalmazó döntés végrehajtását foganatosítja, mely során a meghatározott cselekményt a kötelezett költségére és veszélyére elvégzi vagy mással elvégezteti, egyúttal a kötelezettet a felmerülő költség megfizetésére kötelezi.
 
 (3) A (2) bekezdés b)–d) pontjában szereplő településkép-érvényesítési eszközök alkalmazásának általános szabályait kormányrendelet, részletes szabályait az egyes önkormányzatok településképi rendelete tartalmazza.
 
@@ -163,9 +164,16 @@ szabályokat.
 
 11/C. § (1) A 11/B. § (1) és (2) bekezdésében, valamint az e törvény végrehajtására kiadott kormányrendeletben és településképi rendeletben meghatározott tilalmak megszegése és kötelezettségek elmulasztása esetén az e törvény végrehajtására kiadott kormányrendeletben kijelölt hatóság (a továbbiakban: hatóság) közigazgatási bírságot szab ki a reklám közzétevőjével szemben és megfelelő határidővel elrendeli a jogsértő állapot megszüntetését. A bírság mértéke 500 000 forinttól 3 000 000 forintig terjedhet, amely a jogsértő állapot előírt határidőn belüli megszüntetésének elmulasztása miatt ismételten is kiszabható.
 
-(2) Az (1) bekezdés szerinti közigazgatási bírság kiszabása során a hatóság mérlegeli a jogsértő magatartás súlyát, különösen a jogsértések számát és a településkép védelméhez fűződő érdek sérelmének mértékét, a jogsértés ismételtségét, időtartamát, a jogsértéssel elért előny mértékét.
+(2)
 
 (3) Az (1) bekezdés szerinti közigazgatási bírság megfizetése nem mentesíti a kötelezettet a jogsértő állapot megszüntetésének kötelezettsége alól. A végleges döntéssel kiszabott és be nem fizetett közigazgatási bírság adók módjára behajtandó köztartozásnak minősül.
+
+(4) Az (1) bekezdésben foglaltak alkalmazása helyett helyszíni bírság szabható ki, amely azonban nem mentesíti a jogsértőt a jogsértő állapot megszüntetésének kötelezettsége alól.
+
+(5) Ha a kötelezett a jogsértő állapotot nem szüntette meg, a hatóság – közigazgatási bírság ismételt kiszabása helyett –
+
+- a) a kötelezett költségére és veszélyére megszünteti a jogsértő állapotot, egyúttal a kötelezettet a felmerülő költség megfizetésére kötelezheti és
+- b) a reklámhordozót tartó berendezést, a reklámhordozót és a reklámot elkobozza.
 
 11/D. § Az ezen alcímben megállapított rendelkezések nem érintik a közúti közlekedésről szóló törvényben és a végrehajtására kiadott kormányrendeletben foglalt, a közutak környezetében elhelyezett reklámokra vonatkozóan közlekedésbiztonsági céllal meghatározott rendelkezéseket.
 
@@ -175,7 +183,7 @@ szabályokat.
 
 (2) A közigazgatási bírság kiszabására a közterület-felügyelet jogosult.
 
-(3) Ha a helyszíni intézkedés alkalmával az (1) bekezdés szerinti természetes személy a jogsértést teljes mértékben elismeri, a (2) bekezdés szerinti eljáró hatóság helyszíni bírságot szabhat ki.
+(3) A helyszíni intézkedés során helyszíni bírság alkalmazásának is van helye.
 
 (4) A közigazgatási bírság összege 10 000 forinttól 200 000 forintig terjedhet. A helyszíni bírság összege 5000 forinttól 100 000 forintig terjedhet.
 
@@ -226,11 +234,11 @@ szabályokat.
 
 - a) a kézikönyv és a településképi rendelet elkészítésére, egyeztetésére, elfogadására és módosítására vonatkozó részletes szabályokat, ideértve a polgármester (főpolgármester) és az önkormányzati főépítész e körbe tartozó településkép-védelmi feladatait, valamint a kézikönyv készítése során a társadalmi bevonás és nyilvánosság biztosításának szabályait,
 - b) a kézikönyv tartalmi elemeit és a településképi rendelet településképi követelményeinek részletes tartalmi kereteit, ideértve a helyi építészeti örökség védelmének szakmai szabályait is,
-- c) a településképi véleményezési, a településképi bejelentési és a településképi kötelezési eljárásra, illetve az önkormányzatnak a településkép-védelmi tájékoztatásra és szakmai konzultációra irányadó általános szabályait,
+- c) a településképi véleményezési, a településképi bejelentési, a településképi kötelezési eljárásra, a meghatározott cselekmény végrehajtására és mindezekről hatósági bizonyítvány kiállítására vonatkozó szabályokat, valamint az önkormányzatnak a településkép-védelmi tájékoztatásra és szakmai konzultációra irányadó általános szabályait,
 - d) a közterületen és a közterületről látható magánterületen elhelyezhető reklámok megengedett méreteit, a reklámközzététel megengedett technológiáit, módszereit, eszközeit,
 - e) a reklámhordozók általános formai követelményeit,
 - f) az e törvény szerinti reklámközzététel és reklámhordozó-elhelyezés szabályainak megszegéséért megállapítható jogkövetkezmények alkalmazására hatáskörrel rendelkező közigazgatási hatóság kijelölését,
-- g) a 11. § szerinti településkép-védelmi bírság, valamint a 11/E. § szerinti közigazgatási bírság, helyszíni bírság kiszabásának mérlegelési szempontjait és megfizetése módjának részletszabályait.
+- g) a 11. § szerinti településkép-védelmi bírság és helyszíni bírság, a 11/C. § szerinti közigazgatási bírság és helyszíni bírság, a 11/E. § szerinti településképi bírság és helyszíni bírság kiszabásának mérlegelési szempontjait és megfizetése módjának részletszabályait, valamint a 11/C. § szerinti esetben a reklámhordozót tartó berendezések, reklámhordozók és reklámok hatóság általi eltávolításának és elkobzásának szabályait,
 - h) az országos településkép-védelemmel érintett településképi szempontból kiemelten meghatározó területet és az érintett ingatlanokat,
 - i) a településképi szempontból kiemelten meghatározó területre vonatkozó egyedi kézikönyv tartalmi elemeit, az elkészítésére és egyeztetésére vonatkozó részletes szabályokat,
 - j) a településképi szempontból kiemelten meghatározó területre vonatkozó országos jelentőségű településképi követelményeket, továbbá a reklámhordozó és reklám elhelyezésére vonatkozó tilalmak és korlátozások alól e törvény által megengedett eltéréseket, a létesíthető reklámhordozók számát, megjelenésük különös formai (műszaki) követelményeit,

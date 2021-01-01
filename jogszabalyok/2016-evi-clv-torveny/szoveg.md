@@ -532,11 +532,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (3) A Hivatalos Statisztikai Szolgálat (1) bekezdés szerinti jogsértéssel érintett statisztikai adatfelvételt végrehajtó tagja az (1) bekezdés szerinti hatósági eljárás során ügyfélnek minősül.
 
-(4) Az (1) bekezdés szerinti bírság kiszabása során a hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – jogszabály eltérő rendelkezése hiányában – mérlegeli:
-
-- a) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket,
-- b) a jogsértő magatartás ismétlődését és gyakoriságát,
-- c) a jogsértést elkövető gazdasági súlyát.
+(4)
 
 (5)
 
@@ -548,11 +544,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (3) A Hivatalos Statisztikai Szolgálat (1) bekezdés szerinti jogsértéssel érintett statisztikai adatfelvételt végrehajtó tagja az (1) bekezdés szerinti hatósági eljárás során ügyfélnek minősül.
 
-(4) Az (1) bekezdés szerinti bírság kiszabása során a hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – jogszabály eltérő rendelkezése hiányában – mérlegeli:
-
-- a) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket,
-- b) a jogsértő magatartás ismétlődését és gyakoriságát,
-- c) a jogsértést elkövető gazdasági súlyát.
+(4)
 
 (5)
 

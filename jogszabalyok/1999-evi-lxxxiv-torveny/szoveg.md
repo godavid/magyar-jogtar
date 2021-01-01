@@ -115,6 +115,18 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 
 (3) A nyilvántartó más EGT-állam, vagy viszonosság esetén a harmadik ország nyilvántartó hatóságának nyilvántartásba vételéről szóló értesítése alapján haladéktalanul intézkedik a járműnyilvántartásban szereplő jármű forgalomból történő kivonásának járműnyilvántartásba történő bejegyzése iránt.
 
+(4) A Kormány rendeletében meghatározott egyes,
+
+- a) a vezetői engedéllyel,
+- b) a vezetési jogosultsággal,
+- c) a törzskönyvvel, a forgalmi engedéllyel, az igazolólappal, az ideiglenes forgalmi engedéllyel, az ideiglenes forgalomban tartási engedéllyel,
+- d) a jármű fogalomból történő kivonásával,
+- e) az állandó rendszámtáblával, az ideiglenes rendszámtáblával,
+- f) a forgalomban részvétel felfüggesztésével,
+- g) a parkolási igazolvánnyal
+
+összefüggő jogsértések miatt indult közigazgatási hatósági eljárásokban alkalmazott jogkövetkezményeket nem kell bejegyezni a Közigazgatási Szankciók Nyilvántartásába, valamint ezen jogsértések esetén közigazgatási szankcióként figyelmeztetés nem alkalmazható.
+
 6/B. § (1) A közlekedési igazgatási eljárásban az ügyfél, illetve az eljáró személy személyazonosságának ellenőrzése során a kérelemben, vagy a hivatalból induló eljárásban rendelkezésre álló személyi adatokat egyeztetni kell a személyazonosságot igazoló érvényes okmány adattartalmával vagy a bemutatott okiratokban szereplő adatokkal. A közlekedési igazgatási hatóság, valamint a Nyilvántartó az egyeztetést a személyiadat- és lakcímnyilvántartásban tárolt adatokkal is elvégzi. Az elektronikus ügyintézési ponton benyújtott kérelem esetén a személyazonosítást a személyiadat- és lakcímnyilvántartás szerve végzi.
 
 (2) A közlekedési igazgatási hatóság, valamint a Nyilvántartó a személyi azonosítót a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó személyek esetében az azt igazoló és az ügyfél által bemutatott okmány, vagy automatikus eljárásban a személyiadat- és lakcímnyilvántartás adatai alapján ellenőrzi.
@@ -398,9 +410,9 @@ kezeli.
 - c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
 - d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelesek nyilvántartásához a 8. § (1) bekezdés a) pont aa), ab), af) alpontjában, valamint a b) pont ba) és bc) alpontjában meghatározott adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozó hatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1)–(1b) bekezdésében, valamint a 9. § (2) bekezdés a) pontjában meghatározott adatokat;
 - e) a települési önkormányzat jegyzője
-  - ea) gépjármű-adóztatási feladatok ellátásához a 9. § (1)–(1c) és (2)–(6a) bekezdésében, valamint a 9/D. §-ban megjelölt adatokat,
+  - ea)
   - eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/D. § (1) bekezdés a)–c) pontjában, d) pont da)–db) alpontjában és e) pontjában, valamint a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
-- f) az adóhatóság az adóigazgatási eljáráshoz a 8. §(1) bekezdés a) pont aa) és ab) alpontjában, valamint a b) pont ba) és bc) alpontjában, a 9. § (1)–(1b) bekezdésében, a 9. § (2) bekezdés a)–c) és e) pontjában és a 9/D. § (1) bekezdés a)–d) pontjában, a 9/D. § (2) bekezdés a)–b) pontjában, valamint a 9/D. § (3) bekezdésében meghatározott adatokat;
+- f) az adóhatóság az adóigazgatási eljáráshoz a 8. § (1) bekezdés a) pont aa) és ab) alpontjában, a b) pont ba) és bc) alpontjában, a 9. § (1)–(1c) bekezdésében és (2)–(6a) bekezdésében, valamint a 9/D. §-ban megjelölt adatokat;
 - g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 8. § (1) bekezdés a) pont aa) és ab) alpontjában és b) pont ba), bc) és bd) alpontjában meghatározott adatokat;
 - h) a közterület-felügyelet
   - ha) közúti közlekedéssel összefüggő feladati ellátása céljából a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, valamint a 9. § (4) bekezdésében, a 9/D. § (1) bekezdés a)–b) pontjában, d) pont da)–db) alpontjában és e) pontjában, valamint a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében meghatározott adatokat,
@@ -434,7 +446,7 @@ kezeli.
 - d) a közfeladatot ellátó személyek vagy szervezetek, továbbá a 19. §-ban nem nevesített egyéb hatóságok, állami vagy önkormányzati szervek a rájuk vonatkozó jogszabályban meghatározott célok és feltételek teljesülése esetén, az ott meghatározott adatokra vagy iratokra vonatkozóan,
 - e) a Gfbt.-ben meghatározott biztosító és a Kártalanítási Számla kezelője díjmentesen a káreseménnyel érintett jármű Gfbt.-ben meghatározott Kártörténeti nyilvántartásba (a továbbiakban: kárnyilvántartás) történő vétele során, a károsult jármű rendszámának és alvázszámának, valamint magyarországi nyilvántartásba vétele tényének elektronikus ellenőrzése érdekében a 9. § (2) bekezdés a) pontjában foglalt adatokból a járműazonosító adatokat;
 - f) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pontjában, illetve 10. pontjában meghatározott kockázatok biztosítását – az erre vonatkozó engedély alapján – végző biztosító és a Kártalanítási Számla kezelője díjmentesen a gépjárműre vonatkozó biztosítási ajánlat elbírálása, illetve a kártérítési igények jogosságának megállapítása céljából a járműéletút-adatszolgáltatás igénybevételével a 24. § (3a) bekezdésében foglalt adatokat;
-- g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatainak ellátásához a 8. §-ban meghatározott adatokat.
+- g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatainak ellátásához a 8. §-ban meghatározott adatokat;
 
 (3) A nyilvántartásból adatot igényelhet:
 
@@ -705,7 +717,7 @@ továbbítására jogosult.
 33/B. § (1) A nyilvántartó felfüggeszti a vizsgálónak a vizsgálói tevékenységre való jogosultságát, ha
 
 - a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott közélet tisztasága elleni, közbizalom elleni vagy vagyon elleni,
-- b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXVII., XXXIII. vagy XXXV–XXXVII. Fejezetében meghatározott
+- b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXVII., XXXIII., XXXV–XXXVII. vagy XL. Fejezetében meghatározott
 
 bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 

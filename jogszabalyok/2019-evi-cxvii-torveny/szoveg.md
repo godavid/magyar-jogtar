@@ -36,9 +36,13 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 #### 7. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
-46. §
+46. § A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény (a továbbiakban: Hetv.) 19. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-47. §
+„(4) A jegyző az eljárás megindulását követő 8 napon belül megkezdi a leltározást. A belföldön kiállított halottvizsgálati bizonyítvány alapján indult eljárásban a jegyző a leltározást a halottvizsgálati bizonyítvány elektronikus beérkezésétől számított 5 napon belül kezdi meg.”
+
+47. § A Hetv. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A leltárt 30 napon belül el kell készíteni. E határidőt attól a naptól kell számítani, amikor a jegyző a kötelező leltározás alá eső vagyontárgyról vagy a leltár felvételét kötelezővé tevő tényről, körülményről okiratból tudomást szerzett. Belföldön kiállított halottvizsgálati bizonyítvány alapján indult eljárásban a leltárt legkésőbb a halottvizsgálati bizonyítvány elektronikus beérkezésének napjától számított 35. napig kell elkészíteni. A (4) bekezdésben meghatározott kivétellel a leltár elkészítésére meghatározott határidő meghosszabbítása, valamint a leltár elkészítésének felfüggesztése vagy szünetelése nem lehetséges.”
 
 48. §
 

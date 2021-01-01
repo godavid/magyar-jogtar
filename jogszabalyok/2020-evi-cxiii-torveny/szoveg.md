@@ -4,9 +4,29 @@ egyes energetikai tárgyú törvények módosításáról
 
 #### 1. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-#### 1. §
+1. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 121. § (1) bekezdése a következő a) ponttal egészül ki:
 
-#### 2. §
+(A hálózati engedélyes közcélú hálózat idegen ingatlanon történő építése céljából)
+
+„a) előmunkálati jogot,”
+
+(kérhet.)
+
+(2) A Vet. 121. § (3) bekezdése a következő a) ponttal egészül ki:
+
+(Az építtető az 50 MW vagy ezt meghaladó névleges teljesítményű erőmű és a megújuló energiaforrást hasznosító erőmű termelői vezetékének idegen ingatlanon történő elhelyezése céljából)
+
+„a) előmunkálati jogot,”
+
+(kérhet.)
+
+2. § A Vet. a következő „Előmunkálati jog” alcímmel egészül ki:
+
+„Előmunkálati jog
+
+122. § (1) A közcélú hálózat létesítésével kapcsolatban a hálózati engedélyes előmunkálati jog engedélyezése iránti kérelmet nyújthat be a Hatósághoz.
+
+(2) Az előmunkálati jog alapján az ingatlan tulajdonosa köteles tűrni, hogy ingatlanán a szükséges jeleket elhelyezzék, a méréseket és a talajvizsgálatot elvégezzék. Az előmunkálatok megkezdése előtt az ingatlan tulajdonosát a hálózati engedélyes az előmunkálatokról és azok megkezdésének időpontjáról értesíti.”
 
 #### 3. §
 
@@ -27,9 +47,9 @@ egyes energetikai tárgyú törvények módosításáról
 11. § A Vet.
 
 - a)
-- b)
-- c)
-- d)
+- b) 132. § (1) bekezdésében a „vezetékjogot engedélyezhet” szövegrész helyébe az „előmunkálati és vezetékjogot engedélyezhet” szöveg,
+- c) 132. § (1) bekezdésében az „a vezetékjogi engedély alapján” szövegrész helyébe az „az előmunkálati jog alapján a 122. § (2) bekezdésében és a vezetékjogi engedély alapján” szöveg,
+- d) 136. § (3) bekezdésében a „121. § (1) bekezdésének b) és c) pontja szerinti jogok megszűnése esetén a bejegyzett jog jogosultja” szövegrész helyébe a „121. § (1) bekezdése szerinti jogok megszűnése esetén az előmunkálati jog, valamint a bejegyzett jog jogosultja” szöveg,
 - e)
 - f)
 - g)

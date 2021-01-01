@@ -1341,7 +1341,16 @@ földgázrendszerhez való hozzáférés
 
 (5) A gázszerelő a nyilvántartásból törlésre kerül, ha a tevékenysége megszűnt, ha nem tesz eleget a külön jogszabályban meghatározott követelményeknek, illetve a gázszerelő ezt kéri.
 
-89. § (1) A csatlakozóvezeték és a felhasználói berendezés kiviteli tervét a gázfogyasztó készülékcsere kivételével – a kivitelezés megkezdése előtt – műszaki-biztonsági szempontok szerinti felülvizsgálatra be kell nyújtani a földgázelosztóhoz. A felülvizsgálathoz szükséges engedélyek rendelkezésre állása esetén a földgázelosztó a felülvizsgálatot 8 munkanapon belül köteles elvégezni. A földgázelosztónak a kivitelezésre alkalmasságot megállapító nyilatkozata hiányában a létesítmény nem kivitelezhető. A felülvizsgálat díjmentes.
+89. § (1) A csatlakozóvezeték és a felhasználói berendezés kiviteli tervét a gázfogyasztó készülékcsere kivételével – a kivitelezés megkezdése előtt – műszaki-biztonsági szempontok szerinti felülvizsgálatra be kell nyújtani a földgázelosztóhoz. A felülvizsgálathoz szükséges engedélyek rendelkezésre állása esetén a földgázelosztó a felülvizsgálatot 8 munkanapon belül köteles elvégezni. A felülvizsgálat díjmentes.
+
+(1a) A 108. § (7) bekezdése alapján díjmentes csatlakozásra jogosult igénybejelentő esetében, ha a földgázelosztó az igénybejelentést követő, az (1) bekezdésben foglalt határidő lejártát követő napig nem nyilatkozik, a kiviteli terv alkalmasságát megállapító nyilatkozat megadottnak tekintendő és a csatlakozóvezeték, illetve az ahhoz szükséges felhasználói berendezés a benyújtott kiviteli terv alapján kivitelezhető.
+
+(1b) A földgázelosztó – az igénybejelentő egyidejű tájékoztatása mellett – az (1a) bekezdés szerinti kivitelezés megtiltását kérelmezheti a műszaki biztonsági hatóságnál, ha a terv kivitelezésre alkalmatlan. A műszaki biztonsági hatóság a kérelem alapján dönt
+
+- a) a tervek kivitelezésre alkalmassága tárgyában, illetve
+- b) szükség szerint meghatározza azokat a műszaki biztonsági feltételeket, amelyek teljesülése esetén a terv kivitelezésre alkalmassága biztosítható.
+
+(1c) Az (1b) bekezdés szerinti eljárás az (1a) bekezdésben foglalt joghatás beálltától számított 20 napon belül kezdeményezhető. A határidő jogvesztő. A műszaki biztonsági hatóság az ügyben húsz napon belül dönt.
 
 (2) Ha a földgázelosztó a nyilatkozatával a tervet kivitelezésre alkalmatlannak minősítette, az ingatlan tulajdonosa a műszaki-biztonsági hatóságtól kérheti az alkalmassági nyilatkozat kiadását. A kivitelezésre való alkalmasság megállapítására indított eljárásra külön jogszabály rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az alkalmassági nyilatkozat kiadására irányuló kérelmet a kérelem érkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.
 
@@ -1366,6 +1375,26 @@ földgázrendszerhez való hozzáférés
 (7a) A (7) bekezdés szerinti gáztömörségi felülvizsgálat kiszervezhető tevékenységnek minősül.
 
 (8)
+
+89/A. § (1) A 108. § (7) bekezdése alapján díjmentes csatlakozásra jogosult igénybejelentőnek a földgázelosztó megtéríti a csatlakozással kapcsolatos, igazolt költségeit, ha
+
+- a) a kiviteli terv alapján a csatlakozóvezeték és a felhasználói berendezés kivitelezése a 89. § alapján megkezdhető,
+- b) az igénybejelentő a csatlakozóvezeték és a felhasználói berendezés kivitelezését befejezi, és azt
+  - ba) a földgázelosztónak a 89. § (1) bekezdése szerinti felülvizsgálat eredményeként kiadott, a tervek kivitelezésre alkalmasságáról szóló nyilatkozata kézhezvételétől,
+  - bb) nyilatkozat hiányában a 89. § (1) bekezdésében foglalt határidő lejártától,
+  - bc) a 89. § (1b) bekezdés alapján folytatott eljárásban meghozott, a tervek kivitelezésre alkalmasságát megállapító döntés véglegessé válásától, vagy
+  - bd) a 89. § (2) bekezdés szerinti döntés véglegessé válásától
+
+számított százhúsz napon belül bejelenti, és
+
+- c) a 89. § (4a) bekezdés szerinti olyan közigazgatási hatósági eljárásra kerül sor, amely az üzembe helyezés elrendelésével zárul.
+
+(2) Ha a költségek (1) bekezdés szerinti megtérítésére a megtérítési igény bejelentését követő 15 napon belül nem került sor, a fizetésre kötelezés tárgyában a műszaki biztonsági hatóság kérelemre dönt. A kérelem az (1) bekezdés c) pontja szerinti eljárás keretében is előterjeszthető.
+
+(3) A (2) bekezdés szerinti eljárás igazgatási szolgáltatási díja huszonkétezer forint. A hatóság a díj megfizetésére az eljárást lezáró döntésében
+
+- a) a földgázelosztót kötelezi, ha a kérelmező kérelmének részben vagy egészben helyt ad,
+- b) a kérelmezőt kötelezi, ha a kérelmet elutasítja.
 
 ### Az idegen ingatlanok tulajdon- és használati jogának korlátozása
 
@@ -1832,7 +1861,7 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 (7) Mentes a csatlakozási díj és minden más, a földgázelosztónak fizetendő díj alól a legfeljebb 4 m3/óra névleges teljesítményű fogyasztásmérő beszerelése azzal, hogy ebben az esetben az elosztóvezeték építése 250 méterig díjmentes. Ha az elosztóvezeték hossza meghaladja a 250 métert, a díjakat a 250 méter feletti részre kell megfizetni.
 
-(8) A (7) bekezdés szerinti mentességet több lakást vagy több nem lakás céljára szolgáló helyiséget magában foglaló ingatlan esetében lakásonként, illetve nem lakás céljára szolgáló helyiségenként kell alkalmazni.
+(8) A (7) bekezdés szerinti mentességet több lakást vagy lakóházat és a hozzájuk tartozó több nem lakás céljára szolgáló helyiséget vagy épületet magában foglaló ingatlan esetében lakásonként, lakóházanként, illetve nem lakás céljára szolgáló helyiségenként, épületenként kell alkalmazni.
 
 (9) A (7) bekezdés szerinti feltételek teljesülése esetén a földgázelosztó a csatlakozási igény teljesítését nem kötheti óvadék, letét, előleg, kötbér vagy más fizetési kötelezettség teljesítéséhez, előírásához.
 
@@ -2093,8 +2122,8 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 - a) felhívja az engedélyes figyelmét a kötelezettségei teljesítésére és határidő tűzésével kötelezi a jogsértés megszüntetésére,
 - b) bírságot szabhat ki,
-- c) a határidő eredménytelen eltelte után az engedélyes tevékenységét felfüggesztheti,
-- d) azonnali hatállyal eltilthatja a tevékenység folytatásától,
+- c)
+- d) eltilthatja a tevékenység folytatásától,
 - e) a működési engedélyt felfüggesztheti vagy visszavonhatja.
 
 (2) Ha a rendszerüzemeltetők vagy a telephelyi szolgáltató működési zavarai, vagy a működésükre vonatkozó információk alapján a felhasználók folyamatos földgázellátása várhatóan veszélyeztetetté válik, valamint a szállító- és az elosztóvezeték, valamint a tároló tulajdonosa nem tesz eleget kötelezettségeinek, a Hivatal megteszi a szükséges intézkedéseket, így különösen
@@ -2119,6 +2148,8 @@ foglalt kötelezettségét nem teljesíti.
 (3a) A Hivatal kormányrendeletben meghatározott eljárás keretében más engedélyest is kijelölhet a tevékenység folytatására, ha az engedélyben foglalt tevékenységet nem a jogszabályi előírásoknak megfelelően folytatják, és ez közvetlenül veszélyezteti a folyamatos és biztonságos földgázellátást, illetve közvetlenül a földgázrendszer jelentős zavarát idézheti elő.
 
 (3b) A Hivatal más engedélyes kijelölése esetén az engedélyest kötelezheti arra, hogy a folyamatos és biztonságos földgázellátás érdekében a rendszerhasználókkal történő kapcsolattartás, a szerződéses feltételek teljesítéséhez szükséges nyilvántartásokat, adatokat a kijelölt engedélyesnek adja át.
+
+(3c) Az (1) bekezdés d) pontja szerinti eltiltás 5 évnél hosszabb időtartamra nem szólhat.
 
 (4) A Hivatal az engedélyt módosíthatja vagy visszavonhatja, ha az engedélyes az ellátás-, az élet-, az egészség-, az üzem- és a vagyonbiztonságot vagy a környezetet veszélyeztető módon üzemelteti a szállító- és az elosztóvezetéket, valamint a tárolót, továbbá ha a jogszabályban meghatározott kötelezettségeinek és az engedélyben foglaltaknak nem képes eleget tenni.
 
@@ -2785,7 +2816,7 @@ tartalmazza.
 - 51. a földgázellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
 - 52. a földgázkereskedő által a földgáz biztonsági készletezéséről szóló törvény szerinti tagi hozzájárulás visszaigénylése céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat,
 - 53. az e törvény szerinti, a PB-gáz tartályban vagy palackban történő forgalmazásának, valamint a turista használatú palackba történő PB-gáz-átfejtés szabályait és hatósági felügyeletét, az e tevékenységre jogosító engedély kiadásának rendjét, az e tevékenységet folytatókról vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a fogyasztóvédelmi előírásokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek megszegése esetén alkalmazandó jogkövetkezményeket,
-- 54. a fogyasztói vezeték üzembe helyezésének megtagadása esetén az eljáró műszaki biztonsági hatóságot, valamint a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait.
+- 54. a fogyasztói vezeték üzembe helyezésének megtagadása esetén az eljáró műszaki biztonsági hatóságot, valamint a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása, továbbá a 89/A. § (2) bekezdése szerinti eljárás anyagi és eljárási szabályait.
 - 55. készülékcsere gázszerelésének műszaki-biztonsági szempontú ellenőrzését végző tervező mérnök felelősségbiztosítására vonatkozó rendelkezéseket,
 - 56. a csatlakozóvezetékek, telephelyi vezetékek és felhasználói berendezések hatósági eljárásaival kapcsolatos szabályokat.
 
@@ -2826,7 +2857,7 @@ tartalmazza.
 - 3. a csatlakozóvezeték és a felhasználói berendezés, valamint a telephelyi vezeték létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeit, feltételeit, a műszaki biztonsági dokumentáció tartalmát,
 - 4. a gázfogyasztó készülékek forgalomba hozatalára, üzembe helyezésére, üzemeltetésére, valamint megfelelőségük tanúsítására vonatkozó részletes szabályokat,
 - 5.
-- 6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásért fizetendő igazgatási szolgáltatási díj – ideértve a jogorvoslati díjat is – mértékét és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+- 6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásért fizetendő igazgatási szolgáltatási díj – ideértve a jogorvoslati díjat is – mértékét a 89/A. § szerinti díj mértékének kivételével, és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (3)
 
@@ -3128,7 +3159,7 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 - a) a jogkövetkezményekre való utalás mellett írásban felszólítja a projekttársaságot kötelezettségei betartására,
 - b) ismételten is kiszabható bírsággal sújthatja projekttársaságot, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is, vagy
-- c) azonnali hatállyal eltilthatja a projekttársaságot az adott tevékenység folytatásától.
+- c) eltilthatja a projekttársaságot az adott tevékenység folytatásától.
 
 143. § (1) A szállítási rendszerüzemeltető a kapacitáslekötési platform szabályzatát a Mód. 6. törvény hatálybalépését követő napon köteles benyújtani jóváhagyásra a Hivatalhoz. A szabályzat tervezetét a szállítási rendszerüzemeltető köteles honlapján tájékoztató jelleggel közzétenni.
 
@@ -3297,6 +3328,8 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 - b) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikke;
 - c) az Európai Parlament és a Tanács 2014/65/EU irányelve (2014. május 15.) a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról;
 - d) a földgáz belső piacára vonatkozó közös szabályokról szóló 2009/73/EK irányelv módosításáról szóló, 2019. április 17-i 2019/692/EU európai parlamenti és tanácsi irányelv.
+- e) az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelv 1. cikk 5., 7., 9. pontja és a Melléklet 3. pontja;
+- f) a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i (EU) 2019/944 európai parlamenti és tanácsi irányelv 70. cikk 1., 3. és 6. pontja.
 
 (2) Ez a törvény a földgázszállító-hálózatokhoz való hozzáférés feltételeiről és az 1775/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 

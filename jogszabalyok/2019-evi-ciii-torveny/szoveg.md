@@ -18,7 +18,9 @@ a fiatalkorúak dohányzásának visszaszorításával és a nemdohányzók véd
 
 5. § (1)
 
-(2)
+(2) Az Fdvtv. 4. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A részvénytársaságnak a (2) bekezdésben és a 10/C. §-ban meghatározott feladatai közfeladatnak minősülnek.”
 
 6. §
 
@@ -26,7 +28,11 @@ a fiatalkorúak dohányzásának visszaszorításával és a nemdohányzók véd
 
 8. §
 
-9. §
+9. § Az Fdvtv. 10/B. §-a a következő (4)–(5) bekezdéssel egészül ki:
+
+„(4) A miniszter a részvénytársaság közfeladatainak ellátásához szükséges forrást közszolgáltatási szerződés útján biztosítja úgy, hogy a koncessziós díjból származó bevétel legalább 60 százalékának megfelelő összeget a részvénytársaság működési költségeinek fedezésére kell fordítani. Az egyéb feladatokhoz szükséges forrásokat az éves központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatási szerződés keretében kell biztosítani.
+
+(5) Az állam jogosult azon személytől éves díjra (a továbbiakban: jogosultsági díj), akit a 10. § (1) bekezdése alapján a dohánytermékek kiskereskedelmére vonatkozó jogosultság gyakorlására – a részvénytársaság útján – külön feljogosít. A jogosultsági díj mértéke a tevékenység folytatására külön feljogosított személy által forgalmazott dohánytermékek kiskereskedelmi eladási árának 1%-a, de legfeljebb az adott településen egyébként irányadó koncessziós díj összege. A jogosultsági díjat a tevékenység folytatására külön feljogosított személy által külön jogszabály alapján szolgáltatandó forgalmi adatok alapján kell megállapítani, amelyet a tevékenység folytatására feljogosított személy a tárgyévet követő negyedév végéig, a jogviszony évközi megszűnése esetén a megszűnést követő negyedév végéig köteles az állam részére – a részvénytársaság felhívására – megfizetni. A jogosultsági díjra egyebekben a koncessziós díjra vonatkozó jogszabályi rendelkezéseket is megfelelően alkalmazni kell.”
 
 10. §
 
@@ -58,7 +64,9 @@ a fiatalkorúak dohányzásának visszaszorításával és a nemdohányzók véd
 
 24. § (1)
 
-(2)
+(2) Az Fdvtv. 24/A. §-a a következő (13) bekezdéssel egészül ki:
+
+„(13) E törvénynek a Módtv.3.-mal megállapított 10/B. § (5) bekezdése alapján előírt fizetési kötelezettséget első alkalommal 2022. március 31-ig, a jogviszony 2021. évközi megszűnése esetén a megszűnést követő negyedév végéig kell a részvénytársaság felhívására teljesíteni.”
 
 25. §
 

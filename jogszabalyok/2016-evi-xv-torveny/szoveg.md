@@ -9,7 +9,7 @@ Az Országgyűlés az otthonteremtési lehetőségek bővítése, a lakásállom
 1. § (1) E törvény alkalmazásában
 
 - 1. új lakóingatlan: a meglévő épület vagy épületrész átalakítása kivételével
-  - a) az alapozási munkáktól kezdődően teljes egészében újonnan épített, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan a hozzá tartozó földrészlettel (a továbbiakban: lakóingatlan), amely elkészültét követően, az adásvételi szerződés megkötésének időpontjában használatbavételi engedéllyel, használatbavétel tudomásulvételéről vagy bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal rendelkezik, ideértve a tanyán található lakóépületet is, és amely legalább az alábbi feltételeknek megfelel: aa) 12 négyzetmétert meghaladó alapterületű lakószobával és főzőhelyiséggel – ennek hiányában további, legalább 4 négyzetméter alapterületű, a főzést lehetővé tevő, önálló szellőzésű lakótérrel, térbővülettel –, továbbá fürdőhelyiséggel és WC-vel rendelkezik, ab) közműves villamos energia szolgáltatással rendelkezik, ac) egyedi fűtési móddal rendelkezik, ad) közműves szennyvízelvezetéssel rendelkezik, vagy ha nincs a településen (településrészen) közműves szennyvízelvezetés, a szennyvíz tisztítása és elhelyezése egyedi szennyvízkezelő berendezéssel vagy tisztítómezővel ellátott oldómedencés műtárggyal vagy időszakos tárolása egyedi zárt szennyvíztárolóban történik, és ae) közműves ivóvíz-szolgáltatással rendelkezik, vagy ha a településen (településrészen) nincs közműves vízszolgáltatás, a telken ivóvíz minőségű vizet szolgáltató kút van; vagy
+  - a) az alapozási munkáktól kezdődően teljes egészében újonnan épített, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan a hozzá tartozó földrészlettel (a továbbiakban: lakóingatlan), amely az elkészültét követően, az adásvételi szerződés megkötésének időpontjában használatbavételi engedéllyel, használatbavétel tudomásulvételéről vagy bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal rendelkezik, ideértve a tanyán található lakóépületet is, és amely legalább az alábbi feltételeknek megfelel: aa) 12 négyzetmétert meghaladó alapterületű lakószobával és főzőhelyiséggel – ennek hiányában további, legalább 4 négyzetméter alapterületű, a főzést lehetővé tevő, önálló szellőzésű lakótérrel, térbővülettel –, továbbá fürdőhelyiséggel és WC-vel rendelkezik, ab) közműves villamos energia szolgáltatással rendelkezik, ac) egyedi fűtési móddal rendelkezik, ad) közműves szennyvízelvezetéssel rendelkezik, vagy ha nincs a településen (településrészen) közműves szennyvízelvezetés, a szennyvíz tisztítása és elhelyezése egyedi szennyvízkezelő berendezéssel vagy tisztítómezővel ellátott oldómedencés műtárggyal vagy időszakos tárolása egyedi zárt szennyvíztárolóban történik, és ae) közműves ivóvíz-szolgáltatással rendelkezik, vagy ha a településen (településrészen) nincs közműves vízszolgáltatás, a telken ivóvíz minőségű vizet szolgáltató kút van; vagy
   - b) tetőtér beépítéssel vagy emelet-ráépítéssel létrehozott lakóingatlan akkor, ha a tetőtér beépítés vagy emelet-ráépítés révén legalább két új önálló albetétként nyilvántartott, lépcsőházból vagy szabadlépcsőn megközelíthető, külön bejárattal rendelkező, az a) pont aa)–ae) alpontja szerinti feltételnek megfelelő újabb lakóingatlan jön létre, és
   - c) olyan lakóingatlan, amelyet gazdálkodó szervezet – ideértve az egyéni vállalkozót is – természetes személy részére való értékesítés céljára épít vagy építtet, és amelyet első ízben természetes személy részére értékesítenek.
 - 2. szervező: a nemzeti otthonteremtési közösség működtetését végző, valamint annak vagyonát kezelő gazdálkodó szervezet, amelynek vagyona elkülönül az általa működtetett nemzeti otthonteremtési közösség vagyonától.
@@ -418,7 +418,7 @@ rendelkezik.
 
 #### 10. A közösség tagja által kötött adásvételi szerződésre vonatkozó rendelkezések
 
-30. § (1) Új lakóingatlan vásárlása esetén az adásvételi szerződést a tag – a közösség, mint az ingatlan kiválasztásában és az adásvételi szerződés előkészítésében való közreműködésével – az ingatlan tulajdonosával a saját nevében köti meg.
+30. § (1) Új lakóingatlan vásárlása esetén az adásvételi szerződést a tag – a közösség mint az ingatlan kiválasztásában és az adásvételi szerződés előkészítésében való közreműködésével – az ingatlan tulajdonosával a saját nevében köti meg.
 
 (2) A közösség tagja által, új lakóingatlan vásárlása érdekében kötött adásvételi szerződésben
 
@@ -464,7 +464,7 @@ terhelheti meg.
 
 (9) A tag állami támogatásra való jogosultsága esetén a szerződés futamidejéhez igazodó időarányos támogatással csökkentett havi alaprészletet köteles megfizetni.
 
-#### 13. Beszámítás
+#### 12. Beszámítás
 
 32. § (1) A tag a tagsági szerződés megkötésekor írásban jelzi a szervező felé, ha lakóingatlan vásárlása esetén saját tulajdonában álló lakóingatlanát a kiválasztást követően a szervezőnek vételre fel kívánja ajánlani (beszámítás).
 
@@ -472,7 +472,7 @@ terhelheti meg.
 
 (3) A vételi ajánlat elfogadását követően a tag a befolyt vételárat kizárólag a közösségben fennálló tagsági jogviszonyára tekintettel vásárolni kívánt lakóingatlan vásárlására használhatja fel.
 
-#### 14. Állami támogatás
+#### 13. Állami támogatás
 
 33. § (1) A közösséggel szerződéses viszonyban álló tagot az általa az adott megtakarítási évben teljesített befizetéséhez igazodó mértékben állami támogatás illeti meg, ha a közösség vagyonát kezelő szervező e törvény rendelkezései alapján megbízható szervezőnek minősül.
 
@@ -492,7 +492,7 @@ terhelheti meg.
 
 ### VI. Fejezet — A KÖZÖSSÉG ÉS A SZERVEZŐ FELÜGYELETE
 
-#### 15. Általános szabályok
+#### 14. Általános szabályok
 
 34. § (1) A Hatóság feladatait a Magyar Nemzeti Bank látja el.
 
@@ -516,7 +516,7 @@ terhelheti meg.
 
 (6) A Hatóságnak az e törvény szerinti eljárásaira a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB törvény) rendelkezéseit – az e törvényben meghatározott eltérésekkel – kell alkalmazni.
 
-#### 16. Engedély és nyilvántartásba vétel
+#### 15. Engedély és nyilvántartásba vétel
 
 36. § (1) A Hatóság engedélye szükséges a szervezőként való elismeréshez.
 
@@ -550,7 +550,7 @@ terhelheti meg.
 - b) a kérelmező az engedélyezési eljárásban megtévesztő vagy valótlan adatot közöl, vagy
 - c) a kérelmező képviselője devizakülföldi, és nincs kézbesítési megbízottja.
 
-#### 17. Az engedély visszavonása és visszaadása
+#### 16. Az engedély visszavonása és visszaadása
 
 40. § A Hatóság a szervező engedélyét a közösség létrejöttéig visszavonhatja, ha
 
@@ -568,7 +568,7 @@ terhelheti meg.
 
 42. § A szervező a szervezőként való elismerésére vonatkozó engedélyét nem adhatja vissza, kivéve, ha egyidejűleg e törvény követelményeinek megfelelő új szervező szervezőként való elismerési kérelmet nyújt be, melyben vállalja az érintett közösséggel összefüggő feladatok átvételét. Ebben az esetben a 11. § e) pontja szerinti korlátozás nem alkalmazható.
 
-#### 18. Hatósági díj
+#### 17. Hatósági díj
 
 43. § (1) A szervező a Hatóság részére a felügyeleti feladatok ellátásáért igazgatási szolgáltatási díjat fizet, amely alapdíj és évente megállapításra kerülő díjrészlet.
 
@@ -576,7 +576,7 @@ terhelheti meg.
 
 (3) A szervező által a Hatóság részére fizetendő díjrészlet éves mértéke a tagok által teljesített éves szervezési díj befizetések összegének 0,25 ezreléke.
 
-#### 19. A Hatóság eljárása
+#### 18. A Hatóság eljárása
 
 44. § (1) A Hatóság folyamatosan ellenőrzi, hogy a szervező megfelel-e az e törvényben meghatározott feltételeknek. A Hatóság ellenőrzési jogkörében – más államigazgatási szerv hatáskörébe tartozó előzetes kérdés tisztázása érdekében – a fogyasztóvédelmi hatóság, valamint az állami adóhatóság véleményét is megkérheti.
 
@@ -594,7 +594,7 @@ terhelheti meg.
 
 45. § A Hatóság által a közösséggel, illetve a szervezővel szemben alkalmazható intézkedésekre és szankciókra, azok közzétételére, a Hatóság közösséggel kapcsolatos nyilvántartásba vételi és a szervezővel kapcsolatos engedélyezési és nyilvántartásba vételi eljárás szabályaira, az ellenőrzési tevékenységére és felügyeletére, valamint a tagokkal szemben tanúsítandó magatartás, a tagok felé fennálló kötelezettségek ellenőrzésére az MNB törvény rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-#### 20. A Hatóság nyilvántartása
+#### 19. A Hatóság nyilvántartása
 
 46. § (1) A Hatóság nyilvántartásba veszi a következő adatokat és az azokban bekövetkezett változásokat:
 
@@ -631,7 +631,7 @@ jogosult kezelni.
 
 ### VII. Fejezet
 
-#### 21. Záró rendelkezések
+#### 20. Záró rendelkezések
 
 47. § Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg
 

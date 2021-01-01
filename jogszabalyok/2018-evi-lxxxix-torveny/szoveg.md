@@ -6,7 +6,7 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
 
 #### 1. Az oktatási nyilvántartás
 
-1. § (1) A közneveléssel, a szakképzéssel, a felsőoktatással, a felnőttképzéssel, a nyelvvizsgáztatással és a pályakövetéssel kapcsolatos állami hatáskörök gyakorlásához, a nemzetgazdasági szintű tervezéshez, a köznevelésben, a szakképzésben, a felsőoktatásban, a nyelvvizsgáztatásban és a pályakövetésben részt vevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez, az adatbiztonság biztosításához szükséges adatokat központi nyilvántartásban (a továbbiakban: oktatási nyilvántartás) kell kezelni.
+1. § (1) A közneveléssel, a szakképzéssel, a felsőoktatással, a felnőttképzéssel, az azokkal összefüggő pályakövetéssel és diplomás pályakövetéssel, továbbá a nyelvvizsgáztatással kapcsolatos közfeladatok ellátásához, az érintettek jogai gyakorlásának és kötelezettségei teljesítésének támogatásához, a nemzetgazdasági szintű tervezés megalapozásához, illetve az adatbiztonság biztosításához szükséges adatokat központi nyilvántartásban (a továbbiakban: oktatási nyilvántartás) kell kezelni.
 
 (2) Az oktatási nyilvántartás elektronikus formában létrehozott közhiteles nyilvántartás, amelynek célja
 
@@ -31,7 +31,7 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
 - k) a személyiadat- és lakcímnyilvántartásból kikerülés időpontja és oka,
 - l) oktatási azonosító szám,
 - m) az azonosításhoz szükséges kapcsolati kódok,
-- n) a szakrendszerek 1–6. mellékletben meghatározott adatai.
+- n) a 4. § (1) bekezdése szerinti szakrendszerek 1–6. mellékletben meghatározott adatai.
 
 3. § (1) Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartásban az 1. § (2) bekezdés a) pontja szerinti azonosítás céljából a természetes személy alábbi adatait kezeli:
 
@@ -39,15 +39,15 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
 - b) társadalombiztosítási azonosító jel vagy
 - c) személyazonosító okmány száma.
 
-(2)
+(2) Az (1) bekezdés szerinti adatok a sikeres azonosításig kezelhetők.
 
-(3) Az oktatási nyilvántartás működéséért felelős szerv a nyilvántartott személyek 2. § a)–h) és l) pontja szerinti adatairól – azonosítás, ellenőrzés és pontosítás céljából – térítésmentesen, elektronikus úton adatot igényel a személyiadat- és lakcímnyilvántartást kezelő szervtől.
+(3) Az oktatási nyilvántartás működéséért felelős szerv a nyilvántartott személyek 2. § a)–h) és j)–k) pontja szerinti adatairól – azonosítás, ellenőrzés és pontosítás céljából – térítésmentesen, elektronikus úton adatot igényel a személyiadat- és lakcímnyilvántartást kezelő szervtől.
 
 (3a) A személyiadat- és lakcímnyilvántartást kezelő szerv minden év január 15-éig adatot szolgáltat az oktatási nyilvántartás működéséért felelős szerv számára az adott évben a harmadik életévüket betöltő gyermekek, továbbá folyamatosan a Magyarország területére érkező óvodába járni köteles vagy tanköteles gyermekek 2. § a)–h) pontja szerinti adatai vonatkozásában.
 
 (4) Az oktatási nyilvántartás működéséért felelős szerv a 2. § a)–e) pontjában meghatározott adatokról adategyeztetés céljából az összerendelési nyilvántartáson keresztül adatot igényel a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 10/A. § (2) bekezdése szerinti azonosítók képzésére jogosult adatkezelőktől.
 
-3/A. § (1) A természetes személynek egy oktatási azonosító száma lehet.
+3/A. § (1) A természetes személynek egy oktatási azonosító száma lehet, továbbá egy oktatási azonosító számhoz egy természetes személy tartozhat.
 
 (2) Az oktatási nyilvántartás működéséért felelős szerv oktatási azonosító számot ad annak az oktatási azonosító számmal még nem rendelkező természetes személynek, aki
 
@@ -68,15 +68,22 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
   - c) a szakképző intézmény alkalmazottja,
 - 3. a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) alapján
   - a) a központi felsőoktatási felvételi eljárásban felsőoktatási intézménybe jelentkezik,
-  - b) hallgatói jogviszonyban áll,
+  - b) hallgatói jogviszonyban áll vagy részére a felsőoktatási intézmény oklevelet adott ki a felsőfokú tanulmányok lezárását követően,
   - c) doktorjelölti jogviszonyban áll,
   - d) felsőoktatási intézményben oktató, kutató, tanári munkakörben dolgozik,
   - e) felsőoktatási intézményben oktatási tevékenység ellátására megbízási jogviszonyban dolgozik,
-  - f) részére oktatási igazolvány kerül kibocsátásra,
+  - f)
 - 3a. felnőttképzési jogviszonyban áll,
 - 4. a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásában szerepel.
+- 5. részére oktatási igazolvány kerül kibocsátásra.
+
+(3) A kiadott oktatási azonosító számot az azt igénylő köznevelési intézmény, szakképző intézmény, felsőoktatási intézmény, illetve felnőttképző számára az oktatási nyilvántartás 4. § (1) bekezdés a)–d) pontja szerinti szakrendszere útján kell elérhetővé tenni és egyidejűleg át kell adni a pályakövetési rendszer részére.
+
+3/B. § Törvény eltérő rendelkezése hiányában az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartásban szereplő személy adatait az oktatási nyilvántartásba történő legelső bejegyzést követő nyolcvanadik év utolsó napjával, elhunyt személy esetén a halál tényének az oktatási nyilvántartás működéséért felelős szerv tudomására jutásától számított ötödik év utolsó napjával törli.
 
 #### 2. Az oktatási nyilvántartás szakrendszerei
+
+3/C. § Az oktatási személyi nyilvántartás az oktatási nyilvántartás 2. § a)–m) pontjában meghatározott adatokat tartalmazó szakrendszer, amely biztosítja a 4. § (1) bekezdése szerinti szakrendszerek részére ezen adatok átadását, illetve ezen adatokkal való egyezőség ellenőrzését.
 
 4. § (1) Az oktatási nyilvántartás szakrendszeri nyilvántartásai:
 
@@ -88,7 +95,8 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
 - f) az oktatási igazolványok intézményi adminisztrációs rendszere,
 - g) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása,
 - h) a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása,
-- i) a pályakövetési rendszer.
+- i) a pályakövetési rendszer,
+- j) a diplomás pályakövetési rendszer (a továbbiakban: DPR).
 
 (2) Az (1) bekezdés a) pontja szerinti szakrendszer személyes adatokat tartalmazó alrendszerei:
 
@@ -130,7 +138,9 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
 
 (4) Az (1) bekezdés szerinti szakrendszerek további, jogszabályban meghatározott, személyes adatokat nem tartalmazó alrendszereket, alkalmazásokat tartalmazhatnak.
 
-(5) Az oktatási nyilvántartás egyes szakrendszere, alrendszere személyes adatai célhoz kötötten egymás között átadhatók.
+(5) Az oktatási nyilvántartás egyes szakrendszerei, valamint annak egyes alrendszerei célhoz kötötten, álnevesített formában, szakpolitikai stratégiai döntés-előkészítés, elemzés, tervezés céljából összekapcsolhatók, továbbá az azokban kezelt adatok célhoz kötötten egymás között átadhatók.
+
+(5a) A köznevelés információs rendszerének a (2) bekezdés c)–f) pontja szerinti alrendszereiből, valamint az (1) bekezdés c), g), i) és j pontja szerinti szakrendszerekből az oktatási nyilvántartás működéséért felelős szerv által létrehozott, egyéni szinten, de személyazonosításra alkalmatlan módon meghatározott adatokat tartalmazó kutatói adatbázisok létrehozhatók. Az így létrehozott kutatói adatbázisok tudományos kutatási és statisztikai célból, célhoz kötötten átadhatók tudományos kutatási tevékenységet végző költségvetési szervnek.
 
 (6) Az oktatási nyilvántartásban kezelt személyes adatok körét
 
@@ -155,9 +165,22 @@ határozza meg.
 
 (11)
 
-#### 5. §
+4/A. § Az érintett
+
+- a) a felsőoktatási információs rendszerben tárolt, 3. melléklet II. része és IV. rész 1–22. pontja szerinti személyes adatainak helyesbítését, az adatkezelés korlátozását, az adatot szolgáltató felsőoktatási intézménytől, a Tempus Közalapítványtól vagy a Klebelsberg Központtól,
+- b) a felsőoktatási információs rendszerben tárolt, 3. melléklet IV. rész 23. pontja szerinti személyes adatainak helyesbítését, az adatkezelés korlátozását az adatot szolgáltató Diákhitel Központtól,
+- c) az Nftv. 48/A–48/S. §-a szerinti magyar állami ösztöndíjas kötelezettségei nyomon követéséhez a felsőoktatási információs rendszeren keresztül kapott, a 3. melléklet II. része és IV. rész 1–22. pontja szerinti személyes adatainak helyesbítését a felsőoktatási információs rendszerbe adatot szolgáltató felsőoktatási intézménytől,
+- d) az Nftv. 48/A–48/S. §-a szerinti magyar állami ösztöndíjas kötelezettségei nyomon követéséhez a 6. § (5) bekezdésében meghatározott hatóság által vezetett nyilvántartásból kapott személyes adatainak helyesbítését a 6. § (5) bekezdésében meghatározott hatóságtól
+
+jogosult kérni.
 
 #### 3. Az oktatási nyilvántartásba történő adatszolgáltatás
+
+5. § (1) Az e törvényben vagy más jogszabályban meghatározott adatkezelő az e törvényben vagy más jogszabályban meghatározott adatot szolgáltat az oktatási nyilvántartásba. Az adatkezelő és az oktatási nyilvántartás működéséért felelős szerv megállapodása alapján az adatszolgáltatás elektronikus adatkapcsolaton keresztül történő adatátadással is történhet.
+
+(2) Az adatkezelő az érintett azonosításához szükséges – a 2. § a)–j) és l) pontjában, valamint a 3. § (1) bekezdésében foglalt – adatokat az érintett sikeres azonosításáig kezeli és az azonosítás céljából továbbítja az oktatási nyilvántartás működéséért felelős szerv részére.
+
+(3) Az adatkezelő felel az általa szolgáltatott adatok pontosságáért.
 
 6. § (1) A köznevelési intézmény, a szakképző intézmény és a felsőoktatási intézmény, a felnőttképző, a jegyző, a közneveléssel, a szakképzéssel és a felsőoktatással összefüggő igazgatási, ellenőrzési tevékenységet végző közigazgatási szerv és az e törvényben meghatározott feladatok végrehajtásában közreműködő intézményfenntartók, intézmények adatokat szolgáltatnak az oktatási nyilvántartásba.
 
@@ -180,32 +203,58 @@ határozza meg.
 (4) A 4. § (3) bekezdés d) pontja szerinti hallgatói személyi törzs alrendszer részére továbbá
 
 - a) a Diákhitel Központ szolgáltatja a 3. melléklet IV. rész 23. pontja szerinti adatot,
-- b) a Tempus Közalapítvány szolgáltatja az általa kezelt, a 3. melléklet IV. rész 8. és 21. pontja szerinti adatot,
+- b) a Tempus Közalapítvány szolgáltatja az általa kezelt, a 3. melléklet IV. rész 8. és 21. pontja szerinti adatot, a Hungary Helps Ügynökség Nonprofit Zrt. szolgáltatja az általa kezelt, a 3. melléklet IV. rész 21. pontja szerinti adatot,
 - c) a Klebelsberg Központ szolgáltatja az általa kezelt, a 3. melléklet IV. rész 21. pontja szerinti adatot.
 
-(5) Az oktatási nyilvántartás működéséért felelős szerv a 4. § (1) bekezdés g) pontja szerinti, a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása szakrendszer 5. melléklet szerinti adataiban történő változások követése, ellenőrzése céljából történő adatigényléshez az állami foglalkoztatási szervnek, a kincstárnak, a gyermekgondozást segítő ellátás, a csecsemőgondozási díj és a gyermekgondozási díj nyilvántartásáért felelős szervnek, az anyakönyvi nyilvántartás központi nyilvántartó szervének, a családtámogatási ügyben eljáró hatóságnak, a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóságnak és az adóhatóságnak megküldheti a nyilvántartott személyek adatait, ez alapján
+(5) Az oktatási nyilvántartás működéséért felelős szerv a 4. § (1) bekezdés g) pontja szerinti, a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása szakrendszer 5. melléklet szerinti adataiban történő változások követése, ellenőrzése céljából történő adatigényléshez az állami foglalkoztatási szervnek, a kincstárnak, a gyermekgondozást segítő ellátás, a csecsemőgondozási díj, az örökbefogadói díj és a gyermekgondozási díj nyilvántartásáért felelős szervnek, az anyakönyvi nyilvántartás központi nyilvántartó szervének, a családtámogatási ügyben eljáró hatóságnak, a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóságnak és az adóhatóságnak megküldheti a nyilvántartott személyek adatait, ez alapján
 
 - a) az állami foglalkoztatási szerv a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
-- b) a kincstár a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
+- b) a kincstár a gyermekgondozást segítő ellátásnak, a csecsemőgondozási díjnak, az örökbefogadói díjnak és a gyermekgondozási díjnak a (volt) magyar állami ösztöndíjas hallgató részére történő folyósítás időtartamára,
 - c) az adóhatóság a (volt) magyar állami ösztöndíjas hallgatónak hazai munkaviszony(ok) létesítésére és időtartamára,
 - d) az anyakönyvi nyilvántartás központi nyilvántartó szervétől a (volt) magyar állami ösztöndíjas hallgató gyermekének születési anyakönyvi kivonatára,
 - e) a családtámogatási ügyben eljáró hatóság a tartós betegség megállapításához szükséges, a fővárosi és megyei kormányhivatalnak vagy jogelődjének a tartós betegségre tekintettel megállapított magasabb összegű családi pótlék megállapításáról szóló határozatára, vagy ennek folyósításáról kiadott igazolására, vagy a tartós betegséget megállapító, a magasabb összegű családi pótlék igénybevételéhez szükséges érvényes és hatályos szakvéleményére, szakhatósági állásfoglalására; a családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § f) pont fb) alpontja szerinti állapotra, illetve a magasabb összegű családi pótlékra jogosultság tartós betegségére tekintettel való igazolására,
-- f) a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóság az egészségi állapot minősítésének eredményéről érvényes és hatályos szakhatósági állásfoglalásra, szakvéleményre, bizottsági állásfoglalásra, határozatra vagy hatósági bizonyítványra; a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 2. § (1) bekezdése szerinti állapot igazolására vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek.
+- f) a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóság az egészségi állapot minősítésének eredményéről érvényes és hatályos szakhatósági állásfoglalásra, szakvéleményre, bizottsági állásfoglalásra, határozatra vagy hatósági bizonyítványra; a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 2. § (1) bekezdése szerinti állapot igazolására
 
 vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek.
 
-6/A. § (1) A pályakövetési rendszer működtetése céljából az oktatási nyilvántartás működéséért felelős szerv részére – a Kormány rendeletében meghatározottak szerint – adatot szolgáltat
+(6) A 4. § (1) bekezdés h) pontja szerinti nyilvántartás részére az államilag elismert nyelvvizsgaközpont szolgáltatja a vizsgázó 6. melléklet a) és d) pontjában meghatározott adatait.
 
-- a) a szakképzésről szóló törvény szerinti akkreditált vizsgaközpont a tanuló, illetve a képzésben részt vevő személy természetes személyazonosító adatairól és neméről, oktatási azonosító számáról, a szakmai oktatás, illetve a szakmai képzés helyszínéről és kezdő és záró időpontjáról, az általa megszerzett szakma, illetve szakképesítés megnevezéséről, a szakmai vizsga helyéről és időpontjáról,
-- b) a felsőoktatási intézmény a hallgató természetes személyazonosító adatairól és neméről, oktatási azonosító számáról, az oktatás munkarendjéről, a megszerzett felsőfokú szakképzettség megnevezéséről, a felsőfokú végzettségi szintről, a felsőfokú szakképzettség megszerzésének helyéről és időpontjáról,
-- c) az állami adóhatóság az adózás rendjéről szóló 2017. évi CL. törvény 1. melléklet 7. pontjában meghatározott adatokról,
-- d) a nyugdíjbiztosítási igazgatási szerv a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 96. § (2) bekezdés d) pontjában meghatározott adatokról,
-- e) a megszerzett szakképzettség, illetve szakképesítés hasznosulásával kapcsolatosan a tanuló, a képzésben részt vevő személy, illetve a hallgató a szakképzettség, illetve a szakképesítés megszerzését követő három éven belül, ha nem létesített foglalkoztatásra irányuló jogviszonyt,
-- f) a vállalkozóvá vagy önfoglalkoztatóvá vált szakképzettséggel, illetve szakképesítéssel rendelkező személy az általa ilyen formában végzett tevékenységről.
+(7) A Diákhitel Központ – a képzési hitelt felvevő tanuló, illetve képzésben részt vevő személy oktatási azonosító száma alapján – a képzési hitel igénybevételéről, az igényelt hitelösszegről, a képzési hitel folyósításának felfüggesztéséről folyamatosan adatot szolgáltat a szakképzési információs rendszerbe, illetve a felnőttképzés adatszolgáltatási rendszerébe.
 
-(2) Az oktatási nyilvántartás működéséért felelős szerv a szakképzés információs rendszerében, a felsőoktatási információs rendszerben és a felnőttképzés adatszolgáltatási rendszerében szereplő adatokat a pályakövetési rendszerbe közvetlen hozzáféréssel veszi át. Az oktatási nyilvántartás működéséért felelős szerv az adatokat kezelheti, feldolgozhatja és konkrét személyhez rendelten összekapcsolhatja a kiadott oklevelek, illetve szakmai bizonyítványok és az oktatási azonosítók adatbázisával.
+6/A. § (1) Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartás 4. § (1) bekezdés a)–d) és h) pontja szerinti szakrendszerében szereplő adatok közül elektronikus adatkapcsolaton keresztül – az érintett oktatási azonosító számának összevetése útján – veszi át az érintett 2. § a)–h) pontjában meghatározott adatait, továbbá az érintett
 
-(3) A pályakövetési rendszerben nyilvántartott adatok személyazonosításra alkalmatlan módon feldolgozhatók, szakképző intézményenként, felsőoktatási intézményenként, illetve felnőttképzőnként csoportosíthatók és nyilvánosságra hozhatók. Az oktatási nyilvántartás működéséért felelős szerv a honlapján – egyedi azonosításra alkalmatlan módon – nyilvánosságra hozza a pályakövetési rendszerben keletkezett, a munkaerő-piaci helyzettel kapcsolatos adatokat, információkat. A számára továbbított adatokat az oktatási nyilvántartás működéséért felelős szerv az adatszolgáltatástól számított harminc évig kezeli.
+- a) érettségi vizsgájára vonatkozóan az 1. melléklet IV. rész 2. pontjában meghatározott adatait,
+- b) szakmai oktatására vonatkozóan az 1/A. melléklet II. rész 1. pont e), f) és g) alpontjában, a felnőttképzés keretében szervezett részszakmára felkészítő szakmai oktatására, szakmai képzésére és más oktatásban, illetve képzésben való részvételére vonatkozóan a 3/A. melléklet II. rész 2. pontjában meghatározott adatait,
+- c) megszerzett középfokú szakképzettségére, illetve szakképesítésére vonatkozóan az 1/A. melléklet IV. részében meghatározott adatait,
+- d) megszerzett felsőfokú szakképzettségére vonatkozóan a 3. melléklet IV. rész 5., 6., 12. és 18. pontjában meghatározott adatait,
+- e) nyelvvizsgájára vonatkozóan a 6. melléklet b) pont ba), bb), bd), be) és bg) alpontjában és c) pont cc) alpontjában meghatározott adatait,
+- f) hallgatói hitelére vonatkozóan a 3. melléklet IV. rész 23. pontjára, képzési hitelére vonatkozóan az 1/A. melléklet II. rész 1. pont r) alpontjában és a 3/A. melléklet II. rész 2. pont c) alpontjában meghatározott adatait
+
+a pályakövetési rendszerbe.
+
+(2) A pályakövetési rendszer működtetése céljából – a pályakövetéssel érintett személy természetes személyazonosító adatainak összevetése útján – az oktatási nyilvántartás működéséért felelős szerv megkeresése alapján
+
+- a) az állami foglalkoztatási szerv az érintett számára nyújtott álláskeresési ellátás vagy foglalkoztatást elősegítő más támogatás mértékét, megváltozott munkaképességének tényét, az álláskeresőként való nyilvántartásba vételének és abból való törlésének időpontját, valamint utolsó munkakörének a foglalkozások egységes osztályozási rendszere szerinti besorolását,
+- b) a nyugdíjbiztosítási igazgatási szerv a társadalombiztosítási nyugellátásról szóló törvényben meghatározott adatokat,
+- c) a központi családtámogatási szerv a családok támogatásáról szóló 1998. évi LXXXIV. törvény 49/B. § (2) bekezdés c) pontjában meghatározott adatokat,
+- d) az állami adóhatóság – a rendelkezésére álló legutolsó bejelentés, illetve bevallás alapján – az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 1., 5., 9. és 15. és 18. pontjában, valamint 1. melléklet 1. pont 1.4. alpontjában és 7. pontjában meghatározott adatokat,
+- e) az egyéni vállalkozók nyilvántartását vezető szerv az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 11. § (1) bekezdés c), e) és i) pontjában meghatározott adatokat
+
+a pályakövetési rendszerbe – a Kormány rendeletében meghatározottak szerint – átadja.
+
+(3) A (2) bekezdés szerinti adatokat térítésmentesen és olyan titkosítási módszerrel kell biztosítani, amely az adat megismerését kizárólag személyazonosításra alkalmatlan módon teszi lehetővé.
+
+(4) Az oktatási nyilvántartás működéséért felelős szerv az érintettek között egységes módszertannal és kérdőívvel végrehajtott önkéntes és személyazonosításra alkalmatlan módon online kérdőíves felmérést is folytathat.
+
+(5) A pályakövetési rendszerben nyilvántartott adatok személyazonosításra alkalmatlan módon dolgozhatók fel és hozhatók nyilvánosságra.
+
+6/B. § (1) A DPR célja a felsőoktatásban tanuló és végzett hallgatók munkaerőpiaci nyomonkövetése, a munkaerőpiacra lépésük korai szakaszának elemzése. A DPR Frissdiplomás Kutatás és Hallgatói Kutatás online kérdőíves kutatási moduljai az oktatásért felelős miniszter által meghatározott személyes adatnak nem minősülő adatokat tartalmazzák.
+
+(2) A DPR Hallgatói Kutatás modulja esetében a kötelező intézményi adatszolgáltatás a jogviszonyban álló hallgatók, a Frissdiplomás Kutatás modulja esetében a vizsgált időszakot megelőző első és ötödik év között abszolutóriumot szerzettek körében egységes módszertannal és kérdőívvel végrehajtott önkéntes online kérdőíves vizsgálat alapján történik.
+
+(3) A DPR a felsőoktatási információs rendszerbe adatot közöl a Kormány rendeletében meghatározott módszertan alapján.
+
+(4) Az online kérdőíves vizsgálatok eredményeit legalább évente rövidített összefoglaló formájában a felsőoktatási intézmény a honlapján nyilvánosságra hozza.
 
 #### 4. Az oktatási nyilvántartáshoz való hozzáférés, adattovábbítás
 
@@ -223,7 +272,7 @@ továbbítható.
 
 (4) A tanulói nyilvántartásban, illetve a tanulók és a képzésben részt vevő személyek nyilvántartásában nyilvántartott adatok – adategyeztetés céljából – továbbíthatók a Köznevelési Regisztrációs és Tanulmányi Alaprendszert használó olyan köznevelési intézménynek, szakképző intézménynek, illetve felnőttképzőnek, amellyel a gyermek, a tanuló, illetve a képzésben részt vevő személy jogviszonyban áll.
 
-(5) A társadalombiztosítási azonosító jel hitelességét az országos egészségbiztosítási szerv nyilvántartásával elektronikus úton kell megfeleltetni.
+(5) A társadalombiztosítási azonosító jel hitelességét a társadalombiztosítási azonosító jellel rendelkező személyek azonosító adatainak nyilvántartásával való összevetéssel elektronikus úton kell ellenőrizni.
 
 (6) Az alkalmazotti nyilvántartásból személyes adat – az érintetten kívül – az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére továbbítható.
 
@@ -233,7 +282,9 @@ továbbítható.
 
 (9) Az oktatási nyilvántartás működéséért felelős szerv a középfokú felvételi eljárás megszervezéséhez szükséges adatok nyilvántartásából a középfokú felvételi eljárásban részt vevő középfokú iskoláknak, a központi írásbeli felvételi vizsgákat szervező középiskoláknak továbbítja az érintett tanulók nyilvántartott adatait.
 
-(10) A személyazonosításra alkalmas adatokat az oktatási nyilvántartás működéséért felelős szerv a középfokú felvételi eljárás lezárását követően legkésőbb az adott év szeptember 15-éig törli a középfokú felvételi eljárás megszervezéséhez szükséges adatok nyilvántartásából.
+(9a) Az oktatási nyilvántartás működéséért felelős szerv a feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartásából történeti, tudományos célból, valamint a tehetséggondozó versenyek népszerűsítése céljából jogosult nyilvánosságra hozni az egyes versenyeken helyezést elért versenyzők nevét, évfolyamát és osztályát, a versenyen elért eredményét, a versenyzőt nevező iskola, illetve feladatellátási helyének nevét, OM azonosítóját és a felkészítő tanárok nevét.
+
+(10) A személyazonosításra alkalmas adatokat az oktatási nyilvántartás működéséért felelős szerv a középfokú felvételi eljárás lezárását követően legkésőbb az adott év szeptember 15-éig törli a középfokú felvételi eljárás megszervezéséhez szükséges adatok nyilvántartásából, illetve a felvételi eljárás lezárását követően legkésőbb szeptember 15-éig a személyes adatokat tartalmazó papíralapú adathordozókat megsemmisíti.
 
 (11) Az oktatási nyilvántartás működéséért felelős szerv A kétszintű érettségi vizsga adminisztrációs rendszerében kezelt adatokat a vizsgaidőszakot követő tanév végéig kezeli.
 
@@ -252,9 +303,9 @@ továbbítható.
   - ab) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont b) alpontjában meghatározott adatok,
   - ac) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont l), o) és t) alpontjában meghatározott adatok,
 - b) a képzési és személyi törzsből
-  - ba) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont a), c) és f) alpontjában és 3. pont a), c), d) és e) alpontjában meghatározott adata és a 2. § a)–j) pontja szerinti adata,
-  - bb) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont d) alpontjában meghatározott adatok,
-  - bc) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 3. pont a) és d) alpontjában meghatározott adatok
+  - ba) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 1. pont a) és b) alpontjában és 2. pont b)–d) alpontjában meghatározott adatok,
+  - bb) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 1. pont b) alpontjában meghatározott adatok,
+  - bc) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont b) és d) alpontjában meghatározott adatok
 
 továbbíthatóak a Diákhitel Központnak.
 
@@ -262,7 +313,7 @@ továbbíthatóak a Diákhitel Központnak.
 
 (17) A Felsőoktatási felvételi alrendszerből a felsőoktatási intézménynek a hozzá jelentkező, illetve felvett személyre vonatkozó, az adott felsőoktatási intézmény képzésével kapcsolatos valamennyi adat továbbítható.
 
-(18) A Felsőoktatási felvételi alrendszer a személyes adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – az adott felsőoktatási felvételi eljárás jelentkezési határidejétől számított két évig kezeli.
+(18) A Felsőoktatási felvételi alrendszer a személyes adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – az adott felsőoktatási felvételi eljárás jelentkezési határidejétől számított három évig kezeli.
 
 (19) A Hallgatói személyi törzsből továbbítható – az érintetten kívül – a felsőoktatási intézménynek a vele hallgatói jogviszonyban álló személyre vonatkozó, a nála fennálló jogviszonyára vonatkozó valamennyi adat.
 
@@ -272,7 +323,7 @@ továbbíthatóak a Diákhitel Központnak.
 - b) a hitelszerződésből eredő jogok gyakorlása és kötelezettségek teljesítése során az ügyfelekkel való kapcsolattartás céljából a 3. melléklet IV. rész 2. pontja szerinti adatok,
 - c) a hallgatói hiteltartozások várható visszafizetésével kapcsolatos kockázatelemzés és a kockázati mérték szerinti ügyfélkezelés céljából a 3. melléklet IV. rész 12. pontja szerinti adatok közül az abszolutóriumra vonatkozó adat, a 3. melléklet IV. rész 15. pontja, a 18. pont 18.1. és 18.2. alpontja szerinti adat, a 3. melléklet IV. rész 19. pontja szerinti adatokból a hallgató által önköltség címén az intézmény felé ténylegesen fizetendő összeg, valamint az Nftv. 82. § (1) bekezdés a) pontja alapján fizetendő térítési díj összege.
 
-(21) A Hallgatói személyi törzsből továbbíthatók továbbá a Tempus Közalapítványnak a külföldi tanulmányokat segítő ösztöndíjra való jogosultság vizsgálata, a jogosultak és az államközi ösztöndíjak útján érkező külföldiek ösztöndíjszerződéséből eredő jogok gyakorlása és kötelezettségek teljesítése, az ilyen ösztöndíjasok nyomon követése céljából az ösztöndíjra pályázó vagy ösztöndíjas személyhez kapcsolódóan
+(21) A Hallgatói személyi törzsből továbbíthatók továbbá a Tempus Közalapítványnak a külföldi tanulmányokat segítő ösztöndíjra való jogosultság vizsgálata, a jogosultak és az államközi ösztöndíjak útján érkező külföldiek, valamint a Hungary Helps Ügynökség Nonprofit Zrt.-nek az Ösztöndíjprogram Keresztény Fiataloknak elnevezésű ösztöndíjában részesülő külföldiek ösztöndíjszerződéséből eredő jogok gyakorlása és kötelezettségek teljesítése, az ilyen ösztöndíjasok nyomon követése céljából az ösztöndíjra pályázó vagy ösztöndíjas személyhez kapcsolódóan
 
 - a) a 2. § a)–j) pontja szerinti adatok,
 - b) a 3. melléklet IV. rész 1., 2., 5., 6., 9., 14., 15., 16., 19., 21., 22. pontja, valamint 18. pont 18.1., 18.2. és 18.7. alpontja szerinti adatok,
@@ -288,11 +339,48 @@ továbbíthatóak a Diákhitel Központnak.
 
 (24) A Hallgatói személyi törzsből továbbítható továbbá az idegenrendészeti hatóság részére a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvényben, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben meghatározott eljárása során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a 3. melléklet IV. rész 5., 6., 15. pontja szerinti adat, valamint a 19. pontja szerinti adatok közül az önköltségre vonatkozó adat, azzal, hogy az idegenrendészeti hatóságnak a megkeresésben minden esetben pontosan meg kell határozni azt az adatkört amire a megkeresés vonatkozik.
 
-(25) Az oktatási nyilvántartás működéséért felelős szerv a 4. § (1) bekezdés e) pontja szerinti, a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása szakrendszerben nyilvántartott személyek adatai időszerűségének biztosítása, ellenőrzése céljából térítésmentesen, elektronikus úton az 5. melléklet szerinti, az adott szerv által nyilvántartott adatot igényelheti az állami foglalkoztatási szervtől, a kincstártól, a gyermekgondozást segítő ellátás, a csecsemőgondozási díj és a gyermekgondozási díj nyilvántartásáért felelős szervtől, az anyakönyvi nyilvántartás központi nyilvántartó szervétől, a családtámogatási ügyben eljáró hatóságtól, a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóságtól és az adóhatóságtól.
+(25)
 
 (26) Az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartásából adat továbbítható a kötelező felvételt biztosító óvoda fenntartója és a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes jegyző részére az óvodai felvétel biztosítása céljából, a felmentést engedélyező szerv részére a hatósági eljárás lefolytatása céljából, valamint a szabálysértési hatóság részére a szabálysértési eljárás lefolytatása céljából.
 
 (27) A tanköteles gyermekek nyilvántartásából adat továbbítható a kötelező felvételt biztosító általános iskola fenntartója részére az iskolai felvétel biztosítása céljából, a felmentést engedélyező szerv részére a hatósági eljárás lefolytatása céljából, valamint a szabálysértési hatóság részére a szabálysértési eljárás lefolytatása céljából.
+
+(30) Az oktatási nyilvántartás működéséért felelős szerv az oktatási igazolványok intézményi adminisztrációs rendszeréből az igazolványok érvényességére vonatkozóan adatot szolgáltat az oktatási igazolványokhoz kapcsolódó kedvezmények szervezője és a kedvezmények nyújtói részére.
+
+(31) Az oktatási nyilvántartás működéséért felelős szerv a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásából előzetes regisztrációt követően
+
+- a) a felsőoktatási intézmény számára visszaigazolja az adott felsőoktatási intézményben hallgatói jogviszonnyal rendelkező hallgató nyelvvizsgájának hitelességét,
+- b) a foglalkoztatásra irányuló jogviszony létesítésével, módosításával kapcsolatban a munkáltató részére továbbíthatja a nyelvvizsga hitelességére vonatkozó adatot.
+
+(32) Az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott támogatásra való jogosultság megállapításával kapcsolatban az oktatási nyilvántartás működéséért felelős szerv a nyugdíjbiztosítási igazgatási szerv megkeresése esetén a kérelmező vonatkozásában – 2018. január 1-jét követően kiállított valamennyi nyelvvizsga-bizonyítványra, továbbá a kérelemben megjelölt, e dátumot megelőzően kiállított részvizsga-bizonyítványra kiterjedően – a megkeresés kézhezvételétől számított nyolc napon belül közli a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásában szereplő következő adatokat:
+
+- a) a vizsgázó természetes személyazonosító adatai,
+- b) a vizsgaközpont és vizsgahely megnevezése,
+- c) a vizsga neve, szintje és típusa,
+- d) a vizsga helye és napja,
+- e) a vizsga eredménye,
+- f) a vizsga anyakönyvi száma,
+- g) a bizonyítvány kiállításának napja és
+- h) a bizonyítvány száma.
+
+(33) Az oktatási nyilvántartás működéséért felelős szerv a nyugdíjbiztosítási igazgatási szerv megkeresése esetén a kérelmező vonatkozásában – 2018. január 1-jét követően kiállított valamennyi nyelvvizsga egyenértékűségi záradékkal ellátott emelt szintű, idegen nyelvi érettségi vizsgára kiterjedően – a megkeresés kézhezvételétől számított nyolc napon belül közli a kiadott érettségi bizonyítványokról, tanúsítványokról vezetett nyilvántartásban szereplő következő adatokat:
+
+- a) a vizsgázó természetes személyazonosító adatai,
+- b) a bizonyítvány, tanúsítvány száma,
+- c) a bizonyítványt, tanúsítványt kiállító intézmény neve,
+- d) a bizonyítvány, tanúsítvány kiállításának napja,
+- e) a vizsgatárgy neve és szintje,
+- f) a vizsga eredménye és
+- g) a nyelvvizsga-egyenértékűségi záradék.
+
+(34) Az oktatási nyilvántartás működéséért felelős szerv a nyugdíjbiztosítási igazgatási szerv megkeresése esetén a kérelmező vonatkozásában – 2018. január 1-jét követően kiállított valamennyi honosítási határozatra kiterjedően – a megkeresés kézhezvételétől számított nyolc napon belül közli a következő adatokat:
+
+- a) a vizsgázó természetes személyazonosító adatai,
+- b) a vizsga neve, szintje és típusa,
+- c) a honosítási határozat kiállításának napja és
+- d) a honosítási határozat sorszáma.
+
+(35) A (30)–(34) bekezdés szerinti adatok átadásának rendjét az oktatási nyilvántartás működéséért felelős szerv és a nyugdíjbiztosítási igazgatási szerv együttműködési megállapodásban határozza meg.
 
 #### 5. Záró rendelkezések
 
@@ -301,7 +389,9 @@ továbbíthatóak a Diákhitel Központnak.
 (2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - 1. az oktatási azonosító szám igénylésének, kiadásának, felhasználásának és változás-bejelentésének szabályait,
+- 1a. az oktatási nyilvántartás, illetve annak szakrendszerei, alrendszerei működésére, az adatszolgáltatás rendjére vonatkozó szabályokat,
 - 2. a pályakövetési rendszer működésére, az adatszolgáltatás rendjére, továbbá az oktatási nyilvántartás működéséért felelős szervnek a pályakövetési rendszer működtetésével kapcsolatos feladataira vonatkozó részletes szabályokat.
+- 3. a DPR tekintetében az adatszolgáltatás pontos meghatározására, határidejére, gyakoriságára, módjára, valamint az adatszolgáltatáshoz kapcsolódó módszertani leírásra, a kérdőívre vonatkozó szabályok közzétételére, valamint az online kérdőíves vizsgálatok eredményeit összefoglaló jelentés formájára, nyilvánosságra hozatalára vonatkozó szabályokat.
 
 9. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – 2019. január 1-jén lép hatályba.
 
@@ -310,6 +400,8 @@ továbbíthatóak a Diákhitel Központnak.
 (3) A 3. § (2) bekezdése 2021. január 1-jén lép hatályba.
 
 9/A. § A személyiadat- és lakcímnyilvántartást kezelő szerv és az oktatási nyilvántartás működéséért felelős szerv 2020. január 15-éig egyezteti az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartásába és a tanköteles gyermekek nyilvántartásába feltöltendő adatokat. Az oktatási nyilvántartás működéséért felelős szerv oktatási azonosító számot ad annak az oktatási azonosító számmal még nem rendelkező természetes személynek, akit a közneveléssel összefüggő egyes törvények módosításáról és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény hatályon kívül helyezéséről szóló 2019. évi LXX. törvénnyel megállapított, az Nkt. 45. § (8) bekezdését módosító rendelkezéseinek hatálybalépését követően kell felvenni az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartásába, vagy aki a tanköteles gyermekek nyilvántartásába feltöltésre kerül.
+
+9/B. § E törvénynek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXLVIII. törvénnyel megállapított 3/A. § (3) bekezdése alapján az oktatási azonosító szám pályakövetési rendszerbe történő átadását első alkalommal 2021. február 28-áig kell az e napig kiadott oktatási azonosító számokra vonatkozóan végrehajtani.
 
 10. § Ez a törvény a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -432,7 +524,7 @@ i)
   - q) a vizsgadokumentum típusa;
   - r) a vizsgadokumentum száma;
 - 2.3. a vizsgáztatóra, vizsgaelnökre vonatkozóan:
-  - a) a vizsgáztató oktatási azonosítója;
+  - a) a vizsgáztató oktatási azonosító száma;
   - b) a vizsgáztató értesítési adata;
   - c) a vizsgáztató munkahelye;
   - d) az érettségi vizsgaelnöki igazolás száma, érvényességi ideje;
@@ -580,7 +672,7 @@ i)
 
 #### XIII. Az oktatási nyilvántartás működéséért felelős szerv feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartása
 
-- 1. Az oktatási nyilvántartás működéséért felelős szerv feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartása az alábbi személyes adatokat tartalmazza:
+- 1. Az oktatási nyilvántartás működéséért felelős szerv feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartása 2001. szeptember 1-jétől kezdődően az alábbi személyes adatokat tartalmazza:
   - a) a versenyző oktatási azonosító száma;
   - b) a versenyző évfolyama és osztálya;
   - c) a versenyző értesítési adatai;
@@ -601,7 +693,7 @@ i)
 
 #### A szakképzés információs rendszere személyes adatokat kezelő alrendszerei
 
-- 1. Az I. és II. részben meghatározott adatok statisztikai célra felhasználhatók és azokat statisztikai felhasználás céljára a hivatalos statisztikai szolgálat – a Központi Statisztikai Hivatal – számára az Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – az I. rész b) és j) pontjában meghatározott adatok kivételével – egyedi azonosításra alkalmas módon, térítésmentesen át kell adni.
+- 1. Az I. és II. részben meghatározott adatok statisztikai célra felhasználhatók és azokat statisztikai felhasználás céljára a hivatalos statisztikai szolgálat – a Központi Statisztikai Hivatal – számára az Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – a II. rész 1. pont j) alpontjában meghatározott adatok kivételével – egyedi azonosításra alkalmas módon, térítésmentesen át kell adni.
 - 2. A Központi Statisztikai Hivatal részére történő adatátadás esetén az átvett adatok körét és az adatátvétel részletszabályait az Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 #### I. Szakképzési intézménytörzs
@@ -630,7 +722,7 @@ i)
   - o) az általa fizetett díjak és térítések adata,
   - p) a tankönyvellátásra vonatkozó adatok,
   - q) a számára járó ösztöndíj, támogatás és egyéb juttatás adata,
-  - r) a képzési hitelre igénybevételének tényére vonatkozó adata,
+  - r) a képzési hitel igénybevételének tényére és típusára vonatkozó adata,
   - s) kollégiumi vagy diákotthoni elhelyezés esetén a kollégium, illetve a diákotthon megnevezése, az adott félévre vonatkozó elhelyezés ténye,
   - t) a kiadott oklevél, oklevélmelléklet, szakmai bizonyítvány, szakmai bizonyítványmelléklet, képesítő bizonyítvány és képesítő bizonyítványmelléklet adatait.
 
@@ -722,23 +814,29 @@ A felsőoktatási információs rendszer személyes adatokat kezelő alrendszere
 
 I. Felsőoktatási intézménytörzs
 
-A felsőoktatási intézménytörzs az alábbi személyes adatokat tartalmazza:
+A felsőoktatási intézménytörzs az alábbi – 2006. február 1-jén, illetve az ezt követően fennálló – személyes adatokat tartalmazza:
 
 1. az államilag elismert felsőoktatási intézmény
 
-1.1. fenntartójának neve, székhelyének címe,
+1.1. fenntartójának, tulajdonosának neve, székhelyének címe,
 
-1.2. tisztségviselőinek – rektor, kancellár, gazdasági vezető, kollégiumi vezető, szakkollégium képviselője – oktatási azonosító száma, ennek hiányában családi és utóneve,
+1.2. tisztségviselőinek – rektor, kancellár, gazdasági vezető, kollégiumi vezető, szakkollégium képviselője – családi és utóneve,
 
 1.3. közhasznú szervezetként való működés esetén a felügyelőbizottság tagjainak családi és utóneve és értesítési címe,
 
-1.4. az Nftv. 95/A. § (1) bekezdésében meghatározottak szerint fenntartott magán felsőoktatási intézmény esetén továbbá a fenntartó testület nyilvántartási száma, képviselőjének családi és utóneve, elérhetősége (telefon, e-mail);
+1.4.
+
+1.5. magán felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egységének – ide nem értve az Nftv. 14. § (3) bekezdése szerinti, törvény alapján jogi személyiségű szervezeti egységként működtetett köznevelési intézményt, szakképző intézményt – teljes neve, címe, képviselőjének családi és utóneve,
+
+1.6. duális képzéssel, hallgatók számára szálláshely biztosításával, valamint az Nftv. 78. § (1) bekezdése szerinti külföldi székhelyen kívüli képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó neve, címe, adószáma.
 
 2. a Magyarországon működő külföldi felsőoktatási intézmény
 
 2.1. fenntartójának neve, székhelyének címe,
 
 2.2. magyarországi képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail);
+
+2.3. magyarországi képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó neve, címe, adószáma.
 
 3. a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, az Országos Doktori Tanács esetében
 
@@ -756,11 +854,11 @@ A felsőoktatási intézménytörzs az alábbi személyes adatokat tartalmazza:
 
 II. Felsőoktatási alkalmazotti személyi törzs
 
-A felsőoktatási alkalmazotti személyi törzs az alábbi személyes adatokat tartalmazza:
+A felsőoktatási alkalmazotti személyi törzs a 2006. február 1-jén folyamatban lévő, illetve az ezt követően létesített alkalmazotti jogviszonnyal rendelkező személyek alábbi személyes adatait tartalmazza:
 
 1. oktatási azonosító szám,
 
-2. értesítési cím,
+2. értesítési cím, elektronikus levélcím,
 
 3. végzettségi szint, szakképzettség, idegennyelv-tudás, tudományos fokozat,
 
@@ -784,7 +882,7 @@ A felsőoktatási alkalmazotti személyi törzs az alábbi személyes adatokat t
 
 13. az adatokat igazoló okiratok azonosítására szolgáló adatok,
 
-14. doktori iskolai tagság.
+14.
 
 III. Felsőoktatási felvételi alrendszer
 
@@ -792,29 +890,31 @@ A felsőoktatási felvételi alrendszer a jelentkező alábbi személyes adatait
 
 1. oktatási azonosító száma,
 
-2. értesítési címe, elektronikus levélcíme,
+2. felvételi azonosítója,
 
-3. nem magyar állampolgár esetén a Magyarország területén való tartózkodásra jogosító okirat – a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – adata,
+3. értesítési címe, elektronikus levélcíme, telefonszáma,
 
-4. az érettségi vizsga adatai,
+4. nem magyar állampolgár esetén a Magyarország területén való tartózkodásra jogosító okirat – a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – adata,
 
-5. a középiskola adatai,
+5. az érettségi vizsga adatai,
 
-6. a felvételi kérelem elbírálásához szükséges adatai,
+6. a középiskola adatai,
 
-7. a felvételi eljárás adatai,
+7. a felsőfokú oklevél adatai,
 
-8. központi ügyfél-regisztrációs nyilvántartási kapcsolati kódja.
+8. a felvételi kérelem elbírálásához szükséges adatai,
 
-A vallási, világnézeti elkötelezettségre, annak igazolására mint jelentkezési feltételre vonatkozó személyes adatot nem lehet nyilvántartani.
+9. a felvételi eljárás adatai,
+
+10. központi ügyfél-regisztrációs nyilvántartási kapcsolati kódja.
 
 IV. Hallgatói személyi törzs
 
-A hallgatói személyi törzs a hallgató alábbi személyes adatait tartalmazza:
+A hallgatói személyi törzs a 2006. február 1-jén folyamatban lévő, illetve az ezt követően létesített hallgatói vagy doktorjelölti jogviszonnyal rendelkezők, valamint a 2006. február 1-jén vagy azután oklevelet szerzett személyek alábbi személyes adatait tartalmazza:
 
 1. oktatási azonosító száma, adóazonosító jele,társadalombiztosítási azonosító jele,
 
-2. értesítési címe, telefonszáma, elektronikus levélcíme,
+2. értesítési címe, elektronikus levélcíme,
 
 3. nem magyar állampolgár esetén a Magyarország területén való tartózkodásra jogosító okirat – a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány –, nemzetközi biztosítási okmány adata,
 
@@ -834,9 +934,9 @@ A hallgatói személyi törzs a hallgató alábbi személyes adatait tartalmazza
 
 11. a törzslap azonosító száma,
 
-12. a szakmai gyakorlat teljesítésére, abszolutóriumra, záróvizsgára, komplex vizsgára, doktori védésre, nyelvvizsgára, korábban megszerzett oklevélre, hozott dokumentumra vonatkozó adat,
+12. a szakmai gyakorlat teljesítésére, abszolutóriumra, záróvizsgára, komplex vizsgára, doktori védésre, nyelvvizsgára, korábban megszerzett oklevélre, hozott dokumentumként bemutatott oklevélre és felsőfokú szakképzésben szerzett bizonyítványra vonatkozó adat, érettségi bizonyítványra, valamint a középiskolai tanulmányokra vonatkozó egyes adat,
 
-13. a kiadott okirat tartalmára és azonosítására vonatkozó adat,
+13.
 
 14. a külföldi állampolgárságú hallgató miniszteri ösztöndíjára vonatkozó adat,
 
@@ -870,13 +970,13 @@ A hallgatói személyi törzs a hallgató alábbi személyes adatait tartalmazza
 
 22. a részére nyújtott pénzbeli juttatások adata,
 
-23. a Diákhitel Központ által megítélt hitel fennálltára, típusára vonatkozó adat.
+23. a Diákhitel Központ által megítélt hitel fennálltára, típusára, valamint kötött felhasználású hitel esetén a hallgató által igényelt diákhitel összegére, a hitelszerződés számára, a felsőoktatási intézmény részére átutalt összegre és az átutalás dátumára vonatkozó adat.
 
 ### 3/A. melléklet a 2018. évi LXXXIX. törvényhez
 
 A felnőttképzés adatszolgáltatási rendszere személyes adatokat kezelő alrendszerei
 
-1. Az I. és II. részben meghatározott adatok statisztikai célra felhasználhatók és azokat statisztikai felhasználás céljára a hivatalos statisztikai szolgálat – a Központi Statisztikai Hivatal – számára az Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – az I. rész b) és j) pontjában meghatározott adatok kivételével – egyedi azonosításra alkalmas módon, térítésmentesen át kell adni.
+1. Az I–III. részben meghatározott adatok statisztikai célra felhasználhatók és azokat statisztikai felhasználás céljára a hivatalos statisztikai szolgálat – a Központi Statisztikai Hivatal – számára az Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben egyedi azonosításra alkalmas módon, térítésmentesen át kell adni.
 
 2. A Központi Statisztikai Hivatal részére történő adatátadás esetén az átvett adatok körét és az adatátvétel részletszabályait az Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
@@ -884,51 +984,49 @@ I. Felnőttképzési intézménytörzs
 
 1. A felnőttképzési intézménytörzs személyes adatként tartalmazza
 
-a) a felnőttképző képviseletére jogosult személy természetes személyazonosító adatát, beosztását, elérhetőségét és képviseleti jogának kezdő időpontját,
+a) a felnőttképző képviseletére jogosult személy természetes személyazonosító adatait, beosztását, elérhetőségét és képviseleti jogának kezdő időpontját,
 
-b) – ha a felnőttképző jogi személy vagy személyes joga szerint jogképes szervezet – a felnőttképző alapítójának vagy fenntartójának az a) alpontban meghatározott személyes adatait.
+b)
 
 II. A képzési és személyi törzs
 
-1. A képzési és személyi törzs a képzésre vonatkozóan tartalmazza az Fktv. 15. § (1) bekezdésében meghatározott adatokat.
+1. A képzési és személyi törzs a képzésben részt vevő személyre vonatkozóan személyes adatként tartalmazza a képzésben részt vevő személy
 
-2. A képzési és személyi törzs a képzésben részt vevő személyre vonatkozóan személyes adatként tartalmazza a képzésben részt vevő személy
+a) oktatási azonosító számát,
 
-a) természetes személyazonosító adatait,
-
-b) nemét,
+b) természetes személyazonosító adatait és nemét,
 
 c) állampolgárságát, nem magyar állampolgár Magyarországon való tartózkodásának jogcímét és a tartózkodásra jogosító okirat, okmány megnevezését és számát,
 
-d) lakcímét, levelezési címét, elektronikus levelezési címét és telefonszámát,
+d) lakcímét,
 
-e) társadalombiztosítási azonosító jelét,
+e) elektronikus levelezési címét,
 
-f) adóazonosító jelét,
+f) legmagasabb iskolai végzettségével és szakképesítésével, illetve szakképzettségével kapcsolatos adatait.
 
-g) végzettségével és szakképesítésével, illetve szakképzettségével, továbbá idegennyelv-ismeretével kapcsolatos adatokat,
+2. A képzési és személyi törzs a képzésben részt vevő személy oktatásával, képzésével összefüggésben személyes adatként tartalmazza
 
-h) munkajogi státuszát.
+a) a képzés megnevezését, jellegét, helyét, óraszámát,
 
-3. A képzési és személyi törzs a képzésben részt vevő személy képzésével összefüggésben személyes adatként tartalmazza
+b) a képzés első képzési napját és – a zárt rendszerű elektronikus távoktatás keretében megvalósuló képzés kivételével – befejezésének tervezett időpontját,
 
-a) a képzésre történő beiratkozás időpontját,
+c) a képzési díj mértékét és annak költségviselőjének nevét, valamint a képzési hitel igénybevételének tényét és típusát,
 
-b) a képzésben részt vevő személy képzés során történő értékelésével és minősítésével kapcsolatos adatokat,
+d) a képzés elvégzésének időpontját és az arról kiállított tanúsítvány számát.
 
-c) a képzéshez kapcsolódóan a képzésben részt vevő személyt terhelő fizetési kötelezettségek körét és mértékét, valamint a képzési hitel igénybevételének tényét,
+III. Felnőttképzési szakértői törzs
 
-d) a képzés elvégzésének időpontját és az arról kiállított tanúsítvány számát, a képzés elvégzése hiányában a képzésből történő kilépés időpontját,
-
-e) a képzésben részt vevő személy szakmai vizsgájának helyét, időpontját és eredményét.
+1. A felnőttképzési szakértői törzs a felnőttképzési szakértőkkel összefüggésben személyes adatként tartalmazza a felnőttképzési szakértőnek a felnőttképzésről szóló 2013. évi LXXVII. törvény 7. § (1) bekezdésében meghatározott adatait.
 
 ### 4. melléklet a 2018. évi LXXXIX. törvényhez
 
 Az oktatási igazolványok intézményi adminisztrációs rendszere
 
+Az oktatási nyilvántartás működéséért felelős szerv az oktatási igazolványok elkészítésének és az oktatási igazolványokhoz kapcsolódó kedvezményekre való jogosultság igazolásának céljából vezeti az oktatási igazolványok nyilvántartását.
+
 Az oktatási igazolványok intézményi adminisztrációs rendszere az alábbi személyes adatokat tartalmazza:
 
-a) a jogosult oktatási azonosítója,
+a) a jogosult oktatási azonosító száma,
 
 b) a jogosult igazolványon szereplő családi és utóneve,
 
@@ -942,16 +1040,24 @@ f) az oktatási igazolvány nemzeti egységes kártyarendszer szerinti azonosít
 
 g) az oktatási igazolvány érvényessége,
 
-h) a kiadott érvényesítő matrica sorszáma.
+h) a kiadott érvényesítő matrica sorszáma,
+
+i) a jogosult igazolványon szereplő címe,
+
+j) a jogosult igazolványon szereplő születési helye és ideje,
+
+k) az igazolvány kiállításának dátuma,
+
+l) a jogosultnak kiállított igazolásokon szereplő adatok.
 
 ### 5. melléklet a 2018. évi LXXXIX. törvényhez
 
 #### A magyar állami ösztöndíj feltételei teljesítésének nyilvántartása
 
-A magyar állami ösztöndíj feltételei teljesítésének nyilvántartása a (volt) magyar állami (rész)ösztöndíjas hallgató alábbi személyes adatait tartalmazza:
+A magyar állami ösztöndíj feltételei teljesítésének nyilvántartása 2012. augusztus 1-jétől kezdődően a (volt) magyar állami (rész)ösztöndíjas hallgató alábbi személyes adatait tartalmazza:
 
-- 1. oktatási azonosító; adóazonosító jele, társadalombiztosítási azonosító jele,
-- 2. értesítési cím, telefonszáma, elektronikus levelezési címe,
+- 1. oktatási azonosító száma; adóazonosító jele, társadalombiztosítási azonosító jele, ösztöndíjazonosítója,
+- 2. értesítési címe, telefonszáma, elektronikus levelezési címe, a magyar állami ösztöndíjas kötelezettségekkel kapcsolatos tájékoztatáshoz, elektronikus iratküldésről történő értesítéshez és az elektronikus kérelembenyújtáshoz kapcsolódóan a központi ügyfélregisztrációs tárhelyéhez tartozó elektronikus levelezési címe,
 - 3. hazai munkaviszony, valamint hazai munkaviszony származási országban történő teljesítése esetén annak létesítésére és időtartamára vonatkozó adat, továbbá a szomszédos államokban élő magyarokról szóló törvény hatálya alá tartozás megállapításához szükséges adat,
 - 4. a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra vonatkozó adat,
 - 5. csecsemőgondozási díj folyósításának időtartamára vonatkozó adat,
@@ -962,14 +1068,15 @@ A magyar állami ösztöndíj feltételei teljesítésének nyilvántartása a (
 - 10. a központi ügyfél-regisztrációs nyilvántartási kapcsolati kódja,
 - 11. a visszatérítési kötelezettsége átvállalására vonatkozó jognyilatkozat adata,
 - 12. a költségmentességi kérelmének igazolására vonatkozó adat.
+- 13. örökbefogadói díj folyósításának időtartamára vonatkozó adat.
 
 ### 6. melléklet a 2018. évi LXXXIX. törvényhez
 
 A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása
 
-A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása az alábbi személyes adatokat tartalmazza:
+A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása közhiteles nyilvántartásként – ide nem értve a vizsgázó oktatási azonosítóját – 2000. január 1-je óta az alábbi személyes adatokat tartalmazza:
 
-a) a vizsgázó személy oktatási azonosítója;
+a) a vizsgázó személy oktatási azonosító száma;
 
 b) a nyelvvizsgára vonatkozó következő adatok:
 
@@ -979,7 +1086,7 @@ bb) a vizsgahely megnevezése,
 
 bc) a vizsgaidőszak megjelölése,
 
-bd) a vizsga neve, nyelve, fajtája, szintje, típusa,
+bd) a vizsga neve, nyelve, fajtája, szintje, típusa és formátuma,
 
 be) a vizsga helye, ideje,
 
@@ -991,7 +1098,7 @@ bh) a vizsgarészenként elért pontok,
 
 bi) a vizsgán elért pontszám az elérhető összpontszám százalékában kifejezve;
 
-bj) a vizsga anyakönyvi száma;
+bj)
 
 c) a bizonyítványra vonatkozó adatok:
 
@@ -1000,5 +1107,17 @@ ca) a bizonyítvány száma,
 cb) a bizonyítvány státusza: beterjesztés, jóváhagyás, a nyomdába és a nyomdából érkezés időpontja,
 
 cc) a bizonyítvány kiállításának dátuma.
+
+d) az anyakönyv alábbi adatai:
+
+da) a nyelvvizsga-bizonyítvány anyakönyvi száma,
+
+db) a vizsgázó nyelvvizsga-anyakönyvén szereplő családi és utóneve,
+
+dc) a vizsgázó nyelvvizsga-anyakönyvén szereplő születési családi és neve,
+
+dd) a vizsgázó nyelvvizsga-anyakönyvén szereplő születési helye és ideje,
+
+de) a vizsgázó anyjának – a vizsgázó nyelvvizsga-anyakönyvén szereplő – születési családi és utóneve
 
 ### 7. melléklet a 2018. évi LXXXIX. törvényhez

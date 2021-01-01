@@ -460,7 +460,7 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 (3) Fizetési kötelezettséget megállapító jogszabály katasztrófahelyzet, továbbá a jogalanyok széles körét érintő – veszélyhelyzetnek nem minősülő – az emberi életet veszélyeztető elemi csapás, ipari szerencsétlenség esetén, az (1) és (2) bekezdésben foglaltakhoz képest a jogalanyokra kedvezőbb rendelkezést is megállapíthat.
 
-29. § (1) Fizetési kötelezettséget előírni, a fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, a kedvezmények, mentességek körét és mértékét megállapítani kizárólag törvényben, vagy törvény felhatalmazása alapján önkormányzati rendeletben lehet, kivéve ha az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérően rendelkezik.
+29. § (1) Fizetési kötelezettséget előírni, a fizetésre kötelezettek körét, a fizetési kötelezettség mértékét, a kedvezmények, mentességek körét és mértékét megállapítani kizárólag törvényben, vagy törvény felhatalmazása alapján önkormányzati rendeletben lehet, kivéve, ha az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérően rendelkezik. Fizetési kötelezettség előírása szempontjából a jogi személyek egyes típusait hátrányosan megkülönböztetni nem lehet.
 
 (2) Az (1) bekezdéstől eltérően – törvény felhatalmazása alapján – a Kormány rendeletben állapíthatja meg a pótlék mértékét. Igazgatási szolgáltatási díjat, pótdíjat – törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet felhatalmazása alapján – a miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapíthat meg.
 

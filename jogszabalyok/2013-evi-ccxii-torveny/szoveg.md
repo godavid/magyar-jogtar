@@ -36,7 +36,7 @@ a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. tö
 
 #### 2. A Földforgalmi törvény egyes értelmező rendelkezései
 
-4. § A Földforgalmi törvény 5. § 4. pontjában meghatározott családi gazdaság alatt – a Földforgalmi törvény 1. § (2) bekezdésében foglalt külön törvény hatálybalépéséig – a gazdálkodó család tagjainak a tulajdonában és használatában álló földek, továbbá a földhöz tartozó, leltárban megjelölt ingatlan és ingó vagyontárgyak – így különösen épület, építmény, mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet – olyan együttesét kell érteni, amelynek a gazdálkodó család tagjai között létrejött szerződés szerinti hasznosítása egy családtag teljes foglalkoztatásán és a többi családtag közreműködésén alapul, és amelyet a földművelésügyi igazgatási szerv családi gazdaságként nyilvántartásba vett.
+#### 4. §
 
 5. § A Földforgalmi törvény 13. § (2) bekezdés c) pontjának, valamint a 42. § (2) bekezdés c) pontjának rendelkezéseit a vetőgumó és a vegetatív szaporítóanyag előállításra is alkalmazni kell.
 
@@ -232,7 +232,7 @@ a csere birtok-összevonási célú földcserének minősül.
 - g) a személyek azonosítására a személyiadat- és lakcímnyilvántartásból a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 11. § (1) bekezdés a)–h) és k) pontjában foglalt adatokat,
 - h) az adóhatóság az adóhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból az adózó azonosítására, árbevételére és köztartozás-fizetési kötelezettségére vonatkozó adatokat,
 - i) a földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági üzemközpontokról vezetett nyilvántartásban szereplő adatokat,
-- j) a családi gazdálkodókról vezetett nyilvántartásban szereplő adatokat,
+- j) a családi mezőgazdasági társaságról, illetve az őstermelők családi gazdaságáról vezetett nyilvántartásban szereplő adatokat,
 - k) a takarmány-vállalkozásokról vezetett nyilvántartásban szereplő adatokat,
 - l) a vetőmag-előállítókról vezetett nyilvántartásban szereplő adatokat
 
@@ -365,17 +365,9 @@ használhatja fel.
 
 #### 9/A. A biztonsági okmánnyal összefüggő kötelezettségek ellenőrzése
 
-44/A. § (1) A mezőgazdasági igazgatási szerv ellenőrzi a föld tulajdonjogának átruházására, vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására szolgáló biztonsági okmánnyal összefüggő kötelezettségek betartását a biztonsági okmányt kezelő közjegyzőnél, ügyvédnél vagy annál a szervezetnél, amelynél a kamarai jogtanácsos működik (e § alkalmazásában a továbbiakban együtt: felhasználó).
+44/A. § (1) Az ingatlanügyi hatóság ellenőrzi a föld tulajdonjogának átruházására, vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására szolgáló biztonsági okmánnyal összefüggő kötelezettségek betartását a biztonsági okmányt kezelő közjegyzőnél, ügyvédnél vagy annál a szervezetnél, amelynél a kamarai jogtanácsos működik (e § alkalmazásában a továbbiakban együtt: felhasználó).
 
-(2) A mezőgazdasági igazgatási szerv a felhasználót a biztonsági okmány kezelésével, felhasználásával, visszaszolgáltatásával kapcsolatos kötelezettségeinek megsértése esetén bírsággal sújtja, vagy figyelmeztetésben részesíti, egyidejűleg felhívja a jogsértő állapot megszüntetésére.
-
-(3) A (2) bekezdés szerinti jogkövetkezmény alkalmazásának nincs helye, ha a cselekménynek, vagy a mulasztásnak a mezőgazdasági igazgatási szerv tudomására jutásától számított egy év, illetve ha a cselekmény, vagy mulasztás elkövetésétől számított három év eltelt.
-
-(4) Ha a jogsértő állapot megszüntetése érdekében a legalacsonyabb összegű bírság kiszabása is szükségtelen, bírságolás helyett a mezőgazdasági igazgatási szerv figyelmeztetésben részesíti a felhasználót.
-
-(5) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de nem haladhatja meg a kiszabható bírság legmagasabb mértékét.
-
-(6)
+(2) Az ingatlanügyi hatóság a felhasználót a biztonsági okmány kezelésével, felhasználásával, visszaszolgáltatásával kapcsolatos kötelezettségeinek megsértése esetén bírsággal sújtja és egyidejűleg kötelezi a jogsértő állapot megszüntetésére.
 
 ### VIII. Fejezet — A FÖLDHASZNÁLATTAL KAPCSOLATOS RENDELKEZÉSEK
 
@@ -544,18 +536,25 @@ kell érteni.
 
 #### 20. Szívességi földhasználat
 
-68. § (1) A szívességi földhasználati szerződés alapján a használatba adó a föld használatát, hasznosítását a Földforgalmi törvény szerinti közeli hozzátartozója részére ingyenesen engedi át. A haszonbérfizetés és a (2)–(4) bekezdésben foglaltak kivételével a szerződő felek jogaira és kötelezettségeire a haszonbérleti szerződésben részes feleket megillető jogok, illetve terhelő kötelezettségek az irányadók.
+68. § (1) A szívességi földhasználati szerződés alapján a használatba adó a föld használatát, hasznosítását ingyenesen engedi át
 
-(2) A szívességi földhasználat megszűnik
+- a) a Földforgalmi törvény szerinti közeli hozzátartozója részére, vagy
+- b) olyan családi mezőgazdasági társaság részére, amelyben tag.
 
-- a) a határozott időtartamú szerződés esetén az időtartam lejártával, a lejárat napján, határozatlan időtartamú szerződés esetén közös megegyezéssel, a szerződő felek által meghatározott napon,
-- b) felmondással,
-- c) azonnali hatályú felmondással,
-- d) a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, e tényhelyzet beálltát követő 30. napon.
+(2) A haszonbérfizetés és a (3)–(5) bekezdésben foglaltak kivételével a szerződő felek jogaira és kötelezettségeire a haszonbérleti szerződésben részes feleket megillető jogok, illetve terhelő kötelezettségek az irányadók.
 
-(3) A határozatlan időre kötött szerződés 60 napos felmondási idővel mondható fel.
+(3) A szívességi földhasználati szerződés megszűnik
 
-(4) A határozott időtartamú szerződés azonnali hatályú felmondással való megszüntetésére – a szerződő felek eltérő megállapodása hiányában – a haszonbérleti szerződés azonnali hatályú felmondására vonatkozó szabályok az irányadók.
+- a) a határozott időtartamú szerződés esetén az időtartam lejártával, a lejárat napján,
+- b) közös megegyezéssel, a szerződő felek által meghatározott napon,
+- c) felmondással,
+- d) azonnali hatályú felmondással,
+- e) az (1) bekezdés a) pontja szerinti esetben a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, e tényhelyzet beálltát követő 30. napon,
+- f) az (1) bekezdés b) pontja szerinti esetben a családi mezőgazdasági társaságban fennálló tagsági viszony bármilyen okból történő megszűnésével, e tényhelyzet beálltát követő 30. napon.
+
+(4) A határozatlan időre kötött szerződés 60 napos felmondási idővel mondható fel.
+
+(5) A határozott időtartamú szerződés azonnali hatályú felmondással való megszüntetésére – a szerződő felek eltérő megállapodása hiányában – a haszonbérleti szerződés azonnali hatályú felmondására vonatkozó szabályok az irányadók.
 
 ### IX/A. Fejezet — AZ ERDŐ HASZNÁLATÁNAK SAJÁTOS SZABÁLYAI
 
@@ -581,7 +580,7 @@ esetén.
 
 #### 20/B. Erdő használata átengedésének közös szabályai
 
-68/B. § (1) Erdőnek minősülő föld használatára, továbbá erdő telepítése céljából erdőnek nem minősülő föld használati jogosultságának megszerzésére erdőgazdálkodási haszonbérleti szerződés, erdőgazdálkodási integrációs szerződés vagy erdőkezelési szerződés köthető.
+68/B. § (1) Erdőnek minősülő föld használatára, továbbá erdő telepítése céljából erdőnek nem minősülő föld használati jogosultságának megszerzésére erdőgazdálkodási haszonbérleti szerződés, erdőgazdálkodási integrációs szerződés vagy erdőkezelési szerződés, továbbá szívességi földhasználati szerződés köthető.
 
 (2) Ha a földrészleten belül 1 hektár területnagyságot meghaladó erdőnek minősülő terület található, akkor ezen terület használati jogosultságát csak külön szerződéssel és az (1) bekezdés szerinti jogcímen lehet átengedni.
 
@@ -609,7 +608,9 @@ esetén.
 (8) Az erdőgazdálkodási haszonbérleti szerződésben meg kell határozni az erdővagyonnak a szerződés időtartamának lejáratkori elvárt értékét és az értékszámítás módszertanát. A szerződésnek az időtartama lejártán kívüli bármilyen okból történő megszűnésekor az erdővagyonnak a szerződés időtartama lejáratkori elvárt értékének és a szerződés megszűnésekor fennálló értékének nettó jelenértéke
 
 - a) negatív különbözetéből számított csökkenés értékét a haszonbérlőnek a tulajdonos részére,
-- b) pozitív különbözetéből számított gyarapodás értékét – ha a felek kifejezetten így állapodnak meg – a tulajdonosnak a haszonbérlő részére meg kell térítenie.
+- b) pozitív különbözetéből számított gyarapodás értékét – ha a felek kifejezetten így állapodnak meg – a tulajdonosnak a haszonbérlő részére
+
+meg kell térítenie.
 
 (9) Az erdőgazdálkodási haszonbérleti szerződés lejártát követően az erdőt olyan állapotban kell visszaadni, hogy az erdőgazdálkodási tevékenység folytatható legyen.
 
@@ -904,9 +905,10 @@ javára történő átengedésére.
 
 (9) A (6)–(8) bekezdésben meghatározott csoportokon belüli földművesek közül kényszerhasznosítóként való kiválasztás sorrendje a következő:
 
-- a) a családi gazdálkodó, illetve gazdálkodó család tagja,
-- b) fiatal földműves,
-- c) pályakezdő gazdálkodó.
+- a) a családi mezőgazdasági társaság tagja,
+- b) az őstermelők családi gazdaságának tagja,
+- c) fiatal földműves,
+- d) pályakezdő gazdálkodó.
 
 (10) Ha több, azonos ranghelyen álló nyilvántartott kérelmezőt lehetne kényszerhasznosítóként kijelölni, a mezőgazdasági igazgatási szerv a helyi földbizottság javaslatának figyelembevételével választja ki az azonos ranghelyen álló nyilvántartott kérelmezők közül a föld kényszerhasznosítóját.
 
@@ -965,7 +967,7 @@ javára történő átengedésére.
 
 (7) A földhasználati nyilvántartási eljárásokban sommás eljárásnak nincs helye.
 
-(8) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával írásban felszólítja a bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság földhasználati bírsággal sújtja, aminek mértéke a föld ingatlan-nyilvántartás szerinti aranykorona (a továbbiakban: AK) értékének ezerszerese, azzal, hogy a bírság összege nem lehet kevesebb tízezer forintnál.
+(8) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával figyelmezteti és írásban kötelezi a bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság földhasználati bírsággal sújtja, aminek mértéke a föld ingatlan-nyilvántartás szerinti aranykorona (a továbbiakban: AK) értékének ezerszerese.
 
 (9) A föld elkülönített közös használata esetében, illetve a közös tulajdonban álló föld esetében a (8) bekezdés szerinti bírság megfizetésére a mulasztó földhasználók, illetve a tulajdonostársak egyetemlegesen kötelezhetők.
 
@@ -980,6 +982,8 @@ javára történő átengedésére.
 (14) A (11)–(13) bekezdésben meghatározottak alapján nincs helye a földhasználat hivatalból történő bejegyzésének.
 
 95/A. § (1) A 95. § (1) bekezdésben foglaltaktól eltérően a hatósági jóváhagyáshoz kötött szerződésen alapuló használat esetén az ingatlanügyi hatóság a hozzá érkező, jóváhagyási záradékkal ellátott szerződés alapján a földhasználat nyilvántartásba történő bejegyzése iránti eljárást hivatalból folytatja le.
+
+(1a) A 95. § (1) bekezdésben foglaltaktól eltérően saját tulajdon jogcímen használt föld tulajdonjogának átruházása esetén az ingatlanügyi hatóság a szerző fél tulajdonjogának átvezetését követően az új tulajdonos földhasználati nyilvántartásba történő bejegyzése iránti eljárást hivatalból folytatja le. A Magyar Állam tulajdonszerzése esetén földhasználóként a tulajdonosi joggyakorló szervezet kerül bejegyzésre.
 
 (2) Ha az (1) bekezdés szerinti eljárás eredményeként a földhasználat bejegyzése nem történik meg, úgy a földhasználónak a 95. § (1) bekezdése szerint bejelentést kell tennie.
 
@@ -1122,7 +1126,7 @@ szolgáltat.
 
 104. § (1) Felhatalmazást kap a Kormány, hogy
 
-- a) a családi gazdaságok létrehozására, nyilvántartásba vételére és a nyilvántartás vezetésére vonatkozó szabályokat,
+- a)
 - b) a földhasználati nyilvántartás részletes szabályait,
 - c) a közös tulajdonban álló föld használati rendjének hatósági úton történő kijelölésére vonatkozó szabályokat,
 - d) a földművelésügyi igazgatási szerv kijelölését,

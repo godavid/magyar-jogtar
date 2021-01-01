@@ -44,19 +44,27 @@ az ingatlan-nyilvántartást, valamint egyes közigazgatási hatósági eljárá
 
 #### 5. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
-17. §
+17. § Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 120. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-18. §
+„(1) Ha a hatóság megállapítja, hogy a másodfokú hatóság, a felügyeleti szerv vagy a közigazgatási bíróság által el nem bírált döntése jogszabályt sért, a döntését annak közlésétől – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 5/A. §-ába ütköző esetben a büntetőügyben hozott határozat közlésétől – számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja.”
+
+18. § Az Ákr. 121. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a hatóság döntése jogszabályt sért, a felügyeleti szerv legfeljebb egy ízben – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 5/A. §-ába ütköző esetben a büntetőügyben hozott határozat közlésétől számított egy éven belül, a (3) bekezdésben meghatározott időtartamon túl is – azt megváltoztatja vagy megsemmisíti, és szükség esetén a döntést hozó hatóságot új eljárásra utasítja.”
 
 #### 6. A közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény eltérő szöveggel történő hatályba léptetése
 
-19. §
+19. § A közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény (a továbbiakban: Szankciótv.) 5. §-a a következő (5) bekezdéssel kiegészülve lép hatályba:
+
+„(5) Ha az 5/B. § szerinti büntetőeljárás befejezésekor a (4) bekezdés szerinti elévülési idő már eltelt, vagy abból egy évnél kevesebb van hátra, a közigazgatási szankciót alkalmazó hatóság a büntetőeljárás befejezésétől számított egy évig alkalmazhat közigazgatási szankciót.”
 
 20. §
 
-21. §
+21. § A Szankciótv. 13. § (1) bekezdése a következő szöveggel lép hatályba:
 
-22. §
+„(1) Tevékenység végzésétől történő eltiltásnak kell tekinteni minden olyan közigazgatási szankciót, amellyel a hatóság az ügyfél valamilyen jogosultsága gyakorlását meghatározott időre vagy jogszabályban meghatározott feltétel bekövetkezéséig megvonja vagy korlátozza.”
+
+22. § A Szankciótv. 9. § (2) bekezdésének nyitó szövegrésze az „írja elő” szövegrész helyett a „teszi lehetővé” szöveggel lép hatályba.
 
 #### 7. A közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény módosítása
 

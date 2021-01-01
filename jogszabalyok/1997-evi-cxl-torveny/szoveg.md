@@ -19,7 +19,9 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
   - fa) önművelés céljából lakóhelyén bekapcsolódjon kulturális tevékenységekbe és megismerhesse a kulturális értékeket;
   - fb) megismerkedjen a település történetével, a hagyományokkal, normákkal;
   - fc) a település népességének tagjaként kifejezze, milyen értékek, célok, fejlesztési irányok fontosak számára, részt vegyen a közösségi életének fejlesztésében és a közös jövőkép megfogalmazásában; ezekhez állandó helyszínt vehessen igénybe;
-  - fd) lakóhelyén szakmai segítséget vegyen igénybe az önfejlesztéshez, az önműveléshez, a közös értékek kifejezéséhez, megéléséhez, a közös célok megfogalmazásához, a tevékenységek színvonalának biztosításához.
+  - fd) lakóhelyén szakmai segítséget vegyen igénybe az önfejlesztéshez, az önműveléshez, a közös értékek kifejezéséhez, megéléséhez, a közös célok megfogalmazásához, a tevékenységek színvonalának biztosításához,
+- g) gondoskodni a digitális formában, interneten szolgáltatott és nyilvánosságra hozott tartalom (a továbbiakban: webtartalom) archiválásáról, használatának biztosításáról, valamint
+- h) szabályozni a webtartalom archiválásával kapcsolatos feladatok ellátását, az archivált webtartalmak használatának lehetőségeit.
 
 ### Alapelvek
 
@@ -44,7 +46,8 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 - a) a muzeális intézményekre, fenntartóikra és foglalkoztatottaikra, a kulturális örökség muzeális intézményekben őrzött elemeire, valamint a muzeális intézmény szolgáltatásait igénybe vevőkre, továbbá a kulturális örökséggel foglalkozó egyéb szervezetekre, kép- és hangarchívumokra,
 - b) a könyvtári dokumentumokra, a könyvtárhasználókra, a nyilvános könyvtárakra, azok fenntartóira, alkalmazottaira és a kiadványok kötelespéldányainak szolgáltatóira,
-- c) a közművelődési feladatot ellátókra, a közösségi színterek és a közművelődési intézmények fenntartóira, működtetőire és alkalmazottaira.
+- c) a közművelődési feladatot ellátókra, a közösségi színterek és a közművelődési intézmények fenntartóira, működtetőire és alkalmazottaira,
+- d) a webtartalomra és a tartalomszolgáltatókra.
 
 (2) A könyvtári dokumentumok védelmére és nyilvántartására vonatkozó szabályok tekintetében e törvény hatálya kiterjed a nem nyilvános könyvtárakra is.
 
@@ -661,6 +664,18 @@ esetében.
 
 (7)
 
+59/A. § (1) A webtartalom archiválás keretében, webaratással történő begyűjtésének, feldolgozásának, másolásának, hosszú távú megőrzésének és webarchívumba rendezésének, továbbá felhasználásának feladatát (a továbbiakban együtt: webarchiválás) a nemzeti könyvtár látja el. A könyvtárak együttműködnek a nemzeti könyvtárral az archivált webtartalom hozzáférhetővé tételében.
+
+(2) Nem minősül webtartalomnak a Nemzeti Audiovizuális Archívumról szóló törvény alapján archivált műsorszám és a mozgóképről szóló törvény alapján archivált filmalkotás.
+
+(3) A webarchiválás során a hungarikumnak minősülő webtartalmat kell archiválni. A webarchiválás alól kivételt képező webtartalmak körét a Kormány rendeletben állapítja meg.
+
+(4) A tartalomszolgáltató a webarchiválás megvalósítása érdekében együttműködik a nemzeti könyvtárral.
+
+(5) A nemzeti könyvtár azokat a webarchiválás során gyűjtött személyes adatokat, amelyeket a tartalomszolgáltató a weblapon nyilvánosságra hozott és a webarchiválás érdekében a nemzeti könyvtár részére szolgáltatott, közérdekű archiválás céljából kezeli.
+
+(6) Az (5) bekezdés szerinti adatkezelés vonatkozásában az érintett a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről szóló 2016. április 27-i 2016/679/EU európai parlamenti és tanácsi rendelet 16. és 18. cikkében rögzített jogait nem gyakorolhatja.
+
 60. § (1) A nyilvános könyvtári ellátás rendszerének működtetését és fejlesztését segítő központi szolgáltatások:
 
 - a) az országos könyvtári informatikai hálózat fejlesztése és tartalmi feltöltése,
@@ -668,7 +683,8 @@ esetében.
 - c) az országos dokumentumellátási rendszer működtetése,
 - d) a határon túli magyarok könyvtári ellátásának segítése,
 - e) a hazai nemzetiségek könyvtári ellátásának segítése,
-- f) a nemzetközi szabványos dokumentumazonosító számok kiadása és nyilvántartása.
+- f) a nemzetközi szabványos dokumentumazonosító számok kiadása és nyilvántartása,
+- g) a webarchiválás feladatának ellátása a digitális kulturális örökség megőrzése érdekében.
 
 (2) Az 59. § (1) és (4) bekezdésében és az e § (1) bekezdésében felsorolt, valamint további, a könyvtári rendszer működése és fejlesztése érdekében a miniszter által meghatározott szolgáltatásokat mindazokban az esetekben, amelyekben a jelen törvény erről nem rendelkezik, az a nyilvános könyvtár vagy intézmény teljesíti, amellyel a miniszter a feladat ellátására megállapodást köt.
 
@@ -739,7 +755,9 @@ esetében.
 - l) a Magyar Országos Közös Katalógus adatbázis működtetése és fejlesztése,
 - m) a könyvtárakban őrzött kulturális javak digitalizálása az Országos Könyvtári Digitalizálási Stratégia szerint,
 - n) részt vesz a magyar kulturális örökség digitális megőrzésében és széleskörű hozzáférhetőségének megteremtésében,
-- o) a könyvtári intézet szakmailag önálló szervezeti egységként való működtetése.
+- o) a könyvtári intézet szakmailag önálló szervezeti egységként való működtetése,
+- p) a webtartalom begyűjtése és archiválása, valamint
+- q) a webarchívum használatának biztosítása a könyvtárhasználók részére.
 
 (5) A nemzeti könyvtárt nyilvános könyvárveréseken – a védett kulturális javak kivételével – elővásárlási jog illeti meg.
 
@@ -1396,7 +1414,8 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - r) a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyének kijelölésére, valamint a kölcsönzési díj és a pénzügyi biztosíték megfizetése alóli mentességre vonatkozó részletes szabályokat,
 - s) a hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami feladatokat ellátó szerv kijelölését, feladatai ellátásának részletes szabályait,
 - t) a népművészeti és népi iparművészeti alkotások minősítési feltételeit, a minősítő címek körét, továbbá a népművészeti és népi iparművészeti alkotások minősítésére, minősítő címek adományozására irányuló eljárás rendjét, a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, valamint az igazolvány kiállítására vonatkozó szabályokat és a minősítés alapjául szolgáló foglalkozási ágakat,
-- u) a közgyűjtemények és a közművelődési intézmények névviselésének és névhasználatának szabályait.
+- u) a közgyűjtemények és a közművelődési intézmények névviselésének és névhasználatának szabályait,
+- v) a webtartalom begyűjtésének eljárási szabályait, a begyűjtés módját és rendszerességét, a begyűjtés szempontjainak meghatározását, a webarchiválás alól kivételt képező webtartalmak körét, a tartalomszolgáltatók kötelezettségeit, az archivált webtartalom használatának feltételeit és lehetőségeit.
 
 (2)
 
@@ -1488,6 +1507,8 @@ k) Könyvtári gyűjtemény: a könyvtár tervszerűen fejlesztett, rendezett, f
 
 l) Könyvtári szakember: a könyvtáros, a könyvtári informatikus, a könyvtári asszisztens, a segédkönyvtáros továbbá a könyvtári feladatok ellátásához szükséges más felső- vagy középfokú végzettséggel rendelkező személy. A könyvtáros felsőfokú szakirányú végzettséggel rendelkező szakember.
 
+ly) Tartalomszolgáltató: az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény szerinti szolgáltató, aki webtartalmat tesz közzé a honlapon, ide nem értve a közvetítő szolgáltatókat.
+
 m) Könyvtárközi dokumentumellátás:
 
 – a dokumentumok lelőhelyének nyilvántartása és adatszolgáltatás a nyilvántartásból az igénylők részére,
@@ -1497,6 +1518,8 @@ m) Könyvtárközi dokumentumellátás:
 – a könyvtárak gyűjteményéből kivont dokumentumok hasznosítása a könyvtári rendszer számára.
 
 n) Könyvtárközi kölcsönzés: valamely dokumentum szolgáltatása egyik könyvtárból a másikba, beleértve az eredeti dokumentum kölcsönzését, a másolatok szolgáltatását, valamint a könyvtárközi dokumentumszolgáltatásra vonatkozó kérések közvetítését is.
+
+ny) Webaratás: a webarchiválás olyan módszere, amellyel a hivatkozással összekapcsolt webtartalmak speciális szoftverrel kerülnek begyűjtésre.
 
 o) Közgyűjtemény: az állam, a helyi önkormányzat, valamint a nemzetiségi önkormányzat, a köztestület és a közalapítvány tulajdonában (fenntartásában) működő, vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép-, illetve hangarchívumok.
 
@@ -1511,6 +1534,8 @@ s) Népművészet: valamely népművészeti ág (népköltészet, népzene, nép
 sz) Kulturális javak: az élettelen és élő természet keletkezésének, fejlődésének, az emberiség, a magyar nemzet, Magyarország történelmének kiemelkedő és jellemző tárgyi, képi, hangrögzített, írásos emlékei, és egyéb bizonyítékai – az ingatlanok kivételével –, a művészeti alkotások.
 
 t) Múzeumi küldetésnyilatkozat: a múzeumok szakmai tevékenységét megalapozó írott dokumentum, amely az e törvényben meghatározott feladatok teljesítése érdekében a gyűjtemények, valamint a szakmai és tárgyi infrastruktúra alapján rögzíti a múzeum belső és külső adottságait, továbbá ennek alapján kijelöli helyi társadalmi szerepvállalásának stratégiai céljait.
+
+ty) Webarchívum: az archivált webtartalmakból álló, metaadatokkal ellátott gyűjtemény.
 
 u) Népi iparművészet: a népművészeti tárgyi örökség tudatos, esetenként szervezett és irányított keretekben megvalósult továbbélése, a kreatív iparban is megjelenő, a népi hagyományokon alapuló stílusjegyeket hordozó művészeti alkotások.
 

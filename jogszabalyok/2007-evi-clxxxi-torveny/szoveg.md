@@ -88,7 +88,7 @@ felkérésére kizárólag a pályázat kiírásáról hozott döntés meghozata
 
 (4) A pályázatot befogadó szerv törli az (1)–(3) bekezdés alapján közzétett adatokat a támogatás igényléséhez való jog megnyílása naptári évének utolsó napjától számított öt év elteltével.
 
-(5) Az (1)–(4) bekezdést nem kell alkalmazni az e törvény hatálya alá tartozó, a Nemzeti Foglalkoztatási Alapból természetes személyek számára nyújtott támogatások esetében.
+(5) Az (1)–(4) bekezdést nem kell alkalmazni az e törvény hatálya alá tartozó, a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapból természetes személyek számára nyújtott támogatások esetében.
 
 (6) A honlapon bárki számára, ingyenesen biztosítani kell a közzétett adatok kereshetőségét, pályázatonként, pályázónként, összeghatár szerint és más módon csoportosított lekérdezhetőségét.
 
@@ -113,6 +113,8 @@ felkérésére kizárólag a pályázat kiírásáról hozott döntés meghozata
 (4) Ha a (3) bekezdés szerinti pályázatról a döntést a Nemzeti Kulturális Alap kollégiuma vagy a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény (a továbbiakban: NKA tv.) 2. §-ának (6) bekezdése szerint a bizottság hozná, a 6. § (1) bekezdés e) pontjában meghatározott valamely körülmény fennállása az érintett kollégiumi vagy bizottsági tag NKA tv. 2/A. § (5) bekezdésében meghatározott összeférhetetlenségét alapozza meg.
 
 (5) Az (1) bekezdés e) pontja alkalmazásában nem minősül alapítványnak a külön törvény alapján létrehozott, a párt működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítvány.
+
+(6) Az (1) bekezdés alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány vagyonellenőre.
 
 7. § (1) Ha a pályázatot helyi önkormányzat, nemzetiségi önkormányzat, helyi önkormányzati költségvetési szerv, országos nemzetiségi önkormányzati költségvetési szerv vagy ezek tulajdonában álló gazdasági társaság vagy közhasznú társaság nyújtotta be, a helyi önkormányzati képviselőtestület tagja, a nemzetiségi önkormányzati testület tagja, valamint a projekt megvalósulásával érintett megye (főváros) területén fekvő választókerületben megválasztott vagy a projekt megvalósulásával érintett településen lakóhellyel rendelkező országgyűlési képviselő a támogatási döntés meghozatalában nem vehet részt, de – ha a döntésre testület jogosult – a testület ülésén részt vehet.
 

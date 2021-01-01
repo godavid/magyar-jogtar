@@ -105,7 +105,7 @@ terjed ki.
 - c) társas vállalkozás tagjaként,
 - d) közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
 - e) munkaviszonyban,
-- f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban,
+- f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban,
 - g) szolgálati jogviszonyban,
 - h) egyházi személyként vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként,
 - i) önkéntes segítőként,
@@ -424,7 +424,7 @@ minősül.
 
 ### Közszolgálati jogviszony, kormányzati szolgálati jogviszony, szolgálati viszony
 
-16. § (1) Az egészségügyi dolgozó közszolgálati jogviszony, kormányzati szolgálati jogviszony keretében csak az őt foglalkoztató közigazgatási szerv tevékenységével összefüggő egészségügyi tevékenység végzésére jogosult.
+16. § (1) Az egészségügyi dolgozó közszolgálati jogviszony, kormányzati szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony keretében csak az őt foglalkoztató közigazgatási szerv tevékenységével összefüggő egészségügyi tevékenység végzésére jogosult.
 
 (2) Az egészségügyi dolgozó jogosult egészségügyi tevékenység végzése céljából a külön törvényben nevesített szervekkel szolgálati viszonyt létesíteni.
 
@@ -442,19 +442,19 @@ minősül.
 
 (9) A (4) bekezdésben foglaltakon túl a Hjt. hatálya alá tartozók esetében a 15/A. §-ban foglaltakat is alkalmazni kell.
 
-### Jövedelemkiegészítés közalkalmazotti, kormányzati szolgálati jogviszonyban álló egészségügyi dolgozók illetményének és pénzellátásának együttfolyósítási tilalmára tekintettel
+### Jövedelemkiegészítés közalkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban álló egészségügyi dolgozók illetményének és pénzellátásának együttfolyósítási tilalmára tekintettel
 
 16/A. § Ezen alcím alkalmazásában:
 
 - a) pénzellátás: az öregségi nyugdíj, a korhatár előtti ellátás, valamint más olyan ellátás, amelyet az öregségi nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani,
-- b) jövedelemkiegészítés: az e törvényben meghatározott feltételek szerint, pénzellátásuk törvény alapján történő szüneteltetésére tekintettel, egyes közalkalmazotti jogviszonyban, kormányzati szolgálati jogviszonyban álló egészségügyi dolgozók jövedelmének kiegészítésére szolgáló juttatás,
+- b) jövedelemkiegészítés: az e törvényben meghatározott feltételek szerint, pénzellátásuk törvény alapján történő szüneteltetésére tekintettel, egyes közalkalmazotti jogviszonyban, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban álló egészségügyi dolgozók jövedelmének kiegészítésére szolgáló juttatás,
 - c) munkáltató: költségvetési szervként működő egészségügyi szolgáltató munkáltató.
 
-16/B. § (1) Azt a közalkalmazotti jogviszonyban, kormányzati szolgálati jogviszonyban álló egészségügyi dolgozót, akinek a megállapított pénzellátása folyósítását a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 83/C. §-a alapján szüneteltetik – ideértve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. §-a szerinti szüneteltetést is –, a munkáltató – általa meghatározott összegű – jövedelemkiegészítésben részesítheti, a (2)–(7) bekezdésben foglalt feltételek, valamint kormányrendeletben meghatározott eljárásrend szerint és jóváhagyás birtokában.
+16/B. § (1) Azt a közalkalmazotti jogviszonyban, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban álló egészségügyi dolgozót, akinek a megállapított pénzellátása folyósítását a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 83/C. §-a alapján szüneteltetik – ideértve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. §-a szerinti szüneteltetést is –, a munkáltató – általa meghatározott összegű – jövedelemkiegészítésben részesítheti, a (2)–(7) bekezdésben foglalt feltételek, valamint kormányrendeletben meghatározott eljárásrend szerint és jóváhagyás birtokában.
 
-(2) A munkáltató által meghatározott jövedelemkiegészítésnek az egészségügyi dolgozót megillető, a kifizetést terhelő adók és járulékok nélkül számított (a továbbiakban: nettó) mértéke nem lehet magasabb az egészségügyi dolgozót a közalkalmazotti, kormányzati szolgálati jogviszony fennállása miatt történő szüneteltetés hiányában egyébként megillető pénzellátás havi összegénél.
+(2) A munkáltató által meghatározott jövedelemkiegészítésnek az egészségügyi dolgozót megillető, a kifizetést terhelő adók és járulékok nélkül számított (a továbbiakban: nettó) mértéke nem lehet magasabb az egészségügyi dolgozót a közalkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszony fennállása miatt történő szüneteltetés hiányában egyébként megillető pénzellátás havi összegénél.
 
-(3) Ha az egészségügyi dolgozó több egészségügyi szolgáltatóval is közalkalmazotti, kormányzati szolgálati jogviszonyban áll, a jövedelemkiegészítés
+(3) Ha az egészségügyi dolgozó több egészségügyi szolgáltatóval is közalkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban áll, a jövedelemkiegészítés
 
 - a) teljes munkaidős foglalkoztatás esetén csak egy jogviszonyra tekintettel,
 - b) több részmunkaidős jogviszony fennállása esetén együttesen legfeljebb a (2) bekezdés szerinti nettó mértékig folyósítható.
@@ -463,7 +463,7 @@ minősül.
 
 (5) Az egészségügyi dolgozó nem jogosult jövedelemkiegészítésre a fizetés nélküli szabadság, valamint az egész napos igazolatlan távollét időtartamára. A jövedelemkiegészítés emiatt kieső összegét a tárgyhónapban kieső munkanapok számának a továbbfoglalkoztatott munkarendje szerinti, a tárgyhónap egészére megállapított munkanapok számához viszonyított arányában, 100 forintra kerekítve kell megállapítani. Nem jár jövedelemkiegészítés a felmentési időnek arra a részére, amely időtartam vonatkozásában az egészségügyi dolgozót a munkavégzési kötelezettség alól mentesítették.
 
-(6) A jövedelemkiegészítés a foglalkoztatottat a közalkalmazotti, kormányzati szolgálati jogviszonyára irányadó törvényben foglalt illetményrendszeren kívül illeti meg, különösen az alábbiakra tekintettel:
+(6) A jövedelemkiegészítés a foglalkoztatottat a közalkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyára irányadó törvényben foglalt illetményrendszeren kívül illeti meg, különösen az alábbiakra tekintettel:
 
 - a) a távolléti díj, a jubileumi jutalom, az illetménypótlékok, az illetményen alapuló egyéb bérelemek, valamint az ügyeleti díj és a készenléti díj számítása szempontjából figyelmen kívül kell hagyni,
 - b) a minimálbér és a garantált bérminimum biztosítása, valamint az egészségügyi ágazati előmeneteli rendszer alkalmazása szempontjából nem kell az illetmény részének tekinteni, és

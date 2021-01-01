@@ -111,13 +111,13 @@ területét.
 
 (4) A vadaskertben, a vadasparkban, a vadfarmon és az apróvadtartó és -szaporító telepen (a továbbiakban együtt: zárttéri vadtartó létesítmény) jogszerűen tartott vad – a vadászatra jogosulttal kötött eltérő megállapodás hiányában – a zárttéri vadtartó létesítmény üzemeltetőjének tulajdonában van.
 
-(5) A gímszarvas, a dámszarvas, a muflon, a vaddisznó, illetve az őz elejtésének minősül az első halálos lövés leadása.
+(5) A gímszarvas, a dámszarvas, szikaszarvas, a muflon, a vaddisznó, illetve az őz elejtésének minősül az első halálos lövés leadása.
 
 (6) Az (5) bekezdésben nem említett vad elejtésének minősül a vad helybenmaradását eredményező lövés leadása, illetve ragadozó madárral vagy vadászkutyával történő elfogása.
 
 (7) A vad elfogásának minősül annak mozgásképtelenné tétele útján élve történő birtokbavétele.
 
-(8) E törvény alkalmazásában nagyvadfajoknál trófeának minősül az elejtett gímszarvas, dámszarvas, valamint az őz agancsa, a muflon csigája, továbbá a vaddisznó agyara.
+(8) E törvény alkalmazásában nagyvadfajoknál trófeának minősül az elejtett gímszarvas, dámszarvas, szikaszarvas, valamint az őz agancsa, a muflon csigája, továbbá a vaddisznó agyara.
 
 ### A vadászati jog gyakorlása, hasznosítása
 
@@ -390,7 +390,7 @@ rendeltetésű lehet.
 
 ### A vadászati jog kényszerhasznosítása
 
-27. § (1) Amennyiben a vadászterületnek minősülő föld tulajdonosa, illetőleg a vadászatra jogosult a vadászati jog gyakorlási vagy hasznosítási kötelezettségének a vadászati hatóság felszólítását követően sem tesz eleget, vagy a vad- és élőhelyének védelmére előírt kötelezettségeit megszegi, és ezáltal az adott vadászterület vadlétszámának, nem vadászható állatfaj egyedének és más élő szervezetnek – beleértve a természetvédelmi oltalom alatt álló élő szervezeteket is – a fennmaradását közvetlenül vagy súlyosan sérti, illetve veszélyezteti, a vadászati hatóság – a vad- és élőhelyének védelme, valamint a vadkárok megelőzése érdekében – a fenti cselekményekért, vagy mulasztásokért felelős földtulajdonos vagy vadászatra jogosult költségére határozatában
+27. § (1) Amennyiben a vadászterületnek minősülő föld tulajdonosa, illetőleg a vadászatra jogosult a vadászati jog gyakorlási vagy hasznosítási kötelezettségének a vadászati hatóság figyelmeztetését követően sem tesz eleget, vagy a vad- és élőhelyének védelmére előírt kötelezettségeit megszegi, és ezáltal az adott vadászterület vadlétszámának, nem vadászható állatfaj egyedének és más élő szervezetnek – beleértve a természetvédelmi oltalom alatt álló élő szervezeteket is – a fennmaradását közvetlenül vagy súlyosan sérti, illetve veszélyezteti, a vadászati hatóság – a vad- és élőhelyének védelme, valamint a vadkárok megelőzése érdekében – a fenti cselekményekért, vagy mulasztásokért felelős földtulajdonos vagy vadászatra jogosult költségére határozatában
 
 - a) megállapítja a vadászterület határát,
 - b) a (3) bekezdésben foglaltak figyelembevételével elrendeli, hogy a vadászterületnek minősülő földterület tulajdonosa, illetve – társult vadászati jog esetén – tulajdonosainak közössége a vadászati jog haszonbérbe adásáról a vadászati hatóság által nyilvánosan meghirdetett pályázat alapján kiválasztott haszonbérlővel a vadászati hatóság által megállapított határidőig kössön szerződést, amely határidő elmulasztása esetén a haszonbérleti szerződést a vadászati hatóság a fenti cselekményekért, vagy mulasztásokért felelős földtulajdonos vagy vadászatra jogosult, illetve – társult vadászati jog esetén – a tulajdonosok közössége törvényes képviselőjeként köti meg,
@@ -398,7 +398,7 @@ rendeltetésű lehet.
 - d) megállapítja a vadászterület éves vadgazdálkodási tervét,
 - e) kijelöli a vadászterületen a vadállomány védelme érdekében a vadgazdálkodási és vadászati tevékenység ellátására alkalmas jogi személyt, illetve kijelölheti a közös képviselő személyét,
 - f) hatósági vadászatot rendel el,
-- g) korlátozza, felfüggeszti, vagy megtiltja a vadászatra jogosult vadgazdálkodási és vadászati tevékenységének részét vagy egészét
+- g) a vadászatra jogosultat a vadgazdálkodási és vadászati tevékenység végzésétől eltiltja
 
 [az a)–g) pontokban foglaltak a továbbiakban együtt: a vadászati jog kényszerhasznosítása].
 
@@ -424,7 +424,7 @@ rendeltetésű lehet.
 
 27/A. § (1) Zárttéri vadtartás a vadászati hatóság engedélyével folytatható.
 
-(2) Zárttéri vadtartásnak minősül a fácán, fogoly, tőkés réce, gímszarvas, dámszarvas, őz, muflon, illetve vaddisznó zárt térben, szabad mozgásában kerítéssel vagy egyéb módon korlátozott
+(2) Zárttéri vadtartásnak minősül az e törvény végrehajtására kiadott rendeletben meghatározott vadfajok szabad mozgásában kerítéssel vagy egyéb módon korlátozott
 
 - a) vadászati,
 - b) kutatási, oktatási, bemutatási,
@@ -446,13 +446,13 @@ célú tartása és szaporítása [a)–c) pontok a továbbiakban együtt: vadta
 
 (3) Vadászterületre – figyelemmel a (2) bekezdésre – csak olyan vad helyezhető ki, amely állat-egészségügyi igazolással rendelkezik, és ennek alapján a természeti környezetben élő állatfajoknak a telepített vad által történő állatbetegségekkel való fertőzése kizárható.
 
-(4) Ha a nagyvadtartó a vadászati hatóság felszólítását követően sem biztosítja a nagyvadtartás jogszabályban vagy az engedélyező határozatban előírt feltételeit, illetve ha a zárttéren tartott vad a vadgazdálkodás vagy a természetvédelem érdekeit a hatóság felszólítását követően is veszélyezteti, a vadászati hatóság a létesítési engedély visszavonása mellett a nagyvadtartó költségére a zárttéren tartott nagyvadállomány felszámolását rendeli el.
+(4) Ha a nagyvadtartó a vadászati hatóság figyelmeztetését követően sem biztosítja a nagyvadtartás jogszabályban vagy az engedélyező határozatban előírt feltételeit, a vadászati hatóság a nagyvadtartót a tevékenységtől eltiltja, és a nagyvadtartó költségére a zárttéren tartott nagyvadállomány felszámolását rendeli el.
 
 (5) A (4) bekezdés, a 27/C. § (7) bekezdés, valamint a 27/E. § (2) bekezdés alkalmazása nem mentesíti a vadtartót a zárttéri vadtartás szabályai megsértése miatti felelősségre vonás alól.
 
 ### Vadaskert
 
-27/C. § (1) A vadaskert a vadászterület gímszarvas, dámszarvas, őz, muflon, valamint vaddisznó vadászati célú tartására, illetve tenyésztésére kerítéssel bekerített része. Vadaskertbe szabad vadászterületről, vagy zárttéri vadtartásból származó vad telepíthető, ha a telepítendő egyed küllemi megjelenése az adott vadfajra jellemző jegyeket hordozza. Nagyvad vadaskertbe történő kihelyezését a vadászati hatóság engedélyezi.
+27/C. § (1) A vadaskert a vadászterületnek a vadászható nagyvadfajok vadászati célú tartására, illetve tenyésztésére kerítéssel bekerített része. Vadaskertbe szabad vadászterületről, vagy zárttéri vadtartásból származó vad telepíthető, ha a telepítendő egyed küllemi megjelenése az adott vadfajra jellemző jegyeket hordozza. Nagyvad vadaskertbe történő kihelyezését a vadászati hatóság engedélyezi.
 
 (2) A vadaskertben történő vadászat alkalmával e törvénynek – a vadaskert létesítését engedélyező határozatban szereplő nagyvadfajok esetén – a vadászati tilalmi időkre és a vadászterület vadeltartó képességére vonatkozó előírásait nem kell alkalmazni.
 
@@ -460,7 +460,7 @@ célú tartása és szaporítása [a)–c) pontok a továbbiakban együtt: vadta
 
 (4) A vadaskert létesítési engedélyének módosítását a vadászatra jogosult kérelmére a vadászati hatóság a (3) bekezdésben foglaltak szerint engedélyezi.
 
-(5) A (3) bekezdésben foglalt feltételek teljesítését a vadászati hatóság évente felülvizsgálja, és ha a 27/D. § (2) bekezdés a)–d) pontja szerinti feltételeknek a hatóság felszólítására a kötelezett a megadott határidőn belül nem tesz eleget, dönt az engedély visszavonásáról.
+(5) A (3) bekezdésben foglalt feltételek teljesítését a vadászati hatóság évente felülvizsgálja, és ha a 27/D. § (2) bekezdés a)–d) pontja szerinti feltételeknek a hatóság figyelmeztetésére a kötelezett a megadott határidőn belül nem tesz eleget, dönt az engedély visszavonásáról.
 
 (6) A vadaskertben – a vadászatra jogosulttal kötött eltérő megállapodás hiányában – vadászati tevékenységet a vadaskert üzemeltetője folytathat. Az üzemeltetéssel kapcsolatos szabályokat a miniszter az e törvény felhatalmazása alapján kiadott rendeletben határozza meg.
 
@@ -477,7 +477,7 @@ célú tartása és szaporítása [a)–c) pontok a továbbiakban együtt: vadta
 - c) erdő esetében az erdő védelmével, valamint az erdei haszonvételek gyakorlásával kapcsolatos feltételeket;
 - d) természetvédelem alatt álló terület esetében a terület védelmével kapcsolatos feltételeket.
 
-(3) A (2) bekezdésben foglalt feltételek teljesítését a vadászati hatóság évente felülvizsgálja, és ha a (2) bekezdés a)–d) pontja szerinti feltételeknek a hatóság felszólítására a kötelezett a megadott határidőn belül nem tesz eleget, dönt az engedély visszavonásáról.
+(3) A (2) bekezdésben foglalt feltételek teljesítését a vadászati hatóság évente felülvizsgálja, és ha a (2) bekezdés a)–d) pontja szerinti feltételeknek a vadászati hatóság figyelmeztetésére a kötelezett a megadott határidőn belül nem tesz eleget, dönt az engedély visszavonásáról.
 
 27/E. § (1) Vadasparkban vadászni csak a vadászati hatóság külön engedélyével lehet. A vadászati hatóság – ha az engedélyben szereplő vadlétszám és ivararány másképp nem állítható helyre – kérelemre vagy hivatalból vadállomány-szabályozó vadászatot rendelhet el.
 
@@ -485,7 +485,7 @@ célú tartása és szaporítása [a)–c) pontok a továbbiakban együtt: vadta
 
 ### Vadfarm
 
-27/F. § (1) A vadfarm vadászterületen vagy vadászterületnek nem minősülő földterületen élelmiszer előállítása céljából a 27/A. § (2) bekezdésben felsorolt nagyvadfajok tartására szolgáló létesítmény.
+27/F. § (1) A vadfarm vadászterületen vagy vadászterületnek nem minősülő földterületen élelmiszer előállítása céljából a vadászható nagyvadfajok tartására szolgáló létesítmény.
 
 (2) Vadfarm létesítését az érintett földterület használójának kérelmére, a földterület tulajdonosának előzetes hozzájárulásával, a vadászati hatóság engedélyezi. Nem létesíthető vadfarm védett természeti területen. Vadfarm létesítése és működtetése során a 27/D. § (2) bekezdés a)–c) pontját és a 27/D. § (3) bekezdését kell megfelelően alkalmazni.
 
@@ -493,7 +493,7 @@ célú tartása és szaporítása [a)–c) pontok a továbbiakban együtt: vadta
 
 (4) A vadászati hatóság a vadfarm létesítésére kiadott engedélyét, ha
 
-- a) az engedélyes a vadászati hatóság felszólítását követően sem teljesíti a jogszabályban vagy a létesítési engedélyben előírt feltételeket,
+- a) az engedélyes a vadászati hatóság figyelmeztetését követően sem teljesíti a jogszabályban vagy a létesítési engedélyben előírt feltételeket,
 - b) az engedélyessel szemben a vadászati hatóság 5 éven belül véglegesen 3 alkalommal szab ki bírságot a zárttéri vadtartás szabályai megsértése miatt,
 
 hivatalból visszavonja.
@@ -573,7 +573,7 @@ engedélyével létesíthető.
 
 az élelmiszerlánc-felügyeleti szervnek haladéktalanul jelenteni.
 
-(3) Amennyiben a vadászatra jogosult a vad és élőhelyének védelmére előírt kötelezettségének nem, vagy nem a megfelelő módon tesz eleget, és a vad, valamint élőhelyének védelme másként nem biztosítható, a vadászati hatóság határozatában felhívja e kötelezettségének teljesítésére.
+(3) Amennyiben a vadászatra jogosult a vad és élőhelyének védelmére előírt kötelezettségének nem, vagy nem a megfelelő módon tesz eleget, és a vad, valamint élőhelyének védelme másként nem biztosítható, a vadászati hatóság figyelmezteti e kötelezettségének teljesítésére.
 
 #### 36. §
 
@@ -843,7 +843,7 @@ nyilvánosak.
 
 52. § (1) A vadászati hatóság ellenőrzi, hogy a vadászatra jogosult a hivatásos vadász alkalmazására előírt valamennyi kötelezettségének az e törvényben foglaltak szerint eleget tesz. Erre tekintettel a vadászatra jogosult köteles a hivatásos vadász alkalmazását legalább nyolc nappal az alkalmazás kezdete előtt – a szolgálati hely megjelölésével – a vadászati hatóságnak nyilvántartásba vétel céljából bejelenteni.
 
-(2) Ha a vadászatra jogosult a hivatásos vadász alkalmazására vonatkozó kötelezettségének a vadászati hatóság felhívására nem vagy nem a törvényben foglalt feltételek szerint tesz eleget, a vadászati hatóság a hivatásos vadász jogszerű alkalmazásáig a vadászatra jogosult vadászterületén a vadászatot felfüggeszti és a vadászatra jogosult költségén gondoskodik a vadgazdálkodási feladatok ellátásáról.
+(2) Ha a vadászatra jogosult a hivatásos vadász alkalmazására vonatkozó kötelezettségének a vadászati hatóság figyelmeztetésére nem vagy nem a törvényben foglalt feltételek szerint tesz eleget, a vadászati hatóság a hivatásos vadász jogszerű alkalmazásáig a vadászatra jogosult vadászterületén a vadászatra jogosultat a vadászati tevékenység végzésétől eltiltja és a vadászatra jogosult költségén gondoskodik a vadgazdálkodási feladatok ellátásáról.
 
 53. § (1) A hivatásos vadász legfőbb feladata a vadgazdálkodás szakszerűségének, valamint a vadászati tevékenység jogszerűségének biztosítása, amelynek érdekében:
 
@@ -869,7 +869,7 @@ nyilvánosak.
 
 (4)
 
-55. § A feladatát ellátó, e törvény szerint alkalmazott hivatásos vadászt a Büntető Törvénykönyv szerinti büntetőjogi védelem illeti meg.
+55. § A feladatát ellátó, e törvény szerint alkalmazott hivatásos vadász a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személynek minősül.
 
 ### IV. Fejezet — A VADÁSZAT
 
@@ -1079,7 +1079,7 @@ lehet elejteni, illetve elfogni.
 - 3. a nagyvad terelővadászatán a 45 centiméternél magasabb marmagasságú kutyával folytatott vadászat. Ez alól kivételt képeznek a származási igazolással igazoltan erdélyi kopónak minősülő hajtóebek;
 - 4. az azonosító jel használata során a használatra vonatkozó rendelkezések be nem tartásával folytatott vadászat;
 - 5. az e törvény előírásainak meg nem felelő vadászíj, illetve nyílvessző használata;
-- 6. a gímszarvasra, dámszarvasra, muflonra, őzre, valamint – a sörétes vadászlőfegyverből kilőhető golyóval történő vadászat kivételével – a vaddisznóra történő vadászat esetén a sörétes vadászlőfegyver használata;
+- 6. a nagyvadfajok vadászata során – a sörétes vadászlőfegyverből kilőhető golyóval folytatott vaddisznó vadászat kivételével – a sörétes vadászlőfegyver használata;
 - 7. a .45-ösnél (11,4 mm) kisebb öbnagyságú elöltöltő fegyver használata;
 - 8. a két tölténynél nagyobb tárkapacitású öntöltő (félautomata) vagy önműködő (automata) sörétes vadászlőfegyver használata;
 - 9. a jogszerű csapdázási tevékenység során alkalmazott szagtalanítási eljárás kivételével a vad megtévesztésére alkalmas mesterséges szaganyag alkalmazása;
@@ -1098,7 +1098,7 @@ lehet elejteni, illetve elfogni.
 - 22. a jogszabályban foglaltak kivételével a vadászati idényen kívüli – a vadászati hatóság engedélye nélküli – vadelejtés;
 - 23. a vad megtévesztésére alkalmas elektronikus akusztikai eszköz használata;
 - 24.
-- 25. a gímszarvasra, a dámszarvasra, a muflonra, valamint – a 6. pontban meghatározott kivétellel – a vaddisznóra történő vadászat esetében a kétezer ötszáz joule-nál kisebb csőtorkolati energiájú vadászlőszer, őzre történő vadászat esetében az ezer joule-nál kisebb csőtorkolati energiájú vadászlőszer alkalmazása;
+- 25. a gímszarvasra, a dámszarvasra, szikaszarvasra, a muflonra, valamint – a 6. pontban meghatározott kivétellel – a vaddisznóra történő vadászat esetében a kétezer ötszáz joule-nál kisebb csőtorkolati energiájú vadászlőszer, őzre történő vadászat esetében az ezer joule-nál kisebb csőtorkolati energiájú vadászlőszer alkalmazása;
 - 26.
 - 27. a teríték-nyilvántartásra vonatkozó szabályok megsértése.
 
@@ -1121,7 +1121,7 @@ e törvény végrehajtására kiadott rendeletben meghatározott vadfajok fénys
 
 ### Trófeabírálat
 
-73. § (1) A vadászatra jogosult legkésőbb a vadfaj trófeás egyedének vadászati idényét követő harminc napon belül köteles a vadászati hatóságnak trófeabírálat céljából bemutatni a vadászati idényben vadászjeggyel rendelkező vadász által elejtett gímszarvas, dámszarvas, az őz agancsát, valamint a muflon csigáját.
+73. § (1) A vadászatra jogosult legkésőbb a vadfaj trófeás egyedének vadászati idényét követő harminc napon belül köteles a vadászati hatóságnak trófeabírálat céljából bemutatni a vadászati idényben vadászjeggyel rendelkező vadász által elejtett gímszarvas, dámszarvas, szikaszarvas, az őz agancsát, valamint a muflon csigáját.
 
 (2) A vadászatra jogosult köteles a vadászjeggyel rendelkező vadász által elejtett vaddisznó tizenhat centiméternél hosszabb agyarát – legkésőbb az elejtés szerinti vadászati év végét követő hónap utolsó napjáig – a vadászati hatóságnál trófeabírálat céljából bemutatni.
 
@@ -1151,7 +1151,7 @@ e törvény végrehajtására kiadott rendeletben meghatározott vadfajok fénys
 
 74/A. § (1) A trófeabírálatot követő 8 napon belül a vadászati hatóság az elejtés szakszerűtlenségéről határozatban dönt. „Szakszerűtlen” minősítés esetén a trófea nem kaphat érmet. A szakszerűtlen elejtéssel összefüggő közigazgatási hatósági eljárásban a vadászatra jogosult e törvény erejénél fogva ügyfélnek minősül.
 
-(2) Ha a vadászati hatóság megállapítja, hogy a vadászatra jogosult az adott trófeás vadfaj hasznosítása során ismétlődően szakszerűtlen vadgazdálkodási tevékenységet folytat, a szakszerűtlenség mértékétől és az ismétlődés gyakoriságától függően – a vadászati hatóság a trófeás nagyvadállomány minőségi védelme érdekében felhívja a vadászatra jogosult figyelmét a szakszerűség betartására. Ha a vadászatra jogosult a felhívásban foglaltakat nem tartja be, a vadászati hatóság a vadászterületen súlyhatárhoz – muflonkos esetén a csigahosszhoz – kötött trófeás vad hasznosítási korlátozást rendel el, amelynek megszegése esetén vadgazdálkodási bírságot szab ki.
+(2) Ha a vadászati hatóság megállapítja, hogy a vadászatra jogosult az adott trófeás vadfaj hasznosítása során szakszerűtlen vadgazdálkodási tevékenységet folytat, a trófeás nagyvadállomány minőségi védelme érdekében figyelmezteti a vadászatra jogosultat a szakszerűség betartására. Ha a vadászatra jogosult a figyelmeztetésben foglaltakat nem tartja be, a vadászati hatóság a vadászatra jogosultat a trófeás vad hasznosításától eltiltja. A vadászati hatóság a tiltásban foglaltak megszegése esetén vadgazdálkodási bírságot szab ki.
 
 (3) A zárttéri vadtartó létesítményben tartott és elejtett trófeás vad esetében a trófeabírálat adatainak nyilvántartása a szabad területen elejtett trófeás vad adatainak nyilvántartásától elkülönítetten történik. Az adott vadfaj vadászatára létesült vadaskertben elejtett trófeás vad elejtése nem minősíthető szakszerűtlennek.
 
@@ -1302,11 +1302,13 @@ okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási é
 
 ### Általános szabályok
 
-82. § (1) A vadászati hatóság a trófeás nagyvadállomány (őzbak, gímbika, dámbika, muflonkos) minőségi védelme érdekében részben vagy teljes egészében megtilthatja a trófeás vad hasznosítását. A tiltás vonatkozhat a vadfaj összes trófeás egyedére, illetve egyes korosztályai (fiatal, középkorú, idős) elejtésének egy- vagy több éves időtartamra szóló tilalmazására.
+82. § (1) A vadászati hatóság a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szankciókon kívül a hatósági vadászat elrendelése közigazgatási szankciót is alkalmazhatja, ha az elrendelésre a 80. § (4) bekezdésben foglaltak miatt kerül sor.
 
-(2) A trófeás vad korosztályi hasznosítását a vadászati hatóság felső súlyhatárhoz – muflonkos esetén a csigahosszhoz – kötheti, az elejtési súlyhatárt (csigahosszt) meghaladó egyedek elejtését megtilthatja. A korosztályon belüli elejtési súlyhatárt (csigahosszt) a tájegységi vadgazdálkodási tervekben foglaltaknak, valamint a Kormány által határozattal létrehozott területi vadgazdálkodási tanács és a tájegységi fővadász véleményének figyelembevételével a vadászati hatóság az éves vadgazdálkodási tervben állapítja meg.
+(2) A tevékenység végzésétől való eltiltás közigazgatási szankció alatt a trófeás vad hasznosításától való eltiltást is érteni kell.
 
-(3) A 83. és 84. § szerinti, illetve az e törvény szerinti egyéb jogkövetkezmény alkalmazásának nincs helye, ha a jogkövetkezmény alapjául szolgáló ténynek a vadászati hatóság tudomására jutásától számított egy év, vagy a tény bekövetkeztétől számított három év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
+(3) A tevékenység végzésétől történő eltiltás legfeljebb öt vadászati évre rendelhető el.
+
+(4) Figyelmeztetés nem alkalmazható közigazgatási szankcióként a 83. § (1) bekezdésében, valamint a 84. § (1) bekezdésében meghatározott esetekben.
 
 ### A vadgazdálkodási bírság
 
@@ -1326,10 +1328,12 @@ okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási é
 
 (3) A vadgazdálkodási bírság mértéke
 
-- a) az (1) bekezdés a) és i) pontja és az (5) és (6) bekezdés szerinti esetben a cselekmény súlyától és ismétlődésétől függően legalább ötvenezer, legfeljebb egymillió forint,
+- a) az (1) bekezdés a) és i) pontja, a (6) bekezdése, valamint a 74/A. § (4) bekezdése szerinti esetben legalább ötvenezer, legfeljebb egymillió forint,
 - b) az (1) bekezdés b) pontja szerinti esetben a vadgazdálkodási bírság mértéke trófeás vad esetében a trófea értékétől függően egyedenként legalább százezer, legfeljebb ötmillió forint, míg nőivarú egyed és egyéb vadfaj esetében a vad fajától függően egyedenként legalább ötvenezer, legfeljebb egymillió forint,
 - c) az (1) bekezdés c) pontja szerinti esetben trófeánként ötvenezer forint,
-- d) az (1) bekezdés d)–h) pontja szerinti esetekben a cselekmény súlyától függően legalább százezer és legfeljebb ötmillió forint. Ezekben az esetekben a vadgazdálkodási bírság ismételten is kiszabható.
+- d) az (1) bekezdés d)–h) pontja szerinti esetekben legalább százezer és legfeljebb ötmillió forint.
+
+(3a) A (3) bekezdésben meghatározott esetekben a vadgazdálkodási bírság ismételten is kiszabható.
 
 (4) Az (1) bekezdés g) pontja szerint a vadgazdálkodási szabályok megsértésének minősül, ha a vadászatra jogosult:
 
@@ -1339,13 +1343,13 @@ okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási é
 - d) az éves vadgazdálkodási tervtől engedély nélkül eltér;
 - e) a hivatásos vadász alkalmazása során
   - ea) az alkalmazás megszűnését 15 napon belül nem jelenti be a vadászati hatóságnak,
-  - eb) a hivatásos vadász alkalmazására vonatkozó kötelezettségének a vadászati hatóság felhívására nem, vagy nem a törvényben foglalt feltételek szerint tesz eleget;
-- f) az általa vagy hozzájárulásával szervezett vadászaton a 82. § (1) és (2) bekezdésben meghatározott tilalommal érintett egyed elejtésére kerül sor;
+  - eb) a hivatásos vadász alkalmazására vonatkozó kötelezettségének a vadászati hatóság figyelmeztetésére nem, vagy nem a törvényben foglalt feltételek szerint tesz eleget;
+- f) a 74/A. § (2) bekezdésben meghatározott korlátozást megszegi;
 - g) a vadtenyésztési tevékenységet engedély nélkül folytatja, a vadat engedély nélkül vagy az engedélyben foglaltaktól eltérően tart zárt térben, vadat vadászterületek között engedély nélkül szállít vagy vadat vadászterületre engedély nélkül helyez ki.
 
-(5) A 82. § (1) és (2) bekezdése szerinti tilalommal érintett egyed elejtése a vadgazdálkodási szabályok megsértésének minősül és a vadászatra jogosult vadgazdálkodási bírságot köteles fizetni. A vadgazdálkodási bírságot minden tilalommal érintett trófeás vad egyede után ismétlődően kell kiszabni.
+(5)
 
-(6) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni, aki a zárttéri vadtartás szabályait megsérti vagy a vadászterületen vadászati hatósághoz történő bejelentés nélkül létesít a vad mozgását befolyásoló, tartós telepítésű kerítést.
+(6) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni, aki a zárttéri vadtartás szabályait megsérti vagy a vadászterületen vadászati hatósági engedély nélkül létesít a vad mozgását befolyásoló, tartós telepítésű kerítést.
 
 ### A vadvédelmi bírság
 
@@ -1386,7 +1390,7 @@ okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási é
 
 (2) A kizárás szabályait kell alkalmazni a vadászati, az erdészeti, valamint a természetvédelmi hatósági feladatokat ellátó kormánytisztviselővel szemben, aki olyan vadászatra jogosult hatósági ügyében jár el, amelynél akár tagként (érdekeltként), akár vendégvadászként vadászik, továbbá a trófeabírálati eljárásban részt vevő személynél, ha e személy a vadászatra jogosultnál, mint vadász érdekelt, vagy ha a Polgári Törvénykönyv szerinti közeli hozzátartozója által elejtett trófea bírálatát kellene elvégezni.
 
-#### 88. §
+88. § A vadászati hatóság az e törvény szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
 
 89. § (1) A vadászati hatósági feladatokat ellátó személy, illetve a tájegységi fővadász feladatainak ellátása során jogosult:
 

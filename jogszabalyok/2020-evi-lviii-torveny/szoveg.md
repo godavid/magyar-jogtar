@@ -414,7 +414,7 @@ tevékenységet folytat (a továbbiakban: mentesített tevékenységet folytató
 
 #### 18. A Széchenyi Pihenő Kártya formájában – béren kívüli juttatásként – adható összeg emelése és mentesítése a szociális hozzájárulási adó alól
 
-40. § (1) A 2020. évben a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 71. § (1) bekezdésétől eltérően a Széchenyi Pihenő Kártya
+40. § (1) A 2020. évben, valamint 2021. január 1. és 2021. június 30. között a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 71. § (1) bekezdésétől eltérően a Széchenyi Pihenő Kártya
 
 - a) szálláshely alszámlájára utalt támogatás legfeljebb évi 400 ezer forint,
 - b) vendéglátás alszámlájára utalt támogatás legfeljebb évi 265 ezer forint,
@@ -422,7 +422,7 @@ tevékenységet folytat (a továbbiakban: mentesített tevékenységet folytató
 
 összegig minősül béren kívüli juttatásnak.
 
-(2) A 2020. évben az Szja tv. 70. § (8) bekezdésétől eltérően az éves rekreációs keretösszeg
+(2) A 2020. évben, valamint 2021. január 1. és 2021. június 30. között az Szja tv. 70. § (8) bekezdésétől eltérően az éves rekreációs keretösszeg
 
 - a) – ha a munkáltató költségvetési szerv –
   - aa) évi 400 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll,
@@ -433,7 +433,7 @@ tevékenységet folytat (a továbbiakban: mentesített tevékenységet folytató
   - bb) a 800 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn,
   - bc) évi 800 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg.
 
-(3) A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 1. § (4) bekezdés a) pontjától eltérően 2020. április 22-től a 2020. december 31-ig adott juttatások tekintetében nem terheli adókötelezettség a Széchenyi Pihenő Kártya kártyaszámlájára utalt béren kívüli juttatásnak minősülő összeget.
+(3) A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 1. § (4) bekezdés a) pontjától eltérően 2020. április 22-től a 2021. június 30-ig adott juttatások tekintetében nem terheli adókötelezettség a Széchenyi Pihenő Kártya kártyaszámlájára utalt béren kívüli juttatásnak minősülő összeget.
 
 #### 19. A munkáltatót terhelő egészségügyi szolgáltatási járulékfizetési kötelezettség
 
@@ -1396,84 +1396,31 @@ akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak f
 
 169. § Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvénytől eltérően 2020. december 31-éig a növénytermesztési, erdőgazdálkodási, állattenyésztési, halászati, vadászati ágazatba tartozó munkavégzés keretében megvalósuló alkalmi és idénymunka esetén az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 1. § (4) bekezdésében és 2. § 1. pontjában meghatározott éves időtartam legfeljebb száznyolcvan nap, valamint az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 2. § 3. pont b) alpontjában meghatározott havi időtartam legfeljebb húsz naptári nap.
 
-#### 72. A bányászatról szóló 1993. évi XLVIII. törvény és a végrehajtására kiadott kormányrendelet alkalmazásával összefüggő átmeneti szabályok
+#### 72.
 
-170. § A bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) és a végrehajtására kiadott kormányrendeletek az ebben az alcímben foglalt eltérésekkel alkalmazandóak 2020. december 31-ig.
+#### 170. §
 
-171. § (1) Az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló 54/2008. (III. 20.) Korm. rendelet (a továbbiakban: 54/2008. Korm. rendelet)
+#### 171. §
 
-- a) 1. mellékletében foglalt táblázat
-  - aa) D:34 mezője szerinti képlékeny agyag – II.,
-  - ab) D:36 mezője szerinti kőzetliszt, kőzetiszap,
-  - ac) D:41 mezője szerinti homok,
-  - ad) D:43 mezője szerinti homokos kavics,
-  - ae) D:44 mezője szerinti kavicsos homok,
-  - af) D:45 mezője szerinti agyagos törmelék,
-  - ag) D:63 mezője szerinti agyagmárga
+#### 172. §
 
-ásványi nyersanyag alcsoportba tartozó nyersanyagok,
+#### 173. §
 
-- b) 1. mellékletében foglalt táblázat B:42 mezője szerinti kavics ásványi nyersanyag csoportba tartózó nyersanyagok
+#### 174. §
 
-esetében a kutatási tevékenység csak előkutatás keretében végezhető.
+#### 175. §
 
-(2) Az (1) bekezdés a) és b) pontja szerinti nyersanyag (a továbbiakban együtt: építőipari nyers- és alapanyag) esetén az előkutatás bejelentés alapján folytatható.
+#### 176. §
 
-172. § A bányafelügyelet ellenőrzi az előkutatás bejelentés jogszabályban előírt kötelezettségének teljesítését. Ha a bányafelügyelet az ellenőrzése során megállapítja, hogy
+#### 177. §
 
-- a) a bejelentés a jogszabályi előírásoknak nem felel meg,
-- b) a bejelentésköteles tevékenységet bejelentés nélkül ténylegesen folytatják, vagy
-- c) a bejelentés már megállapított bányászati jogot érintene,
+#### 178. §
 
-megtiltja az adott tevékenység folytatását.
+#### 179. §
 
-173. § (1) Építőipari nyers- és alapanyag előkutatása esetén a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet [a továbbiakban: 203/1998. (XII. 19.) Korm. rendelet] 34. § 7. pontjában foglaltaktól eltérően a talaj felszínének megbontását eredményező előkutatási tevékenység is végezhető.
+#### 180. §
 
-(2) Az építőipari nyers- és alapanyag esetében az előkutatási célból történő termőföld-igénybevétel esetén nem kell más célú hasznosítási engedélyt szerezni.
-
-174. § Az építőipari nyers- és alapanyag esetében a Bt. 22. §-ában meghatározott kutatási műszaki üzemi tervnek a 203/1998. (XII. 19.) Korm. rendelet 6/D. §-ában előírt tartalmi követelményeit megfelelően alkalmazni kell azzal, hogy a Bt. 3. § (4) bekezdésében meghatározott bejelentésben az ásványi nyersanyag megnevezése helyett a megkutatni kívánt térrészt kell megjelölni.
-
-175. § Az építőipari nyers- és alapanyag esetében a Bt. 43/B. § (1) bekezdésében meghatározottak mellett a hatósági engedély alapján gyakorolt bányászati jog átruházásához való hozzájárulás iránti eljárásban a bányászati joggal érintett ingatlan tulajdonosa is ügyfélnek minősül.
-
-176. § Az építőipari nyers- és alapanyag hatósági engedély alapján gyakorolt bányászati jog átruházása iránti kérelem esetében a bányafelügyelet a bányászati jog átruházásáról szóló szerződés megküldésével megkeresi a Magyar Állam tulajdonosi jogait gyakorló szervet azzal, hogy a megkeresés kézhezvételétől számított 20 napon belül igényt jelenthet be a bányatelek bányászati jogára. A Magyar Állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén a bányászati jog az igénybejelentőre a 203/1998. (XII. 19.) Korm. rendelet 3. § (2) bekezdés a), c) és d) pontjában, valamint (2a) bekezdés a), b) és d) pontjában előírtak teljesülése esetén átruházható. Az igénybejelentő részére történő bányászati jog átruházásához való hatósági hozzájárulás esetén a bányafelügyelet a bányászati jog átruházására irányuló hozzájárulási kérelmet elutasítja.
-
-177. § (1) A (2) bekezdés szerinti ásványi anyagra vonatkozó bányászati joggal érintett ingatlan tulajdonjogának átruházása esetén a Magyar Államot elővásárlási jog illeti meg. Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a bányafelügyelet megkeresi az ingatlanügyi hatóságot. A Magyar Állam elővásárlási jogát az ingatlan esetében a Magyar Állam tulajdonosi jogkörében eljáró szerv gyakorolja.
-
-(2) Az állami elővásárlási jog szempontjából védettnek minősülő ingatlanokat érintő bányatelkek vonatkozásában bányászható ásványi nyersanyagok: az 54/2008. Korm. rendelet 1. mellékletében meghatározott
-
-- 1. Gránitmurva (kód 1013),
-- 2. Riolit (kód 1110),
-- 3. Pados andezit (kód 1141),
-- 4. Andezit (kód 1142),
-- 5. Bazalt (kód 1150),
-- 6. Riolittufa (tufit) (kód 1211),
-- 7. Kálitufa (kód 1212),
-- 8. Bazalttufa (-tufit) (kód 1240),
-- 9. Agyag (kód 1411–1419),
-- 10. Kőzetliszt, kőzetiszap (kód 1422),
-- 11. Homok (kód 1451–1453),
-- 12. Kavics (kód 1460),
-- 13. Átmeneti törmelékes nyersanyagok (kód 1471–1473),
-- 14. Homokkő-konglomerátum (kód 1481–1485),
-- 15. Durva mészkő/puha mészkő (kód 1520),
-- 16. Tömött, kristályos mészkő (kód 1531–1533),
-- 17. Dolomit (kód 1541–1543),
-- 18. Márga (kód 1561–1564) és
-- 19. Alginit (kód 1620).
-
-178. § Az előkutatást annak megkezdése előtt legalább 30 nappal a bányafelügyelethez kell bejelenteni.
-
-179. § (1) A 203/1998. (XII. 19.) Korm. rendelet 6. § (4) bekezdésében meghatározottakon túl a (2)–(4) bekezdésben foglaltakat is alkalmazni kell a kutatási jogot engedélyező határozattal kapcsolatban.
-
-(2) Az előkutatás elfogadásáról szóló igazolásnak tartalmaznia kell a kutatási területet a sarokpontok koordinátáival, a kutatási terület alap- és fedőlapját.
-
-(3) Az előkutatás nem fogadható el a 203/1998. (XII. 19.) Korm. rendelet 6. § (3) bekezdése szerinti esetekben, valamint ha megkeresés alapján a Magyar Állam tulajdonosi jogait gyakorló szerv a kutatás jogára igényt tart.
-
-(4) Előkutatás bejelentése során az építőipari nyers- és alapanyagok esetén a bányafelügyelet megkeresi a Magyar Állam tulajdonosi jogait gyakorló szervet azzal, hogy a megkeresés kézhezvételétől számított 20 napon belül igényt jelenthet be az előkutatásra. A Magyar Állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén a bányafelügyelet megtiltja az előkutatási tevékenység folytatását.
-
-180. § A 203/1998. (XII. 19.) Korm. rendelet 26. §-ában meghatározottakon túl az építőipari nyers- és alapanyag kitermelésének befejezésekor a bányabezárásra kidolgozott műszaki üzemi terv elbírálása során a bányafelügyelet megkeresi a Magyar Állam tulajdonosi jogait gyakorló szervet azzal, hogy a megkeresés kézhezvételétől számított 20 napon belül igényt jelenthet be a bányatelek bányászati jogára. A Magyar Állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén a bányafelügyelet a Bt. 6. §-a szerint jár el.
-
-181. § Felhatalmazást kap a Kormány, hogy rendeletben a védettnek minősülő ingatlanok esetében az állami elővásárlási jog szabályait megállapítsa.
+#### 181. §
 
 #### 73. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény eltérő alkalmazásával összefüggő átmeneti szabályok
 
@@ -1955,7 +1902,7 @@ történik.
 (5) A veszélyhelyzetre tekintettel felfüggesztett büntetés-végrehajtási bírói eljárásokat a büntetés-végrehajtási bírónak és a másodfokú bíróságnak folytatnia kell azzal, hogy
 
 - a) a Bv. tv. 50. § (1) bekezdés c) és d) pontjában megállapított határidő – a b) pontban meghatározott kivétellel – harminc nappal,
-- b) a kérelemre induló ügyekben előírt elintézési határidő és a Bv. tv. 70/B. § (4) bekezdésében meghatározott határidő kilencven nappal,
+- b) a kérelemre induló ügyekben előírt elintézési határidő kilencven nappal,
 - c) a másodfokú bíróság tekintetében a Bv. tv. 51. § (4) bekezdésében megállapított határidő harminc nappal
 
 meghosszabbodik.
@@ -2553,7 +2500,7 @@ közigazgatási bírsággal sújthatja.
 
 #### 344. §
 
-#### 345. §
+345. § Hatályát veszti a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 28/A. §-a.
 
 #### 98. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
@@ -2685,9 +2632,18 @@ közigazgatási bírsággal sújthatja.
 
 #### 396. §
 
-#### 112.
+#### 112. A büntetőeljárásról szóló törvény és más kapcsolódó törvények módosításáról szóló 2020. évi XLIII. törvény eltérő tartalommal hatályba lépő rendelkezései
 
-#### 397. §
+397. § Nem lép hatályba a büntetőeljárásról szóló törvény és más kapcsolódó törvények módosításáról szóló 2020. évi XLIII. törvény
+
+- a) 147. §-a,
+- b) 148. §-a,
+- c) 152. §-a,
+- d) 182. §-a,
+- e) 210. §-a,
+- f) 229. §-a,
+- g) 271. § 12. pontja,
+- h) 273. § 12. pontja.
 
 ### IV. Fejezet — A HATÓSÁGI ENGEDÉLYEZÉSEK KÖZÖS SZABÁLYAI
 
@@ -2864,7 +2820,7 @@ vonatkozó szabályait.
 
 409. § (1)
 
-(2)
+(2) Hatályát veszti a 72. alcím.
 
 (3)
 

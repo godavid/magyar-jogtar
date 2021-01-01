@@ -140,14 +140,14 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (2) Hivatalos útlevél – a diplomata-útlevél és a hajós szolgálati útlevél kivételével – kizárólag hivatalos utazás céljára használható fel. A tartós külszolgálat időtartama alatt a külügyi szolgálati útlevél magáncélú utazásokra is igénybe vehető.
 
-(3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, továbbá házastársa, gyermeke [12. § (1) bekezdés g) pont] diplomata-útlevele esetében az Országgyűlés Hivatala –, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet végzi.
+(3) A hivatalos útlevél jogosítottja köteles az útlevelét rendeltetésszerűen használni. A hivatalos útlevél rendeltetésszerű használatának ellenőrzését és az útlevél kezelését az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv – az európai parlamenti vagy országgyűlési képviselő, a nemzetiségi szószóló, továbbá házastársa, gyermeke [12. § (1) bekezdés g) pont] diplomata-útlevele esetében az Országgyűlés Hivatala –, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet végzi.
 
 (4)
 
 12. § (1) Diplomata-útlevélre jogosult
 
 - a) a köztársasági elnök, az Alkotmánybíróság elnöke, valamint a Kúria elnöke;
-- b) az országgyűlési képviselő és az Európai Parlament magyarországi képviselője;
+- b) az országgyűlési képviselő, a nemzetiségi szószóló és az Európai Parlament magyarországi képviselője;
 - c) az alapvető jogok biztosa és helyettese, a Kúria elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese, a Nemzeti Média- és Hírközlési Hatóság elnöke és elnökhelyettese, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei;
 - d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár;
 - e) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai vagy konzuli ranggal rendelkező munkatársa, az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium – európai uniós feladatokat ellátó – diplomáciai ranggal rendelkező munkatársa, Magyarország diplomáciai képviselete diplomáciai személyzetének tagja, Magyarország hivatásos konzuli képviselete konzuli tisztviselője, nemzetközi jogon alapuló diplomáciai kiváltságot és mentességet élvező egyéb személy, diplomáciai és konzuli futár;
@@ -192,7 +192,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 16. § (1) Nem utazhat külföldre
 
-- a) aki letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, vagy előzetes kényszergyógykezelés, ideiglenes átadási bűnügyi felügyelet vagy ideiglenes kiadatási bűnügyi felügyelet alatt áll,
+- a) aki letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, vagy előzetes kényszergyógykezelés, ideiglenes átadási bűnügyi felügyelet, kiadatási bűnügyi felügyelet vagy ideiglenes kiadatási bűnügyi felügyelet alatt áll,
 - b) az a személy, aki olyan bűnügyi felügyelet alatt áll, amelynek során a bíróság előírta számára, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el,
 - c) akit végrehajtandó szabadságvesztésre ítéltek, illetve akinek felfüggesztett vagy részben felfüggesztett szabadságvesztése végrehajtását utóbb elrendelték, az ítélet jogerőre emelkedésétől
   - ca) a szabadságvesztés végrehajtásának utolsó napjáig, vagy
@@ -257,7 +257,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (5) Az (1) és (3) bekezdésben megjelölt szervek a kijelölt kormányhivatal részére megküldik a polgár természetes személyazonosító adatait, valamint – a (3) bekezdés esetében – a külföldre utazási korlátozás megszűnésének várható idejét.
 
-17. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, továbbá a katonai szolgálatot teljesítő személy külföldre utazása esetén a rájuk vonatkozó törvények rendelkezéseit is alkalmazni kell.
+17. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, a katonai szolgálatot teljesítő személy, továbbá a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottjának külföldre utazása esetén a rájuk vonatkozó törvények rendelkezéseit is alkalmazni kell.
 
 18. §
 
@@ -554,7 +554,7 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 32. § A hivatalos útlevéllel rendelkező állampolgár személyi adatait és a kiadott útlevél adatait
 
-- a) az Európai Parlament magyarországi képviselője és az országgyűlési képviselő, továbbá a vele hivatalos célból együtt utazó, közös háztartásban élő házastársa, eltartott gyermeke [12. § (1) bekezdés g) pontja] diplomata útlevele tekintetében az Országgyűlés Hivatala,
+- a) az Európai Parlament magyarországi képviselője és az országgyűlési képviselő, a nemzetiségi szószóló továbbá a vele hivatalos célból együtt utazó, közös háztartásban élő házastársa, eltartott gyermeke [12. § (1) bekezdés g) pontja] diplomata útlevele tekintetében az Országgyűlés Hivatala,
 - b) egyéb diplomata útlevél, valamint a külügyi szolgálati útlevél esetén a külpolitikáért felelős miniszter,
 - c) szolgálati útlevél esetében az útlevél kiadására javaslatot tevő szerv, valamint
 - d) hajós szolgálati útlevél esetén a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet

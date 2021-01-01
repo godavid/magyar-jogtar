@@ -14,7 +14,7 @@ Az Országgyűlés a korszerű és hatékony kormányzati igazgatási szervezetr
 
 (2) A Kilencedik Rész hatálya kiterjed a kormányzati igazgatási szervek munkavállalóira és azok munkaviszonyára.
 
-(3) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra, bírósági titkárra, illetve ügyészre, valamit a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározott érintett szervhez beosztott bíróra, bírósági titkárra, ha törvény másként nem rendelkezik, a kormánytisztviselőkre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+(3) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott ügyészre, valamint a kormányzati igazgatási szervhez beosztott bíróra, bírósági titkárra, ha törvény másként nem rendelkezik, a kormánytisztviselőkre vonatkozó rendelkezéseket kell alkalmazni.
 
 (4) E törvény hatálya a 2. §-ban nem szereplő – kormányzati igazgatási szerv irányítása vagy felügyelete alatt álló – szervnél foglalkoztatott személyek kormányzati szolgálati jogviszonyára és munkaviszonyára akkor terjed ki, ha a munkavégzésre irányuló jogviszony az e törvény szerinti álláshelyen jön létre, illetve áll fenn.
 
@@ -22,7 +22,7 @@ Az Országgyűlés a korszerű és hatékony kormányzati igazgatási szervezetr
 
 (5) E törvény rendelkezéseit a Központi Statisztikai Hivatalra a hivatalos statisztikáról szóló törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(6) E törvény hatálya nem terjed ki a Nemzeti Adó- és Vámhivatal személyi állományába tartozó foglalkoztatottak kormányzati szolgálati jogviszonyára és munkaviszonyára.
+(6) E törvény hatálya nem terjed ki a Nemzeti Adó- és Vámhivatal személyi állományába tartozó foglalkoztatottak szolgálati jogviszonyára és munkaviszonyára.
 
 (7) E törvény hatálya nem terjed ki a Bevándorlási és Menekültügyi Hivatal személyi állományába tartozó foglalkoztatottak kormányzati szolgálati jogviszonyára és munkaviszonyára.
 
@@ -395,9 +395,9 @@ helyettesíti.
 
 (1) A minisztériumban az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására helyettes államtitkár működik.
 
-(2) Az (1) bekezdés szerinti helyettes államtitkár hatáskörébe az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatokon kívül más szakmai feladat nem utalható.
+(2) Az (1) bekezdés szerinti helyettes államtitkár hatáskörébe – a Technikai Segítségnyújtás keret felhasználásáért felelős Végrehajtás Operatív Program kivételével – az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatokon kívül más szakmai feladat nem utalható.
 
-(3) Az (1) bekezdés szerinti helyettes államtitkár tevékenységét a minisztérium szervezeti és működési szabályzata szerint a miniszter vagy az államtitkár irányítja. Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok tekintetében az (1) bekezdés szerinti helyettes államtitkár nem utasítható.
+(3) Az (1) bekezdés szerinti helyettes államtitkár tevékenységét a minisztérium szervezeti és működési szabályzata szerint a miniszter, az államtitkár vagy a közigazgatási államtitkár irányítja. Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok tekintetében az (1) bekezdés szerinti helyettes államtitkár nem utasítható.
 
 #### 28. § [A szervezeti egységek]
 
@@ -753,7 +753,7 @@ hozható létre.
 
 (2) A Kormány döntése alapján kormányzati szolgálati jogviszony létrehozható a 2. §-ban nem szereplő szerv számára biztosított álláshelyen is.
 
-(3) Az álláshely betölthető a kormányzati igazgatási szervhez vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), valamint a kormányzati igazgatási szervhez a honvédek jogállásáról szóló törvény szerint vezényelt vagy kirendelt hivatásos vagy szerződéses szolgálati viszonyban (a továbbiakban: katonai szolgálati viszony) álló személlyel is, azzal, hogy ebben az esetben – a hivatásos szolgálati jogviszony és a katonai szolgálati viszony szünetelése esetének kivételével – nem jön létre az (1) bekezdés szerinti jogviszony és a hivatásos szolgálati jogviszony, valamint a katonai szolgálati viszony továbbra is fennáll.
+(3) Az álláshely betölthető a kormányzati igazgatási szervhez vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), valamint a kormányzati igazgatási szervhez a honvédek jogállásáról szóló törvény szerint vezényelt vagy kirendelt hivatásos vagy szerződéses szolgálati viszonyban (a továbbiakban: katonai szolgálati viszony) álló személlyel is, illetve kormányzati igazgatási szervhez kirendelt vagy vezényelt, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személlyel is, azzal, hogy ebben az esetben – a hivatásos szolgálati jogviszony, a katonai szolgálati viszony és az adó- és vámhatósági szolgálati jogviszony szünetelése esetének kivételével – nem jön létre az (1) bekezdés szerinti jogviszony és a hivatásos szolgálati jogviszony, a katonai szolgálati viszony, valamint az adó- és vámhatósági szolgálati jogviszony továbbra is fennáll.
 
 (3a) Ha a (3) bekezdés szerint vezénylés vagy az 1. § (3) bekezdése szerinti beosztás útján szakmai vezetői álláshely betöltésére kerül sor, nem kell alkalmazni a 3. § (6) bekezdés b) pontját.
 
@@ -1329,7 +1329,7 @@ magyar állampolgárral létesíthető és tartható fenn.
 (3) Ha az álláshelyen ellátandó feladatok körébe tizennyolcadik életévét be nem töltött személy nevelése, felügyelete, gondozása vagy gyógykezelése tartozik, a kormányzati szolgálati jogviszony az (1) és (2) bekezdésben meghatározottakon túl nem létesíthető azzal, aki
 
 - a) a 2013. június 30-ig hatályban volt emberölés [az 1978. évi IV. törvény 166. § (2) bekezdés i) pont], öngyilkosságban közreműködés [1978. évi IV. törvény 168. § (2) bekezdés], személyi szabadság megsértése [1978. évi IV. törvény 175. § (3) bekezdés e) pont], emberkereskedelem [1978. évi IV. törvény 175/B. § (2) bekezdés a) pont és (5) bekezdés], családi állás megváltoztatása [1978. évi IV. törvény 193. § (2) bekezdés b) pont], kiskorú veszélyeztetése [1978. évi IV. törvény 195. § (1)–(3) bekezdés], erőszakos közösülés [1978. évi IV. törvény 197. § (2) bekezdés a) pont és (3) bekezdés], szemérem elleni erőszak [1978. évi IV. törvény 198. § (2) bekezdés a) pont és (3) bekezdés], megrontás (1978. évi IV. törvény 201–202/A. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pont], visszaélés kábítószerrel [1978. évi IV. törvény 282/B. § (1) bekezdés, (2) bekezdés a) és c) pont, 282/B. § (5) bekezdés és (7) bekezdés a) pont] miatt büntetőeljárás hatálya alatt áll,
-- b) tiltott toborzás [Btk. 146. § (3) bekezdés], emberölés [Btk. 160. § (2) bekezdés i) pont], öngyilkosságban közreműködés [Btk. 162. § (2) bekezdés], emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés a) pont], kábítószer-kereskedelem [Btk. 177. § (1) bekezdés a) és b) pont], kábítószer birtoklása [Btk. 179. § (1) bekezdés a) pont és (2) bekezdés], kóros szenvedélykeltés (Btk. 181. §), teljesítményfokozó szerrel visszaélés [Btk. 185. § (3) és (5) bekezdés], emberrablás [Btk. 190. § (2) bekezdés a) pont és (3) bekezdés a) pont], emberkereskedelem [Btk. 192. § (4) bekezdés a) pont, (5) és (6) bekezdés], kényszermunka [Btk. 193. § (2) bekezdés c) pont], személyi szabadság megsértése [Btk. 194. § (2) bekezdés a) pont és (3) bekezdés], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont és (4) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés [Btk. 205. § (2) bekezdés], kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), családi jogállás megsértése [Btk. 213. § (2) bekezdés b) pont] miatt büntetőeljárás hatálya alatt áll,
+- b) tiltott toborzás [Btk. 146. § (3) bekezdés], emberölés [Btk. 160. § (2) bekezdés i) pont], öngyilkosságban közreműködés [Btk. 162. § (2) bekezdés], emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés a) pont], kábítószer-kereskedelem [Btk. 177. § (1) bekezdés a) és b) pont], kábítószer birtoklása [Btk. 179. § (1) bekezdés a) pont és (2) bekezdés], kóros szenvedélykeltés (Btk. 181. §), teljesítményfokozó szerrel visszaélés [Btk. 185. § (3) és (5) bekezdés], emberrablás [Btk. 190. § (2) bekezdés a) pont és (3) bekezdés a) pont], emberkereskedelem és kényszermunka [Btk. 192. § (5) bekezdés a) pont és (6) bekezdés a) pont], kényszermunka [az emberkereskedelem áldozatainak kizsákmányolása elleni fellépés érdekében szükséges egyes törvények módosításáról szóló 2020. évi V. törvény hatálybalépéséig hatályban volt Btk. 193. § (2) bekezdés c) pont], személyi szabadság megsértése [Btk. 194. § (2) bekezdés a) pont és (3) bekezdés], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont és (4) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés [Btk. 205. § (2) bekezdés], kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), családi jogállás megsértése [Btk. 213. § (2) bekezdés b) pont] miatt büntetőeljárás hatálya alatt áll,
 - c) a Btk. 52. § (3) bekezdése szerinti foglalkozástól eltiltás hatálya alatt áll, és
 - d) az a) és b) pontban meghatározott bűncselekmények elkövetése miatt kényszergyógykezelés alatt áll.
 
@@ -1699,6 +1699,12 @@ A kormánytisztviselőre vonatkozó hivatásetikai alapelvek különösen az elk
 
 (6) A kötelező képzések részletszabályait a Kormány rendeletben állapítja meg.
 
+#### 97/A. § [Ügyviteli vizsga]
+
+(1) A pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, a kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő a kinevezésétől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. Jogszabály meghatározott iskolai végzettségű kormánytisztviselő részére e vizsga alól részben vagy egészben felmentést adhat.
+
+(2) A munkáltatói jogkör gyakorlója az ügyviteli vizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
+
 #### 98. § [Az elévülés]
 
 (1) A kormányzati szolgálati jogviszonnyal kapcsolatos igény három év alatt évül el.
@@ -1829,7 +1835,7 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 
 (9) Ha a kormánytisztviselő kormányzati szolgálati jogviszonya megszűnését követő 30 napon belül első jogviszonyként újabb kormányzati szolgálati jogviszonyt létesít, kormányzati szolgálati jogviszonyát folyamatosnak kell tekinteni.
 
-(10) Ha a kormányzati szolgálati jogviszonyt létesítő személy a kormányzati szolgálati jogviszony létesítését megelőzően a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, közalkalmazotti, hivatásos szolgálati, katonai szolgálati, honvédelmi alkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyban állt, és e jogviszonyának megszűnését követő 30 napon belül első jogviszonyként kormányzati szolgálati jogviszonyt létesít, jogviszonyát e törvény alkalmazásában folyamatosnak kell tekinteni.
+(10) Ha a kormányzati szolgálati jogviszonyt létesítő személy a kormányzati szolgálati jogviszony létesítését megelőzően a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, közalkalmazotti, adó- és vámhatósági szolgálati, hivatásos szolgálati, katonai szolgálati, honvédelmi alkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyban állt, és e jogviszonyának megszűnését követő 30 napon belül első jogviszonyként kormányzati szolgálati jogviszonyt létesít, jogviszonyát e törvény alkalmazásában folyamatosnak kell tekinteni.
 
 #### 105. § [A kormányzati szolgálati jogviszony megszüntetése]
 
@@ -1843,7 +1849,7 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 
 (2) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonyának megszüntetését követő 30 napon belül első jogviszonyként újabb kormányzati szolgálati jogviszonyt létesít, kormányzati szolgálati jogviszonyát folyamatosnak kell tekinteni.
 
-(3) Ha a kormányzati szolgálati jogviszonyt létesítő személy a kormányzati szolgálati jogviszony létesítését megelőzően a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, közalkalmazotti, hivatásos szolgálati, katonai szolgálati, honvédelmi alkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyban állt, és e jogviszonyának megszüntetését követő 30 napon belül első jogviszonyként kormányzati szolgálati jogviszonyt létesít, jogviszonyát folyamatosnak kell tekinteni.
+(3) Ha a kormányzati szolgálati jogviszonyt létesítő személy a kormányzati szolgálati jogviszony létesítését megelőzően a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati vagy közszolgálati jogviszonyban, közalkalmazotti, adó- és vámhatósági szolgálati, hivatásos szolgálati, katonai szolgálati, honvédelmi alkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyban állt, és e jogviszonyának megszüntetését követő 30 napon belül első jogviszonyként kormányzati szolgálati jogviszonyt létesít, jogviszonyát folyamatosnak kell tekinteni.
 
 #### 106. § [A kormánytisztviselő lemondása]
 
@@ -2006,7 +2012,7 @@ gyakorolhatja.
 (6) A (3) és (4) bekezdés alkalmazása szempontjából kormányzati szolgálati jogviszonyban töltött időnek minősül
 
 - a) a jogelőd foglalkoztatónál – ideértve jogviszonyváltás esetén az átadó munkáltatónál –,
-- b) a költségvetési szervnél kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, hivatásos szolgálati jogviszonyban, szerződéses vagy hivatásos katonai szolgálati viszonyban, honvédelmi alkalmazotti jogviszonyban, illetve a költségvetési szervnél munkaviszonyban,
+- b) a költségvetési szervnél kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, szerződéses vagy hivatásos katonai szolgálati viszonyban, honvédelmi alkalmazotti jogviszonyban, illetve a költségvetési szervnél munkaviszonyban,
 - c) átminősítés esetén a hivatásos szolgálati vagy katonai szolgálati viszonyban,
 - d) a Kttv. szerinti szervnél munkaviszonyban
 
@@ -2089,7 +2095,7 @@ időtartama alatt.
 
 alakul át.
 
-(10) E § rendelkezéseit kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya közszolgálati, hivatásos szolgálati vagy katonai szolgálati jogviszonnyá, honvédelmi alkalmazotti jogviszonnyá, rendvédelmi igazgatási szolgálati jogviszonnyá vagy munkaviszonnyá alakul át.
+(10) E § rendelkezéseit kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya közszolgálati, adó- és vámhatósági szolgálati, hivatásos szolgálati vagy katonai szolgálati jogviszonnyá, honvédelmi alkalmazotti jogviszonnyá, rendvédelmi igazgatási szolgálati jogviszonnyá vagy munkaviszonnyá alakul át.
 
 #### 115. § [Eljárás a jogviszony megszűnése, megszüntetése esetén]
 
@@ -2362,10 +2368,11 @@ megfelelő mértékű szabadidő jár.
 
 - a) a munkaidő-beosztás alapján történő munkavégzési kötelezettség alóli mentesülés időtartama,
 - b) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság első hat hónapja,
-- c) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizetés nélküli szabadság idejének tartama,
-- d) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartama,
-- e) a 93. § (2) bekezdés a), b), h), j) és n) pontjában meghatározott esetek, valamint
-- f) minden olyan munkában nem töltött idő, amelyre a kormánytisztviselő illetményre jogosult.
+- c) a szülési szabadság időtartama alatt,
+- d) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizetés nélküli szabadság idejének tartama,
+- e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartama,
+- f) a 93. § (2) bekezdés a), b), h), j) és n) pontjában meghatározott esetek, valamint
+- g) minden olyan munkában nem töltött idő, amelyre a kormánytisztviselő illetményre jogosult.
 
 (3) A minisztérium kormánytisztviselője az (1) bekezdés szerinti alapszabadságán felül az általa betöltött álláshely besorolásától függően évente:
 
@@ -2675,7 +2682,7 @@ illetménynek megfelelő összeg.
 
 (3) Az elismerésre jogosító idő megállapításánál
 
-- a) az e törvény, a Kttv., a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény és az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, kormányzati szolgálati, közszolgálati, kormánytisztviselői és állami szolgálati jogviszonyban töltött időt,
+- a) az e törvény, a Kttv., a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény, az állami tisztviselőkről szóló törvény és a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, kormányzati szolgálati, közszolgálati, kormánytisztviselői, állami szolgálati és adó- és vámhatósági szolgálati jogviszonyban töltött időt,
 - b) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 - c) a hivatásos szolgálati jogviszony, szerződéses vagy hivatásos katonai szolgálati viszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony időtartamát,
 - d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban töltött időt,
@@ -3539,10 +3546,11 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 - b) elkülönített állami pénzalappal való rendelkezésre jogosult és felhasználásért felelős testület tagja, elkülönített állami pénzalappal összefüggésben elvi, irányító és koordináló döntések meghozataláért felelős testület tagja vagy az elkülönített állami pénzalappal való rendelkezésre jogosult és felhasználásért felelős miniszter vagy testület részére döntés-előkészítő, véleményező tevékenységet végző testület tagja legyen,
 - c) tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet végezzen,
 - d) nevelőszülői foglalkoztatási jogviszonyt létesítsen,
-- e) sportszövetség vagy sportegyesület tisztségviselője legyen, illetve
+- e) sportszövetség vagy sportegyesület tisztségviselője legyen,
 - f) hivatásos szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint szüneteljen.
+- g) adó- és vámhatósági szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerint szüneteljen.
 
-(3) Az (1) bekezdésben foglalt összeférhetetlenségi okokat az országgyűlési képviselői megbízatással nem rendelkező államtitkár vonatkozásában a Magyar Nemzeti Bank felügyelőbizottságának tagjaira, a Nemzeti Vagyongazdálkodási Tanács tagjaira, az Országos Betétbiztosítási Alap igazgatótanácsának tagjaira, a Szanálási Alap igazgatótanácsának tagjaira, a Likviditási Bizottság tagjaira, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének tagjaira, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság igazgatóságának, illetve felügyelőbizottságának tagjaira, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnökére vagy tagjaira nem kell alkalmazni.
+(3) Az (1) bekezdésben foglalt összeférhetetlenségi okokat az országgyűlési képviselői megbízatással nem rendelkező államtitkár vonatkozásában a Magyar Nemzeti Bank felügyelőbizottságának tagjaira, a Nemzeti Vagyongazdálkodási Tanács tagjaira, az Országos Betétbiztosítási Alap igazgatótanácsának tagjaira, a Szanálási Alap igazgatótanácsának tagjaira, a Likviditási Bizottság és a Fenntartható Gazdaságfehéredésért Felelős Bizottság tagjaira, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének tagjaira, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság igazgatóságának, illetve felügyelőbizottságának tagjaira, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnökére vagy tagjaira nem kell alkalmazni.
 
 (3a) Az (1) bekezdésben foglalt összeférhetetlenségi okokat közérdekű vagyonkezelő alapítvány kuratóriumának tagjaira nem kell alkalmazni.
 
@@ -4538,7 +4546,7 @@ illetménynek megfelelő összeg.
 - 15. kormánytisztviselő: a 2. §-ban felsorolt kormányzati igazgatási szervek feladat- és hatáskörében eljáró szakmai felsővezető és szakmai vezető és ügyintéző, aki előkészíti a kormányzati igazgatási szerv feladat- és hatáskörébe tartozó ügyeket érdemi döntésre, illetve – felhatalmazás esetén – a döntést kiadmányozza;
 - 16. közigazgatási szerv: a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szerv és a kormányzati igazgatási szerv;
 - 17. kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a kormánytisztviselőnek jogszabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is;
-- 18. közigazgatási gyakorlat: a közigazgatási szervnél, illetve annak jogelőd szervénél kormánytisztviselői jogviszonyban, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban, állami szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött idő, tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlat;
+- 18. közigazgatási gyakorlat: a közigazgatási szervnél, illetve annak jogelőd szervénél kormánytisztviselői jogviszonyban, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban, állami szolgálati jogviszonyban, adó- ás vámhatósági szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött idő, tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlat;
 - 19. kormányzati igazgatási szervnél képviselettel rendelkező szakszervezet: az a szakszervezet, amelyik alapszabálya szerint a kormányzati igazgatási szervnél képviseletére jogosult szervet működtet, illetve tisztségviselővel rendelkezik;
 - 20. közszolgálati szabályzat:
   - a) a kormányzati igazgatási szerv hivatali szervezetének vezetője által – a jogalkotásról szóló 2010. évi CXXX. törvény alkalmazása szempontjából közjogi szervezetszabályozó eszközként – az e törvényben meghatározott kérdésekben, valamint a hivatali szervezet vezetőjének általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben kiadott normatív utasítás, vagy
@@ -4560,7 +4568,7 @@ illetménynek megfelelő összeg.
   - b) az, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
   - c) a gyám,
   - d) a nevelőszülő és a helyettes szülő;
-- 34. további jogviszony: különösen a közszolgálati jogviszony, a fennálló kormányzati szolgálati jogviszony esetén másik kormányzati szolgálati jogviszony, a munkaviszony, a politikai szolgálati jogviszony, a közalkalmazotti jogviszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony.
+- 34. további jogviszony: különösen a közszolgálati jogviszony, a fennálló kormányzati szolgálati jogviszony esetén másik kormányzati szolgálati jogviszony, az adó- és vámhatósági szolgálati jogviszony, a munkaviszony, a politikai szolgálati jogviszony, a közalkalmazotti jogviszony, a honvédelmi alkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony.
 
 (2)
 
@@ -4658,7 +4666,7 @@ illetménynek megfelelő összeg.
 
 (10) Felhatalmazást kap a kormányhivatal irányítására rendeletben kijelölt miniszter, hogy rendeletben határozza meg a kormányablakok és az okmányirodák működésének személyi és technikai feltételeit.
 
-(11)
+(11) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a pártfogó felügyelői, jogi segítségnyújtó és áldozatsegítő szolgálatként, valamint kárpótlási hatóságként kijelölt szervnél működő pártfogó felügyelő, kormánytisztviselő ügyviteli vizsgájának szabályait rendeletben állapítsa meg.
 
 (12) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 289. § szerinti szabadságmegváltás eljárásrendjét és kifizetésének szabályait.
 

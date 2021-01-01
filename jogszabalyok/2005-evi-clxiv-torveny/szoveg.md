@@ -137,6 +137,8 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 
 5/E. § A jogszabályban meghatározott utazási csomagot tilos a fogyasztó részére részekre bontva értékesíteni.
 
+5/F. § A pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet 1. §-a szerinti kereskedő köteles biztosítani a fogyasztó számára az elektronikus fizetés lehetőségét és annak folyamatos rendelkezésre állását.
+
 ### Az üzletek üzemeltetésének és nyitva tartásának rendje
 
 6. § (1) Az üzlet nyitvatartási idejét a vásárlási szokások, a foglalkoztatottak és a lakókörnyezet érdekeinek figyelembevételével a kereskedő állapítja meg.
@@ -254,6 +256,14 @@ nyilvántartást vezet.
 
 6/H. § A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
+6/I. § (1) A kereskedelmi hatóság a 6/G. § a)–c) pontjában meghatározott nyilvántartásokra vonatkozó nyilvántartási kötelezettségét az Országos Kereskedelmi Nyilvántartási Rendszerbe történő bejegyzéssel vagy az önkormányzati ASP rendszeren keresztül közvetlen adatkapcsolat útján történő adattovábbítással teljesíti.
+
+(2) A 6/G. § a)–c) pontjában meghatározott nyilvántartások a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben és az e törvény felhatalmazása alapján megalkotott kormányrendeletekben meghatározott adatokon túl – természetes személy esetén – tartalmazzák a kereskedő, a fenntartó, illetve az üzemeltető születési nevét, születési helyét és születési idejét, valamint anyja születési nevét.
+
+(3) A 6/G. § a)–c) pontjában meghatározott nyilvántartások adatai – a (2) bekezdésben meghatározott adatok kivételével – nyilvánosak.
+
+(4) Az élelmiszerlánc-felügyeletért felelős miniszter, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal, valamint járási hivatal törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.
+
 ### A jelentős piaci erővel rendelkező vállalkozásokra vonatkozó szabályozás
 
 7. § (1) A beszállítóval szemben a jelentős piaci erővel visszaélni tilos.
@@ -325,20 +335,25 @@ kell érteni.
 
 (3b)
 
-(4) A tevékenységre vonatkozó jogszabályi és hatósági előírások megsértése esetén – a külön jogszabályban foglaltak szerint – a kereskedelmi hatóság
+(4) A tevékenységre vonatkozó jogszabályi előírások megsértése esetén – jogszabályban foglaltak szerint – a kereskedelmi hatóság
 
-- a) elrendeli az üzlet vagy szálláshely ideiglenes bezárását,
-- b) elrendeli az üzlet vagy szálláshely azonnali bezárását,
-- c) ha a kereskedő tevékenysége a külön jogszabályban meghatározott veszélyes mértékű környezeti zajjal jár, az üzlet környezetében, illetve a kereskedelmi tevékenység hatókörében lakók egészséges életkörülményeinek és pihenéshez való jogának biztosítása érdekében
-  - ca) korlátozza 22 óra és 6 óra között a kereskedelmi tevékenységet, illetve az üzlet kötelező éjszakai zárva tartását rendeli el,
-  - cb) korlátozza vagy megtiltja a vendéglátó üzletben a vendégek szórakoztatására nyújtott szolgáltatást, tevékenységet,
-  - cc) korlátozza vagy megtiltja a hirdetés vagy figyelemfelhívás céljára szolgáló hanghatást okozó eszköz használatát,
-- d) megtiltja az engedély nélkül folytatott, előírásokba ütköző tevékenység végzését, termékkör értékesítését,
-- e) ha az adott tevékenység végzése engedélyhez kötött, visszavonja az engedélyt,
-- f) közterületi értékesítés szabályainak megszegése kivételével bírságot szab ki, illetve
-- g) a külön jogszabályban meghatározott egyéb jogkövetkezményt alkalmaz.
+- a) a következő közigazgatási szankciókat alkalmazhatja:
+  - aa) elrendeli az üzlet vagy szálláshely ideiglenes bezárását,
+  - ab) elrendeli az üzlet vagy szálláshely azonnali bezárását,
+  - ac) a közterületi értékesítés szabályainak megszegése kivételével közigazgatási bírságot szab ki,
+  - ad) ha az adott tevékenység végzése engedélyhez kötött, visszavonja az engedélyt,
+- b) a (4a) bekezdésben meghatározott intézkedéseket hozhatja, vagy
+- c) jogszabályban meghatározott egyéb jogkövetkezményeket alkalmazhat.
 
-(5) A kereskedelmi hatóságnak a (4) bekezdés a), valamint c–g) pontjában foglaltak megsértése esetén hozott határozata ellen nincs helye fellebbezésnek.
+(4a) A (4) bekezdésben meghatározott esetben a kereskedelmi hatóság a következő jogkövetkezményeket alkalmazhatja:
+
+- a) ha a kereskedő tevékenysége jogszabályban meghatározott veszélyes mértékű környezeti zajjal jár, az üzlet környezetében, illetve a kereskedelmi tevékenység hatókörében lakók egészséges életkörülményeinek és pihenéshez való jogának biztosítása érdekében
+  - aa) korlátozza 22 óra és 6 óra között a kereskedelmi tevékenységet, illetve a jogsértő állapot megszüntetéséig az üzlet kötelező éjszakai zárvatartását rendeli el,
+  - ab) korlátozza vagy megtiltja a vendéglátó üzletben a vendégek szórakoztatására nyújtott szolgáltatást, tevékenységet,
+  - ac) korlátozza vagy megtiltja a hirdetés vagy figyelemfelhívás céljára szolgáló hanghatást okozó eszköz használatát,
+- b) megtiltja az engedély nélkül folytatott, előírásokba ütköző tevékenység végzését, termékkör értékesítését.
+
+(5) A kereskedelmi hatóságnak a (4) bekezdés a) pont aa), ac) és ad) alpontja, valamint b) és c) pontja alapján hozott határozata ellen nincs helye fellebbezésnek.
 
 9/A. §
 

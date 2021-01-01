@@ -273,8 +273,8 @@ igényelni, továbbá kezelni.
   - aa) a kéményseprő-ipari szolgáltatónál a kéményseprő-ipari tevékenység szakmai, személyi és tárgyi feltételeinek fennállását,
   - ab) a kéményseprő-ipari szolgáltató tevékenységét,
 - b) eljár a kéményseprő-ipari tevékenységre vonatkozó szabályokat megszegő kéményseprő-ipari szolgáltatóval szemben, amely során
-  - ba) a szabálytalanság első alkalommal történő elkövetése esetén figyelmeztetésben részesíti,
-  - bb) ugyanazon szabálytalanság ismételt elkövetése esetén legfeljebb egymillió-ötszázezer forint összegű bírságot szabhat ki,
+  - ba)
+  - bb) legfeljebb egymillió-ötszázezer forint összegű bírságot szabhat ki,
   - bc) a tevékenység végzésétől jogszabályban meghatározott esetekben és időtartamban eltiltja.
 
 (8) A tűzvédelmi hatóság a hatósági eljárásban ellenőrizheti azt is, hogy a kéményseprő-ipari tevékenység ellátásában a kéményseprő-ipari szolgáltatónál közreműködő természetes személy büntetlen előéletű-e és a kéményseprő-ipari tevékenységgel kapcsolatos szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e. A hatósági eljárás céljából a tűzvédelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a kéményseprő-ipari tevékenység ellátásában a kéményseprő-ipari szolgáltatónál személyesen közreműködő személy büntetlen előéletű-e, valamint, hogy a kéményseprő-ipari tevékenységgel kapcsolatos szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.

@@ -30,7 +30,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (3) A Nemzeti Földalap rendeltetése:
 
-- a) működőképes családi gazdaságok kialakításának elősegítése, a szakirányú végzettséggel rendelkező agrárvállalkozók földhözjutásának támogatása;
+- a) működőképes őstermelők családi gazdaságainak kialakításának elősegítése, a szakirányú végzettséggel rendelkező agrárvállalkozók földhözjutásának támogatása;
 - b) a földárak és -haszonbérek alakulásának befolyásolása;
 - c) a föld magánosítása eredményeként létrejött, a hatékony mezőgazdasági hasznosításra alkalmatlan birtokszerkezet vidékfejlesztési célokkal összehangolt javításának támogatása, a gazdálkodás jellegének megfelelő, versenyképes birtokméretek kialakításának elősegítése;
 - d) birtok-összevonási célú, valamint az állattenyésztő telepek működését biztosító földcseréhez szükséges föld biztosítása;
@@ -200,7 +200,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 (3) A földbirtok-politika irányelvei:
 
 - a) a földhasználók helyzetének stabilizálása, fejlődésük elősegítése;
-- b) családi gazdaságok kialakítása és megerősítése;
+- b) őstermelők családi gazdaságainak kialakítása és megerősítése;
 - c) környezetbarát, a fenntartható gazdálkodást szolgáló termelés földhasznosítás oldaláról történő támogatása;
 - d) a mezőgazdasági rendeltetésű földterületek művelésben tartásának elősegítése, a mezőgazdasági termelés összehangolása a természetvédelem, a környezetvédelem, a talajvédelem, a területfejlesztés, a vízgazdálkodás (különösen árterek kialakítása), a vonalas infrastrukturális létesítmények szempontjaival;
 - e) a Nemzeti Erdőtelepítési Programban foglaltak végrehajtásának támogatása;
@@ -232,7 +232,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 - a) több megyére kiterjedő, mikro- és kisvállalkozásokat is magában foglaló, az alapanyag piaci árkockázatát kiegyenlítő mechanizmust is tartalmazó, legalább öt éve működtetett, a teljes termékpályát átfogó integráció keretében abból a célból tenyészt, tart, illetve vásárol fel állatot, hogy azokat részvételével feldolgozzák;
 - b) részt vesz a teljes termékpályát átfogó integráció keretében előállított termékek piacbővítésében, ennek érdekében szorosan együttműködik a termékeit feldolgozó vállalkozással a stratégia meghatározásában, napi üzemszervezésben, logisztikában, minőségpolitikában;
-- c) a nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerinti átlátható szervezetnek minősül;
+- c) a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott átlátható szervezetnek minősül;
 - d) tudományos, kutatás-fejlesztési tevékenységben vesz részt;
 - e) tevékenysége bekapcsolható a közép- és a felsőfokú agrárszakmai oktatás legalább egy szintjébe.
 
@@ -295,7 +295,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
   - ao) agrárkamarai nyilvántartási számát,
   - ap) számlavezető pénzintézetének nevét,
   - aq) bankszámlaszámát,
-  - ar) családi gazdálkodó nyilvántartásba vételéről szóló határozat számát;
+  - ar) őstermelők családi gazdaságának nyilvántartásba vételéről szóló határozat számát;
 - b) gazdálkodó szervezet esetében
   - ba) cégnevét,
   - bb) cégjegyzékszámát, a nem a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény hatálya alá tartozása esetében a gazdálkodó szervezet azonosításához szükséges nyilvántartási számát, a nyilvántartás megnevezésével,
@@ -388,7 +388,7 @@ követő napon.
 
 (3) Központi költségvetési szervvel az azt irányító vagy felügyelő szerv egyetértésével köthető vagyonkezelési szerződés.
 
-(4)
+(4) A (2) bekezdés alkalmazásában 100%-os állami tulajdonban álló gazdálkodó szervezetnek kell tekinteni a Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény 3. § (4) bekezdése szerint tulajdonba adott gazdasági társaságot.
 
 (5) Vagyonkezelési szerződés – az (5a) bekezdésben meghatározott esetek kivételével – határozott időtartamra köthető, amelynek időtartama legalább 5 év, legfeljebb a mező- és erdőgazdasági földek forgalmáról szóló törvényben előírt, a földre vonatkozó haszonbérleti szerződés leghosszabb időtartama lehet.
 

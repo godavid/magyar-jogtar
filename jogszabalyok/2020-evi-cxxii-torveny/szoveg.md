@@ -18,9 +18,11 @@ egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról, valamin
 
 #### 2. Egyes állami tulajdonú ingatlanok Kárpát-medencei Művészeti Népfőiskola Alapítvány részére történő ingyenes tulajdonba adása
 
-5. §
+5. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő, Velence belterület 1381/3 helyrajzi számú, természetben 2481 Velence, Névtelen utca 1381/3 hrsz. (felülvizsgálat alatt) alatt található ingatlan, valamint a Székesfehérvár belterület, 610/9 helyrajzi számú, természetben 8000 Székesfehérvár, Fürst Sándor 610/9 hrsz. (felülvizsgálat alatt) alatt található ingatlan ingyenesen a Kárpát-medencei Művészeti Népfőiskola Alapítvány (a továbbiakban: Alapítvány) tulajdonába kerül az Alapítvány nevelési, oktatási, felsőoktatási feladatai ellátásának elősegítése céljából.
 
-6. §
+(2) Az Alapítvány az érintett ingatlanokat a fennálló terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházások feltétele, hogy az Alapítvány az érintett ingatlanokat terhelő kötelezettségeket a 6. § szerinti szerződésben teljeskörűen átvállalja.
+
+6. § Az 5. § (1) bekezdése szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésben az ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
 
 #### 3. Záró rendelkezések
 

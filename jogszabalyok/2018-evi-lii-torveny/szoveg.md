@@ -34,8 +34,8 @@ Szja tv. szerinti adóalapként meghatározott összegét.
 - c) az osztalék [Szja tv. 66. §], vállalkozói osztalékalap [Szja tv. 49/C. §],
 - d) az árfolyamnyereségből származó jövedelem [Szja tv. 67. §],
 - e) az Szja tv. 1/B. § hatálya alá tartozó természetes személy e tevékenységből származó jövedelme,
-- f) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett jövedelmének 75 százaléka,
-- g) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő bevételének 4 százaléka
+- f)
+- g)
 
 Magyarországon adóztatható része után.
 
@@ -47,7 +47,7 @@ Magyarországon adóztatható része után.
 
 (9) Adóalapot képez az a jövedelem is, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától.
 
-(10) A Tbj. 6. § (1) bekezdés a) pontja szerinti biztosítási jogviszony esetében az adó alapja megegyezik a társadalombiztosítási járulék alapjával.
+(10) A Tbj. 6. § (1) bekezdés a) pontja szerinti biztosítási jogviszony esetében az adó alapja az (1)–(3) bekezdés szerinti jövedelem esetében megegyezik a társadalombiztosítási járulék alapjával (ide nem értve a felszolgálási díjat).
 
 #### 2. Az adó mértéke és fizetendő összege
 
@@ -146,36 +146,27 @@ nem terheli adófizetési kötelezettség.
 
 (5)
 
-(6) A családi gazdaságok nyilvántartásában családi gazdálkodóként bejegyzett azon magánszemély, aki a mezőgazdasági termelő tevékenység tekintetében az egyéni vállalkozói nyilvántartásban szerepel, az adóval kapcsolatos adókötelezettségeket az egyéni vállalkozókra vonatkozó szabályok szerint teljesíti.
+(6) A mezőgazdasági őstermelői nyilvántartásban az őstermelők családi gazdaságának tagjaként bejegyzett azon magánszemély, aki a mezőgazdasági termelő tevékenység tekintetében az egyéni vállalkozói nyilvántartásban szerepel, az adóval kapcsolatos adókötelezettségeket az egyéni vállalkozókra vonatkozó szabályok szerint teljesíti.
 
 (7) A (6) bekezdés szerinti adóalap csökkenti a mezőgazdasági őstermelőként az 1. § (1) és (5) bekezdés f)–g) pont szerint fennálló adókötelezettség alapját.
 
 #### 7. A mezőgazdasági őstermelő által fizetendő adó alapja
 
-7. § (1) A Tbj, 41 § (1) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a tárgyévi összevont adóalapba tartozó jövedelme, de legalább a minimálbér vagy, a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
+7. § (1) A Tbj. 41. § (1) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a tárgyévi összevont adóalapba tartozó, őstermelői tevékenységből származó jövedelme, de havonta legalább a minimálbér vagy, a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege. Az éves minimálbér felét az adóévben el nem érő őstermelői tevékenységből származó bevétellel rendelkező, járulékfizetésre kötelezett mezőgazdasági őstermelő adó fizetésére nem kötelezett, kivéve, ha a Tbj. 41. § (4) bekezdése szerint, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalja, hogy magasabb összeg után fizeti meg a társadalombiztosítási járulékot. Ekkor a mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
 
-(2) A Tbj, 41. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
+(2) Az (1) bekezdéstől eltérően az átalányadózást választó járulékfizetésre kötelezett mezőgazdasági őstermelőt saját maga után havonta terhelő adó alapja a minimálbér, vagy, a Tbj. 41. § (4) bekezdése szerinti, a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege. Az éves minimálbér ötszörösét az adóévben el nem érő őstermelői tevékenységből származó – támogatások nélküli – bevétellel rendelkező, átalányadózást választó járulékfizetésre kötelezett mezőgazdasági őstermelő adó fizetésére nem kötelezett, kivéve ha a Tbj. 41. § (4) bekezdése szerint a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalja, hogy magasabb összeg után fizeti meg a társadalombiztosítási járulékot. Ekkor a mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg adóévre megállapított összege.
 
-(3) A (2) bekezdés szerinti adóalap hiányában a Tbj, 41. § (2) bekezdése szerint járulékfizetésre kötelezett mezőgazdasági kistermelőt a saját maga után évente terhelő adó alapja
+(3) A Tbj. 41. §-a alapján járulékfizetésre nem kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja a tárgyévi összevont adóalapba tartozó őstermelői tevékenységből származó jövedelem, azzal, hogy adó fizetésére nem kötelezett
 
-- a) a tárgyévi összevont adóalapba tartozó jövedelem,
-- b) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett tárgyévi jövedelmének 75 százaléka,
-- c) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő tárgyévi bevételének 4 százaléka,
+- a) az éves minimálbér felét az adóévben el nem érő őstermelői tevékenységből származó – támogatások nélküli – bevétellel rendelkező mezőgazdasági őstermelő,
+- b) az éves minimálbér ötszörösét az adóévben el nem érő őstermelői tevékenységből származó – támogatások nélküli – bevétellel rendelkező, átalányadózást választó mezőgazdasági őstermelő.
 
-csökkentve a tárgyévi Tbj. szerinti járulékalapját képező összeggel.
+(4) Amennyiben az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő e jogállással nem rendelkezik az adóév minden napján, vagy más okból nem minősül az adó alanyának az adóév minden napján, akkor az adó alapja
 
-(4) A Tbj. 41. §-a alapján járulékfizetésre nem kötelezett mezőgazdasági őstermelőt a saját maga után évente terhelő adó alapja
+- a) az (1) bekezdés szerint adófizetésre kötelezett őstermelő esetében az összevont adóalapba tartozó őstermelői tevékenységből származó jövedelme, de legalább az adóalanyiság időtartamának minden napjára számítva a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében havonta vállalt összeg harmincad része,
+- b) a (2) bekezdés szerint adófizetésre kötelezett őstermelő esetében az adóalanyiság időtartamának minden napjára számítva a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében havonta vállalt összeg harmincad része.
 
-- a) a tárgyévi összevont adóalapba tartozó jövedelem,
-- b) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapján szerzett tárgyévi jövedelmének 75 százaléka,
-- c) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő tárgyévi bevételének 4 százaléka.
-
-(5) Az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő e jogállással nem rendelkezik az adóév minden napján, vagy más okból nem minősül az adó alanyának az adóév minden napján, akkor az adó alapja
-
-- a) az (1) bekezdés szerinti őstermelő esetében az őstermelésből származó összevont adóalapba tartozó jövedelme, de legalább az adóalanyiság időtartamának minden napjára számítva a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg harmincad része,
-- b) a (2) bekezdés szerinti kistermelő esetében az adóalanyiság időtartamának minden napjára számítva a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg harmincad része.
-
-(6) Az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő, az őt saját maga után terhelő adó alapjának megállapításkor nem veszi számításba azt a napot, amelyen
+(5) Az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő, az őt saját maga után terhelő adó alapjának megállapításkor nem veszi számításba azt a napot, amelyen
 
 - a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül;
 - b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, gyermekek otthongondozási díja, ápolási díj folyósítása alatt a mezőgazdasági őstermelő e tevékenységét személyesen folytatja;
@@ -183,10 +174,10 @@ csökkentve a tárgyévi Tbj. szerinti járulékalapját képező összeggel.
 - d) önkéntes tartalékos katonaként katonai szolgálatot teljesít;
 - e) fogvatartott.
 
-(7) A (6) bekezdés szerinti esetekben az adó alapja
+(6) Az (5) bekezdés szerinti esetekben az adó alapja
 
-- a) az adóalapot az (1) bekezdés szerint megállapító mezőgazdasági őstermelő esetében az összevont adóalapba tartozó jövedelme, de legalább a minimálbér, vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg,
-- b) az adóalapot a (2) bekezdés szerint megállapító mezőgazdasági őstermelő esetében a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg
+- a) az adóalapot az (1) bekezdés szerint megállapító mezőgazdasági őstermelő esetében az összevont adóalapba tartozó őstermelői tevékenységből származó jövedelme, de legalább a minimálbér, vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg,
+- b) az adóalapot a (2) bekezdés szerint megállapító mezőgazdasági őstermelő esetében a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg
 
 harmincad része azokra a napokra, amelyekre az adófizetési kötelezettség fennáll.
 
@@ -413,7 +404,7 @@ esetén,
 - d) az adó alapjára és összegére vonatkozó adatot,
 - e) a külföldi vállalkozásnak az illetősége szerinti állam hatósága által megállapított adóazonosító számát, ha az adókötelezettséget a kifizető helyett a természetes személy teljesíti.
 
-22. § (1) A 7. § (1)–(2) bekezdés szerinti mezőgazdasági őstermelő a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg alapján – figyelemmel a 7. § (5)–(6) bekezdés rendelkezésére – negyedévente adóelőleget állapít meg, amelyet a negyedévet követő hónap 12-éig fizet meg.
+22. § (1) A 7. § (1)–(2) bekezdés szerinti adófizetésre kötelezett mezőgazdasági őstermelő a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg alapján – figyelemmel a 7. § (5)–(6) bekezdés rendelkezésére – negyedévente adóelőleget állapít meg, amelyet a negyedévet követő hónap 12-éig fizet meg.
 
 (2) A tárgyévre vonatkozóan az állami adó- és vámhatóság közreműködése nélkül elkészített bevallásban vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban kell – a 7. § (1)–(2) bekezdésében foglaltakra figyelemmel – az előlegként megfizetett adót elszámolni, az adóbevallás benyújtásának határidejéig a különbözetet megfizetni, és a bevallás megfelelő rovatában lehet a túlfizetésként mutatkozó különbözet összegéről rendelkezni.
 
@@ -482,25 +473,25 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 - 7. külföldi kifizető: a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel nem rendelkező személy;
 - 8. Külföldi kiküldetés esetén alapbér: az adott munkakörben foglalkoztatott kiküldetését megelőző egy évben a munkavállaló teljesítményétől, ledolgozott munkaidejétől közvetlenül függő, a munkavállaló alapbérén vagy az alkalmazott bérformán alapuló, a munkaszerződés alapján ténylegesen számfejtett és kifizetett munkabér (a statisztikai elszámolások szerinti törzsbér) havi átlagos összege, ennek hiányában a tárgyhavi alapbér;
 - 9. mezőgazdasági őstermelő: az Szja tv. szerint mezőgazdasági őstermelőnek minősülő természetes személy;
-- 10. mezőgazdasági kistermelő: az Szja tv. szerint mezőgazdasági kistermelőnek minősülő természetes személy;
+- 10.
 - 11. minimálbér: az év első napján érvényes kötelező legkisebb munkabér havi összege, kivéve az e törvény egyéni és társas vállalkozókra vonatkozó rendelkezéseiben említett minimálbért, amely a tárgyhónap első napján, a teljes munkaidőre érvényes garantált bérminimum havi összege, ha az egyéni vállalkozó személyesen végzett főtevékenysége vagy a társas vállalkozó főtevékenysége legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igényel, ennek hiányában az év első napján érvényes kötelező legkisebb munkabér havi összege;
 - 12. munkaviszony:
   - a) az Mt-ben meghatározott munkaviszony,
   - b) a közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony,
-  - c) a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony,
+  - c) a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony, az adó- és vámhatósági szolgálati jogviszony,
   - d) a bírósági jogviszony,
   - e) az igazságügyi alkalmazotti szolgálati viszony,
   - f) az ügyészségi szolgálati jogviszony,
   - g) a nevelőszülői foglalkoztatási jogviszony,
   - h) az ösztöndíjas foglalkoztatási jogviszony,
   - i) a közfoglalkoztatási jogviszony,
-  - j) a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának e jogviszonya,
+  - j) a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának e jogviszonya,
   - k) a Magyar Honvédség szerződéses állományú tagjának e jogviszonya,
   - l) a katonai szolgálatot teljesítő önkéntes tartalékos katona e jogviszonya,
   - m) a nemzeti felsőoktatásról szóló törvényben meghatározott hallgatói munkaszerződés alapján létrejött munkaviszony,
   - n)
   - o) az a)–n) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján fennálló jogviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik,
-  - p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségkárosodási járadék folyósításának időtartama, valamint a honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat által megállapított honvédelmi egészségkárosodási járadék folyósításának időtartama;
+  - p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségkárosodási járadék folyósításának, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadék folyósításának időtartama, valamint a honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat által megállapított honvédelmi egészségkárosodási járadék folyósításának időtartama;
 - 13. nevelőszülői foglalkoztatási jogviszony: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony, amely teljes munkaidős foglalkoztatási jogviszonynak minősül;
 - 14. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy;
 - 15. társas vállalkozás: a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői iroda, a szabadalmi ügyvivői társaság, az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég.

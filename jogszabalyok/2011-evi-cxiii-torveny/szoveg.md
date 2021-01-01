@@ -71,7 +71,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - e) aki a vele közös háztartásban élő kiskorú gyermekét egyedül tartja el,
 - f) akit országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőjelöltként, polgármesterjelöltként, alpolgármesterként, főpolgármester-jelöltként, főpolgármester-helyettesként, társadalmi megbízatású polgármesterjelöltként és alpolgármesterként, megyei közgyűlés elnökjelöltjeként, megyei közgyűlés alelnökeként, nemzetiségi önkormányzati képviselőjelöltként nyilvántartásba vettek vagy megválasztottak, a jelöltsége vagy mandátuma, megbízatása fennállásáig,
 - g) aki meghagyásban részesült,
-- h) aki honvédelmi szervezet, az Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek hivatásos, szerződéses vagy önkéntes tartalékos állományú tagja, vagy aki a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban áll,
+- h) aki honvédelmi szervezet, az Országgyűlési Őrség és a rendvédelmi szervek hivatásos, szerződéses vagy önkéntes tartalékos állományú tagja, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja, vagy aki a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban áll,
 - i) akinek közös háztartásban élő házastársa, élettársa katonai szolgálatot teljesít,
 - j) aki a korábban hatályos szabályok szerint a polgári szolgálat időtartamát már teljesítette,
 - k) aki az 50. életévét betöltötte, annak az évnek december 31-ét követően, amelyben ezt az életkort betölti, kivéve az l) pont hatálya alá tartozó hadköteles személyt,
@@ -80,6 +80,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - n) aki szolgálathalasztásban részesült, vagy a szolgálatát félbeszakították, a szolgálathalasztás idejének, illetve a félbeszakítás időtartamának lejártáig,
 - o) aki fegyver nélküli katonai szolgálat iránti kérelmet nyújtott be, annak végleges elbírálásáig,
 - p) aki gondnokolt személy gondnokául ki lett jelölve.
+- q) aki cselekvőképességében részlegesen korlátozott, cselekvőképtelen, részére támogató került kirendelésre vagy ideiglenes gondnokság alatt áll.
 
 5/A. § A behívás előkészítése és tervezése során honvédelmi érdekből a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a katonai szolgálatra történő behívhatóság megállapításához szükséges mértékig kezeli a bűnügyi nyilvántartó szerv által rendelkezésére bocsátott, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvényben meghatározott személyes adatokat.
 
@@ -188,7 +189,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - f) a szakirányú felsőfokú végzettséggel rendelkező, hivatását gyakorló pap, lelkész, rabbi,
 - g) a 65. életévét betöltött férfi és az 55. életévét betöltött nő.
 
-(3) A honvédelmi munkakötelezettség nem terjed ki a Honvédség tényleges állományú tagjaira, honvédelmi szervezet honvédelmi alkalmazottjaira, közalkalmazottjaira, munkavállalóira, a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban állókra, a honvédelemért felelős miniszter fenntartói irányítása alatt álló köznevelési intézmény közalkalmazottjaira, a rendvédelmi szervek hivatásos állományú tagjaira és munkavállalóira, rendvédelmi igazgatási alkalmazottaira, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjaira, valamint az Országgyűlési Őrség hivatásos állományú tagjaira, köztisztviselőire és munkavállalóira.
+(3) A honvédelmi munkakötelezettség nem terjed ki a Honvédség tényleges állományú tagjaira, honvédelmi szervezet honvédelmi alkalmazottjaira, közalkalmazottjaira, munkavállalóira, a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban állókra, a honvédelemért felelős miniszter fenntartói irányítása alatt álló köznevelési intézmény közalkalmazottjaira, a rendvédelmi szervek hivatásos állományú tagjaira és munkavállalóira, rendvédelmi igazgatási alkalmazottaira, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottaira, valamint az Országgyűlési Őrség hivatásos állományú tagjaira, köztisztviselőire és munkavállalóira.
 
 #### 10. A gazdasági és anyagi szolgáltatási kötelezettség
 
@@ -329,6 +330,8 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 - g) közreműködnek a különleges jogrend idején kiadott rendeletek és intézkedések végrehajtásában,
 - h) részt vesznek a polgári felkészültség követelményei alapján meghatározott feladatok ellátásában.
 
+(3a) A honvédelemben közreműködő szerv a honvédelmi feladataira való felkészülés végrehajtása érdekében fogadja – a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett – a honvédelemért felelős miniszter által honvédelmi érdekű szolgálatteljesítés céljából kijelölt honvédelmi összekötőt, és biztosítja számára az adott szervnél azonos vagy hasonló munkakört betöltő foglalkoztatott részére meghatározott munkahelyi elhelyezési feltételeket.
+
 (4) A társadalmi szervezetek, a vallási közösségek és a karitatív szervezetek – önkéntes alapon – a védelmi igazgatás szervei által koordináltan vehetnek részt a honvédelmi feladatok ellátásában.
 
 ### II. Fejezet — A HONVÉDELEM IRÁNYÍTÁSA
@@ -395,6 +398,13 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (4) A Kormány évente köteles a honvédelmi feladatok megvalósításáról, a Honvédség felkészítéséről, állapotáról és fejlesztéséről beszámolni az Országgyűlésnek.
 
+(5) A Kormány évente egyszer jelentést tesz az Országgyűlés honvédelemmel foglalkozó bizottságának és külügyekkel foglalkozó bizottságának
+
+- a) a külföldi fegyveres erők magyarországi jogállását szabályozó nemzetközi szerződések végrehajtásáról és
+- b) a Magyar Honvédség külföldön végrehajtott műveleteiről.
+
+(6) A Kormány elrendelheti a NATO Állandó Védelmi Terveivel kapcsolatos feladatok végrehajtását, és ezzel összefüggésben gyorsított döntéshozatali eljárás bevezetését.
+
 #### 14/A. Honvédelmi veszélyhelyzet
 
 21/A. § (1) A Kormány a honvédelemért felelős miniszter javaslatára
@@ -417,8 +427,8 @@ honvédelmi veszélyhelyzetet hirdethet ki.
 - a) a honvédségi szervezetek készenlétének fokozását,
 - b) a határrendészetért felelős miniszter javaslatára az államhatár ellenőrzésének szigorítását, valamint ebben a honvédségi szervezetek kijelölt állományának részvételét,
 - c) az országvédelem szempontjából kiemelt jelentőségű létesítmények honvédségi – valamint a rendészetért felelős miniszter javaslatára rendőri – erőkkel történő őrzését és a már őrzés alatt álló létesítmények őrzésének fokozását,
-- d) a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) és a honvédségi szervezetek felderítő, elhárító, valamint kibertér műveleti erői tevékenységének fokozását a fenyegetettség Magyarországra történő átterjedésének, illetve magyarországi felerősödésének megakadályozása érdekében, és
-- e) a NATO Állandó Védelmi Terveivel kapcsolatos feladatok végrehajtását, és ezzel összefüggésben gyorsított döntéshozatali eljárás bevezetését.
+- d) a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) és a honvédségi szervezetek felderítő, elhárító, valamint kibertér műveleti erői tevékenységének fokozását a fenyegetettség Magyarországra történő átterjedésének, illetve magyarországi felerősödésének megakadályozása érdekében.
+- e)
 
 #### 15. A honvédelemért felelős miniszter
 
@@ -427,6 +437,8 @@ honvédelmi veszélyhelyzetet hirdethet ki.
 (2) A honvédelemért felelős miniszter ellátja a Kormány által meghatározott honvédelmi ágazati irányítási, és a Honvédség irányításával kapcsolatos feladatokat.
 
 (3) A honvédelemért felelős miniszter – a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett – összehangolja az e törvény szerinti polgári felkészültséggel kapcsolatos feladatok végrehajtását, a honvédelemben részt vevő szervek honvédelmi feladatokra történő felkészítését és felügyeli tevékenységüket.
+
+(3a) A (3) bekezdésben foglalt feladatok végrehajtása érdekében – a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett – a honvédelemért felelős miniszter a honvédelmi szervezet állományának bármely tagját mint honvédelmi összekötőt, a honvédelemben közreműködő szervhez honvédelmi érdekű szolgálatteljesítés céljából szolgálati feladat ellátására vezényelheti, illetve a honvédelmi összekötő szolgálatteljesítési helyét honvédelemben közreműködő szervnél határozhatja meg.
 
 (4) A honvédelemért felelős miniszter – kormányrendeletben meghatározott esetekben – gondoskodik a Honvédség személyi állományának kártalanításáról, amennyiben a jogszerűen okozott vagyoni kár legalább részben a személyi állomány Honvédséggel fennálló foglalkoztatási jogviszonyával függ össze. A kártalanítás módjára és mértékére a kártérítésre vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy az általános kártérítés és a sérelemdíj szabályai nem alkalmazhatóak.
 
@@ -897,7 +909,7 @@ alkotják.
 - f) felhasználás,
 - g) talált robbanótestek tűzszerészeti mentesítése, és egyéb tűzszerészeti feladatok térítés ellenében való végrehajtása,
 - h) a menedékjogról szóló törvény szerinti tömeges bevándorlás okozta válsághelyzet idején közreműködés az államhatár őrzésében, az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedések végrehajtásában, valamint az államhatár rendje ellen irányuló erőszakos cselekmények elhárításában,
-- i) – a hatályos nemzetközi normák betartásával – közreműködik a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, az evakuálás végrehajtásában,
+- i) – a hatályos nemzetközi normák betartásával – közreműködés a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, az evakuálás végrehajtásában,
 - j) honvédelmi veszélyhelyzet idején az államhatár ellenőrzésében való részvétel,
 - k) a Kormány döntése alapján közreműködés különleges jogrend szerinti veszélyhelyzettel (a továbbiakban: veszélyhelyzet) és az egészségügyről szóló törvény szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) kapcsolatos feladatokban.
 
@@ -923,9 +935,11 @@ alkotják.
 
 (2) A 36. § (1) bekezdés h) és k) pontja, valamint a 36. § (2) bekezdés a) pontja szerinti közreműködői feladatukat az abban résztvevő honvédségi szervezetek katonai függelmi rendszerben, saját parancsnokaik vezetésével hajtják végre.
 
-(3) A 36. § (1) bekezdés h) és k) pontja szerinti közreműködői feladat során meg kell határozni az igénybevétel pontos célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét. A 36. § (1) bekezdés h) és k) pontjában és a 36. § (2) bekezdésében meghatározott feladatok teljesítésére alárendelt szervezeteitől legfeljebb 200 fő 21 napi időtartamot meg nem haladó igénybevételéről a Magyar Honvédség parancsnoka, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntéssel egyidejűleg – az Országgyűlés honvédelmi ügyekkel foglalkozó bizottságát tájékoztatja.
+(3) A 36. § (1) bekezdés h) és k) pontja szerinti közreműködői feladat során meg kell határozni az igénybevétel pontos célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét. A 36. § (1) bekezdés h) és k) pontjában és a 36. § (2) bekezdésében meghatározott feladatok teljesítésére alárendelt honvédségi szervezeteitől legfeljebb 200 fő 21 napi időtartamot meg nem haladó igénybevételéről – a (3a) bekezdésben meghatározott kivétellel – a Magyar Honvédség parancsnoka, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntéssel egyidejűleg – az Országgyűlés honvédelemmel foglalkozó bizottságát tájékoztatja.
 
-(3a) A 36. § (1) bekezdés i) pontja szerinti közreműködői feladatról a rendészetért felelős miniszter és a külpolitikáért felelős miniszter kezdeményezésére a Kormány dönt. A 36. § (1) bekezdés i) pontja szerinti közreműködői feladat akkor rendelhető el, ha a közreműködői feladat olyan külföldi helyszínen hajtható végre, amely tekintetében a Honvédség határátlépéssel járó csapatmozgását az erre jogosult engedélyezte, és a terrorizmust elhárító szerv alkalmazása nem elegendő. A 36. § (1) bekezdés i) pontja szerinti közreműködői feladat elrendelése során meg kell határozni az igénybevétel pontos célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét.
+(3a) Ha katasztrófa következtében szükséges élet- és vagyonmentés a védelmi igazgatási szervek, a rendvédelmi szervek vagy az állami mentőszolgálat igénye alapján a katonai erők azonnali közreműködését indokolja, legfeljebb 100 fő igénybevételéről a területileg illetékes honvédségi szervezet parancsnoka saját hatáskörben dönthet, amelyet szolgálati úton haladéktalanul jelent a Magyar Honvédség parancsnokának. Az azonnali igénybevétel mértéke és jellege nem veszélyeztetheti az adott honvédségi szervezet alaprendeltetés szerinti feladatellátásának maradéktalan biztosítását, a készenlét fenntartását, a hadrafoghatóság szintjét, időtartama pedig kizárólag a közvetlen életveszély és a jelentős anyagi kár bekövetkezte közvetlen veszélyének fennállásáig vagy a védekezésben részt vevő társszervek, szervezetek részére történő feladatátadásig tarthat. A Magyar Honvédség parancsnoka a (3) bekezdés szerinti jogkörében dönt az azonnali igénybevétel fenntartásának szükségességéről.
+
+(3b) A 36. § (1) bekezdés i) pontja szerinti közreműködői feladatról a rendészetért felelős miniszter és a külpolitikáért felelős miniszter kezdeményezésére a Kormány dönt. A 36. § (1) bekezdés i) pontja szerinti közreműködői feladat akkor rendelhető el, ha a közreműködői feladat olyan külföldi helyszínen hajtható végre, amely tekintetében a Honvédség határátlépéssel járó csapatmozgását az erre jogosult engedélyezte, és a terrorizmust elhárító szerv alkalmazása nem elegendő. A 36. § (1) bekezdés i) pontja szerinti közreműködői feladat elrendelése során meg kell határozni az igénybevétel pontos célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét.
 
 (4) A Honvédség szállítóeszközei és műszaki munkagépei – a rendszeresített harcjárművek és a fegyverzet kivételével – kérelemre, a Magyar Honvédség parancsnoka engedélyével, megállapodás alapján, térítés ellenében, ideiglenesen átengedhetők.
 
@@ -942,7 +956,7 @@ esetén.
 
 #### 23. A szervezeti felépítés
 
-38. § (1) A Honvédség szervezeti felépítését a Magyar Honvédség Parancsnoksága és az alárendeltségébe tartozó katonai szervezetek összessége képezi.
+38. § (1) A Honvédség szervezeti felépítését a Magyar Honvédség Parancsnoksága és az alárendeltségébe tartozó valamennyi honvédségi szervezet összessége képezi.
 
 (2) A Honvédség szervezeteit a béke és békétől eltérő működési rendnek megfelelően úgy kell kialakítani, hogy azok képesek legyenek a Honvédség egésze, és annak egyes elemei tekintetében a meghatározott feladatok végrehajtására. A Honvédség szervezeti felépítésének meg kell felelnie a rendeltetés szerinti szervezeti hierarchia, haditechnikai eszközökkel és hadfelszereléssel való ellátás, hadrafoghatóság, létszám, állományarányok, beosztási, rendfokozati kategóriák, szabályozott működés, vezetés elveinek és követelményeinek.
 
@@ -1066,7 +1080,7 @@ teljesített férfi tartozik.
 
 42/A. § A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, a nemzeti vagyonról szóló törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő ingatlanon vagy más állami vagyonnak minősülő ingatlanon Magyarországnak az Észak-atlanti Szerződés Szervezetében való tagságából eredő szövetségesi kötelezettségének teljesítésével összefüggésben szövetséges fegyveres erő, nemzetközi szervezet vagy nemzetközi katonai parancsnokság javára szolgalom, vezetékjog, használati jog, valamint osztott tulajdon létesíthető.
 
-### VII. Fejezet — A HONVÉDSÉG IRÁNYÍTÁSA ÉS VEZETÉSE
+### VII. Fejezet — A HONVÉDELMI SZERVEZET IRÁNYÍTÁSA ÉS VEZETÉSE
 
 42/B. § (1) A honvédelemért felelős miniszter által vezetett minisztérium védelmi igazgatásért felelős szerve határozatban, az állam javára az országvédelmi és a szövetségesi kötelezettségek hatékony ellátása érdekében közérdekű használati jogot alapíthat az olyan ingatlanra,
 
@@ -1137,9 +1151,9 @@ illeti meg.
 
 (4) Külföldi katonai szolgálat esetén – a jogi személyiséggel rendelkező ideiglenes katonai szervezet kivételével – rangidős nemzeti képviselőt kell kijelölni az egy helyen tartózkodó katonák közül, aki a jogszabályban nevesített egyes jogkörökben gyakorolja az állományilletékes parancsnokot megillető jogköröket.
 
-#### 29. A Honvédség irányítása és felső szintű vezetése
+#### 29. A honvédelmi szervezet irányítása és felső szintű vezetése
 
-45. § (1) A honvédelemért felelős miniszter a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdése szerint irányítja a Honvédséget. A honvédelemért felelős miniszter egyes irányítási hatásköreinek a gyakorlására kormányrendelet a honvédelemért felelős miniszter által vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, (5) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelölheti ki.
+45. § (1) A honvédelemért felelős miniszter a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdése szerint irányítja a honvédelmi szervezetet. A honvédelemért felelős miniszter egyes irányítási hatásköreinek a gyakorlására kormányrendelet a honvédelemért felelős miniszter által vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, (5) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelölheti ki.
 
 (1a) A honvédelemért felelős miniszter egyes katonai szervezetek vagy azok speciális feladatokat ellátó szervezeti egységei esetében, a katonai szervezetek alapító okiratában meghatározottak szerint
 
@@ -1151,14 +1165,14 @@ illeti meg.
 
 az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, (5) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelöli ki.
 
-(2) A honvédelemért felelős miniszter a Honvédség törvényes működése érdekében gondoskodik a jogszabálysértések megszüntetéséről. E körben
+(2) A honvédelemért felelős miniszter a honvédelmi szervezet törvényes működése érdekében gondoskodik a jogszabálysértések megszüntetéséről. E körben
 
 - a) rendszeresen ellenőrzi a jogszabályok betartását,
 - b) jogszabálysértő gyakorlat észlelése esetén törvényes eljárásra utasítja a jogszabálysértőt,
 - c) megsemmisíti, vagy megváltoztatja a jogszabálysértő intézkedést és szakutasítást (a továbbiakban együtt: belső rendelkezés),
 - d) megsemmisíti, vagy megváltoztatja az egyedi ügyben hozott jogszabálysértő döntéseket.
 
-(3) A (2) bekezdés c) pontja szerinti megsemmisítés vagy megváltoztatás a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában való közzététel napján lép hatályba, ha az intézkedést a Honvéd Vezérkar főnöke, Magyar Honvédség parancsnoka vagy a Honvéd Vezérkarhoz, a Magyar Honvédség Parancsnokságához tartozó elöljáró adta ki. Egyéb intézkedés esetén a hatálybalépés időpontja az intézkedés kiadója részére való kézbesítés napja. Különösen fontos érdekből, ha ez a jogbiztonságot nem sérti, a megsemmisítés vagy megváltoztatás hatálybalépésének időpontja ettől eltérően is meghatározható.
+(3) A (2) bekezdés c) pontja szerinti megsemmisítés vagy megváltoztatás a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában való közzététel napján lép hatályba, ha a belső rendelkezést a Honvéd Vezérkar főnöke, a Magyar Honvédség parancsnoka vagy a Honvéd Vezérkarhoz, a Magyar Honvédség Parancsnokságához tartozó elöljáró, a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezet vezetője vagy a KNBSZ főigazgatója adta ki. Egyéb belső rendelkezés esetén a hatálybalépés időpontja a belső rendelkezés kiadója részére történő kézbesítés napja. Különösen fontos érdekből, ha ez a jogbiztonságot nem sérti, a megsemmisítés vagy megváltoztatás hatálybalépésének időpontja ettől eltérően is meghatározható.
 
 (4) A (2) bekezdés d) pontja szerinti döntés nem változtatható és nem semmisíthető meg, ha
 
@@ -1174,7 +1188,7 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 (6) Az (5) bekezdés alapján való megsemmisítésnek a döntés meghozatalától, vagy véglegessé válásától számított három éven belül lehet helye.
 
-46. § (1) A honvédelemért felelős miniszter által vezetett minisztérium az ország katonai védelemre való felkészítésének tervezéséért, szervezéséért, valamint a Honvédség irányításáért felelős központi államigazgatási szerv.
+46. § (1) A honvédelemért felelős miniszter által vezetett minisztérium az ország katonai védelemre való felkészítésének tervezéséért, szervezéséért, valamint a – honvédelemért felelős miniszter által vezetett minisztérium kivételével – a honvédelmi szervezet irányításáért felelős központi államigazgatási szerv.
 
 (1a) A honvédelemért felelős miniszter által vezetett minisztériumban honvédelmi államtitkár működik. A honvédelmi államtitkárnak katonai szolgálati viszonyban töltött legalább 20 év tényleges szolgálati idővel rendelkező – az egyéb törvényi feltételeknek megfelelő – személy nevezhető ki.
 
@@ -1208,7 +1222,7 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 48. § (1) A katonai szervezet élén a parancsnok, vezető (a továbbiakban együtt: parancsnok) áll, aki a jogszabályok és az elöljárók által meghatározott keretek között vezeti a katonai szervezetet. A parancsnok szolgálati hatásköre kiterjed az általa vezetett katonai szervezet működésének minden területére. A parancsnok a katonai szervezet szolgálati viszonyban álló állományának szolgálati elöljárója, a más jogviszonyban álló állományának felettese. A parancsnokot az arra hatáskörrel rendelkező elöljáró nevezi ki.
 
-(2) A parancsnok teljes felelősséggel tartozik a katonai szervezet hadrafoghatóságáért, a személyi állomány felkészítéséért és kiképzéséért, a működés biztosításáért, az állomány fegyelméért, a neki alárendelt katonai szervezet eredményes tevékenységéért, gazdálkodásáért az elöljárók parancsainak végrehajtásáért és a törvényesség betartásáért.
+(2) A parancsnok teljes felelősséggel tartozik a katonai szervezet hadrafoghatóságáért, a személyi állomány felkészítéséért és kiképzéséért, a működés biztosításáért, az állomány fegyelméért, a neki alárendelt katonai szervezet eredményes tevékenységéért, gazdálkodásáért, az elöljárók parancsainak végrehajtásáért és a törvényesség betartásáért.
 
 (3) A vezetés folyamatossága érdekében a parancsnokot távolléte esetén a szervezetszerű helyettes, annak hiánya vagy távolléte esetén az arra kijelölt személy helyettesíti.
 
@@ -1270,13 +1284,15 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 (5) Magyarország honvédelmi érdekeinek védelme és biztosítása, a kapcsolódó szövetségesi kötelezettségek teljesítése, valamint az országvédelem kibertér műveleti erőkkel történő fenntartása és fokozása érdekében a Honvédség és a KNBSZ kibertér műveleti erői közvetlenül együttműködnek egymással. A kibertér műveleti képességek fejlesztését, valamint a kapcsolódó tervezési, biztonsági és szabályozási feladatokat a Honvédség a KNBSZ egyetértésével, a KNBSZ-től kapott információk felhasználásával és a KNBSZ szakmai támogatásával látja el.
 
-#### 35. Az őrzés-védelem
+#### 35. Az őrzés-védelem és az objektumbiztonság
 
-54. § (1) A katonai szervezetek objektumait, létesítményeit, szállítmányait, javait fontosságuknak megfelelően őrizni, személyi állományát pedig védelmezni kell. A Honvédség által védendő, kijelölt létesítményeket a Honvédség kormányrendeletben meghatározottak szerint őrzi. Az őrzés katonai erővel, fegyveres biztonsági őrséggel, technikai rendszer telepítésével, őrkutyákkal, és ezek kombinált alkalmazásával biztosítható.
+54. § (1) A honvédelmi szervezetek objektumait, létesítményeit, szállítmányait, javait fontosságuknak megfelelően őrizni, személyi állományát pedig védelmezni kell. A Honvédség által védendő, kijelölt létesítményeket a Honvédség kormányrendeletben meghatározottak szerint őrzi. Az őrzés katonai erővel, fegyveres biztonsági őrséggel, technikai rendszer telepítésével, őrkutyákkal, és ezek kombinált alkalmazásával biztosítható.
 
 (2) Az őrzés-védelmet szervezetszerű feladatként ellátó egységeket, valamint az eseti intézkedéssel vezényelt őröket őrzés-védelmi feladataik ellátására fel kell készíteni. Ennek keretében biztosítani kell a szükséges ismeretek készségszintű elsajátítását. Az őrzés-védelemre való felkészülést és a szolgálatteljesítést rendszeresen ellenőrizni kell.
 
 (3) A katonai őrség őrzés-védelmi feladatainak ellátásához biztosítani kell a szükséges állományt, fegyverzetet, technikai feltételeket, védőeszközöket, valamint a megfelelő szolgálati körülményeket.
+
+(4) A honvédelmi szervezet működésére szolgáló objektum objektumparancsnoka elrendelheti, hogy az objektum területére történő beléptetést, illetve az onnan történő kiléptetést végző őrzés-védelmi, ügyeleti szolgálati feladatot ellátó katona, fegyveres biztonsági őr az ellenőrzött területre történő belépést vagy az onnan történő kilépést megelőzően köteles legyen felhívni a be-, illetve kilépni szándékozó személyt a ruházata, valamint a magával hozott tárgyak, táskák, csomagok és a be-, illetve kilépéshez igénybe vett gépjármű bemutatására. Ha ennek az érintett nem tesz eleget, az ellenőrzött területre történő belépését a beléptetést végző szolgálati személy megtilthatja. Az őrzés-védelmi, ügyeleti szolgálati feladatot ellátó katona, fegyveres biztonsági őr csak a vele azonos nemű be- és kilépő személy ruházatát vizsgálhatja át. Az intézkedés nem történhet szeméremsértő módon.
 
 #### 35/A. A katonai rendészet
 
@@ -1324,7 +1340,7 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 54/D. § (1) A 36. § (1) bekezdés h) pontja szerinti feladatra vezényelt katona – e törvény rendelkezéseitől eltérően –
 
-- a) a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 29–32. §-ában, 33. § (1) bekezdés a) és f) pontjában, 33. § (2) bekezdés a)–b) és f) pontjában, 35–36. §-ában, 37. § a) és e) pontjában, továbbá 42–43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
+- a) a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 29–32. §-ában, 33. § (1) bekezdés a) és f) pontjában, 33. § (2) bekezdés a), b) és f) pontjában, 35–35/B. §-ában, 37. § a) és e) pontjában, továbbá 42. és 43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
 - b) a jogszabályban meghatározott feladatának ellátása során a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti.
 
 (2) Ha a katona az (1) bekezdés szerinti rendőri intézkedés végrehajtásában közreműködik, eljárására az Rtv.-ben meghatározott szabályok az irányadóak. A katona intézkedésének a jogszerűségét az e törvényben meghatározottak szerint kell vizsgálni.
@@ -1339,7 +1355,7 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 54/E. § (1) A 36. § (1) bekezdés k) pontja szerinti feladatra vezényelt katona – e törvény rendelkezéseitől eltérően –
 
-- a) az Rtv. 29–32. §-ában, 33. §-ában, 35. §-ában, 36. §-ában, 37. § a) és e) pontjában, 39. §-ában, továbbá 42–43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
+- a) az Rtv. 29–33. §-ában, 35–35/B. §-ában, 37. § a) és e) pontjában, továbbá 42. és 43. §-ában meghatározottak szerint jogosult intézkedni, illetve kényszerítő eszközt alkalmazni, valamint
 - b) a jogszabályban meghatározott feladatának ellátása során a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti.
 
 (2) A katona intézkedésének a jogszerűségét az e törvényben meghatározottak szerint kell vizsgálni. A katona az (1) bekezdés szerinti intézkedéseket a szükségesség és arányosság követelménye betartásával alkalmazhatja.
@@ -1608,7 +1624,7 @@ a Kormány erre vonatkozó döntése alapján van lehetőség.
 
 65. § (1) A hadkötelezettségen alapuló katonai szolgálat időtartama megelőző védelmi helyzet idején legfeljebb 12 hónap. Rendkívüli állapot idején az időtartam a katonai szükséghez igazodóan állapítható meg. A fegyveres katonai szolgálatot teljesítő a 40. § (3) bekezdésében szereplő esküt teszi le a szolgálatteljesítés első napján.
 
-(2) A Honvédség tényleges katonai, honvédelmi alkalmazotti és a rendvédelmi szervek hivatásos állományú tagjainak szolgálati viszonyára vonatkozó szabályok rendeletben – a békeidőszakban irányadó szabályoktól eltérően – állapíthatók meg. Rendelet alapján:
+(2) A Honvédség tényleges katonai, honvédelmi alkalmazotti és a rendvédelmi szervek hivatásos állományú tagjainak szolgálati viszonyára, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottainak adó- és vámhatósági szolgálati jogviszonyára vonatkozó szabályok rendeletben – a békeidőszakban irányadó szabályoktól eltérően – állapíthatók meg. Rendelet alapján:
 
 - a) szünetel a Honvédség hivatásos állományába történő felvétel, továbbá a hivatásos szolgálati viszony lemondással nem szüntethető meg,
 - b) a szolgálati idő kezdete és vége a megelőző védelmi helyzethez, terrorveszélyhelyzethez, rendkívüli állapothoz vagy szükségállapothoz igazodóan szabályozható,
@@ -1868,6 +1884,7 @@ rendelheti el.
 - 10. honvédelem helyi igazgatási szerve: a helyi védelmi bizottság,
 - 11. honvédelem területi igazgatási szerve: a megyei, fővárosi védelmi bizottság, valamint a katonai igazgatás területi szerve,
 - 12. honvédelmi igazgatás: a védelmi igazgatás részét képező feladat- és szervezetrendszer, amelynek keretében az ország védelmére létrehozott, valamint e feladatra kijelölt közigazgatási szervek, továbbá a honvédelemben közreműködő más szervek ellátják az 1. § (3) bekezdésében meghatározottak honvédelemre való felkészítésével, az országvédelemmel és a honvédelmi kötelezettségek teljesítésével kapcsolatos feladatokat,
+- 12a. honvédelmi összekötő: a honvédelemben közreműködő szerv honvédelmi felkészülési és védekezési szakmai feladatait támogató, e feladat ellátására a honvédelemért felelős miniszter által – a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett – kijelölt, a honvédelemért felelő miniszter által az e törvény végrehajtására kiadott rendeletben meghatározott végzettséggel rendelkező személy,
 - 13. honvédelmi szervezet: a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó szervezet, a Honvédség, valamint a KNBSZ,
 - 14. honvédségi szervezet: a Magyar Honvédség Parancsnoksága, valamint alárendeltségébe tartozó katonai szervezetek,
 - 15. honvéd: rendfokozatára tekintet nélkül a Honvédség tényleges állományú tagja,
@@ -1901,7 +1918,7 @@ rendelheti el.
 - 24. NATO Válságreagálási Rendszer: a NATO szervezetének döntéshozatali és végrehajtási rendszere, amelyet a NATO a különböző válságkezelési és – szükség esetén – kollektív védelmi, valamint terrorizmus elleni feladatok előkészítése érdekében alkalmaz,
 - 25. NATO Állandó Védelmi Tervek: az Észak-atlanti Tanács által előzetesen jóváhagyott műveleti tervek, melyek végrehajtásáról a tagállamok a gyorsított döntéshozatali eljárásrend alapján hoznak döntést,
 - 26. ország területéről induló külföldi alkalmazás: külföldi fegyveres erők olyan alkalmazása, amelynek indítása az ország területéről befogadó nemzeti támogatás mellett, nem az átvonulás technikai részcselekményeként történik,
-- 27. potenciális hadköteles: a békeidőszakban nyilvántartott, kiképzett tartalékos állományba nem tartozó hadköteles,
+- 27. potenciális hadköteles: hadkötelezettség fennállásán kívüli időszakban a hadköteles, aki nem tartozik a kiképzett tartalékos állományba,
 - 28. polgári felkészültség: a honvédelemben közreműködő szervek honvédelmi feladatai ellátása körében végrehajtott, külön meghatározott követelmények teljesítése érdekében végzett tevékenysége, melynek célja a kormányzat folyamatos működésének biztosítása, és a katonai műveletek polgári képességekkel történő támogatása békeidőszakban, különleges jogrend idején, valamint a válságkezelés katonai feladatai végrehajtása időszakában,
 - 29. szövetséges fegyveres erők: a kölcsönös katonai segítségnyújtás kötelezettségét tartalmazó hatályos nemzetközi szerződés vagy az Európai Unió szerződései szerint a Magyarországgal szövetséges államok fegyveres erői, valamint az e nemzetközi szerződések alapján, az Észak-atlanti Szerződés Szervezete, az Európai Unió által vagy jóváhagyásával létrehozott közös katonai szervezetek,
 - 30. szövetségi légtér: több szövetséges állam légterét békében is átfedő, védelmi célú, légtér-szuverenitási felségjog-érvényesítési terület,
@@ -1912,7 +1929,7 @@ rendelheti el.
 
 81. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a honvédelemért felelős miniszternek a honvédelem ágazati irányításával, valamint a Honvédség irányításával kapcsolatos feladtait,
+- a) a honvédelemért felelős miniszternek a honvédelem ágazati irányításával, valamint a Honvédség irányításával kapcsolatos feladatait,
 - b) a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedési rendszer rendeltetését, feladatait, eljárási rendjét, a közreműködők kötelezettségeit, továbbá a NATO Állandó Védelmi Terveivel kapcsolatos feladatok végrehajtásának rendjét, és az ezekkel összefüggő gyorsított nemzeti döntéshozatali eljárást.
 - c) légitámadás esetére a légiriasztási rendszer szabályait,
 - d) az autonóm államigazgatási szervek és az önálló szabályozó szervek kivételével a központi államigazgatási szervek honvédelmi tevékenységét, az azzal kapcsolatos irányítási és vezetési rendet, valamint honvédelmi igazgatási feladat- és hatáskörét,

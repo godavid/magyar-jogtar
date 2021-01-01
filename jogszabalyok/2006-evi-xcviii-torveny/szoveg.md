@@ -345,7 +345,7 @@ látja el.
 (2) Ha az ismertetési tevékenységet folytató, az ismertető személy, a gyógyszer forgalombahozatali engedélyének jogosultja, illetve a gyógyászati segédeszköz gyártója, a gyógyszer, gyógyászati segédeszköz rendelésére és forgalmazására jogosult személy vagy ezek valamelyikének meghatalmazott képviselője e törvény és a rendelet gyógyszer- vagy gyógyászatisegédeszköz-ismertetésre vonatkozó előírásait megsértette, a gyógyszerészeti államigazgatási szerv
 
 - a) etikai eljárást kezdeményezhet a szakmailag illetékes etikai szervnél, ha ennek feltételei fennállnak,
-- b) a jogsértést elkövetőt határidővel felhívhatja a hiányosságok megszüntetésére és ennek megszüntetéséig a tevékenység folytatását felfüggesztheti,
+- b) a jogsértést elkövetőt figyelmeztetést tartalmazó döntésében, megfelelő határidő megállapításával felhívhatja a hiányosságok megszüntetésére és ennek megszüntetéséig a tevékenység folytatását felfüggesztheti,
 - c) megállapítja a jogsértés tényét, elrendelheti a jogsértő állapot megszüntetését és egyben megtiltja a jogsértő magatartás további folytatását,
 - d) pénzbírságot szabhat ki, melynek mértéke
   - da) a forgalmazásra jogosult esetén ötszázezer forinttól huszonötmillió forint,
@@ -359,7 +359,7 @@ látja el.
   - ba) a jogsértést elkövető, társadalombiztosítási támogatással történő kiszolgálásra jogosító szerződéssel rendelkező szolgáltató szerződésének az Ebtv. szerinti felfüggesztését,
   - bb) a társadalombiztosítási támogatással történő rendelésre jogosult jogsértése esetén a rendelési jogosultságának legfeljebb egy hónapra történő felfüggesztését.
 
-(3) A pénzbírság összegét, illetve az alkalmazott jogkövetkezményt az eset összes körülményeire – így különösen a betegek és a gyógyszerek és a gyógyászati segédeszközök rendelésére és forgalmazására jogosultak érdeksérelmének körére, súlyára, a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a betegellátási érdekre – tekintettel kell meghatározni. Ismételt jogszabálysértés esetén a bírság halmozottan is kiszabható.
+(3) A pénzbírság összegét, illetve az alkalmazott jogkövetkezményt az eset összes körülményeire – így különösen a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény (a továbbiakban: Szankció tv.) 10. § (1) bekezdése szerinti körülményekre, valamint a betegek és a gyógyszerek és a gyógyászati segédeszközök rendelésére és forgalmazására jogosultak érdeksérelmének körére, súlyára, illetve a betegellátási érdekre – tekintettel kell meghatározni. Ismételt jogszabálysértés esetén a bírság halmozottan is kiszabható. A Szankció tv. 10. § (1) bekezdés g) pontja szerinti körülmény e törvény alkalmazásában a jogsértést elkövető javára kizárólag abban az esetben vehető figyelembe, ha az elkövetett jogsértés a betegek biztonságát vagy az ellátási érdeket nem érintette.
 
 (4)
 
@@ -1365,9 +1365,13 @@ az egészségügyi államigazgatási szerv – erre irányuló kérelem esetén 
 
 (4a) A település gyógyszerellátását egyedül biztosító gyógyszertár, továbbá a jogszabályon alapuló munkaszüneti napok miatti változtatással összefüggésben bármely gyógyszertár működtetője a gyógyszertár szolgálati rendjétől a nyitvatartási idő tekintetében naptári évente legfeljebb 10 napon térhet el. Az e bekezdés szerinti szolgálati rendtől történő eltérést előzetesen két munkanappal, illetve az előre nem tervezhető eltérés esetén az arra okot adó körülményről való tudomásszerzést követően haladéktalanul, de legkésőbb a szolgálati rend szerinti következő munkanapon be kell jelenteni az egészségügyi államigazgatási szervnek.
 
-(5) Az egészségügyi államigazgatási szerv határidő tűzésével felfüggeszti a gyógyszertár működését, ha a gyógyszertár ellenőrzése során megállapítja, hogy egyes személyi, tárgyi feltételek átmenetileg hiányoznak. Ha a gyógyszertár működtetője az előírt határidőn belül a hiányt nem pótolta az egészségügyi államigazgatási szerv a működési engedélyt a létesítési engedéllyel egyidejűleg visszavonja.
+(5) Ha az egészségügyi államigazgatási szerv a gyógyszertár ellenőrzése során megállapítja, hogy egyes személyi, tárgyi feltételek átmenetileg hiányoznak, a figyelmeztetést tartalmazó döntésében felhívhatja a gyógyszertár működtetőjét a hiányosságok pótlására.
 
-(6) Ha a gyógyszertár áthelyezése, átépítése vagy vis maior helyzet következtében a gyógyszertár működtetése átmenetileg ellehetetlenül, a működtető írásbeli kérelme alapján az egészségügyi államigazgatási szerv a gyógyszertár működtetésének felfüggesztését engedélyezi legfeljebb 1 év időtartamra. A gyógyszertár működési engedélye a létesítési engedéllyel egyidejűleg visszavonásra kerül, ha a felfüggesztő döntésben megjelölt 1 éves határidőn belül a működtető a gyógyszertár működésének megkezdését nem jelenti be.
+(5a) Ha az (5) bekezdésben foglaltaknak nincs helye – így különösen akkor, ha a személyi és tárgyi feltételek hiánya a betegek biztonságát, illetve ellátási érdeket közvetlenül sért vagy veszélyeztet –, az egészségügyi és gyógyszerészeti igazgatási hatáskörben eljáró egészségügyi államigazgatási szerv a gyógyszertár működését legfeljebb a hiányosságok megszüntetésére megadott határidőre felfüggeszti.
+
+(5b) Ha a gyógyszertár működtetője az előírt határidőn belül a hiányt nem pótolta az egészségügyi és gyógyszerészeti igazgatási hatáskörben eljáró egészségügyi államigazgatási szerv a működési engedélyt a létesítési engedéllyel egyidejűleg visszavonja.
+
+(6) Ha a gyógyszertár áthelyezése, átépítése vagy vis maior helyzet következtében a gyógyszertár működtetése átmenetileg ellehetetlenül, a működtető írásbeli kérelme alapján az egészségügyi államigazgatási szerv a gyógyszertár működtetésének felfüggesztését engedélyezi legfeljebb 1 év időtartamra. A felfüggesztés kezdőnapját az egészségügyi államigazgatási szerv kérelemre visszamenőleges hatállyal, legkorábban a bejelentés napjával állapítja meg. A gyógyszertár működési engedélye a létesítési engedéllyel egyidejűleg visszavonásra kerül, ha a felfüggesztő döntésben megjelölt 1 éves határidőn belül a működtető a gyógyszertár a működését nem kezdi meg.
 
 53/B. § (1) A közforgalmú gyógyszertár működtetője kérelmére az egészségügyi államigazgatási szerv – a (2a) bekezdésben foglalt kivétellel – akkor engedélyezi a közforgalmú gyógyszertár áthelyezését,
 
@@ -1713,7 +1717,9 @@ tevékenységet folytatott, és e tevékenység megszűnésétől három év mé
 
 (5) Az egészségügyi államigazgatási szerv bírságot szabhat ki azzal szemben, aki a jogsértést elkövette. A bírság többszörös jogsértés esetén halmozottan is kiszabható.
 
-(6) A bírság összegét az eset összes körülményeire – így különösen a fogyasztók érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására – tekintettel kell meghatározni azzal, hogy a bírság legalacsonyabb összege százezer forint, legmagasabb összege a jogsértést elkövető vállalkozásnál az előző naptári évben a jogsértés tárgyát képező terméket tekintve elért nettó hazai árbevétel 1%-a lehet.
+(6) A bírság legalacsonyabb összege százezer forint, legmagasabb összege a jogsértést elkövető vállalkozásnál az előző naptári évben a jogsértés tárgyát képező terméket tekintve elért nettó hazai árbevétel 1%-a lehet.
+
+(7) A (3) bekezdés d) pontja szerinti eltiltás kilencven napnál hosszabb időre nem szólhat.
 
 ### Vegyes rendelkezések
 
@@ -1834,7 +1840,12 @@ fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a d
 
 79. § Az e törvényben meghatározott engedélyezési és ellenőrzési eljárásokban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
-80–82. §
+80. § A gyógyszerészeti államigazgatási szerv e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban foglalt hatáskörében nem alkalmazható közigazgatási szankció, ha
+
+- a) a jogsértő magatartásnak a szankció alkalmazására jogosult hatóság tudomására jutásától számított 2 év eltelt, vagy
+- b) az elkövetéstől számított öt év eltelt.
+
+81–82. §
 
 ### Átmeneti és záró rendelkezések
 

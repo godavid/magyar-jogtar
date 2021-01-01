@@ -42,6 +42,10 @@ terjed ki.
 
 (6) Az Mt. 41. §-ának, 56. § (1) bekezdésének, 94. § (3) és (4) bekezdésének, 103. § (3) bekezdésének, 135. § (1)–(3) bekezdésének, 209. §-ának, 222. §-ának, 272. § (1) bekezdésének, XXII. Fejezetének, 285. §-ának, 289. §-ának, 290. §-ának, 291. §-ának és 295. §-ának kollektív szerződésre vonatkozó rendelkezése nem alkalmazhatóak.
 
+#### 1/A. Értelmező rendelkezések
+
+4/A. § E törvény alkalmazásában közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó, a mostoha- és a nevelő szülő, valamint a testvér.
+
 #### 2. A honvédelmi alkalmazotti jogviszony alanyai
 
 5. § A honvédelmi alkalmazotti jogviszony a honvédelmi szervezet és az annak feladatkörébe tartozó közszolgáltatások ellátásában történő közreműködést vállaló honvédelmi alkalmazott közötti közszolgálati jogviszony.
@@ -96,7 +100,7 @@ személlyel létesíthető.
 
 - a) azzal, aki
   - aa) a 2013. június 30-ig hatályban volt emberölés [1978. évi IV. törvény 166. § (2) bekezdés i) pont], öngyilkosságban való közreműködés [1978. évi IV. törvény 168. § (2) bekezdés], személyi szabadság megsértése [1978. évi IV. törvény 175. § (3) bekezdés e) pont], emberkereskedelem [1978. évi IV. törvény 175/B. § (2) bekezdés a) pont és (5) bekezdés], családi állás megváltoztatása [1978. évi IV. törvény 193. § (2) bekezdés b) pont], kiskorú veszélyeztetése [1978. évi IV. törvény 195. § (1)–(3) bekezdés], erőszakos közösülés [1978. évi IV. törvény 197. § (2) bekezdés a) pont és (3) bekezdés], szemérem elleni erőszak [1978. évi IV. törvény 198. § (2) bekezdés a) pont és (3) bekezdés], megrontás (1978. évi IV. törvény 201–202/A. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pont], visszaélés kábítószerrel [1978. évi IV. törvény 282/B. § (1) bekezdés, (2) bekezdés a) és c) pont, 282/B. § (5) bekezdés és (7) bekezdés a) pont],
-  - ab) tiltott toborzás [Btk. 146. § (3) bekezdés], emberölés [Btk. 160. § (2) bekezdés i) pont], öngyilkosságban közreműködés [Btk. 162. § (2) bekezdés], emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés a) pont], kábítószer-kereskedelem [Btk. 177. § (1) bekezdés a) és b) pont], kábítószer birtoklása [Btk. 179. § (1) bekezdés a) pont és (2) bekezdés], kóros szenvedélykeltés (Btk. 181. §), teljesítményfokozó szerrel visszaélés [Btk. 185. § (3) és (5) bekezdés], emberrablás [Btk. 190. § (2) bekezdés a) pont és (3) bekezdés a) pont], emberkereskedelem [Btk. 192. § (4) bekezdés a) pont, (5) és (6) bekezdés], kényszermunka [Btk. 193. § (2) bekezdés c) pont], személyi szabadság megsértése [Btk. 194. § (2) bekezdés a) pont és (3) bekezdés], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont és (4) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés [Btk. 205. § (2) bekezdés], kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), családi jogállás megsértése [Btk. 213. § (2) bekezdés b) pont]
+  - ab) tiltott toborzás [Btk. 146. § (3) bekezdés], emberölés [Btk. 160. § (2) bekezdés i) pont], öngyilkosságban közreműködés [Btk. 162. § (2) bekezdés], emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés a) pont], kábítószer-kereskedelem [Btk. 177. § (1) bekezdés a) és b) pont], kábítószer birtoklása [Btk. 179. § (1) bekezdés a) pont és (2) bekezdés], kóros szenvedélykeltés (Btk. 181. §), teljesítményfokozó szerrel visszaélés [Btk. 185. § (3) és (5) bekezdés], emberrablás [Btk. 190. § (2) bekezdés a) pont és (3) bekezdés a) pont], emberkereskedelem és kényszermunka [Btk. 192. § (5) bekezdés a) pont és (6) bekezdés a) pont], kényszermunka [az emberkereskedelem áldozatainak kizsákmányolása elleni fellépés érdekében szükséges egyes törvények módosításáról szóló 2020. évi V. törvény hatálybalépéséig hatályban volt Btk. 193. § (2) bekezdés c) pont], személyi szabadság megsértése [Btk. 194. § (2) bekezdés a) pont és (3) bekezdés], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont és (4) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés [Btk. 205. § (2) bekezdés], kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), családi jogállás megsértése [Btk. 213. § (2) bekezdés b) pont]
 
 miatt büntetőeljárás hatálya alatt áll,
 
@@ -123,6 +127,15 @@ miatt büntetőeljárás hatálya alatt áll,
 azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
 (7) A (4)–(6) bekezdésben foglaltak alapján megismert személyes adatokat a honvédelmi szervezet a honvédelmi alkalmazotti jogviszony létesítéséről meghozott döntés időpontjáig vagy – honvédelmi alkalmazotti jogviszony létesítése esetén – a honvédelmi alkalmazotti jogviszony megszűnéséig (megszüntetéséig) kezeli.
+
+(8) Jogszabály alapján nemzetbiztonsági ellenőrzés alá eső honvédelmi alkalmazotti jogviszony nem létesíthető azzal, akinek a nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg, kivéve, ha az arra feljogosított személy, szerv a jogviszony létesítését jóváhagyta.
+
+(9) Ha a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonya fennállása alatt válik nemzetbiztonsági ellenőrzés alá eső személlyé, és
+
+- a) a nemzetbiztonsági ellenőrzéséhez nem járul hozzá vagy
+- b) nemzetbiztonsági ellenőrzése során nemzetbiztonsági kockázatot állapítottak meg és a jogviszony fenntartását a jogszabály szerint arra feljogosított személy, szerv nem hagyta jóvá, vagy a munkáltatói jogkör gyakorlója mérlegelése alapján részére más – nemzetbiztonsági ellenőrzés alá nem eső – munkakör nem ajánlható fel,
+
+a honvédelmi alkalmazotti jogviszonyt azonnali hatállyal meg kell szüntetni.
 
 13. § (1) Ha a munkáltatói jogkört gyakorló döntése alapján a megüresedett vagy a megüresedő munkakör betöltése pályázati eljárással történik, a munkakör csak olyan személlyel tölthető be, aki a pályázaton részt vett, és a pályázati feltételeknek megfelelt. Ha a munkakör betöltése honvédelmi alkalmazotti jogviszony létesítésével jár, a munkáltatói jogkört gyakorló a pályázat nyertesével honvédelmi alkalmazotti jogviszonyt létesít.
 
@@ -249,38 +262,41 @@ eredmény adható.
 
 (10) A vezetői pótlék (7)–(9) bekezdés szerinti megtérítésén túlmenően a honvédelmi szervezet a honvédelmi alkalmazott felmerült kárát is köteles megtéríteni.
 
-19. § (1) A teljes munkaidőben foglalkoztatott honvédelmi alkalmazott írásbeli kérelmére a honvédelmi szervezet köteles a kinevezésben heti húszórás részmunkaidőt kikötni, ha a honvédelmi alkalmazott a kérelem benyújtásakor az Mt. 128. §-ában foglalt fizetés nélküli szabadságot vesz igénybe.
+19. § (1) A teljes munkaidőben foglalkoztatott honvédelmi alkalmazott írásbeli kérelmére a munkáltatói jogkört gyakorló köteles a kinevezésben heti húszórás részmunkaidőt kikötni, ha a honvédelmi alkalmazott a kérelem benyújtásakor az Mt. 128. §-ában foglalt fizetés nélküli szabadságot vesz igénybe (a továbbiakban: kötelező részmunkaidős foglalkoztatás).
 
-(2) A honvédelmi szervezet a honvédelmi alkalmazottnak a munkaidő egyenlőtlen beosztására vonatkozó kérelmét csak abban az esetben tagadhatja meg, ha az számára lényegesen nagyobb munkaszervezési terhet jelentene. A honvédelmi szervezet köteles írásban megindokolni a kérelem megtagadását.
-
-(3) A részmunkaidő kikötése
-
-- a) a fizetés nélküli szabadság megszűnését követő naptól,
-- b) – ha a honvédelmi alkalmazott betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül ki kell adni rendes szabadságát – a szabadság leteltét követő naptól
-
-hatályos.
-
-(4) A (3) bekezdés b) pontjában foglaltak alkalmazása esetén – a felek eltérő megállapodása hiányában – a rendes szabadság kiadását a fizetés nélküli szabadság lejártát követő első munkanapon meg kell kezdeni. Eltérő megállapodás esetén a rendes szabadság kiadását a fizetés nélküli szabadság lejártát követő harminc napon belül meg kell kezdeni.
-
-(5) A kérelmet az (1) bekezdés szerinti fizetés nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a honvédelmi szervezettel közölni. A kérelemben a honvédelmi alkalmazott köteles tájékoztatni a honvédelmi szervezetet
+(2) Az (1) bekezdés szerinti kérelmet a fizetés nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatói jogkört gyakorlóval közölni. A kérelemben a honvédelmi alkalmazott köteles tájékoztatni a munkáltatói jogkört gyakorlót
 
 - a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve betöltésének időpontjáról, továbbá
 - b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztásra vonatkozó javaslatáról.
 
-(6) A (3) bekezdés szerinti időponttól a honvédelmi alkalmazotti jogviszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a munkaidő mértékével összefügg.
+(3) A (2) bekezdés b) pontja szerinti esetben az egyenlőtlen munkaidő-beosztást a munkáltatói jogkört gyakorló csak abban az esetben tagadhatja meg, ha az a honvédelmi szervezet számára lényegesen nagyobb munkaszervezési terhet jelentene. A munkáltatói jogkört gyakorló köteles írásban megindokolni a kérelem megtagadását.
 
-(7) Az (1) bekezdés szerinti kérelem alapján kikötött részmunkaidőben a honvédelmi szervezet a honvédelmi alkalmazottat
+(4) Kötelező részmunkaidős foglalkoztatás esetén – az 59. § (2) bekezdésétől eltérően – az elmaradt rendes szabadságot a fizetés nélküli szabadság lejártát követő első munkanappal kezdődően, megszakítás nélkül ki kell adni.
 
-- a) a kérelem szerinti időpontig, de
-- b) legfeljebb a gyermek hároméves, fogyatékos gyermek esetén tizennégy éves koráig, három vagy több gyermeket nevelő honvédelmi alkalmazott esetén a gyermek ötéves, fogyatékos gyermek esetén tizennyolc éves koráig
+(5) A kötelező részmunkaidős foglalkoztatás
 
-köteles foglalkoztatni. Ezt követően a honvédelmi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
+- a) a fizetés nélküli szabadság megszűnését követő naptól,
+- b) elmaradt rendes szabadság esetén annak (4) bekezdés szerinti kiadását követő naptól
 
-(8) Az (1)–(7) bekezdés nem alkalmazható a magasabb vezetői és vezetői megbízású honvédelmi alkalmazott tekintetében.
+hatályos.
 
-(9)
+(6) Az (5) bekezdés szerinti időponttól a honvédelmi alkalmazotti jogviszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatásra e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a munkaidő mértékével összefügg.
 
-20. § (1) Ha a honvédelmi alkalmazott munkaköre ellátása mellett a honvédelmi szervezet rendelkezése alapján átmenetileg más munkakörébe tartozó feladatokat is ellát, és ezáltal jelentős többletmunkát végez, illetményén felül a végzett munkával arányos külön díjazás (helyettesítési díj) is megilleti.
+(7) A kötelező részmunkaidős foglalkoztatás a honvédelmi alkalmazott kérelme szerinti időpontig, de legfeljebb a gyermek négyéves – fogyatékos gyermek esetén tizennégy éves – koráig, három vagy több gyermeket nevelő honvédelmi alkalmazott esetén a gyermek hatéves – fogyatékos gyermek esetén tizennyolc éves – koráig tart. Ezt követően a honvédelmi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
+
+(8) A (7) bekezdés alkalmazásában fogyatékos gyermek a 18. életévét be nem töltött, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § a) pontja szerinti fogyatékos személy.
+
+(9) Az (1)–(8) bekezdés nem alkalmazható a magasabb vezetői és vezetői megbízású honvédelmi alkalmazottra.
+
+19/A. § (1) A munkaidő-beosztás szabályait a munkáltatói jogkört gyakorló határozza meg, amelynek során mérlegeli a honvédelmi szervezet zavartalan működését, a honvédelmi szervezet alapfeladatának, valamint a munkaköri leírásban rögzített feladatoknak a jellegét, ezen belül különösen a szükséges fizikai vagy szellemi erőkifejtést vagy fokozott figyelmet, a pihenés és a pihentetés lehetőségét, továbbá az egészséges és a biztonságos munkavégzés követelményét.
+
+(2) Munkaidőkeret alkalmazása esetén a munkaidőkeret tartama, ha ezt objektív, műszaki vagy munkaszervezéssel kapcsolatos okok indokolják, a felek megállapodása alapján legfeljebb harminchat hónap lehet.
+
+(3) A (2) bekezdés szerinti megállapodás esetén a beosztás szerinti heti munkaidő tartamát tizenkét hónapon belül átlagban kell figyelembe venni.
+
+(4) A miniszter rendeletben határozza meg azokat a honvédelmi szervezeteket, amelyek az Mt. munkaidő beosztásra vonatkozó rendelkezéseinek alkalmazása során rendeltetésük folytán vasárnap és munkaszüneti napon is működő munkáltatónak minősülnek.
+
+20. § (1) Ha a honvédelmi alkalmazott munkaköre ellátása mellett a honvédelmi szervezet rendelkezése alapján átmenetileg más munkakörébe tartozó feladatokat is ellát, és ezáltal jelentős többletmunkát végez, illetményén felül miniszteri rendeletben meghatározott külön díjazás (helyettesítési díj) is megilleti.
 
 (2) A honvédelmi alkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony alanyairól, a munkaviszony létesítéséről és a munkaszerződés módosításáról szóló rendelkezései (V., VII. és IX. fejezet) közül a 32–35. §, a 42–43. §, a 44/A. §, a 45. § (1) bekezdése, a 45. § (5) bekezdése, a 46. § (4) bekezdése, az 50. § és a 62. § nem alkalmazható.
 
@@ -321,7 +337,8 @@ változásáról a honvédelmi alkalmazottat a változást követő tizenöt nap
   - ba) a közszolgálati tisztviselőkről szóló törvény,
   - bb) a közalkalmazottak jogállásáról szóló törvény,
   - bc) a hivatásos és szerződéses katonák szolgálati viszonyát, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyát szabályozó jogszabályok,
-  - bd) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó munkáltatók között,
+  - bd) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény
+  - be) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálya alá tartozó munkáltatók között,
 - c) lemondással,
 - d) rendkívüli lemondással,
 - e) felmentéssel,
@@ -337,6 +354,8 @@ változásáról a honvédelmi alkalmazottat a változást követő tizenöt nap
 
 - a) a honvédelmi alkalmazott a 12. § (5) bekezdésében foglalt kötelezettségének a felhívástól számított tizenöt munkanapon belül nem tesz eleget és nem igazolja, hogy a kötelezettség elmulasztása menthető ok következménye,
 - b) a 12. § (1) bekezdés a) pontjában, (2) és (3) bekezdésében meghatározott feltételnek való megfelelést a honvédelmi alkalmazott a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal nem tudja igazolni.
+
+(3a) A honvédelmi szervezet köteles a honvédelmi alkalmazotti jogviszonyt az Mt. 29. § (1) bekezdése alapján azonnali hatállyal megszüntetni a 12. § (9) bekezdése szerinti esetben.
 
 (4) A honvédelmi alkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.
 
@@ -552,6 +571,8 @@ meghosszabbodik.
 
 (3) A honvédelmi szervezet legalább a felmentési idő felére köteles a honvédelmi alkalmazottat mentesíteni a munkavégzés alól. A munkavégzés alól a honvédelmi alkalmazottat – a mentesítési idő legalább felének megfelelő időtartamban – a kérelmének megfelelő időben és részletekben kell felmenteni.
 
+(4) Nem illeti meg felmentési idő a honvédelmi alkalmazottat, ha a felmentésére a 12. § (9) bekezdése alapján került sor.
+
 39. § A honvédelmi alkalmazott a munkavégzési kötelezettség alóli mentesítés idejére járó távolléti díjra havonta jogosult.
 
 40. § (1) A honvédelmi szervezet a honvédelmi alkalmazotti jogviszonyt rendkívüli felmentéssel megszüntetheti, ha a honvédelmi alkalmazott
@@ -590,7 +611,7 @@ meghosszabbodik.
 (2) Nem jogosult végkielégítésre a honvédelmi alkalmazott, ha felmentésére – az egészségügyi okot kivéve – tartós alkalmatlansága vagy nem megfelelő munkavégzése miatt került sor. Nem jár továbbá végkielégítés a honvédelmi alkalmazottnak, ha
 
 - a) legkésőbb a honvédelmi alkalmazotti jogviszony megszűnésének időpontjában nyugdíjasnak minősül [Mt. 294. § (1) bekezdés g) pont],
-- b) felmentésére a 30. § (7) bekezdése alapján kerül sor,
+- b) felmentésére a 12. § (9) bekezdése vagy 30. § (7) bekezdése alapján kerül sor,
 - c) honvédelmi alkalmazotti jogviszonya a 22. § (7) bekezdése vagy a 25. § (9) bekezdése szerint alakult át.
 
 (3) Ha a honvédelmi alkalmazottal ugyanazon honvédelmi szervezet legalább két alkalommal határozott időre szóló honvédelmi alkalmazotti jogviszonyt létesít, és a korábbi honvédelmi alkalmazotti jogviszony megszűnése, valamint az újabb honvédelmi alkalmazotti jogviszony létesítésének időpontja között hat hónapnál hosszabb idő nem telt el, a honvédelmi alkalmazott végkielégítésre jogosult, feltéve, hogy honvédelmi alkalmazotti jogviszonya a 27. § (2) bekezdés szerinti eljárásban, a 30. § (1) bekezdés a) pont vagy b) pontjában foglalt okok alapján kerül megszüntetésre, vagy a 21. § (1) bekezdés a) pontja szerint szűnik meg. Kettőnél több határozott idejű honvédelmi alkalmazotti jogviszony esetén a hat hónapnál hosszabb megszakítás előtt fennállt jogviszonyok időtartamát nem lehet figyelembe venni. A végkielégítésre való jogosultság megállapításakor a (6) bekezdést kell alkalmazni azzal, hogy az e bekezdés szerinti jogcímen megszűnt vagy megszüntetett határozott idejű jogviszonyok időtartamát kell összeszámítani. Ha az első mondatban szereplő okokra alapított megszüntetés vagy megszűnés alapján a honvédelmi alkalmazott végkielégítésre vált jogosulttá, az azonos felek közötti újabb határozott idejű kinevezés esetén a végkielégítésre való jogosultság megállapításakor figyelmen kívül kell hagyni azon honvédelmi alkalmazotti jogviszonyok időtartamát, amelyekre tekintettel a korábbi végkielégítés kifizetése megtörtént.
@@ -731,11 +752,18 @@ minősíteni kell.
 
 (4) A honvédelmi alkalmazottak tekintetében miniszteri rendelet a honvédelmi feladatok ellátásával összefüggésben, az Mt. 143. és 144. §-a szerinti pótlék helyett napi átalány illetménypótlékot is megállapíthat.
 
-(5) Az Mt. 55. § (1) bekezdése szerinti eseteken túl a honvédelmi alkalmazott a honvédelmi szervezet engedélye alapján is mentesülhet a munkavégzési kötelezettség teljesítése alól. A mentesítés miatt kiesett munkaidő az Mt. 115. § (2) bekezdése alkalmazásában munkában töltött időnek minősül, és ezen időtartamra a honvédelmi alkalmazott az Mt. 146. § (2) bekezdésétől eltérően távolléti díjra jogosult.
+(5) Az Mt. 55. § (1) bekezdésében foglaltakon túl mentesül a honvédelmi alkalmazott a rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól
 
-(5a) Ha a honvédelmi alkalmazott az Mt. 55. § (1) bekezdés j) pontja szerint mentesül a rendelkezésre állási és munkavégzési kötelezettség alól, akkor erre az időtartamra távolléti díjának miniszteri rendeletben meghatározott mértékű részére jogosult. A honvédelmi alkalmazott és a munkáltató az Mt. 146. § (2) bekezdésétől eltérően ezzel összefüggésben eltérő megállapodást nem köthet.
+- a) az orvosi vizsgálat teljes időtartamára, továbbá a keresőképtelenséggel nem járó egészségügyi kezelések időtartamára,
+- b) a közeli hozzátartozója vagy élettársa halálakor – az Mt. 55. § (1) bekezdés f) pontja szerinti mentesülésen felül – a munkáltatói jogkört gyakorló engedélye alapján esetenként legfeljebb három munkanapra,
+- c) véradás esetén véradásonként két munkanapra, amelyet a véradás napjától számított két hónapon belül, az érintett kérelmének megfelelően kell biztosítani, azzal, hogy a mentesülés évenkénti mértéke legfeljebb tíz munkanap lehet, továbbá
+- d) a munkáltatói jogkört gyakorló engedélye alapján.
 
-(5b) Az (5a) bekezdés szerinti esetben a rendelkezésre állási és a munkavégzés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló, vagy az általa kijelölt személy a honvédelmi alkalmazott éves szabadságának időarányos részét – az Mt. 122. § (1)–(3) bekezdésében foglaltak szerint – már kiadta. Ebben az esetben az Mt. 122. § (4) bekezdése nem alkalmazható.
+(5a) Az (5) bekezdés szerinti mentesülés ideje az Mt. 115. § (2) bekezdése alkalmazásában munkában töltött időnek minősül, és ezen időtartamra a honvédelmi alkalmazott távolléti díjra jogosult.
+
+(5b) Ha a honvédelmi alkalmazott az Mt. 55. § (1) bekezdés k) pontja szerint mentesül a rendelkezésre állási és munkavégzési kötelezettség alól, akkor erre az időtartamra távolléti díjának miniszteri rendeletben meghatározott mértékű részére jogosult.
+
+(5c) Az (5b) bekezdés szerinti esetben a rendelkezésre állási és a munkavégzés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló vagy az általa kijelölt személy a honvédelmi alkalmazott éves szabadságának időarányos részét – az Mt. 122. § (1)–(3) bekezdésében foglaltak szerint – már kiadta. Ebben az esetben az Mt. 122. § (4) bekezdése nem alkalmazható.
 
 (6) A Hvt. 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő honvédelmi alkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés, az egészségügyi válsághelyzet vagy a honvédelmi válsághelyzet időtartama alatt teljesített munkavégzés tekintetében a felek az Mt. 99. § (2) bekezdés b) pontjától, 109. § (1) bekezdésétől és 135. § (3) bekezdésétől írásbeli megállapodással eltérhetnek, azzal, hogy a megállapodás alapján teljesített munkaidő
 
@@ -748,6 +776,8 @@ minősíteni kell.
 #### 9. A munkaidő és pihenőidő
 
 52. § A munka jellegétől függően miniszteri rendelet meghatározhatja a teljes munkaidőből kötelezően a munkahelyen töltendő idő tartamát, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait.
+
+52/A. § Ha a honvédelmi szervezet rendeltetésszerű és eredményes működéséhez, jogszabályban, közjogi szervezetszabályozó eszközben vagy alapító okiratban meghatározott feladatainak teljesítéséhez szükséges, miniszteri rendeletben az Mt. 109. § (1) bekezdésében foglaltakon túl, naptári évenként legfeljebb további százötven óra rendkívüli munkaidő elrendelése is engedélyezhető.
 
 53. § A honvédelmi alkalmazottat a besorolása alapján
 
@@ -790,7 +820,9 @@ alapszabadság illeti meg.
 
 60. § (1) A honvédelmi alkalmazotti jogviszony tekintetében
 
-- a) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. Fejezet) közül a 92. § (4) bekezdése, a 116–117. §, a 118. § (4) bekezdése, a 119. § (2) bekezdése, a 123. § (1)–(6) bekezdése és a 135. § (4)–(6) bekezdése nem alkalmazható,
+- a) az Mt. munka- és pihenőidőről szóló rendelkezései (XI. Fejezet) közül
+  - aa) a 92. § (4) bekezdése, a 99. § (7) bekezdés b) pontja, a 109. § (2) bekezdése, a 116. és 117. §-a, a 118. § (4) bekezdése, a 119. § (2) bekezdése, a 123. § (1)–(6) bekezdése, a 135. § (3)–(6) bekezdése és a 146. § (2) bekezdése – az ab) alpontban foglaltak kivételével – nem alkalmazható,
+  - ab) az aa) alponttól eltérően a KNBSZ és a Magyar Honvédség Egészségügyi Központ által foglalkoztatott honvédelmi alkalmazottra a 109. § (2) bekezdését alkalmazni kell, azzal az eltéréssel, hogy az önként vállalt túlmunkáról az Mt. 109. § (1) bekezdésében foglalt és az 52/A. §-ban engedélyezett mértéket meghaladóan lehet megállapodni,
 - b) miniszteri rendelet – ágazati, szakmai sajátosságokra tekintettel – az Mt. 86. § (3) bekezdés a) pontjától a honvédelmi alkalmazott javára eltérhet.
 
 (2) A honvédelmi alkalmazotti jogviszony tekintetében
@@ -973,7 +1005,7 @@ megfelelő összeg illeti meg.
 
 75. § (1) A honvédelmi alkalmazott számára miniszteri rendeletben foglaltak szerint honvédelmi illetménykiegészítés jár. Az illetménykiegészítés összege az illetménykiegészítés alapösszege és a miniszteri rendeletben meghatározott szorzószám szorzata, amit száz forintra kerekítve kell megállapítani.
 
-(2) Az illetménykiegészítés alapösszege 47.300 Ft.
+(2) Az illetménykiegészítés alapösszege 55.100 Ft.
 
 76. § (1) A munkáltatói jogkört gyakorló a honvédelmi alkalmazottat a meghatározott munkateljesítmény eléréséért, illetve többletfeladatok – ide nem értve kinevezéstől eltérő foglalkoztatást – teljesítéséért a megállapított személyi juttatások előirányzatán belül egyszeri vagy határozott, illetve határozatlan időre szóló, az (1a) bekezdésben meghatározottak szerinti havi rendszerességgel fizetett keresetkiegészítésben részesítheti.
 
@@ -1051,6 +1083,8 @@ illetményének megfelelő összeg.
 
 (3) A juttatási idő eltelte után a munka-, illetve formaruha a honvédelmi alkalmazott tulajdonába kerül. Ha a honvédelmi alkalmazotti jogviszony a juttatási idő letelte előtt megszűnik, miniszteri rendelet rendelkezései irányadóak a visszaszolgáltatás vagy a honvédelmi alkalmazott részéről történő megváltás tekintetében.
 
+80/A. § A honvédelmi alkalmazott lakhatási támogatásának feltételeit a miniszter rendeletben határozza meg.
+
 81. § (1) A honvédelmi alkalmazottat a 61–80. § és a (2) bekezdés alapján megillető juttatások kifizetése a honvédelmi alkalmazott által meghatározott fizetési számlára történő átutalással, fizetési számla hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik.
 
 (2) A fizetési számlához kapcsolódóan a honvédelmi alkalmazott részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
@@ -1089,6 +1123,94 @@ vonatkozó szabályok szerint kell figyelembe venni.
 
 (6) Az árvák kiegészítő támogatásának jogalap nélküli felvétele esetén a Tny. tv. visszafizetési és megtérítési kötelezettségre vonatkozó szabályai alapján kell eljárni. A jogalap nélkül felvett árvák kiegészítő támogatásából eredő követelést a nyugdíjbiztosítási igazgatási szerv a Tny. tv. szabályai alapján érvényesíti.
 
+(7) Az árvák kiegészítő támogatására jogosult az árvák kiegészítő támogatása tárgyában hozott elsőfokú határozat ellen a közléstől számított 15 napon belül írásban fellebbezést nyújthat be. A fellebbezést az elbírálására jogosultnak címezve a központi pénzügyi szervezethez kell benyújtani. A fellebbezés elbírálására a miniszter jogosult, aki a fellebbezést 30 napon belül bírálja el.
+
+(8) Az árvák kiegészítő támogatása tárgyában hozott határozat fellebbezésre tekintet nélkül végrehajtható.
+
+#### 10/A. A honvédelmi alkalmazott fegyelmi felelőssége
+
+82/C. § (1) Fegyelmi vétséget követ el a honvédelmi alkalmazott, ha a honvédelmi alkalmazotti jogviszonyból eredő kötelezettségét vétkesen megszegi.
+
+(2) Nem vonható fegyelmi felelősségre a honvédelmi alkalmazott
+
+- a) a munkáltatói utasításra végrehajtott cselekményért, kivéve, ha tudta, hogy az utasítás végrehajtásával fegyelemsértést követ el, és azt az utasítást adónak nem jelentette vagy
+- b) ha vele szemben a Btk. 15. § b)–g) pontja szerinti büntethetőséget kizáró ok áll fenn.
+
+82/D. § (1) Nem indítható fegyelmi eljárás, ha
+
+- a) a honvédelmi alkalmazottal szemben fegyelmi felelősségre vonást kizáró ok áll fenn,
+- b) a honvédelmi alkalmazott honvédelmi alkalmazotti jogviszonya megszűnt,
+- c) a fegyelmi vétség elévült, vagy
+- d) a kötelezettségszegést már jogerősen elbírálták.
+
+(2) Fegyelmi vétség elkövetésének alapos gyanúja esetén a munkáltatói jogkör gyakorlója az eljárást határozattal köteles megindítani. Nem lehet fegyelmi eljárást indítani, ha a kötelezettségszegés felfedezése óta három hónap, vagy a kötelezettségszegés óta három év eltelt.
+
+(3) Az elévülés kezdő napja
+
+- a) a kötelezettségszegő magatartás elkövetésének a napja,
+- b) a kötelezettség elmulasztása, vagy nemteljesítése esetén az a nap, amikor a kötelezettség teljesítésére rendelkezésre álló határidő eltelt, vagy
+- c) jogellenes állapot fenntartásában megvalósuló kötelezettségszegés esetén az a nap, amikor a jogellenes állapot megszűnt.
+
+(4) A fegyelmi vétséget elkövető honvédelmi alkalmazottal szemben kiszabható fegyelmi büntetések:
+
+- a) megrovás,
+- b) illetménycsökkentés fizetési fokozaton belül,
+- c) vezetői beosztásra történő megbízás visszavonása,
+- d) honvédelmi alkalmazotti jogviszony megszüntetése rendkívüli felmentéssel,
+- e) 21. § (2) bekezdés h) pontja szerinti hivatalvesztés.
+
+(5) A (4) bekezdés b) pontja szerinti illetménycsökkentés mértéke legfeljebb az alapilletmény 20%-a, időtartama legfeljebb 1 év lehet.
+
+(6) A munkáltatói jogkör gyakorlója megrovás fegyelmi büntetést fegyelmi eljárás lefolytatása nélkül is kiszabhat, amennyiben a tényállás megítélése egyszerű és a kötelezettségszegést a honvédelmi alkalmazott elismeri.
+
+(7) A honvédelmi alkalmazott a hatályos fegyelmi büntetéséről a honvédelmi alkalmazotti jogviszonya tartalma alatt köteles számot adni. Ha a honvédelmi alkalmazotti jogviszony hivatalvesztés miatt szűnt meg, a volt honvédelmi alkalmazott honvédelmi szervezetnél három évig nem alkalmazható.
+
+82/E. § (1) A munkáltatói jogkör gyakorlója a fegyelmi eljárást határozattal felfüggeszti, ha
+
+- a) a honvédelmi alkalmazott tartós távolléte, vagy egészségi állapota miatt önhibáján kívüli okból az eljárási cselekményben nem tud részt venni, illetve az eljárási jogait nem tudja gyakorolni,
+- b) a kötelezettségszegés elbírálása olyan előzetes kérdéstől függ, amelynek eldöntése bíróság, más hatóság, honvédelmi szervezet vagy szakértő hatáskörébe tartozik.
+
+(2) Az eljárás felfüggesztése
+
+- a) az (1) bekezdés a) pontja esetén legfeljebb az akadály megszűnéséig,
+- b) az (1) bekezdés b) pontja esetén legfeljebb az eljárás jogerős vagy végleges befejezéséig vagy a szakvélemény elkészítéséig tart.
+
+(3) A munkáltató (1) bekezdés szerinti intézkedésével szemben bírósági jogorvoslatnak helye nincs.
+
+82/F. § (1) A munkáltatói jogkör gyakorlója a honvédelmi alkalmazottat a büntetőeljárás vagy fegyelmi eljárás idejére határozattal felfüggeszti állásából, ha a fegyelemsértés súlya vagy jellege miatt a munkavégzéstől való távoltartása indokolt. A felfüggesztés idejére illetmény jár, a felfüggesztés megszüntetéséig ennek legfeljebb 50%-át vissza lehet tartani. A visszatartott összeget a büntetőeljárás vagy fegyelmi eljárás lezárását követő 30 napon belül ki kell fizetni, kivéve, ha az eljárás eredményeképpen a honvédelmi alkalmazott büntetőjogi vagy fegyelmi felelősségének megállapítására kerül sor.
+
+(2) A munkáltatónak az (1) bekezdés szerinti intézkedésével szemben bírósági jogorvoslatnak helye nincs.
+
+82/G. § (1) A fegyelmi eljárást határozattal meg kell szüntetni, ha
+
+- a) annak tartama alatt a honvédelmi alkalmazotti jogviszony megszűnik,
+- b) a kötelezettségszegés nem fegyelemsértés,
+- c) a kötelezettségszegést nem a honvédelmi alkalmazott követte el,
+- d) a fegyelmi eljárás adatai alapján nem állapítható meg, hogy a kötelezettségszegést a honvédelmi alkalmazott követte el,
+- e) a 82/D. § (1) bekezdés a), c) vagy d) pontjában meghatározott ok áll fenn.
+
+(2) A munkáltatói jogkört gyakorló a 82/D. § (4) bekezdése szerinti fegyelmi büntetést határozatban szabja ki.
+
+(3) A fegyelmi büntetést úgy kell kiszabni, hogy az igazodjon a fegyelemsértés súlyához és jellegéhez, a honvédelmi szervezet fegyelmére gyakorolt hatásához, továbbá a miniszteri rendeletben meghatározott egyéb súlyosító és enyhítő körülményekhez.
+
+(4) Ugyanazon fegyelemsértés esetén egymás mellett több fegyelmi büntetés nem szabható ki.
+
+(5) A honvédelmi alkalmazott a munkáltatói határozattal szemben 30 napos jogvesztő határidőn belül bírósághoz fordulhat.
+
+82/H. § (1) A fegyelmi büntetés hatálya az az időtartam, amely alatt a honvédelmi alkalmazott a jogszabályban meghatározott joghátrányokat viseli. A fegyelmi büntetésben részesített honvédelmi alkalmazott
+
+- a) magasabb beosztással nem bízható meg,
+- b) elismerésben, teljesítményjuttatásban nem részesíthető.
+
+(2) A honvédelmi alkalmazott fegyelmi büntetés hatálya alatt áll a fegyelmi büntetés végrehajtásának befejezéséig, és azt követően
+
+- a) megrovás esetén 2 hónapig,
+- b) illetménycsökkentés esetén 1 évig.
+
+82/I. § Külföldön elkövetett kötelezettségszegés esetén a határidőket a belföldre történő visszaérkezéstől kell számítani.
+
+82/J. § A fegyelmi eljárás részletes eljárási szabályait a miniszter rendeletben állapítja meg.
+
 #### 11. A honvédelmi alkalmazotti jogviszonyban töltött idő számítása
 
 83. § (1) E törvény alkalmazásakor honvédelmi alkalmazotti jogviszonyban töltött időnek kell tekinteni
@@ -1105,6 +1227,7 @@ vonatkozó szabályok szerint kell figyelembe venni.
 - j) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban,
 - k) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, valamint munkaviszonyban,
 - l) az e törvény hatálya alá tartozó munkáltatónál munkaviszonyban
+- m) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban
 
 töltött időt.
 
@@ -1161,11 +1284,13 @@ eltöltött időt.
 
 (2) A magasabb vezető, ha a honvédelmi alkalmazotti jogviszonyát jogellenesen szüntette meg hat havi távolléti díjával felel.
 
-89. § A honvédelmi alkalmazotti jogviszony tekintetében az Mt.-nek a munkáltató és a munkavállaló kártérítési felelősségére szóló rendelkezései (XIII. és XIV. fejezet) közül a 178. § és a 191. § nem alkalmazható.
+89. § (1) A honvédelmi alkalmazotti jogviszony tekintetében az Mt.-nek a munkáltató és a munkavállaló kártérítési felelősségére vonatkozó rendelkezései közül a 178. § és a 191. § nem alkalmazható.
 
-### VI. Fejezet — A HONVÉDELMI ALKALMAZOTT NYILVÁNTARTÁS
+(2) A honvédelmi alkalmazott kártérítési felelősségét elbíráló határozattal, továbbá a honvédelmi szervezet kártérítési felelősségét elbíráló másodfokú határozattal szemben a közléstől számított 30 napos jogvesztő határidőn belül lehet keresetet előterjeszteni az illetékes bíróságon.
 
-90. § (1) A honvédelmi szervezet a honvédelmi alkalmazottról az 1. mellékletben meghatározott adatkörre kiterjedő nyilvántartást vezet (a továbbiakban: honvédelmi alkalmazotti alapnyilvántartás). Az 1. mellékletben nem szereplő körben – törvény eltérő rendelkezésének hiányában – adatszerzés nem végezhető, ilyen adatot nyilvántartani nem lehet.
+### VI. Fejezet — A HONVÉDELMI ALKALMAZOTTI NYILVÁNTARTÁS
+
+90. § (1) A honvédelmi szervezet a honvédelmi alkalmazottról az 1. mellékletben meghatározott adatkörre kiterjedő nyilvántartást vezet (a továbbiakban: honvédelmi alkalmazotti alapnyilvántartás). Az 1. mellékletben nem szereplő körben – törvény eltérő rendelkezésének hiányában – adatkezelés nem végezhető, ilyen adatot nyilvántartani nem lehet.
 
 (2) A honvédelmi alkalmazotti alapnyilvántartás adatai közül a honvédelmi szervezet megnevezése közérdekű adat, a honvédelmi alkalmazott neve, továbbá a besorolására vonatkozó adat közérdekből nyilvános adat, ezeket az adatokat a honvédelmi alkalmazott előzetes tudta és beleegyezése nélkül nyilvánosságra lehet hozni.
 
@@ -1205,7 +1330,10 @@ eltöltött időt.
 
 #### 15. Felhatalmazó rendelkezések
 
-92/C. § Felhatalmazást kap a Kormány, hogy rendeletben elrendelje a VI/A. Fejezet szerinti különös szabályok alkalmazását.
+92/C. § Felhatalmazást kap a Kormány, hogy rendeletben
+
+- a) rendelje el a VI/A. Fejezet szerinti különös szabályok alkalmazását,
+- b) állapítsa meg az állami kezességvállalással nyújtott hitelek honvédelmi alkalmazottra vonatkozó szabályait.
 
 93. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
@@ -1223,21 +1351,26 @@ eltöltött időt.
 - 12. a minősítési szempontokat, illetve az egyes munkakörökben foglalkoztatott honvédelmi alkalmazott minősítésénél kizárt szempontokat,
 - 13. munkakörönként a napi munkaidőből kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
 - 14. a honvédelmi alkalmazottnak adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
-- 15. a honvédelmi alkalmazottak illetményének folyósítására, az 51. § (5a) bekezdése szerinti illetmény mértékére, illetve a teljesítményjuttatásra vonatkozó részletes szabályokat.
+- 15. a honvédelmi alkalmazottak illetményének folyósítására, az 51. § (5b) bekezdése szerinti illetmény mértékére, illetve a teljesítményjuttatásra vonatkozó részletes szabályokat.
 - 16. az 51. § (7) bekezdése szerinti hátrányos jogkövetkezményeket,
 - 17. a honvédelmi alkalmazottaknak és hozzátartozóiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és – visszatérítési kötelezettség esetén – az elengedés részletes rendjét,
 - 18. a honvédelmi alkalmazottak és hozzátartozóik üdültetésének rendjét,
 - 19. a munka- és formaruha juttatásra jogosító munkaköröket, az egyes ruhafajtákat, a juttatási időket, a juttatás egyéb feltételeit, valamint a visszaszolgáltatás vagy a megváltás részletes szabályait,
 - 20. azokat a munkaköröket, amelyek pályázat útján tölthetők be, a pályázat kiírásának és elbírálásának rendjét,
 - 21. a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő honvédelmi alkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat,
-- 22. az Mt. alapján kollektív szerződésben szabályozható tárgyköröket
+- 22.
 - 23. a honvédelmi alkalmazottak részére tartott, kötelező továbbképzéseken való részvétel részletes szabályait,
 - 24. az illetménynövekedés feltételeit azon esetekben, ahol a további szakképesítés hasznosításának mértéke előre nem határozható meg,
 - 25. azokat az eseteket, ahol a jubileumi jutalom alapjául szolgáló illetmény összegébe a 70–74. § szerinti pótlékot és a 75. § szerinti honvédelmi illetménykiegészítést is be kell számítani,
 - 26. a honvédelmi alkalmazott önként vállalt többletkötelezettségeit, különösen a hadkötelezettség bevezetése esetére vállalt katonai szolgálatvállalással és az ehhez kapcsolódó kiképzéssel, felkészítéssel kapcsolatos kötelezettségeket,
 - 27. a honvédelmi alkalmazott feladatellátási helyére történő visszarendelésére, a visszarendelés ellentételezésére, a honvédelmi alkalmazott külföldre utazásának bejelentésére vonatkozó részletes szabályokat,
 - 28. a honvédelmi alkalmazottak kegyeleti gondoskodásának szabályait, a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit, valamint az árvák kiegészítő támogatása megállapításának és folyósításának szabályait,
-- 29. a fegyelmi eljárás részletes eljárási szabályait.
+- 29. a kártérítési és a fegyelmi eljárás részletes eljárási szabályait, illetve – ha szükséges – ezekkel összefüggésben azt az időtartamot, amely az e törvény szerinti elévülési időbe nem számít bele,
+- 30. a honvédelmi szervezet meg nem térülő kárának leírási és törlési szabályait,
+- 31. azokat a honvédelmi szervezeteket, amelyek rendeltetésük folytán vasárnap és munkaszüneti napon is működő munkáltatónak minősülnek,
+- 32. a naptári évenként elrendelhető rendkívüli munkaidő mértékét,
+- 33. a lakhatási támogatási formákat, az egyes lakhatási támogatásokra való jogosultság feltételeit, az igényjogosultság elbírálásának és teljesítésének módját,
+- 34. a helyettesítési díjra való jogosultság eseteit, annak mértékét.
 
 #### 16. Hatályba léptető rendelkezések
 
@@ -1318,7 +1451,9 @@ jogviszony-megszűnésnek.
 
 #### 100. §
 
-#### 101. §
+101. § E törvény 75. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az illetménykiegészítés alapösszege 55.100 Ft.”
 
 #### 102. §
 
@@ -1328,82 +1463,110 @@ jogviszony-megszűnésnek.
 
 ### 1. melléklet a 2018. évi CXIV. törvényhez
 
-A HONVÉDELMI ALKALMAZOTT ALAPNYILVÁNTARTÁS ADATKÖRE
+A HONVÉDELMI ALKALMAZOTTI ALAPNYILVÁNTARTÁS ADATKÖREI
 
-A honvédelmi alkalmazott
+1. A honvédelmi alkalmazott személyi adatai:
 
-I.
+1.1. családi- és utóneve (születési családi- és utóneve), neme,
 
-– neve (leánykori neve)
+1.2. születési helye, ideje,
 
-– születési helye, ideje
+1.3. anyja születési családi- és utóneve,
 
-– anyja neve
+1.4. állampolgárságai,
 
-– TAJ száma, adóazonosító jele
+1.5. társadalombiztosítási azonosítójele, adóazonosító jele,
 
-– lakóhelye, tartózkodási hely, telefonszáma
+1.6. lakóhelye, tartózkodási helye, telefonszáma (amelyen értesíthető), e-mail címe,
 
-– családi állapota
+1.7. családi állapota,
 
-– gyermekeinek születési ideje
+1.8. képmása,
 
-– egyéb eltartottak száma, az eltartás kezdete
+1.9. önéletrajza,
 
-II.
+1.10. fizetési számlaszáma.
 
-– legmagasabb iskolai végzettsége (több végzettség esetén valamennyi)
+2. A honvédelmi alkalmazott eltartott gyermekeinek adatai:
 
-– szakképzettsége(i)
+2.1. családi- és utóneve (születési családi- és utóneve), neme, az eltartás kezdete,
 
-– iskolarendszeren kívüli oktatás keretében szerzett szakképesítése(i), valamint meghatározott munkakör betöltésére jogosító okiratok adatai
+2.2. születési helye, ideje,
 
-– tudományos fokozata
+2.3. anyja születési családi és utóneve,
 
-– idegennyelv-ismerete
+2.4. lakóhelye, tartózkodási helye,
 
-III.
+2.5. társadalombiztosítási azonosító jele, adóazonosító jele.
 
-– a korábbi, 83. § (1) és (3) bekezdése szerinti jogviszonyban töltött időtartamok megnevezése
+3. A honvédelmi alkalmazott iskolai végzettségére vonatkozó adatok:
 
-– a munkahely megnevezése
+3.1. legmagasabb iskolai végzettsége (több végzettség esetén valamennyi),
 
-– a megszűnés módja, időpontja
+3.2. szakképzettségei,
 
-IV.
+3.3. iskolarendszeren kívüli oktatás keretében szerzett szakképesítései, valamint meghatározott munkakör betöltésére jogosító okiratok adatai,
 
-– a honvédelmi alkalmazotti jogviszony kezdete
+3.4. tudományos fokozata,
 
-– állampolgársága
+3.5. idegennyelv-ismerete.
 
-– a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány száma, kelte
+4. A honvédelmi alkalmazott korábbi jogviszonyával kapcsolatos adatok:
 
-– a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok
+4.1. a korábbi, 83. § (1) és (3) bekezdése szerinti jogviszonyban töltött időtartamok megnevezése
 
-V.
+4.2. a korábbi munkahely megnevezése, a jogviszony kezdetének időpontja,
 
-– a honvédelmi alkalmazottat foglalkoztató szerv neve, székhelye, statisztikai számjele
+4.3. a korábbi jogviszony típusának megnevezése,
 
-– e szervnél a honvédelmi alkalmazotti jogviszony kezdete
+4.4. a korábbi munkaköre, beosztása,
 
-– a honvédelmi alkalmazott jelenlegi besorolása, besorolásának időpontja, vezetői beosztása, FEOR-száma
+4.5. a korábbi jogviszony megszűnés módja, időpontja.
 
-– címadományozás, jutalmazás, kitüntetés adatai
+5. A honvédelmi alkalmazott fennálló jogviszonyával kapcsolatos adatok:
 
-– a minősítések időpontja és tartalma
+5.1. a honvédelmi alkalmazotti jogviszony számított kezdete,
 
-VI.
+5.2. a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány száma, kelte,
 
-– személyi juttatások
+5.3. a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok,
 
-VII.
+5.4. nemzetbiztonsági ellenőrzés elrendelésére, eredményére vonatkozó adatok,
 
-– a honvédelmi alkalmazott munkából való távollétének jogcíme és időtartama
+5.5. vagyonnyilatkozat-tételi kötelezettségre vonatkozó adatok.
 
-VIII.
+6. A honvédelmi alkalmazott foglalkoztatására vonatkozó adatok:
 
-– a honvédelmi alkalmazotti jogviszony megszűnésének, valamint a végleges és a határozott idejű áthelyezés időpontja, módja, a végkielégítés adatai
+6.1. a honvédelmi alkalmazottat jelenleg foglalkoztató szerv neve, székhelye, statisztikai számjele,
 
-IX.
+6.2. e szervnél a honvédelmi alkalmazotti jogviszony kezdete,
 
-– a honvédelmi alkalmazott munkavégzésre irányuló egyéb jogviszonyával összefüggő adatai
+6.3. pályázatának adatai,
+
+6.4. a honvédelmi alkalmazott jelenlegi besorolása, besorolásának időpontja, vezetői beosztása, FEOR-száma,
+
+6.5. címadományozás, jutalmazás, kitüntetés adatai,
+
+6.6. a minősítések időpontja és tartalma,
+
+6.7. kötelező alkalmassági vizsgálatokra vonatkozó adatok,
+
+6.8. kötelező és önkéntes elhatározás alapján teljesített képzésre vonatkozó információk,
+
+6.9. kártérítési, fegyelmi felelősségre, hatályos fegyelmi büntetésre vonatkozó adatok,
+
+6.10. személyi juttatásokra, támogatásokra vonatkozó adatok,
+
+6.11. célfeladatra vonatkozó adatok,
+
+6.12. a honvédelmi alkalmazott munkából való távollétének jogcíme és időtartama,
+
+6.13. a honvédelmi alkalmazotti jogviszony megszűnésének, valamint a végleges és a határozott idejű áthelyezés időpontja, módja, a végkielégítés adatai,
+
+6.14. az állami készfizető kezességvállalással összefüggő adatok.
+
+7. A honvédelmi alkalmazott egyéb foglalkoztatására vonatkozó adatok:
+
+7.1. a honvédelmi alkalmazott munkavégzésre irányuló egyéb jogviszonyával összefüggő adatai,
+
+7.2. kinevezéstől eltérő foglalkoztatás adatai.

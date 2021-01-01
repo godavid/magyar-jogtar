@@ -32,6 +32,8 @@ a vagyonkezelő alapítványokról
 
 (5) Ha az alapító az alapítói jogok gyakorlását a maga részére fenntartotta és a (4) bekezdés szerinti kötelezettségét a kuratórium erre irányuló írásbeli felszólítása ellenére sem teljesíti, ennek megtörténtéig az alapítói jogok gyakorlására a kuratórium jogosult.
 
+(6) Az alapító okiratban foglaltak szerint az alapító, illetve a csatlakozó a vagyonkezelő alapítvány részére – az alapításkor vagy csatlakozáskor vállalt és annak megfelelően teljesített vagyonrendelésen felül – további vagyon rendelkezésre bocsátását is vállalhatja azzal a céllal, hogy e vagyonjuttatással a vagyonkezelő alapítvány alapításkor, illetve csatlakozáskor rendelt vagyonát növelje. E vagyonnövelésre megfelelően alkalmazni kell a (2) és a (4) bekezdés rendelkezését.
+
 4. § (1) Vagyonkezelő alapítvány közérdekű célra is alapítható. Közérdekű célnak minősül a nevelési-oktatási, felsőoktatási, kutatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenységek finanszírozása, illetve támogatása vagy ilyen tevékenységet ellátó intézmények fenntartása és működtetése.
 
 (2) A vagyonkezelő alapítvány akkor minősül közérdekűnek, ha
@@ -116,12 +118,42 @@ a vagyonkezelő alapítványokról
 
 (2) Amennyiben az (1) bekezdés szerint juttatott vagyont a közérdekű vagyonkezelő alapítvány elidegeníti, úgy a juttatott vagyon tekintetében az államot – más jogosultakat megelőzően – törvény eltérő rendelkezése hiányában elővásárlási jog illeti meg.
 
+10/C. § A 10/A. § és 10/B. § szerinti vagyoni juttatás a 3. § (6) bekezdése szerinti vagyonnövelésnek minősül.
+
 #### 8. A vagyonkezelő alapítvány megszűnése
 
 11. § (1) A nem közérdekű vagyonkezelő alapítvány az alapítói jogát gyakorló alapító kérelmére megszüntethető, erre irányuló alapítói kérelem esetén ezért a nyilvántartó bíróság polgári nemperes eljárásban megállapítja az alapítvány megszűnését eredményező ok bekövetkezését. Az alapítvány megszűnése nem érinti a kedvezményezettek javára már megállapított és esedékessé vált kötelezettségek teljesítését.
 
 (2) A vagyonkezelő alapítvány megszűnik abban az esetben is, ha annak vagyona három teljes éven keresztül nem éri el a tőkeminimum összegét; ezt úgy kell tekinteni, hogy az alapítvány céljának megvalósítása lehetetlenné vált.
 
+#### 8/A. Közfeladatot ellátó közérdekű vagyonkezelő alapítvány
+
+11/A. § (1) Ezen alcím rendelkezései arra a közérdekű vagyonkezelő alapítványra terjednek ki, amely közfeladatot lát el, és amelyet e törvény az 1. mellékletben közfeladatot ellátó közérdekű vagyonkezelő alapítványként azzá minősít.
+
+(2) E törvény 1. melléklete tartalmazza a közfeladatot ellátó közérdekű vagyonkezelő alapítványok felsorolását.
+
+11/B. § A közfeladatot ellátó közérdekű vagyonkezelő alapítványra e törvény rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
+
+11/C. § A közfeladatot ellátó közérdekű vagyonkezelő alapítvány alapító okiratának tartalmaznia kell az arra való utalást, hogy e törvény szerinti közfeladatot ellátó közérdekű vagyonkezelő alapítványnak minősül.
+
 #### 9. Záró rendelkezések
 
 12. § Ez a törvény a kihirdetését követő 15. napon lép hatályba.
+
+### 1. melléklet a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvényhez
+
+#### A közfeladatot ellátó közérdekű vagyonkezelő alapítványok
+
+- 1. Batthyány Lajos Alapítvány
+- 2. Közép-európai Épített Örökség Megőrző Alapítvány
+- 3. Maecenas Universitatis Corvini Alapítvány
+- 4. Marek József Alapítvány
+- 5. Mathias Corvinus Collegium Alapítvány
+- 6. Millenáris Tudományos Kulturális Alapítvány
+- 7. Moholy-Nagy Művészeti Egyetemért Alapítvány
+- 8. Neumann János Egyetemért Alapítvány
+- 9. Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány
+- 10. Soproni Egyetemért Alapítvány
+- 11. Széchenyi István Egyetemért Alapítvány
+- 12. Színház- és Filmművészetért Alapítvány
+- 13. Universitas Miskolcinensis Alapítvány

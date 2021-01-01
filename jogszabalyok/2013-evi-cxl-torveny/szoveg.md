@@ -162,7 +162,12 @@ törli.
 - d) aki a 8. § (2) bekezdésében meghatározott tevékenységi biztosítékot rendelkezésre bocsátotta, letétbe helyezte vagy átutalta; és
 - e) aki a fémkereskedelmi tevékenységre vonatkozó adatszolgáltatási kötelezettségét a fémkereskedelmi hatóság részére elektronikus úton teljesíti.
 
-(2) Nem adható ki engedély, ha a kérelmezőt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét pénzügyi, vagyon elleni, gazdasági, közegészség elleni bűncselekmény, vagy a közélet tisztasága elleni bűncselekmény elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+(2) Nem adható ki engedély, ha a kérelmezőt vagy a kérelmező szervezet vezetőjét, vezető tisztségviselőjét
+
+- a) a 2013. június 30-ig hatályban volt Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott pénzügyi, vagyon elleni, gazdasági, közegészség elleni bűncselekmény, vagy a közélet tisztasága elleni bűncselekmény, vagy
+- b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XVII., XXIII., vagy XXXV–XLIII. Fejezetében meghatározott bűncselekmény
+
+elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még nem mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
 (3) Az (1) bekezdés b) pontjában foglaltak ellenőrzése érdekében a fémkereskedelmi hatóság megkereséssel élhet az illetékes önkormányzati adóhatóság felé.
 

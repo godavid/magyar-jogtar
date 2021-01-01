@@ -14,7 +14,7 @@ a bűncselekménnyel okozott kár, illetve sérelemdíj megtérítése iránt in
 
 (2) A gyorsított perre az a törvényszék, amelynek területén a felperes belföldi lakóhelye, belföldi lakóhely hiányában belföldi tartózkodási helye, vagy ha a felperes nem természetes személy, belföldi székhelye található, kizárólagosan illetékes. Ha a felperes belföldi lakóhellyel, tartózkodási hellyel vagy székhellyel nem rendelkezik, a perre a Fővárosi Törvényszék illetékes.
 
-4. § A gyorsított perben a felet – ha törvény, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés alapján nem illeti meg tárgyi költségmentesség – költségfeljegyzési jog illeti meg.
+4. § A természetes személy felperest a gyorsított perben – ha törvény, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés alapján nem illeti meg tárgyi költségmentesség – költségfeljegyzési jog illeti meg.
 
 5. § (1) A gyorsított perben – a (2) bekezdésben foglalt kivétellel – a jogi képviselet nem kötelező.
 
@@ -35,11 +35,11 @@ a bűncselekménnyel okozott kár, illetve sérelemdíj megtérítése iránt in
 
 (5) A Pp.-ben foglalt feltételek fennállása esetén részleges félbeszakadásnak, részleges szünetelésnek és részleges felfüggesztésnek az elsőfokú eljárás teljes tartama alatt helye van.
 
-7. § (1) A keresetlevélnek – a Pp. 170. §-ában meghatározottakon túl – tartalmaznia kell a büntetőeljárásban eljáró bíróság megjelölését és a büntetőügy számát.
+7. § (1) A keresetlevélnek – a Pp. 170. §-ában meghatározottakon túl, a büntetőeljárásról szóló 2017. évi XC. törvény 560. § (3b) bekezdése alapján a bíróságnak megküldött polgári jogi igény kivételével – tartalmaznia kell a büntetőeljárásban eljáró bíróság megjelölését és a büntetőügy számát.
 
 (2) A keresetlevélben, valamint az írásbeli ellenkérelemben azt is fel kell tüntetni, hogy az iratot előterjesztő fél és jogi képviselője milyen elektronikus kép és hang továbbítására alkalmas eszköz, illetve internetes hálózat igénybevételével elérhető alkalmazás útján képes személyes megjelenés nélkül is személyazonosítást lehetővé tevő módon kapcsolatot tartani a bírósággal, megjelölve a kapcsolatfelvételt biztosító elektronikus elérhetőséget.
 
-(3) A keresetlevelet és az írásbeli ellenkérelmet a jogi képviselő nélkül eljáró fél kizárólag írásban, a jogszabályban előírt nyomtatvány alkalmazása nélkül is előterjesztheti.
+(3)
 
 (4) Ha a jogi képviselő nélkül eljáró fél által előterjesztett keresetlevél nem tartalmazza a kötelező tartalmi elemeket vagy alaki kellékeket, a bíróságnak a hiánypótlásra felhívó végzésben a keresetlevél valamennyi hiányosságát fel kell tüntetnie, és a bíróságnak részletes, a fél jogban való járatlanságához igazodó teljes körű tájékoztatást kell adnia a hiányok pótlására vonatkozóan. Ennek eredménytelensége esetén van csak helye visszautasításnak.
 

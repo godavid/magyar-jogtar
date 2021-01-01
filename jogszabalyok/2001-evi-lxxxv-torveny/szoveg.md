@@ -42,7 +42,7 @@ E törvény célja, hogy védelmet nyújtson a büntetőeljárásban résztvevő
 - c) a fenyegetett helyzete a büntetőeljárásban való részvételével függ össze és
 - d) a fenyegetett helyzetben lévő személy, illetve az érintett védelme a személyi védelem keretében nem biztosítható, .
 
-2/A. § Fedett nyomozóval akkor is köthető megállapodás, ha a büntetőeljárásban vallomást nem tett, de az abban való közreműködése megfelel a 2. § (2) bekezdés a)–d) pontjában meghatározott követelményeknek, és hivatásos szolgálati jogviszonya a megállapodás megkötéséig megszűnt.
+2/A. § Fedett nyomozóval akkor is köthető megállapodás, ha a büntetőeljárásban vallomást nem tett, de az abban való közreműködése megfelel a 2. § (2) bekezdés a)–d) pontjában meghatározott követelményeknek, és hivatásos szolgálati jogviszonya vagy adó- és vámhatóság szolgálati jogviszonya a megállapodás megkötéséig megszűnt.
 
 3. § Megállapodás a 2. §-ban meghatározottak személyére tekintettel azok hozzátartozójával, továbbá – kivételesen – más személlyel is köthető, ha azt a fenyegetett helyzetben lévő személy vagy az érintett méltányolható helyzete indokolja és a védelem céljával összeegyeztethető.
 

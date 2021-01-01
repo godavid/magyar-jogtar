@@ -4,72 +4,160 @@ a Kormányzati Személyügyi Döntéstámogató Rendszerről
 
 #### 1. A Kormány személyügyi információs rendszere
 
-1. §
+1. § (1) A Kormányzati Személyügyi Döntéstámogató Rendszer (a továbbiakban: KSZDR) a Kormány személyügyi információs rendszere.
 
-2. §
+(2) A KSZDR célja
+
+- a) a Kormány személyzetpolitikájának kialakításához és megvalósításához szükséges adatok és elemzések biztosítása,
+- b) a létszám- és illetményadatok elemzéséhez, illetve az előmeneteli és illetményrendszer országos működtetéséhez szükséges létszám- és illetményadatok elemzéséhez adatok biztosítása a bérpolitikai intézkedésekre vonatkozó országgyűlési döntést előkészítő kormányzati szervek, illetve országgyűlési bizottságok részére,
+- c) a nemzetközi kapcsolatokkal összefüggő esetenkénti adatszolgáltatás biztosításához szükséges adatok biztosítása,
+- d) statisztikai lekérdezések biztosítása.
+
+(3) A KSZDR felépítését, működését, a jogosultságkezelés rendjét a Kormány rendeletben határozza meg.
+
+2. § A KSZDR
+
+- a) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti központi kormányzati igazgatási szerveknél és ezek területi, helyi szerveinél
+  - aa) politikai szolgálati jogviszonyban foglalkoztatott politikai vezető, politikai tanácsadó, politikai főtanácsadó és kabinetfőnök,
+  - ab) kormányzati szolgálati jogviszonyban foglalkoztatott szakmai vezető és kormánytisztviselő, valamint
+  - ac) munkaviszonyban foglalkoztatottak,
+- b) a Kit. szerinti területi kormányzati igazgatási szerveknél foglalkoztatottak,
+- c) – az Országgyűlés Hivatala, valamint az Országgyűlési Őrség kivételével – a közszolgálati tisztviselőkről szóló 2011. CXCIX. törvény (a továbbiakban: Kttv.) hatálya alá tartozó szerveknél foglalkoztatottak,
+- d) – a polgári nemzetbiztonsági szolgálatok és az Országgyűlési Őrség kivételével – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) szerinti rendvédelmi feladatokat ellátó szerveknél foglalkoztatottak,
+- e) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény (a továbbiakban: Nsztv.) szerint a Nemzeti Adó- és Vámhivatal személyi állományába tartozók, valamint
+- f) – a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató foglalkoztatottjai kivételével – az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Esztv.) szerinti állami vagy felsőoktatási intézmény által fenntartott egészségügyi szolgáltatónál, illetve működtetett klinikai központnál és egyetemi kórháznál (a továbbiakban együtt: állami fenntartású egészségügyi szolgáltató), valamint az önkormányzati fenntartású egészségügyi szolgáltatóknál foglalkoztatottak
+
+[az a)–f) pontban foglaltak a továbbiakban együtt: foglalkoztatott] vonatkozásában támogatja az 1. § (2) bekezdése szerinti célokat.
 
 3. § (1) A KSZDR rendszerelemei:
 
-- a)
-- b)
-- c)
+- a) az 1. § (2) bekezdése szerinti célok támogatását megalapozó adatfeltöltés teljesítésének informatikai eszköze (a továbbiakban: adatgyűjtő modul),
+- b) az 1. § (2) bekezdése szerinti célok támogatását megvalósító statisztikai modul (a továbbiakban: statisztikai modul),
+- c) a 2. § a) és b) pontja szerinti foglalkoztatottak vonatkozásában a Kit. 62. § (6) bekezdése szerinti Álláshely Nyilvántartó Rendszer,
 - d) a 2. § a) és d) pontja szerint foglalkoztatottak vonatkozásában
-  - da)
+  - da) a Kit. 175. §-a szerinti közszolgálati alapnyilvántartás és a Kit. 279. § (8) bekezdése szerinti munkaügyi nyilvántartás, illetve
   - db)
 
 kezelésére szolgáló személyügyi alapnyilvántartó és ügyviteli rendszer.
 
-(2)
+(2) Az (1) bekezdés a) és b) pontja szerinti rendszerelem nem alkalmazandó a Kit. 56. § (4) bekezdése szerinti központosított álláshely-állományba tartozó álláshelyen létrehozott, illetve fenntartott kormányzati szolgálati jogviszonyban foglalkoztatott kormánytisztviselőkre.
 
-(3)
+(3) Az (1) bekezdés a) és b) pontja szerinti rendszerelem nem alkalmazandó a Kit. 54. § (3) bekezdése szerint a honvédelemért felelős miniszter által vezetett minisztériumba a honvédek jogállásáról szóló törvény szerint vezényelt vagy kirendelt hivatásos vagy szerződéses szolgálati viszonyban álló személyekre, míg az (1) bekezdés c) pontja szerinti rendszerelemben – az (5) bekezdésben foglaltak kivételével – ezen személyi kör vonatkozásában a Kit. 62/A. § (2) bekezdésében szereplő személyes adatokat szükséges rögzíteni.
 
 (4)
 
 (5)
 
-4. §
+4. § (1) A KSZDR működtetéséért a közszolgálati életpálya kidolgozásáért felelős miniszter felel.
+
+(2) A KSZDR informatikai üzemeltetését a Kormány rendeletében meghatározott szervezet végzi.
+
+(3) A KSZDR üzemeltetési és adatvédelmi szabályzatát a közszolgálati életpálya kidolgozásáért felelős miniszter adja ki, a Kit. szerinti kormányzati személyügyi igazgatásra kijelölt szerv véleményének kikérését követően.
 
 #### 2. Az adatgyűjtő modul
 
-5. §
+5. § (1) Az 1. § (2) bekezdésében foglalt célok támogatásának megalapozása érdekében a 2. §-ban meghatározott foglalkoztató szervezet döntéstámogató tevékenységet végez, amely feladatának a KSZDR alkalmazása útján, a foglalkoztatottak adatainak és a szervezeti adatoknak az adatgyűjtő modulba való feltöltésével tesz eleget.
 
-6. §
+(2) Az adatgyűjtő modulban a foglalkoztatott adatait – a Kormány rendeletében meghatározott rendben – a foglalkoztatott társadalombiztosítási azonosító jele alapján kell azonosítani.
+
+6. § (1) Az adatgyűjtő modulnak a személyhez köthető adatokat
+
+- a) a 2. § szerinti foglalkoztató szervezet a 7. § (1) bekezdése szerint, valamint
+- b) a 7. § (2) és (3) bekezdése szerinti információs rendszer
+
+szolgáltatja.
+
+(2) Az adatgyűjtő modul részére adatfeltöltést
+
+- a) a Kit. szerinti politikai vezetők, politikai tanácsadók, politikai főtanácsadók, kabinetfőnökök, szakmai vezetők és kormánytisztviselők vonatkozásában az 1. mellékletben,
+- b) a Kttv. szerinti közszolgálati jogviszonyban vagy kormányzati szolgálati jogviszonyban állók vonatkozásában a 2. mellékletben,
+- c) a Hszt. szerinti hivatásos szolgálati jogviszonyban állók és tisztjelöltek vonatkozásában a 3. mellékletben,
+- d) a Hszt. szerinti rendvédelmi igazgatási szolgálati jogviszonyban állók vonatkozásában a 4. mellékletben,
+- e) az Nsztv. szerinti pénzügyőri, pénzügyőr tisztjelölti és tisztviselői állomány vonatkozásában az 5. mellékletben,
+- f) az Esztv. szerinti egészségügyi szolgálati jogviszonyban foglalkoztatottak vonatkozásában a 6. mellékletben,
+- g) a Kit., a Kttv., a Hszt. és az Nsztv. hatálya alá tartozó munkavállalók vonatkozásában a 7. mellékletben
+
+meghatározott adatkörök tekintetében a foglalkoztató szervezettel foglalkoztatási jogviszonyban álló foglalkoztatottakra, illetve – feltéve, hogy a foglalkoztatási jogviszony megszűnését vagy megszüntetését követő tíz év még nem telt el – volt foglalkoztatottakra kiterjedően kell végezni.
 
 7. § (1) A foglalkoztatottak (2) bekezdés szerinti adatairól, azok változásairól, illetve a foglalkoztató szervezet szervezeti adatairól a 2. § szerinti foglalkoztató szervezet – a Kormány rendeletében meghatározott rendben – elektronikus úton adatfeltöltést végez
 
-- a)
-- b)
+- a) a kormányzati igazgatási szerv Kit. 175. §-a szerinti közszolgálati alapnyilvántartásából, illetve a Kit. 279. § (8) bekezdése szerinti munkaügyi nyilvántartásából,
+- b) a Kttv. hatálya alá tartozó foglalkoztató szervezet Kttv. 177. §-a szerinti közszolgálati alapnyilvántartásából, illetve a Kttv. 258. § (9) bekezdése szerinti munkaügyi nyilvántartásából,
 - c)
-- d)
-- e)
+- d) a 2. § e) pontja szerinti foglalkoztató szervezet Nsztv. szerinti személyügyi alapnyilvántartásából,
+- e) a 2. § f) pontja szerinti foglalkoztató szervezet az Esztv. 14. §-a szerinti alapnyilvántartásából,
 
 a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informatikai rendszerből vagy annak hiányában az adatok egyedi rögzítésével.
 
-(2)
+(2) A foglalkoztatottak létszám- és illetményadatairól, kereseti adatairól a központi illetményszámfejtési rendszer – a Kormány rendeletében meghatározott rendben – egyedi azonosító alkalmazásával adatszolgáltatást végez az adatgyűjtő modul részére.
 
-(3)
+(3) Az adatgyűjtő modul a foglalkoztatott személyéhez köthető, az 1–7. melléklet szerinti adatkörben meghatározott kiegészítő adatokat vehet át – a Kormány rendeletében meghatározott rendben – az emberi erőforrás-folyamatok adatainak jogszabályban meghatározott szaknyilvántartásából.
 
-8. §
+8. § (1) Az adatgyűjtő modulban a szervezeti adatok nyilvántartásának rendjét és a 7. § (1) bekezdése szerinti szervezeti adatok szolgáltatásának rendjét a Kormány rendeletben határozza meg.
 
-9. §
+(2) A kincstár az adatgyűjtő modul részére a költségvetési szervekről és a költségvetési körben gazdálkodó szervekről szóló közhiteles hatósági törzskönyvi nyilvántartásból a Kormány rendeletében meghatározott rendben és szervezeti körben adatszolgáltatást végez.
 
-10. §
+9. § (1) Az adatgyűjtő modulban tárolt adatok kezelője és az adatokhoz hozzáférni jogosult
+
+- a) a 2. § a) és b) pontja szerinti körben a Kit. 175. § (3) bekezdése szerint betekintésre jogosultak, valamint a Kit. 61. § (2) bekezdése szerinti adatkezelő,
+- b) a 2. § c) pontja szerinti körben a Kttv. 180. § (1) bekezdése szerint betekintésre jogosultak,
+- c) a 2. § d) pontja szerinti körben a Hszt. 275. §-a szerint betekintésre jogosultak,
+- d) a 2. § e) pontja szerinti körben az Nsztv. szerint a személyügyi alapnyilvántartásba betekintésre jogosultak,
+- e) a 2. § f) pontja szerinti körben az Esztv. 14. § (5) bekezdése szerint betekintésre jogosultak.
+
+(2) Az adatgyűjtő modulban tárolt személyes adatok tekintetében a KSZDR 4. § (1) bekezdése szerinti működtetője, valamint ehhez kapcsolódóan a KSZDR 4. § (2) bekezdése szerinti informatikai üzemeltetője adatfeldolgozóként jár el. Az adatfeldolgozói jogviszonyra vonatkozó részletes szabályokat a Kormány rendelete határozza meg.
+
+10. § A foglalkoztató szervezet a foglalkoztatottak 1–7. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól és azok változásáról – különösen az államháztartásról szóló 2011. évi CXCV. törvény 106/A. §-ában foglaltakra figyelemmel – az adatgyűjtő modul útján szolgáltat adatot a kincstár által működtetett központosított illetményszámfejtés részére.
 
 #### 3. A statisztikai modul
 
-11. §
+11. § (1) A statisztikai modulban a foglalkoztatottak adatait – a Kormány rendeletében meghatározott rendben – személyazonosításra alkalmatlan módon kell nyilvántartani.
 
-12. §
+(2) A statisztikai modul (1) bekezdés szerinti személyazonosításra alkalmatlan adatait az adatgyűjtő modul szolgáltatja.
 
-13. §
+12. § A közszolgálati életpálya kidolgozásáért felelős miniszter és a Központi Statisztikai Hivatal vezetőjének megállapodása alapján a foglalkoztatottakról munkaügyi statisztikai adatszolgáltatás keretében gyűjtött statisztikai adatokat a Központi Statisztikai Hivatal a közszolgálati életpálya kidolgozásáért felelős miniszter rendelkezésére bocsátja a statisztikai modulban történő felhasználás céljából.
+
+13. § (1) A statisztikai modulból a közszolgálati életpálya kidolgozásáért felelős miniszter – a Kormány rendeletében meghatározott módon és adatkörben – a jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet.
+
+(2) A statisztikai modulból az (1) bekezdésben foglaltakon túl közvetlenül statisztikai lekérdezéseket végezhet a Kormány rendeletében meghatározott rendben
+
+- a) a Miniszterelnöki Kormányiroda közigazgatási államtitkára,
+- b) a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter,
+- c) az államháztartásért felelős miniszter,
+- d) a miniszterelnök kabinetfőnöke,
+- e) felelősségi körében eljárva az ágazati miniszter,
+- f) felelősségi körében eljárva a közszolgálati életpálya kidolgozásáért felelős miniszter által meghatározott személy,
+- g) a 2. § a) és b) pontja szerinti foglalkoztató szervezetek vonatkozásában a Kit. szerinti kormányzati személyügyi igazgatásra kijelölt szervnél működő helyettes államtitkár, valamint a Magyar Kormánytisztviselői Kar, továbbá a területi kormányzati igazgatási szerv vonatkozásában a közigazgatás-szervezésért felelős miniszter,
+- h) a 2. § c) pontja szerinti foglalkoztató szervezetek vonatkozásában a helyi önkormányzatokért felelős miniszter,
+- i) a 2. § d) pontja szerinti foglalkoztató szervezetek vonatkozásában a rendvédelmi feladatokat ellátó szervet irányító miniszter, a rendvédelmi feladatokat ellátó szervet vezető országos parancsnok vagy országos főigazgató, valamint a Magyar Rendvédelmi Kar,
+- j) a 2. § e) pontja szerinti foglalkoztató szervezet vonatkozásában a Nemzeti Adó- és Vámhivatalt irányító miniszter, a Nemzeti Adó- és Vámhivatal vezetője, a Magyar Rendvédelmi Kar, valamint a Magyar Kormánytisztviselői Kar,
+- k) a 2. § f) pontja szerinti foglalkoztató szervezetek vonatkozásában az egészségügyért felelős miniszter, a középirányítói jogosultságokkal rendelkező szervezet, valamint az egészségügyi szolgáltató vezetője.
+
+(3) A statisztikai modulból statisztikai lekérdezéseket kérhet a közszolgálati életpálya kidolgozásáért felelős miniszter megkeresése útján a Kormány rendeletében meghatározott rendben, felelősségi körében eljárva a (2) bekezdésen kívüli szervezet is.
 
 #### 4. Az Álláshely Nyilvántartó Rendszerrel való kapcsolat
 
-14. §
+14. § A Kit. szerinti álláshely-nyilvántartásban nyilvántartott adatok a Kit. 62/A. § (5) bekezdése alapján a Kormány rendeletében meghatározott rendben kerülnek összekapcsolásra az adatgyűjtő modullal.
 
 #### 5. Záró rendelkezések
 
-15. §
+15. § Felhatalmazást kap a Kormány, hogy rendeletben meghatározza
+
+- 1. a KSZDR felépítését, működését, a jogosultságkezelés rendjét, valamint az adatfeldolgozói jogviszonyra vonatkozó szabályokat,
+- 2. a KSZDR informatikai üzemeltetését végző szervezetet,
+- 3. a foglalkoztatott adatainak személyhez köthető nyilvántartása rendjét az adatgyűjtő modulban,
+- 4. a foglalkoztatottak 1–7. mellékletben meghatározott adatairól, az azokban bekövetkezett változásokról, valamint a foglalkoztató szervezetek szervezeti adatairól a KSZDR-be történő adatszolgáltatás rendjét,
+- 5. a foglalkoztatottak létszám- és illetményadatairól, kereseti adatairól a központosított illetményszámfejtési rendszer által a KSZDR-be történő adatszolgáltatás rendjét,
+- 6. a foglalkoztatott személyéhez köthető kiegészítő adatok jogszabályban meghatározott szaknyilvántartásából történő átvétel rendjét,
+- 7. a foglalkoztató szervezet szervezeti adatai nyilvántartásának és a szervezeti adatok szolgáltatásának rendjét az adatgyűjtő modul részére,
+- 8. a költségvetési szervekről és a költségvetési körben gazdálkodó szervekről szóló közhiteles hatósági törzskönyvi nyilvántartásból a KSZDR-be történő adatszolgáltatás rendjét és szervezeti körét,
+- 9. a foglalkoztatottak 1–7. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól és azok változásáról a kincstár által működtetett központosított illetményszámfejtés részére történő adatszolgáltatás rendjét,
+- 10. a foglalkoztatott adatainak személyazonosításra alkalmatlan módon történő nyilvántartása rendjét a statisztikai modulban,
+- 11. a közszolgálati életpálya kidolgozásáért felelős miniszter jogszabályban meghatározott feladatainak ellátása érdekében történő statisztikai lekérdezések módját és adatköreit,
+- 12. a közvetlen statisztikai lekérdezések rendjét, valamint a statisztikai adatszolgáltatásra irányuló megkeresésre jogosult szervezetek kijelölését és a megkeresésre történő adatszolgáltatás rendjét,
+- 13. a kormánytisztviselő Álláshely Nyilvántartó Rendszerben nyilvántartott adatainak elektronikus úton a KSZDR-be történő továbbításának rendjét,
+- 14. a 3. § (1) bekezdés d) pontja szerinti személyügyi nyilvántartások vezetésére szolgáló személyügyi alapnyilvántartó és ügyviteli rendszert,
+- 15. azon állami fenntartású egészségügyi szolgáltatók meghatározását, amely egészségügyi szolgáltatónál foglalkoztatottak vonatkozásában az adatgyűjtő modulba történő adatátadást 2021. január 1-jén meg kell kezdeni.
 
 16. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -79,61 +167,226 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 
 (4) Az 55. § 2021. július 1-jén lép hatályba.
 
-17. §
+17. § (1) Az adatgyűjtő modul működését 2021. január 1-jén kezdi meg
 
-18. §
+- a) a 2. § c) pontja szerinti foglalkoztatottak vonatkozásában azzal, hogy a 2021. január 1-jén foglalkoztatottak adatainak az adatgyűjtő modulba első alkalommal történő feltöltését legkésőbb 2021. szeptember 30. napjáig el kell végezni,
+- b) a 2. § f) pontja szerinti, a Kormány rendeletében meghatározott állami fenntartású egészségügyi szolgáltatónál foglalkoztatottak vonatkozásában azzal, hogy a 2021. január 1-jén foglalkoztatottak adatainak az adatgyűjtő modulba első alkalommal történő feltöltését legkésőbb 2021. április 30. napjáig el kell végezni.
 
-19. §
+(2) Az adatgyűjtő modul működését 2021. április 1-jén kezdi meg
+
+- a) a 2. § a) pontja szerinti központi kormányzati igazgatási szerveknél, azzal, hogy a 2021. április 1-jén foglalkoztatottak adatainak az adatgyűjtő modulba első alkalommal történő feltöltését legkésőbb 2021. december 31. napjáig el kell végezni,
+- b) a 2. § b) pontja szerinti területi kormányzati igazgatási szerveknél foglalkoztatottak vonatkozásában azzal, hogy a 2021. április 1-jén foglalkoztatottak adatainak az adatgyűjtő modulba első alkalommal történő feltöltését legkésőbb 2021. szeptember 30. napjáig el kell végezni,
+- c) a 2. § d) pontja szerinti foglalkoztatottak vonatkozásában, azzal, hogy a 2021. április 1-jén foglalkoztatottak adatainak az adatgyűjtő modulba első alkalommal történő feltöltését legkésőbb 2021. december 31. napjáig el kell végezni.
+
+(3) Az adatgyűjtő modul működését 2021. március 1-jén kezdi meg a 2. § f) pontja szerinti,
+
+- a) önkormányzati fenntartású, illetve
+- b) az (1) bekezdés b) pontjába nem tartozó állami fenntartású
+
+egészségügyi szolgáltatónál foglalkoztatottak vonatkozásában azzal, hogy a 2021. március 1-jén foglalkoztatottak adatainak az adatgyűjtő modulba első alkalommal történő feltöltését legkésőbb 2021. június 30. napjáig el kell végezni.
+
+(4) Az adatgyűjtő modul működését 2021. július 1-jén kezdi meg a 2. § e) pontja szerinti foglalkoztatottak vonatkozásában.
+
+(5) A polgári nemzetbiztonsági szolgálat vonatkozásában 2022. december 31-ig szükséges kidolgozni a 3. § (1) bekezdés a) és b) pontja szerinti rendszerelem működésének olyan modelljét, amely az adatgyűjtő modul és a statisztikai modul elszigetelt működtetése révén lehetővé teszi a statisztikai adatok elkülönítetten történő lekérdezésének lehetőségét.
+
+18. § E törvény
+
+- a) 6. alcíme az Alaptörvény 46. cikk (6) bekezdése alapján,
+- b) 9. alcíme az Alaptörvény XXIX. cikk (3) bekezdése alapján,
+- c) 10. alcíme az Alaptörvény 31. cikk (3) bekezdése alapján
+
+sarkalatosnak minősül.
+
+19. § A 23. és a 24. § a veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének kezeléséről, valamint a 96/82/EK tanácsi irányelv módosításáról és későbbi hatályon kívül helyezéséről szóló, 2012. július 4-i 2012/18/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 6. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-20. §
+20. § (1) A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 7. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-21. §
+[A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv kizárólagos hatáskörrel ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:]
+
+„b) elvégzi
+
+ba) az (1c) bekezdésben foglalt kivétellel a Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szerv, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottjának,
+
+bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók,
+
+bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és munkavállalói
+
+[a ba)–bc) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát.”
+
+(2) Az Rtv. 7. § (1a) bekezdése helyébe a következő rendelkezés lép:
+
+„(1a) Az (1) bekezdés b) pont ba) alpontja alkalmazásában foglalkoztatott
+
+a) a kormányzati szolgálati jogviszonyban,
+
+b) a közalkalmazotti jogviszonyban,
+
+c) az igazságügyi szolgálati jogviszonyban,
+
+d) a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszonyban,
+
+e) a rendvédelmi igazgatási szolgálati jogviszonyban,
+
+f) az adó- és vámhatósági szolgálati jogviszonyban,
+
+g) a rendvédelmi feladatokat ellátó szervnél fennálló tisztjelölti szolgálati jogviszonyban, illetve a Nemzet Adó- és Vámhivatalnál fennálló tisztjelölti jogviszonyban,
+
+h) az egészségügyi szolgálati jogviszonyban, és
+
+i) a munkaviszonyban
+
+foglalkoztatott.”
+
+(3) Az Rtv. 7. § (1c) bekezdése helyébe a következő rendelkezés lép:
+
+„(1c) Az (1) bekezdés b) pont ba) alpontjától eltérően nem tartozik a védett állomány körébe
+
+a) az Információs Hivatal foglalkoztatottja,
+
+b) a honvédelmi szervezetek foglalkoztatottja azzal a kivétellel, hogy az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató egészségügyi szolgálati jogviszonyban álló foglalkoztatottja, továbbá
+
+c) a Kormány rendeletében a feladat- és tevekénységi kör mérlegelése alapján a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített szerv foglalkoztatottja.”
+
+21. § Az Rtv.
+
+- a) 7. § (1b) bekezdésében a „pont bc) alpontja” szövegrész helyébe a „pontja” szöveg,
+- b) 7/B. § (2) bekezdés a) pontjában a „határrendészeti szabálysértést” szövegrész helyébe a „határrendészeti szabálysértést, gyógyszerrendészeti szabálysértést, segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértést” szöveg,
+- c) 7/B. § (2) bekezdés b) pont bb) alpontjában az „a személyes adattal” szövegrész helyébe az „a teljesítményfokozó szerrel visszaélés (Btk. 185. §), a gyógyszerhamisítás (Btk. 185/A. §), a személyes adattal” szöveg,
+- d) 100. § (1) bekezdés h) pontjában a „részletes szabályait” szövegrész helyébe a „részletes szabályait, továbbá meghatározza a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített, a Kormány vagy a Kormány tagjának irányítása, felügyelete alá tartozó szervek körét” szöveg
+
+lép.
 
 #### 7. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-22. §
+22. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 23. §-a a következő t) ponttal egészül ki:
+
+(A TAJ számot a következő szervek az alábbiakban meghatározott célból kezelhetik:)
+
+„t) a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvény 2. §-a szerinti szervezet, valamint a Kormányzati Személyügyi Döntéstámogató Rendszer a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő adatszolgáltatás érdekében.”
 
 #### 8. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-23. §
+23. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 33. pontja helyébe a következő rendelkezés lép:
 
-24. §
+(E törvény alkalmazásában:)
+
+„33. Védendő adat: a veszélyes anyagokkal foglalkozó üzem biztonságával kapcsolatos lényeges adat, amelyet az üzemeltető vagy az iparbiztonsági hatóság védendővé nyilvánít, továbbá az üzemeltető által meghatározott üzleti titok.”
+
+24. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 25. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Ha a biztonsági jelentés vagy biztonsági elemzés valamely adatát az iparbiztonsági hatóság nyilvánítja védendő adattá, a védendő adatokat közli az üzemeltetővel, és egyben felhívja az üzemeltetőt a nyilvánosságra hozható, védendő adatot nem tartalmazó biztonsági jelentés vagy biztonsági elemzés elkészítésére és benyújtására.”
 
 #### 9. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-25. §
+25. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 107. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Méltatlanság miatt a nemzetiségi önkormányzat képviselő-testülete, közgyűlése megszünteti annak az önkormányzati képviselőnek a megbízatását,)
+
+„c) akit megbízatásának ideje alatt – a mentesítésre tekintet nélkül – szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítélnek,”
 
 #### 10. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-26. §
+26. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 38. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(Méltatlanság miatt a képviselő-testület határozatával megszünteti annak az önkormányzati képviselőnek a megbízatását,)
+
+„b) akit megbízatásának ideje alatt – a mentesítésre tekintet nélkül – szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítélnek;”
 
 #### 11. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-27. §
+27. § Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 106/A. §-a a következő (5) bekezdéssel egészül ki:
 
-28. §
+„(5) A kincstár a Kormány rendeletében meghatározott rendben adatot szolgáltat a Kormányzati Személyügyi Döntéstámogató Rendszer részére
+
+a) a Kormányzati Személyügyi Döntéstámogató Rendszerbe feltöltendő foglalkoztatottak létszám-, kereseti- és illetményadatairól egyedi azonosító alkalmazásával, valamint
+
+b) a költségvetési szervekről és a költségvetési körben gazdálkodó szervekről szóló közhiteles hatósági törzskönyvi nyilvántartásból.”
+
+28. § Az Áht. 109. § (1) bekezdés 35. pontja helyébe a következő rendelkezés lép:
+
+(Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg)
+
+„35. a központosított illetményszámfejtés szabályait, valamint a központosított illetményszámfejtés körét érintő statisztikai és egyéb adatszolgáltatás rendjét,”
 
 #### 12. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-29. §
+29. § A Kttv. 177. §-a a következő (6) és (7) bekezdéssel egészül ki:
 
-30. §
+„(6) A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott döntéstámogatási feladatot az államigazgatási szerv a közszolgálati alapnyilvántartás adatainak és azok változásainak, továbbá az államigazgatási szerv szervezeti adatainak jogszabályban meghatározottak szerint a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő feltöltésével hajtja végre.
 
-31. §
+(7) A kormánytisztviselőnek a közszolgálati alapnyilvántartás 2. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól és az azokban bekövetkezett változásról a (6) bekezdés szerinti információs rendszer közvetlen adatszolgáltatást nyújt – a Kormány rendeletében meghatározott rendben – a kincstár által működtetett központosított illetményszámfejtés részére.”
 
-32. §
+30. § A Kttv. 180. § (1) bekezdés k) pontja helyébe a következő rendelkezés lép:
 
-33. §
+(Az államigazgatási szervnél vezetett közszolgálati alapnyilvántartásba – eljárásában indokolt mértékig – jogosult betekinteni, illetőleg abból adatokat átvenni:)
+
+„k) a Kormányzati Személyügyi Döntéstámogató Rendszer működtetésével összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter,”
+
+31. § A Kttv. 258. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) Az államigazgatási szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a kormánytisztviselők esetében releváns adatok kivételével – megegyezik a kormánytisztviselő 2. melléklet szerinti közszolgálati alapnyilvántartásának adataival. A munkaügyi nyilvántartásra, valamint az abból történő adatszolgáltatásra a közszolgálati alapnyilvántartásra vonatkozó szabályokat kell alkalmazni, azzal, hogy az államigazgatási szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő tizenöt évig kezeli.”
+
+32. § A Kttv. 177. § (3) bekezdésében a „178. § (1) bekezdésében, továbbá a 181. §-ban” szövegrész helyébe a „Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben, továbbá a 181. § (1) bekezdésében” szöveg lép.
+
+33. § Hatályát veszti a Kttv.
+
+- a) 178. §-a,
+- b) 180. § (1) bekezdés l) pontjában az „a minisztériumokra vonatkozó adatok tekintetében, valamint” szövegrész,
+- c) 259. § (1) bekezdés 1. pont c) alpontjában az „és a közszolgálati statisztikai adatgyűjtésre” szövegrész.
 
 #### 13. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-34. §
+34. § A Hszt. a következő 106/A. §-sal egészül ki:
 
-35. §
+„106/A. § Az országos parancsnok és az országos főigazgató a 106. § (1a) bekezdése szerinti közjogi szervezetszabályozó eszközben vagy belső szabályzatban határozza meg
 
-36. §
+a) azt, hogy a miniszter által meghatározott szempontok figyelembevételével mely szolgálati beosztás melyik alkalmasságvizsgálati kategóriába tartozik,
+
+b) a miniszter által meghatározott egyes alkalmasságvizsgálati kategóriába tartozó szolgálati beosztások esetében az egészségi, pszichológiai és fizikai kategóriafeltételeket, amelyek nem lehetnek alacsonyabbak a minimumfeltételeknél,
+
+c) a miniszter által meghatározott egyes alkalmasságvizsgálati kategóriák esetében a kompetenciavizsgálat keretében vizsgálandó további kompetenciák tartalmát és követelményeit,
+
+d) az illeszkedésvizsgálat eredményeinek a vezetői döntést támogató felhasználására vonatkozó szakmai javaslatokkal kapcsolatos eljárásrendet és
+
+e) a miniszter által meghatározott szempontok figyelembevételével első- és másodfokú egészségi, pszichológiai, fizikai alkalmasságvizsgálatot végzők személyére vonatkozó kijelölést.”
+
+35. § A Hszt. 261. §-a helyébe a következő rendelkezés lép:
+
+„261. § (1) Kiegészítő hozzátartozói támogatás illeti meg az özvegyi és szülői nyugellátásra jogosultat, ha a hivatásos állomány tagjának halálát szolgálati kötelmekkel összefüggő baleset vagy szolgálati eredetű betegség okozta.
+
+(2) A kiegészítő hozzátartozói támogatás mértéke a Tny. alapján megállapított özvegyi vagy szülői nyugellátás 25%-ának megfelelő összeg.
+
+(3) A (2) bekezdéstől eltérően a hősi halott özvegye vagy szülője a Tny. alapján megállapított hozzátartozói nyugellátás 50%-ának megfelelő összegű kiegészítő hozzátartozói támogatásra jogosult.”
+
+36. § A Hszt. 107. alcíme a következő 261/A. és 261/B. §-sal egészül ki:
+
+„261/A. § (1) Árvák kiegészítő támogatására jogosult a hivatásos állomány elhunyt tagjának – ideértve a 259. § (1) bekezdés b) pontja szerinti, a korábban a rendvédelmi szerv hivatásos állományába tartozott szolgálati nyugdíjast és egészségkárosodási ellátásra jogosultat – azon gyermeke, aki árvaellátásra jogosult.
+
+(2) Az árvák kiegészítő támogatásának a mértéke
+
+a) hősi halott árvája esetében a megállapított árvaellátás 50%-a,
+
+b) a hivatásos állomány szolgálati kötelmekkel összefüggő balesetben vagy szolgálati eredetű betegségben elhunyt tagjának árvája esetében a megállapított árvaellátás 25%-a, vagy
+
+c) a hivatásos állomány elhunyt tagjának a) és b) pont hatálya alá nem tartozó árvája esetében a megállapított árvaellátás 10%-a.
+
+261/B. § (1) Az árvák kiegészítő támogatására és a kiegészítő hozzátartozói támogatásra való jogosultságról
+
+a) a hősi halott özvegye vagy szülője esetében a nyugdíjmegállapító szerv,
+
+b) az a) ponttól eltérő esetben a hősi halott, valamint a szolgálati halott esetén a miniszter,
+
+c) az a) és b) ponttól eltérő esetben az országos parancsnok vagy országos főigazgató
+
+hivatalból eljárva határozatban dönt. A határozat alapján a támogatás mértékét a nyugdíj-megállapító szerv állapítja meg és a megállapított támogatást a nyugdíjfolyósító szerv folyósítja.
+
+(2) Az árvák kiegészítő támogatása és a kiegészítő hozzátartozói támogatás, valamint az azokkal kapcsolatos végrehajtási költségek forrását a központi költségvetés biztosítja.
+
+(3) Az árvák kiegészítő támogatásának és a kiegészítő hozzátartozói támogatás összegét a Tny. 62. §-ában foglaltak szerint kell emelni.
+
+(4) A kiegészítő hozzátartozói támogatás, valamint az árvák kiegészítő támogatásának jogalap nélküli felvétele esetén a Tny. visszafizetési és megtérítési kötelezettségre vonatkozó szabályai alapján kell eljárni. A jogalap nélkül felvett kiegészítő hozzátartozói támogatásból, valamint az árvák kiegészítő támogatásából eredő követelést a nyugdíjbiztosítási igazgatási szerv a Tny. szabályai alapján érvényesíti.”
 
 37. §
 
@@ -147,15 +400,19 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 
 42. §
 
-43. §
+43. § A Hszt. 340. §-a a következő 20. ponttal egészül ki:
 
-44. §
+(Felhatalmazást kap a Kormány, hogy rendeletben:)
+
+„20. meghatározza az árvák kiegészítő támogatásával és a kiegészítő hozzátartozói támogatás megállapításával kapcsolatos közigazgatási hatósági ügyekben a közigazgatási hatósági eljáráshoz kapcsolódó kiegészítő eljárási rendelkezéseket.”
+
+44. § A Hszt. 12. melléklete a 8. melléklet szerint módosul.
 
 45. §
 
 46. § (1)
 
-(2)
+(2) Nem lép hatályba az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény 178. §-ának a Hszt. 341. § (1) bekezdés 13. pont i) alpontját megállapító rendelkezése.
 
 #### 14. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
@@ -179,24 +436,917 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 
 55. §
 
-56. §
+56. § A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 409. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) Hatályát veszti a 72. alcím.”
 
 #### 16. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
 
-57. §
+57. § Az Esztv. 14. §-a a következő (7) és (8) bekezdéssel egészül ki:
+
+„(7) A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott döntéstámogatási feladatot az egészségügyi szolgáltató az alapnyilvántartás adatainak és azok változásainak, továbbá az az egészségügyi szolgáltató szervezeti adatainak jogszabályban meghatározottak szerint a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő feltöltésével hajtja végre.
+
+(8) Az egészségügyi szolgálati jogviszonyban álló személynek az alapnyilvántartás 2. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól és az azokban bekövetkezett változásról a (7) bekezdés szerinti információs rendszer közvetlen adatszolgáltatást nyújt – a Kormány rendeletében meghatározott rendben – a kincstár által működtetett központosított illetményszámfejtés részére.”
 
 ### 1. melléklet a 2020. évi CLXII. törvényhez
 
+#### Az adatgyűjtő modulba feltöltendő adatkörök a Kit. hatálya alatt álló politikai vezetők, politikai tanácsadók, politikai főtanácsadók, kabinetfőnökök, szakmai vezetők és kormánytisztviselők vonatkozásában
+
+- 1. Személyes adatok
+- 1.1. név
+- 1.2. születési név
+- 1.3. nem
+- 1.4. családi állapot
+- 1.5. állampolgárság
+- 1.6. születési hely és idő
+- 1.7. anyja születési neve
+- 1.8. társadalombiztosítási azonosító jel
+- 1.9. adóazonosító jel
+- 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 2. Elérhetőség
+- 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 2.2. elérhetőségi adatok (telefonszám, e-mail-cím, a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőség)
+- 3. Hozzátartozók és eltartottak
+- 3.1. név
+- 3.2. születési név
+- 3.3. születési hely és idő
+- 3.4. anyja születési neve
+- 3.5. társadalombiztosítási azonosító jel
+- 3.6. adóazonosító jel
+- 3.7. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 4. Okmányok (típus, azonosító, kategória)
+- 4.1. személyazonosító igazolvány adatai
+- 4.2. vezetői engedély adatai
+- 4.3. hatósági ellenőrzés végzésére jogosító igazolvány
+- 4.4. munkáltatói igazolvány
+- 4.5. belépésre jogosító igazolvány
+- 4.6. egészségügyi ellátásra jogosító igazolvány
+- 5. Képzettségek, végzettségek, vizsgák, továbbképzés
+- 5.1. végzettség szintje
+- 5.2. végzettség típusa
+- 5.3. oktatási intézmény neve
+- 5.4. kar, szak, szakirány megnevezése
+- 5.5. oklevél/bizonyítvány száma, kelte
+- 5.6. nyelvtudás (nyelvvizsga típusa, szintje, okirat száma, kelte)
+- 5.7. közigazgatási vizsga (alapvizsga, szakvizsga, okirat száma, kelte)
+- 5.8. szakmai vizsga (típusa, okirat száma, kelte)
+- 5.9. továbbképzés (típusa, megnevezése, megszerzés ideje, értéke)
+- 6. Jogviszony
+- 6.1. alkalmazó szerv, szervezeti egység
+- 6.2. jelenlegi jogviszony létesítésének dátuma
+- 6.3. aktuális foglalkoztatóhoz kinevezés dátuma
+- 6.4. pályázat ténye
+- 6.5. próbaidő (kezdete, vége, megszüntetést kezdeményező fél)
+- 6.6. besorolási adatok (kategória, kezdete, vége)
+- 6.7. megszűnés (jogcím, időpont)
+- 6.8. felmentési időszak (kezdete, vége)
+- 6.9. végkielégítésre jogosultság (mértéke)
+- 6.10. munkarend (heti munkaóra, munkaidő keret, munkaidő jellege)
+- 6.11. hatósági erkölcsi bizonyítvány (száma, kelte)
+- 6.12. alkalmassági vizsgálat (típusa, időpontja, minősítése)
+- 6.13. nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
+- 6.14. vagyonnyilatkozat tételi kötelezettség (időpont, esedékesség)
+- 6.15. szolgálati idő alapján járó jogosultságok (típus, időpont)
+- 7. Korábbi foglalkoztatás adatai
+- 7.1. munkahely (név, székhely)
+- 7.2. jogviszony típusa
+- 7.3. jogviszony kezdete, vége
+- 7.4. megszűnés jogcíme
+- 8. Vezetői előmenetel
+- 8.1. vezetői kategória
+- 8.2. vezetői kinevezés (kezdete, vége)
+- 8.3. megszűnés módja
+- 9. Személyi juttatások
+- 9.1. fizetési számlaszám
+- 9.2. illetmény (összeg, érvényesség kezdete, vége)
+- 9.3. illetményen kívüli juttatás (jelleg, összeg, kifizetés dátuma)
+- 9.4. célfeladat (céljuttatás időpontja, összege, feladat megnevezése és végdátuma, teljesítés dátuma)
+- 9.5. visszatérítési kötelezettség
+- 10. Teljesítményértékelés
+- 10.1. értékelési időszak (kezdete, vége)
+- 10.2. értékelés időpontja
+- 10.3. értékelés eredménye
+- 10.4. értékelés kategóriája
+- 11. Szabadság és távollét
+- 11.1. szabadság (jogcím, mérték)
+- 11.2. tartós távollét (jogcím, kezdet)
+- 11.3. tartós távollét megszűnésének várható és tényleges időpontja
+- 12. Kinevezéstől eltérő foglalkoztatás
+- 12.1. eltérő foglalkoztatás helye (szerv, szervezeti egység)
+- 12.2. munkáltatói intézkedés elrendelője
+- 12.3. eltérő foglalkoztatás kezdete és vége
+- 12.4. díjazás módja
+- 13. Fegyelmi és kártérítési felelősség, érdemtelenség
+- 13.1. fegyelmi eljárás típusa
+- 13.2. fegyelmi vétség rövid megnevezése
+- 13.3. fegyelmi tényállás rövid leírása
+- 13.4. alapeljárás kezdő és befejező időpontja
+- 13.5. másodfokú eljárás kezdő és befejező időpontja
+- 13.6. jogerős határozat száma
+- 13.7. jogerős döntés típusa
+- 13.8. kiszabott fegyelmi büntetés típusa
+- 13.9. fegyelmi büntetés hatálya alóli mentesülés időpontja
+- 13.10. felfüggesztés kezdő és végdátuma
+- 13.11. kártérítési eljárás típusa
+- 13.12. káresemény típusa
+- 13.13. kártérítési tényállás rövid leírása
+- 13.14. alapeljárás kezdő és befejező időpontja
+- 13.15. kártérítési eljárás jogerős határozatának száma
+- 13.16. jogerős döntés típusa
+- 13.17. kár mértéke
+- 13.18. kártérítés mértéke
+- 13.19. érdemtelenségi eljárás kezdő és befejező időpontja
+- 14. Összeférhetetlenség és versenytilalmi korlátozások
+- 14.1. engedélyezett vagy bejelentéshez kötött tevékenység létesítésének kezdete
+- 14.2. engedélyezett vagy bejelentéshez kötött tevékenység bejelentésének, tudomásra jutásának dátuma
+- 14.3. engedélyezett vagy bejelentéshez kötött tevékenység engedélyezésének időpontja
+- 14.4. engedélyezett vagy bejelentéshez kötött tevékenység megszűnésének időpontja
+- 14.5. összeférhetetlenség oka
+- 14.6. összeférhetetlenség megszüntetésére felszólítás időpontja
+- 14.7. összeférhetetlenség megszüntetésének időpontja
+- 14.8. versenytilalmi korlátozás jellege
+- 14.9. versenytilalmi korlátozás kezdete, vége
+- 14.10. ellenérték összege
+
 ### 2. melléklet a 2020. évi CLXII. törvényhez
+
+#### Az adatgyűjtő modulba feltöltendő adatkörök a Kttv. hatálya alatt álló közszolgálati jogviszonyban vagy kormányzati szolgálati jogviszonyban állók vonatkozásában
+
+- 1. Személyes adatok
+- 1.1. név
+- 1.2. születési név
+- 1.3. nem
+- 1.4. családi állapot
+- 1.5. állampolgárság
+- 1.6. születési hely és idő
+- 1.7. anyja születési neve
+- 1.8. társadalombiztosítási azonosító jel
+- 1.9. adóazonosító jel
+- 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 2. Elérhetőség
+- 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 2.2. elérhetőségi adatok (telefonszám, e-mail-cím, a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőség)
+- 3. Hozzátartozók és eltartottak
+- 3.1. név
+- 3.2. születési név
+- 3.3. születési hely és idő
+- 3.4. anyja születési neve
+- 3.5. társadalombiztosítási azonosító jel
+- 3.6. adóazonosító jel
+- 3.7. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 4. Okmányok (típus, azonosító, kategória)
+- 4.1. személyazonosító igazolvány adatai
+- 4.2. vezetői engedély adatai
+- 4.3. hatósági ellenőrzés végzésére jogosító igazolvány
+- 4.4. munkáltatói igazolvány
+- 4.5. belépésre jogosító igazolvány
+- 4.6. egészségügyi ellátásra jogosító igazolvány
+- 5. Képzettségek, végzettségek, vizsgák, továbbképzés
+- 5.1. végzettség szintje
+- 5.2. végzettség típusa
+- 5.3. oktatási intézmény neve
+- 5.4. kar, szak, szakirány megnevezése
+- 5.5. oklevél/bizonyítvány száma, kelte
+- 5.6. nyelvtudás (nyelvvizsga típusa, szintje, okirat száma, kelte)
+- 5.7. idegennyelv-tudási pótlékra jogosultság
+- 5.8. közigazgatási vizsga (alapvizsga, szakvizsga, okirat száma, kelte)
+- 5.9. szakmai vizsga (típusa, okirat száma, kelte)
+- 5.10. továbbképzés (típusa, megnevezése, megszerzés ideje, értéke)
+- 6. Jogviszony
+- 6.1. alkalmazó szerv, szervezeti egység
+- 6.2. jelenlegi jogviszony létesítésének dátuma
+- 6.3. aktuális foglalkoztatóhoz kinevezés dátuma
+- 6.4. pályázat ténye
+- 6.5. próbaidő (kezdete, vége, megszüntetést kezdeményező fél)
+- 6.6. besorolási adatok (kategória, osztály, kezdete, vége)
+- 6.7. fizetési fokozat (fizetési fokozatba lépés kezdete, vége)
+- 6.8. megszűnés (jogcím, időpont)
+- 6.9. vezetői fizetési fokozatba előresorolás dátuma, vezetői fizetési fokozat vége
+- 6.10. felmentési időszak (kezdete, vége)
+- 6.11. végkielégítésre jogosultság (mértéke)
+- 6.12. munkarend (heti munkaóra, munkaidő keret, munkaidő jellege)
+- 6.13. hatósági erkölcsi bizonyítvány (száma, kelte)
+- 6.14. alkalmassági vizsgálat (típusa, időpontja, minősítése)
+- 6.15. nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
+- 6.16. vagyonnyilatkozat tételi kötelezettség (időpont, esedékesség)
+- 6.17. tartalékállományba helyezés (kezdete, vége, megszűnés oka)
+- 6.18. szolgálati idő alapján járó jogosultságok (típus, időpont)
+- 6.19. polgármester esetében a tisztség jellege (főállású, társadalmi megbízatású)
+- 7. Korábbi foglalkoztatás adatai
+- 7.1. munkahely (név, székhely)
+- 7.2. jogviszony típusa
+- 7.3. jogviszony kezdete, vége
+- 7.4. megszűnés jogcíme
+- 8. Előmenetel
+- 8.1. cím (megnevezés, adományozás időpontja, visszavonás dátuma)
+- 8.2. vezetői kategória
+- 8.3. vezetői kinevezés (kezdete, vége)
+- 8.4. vezetői kinevezés megszűnésének módja
+- 9. Személyi juttatások
+- 9.1. fizetési számlaszám
+- 9.2. illetmény (összeg, érvényesség kezdete, vége)
+- 9.3. illetményen kívüli juttatás (jelleg, összeg, kifizetés dátuma)
+- 9.4. célfeladat (céljuttatás időpontja, összege, feladat megnevezése és végdátuma, teljesítés dátuma)
+- 9.5. visszatérítési kötelezettség
+- 10. Teljesítményértékelés és minősítés
+- 10.1. értékelési időszak (kezdete, vége)
+- 10.2. értékelés időpontja
+- 10.3. értékelés eredménye
+- 10.4. értékelés kategóriája
+- 10.5. minősítés időpontja
+- 10.6. minősítés eredménye
+- 10.7. minősítés típusa
+- 11. Szabadság és távollét
+- 11.1. szabadság (jogcím, mérték)
+- 11.2. tartós távollét (jogcím, kezdet)
+- 11.3. tartós távollét megszűnésének várható és tényleges időpontja
+- 12. Kinevezéstől eltérő foglalkoztatás
+- 12.1. eltérő foglalkoztatás helye (szerv, szervezeti egység)
+- 12.2. munkáltatói intézkedés elrendelője
+- 12.3. eltérő foglalkoztatás kezdete és vége
+- 12.4. díjazás módja
+- 13. Fegyelmi és kártérítési felelősség, méltatlanság
+- 13.1. fegyelmi eljárás típusa
+- 13.2. fegyelmi vétség rövid megnevezése
+- 13.3. fegyelmi tényállás rövid leírása
+- 13.4. fegyelmi eljárás kezdő és befejező időpontja
+- 13.5. fegyelmi jogerős határozat száma
+- 13.6. fegyelmi jogerős döntés típusa
+- 13.7. kiszabott fegyelmi büntetés típusa
+- 13.8. fegyelmi büntetés hatálya alóli mentesülés időpontja
+- 13.9. felfüggesztés kezdő és végdátuma
+- 13.10. kártérítési eljárás típusa
+- 13.11. káresemény típusa
+- 13.12. kártérítési tényállás rövid leírása
+- 13.13. alapeljárás kezdő és befejező időpontja
+- 13.14. kártérítési eljárás jogerős határozatának száma
+- 13.15. jogerős döntés típusa
+- 13.16. kár mértéke
+- 13.17. kártérítés mértéke
+- 13.18. méltatlansági eljárás (indításának kezdődátuma, vége, jogerős határozat száma)
+- 14. Összeférhetetlenség
+- 14.1. engedélyezett vagy bejelentéshez kötött tevékenység létesítésének kezdete
+- 14.2. engedélyezett vagy bejelentéshez kötött tevékenység bejelentésének, tudomásra jutásának dátuma
+- 14.3. engedélyezett vagy bejelentéshez kötött tevékenység engedélyezésének időpontja
+- 14.4. engedélyezett vagy bejelentéshez kötött tevékenység megszűnésének időpontja
+- 14.5. összeférhetetlenség oka
+- 14.6. összeférhetetlenség megszüntetésére felszólítás időpontja
+- 14.7. összeférhetetlenség megszüntetésének időpontja
 
 ### 3. melléklet a 2020. évi CLXII. törvényhez
 
+#### Az adatgyűjtő modulba feltöltendő adatkörök a Hszt. hatálya alatt álló hivatásos szolgálati jogviszonyban állók és tisztjelöltek vonatkozásában
+
+- 1. Személyes adatok
+- 1.1. név
+- 1.2. születési név
+- 1.3. nem
+- 1.4. családi állapot
+- 1.5. állampolgárság
+- 1.6. születési hely és idő
+- 1.7. anyja születési neve
+- 1.8. társadalombiztosítási azonosító jel
+- 1.9. adóazonosító jel
+- 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 2. Elérhetőség
+- 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 2.2. elérhetőségi adatok (telefonszám, e-mail-cím, a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőség)
+- 3. Hozzátartozók és eltartottak
+- 3.1. név
+- 3.2. születési név
+- 3.3. születési hely és idő
+- 3.4. anyja születési neve
+- 3.5. társadalombiztosítási azonosító jel
+- 3.6. adóazonosító jel
+- 3.7. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 4. Okmányok (típus, azonosító, kategória)
+- 4.1. személyazonosító igazolvány adatai
+- 4.2. vezetői engedély adatai
+- 4.3. útlevél adatai
+- 4.4. hatósági ellenőrzés végzésére jogosító igazolvány
+- 4.5. szolgálati igazolvány
+- 4.6. szolgálati jelvény
+- 4.7. belépésre jogosító igazolvány
+- 4.8. egészségügyi ellátásra jogosító igazolvány
+- 5. Képzettségek, végzettségek, vizsgák, továbbképzés
+- 5.1. végzettség szintje
+- 5.2. végzettség típusa
+- 5.3. oktatási intézmény neve
+- 5.4. kar, szak, szakirány megnevezése
+- 5.5. oklevél/bizonyítvány száma, kelte
+- 5.6. nyelvtudás (nyelvvizsga típusa, szintje, okirat száma, kelte)
+- 5.7. idegennyelv-tudási pótlékra jogosultság
+- 5.8. rendészeti vizsga (alapvizsga, szakvizsga, rendfokozati vizsga okirat száma, kelte)
+- 5.9. szakmai vizsga (típusa, okirat száma, kelte)
+- 5.10. továbbképzés (típusa, megnevezése, megszerzés ideje, értéke)
+- 6. Jogviszony
+- 6.1. alkalmazó szerv, szervezeti egység
+- 6.2. jelenlegi jogviszony létesítésének dátuma
+- 6.3. aktuális foglalkoztatóhoz kinevezés dátuma
+- 6.4. pályázat ténye
+- 6.5. állományviszony
+- 6.6. próbaidő (kezdete, vége, megszüntetést kezdeményező fél)
+- 6.7. besorolási adatok (osztály, kategória, kezdete, vége)
+- 6.8. fizetési fokozatba lépés kezdete, vége
+- 6.9. vezetői fizetési fokozatba előresorolás kezdete, vége
+- 6.10. besorolás szerinti rendfokozat
+- 6.11. címzetes rendfokozat
+- 6.12. megszűnés (jogcím, időpont)
+- 6.13. felmentési időszak (kezdete, vége)
+- 6.14. végkielégítésre jogosultság (mértéke)
+- 6.15. szolgálatteljesítési rend (heti szolgálatteljesítési idő, szolgálatteljesítési időkeret, szolgálatteljesítés jellege)
+- 6.16. hatósági erkölcsi bizonyítvány (száma, kelte)
+- 6.17. alkalmassági vizsgálat (típusa, időpontja, minősítése)
+- 6.18. nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
+- 6.19. vagyonnyilatkozat tételi kötelezettség (időpont, esedékesség)
+- 6.20. tartalékállományba helyezés (jogcíme, kezdete, vége, megszűnés oka)
+- 6.21. szolgálati idő alapján járó jogosultságok (típus, időpont)
+- 7. Korábbi foglalkoztatás adatai
+- 7.1. munkahely (név, székhely)
+- 7.2. jogviszony típusa
+- 7.3. jogviszony kezdete, vége
+- 7.4. megszűnés jogcíme
+- 8. Előmenetel, vezetői előmenetel
+- 8.1. rendfokozati előmenetel (kinevezés, előléptetés dátuma, rendfokozat megjelölése, előmenetel típusa, döntéshozó)
+- 8.2. szolgálat során elért címek (megnevezés, adományozás dátuma, visszavonás dátuma)
+- 8.3. vezetői kategória
+- 8.4. vezetői beosztás megnevezése
+- 8.5. vezetői kinevezés (kezdete, vége)
+- 8.6. megszűnés módja
+- 8.7. vezető kinevezési korlát ténye [Hszt. 58. § (5) bekezdése]
+- 9. Személyi juttatások
+- 9.1. fizetési számlaszám
+- 9.2. illetmény (összeg, érvényesség kezdete, vége, beleértve a teljesítményjuttatás adatait; tisztjelölt esetében az ösztöndíj mértéke)
+- 9.3. illetményen kívüli juttatás (jelleg, összeg, kifizetés dátuma)
+- 9.4. célfeladat (céljuttatás időpontja, összege, feladat megnevezése és végdátuma, teljesítés dátuma)
+- 9.5. visszatérítési kötelezettség
+- 10. Teljesítményértékelés és minősítés
+- 10.1. értékelési időszak (kezdete, vége)
+- 10.2. értékelés időpontja
+- 10.3. értékelés eredménye
+- 10.4. értékelés kategóriája
+- 10.5. minősítés időpontja
+- 10.6. minősítés eredménye
+- 10.7. minősítés típusa
+- 11. Szabadság és távollét
+- 11.1. szabadság (jogcím, mérték)
+- 11.2. tartós távollét (jogcím, kezdet)
+- 11.3. tartós távollét megszűnésének várható és tényleges időpontja
+- 11.4. szolgálati jogviszony szüneteltetése (jogcíme, kezdete, vége)
+- 12. Kinevezéstől eltérő foglalkoztatás
+- 12.1. eltérő foglalkoztatás helye (szerv, szervezeti egység)
+- 12.2. munkáltatói intézkedés elrendelője
+- 12.3. eltérő foglalkoztatás kezdete és vége
+- 12.4. díjazás módja
+- 12.5. rendelkezési állományba helyezés ténye
+- 13. Fegyelmi, büntetőjogi és kártérítési felelősség, méltatlanság
+- 13.1. fegyelmi eljárás típusa
+- 13.2. fegyelmi vétség rövid megnevezése
+- 13.3. fegyelmi tényállás rövid leírása
+- 13.4. alapeljárás kezdő és befejező időpontja
+- 13.5. másodfokú eljárás kezdő és befejező időpontja
+- 13.6. Becsületbíróság döntése, eljárás befejezése
+- 13.7. jogerős határozat száma
+- 13.8. jogerős döntés típusa
+- 13.9. kiszabott fegyelmi fenyítés típusa
+- 13.10. fegyelmi fenyítés hatálya alóli mentesülés időpontja
+- 13.11. szolgálati beosztásból felfüggesztés kezdő és végdátuma
+- 13.12. büntetőeljárás megindításának dátuma, jogerős lezárásának dátuma
+- 13.13. büntetőeljárást megalapozó törvényi tényállás
+- 13.14. bűncselekmény típusa
+- 13.15. büntetőeljárás lezárásának módja
+- 13.16. kiszabott intézkedés, büntetés
+- 13.17. felelősségrevonás törvényi tényállása
+- 13.18. büntetőeljárás megszűnésének oka
+- 13.19. szolgálati beosztásból felfüggesztés kezdő és végdátuma
+- 13.20. kártérítési eljárás típusa
+- 13.21. káresemény típusa
+- 13.22. kártérítési tényállás rövid leírása
+- 13.23. alapeljárás kezdő és befejező időpontja
+- 13.24. kártérítési eljárás jogerős határozatának száma
+- 13.25. jogerős döntés típusa
+- 13.26. kár mértéke
+- 13.27. kártérítés mértéke
+- 13.28. méltatlansági eljárás kezdő és befejező időpontja
+- 13.29. Becsületbírósági döntés, befejezése
+- 13.30. jogerős határozat száma
+- 13.31. jogerős döntés típusa
+- 14. Összeférhetetlenség
+- 14.1. engedélyezett vagy bejelentéshez kötött tevékenység létesítésének kezdete
+- 14.2. engedélyezett vagy bejelentéshez kötött tevékenység bejelentésének, tudomásra jutásának dátuma
+- 14.3. engedélyezett vagy bejelentéshez kötött tevékenység engedélyezésének időpontja
+- 14.4. engedélyezett vagy bejelentéshez kötött tevékenység megszűnésének időpontja
+- 14.5. összeférhetetlenség oka
+- 14.6. összeférhetetlenség megszüntetésére felszólítás időpontja
+- 14.7. összeférhetetlenség megszüntetésének időpontja
+
 ### 4. melléklet a 2020. évi CLXII. törvényhez
+
+#### Az adatgyűjtő modulba feltöltendő adatkörök a Hszt. hatálya alatt álló rendvédelmi igazgatási szolgálati jogviszonyban állók vonatkozásában
+
+- 1. Személyes adatok
+- 1.1. név
+- 1.2. születési név
+- 1.3. nem
+- 1.4. családi állapot
+- 1.5. állampolgárság
+- 1.6. születési hely és idő
+- 1.7. anyja születési neve
+- 1.8. társadalombiztosítási azonosító jel
+- 1.9. adóazonosító jel
+- 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 2. Elérhetőség
+- 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 2.2. elérhetőségi adatok (telefonszám, e-mail-cím, a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőség)
+- 3. Hozzátartozók és eltartottak
+- 3.1. név
+- 3.2. születési név
+- 3.3. születési hely és idő
+- 3.4. anyja születési neve
+- 3.5. társadalombiztosítási azonosító jel
+- 3.6. adóazonosító jel
+- 3.7. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 4. Okmányok (típus, azonosító, kategória)
+- 4.1. személyazonosító igazolvány adatai
+- 4.2. vezetői engedély adatai
+- 4.3. hatósági ellenőrzés végzésére jogosító igazolvány
+- 4.4. munkáltatói igazolvány
+- 4.5. belépésre jogosító igazolvány
+- 4.6. egészségügyi ellátásra jogosító igazolvány
+- 5. Képzettségek, végzettségek, vizsgák, továbbképzés
+- 5.1. végzettség szintje
+- 5.2. végzettség típusa
+- 5.3. oktatási intézmény neve
+- 5.4. kar, szak, szakirány megnevezése
+- 5.5. oklevél/bizonyítvány száma, kelte
+- 5.6. nyelvtudás (nyelvvizsga típusa, szintje, okirat száma, kelte)
+- 5.7. idegennyelv-tudási pótlékra jogosultság
+- 5.8. rendészeti vizsga (alapvizsga, szakvizsga, okirat száma, kelte)
+- 5.9. szakmai vizsga (típusa, okirat száma, kelte)
+- 5.10. továbbképzés (típusa, megnevezése, megszerzés ideje, értéke)
+- 6. Jogviszony
+- 6.1. alkalmazó szerv, szervezeti egység
+- 6.2. jelenlegi jogviszony létesítésének dátuma
+- 6.3. aktuális foglalkoztatóhoz kinevezés dátuma
+- 6.4. pályázat ténye
+- 6.5. próbaidő (kezdete, vége, megszüntetést kezdeményező fél)
+- 6.6. besorolási adatok (munkaköri osztály, munkaköri kategória, kezdete, vége)
+- 6.7. fizetési fokozatba lépés kezdete, vége
+- 6.8. vezetői munkaköri kategóriába kinevezés (kezdete, vége)
+- 6.9. megszűnés (jogcím, időpont)
+- 6.10. felmentési időszak (kezdete, vége)
+- 6.11. végkielégítésre jogosultság (mértéke)
+- 6.12. munkarend (heti munkaóra, munkaidő keret, munkaidő jellege)
+- 6.13. hatósági erkölcsi bizonyítvány (száma, kelte)
+- 6.14. alkalmassági vizsgálat (típusa, időpontja, minősítése)
+- 6.15. nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
+- 6.16. vagyonnyilatkozat tételi kötelezettség (időpont, esedékesség)
+- 6.17. szolgálati idő alapján járó jogosultságok (típus, időpont)
+- 7. Korábbi foglalkoztatás adatai
+- 7.1. munkahely (név, székhely)
+- 7.2. jogviszony típusa
+- 7.3. jogviszony kezdete, vége
+- 7.4. megszűnés jogcíme
+- 8. Vezetői előmenetel
+- 8.1. vezetői kinevezés (kezdete, vége)
+- 8.2. megszűnés módja
+- 9. Személyi juttatások
+- 9.1. fizetési számlaszám
+- 9.2. illetmény (összeg, érvényesség kezdete, vége)
+- 9.3. illetményen kívüli juttatás (jelleg, összeg, kifizetés dátuma)
+- 9.4. célfeladat (céljuttatás időpontja, összege, feladat megnevezése és végdátuma, teljesítés dátuma)
+- 9.5. visszatérítési kötelezettség
+- 10. Teljesítményértékelés
+- 10.1. értékelési időszak (kezdete, vége)
+- 10.2. értékelés időpontja
+- 10.3. értékelés eredménye
+- 10.4. értékelés kategóriája
+- 11. Szabadság és távollét
+- 11.1. szabadság (jogcím, mérték)
+- 11.2. tartós távollét (jogcím, kezdet)
+- 11.3. tartós távollét megszűnésének várható és tényleges időpontja
+- 12. Kinevezéstől eltérő foglalkoztatás
+- 12.1. eltérő foglalkoztatás helye (szerv, szervezeti egység)
+- 12.2. munkáltatói intézkedés elrendelője
+- 12.3. eltérő foglalkoztatás kezdete és vége
+- 12.4. díjazás módja
+- 13. Fegyelmi és kártérítési felelősség
+- 13.1. fegyelmi eljárás típusa
+- 13.2. fegyelmi vétség rövid megnevezése
+- 13.3. fegyelmi tényállás rövid leírása
+- 13.4. fegyelmi eljárás kezdő és befejező időpontja
+- 13.5. fegyelmi jogerős határozat száma
+- 13.6. fegyelmi jogerős döntés típusa
+- 13.7. kiszabott fegyelmi büntetés típusa
+- 13.8. fegyelmi büntetés hatálya alóli mentesülés időpontja
+- 13.9. felfüggesztés kezdő és végdátuma
+- 13.10. kártérítési eljárás típusa
+- 13.11. káresemény típusa
+- 13.12. kártérítési tényállás rövid leírása
+- 13.13. alapeljárás kezdő és befejező időpontja
+- 13.14. kártérítési eljárás jogerős határozatának száma
+- 13.15. jogerős döntés típusa
+- 13.16. kár mértéke
+- 13.17. kártérítés mértéke
+- 14. Összeférhetetlenség
+- 14.1. engedélyezett vagy bejelentéshez kötött tevékenység létesítésének kezdete
+- 14.2. engedélyezett vagy bejelentéshez kötött tevékenység bejelentésének, tudomásra jutásának dátuma
+- 14.3. engedélyezett vagy bejelentéshez kötött tevékenység engedélyezésének időpontja
+- 14.4. engedélyezett vagy bejelentéshez kötött tevékenység megszűnésének időpontja
+- 14.5. összeférhetetlenség oka
+- 14.6. összeférhetetlenség megszüntetésére felszólítás időpontja
+- 14.7. összeférhetetlenség megszüntetésének időpontja
 
 ### 5. melléklet a 2020. évi CLXII. törvényhez
 
+#### Az adatgyűjtő modulba feltöltendő adatkörök az Nsztv. pénzügyőri, pénzügyőr tisztjelölti és tisztviselői állománya vonatkozásában
+
+- 1. Személyes adatok
+- 1.1. név
+- 1.2. születési név
+- 1.3. nem
+- 1.4. családi állapot
+- 1.5. állampolgárság
+- 1.6. születési hely és idő
+- 1.7. anyja születési neve
+- 1.8. társadalombiztosítási azonosító jel
+- 1.9. adóazonosító jel
+- 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 2. Elérhetőség
+- 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 2.2. elérhetőségi adatok (telefonszám, e-mail-cím)
+- 3. Hozzátartozók és eltartottak
+- 3.1. név
+- 3.2. születési név
+- 3.3. születési hely és idő
+- 3.4. anyja születési neve
+- 3.5. társadalombiztosítási azonosító jel
+- 3.6. adóazonosító jel
+- 3.7. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 4. Okmányok (típus, azonosító, kategória)
+- 4.1. személyazonosító igazolvány adatai
+- 4.2. vezetői engedély adatai
+- 4.3. útlevél adatai
+- 4.4. hatósági ellenőrzés végzésére jogosító igazolvány
+- 4.5. munkáltatói igazolvány
+- 4.6. belépésre jogosító igazolvány
+- 4.7. egészségügyi ellátásra jogosító igazolvány
+- 5. Képzettségek, végzettségek, vizsgák, továbbképzés
+- 5.1. végzettség szintje
+- 5.2. végzettség típusa
+- 5.3. oktatási intézmény neve
+- 5.4. kar, szak, szakirány megnevezése
+- 5.5. oklevél/bizonyítvány száma, kelte
+- 5.6. nyelvtudás (nyelvvizsga típusa, szintje, okirat száma, kelte)
+- 5.7. idegennyelv-tudási pótlékra jogosultság
+- 5.8. közigazgatási és rendészeti vizsga (alapvizsga, szakvizsga, okirat száma, kelte)
+- 5.9. szakmai vizsga (típusa, okirat száma, kelte)
+- 5.10. továbbképzés (típusa, megnevezése, megszerzés ideje, értéke)
+- 6. Jogviszony
+- 6.1. alkalmazó szerv, szervezeti egység
+- 6.2. jelenlegi jogviszony létesítésének dátuma
+- 6.3. aktuális foglalkoztatóhoz kinevezés dátuma
+- 6.4. pályázat ténye
+- 6.5. próbaidő (kezdete, vége, megszüntetést kezdeményező fél)
+- 6.6. besorolási adatok (kezdete, vége)
+- 6.7. rendfokozat (pénzügyőr)
+- 6.8. fizetési fokozat (fizetési fokozatba lépés kezdete, vége)
+- 6.9. megszűnés (jogcím, időpont)
+- 6.10. vezetői fizetési fokozatba előresorolás dátuma, vezetői fizetési fokozat vége
+- 6.11. felmentési időszak (kezdete, vége)
+- 6.12. végkielégítésre jogosultság (mértéke)
+- 6.13. munkarend (heti munkaóra, munkaidő keret, munkaidő jellege)
+- 6.14. hatósági erkölcsi bizonyítvány (száma, kelte)
+- 6.15. alkalmassági vizsgálat (típusa, időpontja, minősítése)
+- 6.16. nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
+- 6.17. vagyonnyilatkozat tételi kötelezettség (időpont, esedékesség)
+- 6.18. tartalékállományba helyezés (kezdete, vége, megszűnés oka)
+- 6.19. szolgálati idő alapján járó jogosultságok (típus, időpont)
+- 7. Korábbi foglalkoztatás adatai
+- 7.1. munkahely (név, székhely)
+- 7.2. jogviszony típusa
+- 7.3. jogviszony kezdete, vége
+- 7.4. megszűnés jogcíme
+- 8. Előmenetel
+- 8.1. cím (megnevezés, adományozás időpontja, visszavonás dátuma)
+- 8.2. vezetői kategória
+- 8.3. vezetői kinevezés (kezdete, vége)
+- 8.4. vezetői kinevezés megszűnésének módja
+- 9. Személyi juttatások
+- 9.1. fizetési számlaszám
+- 9.2. illetmény (összeg, érvényesség kezdete, vége)
+- 9.3. illetményen kívüli juttatás (jelleg, összeg, kifizetés dátuma)
+- 9.4. célfeladat (céljuttatás időpontja, összege, feladat megnevezése és végdátuma, teljesítés dátuma)
+- 9.5. visszatérítési kötelezettség
+- 10. Teljesítményértékelés
+- 10.1. értékelési időszak (kezdete, vége)
+- 10.2. értékelés időpontja
+- 10.3. értékelés eredménye
+- 10.4. értékelés kategóriája
+- 11. Szabadság és távollét
+- 11.1. szabadság (jogcím, mérték)
+- 11.2. tartós távollét (jogcím, kezdet)
+- 11.3. tartós távollét megszűnésének várható és tényleges időpontja
+- 12. Kinevezéstől eltérő foglalkoztatás
+- 12.1. eltérő foglalkoztatás helye (szerv, szervezeti egység)
+- 12.2. munkáltatói intézkedés elrendelője
+- 12.3. eltérő foglalkoztatás kezdete és vége
+- 12.4. díjazás módja
+- 13. Fegyelmi és kártérítési felelősség, méltatlanság
+- 13.1. fegyelmi eljárás típusa
+- 13.2. fegyelmi vétség rövid megnevezése
+- 13.3. fegyelmi tényállás rövid leírása
+- 13.4. fegyelmi eljárás kezdő és befejező időpontja
+- 13.5. fegyelmi jogerős határozat száma
+- 13.6. fegyelmi jogerős döntés típusa
+- 13.7. kiszabott fegyelmi büntetés típusa
+- 13.8. fegyelmi büntetés hatálya alóli mentesülés időpontja
+- 13.9. felfüggesztés kezdő és végdátuma
+- 13.10. kártérítési eljárás típusa
+- 13.11. káresemény típusa
+- 13.12. kártérítési tényállás rövid leírása
+- 13.13. alapeljárás kezdő és befejező időpontja
+- 13.14. kártérítési eljárás jogerős határozatának száma
+- 13.15. jogerős döntés típusa
+- 13.16. kár mértéke
+- 13.17. kártérítés mértéke
+- 13.18. méltatlansági eljárás (indításának kezdődátuma, vége, jogerős határozat száma)
+- 14. Összeférhetetlenség
+- 14.1. engedélyezett vagy bejelentéshez kötött tevékenység létesítésének kezdete
+- 14.2. engedélyezett vagy bejelentéshez kötött tevékenység bejelentésének, tudomásra jutásának dátuma
+- 14.3. engedélyezett vagy bejelentéshez kötött tevékenység engedélyezésének időpontja
+- 14.4. engedélyezett vagy bejelentéshez kötött tevékenység megszűnésének időpontja
+- 14.5. összeférhetetlenség oka
+- 14.6. összeférhetetlenség megszüntetésére felszólítás időpontja
+- 14.7. összeférhetetlenség megszüntetésének időpontja
+
 ### 6. melléklet a 2020. évi CLXII. törvényhez
+
+#### Az adatgyűjtő modulba feltöltendő adatkörök az Esztv. hatálya alá tartozó egészségügyi szolgálati jogviszonyban állók vonatkozásában
+
+- 1. Személyes adatok
+- 1.1. név (egészségügyi tevékenység során használt titulus, egészségügyi tevékenység során használt név is)
+- 1.2. születési név
+- 1.3. nem
+- 1.4. családi állapot
+- 1.5. állampolgárság
+- 1.6. születési hely és idő
+- 1.7. anyja születési neve
+- 1.8. társadalombiztosítási azonosító jel
+- 1.9. adóazonosító jel
+- 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 2. Elérhetőség
+- 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 2.2. elérhetőségi adatok (telefonszám, e-mail-cím)
+- 3. Hozzátartozók és eltartottak
+- 3.1. név
+- 3.2. születési név
+- 3.3. születési hely és idő
+- 3.4. anyja születési neve
+- 3.5. társadalombiztosítási azonosító jel
+- 3.6. adóazonosító jel
+- 3.7. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 4. Okmányok (típus, azonosító, kategória)
+- 4.1. személyazonosító igazolvány adatai
+- 4.2. vezetői engedély adatai
+- 4.3. munkáltatói igazolvány
+- 4.4. belépésre jogosító igazolvány
+- 4.5. egészségügyi ellátásra jogosító igazolvány
+- 5. Képzettségek, végzettségek, vizsgák, továbbképzés
+- 5.1. végzettség szintje
+- 5.2. végzettség típusa
+- 5.3. oktatási intézmény neve
+- 5.4. kar, szak, szakirány megnevezése
+- 5.5. oklevél/bizonyítvány száma, kelte
+- 5.6. honosított végzettség ténye
+- 5.7. honosítás ideje, helye, intézet
+- 5.8. honosító oklevél száma
+- 5.9. nyelvtudás (nyelvvizsga típusa, szintje, okirat száma, kelte)
+- 5.10. idegennyelv-tudási pótlékra jogosultság
+- 5.11. továbbképzés (típusa, megnevezése, megszerzés ideje, értéke)
+- 6. Jogviszony
+- 6.1. alkalmazó szerv, szervezeti egység
+- 6.2. jelenlegi jogviszony létesítésének dátuma
+- 6.3. aktuális foglalkoztatóhoz kinevezés dátuma
+- 6.4. pályázat ténye
+- 6.5. próbaidő (kezdete, vége, megszüntetést kezdeményező fél)
+- 6.6. besorolási adatok (fizetési osztály, kezdete, vége)
+- 6.7. fizetési fokozat (fizetési fokozatba lépés kezdete, vége)
+- 6.8. megszűnés (jogcím, időpont)
+- 6.9. magasabb vezetői és vezetői munkakörbe sorolás dátuma, vége
+- 6.10. felmentési időszak (kezdete, vége)
+- 6.11. végkielégítésre jogosultság (mértéke)
+- 6.12. munkarend (heti munkaóra, munkaidő keret, munkaidő jellege)
+- 6.13. hatósági erkölcsi bizonyítvány (száma, kelte)
+- 6.14. alkalmassági vizsgálat (típusa, időpontja, minősítése)
+- 6.15. szolgálati idő alapján járó jogosultságok (típus, időpont)
+- 6.16. működési nyilvántartás adatai (szakképesítés azonosító, érvényesség kezdő és végdátuma, korlátozott alkalmasság ténye, szüneteltetés ténye)
+- 7. Korábbi foglalkoztatás adatai
+- 7.1. munkahely (név, székhely)
+- 7.2. jogviszony típusa
+- 7.3. jogviszony kezdete, vége
+- 7.4. megszűnés jogcíme
+- 8. Előmenetel
+- 8.1. cím (megnevezés, adományozás időpontja, visszavonás dátuma)
+- 9. Személyi juttatások
+- 9.1. fizetési számlaszám
+- 9.2. illetmény (összeg, érvényesség kezdete, vége)
+- 9.3. illetményen kívüli juttatás (jelleg, összeg, kifizetés dátuma)
+- 9.4. visszatérítési kötelezettség
+- 10. Minősítés
+- 10.1. minősítés időpontja
+- 10.2. minősítés eredménye
+- 10.3. minősítés típusa
+- 11. Szabadság és távollét
+- 11.1. szabadság (jogcím, mérték)
+- 11.2. tartós távollét (jogcím, kezdet)
+- 11.3. tartós távollét megszűnésének várható és tényleges időpontja
+- 12. Kinevezéstől eltérő foglalkoztatás
+- 12.1. egészségügyi szolgálati munkaszerződéstől eltérő foglalkoztatás helye (szerv, szervezeti egység)
+- 12.2. munkáltatói intézkedés elrendelője
+- 12.3. eltérő foglalkoztatás kezdete és vége
+- 12.4. díjazás módja
+- 13. Kártérítési felelősség
+- 13.1. kártérítési eljárás típusa
+- 13.2. káresemény típusa
+- 13.3. kártérítési tényállás rövid leírása
+- 13.4. alapeljárás kezdő és befejező időpontja
+- 13.5. kártérítési eljárás jogerős határozatának száma
+- 13.6. jogerős döntés típusa
+- 13.7. kár mértéke
+- 13.8. kártérítés mértéke
+- 14. Összeférhetetlenség
+- 14.1. engedélyezett vagy bejelentéshez kötött tevékenység létesítésének kezdete
+- 14.2. engedélyezett vagy bejelentéshez kötött tevékenység bejelentésének, tudomásra jutásának dátuma
+- 14.3. engedélyezett vagy bejelentéshez kötött tevékenység engedélyezésének időpontja
+- 14.4. engedélyezett vagy bejelentéshez kötött tevékenység megszűnésének időpontja
+- 14.5. összeférhetetlenség oka
+- 14.6. összeférhetetlenség megszüntetésére felszólítás időpontja
+- 14.7. összeférhetetlenség megszüntetésének időpontja
 
 ### 7. melléklet a 2020. évi CLXII. törvényhez
 
+#### Az adatgyűjtő modulba feltöltendő adatkörök a Kit., a Kttv., a Hszt. és az Nsztv. hatálya alá tartozó munkavállalók vonatkozásában
+
+- 1. Személyes adatok
+- 1.1. név
+- 1.2. születési név
+- 1.3. nem
+- 1.4. családi állapot
+- 1.5. állampolgárság
+- 1.6. születési hely és idő
+- 1.7. anyja születési neve
+- 1.8. társadalombiztosítási azonosító jel
+- 1.9. adóazonosító jel
+- 1.10. nyugdíjas foglalkoztatott (nyugállományba helyezés ideje, nyugdíjfolyósítási törzsszám, nyugdíjfolyósítás kezdete)
+- 2. Elérhetőség
+- 2.1. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 2.2. elérhetőségi adatok (telefonszám, e-mail-cím, a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőség)
+- 3. Hozzátartozók és eltartottak
+- 3.1. név
+- 3.2. születési név
+- 3.3. születési hely és idő
+- 3.4. anyja születési neve
+- 3.5. társadalombiztosítási azonosító jel
+- 3.6. adóazonosító jel
+- 3.7. címadatok (lakóhely, tartózkodási hely, értesítési cím)
+- 4. Okmányok (típus, azonosító, kategória)
+- 4.1. személyazonosító igazolvány adatai
+- 4.2. vezetői engedély adatai
+- 4.3. munkáltatói igazolvány
+- 4.4. belépésre jogosító igazolvány
+- 4.5. egészségügyi ellátásra jogosító igazolvány
+- 5. Képzettségek, végzettségek, vizsgák, továbbképzés
+- 5.1. végzettség szintje
+- 5.2. végzettség típusa
+- 5.3. oktatási intézmény neve
+- 5.4. kar, szak, szakirány megnevezése
+- 5.5. oklevél/bizonyítvány száma, kelte
+- 5.6. nyelvtudás (nyelvvizsga típusa, szintje, okirat száma, kelte)
+- 5.7. közigazgatási/rendészeti vizsga (alapvizsga, szakvizsga, okirat száma, kelte)
+- 5.8. szakmai vizsga (típusa, okirat száma, kelte)
+- 6. Jogviszony
+- 6.1. alkalmazó szerv, szervezeti egység
+- 6.2. jelenlegi jogviszony létesítésének dátuma
+- 6.3. aktuális foglalkoztatóval megkötött munkaszerződés dátuma
+- 6.4. pályázat ténye
+- 6.5. próbaidő (kezdete, vége, megszüntetést kezdeményező fél)
+- 6.6. munkakör megnevezése
+- 6.7. megszűnés (jogcím, időpont)
+- 6.8. felmentési időszak (kezdete, vége)
+- 6.9. végkielégítésre jogosultság (mértéke)
+- 6.10. munkarend (heti munkaóra, munkaidő keret, munkaidő jellege)
+- 6.11. hatósági erkölcsi bizonyítvány (száma, kelte)
+- 6.12. alkalmassági vizsgálat (típusa, időpontja, minősítése)
+- 6.13. nemzetbiztonsági ellenőrzés (érvényesség, eredmény)
+- 6.14. vagyonnyilatkozat tételi kötelezettség (időpont, esedékesség)
+- 7. Korábbi foglalkoztatás adatai
+- 7.1. munkahely (név, székhely)
+- 7.2. jogviszony típusa
+- 7.3. jogviszony kezdete, vége
+- 7.4. megszűnés jogcíme
+- 8. Vezetői előmenetel
+- 8.1. vezetői munkakör (kezdete, vége)
+- 8.2. megszűnés módja
+- 9. Személyi juttatások
+- 9.1. fizetési számlaszám
+- 9.2. munkabér (összeg, érvényesség kezdete, vége)
+- 9.3. munkabéren kívüli juttatás (jelleg, összeg, kifizetés dátuma)
+- 9.4. visszatérítési kötelezettség
+- 10. Szabadság és távollét
+- 10.1. szabadság (jogcím, mérték)
+- 10.2. tartós távollét (jogcím, kezdet)
+- 10.3. tartós távollét megszűnésének várható és tényleges időpontja
+- 11. Kártérítési felelősség
+- 11.1. kártérítési eljárás típusa
+- 11.2. káresemény típusa
+- 11.3. kártérítési tényállás rövid leírása
+- 11.4. alapeljárás kezdő és befejező időpontja
+- 11.5. kártérítési eljárás jogerős határozatának száma
+- 11.6. jogerős döntés típusa
+- 11.7. kár mértéke
+- 11.8. kártérítés mértéke
+- 12. Összeférhetetlenség és versenytilalmi korlátozások
+- 12.1. engedélyezett vagy bejelentéshez kötött tevékenység létesítésének kezdete
+- 12.2. engedélyezett vagy bejelentéshez kötött tevékenység bejelentésének, tudomásra jutásának dátuma
+- 12.3. engedélyezett vagy bejelentéshez kötött tevékenység engedélyezésének időpontja
+- 12.4. engedélyezett vagy bejelentéshez kötött tevékenység megszűnésének időpontja
+- 12.5. összeférhetetlenség oka
+- 12.6. összeférhetetlenség megszüntetésére felszólítás időpontja
+- 12.7. összeférhetetlenség megszüntetésének időpontja
+- 12.8. versenytilalmi korlátozás jellege
+- 12.9. versenytilalmi korlátozás kezdete, vége
+- 12.10. ellenérték összege
+
 ### 8. melléklet a 2020. évi CLXII. törvényhez
+
+- 1. A Hszt. 12. mellékletében foglalt „„A” munkaköri kategória” megjelölésű táblázat D):2 mezője helyébe a következő mező lép:
+
+|  | [D) |
+| --- | --- |
+|  | A fizetési fokozat szerinti illetmény alsó határa (Ft)] |
+| (2.) | garantált bérminimum |
+
+- 2. A Hszt. 12. mellékletében foglalt „„A” munkaköri kategória” megjelölésű táblázat E):2–E):7 mezője helyébe a következő mezők lépnek:
+
+|  | [E) |
+| --- | --- |
+|  | A fizetési fokozat szerinti illetmény felső határa (Ft)] |
+| (2.) | 260 000 |
+| (3.) | 290 000 |
+| (4.) | 325 000 |
+| (5.) | 360 000 |
+| (6.) | 390 000 |
+| (7.) | 420 000 |
+
+- 3. A Hszt. 12. mellékletében foglalt „„B” munkaköri kategória” megjelölésű táblázat B):2 mezője helyébe a következő mező lép:
+
+|  | [B) |
+| --- | --- |
+|  | Felső határ (Ft)] |
+| (2.) | 555 000 |
+
+- 4. A Hszt. 12. mellékletében foglalt „„C” munkaköri kategória” megjelölésű táblázat E):2–E):7 mezője helyébe a következő mezők lépnek:
+
+|  | [E) |
+| --- | --- |
+|  | A fizetési fokozat szerinti illetmény felső határa (Ft)] |
+| (2.) | 295 000 |
+| (3.) | 325 000 |
+| (4.) | 355 000 |
+| (5.) | 380 000 |
+| (6.) | 405 000 |
+| (7.) | 435 000 |
+
+- 5. A Hszt. 12. mellékletében foglalt „„D” munkaköri kategória” megjelölésű táblázat E):2–E):7 mezője helyébe a következő mezők lépnek:
+
+|  | [E) |
+| --- | --- |
+|  | A fizetési fokozat szerinti illetmény felső határa (Ft)] |
+| (2.) | 360 000 |
+| (3.) | 385 000 |
+| (4.) | 400 000 |
+| (5.) | 430 000 |
+| (6.) | 460 000 |
+| (7.) | 510 000 |
+
+- 6. A Hszt. 12. mellékletében foglalt „„E” munkaköri kategória” megjelölésű táblázat E):2–E):7 mezője helyébe a következő mezők lépnek:
+
+|  | [E) |
+| --- | --- |
+|  | A fizetési fokozat szerinti illetmény felső határa (Ft)] |
+| (2.) | 400 000 |
+| (3.) | 435 000 |
+| (4.) | 470 000 |
+| (5.) | 500 000 |
+| (6.) | 535 000 |
+| (7.) | 570 000 |
+
+- 7. A Hszt. 12. mellékletében foglalt „Vezetői munkaköri osztály” megjelölésű táblázat C):1–C):3 mezője helyébe a következő mezők lépnek:
+
+|  | [C) |
+| --- | --- |
+|  | A vezetői munkaköri kategória szerinti illetmény felső határa (Ft)] |
+| (1.) | 1 110 000 |
+| (2.) | 885 000 |
+| (3.) | 775 000 |

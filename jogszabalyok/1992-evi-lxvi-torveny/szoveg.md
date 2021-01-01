@@ -193,6 +193,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - i) közokiratot ad ki a nyilvántartott adatokról;
 - j) törvény hatálya alá tartozó tevékenységével összefüggésben gondoskodik a személyes adatok védelméről;
 - k) ellátja a személyazonosítás céljára szolgáló, illetve jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.
+- l) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett letelepedett jogállásának nyilvántartásba vételével kapcsolatos feladatokat.
 
 9. § (1) A nyilvántartás adatkezelője a nyilvántartást kezelő szerv.
 
@@ -519,12 +520,15 @@ van lehetőség.
 - q) a kincstár a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, valamint az értesítési cím adatok, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a TAJ szám nyilvántartásának vezetésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben;
 - r) az út- és úthasználati díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 - s) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálati irodája az anyakönyvi eljárással és az állampolgársági eljárással kapcsolatos feladatainak, valamint más, törvényben meghatározott feladatainak ellátásához,
+- sz) a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok kivételével a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjáradékkal kapcsolatos ügyekben eljáró szerv a művészjáradékkal összefüggő törvényi feladatai ellátásához;
 - t) a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc-felügyeleti információs rendszer létrehozásával és működtetésével összefüggő feladatai ellátásához,
 - u) a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára, helyére és idejére, a tartózkodási helyre, az értesítési címre vonatkozó adatok kivételével a mezőgazdasági és vidékfejlesztési támogatási szerv az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer létrehozásával és működtetésével összefüggő feladatai ellátásához;
 - v) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára, helyére és idejére, a tartózkodási helyre, az értesítési címre vonatkozó adatok kivételével az erdészeti hatóság az erdőgazdálkodói nyilvántartás működtetésével összefüggő feladatai ellátásához;
 - w) – az a)–v) pont eltérő rendelkezése hiányában – a közigazgatási hatóság az általa vezetett közhiteles hatósági nyilvántartás törvényben meghatározott adattartalmának részét képező adatok és a nyilvántartásból való, elhalálozás miatti kikerülés ideje tekintetében;
 - z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől;
 - zs) a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, az értesítésicím-adat és a nyilvántartásból kikerülés helye adatok kivételével az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartásban szereplő polgárok azonosítása és ellenőrzése céljából.
+
+21/A. § Az e törvény felhatalmazása alapján – a 21. §-ban meghatározottak mellett – a 17. § (2) bekezdés b) pontja szerinti adatokat jogosult igényelni az értesítési cím, az állampolgárság, a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való – az elhalálozáson kívüli – kikerülés oka, helye és ideje adatok kivételével a vasúti közlekedési hatóság az elektronikus vasúti személyi és szervezeti nyilvántartás vezetése céljából.
 
 22. § E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:
 
@@ -665,7 +669,7 @@ a lakcímadatot jogszabályban meghatározott eljárásban utólagosan, a polgá
 
 (4) Nem kell bejelenteni a tartózkodási helyét annak a polgárnak, aki
 
-- a) sorkatonai vagy tartalékos katonai szolgálat teljesítése, illetve gyógyintézeti kezelés miatt nem tartózkodik lakóhelyén;
+- a) gyógyintézeti kezelés miatt nem tartózkodik lakóhelyén;
 - b) letartóztatásban van, vagy szabadságvesztés büntetését tölti.
 
 27/A. § (1) A szállásadó bármely járási hivatalnál személyesen vagy az elektronikus azonosítást követően elektronikus kapcsolattartás útján nyilatkozhat arról, hogy a lakcímbejelentéshez szükséges hozzájárulását olyan módon adja meg, hogy
@@ -1250,6 +1254,8 @@ adatvédelmi tisztviselőt nevez ki.
 (3) A nyilvántartás szervei a bevándorolt polgárok adatainak egyeztetése céljából a központi idegenrendészeti nyilvántartást kezelő szervtől jogosultak igényelni az érintettek állampolgársági adatait.
 
 49. § A magyar állampolgárságról szóló 1993. évi LV. törvény 4. § (3) bekezdése vagy 5. §-a alapján – 2011. január 1-je és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény, a magyar állampolgárságról szóló 1993. évi LV. törvény és az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2011. évi XIV. törvény (a továbbiakban: 1. módosító törvény) hatálybalépése között – honosított vagy visszahonosított külföldön élő polgárok adatairól a nyilvántartásba vétel érdekében az állampolgársági ügyekben eljáró szerv az 1. módosító törvény hatálybalépését követő harminc napon belül értesíti a központi szervet.
+
+49/A. § Az egyesült királysági állampolgár, valamint egyesült királysági állampolgár harmadik ország állampolgárságával rendelkező családtagja szabad mozgás és tartózkodás joga a nyilvántartásban 2021. december 31. napjával megszüntetésre kerül.
 
 50. § (1) E törvény a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló 2007/533/IB tanácsi határozat 38–39. és 45–49. cikkének átültetését szolgálja.
 
