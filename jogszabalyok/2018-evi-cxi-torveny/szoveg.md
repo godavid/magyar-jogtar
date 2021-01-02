@@ -4,307 +4,305 @@ egyes agrárszabályozási tárgyú törvények módosításáról
 
 #### 1. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
 #### 2. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
-5. §
+#### 5. §
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
 #### 3. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
 #### 4. Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény módosítása
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
 #### 5. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
 #### 6. A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény módosítása
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
 #### 7. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
 #### 8. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. § Az Éltv. 10/A. §-a helyébe a következő rendelkezés lép:
+#### 25. §
 
-„10/A. § Az ökológiai termelésre utaló kifejezéssel csak olyan élelmiszer vagy takarmány hozható forgalomba, amely rendelkezik az ökológiai termelésről és az ökológiai termékek jelöléséről, valamint a 834/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. május 30-i 2018/848/EU rendelet (a továbbiakban: Öko EK rendelet) szerinti tanúsítvánnyal, és megfelel az e törvényben, az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott feltételeknek.”
+#### 26. §
 
-26. §
+#### 27. §
 
-27. §
+#### 28. §
 
-28. §
+#### 29. §
 
-29. §
+#### 30. §
 
-30. §
+#### 31. §
 
-31. §
+#### 32. §
 
-32. §
+#### 33. §
 
-33. §
+#### 34. §
 
-34. §
+#### 35. §
 
-35. §
+#### 36. §
 
-36. §
+#### 37. §
 
-37. §
+#### 38. §
 
-38. §
+#### 39. §
 
-39. §
+#### 40. §
 
-40. §
+#### 41. §
 
-41. §
+#### 42. §
 
-42. §
+#### 43. §
 
-43. §
+#### 44. §
 
-44. §
+#### 45. §
 
-45. §
+#### 46. §
 
-46. §
+#### 47. §
 
-47. §
+#### 48. §
 
-48. §
+#### 49. §
 
-49. §
+#### 50. §
 
-50. §
+#### 51. §
 
-51. §
+#### 52. §
 
-52. §
+#### 53. §
 
-53. §
+#### 54. §
 
-54. §
+#### 55. §
 
-55. §
+#### 56. §
 
-56. §
+#### 57. §
 
-57. §
-
-58. §
+#### 58. §
 
 #### 9. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
-62. §
+#### 62. §
 
-63. §
+#### 63. §
 
-64. §
+#### 64. §
 
-65. §
+#### 65. §
 
-66. §
+#### 66. §
 
 #### 10. A magyar nemzeti értékekről és a hungarikumokról szóló 2012. évi XXX. törvény módosítása
 
-67. §
+#### 67. §
 
-68. §
+#### 68. §
 
-69. §
+#### 69. §
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
-74. §
+#### 74. §
 
-75. §
+#### 75. §
 
 #### 11. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-76. §
+#### 76. §
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
 #### 12. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
-79. §
+#### 79. §
 
-80. §
+#### 80. §
 
 #### 13. A hegyközségekről szóló 2012. évi CCXIX. törvény módosítása
 
-81. §
+#### 81. §
 
-82. §
+#### 82. §
 
-83. §
+#### 83. §
 
-84. §
+#### 84. §
 
-85. §
+#### 85. §
 
-86. §
+#### 86. §
 
-87. §
+#### 87. §
 
-88. §
+#### 88. §
 
-89. §
+#### 89. §
 
-90. §
+#### 90. §
 
-91. §
+#### 91. §
 
-92. §
+#### 92. §
 
-93. §
+#### 93. §
 
-94. §
+#### 94. §
 
-95. §
+#### 95. §
 
-96. §
+#### 96. §
 
 #### 14. A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény módosítása
 
-97. §
+#### 97. §
 
-98. §
+#### 98. §
 
-99. §
+#### 99. §
 
-100. §
+#### 100. §
 
-101. §
+#### 101. §
 
-102. §
+#### 102. §
 
-103. §
+#### 103. §
 
-104. §
+#### 104. §
 
-105. §
+#### 105. §
 
-106. §
+#### 106. §
 
-107. §
+#### 107. §
 
-108. §
+#### 108. §
 
-109. §
+#### 109. §
 
-110. §
+#### 110. §
 
-111. §
+#### 111. §
 
-112. §
+#### 112. §
 
-113. §
+#### 113. §
 
-114. §
+#### 114. §
 
-115. §
+#### 115. §
 
-116. §
+#### 116. §
 
-117. §
+#### 117. §
 
-118. §
+#### 118. §
 
-119. §
+#### 119. §
 
-120. §
+#### 120. §
 
-121. §
+#### 121. §
 
-122. §
+#### 122. §
 
-123. §
+#### 123. §
 
-124. §
+#### 124. §
 
-125. §
+#### 125. §
 
-126. §
+#### 126. §
 
-127. §
+#### 127. §
 
-128. §
+#### 128. §
 
-129. §
+#### 129. §
 
-130. §
+#### 130. §
 
-131. §
+#### 131. §
 
-132. §
+#### 132. §
 
-133. §
+#### 133. §
 
 #### 15. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény és egyéb kapcsolódó törvények módosításáról szóló 2017. évi LVI. törvény módosítása
 
-134. §
+#### 134. §
 
 #### 16. Az élelmiszerlánccal kapcsolatos egyes törvények módosításáról szóló 2017. évi LXIV. törvény módosítása
 
-135. §
+#### 135. §
 
 #### 17. Záró rendelkezések
 
@@ -325,8 +323,5 @@ egyes agrárszabályozási tárgyú törvények módosításáról
 - 5.
 - 6.
 - 7.
-- 8. Az Éltv. Mellékletének 53. pontja helyébe a következő rendelkezés lép:
-
-„53. ökológiai termelés: az Öko EK rendelet 3. cikkének a) 1. pontjában meghatározott fogalom szerinti tevékenység;”
-
+- 8.
 - 9.

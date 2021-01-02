@@ -452,37 +452,11 @@ a jogviszony megszűnésekor érvényes illetményének megfelelő összegű vé
 
 (18) A 4. § (6) bekezdését nem kell alkalmazni abban az esetben, ha az egészségügyi szolgálati jogviszonyban álló személy e törvény hatálybalépését megelőzően már megkezdte a beteg ugyanazon betegségének kezelését, amivel a beteget az e törvény hatálya alá tartozó egészségügyi szolgáltatónál e törvény hatálybalépését követően kezeli.
 
-#### 20. § [A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása]
+20. §
 
-(1) A Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 290. §-a a következő (6) bekezdéssel egészül ki:
+21. §
 
-„(6) Aki egészségügyi szolgáltatás nyújtásával összefüggésben egészségügyi dolgozónak, egészségügyben dolgozónak vagy ezekre tekintettel másnak az egészségügyről szóló törvényben meghatározottak szerint jogtalan előnyt ad vagy ígér, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.”
-
-(2) A Btk. 291. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) E § alkalmazásában az egészségügyi szolgáltatással összefüggésben jogtalan előnynek minősül az egészségügyről szóló törvényben meghatározottak szerinti jogtalan előny.”
-
-#### 21. § [Az egészségügyről szóló 1997. évi CLIV. törvény módosítása]
-
-Az egészségügyről szóló 1997. évi CLIV. törvény a következő alcímmel és 138/A. §-sal egészül ki:
-
-„Az egészségügyi tevékenység ellátása során elfogadható juttatásokra vonatkozó szabályok
-
-138/A. § (1) Az egészségügyi dolgozó vagy az egészségügyben dolgozó az egészségügyi szolgáltatás nyújtása során a jogszabályban vagy jogszabály alapján meghatározott térítési díjon felül az egészségügyi szolgáltatás nyújtásáért semmilyen pénzbeli, gazdasági szolgáltatás keretében nyújtott vagy természetbeni ellenszolgáltatást vagy egyéb előnyt nem kérhet, illetve nem fogadhat el.
-
-(2) Az e törvényben meghatározott kivétellel az egészségügyi dolgozó vagy az egészségügyben dolgozó az egészségügyi szolgáltatás nyújtása során a jogszabályban vagy jogszabály alapján meghatározott térítési díjon felül az egészségügyi szolgáltatás nyújtása alatt vagy azt követően semmilyen pénzbeli, gazdasági szolgáltatás keretében nyújtott vagy természetbeni ellenszolgáltatást vagy egyéb előnyt nem kérhet, illetve nem fogadhat el.
-
-(3) A nem állami, önkormányzati vagy egyházi fenntartású egészségügyi szolgáltató által foglalkoztatott egészségügyi dolgozóra vagy egészségügyben dolgozóra a (2) bekezdésben meghatározott tilalom akkor vonatkozik, ha az általa ellátott beteget egyúttal az állami ellátás keretében is kezeli, a kezelésének az irányításáért felel vagy a kezelésében közreműködik.
-
-(4) Az egészségügyi dolgozó vagy az egészségügyben dolgozó a szolgáltatás nyújtását követően egy alkalommal elfogadhat a beteg vagy rá tekintettel más által ajándékként adott olyan tárgyat, amelynek értéke nem haladja meg a mindenkori minimálbér havi összegének 5%-át.
-
-(5) Az egészségügyi dolgozó vagy az egészségügyben dolgozó a folyamatos benntartózkodás mellett végzett, hosszú ideig tartó egészségügyi szolgáltatás nyújtása során kéthavonta egy alkalommal elfogadhat a beteg vagy rá tekintettel más által ajándékként adott olyan tárgyat, amelynek értéke nem haladja meg a mindenkori minimálbér havi összegének 5%-át.
-
-(6) Az ajándék értékének meghatározása során a beszerzési árat vagy saját előállítás esetén a hasonló termék kiskereskedelmi árát kell figyelembe venni.”
-
-#### 22. § [A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása]
-
-Hatályát veszti a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 7. pont 7.2. alpontjában az „(így különösen nem adómentes a magánszemély által, hálapénz címén megszerzett vagyoni érték)” szövegrész.
+22. §
 
 ### 1. melléklet a 2020. évi C. törvényhez
 

@@ -112,24 +112,10 @@ rendeletben állapítsa meg.
 
 12. § Az 5. § (2) bekezdés d) és g) pontjának a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-13. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. § (1) bekezdése m) pontja helyébe a következő rendelkezés lép, és a 12. § (1) bekezdése a következő n) ponttal egészül ki:
+13. §
 
-(Az állam kizárólagos gazdasági tevékenységei a következők:)
+14. §
 
-„m) az egységes elektronikus értékesítésű közszolgáltatások egységes rendszerének működtetése,
+15. §
 
-n) az a)–m) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.”
-
-14. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A személyszállítási szerződés teljesítésével összefüggésben a menetdíjat meg nem fizető, vagy az utazási feltételeket egyéb módon megszegő utas azonosíthatósága, a személyhez kötött utazási jogosultság ellenőrzése, valamint a közszolgáltatási utazási kedvezmények igénybevétele jogszerűségének megállapítása céljából)
-
-„b) az egységes elektronikus értékesítési rendszer működtetője,”
-
-[vagy ezek megbízottja jogosult a személyszállítási szolgáltatásban részt vevő utas azonosíthatóságához szükséges, a (4) bekezdésben meghatározott adatok megismerésére.]
-
-15. § (1) Hatályát veszti a nemzeti mobil fizetési rendszerről szóló 2011. évi CC. törvény (a továbbiakban: 2011. évi CC. törvény) 1. §-a, 2. §-a, 4–8. §-a és 10–12. §-a.
-
-(2) Hatályát veszti a 2011. évi CC. törvény 3. §-a.
-
-16. §
+16. § Hatályát veszti a 2011. évi CC. törvény.

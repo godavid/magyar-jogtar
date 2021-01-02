@@ -2500,7 +2500,7 @@ közigazgatási bírsággal sújthatja.
 
 #### 344. §
 
-345. § Hatályát veszti a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 28/A. §-a.
+#### 345. §
 
 #### 98. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
@@ -2634,16 +2634,7 @@ közigazgatási bírsággal sújthatja.
 
 #### 112. A büntetőeljárásról szóló törvény és más kapcsolódó törvények módosításáról szóló 2020. évi XLIII. törvény eltérő tartalommal hatályba lépő rendelkezései
 
-397. § Nem lép hatályba a büntetőeljárásról szóló törvény és más kapcsolódó törvények módosításáról szóló 2020. évi XLIII. törvény
-
-- a) 147. §-a,
-- b) 148. §-a,
-- c) 152. §-a,
-- d) 182. §-a,
-- e) 210. §-a,
-- f) 229. §-a,
-- g) 271. § 12. pontja,
-- h) 273. § 12. pontja.
+#### 397. §
 
 ### IV. Fejezet — A HATÓSÁGI ENGEDÉLYEZÉSEK KÖZÖS SZABÁLYAI
 
@@ -2820,7 +2811,7 @@ vonatkozó szabályait.
 
 409. § (1)
 
-(2) Hatályát veszti a 72. alcím.
+(2)
 
 (3)
 

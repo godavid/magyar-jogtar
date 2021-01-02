@@ -69,9 +69,7 @@ az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizác
 
 24. §
 
-25. § Az Áfa tv. 110. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdés nem alkalmazható az utas nevében és javára eljáró közvetítő közvetítői szolgáltatásának nyújtására abban az esetben, ha olyan szolgáltatást közvetít, amely a Közösség valamely más tagállamában teljesül.”
+25. §
 
 26. §
 
@@ -105,9 +103,7 @@ az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizác
 
 41. §
 
-42. § Az Áfa tv. „Átmeneti rendelkezések” című alcíme a következő 333. §-sal egészül ki:
-
-„333. § E törvény 2020. december 31-én hatályos 206. § (1) bekezdés c) pontját és 206. § (2) bekezdését kell alkalmazni, ha az utazásszervezőnek fizetett előleg jóváírása, kézhezvétele, előlegfizetés hiányában pedig az utazásszervezési szolgáltatás teljesítése 2021. január 1-jét megelőző időpontra esik.”
+42. §
 
 43. §
 
@@ -127,11 +123,11 @@ az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizác
 
 45. §
 
-46. § Hatályát veszti az Áfa tv.
+46. §
 
 - 1.
 - 2.
-- 3. 206. § (1) bekezdés c) pontja és (2) bekezdése,
+- 3.
 - 4.
 - 5.
 - 6.

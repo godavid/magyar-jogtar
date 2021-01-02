@@ -18,7 +18,7 @@ a környezet védelmének általános szabályairól szóló 1995. évi LIII. t�
 
 7. § (1)
 
-(2) Hatályát veszti a Kvt. 48. § (4) bekezdés b) pontja.
+(2)
 
 #### 2. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 

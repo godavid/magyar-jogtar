@@ -16,9 +16,7 @@ egyes törvényeknek nyilvántartásokkal és elektronikus ügyintézéssel öss
 
 6. §
 
-7. § Az Nytv. a következő 21/A. §-sal egészül ki:
-
-„21/A. § Az e törvény felhatalmazása alapján – a 21. §-ban meghatározottak mellett – a 17. § (2) bekezdés b) pontja szerinti adatokat jogosult igényelni az értesítési cím, az állampolgárság, a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való – az elhalálozáson kívüli – kikerülés oka, helye és ideje adatok kivételével a vasúti közlekedési hatóság az elektronikus vasúti személyi és szervezeti nyilvántartás vezetése céljából.”
+7. §
 
 8. §
 
@@ -83,17 +81,15 @@ lép.
 
 26. §
 
-27. § A Bv. Sztv.
+27. §
 
 - a)
-- b) 28/A. § (1) bekezdés b) pontjában a „(székhelyére)” szövegrész helyébe a „vagy értesítési címére” szöveg,
-- c) 28/B. § (2) bekezdés b) pontjában a „lakcímet” szövegrész helyébe a „lakcímet vagy értesítési címet” szöveg
+- b)
+- c)
 
-lép.
+28. §
 
-28. § Hatályát veszti a Bv. Sztv.
-
-- a) 28/A. § (1) bekezdés nyitó szövegrészében az „– a kapcsolattartóként megjelölt személy hozzájárulásával –” szövegrész,
+- a)
 - b)
 
 #### 4. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
@@ -297,15 +293,7 @@ lép.
 
 #### 18. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény módosítása
 
-86. § (1) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 1. § 23. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„23. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott, belföldi székhellyel rendelkező gazdálkodó szervezet, azzal az eltéréssel, hogy e törvény alkalmazásában
-
-a) nem minősül gazdálkodó szervezetnek az adószámmal nem rendelkező egyesület, alapítvány,
-
-b) valamennyi ügy tekintetében gazdálkodó szervezetnek minősül az adószámmal rendelkező alapítvány, egyesület;”
+86. § (1)
 
 (2)
 
@@ -383,7 +371,7 @@ b) valamennyi ügy tekintetében gazdálkodó szervezetnek minősül az adószá
 
 #### 23. Az egyes közlekedési tárgyú törvények módosításáról szóló 2020. évi LXXXVI. törvény módosítása
 
-116. § Nem lép hatályba az egyes közlekedési tárgyú törvények módosításáról szóló 2020. évi LXXXVI. törvény 9. §-a.
+116. §
 
 #### 24. Záró rendelkezések
 

@@ -24,21 +24,15 @@ egyes adózási tárgyú törvényeknek a koronavírus-járvány gazdasági hat�
 
 7. §
 
-8. § Hatályát veszti a Különadó törvény
-
-- 1. 1. § (1) bekezdésében a „ , valamint a 4/E. §-ban” szövegrész,
-- 2. „A hitelintézetek járványügyi helyzettel összefüggő különadója” alcíme és
-- 3. 5. § (2) és (3) bekezdésében az „és a 4/E. §” szövegrész.
+8. §
 
 #### 5. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
-9. § A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény
+9. §
 
 - a)
-- b) 21. § (1) bekezdésében a „12” szövegrész helyébe a „11” szöveg,
-- c) 23. § (2) bekezdésében a „12” szövegrész helyébe a „11” szöveg
-
-lép.
+- b)
+- c)
 
 #### 6. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 

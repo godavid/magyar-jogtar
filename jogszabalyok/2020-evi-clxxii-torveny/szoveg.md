@@ -109,39 +109,17 @@ határozatlan időre szóló elidegenítési és terhelési tilalom áll fenn. A
 
 21. §
 
-22. § Az Nvtv. 6. §-a a következő (3e) és (3f) bekezdéssel egészül ki:
+22. §
 
-„(3e) A kizárólagos állami tulajdonban álló terek, parkok és közkertek tekintetében a helyi önkormányzat javára, a kizárólagos helyi önkormányzati tulajdonban álló terek, parkok és közkertek tekintetében az állam javára osztott tulajdon létesíthető, akár úgy is, hogy az épület a helyi önkormányzat, illetve az állam mellett az állam, illetve a helyi önkormányzat tulajdonában is áll. Állam és helyi önkormányzat osztatlan közös tulajdonában álló terek, parkok és közkertek tekintetében mind az állam, mind az érintett helyi önkormányzat javára létesíthető osztott tulajdon.
-
-(3f) A (3e) bekezdés alapján létrejött osztott tulajdon esetén az épület vonatkozásában az (1) bekezdésben foglalt korlátozó rendelkezéseket alkalmazni kell.”
-
-23. § (1) Az Nvtv. 8. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Az átláthatóság vizsgálata nem terjed ki a részesedésszerzéssel vagy alapítással érintett Európai Gazdasági Térségről szóló megállapodásban részes állam szabályozott piacára bevezetett nyilvánosan működő részvénytársaság nem természetes személy tagjára, valamint az Európai Gazdasági Térségről szóló megállapodásban részes állam szabályozott piacára bevezetett, átruházható értékpapírral kapcsolatos jogügyletben félként érintett személyekre.”
-
-(2) Az Nvtv. 8. §-a a következő (14a) bekezdéssel egészül ki:
-
-„(14a) A (14) bekezdésben foglaltakat nem kell alkalmazni az olyan fejlesztési célú tőkefinanszírozáshoz kapcsolódó döntések esetén, amikor a fejlesztési célú tőkefinanszírozást végrehajtó gazdasági társaság részesedése a gazdálkodó szervezetben nem éri el az 50%-os szavazati mértéket, továbbá az olyan 100%-os állami tulajdonú gazdasági társaságok esetén, amelyek gazdálkodó szervezetekben fennálló részesedések kezelésével kapcsolatos feladatokat üzletszerűen látnak el.”
+23. §
 
 24. §
 
-25. § Az Nvtv. 2. melléklete a 4. melléklet szerint módosul.
+25. §
 
-26. § Az Nvtv.
+26. §
 
-- a) 6. § (1) bekezdésében a „(2)–(3c) bekezdésben” szövegrész helyébe a „(2)–(3c) és (3e) bekezdésben”,
-- b) 8. § (14) bekezdés nyitó szövegrészében az „a következő döntések” szövegrész helyébe az „a következő döntések – a (14a) bekezdésben meghatározott kivétellel – ”,
-- c)
-- d)
-
-szöveg lép.
-
-27. § Hatályát veszti az Nvtv. 2. melléklet III. pont
-
-- a) 1. alpontjában foglalt táblázat 1.37. és 1.42. sora,
-- b)
-- c)
-- d) 13. alpontjában foglalt táblázat 13.16. sora.
+27. §
 
 #### 9. A Közép-európai Épített Örökség Megőrző Alapítványról és a Közép-európai Épített Örökség Megőrző Alapítvány részére történő vagyonjuttatásról szóló 2020. évi XCIII. törvény módosításáról
 
@@ -534,10 +512,5 @@ szöveg lép.
 | 41. | Mezőhegyes | 805/9 |
 
 ### 4. melléklet a 2020. évi CLXXII. törvényhez
-
-Az Nvtv. 2. melléklet III. pont 8. alpontjában foglalt táblázat a következő 8.13. sorral egészül ki:
-
-| „8.13. | SOPRON Templom u. 2. | Esterházy-palota” |
-| --- | --- | --- |
 
 ### 5. melléklet a 2020. évi CLXXII. törvényhez

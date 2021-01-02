@@ -292,74 +292,34 @@ Az Országgyűlés elkötelezett a magyar földművesek agrárpiaci versenyképe
 
 #### 9. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-32. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény (a továbbiakban: Díjtv.) 31. § (1) bekezdése a következő s) ponttal egészül ki:
+32. §
 
-(Tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése, ha az)
-
-„s) az ügyfél jogi képviselője a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvényben meghatározott, osztatlan közös tulajdon megszüntetésére irányuló eljáráshoz”
-
-(kéri.)
-
-33. § A Díjtv. a következő 31/B. §-sal egészül ki:
-
-„31/B. § Tárgyánál fogva díjmentes a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvényben meghatározott osztatlan közös tulajdon megszüntetésére irányuló eljáráshoz közvetlenül elektronikusan szerkeszthető formában szolgáltatott, a változással érintett ingatlan tulajdonosi adatokkal kiegészített földkönyve.”
+33. §
 
 #### 10. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-34. § Az Inytv. 1. §-a a következő (3) bekezdéssel egészül ki:
+34. §
 
-„(3) E törvény rendelkezéseit a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvényben (a továbbiakban: 2020. évi LXXI. törvény) foglalt eltérésekkel kell alkalmazni.”
-
-35. § (1) Az Inytv. 17. § (1) bekezdése a következő 35. ponttal egészül ki:
-
-(Az ingatlan-nyilvántartásba csak az ingatlanhoz kapcsolódó következő, jogilag jelentős tények jegyezhetők fel:)
-
-„35. a 2020. évi LXXI. törvény szerint folyamatban lévő megosztás.”
-
-(2) Az Inytv. 17. § (2) bekezdésében a „31–34.” szövegrész helyébe a „31–35.” szöveg lép.
+35. §
 
 #### 11. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
-36. § A kisajátításról szóló 2007. évi CXXIII. törvény (a továbbiakban: Kstv.) 2. §-a a következő t) ponttal egészül ki:
+36. §
 
-(Ingatlant kisajátítani a 3. § szerinti feltételek fennállása esetén, a 4. és 5. § szerinti esetekben, az alábbi közérdekű célokra lehetséges:)
-
-„t) optimális birtokszerkezet kialakítása céljából.”
-
-37. § A Kstv. 4. § (1) bekezdése a következő q) ponttal egészül ki:
-
-(A 2. § szerinti közérdekű célokra az alábbi esetekben lehetséges kisajátítás:)
-
-„q) optimális birtokszerkezet kialakítása céljából, ha a Nemzeti Földalap kezeléséért felelős szerv – a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerint – kezdeményezi.”
+37. §
 
 #### 12. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-38. § A termőföld védelméről szóló 2007. évi CXXIX. törvény 10. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A termőföld más célú hasznosítása mentes az ingatlanügyi hatóság engedélye alól, ha a termőföldet)
-
-„a) a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény hatálya alá tartozó, a részarány-földkiadási eljárás során, továbbá a részarány-földkiadási eljárás eredményeként keletkezett osztatlan közös tulajdonok megszüntetése, valamint a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerinti megosztás során keletkező új földrészletek megközelítését szolgáló utak kialakítása,”
-
-(céljából veszik igénybe.)
+38. §
 
 #### 13. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-39. § A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény (a továbbiakban: Fttv.) 6. §-a a következő (34) bekezdéssel egészül ki:
+39. §
 
-„(34) A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvényben meghatározott osztatlan közös tulajdon megszüntetésére irányuló eljárás lefolytatásához szükséges, a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz az ingatlanok megosztása céljából létrehozott és a Nemzeti Földalap kezeléséért felelős szerv által üzemeltetett informatikai program számára a hozzáférést díj-, költség- és térítésmentesen kell biztosítani.”
-
-40. § Az Fttv. 23. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Nem minősül az (1) bekezdés szerinti egységes ingatlan-nyilvántartás tartalmának változását eredményező földmérési munkának a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény alapján készülő térképvázlat és területkimutatás előállítására irányuló tevékenység.”
+40. §
 
 #### 14. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 
-41. § A Földforgalmi törvény 2. §-a a következő (7) bekezdéssel egészül ki:
+41. §
 
-„(7) E törvény rendelkezéseit a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvényben foglalt eltérésekkel kell alkalmazni.”
-
-42. § A Földforgalmi törvény 23. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(A mezőgazdasági igazgatási szerv a részére jóváhagyás céljából megküldött okiratok közül az adás-vételi szerződést és az elfogadó jognyilatkozatokat először – kizárólag azok tartalma és alaki kellékei alapján – az érvényességi és hatályosulási feltételeknek való megfelelőség szempontjából vizsgálja meg, illetve ellenőrzi. A mezőgazdasági igazgatási szerv az okiratok beérkezésétől számított 15 napon belül döntést hoz az adás-vételi szerződés jóváhagyásának a megtagadásáról, ha megállapítja, hogy)
-
-„e) az ingatlan tulajdoni lapján a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény szerint folyamatban lévő megosztás ténye szerepel.”
+42. §

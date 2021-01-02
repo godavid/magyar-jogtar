@@ -24,15 +24,7 @@ az iskolai erőszak megszüntetése és megelőzése érdekében szükséges egy
 
 7. § (1)
 
-(2) A Btk. 459. § (1) bekezdés 12. pontja a következő q) és r) alponttal egészül ki:
-
-(E törvény alkalmazásában
-
-közfeladatot ellátó személy:)
-
-„q) a fegyveres biztonsági őr a szolgálatának teljesítése során,
-
-r) az országos és a helyi közutakon, az állam vagy a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozás biztosítását célzó parkolási közszolgáltatást a közúti közlekedésről szóló törvény szerint ellátó szervezetnél a parkolóhelyek rendeltetésszerű működtetését és a parkolóhelyek rendeltetésszerű használatának ellenőrzését végző személy e tevékenysége során.”
+(2)
 
 #### 5. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
@@ -46,7 +38,7 @@ r) az országos és a helyi közutakon, az állam vagy a helyi önkormányzat tu
 
 #### 7. Hatályba nem lépésről szóló rendelkezés
 
-11. § Nem lép hatályba a büntetőeljárásról szóló törvény és más kapcsolódó törvények módosításáról szóló 2020. évi XLIII. törvény 54. § (3) bekezdése.
+11. §
 
 #### 8. Záró rendelkezések
 

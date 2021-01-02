@@ -4,25 +4,19 @@ a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításár�
 
 #### 1. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-1. § Hatályát veszti az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 1. melléklet 16. pontja.
+1. §
 
 #### 2. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
 
-2. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 15/A. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+2. §
 
-(Mezőgazdasági termelőszervezet mintagazdasággá a következő feltételek együttes teljesítése esetén jelölhető ki)
-
-„c) a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott átlátható szervezetnek minősül;”
-
-3. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 20. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A (2) bekezdés alkalmazásában 100%-os állami tulajdonban álló gazdálkodó szervezetnek kell tekinteni a Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény 3. § (4) bekezdése szerint tulajdonba adott gazdasági társaságot.”
+3. §
 
 #### 3. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-4. § Hatályát veszti a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet
+4. §
 
-- a) I. pontjában foglalt táblázatban a „TAEG Tanulmányi Erdőgazdaság Zrt. 100%” sor,
+- a)
 - b)
 
 #### 4. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
@@ -63,23 +57,7 @@ a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításár�
 
 #### 8. A Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény módosítása
 
-19. § A Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény (a továbbiakban: SEtv.) 3. §-a a következő (4)–(11) bekezdéssel egészül ki:
-
-„(4) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján – a preambulumban meghatározott célok megvalósítása érdekében – az alapító okirat szerint a TAEG Tanulmányi Erdőgazdaság Zártkörűen Működő Részvénytársaságban az állam tulajdonában álló társasági részesedést (a továbbiakban: részvények) ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérően – az Alapítvány tulajdonába kell adni.
-
-(5) A részvények tulajdonba adásáról az Alapítvány alapító okiratában kell rendelkezni. A részvényekhez kapcsolódó 2020. év után járó osztalékra vagy annak megfelelő összegre az Alapítvány jogosult.
-
-(6) A (4) és (5) bekezdésben meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el.
-
-(7) Ha az Alapítvány a tulajdonába adott (4) bekezdés szerinti vagyonelemet el kívánja idegeníteni, akkor a tulajdonba adásról rendelkező nyilatkozatban előírt módon meghatározott piaci áron köteles annak megvásárlására az államnak a miniszterhez eljuttatott nyilatkozattal ajánlatot tenni, amelyre tekintettel az államot vételi jog illeti meg. Ha a miniszter e nyilatkozat közlésétől számított 90 napon belül úgy nyilatkozik, hogy a vagyonelem tekintetében vételi jogával nem kíván élni, vagy ha a nyilatkozat közlésétől számított 90 napon belül nem tesz nyilatkozatot, úgy az állam vételi joga megszűnik.
-
-(8) A (7) bekezdésben meghatározott vételi jog biztosítására az államot elidegenítési és terhelési tilalom illeti meg.
-
-(9) A (7) bekezdés szerinti elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány a preambulumban meghatározott célok megvalósítására köteles fordítani.
-
-(10) Az Alapítvány jogutód nélküli megszűnése esetén a (4) bekezdés szerinti vagyonelemek tulajdonjoga az államra száll vissza.
-
-(11) A (4) bekezdés szerint alapítói vagyoni juttatásként az Alapítvány részére tulajdonba adott részvények tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.”
+19. §
 
 20. §
 

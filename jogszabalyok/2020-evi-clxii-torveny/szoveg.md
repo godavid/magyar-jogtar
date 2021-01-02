@@ -201,192 +201,53 @@ sarkalatosnak minősül.
 
 #### 6. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-20. § (1) A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 7. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+20. §
 
-[A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv kizárólagos hatáskörrel ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:]
-
-„b) elvégzi
-
-ba) az (1c) bekezdésben foglalt kivétellel a Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szerv, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottjának,
-
-bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók,
-
-bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és munkavállalói
-
-[a ba)–bc) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát.”
-
-(2) Az Rtv. 7. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) Az (1) bekezdés b) pont ba) alpontja alkalmazásában foglalkoztatott
-
-a) a kormányzati szolgálati jogviszonyban,
-
-b) a közalkalmazotti jogviszonyban,
-
-c) az igazságügyi szolgálati jogviszonyban,
-
-d) a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszonyban,
-
-e) a rendvédelmi igazgatási szolgálati jogviszonyban,
-
-f) az adó- és vámhatósági szolgálati jogviszonyban,
-
-g) a rendvédelmi feladatokat ellátó szervnél fennálló tisztjelölti szolgálati jogviszonyban, illetve a Nemzet Adó- és Vámhivatalnál fennálló tisztjelölti jogviszonyban,
-
-h) az egészségügyi szolgálati jogviszonyban, és
-
-i) a munkaviszonyban
-
-foglalkoztatott.”
-
-(3) Az Rtv. 7. § (1c) bekezdése helyébe a következő rendelkezés lép:
-
-„(1c) Az (1) bekezdés b) pont ba) alpontjától eltérően nem tartozik a védett állomány körébe
-
-a) az Információs Hivatal foglalkoztatottja,
-
-b) a honvédelmi szervezetek foglalkoztatottja azzal a kivétellel, hogy az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató egészségügyi szolgálati jogviszonyban álló foglalkoztatottja, továbbá
-
-c) a Kormány rendeletében a feladat- és tevekénységi kör mérlegelése alapján a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített szerv foglalkoztatottja.”
-
-21. § Az Rtv.
-
-- a) 7. § (1b) bekezdésében a „pont bc) alpontja” szövegrész helyébe a „pontja” szöveg,
-- b) 7/B. § (2) bekezdés a) pontjában a „határrendészeti szabálysértést” szövegrész helyébe a „határrendészeti szabálysértést, gyógyszerrendészeti szabálysértést, segélyhívó számok rendeltetéstől eltérő igénybevétele szabálysértést” szöveg,
-- c) 7/B. § (2) bekezdés b) pont bb) alpontjában az „a személyes adattal” szövegrész helyébe az „a teljesítményfokozó szerrel visszaélés (Btk. 185. §), a gyógyszerhamisítás (Btk. 185/A. §), a személyes adattal” szöveg,
-- d) 100. § (1) bekezdés h) pontjában a „részletes szabályait” szövegrész helyébe a „részletes szabályait, továbbá meghatározza a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített, a Kormány vagy a Kormány tagjának irányítása, felügyelete alá tartozó szervek körét” szöveg
-
-lép.
+21. §
 
 #### 7. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-22. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 23. §-a a következő t) ponttal egészül ki:
-
-(A TAJ számot a következő szervek az alábbiakban meghatározott célból kezelhetik:)
-
-„t) a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvény 2. §-a szerinti szervezet, valamint a Kormányzati Személyügyi Döntéstámogató Rendszer a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő adatszolgáltatás érdekében.”
+22. §
 
 #### 8. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-23. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 33. pontja helyébe a következő rendelkezés lép:
+23. §
 
-(E törvény alkalmazásában:)
-
-„33. Védendő adat: a veszélyes anyagokkal foglalkozó üzem biztonságával kapcsolatos lényeges adat, amelyet az üzemeltető vagy az iparbiztonsági hatóság védendővé nyilvánít, továbbá az üzemeltető által meghatározott üzleti titok.”
-
-24. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 25. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Ha a biztonsági jelentés vagy biztonsági elemzés valamely adatát az iparbiztonsági hatóság nyilvánítja védendő adattá, a védendő adatokat közli az üzemeltetővel, és egyben felhívja az üzemeltetőt a nyilvánosságra hozható, védendő adatot nem tartalmazó biztonsági jelentés vagy biztonsági elemzés elkészítésére és benyújtására.”
+24. §
 
 #### 9. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-25. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 107. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Méltatlanság miatt a nemzetiségi önkormányzat képviselő-testülete, közgyűlése megszünteti annak az önkormányzati képviselőnek a megbízatását,)
-
-„c) akit megbízatásának ideje alatt – a mentesítésre tekintet nélkül – szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítélnek,”
+25. §
 
 #### 10. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-26. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 38. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Méltatlanság miatt a képviselő-testület határozatával megszünteti annak az önkormányzati képviselőnek a megbízatását,)
-
-„b) akit megbízatásának ideje alatt – a mentesítésre tekintet nélkül – szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítélnek;”
+26. §
 
 #### 11. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-27. § Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 106/A. §-a a következő (5) bekezdéssel egészül ki:
+27. §
 
-„(5) A kincstár a Kormány rendeletében meghatározott rendben adatot szolgáltat a Kormányzati Személyügyi Döntéstámogató Rendszer részére
-
-a) a Kormányzati Személyügyi Döntéstámogató Rendszerbe feltöltendő foglalkoztatottak létszám-, kereseti- és illetményadatairól egyedi azonosító alkalmazásával, valamint
-
-b) a költségvetési szervekről és a költségvetési körben gazdálkodó szervekről szóló közhiteles hatósági törzskönyvi nyilvántartásból.”
-
-28. § Az Áht. 109. § (1) bekezdés 35. pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg)
-
-„35. a központosított illetményszámfejtés szabályait, valamint a központosított illetményszámfejtés körét érintő statisztikai és egyéb adatszolgáltatás rendjét,”
+28. §
 
 #### 12. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-29. § A Kttv. 177. §-a a következő (6) és (7) bekezdéssel egészül ki:
+29. §
 
-„(6) A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott döntéstámogatási feladatot az államigazgatási szerv a közszolgálati alapnyilvántartás adatainak és azok változásainak, továbbá az államigazgatási szerv szervezeti adatainak jogszabályban meghatározottak szerint a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő feltöltésével hajtja végre.
+30. §
 
-(7) A kormánytisztviselőnek a közszolgálati alapnyilvántartás 2. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól és az azokban bekövetkezett változásról a (6) bekezdés szerinti információs rendszer közvetlen adatszolgáltatást nyújt – a Kormány rendeletében meghatározott rendben – a kincstár által működtetett központosított illetményszámfejtés részére.”
+31. §
 
-30. § A Kttv. 180. § (1) bekezdés k) pontja helyébe a következő rendelkezés lép:
+32. §
 
-(Az államigazgatási szervnél vezetett közszolgálati alapnyilvántartásba – eljárásában indokolt mértékig – jogosult betekinteni, illetőleg abból adatokat átvenni:)
-
-„k) a Kormányzati Személyügyi Döntéstámogató Rendszer működtetésével összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter,”
-
-31. § A Kttv. 258. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az államigazgatási szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a kormánytisztviselők esetében releváns adatok kivételével – megegyezik a kormánytisztviselő 2. melléklet szerinti közszolgálati alapnyilvántartásának adataival. A munkaügyi nyilvántartásra, valamint az abból történő adatszolgáltatásra a közszolgálati alapnyilvántartásra vonatkozó szabályokat kell alkalmazni, azzal, hogy az államigazgatási szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő tizenöt évig kezeli.”
-
-32. § A Kttv. 177. § (3) bekezdésében a „178. § (1) bekezdésében, továbbá a 181. §-ban” szövegrész helyébe a „Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben, továbbá a 181. § (1) bekezdésében” szöveg lép.
-
-33. § Hatályát veszti a Kttv.
-
-- a) 178. §-a,
-- b) 180. § (1) bekezdés l) pontjában az „a minisztériumokra vonatkozó adatok tekintetében, valamint” szövegrész,
-- c) 259. § (1) bekezdés 1. pont c) alpontjában az „és a közszolgálati statisztikai adatgyűjtésre” szövegrész.
+33. §
 
 #### 13. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-34. § A Hszt. a következő 106/A. §-sal egészül ki:
+34. §
 
-„106/A. § Az országos parancsnok és az országos főigazgató a 106. § (1a) bekezdése szerinti közjogi szervezetszabályozó eszközben vagy belső szabályzatban határozza meg
+35. §
 
-a) azt, hogy a miniszter által meghatározott szempontok figyelembevételével mely szolgálati beosztás melyik alkalmasságvizsgálati kategóriába tartozik,
-
-b) a miniszter által meghatározott egyes alkalmasságvizsgálati kategóriába tartozó szolgálati beosztások esetében az egészségi, pszichológiai és fizikai kategóriafeltételeket, amelyek nem lehetnek alacsonyabbak a minimumfeltételeknél,
-
-c) a miniszter által meghatározott egyes alkalmasságvizsgálati kategóriák esetében a kompetenciavizsgálat keretében vizsgálandó további kompetenciák tartalmát és követelményeit,
-
-d) az illeszkedésvizsgálat eredményeinek a vezetői döntést támogató felhasználására vonatkozó szakmai javaslatokkal kapcsolatos eljárásrendet és
-
-e) a miniszter által meghatározott szempontok figyelembevételével első- és másodfokú egészségi, pszichológiai, fizikai alkalmasságvizsgálatot végzők személyére vonatkozó kijelölést.”
-
-35. § A Hszt. 261. §-a helyébe a következő rendelkezés lép:
-
-„261. § (1) Kiegészítő hozzátartozói támogatás illeti meg az özvegyi és szülői nyugellátásra jogosultat, ha a hivatásos állomány tagjának halálát szolgálati kötelmekkel összefüggő baleset vagy szolgálati eredetű betegség okozta.
-
-(2) A kiegészítő hozzátartozói támogatás mértéke a Tny. alapján megállapított özvegyi vagy szülői nyugellátás 25%-ának megfelelő összeg.
-
-(3) A (2) bekezdéstől eltérően a hősi halott özvegye vagy szülője a Tny. alapján megállapított hozzátartozói nyugellátás 50%-ának megfelelő összegű kiegészítő hozzátartozói támogatásra jogosult.”
-
-36. § A Hszt. 107. alcíme a következő 261/A. és 261/B. §-sal egészül ki:
-
-„261/A. § (1) Árvák kiegészítő támogatására jogosult a hivatásos állomány elhunyt tagjának – ideértve a 259. § (1) bekezdés b) pontja szerinti, a korábban a rendvédelmi szerv hivatásos állományába tartozott szolgálati nyugdíjast és egészségkárosodási ellátásra jogosultat – azon gyermeke, aki árvaellátásra jogosult.
-
-(2) Az árvák kiegészítő támogatásának a mértéke
-
-a) hősi halott árvája esetében a megállapított árvaellátás 50%-a,
-
-b) a hivatásos állomány szolgálati kötelmekkel összefüggő balesetben vagy szolgálati eredetű betegségben elhunyt tagjának árvája esetében a megállapított árvaellátás 25%-a, vagy
-
-c) a hivatásos állomány elhunyt tagjának a) és b) pont hatálya alá nem tartozó árvája esetében a megállapított árvaellátás 10%-a.
-
-261/B. § (1) Az árvák kiegészítő támogatására és a kiegészítő hozzátartozói támogatásra való jogosultságról
-
-a) a hősi halott özvegye vagy szülője esetében a nyugdíjmegállapító szerv,
-
-b) az a) ponttól eltérő esetben a hősi halott, valamint a szolgálati halott esetén a miniszter,
-
-c) az a) és b) ponttól eltérő esetben az országos parancsnok vagy országos főigazgató
-
-hivatalból eljárva határozatban dönt. A határozat alapján a támogatás mértékét a nyugdíj-megállapító szerv állapítja meg és a megállapított támogatást a nyugdíjfolyósító szerv folyósítja.
-
-(2) Az árvák kiegészítő támogatása és a kiegészítő hozzátartozói támogatás, valamint az azokkal kapcsolatos végrehajtási költségek forrását a központi költségvetés biztosítja.
-
-(3) Az árvák kiegészítő támogatásának és a kiegészítő hozzátartozói támogatás összegét a Tny. 62. §-ában foglaltak szerint kell emelni.
-
-(4) A kiegészítő hozzátartozói támogatás, valamint az árvák kiegészítő támogatásának jogalap nélküli felvétele esetén a Tny. visszafizetési és megtérítési kötelezettségre vonatkozó szabályai alapján kell eljárni. A jogalap nélkül felvett kiegészítő hozzátartozói támogatásból, valamint az árvák kiegészítő támogatásából eredő követelést a nyugdíjbiztosítási igazgatási szerv a Tny. szabályai alapján érvényesíti.”
+36. §
 
 37. §
 
@@ -400,19 +261,15 @@ hivatalból eljárva határozatban dönt. A határozat alapján a támogatás m�
 
 42. §
 
-43. § A Hszt. 340. §-a a következő 20. ponttal egészül ki:
+43. §
 
-(Felhatalmazást kap a Kormány, hogy rendeletben:)
-
-„20. meghatározza az árvák kiegészítő támogatásával és a kiegészítő hozzátartozói támogatás megállapításával kapcsolatos közigazgatási hatósági ügyekben a közigazgatási hatósági eljáráshoz kapcsolódó kiegészítő eljárási rendelkezéseket.”
-
-44. § A Hszt. 12. melléklete a 8. melléklet szerint módosul.
+44. §
 
 45. §
 
 46. § (1)
 
-(2) Nem lép hatályba az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény 178. §-ának a Hszt. 341. § (1) bekezdés 13. pont i) alpontját megállapító rendelkezése.
+(2)
 
 #### 14. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
@@ -436,17 +293,11 @@ hivatalból eljárva határozatban dönt. A határozat alapján a támogatás m�
 
 55. §
 
-56. § A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 409. § (2) bekezdése a következő szöveggel lép hatályba:
-
-„(2) Hatályát veszti a 72. alcím.”
+56. §
 
 #### 16. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
 
-57. § Az Esztv. 14. §-a a következő (7) és (8) bekezdéssel egészül ki:
-
-„(7) A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott döntéstámogatási feladatot az egészségügyi szolgáltató az alapnyilvántartás adatainak és azok változásainak, továbbá az az egészségügyi szolgáltató szervezeti adatainak jogszabályban meghatározottak szerint a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő feltöltésével hajtja végre.
-
-(8) Az egészségügyi szolgálati jogviszonyban álló személynek az alapnyilvántartás 2. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól és az azokban bekövetkezett változásról a (7) bekezdés szerinti információs rendszer közvetlen adatszolgáltatást nyújt – a Kormány rendeletében meghatározott rendben – a kincstár által működtetett központosított illetményszámfejtés részére.”
+57. §
 
 ### 1. melléklet a 2020. évi CLXII. törvényhez
 
@@ -1279,74 +1130,3 @@ hivatalból eljárva határozatban dönt. A határozat alapján a támogatás m�
 - 12.10. ellenérték összege
 
 ### 8. melléklet a 2020. évi CLXII. törvényhez
-
-- 1. A Hszt. 12. mellékletében foglalt „„A” munkaköri kategória” megjelölésű táblázat D):2 mezője helyébe a következő mező lép:
-
-|  | [D) |
-| --- | --- |
-|  | A fizetési fokozat szerinti illetmény alsó határa (Ft)] |
-| (2.) | garantált bérminimum |
-
-- 2. A Hszt. 12. mellékletében foglalt „„A” munkaköri kategória” megjelölésű táblázat E):2–E):7 mezője helyébe a következő mezők lépnek:
-
-|  | [E) |
-| --- | --- |
-|  | A fizetési fokozat szerinti illetmény felső határa (Ft)] |
-| (2.) | 260 000 |
-| (3.) | 290 000 |
-| (4.) | 325 000 |
-| (5.) | 360 000 |
-| (6.) | 390 000 |
-| (7.) | 420 000 |
-
-- 3. A Hszt. 12. mellékletében foglalt „„B” munkaköri kategória” megjelölésű táblázat B):2 mezője helyébe a következő mező lép:
-
-|  | [B) |
-| --- | --- |
-|  | Felső határ (Ft)] |
-| (2.) | 555 000 |
-
-- 4. A Hszt. 12. mellékletében foglalt „„C” munkaköri kategória” megjelölésű táblázat E):2–E):7 mezője helyébe a következő mezők lépnek:
-
-|  | [E) |
-| --- | --- |
-|  | A fizetési fokozat szerinti illetmény felső határa (Ft)] |
-| (2.) | 295 000 |
-| (3.) | 325 000 |
-| (4.) | 355 000 |
-| (5.) | 380 000 |
-| (6.) | 405 000 |
-| (7.) | 435 000 |
-
-- 5. A Hszt. 12. mellékletében foglalt „„D” munkaköri kategória” megjelölésű táblázat E):2–E):7 mezője helyébe a következő mezők lépnek:
-
-|  | [E) |
-| --- | --- |
-|  | A fizetési fokozat szerinti illetmény felső határa (Ft)] |
-| (2.) | 360 000 |
-| (3.) | 385 000 |
-| (4.) | 400 000 |
-| (5.) | 430 000 |
-| (6.) | 460 000 |
-| (7.) | 510 000 |
-
-- 6. A Hszt. 12. mellékletében foglalt „„E” munkaköri kategória” megjelölésű táblázat E):2–E):7 mezője helyébe a következő mezők lépnek:
-
-|  | [E) |
-| --- | --- |
-|  | A fizetési fokozat szerinti illetmény felső határa (Ft)] |
-| (2.) | 400 000 |
-| (3.) | 435 000 |
-| (4.) | 470 000 |
-| (5.) | 500 000 |
-| (6.) | 535 000 |
-| (7.) | 570 000 |
-
-- 7. A Hszt. 12. mellékletében foglalt „Vezetői munkaköri osztály” megjelölésű táblázat C):1–C):3 mezője helyébe a következő mezők lépnek:
-
-|  | [C) |
-| --- | --- |
-|  | A vezetői munkaköri kategória szerinti illetmény felső határa (Ft)] |
-| (1.) | 1 110 000 |
-| (2.) | 885 000 |
-| (3.) | 775 000 |

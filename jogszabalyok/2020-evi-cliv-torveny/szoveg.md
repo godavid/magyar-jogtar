@@ -70,7 +70,7 @@ az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyago
 
 19. § Az Egyesült Nemzetek Kábítószer Bizottsága 2019. március 19-én elfogadott 62/5–62/9. számú határozatainak, valamint 2020. március 4-én elfogadott 63/4–63/13. számú határozatainak végrehajtásához szükséges intézkedésekről az egészségügyért felelős miniszter gondoskodik.
 
-20. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 2. számú melléklet A) pontjában foglalt táblázat 7., 69., 77., 92–95. sora hatályát veszti.
+20. §
 
 ### 1. melléklet a 2020. évi CLIV. törvényhez
 

@@ -46,7 +46,7 @@ egyes pénzügyi tárgyú törvényeknek a betétbiztosítást, valamint a pénz
 
 (2)
 
-(3) A Hpt. 217. § (1) bekezdésében a „tizenöt munkanapon” szövegrész helyébe a „tíz munkanapon” szöveg lép.
+(3)
 
 (4)
 

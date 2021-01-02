@@ -128,33 +128,19 @@ a közalkalmazotti jogviszony átalakulás nélkül, e törvény erejénél fogv
 
 29. § (1)
 
-(2) A Kultv. 1. §-a a következő g) és h) ponttal egészül ki:
-
-(E törvény célja:)
-
-„g) gondoskodni a digitális formában, interneten szolgáltatott és nyilvánosságra hozott tartalom (a továbbiakban: webtartalom) archiválásáról, használatának biztosításáról, valamint
-
-h) szabályozni a webtartalom archiválásával kapcsolatos feladatok ellátását, az archivált webtartalmak használatának lehetőségeit.”
+(2)
 
 #### 30. §
 
 31. § (1)
 
-(2) A Kultv. 5. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(E törvény hatálya kiterjed:)
-
-„d) a webtartalomra és a tartalomszolgáltatókra.”
+(2)
 
 #### 32. §
 
 #### 33. §
 
-34. § (1) A Kultv. 60. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(A nyilvános könyvtári ellátás rendszerének működtetését és fejlesztését segítő központi szolgáltatások:)
-
-„g) a webarchiválás feladatának ellátása a digitális kulturális örökség megőrzése érdekében.”
+34. § (1)
 
 (2)
 
@@ -162,13 +148,7 @@ h) szabályozni a webtartalom archiválásával kapcsolatos feladatok ellátás�
 
 36. § (1)
 
-(2) A Kultv. 61. § (4) bekezdése a következő p) és q) ponttal egészül ki:
-
-(Az 55. §-ban foglaltakon túl a nemzeti könyvtár alapfeladatai:)
-
-„p) a webtartalom begyűjtése és archiválása, valamint
-
-q) a webarchívum használatának biztosítása a könyvtárhasználók részére.”
+(2)
 
 #### 37. §
 
@@ -192,15 +172,11 @@ q) a webarchívum használatának biztosítása a könyvtárhasználók részér
 
 (2)
 
-(3) A Kultv. 100. § (1) bekezdése a következő v) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy a törvény végrehajtásaként rendeletben szabályozza)
-
-„v) a webtartalom begyűjtésének eljárási szabályait, a begyűjtés módját és rendszerességét, a begyűjtés szempontjainak meghatározását, a webarchiválás alól kivételt képező webtartalmak körét, a tartalomszolgáltatók kötelezettségeit, az archivált webtartalom használatának feltételeit és lehetőségeit.”
+(3)
 
 #### 47. §
 
-48. § (1) A Kultv. 1. számú melléklete az 1. melléklet szerint módosul.
+48. § (1)
 
 (2)
 
@@ -227,23 +203,5 @@ q) a webarchívum használatának biztosítása a könyvtárhasználók részér
 #### 58. §
 
 ### 1. melléklet a 2020. évi XXXII. törvényhez
-
-- 1. A Kultv. 1. számú melléklete a következő ly) ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„ly) Tartalomszolgáltató: az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény szerinti szolgáltató, aki webtartalmat tesz közzé a honlapon, ide nem értve a közvetítő szolgáltatókat.”
-
-- 2. A Kultv. 1. számú melléklete a következő ny) ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„ny) Webaratás: a webarchiválás olyan módszere, amellyel a hivatkozással összekapcsolt webtartalmak speciális szoftverrel kerülnek begyűjtésre.”
-
-- 3. A Kultv. 1. számú melléklete a következő ty) ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„ty) Webarchívum: az archivált webtartalmakból álló, metaadatokkal ellátott gyűjtemény.”
 
 ### 2. melléklet a 2020. évi XXXII. törvényhez
