@@ -273,6 +273,10 @@ járó kiadások és bevételek értékelésére (a továbbiakban: költség-has
 
 (5) A Hivatal a (4) bekezdésben meghatározott feladatainak teljesítése érdekében jogosult a végrehajtó hatóságtól, az adott energiahatékonyság-javító intézkedéssel érintett végső felhasználótól, az energetikai tanúsítványok elektronikus nyilvántartását vezető szervezettől, valamint a közreműködő energetikai auditortól vagy auditáló szervezettől információt kérni, a kapcsolódó iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot és személyes adatot tartalmazó iratokat is, valamint jogosult az általános közigazgatási rendtartásról szóló törvény szerinti szemlét lefolytatni.
 
+(6) A végrehajtó hatóság, az adott energiahatékonyság-javító intézkedéssel érintett végső felhasználó, az energetikai tanúsítványok elektronikus nyilvántartását vezető szervezet, valamint a közreműködő energetikai auditor vagy auditáló szervezet a Hivatal részére megadja a (4) bekezdés szerinti feladatai ellátásához szükséges információkat. Az adatszolgáltatás tartalmát és formáját a Hivatal az adatszolgáltatási kötelezettséget előíró határozatában határozza meg. Az adatszolgáltatási kötelezettség nem vagy nem megfelelő teljesítése esetén a Hivatal ötmillió forintig terjedő bírságot szab ki.
+
+(7) A (6) bekezdés szerinti bírság ugyanazon mulasztás tekintetében – összesen legfeljebb hat alkalommal, legalább 60 napos időközönként, de az első bírságot megállapító határozat véglegessé válását követő legfeljebb egy éven belül – ismételten kiszabható.
+
 #### 12/A. Energiahatékonysági kötelezettségi rendszer
 
 15. § (1) A Vet. és a Get. szerinti villamos energia és földgáz kereskedelmi és egyetemes szolgáltatói engedélyes, valamint közlekedési célú üzemanyagot végső felhasználók részére értékesítő gazdálkodó szervezet (a továbbiakban együtt: kötelezett fél)
@@ -316,6 +320,26 @@ járó kiadások és bevételek értékelésére (a továbbiakban: költség-has
 (3) A hitelesített energiamegtakarítás korlátozottan forgalomképes vagyoni értékű jog, amely kizárólag a kötelezett fél részére ruházható át. A nem hitelesített vagy a Hivatal által érvénytelenített energiamegtakarítás átruházása, továbbá az energiamegtakarítás nem kötelezett félnek minősülő vevő részére történő átruházása semmis.
 
 (4) A hitelesített energiamegtakarítás kétoldalú megállapodás keretében vagy szervezett piacon ruházható át. A hitelesített energiamegtakarítás szervezett piacon történő átruházásának részletszabályait e törvény végrehajtására kiadott kormányrendelet állapítja meg.
+
+15/C. § (1) A Hivatal az egyes kötelezett felek vonatkozásában határozatban állapítja meg a tárgyévben esedékes energiamegtakarítás mértékét a tárgyévet megelőző év november 30. napjáig. Ha a szükséges adatok ezen időpontig nem állnak rendelkezésre, a Hivatal a rendelkezésére álló adatok alapján hozza meg a határozatot. A kötelezett fél a Hivatal elnökének e törvény végrehajtására kiadott rendeletében meghatározott módon, adattartalommal és határidőben a Hivatal számára megküldi az energiamegtakarítási kötelezettsége megállapításához szükséges adatokat. A kötelezett fél e bekezdés szerinti adatszolgáltatási kötelezettségének teljesítését a Hivatal ellenőrzi. Az adatszolgáltatási kötelezettség nem vagy nem megfelelő teljesítése esetén a Hivatal a Vet. vagy a Get. hatálya alá tartozó kötelezett féllel szemben a Vet. vagy a Get. szerinti jogkövetkezményeket alkalmazza, a közlekedési célú üzemanyagot végső felhasználók részére értékesítő kötelezett féllel szemben tízmillió forintig terjedő bírságot szab ki azzal, hogy az alkalmazott jogkövetkezmény nem mentesíti a kötelezett felet az energiamegtakarítási kötelezettsége alól.
+
+(2) A Nemzeti Adó- és Vámhivatal minden év szeptember 30-ig a Hivatal rendelkezésére bocsátja a közlekedési célú üzemanyagot értékesítők 15. § (1) bekezdése szerinti kötelezettségének megállapításához szükséges adatokat.
+
+(3) A kötelezett fél átalakulása vagy egyesülése esetén a jogutód energiamegtakarítási kötelezettsége éves mértékének meghatározása során figyelembe kell venni a jogelőd által értékesített energiamennyiségeket.
+
+(4) A kötelezett fél szétválása esetén a jogutód energiamegtakarítási kötelezettsége éves mértékének meghatározása során a vagyonmegosztás arányában kell figyelembe venni a szétváló jogi személy által értékesített energiamennyiségeket.
+
+(5) A (3) és (4) bekezdés szerinti szabályokat a legutolsó és a korábbi jogutódlásokra kiterjedően is alkalmazni kell.
+
+(6) A Hivatal nem állapítja meg határozatban a tárgyévben esedékes energiamegtakarítás kötelezettre vonatkozó mértékét, ha – a jogutódlás esetét ide nem értve – a kötelezett fél
+
+- a) a tárgyévet megelőző második évben nem rendelkezett vagy nem teljes évre vonatkozóan rendelkezett értékesítési jogosultsággal,
+- b) a tárgyévet megelőző két év egyikében sem rendelkezett vagy nem teljes évre vonatkozóan rendelkezett értékesítési jogosultsággal.
+
+(7) A (6) bekezdés alkalmazásában a tárgyévi energiamegtakarítási kötelezettség
+
+- a) alapja a (6) bekezdés a) pontja szerinti esetben a tárgyévet megelőző évben, a (6) bekezdés b) pontja szerinti esetben a tárgyévben végső felhasználók részére Magyarországon értékesített, kötelezettség alá vont energiamennyiség,
+- b) mértéke a 15. § (1) bekezdésben a tárgyévre előírt %-os mérték.
 
 ### VI. Fejezet — ENERGIATERMELŐ LÉTESÍTMÉNYEK, HŐENERGIÁT SZÁLLÍTÓ HÁLÓZATOK ÉS HULLADÉKHŐT TERMELŐ IPARI LÉTESÍTMÉNYEK HATÉKONY MŰKÖDTETÉSE
 
@@ -960,7 +984,7 @@ köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4
 - d) a nagy hatásfokú kapcsolt energiatermelés, valamint a hatékony távfűtés és a hatékony távhűtés megvalósíthatósági potenciálja átfogó értékeléséhez szükséges országos költség-haszon elemzés kötelező tartalmi elemeit és elkészítésének elveit,
 - e) a felújítási kötelezettség alá eső kormányzati épületekből a tényleges felújításra kijelölt mennyiség meghatározásának részletes szabályait, a felújítási kötelezettség teljesítésének módjára vonatkozó szabályokat, a felújítási kötelezettség alá eső kormányzati épületek nyilvántartása közzétételének szabályait, valamint a felújítási kötelezettség alá eső kormányzati épületek nyilvántartását vezető miniszter kijelölését,
 - f) a közintézmények által az energiahatékonysági célú beszerzéseik során megköthető energiahatékonyság-alapú szerződés kötelező tartalmi elemeit,
-- g) a végfelhasználási energiamegtakarítás alapját képező energiamennyiség kiszámítására vonatkozó számítási módszert, a végfelhasználási energiamegtakarítás mértékének csökkentésére vonatkozó szabályokat, a szakpolitikai intézkedésekre vonatkozó követelményeket, a szakpolitikai intézkedések végrehajtásával megvalósuló energiamegtakarítás kiszámításának módszerét, a szakpolitikai intézkedés alkalmazására vonatkozó módszertan kötelező tartalmi elemeit, az Európai Bizottság számára történő bejelentés egyes szabályait, valamint az egyes szakpolitikai intézkedések megvalósításáért felelős végrehajtó hatóságok kijelölését,
+- g) az energiahatékonysági kötelezettségi rendszerben az energiamegtakarítási kötelezettség más kötelezett felek, kötelezett félnek nem minősülő energiahatékonysági szolgáltatók vagy egyéb harmadik személyek által megvalósított, hitelesített energiamegtakarítás szervezett piacon történő átruházásának, továbbá az energiahatékonysági intézkedések és az energetikai felújítások finanszírozásának részletszabályait
 - h) a 7. § f) pontja szerinti költség-haszon elemzésre kötelezettek körét, a költség-haszon elemzéssel érintettek jogait és kötelezettségeit, a költség-haszon elemzés jóváhagyásának és a költség-haszon elemzéssel kapcsolatos mentesség részletes szabályait, valamint a költség-haszon elemzés módszertanának kialakítása érdekében a Hivatal részére történő adatszolgáltatás részletes szabályait,
 - i) az energetikai auditra vonatkozó minimális tartalmi követelményeket és az energetikai auditálási tevékenység folytatásának részletes szabályait,
 - j) az energetikai auditok ellenőrzésére, valamint a kötelező energetikai auditálás teljesítésének ellenőrzésére vonatkozó szabályokat,
@@ -972,13 +996,16 @@ köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4
 - p) a távhűtés mérésével, elszámolásával, a díjfizetéssel, a számlázással és a felhasználók tájékoztatásával kapcsolatos rendelkezéseket, a felek jogait és kötelezettségeit;
 - q) az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet energiafogyasztási szintjére, az energetikai szakreferens által ellátandó tevékenységre, a természetes személy energetikai szakreferens szükséges szakmai képesítésére és gyakorlatára, a szakreferens igénybevételével kapcsolatos adatszolgáltatási kötelezettségre, valamint az energetikai szakreferens tevékenységével kapcsolatos jelentéstételre – ide nem értve a személyes adatokat – vonatkozó részletes szabályokat,
 - r) a Nemzeti Energetikusi Hálózat szakmai feladatait közvetlenül ellátó természetes személy szakmai végzettségére vonatkozó követelményeket, a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épületekre vonatkozó energiafogyasztási adatok bejelentésére vonatkozó részletes szabályokat,
-- s) a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
+- s) a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat
+- t) a szakpolitikai intézkedésekre vonatkozó követelményeket, a szakpolitikai intézkedések végrehajtásával megvalósuló energiamegtakarítás kiszámításának módszereit és elveit, azon belül az addicionális energiamegtakarítás kritériumait, a nyomon követés és hitelesítés szabályait, az Európai Bizottság számára történő bejelentés egyes szabályait, valamint az egyes szakpolitikai intézkedések megvalósításáért felelős végrehajtó hatóságok kijelölését,
+- u) az energiahatékonysági kötelezettségi rendszerben a kötelezett fél által igénybe vett oktatási, képzési, tanácsadási és szemléletformálási program eredményeként megvalósult energiamegtakarítás tekintetében az elszámolhatóság részarányát, rendeletben állapítsa meg.
 
 45. § Felhatalmazást kap az energiapolitikáért felelős miniszter arra, hogy
 
 - a) az energiahatékonysággal kapcsolatos, az energiafogyasztók és a piaci szereplők tájékoztatására vonatkozó részletes szabályokat,
 - b) az energiahatékonyság növelésével kapcsolatos energiahatékonysági tájékoztató honlap tartalmával és üzemeltetésével kapcsolatos részletes szabályokat,
-- c)–d) rendeletben állapítsa meg.
+- c) az első kötelezettségi időszak vonatkozásában az alternatív szakpolitikai intézkedések és egyéni fellépések révén elért energiamegtakarítás számbavételéhez és hitelesítéséhez szükséges adatok körét és az adatszolgáltatás rendjét,
+- d) rendeletben állapítsa meg.
 
 46. § Felhatalmazást kap a Hivatal elnöke, hogy
 
