@@ -562,7 +562,13 @@ eb után.
 
 43. § (1) Aki tevékenységével vagy mulasztásával az állatok védelmére, kíméletére vonatkozó jogszabály vagy hatósági határozat előírását megsérti vagy annak nem tesz eleget, magatartásának súlyához, ismétlődéséhez, és különösen az állatnak okozott sérelem jellegéhez, időtartamához igazodó mértékű állatvédelmi bírságot köteles fizetni.
 
+(1a) Az állatvédelmi bírság alapösszege – az (1b) bekezdés kivételével – tizenötezer forint.
+
+(1b) Az állatvédelmi bírság alapösszege hetvenötezer forint, ha az állatvédelmi bírság kiszabására okot adó jogsértés elszenvedője kedvtelésből tartott állat.
+
 (2) Az állatvédelmi bírságot az állatvédelmi hatóság szabja ki.
+
+(2a) Az állatvédelmi hatóság állatvédelmi bírság helyszíni bírságként történő kiszabására jogosult.
 
 (3)
 

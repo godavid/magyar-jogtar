@@ -1451,7 +1451,7 @@ elérhetővé tételével összefügg.
 
 59. § (1) Az élelmiszer-ellenőrzési bírság és a takarmány-ellenőrzési bírság legkisebb összege tizenötezer forint, legmagasabb összege
 
-- a) ha az eljárás alá vont személy a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, 100 millió forintot meghaladó éves nettó árbevétellel rendelkező vállalkozás, az eljárás alá vont személy éves nettó árbevételének 10%-áig, de legfeljebb ötszázmillió forintig, illetve az emberek vagy állatok széles körének egészségét károsító vagy veszélyeztető, továbbá a felhasználók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb ötmilliárd forintig;
+- a) ha az eljárás alá vont személy a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, 20 millió forintot meghaladó éves nettó árbevétellel rendelkező vállalkozás, az eljárás alá vont személy éves nettó árbevételének 10%-áig, de legfeljebb ötszázmillió forintig, illetve az emberek vagy állatok széles körének egészségét károsító vagy veszélyeztető, továbbá a felhasználók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb ötmilliárd forintig;
 - b) az a) pont hatálya alá nem tartozó esetben 500 ezer forintig, illetve az emberek vagy állatok széles körének egészségét károsító vagy veszélyeztető, továbbá a felhasználók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén az eljárás alá vont személy éves nettó árbevételének 10%-áig, az Szt. hatálya alá nem tartozó eljárás alá vont személy esetében tízmillió forintig terjedhet.
 
 (2) Ha az eljárás alá vont személy a tevékenységét a 14/A § (1) bekezdésének, vagy a 23. § (1), illetve (2) bekezdésének be nem tartásával végezte, az élelmiszer-ellenőrzési bírság, illetve a takarmány-ellenőrzési bírság legkisebb összege tizenötezer forint, legmagasabb összege pedig – az (1) bekezdéstől eltérően – százmillió forint, illetve az emberek vagy állatok széles körének egészségét károsító vagy veszélyeztető, továbbá a felhasználók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén kétmilliárd forint lehet.
@@ -1479,7 +1479,7 @@ elérhetővé tételével összefügg.
 
 59/A. § (1) Az élelmiszerlánc-felügyeleti szerv helyszíni bírságot szabhat ki, ha a jogsértés intézkedés alkalmazását nem teszi szükségessé. Helyszíni bírság nem alkalmazható három éven belül ismételten megállapított azonos jogsértés esetén.
 
-(2) A helyszíni bírság legkisebb összege huszonötezer forint, legmagasabb összege százezer forint.
+(2) A helyszíni bírság legkisebb összege huszonötezer forint, legmagasabb összege kettőszázezer forint.
 
 ### Növényvédelmi bírság
 

@@ -1069,7 +1069,7 @@ bűncselekmény elkövetése miatt jogerősen megállapította,
 - b) a védett természeti értéket jogellenesen veszélyezteti, károsítja, elpusztítja, vagy védett természeti terület állapotát, minőségét jogellenesen veszélyezteti, rongálja, abban kárt okoz;
 - c) a védett természeti területet, továbbá barlangot jogellenesen megváltoztatja, átalakítja, illetve azon vagy abban a védelem céljával össze nem egyeztethető tevékenységet folytat;
 - d) a védett élő szervezet, életközösség élőhelyét, illetőleg élettevékenységét jelentős mértékben zavarja;
-- e) a természetvédelmi hatóság engedélyéhez, hozzájárulásához kötött tevékenységet engedély, hozzájárulás nélkül vagy attól eltérően végez
+- e) természetvédelmi hatósági engedélyköteles tevékenységet, vagy – a természetvédelmi hatóság szakhatósági közreműködési kötelezettségéhez, vagy természetvédelmi szakkérdés vizsgálati kötelezettséghez kötött – más hatósági engedélyköteles tevékenységet engedély nélkül vagy az engedély természetvédelmi előírásaitól eltérően, továbbá a természet védelmét szolgáló jogszabályi előírást érintő bejelentést, ellenőrzött bejelentést anélkül vagy a tevékenység megkezdésére való jogosultság megnyílását megelőzően végez,
 
 természetvédelmi bírságot köteles fizetni.
 
