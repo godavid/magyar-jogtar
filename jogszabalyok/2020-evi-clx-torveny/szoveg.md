@@ -36,37 +36,11 @@ egyes energiahatékonysági tárgyú törvények módosításáról
 
 13. § (1)
 
-(2) Az Ehat. Tv. 14. §-a a következő (6) és (7) bekezdéssel egészül ki:
-
-„(6) A végrehajtó hatóság, az adott energiahatékonyság-javító intézkedéssel érintett végső felhasználó, az energetikai tanúsítványok elektronikus nyilvántartását vezető szervezet, valamint a közreműködő energetikai auditor vagy auditáló szervezet a Hivatal részére megadja a (4) bekezdés szerinti feladatai ellátásához szükséges információkat. Az adatszolgáltatás tartalmát és formáját a Hivatal az adatszolgáltatási kötelezettséget előíró határozatában határozza meg. Az adatszolgáltatási kötelezettség nem vagy nem megfelelő teljesítése esetén a Hivatal ötmillió forintig terjedő bírságot szab ki.
-
-(7) A (6) bekezdés szerinti bírság ugyanazon mulasztás tekintetében – összesen legfeljebb hat alkalommal, legalább 60 napos időközönként, de az első bírságot megállapító határozat véglegessé válását követő legfeljebb egy éven belül – ismételten kiszabható.”
+(2)
 
 14. § (1)
 
-(2) Az Ehat. Tv. 12/A. alcíme a következő 15/C. §-sal egészül ki:
-
-„15/C. § (1) A Hivatal az egyes kötelezett felek vonatkozásában határozatban állapítja meg a tárgyévben esedékes energiamegtakarítás mértékét a tárgyévet megelőző év november 30. napjáig. Ha a szükséges adatok ezen időpontig nem állnak rendelkezésre, a Hivatal a rendelkezésére álló adatok alapján hozza meg a határozatot. A kötelezett fél a Hivatal elnökének e törvény végrehajtására kiadott rendeletében meghatározott módon, adattartalommal és határidőben a Hivatal számára megküldi az energiamegtakarítási kötelezettsége megállapításához szükséges adatokat. A kötelezett fél e bekezdés szerinti adatszolgáltatási kötelezettségének teljesítését a Hivatal ellenőrzi. Az adatszolgáltatási kötelezettség nem vagy nem megfelelő teljesítése esetén a Hivatal a Vet. vagy a Get. hatálya alá tartozó kötelezett féllel szemben a Vet. vagy a Get. szerinti jogkövetkezményeket alkalmazza, a közlekedési célú üzemanyagot végső felhasználók részére értékesítő kötelezett féllel szemben tízmillió forintig terjedő bírságot szab ki azzal, hogy az alkalmazott jogkövetkezmény nem mentesíti a kötelezett felet az energiamegtakarítási kötelezettsége alól.
-
-(2) A Nemzeti Adó- és Vámhivatal minden év szeptember 30-ig a Hivatal rendelkezésére bocsátja a közlekedési célú üzemanyagot értékesítők 15. § (1) bekezdése szerinti kötelezettségének megállapításához szükséges adatokat.
-
-(3) A kötelezett fél átalakulása vagy egyesülése esetén a jogutód energiamegtakarítási kötelezettsége éves mértékének meghatározása során figyelembe kell venni a jogelőd által értékesített energiamennyiségeket.
-
-(4) A kötelezett fél szétválása esetén a jogutód energiamegtakarítási kötelezettsége éves mértékének meghatározása során a vagyonmegosztás arányában kell figyelembe venni a szétváló jogi személy által értékesített energiamennyiségeket.
-
-(5) A (3) és (4) bekezdés szerinti szabályokat a legutolsó és a korábbi jogutódlásokra kiterjedően is alkalmazni kell.
-
-(6) A Hivatal nem állapítja meg határozatban a tárgyévben esedékes energiamegtakarítás kötelezettre vonatkozó mértékét, ha – a jogutódlás esetét ide nem értve – a kötelezett fél
-
-a) a tárgyévet megelőző második évben nem rendelkezett vagy nem teljes évre vonatkozóan rendelkezett értékesítési jogosultsággal,
-
-b) a tárgyévet megelőző két év egyikében sem rendelkezett vagy nem teljes évre vonatkozóan rendelkezett értékesítési jogosultsággal.
-
-(7) A (6) bekezdés alkalmazásában a tárgyévi energiamegtakarítási kötelezettség
-
-a) alapja a (6) bekezdés a) pontja szerinti esetben a tárgyévet megelőző évben, a (6) bekezdés b) pontja szerinti esetben a tárgyévben végső felhasználók részére Magyarországon értékesített, kötelezettség alá vont energiamennyiség,
-
-b) mértéke a 15. § (1) bekezdésben a tárgyévre előírt %-os mérték.”
+(2)
 
 (3)
 
@@ -84,33 +58,13 @@ b) mértéke a 15. § (1) bekezdésben a tárgyévre előírt %-os mérték.”
 
 (2)
 
-(3) Az Ehat. Tv. 44. § g) pontja helyébe a következő rendelkezés lép:
+(3)
 
-(Felhatalmazást kap a Kormány, hogy)
-
-„g) az energiahatékonysági kötelezettségi rendszerben az energiamegtakarítási kötelezettség más kötelezett felek, kötelezett félnek nem minősülő energiahatékonysági szolgáltatók vagy egyéb harmadik személyek által megvalósított, hitelesített energiamegtakarítás szervezett piacon történő átruházásának, továbbá az energiahatékonysági intézkedések és az energetikai felújítások finanszírozásának részletszabályait”
-
-(rendeletben állapítsa meg.)
-
-(4) Az Ehat. Tv. 44. §-a a következő t) és u) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„t) a szakpolitikai intézkedésekre vonatkozó követelményeket, a szakpolitikai intézkedések végrehajtásával megvalósuló energiamegtakarítás kiszámításának módszereit és elveit, azon belül az addicionális energiamegtakarítás kritériumait, a nyomon követés és hitelesítés szabályait, az Európai Bizottság számára történő bejelentés egyes szabályait, valamint az egyes szakpolitikai intézkedések megvalósításáért felelős végrehajtó hatóságok kijelölését,
-
-u) az energiahatékonysági kötelezettségi rendszerben a kötelezett fél által igénybe vett oktatási, képzési, tanácsadási és szemléletformálási program eredményeként megvalósult energiamegtakarítás tekintetében az elszámolhatóság részarányát,”
-
-(rendeletben állapítsa meg.)
+(4)
 
 (5)
 
-21. § (1) Az Ehat. Tv. 45. §-a a következő c) ponttal egészül ki:
-
-(Felhatalmazást kap az energiapolitikáért felelős miniszter arra, hogy)
-
-„c) az első kötelezettségi időszak vonatkozásában az alternatív szakpolitikai intézkedések és egyéni fellépések révén elért energiamegtakarítás számbavételéhez és hitelesítéséhez szükséges adatok körét és az adatszolgáltatás rendjét,”
-
-(rendeletben állapítsa meg.)
+21. § (1)
 
 (2)
 

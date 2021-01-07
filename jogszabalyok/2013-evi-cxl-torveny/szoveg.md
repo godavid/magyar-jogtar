@@ -17,9 +17,9 @@ Az Országgyűlés a jelentős gazdasági károkat okozó és a közszolgáltat�
 - 3. fémkereskedő: a fémkereskedelmi engedély jogosultja,
 - 4. felvásárlás: fémkereskedelmi engedélyköteles anyag ellenérték vagy ellenszolgáltatás fejében történő beszerzése,
 - 5. hasznosítás: fémkereskedelmi engedélyköteles anyag fémtartalmának feldolgozása, beolvasztása, megmunkálása, átalakítása,
-- 6. hulladékgazdálkodási közszolgáltatást nyújtó szervezet: a hulladékról szóló törvényben meghatározott szolgáltatást ellátó közszolgáltató,
+- 6. hulladékgazdálkodási közszolgáltatást nyújtó szervezet: a hulladékról szóló törvényben meghatározott szolgáltatást ellátó közszolgáltató, a közszolgáltatói alvállalkozó és a Koordináló szerv,
 - 7. igazolt anyagi kár: okirattal, a számvitelről szóló törvény szerinti bizonylattal, illetve más hitelt érdemlő módon alátámasztott kár,
-- 8. ingatlantulajdonos: az ingatlan tulajdonosa, vagyonkezelője, birtokosa vagy használója, ideértve azt az esetet is, amikor az ingatlan tulajdonosa, vagyonkezelője, birtokosa, illetve használója egyben a hulladék termelője, birtokosa,
+- 8. ingatlantulajdonos: az ingatlan tulajdonosa, vagyonkezelője, birtokosa vagy használója, ideértve azt az esetet is, amikor az ingatlan tulajdonosa, vagyonkezelője, birtokosa, illetve használója egyben a fémkereskedelmi engedélyköteles anyag termelője, birtokosa,
 - 9. közszolgáltatást nyújtó gazdálkodó szervezet: olyan gazdálkodó szervezet, amely az államháztartáson belüli vagy kívüli szervezet vagy személy által más szerv vagy személy számára végzett, jogszabályban meghatározott, a közfeladat-ellátás körébe tartozó olyan szolgáltatást nyújt, amely nem jár közhatalom gyakorlásával és az e törvény végrehajtására kiadott kormányrendeletben meghatározott felismerésre alkalmas jellemzővel rendelkező fémkereskedelmi engedélyköteles anyagot értékesít,
 - 10. piaci érték: a 4. § (11) bekezdésében és az 5. § (3) bekezdés e) pontjában meghatározott vételárak alapján számított országos átlagár.
 
@@ -43,15 +43,15 @@ függetlenül attól, hogy az értékesíthető alkatrészek, tartozékok és fe
 
 (2) Az a személy, aki az épített környezet alakításáról és védelméről szóló törvény hatálya alá tartozó építmények építését vagy bontását végzi, az engedély nélkül végezheti az e törvény szerinti építési vagy bontási tevékenységéből származó fémkereskedelmi engedélyköteles anyag felvásárlását. Az építési vagy bontási tevékenységéből származó és annak során tulajdonába került fémkereskedelmi engedélyköteles anyagot kizárólag fémkereskedő részére értékesítheti. Ha az e bekezdésben meghatározott tevékenységből a 3. § (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyagot teljes egészében vagy – az építési és bontási hulladék kezelésének részletes szabályairól szóló miniszteri rendeletben meghatározott – a tárolás helyén tartható maximális – mennyiséget kitermelte, azt az építési tevékenységet végző személy az értékesítést megelőzően köteles a bontás helye szerint illetékes fémkereskedelmi hatósághoz a (7) bekezdésben meghatározott módon bejelenteni. A bontási tevékenységéhez kapcsolódó engedélyeket köteles az építtető vagy a kivitelező a bontás helyén tartani és a fémkereskedelmi hatóság kérésére a helyszínen bemutatni.
 
-(3) A hulladékgazdálkodási közszolgáltatást végző gazdálkodó szervezet hulladékgazdálkodási közszolgáltatási szerződés alapján végzett tevékenysége fémkereskedelmi engedély nélkül végezhető.
+(3) A hulladékgazdálkodási közszolgáltatást nyújtó gazdálkodó szervezet hulladékgazdálkodási közszolgáltatási szerződés alapján végzett tevékenysége fémkereskedelmi engedély nélkül végezhető.
 
-(4) Természetes személy tulajdonában vagy használatában álló ingatlanon legfeljebb 3 m3 térfogatú – egyértelműen az ingatlanon termelt – fémkereskedelmi engedélyköteles anyag – ide nem értve a készterméket – tárolható. Ha a fémkereskedelmi hatóság ellenőrzése során megállapítja, hogy a természetes személy ingatlantulajdonos e bekezdésben meghatározott térfogatot meghaladó fémkereskedelmi engedélyköteles anyagot tárol, – határidő tűzése és a kötelezettségeire vonatkozó felvilágosítás megadása mellett felszólítja a természetes személy ingatlantulajdonost az ingatlanon tárolt e bekezdésben meghatározott térfogatot meghaladó mennyiség fémkereskedő vagy hulladékgazdálkodási közszolgáltatást nyújtó szervezet részére történő leadására. A kötelezettség megtartását a fémkereskedelmi hatóság ellenőrzi.
+(4) Természetes személy tulajdonában vagy használatában álló ingatlanon legfeljebb 3 m3 térfogatú – egyértelműen az ingatlanon termelt – fémkereskedelmi engedélyköteles anyag – ide nem értve a készterméket – tárolható. Ha a fémkereskedelmi hatóság ellenőrzése során megállapítja, hogy a természetes személy ingatlantulajdonos e bekezdésben meghatározott térfogatot meghaladó fémkereskedelmi engedélyköteles anyagot tárol, – határidő tűzése és a kötelezettségeire vonatkozó felvilágosítás megadása mellett kötelezi a természetes személy ingatlantulajdonost az ingatlanon tárolt e bekezdésben meghatározott térfogatot meghaladó mennyiség fémkereskedő vagy hulladékgazdálkodási közszolgáltatást nyújtó szervezet részére történő leadására. A kötelezettség megtartását a fémkereskedelmi hatóság ellenőrzi.
 
 (5) Az e törvény végrehajtására kiadott Kormányrendeletben meghatározott felismerésre alkalmas jellemzővel rendelkező fémkereskedelmi engedélyköteles anyagok a (6) és (7) bekezdésben meghatározottak szerint értékesíthetők fémkereskedő részére.
 
-(6) A közszolgáltatást nyújtó gazdálkodó szervezeteknél termelődött, (5) bekezdés szerinti fémkereskedelmi engedélyköteles anyagok értékesítése kizárólag írásbeli szerződés alapján, az abban meghatározott fémkereskedő részére, a közszolgáltatást nyújtó gazdálkodó szervezetek által kiállított külön igazolás mellett történhet. A közszolgáltatást nyújtó gazdálkodó szervezet a fémkereskedővel kötött szerződés eredeti példányát, vagy hitelesített másolatát a fémkereskedelmi hatóság részére a szerződéskötéstől számított 15 napon belül köteles megküldeni.
+(6) A közszolgáltatást nyújtó gazdálkodó szervezetnél, illetve a hulladékgazdálkodási közszolgáltatást nyújtó szervezetnél termelődött vagy általa begyűjtött, (5) bekezdés szerinti fémkereskedelmi engedélyköteles anyag értékesítése kizárólag írásbeli szerződés alapján, az abban meghatározott telephellyel rendelkező fémkereskedő részére, a közszolgáltatást nyújtó gazdálkodó szervezet, illetve a hulladékgazdálkodási közszolgáltatást nyújtó szervezet által kiállított igazolás mellett történhet. A közszolgáltatást nyújtó gazdálkodó szervezet, illetve a hulladékgazdálkodási közszolgáltatást nyújtó szervezet a fémkereskedővel kötött szerződés eredeti példányát vagy annak hitelesített másolatát a fémkereskedelmi hatóság részére a szerződéskötéstől számított 15 napon belül köteles megküldeni.
 
-(7) Ha az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag termelődése az adott ingatlanhoz köthető, azt az ingatlantulajdonos az értékesítést megelőzően a lakóhelye vagy székhelye szerint illetékes fémkereskedelmi hatósághoz történő előzetes bejelentés mellett és a fémkereskedelmi hatóság visszaigazolását követően értékesítheti, kizárólag fémkereskedő részére. A visszaigazolást a fémkereskedelmi hatóság abban az esetben adja meg, ha nem merül fel adat az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag jogellenes származása tekintetében. A bejelentésnek tartalmaznia kell:
+(7) Ha az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag termelődése az adott ingatlanhoz, illetve az egyéni vállalkozó vagy gazdálkodó szervezet tevékenységéhez köthető, azt az ingatlantulajdonos, illetve az egyéni vállalkozó vagy gazdálkodó szervezet – az értékesítést megelőzően a tárolás helye szerint illetékes fémkereskedelmi hatósághoz történő előzetes bejelentés mellett – a fémkereskedelmi hatóság visszaigazolását követően kizárólag fémkereskedő részére értékesítheti. A bejelentésnek tartalmaznia kell:
 
 - a) a leadni kívánt fémkereskedelmi engedélyköteles anyag megnevezését, mennyiségét,
 - b) a felvásárló fémkereskedő megnevezését, telephelyének címét,
@@ -59,15 +59,28 @@ függetlenül attól, hogy az értékesíthető alkatrészek, tartozékok és fe
 - d) a bejelentő nevét, lakcímét vagy székhelyét, adóazonosító jelét vagy adószámát, telefonos elérhetőségét és
 - e) a (2) bekezdés esetén a bontási engedély számát, a bontás helyét, a bejelentő székhelyét és adószámát.
 
-(8) A bejelentést a fémkereskedelmi hatóság a bejelentő lakóhelye szerint illetékes általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv részére a beérkezéstől számított 5 munkanapon belül tájékoztatás céljából megküldi. A tájékoztatás célja annak megismerése, hogy az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv feladatkörében merült-e fel adat a leadni kívánt fémkereskedelmi engedélyköteles anyag eltulajdonított volta tekintetében. A fémkereskedelmi hatóság a tájékoztatás általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv részére történő megküldését követő 5 munkanapon belül írásbeli visszaigazolást küld a bejelentő és a bejelentésben megjelölt felvásárló fémkereskedő részére.
+(7a) A bejelentésnek a már ténylegesen kitermelt, az értékesítő személy birtokában lévő fémkereskedelmi engedélyköteles anyagra kell vonatkoznia.
+
+(7b) A fémkereskedelmi hatóság a (7) és (7a) bekezdésben foglaltaknak megfelelő bejelentés alapján a visszaigazolást megadja, ha nem merül fel adat az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag jogellenes származására. A visszaigazolás kizárólag egyszer, a visszaigazolás kézhezvételétől számított 15 napon belül használható fel. A 15 nap elteltével a visszaigazolás hatályát veszti. A visszaigazolás felhasználása során nem értékesített, visszaigazolással érintett fémkereskedelmi engedélyköteles anyag későbbi értékesítéséhez újabb, a (7) bekezdés szerinti előzetes bejelentést kell tenni.
+
+(8) A bejelentést a beérkezéstől számított 5 munkanapon belül a fémkereskedelmi hatóság a tárolás helye szerint illetékes általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv részére tájékoztatásul megküldi. A tájékoztatás célja annak megismerése, hogy az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv feladatkörében merült-e fel adat a leadni kívánt fémkereskedelmi engedélyköteles anyag eltulajdonított volta tekintetében. A fémkereskedelmi hatóság a tájékoztatásnak az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv részére történő megküldését követő 5 munkanapon belül visszaigazolást küld a bejelentő és a bejelentésben megjelölt felvásárló fémkereskedő részére.
+
+(8a) Ha a (8) bekezdés szerinti visszaigazolásban meghatározott fémkereskedelmi engedélyköteles anyaghoz képest legfeljebb 10%-kal több az átadni kívánt fémkereskedelmi engedélyköteles anyag (a továbbiakban: többlet), a fémkereskedő a többletet átveheti, ha a többlet a természetes személyek esetében az 500 kg, a gazdálkodó szervezetek esetében a 2500 kg mennyiséget nem haladja meg.
+
+(8b) Ha a fémkereskedő a (8a) bekezdés szerint a többletet átvette
+
+- a) az átadó az átadás napján a (7) bekezdés szerinti bejelentést tesz a többlet tekintetében,
+- b) a fémkereskedő az a) pont szerinti bejelentéssel kapcsolatos visszaigazolás megérkezéséig az átvett többletet elkülönítetten tárolja és azzal fémkereskedelmi tevékenységet nem végez.
 
 (9) A gazdálkodó szervezet és az egyéni vállalkozó az ingatlanán – a cégjegyzékben szereplő tevékenységi köréhez köthetően – termelődött fémkereskedelmi engedélyköteles anyagnak minősülő gyártási hulladékot birtokban tarthatja. Ha a fémkereskedelmi engedélyköteles anyag származása tekintetében kétség merül fel, úgy annak az e bekezdés szerintieknek megfelelő birtokban tartását a gazdálkodó szervezet köteles bizonyítani.
 
-(10) Fémkereskedőnek nem minősülő – nem természetes – személy fémkereskedelmi engedélyköteles anyagot kizárólag szigorú számadású anyagkísérő okmány birtokában szállíthat.
+(10) Fémkereskedőnek nem minősülő – nem természetes – személy fémkereskedelmi engedélyköteles anyagot kizárólag szigorú számadású szállítólevél birtokában szállíthat.
 
 (11) A hulladékgazdálkodási közszolgáltatást nyújtó szervezet az általa elszállított, az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyagot a (7) bekezdésben meghatározott módon értékesítheti.
 
-(12) Fémkereskedő égetett kábelt kizárólag a közszolgáltatást nyújtó gazdálkodó szervezettől vehet át.
+(12) Fémkereskedő égett kábelt kizárólag a közszolgáltatást nyújtó gazdálkodó szervezettől, illetve a fémkereskedelmi hatóság vagy bíróság döntése, továbbá tűzkár esetén tűzeseti hatósági bizonyítvány alapján vehet át.
+
+3/A. § A fémkereskedelmi hatóság 100 ezer forintig terjedő közigazgatási bírságot szab ki azzal a természetes személlyel szemben, aki az ingatlanon tárolható, a 3. § (4) bekezdésében meghatározott térfogatot meghaladó mennyiségű fémkereskedelmi engedélyköteles anyag fémkereskedő vagy hulladékgazdálkodási közszolgáltatást nyújtó szervezet részére történő leadási kötelezettségének a fémkereskedelmi hatóság kötelezése ellenére sem tesz eleget.
 
 #### 3. Fémkereskedelmi engedélyköteles tevékenységek
 
@@ -77,7 +90,7 @@ függetlenül attól, hogy az értékesíthető alkatrészek, tartozékok és fe
 
 (3) Ha fémkereskedelmi engedélyköteles anyagot fémkereskedő természetes személytől, üzletszerű gazdasági tevékenységet nem folytató jogi személytől vagy jogi személyiség nélküli szervezettől vesz át, és a természetes személy, az üzletszerű gazdasági tevékenységet nem folytató jogi személy vagy jogi személyiség nélküli szervezet esetén az annak képviseletében eljáró természetes személy a személyazonosságát igazolja, a fémkereskedelmi engedélyköteles anyag a természetes személynek az anyag jogszerű szerzésére vonatkozó nyilatkozata alapján is átvehető. Ha a természetes személy a személyazonosságát nem igazolja, az átvételt meg kell tagadni.
 
-(4) Fémkereskedelmi engedélyben rögzített telephellyel rendelkező fémkereskedő a fémkereskedelmi engedélyköteles anyagot kizárólag a fémkereskedelmi engedélyben meghatározott telephelyen raktározhatja és tárolhatja az alábbiak kivételével:
+(4) Fémkereskedelmi engedélyben rögzített telephellyel rendelkező fémkereskedő a fémkereskedelmi engedélyköteles anyagot saját vagy más fémkereskedő fémkereskedelmi engedélyben meghatározott telephelyén raktározhatja és tárolhatja az alábbiak kivételével:
 
 - a) a telephelyen kívüli tárolás, a szállítást, fuvarozást végző fémkereskedőnek nem minősülő személy és a fémkereskedő közötti szerződéses jogviszony alapján, igazolt módon a rakodási, illetve vasúti, vízi szállítási tevékenységhez kapcsolódik, annak részeként jelenik meg,
 - b) a bérmunka keretében történő telephelyen kívüli tárolás, ha a szerződő fél – a foglalkoztatotti létszám 20%-át mindenkor elérő létszámban – csökkent munkaképességűeket alkalmazó személy vagy büntetés-végrehajtási szerv.
@@ -86,13 +99,15 @@ függetlenül attól, hogy az értékesíthető alkatrészek, tartozékok és fe
 
 (6) Ha a fémkereskedő fémkereskedelmi engedélyköteles anyagot nem vesz át természetes személytől, illetve üzletszerű gazdasági tevékenységet nem folytató jogi személytől vagy jogi személyiség nélküli szervezettől, úgy fémkereskedelmi engedélyköteles anyagot telephely fenntartása nélkül is felvásárolhat és értékesíthet, amely tevékenysége során a tulajdonába került fémkereskedelmi engedélyköteles anyag tárolására nem kerülhet sor, még telephellyel rendelkező fémkereskedőnél sem.
 
+(6a) A (6) bekezdésben meghatározott tevékenység folytatása esetén a fémkereskedő a felvásárlás és értékesítés során a szállításról köteles a fémkereskedelmi hatóság részére elektronikus úton, előzetesen adatot szolgáltatni.
+
 (7) A fémkereskedelmi engedélyben meghatározott telephelyen a fémkereskedő saját tulajdonú fémkereskedelmi engedélyköteles anyagával folytatott engedélyköteles tevékenysége mellett
 
 - a) más személy tulajdonát képező fémkereskedelmi engedélyköteles anyag fémkereskedő általi, a fém kinyerésére irányuló feldolgozása vagy más anyag vagy termék előállításához való felhasználása,
 - b) nem a fémkereskedő tulajdonát képező fémkereskedelmi engedélyköteles anyag más személy általi, a fém kinyerésére irányuló feldolgozása vagy más anyag vagy termék előállításához való felhasználása,
 - c) más személy tulajdonát képező, betárolt fémkereskedelmi engedélyköteles anyag raktározása
 
-is végezhető, feltéve, ha az a) és b) pont szerinti felhasználásról, tárolásról, raktározásról a felek írásban megállapodtak.
+is végezhető, feltéve, ha felhasználásról, tárolásról, raktározásról a felek írásban megállapodtak.
 
 (8) Fémkereskedelmi engedélyköteles anyagot a fémkereskedő csak a külön jogszabályban meghatározott adattartalmú anyagkísérő okmánnyal együtt szállíthat.
 
@@ -100,7 +115,7 @@ is végezhető, feltéve, ha az a) és b) pont szerinti felhasználásról, tár
 
 (10) A fémkereskedelmi hatóság a fémkereskedőkről, telephelyeikről, valamint a telephelyek nyitva tartásáról nyilvántartást vezet, amelyet honlapján közzétesz.
 
-(11) A fémkereskedő a fémkereskedelmi hatóság felkérésére a jogi személyeket érintő fémkereskedelmi engedélyköteles anyag vételára tekintetében írásbeli nyilatkozatot tesz a fémkereskedelmi hatóság által megállapított határidőre.
+(11) A fémkereskedő a fémkereskedelmi hatóság felszólítására a jogi személyeket érintő fémkereskedelmi engedélyköteles anyag vételára tekintetében írásbeli nyilatkozatot tesz a fémkereskedelmi hatóság által megállapított határidőre.
 
 (12) A fémkereskedő a 3. § (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyagot a fémkereskedelmi hatóság 3. § (7) bekezdésben meghatározott írásbeli visszaigazolása alapján vagy a 3. § (6) bekezdésben meghatározott módon veheti át. Visszaigazolás hiányában a fémkereskedő az átvételt megtagadja, amelyről a fémkereskedelmi hatóságot haladéktalanul értesíti.
 
@@ -116,7 +131,7 @@ is végezhető, feltéve, ha az a) és b) pont szerinti felhasználásról, tár
 
 - a) eladónként és vevőnként a fémkereskedelmi engedélyköteles anyag megnevezését, a jogszabályban meghatározottak szerinti felismerésre alkalmas jellemzőjét, számla szerinti mennyiségi egységét, mennyiségét, vámtarifaszámát, a számla számát, valamint az anyagkísérő okmány számát;
 - b) a jogi személy, a jogi személyiség nélküli szervezet, az egyéni vállalkozó eladó és vevő (címzett) nevét, székhelye (telephelye) címét és adóazonosító számát;
-- c) a természetes személy eladó és vevő (címzett) természetes személyazonosító adatait, valamint személyazonosságát igazoló hatósági okmánya számát;
+- c) a természetes személy eladó és vevő (címzett) természetes személyazonosító adatait, személyazonosságát igazoló hatósági okmánya számát, valamint – külföldi állampolgár kivételével – adóazonosító jelét;
 - d) a vásárlás és a teljesítés időpontját;
 - e) természetes személy eladó esetén a vételárat;
 - f) a fémkereskedelmi engedélyköteles anyagot a fémkereskedő telephelyére beszállító, kiszállító szállítóeszköz rendszámát, vasúti vagon számát, hajóazonosító számát, egyéb szállítóeszköz megnevezését.
@@ -177,6 +192,8 @@ elkövetése miatt jogerősen elítélték, és a kérelem benyújtásakor még 
 
 (3) Egy fizikai hely telephelyként való működése bármely kérelmező részére csak azt követően engedélyezhető, ha a korábban ott folytatott, e törvény hatálya alá tartozó tevékenységgel összefüggésben megállapított, fémkereskedelmi engedélyköteles anyagot terhelő közterhekkel és e törvény szerinti bírsággal kapcsolatos valamennyi tartozást megfizették. Nem akadálya az engedély kiadásának a közteher- és bírságtartozás kiegyenlítetlensége, ha a fizikai hely tulajdonjogát a kérelmező hatósági határozattal, felszámolással vagy árverés útján szerezte meg, továbbá ha a kérelmező igazolja, hogy az adásvételt megelőzően a telephely eladója a tartozásmentességről a szükséges igazolásokat rendelkezésére bocsátotta.
 
+(4) Egy fizikai hely telephelyként való működése nem engedélyezhető a 11/H. § alapján elrendelt lezárás közigazgatási szankció hatálya alatt.
+
 8. § (1) A fémkereskedelmi engedély iránti kérelemnek tartalmaznia kell:
 
 - a) a tevékenység megjelölését;
@@ -213,16 +230,18 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 
 (9) A fémkereskedelmi hatóság a bűnügyi nyilvántartó szervtől adatot igényel a 6. § (2) bekezdésében meghatározott kizáró ok, illetve a kérelem benyújtásának időpontjában a büntetett előélethez fűződő hátrányok alóli mentesülés tekintetében. A fémkereskedelmi hatóság a megismert személyes adatokat az engedélyezési eljárás végleges befejezéséig kezeli.
 
-9. § (1) A fémkereskedelmi engedély hatályát veszti, ha a jogi személy vagy jogi személyiség nélküli szervezet jogutód nélkül megszűnik, továbbá ha az engedélyt visszavonják. A fémkereskedelmi engedély határozott időre, legfeljebb 5 évre adható, kivéve, ha a környezetvédelmi hatóság által kiadott engedély ezt megelőző időpontban lejár vagy nyilvántartásból törlésre kerül. Ez utóbbi esetben a fémkereskedelmi engedély legfeljebb a környezetvédelmi hatóság által kiadott engedély lejártáig vagy a nyilvántartásból történő törlés időpontjáig adható.
+9. § (1) A fémkereskedelmi engedély hatályát veszti, ha a jogi személy vagy jogi személyiség nélküli szervezet jogutód nélkül megszűnik, továbbá ha az engedélyt visszavonják, valamint ha az engedély érvényessége lejár. A fémkereskedelmi engedély határozott időre, legfeljebb 5 évre adható, kivéve, ha a környezetvédelmi hatóság által kiadott engedély ezt megelőző időpontban lejár vagy nyilvántartásból törlésre kerül. Ez utóbbi esetben a fémkereskedelmi engedély legfeljebb a környezetvédelmi hatóság által kiadott engedély lejártáig vagy a nyilvántartásból történő törlés időpontjáig adható.
 
 (2) A fémkereskedelmi hatóság visszavonja a fémkereskedelmi engedélyt,
 
 - a) ha a fémkereskedő ellen felszámolási eljárás indult,
 - b) ha a fémkereskedő az e törvényben a tevékenységi biztosíték rendelkezésre bocsátásával vagy a fémkereskedelmi hatóság felé fennálló adatszolgáltatási kötelezettségével kapcsolatban fennálló kötelezettségét elmulasztja, és a hiányosság megszüntetésére a fémkereskedelmi hatóság által megadott határidőn belül nem intézkedik,
 - c) ha a fémkereskedelmi engedély kiadásához előírt feltételek valamelyike már nem áll fenn és azt a fémkereskedő a fémkereskedelmi hatóság által meghatározott határidő alatt nem pótolja,
-- d) ha a fémkereskedő bejelenti tevékenysége megszűnését.
+- d) ha a fémkereskedő bejelenti tevékenysége megszűnését,
+- e) ha a fémkereskedő megsérti a 11/H. § alapján elrendelt lezárás közigazgatási szankcióra vonatkozó rendelkezéseket,
+- f) ha a fémkereskedővel szemben adott telephely vonatkozásában a 11/H. § szerinti lezárás közigazgatási szankció leghosszabb időtartama korábban elrendelésre került.
 
-(3) A fémkereskedelmi hatóság a fémkereskedelmi engedély visszavonásával, valamint módosításával az engedélyköteles tevékenység adott telephelyen való végzésének jogosultságát megszünteti, ha a fémkereskedelmi tevékenységet a fémkereskedelmi engedélyben foglalt feltételektől eltérően végző fémkereskedővel szemben a 11. § (2) bekezdés c) pontja, valamint (7) bekezdése alapján az adott telephely tekintetében 4 éven belül második alkalommal végleges döntésse bírság kiszabására kerül sor, vagy a fémkereskedő az 5. § (5) bekezdés szerinti kötelezettségét nem teljesíti.
+(3)
 
 #### 5. Fémkereskedelmi engedélyköteles anyag hasznosítása
 
@@ -234,7 +253,7 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 
 fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezett anyag nem minősül fémkereskedelmi engedélyköteles anyagnak.
 
-(2) Az (1) bekezdés b) és c) pontja szerinti hasznosítás céljára kizárólag írásba foglalt megállapodás alapján vehető át a fémkereskedőtől fémkereskedelmi engedélyköteles anyag.
+(2) Az (1) bekezdés b) és c) pontja szerinti hasznosítás céljára kizárólag írásba foglalt megállapodás alapján vehető át fémkereskedelmi engedélyköteles anyag.
 
 (3) Az (1) bekezdésben meghatározott személy az országhatárt átlépő hulladékszállításról szóló Korm. rendelet hatálya alá tartozó szállításokról köteles a fémkereskedelmi hatóság részére szállítmányonként adatot szolgáltatni a külön jogszabályban meghatározottak szerint.
 
@@ -245,50 +264,72 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 (2) A fémkereskedelmi hatóság bírsággal sújtja azt, aki
 
 - a) fémkereskedelmi tevékenységet fémkereskedelmi engedély nélkül végez,
-- b) a 3. § (2) bekezdésben meghatározott tevékenységet jogszabályban meghatározott engedély nélkül folytat,
-- c) az anyagkísérő okmányon valótlan adatot tüntet fel vagy megsérti az e törvény 4. §-ban meghatározott kötelezettséget, kivéve a 4. § (11) és (12) bekezdésben meghatározott kötelezettséget,
-- d) fémkereskedelmi engedélyköteles anyagot a 10. §-ban foglalt szabályokat megsértve hasznosít, vagy megszegi a 3. §-ban meghatározott kötelezettségét.
+- b) fémkereskedelmi engedélyköteles anyagot a 3. § (10) bekezdésében foglaltak ellenére szállítólevél nélkül szállít,
+- c) fémkereskedelmi engedélyköteles anyagot a 10. §-ban foglalt szabályokat megsértve hasznosít.
 
-(3) A (2) bekezdés a), b) és c) pontja szerinti bírság mértéke – az (5) bekezdésben meghatározott eset kivételével – a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag piaci értékének a) pont esetén ötszöröse, b) pont esetén háromszorosa, vagy – ha ez magasabb –
+(3) A fémkereskedelmi hatóság bírsággal sújtja azt a fémkereskedőt, aki
+
+- a) égett kábelt nem a 3. § (12) bekezdésében foglaltak alapján vesz át,
+- b) fémkereskedelmi engedélyköteles anyagot tizennyolc éven aluli személytől vesz át,
+- c) fémkereskedelmi engedélyköteles anyagot személyazonosságát nem igazoló személytől vesz át,
+- d) fémkereskedelmi engedélyköteles anyagot írásba foglalt megállapodás, illetve fémkereskedelmi hatóság visszaigazolása nélkül szerez be, illetve az anyag jogszerű szerzésére vonatkozó nyilatkozat nélkül vesz át,
+- e) fémkereskedelmi engedélyköteles anyagot anyagkísérő okmány nélkül vagy valótlan adattartalmú okmánnyal szállít,
+- f) fémkereskedelmi engedélyköteles anyagot az engedélyben foglalt helyszínrajztól eltérő tárolási helyen raktároz és tárol,
+- g) telephely fenntartása nélkül is felvásárolható és értékesíthető fémkereskedelmi engedélyköteles anyagot jogellenesen tárol,
+- h) a 3. §-ban meghatározott kötelezettségét egyéb módon megszegi,
+- i) fémkereskedelmi engedélyköteles anyagot nem az engedélyben meghatározott telephelyen raktároz és tárol.
+
+(4) A (2) bekezdésben és a (3) bekezdés a)–d), f)–g) és i) pontjában meghatározott jogszabálysértés esetén bírság helyett figyelmeztetés szankciónak nincs helye.
+
+11/A. § (1) A 11. § (2) bekezdés a) és b) pontja és a 11. § (3) bekezdés b), c), e), g) és i) pontja szerinti jogsértés esetén a bírság mértéke a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag piaci értékének
+
+- a) fémkereskedelmi engedélyköteles anyaggal gazdasági tevékenységet folytató gazdálkodó szervezet általi jogsértés esetén ötszöröse,
+- b) természetes személy esetén háromszorosa.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően a bírság mértékét a jogsértés által okozott anyagi kár alapján szükséges megállapítani, ha az így megállapított bírság mértéke a magasabb
 
 - a) a fémkereskedelmi engedélyköteles anyaggal gazdasági tevékenységet folytató gazdálkodó szervezet általi jogsértés esetén a jogsértés által okozott igazolt anyagi kár ötszöröse, de legalább 300 ezer forint,
 - b) az a) pont alá nem tartozó személy által elkövetett jogsértés esetén – ha annak megállapítása lehetséges – a jogsértés által okozott igazolt anyagi kár háromszorosa, de legalább 50 ezer forint.
 
-(4) A bírság mértéke
+(3) Ha a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag mennyisége nem állapítható meg, a bírság mértéke 100 ezer forinttól 1 millió forintig terjedhet.
 
-- a) (2) bekezdés d) pontja esetén 30 ezer forinttól 2 millió forintig terjedhet,
-- b) a (3) bekezdéstől eltérően a (2) bekezdés a), b) és c) pontja esetén – ha a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag mennyisége nem állapítható meg – 100 ezer forinttól 1 millió forintig terjedhet.
+(4) A fémkereskedelmi hatóság a fémkereskedőt 500 ezer forinttól 5 millió forintig terjedő bírsággal sújtja, ha a 3. § (5) bekezdése szerinti fémkereskedelmi engedélyköteles anyagot a közszolgáltatást nyújtó gazdálkodó szervezettel kötött írásbeli szerződés vagy a fémkereskedelmi hatóság írásbeli visszaigazolása nélkül, vagy írásbeli szerződés nélkül vesz át.
 
-(5) A fémkereskedelmi hatóság a fémkereskedőt 1 millió forintig, a nevében eljáró természetes személyt 300 ezer forintig terjedő bírsággal sújtja, ha az e törvényben meghatározott
+(5) A bírság mértéke a 11. § (2) bekezdés c) pontja és a 11. § (3) bekezdés a), f) és h) pontja esetén 30 ezer forinttól 2 millió forintig terjedhet.
 
-- a) nyilvántartást nem vezeti, nyilvántartás-vezetési kötelezettségét valótlan adattartalommal vagy hiányosan teljesíti, vagy abban az adatokat az előírásoktól eltérően vagy eltérő rendszerességgel rögzíti,
-- b) nyilvántartás havi zárását, napi összesítését, azoknak a fémkereskedelmi hatósághoz történő benyújtását késedelmesen vagy nem teljesíti, valamint ha ismételten hiányosan, valótlan adattartalommal vagy az előírásoktól eltérően teljesíti.
+(6) Az e törvény hatálya alá tartozó természetes személyre 100 ezer forintig, az egyéni vállalkozóra és a gazdálkodó szervezetre 500 ezer forintig terjedő bírságot kell kiszabni az e törvényben előírt kötelezettség megsértése, elmulasztása miatt, ha arra külön jogkövetkezményt e törvény nem határoz meg.
 
-(6) Az e törvény hatálya alá tartozó természetes személyre 100 ezer forintig, az egyéni vállalkozóra és a gazdálkodó szervezetre 500 ezer forintig terjedő mulasztási bírságot kell kiszabni az e törvényben és a külön jogszabályban előírt kötelezettség megsértése, elmulasztása miatt, ha arra külön jogkövetkezményt e törvény nem határoz meg.
+11/B. § A fémkereskedelmi hatóság a fémkereskedőt 1 millió forintig, a nevében eljáró természetes személyt 300 ezer forintig terjedő bírsággal sújtja, ha az e törvényben meghatározott
 
-(7) A fémkereskedelmi hatóság a fémkereskedőt 500 ezer forinttól 5 millió forintig terjedő bírsággal sújtja, ha az e törvény 4. § (12) bekezdésében meghatározott kötelezettséget a fémkereskedő megszegi.
+- a) nyilvántartás havi zárását, napi összesítését, azoknak a fémkereskedelmi hatósághoz történő benyújtását késedelmesen teljesíti, valamint ha a nyilvántartás-vezetési kötelezettségét valótlan adattartalommal vagy hiányosan teljesíti, vagy abban az adatokat az előírásoktól eltérően vagy eltérő rendszerességgel rögzíti, valamint ha ismételten hiányosan, valótlan adattartalommal vagy az előírásoktól eltérően teljesíti,
+- b) nyilvántartást nem vezeti, nyilvántartás havi zárását, napi összesítését, azoknak a fémkereskedelmi hatósághoz történő benyújtását nem teljesíti.
 
-(8) A fémkereskedelmi hatóság – az engedély nélkül végzett fémkereskedelmi tevékenység kivételével – az első alkalommal előforduló, az életet, a testi épséget, a vagyonbiztonságot, a közlekedés biztonságát vagy a közteherviselési kötelezettségek teljesítését közvetlenül nem veszélyeztető szabályszegések esetén
+11/C. § (1) A kiszabott bírság összege kivételes méltánylást érdemlő körülmény esetén hivatalból vagy kérelemre mérsékelhető, ha a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el.
 
-- a) a (2) bekezdés b), c) és d) pont, valamint az (5), és a (6) bekezdéstől eltérően bírságot nem szab ki,
-- b) a szabályszerű magatartás tanúsításához szükséges felvilágosítás megadása mellett a jogsértést elkövető személyt határidő megjelölésével – határozatban – felszólítja a jogsértés megszüntetésére,
-- c) a b) pont szerinti határidő lejártát követően a jogsértéssel érintett szabály megtartását ismételten ellenőrzi.
-
-(9) Ha a fémkereskedelmi hatóság a (2) bekezdés a) pontja alapján bírságot szab ki, ezzel egyidejűleg megtiltja az engedély nélkül vagy jogellenesen folytatott tevékenység végzését, valamint ha a (2) bekezdés c) pontja és a (7) bekezdés alapján adott telephely tekintetében 4 éven belül második alkalommal bírságot szab ki, ezzel egyidejűleg intézkedik az e törvény 9. § (3) bekezdésben meghatározottak tekintetében. A hatóság e határozata azonnal végrehajtható.
-
-(10) A bírság összege kivételes méltánylást érdemlő körülmény esetén hivatalból vagy kérelemre mérsékelhető, illetve kiszabása mellőzhető, ha a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el. A bírság mérséklésénél az eset összes körülményét mérlegelni kell, különösen a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag mennyiségét és a jogsértő személy jogellenes magatartásának súlyát, valamint a jogsértő személy anyagi és vagyoni helyzetét.
-
-(11) Nincs helye – sem hivatalból, sem kérelemre – a bírság mérséklésének, kiszabása mellőzésének, ha
+(2) Nincs helye a bírság mérséklésének, ha
 
 - a) a jogsértő személy részére e törvény rendelkezéseinek megsértése miatt korábban végleges döntéssel bírság került kiszabásra,
-- b) a jogsértő személy fémkereskedelmi engedély nélkül folytatott fémkereskedelmi engedélyköteles tevékenységet, vagy
+- b) a jogsértő személy fémkereskedelmi engedély nélkül folytatott fémkereskedelmi engedélyköteles tevékenységet vagy
 - c) a jogsértésre bűncselekmény vagy szabálysértés elkövetésével összefüggésben került sor.
 
-(12) A (11) bekezdés a) pontja nem alkalmazható, ha két egymást követő bírság kiszabása között 8 év eltelt.
+11/D. § A kiszabott bírságot a kötelezett a határozat véglegessé válását követő naptári naptól számított 15 napon belül köteles megfizetni. A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
 
-(13) A kiszabott bírságot a kötelezett a határozat véglegessé válását követő naptári naptól számított 15 napon belül köteles megfizetni. A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
+11/E. § Ha a hatósági ellenőrzés során a fémkereskedelmi hatóság a fémkereskedő nyilvántartása, készletbevallása és a tényleges készlet között 5%-ot meghaladó eltérést tapasztal, a fémkereskedő az ellenőrzéstől számított 15 napon belül köteles mindazon bizonyítékok, okmányok benyújtására, amelyek az eltérést alátámasztják. Ha az okmányok, bizonyítékok nem kerülnek benyújtásra, vagy azok az eltérés okát nem tisztázzák, a 11/B. § szerinti mértékű bírságot kell alkalmazni.
 
-(14) Ha a hatósági ellenőrzés során a fémkereskedelmi hatóság a fémkereskedő nyilvántartása, készletbevallása és a tényleges készlet között 5%-ot meghaladó eltérést tapasztal, a fémkereskedő az ellenőrzéstől számított 15 napon belül köteles mindazon bizonyítékok, okmányok benyújtására, amelyek az eltérést alátámasztják. Ha az okmányok, bizonyítékok nem kerülnek benyújtásra, vagy azok az eltérés okát nem tisztázzák, úgy az (5) bekezdés a) pontjában meghatározottakat kell alkalmazni.
+11/F. § A fémkereskedelmi hatóság a 11. § (2) bekezdés a) pontja alapján a bírság kiszabásával egyidejűleg megtiltja az engedély nélkül folytatott tevékenység végzését.
+
+11/G. § Ha a fémkereskedelmi hatóság az 5. § (5) bekezdésében meghatározott kötelezettségének megsértése, valamint a 11. § (3) bekezdés a) és d) pontja alapján az adott telephely tekintetében 3 éven belül végleges döntéssel második alkalommal bírságot szab ki a fémkereskedőre, ezzel egyidejűleg azonnal végrehajtható határozatában a fémkereskedelmi engedély visszavonásával, valamint módosításával a fémkereskedelmi tevékenység adott telephelyen való végzésének jogosultságát megszünteti.
+
+11/H. § (1) A fémkereskedelmi hatóság a fémkereskedő érintett telephelyét hatósági zárral lezárja, amely első alkalommal 12 nyitvatartási napig terjedhet, ha
+
+- a) az adott telephely tekintetében 3 éven belül második alkalommal a 11. § (3) bekezdés b)–c), g) és i) pontja alapján végleges döntéssel bírság kiszabására került sor,
+- b) az adott telephely tekintetében 3 éven belül második alkalommal a 11/B. § b) pontja alapján végleges döntéssel bírság kiszabására került sor.
+
+(2) Az (1) bekezdés szerinti jogsértések ismételt előfordulása esetén a lezárás időtartama 30, majd 60 nyitvatartási napig terjedhet. Az ismétlődésre vonatkozó szabályok nem alkalmazhatóak, ha két egymást követő jogsértés között legalább 3 év eltelt.
+
+(3) A lezárásról a fémkereskedelmi hatóság azonnal végrehajtható határozatot hoz. Az intézkedésből harmadik személyeket ért kárért a fémkereskedő áll helyt.
+
+(4) A lezárással érintett telephelyet a fémkereskedelmi hatóság pecséttel zárja le, jól láthatóan feltünteti a lezárás időtartamát és azt, hogy a fémkereskedelmi telephelyet a fémkereskedelmi hatóság zárta le.
 
 12. § (1) A fémkereskedelmi hatóság
 
@@ -298,7 +339,12 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 (2) A lefoglalást vagy zár alá vételt meg kell szüntetni
 
-- a) ha a fémkereskedelmi hatóság a 11. § (2) bekezdés a) pontja szerinti bírságot nem szabott ki,
+- a) ha a fémkereskedelmi hatóság
+  - aa) a 3. § (4) és (9) bekezdésben meghatározott kötelezettségek megszegése esetén, vagy
+  - ab) a 11. § (2) bekezdés a) és c) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés alapján
+
+véglegessé vált határozatban bírságot nem szabott ki,
+
 - b) ha a jogsértéssel összefüggésben indult büntetőeljárásban a bíróság, az ügyészség vagy a nyomozó hatóság lefoglalást rendelt el,
 - c) a szállításra használt, nem a jogsértés elkövetőjének tulajdonában lévő eszközre, ha a tulajdonos írásban nyilatkozik arról, hogy a jogsértés időpontjában nem volt tudomása arról, hogy az eszközt jogsértés céljából használják fel,
 - d) a szállításra, tárolásra, raktározásra és hasznosításra használt, az elkövető tulajdonában lévő eszközre, ha az ügyben hozott végleges határozatban kiszabott bírságot, illetve egyéb költséget az előírt határidőre megfizették vagy arra – elidegenítési és terhelési tilalom bejegyzése mellett – részletfizetést vagy fizetési halasztást engedélyeztek,
@@ -323,7 +369,12 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 (3) Ha a (2) bekezdésben foglaltak szerinti értékesítésből befolyt ellenértéket az annak átvételére jogosult személy a fémkereskedelmi hatóság ez irányú tájékoztatásának közlésétől számított öt éven belül nem veszi át, az értékesítésből befolyt ellenérték a Magyar Államra száll. Az értékesítésből befolyt ellenérték után a fémkereskedelmi hatóságnak kamatfizetési kötelezettsége nincs.
 
-(4) A lefoglalt vagy zár alá vett anyagot, dolgot és eszközt el kell kobozni, ha az ügyben végleges döntéssel a 11. § (2) bekezdés a) és b) pontja szerinti bírságot szabnak ki, vagy a 3. § (4) bekezdésében meghatározott kötelezettség megsértése esetén alkalmazott figyelmeztetésben meghatározott határidő eredménytelenül telt el, és a fémkereskedelmi hatóság a jogsértéssel érintett fémkereskedelmi engedélyköteles anyagot lefoglalta vagy zár alá vette.
+(4) A lefoglalt vagy zár alá vett anyagot, dolgot és eszközt el kell kobozni,
+
+- a) a 3. § (4) és (9) bekezdésben meghatározott kötelezettségek megszegése, vagy
+- b) a 11. § (2) bekezdés a) és c) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés esetén
+
+ha a fémkereskedelmi hatóság véglegessé vált határozattal bírságot szab ki.
 
 (5) A jogsértéssel érintett anyag fuvarozására, szállítására, tárolására, raktározására és hasznosítására használt, nem a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a tulajdonos a 12. § (2) bekezdés c) pontjában foglaltakról írásban nem nyilatkozik, vagy az ügy összes körülményére tekintettel megállapítható, hogy a tulajdonos tudomással bírhatott arról, hogy a jogsértés időpontjában az eszközt jogsértés céljából használják fel, és a végleges döntéssel kiszabott bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, vagy arra részletfizetést, illetve fizetési halasztást – a fizetési kötelezettség esedékességétől számított nyolc napon belül benyújtott kérelem alapján – nem engedélyeztek.
 
@@ -357,7 +408,7 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 
 (2a) Az e törvény hatálya alá tartozó eljárásokban hozott határozatok ellen fellebbezésnek van helye.
 
-(2b) A zár alá vett és elkobzott, valamint a kiadni rendelt, de át nem vett eszközök, anyagok, dolgok értékesítésére az adózás rendjéről szóló törvénynek az árverés és elektronikus árverés útján történő értékesítésre vonatkozó rendelkezéseit kell alkalmazni.
+(2b) A zár alá vett és elkobzott, valamint a kiadni rendelt, de át nem vett eszközök, anyagok, dolgok értékesítésére az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvénynek az árverés és elektronikus árverés útján történő értékesítésre vonatkozó rendelkezéseit kell alkalmazni.
 
 (3) Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben a fémkereskedelmi hatóság jár el. A nyilvántartásba vételre és nyilvántartásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
 
@@ -380,6 +431,8 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 (6) A fémkereskedelmi engedélyköteles tevékenységet e törvény hatálybalépésekor érvényes fémkereskedelmi engedéllyel folytató személy az (5) bekezdésben meghatározott időpontig a 8. § (1) bekezdés h) pontjában meghatározott feltétel, valamint a fémkereskedelmi engedély érvényességi ideje tekintetében fémkereskedelmi engedély módosítása iránti kérelmet nyújt be.
 
 (6a) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+(6b) E törvénynek a közigazgatási szabályszegések szankcióiról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2020. évi CLXVIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit azok hatálybalépésekor folyamatban lévő hatósági ügyekben is alkalmazni kell.
 
 (7) Felhatalmazást kap a Kormány, hogy
 

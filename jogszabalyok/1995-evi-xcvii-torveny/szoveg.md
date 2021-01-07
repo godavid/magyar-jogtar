@@ -1406,6 +1406,7 @@ A. alrészének végrehajtása érdekében ellenőrzési rendszert alakít ki.
 - f) adatszolgáltatásra, tájékoztatásra, bejelentésre,
 - g) légiközlekedés védelmére,
 - h) zajkorlátozásra
+- i) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) hatálya alá tartozó jogsértő magatartások kivételével a pilóta nélküli légijármű üzemeltetésére
 
 vonatkozó rendelkezések megsértőivel szemben 100 000 000 Ft-ig terjedő bírság szabható ki. Nincs helye a légiközlekedési bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta öt év eltelt.
 

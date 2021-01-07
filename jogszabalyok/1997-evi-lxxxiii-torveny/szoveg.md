@@ -1381,6 +1381,8 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (4) Kivételesen indokolt esetben – a (3) bekezdésben foglaltaktól eltérően – az orvosszakértői szerv a keresőképtelenséget a vizsgálatra jelentkezés időpontjától legfeljebb hat hónapra visszamenőleg is igazolhatja.
 
+(5) Ha a fővárosi és megyei kormányhivatal a keresőképtelenség felülvizsgálata során az egészségügyi dokumentációban hiányosságot észlel, adminisztrációs kötelezettség elmulasztása vagy szakmai hiányosság miatt közigazgatási bírságot szab ki.
+
 46. § (1) Táppénz a biztosítási jogviszony fennállásának időtartama alatt, a keresőképtelenség tartamára jár, legfeljebb azonban a keresőképtelenség első napját közvetlenül megelőző – 48/A. § (1) bekezdése szerinti – folyamatos biztosítási időszak alatt a Tbj. 6. §-ában meghatározott biztosításban töltött napoknak megfelelő számú napra,
 
 - a) de legfeljebb egy éven át;
@@ -1882,6 +1884,8 @@ kell érteni.
 
 - a) természetes személy 10 ezertől 100 ezer forintig,
 - b) a Tbj. 4. § 4. pontjában meghatározott foglalkoztató, és a Tbj. 4. § 2. pontjában meghatározott egyéni vállalkozó 10 ezer forinttól 1 millió forintig terjedő összegű, az elkövetett mulasztással arányos mulasztási bírság fizetésére kötelezhető.
+
+(7) A (6) bekezdés szerinti mulasztási bírságot a Közigazgatási Szankciók Nyilvántartásába nem kell bejegyezni. Nem szabható ki mulasztási bírság, ha a bejelentési kötelezettségre előírt határidő lejártától számított öt év eltelt.
 
 81. § (1) Az egészségbiztosító szak- és pénzügyi ellenőrzése kiterjed az egészségbiztosítás pénzbeli, illetőleg baleseti ellátásaival összefüggő nyilvántartási és adatszolgáltatási kötelezettség teljesítésére, a társadalombiztosítási kifizetőhelyek hatáskörébe tartozó ellátásoknak és szolgáltatásoknak a jogosultak részére történő megállapítására, folyósítására, továbbá az ezekkel összefüggő ügyviteli feladatok ellátására. Az ehhez szükséges nyilvántartásokat, egészségügyi szolgáltatói jelentéseket, könyvelési és egyéb okmányokat, illetőleg adatokat rendelkezésre kell bocsátani.
 
