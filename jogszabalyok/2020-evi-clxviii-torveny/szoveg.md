@@ -92,13 +92,7 @@ a közigazgatási szabályszegések szankcióiról szóló törvény hatálybal�
 
 30. § (1)
 
-(2) A Tvt. 80. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Aki tevékenységével vagy mulasztásával)
-
-„e) természetvédelmi hatósági engedélyköteles tevékenységet, vagy – a természetvédelmi hatóság szakhatósági közreműködési kötelezettségéhez, vagy természetvédelmi szakkérdés vizsgálati kötelezettséghez kötött – más hatósági engedélyköteles tevékenységet engedély nélkül vagy az engedély természetvédelmi előírásaitól eltérően, továbbá a természet védelmét szolgáló jogszabályi előírást érintő bejelentést, ellenőrzött bejelentést anélkül vagy a tevékenység megkezdésére való jogosultság megnyílását megelőzően végez,”
-
-(természetvédelmi bírságot köteles fizetni.)
+(2)
 
 (3)
 
@@ -148,23 +142,11 @@ a közigazgatási szabályszegések szankcióiról szóló törvény hatálybal�
 
 #### 22. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-46. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 91. §-a helyébe a következő rendelkezés lép:
-
-„91. § (1) Aki a nyugdíjbiztosítási igazgatási szerv részére történő, jogszabályban meghatározott bejelentési, nyilvántartási, adatszolgáltatási, vagy a nyugdíjbiztosítási feladatok ellátásával kapcsolatos egyéb kötelezettségét nem teljesíti, vagy késedelmesen teljesíti, illetve annak nem az előírt módon tesz eleget, 50 000 forinttól 500 000 forintig terjedő, a jogsértés egy éven belüli ismételt megállapítása esetén 1 000 000 forintig terjedő mulasztási bírságot köteles fizetni.
-
-(2) A mulasztási bírságot az ügyben eljárt nyugdíjbiztosítási igazgatási szervhez kell befizetni.
-
-(3) Az (1) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetésnek helye nincs.”
+46. §
 
 #### 23. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-47. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 45. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Ha a fővárosi és megyei kormányhivatal a keresőképtelenség felülvizsgálata során az egészségügyi dokumentációban hiányosságot észlel, adminisztrációs kötelezettség elmulasztása vagy szakmai hiányosság miatt közigazgatási bírságot szab ki.”
-
-(2) Az Ebtv. 80. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A (6) bekezdés szerinti mulasztási bírságot a Közigazgatási Szankciók Nyilvántartásába nem kell bejegyezni. Nem szabható ki mulasztási bírság, ha a bejelentési kötelezettségre előírt határidő lejártától számított öt év eltelt.”
+47. §
 
 #### 24. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
@@ -192,15 +174,9 @@ a közigazgatási szabályszegések szankcióiról szóló törvény hatálybal�
 
 (2)
 
-(3) Az Ávtv. 43. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+(3)
 
-„(1a) Az állatvédelmi bírság alapösszege – az (1b) bekezdés kivételével – tizenötezer forint.
-
-(1b) Az állatvédelmi bírság alapösszege hetvenötezer forint, ha az állatvédelmi bírság kiszabására okot adó jogsértés elszenvedője kedvtelésből tartott állat.”
-
-(4) Az Ávtv. 43. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az állatvédelmi hatóság állatvédelmi bírság helyszíni bírságként történő kiszabására jogosult.”
+(4)
 
 56. §
 
@@ -236,17 +212,7 @@ a közigazgatási szabályszegések szankcióiról szóló törvény hatálybal�
 
 65. § (1)
 
-(2) A Vetőmagtv. 28. §-a helyébe a következő rendelkezés lép:
-
-„28. § (1) A minőségvédelmi bírság legkisebb összege tízezer forint.
-
-(2) Több jogszabálysértés egy eljárásban történő elbírálása esetén a bírság megállapításakor a súlyosabb jogszabálysértés alapján kiszabható összeget kell alapul venni.
-
-(3) Azonos tényállású, három éven belüli ismételt jogsértés esetén a bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de nem haladhatja meg az adott jogsértés esetén kiszabható bírság legmagasabb mértékét.
-
-(4) A bírság tételes mértékét és kiszabásának részletes szabályait az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
-
-(5) Ha a jogi személyre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet kötelezettségeiért a törvény alapján felel.”
+(2)
 
 #### 35. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
@@ -352,21 +318,13 @@ a közigazgatási szabályszegések szankcióiról szóló törvény hatálybal�
 
 (3)
 
-(4) Az Éltv. 59. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Az élelmiszer-ellenőrzési bírság és a takarmány-ellenőrzési bírság legkisebb összege tizenötezer forint, legmagasabb összege)
-
-„a) ha az eljárás alá vont személy a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) hatálya alá tartozó, 20 millió forintot meghaladó éves nettó árbevétellel rendelkező vállalkozás, az eljárás alá vont személy éves nettó árbevételének 10%-áig, de legfeljebb ötszázmillió forintig, illetve az emberek vagy állatok széles körének egészségét károsító vagy veszélyeztető, továbbá a felhasználók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén legfeljebb ötmilliárd forintig;”
-
-(terjedhet.)
+(4)
 
 (5)
 
 (6)
 
-(7) Az Éltv. 59/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A helyszíni bírság legkisebb összege huszonötezer forint, legmagasabb összege kettőszázezer forint.”
+(7)
 
 98. §
 
@@ -506,205 +464,19 @@ a közigazgatási szabályszegések szankcióiról szóló törvény hatálybal�
 
 #### 71. A fémkereskedelemről szóló 2013. évi CXL. törvény módosítása
 
-140. § (1) A fémkereskedelemről szóló 2013. évi CXL. törvény (a továbbiakban: Fémtv.) 2. § (1) bekezdés 6. pontja helyébe a következő rendelkezés lép:
+140. §
 
-(E törvény alkalmazásában:)
+141. §
 
-„6. hulladékgazdálkodási közszolgáltatást nyújtó szervezet: a hulladékról szóló törvényben meghatározott szolgáltatást ellátó közszolgáltató, a közszolgáltatói alvállalkozó és a Koordináló szerv,”
+142. §
 
-(2) A Fémtv. 3. § (6) bekezdése helyébe a következő rendelkezés lép:
+143. §
 
-„(6) A közszolgáltatást nyújtó gazdálkodó szervezetnél, illetve a hulladékgazdálkodási közszolgáltatást nyújtó szervezetnél termelődött vagy általa begyűjtött, (5) bekezdés szerinti fémkereskedelmi engedélyköteles anyag értékesítése kizárólag írásbeli szerződés alapján, az abban meghatározott telephellyel rendelkező fémkereskedő részére, a közszolgáltatást nyújtó gazdálkodó szervezet, illetve a hulladékgazdálkodási közszolgáltatást nyújtó szervezet által kiállított igazolás mellett történhet. A közszolgáltatást nyújtó gazdálkodó szervezet, illetve a hulladékgazdálkodási közszolgáltatást nyújtó szervezet a fémkereskedővel kötött szerződés eredeti példányát vagy annak hitelesített másolatát a fémkereskedelmi hatóság részére a szerződéskötéstől számított 15 napon belül köteles megküldeni.”
+144. §
 
-(3) A Fémtv. 3. § (7) bekezdése helyébe a következő rendelkezés lép és a § a következő (7a) és (7b) bekezdéssel egészül ki:
+145. §
 
-„(7) Ha az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag termelődése az adott ingatlanhoz, illetve az egyéni vállalkozó vagy gazdálkodó szervezet tevékenységéhez köthető, azt az ingatlantulajdonos, illetve az egyéni vállalkozó vagy gazdálkodó szervezet – az értékesítést megelőzően a tárolás helye szerint illetékes fémkereskedelmi hatósághoz történő előzetes bejelentés mellett – a fémkereskedelmi hatóság visszaigazolását követően kizárólag fémkereskedő részére értékesítheti. A bejelentésnek tartalmaznia kell:
-
-a) a leadni kívánt fémkereskedelmi engedélyköteles anyag megnevezését, mennyiségét,
-
-b) a felvásárló fémkereskedő megnevezését, telephelyének címét,
-
-c) az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag tárolásának helyét,
-
-d) a bejelentő nevét, lakcímét vagy székhelyét, adóazonosító jelét vagy adószámát, telefonos elérhetőségét és
-
-e) a (2) bekezdés esetén a bontási engedély számát, a bontás helyét, a bejelentő székhelyét és adószámát.
-
-(7a) A bejelentésnek a már ténylegesen kitermelt, az értékesítő személy birtokában lévő fémkereskedelmi engedélyköteles anyagra kell vonatkoznia.
-
-(7b) A fémkereskedelmi hatóság a (7) és (7a) bekezdésben foglaltaknak megfelelő bejelentés alapján a visszaigazolást megadja, ha nem merül fel adat az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag jogellenes származására. A visszaigazolás kizárólag egyszer, a visszaigazolás kézhezvételétől számított 15 napon belül használható fel. A 15 nap elteltével a visszaigazolás hatályát veszti. A visszaigazolás felhasználása során nem értékesített, visszaigazolással érintett fémkereskedelmi engedélyköteles anyag későbbi értékesítéséhez újabb, a (7) bekezdés szerinti előzetes bejelentést kell tenni.”
-
-(4) A Fémtv. 3. § (8) bekezdése helyébe a következő rendelkezés lép és a § a következő (8a) és (8b) bekezdéssel egészül ki:
-
-„(8) A bejelentést a beérkezéstől számított 5 munkanapon belül a fémkereskedelmi hatóság a tárolás helye szerint illetékes általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv részére tájékoztatásul megküldi. A tájékoztatás célja annak megismerése, hogy az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv feladatkörében merült-e fel adat a leadni kívánt fémkereskedelmi engedélyköteles anyag eltulajdonított volta tekintetében. A fémkereskedelmi hatóság a tájékoztatásnak az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv részére történő megküldését követő 5 munkanapon belül visszaigazolást küld a bejelentő és a bejelentésben megjelölt felvásárló fémkereskedő részére.
-
-(8a) Ha a (8) bekezdés szerinti visszaigazolásban meghatározott fémkereskedelmi engedélyköteles anyaghoz képest legfeljebb 10%-kal több az átadni kívánt fémkereskedelmi engedélyköteles anyag (a továbbiakban: többlet), a fémkereskedő a többletet átveheti, ha a többlet a természetes személyek esetében az 500 kg, a gazdálkodó szervezetek esetében a 2500 kg mennyiséget nem haladja meg.
-
-(8b) Ha a fémkereskedő a (8a) bekezdés szerint a többletet átvette
-
-a) az átadó az átadás napján a (7) bekezdés szerinti bejelentést tesz a többlet tekintetében,
-
-b) a fémkereskedő az a) pont szerinti bejelentéssel kapcsolatos visszaigazolás megérkezéséig az átvett többletet elkülönítetten tárolja és azzal fémkereskedelmi tevékenységet nem végez.”
-
-(5) A Fémtv. 3. § (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) Fémkereskedő égett kábelt kizárólag a közszolgáltatást nyújtó gazdálkodó szervezettől, illetve a fémkereskedelmi hatóság vagy bíróság döntése, továbbá tűzkár esetén tűzeseti hatósági bizonyítvány alapján vehet át.”
-
-141. § (1) A Fémtv. 2. alcíme a következő 3/A. §-sal egészül ki:
-
-„3/A. § A fémkereskedelmi hatóság 100 ezer forintig terjedő közigazgatási bírságot szab ki azzal a természetes személlyel szemben, aki az ingatlanon tárolható, a 3. § (4) bekezdésében meghatározott térfogatot meghaladó mennyiségű fémkereskedelmi engedélyköteles anyag fémkereskedő vagy hulladékgazdálkodási közszolgáltatást nyújtó szervezet részére történő leadási kötelezettségének a fémkereskedelmi hatóság kötelezése ellenére sem tesz eleget.”
-
-(2) A Fémtv. 4. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A (6) bekezdésben meghatározott tevékenység folytatása esetén a fémkereskedő a felvásárlás és értékesítés során a szállításról köteles a fémkereskedelmi hatóság részére elektronikus úton, előzetesen adatot szolgáltatni.”
-
-(3) A Fémtv. 7. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Egy fizikai hely telephelyként való működése nem engedélyezhető a 11/H. § alapján elrendelt lezárás közigazgatási szankció hatálya alatt.”
-
-(4) A Fémtv. 9. § (2) bekezdése a következő e) és f) ponttal egészül ki:
-
-(A fémkereskedelmi hatóság visszavonja a fémkereskedelmi engedélyt,)
-
-„e) ha a fémkereskedő megsérti a 11/H. § alapján elrendelt lezárás közigazgatási szankcióra vonatkozó rendelkezéseket,
-
-f) ha a fémkereskedővel szemben adott telephely vonatkozásában a 11/H. § szerinti lezárás közigazgatási szankció leghosszabb időtartama korábban elrendelésre került.”
-
-142. § A Fémtv. 11. §-a helyébe a következő rendelkezés lép és a 6. alcíme a következő 11/A–11/H. §-sal egészül ki:
-
-„11. § (1) A fémkereskedelmi hatóság hatósági ellenőrzés keretében kérelemre vagy hivatalból ellenőrzi a fémkereskedő fémkereskedelmi tevékenységét, valamint a fémkereskedelmi engedélyköteles anyagok más személy általi értékesítését, szállítását, fuvarozását, raktározását, tárolását és hasznosítását.
-
-(2) A fémkereskedelmi hatóság bírsággal sújtja azt, aki
-
-a) fémkereskedelmi tevékenységet fémkereskedelmi engedély nélkül végez,
-
-b) fémkereskedelmi engedélyköteles anyagot a 3. § (10) bekezdésében foglaltak ellenére szállítólevél nélkül szállít,
-
-c) fémkereskedelmi engedélyköteles anyagot a 10. §-ban foglalt szabályokat megsértve hasznosít.
-
-(3) A fémkereskedelmi hatóság bírsággal sújtja azt a fémkereskedőt, aki
-
-a) égett kábelt nem a 3. § (12) bekezdésében foglaltak alapján vesz át,
-
-b) fémkereskedelmi engedélyköteles anyagot tizennyolc éven aluli személytől vesz át,
-
-c) fémkereskedelmi engedélyköteles anyagot személyazonosságát nem igazoló személytől vesz át,
-
-d) fémkereskedelmi engedélyköteles anyagot írásba foglalt megállapodás, illetve fémkereskedelmi hatóság visszaigazolása nélkül szerez be, illetve az anyag jogszerű szerzésére vonatkozó nyilatkozat nélkül vesz át,
-
-e) fémkereskedelmi engedélyköteles anyagot anyagkísérő okmány nélkül vagy valótlan adattartalmú okmánnyal szállít,
-
-f) fémkereskedelmi engedélyköteles anyagot az engedélyben foglalt helyszínrajztól eltérő tárolási helyen raktároz és tárol,
-
-g) telephely fenntartása nélkül is felvásárolható és értékesíthető fémkereskedelmi engedélyköteles anyagot jogellenesen tárol,
-
-h) a 3. §-ban meghatározott kötelezettségét egyéb módon megszegi,
-
-i) fémkereskedelmi engedélyköteles anyagot nem az engedélyben meghatározott telephelyen raktároz és tárol.
-
-(4) A (2) bekezdésben és a (3) bekezdés a)–d), f)–g) és i) pontjában meghatározott jogszabálysértés esetén bírság helyett figyelmeztetés szankciónak nincs helye.
-
-11/A. § (1) A 11. § (2) bekezdés a) és b) pontja és a 11. § (3) bekezdés b), c), e), g) és i) pontja szerinti jogsértés esetén a bírság mértéke a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag piaci értékének
-
-a) fémkereskedelmi engedélyköteles anyaggal gazdasági tevékenységet folytató gazdálkodó szervezet általi jogsértés esetén ötszöröse,
-
-b) természetes személy esetén háromszorosa.
-
-(2) Az (1) bekezdésben foglaltaktól eltérően a bírság mértékét a jogsértés által okozott anyagi kár alapján szükséges megállapítani, ha az így megállapított bírság mértéke a magasabb
-
-a) a fémkereskedelmi engedélyköteles anyaggal gazdasági tevékenységet folytató gazdálkodó szervezet általi jogsértés esetén a jogsértés által okozott igazolt anyagi kár ötszöröse, de legalább 300 ezer forint,
-
-b) az a) pont alá nem tartozó személy által elkövetett jogsértés esetén – ha annak megállapítása lehetséges – a jogsértés által okozott igazolt anyagi kár háromszorosa, de legalább 50 ezer forint.
-
-(3) Ha a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag mennyisége nem állapítható meg, a bírság mértéke 100 ezer forinttól 1 millió forintig terjedhet.
-
-(4) A fémkereskedelmi hatóság a fémkereskedőt 500 ezer forinttól 5 millió forintig terjedő bírsággal sújtja, ha a 3. § (5) bekezdése szerinti fémkereskedelmi engedélyköteles anyagot a közszolgáltatást nyújtó gazdálkodó szervezettel kötött írásbeli szerződés vagy a fémkereskedelmi hatóság írásbeli visszaigazolása nélkül, vagy írásbeli szerződés nélkül vesz át.
-
-(5) A bírság mértéke a 11. § (2) bekezdés c) pontja és a 11. § (3) bekezdés a), f) és h) pontja esetén 30 ezer forinttól 2 millió forintig terjedhet.
-
-(6) Az e törvény hatálya alá tartozó természetes személyre 100 ezer forintig, az egyéni vállalkozóra és a gazdálkodó szervezetre 500 ezer forintig terjedő bírságot kell kiszabni az e törvényben előírt kötelezettség megsértése, elmulasztása miatt, ha arra külön jogkövetkezményt e törvény nem határoz meg.
-
-11/B. § A fémkereskedelmi hatóság a fémkereskedőt 1 millió forintig, a nevében eljáró természetes személyt 300 ezer forintig terjedő bírsággal sújtja, ha az e törvényben meghatározott
-
-a) nyilvántartás havi zárását, napi összesítését, azoknak a fémkereskedelmi hatósághoz történő benyújtását késedelmesen teljesíti, valamint ha a nyilvántartás-vezetési kötelezettségét valótlan adattartalommal vagy hiányosan teljesíti, vagy abban az adatokat az előírásoktól eltérően vagy eltérő rendszerességgel rögzíti, valamint ha ismételten hiányosan, valótlan adattartalommal vagy az előírásoktól eltérően teljesíti,
-
-b) nyilvántartást nem vezeti, nyilvántartás havi zárását, napi összesítését, azoknak a fémkereskedelmi hatósághoz történő benyújtását nem teljesíti.
-
-11/C. § (1) A kiszabott bírság összege kivételes méltánylást érdemlő körülmény esetén hivatalból vagy kérelemre mérsékelhető, ha a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el.
-
-(2) Nincs helye a bírság mérséklésének, ha
-
-a) a jogsértő személy részére e törvény rendelkezéseinek megsértése miatt korábban végleges döntéssel bírság került kiszabásra,
-
-b) a jogsértő személy fémkereskedelmi engedély nélkül folytatott fémkereskedelmi engedélyköteles tevékenységet vagy
-
-c) a jogsértésre bűncselekmény vagy szabálysértés elkövetésével összefüggésben került sor.
-
-11/D. § A kiszabott bírságot a kötelezett a határozat véglegessé válását követő naptári naptól számított 15 napon belül köteles megfizetni. A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
-
-11/E. § Ha a hatósági ellenőrzés során a fémkereskedelmi hatóság a fémkereskedő nyilvántartása, készletbevallása és a tényleges készlet között 5%-ot meghaladó eltérést tapasztal, a fémkereskedő az ellenőrzéstől számított 15 napon belül köteles mindazon bizonyítékok, okmányok benyújtására, amelyek az eltérést alátámasztják. Ha az okmányok, bizonyítékok nem kerülnek benyújtásra, vagy azok az eltérés okát nem tisztázzák, a 11/B. § szerinti mértékű bírságot kell alkalmazni.
-
-11/F. § A fémkereskedelmi hatóság a 11. § (2) bekezdés a) pontja alapján a bírság kiszabásával egyidejűleg megtiltja az engedély nélkül folytatott tevékenység végzését.
-
-11/G. § Ha a fémkereskedelmi hatóság az 5. § (5) bekezdésében meghatározott kötelezettségének megsértése, valamint a 11. § (3) bekezdés a) és d) pontja alapján az adott telephely tekintetében 3 éven belül végleges döntéssel második alkalommal bírságot szab ki a fémkereskedőre, ezzel egyidejűleg azonnal végrehajtható határozatában a fémkereskedelmi engedély visszavonásával, valamint módosításával a fémkereskedelmi tevékenység adott telephelyen való végzésének jogosultságát megszünteti.
-
-11/H. § (1) A fémkereskedelmi hatóság a fémkereskedő érintett telephelyét hatósági zárral lezárja, amely első alkalommal 12 nyitvatartási napig terjedhet, ha
-
-a) az adott telephely tekintetében 3 éven belül második alkalommal a 11. § (3) bekezdés b)–c), g) és i) pontja alapján végleges döntéssel bírság kiszabására került sor,
-
-b) az adott telephely tekintetében 3 éven belül második alkalommal a 11/B. § b) pontja alapján végleges döntéssel bírság kiszabására került sor.
-
-(2) Az (1) bekezdés szerinti jogsértések ismételt előfordulása esetén a lezárás időtartama 30, majd 60 nyitvatartási napig terjedhet. Az ismétlődésre vonatkozó szabályok nem alkalmazhatóak, ha két egymást követő jogsértés között legalább 3 év eltelt.
-
-(3) A lezárásról a fémkereskedelmi hatóság azonnal végrehajtható határozatot hoz. Az intézkedésből harmadik személyeket ért kárért a fémkereskedő áll helyt.
-
-(4) A lezárással érintett telephelyet a fémkereskedelmi hatóság pecséttel zárja le, jól láthatóan feltünteti a lezárás időtartamát és azt, hogy a fémkereskedelmi telephelyet a fémkereskedelmi hatóság zárta le.”
-
-143. § (1) A Fémtv. 12. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A lefoglalást vagy zár alá vételt meg kell szüntetni)
-
-„a) ha a fémkereskedelmi hatóság
-
-aa) a 3. § (4) és (9) bekezdésben meghatározott kötelezettségek megszegése esetén, vagy
-
-ab) a 11. § (2) bekezdés a) és c) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés alapján
-
-véglegessé vált határozatban bírságot nem szabott ki,”
-
-(2) A Fémtv. 13. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A lefoglalt vagy zár alá vett anyagot, dolgot és eszközt el kell kobozni,
-
-a) a 3. § (4) és (9) bekezdésben meghatározott kötelezettségek megszegése, vagy
-
-b) a 11. § (2) bekezdés a) és c) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés esetén
-
-ha a fémkereskedelmi hatóság véglegessé vált határozattal bírságot szab ki.”
-
-144. § A Fémtv. 15. §-a a következő (6b) bekezdéssel egészül ki:
-
-„(6b) E törvénynek a közigazgatási szabályszegések szankcióiról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2020. évi CLXVIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit azok hatálybalépésekor folyamatban lévő hatósági ügyekben is alkalmazni kell.”
-
-145. § A Fémtv.
-
-- a) 2. § (1) bekezdés 8. pontjában a „hulladék” szövegrész helyébe a „fémkereskedelmi engedélyköteles anyag” szöveg,
-- b) 3. § (3) bekezdésében a „végző” szövegrész helyébe a „nyújtó” szöveg,
-- c) 3. § (4) bekezdésében a „felszólítja” szövegrész helyébe a „kötelezi” szöveg,
-- d) 3. § (10) bekezdésében az „anyagkísérő okmány” szövegrész helyébe a „szállítólevél” szöveg,
-- e) 4. § (4) bekezdésében a „kizárólag a fémkereskedelmi engedélyben meghatározott telephelyen” szövegrész helyébe a „saját vagy más fémkereskedő fémkereskedelmi engedélyben meghatározott telephelyén” szöveg,
-- f) 4. § (11) bekezdésében a „felkérésére” szövegrész helyébe a „felszólítására” szöveg,
-- g) 5. § (3) bekezdés c) pontjában a „valamint személyazonosságát igazoló hatósági okmánya számát” szövegrész helyébe a „személyazonosságát igazoló hatósági okmánya számát, valamint – külföldi állampolgár kivételével – adóazonosító jelét” szöveg,
-- h) 9. § (1) bekezdésében a „visszavonják” szövegrész helyébe a „visszavonják, valamint ha az engedély érvényessége lejár” szöveg,
-- i) 14. § (2b) bekezdésében az „adózás rendjéről” szövegrész helyébe az „adóhatóság által foganatosítandó végrehajtási eljárásokról” szöveg
-
-lép.
-
-146. § Hatályát veszti a Fémtv.
-
-- a) 4. § (7) bekezdésében az „az a) és b) pont szerinti” szövegrész,
-- b) 9. § (3) bekezdése,
-- c) 10. § (2) bekezdésében az „a fémkereskedőtől” szövegrész.
+146. §
 
 #### 72. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
@@ -736,21 +508,11 @@ lép.
 
 #### 78. A településkép védelméről szóló 2016. évi LXXIV. törvény módosítása
 
-155. § (1) A településkép védelméről szóló 2016. évi LXXIV. törvény (a továbbiakban: Tvtv.) 2/A. §-a a következő (7) és (8) bekezdéssel egészül ki:
-
-„(7) Az (5) bekezdés szerinti településkép-védelmi bírság legkisebb összege 500 000 Ft.
-
-(8) A (4) bekezdés szerint kijelölt államigazgatási szerv a településkép-védelmi bírság kiszabása feltételeinek teljesülése esetén – a közigazgatási szabályszegések szankcióiról szóló törvény rendelkezései szerint – helyszíni bírságot is alkalmazhat, amely azonban nem mentesíti a jogsértőt a jogsértő állapot megszüntetésének kötelezettsége alól.”
+155. § (1)
 
 (2)
 
-(3) A Tvtv. 11. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Ha az ingatlan tulajdonosa a településképi rendeletben foglalt településképi követelményeket megsértette, az önkormányzat polgármestere (főpolgármestere) figyelmeztetést tartalmazó döntésében – megfelelő határidő biztosításával – felhívja a jogsértőt a jogszabálysértés megszüntetésére.
-
-(2) Az (1) bekezdés szerinti határidő eredménytelen eltelte esetén az önkormányzat polgármestere (főpolgármestere) településképi kötelezés formájában – önkormányzati hatósági döntéssel – a jogsértőt a településképi követelmények teljesítésére kötelezi, egyidejűleg – ha a településképi rendelet lehetőséget biztosít településkép-védelmi bírság kiszabására – a kötelezettet településkép-védelmi bírság megfizetésére is kötelezi. A településkép-védelmi bírság közigazgatási bírságnak minősül, melynek legkisebb összege 100 000 Ft.
-
-(3) Az (1) bekezdés szerinti határidő eredménytelen eltelte esetén helyszíni bírság is alkalmazható.”
+(3)
 
 (4)
 
