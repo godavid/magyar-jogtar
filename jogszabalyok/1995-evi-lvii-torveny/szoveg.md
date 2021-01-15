@@ -916,7 +916,7 @@ csak írásban terjeszthető elő.
 
 (4) Ha a vízimunka elvégzése, illetve a vízilétesítmény megépítése vagy átalakítása végleges hatósági engedély nélkül, vagy a végleges hatósági engedélytől eltérően történt, a létesítő részére az üzemeltetési engedély kiadása megtagadható. Amennyiben a vízügyi hatóság a vízimunka, vízilétesítmény megvizsgálása után – az eset összes körülményeire is figyelemmel – a létesítő részére a fennmaradási engedélyt utólag megadja, egyidejűleg vízgazdálkodási bírság megfizetését kell előírni. A bírság az engedély nélkül létrehozott építmény értékének 80%-áig, engedély nélküli vízimunka vagy vízhasználat esetén 1 000 000 forintig terjedhet. A természetes személyre kiszabott bírság összege nem haladhatja meg a 300 000 forintot.
 
-(5) A vízgazdálkodási bírságot – a (6) bekezdésben foglalt kivétellel – a vízimunka, vízilétesítmény kivitelezőjével szemben kell kiszabni.
+(5) A vízgazdálkodási bírságot – a (6) és a (9) bekezdésben foglalt kivétellel – a vízimunka, vízilétesítmény kivitelezőjével szemben kell kiszabni.
 
 (6) A vízgazdálkodási bírságot a vízimunka, vízilétesítmény létesítőjével szemben kell kiszabni, ha
 
@@ -929,6 +929,8 @@ csak írásban terjeszthető elő.
 
 - a) a vizeket érő balesetszerű szennyezés azonnali elhárítása érdekében szükséges, valamint
 - b) a vizek kártételei elleni védekezés szabályairól szóló kormányrendelet szerinti rendkívüli védekezés műszaki feladataihoz kötődő, vízjogi engedély hiányában létesített vízilétesítmények vagy végzett vízimunka esetében, ha az egyébként engedélyezhető lett volna.
+
+(9) Ha a vízilétesítmény megépítése vagy átalakítása a 28/A. §-ban meghatározott bejelentés nélkül vagy annak jóváhagyásától eltérően történt, a létesítő részére vízgazdálkodási bírság megfizetését kell előírni. A bírság az engedély nélkül létrehozott építmény értékének 80%-áig terjedhet. A természetes személyre kiszabott bírság összege nem haladhatja meg a 300 000 forintot.
 
 29/A. § Az elsőfokú vízügyi hatósági eljárásban és az elsőfokú helyi vízgazdálkodási hatósági eljárásban hozott határozat ellen fellebbezésnek van helye.
 
