@@ -96,7 +96,7 @@ határozatának a 30. § (3) bekezdésében foglaltak szerint a Magyar Közlöny
 
 (3) Ha a szervező a kérdést a Nemzeti Választási Iroda elnöke elutasító határozatának közlését követő tizenöt napon belül nyújtja be ismételten, a 8. § alkalmazásában az első benyújtás időpontját kell a kérdés benyújtása időpontjának tekinteni.
 
-11. § (1) A Nemzeti Választási Bizottság a kérdés hitelesítéséről vagy annak megtagadásáról a benyújtásától számított harminc napon belül dönt. A Nemzeti Választási Bizottság a kérdést akkor hitelesíti, ha az az Alaptörvényben, valamint az e törvényben a kérdéssel szemben támasztott követelményeknek megfelel.
+11. § (1) A Nemzeti Választási Bizottság a kérdés hitelesítéséről vagy annak megtagadásáról a benyújtásától számított hatvan napon belül dönt. A Nemzeti Választási Bizottság a kérdést akkor hitelesíti, ha az az Alaptörvényben, valamint az e törvényben a kérdéssel szemben támasztott követelményeknek megfelel.
 
 (2) A Nemzeti Választási Bizottság a kérdést hitelesítő határozatában dönt a 8. § (3) bekezdésében meghatározott körülmény fennállásáról.
 
@@ -532,7 +532,7 @@ szervezhet.
 
 ### V. Fejezet — AZ ORSZÁGOS NÉPSZAVAZÁSI ELJÁRÁS
 
-65. § Az országos népszavazási eljárásban az e fejezetben foglalt eltérésekkel alkalmazni kell a Ve. 244. § (2) bekezdése, 245. § (1) bekezdés a), c) és d) pontját, valamint (2) és (3) bekezdése, 247. § (1) és (3) bekezdése, 250. §, 251. §, 256. § (2) bekezdése, 257. § (3) bekezdése, 258. § (1) bekezdése, 259–270. §, 271. § (2) bekezdése, 272–274. §, 275. §, 277–281. §, 283–285. §, 288–291. §, 293. §, 297. §, 298. §, valamint 341/A. § rendelkezéseit is.
+65. § Az országos népszavazási eljárásban az e fejezetben foglalt eltérésekkel alkalmazni kell a Ve. 244. § (2) bekezdésének, 245. § (1) bekezdés a), c) és d) pontjának, valamint (2)–(3) bekezdésének, 247. § (1) és (3) bekezdésének, 250. §-ának, 251. §-ának, 256. § (2) bekezdésének, 257. § (3) bekezdésének, 258. § (1) bekezdésének, 259–263. §-ának, 266–270. §-ának, 271. § (2) bekezdésének, 272–274. §-ának, 275. §-ának, 277–281. §-ának, 283–285. §-ának, 288–291. §-ának, 293. §-ának, 295. §-ának, 297. §-ának, 298. §-ának, valamint 341/A. §-ának rendelkezéseit is.
 
 66. § A szavazás, az eredmény megállapítása és a jogorvoslat során a népszavazásra feltett minden kérdést külön-külön kell figyelembe venni.
 
@@ -740,7 +740,7 @@ alapján megállapítja a választás eredményét.
 - b) az országos és helyi népszavazás kezdeményezése során és az országos és helyi népszavazási eljárásban használandó nyomtatványokat,
 - c) az országos népszavazási eljárás határidőinek naptár szerinti dátumait,
 - d) az országos népszavazási eredmény országosan összesített adatainak körét,
-- e) az országos népszavazási eljárás költségeinek normatíváit, tételeit, elszámolási és belső ellenőrzési rendjét,
+- e) az országos és helyi népszavazási eljárás költségeinek normatíváit, tételeit, elszámolási és belső ellenőrzési rendjét,
 - f) az országos népszavazási eljárásban – a Nemzeti Választási Bizottság kivételével – a választási bizottságok tagjait megillető tiszteletdíj és a választási irodák tagjait megillető díjazás összegét,
 - g) a médiatartalom-szolgáltató képviseletében eljáró személy e minőségének igazolására használható okiratokat,
 - h) a bírság megfizetésének részletes szabályait,

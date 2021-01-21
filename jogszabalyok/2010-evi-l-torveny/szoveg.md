@@ -60,7 +60,7 @@ választható.
 
 ### III. Fejezet — AZ AJÁNLÁS
 
-8. § (1) A választópolgár jelölési fajtánként több jelöltet vagy listát is ajánlhat, de csak egy településen, fővárosi kerületben, megyében fogadhat el jelölést.
+8. § (1) A választópolgár jelölési fajtánként több jelöltet vagy listát is ajánlhat, de csak egy településen és a település fekvése szerinti megyében, vagy egy fővárosi kerületben és a fővárosban fogadhat el jelölést.
 
 (2) Az egyéni listás választási rendszerben a választópolgár egyidejűleg legfeljebb egy polgármesteri, egy egyéni listás és egy megyei listás jelöltséget fogadhat el.
 
@@ -79,7 +79,7 @@ fogadhat el.
 
 (5) A főpolgármester jelölt csak fővárosi kompenzációs listás jelöltséget fogadhat el.
 
-(6) A választópolgár a fővárosi kompenzációs listán és megyei listán egyidejűleg nem lehet jelölt. A választópolgár megyei listán és megyei jogú városban egyidejűleg nem lehet jelölt. A választópolgár egyidejűleg nem lehet megyei listán jelölt és megyei jogú városban polgármesterjelölt.
+(6) A választópolgár megyei listán és megyei jogú városban egyidejűleg nem lehet jelölt. A választópolgár egyidejűleg nem lehet megyei listán jelölt és megyei jogú városban polgármesterjelölt.
 
 (7) Egy jelölő szervezet egy egyéni választókerületben csak egy jelöltet állíthat.
 
