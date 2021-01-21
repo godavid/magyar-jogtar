@@ -67,7 +67,7 @@ párt: a pártok működéséről és gazdálkodásáról szóló törvény alap
 
 7. § Országos lista pártlistaként vagy nemzetiségi listaként állítható.
 
-8. § (1) Pártlistát az a párt állíthat, amely – legalább kilenc megyében és a fővárosban – legalább huszonhét egyéni választókerületben önállóan jelöltet állított.
+8. § (1) Pártlistát az a párt állíthat, amely – legalább tizennégy megyében és a fővárosban – legalább hetvenegy egyéni választókerületben önállóan jelöltet állított.
 
 (2) Két vagy több párt közös egyéni választókerületi jelöltek alapján – ugyanazon pártok részvételével – közös pártlistát állíthat.
 

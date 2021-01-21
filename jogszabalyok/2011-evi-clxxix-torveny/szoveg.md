@@ -869,6 +869,8 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - a) a képviselő által meghatározott, a lemondást követő egy hónapon belüli időpontban, ennek hiányában
 - b) a lemondás bejelentésének vagy az írásbeli nyilatkozat átvételének napján.
 
+(7) A képviselő-testület, közgyűlés szóbeli lemondás esetén a képviselő-testület, közgyűlés ülését követő munkanapon, írásbeli lemondás esetén a lemondás átvételét követő munkanapon, az írásbeli lemondás másolatának megküldésével tájékoztatja a választási bizottságot.
+
 ### A vagyonnyilatkozat-tételi kötelezettség
 
 103. § (1) A nemzetiségi önkormányzati képviselő a megválasztásától számított harminc napon belül, majd ezt követően minden év január 31-ig a 2. melléklet szerinti vagyonnyilatkozatot köteles tenni. A képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házastársának vagy élettársának, valamint gyermekének az e törvény melléklete szerinti vagyonnyilatkozatát.
