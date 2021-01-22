@@ -483,6 +483,12 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 - b) üzemeltetésre végleg alkalmatlanná vált; vagy
 - c) megsemmisült.
 
+(16) A repülőeszközök, a pilóta nélküli légijármű-rendszerek és a pilóta nélküli légijármű-rendszer üzembentartók nyilvántartásba vételéért igazgatási szolgáltatási díjat kell fizetni.
+
+(17) A légiközlekedési hatóság az ügyfél kérelmére a pilóta nélküli légijármű-rendszer nyilvántartásba vételéről a (4) bekezdés szerinti, a pilóta nélküli légijármű-rendszerek üzembentartói nyilvántartásba vételéről pedig a (7) bekezdésben meghatározott adattartalommal igazolást állít ki. Az ügyfél az igazolásért igazgatási szolgáltatási díjat fizet.
+
+(18) A légiközlekedési hatóság a nyilvántartásba vételről az ügyfél erre irányuló kérelme és igazgatási szolgáltatási díj megfizetése ellenében a (13) bekezdésben szereplő adatokkal megegyező tartalommal igazolást állít ki a tulajdonos és a tanúsító szervezet részére.
+
 17/A. § A repülőeszközökről és a pilóta nélküli légijárművekről vezetett nyilvántartásból a Terrorelhárítási Információs és Bűnügyi Elemző Központ törvényben meghatározott, a szervezett bűnözés elleni fellépés céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjával összefüggő feladatai ellátása érdekében az adatkezelés céljának megjelölésével, egyedi adatigényléssel adatot kérhet.
 
 ### Az állami légijármű nyilvántartása és jelzései
@@ -1514,6 +1520,12 @@ folytatja le.
 (2) A felügyeleti díj a légiközlekedési hatóságot illeti meg, amelyet kizárólag a felügyeleti feladataival összefüggésben használhat fel. Amennyiben az engedéllyel rendelkező szervezet felügyeletét külföldön kell ellátni, a szervezet a felügyeleti díj megfizetésén felül köteles megtéríteni a légiközlekedési hatóság külföldi kiutazással kapcsolatos költségeit.
 
 (3) A felügyeleti díj mértékét az 1. melléklet tartalmazza.
+
+66/D. § (1) A légiközlekedési hatóság által a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendelet alapján kiadott engedéllyel rendelkező képző szervezet, valamint a távoli pilóták képzését és vizsgáztatását végző szervezetek kijelöléséről, a távoli pilóták képzésének és vizsgáztatásának részletes szabályairól, valamint a vizsgán való részvétel díjáról szóló miniszteri rendelet szerint bejelentés alapján tevékenységet végző képzőszervezetek felett ellátott felügyeleti feladatok ellátásért az engedélyezett, valamint a bejelentés alapján nyilvántartásba vett szervek évente felügyeleti díjat fizetnek. A felügyeleti díjat 2021. évre vonatkozóan 2021. június 30. napjáig, azt követően az adott évre vonatkozó felügyeleti díjat január 31-ig kell a légiközlekedési hatóság számlájára átutalással megfizetni.
+
+(2) A felügyeleti díj a légiközlekedési hatóságot illeti meg, amely azt a felügyeleti feladataival összefüggésben használhatja fel.
+
+(3) A felügyeleti díj éves mértéke az engedélyezett képző szervezet esetén 290 000 forint, bejelentés alapján tevékenységet végző szervezet esetén 165 000 forint.
 
 ## HATODIK RÉSZ — A LÉGIKÖZLEKEDÉS VÉDELME
 
