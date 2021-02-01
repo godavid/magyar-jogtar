@@ -2426,7 +2426,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | --- | --- | --- |
 | 10.2. | EGER | vár és erődrendszer romjai |
 | 10.3. | EGER Knézich K. u. | minaret |
-| 10.4. | ERDŐTELEK Fő u. 129. | Buttler-kastély együttese |
+| 10.4. |  |  |
 | 10.5. | HATVAN Kossuth tér | Grassalkovich-kastély együttese |
 | 10.6. | NOSZVAJ Dobó u. 10. | De la Motte-kastély együttese |
 | 10.7. | PARÁD Sziget u. 8. | falumúzeum |
@@ -2487,7 +2487,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 13.4. | DABAS-GYÓN Kossuth u. 7. | Halász Móric-kúria |
 | 13.5. | ÉRD Mecset u. | minaret |
 | 13.6. | FÓT Vörösmarty tér 2. | Károlyi-kastély együttese |
-| 13.7. | GÖDÖLLŐ Szabadság tér 1. | Grassalkovich-kastély együttese |
+| 13.7. |  |  |
 | 13.8. | GÖDÖLLŐ | vasútállomás királyi váróterme |
 | 13.9. | GÖDÖLLŐ Babatipuszta | istállókastély |
 | 13.10. | GYÖMRŐ Teleki u. 118. | Teleki-kastély együttese |
@@ -2599,7 +2599,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 
 | 19.1. | EGERVÁR Vár u. | várkastély |
 | --- | --- | --- |
-| 19.2. | KESZTHELY Bercsényi u. 65. Georgikon u. 20. | Georgikon együttese |
+| 19.2. | KESZTHELY Bercsényi utca. 65. | Georgikon major |
 | 19.3. | KESZTHELY, Festetics-kastély műemléki együttese |  |
 | Kastély u. 1. | kastély |
 | Georgikon u. 21/b | pálmaház és üvegházak |

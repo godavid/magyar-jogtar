@@ -226,7 +226,7 @@ alapján kell kiadni.
 
 23. § Temetőn, temetkezési emlékhelyen kívül holttestet ravatalozni az egészségügyi államigazgatási szerv engedélyével lehet.
 
-24. § (1) Halottat csak külön jogszabályban előírt orvosi vizsgálat és az erről szóló halottvizsgálati bizonyítvány alapján szabad eltemetni, vagy elhamvasztani. A halottvizsgálati bizonyítványt a temetés előtt kell az üzemeltető részére átadni. Az elhunyt elhamvasztásához a halottvizsgálati bizonyítványra minden esetben fel kell jegyezni az elhamvaszthatóságot. A halottvizsgálati bizonyítvány egy példányának megőrzéséről a temető tulajdonosa gondoskodik.
+24. § (1) Halottat csak jogszabályban előírt orvosi vizsgálat és az erről szóló halottvizsgálati bizonyítvány alapján szabad eltemetni vagy elhamvasztani. A halottvizsgálati bizonyítványt a temetés előtt kell az üzemeltető részére átadni, vagy elektronikus dokumentumként megküldeni. Az elhunyt elhamvasztásához a halottvizsgálati bizonyítványra minden esetben fel kell jegyezni az elhamvaszthatóságot. A halottvizsgálati bizonyítvány egy papíralapú vagy elektronikus példányának megőrzéséről a temető tulajdonosa gondoskodik.
 
 (2) Ha a halál körülményeinek vizsgálatára hatósági vagy büntetőeljárás indult, az elhunyt eltemetéséhez, elhamvasztásához az eljáró hatóság engedélye is szükséges.
 
@@ -400,7 +400,7 @@ kell igazolnia.
 - e) az elhaltat az üzembe beszállító szolgáltató nevét, címét, a szállító gépjármű forgalmi rendszámát, az átvétel napját, idejét,
 - f) az urnaátadás idejét, módját, az átadás azonosító adatait vagy az átvevő nevét, címét és aláírását.
 
-38. § (1) Ha a halottvizsgálati bizonyítvány szerint a holttest hamvasztható, a hamvasztást az ország területén működő bármely hamvasztóüzemben el lehet végezni. A hamvaszthatóságot tanúsító halottvizsgálati bizonyítványról az üzem másolatot készít, amit a nyilvántartáshoz csatolva kell megőrizni.
+38. § (1) Ha a halottvizsgálati bizonyítvány szerint a holttest hamvasztható, a hamvasztást az ország területén működő bármely hamvasztóüzemben el lehet végezni. A hamvaszthatóságot tanúsító halottvizsgálati bizonyítványról az üzem másolatot készítve vagy a halottvizsgálati bizonyítvány elektronikus példányát az üzem a nyilvántartáshoz csatolva megőrzi.
 
 (2) Magyarországon elhunyt külföldi személy, vagy más országban elhunyt és Magyarországra szállított külföldi személy elhamvasztásához az elhunyt állampolgársága szerinti ország külképviseletének, ennek hiányában az utolsó lakhelye szerint illetékes hatóság engedélye szükséges, ha nemzetközi szerződés másként nem rendelkezik.
 

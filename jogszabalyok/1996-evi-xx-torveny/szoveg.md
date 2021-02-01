@@ -211,7 +211,9 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 13. §
 
-14. § A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a fiatalok életkezdési támogatásáról szóló törvény szerinti belföldi gyermek természetes személyazonosító adatait, állampolgárságát, lakcímét, valamint nyilvántartási jogcímét közli az állami adóhatósággal. A gyermek részére az állami adóhatóság a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv adatszolgáltatása alapján az adóigazolványt hivatalból adja ki.
+14. § (1) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a fiatalok életkezdési támogatásáról szóló törvény szerinti belföldi gyermek természetes személyazonosító adatait, állampolgárságát, lakcímét, nyilvántartási jogcímét, továbbá ha a Magyarországon élő magyar állampolgár újszülött – a titkolt terhesség, valamint a szülőnek az újszülött örökbefogadásához adott hozzájárulás esete kivételével – intézetben született, ezt a tényt közli az állami adóhatósággal. Az állami adóhatóság a belföldi gyermek részére az adóigazolvány kiállításáról hivatalból gondoskodik.
+
+(2) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv (1) bekezdés szerinti adatszolgáltatása alapján – a titkolt terhesség, valamint a szülőnek az újszülött örökbefogadásához adott hozzájárulás esete kivételével – az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő állandó személyazonosító igazolvány tároló elemén az adóazonosító jel elhelyezése, továbbá az adóigazolvány megszemélyesítése céljából az állami adóhatóság az adatok átadását követően 8 órán belül gondoskodik a gyermek adóazonosító jelének képzéséről és az adóigazolvány kiállításához szükséges adatoknak az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére történő megküldéséről.
 
 15. § (1) Az adóigazolványt a polgár köteles megőrizni, és annak adatait felhívásra – személyazonosságának hitelt érdemlő igazolása mellett – megismerhetővé tenni az adóhatóság, valamint az adózással kapcsolatban adatszolgáltatásra kötelezett szerv számára.
 
@@ -225,7 +227,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 - a) a polgár elhalálozott,
 - b) a külföldön letelepedni szándékozó polgár az adójának soron kívüli megállapítását kéri,
-- c)
+- c) az abban szereplő adat megváltozott.
 - d)
 
 ### Az adóazonosító jel használata
@@ -273,7 +275,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - c) TAJ szám, valamint
 - d) a kiállító szerv bélyegzőlenyomata és a kiállító személy aláírása.
 
-(3) A TAJ számról szóló hatósági igazolványt az egészségbiztosítási szerv állítja ki és juttatja el az érintett részére.
+(3) A TAJ számról szóló hatósági igazolványt – a (7b) bekezdés kivételével – az egészségbiztosítási szerv állítja ki és juttatja el az érintett részére.
 
 (4) A (3) bekezdés szerinti hatósági igazolvánnyal egy tekintet alá esik a TAJ szám igazolására e törvény hatálybalépése előtt kiadott hatósági bizonyítvány.
 
@@ -288,9 +290,13 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 (6) E törvény 8. §-ának (1) bekezdése szerinti hatósági igazolvánnyal esik egy tekintet alá a külön törvény szerint kiállított, az egészségügyi szolgáltatásra való jogosultságot is igazoló okirat.
 
-(7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát és nemét, valamint lakcímét közli a kincstárral a TAJ szám képzésével és nyilvántartásával kapcsolatos feladatok ellátása céljából.
+(7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát és nemét, lakcímét, valamint ha a Magyarországon élő magyar állampolgár újszülött intézetben született, ennek tényét közli a kincstárral a TAJ szám képzésével és nyilvántartásával kapcsolatos, valamint az anyasági támogatás és a családi pótlék hivatalból történő megállapításával, a kérelmek elbírálásával összefüggő feladatok ellátása céljából.
 
-(7a) Az újszülött részére az egészségbiztosítási szerv a kincstár adatátadása alapján a TAJ-számot tartalmazó hatósági igazolványt hivatalból adja ki.
+(7a) A Magyarországon élő magyar állampolgár újszülött részére az egészségbiztosítási szerv a kincstár adatátadása alapján a TAJ számot tartalmazó hatósági igazolványt hivatalból állítja ki.
+
+(7b) Amennyiben az újszülött – a titkolt terhesség, valamint a szülőnek az újszülött örökbefogadásához adott hozzájárulás esete kivételével – intézetben született, Magyarországon élő magyar állampolgár, a kincstár a (7) bekezdésben meghatározott adatainak átadását követően haladéktalanul TAJ számot képez, és erről adatot szolgáltat az egészségbiztosítási nyilvántartásokat vezető szerv részére. Az egészségbiztosítási nyilvántartásokat vezető szerv az adatok átadását követő 8 órán belül gondoskodik az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő állandó személyazonosító igazolvány tároló elemén a TAJ szám elhelyezése céljából a TAJ számnak, valamint a hivatalból kiállításra kerülő TAJ számot tartalmazó hatósági igazolvány adatainak az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére történő megküldéséről.
+
+(7c) Az egészségbiztosítási szerv a TAJ számot tartalmazó hatósági igazolványt hivatalból állítja ki a Magyarországon házasságot kötött magyar állampolgár részére, amennyiben a polgár a házasságkötést követően a korábban viselt nevétől eltérő házassági nevet visel. Az egészségbiztosítási nyilvántartásokat vezető szerv a házasságkötésből eredő névváltozásra vonatkozó, a személyiadat- és lakcímnyilvántartás szerve általi adatszolgáltatást követően gondoskodik a hivatalból kiállításra kerülő TAJ számot tartalmazó hatósági igazolvány adatainak az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére történő megküldésről.
 
 (8) Amennyiben a rendőrség tudomást szerez a TAJ számot tartalmazó hatósági igazolvány eltulajdonításáról, haladéktalanul értesíti az egészségbiztosítási szervet.
 
@@ -439,7 +445,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 - a) az állami adóhatóságnak az adóalanyok nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának változásáról, nyilvántartási jogcímének, lakóhelyének, tartózkodási helyének változásáról és annak időpontjáról, nyilvántartásból kikerülése okáról és időpontjáról;
 - b) a társadalombiztosítási szervnek az egészségbiztosítási nyilvántartásában szereplő polgár családi és utónevének, nemének, állampolgárságának, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, nyilvántartásba történő bekerülés okának, nyilvántartásból való kikerülés okának (passziválási jogcím), lakóhelyének, tartózkodási helyének változásáról, azok időpontjáról, az érintett elhalálozásáról, a külföldön történő letelepedésről, nyilvántartási jogcíméről és annak változásáról;
-- c) a társadalombiztosítási szervnek a nyugdíj-biztosítási nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
+- c) a társadalombiztosítási szervnek a nyugdíj-biztosítási nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozása tényéről, helyéről, idejéről, a külföldön történő letelepedésről;
 - d) a kincstárnak a TAJ szám nyilvántartásában szereplő polgár családi és utónevének, nemének, állampolgárságának, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, nyilvántartásba történő bekerülése okának, nyilvántartásból való kikerülése okának (passziválási jogcím), lakóhelyének, tartózkodási helyének változásáról, azok időpontjáról, az érintett elhalálozásáról, a külföldön történő letelepedésről, nyilvántartási jogcíméről és annak változásáról, továbbá az Nytv. hatálya alá tartozó újszülöttek nyilvántartásában szereplő adatairól;
 - e) a családtámogatások és a fogyatékossági támogatás ügyében eljáró szerv részére az ellátásban részesülő személy és a családok támogatásáról szóló 1998. évi LXXXIV. törvény 49/B. §-a szerinti egységes szociális nyilvántartásban szereplő személy családi és utónevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
 - f) a társadalombiztosítási szervnek a megváltozott munkaképességű személyek nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
@@ -447,7 +453,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - g)
 - h) az egyéni vállalkozók nyilvántartását vezető szervnek az egyéni vállalkozók nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, az érintett elhalálozásáról;
 - i) a nyilvántartást vezető szervnek a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvény szerinti nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról;
-- j) az oktatási nyilvántartás működéséért felelős szervnek az oktatási nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja születési nevének, születési helyének és időpontjának, nemének, állampolgárságának, lakcímének változásáról, továbbá az érintettnek a személyiadat- és lakcímnyilvántartásból való kikerülése okáról és időpontjáról.
+- j) az oktatási nyilvántartás működéséért felelős szervnek az oktatási nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja születési nevének, születési helyének és időpontjának, nemének, állampolgárságának, lakcímének változásáról, továbbá az érintettnek a személyiadat- és lakcímnyilvántartásból való kikerülése okáról és időpontjáról;
+- k) a kincstárnak és az egészségbiztosítási nyilvántartásokat vezető szervnek jogszabályban meghatározott feladatai ellátásához a polgár elhalálozásának tényéről, helyéről és idejéről.
 - l) a Központi Statisztikai Hivatalnak a hivatalos statisztikáról szóló törvény alapján kezelt adatbázisában szereplő adatszolgáltató természetes személy családi és utónevének, születési nevének, anyja nevének, nemének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének, családi állapotának változásáról, azok időpontjáról, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyéről, az érintett elhalálozásáról, a külföldön történő letelepedésről, a nyilvántartásba bekerülés és a nyilvántartásból való kikerülés okáról, idejéről.
 
 (1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – a hallgatói hitelrendszert működtető szervezet erre irányuló igénye esetén adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
@@ -492,6 +499,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - f) az (1) bekezdés l) pontja szerinti Központi Statisztikai Hivatal,
 - g) a (2) bekezdés a) pontja szerinti Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve,
 - h) a (2) bekezdés d) pontja szerinti közúti közlekedési nyilvántartás járműnyilvántartását vezető szerv
+- i) az (1) bekezdés c) pontja szerinti nyugdíjbiztosítási nyilvántartást vezető társadalombiztosítási szerv,
+- j) az (1) bekezdés k) pontja szerinti kincstár,
 
 kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
 

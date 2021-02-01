@@ -76,6 +76,8 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 
 (5) A Nyilvántartót az (1) bekezdés l) pontjában megjelölt adatokról az utánképzésről szóló igazolás kiadására jogosult, külön jogszabályban meghatározott vizsgaközpont az igazolás kiállítását követő nyolc napon belül értesíti.
 
+5/A. § A Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyszolgáltatás kijelölt szolgáltatója a Nyilvántartó természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi a Nyilvántartó részére a természetes személy kapcsolati kódját és tárhely-azonosítóját. Az adatszolgáltatás adatait a Nyilvántartó a járművezetővel való elektronikus úton történő kapcsolatfelvételre használhatja fel.
+
 6. § (1) A nyilvántartásba vett pontszámot a pontszám alapját képező szabályszegést megállapító határozat jogerőre emelkedésének, illetve a helyszíni bírság tudomásulvételének időpontjától számított legfeljebb három évig lehet a pontok összesítésénél figyelembe venni.
 
 (2) A Nyilvántartó értesíti a járművezetőt, ha pontjainak száma a 13-at elérte, – a 9. § (1a) bekezdésben foglalt korlátozás figyelembe vételével – tájékoztatja a pontok csökkentését eredményező önkéntes utánképzés lehetőségéről, továbbá figyelmezteti a felső pontérték elérésének következményeire.

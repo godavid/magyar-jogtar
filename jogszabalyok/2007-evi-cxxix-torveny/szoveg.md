@@ -412,7 +412,7 @@ esetében.
 
 #### 1. Cél-kitermelőhely, anyagnyerő hely és a külfejtéses bányászati tevékenység végzéséhez szükséges termőföld végleges más célú hasznosításának engedélyezésére vonatkozó külön szabályok
 
-15/B. § (1) A cél-kitermelőhely és anyagnyerő hely létesítéséhez és a külfejtéses bányászati tevékenység végzéséhez (a továbbiakban együtt: cél-kitermelőhely és anyagnyerő hely) szükséges termőföld más célú hasznosításának engedélyezése esetén a 9–13. §-ban foglaltakat ezen alcímben foglalt eltérésekkel kell alkalmazni.
+15/B. § (1) A cél-kitermelőhely és anyagnyerő hely létesítéséhez és a külfejtéses bányászati tevékenység végzéséhez (a továbbiakban együtt: cél-kitermelőhely) szükséges termőföld más célú hasznosításának engedélyezése esetén a 9–13. §-ban foglaltakat ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) A cél-kitermelőhely létesítéséhez szükséges termőföld végleges más célú hasznosításának engedélyezése iránti kérelmet a külön törvény szerinti építtető, az építtetővel szerződéses jogviszonyban álló vállalkozó, és a bányavállalkozó (ezen alcímben a továbbiakban együtt: jogosult) nyújthat be. A kérelemnek – a 12. § (1) bekezdésben foglaltakon túl – tartalmaznia kell a tevékenység megszüntetését követően a terület helyreállításának, természeti környezetbe való visszahelyezésének tervezett módját.
 
@@ -1287,7 +1287,7 @@ a Módtv2. hatálybalépésekor folyamatban lévő ügyekben, valamint a Módtv2
 - 4. A 2. ponttól eltérően a 39. § (2) bekezdésében írt kötelezettség megsértése esetén a talajvédelmi bírság mértéke hektáronként 1 000 000 forint, de a bírság összege legalább 500 000 forint.
 - 5. A 41. §-ban írt kötelezettség megsértése esetén a talajvédelmi bírság mértéke 50 000 forint.
 - 6. A 48. § (2) bekezdésében foglaltak megsértése esetén a talajvédelmi bírság mértéke 100 000 Ft.
-- 7. A 49. § (1) bekezdés a) és g) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása esetén a talajvédelmi bírság mértéke 50 000 forint.
-- 8. A 49. § (1) bekezdés b)–d) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása, illetve az 50/A. § (1) bekezdése szerinti tevékenység bejelentés nélküli folytatása esetén a talajvédelmi bírság mértéke hektáronként 100 000 forint, de a bírság összege legalább 100 000 forint.
-- 9. A 49. § (1) bekezdés e)–f) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása esetén a talajvédelmi bírság mértéke hektáronként 100 000 forint, de a bírság összege legalább 200 000 forint.
+- 7. A 49. § (1) bekezdés c) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása, illetve a 49. § (2) bekezdés a) pontja szerinti tevékenység bejelentés nélküli folytatása esetén a talajvédelmi bírság mértéke 50 000 forint.
+- 8. A 49. § (2) bekezdés b) és c) pontja szerinti tevékenység bejelentés nélküli, vagy attól eltérő folytatása, valamint az 50/A. § (1) bekezdése szerinti tevékenység bejelentés nélküli folytatása esetén a talajvédelmi bírság mértéke hektáronként 100 000 forint, de a bírság összege legalább 100 000 forint.
+- 9. A 49. § (1) bekezdés a) és b) pontja szerinti tevékenység engedély nélküli, vagy attól eltérő folytatása esetén a talajvédelmi bírság mértéke hektáronként 100 000 forint, de a bírság összege legalább 200 000 forint.
 - 10. A külön jogszabály szerinti engedélyben foglalt talajvédelmi rendelkezésektől eltérő tevékenység esetén a talajvédelmi bírság mértéke hektáronként 50 000 forint, de a bírság összege legalább 100 000 forint.
