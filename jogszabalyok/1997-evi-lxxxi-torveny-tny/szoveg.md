@@ -1126,7 +1126,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 
 (2)–(4)
 
-(5) A nyugellátásban részesülő személy tizenöt napon belül köteles bejelenteni a nyugdíj-biztosítási igazgatási szervnek minden olyan tényt, adatot, körülményt, amely a nyugellátásra jogosultságát vagy a nyugellátás folyósítását érinti. A 83. § (2) bekezdésében megjelölt személyek vagy a nyugellátás felvételére jogosított más személy a jogosult halálának tényét és annak időpontját tizenöt napon belül kötelesek bejelenteni a nyugdíjfolyósító szervnek.
+(5) A nyugellátásban részesülő személy tizenöt napon belül köteles bejelenteni a nyugdíj-biztosítási igazgatási szervnek minden olyan tényt, adatot, körülményt, amely a nyugellátásra jogosultságát vagy a nyugellátás folyósítását érinti. Külföldön élő vagy tartózkodó jogosult esetén a 83. § (2) bekezdésében megjelölt személyek vagy a nyugellátás felvételére jogosított más személy a jogosult halálának tényét és annak időpontját tizenöt napon belül kötelesek bejelenteni a nyugdíjfolyósító szervnek.
 
 (6)
 

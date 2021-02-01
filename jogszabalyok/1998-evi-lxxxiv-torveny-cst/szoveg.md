@@ -41,7 +41,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 4. § E törvény alkalmazásában
 
 - a) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa;
-- b)
+- b) intézetben született újszülött: az az újszülött, akinek születését az anyakönyvi eljárásról szóló 2010. évi I. törvény 61. § (3) bekezdése szerint jelentik be az illetékes anyakönyvvezetőnek;
 - c)
 - d) kereső tevékenység: munkaviszonyban, közalkalmazotti, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban politikai szolgálati, biztosi, kormányzati szolgálati, közszolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, bírói, ügyészségi, igazságügyi szolgálati jogviszonyban, a Magyar Honvédség, rendvédelmi szervek, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenység;
 - e) szociális intézmény: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben (a továbbiakban: Szt.) szabályozott ápolást-gondozást, rehabilitációt, valamint átmeneti elhelyezést nyújtó bentlakásos intézmény;
@@ -341,7 +341,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 ### Az igényelbírálás szabályai
 
-34. § (1) A családtámogatási eljárásban a kérelmet írásban kell előterjeszteni.
+34. § (1) Az anyasági támogatás és a családi pótlék megállapítása intézetben született, Magyarországon élő, magyar állampolgár újszülött esetén – feltéve, hogy a szülő ezt vissza nem utasítja – az Elektronikus Egészségügyi Szolgáltatási Tér útján elektronikusan megkapott adatok alapján hivatalból induló eljárás keretében történik. Egyéb esetekben a családtámogatási ellátásokat írásban benyújtott kérelem alapján lehet megállapítani.
 
 (2)
 

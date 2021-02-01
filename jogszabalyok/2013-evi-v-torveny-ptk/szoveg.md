@@ -5337,10 +5337,10 @@ A szülő felügyeleti jogának gyakorlását a bíróság vagy más hatóság t
 
 (1) A gyámhatóság állapítja meg a gyermek nevét, ha
 
-- a) a szülői felügyeletet közösen gyakorló szülők a gyermek családi és utónevének meghatározásával kapcsolatos megállapodásukat a gyámhatóság felhívásától számítva harminc napon belül nem jelentik be; vagy
+- a) a szülői felügyeletet közösen gyakorló szülők a gyermek családi és utónevének meghatározásával kapcsolatos megállapodásukat az anyakönyvvezető felhívásától számítva harminc napon belül nem jelentik be; vagy
 - b) a gyermek mindkét szülője ismeretlen.
 
-(2) A gyámhatóság állapítja meg a gyermek utónevét, ha a szülői felügyeleti jogot az a szülő gyakorolja, aki az anyakönyvvezető vagy a gyámhatóság felhívása ellenére a gyermek utónevét - a felhívás közlésétől számított harminc napon belül - nem határozza meg.
+(2) A gyámhatóság állapítja meg a gyermek utónevét, ha a szülői felügyeleti jogot az a szülő gyakorolja, aki az anyakönyvvezető felhívása ellenére a gyermek utónevét - a felhívás közlésétől számított harminc napon belül - nem határozza meg.
 
 #### 2. A gyermek gondozása és nevelése
 
@@ -5989,9 +5989,9 @@ Gyermekvédelmi gyámság alá tartozik különösen az a gyermek,
 
 #### 4:235. § [A gyám jogkörének korlátai]
 
-(1) A gyám nem jogosult a gyermek nevének meghatározására vagy megváltoztatására, és nem adhat hozzájáruló nyilatkozatot a gyermek örökbefogadásához.
+(1) A gyám nem jogosult a gyermek nevének meghatározására, és nem adhat hozzájáruló nyilatkozatot a gyermek örökbefogadásához.
 
-(2) A gyám jognyilatkozatainak érvényességéhez a gyámhatóság jóváhagyása szükséges, ha az a gyermek családi jogállására és az ezzel kapcsolatos perindításra vonatkozik.
+(2) A gyám jognyilatkozatainak érvényességéhez a gyámhatóság jóváhagyása szükséges, ha az a gyermek nevének megváltoztatására, családi jogállására és az ezzel kapcsolatos perindításra vonatkozik.
 
 #### 4:236. § [A gyám vagyonkezeléssel kapcsolatos jogai és kötelezettségei]
 

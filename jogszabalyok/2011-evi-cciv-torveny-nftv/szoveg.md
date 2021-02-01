@@ -2923,6 +2923,8 @@ megnevezéssel működik.
 
 (31) 2020. augusztus 1. napjával a Kaposvári Egyetem és a Szent István Egyetem összeolvadásával a Szent István Egyetem jön létre.
 
+(32) A Szent István Egyetem 2021. február 1. napjától Magyar Agrár- és Élettudományi Egyetem megnevezéssel működik.
+
 116. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3) bekezdésében foglalt feltételeket az 1. mellékletben meghatározott egyetemeknek 2017. szeptember 1-jéig kell teljesíteniük.
 
 (2) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3a) bekezdésére tekintettel az oktatási hivatal 2017. szeptember 1-jéig jelentést készít az oktatásért felelős miniszter számára, hogy az 1. melléklet szerinti főiskolák közül melyek felelnek meg az alkalmazott tudományok egyetemére előírt feltételeknek.
@@ -3019,6 +3021,8 @@ kell érteni.
 
 vonatkozó szabályait még alkalmazni kell. Az a) és b) pontban megjelölt időszak elteltét követően a munka törvénykönyve vonatkozó rendelkezései alkalmazandóak.
 
+(6a) A Szent István Egyetem fenntartóváltása következtében az (5) bekezdés szerinti jogállásváltozás folytán létesített munkaviszony tekintetében a jogállásváltozást megelőzően ki nem adott szabadságot 2023. december 31. napjáig kell kiadni.
+
 (7) A 37. § szerinti magasabb vezetők és vezetők vezetői megbízása esetén a közalkalmazotti jogviszony a kinevezés szerint alakul át munkaviszonnyá, ezzel egyidejűleg a létrejött munkaszerződés a vezetői megbízás határozott idejére és annak tartalma szerint – a (8) bekezdésben meghatározott eltéréssel – módosul. A vezetői megbízás lejáratát követően a munkaviszony a felek eltérő megállapodása hiányában a korábbi munkaszerződésre módosul vissza azzal, hogy a munka törvénykönyve munkaszerződés módosítására vonatkozó rendelkezéseit alkalmazni kell.
 
 (8) Amennyiben a felsőoktatási intézmény 37. § (1) bekezdés a) pontjában meghatározott, valamint a 94. § (2a) bekezdés alkalmazása esetén a 37. § (1) bekezdés e) pontja szerinti magasabb vezetője vezetői megbízása az (1) bekezdés szerinti fenntartóváltás időpontját megelőző, illetve követő három hónapos időszakon belül járna le és az arra jogosult a magasabb vezetői feladatra újabb személyt nem bízott meg, a 37. § (1) bekezdés a) és e) pontja szerinti magasabb vezető vezetői megbízása az adott magasabb vezetői feladat ellátására kiírt vezetői pályázat eredményes lebonyolításáig, ennek hiányában a vezetői feladat ellátására való megbízásig, de legfeljebb a fenntartóváltás időpontjától számított egyéves időtartamra meghosszabbodik, azzal, hogy ebben az esetben a 37. § (3) és (6) bekezdésében előírt korlátozások nem alkalmazhatók.
@@ -3075,16 +3079,16 @@ vonatkozó szabályait még alkalmazni kell. Az a) és b) pontban megjelölt id�
 | 12. |  |  | Pécsi Tudományegyetem, Pécs |
 | 13. |  |  | Semmelweis Egyetem, Budapest |
 | 14. |  |  | Szegedi Tudományegyetem, Szeged |
-| 15. |  |  | Szent István Egyetem, Gödöllő |
-| 16. |  |  | Testnevelési Egyetem, Budapest |
-| 17. |  | I/B. Nem állami egyetemek |  |
-| 18. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
-| 19. |  |  | Állatorvostudományi Egyetem, Budapest |
-| 20. |  |  | Budapesti Corvinus Egyetem, Budapest |
-| 21. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
-| 22. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
-| 23. |  |  | Károli Gáspár Református Egyetem, Budapest |
-| 24. |  |  | Közép-európai Egyetem, Budapest |
+| 15. |  |  | Testnevelési Egyetem, Budapest |
+| 16. |  | I/B. Nem állami egyetemek |  |
+| 17. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
+| 18. |  |  | Állatorvostudományi Egyetem, Budapest |
+| 19. |  |  | Budapesti Corvinus Egyetem, Budapest |
+| 20. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
+| 21. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
+| 22. |  |  | Károli Gáspár Református Egyetem, Budapest |
+| 23. |  |  | Közép-európai Egyetem, Budapest |
+| 24. |  |  | Magyar Agrár- és Élettudományi Egyetem, Gödöllő |
 | 25. |  |  | Miskolci Egyetem, Miskolc |
 | 26. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
 | 27. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
@@ -3102,7 +3106,7 @@ vonatkozó szabályait még alkalmazni kell. Az a) és b) pontban megjelölt id�
 | 39. |  |  | Budapesti Metropolitan Egyetem, Budapest |
 | 40. |  |  | Edutus Egyetem, Tatabánya |
 | 41. |  |  | Gál Ferenc Egyetem, Szeged |
-| 42. |  |  | Kodolányi János Egyetem, Orosháza |
+| 42. |  |  | Kodolányi János Egyetem, Székesfehérvár |
 | 43. |  |  | Milton Friedman Egyetem, Budapest |
 | 44. |  |  | Neumann János Egyetem, Kecskemét |
 | 45. | III. FŐISKOLÁK |  |  |

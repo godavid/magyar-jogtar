@@ -450,8 +450,16 @@ Az állami adó- és vámhatóság az együttműködő közösség leendő tagja
 
 Az állami adó- és vámhatóság hivatalból állapítja meg az adóazonosító jelét annak a természetes személynek,
 
-- a) aki bejelentési kötelezettségét elmulasztotta, vagy
-- b) akinek az adóhatóság jogszabályban meghatározott feladatainak végrehajtásához adóhatósági nyilvántartása szükséges.
+- a) akire vonatkozóan a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény alapján adatot szolgáltatott,
+- b) aki bejelentési kötelezettségét elmulasztotta, vagy
+- c) akinek az adóhatóság jogszabályban meghatározott feladatainak végrehajtásához adóhatósági nyilvántartása szükséges.
+
+#### 33/A. § [Adóigazolvány kiállítása hivatalból]
+
+Az állami adó- és vámhatóság hivatalból gondoskodik az adóigazolvány kiállításáról, és az adóigazolvány megszemélyesítése érdekében a megszemélyesítéshez szükséges adatoknak az állandó személyazonosító igazolvány megszemélyesítését végző szervezet részére történő elküldéséről
+
+- a) az intézetben született, Magyarországon élő magyar állampolgár újszülött esetében;
+- b) azon természetes személy adózó esetében, akire vonatkozóan – házasságkötésére tekintettel – a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény, valamint a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény alapján adatot szolgáltatott.
 
 #### 34. § [Az adóazonosító jel közlése, igazolása]
 
