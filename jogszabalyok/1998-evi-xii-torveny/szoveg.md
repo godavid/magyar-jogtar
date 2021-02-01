@@ -332,6 +332,16 @@ ha a kérelmező a 32/A. § (1) bekezdés a) pontja alapján a második biometri
 
 21/C. § Ha az útlevélhatóság határozatának meghozatala az ügyfél magyar állampolgárságának megállapításától mint előkérdés előzetes elbírálásától függ, a közreműködő hatóság vagy az általános hatáskörű útlevélhatóság az eljárást felfüggeszti.
 
+21/D. § (1) Hivatalból történik az 5 vagy 10 éves érvényességi idővel kiállított, érvényes magánútlevéllel rendelkező polgár részére a magánútlevél kiállítása, ha házasságkötésére irányuló szándéka bejelentésekor a házasságkötést követően viselni kívánt, a korábbitól eltérő házassági név viselésére vonatkozó szándékáról nyilatkozik, és a hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tesz.
+
+(2) A magánútlevél kiállítására csak abban az esetben kerülhet sor az (1) bekezdés szerinti hivatalbóli eljárás keretében, ha a magánútlevél lejárat szerinti érvényessége a házasságkötésre irányuló szándék bejelentésekor és a házasság megkötésének napján is fennáll.
+
+(3) Ha a házasságkötési szándék bejelentését követően a magánútlevél érvénytelenítésre kerül, akkor az (1) bekezdés szerinti eljárásban magánútlevél nem állítható ki.
+
+(4) A magánútlevél kiállításához szükséges arcképmás, aláírás és ujjnyomat adatokat az anyakönyvvezető veszi fel, a személyiadat- és lakcímnyilvántartást kezelő szerv továbbítja az okmány előállításához szükséges adatokat.
+
+(5) Az (1) bekezdés szerint hivatalból kiállításra kerülő okmány érvényességi ideje megegyezik a korábbi okmány érvényességi idejével, de legalább 5 év.
+
 22. § (1)
 
 (2)
@@ -473,6 +483,12 @@ ha a kérelmező a 32/A. § (1) bekezdés a) pontja alapján a második biometri
 
 (1e) Az adatkezelő szerv az elektronikus ügyintézési ponton történő személyazonosítás céljából a polgár útiokmány-nyilvántartásban szereplő, az azonosításhoz szükséges természetes személyazonosító adatait szolgáltatja.
 
+(1f) Az adatkezelő szerv a közölt okmányazonosító adat alapján, az érintett családi és utónevét, születési családi és utónevét, születési helyét és idejét, anyja születési családi és utónevét átadja a természetes személy személyazonosságának ellenőrzése céljából a videotechnológián keresztül történő személyazonosítást végző szervezet részére.
+
+(1g) Az adatkezelő szerv a közölt természetes személyazonosító adatok alapján, az érintett úti okmánya érvényességének tényére és kiállítás szerinti érvényességi idejére vonatkozó adatokat átadja a házasságkötés miatt hivatalból történő okmánykiállításra való jogosultság megállapítása céljából az anyakönyvvezető részére.
+
+(1h) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat, továbbá az érintett saját kezű aláírását a Nemzeti Szakértői és Kutató Központ részére, az általa végzett igazságügyi szakértői tevékenység ellátása céljából átadja.
+
 (2) Az adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § (1) bekezdés g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 
 (2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a), e) és f) pontja alapján kezelt adatállományból.
@@ -543,6 +559,31 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 (2) Az (1) bekezdésben meghatározott tájékoztatás a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv és a nemzetbiztonsági szolgálatok részére teljesített adatszolgáltatás esetén – külön törvényben meghatározottak szerint – korlátozható, vagy kizárható.
 
 (3) Az útlevélhatóság, valamint az adatkezelő szerv az e törvény alapján teljesített adatszolgáltatásról nyilvántartást vezet, amelyet az adatszolgáltatástól számított öt évig köteles megőrizni.
+
+29/A. § (1) A személyes adatokkal elektronikus úton végzett adatkezelési műveletek jogszerűségének ellenőrizhetősége, valamint a személyes adatok integritásának és biztonságának biztosítása céljából az adatkezelő szerv automatizált adatkezelési rendszerben (a továbbiakban: naplórendszer) rögzíti a nyilvántartásban végzett adatkezelési művelettel összefüggő információkat.
+
+(2) A naplórendszerben történik a nyilvántartásban, illetve a nyilvántartás szolgáltatásait támogató informatikai alkalmazásokban végzett adatkezelési műveletre vonatkozó eseményt leíró információk (a továbbiakban: naplóbejegyzés) gyűjtése.
+
+(3) A naplóbejegyzés tartalmazza
+
+- a) az adatkezelési művelettel érintett személyes adatok körének meghatározását,
+- b) az adatkezelési művelet jogalapját, célját és indokát,
+- c) az adatkezelési művelet elvégzésének pontos dátumát és időpontját,
+- d) az adatkezelési műveletet végrehajtó hatóság és személy vagy elektronikus információs rendszer nevét és felhasználói azonosító adatát és a tevékenységét leíró adatokat,
+- e) a megőrzési időre vonatkozó adatokat,
+- f) az egyéb, az adatkezelési művelettel összefüggő leíró és technikai adatokat.
+
+(4) Naplóbejegyzést a személyes adatokkal végzett valamennyi műveletről, az adatkezelési esemény megtörténtével egyidejűleg kell képezni. A naplóbejegyzést pontos és megmásíthatatlan időadattal kell ellátni.
+
+(5) A naplórendszerben rögzített adatok kizárólag az adatkezelés jogszerűségének ellenőrzése, az adatbiztonsági követelmények érvényesítése, büntetőeljárás lefolytatása céljából, törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági és bűnmegelőzési ellenőrzési célból ismerhetőek meg és használhatóak fel.
+
+(6) A naplórendszerből a Nemzeti Adatvédelmi és Információszabadság Hatóság, továbbá az (5) bekezdésben meghatározott célból jogszabályban meghatározott tevékenységet folytató személy és szervezet részére – azok erre irányuló kérelmére – az adatkezelő szerv adatot továbbít. A naplórendszerből történő adatszolgáltatást is naplózza az adatkezelő szerv.
+
+(7) A naplórendszert a jogosulatlan hozzáféréstől védeni kell.
+
+(8) A nyilvántartási rendszer, valamint a nyilvántartás szolgáltatásait támogató alkalmazások alkalmazásüzemeltetési, illetve a hálózati- és rendszer-üzemeltetési működési eseményeire vonatkozó információk gyűjtése nem a naplórendszerben történik.
+
+(9) A naplórendszerben a naplóbejegyzések megőrzési ideje annak keletkezésétől számított tíz év. A megőrzési idő leteltét követően a naplóbejegyzést haladéktalanul törölni kell, kivéve, ha már megkezdett ellenőrzési eljáráshoz van szükség a naplóbejegyzésre. Ebben az esetben az eljárás lezárultát követően kell a törlést végrehajtani.
 
 30. § (1) A közreműködő szerv a 24. § (1) bekezdésében meghatározott adatok elektronikus formában történő kezelésére az előtte folyó eljárás befejezéséig jogosult.
 

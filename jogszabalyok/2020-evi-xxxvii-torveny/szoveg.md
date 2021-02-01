@@ -60,6 +60,24 @@ Az agrár képzési terület, ezen keresztül az innovációt támogatni kész m
 
 (6) Az 1. mellékletben meghatározott ingatlan, ingatlan tulajdoni hányada tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
+(7) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, a 2. mellékletben felsorolt egyes állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
+
+(8) Az e törvény szerinti vagyonjuttatás során a 2. mellékletben szereplő védett ingatlanok esetében nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 44. § (1) bekezdés a) pontját és (4) bekezdését, a természet védelméről szóló 1996. évi LIII. törvény 68. § (8) bekezdését, továbbá nem szükséges az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt miniszteri egyetértés megszerzése.
+
+(9) A 2. mellékletben foglalt táblázat 25. és 26. sorában meghatározott ingatlan ingyenes átruházása tekintetében az Nvtv. 6. § (1) bekezdését nem kell alkalmazni.
+
+(10) Az e törvény alapján ingyenesen tulajdonba adott ingatlanok tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
+
+(11) A 2. melléklet szerinti ingatlanok tekintetében a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az MNV Zrt. köti meg az Egyetemmel.
+
+(12) A (7) bekezdés szerinti ingatlanjuttatással egyidejűleg, a (7) bekezdésben meghatározott ingatlanokban meglévő, vagy azokhoz tartozó, az (1) bekezdésben meghatározott közfeladatok ellátására rendelkezésre álló, a Nemzeti Agrárkutatási és Innovációs Központ központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú, az Erdészeti Tudományos Intézet által használt ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
+
+(13) A (12) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(14) A 2. mellékletben meghatározott ingatlanok tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
+(15) Az e § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és a 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
 5. § (1) A Sopron 188 helyrajzi számú, ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg az MNV Zrt. kérelmezi.
 
 (2) A 4. § alapján ingyenesen tulajdonba adott ingatlan tekintetében – az (1) bekezdésben meghatározott ingatlant ide nem értve – nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
@@ -76,7 +94,7 @@ Az agrár képzési terület, ezen keresztül az innovációt támogatni kész m
 
 (3) A 8. § és a 9. § 2022. január 22-én lép hatályba.
 
-7. § A 3. § (1), (2) és (4)–(11) bekezdése, 4. § (1) bekezdése, valamint az 5. § (1) és (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+7. § A 3. § (1), (2) és (4)–(11) bekezdése, 4. § (1), (9) és (10) bekezdése, valamint az 5. § (1) és (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 8. §
 
@@ -112,3 +130,36 @@ Az agrár képzési terület, ezen keresztül az innovációt támogatni kész m
 | 22. | SOPRON | 7183/A | 1/1 | egyéb épület kávézó és vegyesbolt |
 | 23. | SOPRON | 8774/6/A/13 | 1/1 | lakás |
 | 24. | SOPRON | 8774/6/A/88 | 12/1044 | lakás |
+
+### 2. melléklet a 2020. évi XXXVII. törvényhez
+
+#### Az Egyetem részére átadásra kerülő állami tulajdonú ingatlanok
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1. | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS |
+| 2. | BUDAPEST | 13485/0/A/25 | 1/1 | lakás |
+| 3. | BUDAPEST | 13485/0/A/26 | 1/1 | lakás |
+| 4. | DUNAALMÁS | 4855/3 | 1/1 | kivett lakóház, udvar |
+| 5. | GÖDÖLLŐ | 4423/4 | 1/1 | kivett lakóház, udvar, gazdasági épület |
+| 6. | GYÖNGYÖS | 6360/1 | 1/1 | kivett gazdasági épület, udvar |
+| 7. | GYÖNGYÖS | 6360/2 | 1/1 | kivett gazdasági épület, udvar |
+| 8. | GYÖNGYÖS | 6570 | 1/1 | kivett beépítetlen terület |
+| 9. | GYÖNGYÖS | 6571 | 1/1 | kivett beépítetlen terület |
+| 10. | GYÖNGYÖS | 6572 | 1/1 | kivett beépítetlen terület |
+| 11. | GYÖNGYÖS | 6627 | 1/1 | kivett lakóház, udvar |
+| 12. | GYÖNGYÖS | 6629 | 1/1 | kivett irodaház, udvar |
+| 13. | PÜSPÖKLADÁNY | 0869/2 | 1/1 | kivett lakóház, udvar |
+| 14. | SÁRVÁR | 579 | 1/1 | kivett arborétum és kutatóintézet |
+| 15. | SÁRVÁR | 599/1 | 1/1 | kivett arborétum és 2 lakóház és 4 melléképület |
+| 16. | SÁRVÁR | 605/1 | 1/1 | kivett beépítetlen terület |
+| 17. | SÁRVÁR | 789/3 | 1/1 | kivett épület |
+| 18. | SOPRON | 2186 | 1/1 | kivett irodaház és udvar |
+| 19. | SZOMBATHELY | 825/1 | 1/1 | kivett beépítetlen terület |
+| 20. | SZOMBATHELY | 829/3 | 1/1 | kivett épület |
+| 21. | SZOMBATHELY | 830 | 1/1 | kivett beépítetlen terület |
+| 22. | SZOMBATHELY | 891 | 1/1 | kivett holtág |
+| 23. | SZOMBATHELY | 895 | 1/1 | kivett Gyöngyös-patak |
+| 24. | SZOMBATHELY | 974/2 | 1/1 | kivett arborétum |
+| 25. | SZOMBATHELY | 1002 | 1/1 | kivett közpark |
+| 26. | SZOMBATHELY | 1003 | 1/1 | kivett közpark |

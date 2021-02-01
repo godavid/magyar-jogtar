@@ -541,7 +541,7 @@ esetében.
 
 (2) A nyilvános könyvtári ellátás rendszerének működtetése az állam és a helyi önkormányzatok feladata.
 
-(3) A nyilvános könyvtárak gyűjteményeit és szolgáltatásait úgy kell kialakítani, hogy azok biztosítsák az ismeretek tárgyilagos, sokoldalú közvetítését.
+(3) A nyilvános könyvtárak gyűjteményeit, valamint szolgáltatásait úgy kell kialakítani, hogy azok biztosítsák az ismeretek tárgyilagos, sokoldalú közvetítését.
 
 54. § (1) A nyilvános könyvtár alapkövetelményei:
 
@@ -863,7 +863,7 @@ esetében.
 
 ### VIII. Fejezet — A könyvtárak finanszírozásánakés központi támogatásának alapelvei
 
-70. § (1) A könyvtárnak rendelkeznie kell a feladatai ellátásához szükséges feltételekkel. A könyvtár az alapító, illetőleg a fenntartó által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik feladatainak ellátásáról. A könyvtár fenntartási és működési költségeit az évente összeállított és a fenntartó által megállapított költségvetésben kell előirányozni.
+70. § (1) A könyvtárnak rendelkeznie kell a feladatai ellátásához szükséges feltételekkel. A könyvtár az alapító, illetőleg a fenntartó által biztosított pénzeszköz, valamint egyéb bevételei alapján gondoskodik feladatainak ellátásáról. A könyvtár fenntartási és működési költségeit az évente összeállított és a fenntartó által megállapított költségvetésben szükséges előirányozni.
 
 (2) A nyilvános könyvtári ellátásból adódó állami feladatokhoz a központi költségvetés hozzájárul:
 
@@ -1398,7 +1398,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - b) a muzeális intézmények látogatóit és a könyvtárhasználókat megillető kedvezményeket,
 - c) a muzeális intézményben folytatható kutatást,
 - d) a nemzetiségi bázisintézmény cím adományozásának részletes szabályait,
-- e) a nyilvános könyvtárak jegyzékének vezetését,
+- e) a nyilvános könyvtárak jegyzéke vezetésének szabályait,
 - f) az országos dokumentumellátási rendszer működését,
 - g) a nyilvános könyvtári ellátás rendszerének központi szolgáltatásait és a könyvtáraknak nyújtott szakmai szolgáltatásokat,
 - h) az Országos Könyvtári Kuratórium jogállását, összetételét és működését,
@@ -1479,7 +1479,7 @@ Fogalmak
 
 E törvény alkalmazásában:
 
-a) Állami egyetemek könyvtárai: a felsőoktatásról szóló törvény 1. számú mellékletében felsorolt állami egyetemek központi könyvtárai.
+a) Állami egyetemek könyvtárai: a nemzeti felsőoktatásról szóló törvény 1. mellékletében felsorolt állami egyetemek központi könyvtárai, valamint a Kormány által felsőoktatási intézmény működtetése céljából alapított vagyonkezelő alapítványok fenntartásában lévő egyetemek központi könyvtárai.
 
 b) Archiválás: a könyvtár gyűjtőköri szabályzatában meghatározott könyvtári dokumentumoknak a könyvtár állományában való végleges megtartása érdekében a könyvtár által folytatott megőrző tevékenység, beleértve az elektronikus dokumentumok olyan módon történő megőrzését, ami kizárja az utólagos tartalmi módosítás lehetőségét, valamint védi az elektronikus dokumentumokat a törlés, a megsemmisítés, a véletlen megsemmisülés, sérülés és a jogosulatlan hozzáférés ellen, továbbá biztosítja, hogy az elektronikus dokumentumok értelmezhetősége, olvashatósága – a dokumentumok megjeleníthetőségét lehetővé tevő technikai megoldások alkalmazásával – megmaradjon.
 
@@ -1567,7 +1567,7 @@ d) a Magyar Mezőgazdasági Múzeum és Könyvtár,
 
 e) az Országgyűlési Könyvtár,
 
-f) az Országos Idegen nyelvű Könyvtár,
+f) az Országos Idegennyelvű Könyvtár,
 
 g) Országos Pedagógiai Könyvtár és Múzeum,
 

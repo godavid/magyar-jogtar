@@ -244,7 +244,7 @@ ellátva kell csatolni.
 
 (2) A polgármester vagy a magyar külképviselet vezetője az okirat megérkezését követő harminc napon belül értesíti a kérelmezőt az állampolgársági eskü vagy fogadalom letételének időpontjáról és helyéről.
 
-(3) A 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított személy – legkésőbb a (2) bekezdés szerinti felhívásban meghatározott időpontot megelőző ötödik napon – kérheti, hogy az esküt vagy a fogadalmat a felhívásban megjelölttől eltérő helyen tegye le.
+(3) A 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított személy egy alkalommal – legkésőbb a (2) bekezdés szerinti felhívásban meghatározott időpontot megelőző ötödik napon – kérheti, hogy az esküt vagy a fogadalmat a felhívásban megjelölttől eltérő helyen tegye le.
 
 (3a) A (3) bekezdésben meghatározott esetben a polgármester vagy a magyar külképviselet vezetője haladéktalanul megküldi a honosítási okiratot a (3) bekezdés szerinti kérelemben megjelölt polgármesternek vagy – diplomáciai futár útján – a magyar külképviselet vezetőjének, aki gondoskodik a (2) bekezdésben meghatározott feladatok ellátásáról. Ebben az esetben a 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosított személy újabb, a (3) bekezdés szerinti kérelemmel nem élhet.
 
@@ -283,7 +283,7 @@ ellátva kell csatolni.
 
 (10)
 
-17/A. § (1) Az állampolgársági ügyekben eljáró szerv a nyilatkozattal, a lemondással és a magyar állampolgárság visszavonásával összefüggésben hozott határozatát közli azzal a természetes személlyel, akire nézve az rendelkezést tartalmaz.
+17/A. § (1) Az állampolgársági ügyekben eljáró szerv a nyilatkozattal, a lemondással és a magyar állampolgárság visszavonásával összefüggésben hozott határozatát, valamint a köztársasági elnök honosítást, visszahonosítást elutasító döntését közli azzal a természetes személlyel, akire nézve az rendelkezést tartalmaz.
 
 (2) Az állampolgársági ügyekben eljáró szerv a közlés érdekében a döntését postai úton az általa ismert összes külföldi és belföldi címre két alkalommal kísérli meg kézbesíteni.
 

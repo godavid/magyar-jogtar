@@ -157,3 +157,4 @@ a vagyonkezelő alapítványokról
 - 11. Széchenyi István Egyetemért Alapítvány
 - 12. Színház- és Filmművészetért Alapítvány
 - 13. Universitas Miskolcinensis Alapítvány
+- 14. Magyar Agrár- és Élettudományi Egyetemért Alapítvány

@@ -65,13 +65,41 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 
 (4) Ha a kitöltetlen vezetői engedély eltűnéséről, elvesztéséről, eltulajdonításáról vagy az eltűnt kitöltetlen okmány megkerüléséről értesül, a nyilvántartó a jogszabályban meghatározott NS.CP Portál felületen keresztül gondoskodik a schengeni figyelmeztető jelzés elhelyezéséről, illetve törléséről.
 
+4/A. § (1) Kategóriára vonatkozó vezetési jogosultság Magyarországon történő megszerzése, valamint magyar vezetői engedély érvényességi idejének meghosszabbítása esetén a nyilvántartó hivatalból, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus döntéshozatali eljárásban bejegyzi a járművezetési jogosultságot az engedély-nyilvántartásba, ha a járművezető a vezetői engedély kiállításához szükséges összes feltételt teljesítette.
+
+(2) Az (1) bekezdésben meghatározott esetekben a nyilvántartó hivatalból gondoskodik a vezetői engedélynek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus döntéshozatali eljárás útján történő (a továbbiakban: automatikus) kiállításáról, ha a járművezető a hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tett.
+
+(3) A nyilvántartó házasságkötésből eredő névváltozás esetén, a személyiadat- és lakcímnyilvántartást kezelő szerv által továbbított adatok alapján hivatalból gondoskodik a vezetői engedély automatikus kiállítás útján történő cseréjéről, ha a járművezető a vezetői engedély kiállításához szükséges összes feltételt teljesítette, továbbá az anyakönyvvezetőnél a vezetői engedély automatikus kiállításához szükséges nyilatkozatokat megtette és a hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tett.
+
+4/B. § Ha a vezetői engedély 4/A. §-ban foglaltak szerinti automatikus kiállítása valamely jogszabályi feltétel hiánya miatt akadályba ütközik, arról a nyilvántartó a személyre szabott ügyintézési felületen keresztül értesíti az ügyfelet.
+
+4/C. § A nyilvántartó házasságkötésből eredő névváltozás esetén, a személyiadat- és lakcímnyilvántartást kezelő szerv által továbbított adatok alapján hivatalból gondoskodik a forgalmi engedély és törzskönyv automatikus kiállítás útján történő cseréjéről, ha az okmány jogosultja az okmány kiállításához szükséges összes feltételt teljesítette, és a hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tesz.
+
+4/D. § A nyilvántartó a 4/A. §-ban foglalt esetekben hivatalból gondoskodik az okmányok kiállításáról, ha a hivatalbóli okmánykiállítás akadálya elhárult.
+
+4/E. § A vezetői engedély és a törzskönyv hivatalbóli kiállításáról a nyilvántartó a megszemélyesítést végző szervezet útján, az állandó forgalmi engedély hivatalbóli kiállításáról az okmány jogosultjának lakó-, ennek hiányában tartózkodási vagy szálláshelye szerint illetékes közlekedési igazgatási hatóság útján gondoskodik.
+
+4/F. § A 4/A–4/E. §-ban foglalt esetekben eljáró hatóság az okmány jogosultjának lakó-, ennek hiányában tartózkodási helye vagy szálláshelye szerint illetékes közlekedési igazgatási hatóság.
+
 ### Az okmányellátás rendszere
 
 5. § (1) A közlekedési igazgatási hatóság:
 
-- a) ellenőrzi a járművezetésre jogosító okmányok (a továbbiakban: engedély) kiállítása, érvényesítése, cseréje, pótlása iránti kérelem adatait, gondoskodik a kérelem teljesítéséről és az engedély ügyfél részére történő kiadásáról;
-- b) a jármű tulajdonjogát igazoló hatósági okmány (a továbbiakban: törzskönyv) kiállítására, cseréjére, pótlására irányuló kérelem alapján intézkedik a törzskönyv kiállításáról és az ügyfél részére történő kiadásáról;
-- c) ellátja a jármű közúti forgalomban tarthatóságát igazoló okmány kiállításával, cseréjével, pótlásával és az ügyfél részére történő átadásával kapcsolatos feladatokat;
+- a) vezetői engedély kiállítása kapcsán
+  - aa) ellenőrzi a külföldi vezetői engedély cseréjére, honosítására, visszahonosítására irányuló kérelem teljesítésének feltételeit,
+  - ab) eljár a magyar vezetői engedély kiállítása, érvényesítése, cseréje, pótlása ügyében azokban az esetekben, amikor a vezetői engedély automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
+  - ac) az aa) és ab) alpontban meghatározott esetekben gondoskodik a vezetői engedély kiállításáról,
+  - ad) jogszabályban meghatározott esetekben gondoskodik a vezetői engedély ügyfél részére történő kiadásáról;
+- b) a jármű tulajdonjogát igazoló hatósági igazolvány (a továbbiakban: törzskönyv) kapcsán:
+  - ba) ellenőrzi a törzskönyv kiállítására, cseréjére, pótlására irányuló kérelem teljesítésének feltételeit,
+  - bb) eljár a törzskönyv kiállítása, cseréje, pótlása ügyében azokban az esetekben, amikor a törzskönyv automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
+  - bc) a ba) és bb) alpontban meghatározott esetekben gondoskodik a törzskönyv kiállításáról,
+  - bd) jogszabályban meghatározott esetekben gondoskodik a törzskönyv ügyfél részére történő kiadásáról;
+- c) a jármű forgalomban tarthatóságát igazoló okmány kapcsán:
+  - ca) ellenőrzi a jármű forgalomban tarthatóságát igazoló okmány kiállítására, cseréjére, pótlására irányuló kérelem teljesítésének feltételeit,
+  - cb) eljár a jármű forgalomban tarthatóságát igazoló okmány kiállítása, cseréje, pótlása ügyében azokban az esetekben, amikor az állandó forgalmi engedély automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
+  - cc) a ca) és cb) alpontban meghatározott esetekben gondoskodik a jármű forgalomban tarthatóságát igazoló okmány kiállításáról,
+  - cd) jogszabályban meghatározott esetekben gondoskodik a jármű forgalomban tarthatóságát igazoló okmány ügyfél részére történő kiadásáról;
 - d) ellátja az a)–c) és i) pontokban megjelölt okmányok kiadásával kapcsolatos hatáskörébe utalt adatkezelési feladatokat;
 - e) átvezeti a nyilvántartáson az a)–c), i) és j) pontokban megjelölt adatokat, illetve adatváltozásokat;
 - f) továbbítja az okmánytár részére a nyilvántartásba történő bejegyzés és az okmányok kitöltésének alapját képező, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló jogszabály mellékletében csatolandóként meghatározott iratokat;
@@ -92,9 +120,15 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
   - cb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerződés, viszonosság alapján, illetve az Európai Unió tagállamának közlekedési nyilvántartása számára a 9. § (1) és (2) bekezdésében meghatározott adatokat továbbítani,
   - cc) a ca) pontban meghatározott adatigénylés lehetőségének hiányában, illetve annak kiegészítése céljából jogosult a jármű- és okmányazonosító, valamint műszaki adatok átadásával technikai adatok beszerzésére, és a körözés tényének a nemzeti nyilvántartásokban történő ellenőrzésére külön jogszabály szerint közreműködő igénybevételére.
 
+(3) A személyiadat- és lakcímnyilvántartást kezelő szerv a Magyarországon házasságot kötött magyar állampolgár esetén továbbítja a nyilvántartó részére a vezetői engedély, törzskönyv, forgalmi engedély házasságkötésből eredő névváltozás miatti, hivatalbóli cseréjéhez szükséges adatokat.
+
 ### Speciális közlekedési igazgatási eljárási szabályok
 
-6. § (1) Az ügyfélnek személyesen kell eljárnia – az elektronikusan is elintézhető ügyek kivételével – a vezetői engedély kiállítása, cseréje, pótlása, valamint a külföldi vezetői engedély honosítása iránti kérelem benyújtása esetén.
+6. § (1) Az ügyfélnek személyesen kell eljárnia
+
+- a) a külföldi vezetői engedély cseréje, honosítása vagy visszahonosítása iránti kérelem benyújtása ügyében, vagy
+- b) ha a vezetői engedély automatikus kiállítása visszautasításra került,
+- c) ha a vezetői engedély automatikus kiállításának ügyfél által elhárítható akadálya van.
 
 (1a)
 
@@ -158,6 +192,8 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
   - ai) „Gépjármű-vezetői képesítési igazolvány” sorszámára, kategóriájára, kiadásának dátumára és érvényességi idejére vonatkozó adatokat,
   - aj) vezetési jogosultságának szünetelésére vonatkozó adatokat,
   - ak) kényszergyógykezelését elrendelő bíróság megnevezésére és ügyszámára, valamint a kényszergyógykezelés elrendelésének és megszűnésének vagy megszüntetésének időpontjára vonatkozó adatokat.
+  - al) az elsősegély-nyújtási ismeretek megszerzésére (sikeres vizsga időpontja, vizsgaigazolás sorszáma) vagy az elsősegély-nyújtási vizsgakötelezettség alóli mentesülés tényére (mentesülés megállapításának időpontja és a mentesülési igazolás sorszáma) vonatkozó adatokat,
+  - am) vezetői engedély automatikus kiállításához szükséges nyilatkozatait; továbbá
 - b) az engedély
   - ba) típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatokat,
   - bb) elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására és megkerülésére vonatkozó adatokat,
@@ -340,8 +376,12 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
   - ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
   - hb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól,
   - hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről,
+  - hd) a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, járművezetői képzés és vizsgáztatás folyamatában tett nyilatkozatairól,
 - i) a gondnokoltak nyilvántartásának adatkezelője elektronikus úton a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 3. § (1) bekezdés a) pont aa)–ae) alpontjában, valamint b)–e) pontjában meghatározott adatokról, a cselekvőképesség, valamint a közlekedésbiztonsági alkalmasság fennállásának ellenőrzése céljából,
 - j) a bűnügyi nyilvántartó szerv elektronikus úton a 8. § (1) bekezdés a) pont ak) alpontjában meghatározott adatokról.
+- k) a vizsgálatot végző szerv elektronikus úton a 8. § (1) bekezdés a) pont ae) alpontjában meghatározott egészségi alkalmassági adatokról és azok változásáról az Elektronikus Egészségügyi Szolgáltatási Téren keresztül,
+- l) a Magyar Vöröskereszt fővárosi, megyei szervezete elektronikus úton a 8. § (1) bekezdés a) pont al) alpontjában foglalt adatokról,
+- m) a személyiadat- és lakcímnyilvántartást kezelő szerv a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, az anyakönyvvezetőnél a házasságkötési szándék bejelentésekor tett nyilatkozatairól.
 
 14/A. § A közlekedési igazgatási hatóságot értesíti
 
@@ -446,7 +486,8 @@ kezeli.
 - d) a közfeladatot ellátó személyek vagy szervezetek, továbbá a 19. §-ban nem nevesített egyéb hatóságok, állami vagy önkormányzati szervek a rájuk vonatkozó jogszabályban meghatározott célok és feltételek teljesülése esetén, az ott meghatározott adatokra vagy iratokra vonatkozóan,
 - e) a Gfbt.-ben meghatározott biztosító és a Kártalanítási Számla kezelője díjmentesen a káreseménnyel érintett jármű Gfbt.-ben meghatározott Kártörténeti nyilvántartásba (a továbbiakban: kárnyilvántartás) történő vétele során, a károsult jármű rendszámának és alvázszámának, valamint magyarországi nyilvántartásba vétele tényének elektronikus ellenőrzése érdekében a 9. § (2) bekezdés a) pontjában foglalt adatokból a járműazonosító adatokat;
 - f) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pontjában, illetve 10. pontjában meghatározott kockázatok biztosítását – az erre vonatkozó engedély alapján – végző biztosító és a Kártalanítási Számla kezelője díjmentesen a gépjárműre vonatkozó biztosítási ajánlat elbírálása, illetve a kártérítési igények jogosságának megállapítása céljából a járműéletút-adatszolgáltatás igénybevételével a 24. § (3a) bekezdésében foglalt adatokat;
-- g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatainak ellátásához a 8. §-ban meghatározott adatokat;
+- g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési és vizsgáztatási, valamint a vezetői engedély automatikus kiállításával összefüggő feladatainak ellátásához a 8. §-ban meghatározott adatokat ingyenesen;
+- l) a nyilvántartó által megbízott megszemélyesítést végző szervezet a vezetői engedély, törzskönyv és hivatalból kiállításra kerülő forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez a nyilvántartásból az okmányra kerülő adatokat ingyenesen.
 
 (3) A nyilvántartásból adatot igényelhet:
 
@@ -611,7 +652,7 @@ továbbítására jogosult.
 - a) az adatigénylő nevét vagy megnevezését, lakóhelyének vagy székhelyének, telephelyének címét, továbbá az adatigénylő szerv nevében eljáró személy nevét vagy egyedi azonosítóját,
 - b) a továbbított adatok körének megnevezését és az adattovábbítás időpontját,
 - c) az adatszolgáltatás célját és jogalapját,
-- d) az adatszolgáltatás alanyának nevét.
+- d) az adatszolgáltatás alanyának természetes személyazonosító adatait.
 
 (2) A nyilvántartó az adattovábbítási nyilvántartásba bejegyzett adatot az adatszolgáltatástól számított öt évig kezeli.
 
@@ -675,6 +716,31 @@ továbbítására jogosult.
 (6) Az adatkezelés jogszerűségének ellenőrzése céljából az (1) bekezdés szerinti nyilvántartásban kezelt adatok teljes körét az adatkezelő szervtől az adatkezelő szerv szakmai felügyeletét ellátó miniszter, a Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint a hozzáférési jogosultságot kérő szerv jogosult igényelni.
 
 (7) Az adatkezelés jogszerűségének ellenőrzése céljából a nyilvántartó az adatkezelési műveleteket naplózza és ehhez kapcsolódóan kezeli az adatkezelésre jogosultak (2) bekezdés d) pont da)–dd) alpontja szerinti adatait.
+
+32/C. § (1) A személyes adatokkal elektronikus úton végzett adatkezelési műveletek jogszerűségének ellenőrizhetősége, valamint a személyes adatok integritásának és biztonságának biztosítása céljából az adatkezelő szerv automatizált adatkezelési rendszerben (a továbbiakban: naplórendszer) rögzíti a nyilvántartásban végzett adatkezelési művelettel összefüggő információkat.
+
+(2) A naplórendszerben történik a nyilvántartásban, illetve a nyilvántartás szolgáltatásait támogató informatikai alkalmazásokban végzett adatkezelési műveletre vonatkozó eseményt leíró információk (a továbbiakban: naplóbejegyzés) gyűjtése.
+
+(3) A naplóbejegyzés tartalmazza
+
+- a) az adatkezelési művelettel érintett személyes adatok körének meghatározását,
+- b) az adatkezelési művelet jogalapját, célját és indokát,
+- c) az adatkezelési művelet elvégzésének pontos dátumát és időpontját,
+- d) az adatkezelési műveletet végrehajtó hatóság és személy vagy elektronikus információs rendszer nevét és felhasználói azonosító adatát és a tevékenységét leíró adatokat,
+- e) a megőrzési időre vonatkozó adatokat,
+- f) az egyéb, az adatkezelési művelettel összefüggő leíró és technikai adatokat.
+
+(4) Naplóbejegyzést a személyes adatokkal végzett valamennyi műveletről, az adatkezelési esemény megtörténtével egyidejűleg kell képezni. A naplóbejegyzést pontos és megmásíthatatlan időadattal kell ellátni.
+
+(5) A naplórendszerben rögzített adatok kizárólag az adatkezelés jogszerűségének ellenőrzése, az adatbiztonsági követelmények érvényesítése, büntetőeljárás lefolytatása céljából, törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági és bűnmegelőzési ellenőrzési célból ismerhetőek meg és használhatóak fel.
+
+(6) A naplórendszerből a Nemzeti Adatvédelmi és Információszabadság Hatóság, továbbá az (5) bekezdésben meghatározott célból jogszabályban meghatározott tevékenységet folytató személy és szervezet részére – azok erre irányuló kérelmére – az adatkezelő szerv adatot továbbít. A naplórendszerből történő adatszolgáltatást is naplózza az adatkezelő szerv.
+
+(7) A naplórendszert a jogosulatlan hozzáféréstől védeni kell.
+
+(8) A nyilvántartási rendszer, valamint a nyilvántartás szolgáltatásait támogató alkalmazások alkalmazásüzemeltetési, illetve a hálózati- és rendszer-üzemeltetési működési eseményeire vonatkozó információk gyűjtése nem a napló rendszerben történik.
+
+(9) A naplórendszerben a naplóbejegyzések megőrzési ideje annak keletkezésétől számított tíz év. A megőrzési idő leteltét követően a naplóbejegyzést haladéktalanul törölni kell, kivéve, ha már megkezdett ellenőrzési eljáráshoz van szükség a naplóbejegyzésre. Ebben az esetben az eljárás lezárultát követően kell a törlést végrehajtani.
 
 ### V. Fejezet — VEGYES RENDELKEZÉSEK
 

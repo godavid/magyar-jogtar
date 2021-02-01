@@ -662,14 +662,19 @@ tartalmazza. Az ügyfél-regisztrációs nyilvántartás tartalmazhatja az elekt
 35. § (1) Az ügyfél a következő, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásokat veheti igénybe:
 
 - a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás,
-- b) ügyfélkapu, valamint
-- c) részleges kódú telefonos azonosítás.
+- b) ügyfélkapu,
+- c) részleges kódú telefonos azonosítás, valamint,
+- d) videotechnológiával történő azonosítás.
 
 (2) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatások igénybe vevőiről a személyazonosság hiteles igazolása érdekében a Kormány által rendeletben kijelölt szerv egységes ügyfél-regisztrációs nyilvántartást (a továbbiakban: Központi Ügyfél-regisztrációs Nyilvántartás) vezet.
 
-(3) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybe vevője díjmentesen jogosult egy, a Kormány rendeletében meghatározott, az (1) bekezdés a) és b) pontjában megjelölt elektronikus azonosítási szolgáltatáshoz egységesen kapcsolódó biztonságos kézbesítési szolgáltatás és az ahhoz kapcsolódó tárhely használatára.
+(3) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybe vevője díjmentesen jogosult egy, a Kormány rendeletében meghatározott, az (1) bekezdésben megjelölt elektronikus azonosítási szolgáltatáshoz egységesen kapcsolódó biztonságos kézbesítési szolgáltatás és az ahhoz kapcsolódó tárhely használatára.
 
-(4) A Központi Ügyfél-regisztrációs Nyilvántartás tekintetében az ügyfél-regisztrációs nyilvántartás és a nyilvántartásba történő regisztráció szabályait az (5)–(18) bekezdésben foglalt eltérésekkel kell alkalmazni.
+(4) A Központi Ügyfél-regisztrációs Nyilvántartás tekintetében az ügyfél-regisztrációs nyilvántartás és a nyilvántartásba történő regisztráció szabályait a (4a)–(18) bekezdésben és a 35/A. §-ban foglalt eltérésekkel kell alkalmazni.
+
+(4a) Az (1) bekezdés d) pontjában megjelölt elektronikus azonosítási szolgáltatást kizárólag az veheti igénybe, aki a 31. § (2) bekezdés a) pontjában megjelölt nyilvántartásban szerepel.
+
+(4b) Az (1) bekezdés d) pontjában megjelölt elektronikus azonosítási szolgáltatás regisztrációja és a 31. § (7) bekezdése szerinti eljárás a 35/A. §-ban meghatározott módon történik a szolgáltatás első használatakor.
 
 (5) A 31. § (8) bekezdés szerinti esetben a 31. § (2) bekezdés szerinti nyilvántartást vezető szerv kapcsolati kódot képez, és Központi Ügyfél-regisztrációs Nyilvántartást vezető szerv a 32. § (2) bekezdés szerinti adatokat és a kapcsolati kódot átveszi a 31. § (2) bekezdés szerinti nyilvántartásból a Központi Ügyfél-regisztrációs Nyilvántartásba történő bejegyzés céljából.
 
@@ -685,7 +690,8 @@ tartalmazza. Az ügyfél-regisztrációs nyilvántartás tartalmazhatja az elekt
 
 - a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatás esetén az okmányszám, az okmány érvényességére vonatkozó adatok, a személyazonosító igazolványhoz rendelt regisztrációs kód visszafejthetetlen lenyomata és – ha az érintett azt megadta – az érintett elektronikus levelezési címe,
 - b) ügyfélkapu esetén felhasználói név, a felhasználói névhez tartozó jelszó visszafejthetetlen lenyomata, az érintett elektronikus levelezési címe,
-- c) részleges kódú telefonos azonosítás esetén az érintett által megadott telefonos elérhetőség, elektronikus levelezési cím, felhasználói azonosító, a felhasználói azonosítóhoz tartozó jelszó visszafejthetetlen lenyomata, valamint az ügyfél által az emlékeztető kérdésekre adott válaszok.
+- c) részleges kódú telefonos azonosítás esetén az érintett által megadott telefonos elérhetőség, elektronikus levelezési cím, felhasználói azonosító, a felhasználói azonosítóhoz tartozó jelszó visszafejthetetlen lenyomata, valamint az ügyfél által az emlékeztető kérdésekre adott válaszok,
+- d) videotechnológiával történő azonosítás esetén az okmányszám, az okmány típusa, az okmány érvényességére vonatkozó adatok és – ha az érintett azt megadta – az érintett elektronikus levelezési címe.
 
 (11) A Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybevétele során az elektronikus ügyintézést biztosító szerv által igényelt, a Központi Ügyfél-regisztrációs Nyilvántartásban szereplő
 
@@ -696,27 +702,41 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 
 (12) Az (1) bekezdésben megjelölt elektronikus azonosítási szolgáltatás igénybevételéhez nincs szükség a 31. § szerinti regisztrációra, ha az ügyfél az (1) bekezdésben foglalt valamely elektronikus azonosítási szolgáltatás igénybevétele érdekében már a Központi Ügyfél-regisztrációs Nyilvántartásba regisztrált.
 
-(13) A 32. § (5) bekezdéstől eltérően Központi Ügyfél-regisztrációs Nyilvántartásban való regisztráció a 32. § (5) bekezdés a) pontjában foglalt esetben csak akkor szűnik meg, ha az ügyfél tároló elemmel rendelkező személyazonosító igazolvánnyal nem rendelkezik vagy annak érvényessége megszűnt. Megszűnik a regisztráció akkor is, ha az ügyfél tároló elemmel rendelkező személyazonosító igazolvánnyal nem rendelkezik és az (1) bekezdés b) és c) pontja szerinti elektronikus azonosítási szolgáltatás használatát nem igényelte.
+(13) A 32. § (5) bekezdéstől eltérően Központi Ügyfél-regisztrációs Nyilvántartásban való regisztráció a 32. § (5) bekezdés a) pontjában foglalt esetben csak akkor szűnik meg, ha az ügyfél tároló elemmel rendelkező személyazonosító igazolvánnyal nem rendelkezik vagy annak érvényessége megszűnt. Megszűnik a regisztráció akkor is, ha az ügyfél tároló elemmel rendelkező személyazonosító igazolvánnyal nem rendelkezik és az (1) bekezdés b)–d) pontja szerinti elektronikus azonosítási szolgáltatás használatát nem igényelte.
 
 (14) A Központi Ügyfél-regisztrációs Nyilvántartást vezető szerv a természetes személy adatait a regisztráció megszűnését követő 5 év elteltével zárolja, ezt követően azokat kizárólag az elektronikus azonosítás hitelességének visszavezethetősége, a polgárok jogai és jogos érdekeinek védelme érdekében a regisztráció megszűnését követő 20 évig kezelheti.
 
 (15) Az ügyfél az (1) bekezdés b) pontjában megjelölt elektronikus azonosítási szolgáltatás igénybevételére elektronikusan, a tároló elemet tartalmazó személyazonosító igazolvány használatával is regisztrálhat.
 
-(15a) Az ügyfél az (1) bekezdés b) pontjában megjelölt elektronikus azonosítási szolgáltatás igénybevételére a Kormány rendeletében megjelölt szerv által biztosított, kép- és hangfelvétel rögzítésén alapuló rendszer használatával is – a Kormány rendeletében meghatározott részletszabályok szerint – regisztrálhat.
+(15a)
 
-(15b) A (15a) bekezdés szerinti regisztráció esetén a Kormány rendeletében kijelölt regisztrációs szerv az ügyféllel létrejött teljes kommunikációt, az ügyfélnek szóló részletes tájékoztatást és az ügyfélnek az adatok kezelésére vonatkozó kifejezett hozzájárulását visszakereshető módon, kép- és hangfelvételen rögzíti és azt a felvételtől számított tíz évig megőrzi.
+(15b)
 
-(15c) A (15b) bekezdésben foglalt esetben a Kormány rendeletében kijelölt regisztrációs szerv jogosult az ügyfélnek a személyazonosságát igazoló okmányról készült képfelvételnek a (15b) bekezdés szerinti időtartamban történő tárolására.
+(15c)
 
-(15d) A (15a) bekezdés szerinti regisztráció során a Kormány rendeletében kijelölt regisztrációs szerv a videojel segítségével az okmányból kiolvasott természetes személyazonosító adatokat, az állampolgárságra vonatkozó adatot és az okmányszámot összeveti az okmányt nyilvántartó központi nyilvántartásban szereplő természetes személyazonosító adatokkal, ellenőrzi a személyazonosság igazolására alkalmas hatósági igazolvány érvényességét, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9/B. alcíme szerinti automatizált összehasonlítás igénybevételével az ügyfélről videojel útján készült arckép és a személyiadat- és lakcímnyilvántartásban szereplő, a személyazonosság ellenőrzésével érintett személy utolsó alkalommal nyilvántartásba vett arcképmásának az egymással történő megfeleltethetőségét. A nyilvántartásban szereplő adatok egyezősége, a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége, valamint az egyezőség feltételeként meghatározott értékszám elérése esetén az azonosítás sikeresen megtörténik.
+(15d)
 
-(15e) A regisztráció során a Kormány rendeletében kijelölt regisztrációs szerv a 31. §-ban és az (5)–(15) bekezdésben foglaltak szerint jár el, azzal, hogy a személyes megjelenésnek a (15a) bekezdés szerinti rendszer használatát kell tekinteni.
+(15e)
 
 (16) A tároló elemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatás esetében regisztrációs eljárás alatt a tároló elemet tartalmazó személyazonosító igazolvány iránti kérelem benyújtására irányuló eljárást kell érteni.
 
 (17) A (16) bekezdésben foglalt esetben a Központi Ügyfél-regisztrációs Nyilvántartásba a (10) bekezdés a) pontja szerinti adatokat a személyiadat- és lakcímnyilvántartást kezelő szerv adatközlése alapján a tároló elemet tartalmazó személyazonosító igazolvány érvényessé válásakor kell bejegyezni.
 
 (18) A személyiadat- és lakcímnyilvántartást kezelő szerv értesíti a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervet a tárolóelemet tartalmazó személyazonosító igazolvány érvénytelenné válása tényéről és időpontjáról.
+
+35/A. § (1) Az ügyfél a 35. § (1) bekezdés d) pontjában megjelölt elektronikus azonosítási szolgáltatás igénybevételéhez szükséges regisztrációt elektronikus úton teheti meg a szolgáltatás első használatakor. A regisztrációhoz az ügyfélnek be kell mutatnia a személyazonosság igazolására alkalmas hatósági igazolványát.
+
+(2) Az (1) bekezdés szerinti regisztráció során az elektronikus azonosítási szolgáltató a videojel segítségével az okmányból kiolvasott természetes személyazonosító adatokat, az állampolgárságot és az okmányszámot összeveti az okmányt nyilvántartó központi nyilvántartásban szereplő természetes személyazonosító adatokkal, ellenőrzi a személyazonosság igazolására alkalmas hatósági igazolvány érvényességét, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9/B. alcíme szerinti automatizált összehasonlítás igénybevételével az ügyfélről videojel útján készült arckép és a személyiadat- és lakcímnyilvántartásban szereplő, a személyazonosság ellenőrzésével érintett személy utolsó alkalommal nyilvántartásba vett arcképmásának az egymással történő megfeleltethetőségét. A nyilvántartásban szereplő adatok egyezősége, a személyazonosság igazolására alkalmas hatósági igazolvány érvényessége, valamint az egyezőség feltételeként meghatározott értékszám elérése esetén az azonosítás sikeresen megtörténik.
+
+(3) Az elektronikus azonosítási szolgáltató a közölt okmányazonosító adat alapján az okmányt nyilvántartó központi nyilvántartásból átveheti az érintett családi és utónevét, születési családi és utónevét, születési helyét és idejét, anyja születési családi és utónevét az ügyfél személyazonosságának ellenőrzése céljából.
+
+(4) A (2) bekezdés szerinti azonosítás sikerességét az elektronikus azonosítási szolgáltató jelzi a személyiadat- és lakcímnyilvántartást kezelő szerv és a Központi Ügyfél-regisztrációs Nyilvántartást vezető szerv felé a 35. § (5) bekezdése szerinti eljárás lefolytatása céljából.
+
+(5) A 35. § (1) bekezdés d) pontjában megjelölt elektronikus azonosítási szolgáltatással regisztrált ügyfél esetén a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervet értesíti
+
+- a) a személyiadat- és lakcímnyilvántartást kezelő szerv a személyazonosító igazolvány okmányszámáról, a személyazonosító igazolvány érvénytelenné válása tényéről és időpontjáról,
+- b) az útiokmány-nyilvántartás adatkezelő szerve az útiokmány okmányszámáról, az útiokmány érvénytelenné válása tényéről és időpontjáról,
+- c) a közúti közlekedési nyilvántartást kezelő szerv a vezetői engedély okmányszámáról, a vezetői engedély érvénytelenné válása tényéről és időpontjáról.
 
 #### 22. Adatkezelés
 

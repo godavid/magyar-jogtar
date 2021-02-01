@@ -400,9 +400,11 @@ tartalmazza.
 
 (2) Az érintett egészségügyi és személyazonosító adata statisztikai célú felhasználásra személyazonosításra alkalmas módon az érintett írásbeli hozzájárulásával adható át.
 
-(3) Élveszületés és halálozás esetén a születés, illetve halálozás helye szerint illetékes anyakönyvvezető útján a Központi Statisztikai Hivatal részére a 4. § (2) bekezdés c) pontja szerinti célból az élveszületett, illetve elhalálozott személy egészségügyi és személyazonosító adatait át kell adni. A születéssel, illetve halálozással kapcsolatos események anyakönyvezése céljából teljesítendő bejelentési kötelezettsége során a betegellátó megismerheti és továbbíthatja élveszületés esetén a gyermek szülei, halálozás esetén az életben lévő házastárs, bejegyzett élettárs személyi azonosító adatait. A Központi Statisztikai Hivatal a személyazonosító adatokat azok statisztikai célú feldolgozását és a (3a) bekezdés szerinti adatátadást követően haladéktalanul törli, ezt követően az egészségügyi adatokat csak személyazonosításra alkalmatlan módon kezelheti.
+(3) Élveszületés és halálozás esetén a születés, illetve halálozás helye szerint illetékes anyakönyvvezető útján a Központi Statisztikai Hivatal részére a hivatalos statisztikáról szóló törvény szerint, hivatalos statisztikai célból a népmozgalmi események adatait át kell adni. A Központi Statisztikai Hivatal a személyazonosító adatokat a hivatalos statisztikáról szóló törvényben foglaltak szerint törli, ezt követően a népmozgalommal összefüggő egészségügyi adatokat csak személyazonosításra alkalmatlan módon kezeli.
 
 (3a) A Központi Statisztikai Hivatal a (3) bekezdés szerinti adatok közül az elhalálozással kapcsolatos egészségügyi és személyazonosító adatokat – a 4. § (1) bekezdés c) és d) pontja szerinti célból – átadja az egészségügyi államigazgatási szervnek. Az egészségügyi államigazgatási szerv a részére átadott, személyazonosításra alkalmas adatokat azok statisztikai célú feldolgozását, illetve anonimizálását követően haladéktalanul törli.
+
+(3b) A születéssel, illetve halálozással kapcsolatos események anyakönyvezése céljából teljesítendő bejelentési kötelezettsége során az egészségügyi szolgáltató, a halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény megismerheti és törvényben meghatározott szerv részére továbbíthatja élveszületés esetén a gyermek szülei, halálozás esetén az életben lévő házastárs, bejegyzett élettárs személyazonosító adatait.
 
 (4) A nemzetközi adatszolgáltatási kötelezettség teljesítéséhez, az egészségpolitikai döntésekhez, az egészségügyi ellátás tervezéséhez, szervezéséhez, a népegészségügyi mutatók monitorozásához, illetve a minőségi és biztonsági követelmények érvényesülésének ellenőrzéséhez szükséges, az egészségügyi ellátóhálózat által, továbbá az egészségbiztosítási szerv által finanszírozási célból gyűjtött és kezelt, személyazonosításra alkalmatlan ágazati, szakmai adatok körét, az adatkezelés és az adattovábbítás rendjét a miniszter határozza meg.
 
@@ -535,6 +537,8 @@ az (1) bekezdés szerinti megkeresést vagy adatkérést rövid úton is előter
 - b) a gyermek egészségügyi ellátása során bántalmazására, elhanyagolására utaló körülményekről szerez tudomást.
 
 (4) Az (1) és (3) bekezdés szerinti adattovábbításhoz az érintett, illetve az adattal kapcsolatosan egyébként rendelkezésre jogosult beleegyezése nem szükséges.
+
+24/A. § A közúti járművezetők egészségi alkalmassági adatairól a vizsgálatot végző szerv az EESZT útján haladéktalanul értesíti a közúti közlekedési nyilvántartó szervet.
 
 25. § Egészségügyi és személyazonosító adatot közigazgatási hatósági eljárás, illetve az érintettnek intézményi elhelyezése, gondozása céljából akkor lehet továbbítani, ha arra az érintett jogai érvényesítéséhez vagy kötelezettségei teljesítéséhez van szükség.
 
@@ -674,6 +678,8 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 (7) A miniszter rendeletben határozza meg a (6) bekezdés szerinti követelmények teljesítéséhez szükséges feltételeket.
 
 (8) Az EESZT működtetője ellenőrzi az (1) bekezdés szerinti kötelezettség teljesítését, valamint azt, hogy az EESZT-hez csatlakozásra kötelezett egészségügyi szolgáltató az EESZT útján való adatszolgáltatási kötelezettségének eleget tesz-e.
+
+(9) Törvényben meghatározott esetben az EESZT útján, a 4. § szerinti célból az egészségügyi ellátó hálózaton kívüli, az EESZT-hez nem csatlakozott szerv részére is továbbítható adat.
 
 35/C. § (1) Az EESZT-t a 35/B. § (3) bekezdése szerint igénybe vevő természetes személy (a továbbiakban: EESZT felhasználó) azonosítását az EESZT használatakor a működtető végzi el. A csatlakozott adatkezelők, valamint az EESZT felhasználók által az EESZT útján hozzáférhető adatok és szolgáltatások körét az érintett adatok kezelésére vonatkozó jogszabályi rendelkezések alapján a működtető korlátozhatja.
 
@@ -851,6 +857,16 @@ hívja fel az érintett csatlakozott adatkezelőt.
 - c) az elektronikus szolgáltatásrendelés felhasználására vonatkozó adatokat.
 
 (6) Az (5) bekezdés szerinti nyilvántartás adatait a működtető az (1) bekezdés szerinti elektronikus szolgáltatásrendelés visszavonásától, felhasználásától vagy felhasználási idejének lejártától számított 5 év, a (4) bekezdés szerinti foglalások időpontjától számított 5 év elteltével törli.
+
+### Az egészségügyi ellátó hálózaton kívüli, EESZT-hez nem csatlakozott szerv részére történő adattovábbítás
+
+35/P. § (1) A 4. § (2) bekezdés j) pontja szerinti célból, törvényben vagy kormányrendeletben kijelölt, egészségügyi ellátó hálózaton kívüli, EESZT-hez nem csatlakozott szerv részére az EESZT-n keresztül továbbítja
+
+- a) a közúti járművezetők és járművezető-jelöltek egészségi alkalmassági vizsgálatát végző egészségügyi szolgáltató a vizsgálat eredményét,
+- b) a halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény az egészségügyi törvény szerinti halottvizsgálati bizonyítványt elektronikus dokumentumként,
+- c) az egészségügyi szolgáltató az anyakönyvi eljárásról szóló törvény, a hivatalos statisztikáról szóló törvény, valamint a családok támogatásáról szóló törvény alapján kiadott kormányendelet szerinti adatokat az ott meghatározottak szerint.
+
+(2) Az (1) bekezdésben meghatározott adatokat az egészségügyi szolgáltató, az orvos, valamint az intézmény, azok átadásának az adatot fogadó szerv általi visszaigazolását követően haladéktalanul köteles törölni, kivéve ha az adat kezelésére e törvény feljogosítja.
 
 ### IV. Fejezet — Vegyes és záró rendelkezések
 
