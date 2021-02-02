@@ -41,55 +41,13 @@ lép.
 
 13. §
 
-14. § (1) Az Rtv. 91/A. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A rendőrségi adatkezelő szerv az e törvényben meghatározott bűnüldözési feladatok ellátása céljából bűnüldözési adatállományban kezeli az alábbi adatokat:)
-
-„a) a felderítetlenül maradt bűncselekmény kriminalisztikai szempontból fontos jellemzőit az adatok bűnüldözési adatállományba történt bekerülésétől számított huszonöt évig, életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény esetén harminc évig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;”
-
-(2) Az Rtv. 91/A. § (1) bekezdés c)–g) pontja helyébe a következő rendelkezések lépnek:
-
-(A rendőrségi adatkezelő szerv az e törvényben meghatározott bűnüldözési feladatok ellátása céljából bűnüldözési adatállományban kezeli az alábbi adatokat:)
-
-„c) a szándékos bűncselekmény megalapozott gyanúja miatt kihallgatott személy adatait, személyleírását, fényképét, különös ismertetőjegyeit, hangmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait az adatok bűnüldözési adatállományba történt bekerülésétől számított huszonöt évig, életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény esetén harminc évig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
-
-d) a rendőrségen fogvatartott, a Be. szerinti személyi szabadságot érintő bírói engedélyes kényszerintézkedés hatálya alatt álló személyek adatait az adatok bűnüldözési adatállományba történt bekerülésétől számított huszonöt évig, életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény esetén harminc évig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
-
-e) súlyos bűncselekmény esetén, vagy ha a bűncselekmény
-
-ea) élet, testi épség, emberi szabadság vagy vagyon elleni erőszakos bűntett, illetve az embercsempészés három évig terjedő szabadságvesztéssel büntetendő alakzata,
-
-eb) nemi élet szabadsága és nemi erkölcs elleni bűncselekmény három évig terjedő szabadságvesztéssel büntetendő alakzata,
-
-ec) gyermekkorú személy sérelmére elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűntett,
-
-ed) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
-
-ee) kábítószer-kereskedelem, kábítószer birtoklása, kóros szenvedélykeltés, kábítószer készítésének elősegítése, kábítószer-prekurzorral visszaélés, új pszichoaktív anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, atomenergia alkalmazásával visszaélés,
-
-ef) pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, információs rendszer felhasználásával elkövetett csalás, a korrupciós bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata,
-
-a bűncselekmény elkövetésével gyanúsított személyek és kapcsolataik adatait, kriminalisztikai szempontból fontos jellemzőit az adatok bűnüldözési adatállományba történt bekerülésétől számított huszonöt évig, életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény esetén harminc évig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
-
-f) a nemzetközi kötelezettségvállalás alapján mindazon személyek, cselekményeik, valamint kapcsolataik adatait, akikkel szemben nemzetközi bűnügyi együttműködés keretében intézkedéseket kell foganatosítani, az adatok bűnüldözési adatállományba történt bekerülésétől számított húsz évig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig, ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig;
-
-g) a szervezett bűnözésre utaló cselekményekben érintett, illetve a bűnözői csoportban részt vevő vagy azzal együttműködő személyek, valamint kapcsolataik adatait és kriminalisztikai szempontból fontos jellemzőit az érintett személyre vonatkozó utolsó adatnak a bűnüldözési adatállományba történt bekerülése időpontjától számított negyven évig;”
-
-(3) Az Rtv. 91/A. § (1b) bekezdés b) és c) pontja helyébe a következő rendelkezések lépnek:
-
-(Azon adatok kivételével, amelyeket a büntetőeljárásról szóló törvény alapján rövidebb határidőn belül törölni kell, a rendőrségi adatkezelő szerv az e törvényben meghatározott bűnüldözési feladatok ellátása céljából a leplezett eszközök alkalmazásával érintett személyek adatait és az alkalmazás eredményeként keletkezett adatokat)
-
-„b) ha a büntetőjogi felelősség megállapítására nem került sor, az adatok bűnüldözési adatállományba történt bekerülésétől számított húsz évig;
-
-c) ha a terhelt büntetőjogi felelősségét megállapítják, az adatok bűnüldözési adatállományba történt bekerülésétől számított harminc évig;”
-
-(bűnüldözési adatállományban kezelheti.)
+14. §
 
 15. §
 
 16. §
 
-17. § Hatályát veszti az Rtv. 91/A. § (1) bekezdés h) pontja.
+17. §
 
 #### 5. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
@@ -538,23 +496,11 @@ lép.
 
 189. § (1)
 
-(2) Az egyes eljárások egyszerűsítése és elektronizálása érdekében szükséges törvénymódosításokról szóló 2019. évi CXVI. törvény 22. § (7) bekezdésének a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés a) pontját módosító rendelkezése
+(2)
 
-- a) az „aj)” szövegrészek helyett „al)” szöveggel,
-- b) az „ak)” szövegrészek helyett „am)” szöveggel
+(3)
 
-lép hatályba.
-
-(3) Az egyes eljárások egyszerűsítése és elektronizálása érdekében szükséges törvénymódosításokról szóló 2019. évi CXVI. törvény 22. § (8) bekezdésének a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 14. § (2) bekezdés h) pontjának hd) alpontját megállapító rendelkezése az „ak)” szövegrész helyett „am)” szöveggel lép hatályba.
-
-(4) Az egyes eljárások egyszerűsítése és elektronizálása érdekében szükséges törvénymódosításokról szóló 2019. évi CXVI. törvény 22. § (9) bekezdésének a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 14. § (2) bekezdés i)–k) pontját megállapító rendelkezése
-
-- a) az „i)–k)” szövegrész helyett „k)–m)” szöveggel,
-- b) az „i)” szövegrész helyett „k)” szöveggel,
-- c) a „j)” szövegrész helyett „l)” szöveggel,
-- d) a „k)” szövegrész helyett „m)” szöveggel
-
-lép hatályba.
+(4)
 
 #### 38. Záró rendelkezések
 

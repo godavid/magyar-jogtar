@@ -28,15 +28,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 8. §
 
-9. § A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény
-
-- 1. 53. § (3) bekezdésében a „gyűjteményeit és szolgáltatásait” szövegrész helyébe a „gyűjteményeit, valamint szolgáltatásait” szöveg,
-- 2. 70. § (1) bekezdésében a „kell előirányozni” szövegrész helyébe a „szükséges előirányozni” szöveg,
-- 3. 100. § (1) bekezdés e) pontjában a „jegyzékének vezetését” szövegrész helyébe a „jegyzéke vezetésének szabályait” szöveg,
-- 4. 1. számú melléklet a) pontjában az „a felsőoktatásról szóló törvény 1. számú mellékletében felsorolt állami egyetemek központi könyvtárai.” szövegrész helyébe az „a nemzeti felsőoktatásról szóló törvény 1. mellékletében felsorolt állami egyetemek központi könyvtárai, valamint a Kormány által felsőoktatási intézmény működtetése céljából alapított vagyonkezelő alapítványok fenntartásában lévő egyetemek központi könyvtárai.” szöveg,
-- 5. 3. számú melléklet f) pontjában az „Országos Idegen nyelvű Könyvtár” szövegrész helyébe az „Országos Idegennyelvű Könyvtár” szöveg
-
-lép.
+9. §
 
 #### 6. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
@@ -310,7 +302,7 @@ lép.
 
 98. § (1)
 
-(2) A Vatv. 1. melléklete a 7. melléklet szerint módosul.
+(2)
 
 (3)
 
@@ -389,9 +381,5 @@ alapján sarkalatosnak minősül.
 ### 6. melléklet a 2020. évi CXLVIII. törvényhez
 
 ### 7. melléklet a 2020. évi CXLVIII. törvényhez
-
-A Vatv. 1. melléklete a következő 14. ponttal egészül ki:
-
-„14. Magyar Agrár- és Élettudományi Egyetemért Alapítvány”
 
 ### 8. melléklet a 2020. évi CXLVIII. törvényhez
