@@ -93,7 +93,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 - a) magánútlevél érvényességi ideje egy év,
 - b) második magánútlevél és hivatalos útlevél érvényességi ideje legfeljebb egy év.
 
-(6) Az ideiglenes magánútlevél adatoldala az (1) bekezdésben meghatározott adatokon kívül tartalmazza az ellenőrző sorszámot, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását. A hazatérés céljából kiállított ideiglenes magánútlevél az (1) bekezdés c) pontjában meghatározott adatot a gépi kiállításhoz szükséges technikai feltételek fennállása esetén tartalmazza.
+(6) Az ideiglenes magánútlevél adatoldala az (1) bekezdésben meghatározott adatokon kívül tartalmazza az ellenőrző sorszámot, a kiállítás okát, az utazás célországát, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását. A hazatérés céljából kiállított ideiglenes magánútlevél az (1) bekezdés c) pontjában meghatározott adatot a gépi kiállításhoz szükséges technikai feltételek fennállása esetén tartalmazza. A hivatalból kiállított ideiglenes magánútlevél az állampolgár aláírása nélkül is érvényes.
 
 (7) A hivatalos útlevél adattartalma kiegészül a használatára jogosult személy diplomáciai rangjának, illetve az útlevél kiállítására alapot szolgáltató tisztségének vagy egyéb jogcímének megjelölésével.
 
@@ -123,16 +123,22 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (4) A (3) bekezdés szerinti időtartamokat az ügyfélnek az okmány kiállítását követő születésnapja hónapjától és napjától kell számítani. Amennyiben az ügyfél február 29-én született és az érvényességi idő lejártának évében ez a nap hiányzik, akkor a második magánútlevél érvényességi ideje február 28-án jár le.
 
-10. § (1) A magyar állampolgár részére külföldön való további tartózkodásához, tovább- és hazautazásához legfeljebb egy évig érvényes ideiglenes magánútlevelet lehet kiállítani, ha az állampolgárnak a külföldre utazáshoz felhasznált útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és az utazásig magánútlevél nem állítható ki.
+10. § (1) A magyar állampolgár részére külföldön való további tartózkodásához, tovább- és hazautazásához ideiglenes magánútlevelet lehet kiállítani, ha az állampolgárnak a külföldre utazásra jogosító útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és az utazásig magánútlevél nem állítható ki vagy egyéb okból nem szerezhető be az utazás megkezdéséig.
 
-(2) Külföldön tartózkodó magyar állampolgár kérelmére hazatérés céljából ideiglenes magánútlevelet kell kiállítani legfeljebb hat hónapos érvényességi időtartammal, ha az állampolgárnak a külföldre utazáshoz felhasznált útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és a hazautazásig magánútlevél nem állítható ki.
+(2) Külföldön tartózkodó magyar állampolgár kérelmére hazatérés céljából ideiglenes magánútlevelet kell kiállítani, ha az állampolgárnak a külföldre utazásra jogosító útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és a hazautazásig magánútlevél nem állítható ki, vagy egyéb okból nem szerezhető be az utazás megkezdéséig.
 
-(3) Az ideiglenes magánútlevelet legfeljebb hat hónapos érvényességi időtartammal hivatalból kell kiadni
+(3) Kérelemre, hazatérés céljából ideiglenes magánútlevelet kell kiállítani a külföldön született és 6. életévét be nem töltött, jogszabály alapján vélelmezett magyar állampolgárnak, ha magyar hatóság által kiállított útlevéllel vagy személyazonosító igazolvánnyal még nem rendelkezett, és a hazautazásáig magánútlevél nem állítható ki.
 
-- a) annak a külföldön tartózkodó magyar állampolgárnak a hazatérése céljából, aki külföldre utazást korlátozó rendelkezés hatálya alatt áll, és nem rendelkezik személyazonosító igazolvánnyal,
-- b) annak a külföldön tartózkodó magyar állampolgárnak, akire nézve a tartózkodási helye szerinti külföldi állam illetékes hatósága az ország területének elhagyását rendelte el, és nem rendelkezik érvényes útlevéllel vagy személyazonosító igazolvánnyal.
+(4) Az ideiglenes magánútlevél legfeljebb egyéves érvényességi időtartammal állítható ki. Az ideiglenes magánútlevél érvényességi idejét a hivatásos konzuli tisztviselő állapítja meg az utazás céljához szükséges időtartam figyelembevételével.
 
-(4) Az ideiglenes magánútlevél Magyarország területére történő egyszeri beutazásra jogosít.
+(5) Az ideiglenes magánútlevelet hivatalból kell kiadni
+
+- a) annak a külföldön tartózkodó magyar állampolgárnak a hazatérése céljából, aki külföldre utazást korlátozó rendelkezés hatálya alatt áll, és nem rendelkezik utazásra jogosító okmánnyal,
+- b) annak a külföldön tartózkodó magyar állampolgárnak, akire nézve a tartózkodási helye szerinti külföldi állam illetékes hatósága az ország területének elhagyását rendelte el, és nem rendelkezik utazásra jogosító okmánnyal.
+
+(6) Az ideiglenes magánútlevél Magyarország vagy a jogosult szokásos tartózkodási helye szerinti ország területére történő egyszeri beutazásra jogosít.
+
+(7) A kiskorú részére Magyarországra való hazatérés céljából kiállítandó ideiglenes magánútlevelet kérelmező szülő nyilatkozatot tehet a szülői felügyeleti jog gyakorlásáról abban az esetben, ha a Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:186. § (1) bekezdés d) pontjának megfelelően a távollevő szülő tartózkodási helye nem ismert, vagy ténylegesen akadályozva van a szülői felügyelet ellátásában, illetve a vele való kapcsolatfelvétel a kérelmet benyújtó szülő részéről nem vezetett eredményre, és a Magyarországra való hazatérés késedelme a kiskorú számára aránytalan érdeksérelemmel járna.
 
 ### A hivatalos útlevél
 
@@ -265,12 +271,9 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (2)
 
-(3) Az útlevélhatóság a kiskorú úti okmányát visszavonja, ha azt
+(3) Az útlevélhatóság a kiskorú úti okmányát visszavonja, ha azt a szülői felügyeleti jog gyakorlására jogosult bármelyik szülő vagy a gyám kéri.
 
-- a) a szülői felügyeleti jog gyakorlására jogosult bármelyik szülő vagy a gyám azért kéri, mert az úti okmány kiadásához való hozzájárulását visszavonta, vagy
-- b) a szülői felügyeleti jog gyakorlására jogosult szülő azért kéri, mert a másik szülő – akinek a szülői felügyeleti joga megszűnt vagy szünetel – a kiskorú úti okmányát a felügyeleti jog szünetelése alatt vagy megszűnését követően nem adta át.
-
-(4) Ha a szülői felügyelet gyakorlásáról a gyámhatóság vagy a bíróság rendelkezett, a szülői felügyelet gyakorlására való jogosultság kizárólag a gyámhatóság vagy a bíróság rendelkezésének bemutatásával igazolható. A hivatkozott rendelkezés tartalmára vonatkozóan az ügyfél nyilatkozatot nem tehet.
+(4) Ha a szülői felügyelet gyakorlásáról a gyámhatóság vagy a bíróság rendelkezett vagy a szülők arról írásban megállapodtak, a szülői felügyeleti jog tartalmára vonatkozóan – a 10. § (7) bekezdésében foglalt kivétellel – az ügyfél nyilatkozatot nem tehet.
 
 20. § (1) Érvénytelen az úti okmány, ha
 
@@ -409,7 +412,7 @@ ha a kérelmező a 32/A. § (1) bekezdés a) pontja alapján a második biometri
 - l) a kérelem egyedi azonosítására szolgáló technikai azonosítóját,
 - m) az eljárás illetékének és igazgatási szolgáltatási pótdíjának az összegét, valamint a teljesítésének tényét,
 - n) az okmány kézbesítésének, illetve átvételének idejét, helyét, az átvevő nevét és az átvételkor bemutatott okmány azonosítóját,
-- o) az ideiglenes magánútlevél esetében az ellenőrző sorszámot, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását.
+- o) az ideiglenes magánútlevél esetében az ellenőrző sorszámot, a kiállítás okát és az utazás célországát.
 
 (2) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -659,6 +662,10 @@ az útlevélnek az arra való jogosultság megszűnését követő bevonásáig 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a külföldre utazás szabályozásáért felelős miniszterrel egyetértésben a NATO menetparancs (az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló, 1951. június 19-én, Londonban kelt Megállapodás (NATO-SOFA Megállapodás) III. Cikk 2/b) pontjában meghatározott okmány) alkalmazásával kapcsolatos részletes szabályokat rendeletben állapítsa meg.
 
 41/A. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 8. § (3) bekezdését és 9. § (4) bekezdését a 2017. január 1-jétől igényelt útlevelekre kell alkalmazni.
+
+41/B. § (1) Az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény hatálybalépését megelőzően rendelkezésre álló konzuli tisztviselő által kezelt ideiglenes magánútlevél biankó okmánykészlet 2021. július 31-ig használható fel.
+
+(2) A biankó okmánykészlet 2021. július 31-ét követően az okmánykibocsátóra vonatkozó iratkezelési szabályoknak megfelelően megsemmisítésre kerül.
 
 42. § (1) E törvény 7. § (2)–(4) bekezdése, 20. § (2) bekezdése, valamint 32/A. §-a a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

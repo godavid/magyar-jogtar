@@ -50,7 +50,7 @@ Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környe
 - j) a területfejlesztésről,
 - k) a vadgazdálkodásról
 - l) a vízgazdálkodásról,
-- m) a hulladékokról,
+- m) a hulladékról, a hulladékgazdálkodásról és a körforgásos gazdaságra történő áttéréssel kapcsolatos kérdésekről,
 - n) a veszélyes anyagokról.
 
 (2) Az élővilág változatossága, élőhelyeinek megőrzése, a tudományos, kulturális vagy esztétikai értékekkel bíró területek, képződmények, létesítmények megőrzése és helyreállítása érdekében — e törvénnyel összhangban — külön törvények rendelkeznek:
@@ -118,7 +118,7 @@ Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környe
 - b) megelőzze a környezetszennyezést;
 - c) kizárja a környezetkárosítást.
 
-(2) A környezethasználatot az elővigyázatosság elvének figyelembevételével, a környezeti elemek kíméletével, takarékos használatával, továbbá a hulladékkeletkezés csökkentésével, a természetes és az előállított anyagok visszaforgatására és újrafelhasználására törekedve kell végezni.
+(2) A környezethasználatot az elővigyázatosság elvének figyelembevételével, a környezeti elemek kíméletével, takarékos használatával, továbbá a hulladékképződés csökkentésével, a természetes és az előállított anyagok visszaforgatására és újrafelhasználására törekedve kell végezni.
 
 (3) A megelőzés érdekében a környezethasználat során a leghatékonyabb megoldást, továbbá a külön jogszabályban meghatározott tevékenységek esetén az elérhető legjobb technikát kell alkalmazni.
 
@@ -285,7 +285,7 @@ vízkészleteket fokozott védelemben kell részesíteni.
 
 ### Hulladékok
 
-30. § (1) A hulladékok környezetre gyakorolt hatásai elleni védelem kiterjed mindazon anyagokra, termékekre — ideértve azok csomagoló- és burkolóanyagait is —, amelyeket tulajdonosa eredeti rendeltetésének megfelelően nem tud, vagy nem kíván felhasználni, illetve, amely azok használata során keletkezik.
+30. § (1) A hulladékok környezetre gyakorolt hatásai elleni, a hulladékról szóló törvény rendelkezései alapján megvalósuló védelem kiterjed mindazon anyagokra, termékekre – ideértve azok csomagoló- és burkolóanyagait is –, amelyeket tulajdonosa eredeti rendeltetésének megfelelően nem tud, vagy nem kíván felhasználni, illetve, amely azok használata során keletkezik.
 
 (2) A környezethasználó köteles a hulladék kezeléséről (ártalmatlanításáról, hasznosításáról) gondoskodni.
 
@@ -602,7 +602,7 @@ alkothat rendeletet.
 - e) az ivóvízellátással,
 - f) a települési csapadékvíz-gazdálkodással,
 - g) a kommunális szennyvízkezeléssel,
-- h) a településihulladék-gazdálkodással,
+- h) a településihulladék-gazdálkodással, valamint az elhagyott hulladék felszámolásával,
 - i) az energiagazdálkodással,
 - j) a közlekedés- és szállításszervezéssel,
 - k) a feltételezhető rendkívüli környezetveszélyeztetés elhárításával és a környezetkárosodás csökkentésével
@@ -634,7 +634,7 @@ kapcsolatos feladatokat és előírásokat.
 48/F. § (1) A területi környezetvédelmi program kidolgozója a program tervezetét az illetékes
 
 - a) környezetvédelmi hatóságnak,
-- b)
+- b) hulladékgazdálkodási hatóságnak,
 - c) ingatlanügyi hatóságnak és
 - d) egészségügyi államigazgatási szervnek
 - e) a vízvédelmi hatósági feladatokat ellátó szervnek (a továbbiakban: vízvédelmi hatóság), és
@@ -642,7 +642,7 @@ kapcsolatos feladatokat és előírásokat.
 
 véleményezésre megküldi.
 
-(2) A környezetvédelmi hatóság a véleményezésbe bevonja az illetékes környezetvédelmi igazgatási szervet, a védett természeti területek természetvédelmi kezeléséért felelős szervet, valamint a természetvédelmi hatósági feladatokat ellátó szervet, amelyek 30 napon belül tájékoztatják véleményükről a hatóságot.
+(2) A környezetvédelmi hatóság a véleményezésbe bevonja az illetékes környezetvédelmi igazgatási szervet, a hulladékgazdálkodási hatóságot, a védett természeti területek természetvédelmi kezeléséért felelős szervet, valamint a természetvédelmi hatósági feladatokat ellátó szervet, amelyek 30 napon belül tájékoztatják véleményükről a hatóságot.
 
 (3) A települési önálló vagy közös környezetvédelmi program tervezetét – az (1) bekezdésben meghatározott szerveken túl – az illetékes megyei önkormányzatnak, a megyei környezetvédelmi program tervezetét az illetékes regionális területfejlesztési konzultációs fórumnak is meg kell küldeni véleményezésre.
 
@@ -925,7 +925,7 @@ tarthatók nyilván.
 
 (6) Az adatkezelést végző szervek vezetői a természetes személyek személyes, valamint a jogi személyek üzleti titkot képező adatai védelméért való felelősségük körében kötelesek olyan technikai és szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését. Az érintett személy vagy képviselője a rá vonatkozó nyilvántartásba betekinthet, az iratokról másolatot, illetőleg a nyilvántartott adatairól felvilágosítást kérhet.
 
-64/B. § (1) A termékdíjköteles termékekből keletkező hulladékok gyűjtését és hasznosítását közvetítő és szervező állami koordináló szervezet (a továbbiakban: állami koordináló szerv) – az európai uniós hulladékgazdálkodási kötelezettségek teljesítésének elősegítése, a stratégiai tervezés, a hulladékgazdálkodás közhasznú feladatai hatékony ellátásának érdekében –, valamint a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítő (a továbbiakban: minősítő) – a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítéssel kapcsolatos eljárásai során a minősítési osztály megalapozása, az ellenőrzések eredményes lefolytatása céljából – jogosult az Információs Rendszer adataihoz való közvetlen hozzáférésre és azok kezelésére.
+64/B. § (1) A termékdíjköteles termékekből képződő hulladékok gyűjtését és hasznosítását közvetítő és szervező állami koordináló szervezet (a továbbiakban: állami koordináló szerv), továbbá a hulladékgazdálkodási hatóság – az európai uniós hulladékgazdálkodási kötelezettségek teljesítésének elősegítése, a stratégiai tervezés, a hulladékgazdálkodás közhasznú feladatai hatékony ellátásának érdekében –, valamint a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítő (a továbbiakban: minősítő) – a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítéssel kapcsolatos eljárásai során a minősítési osztály megalapozása, az ellenőrzések eredményes lefolytatása céljából – jogosult az Információs Rendszer adataihoz való közvetlen hozzáférésre és azok kezelésére.
 
 (2) Az állami koordináló szerv, valamint a minősítő az Információs Rendszer számára közvetlenül elérhetővé teszi a feladatellátásával összefüggésben keletkezett, a hulladék útjának nyomon követésével, a hulladék kezelésével, valamint a hulladékkezelési közszolgáltatással kapcsolatos adatokat.
 
@@ -1395,7 +1395,7 @@ A KÖRNYEZETVÉDELEMBEN
 
 (5) A gazdasági társaság és egyéni cég azon tagjai (részvényesei), valamint vezető tisztségviselői, akik olyan határozatot (intézkedést) hoztak, amelyről tudták, vagy az elvárható gondosság mellett tudhatták volna, hogy annak végrehajtásával a társaság környezetkárosodást okoz, a társaság megszűnése esetén korlátlanul és egyetemlegesen felelnek a társaságot terhelő, a társaság által nem teljesített helyreállítási és kártérítési kötelezettségekért. Mentesül a felelősség alól a gazdasági társaság és egyéni cég azon tagja (részvényese), illetve vezető tisztségviselője, aki a határozat (intézkedés) meghozatalában nem vett részt, a határozat ellen szavazott, illetve az intézkedéssel szemben tiltakozott.
 
-(6) A gazdasági társaság és egyéni cég azon vezető tisztségviselője, akit az (5) bekezdés szerinti kötelezettség terhel, kötelezettsége teljesítéséig nem lehet olyan gazdasági társaság és egyéni cég vezető tisztségviselője, mely a tevékenységét környezetvédelmi engedély, egységes környezethasználati engedély, illetve a hulladékgazdálkodásról szóló külön jogszabály szerinti engedély birtokában végezheti.
+(6) A gazdasági társaság és egyéni cég azon vezető tisztségviselője, akit az (5) bekezdés szerinti kötelezettség terhel, kötelezettsége teljesítéséig nem lehet olyan gazdasági társaság és egyéni cég vezető tisztségviselője, mely a tevékenységét környezetvédelmi engedély, egységes környezethasználati engedély, vagy hulladékról szóló jogszabály szerinti engedély birtokában végezheti.
 
 ### Közigazgatási jogi felelősség
 

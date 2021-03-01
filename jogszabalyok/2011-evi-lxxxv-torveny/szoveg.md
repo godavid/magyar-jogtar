@@ -220,9 +220,9 @@ használja fel,
 
 (12) A (10) bekezdés szerinti megrendelő kötelezettnek minősül, ha nem a nyilatkozat tartalma szerint jár el, és a termékdíjköteles termék termékdíját, valamint a termékdíj-kötelezettség keletkezésének 5. § (1) bekezdésben meghatározott időpontjától számított késedelmi pótlékot fizeti meg, egyebekben a kötelezett ellenőrzésére vonatkozó szabályokat kell rá alkalmazni.
 
-3/A. § (1) Az újrahasználható csomagolószerek első belföldi bérbeadójának az újrahasználható csomagolószer termékdíját az első saját célú felhasználás során – ide nem értve a hulladékká válást – nem kell megfizetni, ha a csomagolószer belföldi tulajdonosa vagy külföldi tulajdonos esetén első belföldi bérbeadója, az e törvény végrehajtására kiadott kormányrendeletben meghatározott, a környezetvédelmi hatóság által kiadott engedéllyel rendelkezik, amely tanúsítja, hogy olyan bérleti rendszert üzemeltet, amelyből a csomagolószerek belföldi felhasználása nyomon követhető.
+3/A. § (1) Az újrahasználható csomagolószerek első belföldi bérbeadójának az újrahasználható csomagolószer termékdíját az első saját célú felhasználás során – ide nem értve a hulladékká válást – nem kell megfizetni, ha a csomagolószer belföldi tulajdonosa vagy külföldi tulajdonos esetén első belföldi bérbeadója, az e törvény végrehajtására kiadott kormányrendeletben meghatározott, a hulladékgazdálkodási hatóság által kiadott engedéllyel rendelkezik, amely tanúsítja, hogy olyan bérleti rendszert üzemeltet, amelyből a csomagolószerek belföldi felhasználása nyomon követhető.
 
-(2) Az e törvényben és a végrehajtásáról kiadott kormányrendeletben meghatározott bérleti rendszer szabályainak megtartását a környezetvédelmi hatóság és az állami adó- és vámhatóság a közreműködőknél ellenőrizheti.
+(2) Az e törvényben és a végrehajtásáról kiadott kormányrendeletben meghatározott bérleti rendszer szabályainak megtartását a hulladékgazdálkodási hatóság és az állami adó- és vámhatóság a közreműködőknél ellenőrizheti.
 
 3/B. § A gépjármű termékdíjköteles alkotórészei termékdíjának vagy a termékdíjátalány összegének
 
@@ -254,7 +254,7 @@ nem minősül forgalomba hozatalnak.
 
 (2a) A 4. § (2) bekezdés d) pontjában meghatározott feltételek teljesítésének hiányában a 366. napon saját célú felhasználással termékdíj kötelezettség keletkezik.
 
-(3) Az állami adó- és vámhatóság és a környezetvédelmi hatóság
+(3) Az állami adó- és vámhatóság és a hulladékgazdálkodási hatóság
 
 - a) a (2) bekezdés d) pontja szerinti felhasználónál a termékdíjköteles termék külföldre történő kiszállítására,
 - b) a (2) bekezdés e) pontja szerinti felhasználónál és a 3. § (6) bekezdés b) pontja szerinti nyilatkozónál a betétdíjas újrahasználható csomagolószer felhasználására
@@ -307,7 +307,7 @@ keletkezik.
 
 8. § (1) A környezetvédelmi termékdíjjal, valamint – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott hatósági eljárás kivételével – a termékdíjköteles termékből képződött hulladékokkal kapcsolatos eljárás, mint adó-, illetve vámigazgatási eljárás során – az e törvényben meghatározott eltérésekkel – az adóigazgatási rendtartásról szóló törvényt (a továbbiakban: Air.) és az adózás rendjéről szóló törvényt (a továbbiakban: Art.) kell alkalmazni.
 
-(2) Ha jogszabály másként nem rendelkezik, az állami adóhatóság látja el a környezetvédelmi termékdíjjal kapcsolatos adóztatási feladatokat. A vámhatóság látja el – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági eljárás kivételével – a termékdíjköteles termékből képződött hulladékokkal kapcsolatos hatósági feladatokat.
+(2) Ha jogszabály másként nem rendelkezik, az állami adóhatóság látja el a környezetvédelmi termékdíjjal kapcsolatos adóztatási feladatokat. A vámhatóság látja el – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a hulladékgazdálkodási vagy más hatóságok hatáskörébe tartozó hatósági eljárás kivételével – a termékdíjköteles termékből képződött hulladékokkal kapcsolatos hatósági feladatokat.
 
 #### 7. Képviselet
 
@@ -653,7 +653,7 @@ elsőként belföldi forgalomba hozott, saját célra felhasznált vagy készlet
 
 #### 18. Adatkezelés
 
-24. § (1) Az állami hulladékgazdálkodást közvetítő szervezet, az állami adó- és vámhatóság, valamint a környezetvédelmi hatóság a termékdíj-kötelezettséggel, továbbá az állami hulladékgazdálkodást közvetítő szervezet tevékenységével összefüggő és a nyilvántartásában szereplő adatokat, a kiadott engedélyek, határozatok adatait a hulladékhasznosítás és termékdíj-fizetés ellenőrzése céljából – e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – a másik fél rendelkezésére bocsátja.
+24. § (1) Az állami hulladékgazdálkodást közvetítő szervezet, az állami adó- és vámhatóság, valamint a hulladékgazdálkodási hatóság a termékdíj-kötelezettséggel, továbbá az állami hulladékgazdálkodást közvetítő szervezet tevékenységével összefüggő és a nyilvántartásában szereplő adatokat, a kiadott engedélyek, határozatok adatait a hulladékhasznosítás és termékdíj-fizetés ellenőrzése céljából – e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – a másik fél rendelkezésére bocsátja.
 
 (2) Az állami adó- és vámhatóság a környezetvédelmi termékdíj-bejelentésben, bevallásban a kötelezett által feltüntetett, a termékdíj-kötelezettséggel kapcsolatos feladat- és hatáskörei kapcsán részére érkező adattartalmat kezeli, és az – adótitkot és személyes adatot nem képező, összesített – adott negyedévre vonatkozó adattartalmat a termékdíj-kötelezettségek teljesítése és a hulladékgazdálkodás ellenőrzése és tervezése céljából legalább negyedévente, de legkésőbb a negyedévet követő második hónap 20. napjáig átad az állami hulladékgazdálkodást közvetítő szervezet részére.
 
@@ -723,7 +723,7 @@ esetében.
 - b) ha az fizikai módon összetevőire szét nem választható és legalább kilencven százalékban egynemű anyagból áll, a csomagolószer teljes tömegére a fő összetevőre vonatkozó termékdíjtételt,
 - c) ha az fizikai módon összetevőire szét nem választható és nincs olyan összetevő, amely a csomagolószer tömegének kilencven százalékát eléri, a társított anyagokra vonatkozó termékdíjtételt kell alkalmazni.
 
-(2) A környezetvédelmi hatóság a kötelezett, vagy a csomagolószer felhasználójának kérelmére akkor veszi fel a csomagolószert az újrahasználható csomagolószerek nyilvántartásába, ha az megfelel az újrahasználható csomagolószerre vonatkozóan a 2. § 31. pontban meghatározott feltételeknek.
+(2) A hulladékgazdálkodási hatóság a kötelezett, vagy a csomagolószer felhasználójának kérelmére akkor veszi fel a csomagolószert az újrahasználható csomagolószerek nyilvántartásába, ha az megfelel az újrahasználható csomagolószerre vonatkozóan a 2. § 31. pontban meghatározott feltételeknek.
 
 (3)
 
@@ -756,7 +756,7 @@ esetében.
 
 (3)–(6)
 
-(7) A vámhatóság az Air. jogkövetési vizsgálatra vonatkozó ellenőrzés szabályai alapján ellenőrzi – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági eljárás kivételével –, a környezetvédelmi termékdíjköteles termékből keletkezett hulladék előkezelését, feldolgozását, ártalmatlanítását, hasznosítását.
+(7) A vámhatóság az Air. jogkövetési vizsgálatra vonatkozó ellenőrzés szabályai alapján ellenőrzi – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a hulladékgazdálkodási vagy más hatóságok hatáskörébe tartozó hatósági eljárás kivételével –, a környezetvédelmi termékdíjköteles termékből keletkezett hulladék előkezelését, feldolgozását, ártalmatlanítását, hasznosítását.
 
 (8) A Ht.-ban, valamint a Ht. felhatalmazása alapján kiadott jogszabályokban meghatározott nyilvántartásokat, üzemnaplót és bizonylatokat a vámhatóság az ellenőrzései során felhasználja.
 
@@ -830,7 +830,7 @@ esetében.
 
 (28) A (26) és (27) bekezdésben meghatározott jogkövetkezmények tekintetében fizetési könnyítés, mérséklés vagy elengedés nem alkalmazható.
 
-29/B. § (1) A vámhatóság az egyéni hulladékkezelést teljesítő kötelezett és az ennek érdekében vele szerződött hulladékkezelők által teljesített ügyletek – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a környezetvédelmi vagy más hatóságok hatáskörébe tartozó hatósági eljárás kivételével – tényleges megvalósulását ellenőrzi.
+29/B. § (1) A vámhatóság az egyéni hulladékkezelést teljesítő kötelezett és az ennek érdekében vele szerződött hulladékkezelők által teljesített ügyletek – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott, a hulladékgazdálkodási vagy más hatóságok hatáskörébe tartozó hatósági eljárás kivételével – tényleges megvalósulását ellenőrzi.
 
 (2) Ha a vámhatóság kérésére elvégzett mintavétel érdekében a hulladék válogatása, osztályozása válik szükségessé, úgy annak költsége, amennyiben az ellenőrzés jogsértést tár fel, az ellenőrzött személyt vagy szervezetet, egyébként a vámhatóságot terheli.
 

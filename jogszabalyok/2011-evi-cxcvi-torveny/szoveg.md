@@ -160,6 +160,8 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 
 (8) Az olyan – pályázat alapján megkötött – szerződés, amelynek nemzeti vagyon a tárgya, a pályázati kiírástól, illetve a nyertes pályázattól eltérő tartalommal nem módosítható, kivéve a szerződés időtartama jogszabályban meghatározott meghosszabbításának esetét.
 
+(9) Nemzeti vagyonba tartozó ingatlanok esetében a hulladékról szóló törvény szerinti elhagyott hulladék felszámolásának kötelezettsége az ingatlan tulajdonosát terheli azzal, hogy az elhagyott hulladék elszállításáról a 11. §-ban meghatározott személyeknek kell gondoskodnia.
+
 ### III. Fejezet — A NEMZETI VAGYONNAL VALÓ FELELŐS GAZDÁLKODÁS
 
 #### 4. A vagyongazdálkodás alapelvei

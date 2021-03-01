@@ -422,7 +422,7 @@ gyakorolja.
 - h) az áldozatsegítés és a kárenyhítés feladatait ellátó szervezetek,
 - i) a menekülteket befogadó állomás, a menekültek átmeneti szállása,
 - j) az egyesületek, az alapítványok és az egyházi jogi személyek,
-- k) a munkaügyi hatóság,
+- k) a foglalkoztatás-felügyeleti hatóság,
 - l) a javítóintézet,
 - m) a gyermekjogi képviselő,
 - n) a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal,
@@ -1820,7 +1820,7 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 
 62/A. § A gyermekvédelmi szakszolgáltatás a titkos örökbefogadás előkészítése érdekében
 
-- a) – a megyei, fővárosi gyermekvédelmi szakértői bizottság 82. § (5) bekezdése szerinti véleménye figyelembevételével – kiválasztja a gyermek számára a legmegfelelőbb, érvényes alkalmassági határozattal rendelkező örökbefogadó szülőt,
+- a) – a megyei, fővárosi gyermekvédelmi szakértői bizottság 82. § (5) bekezdése szerinti véleménye figyelembevételével – kiválasztja a gyermek számára a legmegfelelőbb, érvényes alkalmassági határozattal rendelkező örökbe fogadó házaspárt, törvényben meghatározott esetben egyedül örökbe fogadó szülőt (a továbbiakban együtt: örökbe fogadó szülő),
 - b) felkészíti a gyermeket, a gyermek gondozási helyét és az örökbe fogadni szándékozó személyt az örökbefogadásra,
 - c) segíti a szülő-gyermek kapcsolat kialakulását, ennek érdekében javaslatot tesz a gyermek örökbefogadó szülőhöz történő kötelező gondozásba történő kihelyezésére és figyelemmel kíséri azt,
 - d) javaslatot tesz az örökbefogadás engedélyezésére.
@@ -2430,7 +2430,7 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 - d) az örökbe fogadandó gyermek gyámjával,
 - e) az örökbefogadásra való alkalmasságot megállapító érvényes és hatályos gyámhatósági határozattal rendelkező örökbe fogadni szándékozó
   - ea) házaspárral együttesen vagy
-  - eb) egyedülálló személlyel [(az a)–e) pontban foglaltak a továbbiakban együtt: a szolgáltatást igénybe vevő].
+  - eb) egyedüli személlyel [(az a)–e) pontban foglaltak a továbbiakban együtt: a szolgáltatást igénybe vevő].
 
 (1a) A közhasznú szervezet – a (3) bekezdésben foglalt kivétellel – azzal a vér szerinti szülővel és örökbe fogadni szándékozó személlyel, akik már ismerik egymást és együtt kérik a nyílt örökbefogadást elősegítő szolgáltatást
 
@@ -3348,7 +3348,7 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 
 (5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda letartóztatásba helyezett fiatalkorú terhelt nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
 
-(6)
+(6) A családpolitikáért felelős miniszter különös méltánylást érdemlő esetben hozzájárulhat az egyedül örökbe fogadni szándékozó személy örökbefogadásra való alkalmasságának gyámhatósági megállapításához. A miniszteri hozzájárulás megadásánál különösen figyelemmel kell lenni Magyarország Alaptörvénye XVI. cikk (1) bekezdésében foglaltakra.
 
 ### A hivatásos gondnok
 
@@ -3873,18 +3873,19 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
 
 adatainak a kezelésére.
 
-(3) A személyes gondoskodást nyújtó (1) bekezdésben meghatározott szervek és személyek a gyermek nevelkedésének megtervezését a (2) bekezdésben meghatározott adattartalmú – jogszabályban meghatározott – környezettanulmány, elhelyezési javaslat, egyéni elhelyezési terv, egyéni gondozási-nevelési terv alapján végzik. A (2) bekezdésben meghatározott adatkörök rögzítése jogszabályban meghatározottak szerint
+(3) A személyes gondoskodást nyújtó (1) bekezdésben meghatározott szervek és személyek a gyermek nevelkedésének megtervezését a (2) bekezdésben meghatározott adattartalmú – jogszabályban meghatározott – környezettanulmány, cselekvési és intézkedési terv, családgondozási terv, elhelyezési javaslat, egyéni elhelyezési terv, egyéni gondozási-nevelési terv alapján végzik. A (2) bekezdésben meghatározott adatkörök rögzítése jogszabályban meghatározottak szerint
 
-- a) a gyermekjóléti alapellátások tekintetében a gyermekvédelmi nyilvántartásban,
-- b) a gyermekvédelmi szakellátások tekintetében a Gyermekeink védelmében elnevezésű informatikai rendszerben,
-- c) a javítóintézeti ellátás tekintetében a javítóintézeti informatikai rendszerben
+- a) a gyermekjóléti szolgáltatás, a gyermekek átmeneti gondozása és a gyermekvédelmi szakellátások tekintetében a Gyermekeink védelmében elnevezésű informatikai rendszerben,
+- b) a javítóintézeti ellátás tekintetében a javítóintézeti informatikai rendszerben
 
 történik.
 
 (3a) A Gyermekeink védelmében elnevezésű informatikai rendszerben
 
 - a) a (2) bekezdés a)–c) pontjai szerinti adatok rögzítése a törzsadat alrendszerben,
-- b) a gyermek nevelkedésének megtervezése a környezettanulmány, elhelyezési javaslat, egyéni elhelyezési terv és egyéni gondozási-nevelési terv alapján, valamint a gondozási-nevelési tevékenység megvalósításának értékelése a tervező és értékelő alrendszerben,
+- b) a tervező és értékelő alrendszerben
+  - ba) a gyermekjóléti alapellátást nyújtó részéről a gyermek veszélyeztetettségének feltárása, a veszélyeztetettség megelőzéséhez és megszüntetéséhez szükséges intézkedésre történő javaslat megtétele; a gyermek nevelkedésének megtervezése érdekében a környezettanulmány, cselekvési és intézkedési terv, védelembe vétel esetén a családi, egyéni gondozási terv elkészítése, az egészségügyi lap feltöltése; nevelésbe vétel esetén a családi kapcsolatok, családgondozás tervezése és a helyzetértékelés; a családbafogadás és utógondozás esetén a gondozási terv elkészítése és a helyzetértékelés, valamint az átmeneti gondozás esetén az egyéni gondozási-nevelési terv, a családgondozási terv elkészítése és a helyzetértékelés;
+  - bb) a gyermekvédelmi szakellátás esetén az elhelyezési javaslat, egyéni elhelyezési terv és egyéni gondozási-nevelési terv elkészítése, valamint a gondozási-nevelési tevékenység megvalósításának értékelése
 - c) a megyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottsági tevékenység adminisztrációja, a szakmai vélemény elkészítése a bizottsági alrendszerben,
 - d) az örökbefogadás előkészítésének és utánkövetésének megvalósítását szolgáló adminisztráció az örökbefogadási alrendszerben
 
@@ -4094,13 +4095,46 @@ vonatkozó adatokat kezelhet.
 
 (7) A polgári perben érintett kiskorú tartózkodási helyére vonatkozóan a szülő tájékoztatását a bíróság és a gyámhatóság megtagadhatja a korlátozottan cselekvőképes gyermek kérelmére, vagy a kiskorú törvényes képviselője kérelmére, ha a gyermek nincs a szülő gondozásában, a szülő nem jogosult vele kapcsolatot tartani vagy csak felügyelt kapcsolattartásra jogosult és a gyermek tartózkodási helyének szülő általi megismerése az érdekét veszélyeztetné.
 
-136/A. § (1) Gyermekjóléti alapellátás igénybevétele esetén – feltéve, hogy szülői felügyeleti jogát a bíróság nem szüntette meg – a gyermek szülője, valamint a gyermek törvényes képviselője, a korlátozottan cselekvőképes gyermek és a nagykorúvá vált gyermek a szolgáltató, intézmény vezetőjénél kérelmezheti, hogy betekinthessen a gyermekvédelmi nyilvántartásnak a gyermek, illetve személye vonatkozásában kitöltött adatlapjaiba, valamint – a (2) bekezdésben foglalt kivétellel – a gyermekjóléti szolgáltatónál, intézménynél keletkezett, illetve részére megküldött, a gyermekkel, illetve személyével kapcsolatos iratba. Az iratokról kivonat vagy másolat kérhető.
+136/A. § (1) Díjmentesen jogosult betekintést kérni a szolgáltató, intézmény vezetőjénél
 
-(1a) Gyermekvédelmi szakellátás igénybevétele esetén a gyermek törvényes képviselője, a korlátozottan cselekvőképes gyermek és a nagykorúvá vált gyermek a szolgáltató, intézmény vezetőjénél kérelmezheti, hogy a Gyermekeink védelmében elnevezésű informatikai rendszerben a gyermekre, illetve személyére vonatkozóan a szolgáltató, intézmény által kitöltött adatlapot megismerhesse, az adatlapot nyomtatott formában rendelkezésére bocsássák.
+- a) gyermekek napközbeni ellátása igénybevétele esetén
+  - aa) – feltéve, hogy szülői felügyeleti jogát a bíróság nem szüntette meg – a gyermek szülője,
+  - ab) a gyermek törvényes képviselője és
+  - ac) a korlátozottan cselekvőképes gyermek,
+- b) gyermekek esélynövelő szolgáltatásai igénybevétele esetén
+  - ba) – feltéve, hogy szülői felügyeleti jogát a bíróság nem szüntette meg – a gyermek szülője,
+  - bb) a gyermek törvényes képviselője,
+  - bc) a korlátozottan cselekvőképes gyermek és
+  - bd) a nagykorúvá vált gyermek,
 
-(1b) Javítóintézeti ellátás esetén a fiatalkorú és törvényes képviselője jogszabályban meghatározottak szerint tájékoztatást kérhet a javítóintézeti informatikai rendszerben a fiatalkorúról vezetett adatokról.
+a gyermekre, illetve személyére vonatkozó adatokba, valamint – a (6) bekezdésben és a 136. § (5) bekezdésében foglalt korlátozással – a gyermekjóléti szolgáltatónál, intézménynél keletkezett, illetve részére megküldött, a gyermekkel, illetve személyével kapcsolatos iratba. Az iratokról díjmentesen kivonat vagy másolat kérhető.
 
-(2) Az Ákr.-ben meghatározottakon túl az érintett írásbeli hozzájárulása hiányában nem lehet betekinteni a másik szülőre vonatkozó, különleges adatot tartalmazó iratba, kivéve, ha az a gyermek érdekében kezdeményezett, a gyermek védelembe vételére vagy nevelésbe vételére irányuló gyámhatósági eljárás, illetve a gyermek elhelyezésének megváltoztatására irányuló bírósági eljárás megindításához elengedhetetlenül szükséges.
+(2) Díjmentesen jogosult betekintést kérni a szolgáltató, intézmény vezetőjénél – a (3) bekezdésben foglalt korlátozással – a gyermekjóléti szolgáltatás és a gyermekek átmeneti gondozása igénybevétele esetén
+
+- a) – feltéve, hogy szülői felügyeleti jogát a bíróság nem szüntette meg – a gyermek szülője,
+- b) a gyermek törvényes képviselője,
+- c) a korlátozottan cselekvőképes gyermek és
+- d) a nagykorúvá vált gyermek,
+
+a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszerében, valamint tervező és értékelő alrendszerében – a (6) bekezdésben és a 136. § (5) bekezdésében foglalt korlátozással – a gyermekre, illetve személyére vonatkozóan a szolgáltató, intézmény által kitöltött adatlapba, valamint jogosult arra, hogy kérésére az adatlapot nyomtatott formában díjmentesen rendelkezésére bocsássák.
+
+(3) A gyermekjóléti szolgáltatás 40/A. § (2) bekezdés b) pont bd) és be) alpont szerinti tevékenysége esetén a gyermek szülője díjmentesen jogosult betekintést kérni a gyermekjóléti szolgáltató, intézmény vezetőjénél a személyére vonatkozó, a szolgáltató, intézmény által a Gyermekeink védelmében elnevezésű informatikai rendszer tervező és értékelő alrendszerében, valamint a gyermekre vonatkozó, a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszerében a Ptk. 4:175. § (2) bekezdése szerinti, a gyermek sorsát érintő lényeges kérdésre vonatkozó adatba.
+
+(4) Díjmentesen jogosult betekintést kérni a szolgáltató, intézmény vezetőjénél gyermekvédelmi szakellátás igénybevétele esetén
+
+- a) a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszerében – a (6) bekezdésben és a 136. § (5) bekezdésében foglalt korlátozással – a gyermekre, illetve személyére vonatkozóan a szolgáltató, intézmény által kitöltött adatlapba
+  - aa) a gyermek törvényes képviselője,
+  - ab) a korlátozottan cselekvőképes gyermek és
+  - ac) a nagykorúvá vált gyermek,
+- b) a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszerében – a (6) bekezdésben és a 136. § (5) bekezdésében foglalt korlátozással – a Ptk. 4:175. § (2) bekezdése szerinti, a gyermek sorsát érintő lényeges kérdésre vonatkozó adatba a Ptk. 4:175. § (1) bekezdésében meghatározottak szerint a gyermek törvényes képviseleti jogot nem gyakorló szülője.
+
+(5) A (4) bekezdés szerinti jogosultak kérésére az adatlapot nyomtatott formában díjmentesen rendelkezésükre kell bocsátani.
+
+(6) Az Ákr.-ben meghatározottakon túl az érintett írásbeli hozzájárulása hiányában nem lehet betekinteni a másik szülőre vonatkozó, különleges adatot tartalmazó iratba, kivéve, ha az a gyermek érdekében kezdeményezett, a gyermek védelembe vételére vagy nevelésbe vételére irányuló gyámhatósági eljárás, illetve a gyermek elhelyezésének megváltoztatására, a szülői felügyeleti jog rendezésére vagy a kapcsolattartás szabályozására, megváltoztatására irányuló bírósági eljárás megindításához elengedhetetlenül szükséges.
+
+(7) A korlátozottan cselekvőképes gyermek számára a betekintési jogot a szolgáltató, intézmény vezetője – lehetőség szerint a gyermek törvényes képviselője vagy a gyermekjogi képviselő jelenlétében – a gyermek számára szükséges tájékoztatás mellett biztosítja.
+
+(8) Javítóintézeti ellátás esetén a fiatalkorú és törvényes képviselője jogszabályban meghatározottak szerint tájékoztatást kérhet a javítóintézeti informatikai rendszerben a fiatalkorúról vezetett adatokról.
 
 136/B. § A területi gyermekvédelmi szakszolgálat a fiatalok életkezdési támogatásának megállapítása céljából a gyermeknek a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény 9/B. §-ában foglalt adatait az ott meghatározott gyakorisággal átadja a kincstárnak.
 
@@ -5013,6 +5047,8 @@ módosítja.
 - a) a gyermekvédelmi szakellátásba 2020. június 30-át követően történő ideiglenes hatállyal elhelyezés és nevelésbe vétel, valamint az utógondozói ellátás elrendelése,
 - b) a nevelésbe vétel 2020. december 31-ét követő felülvizsgálata, és
 - c) a nevelésbe vett gyermek gondozási helyének, a fiatal felnőtt ellátása helyének 2020. december 31-ét követő megváltoztatása
+- d) a gyermekjóléti szolgáltatást 2021. február 28-át követően igénybe vevő gyermek,
+- e) a gyermekek átmeneti gondozásába 2021. február 28-át követően bekerült gyermek
 
 esetén nyújtott ellátással és szolgáltatással kapcsolatos adatokat.
 
@@ -5022,11 +5058,15 @@ esetén nyújtott ellátással és szolgáltatással kapcsolatos adatokat.
 
 (4) A 2020. július 1-jén javítóintézeti ellátásban részesülő fiatalkorúak adatait 2021. március 31-éig kell a javítóintézeti informatikai rendszerben rögzíteni, ideértve azt az esetet is, ha 2021. március 31-éig a fiatalkorú javítóintézeti ellátása megszűnt.
 
+(5) A gyermekjóléti szolgáltatást és gyermekek átmeneti gondozását 2021. március 1-jét megelőzően igénybe vett gyermekekkel kapcsolatos iratokba való betekintési jog a 2021. február 28-án hatályos 136/A. § szerint gyakorolható.
+
 188/B. § (1) E törvénynek az egyes gyermekvédelmi és szociális tárgyú törvények módosításáról szóló 2020. évi CXLVII. törvénnyel megállapított 28. §-ában foglaltakat azon személyek esetén is alkalmazni kell, akiknek bentlakásos szociális intézményben történő gondozása 2021. január 1-jén fennáll, és az azt megelőző 3 éven belül állapítottak meg számukra otthonteremtési támogatást bentlakásos szociális intézménybe fizetendő egyszeri hozzájárulásra vagy belépési hozzájárulásra.
 
 (2) E törvénynek az egyes gyermekvédelmi és szociális tárgyú törvények módosításáról szóló 2020. évi CXLVII. törvénnyel megállapított 66/D. § (1) bekezdés d) pontjában és 66/H. § (5) bekezdésében foglaltakat a 2021. január 1-jén fennálló nevelőszülői foglalkoztatási jogviszonyban állókra is alkalmazni kell.
 
 (3) E törvénynek az egyes gyermekvédelmi és szociális tárgyú törvények módosításáról szóló 2020. évi CXLVII. törvénnyel megállapított 66/E. § (1) bekezdésében foglaltakat a 2020. december 31-ét követően indult felmondási eljárásokban kell alkalmazni.
+
+188/C. § Az a személy, akinek örökbefogadásra való alkalmasságát az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvény (a továbbiakban: Imódtv.) e törvényt módosító rendelkezéseinek hatálybalépését megelőzően véglegessé vált határozattal megállapították, az alkalmassági határozat hatályának és annak meghosszabbítása hatályának fennállása alatt az Imódtv. e törvényt módosító rendelkezéseinek hatálybalépését megelőző napon hatályos rendelkezések szerint fogadhat gyermeket örökbe.
 
 189. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

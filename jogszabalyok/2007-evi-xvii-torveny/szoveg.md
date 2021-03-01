@@ -487,7 +487,7 @@ külön rendelkezések
 - 12. az ingatlan-nyilvántartásból,
 - 13. a földhasználati nyilvántartásból,
 - 14. az Országos Halászati Adattárból,
-- 15. a munkaügyi és munkavédelmi hatóság adatbázisából,
+- 15. a foglalkoztatás-felügyeleti és munkavédelmi hatóság adatbázisából,
 - 16. az egyenlő bánásmód követelményének érvényesülését ellenőrző közigazgatási szerv által kezelt adatbázisból,
 - 17. az Új Széchenyi Tervhez, illetve a Széchenyi 2020-hoz kapcsolódó információs rendszerekből,
 - 18. az adóhatóságtól az adózókra vonatkozó adóazonosító nyilvántartásból, továbbá az adóhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére (TEAOR' 08), és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból,

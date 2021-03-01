@@ -31,7 +31,7 @@ figyelembevételével kell számítani.
 
 (2) A tárolt biztonsági kőolajkészlet összetételének meghatározásakor tekintettel kell lenni Magyarország energiaellátásának biztonságára, kőolajimport-függőségére, valamint figyelembe kell venni a hazai kőolaj-termelési és -feldolgozási, valamint termékfogyasztási mutatókat.
 
-(3) A biztonsági kőolajkészlet legalább egyharmadát a 2. melléklet 1. pont b)–f) alpontja szerinti kőolajtermékekből kell képezni, kivéve, ha a Szövetség igazgatótanácsa (a továbbiakban: igazgatótanács) különleges kőolajkészlet képzéséről dönt.
+(3) A biztonsági kőolajkészlet legalább egyharmadát a 2. melléklet 1. pontjában foglalt táblázat 3–8. sora szerinti kőolajtermékekből kell képezni, kivéve, ha a Szövetség igazgatótanácsa (a továbbiakban: igazgatótanács) különleges kőolajkészlet képzéséről dönt.
 
 (4) A biztonsági kőolajkészlet mértékének minden év július 1-jétől a következő év június 30-ig meg kell felelnie legalább 90 napi, a 2. § (2) és (3) bekezdése szerint számított átlagos napi nettó behozatalnak.
 
@@ -358,7 +358,7 @@ figyelembevételével kell számítani.
 
 (2) Az (1) bekezdés szerinti havi nyilatkozatban közölt adatok alapján a tag kiszámítja az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt a hónap utolsó munkanapjáig a Szövetség pénzforgalmi számlájára befizeti. A tagi hozzájárulás megfizetésének időpontja az a nap, amikor a Szövetség számláján a befizetést jóváírják.
 
-(3) A tagi hozzájárulási nyilatkozat benyújtásától számított 90 napon belül visszaigényelhető a Szövetségtől a 4. melléklet szerinti kombinált nomenklatúra (a továbbiakban: KN) kóddal azonosított kőolajtermék azon mennyisége után bevallott tagi hozzájárulás, amelyet a tag a 41. §-ban meghatározott célra értékesített vagy használt fel. Az adott KN kódú kőolajtermékre vonatkozóan, a visszaigényelt tagi hozzájárulás alapját képező mennyiség nem haladhatja meg a kőolajterméknek a visszaigénylést megelőző 90 napra benyújtott nyilatkozatokban megadott, tagi hozzájárulás fizetési kötelezettség alá eső, összesített mennyiségét. A Szövetség a visszaigénylést annak beérkezésétől, a felhasználás könyvelésen alapuló igazolásától, és a tagi hozzájárulás megfizetésétől számított 15 napon belül köteles elbírálni, valamint a jóváhagyott visszaigénylés összegét jóváírni vagy visszautalni. A visszautalás teljesítésének feltétele, hogy a tagnak ezáltal nem keletkezhet tartozása a Szövetség felé.
+(3) A tagi hozzájárulási nyilatkozat benyújtásától számított 90 napon belül visszaigényelhető a Szövetségtől a 4. melléklet szerinti Kombinált Nómenklatúra-kóddal (a továbbiakban: KN-kód) azonosított kőolajtermék azon mennyisége után bevallott tagi hozzájárulás, amelyet a tag a 41. §-ban meghatározott célra értékesített vagy használt fel. Az adott KN-kódú kőolajtermékre vonatkozóan, a visszaigényelt tagi hozzájárulás alapját képező mennyiség nem haladhatja meg a kőolajterméknek a visszaigénylést megelőző 90 napra benyújtott nyilatkozatokban megadott, tagi hozzájárulás fizetési kötelezettség alá eső, összesített mennyiségét. A Szövetség a visszaigénylést annak beérkezésétől, a felhasználás könyvelésen alapuló igazolásától, és a tagi hozzájárulás megfizetésétől számított 15 napon belül köteles elbírálni, valamint a jóváhagyott visszaigénylés összegét jóváírni vagy visszautalni. A visszautalás teljesítésének feltétele, hogy a tagnak ezáltal nem keletkezhet tartozása a Szövetség felé.
 
 (4) A tag az esedékessé vált tagi hozzájárulásból a kiviteltől számított 90 napon belül levonhatja az olyan kőolajtermék mennyiség után megfizetett tagi hozzájárulást, amelyet külföldön értékesített.
 
@@ -476,6 +476,8 @@ való megfelelést szolgálja.
 
 (2) E törvény 47. §-a az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK a 2009/73/EK, a 2010/31/EU, a 2012/27/EU és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i 2018/1999/EU európai parlamenti és tanácsi rendelet 48. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(3) E törvény a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. mellékletének módosításáról szóló, 2019. október 9-i (EU) 2019/1776 bizottsági végrehajtási rendelet végrehajtását szolgálja.
+
 54. § (1)–(2)
 
 (3)
@@ -502,18 +504,18 @@ való megfelelést szolgálja.
 
 #### A biztonsági kőolajkészlet képzése
 
-- 1. Biztonsági kőolajkészlet a következő nyersolajból és kőolajtermékekből képezhető:
+- 1. 1. Biztonsági kőolajkészlet a következő nyersolajból és kőolajtermékekből képezhető:
 
-|  |  | A | B |
-| --- | --- | --- | --- |
-|  | 1 | Készletezett anyag | Kombinált nomenklatúra 2012 |
-|  | 2 | Nyersolaj | 27090090 |
-|  | 3 | Motorbenzin | 27101231-27101270 |
-|  | 4 | Motorikus gázolaj/dízelolaj | 27101943-27101948, 27102011-27102019 |
-|  | 5 | Háztartási és egyéb tüzelőolaj |
-|  | 6 | Fűtőolaj – alacsony kéntartalmú (1%-nál alacsonyabb) | 27101962-27101964, 27102031-27102035 |
-|  | 7 | Fűtőolaj – magas kéntartalmú (1%-nál magasabb) | 27101968, 27102039 |
-|  | 8 | Kerozin típusú sugárhajtómű üzemanyag | 27101921 |
+|  | A | B |
+| --- | --- | --- |
+| 1. | Készletezett anyag | Kombinált Nómenklatúra-kód (KN-kód) |
+| 2. | Nyersolaj | 27090090 |
+| 3. | Motorbenzin | 27101231-27101270 |
+| 4. | Motorikus gázolaj/dízelolaj | 27101943-27101948, 27102011-27102019 |
+| 5. | Háztartási és egyéb tüzelőolaj |
+| 6. | Fűtőolaj – alacsony kéntartalmú (legfeljebb 0,5 tömegszázalék kéntartalom) | 27101962, 27101966, 27102032 |
+| 7. | Fűtőolaj – magas kéntartalmú (0,5 tömegszázalékot meghaladó kéntartalom) | 27101967, 27102038 |
+| 8. | Kerozin típusú sugárhajtómű üzemanyag | 27101921 |
 
 - 2. A biztonsági kőolajkészlet szintjét a következőképpen kell meghatározni: A = [a×0,96+(b+c+d+e+f+g)×1,2]×0,9 ahol,
 - 2.1. A = a biztonsági kőolajkészlet nagysága kőolaj-egyenértékben;
@@ -542,7 +544,7 @@ való megfelelést szolgálja.
 
 #### A különleges kőolajkészlet összetétele és mértéke
 
-- 1. Különleges kőolajkészletként is nyilvántartható a 2. melléklet 1. pont b)–f) alpontja szerinti kőolajtermékekből álló készlet azon része, amelyre teljesülnek a következő feltételek:
+- 1. Különleges kőolajkészletként is nyilvántartható a 2. melléklet 1. pontjában foglalt táblázat 3–8. sora szerinti kőolajtermékekből álló készlet azon része, amelyre teljesülnek a következő feltételek:
   - a) a készlet az Európai Unió területén van,
   - b) a referencia évben a belföldi fogyasztás legalább 75%-át lefedi a kiválasztott termék kategóriák fogyasztási adatainak összege,
   - c) az így nyilvántartott készlet mennyisége nem változik a nem kevesebb, mint egy naptári év során, nem számítva az esetleges termékfrissítés időszakát,
@@ -562,21 +564,25 @@ való megfelelést szolgálja.
 
 #### A tagi hozzájárulás köteles termékek köre
 
-|  | Kombinált nomenklatúra 2011 | Kombinált nomenklatúra 2012 |
+|  | A | B |
 | --- | --- | --- |
-| Motorbenzinek | 27101131 | 27101231 |
-| 27101141 | 27101241 |
-| 27101145 | 27101245 |
-| 27101149 | 27101249 |
-| 27101151 | 27101251 |
-| 27101159 | 27101259 |
-| 27101170 | 27101270 |
-| Kerozin típusú sugárhajtómű üzemanyag | 27101921 | 27101921 |
-| Gáz- és tüzelőolajok | 27101941 | 27101943, 27102011 |
-| 27101945 | 27101946, 27102015 |
-| 27101949 | 27101947, 27102017 |
-|  | 27101948, 27102019 |
-| Alacsony és magas kéntartalmú fűtőolajok | 27101961 | 27101962, 27102031 |
-| 27101963 | 27101964, 27102035 |
-| 27101965 | 27101968, 27102039 |
-| 27101969 |  |
+| 1. | Kőolajtermék megnevezése | Kombinált Nómenklatúra-kód (KN-kód) |
+| 2. | Motorbenzinek | 27101231 |
+| 3. | 27101241 |
+| 4. | 27101245 |
+| 5. | 27101249 |
+| 6. | 27101250 |
+| 7. | 27101270 |
+| 8. | Kerozin típusú sugárhajtómű üzemanyag | 27101921 |
+| 9. | Gáz- és tüzelőolajok | 27101943 |
+| 10. | 27101946 |
+| 11. | 27101947 |
+| 12. | 27101948 |
+| 13. | 27102011 |
+| 14. | 27102016 |
+| 15. | 27102019 |
+| 16. | Alacsony és magas kéntartalmú fűtőolajok | 27101962 |
+| 17. | 27101966 |
+| 18. | 27101967 |
+| 19. | 27102032 |
+| 20. | 27102038 |

@@ -188,7 +188,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 (2)–(3)
 
-6/A. § A termelő kérelmére a Hivatal a felhasználók tájékoztatása céljából származási garanciát állít ki és gondoskodik a származási garanciák elektronikus nyilvántartásáról. A származási garanciákra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+6/A. § A termelő kérelmére a Hivatal a felhasználók tájékoztatása céljából származási garanciát állít ki és gondoskodik a származási garanciák megbízható és hiteles elektronikus tárolásáról. A származási garanciákra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 ### Új termelő kapacitások létesítése
 
@@ -383,7 +383,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 - f) közreműködik a regionális piacok kialakításában, és jogosult az egységes villamosenergia-piac kialakításának megkönnyítése érdekében közös vállalkozás létrehozására;
 - g) a kijelölt villamosenergiapiac-üzemeltetővel kötött megállapodás esetén hozzájárulhat a 2015/1222/EU bizottsági rendelet 76. cikk (1) bekezdésében előírt költségekhez, amennyiben a Hivatal a 2015/1222/EU rendelet 76. cikk (3) bekezdésében foglaltak szerint a költség-hozzájárulási javaslatot előzetesen jóváhagyja.
 
-(2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a szűkületkezelési eljárásokban történő együttműködéssel kapcsolatos, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodást a Hivatal előzetes tájékoztatásával jogosult megkötni. A megkötött megállapodásról az átviteli rendszerirányító a minisztert és a Hivatalt tájékoztatja.
+(2) Az (1) bekezdésben meghatározott képviselet keretében az átviteli rendszerirányító a szűkületkezelési eljárásokban történő együttműködéssel kapcsolatos, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodást a Hivatal előzetes hozzájárulásával jogosult megkötni. A megkötött megállapodásról az átviteli rendszerirányító a minisztert és a Hivatalt tájékoztatja.
 
 18. § Az átviteli rendszerirányító legalább félévente köteles a Hivatal és a miniszter részére a magyar villamosenergia-rendszer rendszerszintű teljesítmény- és energiamérlegét, primer energiaforrás felhasználását, az erőművi kapacitások különböző időtávú rendelkezésre állását, az átviteli és elosztó hálózatok fejlesztését, valamint a fogyasztás alakulását bemutató állapotjelentést küldeni.
 
@@ -1812,13 +1812,13 @@ működési engedély
 88. § (1) Villamosenergia-kereskedelemre vonatkozó működési engedélyt kaphat
 
 - a) az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, Ptk. szerinti gazdasági társaság, a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvény szerinti fióktelep, a szövetkezet, az európai részvénytársaság, továbbá
-- b) az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak állampolgára, aki az állampolgársága szerinti országban villamosenergia-kereskedelmi tevékenységet folytat, vagy ezen államokban jogszerűen nyilvántartásba vett vállalkozás, amely a székhelye szerinti országban villamosenergia-kereskedelmi tevékenységet folytat, abban az esetben, ha megfelel a Vhr.-ben foglalt feltételeknek, a feltételek fennállását hitelt érdemlően igazolja, valamint Magyarországon történő elérhetőségét legalább kézbesítési megbízott útján folyamatosan biztosítja.
+- b) az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak állampolgára, aki ezen államok valamelyikében villamosenergia-kereskedelmi tevékenységet folytat, vagy ezen államokban jogszerűen nyilvántartásba vett vállalkozás, amely ezen államok valamelyikében villamosenergia-kereskedelmi tevékenységet folytat, abban az esetben, ha megfelel a Vhr.-ben foglalt feltételeknek, a feltételek fennállását hitelt érdemlően igazolja, valamint Magyarországon történő elérhetőségét legalább kézbesítési megbízott útján folyamatosan biztosítja.
 
-(2) Korlátozott, a felhasználók ellátására közvetlenül nem jogosító villamosenergia-kereskedelemre vonatkozó működési engedélyt (a továbbiakban: korlátozott villamosenergia-kereskedelmi engedély) kaphat az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak az állampolgára, aki az állampolgársága szerinti országban villamosenergia-kereskedelmi tevékenységet folytat, vagy ezen államokban jogszerűen nyilvántartásba vett vállalkozás, amely a székhelye szerinti országban villamosenergia-kereskedelmi tevékenységet folytat, abban az esetben, ha megfelel a Vhr.-ben foglalt feltételeknek, a feltételek fennállását hitelt érdemlően igazolja, valamint Magyarországon történő elérhetőségét legalább kézbesítési megbízott útján folyamatosan biztosítja.
+(2) A 47–48. §-ban, az 56/A. §-ban, továbbá a 92. és 93. §-ban meghatározott rendelkezéseket az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, a Ptk. szerinti gazdasági társaság, a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvény szerinti fióktelep, a szövetkezet és az európai részvénytársaság esetében kell alkalmazni.
 
-(3) Korlátozott villamosenergia-kereskedelmi engedély megszerzésére jogosult a (2) bekezdésben foglaltak mellett a belföldön nyilvántartásba vett, Ptk. szerinti gazdasági társaság, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, továbbá a szövetkezet és az európai részvénytársaság, amely megfelel a Vhr.-ben foglalt feltételeknek.
+(3)
 
-(4) Korlátozott villamosenergia-kereskedelmi engedély esetében nem kell alkalmazni a 47–48. §-ban, valamint az 56/A. §-ban foglaltakat. A (2) bekezdés szerinti engedélyes mentesül a 92–93. §-ban foglaltak alkalmazása alól.
+(4)
 
 ### A szervezett villamosenergia-piac
 
@@ -1908,7 +1908,7 @@ esetében.
 (4) Nem kell alkalmazni
 
 - a) a közvetlen vezeték engedélyesére, a magánvezeték engedélyesére és a töltőállomás-üzemeltetőre az (1) és (2) bekezdés,
-- b) a kiserőművi összevont engedélyesre, valamint a felhasználót el nem látó villamosenergia-kereskedelmi engedélyesre a (2) bekezdés
+- b) a kiserőművi összevont engedélyesre, valamint a felhasználót el nem látó villamosenergia-kereskedelmi engedélyesre – ha a befolyásszerző a befolyásszerzésről a befolyásszerzés hatályosulásától számított 30 napon belül tájékoztatja a Hivatalt – az (1) és (2) bekezdés
 
 rendelkezéseit.
 
@@ -1952,9 +1952,9 @@ esetében.
 
 (2a) A Hivatal megtagadja a 93. § (5) és (6) bekezdésében meghatározott jogügylet jóváhagyását, ha a tanúsítási eljárásban azt állapította meg, hogy a jogügylet végrehajtása eredményeként az átviteli rendszerirányító nem felelne meg a rá vonatkozó szétválasztási szabályoknak, vagy azt, hogy a jogügylet megvalósítása veszélyeztetné az ország vagy az Európai Unió más tagállam energiaellátásának biztonságát.
 
-(3) A 93. § (1) bekezdése szerinti részesedésszerzés bejelentésének elmulasztása vagy tudomásulvételt kimondó visszaigazolás hiánya esetén, a 92. § (1) bekezdésben, valamint a 93. § (2), (5) és (6) bekezdésében meghatározott hozzájáruló határozat hiányában a szerző fél a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, a részvénykönyvbe nem jegyezhető be, vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal jóváhagyását igazoló dokumentummal együtt lehet benyújtani.
+(3) A 93. § (1) bekezdése szerinti részesedésszerzés bejelentésének elmulasztása vagy tudomásulvételt kimondó visszaigazolás hiánya esetén, a 92. § (1) bekezdésében, valamint a 93. § (2), (5) és (6) bekezdésében meghatározott hozzájáruló határozat hiányában a szerző fél a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, a részvénykönyvbe nem jegyezhető be vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal jóváhagyását igazoló dokumentummal együtt lehet benyújtani. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelem benyújtási határideje a Hivatal előzetes hozzájáruló vagy tudomásul vevő döntésének közlését követő naptól kezdődik.
 
-(4) Cégjogi esemény esetén az érintett engedélyes, továbbá befolyásszerzés esetén a befolyásszerző a cégjogi eseményt, valamint a befolyásszerzést bejegyző cégbírósági végzés jogerőre emelkedésétől számított 8 napon belül kezdeményezi a Hivatalnál az előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzését.
+(4) Cégjogi esemény esetén az érintett engedélyes, továbbá befolyásszerzés esetén a befolyásszerző a cégjogi eseményt, valamint a befolyásszerzést bejegyző cégbírósági végzés jogerőre emelkedésétől, vagy ha a cégjogi esemény később hatályosul, a hatályosulástól számított 8 napon belül kezdeményezi a Hivatalnál az előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzését.
 
 (5) Cégjogi esemény esetén a (4) bekezdés szerinti megfelelés ellenőrzés kezdeményezésével egyidejűleg, továbbá befolyásszerzés esetén – ha a befolyásszerzés az engedélyes működési engedélyét érinti – az érintett engedélyes kezdeményezi a Hivatalnál az engedély módosítását vagy új engedély kiadását. Az engedély módosításáig vagy az új engedély kiadásáig az engedély vonatkozásában a jogutódlás szabályai alkalmazandóak. A Hivatal az engedély módosításáról vagy új engedély kiadásáról külön eljárás keretében dönt.
 
@@ -2367,19 +2367,23 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 105. § (1) A villamosenergia-ipari vállalkozások beszámolási és könyvvezetési kötelezettségére, a beszámoló összeállítására, a könyvek vezetésére, valamint a nyilvánosságra hozatalra és közzétételre az Szt. rendelkezéseit az e törvény szerinti eltérésekkel kell alkalmazni.
 
-(2) Az integrált villamosenergia-ipari vállalkozás és a több engedéllyel rendelkező vállalkozás köteles olyan számviteli szétválasztási szabályokat kidolgozni, és az egyes tevékenységeire olyan elkülönült nyilvántartást vezetni, amely biztosítja az egyes tevékenységek átláthatóságát és a diszkriminációmentességet, kizárja a keresztfinanszírozást és a versenytorzítást.
+(2) Az integrált villamosenergia-ipari vállalkozás, valamint a több engedéllyel rendelkező vállalkozás – a számviteli politika részeként – olyan számviteli szétválasztási szabályokat dolgoz ki és egyes tevékenységeire olyan elkülönült számviteli nyilvántartást vezet, amelyek biztosítják az egyes tevékenységek átláthatóságát, a diszkriminációmentességet, kizárják az egyes tevékenységek közötti keresztfinanszírozást és a versenytorzítást.
 
-(3) A horizontálisan integrált villamosenergia-ipari vállalkozás éves beszámolója kiegészítő mellékletében köteles az engedélyes tevékenységet oly módon bemutatni, mintha azt önálló vállalkozás keretében végezték volna, amelynek esetében az engedélyes tevékenység elkülönült bemutatása legalább önálló mérleget és eredménykimutatást, valamint az azok soraihoz fűzött magyarázatot jelent. A több engedéllyel rendelkező villamosenergia-ipari vállalkozás éves beszámolója kiegészítő mellékletében köteles az egyes engedélyes tevékenységeket oly módon bemutatni, mintha azokat önálló vállalkozások keretében végezték volna, amelynek esetében az engedélyes tevékenységek elkülönült bemutatása legalább az eszközök, kötelezettségek, időbeli elhatárolások szétválasztott bemutatását, önálló eredménykimutatást, valamint az azok soraihoz fűzött magyarázatot jelent.
+(3) Az integrált villamosenergia-ipari vállalkozás, valamint a több engedéllyel rendelkező vállalkozás éves beszámolója kiegészítő mellékletében az engedélyes tevékenységet oly módon mutatja be, mintha azt önálló vállalkozás keretében végezte volna, ahol az engedélyes tevékenységének elkülönült bemutatása legalább az Szt. szerinti önálló mérleget és eredménykimutatást, valamint az azok soraihoz fűzött magyarázatot jelent.
 
-(4) Amennyiben a vertikálisan integrált villamosenergia-ipari vállalkozás az Szt. szerinti összevont (konszolidált) éves beszámoló készítésére kötelezett, az összevont (konszolidált) éves beszámolója kiegészítő mellékletében köteles az egyes engedélyes tevékenységeket önállóan is bemutatni. Az engedélyes tevékenységek elkülönült bemutatása halmozott önálló mérleget és halmozott eredménykimutatást jelent.
+(4) Az integrált villamosenergia-ipari vállalkozás, valamint a több engedéllyel rendelkező vállalkozás a (2) bekezdésben előírt számviteli szétválasztási szabályzatban megállapítja az eszköz, a forrás, a bevételek, a költségek és a ráfordítások szétválasztása, valamint az egy adott tevékenységhez egyértelműen hozzá nem rendelhető eszközök tekintetében az értékcsökkenési leírás tevékenységek közötti megosztásának szabályait.
 
-(5) A villamosenergia-ipari vállalkozások kötelesek biztosítani a Hivatal számára, hogy a Hivatal munkatársai a társaság pénzügyi-számviteli kimutatásait, és az ahhoz kapcsolódó bizonylatokat és információkat megismerhessék, azokba betekinthessenek. A Hivatalnak indokolnia kell, hogy az adott információra mely feladata ellátásához van szükség.
+(5) Ha az integrált villamosenergia-ipari vállalkozás, valamint a több engedéllyel rendelkező vállalkozás az Szt. szerinti összevont (konszolidált) éves beszámoló készítésére kötelezett, az összevont (konszolidált) éves beszámolója kiegészítő mellékletében az egyes engedélyes tevékenységeket önállóan is bemutatja. Az engedélyes tevékenységek elkülönült bemutatása – több azonos típusú engedélyes tevékenység esetén – halmozott önálló mérlegeket és halmozott eredménykimutatásokat jelent.
 
 (6) A 66. § (4)–(5) bekezdésében foglaltak ellenőrzésének biztosítására a (2) és (5) bekezdést megfelelően alkalmazni kell a 2011. október 1-je előtt létesített nem engedélyköteles magánvezeték üzemeltetőjére.
 
-105/A. § (1) Az integrált, valamint a több engedéllyel rendelkező villamosenergia-ipari vállalkozás könyvvizsgálója az Szt. szerinti éves beszámolóhoz kiadott független könyvvizsgálói jelentésben köteles igazolni, hogy a vállalkozás által kidolgozott és alkalmazott számviteli szétválasztási szabályok, valamint az egyes tevékenységek közötti tranzakciók árazása biztosítják a vállalkozás üzletágai közötti keresztfinanszírozás-mentességet.
+105/A. § (1) A villamosenergia-ipari vállalkozás köteles a beszámoló Szt. szerinti könyvvizsgálatát az e törvényben meghatározott eltérésekre is kiterjedően elvégeztetni.
 
-(2) Az integrált, valamint több engedéllyel rendelkező villamosenergia-ipari vállalkozásnak engedélyesi tevékenységenként tevékenységi beszámolót kell készítenie az éves beszámoló elfogadásáig, amelyet a mérleg fordulónapját követő ötödik hónap utolsó napjáig egy példányban kell a Hivatalnak benyújtani elektronikus formában. A villamosenergia-ipari vállalkozás ebben az esetben köteles nyilatkozni, hogy mely engedélyekre vonatkozóan nyújtotta be az éves beszámolót.
+(2) Az integrált villamosenergia-ipari vállalkozás, valamint a több engedéllyel rendelkező villamosenergia-ipari vállalkozás könyvvizsgálója az Szt. szerinti éves beszámolóra és összevont (konszolidált) éves beszámolóra vonatkozó független könyvvizsgálói jelentésében nyilatkozik a vállalkozás által kidolgozott és alkalmazott számviteli szétválasztási szabályok jogszabályi előírásoknak való megfelelőségéről, valamint, hogy az alkalmazott számviteli szétválasztási szabályok és az egyes tevékenységek közötti tranzakciók árazása biztosítja a vállalkozás üzletágai közötti keresztfinanszírozás-mentességet.
+
+(3) Az e törvény szerinti engedélyköteles tevékenységet végző vállalkozások 105. § (1) bekezdésében foglaltak szerint elkészített éves beszámolójára és összevont (konszolidált) éves beszámolójára vonatkozó független könyvvizsgálói jelentésében a könyvvizsgáló külön véleményt fogalmaz meg arról, hogy a 105. § (3) bekezdése szerint az éves beszámoló kiegészítő mellékletében bemutatott, tevékenységenként szétválasztott mérlegeket és eredménykimutatásokat az Szt. előírásaival, valamint a villamosenergia ipari vállalkozás – 105. § (2) bekezdésében foglaltak, illetve a Vhr. alapján elkészített – számviteli szétválasztási szabályzatában foglaltakkal összhangban állították-e össze.
+
+(4) Az integrált villamosenergia-ipari vállalkozásnak, valamint a több engedéllyel rendelkező villamosenergia-ipari vállalkozásnak – engedélyesi tevékenységként elhatárolt – tevékenységi beszámolót kell készítenie az éves beszámoló elfogadásáig, amelyet a mérleg fordulónapját követő ötödik hónap utolsó napjáig kell elektronikus formában a Hivatalnak benyújtani. A villamosenergia-ipari vállalkozás ebben az esetben köteles nyilatkozni, hogy mely engedélyekre vonatkozóan nyújtotta be az éves beszámolót.
 
 ### XIII. Fejezet — A VILLAMOSENERGIA-PIACI VERSENY ELŐSEGÍTÉSE
 
@@ -3363,6 +3367,8 @@ nem változtathatja meg.
 
 (5) A 159. § (1) bekezdés 2. és 13. pontjában, valamint a 159. § (5) bekezdés 4. pontjában közvetlenül érintett az engedélyes.
 
+(5a) A Hivatal e törvény szerinti hatáskörében hozott határozataival szembeni közigazgatási perben az elsőfokú ítélet ellen fellebbezésnek van helye.
+
 (6) A Hivatal véglegessé vált határozatait – az e törvény hatálya alá tartozó panaszeljárások, illetve a személyes és védett adatok kivételével – a honlapján közhírré teszi.
 
 168/A. § (1) A rendszerhasználati díjak, az elosztó által külön díj ellenében végezhető szolgáltatások díjainak és a csatlakozási díjak megállapítására irányuló eljárásokban közvetlenül érintett kizárólag az érintett hálózati engedélyes.
@@ -3698,7 +3704,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (2) A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény, valamint a közművezetékek adójáról szóló 2012. évi CLXVIII. törvény (a továbbiakban együtt: Különadó törvények) szerint külön jövedelemadó, illetve közművezetékek után fizetendő adó (a továbbiakban együtt: különadó) fizetésére kötelezett e törvény szerinti engedélyes a különadót nem háríthatja át a vele szerződésben állóra. Ebből következően a különadó az engedélyes által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki. Az adókötelezettség terhét a Különadó törvények szerinti adóalany önállóan viseli.
 
-178/T. § (1) Az egyes energetikai tárgyú törvények módosításáról szóló 2020. évi CXIII. törvény hatálybalépésekor folyamatban lévő 141. § (10) bekezdése szerinti árszabályozási ciklus 2021. március 31-ig meghosszabbodik.
+178/T. § (1) Az egyes energetikai tárgyú törvények módosításáról szóló 2020. évi CXIII. törvény hatálybalépésekor folyamatban lévő 141. § (10) bekezdése szerinti árszabályozási ciklus 2021. március 31-ig meghosszabbodik. A folyamatban lévő árszabályozási ciklus tekintetében a 143. § (1) bekezdése nem alkalmazandó.
 
 (2) Az (1) bekezdés szerinti árszabályozási ciklust követő új árszabályozási ciklus kezdő időpontja 2021. április 1.
 
@@ -3713,9 +3719,11 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 #### 178/U. §
 
-178/V. § A 146/A. §-nak a nemzeti versenyképesség növeléséhez szükséges egyes törvénymódosításokról szóló 2017. évi CXXXVII. törvénnyel megállapított (10) és (11) bekezdését a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+178/V. § (1) A 146/A. §-nak a nemzeti versenyképesség növeléséhez szükséges egyes törvénymódosításokról szóló 2017. évi CXXXVII. törvénnyel megállapított (10) és (11) bekezdését a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-178/V. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+(2) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+#### 178/V. §
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 

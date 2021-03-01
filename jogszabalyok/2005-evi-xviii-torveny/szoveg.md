@@ -95,6 +95,8 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (4) Közigazgatási perben nincs helye a keresetlevél halasztó hatálya elrendelésének, ha a Hivatal határozatában a távhőszolgáltatási támogatás igénybevételének jogszerűsége, engedélyes kijelölése vagy engedélyének visszavonása tárgyában döntött.
 
+(4a) A Hivatal e törvény szerinti hatáskörében hozott határozataival szembeni közigazgatási perben hozott elsőfokú ítélet ellen fellebbezésnek van helye.
+
 (5) A Hivatal véglegessé vált határozatait – a személyes és védett adatok kivételével – a honlapján közzéteszi.
 
 5. § (1) A Hivatal részére felügyeleti tevékenységéért a hatáskörébe tartozó engedélyes felügyeleti díjat köteles fizetni, amelynek éves mértéke az engedélyes tevékenységéből származó előző évi nettó árbevételének 0,075%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt vagy nem teljes évre vonatkozóan volt nettó árbevétele, akkor éves felügyeleti díj előleget fizet, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,075%-a. Ha a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,075%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
@@ -239,7 +241,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 18/A. § (1) Az engedélyes beszámolási és könyvvezetési kötelezettségére, a beszámoló összeállítására, a könyvek vezetésére, valamint a nyilvánosságra hozatalra és közzétételre a számvitelről szóló törvény rendelkezéseit az e törvény szerinti eltérésekkel kell alkalmazni.
 
-(2) Az engedélyes köteles olyan számviteli szétválasztási szabályokat kidolgozni, és az egyes tevékenységeire olyan elkülönült nyilvántartást vezetni, amely biztosítja az egyes tevékenységek átláthatóságát és a diszkriminációmentességet, kizárja a keresztfinanszírozást és a versenytorzítást.
+(2) Az engedélyes – a számviteli politika részeként – olyan számviteli szétválasztási szabályzatot dolgoz ki, és az egyes tevékenységeire olyan elkülönült számviteli nyilvántartást vezet, amely biztosítja az egyes tevékenységek átláthatóságát és a diszkriminációmentességet, kizárja a keresztfinanszírozást és a versenytorzítást.
 
 (3) Az engedélyes
 
@@ -247,7 +249,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 - b) a távhőszolgáltató tevékenységet településenként szétválasztva, valamint
 - c) az egyéb tevékenységeit
 
-az éves beszámolója vagy az egyszerűsített éves beszámolója (a továbbiakban együtt: beszámoló) kiegészítő mellékletében oly módon mutatja be, mintha azt önálló vállalkozás keretében végezte volna, amely esetén az engedélyes tevékenység elkülönült bemutatása az a) pont szerinti esetben telephelyenként, a b) pont szerinti esetben településenként önálló mérleget és összköltség eljárással készült eredménykimutatást jelent. Az engedélyes köteles a beszámoló könyvvizsgálatát elvégeztetni.
+az éves beszámolója vagy az egyszerűsített éves beszámolója (a továbbiakban együtt: beszámoló) kiegészítő mellékletében oly módon mutatja be, mintha azt önálló vállalkozás keretében végezte volna, amely esetén az engedélyes tevékenység elkülönült bemutatása az a) pont szerinti esetben telephelyenként, a b) pont szerinti esetben településenként önálló mérleget és összköltség eljárással készült eredménykimutatást jelent. Az engedélyes a beszámoló könyvvizsgálatát a számviteli szétválasztásra vonatkozóan elvégezteti.
 
 (4) A több tevékenységre engedéllyel rendelkező engedélyes beszámolója kiegészítő mellékletében köteles a (3) bekezdés szerint a különböző engedélyes tevékenységeit oly módon bemutatni, mintha azokat önálló vállalkozások keretében végezték volna, amelynek esetében az engedélyes tevékenységek elkülönült bemutatása legalább az eszközök, kötelezettségek, időbeli elhatárolások szétválasztott bemutatását és önálló eredmény-kimutatást jelent.
 
@@ -255,7 +257,9 @@ az éves beszámolója vagy az egyszerűsített éves beszámolója (a továbbia
 
 (6) A Hivatal jogosult az engedélyes pénzügyi-számviteli kimutatásaiba, és az ahhoz kapcsolódó bizonylatokba és iratokba betekinteni.
 
-18/B. § Az engedélyes könyvvizsgálója a beszámolóhoz kiadott független könyvvizsgálói jelentésben köteles igazolni, hogy a vállalkozás által kidolgozott és alkalmazott számviteli szétválasztási szabályok, valamint az egyes tevékenységek közötti tranzakciók árazása biztosítják a vállalkozás tevékenységei közötti keresztfinanszírozás-mentességet.
+18/B. § (1) Az engedélyes könyvvizsgálója a beszámolóra vonatkozó független könyvvizsgálói jelentésében nyilatkozik az engedélyes által kidolgozott számviteli szétválasztási szabályzat e törvény előírásainak való megfelelőségéről.
+
+(2) Az engedélyes könyvvizsgálója a beszámolóra vonatkozó független könyvvizsgálói jelentésében külön véleményt fogalmaz meg arról, hogy a beszámoló kiegészítő mellékletében bemutatott, tevékenységenként szétválasztott mérleg és eredménykimutatás a számvitelről szóló törvény előírásaival, valamint az engedélyes számviteli szétválasztási szabályzatában foglaltakkal összhangban áll.
 
 18/C. § (1) Az értékesítő, valamint a távhőszolgáltató tárgyévi auditált beszámolójában szereplő, az e törvény hatálya alá tartozó tevékenységéből származó adózás előtti eredménye nem haladhatja meg az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott mértéket (a továbbiakban: nyereségkorlát).
 
@@ -265,7 +269,7 @@ az éves beszámolója vagy az egyszerűsített éves beszámolója (a továbbia
 
 19. § (1) Az engedélyesnek a Ptk. rendelkezései szerinti szétválásához, más vállalkozással történő egyesüléséhez, átalakulásához, jogutód nélküli megszűnéséhez, valamint jegyzett tőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) a Hivatal előzetes hozzájáruló határozata szükséges.
 
-(2) A cégjogi eseménnyel összefüggésben a cégjegyzékbe való bejegyzésre vagy változásbejegyzésére irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt kell benyújtani.
+(2) A cégjogi eseménnyel összefüggésben a cégjegyzékbe való bejegyzésre vagy változásbejegyzésére irányuló kérelmet a Hivatal hozzájáruló határozatával együtt kell benyújtani a cégbírósághoz. A cégbejegyzési kérelem benyújtási határideje a Hivatal hozzájáruló határozatának közlését követő napon kezdődik.
 
 (3) A Hivatal nem tagadhatja meg a jegyzett tőke leszállításához való hozzájárulást, ha azt az engedélyes számára jogszabály kötelezővé teszi.
 
@@ -275,9 +279,9 @@ az éves beszámolója vagy az egyszerűsített éves beszámolója (a továbbia
 
 (6) A (3) bekezdésben meghatározott kivétellel a Hivatal az (1) és (4) bekezdésben meghatározott ügyletekhez történő hozzájárulását megtagadhatja vagy feltételhez kötheti, ha azok végrehajtása a távhőellátás biztonságát, az e törvényben meghatározott ellátási kötelezettség teljesítését, a felhasználók érdekeit sérti, vagy a legkisebb költség elvének érvényesülését veszélyezteti.
 
-(7) A (4) bekezdésben meghatározott hozzájáruló határozat hiányában a befolyásszerző a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, továbbá a részvénykönyvbe nem jegyezhető be vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal hozzájáruló határozatával együtt kell benyújtani.
+(7) A (4) bekezdésben meghatározott hozzájáruló határozat hiányában a befolyásszerző a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, továbbá a részvénykönyvbe nem jegyezhető be vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe történő bejegyzésre irányuló kérelem benyújtási határideje a Hivatal előzetes hozzájáruló döntésének közlését követő napon kezdődik.
 
-(8) Cégjogi esemény esetén az érintett engedélyes, továbbá befolyásszerzés esetén a befolyásszerző a cégjogi eseményt, valamint a befolyásszerzést bejegyző cégbírósági végzés jogerőre emelkedésétől számított 8 napon belül kezdeményezi a Hivatalnál az előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzését.
+(8) Cégjogi esemény esetén az érintett engedélyes, továbbá befolyásszerzés esetén a befolyásszerző a cégjogi eseményt, valamint a befolyásszerzést bejegyző cégbírósági végzés jogerőre emelkedésétől, vagy – ha a cégjogi esemény később hatályosul – a hatályosulástól számított 8 napon belül kezdeményezi a Hivatalnál az előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzését.
 
 (9) Cégjogi esemény esetén a (8) bekezdés szerinti megfelelés ellenőrzés kezdeményezésével egyidejűleg, továbbá befolyásszerzés esetén – ha a befolyásszerzés az engedélyes működési engedélyét érinti – az érintett engedélyes kezdeményezi a Hivatalnál az engedély módosítását vagy új engedély kiadását. Az engedély módosításáig vagy az új engedély kiadásáig az engedély vonatkozásában a jogutódlás szabályai alkalmazandóak. A Hivatal az engedély módosításáról vagy új engedély kiadásáról külön eljárás keretében dönt.
 

@@ -8,7 +8,7 @@ Az Országgyűlés annak érdekében, hogy a hulladékgazdálkodási közszolgá
 
 1. § E törvény hatálya
 
-- a) a környezetvédelmi hatóságra (a továbbiakban: minősítő),
+- a) a hulladékgazdálkodási hatóságra (a továbbiakban: minősítő),
 - b) a hulladékgazdálkodási közszolgáltatási tevékenységet végző vagy végezni kívánó, minősítést kérelmező gazdálkodó szervezetre (a továbbiakban: kérelmező),
 - c) a minősítés és a minősítés módosításának anyagi és eljárási szabályaira,
 - d) az osztályba sorolás szempontrendszerére,
@@ -56,6 +56,8 @@ terjed ki.
 
 (6) A kérelmező az e törvény szerinti közigazgatási hatósági eljárások lefolytatásáért, valamint a (4) bekezdés szerinti igazgatási jellegű szolgáltatás (konzultáció) igénybevételéért igazgatási szolgáltatási díjat fizet.
 
+(7) Az e törvényben meghatározott környezethasználati célok megvalósulásáról a környezetvédelmi hatóság véleményét kell beszerezni. A környezetvédelmi hatóság a megkeresés kézhezvételétől számított tizenöt napon belül állítja ki a véleményt.
+
 #### 3/A. Egyes eljárási rendelkezések
 
 3/A. § A minősítési eljárásban
@@ -69,7 +71,7 @@ terjed ki.
 
 (2) A kérelem tartalma:
 
-- a) a kérelmező neve, székhelye, cégjegyzékszáma, környezetvédelmi ügyfél jele, környezetvédelmi területi jele, statisztikai számjele, pénzforgalmi számlaszáma,
+- a) a kérelmező neve, székhelye, cégjegyzékszáma, statisztikai számjele, pénzforgalmi számlaszáma,
 - b) a kérelmező telephelyének, fióktelepének címe,
 - c) a kérelmező kijelölt kapcsolattartójának neve,
 - d) a kérelem típusa (új kérelem, módosítási kérelem, minősítési engedély hatályának meghosszabbítása iránti kérelem, adatváltozás bejelentése),
@@ -191,7 +193,9 @@ olyan változás következik be, amely a kiadott minősítési engedély adatán
 
 #### 8. Ellenőrzés
 
-14. § (1) A minősítő a minősítési engedély kiadásának alapjául szolgáló feltételeknek való megfelelést és a környezetirányítási programban foglaltak végrehajtását hivatalból ellenőrzi. Az ügyfél saját maga hatósági ellenőrzés alá vonását nem kérheti.
+14. § (1) A minősítő a minősítési engedély kiadásának alapjául szolgáló feltételeknek való megfelelést hivatalból ellenőrzi. Az ügyfél saját maga hatósági ellenőrzés alá vonását nem kérheti.
+
+(1a) A környezetirányítási programban foglaltak végrehajtását a környezetvédelmi hatóság ellenőrzi a minősítő kérésére.
 
 (2) Ha a minősítő az ellenőrzés alapján megállapítja, hogy a kérelmező
 
@@ -209,7 +213,7 @@ olyan változás következik be, amely a kiadott minősítési engedély adatán
 
 (3) A jogsértés megállapítására és a bírság kiszabására irányuló eljárás megindítása tekintetében a Kvt. rendelkezései alkalmazandók.
 
-15/A. §
+#### 15/A. §
 
 #### 10. A minősítési engedély visszavonása
 
@@ -232,7 +236,7 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 #### 12.
 
-18. §
+#### 18. §
 
 #### 13. Nyilvántartás, közzététel
 
@@ -245,7 +249,7 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 - c) a minősítési engedélyben megjelölt minősítési osztályt,
 - d) a minősítési engedély időbeli hatályát.
 
-(3) A minősítési engedélyeket, továbbá a minősítési eljáráshoz kapcsolódó nyomtatványokat és kitöltési, módszertani útmutatókat az Országos Környezetvédelmi Információs Rendszer publikus felületén közzé kell tenni.
+(3) A minősítési engedélyeket, továbbá a minősítési eljáráshoz kapcsolódó nyomtatványokat és kitöltési, módszertani útmutatókat a hulladékgazdálkodási hatóság honlapján közzé kell tenni.
 
 #### 14. Záró rendelkezések
 
@@ -261,17 +265,15 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 22. § Minősítő okirat 2015. június 30-át követően nem adható ki. Az e törvény alapján kiadott minősítő okirat az abban meghatározott ideig, de legkésőbb 2015. december 31-ig hatályos.
 
-22/A. § E törvénynek az Országos Környezetvédelmi Információs Rendszer továbbfejlesztésével összefüggésben egyes törvények módosításáról szóló 2014. évi LXXXVII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépése után indult ügyekben és megismételt eljárásokban kell alkalmazni.
+#### 22/A. §
 
-22/A. § (1) Ha a környezetvédelmi hatóság 2015. június 30-át követően, de a 22. §-ban meghatározott hatályvesztést megelőzően minősítési engedélyt ad ki a minősítő okirattal rendelkező kérelmező részére, a minősítő okiratot a minősítési engedély kiadásával egyidejűleg visszavonja.
-
-(2) Az e törvény hatálybalépésétől 2016. július 1-jéig terjedő időszakban a minősítő okirat vagy minősítési engedély időbeli hatálya az okirat vagy engedély kiállításától számított 12. hónap utolsó napjáig tart.
+#### 22/A. §
 
 23. § A törvény tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.
 
 24. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 4. § (1) és (6) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-25. §
+#### 25. §
 
 26. § (1)–(4)
 
@@ -279,19 +281,29 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 (6)–(8)
 
-27. §
+#### 27. §
 
 28. § (1)
 
 (2)
 
-29–34. §
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
 
 35. § (1)–(2)
 
 (3)
 
-36. §
+#### 36. §
 
 37. § (1)
 
@@ -313,21 +325,45 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 (3)
 
-40–41. §
+#### 40. §
+
+#### 41. §
 
 42. § (1)–(2)
 
 (3)
 
-43–46. §
+#### 43. §
 
-47. §
+#### 44. §
 
-48–55. §
+#### 45. §
 
-56. §
+#### 46. §
 
-57–58. §
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
 
 59. § (1)
 
@@ -339,11 +375,41 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 (2)
 
-61–75. §
+#### 61. §
 
-76. §
+#### 62. §
 
-77–78. §
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
 
 79. § Nem lép hatályba a Ht.
 
@@ -354,6 +420,8 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 ### 1. melléklet a 2013. évi CXXV. törvényhez
 
 #### A minősítési osztály megszerzéséhez szükséges követelmények
+
+7K07577M_0
 
 |  | „A” minősítési kategória | „B” minősítési kategória | „C” minősítési kategória |
 | --- | --- | --- | --- |
@@ -368,6 +436,8 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 ### 2. melléklet a 2013. évi CXXV. törvényhez
 
 #### Környezetirányítási célok B/II. és C/II. minősítési osztályokhoz
+
+3K63477_0
 
 | I. A B/II. minősítési osztály céljai: |
 | --- |
@@ -387,6 +457,8 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 Környezetirányítási célok B/III. és C/III. minősítési osztályokhoz
 
 (bázisév a hulladékgazdálkodási közszolgáltatási szerződés megkötésének éve)
+
+3K63480_0
 
 | I. A B/III. minősítési osztály céljai: |
 | --- |

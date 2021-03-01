@@ -116,7 +116,11 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 
 (3) A közösségi jegyzék magyar nyelvű hiteles fordítását – ha az a CLP 1. § (2) bekezdés e) pontjában említett mellékletében magyar nyelven nem áll rendelkezésre – az egészségügyi államigazgatási szerv a honlapján közzéteszi.
 
-11–12. §
+### Tájékoztatás a körforgásos gazdaság érdekében
+
+11. § A REACH 3. cikk 33. pontjában meghatározott árucikk bármely szállítója a REACH 33. cikk (1) bekezdésének megfelelően az e célból biztosított formátum és benyújtási eszköz felhasználásával tájékoztatja az Európai Vegyianyag-ügynökséget.
+
+12. §
 
 13. §
 
@@ -275,6 +279,7 @@ Az Országgyűlés – figyelembe véve az ember legmagasabb szintű testi és l
 - d) a tűzvédelem szempontjából a tűzvédelmi hatóság,
 - e) a tárolás szabályai tekintetében, ha azok megsértése a fogyasztóvédelemről szóló törvény 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontjában meghatározott fogyasztó biztonságát, egészségét, testi épségét sérti vagy veszélyezteti, továbbá a csomagolás, zárás szabályainak fogyasztóval szembeni megsértése esetén a fogyasztóvédelmi hatóság az Fgytv. és a termékek piacfelügyeletéről szóló törvény szabályai szerint,
 - f) a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény (a továbbiakban: Fttv.) 2. §-ának a) pontjában meghatározott fogyasztó számára forgalmazott termék feliratozása (címkézése), egyéb jelölése, a használati utasítás, továbbá a reklámozás tekintetében a fogyasztóvédelmi hatóság az Fttv. szabályai szerint
+- g) a hulladékgazdálkodás vonatkozásában a hulladékgazdálkodási hatóság
 
 végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 
@@ -407,3 +412,5 @@ rendeletben meghatározza.
 - c) a biocid termékek forgalmazásáról és felhasználásáról szóló, 2012. május 22-i, 528/2012/EU európai parlamenti és tanácsi rendelet
 - d) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet,
 - e) az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK európai parlamenti és tanácsi rendeletnek egy, az egészséget érintő vészhelyzetre való reagálással kapcsolatos harmonizált információkról szóló melléklet hozzáadásával történő módosításáról szóló 2017. március 22-i (EU) 2017/542 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(3) A 11. § a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/851 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
