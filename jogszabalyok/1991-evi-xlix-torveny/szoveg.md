@@ -1046,7 +1046,7 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 
 (4) A (3) bekezdés a) pont szerinti eljárásban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
 
-(5) A felszámolók névjegyzékét vezető szerv az előtte folyamatban lévő eljárást felfüggesztheti, ha a környezeti teherrel érintett vagyontárgy értékesítéséhez való hozzájárulás érdekében a környezetvédelemért felelős miniszter szakmai állásfoglalásának beszerzése szükséges.
+(5) A felszámolók névjegyzékét vezető szerv az előtte folyamatban lévő eljárást felfüggesztheti, ha a környezeti teherrel érintett vagyontárgy értékesítéséhez való hozzájárulás érdekében a környezetvédelemért felelős miniszter, ha az ingatlanon még nem kezelt hulladék van, a hulladékgazdálkodási hatóság szakmai állásfoglalásának beszerzése szükséges.
 
 (6) A felszámolók névjegyzékébe való felvétellel kapcsolatos eljárás ügyintézési határideje a pályázati kérelmeket értékelő bizottság értékelő jegyzőkönyvének hatósághoz történő megérkezését követő napon kezdődik. Ezen eljárásokban szünetelésnek nincs helye.
 
@@ -1093,7 +1093,7 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 - b) az adós székhelye és fióktelepe (telephelye) szerint illetékes önkormányzati adóhatóságot,
 - c) az adós székhelye szerint illetékes egészségbiztosítási szervet és nyugdíjbiztosítási igazgatási szervet,
 - d) az állami foglalkoztatási szervet,
-- e) a környezetvédelmi hatóságot és a munkavédelmi hatóságot,
+- e) a környezetvédelmi hatóságot, a hulladékgazdálkodási hatóságot és a munkavédelmi hatóságot,
 - f) a bíróság Gazdasági Hivatalát,
 - g) az adós székhelye szerint illetékes levéltárat,
 - h)
@@ -1113,7 +1113,7 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 
 - a) a felszámolás kezdő időpontját megelőző nappal záróleltárt, valamint éves beszámolót (egyszerűsített éves beszámolót) (a továbbiakban együtt: tevékenységet lezáró mérleg), továbbá az eredmény felosztása után zárómérleget és adóbevallást készíteni, azokat a felszámolás kezdő időpontját követő 30 napon belül a felszámolónak és az adóhatóságnak átadni és nyilatkozni arról, hogy a tevékenységet lezáró mérleg, illetve az eredmény felosztása után készített zárómérleg az adós vagyoni helyzetéről valós és megbízható képet ad, valamint nyilatkozni arról is, hogy a mérleg elfogadása óta az adós vagyoni helyzetében milyen lényeges változások történtek,
 - b) a nem selejtezhető iratokról iratjegyzéket készíteni, és azt, az irattári anyagot, valamint a vagyont leltár szerint átadni a felszámolónak legkésőbb a felszámolás kezdő időpontját követő 30 napon belül, ugyanilyen határidővel a folyamatban lévő ügyekről, eljárásokról tájékoztatást adni, továbbá nyilatkozni arról, hogy valamennyi vagyontárgyra, iratra vonatkozóan teljesítette az átadási kötelezettségét,
-- c) a felszámolás kezdő időpontjától számított 15 napon belül a felszámolónak és a felszámoló útján a környezetvédelmi és természetvédelmi hatóságnak nyilatkozatot tenni arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, amelyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások, illetve terhek rendezéséhez szükséges kiadás származhat;
+- c) a felszámolás kezdő időpontjától számított 15 napon belül a felszámolónak és a felszámoló útján a környezetvédelmi és természetvédelmi hatóságnak nyilatkozatot tenni arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, amelyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások, illetve terhek rendezéséhez szükséges kiadás származhat, továbbá a hulladékgazdálkodási hatóságnak a vállalkozás telephelyein lévő hulladékokról, az ezek kezelésével kapcsolatos, még végre nem hajtott hatósági határozatokról, illetve folyamatban lévő ellenőrzésekről;
 - d) a felszámolónak tájékoztatást adni minden a 40. § (1) bekezdés tárgyát képező jogügyletről, illetve kötelezettségvállalásról,
 - e) a felszámolás elrendeléséről a munkavállalókat, illetve a szövetkezeti tagokat, valamint az Mt. 270. §-ában meghatározott szakszervezeteket, az Mt. XX. fejezete szerinti üzemi tanácsot (üzemi megbízottat) haladéktalanul tájékoztatni
 - f) a felszámolás elrendeléséről az 57. § (1) bekezdésének c) pontjában meghatározott követelések jogosultjait a felszámolás kezdő időpontját követő 15 napon belül tájékoztatni,
@@ -1379,11 +1379,11 @@ volt.
 
 (2b) A felszámoló a (2)–(2a) bekezdés szerinti személyek, szervezetek azonosítására és az őket megillető jogokra vonatkozóan nyilvántartást vezet az értékesítés megkezdéséről történő tájékoztatásuk, továbbá annak érdekében, hogy ne vehessen részt az értékesítésben olyan személy vagy szervezet, amely kizáró ok alá esik. Ezeket az adatokat a felszámoló a felszámolási eljárás jogerős lezárásáig jogosult kezelni.
 
-(3) A felszámoló a felszámolási eljárás alatt köteles gondoskodni az adós vagyonának megóvásáról, megőrzéséről, különösen a mezőgazdaságilag művelhető földek termőképességének fenntartásáról, az engedély nélkül más célra hasznosított termőföld eredeti állapotba történő helyreállításáról, az erdőfelújítási és erdőállomány nevelési munkák elvégzéséről, továbbá a környezetvédelmi, természetvédelmi és műemlékvédelmi követelmények betartásáról, a felszámolás kezdő időpontját megelőző időszakból eredő, bizonyított környezeti károsodások, környezeti terhek olyan rendezéséről, amely az eljárás során a környezeti károsodások, illetve terhek elhárítását, megszüntetését, illetve a vagyontárgyaknak a környezeti terhekkel történő értékesítését is jelenti.
+(3) A felszámoló a felszámolási eljárás alatt köteles gondoskodni az adós vagyonának megóvásáról, megőrzéséről, különösen a mezőgazdaságilag művelhető földek termőképességének fenntartásáról, az engedély nélkül más célra hasznosított termőföld eredeti állapotba történő helyreállításáról, az erdőfelújítási és erdőállomány nevelési munkák elvégzéséről, továbbá a hulladékgazdálkodási, környezetvédelmi, természetvédelmi és műemlékvédelmi követelmények betartásáról, a felszámolás kezdő időpontját megelőző időszakból eredő, bizonyított környezeti károsodások, környezeti terhek olyan rendezéséről, amely az eljárás során a környezeti károsodások, illetve terhek elhárítását, megszüntetését, illetve a vagyontárgyaknak a környezeti terhekkel történő értékesítését is jelenti.
 
 (4) A felszámolási eljárás alatt betartandó környezet-, természet- és műemlékvédelmi követelményeket — ideértve a 31. § (1) bekezdésének c) pontjában foglalt nyilatkozat tartalmának meghatározását és a környezeti állapotvizsgálatra való kötelezés lehetőségét — a környezeti károk, illetve terhek rendezésének követelményeit és módját, továbbá az ebből eredő, az 57. § (2) bekezdés szerint felszámolási költségnek minősülő kiadások körét kormányrendelet szabályozza.
 
-(5) Az eljárás alatt folytatott tevékenység környezetvédelmi, természetvédelmi, termőföldvédelmi és műemlékvédelmi követelményeinek betartására, valamint a környezeti károk, illetve terhek rendezésére az adóst az illetékes hatóság határozatban kötelezheti.
+(5) Az eljárás alatt folytatott tevékenység hulladékgazdálkodási, környezetvédelmi, természetvédelmi, termőföldvédelmi és műemlékvédelmi követelményeinek betartására, valamint a környezeti károk, illetve terhek rendezésére az adóst az illetékes hatóság határozatban kötelezheti.
 
 49. § (1) A felszámoló az adós vagyontárgyait nyilvánosan értékesíti a forgalomban elérhető legmagasabb áron. A felszámoló az értékesítést pályázat vagy árverés keretében végzi. Ezen eljárások alkalmazásától csak akkor tekinthet el a felszámoló, ha ehhez a választmány hozzájárul, vagy ha a vagyontárgy gyorsan romló termék, vagy ha a pályázati vagy árverés formájában történő értékesítésből várható bevételek nem fedezik az értékesítés költségeit, vagy ha a várható bevételek és az értékesítés előrelátható költségei közötti különbség kevesebb, mint 100 000 Ft. Ebben az esetben a felszámoló az értékesítés egyéb nyilvános formáját is alkalmazhatja a kedvezőbb eredmény elérése érdekében.
 
@@ -1784,7 +1784,8 @@ hirdetheti ki.
 - b) amely nemzetgazdasági szempontból jelentős projekteket valósít meg vagy erre vállalt kötelezettséget,
 - c) amely törvény által meghatározott országos közfeladatot lát el,
 - d) amely nagy összegű állami szerkezetátalakítási támogatásban, hitelgaranciában, kezességvállalásban vagy exporthitel biztosításban részesült vagy koncesszióköteles tevékenységet folytat vagy erre vállalt kötelezettséget, és az említettekkel összefüggésben az állammal vagy állami szervvel (ideértve az említett feladatok ellátására létrehozott állami tulajdonú gazdálkodó szervezeteket is) jogviszonya áll fenn, vagy
-- e) amely az a)–d) pontban nem említett, de nemzetgazdasági stratégiai szempontból kiemelt jelentőségű tevékenységet folytat.
+- e) amely hulladékkezelési tevékenységet végez, vagy
+- f) amely az a)–e) pont hatálya alá nem tartozó, de nemzetgazdasági stratégiai szempontból kiemelt jelentőségű tevékenységet folytat.
 
 66. § (1) A 65. § szerinti esetekben a stratégiailag kiemelt jelentőségű gazdálkodó szervezet csődeljárása és felszámolása esetén az e törvény rendelkezéseit az e §-ban és a 67. §-ban foglalt eltérésekkel kell alkalmazni.
 

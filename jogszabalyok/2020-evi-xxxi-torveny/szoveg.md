@@ -133,13 +133,37 @@ lép.
 
 (2)
 
-(3)
+(3) Az Utv. 7. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-51. §
+„(6) Az ideiglenes magánútlevél adatoldala az (1) bekezdésben meghatározott adatokon kívül tartalmazza az ellenőrző sorszámot, a kiállítás okát, az utazás célországát, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását. A hazatérés céljából kiállított ideiglenes magánútlevél az (1) bekezdés c) pontjában meghatározott adatot a gépi kiállításhoz szükséges technikai feltételek fennállása esetén tartalmazza. A hivatalból kiállított ideiglenes magánútlevél az állampolgár aláírása nélkül is érvényes.”
+
+51. § Az Utv. 10. §-a helyébe a következő rendelkezés lép:
+
+„10. § (1) A magyar állampolgár részére külföldön való további tartózkodásához, tovább- és hazautazásához ideiglenes magánútlevelet lehet kiállítani, ha az állampolgárnak a külföldre utazásra jogosító útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és az utazásig magánútlevél nem állítható ki vagy egyéb okból nem szerezhető be az utazás megkezdéséig.
+
+(2) Külföldön tartózkodó magyar állampolgár kérelmére hazatérés céljából ideiglenes magánútlevelet kell kiállítani, ha az állampolgárnak a külföldre utazásra jogosító útlevele vagy személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, lejárt, elveszett vagy eltulajdonították, és a hazautazásig magánútlevél nem állítható ki, vagy egyéb okból nem szerezhető be az utazás megkezdéséig.
+
+(3) Kérelemre, hazatérés céljából ideiglenes magánútlevelet kell kiállítani a külföldön született és 6. életévét be nem töltött, jogszabály alapján vélelmezett magyar állampolgárnak, ha magyar hatóság által kiállított útlevéllel vagy személyazonosító igazolvánnyal még nem rendelkezett, és a hazautazásáig magánútlevél nem állítható ki.
+
+(4) Az ideiglenes magánútlevél legfeljebb egyéves érvényességi időtartammal állítható ki. Az ideiglenes magánútlevél érvényességi idejét a hivatásos konzuli tisztviselő állapítja meg az utazás céljához szükséges időtartam figyelembevételével.
+
+(5) Az ideiglenes magánútlevelet hivatalból kell kiadni
+
+a) annak a külföldön tartózkodó magyar állampolgárnak a hazatérése céljából, aki külföldre utazást korlátozó rendelkezés hatálya alatt áll, és nem rendelkezik utazásra jogosító okmánnyal,
+
+b) annak a külföldön tartózkodó magyar állampolgárnak, akire nézve a tartózkodási helye szerinti külföldi állam illetékes hatósága az ország területének elhagyását rendelte el, és nem rendelkezik utazásra jogosító okmánnyal.
+
+(6) Az ideiglenes magánútlevél Magyarország vagy a jogosult szokásos tartózkodási helye szerinti ország területére történő egyszeri beutazásra jogosít.
+
+(7) A kiskorú részére Magyarországra való hazatérés céljából kiállítandó ideiglenes magánútlevelet kérelmező szülő nyilatkozatot tehet a szülői felügyeleti jog gyakorlásáról abban az esetben, ha a Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:186. § (1) bekezdés d) pontjának megfelelően a távollevő szülő tartózkodási helye nem ismert, vagy ténylegesen akadályozva van a szülői felügyelet ellátásában, illetve a vele való kapcsolatfelvétel a kérelmet benyújtó szülő részéről nem vezetett eredményre, és a Magyarországra való hazatérés késedelme a kiskorú számára aránytalan érdeksérelemmel járna.”
 
 52. §
 
-53. §
+53. § Az Utv. 19. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Az útlevélhatóság a kiskorú úti okmányát visszavonja, ha azt a szülői felügyeleti jog gyakorlására jogosult bármelyik szülő vagy a gyám kéri.
+
+(4) Ha a szülői felügyelet gyakorlásáról a gyámhatóság vagy a bíróság rendelkezett vagy a szülők arról írásban megállapodtak, a szülői felügyeleti jog tartalmára vonatkozóan – a 10. § (7) bekezdésében foglalt kivétellel – az ügyfél nyilatkozatot nem tehet.”
 
 54. §
 
@@ -153,7 +177,11 @@ lép.
 
 59. §
 
-60. §
+60. § Az Utv. a következő 41/B. §-sal egészül ki:
+
+„41/B. § (1) Az egyes törvényeknek a polgárok biztonságát erősítő módosításáról szóló 2020. évi XXXI. törvény hatálybalépését megelőzően rendelkezésre álló konzuli tisztviselő által kezelt ideiglenes magánútlevél biankó okmánykészlet 2021. július 31-ig használható fel.
+
+(2) A biankó okmánykészlet 2021. július 31-ét követően az okmánykibocsátóra vonatkozó iratkezelési szabályoknak megfelelően megsemmisítésre kerül.”
 
 61. § Az Utv.
 
@@ -166,7 +194,7 @@ lép.
 - g)
 - h)
 - i)
-- j)
+- j) 24. § (1) bekezdés o) pontjában az „az ellenőrző sorszámot, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását” szövegrész helyébe az „az ellenőrző sorszámot, a kiállítás okát és az utazás célországát” szöveg,
 - k)
 - l)
 - m)
@@ -392,7 +420,31 @@ lép.
 
 145. §
 
-146. §
+146. § Az Ibtv. 7. alcíme a következő 16/A. §-sal egészül ki:
+
+„16/A. § (1) A hatóság határozatban elrendelheti az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján továbbított adatnak vagy egyéb információs társadalommal összefüggő szolgáltatásnak, amely a magyar kibertér biztonságára fenyegetést jelent, és amellyel kapcsolatosan az eseménykezelő központ biztonsági eseménykezelést folytat.
+
+(2) A 2. § (5) bekezdése szerinti szerv rendeli el az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak, amely honvédelmi vagy szövetségi érdeket sért vagy veszélyeztet, vagy honvédelmi célú elektronikus információs rendszer biztonságára fenyegetést jelent.
+
+(3) Az ideiglenes hozzáférhetetlenné tétel az elektronikus adathoz vagy egyéb információs társadalommal összefüggő szolgáltatáshoz való hozzáférés ideiglenes megakadályozása. Az elektronikus adat vagy egyéb információs társadalommal összefüggő szolgáltatás ideiglenes hozzáférhetetlenné tételét a hatóság azonnal végrehajthatónak nyilvánított határozatában rendeli el. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a hatóság legfeljebb 90 napra rendeli el, amely indokolt esetben 90 nappal meghosszabbítható.
+
+(4) A (3) bekezdés szerinti határozat kötelezettje – annak határozatban történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(5) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatot a hatóság hirdetményi úton közli. A hirdetményt a hatóság honlapján kell közzétenni. A határozat közlésének napja a hirdetmény közzétételének napja.
+
+(6) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+
+(7) A hatóság 1 millió forinttól 5 millió forintig terjedő bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely e § szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség teljesítésére megszabott határidő eredménytelen elteleltét követően – újabb határidő megjelölése mellett – ismételten is kiszabható.
+
+(8) Az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség a határozatban megjelölt határidő leteltével megszűnik.
+
+(9) Az ideiglenes hozzáférhetetlenné tételt a hatóság annak megszűnése előtt megszünteti, ha
+
+a) az elrendelés oka megszűnt,
+
+b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban vagy
+
+c) az ideiglenes hozzáférhetetlenné tétel megvalósítása kétségessé válik, vagy annak végrehajtása a kötelezett hírközlési szolgáltatók hálózatának integritását súlyosan veszélyezteti.”
 
 147. §
 

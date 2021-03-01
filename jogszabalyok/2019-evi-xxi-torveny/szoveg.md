@@ -4,9 +4,9 @@ az egyrészről az Európai Unió, az Európai Atomenergia-közösség és tagá
 
 1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió, az Európai Atomenergia-közösség és tagállamaik, másrészről az Örmény Köztársaság közötti átfogó és megerősített partnerségi megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
 
-2. §
+2. § Az Országgyűlés a Megállapodást e törvénnyel kihirdeti.
 
-3. §
+3. § A Megállapodás hiteles magyar nyelvű szövegét az 1. melléklet tartalmazza.
 
 4. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -18,6 +18,8 @@ az egyrészről az Európai Unió, az Európai Atomenergia-közösség és tagá
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter gondoskodik.
 
-6. §
+6. § Hatályát veszti az egyrészről az Európai Közösségek és tagállamai, másrészről az Örmény Köztársaság közötti partnerség létrehozásáról szóló Partnerségi és Együttműködési Megállapodás, valamint az ahhoz csatolt jegyzőkönyvek kihirdetéséről szóló 2011. évi X. törvény.
 
 ### 1. melléklet a 2019. évi XXI. törvényhez
+
+20190000000021_1

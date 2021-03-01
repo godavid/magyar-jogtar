@@ -48,7 +48,7 @@ Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásr
 
 #### 2. A megújuló energia közlekedési célú felhasználásának növelése
 
-2. § A megújuló energiaforrásokból előállított energiának a közlekedés valamennyi formájában felhasznált részaránya (a továbbiakban: tagállami célszám) a közlekedési célra felhasznált végső energiafogyasztás legalább 10%-a, amelyet 2020-ban kell teljesíteni.
+2. § A megújuló energiaforrásokból előállított energiának a közlekedés valamennyi formájában felhasznált részaránya (a továbbiakban: tagállami célszám) 2020-ban a közlekedési célra felhasznált végső energiafogyasztás 10%-a, 2030-ban a közlekedési célra felhasznált végső energiafogyasztás 14%-a.
 
 #### 2/A. A közigazgatási szankciókra vonatkozó közös szabályok
 
@@ -165,13 +165,13 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 
 (5) A (4) bekezdés szerinti esetben az üzemanyag-forgalmazó egyszázezer forinttól egyszázmillió forintig terjedő bírsággal sújtható. A bírság kiszabása során figyelembe kell venni a forgalomba hozott üzemanyag vagy energiatermék azon mennyiségét, amelyre nézve a jelentéstételt elmulasztották, valamint a tárgyévben és az azt megelőző évben a mulasztás ismétlődését. Ha a kötelezett kötelezettségének a bírság kiszabását követően sem tesz eleget, a bírság ismételten kiszabható. A bírság összege az azt kiszabó hatóság bevételét képezi.
 
-10. § (1) Az üzemanyag-forgalmazó 2020. december 31-ig köteles az Európai Unió jogi aktusában meghatározott kiindulási értékhez képest 6%-kal csökkenteni az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó energiaegységre számított üvegházhatású gázkibocsátást.
+10. § (1) Az üzemanyag-forgalmazó köteles az Európai Unió jogi aktusában meghatározott kiindulási értékhez képest 2020. december 31-ig 6%-kal csökkenteni és ezen a szinten tartani az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó energiaegységre számított üvegházhatású gázkibocsátást. A csökkentett üvegházhatású gázkibocsátás szintjének fenntartását az üzemanyag-forgalmazó a 9. § (2) és (2a) bekezdése szerinti tárgyévre vonatkozó jelentéstétel során igazolja.
 
 (2) Az üzemanyag-forgalmazók csoportjai dönthetnek úgy, hogy együttesen tesznek eleget az (1) bekezdés szerinti csökkentési kötelezettségnek, amely esetben egy üzemanyag-forgalmazónak minősülnek.
 
 (3) Az üzemanyag-forgalmazó az (1) bekezdés szerinti csökkentési kötelezettségének teljesítéséhez csak olyan bioüzemanyagot vehet figyelembe, amelyre a fenntarthatósági követelmények teljesítését igazolták.
 
-(4) Az (1) bekezdésben előírt kötelezettség teljesítését az üzemanyag-forgalmazó a 9. § (2) és (2a) bekezdés szerinti, 2020. tárgyévre vonatkozó jelentéstétel során tudja igazolni. Ha az üzemanyag-forgalmazók csoportja együttesen tesz eleget a kötelezettségnek, az igazoláshoz közös jelentés benyújtása szükséges.
+(4) Az (1) bekezdésben előírt csökkentési kötelezettség teljesítését az üzemanyag-forgalmazó a 9. § (2) és (2a) bekezdés szerinti, 2020. tárgyévre vonatkozó jelentéstétel során tudja igazolni. Ha az üzemanyag-forgalmazók csoportja együttesen tesz eleget a kötelezettségnek, az igazoláshoz közös jelentés benyújtása szükséges.
 
 (5) A kötelezettség elmulasztása esetén az állami adó- és vámhatóság bírságot szab ki, amelynek mértékét az 1. melléklet rögzíti. A bírság összege az energiapolitikáért felelős miniszter által vezetett minisztérium bevételét képezi, amelyet az üvegházhatású gázok hazai kibocsátásának csökkentését célzó, közlekedési ágazatot érintő tevékenységek, intézkedések támogatására kell fordítani.
 
@@ -239,10 +239,14 @@ ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezett
 
 14/B. § A 9. §-ban foglalt rendelkezéseket a 13. § (2) bekezdés a) pontja szerinti felhatalmazás alapján kiadott rendelet hatálybalépésének napjától kell alkalmazni.
 
+14/C. § (1) A csökkentett üvegházhatású gázkibocsátás szintjének fenntartásáról az üzemanyag-forgalmazó először 2022. október 31. napjáig tesz jelentést.
+
+(2) A 10. § (1) bekezdésében meghatározott csökkentett szint fenntartására vonatkozó kötelezettséget az üzemanyag-forgalmazói tevékenységet 2020. december 31. napját követően megkezdő üzemanyag-forgalmazóra is alkalmazni kell.
+
 15. § E törvény
 
 - a) a benzinre, a dízelolajra és a gázolajra vonatkozó követelmények, illetőleg az üvegházhatású gázok kibocsátott mennyiségének nyomon követését és mérséklését célzó mechanizmus bevezetése tekintetében a 98/70/EK irányelv módosításáról, a belvízi hajókban felhasznált tüzelőanyagokra vonatkozó követelmények tekintetében az 1999/32/EK irányelv módosításáról, valamint a 93/12/EGK irányelv hatályon kívül helyezéséről szóló 2009. április 23-i 2009/30/EK európai parlamenti és tanácsi irányelv 1. cikk 2. pont a) alpont ii) 5–9. pontjának,
-- b) a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv 2. cikk i) pontjának, valamint p)–w) pontjának, a 3. cikk (4) bekezdés első mondatának, 4. cikk (1) bekezdésének, 5. cikk (1) bekezdés 3. albekezdésének, 14. cikk (1) bekezdésének,
+- b) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
 - c) az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló, 2014. október 22-i 2014/94/EU európai parlamenti és tanácsi irányelv 2. cikk 1. pontjának,
 - d) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK irányelv és a megújuló energiaforrásból előállított energia támogatásáról szóló 2009/28/EK irányelv módosításáról szóló, 2015. szeptember 9-i (EU) 2015/1513 európai parlamenti és tanácsi irányelvnek
 

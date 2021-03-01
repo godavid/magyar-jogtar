@@ -417,7 +417,7 @@ az összeférhetetlenséget nem szünteti meg, ÁRMB-tagsága az a), illetve b) 
 
 (3) A (2) bekezdésben foglaltak figyelembevételével az ÁRMB
 
-- a) az adózás rendjéről szóló 2017. évi CL. törvény 1. melléklet 8. pontja alapján a munkaügyi hatóságnál rendelkezésre álló adatokból a munkáltatónál foglalkoztatottak számára vonatkozó összesített adatokat,
+- a) az adózás rendjéről szóló 2017. évi CL. törvény 1. melléklet 8. pontja alapján a foglalkoztatás-felügyeleti hatóságnál rendelkezésre álló adatokból a munkáltatónál foglalkoztatottak számára vonatkozó összesített adatokat,
 - b) az adóhatóságnál rendelkezésre álló adatok közül a december 31-i állapotnak megfelelően a munkáltatónál foglalkoztatottak létszámára, valamint a munkáltatók TEÁOR szerinti besorolására vonatkozó adatokat
 
 is felhasználhatja.

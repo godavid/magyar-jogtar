@@ -168,6 +168,8 @@ jelentősen akadályozza vagy megszünteti.
 
 (9) A 4. § (1) bekezdés m) pont md) alpontja szerinti célból történő kisajátításhoz a környezetvédelmi hatóság véleményének a beszerzése szükséges.
 
+(10) A 4. § (1) bekezdés m) pont mc) alpontja szerinti célból történő kisajátításhoz a hulladékgazdálkodási hatóság véleményének a beszerzése szükséges.
+
 ### Az ingatlan tulajdonának tehermentes megszerzése
 
 8. § (1) A kisajátítási határozat véglegessé válásával – e törvény eltérő rendelkezése hiányában – az ingatlan tulajdonjogának tehermentes megszerzésére kerül sor.

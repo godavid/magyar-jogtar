@@ -1820,7 +1820,7 @@ számított huszonöt évig kezeli.
 - b) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott juttatások vonatkozásában a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott adatkezelő szervtől;
 - c) a Magyarország helyi önkormányzatairól szóló törvény szerinti szervektől az általuk nyújtott szociális ellátások vonatkozásában;
 - d) az adóhatóságtól;
-- e) a munkaügyi hatóságtól;
+- e) a foglalkoztatás-felügyeleti hatóságtól;
 - f) az állami foglalkoztatási szervtől;
 - g) a Foglalkoztatási és Közfoglalkoztatási Adatbázisból;
 - h) a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartásból;
@@ -1843,7 +1843,7 @@ számított huszonöt évig kezeli.
 - g) a menekültügyi eljárásban közreműködő szakhatóság,
 - h) az állampolgársági ügyekben eljáró szerv és az állampolgársági ügyekért felelős miniszter,
 - i) a személyiadat- és lakcímnyilvántartással kapcsolatos ügyekben eljáró hatóság,
-- j) a munkaügyi hatóság,
+- j) a foglalkoztatás-felügyeleti hatóság,
 - k) a munkavédelmi hatóság,
 - l) az egészségügyi államigazgatási szerv,
 - m) az anyakönyvvezető és az anyakönyvi szerv,

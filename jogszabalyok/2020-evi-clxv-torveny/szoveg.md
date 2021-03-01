@@ -244,17 +244,31 @@ az egyes igazságügyi tárgyú törvények módosításáról
 
 #### 21. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-100. §
+100. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 62/A. § a) pontja helyébe a következő rendelkezés lép:
 
-101. §
+(A gyermekvédelmi szakszolgáltatás a titkos örökbefogadás előkészítése érdekében)
 
-102. §
+„a) – a megyei, fővárosi gyermekvédelmi szakértői bizottság 82. § (5) bekezdése szerinti véleménye figyelembevételével – kiválasztja a gyermek számára a legmegfelelőbb, érvényes alkalmassági határozattal rendelkező örökbe fogadó házaspárt, törvényben meghatározott esetben egyedül örökbe fogadó szülőt (a továbbiakban együtt: örökbe fogadó szülő),”
 
-103. §
+101. § A Gyvt. 101. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A családpolitikáért felelős miniszter különös méltánylást érdemlő esetben hozzájárulhat az egyedül örökbe fogadni szándékozó személy örökbefogadásra való alkalmasságának gyámhatósági megállapításához. A miniszteri hozzájárulás megadásánál különösen figyelemmel kell lenni Magyarország Alaptörvénye XVI. cikk (1) bekezdésében foglaltakra.”
+
+102. § A Gyvt. a következő 188/C. §-sal egészül ki:
+
+„188/C. § Az a személy, akinek örökbefogadásra való alkalmasságát az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvény (a továbbiakban: Imódtv.) e törvényt módosító rendelkezéseinek hatálybalépését megelőzően véglegessé vált határozattal megállapították, az alkalmassági határozat hatályának és annak meghosszabbítása hatályának fennállása alatt az Imódtv. e törvényt módosító rendelkezéseinek hatálybalépését megelőző napon hatályos rendelkezések szerint fogadhat gyermeket örökbe.”
+
+103. § A Gyvt. 69/D. § (1) bekezdés e) pont eb) alpontjában az „egyedülálló” szövegrész helyébe az „egyedüli” szöveg lép.
 
 #### 22. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-104. §
+104. § (1) A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 4:121. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Gyermeket – a rokonok és a szülő házastársa általi örökbefogadás, valamint a (4) bekezdésben foglalt eset kivételével – csak házastársak fogadhatnak örökbe. Örökbefogadó az a huszonötödik életévét betöltött, cselekvőképes személy lehet, aki a gyermeknél legalább tizenhat évvel, legfeljebb negyvenöt évvel idősebb, és személyisége, körülményei alapján alkalmas a gyermek örökbefogadására. Három év feletti gyermek örökbefogadása iránti kérelem benyújtása esetén az örökbefogadás a gyermek érdekében abban az esetben is engedélyezhető, ha az örökbe fogadó szülő és a gyermek között legfeljebb ötven év a korkülönbség. Rokoni vagy házastársi örökbefogadás esetén a korkülönbségtől el kell tekinteni.”
+
+(2) A Ptk. 4:121. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Kivételesen – törvényben meghatározott, különös méltánylást érdemlő esetben és kormányrendeletben meghatározott eljárás lefolytatásával –, az ott szabályozott egyedül örökbe fogadni szándékozó személy örökbefogadásra való alkalmassága is megállapítható.”
 
 #### 23. Záró rendelkezések
 
